@@ -1,0 +1,117 @@
+from pathlib import Path
+
+import yaml
+
+from scripts.parser import parse_decklist
+from scripts.scryfall import ensure_card_file, slugify
+from scripts.similarity import card_weights, find_best_match
+from scripts.archetype_manager import (
+    list_archetypes,
+    compute_archetype_profile,
+    write_archetype,
+)
+from scripts.llm import create_archetype
+
+
+def ingest_list(
+    raw_text: str,
+    knowledge_dir: Path,
+    threshold: float = 0.6,
+) -> dict:
+    """Ingest a raw decklist into the knowledge base.
+
+    Returns dict with archetype slug, whether it's new, and the saved list path.
+    """
+    knowledge_dir = Path(knowledge_dir)
+    cards_dir = knowledge_dir / "cards"
+    archetypes_dir = knowledge_dir / "archetypes"
+    lists_dir = knowledge_dir / "lists"
+
+    parsed = parse_decklist(raw_text)
+    metadata = parsed["metadata"]
+
+    # Ensure card files exist for every card in the list
+    for card_name in parsed["all_card_names"]:
+        ensure_card_file(card_name, cards_dir)
+
+    # Build weight vector for this list
+    list_weights = card_weights(parsed["mainboard"], parsed["sideboard"])
+
+    # Compute profiles for all existing archetypes
+    archetypes = list_archetypes(archetypes_dir)
+    profiles = {}
+    for arch in archetypes:
+        profile = compute_archetype_profile(arch["slug"], lists_dir)
+        if profile:
+            profiles[arch["slug"]] = profile
+
+    # Find best match
+    match_slug, score = find_best_match(list_weights, profiles, threshold=threshold)
+    is_new = match_slug is None
+
+    if is_new:
+        # Derive colors from the cards in the list
+        colors = _derive_colors(parsed["mainboard"], cards_dir)
+        card_names = list(parsed["mainboard"].keys())
+        archetype_info = create_archetype(card_names, colors)
+        match_slug = archetype_info["slug"]
+        write_archetype(
+            archetypes_dir,
+            archetype_info["slug"],
+            archetype_info["name"],
+            colors,
+            archetype_info["description"],
+        )
+
+    # Save the list file with archetype assigned
+    metadata["archetype"] = match_slug
+    list_path = _save_list(raw_text, metadata, lists_dir)
+
+    return {
+        "archetype": match_slug,
+        "is_new_archetype": is_new,
+        "list_path": str(list_path),
+    }
+
+
+def _derive_colors(mainboard: dict[str, int], cards_dir: Path) -> list[str]:
+    """Read card files to determine deck colors from mainboard cards."""
+    colors = set()
+    for card_name in mainboard:
+        slug = slugify(card_name)
+        path = cards_dir / f"{slug}.md"
+        if path.exists():
+            text = path.read_text()
+            parts = text.split("---", 2)
+            if len(parts) >= 2:
+                fm = yaml.safe_load(parts[1]) or {}
+                for c in fm.get("colors", []):
+                    colors.add(c)
+    color_order = ["W", "U", "B", "R", "G"]
+    return [c for c in color_order if c in colors]
+
+
+def _save_list(raw_text: str, metadata: dict, lists_dir: Path) -> Path:
+    """Save the decklist with updated metadata to lists/."""
+    date = metadata.get("date", "unknown")
+    source = metadata.get("source", "unknown")
+    source_slug = slugify(source)
+
+    # Find a unique filename
+    base = f"{date}-{source_slug}"
+    path = lists_dir / f"{base}.md"
+    counter = 1
+    while path.exists():
+        counter += 1
+        path = lists_dir / f"{base}-{counter}.md"
+
+    # Rebuild the file with updated frontmatter
+    # Extract body (everything after frontmatter)
+    body = raw_text.strip()
+    if body.startswith("---"):
+        parts = body.split("---", 2)
+        body = parts[2] if len(parts) > 2 else ""
+
+    content = "---\n" + yaml.dump(metadata, default_flow_style=False) + "---\n" + body
+    path.write_text(content)
+    return path
