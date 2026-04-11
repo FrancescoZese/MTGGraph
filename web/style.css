@@ -1,0 +1,153 @@
+/* web/style.css */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: #0a0a0f;
+    color: #e0e0e0;
+    overflow: hidden;
+    height: 100vh;
+}
+
+#controls {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+    padding: 12px 20px;
+    background: rgba(10, 10, 15, 0.9);
+    border-bottom: 1px solid #222;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+
+#controls h1 {
+    font-size: 16px;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+#time-filter {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 13px;
+}
+
+#time-filter input {
+    background: #1a1a2e;
+    border: 1px solid #333;
+    color: #e0e0e0;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 13px;
+}
+
+#time-filter button {
+    background: #1a1a2e;
+    border: 1px solid #333;
+    color: #e0e0e0;
+    padding: 4px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+#time-filter button:hover { border-color: #666; }
+
+#graph-container {
+    width: 100vw;
+    height: 100vh;
+    padding-top: 50px;
+}
+
+#graph { width: 100%; height: 100%; }
+
+/* Detail panel */
+#detail-panel {
+    position: fixed;
+    top: 50px;
+    right: 0;
+    width: 360px;
+    height: calc(100vh - 50px);
+    background: rgba(15, 15, 25, 0.95);
+    border-left: 1px solid #222;
+    padding: 20px;
+    overflow-y: auto;
+    z-index: 20;
+    transition: transform 0.2s;
+}
+
+#detail-panel.hidden { transform: translateX(100%); }
+
+#close-panel {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    color: #888;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#detail-content h2 {
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+#detail-content .meta-share {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+
+#detail-content .card-list {
+    list-style: none;
+    padding: 0;
+}
+
+#detail-content .card-list li {
+    display: flex;
+    justify-content: space-between;
+    padding: 4px 0;
+    border-bottom: 1px solid #1a1a2e;
+    font-size: 13px;
+}
+
+#detail-content .card-list .weight {
+    color: #888;
+}
+
+/* Tooltip */
+#tooltip {
+    position: fixed;
+    background: rgba(20, 20, 35, 0.95);
+    border: 1px solid #333;
+    border-radius: 6px;
+    padding: 8px 12px;
+    font-size: 13px;
+    pointer-events: none;
+    z-index: 30;
+    max-width: 260px;
+}
+
+#tooltip.hidden { display: none; }
+
+#tooltip img {
+    width: 120px;
+    border-radius: 4px;
+    margin-top: 6px;
+}
+
+/* MTG color coding for nodes */
+.node-W { fill: #f9faf4; }
+.node-U { fill: #0e68ab; }
+.node-B { fill: #6b6b6b; }
+.node-R { fill: #d32029; }
+.node-G { fill: #00733e; }
+.node-multi { fill: #c8a84e; }
+.node-colorless { fill: #9e9e9e; }
+.node-archetype { fill: #7b2d8e; stroke: #a855f7; stroke-width: 2px; }

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MTG Modern Metagame Graph</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="controls">
+        <h1>Modern Metagame</h1>
+        <div id="time-filter">
+            <label for="date-from">From:</label>
+            <input type="month" id="date-from">
+            <label for="date-to">To:</label>
+            <input type="month" id="date-to">
+            <button id="apply-filter">Apply</button>
+            <button id="reset-filter">Reset</button>
+        </div>
+    </div>
+    <div id="graph-container">
+        <svg id="graph"></svg>
+    </div>
+    <div id="detail-panel" class="hidden">
+        <button id="close-panel">&times;</button>
+        <div id="detail-content"></div>
+    </div>
+    <div id="tooltip" class="hidden"></div>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="graph.js"></script>
+</body>
+</html>
