@@ -10,15 +10,20 @@ from scripts.archetype_manager import (
     compute_archetype_profile,
     write_archetype,
 )
-from scripts.llm import create_archetype
-
-
 def ingest_list(
     raw_text: str,
     knowledge_dir: Path,
     threshold: float = 0.6,
+    archetype_name: str | None = None,
+    archetype_slug: str | None = None,
+    archetype_description: str = "",
 ) -> dict:
     """Ingest a raw decklist into the knowledge base.
+
+    If the list doesn't match an existing archetype and archetype_name/slug
+    are provided, creates the archetype with those values. If not provided
+    and no match is found, returns with needs_archetype=True so the caller
+    can provide the name interactively.
 
     Returns dict with archetype slug, whether it's new, and the saved list path.
     """
@@ -29,6 +34,17 @@ def ingest_list(
 
     parsed = parse_decklist(raw_text)
     metadata = parsed["metadata"]
+
+    # Dedup check: skip if a list with same date+pilot+source already exists
+    duplicate = _find_duplicate(metadata, lists_dir)
+    if duplicate:
+        return {
+            "archetype": None,
+            "is_new_archetype": False,
+            "needs_archetype": False,
+            "duplicate_of": str(duplicate),
+            "list_path": None,
+        }
 
     # Ensure card files exist for every card in the list
     for card_name in parsed["all_card_names"]:
@@ -50,17 +66,27 @@ def ingest_list(
     is_new = match_slug is None
 
     if is_new:
-        # Derive colors from the cards in the list
+        if not archetype_name or not archetype_slug:
+            # Return early -- caller needs to provide archetype info
+            top_cards = sorted(parsed["mainboard"].items(), key=lambda x: -x[1])[:10]
+            colors = _derive_colors(parsed["mainboard"], cards_dir)
+            return {
+                "archetype": None,
+                "is_new_archetype": True,
+                "needs_archetype": True,
+                "top_cards": [f"{c}: {n}" for n, c in [(count, name) for name, count in top_cards]],
+                "colors": colors,
+                "list_path": None,
+            }
+
         colors = _derive_colors(parsed["mainboard"], cards_dir)
-        card_names = list(parsed["mainboard"].keys())
-        archetype_info = create_archetype(card_names, colors)
-        match_slug = archetype_info["slug"]
+        match_slug = archetype_slug
         write_archetype(
             archetypes_dir,
-            archetype_info["slug"],
-            archetype_info["name"],
+            archetype_slug,
+            archetype_name,
             colors,
-            archetype_info["description"],
+            archetype_description,
         )
 
     # Save the list file with archetype assigned
@@ -70,8 +96,28 @@ def ingest_list(
     return {
         "archetype": match_slug,
         "is_new_archetype": is_new,
+        "needs_archetype": False,
         "list_path": str(list_path),
     }
+
+
+def _find_duplicate(metadata: dict, lists_dir: Path) -> Path | None:
+    """Check if a list with the same date, pilot, and source already exists."""
+    date = str(metadata.get("date", ""))
+    pilot = str(metadata.get("pilot", ""))
+    source = str(metadata.get("source", ""))
+
+    for path in lists_dir.glob("*.md"):
+        text = path.read_text()
+        parts = text.split("---", 2)
+        if len(parts) < 2:
+            continue
+        fm = yaml.safe_load(parts[1]) or {}
+        if (str(fm.get("date", "")) == date
+                and str(fm.get("pilot", "")) == pilot
+                and str(fm.get("source", "")) == source):
+            return path
+    return None
 
 
 def _derive_colors(mainboard: dict[str, int], cards_dir: Path) -> list[str]:

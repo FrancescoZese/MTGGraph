@@ -1,0 +1,41 @@
+---
+cmc: 0
+colors: []
+image: https://cards.scryfall.io/normal/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg?1667318301
+name: Urza's Saga
+scryfall_id: c1e0f201-42cb-46a1-901a-65bb4fc18f6c
+set: mh2
+type: Enchantment Land — Urza's Saga
+meta_presence: 0.175
+archetypes:
+  amulet-titan:
+    weight: 1.0
+    avg_copies: 4.0
+  hardened-scales:
+    weight: 1.0
+    avg_copies: 4.0
+  affinity-aggro:
+    weight: 1.0
+    avg_copies: 3.93
+  hammer-time:
+    weight: 1.0
+    avg_copies: 4.0
+  legends-combo:
+    weight: 1.0
+    avg_copies: 3.0
+  eldrazi-ramp:
+    weight: 0.6
+    avg_copies: 4.0
+  affinity:
+    weight: 1.0
+    avg_copies: 3.5
+  jund-saga:
+    weight: 1.0
+    avg_copies: 4.0
+  lantern-control:
+    weight: 1.0
+    avg_copies: 4.0
+  sultai-artifacts:
+    weight: 1.0
+    avg_copies: 4.0
+---

@@ -1,0 +1,17 @@
+---
+cmc: 1
+colors: []
+image: https://cards.scryfall.io/normal/front/a/5/a54e8ce9-edd7-4ae7-9521-6fb6727cf63b.jpg?1601080529
+name: Aether Spellbomb
+scryfall_id: a54e8ce9-edd7-4ae7-9521-6fb6727cf63b
+set: jmp
+type: Artifact
+meta_presence: 0.0479
+archetypes:
+  affinity-aggro:
+    weight: 0.4444
+    avg_copies: 1.0
+  affinity:
+    weight: 0.5
+    avg_copies: 1.0
+---

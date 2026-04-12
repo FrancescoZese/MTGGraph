@@ -1,0 +1,7 @@
+pyproject.toml
+mtggraph.egg-info/PKG-INFO
+mtggraph.egg-info/SOURCES.txt
+mtggraph.egg-info/dependency_links.txt
+mtggraph.egg-info/requires.txt
+mtggraph.egg-info/top_level.txt
+scripts/__init__.py

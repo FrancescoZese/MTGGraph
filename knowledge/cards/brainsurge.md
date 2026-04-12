@@ -1,0 +1,18 @@
+---
+cmc: 3
+colors:
+- U
+image: https://cards.scryfall.io/normal/front/e/d/ed48f805-b57c-4d7f-a3c2-d16ae71bce2d.jpg?1717011631
+name: Brainsurge
+scryfall_id: ed48f805-b57c-4d7f-a3c2-d16ae71bce2d
+set: mh3
+type: Instant
+meta_presence: 0.0042
+archetypes:
+  neoform-combo:
+    weight: 0.1111
+    avg_copies: 1.0
+  indomitable-creativity:
+    weight: 0.3333
+    avg_copies: 1.0
+---

@@ -29,11 +29,41 @@ def cmd_ingest(args):
         sys.exit(1)
 
     threshold = 0.6
-    if "--threshold" in args:
-        idx = args.index("--threshold")
-        threshold = float(args[idx + 1])
+    arch_name = None
+    arch_slug = None
+    arch_desc = ""
 
-    result = ingest_list(raw_text, KNOWLEDGE_DIR, threshold=threshold)
+    def _get_flag(flag):
+        if flag in args:
+            idx = args.index(flag)
+            return args[idx + 1]
+        return None
+
+    threshold = float(_get_flag("--threshold") or 0.6)
+    arch_name = _get_flag("--name")
+    arch_slug = _get_flag("--slug")
+    arch_desc = _get_flag("--desc") or ""
+
+    result = ingest_list(
+        raw_text, KNOWLEDGE_DIR,
+        threshold=threshold,
+        archetype_name=arch_name,
+        archetype_slug=arch_slug,
+        archetype_description=arch_desc,
+    )
+
+    if result.get("duplicate_of"):
+        print(f"SKIPPED: duplicate of {result['duplicate_of']}")
+        sys.exit(0)
+
+    if result.get("needs_archetype"):
+        print("New archetype needed! Top cards:")
+        for card in result["top_cards"]:
+            print(f"  {card}")
+        print(f"Colors: {result['colors']}")
+        print("\nRe-run with --name 'Archetype Name' --slug archetype-slug --desc 'Description'")
+        sys.exit(0)
+
     status = "NEW archetype" if result["is_new_archetype"] else "matched"
     print(f"Archetype: {result['archetype']} ({status})")
     print(f"List saved: {result['list_path']}")
@@ -55,7 +85,7 @@ def cmd_serve(args):
     if args:
         port = int(args[0])
 
-    handler = functools.partial(http.server.SimpleHTTPRequestHandler, directory=str(WEB_DIR))
+    handler = functools.partial(http.server.SimpleHTTPRequestHandler, directory=str(ROOT))
     server = http.server.HTTPServer(("", port), handler)
     print(f"Serving at http://localhost:{port}")
     server.serve_forever()

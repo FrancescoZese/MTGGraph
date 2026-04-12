@@ -13,11 +13,19 @@ def slugify(name: str) -> str:
     return slug
 
 
-def fetch_card(name: str) -> dict:
+def fetch_card(name: str, max_retries: int = 5) -> dict:
     """Fetch card data from Scryfall API by exact name."""
     url = "https://api.scryfall.com/cards/named"
-    response = requests.get(url, params={"exact": name})
-    time.sleep(0.1)
+    for attempt in range(max_retries):
+        response = requests.get(url, params={"exact": name})
+        if response.status_code == 429:
+            wait = 5.0 * (attempt + 1)
+            print(f"  Rate limited on {name}, waiting {wait}s... (attempt {attempt+1}/{max_retries})")
+            time.sleep(wait)
+            continue
+        time.sleep(0.25)
+        response.raise_for_status()
+        return response.json()
     response.raise_for_status()
     return response.json()
 
@@ -52,7 +60,25 @@ def ensure_card_file(card_name: str, cards_dir) -> None:
     if path.exists():
         return
 
-    data = fetch_card(card_name)
+    try:
+        data = fetch_card(card_name)
+    except requests.exceptions.HTTPError as e:
+        if e.response is not None and e.response.status_code == 404:
+            print(f"  WARNING: card not found on Scryfall: {card_name}")
+            frontmatter = {
+                "name": card_name,
+                "colors": [],
+                "cmc": 0,
+                "type": "Unknown",
+                "set": "",
+                "image": "",
+                "scryfall_id": "",
+            }
+            content = "---\n" + yaml.dump(frontmatter, default_flow_style=False, allow_unicode=True) + "---\n"
+            path.write_text(content)
+            return
+        raise
+
     frontmatter = build_card_frontmatter(data)
 
     content = "---\n" + yaml.dump(frontmatter, default_flow_style=False, allow_unicode=True) + "---\n"

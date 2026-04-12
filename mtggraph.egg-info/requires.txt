@@ -1,0 +1,6 @@
+pyyaml>=6.0
+requests>=2.31
+anthropic>=0.49
+
+[dev]
+pytest>=8.0

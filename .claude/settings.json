@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(source .venv/bin/activate*)",
+      "Bash(python -m scripts*)",
+      "Bash(python -m scripts.fetch_tournament*)",
+      "Bash(python -m scripts.batch_ingest*)",
+      "Bash(python -m scripts.update_meta*)",
+      "Bash(python -c *)",
+      "Bash(lsof -ti:8080*)",
+      "Bash(kill *)",
+      "Bash(open http://localhost*)",
+      "Bash(ls *)",
+      "Bash(cat *)",
+      "Bash(wc *)"
+    ]
+  }
+}

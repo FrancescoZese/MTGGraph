@@ -1,0 +1,14 @@
+---
+cmc: 0
+colors: []
+image: ''
+name: Kraza, the Swarm as One
+scryfall_id: ''
+set: ''
+type: Unknown
+meta_presence: 0.0021
+archetypes:
+  gruul-belcher:
+    weight: 0.5
+    avg_copies: 2.0
+---

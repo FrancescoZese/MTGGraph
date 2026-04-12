@@ -1,0 +1,53 @@
+---
+cmc: 0
+colors: []
+image: https://cards.scryfall.io/normal/front/5/b/5b8170dc-6a90-46fc-9989-7575f3d402b5.jpg?1752947617
+name: Watery Grave
+scryfall_id: 5b8170dc-6a90-46fc-9989-7575f3d402b5
+set: eoe
+type: Land — Island Swamp
+meta_presence: 0.1812
+archetypes:
+  dimir-control:
+    weight: 1.0
+    avg_copies: 2.78
+  dimir-frog:
+    weight: 1.0
+    avg_copies: 2.78
+  goryo-reanimator:
+    weight: 1.0
+    avg_copies: 1.0
+  necrodominance:
+    weight: 0.1429
+    avg_copies: 3.0
+  azorius-control:
+    weight: 0.1429
+    avg_copies: 1.0
+  living-end:
+    weight: 0.6667
+    avg_copies: 1.17
+  mill:
+    weight: 1.0
+    avg_copies: 1.33
+  reanimator:
+    weight: 1.0
+    avg_copies: 1.92
+  legends-combo:
+    weight: 1.0
+    avg_copies: 1.0
+  temur-cascade:
+    weight: 0.75
+    avg_copies: 1.0
+  esper-blink:
+    weight: 1.0
+    avg_copies: 1.0
+  sultai-frog:
+    weight: 1.0
+    avg_copies: 1.0
+  esper-control:
+    weight: 1.0
+    avg_copies: 2.0
+  four-color-shadow:
+    weight: 1.0
+    avg_copies: 2.0
+---

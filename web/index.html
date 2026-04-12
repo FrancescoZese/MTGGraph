@@ -3,29 +3,58 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MTG Modern Metagame Graph</title>
+    <title>Modern Metagame</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Nunito+Sans:opsz,wght@6..12,300;6..12,400;6..12,600;6..12,700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div id="controls">
-        <h1>Modern Metagame</h1>
-        <div id="time-filter">
-            <label for="date-from">From:</label>
-            <input type="month" id="date-from">
-            <label for="date-to">To:</label>
-            <input type="month" id="date-to">
-            <button id="apply-filter">Apply</button>
-            <button id="reset-filter">Reset</button>
+    <header id="masthead">
+        <div class="masthead-left">
+            <h1>Modern<br>Metagame</h1>
         </div>
-    </div>
+        <div class="masthead-right">
+            <div class="filter-block">
+                <label class="filter-label" for="meta-threshold">Min meta</label>
+                <input type="range" id="meta-threshold" min="0" max="10" step="0.5" value="0">
+                <span class="filter-value" id="threshold-value">0%</span>
+            </div>
+            <div class="source-filters">
+                <label class="source-check"><input type="checkbox" id="filter-challenge" checked> Challenges</label>
+                <label class="source-check"><input type="checkbox" id="filter-league" checked> Leagues</label>
+            </div>
+            <div class="masthead-divider"></div>
+            <div class="stat-block">
+                <span class="stat-label">Archetypes</span>
+                <span class="stat-value" id="stat-archetypes">--</span>
+            </div>
+            <div class="stat-block">
+                <span class="stat-label">Cards</span>
+                <span class="stat-value" id="stat-cards">--</span>
+            </div>
+            <div class="stat-block">
+                <span class="stat-label">Lists</span>
+                <span class="stat-value" id="stat-lists">--</span>
+            </div>
+            <div class="stat-block">
+                <span class="stat-label">Period</span>
+                <span class="stat-value" id="stat-period">--</span>
+            </div>
+        </div>
+    </header>
+
     <div id="graph-container">
         <svg id="graph"></svg>
     </div>
+
     <div id="detail-panel" class="hidden">
-        <button id="close-panel">&times;</button>
+        <button id="close-panel" aria-label="Close">&times;</button>
         <div id="detail-content"></div>
     </div>
+
     <div id="tooltip" class="hidden"></div>
+
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="graph.js"></script>
 </body>

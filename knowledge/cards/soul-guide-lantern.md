@@ -1,0 +1,47 @@
+---
+cmc: 1
+colors: []
+image: https://cards.scryfall.io/normal/front/f/4/f4907e7b-d6d5-4e9b-968f-bce34ae4a577.jpg?1752945184
+name: Soul-Guide Lantern
+scryfall_id: f4907e7b-d6d5-4e9b-968f-bce34ae4a577
+set: eoc
+type: Artifact
+meta_presence: 0.075
+archetypes:
+  boros-energy:
+    weight: 0.0818
+    avg_copies: 1.0
+  jeskai-energy:
+    weight: 0.0714
+    avg_copies: 1.5
+  amulet-titan:
+    weight: 0.1
+    avg_copies: 1.0
+  azorius-control:
+    weight: 0.0714
+    avg_copies: 1.0
+  mill:
+    weight: 1.0
+    avg_copies: 2.67
+  boros-taxes:
+    weight: 0.6667
+    avg_copies: 2.0
+  eldrazi-ramp:
+    weight: 0.6
+    avg_copies: 1.0
+  izzet-prowess:
+    weight: 0.25
+    avg_copies: 1.33
+  hollow-one:
+    weight: 0.2
+    avg_copies: 1.0
+  affinity:
+    weight: 0.5
+    avg_copies: 1.0
+  jund-saga:
+    weight: 1.0
+    avg_copies: 1.0
+  sultai-artifacts:
+    weight: 1.0
+    avg_copies: 1.0
+---

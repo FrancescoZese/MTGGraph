@@ -1,0 +1,15 @@
+---
+cmc: 1
+colors:
+- G
+image: https://cards.scryfall.io/normal/front/5/e/5ea568df-04a1-4012-98ec-ba75e189e0ca.jpg?1702429591
+name: Utopia Sprawl
+scryfall_id: 5ea568df-04a1-4012-98ec-ba75e189e0ca
+set: rvr
+type: Enchantment — Aura
+meta_presence: 0.0083
+archetypes:
+  eldrazi-ramp:
+    weight: 0.4
+    avg_copies: 4.0
+---

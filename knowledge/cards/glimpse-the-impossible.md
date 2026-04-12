@@ -1,0 +1,15 @@
+---
+cmc: 3
+colors:
+- R
+image: https://cards.scryfall.io/normal/front/1/3/133ad0dd-5b61-4c38-9264-0b0e75b95d95.jpg?1717012201
+name: Glimpse the Impossible
+scryfall_id: 133ad0dd-5b61-4c38-9264-0b0e75b95d95
+set: mh3
+type: Sorcery
+meta_presence: 0.025
+archetypes:
+  ruby-storm:
+    weight: 1.0
+    avg_copies: 2.08
+---
