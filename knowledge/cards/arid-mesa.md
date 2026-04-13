@@ -6,23 +6,23 @@ name: Arid Mesa
 scryfall_id: 25ac5405-df7b-4097-914a-022cb18e20d4
 set: mh2
 type: Land
-meta_presence: 0.4792
+meta_presence: 0.4596
 archetypes:
   ruby-storm:
     weight: 0.9167
     avg_copies: 2.91
   boros-energy:
     weight: 1.0
-    avg_copies: 3.81
+    avg_copies: 3.83
   jeskai-energy:
-    weight: 0.9821
-    avg_copies: 3.78
+    weight: 0.9836
+    avg_copies: 3.75
   azorius-control:
     weight: 0.8571
     avg_copies: 2.92
   domain-zoo:
     weight: 1.0
-    avg_copies: 3.95
+    avg_copies: 3.96
   burn:
     weight: 1.0
     avg_copies: 2.0
@@ -36,12 +36,18 @@ archetypes:
     weight: 0.8333
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.6154
-    avg_copies: 2.38
+    weight: 0.6667
+    avg_copies: 2.42
   indomitable-creativity:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.67
   orzhov-blink:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 2.33
+  dredge:
+    weight: 0.6667
+    avg_copies: 2.5
+  azorius-blink:
+    weight: 1.0
+    avg_copies: 1.5
 ---

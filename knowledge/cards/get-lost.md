@@ -7,7 +7,7 @@ name: Get Lost
 scryfall_id: 522aa72b-2b8c-484c-872b-f082101cee35
 set: lci
 type: Instant
-meta_presence: 0.0021
+meta_presence: 0.0017
 archetypes:
   azorius-control:
     weight: 0.0714

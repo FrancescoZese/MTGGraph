@@ -334,6 +334,8 @@ body {
     box-shadow: -8px 0 32px rgba(42,37,32,.06);
 }
 
+#panel-swipe-handle { display: none; }
+
 #close-panel {
     position: absolute;
     top: 16px; right: 20px;
@@ -815,14 +817,27 @@ body {
         border-top: 1px solid var(--border);
         border-radius: 16px 16px 0 0;
         box-shadow: 0 -8px 32px rgba(42,37,32,.1);
-        padding: 12px 20px 24px;
+        padding: 4px 20px 24px;
         transform: translateY(100%);
-        touch-action: pan-y;
-        -webkit-overflow-scrolling: touch;
+    }
+
+    #panel-swipe-handle {
+        display: flex;
+        justify-content: center;
+        padding: 8px 0 6px;
+        cursor: grab;
+        touch-action: none;
+    }
+
+    #panel-swipe-handle .handle-bar {
+        width: 36px;
+        height: 4px;
+        background: var(--border);
+        border-radius: 2px;
     }
 
     #detail-panel #close-panel {
-        top: 8px;
+        top: 4px;
         right: 12px;
     }
 
@@ -832,6 +847,30 @@ body {
 
     /* Tooltip stays for tap-preview on mobile (just hidden by default via autoAlpha) */
 }
+
+/* ---- Disclaimer ---- */
+
+#disclaimer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 2;
+    padding: 6px 20px;
+    font-size: 9px;
+    color: var(--ink-faint);
+    text-align: center;
+    pointer-events: none;
+    background: linear-gradient(to top, var(--bg) 40%, transparent);
+}
+
+#disclaimer a {
+    color: var(--ink-light);
+    text-decoration: none;
+    pointer-events: auto;
+}
+
+#disclaimer a:hover { text-decoration: underline; }
 
 /* ---- Scrollbar ---- */
 

@@ -7,9 +7,9 @@ name: Mutagenic Growth
 scryfall_id: 2e0861a2-1858-47af-8154-20a977c2b298
 set: mm2
 type: Instant
-meta_presence: 0.0229
+meta_presence: 0.0241
 archetypes:
   izzet-prowess:
-    weight: 0.8462
-    avg_copies: 2.82
+    weight: 0.7778
+    avg_copies: 3.0
 ---

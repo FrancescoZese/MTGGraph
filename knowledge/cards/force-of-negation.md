@@ -7,44 +7,47 @@ name: Force of Negation
 scryfall_id: 1825a719-1b2a-4af9-9cd2-7cb497cd0317
 set: 2x2
 type: Instant
-meta_presence: 0.2771
+meta_presence: 0.2719
 archetypes:
   dimir-control:
-    weight: 0.9444
-    avg_copies: 1.35
+    weight: 0.9474
+    avg_copies: 1.42
   dimir-frog:
     weight: 1.0
-    avg_copies: 1.75
+    avg_copies: 1.69
   mono-blue-belcher:
-    weight: 1.0
-    avg_copies: 1.6
+    weight: 0.9375
+    avg_copies: 1.56
   jeskai-energy:
-    weight: 0.1607
+    weight: 0.1803
     avg_copies: 1.0
   goryo-reanimator:
     weight: 1.0
-    avg_copies: 1.96
+    avg_copies: 1.97
   azorius-control:
     weight: 0.5714
     avg_copies: 1.22
   living-end:
     weight: 1.0
-    avg_copies: 3.89
+    avg_copies: 3.82
   affinity:
-    weight: 0.6275
-    avg_copies: 1.78
+    weight: 0.6129
+    avg_copies: 1.79
   mono-blue-tron:
     weight: 1.0
     avg_copies: 3.0
   simic-ritual:
     weight: 1.0
-    avg_copies: 2.2
+    avg_copies: 2.29
   izzet-prowess:
-    weight: 0.0769
+    weight: 0.1111
     avg_copies: 2.0
-  birthing-ritual:
+  4c-omnath:
     weight: 1.0
     avg_copies: 1.5
+  esper-blink:
+    weight: 0.1429
+    avg_copies: 4.0
   sultai-reanimator:
     weight: 1.0
     avg_copies: 2.0

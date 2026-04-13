@@ -7,9 +7,9 @@ name: Dosan the Falling Leaf
 scryfall_id: ffb190db-48fc-4c39-ae9f-5e304eabb4f4
 set: chk
 type: Legendary Creature — Human Monk
-meta_presence: 0.0021
+meta_presence: 0.0017
 archetypes:
   amulet-titan:
-    weight: 0.05
+    weight: 0.04
     avg_copies: 1.0
 ---

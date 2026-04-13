@@ -48,7 +48,10 @@ def ingest_list(
 
     # Ensure card files exist for every card in the list
     for card_name in parsed["all_card_names"]:
-        ensure_card_file(card_name, cards_dir)
+        try:
+            ensure_card_file(card_name, cards_dir)
+        except Exception as e:
+            print(f"  WARNING: failed to fetch card '{card_name}': {e}")
 
     # Build weight vector for this list
     list_weights = card_weights(parsed["mainboard"], parsed["sideboard"])

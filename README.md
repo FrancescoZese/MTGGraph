@@ -55,3 +55,7 @@ python -m scripts compute
 python -m scripts serve
 # Open http://localhost:8080/web/index.html
 ```
+
+## Disclaimer
+
+This website is not produced, endorsed, supported, or affiliated with Wizards of the Coast. Magic: The Gathering is a trademark of Wizards of the Coast LLC. Card images courtesy of [Scryfall](https://scryfall.com/). Tournament data from [MTGO](https://www.mtgo.com/decklists).

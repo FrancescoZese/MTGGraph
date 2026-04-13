@@ -7,7 +7,7 @@ name: Living End
 scryfall_id: b1eede29-17a4-437f-a5c2-e24cccbc6a33
 set: tsr
 type: Sorcery
-meta_presence: 0.0187
+meta_presence: 0.0189
 archetypes:
   living-end:
     weight: 1.0

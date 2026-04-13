@@ -6,7 +6,7 @@ name: Rush of Inspiration // Crackling Falls
 scryfall_id: 70a25a3a-c12a-49d3-8a91-a108dfa9d3c5
 set: mh3
 type: Instant // Land
-meta_presence: 0.0021
+meta_presence: 0.0017
 archetypes:
   ruby-storm:
     weight: 0.0833

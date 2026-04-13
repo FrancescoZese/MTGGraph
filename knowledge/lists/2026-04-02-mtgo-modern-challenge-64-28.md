@@ -1,5 +1,5 @@
 ---
-archetype: birthing-ritual
+archetype: 4c-omnath
 date: '2026-04-02'
 finish: 24th
 pilot: BunkerBuster04

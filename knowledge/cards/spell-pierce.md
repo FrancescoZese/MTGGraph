@@ -7,18 +7,21 @@ name: Spell Pierce
 scryfall_id: 8dd4374f-0301-4b2e-bc99-2cd19568cb3b
 set: dft
 type: Instant
-meta_presence: 0.0813
+meta_presence: 0.0809
 archetypes:
   dimir-control:
-    weight: 0.6667
+    weight: 0.6316
     avg_copies: 1.0
   mono-blue-belcher:
-    weight: 0.3077
+    weight: 0.3125
     avg_copies: 1.0
   grixis-reanimator:
-    weight: 1.0
-    avg_copies: 1.85
+    weight: 0.9375
+    avg_copies: 1.8
   izzet-prowess:
-    weight: 0.7692
-    avg_copies: 1.7
+    weight: 0.7778
+    avg_copies: 1.64
+  indomitable-creativity:
+    weight: 0.1667
+    avg_copies: 1.5
 ---

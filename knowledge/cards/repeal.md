@@ -7,9 +7,12 @@ name: Repeal
 scryfall_id: 265b80cd-2e9c-4e4b-a065-eafb29b3e07a
 set: clu
 type: Instant
-meta_presence: 0.0062
+meta_presence: 0.0069
 archetypes:
   affinity:
-    weight: 0.0588
+    weight: 0.0484
+    avg_copies: 1.0
+  sultai-artifacts:
+    weight: 0.25
     avg_copies: 1.0
 ---

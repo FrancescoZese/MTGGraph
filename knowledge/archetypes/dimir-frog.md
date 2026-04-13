@@ -3,176 +3,191 @@ colors:
 - U
 - B
 name: Dimir Frog
-meta_share: 0.0187
-list_count: 9
+meta_share: 0.0172
+list_count: 10
 top_cards:
 - name: Polluted Delta
   weight: 1.0
-  avg_copies: 3.89
+  avg_copies: 3.9
 - name: Fatal Push
   weight: 1.0
-  avg_copies: 3.56
+  avg_copies: 3.6
 - name: Psychic Frog
   weight: 1.0
-  avg_copies: 3.56
+  avg_copies: 3.6
 - name: Counterspell
   weight: 1.0
-  avg_copies: 3.44
+  avg_copies: 3.5
 - name: Consign to Memory
   weight: 1.0
-  avg_copies: 3.22
+  avg_copies: 3.3
 - name: Orcish Bowmasters
   weight: 1.0
-  avg_copies: 3.22
+  avg_copies: 3.2
 - name: Subtlety
   weight: 1.0
-  avg_copies: 3.11
+  avg_copies: 3.1
 - name: Watery Grave
   weight: 1.0
-  avg_copies: 2.78
+  avg_copies: 2.8
 - name: Spell Snare
   weight: 1.0
-  avg_copies: 2.44
+  avg_copies: 2.4
 - name: Island
   weight: 1.0
-  avg_copies: 2.11
+  avg_copies: 2.1
 - name: Mystical Dispute
   weight: 1.0
-  avg_copies: 2.11
+  avg_copies: 2.1
 - name: Undercity Sewers
   weight: 1.0
-  avg_copies: 1.89
+  avg_copies: 1.8
 - name: Force of Negation
   weight: 1.0
-  avg_copies: 1.75
+  avg_copies: 1.69
 - name: Swamp
   weight: 1.0
-  avg_copies: 1.22
+  avg_copies: 1.2
 - name: Thoughtseize
-  weight: 0.8889
-  avg_copies: 3.38
+  weight: 0.9
+  avg_copies: 3.22
 - name: Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
-  weight: 0.8889
+  weight: 0.8
   avg_copies: 2.38
 - name: Toxic Deluge
-  weight: 0.8889
+  weight: 0.8
   avg_copies: 1.5
-- name: Kaito, Bane of Nightmares
-  weight: 0.7778
-  avg_copies: 1.4
 - name: Quantum Riddler
-  weight: 0.6667
-  avg_copies: 2.83
-- name: Harbinger of the Seas
-  weight: 0.6667
-  avg_copies: 2.33
-- name: Cling to Dust
-  weight: 0.6667
-  avg_copies: 1.83
+  weight: 0.7
+  avg_copies: 2.57
 - name: Sink into Stupor // Soporific Springs
-  weight: 0.6667
-  avg_copies: 1.83
+  weight: 0.7
+  avg_copies: 1.86
+- name: Cling to Dust
+  weight: 0.7
+  avg_copies: 1.71
+- name: Ghost Vacuum
+  weight: 0.7
+  avg_copies: 1.57
+- name: Sheoldred's Edict
+  weight: 0.7
+  avg_copies: 1.44
+- name: Kaito, Bane of Nightmares
+  weight: 0.7
+  avg_copies: 1.4
+- name: Misty Rainforest
+  weight: 0.6
+  avg_copies: 3.0
+- name: Harbinger of the Seas
+  weight: 0.6
+  avg_copies: 2.33
 - name: Flooded Strand
-  weight: 0.6667
+  weight: 0.6
   avg_copies: 1.83
 - name: Darkslick Shores
-  weight: 0.6667
-  avg_copies: 1.67
-- name: Ghost Vacuum
-  weight: 0.6667
+  weight: 0.6
   avg_copies: 1.67
 - name: Engineered Explosives
-  weight: 0.6667
+  weight: 0.6
   avg_copies: 1.5
 - name: Marsh Flats
-  weight: 0.6667
+  weight: 0.6
   avg_copies: 1.5
-- name: Sheoldred's Edict
-  weight: 0.6667
-  avg_copies: 1.38
-- name: Otawara, Soaring City
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Misty Rainforest
-  weight: 0.5556
-  avg_copies: 2.8
-- name: Wan Shi Tong, Librarian
-  weight: 0.5556
-  avg_copies: 2.0
 - name: Stern Scolding
-  weight: 0.5556
+  weight: 0.6
   avg_copies: 1.0
+- name: Otawara, Soaring City
+  weight: 0.6
+  avg_copies: 1.0
+- name: Wan Shi Tong, Librarian
+  weight: 0.5
+  avg_copies: 2.0
 - name: Nihil Spellbomb
-  weight: 0.4444
+  weight: 0.4
   avg_copies: 1.0
+- name: Break the Ice
+  weight: 0.3
+  avg_copies: 2.67
 - name: Snapcaster Mage
-  weight: 0.3333
+  weight: 0.3
   avg_copies: 1.67
 - name: Drown in the Loch
-  weight: 0.3333
+  weight: 0.3
   avg_copies: 1.67
-- name: Graveyard Trespasser // Graveyard Glutton
-  weight: 0.3333
-  avg_copies: 1.33
-- name: Break the Ice
-  weight: 0.2222
-  avg_copies: 3.0
-- name: Preordain
-  weight: 0.2222
-  avg_copies: 2.0
 - name: Murktide Regent
-  weight: 0.2222
-  avg_copies: 1.0
-- name: Strategic Betrayal
-  weight: 0.2222
-  avg_copies: 1.0
-- name: Damping Sphere
-  weight: 0.2222
-  avg_copies: 1.0
+  weight: 0.3
+  avg_copies: 1.33
+- name: Graveyard Trespasser // Graveyard Glutton
+  weight: 0.3
+  avg_copies: 1.33
 - name: Scalding Tarn
-  weight: 0.2222
-  avg_copies: 1.0
-- name: Shoot the Sheriff
-  weight: 0.2222
-  avg_copies: 1.0
-- name: Field of Ruin
-  weight: 0.2222
-  avg_copies: 1.0
-- name: Mishra's Bauble
-  weight: 0.1111
-  avg_copies: 4.0
-- name: Moonshadow
-  weight: 0.1111
-  avg_copies: 4.0
-- name: Bloodstained Mire
-  weight: 0.1111
-  avg_copies: 3.0
-- name: Dress Down
-  weight: 0.1111
-  avg_copies: 3.0
-- name: Strix Serenade
-  weight: 0.1111
-  avg_copies: 2.0
-- name: Archmage's Charm
-  weight: 0.1111
+  weight: 0.3
+  avg_copies: 1.33
+- name: Preordain
+  weight: 0.2
   avg_copies: 2.0
 - name: Pest Control
-  weight: 0.1111
+  weight: 0.2
   avg_copies: 1.5
-- name: Celestial Purge
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 0.1111
-  avg_copies: 1.0
-- name: High Noon
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Gloomlake Verge
-  weight: 0.1111
+- name: Damping Sphere
+  weight: 0.2
   avg_copies: 1.0
 - name: Meticulous Archive
-  weight: 0.1111
+  weight: 0.2
+  avg_copies: 1.0
+- name: Field of Ruin
+  weight: 0.2
+  avg_copies: 1.0
+- name: Strategic Betrayal
+  weight: 0.2
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 0.2
+  avg_copies: 1.0
+- name: Shoot the Sheriff
+  weight: 0.2
+  avg_copies: 1.0
+- name: Mishra's Bauble
+  weight: 0.1
+  avg_copies: 4.0
+- name: Moonshadow
+  weight: 0.1
+  avg_copies: 4.0
+- name: Bloodstained Mire
+  weight: 0.1
+  avg_copies: 3.0
+- name: Dress Down
+  weight: 0.1
+  avg_copies: 3.0
+- name: Strix Serenade
+  weight: 0.1
+  avg_copies: 2.0
+- name: Consult the Star Charts
+  weight: 0.1
+  avg_copies: 2.0
+- name: Archmage's Charm
+  weight: 0.1
+  avg_copies: 2.0
+- name: Thraben Charm
+  weight: 0.1
+  avg_copies: 2.0
+- name: Gloomlake Verge
+  weight: 0.1
+  avg_copies: 1.0
+- name: Celestial Purge
+  weight: 0.1
+  avg_copies: 1.0
+- name: Teferi, Time Raveler
+  weight: 0.1
+  avg_copies: 1.0
+- name: Prismatic Ending
+  weight: 0.1
+  avg_copies: 1.0
+- name: High Noon
+  weight: 0.1
+  avg_copies: 1.0
+- name: Vanishing Verse
+  weight: 0.1
   avg_copies: 1.0
 ---
 Tempo-control deck built around Psychic Frog as a resilient threat, backed by Counterspell, Thoughtseize, and Subtlety for disruption.

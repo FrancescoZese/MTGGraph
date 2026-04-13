@@ -9,9 +9,9 @@ name: Ureni, the Song Unending
 scryfall_id: 227802c0-4ff6-43a8-a850-ed0f546dc5ac
 set: tdm
 type: Legendary Creature — Spirit Dragon
-meta_presence: 0.0167
+meta_presence: 0.0172
 archetypes:
   neoform-combo:
-    weight: 0.8889
+    weight: 0.9091
     avg_copies: 1.0
 ---

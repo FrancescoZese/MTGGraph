@@ -1,0 +1,37 @@
+---
+archetype: boros-ponza
+date: '2026-04-11'
+finish: 5-0
+pilot: 3HDgamers
+source: MTGO Modern League
+---
+
+
+# Mainboard
+3 Soul Partition
+4 Path to Exile
+2 Orim's Chant
+4 White Orchid Phantom
+4 Wrath of the Skies
+4 Galvanic Discharge
+2 Phlage, Titan of Fire's Fury
+4 Demolition Field
+4 Cori Mountain Monastery
+4 Sacred Foundry
+2 Sunken Citadel
+4 Price of Freedom
+2 Settle the Wreckage
+5 Plains
+1 Mountain
+4 Cleansing Wildfire
+3 Solitude
+4 Field of Ruin
+
+# Sideboard
+2 Vexing Bauble
+3 Rest in Peace
+2 The Legend of Roku
+2 Orim's Chant
+2 Celestial Purge
+2 Wear/Tear
+2 Kataki, War's Wage

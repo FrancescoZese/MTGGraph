@@ -7,9 +7,9 @@ name: Alpine Moon
 scryfall_id: 2435c810-2baf-4e3b-80ce-542b94694901
 set: m19
 type: Enchantment
-meta_presence: 0.0021
+meta_presence: 0.0017
 archetypes:
   izzet-prowess:
-    weight: 0.0769
+    weight: 0.0556
     avg_copies: 2.0
 ---

@@ -6,9 +6,9 @@ name: Castle Locthwain
 scryfall_id: 19336e3a-2242-4a30-a563-32f2e4fc18e9
 set: clb
 type: Land
-meta_presence: 0.0146
+meta_presence: 0.0207
 archetypes:
   necrodominance:
-    weight: 1.0
-    avg_copies: 3.57
+    weight: 0.9231
+    avg_copies: 3.5
 ---

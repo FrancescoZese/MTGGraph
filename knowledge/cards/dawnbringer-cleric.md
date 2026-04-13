@@ -7,9 +7,12 @@ name: Dawnbringer Cleric
 scryfall_id: 201f06ef-c180-4ce3-afaf-bec3b14c0222
 set: clb
 type: Creature — Human Cleric
-meta_presence: 0.0021
+meta_presence: 0.0052
 archetypes:
   orzhov-blink:
-    weight: 0.5
+    weight: 0.6667
     avg_copies: 2.0
+  samwise-combo:
+    weight: 0.5
+    avg_copies: 1.0
 ---

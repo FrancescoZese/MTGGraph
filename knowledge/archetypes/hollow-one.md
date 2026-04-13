@@ -3,25 +3,25 @@ colors:
 - B
 - R
 name: Hollow One
-meta_share: 0.0125
+meta_share: 0.0103
 list_count: 6
 top_cards:
-- name: Hollow One
+- name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
 - name: Burning Inquiry
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
-- name: Moonshadow
+- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
 - name: Detective's Phoenix
   weight: 1.0
   avg_copies: 4.0
-- name: Street Wraith
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Bloodstained Mire
@@ -48,10 +48,10 @@ top_cards:
 - name: Lightning Bolt
   weight: 0.8333
   avg_copies: 2.2
-- name: Fatal Push
+- name: Wooded Foothills
   weight: 0.8333
   avg_copies: 2.2
-- name: Wooded Foothills
+- name: Fatal Push
   weight: 0.8333
   avg_copies: 2.2
 - name: Vexing Bauble
@@ -84,10 +84,10 @@ top_cards:
 - name: Tarfire
   weight: 0.5
   avg_copies: 2.0
-- name: Murderous Cut
+- name: Illness in the Ranks
   weight: 0.5
   avg_copies: 1.0
-- name: Illness in the Ranks
+- name: Murderous Cut
   weight: 0.5
   avg_copies: 1.0
 - name: Marauding Mako
@@ -114,18 +114,6 @@ top_cards:
 - name: Vengevine
   weight: 0.1667
   avg_copies: 4.0
-- name: Fear of Missing Out
-  weight: 0.1667
-  avg_copies: 2.0
-- name: Stomping Ground
-  weight: 0.1667
-  avg_copies: 2.0
-- name: Sheoldred's Edict
-  weight: 0.1667
-  avg_copies: 2.0
-- name: Magebane Lizard
-  weight: 0.1667
-  avg_copies: 2.0
 - name: Goblin Lore
   weight: 0.1667
   avg_copies: 2.0
@@ -135,22 +123,34 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.1667
   avg_copies: 2.0
+- name: Magebane Lizard
+  weight: 0.1667
+  avg_copies: 2.0
 - name: Marsh Flats
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Fear of Missing Out
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Stomping Ground
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Sheoldred's Edict
   weight: 0.1667
   avg_copies: 2.0
 - name: Rough // Tumble
   weight: 0.1667
   avg_copies: 2.0
-- name: Polluted Delta
+- name: Ox of Agonas
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
   weight: 0.1667
   avg_copies: 1.0
 - name: Overlord of the Balemurk
   weight: 0.1667
   avg_copies: 1.0
-- name: Ox of Agonas
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Polluted Delta
   weight: 0.1667
   avg_copies: 1.0
 ---

@@ -7,7 +7,7 @@ name: Archive Trap
 scryfall_id: 67bb2ca9-32b8-442d-b6a0-d624a87f5af8
 set: zen
 type: Instant — Trap
-meta_presence: 0.0063
+meta_presence: 0.0069
 archetypes:
   mill:
     weight: 1.0

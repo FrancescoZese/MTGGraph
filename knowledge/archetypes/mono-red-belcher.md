@@ -3,19 +3,10 @@ colors:
 - R
 - G
 name: Mono Red Belcher
-meta_share: 0.0042
+meta_share: 0.0034
 list_count: 2
 top_cards:
-- name: Spikefield Hazard // Spikefield Cave
-  weight: 1.0
-  avg_copies: 4.0
-- name: Shatterskull Smashing // Shatterskull, the Hammer Pass
-  weight: 1.0
-  avg_copies: 4.0
-- name: Stormscale Scion
-  weight: 1.0
-  avg_copies: 4.0
-- name: Desperate Ritual
+- name: Pyretic Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Manamorphose
@@ -24,25 +15,34 @@ top_cards:
 - name: Pinnacle Monk // Mystic Peak
   weight: 1.0
   avg_copies: 4.0
-- name: Ruby Medallion
+- name: Irencrag Feat
   weight: 1.0
   avg_copies: 4.0
-- name: Pyretic Ritual
-  weight: 1.0
-  avg_copies: 4.0
-- name: Bitter Reunion
+- name: Desperate Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Strike It Rich
   weight: 1.0
   avg_copies: 4.0
-- name: Irencrag Feat
+- name: Spikefield Hazard // Spikefield Cave
   weight: 1.0
   avg_copies: 4.0
 - name: Goblin Charbelcher
   weight: 1.0
   avg_copies: 4.0
+- name: Bitter Reunion
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ruby Medallion
+  weight: 1.0
+  avg_copies: 4.0
 - name: Sundering Eruption // Volcanic Fissure
+  weight: 1.0
+  avg_copies: 4.0
+- name: Stormscale Scion
+  weight: 1.0
+  avg_copies: 4.0
+- name: Shatterskull Smashing // Shatterskull, the Hammer Pass
   weight: 1.0
   avg_copies: 4.0
 - name: Valakut Awakening // Valakut Stoneforge
@@ -54,22 +54,22 @@ top_cards:
 - name: Blood Moon
   weight: 1.0
   avg_copies: 2.0
-- name: Defense Grid
+- name: Leyline of Sanctity
   weight: 0.5
   avg_copies: 4.0
-- name: Leyline of Sanctity
+- name: Defense Grid
   weight: 0.5
   avg_copies: 4.0
 - name: Relic of Progenitus
   weight: 0.5
   avg_copies: 4.0
+- name: March of Reckless Joy
+  weight: 0.5
+  avg_copies: 2.0
 - name: Kraza, the Swarm as One
   weight: 0.5
   avg_copies: 2.0
 - name: Wear // Tear
-  weight: 0.5
-  avg_copies: 2.0
-- name: March of Reckless Joy
   weight: 0.5
   avg_copies: 2.0
 - name: Vexing Bauble

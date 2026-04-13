@@ -7,12 +7,12 @@ name: Cling to Dust
 scryfall_id: 52c2de5f-e486-4cfe-9fb6-be0078ce5f93
 set: thb
 type: Instant
-meta_presence: 0.05
+meta_presence: 0.0448
 archetypes:
   dimir-control:
     weight: 1.0
     avg_copies: 2.11
   dimir-frog:
-    weight: 0.6667
-    avg_copies: 1.83
+    weight: 0.7
+    avg_copies: 1.71
 ---

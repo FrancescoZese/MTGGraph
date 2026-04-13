@@ -1,0 +1,14 @@
+---
+cmc: 3
+colors: []
+image: https://cards.scryfall.io/normal/front/6/e/6efb6a69-562c-4d95-858d-b067444cfd7e.jpg?1686970247
+name: Palantír of Orthanc
+scryfall_id: 6efb6a69-562c-4d95-858d-b067444cfd7e
+set: ltr
+type: Legendary Artifact
+meta_presence: 0.0017
+archetypes:
+  eldrazi-tron:
+    weight: 0.04
+    avg_copies: 4.0
+---

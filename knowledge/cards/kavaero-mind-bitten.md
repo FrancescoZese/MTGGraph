@@ -6,12 +6,12 @@ name: Kavaero, Mind-Bitten
 scryfall_id: ''
 set: ''
 type: Unknown
-meta_presence: 0.0083
+meta_presence: 0.0069
 archetypes:
   living-end:
-    weight: 0.2222
+    weight: 0.1818
     avg_copies: 1.0
-  birthing-ritual:
+  4c-omnath:
     weight: 1.0
     avg_copies: 1.0
   sultai-reanimator:

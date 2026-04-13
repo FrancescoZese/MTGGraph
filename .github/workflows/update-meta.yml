@@ -9,6 +9,7 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     permissions:
       contents: write
 
@@ -28,13 +29,13 @@ jobs:
         run: python -m scripts.update_meta --auto --top 16
         timeout-minutes: 15
 
-      - name: Recompute graph
-        run: python -m scripts compute
+      - name: Validate graph.json
+        run: python -c "import json; json.load(open('computed/graph.json')); print('graph.json is valid')"
 
       - name: Check for changes
         id: changes
         run: |
-          if git diff --quiet; then
+          if git diff --quiet && [ -z "$(git ls-files --others --exclude-standard)" ]; then
             echo "changed=false" >> $GITHUB_OUTPUT
           else
             echo "changed=true" >> $GITHUB_OUTPUT
@@ -45,6 +46,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
+          git add knowledge/ computed/
           git commit -m "auto: update metagame $(date +%Y-%m-%d)"
           git push

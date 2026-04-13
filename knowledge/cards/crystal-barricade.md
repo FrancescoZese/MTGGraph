@@ -7,9 +7,12 @@ name: Crystal Barricade
 scryfall_id: 905d3e02-ea06-45e7-9adb-c8e7583323a2
 set: fdn
 type: Artifact Creature — Wall
-meta_presence: 0.0083
+meta_presence: 0.0086
 archetypes:
   yawgmoth-combo:
-    weight: 0.5714
+    weight: 0.5
+    avg_copies: 1.0
+  samwise-combo:
+    weight: 0.5
     avg_copies: 1.0
 ---

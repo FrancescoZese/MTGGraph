@@ -19,16 +19,16 @@ RAW_DIR = ROOT / "raw"
 
 def fetch_decks(url: str) -> list[dict]:
     """Fetch and parse deck data from an MTGO tournament page."""
-    resp = requests.get(url, timeout=60)
+    resp = requests.get(url, timeout=90)
     resp.raise_for_status()
 
     # Challenge format: [{"loginid":...}], League format: [{"loginplayeventcourseid":...}]
     match = re.search(r'\[\{"(?:loginid|loginplayeventcourseid)":', resp.text)
     if not match:
-        print("ERROR: Could not find deck data in page")
-        sys.exit(1)
+        raise ValueError(f"Could not find deck data in page ({len(resp.text)} bytes)")
 
     start = match.start()
+    end = None
     depth = 0
     for i in range(start, len(resp.text)):
         if resp.text[i] == "[":
@@ -39,7 +39,13 @@ def fetch_decks(url: str) -> list[dict]:
             end = i + 1
             break
 
-    return json.loads(resp.text[start:end])
+    if end is None:
+        raise ValueError("Malformed JSON: no matching closing bracket found")
+
+    try:
+        return json.loads(resp.text[start:end])
+    except json.JSONDecodeError as e:
+        raise ValueError(f"Failed to parse deck JSON: {e}") from e
 
 
 def extract_event_info(url: str) -> dict:
@@ -81,16 +87,18 @@ def deck_to_markdown(deck: dict, finish: int, event: dict) -> str:
     lines.append("# Mainboard")
 
     for card in deck.get("main_deck", []):
-        name = card["card_attributes"]["card_name"]
-        qty = card["qty"]
+        attrs = card.get("card_attributes") or {}
+        name = attrs.get("card_name", "Unknown Card")
+        qty = card.get("qty", 1)
         lines.append(f"{qty} {name}")
 
     lines.append("")
     lines.append("# Sideboard")
 
     for card in deck.get("sideboard_deck", []):
-        name = card["card_attributes"]["card_name"]
-        qty = card["qty"]
+        attrs = card.get("card_attributes") or {}
+        name = attrs.get("card_name", "Unknown Card")
+        qty = card.get("qty", 1)
         lines.append(f"{qty} {name}")
 
     return "\n".join(lines) + "\n"

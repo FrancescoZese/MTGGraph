@@ -7,9 +7,9 @@ name: Krang, Master Mind
 scryfall_id: d27fa497-e842-4812-80fe-28517544e1c5
 set: tmt
 type: Legendary Artifact Creature — Utrom Warrior
-meta_presence: 0.0583
+meta_presence: 0.0551
 archetypes:
   affinity:
-    weight: 0.549
-    avg_copies: 1.59
+    weight: 0.5161
+    avg_copies: 1.61
 ---

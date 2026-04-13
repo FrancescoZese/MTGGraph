@@ -7,12 +7,12 @@ name: Summoner's Pact
 scryfall_id: ee0f88ac-8a90-4057-b0e6-c15fbd02da38
 set: tsr
 type: Instant
-meta_presence: 0.0604
+meta_presence: 0.062
 archetypes:
   amulet-titan:
     weight: 1.0
-    avg_copies: 2.05
+    avg_copies: 2.04
   neoform-combo:
     weight: 1.0
-    avg_copies: 3.33
+    avg_copies: 3.45
 ---

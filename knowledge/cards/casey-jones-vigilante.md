@@ -7,9 +7,9 @@ name: Casey Jones, Vigilante
 scryfall_id: a6a3258d-2e9b-4862-b2e3-bbfae9bd4d33
 set: tmt
 type: Legendary Creature — Human Berserker
-meta_presence: 0.1062
+meta_presence: 0.0947
 archetypes:
   jeskai-energy:
-    weight: 0.9107
-    avg_copies: 2.16
+    weight: 0.9016
+    avg_copies: 2.15
 ---

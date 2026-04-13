@@ -43,7 +43,7 @@ def get_last_ingested_date() -> str:
 
 def find_new_events(since: str, challenges_only: bool = False) -> list[dict]:
     """Fetch the MTGO decklists page and find Modern events after `since` date."""
-    resp = requests.get(MTGO_DECKLISTS_URL, timeout=15)
+    resp = requests.get(MTGO_DECKLISTS_URL, timeout=60)
     resp.raise_for_status()
 
     pattern = r"/decklist/(modern-(challenge|league)[\w-]+)"
@@ -150,9 +150,14 @@ def main():
     all_files = []
     for event in events:
         print(f"\nFetching {event['name']} ({event['date']})...")
-        files = fetch_and_save_decks(event, top_n)
-        print(f"  Saved {len(files)} lists")
-        all_files.extend(files)
+        try:
+            files = fetch_and_save_decks(event, top_n)
+            print(f"  Saved {len(files)} lists")
+            all_files.extend(files)
+        except Exception as e:
+            print(f"  ERROR fetching {event['name']}: {e}")
+            print(f"  Skipping this event and continuing...")
+            continue
 
     if not all_files:
         print("No lists fetched.")

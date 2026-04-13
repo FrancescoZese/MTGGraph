@@ -905,41 +905,31 @@ function closePanel() {
 }
 
 function initPanelSwipe(panel) {
+    const handle = document.getElementById("panel-swipe-handle");
+    if (!handle) return;
+
     let startY = 0;
-    let startScrollTop = 0;
-    let dragging = false;
     let deltaY = 0;
 
-    panel.addEventListener("touchstart", (e) => {
+    handle.addEventListener("touchstart", (e) => {
         startY = e.touches[0].clientY;
-        startScrollTop = panel.scrollTop;
         deltaY = 0;
-        dragging = false;
     }, { passive: true });
 
-    panel.addEventListener("touchmove", (e) => {
+    handle.addEventListener("touchmove", (e) => {
         deltaY = e.touches[0].clientY - startY;
-
-        // Only intercept swipe-down when scrolled to top
-        if (panel.scrollTop <= 0 && deltaY > 0) {
-            dragging = true;
+        if (deltaY > 0) {
             e.preventDefault();
-            // Move panel down following the finger
-            gsap.set(panel, { y: Math.max(0, deltaY * 0.6) });
-        } else {
-            dragging = false;
+            gsap.set(panel, { y: deltaY * 0.7 });
         }
     }, { passive: false });
 
-    panel.addEventListener("touchend", () => {
-        if (!dragging) return;
-        // If dragged more than 80px down, close; otherwise snap back
-        if (deltaY > 80) {
+    handle.addEventListener("touchend", () => {
+        if (deltaY > 60) {
             closePanel();
-        } else {
-            gsap.to(panel, { y: 0, duration: 0.25, ease: "power2.out" });
+        } else if (deltaY > 0) {
+            gsap.to(panel, { y: 0, duration: 0.2, ease: "power2.out" });
         }
-        dragging = false;
     }, { passive: true });
 }
 
