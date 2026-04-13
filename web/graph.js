@@ -6,6 +6,8 @@ let allData = null;
 let simulation = null;
 let cardImageMap = {}; // card name -> image URL
 let currentCardSel, currentArchSel, currentLinkSel, currentValidEdges, currentNodeMap;
+let metaThreshold = 0.01; // 1% default
+let lastFilteredData = null; // cache for sidebar rebuild without full refilter
 
 /* ── Colors ── */
 
@@ -37,29 +39,12 @@ async function init() {
         }
     });
 
-    // Set default slider to 1%
-    const slider = document.getElementById("meta-threshold");
-    slider.value = 1;
-    document.getElementById("threshold-value").textContent = "1%";
-
     // Initial render with filters applied
     applyAllFilters(false);
 
     document.getElementById("close-panel").addEventListener("click", (e) => {
         e.stopPropagation();
         closePanel();
-    });
-
-    // Debounced rebuild on any filter change
-    let debounceTimer = null;
-    function scheduleRebuild() {
-        clearTimeout(debounceTimer);
-        debounceTimer = setTimeout(() => applyAllFilters(true), 250);
-    }
-
-    slider.addEventListener("input", () => {
-        document.getElementById("threshold-value").textContent = slider.value + "%";
-        scheduleRebuild();
     });
 
     document.getElementById("filter-challenge").addEventListener("change", () => applyAllFilters(true));
@@ -74,7 +59,7 @@ async function init() {
 function applyAllFilters(skipAnimation) {
     const showChallenge = document.getElementById("filter-challenge").checked;
     const showLeague = document.getElementById("filter-league").checked;
-    const minMeta = parseFloat(document.getElementById("meta-threshold").value) / 100;
+    const minMeta = metaThreshold;
 
     // Deep copy and filter by source type
     const filtered = JSON.parse(JSON.stringify(allData));
@@ -101,6 +86,9 @@ function applyAllFilters(skipAnimation) {
         }
     }
 
+    // Save source-filtered data (before meta threshold) for sidebar
+    lastFilteredData = JSON.parse(JSON.stringify(filtered));
+
     // Filter by meta threshold + remove empty archetypes
     const activeArchIds = new Set(
         filtered.nodes
@@ -120,77 +108,154 @@ function applyAllFilters(skipAnimation) {
     );
 
     updateStats(filtered);
-    updateMetaSidebar(filtered);
+    updateMetaSidebar(lastFilteredData);
     renderGraph(filtered, skipAnimation);
 }
 
 function updateMetaSidebar(data) {
     const archs = data.nodes
-        .filter(n => n.type === "archetype")
+        .filter(n => n.type === "archetype" && n.list_count > 0)
         .sort((a, b) => b.meta_share - a.meta_share);
 
     const maxShare = archs.length > 0 ? archs[0].meta_share : 1;
     const container = document.getElementById("meta-sidebar-list");
 
-    // Capture current state for Flip if rows already exist
-    const existingRows = container.querySelectorAll(".meta-row");
-    const hasExisting = existingRows.length > 0;
-    const flipState = hasExisting && highlightDuration()
-        ? Flip.getState(existingRows, { props: "opacity" })
-        : null;
-
-    // Build new DOM
+    // Build DOM: rows + threshold line inserted at the right position
     let html = "";
-    for (const arch of archs) {
+    let thresholdInserted = false;
+
+    for (let i = 0; i < archs.length; i++) {
+        const arch = archs[i];
         const pct = (arch.meta_share * 100).toFixed(1);
         const barScale = (arch.meta_share / maxShare).toFixed(4);
+        const belowThreshold = arch.meta_share < metaThreshold;
 
-        html += `<div class="meta-row" data-arch-id="${arch.id}" data-flip-id="${arch.id}">`;
+        // Insert threshold line just before the first dimmed row
+        if (belowThreshold && !thresholdInserted) {
+            html += buildThresholdLineHTML();
+            thresholdInserted = true;
+        }
+
+        html += `<div class="meta-row${belowThreshold ? " dimmed" : ""}" data-arch-id="${arch.id}" data-meta-share="${arch.meta_share}">`;
         html += `<div class="meta-row-bar" data-scale="${barScale}"></div>`;
         html += `<span class="meta-row-name">${arch.name}</span>`;
         html += `<span class="meta-row-pct">${pct}%</span>`;
         html += `</div>`;
     }
+
+    // If no rows are below threshold, add line at the bottom
+    if (!thresholdInserted) {
+        html += buildThresholdLineHTML();
+    }
+
     container.innerHTML = html;
 
-    // Animate with Flip or simple bars
-    if (flipState) {
-        Flip.from(flipState, {
-            duration: 0.5,
-            ease: "power2.inOut",
-            stagger: 0.02,
-            absolute: true,
-            onEnter: elements => gsap.fromTo(elements,
-                { autoAlpha: 0, x: -20 },
-                { autoAlpha: 1, x: 0, duration: 0.4, ease: "power2.out" }
-            ),
-            onLeave: elements => gsap.to(elements,
-                { autoAlpha: 0, x: 20, duration: 0.3, ease: "power2.in" }
-            ),
-            onComplete: () => animateBars(container.querySelectorAll(".meta-row-bar"))
-        });
-    } else {
-        animateBars(container.querySelectorAll(".meta-row-bar"));
-    }
+    // Animate bars
+    animateBars(container.querySelectorAll(".meta-row-bar"));
+
+    // Wire up threshold drag
+    initThresholdDrag(container);
 
     // Click handler: open archetype detail + highlight graph
     container.querySelectorAll(".meta-row").forEach(row => {
         row.addEventListener("click", () => {
             const archId = row.dataset.archId;
             const archNode = data.nodes.find(n => n.id === archId);
-            if (archNode) {
+            if (archNode && !row.classList.contains("dimmed")) {
                 if (sheetOpen) closeMobileSheet();
                 const nodeMap = new Map(data.nodes.map(n => [n.id, n]));
                 const edges = data.edges;
                 showArchetypeDetail(archNode, edges, nodeMap);
 
-                // Highlight in graph if selections are available
                 if (currentCardSel && currentArchSel && currentLinkSel && currentValidEdges) {
                     highlight(archNode, currentValidEdges, currentCardSel, currentArchSel, currentLinkSel);
                 }
             }
         });
     });
+}
+
+function buildThresholdLineHTML() {
+    const pct = (metaThreshold * 100).toFixed(1);
+    const label = pct === "0.0" ? "all" : "\u2265 " + pct + "%";
+    return `<div class="meta-threshold-line" id="threshold-line">` +
+        `<span class="meta-threshold-arrows">\u2195</span>` +
+        `<span class="meta-threshold-cta">drag to filter</span>` +
+        `<span class="meta-threshold-value">${label}</span>` +
+        `</div>`;
+}
+
+function initThresholdDrag(container) {
+    const line = container.querySelector("#threshold-line");
+    if (!line) return;
+
+    let dragging = false;
+    // Cache row positions once on drag start (no layout thrashing during move)
+    let rowSlots = [];
+
+    function cacheSlots() {
+        rowSlots = [];
+        container.querySelectorAll(".meta-row").forEach(row => {
+            const rect = row.getBoundingClientRect();
+            rowSlots.push({
+                el: row,
+                mid: rect.top + rect.height / 2,
+                share: parseFloat(row.dataset.metaShare)
+            });
+        });
+    }
+
+    function onPointerDown(e) {
+        e.preventDefault();
+        dragging = true;
+        line.classList.add("dragging");
+        line.setPointerCapture(e.pointerId);
+        cacheSlots();
+    }
+
+    function onPointerMove(e) {
+        if (!dragging) return;
+
+        // Find threshold based on pointer Y vs cached row midpoints
+        let newThreshold = 0;
+        for (const slot of rowSlots) {
+            if (e.clientY < slot.mid) {
+                newThreshold = slot.share + 0.001;
+                break;
+            }
+        }
+
+        if (newThreshold === metaThreshold) return;
+        metaThreshold = newThreshold;
+
+        // Update value display
+        const valueEl = line.querySelector(".meta-threshold-value");
+        const pct = (metaThreshold * 100).toFixed(1);
+        valueEl.textContent = pct === "0.0" ? "all" : "\u2265 " + pct + "%";
+
+        // Toggle dimmed class (no DOM reorder, just class toggle — CSS handles transition)
+        for (const slot of rowSlots) {
+            slot.el.classList.toggle("dimmed", slot.share < metaThreshold);
+        }
+
+        // Move line in DOM to correct position (lightweight — no layout recalc needed since positions are cached)
+        const firstDimmed = rowSlots.find(s => s.share < metaThreshold);
+        if (firstDimmed) container.insertBefore(line, firstDimmed.el);
+        else container.appendChild(line);
+    }
+
+    function onPointerUp() {
+        if (!dragging) return;
+        dragging = false;
+        line.classList.remove("dragging");
+        rowSlots = [];
+        // Rebuild graph only on release
+        applyAllFilters(true);
+    }
+
+    line.addEventListener("pointerdown", onPointerDown);
+    document.addEventListener("pointermove", onPointerMove);
+    document.addEventListener("pointerup", onPointerUp);
 }
 
 function updateStats(data) {
@@ -434,22 +499,20 @@ function renderGraph(data, skipAnimation) {
         currentNodeMap = nodeMap;
     }
 
-    const tooltip = d3.select("#tooltip");
-    const tooltipEl = tooltip.node();
+    const tooltip = document.getElementById("tooltip");
     function showTooltipEl() {
-        gsap.killTweensOf(tooltipEl);
-        gsap.fromTo(tooltipEl,
-            { autoAlpha: 0, y: 6 },
-            { autoAlpha: 1, y: 0, duration: highlightDuration() ? 0.2 : 0, ease: "power2.out" }
-        );
+        tooltip.style.display = "block";
+        tooltip.style.opacity = "1";
+        tooltip.style.visibility = "visible";
     }
     function moveTooltip(event) {
-        tooltipEl.style.left = (event.clientX + 16) + "px";
-        tooltipEl.style.top = (event.clientY + 16) + "px";
+        tooltip.style.left = (event.clientX + 16) + "px";
+        tooltip.style.top = (event.clientY + 16) + "px";
     }
     function hideTooltip() {
-        gsap.killTweensOf(tooltipEl);
-        gsap.to(tooltipEl, { autoAlpha: 0, y: 4, duration: highlightDuration() ? 0.15 : 0, ease: "power2.in" });
+        tooltip.style.display = "none";
+        tooltip.style.opacity = "0";
+        tooltip.style.visibility = "hidden";
     }
 
     if (skipAnimation || !highlightDuration()) {
@@ -683,6 +746,7 @@ let panelTween = null;
 
 function openPanel() {
     const panel = document.getElementById("detail-panel");
+    panel.scrollTop = 0;
     const dur = highlightDuration();
     if (panelTween) panelTween.kill();
     panel.style.visibility = "visible";
@@ -696,12 +760,21 @@ function openPanel() {
 
 function closePanel() {
     const panel = document.getElementById("detail-panel");
-    const dur = highlightDuration();
-    if (panelTween) panelTween.kill();
-    panelTween = gsap.to(panel, {
-        x: "100%", duration: dur ? 0.4 : 0, ease: "power2.in", overwrite: true,
-        onComplete: () => { panel.style.visibility = "hidden"; }
-    });
+    if (typeof gsap !== "undefined" && panelTween) panelTween.kill();
+    if (typeof gsap !== "undefined") {
+        panelTween = gsap.to(panel, {
+            x: "100%", duration: 0.3, ease: "power2.in", overwrite: true,
+            onComplete: () => { panel.style.visibility = "hidden"; }
+        });
+    } else {
+        panel.style.transform = "translateX(100%)";
+        panel.style.visibility = "hidden";
+    }
+
+    // Reset graph highlight
+    if (currentCardSel) currentCardSel.attr("opacity", 0.85);
+    if (currentArchSel) currentArchSel.attr("opacity", 1);
+    if (currentLinkSel) currentLinkSel.attr("stroke-opacity", d => 0.05 + d.weight * 0.1);
 }
 
 function animatePanelContent() {
@@ -827,21 +900,19 @@ function showArchetypeDetail(d, edges, nodeMap) {
 
         el.addEventListener("mouseenter", (e) => {
             panelTooltip.innerHTML = `<div class="tt-name">${cardName}</div><img src="${img}" alt="${cardName}">`;
-            gsap.killTweensOf(panelTooltip);
-            gsap.fromTo(panelTooltip,
-                { autoAlpha: 0, y: 6 },
-                { autoAlpha: 1, y: 0, duration: highlightDuration() ? 0.2 : 0, ease: "power2.out" }
-            );
+            panelTooltip.style.display = "block";
+            panelTooltip.style.opacity = "1";
+            panelTooltip.style.visibility = "visible";
         });
         el.addEventListener("mousemove", (e) => {
-            // Position to the left of the panel
             const panelLeft = document.getElementById("detail-panel").getBoundingClientRect().left;
             panelTooltip.style.left = (panelLeft - 210) + "px";
             panelTooltip.style.top = (e.clientY - 60) + "px";
         });
         el.addEventListener("mouseleave", () => {
-            gsap.killTweensOf(panelTooltip);
-            gsap.to(panelTooltip, { autoAlpha: 0, y: 4, duration: highlightDuration() ? 0.15 : 0, ease: "power2.in" });
+            panelTooltip.style.display = "none";
+            panelTooltip.style.opacity = "0";
+            panelTooltip.style.visibility = "hidden";
         });
     });
 }
