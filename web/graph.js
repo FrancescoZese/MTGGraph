@@ -561,7 +561,7 @@ function renderGraph(data, skipAnimation) {
                 event.stopPropagation();
                 showCardDetail(d, validEdges, nodeMap);
                 highlight(d, validEdges, cardSel, archSel, link);
-                if (isMobile()) centerOnNode(d);
+                if (isMobile()) centerOnConnected(d, validEdges);
             });
 
         archSel
@@ -577,7 +577,7 @@ function renderGraph(data, skipAnimation) {
                 event.stopPropagation();
                 showArchetypeDetail(d, validEdges, nodeMap);
                 highlight(d, validEdges, cardSel, archSel, link);
-                if (isMobile()) centerOnNode(d);
+                if (isMobile()) centerOnConnected(d, validEdges);
             });
 
         // Update stored refs for filter + sidebar
@@ -829,29 +829,65 @@ function closeMobileSheet() {
     sheetOpen = false;
 }
 
-/* ── Center graph on node ── */
+/* ── Center graph on connected nodes ── */
 
-function centerOnNode(d) {
-    if (!currentZoom || !currentSvg || !d.x || !d.y) return;
+function centerOnConnected(d, edges) {
+    if (!currentZoom || !currentSvg) return;
+
+    // Find all connected node positions
+    const connected = new Set([d.id]);
+    edges.forEach(e => {
+        const s = typeof e.source === "object" ? e.source.id : e.source;
+        const t = typeof e.target === "object" ? e.target.id : e.target;
+        if (s === d.id) connected.add(t);
+        if (t === d.id) connected.add(s);
+    });
+
+    // Collect positions of connected nodes
+    const points = [];
+    if (d.x != null && d.y != null) points.push({ x: d.x, y: d.y });
+    if (currentNodeMap) {
+        for (const id of connected) {
+            const n = currentNodeMap.get(id);
+            if (n && n.x != null && n.y != null) points.push({ x: n.x, y: n.y });
+        }
+    }
+    if (points.length === 0) return;
+
+    // Bounding box
+    let minX = Infinity, minY = Infinity, maxX = -Infinity, maxY = -Infinity;
+    for (const p of points) {
+        if (p.x < minX) minX = p.x;
+        if (p.y < minY) minY = p.y;
+        if (p.x > maxX) maxX = p.x;
+        if (p.y > maxY) maxY = p.y;
+    }
+
+    const cx = (minX + maxX) / 2;
+    const cy = (minY + maxY) / 2;
+    const bw = maxX - minX || 1;
+    const bh = maxY - minY || 1;
+
     const width = window.innerWidth;
     const height = window.innerHeight;
-
-    // On mobile, the bottom half is the panel — center in the top half
+    // On mobile, visible area is the top half (above the panel)
     const targetH = isMobile() ? height * 0.5 : height;
     const targetCenterX = width / 2;
     const targetCenterY = targetH / 2;
 
-    // Get current zoom scale, keep it (or use a reasonable default)
-    const currentTransform = d3.zoomTransform(currentSvg.node());
-    const scale = Math.max(currentTransform.k, 0.8);
+    // Fit bounding box with padding
+    const pad = 60;
+    const scaleX = (width - pad * 2) / bw;
+    const scaleY = (targetH - pad * 2) / bh;
+    const scale = Math.min(scaleX, scaleY, 2.5); // cap zoom
 
-    const tx = targetCenterX - d.x * scale;
-    const ty = targetCenterY - d.y * scale;
+    const tx = targetCenterX - cx * scale;
+    const ty = targetCenterY - cy * scale;
     const transform = d3.zoomIdentity.translate(tx, ty).scale(scale);
 
     const dur = highlightDuration();
     if (dur) {
-        currentSvg.transition().duration(500).ease(d3.easeCubicOut)
+        currentSvg.transition().duration(600).ease(d3.easeCubicInOut)
             .call(currentZoom.transform, transform);
     } else {
         currentSvg.call(currentZoom.transform, transform);
