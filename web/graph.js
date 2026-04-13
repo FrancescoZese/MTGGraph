@@ -6,6 +6,8 @@ function isMobile() { return window.innerWidth <= 600; }
 
 let allData = null;
 let simulation = null;
+let currentZoom = null; // d3 zoom behavior
+let currentSvg = null; // d3 svg selection
 let cardImageMap = {}; // card name -> image URL
 let currentCardSel, currentArchSel, currentLinkSel, currentValidEdges, currentNodeMap;
 let metaThreshold = 0.01; // 1% default — derived from thresholdIndex
@@ -427,9 +429,11 @@ function renderGraph(data, skipAnimation) {
 
     const g = svg.append("g");
 
-    svg.call(d3.zoom()
+    currentZoom = d3.zoom()
         .scaleExtent([0.15, 6])
-        .on("zoom", e => g.attr("transform", e.transform)));
+        .on("zoom", e => g.attr("transform", e.transform));
+    svg.call(currentZoom);
+    currentSvg = svg;
 
     const nodes = data.nodes.map(n => ({ ...n }));
     const edges = data.edges.map(e => ({ ...e }));
@@ -557,6 +561,7 @@ function renderGraph(data, skipAnimation) {
                 event.stopPropagation();
                 showCardDetail(d, validEdges, nodeMap);
                 highlight(d, validEdges, cardSel, archSel, link);
+                if (isMobile()) centerOnNode(d);
             });
 
         archSel
@@ -572,6 +577,7 @@ function renderGraph(data, skipAnimation) {
                 event.stopPropagation();
                 showArchetypeDetail(d, validEdges, nodeMap);
                 highlight(d, validEdges, cardSel, archSel, link);
+                if (isMobile()) centerOnNode(d);
             });
 
         // Update stored refs for filter + sidebar
@@ -823,9 +829,40 @@ function closeMobileSheet() {
     sheetOpen = false;
 }
 
+/* ── Center graph on node ── */
+
+function centerOnNode(d) {
+    if (!currentZoom || !currentSvg || !d.x || !d.y) return;
+    const width = window.innerWidth;
+    const height = window.innerHeight;
+
+    // On mobile, the bottom half is the panel — center in the top half
+    const targetH = isMobile() ? height * 0.5 : height;
+    const targetCenterX = width / 2;
+    const targetCenterY = targetH / 2;
+
+    // Get current zoom scale, keep it (or use a reasonable default)
+    const currentTransform = d3.zoomTransform(currentSvg.node());
+    const scale = Math.max(currentTransform.k, 0.8);
+
+    const tx = targetCenterX - d.x * scale;
+    const ty = targetCenterY - d.y * scale;
+    const transform = d3.zoomIdentity.translate(tx, ty).scale(scale);
+
+    const dur = highlightDuration();
+    if (dur) {
+        currentSvg.transition().duration(500).ease(d3.easeCubicOut)
+            .call(currentZoom.transform, transform);
+    } else {
+        currentSvg.call(currentZoom.transform, transform);
+    }
+}
+
 /* ── Panel open / close ── */
 
 let panelTween = null;
+
+let panelSwipeSetup = false;
 
 function openPanel() {
     const panel = document.getElementById("detail-panel");
@@ -835,13 +872,12 @@ function openPanel() {
     panel.style.visibility = "visible";
 
     if (isMobile()) {
-        // Slide up from bottom
         gsap.set(panel, { x: 0 });
         panelTween = gsap.to(panel, {
             y: 0, duration: dur ? 0.45 : 0, ease: "power3.out", overwrite: true
         });
+        if (!panelSwipeSetup) { initPanelSwipe(panel); panelSwipeSetup = true; }
     } else {
-        // Slide in from right (desktop)
         panelTween = gsap.to(panel, {
             x: 0, duration: dur ? 0.55 : 0, ease: "power3.out", overwrite: true
         });
@@ -866,6 +902,45 @@ function closePanel() {
             onComplete: () => { panel.style.visibility = "hidden"; }
         });
     }
+}
+
+function initPanelSwipe(panel) {
+    let startY = 0;
+    let startScrollTop = 0;
+    let dragging = false;
+    let deltaY = 0;
+
+    panel.addEventListener("touchstart", (e) => {
+        startY = e.touches[0].clientY;
+        startScrollTop = panel.scrollTop;
+        deltaY = 0;
+        dragging = false;
+    }, { passive: true });
+
+    panel.addEventListener("touchmove", (e) => {
+        deltaY = e.touches[0].clientY - startY;
+
+        // Only intercept swipe-down when scrolled to top
+        if (panel.scrollTop <= 0 && deltaY > 0) {
+            dragging = true;
+            e.preventDefault();
+            // Move panel down following the finger
+            gsap.set(panel, { y: Math.max(0, deltaY * 0.6) });
+        } else {
+            dragging = false;
+        }
+    }, { passive: false });
+
+    panel.addEventListener("touchend", () => {
+        if (!dragging) return;
+        // If dragged more than 80px down, close; otherwise snap back
+        if (deltaY > 80) {
+            closePanel();
+        } else {
+            gsap.to(panel, { y: 0, duration: 0.25, ease: "power2.out" });
+        }
+        dragging = false;
+    }, { passive: true });
 }
 
 function animatePanelContent() {
