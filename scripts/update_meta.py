@@ -113,9 +113,10 @@ def fetch_and_save_decks(event: dict, top_n: int) -> list[Path]:
 def main():
     args = sys.argv[1:]
 
-    threshold = 0.6
+    threshold = 0.5
     top_n = 16
     challenges_only = False
+    auto_mode = "--auto" in args
 
     if "--threshold" in args:
         idx = args.index("--threshold")
@@ -140,9 +141,10 @@ def main():
     for e in events:
         print(f"  {e['date']}  {e['name']}")
 
-    confirm = input(f"\nFetch and ingest all {len(events)} events? [Y/n] ").strip()
-    if confirm.lower() == "n":
-        return
+    if not auto_mode:
+        confirm = input(f"\nFetch and ingest all {len(events)} events? [Y/n] ").strip()
+        if confirm.lower() == "n":
+            return
 
     # Fetch all events
     all_files = []
@@ -191,13 +193,20 @@ def main():
             for card in result["top_cards"][:8]:
                 print(f"    {card}")
 
-            name = input("  Archetype name (or 'skip'): ").strip()
-            if name.lower() == "skip":
-                skipped += 1
-                continue
-
-            slug = input(f"  Slug [{_auto_slug(name)}]: ").strip() or _auto_slug(name)
-            desc = input("  Description: ").strip()
+            if auto_mode:
+                # Auto-name as Unknown #N
+                unknown_num = _next_unknown_number()
+                name = f"Unknown #{unknown_num}"
+                slug = f"unknown-{unknown_num}"
+                desc = "Unclassified archetype, pending review."
+                print(f"  AUTO: {name}")
+            else:
+                name = input("  Archetype name (or 'skip'): ").strip()
+                if name.lower() == "skip":
+                    skipped += 1
+                    continue
+                slug = input(f"  Slug [{_auto_slug(name)}]: ").strip() or _auto_slug(name)
+                desc = input("  Description: ").strip()
 
             result = ingest_list(
                 raw_text, KNOWLEDGE_DIR,
@@ -222,6 +231,22 @@ def main():
         output = COMPUTED_DIR / "graph.json"
         write_graph(KNOWLEDGE_DIR, output)
         print(f"Done! Graph and META.md updated.")
+
+
+def _next_unknown_number() -> int:
+    """Find the next available Unknown #N number."""
+    archetypes_dir = KNOWLEDGE_DIR / "archetypes"
+    existing = set()
+    for path in archetypes_dir.glob("unknown-*.md"):
+        try:
+            num = int(path.stem.split("-")[1])
+            existing.add(num)
+        except (IndexError, ValueError):
+            pass
+    n = 1
+    while n in existing:
+        n += 1
+    return n
 
 
 def _auto_slug(name: str) -> str:

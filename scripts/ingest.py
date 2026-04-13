@@ -13,7 +13,7 @@ from scripts.archetype_manager import (
 def ingest_list(
     raw_text: str,
     knowledge_dir: Path,
-    threshold: float = 0.6,
+    threshold: float = 0.5,
     archetype_name: str | None = None,
     archetype_slug: str | None = None,
     archetype_description: str = "",
