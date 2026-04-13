@@ -24,16 +24,10 @@ archetypes:
   burn:
     weight: 1.0
     avg_copies: 4.0
-  vengevine:
-    weight: 1.0
-    avg_copies: 3.0
-  izzet-prowess:
-    weight: 1.0
-    avg_copies: 4.0
   hollow-one:
-    weight: 0.8
-    avg_copies: 2.0
-  temur-prowess:
+    weight: 0.8333
+    avg_copies: 2.2
+  izzet-prowess:
     weight: 1.0
     avg_copies: 4.0
   indomitable-creativity:

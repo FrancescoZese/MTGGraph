@@ -1,5 +1,5 @@
 ---
-archetype: temur-prowess
+archetype: izzet-prowess
 date: '2026-04-02'
 finish: 5-0
 pilot: Bosseidon

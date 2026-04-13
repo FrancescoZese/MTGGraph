@@ -9,19 +9,19 @@ top_cards:
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 3.89
-- name: Psychic Frog
+- name: Fatal Push
   weight: 1.0
   avg_copies: 3.56
-- name: Fatal Push
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 3.56
 - name: Counterspell
   weight: 1.0
   avg_copies: 3.44
-- name: Orcish Bowmasters
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.22
-- name: Consign to Memory
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.22
 - name: Subtlety
@@ -66,19 +66,19 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 0.6667
   avg_copies: 2.33
-- name: Sink into Stupor // Soporific Springs
+- name: Cling to Dust
   weight: 0.6667
   avg_copies: 1.83
-- name: Cling to Dust
+- name: Sink into Stupor // Soporific Springs
   weight: 0.6667
   avg_copies: 1.83
 - name: Flooded Strand
   weight: 0.6667
   avg_copies: 1.83
-- name: Ghost Vacuum
+- name: Darkslick Shores
   weight: 0.6667
   avg_copies: 1.67
-- name: Darkslick Shores
+- name: Ghost Vacuum
   weight: 0.6667
   avg_copies: 1.67
 - name: Engineered Explosives
@@ -105,10 +105,10 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.4444
   avg_copies: 1.0
-- name: Drown in the Loch
+- name: Snapcaster Mage
   weight: 0.3333
   avg_copies: 1.67
-- name: Snapcaster Mage
+- name: Drown in the Loch
   weight: 0.3333
   avg_copies: 1.67
 - name: Graveyard Trespasser // Graveyard Glutton
@@ -120,22 +120,22 @@ top_cards:
 - name: Preordain
   weight: 0.2222
   avg_copies: 2.0
-- name: Damping Sphere
-  weight: 0.2222
-  avg_copies: 1.0
-- name: Shoot the Sheriff
-  weight: 0.2222
-  avg_copies: 1.0
 - name: Murktide Regent
-  weight: 0.2222
-  avg_copies: 1.0
-- name: Field of Ruin
   weight: 0.2222
   avg_copies: 1.0
 - name: Strategic Betrayal
   weight: 0.2222
   avg_copies: 1.0
+- name: Damping Sphere
+  weight: 0.2222
+  avg_copies: 1.0
 - name: Scalding Tarn
+  weight: 0.2222
+  avg_copies: 1.0
+- name: Shoot the Sheriff
+  weight: 0.2222
+  avg_copies: 1.0
+- name: Field of Ruin
   weight: 0.2222
   avg_copies: 1.0
 - name: Mishra's Bauble
@@ -144,34 +144,34 @@ top_cards:
 - name: Moonshadow
   weight: 0.1111
   avg_copies: 4.0
-- name: Dress Down
-  weight: 0.1111
-  avg_copies: 3.0
 - name: Bloodstained Mire
   weight: 0.1111
   avg_copies: 3.0
-- name: Archmage's Charm
+- name: Dress Down
+  weight: 0.1111
+  avg_copies: 3.0
+- name: Strix Serenade
   weight: 0.1111
   avg_copies: 2.0
-- name: Strix Serenade
+- name: Archmage's Charm
   weight: 0.1111
   avg_copies: 2.0
 - name: Pest Control
   weight: 0.1111
   avg_copies: 1.5
-- name: High Noon
-  weight: 0.1111
-  avg_copies: 1.0
 - name: Celestial Purge
   weight: 0.1111
   avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 0.1111
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: High Noon
   weight: 0.1111
   avg_copies: 1.0
 - name: Gloomlake Verge
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Meticulous Archive
   weight: 0.1111
   avg_copies: 1.0
 ---

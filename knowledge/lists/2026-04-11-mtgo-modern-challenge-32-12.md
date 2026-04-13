@@ -1,5 +1,5 @@
 ---
-archetype: landless-belcher
+archetype: mono-blue-belcher
 date: '2026-04-11'
 finish: 16th
 pilot: keyzoo

@@ -9,28 +9,28 @@ name: Domain Zoo
 meta_share: 0.0437
 list_count: 21
 top_cards:
-- name: Leyline of the Guildpact
-  weight: 1.0
-  avg_copies: 4.0
-- name: Territorial Kavu
-  weight: 1.0
-  avg_copies: 4.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
-- name: Arid Mesa
+- name: Leyline of the Guildpact
   weight: 1.0
-  avg_copies: 3.95
-- name: Doorkeeper Thrull
+  avg_copies: 4.0
+- name: Territorial Kavu
   weight: 1.0
-  avg_copies: 3.95
+  avg_copies: 4.0
 - name: Leyline Binding
   weight: 1.0
   avg_copies: 3.95
+- name: Arid Mesa
+  weight: 1.0
+  avg_copies: 3.95
 - name: Ragavan, Nimble Pilferer
+  weight: 1.0
+  avg_copies: 3.95
+- name: Doorkeeper Thrull
   weight: 1.0
   avg_copies: 3.95
 - name: Phlage, Titan of Fire's Fury
@@ -63,16 +63,16 @@ top_cards:
 - name: Wear // Tear
   weight: 1.0
   avg_copies: 1.62
-- name: Temple Garden
-  weight: 1.0
-  avg_copies: 1.0
 - name: Indatha Triome
   weight: 1.0
   avg_copies: 1.0
-- name: Plains
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 - name: Godless Shrine
+  weight: 1.0
+  avg_copies: 1.0
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
 - name: Mountain
@@ -135,13 +135,13 @@ top_cards:
 - name: Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
   weight: 0.0952
   avg_copies: 1.0
+- name: Meltdown
+  weight: 0.0476
+  avg_copies: 1.0
 - name: Orcish Bowmasters
   weight: 0.0476
   avg_copies: 1.0
 - name: Quantum Riddler
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Meltdown
   weight: 0.0476
   avg_copies: 1.0
 ---

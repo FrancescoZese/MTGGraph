@@ -8,8 +8,8 @@ set: ecl
 type: Artifact
 meta_presence: 0.0187
 archetypes:
-  affinity-aggro:
-    weight: 0.0444
+  affinity:
+    weight: 0.0392
     avg_copies: 1.0
   hammer-time:
     weight: 0.5

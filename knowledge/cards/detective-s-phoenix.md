@@ -12,9 +12,6 @@ archetypes:
   mardu-blink:
     weight: 1.0
     avg_copies: 1.0
-  vengevine:
-    weight: 1.0
-    avg_copies: 4.0
   hollow-one:
     weight: 1.0
     avg_copies: 4.0

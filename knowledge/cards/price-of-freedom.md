@@ -9,10 +9,10 @@ set: tla
 type: Sorcery — Lesson
 meta_presence: 0.0083
 archetypes:
-  boros-taxes:
+  boros-ponza:
     weight: 1.0
     avg_copies: 4.0
-  temur-prowess:
-    weight: 1.0
+  izzet-prowess:
+    weight: 0.0769
     avg_copies: 1.0
 ---

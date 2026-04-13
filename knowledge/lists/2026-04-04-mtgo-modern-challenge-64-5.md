@@ -1,5 +1,5 @@
 ---
-archetype: affinity-aggro
+archetype: affinity
 date: '2026-04-04'
 finish: 1st
 pilot: Marxelo

@@ -8,10 +8,7 @@ set: jmp
 type: Artifact
 meta_presence: 0.0479
 archetypes:
-  affinity-aggro:
-    weight: 0.4444
-    avg_copies: 1.0
   affinity:
-    weight: 0.5
+    weight: 0.451
     avg_copies: 1.0
 ---

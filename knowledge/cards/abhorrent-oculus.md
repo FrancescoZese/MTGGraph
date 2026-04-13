@@ -9,7 +9,7 @@ set: dsk
 type: Creature — Eye
 meta_presence: 0.0708
 archetypes:
-  reanimator:
+  grixis-reanimator:
     weight: 1.0
     avg_copies: 4.0
   neoform-combo:
@@ -18,13 +18,13 @@ archetypes:
   yawgmoth-combo:
     weight: 0.2857
     avg_copies: 2.0
-  temur-cascade:
+  simic-ritual:
     weight: 1.0
     avg_copies: 3.75
   izzet-prowess:
-    weight: 0.0833
+    weight: 0.0769
     avg_copies: 2.0
-  sultai-frog:
+  sultai-reanimator:
     weight: 1.0
     avg_copies: 4.0
 ---

@@ -9,7 +9,7 @@ set: 2xm
 type: Creature — Avatar
 meta_presence: 0.0021
 archetypes:
-  four-color-shadow:
+  grixis-shadow:
     weight: 1.0
     avg_copies: 4.0
 ---

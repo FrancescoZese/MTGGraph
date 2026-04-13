@@ -9,12 +9,9 @@ set: soc
 type: Sorcery
 meta_presence: 0.0396
 archetypes:
-  reanimator:
+  grixis-reanimator:
     weight: 1.0
     avg_copies: 3.92
-  vengevine:
-    weight: 1.0
-    avg_copies: 4.0
   hollow-one:
     weight: 1.0
     avg_copies: 4.0

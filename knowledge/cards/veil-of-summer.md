@@ -15,7 +15,7 @@ archetypes:
   neoform-combo:
     weight: 0.8889
     avg_copies: 2.58
-  sultai-frog:
+  sultai-reanimator:
     weight: 1.0
     avg_copies: 2.0
 ---

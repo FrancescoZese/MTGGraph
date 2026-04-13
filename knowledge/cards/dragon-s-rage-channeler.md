@@ -9,13 +9,10 @@ set: mh2
 type: Creature — Human Shaman
 meta_presence: 0.0354
 archetypes:
-  izzet-prowess:
-    weight: 1.0
-    avg_copies: 4.0
   hollow-one:
-    weight: 0.8
+    weight: 0.6667
     avg_copies: 4.0
-  temur-prowess:
+  izzet-prowess:
     weight: 1.0
     avg_copies: 4.0
 ---

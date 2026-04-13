@@ -1,5 +1,5 @@
 ---
-archetype: affinity-aggro
+archetype: affinity
 date: '2026-04-08'
 finish: 1st
 pilot: Rayst

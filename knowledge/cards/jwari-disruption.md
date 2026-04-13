@@ -8,7 +8,7 @@ set: znr
 type: Instant // Land
 meta_presence: 0.0271
 archetypes:
-  landless-belcher:
+  mono-blue-belcher:
     weight: 1.0
     avg_copies: 3.38
 ---

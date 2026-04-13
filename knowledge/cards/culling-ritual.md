@@ -16,7 +16,7 @@ archetypes:
   yawgmoth-combo:
     weight: 0.4286
     avg_copies: 1.67
-  temur-cascade:
+  simic-ritual:
     weight: 0.8333
     avg_copies: 3.1
 ---

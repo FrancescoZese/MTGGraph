@@ -12,13 +12,13 @@ archetypes:
   dimir-control:
     weight: 0.6667
     avg_copies: 1.0
-  landless-belcher:
+  mono-blue-belcher:
     weight: 0.3077
     avg_copies: 1.0
-  reanimator:
+  grixis-reanimator:
     weight: 1.0
     avg_copies: 1.85
   izzet-prowess:
-    weight: 0.8333
+    weight: 0.7692
     avg_copies: 1.7
 ---

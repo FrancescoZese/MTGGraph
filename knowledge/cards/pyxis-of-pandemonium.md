@@ -8,7 +8,7 @@ set: ths
 type: Artifact
 meta_presence: 0.0021
 archetypes:
-  lantern-control:
+  rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 2.0
 ---

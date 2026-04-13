@@ -9,7 +9,7 @@ set: mh1
 type: Creature — Phyrexian Carrier
 meta_presence: 0.0021
 archetypes:
-  sultai-frog:
+  sultai-reanimator:
     weight: 1.0
     avg_copies: 1.0
 ---

@@ -12,10 +12,10 @@ archetypes:
   necrodominance:
     weight: 1.0
     avg_copies: 2.0
-  reanimator:
+  grixis-reanimator:
     weight: 0.8462
     avg_copies: 2.73
-  four-color-shadow:
+  grixis-shadow:
     weight: 1.0
     avg_copies: 1.0
 ---

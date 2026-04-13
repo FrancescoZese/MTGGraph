@@ -2,32 +2,32 @@
 colors:
 - U
 - G
-name: Temur Cascade
+name: Simic Ritual
 meta_share: 0.025
 list_count: 12
 top_cards:
-- name: Flare of Denial
+- name: Ice-Fang Coatl
   weight: 1.0
   avg_copies: 4.0
-- name: Ice-Fang Coatl
+- name: Flare of Denial
   weight: 1.0
   avg_copies: 4.0
 - name: Birthing Ritual
   weight: 1.0
   avg_copies: 4.0
-- name: Misty Rainforest
+- name: Coiling Oracle
   weight: 1.0
   avg_copies: 4.0
-- name: Coiling Oracle
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 4.0
 - name: Sink into Stupor // Soporific Springs
   weight: 1.0
   avg_copies: 3.92
-- name: Abhorrent Oculus
+- name: Subtlety
   weight: 1.0
   avg_copies: 3.75
-- name: Subtlety
+- name: Abhorrent Oculus
   weight: 1.0
   avg_copies: 3.75
 - name: Shardless Agent
@@ -111,43 +111,43 @@ top_cards:
 - name: Fatal Push
   weight: 0.0833
   avg_copies: 2.0
-- name: Steam Vents
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Neoform
+- name: Thundering Falls
   weight: 0.0833
   avg_copies: 1.0
 - name: Polluted Delta
   weight: 0.0833
   avg_copies: 1.0
-- name: Fade from History
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Ephara's Dispersal
+- name: Pond Prophet
   weight: 0.0833
   avg_copies: 1.0
 - name: Stomping Ground
   weight: 0.0833
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Steam Vents
   weight: 0.0833
   avg_copies: 1.0
-- name: Pond Prophet
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Overgrown Tomb
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Firespout
+- name: Fade from History
   weight: 0.0833
   avg_copies: 1.0
 - name: Pick Your Poison
   weight: 0.0833
   avg_copies: 1.0
-- name: Flooded Strand
+- name: Neoform
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Ephara's Dispersal
   weight: 0.0833
   avg_copies: 1.0
 - name: Scalding Tarn
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Flooded Strand
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Firespout
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Overgrown Tomb
   weight: 0.0833
   avg_copies: 1.0
 ---

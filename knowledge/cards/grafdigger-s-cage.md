@@ -8,7 +8,7 @@ set: m20
 type: Artifact
 meta_presence: 0.1125
 archetypes:
-  landless-belcher:
+  mono-blue-belcher:
     weight: 0.3077
     avg_copies: 1.0
   eldrazi-tron:
@@ -17,8 +17,8 @@ archetypes:
   hardened-scales:
     weight: 1.0
     avg_copies: 1.0
-  affinity-aggro:
-    weight: 0.7111
+  affinity:
+    weight: 0.6275
     avg_copies: 1.06
   hammer-time:
     weight: 0.5
@@ -29,7 +29,7 @@ archetypes:
   orzhov-blink:
     weight: 0.5
     avg_copies: 1.0
-  lantern-control:
+  rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 1.0
   sultai-artifacts:

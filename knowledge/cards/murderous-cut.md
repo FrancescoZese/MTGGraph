@@ -13,6 +13,6 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   hollow-one:
-    weight: 0.6
+    weight: 0.5
     avg_copies: 1.0
 ---

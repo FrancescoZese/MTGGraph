@@ -8,7 +8,7 @@ set: mom
 type: Legendary Creature — Human Wizard // Legendary Creature — Phyrexian Wizard
 meta_presence: 0.0021
 archetypes:
-  legends-combo:
+  kethis-combo:
     weight: 1.0
     avg_copies: 1.0
 ---

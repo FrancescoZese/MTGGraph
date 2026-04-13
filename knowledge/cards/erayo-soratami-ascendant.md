@@ -10,6 +10,6 @@ type: Legendary Creature — Moonfolk Monk // Legendary Enchantment
 meta_presence: 0.0021
 archetypes:
   affinity:
-    weight: 0.1667
+    weight: 0.0196
     avg_copies: 4.0
 ---

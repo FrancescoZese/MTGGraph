@@ -5,6 +5,9 @@ name: Amulet Titan
 meta_share: 0.0417
 list_count: 20
 top_cards:
+- name: Spelunking
+  weight: 1.0
+  avg_copies: 4.0
 - name: Arboreal Grazer
   weight: 1.0
   avg_copies: 4.0
@@ -12,9 +15,6 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Amulet of Vigor
-  weight: 1.0
-  avg_copies: 4.0
-- name: Spelunking
   weight: 1.0
   avg_copies: 4.0
 - name: Primeval Titan
@@ -56,31 +56,31 @@ top_cards:
 - name: Aftermath Analyst
   weight: 1.0
   avg_copies: 1.1
-- name: Mirrorpool
-  weight: 1.0
-  avg_copies: 1.0
-- name: Shifting Woodland
-  weight: 1.0
-  avg_copies: 1.0
-- name: Urza's Cave
+- name: Bojuka Bog
   weight: 1.0
   avg_copies: 1.0
 - name: Vesuva
   weight: 1.0
   avg_copies: 1.0
+- name: Echoing Deeps
+  weight: 1.0
+  avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
-- name: Bojuka Bog
+- name: Shifting Woodland
   weight: 1.0
   avg_copies: 1.0
-- name: Echoing Deeps
+- name: Mirrorpool
   weight: 1.0
   avg_copies: 1.0
 - name: Tolaria West
   weight: 1.0
   avg_copies: 1.0
 - name: Hanweir Battlements
+  weight: 1.0
+  avg_copies: 1.0
+- name: Urza's Cave
   weight: 1.0
   avg_copies: 1.0
 - name: Green Sun's Zenith
@@ -131,10 +131,10 @@ top_cards:
 - name: Elder Gargaroth
   weight: 0.15
   avg_copies: 1.0
-- name: Keen-Eyed Curator
+- name: The Wandering Minstrel
   weight: 0.1
   avg_copies: 1.0
-- name: The Wandering Minstrel
+- name: Keen-Eyed Curator
   weight: 0.1
   avg_copies: 1.0
 - name: Soul-Guide Lantern
@@ -143,28 +143,28 @@ top_cards:
 - name: Explore
   weight: 0.05
   avg_copies: 3.0
-- name: Elvish Reclaimer
-  weight: 0.05
-  avg_copies: 1.0
-- name: Creeping Corrosion
-  weight: 0.05
-  avg_copies: 1.0
 - name: Outland Liberator // Frenzied Trapbreaker
   weight: 0.05
   avg_copies: 1.0
 - name: Wooded Foothills
   weight: 0.05
   avg_copies: 1.0
-- name: Insidious Fungus
+- name: Elvish Reclaimer
+  weight: 0.05
+  avg_copies: 1.0
+- name: Hedge Maze
   weight: 0.05
   avg_copies: 1.0
 - name: Commercial District
   weight: 0.05
   avg_copies: 1.0
-- name: Dosan the Falling Leaf
+- name: Insidious Fungus
   weight: 0.05
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Creeping Corrosion
+  weight: 0.05
+  avg_copies: 1.0
+- name: Dosan the Falling Leaf
   weight: 0.05
   avg_copies: 1.0
 ---

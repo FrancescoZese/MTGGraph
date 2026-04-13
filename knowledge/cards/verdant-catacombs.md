@@ -14,19 +14,19 @@ archetypes:
   neoform-combo:
     weight: 0.4444
     avg_copies: 1.0
+  hollow-one:
+    weight: 0.1667
+    avg_copies: 2.0
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 4.0
   eldrazi-ramp:
     weight: 0.7
     avg_copies: 1.0
-  temur-cascade:
+  simic-ritual:
     weight: 0.8333
     avg_copies: 3.8
-  hollow-one:
-    weight: 0.2
-    avg_copies: 2.0
-  sultai-frog:
+  sultai-reanimator:
     weight: 1.0
     avg_copies: 4.0
   jund-saga:

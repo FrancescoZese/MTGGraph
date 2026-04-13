@@ -9,10 +9,10 @@ set: 2x2
 type: Sorcery
 meta_presence: 0.0292
 archetypes:
-  reanimator:
+  grixis-reanimator:
     weight: 1.0
     avg_copies: 3.15
-  sultai-frog:
+  sultai-reanimator:
     weight: 1.0
     avg_copies: 4.0
 ---

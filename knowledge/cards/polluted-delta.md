@@ -29,25 +29,25 @@ archetypes:
   mill:
     weight: 1.0
     avg_copies: 4.0
-  reanimator:
+  grixis-reanimator:
     weight: 1.0
     avg_copies: 4.0
   neoform-combo:
     weight: 0.5556
     avg_copies: 1.2
-  temur-cascade:
+  hollow-one:
+    weight: 0.1667
+    avg_copies: 1.0
+  simic-ritual:
     weight: 0.0833
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0833
+    weight: 0.0769
     avg_copies: 1.0
   esper-blink:
     weight: 1.0
     avg_copies: 1.5
-  hollow-one:
-    weight: 0.2
-    avg_copies: 1.0
-  sultai-frog:
+  sultai-reanimator:
     weight: 1.0
     avg_copies: 4.0
   esper-control:
@@ -56,7 +56,7 @@ archetypes:
   izzet-eldrazi:
     weight: 1.0
     avg_copies: 1.0
-  four-color-shadow:
+  grixis-shadow:
     weight: 1.0
     avg_copies: 4.0
 ---

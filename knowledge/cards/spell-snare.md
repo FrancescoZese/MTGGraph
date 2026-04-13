@@ -15,7 +15,7 @@ archetypes:
   dimir-frog:
     weight: 1.0
     avg_copies: 2.44
-  landless-belcher:
+  mono-blue-belcher:
     weight: 0.7692
     avg_copies: 1.92
   jeskai-energy:
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.1111
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.25
+    weight: 0.2308
     avg_copies: 1.33
   indomitable-creativity:
     weight: 1.0

@@ -12,13 +12,10 @@ archetypes:
   domain-zoo:
     weight: 0.4762
     avg_copies: 2.0
-  vengevine:
-    weight: 1.0
-    avg_copies: 3.0
+  hollow-one:
+    weight: 0.6667
+    avg_copies: 2.25
   birthing-ritual:
     weight: 1.0
     avg_copies: 1.0
-  hollow-one:
-    weight: 0.6
-    avg_copies: 2.0
 ---

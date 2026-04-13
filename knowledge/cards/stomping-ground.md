@@ -11,24 +11,21 @@ archetypes:
   jeskai-energy:
     weight: 0.0179
     avg_copies: 1.0
-  vengevine:
-    weight: 1.0
+  hollow-one:
+    weight: 0.1667
     avg_copies: 2.0
   eldrazi-ramp:
     weight: 0.8
     avg_copies: 1.25
-  temur-cascade:
+  simic-ritual:
     weight: 0.0833
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.5
-    avg_copies: 1.0
+    weight: 0.5385
+    avg_copies: 1.14
   birthing-ritual:
     weight: 1.0
     avg_copies: 1.0
-  temur-prowess:
-    weight: 1.0
-    avg_copies: 2.0
   indomitable-creativity:
     weight: 1.0
     avg_copies: 1.0

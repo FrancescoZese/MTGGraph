@@ -11,6 +11,6 @@ type: Instant
 meta_presence: 0.0042
 archetypes:
   hollow-one:
-    weight: 0.4
+    weight: 0.3333
     avg_copies: 2.0
 ---

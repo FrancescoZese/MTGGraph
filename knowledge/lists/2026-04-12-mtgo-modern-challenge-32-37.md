@@ -1,5 +1,5 @@
 ---
-archetype: affinity-aggro
+archetype: affinity
 date: '2026-04-12'
 finish: 29th
 pilot: gingeralegames

@@ -9,7 +9,7 @@ set: mm2
 type: Legendary Planeswalker — Tezzeret
 meta_presence: 0.0187
 archetypes:
-  landless-belcher:
+  mono-blue-belcher:
     weight: 0.6923
     avg_copies: 1.0
 ---

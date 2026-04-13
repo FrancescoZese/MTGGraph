@@ -20,7 +20,7 @@ archetypes:
   necrodominance:
     weight: 0.1429
     avg_copies: 4.0
-  reanimator:
+  grixis-reanimator:
     weight: 1.0
     avg_copies: 4.0
   burn:
@@ -29,25 +29,22 @@ archetypes:
   mardu-blink:
     weight: 1.0
     avg_copies: 2.0
-  vengevine:
-    weight: 1.0
-    avg_copies: 2.0
-  izzet-prowess:
-    weight: 0.9167
-    avg_copies: 2.73
   hollow-one:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.67
+  izzet-prowess:
+    weight: 0.8462
+    avg_copies: 2.73
   indomitable-creativity:
     weight: 1.0
     avg_copies: 2.0
   jund-saga:
     weight: 1.0
     avg_copies: 3.0
-  lantern-control:
+  rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 4.0
-  four-color-shadow:
+  grixis-shadow:
     weight: 1.0
     avg_copies: 4.0
 ---

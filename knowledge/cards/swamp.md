@@ -29,19 +29,19 @@ archetypes:
   mill:
     weight: 0.6667
     avg_copies: 1.5
-  reanimator:
+  grixis-reanimator:
     weight: 1.0
     avg_copies: 1.38
+  hollow-one:
+    weight: 0.8333
+    avg_copies: 1.0
   yawgmoth-combo:
     weight: 0.4286
     avg_copies: 1.0
   esper-blink:
     weight: 1.0
     avg_copies: 1.0
-  hollow-one:
-    weight: 1.0
-    avg_copies: 1.0
-  sultai-frog:
+  sultai-reanimator:
     weight: 1.0
     avg_copies: 2.0
   orzhov-blink:
@@ -50,10 +50,10 @@ archetypes:
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
-  lantern-control:
+  rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 4.0
-  four-color-shadow:
+  grixis-shadow:
     weight: 1.0
     avg_copies: 1.0
 ---

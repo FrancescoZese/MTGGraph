@@ -8,7 +8,7 @@ set: 2xm
 type: Land
 meta_presence: 0.0021
 archetypes:
-  affinity-aggro:
-    weight: 0.0222
+  affinity:
+    weight: 0.0196
     avg_copies: 2.0
 ---

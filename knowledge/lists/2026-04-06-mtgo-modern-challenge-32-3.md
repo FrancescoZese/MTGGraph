@@ -1,5 +1,5 @@
 ---
-archetype: affinity-aggro
+archetype: affinity
 date: '2026-04-06'
 finish: 14th
 pilot: ChinaNO2

@@ -9,25 +9,25 @@ set: dsk
 type: Sorcery
 meta_presence: 0.0458
 archetypes:
+  affinity:
+    weight: 0.0196
+    avg_copies: 2.0
   domain-zoo:
     weight: 0.1905
     avg_copies: 1.0
-  reanimator:
+  grixis-reanimator:
     weight: 1.0
     avg_copies: 1.92
   burn:
     weight: 1.0
     avg_copies: 2.0
-  temur-cascade:
+  simic-ritual:
     weight: 0.0833
     avg_copies: 3.0
-  affinity:
-    weight: 0.1667
-    avg_copies: 2.0
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
-  lantern-control:
+  rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 3.0
 ---

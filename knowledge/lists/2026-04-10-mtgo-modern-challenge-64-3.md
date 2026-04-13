@@ -1,5 +1,5 @@
 ---
-archetype: temur-cascade
+archetype: simic-ritual
 date: '2026-04-10'
 finish: 3rd
 pilot: -=Alfa=-

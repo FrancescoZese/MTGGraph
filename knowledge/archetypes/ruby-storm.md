@@ -6,9 +6,6 @@ name: Ruby Storm
 meta_share: 0.025
 list_count: 12
 top_cards:
-- name: Pyretic Ritual
-  weight: 1.0
-  avg_copies: 4.0
 - name: Desperate Ritual
   weight: 1.0
   avg_copies: 4.0
@@ -16,6 +13,9 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Ruby Medallion
+  weight: 1.0
+  avg_copies: 4.0
+- name: Pyretic Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Valakut Awakening // Valakut Stoneforge
@@ -27,13 +27,13 @@ top_cards:
 - name: Brotherhood's End
   weight: 1.0
   avg_copies: 1.58
-- name: Ral, Monsoon Mage // Ral, Leyline Prodigy
+- name: Wrenn's Resolve
   weight: 0.9167
   avg_copies: 4.0
 - name: Reckless Impulse
   weight: 0.9167
   avg_copies: 4.0
-- name: Wrenn's Resolve
+- name: Ral, Monsoon Mage // Ral, Leyline Prodigy
   weight: 0.9167
   avg_copies: 4.0
 - name: Prismatic Ending
@@ -54,19 +54,19 @@ top_cards:
 - name: Scalding Tarn
   weight: 0.9167
   avg_copies: 2.09
+- name: Past in Flames
+  weight: 0.9167
+  avg_copies: 2.0
 - name: Wish
   weight: 0.9167
   avg_copies: 2.0
 - name: Strike It Rich
   weight: 0.9167
   avg_copies: 2.0
-- name: Artist's Talent
-  weight: 0.9167
-  avg_copies: 2.0
-- name: Past in Flames
-  weight: 0.9167
-  avg_copies: 2.0
 - name: Bloodstained Mire
+  weight: 0.9167
+  avg_copies: 2.0
+- name: Artist's Talent
   weight: 0.9167
   avg_copies: 2.0
 - name: Elegant Parlor
@@ -105,6 +105,9 @@ top_cards:
 - name: Fire-Brained Scheme
   weight: 0.1667
   avg_copies: 1.0
+- name: Sundering Eruption // Volcanic Fissure
+  weight: 0.0833
+  avg_copies: 4.0
 - name: Spikefield Hazard // Spikefield Cave
   weight: 0.0833
   avg_copies: 4.0
@@ -120,46 +123,43 @@ top_cards:
 - name: Goblin Charbelcher
   weight: 0.0833
   avg_copies: 4.0
-- name: Sundering Eruption // Volcanic Fissure
-  weight: 0.0833
-  avg_copies: 4.0
-- name: Silence
-  weight: 0.0833
-  avg_copies: 3.0
 - name: Irencrag Feat
   weight: 0.0833
   avg_copies: 3.0
+- name: Silence
+  weight: 0.0833
+  avg_copies: 3.0
+- name: Bitter Reunion
+  weight: 0.0833
+  avg_copies: 2.0
 - name: Lantern of the Lost
   weight: 0.0833
   avg_copies: 2.0
 - name: Flusterstorm
   weight: 0.0833
   avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 0.0833
-  avg_copies: 2.0
-- name: Bitter Reunion
-  weight: 0.0833
-  avg_copies: 2.0
 - name: Serum Powder
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Vexing Bauble
   weight: 0.0833
   avg_copies: 2.0
 - name: Blood Moon
   weight: 0.0833
   avg_copies: 1.5
+- name: Thundering Falls
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Galvanic Relay
+  weight: 0.0833
+  avg_copies: 1.0
 - name: Steam Vents
   weight: 0.0833
   avg_copies: 1.0
 - name: Fire Magic
   weight: 0.0833
   avg_copies: 1.0
-- name: Alchemist's Gambit
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Rush of Inspiration // Crackling Falls
+- name: Meltdown
   weight: 0.0833
   avg_copies: 1.0
 - name: Redirect Lightning
@@ -168,10 +168,10 @@ top_cards:
 - name: Phlage, Titan of Fire's Fury
   weight: 0.0833
   avg_copies: 1.0
-- name: Galvanic Relay
+- name: Alchemist's Gambit
   weight: 0.0833
   avg_copies: 1.0
-- name: Meltdown
+- name: Rush of Inspiration // Crackling Falls
   weight: 0.0833
   avg_copies: 1.0
 - name: Legion Leadership // Legion Stronghold

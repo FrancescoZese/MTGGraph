@@ -17,7 +17,7 @@ archetypes:
   mill:
     weight: 1.0
     avg_copies: 3.67
-  boros-taxes:
+  boros-ponza:
     weight: 1.0
     avg_copies: 4.0
 ---

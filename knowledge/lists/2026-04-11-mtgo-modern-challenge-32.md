@@ -1,5 +1,5 @@
 ---
-archetype: affinity-aggro
+archetype: affinity
 date: '2026-04-11'
 finish: 13th
 pilot: Death_Lighter

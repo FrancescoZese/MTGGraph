@@ -11,7 +11,7 @@ archetypes:
   eldrazi-tron:
     weight: 0.3
     avg_copies: 1.0
-  gruul-belcher:
+  mono-red-belcher:
     weight: 0.5
     avg_copies: 4.0
   orzhov-blink:

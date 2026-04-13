@@ -11,10 +11,10 @@ top_cards:
 - name: Planar Genesis
   weight: 1.0
   avg_copies: 4.0
-- name: Neoform
+- name: Eldritch Evolution
   weight: 1.0
   avg_copies: 4.0
-- name: Eldritch Evolution
+- name: Neoform
   weight: 1.0
   avg_copies: 4.0
 - name: Allosaurus Rider
@@ -59,13 +59,13 @@ top_cards:
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.11
-- name: Boseiju, Who Endures
-  weight: 1.0
-  avg_copies: 1.0
 - name: Xenagos, God of Revels
   weight: 1.0
   avg_copies: 1.0
 - name: Griselbrand
+  weight: 1.0
+  avg_copies: 1.0
+- name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.0
 - name: Veil of Summer
@@ -77,16 +77,16 @@ top_cards:
 - name: Ureni, the Song Unending
   weight: 0.8889
   avg_copies: 1.0
-- name: Snow-Covered Island
-  weight: 0.8889
-  avg_copies: 1.0
 - name: Elesh Norn, Grand Cenobite
   weight: 0.8889
   avg_copies: 1.0
-- name: Snow-Covered Forest
+- name: Wooded Foothills
   weight: 0.8889
   avg_copies: 1.0
-- name: Wooded Foothills
+- name: Snow-Covered Island
+  weight: 0.8889
+  avg_copies: 1.0
+- name: Snow-Covered Forest
   weight: 0.8889
   avg_copies: 1.0
 - name: Atraxa, Grand Unifier
@@ -128,28 +128,28 @@ top_cards:
 - name: Hexing Squelcher
   weight: 0.1111
   avg_copies: 4.0
+- name: Thundering Falls
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Spell Snare
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Forest
+  weight: 0.1111
+  avg_copies: 1.0
 - name: Island
   weight: 0.1111
   avg_copies: 1.0
 - name: Windswept Heath
   weight: 0.1111
   avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Preordain
+- name: Commercial District
   weight: 0.1111
   avg_copies: 1.0
 - name: Brainsurge
   weight: 0.1111
   avg_copies: 1.0
-- name: Forest
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Commercial District
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Spell Snare
+- name: Preordain
   weight: 0.1111
   avg_copies: 1.0
 ---

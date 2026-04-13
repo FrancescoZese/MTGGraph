@@ -25,16 +25,16 @@ top_cards:
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.43
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.02
 - name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.02
-- name: Thundering Falls
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.02
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Arid Mesa
@@ -154,16 +154,16 @@ top_cards:
 - name: Jace, the Mind Sculptor
   weight: 0.0357
   avg_copies: 1.0
-- name: Wear // Tear
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Spell Snare
-  weight: 0.0357
-  avg_copies: 1.0
 - name: Unholy Heat
   weight: 0.0357
   avg_copies: 1.0
+- name: Wear // Tear
+  weight: 0.0357
+  avg_copies: 1.0
 - name: Kataki, War's Wage
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Spell Snare
   weight: 0.0357
   avg_copies: 1.0
 - name: Floodfarm Verge
@@ -172,52 +172,43 @@ top_cards:
 - name: Orim's Chant
   weight: 0.0179
   avg_copies: 4.0
-- name: Consult the Star Charts
-  weight: 0.0179
-  avg_copies: 3.0
-- name: Windswept Heath
-  weight: 0.0179
-  avg_copies: 3.0
 - name: Wrenn and Six
   weight: 0.0179
   avg_copies: 3.0
 - name: Misty Rainforest
   weight: 0.0179
   avg_copies: 3.0
-- name: Mana Leak
+- name: Consult the Star Charts
   weight: 0.0179
-  avg_copies: 2.0
+  avg_copies: 3.0
+- name: Windswept Heath
+  weight: 0.0179
+  avg_copies: 3.0
 - name: Lightning Bolt
   weight: 0.0179
   avg_copies: 2.0
 - name: Tune the Narrative
   weight: 0.0179
   avg_copies: 2.0
-- name: Boseiju, Who Endures
+- name: Stony Silence
   weight: 0.0179
   avg_copies: 2.0
 - name: Eternal Witness
   weight: 0.0179
   avg_copies: 2.0
+- name: Mana Leak
+  weight: 0.0179
+  avg_copies: 2.0
 - name: Stock Up
   weight: 0.0179
   avg_copies: 2.0
-- name: Stony Silence
+- name: Boseiju, Who Endures
   weight: 0.0179
   avg_copies: 2.0
-- name: Omnath, Locus of Creation
-  weight: 0.0179
-  avg_copies: 1.0
-- name: Temple Garden
+- name: Lush Portico
   weight: 0.0179
   avg_copies: 1.0
 - name: Stomping Ground
-  weight: 0.0179
-  avg_copies: 1.0
-- name: Supreme Verdict
-  weight: 0.0179
-  avg_copies: 1.0
-- name: Lush Portico
   weight: 0.0179
   avg_copies: 1.0
 - name: Subtlety
@@ -226,10 +217,19 @@ top_cards:
 - name: Hedge Maze
   weight: 0.0179
   avg_copies: 1.0
+- name: Omnath, Locus of Creation
+  weight: 0.0179
+  avg_copies: 1.0
 - name: Nihil Spellbomb
   weight: 0.0179
   avg_copies: 1.0
 - name: Breeding Pool
+  weight: 0.0179
+  avg_copies: 1.0
+- name: Temple Garden
+  weight: 0.0179
+  avg_copies: 1.0
+- name: Supreme Verdict
   weight: 0.0179
   avg_copies: 1.0
 ---

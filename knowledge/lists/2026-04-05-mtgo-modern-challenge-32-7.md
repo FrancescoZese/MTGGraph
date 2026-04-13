@@ -1,5 +1,5 @@
 ---
-archetype: reanimator
+archetype: grixis-reanimator
 date: '2026-04-05'
 finish: 13th
 pilot: Wiltron92

@@ -32,18 +32,12 @@ archetypes:
   hammer-time:
     weight: 0.5
     avg_copies: 1.0
-  vengevine:
-    weight: 1.0
-    avg_copies: 3.0
-  izzet-prowess:
-    weight: 0.5833
-    avg_copies: 2.29
   hollow-one:
-    weight: 0.8
-    avg_copies: 1.75
-  temur-prowess:
-    weight: 1.0
-    avg_copies: 3.0
+    weight: 0.8333
+    avg_copies: 2.0
+  izzet-prowess:
+    weight: 0.6154
+    avg_copies: 2.38
   indomitable-creativity:
     weight: 1.0
     avg_copies: 4.0

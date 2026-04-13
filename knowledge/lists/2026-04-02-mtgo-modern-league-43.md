@@ -1,5 +1,5 @@
 ---
-archetype: sultai-frog
+archetype: sultai-reanimator
 date: '2026-04-02'
 finish: 5-0
 pilot: TomCairns

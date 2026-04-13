@@ -8,7 +8,7 @@ set: dmu
 type: Land
 meta_presence: 0.0021
 archetypes:
-  legends-combo:
+  kethis-combo:
     weight: 1.0
     avg_copies: 4.0
 ---

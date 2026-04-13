@@ -1,5 +1,5 @@
 ---
-archetype: four-color-shadow
+archetype: grixis-shadow
 date: '2026-04-12'
 finish: 5-0
 pilot: epicmingo

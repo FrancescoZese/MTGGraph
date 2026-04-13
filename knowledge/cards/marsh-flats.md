@@ -29,12 +29,12 @@ archetypes:
   hammer-time:
     weight: 1.0
     avg_copies: 3.0
+  hollow-one:
+    weight: 0.1667
+    avg_copies: 2.0
   esper-blink:
     weight: 1.0
     avg_copies: 4.0
-  hollow-one:
-    weight: 0.2
-    avg_copies: 2.0
   orzhov-blink:
     weight: 1.0
     avg_copies: 4.0

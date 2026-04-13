@@ -8,14 +8,11 @@ set: thb
 type: Legendary Artifact — Equipment
 meta_presence: 0.1083
 archetypes:
-  affinity-aggro:
-    weight: 1.0
+  affinity:
+    weight: 0.9608
     avg_copies: 1.0
   hammer-time:
     weight: 1.0
-    avg_copies: 1.0
-  affinity:
-    weight: 0.6667
     avg_copies: 1.0
   jund-saga:
     weight: 1.0

@@ -9,7 +9,7 @@ set: uma
 type: Instant — Arcane
 meta_presence: 0.0271
 archetypes:
-  landless-belcher:
+  mono-blue-belcher:
     weight: 1.0
     avg_copies: 4.0
 ---

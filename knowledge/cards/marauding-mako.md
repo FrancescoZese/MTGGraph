@@ -9,10 +9,7 @@ set: dft
 type: Creature — Shark Pirate
 meta_presence: 0.0042
 archetypes:
-  vengevine:
-    weight: 1.0
-    avg_copies: 4.0
   hollow-one:
-    weight: 0.2
-    avg_copies: 2.0
+    weight: 0.3333
+    avg_copies: 3.0
 ---

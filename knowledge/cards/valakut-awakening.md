@@ -11,7 +11,7 @@ archetypes:
   ruby-storm:
     weight: 1.0
     avg_copies: 2.17
-  gruul-belcher:
+  mono-red-belcher:
     weight: 1.0
     avg_copies: 3.5
 ---

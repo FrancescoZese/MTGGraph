@@ -9,9 +9,6 @@ set: m10
 type: Sorcery
 meta_presence: 0.0125
 archetypes:
-  vengevine:
-    weight: 1.0
-    avg_copies: 4.0
   hollow-one:
     weight: 1.0
     avg_copies: 4.0

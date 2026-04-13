@@ -8,16 +8,13 @@ set: mkm
 type: Land — Swamp Mountain
 meta_presence: 0.0479
 archetypes:
-  reanimator:
+  grixis-reanimator:
     weight: 1.0
     avg_copies: 1.0
   burn:
     weight: 1.0
     avg_copies: 2.0
   mardu-blink:
-    weight: 1.0
-    avg_copies: 1.0
-  vengevine:
     weight: 1.0
     avg_copies: 1.0
   hollow-one:

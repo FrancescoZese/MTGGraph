@@ -24,7 +24,7 @@ archetypes:
   azorius-control:
     weight: 1.0
     avg_copies: 1.5
-  boros-taxes:
+  boros-ponza:
     weight: 1.0
     avg_copies: 2.0
 ---

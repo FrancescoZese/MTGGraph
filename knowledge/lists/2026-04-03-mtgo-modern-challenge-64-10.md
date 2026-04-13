@@ -1,5 +1,5 @@
 ---
-archetype: landless-belcher
+archetype: mono-blue-belcher
 date: '2026-04-03'
 finish: 21st
 pilot: Lord_of_The_Wastes

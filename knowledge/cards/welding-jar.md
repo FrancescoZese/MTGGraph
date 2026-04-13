@@ -11,7 +11,7 @@ archetypes:
   hardened-scales:
     weight: 1.0
     avg_copies: 1.0
-  affinity-aggro:
-    weight: 0.8444
+  affinity:
+    weight: 0.7451
     avg_copies: 1.37
 ---

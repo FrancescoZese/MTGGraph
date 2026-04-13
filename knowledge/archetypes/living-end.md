@@ -10,10 +10,10 @@ top_cards:
 - name: Shardless Agent
   weight: 1.0
   avg_copies: 4.0
-- name: Endurance
+- name: Subtlety
   weight: 1.0
   avg_copies: 4.0
-- name: Subtlety
+- name: Endurance
   weight: 1.0
   avg_copies: 4.0
 - name: Force of Negation
@@ -40,13 +40,13 @@ top_cards:
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
-- name: Island
-  weight: 1.0
-  avg_copies: 1.0
 - name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Hedge Maze
+  weight: 1.0
+  avg_copies: 1.0
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Street Wraith
@@ -76,13 +76,13 @@ top_cards:
 - name: Overlord of the Balemurk
   weight: 0.5556
   avg_copies: 4.0
-- name: Force of Vigor
-  weight: 0.5556
-  avg_copies: 2.2
 - name: Dismember
   weight: 0.5556
   avg_copies: 2.2
 - name: Formidable Speaker
+  weight: 0.5556
+  avg_copies: 2.2
+- name: Force of Vigor
   weight: 0.5556
   avg_copies: 2.2
 - name: Polluted Delta
@@ -97,10 +97,10 @@ top_cards:
 - name: Undercity Sewers
   weight: 0.5556
   avg_copies: 1.0
-- name: Damping Sphere
+- name: Halo Forager
   weight: 0.5556
   avg_copies: 1.0
-- name: Halo Forager
+- name: Damping Sphere
   weight: 0.5556
   avg_copies: 1.0
 - name: Mai, Scornful Striker
@@ -112,10 +112,10 @@ top_cards:
 - name: Clarion Conqueror
   weight: 0.4444
   avg_copies: 2.75
-- name: Culling Ritual
+- name: Teferi, Time Raveler
   weight: 0.4444
   avg_copies: 2.0
-- name: Teferi, Time Raveler
+- name: Culling Ritual
   weight: 0.4444
   avg_copies: 2.0
 - name: Troll of Khazad-dûm
@@ -124,7 +124,10 @@ top_cards:
 - name: Deceit
   weight: 0.4444
   avg_copies: 1.5
-- name: Commandeer
+- name: Lush Portico
+  weight: 0.4444
+  avg_copies: 1.0
+- name: Hallowed Fountain
   weight: 0.4444
   avg_copies: 1.0
 - name: Temple Garden
@@ -136,19 +139,16 @@ top_cards:
 - name: Harvester of Misery
   weight: 0.4444
   avg_copies: 1.0
-- name: Mistrise Village
+- name: Commandeer
   weight: 0.4444
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Disciple of Freyalise // Garden of Freyalise
   weight: 0.4444
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.4444
   avg_copies: 1.0
-- name: Lush Portico
-  weight: 0.4444
-  avg_copies: 1.0
-- name: Disciple of Freyalise // Garden of Freyalise
+- name: Mistrise Village
   weight: 0.4444
   avg_copies: 1.0
 - name: Waker of Waves
@@ -160,10 +160,10 @@ top_cards:
 - name: Deafening Silence
   weight: 0.3333
   avg_copies: 1.0
-- name: Harbinger of the Seas
+- name: Swamp
   weight: 0.2222
   avg_copies: 1.0
-- name: Swamp
+- name: Harbinger of the Seas
   weight: 0.2222
   avg_copies: 1.0
 - name: Kavaero, Mind-Bitten
@@ -172,22 +172,22 @@ top_cards:
 - name: Atraxa, Grand Unifier
   weight: 0.1111
   avg_copies: 3.0
+- name: Titanoth Rex
+  weight: 0.1111
+  avg_copies: 2.0
 - name: Verdant Catacombs
   weight: 0.1111
   avg_copies: 2.0
 - name: Drannith Magistrate
   weight: 0.1111
   avg_copies: 2.0
-- name: Titanoth Rex
-  weight: 0.1111
-  avg_copies: 2.0
 - name: Flare of Denial
   weight: 0.1111
   avg_copies: 1.0
-- name: Archon of Cruelty
+- name: Sunken Ruins
   weight: 0.1111
   avg_copies: 1.0
-- name: Sunken Ruins
+- name: Archon of Cruelty
   weight: 0.1111
   avg_copies: 1.0
 ---

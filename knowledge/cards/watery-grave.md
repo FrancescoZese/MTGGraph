@@ -29,25 +29,25 @@ archetypes:
   mill:
     weight: 1.0
     avg_copies: 1.33
-  reanimator:
+  grixis-reanimator:
     weight: 1.0
     avg_copies: 1.92
-  legends-combo:
+  kethis-combo:
     weight: 1.0
     avg_copies: 1.0
-  temur-cascade:
+  simic-ritual:
     weight: 0.75
     avg_copies: 1.0
   esper-blink:
     weight: 1.0
     avg_copies: 1.0
-  sultai-frog:
+  sultai-reanimator:
     weight: 1.0
     avg_copies: 1.0
   esper-control:
     weight: 1.0
     avg_copies: 2.0
-  four-color-shadow:
+  grixis-shadow:
     weight: 1.0
     avg_copies: 2.0
 ---

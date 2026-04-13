@@ -12,13 +12,10 @@ archetypes:
   dimir-frog:
     weight: 0.1111
     avg_copies: 4.0
-  vengevine:
-    weight: 1.0
-    avg_copies: 4.0
   hollow-one:
     weight: 1.0
     avg_copies: 4.0
-  four-color-shadow:
+  grixis-shadow:
     weight: 1.0
     avg_copies: 4.0
 ---

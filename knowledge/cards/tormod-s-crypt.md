@@ -8,7 +8,7 @@ set: dmr
 type: Artifact
 meta_presence: 0.1667
 archetypes:
-  landless-belcher:
+  mono-blue-belcher:
     weight: 0.3077
     avg_copies: 1.0
   eldrazi-tron:
@@ -17,16 +17,13 @@ archetypes:
   hardened-scales:
     weight: 1.0
     avg_copies: 1.0
-  affinity-aggro:
-    weight: 1.0
-    avg_copies: 2.93
+  affinity:
+    weight: 0.9804
+    avg_copies: 2.73
   hammer-time:
     weight: 1.0
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.25
+    weight: 0.2308
     avg_copies: 1.0
-  affinity:
-    weight: 0.8333
-    avg_copies: 1.17
 ---

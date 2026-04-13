@@ -9,7 +9,7 @@ set: blb
 type: Creature — Otter Wizard
 meta_presence: 0.0187
 archetypes:
-  landless-belcher:
+  mono-blue-belcher:
     weight: 0.6923
     avg_copies: 4.0
 ---

@@ -24,24 +24,21 @@ archetypes:
   domain-zoo:
     weight: 0.0476
     avg_copies: 1.0
-  reanimator:
+  grixis-reanimator:
     weight: 1.0
     avg_copies: 2.0
-  vengevine:
+  hollow-one:
     weight: 1.0
-    avg_copies: 3.0
-  boros-taxes:
+    avg_copies: 2.33
+  boros-ponza:
     weight: 0.6667
     avg_copies: 1.0
-  temur-cascade:
+  simic-ritual:
     weight: 0.1667
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.9167
+    weight: 0.8462
     avg_copies: 1.91
-  hollow-one:
-    weight: 1.0
-    avg_copies: 2.2
   jund-saga:
     weight: 1.0
     avg_copies: 1.0

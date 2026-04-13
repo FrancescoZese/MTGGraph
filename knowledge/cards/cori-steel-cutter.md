@@ -9,13 +9,10 @@ set: tdm
 type: Artifact — Equipment
 meta_presence: 0.0396
 archetypes:
+  affinity:
+    weight: 0.1176
+    avg_copies: 3.5
   izzet-prowess:
     weight: 1.0
     avg_copies: 4.0
-  temur-prowess:
-    weight: 1.0
-    avg_copies: 4.0
-  affinity:
-    weight: 1.0
-    avg_copies: 3.5
 ---

@@ -1,5 +1,5 @@
 ---
-archetype: landless-belcher
+archetype: mono-blue-belcher
 date: '2026-04-01'
 finish: 17th
 pilot: Walker735

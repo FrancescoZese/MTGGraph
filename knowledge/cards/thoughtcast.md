@@ -9,7 +9,7 @@ set: moc
 type: Sorcery
 meta_presence: 0.0125
 archetypes:
-  affinity-aggro:
-    weight: 0.1333
+  affinity:
+    weight: 0.1176
     avg_copies: 3.0
 ---

@@ -8,17 +8,14 @@ set: tmt
 type: Artifact — Equipment
 meta_presence: 0.1083
 archetypes:
-  affinity-aggro:
-    weight: 0.9556
+  affinity:
+    weight: 0.9412
     avg_copies: 1.0
   hammer-time:
     weight: 0.5
     avg_copies: 1.0
-  legends-combo:
+  kethis-combo:
     weight: 1.0
-    avg_copies: 1.0
-  affinity:
-    weight: 0.8333
     avg_copies: 1.0
   jund-saga:
     weight: 1.0

@@ -1,5 +1,5 @@
 ---
-archetype: affinity-aggro
+archetype: affinity
 date: '2026-04-02'
 finish: 3rd
 pilot: sebastianpozzo

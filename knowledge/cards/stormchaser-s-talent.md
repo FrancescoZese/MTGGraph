@@ -10,9 +10,6 @@ type: Enchantment — Class
 meta_presence: 0.0042
 archetypes:
   izzet-prowess:
-    weight: 0.0833
-    avg_copies: 4.0
-  temur-prowess:
-    weight: 1.0
+    weight: 0.1538
     avg_copies: 4.0
 ---

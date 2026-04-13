@@ -12,14 +12,14 @@ archetypes:
   dimir-control:
     weight: 0.0556
     avg_copies: 2.0
-  landless-belcher:
+  mono-blue-belcher:
     weight: 0.4615
     avg_copies: 2.0
   necrodominance:
     weight: 0.1429
     avg_copies: 2.0
-  affinity-aggro:
-    weight: 0.0444
+  affinity:
+    weight: 0.0392
     avg_copies: 1.0
   mono-blue-tron:
     weight: 1.0

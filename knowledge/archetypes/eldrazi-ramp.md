@@ -48,19 +48,19 @@ top_cards:
 - name: Verdant Catacombs
   weight: 0.7
   avg_copies: 1.0
-- name: Urza's Saga
-  weight: 0.6
-  avg_copies: 4.0
 - name: Ugin's Labyrinth
   weight: 0.6
   avg_copies: 4.0
-- name: Basking Broodscale
+- name: Grove of the Burnwillows
   weight: 0.6
   avg_copies: 4.0
 - name: Glaring Fleshraker
   weight: 0.6
   avg_copies: 4.0
-- name: Grove of the Burnwillows
+- name: Basking Broodscale
+  weight: 0.6
+  avg_copies: 4.0
+- name: Urza's Saga
   weight: 0.6
   avg_copies: 4.0
 - name: Blade of the Bloodchief
@@ -84,13 +84,13 @@ top_cards:
 - name: Grafdigger's Cage
   weight: 0.6
   avg_copies: 1.33
+- name: Gemstone Caverns
+  weight: 0.6
+  avg_copies: 1.0
 - name: Springleaf Drum
   weight: 0.6
   avg_copies: 1.0
 - name: Haywire Mite
-  weight: 0.6
-  avg_copies: 1.0
-- name: Gemstone Caverns
   weight: 0.6
   avg_copies: 1.0
 - name: Windswept Heath
@@ -105,10 +105,10 @@ top_cards:
 - name: Dismember
   weight: 0.5
   avg_copies: 1.5
-- name: Pithing Needle
+- name: Misty Rainforest
   weight: 0.5
   avg_copies: 1.0
-- name: Misty Rainforest
+- name: Pithing Needle
   weight: 0.5
   avg_copies: 1.0
 - name: Utopia Sprawl
@@ -120,10 +120,10 @@ top_cards:
 - name: Trinisphere
   weight: 0.4
   avg_copies: 2.25
-- name: Damping Sphere
+- name: Kozilek's Return
   weight: 0.4
   avg_copies: 2.0
-- name: Kozilek's Return
+- name: Damping Sphere
   weight: 0.4
   avg_copies: 2.0
 - name: Sire of Seven Deaths
@@ -174,37 +174,37 @@ top_cards:
 - name: Shifting Woodland
   weight: 0.2
   avg_copies: 1.0
-- name: Blood Moon
-  weight: 0.1
-  avg_copies: 2.0
-- name: Herigast, Erupting Nullkite
-  weight: 0.1
-  avg_copies: 2.0
 - name: Surgical Extraction
-  weight: 0.1
-  avg_copies: 2.0
-- name: Magus of the Moon
   weight: 0.1
   avg_copies: 2.0
 - name: Blasphemous Act
   weight: 0.1
   avg_copies: 2.0
-- name: Void Mirror
+- name: Herigast, Erupting Nullkite
+  weight: 0.1
+  avg_copies: 2.0
+- name: Magus of the Moon
+  weight: 0.1
+  avg_copies: 2.0
+- name: Blood Moon
+  weight: 0.1
+  avg_copies: 2.0
+- name: Ilharg, the Raze-Boar
+  weight: 0.1
+  avg_copies: 1.0
+- name: The Stone Brain
   weight: 0.1
   avg_copies: 1.0
 - name: Wastescape Battlemage
   weight: 0.1
   avg_copies: 1.0
-- name: Ilharg, the Raze-Boar
+- name: Arena of Glory
   weight: 0.1
   avg_copies: 1.0
 - name: Vibrance
   weight: 0.1
   avg_copies: 1.0
-- name: Arena of Glory
-  weight: 0.1
-  avg_copies: 1.0
-- name: The Stone Brain
+- name: Void Mirror
   weight: 0.1
   avg_copies: 1.0
 ---

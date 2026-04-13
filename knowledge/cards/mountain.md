@@ -14,11 +14,14 @@ archetypes:
   boros-energy:
     weight: 0.7818
     avg_copies: 1.0
-  landless-belcher:
+  mono-blue-belcher:
     weight: 0.1538
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.7321
+    avg_copies: 1.0
+  affinity:
+    weight: 0.0784
     avg_copies: 1.0
   domain-zoo:
     weight: 0.9048
@@ -29,34 +32,25 @@ archetypes:
   mardu-blink:
     weight: 1.0
     avg_copies: 1.0
-  gruul-belcher:
+  mono-red-belcher:
     weight: 0.5
     avg_copies: 1.0
-  vengevine:
-    weight: 1.0
-    avg_copies: 3.0
-  boros-taxes:
+  hollow-one:
+    weight: 0.8333
+    avg_copies: 1.6
+  boros-ponza:
     weight: 1.0
     avg_copies: 1.67
   izzet-prowess:
     weight: 1.0
-    avg_copies: 1.83
-  hollow-one:
-    weight: 0.8
-    avg_copies: 1.25
-  temur-prowess:
-    weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.85
   indomitable-creativity:
     weight: 1.0
-    avg_copies: 1.0
-  affinity:
-    weight: 0.6667
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
-  lantern-control:
+  rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 1.0
   izzet-eldrazi:

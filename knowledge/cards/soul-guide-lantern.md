@@ -20,24 +20,24 @@ archetypes:
   azorius-control:
     weight: 0.0714
     avg_copies: 1.0
+  affinity:
+    weight: 0.0588
+    avg_copies: 1.0
   mill:
     weight: 1.0
     avg_copies: 2.67
-  boros-taxes:
+  hollow-one:
+    weight: 0.1667
+    avg_copies: 1.0
+  boros-ponza:
     weight: 0.6667
     avg_copies: 2.0
   eldrazi-ramp:
     weight: 0.6
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.25
+    weight: 0.2308
     avg_copies: 1.33
-  hollow-one:
-    weight: 0.2
-    avg_copies: 1.0
-  affinity:
-    weight: 0.5
-    avg_copies: 1.0
   jund-saga:
     weight: 1.0
     avg_copies: 1.0

@@ -9,10 +9,10 @@ top_cards:
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Consult the Star Charts
+- name: Counterspell
   weight: 1.0
   avg_copies: 3.89
-- name: Counterspell
+- name: Consult the Star Charts
   weight: 1.0
   avg_copies: 3.89
 - name: Flooded Strand
@@ -138,19 +138,22 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.0556
   avg_copies: 2.0
-- name: Cryptic Command
-  weight: 0.0556
-  avg_copies: 2.0
-- name: Hurkyl's Recall
+- name: Murktide Regent
   weight: 0.0556
   avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.0556
   avg_copies: 2.0
-- name: Murktide Regent
+- name: Hurkyl's Recall
   weight: 0.0556
   avg_copies: 2.0
-- name: Psychic Frog
+- name: Cryptic Command
+  weight: 0.0556
+  avg_copies: 2.0
+- name: Thundering Falls
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Lórien Revealed
   weight: 0.0556
   avg_copies: 1.0
 - name: Snow-Covered Swamp
@@ -159,13 +162,10 @@ top_cards:
 - name: Hall of Storm Giants
   weight: 0.0556
   avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Lórien Revealed
-  weight: 0.0556
-  avg_copies: 1.0
 - name: Gloomlake Verge
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Psychic Frog
   weight: 0.0556
   avg_copies: 1.0
 ---

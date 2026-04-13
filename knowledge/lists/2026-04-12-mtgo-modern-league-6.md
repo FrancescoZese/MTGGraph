@@ -1,5 +1,5 @@
 ---
-archetype: temur-cascade
+archetype: simic-ritual
 date: '2026-04-12'
 finish: 5-0
 pilot: Fatal_Vlad

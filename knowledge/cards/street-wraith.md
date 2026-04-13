@@ -12,13 +12,10 @@ archetypes:
   living-end:
     weight: 0.8889
     avg_copies: 2.75
-  vengevine:
-    weight: 1.0
-    avg_copies: 4.0
   hollow-one:
     weight: 1.0
     avg_copies: 4.0
-  four-color-shadow:
+  grixis-shadow:
     weight: 1.0
     avg_copies: 4.0
 ---

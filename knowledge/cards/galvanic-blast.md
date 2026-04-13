@@ -9,7 +9,7 @@ set: 2xm
 type: Instant
 meta_presence: 0.0833
 archetypes:
-  affinity-aggro:
-    weight: 0.8889
+  affinity:
+    weight: 0.7843
     avg_copies: 2.0
 ---

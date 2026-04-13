@@ -10,7 +10,7 @@ set: ecl
 type: Legendary Creature — Bird Bard
 meta_presence: 0.0021
 archetypes:
-  four-color-shadow:
+  grixis-shadow:
     weight: 1.0
     avg_copies: 2.0
 ---

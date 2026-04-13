@@ -9,7 +9,7 @@ set: eoe
 type: Enchantment
 meta_presence: 0.0917
 archetypes:
-  affinity-aggro:
-    weight: 0.9778
+  affinity:
+    weight: 0.8627
     avg_copies: 3.62
 ---

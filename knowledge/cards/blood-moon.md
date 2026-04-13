@@ -15,22 +15,19 @@ archetypes:
   boros-energy:
     weight: 0.8
     avg_copies: 1.2
-  affinity-aggro:
-    weight: 0.2667
-    avg_copies: 1.58
-  gruul-belcher:
+  affinity:
+    weight: 0.3137
+    avg_copies: 1.88
+  mono-red-belcher:
     weight: 1.0
     avg_copies: 2.0
   eldrazi-ramp:
     weight: 0.1
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.1667
+    weight: 0.1538
     avg_copies: 2.0
-  affinity:
-    weight: 0.6667
-    avg_copies: 2.75
-  lantern-control:
+  rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 4.0
 ---

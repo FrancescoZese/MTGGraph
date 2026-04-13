@@ -14,25 +14,22 @@ archetypes:
   dimir-frog:
     weight: 0.8889
     avg_copies: 2.38
-  landless-belcher:
+  mono-blue-belcher:
     weight: 0.2308
     avg_copies: 1.8
   azorius-control:
     weight: 0.0714
     avg_copies: 2.0
-  affinity-aggro:
-    weight: 0.0222
-    avg_copies: 1.0
+  affinity:
+    weight: 0.1373
+    avg_copies: 3.57
   mill:
     weight: 0.3333
     avg_copies: 2.0
-  reanimator:
+  grixis-reanimator:
     weight: 0.0769
     avg_copies: 3.0
-  legends-combo:
-    weight: 1.0
-    avg_copies: 4.0
-  affinity:
+  kethis-combo:
     weight: 1.0
     avg_copies: 4.0
   sultai-artifacts:

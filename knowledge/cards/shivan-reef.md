@@ -8,8 +8,8 @@ set: soc
 type: Land
 meta_presence: 0.0729
 archetypes:
-  affinity-aggro:
-    weight: 0.7556
+  affinity:
+    weight: 0.6667
     avg_copies: 1.21
   izzet-eldrazi:
     weight: 1.0

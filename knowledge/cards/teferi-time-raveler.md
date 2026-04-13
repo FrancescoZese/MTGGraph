@@ -25,7 +25,7 @@ archetypes:
   domain-zoo:
     weight: 0.8095
     avg_copies: 1.15
-  legends-combo:
+  kethis-combo:
     weight: 1.0
     avg_copies: 1.5
   birthing-ritual:

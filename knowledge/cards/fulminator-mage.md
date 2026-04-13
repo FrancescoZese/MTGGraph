@@ -10,7 +10,7 @@ set: 2xm
 type: Creature — Elemental Shaman
 meta_presence: 0.0104
 archetypes:
-  reanimator:
+  grixis-reanimator:
     weight: 0.1538
     avg_copies: 2.0
   yawgmoth-combo:

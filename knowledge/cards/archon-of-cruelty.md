@@ -12,10 +12,10 @@ archetypes:
   living-end:
     weight: 0.1111
     avg_copies: 1.0
-  reanimator:
+  grixis-reanimator:
     weight: 1.0
     avg_copies: 4.0
-  sultai-frog:
+  sultai-reanimator:
     weight: 1.0
     avg_copies: 4.0
   indomitable-creativity:

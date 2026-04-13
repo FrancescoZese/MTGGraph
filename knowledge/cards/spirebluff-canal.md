@@ -8,10 +8,7 @@ set: otj
 type: Land
 meta_presence: 0.0958
 archetypes:
-  affinity-aggro:
-    weight: 0.9556
-    avg_copies: 3.88
   affinity:
-    weight: 0.5
-    avg_copies: 3.0
+    weight: 0.902
+    avg_copies: 3.83
 ---

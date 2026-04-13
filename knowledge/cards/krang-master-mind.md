@@ -9,7 +9,7 @@ set: tmt
 type: Legendary Artifact Creature — Utrom Warrior
 meta_presence: 0.0583
 archetypes:
-  affinity-aggro:
-    weight: 0.6222
+  affinity:
+    weight: 0.549
     avg_copies: 1.59
 ---

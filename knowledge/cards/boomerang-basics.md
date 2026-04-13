@@ -9,13 +9,10 @@ set: tla
 type: Sorcery — Lesson
 meta_presence: 0.0083
 archetypes:
-  izzet-prowess:
-    weight: 0.0833
-    avg_copies: 2.5
-  temur-prowess:
-    weight: 1.0
-    avg_copies: 2.0
   affinity:
-    weight: 0.3333
+    weight: 0.0392
     avg_copies: 3.5
+  izzet-prowess:
+    weight: 0.1538
+    avg_copies: 2.25
 ---

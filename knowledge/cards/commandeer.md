@@ -9,7 +9,7 @@ set: cmm
 type: Instant
 meta_presence: 0.0167
 archetypes:
-  landless-belcher:
+  mono-blue-belcher:
     weight: 0.3077
     avg_copies: 1.75
   living-end:

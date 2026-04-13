@@ -14,7 +14,7 @@ archetypes:
   mardu-blink:
     weight: 1.0
     avg_copies: 2.0
-  gruul-belcher:
+  mono-red-belcher:
     weight: 1.0
     avg_copies: 4.0
 ---

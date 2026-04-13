@@ -10,7 +10,7 @@ set: eoe
 type: Artifact Creature — Robot
 meta_presence: 0.0938
 archetypes:
-  affinity-aggro:
-    weight: 1.0
+  affinity:
+    weight: 0.8824
     avg_copies: 3.96
 ---

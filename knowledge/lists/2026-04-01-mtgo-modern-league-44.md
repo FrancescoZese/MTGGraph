@@ -1,5 +1,5 @@
 ---
-archetype: gruul-belcher
+archetype: mono-red-belcher
 date: '2026-04-01'
 finish: 5-0
 pilot: MoonTimeDweller

@@ -1,8 +1,11 @@
+gsap.registerPlugin(Flip);
+
 const DATA_PATH = "../computed/graph.json";
 
 let allData = null;
 let simulation = null;
 let cardImageMap = {}; // card name -> image URL
+let currentCardSel, currentArchSel, currentLinkSel, currentValidEdges, currentNodeMap;
 
 /* ── Colors ── */
 
@@ -34,32 +37,46 @@ async function init() {
         }
     });
 
-    updateStats(allData);
-    renderGraph(allData);
+    // Set default slider to 1%
+    const slider = document.getElementById("meta-threshold");
+    slider.value = 1;
+    document.getElementById("threshold-value").textContent = "1%";
+
+    // Initial render with filters applied
+    applyAllFilters(false);
 
     document.getElementById("close-panel").addEventListener("click", (e) => {
         e.stopPropagation();
-        document.getElementById("detail-panel").classList.add("hidden");
+        closePanel();
     });
 
-    const slider = document.getElementById("meta-threshold");
-    const sliderLabel = document.getElementById("threshold-value");
+    // Debounced rebuild on any filter change
+    let debounceTimer = null;
+    function scheduleRebuild() {
+        clearTimeout(debounceTimer);
+        debounceTimer = setTimeout(() => applyAllFilters(true), 250);
+    }
+
     slider.addEventListener("input", () => {
-        const pct = parseFloat(slider.value);
-        sliderLabel.textContent = pct + "%";
-        applyFilter(pct / 100);
+        document.getElementById("threshold-value").textContent = slider.value + "%";
+        scheduleRebuild();
     });
 
-    // Source type filters
-    document.getElementById("filter-challenge").addEventListener("change", rebuildFromFilters);
-    document.getElementById("filter-league").addEventListener("change", rebuildFromFilters);
+    document.getElementById("filter-challenge").addEventListener("change", () => applyAllFilters(true));
+    document.getElementById("filter-league").addEventListener("change", () => applyAllFilters(true));
+
+    // Mobile bottom sheet toggle
+    initMobileSheet();
 }
 
-function rebuildFromFilters() {
+/* ── Unified filter: rebuilds graph from scratch ── */
+
+function applyAllFilters(skipAnimation) {
     const showChallenge = document.getElementById("filter-challenge").checked;
     const showLeague = document.getElementById("filter-league").checked;
+    const minMeta = parseFloat(document.getElementById("meta-threshold").value) / 100;
 
-    // Filter lists in each archetype node, then recalculate
+    // Deep copy and filter by source type
     const filtered = JSON.parse(JSON.stringify(allData));
 
     for (const node of filtered.nodes) {
@@ -73,7 +90,7 @@ function rebuildFromFilters() {
         node.list_count = node.lists.length;
     }
 
-    // Recalculate meta_share based on filtered lists
+    // Recalculate meta_share
     const totalLists = filtered.nodes
         .filter(n => n.type === "archetype")
         .reduce((s, n) => s + n.list_count, 0);
@@ -84,9 +101,11 @@ function rebuildFromFilters() {
         }
     }
 
-    // Remove archetypes with 0 lists and their exclusive cards
+    // Filter by meta threshold + remove empty archetypes
     const activeArchIds = new Set(
-        filtered.nodes.filter(n => n.type === "archetype" && n.list_count > 0).map(n => n.id)
+        filtered.nodes
+            .filter(n => n.type === "archetype" && n.list_count > 0 && n.meta_share >= minMeta)
+            .map(n => n.id)
     );
     const activeCardIds = new Set();
     for (const e of filtered.edges) {
@@ -101,59 +120,77 @@ function rebuildFromFilters() {
     );
 
     updateStats(filtered);
-    renderGraph(filtered);
-
-    // Re-apply meta threshold slider
-    const pct = parseFloat(document.getElementById("meta-threshold").value);
-    if (pct > 0) {
-        // Need to wait for graph to build before applying filter
-        setTimeout(() => applyFilter(pct / 100), 100);
-    }
+    updateMetaSidebar(filtered);
+    renderGraph(filtered, skipAnimation);
 }
 
-/* ── Filter by meta threshold (opacity-based, no rebuild) ── */
+function updateMetaSidebar(data) {
+    const archs = data.nodes
+        .filter(n => n.type === "archetype")
+        .sort((a, b) => b.meta_share - a.meta_share);
 
-let currentCardSel, currentArchSel, currentLinkSel, currentEdges, currentNodeMap;
+    const maxShare = archs.length > 0 ? archs[0].meta_share : 1;
+    const container = document.getElementById("meta-sidebar-list");
 
-function applyFilter(minMetaShare) {
-    // Determine which archetypes pass
-    const keepArchIds = new Set();
-    currentArchSel.each(function(d) {
-        if (d.meta_share >= minMetaShare) keepArchIds.add(d.id);
-    });
+    // Capture current state for Flip if rows already exist
+    const existingRows = container.querySelectorAll(".meta-row");
+    const hasExisting = existingRows.length > 0;
+    const flipState = hasExisting && highlightDuration()
+        ? Flip.getState(existingRows, { props: "opacity" })
+        : null;
 
-    // Determine which cards are connected to a visible archetype
-    const keepCardIds = new Set();
-    currentEdges.forEach(e => {
-        const tid = typeof e.target === "object" ? e.target.id : e.target;
-        const sid = typeof e.source === "object" ? e.source.id : e.source;
-        if (keepArchIds.has(tid)) keepCardIds.add(sid);
-    });
+    // Build new DOM
+    let html = "";
+    for (const arch of archs) {
+        const pct = (arch.meta_share * 100).toFixed(1);
+        const barScale = (arch.meta_share / maxShare).toFixed(4);
 
-    const T = 300; // transition ms
+        html += `<div class="meta-row" data-arch-id="${arch.id}" data-flip-id="${arch.id}">`;
+        html += `<div class="meta-row-bar" data-scale="${barScale}"></div>`;
+        html += `<span class="meta-row-name">${arch.name}</span>`;
+        html += `<span class="meta-row-pct">${pct}%</span>`;
+        html += `</div>`;
+    }
+    container.innerHTML = html;
 
-    currentArchSel.transition().duration(T)
-        .attr("opacity", d => keepArchIds.has(d.id) ? 1 : 0);
-
-    currentCardSel.transition().duration(T)
-        .attr("opacity", d => keepCardIds.has(d.id) ? 0.85 : 0);
-
-    currentLinkSel.transition().duration(T)
-        .attr("stroke-opacity", d => {
-            const tid = typeof d.target === "object" ? d.target.id : d.target;
-            const sid = typeof d.source === "object" ? d.source.id : d.source;
-            if (!keepArchIds.has(tid) && !keepArchIds.has(sid)) return 0;
-            if (!keepCardIds.has(sid) && !keepCardIds.has(tid)) return 0;
-            return 0.05 + d.weight * 0.1;
+    // Animate with Flip or simple bars
+    if (flipState) {
+        Flip.from(flipState, {
+            duration: 0.5,
+            ease: "power2.inOut",
+            stagger: 0.02,
+            absolute: true,
+            onEnter: elements => gsap.fromTo(elements,
+                { autoAlpha: 0, x: -20 },
+                { autoAlpha: 1, x: 0, duration: 0.4, ease: "power2.out" }
+            ),
+            onLeave: elements => gsap.to(elements,
+                { autoAlpha: 0, x: 20, duration: 0.3, ease: "power2.in" }
+            ),
+            onComplete: () => animateBars(container.querySelectorAll(".meta-row-bar"))
         });
+    } else {
+        animateBars(container.querySelectorAll(".meta-row-bar"));
+    }
 
-    // Update header stats
-    document.getElementById("stat-archetypes").textContent = keepArchIds.size;
-    document.getElementById("stat-cards").textContent = keepCardIds.size;
-    const lists = allData.nodes
-        .filter(n => n.type === "archetype" && keepArchIds.has(n.id))
-        .reduce((s, a) => s + a.list_count, 0);
-    document.getElementById("stat-lists").textContent = lists;
+    // Click handler: open archetype detail + highlight graph
+    container.querySelectorAll(".meta-row").forEach(row => {
+        row.addEventListener("click", () => {
+            const archId = row.dataset.archId;
+            const archNode = data.nodes.find(n => n.id === archId);
+            if (archNode) {
+                if (sheetOpen) closeMobileSheet();
+                const nodeMap = new Map(data.nodes.map(n => [n.id, n]));
+                const edges = data.edges;
+                showArchetypeDetail(archNode, edges, nodeMap);
+
+                // Highlight in graph if selections are available
+                if (currentCardSel && currentArchSel && currentLinkSel && currentValidEdges) {
+                    highlight(archNode, currentValidEdges, currentCardSel, currentArchSel, currentLinkSel);
+                }
+            }
+        });
+    });
 }
 
 function updateStats(data) {
@@ -231,7 +268,7 @@ function createManaArc(parentG, d) {
 
 /* ── Render ── */
 
-function renderGraph(data) {
+function renderGraph(data, skipAnimation) {
     const svg = d3.select("#graph");
     svg.selectAll("*").remove();
 
@@ -289,9 +326,8 @@ function renderGraph(data) {
     const cardG = g.append("g");
     const archG = g.append("g");
 
-    // Simulation starts with empty data
     simulation = d3.forceSimulation(activeNodes)
-        .alphaDecay(0.012)
+        .alphaDecay(skipAnimation ? 0.03 : 0.012)
         .velocityDecay(0.35)
         .force("link", d3.forceLink(activeEdges).id(d => d.id)
             .distance(d => 25 + (1 - d.weight) * 25)
@@ -328,11 +364,11 @@ function renderGraph(data) {
         cardSel = cardSel.enter().append("circle")
             .attr("r", 0)
             .attr("fill", d => cardDotColor(d.colors))
-            .attr("fill-opacity", 0.85)
+            .attr("opacity", 0.85)
             .attr("stroke", "none")
             .attr("cursor", "pointer")
             .call(makeDraggable())
-            .transition().duration(400).attr("r", d => cardRadius(d))
+            .transition().duration(highlightDuration() ? 400 : 0).attr("r", d => cardRadius(d))
             .selection()
             .merge(cardSel);
 
@@ -355,17 +391,17 @@ function renderGraph(data) {
             .attr("text-anchor", "middle")
             .attr("dy", d => archRadius(d) + 14)
             .attr("pointer-events", "none");
-        archEnter.transition().duration(500).attr("opacity", 1);
+        archEnter.transition().duration(highlightDuration() ? 500 : 0).attr("opacity", 1);
         archSel = archEnter.merge(archSel);
 
         // Update event handlers
         cardSel
             .on("mouseover", (event, d) => {
-                tooltip.classed("hidden", false);
                 let html = `<div class="tt-name">${d.name}</div>`;
                 html += `<div class="tt-stat">${(d.meta_presence * 100).toFixed(1)}% presence</div>`;
                 if (d.image) html += `<img src="${d.image}" alt="${d.name}">`;
                 tooltip.html(html);
+                showTooltipEl();
             })
             .on("mousemove", moveTooltip)
             .on("mouseout", hideTooltip)
@@ -377,10 +413,10 @@ function renderGraph(data) {
 
         archSel
             .on("mouseover", (event, d) => {
-                tooltip.classed("hidden", false);
                 let html = `<div class="tt-name">${d.name}</div>`;
                 html += `<div class="tt-stat">${(d.meta_share * 100).toFixed(1)}% &middot; ${d.list_count} lists</div>`;
                 tooltip.html(html);
+                showTooltipEl();
             })
             .on("mousemove", moveTooltip)
             .on("mouseout", hideTooltip)
@@ -390,56 +426,111 @@ function renderGraph(data) {
                 highlight(d, validEdges, cardSel, archSel, link);
             });
 
-        // Update stored refs for filter
+        // Update stored refs for filter + sidebar
         currentCardSel = cardSel;
         currentArchSel = archSel;
         currentLinkSel = link;
+        currentValidEdges = validEdges;
+        currentNodeMap = nodeMap;
     }
 
     const tooltip = d3.select("#tooltip");
-    function moveTooltip(event) {
-        tooltip.style("left", (event.clientX + 16) + "px")
-               .style("top", (event.clientY + 16) + "px");
+    const tooltipEl = tooltip.node();
+    function showTooltipEl() {
+        gsap.killTweensOf(tooltipEl);
+        gsap.fromTo(tooltipEl,
+            { autoAlpha: 0, y: 6 },
+            { autoAlpha: 1, y: 0, duration: highlightDuration() ? 0.2 : 0, ease: "power2.out" }
+        );
     }
-    function hideTooltip() { tooltip.classed("hidden", true); }
+    function moveTooltip(event) {
+        tooltipEl.style.left = (event.clientX + 16) + "px";
+        tooltipEl.style.top = (event.clientY + 16) + "px";
+    }
+    function hideTooltip() {
+        gsap.killTweensOf(tooltipEl);
+        gsap.to(tooltipEl, { autoAlpha: 0, y: 4, duration: highlightDuration() ? 0.15 : 0, ease: "power2.in" });
+    }
 
-    // Add nodes progressively
-    let scheduleIdx = 0;
-    const BATCH = 3;        // nodes per tick
-    const INTERVAL = 60;    // ms between batches
+    if (skipAnimation || !highlightDuration()) {
+        // Instant: build all selections at once
+        nodes.forEach(n => {
+            if (!n.x) n.x = width / 2 + (Math.random() - 0.5) * 200;
+            if (!n.y) n.y = height / 2 + (Math.random() - 0.5) * 200;
+            activeNodes.push(n);
+            activeNodeIds.add(n.id);
+        });
+        validEdges.forEach(e => activeEdges.push(e));
+        rebuildSelections();
+        simulation.nodes(activeNodes);
+        simulation.force("link").links(activeEdges);
+        simulation.alpha(1).restart();
+    } else {
+        // Progressive build via GSAP timeline
+        const BATCH = 3;
+        const totalSteps = Math.ceil(schedule.length / BATCH);
+        const buildTl = gsap.timeline();
+        let stepIdx = 0;
 
-    const builder = d3.interval(() => {
-        if (scheduleIdx >= schedule.length) {
-            builder.stop();
-            return;
+        for (let s = 0; s < totalSteps; s++) {
+            buildTl.call(() => {
+                let added = false;
+                for (let i = 0; i < BATCH && stepIdx < schedule.length; i++, stepIdx++) {
+                    const item = schedule[stepIdx];
+                    const node = item.node;
+
+                    if (item.type === "card") {
+                        const connEdge = validEdges.find(e => e.source === node.id);
+                        const parent = connEdge ? activeNodes.find(n => n.id === connEdge.target) : null;
+                        if (parent && parent.x) {
+                            node.x = parent.x + (Math.random() - 0.5) * 30;
+                            node.y = parent.y + (Math.random() - 0.5) * 30;
+                        } else {
+                            node.x = width / 2 + (Math.random() - 0.5) * 40;
+                            node.y = height / 2 + (Math.random() - 0.5) * 40;
+                        }
+                    } else {
+                        node.x = width / 2 + (Math.random() - 0.5) * 80;
+                        node.y = height / 2 + (Math.random() - 0.5) * 80;
+                    }
+
+                    activeNodes.push(node);
+                    activeNodeIds.add(node.id);
+                    added = true;
+
+                    for (const edge of validEdges) {
+                        const sid = typeof edge.source === "object" ? edge.source.id : edge.source;
+                        const tid = typeof edge.target === "object" ? edge.target.id : edge.target;
+                        if (activeNodeIds.has(sid) && activeNodeIds.has(tid) && !activeEdges.includes(edge)) {
+                            activeEdges.push(edge);
+                        }
+                    }
+                }
+
+                if (added) {
+                    rebuildSelections();
+                    simulation.nodes(activeNodes);
+                    simulation.force("link").links(activeEdges);
+                    simulation.alpha(0.5).restart();
+                }
+            }, null, s * 0.06);
         }
 
-        let added = false;
-        for (let i = 0; i < BATCH && scheduleIdx < schedule.length; i++, scheduleIdx++) {
-            const item = schedule[scheduleIdx];
-            const node = item.node;
+        // Click anywhere to skip: kill timeline, bulk-add remaining nodes
+        function skipBuild() {
+            if (buildTl.progress() >= 1) return;
+            buildTl.kill();
 
-            // Position near a connected archetype if possible, else center
-            if (item.type === "card") {
-                const connEdge = validEdges.find(e => e.source === node.id);
-                const parent = connEdge ? activeNodes.find(n => n.id === connEdge.target) : null;
-                if (parent && parent.x) {
-                    node.x = parent.x + (Math.random() - 0.5) * 30;
-                    node.y = parent.y + (Math.random() - 0.5) * 30;
-                } else {
-                    node.x = width / 2 + (Math.random() - 0.5) * 40;
-                    node.y = height / 2 + (Math.random() - 0.5) * 40;
+            // Add all remaining nodes in one pass
+            for (; stepIdx < schedule.length; stepIdx++) {
+                const node = schedule[stepIdx].node;
+                if (!activeNodeIds.has(node.id)) {
+                    node.x = width / 2 + (Math.random() - 0.5) * 200;
+                    node.y = height / 2 + (Math.random() - 0.5) * 200;
+                    activeNodes.push(node);
+                    activeNodeIds.add(node.id);
                 }
-            } else {
-                node.x = width / 2 + (Math.random() - 0.5) * 80;
-                node.y = height / 2 + (Math.random() - 0.5) * 80;
             }
-
-            activeNodes.push(node);
-            activeNodeIds.add(node.id);
-            added = true;
-
-            // Add any edges where both endpoints are now active
             for (const edge of validEdges) {
                 const sid = typeof edge.source === "object" ? edge.source.id : edge.source;
                 const tid = typeof edge.target === "object" ? edge.target.id : edge.target;
@@ -447,22 +538,22 @@ function renderGraph(data) {
                     activeEdges.push(edge);
                 }
             }
-        }
-
-        if (added) {
             rebuildSelections();
             simulation.nodes(activeNodes);
             simulation.force("link").links(activeEdges);
-            simulation.alpha(0.5).restart();
+            simulation.alpha(1).restart();
+            document.removeEventListener("pointerdown", skipBuild, true);
         }
-    }, INTERVAL);
+        document.addEventListener("pointerdown", skipBuild, true);
+        buildTl.eventCallback("onComplete", () => {
+            document.removeEventListener("pointerdown", skipBuild, true);
+        });
+    }
 
     // ── Click background to reset ──
     svg.on("click", () => {
-        d3.select("#detail-panel").classed("hidden", true);
-        if (cardSel) cardSel.attr("opacity", 0.85);
-        if (archSel) archSel.attr("opacity", 1);
-        if (link) link.attr("stroke-opacity", d => 0.05 + d.weight * 0.1);
+        closePanel();
+        unhighlight(cardSel, archSel, link);
     });
 
     // ── Tick ──
@@ -485,19 +576,190 @@ function highlight(d, edges, cardSel, archSel, linkSel) {
         if (s === d.id) connected.add(t);
         if (t === d.id) connected.add(s);
     });
-    cardSel.attr("opacity", n => connected.has(n.id) ? 1 : 0.06);
-    archSel.attr("opacity", n => connected.has(n.id) ? 1 : 0.1);
-    linkSel.attr("stroke-opacity", e => {
+
+    // Split nodes into connected / dimmed groups
+    const connCards = [], dimCards = [];
+    cardSel.each(function(n) { (connected.has(n.id) ? connCards : dimCards).push(this); });
+
+    const connArchs = [], dimArchs = [];
+    archSel.each(function(n) { (connected.has(n.id) ? connArchs : dimArchs).push(this); });
+
+    const activeLinks = [], dimLinks = [];
+    linkSel.each(function(e) {
         const s = typeof e.source === "object" ? e.source.id : e.source;
         const t = typeof e.target === "object" ? e.target.id : e.target;
-        return (s === d.id || t === d.id) ? 0.5 : 0.01;
+        ((s === d.id || t === d.id) ? activeLinks : dimLinks).push(this);
     });
+
+    const dur = highlightDuration();
+
+    // Animate connected elements to full visibility
+    if (connCards.length) gsap.to(connCards, { attr: { opacity: 1 }, duration: dur, overwrite: true });
+    if (connArchs.length) gsap.to(connArchs, { attr: { opacity: 1 }, duration: dur, overwrite: true });
+    if (activeLinks.length) gsap.to(activeLinks, { attr: { "stroke-opacity": 0.5 }, duration: dur, overwrite: true });
+
+    // Dim everything else
+    if (dimCards.length) gsap.to(dimCards, { attr: { opacity: 0.06 }, duration: dur, overwrite: true });
+    if (dimArchs.length) gsap.to(dimArchs, { attr: { opacity: 0.1 }, duration: dur, overwrite: true });
+    if (dimLinks.length) gsap.to(dimLinks, { attr: { "stroke-opacity": 0.01 }, duration: dur, overwrite: true });
+}
+
+function unhighlight(cardSel, archSel, linkSel) {
+    const dur = highlightDuration();
+    if (cardSel) gsap.to(cardSel.nodes(), { attr: { opacity: 0.85 }, duration: dur, overwrite: true });
+    if (archSel) gsap.to(archSel.nodes(), { attr: { opacity: 1 }, duration: dur, overwrite: true });
+    if (linkSel) {
+        linkSel.each(function(d) {
+            gsap.to(this, { attr: { "stroke-opacity": 0.05 + d.weight * 0.1 }, duration: dur, overwrite: true });
+        });
+    }
+}
+
+function highlightDuration() {
+    return window.matchMedia("(prefers-reduced-motion: reduce)").matches ? 0 : 0.5;
+}
+
+function animateBars(bars) {
+    if (!bars.length) return;
+    const dur = highlightDuration();
+    bars.forEach(bar => {
+        const target = parseFloat(bar.dataset.scale) || 0;
+        if (dur) {
+            gsap.fromTo(bar, { scaleX: 0 }, { scaleX: target, duration: 0.4, ease: "power2.out" });
+        } else {
+            gsap.set(bar, { scaleX: target });
+        }
+    });
+}
+
+/* ── Mobile bottom sheet ── */
+
+let sheetOpen = false;
+let sheetTween = null;
+
+function initMobileSheet() {
+    const toggle = document.getElementById("meta-toggle");
+    const sidebar = document.getElementById("meta-sidebar");
+
+    toggle.addEventListener("click", () => {
+        if (sheetOpen) closeMobileSheet(); else openMobileSheet();
+    });
+
+    // Close on backdrop tap (click on graph while sheet is open)
+    document.getElementById("graph-container").addEventListener("click", () => {
+        if (sheetOpen) closeMobileSheet();
+    }, true);
+}
+
+function openMobileSheet() {
+    const sidebar = document.getElementById("meta-sidebar");
+    const toggle = document.getElementById("meta-toggle");
+    const dur = highlightDuration();
+    if (sheetTween) sheetTween.kill();
+    sidebar.style.visibility = "visible";
+    sheetTween = gsap.to(sidebar, {
+        y: 0, duration: dur ? 0.45 : 0, ease: "power3.out", overwrite: true
+    });
+    gsap.to(toggle, { autoAlpha: 0, duration: dur ? 0.2 : 0 });
+    sheetOpen = true;
+}
+
+function closeMobileSheet() {
+    const sidebar = document.getElementById("meta-sidebar");
+    const toggle = document.getElementById("meta-toggle");
+    const dur = highlightDuration();
+    if (sheetTween) sheetTween.kill();
+    sheetTween = gsap.to(sidebar, {
+        y: "100%", duration: dur ? 0.35 : 0, ease: "power2.in", overwrite: true,
+        onComplete: () => { sidebar.style.visibility = "hidden"; }
+    });
+    gsap.to(toggle, { autoAlpha: 1, duration: dur ? 0.2 : 0, delay: dur ? 0.15 : 0 });
+    sheetOpen = false;
+}
+
+/* ── Panel open / close ── */
+
+let panelTween = null;
+
+function openPanel() {
+    const panel = document.getElementById("detail-panel");
+    const dur = highlightDuration();
+    if (panelTween) panelTween.kill();
+    panel.style.visibility = "visible";
+    panelTween = gsap.to(panel, {
+        x: 0, duration: dur ? 0.55 : 0, ease: "power3.out", overwrite: true
+    });
+    // Content stagger runs after a short delay so the panel is partially visible
+    if (dur) gsap.delayedCall(0.12, animatePanelContent);
+    else animatePanelContent();
+}
+
+function closePanel() {
+    const panel = document.getElementById("detail-panel");
+    const dur = highlightDuration();
+    if (panelTween) panelTween.kill();
+    panelTween = gsap.to(panel, {
+        x: "100%", duration: dur ? 0.4 : 0, ease: "power2.in", overwrite: true,
+        onComplete: () => { panel.style.visibility = "hidden"; }
+    });
+}
+
+function animatePanelContent() {
+    const dur = highlightDuration();
+    if (!dur) {
+        document.querySelectorAll("#detail-content .deck-bar").forEach(bar => {
+            gsap.set(bar, { scaleX: parseFloat(bar.dataset.scale) || 0 });
+        });
+        return;
+    }
+
+    const content = document.getElementById("detail-content");
+    const header = content.querySelector(".panel-header");
+    const tabs = content.querySelector(".panel-tabs");
+    const image = content.querySelector(".panel-card-image");
+    // Only animate elements in the visible tab, not hidden ones
+    const activeTab = content.querySelector(".tab-content:not(.hidden)") || content;
+    const sectionTitles = activeTab.querySelectorAll(".panel-section-title");
+    const rows = activeTab.querySelectorAll(".deck-row, .card-list li, .result-row, .meta-row");
+
+    // Build a timeline for staggered entrance
+    const tl = gsap.timeline();
+
+    if (header) {
+        tl.from(header, { y: 14, autoAlpha: 0, duration: 0.35, ease: "power2.out" }, 0);
+    }
+    if (tabs) {
+        tl.from(tabs, { y: 8, autoAlpha: 0, duration: 0.3, ease: "power2.out" }, 0.12);
+    }
+    if (image) {
+        tl.from(image, { scale: 0.95, autoAlpha: 0, duration: 0.4, ease: "power2.out" }, 0.18);
+    }
+    if (sectionTitles.length) {
+        tl.from(sectionTitles, { x: -10, autoAlpha: 0, duration: 0.3, stagger: 0.06, ease: "power2.out" }, 0.2);
+    }
+    if (rows.length) {
+        tl.from(rows, { x: -14, autoAlpha: 0, duration: 0.3, stagger: 0.03, ease: "power2.out" }, 0.25);
+    }
+}
+
+function animateTabContent(container) {
+    const deckBars = container.querySelectorAll(".deck-bar");
+    const dur = highlightDuration();
+    if (!dur) {
+        animateBars(deckBars);
+        return;
+    }
+    const rows = container.querySelectorAll(".deck-row, .card-list li, .result-row");
+    const titles = container.querySelectorAll(".panel-section-title");
+    if (titles.length) gsap.from(titles, { x: -10, autoAlpha: 0, duration: 0.3, stagger: 0.05, ease: "power2.out" });
+    if (rows.length) gsap.from(rows, { x: -14, autoAlpha: 0, duration: 0.3, stagger: 0.03, ease: "power2.out", delay: 0.06 });
+    if (deckBars.length) gsap.delayedCall(0.15, () => animateBars(deckBars));
 }
 
 /* ── Detail panels ── */
 
 function showArchetypeDetail(d, edges, nodeMap) {
-    d3.select("#detail-panel").classed("hidden", false);
+    openPanel();
     const connected = edges.filter(e => {
         const t = typeof e.target === "object" ? e.target.id : e.target;
         return t === d.id;
@@ -539,7 +801,9 @@ function showArchetypeDetail(d, edges, nodeMap) {
             document.querySelectorAll(".panel-tab").forEach(t => t.classList.remove("active"));
             tab.classList.add("active");
             document.querySelectorAll(".tab-content").forEach(c => c.classList.add("hidden"));
-            document.getElementById(`tab-${tab.dataset.tab}`).classList.remove("hidden");
+            const target = document.getElementById(`tab-${tab.dataset.tab}`);
+            target.classList.remove("hidden");
+            animateTabContent(target);
         });
     });
 
@@ -562,8 +826,12 @@ function showArchetypeDetail(d, edges, nodeMap) {
         if (!img) return;
 
         el.addEventListener("mouseenter", (e) => {
-            panelTooltip.classList.remove("hidden");
             panelTooltip.innerHTML = `<div class="tt-name">${cardName}</div><img src="${img}" alt="${cardName}">`;
+            gsap.killTweensOf(panelTooltip);
+            gsap.fromTo(panelTooltip,
+                { autoAlpha: 0, y: 6 },
+                { autoAlpha: 1, y: 0, duration: highlightDuration() ? 0.2 : 0, ease: "power2.out" }
+            );
         });
         el.addEventListener("mousemove", (e) => {
             // Position to the left of the panel
@@ -572,7 +840,8 @@ function showArchetypeDetail(d, edges, nodeMap) {
             panelTooltip.style.top = (e.clientY - 60) + "px";
         });
         el.addEventListener("mouseleave", () => {
-            panelTooltip.classList.add("hidden");
+            gsap.killTweensOf(panelTooltip);
+            gsap.to(panelTooltip, { autoAlpha: 0, y: 4, duration: highlightDuration() ? 0.15 : 0, ease: "power2.in" });
         });
     });
 }
@@ -597,7 +866,7 @@ function buildAvgDeckHTML(connected, nodeMap) {
     const mainCards = cards.filter(c => c.mainWeight > 0);
     const avgMain = mainCards
         .filter(c => c.mainWeight >= CORE_THRESHOLD)
-        .sort((a, b) => b.mainAvg - a.mainAvg || b.mainWeight - a.mainWeight);
+        .sort((a, b) => b.mainWeight - a.mainWeight || b.mainAvg - a.mainAvg);
     const mainTotal = avgMain.reduce((s, c) => s + Math.min(4, Math.round(c.mainAvg)), 0);
     html += `<div class="panel-section-title">Mainboard <span class="avg-deck-count">${mainTotal} cards</span></div>`;
     html += renderDeckSection(avgMain, "main");
@@ -614,7 +883,7 @@ function buildAvgDeckHTML(connected, nodeMap) {
     const sideCards = cards.filter(c => c.sideWeight > 0);
     const avgSide = sideCards
         .filter(c => c.sideWeight >= CORE_THRESHOLD)
-        .sort((a, b) => b.sideAvg - a.sideAvg || b.sideWeight - a.sideWeight);
+        .sort((a, b) => b.sideWeight - a.sideWeight || b.sideAvg - a.sideAvg);
     if (avgSide.length > 0) {
         const sideTotal = avgSide.reduce((s, c) => s + Math.min(4, Math.round(c.sideAvg)), 0);
         html += `<div class="panel-section-title">Sideboard <span class="avg-deck-count">${sideTotal} cards</span></div>`;
@@ -691,15 +960,15 @@ function renderDeckSection(cards, zone) {
         return { name: card.name, copies, weight, avg };
     }).filter(c => c.copies > 0);
 
-    // Sort by copies desc then weight desc
-    items.sort((a, b) => b.copies - a.copies || b.weight - a.weight);
+    // Sort by presence % desc then copies desc
+    items.sort((a, b) => b.weight - a.weight || b.copies - a.copies);
 
     let html = `<ul class="deck-list">`;
     for (const item of items) {
         const pct = item.weight * 100;
         const barColor = pct >= 90 ? "var(--accent)" : pct >= 70 ? "#b89a4a" : "var(--ink-faint)";
         html += `<li class="deck-row">`;
-        html += `<div class="deck-bar" style="width:${pct}%; background:${barColor}"></div>`;
+        html += `<div class="deck-bar" data-scale="${pct / 100}" style="background:${barColor}"></div>`;
         html += `<span class="deck-copies">${item.copies}</span>`;
         html += `<span class="deck-name">${item.name}</span>`;
         html += `<span class="deck-pct">${pct.toFixed(0)}%</span>`;
@@ -710,7 +979,7 @@ function renderDeckSection(cards, zone) {
 }
 
 function showCardDetail(d, edges, nodeMap) {
-    d3.select("#detail-panel").classed("hidden", false);
+    openPanel();
     const connected = edges.filter(e => {
         const s = typeof e.source === "object" ? e.source.id : e.source;
         return s === d.id;

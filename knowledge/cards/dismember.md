@@ -21,13 +21,13 @@ archetypes:
   living-end:
     weight: 0.5556
     avg_copies: 2.2
-  legends-combo:
+  kethis-combo:
     weight: 1.0
     avg_copies: 2.0
   eldrazi-ramp:
     weight: 0.5
     avg_copies: 1.5
-  temur-cascade:
+  simic-ritual:
     weight: 0.3333
     avg_copies: 1.6
   birthing-ritual:

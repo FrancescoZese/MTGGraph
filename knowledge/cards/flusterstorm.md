@@ -12,10 +12,10 @@ archetypes:
   ruby-storm:
     weight: 0.0833
     avg_copies: 2.0
-  landless-belcher:
+  mono-blue-belcher:
     weight: 0.6154
     avg_copies: 1.62
-  affinity-aggro:
-    weight: 0.0222
+  affinity:
+    weight: 0.0196
     avg_copies: 1.0
 ---

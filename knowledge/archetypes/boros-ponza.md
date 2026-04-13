@@ -2,32 +2,32 @@
 colors:
 - W
 - R
-name: Boros Taxes
+name: Boros Ponza
 meta_share: 0.0063
 list_count: 3
 top_cards:
-- name: Price of Freedom
-  weight: 1.0
-  avg_copies: 4.0
 - name: Path to Exile
-  weight: 1.0
-  avg_copies: 4.0
-- name: Field of Ruin
   weight: 1.0
   avg_copies: 4.0
 - name: Plains
   weight: 1.0
   avg_copies: 4.0
-- name: Wrath of the Skies
+- name: Field of Ruin
+  weight: 1.0
+  avg_copies: 4.0
+- name: Price of Freedom
+  weight: 1.0
+  avg_copies: 4.0
+- name: Galvanic Discharge
   weight: 1.0
   avg_copies: 3.33
 - name: Demolition Field
   weight: 1.0
   avg_copies: 3.33
-- name: Cleansing Wildfire
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 3.33
-- name: Galvanic Discharge
+- name: Cleansing Wildfire
   weight: 1.0
   avg_copies: 3.33
 - name: Solitude
@@ -36,15 +36,18 @@ top_cards:
 - name: White Orchid Phantom
   weight: 1.0
   avg_copies: 3.0
-- name: Phlage, Titan of Fire's Fury
+- name: Sunken Citadel
   weight: 1.0
   avg_copies: 2.67
-- name: Sunken Citadel
+- name: Phlage, Titan of Fire's Fury
   weight: 1.0
   avg_copies: 2.67
 - name: Cori Mountain Monastery
   weight: 1.0
   avg_copies: 2.67
+- name: Celestial Purge
+  weight: 1.0
+  avg_copies: 2.0
 - name: Wear // Tear
   weight: 1.0
   avg_copies: 2.0
@@ -54,13 +57,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 2.0
-- name: Celestial Purge
-  weight: 1.0
-  avg_copies: 2.0
-- name: Mountain
+- name: The Legend of Roku // Avatar Roku
   weight: 1.0
   avg_copies: 1.67
-- name: The Legend of Roku // Avatar Roku
+- name: Mountain
   weight: 1.0
   avg_copies: 1.67
 - name: Orim's Chant
@@ -78,19 +78,19 @@ top_cards:
 - name: Mana Tithe
   weight: 0.6667
   avg_copies: 2.0
-- name: Ghost Quarter
-  weight: 0.6667
-  avg_copies: 1.0
 - name: Sunbaked Canyon
   weight: 0.6667
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.6667
   avg_copies: 1.0
+- name: Wrath of God
+  weight: 0.6667
+  avg_copies: 1.0
 - name: Meltdown
   weight: 0.6667
   avg_copies: 1.0
-- name: Wrath of God
+- name: Ghost Quarter
   weight: 0.6667
   avg_copies: 1.0
 - name: Sacred Foundry
@@ -108,10 +108,10 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.3333
   avg_copies: 2.0
-- name: Kataki, War's Wage
+- name: Rest in Peace
   weight: 0.3333
   avg_copies: 1.0
-- name: Rest in Peace
+- name: Kataki, War's Wage
   weight: 0.3333
   avg_copies: 1.0
 ---

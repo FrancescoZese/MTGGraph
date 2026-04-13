@@ -15,7 +15,7 @@ archetypes:
   living-end:
     weight: 0.1111
     avg_copies: 2.0
-  legends-combo:
+  kethis-combo:
     weight: 1.0
     avg_copies: 2.0
 ---

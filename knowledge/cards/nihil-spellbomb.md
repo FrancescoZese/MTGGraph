@@ -23,19 +23,19 @@ archetypes:
   domain-zoo:
     weight: 0.6667
     avg_copies: 1.14
-  reanimator:
+  grixis-reanimator:
     weight: 0.2308
     avg_copies: 1.0
   hollow-one:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 2.0
-  sultai-frog:
+  sultai-reanimator:
     weight: 1.0
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
-  four-color-shadow:
+  grixis-shadow:
     weight: 1.0
     avg_copies: 2.0
 ---

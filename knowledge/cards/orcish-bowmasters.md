@@ -24,15 +24,15 @@ archetypes:
   mardu-blink:
     weight: 1.0
     avg_copies: 1.0
+  hollow-one:
+    weight: 0.3333
+    avg_copies: 2.5
   yawgmoth-combo:
     weight: 0.2857
     avg_copies: 2.5
   esper-blink:
     weight: 0.5
     avg_copies: 3.0
-  hollow-one:
-    weight: 0.4
-    avg_copies: 2.5
   orzhov-blink:
     weight: 1.0
     avg_copies: 3.0

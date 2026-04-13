@@ -11,28 +11,22 @@ archetypes:
   dimir-frog:
     weight: 0.1111
     avg_copies: 4.0
-  affinity-aggro:
+  affinity:
     weight: 1.0
-    avg_copies: 3.87
+    avg_copies: 3.88
   hammer-time:
     weight: 0.5
     avg_copies: 4.0
-  legends-combo:
+  hollow-one:
+    weight: 0.8333
+    avg_copies: 3.8
+  kethis-combo:
     weight: 1.0
     avg_copies: 4.0
   izzet-prowess:
     weight: 1.0
     avg_copies: 4.0
-  hollow-one:
-    weight: 1.0
-    avg_copies: 3.8
-  temur-prowess:
-    weight: 1.0
-    avg_copies: 4.0
-  affinity:
-    weight: 1.0
-    avg_copies: 4.0
-  four-color-shadow:
+  grixis-shadow:
     weight: 1.0
     avg_copies: 4.0
   sultai-artifacts:

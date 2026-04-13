@@ -35,13 +35,13 @@ archetypes:
   living-end:
     weight: 0.5556
     avg_copies: 1.0
-  affinity-aggro:
-    weight: 0.9778
+  affinity:
+    weight: 0.8627
     avg_copies: 2.48
   domain-zoo:
     weight: 0.7143
     avg_copies: 1.6
-  reanimator:
+  grixis-reanimator:
     weight: 0.8462
     avg_copies: 2.0
   burn:
@@ -53,25 +53,25 @@ archetypes:
   hammer-time:
     weight: 0.5
     avg_copies: 2.0
+  hollow-one:
+    weight: 0.8333
+    avg_copies: 2.4
   yawgmoth-combo:
     weight: 0.2857
     avg_copies: 1.0
   eldrazi-ramp:
     weight: 0.4
     avg_copies: 2.0
-  temur-cascade:
+  simic-ritual:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
     weight: 1.0
     avg_copies: 3.0
-  hollow-one:
-    weight: 1.0
-    avg_copies: 2.4
   orzhov-blink:
     weight: 1.0
     avg_copies: 2.5
-  four-color-shadow:
+  grixis-shadow:
     weight: 1.0
     avg_copies: 2.0
 ---

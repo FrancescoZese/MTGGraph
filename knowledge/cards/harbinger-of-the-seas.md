@@ -15,22 +15,19 @@ archetypes:
   dimir-frog:
     weight: 0.6667
     avg_copies: 2.33
-  landless-belcher:
+  mono-blue-belcher:
     weight: 0.8462
     avg_copies: 1.91
   living-end:
     weight: 0.2222
     avg_copies: 1.0
-  affinity-aggro:
-    weight: 0.3111
-    avg_copies: 1.29
-  reanimator:
+  affinity:
+    weight: 0.3137
+    avg_copies: 1.44
+  grixis-reanimator:
     weight: 0.2308
     avg_copies: 1.33
-  temur-cascade:
+  simic-ritual:
     weight: 1.0
     avg_copies: 2.38
-  affinity:
-    weight: 0.3333
-    avg_copies: 2.5
 ---

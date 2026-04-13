@@ -21,16 +21,16 @@ archetypes:
   azorius-control:
     weight: 0.0714
     avg_copies: 2.0
-  boros-taxes:
+  affinity:
+    weight: 0.0588
+    avg_copies: 3.0
+  boros-ponza:
     weight: 0.3333
     avg_copies: 2.0
-  temur-cascade:
+  simic-ritual:
     weight: 0.0833
     avg_copies: 3.0
-  affinity:
-    weight: 0.5
-    avg_copies: 3.0
-  four-color-shadow:
+  grixis-shadow:
     weight: 1.0
     avg_copies: 2.0
   sultai-artifacts:

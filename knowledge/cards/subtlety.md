@@ -27,7 +27,7 @@ archetypes:
   mono-blue-tron:
     weight: 1.0
     avg_copies: 3.0
-  temur-cascade:
+  simic-ritual:
     weight: 1.0
     avg_copies: 3.75
   birthing-ritual:

@@ -8,7 +8,7 @@ set: tdc
 type: Artifact
 meta_presence: 0.0042
 archetypes:
-  landless-belcher:
+  mono-blue-belcher:
     weight: 0.0769
     avg_copies: 1.0
   mono-blue-tron:

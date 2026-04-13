@@ -9,7 +9,7 @@ set: bro
 type: Creature — Human Scout
 meta_presence: 0.0229
 archetypes:
-  landless-belcher:
+  mono-blue-belcher:
     weight: 0.6923
     avg_copies: 3.56
   goryo-reanimator:

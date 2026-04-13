@@ -12,7 +12,7 @@ archetypes:
   boros-energy:
     weight: 0.0182
     avg_copies: 2.0
-  boros-taxes:
+  boros-ponza:
     weight: 0.6667
     avg_copies: 2.0
 ---

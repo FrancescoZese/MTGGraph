@@ -10,7 +10,7 @@ set: blb
 type: Creature — Frog Advisor
 meta_presence: 0.0021
 archetypes:
-  temur-cascade:
+  simic-ritual:
     weight: 0.0833
     avg_copies: 1.0
 ---

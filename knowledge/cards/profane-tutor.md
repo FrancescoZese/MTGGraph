@@ -9,7 +9,7 @@ set: mh2
 type: Sorcery
 meta_presence: 0.0021
 archetypes:
-  lantern-control:
+  rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 4.0
 ---

@@ -8,28 +8,25 @@ set: ecl
 type: Land — Swamp Mountain
 meta_presence: 0.0542
 archetypes:
-  reanimator:
+  grixis-reanimator:
     weight: 1.0
     avg_copies: 1.0
   mardu-blink:
     weight: 1.0
     avg_copies: 1.0
-  vengevine:
-    weight: 1.0
-    avg_copies: 2.0
   hollow-one:
     weight: 1.0
-    avg_copies: 3.8
+    avg_copies: 3.5
   indomitable-creativity:
     weight: 1.0
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
     avg_copies: 2.0
-  lantern-control:
+  rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 1.0
-  four-color-shadow:
+  grixis-shadow:
     weight: 1.0
     avg_copies: 2.0
 ---

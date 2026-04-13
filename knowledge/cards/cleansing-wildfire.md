@@ -9,7 +9,7 @@ set: znr
 type: Sorcery
 meta_presence: 0.0063
 archetypes:
-  boros-taxes:
+  boros-ponza:
     weight: 1.0
     avg_copies: 3.33
 ---

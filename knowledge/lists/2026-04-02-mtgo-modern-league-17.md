@@ -1,5 +1,5 @@
 ---
-archetype: temur-cascade
+archetype: simic-ritual
 date: '2026-04-02'
 finish: 5-0
 pilot: Paypa

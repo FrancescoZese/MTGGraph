@@ -9,16 +9,16 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 9.14
-- name: Orcish Bowmasters
-  weight: 1.0
-  avg_copies: 4.0
-- name: Boggart Trawler // Boggart Bog
-  weight: 1.0
-  avg_copies: 4.0
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Necrodominance
+  weight: 1.0
+  avg_copies: 4.0
+- name: Orcish Bowmasters
+  weight: 1.0
+  avg_copies: 4.0
+- name: Boggart Trawler // Boggart Bog
   weight: 1.0
   avg_copies: 4.0
 - name: Castle Locthwain
@@ -75,10 +75,10 @@ top_cards:
 - name: Tourach, Dread Cantor
   weight: 0.4286
   avg_copies: 1.33
-- name: Sorin, Imperious Bloodlord
+- name: Vein Ripper
   weight: 0.2857
   avg_copies: 4.0
-- name: Vein Ripper
+- name: Sorin, Imperious Bloodlord
   weight: 0.2857
   avg_copies: 4.0
 - name: Engineered Explosives
@@ -90,13 +90,13 @@ top_cards:
 - name: Polluted Delta
   weight: 0.1429
   avg_copies: 4.0
+- name: Consign to Memory
+  weight: 0.1429
+  avg_copies: 4.0
 - name: Psychic Frog
   weight: 0.1429
   avg_copies: 4.0
 - name: Bloodstained Mire
-  weight: 0.1429
-  avg_copies: 4.0
-- name: Consign to Memory
   weight: 0.1429
   avg_copies: 4.0
 - name: Watery Grave
@@ -108,25 +108,25 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 0.1429
   avg_copies: 2.0
-- name: Hurkyl's Recall
-  weight: 0.1429
-  avg_copies: 2.0
 - name: Disruptor Flute
   weight: 0.1429
   avg_copies: 2.0
-- name: Toxic Deluge
+- name: Hurkyl's Recall
+  weight: 0.1429
+  avg_copies: 2.0
+- name: Takenuma, Abandoned Mire
   weight: 0.1429
   avg_copies: 1.0
 - name: Undercity Sewers
   weight: 0.1429
   avg_copies: 1.0
-- name: Takenuma, Abandoned Mire
+- name: Illness in the Ranks
   weight: 0.1429
   avg_copies: 1.0
 - name: The Filigree Sylex
   weight: 0.1429
   avg_copies: 1.0
-- name: Illness in the Ranks
+- name: Toxic Deluge
   weight: 0.1429
   avg_copies: 1.0
 ---

@@ -20,10 +20,10 @@ archetypes:
   mardu-blink:
     weight: 1.0
     avg_copies: 2.0
-  boros-taxes:
+  boros-ponza:
     weight: 1.0
     avg_copies: 1.67
   izzet-prowess:
-    weight: 0.0833
+    weight: 0.0769
     avg_copies: 1.0
 ---

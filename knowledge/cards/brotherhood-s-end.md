@@ -12,7 +12,7 @@ archetypes:
   ruby-storm:
     weight: 1.0
     avg_copies: 1.58
-  gruul-belcher:
+  mono-red-belcher:
     weight: 1.0
     avg_copies: 3.0
   birthing-ritual:

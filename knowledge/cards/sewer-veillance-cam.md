@@ -9,7 +9,7 @@ set: tmt
 type: Artifact
 meta_presence: 0.0042
 archetypes:
-  legends-combo:
+  kethis-combo:
     weight: 1.0
     avg_copies: 1.0
   sultai-artifacts:

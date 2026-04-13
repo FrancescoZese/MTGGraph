@@ -22,8 +22,8 @@ archetypes:
   azorius-control:
     weight: 0.2857
     avg_copies: 1.0
-  affinity-aggro:
-    weight: 0.1111
+  affinity:
+    weight: 0.098
     avg_copies: 1.0
   domain-zoo:
     weight: 0.5238
@@ -37,7 +37,7 @@ archetypes:
   orzhov-blink:
     weight: 1.0
     avg_copies: 1.5
-  lantern-control:
+  rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 2.0
 ---

@@ -9,7 +9,7 @@ set: tla
 type: Instant — Lesson
 meta_presence: 0.0021
 archetypes:
-  temur-prowess:
-    weight: 1.0
+  izzet-prowess:
+    weight: 0.0769
     avg_copies: 1.0
 ---

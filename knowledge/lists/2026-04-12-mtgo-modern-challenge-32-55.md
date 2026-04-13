@@ -1,5 +1,5 @@
 ---
-archetype: boros-taxes
+archetype: boros-ponza
 date: '2026-04-12'
 finish: 8th
 pilot: manjyui

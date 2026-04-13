@@ -9,7 +9,7 @@ set: m20
 type: Enchantment
 meta_presence: 0.0021
 archetypes:
-  gruul-belcher:
+  mono-red-belcher:
     weight: 0.5
     avg_copies: 4.0
 ---

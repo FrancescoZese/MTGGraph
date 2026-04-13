@@ -12,7 +12,7 @@ archetypes:
   domain-zoo:
     weight: 1.0
     avg_copies: 2.19
-  four-color-shadow:
+  grixis-shadow:
     weight: 1.0
     avg_copies: 2.0
 ---

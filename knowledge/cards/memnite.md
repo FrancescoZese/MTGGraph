@@ -8,7 +8,7 @@ set: td2
 type: Artifact Creature — Construct
 meta_presence: 0.0104
 archetypes:
-  affinity-aggro:
-    weight: 0.1111
+  affinity:
+    weight: 0.098
     avg_copies: 3.0
 ---

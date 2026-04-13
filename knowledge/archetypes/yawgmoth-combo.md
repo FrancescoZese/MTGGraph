@@ -57,49 +57,49 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.7143
   avg_copies: 1.6
-- name: Soulless Jailer
-  weight: 0.7143
-  avg_copies: 1.0
 - name: Grist, the Hunger Tide
   weight: 0.7143
   avg_copies: 1.0
-- name: Cauldron Familiar
-  weight: 0.5714
-  avg_copies: 4.0
+- name: Soulless Jailer
+  weight: 0.7143
+  avg_copies: 1.0
 - name: Gilded Goose
-  weight: 0.5714
-  avg_copies: 4.0
-- name: Birthing Ritual
   weight: 0.5714
   avg_copies: 4.0
 - name: Samwise Gamgee
   weight: 0.5714
   avg_copies: 4.0
-- name: Viscera Seer
+- name: Birthing Ritual
+  weight: 0.5714
+  avg_copies: 4.0
+- name: Cauldron Familiar
+  weight: 0.5714
+  avg_copies: 4.0
+- name: Carrion Feeder
   weight: 0.5714
   avg_copies: 2.0
-- name: Carrion Feeder
+- name: Viscera Seer
   weight: 0.5714
   avg_copies: 2.0
 - name: Suncleanser
   weight: 0.5714
   avg_copies: 1.5
+- name: Lush Portico
+  weight: 0.5714
+  avg_copies: 1.0
 - name: Crystal Barricade
   weight: 0.5714
   avg_copies: 1.0
 - name: Temple Garden
   weight: 0.5714
   avg_copies: 1.0
+- name: Godless Shrine
+  weight: 0.5714
+  avg_copies: 1.0
 - name: Sylvan Safekeeper
   weight: 0.5714
   avg_copies: 1.0
 - name: Gaddock Teeg
-  weight: 0.5714
-  avg_copies: 1.0
-- name: Lush Portico
-  weight: 0.5714
-  avg_copies: 1.0
-- name: Godless Shrine
   weight: 0.5714
   avg_copies: 1.0
 - name: Haywire Mite
@@ -120,10 +120,10 @@ top_cards:
 - name: Walking Ballista
   weight: 0.4286
   avg_copies: 3.0
-- name: Dredger's Insight
+- name: Thoughtseize
   weight: 0.4286
   avg_copies: 2.0
-- name: Thoughtseize
+- name: Dredger's Insight
   weight: 0.4286
   avg_copies: 2.0
 - name: Fulminator Mage
@@ -132,70 +132,70 @@ top_cards:
 - name: Culling Ritual
   weight: 0.4286
   avg_copies: 1.67
-- name: Strangleroot Geist
+- name: Outland Liberator // Frenzied Trapbreaker
   weight: 0.4286
   avg_copies: 1.0
 - name: Swamp
   weight: 0.4286
   avg_copies: 1.0
-- name: Formidable Speaker
-  weight: 0.4286
-  avg_copies: 1.0
-- name: Outland Liberator // Frenzied Trapbreaker
-  weight: 0.4286
-  avg_copies: 1.0
-- name: Virulent Emissary
+- name: Nurturing Peatland
   weight: 0.4286
   avg_copies: 1.0
 - name: Wooded Foothills
   weight: 0.4286
   avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Formidable Speaker
+  weight: 0.4286
+  avg_copies: 1.0
+- name: Virulent Emissary
+  weight: 0.4286
+  avg_copies: 1.0
+- name: Strangleroot Geist
   weight: 0.4286
   avg_copies: 1.0
 - name: Orcish Bowmasters
   weight: 0.2857
   avg_copies: 2.5
-- name: Abhorrent Oculus
-  weight: 0.2857
-  avg_copies: 2.0
-- name: Wall of Roots
-  weight: 0.2857
-  avg_copies: 2.0
 - name: High Noon
   weight: 0.2857
   avg_copies: 2.0
 - name: Marionette Apprentice
   weight: 0.2857
   avg_copies: 2.0
-- name: Breeding Pool
+- name: Wall of Roots
   weight: 0.2857
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: Abhorrent Oculus
+  weight: 0.2857
+  avg_copies: 2.0
 - name: Surgical Extraction
-  weight: 0.2857
-  avg_copies: 1.0
-- name: Scavenging Ooze
-  weight: 0.2857
-  avg_copies: 1.0
-- name: Ruthless Lawbringer
-  weight: 0.2857
-  avg_copies: 1.0
-- name: Ashiok, Dream Render
   weight: 0.2857
   avg_copies: 1.0
 - name: Dauthi Voidwalker
   weight: 0.2857
   avg_copies: 1.0
-- name: Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
+- name: Breeding Pool
+  weight: 0.2857
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
   weight: 0.2857
   avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.2857
   avg_copies: 1.0
+- name: Ruthless Lawbringer
+  weight: 0.2857
+  avg_copies: 1.0
 - name: Lavinia, Azorius Renegade
   weight: 0.2857
   avg_copies: 1.0
+- name: Scavenging Ooze
+  weight: 0.2857
+  avg_copies: 1.0
 - name: Voice of Victory
+  weight: 0.2857
+  avg_copies: 1.0
+- name: Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
   weight: 0.2857
   avg_copies: 1.0
 - name: Scout for Survivors
@@ -204,13 +204,13 @@ top_cards:
 - name: Dewdrop Cure
   weight: 0.1429
   avg_copies: 2.0
-- name: Pile On
+- name: Ignoble Hierarch
   weight: 0.1429
   avg_copies: 1.0
 - name: Kraul Harpooner
   weight: 0.1429
   avg_copies: 1.0
-- name: Ignoble Hierarch
+- name: Pile On
   weight: 0.1429
   avg_copies: 1.0
 ---

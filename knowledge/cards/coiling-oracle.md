@@ -10,7 +10,7 @@ set: rvr
 type: Creature — Snake Elf Druid
 meta_presence: 0.025
 archetypes:
-  temur-cascade:
+  simic-ritual:
     weight: 1.0
     avg_copies: 4.0
 ---

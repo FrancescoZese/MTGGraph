@@ -22,16 +22,16 @@ archetypes:
   necrodominance:
     weight: 0.1429
     avg_copies: 4.0
-  reanimator:
+  grixis-reanimator:
     weight: 1.0
     avg_copies: 4.0
   esper-blink:
     weight: 0.25
     avg_copies: 4.0
-  sultai-frog:
+  sultai-reanimator:
     weight: 1.0
     avg_copies: 4.0
-  four-color-shadow:
+  grixis-shadow:
     weight: 1.0
     avg_copies: 4.0
 ---

@@ -9,7 +9,7 @@ set: bro
 type: Instant
 meta_presence: 0.0021
 archetypes:
-  boros-taxes:
+  boros-ponza:
     weight: 0.3333
     avg_copies: 3.0
 ---

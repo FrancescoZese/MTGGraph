@@ -14,7 +14,7 @@ archetypes:
   amulet-titan:
     weight: 0.6
     avg_copies: 2.83
-  gruul-belcher:
+  mono-red-belcher:
     weight: 0.5
     avg_copies: 1.0
   eldrazi-ramp:

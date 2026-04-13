@@ -9,7 +9,7 @@ set: rvr
 type: Legendary Creature — Homunculus
 meta_presence: 0.025
 archetypes:
-  temur-cascade:
+  simic-ritual:
     weight: 1.0
     avg_copies: 1.92
 ---

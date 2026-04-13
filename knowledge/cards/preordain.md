@@ -12,23 +12,17 @@ archetypes:
   dimir-frog:
     weight: 0.2222
     avg_copies: 2.0
-  landless-belcher:
+  mono-blue-belcher:
     weight: 0.3077
     avg_copies: 3.5
-  affinity-aggro:
-    weight: 0.0889
-    avg_copies: 2.25
+  affinity:
+    weight: 0.098
+    avg_copies: 2.6
   neoform-combo:
     weight: 0.1111
     avg_copies: 1.0
   izzet-prowess:
     weight: 1.0
-    avg_copies: 4.0
-  temur-prowess:
-    weight: 1.0
-    avg_copies: 4.0
-  affinity:
-    weight: 0.1667
     avg_copies: 4.0
   izzet-eldrazi:
     weight: 1.0

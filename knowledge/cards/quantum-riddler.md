@@ -21,10 +21,13 @@ archetypes:
   goryo-reanimator:
     weight: 0.9444
     avg_copies: 3.76
+  affinity:
+    weight: 0.098
+    avg_copies: 2.4
   domain-zoo:
     weight: 0.0476
     avg_copies: 1.0
-  reanimator:
+  grixis-reanimator:
     weight: 0.6923
     avg_copies: 1.22
   birthing-ritual:
@@ -33,7 +36,4 @@ archetypes:
   esper-blink:
     weight: 1.0
     avg_copies: 3.25
-  affinity:
-    weight: 0.8333
-    avg_copies: 2.4
 ---

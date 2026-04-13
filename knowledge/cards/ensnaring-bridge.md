@@ -14,7 +14,7 @@ archetypes:
   mill:
     weight: 0.6667
     avg_copies: 2.0
-  lantern-control:
+  rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 4.0
 ---

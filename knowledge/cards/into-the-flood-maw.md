@@ -9,16 +9,16 @@ set: blb
 type: Instant
 meta_presence: 0.0458
 archetypes:
-  landless-belcher:
+  mono-blue-belcher:
     weight: 0.6923
     avg_copies: 1.53
   neoform-combo:
     weight: 0.7778
     avg_copies: 1.0
-  legends-combo:
+  kethis-combo:
     weight: 1.0
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.4167
+    weight: 0.3846
     avg_copies: 1.4
 ---

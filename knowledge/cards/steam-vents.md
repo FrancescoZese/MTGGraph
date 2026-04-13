@@ -20,37 +20,31 @@ archetypes:
   azorius-control:
     weight: 0.7857
     avg_copies: 1.09
-  affinity-aggro:
-    weight: 0.9333
-    avg_copies: 1.55
+  affinity:
+    weight: 0.9412
+    avg_copies: 1.54
   domain-zoo:
     weight: 1.0
     avg_copies: 1.67
-  reanimator:
+  grixis-reanimator:
     weight: 1.0
     avg_copies: 1.0
-  temur-cascade:
+  simic-ritual:
     weight: 0.0833
     avg_copies: 1.0
   izzet-prowess:
     weight: 1.0
-    avg_copies: 2.75
+    avg_copies: 2.77
   birthing-ritual:
     weight: 1.0
     avg_copies: 1.0
-  temur-prowess:
-    weight: 1.0
-    avg_copies: 3.0
   indomitable-creativity:
     weight: 1.0
     avg_copies: 1.0
-  affinity:
-    weight: 1.0
-    avg_copies: 1.5
   izzet-eldrazi:
     weight: 1.0
     avg_copies: 2.0
-  four-color-shadow:
+  grixis-shadow:
     weight: 1.0
     avg_copies: 1.0
   sultai-artifacts:

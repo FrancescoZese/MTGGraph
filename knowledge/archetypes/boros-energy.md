@@ -162,10 +162,10 @@ top_cards:
 - name: Haliya, Guided by Light
   weight: 0.0182
   avg_copies: 1.0
-- name: Destroy Evil
+- name: Disruptor Flute
   weight: 0.0182
   avg_copies: 1.0
-- name: Disruptor Flute
+- name: Destroy Evil
   weight: 0.0182
   avg_copies: 1.0
 - name: Bloodstained Mire
@@ -174,46 +174,46 @@ top_cards:
 - name: Starfield Shepherd
   weight: 0.0091
   avg_copies: 4.0
-- name: The Battle of Bywater
-  weight: 0.0091
-  avg_copies: 2.0
-- name: White Orchid Phantom
-  weight: 0.0091
-  avg_copies: 2.0
 - name: Ephemerate
   weight: 0.0091
   avg_copies: 2.0
 - name: Stony Silence
   weight: 0.0091
   avg_copies: 2.0
+- name: White Orchid Phantom
+  weight: 0.0091
+  avg_copies: 2.0
+- name: The Battle of Bywater
+  weight: 0.0091
+  avg_copies: 2.0
 - name: Snow-Covered Plains
   weight: 0.0091
   avg_copies: 2.0
-- name: Prismatic Ending
-  weight: 0.0091
-  avg_copies: 1.0
-- name: Showdown of the Skalds
-  weight: 0.0091
-  avg_copies: 1.0
-- name: Curious Farm Animals
-  weight: 0.0091
-  avg_copies: 1.0
-- name: The Wandering Emperor
+- name: Snow-Covered Mountain
   weight: 0.0091
   avg_copies: 1.0
 - name: Ghost Vacuum
   weight: 0.0091
   avg_copies: 1.0
-- name: Cool but Rude
+- name: Elspeth, Storm Slayer
   weight: 0.0091
   avg_copies: 1.0
-- name: Snow-Covered Mountain
+- name: Prismatic Ending
   weight: 0.0091
   avg_copies: 1.0
 - name: Giant Killer // Chop Down
   weight: 0.0091
   avg_copies: 1.0
-- name: Elspeth, Storm Slayer
+- name: Cool but Rude
+  weight: 0.0091
+  avg_copies: 1.0
+- name: Showdown of the Skalds
+  weight: 0.0091
+  avg_copies: 1.0
+- name: The Wandering Emperor
+  weight: 0.0091
+  avg_copies: 1.0
+- name: Curious Farm Animals
   weight: 0.0091
   avg_copies: 1.0
 - name: The Ooze

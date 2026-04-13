@@ -12,7 +12,7 @@ archetypes:
   eldrazi-ramp:
     weight: 0.3
     avg_copies: 2.0
-  temur-cascade:
+  simic-ritual:
     weight: 0.0833
     avg_copies: 1.0
 ---

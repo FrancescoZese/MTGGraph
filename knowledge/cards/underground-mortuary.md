@@ -14,7 +14,7 @@ archetypes:
   yawgmoth-combo:
     weight: 0.8571
     avg_copies: 1.17
-  sultai-frog:
+  sultai-reanimator:
     weight: 1.0
     avg_copies: 1.0
   jund-saga:

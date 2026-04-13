@@ -20,8 +20,8 @@ archetypes:
   azorius-control:
     weight: 0.7857
     avg_copies: 1.0
-  affinity-aggro:
-    weight: 0.1111
+  affinity:
+    weight: 0.1961
     avg_copies: 1.0
   domain-zoo:
     weight: 0.8571
@@ -29,7 +29,7 @@ archetypes:
   neoform-combo:
     weight: 0.1111
     avg_copies: 1.0
-  temur-cascade:
+  simic-ritual:
     weight: 0.0833
     avg_copies: 1.0
   izzet-prowess:
@@ -38,14 +38,8 @@ archetypes:
   birthing-ritual:
     weight: 1.0
     avg_copies: 1.0
-  temur-prowess:
-    weight: 1.0
-    avg_copies: 1.0
   indomitable-creativity:
     weight: 1.0
-    avg_copies: 1.0
-  affinity:
-    weight: 0.8333
     avg_copies: 1.0
   sultai-artifacts:
     weight: 1.0

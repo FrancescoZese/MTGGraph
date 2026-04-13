@@ -28,10 +28,10 @@ archetypes:
   mardu-blink:
     weight: 1.0
     avg_copies: 1.0
-  gruul-belcher:
+  mono-red-belcher:
     weight: 0.5
     avg_copies: 2.0
-  boros-taxes:
+  boros-ponza:
     weight: 1.0
     avg_copies: 2.0
   birthing-ritual:

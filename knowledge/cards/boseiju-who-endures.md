@@ -23,7 +23,7 @@ archetypes:
   neoform-combo:
     weight: 1.0
     avg_copies: 1.0
-  legends-combo:
+  kethis-combo:
     weight: 1.0
     avg_copies: 1.0
   yawgmoth-combo:
@@ -32,7 +32,7 @@ archetypes:
   eldrazi-ramp:
     weight: 0.7
     avg_copies: 1.86
-  temur-cascade:
+  simic-ritual:
     weight: 1.0
     avg_copies: 1.0
   jund-saga:

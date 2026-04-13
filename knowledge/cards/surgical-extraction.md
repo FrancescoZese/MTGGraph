@@ -33,7 +33,7 @@ archetypes:
   mill:
     weight: 1.0
     avg_copies: 2.5
-  reanimator:
+  grixis-reanimator:
     weight: 0.1538
     avg_copies: 1.0
   burn:
@@ -42,7 +42,10 @@ archetypes:
   mardu-blink:
     weight: 1.0
     avg_copies: 1.0
-  boros-taxes:
+  hollow-one:
+    weight: 0.5
+    avg_copies: 2.0
+  boros-ponza:
     weight: 0.6667
     avg_copies: 1.0
   yawgmoth-combo:
@@ -52,17 +55,11 @@ archetypes:
     weight: 0.1
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.6667
-    avg_copies: 1.27
+    weight: 0.6923
+    avg_copies: 1.33
   esper-blink:
     weight: 0.25
     avg_copies: 1.0
-  hollow-one:
-    weight: 0.6
-    avg_copies: 2.0
-  temur-prowess:
-    weight: 1.0
-    avg_copies: 2.0
   indomitable-creativity:
     weight: 0.3333
     avg_copies: 2.0

@@ -20,8 +20,8 @@ archetypes:
   living-end:
     weight: 1.0
     avg_copies: 3.78
-  affinity-aggro:
-    weight: 0.0667
+  affinity:
+    weight: 0.0588
     avg_copies: 2.0
   mill:
     weight: 0.3333
@@ -29,7 +29,7 @@ archetypes:
   neoform-combo:
     weight: 1.0
     avg_copies: 3.67
-  legends-combo:
+  kethis-combo:
     weight: 1.0
     avg_copies: 4.0
   yawgmoth-combo:
@@ -38,16 +38,16 @@ archetypes:
   eldrazi-ramp:
     weight: 0.5
     avg_copies: 1.0
-  temur-cascade:
+  simic-ritual:
     weight: 1.0
     avg_copies: 4.0
   izzet-prowess:
-    weight: 0.0833
+    weight: 0.0769
     avg_copies: 1.0
   birthing-ritual:
     weight: 1.0
     avg_copies: 4.0
-  sultai-frog:
+  sultai-reanimator:
     weight: 1.0
     avg_copies: 1.0
   sultai-artifacts:

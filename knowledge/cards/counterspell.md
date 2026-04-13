@@ -15,7 +15,7 @@ archetypes:
   dimir-frog:
     weight: 1.0
     avg_copies: 3.44
-  landless-belcher:
+  mono-blue-belcher:
     weight: 0.3077
     avg_copies: 3.0
   azorius-control:

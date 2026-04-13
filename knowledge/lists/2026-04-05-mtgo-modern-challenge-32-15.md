@@ -1,5 +1,5 @@
 ---
-archetype: temur-cascade
+archetype: simic-ritual
 date: '2026-04-05'
 finish: 12th
 pilot: wigglegenie

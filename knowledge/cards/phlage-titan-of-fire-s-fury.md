@@ -28,7 +28,7 @@ archetypes:
   mardu-blink:
     weight: 1.0
     avg_copies: 4.0
-  boros-taxes:
+  boros-ponza:
     weight: 1.0
     avg_copies: 2.67
 ---

@@ -9,7 +9,7 @@ set: 2x2
 type: Instant
 meta_presence: 0.025
 archetypes:
-  reanimator:
+  grixis-reanimator:
     weight: 0.9231
     avg_copies: 3.33
 ---

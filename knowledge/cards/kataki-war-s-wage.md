@@ -12,7 +12,7 @@ archetypes:
   jeskai-energy:
     weight: 0.0357
     avg_copies: 1.0
-  boros-taxes:
+  boros-ponza:
     weight: 0.3333
     avg_copies: 1.0
 ---

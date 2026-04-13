@@ -8,8 +8,8 @@ set: mh2
 type: Artifact
 meta_presence: 0.0042
 archetypes:
-  affinity-aggro:
-    weight: 0.0222
+  affinity:
+    weight: 0.0196
     avg_copies: 1.0
   eldrazi-ramp:
     weight: 0.1

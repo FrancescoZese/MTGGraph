@@ -9,7 +9,7 @@ set: dsk
 type: Enchantment — Aura
 meta_presence: 0.0146
 archetypes:
-  landless-belcher:
+  mono-blue-belcher:
     weight: 0.5385
     avg_copies: 1.57
 ---

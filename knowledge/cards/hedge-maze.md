@@ -26,7 +26,7 @@ archetypes:
   neoform-combo:
     weight: 1.0
     avg_copies: 2.67
-  temur-cascade:
+  simic-ritual:
     weight: 1.0
     avg_copies: 1.75
   birthing-ritual:

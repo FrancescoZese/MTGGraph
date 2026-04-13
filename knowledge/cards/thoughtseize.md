@@ -18,22 +18,22 @@ archetypes:
   necrodominance:
     weight: 0.5714
     avg_copies: 3.75
-  reanimator:
+  grixis-reanimator:
     weight: 1.0
     avg_copies: 4.0
   mardu-blink:
     weight: 1.0
     avg_copies: 3.0
+  hollow-one:
+    weight: 0.6667
+    avg_copies: 2.75
   yawgmoth-combo:
     weight: 0.4286
     avg_copies: 2.0
   esper-blink:
     weight: 1.0
     avg_copies: 3.25
-  hollow-one:
-    weight: 0.8
-    avg_copies: 2.75
-  sultai-frog:
+  sultai-reanimator:
     weight: 1.0
     avg_copies: 4.0
   orzhov-blink:
@@ -42,10 +42,10 @@ archetypes:
   jund-saga:
     weight: 1.0
     avg_copies: 4.0
-  lantern-control:
+  rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 4.0
-  four-color-shadow:
+  grixis-shadow:
     weight: 1.0
     avg_copies: 4.0
 ---

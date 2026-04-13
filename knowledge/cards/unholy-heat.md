@@ -12,19 +12,16 @@ archetypes:
   jeskai-energy:
     weight: 0.0357
     avg_copies: 1.0
+  affinity:
+    weight: 0.098
+    avg_copies: 3.6
   eldrazi-ramp:
     weight: 0.6
     avg_copies: 1.9
   izzet-prowess:
-    weight: 0.9167
-    avg_copies: 2.05
-  temur-prowess:
-    weight: 1.0
-    avg_copies: 1.0
-  affinity:
-    weight: 0.8333
-    avg_copies: 3.6
-  four-color-shadow:
+    weight: 0.9231
+    avg_copies: 1.95
+  grixis-shadow:
     weight: 1.0
     avg_copies: 2.0
   sultai-artifacts:

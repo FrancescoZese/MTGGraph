@@ -12,30 +12,27 @@ archetypes:
   dimir-frog:
     weight: 0.1111
     avg_copies: 2.0
-  landless-belcher:
+  mono-blue-belcher:
     weight: 0.4615
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.8571
     avg_copies: 1.58
-  affinity-aggro:
-    weight: 0.0889
-    avg_copies: 1.25
+  affinity:
+    weight: 0.1569
+    avg_copies: 1.08
   domain-zoo:
     weight: 0.1429
     avg_copies: 1.0
-  reanimator:
+  grixis-reanimator:
     weight: 0.0769
     avg_copies: 2.0
-  legends-combo:
+  kethis-combo:
     weight: 1.0
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.6667
     avg_copies: 2.0
-  affinity:
-    weight: 0.6667
-    avg_copies: 1.0
   sultai-artifacts:
     weight: 1.0
     avg_copies: 1.0

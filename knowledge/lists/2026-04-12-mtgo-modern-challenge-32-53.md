@@ -1,5 +1,5 @@
 ---
-archetype: lantern-control
+archetype: rakdos-lantern-combo
 date: '2026-04-12'
 finish: 30th
 pilot: Taddy_99

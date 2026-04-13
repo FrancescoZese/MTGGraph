@@ -9,15 +9,12 @@ set: eoc
 type: Legendary Creature — Merfolk Wizard
 meta_presence: 0.0958
 archetypes:
-  affinity-aggro:
-    weight: 0.8444
-    avg_copies: 2.15
-  legends-combo:
+  affinity:
+    weight: 0.8627
+    avg_copies: 2.35
+  kethis-combo:
     weight: 1.0
     avg_copies: 4.0
-  affinity:
-    weight: 1.0
-    avg_copies: 3.83
   sultai-artifacts:
     weight: 1.0
     avg_copies: 4.0

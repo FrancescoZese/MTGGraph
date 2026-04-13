@@ -9,10 +9,7 @@ set: otc
 type: Sorcery
 meta_presence: 0.0042
 archetypes:
-  affinity-aggro:
-    weight: 0.0222
-    avg_copies: 1.0
   affinity:
-    weight: 0.1667
-    avg_copies: 2.0
+    weight: 0.0392
+    avg_copies: 1.5
 ---

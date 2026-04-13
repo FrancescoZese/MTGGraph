@@ -24,15 +24,12 @@ archetypes:
   mardu-blink:
     weight: 1.0
     avg_copies: 3.0
-  vengevine:
-    weight: 1.0
+  hollow-one:
+    weight: 0.3333
     avg_copies: 3.0
   birthing-ritual:
     weight: 1.0
     avg_copies: 1.0
-  hollow-one:
-    weight: 0.2
-    avg_copies: 3.0
   jund-saga:
     weight: 1.0
     avg_copies: 2.0

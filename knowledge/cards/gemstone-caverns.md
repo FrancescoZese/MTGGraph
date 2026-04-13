@@ -11,13 +11,13 @@ archetypes:
   ruby-storm:
     weight: 0.9167
     avg_copies: 1.0
-  legends-combo:
+  kethis-combo:
     weight: 1.0
     avg_copies: 1.0
   eldrazi-ramp:
     weight: 0.6
     avg_copies: 1.0
-  temur-cascade:
+  simic-ritual:
     weight: 0.75
     avg_copies: 2.11
   birthing-ritual:

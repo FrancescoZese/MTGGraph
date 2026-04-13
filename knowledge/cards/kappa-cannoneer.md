@@ -9,10 +9,7 @@ set: eoc
 type: Artifact Creature — Turtle Warrior
 meta_presence: 0.0958
 archetypes:
-  affinity-aggro:
-    weight: 1.0
-    avg_copies: 3.91
   affinity:
-    weight: 0.1667
-    avg_copies: 2.0
+    weight: 0.902
+    avg_copies: 3.87
 ---

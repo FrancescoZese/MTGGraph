@@ -15,7 +15,7 @@ archetypes:
   domain-zoo:
     weight: 0.7143
     avg_copies: 1.0
-  boros-taxes:
+  boros-ponza:
     weight: 1.0
     avg_copies: 4.0
 ---

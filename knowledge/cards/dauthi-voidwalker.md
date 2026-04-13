@@ -15,7 +15,7 @@ archetypes:
   yawgmoth-combo:
     weight: 0.2857
     avg_copies: 1.0
-  four-color-shadow:
+  grixis-shadow:
     weight: 1.0
     avg_copies: 2.0
 ---

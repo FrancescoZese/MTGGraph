@@ -8,7 +8,7 @@ set: mh3
 type: Instant // Land
 meta_presence: 0.025
 archetypes:
-  landless-belcher:
+  mono-blue-belcher:
     weight: 0.9231
     avg_copies: 2.83
 ---

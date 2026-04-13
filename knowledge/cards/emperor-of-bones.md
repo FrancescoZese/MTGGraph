@@ -12,13 +12,13 @@ archetypes:
   goryo-reanimator:
     weight: 0.2778
     avg_copies: 1.2
-  reanimator:
+  grixis-reanimator:
     weight: 1.0
     avg_copies: 3.77
   esper-blink:
     weight: 1.0
     avg_copies: 2.75
-  sultai-frog:
+  sultai-reanimator:
     weight: 1.0
     avg_copies: 3.0
   orzhov-blink:

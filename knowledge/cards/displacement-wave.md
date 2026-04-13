@@ -9,7 +9,7 @@ set: ori
 type: Sorcery
 meta_presence: 0.0021
 archetypes:
-  landless-belcher:
+  mono-blue-belcher:
     weight: 0.0769
     avg_copies: 1.0
 ---

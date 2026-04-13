@@ -1,101 +1,103 @@
 ---
 colors:
-- U
+- B
 - R
-- G
-name: Temur Prowess
+name: Rakdos Lantern Combo
 meta_share: 0.0021
 list_count: 1
 top_cards:
-- name: Mishra's Bauble
+- name: Codex Shredder
   weight: 1.0
   avg_copies: 4.0
-- name: Preordain
+- name: Swamp
   weight: 1.0
   avg_copies: 4.0
-- name: Cori-Steel Cutter
+- name: Blackcleave Cliffs
   weight: 1.0
   avg_copies: 4.0
-- name: Wooded Foothills
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
-- name: Lightning Bolt
+- name: Inquisition of Kozilek
   weight: 1.0
   avg_copies: 4.0
-- name: Academic Dispute
+- name: Lantern of Insight
   weight: 1.0
   avg_copies: 4.0
-- name: Dragon's Rage Channeler
+- name: Profane Tutor
   weight: 1.0
   avg_copies: 4.0
-- name: Scalding Tarn
+- name: Blood Moon
   weight: 1.0
   avg_copies: 4.0
-- name: Questing Druid // Seek the Beast
+- name: Ensnaring Bridge
   weight: 1.0
   avg_copies: 4.0
-- name: Stormchaser's Talent
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
-- name: Lava Dart
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
-- name: Steam Vents
+- name: Pithing Needle
   weight: 1.0
   avg_copies: 3.0
-- name: Arid Mesa
+- name: Pyroclasm
   weight: 1.0
   avg_copies: 3.0
+- name: Cursed Totem
+  weight: 1.0
+  avg_copies: 2.0
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 2.0
+- name: Soulless Jailer
+  weight: 1.0
+  avg_copies: 2.0
+- name: Pyxis of Pandemonium
+  weight: 1.0
+  avg_copies: 2.0
+- name: The Mycosynth Gardens
+  weight: 1.0
+  avg_copies: 2.0
+- name: Ashiok, Dream Render
+  weight: 1.0
+  avg_copies: 2.0
+- name: Molten Collapse
+  weight: 1.0
+  avg_copies: 1.0
+- name: Grafdigger's Cage
+  weight: 1.0
+  avg_copies: 1.0
+- name: Blood Crypt
+  weight: 1.0
+  avg_copies: 1.0
+- name: The Underworld Cookbook
+  weight: 1.0
+  avg_copies: 1.0
+- name: The Meathook Massacre
+  weight: 1.0
+  avg_copies: 1.0
+- name: Necromentia
+  weight: 1.0
+  avg_copies: 1.0
+- name: Mox Opal
+  weight: 1.0
+  avg_copies: 1.0
+- name: Blazemire Verge
+  weight: 1.0
+  avg_copies: 1.0
+- name: Emrakul, the Aeons Torn
+  weight: 1.0
+  avg_copies: 1.0
+- name: Vexing Bauble
+  weight: 1.0
+  avg_copies: 1.0
 - name: Mountain
   weight: 1.0
-  avg_copies: 2.0
-- name: Surgical Extraction
-  weight: 1.0
-  avg_copies: 2.0
-- name: Consign to Memory
-  weight: 1.0
-  avg_copies: 2.0
-- name: Stomping Ground
-  weight: 1.0
-  avg_copies: 2.0
-- name: Boomerang Basics
-  weight: 1.0
-  avg_copies: 2.0
-- name: Fiery Islet
-  weight: 1.0
   avg_copies: 1.0
-- name: Iroh's Demonstration
-  weight: 1.0
-  avg_copies: 1.0
-- name: Redirect Lightning
-  weight: 1.0
-  avg_copies: 1.0
-- name: Unholy Heat
-  weight: 1.0
-  avg_copies: 1.0
-- name: Price of Freedom
-  weight: 1.0
-  avg_copies: 1.0
-- name: True Ancestry
-  weight: 1.0
-  avg_copies: 1.0
-- name: Origin of Metalbending
-  weight: 1.0
-  avg_copies: 1.0
-- name: Accumulate Wisdom
-  weight: 1.0
-  avg_copies: 1.0
-- name: Firebending Lesson
-  weight: 1.0
-  avg_copies: 1.0
-- name: It'll Quench Ya!
-  weight: 1.0
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 1.0
-  avg_copies: 1.0
-- name: Octopus Form
+- name: Torpor Orb
   weight: 1.0
   avg_copies: 1.0
 ---
-Tempo deck adding green for Questing Druid to the prowess shell.
+Prison-combo deck using Lantern of Insight and mill rocks to control the opponent s draws behind Ensnaring Bridge.

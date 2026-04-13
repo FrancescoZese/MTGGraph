@@ -51,16 +51,16 @@ top_cards:
 - name: Isochron Scepter
   weight: 0.9286
   avg_copies: 1.38
-- name: Consult the Star Charts
-  weight: 0.8571
-  avg_copies: 2.92
 - name: Arid Mesa
   weight: 0.8571
   avg_copies: 2.92
-- name: Mystic Gate
+- name: Consult the Star Charts
+  weight: 0.8571
+  avg_copies: 2.92
+- name: Lórien Revealed
   weight: 0.8571
   avg_copies: 1.25
-- name: Lórien Revealed
+- name: Mystic Gate
   weight: 0.8571
   avg_copies: 1.25
 - name: Counterspell
@@ -129,16 +129,16 @@ top_cards:
 - name: Rest in Peace
   weight: 0.2857
   avg_copies: 1.5
-- name: Ashiok, Dream Render
+- name: Elegant Parlor
   weight: 0.2857
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Ashiok, Dream Render
   weight: 0.2857
   avg_copies: 1.0
 - name: March of Otherworldly Light
   weight: 0.2143
   avg_copies: 1.25
-- name: Sacred Foundry
+- name: Beza, the Bounding Spring
   weight: 0.2143
   avg_copies: 1.0
 - name: Mistrise Village
@@ -147,7 +147,7 @@ top_cards:
 - name: Stern Scolding
   weight: 0.2143
   avg_copies: 1.0
-- name: Beza, the Bounding Spring
+- name: Sacred Foundry
   weight: 0.2143
   avg_copies: 1.0
 - name: Damping Sphere
@@ -162,16 +162,16 @@ top_cards:
 - name: Polluted Delta
   weight: 0.1429
   avg_copies: 1.0
-- name: Watery Grave
+- name: Meltdown
   weight: 0.1429
   avg_copies: 1.0
 - name: Hedge Maze
   weight: 0.1429
   avg_copies: 1.0
-- name: Vendilion Clique
+- name: Watery Grave
   weight: 0.1429
   avg_copies: 1.0
-- name: Meltdown
+- name: Vendilion Clique
   weight: 0.1429
   avg_copies: 1.0
 - name: Flame of Anor
@@ -180,9 +180,6 @@ top_cards:
 - name: Snapcaster Mage
   weight: 0.0714
   avg_copies: 3.0
-- name: Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
-  weight: 0.0714
-  avg_copies: 2.0
 - name: Fire Magic
   weight: 0.0714
   avg_copies: 2.0
@@ -192,34 +189,37 @@ top_cards:
 - name: Arena of Glory
   weight: 0.0714
   avg_copies: 2.0
-- name: Jace, the Mind Sculptor
+- name: Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
   weight: 0.0714
-  avg_copies: 1.0
-- name: Dress Down
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Wan Shi Tong, Librarian
-  weight: 0.0714
-  avg_copies: 1.0
-- name: The Wandering Emperor
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Get Lost
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Wear // Tear
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
+  avg_copies: 2.0
+- name: Temporary Lockdown
   weight: 0.0714
   avg_copies: 1.0
 - name: Celestial Colonnade
   weight: 0.0714
   avg_copies: 1.0
-- name: Temporary Lockdown
+- name: Jace, the Mind Sculptor
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Get Lost
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Dress Down
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Wear // Tear
   weight: 0.0714
   avg_copies: 1.0
 - name: Breeding Pool
+  weight: 0.0714
+  avg_copies: 1.0
+- name: The Wandering Emperor
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Wan Shi Tong, Librarian
   weight: 0.0714
   avg_copies: 1.0
 ---

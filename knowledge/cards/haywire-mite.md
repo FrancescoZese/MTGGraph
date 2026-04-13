@@ -14,10 +14,10 @@ archetypes:
   hardened-scales:
     weight: 1.0
     avg_copies: 1.0
-  affinity-aggro:
-    weight: 0.0444
-    avg_copies: 1.0
-  legends-combo:
+  affinity:
+    weight: 0.1373
+    avg_copies: 1.3
+  kethis-combo:
     weight: 1.0
     avg_copies: 1.0
   yawgmoth-combo:
@@ -26,9 +26,6 @@ archetypes:
   eldrazi-ramp:
     weight: 0.6
     avg_copies: 1.0
-  affinity:
-    weight: 0.8333
-    avg_copies: 1.38
   jund-saga:
     weight: 1.0
     avg_copies: 1.0

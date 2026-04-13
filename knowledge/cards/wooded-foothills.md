@@ -23,27 +23,21 @@ archetypes:
   burn:
     weight: 1.0
     avg_copies: 2.0
-  vengevine:
-    weight: 1.0
-    avg_copies: 1.0
+  hollow-one:
+    weight: 0.8333
+    avg_copies: 2.2
   yawgmoth-combo:
     weight: 0.4286
     avg_copies: 1.0
   eldrazi-ramp:
     weight: 0.8
     avg_copies: 1.0
-  temur-cascade:
+  simic-ritual:
     weight: 0.1667
     avg_copies: 4.0
   izzet-prowess:
     weight: 1.0
-    avg_copies: 2.75
-  hollow-one:
-    weight: 0.8
-    avg_copies: 2.5
-  temur-prowess:
-    weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 2.85
   indomitable-creativity:
     weight: 1.0
     avg_copies: 2.0

@@ -12,7 +12,7 @@ archetypes:
   azorius-control:
     weight: 0.0714
     avg_copies: 2.0
-  boros-taxes:
+  boros-ponza:
     weight: 0.6667
     avg_copies: 3.0
   indomitable-creativity:

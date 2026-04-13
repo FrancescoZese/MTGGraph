@@ -14,19 +14,16 @@ archetypes:
   jeskai-energy:
     weight: 0.0536
     avg_copies: 1.0
-  affinity-aggro:
-    weight: 0.0444
-    avg_copies: 2.0
+  affinity:
+    weight: 0.0588
+    avg_copies: 1.67
   mill:
     weight: 0.6667
     avg_copies: 3.0
   neoform-combo:
     weight: 0.8889
     avg_copies: 1.0
-  temur-cascade:
+  simic-ritual:
     weight: 1.0
     avg_copies: 2.0
-  affinity:
-    weight: 0.1667
-    avg_copies: 1.0
 ---

@@ -1,5 +1,5 @@
 ---
-archetype: landless-belcher
+archetype: mono-blue-belcher
 date: '2026-04-06'
 finish: 4th
 pilot: jonahc18043

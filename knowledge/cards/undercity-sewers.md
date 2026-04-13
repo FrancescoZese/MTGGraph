@@ -26,22 +26,22 @@ archetypes:
   mill:
     weight: 1.0
     avg_copies: 1.0
-  reanimator:
+  grixis-reanimator:
     weight: 1.0
     avg_copies: 1.69
-  temur-cascade:
+  simic-ritual:
     weight: 0.1667
     avg_copies: 1.0
   esper-blink:
     weight: 1.0
     avg_copies: 1.0
-  sultai-frog:
+  sultai-reanimator:
     weight: 1.0
     avg_copies: 1.0
   esper-control:
     weight: 1.0
     avg_copies: 1.0
-  four-color-shadow:
+  grixis-shadow:
     weight: 1.0
     avg_copies: 1.0
 ---

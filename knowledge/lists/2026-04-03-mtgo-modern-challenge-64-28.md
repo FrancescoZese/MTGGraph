@@ -1,5 +1,5 @@
 ---
-archetype: affinity-aggro
+archetype: affinity
 date: '2026-04-03'
 finish: 30th
 pilot: sioutis_kk

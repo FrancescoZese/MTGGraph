@@ -11,7 +11,7 @@ archetypes:
   eldrazi-tron:
     weight: 0.95
     avg_copies: 1.11
-  lantern-control:
+  rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 1.0
 ---

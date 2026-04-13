@@ -9,7 +9,7 @@ set: tmt
 type: Artifact Creature — Robot
 meta_presence: 0.0229
 archetypes:
-  affinity-aggro:
-    weight: 0.2444
+  affinity:
+    weight: 0.2157
     avg_copies: 1.57
 ---

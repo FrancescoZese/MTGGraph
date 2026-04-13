@@ -29,7 +29,7 @@ archetypes:
   hammer-time:
     weight: 1.0
     avg_copies: 2.5
-  boros-taxes:
+  boros-ponza:
     weight: 1.0
     avg_copies: 4.0
   birthing-ritual:

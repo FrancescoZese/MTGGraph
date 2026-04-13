@@ -9,7 +9,7 @@ set: dft
 type: Sorcery
 meta_presence: 0.0417
 archetypes:
-  landless-belcher:
+  mono-blue-belcher:
     weight: 0.1538
     avg_copies: 1.0
   jeskai-energy:

@@ -3,32 +3,32 @@ colors:
 - U
 - B
 - R
-name: Reanimator
+name: Grixis Reanimator
 meta_share: 0.0271
 list_count: 13
 top_cards:
-- name: Persist
-  weight: 1.0
-  avg_copies: 4.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
-  weight: 1.0
-  avg_copies: 4.0
-- name: Abhorrent Oculus
-  weight: 1.0
-  avg_copies: 4.0
-- name: Bloodstained Mire
+- name: Persist
   weight: 1.0
   avg_copies: 4.0
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
+- name: Archon of Cruelty
+  weight: 1.0
+  avg_copies: 4.0
+- name: Abhorrent Oculus
+  weight: 1.0
+  avg_copies: 4.0
+- name: Psychic Frog
+  weight: 1.0
+  avg_copies: 4.0
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
-- name: Archon of Cruelty
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
 - name: Faithless Looting
@@ -64,13 +64,13 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 1.38
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
 - name: Blood Crypt
+  weight: 1.0
+  avg_copies: 1.0
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Island

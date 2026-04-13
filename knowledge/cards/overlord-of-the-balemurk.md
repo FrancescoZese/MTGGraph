@@ -15,12 +15,12 @@ archetypes:
   mardu-blink:
     weight: 1.0
     avg_copies: 4.0
+  hollow-one:
+    weight: 0.1667
+    avg_copies: 1.0
   esper-blink:
     weight: 1.0
     avg_copies: 4.0
-  hollow-one:
-    weight: 0.2
-    avg_copies: 1.0
   orzhov-blink:
     weight: 1.0
     avg_copies: 4.0

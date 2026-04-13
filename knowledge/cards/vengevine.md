@@ -9,7 +9,7 @@ set: 2xm
 type: Creature — Elemental
 meta_presence: 0.0021
 archetypes:
-  vengevine:
-    weight: 1.0
+  hollow-one:
+    weight: 0.1667
     avg_copies: 4.0
 ---

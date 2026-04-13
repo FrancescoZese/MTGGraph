@@ -9,7 +9,7 @@ set: eoc
 type: Instant
 meta_presence: 0.0333
 archetypes:
-  affinity-aggro:
-    weight: 0.3556
+  affinity:
+    weight: 0.3137
     avg_copies: 1.38
 ---

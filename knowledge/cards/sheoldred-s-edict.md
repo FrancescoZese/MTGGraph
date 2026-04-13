@@ -22,7 +22,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.5
   hollow-one:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 2.0
   orzhov-blink:
     weight: 0.5

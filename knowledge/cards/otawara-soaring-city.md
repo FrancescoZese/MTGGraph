@@ -23,8 +23,8 @@ archetypes:
   living-end:
     weight: 0.7778
     avg_copies: 1.0
-  affinity-aggro:
-    weight: 0.0444
+  affinity:
+    weight: 0.0588
     avg_copies: 1.0
   mill:
     weight: 1.0
@@ -32,14 +32,11 @@ archetypes:
   mono-blue-tron:
     weight: 1.0
     avg_copies: 2.0
-  legends-combo:
+  kethis-combo:
     weight: 1.0
     avg_copies: 1.0
-  temur-cascade:
+  simic-ritual:
     weight: 0.8333
-    avg_copies: 1.0
-  affinity:
-    weight: 0.1667
     avg_copies: 1.0
   esper-control:
     weight: 1.0

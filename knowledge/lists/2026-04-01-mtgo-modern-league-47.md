@@ -1,5 +1,5 @@
 ---
-archetype: vengevine
+archetype: hollow-one
 date: '2026-04-01'
 finish: 5-0
 pilot: eduardojmp

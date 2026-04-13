@@ -5,10 +5,10 @@ name: Eldrazi Tron
 meta_share: 0.0417
 list_count: 20
 top_cards:
-- name: Kozilek's Command
+- name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
-- name: Ugin's Labyrinth
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
@@ -20,13 +20,13 @@ top_cards:
 - name: Expedition Map
   weight: 1.0
   avg_copies: 3.9
-- name: Karn, the Great Creator
+- name: Urza's Tower
   weight: 1.0
   avg_copies: 3.85
 - name: Urza's Mine
   weight: 1.0
   avg_copies: 3.85
-- name: Urza's Tower
+- name: Karn, the Great Creator
   weight: 1.0
   avg_copies: 3.85
 - name: Urza's Power Plant
@@ -47,16 +47,16 @@ top_cards:
 - name: Trinisphere
   weight: 1.0
   avg_copies: 1.23
-- name: Cityscape Leveler
-  weight: 1.0
-  avg_copies: 1.0
-- name: Ensnaring Bridge
+- name: Tormod's Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Liquimetal Coating
   weight: 1.0
   avg_copies: 1.0
-- name: Tormod's Crypt
+- name: Cityscape Leveler
+  weight: 1.0
+  avg_copies: 1.0
+- name: Ensnaring Bridge
   weight: 1.0
   avg_copies: 1.0
 - name: Mind Stone
@@ -86,10 +86,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.7
   avg_copies: 1.04
-- name: Ulamog, the Ceaseless Hunger
+- name: The Filigree Sylex
   weight: 0.7
   avg_copies: 1.0
-- name: The Filigree Sylex
+- name: Ulamog, the Ceaseless Hunger
   weight: 0.7
   avg_copies: 1.0
 - name: Skysovereign, Consul Flagship
@@ -122,19 +122,19 @@ top_cards:
 - name: Cavern of Souls
   weight: 0.2
   avg_copies: 1.0
-- name: Pithing Needle
-  weight: 0.1
-  avg_copies: 1.0
-- name: The Dominion Bracelet
+- name: Phyrexian Metamorph
   weight: 0.1
   avg_copies: 1.0
 - name: Oblivion Stone
   weight: 0.1
   avg_copies: 1.0
+- name: Pithing Needle
+  weight: 0.1
+  avg_copies: 1.0
 - name: Abstergo Entertainment
   weight: 0.1
   avg_copies: 1.0
-- name: Phyrexian Metamorph
+- name: The Dominion Bracelet
   weight: 0.1
   avg_copies: 1.0
 - name: Talisman of Resilience
@@ -146,16 +146,13 @@ top_cards:
 - name: Warping Wail
   weight: 0.05
   avg_copies: 2.0
-- name: Kozilek, Butcher of Truth
-  weight: 0.05
-  avg_copies: 1.0
-- name: Weathered Runestone
+- name: Cursed Totem
   weight: 0.05
   avg_copies: 1.0
 - name: Talisman of Curiosity
   weight: 0.05
   avg_copies: 1.0
-- name: Cursed Totem
+- name: Krang, Utrom Warlord
   weight: 0.05
   avg_copies: 1.0
 - name: Ratchet Bomb
@@ -164,10 +161,13 @@ top_cards:
 - name: Forest
   weight: 0.05
   avg_copies: 1.0
-- name: Krang, Utrom Warlord
+- name: Weathered Runestone
   weight: 0.05
   avg_copies: 1.0
 - name: Haywire Mite
+  weight: 0.05
+  avg_copies: 1.0
+- name: Kozilek, Butcher of Truth
   weight: 0.05
   avg_copies: 1.0
 ---

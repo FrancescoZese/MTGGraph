@@ -10,10 +10,10 @@ set: lci
 type: Sorcery
 meta_presence: 0.0208
 archetypes:
-  reanimator:
+  grixis-reanimator:
     weight: 0.6923
     avg_copies: 1.0
-  lantern-control:
+  rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 1.0
 ---

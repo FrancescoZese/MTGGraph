@@ -7,28 +7,28 @@ name: Esper Blink
 meta_share: 0.0083
 list_count: 4
 top_cards:
-- name: Solitude
-  weight: 1.0
-  avg_copies: 4.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
 - name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 4.0
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
 - name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Fatal Push
   weight: 1.0
   avg_copies: 3.75
-- name: Quantum Riddler
+- name: Witch Enchanter // Witch-Blessed Meadow
   weight: 1.0
   avg_copies: 3.25
-- name: Witch Enchanter // Witch-Blessed Meadow
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 3.25
 - name: Thoughtseize
@@ -37,10 +37,10 @@ top_cards:
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 3.0
-- name: Wrath of the Skies
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 2.75
-- name: Consign to Memory
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.75
 - name: Emperor of Bones
@@ -70,25 +70,25 @@ top_cards:
 - name: Prismatic Ending
   weight: 1.0
   avg_copies: 1.43
-- name: Undercity Sewers
-  weight: 1.0
-  avg_copies: 1.0
-- name: Shadowy Backstreet
-  weight: 1.0
-  avg_copies: 1.0
-- name: Boggart Trawler // Boggart Bog
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Boggart Trawler // Boggart Bog
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Watery Grave
+  weight: 1.0
+  avg_copies: 1.0
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
 - name: Orcish Bowmasters
@@ -103,10 +103,10 @@ top_cards:
 - name: White Orchid Phantom
   weight: 0.25
   avg_copies: 2.0
-- name: Island
+- name: Surgical Extraction
   weight: 0.25
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Island
   weight: 0.25
   avg_copies: 1.0
 ---

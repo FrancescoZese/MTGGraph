@@ -23,13 +23,13 @@ archetypes:
   azorius-control:
     weight: 0.9286
     avg_copies: 2.46
-  affinity-aggro:
-    weight: 0.1111
-    avg_copies: 2.8
+  affinity:
+    weight: 0.1961
+    avg_copies: 3.4
   mill:
     weight: 1.0
     avg_copies: 1.0
-  reanimator:
+  grixis-reanimator:
     weight: 1.0
     avg_copies: 1.0
   neoform-combo:
@@ -38,31 +38,22 @@ archetypes:
   burn:
     weight: 1.0
     avg_copies: 1.0
-  vengevine:
-    weight: 1.0
-    avg_copies: 2.0
-  temur-cascade:
+  hollow-one:
+    weight: 0.3333
+    avg_copies: 1.5
+  simic-ritual:
     weight: 0.0833
     avg_copies: 1.0
   izzet-prowess:
     weight: 1.0
-    avg_copies: 2.67
-  hollow-one:
-    weight: 0.2
-    avg_copies: 1.0
-  temur-prowess:
-    weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 2.77
   indomitable-creativity:
     weight: 1.0
     avg_copies: 3.0
-  affinity:
-    weight: 0.8333
-    avg_copies: 4.0
   izzet-eldrazi:
     weight: 1.0
     avg_copies: 4.0
-  four-color-shadow:
+  grixis-shadow:
     weight: 1.0
     avg_copies: 3.0
   sultai-artifacts:

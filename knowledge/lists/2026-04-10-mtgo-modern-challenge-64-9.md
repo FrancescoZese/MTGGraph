@@ -1,5 +1,5 @@
 ---
-archetype: affinity-aggro
+archetype: affinity
 date: '2026-04-10'
 finish: 9th
 pilot: MatheusPonciano

@@ -12,10 +12,10 @@ archetypes:
   amulet-titan:
     weight: 0.55
     avg_copies: 1.0
-  temur-cascade:
+  simic-ritual:
     weight: 0.6667
     avg_copies: 1.75
-  sultai-frog:
+  sultai-reanimator:
     weight: 1.0
     avg_copies: 1.0
 ---

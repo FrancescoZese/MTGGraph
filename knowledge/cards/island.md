@@ -14,7 +14,7 @@ archetypes:
   dimir-frog:
     weight: 1.0
     avg_copies: 2.11
-  landless-belcher:
+  mono-blue-belcher:
     weight: 0.4615
     avg_copies: 1.0
   jeskai-energy:
@@ -29,13 +29,13 @@ archetypes:
   living-end:
     weight: 1.0
     avg_copies: 1.0
-  affinity-aggro:
-    weight: 0.9556
-    avg_copies: 1.12
+  affinity:
+    weight: 0.9412
+    avg_copies: 1.1
   mill:
     weight: 0.6667
     avg_copies: 2.5
-  reanimator:
+  grixis-reanimator:
     weight: 1.0
     avg_copies: 1.0
   neoform-combo:
@@ -44,11 +44,11 @@ archetypes:
   mono-blue-tron:
     weight: 1.0
     avg_copies: 3.0
-  legends-combo:
+  kethis-combo:
     weight: 1.0
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0833
+    weight: 0.0769
     avg_copies: 1.0
   birthing-ritual:
     weight: 1.0
@@ -56,11 +56,8 @@ archetypes:
   esper-blink:
     weight: 0.25
     avg_copies: 1.0
-  sultai-frog:
+  sultai-reanimator:
     weight: 1.0
-    avg_copies: 1.0
-  affinity:
-    weight: 0.8333
     avg_copies: 1.0
   esper-control:
     weight: 1.0

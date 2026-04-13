@@ -17,10 +17,10 @@ archetypes:
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 2.29
-  temur-cascade:
+  simic-ritual:
     weight: 0.0833
     avg_copies: 1.0
-  sultai-frog:
+  sultai-reanimator:
     weight: 1.0
     avg_copies: 1.0
   jund-saga:

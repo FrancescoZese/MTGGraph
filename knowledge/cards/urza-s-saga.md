@@ -14,25 +14,22 @@ archetypes:
   hardened-scales:
     weight: 1.0
     avg_copies: 4.0
-  affinity-aggro:
+  affinity:
     weight: 1.0
-    avg_copies: 3.93
+    avg_copies: 3.88
   hammer-time:
     weight: 1.0
     avg_copies: 4.0
-  legends-combo:
+  kethis-combo:
     weight: 1.0
     avg_copies: 3.0
   eldrazi-ramp:
     weight: 0.6
     avg_copies: 4.0
-  affinity:
-    weight: 1.0
-    avg_copies: 3.5
   jund-saga:
     weight: 1.0
     avg_copies: 4.0
-  lantern-control:
+  rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 4.0
   sultai-artifacts:

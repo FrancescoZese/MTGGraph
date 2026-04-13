@@ -8,7 +8,7 @@ set: 5dn
 type: Artifact
 meta_presence: 0.0042
 archetypes:
-  legends-combo:
+  kethis-combo:
     weight: 1.0
     avg_copies: 3.0
   sultai-artifacts:

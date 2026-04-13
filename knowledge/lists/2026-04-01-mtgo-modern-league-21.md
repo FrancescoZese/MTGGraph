@@ -1,5 +1,5 @@
 ---
-archetype: reanimator
+archetype: grixis-reanimator
 date: '2026-04-01'
 finish: 5-0
 pilot: Tarmofaeries

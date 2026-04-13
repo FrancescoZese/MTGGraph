@@ -8,7 +8,7 @@ set: dft
 type: Land
 meta_presence: 0.0042
 archetypes:
-  boros-taxes:
+  boros-ponza:
     weight: 0.6667
     avg_copies: 3.0
 ---
