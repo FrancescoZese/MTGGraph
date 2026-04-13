@@ -666,21 +666,52 @@ body {
     display: none;
 }
 
+/* ---- Compact stats (mobile only) ---- */
+
+#mobile-stats {
+    display: none;
+}
+
+/* ---- Mobile filter chips ---- */
+
+.mobile-filter-chips {
+    display: none;
+}
+
 /* ---- Mobile ---- */
 
 @media (max-width: 600px) {
     #masthead {
         padding: 0 12px;
-        height: 56px;
+        height: 48px;
     }
 
     .masthead-left h1 { font-size: 16px; }
 
     .masthead-right {
-        gap: 12px;
+        gap: 10px;
     }
 
     .stat-block { display: none; }
+    .masthead-divider { display: none; }
+
+    /* Compact stats strip */
+    #mobile-stats {
+        display: flex;
+        position: fixed;
+        top: 48px;
+        left: 0; right: 0;
+        z-index: 10;
+        padding: 4px 12px;
+        gap: 12px;
+        font-family: var(--font-mono);
+        font-size: 10px;
+        color: var(--ink-faint);
+        background: linear-gradient(to bottom, var(--bg) 60%, transparent);
+        pointer-events: none;
+    }
+
+    #mobile-stats span { white-space: nowrap; }
 
     /* Toggle button */
     #meta-toggle {
@@ -709,7 +740,7 @@ body {
 
     #meta-toggle:active { background: var(--bg-warm); }
 
-    /* Bottom sheet */
+    /* Meta sidebar bottom sheet */
     #meta-sidebar {
         position: fixed;
         top: auto;
@@ -738,16 +769,68 @@ body {
         height: 4px;
         background: var(--border);
         border-radius: 2px;
-        margin: 4px auto 12px;
+        margin: 4px auto 8px;
     }
 
+    /* Hide drag threshold on mobile — use chips instead */
+    .meta-threshold-line { display: none; }
+
+    /* Filter chips in sidebar header */
+    .mobile-filter-chips {
+        display: flex;
+        gap: 6px;
+        padding: 0 0 10px;
+        flex-wrap: wrap;
+    }
+
+    .filter-chip {
+        font-family: var(--font-mono);
+        font-size: 10px;
+        font-weight: 500;
+        padding: 5px 10px;
+        border-radius: 14px;
+        border: 1px solid var(--border);
+        background: transparent;
+        color: var(--ink-light);
+        cursor: pointer;
+        -webkit-tap-highlight-color: transparent;
+        transition: background .15s, color .15s, border-color .15s;
+    }
+
+    .filter-chip.active {
+        background: var(--accent);
+        color: var(--panel-bg);
+        border-color: var(--accent);
+    }
+
+    /* Detail panel as bottom half-sheet */
     #detail-panel {
-        width: 100vw;
+        top: auto;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        width: 100%;
+        height: 50dvh;
+        border-left: none;
+        border-top: 1px solid var(--border);
+        border-radius: 16px 16px 0 0;
+        box-shadow: 0 -8px 32px rgba(42,37,32,.1);
+        padding: 12px 20px 24px;
+        transform: translateY(100%);
         touch-action: pan-y;
         -webkit-overflow-scrolling: touch;
     }
 
-    #tooltip { visibility: hidden !important; opacity: 0 !important; }
+    #detail-panel #close-panel {
+        top: 8px;
+        right: 12px;
+    }
+
+    #detail-content .panel-name { font-size: 20px; }
+    #detail-content .panel-meta { font-size: 22px; }
+    #detail-content .panel-card-image { max-width: 180px; }
+
+    /* Tooltip stays for tap-preview on mobile (just hidden by default via autoAlpha) */
 }
 
 /* ---- Scrollbar ---- */
