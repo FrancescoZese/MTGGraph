@@ -10,6 +10,7 @@ let currentZoom = null; // d3 zoom behavior
 let currentSvg = null; // d3 svg selection
 let cardImageMap = {}; // card name -> image URL
 let currentCardSel, currentArchSel, currentLinkSel, currentValidEdges, currentNodeMap;
+let isHighlighted = false;
 let metaThreshold = 0.01; // 1% default — derived from thresholdIndex
 let thresholdIndex = -1; // -1 = not yet initialized, set on first sidebar build
 let sidebarArchs = []; // cached sorted archetype list for index<->threshold mapping
@@ -559,6 +560,7 @@ function renderGraph(data, skipAnimation) {
             .on("mouseout", hideTooltip)
             .on("click", (event, d) => {
                 event.stopPropagation();
+                if (isHighlighted) { resetHighlight(); return; }
                 showCardDetail(d, validEdges, nodeMap);
                 highlight(d, validEdges, cardSel, archSel, link);
                 if (isMobile()) centerOnConnected(d, validEdges);
@@ -575,6 +577,7 @@ function renderGraph(data, skipAnimation) {
             .on("mouseout", hideTooltip)
             .on("click", (event, d) => {
                 event.stopPropagation();
+                if (isHighlighted) { resetHighlight(); return; }
                 showArchetypeDetail(d, validEdges, nodeMap);
                 highlight(d, validEdges, cardSel, archSel, link);
                 if (isMobile()) centerOnConnected(d, validEdges);
@@ -703,10 +706,7 @@ function renderGraph(data, skipAnimation) {
     }
 
     // ── Click background to reset ──
-    svg.on("click", () => {
-        closePanel();
-        unhighlight(cardSel, archSel, link);
-    });
+    svg.on("click", () => { resetHighlight(); });
 
     // ── Tick ──
     simulation.on("tick", () => {
@@ -754,6 +754,7 @@ function highlight(d, edges, cardSel, archSel, linkSel) {
     if (dimCards.length) gsap.to(dimCards, { attr: { opacity: 0.06 }, duration: dur, overwrite: true });
     if (dimArchs.length) gsap.to(dimArchs, { attr: { opacity: 0.1 }, duration: dur, overwrite: true });
     if (dimLinks.length) gsap.to(dimLinks, { attr: { "stroke-opacity": 0.01 }, duration: dur, overwrite: true });
+    isHighlighted = true;
 }
 
 function unhighlight(cardSel, archSel, linkSel) {
@@ -765,6 +766,12 @@ function unhighlight(cardSel, archSel, linkSel) {
             gsap.to(this, { attr: { "stroke-opacity": 0.05 + d.weight * 0.1 }, duration: dur, overwrite: true });
         });
     }
+}
+
+function resetHighlight() {
+    closePanel();
+    unhighlight(currentCardSel, currentArchSel, currentLinkSel);
+    isHighlighted = false;
 }
 
 function highlightDuration() {
