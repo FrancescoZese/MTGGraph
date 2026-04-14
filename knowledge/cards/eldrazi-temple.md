@@ -6,11 +6,11 @@ name: Eldrazi Temple
 scryfall_id: cbab7e1f-305e-4733-aa70-b27285740925
 set: cmm
 type: Land
-meta_presence: 0.0671
+meta_presence: 0.0728
 archetypes:
   eldrazi-tron:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.93
   mono-blue-tron:
     weight: 1.0
     avg_copies: 1.0
@@ -18,6 +18,12 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   izzet-eldrazi:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-4:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-5:
     weight: 1.0
     avg_copies: 4.0
 ---

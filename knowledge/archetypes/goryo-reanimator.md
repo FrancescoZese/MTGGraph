@@ -5,7 +5,7 @@ colors:
 - B
 - G
 name: Goryo Reanimator
-meta_share: 0.0379
+meta_share: 0.0314
 list_count: 22
 top_cards:
 - name: Goryo's Vengeance
@@ -17,10 +17,10 @@ top_cards:
 - name: Solitude
   weight: 1.0
   avg_copies: 3.86
-- name: Psychic Frog
+- name: Atraxa, Grand Unifier
   weight: 1.0
   avg_copies: 3.82
-- name: Atraxa, Grand Unifier
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 3.82
 - name: Polluted Delta
@@ -56,10 +56,13 @@ top_cards:
 - name: Griselbrand
   weight: 1.0
   avg_copies: 1.05
-- name: Swamp
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
-- name: Plains
+- name: Undercity Sewers
+  weight: 1.0
+  avg_copies: 1.0
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Island
@@ -68,19 +71,16 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
-- name: Watery Grave
-  weight: 1.0
-  avg_copies: 1.0
-- name: Undercity Sewers
-  weight: 1.0
-  avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Shadowy Backstreet
+  weight: 1.0
+  avg_copies: 1.0
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
 - name: Quantum Riddler
@@ -125,49 +125,49 @@ top_cards:
 - name: Damping Sphere
   weight: 0.1364
   avg_copies: 1.67
-- name: Deafening Silence
+- name: Fallaji Archaeologist
   weight: 0.0909
   avg_copies: 2.0
-- name: Fallaji Archaeologist
+- name: Deafening Silence
   weight: 0.0909
   avg_copies: 2.0
 - name: Nihil Spellbomb
   weight: 0.0909
   avg_copies: 1.5
-- name: Ketramose, the New Dawn
+- name: Spell Snare
   weight: 0.0909
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
   weight: 0.0909
   avg_copies: 1.0
-- name: Spell Snare
+- name: Ketramose, the New Dawn
   weight: 0.0909
   avg_copies: 1.0
 - name: No More Lies
   weight: 0.0455
   avg_copies: 2.0
-- name: Arcbound Ravager
-  weight: 0.0455
-  avg_copies: 1.0
 - name: Subtlety
   weight: 0.0455
   avg_copies: 1.0
 - name: Unburial Rites
   weight: 0.0455
   avg_copies: 1.0
-- name: Toxic Deluge
+- name: Arcbound Ravager
   weight: 0.0455
   avg_copies: 1.0
 - name: Overgrown Tomb
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Winternight Stories
   weight: 0.0455
   avg_copies: 1.0
 - name: Damn
   weight: 0.0455
   avg_copies: 1.0
 - name: Cephalid Coliseum
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Winternight Stories
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Toxic Deluge
   weight: 0.0455
   avg_copies: 1.0
 ---

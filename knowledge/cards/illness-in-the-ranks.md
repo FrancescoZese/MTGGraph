@@ -10,12 +10,15 @@ type: Enchantment
 meta_presence: 0.0086
 archetypes:
   necrodominance:
-    weight: 0.0769
+    weight: 0.0714
     avg_copies: 1.0
   hollow-one:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
   dredge:
     weight: 0.3333
     avg_copies: 1.0
+  unknown-9:
+    weight: 1.0
+    avg_copies: 4.0
 ---

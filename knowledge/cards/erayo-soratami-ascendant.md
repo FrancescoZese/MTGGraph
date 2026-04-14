@@ -7,12 +7,15 @@ name: Erayo, Soratami Ascendant // Erayo's Essence
 scryfall_id: 0b61d772-2d8b-4acf-9dd2-b2e8b03538c8
 set: sok
 type: Legendary Creature — Moonfolk Monk // Legendary Enchantment
-meta_presence: 0.0034
+meta_presence: 0.0086
 archetypes:
   affinity:
-    weight: 0.0161
+    weight: 0.0137
     avg_copies: 4.0
   sultai-artifacts:
-    weight: 0.25
+    weight: 0.1667
+    avg_copies: 4.0
+  unknown-6:
+    weight: 1.0
     avg_copies: 4.0
 ---

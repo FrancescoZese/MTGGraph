@@ -6,9 +6,12 @@ name: Ratchet Bomb
 scryfall_id: d5bd85da-9aba-46ea-9c10-617bec99a2f5
 set: 2xm
 type: Artifact
-meta_presence: 0.0034
+meta_presence: 0.0043
 archetypes:
   eldrazi-tron:
-    weight: 0.08
+    weight: 0.0741
+    avg_copies: 1.0
+  unknown-5:
+    weight: 0.1667
     avg_copies: 1.0
 ---

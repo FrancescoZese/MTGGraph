@@ -6,9 +6,9 @@ name: Glasspool Mimic // Glasspool Shore
 scryfall_id: 5adcb500-8c77-4925-8e2c-1243502827d1
 set: znr
 type: Creature — Shapeshifter Rogue // Land
-meta_presence: 0.0017
+meta_presence: 0.0014
 archetypes:
   domain-zoo:
-    weight: 0.0417
+    weight: 0.0385
     avg_copies: 1.0
 ---

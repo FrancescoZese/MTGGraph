@@ -3,7 +3,7 @@ colors:
 - B
 - G
 name: Yawgmoth Combo
-meta_share: 0.0138
+meta_share: 0.0114
 list_count: 8
 top_cards:
 - name: Verdant Catacombs
@@ -12,10 +12,10 @@ top_cards:
 - name: Malevolent Rumble
   weight: 1.0
   avg_copies: 3.38
-- name: Young Wolf
+- name: Chord of Calling
   weight: 1.0
   avg_copies: 2.75
-- name: Chord of Calling
+- name: Young Wolf
   weight: 1.0
   avg_copies: 2.75
 - name: Overgrown Tomb
@@ -63,10 +63,10 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.625
   avg_copies: 1.8
-- name: Gilded Goose
+- name: Cauldron Familiar
   weight: 0.5
   avg_copies: 4.0
-- name: Cauldron Familiar
+- name: Birthing Ritual
   weight: 0.5
   avg_copies: 4.0
 - name: Samwise Gamgee
@@ -75,31 +75,31 @@ top_cards:
 - name: Delighted Halfling
   weight: 0.5
   avg_copies: 4.0
+- name: Gilded Goose
+  weight: 0.5
+  avg_copies: 4.0
 - name: Agatha's Soul Cauldron
   weight: 0.5
   avg_copies: 4.0
-- name: Birthing Ritual
+- name: Green Sun's Zenith
   weight: 0.5
-  avg_copies: 4.0
+  avg_copies: 3.0
 - name: Spymaster's Vault
   weight: 0.5
   avg_copies: 3.0
 - name: Walking Ballista
   weight: 0.5
   avg_copies: 3.0
-- name: Green Sun's Zenith
-  weight: 0.5
-  avg_copies: 3.0
-- name: Dredger's Insight
-  weight: 0.5
-  avg_copies: 2.0
 - name: Carrion Feeder
   weight: 0.5
   avg_copies: 2.0
-- name: Thoughtseize
+- name: Viscera Seer
   weight: 0.5
   avg_copies: 2.0
-- name: Viscera Seer
+- name: Dredger's Insight
+  weight: 0.5
+  avg_copies: 2.0
+- name: Thoughtseize
   weight: 0.5
   avg_copies: 2.0
 - name: Fulminator Mage
@@ -111,49 +111,46 @@ top_cards:
 - name: Formidable Speaker
   weight: 0.5
   avg_copies: 1.25
-- name: Swamp
-  weight: 0.5
-  avg_copies: 1.0
-- name: Strangleroot Geist
-  weight: 0.5
-  avg_copies: 1.0
-- name: Crystal Barricade
-  weight: 0.5
-  avg_copies: 1.0
-- name: Haywire Mite
-  weight: 0.5
-  avg_copies: 1.0
-- name: Temple Garden
+- name: Virulent Emissary
   weight: 0.5
   avg_copies: 1.0
 - name: Gaddock Teeg
   weight: 0.5
   avg_copies: 1.0
-- name: Godless Shrine
+- name: Strangleroot Geist
   weight: 0.5
   avg_copies: 1.0
-- name: Sylvan Safekeeper
+- name: Haywire Mite
   weight: 0.5
   avg_copies: 1.0
-- name: Outland Liberator // Frenzied Trapbreaker
+- name: Crystal Barricade
   weight: 0.5
   avg_copies: 1.0
 - name: Lush Portico
   weight: 0.5
   avg_copies: 1.0
-- name: Virulent Emissary
+- name: Temple Garden
+  weight: 0.5
+  avg_copies: 1.0
+- name: Godless Shrine
+  weight: 0.5
+  avg_copies: 1.0
+- name: Outland Liberator // Frenzied Trapbreaker
+  weight: 0.5
+  avg_copies: 1.0
+- name: Sylvan Safekeeper
+  weight: 0.5
+  avg_copies: 1.0
+- name: Swamp
   weight: 0.5
   avg_copies: 1.0
 - name: Culling Ritual
   weight: 0.375
   avg_copies: 1.67
-- name: Nurturing Peatland
-  weight: 0.375
-  avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.375
   avg_copies: 1.0
-- name: Damping Sphere
+- name: Nurturing Peatland
   weight: 0.375
   avg_copies: 1.0
 - name: Wooded Foothills
@@ -162,13 +159,13 @@ top_cards:
 - name: Scavenging Ooze
   weight: 0.375
   avg_copies: 1.0
+- name: Damping Sphere
+  weight: 0.375
+  avg_copies: 1.0
 - name: Orcish Bowmasters
   weight: 0.25
   avg_copies: 2.5
 - name: Marionette Apprentice
-  weight: 0.25
-  avg_copies: 2.0
-- name: High Noon
   weight: 0.25
   avg_copies: 2.0
 - name: Wall of Roots
@@ -177,19 +174,16 @@ top_cards:
 - name: Abhorrent Oculus
   weight: 0.25
   avg_copies: 2.0
-- name: Dauthi Voidwalker
+- name: High Noon
   weight: 0.25
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Surgical Extraction
-  weight: 0.25
-  avg_copies: 1.0
-- name: Breeding Pool
   weight: 0.25
   avg_copies: 1.0
 - name: Lavinia, Azorius Renegade
   weight: 0.25
   avg_copies: 1.0
-- name: Voice of Victory
+- name: Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
   weight: 0.25
   avg_copies: 1.0
 - name: Ignoble Hierarch
@@ -198,13 +192,19 @@ top_cards:
 - name: Ruthless Lawbringer
   weight: 0.25
   avg_copies: 1.0
-- name: Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
+- name: Breeding Pool
   weight: 0.25
   avg_copies: 1.0
-- name: Scout for Survivors
+- name: Dauthi Voidwalker
+  weight: 0.25
+  avg_copies: 1.0
+- name: Voice of Victory
+  weight: 0.25
+  avg_copies: 1.0
+- name: Dewdrop Cure
   weight: 0.125
   avg_copies: 2.0
-- name: Dewdrop Cure
+- name: Scout for Survivors
   weight: 0.125
   avg_copies: 2.0
 - name: Pile On

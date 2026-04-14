@@ -6,9 +6,9 @@ name: Serum Powder
 scryfall_id: c8753b80-aa9e-4f82-9a02-6b3997169dbb
 set: ima
 type: Artifact
-meta_presence: 0.0017
+meta_presence: 0.0014
 archetypes:
   ruby-storm:
-    weight: 0.0833
+    weight: 0.05
     avg_copies: 2.0
 ---

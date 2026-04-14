@@ -6,7 +6,7 @@ name: Pyxis of Pandemonium
 scryfall_id: dbc6a246-f32a-4dc0-9785-4038804f372f
 set: ths
 type: Artifact
-meta_presence: 0.0017
+meta_presence: 0.0014
 archetypes:
   rakdos-lantern-combo:
     weight: 1.0

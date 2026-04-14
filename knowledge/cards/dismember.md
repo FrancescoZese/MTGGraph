@@ -7,23 +7,23 @@ name: Dismember
 scryfall_id: 3d286cf6-3e16-4941-9326-1818b1e06d69
 set: mm2
 type: Instant
-meta_presence: 0.1205
+meta_presence: 0.1184
 archetypes:
   dimir-control:
-    weight: 0.0526
+    weight: 0.0435
     avg_copies: 3.0
   eldrazi-tron:
-    weight: 0.96
-    avg_copies: 1.76
+    weight: 0.963
+    avg_copies: 1.78
   amulet-titan:
     weight: 1.0
-    avg_copies: 2.36
+    avg_copies: 2.32
   hardened-scales:
     weight: 1.0
-    avg_copies: 1.5
+    avg_copies: 1.67
   living-end:
-    weight: 0.4545
-    avg_copies: 2.2
+    weight: 0.5
+    avg_copies: 2.14
   kethis-combo:
     weight: 1.0
     avg_copies: 2.0
@@ -31,9 +31,15 @@ archetypes:
     weight: 0.5
     avg_copies: 1.57
   simic-ritual:
-    weight: 0.3571
+    weight: 0.2941
     avg_copies: 1.67
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
+  unknown-4:
+    weight: 0.75
+    avg_copies: 2.0
+  unknown-5:
+    weight: 0.1667
+    avg_copies: 2.0
 ---

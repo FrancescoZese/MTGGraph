@@ -7,13 +7,13 @@ name: Damnation
 scryfall_id: d3c0aac5-b9f1-4446-bfea-3e1dd1cf1f2f
 set: 2x2
 type: Sorcery
-meta_presence: 0.0189
+meta_presence: 0.0185
 archetypes:
   dimir-control:
-    weight: 0.4211
+    weight: 0.4348
     avg_copies: 1.0
   necrodominance:
-    weight: 0.0769
+    weight: 0.0714
     avg_copies: 1.0
   mill:
     weight: 0.5

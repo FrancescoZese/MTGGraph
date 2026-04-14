@@ -6,28 +6,28 @@ name: Vexing Bauble
 scryfall_id: 29f11089-658f-42e6-aeb0-09b512ad2479
 set: mh3
 type: Artifact
-meta_presence: 0.2444
+meta_presence: 0.2696
 archetypes:
   ruby-storm:
-    weight: 0.0833
-    avg_copies: 2.0
+    weight: 0.1
+    avg_copies: 1.5
   boros-energy:
-    weight: 0.1746
-    avg_copies: 1.64
+    weight: 0.1961
+    avg_copies: 1.67
   eldrazi-tron:
-    weight: 0.72
-    avg_copies: 1.14
+    weight: 0.7407
+    avg_copies: 1.12
   amulet-titan:
-    weight: 0.56
-    avg_copies: 1.11
+    weight: 0.5714
+    avg_copies: 1.13
   hardened-scales:
-    weight: 0.5
+    weight: 0.6667
     avg_copies: 1.0
   affinity:
-    weight: 0.6129
-    avg_copies: 1.28
+    weight: 0.6027
+    avg_copies: 1.27
   domain-zoo:
-    weight: 0.0417
+    weight: 0.0385
     avg_copies: 1.0
   grixis-reanimator:
     weight: 0.125
@@ -39,8 +39,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   hollow-one:
-    weight: 0.8333
-    avg_copies: 2.2
+    weight: 0.8889
+    avg_copies: 2.25
   boros-ponza:
     weight: 1.0
     avg_copies: 2.0
@@ -54,11 +54,11 @@ archetypes:
     weight: 0.9167
     avg_copies: 1.47
   izzet-prowess:
-    weight: 0.1111
+    weight: 0.087
     avg_copies: 3.5
   orzhov-blink:
-    weight: 0.6667
-    avg_copies: 1.5
+    weight: 0.75
+    avg_copies: 1.33
   dredge:
     weight: 0.6667
     avg_copies: 2.0
@@ -83,4 +83,22 @@ archetypes:
   grixis-shadow:
     weight: 1.0
     avg_copies: 1.0
+  unknown-4:
+    weight: 1.0
+    avg_copies: 1.38
+  unknown-1:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-5:
+    weight: 1.0
+    avg_copies: 1.5
+  unknown-6:
+    weight: 0.75
+    avg_copies: 1.0
+  unknown-8:
+    weight: 1.0
+    avg_copies: 1.5
+  unknown-11:
+    weight: 1.0
+    avg_copies: 2.0
 ---

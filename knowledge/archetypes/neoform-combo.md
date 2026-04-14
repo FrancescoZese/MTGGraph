@@ -5,152 +5,155 @@ colors:
 - R
 - G
 name: Neoform Combo
-meta_share: 0.0189
-list_count: 11
+meta_share: 0.0185
+list_count: 13
 top_cards:
-- name: Neoform
+- name: Planar Genesis
   weight: 1.0
   avg_copies: 4.0
 - name: Eldritch Evolution
   weight: 1.0
   avg_copies: 4.0
-- name: Planar Genesis
+- name: Neoform
   weight: 1.0
   avg_copies: 4.0
 - name: Allosaurus Rider
   weight: 1.0
-  avg_copies: 3.91
-- name: Misty Rainforest
-  weight: 1.0
-  avg_copies: 3.73
-- name: Consign to Memory
-  weight: 1.0
-  avg_copies: 3.45
-- name: Mystical Dispute
-  weight: 1.0
-  avg_copies: 3.45
+  avg_copies: 3.92
 - name: Summoner's Pact
   weight: 1.0
-  avg_copies: 3.45
+  avg_copies: 3.54
+- name: Misty Rainforest
+  weight: 1.0
+  avg_copies: 3.54
+- name: Mystical Dispute
+  weight: 1.0
+  avg_copies: 3.46
+- name: Consign to Memory
+  weight: 1.0
+  avg_copies: 3.46
 - name: Pact of Negation
   weight: 1.0
-  avg_copies: 3.18
+  avg_copies: 3.15
 - name: Nature's Claim
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 2.92
 - name: Hedge Maze
   weight: 1.0
-  avg_copies: 2.73
+  avg_copies: 2.77
 - name: Disciple of Freyalise // Garden of Freyalise
   weight: 1.0
-  avg_copies: 2.27
+  avg_copies: 2.23
 - name: Ghalta, Stampede Tyrant
   weight: 1.0
-  avg_copies: 2.18
+  avg_copies: 2.23
 - name: Generous Ent
   weight: 1.0
   avg_copies: 2.0
 - name: Nourishing Shoal
   weight: 1.0
-  avg_copies: 1.73
+  avg_copies: 1.69
 - name: Bridgeworks Battle // Tanglespan Bridgeworks
   weight: 1.0
-  avg_copies: 1.18
+  avg_copies: 1.15
 - name: Breeding Pool
   weight: 1.0
-  avg_copies: 1.09
+  avg_copies: 1.08
+- name: Boseiju, Who Endures
+  weight: 1.0
+  avg_copies: 1.0
 - name: Griselbrand
   weight: 1.0
   avg_copies: 1.0
 - name: Xenagos, God of Revels
   weight: 1.0
   avg_copies: 1.0
-- name: Boseiju, Who Endures
-  weight: 1.0
-  avg_copies: 1.0
 - name: Veil of Summer
-  weight: 0.9091
-  avg_copies: 2.64
+  weight: 0.9231
+  avg_copies: 2.69
 - name: Hooting Mandrills
-  weight: 0.9091
-  avg_copies: 1.1
-- name: Snow-Covered Island
-  weight: 0.9091
-  avg_copies: 1.0
-- name: Ureni, the Song Unending
-  weight: 0.9091
-  avg_copies: 1.0
-- name: Wooded Foothills
-  weight: 0.9091
+  weight: 0.9231
+  avg_copies: 1.08
+- name: Snow-Covered Forest
+  weight: 0.9231
   avg_copies: 1.0
 - name: Atraxa, Grand Unifier
-  weight: 0.9091
+  weight: 0.9231
+  avg_copies: 1.0
+- name: Snow-Covered Island
+  weight: 0.9231
   avg_copies: 1.0
 - name: Elesh Norn, Grand Cenobite
-  weight: 0.9091
+  weight: 0.9231
   avg_copies: 1.0
-- name: Snow-Covered Forest
-  weight: 0.9091
-  avg_copies: 1.0
-- name: Scalding Tarn
-  weight: 0.8182
-  avg_copies: 1.67
 - name: Into the Flood Maw
-  weight: 0.8182
+  weight: 0.8462
   avg_copies: 1.0
-- name: Endurance
-  weight: 0.7273
+- name: Wooded Foothills
+  weight: 0.8462
+  avg_copies: 1.0
+- name: Ureni, the Song Unending
+  weight: 0.7692
   avg_copies: 1.0
 - name: Ice-Fang Coatl
-  weight: 0.6364
-  avg_copies: 3.43
-- name: Polluted Delta
-  weight: 0.6364
-  avg_copies: 1.14
+  weight: 0.6923
+  avg_copies: 3.44
+- name: Scalding Tarn
+  weight: 0.6923
+  avg_copies: 1.67
 - name: Abhorrent Oculus
-  weight: 0.6364
+  weight: 0.6923
   avg_copies: 1.0
+- name: Endurance
+  weight: 0.6923
+  avg_copies: 1.0
+- name: Polluted Delta
+  weight: 0.6154
+  avg_copies: 1.12
 - name: Repudiate // Replicate
-  weight: 0.6364
+  weight: 0.6154
   avg_copies: 1.0
 - name: Flooded Strand
-  weight: 0.5455
+  weight: 0.5385
   avg_copies: 1.0
 - name: Verdant Catacombs
-  weight: 0.3636
-  avg_copies: 1.0
+  weight: 0.4615
+  avg_copies: 1.5
 - name: Wistfulness
-  weight: 0.1818
+  weight: 0.2308
   avg_copies: 2.0
 - name: Natural State
-  weight: 0.1818
-  avg_copies: 1.5
+  weight: 0.2308
+  avg_copies: 1.33
 - name: Hexing Squelcher
-  weight: 0.0909
+  weight: 0.0769
   avg_copies: 4.0
-- name: Brainsurge
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Spell Snare
-  weight: 0.0909
+- name: Thundering Falls
+  weight: 0.0769
   avg_copies: 1.0
 - name: Island
-  weight: 0.0909
+  weight: 0.0769
   avg_copies: 1.0
-- name: Forest
-  weight: 0.0909
+- name: Brainsurge
+  weight: 0.0769
   avg_copies: 1.0
-- name: Commercial District
-  weight: 0.0909
+- name: Borborygmos Enraged
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Spell Snare
+  weight: 0.0769
   avg_copies: 1.0
 - name: Windswept Heath
-  weight: 0.0909
+  weight: 0.0769
   avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.0909
+- name: Commercial District
+  weight: 0.0769
   avg_copies: 1.0
 - name: Preordain
-  weight: 0.0909
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Forest
+  weight: 0.0769
   avg_copies: 1.0
 ---
 Combo deck using Neoform and Eldritch Evolution to sacrifice Allosaurus Rider into a game-ending threat.

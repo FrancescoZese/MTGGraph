@@ -14,16 +14,16 @@ archetypes:
     avg_copies: 3.26
   dimir-frog:
     weight: 1.0
-    avg_copies: 3.1
+    avg_copies: 3.09
   jeskai-energy:
-    weight: 0.0164
+    weight: 0.0154
     avg_copies: 1.0
   goryo-reanimator:
     weight: 0.0455
     avg_copies: 1.0
   azorius-control:
-    weight: 0.5
-    avg_copies: 1.86
+    weight: 0.5625
+    avg_copies: 1.78
   living-end:
     weight: 1.0
     avg_copies: 4.0
@@ -32,17 +32,20 @@ archetypes:
     avg_copies: 3.0
   simic-ritual:
     weight: 1.0
-    avg_copies: 3.79
+    avg_copies: 3.82
   4c-omnath:
     weight: 1.0
     avg_copies: 4.0
   esper-blink:
-    weight: 0.1429
+    weight: 0.125
     avg_copies: 4.0
   grixis-control:
     weight: 1.0
     avg_copies: 2.0
   sultai-artifacts:
-    weight: 0.25
+    weight: 0.1667
     avg_copies: 1.0
+  unknown-12:
+    weight: 1.0
+    avg_copies: 2.0
 ---

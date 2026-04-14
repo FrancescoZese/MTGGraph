@@ -7,13 +7,16 @@ name: Dauthi Voidwalker
 scryfall_id: 3573b9a2-7911-475c-8ae7-25bd0dbb7159
 set: tdc
 type: Creature — Dauthi Rogue
-meta_presence: 0.0172
+meta_presence: 0.0157
 archetypes:
   necrodominance:
-    weight: 0.5385
-    avg_copies: 3.56
+    weight: 0.5
+    avg_copies: 3.6
   yawgmoth-combo:
     weight: 0.25
+    avg_copies: 1.0
+  samwise-combo:
+    weight: 0.3333
     avg_copies: 1.0
   grixis-shadow:
     weight: 1.0

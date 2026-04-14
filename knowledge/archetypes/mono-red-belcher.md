@@ -3,34 +3,25 @@ colors:
 - R
 - G
 name: Mono Red Belcher
-meta_share: 0.0034
+meta_share: 0.0029
 list_count: 2
 top_cards:
-- name: Pyretic Ritual
+- name: Spikefield Hazard // Spikefield Cave
   weight: 1.0
   avg_copies: 4.0
-- name: Manamorphose
-  weight: 1.0
-  avg_copies: 4.0
-- name: Pinnacle Monk // Mystic Peak
+- name: Shatterskull Smashing // Shatterskull, the Hammer Pass
   weight: 1.0
   avg_copies: 4.0
 - name: Irencrag Feat
   weight: 1.0
   avg_copies: 4.0
-- name: Desperate Ritual
-  weight: 1.0
-  avg_copies: 4.0
-- name: Strike It Rich
-  weight: 1.0
-  avg_copies: 4.0
-- name: Spikefield Hazard // Spikefield Cave
-  weight: 1.0
-  avg_copies: 4.0
-- name: Goblin Charbelcher
-  weight: 1.0
-  avg_copies: 4.0
 - name: Bitter Reunion
+  weight: 1.0
+  avg_copies: 4.0
+- name: Manamorphose
+  weight: 1.0
+  avg_copies: 4.0
+- name: Pyretic Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Ruby Medallion
@@ -42,7 +33,16 @@ top_cards:
 - name: Stormscale Scion
   weight: 1.0
   avg_copies: 4.0
-- name: Shatterskull Smashing // Shatterskull, the Hammer Pass
+- name: Pinnacle Monk // Mystic Peak
+  weight: 1.0
+  avg_copies: 4.0
+- name: Strike It Rich
+  weight: 1.0
+  avg_copies: 4.0
+- name: Desperate Ritual
+  weight: 1.0
+  avg_copies: 4.0
+- name: Goblin Charbelcher
   weight: 1.0
   avg_copies: 4.0
 - name: Valakut Awakening // Valakut Stoneforge
@@ -57,28 +57,28 @@ top_cards:
 - name: Leyline of Sanctity
   weight: 0.5
   avg_copies: 4.0
-- name: Defense Grid
-  weight: 0.5
-  avg_copies: 4.0
 - name: Relic of Progenitus
   weight: 0.5
   avg_copies: 4.0
-- name: March of Reckless Joy
+- name: Defense Grid
+  weight: 0.5
+  avg_copies: 4.0
+- name: Vexing Bauble
   weight: 0.5
   avg_copies: 2.0
 - name: Kraza, the Swarm as One
   weight: 0.5
   avg_copies: 2.0
+- name: March of Reckless Joy
+  weight: 0.5
+  avg_copies: 2.0
 - name: Wear // Tear
   weight: 0.5
   avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 0.5
-  avg_copies: 2.0
-- name: Trinisphere
+- name: Mountain
   weight: 0.5
   avg_copies: 1.0
-- name: Mountain
+- name: Trinisphere
   weight: 0.5
   avg_copies: 1.0
 ---

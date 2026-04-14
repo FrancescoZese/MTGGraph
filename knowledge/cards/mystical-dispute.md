@@ -7,17 +7,17 @@ name: Mystical Dispute
 scryfall_id: fbe04cb8-a8b9-4241-baae-b398a2509a3a
 set: eld
 type: Instant
-meta_presence: 0.4905
+meta_presence: 0.4608
 archetypes:
   dimir-control:
     weight: 1.0
-    avg_copies: 2.47
+    avg_copies: 2.35
   dimir-frog:
     weight: 1.0
-    avg_copies: 2.1
+    avg_copies: 2.09
   mono-blue-belcher:
-    weight: 0.9375
-    avg_copies: 2.0
+    weight: 0.9412
+    avg_copies: 2.06
   jeskai-energy:
     weight: 1.0
     avg_copies: 2.31
@@ -25,20 +25,20 @@ archetypes:
     weight: 1.0
     avg_copies: 2.68
   necrodominance:
-    weight: 0.0769
+    weight: 0.0714
     avg_copies: 3.0
   azorius-control:
     weight: 1.0
-    avg_copies: 3.07
+    avg_copies: 3.06
   living-end:
-    weight: 1.0
-    avg_copies: 3.27
+    weight: 0.9286
+    avg_copies: 3.23
   affinity:
-    weight: 0.7742
-    avg_copies: 1.38
+    weight: 0.8082
+    avg_copies: 1.41
   domain-zoo:
-    weight: 0.9583
-    avg_copies: 2.83
+    weight: 0.9615
+    avg_copies: 2.84
   mill:
     weight: 0.25
     avg_copies: 2.0
@@ -47,7 +47,7 @@ archetypes:
     avg_copies: 2.13
   neoform-combo:
     weight: 1.0
-    avg_copies: 3.45
+    avg_copies: 3.46
   mono-blue-tron:
     weight: 1.0
     avg_copies: 2.0
@@ -56,16 +56,16 @@ archetypes:
     avg_copies: 2.0
   simic-ritual:
     weight: 1.0
-    avg_copies: 2.93
+    avg_copies: 2.88
   izzet-prowess:
-    weight: 0.2222
-    avg_copies: 1.25
+    weight: 0.2174
+    avg_copies: 1.2
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
   esper-blink:
-    weight: 0.5714
-    avg_copies: 2.0
+    weight: 0.625
+    avg_copies: 2.2
   sultai-reanimator:
     weight: 1.0
     avg_copies: 2.0
@@ -75,6 +75,9 @@ archetypes:
   bant-control:
     weight: 1.0
     avg_copies: 3.0
+  azorius-blink:
+    weight: 0.3333
+    avg_copies: 1.0
   esper-control:
     weight: 1.0
     avg_copies: 3.0
@@ -84,4 +87,13 @@ archetypes:
   izzet-eldrazi:
     weight: 1.0
     avg_copies: 2.0
+  unknown-7:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-10:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-12:
+    weight: 1.0
+    avg_copies: 3.0
 ---

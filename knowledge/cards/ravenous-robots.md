@@ -7,9 +7,9 @@ name: Ravenous Robots
 scryfall_id: 3b303ea3-9f4d-4c28-9446-285a23f841a0
 set: tmt
 type: Artifact Creature — Robot
-meta_presence: 0.0207
+meta_presence: 0.0257
 archetypes:
   affinity:
-    weight: 0.1935
-    avg_copies: 1.6
+    weight: 0.2466
+    avg_copies: 1.55
 ---

@@ -6,9 +6,12 @@ name: Bleachbone Verge
 scryfall_id: 52dcdabd-a186-45fe-9fee-6c0f1afeaf16
 set: dft
 type: Land
-meta_presence: 0.0034
+meta_presence: 0.0057
 archetypes:
+  esper-blink:
+    weight: 0.125
+    avg_copies: 1.0
   orzhov-blink:
-    weight: 0.6667
-    avg_copies: 1.5
+    weight: 0.75
+    avg_copies: 1.67
 ---

@@ -7,9 +7,9 @@ name: Mana Leak
 scryfall_id: 179236d9-6fe2-4db6-bdfb-f851e8d531a2
 set: 2x2
 type: Instant
-meta_presence: 0.0017
+meta_presence: 0.0014
 archetypes:
   jeskai-energy:
-    weight: 0.0164
+    weight: 0.0154
     avg_copies: 2.0
 ---

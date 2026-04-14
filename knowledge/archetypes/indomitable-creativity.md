@@ -5,7 +5,7 @@ colors:
 - R
 - G
 name: Indomitable Creativity
-meta_share: 0.0103
+meta_share: 0.0086
 list_count: 6
 top_cards:
 - name: Indomitable Creativity
@@ -29,10 +29,10 @@ top_cards:
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 2.67
-- name: Wooded Foothills
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.33
-- name: Bloodstained Mire
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 2.33
 - name: Archon of Cruelty
@@ -44,25 +44,25 @@ top_cards:
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Mountain
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
 - name: Leyline Binding
   weight: 0.8333
   avg_copies: 4.0
-- name: Consign to Memory
-  weight: 0.8333
-  avg_copies: 3.8
 - name: Galvanic Discharge
   weight: 0.8333
   avg_copies: 3.8
-- name: Reprieve
+- name: Consign to Memory
+  weight: 0.8333
+  avg_copies: 3.8
+- name: Pawpatch Formation
   weight: 0.8333
   avg_copies: 2.6
-- name: Pawpatch Formation
+- name: Reprieve
   weight: 0.8333
   avg_copies: 2.6
 - name: Prismatic Ending
@@ -74,7 +74,7 @@ top_cards:
 - name: Spell Snare
   weight: 0.8333
   avg_copies: 1.8
-- name: Sacred Foundry
+- name: Xander's Lounge
   weight: 0.8333
   avg_copies: 1.0
 - name: Elegant Parlor
@@ -83,7 +83,7 @@ top_cards:
 - name: Raph & Mikey, Troublemakers
   weight: 0.8333
   avg_copies: 1.0
-- name: Xander's Lounge
+- name: Sacred Foundry
   weight: 0.8333
   avg_copies: 1.0
 - name: Jetmir's Garden
@@ -95,10 +95,10 @@ top_cards:
 - name: Lightning Bolt
   weight: 0.6667
   avg_copies: 1.25
-- name: Plains
+- name: Thundering Falls
   weight: 0.6667
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Plains
   weight: 0.6667
   avg_copies: 1.0
 - name: High Noon
@@ -125,16 +125,16 @@ top_cards:
 - name: Persist
   weight: 0.1667
   avg_copies: 4.0
-- name: Fatal Push
+- name: Leyline of the Void
   weight: 0.1667
   avg_copies: 4.0
 - name: Thoughtseize
   weight: 0.1667
   avg_copies: 4.0
-- name: Leyline of the Void
+- name: Faithless Looting
   weight: 0.1667
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Fatal Push
   weight: 0.1667
   avg_copies: 4.0
 - name: Terastodon
@@ -146,40 +146,40 @@ top_cards:
 - name: Spell Pierce
   weight: 0.1667
   avg_copies: 1.5
-- name: Ketria Triome
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Brainsurge
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Ziatora's Proving Ground
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Emrakul, the Aeons Torn
+- name: Rest in Peace
   weight: 0.1667
   avg_copies: 1.0
 - name: Iona, Shield of Emeria
   weight: 0.1667
   avg_copies: 1.0
-- name: Veil of Summer
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Rest in Peace
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Prismari Command
+- name: Ziatora's Proving Ground
   weight: 0.1667
   avg_copies: 1.0
 - name: Valakut Awakening // Valakut Stoneforge
   weight: 0.1667
   avg_copies: 1.0
-- name: Abrupt Decay
+- name: Brainsurge
   weight: 0.1667
   avg_copies: 1.0
 - name: Raucous Theater
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Ketria Triome
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Prismari Command
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Emrakul, the Aeons Torn
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Abrupt Decay
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Veil of Summer
   weight: 0.1667
   avg_copies: 1.0
 ---

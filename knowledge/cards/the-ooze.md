@@ -6,12 +6,12 @@ name: The Ooze
 scryfall_id: 1f9bd4da-4626-40ba-95f4-14e3de36f989
 set: tmt
 type: Legendary Artifact
-meta_presence: 0.0052
+meta_presence: 0.0043
 archetypes:
   boros-energy:
-    weight: 0.0079
+    weight: 0.0065
     avg_copies: 1.0
   hardened-scales:
-    weight: 1.0
+    weight: 0.6667
     avg_copies: 1.5
 ---

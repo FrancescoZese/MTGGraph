@@ -6,10 +6,10 @@ name: Spikefield Hazard // Spikefield Cave
 scryfall_id: a69541db-3f4e-412f-aa8e-dec1e74f74dc
 set: znr
 type: Instant // Land
-meta_presence: 0.0052
+meta_presence: 0.0043
 archetypes:
   ruby-storm:
-    weight: 0.0833
+    weight: 0.05
     avg_copies: 4.0
   mono-red-belcher:
     weight: 1.0

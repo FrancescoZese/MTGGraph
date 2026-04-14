@@ -7,9 +7,9 @@ name: Curious Farm Animals
 scryfall_id: 2402d759-84b6-41d2-ad78-9333974e9222
 set: tla
 type: Creature — Boar Elk Bird Ox
-meta_presence: 0.0017
+meta_presence: 0.0014
 archetypes:
   boros-energy:
-    weight: 0.0079
+    weight: 0.0065
     avg_copies: 1.0
 ---

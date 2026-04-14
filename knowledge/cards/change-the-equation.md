@@ -7,7 +7,7 @@ name: Change the Equation
 scryfall_id: e98db9ed-b43f-4bc1-b7a9-ce03a534d992
 set: mom
 type: Instant
-meta_presence: 0.0017
+meta_presence: 0.0014
 archetypes:
   mono-blue-tron:
     weight: 1.0

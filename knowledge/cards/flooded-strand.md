@@ -6,40 +6,40 @@ name: Flooded Strand
 scryfall_id: 8f85e12c-196b-4459-b81f-0c9c854e9f57
 set: mh3
 type: Land
-meta_presence: 0.463
+meta_presence: 0.4494
 archetypes:
   boros-energy:
-    weight: 0.7143
-    avg_copies: 3.63
+    weight: 0.7451
+    avg_copies: 3.61
   dimir-control:
-    weight: 0.9474
-    avg_copies: 3.44
+    weight: 0.913
+    avg_copies: 3.52
   dimir-frog:
-    weight: 0.6
-    avg_copies: 1.83
+    weight: 0.6364
+    avg_copies: 2.0
   jeskai-energy:
     weight: 1.0
-    avg_copies: 3.89
+    avg_copies: 3.88
   goryo-reanimator:
     weight: 1.0
     avg_copies: 3.36
   azorius-control:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.81
   living-end:
-    weight: 0.0909
+    weight: 0.0714
     avg_copies: 2.0
   affinity:
-    weight: 0.0645
+    weight: 0.0548
     avg_copies: 1.0
   domain-zoo:
     weight: 1.0
-    avg_copies: 3.83
+    avg_copies: 3.85
   mill:
     weight: 0.75
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.5455
+    weight: 0.5385
     avg_copies: 1.0
   hammer-time:
     weight: 1.0
@@ -48,10 +48,10 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   simic-ritual:
-    weight: 0.0714
+    weight: 0.0588
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0556
+    weight: 0.0435
     avg_copies: 1.0
   4c-omnath:
     weight: 1.0
@@ -60,14 +60,14 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   orzhov-blink:
-    weight: 0.6667
-    avg_copies: 2.0
+    weight: 0.75
+    avg_copies: 1.67
   bant-control:
     weight: 1.0
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.5
-    avg_copies: 4.0
+    weight: 0.6667
+    avg_copies: 3.0
   esper-control:
     weight: 1.0
     avg_copies: 4.0
@@ -75,6 +75,18 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   sultai-artifacts:
-    weight: 0.25
+    weight: 0.3333
+    avg_copies: 1.0
+  unknown-7:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-10:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-12:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-11:
+    weight: 1.0
     avg_copies: 1.0
 ---

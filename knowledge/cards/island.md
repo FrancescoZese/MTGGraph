@@ -6,32 +6,32 @@ name: Island
 scryfall_id: 77b88bb8-6bd9-4632-b937-89468fcb5e6a
 set: sos
 type: Basic Land — Island
-meta_presence: 0.3821
+meta_presence: 0.3652
 archetypes:
   dimir-control:
-    weight: 0.9474
-    avg_copies: 3.28
+    weight: 0.9565
+    avg_copies: 3.27
   dimir-frog:
     weight: 1.0
-    avg_copies: 2.1
+    avg_copies: 2.09
   mono-blue-belcher:
-    weight: 0.4375
+    weight: 0.4118
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.7541
+    weight: 0.7692
     avg_copies: 1.0
   goryo-reanimator:
     weight: 1.0
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
-    avg_copies: 1.71
+    avg_copies: 1.69
   living-end:
     weight: 1.0
     avg_copies: 1.0
   affinity:
-    weight: 0.9516
-    avg_copies: 1.12
+    weight: 0.9589
+    avg_copies: 1.13
   mill:
     weight: 0.5
     avg_copies: 2.5
@@ -39,7 +39,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0909
+    weight: 0.0769
     avg_copies: 1.0
   mono-blue-tron:
     weight: 1.0
@@ -48,13 +48,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.1111
+    weight: 0.087
     avg_copies: 1.0
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
   esper-blink:
-    weight: 0.2857
+    weight: 0.25
     avg_copies: 1.0
   sultai-reanimator:
     weight: 1.0
@@ -74,4 +74,13 @@ archetypes:
   izzet-eldrazi:
     weight: 1.0
     avg_copies: 2.0
+  unknown-6:
+    weight: 1.0
+    avg_copies: 1.75
+  unknown-7:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-10:
+    weight: 1.0
+    avg_copies: 3.0
 ---
