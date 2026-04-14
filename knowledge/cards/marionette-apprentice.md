@@ -9,10 +9,7 @@ set: mh3
 type: Creature — Human Artificer
 meta_presence: 0.0043
 archetypes:
-  yawgmoth-combo:
-    weight: 0.2
-    avg_copies: 2.0
   samwise-combo:
-    weight: 0.3333
+    weight: 0.4286
     avg_copies: 2.0
 ---

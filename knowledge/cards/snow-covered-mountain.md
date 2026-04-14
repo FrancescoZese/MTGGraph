@@ -14,13 +14,13 @@ archetypes:
   jeskai-energy:
     weight: 0.0923
     avg_copies: 1.0
-  affinity:
-    weight: 0.0137
-    avg_copies: 1.0
   mardu-blink:
     weight: 0.5
     avg_copies: 1.0
   dredge:
     weight: 0.3333
     avg_copies: 3.0
+  sultai-artifacts:
+    weight: 0.1
+    avg_copies: 1.0
 ---

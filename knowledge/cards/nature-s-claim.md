@@ -16,12 +16,12 @@ archetypes:
     weight: 1.0
     avg_copies: 2.92
   eldrazi-ramp:
-    weight: 0.5
+    weight: 0.4167
+    avg_copies: 2.0
+  broodscale-combo:
+    weight: 0.7
     avg_copies: 2.0
   sultai-artifacts:
-    weight: 0.1667
+    weight: 0.1
     avg_copies: 1.0
-  broodscale-combo:
-    weight: 0.75
-    avg_copies: 2.0
 ---

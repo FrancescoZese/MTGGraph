@@ -18,13 +18,13 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   affinity:
-    weight: 0.9863
-    avg_copies: 2.73
+    weight: 1.0
+    avg_copies: 2.87
   hammer-time:
     weight: 1.0
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.1667
+    weight: 0.25
     avg_copies: 1.0
   izzet-prowess:
     weight: 0.2174
@@ -33,6 +33,6 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   sultai-artifacts:
-    weight: 0.3333
-    avg_copies: 1.0
+    weight: 0.7
+    avg_copies: 1.12
 ---

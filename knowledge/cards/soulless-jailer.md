@@ -18,21 +18,21 @@ archetypes:
     weight: 1.0
     avg_copies: 2.5
   yawgmoth-combo:
-    weight: 0.8
+    weight: 1.0
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.5556
-    avg_copies: 1.5
+    weight: 0.6667
+    avg_copies: 1.38
   samwise-combo:
-    weight: 0.3333
+    weight: 0.4286
     avg_copies: 1.0
+  broodscale-combo:
+    weight: 0.4
+    avg_copies: 1.75
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 2.0
   izzet-eldrazi:
     weight: 1.0
     avg_copies: 2.0
-  broodscale-combo:
-    weight: 0.5
-    avg_copies: 1.5
 ---

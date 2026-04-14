@@ -25,25 +25,25 @@ archetypes:
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 1.4
+    avg_copies: 1.67
   eldrazi-ramp:
     weight: 1.0
-    avg_copies: 2.39
+    avg_copies: 2.25
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
   samwise-combo:
     weight: 1.0
     avg_copies: 1.0
+  broodscale-combo:
+    weight: 1.0
+    avg_copies: 2.7
   elves:
     weight: 1.0
     avg_copies: 3.0
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
-  broodscale-combo:
-    weight: 1.0
-    avg_copies: 2.75
   mono-green-ramp:
     weight: 1.0
     avg_copies: 1.0

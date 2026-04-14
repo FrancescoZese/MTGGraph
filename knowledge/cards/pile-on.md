@@ -10,6 +10,6 @@ type: Instant
 meta_presence: 0.0029
 archetypes:
   yawgmoth-combo:
-    weight: 0.2
+    weight: 0.3333
     avg_copies: 1.0
 ---

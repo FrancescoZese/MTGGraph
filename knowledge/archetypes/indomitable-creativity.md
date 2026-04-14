@@ -11,7 +11,7 @@ top_cards:
 - name: Indomitable Creativity
   weight: 1.0
   avg_copies: 4.0
-- name: Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+- name: Fable of the Mirror-Breaker
   weight: 1.0
   avg_copies: 4.0
 - name: Arid Mesa
@@ -44,10 +44,10 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
 - name: Leyline Binding
@@ -74,19 +74,19 @@ top_cards:
 - name: Spell Snare
   weight: 0.8333
   avg_copies: 1.8
-- name: Raph & Mikey, Troublemakers
+- name: Sacred Foundry
   weight: 0.8333
   avg_copies: 1.0
 - name: Jetmir's Garden
-  weight: 0.8333
-  avg_copies: 1.0
-- name: Sacred Foundry
   weight: 0.8333
   avg_copies: 1.0
 - name: Elegant Parlor
   weight: 0.8333
   avg_copies: 1.0
 - name: Xander's Lounge
+  weight: 0.8333
+  avg_copies: 1.0
+- name: Raph & Mikey, Troublemakers
   weight: 0.8333
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -122,19 +122,19 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 0.3333
   avg_copies: 1.0
-- name: Persist
-  weight: 0.1667
-  avg_copies: 4.0
-- name: Leyline of the Void
+- name: Faithless Looting
   weight: 0.1667
   avg_copies: 4.0
 - name: Thoughtseize
   weight: 0.1667
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Fatal Push
   weight: 0.1667
   avg_copies: 4.0
-- name: Fatal Push
+- name: Leyline of the Void
+  weight: 0.1667
+  avg_copies: 4.0
+- name: Persist
   weight: 0.1667
   avg_copies: 4.0
 - name: Terastodon
@@ -146,40 +146,40 @@ top_cards:
 - name: Spell Pierce
   weight: 0.1667
   avg_copies: 1.5
-- name: Abrupt Decay
+- name: Ziatora's Proving Ground
   weight: 0.1667
   avg_copies: 1.0
-- name: Iona, Shield of Emeria
+- name: Valakut Awakening
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Abrupt Decay
   weight: 0.1667
   avg_copies: 1.0
 - name: Emrakul, the Aeons Torn
   weight: 0.1667
   avg_copies: 1.0
+- name: Ketria Triome
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Prismari Command
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Rest in Peace
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Ziatora's Proving Ground
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Veil of Summer
   weight: 0.1667
   avg_copies: 1.0
 - name: Brainsurge
   weight: 0.1667
   avg_copies: 1.0
-- name: Ketria Triome
+- name: Rest in Peace
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Iona, Shield of Emeria
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Veil of Summer
   weight: 0.1667
   avg_copies: 1.0
 - name: Raucous Theater
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Valakut Awakening // Valakut Stoneforge
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
   weight: 0.1667
   avg_copies: 1.0
 ---

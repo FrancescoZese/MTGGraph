@@ -1,5 +1,5 @@
 ---
-archetype: eldrazi-ramp
+archetype: broodscale-combo
 date: '2026-04-03'
 finish: 11th
 pilot: ziofrancone

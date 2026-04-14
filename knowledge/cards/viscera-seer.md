@@ -9,10 +9,7 @@ set: soc
 type: Creature — Vampire Wizard
 meta_presence: 0.01
 archetypes:
-  yawgmoth-combo:
-    weight: 0.4
-    avg_copies: 2.0
   samwise-combo:
     weight: 1.0
-    avg_copies: 1.67
+    avg_copies: 1.86
 ---

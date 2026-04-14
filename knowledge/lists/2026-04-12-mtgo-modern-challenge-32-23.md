@@ -1,5 +1,5 @@
 ---
-archetype: affinity
+archetype: sultai-artifacts
 date: '2026-04-12'
 finish: 27th
 pilot: SafetyHazard

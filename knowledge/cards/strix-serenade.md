@@ -19,8 +19,8 @@ archetypes:
     weight: 0.8462
     avg_copies: 1.58
   affinity:
-    weight: 0.1507
-    avg_copies: 1.13
+    weight: 0.1045
+    avg_copies: 1.29
   domain-zoo:
     weight: 0.1538
     avg_copies: 1.25
@@ -31,7 +31,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0556
+    weight: 0.0833
     avg_copies: 2.0
   esper-blink:
     weight: 0.125
@@ -43,6 +43,9 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   sultai-artifacts:
-    weight: 1.0
-    avg_copies: 1.14
+    weight: 0.9
+    avg_copies: 1.0
+  izzet-cori-steel:
+    weight: 0.1667
+    avg_copies: 2.0
 ---

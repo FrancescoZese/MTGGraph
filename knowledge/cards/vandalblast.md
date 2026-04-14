@@ -10,12 +10,9 @@ type: Sorcery
 meta_presence: 0.0114
 archetypes:
   affinity:
-    weight: 0.0411
-    avg_copies: 1.33
-  sultai-artifacts:
-    weight: 0.1667
-    avg_copies: 2.0
+    weight: 0.0299
+    avg_copies: 1.0
   izzet-cori-steel:
     weight: 1.0
-    avg_copies: 2.5
+    avg_copies: 2.33
 ---

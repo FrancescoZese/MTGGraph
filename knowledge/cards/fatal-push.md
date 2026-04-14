@@ -31,8 +31,8 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.33
   yawgmoth-combo:
-    weight: 0.8
-    avg_copies: 2.5
+    weight: 1.0
+    avg_copies: 2.67
   simic-ritual:
     weight: 0.1176
     avg_copies: 2.0
@@ -42,15 +42,15 @@ archetypes:
   sultai-reanimator:
     weight: 1.0
     avg_copies: 4.0
+  samwise-combo:
+    weight: 0.7143
+    avg_copies: 2.4
   indomitable-creativity:
     weight: 0.1667
     avg_copies: 4.0
   orzhov-blink:
     weight: 1.0
     avg_copies: 3.25
-  samwise-combo:
-    weight: 1.0
-    avg_copies: 2.67
   esper-control:
     weight: 1.0
     avg_copies: 3.0

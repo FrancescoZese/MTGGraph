@@ -12,11 +12,8 @@ archetypes:
   necrodominance:
     weight: 0.5
     avg_copies: 3.6
-  yawgmoth-combo:
-    weight: 0.2
-    avg_copies: 1.0
   samwise-combo:
-    weight: 0.3333
+    weight: 0.4286
     avg_copies: 1.0
   grixis-shadow:
     weight: 1.0

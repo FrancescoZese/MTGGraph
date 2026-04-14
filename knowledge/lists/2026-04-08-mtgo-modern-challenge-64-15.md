@@ -1,5 +1,5 @@
 ---
-archetype: affinity
+archetype: sultai-artifacts
 date: '2026-04-08'
 finish: 6th
 pilot: Aldreen

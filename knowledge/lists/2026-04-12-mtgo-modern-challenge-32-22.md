@@ -1,5 +1,5 @@
 ---
-archetype: yawgmoth-combo
+archetype: samwise-combo
 date: '2026-04-12'
 finish: 18th
 pilot: SGMY95

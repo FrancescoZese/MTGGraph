@@ -17,16 +17,13 @@ archetypes:
   mardu-blink:
     weight: 1.0
     avg_copies: 1.0
-  yawgmoth-combo:
-    weight: 0.4
-    avg_copies: 1.0
   esper-blink:
     weight: 1.0
     avg_copies: 1.88
-  orzhov-blink:
-    weight: 1.0
-    avg_copies: 1.75
   samwise-combo:
     weight: 1.0
     avg_copies: 1.0
+  orzhov-blink:
+    weight: 1.0
+    avg_copies: 1.75
 ---

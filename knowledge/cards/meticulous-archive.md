@@ -22,7 +22,7 @@ archetypes:
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
-    avg_copies: 1.82
+    avg_copies: 1.81
   living-end:
     weight: 0.5
     avg_copies: 1.0
@@ -43,7 +43,7 @@ archetypes:
     avg_copies: 2.0
   jeskai-control:
     weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 1.5
   bant-ritual:
     weight: 1.0
     avg_copies: 1.0

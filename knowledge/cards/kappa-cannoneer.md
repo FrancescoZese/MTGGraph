@@ -10,6 +10,9 @@ type: Artifact Creature — Turtle Warrior
 meta_presence: 0.097
 archetypes:
   affinity:
-    weight: 0.9315
-    avg_copies: 3.88
+    weight: 1.0
+    avg_copies: 3.91
+  sultai-artifacts:
+    weight: 0.1
+    avg_copies: 2.0
 ---

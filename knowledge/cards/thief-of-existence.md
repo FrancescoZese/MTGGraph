@@ -8,10 +8,7 @@ set: mh3
 type: Creature — Eldrazi
 meta_presence: 0.0143
 archetypes:
-  eldrazi-ramp:
-    weight: 0.3333
-    avg_copies: 2.17
   broodscale-combo:
     weight: 1.0
-    avg_copies: 2.5
+    avg_copies: 2.3
 ---

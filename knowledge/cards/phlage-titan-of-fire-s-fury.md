@@ -11,7 +11,7 @@ type: Legendary Creature — Elder Giant
 meta_presence: 0.3723
 archetypes:
   ruby-storm:
-    weight: 0.1
+    weight: 0.1053
     avg_copies: 1.0
   boros-energy:
     weight: 1.0
@@ -20,8 +20,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.8
   azorius-control:
-    weight: 0.3529
-    avg_copies: 1.36
+    weight: 0.3125
+    avg_copies: 1.2
   domain-zoo:
     weight: 0.9615
     avg_copies: 3.84

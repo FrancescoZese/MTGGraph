@@ -9,16 +9,13 @@ set: tla
 type: Sorcery — Lesson
 meta_presence: 0.0171
 archetypes:
-  affinity:
-    weight: 0.0274
-    avg_copies: 3.5
   izzet-prowess:
     weight: 0.2174
     avg_copies: 2.11
   sultai-artifacts:
-    weight: 0.1667
-    avg_copies: 4.0
+    weight: 0.1
+    avg_copies: 3.0
   izzet-cori-steel:
     weight: 1.0
-    avg_copies: 3.25
+    avg_copies: 3.5
 ---

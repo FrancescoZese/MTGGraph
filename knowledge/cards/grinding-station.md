@@ -12,6 +12,6 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   sultai-artifacts:
-    weight: 0.5
+    weight: 0.3
     avg_copies: 3.0
 ---

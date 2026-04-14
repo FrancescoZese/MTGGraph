@@ -17,10 +17,10 @@ archetypes:
   eldrazi-ramp:
     weight: 1.0
     avg_copies: 4.0
-  izzet-eldrazi:
+  broodscale-combo:
     weight: 1.0
     avg_copies: 4.0
-  broodscale-combo:
+  izzet-eldrazi:
     weight: 1.0
     avg_copies: 4.0
 ---

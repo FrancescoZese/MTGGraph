@@ -13,10 +13,10 @@ archetypes:
     weight: 0.5
     avg_copies: 2.14
   yawgmoth-combo:
-    weight: 0.6
+    weight: 1.0
     avg_copies: 1.33
   eldrazi-ramp:
-    weight: 0.3333
+    weight: 0.5
     avg_copies: 2.5
   4c-omnath:
     weight: 1.0

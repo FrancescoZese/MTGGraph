@@ -25,8 +25,8 @@ archetypes:
     weight: 0.7727
     avg_copies: 1.0
   azorius-control:
-    weight: 0.9412
-    avg_copies: 1.5
+    weight: 0.9375
+    avg_copies: 1.47
   domain-zoo:
     weight: 0.0385
     avg_copies: 1.0

@@ -39,13 +39,13 @@ archetypes:
   jund-saga:
     weight: 1.0
     avg_copies: 2.0
+  jeskai-control:
+    weight: 0.5
+    avg_copies: 2.0
   rakdos-steel-cutter:
     weight: 1.0
     avg_copies: 4.0
   rakdos-reanimator:
     weight: 1.0
     avg_copies: 3.0
-  jeskai-control:
-    weight: 1.0
-    avg_copies: 2.0
 ---

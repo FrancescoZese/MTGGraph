@@ -1,5 +1,5 @@
 ---
-archetype: affinity
+archetype: izzet-cori-steel
 date: '2026-04-10'
 finish: 4th
 pilot: aspiringspike

@@ -11,10 +11,10 @@ meta_presence: 0.02
 archetypes:
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 2.9
+    avg_copies: 3.5
   samwise-combo:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 2.43
   bant-ritual:
     weight: 1.0
     avg_copies: 2.0

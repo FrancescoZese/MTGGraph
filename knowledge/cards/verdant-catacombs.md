@@ -24,7 +24,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   eldrazi-ramp:
-    weight: 0.8333
+    weight: 1.0
     avg_copies: 1.0
   simic-ritual:
     weight: 0.8824
@@ -35,15 +35,15 @@ archetypes:
   samwise-combo:
     weight: 1.0
     avg_copies: 4.0
+  broodscale-combo:
+    weight: 0.4
+    avg_copies: 1.0
   elves:
     weight: 1.0
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
     avg_copies: 4.0
-  broodscale-combo:
-    weight: 0.25
-    avg_copies: 1.0
   mono-green-ramp:
     weight: 1.0
     avg_copies: 1.0

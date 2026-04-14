@@ -22,8 +22,8 @@ archetypes:
     weight: 0.2143
     avg_copies: 1.0
   affinity:
-    weight: 0.2603
-    avg_copies: 1.42
+    weight: 0.2537
+    avg_copies: 1.29
   grixis-reanimator:
     weight: 0.25
     avg_copies: 1.5
@@ -33,7 +33,10 @@ archetypes:
   bant-control:
     weight: 1.0
     avg_copies: 3.0
+  sultai-artifacts:
+    weight: 0.1
+    avg_copies: 2.0
   izzet-cori-steel:
-    weight: 1.0
+    weight: 0.8333
     avg_copies: 3.0
 ---

@@ -9,7 +9,7 @@ type: Land — Island Mountain
 meta_presence: 0.3638
 archetypes:
   ruby-storm:
-    weight: 0.1
+    weight: 0.1053
     avg_copies: 1.0
   dimir-control:
     weight: 0.6087
@@ -18,13 +18,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.02
   azorius-control:
-    weight: 0.8235
-    avg_copies: 1.07
+    weight: 0.8125
+    avg_copies: 1.0
   living-end:
     weight: 0.0714
     avg_copies: 2.0
   affinity:
-    weight: 0.9589
+    weight: 0.9552
     avg_copies: 1.56
   domain-zoo:
     weight: 1.0
@@ -47,25 +47,25 @@ archetypes:
   dredge:
     weight: 0.6667
     avg_copies: 2.5
+  sultai-artifacts:
+    weight: 0.9
+    avg_copies: 1.78
+  izzet-cori-steel:
+    weight: 1.0
+    avg_copies: 2.0
   grixis-control:
     weight: 1.0
     avg_copies: 3.0
-  sultai-artifacts:
-    weight: 0.8333
-    avg_copies: 2.2
   izzet-eldrazi:
+    weight: 1.0
+    avg_copies: 2.0
+  jeskai-control:
     weight: 1.0
     avg_copies: 2.0
   grixis-shadow:
     weight: 1.0
     avg_copies: 1.0
-  izzet-cori-steel:
-    weight: 1.0
-    avg_copies: 2.0
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 3.0
-  jeskai-control:
-    weight: 1.0
-    avg_copies: 2.0
 ---

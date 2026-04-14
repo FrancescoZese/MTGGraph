@@ -1,5 +1,5 @@
 ---
-archetype: affinity
+archetype: sultai-artifacts
 date: '2026-04-12'
 finish: 5-0
 pilot: NuBlkAu

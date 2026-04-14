@@ -9,7 +9,7 @@ type: Artifact — Equipment
 meta_presence: 0.1127
 archetypes:
   affinity:
-    weight: 0.9589
+    weight: 0.9701
     avg_copies: 1.0
   hammer-time:
     weight: 0.5
@@ -18,7 +18,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   sultai-artifacts:
-    weight: 0.8333
+    weight: 1.0
     avg_copies: 1.0
   jund-saga:
     weight: 1.0

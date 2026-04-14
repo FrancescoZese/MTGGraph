@@ -1,5 +1,5 @@
 ---
-archetype: sultai-artifacts
+archetype: izzet-cori-steel
 date: '2026-04-11'
 finish: 5-0
 pilot: xykx

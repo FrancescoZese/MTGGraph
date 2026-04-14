@@ -9,19 +9,16 @@ set: tdm
 type: Artifact — Equipment
 meta_presence: 0.0556
 archetypes:
-  affinity:
-    weight: 0.0822
-    avg_copies: 3.5
   izzet-prowess:
     weight: 1.0
     avg_copies: 4.0
   sultai-artifacts:
-    weight: 0.6667
+    weight: 0.8
     avg_copies: 3.5
-  rakdos-steel-cutter:
-    weight: 1.0
-    avg_copies: 4.0
   izzet-cori-steel:
+    weight: 1.0
+    avg_copies: 3.83
+  rakdos-steel-cutter:
     weight: 1.0
     avg_copies: 4.0
 ---

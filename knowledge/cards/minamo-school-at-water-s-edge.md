@@ -8,10 +8,7 @@ set: chk
 type: Legendary Land
 meta_presence: 0.0086
 archetypes:
-  affinity:
-    weight: 0.0411
-    avg_copies: 1.0
   sultai-artifacts:
-    weight: 0.5
+    weight: 0.6
     avg_copies: 1.0
 ---

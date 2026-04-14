@@ -10,26 +10,29 @@ type: Enchantment
 meta_presence: 0.2083
 archetypes:
   ruby-storm:
-    weight: 0.1
-    avg_copies: 1.67
+    weight: 0.0526
+    avg_copies: 2.0
   boros-energy:
     weight: 0.7516
     avg_copies: 1.2
   affinity:
-    weight: 0.2466
-    avg_copies: 1.78
+    weight: 0.209
+    avg_copies: 1.5
   mono-red-belcher:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.83
   eldrazi-ramp:
-    weight: 0.0556
+    weight: 0.0833
     avg_copies: 2.0
   izzet-prowess:
     weight: 0.087
     avg_copies: 2.0
   sultai-artifacts:
-    weight: 0.6667
-    avg_copies: 2.75
+    weight: 0.7
+    avg_copies: 2.86
+  izzet-cori-steel:
+    weight: 0.1667
+    avg_copies: 2.0
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 4.0

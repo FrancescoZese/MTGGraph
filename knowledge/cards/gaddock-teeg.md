@@ -10,10 +10,7 @@ set: uma
 type: Legendary Creature — Kithkin Advisor
 meta_presence: 0.0086
 archetypes:
-  yawgmoth-combo:
-    weight: 0.4
-    avg_copies: 1.0
   samwise-combo:
-    weight: 0.6667
+    weight: 0.8571
     avg_copies: 1.0
 ---

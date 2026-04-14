@@ -9,6 +9,6 @@ type: Unknown
 meta_presence: 0.0014
 archetypes:
   mono-red-belcher:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 2.0
 ---

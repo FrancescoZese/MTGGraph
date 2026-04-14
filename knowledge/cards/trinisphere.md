@@ -15,9 +15,9 @@ archetypes:
     weight: 0.6429
     avg_copies: 2.83
   mono-red-belcher:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.5556
+    weight: 0.8333
     avg_copies: 1.8
 ---

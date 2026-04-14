@@ -9,7 +9,7 @@ type: Land — Mountain Plains
 meta_presence: 0.3566
 archetypes:
   ruby-storm:
-    weight: 0.95
+    weight: 1.0
     avg_copies: 1.42
   boros-energy:
     weight: 1.0
@@ -18,7 +18,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.02
   azorius-control:
-    weight: 0.2941
+    weight: 0.3125
     avg_copies: 1.0
   mardu-blink:
     weight: 1.0
@@ -27,6 +27,6 @@ archetypes:
     weight: 0.8333
     avg_copies: 1.0
   jeskai-control:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 1.0
 ---

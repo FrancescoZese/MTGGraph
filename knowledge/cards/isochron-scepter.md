@@ -9,8 +9,8 @@ type: Artifact
 meta_presence: 0.0214
 archetypes:
   azorius-control:
-    weight: 0.8235
-    avg_copies: 1.35
+    weight: 0.8125
+    avg_copies: 1.4
   jeskai-control:
     weight: 1.0
     avg_copies: 1.0

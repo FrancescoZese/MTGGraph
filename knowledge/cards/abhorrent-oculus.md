@@ -15,9 +15,6 @@ archetypes:
   neoform-combo:
     weight: 0.6923
     avg_copies: 1.0
-  yawgmoth-combo:
-    weight: 0.2
-    avg_copies: 2.0
   simic-ritual:
     weight: 1.0
     avg_copies: 3.82
@@ -28,8 +25,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   samwise-combo:
-    weight: 0.6667
-    avg_copies: 1.5
+    weight: 0.5714
+    avg_copies: 1.75
   bant-ritual:
     weight: 1.0
     avg_copies: 2.0

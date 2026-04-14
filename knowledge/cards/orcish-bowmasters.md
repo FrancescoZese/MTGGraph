@@ -28,17 +28,17 @@ archetypes:
     weight: 0.5556
     avg_copies: 2.8
   yawgmoth-combo:
-    weight: 0.3
+    weight: 0.5
     avg_copies: 2.67
   esper-blink:
     weight: 0.625
     avg_copies: 2.6
+  samwise-combo:
+    weight: 0.1429
+    avg_copies: 1.0
   orzhov-blink:
     weight: 1.0
     avg_copies: 3.5
-  samwise-combo:
-    weight: 0.3333
-    avg_copies: 1.0
   jund-saga:
     weight: 1.0
     avg_copies: 3.0

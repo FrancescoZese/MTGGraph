@@ -21,10 +21,10 @@ archetypes:
   grixis-control:
     weight: 1.0
     avg_copies: 3.0
+  jeskai-control:
+    weight: 0.5
+    avg_copies: 2.0
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 3.0
-  jeskai-control:
-    weight: 1.0
-    avg_copies: 2.0
 ---

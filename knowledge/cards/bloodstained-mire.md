@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.1241
 archetypes:
   ruby-storm:
-    weight: 0.95
+    weight: 1.0
     avg_copies: 2.16
   boros-energy:
     weight: 0.0131

@@ -10,6 +10,6 @@ type: Artifact Creature — Robot
 meta_presence: 0.0257
 archetypes:
   affinity:
-    weight: 0.2466
+    weight: 0.2687
     avg_copies: 1.55
 ---

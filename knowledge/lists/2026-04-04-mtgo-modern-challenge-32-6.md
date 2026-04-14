@@ -1,5 +1,5 @@
 ---
-archetype: eldrazi-ramp
+archetype: broodscale-combo
 date: '2026-04-04'
 finish: 9th
 pilot: HelpfulHobo

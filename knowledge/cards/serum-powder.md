@@ -8,7 +8,7 @@ set: ima
 type: Artifact
 meta_presence: 0.0014
 archetypes:
-  ruby-storm:
-    weight: 0.05
+  mono-red-belcher:
+    weight: 0.3333
     avg_copies: 2.0
 ---

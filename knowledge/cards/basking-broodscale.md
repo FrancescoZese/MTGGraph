@@ -8,9 +8,6 @@ set: mh3
 type: Creature — Eldrazi Lizard
 meta_presence: 0.0143
 archetypes:
-  eldrazi-ramp:
-    weight: 0.3333
-    avg_copies: 4.0
   broodscale-combo:
     weight: 1.0
     avg_copies: 4.0

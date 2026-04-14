@@ -12,6 +12,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.67
   affinity:
-    weight: 0.7397
+    weight: 0.806
     avg_copies: 1.33
 ---

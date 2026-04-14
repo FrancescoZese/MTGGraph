@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.1284
 archetypes:
   ruby-storm:
-    weight: 0.1
+    weight: 0.1053
     avg_copies: 1.0
   boros-energy:
     weight: 0.0719
@@ -19,7 +19,7 @@ archetypes:
     weight: 0.6087
     avg_copies: 2.36
   azorius-control:
-    weight: 0.1765
+    weight: 0.1875
     avg_copies: 1.0
   domain-zoo:
     weight: 0.0385
@@ -34,7 +34,7 @@ archetypes:
     weight: 0.2857
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.1111
+    weight: 0.1667
     avg_copies: 1.0
   simic-ritual:
     weight: 0.1176
@@ -45,12 +45,12 @@ archetypes:
   dredge:
     weight: 0.6667
     avg_copies: 2.5
+  sultai-artifacts:
+    weight: 0.1
+    avg_copies: 1.0
   grixis-control:
     weight: 1.0
     avg_copies: 2.0
-  sultai-artifacts:
-    weight: 0.1667
-    avg_copies: 1.0
   jund-saga:
     weight: 1.0
     avg_copies: 1.0

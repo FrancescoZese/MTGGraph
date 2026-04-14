@@ -9,8 +9,8 @@ type: Artifact
 meta_presence: 0.2696
 archetypes:
   ruby-storm:
-    weight: 0.1
-    avg_copies: 1.5
+    weight: 0.0526
+    avg_copies: 1.0
   boros-energy:
     weight: 0.1961
     avg_copies: 1.67
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   affinity:
-    weight: 0.6027
+    weight: 0.6418
     avg_copies: 1.27
   domain-zoo:
     weight: 0.0385
@@ -33,7 +33,7 @@ archetypes:
     weight: 0.125
     avg_copies: 1.5
   mono-red-belcher:
-    weight: 0.5
+    weight: 0.6667
     avg_copies: 2.0
   hammer-time:
     weight: 1.0
@@ -48,28 +48,34 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.8
-    avg_copies: 1.5
+    weight: 1.0
+    avg_copies: 1.33
   eldrazi-ramp:
-    weight: 0.9444
-    avg_copies: 1.48
+    weight: 0.9167
+    avg_copies: 1.55
   izzet-prowess:
     weight: 0.087
     avg_copies: 3.5
+  samwise-combo:
+    weight: 0.7143
+    avg_copies: 2.0
+  broodscale-combo:
+    weight: 1.0
+    avg_copies: 1.4
   orzhov-blink:
     weight: 0.75
     avg_copies: 1.33
   dredge:
     weight: 0.6667
     avg_copies: 2.0
-  samwise-combo:
-    weight: 1.0
-    avg_copies: 2.0
+  sultai-artifacts:
+    weight: 0.3
+    avg_copies: 1.0
+  izzet-cori-steel:
+    weight: 0.6667
+    avg_copies: 1.0
   elves:
     weight: 1.0
-    avg_copies: 1.0
-  sultai-artifacts:
-    weight: 0.5
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
@@ -83,15 +89,9 @@ archetypes:
   grixis-shadow:
     weight: 1.0
     avg_copies: 1.0
-  broodscale-combo:
-    weight: 1.0
-    avg_copies: 1.38
   rakdos-reanimator:
     weight: 1.0
     avg_copies: 3.0
-  izzet-cori-steel:
-    weight: 0.75
-    avg_copies: 1.0
   bant-ritual:
     weight: 1.0
     avg_copies: 2.0

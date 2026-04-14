@@ -15,13 +15,10 @@ archetypes:
     weight: 0.5455
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0588
+    weight: 0.0625
     avg_copies: 1.0
   living-end:
     weight: 1.0
-    avg_copies: 1.0
-  affinity:
-    weight: 0.0548
     avg_copies: 1.0
   domain-zoo:
     weight: 0.0385
@@ -32,11 +29,8 @@ archetypes:
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
-  yawgmoth-combo:
-    weight: 0.2
-    avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.1111
+    weight: 0.1667
     avg_copies: 1.0
   simic-ritual:
     weight: 1.0
@@ -48,12 +42,15 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.6667
+    weight: 0.5714
     avg_copies: 1.0
   bant-control:
     weight: 1.0
     avg_copies: 1.0
   sultai-artifacts:
-    weight: 1.0
-    avg_copies: 1.17
+    weight: 0.9
+    avg_copies: 1.11
+  izzet-cori-steel:
+    weight: 0.1667
+    avg_copies: 1.0
 ---

@@ -9,9 +9,6 @@ set: mh3
 type: Enchantment
 meta_presence: 0.0371
 archetypes:
-  yawgmoth-combo:
-    weight: 0.4
-    avg_copies: 4.0
   simic-ritual:
     weight: 1.0
     avg_copies: 4.0

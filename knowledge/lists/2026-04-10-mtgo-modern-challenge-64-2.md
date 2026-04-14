@@ -1,5 +1,5 @@
 ---
-archetype: ruby-storm
+archetype: mono-red-belcher
 date: '2026-04-10'
 finish: 2nd
 pilot: Alakai

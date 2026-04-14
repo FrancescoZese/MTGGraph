@@ -15,17 +15,14 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   yawgmoth-combo:
-    weight: 0.6
+    weight: 1.0
     avg_copies: 3.0
-  eldrazi-ramp:
-    weight: 0.3333
-    avg_copies: 1.83
+  broodscale-combo:
+    weight: 1.0
+    avg_copies: 2.1
   azorius-blink:
     weight: 0.3333
     avg_copies: 2.0
-  broodscale-combo:
-    weight: 1.0
-    avg_copies: 2.5
   bant-ritual:
     weight: 1.0
     avg_copies: 2.0

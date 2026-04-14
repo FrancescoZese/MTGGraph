@@ -13,7 +13,7 @@ archetypes:
     weight: 0.1071
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0556
+    weight: 0.0833
     avg_copies: 1.0
   mono-green-stompy:
     weight: 1.0

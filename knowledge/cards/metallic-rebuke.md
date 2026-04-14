@@ -10,15 +10,15 @@ type: Instant
 meta_presence: 0.1141
 archetypes:
   affinity:
-    weight: 0.9315
-    avg_copies: 2.67
+    weight: 0.9254
+    avg_copies: 2.58
   hammer-time:
     weight: 1.0
     avg_copies: 3.5
   sultai-artifacts:
     weight: 1.0
-    avg_copies: 3.33
+    avg_copies: 3.5
   izzet-cori-steel:
     weight: 1.0
-    avg_copies: 3.25
+    avg_copies: 3.5
 ---

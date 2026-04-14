@@ -5,34 +5,34 @@ name: Mono Blue Belcher
 meta_share: 0.0243
 list_count: 17
 top_cards:
-- name: Hydroelectric Specimen // Hydroelectric Laboratory
-  weight: 1.0
-  avg_copies: 4.0
 - name: Goblin Charbelcher
-  weight: 1.0
-  avg_copies: 4.0
-- name: Sink into Stupor // Soporific Springs
-  weight: 1.0
-  avg_copies: 4.0
-- name: Whir of Invention
   weight: 1.0
   avg_copies: 4.0
 - name: Lotus Bloom
   weight: 1.0
   avg_copies: 4.0
-- name: Suppression Ray // Orderly Plaza
+- name: Sink into Stupor
+  weight: 1.0
+  avg_copies: 4.0
+- name: Suppression Ray
   weight: 1.0
   avg_copies: 4.0
 - name: Tameshi, Reality Architect
   weight: 1.0
   avg_copies: 4.0
+- name: Whir of Invention
+  weight: 1.0
+  avg_copies: 4.0
+- name: Hydroelectric Specimen
+  weight: 1.0
+  avg_copies: 4.0
 - name: Disrupting Shoal
   weight: 1.0
   avg_copies: 3.94
-- name: Sea Gate Restoration // Sea Gate, Reborn
+- name: Sea Gate Restoration
   weight: 1.0
   avg_copies: 3.88
-- name: Jwari Disruption // Jwari Ruins
+- name: Jwari Disruption
   weight: 1.0
   avg_copies: 3.35
 - name: Consign to Memory
@@ -41,7 +41,7 @@ top_cards:
 - name: Stern Scolding
   weight: 1.0
   avg_copies: 1.94
-- name: Waterlogged Teachings // Inundated Archive
+- name: Waterlogged Teachings
   weight: 0.9412
   avg_copies: 2.81
 - name: Mystical Dispute
@@ -56,7 +56,7 @@ top_cards:
 - name: Spell Snare
   weight: 0.8235
   avg_copies: 1.88
-- name: Beyeen Veil // Beyeen Coast
+- name: Beyeen Veil
   weight: 0.7059
   avg_copies: 1.58
 - name: Into the Flood Maw
@@ -104,13 +104,13 @@ top_cards:
 - name: Commandeer
   weight: 0.2941
   avg_copies: 1.6
-- name: Grafdigger's Cage
-  weight: 0.2941
-  avg_copies: 1.0
 - name: Spell Pierce
   weight: 0.2941
   avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+- name: Grafdigger's Cage
+  weight: 0.2941
+  avg_copies: 1.0
+- name: Tamiyo, Inquisitive Student
   weight: 0.2353
   avg_copies: 1.83
 - name: Stock Up
@@ -122,19 +122,19 @@ top_cards:
 - name: Talisman of Progress
   weight: 0.1176
   avg_copies: 1.0
-- name: Displacement Wave
-  weight: 0.0588
-  avg_copies: 1.0
 - name: Portable Hole
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Hope of Ghirapur
   weight: 0.0588
   avg_copies: 1.0
 - name: Dusk Rose Reliquary
   weight: 0.0588
   avg_copies: 1.0
-- name: Witch Enchanter // Witch-Blessed Meadow
+- name: Witch Enchanter
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Displacement Wave
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Hope of Ghirapur
   weight: 0.0588
   avg_copies: 1.0
 ---

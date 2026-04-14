@@ -25,13 +25,13 @@ archetypes:
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
-    avg_copies: 1.71
+    avg_copies: 1.75
   living-end:
     weight: 1.0
     avg_copies: 1.0
   affinity:
-    weight: 0.9589
-    avg_copies: 1.13
+    weight: 0.9701
+    avg_copies: 1.14
   mill:
     weight: 0.5
     avg_copies: 2.5
@@ -62,21 +62,24 @@ archetypes:
   bant-control:
     weight: 1.0
     avg_copies: 2.0
-  esper-control:
-    weight: 1.0
-    avg_copies: 2.0
-  grixis-control:
-    weight: 1.0
-    avg_copies: 4.0
   sultai-artifacts:
-    weight: 1.0
+    weight: 0.9
     avg_copies: 1.0
-  izzet-eldrazi:
+  esper-control:
     weight: 1.0
     avg_copies: 2.0
   izzet-cori-steel:
     weight: 1.0
-    avg_copies: 1.75
+    avg_copies: 1.5
+  grixis-control:
+    weight: 1.0
+    avg_copies: 4.0
+  izzet-eldrazi:
+    weight: 1.0
+    avg_copies: 2.0
+  jeskai-control:
+    weight: 0.5
+    avg_copies: 1.0
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 3.0

@@ -16,29 +16,26 @@ archetypes:
     avg_copies: 4.0
   affinity:
     weight: 1.0
-    avg_copies: 3.92
+    avg_copies: 3.96
   hammer-time:
     weight: 1.0
     avg_copies: 4.0
   kethis-combo:
     weight: 1.0
     avg_copies: 3.0
-  eldrazi-ramp:
-    weight: 0.3333
+  broodscale-combo:
+    weight: 1.0
     avg_copies: 4.0
   sultai-artifacts:
     weight: 1.0
-    avg_copies: 3.83
+    avg_copies: 3.6
+  izzet-cori-steel:
+    weight: 1.0
+    avg_copies: 3.33
   jund-saga:
     weight: 1.0
     avg_copies: 4.0
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 4.0
-  broodscale-combo:
-    weight: 1.0
-    avg_copies: 4.0
-  izzet-cori-steel:
-    weight: 1.0
-    avg_copies: 3.0
 ---

@@ -9,6 +9,6 @@ type: Unknown
 meta_presence: 0.0057
 archetypes:
   ruby-storm:
-    weight: 0.2
+    weight: 0.2105
     avg_copies: 1.5
 ---

@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0571
 archetypes:
   ruby-storm:
-    weight: 0.15
+    weight: 0.1579
     avg_copies: 1.33
   dimir-control:
     weight: 0.4783
@@ -19,27 +19,24 @@ archetypes:
     weight: 0.25
     avg_copies: 2.86
   azorius-control:
-    weight: 0.1176
+    weight: 0.125
     avg_copies: 2.0
-  affinity:
-    weight: 0.0411
-    avg_copies: 3.0
   boros-ponza:
     weight: 0.5714
     avg_copies: 2.0
   simic-ritual:
     weight: 0.0588
     avg_copies: 3.0
+  sultai-artifacts:
+    weight: 0.7
+    avg_copies: 2.57
+  izzet-cori-steel:
+    weight: 0.5
+    avg_copies: 1.67
   grixis-control:
     weight: 1.0
     avg_copies: 2.0
-  sultai-artifacts:
-    weight: 0.8333
-    avg_copies: 2.4
   grixis-shadow:
     weight: 1.0
     avg_copies: 2.0
-  izzet-cori-steel:
-    weight: 0.5
-    avg_copies: 1.0
 ---

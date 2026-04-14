@@ -24,9 +24,6 @@ archetypes:
   necrodominance:
     weight: 0.0714
     avg_copies: 3.0
-  affinity:
-    weight: 0.0685
-    avg_copies: 2.4
   domain-zoo:
     weight: 0.0385
     avg_copies: 1.0
@@ -46,6 +43,6 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   sultai-artifacts:
-    weight: 0.3333
-    avg_copies: 3.0
+    weight: 0.7
+    avg_copies: 2.57
 ---

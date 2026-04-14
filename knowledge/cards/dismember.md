@@ -28,8 +28,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   eldrazi-ramp:
-    weight: 0.3889
-    avg_copies: 1.62
+    weight: 0.25
+    avg_copies: 2.0
   simic-ritual:
     weight: 0.2941
     avg_copies: 1.67
@@ -37,6 +37,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.75
-    avg_copies: 2.0
+    weight: 0.7
+    avg_copies: 1.62
 ---

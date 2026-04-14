@@ -11,9 +11,6 @@ archetypes:
   hardened-scales:
     weight: 0.6667
     avg_copies: 3.5
-  eldrazi-ramp:
-    weight: 0.3333
-    avg_copies: 4.0
   broodscale-combo:
     weight: 1.0
     avg_copies: 4.0

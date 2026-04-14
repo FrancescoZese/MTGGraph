@@ -25,14 +25,14 @@ archetypes:
     weight: 1.0
     avg_copies: 1.97
   azorius-control:
-    weight: 0.5882
+    weight: 0.625
     avg_copies: 1.27
   living-end:
     weight: 1.0
     avg_copies: 3.86
   affinity:
-    weight: 0.5616
-    avg_copies: 1.8
+    weight: 0.5373
+    avg_copies: 1.86
   mono-blue-tron:
     weight: 1.0
     avg_copies: 3.0
@@ -51,15 +51,15 @@ archetypes:
   sultai-reanimator:
     weight: 1.0
     avg_copies: 2.0
+  sultai-artifacts:
+    weight: 1.0
+    avg_copies: 1.7
   esper-control:
     weight: 1.0
     avg_copies: 2.0
-  sultai-artifacts:
-    weight: 1.0
-    avg_copies: 2.0
   izzet-cori-steel:
-    weight: 0.75
-    avg_copies: 1.0
+    weight: 0.6667
+    avg_copies: 1.25
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 1.0

@@ -8,9 +8,6 @@ set: znr
 type: Sorcery // Land
 meta_presence: 0.0043
 archetypes:
-  ruby-storm:
-    weight: 0.05
-    avg_copies: 4.0
   mono-red-belcher:
     weight: 1.0
     avg_copies: 4.0

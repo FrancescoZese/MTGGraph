@@ -18,24 +18,24 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   affinity:
-    weight: 0.6712
+    weight: 0.7313
     avg_copies: 1.04
   hammer-time:
     weight: 0.5
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.7778
-    avg_copies: 1.21
+    weight: 0.8333
+    avg_copies: 1.3
+  broodscale-combo:
+    weight: 0.8
+    avg_copies: 1.0
   orzhov-blink:
     weight: 0.75
     avg_copies: 1.0
   sultai-artifacts:
-    weight: 0.3333
+    weight: 0.2
     avg_copies: 1.0
   rakdos-lantern-combo:
-    weight: 1.0
-    avg_copies: 1.0
-  broodscale-combo:
     weight: 1.0
     avg_copies: 1.0
 ---

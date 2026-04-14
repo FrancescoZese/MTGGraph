@@ -9,10 +9,10 @@ set: clb
 type: Creature — Human Cleric
 meta_presence: 0.0057
 archetypes:
+  samwise-combo:
+    weight: 0.1429
+    avg_copies: 1.0
   orzhov-blink:
     weight: 0.75
     avg_copies: 2.0
-  samwise-combo:
-    weight: 0.3333
-    avg_copies: 1.0
 ---

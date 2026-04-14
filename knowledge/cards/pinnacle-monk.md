@@ -8,9 +8,6 @@ set: mh3
 type: Creature — Djinn Monk // Land
 meta_presence: 0.0071
 archetypes:
-  ruby-storm:
-    weight: 0.05
-    avg_copies: 4.0
   mardu-blink:
     weight: 1.0
     avg_copies: 2.0

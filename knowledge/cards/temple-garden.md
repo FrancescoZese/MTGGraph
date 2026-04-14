@@ -20,12 +20,9 @@ archetypes:
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
-  yawgmoth-combo:
-    weight: 0.4
-    avg_copies: 1.0
   samwise-combo:
     weight: 1.0
-    avg_copies: 1.33
+    avg_copies: 1.14
   bant-control:
     weight: 1.0
     avg_copies: 1.0

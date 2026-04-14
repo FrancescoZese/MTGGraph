@@ -10,9 +10,9 @@ type: Instant
 meta_presence: 0.0399
 archetypes:
   affinity:
-    weight: 0.3699
+    weight: 0.403
     avg_copies: 1.3
   sultai-artifacts:
-    weight: 0.1667
+    weight: 0.1
     avg_copies: 1.0
 ---

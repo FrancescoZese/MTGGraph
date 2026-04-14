@@ -10,9 +10,6 @@ set: ltr
 type: Legendary Creature — Halfling Peasant
 meta_presence: 0.01
 archetypes:
-  yawgmoth-combo:
-    weight: 0.4
-    avg_copies: 4.0
   samwise-combo:
     weight: 1.0
     avg_copies: 4.0

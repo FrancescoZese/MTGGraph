@@ -31,7 +31,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.83
   yawgmoth-combo:
-    weight: 0.6
+    weight: 1.0
     avg_copies: 2.17
   esper-blink:
     weight: 0.875
@@ -39,6 +39,9 @@ archetypes:
   sultai-reanimator:
     weight: 1.0
     avg_copies: 4.0
+  samwise-combo:
+    weight: 0.2857
+    avg_copies: 2.5
   indomitable-creativity:
     weight: 0.1667
     avg_copies: 4.0
@@ -48,9 +51,6 @@ archetypes:
   dredge:
     weight: 1.0
     avg_copies: 2.67
-  samwise-combo:
-    weight: 0.6667
-    avg_copies: 2.5
   jund-saga:
     weight: 1.0
     avg_copies: 4.0

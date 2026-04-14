@@ -18,10 +18,10 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 3.9
-- name: Phlage, Titan of Fire's Fury
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 3.83
-- name: Arid Mesa
+- name: Phlage, Titan of Fire's Fury
   weight: 1.0
   avg_copies: 3.83
 - name: Arena of Glory
@@ -33,7 +33,7 @@ top_cards:
 - name: Elegant Parlor
   weight: 1.0
   avg_copies: 2.13
-- name: Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
+- name: Ajani, Nacatl Pariah
   weight: 0.9935
   avg_copies: 3.95
 - name: Goblin Bombardment
@@ -54,7 +54,7 @@ top_cards:
 - name: Marsh Flats
   weight: 0.9608
   avg_copies: 3.5
-- name: Wear // Tear
+- name: Wear
   weight: 0.915
   avg_copies: 1.61
 - name: Orim's Chant
@@ -81,7 +81,7 @@ top_cards:
 - name: Celestial Purge
   weight: 0.6667
   avg_copies: 1.75
-- name: The Legend of Roku // Avatar Roku
+- name: The Legend of Roku
   weight: 0.6601
   avg_copies: 1.55
 - name: High Noon
@@ -93,7 +93,7 @@ top_cards:
 - name: Ranger-Captain of Eos
   weight: 0.4379
   avg_copies: 1.73
-- name: Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+- name: Fable of the Mirror-Breaker
   weight: 0.281
   avg_copies: 1.91
 - name: Dalkovan Encampment
@@ -138,13 +138,13 @@ top_cards:
 - name: Path to Exile
   weight: 0.0458
   avg_copies: 1.2
-- name: Deafening Silence
-  weight: 0.0327
-  avg_copies: 2.2
 - name: Molten Rain
   weight: 0.0327
   avg_copies: 2.2
-- name: Witch Enchanter // Witch-Blessed Meadow
+- name: Deafening Silence
+  weight: 0.0327
+  avg_copies: 2.2
+- name: Witch Enchanter
   weight: 0.0327
   avg_copies: 1.2
 - name: Snow-Covered Mountain
@@ -165,16 +165,16 @@ top_cards:
 - name: Phelia, Exuberant Shepherd
   weight: 0.0196
   avg_copies: 1.67
-- name: Haliya, Guided by Light
+- name: Disruptor Flute
   weight: 0.0196
   avg_copies: 1.0
-- name: Disruptor Flute
+- name: Haliya, Guided by Light
   weight: 0.0196
   avg_copies: 1.0
 - name: Bloodstained Mire
   weight: 0.0131
   avg_copies: 3.0
-- name: Wear // Tear
+- name: Wear
   weight: 0.0131
   avg_copies: 2.0
 - name: Showdown of the Skalds
@@ -183,61 +183,61 @@ top_cards:
 - name: Starfield Shepherd
   weight: 0.0065
   avg_copies: 4.0
-- name: Ephemerate
-  weight: 0.0065
-  avg_copies: 2.0
-- name: Unlicensed Hearse
-  weight: 0.0065
-  avg_copies: 2.0
-- name: Reprieve
-  weight: 0.0065
-  avg_copies: 2.0
 - name: Stony Silence
-  weight: 0.0065
-  avg_copies: 2.0
-- name: Screaming Nemesis
   weight: 0.0065
   avg_copies: 2.0
 - name: White Orchid Phantom
   weight: 0.0065
   avg_copies: 2.0
-- name: Kataki, War's Wage
-  weight: 0.0065
-  avg_copies: 2.0
 - name: The Battle of Bywater
   weight: 0.0065
   avg_copies: 2.0
-- name: Giant Killer // Chop Down
+- name: Reprieve
+  weight: 0.0065
+  avg_copies: 2.0
+- name: Ephemerate
+  weight: 0.0065
+  avg_copies: 2.0
+- name: Kataki, War's Wage
+  weight: 0.0065
+  avg_copies: 2.0
+- name: Unlicensed Hearse
+  weight: 0.0065
+  avg_copies: 2.0
+- name: Screaming Nemesis
+  weight: 0.0065
+  avg_copies: 2.0
+- name: Ghost Vacuum
   weight: 0.0065
   avg_copies: 1.0
-- name: Aven Mindcensor
+- name: The Ooze
   weight: 0.0065
   avg_copies: 1.0
 - name: Cool but Rude
   weight: 0.0065
   avg_copies: 1.0
-- name: The Wandering Emperor
+- name: Hallowed Moonlight
   weight: 0.0065
   avg_copies: 1.0
-- name: Ghost Vacuum
+- name: Giant Killer
+  weight: 0.0065
+  avg_copies: 1.0
+- name: Aven Mindcensor
   weight: 0.0065
   avg_copies: 1.0
 - name: Duty Beyond Death
   weight: 0.0065
   avg_copies: 1.0
-- name: Hallowed Moonlight
-  weight: 0.0065
-  avg_copies: 1.0
 - name: Prismatic Ending
-  weight: 0.0065
-  avg_copies: 1.0
-- name: The Ooze
   weight: 0.0065
   avg_copies: 1.0
 - name: Curious Farm Animals
   weight: 0.0065
   avg_copies: 1.0
 - name: Elspeth, Storm Slayer
+  weight: 0.0065
+  avg_copies: 1.0
+- name: The Wandering Emperor
   weight: 0.0065
   avg_copies: 1.0
 ---

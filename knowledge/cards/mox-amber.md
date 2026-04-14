@@ -8,15 +8,12 @@ set: dom
 type: Legendary Artifact
 meta_presence: 0.0257
 archetypes:
-  affinity:
-    weight: 0.0822
-    avg_copies: 3.17
   kethis-combo:
     weight: 1.0
     avg_copies: 4.0
   sultai-artifacts:
     weight: 1.0
-    avg_copies: 3.17
+    avg_copies: 3.0
   izzet-cori-steel:
     weight: 1.0
     avg_copies: 4.0

@@ -28,34 +28,34 @@ archetypes:
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 1.9
+    avg_copies: 1.83
   eldrazi-ramp:
-    weight: 0.4444
-    avg_copies: 1.75
+    weight: 0.1667
+    avg_copies: 1.0
   simic-ritual:
     weight: 1.0
     avg_copies: 1.06
-  indomitable-creativity:
-    weight: 0.3333
-    avg_copies: 1.0
-  dredge:
-    weight: 0.3333
-    avg_copies: 1.5
   samwise-combo:
     weight: 1.0
     avg_copies: 2.0
+  indomitable-creativity:
+    weight: 0.3333
+    avg_copies: 1.0
+  broodscale-combo:
+    weight: 1.0
+    avg_copies: 1.9
+  dredge:
+    weight: 0.3333
+    avg_copies: 1.5
+  sultai-artifacts:
+    weight: 0.2
+    avg_copies: 1.0
   elves:
     weight: 1.0
-    avg_copies: 1.0
-  sultai-artifacts:
-    weight: 0.3333
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
-  broodscale-combo:
-    weight: 1.0
-    avg_copies: 1.75
   mono-green-ramp:
     weight: 1.0
     avg_copies: 1.0

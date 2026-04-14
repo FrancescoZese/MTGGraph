@@ -9,15 +9,15 @@ type: Land
 meta_presence: 0.1441
 archetypes:
   affinity:
-    weight: 0.9863
-    avg_copies: 2.83
+    weight: 0.9851
+    avg_copies: 2.94
   izzet-prowess:
     weight: 0.913
     avg_copies: 1.43
   sultai-artifacts:
-    weight: 0.6667
-    avg_copies: 1.25
+    weight: 0.8
+    avg_copies: 1.12
   izzet-cori-steel:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.67
 ---

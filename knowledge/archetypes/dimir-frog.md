@@ -9,10 +9,10 @@ top_cards:
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 3.91
-- name: Psychic Frog
+- name: Fatal Push
   weight: 1.0
   avg_copies: 3.64
-- name: Fatal Push
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 3.64
 - name: Counterspell
@@ -33,10 +33,10 @@ top_cards:
 - name: Spell Snare
   weight: 1.0
   avg_copies: 2.45
-- name: Island
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.09
-- name: Mystical Dispute
+- name: Island
   weight: 1.0
   avg_copies: 2.09
 - name: Undercity Sewers
@@ -51,7 +51,7 @@ top_cards:
 - name: Thoughtseize
   weight: 0.9091
   avg_copies: 3.2
-- name: Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+- name: Tamiyo, Inquisitive Student
   weight: 0.8182
   avg_copies: 2.22
 - name: Toxic Deluge
@@ -60,7 +60,7 @@ top_cards:
 - name: Quantum Riddler
   weight: 0.7273
   avg_copies: 2.62
-- name: Sink into Stupor // Soporific Springs
+- name: Sink into Stupor
   weight: 0.7273
   avg_copies: 1.88
 - name: Cling to Dust
@@ -78,9 +78,6 @@ top_cards:
 - name: Flooded Strand
   weight: 0.6364
   avg_copies: 2.0
-- name: Marsh Flats
-  weight: 0.6364
-  avg_copies: 1.57
 - name: Ghost Vacuum
   weight: 0.6364
   avg_copies: 1.57
@@ -90,10 +87,13 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.6364
   avg_copies: 1.57
-- name: Stern Scolding
+- name: Marsh Flats
+  weight: 0.6364
+  avg_copies: 1.57
+- name: Otawara, Soaring City
   weight: 0.6364
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Stern Scolding
   weight: 0.6364
   avg_copies: 1.0
 - name: Misty Rainforest
@@ -108,19 +108,19 @@ top_cards:
 - name: Break the Ice
   weight: 0.2727
   avg_copies: 2.67
-- name: Snapcaster Mage
-  weight: 0.2727
-  avg_copies: 1.67
 - name: Drown in the Loch
   weight: 0.2727
   avg_copies: 1.67
+- name: Snapcaster Mage
+  weight: 0.2727
+  avg_copies: 1.67
+- name: Scalding Tarn
+  weight: 0.2727
+  avg_copies: 1.33
 - name: Murktide Regent
   weight: 0.2727
   avg_copies: 1.33
-- name: Graveyard Trespasser // Graveyard Glutton
-  weight: 0.2727
-  avg_copies: 1.33
-- name: Scalding Tarn
+- name: Graveyard Trespasser
   weight: 0.2727
   avg_copies: 1.33
 - name: Strategic Betrayal
@@ -135,36 +135,33 @@ top_cards:
 - name: Hallowed Fountain
   weight: 0.1818
   avg_copies: 1.0
-- name: Gloomlake Verge
-  weight: 0.1818
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.1818
-  avg_copies: 1.0
-- name: Field of Ruin
-  weight: 0.1818
-  avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.1818
   avg_copies: 1.0
 - name: Shoot the Sheriff
   weight: 0.1818
   avg_copies: 1.0
-- name: Moonshadow
-  weight: 0.0909
-  avg_copies: 4.0
+- name: Meticulous Archive
+  weight: 0.1818
+  avg_copies: 1.0
+- name: Gloomlake Verge
+  weight: 0.1818
+  avg_copies: 1.0
+- name: Field of Ruin
+  weight: 0.1818
+  avg_copies: 1.0
 - name: Mishra's Bauble
   weight: 0.0909
   avg_copies: 4.0
-- name: Dress Down
+- name: Moonshadow
   weight: 0.0909
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Bloodstained Mire
   weight: 0.0909
   avg_copies: 3.0
-- name: Archmage's Charm
+- name: Dress Down
   weight: 0.0909
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Thraben Charm
   weight: 0.0909
   avg_copies: 2.0
@@ -174,7 +171,10 @@ top_cards:
 - name: Consult the Star Charts
   weight: 0.0909
   avg_copies: 2.0
-- name: High Noon
+- name: Archmage's Charm
+  weight: 0.0909
+  avg_copies: 2.0
+- name: Prismatic Ending
   weight: 0.0909
   avg_copies: 1.0
 - name: Vanishing Verse
@@ -183,10 +183,10 @@ top_cards:
 - name: Celestial Purge
   weight: 0.0909
   avg_copies: 1.0
-- name: Prismatic Ending
+- name: Teferi, Time Raveler
   weight: 0.0909
   avg_copies: 1.0
-- name: Teferi, Time Raveler
+- name: High Noon
   weight: 0.0909
   avg_copies: 1.0
 ---

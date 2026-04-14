@@ -9,6 +9,6 @@ type: Artifact
 meta_presence: 0.0927
 archetypes:
   affinity:
-    weight: 0.8904
+    weight: 0.9701
     avg_copies: 2.8
 ---

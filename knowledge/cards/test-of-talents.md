@@ -9,10 +9,7 @@ set: stx
 type: Instant
 meta_presence: 0.0071
 archetypes:
-  affinity:
-    weight: 0.0137
-    avg_copies: 3.0
   izzet-cori-steel:
-    weight: 1.0
-    avg_copies: 2.0
+    weight: 0.8333
+    avg_copies: 2.2
 ---

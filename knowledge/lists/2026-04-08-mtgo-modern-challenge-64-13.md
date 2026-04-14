@@ -1,5 +1,5 @@
 ---
-archetype: yawgmoth-combo
+archetype: samwise-combo
 date: '2026-04-08'
 finish: 13th
 pilot: Alan07

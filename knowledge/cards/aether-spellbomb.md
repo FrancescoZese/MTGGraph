@@ -9,10 +9,10 @@ type: Artifact
 meta_presence: 0.0556
 archetypes:
   affinity:
-    weight: 0.4384
+    weight: 0.4328
     avg_copies: 1.0
   sultai-artifacts:
-    weight: 0.5
+    weight: 0.4
     avg_copies: 1.0
   izzet-cori-steel:
     weight: 1.0

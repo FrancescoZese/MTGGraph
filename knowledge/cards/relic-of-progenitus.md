@@ -12,7 +12,7 @@ archetypes:
     weight: 0.2963
     avg_copies: 1.0
   mono-red-belcher:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 4.0
   orzhov-blink:
     weight: 0.25

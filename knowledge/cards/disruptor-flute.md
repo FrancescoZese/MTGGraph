@@ -18,13 +18,13 @@ archetypes:
     weight: 0.0714
     avg_copies: 2.0
   azorius-control:
-    weight: 0.0588
+    weight: 0.0625
     avg_copies: 1.0
   burn:
     weight: 0.3333
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.4444
+    weight: 0.6667
     avg_copies: 1.88
   elves:
     weight: 1.0

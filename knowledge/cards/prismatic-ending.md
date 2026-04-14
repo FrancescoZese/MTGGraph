@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.1712
 archetypes:
   ruby-storm:
-    weight: 0.9
+    weight: 0.9474
     avg_copies: 3.22
   boros-energy:
     weight: 0.0065
@@ -29,7 +29,7 @@ archetypes:
     avg_copies: 2.27
   azorius-control:
     weight: 1.0
-    avg_copies: 2.82
+    avg_copies: 2.88
   boros-ponza:
     weight: 0.1429
     avg_copies: 2.0

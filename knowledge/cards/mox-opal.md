@@ -23,10 +23,10 @@ archetypes:
   sultai-artifacts:
     weight: 1.0
     avg_copies: 4.0
+  izzet-cori-steel:
+    weight: 1.0
+    avg_copies: 3.67
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 1.0
-  izzet-cori-steel:
-    weight: 1.0
-    avg_copies: 3.5
 ---

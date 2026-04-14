@@ -12,19 +12,16 @@ archetypes:
   necrodominance:
     weight: 0.0714
     avg_copies: 1.0
-  eldrazi-ramp:
-    weight: 0.1111
-    avg_copies: 2.0
   simic-ritual:
     weight: 0.0588
     avg_copies: 1.0
   izzet-prowess:
     weight: 0.2174
     avg_copies: 1.4
+  broodscale-combo:
+    weight: 0.4
+    avg_copies: 1.75
   dredge:
     weight: 0.3333
     avg_copies: 2.0
-  broodscale-combo:
-    weight: 0.5
-    avg_copies: 1.5
 ---

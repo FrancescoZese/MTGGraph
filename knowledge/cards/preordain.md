@@ -19,8 +19,8 @@ archetypes:
     weight: 0.3529
     avg_copies: 3.33
   affinity:
-    weight: 0.1918
-    avg_copies: 2.79
+    weight: 0.194
+    avg_copies: 2.69
   neoform-combo:
     weight: 0.0769
     avg_copies: 1.0
@@ -28,12 +28,12 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   sultai-artifacts:
-    weight: 0.3333
+    weight: 0.1
+    avg_copies: 3.0
+  izzet-cori-steel:
+    weight: 1.0
     avg_copies: 3.5
   izzet-eldrazi:
     weight: 1.0
     avg_copies: 3.0
-  izzet-cori-steel:
-    weight: 1.0
-    avg_copies: 3.25
 ---

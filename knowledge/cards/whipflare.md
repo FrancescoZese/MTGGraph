@@ -13,9 +13,12 @@ archetypes:
     weight: 1.0
     avg_copies: 2.33
   affinity:
-    weight: 0.8904
-    avg_copies: 2.03
+    weight: 0.9403
+    avg_copies: 2.02
+  sultai-artifacts:
+    weight: 0.1
+    avg_copies: 3.0
   izzet-cori-steel:
-    weight: 1.0
+    weight: 0.8333
     avg_copies: 2.0
 ---

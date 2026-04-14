@@ -10,13 +10,13 @@ top_cards:
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
+- name: Preordain
+  weight: 1.0
+  avg_copies: 4.0
 - name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Cori-Steel Cutter
-  weight: 1.0
-  avg_copies: 4.0
-- name: Preordain
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
@@ -85,10 +85,10 @@ top_cards:
 - name: Stomping Ground
   weight: 0.3913
   avg_copies: 1.22
-- name: Into the Flood Maw
+- name: Spell Snare
   weight: 0.3043
   avg_copies: 1.29
-- name: Spell Snare
+- name: Into the Flood Maw
   weight: 0.3043
   avg_copies: 1.29
 - name: Heritage Reclamation
@@ -112,43 +112,43 @@ top_cards:
 - name: Academic Dispute
   weight: 0.1739
   avg_copies: 4.0
-- name: Octopus Form
+- name: It'll Quench Ya!
   weight: 0.1739
   avg_copies: 1.0
-- name: It'll Quench Ya!
+- name: Octopus Form
   weight: 0.1739
   avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.1304
   avg_copies: 1.33
-- name: Price of Freedom
-  weight: 0.1304
-  avg_copies: 1.0
 - name: Firebending Lesson
-  weight: 0.1304
-  avg_copies: 1.0
-- name: Origin of Metalbending
   weight: 0.1304
   avg_copies: 1.0
 - name: Iroh's Demonstration
   weight: 0.1304
   avg_copies: 1.0
+- name: Origin of Metalbending
+  weight: 0.1304
+  avg_copies: 1.0
+- name: Price of Freedom
+  weight: 0.1304
+  avg_copies: 1.0
 - name: Vexing Bauble
   weight: 0.087
   avg_copies: 3.5
-- name: Questing Druid // Seek the Beast
+- name: Questing Druid
   weight: 0.087
   avg_copies: 3.25
-- name: Abhorrent Oculus
+- name: Blood Moon
   weight: 0.087
   avg_copies: 2.0
 - name: Force of Negation
   weight: 0.087
   avg_copies: 2.0
-- name: Blood Moon
+- name: Misty Rainforest
   weight: 0.087
   avg_copies: 2.0
-- name: Misty Rainforest
+- name: Abhorrent Oculus
   weight: 0.087
   avg_copies: 2.0
 - name: Monstrous Rage
@@ -157,19 +157,19 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 0.087
   avg_copies: 1.5
-- name: Island
-  weight: 0.087
-  avg_copies: 1.0
 - name: Accumulate Wisdom
-  weight: 0.087
-  avg_copies: 1.0
-- name: End the Festivities
   weight: 0.087
   avg_copies: 1.0
 - name: True Ancestry
   weight: 0.087
   avg_copies: 1.0
+- name: End the Festivities
+  weight: 0.087
+  avg_copies: 1.0
 - name: Redirect Lightning
+  weight: 0.087
+  avg_copies: 1.0
+- name: Island
   weight: 0.087
   avg_copies: 1.0
 - name: Prismatic Ending
@@ -178,28 +178,28 @@ top_cards:
 - name: Alpine Moon
   weight: 0.0435
   avg_copies: 2.0
-- name: Shatterstorm
-  weight: 0.0435
-  avg_copies: 1.0
 - name: Flooded Strand
   weight: 0.0435
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.0435
   avg_copies: 1.0
-- name: Riverpyre Verge
-  weight: 0.0435
-  avg_copies: 1.0
-- name: Wear // Tear
-  weight: 0.0435
-  avg_copies: 1.0
 - name: Polluted Delta
   weight: 0.0435
   avg_copies: 1.0
-- name: The Legend of Roku // Avatar Roku
+- name: Wear
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Riverpyre Verge
+  weight: 0.0435
+  avg_copies: 1.0
+- name: The Legend of Roku
   weight: 0.0435
   avg_copies: 1.0
 - name: Combustion Technique
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Shatterstorm
   weight: 0.0435
   avg_copies: 1.0
 ---

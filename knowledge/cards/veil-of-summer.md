@@ -18,10 +18,10 @@ archetypes:
   sultai-reanimator:
     weight: 1.0
     avg_copies: 2.0
+  samwise-combo:
+    weight: 0.1429
+    avg_copies: 1.0
   indomitable-creativity:
     weight: 0.1667
-    avg_copies: 1.0
-  samwise-combo:
-    weight: 0.3333
     avg_copies: 1.0
 ---

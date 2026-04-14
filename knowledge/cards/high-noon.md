@@ -25,7 +25,7 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   azorius-control:
-    weight: 0.4706
+    weight: 0.5
     avg_copies: 1.75
   living-end:
     weight: 0.0714
@@ -39,12 +39,12 @@ archetypes:
   boros-ponza:
     weight: 0.8571
     avg_copies: 2.0
-  yawgmoth-combo:
-    weight: 0.2
-    avg_copies: 2.0
   esper-blink:
     weight: 0.75
     avg_copies: 2.33
+  samwise-combo:
+    weight: 0.2857
+    avg_copies: 2.0
   indomitable-creativity:
     weight: 0.5
     avg_copies: 3.0
@@ -58,6 +58,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   jeskai-control:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 2.0
 ---

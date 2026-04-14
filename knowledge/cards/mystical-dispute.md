@@ -29,13 +29,13 @@ archetypes:
     avg_copies: 3.0
   azorius-control:
     weight: 1.0
-    avg_copies: 3.12
+    avg_copies: 3.06
   living-end:
     weight: 0.9286
     avg_copies: 3.23
   affinity:
-    weight: 0.8082
-    avg_copies: 1.41
+    weight: 0.8507
+    avg_copies: 1.39
   domain-zoo:
     weight: 0.9615
     avg_copies: 2.84
@@ -78,6 +78,9 @@ archetypes:
   azorius-blink:
     weight: 0.3333
     avg_copies: 1.0
+  sultai-artifacts:
+    weight: 0.2
+    avg_copies: 2.0
   esper-control:
     weight: 1.0
     avg_copies: 3.0
@@ -87,10 +90,10 @@ archetypes:
   izzet-eldrazi:
     weight: 1.0
     avg_copies: 2.0
-  izzet-splinter-twin:
-    weight: 1.0
-    avg_copies: 3.0
   jeskai-control:
+    weight: 1.0
+    avg_copies: 3.5
+  izzet-splinter-twin:
     weight: 1.0
     avg_copies: 3.0
 ---

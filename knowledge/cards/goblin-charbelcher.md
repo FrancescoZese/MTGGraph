@@ -8,9 +8,6 @@ set: ddt
 type: Artifact
 meta_presence: 0.0285
 archetypes:
-  ruby-storm:
-    weight: 0.05
-    avg_copies: 4.0
   mono-blue-belcher:
     weight: 1.0
     avg_copies: 4.0

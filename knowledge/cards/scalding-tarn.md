@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.281
 archetypes:
   ruby-storm:
-    weight: 0.95
+    weight: 1.0
     avg_copies: 2.16
   dimir-control:
     weight: 0.2174
@@ -21,11 +21,11 @@ archetypes:
     weight: 0.9846
     avg_copies: 3.0
   azorius-control:
-    weight: 0.9412
+    weight: 1.0
     avg_copies: 2.31
   affinity:
-    weight: 0.1507
-    avg_copies: 3.27
+    weight: 0.0896
+    avg_copies: 2.67
   mill:
     weight: 1.0
     avg_copies: 1.0
@@ -53,15 +53,21 @@ archetypes:
   dredge:
     weight: 1.0
     avg_copies: 3.67
+  sultai-artifacts:
+    weight: 0.9
+    avg_copies: 3.67
+  izzet-cori-steel:
+    weight: 0.1667
+    avg_copies: 4.0
   grixis-control:
     weight: 1.0
     avg_copies: 3.0
-  sultai-artifacts:
-    weight: 0.8333
-    avg_copies: 3.4
   izzet-eldrazi:
     weight: 1.0
     avg_copies: 4.0
+  jeskai-control:
+    weight: 0.5
+    avg_copies: 3.0
   grixis-shadow:
     weight: 1.0
     avg_copies: 3.0
@@ -71,7 +77,4 @@ archetypes:
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 4.0
-  jeskai-control:
-    weight: 1.0
-    avg_copies: 3.0
 ---

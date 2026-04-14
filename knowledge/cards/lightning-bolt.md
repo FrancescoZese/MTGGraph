@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.1327
 archetypes:
   ruby-storm:
-    weight: 0.2
+    weight: 0.2105
     avg_copies: 1.0
   boros-energy:
     weight: 0.098
@@ -28,7 +28,7 @@ archetypes:
     weight: 0.7778
     avg_copies: 2.71
   eldrazi-ramp:
-    weight: 0.1667
+    weight: 0.25
     avg_copies: 1.0
   izzet-prowess:
     weight: 1.0

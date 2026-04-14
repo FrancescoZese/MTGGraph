@@ -18,8 +18,8 @@ archetypes:
     weight: 0.1111
     avg_copies: 2.0
   eldrazi-ramp:
-    weight: 0.8889
-    avg_copies: 1.44
+    weight: 1.0
+    avg_copies: 1.58
   simic-ritual:
     weight: 0.0588
     avg_copies: 1.0
@@ -32,16 +32,16 @@ archetypes:
   indomitable-creativity:
     weight: 1.0
     avg_copies: 1.0
+  broodscale-combo:
+    weight: 0.6
+    avg_copies: 1.0
   dredge:
     weight: 0.3333
     avg_copies: 2.0
   sultai-artifacts:
-    weight: 0.1667
+    weight: 0.1
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
-    avg_copies: 1.0
-  broodscale-combo:
-    weight: 0.5
     avg_copies: 1.0
 ---

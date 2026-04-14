@@ -9,14 +9,11 @@ type: Artifact
 meta_presence: 0.02
 archetypes:
   affinity:
-    weight: 0.0411
+    weight: 0.0448
     avg_copies: 1.0
   hammer-time:
     weight: 0.5
     avg_copies: 2.0
-  eldrazi-ramp:
-    weight: 0.3333
-    avg_copies: 1.0
   broodscale-combo:
     weight: 1.0
     avg_copies: 1.0

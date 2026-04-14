@@ -1,5 +1,5 @@
 ---
-archetype: yawgmoth-combo
+archetype: samwise-combo
 date: '2026-04-12'
 finish: 5-0
 pilot: Pardub

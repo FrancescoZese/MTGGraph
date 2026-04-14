@@ -10,13 +10,13 @@ type: Instant
 meta_presence: 0.0228
 archetypes:
   ruby-storm:
-    weight: 0.1
+    weight: 0.1053
     avg_copies: 2.0
   mono-blue-belcher:
     weight: 0.6471
     avg_copies: 1.64
   affinity:
-    weight: 0.0274
+    weight: 0.0299
     avg_copies: 1.0
   bant-ritual:
     weight: 1.0

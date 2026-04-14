@@ -13,7 +13,7 @@ archetypes:
     avg_copies: 4.0
   affinity:
     weight: 1.0
-    avg_copies: 3.92
+    avg_copies: 3.91
   hammer-time:
     weight: 0.5
     avg_copies: 4.0
@@ -29,13 +29,13 @@ archetypes:
   sultai-artifacts:
     weight: 1.0
     avg_copies: 4.0
+  izzet-cori-steel:
+    weight: 1.0
+    avg_copies: 4.0
   grixis-shadow:
     weight: 1.0
     avg_copies: 4.0
   rakdos-steel-cutter:
-    weight: 1.0
-    avg_copies: 4.0
-  izzet-cori-steel:
     weight: 1.0
     avg_copies: 4.0
 ---

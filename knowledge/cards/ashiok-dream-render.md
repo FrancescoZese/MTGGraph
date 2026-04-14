@@ -23,10 +23,10 @@ archetypes:
     weight: 0.2143
     avg_copies: 1.67
   azorius-control:
-    weight: 0.2941
+    weight: 0.3125
     avg_copies: 1.0
   affinity:
-    weight: 0.0685
+    weight: 0.0746
     avg_copies: 1.0
   domain-zoo:
     weight: 0.5769
@@ -35,7 +35,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.5
+    weight: 0.8333
     avg_copies: 1.2
   esper-blink:
     weight: 0.25
