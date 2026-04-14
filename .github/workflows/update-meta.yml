@@ -27,7 +27,7 @@ jobs:
 
       - name: Fetch and ingest new tournaments
         run: python -u -m scripts.update_meta --auto --top 16
-        timeout-minutes: 15
+        timeout-minutes: 30
         env:
           PYTHONUNBUFFERED: "1"
 

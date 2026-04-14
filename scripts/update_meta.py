@@ -91,10 +91,10 @@ def find_new_events(since: str, challenges_only: bool = False) -> list[dict]:
     return events
 
 
-def fetch_and_save_decks(event: dict, top_n: int) -> list[Path]:
+def fetch_and_save_decks(event: dict, top_n: int, league_top_n: int | None = None) -> list[Path]:
     """Fetch decklists from an event and save to raw/.
 
-    For leagues, takes all decks (they're already curated 5-0s).
+    For leagues, takes league_top_n decks (or all if None).
     For challenges, respects top_n.
     """
     from scripts.fetch_tournament import fetch_decks, deck_to_markdown
@@ -102,7 +102,10 @@ def fetch_and_save_decks(event: dict, top_n: int) -> list[Path]:
     print(f"  Downloading from {event['url']}...", flush=True)
     decks = fetch_decks(event["url"])
     print(f"  Got {len(decks)} decks", flush=True)
-    limit = len(decks) if event["type"] == "league" else min(top_n, len(decks))
+    if event["type"] == "league":
+        limit = min(league_top_n, len(decks)) if league_top_n else len(decks)
+    else:
+        limit = min(top_n, len(decks))
 
     RAW_DIR.mkdir(exist_ok=True)
     saved = []
@@ -123,6 +126,7 @@ def main():
 
     threshold = 0.5
     top_n = 16
+    league_top_n = None  # None = all
     challenges_only = False
     auto_mode = "--auto" in args
 
@@ -132,6 +136,9 @@ def main():
     if "--top" in args:
         idx = args.index("--top")
         top_n = int(args[idx + 1])
+    if "--league-top" in args:
+        idx = args.index("--league-top")
+        league_top_n = int(args[idx + 1])
     if "--challenges-only" in args:
         challenges_only = True
 
