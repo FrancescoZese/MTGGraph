@@ -184,6 +184,11 @@ def main():
     # Import here to avoid slow startup
     from scripts.ingest import ingest_list
     from scripts.compute import write_graph
+    from scripts.profile_cache import ProfileCache
+
+    # Load cache once — avoids rereading all list files for every ingestion
+    cache = ProfileCache(KNOWLEDGE_DIR)
+    cache.load()
 
     ingested = 0
     skipped = 0
@@ -197,29 +202,28 @@ def main():
                 pilot = line.split(":", 1)[1].strip()
                 break
 
-        print(f"--- {path.name} ({pilot}) ---")
+        print(f"--- {path.name} ({pilot}) ---", flush=True)
 
-        result = ingest_list(raw_text, KNOWLEDGE_DIR, threshold=threshold)
+        result = ingest_list(raw_text, KNOWLEDGE_DIR, threshold=threshold, cache=cache)
 
         if result.get("duplicate_of"):
-            print(f"  SKIP: duplicate")
+            print(f"  SKIP: duplicate", flush=True)
             skipped += 1
             continue
 
         if result.get("needs_archetype"):
-            print(f"  NEW ARCHETYPE needed")
-            print(f"  Colors: {result['colors']}")
-            print(f"  Top cards:")
+            print(f"  NEW ARCHETYPE needed", flush=True)
+            print(f"  Colors: {result['colors']}", flush=True)
+            print(f"  Top cards:", flush=True)
             for card in result["top_cards"][:8]:
-                print(f"    {card}")
+                print(f"    {card}", flush=True)
 
             if auto_mode:
-                # Auto-name as Unknown #N
                 unknown_num = _next_unknown_number()
                 name = f"Unknown #{unknown_num}"
                 slug = f"unknown-{unknown_num}"
                 desc = "Unclassified archetype, pending review."
-                print(f"  AUTO: {name}")
+                print(f"  AUTO: {name}", flush=True)
             else:
                 name = input("  Archetype name (or 'skip'): ").strip()
                 if name.lower() == "skip":
@@ -234,6 +238,7 @@ def main():
                 archetype_name=name,
                 archetype_slug=slug,
                 archetype_description=desc,
+                cache=cache,
             )
             new_archetypes.append(name)
 

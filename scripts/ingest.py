@@ -10,6 +10,8 @@ from scripts.archetype_manager import (
     compute_archetype_profile,
     write_archetype,
 )
+
+
 def ingest_list(
     raw_text: str,
     knowledge_dir: Path,
@@ -17,15 +19,12 @@ def ingest_list(
     archetype_name: str | None = None,
     archetype_slug: str | None = None,
     archetype_description: str = "",
+    cache=None,
 ) -> dict:
     """Ingest a raw decklist into the knowledge base.
 
-    If the list doesn't match an existing archetype and archetype_name/slug
-    are provided, creates the archetype with those values. If not provided
-    and no match is found, returns with needs_archetype=True so the caller
-    can provide the name interactively.
-
-    Returns dict with archetype slug, whether it's new, and the saved list path.
+    If cache (ProfileCache) is provided, uses it for fast dedup and profile
+    lookups instead of reading all files from disk.
     """
     knowledge_dir = Path(knowledge_dir)
     cards_dir = knowledge_dir / "cards"
@@ -35,16 +34,22 @@ def ingest_list(
     parsed = parse_decklist(raw_text)
     metadata = parsed["metadata"]
 
-    # Dedup check: skip if a list with same date+pilot+source already exists
-    duplicate = _find_duplicate(metadata, lists_dir)
-    if duplicate:
-        return {
-            "archetype": None,
-            "is_new_archetype": False,
-            "needs_archetype": False,
-            "duplicate_of": str(duplicate),
-            "list_path": None,
-        }
+    # Dedup check
+    if cache:
+        if cache.is_duplicate(metadata):
+            return {
+                "archetype": None, "is_new_archetype": False,
+                "needs_archetype": False, "duplicate_of": "cached",
+                "list_path": None,
+            }
+    else:
+        duplicate = _find_duplicate(metadata, lists_dir)
+        if duplicate:
+            return {
+                "archetype": None, "is_new_archetype": False,
+                "needs_archetype": False, "duplicate_of": str(duplicate),
+                "list_path": None,
+            }
 
     # Ensure card files exist for every card in the list
     for card_name in parsed["all_card_names"]:
@@ -56,13 +61,16 @@ def ingest_list(
     # Build weight vector for this list
     list_weights = card_weights(parsed["mainboard"], parsed["sideboard"])
 
-    # Compute profiles for all existing archetypes
-    archetypes = list_archetypes(archetypes_dir)
-    profiles = {}
-    for arch in archetypes:
-        profile = compute_archetype_profile(arch["slug"], lists_dir)
-        if profile:
-            profiles[arch["slug"]] = profile
+    # Get archetype profiles
+    if cache:
+        profiles = cache.profiles
+    else:
+        archetypes = list_archetypes(archetypes_dir)
+        profiles = {}
+        for arch in archetypes:
+            profile = compute_archetype_profile(arch["slug"], lists_dir)
+            if profile:
+                profiles[arch["slug"]] = profile
 
     # Find best match
     match_slug, score = find_best_match(list_weights, profiles, threshold=threshold)
@@ -70,31 +78,26 @@ def ingest_list(
 
     if is_new:
         if not archetype_name or not archetype_slug:
-            # Return early -- caller needs to provide archetype info
             top_cards = sorted(parsed["mainboard"].items(), key=lambda x: -x[1])[:10]
             colors = _derive_colors(parsed["mainboard"], cards_dir)
             return {
-                "archetype": None,
-                "is_new_archetype": True,
+                "archetype": None, "is_new_archetype": True,
                 "needs_archetype": True,
                 "top_cards": [f"{c}: {n}" for n, c in [(count, name) for name, count in top_cards]],
-                "colors": colors,
-                "list_path": None,
+                "colors": colors, "list_path": None,
             }
 
         colors = _derive_colors(parsed["mainboard"], cards_dir)
         match_slug = archetype_slug
-        write_archetype(
-            archetypes_dir,
-            archetype_slug,
-            archetype_name,
-            colors,
-            archetype_description,
-        )
+        write_archetype(archetypes_dir, archetype_slug, archetype_name, colors, archetype_description)
 
-    # Save the list file with archetype assigned
+    # Save the list file
     metadata["archetype"] = match_slug
     list_path = _save_list(raw_text, metadata, lists_dir)
+
+    # Update cache if provided
+    if cache:
+        cache.add_list(parsed, match_slug)
 
     return {
         "archetype": match_slug,
@@ -146,7 +149,6 @@ def _save_list(raw_text: str, metadata: dict, lists_dir: Path) -> Path:
     source = metadata.get("source", "unknown")
     source_slug = slugify(source)
 
-    # Find a unique filename
     base = f"{date}-{source_slug}"
     path = lists_dir / f"{base}.md"
     counter = 1
@@ -154,8 +156,6 @@ def _save_list(raw_text: str, metadata: dict, lists_dir: Path) -> Path:
         counter += 1
         path = lists_dir / f"{base}-{counter}.md"
 
-    # Rebuild the file with updated frontmatter
-    # Extract body (everything after frontmatter)
     body = raw_text.strip()
     if body.startswith("---"):
         parts = body.split("---", 2)
