@@ -42,53 +42,90 @@ def get_last_ingested_date() -> str:
 
 
 def find_new_events(since: str, challenges_only: bool = False) -> list[dict]:
-    """Fetch the MTGO decklists page and find Modern events after `since` date."""
+    """Find Modern events newer than `since` date.
+
+    Uses two strategies:
+    1. Fetch the MTGO decklists page and parse links (primary)
+    2. Generate league URLs directly using known ID pattern (fallback for leagues)
+    """
+    events = []
+    seen = set()
+
+    # Strategy 1: Parse the MTGO decklists page
     print("Fetching MTGO decklists page...", flush=True)
     try:
         resp = requests.get(MTGO_DECKLISTS_URL, timeout=90)
         resp.raise_for_status()
+        print(f"  Got {len(resp.text)} bytes", flush=True)
+
+        pattern = r"/decklist/(modern-(challenge|league)[\w-]+)"
+        matches = re.findall(pattern, resp.text)
+
+        for slug, event_type in matches:
+            if slug in seen:
+                continue
+            seen.add(slug)
+
+            if challenges_only and event_type == "league":
+                continue
+
+            date_match = re.search(r"(\d{4}-\d{2}-\d{2})", slug)
+            if not date_match:
+                continue
+            event_date = date_match.group(1)
+
+            if event_date <= since:
+                continue
+
+            name_match = re.match(r"([\w-]+)-\d{4}-\d{2}-\d{2}", slug)
+            raw_name = name_match.group(1) if name_match else slug
+            event_name = "MTGO " + raw_name.replace("-", " ").title()
+
+            events.append({
+                "slug": slug,
+                "date": event_date,
+                "name": event_name,
+                "type": event_type,
+                "url": f"{MTGO_BASE_URL}/{slug}",
+            })
+
     except requests.exceptions.RequestException as e:
-        print(f"ERROR: Failed to fetch MTGO decklists page: {e}")
-        return []
-    print(f"  Got {len(resp.text)} bytes", flush=True)
+        print(f"  WARNING: Failed to fetch decklists page: {e}", flush=True)
 
-    pattern = r"/decklist/(modern-(challenge|league)[\w-]+)"
-    matches = re.findall(pattern, resp.text)
+    # Strategy 2: Generate league URLs for dates not found in page
+    # Modern League ID is always 10397
+    if not challenges_only:
+        from datetime import datetime, timedelta
+        since_date = datetime.strptime(since, "%Y-%m-%d").date()
+        today = datetime.now().date()
+        d = since_date + timedelta(days=1)
+        while d <= today:
+            date_str = d.strftime("%Y-%m-%d")
+            slug = f"modern-league-{date_str}10397"
+            if slug not in seen:
+                seen.add(slug)
+                events.append({
+                    "slug": slug,
+                    "date": date_str,
+                    "name": "MTGO Modern League",
+                    "type": "league",
+                    "url": f"{MTGO_BASE_URL}/{slug}",
+                })
+            d += timedelta(days=1)
 
-    seen = set()
-    events = []
-    for slug, event_type in matches:
-        if slug in seen:
-            continue
-        seen.add(slug)
-
-        if challenges_only and event_type == "league":
-            continue
-
-        date_match = re.search(r"(\d{4}-\d{2}-\d{2})", slug)
-        if not date_match:
-            continue
-        event_date = date_match.group(1)
-
-        if event_date <= since:
-            continue
-
-        # Extract event name
-        name_match = re.match(r"([\w-]+)-\d{4}-\d{2}-\d{2}", slug)
-        raw_name = name_match.group(1) if name_match else slug
-        event_name = "MTGO " + raw_name.replace("-", " ").title()
-
-        events.append({
-            "slug": slug,
-            "date": event_date,
-            "name": event_name,
-            "type": event_type,
-            "url": f"{MTGO_BASE_URL}/{slug}",
-        })
-
-    # Sort by date ascending (oldest first, so we ingest chronologically)
+    # Sort by date ascending
     events.sort(key=lambda e: e["date"])
-    return events
+
+    # Deduplicate by date+type (keep first occurrence)
+    final = []
+    final_keys = set()
+    for e in events:
+        key = (e["date"], e["type"], e["slug"])
+        if key not in final_keys:
+            final_keys.add(key)
+            final.append(e)
+
+    return final
 
 
 def fetch_and_save_decks(event: dict, top_n: int, league_top_n: int | None = None) -> list[Path]:
