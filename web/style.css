@@ -555,6 +555,19 @@ body {
 
 .tab-content.hidden { display: none; }
 
+/* ---- Variants Chart ---- */
+
+#variants-chart {
+    display: flex;
+    justify-content: center;
+    padding: 8px 0;
+}
+
+#variants-chart svg {
+    max-width: 100%;
+    height: auto;
+}
+
 /* ---- Tournament Groups ---- */
 
 .tournament-group {

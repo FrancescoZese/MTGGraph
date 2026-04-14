@@ -1028,6 +1028,236 @@ function animateTabContent(container) {
     if (deckBars.length) gsap.delayedCall(0.15, () => animateBars(deckBars));
 }
 
+/* ── Variants chart ── */
+
+function deckDistance(a, b) {
+    // Count total card differences (mainboard only)
+    const allCards = new Set([...Object.keys(a), ...Object.keys(b)]);
+    let diff = 0;
+    for (const c of allCards) diff += Math.abs((a[c] || 0) - (b[c] || 0));
+    return diff;
+}
+
+function computeAvgDeck(lists) {
+    const sums = {};
+    for (const l of lists) {
+        for (const [card, qty] of Object.entries(l.mainboard)) {
+            sums[card] = (sums[card] || 0) + qty;
+        }
+    }
+    const avg = {};
+    for (const [card, total] of Object.entries(sums)) {
+        avg[card] = total / lists.length;
+    }
+    return avg;
+}
+
+function clusterLists(lists, threshold) {
+    // Simple agglomerative clustering: merge lists within threshold distance
+    const clusters = lists.map((l, i) => ({
+        lists: [l],
+        indices: [i],
+        mainboard: { ...l.mainboard }
+    }));
+
+    let merged = true;
+    while (merged) {
+        merged = false;
+        let bestI = -1, bestJ = -1, bestDist = Infinity;
+        for (let i = 0; i < clusters.length; i++) {
+            for (let j = i + 1; j < clusters.length; j++) {
+                const d = deckDistance(clusters[i].mainboard, clusters[j].mainboard);
+                if (d < bestDist) { bestDist = d; bestI = i; bestJ = j; }
+            }
+        }
+        if (bestDist <= threshold && bestI >= 0) {
+            // Merge j into i
+            const ci = clusters[bestI], cj = clusters[bestJ];
+            ci.lists.push(...cj.lists);
+            ci.indices.push(...cj.indices);
+            // Recompute centroid mainboard
+            const avg = {};
+            for (const l of ci.lists) {
+                for (const [card, qty] of Object.entries(l.mainboard)) {
+                    avg[card] = (avg[card] || 0) + qty;
+                }
+            }
+            for (const c in avg) avg[c] = Math.round(avg[c] / ci.lists.length);
+            ci.mainboard = avg;
+            clusters.splice(bestJ, 1);
+            merged = true;
+        }
+    }
+    return clusters;
+}
+
+function deckDiff(deck, avg) {
+    // Returns cards that differ from average
+    const diffs = [];
+    const allCards = new Set([...Object.keys(deck), ...Object.keys(avg)]);
+    for (const card of allCards) {
+        const has = deck[card] || 0;
+        const expected = Math.round(avg[card] || 0);
+        if (has !== expected) {
+            diffs.push({ card, has, expected, delta: has - expected });
+        }
+    }
+    diffs.sort((a, b) => Math.abs(b.delta) - Math.abs(a.delta));
+    return diffs;
+}
+
+function renderVariantsChart(lists) {
+    const container = document.getElementById("variants-chart");
+    if (!container || lists.length < 3) return;
+
+    const avgDeck = computeAvgDeck(lists);
+    const clusters = clusterLists(lists, 6); // threshold: 6 card differences
+
+    // Calculate distance of each cluster from average
+    for (const cl of clusters) {
+        cl.distance = deckDistance(cl.mainboard, avgDeck);
+        cl.diff = deckDiff(cl.mainboard, avgDeck);
+    }
+
+    const maxDist = Math.max(...clusters.map(c => c.distance), 1);
+
+    // SVG dimensions
+    const w = container.clientWidth || 340;
+    const h = Math.max(w, 280);
+    const cx = w / 2, cy = h / 2;
+    const maxR = Math.min(cx, cy) - 30;
+
+    container.innerHTML = "";
+    const svg = d3.select(container).append("svg")
+        .attr("width", w).attr("height", h)
+        .attr("viewBox", `0 0 ${w} ${h}`);
+
+    // Draw concentric rings
+    const ringCount = 3;
+    for (let i = ringCount; i >= 1; i--) {
+        const r = (i / ringCount) * maxR;
+        svg.append("circle")
+            .attr("cx", cx).attr("cy", cy).attr("r", r)
+            .attr("fill", "none")
+            .attr("stroke", "var(--border)")
+            .attr("stroke-opacity", 0.3)
+            .attr("stroke-dasharray", "3,3");
+    }
+
+    // Center dot: average deck
+    svg.append("circle")
+        .attr("cx", cx).attr("cy", cy).attr("r", 6)
+        .attr("fill", "var(--accent)")
+        .attr("opacity", 0.8);
+    svg.append("text")
+        .attr("x", cx).attr("y", cy + 18)
+        .attr("text-anchor", "middle")
+        .attr("font-family", "'Instrument Serif', Georgia, serif")
+        .attr("font-size", 10)
+        .attr("fill", "var(--ink-faint)")
+        .text("average");
+
+    // Place clusters radially
+    const angleStep = (2 * Math.PI) / Math.max(clusters.length, 1);
+    const tooltipEl = document.getElementById("tooltip");
+
+    clusters.forEach((cl, i) => {
+        const angle = i * angleStep - Math.PI / 2;
+        const dist = maxDist > 0 ? (cl.distance / maxDist) * maxR : 0;
+        const x = cx + Math.cos(angle) * dist;
+        const y = cy + Math.sin(angle) * dist;
+        const size = 5 + Math.sqrt(cl.lists.length) * 5;
+
+        const g = svg.append("g").attr("cursor", "pointer");
+
+        g.append("circle")
+            .attr("cx", x).attr("cy", y).attr("r", size)
+            .attr("fill", "var(--accent)")
+            .attr("opacity", 0.25)
+            .attr("stroke", "var(--accent)")
+            .attr("stroke-width", 1.5)
+            .attr("stroke-opacity", 0.6);
+
+        // Count badge
+        if (cl.lists.length > 1) {
+            g.append("text")
+                .attr("x", x).attr("y", y + 1)
+                .attr("text-anchor", "middle")
+                .attr("dominant-baseline", "middle")
+                .attr("font-family", "var(--font-mono)")
+                .attr("font-size", Math.min(11, size))
+                .attr("font-weight", 600)
+                .attr("fill", "var(--ink)")
+                .text(cl.lists.length);
+        }
+
+        // Pilot label for small clusters
+        if (cl.lists.length <= 2) {
+            const label = cl.lists.map(l => l.pilot).join(", ");
+            g.append("text")
+                .attr("x", x).attr("y", y + size + 11)
+                .attr("text-anchor", "middle")
+                .attr("font-family", "var(--font-body)")
+                .attr("font-size", 8)
+                .attr("fill", "var(--ink-faint)")
+                .text(label.length > 20 ? label.slice(0, 18) + "…" : label);
+        }
+
+        // Hover: show diff from average
+        g.on("mouseenter touchstart", () => {
+            let html = `<div class="tt-name">${cl.lists.length} list${cl.lists.length > 1 ? "s" : ""}</div>`;
+            html += `<div class="tt-stat">${cl.distance} cards from avg</div>`;
+            if (cl.diff.length > 0) {
+                html += `<div style="margin-top:4px;font-size:11px;line-height:1.5">`;
+                for (const d of cl.diff.slice(0, 8)) {
+                    const sign = d.delta > 0 ? "+" : "";
+                    html += `<div>${sign}${d.delta} ${d.card}</div>`;
+                }
+                if (cl.diff.length > 8) html += `<div>… +${cl.diff.length - 8} more</div>`;
+                html += `</div>`;
+            }
+            tooltipEl.innerHTML = html;
+            gsap.killTweensOf(tooltipEl);
+            gsap.fromTo(tooltipEl,
+                { autoAlpha: 0, y: 6 },
+                { autoAlpha: 1, y: 0, duration: 0.2, ease: "power2.out" }
+            );
+        })
+        .on("mousemove", (event) => {
+            tooltipEl.style.left = (event.clientX + 16) + "px";
+            tooltipEl.style.top = (event.clientY + 16) + "px";
+        })
+        .on("mouseleave touchend", () => {
+            gsap.killTweensOf(tooltipEl);
+            gsap.to(tooltipEl, { autoAlpha: 0, duration: 0.15, ease: "power2.in" });
+        });
+
+        // Entrance animation
+        if (highlightDuration()) {
+            g.attr("opacity", 0);
+            gsap.fromTo(g.node(),
+                { opacity: 0, scale: 0, transformOrigin: `${x}px ${y}px` },
+                { opacity: 1, scale: 1, duration: 0.4, delay: 0.1 + i * 0.05, ease: "back.out(1.7)" }
+            );
+        }
+    });
+
+    // Draw connecting lines from center to clusters
+    clusters.forEach((cl, i) => {
+        const angle = i * angleStep - Math.PI / 2;
+        const dist = maxDist > 0 ? (cl.distance / maxDist) * maxR : 0;
+        const x = cx + Math.cos(angle) * dist;
+        const y = cy + Math.sin(angle) * dist;
+
+        svg.insert("line", ":first-child")
+            .attr("x1", cx).attr("y1", cy)
+            .attr("x2", x).attr("y2", y)
+            .attr("stroke", "var(--accent)")
+            .attr("stroke-opacity", 0.12)
+            .attr("stroke-width", 1);
+    });
+}
+
 /* ── Detail panels ── */
 
 function showArchetypeDetail(d, edges, nodeMap) {
@@ -1053,6 +1283,7 @@ function showArchetypeDetail(d, edges, nodeMap) {
     html += `<div class="panel-tabs">`;
     html += `<button class="panel-tab active" data-tab="lists">Lists (${lists.length})</button>`;
     html += `<button class="panel-tab" data-tab="avg">Average Deck</button>`;
+    if (lists.length >= 3) html += `<button class="panel-tab" data-tab="variants">Variants</button>`;
     html += `</div>`;
 
     // --- Tab: Lists (default active) ---
@@ -1065,6 +1296,13 @@ function showArchetypeDetail(d, edges, nodeMap) {
     html += buildAvgDeckHTML(connected, nodeMap);
     html += `</div>`;
 
+    // --- Tab: Variants ---
+    if (lists.length >= 3) {
+        html += `<div class="tab-content hidden" id="tab-variants">`;
+        html += `<div id="variants-chart"></div>`;
+        html += `</div>`;
+    }
+
     d3.select("#detail-content").html(html);
 
     // Wire up tabs
@@ -1075,7 +1313,8 @@ function showArchetypeDetail(d, edges, nodeMap) {
             document.querySelectorAll(".tab-content").forEach(c => c.classList.add("hidden"));
             const target = document.getElementById(`tab-${tab.dataset.tab}`);
             target.classList.remove("hidden");
-            animateTabContent(target);
+            if (tab.dataset.tab === "variants") renderVariantsChart(lists);
+            else animateTabContent(target);
         });
     });
 
