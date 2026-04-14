@@ -9,7 +9,7 @@ set: soc
 type: Creature — Vampire Spirit
 meta_presence: 0.0014
 archetypes:
-  unknown-1:
+  rakdos-reanimator:
     weight: 1.0
     avg_copies: 4.0
 ---

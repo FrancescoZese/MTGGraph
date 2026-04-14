@@ -10,7 +10,7 @@ type: Enchantment
 meta_presence: 0.0371
 archetypes:
   yawgmoth-combo:
-    weight: 0.5
+    weight: 0.4
     avg_copies: 4.0
   simic-ritual:
     weight: 1.0
@@ -21,7 +21,7 @@ archetypes:
   samwise-combo:
     weight: 1.0
     avg_copies: 4.0
-  unknown-11:
+  bant-ritual:
     weight: 1.0
     avg_copies: 4.0
 ---

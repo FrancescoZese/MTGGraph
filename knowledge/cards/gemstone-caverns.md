@@ -11,11 +11,14 @@ archetypes:
   ruby-storm:
     weight: 0.95
     avg_copies: 1.0
+  azorius-control:
+    weight: 0.0588
+    avg_copies: 1.0
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
   simic-ritual:
     weight: 0.8235
@@ -29,10 +32,7 @@ archetypes:
   izzet-eldrazi:
     weight: 1.0
     avg_copies: 1.0
-  unknown-4:
+  broodscale-combo:
     weight: 0.75
-    avg_copies: 1.0
-  unknown-7:
-    weight: 1.0
     avg_copies: 1.0
 ---

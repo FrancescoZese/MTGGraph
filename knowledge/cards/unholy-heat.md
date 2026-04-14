@@ -20,7 +20,7 @@ archetypes:
     avg_copies: 2.0
   eldrazi-ramp:
     weight: 0.5
-    avg_copies: 2.0
+    avg_copies: 1.94
   izzet-prowess:
     weight: 0.8696
     avg_copies: 2.14
@@ -30,10 +30,7 @@ archetypes:
   grixis-shadow:
     weight: 1.0
     avg_copies: 2.0
-  unknown-4:
+  broodscale-combo:
     weight: 0.5
     avg_copies: 1.67
-  unknown-5:
-    weight: 0.5
-    avg_copies: 1.83
 ---

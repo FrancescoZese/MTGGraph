@@ -10,7 +10,7 @@ set: one
 type: Legendary Planeswalker — Tyvar
 meta_presence: 0.0014
 archetypes:
-  unknown-2:
+  mono-green-ramp:
     weight: 1.0
     avg_copies: 3.0
 ---

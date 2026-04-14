@@ -12,7 +12,7 @@ archetypes:
   amulet-titan:
     weight: 0.0714
     avg_copies: 1.0
-  unknown-2:
+  mono-green-ramp:
     weight: 1.0
     avg_copies: 1.0
 ---

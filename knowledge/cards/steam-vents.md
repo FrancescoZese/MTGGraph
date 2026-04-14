@@ -18,8 +18,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.02
   azorius-control:
-    weight: 0.8125
-    avg_copies: 1.08
+    weight: 0.8235
+    avg_copies: 1.07
   living-end:
     weight: 0.0714
     avg_copies: 2.0
@@ -59,16 +59,13 @@ archetypes:
   grixis-shadow:
     weight: 1.0
     avg_copies: 1.0
-  unknown-6:
+  izzet-cori-steel:
     weight: 1.0
     avg_copies: 2.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-10:
+  izzet-splinter-twin:
     weight: 1.0
     avg_copies: 3.0
-  unknown-12:
+  jeskai-control:
     weight: 1.0
     avg_copies: 2.0
 ---

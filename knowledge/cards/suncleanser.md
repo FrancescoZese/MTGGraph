@@ -10,7 +10,7 @@ type: Creature — Human Cleric
 meta_presence: 0.01
 archetypes:
   yawgmoth-combo:
-    weight: 0.5
+    weight: 0.4
     avg_copies: 1.5
   samwise-combo:
     weight: 0.6667

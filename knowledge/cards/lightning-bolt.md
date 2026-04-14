@@ -27,6 +27,9 @@ archetypes:
   hollow-one:
     weight: 0.7778
     avg_copies: 2.71
+  eldrazi-ramp:
+    weight: 0.1667
+    avg_copies: 1.0
   izzet-prowess:
     weight: 1.0
     avg_copies: 4.0
@@ -42,16 +45,13 @@ archetypes:
   izzet-eldrazi:
     weight: 1.0
     avg_copies: 2.0
-  unknown-3:
+  rakdos-steel-cutter:
     weight: 1.0
     avg_copies: 4.0
-  unknown-1:
+  rakdos-reanimator:
     weight: 1.0
     avg_copies: 3.0
-  unknown-5:
-    weight: 0.5
-    avg_copies: 1.0
-  unknown-10:
+  izzet-splinter-twin:
     weight: 1.0
     avg_copies: 4.0
 ---

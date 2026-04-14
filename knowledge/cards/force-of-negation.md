@@ -25,7 +25,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.97
   azorius-control:
-    weight: 0.625
+    weight: 0.5882
     avg_copies: 1.27
   living-end:
     weight: 1.0
@@ -57,10 +57,10 @@ archetypes:
   sultai-artifacts:
     weight: 1.0
     avg_copies: 2.0
-  unknown-6:
+  izzet-cori-steel:
     weight: 0.75
     avg_copies: 1.0
-  unknown-10:
+  izzet-splinter-twin:
     weight: 1.0
     avg_copies: 1.0
 ---

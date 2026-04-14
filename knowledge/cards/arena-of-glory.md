@@ -15,7 +15,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.57
   azorius-control:
-    weight: 0.0625
+    weight: 0.0588
     avg_copies: 2.0
   domain-zoo:
     weight: 0.9615
@@ -30,12 +30,12 @@ archetypes:
     weight: 0.7778
     avg_copies: 1.71
   eldrazi-ramp:
-    weight: 0.0833
+    weight: 0.0556
     avg_copies: 1.0
-  unknown-3:
+  rakdos-steel-cutter:
     weight: 1.0
     avg_copies: 2.0
-  unknown-12:
+  jeskai-control:
     weight: 1.0
     avg_copies: 2.0
 ---

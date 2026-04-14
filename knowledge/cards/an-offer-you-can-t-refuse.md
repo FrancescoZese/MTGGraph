@@ -9,7 +9,7 @@ set: fdn
 type: Instant
 meta_presence: 0.0014
 archetypes:
-  unknown-6:
+  izzet-cori-steel:
     weight: 0.25
     avg_copies: 1.0
 ---

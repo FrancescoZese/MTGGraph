@@ -17,10 +17,10 @@ top_cards:
 - name: Solitude
   weight: 1.0
   avg_copies: 3.86
-- name: Atraxa, Grand Unifier
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 3.82
-- name: Psychic Frog
+- name: Atraxa, Grand Unifier
   weight: 1.0
   avg_copies: 3.82
 - name: Polluted Delta
@@ -44,10 +44,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.68
-- name: Prismatic Ending
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.27
-- name: Wrath of the Skies
+- name: Prismatic Ending
   weight: 1.0
   avg_copies: 2.27
 - name: Force of Negation
@@ -59,25 +59,25 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
+- name: Godless Shrine
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shadowy Backstreet
+  weight: 1.0
+  avg_copies: 1.0
+- name: Island
+  weight: 1.0
+  avg_copies: 1.0
 - name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Island
-  weight: 1.0
-  avg_copies: 1.0
-- name: Godless Shrine
-  weight: 1.0
-  avg_copies: 1.0
-- name: Plains
-  weight: 1.0
-  avg_copies: 1.0
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowy Backstreet
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
 - name: Watery Grave
@@ -134,25 +134,19 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.0909
   avg_copies: 1.5
+- name: Ketramose, the New Dawn
+  weight: 0.0909
+  avg_copies: 1.0
 - name: Spell Snare
   weight: 0.0909
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
   weight: 0.0909
   avg_copies: 1.0
-- name: Ketramose, the New Dawn
-  weight: 0.0909
-  avg_copies: 1.0
 - name: No More Lies
   weight: 0.0455
   avg_copies: 2.0
-- name: Subtlety
-  weight: 0.0455
-  avg_copies: 1.0
 - name: Unburial Rites
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Arcbound Ravager
   weight: 0.0455
   avg_copies: 1.0
 - name: Overgrown Tomb
@@ -161,13 +155,19 @@ top_cards:
 - name: Damn
   weight: 0.0455
   avg_copies: 1.0
-- name: Cephalid Coliseum
+- name: Subtlety
   weight: 0.0455
   avg_copies: 1.0
 - name: Winternight Stories
   weight: 0.0455
   avg_copies: 1.0
 - name: Toxic Deluge
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Cephalid Coliseum
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Arcbound Ravager
   weight: 0.0455
   avg_copies: 1.0
 ---

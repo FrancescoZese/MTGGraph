@@ -9,12 +9,9 @@ type: Land
 meta_presence: 0.01
 archetypes:
   yawgmoth-combo:
-    weight: 0.5
+    weight: 0.6
     avg_copies: 3.0
-  unknown-1:
+  rakdos-reanimator:
     weight: 1.0
     avg_copies: 2.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 3.0
 ---

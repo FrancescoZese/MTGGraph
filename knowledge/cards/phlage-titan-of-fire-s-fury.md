@@ -20,7 +20,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.8
   azorius-control:
-    weight: 0.375
+    weight: 0.3529
     avg_copies: 1.36
   domain-zoo:
     weight: 0.9615
@@ -31,7 +31,7 @@ archetypes:
   boros-ponza:
     weight: 1.0
     avg_copies: 2.14
-  unknown-12:
+  jeskai-control:
     weight: 1.0
     avg_copies: 3.0
 ---

@@ -26,7 +26,7 @@ archetypes:
   jund-saga:
     weight: 1.0
     avg_copies: 2.0
-  unknown-12:
+  jeskai-control:
     weight: 1.0
     avg_copies: 3.0
 ---

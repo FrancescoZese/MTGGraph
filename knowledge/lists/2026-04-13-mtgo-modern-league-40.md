@@ -1,5 +1,5 @@
 ---
-archetype: unknown-10
+archetype: izzet-splinter-twin
 date: '2026-04-13'
 finish: 5-0
 pilot: DireR4ven

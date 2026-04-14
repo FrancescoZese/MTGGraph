@@ -13,8 +13,8 @@ archetypes:
     weight: 0.5
     avg_copies: 2.14
   yawgmoth-combo:
-    weight: 0.5
-    avg_copies: 1.25
+    weight: 0.6
+    avg_copies: 1.33
   eldrazi-ramp:
     weight: 0.3333
     avg_copies: 2.5
@@ -24,13 +24,7 @@ archetypes:
   elves:
     weight: 1.0
     avg_copies: 1.0
-  unknown-2:
+  mono-green-ramp:
     weight: 1.0
     avg_copies: 1.0
-  unknown-5:
-    weight: 0.3333
-    avg_copies: 2.5
-  unknown-8:
-    weight: 1.0
-    avg_copies: 1.5
 ---

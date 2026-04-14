@@ -9,7 +9,7 @@ set: dsk
 type: Enchantment Creature — Sheep Glimmer
 meta_presence: 0.0014
 archetypes:
-  unknown-11:
+  bant-ritual:
     weight: 1.0
     avg_copies: 2.0
 ---

@@ -12,10 +12,10 @@ archetypes:
   amulet-titan:
     weight: 0.1071
     avg_copies: 1.0
-  unknown-5:
-    weight: 0.1667
+  eldrazi-ramp:
+    weight: 0.0556
     avg_copies: 1.0
-  unknown-9:
+  mono-green-stompy:
     weight: 1.0
     avg_copies: 4.0
 ---

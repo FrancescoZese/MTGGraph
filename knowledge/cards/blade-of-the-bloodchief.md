@@ -9,9 +9,9 @@ type: Artifact — Equipment
 meta_presence: 0.0143
 archetypes:
   eldrazi-ramp:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 3.67
-  unknown-4:
+  broodscale-combo:
     weight: 1.0
     avg_copies: 3.5
 ---

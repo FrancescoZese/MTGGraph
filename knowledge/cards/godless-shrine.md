@@ -18,7 +18,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.5
+    weight: 0.4
     avg_copies: 1.0
   esper-blink:
     weight: 1.0

@@ -6,16 +6,16 @@ name: Mill
 meta_share: 0.0057
 list_count: 4
 top_cards:
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ruin Crab
+- name: Fractured Sanity
   weight: 1.0
   avg_copies: 4.0
 - name: Hedron Crab
   weight: 1.0
   avg_copies: 4.0
-- name: Fractured Sanity
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ruin Crab
   weight: 1.0
   avg_copies: 4.0
 - name: Archive Trap
@@ -48,34 +48,34 @@ top_cards:
 - name: Engineered Explosives
   weight: 1.0
   avg_copies: 1.5
-- name: Jace, the Perfected Mind
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.25
-- name: Watery Grave
+- name: Jace, the Perfected Mind
   weight: 1.0
   avg_copies: 1.25
 - name: Shelldock Isle
   weight: 1.0
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Oboro, Palace in the Clouds
   weight: 1.0
   avg_copies: 1.0
 - name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
-- name: Oboro, Palace in the Clouds
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 1.0
-- name: Scalding Tarn
+- name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
 - name: Snow-Covered Island
   weight: 0.75
   avg_copies: 3.33
-- name: Toxic Deluge
+- name: Snow-Covered Swamp
   weight: 0.75
   avg_copies: 1.67
-- name: Snow-Covered Swamp
+- name: Toxic Deluge
   weight: 0.75
   avg_copies: 1.67
 - name: Flooded Strand
@@ -84,22 +84,22 @@ top_cards:
 - name: Island
   weight: 0.5
   avg_copies: 2.5
+- name: Glimpse the Unthinkable
+  weight: 0.5
+  avg_copies: 2.0
 - name: Kitsune's Technique
   weight: 0.5
   avg_copies: 2.0
 - name: Ghost Quarter
   weight: 0.5
   avg_copies: 2.0
-- name: Glimpse the Unthinkable
-  weight: 0.5
-  avg_copies: 2.0
-- name: Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+- name: Ensnaring Bridge
   weight: 0.5
   avg_copies: 2.0
 - name: Consign to Memory
   weight: 0.5
   avg_copies: 2.0
-- name: Ensnaring Bridge
+- name: Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
   weight: 0.5
   avg_copies: 2.0
 - name: Swamp
@@ -108,28 +108,34 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 0.5
   avg_copies: 1.33
-- name: Misty Rainforest
-  weight: 0.5
-  avg_copies: 1.0
-- name: Cephalid Coliseum
-  weight: 0.5
-  avg_copies: 1.0
-- name: Damnation
-  weight: 0.5
-  avg_copies: 1.0
 - name: Mikokoro, Center of the Sea
   weight: 0.5
   avg_copies: 1.0
 - name: Murderous Cut
   weight: 0.5
   avg_copies: 1.0
+- name: Cephalid Coliseum
+  weight: 0.5
+  avg_copies: 1.0
 - name: Crypt Incursion
+  weight: 0.5
+  avg_copies: 1.0
+- name: Misty Rainforest
+  weight: 0.5
+  avg_copies: 1.0
+- name: Damnation
   weight: 0.5
   avg_copies: 1.0
 - name: Mystical Dispute
   weight: 0.25
   avg_copies: 2.0
-- name: The Meathook Massacre
+- name: Go for the Throat
+  weight: 0.25
+  avg_copies: 1.0
+- name: Sink into Stupor // Soporific Springs
+  weight: 0.25
+  avg_copies: 1.0
+- name: Echoing Truth
   weight: 0.25
   avg_copies: 1.0
 - name: Long Goodbye
@@ -138,13 +144,7 @@ top_cards:
 - name: Baleful Mastery
   weight: 0.25
   avg_copies: 1.0
-- name: Echoing Truth
-  weight: 0.25
-  avg_copies: 1.0
-- name: Sink into Stupor // Soporific Springs
-  weight: 0.25
-  avg_copies: 1.0
-- name: Go for the Throat
+- name: The Meathook Massacre
   weight: 0.25
   avg_copies: 1.0
 ---

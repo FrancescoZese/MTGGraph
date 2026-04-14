@@ -6,19 +6,31 @@ name: Rakdos Lantern Combo
 meta_share: 0.0014
 list_count: 1
 top_cards:
-- name: Lantern of Insight
+- name: Profane Tutor
+  weight: 1.0
+  avg_copies: 4.0
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
 - name: Inquisition of Kozilek
   weight: 1.0
   avg_copies: 4.0
-- name: Profane Tutor
+- name: Lantern of Insight
+  weight: 1.0
+  avg_copies: 4.0
+- name: Urza's Saga
+  weight: 1.0
+  avg_copies: 4.0
+- name: Swamp
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ensnaring Bridge
   weight: 1.0
   avg_copies: 4.0
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Saga
+- name: Blood Moon
   weight: 1.0
   avg_copies: 4.0
 - name: Blackcleave Cliffs
@@ -27,28 +39,19 @@ top_cards:
 - name: Codex Shredder
   weight: 1.0
   avg_copies: 4.0
-- name: Blood Moon
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ensnaring Bridge
-  weight: 1.0
-  avg_copies: 4.0
-- name: Swamp
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 4.0
-- name: Pithing Needle
-  weight: 1.0
-  avg_copies: 3.0
 - name: Pyroclasm
   weight: 1.0
   avg_copies: 3.0
+- name: Pithing Needle
+  weight: 1.0
+  avg_copies: 3.0
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 2.0
 - name: The Mycosynth Gardens
   weight: 1.0
   avg_copies: 2.0
-- name: Soulless Jailer
+- name: Pyxis of Pandemonium
   weight: 1.0
   avg_copies: 2.0
 - name: Cursed Totem
@@ -57,22 +60,25 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 2.0
-- name: Fatal Push
+- name: Soulless Jailer
   weight: 1.0
   avg_copies: 2.0
-- name: Pyxis of Pandemonium
-  weight: 1.0
-  avg_copies: 2.0
-- name: Blazemire Verge
+- name: Emrakul, the Aeons Torn
   weight: 1.0
   avg_copies: 1.0
-- name: Necromentia
+- name: The Underworld Cookbook
   weight: 1.0
   avg_copies: 1.0
-- name: Vexing Bauble
+- name: Molten Collapse
+  weight: 1.0
+  avg_copies: 1.0
+- name: Grafdigger's Cage
   weight: 1.0
   avg_copies: 1.0
 - name: Mountain
+  weight: 1.0
+  avg_copies: 1.0
+- name: Blazemire Verge
   weight: 1.0
   avg_copies: 1.0
 - name: Torpor Orb
@@ -81,22 +87,16 @@ top_cards:
 - name: The Meathook Massacre
   weight: 1.0
   avg_copies: 1.0
-- name: Emrakul, the Aeons Torn
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Mox Opal
   weight: 1.0
   avg_copies: 1.0
-- name: Molten Collapse
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.0
-- name: The Underworld Cookbook
-  weight: 1.0
-  avg_copies: 1.0
-- name: Grafdigger's Cage
-  weight: 1.0
-  avg_copies: 1.0
-- name: Blood Crypt
+- name: Necromentia
   weight: 1.0
   avg_copies: 1.0
 ---

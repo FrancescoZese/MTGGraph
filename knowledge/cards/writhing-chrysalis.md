@@ -9,9 +9,9 @@ type: Creature — Eldrazi Drone
 meta_presence: 0.0057
 archetypes:
   eldrazi-ramp:
-    weight: 0.25
+    weight: 0.1667
     avg_copies: 3.0
-  unknown-4:
+  broodscale-combo:
     weight: 0.25
     avg_copies: 3.0
 ---

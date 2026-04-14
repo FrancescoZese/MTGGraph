@@ -18,10 +18,10 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 3.9
-- name: Arid Mesa
+- name: Phlage, Titan of Fire's Fury
   weight: 1.0
   avg_copies: 3.83
-- name: Phlage, Titan of Fire's Fury
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 3.83
 - name: Arena of Glory
@@ -138,10 +138,10 @@ top_cards:
 - name: Path to Exile
   weight: 0.0458
   avg_copies: 1.2
-- name: Molten Rain
+- name: Deafening Silence
   weight: 0.0327
   avg_copies: 2.2
-- name: Deafening Silence
+- name: Molten Rain
   weight: 0.0327
   avg_copies: 2.2
 - name: Witch Enchanter // Witch-Blessed Meadow
@@ -183,7 +183,10 @@ top_cards:
 - name: Starfield Shepherd
   weight: 0.0065
   avg_copies: 4.0
-- name: White Orchid Phantom
+- name: Ephemerate
+  weight: 0.0065
+  avg_copies: 2.0
+- name: Unlicensed Hearse
   weight: 0.0065
   avg_copies: 2.0
 - name: Reprieve
@@ -192,25 +195,34 @@ top_cards:
 - name: Stony Silence
   weight: 0.0065
   avg_copies: 2.0
-- name: Kataki, War's Wage
+- name: Screaming Nemesis
   weight: 0.0065
   avg_copies: 2.0
-- name: Screaming Nemesis
+- name: White Orchid Phantom
+  weight: 0.0065
+  avg_copies: 2.0
+- name: Kataki, War's Wage
   weight: 0.0065
   avg_copies: 2.0
 - name: The Battle of Bywater
   weight: 0.0065
   avg_copies: 2.0
-- name: Unlicensed Hearse
+- name: Giant Killer // Chop Down
   weight: 0.0065
-  avg_copies: 2.0
-- name: Ephemerate
+  avg_copies: 1.0
+- name: Aven Mindcensor
   weight: 0.0065
-  avg_copies: 2.0
-- name: Duty Beyond Death
+  avg_copies: 1.0
+- name: Cool but Rude
   weight: 0.0065
   avg_copies: 1.0
 - name: The Wandering Emperor
+  weight: 0.0065
+  avg_copies: 1.0
+- name: Ghost Vacuum
+  weight: 0.0065
+  avg_copies: 1.0
+- name: Duty Beyond Death
   weight: 0.0065
   avg_copies: 1.0
 - name: Hallowed Moonlight
@@ -219,25 +231,13 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.0065
   avg_copies: 1.0
+- name: The Ooze
+  weight: 0.0065
+  avg_copies: 1.0
 - name: Curious Farm Animals
   weight: 0.0065
   avg_copies: 1.0
 - name: Elspeth, Storm Slayer
-  weight: 0.0065
-  avg_copies: 1.0
-- name: Cool but Rude
-  weight: 0.0065
-  avg_copies: 1.0
-- name: Giant Killer // Chop Down
-  weight: 0.0065
-  avg_copies: 1.0
-- name: Ghost Vacuum
-  weight: 0.0065
-  avg_copies: 1.0
-- name: The Ooze
-  weight: 0.0065
-  avg_copies: 1.0
-- name: Aven Mindcensor
   weight: 0.0065
   avg_copies: 1.0
 ---

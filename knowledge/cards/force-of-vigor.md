@@ -20,7 +20,10 @@ archetypes:
     avg_copies: 2.25
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 1.88
+    avg_copies: 1.8
+  eldrazi-ramp:
+    weight: 0.1111
+    avg_copies: 1.0
   simic-ritual:
     weight: 0.6471
     avg_copies: 2.09
@@ -36,13 +39,7 @@ archetypes:
   sultai-artifacts:
     weight: 0.1667
     avg_copies: 1.0
-  unknown-5:
-    weight: 0.3333
-    avg_copies: 1.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 1.5
-  unknown-9:
+  mono-green-stompy:
     weight: 1.0
     avg_copies: 4.0
 ---

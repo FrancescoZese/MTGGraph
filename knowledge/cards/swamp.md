@@ -36,7 +36,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.5
+    weight: 0.6
     avg_copies: 1.0
   esper-blink:
     weight: 1.0
@@ -59,13 +59,10 @@ archetypes:
   grixis-shadow:
     weight: 1.0
     avg_copies: 1.0
-  unknown-3:
+  rakdos-steel-cutter:
     weight: 1.0
     avg_copies: 1.0
-  unknown-1:
+  rakdos-reanimator:
     weight: 1.0
     avg_copies: 2.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 1.0
 ---

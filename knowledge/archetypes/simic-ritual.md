@@ -6,13 +6,13 @@ name: Simic Ritual
 meta_share: 0.0243
 list_count: 17
 top_cards:
-- name: Flare of Denial
+- name: Ice-Fang Coatl
   weight: 1.0
   avg_copies: 4.0
 - name: Birthing Ritual
   weight: 1.0
   avg_copies: 4.0
-- name: Ice-Fang Coatl
+- name: Flare of Denial
   weight: 1.0
   avg_copies: 4.0
 - name: Misty Rainforest
@@ -24,10 +24,10 @@ top_cards:
 - name: Sink into Stupor // Soporific Springs
   weight: 1.0
   avg_copies: 3.94
-- name: Subtlety
+- name: Abhorrent Oculus
   weight: 1.0
   avg_copies: 3.82
-- name: Abhorrent Oculus
+- name: Subtlety
   weight: 1.0
   avg_copies: 3.82
 - name: Shardless Agent
@@ -42,10 +42,10 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 2.44
-- name: Snow-Covered Forest
+- name: Snow-Covered Island
   weight: 1.0
   avg_copies: 2.0
-- name: Snow-Covered Island
+- name: Snow-Covered Forest
   weight: 1.0
   avg_copies: 2.0
 - name: Fblthp, the Lost
@@ -102,10 +102,10 @@ top_cards:
 - name: Fatal Push
   weight: 0.1176
   avg_copies: 2.0
-- name: Polluted Delta
+- name: Undercity Sewers
   weight: 0.1176
   avg_copies: 1.0
-- name: Undercity Sewers
+- name: Polluted Delta
   weight: 0.1176
   avg_copies: 1.0
 - name: Pyroclasm
@@ -114,49 +114,49 @@ top_cards:
 - name: Fire Magic
   weight: 0.0588
   avg_copies: 3.0
-- name: Thundering Falls
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Pick Your Poison
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Overgrown Tomb
+- name: Underground Mortuary
   weight: 0.0588
   avg_copies: 1.0
 - name: Hurkyl's Recall
   weight: 0.0588
   avg_copies: 1.0
-- name: Firespout
-  weight: 0.0588
-  avg_copies: 1.0
 - name: Ephara's Dispersal
   weight: 0.0588
   avg_copies: 1.0
-- name: Steam Vents
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Flooded Strand
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Fade from History
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Neoform
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Stomping Ground
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Pond Prophet
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Scalding Tarn
+- name: Pick Your Poison
   weight: 0.0588
   avg_copies: 1.0
 - name: Stern Scolding
   weight: 0.0588
   avg_copies: 1.0
-- name: Underground Mortuary
+- name: Overgrown Tomb
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Pond Prophet
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Flooded Strand
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Neoform
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Stomping Ground
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Fade from History
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Firespout
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Steam Vents
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Scalding Tarn
   weight: 0.0588
   avg_copies: 1.0
 ---

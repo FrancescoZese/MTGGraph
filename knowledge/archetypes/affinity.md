@@ -9,10 +9,10 @@ top_cards:
 - name: Mox Opal
   weight: 1.0
   avg_copies: 3.93
-- name: Mishra's Bauble
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 3.92
-- name: Urza's Saga
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 3.92
 - name: Fiery Islet
@@ -162,13 +162,13 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 0.0685
   avg_copies: 1.0
+- name: Mountain
+  weight: 0.0548
+  avg_copies: 1.0
 - name: Flooded Strand
   weight: 0.0548
   avg_copies: 1.0
 - name: Breeding Pool
-  weight: 0.0548
-  avg_copies: 1.0
-- name: Mountain
   weight: 0.0548
   avg_copies: 1.0
 - name: Fire Magic
@@ -180,22 +180,22 @@ top_cards:
 - name: Vandalblast
   weight: 0.0411
   avg_copies: 1.33
+- name: Springleaf Drum
+  weight: 0.0411
+  avg_copies: 1.0
 - name: Soul-Guide Lantern
-  weight: 0.0411
-  avg_copies: 1.0
-- name: Repeal
-  weight: 0.0411
-  avg_copies: 1.0
-- name: Salvage Titan
   weight: 0.0411
   avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 0.0411
   avg_copies: 1.0
+- name: Salvage Titan
+  weight: 0.0411
+  avg_copies: 1.0
 - name: Minamo, School at Water's Edge
   weight: 0.0411
   avg_copies: 1.0
-- name: Springleaf Drum
+- name: Repeal
   weight: 0.0411
   avg_copies: 1.0
 - name: Boomerang Basics
@@ -216,31 +216,31 @@ top_cards:
 - name: Test of Talents
   weight: 0.0137
   avg_copies: 3.0
-- name: Glimmervoid
-  weight: 0.0137
-  avg_copies: 2.0
-- name: Shattering Spree
-  weight: 0.0137
-  avg_copies: 2.0
 - name: Detect Intrusion
+  weight: 0.0137
+  avg_copies: 2.0
+- name: Glimmervoid
   weight: 0.0137
   avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.0137
   avg_copies: 2.0
-- name: Void Mirror
+- name: Shattering Spree
   weight: 0.0137
-  avg_copies: 1.0
-- name: Snow-Covered Mountain
+  avg_copies: 2.0
+- name: Chandra, Spark Hunter
   weight: 0.0137
   avg_copies: 1.0
 - name: Ghirapur Aether Grid
   weight: 0.0137
   avg_copies: 1.0
-- name: Chandra, Spark Hunter
+- name: Snow-Covered Mountain
   weight: 0.0137
   avg_copies: 1.0
 - name: Jokulmorder
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Void Mirror
   weight: 0.0137
   avg_copies: 1.0
 ---

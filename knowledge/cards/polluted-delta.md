@@ -21,7 +21,7 @@ archetypes:
     weight: 0.1429
     avg_copies: 3.5
   azorius-control:
-    weight: 0.1875
+    weight: 0.1765
     avg_copies: 1.0
   living-end:
     weight: 0.5
@@ -62,10 +62,10 @@ archetypes:
   grixis-shadow:
     weight: 1.0
     avg_copies: 4.0
-  unknown-1:
+  rakdos-reanimator:
     weight: 1.0
     avg_copies: 1.0
-  unknown-10:
+  izzet-splinter-twin:
     weight: 1.0
     avg_copies: 1.0
 ---

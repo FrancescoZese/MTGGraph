@@ -20,10 +20,10 @@ archetypes:
     avg_copies: 4.0
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 3.38
+    avg_copies: 3.4
   eldrazi-ramp:
     weight: 1.0
-    avg_copies: 3.75
+    avg_copies: 3.83
   sultai-reanimator:
     weight: 1.0
     avg_copies: 4.0
@@ -33,13 +33,7 @@ archetypes:
   sultai-artifacts:
     weight: 0.3333
     avg_copies: 4.0
-  unknown-4:
+  broodscale-combo:
     weight: 1.0
     avg_copies: 4.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 3.5
 ---

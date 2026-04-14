@@ -11,7 +11,7 @@ archetypes:
   azorius-blink:
     weight: 0.3333
     avg_copies: 2.0
-  unknown-11:
+  bant-ritual:
     weight: 1.0
     avg_copies: 1.0
 ---

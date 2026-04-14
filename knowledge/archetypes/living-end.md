@@ -7,19 +7,19 @@ name: Living End
 meta_share: 0.02
 list_count: 14
 top_cards:
+- name: Shardless Agent
+  weight: 1.0
+  avg_copies: 4.0
 - name: Subtlety
   weight: 1.0
   avg_copies: 4.0
 - name: Endurance
   weight: 1.0
   avg_copies: 4.0
-- name: Shardless Agent
-  weight: 1.0
-  avg_copies: 4.0
-- name: Misty Rainforest
+- name: Force of Negation
   weight: 1.0
   avg_copies: 3.86
-- name: Force of Negation
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 3.86
 - name: Generous Ent
@@ -37,13 +37,13 @@ top_cards:
 - name: Hedge Maze
   weight: 1.0
   avg_copies: 1.07
+- name: Forest
+  weight: 1.0
+  avg_copies: 1.0
 - name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Breeding Pool
-  weight: 1.0
-  avg_copies: 1.0
-- name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -91,40 +91,40 @@ top_cards:
 - name: Dismember
   weight: 0.5
   avg_copies: 2.14
-- name: Polluted Delta
+- name: Underground Mortuary
   weight: 0.5
   avg_copies: 1.43
-- name: Underground Mortuary
+- name: Polluted Delta
   weight: 0.5
   avg_copies: 1.43
 - name: Overgrown Tomb
   weight: 0.5
   avg_copies: 1.14
-- name: Halo Forager
-  weight: 0.5
-  avg_copies: 1.0
 - name: Boseiju, Who Endures
-  weight: 0.5
-  avg_copies: 1.0
-- name: Undercity Sewers
-  weight: 0.5
-  avg_copies: 1.0
-- name: Meticulous Archive
   weight: 0.5
   avg_copies: 1.0
 - name: Commandeer
   weight: 0.5
   avg_copies: 1.0
-- name: Lush Portico
+- name: Temple Garden
   weight: 0.5
   avg_copies: 1.0
-- name: Temple Garden
+- name: Undercity Sewers
+  weight: 0.5
+  avg_copies: 1.0
+- name: Halo Forager
+  weight: 0.5
+  avg_copies: 1.0
+- name: Meticulous Archive
   weight: 0.5
   avg_copies: 1.0
 - name: Mai, Scornful Striker
   weight: 0.5
   avg_copies: 1.0
 - name: Damping Sphere
+  weight: 0.5
+  avg_copies: 1.0
+- name: Lush Portico
   weight: 0.5
   avg_copies: 1.0
 - name: Clarion Conqueror
@@ -139,16 +139,16 @@ top_cards:
 - name: Deceit
   weight: 0.4286
   avg_copies: 1.33
-- name: Harvester of Misery
+- name: Hallowed Fountain
   weight: 0.4286
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Disciple of Freyalise // Garden of Freyalise
   weight: 0.4286
   avg_copies: 1.0
 - name: Flooded Grove
   weight: 0.4286
   avg_copies: 1.0
-- name: Disciple of Freyalise // Garden of Freyalise
+- name: Harvester of Misery
   weight: 0.4286
   avg_copies: 1.0
 - name: Striped Riverwinder
@@ -160,16 +160,16 @@ top_cards:
 - name: Deafening Silence
   weight: 0.2857
   avg_copies: 1.0
-- name: Kavaero, Mind-Bitten
-  weight: 0.2857
-  avg_copies: 1.0
 - name: Swamp
   weight: 0.2857
   avg_copies: 1.0
-- name: Flare of Denial
-  weight: 0.2143
+- name: Kavaero, Mind-Bitten
+  weight: 0.2857
   avg_copies: 1.0
 - name: Archon of Cruelty
+  weight: 0.2143
+  avg_copies: 1.0
+- name: Flare of Denial
   weight: 0.2143
   avg_copies: 1.0
 - name: Harbinger of the Seas
@@ -190,6 +190,9 @@ top_cards:
 - name: Oliphaunt
   weight: 0.0714
   avg_copies: 3.0
+- name: Flooded Strand
+  weight: 0.0714
+  avg_copies: 2.0
 - name: Verdant Catacombs
   weight: 0.0714
   avg_copies: 2.0
@@ -199,9 +202,9 @@ top_cards:
 - name: Steam Vents
   weight: 0.0714
   avg_copies: 2.0
-- name: Flooded Strand
+- name: Sunken Ruins
   weight: 0.0714
-  avg_copies: 2.0
+  avg_copies: 1.0
 - name: Press the Enemy
   weight: 0.0714
   avg_copies: 1.0
@@ -209,9 +212,6 @@ top_cards:
   weight: 0.0714
   avg_copies: 1.0
 - name: Stomping Ground
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Sunken Ruins
   weight: 0.0714
   avg_copies: 1.0
 ---

@@ -9,7 +9,7 @@ set: cma
 type: Creature — Phyrexian Cleric
 meta_presence: 0.0014
 archetypes:
-  unknown-10:
+  izzet-splinter-twin:
     weight: 1.0
     avg_copies: 4.0
 ---

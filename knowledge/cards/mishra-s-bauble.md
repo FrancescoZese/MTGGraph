@@ -32,10 +32,10 @@ archetypes:
   grixis-shadow:
     weight: 1.0
     avg_copies: 4.0
-  unknown-3:
+  rakdos-steel-cutter:
     weight: 1.0
     avg_copies: 4.0
-  unknown-6:
+  izzet-cori-steel:
     weight: 1.0
     avg_copies: 4.0
 ---

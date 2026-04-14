@@ -9,13 +9,13 @@ top_cards:
 - name: Ruby Medallion
   weight: 1.0
   avg_copies: 4.0
-- name: Desperate Ritual
-  weight: 1.0
-  avg_copies: 4.0
 - name: Manamorphose
   weight: 1.0
   avg_copies: 4.0
 - name: Pyretic Ritual
+  weight: 1.0
+  avg_copies: 4.0
+- name: Desperate Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Glimpse the Impossible
@@ -24,13 +24,13 @@ top_cards:
 - name: Valakut Awakening // Valakut Stoneforge
   weight: 1.0
   avg_copies: 2.1
-- name: Wrenn's Resolve
+- name: Reckless Impulse
   weight: 0.95
   avg_copies: 4.0
 - name: Ral, Monsoon Mage // Ral, Leyline Prodigy
   weight: 0.95
   avg_copies: 4.0
-- name: Reckless Impulse
+- name: Wrenn's Resolve
   weight: 0.95
   avg_copies: 4.0
 - name: Mountain
@@ -135,28 +135,28 @@ top_cards:
 - name: Alchemist's Gambit
   weight: 0.1
   avg_copies: 1.0
-- name: Steam Vents
+- name: Meltdown
   weight: 0.1
   avg_copies: 1.0
-- name: Meltdown
+- name: Steam Vents
   weight: 0.1
   avg_copies: 1.0
 - name: Phlage, Titan of Fire's Fury
   weight: 0.1
   avg_copies: 1.0
-- name: Sundering Eruption // Volcanic Fissure
+- name: Spikefield Hazard // Spikefield Cave
   weight: 0.05
   avg_copies: 4.0
 - name: Goblin Charbelcher
   weight: 0.05
   avg_copies: 4.0
-- name: Spikefield Hazard // Spikefield Cave
+- name: Pinnacle Monk // Mystic Peak
   weight: 0.05
   avg_copies: 4.0
 - name: Shatterskull Smashing // Shatterskull, the Hammer Pass
   weight: 0.05
   avg_copies: 4.0
-- name: Pinnacle Monk // Mystic Peak
+- name: Sundering Eruption // Volcanic Fissure
   weight: 0.05
   avg_copies: 4.0
 - name: Irencrag Feat
@@ -171,25 +171,25 @@ top_cards:
 - name: Lantern of the Lost
   weight: 0.05
   avg_copies: 2.0
-- name: Rush of Inspiration // Crackling Falls
-  weight: 0.05
-  avg_copies: 1.0
-- name: Urabrask // The Great Work
-  weight: 0.05
-  avg_copies: 1.0
 - name: Pyromancer Ascension
   weight: 0.05
   avg_copies: 1.0
 - name: Abrade
   weight: 0.05
   avg_copies: 1.0
-- name: Redirect Lightning
-  weight: 0.05
-  avg_copies: 1.0
 - name: Shattering Spree
   weight: 0.05
   avg_copies: 1.0
 - name: Legion Leadership // Legion Stronghold
+  weight: 0.05
+  avg_copies: 1.0
+- name: Rush of Inspiration // Crackling Falls
+  weight: 0.05
+  avg_copies: 1.0
+- name: Urabrask // The Great Work
+  weight: 0.05
+  avg_copies: 1.0
+- name: Redirect Lightning
   weight: 0.05
   avg_copies: 1.0
 ---

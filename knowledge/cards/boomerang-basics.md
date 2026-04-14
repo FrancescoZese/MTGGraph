@@ -18,7 +18,7 @@ archetypes:
   sultai-artifacts:
     weight: 0.1667
     avg_copies: 4.0
-  unknown-6:
+  izzet-cori-steel:
     weight: 1.0
     avg_copies: 3.25
 ---

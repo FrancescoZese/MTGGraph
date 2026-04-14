@@ -9,19 +9,19 @@ top_cards:
 - name: Price of Freedom
   weight: 1.0
   avg_copies: 4.0
-- name: Path to Exile
-  weight: 1.0
-  avg_copies: 4.0
 - name: Field of Ruin
   weight: 1.0
   avg_copies: 4.0
-- name: Demolition Field
+- name: Path to Exile
+  weight: 1.0
+  avg_copies: 4.0
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 3.71
 - name: Galvanic Discharge
   weight: 1.0
   avg_copies: 3.71
-- name: Wrath of the Skies
+- name: Demolition Field
   weight: 1.0
   avg_copies: 3.71
 - name: Cleansing Wildfire
@@ -57,10 +57,10 @@ top_cards:
 - name: Orim's Chant
   weight: 1.0
   avg_copies: 1.58
-- name: The Legend of Roku // Avatar Roku
+- name: Mountain
   weight: 1.0
   avg_copies: 1.43
-- name: Mountain
+- name: The Legend of Roku // Avatar Roku
   weight: 1.0
   avg_copies: 1.43
 - name: High Noon
@@ -90,31 +90,31 @@ top_cards:
 - name: Reprieve
   weight: 0.2857
   avg_copies: 3.0
-- name: Soul-Guide Lantern
-  weight: 0.2857
-  avg_copies: 2.0
 - name: Mana Tithe
   weight: 0.2857
   avg_copies: 2.0
-- name: Ghost Quarter
+- name: Soul-Guide Lantern
   weight: 0.2857
-  avg_copies: 1.0
-- name: Wrath of God
-  weight: 0.2857
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Surgical Extraction
+  weight: 0.2857
+  avg_copies: 1.0
+- name: Ghost Quarter
   weight: 0.2857
   avg_copies: 1.0
 - name: Meltdown
   weight: 0.2857
   avg_copies: 1.0
+- name: Wrath of God
+  weight: 0.2857
+  avg_copies: 1.0
 - name: Settle the Wreckage
   weight: 0.1429
   avg_copies: 2.0
-- name: Prismatic Ending
+- name: March of Otherworldly Light
   weight: 0.1429
   avg_copies: 2.0
-- name: March of Otherworldly Light
+- name: Prismatic Ending
   weight: 0.1429
   avg_copies: 2.0
 ---

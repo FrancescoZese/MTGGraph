@@ -19,7 +19,7 @@ archetypes:
     weight: 0.6087
     avg_copies: 2.36
   azorius-control:
-    weight: 0.1875
+    weight: 0.1765
     avg_copies: 1.0
   domain-zoo:
     weight: 0.0385
@@ -32,6 +32,9 @@ archetypes:
     avg_copies: 2.44
   boros-ponza:
     weight: 0.2857
+    avg_copies: 1.0
+  eldrazi-ramp:
+    weight: 0.1111
     avg_copies: 1.0
   simic-ritual:
     weight: 0.1176
@@ -51,13 +54,10 @@ archetypes:
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
-  unknown-3:
+  rakdos-steel-cutter:
     weight: 1.0
     avg_copies: 3.0
-  unknown-5:
-    weight: 0.3333
-    avg_copies: 1.0
-  unknown-10:
+  izzet-splinter-twin:
     weight: 1.0
     avg_copies: 2.0
 ---

@@ -24,8 +24,8 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.6667
-    avg_copies: 1.38
+    weight: 0.7778
+    avg_copies: 1.21
   orzhov-blink:
     weight: 0.75
     avg_copies: 1.0
@@ -35,10 +35,7 @@ archetypes:
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 1.0
-  unknown-4:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-5:
+  broodscale-combo:
     weight: 1.0
     avg_copies: 1.0
 ---

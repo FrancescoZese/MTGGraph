@@ -11,7 +11,7 @@ archetypes:
   eldrazi-tron:
     weight: 0.9259
     avg_copies: 1.0
-  unknown-5:
-    weight: 0.1667
+  eldrazi-ramp:
+    weight: 0.0556
     avg_copies: 1.0
 ---

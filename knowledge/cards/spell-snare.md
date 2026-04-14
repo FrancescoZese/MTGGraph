@@ -25,7 +25,7 @@ archetypes:
     weight: 0.0909
     avg_copies: 1.0
   azorius-control:
-    weight: 0.8125
+    weight: 0.7647
     avg_copies: 1.71
   neoform-combo:
     weight: 0.0769
@@ -45,7 +45,7 @@ archetypes:
   izzet-eldrazi:
     weight: 1.0
     avg_copies: 1.0
-  unknown-10:
+  izzet-splinter-twin:
     weight: 1.0
     avg_copies: 2.0
 ---

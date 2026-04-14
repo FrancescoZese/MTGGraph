@@ -29,13 +29,13 @@ archetypes:
   mill:
     weight: 1.0
     avg_copies: 1.5
+  eldrazi-ramp:
+    weight: 0.1667
+    avg_copies: 1.0
   sultai-artifacts:
     weight: 0.1667
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
-    avg_copies: 1.0
-  unknown-5:
-    weight: 0.5
     avg_copies: 1.0
 ---

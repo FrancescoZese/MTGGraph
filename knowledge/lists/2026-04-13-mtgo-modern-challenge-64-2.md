@@ -1,5 +1,5 @@
 ---
-archetype: unknown-1
+archetype: rakdos-reanimator
 date: '2026-04-13'
 finish: 2nd
 pilot: DragonFodder

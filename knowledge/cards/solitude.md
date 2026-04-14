@@ -22,8 +22,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.86
   azorius-control:
-    weight: 0.9375
-    avg_copies: 3.47
+    weight: 0.9412
+    avg_copies: 3.5
   mardu-blink:
     weight: 1.0
     avg_copies: 4.0
@@ -48,10 +48,7 @@ archetypes:
   esper-control:
     weight: 1.0
     avg_copies: 4.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-11:
+  bant-ritual:
     weight: 1.0
     avg_copies: 2.0
 ---

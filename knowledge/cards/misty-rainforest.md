@@ -33,10 +33,10 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   yawgmoth-combo:
-    weight: 0.625
+    weight: 0.5
     avg_copies: 1.8
   eldrazi-ramp:
-    weight: 0.5833
+    weight: 0.6111
     avg_copies: 1.0
   simic-ritual:
     weight: 1.0
@@ -65,16 +65,13 @@ archetypes:
   sultai-artifacts:
     weight: 0.5
     avg_copies: 3.0
-  unknown-4:
+  broodscale-combo:
     weight: 0.25
     avg_copies: 2.0
-  unknown-2:
+  mono-green-ramp:
     weight: 1.0
     avg_copies: 4.0
-  unknown-5:
-    weight: 0.6667
-    avg_copies: 1.0
-  unknown-10:
+  izzet-splinter-twin:
     weight: 1.0
     avg_copies: 2.0
 ---

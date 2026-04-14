@@ -1,5 +1,5 @@
 ---
-archetype: unknown-5
+archetype: eldrazi-ramp
 date: '2026-04-13'
 finish: 5-0
 pilot: Lumek

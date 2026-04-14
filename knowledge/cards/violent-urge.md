@@ -15,7 +15,7 @@ archetypes:
   izzet-prowess:
     weight: 0.6522
     avg_copies: 2.0
-  unknown-3:
+  rakdos-steel-cutter:
     weight: 0.5
     avg_copies: 1.0
 ---

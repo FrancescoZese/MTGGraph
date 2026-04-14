@@ -9,7 +9,7 @@ set: mh3
 type: Enchantment Creature — Insect Monk
 meta_presence: 0.0014
 archetypes:
-  unknown-2:
+  mono-green-ramp:
     weight: 1.0
     avg_copies: 4.0
 ---

@@ -100,10 +100,10 @@ top_cards:
 - name: Boomerang Basics
   weight: 0.2174
   avg_copies: 2.11
-- name: Tormod's Crypt
+- name: Pick Your Poison
   weight: 0.2174
   avg_copies: 1.4
-- name: Pick Your Poison
+- name: Tormod's Crypt
   weight: 0.2174
   avg_copies: 1.4
 - name: Mystical Dispute
@@ -112,10 +112,10 @@ top_cards:
 - name: Academic Dispute
   weight: 0.1739
   avg_copies: 4.0
-- name: It'll Quench Ya!
+- name: Octopus Form
   weight: 0.1739
   avg_copies: 1.0
-- name: Octopus Form
+- name: It'll Quench Ya!
   weight: 0.1739
   avg_copies: 1.0
 - name: Soul-Guide Lantern
@@ -127,10 +127,10 @@ top_cards:
 - name: Firebending Lesson
   weight: 0.1304
   avg_copies: 1.0
-- name: Iroh's Demonstration
+- name: Origin of Metalbending
   weight: 0.1304
   avg_copies: 1.0
-- name: Origin of Metalbending
+- name: Iroh's Demonstration
   weight: 0.1304
   avg_copies: 1.0
 - name: Vexing Bauble
@@ -139,10 +139,10 @@ top_cards:
 - name: Questing Druid // Seek the Beast
   weight: 0.087
   avg_copies: 3.25
-- name: Monstrous Rage
+- name: Abhorrent Oculus
   weight: 0.087
   avg_copies: 2.0
-- name: Abhorrent Oculus
+- name: Force of Negation
   weight: 0.087
   avg_copies: 2.0
 - name: Blood Moon
@@ -151,25 +151,25 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.087
   avg_copies: 2.0
-- name: Force of Negation
+- name: Monstrous Rage
   weight: 0.087
   avg_copies: 2.0
 - name: Obsidian Charmaw
   weight: 0.087
   avg_copies: 1.5
-- name: End the Festivities
-  weight: 0.087
-  avg_copies: 1.0
 - name: Island
-  weight: 0.087
-  avg_copies: 1.0
-- name: Redirect Lightning
   weight: 0.087
   avg_copies: 1.0
 - name: Accumulate Wisdom
   weight: 0.087
   avg_copies: 1.0
+- name: End the Festivities
+  weight: 0.087
+  avg_copies: 1.0
 - name: True Ancestry
+  weight: 0.087
+  avg_copies: 1.0
+- name: Redirect Lightning
   weight: 0.087
   avg_copies: 1.0
 - name: Prismatic Ending
@@ -178,15 +178,6 @@ top_cards:
 - name: Alpine Moon
   weight: 0.0435
   avg_copies: 2.0
-- name: Polluted Delta
-  weight: 0.0435
-  avg_copies: 1.0
-- name: Combustion Technique
-  weight: 0.0435
-  avg_copies: 1.0
-- name: The Legend of Roku // Avatar Roku
-  weight: 0.0435
-  avg_copies: 1.0
 - name: Shatterstorm
   weight: 0.0435
   avg_copies: 1.0
@@ -196,10 +187,19 @@ top_cards:
 - name: Sacred Foundry
   weight: 0.0435
   avg_copies: 1.0
+- name: Riverpyre Verge
+  weight: 0.0435
+  avg_copies: 1.0
 - name: Wear // Tear
   weight: 0.0435
   avg_copies: 1.0
-- name: Riverpyre Verge
+- name: Polluted Delta
+  weight: 0.0435
+  avg_copies: 1.0
+- name: The Legend of Roku // Avatar Roku
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Combustion Technique
   weight: 0.0435
   avg_copies: 1.0
 ---

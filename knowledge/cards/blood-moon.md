@@ -22,7 +22,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   eldrazi-ramp:
-    weight: 0.0833
+    weight: 0.0556
     avg_copies: 2.0
   izzet-prowess:
     weight: 0.087
@@ -33,7 +33,7 @@ archetypes:
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 4.0
-  unknown-10:
+  izzet-splinter-twin:
     weight: 1.0
     avg_copies: 2.0
 ---

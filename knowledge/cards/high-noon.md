@@ -25,8 +25,8 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   azorius-control:
-    weight: 0.4375
-    avg_copies: 1.71
+    weight: 0.4706
+    avg_copies: 1.75
   living-end:
     weight: 0.0714
     avg_copies: 1.0
@@ -40,7 +40,7 @@ archetypes:
     weight: 0.8571
     avg_copies: 2.0
   yawgmoth-combo:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 2.0
   esper-blink:
     weight: 0.75
@@ -57,10 +57,7 @@ archetypes:
   elves:
     weight: 1.0
     avg_copies: 1.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-12:
+  jeskai-control:
     weight: 1.0
     avg_copies: 2.0
 ---

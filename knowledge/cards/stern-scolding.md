@@ -16,7 +16,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.94
   azorius-control:
-    weight: 0.25
+    weight: 0.2353
     avg_copies: 1.0
   simic-ritual:
     weight: 0.0588

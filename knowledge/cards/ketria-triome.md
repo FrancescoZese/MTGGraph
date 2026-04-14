@@ -8,10 +8,10 @@ set: iko
 type: Land — Forest Island Mountain
 meta_presence: 0.0029
 archetypes:
-  indomitable-creativity:
-    weight: 0.1667
+  eldrazi-ramp:
+    weight: 0.0556
     avg_copies: 1.0
-  unknown-5:
+  indomitable-creativity:
     weight: 0.1667
     avg_copies: 1.0
 ---

@@ -9,7 +9,7 @@ set: plc
 type: Creature — Elemental
 meta_presence: 0.0014
 archetypes:
-  unknown-9:
+  mono-green-stompy:
     weight: 1.0
     avg_copies: 1.0
 ---

@@ -1,5 +1,5 @@
 ---
-archetype: unknown-9
+archetype: mono-green-stompy
 date: '2026-04-13'
 finish: 5-0
 pilot: RZ922923

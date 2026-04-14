@@ -48,11 +48,11 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.75
+    weight: 0.8
     avg_copies: 1.5
   eldrazi-ramp:
-    weight: 0.9167
-    avg_copies: 1.47
+    weight: 0.9444
+    avg_copies: 1.48
   izzet-prowess:
     weight: 0.087
     avg_copies: 3.5
@@ -83,22 +83,16 @@ archetypes:
   grixis-shadow:
     weight: 1.0
     avg_copies: 1.0
-  unknown-4:
+  broodscale-combo:
     weight: 1.0
     avg_copies: 1.38
-  unknown-1:
+  rakdos-reanimator:
     weight: 1.0
     avg_copies: 3.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 1.5
-  unknown-6:
+  izzet-cori-steel:
     weight: 0.75
     avg_copies: 1.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 1.5
-  unknown-11:
+  bant-ritual:
     weight: 1.0
     avg_copies: 2.0
 ---

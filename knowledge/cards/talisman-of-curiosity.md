@@ -14,10 +14,10 @@ archetypes:
   mono-blue-tron:
     weight: 1.0
     avg_copies: 1.0
+  eldrazi-ramp:
+    weight: 0.1111
+    avg_copies: 2.0
   izzet-eldrazi:
     weight: 1.0
-    avg_copies: 2.0
-  unknown-5:
-    weight: 0.3333
     avg_copies: 2.0
 ---

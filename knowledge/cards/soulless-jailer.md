@@ -18,10 +18,10 @@ archetypes:
     weight: 1.0
     avg_copies: 2.5
   yawgmoth-combo:
-    weight: 0.75
+    weight: 0.8
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.5
+    weight: 0.5556
     avg_copies: 1.5
   samwise-combo:
     weight: 0.3333
@@ -32,13 +32,7 @@ archetypes:
   izzet-eldrazi:
     weight: 1.0
     avg_copies: 2.0
-  unknown-4:
+  broodscale-combo:
     weight: 0.5
     avg_copies: 1.5
-  unknown-5:
-    weight: 0.6667
-    avg_copies: 1.5
-  unknown-8:
-    weight: 1.0
-    avg_copies: 1.0
 ---

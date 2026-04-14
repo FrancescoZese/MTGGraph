@@ -8,10 +8,10 @@ set: mh3
 type: Creature — Eldrazi Elemental
 meta_presence: 0.0043
 archetypes:
+  eldrazi-ramp:
+    weight: 0.1111
+    avg_copies: 3.0
   izzet-eldrazi:
     weight: 1.0
-    avg_copies: 3.0
-  unknown-5:
-    weight: 0.3333
     avg_copies: 3.0
 ---

@@ -12,7 +12,7 @@ archetypes:
   dredge:
     weight: 0.3333
     avg_copies: 4.0
-  unknown-1:
+  rakdos-reanimator:
     weight: 1.0
     avg_copies: 4.0
 ---

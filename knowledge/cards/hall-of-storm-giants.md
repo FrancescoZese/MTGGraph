@@ -12,7 +12,7 @@ archetypes:
     weight: 0.0435
     avg_copies: 1.0
   azorius-control:
-    weight: 0.5625
+    weight: 0.5294
     avg_copies: 1.0
   bant-control:
     weight: 1.0

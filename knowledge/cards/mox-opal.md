@@ -26,7 +26,7 @@ archetypes:
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 1.0
-  unknown-6:
+  izzet-cori-steel:
     weight: 1.0
     avg_copies: 3.5
 ---

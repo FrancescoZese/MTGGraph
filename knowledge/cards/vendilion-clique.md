@@ -10,6 +10,6 @@ type: Legendary Creature — Faerie Wizard
 meta_presence: 0.0029
 archetypes:
   azorius-control:
-    weight: 0.125
+    weight: 0.1176
     avg_copies: 1.0
 ---

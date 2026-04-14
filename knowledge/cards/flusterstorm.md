@@ -18,7 +18,7 @@ archetypes:
   affinity:
     weight: 0.0274
     avg_copies: 1.0
-  unknown-11:
+  bant-ritual:
     weight: 1.0
     avg_copies: 2.0
 ---

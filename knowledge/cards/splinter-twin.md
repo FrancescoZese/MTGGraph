@@ -9,7 +9,7 @@ set: mm2
 type: Enchantment — Aura
 meta_presence: 0.0014
 archetypes:
-  unknown-10:
+  izzet-splinter-twin:
     weight: 1.0
     avg_copies: 3.0
 ---

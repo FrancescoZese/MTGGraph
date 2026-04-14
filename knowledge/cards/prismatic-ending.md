@@ -29,7 +29,7 @@ archetypes:
     avg_copies: 2.27
   azorius-control:
     weight: 1.0
-    avg_copies: 2.75
+    avg_copies: 2.82
   boros-ponza:
     weight: 0.1429
     avg_copies: 2.0
@@ -54,13 +54,10 @@ archetypes:
   esper-control:
     weight: 1.0
     avg_copies: 3.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-12:
+  jeskai-control:
     weight: 1.0
     avg_copies: 2.0
-  unknown-11:
+  bant-ritual:
     weight: 1.0
     avg_copies: 1.5
 ---

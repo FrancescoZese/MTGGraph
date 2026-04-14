@@ -6,22 +6,22 @@ name: Hollow One
 meta_share: 0.0128
 list_count: 9
 top_cards:
-- name: Street Wraith
-  weight: 1.0
-  avg_copies: 4.0
-- name: Detective's Phoenix
-  weight: 1.0
-  avg_copies: 4.0
 - name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
 - name: Hollow One
   weight: 1.0
   avg_copies: 4.0
+- name: Street Wraith
+  weight: 1.0
+  avg_copies: 4.0
 - name: Burning Inquiry
   weight: 1.0
   avg_copies: 4.0
 - name: Faithless Looting
+  weight: 1.0
+  avg_copies: 4.0
+- name: Detective's Phoenix
   weight: 1.0
   avg_copies: 4.0
 - name: Bloodstained Mire
@@ -42,10 +42,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.8889
   avg_copies: 2.25
-- name: Wooded Foothills
+- name: Lightning Bolt
   weight: 0.7778
   avg_copies: 2.71
-- name: Lightning Bolt
+- name: Wooded Foothills
   weight: 0.7778
   avg_copies: 2.71
 - name: Arena of Glory
@@ -108,19 +108,19 @@ top_cards:
 - name: Illness in the Ranks
   weight: 0.3333
   avg_copies: 1.0
-- name: Verdant Catacombs
-  weight: 0.2222
-  avg_copies: 2.0
 - name: Fear of Missing Out
   weight: 0.2222
   avg_copies: 2.0
 - name: Rakdos Charm
   weight: 0.2222
   avg_copies: 2.0
-- name: Polluted Delta
+- name: Verdant Catacombs
+  weight: 0.2222
+  avg_copies: 2.0
+- name: Violent Urge
   weight: 0.2222
   avg_copies: 1.0
-- name: Violent Urge
+- name: Polluted Delta
   weight: 0.2222
   avg_copies: 1.0
 - name: Vengevine
@@ -132,34 +132,31 @@ top_cards:
 - name: Blazing Rootwalla
   weight: 0.1111
   avg_copies: 4.0
-- name: Cool but Rude
-  weight: 0.1111
-  avg_copies: 2.0
-- name: Rough // Tumble
+- name: Magebane Lizard
   weight: 0.1111
   avg_copies: 2.0
 - name: Goblin Lore
   weight: 0.1111
   avg_copies: 2.0
-- name: Magebane Lizard
-  weight: 0.1111
-  avg_copies: 2.0
 - name: Sheoldred's Edict
-  weight: 0.1111
-  avg_copies: 2.0
-- name: Unholy Heat
   weight: 0.1111
   avg_copies: 2.0
 - name: Stomping Ground
   weight: 0.1111
   avg_copies: 2.0
-- name: Soul-Guide Lantern
+- name: Cool but Rude
   weight: 0.1111
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: Unholy Heat
+  weight: 0.1111
+  avg_copies: 2.0
+- name: Rough // Tumble
+  weight: 0.1111
+  avg_copies: 2.0
 - name: Ox of Agonas
   weight: 0.1111
   avg_copies: 1.0
-- name: Overlord of the Balemurk
+- name: Shattering Spree
   weight: 0.1111
   avg_copies: 1.0
 - name: Barbarian Ring
@@ -168,7 +165,10 @@ top_cards:
 - name: Seal of Fire
   weight: 0.1111
   avg_copies: 1.0
-- name: Shattering Spree
+- name: Soul-Guide Lantern
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Overlord of the Balemurk
   weight: 0.1111
   avg_copies: 1.0
 ---

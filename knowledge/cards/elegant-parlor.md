@@ -18,7 +18,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.02
   azorius-control:
-    weight: 0.3125
+    weight: 0.2941
     avg_copies: 1.0
   mardu-blink:
     weight: 1.0
@@ -26,7 +26,7 @@ archetypes:
   indomitable-creativity:
     weight: 0.8333
     avg_copies: 1.0
-  unknown-12:
+  jeskai-control:
     weight: 1.0
     avg_copies: 1.0
 ---

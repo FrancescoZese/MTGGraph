@@ -22,7 +22,7 @@ archetypes:
     weight: 0.0455
     avg_copies: 1.0
   azorius-control:
-    weight: 0.5625
+    weight: 0.5294
     avg_copies: 1.78
   living-end:
     weight: 1.0
@@ -45,7 +45,7 @@ archetypes:
   sultai-artifacts:
     weight: 0.1667
     avg_copies: 1.0
-  unknown-12:
+  jeskai-control:
     weight: 1.0
     avg_copies: 2.0
 ---

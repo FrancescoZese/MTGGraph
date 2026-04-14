@@ -9,10 +9,10 @@ set: eoe
 type: Creature — Plant Wurm
 meta_presence: 0.0029
 archetypes:
-  unknown-2:
+  mono-green-ramp:
     weight: 1.0
     avg_copies: 1.5
-  unknown-9:
+  mono-green-stompy:
     weight: 1.0
     avg_copies: 1.0
 ---

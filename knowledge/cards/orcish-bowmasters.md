@@ -28,8 +28,8 @@ archetypes:
     weight: 0.5556
     avg_copies: 2.8
   yawgmoth-combo:
-    weight: 0.25
-    avg_copies: 2.5
+    weight: 0.3
+    avg_copies: 2.67
   esper-blink:
     weight: 0.625
     avg_copies: 2.6
@@ -42,10 +42,7 @@ archetypes:
   jund-saga:
     weight: 1.0
     avg_copies: 3.0
-  unknown-1:
+  rakdos-reanimator:
     weight: 1.0
     avg_copies: 4.0
-  unknown-8:
-    weight: 0.5
-    avg_copies: 3.0
 ---

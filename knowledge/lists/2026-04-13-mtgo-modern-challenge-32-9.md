@@ -1,5 +1,5 @@
 ---
-archetype: unknown-4
+archetype: broodscale-combo
 date: '2026-04-13'
 finish: 10th
 pilot: HelpfulHobo

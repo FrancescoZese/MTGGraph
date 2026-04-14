@@ -1,5 +1,5 @@
 ---
-archetype: unknown-3
+archetype: rakdos-steel-cutter
 date: '2026-04-14'
 finish: 5-0
 pilot: darikun

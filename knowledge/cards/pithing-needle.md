@@ -21,7 +21,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.4167
+    weight: 0.3889
     avg_copies: 1.0
   sultai-artifacts:
     weight: 0.5
@@ -32,16 +32,13 @@ archetypes:
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 3.0
-  unknown-4:
+  broodscale-combo:
     weight: 0.75
     avg_copies: 1.0
-  unknown-2:
+  mono-green-ramp:
     weight: 1.0
     avg_copies: 1.0
-  unknown-5:
-    weight: 0.3333
-    avg_copies: 1.0
-  unknown-6:
+  izzet-cori-steel:
     weight: 1.0
     avg_copies: 1.0
 ---

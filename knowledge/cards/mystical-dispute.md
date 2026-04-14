@@ -29,7 +29,7 @@ archetypes:
     avg_copies: 3.0
   azorius-control:
     weight: 1.0
-    avg_copies: 3.06
+    avg_copies: 3.12
   living-end:
     weight: 0.9286
     avg_copies: 3.23
@@ -87,13 +87,10 @@ archetypes:
   izzet-eldrazi:
     weight: 1.0
     avg_copies: 2.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-10:
+  izzet-splinter-twin:
     weight: 1.0
     avg_copies: 3.0
-  unknown-12:
+  jeskai-control:
     weight: 1.0
     avg_copies: 3.0
 ---

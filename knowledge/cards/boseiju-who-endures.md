@@ -28,9 +28,9 @@ archetypes:
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.9
   eldrazi-ramp:
-    weight: 0.6667
+    weight: 0.4444
     avg_copies: 1.75
   simic-ritual:
     weight: 1.0
@@ -53,16 +53,13 @@ archetypes:
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
-  unknown-4:
+  broodscale-combo:
     weight: 1.0
     avg_copies: 1.75
-  unknown-2:
+  mono-green-ramp:
     weight: 1.0
     avg_copies: 1.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 1.5
-  unknown-9:
+  mono-green-stompy:
     weight: 1.0
     avg_copies: 1.0
 ---

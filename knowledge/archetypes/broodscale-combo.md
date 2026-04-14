@@ -1,26 +1,26 @@
 ---
 colors:
 - G
-name: 'Unknown #4'
+name: Broodscale Combo
 meta_share: 0.0057
 list_count: 4
 top_cards:
-- name: Basking Broodscale
-  weight: 1.0
-  avg_copies: 4.0
-- name: Kozilek's Command
-  weight: 1.0
-  avg_copies: 4.0
 - name: Urza's Saga
+  weight: 1.0
+  avg_copies: 4.0
+- name: Basking Broodscale
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
+- name: Malevolent Rumble
+  weight: 1.0
+  avg_copies: 4.0
 - name: Grove of the Burnwillows
   weight: 1.0
   avg_copies: 4.0
-- name: Malevolent Rumble
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Ancient Stirrings
@@ -50,16 +50,16 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.38
-- name: Soul-Guide Lantern
+- name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Grafdigger's Cage
   weight: 1.0
   avg_copies: 1.0
 - name: Springleaf Drum
   weight: 1.0
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 1.0
 - name: Nature's Claim
@@ -71,10 +71,10 @@ top_cards:
 - name: Cavern of Souls
   weight: 0.75
   avg_copies: 1.4
-- name: Pithing Needle
+- name: Gemstone Caverns
   weight: 0.75
   avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Pithing Needle
   weight: 0.75
   avg_copies: 1.0
 - name: Ugin's Labyrinth
@@ -89,19 +89,19 @@ top_cards:
 - name: Unholy Heat
   weight: 0.5
   avg_copies: 1.67
-- name: Soulless Jailer
-  weight: 0.5
-  avg_copies: 1.5
-- name: Firespout
+- name: Pick Your Poison
   weight: 0.5
   avg_copies: 1.5
 - name: Sire of Seven Deaths
   weight: 0.5
   avg_copies: 1.5
+- name: Soulless Jailer
+  weight: 0.5
+  avg_copies: 1.5
 - name: Warping Wail
   weight: 0.5
   avg_copies: 1.5
-- name: Pick Your Poison
+- name: Firespout
   weight: 0.5
   avg_copies: 1.5
 - name: Stomping Ground
@@ -110,28 +110,28 @@ top_cards:
 - name: Commercial District
   weight: 0.5
   avg_copies: 1.0
-- name: Delighted Halfling
-  weight: 0.25
-  avg_copies: 3.0
 - name: Writhing Chrysalis
   weight: 0.25
   avg_copies: 3.0
+- name: Delighted Halfling
+  weight: 0.25
+  avg_copies: 3.0
+- name: Sowing Mycospawn
+  weight: 0.25
+  avg_copies: 2.0
 - name: Thought-Knot Seer
   weight: 0.25
   avg_copies: 2.0
 - name: Misty Rainforest
   weight: 0.25
   avg_copies: 2.0
-- name: Sowing Mycospawn
-  weight: 0.25
-  avg_copies: 2.0
-- name: Verdant Catacombs
+- name: Windswept Heath
   weight: 0.25
   avg_copies: 1.0
 - name: Wooded Foothills
   weight: 0.25
   avg_copies: 1.0
-- name: Windswept Heath
+- name: Verdant Catacombs
   weight: 0.25
   avg_copies: 1.0
 ---

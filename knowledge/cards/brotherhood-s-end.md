@@ -24,7 +24,7 @@ archetypes:
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
-  unknown-1:
+  rakdos-reanimator:
     weight: 1.0
     avg_copies: 1.0
 ---

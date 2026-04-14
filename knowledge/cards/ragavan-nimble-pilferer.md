@@ -27,7 +27,7 @@ archetypes:
   jund-saga:
     weight: 1.0
     avg_copies: 4.0
-  unknown-10:
+  izzet-splinter-twin:
     weight: 1.0
     avg_copies: 2.0
 ---

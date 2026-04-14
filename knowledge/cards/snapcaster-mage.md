@@ -16,12 +16,12 @@ archetypes:
     weight: 0.2727
     avg_copies: 1.67
   azorius-control:
-    weight: 0.0625
+    weight: 0.0588
     avg_copies: 3.0
   grixis-control:
     weight: 1.0
     avg_copies: 3.0
-  unknown-10:
+  izzet-splinter-twin:
     weight: 1.0
     avg_copies: 2.0
 ---

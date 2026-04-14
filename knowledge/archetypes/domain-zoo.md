@@ -9,19 +9,19 @@ name: Domain Zoo
 meta_share: 0.0371
 list_count: 26
 top_cards:
-- name: Scion of Draco
+- name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
 - name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline of the Guildpact
+- name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
-- name: Arid Mesa
+- name: Leyline Binding
   weight: 1.0
   avg_copies: 3.96
-- name: Leyline Binding
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 3.96
 - name: Lightning Bolt
@@ -42,10 +42,10 @@ top_cards:
 - name: Wear // Tear
   weight: 1.0
   avg_copies: 1.62
-- name: Temple Garden
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
-- name: Godless Shrine
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 - name: Plains
@@ -75,10 +75,10 @@ top_cards:
 - name: Arena of Glory
   weight: 0.9615
   avg_copies: 1.92
-- name: Thundering Falls
+- name: Mountain
   weight: 0.8846
   avg_copies: 1.0
-- name: Mountain
+- name: Thundering Falls
   weight: 0.8846
   avg_copies: 1.0
 - name: Teferi, Time Raveler
@@ -123,25 +123,25 @@ top_cards:
 - name: The Legend of Roku // Avatar Roku
   weight: 0.1154
   avg_copies: 1.33
-- name: Clarion Conqueror
-  weight: 0.0769
-  avg_copies: 1.0
 - name: Does Machines
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Sacred Foundry
   weight: 0.0769
   avg_copies: 1.0
 - name: Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
   weight: 0.0769
   avg_copies: 1.0
-- name: Aurora Awakener
+- name: Sacred Foundry
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Clarion Conqueror
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Psychic Frog
   weight: 0.0385
   avg_copies: 4.0
 - name: Persist
   weight: 0.0385
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Aurora Awakener
   weight: 0.0385
   avg_copies: 4.0
 - name: Archon of Cruelty
@@ -156,31 +156,31 @@ top_cards:
 - name: Drannith Magistrate
   weight: 0.0385
   avg_copies: 2.0
+- name: Quantum Riddler
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Glasspool Mimic // Glasspool Shore
+  weight: 0.0385
+  avg_copies: 1.0
 - name: Vexing Bauble
   weight: 0.0385
   avg_copies: 1.0
 - name: Celestial Purge
   weight: 0.0385
   avg_copies: 1.0
-- name: Quantum Riddler
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Blood Crypt
+- name: Raucous Theater
   weight: 0.0385
   avg_copies: 1.0
 - name: Orcish Bowmasters
   weight: 0.0385
   avg_copies: 1.0
-- name: Raucous Theater
-  weight: 0.0385
-  avg_copies: 1.0
 - name: Meltdown
   weight: 0.0385
   avg_copies: 1.0
-- name: Glasspool Mimic // Glasspool Shore
+- name: Breeding Pool
   weight: 0.0385
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Blood Crypt
   weight: 0.0385
   avg_copies: 1.0
 ---

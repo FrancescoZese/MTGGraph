@@ -12,16 +12,16 @@ archetypes:
   mono-blue-belcher:
     weight: 0.6471
     avg_copies: 4.0
+  azorius-control:
+    weight: 0.0588
+    avg_copies: 4.0
   grixis-control:
     weight: 1.0
     avg_copies: 2.0
-  unknown-7:
+  izzet-splinter-twin:
     weight: 1.0
     avg_copies: 4.0
-  unknown-10:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-12:
+  jeskai-control:
     weight: 1.0
     avg_copies: 3.0
 ---

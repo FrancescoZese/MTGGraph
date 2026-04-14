@@ -14,7 +14,7 @@ archetypes:
   neoform-combo:
     weight: 1.0
     avg_copies: 1.15
-  unknown-9:
+  mono-green-stompy:
     weight: 1.0
     avg_copies: 3.0
 ---

@@ -30,7 +30,7 @@ archetypes:
     weight: 0.7143
     avg_copies: 2.1
   azorius-control:
-    weight: 0.1875
+    weight: 0.1765
     avg_copies: 2.33
   living-end:
     weight: 0.5
@@ -57,10 +57,10 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.5
   yawgmoth-combo:
-    weight: 0.375
+    weight: 0.4
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.4167
+    weight: 0.2778
     avg_copies: 1.8
   simic-ritual:
     weight: 0.2353
@@ -80,22 +80,19 @@ archetypes:
   grixis-shadow:
     weight: 1.0
     avg_copies: 2.0
-  unknown-4:
+  broodscale-combo:
     weight: 0.5
     avg_copies: 2.0
-  unknown-3:
+  rakdos-steel-cutter:
     weight: 1.0
     avg_copies: 4.0
-  unknown-8:
-    weight: 0.5
-    avg_copies: 1.0
-  unknown-9:
+  mono-green-stompy:
     weight: 1.0
     avg_copies: 3.0
-  unknown-10:
+  izzet-splinter-twin:
     weight: 1.0
     avg_copies: 1.0
-  unknown-11:
+  bant-ritual:
     weight: 1.0
     avg_copies: 2.0
 ---

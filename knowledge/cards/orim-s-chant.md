@@ -19,18 +19,15 @@ archetypes:
     weight: 0.0154
     avg_copies: 4.0
   azorius-control:
-    weight: 0.875
-    avg_copies: 3.73
+    weight: 0.8824
+    avg_copies: 3.75
   boros-ponza:
     weight: 1.0
     avg_copies: 1.58
   indomitable-creativity:
     weight: 0.3333
     avg_copies: 3.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-12:
+  jeskai-control:
     weight: 1.0
     avg_copies: 4.0
 ---

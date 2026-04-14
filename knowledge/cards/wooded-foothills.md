@@ -27,11 +27,11 @@ archetypes:
     weight: 0.7778
     avg_copies: 2.71
   yawgmoth-combo:
-    weight: 0.375
+    weight: 0.3
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.8333
-    avg_copies: 1.0
+    weight: 0.7778
+    avg_copies: 1.07
   simic-ritual:
     weight: 0.1176
     avg_copies: 4.0
@@ -53,19 +53,16 @@ archetypes:
   jund-saga:
     weight: 1.0
     avg_copies: 2.0
-  unknown-4:
+  broodscale-combo:
     weight: 0.25
     avg_copies: 1.0
-  unknown-3:
+  rakdos-steel-cutter:
     weight: 0.5
     avg_copies: 2.0
-  unknown-1:
+  rakdos-reanimator:
     weight: 1.0
     avg_copies: 1.0
-  unknown-5:
-    weight: 0.6667
-    avg_copies: 1.25
-  unknown-9:
+  mono-green-stompy:
     weight: 1.0
     avg_copies: 4.0
 ---

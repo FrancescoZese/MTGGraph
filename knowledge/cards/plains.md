@@ -56,13 +56,10 @@ archetypes:
   esper-control:
     weight: 1.0
     avg_copies: 2.0
-  unknown-7:
+  jeskai-control:
     weight: 1.0
     avg_copies: 2.0
-  unknown-12:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-11:
+  bant-ritual:
     weight: 1.0
     avg_copies: 1.0
 ---

@@ -21,8 +21,8 @@ archetypes:
     weight: 0.1071
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0625
-    avg_copies: 1.0
+    weight: 0.1176
+    avg_copies: 2.0
   affinity:
     weight: 0.0411
     avg_copies: 1.0
@@ -36,7 +36,7 @@ archetypes:
     weight: 0.2857
     avg_copies: 2.0
   eldrazi-ramp:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
   izzet-prowess:
     weight: 0.1304
@@ -47,13 +47,10 @@ archetypes:
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
-  unknown-4:
+  broodscale-combo:
     weight: 1.0
     avg_copies: 1.0
-  unknown-6:
+  izzet-cori-steel:
     weight: 1.0
     avg_copies: 1.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 3.0
 ---

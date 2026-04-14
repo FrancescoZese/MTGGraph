@@ -31,7 +31,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.33
   yawgmoth-combo:
-    weight: 0.75
+    weight: 0.8
     avg_copies: 2.5
   simic-ritual:
     weight: 0.1176
@@ -63,10 +63,7 @@ archetypes:
   grixis-shadow:
     weight: 1.0
     avg_copies: 4.0
-  unknown-1:
+  rakdos-reanimator:
     weight: 1.0
     avg_copies: 3.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 2.5
 ---

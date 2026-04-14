@@ -25,7 +25,7 @@ archetypes:
     weight: 0.6429
     avg_copies: 1.89
   azorius-control:
-    weight: 0.8125
+    weight: 0.7647
     avg_copies: 1.23
   domain-zoo:
     weight: 0.1538
@@ -49,10 +49,10 @@ archetypes:
     weight: 0.2857
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0833
+    weight: 0.0556
     avg_copies: 2.0
   izzet-prowess:
     weight: 0.7391
@@ -66,10 +66,10 @@ archetypes:
   orzhov-blink:
     weight: 0.5
     avg_copies: 1.0
-  unknown-10:
+  izzet-splinter-twin:
     weight: 1.0
     avg_copies: 1.0
-  unknown-12:
+  jeskai-control:
     weight: 1.0
     avg_copies: 2.0
 ---

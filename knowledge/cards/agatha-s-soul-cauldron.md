@@ -15,7 +15,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   yawgmoth-combo:
-    weight: 0.5
+    weight: 0.6
     avg_copies: 4.0
   sultai-reanimator:
     weight: 1.0
@@ -26,10 +26,7 @@ archetypes:
   elves:
     weight: 1.0
     avg_copies: 2.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-11:
+  bant-ritual:
     weight: 1.0
     avg_copies: 2.0
 ---

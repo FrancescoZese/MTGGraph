@@ -1,5 +1,5 @@
 ---
-archetype: unknown-2
+archetype: mono-green-ramp
 date: '2026-04-13'
 finish: 6th
 pilot: aspiringspike

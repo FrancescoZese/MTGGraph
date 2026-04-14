@@ -23,7 +23,7 @@ archetypes:
     weight: 0.2143
     avg_copies: 1.67
   azorius-control:
-    weight: 0.3125
+    weight: 0.2941
     avg_copies: 1.0
   affinity:
     weight: 0.0685
@@ -35,8 +35,8 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.375
-    avg_copies: 1.0
+    weight: 0.5
+    avg_copies: 1.2
   esper-blink:
     weight: 0.25
     avg_copies: 1.0
@@ -55,10 +55,7 @@ archetypes:
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 2.0
-  unknown-2:
+  mono-green-ramp:
     weight: 1.0
     avg_copies: 2.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 1.5
 ---

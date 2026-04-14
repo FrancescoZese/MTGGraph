@@ -16,7 +16,7 @@ archetypes:
     weight: 0.6923
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 2.0
   simic-ritual:
     weight: 1.0
@@ -30,7 +30,7 @@ archetypes:
   samwise-combo:
     weight: 0.6667
     avg_copies: 1.5
-  unknown-11:
+  bant-ritual:
     weight: 1.0
     avg_copies: 2.0
 ---

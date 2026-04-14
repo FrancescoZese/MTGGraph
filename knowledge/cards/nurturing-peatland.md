@@ -12,7 +12,7 @@ archetypes:
     weight: 0.0714
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.375
+    weight: 0.3
     avg_copies: 1.0
   samwise-combo:
     weight: 0.6667

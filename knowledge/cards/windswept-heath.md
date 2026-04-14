@@ -18,17 +18,17 @@ archetypes:
     weight: 0.0357
     avg_copies: 1.0
   azorius-control:
-    weight: 0.125
+    weight: 0.1176
     avg_copies: 2.0
   neoform-combo:
     weight: 0.0769
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.875
+    weight: 0.9
     avg_copies: 4.0
   eldrazi-ramp:
-    weight: 0.6667
-    avg_copies: 1.0
+    weight: 0.7778
+    avg_copies: 1.07
   4c-omnath:
     weight: 1.0
     avg_copies: 2.0
@@ -47,22 +47,16 @@ archetypes:
   elves:
     weight: 1.0
     avg_copies: 2.0
-  unknown-4:
+  broodscale-combo:
     weight: 0.25
     avg_copies: 1.0
-  unknown-2:
+  mono-green-ramp:
     weight: 1.0
     avg_copies: 4.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 1.17
-  unknown-8:
+  mono-green-stompy:
     weight: 1.0
     avg_copies: 4.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-11:
+  bant-ritual:
     weight: 1.0
     avg_copies: 1.0
 ---

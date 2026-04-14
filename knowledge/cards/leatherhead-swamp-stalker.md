@@ -9,7 +9,7 @@ set: tmt
 type: Legendary Creature — Crocodile Mutant Rogue
 meta_presence: 0.0014
 archetypes:
-  unknown-9:
+  mono-green-stompy:
     weight: 1.0
     avg_copies: 1.5
 ---

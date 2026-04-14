@@ -87,13 +87,13 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 0.4348
   avg_copies: 1.2
-- name: Otawara, Soaring City
-  weight: 0.4348
-  avg_copies: 1.0
 - name: Logic Knot
   weight: 0.4348
   avg_copies: 1.0
 - name: Damnation
+  weight: 0.4348
+  avg_copies: 1.0
+- name: Otawara, Soaring City
   weight: 0.4348
   avg_copies: 1.0
 - name: Engineered Explosives
@@ -117,10 +117,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.1304
   avg_copies: 1.67
-- name: Brazen Borrower // Petty Theft
+- name: Nihil Spellbomb
   weight: 0.1304
   avg_copies: 1.33
-- name: Nihil Spellbomb
+- name: Brazen Borrower // Petty Theft
   weight: 0.1304
   avg_copies: 1.33
 - name: Toxic Deluge
@@ -129,13 +129,13 @@ top_cards:
 - name: Quantum Riddler
   weight: 0.087
   avg_copies: 2.0
+- name: Psychic Frog
+  weight: 0.087
+  avg_copies: 1.0
 - name: Anoint with Affliction
   weight: 0.087
   avg_copies: 1.0
 - name: Ashiok, Dream Render
-  weight: 0.087
-  avg_copies: 1.0
-- name: Psychic Frog
   weight: 0.087
   avg_copies: 1.0
 - name: Snow-Covered Island
@@ -156,46 +156,28 @@ top_cards:
 - name: Dismember
   weight: 0.0435
   avg_copies: 3.0
-- name: Murktide Regent
-  weight: 0.0435
-  avg_copies: 2.0
 - name: Hurkyl's Recall
   weight: 0.0435
   avg_copies: 2.0
-- name: Cryptic Command
-  weight: 0.0435
-  avg_copies: 2.0
-- name: Drown in the Loch
-  weight: 0.0435
-  avg_copies: 2.0
-- name: High Noon
-  weight: 0.0435
-  avg_copies: 2.0
-- name: Pest Control
+- name: Murktide Regent
   weight: 0.0435
   avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.0435
   avg_copies: 2.0
-- name: Thundering Falls
+- name: High Noon
   weight: 0.0435
-  avg_copies: 1.0
-- name: Lórien Revealed
+  avg_copies: 2.0
+- name: Drown in the Loch
   weight: 0.0435
-  avg_copies: 1.0
-- name: Gloomlake Verge
+  avg_copies: 2.0
+- name: Cryptic Command
   weight: 0.0435
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: Pest Control
+  weight: 0.0435
+  avg_copies: 2.0
 - name: Hallowed Fountain
-  weight: 0.0435
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.0435
-  avg_copies: 1.0
-- name: Hall of Storm Giants
-  weight: 0.0435
-  avg_copies: 1.0
-- name: Sink into Stupor // Soporific Springs
   weight: 0.0435
   avg_copies: 1.0
 - name: Sunken Ruins
@@ -204,10 +186,28 @@ top_cards:
 - name: Snow-Covered Swamp
   weight: 0.0435
   avg_copies: 1.0
-- name: Preordain
+- name: Gloomlake Verge
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Sink into Stupor // Soporific Springs
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Lórien Revealed
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Hall of Storm Giants
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Meticulous Archive
   weight: 0.0435
   avg_copies: 1.0
 - name: Takenuma, Abandoned Mire
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Preordain
   weight: 0.0435
   avg_copies: 1.0
 ---

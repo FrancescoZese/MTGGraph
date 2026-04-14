@@ -18,7 +18,7 @@ archetypes:
     weight: 0.4091
     avg_copies: 1.0
   azorius-control:
-    weight: 0.125
+    weight: 0.1176
     avg_copies: 1.0
   living-end:
     weight: 1.0
@@ -26,6 +26,9 @@ archetypes:
   neoform-combo:
     weight: 1.0
     avg_copies: 2.77
+  eldrazi-ramp:
+    weight: 0.1111
+    avg_copies: 1.0
   simic-ritual:
     weight: 1.0
     avg_copies: 1.76
@@ -36,9 +39,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   sultai-artifacts:
-    weight: 0.3333
-    avg_copies: 1.0
-  unknown-5:
     weight: 0.3333
     avg_copies: 1.0
 ---

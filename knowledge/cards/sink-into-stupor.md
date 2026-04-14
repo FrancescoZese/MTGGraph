@@ -20,6 +20,9 @@ archetypes:
   goryo-reanimator:
     weight: 0.2273
     avg_copies: 1.0
+  azorius-control:
+    weight: 0.0588
+    avg_copies: 2.0
   living-end:
     weight: 1.0
     avg_copies: 1.57
@@ -47,13 +50,10 @@ archetypes:
   izzet-eldrazi:
     weight: 1.0
     avg_copies: 1.0
-  unknown-6:
+  izzet-cori-steel:
     weight: 1.0
     avg_copies: 2.25
-  unknown-7:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-10:
+  izzet-splinter-twin:
     weight: 1.0
     avg_copies: 2.0
 ---

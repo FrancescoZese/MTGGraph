@@ -30,6 +30,9 @@ archetypes:
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
+  eldrazi-ramp:
+    weight: 0.0556
+    avg_copies: 2.0
   esper-blink:
     weight: 0.125
     avg_copies: 1.0
@@ -42,7 +45,4 @@ archetypes:
   sultai-artifacts:
     weight: 1.0
     avg_copies: 1.14
-  unknown-5:
-    weight: 0.1667
-    avg_copies: 2.0
 ---
