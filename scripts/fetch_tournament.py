@@ -19,7 +19,12 @@ RAW_DIR = ROOT / "raw"
 
 def fetch_decks(url: str) -> list[dict]:
     """Fetch and parse deck data from an MTGO tournament page."""
-    resp = requests.get(url, timeout=90)
+    try:
+        import cloudscraper
+        scraper = cloudscraper.create_scraper()
+        resp = scraper.get(url, timeout=90)
+    except ImportError:
+        resp = requests.get(url, timeout=90)
     resp.raise_for_status()
 
     # Challenge format: [{"loginid":...}], League format: [{"loginplayeventcourseid":...}]

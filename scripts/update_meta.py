@@ -54,7 +54,12 @@ def find_new_events(since: str, challenges_only: bool = False) -> list[dict]:
     # Strategy 1: Parse the MTGO decklists page
     print("Fetching MTGO decklists page...", flush=True)
     try:
-        resp = requests.get(MTGO_DECKLISTS_URL, timeout=90)
+        try:
+            import cloudscraper
+            scraper = cloudscraper.create_scraper()
+            resp = scraper.get(MTGO_DECKLISTS_URL, timeout=90)
+        except ImportError:
+            resp = requests.get(MTGO_DECKLISTS_URL, timeout=90)
         resp.raise_for_status()
         print(f"  Got {len(resp.text)} bytes", flush=True)
 
