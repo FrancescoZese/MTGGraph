@@ -1,5 +1,6 @@
 ---
 colors:
+- W
 - U
 - B
 - R
@@ -8,13 +9,13 @@ name: Neoform Combo
 meta_share: 0.0185
 list_count: 13
 top_cards:
-- name: Eldritch Evolution
-  weight: 1.0
-  avg_copies: 4.0
 - name: Neoform
   weight: 1.0
   avg_copies: 4.0
 - name: Planar Genesis
+  weight: 1.0
+  avg_copies: 4.0
+- name: Eldritch Evolution
   weight: 1.0
   avg_copies: 4.0
 - name: Allosaurus Rider
@@ -59,13 +60,13 @@ top_cards:
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.08
-- name: Boseiju, Who Endures
-  weight: 1.0
-  avg_copies: 1.0
 - name: Griselbrand
   weight: 1.0
   avg_copies: 1.0
 - name: Xenagos, God of Revels
+  weight: 1.0
+  avg_copies: 1.0
+- name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.0
 - name: Veil of Summer
@@ -74,22 +75,22 @@ top_cards:
 - name: Hooting Mandrills
   weight: 0.9231
   avg_copies: 1.08
-- name: Snow-Covered Forest
-  weight: 0.9231
-  avg_copies: 1.0
-- name: Atraxa, Grand Unifier
-  weight: 0.9231
-  avg_copies: 1.0
 - name: Snow-Covered Island
   weight: 0.9231
   avg_copies: 1.0
 - name: Elesh Norn, Grand Cenobite
   weight: 0.9231
   avg_copies: 1.0
-- name: Wooded Foothills
-  weight: 0.8462
+- name: Atraxa, Grand Unifier
+  weight: 0.9231
+  avg_copies: 1.0
+- name: Snow-Covered Forest
+  weight: 0.9231
   avg_copies: 1.0
 - name: Into the Flood Maw
+  weight: 0.8462
+  avg_copies: 1.0
+- name: Wooded Foothills
   weight: 0.8462
   avg_copies: 1.0
 - name: Ureni, the Song Unending
@@ -101,10 +102,10 @@ top_cards:
 - name: Scalding Tarn
   weight: 0.6923
   avg_copies: 1.67
-- name: Endurance
+- name: Abhorrent Oculus
   weight: 0.6923
   avg_copies: 1.0
-- name: Abhorrent Oculus
+- name: Endurance
   weight: 0.6923
   avg_copies: 1.0
 - name: Polluted Delta
@@ -131,28 +132,28 @@ top_cards:
 - name: Commercial District
   weight: 0.0769
   avg_copies: 1.0
+- name: Spell Snare
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Windswept Heath
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Preordain
+  weight: 0.0769
+  avg_copies: 1.0
 - name: Brainsurge
   weight: 0.0769
   avg_copies: 1.0
 - name: Thundering Falls
   weight: 0.0769
   avg_copies: 1.0
-- name: Spell Snare
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Preordain
-  weight: 0.0769
-  avg_copies: 1.0
 - name: Borborygmos Enraged
   weight: 0.0769
   avg_copies: 1.0
-- name: Windswept Heath
+- name: Forest
   weight: 0.0769
   avg_copies: 1.0
 - name: Island
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Forest
   weight: 0.0769
   avg_copies: 1.0
 ---

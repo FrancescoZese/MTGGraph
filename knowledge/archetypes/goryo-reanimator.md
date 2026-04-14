@@ -17,10 +17,10 @@ top_cards:
 - name: Solitude
   weight: 1.0
   avg_copies: 3.86
-- name: Atraxa, Grand Unifier
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 3.82
-- name: Psychic Frog
+- name: Atraxa, Grand Unifier
   weight: 1.0
   avg_copies: 3.82
 - name: Polluted Delta
@@ -56,31 +56,31 @@ top_cards:
 - name: Griselbrand
   weight: 1.0
   avg_copies: 1.05
-- name: Swamp
-  weight: 1.0
-  avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 1.0
-  avg_copies: 1.0
-- name: Undercity Sewers
-  weight: 1.0
-  avg_copies: 1.0
 - name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 1.0
-  avg_copies: 1.0
-- name: Island
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
 - name: Plains
   weight: 1.0
   avg_copies: 1.0
+- name: Meticulous Archive
+  weight: 1.0
+  avg_copies: 1.0
 - name: Shadowy Backstreet
+  weight: 1.0
+  avg_copies: 1.0
+- name: Swamp
+  weight: 1.0
+  avg_copies: 1.0
+- name: Undercity Sewers
+  weight: 1.0
+  avg_copies: 1.0
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Quantum Riddler
@@ -107,10 +107,10 @@ top_cards:
 - name: March of Otherworldly Light
   weight: 0.4091
   avg_copies: 1.09
-- name: Pest Control
+- name: Hedge Maze
   weight: 0.4091
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Pest Control
   weight: 0.4091
   avg_copies: 1.0
 - name: Emperor of Bones
@@ -125,49 +125,49 @@ top_cards:
 - name: Damping Sphere
   weight: 0.1364
   avg_copies: 1.67
-- name: Deafening Silence
+- name: Fallaji Archaeologist
   weight: 0.0909
   avg_copies: 2.0
-- name: Fallaji Archaeologist
+- name: Deafening Silence
   weight: 0.0909
   avg_copies: 2.0
 - name: Nihil Spellbomb
   weight: 0.0909
   avg_copies: 1.5
+- name: Spell Snare
+  weight: 0.0909
+  avg_copies: 1.0
 - name: Ketramose, the New Dawn
   weight: 0.0909
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
   weight: 0.0909
   avg_copies: 1.0
-- name: Spell Snare
-  weight: 0.0909
-  avg_copies: 1.0
 - name: No More Lies
   weight: 0.0455
   avg_copies: 2.0
+- name: Overgrown Tomb
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Unburial Rites
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Subtlety
+  weight: 0.0455
+  avg_copies: 1.0
 - name: Damn
   weight: 0.0455
   avg_copies: 1.0
 - name: Toxic Deluge
   weight: 0.0455
   avg_copies: 1.0
-- name: Unburial Rites
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Arcbound Ravager
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Overgrown Tomb
+- name: Winternight Stories
   weight: 0.0455
   avg_copies: 1.0
 - name: Cephalid Coliseum
   weight: 0.0455
   avg_copies: 1.0
-- name: Subtlety
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Winternight Stories
+- name: Arcbound Ravager
   weight: 0.0455
   avg_copies: 1.0
 ---

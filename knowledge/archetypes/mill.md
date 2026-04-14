@@ -6,28 +6,28 @@ name: Mill
 meta_share: 0.0057
 list_count: 4
 top_cards:
-- name: Archive Trap
-  weight: 1.0
-  avg_copies: 4.0
 - name: Ruin Crab
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
+- name: Hedron Crab
+  weight: 1.0
+  avg_copies: 4.0
 - name: Fractured Sanity
   weight: 1.0
   avg_copies: 4.0
-- name: Hedron Crab
+- name: Archive Trap
   weight: 1.0
   avg_copies: 4.0
 - name: Field of Ruin
   weight: 1.0
   avg_copies: 3.75
-- name: Drown in the Loch
+- name: Fatal Push
   weight: 1.0
   avg_copies: 3.25
-- name: Fatal Push
+- name: Drown in the Loch
   weight: 1.0
   avg_copies: 3.25
 - name: Soul-Guide Lantern
@@ -48,10 +48,10 @@ top_cards:
 - name: Engineered Explosives
   weight: 1.0
   avg_copies: 1.5
-- name: Jace, the Perfected Mind
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.25
-- name: Watery Grave
+- name: Jace, the Perfected Mind
   weight: 1.0
   avg_copies: 1.25
 - name: Scalding Tarn
@@ -72,10 +72,10 @@ top_cards:
 - name: Snow-Covered Island
   weight: 0.75
   avg_copies: 3.33
-- name: Toxic Deluge
+- name: Snow-Covered Swamp
   weight: 0.75
   avg_copies: 1.67
-- name: Snow-Covered Swamp
+- name: Toxic Deluge
   weight: 0.75
   avg_copies: 1.67
 - name: Flooded Strand
@@ -84,22 +84,22 @@ top_cards:
 - name: Island
   weight: 0.5
   avg_copies: 2.5
-- name: Kitsune's Technique
-  weight: 0.5
-  avg_copies: 2.0
 - name: Ensnaring Bridge
   weight: 0.5
   avg_copies: 2.0
-- name: Glimpse the Unthinkable
+- name: Kitsune's Technique
   weight: 0.5
   avg_copies: 2.0
-- name: Ghost Quarter
+- name: Tamiyo, Inquisitive Student
   weight: 0.5
   avg_copies: 2.0
 - name: Consign to Memory
   weight: 0.5
   avg_copies: 2.0
-- name: Tamiyo, Inquisitive Student
+- name: Ghost Quarter
+  weight: 0.5
+  avg_copies: 2.0
+- name: Glimpse the Unthinkable
   weight: 0.5
   avg_copies: 2.0
 - name: Swamp
@@ -108,19 +108,19 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 0.5
   avg_copies: 1.33
-- name: Damnation
-  weight: 0.5
-  avg_copies: 1.0
 - name: Murderous Cut
   weight: 0.5
   avg_copies: 1.0
 - name: Crypt Incursion
   weight: 0.5
   avg_copies: 1.0
-- name: Cephalid Coliseum
+- name: Misty Rainforest
   weight: 0.5
   avg_copies: 1.0
-- name: Misty Rainforest
+- name: Damnation
+  weight: 0.5
+  avg_copies: 1.0
+- name: Cephalid Coliseum
   weight: 0.5
   avg_copies: 1.0
 - name: Mikokoro, Center of the Sea
@@ -129,22 +129,22 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.25
   avg_copies: 2.0
+- name: Long Goodbye
+  weight: 0.25
+  avg_copies: 1.0
 - name: Sink into Stupor
+  weight: 0.25
+  avg_copies: 1.0
+- name: Baleful Mastery
   weight: 0.25
   avg_copies: 1.0
 - name: Echoing Truth
   weight: 0.25
   avg_copies: 1.0
-- name: Long Goodbye
-  weight: 0.25
-  avg_copies: 1.0
-- name: The Meathook Massacre
-  weight: 0.25
-  avg_copies: 1.0
 - name: Go for the Throat
   weight: 0.25
   avg_copies: 1.0
-- name: Baleful Mastery
+- name: The Meathook Massacre
   weight: 0.25
   avg_copies: 1.0
 ---

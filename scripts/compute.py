@@ -107,6 +107,7 @@ def compute_graph(knowledge_dir: Path) -> dict:
             "id": f"card:{slug}",
             "type": "card",
             "name": card_name,
+            "card_type": card_data.get("type", "").split(" // ")[0],
             "colors": card_data.get("colors", []),
             "cmc": card_data.get("cmc", 0),
             "image": card_data.get("image", ""),
@@ -310,6 +311,21 @@ def enrich_markdown(knowledge_dir: Path, graph: dict) -> None:
         fm["meta_share"] = node["meta_share"]
         fm["list_count"] = node["list_count"]
 
+        # Recompute colors from mainboard cards only (ignore sideboard splashes)
+        color_order = ["W", "U", "B", "R", "G"]
+        arch_colors = set()
+        for edge in graph["edges"]:
+            if edge["target"] != arch_id:
+                continue
+            if edge.get("main_weight", 0) < 0.25:
+                continue
+            card_node = card_nodes.get(edge["source"])
+            if card_node:
+                for c in card_node.get("colors", []):
+                    arch_colors.add(c)
+        fm["colors"] = [c for c in color_order if c in arch_colors]
+        node["colors"] = fm["colors"]
+
         # Top cards sorted by weight then avg_copies
         edges_for_arch = arch_edges.get(arch_id, [])
         edges_for_arch.sort(key=lambda e: (-e["weight"], -e["avg_copies"]))
@@ -388,8 +404,11 @@ def write_graph(knowledge_dir: Path, output_path: Path) -> None:
     graph = compute_graph(knowledge_dir)
     output_path = Path(output_path)
     output_path.parent.mkdir(parents=True, exist_ok=True)
+
+    # Enrich first — this recomputes archetype colors from mainboard cards
+    enrich_markdown(knowledge_dir, graph)
+
     with open(output_path, "w") as f:
         json.dump(graph, f, indent=2, ensure_ascii=False)
 
-    enrich_markdown(knowledge_dir, graph)
     write_meta_index(knowledge_dir, graph)

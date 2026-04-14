@@ -38,6 +38,21 @@ def fetch_card(name: str, max_retries: int = 5) -> dict:
     return response.json()
 
 
+def _effective_colors(data: dict) -> list[str]:
+    """Return colors, treating cards with only Phyrexian mana as colorless."""
+    colors = data.get("colors", [])
+    mana_cost = data.get("mana_cost", "")
+    if not colors or not mana_cost:
+        return colors
+
+    # Strip all Phyrexian mana symbols {X/P}
+    cost_without_phyrexian = re.sub(r"\{[WUBRG]/P\}", "", mana_cost)
+    # Check if any colored mana remains
+    if not re.search(r"[WUBRG]", cost_without_phyrexian):
+        return []
+    return colors
+
+
 def build_card_frontmatter(data: dict) -> dict:
     """Extract relevant fields from Scryfall API response."""
     image = ""
@@ -48,7 +63,7 @@ def build_card_frontmatter(data: dict) -> dict:
 
     return {
         "name": data["name"],
-        "colors": data.get("colors", []),
+        "colors": _effective_colors(data),
         "cmc": int(data.get("cmc", 0)),
         "type": data.get("type_line", ""),
         "set": data.get("set", ""),

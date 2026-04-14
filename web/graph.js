@@ -9,6 +9,7 @@ let simulation = null;
 let currentZoom = null; // d3 zoom behavior
 let currentSvg = null; // d3 svg selection
 let cardImageMap = {}; // card name -> image URL
+let cardTypeMap = {};  // card name -> type line
 let currentCardSel, currentArchSel, currentLinkSel, currentValidEdges, currentNodeMap;
 let isHighlighted = false;
 let metaThreshold = 0.01; // 1% default — derived from thresholdIndex
@@ -39,10 +40,11 @@ function cardRadius(d) { return 1.8 + d.meta_presence * 10; }
 async function init() {
     const resp = await fetch(DATA_PATH);
     allData = await resp.json();
-    // Build card name -> image lookup
+    // Build card name -> image and card name -> type lookups
     allData.nodes.forEach(n => {
-        if (n.type === "card" && n.image) {
-            cardImageMap[n.name] = n.image;
+        if (n.type === "card") {
+            if (n.image) cardImageMap[n.name] = n.image;
+            if (n.card_type) cardTypeMap[n.name] = n.card_type;
         }
     });
 
@@ -553,7 +555,7 @@ function renderGraph(data, skipAnimation) {
                 let html = `<div class="tt-name">${d.name}</div>`;
                 html += `<div class="tt-stat">${(d.meta_presence * 100).toFixed(1)}% presence</div>`;
                 if (d.image) html += `<img src="${d.image}" alt="${d.name}">`;
-                tooltip.html(html);
+                tooltip.innerHTML = html;
                 showTooltipEl();
             })
             .on("mousemove", moveTooltip)
@@ -570,7 +572,7 @@ function renderGraph(data, skipAnimation) {
             .on("mouseover", (event, d) => {
                 let html = `<div class="tt-name">${d.name}</div>`;
                 html += `<div class="tt-stat">${(d.meta_share * 100).toFixed(1)}% &middot; ${d.list_count} lists</div>`;
-                tooltip.html(html);
+                tooltip.innerHTML = html;
                 showTooltipEl();
             })
             .on("mousemove", moveTooltip)
@@ -1129,7 +1131,7 @@ function openVariantsOverlay(name, lists, colors) {
     document.getElementById("close-variants").onclick = closeVariantsOverlay;
     document.getElementById("close-variants-sidebar").onclick = closeVariantsSidebar;
 
-    requestAnimationFrame(() => renderVariantsChart(lists, colors || []));
+    requestAnimationFrame(() => renderVariantsChart(name, lists, colors || []));
 }
 
 function closeVariantsSidebar() {
@@ -1158,7 +1160,7 @@ function closeVariantsOverlay() {
     });
 }
 
-function renderVariantsChart(lists, colors) {
+function renderVariantsChart(archName, lists, colors) {
     const chartContainer = document.getElementById("variants-chart");
     if (!chartContainer || lists.length < 3) return;
 
@@ -1170,7 +1172,26 @@ function renderVariantsChart(lists, colors) {
         cl.diff = deckDiff(cl.mainboard, avgDeck);
     }
 
-    const maxDist = Math.max(...clusters.map(c => c.distance), 1);
+    // Compute nearby archetypes — avg decks of other archetypes vs this one
+    const nearbyArchs = [];
+    if (allData) {
+        const otherArchs = allData.nodes.filter(n =>
+            n.type === "archetype" && n.name !== archName && n.lists && n.lists.length >= 3
+        );
+        for (const arch of otherArchs) {
+            const otherAvg = computeAvgDeck(arch.lists);
+            const dist = Math.round(deckDistance(otherAvg, avgDeck));
+            nearbyArchs.push({ name: arch.name, colors: arch.colors || [], distance: dist });
+        }
+        nearbyArchs.sort((a, b) => a.distance - b.distance);
+    }
+    // Keep top 5 closest
+    const nearby = nearbyArchs.slice(0, 5);
+
+    const clusterMaxDist = Math.max(...clusters.map(c => c.distance), 1);
+    // maxDist includes nearby archetypes so they fit in the chart
+    const allDists = [...clusters.map(c => c.distance), ...nearby.map(n => n.distance)];
+    const maxDist = Math.max(...allDists, 1);
 
     // sqrt scale: spreads clusters near center, compresses outliers
     const distScale = d3.scaleSqrt().domain([0, maxDist]).range([0, 1]);
@@ -1333,40 +1354,112 @@ function renderVariantsChart(lists, colors) {
         return g;
     });
 
-    // Force simulation: radial pull + collision avoidance
-    const sim = d3.forceSimulation(nodes)
+    // Nearby archetype ghost nodes
+    const nearbyG = svg.append("g");
+    const nearbyNodes = [];
+    const nearbyGroups = [];
+
+    nearby.forEach((arch, i) => {
+        const angle = (i / nearby.length) * 2 * Math.PI - Math.PI / 2;
+        const targetR = minR + distScale(arch.distance) * (maxR - minR);
+        const size = 12;
+
+        const nd = {
+            size,
+            targetR,
+            isGhost: true,
+            x: cx + Math.cos(angle) * targetR,
+            y: cy + Math.sin(angle) * targetR,
+        };
+        nearbyNodes.push(nd);
+
+        const g = nearbyG.append("g").attr("opacity", 0.35).datum(nd);
+
+        // Mana-colored arc (same pattern, thinner)
+        const nColors = arch.colors || [];
+        const nStrokeW = 1.5;
+        if (nColors.length === 0) {
+            g.append("circle").attr("r", size)
+                .attr("fill", "none").attr("stroke", "#a09888")
+                .attr("stroke-width", nStrokeW).attr("stroke-opacity", 0.6)
+                .attr("stroke-dasharray", "3,3");
+        } else if (nColors.length === 1) {
+            g.append("circle").attr("r", size)
+                .attr("fill", "none").attr("stroke", MANA_HEX[nColors[0]] || "#a09888")
+                .attr("stroke-width", nStrokeW).attr("stroke-opacity", 0.6)
+                .attr("stroke-dasharray", "3,3");
+        } else {
+            const segAngle = (2 * Math.PI) / nColors.length;
+            const gap = 0.12;
+            nColors.forEach((c, ci) => {
+                const startA = ci * segAngle - Math.PI / 2 + gap / 2;
+                const endA = (ci + 1) * segAngle - Math.PI / 2 - gap / 2;
+                const x1 = Math.cos(startA) * size, y1 = Math.sin(startA) * size;
+                const x2 = Math.cos(endA) * size, y2 = Math.sin(endA) * size;
+                const largeArc = segAngle - gap > Math.PI ? 1 : 0;
+                g.append("path")
+                    .attr("d", `M ${x1} ${y1} A ${size} ${size} 0 ${largeArc} 1 ${x2} ${y2}`)
+                    .attr("fill", "none").attr("stroke", MANA_HEX[c] || "#a09888")
+                    .attr("stroke-width", nStrokeW).attr("stroke-linecap", "round")
+                    .attr("stroke-opacity", 0.6).attr("stroke-dasharray", "3,3");
+            });
+        }
+
+        // Name label
+        g.append("text")
+            .attr("y", size + 13)
+            .attr("text-anchor", "middle")
+            .attr("font-family", "var(--font-display)")
+            .attr("font-size", 10)
+            .attr("fill", "var(--ink-faint)")
+            .text(arch.name);
+
+        // Delta label
+        g.append("text")
+            .attr("y", size + 24)
+            .attr("text-anchor", "middle")
+            .attr("font-family", "var(--font-mono)")
+            .attr("font-size", 8)
+            .attr("fill", "var(--ink-faint)")
+            .attr("opacity", 0.6)
+            .text("\u0394" + arch.distance);
+
+        nearbyGroups.push(g);
+    });
+
+    // Force simulation: cluster nodes + ghost archetype nodes for collision
+    const allSimNodes = [...nodes, ...nearbyNodes];
+    const sim = d3.forceSimulation(allSimNodes)
         .force("radial", d3.forceRadial(d => d.targetR, cx, cy).strength(0.8))
-        .force("collide", d3.forceCollide(d => d.size + 8).strength(0.9))
+        .force("collide", d3.forceCollide(d => d.size + (d.isGhost ? 16 : 8)).strength(0.9))
         .alphaDecay(0.05)
         .on("tick", () => {
             nodes.forEach((nd, i) => {
                 groups[i].attr("transform", `translate(${nd.x},${nd.y})`);
                 lines[i].attr("x2", nd.x).attr("y2", nd.y);
             });
+            nearbyNodes.forEach((nd, i) => {
+                nearbyGroups[i].attr("transform", `translate(${nd.x},${nd.y})`);
+            });
         });
 
     // Let simulation settle quickly (no visible jitter)
-    if (!highlightDuration()) {
-        sim.stop();
-        for (let t = 0; t < 120; t++) sim.tick();
-        nodes.forEach((nd, i) => {
-            groups[i].attr("transform", `translate(${nd.x},${nd.y})`);
-            lines[i].attr("x2", nd.x).attr("y2", nd.y);
-        });
-    } else {
-        // Entrance animation: fade in after simulation settles
+    sim.stop();
+    for (let t = 0; t < 120; t++) sim.tick();
+    nodes.forEach((nd, i) => {
+        groups[i].attr("transform", `translate(${nd.x},${nd.y})`);
+        lines[i].attr("x2", nd.x).attr("y2", nd.y);
+    });
+    nearbyNodes.forEach((nd, i) => {
+        nearbyGroups[i].attr("transform", `translate(${nd.x},${nd.y})`);
+    });
+
+    if (highlightDuration()) {
+        // Animate clusters in
         groups.forEach(g => g.attr("opacity", 0));
         lines.forEach(l => l.attr("opacity", 0));
+        nearbyGroups.forEach(g => g.attr("opacity", 0));
 
-        // Run simulation silently, then animate in
-        sim.stop();
-        for (let t = 0; t < 120; t++) sim.tick();
-        nodes.forEach((nd, i) => {
-            groups[i].attr("transform", `translate(${nd.x},${nd.y})`);
-            lines[i].attr("x2", nd.x).attr("y2", nd.y);
-        });
-
-        // Stagger entrance
         lines.forEach((l, i) => {
             gsap.to(l.node(), { opacity: 1, duration: 0.3, delay: 0.1 + i * 0.04, ease: "power2.out" });
         });
@@ -1375,6 +1468,11 @@ function renderVariantsChart(lists, colors) {
                 { opacity: 0, scale: 0, transformOrigin: "center center" },
                 { opacity: 1, scale: 1, duration: 0.4, delay: 0.15 + i * 0.06, ease: "back.out(1.7)" }
             );
+        });
+        // Ghost archetypes fade in after clusters
+        const ghostDelay = 0.15 + clusters.length * 0.06 + 0.2;
+        nearbyGroups.forEach((g, i) => {
+            gsap.to(g.node(), { opacity: 0.35, duration: 0.5, delay: ghostDelay + i * 0.08, ease: "power2.out" });
         });
     }
 
@@ -1421,14 +1519,61 @@ function showClusterDetail(cluster, avgDeck) {
     html += `<span class="panel-meta-label">${cluster.lists.length === 1 ? "list" : "lists"} &middot; &Delta;${cluster.distance} cards</span></div>`;
     html += `</div>`;
 
-    // Diff section
+    // Diff section — two columns (out / in), grouped by card type
     if (cluster.diff.length > 0) {
-        html += `<div class="panel-section-title">Diff from average</div>`;
-        for (const d of cluster.diff) {
-            const cls = d.delta > 0 ? "plus" : "minus";
-            const sign = d.delta > 0 ? "+" : "";
-            html += `<div class="cluster-diff" data-card="${d.card}"><span class="${cls}">${sign}${d.delta}</span> ${d.card}</div>`;
+        const added = cluster.diff.filter(d => d.delta > 0);
+        const removed = cluster.diff.filter(d => d.delta < 0);
+
+        // Group helper: simplify type line to broad category
+        function cardCategory(name) {
+            const t = (cardTypeMap[name] || "").toLowerCase();
+            if (t.includes("creature")) return "Creatures";
+            if (t.includes("instant")) return "Instants";
+            if (t.includes("sorcery")) return "Sorceries";
+            if (t.includes("land")) return "Lands";
+            if (t.includes("planeswalker")) return "Planeswalkers";
+            if (t.includes("artifact")) return "Artifacts";
+            if (t.includes("enchantment")) return "Enchantments";
+            return "Other";
         }
+
+        function groupByType(cards) {
+            const groups = {};
+            for (const d of cards) {
+                const cat = cardCategory(d.card);
+                if (!groups[cat]) groups[cat] = [];
+                groups[cat].push(d);
+            }
+            return groups;
+        }
+
+        function renderDiffColumn(cards, label, cls) {
+            let col = "";
+            const groups = groupByType(cards);
+            const order = ["Creatures", "Instants", "Sorceries", "Enchantments", "Artifacts", "Planeswalkers", "Lands", "Other"];
+            for (const cat of order) {
+                if (!groups[cat]) continue;
+                col += `<div class="diff-type-header">${cat}</div>`;
+                for (const d of groups[cat]) {
+                    const sign = d.delta > 0 ? "+" : "";
+                    col += `<div class="cluster-diff" data-card="${d.card}"><span class="${cls}">${sign}${d.delta}</span> ${d.card}</div>`;
+                }
+            }
+            return col;
+        }
+
+        html += `<div class="diff-columns">`;
+        if (removed.length > 0) {
+            html += `<div class="diff-col"><div class="panel-section-title">Out</div>`;
+            html += renderDiffColumn(removed, "Out", "minus");
+            html += `</div>`;
+        }
+        if (added.length > 0) {
+            html += `<div class="diff-col"><div class="panel-section-title">In</div>`;
+            html += renderDiffColumn(added, "In", "plus");
+            html += `</div>`;
+        }
+        html += `</div>`;
     } else {
         html += `<div class="panel-section-title">Exact match with average</div>`;
     }

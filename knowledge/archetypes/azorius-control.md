@@ -2,6 +2,7 @@
 colors:
 - W
 - U
+- R
 name: Azorius Control
 meta_share: 0.0228
 list_count: 16
@@ -123,10 +124,10 @@ top_cards:
 - name: Phlage, Titan of Fire's Fury
   weight: 0.3125
   avg_copies: 1.2
-- name: Elegant Parlor
+- name: Ashiok, Dream Render
   weight: 0.3125
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Elegant Parlor
   weight: 0.3125
   avg_copies: 1.0
 - name: Tune the Narrative
@@ -150,22 +151,22 @@ top_cards:
 - name: March of Otherworldly Light
   weight: 0.1875
   avg_copies: 1.25
-- name: Polluted Delta
+- name: Beza, the Bounding Spring
   weight: 0.1875
   avg_copies: 1.0
-- name: Beza, the Bounding Spring
+- name: Polluted Delta
   weight: 0.1875
   avg_copies: 1.0
 - name: Meltdown
   weight: 0.1875
   avg_copies: 1.0
+- name: Marsh Flats
+  weight: 0.125
+  avg_copies: 2.0
 - name: Soul-Guide Lantern
   weight: 0.125
   avg_copies: 2.0
 - name: Windswept Heath
-  weight: 0.125
-  avg_copies: 2.0
-- name: Marsh Flats
   weight: 0.125
   avg_copies: 2.0
 - name: Fire Magic
@@ -174,61 +175,61 @@ top_cards:
 - name: Temporary Lockdown
   weight: 0.125
   avg_copies: 1.67
-- name: Vendilion Clique
+- name: Watery Grave
   weight: 0.125
   avg_copies: 1.0
-- name: Watery Grave
+- name: Vendilion Clique
   weight: 0.125
   avg_copies: 1.0
 - name: Hedge Maze
   weight: 0.125
   avg_copies: 1.0
-- name: Thundertrap Trainer
-  weight: 0.0625
-  avg_copies: 4.0
 - name: Suppression Ray
   weight: 0.0625
   avg_copies: 4.0
-- name: Sink into Stupor
+- name: Thundertrap Trainer
+  weight: 0.0625
+  avg_copies: 4.0
+- name: Reprieve
   weight: 0.0625
   avg_copies: 2.0
-- name: Reprieve
+- name: Sink into Stupor
   weight: 0.0625
   avg_copies: 2.0
 - name: Disruptor Flute
   weight: 0.0625
   avg_copies: 1.0
+- name: Timeless Dragon
+  weight: 0.0625
+  avg_copies: 1.0
 - name: Gemstone Caverns
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Wear
   weight: 0.0625
   avg_copies: 1.0
 - name: Dress Down
   weight: 0.0625
   avg_copies: 1.0
-- name: Timeless Dragon
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Jace, the Mind Sculptor
+- name: The Wandering Emperor
   weight: 0.0625
   avg_copies: 1.0
 - name: Get Lost
   weight: 0.0625
   avg_copies: 1.0
+- name: Jace, the Mind Sculptor
+  weight: 0.0625
+  avg_copies: 1.0
 - name: Celestial Colonnade
   weight: 0.0625
   avg_copies: 1.0
-- name: The Wandering Emperor
+- name: Breeding Pool
   weight: 0.0625
   avg_copies: 1.0
 - name: Wan Shi Tong, Librarian
   weight: 0.0625
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Wear
   weight: 0.0625
   avg_copies: 1.0
 ---

@@ -2,21 +2,20 @@
 colors:
 - U
 - R
-- G
 name: Izzet Prowess
 meta_share: 0.0328
 list_count: 23
 top_cards:
-- name: Lightning Bolt
+- name: Dragon's Rage Channeler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Preordain
   weight: 1.0
   avg_copies: 4.0
-- name: Dragon's Rage Channeler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Cori-Steel Cutter
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
@@ -121,13 +120,13 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.1304
   avg_copies: 1.33
-- name: Firebending Lesson
+- name: Origin of Metalbending
   weight: 0.1304
   avg_copies: 1.0
 - name: Iroh's Demonstration
   weight: 0.1304
   avg_copies: 1.0
-- name: Origin of Metalbending
+- name: Firebending Lesson
   weight: 0.1304
   avg_copies: 1.0
 - name: Price of Freedom
@@ -139,34 +138,34 @@ top_cards:
 - name: Questing Druid
   weight: 0.087
   avg_copies: 3.25
+- name: Monstrous Rage
+  weight: 0.087
+  avg_copies: 2.0
 - name: Blood Moon
   weight: 0.087
   avg_copies: 2.0
 - name: Force of Negation
   weight: 0.087
   avg_copies: 2.0
-- name: Misty Rainforest
-  weight: 0.087
-  avg_copies: 2.0
 - name: Abhorrent Oculus
   weight: 0.087
   avg_copies: 2.0
-- name: Monstrous Rage
+- name: Misty Rainforest
   weight: 0.087
   avg_copies: 2.0
 - name: Obsidian Charmaw
   weight: 0.087
   avg_copies: 1.5
-- name: Accumulate Wisdom
+- name: True Ancestry
   weight: 0.087
   avg_copies: 1.0
-- name: True Ancestry
+- name: Redirect Lightning
   weight: 0.087
   avg_copies: 1.0
 - name: End the Festivities
   weight: 0.087
   avg_copies: 1.0
-- name: Redirect Lightning
+- name: Accumulate Wisdom
   weight: 0.087
   avg_copies: 1.0
 - name: Island
@@ -178,16 +177,7 @@ top_cards:
 - name: Alpine Moon
   weight: 0.0435
   avg_copies: 2.0
-- name: Flooded Strand
-  weight: 0.0435
-  avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 0.0435
-  avg_copies: 1.0
 - name: Polluted Delta
-  weight: 0.0435
-  avg_copies: 1.0
-- name: Wear
   weight: 0.0435
   avg_copies: 1.0
 - name: Riverpyre Verge
@@ -196,7 +186,16 @@ top_cards:
 - name: The Legend of Roku
   weight: 0.0435
   avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Wear
+  weight: 0.0435
+  avg_copies: 1.0
 - name: Combustion Technique
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Flooded Strand
   weight: 0.0435
   avg_copies: 1.0
 - name: Shatterstorm

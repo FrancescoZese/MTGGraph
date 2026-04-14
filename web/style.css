@@ -707,25 +707,51 @@ body {
     margin-top: 2px;
 }
 
+/* Diff columns layout */
+.diff-columns {
+    display: flex;
+    gap: 16px;
+    margin-top: 8px;
+}
+
+.diff-col {
+    flex: 1;
+    min-width: 0;
+}
+
+.diff-type-header {
+    font-family: var(--font-body);
+    font-size: 9px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--ink-faint);
+    margin: 10px 0 2px;
+}
+
+.diff-type-header:first-child {
+    margin-top: 0;
+}
+
 /* Diff rows */
 .cluster-diff {
     font-family: var(--font-mono);
-    font-size: 12px;
+    font-size: 11px;
     color: var(--ink-light);
-    padding: 3px 0;
-    border-bottom: 1px solid rgba(216,210,200,.3);
+    padding: 2px 0;
     cursor: default;
     transition: background .1s;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .cluster-diff:hover {
     background: var(--bg-warm);
 }
 
-.cluster-diff:last-of-type { border-bottom: none; }
-
-.cluster-diff .plus { color: var(--mana-G); }
-.cluster-diff .minus { color: var(--mana-R); }
+.cluster-diff .plus { color: var(--mana-G); font-weight: 600; }
+.cluster-diff .minus { color: var(--mana-R); font-weight: 600; }
 
 /* ---- Tournament Groups ---- */
 

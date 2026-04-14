@@ -9,13 +9,13 @@ top_cards:
 - name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
+- name: Sowing Mycospawn
+  weight: 1.0
+  avg_copies: 4.0
 - name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Utopia Sprawl
-  weight: 1.0
-  avg_copies: 4.0
-- name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
 - name: Ugin's Labyrinth
@@ -69,16 +69,16 @@ top_cards:
 - name: Wooded Foothills
   weight: 0.8333
   avg_copies: 1.1
-- name: Sanctum of Ugin
-  weight: 0.8333
-  avg_copies: 1.0
-- name: Bojuka Bog
-  weight: 0.8333
-  avg_copies: 1.0
 - name: Commercial District
   weight: 0.8333
   avg_copies: 1.0
+- name: Sanctum of Ugin
+  weight: 0.8333
+  avg_copies: 1.0
 - name: Misty Rainforest
+  weight: 0.8333
+  avg_copies: 1.0
+- name: Bojuka Bog
   weight: 0.8333
   avg_copies: 1.0
 - name: Ugin, Eye of the Storms
@@ -126,13 +126,13 @@ top_cards:
 - name: Chalice of the Void
   weight: 0.25
   avg_copies: 1.0
+- name: Ensnaring Bridge
+  weight: 0.25
+  avg_copies: 1.0
 - name: Engineered Explosives
   weight: 0.25
   avg_copies: 1.0
 - name: Liquimetal Coating
-  weight: 0.25
-  avg_copies: 1.0
-- name: Ensnaring Bridge
   weight: 0.25
   avg_copies: 1.0
 - name: Lightning Bolt
@@ -150,31 +150,31 @@ top_cards:
 - name: Herigast, Erupting Nullkite
   weight: 0.1667
   avg_copies: 1.5
-- name: Void Mirror
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Pithing Needle
+- name: Six
   weight: 0.1667
   avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.1667
   avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Force of Vigor
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Boseiju, Who Endures
   weight: 0.1667
   avg_copies: 1.0
-- name: Six
+- name: Pithing Needle
   weight: 0.1667
   avg_copies: 1.0
 - name: Hedge Maze
   weight: 0.1667
   avg_copies: 1.0
+- name: Force of Vigor
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Breeding Pool
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Meltdown
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Void Mirror
   weight: 0.1667
   avg_copies: 1.0
 - name: Writhing Chrysalis
@@ -183,58 +183,58 @@ top_cards:
 - name: Thought-Knot Seer
   weight: 0.0833
   avg_copies: 2.5
-- name: Blood Moon
-  weight: 0.0833
-  avg_copies: 2.0
-- name: Surgical Extraction
-  weight: 0.0833
-  avg_copies: 2.0
-- name: Strix Serenade
-  weight: 0.0833
-  avg_copies: 2.0
-- name: Blasphemous Act
+- name: Talisman of Resilience
   weight: 0.0833
   avg_copies: 2.0
 - name: Ancient Stirrings
   weight: 0.0833
   avg_copies: 2.0
-- name: Talisman of Resilience
+- name: Blasphemous Act
   weight: 0.0833
   avg_copies: 2.0
 - name: Magus of the Moon
   weight: 0.0833
   avg_copies: 2.0
-- name: Arena of Glory
+- name: Surgical Extraction
   weight: 0.0833
-  avg_copies: 1.0
-- name: Darksteel Citadel
+  avg_copies: 2.0
+- name: Blood Moon
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Strix Serenade
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Damping Sphere
   weight: 0.0833
   avg_copies: 1.0
 - name: Ketria Triome
   weight: 0.0833
   avg_copies: 1.0
-- name: Ratchet Bomb
+- name: Palantír of Orthanc
   weight: 0.0833
   avg_copies: 1.0
 - name: Wastescape Battlemage
   weight: 0.0833
   avg_copies: 1.0
-- name: Ilharg, the Raze-Boar
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Keen-Eyed Curator
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Palantír of Orthanc
+- name: Ratchet Bomb
   weight: 0.0833
   avg_copies: 1.0
 - name: Vibrance
   weight: 0.0833
   avg_copies: 1.0
+- name: Darksteel Citadel
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Ilharg, the Raze-Boar
+  weight: 0.0833
+  avg_copies: 1.0
 - name: Cityscape Leveler
   weight: 0.0833
   avg_copies: 1.0
-- name: Damping Sphere
+- name: Keen-Eyed Curator
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Arena of Glory
   weight: 0.0833
   avg_copies: 1.0
 ---

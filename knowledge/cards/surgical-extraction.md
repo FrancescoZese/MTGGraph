@@ -1,13 +1,4 @@
 ---
-cmc: 1
-colors:
-- B
-image: https://cards.scryfall.io/normal/front/e/1/e15d76ac-1c23-4503-8225-375ac2bf2fb6.jpg?1673147668
-name: Surgical Extraction
-scryfall_id: e15d76ac-1c23-4503-8225-375ac2bf2fb6
-set: 2x2
-type: Instant
-meta_presence: 0.4066
 archetypes:
   boros-energy:
     weight: 0.8954
@@ -72,4 +63,12 @@ archetypes:
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 1.0
+cmc: 1
+colors: []
+image: https://cards.scryfall.io/normal/front/e/1/e15d76ac-1c23-4503-8225-375ac2bf2fb6.jpg?1673147668
+meta_presence: 0.4066
+name: Surgical Extraction
+scryfall_id: e15d76ac-1c23-4503-8225-375ac2bf2fb6
+set: 2x2
+type: Instant
 ---

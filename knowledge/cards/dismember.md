@@ -1,13 +1,4 @@
 ---
-cmc: 3
-colors:
-- B
-image: https://cards.scryfall.io/normal/front/3/d/3d286cf6-3e16-4941-9326-1818b1e06d69.jpg?1562261132
-name: Dismember
-scryfall_id: 3d286cf6-3e16-4941-9326-1818b1e06d69
-set: mm2
-type: Instant
-meta_presence: 0.1184
 archetypes:
   dimir-control:
     weight: 0.0435
@@ -39,4 +30,12 @@ archetypes:
   broodscale-combo:
     weight: 0.7
     avg_copies: 1.62
+cmc: 3
+colors: []
+image: https://cards.scryfall.io/normal/front/3/d/3d286cf6-3e16-4941-9326-1818b1e06d69.jpg?1562261132
+meta_presence: 0.1184
+name: Dismember
+scryfall_id: 3d286cf6-3e16-4941-9326-1818b1e06d69
+set: mm2
+type: Instant
 ---

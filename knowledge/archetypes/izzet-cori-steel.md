@@ -6,40 +6,40 @@ name: Izzet Cori-Steel
 meta_share: 0.0086
 list_count: 6
 top_cards:
-- name: Emry, Lurker of the Loch
+- name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Amber
   weight: 1.0
   avg_copies: 4.0
-- name: Tamiyo, Inquisitive Student
+- name: Erayo, Soratami Ascendant
+  weight: 1.0
+  avg_copies: 4.0
+- name: Emry, Lurker of the Loch
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
-- name: Erayo, Soratami Ascendant
-  weight: 1.0
-  avg_copies: 4.0
 - name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 3.83
-- name: Mox Opal
-  weight: 1.0
-  avg_copies: 3.67
 - name: Spirebluff Canal
   weight: 1.0
   avg_copies: 3.67
 - name: Fiery Islet
   weight: 1.0
   avg_copies: 3.67
-- name: Preordain
+- name: Mox Opal
+  weight: 1.0
+  avg_copies: 3.67
+- name: Metallic Rebuke
   weight: 1.0
   avg_copies: 3.5
 - name: Boomerang Basics
   weight: 1.0
   avg_copies: 3.5
-- name: Metallic Rebuke
+- name: Preordain
   weight: 1.0
   avg_copies: 3.5
 - name: Urza's Saga
@@ -66,10 +66,10 @@ top_cards:
 - name: Sink into Stupor
   weight: 0.8333
   avg_copies: 2.4
-- name: Test of Talents
+- name: Consign to Memory
   weight: 0.8333
   avg_copies: 2.2
-- name: Consign to Memory
+- name: Test of Talents
   weight: 0.8333
   avg_copies: 2.2
 - name: Whipflare
@@ -102,13 +102,13 @@ top_cards:
 - name: Strix Serenade
   weight: 0.1667
   avg_copies: 2.0
+- name: Haywire Mite
+  weight: 0.1667
+  avg_copies: 1.0
 - name: An Offer You Can't Refuse
   weight: 0.1667
   avg_copies: 1.0
 - name: Breeding Pool
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Haywire Mite
   weight: 0.1667
   avg_copies: 1.0
 ---

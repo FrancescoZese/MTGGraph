@@ -5,22 +5,22 @@ name: Mono Blue Belcher
 meta_share: 0.0243
 list_count: 17
 top_cards:
-- name: Goblin Charbelcher
-  weight: 1.0
-  avg_copies: 4.0
-- name: Lotus Bloom
-  weight: 1.0
-  avg_copies: 4.0
-- name: Sink into Stupor
-  weight: 1.0
-  avg_copies: 4.0
 - name: Suppression Ray
   weight: 1.0
   avg_copies: 4.0
 - name: Tameshi, Reality Architect
   weight: 1.0
   avg_copies: 4.0
+- name: Sink into Stupor
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lotus Bloom
+  weight: 1.0
+  avg_copies: 4.0
 - name: Whir of Invention
+  weight: 1.0
+  avg_copies: 4.0
+- name: Goblin Charbelcher
   weight: 1.0
   avg_copies: 4.0
 - name: Hydroelectric Specimen
@@ -104,10 +104,10 @@ top_cards:
 - name: Commandeer
   weight: 0.2941
   avg_copies: 1.6
-- name: Spell Pierce
+- name: Grafdigger's Cage
   weight: 0.2941
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Spell Pierce
   weight: 0.2941
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
@@ -122,9 +122,6 @@ top_cards:
 - name: Talisman of Progress
   weight: 0.1176
   avg_copies: 1.0
-- name: Portable Hole
-  weight: 0.0588
-  avg_copies: 1.0
 - name: Dusk Rose Reliquary
   weight: 0.0588
   avg_copies: 1.0
@@ -132,6 +129,9 @@ top_cards:
   weight: 0.0588
   avg_copies: 1.0
 - name: Displacement Wave
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Portable Hole
   weight: 0.0588
   avg_copies: 1.0
 - name: Hope of Ghirapur

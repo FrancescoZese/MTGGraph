@@ -2,15 +2,11 @@
 colors:
 - B
 - R
-- G
 name: Rakdos Steel-Cutter
 meta_share: 0.0029
 list_count: 2
 top_cards:
-- name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Street Wraith
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
 - name: Detective's Phoenix
@@ -19,13 +15,16 @@ top_cards:
 - name: Casey Jones, Vigilante
   weight: 1.0
   avg_copies: 4.0
+- name: Lightning Bolt
+  weight: 1.0
+  avg_copies: 4.0
 - name: Lava Dart
   weight: 1.0
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Obsidian Charmaw
   weight: 1.0
   avg_copies: 4.0
-- name: Blood Crypt
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Dragon's Rage Channeler
@@ -34,34 +33,34 @@ top_cards:
 - name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
-- name: Obsidian Charmaw
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 4.0
-- name: Nethergoyf
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 4.0
 - name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
-- name: Arid Mesa
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Meltdown
   weight: 1.0
   avg_copies: 3.0
-- name: Meltdown
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 3.0
 - name: Arena of Glory
   weight: 1.0
   avg_copies: 2.0
-- name: Swamp
+- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Mountain
@@ -73,10 +72,10 @@ top_cards:
 - name: Bloodstained Mire
   weight: 0.5
   avg_copies: 4.0
-- name: Mutagenic Growth
+- name: Seal of Fire
   weight: 0.5
   avg_copies: 2.0
-- name: Seal of Fire
+- name: Mutagenic Growth
   weight: 0.5
   avg_copies: 2.0
 - name: Wooded Foothills

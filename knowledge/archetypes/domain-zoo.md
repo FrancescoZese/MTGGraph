@@ -12,10 +12,10 @@ top_cards:
 - name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
-- name: Territorial Kavu
+- name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline of the Guildpact
+- name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
 - name: Arid Mesa
@@ -42,16 +42,16 @@ top_cards:
 - name: Wear
   weight: 1.0
   avg_copies: 1.62
-- name: Temple Garden
+- name: Godless Shrine
+  weight: 1.0
+  avg_copies: 1.0
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
 - name: Indatha Triome
   weight: 1.0
   avg_copies: 1.0
-- name: Godless Shrine
-  weight: 1.0
-  avg_copies: 1.0
-- name: Plains
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
@@ -123,6 +123,9 @@ top_cards:
 - name: The Legend of Roku
   weight: 0.1154
   avg_copies: 1.33
+- name: Fable of the Mirror-Breaker
+  weight: 0.0769
+  avg_copies: 1.0
 - name: Does Machines
   weight: 0.0769
   avg_copies: 1.0
@@ -132,10 +135,7 @@ top_cards:
 - name: Clarion Conqueror
   weight: 0.0769
   avg_copies: 1.0
-- name: Fable of the Mirror-Breaker
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Faithless Looting
+- name: Psychic Frog
   weight: 0.0385
   avg_copies: 4.0
 - name: Aurora Awakener
@@ -144,7 +144,7 @@ top_cards:
 - name: Persist
   weight: 0.0385
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Faithless Looting
   weight: 0.0385
   avg_copies: 4.0
 - name: Archon of Cruelty
@@ -156,31 +156,31 @@ top_cards:
 - name: Drannith Magistrate
   weight: 0.0385
   avg_copies: 2.0
-- name: Orcish Bowmasters
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Glasspool Mimic
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Celestial Purge
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Blood Crypt
-  weight: 0.0385
-  avg_copies: 1.0
 - name: Raucous Theater
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Meltdown
   weight: 0.0385
   avg_copies: 1.0
 - name: Vexing Bauble
   weight: 0.0385
   avg_copies: 1.0
 - name: Quantum Riddler
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Glasspool Mimic
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Breeding Pool
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Orcish Bowmasters
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Celestial Purge
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Blood Crypt
   weight: 0.0385
   avg_copies: 1.0
 ---

@@ -1,5 +1,6 @@
 ---
 colors:
+- R
 - G
 name: Broodscale Combo
 meta_share: 0.0143
@@ -8,19 +9,19 @@ top_cards:
 - name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
+- name: Basking Broodscale
+  weight: 1.0
+  avg_copies: 4.0
 - name: Malevolent Rumble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Grove of the Burnwillows
-  weight: 1.0
-  avg_copies: 4.0
-- name: Basking Broodscale
-  weight: 1.0
-  avg_copies: 4.0
-- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Ancient Stirrings
@@ -50,22 +51,22 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.4
-- name: Springleaf Drum
+- name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Springleaf Drum
   weight: 1.0
   avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.9
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Pithing Needle
   weight: 0.8
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Grafdigger's Cage
   weight: 0.8
   avg_copies: 1.0
 - name: Nature's Claim
@@ -101,19 +102,19 @@ top_cards:
 - name: Devourer of Destiny
   weight: 0.4
   avg_copies: 3.75
+- name: Soulless Jailer
+  weight: 0.4
+  avg_copies: 1.75
 - name: Pick Your Poison
   weight: 0.4
   avg_copies: 1.75
 - name: Firespout
   weight: 0.4
   avg_copies: 1.75
-- name: Soulless Jailer
-  weight: 0.4
-  avg_copies: 1.75
-- name: Verdant Catacombs
+- name: Windswept Heath
   weight: 0.4
   avg_copies: 1.0
-- name: Windswept Heath
+- name: Verdant Catacombs
   weight: 0.4
   avg_copies: 1.0
 - name: Delighted Halfling

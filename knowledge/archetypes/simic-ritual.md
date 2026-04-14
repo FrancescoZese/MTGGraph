@@ -6,19 +6,19 @@ name: Simic Ritual
 meta_share: 0.0243
 list_count: 17
 top_cards:
-- name: Flare of Denial
-  weight: 1.0
-  avg_copies: 4.0
-- name: Birthing Ritual
-  weight: 1.0
-  avg_copies: 4.0
 - name: Ice-Fang Coatl
+  weight: 1.0
+  avg_copies: 4.0
+- name: Coiling Oracle
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flare of Denial
   weight: 1.0
   avg_copies: 4.0
 - name: Misty Rainforest
   weight: 1.0
   avg_copies: 4.0
-- name: Coiling Oracle
+- name: Birthing Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Sink into Stupor
@@ -42,10 +42,10 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 2.44
-- name: Snow-Covered Forest
+- name: Snow-Covered Island
   weight: 1.0
   avg_copies: 2.0
-- name: Snow-Covered Island
+- name: Snow-Covered Forest
   weight: 1.0
   avg_copies: 2.0
 - name: Fblthp, the Lost
@@ -108,25 +108,19 @@ top_cards:
 - name: Undercity Sewers
   weight: 0.1176
   avg_copies: 1.0
-- name: Pyroclasm
-  weight: 0.0588
-  avg_copies: 3.0
 - name: Fire Magic
   weight: 0.0588
   avg_copies: 3.0
-- name: Scalding Tarn
+- name: Pyroclasm
+  weight: 0.0588
+  avg_copies: 3.0
+- name: Overgrown Tomb
   weight: 0.0588
   avg_copies: 1.0
-- name: Flooded Strand
+- name: Pick Your Poison
   weight: 0.0588
   avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Pond Prophet
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Fade from History
+- name: Stomping Ground
   weight: 0.0588
   avg_copies: 1.0
 - name: Neoform
@@ -138,25 +132,31 @@ top_cards:
 - name: Ephara's Dispersal
   weight: 0.0588
   avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Pick Your Poison
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Overgrown Tomb
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Firespout
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Stern Scolding
+- name: Scalding Tarn
   weight: 0.0588
   avg_copies: 1.0
 - name: Steam Vents
   weight: 0.0588
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Thundering Falls
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Stern Scolding
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Pond Prophet
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Firespout
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Flooded Strand
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Fade from History
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Hurkyl's Recall
   weight: 0.0588
   avg_copies: 1.0
 ---
