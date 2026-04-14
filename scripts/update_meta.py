@@ -43,8 +43,14 @@ def get_last_ingested_date() -> str:
 
 def find_new_events(since: str, challenges_only: bool = False) -> list[dict]:
     """Fetch the MTGO decklists page and find Modern events after `since` date."""
-    resp = requests.get(MTGO_DECKLISTS_URL, timeout=60)
-    resp.raise_for_status()
+    print("Fetching MTGO decklists page...", flush=True)
+    try:
+        resp = requests.get(MTGO_DECKLISTS_URL, timeout=90)
+        resp.raise_for_status()
+    except requests.exceptions.RequestException as e:
+        print(f"ERROR: Failed to fetch MTGO decklists page: {e}")
+        return []
+    print(f"  Got {len(resp.text)} bytes", flush=True)
 
     pattern = r"/decklist/(modern-(challenge|league)[\w-]+)"
     matches = re.findall(pattern, resp.text)
@@ -93,7 +99,9 @@ def fetch_and_save_decks(event: dict, top_n: int) -> list[Path]:
     """
     from scripts.fetch_tournament import fetch_decks, deck_to_markdown
 
+    print(f"  Downloading from {event['url']}...", flush=True)
     decks = fetch_decks(event["url"])
+    print(f"  Got {len(decks)} decks", flush=True)
     limit = len(decks) if event["type"] == "league" else min(top_n, len(decks))
 
     RAW_DIR.mkdir(exist_ok=True)

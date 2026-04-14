@@ -26,8 +26,10 @@ jobs:
         run: pip install pyyaml requests
 
       - name: Fetch and ingest new tournaments
-        run: python -m scripts.update_meta --auto --top 16
+        run: python -u -m scripts.update_meta --auto --top 16
         timeout-minutes: 15
+        env:
+          PYTHONUNBUFFERED: "1"
 
       - name: Validate graph.json
         run: python -c "import json; json.load(open('computed/graph.json')); print('graph.json is valid')"
