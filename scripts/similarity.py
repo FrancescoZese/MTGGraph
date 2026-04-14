@@ -33,7 +33,7 @@ def weighted_jaccard(a: dict[str, float], b: dict[str, float]) -> float:
 def find_best_match(
     list_weights: dict[str, float],
     archetype_profiles: dict[str, dict[str, float]],
-    threshold: float = 0.6,
+    threshold: float = 0.5,
 ) -> tuple[str | None, float]:
     """Find the archetype most similar to the given list.
 

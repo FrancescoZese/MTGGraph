@@ -1047,7 +1047,11 @@ function computeAvgDeck(lists) {
     }
     const avg = {};
     for (const [card, total] of Object.entries(sums)) {
-        avg[card] = total / lists.length;
+        avg[card] = Math.round(total / lists.length);
+    }
+    // Drop zero entries so they don't inflate distance calculations
+    for (const card of Object.keys(avg)) {
+        if (avg[card] === 0) delete avg[card];
     }
     return avg;
 }
@@ -1092,12 +1096,12 @@ function clusterLists(lists, threshold) {
 }
 
 function deckDiff(deck, avg) {
-    // Returns cards that differ from average
+    // Returns cards that differ from average (avg is already rounded integers)
     const diffs = [];
     const allCards = new Set([...Object.keys(deck), ...Object.keys(avg)]);
     for (const card of allCards) {
         const has = deck[card] || 0;
-        const expected = Math.round(avg[card] || 0);
+        const expected = avg[card] || 0;
         if (has !== expected) {
             diffs.push({ card, has, expected, delta: has - expected });
         }
@@ -1106,155 +1110,508 @@ function deckDiff(deck, avg) {
     return diffs;
 }
 
-function renderVariantsChart(lists) {
-    const container = document.getElementById("variants-chart");
-    if (!container || lists.length < 3) return;
+function openVariantsOverlay(name, lists, colors) {
+    const overlay = document.getElementById("variants-overlay");
+    const header = document.getElementById("variants-header");
+    const sidebar = document.getElementById("variants-sidebar");
+
+    header.innerHTML = `<div class="variants-title">${name}</div>` +
+        `<div class="variants-subtitle">${lists.length} lists — click a cluster</div>`;
+
+    // Reset sidebar
+    sidebar.classList.remove("active");
+    document.getElementById("variants-sidebar-content").innerHTML = "";
+
+    const dur = highlightDuration();
+    overlay.style.visibility = "visible";
+    gsap.to(overlay, { opacity: 1, duration: dur ? 0.3 : 0, ease: "power2.out" });
+
+    document.getElementById("close-variants").onclick = closeVariantsOverlay;
+    document.getElementById("close-variants-sidebar").onclick = closeVariantsSidebar;
+
+    requestAnimationFrame(() => renderVariantsChart(lists, colors || []));
+}
+
+function closeVariantsSidebar() {
+    const sidebar = document.getElementById("variants-sidebar");
+    const dur = highlightDuration();
+    if (dur) {
+        gsap.to(sidebar, {
+            x: 40, autoAlpha: 0, duration: 0.3, ease: "power2.in",
+            onComplete: () => { sidebar.classList.remove("active"); gsap.set(sidebar, { x: 0 }); }
+        });
+    } else {
+        sidebar.classList.remove("active");
+    }
+}
+
+function closeVariantsOverlay() {
+    const overlay = document.getElementById("variants-overlay");
+    const sidebar = document.getElementById("variants-sidebar");
+    const dur = highlightDuration();
+    gsap.to(overlay, {
+        opacity: 0, duration: dur ? 0.25 : 0, ease: "power2.in",
+        onComplete: () => {
+            overlay.style.visibility = "hidden";
+            sidebar.classList.remove("active");
+        }
+    });
+}
+
+function renderVariantsChart(lists, colors) {
+    const chartContainer = document.getElementById("variants-chart");
+    if (!chartContainer || lists.length < 3) return;
 
     const avgDeck = computeAvgDeck(lists);
-    const clusters = clusterLists(lists, 6); // threshold: 6 card differences
+    const clusters = clusterLists(lists, 6);
 
-    // Calculate distance of each cluster from average
     for (const cl of clusters) {
-        cl.distance = deckDistance(cl.mainboard, avgDeck);
+        cl.distance = Math.round(deckDistance(cl.mainboard, avgDeck));
         cl.diff = deckDiff(cl.mainboard, avgDeck);
     }
 
     const maxDist = Math.max(...clusters.map(c => c.distance), 1);
 
-    // SVG dimensions
-    const w = container.clientWidth || 340;
-    const h = Math.max(w, 280);
-    const cx = w / 2, cy = h / 2;
-    const maxR = Math.min(cx, cy) - 30;
+    // sqrt scale: spreads clusters near center, compresses outliers
+    const distScale = d3.scaleSqrt().domain([0, maxDist]).range([0, 1]);
 
-    container.innerHTML = "";
-    const svg = d3.select(container).append("svg")
+    // Use full available space
+    const rect = chartContainer.getBoundingClientRect();
+    const w = rect.width || 400;
+    const h = rect.height || 400;
+    const cx = w / 2, cy = h / 2;
+    const maxR = Math.min(cx, cy) - 50;
+    const minR = 30; // keep clusters away from center dot
+
+    chartContainer.innerHTML = "";
+    const svg = d3.select(chartContainer).append("svg")
         .attr("width", w).attr("height", h)
         .attr("viewBox", `0 0 ${w} ${h}`);
 
-    // Draw concentric rings
+    // Concentric rings — placed at sqrt-scaled distances
     const ringCount = 3;
     for (let i = ringCount; i >= 1; i--) {
-        const r = (i / ringCount) * maxR;
+        const frac = i / ringCount;
+        const r = minR + frac * (maxR - minR);
         svg.append("circle")
             .attr("cx", cx).attr("cy", cy).attr("r", r)
             .attr("fill", "none")
             .attr("stroke", "var(--border)")
-            .attr("stroke-opacity", 0.3)
-            .attr("stroke-dasharray", "3,3");
+            .attr("stroke-opacity", 0.2)
+            .attr("stroke-width", 1);
+
+        // Invert sqrt scale to get the distance value at this ring
+        const label = Math.round(frac * frac * maxDist);
+        svg.append("text")
+            .attr("x", cx + 6).attr("y", cy - r + 14)
+            .attr("font-family", "var(--font-mono)")
+            .attr("font-size", 9)
+            .attr("fill", "var(--ink-faint)")
+            .attr("opacity", 0.5)
+            .text(label + " cards");
     }
 
-    // Center dot: average deck
-    svg.append("circle")
-        .attr("cx", cx).attr("cy", cy).attr("r", 6)
-        .attr("fill", "var(--accent)")
-        .attr("opacity", 0.8);
-    svg.append("text")
-        .attr("x", cx).attr("y", cy + 18)
-        .attr("text-anchor", "middle")
-        .attr("font-family", "'Instrument Serif', Georgia, serif")
-        .attr("font-size", 10)
-        .attr("fill", "var(--ink-faint)")
-        .text("average");
-
-    // Place clusters radially
+    // Prepare cluster node data for force simulation
+    const clColors = colors.length > 0 ? colors : [];
+    const strokeW = 3;
     const angleStep = (2 * Math.PI) / Math.max(clusters.length, 1);
-    const tooltipEl = document.getElementById("tooltip");
 
-    clusters.forEach((cl, i) => {
+    const nodes = clusters.map((cl, i) => {
         const angle = i * angleStep - Math.PI / 2;
-        const dist = maxDist > 0 ? (cl.distance / maxDist) * maxR : 0;
-        const x = cx + Math.cos(angle) * dist;
-        const y = cy + Math.sin(angle) * dist;
-        const size = 5 + Math.sqrt(cl.lists.length) * 5;
-
-        const g = svg.append("g").attr("cursor", "pointer");
-
-        g.append("circle")
-            .attr("cx", x).attr("cy", y).attr("r", size)
-            .attr("fill", "var(--accent)")
-            .attr("opacity", 0.25)
-            .attr("stroke", "var(--accent)")
-            .attr("stroke-width", 1.5)
-            .attr("stroke-opacity", 0.6);
-
-        // Count badge
-        if (cl.lists.length > 1) {
-            g.append("text")
-                .attr("x", x).attr("y", y + 1)
-                .attr("text-anchor", "middle")
-                .attr("dominant-baseline", "middle")
-                .attr("font-family", "var(--font-mono)")
-                .attr("font-size", Math.min(11, size))
-                .attr("font-weight", 600)
-                .attr("fill", "var(--ink)")
-                .text(cl.lists.length);
-        }
-
-        // Pilot label for small clusters
-        if (cl.lists.length <= 2) {
-            const label = cl.lists.map(l => l.pilot).join(", ");
-            g.append("text")
-                .attr("x", x).attr("y", y + size + 11)
-                .attr("text-anchor", "middle")
-                .attr("font-family", "var(--font-body)")
-                .attr("font-size", 8)
-                .attr("fill", "var(--ink-faint)")
-                .text(label.length > 20 ? label.slice(0, 18) + "…" : label);
-        }
-
-        // Hover: show diff from average
-        g.on("mouseenter touchstart", () => {
-            let html = `<div class="tt-name">${cl.lists.length} list${cl.lists.length > 1 ? "s" : ""}</div>`;
-            html += `<div class="tt-stat">${cl.distance} cards from avg</div>`;
-            if (cl.diff.length > 0) {
-                html += `<div style="margin-top:4px;font-size:11px;line-height:1.5">`;
-                for (const d of cl.diff.slice(0, 8)) {
-                    const sign = d.delta > 0 ? "+" : "";
-                    html += `<div>${sign}${d.delta} ${d.card}</div>`;
-                }
-                if (cl.diff.length > 8) html += `<div>… +${cl.diff.length - 8} more</div>`;
-                html += `</div>`;
-            }
-            tooltipEl.innerHTML = html;
-            gsap.killTweensOf(tooltipEl);
-            gsap.fromTo(tooltipEl,
-                { autoAlpha: 0, y: 6 },
-                { autoAlpha: 1, y: 0, duration: 0.2, ease: "power2.out" }
-            );
-        })
-        .on("mousemove", (event) => {
-            tooltipEl.style.left = (event.clientX + 16) + "px";
-            tooltipEl.style.top = (event.clientY + 16) + "px";
-        })
-        .on("mouseleave touchend", () => {
-            gsap.killTweensOf(tooltipEl);
-            gsap.to(tooltipEl, { autoAlpha: 0, duration: 0.15, ease: "power2.in" });
-        });
-
-        // Entrance animation
-        if (highlightDuration()) {
-            g.attr("opacity", 0);
-            gsap.fromTo(g.node(),
-                { opacity: 0, scale: 0, transformOrigin: `${x}px ${y}px` },
-                { opacity: 1, scale: 1, duration: 0.4, delay: 0.1 + i * 0.05, ease: "back.out(1.7)" }
-            );
-        }
+        const targetR = minR + distScale(cl.distance) * (maxR - minR);
+        const size = 8 + Math.sqrt(cl.lists.length) * 6;
+        return {
+            cluster: cl,
+            index: i,
+            size,
+            targetR,
+            // Initial position along the target angle
+            x: cx + Math.cos(angle) * targetR,
+            y: cy + Math.sin(angle) * targetR,
+        };
     });
 
-    // Draw connecting lines from center to clusters
-    clusters.forEach((cl, i) => {
-        const angle = i * angleStep - Math.PI / 2;
-        const dist = maxDist > 0 ? (cl.distance / maxDist) * maxR : 0;
-        const x = cx + Math.cos(angle) * dist;
-        const y = cy + Math.sin(angle) * dist;
-
-        svg.insert("line", ":first-child")
+    // Connecting lines (drawn behind clusters, updated on tick)
+    const lineG = svg.append("g");
+    const lines = nodes.map(() =>
+        lineG.append("line")
             .attr("x1", cx).attr("y1", cy)
-            .attr("x2", x).attr("y2", y)
-            .attr("stroke", "var(--accent)")
-            .attr("stroke-opacity", 0.12)
-            .attr("stroke-width", 1);
+            .attr("stroke", "var(--border)")
+            .attr("stroke-opacity", 0.15)
+            .attr("stroke-width", 1)
+    );
+
+    // Track selected cluster for highlight
+    let selectedG = null;
+
+    // Build cluster visuals
+    const clusterG = svg.append("g");
+    const groups = nodes.map((nd) => {
+        const g = clusterG.append("g")
+            .attr("cursor", "pointer")
+            .datum(nd);
+
+        // Mana-colored arc border
+        if (clColors.length === 0) {
+            g.append("circle")
+                .attr("r", nd.size)
+                .attr("fill", "var(--bg)")
+                .attr("stroke", "#a09888")
+                .attr("stroke-width", strokeW)
+                .attr("stroke-opacity", 0.5)
+                .attr("class", "cluster-ring");
+        } else if (clColors.length === 1) {
+            g.append("circle")
+                .attr("r", nd.size)
+                .attr("fill", "var(--bg)")
+                .attr("stroke", MANA_HEX[clColors[0]] || "#a09888")
+                .attr("stroke-width", strokeW)
+                .attr("stroke-opacity", 0.7)
+                .attr("class", "cluster-ring");
+        } else {
+            g.append("circle")
+                .attr("r", nd.size)
+                .attr("fill", "var(--bg)")
+                .attr("stroke", "none");
+
+            const segAngle = (2 * Math.PI) / clColors.length;
+            const gap = 0.08;
+            clColors.forEach((c, ci) => {
+                const startA = ci * segAngle - Math.PI / 2 + gap / 2;
+                const endA = (ci + 1) * segAngle - Math.PI / 2 - gap / 2;
+                const x1 = Math.cos(startA) * nd.size;
+                const y1 = Math.sin(startA) * nd.size;
+                const x2 = Math.cos(endA) * nd.size;
+                const y2 = Math.sin(endA) * nd.size;
+                const largeArc = segAngle - gap > Math.PI ? 1 : 0;
+                g.append("path")
+                    .attr("d", `M ${x1} ${y1} A ${nd.size} ${nd.size} 0 ${largeArc} 1 ${x2} ${y2}`)
+                    .attr("fill", "none")
+                    .attr("stroke", MANA_HEX[c] || "#a09888")
+                    .attr("stroke-width", strokeW)
+                    .attr("stroke-linecap", "round")
+                    .attr("stroke-opacity", 0.75)
+                    .attr("class", "cluster-ring");
+            });
+        }
+
+        // Count label
+        g.append("text")
+            .attr("text-anchor", "middle")
+            .attr("dominant-baseline", "middle")
+            .attr("font-family", "var(--font-mono)")
+            .attr("font-size", Math.max(11, Math.min(14, nd.size - 2)))
+            .attr("font-weight", 600)
+            .attr("fill", "var(--ink)")
+            .text(nd.cluster.lists.length);
+
+        // Distance label
+        g.append("text")
+            .attr("y", nd.size + 14)
+            .attr("text-anchor", "middle")
+            .attr("font-family", "var(--font-mono)")
+            .attr("font-size", 9)
+            .attr("fill", "var(--ink-faint)")
+            .text(nd.cluster.distance === 0 ? "exact" : "\u0394" + nd.cluster.distance);
+
+        // Click handler
+        g.on("click", () => {
+            if (selectedG) {
+                selectedG.selectAll(".cluster-ring")
+                    .attr("stroke-width", strokeW)
+                    .attr("stroke-opacity", function() {
+                        return this.tagName === "path" ? 0.75 : (clColors.length === 0 ? 0.5 : 0.7);
+                    });
+            }
+            selectedG = g;
+            g.selectAll(".cluster-ring")
+                .attr("stroke-width", strokeW + 1.5)
+                .attr("stroke-opacity", 1);
+            showClusterDetail(nd.cluster, avgDeck);
+        });
+
+        return g;
+    });
+
+    // Force simulation: radial pull + collision avoidance
+    const sim = d3.forceSimulation(nodes)
+        .force("radial", d3.forceRadial(d => d.targetR, cx, cy).strength(0.8))
+        .force("collide", d3.forceCollide(d => d.size + 8).strength(0.9))
+        .alphaDecay(0.05)
+        .on("tick", () => {
+            nodes.forEach((nd, i) => {
+                groups[i].attr("transform", `translate(${nd.x},${nd.y})`);
+                lines[i].attr("x2", nd.x).attr("y2", nd.y);
+            });
+        });
+
+    // Let simulation settle quickly (no visible jitter)
+    if (!highlightDuration()) {
+        sim.stop();
+        for (let t = 0; t < 120; t++) sim.tick();
+        nodes.forEach((nd, i) => {
+            groups[i].attr("transform", `translate(${nd.x},${nd.y})`);
+            lines[i].attr("x2", nd.x).attr("y2", nd.y);
+        });
+    } else {
+        // Entrance animation: fade in after simulation settles
+        groups.forEach(g => g.attr("opacity", 0));
+        lines.forEach(l => l.attr("opacity", 0));
+
+        // Run simulation silently, then animate in
+        sim.stop();
+        for (let t = 0; t < 120; t++) sim.tick();
+        nodes.forEach((nd, i) => {
+            groups[i].attr("transform", `translate(${nd.x},${nd.y})`);
+            lines[i].attr("x2", nd.x).attr("y2", nd.y);
+        });
+
+        // Stagger entrance
+        lines.forEach((l, i) => {
+            gsap.to(l.node(), { opacity: 1, duration: 0.3, delay: 0.1 + i * 0.04, ease: "power2.out" });
+        });
+        groups.forEach((g, i) => {
+            gsap.fromTo(g.node(),
+                { opacity: 0, scale: 0, transformOrigin: "center center" },
+                { opacity: 1, scale: 1, duration: 0.4, delay: 0.15 + i * 0.06, ease: "back.out(1.7)" }
+            );
+        });
+    }
+
+    // Center dot + label — appended last so it sits on top of lines/clusters
+    const centerG = svg.append("g")
+        .attr("cursor", "pointer")
+        .on("click", () => {
+            if (selectedG) {
+                selectedG.selectAll(".cluster-ring")
+                    .attr("stroke-width", strokeW)
+                    .attr("stroke-opacity", function() {
+                        return this.tagName === "path" ? 0.75 : (clColors.length === 0 ? 0.5 : 0.7);
+                    });
+                selectedG = null;
+            }
+            showAvgDeckDetail(avgDeck, lists);
+        });
+    centerG.append("circle")
+        .attr("cx", cx).attr("cy", cy).attr("r", 14)
+        .attr("fill", "var(--accent)")
+        .attr("opacity", 0.7);
+    svg.append("text")
+        .attr("x", cx).attr("y", cy + 28)
+        .attr("text-anchor", "middle")
+        .attr("font-family", "var(--font-display)")
+        .attr("font-size", 12)
+        .attr("fill", "var(--ink-faint)")
+        .attr("pointer-events", "none")
+        .text("avg");
+}
+
+let clusterDeckIdx = 1000;
+
+function showClusterDetail(cluster, avgDeck) {
+    const sidebar = document.getElementById("variants-sidebar");
+    const content = document.getElementById("variants-sidebar-content");
+
+    let html = "";
+
+    // Header
+    html += `<div class="panel-header">`;
+    html += `<div class="panel-name">Cluster</div>`;
+    html += `<div class="panel-meta">${cluster.lists.length}`;
+    html += `<span class="panel-meta-label">${cluster.lists.length === 1 ? "list" : "lists"} &middot; &Delta;${cluster.distance} cards</span></div>`;
+    html += `</div>`;
+
+    // Diff section
+    if (cluster.diff.length > 0) {
+        html += `<div class="panel-section-title">Diff from average</div>`;
+        for (const d of cluster.diff) {
+            const cls = d.delta > 0 ? "plus" : "minus";
+            const sign = d.delta > 0 ? "+" : "";
+            html += `<div class="cluster-diff" data-card="${d.card}"><span class="${cls}">${sign}${d.delta}</span> ${d.card}</div>`;
+        }
+    } else {
+        html += `<div class="panel-section-title">Exact match with average</div>`;
+    }
+
+    // Lists section
+    html += `<div class="panel-section-title" style="margin-top:24px">Lists</div>`;
+    html += `<ul class="results-list">`;
+
+    const baseIdx = clusterDeckIdx;
+    clusterDeckIdx += cluster.lists.length;
+
+    for (let i = 0; i < cluster.lists.length; i++) {
+        const l = cluster.lists[i];
+        const idx = baseIdx + i;
+        html += `<li class="result-row" data-idx="${idx}">`;
+        html += `<div class="result-header">`;
+        html += `<span class="result-finish">${l.finish}</span>`;
+        html += `<span class="result-pilot">${l.pilot}</span>`;
+        html += `<span class="result-meta">${l.date}</span>`;
+        html += `<span class="result-toggle">+</span>`;
+        html += `</div>`;
+        html += `<div class="result-decklist hidden" id="decklist-${idx}">`;
+        html += `<div class="result-section">Mainboard</div>`;
+        const mainEntries = Object.entries(l.mainboard).sort((a, b) => b[1] - a[1]);
+        for (const [name, qty] of mainEntries) {
+            html += `<div class="result-card" data-card="${name}">${qty} ${name}</div>`;
+        }
+        if (l.sideboard && Object.keys(l.sideboard).length > 0) {
+            html += `<div class="result-section">Sideboard</div>`;
+            const sideEntries = Object.entries(l.sideboard).sort((a, b) => b[1] - a[1]);
+            for (const [name, qty] of sideEntries) {
+                html += `<div class="result-card" data-card="${name}">${qty} ${name}</div>`;
+            }
+        }
+        html += `</div></li>`;
+    }
+    html += `</ul>`;
+
+    content.innerHTML = html;
+
+    // Wire card hover on diff rows
+    wireCardHover(content);
+
+    // Wire up collapsible toggles + card hover
+    content.querySelectorAll(".result-row").forEach(row => {
+        let hoverWired = false;
+        row.querySelector(".result-header").addEventListener("click", () => {
+            const dl = document.getElementById(`decklist-${row.dataset.idx}`);
+            const toggle = row.querySelector(".result-toggle");
+            dl.classList.toggle("hidden");
+            toggle.textContent = dl.classList.contains("hidden") ? "+" : "\u2212";
+            if (!dl.classList.contains("hidden") && !hoverWired) {
+                wireCardHover(dl);
+                hoverWired = true;
+            }
+        });
+    });
+
+    // Show sidebar with animation
+    sidebar.scrollTop = 0;
+    const dur = highlightDuration();
+    const wasHidden = !sidebar.classList.contains("active");
+    sidebar.classList.add("active");
+    if (wasHidden && dur) {
+        gsap.fromTo(sidebar,
+            { x: isMobile() ? 0 : 40, autoAlpha: 0 },
+            { x: 0, autoAlpha: 1, duration: 0.45, ease: "power3.out" }
+        );
+    } else if (wasHidden) {
+        gsap.set(sidebar, { autoAlpha: 1 });
+    }
+
+    // Animate content in
+    if (dur) {
+        const header = content.querySelector(".panel-header");
+        const titles = content.querySelectorAll(".panel-section-title");
+        const rows = content.querySelectorAll(".cluster-diff, .result-row");
+        const tl = gsap.timeline();
+        if (header) tl.from(header, { y: 14, autoAlpha: 0, duration: 0.35, ease: "power2.out" }, 0);
+        if (titles.length) tl.from(titles, { x: -10, autoAlpha: 0, duration: 0.3, stagger: 0.06, ease: "power2.out" }, 0.12);
+        if (rows.length) tl.from(rows, { x: -14, autoAlpha: 0, duration: 0.3, stagger: 0.03, ease: "power2.out" }, 0.2);
+    }
+}
+
+function showAvgDeckDetail(avgDeck, lists) {
+    const sidebar = document.getElementById("variants-sidebar");
+    const content = document.getElementById("variants-sidebar-content");
+
+    // Compute sideboard average
+    const sideSums = {};
+    for (const l of lists) {
+        if (!l.sideboard) continue;
+        for (const [card, qty] of Object.entries(l.sideboard)) {
+            sideSums[card] = (sideSums[card] || 0) + qty;
+        }
+    }
+    const avgSide = {};
+    for (const [card, total] of Object.entries(sideSums)) {
+        const rounded = Math.round(total / lists.length);
+        if (rounded > 0) avgSide[card] = rounded;
+    }
+
+    const mainTotal = Object.values(avgDeck).reduce((s, n) => s + n, 0);
+    const sideTotal = Object.values(avgSide).reduce((s, n) => s + n, 0);
+
+    let html = "";
+    html += `<div class="panel-header">`;
+    html += `<div class="panel-name">Average Deck</div>`;
+    html += `<div class="panel-meta">${lists.length}<span class="panel-meta-label"> lists</span></div>`;
+    html += `</div>`;
+
+    // Mainboard
+    html += `<div class="panel-section-title">Mainboard <span class="avg-deck-count">${mainTotal} cards</span></div>`;
+    const mainEntries = Object.entries(avgDeck).sort((a, b) => b[1] - a[1]);
+    for (const [name, qty] of mainEntries) {
+        html += `<div class="result-card" data-card="${name}">${qty} ${name}</div>`;
+    }
+
+    // Sideboard
+    if (Object.keys(avgSide).length > 0) {
+        html += `<div class="panel-section-title" style="margin-top:24px">Sideboard <span class="avg-deck-count">${sideTotal} cards</span></div>`;
+        const sideEntries = Object.entries(avgSide).sort((a, b) => b[1] - a[1]);
+        for (const [name, qty] of sideEntries) {
+            html += `<div class="result-card" data-card="${name}">${qty} ${name}</div>`;
+        }
+    }
+
+    content.innerHTML = html;
+    wireCardHover(content);
+
+    // Show sidebar
+    sidebar.scrollTop = 0;
+    const dur = highlightDuration();
+    const wasHidden = !sidebar.classList.contains("active");
+    sidebar.classList.add("active");
+    if (wasHidden && dur) {
+        gsap.fromTo(sidebar,
+            { x: isMobile() ? 0 : 40, autoAlpha: 0 },
+            { x: 0, autoAlpha: 1, duration: 0.45, ease: "power3.out" }
+        );
+    } else if (wasHidden) {
+        gsap.set(sidebar, { autoAlpha: 1 });
+    }
+
+    if (dur) {
+        const header = content.querySelector(".panel-header");
+        const titles = content.querySelectorAll(".panel-section-title");
+        const cards = content.querySelectorAll(".result-card");
+        const tl = gsap.timeline();
+        if (header) tl.from(header, { y: 14, autoAlpha: 0, duration: 0.35, ease: "power2.out" }, 0);
+        if (titles.length) tl.from(titles, { x: -10, autoAlpha: 0, duration: 0.3, stagger: 0.06, ease: "power2.out" }, 0.12);
+        if (cards.length) tl.from(cards, { x: -14, autoAlpha: 0, duration: 0.3, stagger: 0.02, ease: "power2.out" }, 0.2);
+    }
+}
+
+function wireCardHover(container) {
+    const tooltipEl = document.getElementById("tooltip");
+    container.querySelectorAll("[data-card]").forEach(el => {
+        const cardName = el.dataset.card;
+        const img = cardImageMap[cardName];
+        if (!img) return;
+
+        el.addEventListener("mouseenter", (e) => {
+            tooltipEl.innerHTML = `<div class="tt-name">${cardName}</div><img src="${img}" alt="${cardName}">`;
+            tooltipEl.style.display = "block";
+            tooltipEl.style.opacity = "1";
+            tooltipEl.style.visibility = "visible";
+        });
+        el.addEventListener("mousemove", (e) => {
+            // Position to the left of the parent panel
+            const sidebar = el.closest("#variants-sidebar") || el.closest("#detail-panel");
+            if (sidebar) {
+                tooltipEl.style.left = (sidebar.getBoundingClientRect().left - 210) + "px";
+            } else {
+                tooltipEl.style.left = (e.clientX + 16) + "px";
+            }
+            tooltipEl.style.top = (e.clientY - 60) + "px";
+        });
+        el.addEventListener("mouseleave", () => {
+            tooltipEl.style.display = "none";
+            tooltipEl.style.opacity = "0";
+            tooltipEl.style.visibility = "hidden";
+        });
     });
 }
 
@@ -1277,13 +1634,16 @@ function showArchetypeDetail(d, edges, nodeMap) {
     html += `<div class="panel-name">${d.name}</div>`;
     if (pips) html += `<div class="mana-pips">${pips}</div>`;
     html += `<div class="panel-meta">${(d.meta_share * 100).toFixed(1)}%`;
-    html += `<span class="panel-meta-label">of the meta &middot; ${d.list_count} lists</span></div>`;
+    html += `<span class="panel-meta-label">of the meta &middot; ${d.list_count} lists`;
+    if (lists.length >= 3) {
+        html += ` &middot; <span class="variants-link" id="open-variants">view variants</span>`;
+    }
+    html += `</span></div>`;
     html += `</div>`;
 
     html += `<div class="panel-tabs">`;
     html += `<button class="panel-tab active" data-tab="lists">Lists (${lists.length})</button>`;
     html += `<button class="panel-tab" data-tab="avg">Average Deck</button>`;
-    if (lists.length >= 3) html += `<button class="panel-tab" data-tab="variants">Variants</button>`;
     html += `</div>`;
 
     // --- Tab: Lists (default active) ---
@@ -1296,13 +1656,6 @@ function showArchetypeDetail(d, edges, nodeMap) {
     html += buildAvgDeckHTML(connected, nodeMap);
     html += `</div>`;
 
-    // --- Tab: Variants ---
-    if (lists.length >= 3) {
-        html += `<div class="tab-content hidden" id="tab-variants">`;
-        html += `<div id="variants-chart"></div>`;
-        html += `</div>`;
-    }
-
     d3.select("#detail-content").html(html);
 
     // Wire up tabs
@@ -1313,10 +1666,18 @@ function showArchetypeDetail(d, edges, nodeMap) {
             document.querySelectorAll(".tab-content").forEach(c => c.classList.add("hidden"));
             const target = document.getElementById(`tab-${tab.dataset.tab}`);
             target.classList.remove("hidden");
-            if (tab.dataset.tab === "variants") renderVariantsChart(lists);
-            else animateTabContent(target);
+            animateTabContent(target);
         });
     });
+
+    // Wire up variants link
+    const varLink = document.getElementById("open-variants");
+    if (varLink) {
+        varLink.addEventListener("click", (e) => {
+            e.stopPropagation();
+            openVariantsOverlay(d.name, lists, d.colors);
+        });
+    }
 
     // Wire up collapsible list toggles
     document.querySelectorAll(".result-row").forEach(row => {

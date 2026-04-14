@@ -101,10 +101,12 @@ def compute_graph(knowledge_dir: Path) -> dict:
     for slug, card_data in cards.items():
         if slug not in card_archetype_weights:
             continue
+        # Use only the front face name (MTGO lists don't include "// Back Face")
+        card_name = card_data["name"].split(" // ")[0]
         nodes.append({
             "id": f"card:{slug}",
             "type": "card",
-            "name": card_data["name"],
+            "name": card_name,
             "colors": card_data.get("colors", []),
             "cmc": card_data.get("cmc", 0),
             "image": card_data.get("image", ""),
