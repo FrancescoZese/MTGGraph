@@ -5,16 +5,16 @@ name: Amulet Titan
 meta_share: 0.0391
 list_count: 28
 top_cards:
-- name: Spelunking
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
-- name: Arboreal Grazer
+- name: Spelunking
   weight: 1.0
   avg_copies: 4.0
 - name: Amulet of Vigor
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Saga
+- name: Arboreal Grazer
   weight: 1.0
   avg_copies: 4.0
 - name: Crumbling Vestige
@@ -44,10 +44,10 @@ top_cards:
 - name: Summoner's Pact
   weight: 1.0
   avg_copies: 2.07
-- name: Lotus Field
+- name: Force of Vigor
   weight: 1.0
   avg_copies: 2.0
-- name: Force of Vigor
+- name: Lotus Field
   weight: 1.0
   avg_copies: 2.0
 - name: Aftermath Analyst
@@ -56,10 +56,13 @@ top_cards:
 - name: Six
   weight: 1.0
   avg_copies: 1.11
-- name: Hanweir Battlements
+- name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Mirrorpool
+  weight: 1.0
+  avg_copies: 1.0
+- name: Urza's Cave
   weight: 1.0
   avg_copies: 1.0
 - name: Vesuva
@@ -71,13 +74,10 @@ top_cards:
 - name: Bojuka Bog
   weight: 1.0
   avg_copies: 1.0
-- name: Urza's Cave
+- name: Hanweir Battlements
   weight: 1.0
   avg_copies: 1.0
 - name: Echoing Deeps
-  weight: 1.0
-  avg_copies: 1.0
-- name: Mirrorpool
   weight: 1.0
   avg_copies: 1.0
 - name: Shifting Woodland
@@ -134,16 +134,16 @@ top_cards:
 - name: The Wandering Minstrel
   weight: 0.1071
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Keen-Eyed Curator
   weight: 0.1071
   avg_copies: 1.0
-- name: Keen-Eyed Curator
+- name: Soul-Guide Lantern
   weight: 0.1071
   avg_copies: 1.0
 - name: Explore
   weight: 0.0714
   avg_copies: 3.0
-- name: Elvish Reclaimer
+- name: Commercial District
   weight: 0.0714
   avg_copies: 1.0
 - name: Hedge Maze
@@ -155,7 +155,7 @@ top_cards:
 - name: Wooded Foothills
   weight: 0.0714
   avg_copies: 1.0
-- name: Commercial District
+- name: Elvish Reclaimer
   weight: 0.0714
   avg_copies: 1.0
 - name: Dosan the Falling Leaf

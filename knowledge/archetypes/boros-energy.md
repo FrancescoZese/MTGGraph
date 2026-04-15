@@ -18,10 +18,10 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 3.9
-- name: Phlage, Titan of Fire's Fury
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 3.83
-- name: Arid Mesa
+- name: Phlage, Titan of Fire's Fury
   weight: 1.0
   avg_copies: 3.83
 - name: Arena of Glory
@@ -186,10 +186,10 @@ top_cards:
 - name: Starfield Shepherd
   weight: 0.0064
   avg_copies: 4.0
-- name: Stony Silence
+- name: The Battle of Bywater
   weight: 0.0064
   avg_copies: 2.0
-- name: White Orchid Phantom
+- name: Unlicensed Hearse
   weight: 0.0064
   avg_copies: 2.0
 - name: Reprieve
@@ -198,31 +198,25 @@ top_cards:
 - name: Kataki, War's Wage
   weight: 0.0064
   avg_copies: 2.0
-- name: Unlicensed Hearse
+- name: Screaming Nemesis
+  weight: 0.0064
+  avg_copies: 2.0
+- name: Stony Silence
+  weight: 0.0064
+  avg_copies: 2.0
+- name: White Orchid Phantom
   weight: 0.0064
   avg_copies: 2.0
 - name: Ephemerate
   weight: 0.0064
   avg_copies: 2.0
-- name: The Battle of Bywater
-  weight: 0.0064
-  avg_copies: 2.0
-- name: Screaming Nemesis
-  weight: 0.0064
-  avg_copies: 2.0
-- name: The Ooze
-  weight: 0.0064
-  avg_copies: 1.0
-- name: The Wandering Emperor
-  weight: 0.0064
-  avg_copies: 1.0
-- name: Duty Beyond Death
+- name: Giant Killer
   weight: 0.0064
   avg_copies: 1.0
 - name: Curious Farm Animals
   weight: 0.0064
   avg_copies: 1.0
-- name: Giant Killer
+- name: Cool but Rude
   weight: 0.0064
   avg_copies: 1.0
 - name: Prismatic Ending
@@ -234,10 +228,16 @@ top_cards:
 - name: Ghost Vacuum
   weight: 0.0064
   avg_copies: 1.0
-- name: Cool but Rude
+- name: Hallowed Moonlight
   weight: 0.0064
   avg_copies: 1.0
-- name: Hallowed Moonlight
+- name: The Wandering Emperor
+  weight: 0.0064
+  avg_copies: 1.0
+- name: Duty Beyond Death
+  weight: 0.0064
+  avg_copies: 1.0
+- name: The Ooze
   weight: 0.0064
   avg_copies: 1.0
 ---

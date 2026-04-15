@@ -8,10 +8,10 @@ name: 4c Omnath
 meta_share: 0.0014
 list_count: 1
 top_cards:
-- name: Solitude
+- name: Magmatic Hellkite
   weight: 1.0
   avg_copies: 4.0
-- name: Shardless Agent
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
@@ -20,37 +20,37 @@ top_cards:
 - name: Leyline Binding
   weight: 1.0
   avg_copies: 4.0
-- name: Misty Rainforest
+- name: Shardless Agent
   weight: 1.0
   avg_copies: 4.0
 - name: Subtlety
   weight: 1.0
   avg_copies: 4.0
-- name: Quantum Riddler
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Birthing Ritual
   weight: 1.0
   avg_copies: 4.0
-- name: Magmatic Hellkite
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 4.0
 - name: Omnath, Locus of Creation
   weight: 1.0
   avg_copies: 3.0
-- name: Brotherhood's End
-  weight: 1.0
-  avg_copies: 2.0
 - name: Teferi, Time Raveler
-  weight: 1.0
-  avg_copies: 2.0
-- name: Windswept Heath
   weight: 1.0
   avg_copies: 2.0
 - name: Wear
   weight: 1.0
   avg_copies: 2.0
+- name: Windswept Heath
+  weight: 1.0
+  avg_copies: 2.0
 - name: Witch Enchanter
+  weight: 1.0
+  avg_copies: 2.0
+- name: Brotherhood's End
   weight: 1.0
   avg_copies: 2.0
 - name: Force of Negation
@@ -59,25 +59,22 @@ top_cards:
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
-- name: Mystical Dispute
+- name: Obsidian Charmaw
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Beza, the Bounding Spring
+  weight: 1.0
+  avg_copies: 1.0
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
-- name: Indatha Triome
-  weight: 1.0
-  avg_copies: 1.0
-- name: Forest
-  weight: 1.0
-  avg_copies: 1.0
-- name: Plains
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Hedge Maze
@@ -86,40 +83,43 @@ top_cards:
 - name: Formidable Speaker
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Breeding Pool
-  weight: 1.0
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 1.0
-  avg_copies: 1.0
-- name: Obsidian Charmaw
-  weight: 1.0
-  avg_copies: 1.0
 - name: Gemstone Caverns
-  weight: 1.0
-  avg_copies: 1.0
-- name: Endurance
   weight: 1.0
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
   weight: 1.0
   avg_copies: 1.0
-- name: Beza, the Bounding Spring
+- name: Plains
+  weight: 1.0
+  avg_copies: 1.0
+- name: Endurance
   weight: 1.0
   avg_copies: 1.0
 - name: Kavaero, Mind-Bitten
   weight: 1.0
   avg_copies: 1.0
-- name: Dismember
+- name: Mystical Dispute
+  weight: 1.0
+  avg_copies: 1.0
+- name: Breeding Pool
+  weight: 1.0
+  avg_copies: 1.0
+- name: Stomping Ground
+  weight: 1.0
+  avg_copies: 1.0
+- name: Forest
+  weight: 1.0
+  avg_copies: 1.0
+- name: Rough
   weight: 1.0
   avg_copies: 1.0
 - name: Force of Vigor
   weight: 1.0
   avg_copies: 1.0
-- name: Rough
+- name: Dismember
+  weight: 1.0
+  avg_copies: 1.0
+- name: Indatha Triome
   weight: 1.0
   avg_copies: 1.0
 ---

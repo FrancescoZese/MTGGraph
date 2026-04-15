@@ -7,7 +7,7 @@ name: Jeskai Control
 meta_share: 0.0028
 list_count: 2
 top_cards:
-- name: Consign to Memory
+- name: Flame of Anor
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
@@ -16,7 +16,7 @@ top_cards:
 - name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
-- name: Flame of Anor
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
 - name: Mystical Dispute
@@ -37,7 +37,7 @@ top_cards:
 - name: Orim's Chant
   weight: 1.0
   avg_copies: 2.67
-- name: Prismatic Ending
+- name: Steam Vents
   weight: 1.0
   avg_copies: 2.0
 - name: Hallowed Fountain
@@ -46,13 +46,13 @@ top_cards:
 - name: Plains
   weight: 1.0
   avg_copies: 2.0
-- name: Steam Vents
+- name: Celestial Purge
   weight: 1.0
   avg_copies: 2.0
 - name: Arena of Glory
   weight: 1.0
   avg_copies: 2.0
-- name: Celestial Purge
+- name: Prismatic Ending
   weight: 1.0
   avg_copies: 2.0
 - name: Surgical Extraction
@@ -61,18 +61,15 @@ top_cards:
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.5
-- name: Isochron Scepter
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Isochron Scepter
   weight: 1.0
   avg_copies: 1.0
 - name: Counterspell
   weight: 0.5
   avg_copies: 4.0
-- name: Consult the Star Charts
-  weight: 0.5
-  avg_copies: 3.0
 - name: Scalding Tarn
   weight: 0.5
   avg_copies: 3.0
@@ -85,28 +82,31 @@ top_cards:
 - name: Thundertrap Trainer
   weight: 0.5
   avg_copies: 3.0
-- name: Flare of Denial
+- name: Consult the Star Charts
   weight: 0.5
-  avg_copies: 2.0
-- name: Tune the Narrative
-  weight: 0.5
-  avg_copies: 2.0
-- name: High Noon
+  avg_copies: 3.0
+- name: Obsidian Charmaw
   weight: 0.5
   avg_copies: 2.0
 - name: Spell Snare
   weight: 0.5
   avg_copies: 2.0
-- name: Obsidian Charmaw
+- name: High Noon
+  weight: 0.5
+  avg_copies: 2.0
+- name: Lórien Revealed
+  weight: 0.5
+  avg_copies: 2.0
+- name: Flare of Denial
   weight: 0.5
   avg_copies: 2.0
 - name: Subtlety
   weight: 0.5
   avg_copies: 2.0
-- name: Mystic Gate
+- name: Tune the Narrative
   weight: 0.5
   avg_copies: 2.0
-- name: Lórien Revealed
+- name: Mystic Gate
   weight: 0.5
   avg_copies: 2.0
 - name: Sacred Foundry
@@ -118,10 +118,10 @@ top_cards:
 - name: Mountain
   weight: 0.5
   avg_copies: 1.0
-- name: Teferi, Hero of Dominaria
+- name: Elegant Parlor
   weight: 0.5
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Teferi, Hero of Dominaria
   weight: 0.5
   avg_copies: 1.0
 - name: Stern Scolding

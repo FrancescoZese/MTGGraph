@@ -6,10 +6,10 @@ name: Sultai Artifacts
 meta_share: 0.014
 list_count: 10
 top_cards:
-- name: Mox Opal
+- name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
-- name: Tamiyo, Inquisitive Student
+- name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
@@ -48,13 +48,13 @@ top_cards:
 - name: Breeding Pool
   weight: 0.9
   avg_copies: 1.11
+- name: Thundering Falls
+  weight: 0.9
+  avg_copies: 1.0
 - name: Island
   weight: 0.9
   avg_copies: 1.0
 - name: Strix Serenade
-  weight: 0.9
-  avg_copies: 1.0
-- name: Thundering Falls
   weight: 0.9
   avg_copies: 1.0
 - name: Cori-Steel Cutter
@@ -69,10 +69,10 @@ top_cards:
 - name: Blood Moon
   weight: 0.7
   avg_copies: 2.86
-- name: Fire Magic
+- name: Quantum Riddler
   weight: 0.7
   avg_copies: 2.57
-- name: Quantum Riddler
+- name: Fire Magic
   weight: 0.7
   avg_copies: 2.57
 - name: Flame of Anor
@@ -84,22 +84,22 @@ top_cards:
 - name: Mountain
   weight: 0.7
   avg_copies: 1.0
-- name: Minamo, School at Water's Edge
+- name: Flooded Strand
   weight: 0.6
   avg_copies: 1.0
 - name: Shadowspear
   weight: 0.6
   avg_copies: 1.0
-- name: Flooded Strand
+- name: Minamo, School at Water's Edge
   weight: 0.6
   avg_copies: 1.0
 - name: Repeal
   weight: 0.5
   avg_copies: 1.2
-- name: Soul-Guide Lantern
+- name: Pithing Needle
   weight: 0.5
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Soul-Guide Lantern
   weight: 0.5
   avg_copies: 1.0
 - name: Otawara, Soaring City
@@ -111,16 +111,16 @@ top_cards:
 - name: Sewer-veillance Cam
   weight: 0.3
   avg_copies: 4.0
-- name: Misty Rainforest
-  weight: 0.3
-  avg_copies: 3.0
 - name: Grinding Station
   weight: 0.3
   avg_copies: 3.0
-- name: Vexing Bauble
+- name: Misty Rainforest
+  weight: 0.3
+  avg_copies: 3.0
+- name: Sink into Stupor
   weight: 0.3
   avg_copies: 1.0
-- name: Sink into Stupor
+- name: Vexing Bauble
   weight: 0.3
   avg_copies: 1.0
 - name: Malevolent Rumble
@@ -129,10 +129,10 @@ top_cards:
 - name: Spirebluff Canal
   weight: 0.2
   avg_copies: 2.5
-- name: Mystical Dispute
+- name: Endurance
   weight: 0.2
   avg_copies: 2.0
-- name: Endurance
+- name: Mystical Dispute
   weight: 0.2
   avg_copies: 2.0
 - name: Six
@@ -141,16 +141,16 @@ top_cards:
 - name: Pyroclasm
   weight: 0.2
   avg_copies: 1.5
-- name: Hedge Maze
+- name: Grafdigger's Cage
   weight: 0.2
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Hedge Maze
   weight: 0.2
   avg_copies: 1.0
 - name: Engineered Explosives
   weight: 0.2
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Boseiju, Who Endures
   weight: 0.2
   avg_copies: 1.0
 - name: Shifting Woodland
@@ -165,37 +165,37 @@ top_cards:
 - name: Boomerang Basics
   weight: 0.1
   avg_copies: 3.0
-- name: Harbinger of the Seas
-  weight: 0.1
-  avg_copies: 2.0
-- name: The Reality Chip
-  weight: 0.1
-  avg_copies: 2.0
 - name: Botanical Sanctum
   weight: 0.1
   avg_copies: 2.0
 - name: Kappa Cannoneer
   weight: 0.1
   avg_copies: 2.0
-- name: Stomping Ground
+- name: The Reality Chip
   weight: 0.1
-  avg_copies: 1.0
-- name: Nature's Claim
+  avg_copies: 2.0
+- name: Harbinger of the Seas
   weight: 0.1
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Swan Song
   weight: 0.1
   avg_copies: 1.0
-- name: Subtlety
+- name: Meltdown
   weight: 0.1
   avg_copies: 1.0
-- name: Meltdown
+- name: Nature's Claim
   weight: 0.1
   avg_copies: 1.0
 - name: Snow-Covered Island
   weight: 0.1
   avg_copies: 1.0
 - name: Snow-Covered Mountain
+  weight: 0.1
+  avg_copies: 1.0
+- name: Subtlety
+  weight: 0.1
+  avg_copies: 1.0
+- name: Stomping Ground
   weight: 0.1
   avg_copies: 1.0
 - name: Force of Vigor

@@ -200,7 +200,7 @@ Total lists: 716
    Midrange-combo deck using Birthing Ritual to chain value creatures into powerful threats.
    See: `archetypes/4c-omnath.md`
 
-51. **Izzet Wizards** (0.1%, 1 lists) [UR]
+51. **Izzet Wizzards** (0.1%, 1 lists) [UR]
    Unclassified archetype, pending review.
    See: `archetypes/izzet-wizards.md`
 
@@ -230,7 +230,7 @@ Total lists: 716
 
 ## Most Played Cards (by meta presence)
 
-1. **Consign to Memory** (50.0%) [U] — in: Dimir Control, Dimir Frog, Mono Blue Belcher, Goryo Reanimator, Azorius Control, Domain Zoo, Grixis Reanimator, Neoform Combo, Mono-Blue Tron, Esper Blink, Sultai Reanimator, Bant Control, Azorius Blink, Sultai Artifacts, Esper Control, Grixis Control, Izzet Eldrazi, Jeskai Control, Grixis Shadow, Izzet Splinter Twin, Izzet Wizards, Jeskai Energy, Izzet Prowess, Affinity, Indomitable Creativity, Izzet Cori-Steel, Simic Ritual, Mill, Hammer Time, Kethis Combo, Necrodominance
+1. **Consign to Memory** (50.0%) [U] — in: Dimir Control, Dimir Frog, Mono Blue Belcher, Goryo Reanimator, Azorius Control, Domain Zoo, Grixis Reanimator, Neoform Combo, Mono-Blue Tron, Esper Blink, Sultai Reanimator, Bant Control, Azorius Blink, Sultai Artifacts, Esper Control, Grixis Control, Izzet Eldrazi, Jeskai Control, Grixis Shadow, Izzet Splinter Twin, Izzet Wizzards, Jeskai Energy, Izzet Prowess, Affinity, Indomitable Creativity, Izzet Cori-Steel, Simic Ritual, Mill, Hammer Time, Kethis Combo, Necrodominance
    See: `cards/consign-to-memory.md`
 
 2. **Mystical Dispute** (45.7%) [U] — in: Dimir Control, Dimir Frog, Jeskai Energy, Goryo Reanimator, Azorius Control, Neoform Combo, Mono-Blue Tron, Simic Ritual, 4c Omnath, Sultai Reanimator, Bant Control, Esper Control, Grixis Control, Izzet Eldrazi, Jeskai Control, Izzet Splinter Twin, Domain Zoo, Mono Blue Belcher, Grixis Reanimator, Living End, Affinity, Indomitable Creativity, Esper Blink, Hammer Time, Azorius Blink, Mill, Izzet Prowess, Sultai Artifacts, Necrodominance
@@ -239,7 +239,7 @@ Total lists: 716
 3. **Arid Mesa** (45.2%) [] — in: Boros Energy, Domain Zoo, Mardu Blink, Indomitable Creativity, Orzhov Blink, Azorius Blink, Jeskai Control, Rakdos Steel-Cutter, Bant Ritual, Jeskai Energy, Ruby Storm, Azorius Control, Burn, Hollow One, Dredge, Izzet Prowess, Hammer Time
    See: `cards/arid-mesa.md`
 
-4. **Flooded Strand** (44.5%) [] — in: Jeskai Energy, Goryo Reanimator, Azorius Control, Domain Zoo, Hammer Time, Kethis Combo, 4c Omnath, Esper Blink, Bant Control, Esper Control, Grixis Control, Jeskai Control, Izzet Splinter Twin, Bant Ritual, Izzet Wizards, Dimir Control, Mill, Orzhov Blink, Boros Energy, Azorius Blink, Dimir Frog, Sultai Artifacts, Neoform Combo, Living End, Simic Ritual, Izzet Prowess
+4. **Flooded Strand** (44.5%) [] — in: Jeskai Energy, Goryo Reanimator, Azorius Control, Domain Zoo, Hammer Time, Kethis Combo, 4c Omnath, Esper Blink, Bant Control, Esper Control, Grixis Control, Jeskai Control, Izzet Splinter Twin, Bant Ritual, Izzet Wizzards, Dimir Control, Mill, Orzhov Blink, Boros Energy, Azorius Blink, Dimir Frog, Sultai Artifacts, Neoform Combo, Living End, Simic Ritual, Izzet Prowess
    See: `cards/flooded-strand.md`
 
 5. **Plains** (43.3%) [] — in: Goryo Reanimator, Azorius Control, Domain Zoo, Hammer Time, Boros Ponza, 4c Omnath, Esper Blink, Orzhov Blink, Bant Control, Azorius Blink, Esper Control, Jeskai Control, Bant Ritual, Boros Energy, Jeskai Energy, Indomitable Creativity, Mardu Blink, Eldrazi Tron
@@ -251,7 +251,7 @@ Total lists: 716
 7. **Surgical Extraction** (40.6%) [] — in: Mill, Mardu Blink, Jeskai Control, Izzet Splinter Twin, Boros Energy, Goryo Reanimator, Jeskai Energy, Azorius Control, Izzet Prowess, Necrodominance, Mono-Blue Tron, Indomitable Creativity, Orzhov Blink, Hollow One, Burn, Boros Ponza, Samwise Combo, Grixis Reanimator, Esper Blink, Domain Zoo, Dimir Control, Eldrazi Ramp
    See: `cards/surgical-extraction.md`
 
-8. **Mountain** (39.2%) [] — in: Ruby Storm, Burn, Boros Ponza, Izzet Prowess, Indomitable Creativity, Grixis Control, Jund Saga, Rakdos Lantern Combo, Izzet Eldrazi, Rakdos Steel-Cutter, Rakdos Reanimator, Izzet Splinter Twin, Izzet Wizards, Domain Zoo, Hollow One, Jeskai Energy, Boros Energy, Sultai Artifacts, Mono Red Belcher, Mardu Blink, Jeskai Control, Dredge, Mono Blue Belcher
+8. **Mountain** (39.2%) [] — in: Ruby Storm, Burn, Boros Ponza, Izzet Prowess, Indomitable Creativity, Grixis Control, Jund Saga, Rakdos Lantern Combo, Izzet Eldrazi, Rakdos Steel-Cutter, Rakdos Reanimator, Izzet Splinter Twin, Izzet Wizzards, Domain Zoo, Hollow One, Jeskai Energy, Boros Energy, Sultai Artifacts, Mono Red Belcher, Mardu Blink, Jeskai Control, Dredge, Mono Blue Belcher
    See: `cards/mountain.md`
 
 9. **Sacred Foundry** (37.1%) [] — in: Ruby Storm, Boros Energy, Jeskai Energy, Mardu Blink, 4c Omnath, Indomitable Creativity, Boros Ponza, Burn, Orzhov Blink, Jeskai Control, Azorius Control, Domain Zoo, Izzet Prowess
@@ -263,10 +263,10 @@ Total lists: 716
 11. **Arena of Glory** (36.6%) [] — in: Boros Energy, Jeskai Energy, Mardu Blink, Jeskai Control, Rakdos Steel-Cutter, Domain Zoo, Hollow One, Burn, Eldrazi Ramp
    See: `cards/arena-of-glory.md`
 
-12. **Island** (36.3%) [] — in: Dimir Frog, Goryo Reanimator, Azorius Control, Living End, Grixis Reanimator, Mono-Blue Tron, Kethis Combo, 4c Omnath, Sultai Reanimator, Bant Control, Esper Control, Izzet Cori-Steel, Grixis Control, Izzet Eldrazi, Izzet Splinter Twin, Izzet Wizards, Affinity, Dimir Control, Sultai Artifacts, Jeskai Energy, Mill, Jeskai Control, Mono Blue Belcher, Esper Blink, Izzet Prowess, Neoform Combo
+12. **Island** (36.3%) [] — in: Dimir Frog, Goryo Reanimator, Azorius Control, Living End, Grixis Reanimator, Mono-Blue Tron, Kethis Combo, 4c Omnath, Sultai Reanimator, Bant Control, Esper Control, Izzet Cori-Steel, Grixis Control, Izzet Eldrazi, Izzet Splinter Twin, Izzet Wizzards, Affinity, Dimir Control, Sultai Artifacts, Jeskai Energy, Mill, Jeskai Control, Mono Blue Belcher, Esper Blink, Izzet Prowess, Neoform Combo
    See: `cards/island.md`
 
-13. **Steam Vents** (36.0%) [] — in: Jeskai Energy, Domain Zoo, Grixis Reanimator, Izzet Prowess, 4c Omnath, Indomitable Creativity, Izzet Cori-Steel, Grixis Control, Izzet Eldrazi, Jeskai Control, Grixis Shadow, Izzet Splinter Twin, Izzet Wizards, Affinity, Sultai Artifacts, Azorius Control, Dredge, Dimir Control, Ruby Storm, Living End, Simic Ritual
+13. **Steam Vents** (36.0%) [] — in: Jeskai Energy, Domain Zoo, Grixis Reanimator, Izzet Prowess, 4c Omnath, Indomitable Creativity, Izzet Cori-Steel, Grixis Control, Izzet Eldrazi, Jeskai Control, Grixis Shadow, Izzet Splinter Twin, Izzet Wizzards, Affinity, Sultai Artifacts, Azorius Control, Dredge, Dimir Control, Ruby Storm, Living End, Simic Ritual
    See: `cards/steam-vents.md`
 
 14. **Elegant Parlor** (35.5%) [] — in: Ruby Storm, Boros Energy, Jeskai Energy, Mardu Blink, Indomitable Creativity, Jeskai Control, Azorius Control
@@ -284,39 +284,39 @@ Total lists: 716
 18. **Obsidian Charmaw** (32.1%) [R] — in: Mardu Blink, 4c Omnath, Grixis Control, Jund Saga, Rakdos Steel-Cutter, Rakdos Reanimator, Jeskai Energy, Boros Energy, Jeskai Control, Hollow One, Domain Zoo, Burn, Izzet Prowess
    See: `cards/obsidian-charmaw.md`
 
-19. **Wear** (30.7%) [RW] — in: Domain Zoo, Mardu Blink, Boros Ponza, 4c Omnath, Boros Energy, Ruby Storm, Burn, Mono Red Belcher, Jeskai Energy, Azorius Control, Izzet Prowess, Jeskai Energy, Boros Energy
-   See: `cards/wear-tear.md`
-
-20. **Marsh Flats** (29.5%) [] — in: Goryo Reanimator, Mardu Blink, Hammer Time, Esper Blink, Orzhov Blink, Azorius Blink, Bant Ritual, Boros Energy, Dimir Frog, Hollow One, Azorius Control, Jeskai Energy, Necrodominance
+19. **Marsh Flats** (29.5%) [] — in: Goryo Reanimator, Mardu Blink, Hammer Time, Esper Blink, Orzhov Blink, Azorius Blink, Bant Ritual, Boros Energy, Dimir Frog, Hollow One, Azorius Control, Jeskai Energy, Necrodominance
    See: `cards/marsh-flats.md`
 
-21. **Scalding Tarn** (27.8%) [] — in: Ruby Storm, Azorius Control, Mill, Grixis Reanimator, Burn, Izzet Prowess, Indomitable Creativity, Dredge, Grixis Control, Izzet Eldrazi, Grixis Shadow, Izzet Splinter Twin, Izzet Wizards, Jeskai Energy, Sultai Artifacts, Neoform Combo, Jeskai Control, Rakdos Steel-Cutter, Hollow One, Dimir Frog, Dimir Control, Izzet Cori-Steel, Affinity, Simic Ritual
+20. **Scalding Tarn** (27.8%) [] — in: Ruby Storm, Azorius Control, Mill, Grixis Reanimator, Burn, Izzet Prowess, Indomitable Creativity, Dredge, Grixis Control, Izzet Eldrazi, Grixis Shadow, Izzet Splinter Twin, Izzet Wizzards, Jeskai Energy, Sultai Artifacts, Neoform Combo, Jeskai Control, Rakdos Steel-Cutter, Hollow One, Dimir Frog, Dimir Control, Izzet Cori-Steel, Affinity, Simic Ritual
    See: `cards/scalding-tarn.md`
 
-22. **Vexing Bauble** (27.2%) [] — in: Hammer Time, Boros Ponza, Kethis Combo, Yawgmoth Combo, Broodscale Combo, Elves, Jund Saga, Rakdos Lantern Combo, Izzet Eldrazi, Grixis Shadow, Rakdos Reanimator, Bant Ritual, Eldrazi Ramp, Hollow One, Orzhov Blink, Eldrazi Tron, Samwise Combo, Hardened Scales, Mono Red Belcher, Dredge, Izzet Cori-Steel, Affinity, Amulet Titan, Sultai Artifacts, Boros Energy, Grixis Reanimator, Izzet Prowess, Ruby Storm, Domain Zoo
+21. **Vexing Bauble** (27.2%) [] — in: Hammer Time, Boros Ponza, Kethis Combo, Yawgmoth Combo, Broodscale Combo, Elves, Jund Saga, Rakdos Lantern Combo, Izzet Eldrazi, Grixis Shadow, Rakdos Reanimator, Bant Ritual, Eldrazi Ramp, Hollow One, Orzhov Blink, Eldrazi Tron, Samwise Combo, Hardened Scales, Mono Red Belcher, Dredge, Izzet Cori-Steel, Affinity, Amulet Titan, Sultai Artifacts, Boros Energy, Grixis Reanimator, Izzet Prowess, Ruby Storm, Domain Zoo
    See: `cards/vexing-bauble.md`
 
-23. **Celestial Purge** (26.0%) [W] — in: Boros Ponza, Jeskai Control, Azorius Control, Goryo Reanimator, Boros Energy, Jeskai Energy, Azorius Blink, Esper Blink, Dimir Frog, Domain Zoo, Eldrazi Tron
+22. **Celestial Purge** (26.0%) [W] — in: Boros Ponza, Jeskai Control, Azorius Control, Goryo Reanimator, Boros Energy, Jeskai Energy, Azorius Blink, Esper Blink, Dimir Frog, Domain Zoo, Eldrazi Tron
    See: `cards/celestial-purge.md`
 
-24. **Force of Negation** (26.0%) [U] — in: Dimir Frog, Goryo Reanimator, Living End, Mono-Blue Tron, Simic Ritual, 4c Omnath, Sultai Reanimator, Sultai Artifacts, Esper Control, Izzet Splinter Twin, Dimir Control, Mono Blue Belcher, Izzet Cori-Steel, Azorius Control, Affinity, Jeskai Energy, Esper Blink, Izzet Prowess
+23. **Force of Negation** (26.0%) [U] — in: Dimir Frog, Goryo Reanimator, Living End, Mono-Blue Tron, Simic Ritual, 4c Omnath, Sultai Reanimator, Sultai Artifacts, Esper Control, Izzet Splinter Twin, Dimir Control, Mono Blue Belcher, Izzet Cori-Steel, Azorius Control, Affinity, Jeskai Energy, Esper Blink, Izzet Prowess
    See: `cards/force-of-negation.md`
 
-25. **High Noon** (25.7%) [W] — in: Mardu Blink, Orzhov Blink, Esper Control, Elves, Jeskai Energy, Boros Ponza, Esper Blink, Boros Energy, Azorius Control, Indomitable Creativity, Jeskai Control, Samwise Combo, Domain Zoo, Dimir Frog, Living End, Dimir Control, Eldrazi Tron
+24. **High Noon** (25.7%) [W] — in: Mardu Blink, Orzhov Blink, Esper Control, Elves, Jeskai Energy, Boros Ponza, Esper Blink, Boros Energy, Azorius Control, Indomitable Creativity, Jeskai Control, Samwise Combo, Domain Zoo, Dimir Frog, Living End, Dimir Control, Eldrazi Tron
    See: `cards/high-noon.md`
 
-26. **Orim's Chant** (25.6%) [W] — in: Boros Ponza, Jeskai Control, Boros Energy, Azorius Control, Ruby Storm, Indomitable Creativity, Jeskai Energy
+25. **Orim's Chant** (25.6%) [W] — in: Boros Ponza, Jeskai Control, Boros Energy, Azorius Control, Ruby Storm, Indomitable Creativity, Jeskai Energy
    See: `cards/orim-s-chant.md`
 
-27. **Ocelot Pride** (22.5%) [W] — in: Boros Energy, Azorius Blink, Bant Ritual
+26. **Ocelot Pride** (22.5%) [W] — in: Boros Energy, Azorius Blink, Bant Ritual
    See: `cards/ocelot-pride.md`
 
-28. **Guide of Souls** (22.5%) [W] — in: Boros Energy, Azorius Blink, Bant Ritual
+27. **Guide of Souls** (22.5%) [W] — in: Boros Energy, Azorius Blink, Bant Ritual
    See: `cards/guide-of-souls.md`
 
-29. **Sink into Stupor** (22.2%) [] — in: Mono Blue Belcher, Living End, Mono-Blue Tron, Simic Ritual, Grixis Control, Izzet Eldrazi, Izzet Splinter Twin, Izzet Wizards, Affinity, Izzet Cori-Steel, Grixis Reanimator, Dimir Frog, Sultai Artifacts, Mill, Goryo Reanimator, Azorius Control, Dimir Control
+28. **Sink into Stupor** (22.2%) [] — in: Mono Blue Belcher, Living End, Mono-Blue Tron, Simic Ritual, Grixis Control, Izzet Eldrazi, Izzet Splinter Twin, Izzet Wizzards, Affinity, Izzet Cori-Steel, Grixis Reanimator, Dimir Frog, Sultai Artifacts, Mill, Goryo Reanimator, Azorius Control, Dimir Control
    See: `cards/sink-into-stupor.md`
 
-30. **Thundering Falls** (22.1%) [] — in: Jeskai Energy, Izzet Prowess, 4c Omnath, Grixis Control, Jeskai Control, Izzet Splinter Twin, Izzet Wizards, Sultai Artifacts, Domain Zoo, Azorius Control, Indomitable Creativity, Dredge, Ruby Storm, Affinity, Neoform Combo, Grixis Reanimator, Simic Ritual, Dimir Control
+29. **Thundering Falls** (22.1%) [] — in: Jeskai Energy, Izzet Prowess, 4c Omnath, Grixis Control, Jeskai Control, Izzet Splinter Twin, Izzet Wizzards, Sultai Artifacts, Domain Zoo, Azorius Control, Indomitable Creativity, Dredge, Ruby Storm, Affinity, Neoform Combo, Grixis Reanimator, Simic Ritual, Dimir Control
    See: `cards/thundering-falls.md`
+
+30. **Thraben Charm** (22.1%) [W] — in: Boros Energy, Dimir Frog, Jeskai Energy
+   See: `cards/thraben-charm.md`
 

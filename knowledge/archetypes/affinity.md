@@ -15,10 +15,10 @@ top_cards:
 - name: Mox Opal
   weight: 1.0
   avg_copies: 3.93
-- name: Mishra's Bauble
+- name: Kappa Cannoneer
   weight: 1.0
   avg_copies: 3.91
-- name: Kappa Cannoneer
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 3.91
 - name: Engineered Explosives
@@ -132,14 +132,17 @@ top_cards:
 - name: Scalding Tarn
   weight: 0.0882
   avg_copies: 2.67
-- name: Hurkyl's Recall
+- name: Thundering Falls
   weight: 0.0882
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Hurkyl's Recall
   weight: 0.0882
   avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.0735
+  avg_copies: 1.0
+- name: Springleaf Drum
+  weight: 0.0441
   avg_copies: 1.0
 - name: Haywire Mite
   weight: 0.0441
@@ -150,46 +153,43 @@ top_cards:
 - name: Flusterstorm
   weight: 0.0441
   avg_copies: 1.0
-- name: Springleaf Drum
-  weight: 0.0441
-  avg_copies: 1.0
 - name: Snow-Covered Island
   weight: 0.0294
   avg_copies: 2.0
 - name: Furnace Dragon
   weight: 0.0294
   avg_copies: 1.5
+- name: Otawara, Soaring City
+  weight: 0.0294
+  avg_copies: 1.0
 - name: Lavaspur Boots
   weight: 0.0294
   avg_copies: 1.0
 - name: Vandalblast
   weight: 0.0294
   avg_copies: 1.0
-- name: Otawara, Soaring City
-  weight: 0.0294
-  avg_copies: 1.0
+- name: Glimmervoid
+  weight: 0.0147
+  avg_copies: 2.0
 - name: Shattering Spree
   weight: 0.0147
   avg_copies: 2.0
 - name: Detect Intrusion
   weight: 0.0147
   avg_copies: 2.0
-- name: Glimmervoid
-  weight: 0.0147
-  avg_copies: 2.0
-- name: Void Mirror
+- name: Tamiyo, Inquisitive Student
   weight: 0.0147
   avg_copies: 1.0
 - name: Ghirapur Aether Grid
   weight: 0.0147
   avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
+- name: Chandra, Spark Hunter
+  weight: 0.0147
+  avg_copies: 1.0
+- name: Void Mirror
   weight: 0.0147
   avg_copies: 1.0
 - name: Jokulmorder
-  weight: 0.0147
-  avg_copies: 1.0
-- name: Chandra, Spark Hunter
   weight: 0.0147
   avg_copies: 1.0
 ---

@@ -7,16 +7,16 @@ name: Mardu Blink
 meta_share: 0.0028
 list_count: 2
 top_cards:
-- name: Solitude
+- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 4.0
-- name: Phelia, Exuberant Shepherd
+- name: Phlage, Titan of Fire's Fury
   weight: 1.0
   avg_copies: 4.0
 - name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
-- name: Phlage, Titan of Fire's Fury
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Galvanic Discharge
@@ -25,43 +25,43 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 3.5
-- name: Ephemerate
-  weight: 1.0
-  avg_copies: 3.0
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 3.0
-- name: Flickerwisp
+- name: Ephemerate
   weight: 1.0
-  avg_copies: 2.5
+  avg_copies: 3.0
 - name: Obsidian Charmaw
-  weight: 1.0
-  avg_copies: 2.5
-- name: Thoughtseize
   weight: 1.0
   avg_copies: 2.5
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 2.5
+- name: Thoughtseize
+  weight: 1.0
+  avg_copies: 2.5
+- name: Flickerwisp
+  weight: 1.0
+  avg_copies: 2.5
 - name: High Noon
-  weight: 1.0
-  avg_copies: 2.0
-- name: Bloodstained Mire
-  weight: 1.0
-  avg_copies: 2.0
-- name: Arena of Glory
-  weight: 1.0
-  avg_copies: 2.0
-- name: Pinnacle Monk
   weight: 1.0
   avg_copies: 2.0
 - name: Witch Enchanter
   weight: 1.0
   avg_copies: 2.0
-- name: Detective's Phoenix
+- name: Pinnacle Monk
+  weight: 1.0
+  avg_copies: 2.0
+- name: Arena of Glory
+  weight: 1.0
+  avg_copies: 2.0
+- name: Bloodstained Mire
+  weight: 1.0
+  avg_copies: 2.0
+- name: Wear
   weight: 1.0
   avg_copies: 1.5
-- name: Wear
+- name: Detective's Phoenix
   weight: 1.0
   avg_copies: 1.5
 - name: Damping Sphere
@@ -73,49 +73,46 @@ top_cards:
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
-- name: Raucous Theater
-  weight: 1.0
-  avg_copies: 1.0
 - name: Surgical Extraction
-  weight: 1.0
-  avg_copies: 1.0
-- name: Orcish Bowmasters
-  weight: 1.0
-  avg_copies: 1.0
-- name: Shadowy Backstreet
-  weight: 1.0
-  avg_copies: 1.0
-- name: Godless Shrine
-  weight: 1.0
-  avg_copies: 1.0
-- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Snow-Covered Plains
+- name: Elegant Parlor
+  weight: 1.0
+  avg_copies: 1.0
+- name: Raucous Theater
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shadowy Backstreet
+  weight: 1.0
+  avg_copies: 1.0
+- name: Orcish Bowmasters
+  weight: 1.0
+  avg_copies: 1.0
+- name: Godless Shrine
+  weight: 1.0
+  avg_copies: 1.0
+- name: Ketramose, the New Dawn
   weight: 0.5
   avg_copies: 2.0
 - name: The Legend of Roku
   weight: 0.5
   avg_copies: 2.0
-- name: Ketramose, the New Dawn
+- name: Snow-Covered Plains
   weight: 0.5
   avg_copies: 2.0
-- name: Mountain
-  weight: 0.5
-  avg_copies: 1.0
-- name: Plains
-  weight: 0.5
-  avg_copies: 1.0
-- name: Emptiness
-  weight: 0.5
-  avg_copies: 1.0
 - name: Fable of the Mirror-Breaker
   weight: 0.5
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
+  weight: 0.5
+  avg_copies: 1.0
+- name: Mountain
+  weight: 0.5
+  avg_copies: 1.0
+- name: Plains
   weight: 0.5
   avg_copies: 1.0
 - name: Containment Priest
@@ -125,6 +122,9 @@ top_cards:
   weight: 0.5
   avg_copies: 1.0
 - name: Faerie Macabre
+  weight: 0.5
+  avg_copies: 1.0
+- name: Emptiness
   weight: 0.5
   avg_copies: 1.0
 ---

@@ -8,19 +8,19 @@ name: Living End
 meta_share: 0.0196
 list_count: 14
 top_cards:
+- name: Endurance
+  weight: 1.0
+  avg_copies: 4.0
 - name: Shardless Agent
   weight: 1.0
   avg_copies: 4.0
 - name: Subtlety
   weight: 1.0
   avg_copies: 4.0
-- name: Endurance
-  weight: 1.0
-  avg_copies: 4.0
-- name: Misty Rainforest
+- name: Force of Negation
   weight: 1.0
   avg_copies: 3.86
-- name: Force of Negation
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 3.86
 - name: Generous Ent
@@ -41,10 +41,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.0
-- name: Forest
+- name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -77,10 +77,10 @@ top_cards:
 - name: Mistrise Village
   weight: 0.5714
   avg_copies: 1.0
-- name: Overlord of the Balemurk
+- name: Ardent Plea
   weight: 0.5
   avg_copies: 4.0
-- name: Ardent Plea
+- name: Overlord of the Balemurk
   weight: 0.5
   avg_copies: 4.0
 - name: Teferi, Time Raveler
@@ -92,40 +92,40 @@ top_cards:
 - name: Dismember
   weight: 0.5
   avg_copies: 2.14
-- name: Underground Mortuary
+- name: Polluted Delta
   weight: 0.5
   avg_copies: 1.43
-- name: Polluted Delta
+- name: Underground Mortuary
   weight: 0.5
   avg_copies: 1.43
 - name: Overgrown Tomb
   weight: 0.5
   avg_copies: 1.14
-- name: Undercity Sewers
+- name: Commandeer
+  weight: 0.5
+  avg_copies: 1.0
+- name: Lush Portico
+  weight: 0.5
+  avg_copies: 1.0
+- name: Meticulous Archive
   weight: 0.5
   avg_copies: 1.0
 - name: Temple Garden
   weight: 0.5
   avg_copies: 1.0
-- name: Commandeer
+- name: Damping Sphere
   weight: 0.5
   avg_copies: 1.0
 - name: Mai, Scornful Striker
   weight: 0.5
   avg_copies: 1.0
-- name: Damping Sphere
+- name: Undercity Sewers
   weight: 0.5
   avg_copies: 1.0
 - name: Boseiju, Who Endures
   weight: 0.5
   avg_copies: 1.0
 - name: Halo Forager
-  weight: 0.5
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.5
-  avg_copies: 1.0
-- name: Lush Portico
   weight: 0.5
   avg_copies: 1.0
 - name: Clarion Conqueror
@@ -140,16 +140,16 @@ top_cards:
 - name: Deceit
   weight: 0.4286
   avg_copies: 1.33
-- name: Flooded Grove
+- name: Hallowed Fountain
   weight: 0.4286
   avg_copies: 1.0
 - name: Disciple of Freyalise
   weight: 0.4286
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Harvester of Misery
   weight: 0.4286
   avg_copies: 1.0
-- name: Harvester of Misery
+- name: Flooded Grove
   weight: 0.4286
   avg_copies: 1.0
 - name: Striped Riverwinder
@@ -167,13 +167,13 @@ top_cards:
 - name: Kavaero, Mind-Bitten
   weight: 0.2857
   avg_copies: 1.0
+- name: Archon of Cruelty
+  weight: 0.2143
+  avg_copies: 1.0
 - name: Flare of Denial
   weight: 0.2143
   avg_copies: 1.0
 - name: Harbinger of the Seas
-  weight: 0.2143
-  avg_copies: 1.0
-- name: Archon of Cruelty
   weight: 0.2143
   avg_copies: 1.0
 - name: Drannith Magistrate
@@ -185,27 +185,24 @@ top_cards:
 - name: Rough
   weight: 0.0714
   avg_copies: 4.0
-- name: Oliphaunt
-  weight: 0.0714
-  avg_copies: 3.0
 - name: Atraxa, Grand Unifier
   weight: 0.0714
   avg_copies: 3.0
-- name: Verdant Catacombs
+- name: Oliphaunt
   weight: 0.0714
-  avg_copies: 2.0
-- name: Titanoth Rex
-  weight: 0.0714
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Steam Vents
   weight: 0.0714
   avg_copies: 2.0
 - name: Flooded Strand
   weight: 0.0714
   avg_copies: 2.0
-- name: Stomping Ground
+- name: Titanoth Rex
   weight: 0.0714
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: Verdant Catacombs
+  weight: 0.0714
+  avg_copies: 2.0
 - name: High Noon
   weight: 0.0714
   avg_copies: 1.0
@@ -213,6 +210,9 @@ top_cards:
   weight: 0.0714
   avg_copies: 1.0
 - name: Press the Enemy
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Stomping Ground
   weight: 0.0714
   avg_copies: 1.0
 ---

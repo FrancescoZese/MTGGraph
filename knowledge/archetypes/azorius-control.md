@@ -34,10 +34,10 @@ top_cards:
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.81
-- name: Island
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.75
-- name: Hallowed Fountain
+- name: Island
   weight: 1.0
   avg_copies: 1.75
 - name: Celestial Purge
@@ -154,16 +154,16 @@ top_cards:
 - name: Polluted Delta
   weight: 0.1875
   avg_copies: 1.0
-- name: Meltdown
-  weight: 0.1875
-  avg_copies: 1.0
 - name: Beza, the Bounding Spring
   weight: 0.1875
   avg_copies: 1.0
-- name: Windswept Heath
+- name: Meltdown
+  weight: 0.1875
+  avg_copies: 1.0
+- name: Marsh Flats
   weight: 0.125
   avg_copies: 2.0
-- name: Marsh Flats
+- name: Windswept Heath
   weight: 0.125
   avg_copies: 2.0
 - name: Soul-Guide Lantern
@@ -175,61 +175,61 @@ top_cards:
 - name: Temporary Lockdown
   weight: 0.125
   avg_copies: 1.67
-- name: Vendilion Clique
-  weight: 0.125
-  avg_copies: 1.0
 - name: Hedge Maze
   weight: 0.125
   avg_copies: 1.0
 - name: Watery Grave
   weight: 0.125
   avg_copies: 1.0
-- name: Suppression Ray
-  weight: 0.0625
-  avg_copies: 4.0
+- name: Vendilion Clique
+  weight: 0.125
+  avg_copies: 1.0
 - name: Thundertrap Trainer
   weight: 0.0625
   avg_copies: 4.0
-- name: Sink into Stupor
+- name: Suppression Ray
   weight: 0.0625
-  avg_copies: 2.0
+  avg_copies: 4.0
 - name: Reprieve
   weight: 0.0625
   avg_copies: 2.0
-- name: The Wandering Emperor
+- name: Sink into Stupor
+  weight: 0.0625
+  avg_copies: 2.0
+- name: Tamiyo, Inquisitive Student
   weight: 0.0625
   avg_copies: 1.0
 - name: Wear
   weight: 0.0625
   avg_copies: 1.0
-- name: Timeless Dragon
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Dress Down
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Celestial Colonnade
-  weight: 0.0625
-  avg_copies: 1.0
 - name: Disruptor Flute
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Get Lost
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Jace, the Mind Sculptor
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Wan Shi Tong, Librarian
   weight: 0.0625
   avg_copies: 1.0
 - name: Breeding Pool
   weight: 0.0625
   avg_copies: 1.0
+- name: Jace, the Mind Sculptor
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Get Lost
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Dress Down
+  weight: 0.0625
+  avg_copies: 1.0
 - name: Gemstone Caverns
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Wan Shi Tong, Librarian
+  weight: 0.0625
+  avg_copies: 1.0
+- name: The Wandering Emperor
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Timeless Dragon
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Celestial Colonnade
   weight: 0.0625
   avg_copies: 1.0
 ---

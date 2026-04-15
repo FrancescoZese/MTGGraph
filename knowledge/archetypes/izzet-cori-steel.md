@@ -6,10 +6,10 @@ name: Izzet Cori-Steel
 meta_share: 0.0084
 list_count: 6
 top_cards:
-- name: Mox Amber
+- name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
-- name: Tamiyo, Inquisitive Student
+- name: Mox Amber
   weight: 1.0
   avg_copies: 4.0
 - name: Erayo, Soratami Ascendant
@@ -24,19 +24,19 @@ top_cards:
 - name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 3.83
-- name: Spirebluff Canal
-  weight: 1.0
-  avg_copies: 3.67
 - name: Fiery Islet
   weight: 1.0
   avg_copies: 3.67
 - name: Mox Opal
   weight: 1.0
   avg_copies: 3.67
-- name: Boomerang Basics
+- name: Spirebluff Canal
+  weight: 1.0
+  avg_copies: 3.67
+- name: Preordain
   weight: 1.0
   avg_copies: 3.5
-- name: Preordain
+- name: Boomerang Basics
   weight: 1.0
   avg_copies: 3.5
 - name: Metallic Rebuke
@@ -54,10 +54,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.5
-- name: Soul-Guide Lantern
+- name: Aether Spellbomb
   weight: 1.0
   avg_copies: 1.0
-- name: Aether Spellbomb
+- name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 1.0
 - name: Harbinger of the Seas
@@ -66,10 +66,10 @@ top_cards:
 - name: Sink into Stupor
   weight: 0.8333
   avg_copies: 2.4
-- name: Consign to Memory
+- name: Test of Talents
   weight: 0.8333
   avg_copies: 2.2
-- name: Test of Talents
+- name: Consign to Memory
   weight: 0.8333
   avg_copies: 2.2
 - name: Whipflare
@@ -102,13 +102,13 @@ top_cards:
 - name: Strix Serenade
   weight: 0.1667
   avg_copies: 2.0
+- name: Breeding Pool
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Haywire Mite
   weight: 0.1667
   avg_copies: 1.0
 - name: An Offer You Can't Refuse
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Breeding Pool
   weight: 0.1667
   avg_copies: 1.0
 ---

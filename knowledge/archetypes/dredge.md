@@ -26,10 +26,10 @@ top_cards:
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 2.33
-- name: Psychic Frog
+- name: Faithless Looting
   weight: 0.6667
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Psychic Frog
   weight: 0.6667
   avg_copies: 4.0
 - name: Ox of Agonas
@@ -38,9 +38,6 @@ top_cards:
 - name: Golgari Thug
   weight: 0.6667
   avg_copies: 3.0
-- name: Bloodstained Mire
-  weight: 0.6667
-  avg_copies: 2.5
 - name: Steam Vents
   weight: 0.6667
   avg_copies: 2.5
@@ -50,10 +47,13 @@ top_cards:
 - name: Arid Mesa
   weight: 0.6667
   avg_copies: 2.5
-- name: Vexing Bauble
+- name: Bloodstained Mire
+  weight: 0.6667
+  avg_copies: 2.5
+- name: Cathartic Reunion
   weight: 0.6667
   avg_copies: 2.0
-- name: Cathartic Reunion
+- name: Vexing Bauble
   weight: 0.6667
   avg_copies: 2.0
 - name: Thundering Falls
@@ -62,25 +62,31 @@ top_cards:
 - name: Wonder
   weight: 0.6667
   avg_copies: 1.0
-- name: Manamorphose
-  weight: 0.3333
-  avg_copies: 4.0
 - name: Prized Amalgam
-  weight: 0.3333
-  avg_copies: 4.0
-- name: Hedron Crab
   weight: 0.3333
   avg_copies: 4.0
 - name: Vengevine
   weight: 0.3333
   avg_copies: 4.0
+- name: Blazing Rootwalla
+  weight: 0.3333
+  avg_copies: 4.0
 - name: Artist's Talent
+  weight: 0.3333
+  avg_copies: 4.0
+- name: Lava Dart
+  weight: 0.3333
+  avg_copies: 4.0
+- name: Manamorphose
+  weight: 0.3333
+  avg_copies: 4.0
+- name: Hedron Crab
   weight: 0.3333
   avg_copies: 4.0
 - name: Stitcher's Supplier
   weight: 0.3333
   avg_copies: 4.0
-- name: Blazing Rootwalla
+- name: Life from the Loam
   weight: 0.3333
   avg_copies: 4.0
 - name: Arclight Phoenix
@@ -89,22 +95,7 @@ top_cards:
 - name: Otherworldly Gaze
   weight: 0.3333
   avg_copies: 4.0
-- name: Life from the Loam
-  weight: 0.3333
-  avg_copies: 4.0
-- name: Lava Dart
-  weight: 0.3333
-  avg_copies: 4.0
 - name: Darkblast
-  weight: 0.3333
-  avg_copies: 3.0
-- name: Narcomoeba
-  weight: 0.3333
-  avg_copies: 3.0
-- name: Seal of Fire
-  weight: 0.3333
-  avg_copies: 3.0
-- name: Silversmote Ghoul
   weight: 0.3333
   avg_copies: 3.0
 - name: Gemstone Caverns
@@ -116,19 +107,19 @@ top_cards:
 - name: Snow-Covered Mountain
   weight: 0.3333
   avg_copies: 3.0
+- name: Silversmote Ghoul
+  weight: 0.3333
+  avg_copies: 3.0
+- name: Narcomoeba
+  weight: 0.3333
+  avg_copies: 3.0
+- name: Seal of Fire
+  weight: 0.3333
+  avg_copies: 3.0
 - name: Ancient Grudge
   weight: 0.3333
   avg_copies: 2.0
-- name: Stomping Ground
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Molten Collapse
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Leyline of the Void
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Collector Ouphe
+- name: Pick Your Poison
   weight: 0.3333
   avg_copies: 2.0
 - name: Timeline Culler
@@ -137,16 +128,28 @@ top_cards:
 - name: Damping Sphere
   weight: 0.3333
   avg_copies: 2.0
+- name: Collector Ouphe
+  weight: 0.3333
+  avg_copies: 2.0
 - name: Memory's Journey
   weight: 0.3333
   avg_copies: 2.0
-- name: Pick Your Poison
+- name: Stomping Ground
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Leyline of the Void
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Molten Collapse
   weight: 0.3333
   avg_copies: 2.0
 - name: Boseiju, Who Endures
   weight: 0.3333
   avg_copies: 1.5
-- name: Flame Jab
+- name: Detective's Phoenix
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Commercial District
   weight: 0.3333
   avg_copies: 1.0
 - name: Mountain
@@ -155,16 +158,13 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 0.3333
   avg_copies: 1.0
-- name: Detective's Phoenix
+- name: Watery Grave
   weight: 0.3333
   avg_copies: 1.0
-- name: Commercial District
+- name: Flame Jab
   weight: 0.3333
   avg_copies: 1.0
 - name: Tormod's Crypt
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Watery Grave
   weight: 0.3333
   avg_copies: 1.0
 - name: Illness in the Ranks

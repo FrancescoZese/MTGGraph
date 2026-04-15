@@ -6,25 +6,25 @@ name: Boros Ponza
 meta_share: 0.0098
 list_count: 7
 top_cards:
-- name: Price of Freedom
-  weight: 1.0
-  avg_copies: 4.0
 - name: Path to Exile
   weight: 1.0
   avg_copies: 4.0
 - name: Field of Ruin
   weight: 1.0
   avg_copies: 4.0
-- name: Galvanic Discharge
+- name: Price of Freedom
   weight: 1.0
-  avg_copies: 3.71
-- name: Wrath of the Skies
+  avg_copies: 4.0
+- name: Cleansing Wildfire
   weight: 1.0
   avg_copies: 3.71
 - name: Demolition Field
   weight: 1.0
   avg_copies: 3.71
-- name: Cleansing Wildfire
+- name: Wrath of the Skies
+  weight: 1.0
+  avg_copies: 3.71
+- name: Galvanic Discharge
   weight: 1.0
   avg_copies: 3.71
 - name: Cori Mountain Monastery
@@ -33,10 +33,10 @@ top_cards:
 - name: White Orchid Phantom
   weight: 1.0
   avg_copies: 3.29
-- name: Solitude
+- name: Plains
   weight: 1.0
   avg_copies: 3.0
-- name: Plains
+- name: Solitude
   weight: 1.0
   avg_copies: 3.0
 - name: Sunken Citadel
@@ -48,10 +48,10 @@ top_cards:
 - name: Wear
   weight: 1.0
   avg_copies: 2.0
-- name: Celestial Purge
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Celestial Purge
   weight: 1.0
   avg_copies: 2.0
 - name: Orim's Chant
@@ -96,25 +96,25 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.2857
   avg_copies: 2.0
-- name: Ghost Quarter
+- name: Surgical Extraction
   weight: 0.2857
   avg_copies: 1.0
 - name: Wrath of God
   weight: 0.2857
   avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.2857
-  avg_copies: 1.0
 - name: Meltdown
   weight: 0.2857
   avg_copies: 1.0
+- name: Ghost Quarter
+  weight: 0.2857
+  avg_copies: 1.0
+- name: March of Otherworldly Light
+  weight: 0.1429
+  avg_copies: 2.0
 - name: Prismatic Ending
   weight: 0.1429
   avg_copies: 2.0
 - name: Settle the Wreckage
-  weight: 0.1429
-  avg_copies: 2.0
-- name: March of Otherworldly Light
   weight: 0.1429
   avg_copies: 2.0
 ---

@@ -25,16 +25,16 @@ top_cards:
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.37
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.02
 - name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.02
-- name: Hallowed Fountain
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.02
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
 - name: Quantum Riddler
@@ -151,30 +151,27 @@ top_cards:
 - name: Spell Snare
   weight: 0.0462
   avg_copies: 1.0
-- name: Snow-Covered Island
-  weight: 0.0462
-  avg_copies: 1.0
 - name: Kataki, War's Wage
   weight: 0.0462
   avg_copies: 1.0
-- name: Wear
-  weight: 0.0308
-  avg_copies: 1.0
-- name: Unholy Heat
-  weight: 0.0308
+- name: Snow-Covered Island
+  weight: 0.0462
   avg_copies: 1.0
 - name: Jace, the Mind Sculptor
+  weight: 0.0308
+  avg_copies: 1.0
+- name: Wear
   weight: 0.0308
   avg_copies: 1.0
 - name: Floodfarm Verge
   weight: 0.0308
   avg_copies: 1.0
+- name: Unholy Heat
+  weight: 0.0308
+  avg_copies: 1.0
 - name: Orim's Chant
   weight: 0.0154
   avg_copies: 4.0
-- name: Windswept Heath
-  weight: 0.0154
-  avg_copies: 3.0
 - name: Wrenn and Six
   weight: 0.0154
   avg_copies: 3.0
@@ -184,55 +181,46 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.0154
   avg_copies: 3.0
-- name: Thraben Charm
+- name: Windswept Heath
   weight: 0.0154
-  avg_copies: 2.0
-- name: Stony Silence
+  avg_copies: 3.0
+- name: Tamiyo, Inquisitive Student
   weight: 0.0154
   avg_copies: 2.0
 - name: Witch Enchanter
   weight: 0.0154
   avg_copies: 2.0
-- name: White Orchid Phantom
-  weight: 0.0154
-  avg_copies: 2.0
-- name: Ghost Vacuum
+- name: Thraben Charm
   weight: 0.0154
   avg_copies: 2.0
 - name: Tune the Narrative
   weight: 0.0154
   avg_copies: 2.0
-- name: Stock Up
-  weight: 0.0154
-  avg_copies: 2.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.0154
-  avg_copies: 2.0
-- name: Mana Leak
-  weight: 0.0154
-  avg_copies: 2.0
 - name: Lightning Bolt
+  weight: 0.0154
+  avg_copies: 2.0
+- name: Ghost Vacuum
+  weight: 0.0154
+  avg_copies: 2.0
+- name: Stony Silence
   weight: 0.0154
   avg_copies: 2.0
 - name: Boseiju, Who Endures
   weight: 0.0154
   avg_copies: 2.0
+- name: Stock Up
+  weight: 0.0154
+  avg_copies: 2.0
+- name: White Orchid Phantom
+  weight: 0.0154
+  avg_copies: 2.0
+- name: Mana Leak
+  weight: 0.0154
+  avg_copies: 2.0
 - name: Eternal Witness
   weight: 0.0154
   avg_copies: 2.0
-- name: Stomping Ground
-  weight: 0.0154
-  avg_copies: 1.0
-- name: Nihil Spellbomb
-  weight: 0.0154
-  avg_copies: 1.0
-- name: Subtlety
-  weight: 0.0154
-  avg_copies: 1.0
-- name: Supreme Verdict
-  weight: 0.0154
-  avg_copies: 1.0
-- name: Temple Garden
+- name: Lush Portico
   weight: 0.0154
   avg_copies: 1.0
 - name: Hedge Maze
@@ -241,10 +229,22 @@ top_cards:
 - name: Breeding Pool
   weight: 0.0154
   avg_copies: 1.0
-- name: Omnath, Locus of Creation
+- name: Stomping Ground
   weight: 0.0154
   avg_copies: 1.0
-- name: Lush Portico
+- name: Temple Garden
+  weight: 0.0154
+  avg_copies: 1.0
+- name: Nihil Spellbomb
+  weight: 0.0154
+  avg_copies: 1.0
+- name: Supreme Verdict
+  weight: 0.0154
+  avg_copies: 1.0
+- name: Subtlety
+  weight: 0.0154
+  avg_copies: 1.0
+- name: Omnath, Locus of Creation
   weight: 0.0154
   avg_copies: 1.0
 ---

@@ -6,22 +6,22 @@ name: Broodscale Combo
 meta_share: 0.0168
 list_count: 12
 top_cards:
-- name: Kozilek's Command
-  weight: 1.0
-  avg_copies: 4.0
-- name: Grove of the Burnwillows
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Saga
-  weight: 1.0
-  avg_copies: 4.0
-- name: Basking Broodscale
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
+  weight: 1.0
+  avg_copies: 4.0
+- name: Grove of the Burnwillows
+  weight: 1.0
+  avg_copies: 4.0
+- name: Basking Broodscale
   weight: 1.0
   avg_copies: 4.0
 - name: Ancient Stirrings
@@ -51,13 +51,13 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.42
-- name: Soul-Guide Lantern
+- name: Springleaf Drum
   weight: 1.0
   avg_copies: 1.0
 - name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
-- name: Springleaf Drum
+- name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 1.0
 - name: Gemstone Caverns
@@ -87,10 +87,10 @@ top_cards:
 - name: Damping Sphere
   weight: 0.5
   avg_copies: 2.0
-- name: Soulless Jailer
+- name: Pick Your Poison
   weight: 0.5
   avg_copies: 1.83
-- name: Pick Your Poison
+- name: Soulless Jailer
   weight: 0.5
   avg_copies: 1.83
 - name: Unholy Heat
@@ -99,10 +99,10 @@ top_cards:
 - name: Warping Wail
   weight: 0.5
   avg_copies: 1.43
-- name: Stomping Ground
+- name: Commercial District
   weight: 0.5
   avg_copies: 1.0
-- name: Commercial District
+- name: Stomping Ground
   weight: 0.5
   avg_copies: 1.0
 - name: Wooded Foothills
@@ -111,10 +111,10 @@ top_cards:
 - name: Firespout
   weight: 0.3333
   avg_copies: 1.75
-- name: Verdant Catacombs
+- name: Windswept Heath
   weight: 0.3333
   avg_copies: 1.0
-- name: Windswept Heath
+- name: Verdant Catacombs
   weight: 0.3333
   avg_copies: 1.0
 - name: Delighted Halfling

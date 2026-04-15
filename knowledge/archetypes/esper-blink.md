@@ -7,25 +7,25 @@ name: Esper Blink
 meta_share: 0.0112
 list_count: 8
 top_cards:
-- name: Solitude
-  weight: 1.0
-  avg_copies: 4.0
 - name: Phelia, Exuberant Shepherd
-  weight: 1.0
-  avg_copies: 4.0
-- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
+- name: Overlord of the Balemurk
+  weight: 1.0
+  avg_copies: 4.0
+- name: Solitude
+  weight: 1.0
+  avg_copies: 4.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 3.88
-- name: Fatal Push
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 3.38
-- name: Quantum Riddler
+- name: Fatal Push
   weight: 1.0
   avg_copies: 3.38
 - name: Witch Enchanter
@@ -52,16 +52,16 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.12
-- name: Swamp
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowy Backstreet
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Thoughtseize
@@ -97,25 +97,25 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.625
   avg_copies: 2.2
+- name: Surgical Extraction
+  weight: 0.25
+  avg_copies: 1.0
 - name: Island
   weight: 0.25
   avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.25
   avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.25
-  avg_copies: 1.0
-- name: No More Lies
-  weight: 0.125
-  avg_copies: 4.0
-- name: Psychic Frog
+- name: Force of Negation
   weight: 0.125
   avg_copies: 4.0
 - name: Subtlety
   weight: 0.125
   avg_copies: 4.0
-- name: Force of Negation
+- name: Psychic Frog
+  weight: 0.125
+  avg_copies: 4.0
+- name: No More Lies
   weight: 0.125
   avg_copies: 4.0
 - name: Clarion Conqueror
@@ -124,7 +124,19 @@ top_cards:
 - name: White Orchid Phantom
   weight: 0.125
   avg_copies: 2.0
+- name: Bleachbone Verge
+  weight: 0.125
+  avg_copies: 1.0
+- name: Strix Serenade
+  weight: 0.125
+  avg_copies: 1.0
+- name: Windswept Heath
+  weight: 0.125
+  avg_copies: 1.0
 - name: Hydroelectric Specimen
+  weight: 0.125
+  avg_copies: 1.0
+- name: March of Otherworldly Light
   weight: 0.125
   avg_copies: 1.0
 - name: Floodfarm Verge
@@ -133,19 +145,7 @@ top_cards:
 - name: Emptiness
   weight: 0.125
   avg_copies: 1.0
-- name: Windswept Heath
-  weight: 0.125
-  avg_copies: 1.0
-- name: Strix Serenade
-  weight: 0.125
-  avg_copies: 1.0
 - name: Celestial Purge
-  weight: 0.125
-  avg_copies: 1.0
-- name: March of Otherworldly Light
-  weight: 0.125
-  avg_copies: 1.0
-- name: Bleachbone Verge
   weight: 0.125
   avg_copies: 1.0
 ---

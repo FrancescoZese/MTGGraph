@@ -6,6 +6,15 @@ name: Hollow One
 meta_share: 0.0126
 list_count: 9
 top_cards:
+- name: Hollow One
+  weight: 1.0
+  avg_copies: 4.0
+- name: Faithless Looting
+  weight: 1.0
+  avg_copies: 4.0
+- name: Detective's Phoenix
+  weight: 1.0
+  avg_copies: 4.0
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
@@ -13,15 +22,6 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Burning Inquiry
-  weight: 1.0
-  avg_copies: 4.0
-- name: Detective's Phoenix
-  weight: 1.0
-  avg_copies: 4.0
-- name: Hollow One
-  weight: 1.0
-  avg_copies: 4.0
-- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Bloodstained Mire
@@ -108,10 +108,10 @@ top_cards:
 - name: Illness in the Ranks
   weight: 0.3333
   avg_copies: 1.0
-- name: Verdant Catacombs
+- name: Fear of Missing Out
   weight: 0.2222
   avg_copies: 2.0
-- name: Fear of Missing Out
+- name: Verdant Catacombs
   weight: 0.2222
   avg_copies: 2.0
 - name: Rakdos Charm
@@ -126,25 +126,25 @@ top_cards:
 - name: Vengevine
   weight: 0.1111
   avg_copies: 4.0
-- name: Leyline of the Void
-  weight: 0.1111
-  avg_copies: 4.0
 - name: Blazing Rootwalla
   weight: 0.1111
   avg_copies: 4.0
-- name: Stomping Ground
+- name: Leyline of the Void
   weight: 0.1111
-  avg_copies: 2.0
-- name: Cool but Rude
-  weight: 0.1111
-  avg_copies: 2.0
+  avg_copies: 4.0
 - name: Sheoldred's Edict
   weight: 0.1111
   avg_copies: 2.0
 - name: Goblin Lore
   weight: 0.1111
   avg_copies: 2.0
+- name: Cool but Rude
+  weight: 0.1111
+  avg_copies: 2.0
 - name: Rough
+  weight: 0.1111
+  avg_copies: 2.0
+- name: Stomping Ground
   weight: 0.1111
   avg_copies: 2.0
 - name: Magebane Lizard
@@ -153,22 +153,22 @@ top_cards:
 - name: Unholy Heat
   weight: 0.1111
   avg_copies: 2.0
-- name: Shattering Spree
+- name: Ox of Agonas
   weight: 0.1111
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Shattering Spree
   weight: 0.1111
   avg_copies: 1.0
 - name: Barbarian Ring
   weight: 0.1111
   avg_copies: 1.0
-- name: Seal of Fire
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Ox of Agonas
-  weight: 0.1111
-  avg_copies: 1.0
 - name: Overlord of the Balemurk
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Seal of Fire
   weight: 0.1111
   avg_copies: 1.0
 ---

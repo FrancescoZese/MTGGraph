@@ -9,13 +9,13 @@ top_cards:
 - name: Preordain
   weight: 1.0
   avg_copies: 4.0
-- name: Cori-Steel Cutter
+- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Dragon's Rage Channeler
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
@@ -84,10 +84,10 @@ top_cards:
 - name: Stomping Ground
   weight: 0.375
   avg_copies: 1.22
-- name: Into the Flood Maw
+- name: Spell Snare
   weight: 0.3333
   avg_copies: 1.25
-- name: Spell Snare
+- name: Into the Flood Maw
   weight: 0.3333
   avg_copies: 1.25
 - name: Heritage Reclamation
@@ -120,16 +120,16 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.125
   avg_copies: 1.33
-- name: Firebending Lesson
+- name: Iroh's Demonstration
   weight: 0.125
   avg_copies: 1.0
 - name: Price of Freedom
   weight: 0.125
   avg_copies: 1.0
-- name: Iroh's Demonstration
+- name: Origin of Metalbending
   weight: 0.125
   avg_copies: 1.0
-- name: Origin of Metalbending
+- name: Firebending Lesson
   weight: 0.125
   avg_copies: 1.0
 - name: Vexing Bauble
@@ -141,24 +141,21 @@ top_cards:
 - name: Blood Moon
   weight: 0.0833
   avg_copies: 2.0
-- name: Monstrous Rage
-  weight: 0.0833
-  avg_copies: 2.0
-- name: Misty Rainforest
-  weight: 0.0833
-  avg_copies: 2.0
 - name: Abhorrent Oculus
   weight: 0.0833
   avg_copies: 2.0
 - name: Force of Negation
   weight: 0.0833
   avg_copies: 2.0
+- name: Monstrous Rage
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Misty Rainforest
+  weight: 0.0833
+  avg_copies: 2.0
 - name: Obsidian Charmaw
   weight: 0.0833
   avg_copies: 1.5
-- name: End the Festivities
-  weight: 0.0833
-  avg_copies: 1.0
 - name: Island
   weight: 0.0833
   avg_copies: 1.0
@@ -166,6 +163,9 @@ top_cards:
   weight: 0.0833
   avg_copies: 1.0
 - name: Accumulate Wisdom
+  weight: 0.0833
+  avg_copies: 1.0
+- name: End the Festivities
   weight: 0.0833
   avg_copies: 1.0
 - name: Redirect Lightning
@@ -180,6 +180,15 @@ top_cards:
 - name: Sacred Foundry
   weight: 0.0417
   avg_copies: 1.0
+- name: Flooded Strand
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Wear
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Polluted Delta
+  weight: 0.0417
+  avg_copies: 1.0
 - name: Shatterstorm
   weight: 0.0417
   avg_copies: 1.0
@@ -190,15 +199,6 @@ top_cards:
   weight: 0.0417
   avg_copies: 1.0
 - name: Combustion Technique
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Wear
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Flooded Strand
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Polluted Delta
   weight: 0.0417
   avg_copies: 1.0
 ---

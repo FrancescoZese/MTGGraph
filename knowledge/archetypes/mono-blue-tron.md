@@ -8,13 +8,13 @@ top_cards:
 - name: Urza's Mine
   weight: 1.0
   avg_copies: 4.0
-- name: Consign to Memory
+- name: Expedition Map
+  weight: 1.0
+  avg_copies: 4.0
+- name: Urza's Tower
   weight: 1.0
   avg_copies: 4.0
 - name: Kozilek's Command
-  weight: 1.0
-  avg_copies: 4.0
-- name: Expedition Map
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Power Plant
@@ -23,7 +23,7 @@ top_cards:
 - name: Stock Up
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Tower
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
 - name: Force of Negation
@@ -38,28 +38,28 @@ top_cards:
 - name: Subtlety
   weight: 1.0
   avg_copies: 2.33
-- name: Mystical Dispute
-  weight: 1.0
-  avg_copies: 2.0
 - name: Otawara, Soaring City
-  weight: 1.0
-  avg_copies: 2.0
-- name: Emrakul, the Aeons Torn
   weight: 1.0
   avg_copies: 2.0
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 2.0
-- name: Condescend
+- name: Mystical Dispute
+  weight: 1.0
+  avg_copies: 2.0
+- name: Emrakul, the Aeons Torn
+  weight: 1.0
+  avg_copies: 2.0
+- name: Portent of Calamity
   weight: 1.0
   avg_copies: 1.5
-- name: Portent of Calamity
+- name: Emrakul, the Promised End
   weight: 1.0
   avg_copies: 1.5
 - name: Hurkyl's Recall
   weight: 1.0
   avg_copies: 1.5
-- name: Emrakul, the Promised End
+- name: Condescend
   weight: 1.0
   avg_copies: 1.5
 - name: Agna Qel'a
@@ -68,13 +68,16 @@ top_cards:
 - name: Ugin's Labyrinth
   weight: 0.5
   avg_copies: 4.0
-- name: Change the Equation
-  weight: 0.5
-  avg_copies: 2.0
 - name: Spell Snare
   weight: 0.5
   avg_copies: 2.0
 - name: Dress Down
+  weight: 0.5
+  avg_copies: 2.0
+- name: Change the Equation
+  weight: 0.5
+  avg_copies: 2.0
+- name: Propaganda
   weight: 0.5
   avg_copies: 2.0
 - name: Marrow Shards
@@ -83,28 +86,16 @@ top_cards:
 - name: Stern Scolding
   weight: 0.5
   avg_copies: 2.0
-- name: Propaganda
-  weight: 0.5
-  avg_copies: 2.0
-- name: Talisman of Progress
-  weight: 0.5
-  avg_copies: 1.0
-- name: Disruptor Flute
-  weight: 0.5
-  avg_copies: 1.0
-- name: Talisman of Curiosity
+- name: Surgical Extraction
   weight: 0.5
   avg_copies: 1.0
 - name: Boseiju, Who Shelters All
   weight: 0.5
   avg_copies: 1.0
-- name: Tishana's Tidebinder
+- name: Disruptor Flute
   weight: 0.5
   avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.5
-  avg_copies: 1.0
-- name: Abstergo Entertainment
+- name: Talisman of Progress
   weight: 0.5
   avg_copies: 1.0
 - name: Gemstone Caverns
@@ -113,7 +104,16 @@ top_cards:
 - name: Talisman of Dominance
   weight: 0.5
   avg_copies: 1.0
+- name: Talisman of Curiosity
+  weight: 0.5
+  avg_copies: 1.0
+- name: Abstergo Entertainment
+  weight: 0.5
+  avg_copies: 1.0
 - name: Eldrazi Temple
+  weight: 0.5
+  avg_copies: 1.0
+- name: Tishana's Tidebinder
   weight: 0.5
   avg_copies: 1.0
 ---

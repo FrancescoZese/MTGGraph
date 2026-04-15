@@ -18,13 +18,16 @@ top_cards:
 - name: Counterspell
   weight: 1.0
   avg_copies: 4.0
+- name: Flame of Anor
+  weight: 1.0
+  avg_copies: 3.0
+- name: Obsidian Charmaw
+  weight: 1.0
+  avg_copies: 3.0
 - name: Flare of Denial
   weight: 1.0
   avg_copies: 3.0
-- name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 3.0
-- name: Flame of Anor
+- name: Steam Vents
   weight: 1.0
   avg_copies: 3.0
 - name: Tamiyo, Inquisitive Student
@@ -33,19 +36,16 @@ top_cards:
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 3.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 3.0
 - name: Snapcaster Mage
   weight: 1.0
   avg_copies: 3.0
-- name: Obsidian Charmaw
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 3.0
-- name: Flooded Strand
+- name: Spell Snare
   weight: 1.0
   avg_copies: 2.0
-- name: Invert Polarity
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 2.0
 - name: Subtlety
@@ -57,7 +57,7 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
-- name: Fire Magic
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 2.0
 - name: Field of Ruin
@@ -69,34 +69,34 @@ top_cards:
 - name: Ghost Vacuum
   weight: 1.0
   avg_copies: 2.0
-- name: Consult the Star Charts
-  weight: 1.0
-  avg_copies: 2.0
-- name: Thundering Falls
-  weight: 1.0
-  avg_copies: 2.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 2.0
-- name: Spell Snare
+- name: Invert Polarity
+  weight: 1.0
+  avg_copies: 2.0
+- name: Consult the Star Charts
+  weight: 1.0
+  avg_copies: 2.0
+- name: Fire Magic
   weight: 1.0
   avg_copies: 2.0
 - name: Wan Shi Tong, Librarian
   weight: 1.0
   avg_copies: 2.0
-- name: Misty Rainforest
+- name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
-- name: Sink into Stupor
+- name: Hall of Storm Giants
   weight: 1.0
   avg_copies: 1.0
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 1.0
-- name: Hall of Storm Giants
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 1.0
 ---

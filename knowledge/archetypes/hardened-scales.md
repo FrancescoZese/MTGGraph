@@ -5,7 +5,7 @@ name: Hardened Scales
 meta_share: 0.0042
 list_count: 3
 top_cards:
-- name: Inkmoth Nexus
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Walking Ballista
@@ -14,7 +14,7 @@ top_cards:
 - name: Hardened Scales
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Saga
+- name: Inkmoth Nexus
   weight: 1.0
   avg_copies: 4.0
 - name: Arcbound Ravager
@@ -29,16 +29,16 @@ top_cards:
 - name: Darksteel Citadel
   weight: 1.0
   avg_copies: 3.33
-- name: Damping Sphere
-  weight: 1.0
-  avg_copies: 3.0
 - name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 3.0
-- name: Forest
+- name: Damping Sphere
+  weight: 1.0
+  avg_copies: 3.0
+- name: Whipflare
   weight: 1.0
   avg_copies: 2.33
-- name: Whipflare
+- name: Forest
   weight: 1.0
   avg_copies: 2.33
 - name: Arcbound Worker
@@ -83,28 +83,28 @@ top_cards:
 - name: Haywire Mite
   weight: 0.6667
   avg_copies: 1.0
-- name: Vexing Bauble
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Veil of Summer
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Tormod's Crypt
-  weight: 0.6667
-  avg_copies: 1.0
 - name: Pithing Needle
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Vexing Bauble
   weight: 0.6667
   avg_copies: 1.0
 - name: Pendelhaven
   weight: 0.6667
   avg_copies: 1.0
+- name: Tormod's Crypt
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Veil of Summer
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Marketback Walker
+  weight: 0.3333
+  avg_copies: 4.0
 - name: Metallic Mimic
   weight: 0.3333
   avg_copies: 4.0
 - name: Karplusan Forest
-  weight: 0.3333
-  avg_copies: 4.0
-- name: Marketback Walker
   weight: 0.3333
   avg_copies: 4.0
 - name: Ancient Stirrings
@@ -116,9 +116,6 @@ top_cards:
 - name: Bridgeworks Battle
   weight: 0.3333
   avg_copies: 1.0
-- name: Scrapyard Recombiner
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Shadowspear
   weight: 0.3333
   avg_copies: 1.0
@@ -126,6 +123,9 @@ top_cards:
   weight: 0.3333
   avg_copies: 1.0
 - name: Force of Vigor
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Scrapyard Recombiner
   weight: 0.3333
   avg_copies: 1.0
 ---
