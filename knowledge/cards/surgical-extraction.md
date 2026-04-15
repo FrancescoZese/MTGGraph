@@ -1,7 +1,7 @@
 ---
 archetypes:
   boros-energy:
-    weight: 0.8954
+    weight: 0.8981
     avg_copies: 1.28
   dimir-control:
     weight: 0.1304
@@ -33,6 +33,9 @@ archetypes:
   mardu-blink:
     weight: 1.0
     avg_copies: 1.0
+  mono-blue-tron:
+    weight: 0.5
+    avg_copies: 1.0
   hollow-one:
     weight: 0.4444
     avg_copies: 2.0
@@ -40,11 +43,11 @@ archetypes:
     weight: 0.2857
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0833
+    weight: 0.0769
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.7391
-    avg_copies: 1.5
+    weight: 0.75
+    avg_copies: 1.52
   esper-blink:
     weight: 0.25
     avg_copies: 1.0
@@ -66,7 +69,7 @@ archetypes:
 cmc: 1
 colors: []
 image: https://cards.scryfall.io/normal/front/e/1/e15d76ac-1c23-4503-8225-375ac2bf2fb6.jpg?1673147668
-meta_presence: 0.4066
+meta_presence: 0.4064
 name: Surgical Extraction
 scryfall_id: e15d76ac-1c23-4503-8225-375ac2bf2fb6
 set: 2x2

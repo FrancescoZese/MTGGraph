@@ -4,19 +4,13 @@ colors:
 - B
 - R
 name: Grixis Reanimator
-meta_share: 0.0228
+meta_share: 0.0223
 list_count: 16
 top_cards:
-- name: Fatal Push
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
-  weight: 1.0
-  avg_copies: 4.0
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
-- name: Abhorrent Oculus
   weight: 1.0
   avg_copies: 4.0
 - name: Persist
@@ -25,7 +19,13 @@ top_cards:
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
-- name: Archon of Cruelty
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 4.0
+- name: Abhorrent Oculus
   weight: 1.0
   avg_copies: 4.0
 - name: Faithless Looting
@@ -58,19 +58,19 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 1.31
-- name: Raucous Theater
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -109,22 +109,22 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 0.125
   avg_copies: 3.0
-- name: Strix Serenade
+- name: Fulminator Mage
   weight: 0.125
   avg_copies: 2.0
-- name: Fulminator Mage
+- name: Strix Serenade
   weight: 0.125
   avg_copies: 2.0
 - name: Vexing Bauble
   weight: 0.125
   avg_copies: 1.5
-- name: Harvester of Misery
+- name: Thundering Falls
   weight: 0.0625
   avg_copies: 1.0
 - name: Troll of Khazad-dûm
   weight: 0.0625
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Harvester of Misery
   weight: 0.0625
   avg_copies: 1.0
 ---

@@ -6,7 +6,7 @@ name: Arcbound Worker
 scryfall_id: fdfc2453-5a2b-4104-bf82-84f935de7b99
 set: mma
 type: Artifact Creature — Construct
-meta_presence: 0.0043
+meta_presence: 0.0042
 archetypes:
   hardened-scales:
     weight: 1.0

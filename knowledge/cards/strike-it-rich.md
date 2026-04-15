@@ -7,7 +7,7 @@ name: Strike It Rich
 scryfall_id: 1c7c2814-a617-4123-acdf-1b01b2768210
 set: mh2
 type: Sorcery
-meta_presence: 0.0243
+meta_presence: 0.0237
 archetypes:
   ruby-storm:
     weight: 0.7368

@@ -7,7 +7,7 @@ name: Force of Despair
 scryfall_id: 8f497b0d-4448-4201-bd55-c147da1a216d
 set: mh1
 type: Instant
-meta_presence: 0.0371
+meta_presence: 0.0363
 archetypes:
   necrodominance:
     weight: 0.9286

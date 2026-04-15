@@ -3,34 +3,34 @@ colors:
 - W
 - R
 name: Burn
-meta_share: 0.0043
+meta_share: 0.0042
 list_count: 3
 top_cards:
-- name: Boltwave
-  weight: 1.0
-  avg_copies: 4.0
-- name: Monastery Swiftspear
-  weight: 1.0
-  avg_copies: 4.0
-- name: Skewer the Critics
+- name: Goblin Guide
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Goblin Guide
+- name: Skewer the Critics
+  weight: 1.0
+  avg_copies: 4.0
+- name: Monastery Swiftspear
   weight: 1.0
   avg_copies: 4.0
 - name: Lava Spike
   weight: 1.0
   avg_copies: 4.0
+- name: Boltwave
+  weight: 1.0
+  avg_copies: 4.0
 - name: Skullcrack
   weight: 1.0
   avg_copies: 3.67
-- name: Barbarian Ring
+- name: Mountain
   weight: 1.0
   avg_copies: 3.0
-- name: Mountain
+- name: Barbarian Ring
   weight: 1.0
   avg_copies: 3.0
 - name: Wooded Foothills
@@ -39,13 +39,13 @@ top_cards:
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 1.67
+- name: Rift Bolt
+  weight: 0.6667
+  avg_copies: 4.0
 - name: Boros Charm
   weight: 0.6667
   avg_copies: 4.0
 - name: Sunbaked Canyon
-  weight: 0.6667
-  avg_copies: 4.0
-- name: Rift Bolt
   weight: 0.6667
   avg_copies: 4.0
 - name: Seal of Fire
@@ -63,19 +63,19 @@ top_cards:
 - name: Searing Blood
   weight: 0.6667
   avg_copies: 3.0
-- name: Arid Mesa
-  weight: 0.6667
-  avg_copies: 2.0
 - name: Deflecting Palm
   weight: 0.6667
   avg_copies: 2.0
-- name: Bloodstained Mire
+- name: Arid Mesa
+  weight: 0.6667
+  avg_copies: 2.0
+- name: Exquisite Firecraft
   weight: 0.6667
   avg_copies: 1.5
 - name: Sacred Foundry
   weight: 0.6667
   avg_copies: 1.5
-- name: Exquisite Firecraft
+- name: Bloodstained Mire
   weight: 0.6667
   avg_copies: 1.5
 - name: Roiling Vortex
@@ -90,10 +90,7 @@ top_cards:
 - name: Arena of Glory
   weight: 0.3333
   avg_copies: 3.0
-- name: Raucous Theater
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Shard Volley
+- name: Surgical Extraction
   weight: 0.3333
   avg_copies: 2.0
 - name: Eidolon of the Great Revel
@@ -105,10 +102,13 @@ top_cards:
 - name: Wear
   weight: 0.3333
   avg_copies: 2.0
-- name: Pyroclasm
+- name: Raucous Theater
   weight: 0.3333
   avg_copies: 2.0
-- name: Surgical Extraction
+- name: Shard Volley
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Pyroclasm
   weight: 0.3333
   avg_copies: 2.0
 - name: Tunnel Ignus
@@ -117,13 +117,13 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 0.3333
   avg_copies: 1.0
-- name: Obsidian Charmaw
+- name: Molten Rain
   weight: 0.3333
   avg_copies: 1.0
 - name: Disruptor Flute
   weight: 0.3333
   avg_copies: 1.0
-- name: Molten Rain
+- name: Obsidian Charmaw
   weight: 0.3333
   avg_copies: 1.0
 ---

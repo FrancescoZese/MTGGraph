@@ -7,7 +7,7 @@ name: Pyretic Ritual
 scryfall_id: 1e577638-a7ed-4bcc-90fb-0cffe87d5a28
 set: m11
 type: Instant
-meta_presence: 0.0314
+meta_presence: 0.0307
 archetypes:
   ruby-storm:
     weight: 1.0

@@ -6,7 +6,7 @@ colors:
 - R
 - G
 name: Indomitable Creativity
-meta_share: 0.0086
+meta_share: 0.0084
 list_count: 6
 top_cards:
 - name: Fable of the Mirror-Breaker
@@ -42,22 +42,22 @@ top_cards:
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 1.17
-- name: Mountain
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
 - name: Leyline Binding
   weight: 0.8333
   avg_copies: 4.0
-- name: Galvanic Discharge
+- name: Consign to Memory
   weight: 0.8333
   avg_copies: 3.8
-- name: Consign to Memory
+- name: Galvanic Discharge
   weight: 0.8333
   avg_copies: 3.8
 - name: Reprieve
@@ -75,19 +75,19 @@ top_cards:
 - name: Spell Snare
   weight: 0.8333
   avg_copies: 1.8
-- name: Elegant Parlor
-  weight: 0.8333
-  avg_copies: 1.0
-- name: Xander's Lounge
-  weight: 0.8333
-  avg_copies: 1.0
 - name: Sacred Foundry
+  weight: 0.8333
+  avg_copies: 1.0
+- name: Jetmir's Garden
   weight: 0.8333
   avg_copies: 1.0
 - name: Raph & Mikey, Troublemakers
   weight: 0.8333
   avg_copies: 1.0
-- name: Jetmir's Garden
+- name: Xander's Lounge
+  weight: 0.8333
+  avg_copies: 1.0
+- name: Elegant Parlor
   weight: 0.8333
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -123,19 +123,19 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 0.3333
   avg_copies: 1.0
-- name: Fatal Push
+- name: Thoughtseize
   weight: 0.1667
   avg_copies: 4.0
 - name: Persist
   weight: 0.1667
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Leyline of the Void
+  weight: 0.1667
+  avg_copies: 4.0
+- name: Fatal Push
   weight: 0.1667
   avg_copies: 4.0
 - name: Faithless Looting
-  weight: 0.1667
-  avg_copies: 4.0
-- name: Leyline of the Void
   weight: 0.1667
   avg_copies: 4.0
 - name: Terastodon
@@ -147,40 +147,40 @@ top_cards:
 - name: Spell Pierce
   weight: 0.1667
   avg_copies: 1.5
-- name: Raucous Theater
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Rest in Peace
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Emrakul, the Aeons Torn
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Ziatora's Proving Ground
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Valakut Awakening
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Veil of Summer
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
+- name: Prismari Command
   weight: 0.1667
   avg_copies: 1.0
 - name: Brainsurge
   weight: 0.1667
   avg_copies: 1.0
-- name: Prismari Command
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Ketria Triome
+- name: Emrakul, the Aeons Torn
   weight: 0.1667
   avg_copies: 1.0
 - name: Iona, Shield of Emeria
   weight: 0.1667
   avg_copies: 1.0
+- name: Raucous Theater
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Abrupt Decay
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Valakut Awakening
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Rest in Peace
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Ziatora's Proving Ground
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Ketria Triome
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Veil of Summer
   weight: 0.1667
   avg_copies: 1.0
 ---

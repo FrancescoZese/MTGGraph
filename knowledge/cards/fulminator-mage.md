@@ -8,12 +8,12 @@ name: Fulminator Mage
 scryfall_id: 420d1ea2-23f9-4650-993e-de99eedaa587
 set: 2xm
 type: Creature — Elemental Shaman
-meta_presence: 0.01
+meta_presence: 0.0112
 archetypes:
   grixis-reanimator:
     weight: 0.125
     avg_copies: 2.0
   yawgmoth-combo:
-    weight: 0.8333
-    avg_copies: 1.8
+    weight: 0.8571
+    avg_copies: 1.67
 ---

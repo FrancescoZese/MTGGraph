@@ -3,13 +3,10 @@ colors:
 - B
 - R
 name: Hollow One
-meta_share: 0.0128
+meta_share: 0.0126
 list_count: 9
 top_cards:
 - name: Detective's Phoenix
-  weight: 1.0
-  avg_copies: 4.0
-- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Burning Inquiry
@@ -22,6 +19,9 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Moonshadow
+  weight: 1.0
+  avg_copies: 4.0
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Bloodstained Mire
@@ -108,30 +108,33 @@ top_cards:
 - name: Illness in the Ranks
   weight: 0.3333
   avg_copies: 1.0
-- name: Fear of Missing Out
+- name: Rakdos Charm
   weight: 0.2222
   avg_copies: 2.0
-- name: Rakdos Charm
+- name: Fear of Missing Out
   weight: 0.2222
   avg_copies: 2.0
 - name: Verdant Catacombs
   weight: 0.2222
   avg_copies: 2.0
-- name: Polluted Delta
+- name: Violent Urge
   weight: 0.2222
   avg_copies: 1.0
-- name: Violent Urge
+- name: Polluted Delta
   weight: 0.2222
   avg_copies: 1.0
 - name: Blazing Rootwalla
   weight: 0.1111
   avg_copies: 4.0
-- name: Leyline of the Void
-  weight: 0.1111
-  avg_copies: 4.0
 - name: Vengevine
   weight: 0.1111
   avg_copies: 4.0
+- name: Leyline of the Void
+  weight: 0.1111
+  avg_copies: 4.0
+- name: Stomping Ground
+  weight: 0.1111
+  avg_copies: 2.0
 - name: Cool but Rude
   weight: 0.1111
   avg_copies: 2.0
@@ -139,9 +142,6 @@ top_cards:
   weight: 0.1111
   avg_copies: 2.0
 - name: Goblin Lore
-  weight: 0.1111
-  avg_copies: 2.0
-- name: Stomping Ground
   weight: 0.1111
   avg_copies: 2.0
 - name: Unholy Heat
@@ -153,22 +153,22 @@ top_cards:
 - name: Rough
   weight: 0.1111
   avg_copies: 2.0
-- name: Barbarian Ring
-  weight: 0.1111
-  avg_copies: 1.0
 - name: Shattering Spree
   weight: 0.1111
   avg_copies: 1.0
-- name: Seal of Fire
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Overlord of the Balemurk
+- name: Soul-Guide Lantern
   weight: 0.1111
   avg_copies: 1.0
 - name: Ox of Agonas
   weight: 0.1111
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Overlord of the Balemurk
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Barbarian Ring
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Seal of Fire
   weight: 0.1111
   avg_copies: 1.0
 ---

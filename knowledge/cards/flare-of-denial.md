@@ -7,11 +7,11 @@ name: Flare of Denial
 scryfall_id: 71a98efb-9b0a-496b-ac21-8d70527ea544
 set: mh3
 type: Instant
-meta_presence: 0.0485
+meta_presence: 0.0517
 archetypes:
   mono-blue-belcher:
-    weight: 0.6471
-    avg_copies: 2.73
+    weight: 0.6667
+    avg_copies: 2.75
   living-end:
     weight: 0.2143
     avg_copies: 1.0
@@ -27,4 +27,7 @@ archetypes:
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 3.0
+  unknown-1:
+    weight: 1.0
+    avg_copies: 2.0
 ---

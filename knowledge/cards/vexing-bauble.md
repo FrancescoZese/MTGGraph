@@ -6,16 +6,16 @@ name: Vexing Bauble
 scryfall_id: 29f11089-658f-42e6-aeb0-09b512ad2479
 set: mh3
 type: Artifact
-meta_presence: 0.2696
+meta_presence: 0.2723
 archetypes:
   ruby-storm:
     weight: 0.0526
     avg_copies: 1.0
   boros-energy:
-    weight: 0.1961
-    avg_copies: 1.67
+    weight: 0.1975
+    avg_copies: 1.68
   eldrazi-tron:
-    weight: 0.7407
+    weight: 0.7143
     avg_copies: 1.12
   amulet-titan:
     weight: 0.5714
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   affinity:
-    weight: 0.6418
+    weight: 0.6471
     avg_copies: 1.27
   domain-zoo:
     weight: 0.0385
@@ -49,19 +49,19 @@ archetypes:
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 1.33
+    avg_copies: 1.29
   eldrazi-ramp:
-    weight: 0.9167
-    avg_copies: 1.55
+    weight: 0.9231
+    avg_copies: 1.58
   izzet-prowess:
-    weight: 0.087
+    weight: 0.0833
     avg_copies: 3.5
   samwise-combo:
     weight: 0.7143
     avg_copies: 2.0
   broodscale-combo:
     weight: 1.0
-    avg_copies: 1.4
+    avg_copies: 1.42
   orzhov-blink:
     weight: 0.75
     avg_copies: 1.33

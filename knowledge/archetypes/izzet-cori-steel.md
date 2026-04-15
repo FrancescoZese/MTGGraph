@@ -3,22 +3,22 @@ colors:
 - U
 - R
 name: Izzet Cori-Steel
-meta_share: 0.0086
+meta_share: 0.0084
 list_count: 6
 top_cards:
-- name: Tamiyo, Inquisitive Student
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Amber
   weight: 1.0
   avg_copies: 4.0
-- name: Erayo, Soratami Ascendant
-  weight: 1.0
-  avg_copies: 4.0
 - name: Emry, Lurker of the Loch
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Tamiyo, Inquisitive Student
+  weight: 1.0
+  avg_copies: 4.0
+- name: Erayo, Soratami Ascendant
   weight: 1.0
   avg_copies: 4.0
 - name: Cori-Steel Cutter
@@ -27,19 +27,19 @@ top_cards:
 - name: Spirebluff Canal
   weight: 1.0
   avg_copies: 3.67
-- name: Fiery Islet
-  weight: 1.0
-  avg_copies: 3.67
 - name: Mox Opal
   weight: 1.0
   avg_copies: 3.67
-- name: Metallic Rebuke
+- name: Fiery Islet
+  weight: 1.0
+  avg_copies: 3.67
+- name: Preordain
   weight: 1.0
   avg_copies: 3.5
 - name: Boomerang Basics
   weight: 1.0
   avg_copies: 3.5
-- name: Preordain
+- name: Metallic Rebuke
   weight: 1.0
   avg_copies: 3.5
 - name: Urza's Saga
@@ -54,10 +54,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.5
-- name: Soul-Guide Lantern
+- name: Aether Spellbomb
   weight: 1.0
   avg_copies: 1.0
-- name: Aether Spellbomb
+- name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 1.0
 - name: Harbinger of the Seas
@@ -102,10 +102,10 @@ top_cards:
 - name: Strix Serenade
   weight: 0.1667
   avg_copies: 2.0
-- name: Haywire Mite
+- name: An Offer You Can't Refuse
   weight: 0.1667
   avg_copies: 1.0
-- name: An Offer You Can't Refuse
+- name: Haywire Mite
   weight: 0.1667
   avg_copies: 1.0
 - name: Breeding Pool

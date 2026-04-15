@@ -6,7 +6,7 @@ name: Polluted Delta
 scryfall_id: 6e288374-2b71-4ace-b1d2-a19fee6cb4af
 set: mh3
 type: Land
-meta_presence: 0.1641
+meta_presence: 0.1634
 archetypes:
   dimir-control:
     weight: 1.0
@@ -39,10 +39,10 @@ archetypes:
     weight: 0.2222
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.1176
+    weight: 0.1667
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 1.0
   esper-blink:
     weight: 0.875
@@ -68,4 +68,7 @@ archetypes:
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 1.0
+  unknown-1:
+    weight: 1.0
+    avg_copies: 2.0
 ---

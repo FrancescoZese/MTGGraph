@@ -4,7 +4,7 @@ colors:
 - U
 - R
 name: Azorius Control
-meta_share: 0.0228
+meta_share: 0.0223
 list_count: 16
 top_cards:
 - name: Flooded Strand
@@ -97,19 +97,19 @@ top_cards:
 - name: Force of Negation
   weight: 0.625
   avg_copies: 1.27
-- name: Geier Reach Sanitarium
+- name: Otawara, Soaring City
   weight: 0.625
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Geier Reach Sanitarium
   weight: 0.625
   avg_copies: 1.0
 - name: Subtlety
   weight: 0.5625
   avg_copies: 1.78
-- name: Hall of Storm Giants
+- name: Kaheera, the Orphanguard
   weight: 0.5625
   avg_copies: 1.0
-- name: Kaheera, the Orphanguard
+- name: Hall of Storm Giants
   weight: 0.5625
   avg_copies: 1.0
 - name: High Noon
@@ -136,13 +136,13 @@ top_cards:
 - name: Rest in Peace
   weight: 0.25
   avg_copies: 1.5
+- name: Mistrise Village
+  weight: 0.25
+  avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.25
   avg_copies: 1.0
 - name: Stern Scolding
-  weight: 0.25
-  avg_copies: 1.0
-- name: Mistrise Village
   weight: 0.25
   avg_copies: 1.0
 - name: Damping Sphere
@@ -151,37 +151,37 @@ top_cards:
 - name: March of Otherworldly Light
   weight: 0.1875
   avg_copies: 1.25
-- name: Beza, the Bounding Spring
+- name: Meltdown
   weight: 0.1875
   avg_copies: 1.0
 - name: Polluted Delta
   weight: 0.1875
   avg_copies: 1.0
-- name: Meltdown
+- name: Beza, the Bounding Spring
   weight: 0.1875
   avg_copies: 1.0
 - name: Marsh Flats
   weight: 0.125
   avg_copies: 2.0
-- name: Soul-Guide Lantern
+- name: Fire Magic
   weight: 0.125
   avg_copies: 2.0
 - name: Windswept Heath
   weight: 0.125
   avg_copies: 2.0
-- name: Fire Magic
+- name: Soul-Guide Lantern
   weight: 0.125
   avg_copies: 2.0
 - name: Temporary Lockdown
   weight: 0.125
   avg_copies: 1.67
-- name: Watery Grave
+- name: Hedge Maze
   weight: 0.125
   avg_copies: 1.0
 - name: Vendilion Clique
   weight: 0.125
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Watery Grave
   weight: 0.125
   avg_copies: 1.0
 - name: Suppression Ray
@@ -196,40 +196,40 @@ top_cards:
 - name: Sink into Stupor
   weight: 0.0625
   avg_copies: 2.0
-- name: Disruptor Flute
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Timeless Dragon
-  weight: 0.0625
-  avg_copies: 1.0
 - name: Gemstone Caverns
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Dress Down
-  weight: 0.0625
-  avg_copies: 1.0
-- name: The Wandering Emperor
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Get Lost
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Jace, the Mind Sculptor
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Celestial Colonnade
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Breeding Pool
   weight: 0.0625
   avg_copies: 1.0
 - name: Wan Shi Tong, Librarian
   weight: 0.0625
   avg_copies: 1.0
+- name: Wear
+  weight: 0.0625
+  avg_copies: 1.0
+- name: The Wandering Emperor
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Disruptor Flute
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Jace, the Mind Sculptor
+  weight: 0.0625
+  avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.0625
   avg_copies: 1.0
-- name: Wear
+- name: Dress Down
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Timeless Dragon
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Breeding Pool
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Get Lost
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Celestial Colonnade
   weight: 0.0625
   avg_copies: 1.0
 ---

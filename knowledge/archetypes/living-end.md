@@ -5,22 +5,22 @@ colors:
 - B
 - G
 name: Living End
-meta_share: 0.02
+meta_share: 0.0196
 list_count: 14
 top_cards:
+- name: Endurance
+  weight: 1.0
+  avg_copies: 4.0
 - name: Subtlety
   weight: 1.0
   avg_copies: 4.0
 - name: Shardless Agent
   weight: 1.0
   avg_copies: 4.0
-- name: Endurance
-  weight: 1.0
-  avg_copies: 4.0
-- name: Force of Negation
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 3.86
-- name: Misty Rainforest
+- name: Force of Negation
   weight: 1.0
   avg_copies: 3.86
 - name: Generous Ent
@@ -92,40 +92,40 @@ top_cards:
 - name: Formidable Speaker
   weight: 0.5
   avg_copies: 2.14
-- name: Polluted Delta
+- name: Underground Mortuary
   weight: 0.5
   avg_copies: 1.43
-- name: Underground Mortuary
+- name: Polluted Delta
   weight: 0.5
   avg_copies: 1.43
 - name: Overgrown Tomb
   weight: 0.5
   avg_copies: 1.14
-- name: Commandeer
-  weight: 0.5
-  avg_copies: 1.0
-- name: Mai, Scornful Striker
-  weight: 0.5
-  avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.5
   avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.5
   avg_copies: 1.0
-- name: Temple Garden
+- name: Boseiju, Who Endures
+  weight: 0.5
+  avg_copies: 1.0
+- name: Undercity Sewers
   weight: 0.5
   avg_copies: 1.0
 - name: Lush Portico
   weight: 0.5
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Commandeer
+  weight: 0.5
+  avg_copies: 1.0
+- name: Mai, Scornful Striker
   weight: 0.5
   avg_copies: 1.0
 - name: Halo Forager
   weight: 0.5
   avg_copies: 1.0
-- name: Undercity Sewers
+- name: Temple Garden
   weight: 0.5
   avg_copies: 1.0
 - name: Clarion Conqueror
@@ -140,6 +140,9 @@ top_cards:
 - name: Deceit
   weight: 0.4286
   avg_copies: 1.33
+- name: Flooded Grove
+  weight: 0.4286
+  avg_copies: 1.0
 - name: Disciple of Freyalise
   weight: 0.4286
   avg_copies: 1.0
@@ -149,31 +152,28 @@ top_cards:
 - name: Harvester of Misery
   weight: 0.4286
   avg_copies: 1.0
-- name: Flooded Grove
-  weight: 0.4286
-  avg_copies: 1.0
 - name: Striped Riverwinder
   weight: 0.3571
   avg_copies: 2.0
 - name: Waker of Waves
   weight: 0.2857
   avg_copies: 3.0
-- name: Kavaero, Mind-Bitten
+- name: Deafening Silence
   weight: 0.2857
   avg_copies: 1.0
 - name: Swamp
   weight: 0.2857
   avg_copies: 1.0
-- name: Deafening Silence
+- name: Kavaero, Mind-Bitten
   weight: 0.2857
   avg_copies: 1.0
-- name: Flare of Denial
+- name: Archon of Cruelty
   weight: 0.2143
   avg_copies: 1.0
 - name: Harbinger of the Seas
   weight: 0.2143
   avg_copies: 1.0
-- name: Archon of Cruelty
+- name: Flare of Denial
   weight: 0.2143
   avg_copies: 1.0
 - name: Drannith Magistrate
@@ -194,22 +194,22 @@ top_cards:
 - name: Steam Vents
   weight: 0.0714
   avg_copies: 2.0
-- name: Titanoth Rex
+- name: Flooded Strand
   weight: 0.0714
   avg_copies: 2.0
 - name: Verdant Catacombs
   weight: 0.0714
   avg_copies: 2.0
-- name: Flooded Strand
+- name: Titanoth Rex
   weight: 0.0714
   avg_copies: 2.0
-- name: High Noon
-  weight: 0.0714
-  avg_copies: 1.0
 - name: Stomping Ground
   weight: 0.0714
   avg_copies: 1.0
 - name: Sunken Ruins
+  weight: 0.0714
+  avg_copies: 1.0
+- name: High Noon
   weight: 0.0714
   avg_copies: 1.0
 - name: Press the Enemy

@@ -6,22 +6,22 @@ colors:
 - R
 - G
 name: Domain Zoo
-meta_share: 0.0371
+meta_share: 0.0363
 list_count: 26
 top_cards:
-- name: Scion of Draco
-  weight: 1.0
-  avg_copies: 4.0
 - name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
 - name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
-- name: Arid Mesa
+- name: Scion of Draco
+  weight: 1.0
+  avg_copies: 4.0
+- name: Leyline Binding
   weight: 1.0
   avg_copies: 3.96
-- name: Leyline Binding
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 3.96
 - name: Lightning Bolt
@@ -42,10 +42,10 @@ top_cards:
 - name: Wear
   weight: 1.0
   avg_copies: 1.62
-- name: Godless Shrine
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
-- name: Plains
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
 - name: Indatha Triome
@@ -75,10 +75,10 @@ top_cards:
 - name: Arena of Glory
   weight: 0.9615
   avg_copies: 1.92
-- name: Mountain
+- name: Thundering Falls
   weight: 0.8846
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Mountain
   weight: 0.8846
   avg_copies: 1.0
 - name: Teferi, Time Raveler
@@ -129,12 +129,15 @@ top_cards:
 - name: Does Machines
   weight: 0.0769
   avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 0.0769
-  avg_copies: 1.0
 - name: Clarion Conqueror
   weight: 0.0769
   avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Archon of Cruelty
+  weight: 0.0385
+  avg_copies: 4.0
 - name: Psychic Frog
   weight: 0.0385
   avg_copies: 4.0
@@ -147,40 +150,37 @@ top_cards:
 - name: Faithless Looting
   weight: 0.0385
   avg_copies: 4.0
-- name: Archon of Cruelty
-  weight: 0.0385
-  avg_copies: 4.0
 - name: Summoning Trap
   weight: 0.0385
   avg_copies: 3.0
 - name: Drannith Magistrate
   weight: 0.0385
   avg_copies: 2.0
-- name: Raucous Theater
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Vexing Bauble
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Quantum Riddler
+- name: Meltdown
   weight: 0.0385
   avg_copies: 1.0
 - name: Glasspool Mimic
   weight: 0.0385
   avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.0385
-  avg_copies: 1.0
 - name: Orcish Bowmasters
   weight: 0.0385
   avg_copies: 1.0
-- name: Meltdown
+- name: Quantum Riddler
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Breeding Pool
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Raucous Theater
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Blood Crypt
   weight: 0.0385
   avg_copies: 1.0
 - name: Celestial Purge
   weight: 0.0385
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Vexing Bauble
   weight: 0.0385
   avg_copies: 1.0
 ---

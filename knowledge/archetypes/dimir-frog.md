@@ -3,16 +3,16 @@ colors:
 - U
 - B
 name: Dimir Frog
-meta_share: 0.0157
+meta_share: 0.0154
 list_count: 11
 top_cards:
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 3.91
-- name: Fatal Push
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 3.64
-- name: Psychic Frog
+- name: Fatal Push
   weight: 1.0
   avg_copies: 3.64
 - name: Counterspell
@@ -81,19 +81,19 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.6364
   avg_copies: 1.57
-- name: Darkslick Shores
-  weight: 0.6364
-  avg_copies: 1.57
 - name: Marsh Flats
   weight: 0.6364
   avg_copies: 1.57
 - name: Ghost Vacuum
   weight: 0.6364
   avg_copies: 1.57
-- name: Stern Scolding
+- name: Darkslick Shores
+  weight: 0.6364
+  avg_copies: 1.57
+- name: Otawara, Soaring City
   weight: 0.6364
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Stern Scolding
   weight: 0.6364
   avg_copies: 1.0
 - name: Misty Rainforest
@@ -114,13 +114,13 @@ top_cards:
 - name: Snapcaster Mage
   weight: 0.2727
   avg_copies: 1.67
+- name: Murktide Regent
+  weight: 0.2727
+  avg_copies: 1.33
 - name: Graveyard Trespasser
   weight: 0.2727
   avg_copies: 1.33
 - name: Scalding Tarn
-  weight: 0.2727
-  avg_copies: 1.33
-- name: Murktide Regent
   weight: 0.2727
   avg_copies: 1.33
 - name: Strategic Betrayal
@@ -132,22 +132,22 @@ top_cards:
 - name: Pest Control
   weight: 0.1818
   avg_copies: 1.5
-- name: Hallowed Fountain
-  weight: 0.1818
-  avg_copies: 1.0
 - name: Meticulous Archive
-  weight: 0.1818
-  avg_copies: 1.0
-- name: Field of Ruin
   weight: 0.1818
   avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.1818
   avg_copies: 1.0
-- name: Shoot the Sheriff
+- name: Field of Ruin
   weight: 0.1818
   avg_copies: 1.0
 - name: Gloomlake Verge
+  weight: 0.1818
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 0.1818
+  avg_copies: 1.0
+- name: Shoot the Sheriff
   weight: 0.1818
   avg_copies: 1.0
 - name: Mishra's Bauble
@@ -162,9 +162,6 @@ top_cards:
 - name: Dress Down
   weight: 0.0909
   avg_copies: 3.0
-- name: Strix Serenade
-  weight: 0.0909
-  avg_copies: 2.0
 - name: Thraben Charm
   weight: 0.0909
   avg_copies: 2.0
@@ -174,13 +171,16 @@ top_cards:
 - name: Consult the Star Charts
   weight: 0.0909
   avg_copies: 2.0
-- name: High Noon
+- name: Strix Serenade
   weight: 0.0909
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Prismatic Ending
   weight: 0.0909
   avg_copies: 1.0
 - name: Teferi, Time Raveler
+  weight: 0.0909
+  avg_copies: 1.0
+- name: High Noon
   weight: 0.0909
   avg_copies: 1.0
 - name: Vanishing Verse

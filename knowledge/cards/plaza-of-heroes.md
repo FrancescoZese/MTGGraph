@@ -6,7 +6,7 @@ name: Plaza of Heroes
 scryfall_id: a2cfcf67-f83c-43af-9e2d-5513fcdde835
 set: dmu
 type: Land
-meta_presence: 0.0029
+meta_presence: 0.0028
 archetypes:
   kethis-combo:
     weight: 1.0
