@@ -68,7 +68,7 @@ archetypes:
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 3.0
-  unknown-1:
+  izzet-wizards:
     weight: 1.0
     avg_copies: 3.0
 ---

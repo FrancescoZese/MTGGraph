@@ -34,10 +34,10 @@ top_cards:
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.81
-- name: Hallowed Fountain
+- name: Island
   weight: 1.0
   avg_copies: 1.75
-- name: Island
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.75
 - name: Celestial Purge
@@ -106,10 +106,10 @@ top_cards:
 - name: Subtlety
   weight: 0.5625
   avg_copies: 1.78
-- name: Kaheera, the Orphanguard
+- name: Hall of Storm Giants
   weight: 0.5625
   avg_copies: 1.0
-- name: Hall of Storm Giants
+- name: Kaheera, the Orphanguard
   weight: 0.5625
   avg_copies: 1.0
 - name: High Noon
@@ -136,10 +136,10 @@ top_cards:
 - name: Rest in Peace
   weight: 0.25
   avg_copies: 1.5
-- name: Mistrise Village
+- name: Sacred Foundry
   weight: 0.25
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Mistrise Village
   weight: 0.25
   avg_copies: 1.0
 - name: Stern Scolding
@@ -151,34 +151,34 @@ top_cards:
 - name: March of Otherworldly Light
   weight: 0.1875
   avg_copies: 1.25
-- name: Meltdown
+- name: Polluted Delta
   weight: 0.1875
   avg_copies: 1.0
-- name: Polluted Delta
+- name: Meltdown
   weight: 0.1875
   avg_copies: 1.0
 - name: Beza, the Bounding Spring
   weight: 0.1875
   avg_copies: 1.0
-- name: Marsh Flats
-  weight: 0.125
-  avg_copies: 2.0
-- name: Fire Magic
-  weight: 0.125
-  avg_copies: 2.0
 - name: Windswept Heath
+  weight: 0.125
+  avg_copies: 2.0
+- name: Marsh Flats
   weight: 0.125
   avg_copies: 2.0
 - name: Soul-Guide Lantern
   weight: 0.125
   avg_copies: 2.0
+- name: Fire Magic
+  weight: 0.125
+  avg_copies: 2.0
 - name: Temporary Lockdown
   weight: 0.125
   avg_copies: 1.67
-- name: Hedge Maze
+- name: Vendilion Clique
   weight: 0.125
   avg_copies: 1.0
-- name: Vendilion Clique
+- name: Hedge Maze
   weight: 0.125
   avg_copies: 1.0
 - name: Watery Grave
@@ -190,25 +190,31 @@ top_cards:
 - name: Thundertrap Trainer
   weight: 0.0625
   avg_copies: 4.0
-- name: Reprieve
-  weight: 0.0625
-  avg_copies: 2.0
 - name: Sink into Stupor
   weight: 0.0625
   avg_copies: 2.0
-- name: Gemstone Caverns
+- name: Reprieve
   weight: 0.0625
-  avg_copies: 1.0
-- name: Wan Shi Tong, Librarian
+  avg_copies: 2.0
+- name: The Wandering Emperor
   weight: 0.0625
   avg_copies: 1.0
 - name: Wear
   weight: 0.0625
   avg_copies: 1.0
-- name: The Wandering Emperor
+- name: Timeless Dragon
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Dress Down
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Celestial Colonnade
   weight: 0.0625
   avg_copies: 1.0
 - name: Disruptor Flute
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Get Lost
   weight: 0.0625
   avg_copies: 1.0
 - name: Jace, the Mind Sculptor
@@ -217,19 +223,13 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 0.0625
   avg_copies: 1.0
-- name: Dress Down
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Timeless Dragon
+- name: Wan Shi Tong, Librarian
   weight: 0.0625
   avg_copies: 1.0
 - name: Breeding Pool
   weight: 0.0625
   avg_copies: 1.0
-- name: Get Lost
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Celestial Colonnade
+- name: Gemstone Caverns
   weight: 0.0625
   avg_copies: 1.0
 ---

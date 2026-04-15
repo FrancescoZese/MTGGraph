@@ -6,16 +6,16 @@ name: Yawgmoth Combo
 meta_share: 0.0098
 list_count: 7
 top_cards:
-- name: Agatha's Soul Cauldron
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
-- name: Verdant Catacombs
+- name: Badgermole Cub
   weight: 1.0
   avg_copies: 4.0
 - name: Delighted Halfling
   weight: 1.0
   avg_copies: 4.0
-- name: Badgermole Cub
+- name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 4.0
 - name: Yawgmoth, Thran Physician
@@ -27,13 +27,13 @@ top_cards:
 - name: Malevolent Rumble
   weight: 1.0
   avg_copies: 3.43
+- name: Walking Ballista
+  weight: 1.0
+  avg_copies: 3.0
 - name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 3.0
 - name: Spymaster's Vault
-  weight: 1.0
-  avg_copies: 3.0
-- name: Walking Ballista
   weight: 1.0
   avg_copies: 3.0
 - name: Fatal Push
@@ -66,25 +66,25 @@ top_cards:
 - name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.14
-- name: Endurance
+- name: Soulless Jailer
   weight: 1.0
   avg_copies: 1.0
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Strangleroot Geist
-  weight: 1.0
-  avg_copies: 1.0
-- name: Dryad Arbor
-  weight: 1.0
-  avg_copies: 1.0
-- name: Soulless Jailer
+- name: Endurance
   weight: 1.0
   avg_copies: 1.0
 - name: Grist, the Hunger Tide
   weight: 1.0
   avg_copies: 1.0
+- name: Dryad Arbor
+  weight: 1.0
+  avg_copies: 1.0
 - name: Outland Liberator
+  weight: 1.0
+  avg_copies: 1.0
+- name: Strangleroot Geist
   weight: 1.0
   avg_copies: 1.0
 - name: Windswept Heath
@@ -102,10 +102,10 @@ top_cards:
 - name: Virulent Emissary
   weight: 0.8571
   avg_copies: 1.0
-- name: Scavenging Ooze
+- name: Damping Sphere
   weight: 0.7143
   avg_copies: 1.0
-- name: Damping Sphere
+- name: Scavenging Ooze
   weight: 0.7143
   avg_copies: 1.0
 - name: Ignoble Hierarch
@@ -120,16 +120,16 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.1429
   avg_copies: 3.0
-- name: Culling Ritual
+- name: Wooded Foothills
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Kraul Harpooner
   weight: 0.1429
   avg_copies: 1.0
 - name: Murderous Cut
   weight: 0.1429
   avg_copies: 1.0
-- name: Wooded Foothills
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Kraul Harpooner
+- name: Culling Ritual
   weight: 0.1429
   avg_copies: 1.0
 ---

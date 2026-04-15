@@ -6,25 +6,25 @@ name: Ruby Storm
 meta_share: 0.0265
 list_count: 19
 top_cards:
-- name: Pyretic Ritual
+- name: Manamorphose
   weight: 1.0
   avg_copies: 4.0
 - name: Ral, Monsoon Mage
   weight: 1.0
   avg_copies: 4.0
-- name: Wrenn's Resolve
-  weight: 1.0
-  avg_copies: 4.0
-- name: Manamorphose
+- name: Reckless Impulse
   weight: 1.0
   avg_copies: 4.0
 - name: Desperate Ritual
   weight: 1.0
   avg_copies: 4.0
-- name: Reckless Impulse
+- name: Ruby Medallion
   weight: 1.0
   avg_copies: 4.0
-- name: Ruby Medallion
+- name: Pyretic Ritual
+  weight: 1.0
+  avg_copies: 4.0
+- name: Wrenn's Resolve
   weight: 1.0
   avg_copies: 4.0
 - name: Mountain
@@ -123,9 +123,6 @@ top_cards:
 - name: March of Otherworldly Light
   weight: 0.1053
   avg_copies: 1.5
-- name: Meltdown
-  weight: 0.1053
-  avg_copies: 1.0
 - name: Alchemist's Gambit
   weight: 0.1053
   avg_copies: 1.0
@@ -135,25 +132,28 @@ top_cards:
 - name: Phlage, Titan of Fire's Fury
   weight: 0.1053
   avg_copies: 1.0
+- name: Meltdown
+  weight: 0.1053
+  avg_copies: 1.0
 - name: Blood Moon
   weight: 0.0526
   avg_copies: 2.0
+- name: Shattering Spree
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Hexing Squelcher
+  weight: 0.0526
+  avg_copies: 1.0
 - name: Urabrask
   weight: 0.0526
   avg_copies: 1.0
 - name: Pyromancer Ascension
   weight: 0.0526
   avg_copies: 1.0
-- name: Shattering Spree
-  weight: 0.0526
-  avg_copies: 1.0
 - name: Abrade
   weight: 0.0526
   avg_copies: 1.0
 - name: Vexing Bauble
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Hexing Squelcher
   weight: 0.0526
   avg_copies: 1.0
 ---

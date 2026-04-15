@@ -6,6 +6,9 @@ name: Simic Ritual
 meta_share: 0.0251
 list_count: 18
 top_cards:
+- name: Flare of Denial
+  weight: 1.0
+  avg_copies: 4.0
 - name: Coiling Oracle
   weight: 1.0
   avg_copies: 4.0
@@ -13,9 +16,6 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Birthing Ritual
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flare of Denial
   weight: 1.0
   avg_copies: 4.0
 - name: Misty Rainforest
@@ -57,10 +57,10 @@ top_cards:
 - name: Endurance
   weight: 1.0
   avg_copies: 1.71
-- name: Boseiju, Who Endures
+- name: Breeding Pool
   weight: 1.0
   avg_copies: 1.11
-- name: Breeding Pool
+- name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.11
 - name: Verdant Catacombs
@@ -117,7 +117,34 @@ top_cards:
 - name: Fire Magic
   weight: 0.0556
   avg_copies: 3.0
+- name: Stomping Ground
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Tamiyo, Inquisitive Student
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Underground Mortuary
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Scalding Tarn
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Ephara's Dispersal
+  weight: 0.0556
+  avg_copies: 1.0
 - name: Pond Prophet
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Steam Vents
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Hurkyl's Recall
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Flooded Strand
   weight: 0.0556
   avg_copies: 1.0
 - name: Overgrown Tomb
@@ -126,40 +153,13 @@ top_cards:
 - name: Pick Your Poison
   weight: 0.0556
   avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Steam Vents
-  weight: 0.0556
-  avg_copies: 1.0
 - name: Fade from History
   weight: 0.0556
   avg_copies: 1.0
-- name: Flooded Strand
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Stomping Ground
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Underground Mortuary
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Ephara's Dispersal
+- name: Firespout
   weight: 0.0556
   avg_copies: 1.0
 - name: Stern Scolding
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Scalding Tarn
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Firespout
   weight: 0.0556
   avg_copies: 1.0
 ---

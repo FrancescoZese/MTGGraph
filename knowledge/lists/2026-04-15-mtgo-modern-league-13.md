@@ -1,5 +1,5 @@
 ---
-archetype: unknown-1
+archetype: izzet-wizards
 date: '2026-04-15'
 finish: 5-0
 pilot: SvenSveeterSven

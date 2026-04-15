@@ -12,10 +12,10 @@ top_cards:
 - name: Eldritch Evolution
   weight: 1.0
   avg_copies: 4.0
-- name: Neoform
+- name: Planar Genesis
   weight: 1.0
   avg_copies: 4.0
-- name: Planar Genesis
+- name: Neoform
   weight: 1.0
   avg_copies: 4.0
 - name: Allosaurus Rider
@@ -27,10 +27,10 @@ top_cards:
 - name: Misty Rainforest
   weight: 1.0
   avg_copies: 3.54
-- name: Consign to Memory
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 3.46
-- name: Mystical Dispute
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.46
 - name: Pact of Negation
@@ -42,10 +42,10 @@ top_cards:
 - name: Hedge Maze
   weight: 1.0
   avg_copies: 2.77
-- name: Disciple of Freyalise
+- name: Ghalta, Stampede Tyrant
   weight: 1.0
   avg_copies: 2.23
-- name: Ghalta, Stampede Tyrant
+- name: Disciple of Freyalise
   weight: 1.0
   avg_copies: 2.23
 - name: Generous Ent
@@ -60,10 +60,10 @@ top_cards:
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.08
-- name: Griselbrand
+- name: Xenagos, God of Revels
   weight: 1.0
   avg_copies: 1.0
-- name: Xenagos, God of Revels
+- name: Griselbrand
   weight: 1.0
   avg_copies: 1.0
 - name: Boseiju, Who Endures
@@ -75,16 +75,16 @@ top_cards:
 - name: Hooting Mandrills
   weight: 0.9231
   avg_copies: 1.08
-- name: Snow-Covered Island
+- name: Elesh Norn, Grand Cenobite
   weight: 0.9231
   avg_copies: 1.0
-- name: Atraxa, Grand Unifier
+- name: Snow-Covered Island
   weight: 0.9231
   avg_copies: 1.0
 - name: Snow-Covered Forest
   weight: 0.9231
   avg_copies: 1.0
-- name: Elesh Norn, Grand Cenobite
+- name: Atraxa, Grand Unifier
   weight: 0.9231
   avg_copies: 1.0
 - name: Into the Flood Maw
@@ -129,31 +129,31 @@ top_cards:
 - name: Hexing Squelcher
   weight: 0.0769
   avg_copies: 4.0
+- name: Island
+  weight: 0.0769
+  avg_copies: 1.0
 - name: Preordain
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Spell Snare
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Brainsurge
   weight: 0.0769
   avg_copies: 1.0
 - name: Forest
   weight: 0.0769
   avg_copies: 1.0
+- name: Borborygmos Enraged
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Spell Snare
+  weight: 0.0769
+  avg_copies: 1.0
 - name: Windswept Heath
   weight: 0.0769
   avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Brainsurge
+  weight: 0.0769
+  avg_copies: 1.0
 - name: Commercial District
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Island
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Borborygmos Enraged
   weight: 0.0769
   avg_copies: 1.0
 ---

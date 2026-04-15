@@ -6,7 +6,10 @@ name: Broodscale Combo
 meta_share: 0.0168
 list_count: 12
 top_cards:
-- name: Eldrazi Temple
+- name: Kozilek's Command
+  weight: 1.0
+  avg_copies: 4.0
+- name: Grove of the Burnwillows
   weight: 1.0
   avg_copies: 4.0
 - name: Malevolent Rumble
@@ -18,10 +21,7 @@ top_cards:
 - name: Basking Broodscale
   weight: 1.0
   avg_copies: 4.0
-- name: Kozilek's Command
-  weight: 1.0
-  avg_copies: 4.0
-- name: Grove of the Burnwillows
+- name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
 - name: Ancient Stirrings
@@ -51,10 +51,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.42
-- name: Haywire Mite
+- name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
 - name: Springleaf Drum
@@ -87,10 +87,10 @@ top_cards:
 - name: Damping Sphere
   weight: 0.5
   avg_copies: 2.0
-- name: Pick Your Poison
+- name: Soulless Jailer
   weight: 0.5
   avg_copies: 1.83
-- name: Soulless Jailer
+- name: Pick Your Poison
   weight: 0.5
   avg_copies: 1.83
 - name: Unholy Heat

@@ -8,7 +8,7 @@ set: afr
 type: Land
 meta_presence: 0.0014
 archetypes:
-  unknown-1:
+  izzet-wizards:
     weight: 1.0
     avg_copies: 2.0
 ---

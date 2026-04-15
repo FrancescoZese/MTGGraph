@@ -132,25 +132,25 @@ top_cards:
 - name: Scalding Tarn
   weight: 0.0882
   avg_copies: 2.67
-- name: Thundering Falls
+- name: Hurkyl's Recall
   weight: 0.0882
   avg_copies: 1.0
-- name: Hurkyl's Recall
+- name: Thundering Falls
   weight: 0.0882
   avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.0735
   avg_copies: 1.0
-- name: Salvage Titan
-  weight: 0.0441
-  avg_copies: 1.0
 - name: Haywire Mite
   weight: 0.0441
   avg_copies: 1.0
-- name: Springleaf Drum
+- name: Salvage Titan
   weight: 0.0441
   avg_copies: 1.0
 - name: Flusterstorm
+  weight: 0.0441
+  avg_copies: 1.0
+- name: Springleaf Drum
   weight: 0.0441
   avg_copies: 1.0
 - name: Snow-Covered Island
@@ -159,37 +159,37 @@ top_cards:
 - name: Furnace Dragon
   weight: 0.0294
   avg_copies: 1.5
-- name: Otawara, Soaring City
+- name: Lavaspur Boots
   weight: 0.0294
   avg_copies: 1.0
 - name: Vandalblast
   weight: 0.0294
   avg_copies: 1.0
-- name: Lavaspur Boots
+- name: Otawara, Soaring City
   weight: 0.0294
   avg_copies: 1.0
-- name: Detect Intrusion
+- name: Shattering Spree
   weight: 0.0147
   avg_copies: 2.0
-- name: Shattering Spree
+- name: Detect Intrusion
   weight: 0.0147
   avg_copies: 2.0
 - name: Glimmervoid
   weight: 0.0147
   avg_copies: 2.0
-- name: Jokulmorder
-  weight: 0.0147
-  avg_copies: 1.0
 - name: Void Mirror
   weight: 0.0147
   avg_copies: 1.0
-- name: Chandra, Spark Hunter
+- name: Ghirapur Aether Grid
   weight: 0.0147
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.0147
   avg_copies: 1.0
-- name: Ghirapur Aether Grid
+- name: Jokulmorder
+  weight: 0.0147
+  avg_copies: 1.0
+- name: Chandra, Spark Hunter
   weight: 0.0147
   avg_copies: 1.0
 ---

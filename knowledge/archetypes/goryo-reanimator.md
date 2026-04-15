@@ -56,31 +56,31 @@ top_cards:
 - name: Griselbrand
   weight: 1.0
   avg_copies: 1.05
-- name: Plains
-  weight: 1.0
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 1.0
-  avg_copies: 1.0
-- name: Godless Shrine
-  weight: 1.0
-  avg_copies: 1.0
 - name: Undercity Sewers
-  weight: 1.0
-  avg_copies: 1.0
-- name: Swamp
-  weight: 1.0
-  avg_copies: 1.0
-- name: Shadowy Backstreet
-  weight: 1.0
-  avg_copies: 1.0
-- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
 - name: Island
   weight: 1.0
   avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 1.0
+  avg_copies: 1.0
+- name: Swamp
+  weight: 1.0
+  avg_copies: 1.0
+- name: Plains
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shadowy Backstreet
+  weight: 1.0
+  avg_copies: 1.0
+- name: Godless Shrine
+  weight: 1.0
+  avg_copies: 1.0
 - name: Watery Grave
+  weight: 1.0
+  avg_copies: 1.0
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Quantum Riddler
@@ -146,7 +146,13 @@ top_cards:
 - name: No More Lies
   weight: 0.0455
   avg_copies: 2.0
+- name: Toxic Deluge
+  weight: 0.0455
+  avg_copies: 1.0
 - name: Winternight Stories
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Unburial Rites
   weight: 0.0455
   avg_copies: 1.0
 - name: Overgrown Tomb
@@ -155,19 +161,13 @@ top_cards:
 - name: Subtlety
   weight: 0.0455
   avg_copies: 1.0
-- name: Arcbound Ravager
-  weight: 0.0455
-  avg_copies: 1.0
 - name: Damn
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Unburial Rites
   weight: 0.0455
   avg_copies: 1.0
 - name: Cephalid Coliseum
   weight: 0.0455
   avg_copies: 1.0
-- name: Toxic Deluge
+- name: Arcbound Ravager
   weight: 0.0455
   avg_copies: 1.0
 ---

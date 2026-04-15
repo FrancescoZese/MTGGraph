@@ -147,10 +147,10 @@ top_cards:
 - name: Witch Enchanter
   weight: 0.0318
   avg_copies: 1.2
-- name: Snow-Covered Mountain
+- name: Destroy Evil
   weight: 0.0318
   avg_copies: 1.0
-- name: Destroy Evil
+- name: Snow-Covered Mountain
   weight: 0.0318
   avg_copies: 1.0
 - name: Snow-Covered Plains
@@ -177,16 +177,19 @@ top_cards:
 - name: Wear
   weight: 0.0127
   avg_copies: 2.0
-- name: Showdown of the Skalds
+- name: Aven Mindcensor
   weight: 0.0127
   avg_copies: 1.0
-- name: Aven Mindcensor
+- name: Showdown of the Skalds
   weight: 0.0127
   avg_copies: 1.0
 - name: Starfield Shepherd
   weight: 0.0064
   avg_copies: 4.0
-- name: Screaming Nemesis
+- name: Stony Silence
+  weight: 0.0064
+  avg_copies: 2.0
+- name: White Orchid Phantom
   weight: 0.0064
   avg_copies: 2.0
 - name: Reprieve
@@ -204,13 +207,10 @@ top_cards:
 - name: The Battle of Bywater
   weight: 0.0064
   avg_copies: 2.0
-- name: White Orchid Phantom
+- name: Screaming Nemesis
   weight: 0.0064
   avg_copies: 2.0
-- name: Stony Silence
-  weight: 0.0064
-  avg_copies: 2.0
-- name: Prismatic Ending
+- name: The Ooze
   weight: 0.0064
   avg_copies: 1.0
 - name: The Wandering Emperor
@@ -219,25 +219,25 @@ top_cards:
 - name: Duty Beyond Death
   weight: 0.0064
   avg_copies: 1.0
-- name: Elspeth, Storm Slayer
+- name: Curious Farm Animals
   weight: 0.0064
   avg_copies: 1.0
 - name: Giant Killer
   weight: 0.0064
   avg_copies: 1.0
-- name: The Ooze
+- name: Prismatic Ending
   weight: 0.0064
   avg_copies: 1.0
-- name: Curious Farm Animals
-  weight: 0.0064
-  avg_copies: 1.0
-- name: Hallowed Moonlight
+- name: Elspeth, Storm Slayer
   weight: 0.0064
   avg_copies: 1.0
 - name: Ghost Vacuum
   weight: 0.0064
   avg_copies: 1.0
 - name: Cool but Rude
+  weight: 0.0064
+  avg_copies: 1.0
+- name: Hallowed Moonlight
   weight: 0.0064
   avg_copies: 1.0
 ---
