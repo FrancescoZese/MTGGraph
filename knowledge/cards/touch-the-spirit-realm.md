@@ -7,9 +7,9 @@ name: Touch the Spirit Realm
 scryfall_id: e16ab44e-4257-4c0c-b705-8ac1e9c1d835
 set: neo
 type: Enchantment
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   eldrazi-tron:
-    weight: 0.0357
+    weight: 0.0312
     avg_copies: 2.0
 ---

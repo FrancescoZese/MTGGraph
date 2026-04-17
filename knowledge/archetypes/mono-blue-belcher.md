@@ -2,16 +2,10 @@
 colors:
 - U
 name: Mono Blue Belcher
-meta_share: 0.0251
+meta_share: 0.023
 list_count: 18
 top_cards:
-- name: Lotus Bloom
-  weight: 1.0
-  avg_copies: 4.0
 - name: Suppression Ray
-  weight: 1.0
-  avg_copies: 4.0
-- name: Goblin Charbelcher
   weight: 1.0
   avg_copies: 4.0
 - name: Hydroelectric Specimen
@@ -20,7 +14,13 @@ top_cards:
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 4.0
+- name: Goblin Charbelcher
+  weight: 1.0
+  avg_copies: 4.0
 - name: Whir of Invention
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lotus Bloom
   weight: 1.0
   avg_copies: 4.0
 - name: Tameshi, Reality Architect
@@ -104,10 +104,10 @@ top_cards:
 - name: Commandeer
   weight: 0.2778
   avg_copies: 1.6
-- name: Grafdigger's Cage
+- name: Spell Pierce
   weight: 0.2778
   avg_copies: 1.0
-- name: Spell Pierce
+- name: Grafdigger's Cage
   weight: 0.2778
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
@@ -128,13 +128,13 @@ top_cards:
 - name: Witch Enchanter
   weight: 0.0556
   avg_copies: 1.0
-- name: Displacement Wave
+- name: Hope of Ghirapur
   weight: 0.0556
   avg_copies: 1.0
 - name: Portable Hole
   weight: 0.0556
   avg_copies: 1.0
-- name: Hope of Ghirapur
+- name: Displacement Wave
   weight: 0.0556
   avg_copies: 1.0
 ---

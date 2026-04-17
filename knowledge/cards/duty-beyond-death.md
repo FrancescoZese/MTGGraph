@@ -7,9 +7,9 @@ name: Duty Beyond Death
 scryfall_id: 2e92640d-768b-4357-905f-bea017d351cc
 set: tdm
 type: Instant
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   boros-energy:
-    weight: 0.0064
+    weight: 0.0059
     avg_copies: 1.0
 ---

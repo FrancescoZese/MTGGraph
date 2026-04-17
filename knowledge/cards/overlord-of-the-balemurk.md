@@ -10,13 +10,13 @@ type: Enchantment Creature — Avatar Horror
 meta_presence: 0.0307
 archetypes:
   living-end:
-    weight: 0.5
+    weight: 0.5333
     avg_copies: 4.0
   mardu-blink:
     weight: 1.0
     avg_copies: 4.0
   hollow-one:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 1.0
   esper-blink:
     weight: 1.0

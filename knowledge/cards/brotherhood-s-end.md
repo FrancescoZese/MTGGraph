@@ -7,10 +7,10 @@ name: Brotherhood's End
 scryfall_id: 50f7666d-0d60-4fe5-b144-286d4e47b704
 set: bro
 type: Sorcery
-meta_presence: 0.0391
+meta_presence: 0.0371
 archetypes:
   ruby-storm:
-    weight: 0.8421
+    weight: 0.8
     avg_copies: 1.44
   mono-red-belcher:
     weight: 1.0
@@ -27,4 +27,7 @@ archetypes:
   rakdos-reanimator:
     weight: 1.0
     avg_copies: 1.0
+  unknown-1:
+    weight: 1.0
+    avg_copies: 2.0
 ---

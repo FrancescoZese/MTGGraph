@@ -7,7 +7,7 @@ name: Voldaren Epicure
 scryfall_id: e8fe855c-fe94-4de7-a033-9892a9d6ee0e
 set: inr
 type: Creature — Vampire
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   rakdos-reanimator:
     weight: 1.0

@@ -12,5 +12,5 @@ meta_presence: 0.0307
 archetypes:
   goryo-reanimator:
     weight: 1.0
-    avg_copies: 3.18
+    avg_copies: 3.08
 ---

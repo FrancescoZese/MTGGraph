@@ -6,9 +6,9 @@ name: Emeria's Call // Emeria, Shattered Skyclave
 scryfall_id: c470539a-9cc7-4175-8f7c-c982b6072b6d
 set: znr
 type: Sorcery // Land
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   eldrazi-tron:
-    weight: 0.0357
+    weight: 0.0312
     avg_copies: 3.0
 ---

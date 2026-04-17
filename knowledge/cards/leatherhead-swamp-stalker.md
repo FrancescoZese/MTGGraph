@@ -7,7 +7,7 @@ name: Leatherhead, Swamp Stalker
 scryfall_id: b1f6b5b5-12ca-468d-bc53-dd0cde60e7b6
 set: tmt
 type: Legendary Creature — Crocodile Mutant Rogue
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   mono-green-stompy:
     weight: 1.0

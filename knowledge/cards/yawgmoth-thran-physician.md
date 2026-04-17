@@ -7,12 +7,12 @@ name: Yawgmoth, Thran Physician
 scryfall_id: b5a79f5d-d0df-4799-ac3a-84305e3af0c9
 set: dmr
 type: Legendary Creature — Human Cleric
-meta_presence: 0.0154
+meta_presence: 0.0153
 archetypes:
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 3.71
   samwise-combo:
-    weight: 0.5714
-    avg_copies: 1.25
+    weight: 0.625
+    avg_copies: 1.2
 ---

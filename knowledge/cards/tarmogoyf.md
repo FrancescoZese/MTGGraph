@@ -7,7 +7,7 @@ name: Tarmogoyf
 scryfall_id: 69daba76-96e8-4bcc-ab79-2f00189ad8fb
 set: tsr
 type: Creature — Lhurgoyf
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   jund-saga:
     weight: 1.0

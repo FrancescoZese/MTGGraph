@@ -7,7 +7,7 @@ name: Elvish Warmaster
 scryfall_id: 58da074a-a776-4e3f-be04-9e7f18320ae1
 set: khm
 type: Creature — Elf Warrior
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   elves:
     weight: 1.0

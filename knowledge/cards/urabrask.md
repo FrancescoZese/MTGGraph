@@ -6,9 +6,9 @@ name: Urabrask // The Great Work
 scryfall_id: 712fb9e5-bd67-4173-a2d4-061aeb6253b5
 set: mom
 type: Legendary Creature — Phyrexian Praetor // Enchantment — Saga
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   ruby-storm:
-    weight: 0.0526
+    weight: 0.05
     avg_copies: 1.0
 ---

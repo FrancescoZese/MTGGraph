@@ -7,9 +7,9 @@ name: Timeless Dragon
 scryfall_id: 96fe8889-0ec8-421a-83a4-5d00ab4804db
 set: mh2
 type: Creature — Dragon
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   azorius-control:
-    weight: 0.0625
+    weight: 0.0588
     avg_copies: 1.0
 ---

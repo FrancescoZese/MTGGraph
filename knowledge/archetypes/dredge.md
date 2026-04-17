@@ -5,13 +5,13 @@ colors:
 - R
 - G
 name: Dredge
-meta_share: 0.0042
+meta_share: 0.0038
 list_count: 3
 top_cards:
-- name: Stinkweed Imp
+- name: Creeping Chill
   weight: 1.0
   avg_copies: 4.0
-- name: Creeping Chill
+- name: Stinkweed Imp
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
@@ -26,10 +26,10 @@ top_cards:
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 2.33
-- name: Faithless Looting
+- name: Psychic Frog
   weight: 0.6667
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Faithless Looting
   weight: 0.6667
   avg_copies: 4.0
 - name: Ox of Agonas
@@ -38,16 +38,16 @@ top_cards:
 - name: Golgari Thug
   weight: 0.6667
   avg_copies: 3.0
-- name: Steam Vents
-  weight: 0.6667
-  avg_copies: 2.5
-- name: Meltdown
+- name: Bloodstained Mire
   weight: 0.6667
   avg_copies: 2.5
 - name: Arid Mesa
   weight: 0.6667
   avg_copies: 2.5
-- name: Bloodstained Mire
+- name: Meltdown
+  weight: 0.6667
+  avg_copies: 2.5
+- name: Steam Vents
   weight: 0.6667
   avg_copies: 2.5
 - name: Cathartic Reunion
@@ -62,28 +62,16 @@ top_cards:
 - name: Wonder
   weight: 0.6667
   avg_copies: 1.0
-- name: Prized Amalgam
-  weight: 0.3333
-  avg_copies: 4.0
-- name: Vengevine
+- name: Lava Dart
   weight: 0.3333
   avg_copies: 4.0
 - name: Blazing Rootwalla
   weight: 0.3333
   avg_copies: 4.0
-- name: Artist's Talent
-  weight: 0.3333
-  avg_copies: 4.0
-- name: Lava Dart
-  weight: 0.3333
-  avg_copies: 4.0
 - name: Manamorphose
   weight: 0.3333
   avg_copies: 4.0
-- name: Hedron Crab
-  weight: 0.3333
-  avg_copies: 4.0
-- name: Stitcher's Supplier
+- name: Otherworldly Gaze
   weight: 0.3333
   avg_copies: 4.0
 - name: Life from the Loam
@@ -92,13 +80,22 @@ top_cards:
 - name: Arclight Phoenix
   weight: 0.3333
   avg_copies: 4.0
-- name: Otherworldly Gaze
+- name: Prized Amalgam
   weight: 0.3333
   avg_copies: 4.0
-- name: Darkblast
+- name: Hedron Crab
   weight: 0.3333
-  avg_copies: 3.0
-- name: Gemstone Caverns
+  avg_copies: 4.0
+- name: Artist's Talent
+  weight: 0.3333
+  avg_copies: 4.0
+- name: Vengevine
+  weight: 0.3333
+  avg_copies: 4.0
+- name: Stitcher's Supplier
+  weight: 0.3333
+  avg_copies: 4.0
+- name: Silversmote Ghoul
   weight: 0.3333
   avg_copies: 3.0
 - name: Conflagrate
@@ -107,70 +104,73 @@ top_cards:
 - name: Snow-Covered Mountain
   weight: 0.3333
   avg_copies: 3.0
-- name: Silversmote Ghoul
+- name: Seal of Fire
+  weight: 0.3333
+  avg_copies: 3.0
+- name: Gemstone Caverns
   weight: 0.3333
   avg_copies: 3.0
 - name: Narcomoeba
   weight: 0.3333
   avg_copies: 3.0
-- name: Seal of Fire
+- name: Darkblast
   weight: 0.3333
   avg_copies: 3.0
-- name: Ancient Grudge
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Pick Your Poison
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Timeline Culler
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Damping Sphere
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Collector Ouphe
-  weight: 0.3333
-  avg_copies: 2.0
 - name: Memory's Journey
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Stomping Ground
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Leyline of the Void
   weight: 0.3333
   avg_copies: 2.0
 - name: Molten Collapse
   weight: 0.3333
   avg_copies: 2.0
+- name: Leyline of the Void
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Timeline Culler
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Collector Ouphe
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Ancient Grudge
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Damping Sphere
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Pick Your Poison
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Stomping Ground
+  weight: 0.3333
+  avg_copies: 2.0
 - name: Boseiju, Who Endures
   weight: 0.3333
   avg_copies: 1.5
-- name: Detective's Phoenix
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Commercial District
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Mountain
   weight: 0.3333
   avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.3333
   avg_copies: 1.0
-- name: Watery Grave
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Flame Jab
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Tormod's Crypt
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Detective's Phoenix
   weight: 0.3333
   avg_copies: 1.0
 - name: Illness in the Ranks
   weight: 0.3333
   avg_copies: 1.0
+- name: Watery Grave
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Rough
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Flame Jab
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Commercial District
   weight: 0.3333
   avg_copies: 1.0
 ---

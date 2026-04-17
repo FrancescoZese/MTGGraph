@@ -13,12 +13,12 @@ archetypes:
     avg_copies: 2.0
   amulet-titan:
     weight: 1.0
-    avg_copies: 2.46
+    avg_copies: 2.47
   hardened-scales:
     weight: 1.0
     avg_copies: 1.67
   living-end:
-    weight: 0.5
+    weight: 0.4667
     avg_copies: 1.0
   neoform-combo:
     weight: 1.0
@@ -30,11 +30,11 @@ archetypes:
     weight: 1.0
     avg_copies: 1.86
   eldrazi-ramp:
-    weight: 0.1538
+    weight: 0.1765
     avg_copies: 1.0
   simic-ritual:
     weight: 1.0
-    avg_copies: 1.11
+    avg_copies: 1.1
   samwise-combo:
     weight: 1.0
     avg_copies: 2.0
@@ -43,7 +43,7 @@ archetypes:
     avg_copies: 1.0
   broodscale-combo:
     weight: 1.0
-    avg_copies: 1.75
+    avg_copies: 1.77
   dredge:
     weight: 0.3333
     avg_copies: 1.5
@@ -60,6 +60,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   mono-green-stompy:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-1:
     weight: 1.0
     avg_copies: 1.0
 ---

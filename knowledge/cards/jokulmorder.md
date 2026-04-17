@@ -7,9 +7,9 @@ name: Jokulmorder
 scryfall_id: a8bd1c2f-dab8-4f22-9400-a0e45618757a
 set: csp
 type: Creature — Leviathan
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   affinity:
-    weight: 0.0147
+    weight: 0.0135
     avg_copies: 1.0
 ---

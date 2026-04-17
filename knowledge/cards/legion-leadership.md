@@ -6,7 +6,7 @@ name: Legion Leadership // Legion Stronghold
 scryfall_id: 7676abd9-0a3d-4721-b17b-778d2e3c2e25
 set: mh3
 type: Instant // Land
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   mono-red-belcher:
     weight: 0.3333

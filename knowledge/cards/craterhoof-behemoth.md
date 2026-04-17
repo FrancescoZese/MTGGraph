@@ -7,7 +7,7 @@ name: Craterhoof Behemoth
 scryfall_id: 276f5cee-a501-4658-bd4d-7a044bf1ccbc
 set: tdm
 type: Creature — Beast
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   mono-green-ramp:
     weight: 1.0

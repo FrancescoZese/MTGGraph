@@ -7,9 +7,9 @@ name: Spirit of the Labyrinth
 scryfall_id: f44e5128-e146-4e46-b313-a40d82719d1d
 set: bng
 type: Enchantment Creature — Spirit
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   eldrazi-tron:
-    weight: 0.0357
+    weight: 0.0312
     avg_copies: 2.0
 ---

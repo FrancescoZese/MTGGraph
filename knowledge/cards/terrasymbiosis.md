@@ -7,7 +7,7 @@ name: Terrasymbiosis
 scryfall_id: 26008c7d-5dbe-4da2-b475-4dd307e7bc68
 set: eoe
 type: Enchantment
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   hardened-scales:
     weight: 0.3333

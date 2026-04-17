@@ -7,7 +7,7 @@ name: Nissa, Resurgent Animist
 scryfall_id: 248c76d3-b5cb-4582-be17-7cd1d0cb0f58
 set: mat
 type: Legendary Creature — Elf Scout
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   mono-green-ramp:
     weight: 1.0

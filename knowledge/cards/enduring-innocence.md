@@ -7,7 +7,7 @@ name: Enduring Innocence
 scryfall_id: 08f79439-b8f8-418f-9772-26d81844749e
 set: dsk
 type: Enchantment Creature — Sheep Glimmer
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   bant-ritual:
     weight: 1.0

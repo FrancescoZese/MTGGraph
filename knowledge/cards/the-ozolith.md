@@ -6,7 +6,7 @@ name: The Ozolith
 scryfall_id: 9341ed06-53db-4604-b60a-3ea9129afbc2
 set: iko
 type: Legendary Artifact
-meta_presence: 0.0042
+meta_presence: 0.0038
 archetypes:
   hardened-scales:
     weight: 1.0

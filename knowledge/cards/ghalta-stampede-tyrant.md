@@ -7,9 +7,9 @@ name: Ghalta, Stampede Tyrant
 scryfall_id: 72e805e9-69be-45c1-aa04-f460641a0c1e
 set: lci
 type: Legendary Creature — Elder Dinosaur
-meta_presence: 0.0182
+meta_presence: 0.0192
 archetypes:
   neoform-combo:
     weight: 1.0
-    avg_copies: 2.23
+    avg_copies: 2.2
 ---

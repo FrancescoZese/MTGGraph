@@ -2,19 +2,10 @@
 colors:
 - U
 name: Mono-Blue Tron
-meta_share: 0.0028
+meta_share: 0.0026
 list_count: 2
 top_cards:
-- name: Urza's Mine
-  weight: 1.0
-  avg_copies: 4.0
 - name: Expedition Map
-  weight: 1.0
-  avg_copies: 4.0
-- name: Urza's Tower
-  weight: 1.0
-  avg_copies: 4.0
-- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Power Plant
@@ -23,16 +14,25 @@ top_cards:
 - name: Stock Up
   weight: 1.0
   avg_copies: 4.0
+- name: Kozilek's Command
+  weight: 1.0
+  avg_copies: 4.0
+- name: Urza's Mine
+  weight: 1.0
+  avg_copies: 4.0
+- name: Urza's Tower
+  weight: 1.0
+  avg_copies: 4.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
 - name: Force of Negation
   weight: 1.0
   avg_copies: 3.0
-- name: Island
+- name: Ugin, Eye of the Storms
   weight: 1.0
   avg_copies: 2.5
-- name: Ugin, Eye of the Storms
+- name: Island
   weight: 1.0
   avg_copies: 2.5
 - name: Subtlety
@@ -41,25 +41,25 @@ top_cards:
 - name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 2.0
-- name: Sink into Stupor
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 2.0
 - name: Emrakul, the Aeons Torn
   weight: 1.0
   avg_copies: 2.0
-- name: Portent of Calamity
+- name: Condescend
   weight: 1.0
   avg_copies: 1.5
-- name: Emrakul, the Promised End
+- name: Portent of Calamity
   weight: 1.0
   avg_copies: 1.5
 - name: Hurkyl's Recall
   weight: 1.0
   avg_copies: 1.5
-- name: Condescend
+- name: Emrakul, the Promised End
   weight: 1.0
   avg_copies: 1.5
 - name: Agna Qel'a
@@ -68,7 +68,7 @@ top_cards:
 - name: Ugin's Labyrinth
   weight: 0.5
   avg_copies: 4.0
-- name: Spell Snare
+- name: Marrow Shards
   weight: 0.5
   avg_copies: 2.0
 - name: Dress Down
@@ -77,40 +77,40 @@ top_cards:
 - name: Change the Equation
   weight: 0.5
   avg_copies: 2.0
-- name: Propaganda
+- name: Spell Snare
   weight: 0.5
   avg_copies: 2.0
-- name: Marrow Shards
+- name: Propaganda
   weight: 0.5
   avg_copies: 2.0
 - name: Stern Scolding
   weight: 0.5
   avg_copies: 2.0
-- name: Surgical Extraction
-  weight: 0.5
-  avg_copies: 1.0
-- name: Boseiju, Who Shelters All
-  weight: 0.5
-  avg_copies: 1.0
-- name: Disruptor Flute
-  weight: 0.5
-  avg_copies: 1.0
-- name: Talisman of Progress
-  weight: 0.5
-  avg_copies: 1.0
-- name: Gemstone Caverns
-  weight: 0.5
-  avg_copies: 1.0
-- name: Talisman of Dominance
-  weight: 0.5
-  avg_copies: 1.0
 - name: Talisman of Curiosity
+  weight: 0.5
+  avg_copies: 1.0
+- name: Eldrazi Temple
   weight: 0.5
   avg_copies: 1.0
 - name: Abstergo Entertainment
   weight: 0.5
   avg_copies: 1.0
-- name: Eldrazi Temple
+- name: Surgical Extraction
+  weight: 0.5
+  avg_copies: 1.0
+- name: Talisman of Progress
+  weight: 0.5
+  avg_copies: 1.0
+- name: Boseiju, Who Shelters All
+  weight: 0.5
+  avg_copies: 1.0
+- name: Talisman of Dominance
+  weight: 0.5
+  avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.5
+  avg_copies: 1.0
+- name: Disruptor Flute
   weight: 0.5
   avg_copies: 1.0
 - name: Tishana's Tidebinder

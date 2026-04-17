@@ -7,13 +7,13 @@ name: Mana Tithe
 scryfall_id: 9ae707d5-d81d-4320-b947-6016dc188898
 set: tsr
 type: Instant
-meta_presence: 0.0084
+meta_presence: 0.0077
 archetypes:
   boros-energy:
-    weight: 0.0191
+    weight: 0.0176
     avg_copies: 2.0
   boros-ponza:
-    weight: 0.2857
+    weight: 0.2222
     avg_copies: 2.0
   elves:
     weight: 1.0

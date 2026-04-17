@@ -7,32 +7,32 @@ name: Subtlety
 scryfall_id: 701256d5-1389-48b7-9581-d6037209bd06
 set: mh2
 type: Creature — Elemental Incarnation
-meta_presence: 0.1187
+meta_presence: 0.1151
 archetypes:
   dimir-control:
     weight: 1.0
     avg_copies: 3.26
   dimir-frog:
     weight: 1.0
-    avg_copies: 3.09
+    avg_copies: 3.08
   jeskai-energy:
     weight: 0.0154
     avg_copies: 1.0
   goryo-reanimator:
-    weight: 0.0455
+    weight: 0.0417
     avg_copies: 1.0
   azorius-control:
-    weight: 0.5625
+    weight: 0.5294
     avg_copies: 1.78
   living-end:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.8
   mono-blue-tron:
     weight: 1.0
     avg_copies: 2.33
   simic-ritual:
     weight: 1.0
-    avg_copies: 3.83
+    avg_copies: 3.85
   4c-omnath:
     weight: 1.0
     avg_copies: 4.0
@@ -49,6 +49,9 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   izzet-wizards:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-4:
     weight: 1.0
     avg_copies: 3.0
 ---
