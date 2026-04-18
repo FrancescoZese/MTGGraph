@@ -44,7 +44,7 @@ archetypes:
   grixis-shadow:
     weight: 1.0
     avg_copies: 1.0
-  unknown-4:
+  esper-midrange:
     weight: 1.0
     avg_copies: 1.0
 ---

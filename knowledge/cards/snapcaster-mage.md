@@ -19,7 +19,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   jeskai-control:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 3.0
   izzet-splinter-twin:
     weight: 1.0

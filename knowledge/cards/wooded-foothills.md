@@ -22,7 +22,7 @@ archetypes:
     avg_copies: 1.0
   burn:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.5
   hollow-one:
     weight: 0.8
     avg_copies: 2.62
@@ -43,7 +43,7 @@ archetypes:
     avg_copies: 1.0
   indomitable-creativity:
     weight: 1.0
-    avg_copies: 2.33
+    avg_copies: 2.57
   broodscale-combo:
     weight: 0.4286
     avg_copies: 1.0
@@ -65,13 +65,7 @@ archetypes:
   mono-green-stompy:
     weight: 1.0
     avg_copies: 4.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-7:
+  naya-midrange:
     weight: 1.0
     avg_copies: 2.0
 ---

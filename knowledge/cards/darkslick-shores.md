@@ -11,7 +11,7 @@ archetypes:
   dimir-frog:
     weight: 0.6154
     avg_copies: 1.5
-  unknown-4:
+  esper-midrange:
     weight: 1.0
     avg_copies: 1.0
 ---

@@ -70,7 +70,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   indomitable-creativity:
-    weight: 0.6667
+    weight: 0.7143
     avg_copies: 2.0
   bant-control:
     weight: 1.0
@@ -84,6 +84,9 @@ archetypes:
   esper-control:
     weight: 1.0
     avg_copies: 3.0
+  izzet-cori-steel:
+    weight: 0.1
+    avg_copies: 3.0
   grixis-control:
     weight: 1.0
     avg_copies: 2.0
@@ -92,20 +95,11 @@ archetypes:
     avg_copies: 2.0
   jeskai-control:
     weight: 1.0
-    avg_copies: 3.5
+    avg_copies: 3.67
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 3.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-2:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-4:
+  esper-midrange:
     weight: 1.0
     avg_copies: 2.0
 ---

@@ -42,7 +42,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.75
   indomitable-creativity:
-    weight: 0.6667
+    weight: 0.5714
     avg_copies: 1.0
   orzhov-blink:
     weight: 1.0
@@ -62,13 +62,10 @@ archetypes:
   bant-ritual:
     weight: 1.0
     avg_copies: 1.0
-  unknown-2:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-4:
+  esper-midrange:
     weight: 1.0
     avg_copies: 1.0
-  unknown-7:
+  naya-midrange:
     weight: 1.0
     avg_copies: 1.0
 ---

@@ -84,10 +84,10 @@ top_cards:
 - name: Flooded Strand
   weight: 0.6154
   avg_copies: 2.0
-- name: Ghost Vacuum
+- name: Darkslick Shores
   weight: 0.6154
   avg_copies: 1.5
-- name: Darkslick Shores
+- name: Ghost Vacuum
   weight: 0.6154
   avg_copies: 1.5
 - name: Marsh Flats
@@ -126,19 +126,19 @@ top_cards:
 - name: Graveyard Trespasser
   weight: 0.2308
   avg_copies: 1.33
-- name: Strategic Betrayal
+- name: Damping Sphere
   weight: 0.2308
   avg_copies: 1.0
-- name: Damping Sphere
+- name: Strategic Betrayal
   weight: 0.2308
   avg_copies: 1.0
 - name: Gloomlake Verge
   weight: 0.2308
   avg_copies: 1.0
-- name: Mishra's Bauble
+- name: Moonshadow
   weight: 0.1538
   avg_copies: 4.0
-- name: Moonshadow
+- name: Mishra's Bauble
   weight: 0.1538
   avg_copies: 4.0
 - name: Bloodstained Mire
@@ -147,16 +147,16 @@ top_cards:
 - name: Pest Control
   weight: 0.1538
   avg_copies: 1.5
-- name: Shoot the Sheriff
-  weight: 0.1538
-  avg_copies: 1.0
-- name: Meticulous Archive
+- name: Field of Ruin
   weight: 0.1538
   avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 0.1538
   avg_copies: 1.0
-- name: Field of Ruin
+- name: Meticulous Archive
+  weight: 0.1538
+  avg_copies: 1.0
+- name: Shoot the Sheriff
   weight: 0.1538
   avg_copies: 1.0
 - name: Consider
@@ -165,31 +165,31 @@ top_cards:
 - name: Dress Down
   weight: 0.0769
   avg_copies: 3.0
-- name: Archmage's Charm
-  weight: 0.0769
-  avg_copies: 2.0
-- name: Strix Serenade
-  weight: 0.0769
-  avg_copies: 2.0
 - name: Thraben Charm
   weight: 0.0769
   avg_copies: 2.0
 - name: Consult the Star Charts
   weight: 0.0769
   avg_copies: 2.0
-- name: Vanishing Verse
+- name: Strix Serenade
   weight: 0.0769
-  avg_copies: 1.0
-- name: Prismatic Ending
+  avg_copies: 2.0
+- name: Archmage's Charm
   weight: 0.0769
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Celestial Purge
   weight: 0.0769
   avg_copies: 1.0
 - name: High Noon
   weight: 0.0769
   avg_copies: 1.0
+- name: Vanishing Verse
+  weight: 0.0769
+  avg_copies: 1.0
 - name: Teferi, Time Raveler
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Prismatic Ending
   weight: 0.0769
   avg_copies: 1.0
 ---

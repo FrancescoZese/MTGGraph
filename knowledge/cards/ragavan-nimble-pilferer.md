@@ -19,21 +19,21 @@ archetypes:
     weight: 0.963
     avg_copies: 3.96
   burn:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 1.0
   mardu-blink:
     weight: 1.0
     avg_copies: 3.25
+  izzet-cori-steel:
+    weight: 0.1
+    avg_copies: 4.0
   jund-saga:
     weight: 1.0
     avg_copies: 4.0
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 2.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-7:
+  naya-midrange:
     weight: 1.0
     avg_copies: 2.0
 ---

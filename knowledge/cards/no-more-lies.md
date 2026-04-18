@@ -19,7 +19,7 @@ archetypes:
   esper-blink:
     weight: 0.125
     avg_copies: 4.0
-  unknown-4:
+  esper-midrange:
     weight: 1.0
     avg_copies: 4.0
 ---

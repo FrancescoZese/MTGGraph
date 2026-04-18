@@ -61,7 +61,7 @@ archetypes:
     avg_copies: 2.0
   jeskai-control:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.67
   grixis-shadow:
     weight: 1.0
     avg_copies: 1.0
@@ -71,16 +71,4 @@ archetypes:
   izzet-wizards:
     weight: 1.0
     avg_copies: 3.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-2:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-6:
-    weight: 1.0
-    avg_copies: 2.0
 ---

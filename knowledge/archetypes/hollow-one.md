@@ -6,22 +6,22 @@ name: Hollow One
 meta_share: 0.0126
 list_count: 10
 top_cards:
+- name: Moonshadow
+  weight: 1.0
+  avg_copies: 4.0
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Hollow One
   weight: 1.0
   avg_copies: 4.0
-- name: Moonshadow
-  weight: 1.0
-  avg_copies: 4.0
-- name: Burning Inquiry
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Detective's Phoenix
   weight: 1.0
   avg_copies: 4.0
-- name: Street Wraith
+- name: Burning Inquiry
   weight: 1.0
   avg_copies: 4.0
 - name: Bloodstained Mire
@@ -117,58 +117,58 @@ top_cards:
 - name: Verdant Catacombs
   weight: 0.2
   avg_copies: 2.0
-- name: Polluted Delta
-  weight: 0.2
-  avg_copies: 1.0
 - name: Violent Urge
   weight: 0.2
   avg_copies: 1.0
-- name: Leyline of the Void
+- name: Polluted Delta
+  weight: 0.2
+  avg_copies: 1.0
+- name: Blazing Rootwalla
   weight: 0.1
   avg_copies: 4.0
 - name: Vengevine
   weight: 0.1
   avg_copies: 4.0
-- name: Blazing Rootwalla
+- name: Leyline of the Void
   weight: 0.1
   avg_copies: 4.0
-- name: Goblin Lore
-  weight: 0.1
-  avg_copies: 2.0
-- name: Magebane Lizard
-  weight: 0.1
-  avg_copies: 2.0
 - name: Stomping Ground
-  weight: 0.1
-  avg_copies: 2.0
-- name: Sheoldred's Edict
   weight: 0.1
   avg_copies: 2.0
 - name: Rough
   weight: 0.1
   avg_copies: 2.0
-- name: Unholy Heat
+- name: Goblin Lore
   weight: 0.1
   avg_copies: 2.0
 - name: Cool but Rude
   weight: 0.1
   avg_copies: 2.0
-- name: Seal of Fire
+- name: Magebane Lizard
   weight: 0.1
-  avg_copies: 1.0
-- name: Ox of Agonas
+  avg_copies: 2.0
+- name: Sheoldred's Edict
   weight: 0.1
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
+  avg_copies: 2.0
+- name: Unholy Heat
   weight: 0.1
-  avg_copies: 1.0
-- name: Barbarian Ring
+  avg_copies: 2.0
+- name: Overlord of the Balemurk
   weight: 0.1
   avg_copies: 1.0
 - name: Shattering Spree
   weight: 0.1
   avg_copies: 1.0
-- name: Overlord of the Balemurk
+- name: Ox of Agonas
+  weight: 0.1
+  avg_copies: 1.0
+- name: Barbarian Ring
+  weight: 0.1
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 0.1
+  avg_copies: 1.0
+- name: Seal of Fire
   weight: 0.1
   avg_copies: 1.0
 ---

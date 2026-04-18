@@ -20,14 +20,11 @@ archetypes:
     avg_copies: 2.0
   indomitable-creativity:
     weight: 1.0
-    avg_copies: 2.83
+    avg_copies: 2.71
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
   rakdos-reanimator:
     weight: 1.0
     avg_copies: 1.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 2.0
 ---

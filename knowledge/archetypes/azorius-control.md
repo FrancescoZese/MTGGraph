@@ -31,10 +31,10 @@ top_cards:
 - name: Plains
   weight: 1.0
   avg_copies: 1.88
-- name: Meticulous Archive
+- name: Island
   weight: 1.0
   avg_copies: 1.76
-- name: Island
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.76
 - name: Hallowed Fountain
@@ -106,10 +106,10 @@ top_cards:
 - name: Subtlety
   weight: 0.5294
   avg_copies: 1.78
-- name: Hall of Storm Giants
+- name: Kaheera, the Orphanguard
   weight: 0.5294
   avg_copies: 1.0
-- name: Kaheera, the Orphanguard
+- name: Hall of Storm Giants
   weight: 0.5294
   avg_copies: 1.0
 - name: Galvanic Discharge
@@ -124,10 +124,10 @@ top_cards:
 - name: Phlage, Titan of Fire's Fury
   weight: 0.3529
   avg_copies: 1.17
-- name: Elegant Parlor
+- name: Ashiok, Dream Render
   weight: 0.3529
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Elegant Parlor
   weight: 0.3529
   avg_copies: 1.0
 - name: Tune the Narrative
@@ -139,10 +139,10 @@ top_cards:
 - name: Mistrise Village
   weight: 0.2353
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Stern Scolding
   weight: 0.2353
   avg_copies: 1.0
-- name: Stern Scolding
+- name: Sacred Foundry
   weight: 0.2353
   avg_copies: 1.0
 - name: Damping Sphere
@@ -154,82 +154,82 @@ top_cards:
 - name: March of Otherworldly Light
   weight: 0.1765
   avg_copies: 1.25
-- name: Polluted Delta
-  weight: 0.1765
-  avg_copies: 1.0
 - name: Beza, the Bounding Spring
   weight: 0.1765
   avg_copies: 1.0
 - name: Meltdown
   weight: 0.1765
   avg_copies: 1.0
+- name: Polluted Delta
+  weight: 0.1765
+  avg_copies: 1.0
 - name: Soul-Guide Lantern
-  weight: 0.1176
-  avg_copies: 2.0
-- name: Windswept Heath
   weight: 0.1176
   avg_copies: 2.0
 - name: Marsh Flats
   weight: 0.1176
   avg_copies: 2.0
+- name: Windswept Heath
+  weight: 0.1176
+  avg_copies: 2.0
 - name: Temporary Lockdown
   weight: 0.1176
   avg_copies: 1.67
-- name: Watery Grave
+- name: Hedge Maze
   weight: 0.1176
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Watery Grave
   weight: 0.1176
   avg_copies: 1.0
 - name: Vendilion Clique
   weight: 0.1176
   avg_copies: 1.0
-- name: Suppression Ray
-  weight: 0.0588
-  avg_copies: 4.0
 - name: Thundertrap Trainer
   weight: 0.0588
   avg_copies: 4.0
-- name: Reprieve
+- name: Suppression Ray
   weight: 0.0588
-  avg_copies: 2.0
+  avg_copies: 4.0
 - name: Sink into Stupor
   weight: 0.0588
   avg_copies: 2.0
+- name: Reprieve
+  weight: 0.0588
+  avg_copies: 2.0
+- name: Jace, the Mind Sculptor
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Tamiyo, Inquisitive Student
+  weight: 0.0588
+  avg_copies: 1.0
+- name: The Wandering Emperor
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Wan Shi Tong, Librarian
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Get Lost
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Breeding Pool
+  weight: 0.0588
+  avg_copies: 1.0
 - name: Timeless Dragon
   weight: 0.0588
   avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.0588
   avg_copies: 1.0
-- name: Disruptor Flute
+- name: Wear
   weight: 0.0588
   avg_copies: 1.0
-- name: Jace, the Mind Sculptor
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Wan Shi Tong, Librarian
-  weight: 0.0588
-  avg_copies: 1.0
-- name: The Wandering Emperor
+- name: Dress Down
   weight: 0.0588
   avg_copies: 1.0
 - name: Celestial Colonnade
   weight: 0.0588
   avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Wear
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Get Lost
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Dress Down
+- name: Disruptor Flute
   weight: 0.0588
   avg_copies: 1.0
 ---

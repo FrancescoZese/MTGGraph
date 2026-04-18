@@ -10,6 +10,6 @@ type: Legendary Creature — Elder Demon
 meta_presence: 0.0038
 archetypes:
   indomitable-creativity:
-    weight: 0.5
+    weight: 0.4286
     avg_copies: 1.0
 ---

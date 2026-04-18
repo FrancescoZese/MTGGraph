@@ -19,7 +19,7 @@ archetypes:
   orzhov-blink:
     weight: 0.5
     avg_copies: 2.67
-  unknown-4:
+  esper-midrange:
     weight: 1.0
     avg_copies: 4.0
 ---

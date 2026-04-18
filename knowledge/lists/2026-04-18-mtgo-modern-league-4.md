@@ -1,5 +1,5 @@
 ---
-archetype: unknown-7
+archetype: naya-midrange
 date: '2026-04-18'
 finish: 5-0
 pilot: nathanb1992

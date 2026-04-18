@@ -27,6 +27,9 @@ archetypes:
   grixis-reanimator:
     weight: 1.0
     avg_copies: 2.0
+  burn:
+    weight: 0.25
+    avg_copies: 2.0
   hollow-one:
     weight: 1.0
     avg_copies: 2.3
@@ -48,6 +51,9 @@ archetypes:
   sultai-artifacts:
     weight: 0.1
     avg_copies: 1.0
+  izzet-cori-steel:
+    weight: 0.1
+    avg_copies: 3.0
   grixis-control:
     weight: 1.0
     avg_copies: 2.0
@@ -58,12 +64,6 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   izzet-splinter-twin:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-5:
     weight: 1.0
     avg_copies: 2.0
 ---

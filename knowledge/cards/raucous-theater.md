@@ -15,8 +15,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   burn:
-    weight: 0.3333
-    avg_copies: 2.0
+    weight: 0.5
+    avg_copies: 1.5
   mardu-blink:
     weight: 1.0
     avg_copies: 1.0
@@ -24,7 +24,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.1
   indomitable-creativity:
-    weight: 0.1667
+    weight: 0.2857
     avg_copies: 1.0
   orzhov-blink:
     weight: 0.25
@@ -38,10 +38,4 @@ archetypes:
   rakdos-reanimator:
     weight: 1.0
     avg_copies: 2.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 1.0
 ---

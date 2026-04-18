@@ -45,7 +45,7 @@ archetypes:
     weight: 0.8824
     avg_copies: 1.93
   burn:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 2.0
   mardu-blink:
     weight: 0.75
@@ -95,10 +95,10 @@ archetypes:
   bant-ritual:
     weight: 1.0
     avg_copies: 2.0
-  unknown-4:
+  esper-midrange:
     weight: 1.0
     avg_copies: 2.0
-  unknown-7:
+  naya-midrange:
     weight: 1.0
     avg_copies: 2.0
 ---

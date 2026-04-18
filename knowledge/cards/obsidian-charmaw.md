@@ -19,8 +19,8 @@ archetypes:
     weight: 0.3704
     avg_copies: 1.9
   burn:
-    weight: 0.3333
-    avg_copies: 1.0
+    weight: 0.5
+    avg_copies: 2.0
   mardu-blink:
     weight: 0.75
     avg_copies: 2.33
@@ -40,7 +40,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   jeskai-control:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 2.0
   rakdos-steel-cutter:
     weight: 1.0
@@ -48,10 +48,7 @@ archetypes:
   rakdos-reanimator:
     weight: 1.0
     avg_copies: 3.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-7:
+  naya-midrange:
     weight: 1.0
     avg_copies: 2.0
 ---

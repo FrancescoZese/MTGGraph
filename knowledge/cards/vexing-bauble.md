@@ -72,7 +72,7 @@ archetypes:
     weight: 0.3
     avg_copies: 1.0
   izzet-cori-steel:
-    weight: 0.75
+    weight: 0.7
     avg_copies: 1.0
   elves:
     weight: 1.0
@@ -95,7 +95,4 @@ archetypes:
   bant-ritual:
     weight: 1.0
     avg_copies: 2.0
-  unknown-6:
-    weight: 1.0
-    avg_copies: 1.0
 ---

@@ -18,7 +18,7 @@ archetypes:
   sultai-artifacts:
     weight: 0.2
     avg_copies: 2.0
-  unknown-7:
+  naya-midrange:
     weight: 1.0
     avg_copies: 1.0
 ---

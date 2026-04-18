@@ -25,15 +25,15 @@ archetypes:
     weight: 1.0
     avg_copies: 3.78
   indomitable-creativity:
-    weight: 0.8333
+    weight: 0.7143
     avg_copies: 3.8
   grixis-control:
     weight: 1.0
     avg_copies: 4.0
   jeskai-control:
-    weight: 1.0
+    weight: 0.6667
     avg_copies: 4.0
-  unknown-7:
+  naya-midrange:
     weight: 1.0
     avg_copies: 4.0
 ---

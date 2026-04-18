@@ -12,22 +12,22 @@ top_cards:
 - name: Path to Exile
   weight: 1.0
   avg_copies: 4.0
-- name: Demolition Field
+- name: Field of Ruin
   weight: 1.0
   avg_copies: 3.78
 - name: Cleansing Wildfire
   weight: 1.0
   avg_copies: 3.78
+- name: Demolition Field
+  weight: 1.0
+  avg_copies: 3.78
 - name: Galvanic Discharge
   weight: 1.0
   avg_copies: 3.78
-- name: Field of Ruin
-  weight: 1.0
-  avg_copies: 3.78
-- name: Cori Mountain Monastery
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 3.44
-- name: Wrath of the Skies
+- name: Cori Mountain Monastery
   weight: 1.0
   avg_copies: 3.44
 - name: White Orchid Phantom
@@ -42,25 +42,25 @@ top_cards:
 - name: Sunken Citadel
   weight: 1.0
   avg_copies: 2.22
+- name: Celestial Purge
+  weight: 1.0
+  avg_copies: 2.0
+- name: Wear
+  weight: 1.0
+  avg_copies: 2.0
 - name: Phlage, Titan of Fire's Fury
   weight: 1.0
   avg_copies: 2.0
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 2.0
-- name: Wear
-  weight: 1.0
-  avg_copies: 2.0
-- name: Celestial Purge
-  weight: 1.0
-  avg_copies: 2.0
 - name: Orim's Chant
   weight: 1.0
   avg_copies: 1.53
-- name: Mountain
+- name: The Legend of Roku
   weight: 1.0
   avg_copies: 1.33
-- name: The Legend of Roku
+- name: Mountain
   weight: 1.0
   avg_copies: 1.33
 - name: High Noon
@@ -84,10 +84,10 @@ top_cards:
 - name: Sunbaked Canyon
   weight: 0.3333
   avg_copies: 1.0
-- name: Reprieve
+- name: Sunbillow Verge
   weight: 0.2222
   avg_copies: 3.0
-- name: Sunbillow Verge
+- name: Reprieve
   weight: 0.2222
   avg_copies: 3.0
 - name: Mana Tithe
@@ -96,25 +96,25 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.2222
   avg_copies: 2.0
-- name: Ghost Quarter
-  weight: 0.2222
-  avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.2222
-  avg_copies: 1.0
 - name: Wrath of God
   weight: 0.2222
   avg_copies: 1.0
 - name: Meltdown
   weight: 0.2222
   avg_copies: 1.0
-- name: Settle the Wreckage
-  weight: 0.1111
-  avg_copies: 2.0
+- name: Ghost Quarter
+  weight: 0.2222
+  avg_copies: 1.0
+- name: Surgical Extraction
+  weight: 0.2222
+  avg_copies: 1.0
 - name: March of Otherworldly Light
   weight: 0.1111
   avg_copies: 2.0
 - name: Prismatic Ending
+  weight: 0.1111
+  avg_copies: 2.0
+- name: Settle the Wreckage
   weight: 0.1111
   avg_copies: 2.0
 ---

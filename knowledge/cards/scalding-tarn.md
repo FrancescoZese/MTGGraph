@@ -36,7 +36,7 @@ archetypes:
     weight: 0.7333
     avg_copies: 1.55
   burn:
-    weight: 1.0
+    weight: 0.75
     avg_copies: 1.67
   hollow-one:
     weight: 0.3
@@ -49,7 +49,7 @@ archetypes:
     avg_copies: 2.83
   indomitable-creativity:
     weight: 1.0
-    avg_copies: 2.67
+    avg_copies: 2.43
   dredge:
     weight: 1.0
     avg_copies: 3.67
@@ -57,7 +57,7 @@ archetypes:
     weight: 0.9
     avg_copies: 3.67
   izzet-cori-steel:
-    weight: 0.125
+    weight: 0.3
     avg_copies: 4.0
   grixis-control:
     weight: 1.0
@@ -66,8 +66,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   jeskai-control:
-    weight: 0.5
-    avg_copies: 3.0
+    weight: 0.6667
+    avg_copies: 2.0
   grixis-shadow:
     weight: 1.0
     avg_copies: 3.0
@@ -78,18 +78,6 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   izzet-wizards:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-2:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-6:
     weight: 1.0
     avg_copies: 4.0
 ---

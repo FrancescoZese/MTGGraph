@@ -1,5 +1,5 @@
 ---
-archetype: unknown-1
+archetype: indomitable-creativity
 date: '2026-04-16'
 finish: 5-0
 pilot: Elfu

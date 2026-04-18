@@ -42,12 +42,12 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   izzet-cori-steel:
-    weight: 1.0
+    weight: 0.8
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
-  unknown-2:
-    weight: 1.0
+  jeskai-control:
+    weight: 0.3333
     avg_copies: 3.0
 ---

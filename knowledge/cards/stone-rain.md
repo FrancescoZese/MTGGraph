@@ -9,7 +9,7 @@ set: 9ed
 type: Sorcery
 meta_presence: 0.0013
 archetypes:
-  unknown-7:
+  naya-midrange:
     weight: 1.0
     avg_copies: 1.0
 ---

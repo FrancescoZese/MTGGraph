@@ -46,12 +46,12 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.5
   jeskai-control:
-    weight: 1.0
+    weight: 0.6667
     avg_copies: 2.67
   bant-ritual:
     weight: 1.0
     avg_copies: 2.0
-  unknown-7:
+  naya-midrange:
     weight: 1.0
     avg_copies: 4.0
 ---

@@ -11,8 +11,5 @@ meta_presence: 0.005
 archetypes:
   burn:
     weight: 1.0
-    avg_copies: 3.67
-  unknown-5:
-    weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.75
 ---

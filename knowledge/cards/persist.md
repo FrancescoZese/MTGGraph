@@ -19,12 +19,9 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   indomitable-creativity:
-    weight: 0.1667
+    weight: 0.2857
     avg_copies: 4.0
   rakdos-reanimator:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-1:
     weight: 1.0
     avg_copies: 4.0
 ---

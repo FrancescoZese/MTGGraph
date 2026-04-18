@@ -6,39 +6,36 @@ name: Elves
 meta_share: 0.0013
 list_count: 1
 top_cards:
-- name: Quirion Ranger
+- name: Nature's Rhythm
   weight: 1.0
   avg_copies: 4.0
 - name: Devoted Druid
   weight: 1.0
   avg_copies: 4.0
+- name: Quirion Ranger
+  weight: 1.0
+  avg_copies: 4.0
 - name: Priest of Titania
   weight: 1.0
   avg_copies: 4.0
-- name: Nature's Rhythm
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mana Tithe
-  weight: 1.0
-  avg_copies: 3.0
 - name: Llanowar Elves
   weight: 1.0
   avg_copies: 3.0
-- name: Elvish Mystic
-  weight: 1.0
-  avg_copies: 3.0
-- name: Forest
+- name: Mana Tithe
   weight: 1.0
   avg_copies: 3.0
 - name: Chord of Calling
   weight: 1.0
   avg_copies: 3.0
+- name: Forest
+  weight: 1.0
+  avg_copies: 3.0
 - name: Path to Exile
   weight: 1.0
   avg_copies: 3.0
-- name: Force of Vigor
+- name: Elvish Mystic
   weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Windswept Heath
   weight: 1.0
   avg_copies: 2.0
@@ -48,10 +45,10 @@ top_cards:
 - name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 2.0
-- name: Misty Rainforest
+- name: Cavern of Souls
   weight: 1.0
   avg_copies: 2.0
-- name: Cavern of Souls
+- name: Force of Vigor
   weight: 1.0
   avg_copies: 2.0
 - name: Vizier of Remedies
@@ -63,25 +60,40 @@ top_cards:
 - name: Ezuri, Renegade Leader
   weight: 1.0
   avg_copies: 2.0
-- name: Temple Garden
+- name: Misty Rainforest
+  weight: 1.0
+  avg_copies: 2.0
+- name: Damping Sphere
   weight: 1.0
   avg_copies: 1.0
-- name: Verdant Catacombs
+- name: Sanctifier en-Vec
   weight: 1.0
   avg_copies: 1.0
 - name: Wooded Foothills
   weight: 1.0
   avg_copies: 1.0
-- name: Damping Sphere
+- name: Suncleanser
   weight: 1.0
   avg_copies: 1.0
-- name: Drannith Magistrate
+- name: High Noon
+  weight: 1.0
+  avg_copies: 1.0
+- name: Endurance
+  weight: 1.0
+  avg_copies: 1.0
+- name: Formidable Speaker
+  weight: 1.0
+  avg_copies: 1.0
+- name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
 - name: Sylvan Safekeeper
   weight: 1.0
   avg_copies: 1.0
-- name: Yavimaya, Cradle of Growth
+- name: Drannith Magistrate
+  weight: 1.0
+  avg_copies: 1.0
+- name: Lush Portico
   weight: 1.0
   avg_copies: 1.0
 - name: Skyclave Apparition
@@ -90,34 +102,22 @@ top_cards:
 - name: Disruptor Flute
   weight: 1.0
   avg_copies: 1.0
-- name: Formidable Speaker
-  weight: 1.0
-  avg_copies: 1.0
-- name: Suncleanser
-  weight: 1.0
-  avg_copies: 1.0
-- name: Lush Portico
-  weight: 1.0
-  avg_copies: 1.0
-- name: Endurance
-  weight: 1.0
-  avg_copies: 1.0
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.0
-- name: High Noon
-  weight: 1.0
-  avg_copies: 1.0
-- name: Sanctifier en-Vec
-  weight: 1.0
-  avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 1.0
-  avg_copies: 1.0
-- name: Fracturing Gust
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 - name: Vexing Bauble
+  weight: 1.0
+  avg_copies: 1.0
+- name: Yavimaya, Cradle of Growth
+  weight: 1.0
+  avg_copies: 1.0
+- name: Verdant Catacombs
+  weight: 1.0
+  avg_copies: 1.0
+- name: Fracturing Gust
   weight: 1.0
   avg_copies: 1.0
 ---

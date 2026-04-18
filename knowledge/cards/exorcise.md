@@ -12,7 +12,7 @@ archetypes:
   boros-energy:
     weight: 0.1395
     avg_copies: 1.0
-  unknown-7:
+  naya-midrange:
     weight: 1.0
     avg_copies: 1.0
 ---

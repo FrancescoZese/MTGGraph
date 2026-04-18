@@ -13,13 +13,13 @@ archetypes:
   izzet-prowess:
     weight: 0.9
     avg_copies: 3.96
+  izzet-cori-steel:
+    weight: 0.1
+    avg_copies: 4.0
   grixis-shadow:
     weight: 1.0
     avg_copies: 3.0
   izzet-wizards:
     weight: 1.0
     avg_copies: 2.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 4.0
 ---

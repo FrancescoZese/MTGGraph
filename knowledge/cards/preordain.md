@@ -31,18 +31,15 @@ archetypes:
     weight: 0.1
     avg_copies: 3.0
   izzet-cori-steel:
-    weight: 1.0
-    avg_copies: 3.62
+    weight: 0.9
+    avg_copies: 3.67
   izzet-eldrazi:
     weight: 1.0
     avg_copies: 3.0
   izzet-wizards:
     weight: 1.0
     avg_copies: 2.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-4:
+  esper-midrange:
     weight: 1.0
     avg_copies: 2.0
 ---

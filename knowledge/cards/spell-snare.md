@@ -40,7 +40,7 @@ archetypes:
     weight: 0.3667
     avg_copies: 1.27
   indomitable-creativity:
-    weight: 0.8333
+    weight: 0.7143
     avg_copies: 1.8
   esper-control:
     weight: 1.0
@@ -52,7 +52,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 2.0
   izzet-splinter-twin:
     weight: 1.0
@@ -60,7 +60,7 @@ archetypes:
   izzet-wizards:
     weight: 1.0
     avg_copies: 1.5
-  unknown-4:
+  esper-midrange:
     weight: 1.0
     avg_copies: 1.5
 ---

@@ -16,8 +16,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.88
   burn:
-    weight: 0.3333
-    avg_copies: 2.0
+    weight: 0.5
+    avg_copies: 3.0
   simic-ritual:
     weight: 0.05
     avg_copies: 3.0
@@ -28,7 +28,7 @@ archetypes:
     weight: 0.2
     avg_copies: 1.5
   izzet-cori-steel:
-    weight: 0.125
+    weight: 0.1
     avg_copies: 2.0
   jund-saga:
     weight: 1.0
@@ -36,7 +36,4 @@ archetypes:
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 3.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 4.0
 ---

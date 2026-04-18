@@ -25,12 +25,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.53
   indomitable-creativity:
-    weight: 0.3333
+    weight: 0.2857
     avg_copies: 3.0
   jeskai-control:
     weight: 1.0
-    avg_copies: 2.67
-  unknown-2:
-    weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.0
 ---

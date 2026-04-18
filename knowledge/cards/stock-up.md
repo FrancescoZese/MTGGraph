@@ -27,7 +27,7 @@ archetypes:
   izzet-eldrazi:
     weight: 1.0
     avg_copies: 4.0
-  unknown-2:
-    weight: 1.0
+  jeskai-control:
+    weight: 0.3333
     avg_copies: 3.0
 ---

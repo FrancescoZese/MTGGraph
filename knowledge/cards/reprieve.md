@@ -19,9 +19,9 @@ archetypes:
     weight: 0.2222
     avg_copies: 3.0
   indomitable-creativity:
-    weight: 0.8333
+    weight: 0.7143
     avg_copies: 2.6
-  unknown-7:
+  naya-midrange:
     weight: 1.0
     avg_copies: 4.0
 ---

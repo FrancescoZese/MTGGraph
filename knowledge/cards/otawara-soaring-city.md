@@ -47,19 +47,16 @@ archetypes:
   esper-control:
     weight: 1.0
     avg_copies: 1.0
+  izzet-cori-steel:
+    weight: 0.2
+    avg_copies: 1.0
   grixis-control:
     weight: 1.0
     avg_copies: 1.0
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 1.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-4:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-6:
+  esper-midrange:
     weight: 1.0
     avg_copies: 1.0
 ---

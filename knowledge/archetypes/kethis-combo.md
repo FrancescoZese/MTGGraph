@@ -8,25 +8,25 @@ name: Kethis Combo
 meta_share: 0.0038
 list_count: 3
 top_cards:
-- name: Kethis, the Hidden Hand
-  weight: 1.0
-  avg_copies: 4.0
 - name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
-- name: Emry, Lurker of the Loch
+- name: Kethis, the Hidden Hand
   weight: 1.0
   avg_copies: 4.0
 - name: Plaza of Heroes
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Emry, Lurker of the Loch
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Amber
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Misty Rainforest
@@ -50,34 +50,28 @@ top_cards:
 - name: Dismember
   weight: 1.0
   avg_copies: 2.0
-- name: Flooded Strand
+- name: Jace, the Perfected Mind
   weight: 1.0
   avg_copies: 1.67
-- name: Jace, the Perfected Mind
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 1.67
 - name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 1.5
-- name: Watery Grave
-  weight: 1.0
-  avg_copies: 1.0
-- name: Temple Garden
-  weight: 1.0
-  avg_copies: 1.0
-- name: Vexing Bauble
-  weight: 1.0
-  avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 1.0
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Island
+  weight: 1.0
+  avg_copies: 1.0
+- name: Watery Grave
+  weight: 1.0
+  avg_copies: 1.0
+- name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
 - name: Gran-Gran
-  weight: 1.0
-  avg_copies: 1.0
-- name: Sewer-veillance Cam
   weight: 1.0
   avg_copies: 1.0
 - name: Skateboard
@@ -89,43 +83,49 @@ top_cards:
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Otawara, Soaring City
+  weight: 1.0
+  avg_copies: 1.0
+- name: Sewer-veillance Cam
   weight: 1.0
   avg_copies: 1.0
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Temple Garden
+  weight: 1.0
+  avg_copies: 1.0
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.0
 - name: Consign to Memory
   weight: 0.6667
   avg_copies: 2.5
-- name: Strix Serenade
+- name: Rona, Herald of Invasion
   weight: 0.6667
   avg_copies: 1.0
-- name: Rona, Herald of Invasion
+- name: Strix Serenade
   weight: 0.6667
   avg_copies: 1.0
 - name: Drannith Magistrate
   weight: 0.3333
   avg_copies: 2.0
-- name: Dredger's Insight
+- name: Lluwen, Imperfect Naturalist
   weight: 0.3333
   avg_copies: 1.0
-- name: Urza's Ruinous Blast
+- name: Dredger's Insight
   weight: 0.3333
   avg_copies: 1.0
 - name: Phelia, Exuberant Shepherd
   weight: 0.3333
   avg_copies: 1.0
-- name: Lluwen, Imperfect Naturalist
+- name: The Meathook Massacre
   weight: 0.3333
   avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.3333
   avg_copies: 1.0
-- name: The Meathook Massacre
+- name: Urza's Ruinous Blast
   weight: 0.3333
   avg_copies: 1.0
 ---

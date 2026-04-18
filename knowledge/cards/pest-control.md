@@ -25,7 +25,7 @@ archetypes:
   esper-control:
     weight: 1.0
     avg_copies: 1.5
-  unknown-4:
+  esper-midrange:
     weight: 1.0
     avg_copies: 3.0
 ---

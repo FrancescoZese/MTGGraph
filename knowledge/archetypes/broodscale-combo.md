@@ -45,10 +45,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.41
-- name: Soul-Guide Lantern
+- name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 1.0
 - name: Springleaf Drum
@@ -60,10 +60,10 @@ top_cards:
 - name: Walking Ballista
   weight: 0.9286
   avg_copies: 2.31
-- name: Gemstone Caverns
+- name: Pithing Needle
   weight: 0.8571
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Gemstone Caverns
   weight: 0.8571
   avg_copies: 1.0
 - name: Grafdigger's Cage
@@ -126,10 +126,10 @@ top_cards:
 - name: Writhing Chrysalis
   weight: 0.2143
   avg_copies: 2.67
-- name: Sire of Seven Deaths
+- name: Misty Rainforest
   weight: 0.2143
   avg_copies: 1.33
-- name: Misty Rainforest
+- name: Sire of Seven Deaths
   weight: 0.2143
   avg_copies: 1.33
 - name: Ugin, Eye of the Storms
@@ -141,10 +141,10 @@ top_cards:
 - name: Thought-Knot Seer
   weight: 0.0714
   avg_copies: 2.5
-- name: Ghost Quarter
+- name: Bojuka Bog
   weight: 0.0714
   avg_copies: 1.0
-- name: Bojuka Bog
+- name: Ghost Quarter
   weight: 0.0714
   avg_copies: 1.0
 ---

@@ -9,10 +9,10 @@ name: Neoform Combo
 meta_share: 0.0189
 list_count: 15
 top_cards:
-- name: Planar Genesis
+- name: Eldritch Evolution
   weight: 1.0
   avg_copies: 4.0
-- name: Eldritch Evolution
+- name: Planar Genesis
   weight: 1.0
   avg_copies: 4.0
 - name: Neoform
@@ -21,10 +21,10 @@ top_cards:
 - name: Allosaurus Rider
   weight: 1.0
   avg_copies: 3.93
-- name: Misty Rainforest
+- name: Summoner's Pact
   weight: 1.0
   avg_copies: 3.6
-- name: Summoner's Pact
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 3.6
 - name: Consign to Memory
@@ -42,10 +42,10 @@ top_cards:
 - name: Hedge Maze
   weight: 1.0
   avg_copies: 2.8
-- name: Disciple of Freyalise
+- name: Ghalta, Stampede Tyrant
   weight: 1.0
   avg_copies: 2.2
-- name: Ghalta, Stampede Tyrant
+- name: Disciple of Freyalise
   weight: 1.0
   avg_copies: 2.2
 - name: Generous Ent
@@ -60,10 +60,10 @@ top_cards:
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.07
-- name: Xenagos, God of Revels
+- name: Griselbrand
   weight: 1.0
   avg_copies: 1.0
-- name: Griselbrand
+- name: Xenagos, God of Revels
   weight: 1.0
   avg_copies: 1.0
 - name: Boseiju, Who Endures
@@ -78,13 +78,13 @@ top_cards:
 - name: Snow-Covered Forest
   weight: 0.9333
   avg_copies: 1.05
-- name: Elesh Norn, Grand Cenobite
+- name: Snow-Covered Island
   weight: 0.9333
   avg_copies: 1.0
 - name: Atraxa, Grand Unifier
   weight: 0.9333
   avg_copies: 1.0
-- name: Snow-Covered Island
+- name: Elesh Norn, Grand Cenobite
   weight: 0.9333
   avg_copies: 1.0
 - name: Wooded Foothills
@@ -102,10 +102,10 @@ top_cards:
 - name: Scalding Tarn
   weight: 0.7333
   avg_copies: 1.55
-- name: Abhorrent Oculus
+- name: Endurance
   weight: 0.7333
   avg_copies: 1.0
-- name: Endurance
+- name: Abhorrent Oculus
   weight: 0.7333
   avg_copies: 1.0
 - name: Polluted Delta
@@ -132,28 +132,28 @@ top_cards:
 - name: Windswept Heath
   weight: 0.0667
   avg_copies: 1.0
-- name: Borborygmos Enraged
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Spell Snare
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Preordain
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Brainsurge
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Thundering Falls
+- name: Island
   weight: 0.0667
   avg_copies: 1.0
 - name: Commercial District
   weight: 0.0667
   avg_copies: 1.0
+- name: Borborygmos Enraged
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Brainsurge
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Preordain
+  weight: 0.0667
+  avg_copies: 1.0
 - name: Forest
   weight: 0.0667
   avg_copies: 1.0
-- name: Island
+- name: Spell Snare
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Thundering Falls
   weight: 0.0667
   avg_copies: 1.0
 ---

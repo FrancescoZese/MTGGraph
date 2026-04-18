@@ -9,10 +9,10 @@ top_cards:
 - name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
-- name: Preordain
+- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
-- name: Dragon's Rage Channeler
+- name: Preordain
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
@@ -108,10 +108,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.2
   avg_copies: 1.17
-- name: It'll Quench Ya!
+- name: Octopus Form
   weight: 0.2
   avg_copies: 1.0
-- name: Octopus Form
+- name: It'll Quench Ya!
   weight: 0.2
   avg_copies: 1.0
 - name: Tormod's Crypt
@@ -138,16 +138,16 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.1
   avg_copies: 2.67
-- name: Obsidian Charmaw
-  weight: 0.1
-  avg_copies: 1.67
-- name: Monstrous Rage
-  weight: 0.1
-  avg_copies: 1.67
 - name: Force of Negation
   weight: 0.1
   avg_copies: 1.67
+- name: Obsidian Charmaw
+  weight: 0.1
+  avg_copies: 1.67
 - name: Blood Moon
+  weight: 0.1
+  avg_copies: 1.67
+- name: Monstrous Rage
   weight: 0.1
   avg_copies: 1.67
 - name: Soul-Guide Lantern
@@ -159,9 +159,6 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.0667
   avg_copies: 2.0
-- name: True Ancestry
-  weight: 0.0667
-  avg_copies: 1.0
 - name: Redirect Lightning
   weight: 0.0667
   avg_copies: 1.0
@@ -169,6 +166,9 @@ top_cards:
   weight: 0.0667
   avg_copies: 1.0
 - name: End the Festivities
+  weight: 0.0667
+  avg_copies: 1.0
+- name: True Ancestry
   weight: 0.0667
   avg_copies: 1.0
 - name: Prismatic Ending
@@ -180,28 +180,28 @@ top_cards:
 - name: Alpine Moon
   weight: 0.0333
   avg_copies: 2.0
-- name: Flooded Strand
+- name: Riverpyre Verge
   weight: 0.0333
   avg_copies: 1.0
-- name: Polluted Delta
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Combustion Technique
+- name: The Legend of Roku
   weight: 0.0333
   avg_copies: 1.0
 - name: Wear
   weight: 0.0333
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Combustion Technique
   weight: 0.0333
   avg_copies: 1.0
-- name: Riverpyre Verge
+- name: Polluted Delta
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Flooded Strand
   weight: 0.0333
   avg_copies: 1.0
 - name: Shatterstorm
   weight: 0.0333
   avg_copies: 1.0
-- name: The Legend of Roku
+- name: Sacred Foundry
   weight: 0.0333
   avg_copies: 1.0
 ---

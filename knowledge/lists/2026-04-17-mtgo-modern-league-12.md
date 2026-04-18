@@ -1,5 +1,5 @@
 ---
-archetype: unknown-6
+archetype: izzet-cori-steel
 date: '2026-04-17'
 finish: 5-0
 pilot: DB_CalmMirror

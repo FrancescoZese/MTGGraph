@@ -31,8 +31,8 @@ archetypes:
     weight: 0.7
     avg_copies: 2.86
   izzet-cori-steel:
-    weight: 0.125
-    avg_copies: 2.0
+    weight: 0.3
+    avg_copies: 2.33
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 4.0
@@ -42,13 +42,7 @@ archetypes:
   izzet-wizards:
     weight: 1.0
     avg_copies: 2.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-6:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-7:
+  naya-midrange:
     weight: 1.0
     avg_copies: 1.0
 ---

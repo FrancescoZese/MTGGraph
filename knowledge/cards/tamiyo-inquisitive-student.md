@@ -42,18 +42,18 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   izzet-cori-steel:
-    weight: 1.0
+    weight: 0.8
     avg_copies: 4.0
   grixis-control:
     weight: 1.0
     avg_copies: 3.0
   jeskai-control:
-    weight: 1.0
+    weight: 0.6667
     avg_copies: 3.0
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 4.0
-  unknown-4:
+  esper-midrange:
     weight: 1.0
     avg_copies: 2.0
 ---

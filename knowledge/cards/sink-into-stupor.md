@@ -45,24 +45,21 @@ archetypes:
     weight: 0.3
     avg_copies: 1.0
   izzet-cori-steel:
-    weight: 0.875
-    avg_copies: 2.43
+    weight: 0.8
+    avg_copies: 2.25
   grixis-control:
     weight: 1.0
     avg_copies: 1.0
   izzet-eldrazi:
     weight: 1.0
     avg_copies: 1.0
+  jeskai-control:
+    weight: 0.3333
+    avg_copies: 2.0
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 2.0
   izzet-wizards:
     weight: 1.0
     avg_copies: 2.0
-  unknown-2:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 1.0
 ---

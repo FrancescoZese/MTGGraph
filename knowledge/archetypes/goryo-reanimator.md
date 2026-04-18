@@ -44,10 +44,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.71
-- name: Prismatic Ending
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.29
-- name: Wrath of the Skies
+- name: Prismatic Ending
   weight: 1.0
   avg_copies: 2.29
 - name: Force of Negation
@@ -59,7 +59,13 @@ top_cards:
 - name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
+- name: Plains
+  weight: 1.0
+  avg_copies: 1.0
 - name: Godless Shrine
+  weight: 1.0
+  avg_copies: 1.0
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Watery Grave
@@ -68,19 +74,13 @@ top_cards:
 - name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
-  weight: 1.0
-  avg_copies: 1.0
-- name: Plains
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 1.0
-  avg_copies: 1.0
-- name: Island
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Quantum Riddler
@@ -137,49 +137,49 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.0833
   avg_copies: 1.5
-- name: Ketramose, the New Dawn
+- name: Cephalid Coliseum
   weight: 0.0833
   avg_copies: 1.0
-- name: Cephalid Coliseum
+- name: Ketramose, the New Dawn
   weight: 0.0833
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
   weight: 0.0833
   avg_copies: 1.0
-- name: Overgrown Tomb
+- name: Kavaero, Mind-Bitten
   weight: 0.0833
   avg_copies: 1.0
-- name: Kavaero, Mind-Bitten
+- name: Overgrown Tomb
   weight: 0.0833
   avg_copies: 1.0
 - name: No More Lies
   weight: 0.0417
   avg_copies: 2.0
-- name: Unburial Rites
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Subtlety
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Otherworldly Gaze
-  weight: 0.0417
-  avg_copies: 1.0
 - name: Arcbound Ravager
   weight: 0.0417
   avg_copies: 1.0
 - name: Winternight Stories
   weight: 0.0417
   avg_copies: 1.0
+- name: Supreme Verdict
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Otherworldly Gaze
+  weight: 0.0417
+  avg_copies: 1.0
 - name: Toxic Deluge
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Unburial Rites
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Drannith Magistrate
   weight: 0.0417
   avg_copies: 1.0
 - name: Damn
   weight: 0.0417
   avg_copies: 1.0
-- name: Supreme Verdict
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Drannith Magistrate
+- name: Subtlety
   weight: 0.0417
   avg_copies: 1.0
 ---

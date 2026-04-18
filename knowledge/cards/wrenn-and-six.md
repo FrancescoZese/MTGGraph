@@ -15,14 +15,11 @@ archetypes:
     avg_copies: 3.0
   indomitable-creativity:
     weight: 1.0
-    avg_copies: 3.33
+    avg_copies: 3.43
   jund-saga:
     weight: 1.0
     avg_copies: 3.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-7:
+  naya-midrange:
     weight: 1.0
     avg_copies: 4.0
 ---

@@ -50,6 +50,9 @@ archetypes:
   sultai-artifacts:
     weight: 0.7
     avg_copies: 1.0
+  izzet-cori-steel:
+    weight: 0.2
+    avg_copies: 1.0
   grixis-control:
     weight: 1.0
     avg_copies: 1.0
@@ -63,7 +66,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
   rakdos-steel-cutter:
     weight: 1.0
@@ -77,19 +80,7 @@ archetypes:
   izzet-wizards:
     weight: 1.0
     avg_copies: 1.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-6:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-7:
+  naya-midrange:
     weight: 1.0
     avg_copies: 1.0
 ---

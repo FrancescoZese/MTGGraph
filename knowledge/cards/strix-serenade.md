@@ -37,7 +37,7 @@ archetypes:
     weight: 0.125
     avg_copies: 1.0
   indomitable-creativity:
-    weight: 0.3333
+    weight: 0.2857
     avg_copies: 2.0
   azorius-blink:
     weight: 0.3333
@@ -46,9 +46,6 @@ archetypes:
     weight: 0.9
     avg_copies: 1.0
   izzet-cori-steel:
-    weight: 0.125
-    avg_copies: 2.0
-  unknown-6:
-    weight: 1.0
+    weight: 0.2
     avg_copies: 2.0
 ---

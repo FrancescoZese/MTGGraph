@@ -1,5 +1,5 @@
 ---
-archetype: unknown-4
+archetype: esper-midrange
 date: '2026-04-16'
 finish: 5-0
 pilot: dzk

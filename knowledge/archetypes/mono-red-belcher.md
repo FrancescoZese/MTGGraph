@@ -6,37 +6,37 @@ name: Mono Red Belcher
 meta_share: 0.0038
 list_count: 3
 top_cards:
-- name: Strike It Rich
-  weight: 1.0
-  avg_copies: 4.0
-- name: Spikefield Hazard
-  weight: 1.0
-  avg_copies: 4.0
-- name: Shatterskull Smashing
-  weight: 1.0
-  avg_copies: 4.0
-- name: Pyretic Ritual
-  weight: 1.0
-  avg_copies: 4.0
-- name: Manamorphose
-  weight: 1.0
-  avg_copies: 4.0
 - name: Desperate Ritual
-  weight: 1.0
-  avg_copies: 4.0
-- name: Sundering Eruption
   weight: 1.0
   avg_copies: 4.0
 - name: Ruby Medallion
   weight: 1.0
   avg_copies: 4.0
-- name: Goblin Charbelcher
+- name: Manamorphose
   weight: 1.0
   avg_copies: 4.0
 - name: Pinnacle Monk
   weight: 1.0
   avg_copies: 4.0
+- name: Shatterskull Smashing
+  weight: 1.0
+  avg_copies: 4.0
+- name: Sundering Eruption
+  weight: 1.0
+  avg_copies: 4.0
+- name: Pyretic Ritual
+  weight: 1.0
+  avg_copies: 4.0
 - name: Stormscale Scion
+  weight: 1.0
+  avg_copies: 4.0
+- name: Goblin Charbelcher
+  weight: 1.0
+  avg_copies: 4.0
+- name: Spikefield Hazard
+  weight: 1.0
+  avg_copies: 4.0
+- name: Strike It Rich
   weight: 1.0
   avg_copies: 4.0
 - name: Irencrag Feat
@@ -72,10 +72,13 @@ top_cards:
 - name: Relic of Progenitus
   weight: 0.3333
   avg_copies: 4.0
+- name: Glimpse the Impossible
+  weight: 0.3333
+  avg_copies: 2.0
 - name: Serum Powder
   weight: 0.3333
   avg_copies: 2.0
-- name: Glimpse the Impossible
+- name: March of Reckless Joy
   weight: 0.3333
   avg_copies: 2.0
 - name: Lantern of the Lost
@@ -87,19 +90,16 @@ top_cards:
 - name: Wear
   weight: 0.3333
   avg_copies: 2.0
-- name: March of Reckless Joy
-  weight: 0.3333
-  avg_copies: 2.0
 - name: Redirect Lightning
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Trinisphere
   weight: 0.3333
   avg_copies: 1.0
 - name: Rush of Inspiration
   weight: 0.3333
   avg_copies: 1.0
 - name: Legion Leadership
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Trinisphere
   weight: 0.3333
   avg_copies: 1.0
 ---

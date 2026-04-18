@@ -6,25 +6,25 @@ name: Ruby Storm
 meta_share: 0.0252
 list_count: 20
 top_cards:
-- name: Wrenn's Resolve
+- name: Desperate Ritual
   weight: 1.0
   avg_copies: 4.0
-- name: Pyretic Ritual
+- name: Ruby Medallion
   weight: 1.0
   avg_copies: 4.0
 - name: Manamorphose
   weight: 1.0
   avg_copies: 4.0
-- name: Ral, Monsoon Mage
+- name: Pyretic Ritual
+  weight: 1.0
+  avg_copies: 4.0
+- name: Wrenn's Resolve
   weight: 1.0
   avg_copies: 4.0
 - name: Reckless Impulse
   weight: 1.0
   avg_copies: 4.0
-- name: Desperate Ritual
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ruby Medallion
+- name: Ral, Monsoon Mage
   weight: 1.0
   avg_copies: 4.0
 - name: Mountain
@@ -45,10 +45,10 @@ top_cards:
 - name: Past in Flames
   weight: 1.0
   avg_copies: 1.98
-- name: Valakut Awakening
+- name: Artist's Talent
   weight: 1.0
   avg_copies: 1.95
-- name: Artist's Talent
+- name: Valakut Awakening
   weight: 1.0
   avg_copies: 1.95
 - name: Elegant Parlor
@@ -111,10 +111,10 @@ top_cards:
 - name: Silence
   weight: 0.15
   avg_copies: 2.33
-- name: Meltdown
+- name: Fire Magic
   weight: 0.15
   avg_copies: 1.33
-- name: Fire Magic
+- name: Meltdown
   weight: 0.15
   avg_copies: 1.33
 - name: Thundering Falls
@@ -126,13 +126,13 @@ top_cards:
 - name: March of Otherworldly Light
   weight: 0.1
   avg_copies: 1.5
-- name: Phlage, Titan of Fire's Fury
-  weight: 0.1
-  avg_copies: 1.0
 - name: Steam Vents
   weight: 0.1
   avg_copies: 1.0
 - name: Alchemist's Gambit
+  weight: 0.1
+  avg_copies: 1.0
+- name: Phlage, Titan of Fire's Fury
   weight: 0.1
   avg_copies: 1.0
 - name: Blood Moon
@@ -141,19 +141,19 @@ top_cards:
 - name: Pyromancer Ascension
   weight: 0.05
   avg_copies: 1.0
-- name: Abrade
-  weight: 0.05
-  avg_copies: 1.0
 - name: Hexing Squelcher
-  weight: 0.05
-  avg_copies: 1.0
-- name: Urabrask
   weight: 0.05
   avg_copies: 1.0
 - name: Voice of Victory
   weight: 0.05
   avg_copies: 1.0
+- name: Urabrask
+  weight: 0.05
+  avg_copies: 1.0
 - name: Shattering Spree
+  weight: 0.05
+  avg_copies: 1.0
+- name: Abrade
   weight: 0.05
   avg_copies: 1.0
 - name: Vexing Bauble

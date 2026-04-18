@@ -1,5 +1,5 @@
 ---
-archetype: unknown-5
+archetype: burn
 date: '2026-04-16'
 finish: 5-0
 pilot: nachosoria

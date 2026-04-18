@@ -48,16 +48,16 @@ archetypes:
   esper-control:
     weight: 1.0
     avg_copies: 4.0
+  jeskai-control:
+    weight: 0.3333
+    avg_copies: 4.0
   bant-ritual:
     weight: 1.0
     avg_copies: 2.0
-  unknown-2:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-4:
+  esper-midrange:
     weight: 1.0
     avg_copies: 3.0
-  unknown-7:
+  naya-midrange:
     weight: 1.0
     avg_copies: 3.0
 ---

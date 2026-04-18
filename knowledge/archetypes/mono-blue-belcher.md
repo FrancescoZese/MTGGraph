@@ -8,22 +8,22 @@ top_cards:
 - name: Lotus Bloom
   weight: 1.0
   avg_copies: 4.0
-- name: Hydroelectric Specimen
-  weight: 1.0
-  avg_copies: 4.0
 - name: Goblin Charbelcher
-  weight: 1.0
-  avg_copies: 4.0
-- name: Tameshi, Reality Architect
   weight: 1.0
   avg_copies: 4.0
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 4.0
-- name: Suppression Ray
+- name: Whir of Invention
   weight: 1.0
   avg_copies: 4.0
-- name: Whir of Invention
+- name: Tameshi, Reality Architect
+  weight: 1.0
+  avg_copies: 4.0
+- name: Hydroelectric Specimen
+  weight: 1.0
+  avg_copies: 4.0
+- name: Suppression Ray
   weight: 1.0
   avg_copies: 4.0
 - name: Disrupting Shoal
@@ -125,6 +125,9 @@ top_cards:
 - name: Dusk Rose Reliquary
   weight: 0.1111
   avg_copies: 1.0
+- name: Witch Enchanter
+  weight: 0.0556
+  avg_copies: 1.0
 - name: Portable Hole
   weight: 0.0556
   avg_copies: 1.0
@@ -132,9 +135,6 @@ top_cards:
   weight: 0.0556
   avg_copies: 1.0
 - name: Displacement Wave
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Witch Enchanter
   weight: 0.0556
   avg_copies: 1.0
 ---

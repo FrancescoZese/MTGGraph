@@ -28,7 +28,7 @@ archetypes:
     weight: 0.2941
     avg_copies: 1.2
   burn:
-    weight: 0.3333
+    weight: 0.5
     avg_copies: 2.0
   mardu-blink:
     weight: 1.0
@@ -55,24 +55,21 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   indomitable-creativity:
-    weight: 0.5
+    weight: 0.4286
     avg_copies: 1.67
   orzhov-blink:
     weight: 0.5
     avg_copies: 1.0
+  izzet-cori-steel:
+    weight: 0.1
+    avg_copies: 3.0
   jeskai-control:
-    weight: 1.0
+    weight: 0.6667
     avg_copies: 1.5
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 1.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-7:
+  naya-midrange:
     weight: 1.0
     avg_copies: 2.0
 cmc: 1

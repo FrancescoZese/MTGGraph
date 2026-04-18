@@ -10,6 +10,6 @@ type: Legendary Creature — Moonfolk Monk // Legendary Enchantment
 meta_presence: 0.0101
 archetypes:
   izzet-cori-steel:
-    weight: 1.0
+    weight: 0.8
     avg_copies: 4.0
 ---

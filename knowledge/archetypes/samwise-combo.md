@@ -11,22 +11,22 @@ top_cards:
 - name: Windswept Heath
   weight: 1.0
   avg_copies: 4.0
-- name: Verdant Catacombs
-  weight: 1.0
-  avg_copies: 4.0
-- name: Samwise Gamgee
-  weight: 1.0
-  avg_copies: 4.0
 - name: Gilded Goose
-  weight: 1.0
-  avg_copies: 4.0
-- name: Birthing Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Chord of Calling
   weight: 1.0
   avg_copies: 4.0
+- name: Birthing Ritual
+  weight: 1.0
+  avg_copies: 4.0
+- name: Samwise Gamgee
+  weight: 1.0
+  avg_copies: 4.0
 - name: Cauldron Familiar
+  weight: 1.0
+  avg_copies: 4.0
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
 - name: Malevolent Rumble
@@ -62,10 +62,10 @@ top_cards:
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
-- name: Lush Portico
+- name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Lush Portico
   weight: 1.0
   avg_copies: 1.0
 - name: Forest
@@ -86,10 +86,10 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.75
   avg_copies: 1.5
-- name: Crystal Barricade
+- name: Underground Mortuary
   weight: 0.75
   avg_copies: 1.0
-- name: Underground Mortuary
+- name: Crystal Barricade
   weight: 0.75
   avg_copies: 1.0
 - name: Abhorrent Oculus
@@ -98,10 +98,10 @@ top_cards:
 - name: Yawgmoth, Thran Physician
   weight: 0.625
   avg_copies: 1.2
-- name: Sylvan Safekeeper
+- name: Nurturing Peatland
   weight: 0.625
   avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Sylvan Safekeeper
   weight: 0.625
   avg_copies: 1.0
 - name: Breeding Pool
@@ -128,67 +128,67 @@ top_cards:
 - name: Scout for Survivors
   weight: 0.375
   avg_copies: 1.67
-- name: Lavinia, Azorius Renegade
+- name: Voice of Victory
   weight: 0.375
   avg_copies: 1.0
-- name: Dauthi Voidwalker
+- name: Lavinia, Azorius Renegade
   weight: 0.375
   avg_copies: 1.0
 - name: Grist, the Hunger Tide
   weight: 0.375
   avg_copies: 1.0
-- name: Voice of Victory
+- name: Dauthi Voidwalker
   weight: 0.375
   avg_copies: 1.0
-- name: Culling Ritual
-  weight: 0.25
-  avg_copies: 2.0
 - name: High Noon
   weight: 0.25
   avg_copies: 2.0
-- name: Seam Rip
+- name: Culling Ritual
   weight: 0.25
-  avg_copies: 1.0
-- name: Dawnbringer Cleric
+  avg_copies: 2.0
+- name: Sephiroth, Fabled SOLDIER
   weight: 0.25
   avg_copies: 1.0
 - name: Orcish Bowmasters
   weight: 0.25
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Seam Rip
   weight: 0.25
   avg_copies: 1.0
 - name: Ruthless Lawbringer
   weight: 0.25
   avg_copies: 1.0
-- name: Sephiroth, Fabled SOLDIER
+- name: Surgical Extraction
   weight: 0.25
   avg_copies: 1.0
+- name: Dawnbringer Cleric
+  weight: 0.25
+  avg_copies: 1.0
+- name: Dewdrop Cure
+  weight: 0.125
+  avg_copies: 2.0
+- name: Mana Confluence
+  weight: 0.125
+  avg_copies: 2.0
 - name: Haliya, Guided by Light
   weight: 0.125
   avg_copies: 2.0
 - name: City of Brass
   weight: 0.125
   avg_copies: 2.0
-- name: Mana Confluence
+- name: Collector Ouphe
   weight: 0.125
-  avg_copies: 2.0
-- name: Dewdrop Cure
-  weight: 0.125
-  avg_copies: 2.0
-- name: Swamp
+  avg_copies: 1.0
+- name: Drannith Magistrate
   weight: 0.125
   avg_copies: 1.0
 - name: Veil of Summer
   weight: 0.125
   avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 0.125
-  avg_copies: 1.0
 - name: Path to Exile
   weight: 0.125
   avg_copies: 1.0
-- name: Drannith Magistrate
+- name: Swamp
   weight: 0.125
   avg_copies: 1.0
 ---

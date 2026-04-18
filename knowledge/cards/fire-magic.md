@@ -34,15 +34,12 @@ archetypes:
     weight: 0.7
     avg_copies: 2.57
   izzet-cori-steel:
-    weight: 0.375
-    avg_copies: 1.67
+    weight: 0.4
+    avg_copies: 1.75
   grixis-control:
     weight: 1.0
     avg_copies: 2.0
   grixis-shadow:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-6:
     weight: 1.0
     avg_copies: 2.0
 ---

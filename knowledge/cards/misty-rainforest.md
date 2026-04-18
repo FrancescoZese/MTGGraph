@@ -62,6 +62,9 @@ archetypes:
   sultai-artifacts:
     weight: 0.3
     avg_copies: 3.0
+  izzet-cori-steel:
+    weight: 0.1
+    avg_copies: 2.0
   elves:
     weight: 1.0
     avg_copies: 2.0
@@ -72,9 +75,6 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   izzet-splinter-twin:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-3:
     weight: 1.0
     avg_copies: 2.0
 ---

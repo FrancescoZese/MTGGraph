@@ -8,10 +8,10 @@ top_cards:
 - name: Spelunking
   weight: 1.0
   avg_copies: 4.0
-- name: Arboreal Grazer
+- name: Amulet of Vigor
   weight: 1.0
   avg_copies: 4.0
-- name: Amulet of Vigor
+- name: Arboreal Grazer
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
@@ -56,31 +56,31 @@ top_cards:
 - name: Six
   weight: 1.0
   avg_copies: 1.1
-- name: Tolaria West
-  weight: 1.0
-  avg_copies: 1.0
-- name: Otawara, Soaring City
-  weight: 1.0
-  avg_copies: 1.0
 - name: Vesuva
-  weight: 1.0
-  avg_copies: 1.0
-- name: Echoing Deeps
-  weight: 1.0
-  avg_copies: 1.0
-- name: Urza's Cave
-  weight: 1.0
-  avg_copies: 1.0
-- name: Hanweir Battlements
-  weight: 1.0
-  avg_copies: 1.0
-- name: Shifting Woodland
   weight: 1.0
   avg_copies: 1.0
 - name: Bojuka Bog
   weight: 1.0
   avg_copies: 1.0
+- name: Urza's Cave
+  weight: 1.0
+  avg_copies: 1.0
 - name: Mirrorpool
+  weight: 1.0
+  avg_copies: 1.0
+- name: Echoing Deeps
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shifting Woodland
+  weight: 1.0
+  avg_copies: 1.0
+- name: Otawara, Soaring City
+  weight: 1.0
+  avg_copies: 1.0
+- name: Tolaria West
+  weight: 1.0
+  avg_copies: 1.0
+- name: Hanweir Battlements
   weight: 1.0
   avg_copies: 1.0
 - name: Green Sun's Zenith
@@ -134,25 +134,25 @@ top_cards:
 - name: Elder Gargaroth
   weight: 0.1333
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Keen-Eyed Curator
   weight: 0.1
   avg_copies: 1.0
-- name: Keen-Eyed Curator
+- name: Soul-Guide Lantern
   weight: 0.1
   avg_copies: 1.0
 - name: Explore
   weight: 0.0667
   avg_copies: 3.0
-- name: Hedge Maze
-  weight: 0.0667
-  avg_copies: 1.0
 - name: Wooded Foothills
   weight: 0.0667
   avg_copies: 1.0
-- name: Commercial District
+- name: Hedge Maze
   weight: 0.0667
   avg_copies: 1.0
 - name: Creeping Corrosion
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Commercial District
   weight: 0.0667
   avg_copies: 1.0
 - name: Elvish Reclaimer
@@ -161,16 +161,16 @@ top_cards:
 - name: Windswept Heath
   weight: 0.0333
   avg_copies: 1.0
-- name: Outland Liberator
-  weight: 0.0333
-  avg_copies: 1.0
 - name: Dosan the Falling Leaf
   weight: 0.0333
   avg_copies: 1.0
-- name: Insidious Fungus
+- name: Heritage Reclamation
   weight: 0.0333
   avg_copies: 1.0
-- name: Heritage Reclamation
+- name: Outland Liberator
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Insidious Fungus
   weight: 0.0333
   avg_copies: 1.0
 ---

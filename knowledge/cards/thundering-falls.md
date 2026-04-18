@@ -42,7 +42,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   indomitable-creativity:
-    weight: 0.6667
+    weight: 0.5714
     avg_copies: 1.0
   dredge:
     weight: 0.6667
@@ -50,11 +50,14 @@ archetypes:
   sultai-artifacts:
     weight: 0.9
     avg_copies: 1.0
+  izzet-cori-steel:
+    weight: 0.2
+    avg_copies: 1.0
   grixis-control:
     weight: 1.0
     avg_copies: 2.0
   jeskai-control:
-    weight: 1.0
+    weight: 0.6667
     avg_copies: 1.0
   izzet-splinter-twin:
     weight: 1.0
@@ -62,10 +65,4 @@ archetypes:
   izzet-wizards:
     weight: 1.0
     avg_copies: 2.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-6:
-    weight: 1.0
-    avg_copies: 1.0
 ---
