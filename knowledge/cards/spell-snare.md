@@ -7,14 +7,14 @@ name: Spell Snare
 scryfall_id: b7551b61-656e-4f37-b9da-73174db983b7
 set: ecl
 type: Instant
-meta_presence: 0.1202
+meta_presence: 0.1198
 archetypes:
   dimir-control:
     weight: 0.9565
     avg_copies: 2.65
   dimir-frog:
     weight: 1.0
-    avg_copies: 2.42
+    avg_copies: 2.46
   mono-blue-belcher:
     weight: 0.8333
     avg_copies: 1.88

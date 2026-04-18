@@ -4,7 +4,7 @@ colors:
 - U
 - R
 name: Azorius Control
-meta_share: 0.0217
+meta_share: 0.0214
 list_count: 17
 top_cards:
 - name: Flooded Strand
@@ -31,13 +31,13 @@ top_cards:
 - name: Plains
   weight: 1.0
   avg_copies: 1.88
-- name: Hallowed Fountain
-  weight: 1.0
-  avg_copies: 1.76
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.76
 - name: Island
+  weight: 1.0
+  avg_copies: 1.76
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.76
 - name: Celestial Purge
@@ -91,10 +91,10 @@ top_cards:
 - name: Stock Up
   weight: 0.7059
   avg_copies: 2.25
-- name: Geier Reach Sanitarium
+- name: Otawara, Soaring City
   weight: 0.6471
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Geier Reach Sanitarium
   weight: 0.6471
   avg_copies: 1.0
 - name: Supreme Verdict
@@ -124,10 +124,10 @@ top_cards:
 - name: Phlage, Titan of Fire's Fury
   weight: 0.3529
   avg_copies: 1.17
-- name: Ashiok, Dream Render
+- name: Elegant Parlor
   weight: 0.3529
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Ashiok, Dream Render
   weight: 0.3529
   avg_copies: 1.0
 - name: Tune the Narrative
@@ -157,10 +157,10 @@ top_cards:
 - name: Polluted Delta
   weight: 0.1765
   avg_copies: 1.0
-- name: Meltdown
+- name: Beza, the Bounding Spring
   weight: 0.1765
   avg_copies: 1.0
-- name: Beza, the Bounding Spring
+- name: Meltdown
   weight: 0.1765
   avg_copies: 1.0
 - name: Soul-Guide Lantern
@@ -175,13 +175,13 @@ top_cards:
 - name: Temporary Lockdown
   weight: 0.1176
   avg_copies: 1.67
-- name: Vendilion Clique
-  weight: 0.1176
-  avg_copies: 1.0
 - name: Watery Grave
   weight: 0.1176
   avg_copies: 1.0
 - name: Hedge Maze
+  weight: 0.1176
+  avg_copies: 1.0
+- name: Vendilion Clique
   weight: 0.1176
   avg_copies: 1.0
 - name: Suppression Ray
@@ -196,28 +196,19 @@ top_cards:
 - name: Sink into Stupor
   weight: 0.0588
   avg_copies: 2.0
-- name: Jace, the Mind Sculptor
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Get Lost
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Wear
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Dress Down
-  weight: 0.0588
-  avg_copies: 1.0
 - name: Timeless Dragon
   weight: 0.0588
   avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.0588
   avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
+- name: Disruptor Flute
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Jace, the Mind Sculptor
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Breeding Pool
   weight: 0.0588
   avg_copies: 1.0
 - name: Wan Shi Tong, Librarian
@@ -226,10 +217,19 @@ top_cards:
 - name: The Wandering Emperor
   weight: 0.0588
   avg_copies: 1.0
-- name: Disruptor Flute
+- name: Celestial Colonnade
   weight: 0.0588
   avg_copies: 1.0
-- name: Celestial Colonnade
+- name: Tamiyo, Inquisitive Student
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Wear
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Get Lost
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Dress Down
   weight: 0.0588
   avg_copies: 1.0
 ---

@@ -11,7 +11,7 @@ type: Instant
 meta_presence: 0.0038
 archetypes:
   living-end:
-    weight: 0.1333
+    weight: 0.125
     avg_copies: 1.0
   elves:
     weight: 1.0

@@ -4,22 +4,22 @@ colors:
 - B
 - R
 name: Grixis Reanimator
-meta_share: 0.0217
+meta_share: 0.0214
 list_count: 17
 top_cards:
-- name: Bloodstained Mire
-  weight: 1.0
-  avg_copies: 4.0
 - name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
-- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 4.0
 - name: Persist
+  weight: 1.0
+  avg_copies: 4.0
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
 - name: Archon of Cruelty
@@ -58,16 +58,16 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 1.35
-- name: Raucous Theater
-  weight: 1.0
-  avg_copies: 1.0
-- name: Scalding Tarn
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Raucous Theater
+  weight: 1.0
+  avg_copies: 1.0
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 1.0
 - name: Island
@@ -121,13 +121,13 @@ top_cards:
 - name: Thundering Falls
   weight: 0.1176
   avg_copies: 1.0
-- name: Harvester of Misery
-  weight: 0.0588
-  avg_copies: 1.0
 - name: Spell Snare
   weight: 0.0588
   avg_copies: 1.0
 - name: Troll of Khazad-dûm
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Harvester of Misery
   weight: 0.0588
   avg_copies: 1.0
 ---

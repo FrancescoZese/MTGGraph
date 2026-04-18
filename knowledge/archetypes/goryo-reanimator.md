@@ -5,7 +5,7 @@ colors:
 - B
 - G
 name: Goryo Reanimator
-meta_share: 0.0307
+meta_share: 0.0303
 list_count: 24
 top_cards:
 - name: Goryo's Vengeance
@@ -17,10 +17,10 @@ top_cards:
 - name: Solitude
   weight: 1.0
   avg_copies: 3.88
-- name: Atraxa, Grand Unifier
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 3.83
-- name: Psychic Frog
+- name: Atraxa, Grand Unifier
   weight: 1.0
   avg_copies: 3.83
 - name: Polluted Delta
@@ -44,10 +44,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.71
-- name: Wrath of the Skies
+- name: Prismatic Ending
   weight: 1.0
   avg_copies: 2.29
-- name: Prismatic Ending
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.29
 - name: Force of Negation
@@ -56,31 +56,31 @@ top_cards:
 - name: Griselbrand
   weight: 1.0
   avg_copies: 1.08
-- name: Meticulous Archive
-  weight: 1.0
-  avg_copies: 1.0
-- name: Shadowy Backstreet
-  weight: 1.0
-  avg_copies: 1.0
 - name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
 - name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
-- name: Plains
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
-- name: Godless Shrine
+- name: Meticulous Archive
+  weight: 1.0
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 1.0
+  avg_copies: 1.0
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Quantum Riddler
@@ -137,6 +137,9 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.0833
   avg_copies: 1.5
+- name: Ketramose, the New Dawn
+  weight: 0.0833
+  avg_copies: 1.0
 - name: Cephalid Coliseum
   weight: 0.0833
   avg_copies: 1.0
@@ -146,40 +149,37 @@ top_cards:
 - name: Overgrown Tomb
   weight: 0.0833
   avg_copies: 1.0
-- name: Ketramose, the New Dawn
-  weight: 0.0833
-  avg_copies: 1.0
 - name: Kavaero, Mind-Bitten
   weight: 0.0833
   avg_copies: 1.0
 - name: No More Lies
   weight: 0.0417
   avg_copies: 2.0
-- name: Winternight Stories
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Arcbound Ravager
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Otherworldly Gaze
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Supreme Verdict
+- name: Unburial Rites
   weight: 0.0417
   avg_copies: 1.0
 - name: Subtlety
   weight: 0.0417
   avg_copies: 1.0
-- name: Unburial Rites
+- name: Otherworldly Gaze
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Arcbound Ravager
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Winternight Stories
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Toxic Deluge
   weight: 0.0417
   avg_copies: 1.0
 - name: Damn
   weight: 0.0417
   avg_copies: 1.0
-- name: Drannith Magistrate
+- name: Supreme Verdict
   weight: 0.0417
   avg_copies: 1.0
-- name: Toxic Deluge
+- name: Drannith Magistrate
   weight: 0.0417
   avg_copies: 1.0
 ---

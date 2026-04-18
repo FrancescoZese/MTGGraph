@@ -10,7 +10,7 @@ type: Enchantment
 meta_presence: 0.0038
 archetypes:
   boros-energy:
-    weight: 0.0059
+    weight: 0.0058
     avg_copies: 2.0
   jeskai-energy:
     weight: 0.0154

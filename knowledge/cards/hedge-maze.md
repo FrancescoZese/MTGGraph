@@ -12,7 +12,7 @@ archetypes:
     weight: 0.0154
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.069
+    weight: 0.0667
     avg_copies: 1.0
   goryo-reanimator:
     weight: 0.375
@@ -22,12 +22,12 @@ archetypes:
     avg_copies: 1.0
   living-end:
     weight: 1.0
-    avg_copies: 1.07
+    avg_copies: 1.06
   neoform-combo:
     weight: 1.0
     avg_copies: 2.8
   eldrazi-ramp:
-    weight: 0.1176
+    weight: 0.1111
     avg_copies: 1.0
   simic-ritual:
     weight: 1.0

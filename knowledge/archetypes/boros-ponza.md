@@ -3,25 +3,25 @@ colors:
 - W
 - R
 name: Boros Ponza
-meta_share: 0.0115
+meta_share: 0.0113
 list_count: 9
 top_cards:
-- name: Path to Exile
-  weight: 1.0
-  avg_copies: 4.0
 - name: Price of Freedom
   weight: 1.0
   avg_copies: 4.0
-- name: Demolition Field
+- name: Path to Exile
   weight: 1.0
-  avg_copies: 3.78
-- name: Field of Ruin
+  avg_copies: 4.0
+- name: Demolition Field
   weight: 1.0
   avg_copies: 3.78
 - name: Cleansing Wildfire
   weight: 1.0
   avg_copies: 3.78
 - name: Galvanic Discharge
+  weight: 1.0
+  avg_copies: 3.78
+- name: Field of Ruin
   weight: 1.0
   avg_copies: 3.78
 - name: Cori Mountain Monastery
@@ -42,13 +42,13 @@ top_cards:
 - name: Sunken Citadel
   weight: 1.0
   avg_copies: 2.22
+- name: Phlage, Titan of Fire's Fury
+  weight: 1.0
+  avg_copies: 2.0
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 2.0
 - name: Wear
-  weight: 1.0
-  avg_copies: 2.0
-- name: Phlage, Titan of Fire's Fury
   weight: 1.0
   avg_copies: 2.0
 - name: Celestial Purge
@@ -90,28 +90,28 @@ top_cards:
 - name: Sunbillow Verge
   weight: 0.2222
   avg_copies: 3.0
-- name: Soul-Guide Lantern
-  weight: 0.2222
-  avg_copies: 2.0
 - name: Mana Tithe
   weight: 0.2222
   avg_copies: 2.0
-- name: Surgical Extraction
+- name: Soul-Guide Lantern
   weight: 0.2222
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Ghost Quarter
   weight: 0.2222
   avg_copies: 1.0
-- name: Meltdown
+- name: Surgical Extraction
   weight: 0.2222
   avg_copies: 1.0
 - name: Wrath of God
   weight: 0.2222
   avg_copies: 1.0
-- name: March of Otherworldly Light
+- name: Meltdown
+  weight: 0.2222
+  avg_copies: 1.0
+- name: Settle the Wreckage
   weight: 0.1111
   avg_copies: 2.0
-- name: Settle the Wreckage
+- name: March of Otherworldly Light
   weight: 0.1111
   avg_copies: 2.0
 - name: Prismatic Ending

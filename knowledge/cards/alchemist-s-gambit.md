@@ -7,7 +7,7 @@ name: Alchemist's Gambit
 scryfall_id: a8fbf5d3-4677-4bf0-891f-57d6dcddaff7
 set: vow
 type: Sorcery
-meta_presence: 0.0026
+meta_presence: 0.0025
 archetypes:
   ruby-storm:
     weight: 0.1

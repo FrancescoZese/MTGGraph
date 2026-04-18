@@ -3,28 +3,28 @@ colors:
 - R
 - G
 name: Ruby Storm
-meta_share: 0.0256
+meta_share: 0.0252
 list_count: 20
 top_cards:
-- name: Pyretic Ritual
+- name: Wrenn's Resolve
   weight: 1.0
   avg_copies: 4.0
-- name: Reckless Impulse
+- name: Pyretic Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Manamorphose
   weight: 1.0
   avg_copies: 4.0
-- name: Wrenn's Resolve
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ruby Medallion
-  weight: 1.0
-  avg_copies: 4.0
 - name: Ral, Monsoon Mage
   weight: 1.0
   avg_copies: 4.0
+- name: Reckless Impulse
+  weight: 1.0
+  avg_copies: 4.0
 - name: Desperate Ritual
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ruby Medallion
   weight: 1.0
   avg_copies: 4.0
 - name: Mountain
@@ -111,10 +111,10 @@ top_cards:
 - name: Silence
   weight: 0.15
   avg_copies: 2.33
-- name: Fire Magic
+- name: Meltdown
   weight: 0.15
   avg_copies: 1.33
-- name: Meltdown
+- name: Fire Magic
   weight: 0.15
   avg_copies: 1.33
 - name: Thundering Falls
@@ -129,25 +129,25 @@ top_cards:
 - name: Phlage, Titan of Fire's Fury
   weight: 0.1
   avg_copies: 1.0
-- name: Alchemist's Gambit
+- name: Steam Vents
   weight: 0.1
   avg_copies: 1.0
-- name: Steam Vents
+- name: Alchemist's Gambit
   weight: 0.1
   avg_copies: 1.0
 - name: Blood Moon
   weight: 0.05
   avg_copies: 2.0
-- name: Urabrask
-  weight: 0.05
-  avg_copies: 1.0
 - name: Pyromancer Ascension
   weight: 0.05
   avg_copies: 1.0
-- name: Vexing Bauble
+- name: Abrade
   weight: 0.05
   avg_copies: 1.0
-- name: Abrade
+- name: Hexing Squelcher
+  weight: 0.05
+  avg_copies: 1.0
+- name: Urabrask
   weight: 0.05
   avg_copies: 1.0
 - name: Voice of Victory
@@ -156,7 +156,7 @@ top_cards:
 - name: Shattering Spree
   weight: 0.05
   avg_copies: 1.0
-- name: Hexing Squelcher
+- name: Vexing Bauble
   weight: 0.05
   avg_copies: 1.0
 ---

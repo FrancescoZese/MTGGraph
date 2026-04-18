@@ -10,7 +10,7 @@ type: Legendary Planeswalker
 meta_presence: 0.0038
 archetypes:
   boros-energy:
-    weight: 0.0059
+    weight: 0.0058
     avg_copies: 1.0
   azorius-control:
     weight: 0.0588

@@ -7,7 +7,7 @@ name: Legion's End
 scryfall_id: 49a1cd92-9d75-4e22-a934-a26d84967015
 set: m20
 type: Sorcery
-meta_presence: 0.0026
+meta_presence: 0.0025
 archetypes:
   necrodominance:
     weight: 0.1176

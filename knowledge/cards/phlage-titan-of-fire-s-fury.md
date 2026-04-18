@@ -15,7 +15,7 @@ archetypes:
     avg_copies: 1.0
   boros-energy:
     weight: 1.0
-    avg_copies: 3.85
+    avg_copies: 3.83
   jeskai-energy:
     weight: 1.0
     avg_copies: 3.8
@@ -32,6 +32,9 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   jeskai-control:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-7:
     weight: 1.0
     avg_copies: 3.0
 ---

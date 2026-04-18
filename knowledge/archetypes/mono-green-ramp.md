@@ -6,22 +6,13 @@ name: Mono Green Ramp
 meta_share: 0.0013
 list_count: 1
 top_cards:
-- name: Green Sun's Zenith
-  weight: 1.0
-  avg_copies: 4.0
-- name: Delighted Halfling
-  weight: 1.0
-  avg_copies: 4.0
 - name: Springheart Nantuko
   weight: 1.0
   avg_copies: 4.0
 - name: Windswept Heath
   weight: 1.0
   avg_copies: 4.0
-- name: Misty Rainforest
-  weight: 1.0
-  avg_copies: 4.0
-- name: Leyline of Abundance
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 4.0
 - name: Quirion Ranger
@@ -30,10 +21,19 @@ top_cards:
 - name: Badgermole Cub
   weight: 1.0
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Leyline of Abundance
+  weight: 1.0
+  avg_copies: 4.0
+- name: Delighted Halfling
+  weight: 1.0
+  avg_copies: 4.0
+- name: Misty Rainforest
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lotus Cobra
   weight: 1.0
   avg_copies: 3.0
-- name: Lotus Cobra
+- name: Mai, Scornful Striker
   weight: 1.0
   avg_copies: 3.0
 - name: Tyvar, Jubilant Brawler
@@ -42,13 +42,10 @@ top_cards:
 - name: Summoner's Pact
   weight: 1.0
   avg_copies: 3.0
-- name: Mai, Scornful Striker
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 3.0
 - name: Nissa, Who Shakes the World
-  weight: 1.0
-  avg_copies: 2.0
-- name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 2.0
 - name: Dryad Arbor
@@ -57,28 +54,16 @@ top_cards:
 - name: Overgrown Tomb
   weight: 1.0
   avg_copies: 2.0
+- name: Ashiok, Dream Render
+  weight: 1.0
+  avg_copies: 2.0
 - name: Ouroboroid
   weight: 1.0
   avg_copies: 1.5
-- name: Forest
-  weight: 1.0
-  avg_copies: 1.0
-- name: Creeping Corrosion
-  weight: 1.0
-  avg_copies: 1.0
-- name: Nissa, Resurgent Animist
-  weight: 1.0
-  avg_copies: 1.0
-- name: Ashaya, Soul of the Wild
-  weight: 1.0
-  avg_copies: 1.0
 - name: Formidable Speaker
   weight: 1.0
   avg_copies: 1.0
-- name: Boseiju, Who Endures
-  weight: 1.0
-  avg_copies: 1.0
-- name: Collector Ouphe
+- name: Disciple of Freyalise
   weight: 1.0
   avg_copies: 1.0
 - name: Verdant Catacombs
@@ -87,19 +72,34 @@ top_cards:
 - name: Chomping Changeling
   weight: 1.0
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Craterhoof Behemoth
+  weight: 1.0
+  avg_copies: 1.0
+- name: Underground Mortuary
+  weight: 1.0
+  avg_copies: 1.0
+- name: Ashaya, Soul of the Wild
   weight: 1.0
   avg_copies: 1.0
 - name: Endurance
   weight: 1.0
   avg_copies: 1.0
-- name: Craterhoof Behemoth
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
-- name: Disciple of Freyalise
+- name: Creeping Corrosion
   weight: 1.0
   avg_copies: 1.0
-- name: Underground Mortuary
+- name: Pithing Needle
+  weight: 1.0
+  avg_copies: 1.0
+- name: Boseiju, Who Endures
+  weight: 1.0
+  avg_copies: 1.0
+- name: Nissa, Resurgent Animist
+  weight: 1.0
+  avg_copies: 1.0
+- name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
 ---

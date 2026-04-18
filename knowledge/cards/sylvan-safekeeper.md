@@ -7,7 +7,7 @@ name: Sylvan Safekeeper
 scryfall_id: 83036e21-21ea-4324-aa07-11757f80c417
 set: mh3
 type: Creature — Human Wizard
-meta_presence: 0.0077
+meta_presence: 0.0076
 archetypes:
   samwise-combo:
     weight: 0.625

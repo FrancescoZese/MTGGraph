@@ -7,7 +7,7 @@ name: Otherworldly Gaze
 scryfall_id: 40bafd2b-acd4-46f0-abb2-139e2918ae99
 set: dsc
 type: Instant
-meta_presence: 0.0026
+meta_presence: 0.0025
 archetypes:
   goryo-reanimator:
     weight: 0.0417

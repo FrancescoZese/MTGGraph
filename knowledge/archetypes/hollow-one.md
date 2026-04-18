@@ -3,25 +3,25 @@ colors:
 - B
 - R
 name: Hollow One
-meta_share: 0.0128
+meta_share: 0.0126
 list_count: 10
 top_cards:
-- name: Moonshadow
-  weight: 1.0
-  avg_copies: 4.0
-- name: Street Wraith
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Hollow One
   weight: 1.0
   avg_copies: 4.0
-- name: Detective's Phoenix
+- name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
 - name: Burning Inquiry
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Detective's Phoenix
+  weight: 1.0
+  avg_copies: 4.0
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Bloodstained Mire
@@ -99,13 +99,13 @@ top_cards:
 - name: Murderous Cut
   weight: 0.4
   avg_copies: 1.0
+- name: Fear of Missing Out
+  weight: 0.3
+  avg_copies: 2.0
 - name: Rakdos Charm
   weight: 0.3
   avg_copies: 2.0
 - name: Tarfire
-  weight: 0.3
-  avg_copies: 2.0
-- name: Fear of Missing Out
   weight: 0.3
   avg_copies: 2.0
 - name: Marsh Flats
@@ -117,25 +117,28 @@ top_cards:
 - name: Verdant Catacombs
   weight: 0.2
   avg_copies: 2.0
-- name: Violent Urge
-  weight: 0.2
-  avg_copies: 1.0
 - name: Polluted Delta
   weight: 0.2
   avg_copies: 1.0
-- name: Blazing Rootwalla
-  weight: 0.1
-  avg_copies: 4.0
+- name: Violent Urge
+  weight: 0.2
+  avg_copies: 1.0
 - name: Leyline of the Void
   weight: 0.1
   avg_copies: 4.0
 - name: Vengevine
   weight: 0.1
   avg_copies: 4.0
-- name: Cool but Rude
+- name: Blazing Rootwalla
+  weight: 0.1
+  avg_copies: 4.0
+- name: Goblin Lore
   weight: 0.1
   avg_copies: 2.0
 - name: Magebane Lizard
+  weight: 0.1
+  avg_copies: 2.0
+- name: Stomping Ground
   weight: 0.1
   avg_copies: 2.0
 - name: Sheoldred's Edict
@@ -147,25 +150,22 @@ top_cards:
 - name: Unholy Heat
   weight: 0.1
   avg_copies: 2.0
-- name: Goblin Lore
+- name: Cool but Rude
   weight: 0.1
   avg_copies: 2.0
-- name: Stomping Ground
+- name: Seal of Fire
   weight: 0.1
-  avg_copies: 2.0
+  avg_copies: 1.0
 - name: Ox of Agonas
   weight: 0.1
   avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.1
   avg_copies: 1.0
-- name: Shattering Spree
-  weight: 0.1
-  avg_copies: 1.0
 - name: Barbarian Ring
   weight: 0.1
   avg_copies: 1.0
-- name: Seal of Fire
+- name: Shattering Spree
   weight: 0.1
   avg_copies: 1.0
 - name: Overlord of the Balemurk

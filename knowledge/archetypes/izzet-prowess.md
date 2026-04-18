@@ -3,19 +3,19 @@ colors:
 - U
 - R
 name: Izzet Prowess
-meta_share: 0.0384
+meta_share: 0.0378
 list_count: 30
 top_cards:
-- name: Lightning Bolt
+- name: Cori-Steel Cutter
+  weight: 1.0
+  avg_copies: 4.0
+- name: Preordain
   weight: 1.0
   avg_copies: 4.0
 - name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
-- name: Cori-Steel Cutter
-  weight: 1.0
-  avg_copies: 4.0
-- name: Preordain
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
@@ -141,13 +141,13 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 0.1
   avg_copies: 1.67
-- name: Blood Moon
+- name: Monstrous Rage
   weight: 0.1
   avg_copies: 1.67
 - name: Force of Negation
   weight: 0.1
   avg_copies: 1.67
-- name: Monstrous Rage
+- name: Blood Moon
   weight: 0.1
   avg_copies: 1.67
 - name: Soul-Guide Lantern
@@ -159,49 +159,49 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.0667
   avg_copies: 2.0
-- name: Redirect Lightning
-  weight: 0.0667
-  avg_copies: 1.0
 - name: True Ancestry
   weight: 0.0667
   avg_copies: 1.0
-- name: End the Festivities
+- name: Redirect Lightning
   weight: 0.0667
   avg_copies: 1.0
 - name: Island
   weight: 0.0667
   avg_copies: 1.0
+- name: End the Festivities
+  weight: 0.0667
+  avg_copies: 1.0
 - name: Prismatic Ending
   weight: 0.0333
   avg_copies: 3.0
-- name: Alpine Moon
-  weight: 0.0333
-  avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.0333
   avg_copies: 2.0
-- name: Shatterstorm
+- name: Alpine Moon
+  weight: 0.0333
+  avg_copies: 2.0
+- name: Flooded Strand
   weight: 0.0333
   avg_copies: 1.0
 - name: Polluted Delta
   weight: 0.0333
   avg_copies: 1.0
-- name: The Legend of Roku
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Flooded Strand
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Sacred Foundry
+- name: Combustion Technique
   weight: 0.0333
   avg_copies: 1.0
 - name: Wear
   weight: 0.0333
   avg_copies: 1.0
-- name: Combustion Technique
+- name: Sacred Foundry
   weight: 0.0333
   avg_copies: 1.0
 - name: Riverpyre Verge
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Shatterstorm
+  weight: 0.0333
+  avg_copies: 1.0
+- name: The Legend of Roku
   weight: 0.0333
   avg_copies: 1.0
 ---

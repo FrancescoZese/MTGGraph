@@ -6,16 +6,16 @@ name: Damping Sphere
 scryfall_id: 550860b4-887d-423a-8add-816c2a8da615
 set: dmr
 type: Artifact
-meta_presence: 0.3248
+meta_presence: 0.3253
 archetypes:
   boros-energy:
-    weight: 0.2353
-    avg_copies: 1.5
+    weight: 0.2384
+    avg_copies: 1.51
   dimir-control:
     weight: 0.0435
     avg_copies: 2.0
   dimir-frog:
-    weight: 0.25
+    weight: 0.2308
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.3077
@@ -33,10 +33,10 @@ archetypes:
     weight: 0.1765
     avg_copies: 2.33
   living-end:
-    weight: 0.5333
+    weight: 0.5
     avg_copies: 1.0
   affinity:
-    weight: 0.9865
+    weight: 0.9867
     avg_copies: 2.55
   domain-zoo:
     weight: 0.7778
@@ -48,7 +48,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   mardu-blink:
-    weight: 1.0
+    weight: 0.75
     avg_copies: 1.67
   hammer-time:
     weight: 0.5
@@ -60,7 +60,7 @@ archetypes:
     weight: 0.7143
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 1.0
   simic-ritual:
     weight: 0.2
@@ -69,7 +69,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.62
   broodscale-combo:
-    weight: 0.4615
+    weight: 0.5
     avg_copies: 2.0
   orzhov-blink:
     weight: 1.0
@@ -96,6 +96,9 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-4:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-7:
     weight: 1.0
     avg_copies: 2.0
 ---

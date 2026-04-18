@@ -7,7 +7,7 @@ name: Endurance
 scryfall_id: b770471c-1bf7-4179-8418-dcd790ca5405
 set: ecc
 type: Creature — Elemental Incarnation
-meta_presence: 0.0857
+meta_presence: 0.0858
 archetypes:
   living-end:
     weight: 1.0

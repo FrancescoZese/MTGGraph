@@ -6,14 +6,14 @@ name: Swamp
 scryfall_id: 51fe930f-2b5a-4b1e-9007-6ee74fb44715
 set: sos
 type: Basic Land — Swamp
-meta_presence: 0.2059
+meta_presence: 0.2043
 archetypes:
   dimir-control:
     weight: 0.9565
     avg_copies: 1.0
   dimir-frog:
     weight: 1.0
-    avg_copies: 1.17
+    avg_copies: 1.15
   eldrazi-tron:
     weight: 0.8125
     avg_copies: 1.0
@@ -24,7 +24,7 @@ archetypes:
     weight: 1.0
     avg_copies: 9.76
   living-end:
-    weight: 0.2667
+    weight: 0.25
     avg_copies: 1.0
   mill:
     weight: 0.5

@@ -7,7 +7,7 @@ name: Day's Undoing
 scryfall_id: ac13a82d-43f5-4b96-bf5f-18e33fae921b
 set: cmm
 type: Sorcery
-meta_presence: 0.0179
+meta_presence: 0.0177
 archetypes:
   azorius-control:
     weight: 0.7647

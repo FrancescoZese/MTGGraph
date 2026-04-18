@@ -6,16 +6,16 @@ colors:
 - R
 - G
 name: Neoform Combo
-meta_share: 0.0192
+meta_share: 0.0189
 list_count: 15
 top_cards:
-- name: Neoform
-  weight: 1.0
-  avg_copies: 4.0
 - name: Planar Genesis
   weight: 1.0
   avg_copies: 4.0
 - name: Eldritch Evolution
+  weight: 1.0
+  avg_copies: 4.0
+- name: Neoform
   weight: 1.0
   avg_copies: 4.0
 - name: Allosaurus Rider
@@ -42,10 +42,10 @@ top_cards:
 - name: Hedge Maze
   weight: 1.0
   avg_copies: 2.8
-- name: Ghalta, Stampede Tyrant
+- name: Disciple of Freyalise
   weight: 1.0
   avg_copies: 2.2
-- name: Disciple of Freyalise
+- name: Ghalta, Stampede Tyrant
   weight: 1.0
   avg_copies: 2.2
 - name: Generous Ent
@@ -60,13 +60,13 @@ top_cards:
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.07
-- name: Boseiju, Who Endures
-  weight: 1.0
-  avg_copies: 1.0
 - name: Xenagos, God of Revels
   weight: 1.0
   avg_copies: 1.0
 - name: Griselbrand
+  weight: 1.0
+  avg_copies: 1.0
+- name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.0
 - name: Veil of Summer
@@ -78,10 +78,10 @@ top_cards:
 - name: Snow-Covered Forest
   weight: 0.9333
   avg_copies: 1.05
-- name: Atraxa, Grand Unifier
+- name: Elesh Norn, Grand Cenobite
   weight: 0.9333
   avg_copies: 1.0
-- name: Elesh Norn, Grand Cenobite
+- name: Atraxa, Grand Unifier
   weight: 0.9333
   avg_copies: 1.0
 - name: Snow-Covered Island
@@ -102,10 +102,10 @@ top_cards:
 - name: Scalding Tarn
   weight: 0.7333
   avg_copies: 1.55
-- name: Endurance
+- name: Abhorrent Oculus
   weight: 0.7333
   avg_copies: 1.0
-- name: Abhorrent Oculus
+- name: Endurance
   weight: 0.7333
   avg_copies: 1.0
 - name: Polluted Delta
@@ -129,13 +129,7 @@ top_cards:
 - name: Hexing Squelcher
   weight: 0.0667
   avg_copies: 4.0
-- name: Forest
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Brainsurge
+- name: Windswept Heath
   weight: 0.0667
   avg_copies: 1.0
 - name: Borborygmos Enraged
@@ -144,13 +138,19 @@ top_cards:
 - name: Spell Snare
   weight: 0.0667
   avg_copies: 1.0
-- name: Windswept Heath
-  weight: 0.0667
-  avg_copies: 1.0
 - name: Preordain
   weight: 0.0667
   avg_copies: 1.0
+- name: Brainsurge
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.0667
+  avg_copies: 1.0
 - name: Commercial District
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Forest
   weight: 0.0667
   avg_copies: 1.0
 - name: Island

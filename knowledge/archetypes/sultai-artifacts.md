@@ -3,16 +3,16 @@ colors:
 - U
 - R
 name: Sultai Artifacts
-meta_share: 0.0128
+meta_share: 0.0126
 list_count: 10
 top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
-- name: Mox Opal
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
 - name: Emry, Lurker of the Loch
@@ -48,10 +48,10 @@ top_cards:
 - name: Breeding Pool
   weight: 0.9
   avg_copies: 1.11
-- name: Thundering Falls
+- name: Strix Serenade
   weight: 0.9
   avg_copies: 1.0
-- name: Strix Serenade
+- name: Thundering Falls
   weight: 0.9
   avg_copies: 1.0
 - name: Island
@@ -69,10 +69,10 @@ top_cards:
 - name: Blood Moon
   weight: 0.7
   avg_copies: 2.86
-- name: Fire Magic
+- name: Quantum Riddler
   weight: 0.7
   avg_copies: 2.57
-- name: Quantum Riddler
+- name: Fire Magic
   weight: 0.7
   avg_copies: 2.57
 - name: Flame of Anor
@@ -84,10 +84,10 @@ top_cards:
 - name: Mountain
   weight: 0.7
   avg_copies: 1.0
-- name: Shadowspear
+- name: Flooded Strand
   weight: 0.6
   avg_copies: 1.0
-- name: Flooded Strand
+- name: Shadowspear
   weight: 0.6
   avg_copies: 1.0
 - name: Minamo, School at Water's Edge
@@ -129,10 +129,10 @@ top_cards:
 - name: Spirebluff Canal
   weight: 0.2
   avg_copies: 2.5
-- name: Endurance
+- name: Mystical Dispute
   weight: 0.2
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Endurance
   weight: 0.2
   avg_copies: 2.0
 - name: Six
@@ -141,49 +141,46 @@ top_cards:
 - name: Pyroclasm
   weight: 0.2
   avg_copies: 1.5
+- name: Hedge Maze
+  weight: 0.2
+  avg_copies: 1.0
 - name: Engineered Explosives
-  weight: 0.2
-  avg_copies: 1.0
-- name: Boseiju, Who Endures
-  weight: 0.2
-  avg_copies: 1.0
-- name: Shifting Woodland
   weight: 0.2
   avg_copies: 1.0
 - name: Grafdigger's Cage
   weight: 0.2
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Shifting Woodland
+  weight: 0.2
+  avg_copies: 1.0
+- name: Boseiju, Who Endures
   weight: 0.2
   avg_copies: 1.0
 - name: Boomerang Basics
   weight: 0.1
   avg_copies: 3.0
-- name: Whipflare
-  weight: 0.1
-  avg_copies: 3.0
 - name: Preordain
   weight: 0.1
   avg_copies: 3.0
-- name: Kappa Cannoneer
+- name: Whipflare
   weight: 0.1
-  avg_copies: 2.0
-- name: The Reality Chip
-  weight: 0.1
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Botanical Sanctum
   weight: 0.1
   avg_copies: 2.0
 - name: Harbinger of the Seas
   weight: 0.1
   avg_copies: 2.0
-- name: Nature's Claim
+- name: Kappa Cannoneer
   weight: 0.1
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: The Reality Chip
+  weight: 0.1
+  avg_copies: 2.0
 - name: Force of Vigor
   weight: 0.1
   avg_copies: 1.0
-- name: Snow-Covered Island
+- name: Swan Song
   weight: 0.1
   avg_copies: 1.0
 - name: Subtlety
@@ -192,13 +189,16 @@ top_cards:
 - name: Snow-Covered Mountain
   weight: 0.1
   avg_copies: 1.0
-- name: Meltdown
-  weight: 0.1
-  avg_copies: 1.0
-- name: Swan Song
-  weight: 0.1
-  avg_copies: 1.0
 - name: Stomping Ground
+  weight: 0.1
+  avg_copies: 1.0
+- name: Nature's Claim
+  weight: 0.1
+  avg_copies: 1.0
+- name: Snow-Covered Island
+  weight: 0.1
+  avg_copies: 1.0
+- name: Meltdown
   weight: 0.1
   avg_copies: 1.0
 ---
