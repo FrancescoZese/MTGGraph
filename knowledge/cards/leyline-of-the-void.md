@@ -10,7 +10,7 @@ type: Enchantment
 meta_presence: 0.005
 archetypes:
   hollow-one:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 4.0
   indomitable-creativity:
     weight: 0.2857

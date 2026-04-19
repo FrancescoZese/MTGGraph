@@ -6,7 +6,7 @@ name: Sacred Foundry
 scryfall_id: 8b4e2642-3c87-4708-b9b4-2e7f7359ac7d
 set: eoe
 type: Land — Mountain Plains
-meta_presence: 0.3632
+meta_presence: 0.361
 archetypes:
   ruby-storm:
     weight: 1.0
@@ -33,7 +33,7 @@ archetypes:
     weight: 0.7778
     avg_copies: 3.43
   izzet-prowess:
-    weight: 0.0333
+    weight: 0.0312
     avg_copies: 1.0
   4c-omnath:
     weight: 1.0

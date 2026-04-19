@@ -5,7 +5,7 @@ colors:
 - B
 - G
 name: Goryo Reanimator
-meta_share: 0.0303
+meta_share: 0.0298
 list_count: 24
 top_cards:
 - name: Goryo's Vengeance
@@ -56,10 +56,16 @@ top_cards:
 - name: Griselbrand
   weight: 1.0
   avg_copies: 1.08
-- name: Undercity Sewers
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
-- name: Plains
+- name: Watery Grave
+  weight: 1.0
+  avg_copies: 1.0
+- name: Meticulous Archive
+  weight: 1.0
+  avg_copies: 1.0
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
 - name: Godless Shrine
@@ -68,19 +74,13 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.0
-- name: Watery Grave
-  weight: 1.0
-  avg_copies: 1.0
-- name: Shadowy Backstreet
-  weight: 1.0
-  avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 1.0
-  avg_copies: 1.0
-- name: Meticulous Archive
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
 - name: Swamp
+  weight: 1.0
+  avg_copies: 1.0
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
 - name: Quantum Riddler
@@ -137,25 +137,31 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.0833
   avg_copies: 1.5
-- name: Cephalid Coliseum
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Ketramose, the New Dawn
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
+- name: Overgrown Tomb
   weight: 0.0833
   avg_copies: 1.0
 - name: Kavaero, Mind-Bitten
   weight: 0.0833
   avg_copies: 1.0
-- name: Overgrown Tomb
+- name: Elesh Norn, Mother of Machines
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Ketramose, the New Dawn
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Cephalid Coliseum
   weight: 0.0833
   avg_copies: 1.0
 - name: No More Lies
   weight: 0.0417
   avg_copies: 2.0
-- name: Arcbound Ravager
+- name: Unburial Rites
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Damn
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Otherworldly Gaze
   weight: 0.0417
   avg_copies: 1.0
 - name: Winternight Stories
@@ -164,19 +170,13 @@ top_cards:
 - name: Supreme Verdict
   weight: 0.0417
   avg_copies: 1.0
-- name: Otherworldly Gaze
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Toxic Deluge
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Unburial Rites
+- name: Arcbound Ravager
   weight: 0.0417
   avg_copies: 1.0
 - name: Drannith Magistrate
   weight: 0.0417
   avg_copies: 1.0
-- name: Damn
+- name: Toxic Deluge
   weight: 0.0417
   avg_copies: 1.0
 - name: Subtlety

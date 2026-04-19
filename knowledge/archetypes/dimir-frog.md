@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: Dimir Frog
-meta_share: 0.0164
+meta_share: 0.0161
 list_count: 13
 top_cards:
 - name: Polluted Delta
@@ -84,13 +84,13 @@ top_cards:
 - name: Flooded Strand
   weight: 0.6154
   avg_copies: 2.0
-- name: Darkslick Shores
-  weight: 0.6154
-  avg_copies: 1.5
 - name: Ghost Vacuum
   weight: 0.6154
   avg_copies: 1.5
 - name: Marsh Flats
+  weight: 0.6154
+  avg_copies: 1.5
+- name: Darkslick Shores
   weight: 0.6154
   avg_copies: 1.5
 - name: Otawara, Soaring City
@@ -147,16 +147,16 @@ top_cards:
 - name: Pest Control
   weight: 0.1538
   avg_copies: 1.5
-- name: Field of Ruin
-  weight: 0.1538
-  avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Shoot the Sheriff
   weight: 0.1538
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.1538
   avg_copies: 1.0
-- name: Shoot the Sheriff
+- name: Field of Ruin
+  weight: 0.1538
+  avg_copies: 1.0
+- name: Hallowed Fountain
   weight: 0.1538
   avg_copies: 1.0
 - name: Consider
@@ -171,25 +171,25 @@ top_cards:
 - name: Consult the Star Charts
   weight: 0.0769
   avg_copies: 2.0
-- name: Strix Serenade
-  weight: 0.0769
-  avg_copies: 2.0
 - name: Archmage's Charm
   weight: 0.0769
   avg_copies: 2.0
-- name: Celestial Purge
+- name: Strix Serenade
   weight: 0.0769
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: High Noon
   weight: 0.0769
   avg_copies: 1.0
-- name: Vanishing Verse
+- name: Prismatic Ending
   weight: 0.0769
   avg_copies: 1.0
 - name: Teferi, Time Raveler
   weight: 0.0769
   avg_copies: 1.0
-- name: Prismatic Ending
+- name: Vanishing Verse
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Celestial Purge
   weight: 0.0769
   avg_copies: 1.0
 ---

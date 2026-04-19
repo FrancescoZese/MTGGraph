@@ -3,7 +3,7 @@ colors:
 - R
 - G
 name: Broodscale Combo
-meta_share: 0.0177
+meta_share: 0.0174
 list_count: 14
 top_cards:
 - name: Basking Broodscale
@@ -12,13 +12,13 @@ top_cards:
 - name: Grove of the Burnwillows
   weight: 1.0
   avg_copies: 4.0
+- name: Urza's Saga
+  weight: 1.0
+  avg_copies: 4.0
 - name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
 - name: Kozilek's Command
-  weight: 1.0
-  avg_copies: 4.0
-- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Malevolent Rumble
@@ -45,13 +45,13 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.41
+- name: Springleaf Drum
+  weight: 1.0
+  avg_copies: 1.0
 - name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
 - name: Soul-Guide Lantern
-  weight: 1.0
-  avg_copies: 1.0
-- name: Springleaf Drum
   weight: 1.0
   avg_copies: 1.0
 - name: Ancient Stirrings
@@ -60,13 +60,13 @@ top_cards:
 - name: Walking Ballista
   weight: 0.9286
   avg_copies: 2.31
-- name: Pithing Needle
-  weight: 0.8571
-  avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.8571
   avg_copies: 1.0
 - name: Grafdigger's Cage
+  weight: 0.8571
+  avg_copies: 1.0
+- name: Pithing Needle
   weight: 0.8571
   avg_copies: 1.0
 - name: Dismember
@@ -99,19 +99,19 @@ top_cards:
 - name: Warping Wail
   weight: 0.5
   avg_copies: 1.38
-- name: Stomping Ground
+- name: Commercial District
   weight: 0.5
   avg_copies: 1.0
-- name: Commercial District
+- name: Stomping Ground
   weight: 0.5
   avg_copies: 1.0
 - name: Wooded Foothills
   weight: 0.4286
   avg_copies: 1.0
-- name: Windswept Heath
+- name: Verdant Catacombs
   weight: 0.3571
   avg_copies: 1.0
-- name: Verdant Catacombs
+- name: Windswept Heath
   weight: 0.3571
   avg_copies: 1.0
 - name: Sowing Mycospawn
@@ -126,10 +126,10 @@ top_cards:
 - name: Writhing Chrysalis
   weight: 0.2143
   avg_copies: 2.67
-- name: Misty Rainforest
+- name: Sire of Seven Deaths
   weight: 0.2143
   avg_copies: 1.33
-- name: Sire of Seven Deaths
+- name: Misty Rainforest
   weight: 0.2143
   avg_copies: 1.33
 - name: Ugin, Eye of the Storms
@@ -141,10 +141,10 @@ top_cards:
 - name: Thought-Knot Seer
   weight: 0.0714
   avg_copies: 2.5
-- name: Bojuka Bog
+- name: Ghost Quarter
   weight: 0.0714
   avg_copies: 1.0
-- name: Ghost Quarter
+- name: Bojuka Bog
   weight: 0.0714
   avg_copies: 1.0
 ---

@@ -7,7 +7,7 @@ name: Whir of Invention
 scryfall_id: 0279fd3c-9252-4958-9d7a-5f33aa25907e
 set: aer
 type: Instant
-meta_presence: 0.0227
+meta_presence: 0.0223
 archetypes:
   mono-blue-belcher:
     weight: 1.0

@@ -7,11 +7,11 @@ name: Consign to Memory
 scryfall_id: bc95af55-d1dd-4fe6-adb0-3ad6db20d986
 set: mh3
 type: Instant
-meta_presence: 0.488
+meta_presence: 0.4876
 archetypes:
   dimir-control:
     weight: 1.0
-    avg_copies: 3.39
+    avg_copies: 3.42
   dimir-frog:
     weight: 1.0
     avg_copies: 3.46
@@ -31,8 +31,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.65
   affinity:
-    weight: 0.92
-    avg_copies: 2.29
+    weight: 0.9221
+    avg_copies: 2.31
   domain-zoo:
     weight: 1.0
     avg_copies: 1.96
@@ -58,8 +58,8 @@ archetypes:
     weight: 0.8
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.9667
-    avg_copies: 2.93
+    weight: 0.9688
+    avg_copies: 2.97
   esper-blink:
     weight: 1.0
     avg_copies: 3.0
@@ -82,8 +82,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   izzet-cori-steel:
-    weight: 0.8
-    avg_copies: 2.38
+    weight: 0.8182
+    avg_copies: 2.56
   grixis-control:
     weight: 1.0
     avg_copies: 4.0

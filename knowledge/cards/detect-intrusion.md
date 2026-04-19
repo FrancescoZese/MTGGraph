@@ -9,7 +9,7 @@ type: Unknown
 meta_presence: 0.0025
 archetypes:
   affinity:
-    weight: 0.0133
+    weight: 0.013
     avg_copies: 2.0
   azorius-blink:
     weight: 0.3333

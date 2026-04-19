@@ -6,7 +6,7 @@ name: Skyline Cascade
 scryfall_id: 29b0027d-c232-4cdd-89c4-75947687aa71
 set: bfz
 type: Land
-meta_presence: 0.0101
+meta_presence: 0.0099
 archetypes:
   amulet-titan:
     weight: 0.2667

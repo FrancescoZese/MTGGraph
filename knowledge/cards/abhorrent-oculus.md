@@ -19,8 +19,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.85
   izzet-prowess:
-    weight: 0.1333
-    avg_copies: 1.75
+    weight: 0.1562
+    avg_copies: 1.6
   sultai-reanimator:
     weight: 1.0
     avg_copies: 4.0

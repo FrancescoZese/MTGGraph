@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: Necrodominance
-meta_share: 0.0214
+meta_share: 0.0211
 list_count: 17
 top_cards:
 - name: Swamp
@@ -93,19 +93,19 @@ top_cards:
 - name: Psychic Frog
   weight: 0.1176
   avg_copies: 4.0
-- name: Sorin, Imperious Bloodlord
-  weight: 0.1176
-  avg_copies: 4.0
 - name: Vein Ripper
   weight: 0.1176
   avg_copies: 4.0
-- name: Consign to Memory
+- name: Sorin, Imperious Bloodlord
+  weight: 0.1176
+  avg_copies: 4.0
+- name: Polluted Delta
   weight: 0.1176
   avg_copies: 3.5
 - name: Watery Grave
   weight: 0.1176
   avg_copies: 3.5
-- name: Polluted Delta
+- name: Consign to Memory
   weight: 0.1176
   avg_copies: 3.5
 - name: Verdant Catacombs
@@ -129,12 +129,27 @@ top_cards:
 - name: Gonti's Machinations
   weight: 0.0588
   avg_copies: 4.0
-- name: Quantum Riddler
-  weight: 0.0588
-  avg_copies: 3.0
 - name: Mystical Dispute
   weight: 0.0588
   avg_copies: 3.0
+- name: Quantum Riddler
+  weight: 0.0588
+  avg_copies: 3.0
+- name: Overgrown Tomb
+  weight: 0.0588
+  avg_copies: 2.0
+- name: Culling Ritual
+  weight: 0.0588
+  avg_copies: 2.0
+- name: Witherbloom Command
+  weight: 0.0588
+  avg_copies: 2.0
+- name: Marsh Flats
+  weight: 0.0588
+  avg_copies: 2.0
+- name: Disruptor Flute
+  weight: 0.0588
+  avg_copies: 2.0
 - name: Pillage the Bog
   weight: 0.0588
   avg_copies: 2.0
@@ -144,37 +159,22 @@ top_cards:
 - name: Mai, Scornful Striker
   weight: 0.0588
   avg_copies: 2.0
-- name: Culling Ritual
-  weight: 0.0588
-  avg_copies: 2.0
-- name: Disruptor Flute
-  weight: 0.0588
-  avg_copies: 2.0
-- name: Witherbloom Command
-  weight: 0.0588
-  avg_copies: 2.0
-- name: Marsh Flats
-  weight: 0.0588
-  avg_copies: 2.0
-- name: Overgrown Tomb
-  weight: 0.0588
-  avg_copies: 2.0
-- name: Damnation
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Illness in the Ranks
-  weight: 0.0588
-  avg_copies: 1.0
 - name: Underground Mortuary
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Kaito, Bane of Nightmares
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Damnation
   weight: 0.0588
   avg_copies: 1.0
 - name: Pick Your Poison
   weight: 0.0588
   avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Illness in the Ranks
   weight: 0.0588
   avg_copies: 1.0
-- name: Kaito, Bane of Nightmares
+- name: Nurturing Peatland
   weight: 0.0588
   avg_copies: 1.0
 ---

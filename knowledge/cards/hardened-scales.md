@@ -7,7 +7,7 @@ name: Hardened Scales
 scryfall_id: 99cfd1a8-49fd-4cc0-96f2-f9f159ce5d55
 set: soc
 type: Enchantment
-meta_presence: 0.0038
+meta_presence: 0.0037
 archetypes:
   hardened-scales:
     weight: 1.0

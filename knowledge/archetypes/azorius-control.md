@@ -4,7 +4,7 @@ colors:
 - U
 - R
 name: Azorius Control
-meta_share: 0.0214
+meta_share: 0.0211
 list_count: 17
 top_cards:
 - name: Flooded Strand
@@ -31,13 +31,13 @@ top_cards:
 - name: Plains
   weight: 1.0
   avg_copies: 1.88
-- name: Island
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.76
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.76
-- name: Hallowed Fountain
+- name: Island
   weight: 1.0
   avg_copies: 1.76
 - name: Celestial Purge
@@ -76,10 +76,10 @@ top_cards:
 - name: Day's Undoing
   weight: 0.7647
   avg_copies: 1.43
-- name: Mystic Gate
+- name: Surgical Extraction
   weight: 0.7647
   avg_copies: 1.23
-- name: Surgical Extraction
+- name: Mystic Gate
   weight: 0.7647
   avg_copies: 1.23
 - name: Monumental Henge
@@ -91,10 +91,10 @@ top_cards:
 - name: Stock Up
   weight: 0.7059
   avg_copies: 2.25
-- name: Otawara, Soaring City
+- name: Geier Reach Sanitarium
   weight: 0.6471
   avg_copies: 1.0
-- name: Geier Reach Sanitarium
+- name: Otawara, Soaring City
   weight: 0.6471
   avg_copies: 1.0
 - name: Supreme Verdict
@@ -106,10 +106,10 @@ top_cards:
 - name: Subtlety
   weight: 0.5294
   avg_copies: 1.78
-- name: Kaheera, the Orphanguard
+- name: Hall of Storm Giants
   weight: 0.5294
   avg_copies: 1.0
-- name: Hall of Storm Giants
+- name: Kaheera, the Orphanguard
   weight: 0.5294
   avg_copies: 1.0
 - name: Galvanic Discharge
@@ -124,10 +124,10 @@ top_cards:
 - name: Phlage, Titan of Fire's Fury
   weight: 0.3529
   avg_copies: 1.17
-- name: Ashiok, Dream Render
+- name: Elegant Parlor
   weight: 0.3529
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Ashiok, Dream Render
   weight: 0.3529
   avg_copies: 1.0
 - name: Tune the Narrative
@@ -157,37 +157,37 @@ top_cards:
 - name: Beza, the Bounding Spring
   weight: 0.1765
   avg_copies: 1.0
-- name: Meltdown
-  weight: 0.1765
-  avg_copies: 1.0
 - name: Polluted Delta
   weight: 0.1765
   avg_copies: 1.0
+- name: Meltdown
+  weight: 0.1765
+  avg_copies: 1.0
+- name: Windswept Heath
+  weight: 0.1176
+  avg_copies: 2.0
 - name: Soul-Guide Lantern
   weight: 0.1176
   avg_copies: 2.0
 - name: Marsh Flats
   weight: 0.1176
   avg_copies: 2.0
-- name: Windswept Heath
-  weight: 0.1176
-  avg_copies: 2.0
 - name: Temporary Lockdown
   weight: 0.1176
   avg_copies: 1.67
-- name: Hedge Maze
+- name: Watery Grave
   weight: 0.1176
   avg_copies: 1.0
-- name: Watery Grave
+- name: Hedge Maze
   weight: 0.1176
   avg_copies: 1.0
 - name: Vendilion Clique
   weight: 0.1176
   avg_copies: 1.0
-- name: Thundertrap Trainer
+- name: Suppression Ray
   weight: 0.0588
   avg_copies: 4.0
-- name: Suppression Ray
+- name: Thundertrap Trainer
   weight: 0.0588
   avg_copies: 4.0
 - name: Sink into Stupor
@@ -196,13 +196,16 @@ top_cards:
 - name: Reprieve
   weight: 0.0588
   avg_copies: 2.0
-- name: Jace, the Mind Sculptor
-  weight: 0.0588
-  avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.0588
   avg_copies: 1.0
-- name: The Wandering Emperor
+- name: Timeless Dragon
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Disruptor Flute
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Breeding Pool
   weight: 0.0588
   avg_copies: 1.0
 - name: Wan Shi Tong, Librarian
@@ -211,10 +214,7 @@ top_cards:
 - name: Get Lost
   weight: 0.0588
   avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Timeless Dragon
+- name: Celestial Colonnade
   weight: 0.0588
   avg_copies: 1.0
 - name: Gemstone Caverns
@@ -223,13 +223,13 @@ top_cards:
 - name: Wear
   weight: 0.0588
   avg_copies: 1.0
+- name: The Wandering Emperor
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Jace, the Mind Sculptor
+  weight: 0.0588
+  avg_copies: 1.0
 - name: Dress Down
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Celestial Colonnade
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Disruptor Flute
   weight: 0.0588
   avg_copies: 1.0
 ---

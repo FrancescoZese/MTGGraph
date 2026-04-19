@@ -8,7 +8,7 @@ name: Abigale, Eloquent First-Year
 scryfall_id: bf708169-a307-494b-b8d8-baae53b2e2f2
 set: ecl
 type: Legendary Creature — Bird Bard
-meta_presence: 0.0013
+meta_presence: 0.0012
 archetypes:
   grixis-shadow:
     weight: 1.0

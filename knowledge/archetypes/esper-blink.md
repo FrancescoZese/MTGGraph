@@ -4,28 +4,28 @@ colors:
 - U
 - B
 name: Esper Blink
-meta_share: 0.0101
+meta_share: 0.0099
 list_count: 8
 top_cards:
-- name: Overlord of the Balemurk
-  weight: 1.0
-  avg_copies: 4.0
-- name: Phelia, Exuberant Shepherd
-  weight: 1.0
-  avg_copies: 4.0
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
+- name: Phelia, Exuberant Shepherd
+  weight: 1.0
+  avg_copies: 4.0
+- name: Overlord of the Balemurk
+  weight: 1.0
+  avg_copies: 4.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 3.88
-- name: Quantum Riddler
+- name: Fatal Push
   weight: 1.0
   avg_copies: 3.38
-- name: Fatal Push
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 3.38
 - name: Witch Enchanter
@@ -34,10 +34,10 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
-- name: Damping Sphere
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.62
-- name: Wrath of the Skies
+- name: Damping Sphere
   weight: 1.0
   avg_copies: 2.62
 - name: Godless Shrine
@@ -52,10 +52,10 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.12
-- name: Watery Grave
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowy Backstreet
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
 - name: Meticulous Archive
@@ -79,10 +79,10 @@ top_cards:
 - name: Polluted Delta
   weight: 0.875
   avg_copies: 1.86
-- name: Undercity Sewers
+- name: Boggart Trawler
   weight: 0.875
   avg_copies: 1.0
-- name: Boggart Trawler
+- name: Undercity Sewers
   weight: 0.875
   avg_copies: 1.0
 - name: High Noon
@@ -97,10 +97,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.625
   avg_copies: 2.2
-- name: Island
+- name: Ashiok, Dream Render
   weight: 0.25
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Island
   weight: 0.25
   avg_copies: 1.0
 - name: Surgical Extraction
@@ -109,40 +109,40 @@ top_cards:
 - name: No More Lies
   weight: 0.125
   avg_copies: 4.0
-- name: Force of Negation
+- name: Psychic Frog
   weight: 0.125
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Force of Negation
   weight: 0.125
   avg_copies: 4.0
 - name: Subtlety
   weight: 0.125
   avg_copies: 4.0
-- name: White Orchid Phantom
-  weight: 0.125
-  avg_copies: 2.0
 - name: Clarion Conqueror
   weight: 0.125
   avg_copies: 2.0
+- name: White Orchid Phantom
+  weight: 0.125
+  avg_copies: 2.0
+- name: Bleachbone Verge
+  weight: 0.125
+  avg_copies: 1.0
+- name: Hydroelectric Specimen
+  weight: 0.125
+  avg_copies: 1.0
+- name: Emptiness
+  weight: 0.125
+  avg_copies: 1.0
 - name: Windswept Heath
   weight: 0.125
   avg_copies: 1.0
 - name: Celestial Purge
   weight: 0.125
   avg_copies: 1.0
-- name: March of Otherworldly Light
-  weight: 0.125
-  avg_copies: 1.0
 - name: Floodfarm Verge
   weight: 0.125
   avg_copies: 1.0
-- name: Emptiness
-  weight: 0.125
-  avg_copies: 1.0
-- name: Bleachbone Verge
-  weight: 0.125
-  avg_copies: 1.0
-- name: Hydroelectric Specimen
+- name: March of Otherworldly Light
   weight: 0.125
   avg_copies: 1.0
 - name: Strix Serenade

@@ -7,10 +7,10 @@ name: Celestial Purge
 scryfall_id: cd38afd4-d7a4-493d-bdea-72be9a1d9a07
 set: mm2
 type: Instant
-meta_presence: 0.2522
+meta_presence: 0.2506
 archetypes:
   boros-energy:
-    weight: 0.6453
+    weight: 0.6457
     avg_copies: 1.72
   dimir-frog:
     weight: 0.0769

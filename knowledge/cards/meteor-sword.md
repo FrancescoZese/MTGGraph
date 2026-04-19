@@ -6,7 +6,7 @@ name: Meteor Sword
 scryfall_id: 68b1c746-a4b8-4a45-9f0e-3962f0ae40e3
 set: tla
 type: Artifact — Equipment
-meta_presence: 0.0013
+meta_presence: 0.0012
 archetypes:
   eldrazi-tron:
     weight: 0.0312

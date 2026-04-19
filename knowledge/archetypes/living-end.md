@@ -5,13 +5,13 @@ colors:
 - B
 - G
 name: Living End
-meta_share: 0.0202
+meta_share: 0.0199
 list_count: 16
 top_cards:
-- name: Endurance
+- name: Shardless Agent
   weight: 1.0
   avg_copies: 4.0
-- name: Shardless Agent
+- name: Endurance
   weight: 1.0
   avg_copies: 4.0
 - name: Force of Negation
@@ -38,13 +38,13 @@ top_cards:
 - name: Hedge Maze
   weight: 1.0
   avg_copies: 1.06
+- name: Breeding Pool
+  weight: 1.0
+  avg_copies: 1.0
 - name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Forest
-  weight: 1.0
-  avg_copies: 1.0
-- name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -101,28 +101,28 @@ top_cards:
 - name: Overgrown Tomb
   weight: 0.5
   avg_copies: 1.12
-- name: Damping Sphere
-  weight: 0.5
-  avg_copies: 1.0
-- name: Mai, Scornful Striker
-  weight: 0.5
-  avg_copies: 1.0
-- name: Temple Garden
-  weight: 0.5
-  avg_copies: 1.0
-- name: Undercity Sewers
+- name: Lush Portico
   weight: 0.5
   avg_copies: 1.0
 - name: Commandeer
   weight: 0.5
   avg_copies: 1.0
-- name: Lush Portico
+- name: Damping Sphere
+  weight: 0.5
+  avg_copies: 1.0
+- name: Undercity Sewers
   weight: 0.5
   avg_copies: 1.0
 - name: Boseiju, Who Endures
   weight: 0.5
   avg_copies: 1.0
 - name: Halo Forager
+  weight: 0.5
+  avg_copies: 1.0
+- name: Temple Garden
+  weight: 0.5
+  avg_copies: 1.0
+- name: Mai, Scornful Striker
   weight: 0.5
   avg_copies: 1.0
 - name: Clarion Conqueror
@@ -134,19 +134,19 @@ top_cards:
 - name: Deceit
   weight: 0.4375
   avg_copies: 1.43
-- name: Meticulous Archive
-  weight: 0.4375
-  avg_copies: 1.0
-- name: Disciple of Freyalise
+- name: Flooded Grove
   weight: 0.4375
   avg_copies: 1.0
 - name: Harvester of Misery
   weight: 0.4375
   avg_copies: 1.0
-- name: Flooded Grove
+- name: Disciple of Freyalise
   weight: 0.4375
   avg_copies: 1.0
 - name: Hallowed Fountain
+  weight: 0.4375
+  avg_copies: 1.0
+- name: Meticulous Archive
   weight: 0.4375
   avg_copies: 1.0
 - name: Culling Ritual
@@ -161,19 +161,19 @@ top_cards:
 - name: Kavaero, Mind-Bitten
   weight: 0.3125
   avg_copies: 1.0
-- name: Deafening Silence
-  weight: 0.25
-  avg_copies: 1.0
 - name: Swamp
   weight: 0.25
   avg_copies: 1.0
-- name: Archon of Cruelty
+- name: Deafening Silence
+  weight: 0.25
+  avg_copies: 1.0
+- name: Flare of Denial
   weight: 0.1875
   avg_copies: 1.0
 - name: Harbinger of the Seas
   weight: 0.1875
   avg_copies: 1.0
-- name: Flare of Denial
+- name: Archon of Cruelty
   weight: 0.1875
   avg_copies: 1.0
 - name: Drannith Magistrate
@@ -188,19 +188,19 @@ top_cards:
 - name: Rough
   weight: 0.0625
   avg_copies: 4.0
-- name: Atraxa, Grand Unifier
-  weight: 0.0625
-  avg_copies: 3.0
 - name: Oliphaunt
   weight: 0.0625
   avg_copies: 3.0
-- name: Steam Vents
+- name: Atraxa, Grand Unifier
   weight: 0.0625
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Verdant Catacombs
   weight: 0.0625
   avg_copies: 2.0
 - name: Titanoth Rex
+  weight: 0.0625
+  avg_copies: 2.0
+- name: Steam Vents
   weight: 0.0625
   avg_copies: 2.0
 - name: Flooded Strand
@@ -209,19 +209,19 @@ top_cards:
 - name: Stomping Ground
   weight: 0.0625
   avg_copies: 1.0
+- name: Sunken Ruins
+  weight: 0.0625
+  avg_copies: 1.0
 - name: Collector Ouphe
   weight: 0.0625
   avg_copies: 1.0
 - name: Press the Enemy
   weight: 0.0625
   avg_copies: 1.0
-- name: Murderous Cut
-  weight: 0.0625
-  avg_copies: 1.0
 - name: Windcaller Aven
   weight: 0.0625
   avg_copies: 1.0
-- name: Sunken Ruins
+- name: Murderous Cut
   weight: 0.0625
   avg_copies: 1.0
 ---

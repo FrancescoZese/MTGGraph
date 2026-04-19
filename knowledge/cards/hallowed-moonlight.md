@@ -7,9 +7,9 @@ name: Hallowed Moonlight
 scryfall_id: 94fd0c0f-4a6a-47cf-9f50-df0bbf19aae4
 set: ori
 type: Instant
-meta_presence: 0.0013
+meta_presence: 0.0012
 archetypes:
   boros-energy:
-    weight: 0.0058
+    weight: 0.0057
     avg_copies: 1.0
 ---

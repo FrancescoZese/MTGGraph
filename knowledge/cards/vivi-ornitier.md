@@ -8,9 +8,9 @@ name: Vivi Ornitier
 scryfall_id: ecc1027a-8c07-44a0-bdde-fa2844cff694
 set: fin
 type: Legendary Creature — Wizard
-meta_presence: 0.0013
+meta_presence: 0.0012
 archetypes:
   izzet-cori-steel:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 3.0
 ---

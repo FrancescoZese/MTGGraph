@@ -7,10 +7,10 @@ name: Thoughtseize
 scryfall_id: b281a308-ab6b-47b6-bec7-632c9aaecede
 set: 2xm
 type: Sorcery
-meta_presence: 0.1412
+meta_presence: 0.1414
 archetypes:
   dimir-control:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 3.0
   dimir-frog:
     weight: 0.8462
@@ -28,11 +28,11 @@ archetypes:
     weight: 1.0
     avg_copies: 2.2
   hollow-one:
-    weight: 0.7
-    avg_copies: 2.86
+    weight: 0.7273
+    avg_copies: 2.88
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 2.14
+    avg_copies: 2.25
   esper-blink:
     weight: 0.875
     avg_copies: 3.62

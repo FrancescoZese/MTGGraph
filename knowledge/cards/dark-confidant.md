@@ -7,7 +7,7 @@ name: Dark Confidant
 scryfall_id: 2520ab23-a068-4462-b261-2754409b4108
 set: fin
 type: Creature — Human Wizard
-meta_presence: 0.0013
+meta_presence: 0.0012
 archetypes:
   jund-saga:
     weight: 1.0

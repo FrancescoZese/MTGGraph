@@ -10,7 +10,7 @@ type: Creature — Angel
 meta_presence: 0.005
 archetypes:
   boros-energy:
-    weight: 0.0058
+    weight: 0.0057
     avg_copies: 4.0
   azorius-blink:
     weight: 0.6667

@@ -7,7 +7,7 @@ name: Eladamri, Korvecdal
 scryfall_id: dfdabdda-bd46-4ea2-8b37-5d7f6cec6aff
 set: mh3
 type: Legendary Creature — Elf Warrior
-meta_presence: 0.0013
+meta_presence: 0.0012
 archetypes:
   elves:
     weight: 1.0

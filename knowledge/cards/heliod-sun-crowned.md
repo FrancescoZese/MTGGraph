@@ -7,7 +7,7 @@ name: Heliod, Sun-Crowned
 scryfall_id: 3245ff74-1f9c-4518-a23f-1579f338f232
 set: cmm
 type: Legendary Enchantment Creature — God
-meta_presence: 0.0013
+meta_presence: 0.0012
 archetypes:
   azorius-blink:
     weight: 0.3333

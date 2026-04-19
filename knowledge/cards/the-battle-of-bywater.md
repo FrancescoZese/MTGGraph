@@ -7,9 +7,9 @@ name: The Battle of Bywater
 scryfall_id: 9bae7a4d-9117-43c5-a048-80a0ddadc034
 set: ltr
 type: Sorcery
-meta_presence: 0.0013
+meta_presence: 0.0012
 archetypes:
   boros-energy:
-    weight: 0.0058
+    weight: 0.0057
     avg_copies: 2.0
 ---

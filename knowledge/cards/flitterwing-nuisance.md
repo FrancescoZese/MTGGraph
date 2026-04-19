@@ -7,7 +7,7 @@ name: Flitterwing Nuisance
 scryfall_id: ad0f6536-5295-4835-8883-35d711dfe6de
 set: ecl
 type: Creature — Faerie Rogue
-meta_presence: 0.0013
+meta_presence: 0.0012
 archetypes:
   azorius-blink:
     weight: 0.3333

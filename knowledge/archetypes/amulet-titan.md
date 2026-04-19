@@ -2,28 +2,28 @@
 colors:
 - G
 name: Amulet Titan
-meta_share: 0.0378
+meta_share: 0.0372
 list_count: 30
 top_cards:
+- name: Urza's Saga
+  weight: 1.0
+  avg_copies: 4.0
+- name: Arboreal Grazer
+  weight: 1.0
+  avg_copies: 4.0
 - name: Spelunking
   weight: 1.0
   avg_copies: 4.0
 - name: Amulet of Vigor
   weight: 1.0
   avg_copies: 4.0
-- name: Arboreal Grazer
-  weight: 1.0
-  avg_copies: 4.0
-- name: Urza's Saga
-  weight: 1.0
-  avg_copies: 4.0
 - name: Crumbling Vestige
   weight: 1.0
   avg_copies: 3.9
-- name: Gruul Turf
+- name: Primeval Titan
   weight: 1.0
   avg_copies: 3.83
-- name: Primeval Titan
+- name: Gruul Turf
   weight: 1.0
   avg_copies: 3.83
 - name: Scapeshift
@@ -41,10 +41,10 @@ top_cards:
 - name: Dismember
   weight: 1.0
   avg_copies: 2.3
-- name: Force of Vigor
+- name: Summoner's Pact
   weight: 1.0
   avg_copies: 2.07
-- name: Summoner's Pact
+- name: Force of Vigor
   weight: 1.0
   avg_copies: 2.07
 - name: Lotus Field
@@ -59,25 +59,25 @@ top_cards:
 - name: Vesuva
   weight: 1.0
   avg_copies: 1.0
-- name: Bojuka Bog
-  weight: 1.0
-  avg_copies: 1.0
-- name: Urza's Cave
+- name: Shifting Woodland
   weight: 1.0
   avg_copies: 1.0
 - name: Mirrorpool
   weight: 1.0
   avg_copies: 1.0
-- name: Echoing Deeps
-  weight: 1.0
-  avg_copies: 1.0
-- name: Shifting Woodland
-  weight: 1.0
-  avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
+- name: Echoing Deeps
+  weight: 1.0
+  avg_copies: 1.0
+- name: Urza's Cave
+  weight: 1.0
+  avg_copies: 1.0
 - name: Tolaria West
+  weight: 1.0
+  avg_copies: 1.0
+- name: Bojuka Bog
   weight: 1.0
   avg_copies: 1.0
 - name: Hanweir Battlements
@@ -125,10 +125,10 @@ top_cards:
 - name: Firespout
   weight: 0.1667
   avg_copies: 1.2
-- name: Azusa, Lost but Seeking
+- name: The Wandering Minstrel
   weight: 0.1667
   avg_copies: 1.0
-- name: The Wandering Minstrel
+- name: Azusa, Lost but Seeking
   weight: 0.1667
   avg_copies: 1.0
 - name: Elder Gargaroth
@@ -143,34 +143,34 @@ top_cards:
 - name: Explore
   weight: 0.0667
   avg_copies: 3.0
+- name: Creeping Corrosion
+  weight: 0.0667
+  avg_copies: 1.0
 - name: Wooded Foothills
   weight: 0.0667
   avg_copies: 1.0
 - name: Hedge Maze
   weight: 0.0667
   avg_copies: 1.0
-- name: Creeping Corrosion
+- name: Elvish Reclaimer
   weight: 0.0667
   avg_copies: 1.0
 - name: Commercial District
   weight: 0.0667
   avg_copies: 1.0
-- name: Elvish Reclaimer
-  weight: 0.0667
-  avg_copies: 1.0
 - name: Windswept Heath
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Dosan the Falling Leaf
   weight: 0.0333
   avg_copies: 1.0
 - name: Heritage Reclamation
   weight: 0.0333
   avg_copies: 1.0
+- name: Insidious Fungus
+  weight: 0.0333
+  avg_copies: 1.0
 - name: Outland Liberator
   weight: 0.0333
   avg_copies: 1.0
-- name: Insidious Fungus
+- name: Dosan the Falling Leaf
   weight: 0.0333
   avg_copies: 1.0
 ---

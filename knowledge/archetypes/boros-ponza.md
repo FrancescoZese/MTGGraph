@@ -3,7 +3,7 @@ colors:
 - W
 - R
 name: Boros Ponza
-meta_share: 0.0113
+meta_share: 0.0112
 list_count: 9
 top_cards:
 - name: Price of Freedom
@@ -12,16 +12,16 @@ top_cards:
 - name: Path to Exile
   weight: 1.0
   avg_copies: 4.0
-- name: Field of Ruin
+- name: Demolition Field
+  weight: 1.0
+  avg_copies: 3.78
+- name: Galvanic Discharge
   weight: 1.0
   avg_copies: 3.78
 - name: Cleansing Wildfire
   weight: 1.0
   avg_copies: 3.78
-- name: Demolition Field
-  weight: 1.0
-  avg_copies: 3.78
-- name: Galvanic Discharge
+- name: Field of Ruin
   weight: 1.0
   avg_copies: 3.78
 - name: Wrath of the Skies
@@ -42,7 +42,7 @@ top_cards:
 - name: Sunken Citadel
   weight: 1.0
   avg_copies: 2.22
-- name: Celestial Purge
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 2.0
 - name: Wear
@@ -51,7 +51,7 @@ top_cards:
 - name: Phlage, Titan of Fire's Fury
   weight: 1.0
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Celestial Purge
   weight: 1.0
   avg_copies: 2.0
 - name: Orim's Chant
@@ -84,10 +84,10 @@ top_cards:
 - name: Sunbaked Canyon
   weight: 0.3333
   avg_copies: 1.0
-- name: Sunbillow Verge
+- name: Reprieve
   weight: 0.2222
   avg_copies: 3.0
-- name: Reprieve
+- name: Sunbillow Verge
   weight: 0.2222
   avg_copies: 3.0
 - name: Mana Tithe
@@ -108,13 +108,13 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.2222
   avg_copies: 1.0
-- name: March of Otherworldly Light
+- name: Settle the Wreckage
   weight: 0.1111
   avg_copies: 2.0
 - name: Prismatic Ending
   weight: 0.1111
   avg_copies: 2.0
-- name: Settle the Wreckage
+- name: March of Otherworldly Light
   weight: 0.1111
   avg_copies: 2.0
 ---

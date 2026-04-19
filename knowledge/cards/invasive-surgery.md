@@ -7,9 +7,9 @@ name: Invasive Surgery
 scryfall_id: 6e644e38-39bf-40bd-9be1-5eb80f472e81
 set: soi
 type: Instant
-meta_presence: 0.0013
+meta_presence: 0.0012
 archetypes:
   izzet-cori-steel:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 2.0
 ---

@@ -6,7 +6,7 @@ name: Raffine's Tower
 scryfall_id: a2c56479-4bee-4edb-80d7-4af010b7c793
 set: snc
 type: Land — Plains Island Swamp
-meta_presence: 0.0013
+meta_presence: 0.0012
 archetypes:
   esper-control:
     weight: 1.0

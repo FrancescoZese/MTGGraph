@@ -7,10 +7,10 @@ name: Toxic Deluge
 scryfall_id: 5aa02b7d-db31-4924-b75e-eb02f332ca3a
 set: mh3
 type: Sorcery
-meta_presence: 0.0252
+meta_presence: 0.0248
 archetypes:
   dimir-control:
-    weight: 0.1304
+    weight: 0.125
     avg_copies: 1.25
   dimir-frog:
     weight: 0.7692

@@ -7,7 +7,7 @@ name: Collector Ouphe
 scryfall_id: 085107a2-c1ec-473c-81d8-23e5a7197776
 set: mh1
 type: Creature — Ouphe
-meta_presence: 0.0441
+meta_presence: 0.0434
 archetypes:
   amulet-titan:
     weight: 0.4667

@@ -10,12 +10,12 @@ type: Instant — Lesson
 meta_presence: 0.005
 archetypes:
   boros-energy:
-    weight: 0.0058
+    weight: 0.0057
     avg_copies: 1.0
   mono-red-belcher:
     weight: 0.3333
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0667
+    weight: 0.0625
     avg_copies: 1.0
 ---

@@ -2,16 +2,19 @@
 colors:
 - U
 name: Mono Blue Belcher
-meta_share: 0.0227
+meta_share: 0.0223
 list_count: 18
 top_cards:
 - name: Lotus Bloom
   weight: 1.0
   avg_copies: 4.0
-- name: Goblin Charbelcher
+- name: Suppression Ray
   weight: 1.0
   avg_copies: 4.0
-- name: Sink into Stupor
+- name: Hydroelectric Specimen
+  weight: 1.0
+  avg_copies: 4.0
+- name: Goblin Charbelcher
   weight: 1.0
   avg_copies: 4.0
 - name: Whir of Invention
@@ -20,10 +23,7 @@ top_cards:
 - name: Tameshi, Reality Architect
   weight: 1.0
   avg_copies: 4.0
-- name: Hydroelectric Specimen
-  weight: 1.0
-  avg_copies: 4.0
-- name: Suppression Ray
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 4.0
 - name: Disrupting Shoal
@@ -104,10 +104,10 @@ top_cards:
 - name: Commandeer
   weight: 0.2778
   avg_copies: 1.6
-- name: Grafdigger's Cage
+- name: Spell Pierce
   weight: 0.2778
   avg_copies: 1.0
-- name: Spell Pierce
+- name: Grafdigger's Cage
   weight: 0.2778
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
@@ -119,22 +119,22 @@ top_cards:
 - name: Mountain
   weight: 0.1667
   avg_copies: 1.0
-- name: Talisman of Progress
-  weight: 0.1111
-  avg_copies: 1.0
 - name: Dusk Rose Reliquary
   weight: 0.1111
   avg_copies: 1.0
-- name: Witch Enchanter
+- name: Talisman of Progress
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Hope of Ghirapur
   weight: 0.0556
   avg_copies: 1.0
 - name: Portable Hole
   weight: 0.0556
   avg_copies: 1.0
-- name: Hope of Ghirapur
+- name: Displacement Wave
   weight: 0.0556
   avg_copies: 1.0
-- name: Displacement Wave
+- name: Witch Enchanter
   weight: 0.0556
   avg_copies: 1.0
 ---

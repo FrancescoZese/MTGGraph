@@ -7,7 +7,7 @@ name: Indomitable Creativity
 scryfall_id: edd00e45-2ae1-4cd0-92a1-155c95f8dc72
 set: aer
 type: Sorcery
-meta_presence: 0.0088
+meta_presence: 0.0087
 archetypes:
   indomitable-creativity:
     weight: 1.0

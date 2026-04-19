@@ -3,28 +3,28 @@ colors:
 - U
 - G
 name: Simic Ritual
-meta_share: 0.0252
+meta_share: 0.0248
 list_count: 20
 top_cards:
-- name: Coiling Oracle
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ice-Fang Coatl
+- name: Flare of Denial
   weight: 1.0
   avg_copies: 4.0
 - name: Birthing Ritual
   weight: 1.0
   avg_copies: 4.0
-- name: Flare of Denial
+- name: Ice-Fang Coatl
+  weight: 1.0
+  avg_copies: 4.0
+- name: Coiling Oracle
   weight: 1.0
   avg_copies: 4.0
 - name: Misty Rainforest
   weight: 1.0
   avg_copies: 3.9
-- name: Subtlety
+- name: Abhorrent Oculus
   weight: 1.0
   avg_copies: 3.85
-- name: Abhorrent Oculus
+- name: Subtlety
   weight: 1.0
   avg_copies: 3.85
 - name: Sink into Stupor
@@ -105,28 +105,37 @@ top_cards:
 - name: Fatal Push
   weight: 0.1
   avg_copies: 2.0
-- name: Undercity Sewers
+- name: Underground Mortuary
   weight: 0.1
   avg_copies: 1.0
-- name: Underground Mortuary
+- name: Undercity Sewers
   weight: 0.1
   avg_copies: 1.0
 - name: Neoform
   weight: 0.1
   avg_copies: 1.0
-- name: Fire Magic
+- name: Pyroclasm
   weight: 0.05
   avg_copies: 3.0
 - name: Quantum Riddler
   weight: 0.05
   avg_copies: 3.0
-- name: Pyroclasm
+- name: Fire Magic
   weight: 0.05
   avg_copies: 3.0
 - name: Psychic Frog
   weight: 0.05
   avg_copies: 2.0
-- name: Steam Vents
+- name: Flooded Strand
+  weight: 0.05
+  avg_copies: 1.0
+- name: Pond Prophet
+  weight: 0.05
+  avg_copies: 1.0
+- name: Stern Scolding
+  weight: 0.05
+  avg_copies: 1.0
+- name: Thundering Falls
   weight: 0.05
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
@@ -135,40 +144,31 @@ top_cards:
 - name: Scalding Tarn
   weight: 0.05
   avg_copies: 1.0
-- name: Fade from History
-  weight: 0.05
-  avg_copies: 1.0
-- name: Stomping Ground
-  weight: 0.05
-  avg_copies: 1.0
-- name: Ephara's Dispersal
-  weight: 0.05
-  avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.05
-  avg_copies: 1.0
-- name: Pond Prophet
+- name: Overgrown Tomb
   weight: 0.05
   avg_copies: 1.0
 - name: Pick Your Poison
   weight: 0.05
   avg_copies: 1.0
+- name: Ephara's Dispersal
+  weight: 0.05
+  avg_copies: 1.0
 - name: Firespout
+  weight: 0.05
+  avg_copies: 1.0
+- name: Hurkyl's Recall
   weight: 0.05
   avg_copies: 1.0
 - name: Dress Down
   weight: 0.05
   avg_copies: 1.0
-- name: Flooded Strand
+- name: Steam Vents
   weight: 0.05
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Stomping Ground
   weight: 0.05
   avg_copies: 1.0
-- name: Stern Scolding
-  weight: 0.05
-  avg_copies: 1.0
-- name: Overgrown Tomb
+- name: Fade from History
   weight: 0.05
   avg_copies: 1.0
 ---
