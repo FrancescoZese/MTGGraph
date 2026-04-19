@@ -23,10 +23,16 @@ MTGO_DECKLISTS_URL = "https://www.mtgo.com/decklists"
 MTGO_BASE_URL = "https://www.mtgo.com/decklist"
 
 
-def get_last_ingested_date() -> str:
-    """Find the most recent date in knowledge/lists/."""
+def get_ingested_sources() -> tuple[str, set[str]]:
+    """Find the oldest relevant date and all ingested source names.
+
+    Returns (earliest_date_to_check, set_of_source_strings).
+    Source strings are like 'MTGO Modern Challenge 64' or 'MTGO Modern League'.
+    We build a set of (date, source) pairs so we can skip already-ingested events.
+    """
     lists_dir = KNOWLEDGE_DIR / "lists"
     latest = "2000-01-01"
+    ingested = set()  # (date, source) pairs
 
     for path in lists_dir.glob("*.md"):
         text = path.read_text()
@@ -35,14 +41,23 @@ def get_last_ingested_date() -> str:
             continue
         fm = yaml.safe_load(parts[1]) or {}
         d = str(fm.get("date", ""))
+        src = str(fm.get("source", ""))
         if d > latest:
             latest = d
+        if d and src:
+            ingested.add((d, src))
 
-    return latest
+    return latest, ingested
 
 
-def find_new_events(since: str, challenges_only: bool = False) -> list[dict]:
-    """Find Modern events newer than `since` date.
+def find_new_events(since: str, ingested: set[tuple[str, str]],
+                    challenges_only: bool = False) -> list[dict]:
+    """Find Modern events not yet ingested.
+
+    Args:
+        since: earliest date to look back to (optimization, not a hard filter)
+        ingested: set of (date, source_name) pairs already in knowledge/lists/
+        challenges_only: skip league events
 
     Uses two strategies:
     1. Fetch the MTGO decklists page and parse links (primary)
@@ -79,12 +94,19 @@ def find_new_events(since: str, challenges_only: bool = False) -> list[dict]:
                 continue
             event_date = date_match.group(1)
 
-            if event_date <= since:
-                continue
-
             name_match = re.match(r"([\w-]+)-\d{4}-\d{2}-\d{2}", slug)
             raw_name = name_match.group(1) if name_match else slug
             event_name = "MTGO " + raw_name.replace("-", " ").title()
+
+            # Skip if already ingested (check by date + source name)
+            if (event_date, event_name) in ingested:
+                continue
+
+            # Don't look back more than 7 days
+            from datetime import datetime, timedelta
+            cutoff = (datetime.now().date() - timedelta(days=7)).strftime("%Y-%m-%d")
+            if event_date < cutoff:
+                continue
 
             events.append({
                 "slug": slug,
@@ -107,7 +129,7 @@ def find_new_events(since: str, challenges_only: bool = False) -> list[dict]:
         while d <= today:
             date_str = d.strftime("%Y-%m-%d")
             slug = f"modern-league-{date_str}10397"
-            if slug not in seen:
+            if slug not in seen and (date_str, "MTGO Modern League") not in ingested:
                 seen.add(slug)
                 events.append({
                     "slug": slug,
@@ -121,16 +143,7 @@ def find_new_events(since: str, challenges_only: bool = False) -> list[dict]:
     # Sort by date ascending
     events.sort(key=lambda e: e["date"])
 
-    # Deduplicate by date+type (keep first occurrence)
-    final = []
-    final_keys = set()
-    for e in events:
-        key = (e["date"], e["type"], e["slug"])
-        if key not in final_keys:
-            final_keys.add(key)
-            final.append(e)
-
-    return final
+    return events
 
 
 def fetch_and_save_decks(event: dict, top_n: int, league_top_n: int | None = None) -> list[Path]:
@@ -185,11 +198,11 @@ def main():
         challenges_only = True
 
     # Find what we already have
-    last_date = get_last_ingested_date()
+    last_date, ingested = get_ingested_sources()
     print(f"Last ingested date: {last_date}")
 
-    # Find new events
-    events = find_new_events(last_date, challenges_only)
+    # Find new events (checks by slug, not just date)
+    events = find_new_events(last_date, ingested, challenges_only)
     if not events:
         print("No new events found. Meta is up to date.")
         return
