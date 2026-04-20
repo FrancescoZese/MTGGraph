@@ -7,9 +7,9 @@ name: Chandra, Spark Hunter
 scryfall_id: 11f9b98e-48a1-491e-bdab-6e94e4ec747a
 set: dft
 type: Legendary Planeswalker — Chandra
-meta_presence: 0.0012
+meta_presence: 0.0011
 archetypes:
   affinity:
-    weight: 0.013
+    weight: 0.0115
     avg_copies: 1.0
 ---

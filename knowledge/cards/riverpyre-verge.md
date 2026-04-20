@@ -9,10 +9,10 @@ type: Land
 meta_presence: 0.0186
 archetypes:
   jeskai-energy:
-    weight: 0.2
+    weight: 0.2027
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0312
+    weight: 0.0278
     avg_copies: 1.0
   izzet-splinter-twin:
     weight: 1.0

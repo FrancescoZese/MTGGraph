@@ -3,22 +3,22 @@ colors:
 - U
 - B
 name: Mill
-meta_share: 0.0074
+meta_share: 0.0066
 list_count: 6
 top_cards:
-- name: Polluted Delta
+- name: Archive Trap
   weight: 1.0
   avg_copies: 4.0
 - name: Ruin Crab
   weight: 1.0
   avg_copies: 4.0
-- name: Fractured Sanity
-  weight: 1.0
-  avg_copies: 4.0
 - name: Hedron Crab
   weight: 1.0
   avg_copies: 4.0
-- name: Archive Trap
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fractured Sanity
   weight: 1.0
   avg_copies: 4.0
 - name: Field of Ruin
@@ -51,16 +51,16 @@ top_cards:
 - name: Jace, the Perfected Mind
   weight: 1.0
   avg_copies: 1.17
-- name: Undercity Sewers
+- name: Shelldock Isle
   weight: 1.0
   avg_copies: 1.0
-- name: Oboro, Palace in the Clouds
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
-- name: Shelldock Isle
+- name: Oboro, Palace in the Clouds
   weight: 1.0
   avg_copies: 1.0
 - name: Snow-Covered Island
@@ -87,10 +87,10 @@ top_cards:
 - name: Island
   weight: 0.5
   avg_copies: 2.67
-- name: Glimpse the Unthinkable
+- name: Ensnaring Bridge
   weight: 0.5
   avg_copies: 2.0
-- name: Ensnaring Bridge
+- name: Glimpse the Unthinkable
   weight: 0.5
   avg_copies: 2.0
 - name: Ghost Quarter
@@ -105,58 +105,58 @@ top_cards:
 - name: The Meathook Massacre
   weight: 0.5
   avg_copies: 1.0
-- name: Crypt Incursion
-  weight: 0.5
-  avg_copies: 1.0
 - name: Murderous Cut
   weight: 0.5
   avg_copies: 1.0
 - name: Misty Rainforest
   weight: 0.5
   avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.3333
-  avg_copies: 2.0
+- name: Crypt Incursion
+  weight: 0.5
+  avg_copies: 1.0
 - name: Kitsune's Technique
   weight: 0.3333
   avg_copies: 2.0
-- name: Damnation
+- name: Tamiyo, Inquisitive Student
   weight: 0.3333
-  avg_copies: 1.0
-- name: Echoing Truth
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Baleful Mastery
-  weight: 0.3333
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Mikokoro, Center of the Sea
   weight: 0.3333
   avg_copies: 1.0
 - name: Cephalid Coliseum
   weight: 0.3333
   avg_copies: 1.0
+- name: Damnation
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Baleful Mastery
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Echoing Truth
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Chalice of the Void
-  weight: 0.1667
-  avg_copies: 2.0
-- name: Mystical Dispute
   weight: 0.1667
   avg_copies: 2.0
 - name: Vendetta
   weight: 0.1667
   avg_copies: 2.0
-- name: Go for the Throat
+- name: Mystical Dispute
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Sink into Stupor
   weight: 0.1667
   avg_copies: 1.0
 - name: Long Goodbye
   weight: 0.1667
   avg_copies: 1.0
-- name: Nihil Spellbomb
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Sink into Stupor
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Illness in the Ranks
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Go for the Throat
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Nihil Spellbomb
   weight: 0.1667
   avg_copies: 1.0
 ---

@@ -5,28 +5,28 @@ colors:
 - B
 - G
 name: Samwise Combo
-meta_share: 0.0099
+meta_share: 0.0087
 list_count: 8
 top_cards:
-- name: Cauldron Familiar
-  weight: 1.0
-  avg_copies: 4.0
-- name: Birthing Ritual
-  weight: 1.0
-  avg_copies: 4.0
 - name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
-- name: Chord of Calling
+- name: Gilded Goose
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cauldron Familiar
   weight: 1.0
   avg_copies: 4.0
 - name: Windswept Heath
   weight: 1.0
   avg_copies: 4.0
-- name: Samwise Gamgee
+- name: Chord of Calling
   weight: 1.0
   avg_copies: 4.0
-- name: Gilded Goose
+- name: Birthing Ritual
+  weight: 1.0
+  avg_copies: 4.0
+- name: Samwise Gamgee
   weight: 1.0
   avg_copies: 4.0
 - name: Malevolent Rumble
@@ -44,10 +44,10 @@ top_cards:
 - name: Force of Vigor
   weight: 1.0
   avg_copies: 2.0
-- name: Overgrown Tomb
+- name: Viscera Seer
   weight: 1.0
   avg_copies: 1.75
-- name: Viscera Seer
+- name: Overgrown Tomb
   weight: 1.0
   avg_copies: 1.75
 - name: Endurance
@@ -56,19 +56,19 @@ top_cards:
 - name: Temple Garden
   weight: 1.0
   avg_copies: 1.12
-- name: Lush Portico
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
 - name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
-- name: Godless Shrine
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
-- name: Forest
+- name: Lush Portico
   weight: 1.0
   avg_copies: 1.0
 - name: Suncleanser
@@ -86,10 +86,10 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.75
   avg_copies: 1.5
-- name: Underground Mortuary
+- name: Crystal Barricade
   weight: 0.75
   avg_copies: 1.0
-- name: Crystal Barricade
+- name: Underground Mortuary
   weight: 0.75
   avg_copies: 1.0
 - name: Abhorrent Oculus
@@ -101,28 +101,28 @@ top_cards:
 - name: Nurturing Peatland
   weight: 0.625
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Sylvan Safekeeper
   weight: 0.625
   avg_copies: 1.0
-- name: Sylvan Safekeeper
+- name: Breeding Pool
   weight: 0.625
   avg_copies: 1.0
 - name: Badgermole Cub
   weight: 0.5
   avg_copies: 2.25
-- name: Soulless Jailer
+- name: Wooded Foothills
   weight: 0.5
   avg_copies: 1.0
-- name: Wooded Foothills
+- name: Soulless Jailer
   weight: 0.5
   avg_copies: 1.0
 - name: Thoughtseize
   weight: 0.375
   avg_copies: 2.67
-- name: Marionette Apprentice
+- name: Wall of Roots
   weight: 0.375
   avg_copies: 2.0
-- name: Wall of Roots
+- name: Marionette Apprentice
   weight: 0.375
   avg_copies: 2.0
 - name: Scout for Survivors
@@ -131,64 +131,64 @@ top_cards:
 - name: Grist, the Hunger Tide
   weight: 0.375
   avg_copies: 1.0
-- name: Dauthi Voidwalker
+- name: Voice of Victory
   weight: 0.375
   avg_copies: 1.0
 - name: Lavinia, Azorius Renegade
   weight: 0.375
   avg_copies: 1.0
-- name: Voice of Victory
+- name: Dauthi Voidwalker
   weight: 0.375
   avg_copies: 1.0
-- name: High Noon
-  weight: 0.25
-  avg_copies: 2.0
 - name: Culling Ritual
   weight: 0.25
   avg_copies: 2.0
-- name: Sephiroth, Fabled SOLDIER
+- name: High Noon
   weight: 0.25
-  avg_copies: 1.0
-- name: Orcish Bowmasters
-  weight: 0.25
-  avg_copies: 1.0
-- name: Dawnbringer Cleric
-  weight: 0.25
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Surgical Extraction
   weight: 0.25
   avg_copies: 1.0
 - name: Ruthless Lawbringer
   weight: 0.25
   avg_copies: 1.0
+- name: Orcish Bowmasters
+  weight: 0.25
+  avg_copies: 1.0
 - name: Seam Rip
+  weight: 0.25
+  avg_copies: 1.0
+- name: Sephiroth, Fabled SOLDIER
+  weight: 0.25
+  avg_copies: 1.0
+- name: Dawnbringer Cleric
   weight: 0.25
   avg_copies: 1.0
 - name: Dewdrop Cure
   weight: 0.125
   avg_copies: 2.0
-- name: City of Brass
+- name: Haliya, Guided by Light
   weight: 0.125
   avg_copies: 2.0
-- name: Haliya, Guided by Light
+- name: City of Brass
   weight: 0.125
   avg_copies: 2.0
 - name: Mana Confluence
   weight: 0.125
   avg_copies: 2.0
-- name: Veil of Summer
+- name: Collector Ouphe
   weight: 0.125
   avg_copies: 1.0
-- name: Collector Ouphe
+- name: Path to Exile
+  weight: 0.125
+  avg_copies: 1.0
+- name: Veil of Summer
   weight: 0.125
   avg_copies: 1.0
 - name: Drannith Magistrate
   weight: 0.125
   avg_copies: 1.0
 - name: Swamp
-  weight: 0.125
-  avg_copies: 1.0
-- name: Path to Exile
   weight: 0.125
   avg_copies: 1.0
 ---

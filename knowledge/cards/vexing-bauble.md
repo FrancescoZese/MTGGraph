@@ -6,31 +6,31 @@ name: Vexing Bauble
 scryfall_id: 29f11089-658f-42e6-aeb0-09b512ad2479
 set: mh3
 type: Artifact
-meta_presence: 0.2878
+meta_presence: 0.2973
 archetypes:
   ruby-storm:
-    weight: 0.05
+    weight: 0.0833
     avg_copies: 1.0
   boros-energy:
-    weight: 0.2343
-    avg_copies: 1.66
+    weight: 0.2474
+    avg_copies: 1.65
   eldrazi-tron:
-    weight: 0.6562
-    avg_copies: 1.12
+    weight: 0.6667
+    avg_copies: 1.13
   amulet-titan:
-    weight: 0.5667
-    avg_copies: 1.12
+    weight: 0.5789
+    avg_copies: 1.14
   hardened-scales:
     weight: 0.6667
     avg_copies: 1.0
   affinity:
-    weight: 0.6494
-    avg_copies: 1.23
+    weight: 0.6667
+    avg_copies: 1.21
   domain-zoo:
-    weight: 0.037
+    weight: 0.0333
     avg_copies: 1.0
   grixis-reanimator:
-    weight: 0.1765
+    weight: 0.1667
     avg_copies: 1.33
   mono-red-belcher:
     weight: 0.6667
@@ -39,8 +39,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   hollow-one:
-    weight: 0.9091
-    avg_copies: 2.2
+    weight: 0.9167
+    avg_copies: 2.18
   boros-ponza:
     weight: 1.0
     avg_copies: 2.0
@@ -49,19 +49,19 @@ archetypes:
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 1.25
+    avg_copies: 1.2
   eldrazi-ramp:
-    weight: 0.9444
+    weight: 0.95
     avg_copies: 1.53
   izzet-prowess:
-    weight: 0.0938
-    avg_copies: 2.67
+    weight: 0.1389
+    avg_copies: 2.0
   samwise-combo:
     weight: 0.75
     avg_copies: 2.0
   broodscale-combo:
     weight: 1.0
-    avg_copies: 1.41
+    avg_copies: 1.42
   orzhov-blink:
     weight: 0.75
     avg_copies: 1.33
@@ -95,4 +95,10 @@ archetypes:
   bant-ritual:
     weight: 1.0
     avg_copies: 2.0
+  unknown-3:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-4:
+    weight: 1.0
+    avg_copies: 3.0
 ---

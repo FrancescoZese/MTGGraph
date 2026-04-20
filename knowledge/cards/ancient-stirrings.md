@@ -7,15 +7,15 @@ name: Ancient Stirrings
 scryfall_id: 726039a0-6c0d-48ef-9b42-99de5d4e41d2
 set: 2xm
 type: Sorcery
-meta_presence: 0.0199
+meta_presence: 0.0208
 archetypes:
   hardened-scales:
     weight: 0.3333
     avg_copies: 3.0
   eldrazi-ramp:
-    weight: 0.1111
+    weight: 0.15
     avg_copies: 2.0
   broodscale-combo:
-    weight: 0.9286
-    avg_copies: 3.92
+    weight: 0.9375
+    avg_copies: 3.93
 ---

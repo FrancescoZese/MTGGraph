@@ -7,7 +7,7 @@ name: Spoils of the Vault
 scryfall_id: 6eb97a96-2c56-4638-b971-00cdf1eafd43
 set: uma
 type: Instant
-meta_presence: 0.0025
+meta_presence: 0.0033
 archetypes:
   unknown-1:
     weight: 1.0

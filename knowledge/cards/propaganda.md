@@ -7,7 +7,7 @@ name: Propaganda
 scryfall_id: e175bba4-c131-48f4-8e31-16ec07a12e59
 set: otc
 type: Enchantment
-meta_presence: 0.0012
+meta_presence: 0.0011
 archetypes:
   mono-blue-tron:
     weight: 0.5

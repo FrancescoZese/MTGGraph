@@ -6,7 +6,7 @@ name: Marketback Walker
 scryfall_id: c2152030-6007-493f-a616-545723a00249
 set: dft
 type: Artifact Creature — Construct
-meta_presence: 0.0012
+meta_presence: 0.0011
 archetypes:
   hardened-scales:
     weight: 0.3333

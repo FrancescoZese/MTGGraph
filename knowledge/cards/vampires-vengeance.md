@@ -7,9 +7,9 @@ name: Vampires' Vengeance
 scryfall_id: bdcfd9ee-9553-4080-a25c-d3552ddc7e82
 set: moc
 type: Instant
-meta_presence: 0.0211
+meta_presence: 0.0208
 archetypes:
   amulet-titan:
-    weight: 0.5667
-    avg_copies: 2.35
+    weight: 0.5
+    avg_copies: 2.42
 ---

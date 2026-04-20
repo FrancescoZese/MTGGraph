@@ -7,11 +7,11 @@ name: Leyline Binding
 scryfall_id: 3c3ac3dd-35db-447f-8674-37b4680a1ef7
 set: dmu
 type: Enchantment
-meta_presence: 0.0409
+meta_presence: 0.0393
 archetypes:
   domain-zoo:
     weight: 1.0
-    avg_copies: 3.96
+    avg_copies: 3.97
   4c-omnath:
     weight: 1.0
     avg_copies: 4.0

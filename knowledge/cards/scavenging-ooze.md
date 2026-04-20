@@ -7,9 +7,9 @@ name: Scavenging Ooze
 scryfall_id: 8c504c23-1e9a-411b-9cfe-4180d0c744f6
 set: fdn
 type: Creature — Ooze
-meta_presence: 0.0074
+meta_presence: 0.0066
 archetypes:
   yawgmoth-combo:
-    weight: 0.75
+    weight: 0.6
     avg_copies: 1.0
 ---

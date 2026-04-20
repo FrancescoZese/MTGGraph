@@ -6,7 +6,7 @@ name: Spymaster's Vault
 scryfall_id: 3d5fbb30-abfc-4e79-8ce5-bbb04a241c9f
 set: mh3
 type: Land
-meta_presence: 0.0112
+meta_presence: 0.012
 archetypes:
   yawgmoth-combo:
     weight: 1.0

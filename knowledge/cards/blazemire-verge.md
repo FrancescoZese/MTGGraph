@@ -6,7 +6,7 @@ name: Blazemire Verge
 scryfall_id: d151c8e2-d715-470d-868a-f45191db9fa0
 set: dsk
 type: Land
-meta_presence: 0.0012
+meta_presence: 0.0011
 archetypes:
   rakdos-lantern-combo:
     weight: 1.0

@@ -8,7 +8,7 @@ name: Coiling Oracle
 scryfall_id: 559ff1b1-018c-4e08-9531-8af20af47d05
 set: rvr
 type: Creature — Snake Elf Druid
-meta_presence: 0.0248
+meta_presence: 0.0262
 archetypes:
   simic-ritual:
     weight: 1.0

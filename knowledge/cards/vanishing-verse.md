@@ -8,9 +8,9 @@ name: Vanishing Verse
 scryfall_id: 8a475868-a335-45e7-9d59-9dc4c2cea1ae
 set: soc
 type: Instant
-meta_presence: 0.0012
+meta_presence: 0.0011
 archetypes:
   dimir-frog:
-    weight: 0.0769
+    weight: 0.0556
     avg_copies: 1.0
 ---

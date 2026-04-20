@@ -9,6 +9,6 @@ type: Land
 meta_presence: 0.0087
 archetypes:
   living-end:
-    weight: 0.4375
+    weight: 0.4706
     avg_copies: 1.0
 ---

@@ -4,7 +4,7 @@ colors:
 - U
 - R
 name: Jeskai Control
-meta_share: 0.0037
+meta_share: 0.0033
 list_count: 3
 top_cards:
 - name: Flooded Strand
@@ -37,10 +37,10 @@ top_cards:
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.33
-- name: Flame of Anor
+- name: Galvanic Discharge
   weight: 0.6667
   avg_copies: 4.0
-- name: Galvanic Discharge
+- name: Flame of Anor
   weight: 0.6667
   avg_copies: 4.0
 - name: Thundertrap Trainer
@@ -70,22 +70,22 @@ top_cards:
 - name: Celestial Purge
   weight: 0.6667
   avg_copies: 2.0
-- name: Island
-  weight: 0.6667
-  avg_copies: 1.5
 - name: Surgical Extraction
   weight: 0.6667
   avg_copies: 1.5
-- name: Thundering Falls
+- name: Island
+  weight: 0.6667
+  avg_copies: 1.5
+- name: Sacred Foundry
   weight: 0.6667
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Thundering Falls
   weight: 0.6667
   avg_copies: 1.0
 - name: Isochron Scepter
   weight: 0.6667
   avg_copies: 1.0
-- name: Counterspell
+- name: Teferi, Time Raveler
   weight: 0.3333
   avg_copies: 4.0
 - name: Suppression Ray
@@ -97,40 +97,28 @@ top_cards:
 - name: Narset, Parter of Veils
   weight: 0.3333
   avg_copies: 4.0
-- name: Teferi, Time Raveler
+- name: Counterspell
   weight: 0.3333
   avg_copies: 4.0
-- name: Fable of the Mirror-Breaker
-  weight: 0.3333
-  avg_copies: 3.0
-- name: Stock Up
+- name: Snapcaster Mage
   weight: 0.3333
   avg_copies: 3.0
 - name: Soul-Guide Lantern
   weight: 0.3333
   avg_copies: 3.0
+- name: Fable of the Mirror-Breaker
+  weight: 0.3333
+  avg_copies: 3.0
 - name: Consult the Star Charts
   weight: 0.3333
   avg_copies: 3.0
-- name: Snapcaster Mage
+- name: Stock Up
   weight: 0.3333
   avg_copies: 3.0
-- name: Flare of Denial
-  weight: 0.3333
-  avg_copies: 2.0
 - name: Day's Undoing
   weight: 0.3333
   avg_copies: 2.0
-- name: Spell Snare
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Temporary Lockdown
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Tune the Narrative
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Supreme Verdict
+- name: Sink into Stupor
   weight: 0.3333
   avg_copies: 2.0
 - name: Obsidian Charmaw
@@ -139,25 +127,37 @@ top_cards:
 - name: Mystic Gate
   weight: 0.3333
   avg_copies: 2.0
+- name: Spell Snare
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Flare of Denial
+  weight: 0.3333
+  avg_copies: 2.0
 - name: Subtlety
   weight: 0.3333
   avg_copies: 2.0
-- name: Sink into Stupor
+- name: Tune the Narrative
   weight: 0.3333
   avg_copies: 2.0
-- name: Gemstone Caverns
+- name: Supreme Verdict
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Temporary Lockdown
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Mountain
   weight: 0.3333
   avg_copies: 1.0
 - name: Stern Scolding
   weight: 0.3333
   avg_copies: 1.0
-- name: Teferi, Hero of Dominaria
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Elegant Parlor
   weight: 0.3333
   avg_copies: 1.0
-- name: Mountain
+- name: Teferi, Hero of Dominaria
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Gemstone Caverns
   weight: 0.3333
   avg_copies: 1.0
 ---

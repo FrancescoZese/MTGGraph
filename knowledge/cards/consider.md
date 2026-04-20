@@ -7,9 +7,9 @@ name: Consider
 scryfall_id: ff6f3824-3670-46e1-af43-0db405726084
 set: tdc
 type: Instant
-meta_presence: 0.0012
+meta_presence: 0.0011
 archetypes:
   dimir-frog:
-    weight: 0.0769
+    weight: 0.0556
     avg_copies: 4.0
 ---

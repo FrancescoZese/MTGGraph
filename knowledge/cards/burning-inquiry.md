@@ -7,9 +7,12 @@ name: Burning Inquiry
 scryfall_id: a448bc9e-f5db-4507-ac40-7d8ee3598585
 set: m10
 type: Sorcery
-meta_presence: 0.0136
+meta_presence: 0.0142
 archetypes:
   hollow-one:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-2:
     weight: 1.0
     avg_copies: 4.0
 ---

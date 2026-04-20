@@ -14,6 +14,6 @@ archetypes:
     weight: 0.0417
     avg_copies: 3.0
   necrodominance:
-    weight: 0.3529
-    avg_copies: 3.33
+    weight: 0.3889
+    avg_copies: 3.43
 ---

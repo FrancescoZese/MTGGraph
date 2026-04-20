@@ -7,7 +7,7 @@ name: Flame Jab
 scryfall_id: e227f18f-7260-4066-bae2-01db4fd1abdd
 set: ema
 type: Sorcery
-meta_presence: 0.0012
+meta_presence: 0.0011
 archetypes:
   dredge:
     weight: 0.3333

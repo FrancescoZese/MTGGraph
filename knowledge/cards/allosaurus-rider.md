@@ -11,5 +11,8 @@ meta_presence: 0.0186
 archetypes:
   neoform-combo:
     weight: 1.0
-    avg_copies: 3.93
+    avg_copies: 3.94
+  unknown-5:
+    weight: 1.0
+    avg_copies: 4.0
 ---

@@ -7,9 +7,9 @@ name: Press the Enemy
 scryfall_id: dfa5380a-480c-4c61-ac52-5debc49c5df9
 set: ltr
 type: Instant
-meta_presence: 0.0012
+meta_presence: 0.0011
 archetypes:
   living-end:
-    weight: 0.0625
+    weight: 0.0588
     avg_copies: 1.0
 ---

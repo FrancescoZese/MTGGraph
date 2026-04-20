@@ -9,16 +9,16 @@ type: Artifact
 meta_presence: 0.0645
 archetypes:
   boros-energy:
-    weight: 0.0171
+    weight: 0.0206
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.9062
-    avg_copies: 1.45
+    weight: 0.9167
+    avg_copies: 1.46
   necrodominance:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 2.0
   azorius-control:
-    weight: 0.0588
+    weight: 0.0476
     avg_copies: 1.0
   burn:
     weight: 0.25
@@ -27,8 +27,8 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.7778
-    avg_copies: 1.79
+    weight: 0.75
+    avg_copies: 1.73
   elves:
     weight: 1.0
     avg_copies: 1.0

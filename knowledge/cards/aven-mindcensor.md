@@ -7,12 +7,12 @@ name: Aven Mindcensor
 scryfall_id: d4cf468f-4e9d-4551-a0ed-10bd6a2316ad
 set: clb
 type: Creature — Bird Wizard
-meta_presence: 0.0037
+meta_presence: 0.0033
 archetypes:
   boros-energy:
-    weight: 0.0114
+    weight: 0.0103
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.0312
+    weight: 0.0278
     avg_copies: 1.0
 ---

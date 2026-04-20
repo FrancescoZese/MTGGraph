@@ -7,7 +7,7 @@ name: Chancellor of the Annex
 scryfall_id: be1b482a-badb-4b9a-ab63-2e7944826aa0
 set: nph
 type: Creature — Phyrexian Angel
-meta_presence: 0.0025
+meta_presence: 0.0033
 archetypes:
   unknown-1:
     weight: 1.0

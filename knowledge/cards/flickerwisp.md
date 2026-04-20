@@ -11,10 +11,10 @@ meta_presence: 0.0186
 archetypes:
   mardu-blink:
     weight: 1.0
-    avg_copies: 2.25
+    avg_copies: 2.2
   esper-blink:
-    weight: 0.875
-    avg_copies: 2.29
+    weight: 0.8889
+    avg_copies: 2.38
   orzhov-blink:
     weight: 1.0
     avg_copies: 2.75

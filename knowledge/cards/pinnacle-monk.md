@@ -10,7 +10,7 @@ meta_presence: 0.0087
 archetypes:
   mardu-blink:
     weight: 1.0
-    avg_copies: 1.75
+    avg_copies: 1.8
   mono-red-belcher:
     weight: 1.0
     avg_copies: 4.0

@@ -7,7 +7,7 @@ name: Vizier of Remedies
 scryfall_id: 36ab760e-93e0-4dbc-aaa1-02316f62ed3f
 set: akh
 type: Creature — Human Cleric
-meta_presence: 0.0012
+meta_presence: 0.0011
 archetypes:
   elves:
     weight: 1.0

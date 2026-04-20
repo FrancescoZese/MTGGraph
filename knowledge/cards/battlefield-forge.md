@@ -6,9 +6,9 @@ name: Battlefield Forge
 scryfall_id: c47c1bf5-f11e-4f86-b20b-5d899a11dc56
 set: soc
 type: Land
-meta_presence: 0.0012
+meta_presence: 0.0011
 archetypes:
   eldrazi-tron:
-    weight: 0.0312
+    weight: 0.0278
     avg_copies: 2.0
 ---

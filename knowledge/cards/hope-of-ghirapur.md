@@ -6,9 +6,9 @@ name: Hope of Ghirapur
 scryfall_id: 6f4bcadd-7eff-4294-94d5-52482a734d5b
 set: aer
 type: Legendary Artifact Creature — Thopter
-meta_presence: 0.0012
+meta_presence: 0.0011
 archetypes:
   mono-blue-belcher:
-    weight: 0.0556
+    weight: 0.0526
     avg_copies: 1.0
 ---

@@ -6,7 +6,7 @@ name: Kraza, the Swarm as One
 scryfall_id: ''
 set: ''
 type: Unknown
-meta_presence: 0.0012
+meta_presence: 0.0011
 archetypes:
   mono-red-belcher:
     weight: 0.3333

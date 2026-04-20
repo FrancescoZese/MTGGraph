@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: Dimir Control
-meta_share: 0.0298
+meta_share: 0.0262
 list_count: 24
 top_cards:
 - name: Fatal Push
@@ -90,10 +90,10 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 0.4167
   avg_copies: 1.2
-- name: Damnation
+- name: Logic Knot
   weight: 0.4167
   avg_copies: 1.0
-- name: Logic Knot
+- name: Damnation
   weight: 0.4167
   avg_copies: 1.0
 - name: Engineered Explosives
@@ -132,73 +132,70 @@ top_cards:
 - name: Quantum Riddler
   weight: 0.0833
   avg_copies: 2.0
-- name: Anoint with Affliction
-  weight: 0.0833
-  avg_copies: 1.0
 - name: Sink into Stupor
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Psychic Frog
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Thundering Falls
   weight: 0.0833
   avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.0833
   avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Psychic Frog
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Anoint with Affliction
+  weight: 0.0833
+  avg_copies: 1.0
 - name: Snow-Covered Island
   weight: 0.0417
   avg_copies: 4.0
-- name: Fallen Shinobi
-  weight: 0.0417
-  avg_copies: 3.0
-- name: Dismember
-  weight: 0.0417
-  avg_copies: 3.0
 - name: Thoughtseize
+  weight: 0.0417
+  avg_copies: 3.0
+- name: Fallen Shinobi
   weight: 0.0417
   avg_copies: 3.0
 - name: Shadow of Doubt
   weight: 0.0417
   avg_copies: 3.0
-- name: Pest Control
+- name: Dismember
   weight: 0.0417
-  avg_copies: 2.0
-- name: Bloodstained Mire
-  weight: 0.0417
-  avg_copies: 2.0
-- name: Cryptic Command
-  weight: 0.0417
-  avg_copies: 2.0
-- name: High Noon
-  weight: 0.0417
-  avg_copies: 2.0
-- name: Damping Sphere
-  weight: 0.0417
-  avg_copies: 2.0
-- name: Murktide Regent
-  weight: 0.0417
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Drown in the Loch
-  weight: 0.0417
-  avg_copies: 2.0
-- name: Hurkyl's Recall
   weight: 0.0417
   avg_copies: 2.0
 - name: Lightning Bolt
   weight: 0.0417
   avg_copies: 2.0
+- name: Damping Sphere
+  weight: 0.0417
+  avg_copies: 2.0
+- name: Cryptic Command
+  weight: 0.0417
+  avg_copies: 2.0
+- name: Bloodstained Mire
+  weight: 0.0417
+  avg_copies: 2.0
+- name: High Noon
+  weight: 0.0417
+  avg_copies: 2.0
+- name: Pest Control
+  weight: 0.0417
+  avg_copies: 2.0
+- name: Murktide Regent
+  weight: 0.0417
+  avg_copies: 2.0
+- name: Hurkyl's Recall
+  weight: 0.0417
+  avg_copies: 2.0
 - name: Hall of Storm Giants
   weight: 0.0417
   avg_copies: 1.0
-- name: Preordain
+- name: Lórien Revealed
   weight: 0.0417
   avg_copies: 1.0
 - name: Takenuma, Abandoned Mire
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Snow-Covered Swamp
   weight: 0.0417
   avg_copies: 1.0
 - name: Gloomlake Verge
@@ -207,16 +204,19 @@ top_cards:
 - name: Hallowed Fountain
   weight: 0.0417
   avg_copies: 1.0
-- name: Sunken Ruins
+- name: Snow-Covered Swamp
   weight: 0.0417
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.0417
   avg_copies: 1.0
-- name: Lórien Revealed
+- name: Jace, the Mind Sculptor
   weight: 0.0417
   avg_copies: 1.0
-- name: Jace, the Mind Sculptor
+- name: Sunken Ruins
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Preordain
   weight: 0.0417
   avg_copies: 1.0
 ---
