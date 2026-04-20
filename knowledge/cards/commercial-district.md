@@ -15,10 +15,13 @@ archetypes:
     weight: 0.0789
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0625
+    weight: 0.0588
     avg_copies: 1.0
+  hollow-one:
+    weight: 0.0769
+    avg_copies: 3.0
   eldrazi-ramp:
-    weight: 0.85
+    weight: 0.8095
     avg_copies: 1.0
   broodscale-combo:
     weight: 0.5
@@ -26,11 +29,8 @@ archetypes:
   dredge:
     weight: 0.3333
     avg_copies: 1.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-2:
-    weight: 1.0
+  cosmogoyf-fling:
+    weight: 0.25
     avg_copies: 1.0
   naya-midrange:
     weight: 1.0

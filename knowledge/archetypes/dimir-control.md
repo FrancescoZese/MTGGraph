@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: Dimir Control
-meta_share: 0.0262
+meta_share: 0.0263
 list_count: 24
 top_cards:
 - name: Fatal Push
@@ -132,19 +132,19 @@ top_cards:
 - name: Quantum Riddler
   weight: 0.0833
   avg_copies: 2.0
-- name: Sink into Stupor
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Ashiok, Dream Render
-  weight: 0.0833
-  avg_copies: 1.0
 - name: Thundering Falls
   weight: 0.0833
   avg_copies: 1.0
 - name: Psychic Frog
   weight: 0.0833
   avg_copies: 1.0
+- name: Ashiok, Dream Render
+  weight: 0.0833
+  avg_copies: 1.0
 - name: Anoint with Affliction
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Sink into Stupor
   weight: 0.0833
   avg_copies: 1.0
 - name: Snow-Covered Island
@@ -153,16 +153,19 @@ top_cards:
 - name: Thoughtseize
   weight: 0.0417
   avg_copies: 3.0
-- name: Fallen Shinobi
+- name: Dismember
   weight: 0.0417
   avg_copies: 3.0
 - name: Shadow of Doubt
   weight: 0.0417
   avg_copies: 3.0
-- name: Dismember
+- name: Fallen Shinobi
   weight: 0.0417
   avg_copies: 3.0
 - name: Drown in the Loch
+  weight: 0.0417
+  avg_copies: 2.0
+- name: Pest Control
   weight: 0.0417
   avg_copies: 2.0
 - name: Lightning Bolt
@@ -174,25 +177,31 @@ top_cards:
 - name: Cryptic Command
   weight: 0.0417
   avg_copies: 2.0
-- name: Bloodstained Mire
-  weight: 0.0417
-  avg_copies: 2.0
 - name: High Noon
-  weight: 0.0417
-  avg_copies: 2.0
-- name: Pest Control
-  weight: 0.0417
-  avg_copies: 2.0
-- name: Murktide Regent
   weight: 0.0417
   avg_copies: 2.0
 - name: Hurkyl's Recall
   weight: 0.0417
   avg_copies: 2.0
-- name: Hall of Storm Giants
+- name: Murktide Regent
+  weight: 0.0417
+  avg_copies: 2.0
+- name: Bloodstained Mire
+  weight: 0.0417
+  avg_copies: 2.0
+- name: Hallowed Fountain
   weight: 0.0417
   avg_copies: 1.0
-- name: Lórien Revealed
+- name: Snow-Covered Swamp
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Jace, the Mind Sculptor
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Meticulous Archive
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Sunken Ruins
   weight: 0.0417
   avg_copies: 1.0
 - name: Takenuma, Abandoned Mire
@@ -201,22 +210,13 @@ top_cards:
 - name: Gloomlake Verge
   weight: 0.0417
   avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Snow-Covered Swamp
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Jace, the Mind Sculptor
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Sunken Ruins
+- name: Hall of Storm Giants
   weight: 0.0417
   avg_copies: 1.0
 - name: Preordain
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Lórien Revealed
   weight: 0.0417
   avg_copies: 1.0
 ---

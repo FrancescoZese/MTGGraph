@@ -12,7 +12,7 @@ archetypes:
   mono-red-belcher:
     weight: 0.3333
     avg_copies: 4.0
-  unknown-1:
-    weight: 0.6667
+  cosmogoyf-fling:
+    weight: 0.5
     avg_copies: 4.0
 ---

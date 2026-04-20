@@ -13,13 +13,13 @@ archetypes:
   amulet-titan:
     weight: 0.1842
     avg_copies: 1.43
+  eldrazi-ramp:
+    weight: 0.0476
+    avg_copies: 1.0
   simic-ritual:
     weight: 0.0417
     avg_copies: 1.0
   broodscale-combo:
     weight: 0.3125
     avg_copies: 1.8
-  unknown-5:
-    weight: 1.0
-    avg_copies: 1.0
 ---

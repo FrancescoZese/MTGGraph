@@ -9,7 +9,7 @@ set: woe
 type: Creature — Human Soldier // Sorcery — Adventure
 meta_presence: 0.0022
 archetypes:
-  unknown-1:
-    weight: 0.6667
+  cosmogoyf-fling:
+    weight: 0.5
     avg_copies: 1.0
 ---

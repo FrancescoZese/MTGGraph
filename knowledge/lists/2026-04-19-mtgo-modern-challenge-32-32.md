@@ -1,5 +1,5 @@
 ---
-archetype: unknown-5
+archetype: eldrazi-ramp
 date: '2026-04-19'
 finish: 16th
 pilot: GriselSram

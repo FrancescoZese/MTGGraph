@@ -25,10 +25,10 @@ top_cards:
 - name: Prismatic Ending
   weight: 1.0
   avg_copies: 2.67
-- name: Plains
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.0
-- name: Hallowed Fountain
+- name: Plains
   weight: 1.0
   avg_copies: 2.0
 - name: Steam Vents
@@ -46,10 +46,10 @@ top_cards:
 - name: Thundertrap Trainer
   weight: 0.6667
   avg_copies: 3.5
-- name: Tamiyo, Inquisitive Student
+- name: Phlage, Titan of Fire's Fury
   weight: 0.6667
   avg_copies: 3.0
-- name: Phlage, Titan of Fire's Fury
+- name: Tamiyo, Inquisitive Student
   weight: 0.6667
   avg_copies: 3.0
 - name: Wrath of the Skies
@@ -58,37 +58,37 @@ top_cards:
 - name: Lórien Revealed
   weight: 0.6667
   avg_copies: 2.5
-- name: High Noon
-  weight: 0.6667
-  avg_copies: 2.0
 - name: Scalding Tarn
   weight: 0.6667
   avg_copies: 2.0
-- name: Arena of Glory
+- name: High Noon
   weight: 0.6667
   avg_copies: 2.0
 - name: Celestial Purge
   weight: 0.6667
   avg_copies: 2.0
-- name: Surgical Extraction
+- name: Arena of Glory
   weight: 0.6667
-  avg_copies: 1.5
+  avg_copies: 2.0
 - name: Island
   weight: 0.6667
   avg_copies: 1.5
-- name: Sacred Foundry
+- name: Surgical Extraction
   weight: 0.6667
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Thundering Falls
   weight: 0.6667
   avg_copies: 1.0
 - name: Isochron Scepter
   weight: 0.6667
   avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 0.6667
+  avg_copies: 1.0
 - name: Teferi, Time Raveler
   weight: 0.3333
   avg_copies: 4.0
-- name: Suppression Ray
+- name: Counterspell
   weight: 0.3333
   avg_copies: 4.0
 - name: Solitude
@@ -97,67 +97,67 @@ top_cards:
 - name: Narset, Parter of Veils
   weight: 0.3333
   avg_copies: 4.0
-- name: Counterspell
+- name: Suppression Ray
   weight: 0.3333
   avg_copies: 4.0
-- name: Snapcaster Mage
+- name: Stock Up
   weight: 0.3333
   avg_copies: 3.0
-- name: Soul-Guide Lantern
+- name: Snapcaster Mage
   weight: 0.3333
   avg_copies: 3.0
 - name: Fable of the Mirror-Breaker
   weight: 0.3333
   avg_copies: 3.0
+- name: Soul-Guide Lantern
+  weight: 0.3333
+  avg_copies: 3.0
 - name: Consult the Star Charts
   weight: 0.3333
   avg_copies: 3.0
-- name: Stock Up
-  weight: 0.3333
-  avg_copies: 3.0
-- name: Day's Undoing
-  weight: 0.3333
-  avg_copies: 2.0
 - name: Sink into Stupor
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Obsidian Charmaw
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Mystic Gate
   weight: 0.3333
   avg_copies: 2.0
 - name: Spell Snare
   weight: 0.3333
   avg_copies: 2.0
-- name: Flare of Denial
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Subtlety
+- name: Obsidian Charmaw
   weight: 0.3333
   avg_copies: 2.0
 - name: Tune the Narrative
   weight: 0.3333
   avg_copies: 2.0
-- name: Supreme Verdict
-  weight: 0.3333
-  avg_copies: 2.0
 - name: Temporary Lockdown
   weight: 0.3333
   avg_copies: 2.0
-- name: Mountain
+- name: Subtlety
   weight: 0.3333
-  avg_copies: 1.0
-- name: Stern Scolding
+  avg_copies: 2.0
+- name: Mystic Gate
   weight: 0.3333
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: Flare of Denial
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Supreme Verdict
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Day's Undoing
+  weight: 0.3333
+  avg_copies: 2.0
 - name: Elegant Parlor
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Gemstone Caverns
   weight: 0.3333
   avg_copies: 1.0
 - name: Teferi, Hero of Dominaria
   weight: 0.3333
   avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Stern Scolding
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Mountain
   weight: 0.3333
   avg_copies: 1.0
 ---

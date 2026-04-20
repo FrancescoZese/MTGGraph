@@ -11,9 +11,9 @@ type: Legendary Enchantment Creature — God
 meta_presence: 0.0186
 archetypes:
   neoform-combo:
-    weight: 1.0
+    weight: 0.9412
     avg_copies: 1.0
-  unknown-5:
-    weight: 1.0
+  eldrazi-ramp:
+    weight: 0.0476
     avg_copies: 1.0
 ---

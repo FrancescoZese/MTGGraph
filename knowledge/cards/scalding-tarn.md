@@ -6,7 +6,7 @@ name: Scalding Tarn
 scryfall_id: 71e491c5-8c07-449b-b2f1-ffa052e6d311
 set: mh2
 type: Land
-meta_presence: 0.2754
+meta_presence: 0.2757
 archetypes:
   ruby-storm:
     weight: 1.0
@@ -33,13 +33,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.06
   neoform-combo:
-    weight: 0.75
+    weight: 0.7059
     avg_copies: 1.5
   burn:
     weight: 0.75
     avg_copies: 1.67
   hollow-one:
-    weight: 0.25
+    weight: 0.2308
     avg_copies: 1.33
   simic-ritual:
     weight: 0.0417

@@ -10,6 +10,6 @@ type: Creature — Human Wizard
 meta_presence: 0.0033
 archetypes:
   eldrazi-ramp:
-    weight: 0.15
+    weight: 0.1429
     avg_copies: 1.67
 ---

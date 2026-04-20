@@ -15,6 +15,9 @@ archetypes:
   living-end:
     weight: 0.0588
     avg_copies: 1.0
+  hollow-one:
+    weight: 0.0769
+    avg_copies: 1.0
   simic-ritual:
     weight: 0.7083
     avg_copies: 1.82
@@ -36,10 +39,7 @@ archetypes:
   mono-green-stompy:
     weight: 1.0
     avg_copies: 1.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-4:
+  scapeshift-combo:
     weight: 1.0
     avg_copies: 1.0
 ---

@@ -38,13 +38,13 @@ top_cards:
 - name: Hedge Maze
   weight: 1.0
   avg_copies: 1.06
-- name: Forest
+- name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
 - name: Island
   weight: 1.0
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -80,10 +80,10 @@ top_cards:
 - name: Force of Vigor
   weight: 0.5294
   avg_copies: 2.33
-- name: Formidable Speaker
+- name: Dismember
   weight: 0.5294
   avg_copies: 2.11
-- name: Dismember
+- name: Formidable Speaker
   weight: 0.5294
   avg_copies: 2.11
 - name: Polluted Delta
@@ -95,13 +95,13 @@ top_cards:
 - name: Overgrown Tomb
   weight: 0.5294
   avg_copies: 1.11
-- name: Commandeer
+- name: Undercity Sewers
   weight: 0.5294
   avg_copies: 1.0
 - name: Halo Forager
   weight: 0.5294
   avg_copies: 1.0
-- name: Undercity Sewers
+- name: Commandeer
   weight: 0.5294
   avg_copies: 1.0
 - name: Ardent Plea
@@ -113,10 +113,10 @@ top_cards:
 - name: Deceit
   weight: 0.4706
   avg_copies: 1.38
-- name: Temple Garden
+- name: Boseiju, Who Endures
   weight: 0.4706
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Lush Portico
   weight: 0.4706
   avg_copies: 1.0
 - name: Flooded Grove
@@ -128,7 +128,7 @@ top_cards:
 - name: Mai, Scornful Striker
   weight: 0.4706
   avg_copies: 1.0
-- name: Lush Portico
+- name: Temple Garden
   weight: 0.4706
   avg_copies: 1.0
 - name: Clarion Conqueror
@@ -137,13 +137,13 @@ top_cards:
 - name: Troll of Khazad-dûm
   weight: 0.4118
   avg_copies: 1.57
-- name: Disciple of Freyalise
-  weight: 0.4118
-  avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 0.4118
   avg_copies: 1.0
 - name: Meticulous Archive
+  weight: 0.4118
+  avg_copies: 1.0
+- name: Disciple of Freyalise
   weight: 0.4118
   avg_copies: 1.0
 - name: Harvester of Misery
@@ -161,14 +161,11 @@ top_cards:
 - name: Kavaero, Mind-Bitten
   weight: 0.2941
   avg_copies: 1.0
-- name: Swamp
-  weight: 0.2353
-  avg_copies: 1.0
 - name: Deafening Silence
   weight: 0.2353
   avg_copies: 1.0
-- name: Harbinger of the Seas
-  weight: 0.1765
+- name: Swamp
+  weight: 0.2353
   avg_copies: 1.0
 - name: Archon of Cruelty
   weight: 0.1765
@@ -176,13 +173,16 @@ top_cards:
 - name: Flare of Denial
   weight: 0.1765
   avg_copies: 1.0
+- name: Harbinger of the Seas
+  weight: 0.1765
+  avg_copies: 1.0
 - name: Drannith Magistrate
   weight: 0.1176
   avg_copies: 1.5
-- name: Fracturing Gust
+- name: High Noon
   weight: 0.1176
   avg_copies: 1.0
-- name: High Noon
+- name: Fracturing Gust
   weight: 0.1176
   avg_copies: 1.0
 - name: Rough
@@ -197,28 +197,28 @@ top_cards:
 - name: Verdant Catacombs
   weight: 0.0588
   avg_copies: 2.0
-- name: Steam Vents
-  weight: 0.0588
-  avg_copies: 2.0
 - name: Flooded Strand
   weight: 0.0588
   avg_copies: 2.0
 - name: Titanoth Rex
   weight: 0.0588
   avg_copies: 2.0
-- name: Stomping Ground
+- name: Steam Vents
   weight: 0.0588
-  avg_copies: 1.0
-- name: Press the Enemy
-  weight: 0.0588
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Collector Ouphe
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Sunken Ruins
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Stomping Ground
   weight: 0.0588
   avg_copies: 1.0
 - name: Murderous Cut
   weight: 0.0588
   avg_copies: 1.0
-- name: Sunken Ruins
+- name: Press the Enemy
   weight: 0.0588
   avg_copies: 1.0
 - name: Windcaller Aven

@@ -9,10 +9,10 @@ set: rvr
 type: Instant
 meta_presence: 0.0022
 archetypes:
+  mono-blue-tron:
+    weight: 0.3333
+    avg_copies: 4.0
   izzet-eldrazi:
     weight: 0.5
     avg_copies: 2.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 4.0
 ---

@@ -19,9 +19,9 @@ archetypes:
     weight: 0.0588
     avg_copies: 3.0
   neoform-combo:
-    weight: 0.9375
+    weight: 0.8824
     avg_copies: 1.0
-  unknown-5:
-    weight: 1.0
+  eldrazi-ramp:
+    weight: 0.0476
     avg_copies: 1.0
 ---

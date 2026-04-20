@@ -16,7 +16,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   hollow-one:
-    weight: 0.0833
+    weight: 0.0769
     avg_copies: 1.0
   esper-blink:
     weight: 1.0

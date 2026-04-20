@@ -30,10 +30,10 @@ top_cards:
 - name: Mox Amber
   weight: 0.9091
   avg_copies: 3.9
-- name: Mox Opal
+- name: Fiery Islet
   weight: 0.9091
   avg_copies: 3.6
-- name: Fiery Islet
+- name: Mox Opal
   weight: 0.9091
   avg_copies: 3.6
 - name: Urza's Saga
@@ -72,10 +72,10 @@ top_cards:
 - name: Force of Negation
   weight: 0.6364
   avg_copies: 1.43
-- name: Pithing Needle
+- name: Vexing Bauble
   weight: 0.6364
   avg_copies: 1.0
-- name: Vexing Bauble
+- name: Pithing Needle
   weight: 0.6364
   avg_copies: 1.0
 - name: Test of Talents
@@ -84,10 +84,10 @@ top_cards:
 - name: Whipflare
   weight: 0.5455
   avg_copies: 2.0
-- name: Fire Magic
+- name: Repeal
   weight: 0.4545
   avg_copies: 1.8
-- name: Repeal
+- name: Fire Magic
   weight: 0.4545
   avg_copies: 1.8
 - name: Flame of Anor
@@ -111,30 +111,27 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.1818
   avg_copies: 2.0
-- name: Mountain
-  weight: 0.1818
-  avg_copies: 1.0
 - name: Thundering Falls
   weight: 0.1818
   avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 0.1818
   avg_copies: 1.0
-- name: Expressive Iteration
-  weight: 0.0909
-  avg_copies: 4.0
-- name: Ragavan, Nimble Pilferer
+- name: Mountain
+  weight: 0.1818
+  avg_copies: 1.0
+- name: Unholy Heat
   weight: 0.0909
   avg_copies: 4.0
 - name: Dragon's Rage Channeler
   weight: 0.0909
   avg_copies: 4.0
-- name: Unholy Heat
+- name: Ragavan, Nimble Pilferer
   weight: 0.0909
   avg_copies: 4.0
-- name: Surgical Extraction
+- name: Expressive Iteration
   weight: 0.0909
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Experimental Synthesizer
   weight: 0.0909
   avg_copies: 3.0
@@ -144,6 +141,12 @@ top_cards:
 - name: Vivi Ornitier
   weight: 0.0909
   avg_copies: 3.0
+- name: Surgical Extraction
+  weight: 0.0909
+  avg_copies: 3.0
+- name: Pyroclasm
+  weight: 0.0909
+  avg_copies: 2.0
 - name: Misty Rainforest
   weight: 0.0909
   avg_copies: 2.0
@@ -153,25 +156,22 @@ top_cards:
 - name: Murktide Regent
   weight: 0.0909
   avg_copies: 2.0
-- name: Pyroclasm
-  weight: 0.0909
-  avg_copies: 2.0
-- name: Shadowspear
+- name: Breeding Pool
   weight: 0.0909
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Skateboard
   weight: 0.0909
   avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 0.0909
   avg_copies: 1.0
+- name: Shadowspear
+  weight: 0.0909
+  avg_copies: 1.0
 - name: An Offer You Can't Refuse
   weight: 0.0909
   avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Skateboard
+- name: Haywire Mite
   weight: 0.0909
   avg_copies: 1.0
 ---

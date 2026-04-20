@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0417
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0625
+    weight: 0.0588
     avg_copies: 4.0
   mono-red-belcher:
     weight: 0.3333

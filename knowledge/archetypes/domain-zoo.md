@@ -42,13 +42,13 @@ top_cards:
 - name: Wear
   weight: 1.0
   avg_copies: 1.63
+- name: Plains
+  weight: 1.0
+  avg_copies: 1.0
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
 - name: Temple Garden
-  weight: 1.0
-  avg_copies: 1.0
-- name: Plains
   weight: 1.0
   avg_copies: 1.0
 - name: Indatha Triome
@@ -75,10 +75,10 @@ top_cards:
 - name: Arena of Glory
   weight: 0.9667
   avg_copies: 1.9
-- name: Mountain
+- name: Thundering Falls
   weight: 0.9
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Mountain
   weight: 0.9
   avg_copies: 1.0
 - name: Teferi, Time Raveler
@@ -129,28 +129,28 @@ top_cards:
 - name: Does Machines
   weight: 0.0667
   avg_copies: 1.0
+- name: Fable of the Mirror-Breaker
+  weight: 0.0667
+  avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.0667
   avg_copies: 1.0
 - name: Celestial Purge
   weight: 0.0667
   avg_copies: 1.0
-- name: Fable of the Mirror-Breaker
-  weight: 0.0667
-  avg_copies: 1.0
+- name: Faithless Looting
+  weight: 0.0333
+  avg_copies: 4.0
 - name: Archon of Cruelty
   weight: 0.0333
   avg_copies: 4.0
-- name: Aurora Awakener
-  weight: 0.0333
-  avg_copies: 4.0
-- name: Faithless Looting
+- name: Psychic Frog
   weight: 0.0333
   avg_copies: 4.0
 - name: Persist
   weight: 0.0333
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Aurora Awakener
   weight: 0.0333
   avg_copies: 4.0
 - name: Summoning Trap
@@ -159,28 +159,28 @@ top_cards:
 - name: Drannith Magistrate
   weight: 0.0333
   avg_copies: 2.0
-- name: Glasspool Mimic
+- name: Raucous Theater
   weight: 0.0333
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Breeding Pool
   weight: 0.0333
   avg_copies: 1.0
 - name: Orcish Bowmasters
   weight: 0.0333
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Vexing Bauble
   weight: 0.0333
   avg_copies: 1.0
-- name: Quantum Riddler
+- name: Glasspool Mimic
   weight: 0.0333
   avg_copies: 1.0
 - name: Meltdown
   weight: 0.0333
   avg_copies: 1.0
-- name: Vexing Bauble
+- name: Quantum Riddler
   weight: 0.0333
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Blood Crypt
   weight: 0.0333
   avg_copies: 1.0
 ---

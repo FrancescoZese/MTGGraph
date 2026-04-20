@@ -7,7 +7,7 @@ name: March of Otherworldly Light
 scryfall_id: 553fb946-2706-475b-89f9-e4355ec9ea2b
 set: neo
 type: Instant
-meta_presence: 0.0896
+meta_presence: 0.0897
 archetypes:
   ruby-storm:
     weight: 0.125

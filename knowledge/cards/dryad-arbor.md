@@ -24,7 +24,7 @@ archetypes:
   mono-green-stompy:
     weight: 1.0
     avg_copies: 1.0
-  unknown-4:
+  scapeshift-combo:
     weight: 1.0
     avg_copies: 1.0
 ---

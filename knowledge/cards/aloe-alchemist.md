@@ -9,7 +9,7 @@ set: otj
 type: Creature — Plant Warlock
 meta_presence: 0.0011
 archetypes:
-  unknown-1:
-    weight: 0.3333
+  cosmogoyf-fling:
+    weight: 0.25
     avg_copies: 1.0
 ---

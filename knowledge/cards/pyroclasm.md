@@ -39,7 +39,7 @@ archetypes:
   rakdos-steel-cutter:
     weight: 0.25
     avg_copies: 2.0
-  unknown-2:
-    weight: 1.0
+  cosmogoyf-fling:
+    weight: 0.25
     avg_copies: 2.0
 ---

@@ -1,5 +1,5 @@
 ---
-archetype: unknown-2
+archetype: cosmogoyf-fling
 date: '2026-04-18'
 finish: 14th
 pilot: mtbWolf

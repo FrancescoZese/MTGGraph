@@ -56,25 +56,25 @@ top_cards:
 - name: Griselbrand
   weight: 1.0
   avg_copies: 1.1
-- name: Godless Shrine
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
 - name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
-- name: Plains
-  weight: 1.0
-  avg_copies: 1.0
 - name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
 - name: Meticulous Archive
+  weight: 1.0
+  avg_copies: 1.0
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Shadowy Backstreet
@@ -134,13 +134,13 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.1
   avg_copies: 1.33
-- name: Cephalid Coliseum
-  weight: 0.1
-  avg_copies: 1.0
 - name: Spell Snare
   weight: 0.1
   avg_copies: 1.0
 - name: Overgrown Tomb
+  weight: 0.1
+  avg_copies: 1.0
+- name: Cephalid Coliseum
   weight: 0.1
   avg_copies: 1.0
 - name: Deafening Silence
@@ -149,19 +149,19 @@ top_cards:
 - name: Subtlety
   weight: 0.0667
   avg_copies: 1.5
-- name: Ketramose, the New Dawn
-  weight: 0.0667
-  avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
   weight: 0.0667
   avg_copies: 1.0
-- name: Drannith Magistrate
+- name: Otherworldly Gaze
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Ketramose, the New Dawn
   weight: 0.0667
   avg_copies: 1.0
 - name: Supreme Verdict
   weight: 0.0667
   avg_copies: 1.0
-- name: Otherworldly Gaze
+- name: Drannith Magistrate
   weight: 0.0667
   avg_copies: 1.0
 - name: No More Lies
@@ -170,22 +170,22 @@ top_cards:
 - name: Arcbound Ravager
   weight: 0.0333
   avg_copies: 1.0
-- name: Unburial Rites
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Ulamog, the Defiler
-  weight: 0.0333
-  avg_copies: 1.0
 - name: Snow-Covered Swamp
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Toxic Deluge
   weight: 0.0333
   avg_copies: 1.0
 - name: Damn
   weight: 0.0333
   avg_copies: 1.0
-- name: Winternight Stories
+- name: Ulamog, the Defiler
   weight: 0.0333
   avg_copies: 1.0
-- name: Toxic Deluge
+- name: Unburial Rites
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Winternight Stories
   weight: 0.0333
   avg_copies: 1.0
 ---

@@ -9,28 +9,28 @@ top_cards:
 - name: Esper Sentinel
   weight: 1.0
   avg_copies: 4.0
-- name: Puresteel Paladin
-  weight: 1.0
-  avg_copies: 4.0
-- name: Colossus Hammer
-  weight: 1.0
-  avg_copies: 4.0
-- name: Stoneforge Mystic
+- name: Leyline Axe
   weight: 1.0
   avg_copies: 4.0
 - name: Ornithopter
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline Axe
+- name: Puresteel Paladin
+  weight: 1.0
+  avg_copies: 4.0
+- name: Stoneforge Mystic
+  weight: 1.0
+  avg_copies: 4.0
+- name: Colossus Hammer
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
-- name: Battlefield Improvisation
+- name: Metallic Rebuke
   weight: 1.0
   avg_copies: 3.5
-- name: Metallic Rebuke
+- name: Battlefield Improvisation
   weight: 1.0
   avg_copies: 3.5
 - name: Hallowed Fountain
@@ -39,22 +39,22 @@ top_cards:
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 3.0
-- name: Soulless Jailer
-  weight: 1.0
-  avg_copies: 2.5
-- name: Sanctifier en-Vec
-  weight: 1.0
-  avg_copies: 2.5
-- name: Mox Opal
-  weight: 1.0
-  avg_copies: 2.5
-- name: Plains
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 2.5
 - name: Inkmoth Nexus
   weight: 1.0
   avg_copies: 2.5
-- name: Flooded Strand
+- name: Sanctifier en-Vec
+  weight: 1.0
+  avg_copies: 2.5
+- name: Plains
+  weight: 1.0
+  avg_copies: 2.5
+- name: Soulless Jailer
+  weight: 1.0
+  avg_copies: 2.5
+- name: Mox Opal
   weight: 1.0
   avg_copies: 2.5
 - name: Vexing Bauble
@@ -63,10 +63,10 @@ top_cards:
 - name: Shadowspear
   weight: 1.0
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Tormod's Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Tormod's Crypt
+- name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
 - name: Mishra's Bauble
@@ -75,22 +75,22 @@ top_cards:
 - name: Flare of Fortitude
   weight: 0.5
   avg_copies: 4.0
-- name: Damping Sphere
+- name: Surge of Salvation
   weight: 0.5
   avg_copies: 2.0
 - name: Consign to Memory
   weight: 0.5
   avg_copies: 2.0
-- name: Containment Priest
-  weight: 0.5
-  avg_copies: 2.0
 - name: Sigarda's Aid
   weight: 0.5
   avg_copies: 2.0
-- name: Surge of Salvation
+- name: Mystical Dispute
   weight: 0.5
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Containment Priest
+  weight: 0.5
+  avg_copies: 2.0
+- name: Damping Sphere
   weight: 0.5
   avg_copies: 2.0
 - name: Springleaf Drum
@@ -99,19 +99,19 @@ top_cards:
 - name: Voice of Victory
   weight: 0.5
   avg_copies: 1.0
-- name: Arid Mesa
-  weight: 0.5
-  avg_copies: 1.0
-- name: Meticulous Archive
+- name: Grafdigger's Cage
   weight: 0.5
   avg_copies: 1.0
 - name: Lavaspur Boots
   weight: 0.5
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Skateboard
   weight: 0.5
   avg_copies: 1.0
-- name: Skateboard
+- name: Meticulous Archive
+  weight: 0.5
+  avg_copies: 1.0
+- name: Arid Mesa
   weight: 0.5
   avg_copies: 1.0
 ---

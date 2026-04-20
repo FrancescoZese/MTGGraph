@@ -13,7 +13,7 @@ archetypes:
     weight: 0.5
     avg_copies: 4.0
   hollow-one:
-    weight: 0.0833
+    weight: 0.0769
     avg_copies: 1.0
   dredge:
     weight: 0.3333

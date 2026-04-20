@@ -118,13 +118,13 @@ top_cards:
 - name: Teferi, Hero of Dominaria
   weight: 0.4286
   avg_copies: 1.22
-- name: Hall of Storm Giants
-  weight: 0.4286
-  avg_copies: 1.0
 - name: Kaheera, the Orphanguard
   weight: 0.4286
   avg_copies: 1.0
 - name: Elegant Parlor
+  weight: 0.4286
+  avg_copies: 1.0
+- name: Hall of Storm Giants
   weight: 0.4286
   avg_copies: 1.0
 - name: Fire Magic
@@ -151,10 +151,10 @@ top_cards:
 - name: Rest in Peace
   weight: 0.1905
   avg_copies: 1.5
-- name: Mistrise Village
+- name: Stern Scolding
   weight: 0.1905
   avg_copies: 1.0
-- name: Stern Scolding
+- name: Mistrise Village
   weight: 0.1905
   avg_copies: 1.0
 - name: Damping Sphere
@@ -166,28 +166,28 @@ top_cards:
 - name: Meltdown
   weight: 0.1429
   avg_copies: 1.0
-- name: Windswept Heath
+- name: Marsh Flats
   weight: 0.0952
   avg_copies: 2.0
-- name: Marsh Flats
+- name: Windswept Heath
   weight: 0.0952
   avg_copies: 2.0
 - name: Temporary Lockdown
   weight: 0.0952
   avg_copies: 1.67
-- name: Hedge Maze
-  weight: 0.0952
-  avg_copies: 1.0
 - name: Watery Grave
   weight: 0.0952
   avg_copies: 1.0
 - name: Vendilion Clique
   weight: 0.0952
   avg_copies: 1.0
-- name: Suppression Ray
+- name: Hedge Maze
+  weight: 0.0952
+  avg_copies: 1.0
+- name: Thundertrap Trainer
   weight: 0.0476
   avg_copies: 4.0
-- name: Thundertrap Trainer
+- name: Suppression Ray
   weight: 0.0476
   avg_copies: 4.0
 - name: Sink into Stupor
@@ -196,7 +196,22 @@ top_cards:
 - name: Reprieve
   weight: 0.0476
   avg_copies: 2.0
+- name: Breeding Pool
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Jace, the Mind Sculptor
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Get Lost
+  weight: 0.0476
+  avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Wear
   weight: 0.0476
   avg_copies: 1.0
 - name: Celestial Colonnade
@@ -205,31 +220,16 @@ top_cards:
 - name: Disruptor Flute
   weight: 0.0476
   avg_copies: 1.0
-- name: Dress Down
+- name: The Wandering Emperor
   weight: 0.0476
   avg_copies: 1.0
 - name: Wan Shi Tong, Librarian
   weight: 0.0476
   avg_copies: 1.0
-- name: The Wandering Emperor
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Wear
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Get Lost
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Jace, the Mind Sculptor
-  weight: 0.0476
-  avg_copies: 1.0
 - name: Timeless Dragon
   weight: 0.0476
   avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Dress Down
   weight: 0.0476
   avg_copies: 1.0
 ---

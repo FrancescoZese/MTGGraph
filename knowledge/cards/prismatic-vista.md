@@ -8,7 +8,7 @@ set: mh1
 type: Land
 meta_presence: 0.0011
 archetypes:
-  unknown-4:
+  scapeshift-combo:
     weight: 1.0
     avg_copies: 4.0
 ---

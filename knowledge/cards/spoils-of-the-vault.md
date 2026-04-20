@@ -9,7 +9,7 @@ set: uma
 type: Instant
 meta_presence: 0.0033
 archetypes:
-  unknown-1:
-    weight: 1.0
+  cosmogoyf-fling:
+    weight: 0.75
     avg_copies: 4.0
 ---

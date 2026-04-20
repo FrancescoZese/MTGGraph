@@ -13,7 +13,7 @@ archetypes:
     weight: 0.8824
     avg_copies: 2.8
   hollow-one:
-    weight: 1.0
+    weight: 0.9231
     avg_copies: 4.0
   grixis-shadow:
     weight: 1.0
@@ -21,7 +21,7 @@ archetypes:
   rakdos-steel-cutter:
     weight: 0.75
     avg_copies: 4.0
-  unknown-2:
-    weight: 1.0
+  cosmogoyf-fling:
+    weight: 0.25
     avg_copies: 4.0
 ---

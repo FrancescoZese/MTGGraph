@@ -12,9 +12,9 @@ type: Legendary Creature — Spirit Dragon
 meta_presence: 0.0153
 archetypes:
   neoform-combo:
-    weight: 0.8125
+    weight: 0.7647
     avg_copies: 1.0
-  unknown-5:
-    weight: 1.0
+  eldrazi-ramp:
+    weight: 0.0476
     avg_copies: 1.0
 ---

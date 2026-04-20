@@ -6,13 +6,10 @@ name: Broodscale Combo
 meta_share: 0.0175
 list_count: 16
 top_cards:
-- name: Kozilek's Command
-  weight: 1.0
-  avg_copies: 4.0
-- name: Grove of the Burnwillows
-  weight: 1.0
-  avg_copies: 4.0
 - name: Basking Broodscale
+  weight: 1.0
+  avg_copies: 4.0
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
@@ -21,7 +18,10 @@ top_cards:
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
-- name: Malevolent Rumble
+- name: Grove of the Burnwillows
+  weight: 1.0
+  avg_copies: 4.0
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Glaring Fleshraker
@@ -45,13 +45,13 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.42
-- name: Soul-Guide Lantern
+- name: Springleaf Drum
   weight: 1.0
   avg_copies: 1.0
 - name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
-- name: Springleaf Drum
+- name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 1.0
 - name: Ancient Stirrings
@@ -63,10 +63,10 @@ top_cards:
 - name: Grafdigger's Cage
   weight: 0.875
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Gemstone Caverns
   weight: 0.875
   avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Pithing Needle
   weight: 0.875
   avg_copies: 1.0
 - name: Cavern of Souls
@@ -96,10 +96,10 @@ top_cards:
 - name: Pick Your Poison
   weight: 0.5
   avg_copies: 1.75
-- name: Stomping Ground
+- name: Commercial District
   weight: 0.5
   avg_copies: 1.0
-- name: Commercial District
+- name: Stomping Ground
   weight: 0.5
   avg_copies: 1.0
 - name: Warping Wail

@@ -1,5 +1,5 @@
 ---
-archetype: unknown-8
+archetype: mono-blue-tron
 date: '2026-04-20'
 finish: 5-0
 pilot: pooopywet

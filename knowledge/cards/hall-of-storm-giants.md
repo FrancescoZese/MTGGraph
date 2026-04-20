@@ -14,6 +14,9 @@ archetypes:
   azorius-control:
     weight: 0.4286
     avg_copies: 1.0
+  mono-blue-tron:
+    weight: 0.3333
+    avg_copies: 1.0
   bant-control:
     weight: 1.0
     avg_copies: 1.0
@@ -21,9 +24,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   grixis-control:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-8:
     weight: 1.0
     avg_copies: 1.0
 ---

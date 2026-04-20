@@ -6,7 +6,7 @@ name: Overgrown Tomb
 scryfall_id: 45b92924-baa1-4c9b-9932-9a5eda8f3446
 set: ecl
 type: Land — Swamp Forest
-meta_presence: 0.0404
+meta_presence: 0.0405
 archetypes:
   goryo-reanimator:
     weight: 0.1

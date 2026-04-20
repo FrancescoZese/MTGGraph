@@ -1,5 +1,5 @@
 ---
-archetype: unknown-4
+archetype: scapeshift-combo
 date: '2026-04-18'
 finish: 16th
 pilot: _Falcon_

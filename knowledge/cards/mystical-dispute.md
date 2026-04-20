@@ -7,7 +7,7 @@ name: Mystical Dispute
 scryfall_id: fbe04cb8-a8b9-4241-baae-b398a2509a3a
 set: eld
 type: Instant
-meta_presence: 0.435
+meta_presence: 0.4354
 archetypes:
   dimir-control:
     weight: 1.0
@@ -46,10 +46,10 @@ archetypes:
     weight: 0.9444
     avg_copies: 2.12
   neoform-combo:
-    weight: 1.0
+    weight: 0.9412
     avg_copies: 3.38
   mono-blue-tron:
-    weight: 1.0
+    weight: 0.6667
     avg_copies: 2.0
   hammer-time:
     weight: 0.5

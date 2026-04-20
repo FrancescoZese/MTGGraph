@@ -10,10 +10,10 @@ set: ecl
 type: Creature — Elemental Incarnation
 meta_presence: 0.0022
 archetypes:
-  eldrazi-ramp:
-    weight: 0.05
-    avg_copies: 1.0
-  unknown-3:
-    weight: 1.0
+  hollow-one:
+    weight: 0.0769
     avg_copies: 4.0
+  eldrazi-ramp:
+    weight: 0.0476
+    avg_copies: 1.0
 ---

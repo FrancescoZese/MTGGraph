@@ -14,13 +14,13 @@ archetypes:
   mill:
     weight: 0.5
     avg_copies: 2.0
+  mono-blue-tron:
+    weight: 0.3333
+    avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.35
+    weight: 0.3333
     avg_copies: 1.0
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 4.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 1.0
 ---

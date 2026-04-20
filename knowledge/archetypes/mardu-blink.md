@@ -7,28 +7,28 @@ name: Mardu Blink
 meta_share: 0.0055
 list_count: 5
 top_cards:
-- name: Phlage, Titan of Fire's Fury
-  weight: 1.0
-  avg_copies: 4.0
 - name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
+- name: Phlage, Titan of Fire's Fury
+  weight: 1.0
+  avg_copies: 4.0
 - name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.4
-- name: Arid Mesa
-  weight: 1.0
-  avg_copies: 3.2
 - name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 3.2
-- name: Ephemerate
+- name: Arid Mesa
+  weight: 1.0
+  avg_copies: 3.2
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 2.6
-- name: Marsh Flats
+- name: Ephemerate
   weight: 1.0
   avg_copies: 2.6
 - name: Flickerwisp
@@ -37,25 +37,25 @@ top_cards:
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 2.17
-- name: Bloodstained Mire
+- name: Witch Enchanter
   weight: 1.0
   avg_copies: 2.0
 - name: High Noon
   weight: 1.0
   avg_copies: 2.0
-- name: Arena of Glory
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.0
-- name: Witch Enchanter
+- name: Arena of Glory
   weight: 1.0
   avg_copies: 2.0
 - name: Pinnacle Monk
   weight: 1.0
   avg_copies: 1.8
-- name: Detective's Phoenix
+- name: Wear
   weight: 1.0
   avg_copies: 1.6
-- name: Wear
+- name: Detective's Phoenix
   weight: 1.0
   avg_copies: 1.6
 - name: Wrath of the Skies
@@ -64,10 +64,10 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.2
-- name: Surgical Extraction
+- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Orcish Bowmasters
@@ -76,10 +76,10 @@ top_cards:
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Surgical Extraction
   weight: 1.0
   avg_copies: 1.0
 - name: Galvanic Discharge
@@ -115,16 +115,16 @@ top_cards:
 - name: Plains
   weight: 0.4
   avg_copies: 1.5
-- name: Mountain
-  weight: 0.4
-  avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
   weight: 0.4
   avg_copies: 1.0
-- name: Emperor of Bones
+- name: Mountain
+  weight: 0.4
+  avg_copies: 1.0
+- name: Unholy Heat
   weight: 0.2
   avg_copies: 3.0
-- name: Unholy Heat
+- name: Emperor of Bones
   weight: 0.2
   avg_copies: 3.0
 - name: The Legend of Roku
@@ -139,13 +139,13 @@ top_cards:
 - name: Pest Control
   weight: 0.2
   avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Faerie Macabre
   weight: 0.2
   avg_copies: 1.0
 - name: Boggart Trawler
   weight: 0.2
   avg_copies: 1.0
-- name: Faerie Macabre
+- name: Nihil Spellbomb
   weight: 0.2
   avg_copies: 1.0
 ---

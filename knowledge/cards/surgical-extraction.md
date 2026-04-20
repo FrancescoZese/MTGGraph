@@ -34,16 +34,16 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   mono-blue-tron:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
   hollow-one:
-    weight: 0.5833
+    weight: 0.5385
     avg_copies: 2.0
   boros-ponza:
     weight: 0.2308
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.05
+    weight: 0.0476
     avg_copies: 2.0
   izzet-prowess:
     weight: 0.8056
@@ -72,8 +72,8 @@ archetypes:
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 1.0
-  unknown-2:
-    weight: 1.0
+  cosmogoyf-fling:
+    weight: 0.25
     avg_copies: 2.0
   naya-midrange:
     weight: 1.0
@@ -81,7 +81,7 @@ archetypes:
 cmc: 1
 colors: []
 image: https://cards.scryfall.io/normal/front/e/1/e15d76ac-1c23-4503-8225-375ac2bf2fb6.jpg?1673147668
-meta_presence: 0.4066
+meta_presence: 0.407
 name: Surgical Extraction
 scryfall_id: e15d76ac-1c23-4503-8225-375ac2bf2fb6
 set: 2x2

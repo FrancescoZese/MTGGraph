@@ -10,7 +10,7 @@ type: Enchantment Creature — Nightmare
 meta_presence: 0.0066
 archetypes:
   hollow-one:
-    weight: 0.4167
+    weight: 0.3846
     avg_copies: 2.0
   rakdos-steel-cutter:
     weight: 0.25

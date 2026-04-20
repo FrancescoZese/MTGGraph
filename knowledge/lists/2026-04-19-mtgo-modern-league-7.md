@@ -1,5 +1,5 @@
 ---
-archetype: unknown-1
+archetype: cosmogoyf-fling
 date: '2026-04-19'
 finish: 5-0
 pilot: Aldreen

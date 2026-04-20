@@ -13,10 +13,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.67
   neoform-combo:
-    weight: 1.0
+    weight: 0.9412
     avg_copies: 2.88
   eldrazi-ramp:
-    weight: 0.25
+    weight: 0.2381
     avg_copies: 2.0
   broodscale-combo:
     weight: 0.5

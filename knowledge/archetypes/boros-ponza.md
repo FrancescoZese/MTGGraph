@@ -12,10 +12,10 @@ top_cards:
 - name: Path to Exile
   weight: 1.0
   avg_copies: 4.0
-- name: Field of Ruin
+- name: Galvanic Discharge
   weight: 1.0
   avg_copies: 3.85
-- name: Galvanic Discharge
+- name: Field of Ruin
   weight: 1.0
   avg_copies: 3.85
 - name: Demolition Field
@@ -42,10 +42,10 @@ top_cards:
 - name: Sunken Citadel
   weight: 1.0
   avg_copies: 2.31
-- name: Phlage, Titan of Fire's Fury
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Phlage, Titan of Fire's Fury
   weight: 1.0
   avg_copies: 2.0
 - name: Celestial Purge
@@ -96,10 +96,10 @@ top_cards:
 - name: Wrath of God
   weight: 0.2308
   avg_copies: 1.33
-- name: Sunbaked Canyon
+- name: Surgical Extraction
   weight: 0.2308
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Sunbaked Canyon
   weight: 0.2308
   avg_copies: 1.0
 - name: Soul-Guide Lantern
@@ -111,13 +111,13 @@ top_cards:
 - name: Ghost Quarter
   weight: 0.1538
   avg_copies: 1.0
-- name: Prismatic Ending
+- name: Gideon, Ally of Zendikar
   weight: 0.0769
   avg_copies: 2.0
 - name: Settle the Wreckage
   weight: 0.0769
   avg_copies: 2.0
-- name: Gideon, Ally of Zendikar
+- name: Prismatic Ending
   weight: 0.0769
   avg_copies: 2.0
 ---

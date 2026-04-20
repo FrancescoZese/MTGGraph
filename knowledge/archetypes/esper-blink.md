@@ -10,10 +10,10 @@ top_cards:
 - name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Phelia, Exuberant Shepherd
@@ -58,10 +58,10 @@ top_cards:
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowy Backstreet
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Thoughtseize
@@ -97,46 +97,43 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.5556
   avg_copies: 2.6
-- name: Surgical Extraction
-  weight: 0.2222
-  avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.2222
   avg_copies: 1.0
 - name: Island
   weight: 0.2222
   avg_copies: 1.0
+- name: Surgical Extraction
+  weight: 0.2222
+  avg_copies: 1.0
 - name: No More Lies
-  weight: 0.1111
-  avg_copies: 4.0
-- name: Force of Negation
-  weight: 0.1111
-  avg_copies: 4.0
-- name: Subtlety
   weight: 0.1111
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 0.1111
   avg_copies: 4.0
-- name: White Orchid Phantom
+- name: Subtlety
   weight: 0.1111
-  avg_copies: 2.0
+  avg_copies: 4.0
+- name: Force of Negation
+  weight: 0.1111
+  avg_copies: 4.0
 - name: Clarion Conqueror
   weight: 0.1111
   avg_copies: 2.0
-- name: Emptiness
+- name: White Orchid Phantom
   weight: 0.1111
-  avg_copies: 1.0
-- name: Hydroelectric Specimen
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Bleachbone Verge
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Windswept Heath
+  avg_copies: 2.0
+- name: Strix Serenade
   weight: 0.1111
   avg_copies: 1.0
 - name: Floodfarm Verge
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Emptiness
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Bleachbone Verge
   weight: 0.1111
   avg_copies: 1.0
 - name: March of Otherworldly Light
@@ -145,7 +142,10 @@ top_cards:
 - name: Celestial Purge
   weight: 0.1111
   avg_copies: 1.0
-- name: Strix Serenade
+- name: Hydroelectric Specimen
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Windswept Heath
   weight: 0.1111
   avg_copies: 1.0
 ---

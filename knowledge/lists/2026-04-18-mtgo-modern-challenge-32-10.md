@@ -1,5 +1,5 @@
 ---
-archetype: unknown-3
+archetype: hollow-one
 date: '2026-04-18'
 finish: 6th
 pilot: gurig

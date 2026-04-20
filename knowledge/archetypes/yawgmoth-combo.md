@@ -6,25 +6,25 @@ name: Yawgmoth Combo
 meta_share: 0.0109
 list_count: 10
 top_cards:
-- name: Badgermole Cub
-  weight: 1.0
-  avg_copies: 4.0
-- name: Verdant Catacombs
+- name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 4.0
 - name: Delighted Halfling
   weight: 1.0
   avg_copies: 4.0
-- name: Agatha's Soul Cauldron
+- name: Verdant Catacombs
+  weight: 1.0
+  avg_copies: 4.0
+- name: Badgermole Cub
   weight: 1.0
   avg_copies: 4.0
 - name: Yawgmoth, Thran Physician
   weight: 1.0
   avg_copies: 3.8
-- name: Young Wolf
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 3.6
-- name: Malevolent Rumble
+- name: Young Wolf
   weight: 1.0
   avg_copies: 3.6
 - name: Spymaster's Vault
@@ -63,19 +63,19 @@ top_cards:
 - name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.1
-- name: Strangleroot Geist
+- name: Endurance
+  weight: 1.0
+  avg_copies: 1.0
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
 - name: Grist, the Hunger Tide
   weight: 1.0
   avg_copies: 1.0
+- name: Strangleroot Geist
+  weight: 1.0
+  avg_copies: 1.0
 - name: Soulless Jailer
-  weight: 1.0
-  avg_copies: 1.0
-- name: Endurance
-  weight: 1.0
-  avg_copies: 1.0
-- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
 - name: Swamp
@@ -111,10 +111,10 @@ top_cards:
 - name: Damping Sphere
   weight: 0.5
   avg_copies: 1.0
-- name: Pile On
+- name: Ignoble Hierarch
   weight: 0.4
   avg_copies: 1.0
-- name: Ignoble Hierarch
+- name: Pile On
   weight: 0.4
   avg_copies: 1.0
 - name: Misty Rainforest
@@ -132,13 +132,13 @@ top_cards:
 - name: Culling Ritual
   weight: 0.1
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Assassin's Trophy
   weight: 0.1
   avg_copies: 1.0
 - name: Murderous Cut
   weight: 0.1
   avg_copies: 1.0
-- name: Assassin's Trophy
+- name: Haywire Mite
   weight: 0.1
   avg_copies: 1.0
 ---

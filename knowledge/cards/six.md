@@ -13,12 +13,12 @@ archetypes:
     weight: 0.9474
     avg_copies: 1.08
   eldrazi-ramp:
-    weight: 0.15
+    weight: 0.1429
     avg_copies: 1.0
   sultai-artifacts:
     weight: 0.2
     avg_copies: 2.0
-  unknown-4:
+  scapeshift-combo:
     weight: 1.0
     avg_copies: 1.0
   naya-midrange:

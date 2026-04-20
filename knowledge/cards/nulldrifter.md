@@ -9,7 +9,7 @@ type: Creature — Eldrazi Elemental
 meta_presence: 0.0066
 archetypes:
   eldrazi-ramp:
-    weight: 0.2
+    weight: 0.1905
     avg_copies: 3.0
   izzet-eldrazi:
     weight: 1.0

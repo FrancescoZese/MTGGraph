@@ -3,7 +3,7 @@ colors:
 - W
 - R
 name: Boros Energy
-meta_share: 0.212
+meta_share: 0.2123
 list_count: 194
 top_cards:
 - name: Guide of Souls
@@ -171,10 +171,10 @@ top_cards:
 - name: Phelia, Exuberant Shepherd
   weight: 0.0155
   avg_copies: 1.67
-- name: Haliya, Guided by Light
+- name: Ghost Vacuum
   weight: 0.0155
   avg_copies: 1.0
-- name: Ghost Vacuum
+- name: Haliya, Guided by Light
   weight: 0.0155
   avg_copies: 1.0
 - name: Wear
@@ -189,10 +189,10 @@ top_cards:
 - name: Starfield Shepherd
   weight: 0.0052
   avg_copies: 4.0
-- name: Screaming Nemesis
+- name: The Battle of Bywater
   weight: 0.0052
   avg_copies: 2.0
-- name: Kataki, War's Wage
+- name: Screaming Nemesis
   weight: 0.0052
   avg_copies: 2.0
 - name: Unlicensed Hearse
@@ -201,49 +201,49 @@ top_cards:
 - name: Ephemerate
   weight: 0.0052
   avg_copies: 2.0
-- name: The Battle of Bywater
-  weight: 0.0052
-  avg_copies: 2.0
-- name: Reprieve
-  weight: 0.0052
-  avg_copies: 2.0
-- name: White Orchid Phantom
+- name: Kataki, War's Wage
   weight: 0.0052
   avg_copies: 2.0
 - name: Stony Silence
   weight: 0.0052
   avg_copies: 2.0
-- name: Hallowed Moonlight
+- name: White Orchid Phantom
   weight: 0.0052
-  avg_copies: 1.0
-- name: Duty Beyond Death
+  avg_copies: 2.0
+- name: Reprieve
   weight: 0.0052
-  avg_copies: 1.0
-- name: Tunnel Ignus
-  weight: 0.0052
-  avg_copies: 1.0
-- name: Prismatic Ending
+  avg_copies: 2.0
+- name: Curious Farm Animals
   weight: 0.0052
   avg_copies: 1.0
 - name: The Ooze
   weight: 0.0052
   avg_copies: 1.0
-- name: Cool but Rude
-  weight: 0.0052
-  avg_copies: 1.0
-- name: Curious Farm Animals
+- name: Duty Beyond Death
   weight: 0.0052
   avg_copies: 1.0
 - name: The Wandering Emperor
   weight: 0.0052
   avg_copies: 1.0
-- name: Elspeth, Storm Slayer
+- name: Hallowed Moonlight
+  weight: 0.0052
+  avg_copies: 1.0
+- name: Cool but Rude
   weight: 0.0052
   avg_copies: 1.0
 - name: Redirect Lightning
   weight: 0.0052
   avg_copies: 1.0
+- name: Tunnel Ignus
+  weight: 0.0052
+  avg_copies: 1.0
 - name: Giant Killer
+  weight: 0.0052
+  avg_copies: 1.0
+- name: Prismatic Ending
+  weight: 0.0052
+  avg_copies: 1.0
+- name: Elspeth, Storm Slayer
   weight: 0.0052
   avg_copies: 1.0
 ---

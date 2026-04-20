@@ -15,7 +15,7 @@ archetypes:
   mono-green-ramp:
     weight: 1.0
     avg_copies: 1.0
-  unknown-4:
+  scapeshift-combo:
     weight: 1.0
     avg_copies: 2.0
 ---

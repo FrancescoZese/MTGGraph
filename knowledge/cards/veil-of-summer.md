@@ -13,7 +13,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.9375
+    weight: 0.8824
     avg_copies: 2.74
   sultai-reanimator:
     weight: 1.0

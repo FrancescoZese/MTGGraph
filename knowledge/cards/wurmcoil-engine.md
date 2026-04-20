@@ -8,7 +8,7 @@ set: 2xm
 type: Artifact Creature — Phyrexian Wurm
 meta_presence: 0.0011
 archetypes:
-  unknown-8:
-    weight: 1.0
+  mono-blue-tron:
+    weight: 0.3333
     avg_copies: 1.0
 ---

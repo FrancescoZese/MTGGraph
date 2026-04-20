@@ -7,7 +7,7 @@ name: Consign to Memory
 scryfall_id: bc95af55-d1dd-4fe6-adb0-3ad6db20d986
 set: mh3
 type: Instant
-meta_presence: 0.4831
+meta_presence: 0.4836
 archetypes:
   dimir-control:
     weight: 1.0
@@ -43,7 +43,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.89
   neoform-combo:
-    weight: 1.0
+    weight: 0.9412
     avg_copies: 3.5
   mono-blue-tron:
     weight: 1.0
@@ -103,9 +103,6 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   esper-midrange:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-8:
     weight: 1.0
     avg_copies: 4.0
 ---

@@ -13,15 +13,15 @@ archetypes:
   jeskai-energy:
     weight: 0.0135
     avg_copies: 3.0
+  hollow-one:
+    weight: 0.0769
+    avg_copies: 1.0
   indomitable-creativity:
     weight: 1.0
     avg_copies: 3.43
   jund-saga:
     weight: 1.0
     avg_copies: 3.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 1.0
   naya-midrange:
     weight: 1.0
     avg_copies: 4.0

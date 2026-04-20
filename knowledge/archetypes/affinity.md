@@ -3,16 +3,16 @@ colors:
 - U
 - R
 name: Affinity
-meta_share: 0.0951
+meta_share: 0.0952
 list_count: 87
 top_cards:
 - name: Pinnacle Emissary
   weight: 1.0
   avg_copies: 3.95
-- name: Kappa Cannoneer
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 3.93
-- name: Urza's Saga
+- name: Kappa Cannoneer
   weight: 1.0
   avg_copies: 3.93
 - name: Mox Opal
@@ -138,19 +138,19 @@ top_cards:
 - name: Thundering Falls
   weight: 0.069
   avg_copies: 1.0
-- name: Flusterstorm
+- name: Hurkyl's Recall
   weight: 0.069
   avg_copies: 1.0
-- name: Hurkyl's Recall
+- name: Flusterstorm
   weight: 0.069
   avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 0.0575
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Vandalblast
   weight: 0.046
   avg_copies: 1.0
-- name: Vandalblast
+- name: Haywire Mite
   weight: 0.046
   avg_copies: 1.0
 - name: Salvage Titan
@@ -177,28 +177,28 @@ top_cards:
 - name: Shattering Spree
   weight: 0.0115
   avg_copies: 2.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.0115
-  avg_copies: 1.0
 - name: Polluted Delta
   weight: 0.0115
   avg_copies: 1.0
-- name: Jokulmorder
-  weight: 0.0115
-  avg_copies: 1.0
-- name: Chandra, Spark Hunter
-  weight: 0.0115
-  avg_copies: 1.0
-- name: Ghirapur Aether Grid
+- name: Tamiyo, Inquisitive Student
   weight: 0.0115
   avg_copies: 1.0
 - name: Flooded Strand
   weight: 0.0115
   avg_copies: 1.0
-- name: Void Mirror
+- name: Jokulmorder
+  weight: 0.0115
+  avg_copies: 1.0
+- name: Ghirapur Aether Grid
+  weight: 0.0115
+  avg_copies: 1.0
+- name: Chandra, Spark Hunter
   weight: 0.0115
   avg_copies: 1.0
 - name: Minamo, School at Water's Edge
+  weight: 0.0115
+  avg_copies: 1.0
+- name: Void Mirror
   weight: 0.0115
   avg_copies: 1.0
 ---

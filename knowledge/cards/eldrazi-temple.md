@@ -12,10 +12,10 @@ archetypes:
     weight: 1.0
     avg_copies: 3.94
   mono-blue-tron:
-    weight: 0.5
-    avg_copies: 1.0
+    weight: 0.6667
+    avg_copies: 2.0
   eldrazi-ramp:
-    weight: 1.0
+    weight: 0.9524
     avg_copies: 4.0
   broodscale-combo:
     weight: 1.0
@@ -23,10 +23,7 @@ archetypes:
   izzet-eldrazi:
     weight: 1.0
     avg_copies: 4.0
-  unknown-4:
+  scapeshift-combo:
     weight: 1.0
     avg_copies: 4.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 3.0
 ---

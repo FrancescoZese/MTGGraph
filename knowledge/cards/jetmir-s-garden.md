@@ -8,10 +8,10 @@ set: snc
 type: Land — Mountain Forest Plains
 meta_presence: 0.0066
 archetypes:
+  hollow-one:
+    weight: 0.0769
+    avg_copies: 1.0
   indomitable-creativity:
     weight: 0.7143
-    avg_copies: 1.0
-  unknown-3:
-    weight: 1.0
     avg_copies: 1.0
 ---

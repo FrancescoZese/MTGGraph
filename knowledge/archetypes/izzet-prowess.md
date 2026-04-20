@@ -3,7 +3,7 @@ colors:
 - U
 - R
 name: Izzet Prowess
-meta_share: 0.0393
+meta_share: 0.0394
 list_count: 36
 top_cards:
 - name: Cori-Steel Cutter
@@ -135,10 +135,10 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 0.1111
   avg_copies: 1.75
-- name: Blood Moon
+- name: Force of Negation
   weight: 0.1111
   avg_copies: 1.5
-- name: Force of Negation
+- name: Blood Moon
   weight: 0.1111
   avg_copies: 1.5
 - name: Monstrous Rage
@@ -159,55 +159,55 @@ top_cards:
 - name: End the Festivities
   weight: 0.0833
   avg_copies: 1.0
-- name: Misty Rainforest
+- name: Pyroclasm
   weight: 0.0556
   avg_copies: 2.0
-- name: Pyroclasm
+- name: Misty Rainforest
   weight: 0.0556
   avg_copies: 2.0
 - name: Alpine Moon
   weight: 0.0556
   avg_copies: 1.5
+- name: Redirect Lightning
+  weight: 0.0556
+  avg_copies: 1.0
 - name: True Ancestry
   weight: 0.0556
   avg_copies: 1.0
 - name: Island
   weight: 0.0556
   avg_copies: 1.0
-- name: Redirect Lightning
-  weight: 0.0556
-  avg_copies: 1.0
 - name: Prismatic Ending
   weight: 0.0278
   avg_copies: 3.0
-- name: Siege Smash
-  weight: 0.0278
-  avg_copies: 2.0
 - name: Spirebluff Canal
   weight: 0.0278
   avg_copies: 2.0
-- name: The Legend of Roku
+- name: Siege Smash
   weight: 0.0278
-  avg_copies: 1.0
-- name: Riverpyre Verge
-  weight: 0.0278
-  avg_copies: 1.0
-- name: Sacred Foundry
+  avg_copies: 2.0
+- name: Polluted Delta
   weight: 0.0278
   avg_copies: 1.0
 - name: Grafdigger's Cage
   weight: 0.0278
   avg_copies: 1.0
-- name: Wear
+- name: Riverpyre Verge
   weight: 0.0278
   avg_copies: 1.0
-- name: Polluted Delta
+- name: The Legend of Roku
+  weight: 0.0278
+  avg_copies: 1.0
+- name: Shatterstorm
+  weight: 0.0278
+  avg_copies: 1.0
+- name: Wear
   weight: 0.0278
   avg_copies: 1.0
 - name: Flooded Strand
   weight: 0.0278
   avg_copies: 1.0
-- name: Shatterstorm
+- name: Sacred Foundry
   weight: 0.0278
   avg_copies: 1.0
 - name: Pithing Needle

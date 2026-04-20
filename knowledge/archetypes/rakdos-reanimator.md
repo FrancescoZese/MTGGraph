@@ -6,10 +6,7 @@ name: Rakdos Reanimator
 meta_share: 0.0011
 list_count: 1
 top_cards:
-- name: Stitcher's Supplier
-  weight: 1.0
-  avg_copies: 4.0
-- name: Bloodghast
+- name: Persist
   weight: 1.0
   avg_copies: 4.0
 - name: Faithless Looting
@@ -18,49 +15,40 @@ top_cards:
 - name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
-- name: Orcish Bowmasters
-  weight: 1.0
-  avg_copies: 4.0
-- name: Persist
+- name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
 - name: Flare of Malice
   weight: 1.0
   avg_copies: 4.0
-- name: Obsidian Charmaw
+- name: Orcish Bowmasters
   weight: 1.0
-  avg_copies: 3.0
-- name: Blood Crypt
+  avg_copies: 4.0
+- name: Bloodghast
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Village Rites
-  weight: 1.0
-  avg_copies: 3.0
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 3.0
-- name: Vexing Bauble
   weight: 1.0
   avg_copies: 3.0
 - name: Rakdos Charm
   weight: 1.0
   avg_copies: 3.0
+- name: Blood Crypt
+  weight: 1.0
+  avg_copies: 3.0
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 3.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 3.0
-- name: Mountain
+- name: Obsidian Charmaw
   weight: 1.0
-  avg_copies: 2.0
-- name: Extract the Truth
+  avg_copies: 3.0
+- name: Vexing Bauble
   weight: 1.0
-  avg_copies: 2.0
-- name: Spymaster's Vault
-  weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Raucous Theater
-  weight: 1.0
-  avg_copies: 2.0
-- name: Detective's Phoenix
   weight: 1.0
   avg_copies: 2.0
 - name: Corrupted Conviction
@@ -69,10 +57,22 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 2.0
+- name: Spymaster's Vault
+  weight: 1.0
+  avg_copies: 2.0
+- name: Extract the Truth
+  weight: 1.0
+  avg_copies: 2.0
+- name: Mountain
+  weight: 1.0
+  avg_copies: 2.0
+- name: Detective's Phoenix
+  weight: 1.0
+  avg_copies: 2.0
 - name: Voldaren Epicure
   weight: 1.0
   avg_copies: 2.0
-- name: Bloodstained Mire
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 1.0
 - name: Wooded Foothills
@@ -81,10 +81,10 @@ top_cards:
 - name: End the Festivities
   weight: 1.0
   avg_copies: 1.0
-- name: Brotherhood's End
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.0
-- name: Polluted Delta
+- name: Brotherhood's End
   weight: 1.0
   avg_copies: 1.0
 ---
