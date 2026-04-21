@@ -7,7 +7,7 @@ name: Priest of Titania
 scryfall_id: eb11921b-1b28-483f-a707-4de21a6daa31
 set: mh3
 type: Creature — Elf Druid
-meta_presence: 0.0011
+meta_presence: 0.001
 archetypes:
   elves:
     weight: 1.0

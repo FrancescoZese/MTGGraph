@@ -7,7 +7,7 @@ name: Valgavoth, Terror Eater
 scryfall_id: 7740ff55-67bb-409e-90f7-2c2c8b8c770a
 set: dsk
 type: Legendary Creature — Elder Demon
-meta_presence: 0.0033
+meta_presence: 0.0031
 archetypes:
   indomitable-creativity:
     weight: 0.4286

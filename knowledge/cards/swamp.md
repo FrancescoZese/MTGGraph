@@ -9,22 +9,22 @@ type: Basic Land — Swamp
 meta_presence: 0.2079
 archetypes:
   dimir-control:
-    weight: 0.9583
+    weight: 0.96
     avg_copies: 1.0
   dimir-frog:
     weight: 1.0
     avg_copies: 1.11
   eldrazi-tron:
-    weight: 0.8333
+    weight: 0.85
     avg_copies: 1.0
   goryo-reanimator:
-    weight: 0.9667
+    weight: 0.9677
     avg_copies: 1.0
   necrodominance:
     weight: 1.0
     avg_copies: 9.83
   living-end:
-    weight: 0.2353
+    weight: 0.2778
     avg_copies: 1.0
   mill:
     weight: 0.5
@@ -65,10 +65,13 @@ archetypes:
   rakdos-reanimator:
     weight: 1.0
     avg_copies: 2.0
+  cosmogoyf-fling:
+    weight: 1.0
+    avg_copies: 1.0
   esper-midrange:
     weight: 1.0
     avg_copies: 1.0
-  cosmogoyf-fling:
+  unknown-1:
     weight: 1.0
     avg_copies: 1.0
 ---

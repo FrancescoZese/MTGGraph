@@ -8,14 +8,14 @@ name: Shardless Agent
 scryfall_id: b0824e77-c84b-464a-aa0c-44af5f6faa50
 set: mh2
 type: Artifact Creature — Human Rogue
-meta_presence: 0.046
+meta_presence: 0.0457
 archetypes:
   living-end:
     weight: 1.0
     avg_copies: 4.0
   simic-ritual:
     weight: 1.0
-    avg_copies: 3.38
+    avg_copies: 3.4
   4c-omnath:
     weight: 1.0
     avg_copies: 4.0

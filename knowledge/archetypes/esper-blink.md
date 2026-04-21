@@ -4,16 +4,16 @@ colors:
 - U
 - B
 name: Esper Blink
-meta_share: 0.0098
+meta_share: 0.0094
 list_count: 9
 top_cards:
-- name: Overlord of the Balemurk
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
 - name: Phelia, Exuberant Shepherd
@@ -34,10 +34,10 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
-- name: Damping Sphere
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.67
-- name: Wrath of the Skies
+- name: Damping Sphere
   weight: 1.0
   avg_copies: 2.67
 - name: Godless Shrine
@@ -52,6 +52,9 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.11
+- name: Shadowy Backstreet
+  weight: 1.0
+  avg_copies: 1.0
 - name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
@@ -59,9 +62,6 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Swamp
-  weight: 1.0
-  avg_copies: 1.0
-- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Thoughtseize
@@ -79,10 +79,10 @@ top_cards:
 - name: Polluted Delta
   weight: 0.8889
   avg_copies: 1.75
-- name: Undercity Sewers
+- name: Boggart Trawler
   weight: 0.8889
   avg_copies: 1.0
-- name: Boggart Trawler
+- name: Undercity Sewers
   weight: 0.8889
   avg_copies: 1.0
 - name: High Noon
@@ -97,25 +97,25 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.5556
   avg_copies: 2.6
-- name: Ashiok, Dream Render
-  weight: 0.2222
-  avg_copies: 1.0
 - name: Island
   weight: 0.2222
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.2222
   avg_copies: 1.0
-- name: No More Lies
-  weight: 0.1111
-  avg_copies: 4.0
+- name: Ashiok, Dream Render
+  weight: 0.2222
+  avg_copies: 1.0
 - name: Psychic Frog
   weight: 0.1111
   avg_copies: 4.0
-- name: Subtlety
+- name: No More Lies
   weight: 0.1111
   avg_copies: 4.0
 - name: Force of Negation
+  weight: 0.1111
+  avg_copies: 4.0
+- name: Subtlety
   weight: 0.1111
   avg_copies: 4.0
 - name: Clarion Conqueror
@@ -124,10 +124,10 @@ top_cards:
 - name: White Orchid Phantom
   weight: 0.1111
   avg_copies: 2.0
-- name: Strix Serenade
+- name: Floodfarm Verge
   weight: 0.1111
   avg_copies: 1.0
-- name: Floodfarm Verge
+- name: Celestial Purge
   weight: 0.1111
   avg_copies: 1.0
 - name: Emptiness
@@ -136,16 +136,16 @@ top_cards:
 - name: Bleachbone Verge
   weight: 0.1111
   avg_copies: 1.0
-- name: March of Otherworldly Light
+- name: Windswept Heath
   weight: 0.1111
   avg_copies: 1.0
-- name: Celestial Purge
+- name: Strix Serenade
   weight: 0.1111
   avg_copies: 1.0
 - name: Hydroelectric Specimen
   weight: 0.1111
   avg_copies: 1.0
-- name: Windswept Heath
+- name: March of Otherworldly Light
   weight: 0.1111
   avg_copies: 1.0
 ---

@@ -10,21 +10,21 @@ type: Instant
 meta_presence: 0.0405
 archetypes:
   dimir-frog:
-    weight: 0.6111
+    weight: 0.5789
     avg_copies: 1.08
   mono-blue-belcher:
     weight: 1.0
     avg_copies: 1.95
   azorius-control:
-    weight: 0.1905
+    weight: 0.1818
     avg_copies: 1.0
   mono-blue-tron:
     weight: 0.3333
     avg_copies: 2.0
   simic-ritual:
-    weight: 0.0417
+    weight: 0.04
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.3333
+    weight: 0.5
     avg_copies: 1.0
 ---

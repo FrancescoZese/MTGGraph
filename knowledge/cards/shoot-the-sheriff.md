@@ -7,10 +7,10 @@ name: Shoot the Sheriff
 scryfall_id: 180d6528-c524-4bb8-8a72-b3775cd2c177
 set: otj
 type: Instant
-meta_presence: 0.0033
+meta_presence: 0.0031
 archetypes:
   dimir-frog:
-    weight: 0.1111
+    weight: 0.1053
     avg_copies: 1.0
   jund-saga:
     weight: 1.0

@@ -7,7 +7,7 @@ name: Golgari Thug
 scryfall_id: 6a8c5d3b-71b4-4e99-82e9-dfc0b98698b0
 set: rvr
 type: Creature — Human Warrior
-meta_presence: 0.0022
+meta_presence: 0.0021
 archetypes:
   dredge:
     weight: 0.6667

@@ -10,18 +10,18 @@ name: Atraxa, Grand Unifier
 scryfall_id: 4a1f905f-1d55-4d02-9d24-e58070793d3f
 set: one
 type: Legendary Creature — Phyrexian Angel
-meta_presence: 0.0514
+meta_presence: 0.0509
 archetypes:
   goryo-reanimator:
     weight: 1.0
     avg_copies: 3.87
   living-end:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 3.0
   neoform-combo:
-    weight: 0.8824
+    weight: 0.8889
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0476
+    weight: 0.0455
     avg_copies: 1.0
 ---

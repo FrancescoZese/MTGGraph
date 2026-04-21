@@ -7,9 +7,9 @@ name: Oliphaunt
 scryfall_id: 6989018c-37b1-4282-a4af-9cc97f160b4d
 set: ltr
 type: Creature — Elephant
-meta_presence: 0.0011
+meta_presence: 0.001
 archetypes:
   living-end:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 3.0
 ---

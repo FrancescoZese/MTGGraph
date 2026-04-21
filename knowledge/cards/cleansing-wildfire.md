@@ -7,9 +7,9 @@ name: Cleansing Wildfire
 scryfall_id: 492d77e5-acc6-41b8-8930-f39d69234919
 set: znr
 type: Sorcery
-meta_presence: 0.0142
+meta_presence: 0.0156
 archetypes:
   boros-ponza:
     weight: 1.0
-    avg_copies: 3.77
+    avg_copies: 3.8
 ---

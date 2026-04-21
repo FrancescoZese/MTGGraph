@@ -6,28 +6,28 @@ name: Vexing Bauble
 scryfall_id: 29f11089-658f-42e6-aeb0-09b512ad2479
 set: mh3
 type: Artifact
-meta_presence: 0.2976
+meta_presence: 0.3046
 archetypes:
   ruby-storm:
-    weight: 0.0833
+    weight: 0.0741
     avg_copies: 1.0
   boros-energy:
-    weight: 0.2474
-    avg_copies: 1.65
+    weight: 0.255
+    avg_copies: 1.63
   eldrazi-tron:
-    weight: 0.6667
-    avg_copies: 1.13
+    weight: 0.675
+    avg_copies: 1.11
   amulet-titan:
-    weight: 0.5789
-    avg_copies: 1.14
+    weight: 0.5714
+    avg_copies: 1.17
   hardened-scales:
     weight: 0.6667
     avg_copies: 1.0
   affinity:
-    weight: 0.6667
-    avg_copies: 1.21
+    weight: 0.6739
+    avg_copies: 1.22
   domain-zoo:
-    weight: 0.0333
+    weight: 0.0312
     avg_copies: 1.0
   grixis-reanimator:
     weight: 0.1667
@@ -43,7 +43,7 @@ archetypes:
     avg_copies: 2.17
   boros-ponza:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.07
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
@@ -51,17 +51,17 @@ archetypes:
     weight: 1.0
     avg_copies: 1.2
   eldrazi-ramp:
-    weight: 0.9048
-    avg_copies: 1.53
+    weight: 0.9091
+    avg_copies: 1.55
   izzet-prowess:
-    weight: 0.1389
+    weight: 0.1316
     avg_copies: 2.0
   samwise-combo:
     weight: 0.75
     avg_copies: 2.0
   broodscale-combo:
     weight: 1.0
-    avg_copies: 1.42
+    avg_copies: 1.4
   orzhov-blink:
     weight: 0.75
     avg_copies: 1.33
@@ -98,4 +98,7 @@ archetypes:
   scapeshift-combo:
     weight: 1.0
     avg_copies: 3.0
+  unknown-1:
+    weight: 1.0
+    avg_copies: 1.0
 ---

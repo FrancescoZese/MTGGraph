@@ -8,12 +8,12 @@ name: Xenagos, God of Revels
 scryfall_id: 6f1bc3bb-46da-492a-850c-f1f588ad8d18
 set: lcc
 type: Legendary Enchantment Creature — God
-meta_presence: 0.0186
+meta_presence: 0.0187
 archetypes:
   neoform-combo:
-    weight: 0.9412
+    weight: 0.9444
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0476
+    weight: 0.0455
     avg_copies: 1.0
 ---

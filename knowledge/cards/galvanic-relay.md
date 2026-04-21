@@ -7,9 +7,9 @@ name: Galvanic Relay
 scryfall_id: 06373318-e548-4664-b227-17e3b6fd0a88
 set: mh2
 type: Sorcery
-meta_presence: 0.0077
+meta_presence: 0.0094
 archetypes:
   ruby-storm:
-    weight: 0.2917
+    weight: 0.3333
     avg_copies: 1.0
 ---

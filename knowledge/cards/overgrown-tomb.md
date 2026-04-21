@@ -9,19 +9,19 @@ type: Land — Swamp Forest
 meta_presence: 0.0405
 archetypes:
   goryo-reanimator:
-    weight: 0.1
+    weight: 0.0968
     avg_copies: 1.0
   necrodominance:
     weight: 0.0556
     avg_copies: 2.0
   living-end:
-    weight: 0.5294
-    avg_copies: 1.11
+    weight: 0.5556
+    avg_copies: 1.1
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 2.4
   simic-ritual:
-    weight: 0.0417
+    weight: 0.04
     avg_copies: 1.0
   sultai-reanimator:
     weight: 1.0
@@ -36,6 +36,9 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   mono-green-stompy:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-1:
     weight: 1.0
     avg_copies: 1.0
 ---

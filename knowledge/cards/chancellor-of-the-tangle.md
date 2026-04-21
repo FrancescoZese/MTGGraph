@@ -7,9 +7,9 @@ name: Chancellor of the Tangle
 scryfall_id: 6d129aa8-b637-451e-8123-5221e08cc2cc
 set: nph
 type: Creature — Phyrexian Beast
-meta_presence: 0.0033
+meta_presence: 0.0042
 archetypes:
   cosmogoyf-fling:
-    weight: 0.75
+    weight: 0.8
     avg_copies: 4.0
 ---

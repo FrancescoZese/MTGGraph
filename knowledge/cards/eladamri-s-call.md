@@ -8,9 +8,9 @@ name: Eladamri's Call
 scryfall_id: ea751fe2-b64a-4265-8885-a9016b29b5b3
 set: mh1
 type: Instant
-meta_presence: 0.0011
+meta_presence: 0.001
 archetypes:
   eldrazi-ramp:
-    weight: 0.0476
+    weight: 0.0455
     avg_copies: 2.0
 ---

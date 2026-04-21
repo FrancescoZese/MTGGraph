@@ -7,9 +7,9 @@ name: Empty the Warrens
 scryfall_id: 939d765a-aefb-4393-8808-98b1bbd7e803
 set: dmr
 type: Sorcery
-meta_presence: 0.0219
+meta_presence: 0.0239
 archetypes:
   ruby-storm:
-    weight: 0.8333
+    weight: 0.8519
     avg_copies: 1.0
 ---

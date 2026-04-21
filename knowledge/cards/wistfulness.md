@@ -11,13 +11,13 @@ type: Creature — Elemental Incarnation
 meta_presence: 0.0208
 archetypes:
   living-end:
-    weight: 0.8235
-    avg_copies: 3.53
+    weight: 0.8333
+    avg_copies: 3.56
   neoform-combo:
-    weight: 0.1765
+    weight: 0.1667
     avg_copies: 1.75
   eldrazi-ramp:
-    weight: 0.0476
+    weight: 0.0455
     avg_copies: 2.0
   bant-control:
     weight: 1.0

@@ -3,7 +3,7 @@ colors:
 - U
 - R
 name: Izzet Cori-Steel
-meta_share: 0.012
+meta_share: 0.0114
 list_count: 11
 top_cards:
 - name: Mishra's Bauble
@@ -84,10 +84,10 @@ top_cards:
 - name: Whipflare
   weight: 0.5455
   avg_copies: 2.0
-- name: Repeal
+- name: Fire Magic
   weight: 0.4545
   avg_copies: 1.8
-- name: Fire Magic
+- name: Repeal
   weight: 0.4545
   avg_copies: 1.8
 - name: Flame of Anor
@@ -111,37 +111,37 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.1818
   avg_copies: 2.0
+- name: Mountain
+  weight: 0.1818
+  avg_copies: 1.0
 - name: Thundering Falls
   weight: 0.1818
   avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 0.1818
   avg_copies: 1.0
-- name: Mountain
-  weight: 0.1818
-  avg_copies: 1.0
-- name: Unholy Heat
-  weight: 0.0909
-  avg_copies: 4.0
-- name: Dragon's Rage Channeler
-  weight: 0.0909
-  avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
   weight: 0.0909
   avg_copies: 4.0
 - name: Expressive Iteration
   weight: 0.0909
   avg_copies: 4.0
-- name: Experimental Synthesizer
+- name: Dragon's Rage Channeler
+  weight: 0.0909
+  avg_copies: 4.0
+- name: Unholy Heat
+  weight: 0.0909
+  avg_copies: 4.0
+- name: Surgical Extraction
   weight: 0.0909
   avg_copies: 3.0
-- name: Meltdown
+- name: Experimental Synthesizer
   weight: 0.0909
   avg_copies: 3.0
 - name: Vivi Ornitier
   weight: 0.0909
   avg_copies: 3.0
-- name: Surgical Extraction
+- name: Meltdown
   weight: 0.0909
   avg_copies: 3.0
 - name: Pyroclasm
@@ -162,13 +162,13 @@ top_cards:
 - name: Skateboard
   weight: 0.0909
   avg_copies: 1.0
+- name: An Offer You Can't Refuse
+  weight: 0.0909
+  avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 0.0909
   avg_copies: 1.0
 - name: Shadowspear
-  weight: 0.0909
-  avg_copies: 1.0
-- name: An Offer You Can't Refuse
   weight: 0.0909
   avg_copies: 1.0
 - name: Haywire Mite

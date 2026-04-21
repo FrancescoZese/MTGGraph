@@ -7,13 +7,13 @@ name: Whipflare
 scryfall_id: 81a3f7f3-da33-48d6-89c0-faf42998a08b
 set: cm2
 type: Sorcery
-meta_presence: 0.1007
+meta_presence: 0.1008
 archetypes:
   hardened-scales:
     weight: 1.0
     avg_copies: 2.33
   affinity:
-    weight: 0.9425
+    weight: 0.9457
     avg_copies: 2.0
   sultai-artifacts:
     weight: 0.1

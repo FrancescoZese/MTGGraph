@@ -10,19 +10,19 @@ type: Sorcery
 meta_presence: 0.0832
 archetypes:
   dimir-control:
-    weight: 0.0417
+    weight: 0.08
     avg_copies: 1.0
   dimir-frog:
-    weight: 0.2222
+    weight: 0.2105
     avg_copies: 2.0
   mono-blue-belcher:
-    weight: 0.3158
+    weight: 0.3
     avg_copies: 3.33
   affinity:
-    weight: 0.1609
-    avg_copies: 2.71
+    weight: 0.163
+    avg_copies: 2.8
   neoform-combo:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 1.0
   izzet-prowess:
     weight: 1.0

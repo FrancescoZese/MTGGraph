@@ -9,25 +9,25 @@ type: Artifact
 meta_presence: 0.1258
 archetypes:
   eldrazi-tron:
-    weight: 0.0833
+    weight: 0.075
     avg_copies: 1.0
   hardened-scales:
     weight: 0.6667
     avg_copies: 1.0
   affinity:
-    weight: 0.8506
+    weight: 0.8478
     avg_copies: 1.0
   hammer-time:
     weight: 1.0
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.1429
+    weight: 0.1364
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0278
+    weight: 0.0263
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.875
+    weight: 0.8333
     avg_copies: 1.0
   sultai-artifacts:
     weight: 0.5
@@ -42,6 +42,9 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   mono-green-ramp:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-1:
     weight: 1.0
     avg_copies: 1.0
 ---

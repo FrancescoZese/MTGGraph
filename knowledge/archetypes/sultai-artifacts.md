@@ -3,16 +3,16 @@ colors:
 - U
 - R
 name: Sultai Artifacts
-meta_share: 0.0109
+meta_share: 0.0104
 list_count: 10
 top_cards:
+- name: Tamiyo, Inquisitive Student
+  weight: 1.0
+  avg_copies: 4.0
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Opal
-  weight: 1.0
-  avg_copies: 4.0
-- name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
 - name: Emry, Lurker of the Loch
@@ -48,13 +48,13 @@ top_cards:
 - name: Breeding Pool
   weight: 0.9
   avg_copies: 1.11
-- name: Strix Serenade
+- name: Island
   weight: 0.9
   avg_copies: 1.0
 - name: Thundering Falls
   weight: 0.9
   avg_copies: 1.0
-- name: Island
+- name: Strix Serenade
   weight: 0.9
   avg_copies: 1.0
 - name: Cori-Steel Cutter
@@ -87,10 +87,10 @@ top_cards:
 - name: Minamo, School at Water's Edge
   weight: 0.6
   avg_copies: 1.0
-- name: Shadowspear
+- name: Flooded Strand
   weight: 0.6
   avg_copies: 1.0
-- name: Flooded Strand
+- name: Shadowspear
   weight: 0.6
   avg_copies: 1.0
 - name: Repeal
@@ -117,10 +117,10 @@ top_cards:
 - name: Grinding Station
   weight: 0.3
   avg_copies: 3.0
-- name: Sink into Stupor
+- name: Vexing Bauble
   weight: 0.3
   avg_copies: 1.0
-- name: Vexing Bauble
+- name: Sink into Stupor
   weight: 0.3
   avg_copies: 1.0
 - name: Malevolent Rumble
@@ -129,13 +129,13 @@ top_cards:
 - name: Spirebluff Canal
   weight: 0.2
   avg_copies: 2.5
-- name: Six
+- name: Mystical Dispute
   weight: 0.2
   avg_copies: 2.0
 - name: Endurance
   weight: 0.2
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Six
   weight: 0.2
   avg_copies: 2.0
 - name: Pyroclasm
@@ -156,22 +156,22 @@ top_cards:
 - name: Hedge Maze
   weight: 0.2
   avg_copies: 1.0
-- name: Boomerang Basics
+- name: Preordain
   weight: 0.1
   avg_copies: 3.0
-- name: Preordain
+- name: Boomerang Basics
   weight: 0.1
   avg_copies: 3.0
 - name: Whipflare
   weight: 0.1
   avg_copies: 3.0
-- name: Botanical Sanctum
+- name: The Reality Chip
   weight: 0.1
   avg_copies: 2.0
 - name: Kappa Cannoneer
   weight: 0.1
   avg_copies: 2.0
-- name: The Reality Chip
+- name: Botanical Sanctum
   weight: 0.1
   avg_copies: 2.0
 - name: Harbinger of the Seas
@@ -180,7 +180,7 @@ top_cards:
 - name: Swan Song
   weight: 0.1
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Nature's Claim
   weight: 0.1
   avg_copies: 1.0
 - name: Force of Vigor
@@ -189,16 +189,16 @@ top_cards:
 - name: Snow-Covered Island
   weight: 0.1
   avg_copies: 1.0
-- name: Meltdown
-  weight: 0.1
-  avg_copies: 1.0
-- name: Nature's Claim
-  weight: 0.1
-  avg_copies: 1.0
 - name: Subtlety
   weight: 0.1
   avg_copies: 1.0
 - name: Snow-Covered Mountain
+  weight: 0.1
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 0.1
+  avg_copies: 1.0
+- name: Stomping Ground
   weight: 0.1
   avg_copies: 1.0
 ---

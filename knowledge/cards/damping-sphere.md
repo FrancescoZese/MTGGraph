@@ -6,22 +6,22 @@ name: Damping Sphere
 scryfall_id: 550860b4-887d-423a-8add-816c2a8da615
 set: dmr
 type: Artifact
-meta_presence: 0.3162
+meta_presence: 0.3181
 archetypes:
   boros-energy:
-    weight: 0.2371
-    avg_copies: 1.5
+    weight: 0.235
+    avg_copies: 1.51
   dimir-control:
-    weight: 0.0417
+    weight: 0.04
     avg_copies: 2.0
   dimir-frog:
-    weight: 0.3333
+    weight: 0.3684
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.2973
-    avg_copies: 1.41
+    weight: 0.3158
+    avg_copies: 1.42
   goryo-reanimator:
-    weight: 0.1333
+    weight: 0.129
     avg_copies: 1.75
   hardened-scales:
     weight: 1.0
@@ -30,16 +30,16 @@ archetypes:
     weight: 0.7778
     avg_copies: 2.07
   azorius-control:
-    weight: 0.1429
+    weight: 0.1364
     avg_copies: 2.33
   living-end:
-    weight: 0.4706
+    weight: 0.5
     avg_copies: 1.0
   affinity:
-    weight: 0.977
-    avg_copies: 2.53
+    weight: 0.9783
+    avg_copies: 2.54
   domain-zoo:
-    weight: 0.8
+    weight: 0.8125
     avg_copies: 1.54
   grixis-reanimator:
     weight: 0.8333
@@ -48,8 +48,8 @@ archetypes:
     weight: 0.25
     avg_copies: 2.0
   mardu-blink:
-    weight: 0.6
-    avg_copies: 1.67
+    weight: 0.6667
+    avg_copies: 1.5
   hammer-time:
     weight: 0.5
     avg_copies: 2.0
@@ -60,16 +60,16 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0952
+    weight: 0.1364
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.1667
+    weight: 0.16
     avg_copies: 2.25
   esper-blink:
     weight: 1.0
     avg_copies: 2.67
   broodscale-combo:
-    weight: 0.5
+    weight: 0.5556
     avg_copies: 2.0
   orzhov-blink:
     weight: 1.0
@@ -95,13 +95,16 @@ archetypes:
   bant-ritual:
     weight: 1.0
     avg_copies: 2.0
+  cosmogoyf-fling:
+    weight: 0.2
+    avg_copies: 3.0
   esper-midrange:
     weight: 1.0
     avg_copies: 2.0
-  cosmogoyf-fling:
-    weight: 0.25
-    avg_copies: 3.0
   naya-midrange:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-1:
     weight: 1.0
     avg_copies: 2.0
 ---

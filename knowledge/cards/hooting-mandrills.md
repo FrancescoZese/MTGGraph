@@ -7,12 +7,12 @@ name: Hooting Mandrills
 scryfall_id: 6dfbd094-1d59-4539-80e1-595227d3e64d
 set: uma
 type: Creature — Ape
-meta_presence: 0.0175
+meta_presence: 0.0177
 archetypes:
   neoform-combo:
-    weight: 0.8824
-    avg_copies: 1.07
+    weight: 0.8889
+    avg_copies: 1.06
   eldrazi-ramp:
-    weight: 0.0476
+    weight: 0.0455
     avg_copies: 1.0
 ---
