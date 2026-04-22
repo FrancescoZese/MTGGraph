@@ -8,22 +8,22 @@ top_cards:
 - name: Lotus Bloom
   weight: 1.0
   avg_copies: 4.0
+- name: Goblin Charbelcher
+  weight: 1.0
+  avg_copies: 4.0
 - name: Hydroelectric Specimen
-  weight: 1.0
-  avg_copies: 4.0
-- name: Tameshi, Reality Architect
-  weight: 1.0
-  avg_copies: 4.0
-- name: Suppression Ray
   weight: 1.0
   avg_copies: 4.0
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 4.0
-- name: Whir of Invention
+- name: Suppression Ray
   weight: 1.0
   avg_copies: 4.0
-- name: Goblin Charbelcher
+- name: Tameshi, Reality Architect
+  weight: 1.0
+  avg_copies: 4.0
+- name: Whir of Invention
   weight: 1.0
   avg_copies: 4.0
 - name: Disrupting Shoal
@@ -83,10 +83,10 @@ top_cards:
 - name: Hurkyl's Recall
   weight: 0.5
   avg_copies: 2.0
-- name: Island
+- name: Strix Serenade
   weight: 0.5
   avg_copies: 1.0
-- name: Strix Serenade
+- name: Island
   weight: 0.5
   avg_copies: 1.0
 - name: Unable to Scream
@@ -95,10 +95,10 @@ top_cards:
 - name: Grafdigger's Cage
   weight: 0.3182
   avg_copies: 1.0
-- name: Tormod's Crypt
+- name: Spell Pierce
   weight: 0.3182
   avg_copies: 1.0
-- name: Spell Pierce
+- name: Tormod's Crypt
   weight: 0.3182
   avg_copies: 1.0
 - name: Preordain
@@ -116,17 +116,14 @@ top_cards:
 - name: Stock Up
   weight: 0.1818
   avg_copies: 1.0
-- name: Mountain
+- name: Dusk Rose Reliquary
   weight: 0.1364
   avg_copies: 1.0
-- name: Dusk Rose Reliquary
+- name: Mountain
   weight: 0.1364
   avg_copies: 1.0
 - name: Talisman of Progress
   weight: 0.0909
-  avg_copies: 1.0
-- name: Witch Enchanter
-  weight: 0.0455
   avg_copies: 1.0
 - name: Portable Hole
   weight: 0.0455
@@ -138,6 +135,9 @@ top_cards:
   weight: 0.0455
   avg_copies: 1.0
 - name: Hope of Ghirapur
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Witch Enchanter
   weight: 0.0455
   avg_copies: 1.0
 ---

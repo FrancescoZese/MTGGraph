@@ -1,5 +1,5 @@
 ---
-archetype: sultai-artifacts
+archetype: izzet-artifacts
 date: '2026-04-13'
 finish: 3rd
 pilot: derlumberzack

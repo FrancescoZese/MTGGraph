@@ -51,15 +51,12 @@ archetypes:
   sultai-reanimator:
     weight: 1.0
     avg_copies: 2.0
-  sultai-artifacts:
-    weight: 1.0
-    avg_copies: 1.7
+  izzet-artifacts:
+    weight: 0.85
+    avg_copies: 1.59
   esper-control:
     weight: 1.0
     avg_copies: 2.0
-  izzet-cori-steel:
-    weight: 0.7
-    avg_copies: 1.43
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 1.0

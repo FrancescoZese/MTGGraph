@@ -44,14 +44,11 @@ archetypes:
   bant-control:
     weight: 1.0
     avg_copies: 1.0
-  sultai-artifacts:
-    weight: 0.4
+  izzet-artifacts:
+    weight: 0.25
     avg_copies: 1.0
   esper-control:
     weight: 1.0
-    avg_copies: 1.0
-  izzet-cori-steel:
-    weight: 0.1
     avg_copies: 1.0
   grixis-control:
     weight: 1.0

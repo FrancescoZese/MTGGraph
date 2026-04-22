@@ -38,11 +38,8 @@ archetypes:
   simic-ritual:
     weight: 0.04
     avg_copies: 1.0
-  sultai-artifacts:
-    weight: 1.0
-    avg_copies: 4.0
-  izzet-cori-steel:
-    weight: 0.9
+  izzet-artifacts:
+    weight: 0.95
     avg_copies: 4.0
   grixis-control:
     weight: 1.0

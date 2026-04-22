@@ -65,8 +65,8 @@ archetypes:
   bant-control:
     weight: 1.0
     avg_copies: 2.0
-  sultai-artifacts:
-    weight: 0.3
+  izzet-artifacts:
+    weight: 0.15
     avg_copies: 3.0
   elves:
     weight: 1.0

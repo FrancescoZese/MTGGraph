@@ -1,5 +1,5 @@
 ---
-archetype: izzet-cori-steel
+archetype: izzet-artifacts
 date: '2026-04-13'
 finish: 5-0
 pilot: Bigatti

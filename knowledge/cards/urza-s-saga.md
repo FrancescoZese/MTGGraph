@@ -26,12 +26,9 @@ archetypes:
   broodscale-combo:
     weight: 1.0
     avg_copies: 4.0
-  sultai-artifacts:
+  izzet-artifacts:
     weight: 1.0
-    avg_copies: 3.6
-  izzet-cori-steel:
-    weight: 1.0
-    avg_copies: 3.3
+    avg_copies: 3.45
   jund-saga:
     weight: 1.0
     avg_copies: 4.0

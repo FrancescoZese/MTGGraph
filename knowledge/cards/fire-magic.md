@@ -33,12 +33,9 @@ archetypes:
   broodscale-combo:
     weight: 0.0556
     avg_copies: 4.0
-  sultai-artifacts:
-    weight: 0.7
-    avg_copies: 2.57
-  izzet-cori-steel:
-    weight: 0.5
-    avg_copies: 1.8
+  izzet-artifacts:
+    weight: 0.6
+    avg_copies: 2.25
   grixis-control:
     weight: 1.0
     avg_copies: 2.0

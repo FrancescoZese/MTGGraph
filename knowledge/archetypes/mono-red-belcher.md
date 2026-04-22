@@ -9,12 +9,6 @@ top_cards:
 - name: Pinnacle Monk
   weight: 1.0
   avg_copies: 4.0
-- name: Manamorphose
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ruby Medallion
-  weight: 1.0
-  avg_copies: 4.0
 - name: Stormscale Scion
   weight: 1.0
   avg_copies: 4.0
@@ -24,25 +18,31 @@ top_cards:
 - name: Pyretic Ritual
   weight: 1.0
   avg_copies: 4.0
+- name: Desperate Ritual
+  weight: 1.0
+  avg_copies: 4.0
+- name: Manamorphose
+  weight: 1.0
+  avg_copies: 4.0
+- name: Strike It Rich
+  weight: 1.0
+  avg_copies: 4.0
 - name: Goblin Charbelcher
   weight: 1.0
   avg_copies: 4.0
 - name: Spikefield Hazard
   weight: 1.0
   avg_copies: 4.0
-- name: Strike It Rich
-  weight: 1.0
-  avg_copies: 4.0
-- name: Desperate Ritual
+- name: Ruby Medallion
   weight: 1.0
   avg_copies: 4.0
 - name: Shatterskull Smashing
   weight: 1.0
   avg_copies: 4.0
-- name: Irencrag Feat
+- name: Valakut Awakening
   weight: 1.0
   avg_copies: 3.75
-- name: Valakut Awakening
+- name: Irencrag Feat
   weight: 1.0
   avg_copies: 3.75
 - name: Bitter Reunion
@@ -66,13 +66,13 @@ top_cards:
 - name: Mountain
   weight: 0.5
   avg_copies: 1.0
-- name: Relic of Progenitus
+- name: Hexing Squelcher
   weight: 0.25
   avg_copies: 4.0
 - name: Leyline of Sanctity
   weight: 0.25
   avg_copies: 4.0
-- name: Hexing Squelcher
+- name: Relic of Progenitus
   weight: 0.25
   avg_copies: 4.0
 - name: Untimely Malfunction
@@ -93,16 +93,16 @@ top_cards:
 - name: Lantern of the Lost
   weight: 0.25
   avg_copies: 2.0
-- name: Trinisphere
-  weight: 0.25
-  avg_copies: 1.0
 - name: Rush of Inspiration
   weight: 0.25
   avg_copies: 1.0
-- name: Redirect Lightning
+- name: Legion Leadership
   weight: 0.25
   avg_copies: 1.0
-- name: Legion Leadership
+- name: Trinisphere
+  weight: 0.25
+  avg_copies: 1.0
+- name: Redirect Lightning
   weight: 0.25
   avg_copies: 1.0
 ---

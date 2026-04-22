@@ -10,7 +10,7 @@ set: fin
 type: Legendary Creature — Wizard
 meta_presence: 0.001
 archetypes:
-  izzet-cori-steel:
-    weight: 0.1
+  izzet-artifacts:
+    weight: 0.05
     avg_copies: 3.0
 ---

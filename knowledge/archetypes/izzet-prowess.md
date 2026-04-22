@@ -9,10 +9,10 @@ top_cards:
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Preordain
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
-- name: Cori-Steel Cutter
+- name: Preordain
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
@@ -111,10 +111,10 @@ top_cards:
 - name: Octopus Form
   weight: 0.1951
   avg_copies: 1.0
-- name: Firebending Lesson
+- name: It'll Quench Ya!
   weight: 0.1707
   avg_copies: 1.0
-- name: It'll Quench Ya!
+- name: Firebending Lesson
   weight: 0.1707
   avg_copies: 1.0
 - name: Tormod's Crypt
@@ -123,22 +123,22 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.122
   avg_copies: 2.0
-- name: Abhorrent Oculus
-  weight: 0.122
-  avg_copies: 1.6
 - name: Blood Moon
   weight: 0.122
   avg_copies: 1.6
-- name: Monstrous Rage
+- name: Abhorrent Oculus
   weight: 0.122
-  avg_copies: 1.4
+  avg_copies: 1.6
 - name: Force of Negation
   weight: 0.122
   avg_copies: 1.4
-- name: Iroh's Demonstration
+- name: Monstrous Rage
+  weight: 0.122
+  avg_copies: 1.4
+- name: Price of Freedom
   weight: 0.122
   avg_copies: 1.0
-- name: Price of Freedom
+- name: Iroh's Demonstration
   weight: 0.122
   avg_copies: 1.0
 - name: Questing Druid
@@ -162,10 +162,10 @@ top_cards:
 - name: Island
   weight: 0.0732
   avg_copies: 1.33
-- name: Accumulate Wisdom
+- name: End the Festivities
   weight: 0.0732
   avg_copies: 1.0
-- name: End the Festivities
+- name: Accumulate Wisdom
   weight: 0.0732
   avg_copies: 1.0
 - name: Spirebluff Canal
@@ -192,40 +192,40 @@ top_cards:
 - name: Founding the Third Path
   weight: 0.0244
   avg_copies: 2.0
-- name: Sink into Stupor
-  weight: 0.0244
-  avg_copies: 1.0
 - name: Polluted Delta
   weight: 0.0244
   avg_copies: 1.0
-- name: Combustion Technique
-  weight: 0.0244
-  avg_copies: 1.0
-- name: Riverpyre Verge
-  weight: 0.0244
-  avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 0.0244
-  avg_copies: 1.0
-- name: Wear
-  weight: 0.0244
-  avg_copies: 1.0
-- name: Grafdigger's Cage
-  weight: 0.0244
-  avg_copies: 1.0
-- name: Otawara, Soaring City
-  weight: 0.0244
-  avg_copies: 1.0
-- name: Shatterstorm
-  weight: 0.0244
-  avg_copies: 1.0
-- name: The Legend of Roku
+- name: Flooded Strand
   weight: 0.0244
   avg_copies: 1.0
 - name: Pithing Needle
   weight: 0.0244
   avg_copies: 1.0
-- name: Flooded Strand
+- name: Riverpyre Verge
+  weight: 0.0244
+  avg_copies: 1.0
+- name: Sink into Stupor
+  weight: 0.0244
+  avg_copies: 1.0
+- name: The Legend of Roku
+  weight: 0.0244
+  avg_copies: 1.0
+- name: Otawara, Soaring City
+  weight: 0.0244
+  avg_copies: 1.0
+- name: Wear
+  weight: 0.0244
+  avg_copies: 1.0
+- name: Combustion Technique
+  weight: 0.0244
+  avg_copies: 1.0
+- name: Grafdigger's Cage
+  weight: 0.0244
+  avg_copies: 1.0
+- name: Shatterstorm
+  weight: 0.0244
+  avg_copies: 1.0
+- name: Sacred Foundry
   weight: 0.0244
   avg_copies: 1.0
 ---

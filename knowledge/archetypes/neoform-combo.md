@@ -42,10 +42,10 @@ top_cards:
 - name: Breeding Pool
   weight: 0.9524
   avg_copies: 1.05
-- name: Xenagos, God of Revels
+- name: Griselbrand
   weight: 0.9524
   avg_copies: 1.0
-- name: Griselbrand
+- name: Xenagos, God of Revels
   weight: 0.9524
   avg_copies: 1.0
 - name: Planar Genesis
@@ -81,10 +81,10 @@ top_cards:
 - name: Snow-Covered Forest
   weight: 0.8571
   avg_copies: 1.11
-- name: Snow-Covered Island
+- name: Elesh Norn, Grand Cenobite
   weight: 0.8571
   avg_copies: 1.0
-- name: Elesh Norn, Grand Cenobite
+- name: Snow-Covered Island
   weight: 0.8571
   avg_copies: 1.0
 - name: Ureni, the Song Unending
@@ -132,7 +132,13 @@ top_cards:
 - name: Forest
   weight: 0.0952
   avg_copies: 1.0
+- name: Glittering Wish
+  weight: 0.0476
+  avg_copies: 4.0
 - name: Invasion of Gobakhan
+  weight: 0.0476
+  avg_copies: 4.0
+- name: Gemstone Mine
   weight: 0.0476
   avg_copies: 4.0
 - name: Detect Intrusion
@@ -141,49 +147,43 @@ top_cards:
 - name: Hexing Squelcher
   weight: 0.0476
   avg_copies: 4.0
-- name: Glittering Wish
-  weight: 0.0476
-  avg_copies: 4.0
-- name: Gemstone Mine
-  weight: 0.0476
-  avg_copies: 4.0
 - name: Thrun, the Last Troll
   weight: 0.0476
   avg_copies: 3.0
 - name: Eladamri's Call
   weight: 0.0476
   avg_copies: 2.0
+- name: Detention Sphere
+  weight: 0.0476
+  avg_copies: 1.0
 - name: Stump Stomp
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Lush Portico
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Island
   weight: 0.0476
   avg_copies: 1.0
 - name: Commercial District
   weight: 0.0476
   avg_copies: 1.0
-- name: Detention Sphere
+- name: Brainsurge
   weight: 0.0476
   avg_copies: 1.0
-- name: Raph & Mikey, Troublemakers
+- name: Thundering Falls
   weight: 0.0476
   avg_copies: 1.0
 - name: Borborygmos Enraged
   weight: 0.0476
   avg_copies: 1.0
-- name: Brainsurge
+- name: Raph & Mikey, Troublemakers
   weight: 0.0476
   avg_copies: 1.0
-- name: Spell Snare
+- name: Island
   weight: 0.0476
   avg_copies: 1.0
 - name: Meticulous Archive
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Lush Portico
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Firespout
   weight: 0.0476
   avg_copies: 1.0
 - name: Nature's Chant
@@ -192,7 +192,7 @@ top_cards:
 - name: Preordain
   weight: 0.0476
   avg_copies: 1.0
-- name: Firespout
+- name: Spell Snare
   weight: 0.0476
   avg_copies: 1.0
 ---

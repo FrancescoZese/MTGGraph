@@ -27,12 +27,9 @@ archetypes:
   izzet-prowess:
     weight: 0.122
     avg_copies: 1.6
-  sultai-artifacts:
-    weight: 0.7
-    avg_copies: 2.86
-  izzet-cori-steel:
-    weight: 0.2
-    avg_copies: 2.5
+  izzet-artifacts:
+    weight: 0.45
+    avg_copies: 2.78
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 4.0

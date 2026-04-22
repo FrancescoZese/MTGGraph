@@ -39,8 +39,8 @@ archetypes:
   esper-blink:
     weight: 0.1
     avg_copies: 4.0
-  sultai-artifacts:
-    weight: 0.1
+  izzet-artifacts:
+    weight: 0.05
     avg_copies: 1.0
   grixis-control:
     weight: 1.0

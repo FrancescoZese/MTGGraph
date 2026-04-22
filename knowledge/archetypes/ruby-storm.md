@@ -9,7 +9,7 @@ top_cards:
 - name: Wrenn's Resolve
   weight: 1.0
   avg_copies: 4.0
-- name: Manamorphose
+- name: Reckless Impulse
   weight: 1.0
   avg_copies: 4.0
 - name: Pyretic Ritual
@@ -18,7 +18,7 @@ top_cards:
 - name: Desperate Ritual
   weight: 1.0
   avg_copies: 4.0
-- name: Reckless Impulse
+- name: Manamorphose
   weight: 1.0
   avg_copies: 4.0
 - name: Ruby Medallion
@@ -39,10 +39,10 @@ top_cards:
 - name: Wish
   weight: 1.0
   avg_copies: 2.07
-- name: Past in Flames
+- name: Valakut Awakening
   weight: 1.0
   avg_copies: 1.96
-- name: Valakut Awakening
+- name: Past in Flames
   weight: 1.0
   avg_copies: 1.96
 - name: Artist's Talent
@@ -129,10 +129,10 @@ top_cards:
 - name: Shattering Spree
   weight: 0.0714
   avg_copies: 1.5
-- name: Alchemist's Gambit
+- name: Phlage, Titan of Fire's Fury
   weight: 0.0714
   avg_copies: 1.0
-- name: Phlage, Titan of Fire's Fury
+- name: Alchemist's Gambit
   weight: 0.0714
   avg_copies: 1.0
 - name: Vexing Bauble
@@ -150,7 +150,7 @@ top_cards:
 - name: Voice of Victory
   weight: 0.0357
   avg_copies: 1.0
-- name: Urabrask
+- name: Pyromancer Ascension
   weight: 0.0357
   avg_copies: 1.0
 - name: Abrade
@@ -159,10 +159,10 @@ top_cards:
 - name: Hexing Squelcher
   weight: 0.0357
   avg_copies: 1.0
-- name: Pyromancer Ascension
+- name: Stomping Ground
   weight: 0.0357
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Urabrask
   weight: 0.0357
   avg_copies: 1.0
 ---

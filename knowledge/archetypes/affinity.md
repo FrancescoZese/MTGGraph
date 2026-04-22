@@ -9,10 +9,10 @@ top_cards:
 - name: Pinnacle Emissary
   weight: 1.0
   avg_copies: 3.96
-- name: Kappa Cannoneer
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 3.94
-- name: Urza's Saga
+- name: Kappa Cannoneer
   weight: 1.0
   avg_copies: 3.94
 - name: Mox Opal
@@ -147,19 +147,19 @@ top_cards:
 - name: Otawara, Soaring City
   weight: 0.0538
   avg_copies: 1.0
-- name: Haywire Mite
-  weight: 0.043
-  avg_copies: 1.0
 - name: Vandalblast
   weight: 0.043
   avg_copies: 1.0
-- name: Springleaf Drum
-  weight: 0.0323
+- name: Haywire Mite
+  weight: 0.043
   avg_copies: 1.0
 - name: Salvage Titan
   weight: 0.0323
   avg_copies: 1.0
 - name: Lavaspur Boots
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Springleaf Drum
   weight: 0.0323
   avg_copies: 1.0
 - name: Snow-Covered Island
@@ -168,40 +168,40 @@ top_cards:
 - name: Furnace Dragon
   weight: 0.0215
   avg_copies: 1.5
-- name: Shattering Spree
-  weight: 0.0108
-  avg_copies: 2.0
 - name: Detect Intrusion
   weight: 0.0108
   avg_copies: 2.0
-- name: Glimmervoid
+- name: Shattering Spree
   weight: 0.0108
   avg_copies: 2.0
 - name: Prismari Charm
   weight: 0.0108
   avg_copies: 2.0
+- name: Glimmervoid
+  weight: 0.0108
+  avg_copies: 2.0
 - name: Polluted Delta
-  weight: 0.0108
-  avg_copies: 1.0
-- name: Ghirapur Aether Grid
-  weight: 0.0108
-  avg_copies: 1.0
-- name: Void Mirror
   weight: 0.0108
   avg_copies: 1.0
 - name: Chandra, Spark Hunter
   weight: 0.0108
   avg_copies: 1.0
-- name: Minamo, School at Water's Edge
+- name: Flooded Strand
   weight: 0.0108
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.0108
   avg_copies: 1.0
+- name: Ghirapur Aether Grid
+  weight: 0.0108
+  avg_copies: 1.0
 - name: Jokulmorder
   weight: 0.0108
   avg_copies: 1.0
-- name: Flooded Strand
+- name: Void Mirror
+  weight: 0.0108
+  avg_copies: 1.0
+- name: Minamo, School at Water's Edge
   weight: 0.0108
   avg_copies: 1.0
 ---

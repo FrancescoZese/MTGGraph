@@ -9,10 +9,7 @@ set: clu
 type: Instant
 meta_presence: 0.01
 archetypes:
-  sultai-artifacts:
+  izzet-artifacts:
     weight: 0.5
-    avg_copies: 1.2
-  izzet-cori-steel:
-    weight: 0.5
-    avg_copies: 1.8
+    avg_copies: 1.5
 ---

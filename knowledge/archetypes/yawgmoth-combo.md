@@ -6,9 +6,6 @@ name: Yawgmoth Combo
 meta_share: 0.011
 list_count: 11
 top_cards:
-- name: Badgermole Cub
-  weight: 1.0
-  avg_copies: 4.0
 - name: Delighted Halfling
   weight: 1.0
   avg_copies: 4.0
@@ -18,19 +15,22 @@ top_cards:
 - name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
+- name: Badgermole Cub
+  weight: 1.0
+  avg_copies: 4.0
 - name: Yawgmoth, Thran Physician
   weight: 1.0
   avg_copies: 3.82
-- name: Young Wolf
-  weight: 1.0
-  avg_copies: 3.64
 - name: Malevolent Rumble
   weight: 1.0
   avg_copies: 3.64
-- name: Green Sun's Zenith
+- name: Young Wolf
+  weight: 1.0
+  avg_copies: 3.64
+- name: Spymaster's Vault
   weight: 1.0
   avg_copies: 3.0
-- name: Spymaster's Vault
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 3.0
 - name: Walking Ballista
@@ -63,22 +63,22 @@ top_cards:
 - name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.09
-- name: Strangleroot Geist
-  weight: 1.0
-  avg_copies: 1.0
 - name: Soulless Jailer
   weight: 1.0
   avg_copies: 1.0
-- name: Grist, the Hunger Tide
-  weight: 1.0
-  avg_copies: 1.0
-- name: Swamp
+- name: Strangleroot Geist
   weight: 1.0
   avg_copies: 1.0
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
+- name: Grist, the Hunger Tide
+  weight: 1.0
+  avg_copies: 1.0
 - name: Endurance
+  weight: 1.0
+  avg_copies: 1.0
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Windswept Heath
@@ -108,10 +108,10 @@ top_cards:
 - name: Scavenging Ooze
   weight: 0.5455
   avg_copies: 1.0
-- name: Pile On
+- name: Damping Sphere
   weight: 0.4545
   avg_copies: 1.0
-- name: Damping Sphere
+- name: Pile On
   weight: 0.4545
   avg_copies: 1.0
 - name: Misty Rainforest
@@ -123,19 +123,19 @@ top_cards:
 - name: Wooded Foothills
   weight: 0.3636
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Hapatra, Vizier of Poisons
   weight: 0.1818
   avg_copies: 1.0
-- name: Hapatra, Vizier of Poisons
+- name: Haywire Mite
   weight: 0.1818
   avg_copies: 1.0
 - name: Kraul Harpooner
   weight: 0.1818
   avg_copies: 1.0
-- name: Assassin's Trophy
+- name: Culling Ritual
   weight: 0.0909
   avg_copies: 1.0
-- name: Culling Ritual
+- name: Assassin's Trophy
   weight: 0.0909
   avg_copies: 1.0
 - name: Murderous Cut

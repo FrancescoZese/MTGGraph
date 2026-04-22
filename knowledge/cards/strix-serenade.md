@@ -42,10 +42,7 @@ archetypes:
   azorius-blink:
     weight: 0.3333
     avg_copies: 1.0
-  sultai-artifacts:
-    weight: 0.9
-    avg_copies: 1.0
-  izzet-cori-steel:
-    weight: 0.3
-    avg_copies: 2.0
+  izzet-artifacts:
+    weight: 0.6
+    avg_copies: 1.18
 ---

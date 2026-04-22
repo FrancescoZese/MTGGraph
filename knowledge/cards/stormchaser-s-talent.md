@@ -12,7 +12,7 @@ archetypes:
   izzet-prowess:
     weight: 0.2683
     avg_copies: 3.82
-  izzet-cori-steel:
-    weight: 0.1
+  izzet-artifacts:
+    weight: 0.05
     avg_copies: 4.0
 ---

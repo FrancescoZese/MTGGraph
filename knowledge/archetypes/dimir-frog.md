@@ -111,10 +111,10 @@ top_cards:
 - name: Graveyard Trespasser
   weight: 0.35
   avg_copies: 1.12
-- name: Strategic Betrayal
+- name: Damping Sphere
   weight: 0.35
   avg_copies: 1.0
-- name: Damping Sphere
+- name: Strategic Betrayal
   weight: 0.35
   avg_copies: 1.0
 - name: Nihil Spellbomb
@@ -147,22 +147,22 @@ top_cards:
 - name: Meticulous Archive
   weight: 0.15
   avg_copies: 1.0
-- name: Mishra's Bauble
+- name: Moonshadow
   weight: 0.1
   avg_copies: 4.0
-- name: Moonshadow
+- name: Mishra's Bauble
   weight: 0.1
   avg_copies: 4.0
 - name: Consult the Star Charts
   weight: 0.1
   avg_copies: 2.0
-- name: Teferi, Time Raveler
+- name: Field of Ruin
   weight: 0.1
   avg_copies: 1.0
 - name: Shoot the Sheriff
   weight: 0.1
   avg_copies: 1.0
-- name: Field of Ruin
+- name: Teferi, Time Raveler
   weight: 0.1
   avg_copies: 1.0
 - name: Consider
@@ -171,40 +171,40 @@ top_cards:
 - name: Dress Down
   weight: 0.05
   avg_copies: 3.0
-- name: Archmage's Charm
+- name: Strix Serenade
   weight: 0.05
   avg_copies: 2.0
 - name: Dauthi Voidwalker
   weight: 0.05
   avg_copies: 2.0
-- name: Thraben Charm
+- name: Archmage's Charm
   weight: 0.05
   avg_copies: 2.0
 - name: Emperor of Bones
   weight: 0.05
   avg_copies: 2.0
-- name: Strix Serenade
+- name: Thraben Charm
   weight: 0.05
   avg_copies: 2.0
 - name: Stony Silence
   weight: 0.05
   avg_copies: 2.0
+- name: Celestial Purge
+  weight: 0.05
+  avg_copies: 1.0
 - name: Vanishing Verse
+  weight: 0.05
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 0.05
+  avg_copies: 1.0
+- name: Prismatic Ending
   weight: 0.05
   avg_copies: 1.0
 - name: Damnation
   weight: 0.05
   avg_copies: 1.0
 - name: High Noon
-  weight: 0.05
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.05
-  avg_copies: 1.0
-- name: Celestial Purge
-  weight: 0.05
-  avg_copies: 1.0
-- name: Prismatic Ending
   weight: 0.05
   avg_copies: 1.0
 - name: Ashiok, Dream Render

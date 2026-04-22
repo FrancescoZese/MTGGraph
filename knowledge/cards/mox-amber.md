@@ -11,10 +11,7 @@ archetypes:
   kethis-combo:
     weight: 1.0
     avg_copies: 4.0
-  sultai-artifacts:
+  izzet-artifacts:
     weight: 1.0
-    avg_copies: 3.0
-  izzet-cori-steel:
-    weight: 1.0
-    avg_copies: 3.9
+    avg_copies: 3.45
 ---

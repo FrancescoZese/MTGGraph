@@ -15,8 +15,8 @@ archetypes:
   eldrazi-ramp:
     weight: 0.1905
     avg_copies: 1.0
-  sultai-artifacts:
-    weight: 0.2
+  izzet-artifacts:
+    weight: 0.1
     avg_copies: 2.0
   scapeshift-combo:
     weight: 0.6667

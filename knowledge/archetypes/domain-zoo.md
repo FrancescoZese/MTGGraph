@@ -9,13 +9,13 @@ name: Domain Zoo
 meta_share: 0.0339
 list_count: 34
 top_cards:
-- name: Territorial Kavu
-  weight: 1.0
-  avg_copies: 4.0
 - name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline of the Guildpact
+  weight: 1.0
+  avg_copies: 4.0
+- name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline Binding
@@ -42,6 +42,9 @@ top_cards:
 - name: Wear
   weight: 1.0
   avg_copies: 1.62
+- name: Godless Shrine
+  weight: 1.0
+  avg_copies: 1.0
 - name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
@@ -49,9 +52,6 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Plains
-  weight: 1.0
-  avg_copies: 1.0
-- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
 - name: Doorkeeper Thrull
@@ -75,10 +75,10 @@ top_cards:
 - name: Arena of Glory
   weight: 0.9706
   avg_copies: 1.91
-- name: Mountain
+- name: Thundering Falls
   weight: 0.9118
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Mountain
   weight: 0.9118
   avg_copies: 1.0
 - name: Damping Sphere
@@ -114,10 +114,10 @@ top_cards:
 - name: The Legend of Roku
   weight: 0.1765
   avg_copies: 1.14
-- name: High Noon
+- name: Pyroclasm
   weight: 0.1471
   avg_copies: 1.0
-- name: Pyroclasm
+- name: High Noon
   weight: 0.1471
   avg_copies: 1.0
 - name: Strix Serenade
@@ -129,28 +129,28 @@ top_cards:
 - name: Celestial Purge
   weight: 0.0882
   avg_copies: 1.0
-- name: Fable of the Mirror-Breaker
-  weight: 0.0588
-  avg_copies: 1.0
 - name: Does Machines
   weight: 0.0588
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.0588
   avg_copies: 1.0
+- name: Fable of the Mirror-Breaker
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Persist
+  weight: 0.0294
+  avg_copies: 4.0
+- name: Psychic Frog
+  weight: 0.0294
+  avg_copies: 4.0
 - name: Aurora Awakener
   weight: 0.0294
   avg_copies: 4.0
 - name: Archon of Cruelty
   weight: 0.0294
   avg_copies: 4.0
-- name: Persist
-  weight: 0.0294
-  avg_copies: 4.0
 - name: Faithless Looting
-  weight: 0.0294
-  avg_copies: 4.0
-- name: Psychic Frog
   weight: 0.0294
   avg_copies: 4.0
 - name: Summoning Trap
@@ -159,28 +159,28 @@ top_cards:
 - name: Drannith Magistrate
   weight: 0.0294
   avg_copies: 2.0
-- name: Raucous Theater
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Orcish Bowmasters
-  weight: 0.0294
-  avg_copies: 1.0
 - name: Glasspool Mimic
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Raucous Theater
   weight: 0.0294
   avg_copies: 1.0
 - name: Quantum Riddler
   weight: 0.0294
   avg_copies: 1.0
-- name: Meltdown
+- name: Blood Crypt
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Orcish Bowmasters
   weight: 0.0294
   avg_copies: 1.0
 - name: Vexing Bauble
   weight: 0.0294
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Breeding Pool
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Meltdown
   weight: 0.0294
   avg_copies: 1.0
 ---

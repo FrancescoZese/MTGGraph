@@ -9,7 +9,7 @@ set: soi
 type: Instant
 meta_presence: 0.001
 archetypes:
-  izzet-cori-steel:
-    weight: 0.1
+  izzet-artifacts:
+    weight: 0.05
     avg_copies: 2.0
 ---

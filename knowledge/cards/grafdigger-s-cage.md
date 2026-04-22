@@ -35,8 +35,8 @@ archetypes:
   orzhov-blink:
     weight: 0.75
     avg_copies: 1.0
-  sultai-artifacts:
-    weight: 0.2
+  izzet-artifacts:
+    weight: 0.1
     avg_copies: 1.0
   rakdos-lantern-combo:
     weight: 1.0

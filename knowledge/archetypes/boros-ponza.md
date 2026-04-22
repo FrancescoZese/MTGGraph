@@ -6,10 +6,10 @@ name: Boros Ponza
 meta_share: 0.017
 list_count: 17
 top_cards:
-- name: Path to Exile
+- name: Price of Freedom
   weight: 1.0
   avg_copies: 4.0
-- name: Price of Freedom
+- name: Path to Exile
   weight: 1.0
   avg_copies: 4.0
 - name: Demolition Field
@@ -96,10 +96,10 @@ top_cards:
 - name: March of Otherworldly Light
   weight: 0.1765
   avg_copies: 1.67
-- name: Sunbaked Canyon
+- name: Surgical Extraction
   weight: 0.1765
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Sunbaked Canyon
   weight: 0.1765
   avg_copies: 1.0
 - name: Soul-Guide Lantern

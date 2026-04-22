@@ -8,10 +8,10 @@ name: Living End
 meta_share: 0.019
 list_count: 19
 top_cards:
-- name: Endurance
+- name: Shardless Agent
   weight: 1.0
   avg_copies: 4.0
-- name: Shardless Agent
+- name: Endurance
   weight: 1.0
   avg_copies: 4.0
 - name: Force of Negation
@@ -92,10 +92,10 @@ top_cards:
 - name: Overgrown Tomb
   weight: 0.5789
   avg_copies: 1.09
-- name: Undercity Sewers
+- name: Halo Forager
   weight: 0.5789
   avg_copies: 1.0
-- name: Halo Forager
+- name: Undercity Sewers
   weight: 0.5789
   avg_copies: 1.0
 - name: Deceit
@@ -110,13 +110,13 @@ top_cards:
 - name: Force of Vigor
   weight: 0.4737
   avg_copies: 2.33
-- name: Commandeer
-  weight: 0.4737
-  avg_copies: 1.0
 - name: Mai, Scornful Striker
   weight: 0.4737
   avg_copies: 1.0
 - name: Harvester of Misery
+  weight: 0.4737
+  avg_copies: 1.0
+- name: Commandeer
   weight: 0.4737
   avg_copies: 1.0
 - name: Ardent Plea
@@ -131,16 +131,16 @@ top_cards:
 - name: Troll of Khazad-dûm
   weight: 0.4211
   avg_copies: 1.62
-- name: Disciple of Freyalise
-  weight: 0.4211
-  avg_copies: 1.0
 - name: Temple Garden
   weight: 0.4211
   avg_copies: 1.0
-- name: Lush Portico
+- name: Disciple of Freyalise
   weight: 0.4211
   avg_copies: 1.0
 - name: Boseiju, Who Endures
+  weight: 0.4211
+  avg_copies: 1.0
+- name: Lush Portico
   weight: 0.4211
   avg_copies: 1.0
 - name: Clarion Conqueror
@@ -170,10 +170,10 @@ top_cards:
 - name: Deafening Silence
   weight: 0.2105
   avg_copies: 1.0
-- name: Archon of Cruelty
+- name: Harbinger of the Seas
   weight: 0.1579
   avg_copies: 1.0
-- name: Harbinger of the Seas
+- name: Archon of Cruelty
   weight: 0.1579
   avg_copies: 1.0
 - name: Fracturing Gust
@@ -188,19 +188,19 @@ top_cards:
 - name: Rough
   weight: 0.0526
   avg_copies: 4.0
-- name: Atraxa, Grand Unifier
-  weight: 0.0526
-  avg_copies: 3.0
 - name: Oliphaunt
   weight: 0.0526
   avg_copies: 3.0
+- name: Atraxa, Grand Unifier
+  weight: 0.0526
+  avg_copies: 3.0
+- name: Titanoth Rex
+  weight: 0.0526
+  avg_copies: 2.0
 - name: Flooded Strand
   weight: 0.0526
   avg_copies: 2.0
 - name: Verdant Catacombs
-  weight: 0.0526
-  avg_copies: 2.0
-- name: Titanoth Rex
   weight: 0.0526
   avg_copies: 2.0
 - name: Steam Vents
@@ -212,9 +212,6 @@ top_cards:
 - name: Sunken Ruins
   weight: 0.0526
   avg_copies: 1.0
-- name: Murderous Cut
-  weight: 0.0526
-  avg_copies: 1.0
 - name: Press the Enemy
   weight: 0.0526
   avg_copies: 1.0
@@ -222,6 +219,9 @@ top_cards:
   weight: 0.0526
   avg_copies: 1.0
 - name: Windcaller Aven
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Murderous Cut
   weight: 0.0526
   avg_copies: 1.0
 ---

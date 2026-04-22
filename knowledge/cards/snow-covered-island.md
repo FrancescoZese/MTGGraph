@@ -26,7 +26,7 @@ archetypes:
   simic-ritual:
     weight: 1.0
     avg_copies: 1.92
-  sultai-artifacts:
-    weight: 0.1
+  izzet-artifacts:
+    weight: 0.05
     avg_copies: 1.0
 ---

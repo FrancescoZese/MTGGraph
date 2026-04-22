@@ -33,8 +33,8 @@ archetypes:
   broodscale-combo:
     weight: 1.0
     avg_copies: 4.0
-  sultai-artifacts:
-    weight: 0.2
+  izzet-artifacts:
+    weight: 0.1
     avg_copies: 4.0
   scapeshift-combo:
     weight: 1.0

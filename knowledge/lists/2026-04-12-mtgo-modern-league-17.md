@@ -1,5 +1,5 @@
 ---
-archetype: sultai-artifacts
+archetype: izzet-artifacts
 date: '2026-04-12'
 finish: 5-0
 pilot: NuBlkAu

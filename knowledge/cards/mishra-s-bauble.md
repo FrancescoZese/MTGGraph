@@ -26,10 +26,7 @@ archetypes:
   izzet-prowess:
     weight: 1.0
     avg_copies: 3.98
-  sultai-artifacts:
-    weight: 1.0
-    avg_copies: 4.0
-  izzet-cori-steel:
+  izzet-artifacts:
     weight: 1.0
     avg_copies: 4.0
   grixis-shadow:

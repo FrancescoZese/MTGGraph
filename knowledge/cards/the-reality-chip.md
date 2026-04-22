@@ -9,7 +9,7 @@ set: neo
 type: Legendary Artifact Creature — Equipment Jellyfish
 meta_presence: 0.001
 archetypes:
-  sultai-artifacts:
-    weight: 0.1
+  izzet-artifacts:
+    weight: 0.05
     avg_copies: 2.0
 ---

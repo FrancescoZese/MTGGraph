@@ -53,12 +53,9 @@ archetypes:
   dredge:
     weight: 1.0
     avg_copies: 3.67
-  sultai-artifacts:
-    weight: 0.9
-    avg_copies: 3.67
-  izzet-cori-steel:
-    weight: 0.2
-    avg_copies: 4.0
+  izzet-artifacts:
+    weight: 0.55
+    avg_copies: 3.73
   grixis-control:
     weight: 1.0
     avg_copies: 3.0

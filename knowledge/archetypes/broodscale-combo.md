@@ -6,22 +6,22 @@ name: Broodscale Combo
 meta_share: 0.018
 list_count: 18
 top_cards:
-- name: Kozilek's Command
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
 - name: Grove of the Burnwillows
+  weight: 1.0
+  avg_copies: 4.0
+- name: Basking Broodscale
+  weight: 1.0
+  avg_copies: 4.0
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
-  weight: 1.0
-  avg_copies: 4.0
-- name: Malevolent Rumble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Basking Broodscale
   weight: 1.0
   avg_copies: 4.0
 - name: Glaring Fleshraker
@@ -63,10 +63,10 @@ top_cards:
 - name: Gemstone Caverns
   weight: 0.8889
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Pithing Needle
   weight: 0.8333
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Grafdigger's Cage
   weight: 0.8333
   avg_copies: 1.0
 - name: Cavern of Souls
@@ -75,10 +75,10 @@ top_cards:
 - name: Dismember
   weight: 0.6667
   avg_copies: 1.77
-- name: Nature's Claim
+- name: Damping Sphere
   weight: 0.5556
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Nature's Claim
   weight: 0.5556
   avg_copies: 2.0
 - name: Unholy Heat
@@ -111,10 +111,10 @@ top_cards:
 - name: Firespout
   weight: 0.3889
   avg_copies: 1.71
-- name: Windswept Heath
+- name: Verdant Catacombs
   weight: 0.3889
   avg_copies: 1.0
-- name: Verdant Catacombs
+- name: Windswept Heath
   weight: 0.3889
   avg_copies: 1.0
 - name: Sowing Mycospawn
