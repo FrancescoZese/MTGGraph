@@ -1192,7 +1192,7 @@ function openVariantsOverlay(name, lists, colors, medoidIndex, clusterThreshold)
     const midx = medoidIndex || 0;
     const thresh = clusterThreshold || 3;
     // Double rAF: ensures overlay is painted before heavy computation starts
-    requestAnimationFrame(() => requestAnimationFrame(() => renderVariantsChart(lists, colors || [], midx, thresh)));
+    requestAnimationFrame(() => requestAnimationFrame(() => renderVariantsChart(name, lists, colors || [], midx, thresh)));
 }
 
 function closeVariantsSidebar() {
@@ -1221,12 +1221,13 @@ function closeVariantsOverlay() {
     });
 }
 
-function renderVariantsChart(lists, colors, medoidIndex, clusterThreshold) {
+function renderVariantsChart(archName, lists, colors, medoidIndex, clusterThreshold) {
     const chartContainer = document.getElementById("variants-chart");
     if (!chartContainer || lists.length < 3) return;
 
     const medoid = lists[medoidIndex] || lists[0];
     const medoidMain = medoid.mainboard;
+    const medoidSpells = spellsOnly(medoidMain);
     const clColors = colors.length > 0 ? colors : [];
     const strokeW = 3;
 
@@ -1428,6 +1429,31 @@ function renderVariantsChart(lists, colors, medoidIndex, clusterThreshold) {
         .on("mouseout", hideTip)
         .on("click", (event, d) => {
             event.stopPropagation();
+
+            // Find connected card ids
+            const connectedCards = new Set();
+            linkData.forEach(l => {
+                const tgt = typeof l.target === "object" ? l.target : l.target;
+                if (tgt === d || tgt.id === d.id) connectedCards.add(typeof l.source === "object" ? l.source.id : l.source);
+            });
+
+            // Dim everything
+            cardSel.attr("opacity", 0.1);
+            archSel.attr("opacity", 0.15);
+            linkSel.attr("stroke-opacity", 0.03);
+
+            // Highlight this cluster
+            archSel.filter(v => v.id === d.id).attr("opacity", 1);
+
+            // Highlight connected cards
+            cardSel.filter(c => connectedCards.has(c.id)).attr("opacity", 1);
+
+            // Highlight connected links
+            linkSel.filter(l => {
+                const tgt = typeof l.target === "object" ? l.target : l.target;
+                return tgt === d || tgt.id === d.id;
+            }).attr("stroke-opacity", 0.4).attr("stroke-width", 1.5);
+
             showClusterDetail(d.cluster, medoid);
         });
 
@@ -1453,6 +1479,113 @@ function renderVariantsChart(lists, colors, medoidIndex, clusterThreshold) {
         .on("end", (e, d) => { if (!e.active) sim.alphaTarget(0); if (!d.cluster || !d.cluster.isReference) { d.fx = null; d.fy = null; } });
     cardSel.call(drag);
     archSel.call(drag);
+
+    // ── 8. Nearby archetype nodes (satellites in the simulation) ──
+    if (allData) {
+        const nearbyArchs = [];
+        const otherArchs = allData.nodes.filter(n =>
+            n.type === "archetype" && n.name !== archName && n.lists && n.lists.length >= 3
+        );
+        for (const arch of otherArchs) {
+            const otherMedoid = arch.lists[arch.medoid_index || 0];
+            if (!otherMedoid) continue;
+            const dist = deckDistance(spellsOnly(otherMedoid.mainboard), medoidSpells);
+            if (dist < 25) {
+                nearbyArchs.push({ name: arch.name, colors: arch.colors || [], distance: Math.round(dist), arch });
+            }
+        }
+        nearbyArchs.sort((a, b) => a.distance - b.distance);
+
+        if (nearbyArchs.length > 0) {
+            const edgeR = Math.min(w, h) / 2 - 30;
+            const nSize = 16, nStrokeW = 2.5;
+            const angleStep = (2 * Math.PI) / nearbyArchs.length;
+
+            // Create simulation nodes for satellites
+            const satNodes = nearbyArchs.map((na, i) => {
+                const angle = i * angleStep - Math.PI / 2;
+                return {
+                    na, index: i,
+                    x: cx + Math.cos(angle) * edgeR,
+                    y: cy + Math.sin(angle) * edgeR,
+                };
+            });
+
+            // Render satellite visuals
+            const satG = g.append("g");
+            const satEls = satNodes.map(nd => {
+                const ng = satG.append("g").attr("opacity", 0.9).attr("cursor", "pointer");
+                const nColors = nd.na.colors;
+
+                ng.append("circle").attr("r", nSize + 6).attr("fill", "transparent");
+                ng.append("circle").attr("r", nSize).attr("fill", "var(--bg)");
+
+                if (nColors.length === 0) {
+                    ng.append("circle").attr("r", nSize)
+                        .attr("fill", "none").attr("stroke", "#a09888")
+                        .attr("stroke-width", nStrokeW);
+                } else if (nColors.length === 1) {
+                    ng.append("circle").attr("r", nSize)
+                        .attr("fill", "none").attr("stroke", MANA_HEX[nColors[0]] || "#a09888")
+                        .attr("stroke-width", nStrokeW);
+                } else {
+                    const segAngle = (2 * Math.PI) / nColors.length, gap = 0.12;
+                    nColors.forEach((c, ci) => {
+                        const sA = ci * segAngle - Math.PI / 2 + gap / 2;
+                        const eA = (ci + 1) * segAngle - Math.PI / 2 - gap / 2;
+                        const largeArc = segAngle - gap > Math.PI ? 1 : 0;
+                        ng.append("path")
+                            .attr("d", `M ${Math.cos(sA)*nSize} ${Math.sin(sA)*nSize} A ${nSize} ${nSize} 0 ${largeArc} 1 ${Math.cos(eA)*nSize} ${Math.sin(eA)*nSize}`)
+                            .attr("fill", "none").attr("stroke", MANA_HEX[c] || "#a09888")
+                            .attr("stroke-width", nStrokeW).attr("stroke-linecap", "round");
+                    });
+                }
+
+                ng.append("text")
+                    .attr("y", nSize + 13).attr("text-anchor", "middle")
+                    .attr("font-family", "'Instrument Serif', Georgia, serif").attr("font-size", 10)
+                    .attr("fill", "var(--ink-faint)").attr("pointer-events", "none")
+                    .text(nd.na.name);
+                ng.append("text")
+                    .attr("y", nSize + 24).attr("text-anchor", "middle")
+                    .attr("font-family", "var(--font-mono)").attr("font-size", 8)
+                    .attr("fill", "var(--ink-faint)").attr("pointer-events", "none")
+                    .text("\u0394" + nd.na.distance);
+
+                ng.on("mouseover", () => {
+                    tooltip.innerHTML = `<div class="tt-name">${nd.na.name}</div><div class="tt-stat">\u0394${nd.na.distance} cards &middot; ${nd.na.arch.list_count} lists</div>`;
+                    showTip();
+                }).on("mousemove", moveTip).on("mouseout", hideTip);
+
+                ng.on("click", (event) => {
+                    event.stopPropagation();
+                    const a = nd.na.arch;
+                    openVariantsOverlay(a.name, a.lists, a.colors, a.medoid_index, a.cluster_threshold);
+                });
+
+                return ng;
+            });
+
+            // Floating animation — each satellite drifts independently
+            satNodes.forEach((nd, i) => {
+                satEls[i].attr("transform", `translate(${nd.x},${nd.y})`);
+                // Continuous random float with GSAP
+                function drift() {
+                    const dx = (Math.random() - 0.5) * 80;
+                    const dy = (Math.random() - 0.5) * 80;
+                    const dur = 4 + Math.random() * 5;
+                    gsap.to(nd, {
+                        x: nd.x + dx, y: nd.y + dy, duration: dur,
+                        ease: "sine.inOut",
+                        onUpdate: () => satEls[i].attr("transform", `translate(${nd.x},${nd.y})`),
+                        onComplete: drift,
+                    });
+                }
+                // Stagger start
+                gsap.delayedCall(Math.random() * 2, drift);
+            });
+        }
+    }
 }
 
 let clusterDeckIdx = 1000;
