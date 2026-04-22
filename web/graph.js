@@ -124,6 +124,7 @@ function applyAllFilters(skipAnimation) {
     updateStats(filtered);
     updateMetaSidebar(lastFilteredData);
     updateCardsSidebar(lastFilteredData);
+    updatePlayersSidebar(lastFilteredData);
     renderGraph(filtered, skipAnimation);
 }
 
@@ -229,24 +230,59 @@ function updateCardsSidebar(data) {
     });
 }
 
+function updatePlayersSidebar(data) {
+    // Count lists per pilot across all archetypes
+    const pilotCounts = {};
+    const pilotArchs = {}; // pilot -> {arch: count}
+    for (const node of data.nodes) {
+        if (node.type !== "archetype" || !node.lists) continue;
+        for (const list of node.lists) {
+            const pilot = list.pilot || "Unknown";
+            pilotCounts[pilot] = (pilotCounts[pilot] || 0) + 1;
+            if (!pilotArchs[pilot]) pilotArchs[pilot] = {};
+            const archName = node.name;
+            pilotArchs[pilot][archName] = (pilotArchs[pilot][archName] || 0) + 1;
+        }
+    }
+
+    const players = Object.entries(pilotCounts)
+        .map(([name, count]) => ({ name, count, archs: pilotArchs[name] }))
+        .sort((a, b) => b.count - a.count);
+
+    const maxCount = players.length > 0 ? players[0].count : 1;
+    const container = document.getElementById("meta-sidebar-players");
+
+    let html = "";
+    for (const player of players) {
+        const barScale = (player.count / maxCount).toFixed(4);
+        html += `<div class="meta-row" data-player="${player.name}">`;
+        html += `<div class="meta-row-bar" data-scale="${barScale}"></div>`;
+        html += `<span class="meta-row-name">${player.name}</span>`;
+        html += `<span class="meta-row-pct">${player.count}</span>`;
+        html += `</div>`;
+    }
+    container.innerHTML = html;
+
+    animateBars(container.querySelectorAll(".meta-row-bar"));
+}
+
 /* ── Sidebar tab switching ── */
 
 function initSidebarTabs() {
+    const panels = {
+        archetypes: document.getElementById("meta-sidebar-list"),
+        cards: document.getElementById("meta-sidebar-cards"),
+        players: document.getElementById("meta-sidebar-players"),
+    };
+
     document.querySelectorAll(".meta-sidebar-tab").forEach(tab => {
         tab.addEventListener("click", () => {
             document.querySelectorAll(".meta-sidebar-tab").forEach(t => t.classList.remove("active"));
             tab.classList.add("active");
 
             const target = tab.dataset.tab;
-            const archList = document.getElementById("meta-sidebar-list");
-            const cardList = document.getElementById("meta-sidebar-cards");
-
-            if (target === "archetypes") {
-                archList.classList.remove("hidden");
-                cardList.classList.add("hidden");
-            } else {
-                archList.classList.add("hidden");
-                cardList.classList.remove("hidden");
+            for (const [key, el] of Object.entries(panels)) {
+                el.classList.toggle("hidden", key !== target);
             }
         });
     });

@@ -185,8 +185,15 @@ body {
     gap: 1px;
 }
 
+#meta-sidebar-players {
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+}
+
 #meta-sidebar-list.hidden,
-#meta-sidebar-cards.hidden { display: none; }
+#meta-sidebar-cards.hidden,
+#meta-sidebar-players.hidden { display: none; }
 
 .meta-row {
     position: relative;
