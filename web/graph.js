@@ -14,6 +14,7 @@ let cardColorMap = {}; // card name -> colors array
 let currentCardSel, currentArchSel, currentLinkSel, currentValidEdges, currentNodeMap;
 let isHighlighted = false;
 let metaThreshold = 0.01; // 1% default — derived from thresholdIndex
+let rogueMode = false;
 let thresholdIndex = -1; // -1 = not yet initialized, set on first sidebar build
 let sidebarArchs = []; // cached sorted archetype list for index<->threshold mapping
 let lastFilteredData = null; // cache for sidebar rebuild without full refilter
@@ -103,7 +104,8 @@ function applyAllFilters(skipAnimation) {
     // Filter by meta threshold + remove empty archetypes
     const activeArchIds = new Set(
         filtered.nodes
-            .filter(n => n.type === "archetype" && n.list_count > 0 && n.meta_share >= minMeta)
+            .filter(n => n.type === "archetype" && n.list_count > 0 &&
+                (rogueMode ? n.meta_share < 0.01 : n.meta_share >= minMeta))
             .map(n => n.id)
     );
     const activeCardIds = new Set();
@@ -150,9 +152,7 @@ function updateMetaSidebar(data) {
         const arch = sidebarArchs[i];
         const pct = (arch.meta_share * 100).toFixed(1);
         const barScale = (arch.meta_share / maxShare).toFixed(4);
-        const dimmed = i >= thresholdIndex;
-
-        if (i === thresholdIndex) html += buildThresholdLineHTML();
+        const dimmed = rogueMode ? (arch.meta_share >= 0.01) : (i >= thresholdIndex);
 
         html += `<div class="meta-row${dimmed ? " dimmed" : ""}" data-arch-id="${arch.id}" data-row-index="${i}">`;
         html += `<div class="meta-row-bar" data-scale="${barScale}"></div>`;
@@ -160,13 +160,9 @@ function updateMetaSidebar(data) {
         html += `<span class="meta-row-pct">${pct}%</span>`;
         html += `</div>`;
     }
-    // If threshold is at the end (show all), line goes at bottom
-    if (thresholdIndex >= sidebarArchs.length) html += buildThresholdLineHTML();
-
     container.innerHTML = html;
 
     animateBars(container.querySelectorAll(".meta-row-bar"));
-    initThresholdDrag(container);
     buildMobileFilterChips();
 
     container.querySelectorAll(".meta-row").forEach(row => {
@@ -299,30 +295,41 @@ function buildMobileFilterChips() {
     const container = document.getElementById("mobile-filter-chips");
     if (!container || !sidebarArchs.length) return;
 
+    const idx1 = sidebarArchs.findIndex(a => a.meta_share < 0.01);
+    const idxRogue = sidebarArchs.findIndex(a => a.meta_share < 0.01);
+
     const presets = [
         { label: "All", index: sidebarArchs.length },
         { label: "Top 10", index: Math.min(10, sidebarArchs.length) },
         { label: "Top 20", index: Math.min(20, sidebarArchs.length) },
     ];
-    // Add a % preset if there are enough archetypes
-    if (sidebarArchs.length > 20) {
-        const idx3 = sidebarArchs.findIndex(a => a.meta_share < 0.03);
-        if (idx3 > 0 && idx3 < sidebarArchs.length) {
-            presets.push({ label: "> 3%", index: idx3 });
-        }
+    if (idx1 > 0 && idx1 < sidebarArchs.length) {
+        presets.push({ label: "> 1%", index: idx1 });
+    }
+    if (idxRogue > 0 && idxRogue < sidebarArchs.length) {
+        presets.push({ label: "Rogue", index: idxRogue, rogue: true });
     }
 
     container.innerHTML = presets.map(p =>
-        `<button class="filter-chip${p.index === thresholdIndex ? " active" : ""}" data-idx="${p.index}">${p.label}</button>`
+        `<button class="filter-chip${!rogueMode && p.index === thresholdIndex && !p.rogue ? " active" : ""}${rogueMode && p.rogue ? " active" : ""}" data-idx="${p.index}" ${p.rogue ? 'data-rogue="1"' : ""}>${p.label}</button>`
     ).join("");
 
     container.querySelectorAll(".filter-chip").forEach(chip => {
         chip.addEventListener("click", () => {
+            const isRogue = chip.dataset.rogue === "1";
             const idx = parseInt(chip.dataset.idx);
-            thresholdIndex = idx;
-            metaThreshold = idx >= sidebarArchs.length
-                ? 0
-                : sidebarArchs[idx].meta_share + 0.0001;
+
+            if (isRogue) {
+                rogueMode = true;
+                metaThreshold = 0;
+                thresholdIndex = sidebarArchs.length;
+            } else {
+                rogueMode = false;
+                thresholdIndex = idx;
+                metaThreshold = idx >= sidebarArchs.length
+                    ? 0
+                    : sidebarArchs[idx].meta_share + 0.0001;
+            }
 
             // Update active chip
             container.querySelectorAll(".filter-chip").forEach(c => c.classList.remove("active"));
@@ -330,7 +337,12 @@ function buildMobileFilterChips() {
 
             // Update dimming in sidebar list
             document.querySelectorAll("#meta-sidebar-list .meta-row").forEach(row => {
-                row.classList.toggle("dimmed", parseInt(row.dataset.rowIndex) >= thresholdIndex);
+                const ri = parseInt(row.dataset.rowIndex);
+                if (isRogue) {
+                    row.classList.toggle("dimmed", ri < idx);
+                } else {
+                    row.classList.toggle("dimmed", ri >= thresholdIndex);
+                }
             });
 
             applyAllFilters(true);

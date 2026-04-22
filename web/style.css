@@ -876,11 +876,35 @@ body {
     display: none;
 }
 
-/* ---- Mobile filter chips ---- */
+/* ---- Filter chips ---- */
 
 .mobile-filter-chips {
-    display: none;
+    display: flex;
+    gap: 6px;
+    padding: 0 0 10px;
+    flex-wrap: wrap;
 }
+
+.filter-chip {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    font-weight: 500;
+    padding: 5px 10px;
+    border-radius: 14px;
+    border: 1px solid var(--border);
+    background: transparent;
+    color: var(--ink-light);
+    cursor: pointer;
+    transition: background .15s, color .15s, border-color .15s;
+}
+
+.filter-chip.active {
+    background: var(--accent);
+    color: var(--panel-bg);
+    border-color: var(--accent);
+}
+
+.meta-threshold-line { display: none; }
 
 /* ---- Mobile ---- */
 
@@ -977,34 +1001,8 @@ body {
     }
 
     /* Hide drag threshold on mobile — use chips instead */
-    .meta-threshold-line { display: none; }
-
-    /* Filter chips in sidebar header */
-    .mobile-filter-chips {
-        display: flex;
-        gap: 6px;
-        padding: 0 0 10px;
-        flex-wrap: wrap;
-    }
-
     .filter-chip {
-        font-family: var(--font-mono);
-        font-size: 10px;
-        font-weight: 500;
-        padding: 5px 10px;
-        border-radius: 14px;
-        border: 1px solid var(--border);
-        background: transparent;
-        color: var(--ink-light);
-        cursor: pointer;
         -webkit-tap-highlight-color: transparent;
-        transition: background .15s, color .15s, border-color .15s;
-    }
-
-    .filter-chip.active {
-        background: var(--accent);
-        color: var(--panel-bg);
-        border-color: var(--accent);
     }
 
     /* Detail panel as bottom half-sheet */
