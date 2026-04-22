@@ -11,9 +11,10 @@ top_cards:
 - name: Windswept Heath
   weight: 1.0
   avg_copies: 4.0
-- name: Vines of Vastwood
+- name: Noble Hierarch
   weight: 1.0
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Old-Growth Troll
   weight: 1.0
   avg_copies: 4.0
@@ -27,14 +28,30 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Force of Vigor
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ignoble Hierarch
+=======
+- name: Steel Leaf Champion
   weight: 1.0
   avg_copies: 4.0
 - name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 4.0
+- name: Vines of Vastwood
+  weight: 1.0
+  avg_copies: 4.0
+- name: Old-Growth Troll
+  weight: 1.0
+  avg_copies: 4.0
+- name: Wooded Foothills
+>>>>>>> Stashed changes
+  weight: 1.0
+  avg_copies: 4.0
+- name: Force of Vigor
+  weight: 1.0
+  avg_copies: 4.0
+- name: Green Sun's Zenith
+  weight: 1.0
+  avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Steel Leaf Champion
   weight: 1.0
   avg_copies: 4.0
@@ -42,20 +59,30 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Keen-Eyed Curator
+=======
+- name: Frenzied Baloth
   weight: 1.0
   avg_copies: 4.0
-- name: Bridgeworks Battle
+- name: Illness in the Ranks
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ignoble Hierarch
+>>>>>>> Stashed changes
+  weight: 1.0
+  avg_copies: 4.0
+- name: Damping Sphere
   weight: 1.0
   avg_copies: 3.0
 - name: Aspect of Hydra
   weight: 1.0
   avg_copies: 3.0
-- name: Damping Sphere
+- name: Bridgeworks Battle
   weight: 1.0
   avg_copies: 3.0
 - name: Leatherhead, Swamp Stalker
   weight: 1.0
   avg_copies: 1.5
+<<<<<<< Updated upstream
 - name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
@@ -75,12 +102,37 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Underground Mortuary
+=======
+- name: Overgrown Tomb
+  weight: 1.0
+  avg_copies: 1.0
+- name: Ouroboroid
+  weight: 1.0
+  avg_copies: 1.0
+- name: Dryad Arbor
+  weight: 1.0
+  avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 1.0
+  avg_copies: 1.0
+- name: Ba Sing Se
+  weight: 1.0
+  avg_copies: 1.0
+- name: Boseiju, Who Endures
+  weight: 1.0
+  avg_copies: 1.0
+- name: Groundbreaker
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 1.0
 - name: Endurance
   weight: 1.0
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Ouroboroid
+=======
+- name: Underground Mortuary
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 1.0
 ---

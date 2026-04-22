@@ -558,9 +558,13 @@ body {
 /* ---- Variants Trigger (in detail panel) ---- */
 
 .variants-link {
+    display: inline-block;
+    margin-top: 8px;
     color: var(--accent);
     cursor: pointer;
     text-decoration: none;
+    font-family: var(--font-display);
+    font-size: 16px;
     transition: text-decoration .15s;
 }
 

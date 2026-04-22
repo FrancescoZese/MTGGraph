@@ -2,6 +2,7 @@ import json
 from collections import defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
+from statistics import median
 
 import yaml
 
@@ -19,6 +20,7 @@ def compute_graph(knowledge_dir: Path) -> dict:
     cards = _read_all_cards(cards_dir)
     archetypes = _read_all_archetypes(archetypes_dir)
     lists_by_archetype = _read_all_lists(lists_dir)
+    land_names = _get_land_names(cards_dir)
 
     total_lists = sum(len(ls) for ls in lists_by_archetype.values())
 
@@ -133,6 +135,9 @@ def compute_graph(knowledge_dir: Path) -> dict:
         # Sort by date desc, then finish
         lists_meta.sort(key=lambda l: (l["date"], l["finish"]), reverse=True)
 
+        # Compute medoid and adaptive cluster threshold
+        medoid_idx, cluster_threshold = _compute_medoid_and_threshold(lists_meta, land_names)
+
         nodes.append({
             "id": f"archetype:{slug}",
             "type": "archetype",
@@ -142,6 +147,8 @@ def compute_graph(knowledge_dir: Path) -> dict:
             "meta_share": round(arch_meta_share.get(slug, 0), 4),
             "list_count": list_count,
             "lists": lists_meta,
+            "medoid_index": medoid_idx,
+            "cluster_threshold": cluster_threshold,
         })
 
     timeline = _build_timeline(lists_by_archetype)
@@ -164,6 +171,59 @@ def compute_graph(knowledge_dir: Path) -> dict:
         "edges": edges,
         "timeline": timeline,
     }
+
+
+def _deck_distance(a: dict[str, int], b: dict[str, int], land_names: set[str] | None = None) -> int:
+    """Number of non-land card slots that differ between two mainboards."""
+    all_cards = set(a.keys()) | set(b.keys())
+    if land_names:
+        all_cards -= land_names
+    return sum(abs(a.get(c, 0) - b.get(c, 0)) for c in all_cards) // 2
+
+
+def _get_land_names(cards_dir: Path) -> set[str]:
+    """Read card files to find all land card names."""
+    lands = set()
+    for path in cards_dir.glob("*.md"):
+        text = path.read_text()
+        parts = text.split("---", 2)
+        if len(parts) >= 2:
+            fm = yaml.safe_load(parts[1]) or {}
+            if "land" in fm.get("type", "").lower():
+                lands.add(fm.get("name", "").split(" // ")[0])
+    return lands
+
+
+def _compute_medoid_and_threshold(lists_meta: list[dict], land_names: set[str] | None = None) -> tuple[int, int]:
+    """Find the medoid index and adaptive cluster threshold for an archetype.
+
+    Medoid: the list with minimum total distance to all others.
+    Threshold: median pairwise distance / 1.8 (clamped to [2, 10]).
+    """
+    n = len(lists_meta)
+    if n < 2:
+        return 0, 3
+
+    # Compute pairwise distance matrix
+    mainboards = [l["mainboard"] for l in lists_meta]
+    distances = [[0] * n for _ in range(n)]
+    pairwise = []
+    for i in range(n):
+        for j in range(i + 1, n):
+            d = _deck_distance(mainboards[i], mainboards[j], land_names)
+            distances[i][j] = d
+            distances[j][i] = d
+            pairwise.append(d)
+
+    # Medoid: minimize total distance
+    total_dists = [sum(row) for row in distances]
+    medoid_idx = total_dists.index(min(total_dists))
+
+    # Adaptive threshold
+    med = median(pairwise) if pairwise else 3
+    threshold = max(2, min(10, round(med / 1.8)))
+
+    return medoid_idx, threshold
 
 
 def _read_all_cards(cards_dir: Path) -> dict[str, dict]:

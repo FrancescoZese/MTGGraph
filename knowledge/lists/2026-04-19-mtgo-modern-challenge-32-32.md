@@ -1,5 +1,5 @@
 ---
-archetype: eldrazi-ramp
+archetype: neoform-combo
 date: '2026-04-19'
 finish: 16th
 pilot: GriselSram

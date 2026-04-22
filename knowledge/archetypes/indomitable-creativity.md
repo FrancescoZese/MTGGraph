@@ -27,10 +27,10 @@ top_cards:
 - name: Brotherhood's End
   weight: 1.0
   avg_copies: 2.71
-- name: Wooded Foothills
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.57
-- name: Bloodstained Mire
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 2.57
 - name: Scalding Tarn
@@ -42,10 +42,14 @@ top_cards:
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 1.29
-- name: Stomping Ground
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Steam Vents
+=======
+- name: Stomping Ground
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 1.0
 - name: Mountain
@@ -54,10 +58,10 @@ top_cards:
 - name: Leyline Binding
   weight: 0.7143
   avg_copies: 4.0
-- name: Galvanic Discharge
+- name: Consign to Memory
   weight: 0.7143
   avg_copies: 3.8
-- name: Consign to Memory
+- name: Galvanic Discharge
   weight: 0.7143
   avg_copies: 3.8
 - name: Pawpatch Formation
@@ -69,10 +73,10 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.7143
   avg_copies: 2.2
-- name: Teferi, Time Raveler
+- name: Mystical Dispute
   weight: 0.7143
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Teferi, Time Raveler
   weight: 0.7143
   avg_copies: 2.0
 - name: Spell Snare
@@ -81,12 +85,17 @@ top_cards:
 - name: Lightning Bolt
   weight: 0.7143
   avg_copies: 1.4
+<<<<<<< Updated upstream
+- name: Jetmir's Garden
+=======
+- name: Xander's Lounge
+>>>>>>> Stashed changes
+  weight: 0.7143
+  avg_copies: 1.0
 - name: Jetmir's Garden
   weight: 0.7143
   avg_copies: 1.0
-- name: Elegant Parlor
-  weight: 0.7143
-  avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Sacred Foundry
   weight: 0.7143
   avg_copies: 1.0
@@ -94,6 +103,15 @@ top_cards:
   weight: 0.7143
   avg_copies: 1.0
 - name: Raph & Mikey, Troublemakers
+=======
+- name: Raph & Mikey, Troublemakers
+  weight: 0.7143
+  avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 0.7143
+  avg_copies: 1.0
+- name: Elegant Parlor
+>>>>>>> Stashed changes
   weight: 0.7143
   avg_copies: 1.0
 - name: Thundering Falls
@@ -108,28 +126,39 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.4286
   avg_copies: 1.67
+- name: Elesh Norn, Grand Cenobite
+  weight: 0.4286
+  avg_copies: 1.0
 - name: Valgavoth, Terror Eater
   weight: 0.4286
   avg_copies: 1.0
 - name: Boseiju, Who Endures
   weight: 0.4286
   avg_copies: 1.0
-- name: Elesh Norn, Grand Cenobite
-  weight: 0.4286
-  avg_copies: 1.0
 - name: Fatal Push
   weight: 0.2857
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Leyline of the Void
   weight: 0.2857
   avg_copies: 4.0
 - name: Thoughtseize
+=======
+- name: Persist
+>>>>>>> Stashed changes
   weight: 0.2857
   avg_copies: 4.0
 - name: Faithless Looting
   weight: 0.2857
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Persist
+=======
+- name: Faithless Looting
+  weight: 0.2857
+  avg_copies: 4.0
+- name: Fatal Push
+>>>>>>> Stashed changes
   weight: 0.2857
   avg_copies: 4.0
 - name: Orim's Chant
@@ -147,7 +176,11 @@ top_cards:
 - name: Abrupt Decay
   weight: 0.2857
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Iona, Shield of Emeria
+=======
+- name: Prismari Command
+>>>>>>> Stashed changes
   weight: 0.2857
   avg_copies: 1.0
 - name: Ziatora's Proving Ground
@@ -159,28 +192,32 @@ top_cards:
 - name: Ketria Triome
   weight: 0.2857
   avg_copies: 1.0
-- name: Prismari Command
+- name: Ketria Triome
   weight: 0.2857
   avg_copies: 1.0
 - name: Planar Genesis
   weight: 0.1429
   avg_copies: 2.0
-- name: Elesh Norn, Mother of Machines
+- name: Valakut Awakening
   weight: 0.1429
   avg_copies: 1.0
 - name: Brainsurge
   weight: 0.1429
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Emrakul, the Aeons Torn
+=======
+- name: Veil of Summer
+>>>>>>> Stashed changes
   weight: 0.1429
   avg_copies: 1.0
-- name: Valakut Awakening
+- name: Emrakul, the Aeons Torn
   weight: 0.1429
   avg_copies: 1.0
 - name: Rest in Peace
   weight: 0.1429
   avg_copies: 1.0
-- name: Veil of Summer
+- name: Elesh Norn, Mother of Machines
   weight: 0.1429
   avg_copies: 1.0
 ---

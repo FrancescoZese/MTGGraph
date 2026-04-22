@@ -114,10 +114,10 @@ top_cards:
 - name: Thundering Falls
   weight: 0.1818
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Mountain
   weight: 0.1818
   avg_copies: 1.0
-- name: Mountain
+- name: Otawara, Soaring City
   weight: 0.1818
   avg_copies: 1.0
 - name: Dragon's Rage Channeler
@@ -132,46 +132,68 @@ top_cards:
 - name: Expressive Iteration
   weight: 0.0909
   avg_copies: 4.0
-- name: Experimental Synthesizer
+- name: Unholy Heat
   weight: 0.0909
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Meltdown
-  weight: 0.0909
-  avg_copies: 3.0
-- name: Vivi Ornitier
   weight: 0.0909
   avg_copies: 3.0
 - name: Surgical Extraction
   weight: 0.0909
   avg_copies: 3.0
+- name: Vivi Ornitier
+  weight: 0.0909
+  avg_copies: 3.0
+- name: Experimental Synthesizer
+  weight: 0.0909
+  avg_copies: 3.0
+<<<<<<< Updated upstream
 - name: Misty Rainforest
+=======
+- name: Invasive Surgery
+>>>>>>> Stashed changes
   weight: 0.0909
   avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.0909
   avg_copies: 2.0
-- name: Invasive Surgery
+- name: Misty Rainforest
   weight: 0.0909
   avg_copies: 2.0
 - name: Murktide Regent
   weight: 0.0909
   avg_copies: 2.0
+<<<<<<< Updated upstream
 - name: An Offer You Can't Refuse
+=======
+- name: Tormod's Crypt
+>>>>>>> Stashed changes
   weight: 0.0909
   avg_copies: 1.0
 - name: Haywire Mite
   weight: 0.0909
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Breeding Pool
+=======
+- name: Haywire Mite
+>>>>>>> Stashed changes
   weight: 0.0909
   avg_copies: 1.0
-- name: Shadowspear
+- name: An Offer You Can't Refuse
   weight: 0.0909
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Skateboard
   weight: 0.0909
   avg_copies: 1.0
 - name: Tormod's Crypt
+=======
+- name: Breeding Pool
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Shadowspear
+>>>>>>> Stashed changes
   weight: 0.0909
   avg_copies: 1.0
 ---

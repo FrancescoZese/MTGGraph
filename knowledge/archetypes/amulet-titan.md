@@ -5,16 +5,23 @@ name: Amulet Titan
 meta_share: 0.0419
 list_count: 42
 top_cards:
-- name: Urza's Saga
+- name: Spelunking
   weight: 1.0
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Spelunking
   weight: 1.0
   avg_copies: 4.0
 - name: Amulet of Vigor
+=======
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Arboreal Grazer
+>>>>>>> Stashed changes
+  weight: 1.0
+  avg_copies: 4.0
+- name: Amulet of Vigor
   weight: 1.0
   avg_copies: 4.0
 - name: Crumbling Vestige
@@ -52,6 +59,7 @@ top_cards:
   avg_copies: 1.98
 - name: Aftermath Analyst
   weight: 1.0
+<<<<<<< Updated upstream
   avg_copies: 1.12
 - name: Vesuva
   weight: 1.0
@@ -60,11 +68,22 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Mirrorpool
+=======
+  avg_copies: 1.13
+- name: Urza's Cave
+  weight: 1.0
+  avg_copies: 1.0
+- name: Vesuva
+  weight: 1.0
+  avg_copies: 1.0
+- name: Hanweir Battlements
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Tolaria West
   weight: 1.0
   avg_copies: 1.0
@@ -72,12 +91,25 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Bojuka Bog
+=======
+- name: Bojuka Bog
+  weight: 1.0
+  avg_copies: 1.0
+- name: Echoing Deeps
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shifting Woodland
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 1.0
 - name: Hanweir Battlements
   weight: 1.0
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Echoing Deeps
+=======
+- name: Tolaria West
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 1.0
 - name: Six
@@ -128,6 +160,7 @@ top_cards:
 - name: The Wandering Minstrel
   weight: 0.1667
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Elder Gargaroth
   weight: 0.1429
   avg_copies: 1.0
@@ -139,10 +172,24 @@ top_cards:
   avg_copies: 1.0
 - name: Azusa, Lost but Seeking
   weight: 0.119
+=======
+- name: Azusa, Lost but Seeking
+  weight: 0.1316
+  avg_copies: 1.0
+- name: Elder Gargaroth
+  weight: 0.1316
+  avg_copies: 1.0
+- name: Keen-Eyed Curator
+  weight: 0.1053
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 0.1053
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Explore
   weight: 0.0952
   avg_copies: 3.0
+<<<<<<< Updated upstream
 - name: Commercial District
   weight: 0.0952
   avg_copies: 1.0
@@ -160,19 +207,44 @@ top_cards:
   avg_copies: 1.0
 - name: Outland Liberator
   weight: 0.0476
+=======
+- name: Hedge Maze
+  weight: 0.0789
+  avg_copies: 1.0
+- name: Wooded Foothills
+  weight: 0.0789
+  avg_copies: 1.0
+- name: Creeping Corrosion
+  weight: 0.0789
+  avg_copies: 1.0
+- name: Commercial District
+  weight: 0.0789
+  avg_copies: 1.0
+- name: Windswept Heath
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Elvish Reclaimer
+  weight: 0.0526
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Heritage Reclamation
   weight: 0.0476
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Windswept Heath
   weight: 0.0476
   avg_copies: 1.0
 - name: Tireless Tracker
   weight: 0.0476
+=======
+- name: Heritage Reclamation
+  weight: 0.0526
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Golgari Rot Farm
   weight: 0.0238
   avg_copies: 2.0
+<<<<<<< Updated upstream
 - name: Insidious Fungus
   weight: 0.0238
   avg_copies: 1.0
@@ -181,6 +253,19 @@ top_cards:
   avg_copies: 1.0
 - name: Cavern of Souls
   weight: 0.0238
+=======
+- name: Gemstone Caverns
+  weight: 0.0263
+  avg_copies: 1.0
+- name: Cavern of Souls
+  weight: 0.0263
+  avg_copies: 1.0
+- name: Insidious Fungus
+  weight: 0.0263
+  avg_copies: 1.0
+- name: Outland Liberator
+  weight: 0.0263
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.0238

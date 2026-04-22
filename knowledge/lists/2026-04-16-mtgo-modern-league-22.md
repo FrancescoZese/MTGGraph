@@ -1,5 +1,5 @@
 ---
-archetype: izzet-cori-steel
+archetype: izzet-prowess
 date: '2026-04-16'
 finish: 5-0
 pilot: XxquestionablyawesomexX

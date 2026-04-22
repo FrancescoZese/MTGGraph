@@ -6,12 +6,17 @@ name: Ruby Storm
 meta_share: 0.0279
 list_count: 28
 top_cards:
+<<<<<<< Updated upstream
 - name: Manamorphose
+=======
+- name: Pyretic Ritual
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 4.0
 - name: Wrenn's Resolve
   weight: 1.0
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Reckless Impulse
   weight: 1.0
   avg_copies: 4.0
@@ -25,6 +30,21 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Ral, Monsoon Mage
+=======
+- name: Manamorphose
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ral, Monsoon Mage
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ruby Medallion
+  weight: 1.0
+  avg_copies: 4.0
+- name: Desperate Ritual
+  weight: 1.0
+  avg_copies: 4.0
+- name: Reckless Impulse
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 3.89
 - name: Mountain
@@ -38,7 +58,11 @@ top_cards:
   avg_copies: 2.14
 - name: Wish
   weight: 1.0
+<<<<<<< Updated upstream
   avg_copies: 2.07
+=======
+  avg_copies: 2.08
+>>>>>>> Stashed changes
 - name: Valakut Awakening
   weight: 1.0
   avg_copies: 1.96
@@ -132,14 +156,22 @@ top_cards:
 - name: Steam Vents
   weight: 0.0714
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Vexing Bauble
   weight: 0.0714
   avg_copies: 1.0
 - name: Alchemist's Gambit
   weight: 0.0714
+=======
+- name: Phlage, Titan of Fire's Fury
+  weight: 0.0833
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Phlage, Titan of Fire's Fury
   weight: 0.0714
+  avg_copies: 1.0
+- name: Vexing Bauble
+  weight: 0.0833
   avg_copies: 1.0
 - name: Questing Druid
   weight: 0.0357
@@ -147,6 +179,7 @@ top_cards:
 - name: Blood Moon
   weight: 0.0357
   avg_copies: 2.0
+<<<<<<< Updated upstream
 - name: Stomping Ground
   weight: 0.0357
   avg_copies: 1.0
@@ -164,6 +197,25 @@ top_cards:
   avg_copies: 1.0
 - name: Pyromancer Ascension
   weight: 0.0357
+=======
+- name: Voice of Victory
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Abrade
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Pyromancer Ascension
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Stomping Ground
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Urabrask
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Hexing Squelcher
+  weight: 0.0417
+>>>>>>> Stashed changes
   avg_copies: 1.0
 ---
 already exists

@@ -8,7 +8,11 @@ name: Samwise Combo
 meta_share: 0.009
 list_count: 9
 top_cards:
+<<<<<<< Updated upstream
 - name: Samwise Gamgee
+=======
+- name: Windswept Heath
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 4.0
 - name: Chord of Calling
@@ -17,10 +21,14 @@ top_cards:
 - name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
-- name: Birthing Ritual
+- name: Samwise Gamgee
   weight: 1.0
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Windswept Heath
+=======
+- name: Birthing Ritual
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 4.0
 - name: Cauldron Familiar
@@ -52,10 +60,14 @@ top_cards:
   avg_copies: 1.4
 - name: Temple Garden
   weight: 1.0
+<<<<<<< Updated upstream
   avg_copies: 1.22
 - name: Forest
   weight: 1.0
   avg_copies: 1.0
+=======
+  avg_copies: 1.12
+>>>>>>> Stashed changes
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
@@ -63,9 +75,18 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Haywire Mite
+<<<<<<< Updated upstream
   weight: 1.0
   avg_copies: 1.0
 - name: Dryad Arbor
+=======
+  weight: 1.0
+  avg_copies: 1.0
+- name: Dryad Arbor
+  weight: 1.0
+  avg_copies: 1.0
+- name: Lush Portico
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 1.0
 - name: Malevolent Rumble
@@ -92,11 +113,19 @@ top_cards:
 - name: Abhorrent Oculus
   weight: 0.6667
   avg_copies: 1.5
+<<<<<<< Updated upstream
 - name: Sylvan Safekeeper
   weight: 0.6667
   avg_copies: 1.0
 - name: Breeding Pool
   weight: 0.6667
+=======
+- name: Crystal Barricade
+  weight: 0.75
+  avg_copies: 1.0
+- name: Underground Mortuary
+  weight: 0.75
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Underground Mortuary
   weight: 0.6667
@@ -107,6 +136,7 @@ top_cards:
 - name: Yawgmoth, Thran Physician
   weight: 0.5556
   avg_copies: 1.2
+<<<<<<< Updated upstream
 - name: Nurturing Peatland
   weight: 0.5556
   avg_copies: 1.0
@@ -115,6 +145,13 @@ top_cards:
   avg_copies: 2.75
 - name: Grist, the Hunger Tide
   weight: 0.4444
+=======
+- name: Sylvan Safekeeper
+  weight: 0.625
+  avg_copies: 1.0
+- name: Nurturing Peatland
+  weight: 0.625
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Wooded Foothills
   weight: 0.4444
@@ -137,6 +174,7 @@ top_cards:
 - name: Scout for Survivors
   weight: 0.3333
   avg_copies: 1.67
+<<<<<<< Updated upstream
 - name: Dauthi Voidwalker
   weight: 0.3333
   avg_copies: 1.0
@@ -146,15 +184,35 @@ top_cards:
 - name: Culling Ritual
   weight: 0.2222
   avg_copies: 2.0
+=======
+- name: Lavinia, Azorius Renegade
+  weight: 0.375
+  avg_copies: 1.0
+- name: Voice of Victory
+  weight: 0.375
+  avg_copies: 1.0
+- name: Dauthi Voidwalker
+  weight: 0.375
+  avg_copies: 1.0
+- name: Grist, the Hunger Tide
+  weight: 0.375
+  avg_copies: 1.0
+>>>>>>> Stashed changes
 - name: High Noon
   weight: 0.2222
   avg_copies: 2.0
+<<<<<<< Updated upstream
 - name: Path to Exile
   weight: 0.2222
   avg_copies: 1.5
 - name: Ruthless Lawbringer
   weight: 0.2222
   avg_copies: 1.0
+=======
+- name: Culling Ritual
+  weight: 0.25
+  avg_copies: 2.0
+>>>>>>> Stashed changes
 - name: Dawnbringer Cleric
   weight: 0.2222
   avg_copies: 1.0
@@ -164,6 +222,7 @@ top_cards:
 - name: Sephiroth, Fabled SOLDIER
   weight: 0.2222
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Seam Rip
   weight: 0.2222
   avg_copies: 1.0
@@ -175,10 +234,24 @@ top_cards:
   avg_copies: 2.0
 - name: Mana Confluence
   weight: 0.1111
+=======
+- name: Orcish Bowmasters
+  weight: 0.25
+  avg_copies: 1.0
+- name: Seam Rip
+  weight: 0.25
+  avg_copies: 1.0
+- name: Dewdrop Cure
+  weight: 0.125
+  avg_copies: 2.0
+- name: Haliya, Guided by Light
+  weight: 0.125
+>>>>>>> Stashed changes
   avg_copies: 2.0
 - name: Haliya, Guided by Light
   weight: 0.1111
   avg_copies: 2.0
+<<<<<<< Updated upstream
 - name: Dewdrop Cure
   weight: 0.1111
   avg_copies: 2.0
@@ -187,6 +260,19 @@ top_cards:
   avg_copies: 2.0
 - name: Collector Ouphe
   weight: 0.1111
+=======
+- name: Mana Confluence
+  weight: 0.125
+  avg_copies: 2.0
+- name: Collector Ouphe
+  weight: 0.125
+  avg_copies: 1.0
+- name: Veil of Summer
+  weight: 0.125
+  avg_copies: 1.0
+- name: Drannith Magistrate
+  weight: 0.125
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Swamp
   weight: 0.1111
@@ -194,8 +280,13 @@ top_cards:
 - name: Drannith Magistrate
   weight: 0.1111
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Veil of Summer
   weight: 0.1111
+=======
+- name: Path to Exile
+  weight: 0.125
+>>>>>>> Stashed changes
   avg_copies: 1.0
 ---
 Creature combo deck using Samwise Gamgee, Birthing Ritual, and Cauldron Familiar with Chord of Calling to assemble value loops.

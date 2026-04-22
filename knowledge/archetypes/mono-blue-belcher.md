@@ -5,6 +5,7 @@ name: Mono Blue Belcher
 meta_share: 0.022
 list_count: 22
 top_cards:
+<<<<<<< Updated upstream
 - name: Whir of Invention
   weight: 1.0
   avg_copies: 4.0
@@ -15,15 +16,34 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Goblin Charbelcher
+=======
+- name: Suppression Ray
+  weight: 1.0
+  avg_copies: 4.0
+- name: Whir of Invention
+  weight: 1.0
+  avg_copies: 4.0
+- name: Goblin Charbelcher
+  weight: 1.0
+  avg_copies: 4.0
+- name: Hydroelectric Specimen
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 4.0
 - name: Lotus Bloom
   weight: 1.0
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Suppression Ray
   weight: 1.0
   avg_copies: 4.0
 - name: Tameshi, Reality Architect
+=======
+- name: Sink into Stupor
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lotus Bloom
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 4.0
 - name: Disrupting Shoal
@@ -95,11 +115,19 @@ top_cards:
 - name: Spell Pierce
   weight: 0.3182
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Grafdigger's Cage
   weight: 0.3182
   avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 0.3182
+=======
+- name: Tormod's Crypt
+  weight: 0.3158
+  avg_copies: 1.0
+- name: Grafdigger's Cage
+  weight: 0.3158
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Preordain
   weight: 0.2727
@@ -116,6 +144,7 @@ top_cards:
 - name: Stock Up
   weight: 0.1818
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Dusk Rose Reliquary
   weight: 0.1364
   avg_copies: 1.0
@@ -127,15 +156,30 @@ top_cards:
   avg_copies: 1.0
 - name: Step Through
   weight: 0.0455
+=======
+- name: Talisman of Progress
+  weight: 0.1053
+  avg_copies: 1.0
+- name: Dusk Rose Reliquary
+  weight: 0.1053
+  avg_copies: 1.0
+- name: Hope of Ghirapur
+  weight: 0.0526
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Portable Hole
   weight: 0.0455
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Hope of Ghirapur
   weight: 0.0455
   avg_copies: 1.0
 - name: Witch Enchanter
   weight: 0.0455
+=======
+- name: Witch Enchanter
+  weight: 0.0526
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Displacement Wave
   weight: 0.0455

@@ -16,11 +16,16 @@ top_cards:
 - name: Devourer of Destiny
   weight: 0.8333
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Gemstone Mine
   weight: 0.8333
   avg_copies: 4.0
 - name: Spoils of the Vault
   weight: 0.8333
+=======
+- name: Thud
+  weight: 0.75
+>>>>>>> Stashed changes
   avg_copies: 4.0
 - name: Thud
   weight: 0.8333
@@ -28,11 +33,25 @@ top_cards:
 - name: Plunge into Darkness
   weight: 0.8333
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Chancellor of the Tangle
   weight: 0.8333
   avg_copies: 4.0
 - name: Cosmogoyf
   weight: 0.8333
+=======
+- name: Gemstone Mine
+  weight: 0.75
+  avg_copies: 4.0
+- name: Spoils of the Vault
+  weight: 0.75
+  avg_copies: 4.0
+- name: Chancellor of the Tangle
+  weight: 0.75
+  avg_copies: 4.0
+- name: Plunge into Darkness
+  weight: 0.75
+>>>>>>> Stashed changes
   avg_copies: 4.0
 - name: Chancellor of the Annex
   weight: 0.8333
@@ -76,6 +95,7 @@ top_cards:
 - name: Callous Sell-Sword
   weight: 0.6667
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Orcish Bowmasters
   weight: 0.1667
   avg_copies: 4.0
@@ -99,10 +119,33 @@ top_cards:
   avg_copies: 4.0
 - name: Blazing Rootwalla
   weight: 0.1667
+=======
+- name: Lightning Bolt
+  weight: 0.25
+  avg_copies: 4.0
+- name: Street Wraith
+  weight: 0.25
+  avg_copies: 4.0
+- name: Moonshadow
+  weight: 0.25
+  avg_copies: 4.0
+- name: Hollow One
+  weight: 0.25
+  avg_copies: 4.0
+- name: Detective's Phoenix
+  weight: 0.25
+  avg_copies: 4.0
+- name: Faithless Looting
+  weight: 0.25
+  avg_copies: 4.0
+- name: Marauding Mako
+  weight: 0.25
+>>>>>>> Stashed changes
   avg_copies: 4.0
 - name: Street Wraith
   weight: 0.1667
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Moonshadow
   weight: 0.1667
   avg_copies: 4.0
@@ -114,10 +157,30 @@ top_cards:
   avg_copies: 4.0
 - name: Thoughtseize
   weight: 0.1667
+=======
+- name: Vengevine
+  weight: 0.25
+  avg_copies: 4.0
+- name: Blazing Rootwalla
+  weight: 0.25
+  avg_copies: 4.0
+- name: Burning Inquiry
+  weight: 0.25
+  avg_copies: 4.0
+- name: Verdant Catacombs
+  weight: 0.25
+  avg_copies: 4.0
+- name: Thoughtseize
+  weight: 0.25
+  avg_copies: 3.0
+- name: Bloodstained Mire
+  weight: 0.25
+>>>>>>> Stashed changes
   avg_copies: 3.0
 - name: Meltdown
   weight: 0.1667
   avg_copies: 3.0
+<<<<<<< Updated upstream
 - name: Bloodstained Mire
   weight: 0.1667
   avg_copies: 3.0
@@ -126,6 +189,16 @@ top_cards:
   avg_copies: 3.0
 - name: Pyroclasm
   weight: 0.1667
+=======
+- name: Damping Sphere
+  weight: 0.25
+  avg_copies: 3.0
+- name: Surgical Extraction
+  weight: 0.25
+  avg_copies: 2.0
+- name: Pyroclasm
+  weight: 0.25
+>>>>>>> Stashed changes
   avg_copies: 2.0
 - name: Wooded Foothills
   weight: 0.1667
@@ -133,6 +206,7 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 0.1667
   avg_copies: 2.0
+<<<<<<< Updated upstream
 - name: Surgical Extraction
   weight: 0.1667
   avg_copies: 2.0
@@ -153,5 +227,24 @@ top_cards:
   avg_copies: 1.0
 - name: Mountain
   weight: 0.1667
+=======
+- name: Sheoldred's Edict
+  weight: 0.25
+  avg_copies: 2.0
+- name: Disciple of Freyalise
+  weight: 0.25
+  avg_copies: 1.0
+- name: Mountain
+  weight: 0.25
+  avg_copies: 1.0
+- name: Stomping Ground
+  weight: 0.25
+  avg_copies: 1.0
+- name: Aloe Alchemist
+  weight: 0.25
+  avg_copies: 1.0
+- name: Commercial District
+  weight: 0.25
+>>>>>>> Stashed changes
   avg_copies: 1.0
 ---

@@ -38,13 +38,17 @@ top_cards:
 - name: Golgari Thug
   weight: 0.6667
   avg_copies: 3.0
+<<<<<<< Updated upstream
 - name: Steam Vents
+=======
+- name: Arid Mesa
+>>>>>>> Stashed changes
   weight: 0.6667
   avg_copies: 2.5
 - name: Meltdown
   weight: 0.6667
   avg_copies: 2.5
-- name: Arid Mesa
+- name: Meltdown
   weight: 0.6667
   avg_copies: 2.5
 - name: Bloodstained Mire
@@ -62,6 +66,7 @@ top_cards:
 - name: Wonder
   weight: 0.6667
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Otherworldly Gaze
   weight: 0.3333
   avg_copies: 4.0
@@ -72,26 +77,50 @@ top_cards:
   weight: 0.3333
   avg_copies: 4.0
 - name: Prized Amalgam
+=======
+- name: Artist's Talent
   weight: 0.3333
   avg_copies: 4.0
 - name: Manamorphose
   weight: 0.3333
   avg_copies: 4.0
+- name: Stitcher's Supplier
+  weight: 0.3333
+  avg_copies: 4.0
+- name: Hedron Crab
+>>>>>>> Stashed changes
+  weight: 0.3333
+  avg_copies: 4.0
+- name: Manamorphose
+  weight: 0.3333
+  avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Artist's Talent
   weight: 0.3333
   avg_copies: 4.0
 - name: Blazing Rootwalla
+=======
+- name: Life from the Loam
+  weight: 0.3333
+  avg_copies: 4.0
+- name: Prized Amalgam
+>>>>>>> Stashed changes
   weight: 0.3333
   avg_copies: 4.0
 - name: Lava Dart
   weight: 0.3333
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Life from the Loam
+=======
+- name: Lava Dart
+>>>>>>> Stashed changes
   weight: 0.3333
   avg_copies: 4.0
 - name: Arclight Phoenix
   weight: 0.3333
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Hedron Crab
   weight: 0.3333
   avg_copies: 4.0
@@ -99,6 +128,12 @@ top_cards:
   weight: 0.3333
   avg_copies: 3.0
 - name: Snow-Covered Mountain
+=======
+- name: Blazing Rootwalla
+  weight: 0.3333
+  avg_copies: 4.0
+- name: Gemstone Caverns
+>>>>>>> Stashed changes
   weight: 0.3333
   avg_copies: 3.0
 - name: Conflagrate
@@ -110,12 +145,17 @@ top_cards:
 - name: Seal of Fire
   weight: 0.3333
   avg_copies: 3.0
+<<<<<<< Updated upstream
 - name: Gemstone Caverns
+=======
+- name: Darkblast
+>>>>>>> Stashed changes
   weight: 0.3333
   avg_copies: 3.0
 - name: Narcomoeba
   weight: 0.3333
   avg_copies: 3.0
+<<<<<<< Updated upstream
 - name: Timeline Culler
   weight: 0.3333
   avg_copies: 2.0
@@ -135,17 +175,46 @@ top_cards:
   weight: 0.3333
   avg_copies: 2.0
 - name: Molten Collapse
+=======
+- name: Narcomoeba
+  weight: 0.3333
+  avg_copies: 3.0
+- name: Collector Ouphe
   weight: 0.3333
   avg_copies: 2.0
-- name: Memory's Journey
+- name: Leyline of the Void
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Pick Your Poison
   weight: 0.3333
   avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.3333
   avg_copies: 2.0
+- name: Molten Collapse
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Timeline Culler
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Stomping Ground
+>>>>>>> Stashed changes
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Memory's Journey
+  weight: 0.3333
+  avg_copies: 2.0
+<<<<<<< Updated upstream
+- name: Damping Sphere
+=======
+- name: Ancient Grudge
+>>>>>>> Stashed changes
+  weight: 0.3333
+  avg_copies: 2.0
 - name: Boseiju, Who Endures
   weight: 0.3333
   avg_copies: 1.5
+<<<<<<< Updated upstream
 - name: Ashiok, Dream Render
   weight: 0.3333
   avg_copies: 1.0
@@ -162,15 +231,37 @@ top_cards:
   weight: 0.3333
   avg_copies: 1.0
 - name: Mountain
+=======
+- name: Tormod's Crypt
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Detective's Phoenix
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Mountain
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Flame Jab
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Watery Grave
+>>>>>>> Stashed changes
   weight: 0.3333
   avg_copies: 1.0
 - name: Watery Grave
   weight: 0.3333
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Tormod's Crypt
+=======
+- name: Rough
+>>>>>>> Stashed changes
   weight: 0.3333
   avg_copies: 1.0
-- name: Detective's Phoenix
+- name: Commercial District
   weight: 0.3333
   avg_copies: 1.0
 ---

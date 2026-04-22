@@ -7,6 +7,31 @@ meta_share: 0.003
 list_count: 3
 top_cards:
 - name: Windswept Heath
+<<<<<<< Updated upstream
+=======
+  weight: 1.0
+  avg_copies: 4.0
+- name: Badgermole Cub
+>>>>>>> Stashed changes
+  weight: 1.0
+  avg_copies: 4.0
+- name: Green Sun's Zenith
+  weight: 1.0
+  avg_copies: 4.0
+- name: Springheart Nantuko
+  weight: 1.0
+  avg_copies: 4.0
+- name: Delighted Halfling
+  weight: 1.0
+  avg_copies: 4.0
+<<<<<<< Updated upstream
+- name: Springheart Nantuko
+  weight: 1.0
+  avg_copies: 4.0
+- name: Badgermole Cub
+=======
+- name: Delighted Halfling
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 4.0
 - name: Misty Rainforest
@@ -15,48 +40,49 @@ top_cards:
 - name: Quirion Ranger
   weight: 1.0
   avg_copies: 4.0
-- name: Delighted Halfling
-  weight: 1.0
-  avg_copies: 4.0
-- name: Springheart Nantuko
-  weight: 1.0
-  avg_copies: 4.0
-- name: Badgermole Cub
-  weight: 1.0
-  avg_copies: 4.0
-- name: Green Sun's Zenith
-  weight: 1.0
-  avg_copies: 4.0
 - name: Summoner's Pact
   weight: 1.0
   avg_copies: 3.0
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 3.0
+<<<<<<< Updated upstream
 - name: Lotus Cobra
+=======
+- name: Mai, Scornful Striker
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 3.0
 - name: Tyvar, Jubilant Brawler
   weight: 1.0
   avg_copies: 3.0
+<<<<<<< Updated upstream
 - name: Leyline of Abundance
+=======
+- name: Summoner's Pact
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 3.0
 - name: Mai, Scornful Striker
   weight: 1.0
+<<<<<<< Updated upstream
   avg_copies: 2.67
 - name: Forest
   weight: 1.0
   avg_copies: 2.0
+=======
+  avg_copies: 3.0
+>>>>>>> Stashed changes
 - name: Nissa, Who Shakes the World
   weight: 1.0
   avg_copies: 2.0
-- name: Ashiok, Dream Render
+- name: Overgrown Tomb
   weight: 1.0
   avg_copies: 2.0
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 2.0
+<<<<<<< Updated upstream
 - name: Overgrown Tomb
   weight: 1.0
   avg_copies: 1.67
@@ -70,17 +96,40 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Collector Ouphe
+=======
+- name: Ashiok, Dream Render
+  weight: 1.0
+  avg_copies: 2.0
+- name: Ouroboroid
+  weight: 1.0
+  avg_copies: 1.5
+- name: Formidable Speaker
+  weight: 1.0
+  avg_copies: 1.0
+- name: Nissa, Resurgent Animist
+  weight: 1.0
+  avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 1.0
+  avg_copies: 1.0
+- name: Chomping Changeling
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 1.0
 - name: Craterhoof Behemoth
   weight: 1.0
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Disciple of Freyalise
+=======
+- name: Forest
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 1.0
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Nissa, Resurgent Animist
   weight: 1.0
   avg_copies: 1.0
@@ -97,6 +146,24 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Endurance
+=======
+- name: Disciple of Freyalise
+  weight: 1.0
+  avg_copies: 1.0
+- name: Craterhoof Behemoth
+  weight: 1.0
+  avg_copies: 1.0
+- name: Endurance
+  weight: 1.0
+  avg_copies: 1.0
+- name: Underground Mortuary
+  weight: 1.0
+  avg_copies: 1.0
+- name: Creeping Corrosion
+  weight: 1.0
+  avg_copies: 1.0
+- name: Verdant Catacombs
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 1.0
 - name: Pithing Needle

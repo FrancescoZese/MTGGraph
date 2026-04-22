@@ -6,16 +6,27 @@ name: Burn
 meta_share: 0.004
 list_count: 4
 top_cards:
+<<<<<<< Updated upstream
 - name: Lava Spike
-  weight: 1.0
-  avg_copies: 4.0
-- name: Boltwave
+=======
+- name: Monastery Swiftspear
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 4.0
 - name: Goblin Guide
   weight: 1.0
   avg_copies: 4.0
+<<<<<<< Updated upstream
+- name: Goblin Guide
+  weight: 1.0
+  avg_copies: 4.0
 - name: Monastery Swiftspear
+=======
+- name: Lava Spike
+  weight: 1.0
+  avg_copies: 4.0
+- name: Boltwave
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 4.0
 - name: Skullcrack
@@ -69,10 +80,14 @@ top_cards:
 - name: Searing Blood
   weight: 0.5
   avg_copies: 3.0
+<<<<<<< Updated upstream
 - name: Deflecting Palm
   weight: 0.5
   avg_copies: 2.0
 - name: Shard Volley
+=======
+- name: Arid Mesa
+>>>>>>> Stashed changes
   weight: 0.5
   avg_copies: 2.0
 - name: Arid Mesa
@@ -82,12 +97,24 @@ top_cards:
   weight: 0.5
   avg_copies: 2.0
 - name: Obsidian Charmaw
+<<<<<<< Updated upstream
   weight: 0.5
   avg_copies: 2.0
 - name: Sacred Foundry
+=======
+  weight: 0.5
+  avg_copies: 2.0
+- name: Shard Volley
+  weight: 0.5
+  avg_copies: 2.0
+- name: Raucous Theater
   weight: 0.5
   avg_copies: 1.5
 - name: Exquisite Firecraft
+>>>>>>> Stashed changes
+  weight: 0.5
+  avg_copies: 1.5
+- name: Sacred Foundry
   weight: 0.5
   avg_copies: 1.5
 - name: Raucous Theater
@@ -97,12 +124,18 @@ top_cards:
   weight: 0.25
   avg_copies: 4.0
 - name: Roiling Vortex
+<<<<<<< Updated upstream
   weight: 0.25
   avg_copies: 3.0
 - name: Chandra's Incinerator
+=======
+>>>>>>> Stashed changes
   weight: 0.25
   avg_copies: 3.0
 - name: Arena of Glory
+  weight: 0.25
+  avg_copies: 3.0
+- name: Chandra's Incinerator
   weight: 0.25
   avg_copies: 3.0
 - name: Eidolon of the Great Revel
@@ -114,10 +147,14 @@ top_cards:
 - name: Tunnel Ignus
   weight: 0.25
   avg_copies: 2.0
-- name: Wear
+- name: Damping Sphere
   weight: 0.25
   avg_copies: 2.0
+<<<<<<< Updated upstream
 - name: Damping Sphere
+=======
+- name: Wear
+>>>>>>> Stashed changes
   weight: 0.25
   avg_copies: 2.0
 - name: Disruptor Flute

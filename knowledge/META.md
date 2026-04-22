@@ -1,8 +1,13 @@
 # Modern Metagame
 
 Generated: 2026-04-22
+<<<<<<< Updated upstream
 Data range: 2026-04-01 to 2026-04-22
 Total lists: 1002
+=======
+Data range: 2026-04-01 to 2026-04-20
+Total lists: 914
+>>>>>>> Stashed changes
 
 ## Archetypes (by meta share)
 

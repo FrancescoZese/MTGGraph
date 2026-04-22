@@ -8,8 +8,16 @@ list_count: 20
 top_cards:
 - name: Polluted Delta
   weight: 1.0
+<<<<<<< Updated upstream
   avg_copies: 3.85
 - name: Psychic Frog
+=======
+  avg_copies: 3.83
+- name: Psychic Frog
+  weight: 1.0
+  avg_copies: 3.67
+- name: Counterspell
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 3.7
 - name: Counterspell
@@ -109,16 +117,28 @@ top_cards:
   weight: 0.35
   avg_copies: 1.29
 - name: Graveyard Trespasser
+<<<<<<< Updated upstream
   weight: 0.35
   avg_copies: 1.12
 - name: Strategic Betrayal
   weight: 0.35
+=======
+  weight: 0.3333
+  avg_copies: 1.14
+- name: Nihil Spellbomb
+  weight: 0.3333
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.35
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Nihil Spellbomb
   weight: 0.3
+=======
+- name: Strategic Betrayal
+  weight: 0.3333
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Preordain
   weight: 0.2
@@ -148,14 +168,22 @@ top_cards:
   weight: 0.15
   avg_copies: 1.0
 - name: Moonshadow
+<<<<<<< Updated upstream
   weight: 0.1
   avg_copies: 4.0
 - name: Mishra's Bauble
   weight: 0.1
+=======
+  weight: 0.1111
+  avg_copies: 4.0
+- name: Mishra's Bauble
+  weight: 0.1111
+>>>>>>> Stashed changes
   avg_copies: 4.0
 - name: Consult the Star Charts
   weight: 0.1
   avg_copies: 2.0
+<<<<<<< Updated upstream
 - name: Shoot the Sheriff
   weight: 0.1
   avg_copies: 1.0
@@ -164,6 +192,22 @@ top_cards:
   avg_copies: 1.0
 - name: Teferi, Time Raveler
   weight: 0.1
+=======
+- name: Pest Control
+  weight: 0.1111
+  avg_copies: 1.5
+- name: Meticulous Archive
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Field of Ruin
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Shoot the Sheriff
+  weight: 0.1111
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Consider
   weight: 0.05
@@ -171,6 +215,7 @@ top_cards:
 - name: Dress Down
   weight: 0.05
   avg_copies: 3.0
+<<<<<<< Updated upstream
 - name: Thraben Charm
   weight: 0.05
   avg_copies: 2.0
@@ -197,10 +242,42 @@ top_cards:
   avg_copies: 1.0
 - name: Vanishing Verse
   weight: 0.05
+=======
+- name: Archmage's Charm
+  weight: 0.0556
+  avg_copies: 2.0
+- name: Dauthi Voidwalker
+  weight: 0.0556
+  avg_copies: 2.0
+- name: Strix Serenade
+  weight: 0.0556
+  avg_copies: 2.0
+- name: Thraben Charm
+  weight: 0.0556
+  avg_copies: 2.0
+- name: Emperor of Bones
+  weight: 0.0556
+  avg_copies: 2.0
+- name: Prismatic Ending
+  weight: 0.0556
+  avg_copies: 1.0
+- name: High Noon
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Damnation
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Vanishing Verse
+  weight: 0.0556
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Celestial Purge
   weight: 0.05
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Prismatic Ending
   weight: 0.05
   avg_copies: 1.0
@@ -209,6 +286,10 @@ top_cards:
   avg_copies: 1.0
 - name: High Noon
   weight: 0.05
+=======
+- name: Teferi, Time Raveler
+  weight: 0.0556
+>>>>>>> Stashed changes
   avg_copies: 1.0
 ---
 Tempo-control deck built around Psychic Frog as a resilient threat, backed by Counterspell, Thoughtseize, and Subtlety for disruption.

@@ -40,6 +40,7 @@ top_cards:
   weight: 0.95
   avg_copies: 2.89
 - name: Hedge Maze
+<<<<<<< Updated upstream
   weight: 0.95
   avg_copies: 2.84
 - name: Disciple of Freyalise
@@ -48,6 +49,16 @@ top_cards:
 - name: Ghalta, Stampede Tyrant
   weight: 0.95
   avg_copies: 2.16
+=======
+  weight: 0.9412
+  avg_copies: 2.81
+- name: Disciple of Freyalise
+  weight: 0.9412
+  avg_copies: 2.19
+- name: Ghalta, Stampede Tyrant
+  weight: 0.9412
+  avg_copies: 2.19
+>>>>>>> Stashed changes
 - name: Generous Ent
   weight: 0.95
   avg_copies: 1.95
@@ -58,16 +69,28 @@ top_cards:
   weight: 0.95
   avg_copies: 1.11
 - name: Breeding Pool
+<<<<<<< Updated upstream
   weight: 0.95
   avg_copies: 1.05
 - name: Boseiju, Who Endures
   weight: 0.95
+=======
+  weight: 0.9412
+  avg_copies: 1.06
+- name: Griselbrand
+  weight: 0.9412
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Xenagos, God of Revels
   weight: 0.95
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Griselbrand
   weight: 0.95
+=======
+- name: Boseiju, Who Endures
+  weight: 0.9412
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Veil of Summer
   weight: 0.9
@@ -76,16 +99,28 @@ top_cards:
   weight: 0.9
   avg_copies: 1.11
 - name: Hooting Mandrills
+<<<<<<< Updated upstream
   weight: 0.9
   avg_copies: 1.06
 - name: Atraxa, Grand Unifier
   weight: 0.9
+=======
+  weight: 0.8824
+  avg_copies: 1.07
+- name: Elesh Norn, Grand Cenobite
+  weight: 0.8824
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Snow-Covered Island
   weight: 0.9
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Elesh Norn, Grand Cenobite
   weight: 0.9
+=======
+- name: Atraxa, Grand Unifier
+  weight: 0.8824
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Into the Flood Maw
   weight: 0.85
@@ -109,6 +144,7 @@ top_cards:
   weight: 0.7
   avg_copies: 1.43
 - name: Polluted Delta
+<<<<<<< Updated upstream
   weight: 0.65
   avg_copies: 1.15
 - name: Repudiate
@@ -116,6 +152,15 @@ top_cards:
   avg_copies: 1.0
 - name: Flooded Strand
   weight: 0.55
+=======
+  weight: 0.5882
+  avg_copies: 1.1
+- name: Flooded Strand
+  weight: 0.5294
+  avg_copies: 1.0
+- name: Repudiate
+  weight: 0.5294
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Verdant Catacombs
   weight: 0.35
@@ -129,6 +174,7 @@ top_cards:
 - name: Hexing Squelcher
   weight: 0.05
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Forest
   weight: 0.05
   avg_copies: 1.0
@@ -155,6 +201,34 @@ top_cards:
   avg_copies: 1.0
 - name: Spell Snare
   weight: 0.05
+=======
+- name: Island
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Windswept Heath
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Forest
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Preordain
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Brainsurge
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Spell Snare
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Borborygmos Enraged
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Commercial District
+  weight: 0.0588
+>>>>>>> Stashed changes
   avg_copies: 1.0
 ---
 Combo deck using Neoform and Eldritch Evolution to sacrifice Allosaurus Rider into a game-ending threat.

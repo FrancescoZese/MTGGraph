@@ -6,12 +6,17 @@ name: Rakdos Steel-Cutter
 meta_share: 0.004
 list_count: 4
 top_cards:
+<<<<<<< Updated upstream
 - name: Lightning Bolt
+=======
+- name: Obsidian Charmaw
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 4.0
 - name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
@@ -22,12 +27,28 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
+=======
+- name: Lightning Bolt
+  weight: 1.0
+  avg_copies: 4.0
+- name: Moonshadow
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Blood Crypt
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 4.0
 - name: Detective's Phoenix
   weight: 1.0
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Obsidian Charmaw
+=======
+- name: Nethergoyf
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 4.0
 - name: Casey Jones, Vigilante
@@ -49,9 +70,12 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Thoughtseize
+<<<<<<< Updated upstream
   weight: 0.75
   avg_copies: 4.0
 - name: Lava Dart
+=======
+>>>>>>> Stashed changes
   weight: 0.75
   avg_copies: 4.0
 - name: Street Wraith
@@ -60,7 +84,14 @@ top_cards:
 - name: Bloodstained Mire
   weight: 0.75
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Damping Sphere
+=======
+- name: Cori-Steel Cutter
+  weight: 0.75
+  avg_copies: 4.0
+- name: Lava Dart
+>>>>>>> Stashed changes
   weight: 0.75
   avg_copies: 4.0
 - name: Cori-Steel Cutter
@@ -81,15 +112,16 @@ top_cards:
 - name: Scalding Tarn
   weight: 0.5
   avg_copies: 3.0
-- name: Fear of Missing Out
-  weight: 0.25
-  avg_copies: 4.0
 - name: Magebane Lizard
   weight: 0.25
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Unearth
+=======
+- name: Fear of Missing Out
+>>>>>>> Stashed changes
   weight: 0.25
-  avg_copies: 2.0
+  avg_copies: 4.0
 - name: Seal of Fire
   weight: 0.25
   avg_copies: 2.0
@@ -99,7 +131,17 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.25
   avg_copies: 2.0
+<<<<<<< Updated upstream
 - name: Boggart Trawler
+  weight: 0.25
+  avg_copies: 1.0
+- name: Troll of Khazad-dûm
+=======
+- name: Unearth
+  weight: 0.25
+  avg_copies: 2.0
+- name: Boggart Trawler
+>>>>>>> Stashed changes
   weight: 0.25
   avg_copies: 1.0
 - name: Troll of Khazad-dûm
