@@ -2,31 +2,37 @@
 colors:
 - G
 name: Scapeshift Combo
-meta_share: 0.0021
-list_count: 2
+meta_share: 0.003
+list_count: 3
 top_cards:
-- name: Delighted Halfling
-  weight: 1.0
-  avg_copies: 4.0
-- name: Prismatic Vista
+- name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
 - name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
-- name: Badgermole Cub
+- name: Prismatic Vista
+  weight: 1.0
+  avg_copies: 4.0
+- name: Delighted Halfling
+  weight: 1.0
+  avg_copies: 4.0
+- name: Kozilek's Command
+  weight: 1.0
+  avg_copies: 4.0
+- name: Hashep Oasis
   weight: 1.0
   avg_copies: 4.0
 - name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
-- name: Eldrazi Temple
+- name: Springheart Nantuko
+  weight: 1.0
+  avg_copies: 4.0
+- name: Badgermole Cub
   weight: 1.0
   avg_copies: 4.0
 - name: Thought-Knot Seer
-  weight: 1.0
-  avg_copies: 4.0
-- name: Springheart Nantuko
   weight: 1.0
   avg_copies: 4.0
 - name: Green Sun's Zenith
@@ -35,15 +41,9 @@ top_cards:
 - name: Ouroboroid
   weight: 1.0
   avg_copies: 4.0
-- name: Kozilek's Command
-  weight: 1.0
-  avg_copies: 4.0
 - name: Forest
   weight: 1.0
-  avg_copies: 4.0
-- name: Hashep Oasis
-  weight: 1.0
-  avg_copies: 4.0
+  avg_copies: 3.67
 - name: Trinisphere
   weight: 1.0
   avg_copies: 3.0
@@ -58,8 +58,8 @@ top_cards:
   avg_copies: 2.0
 - name: Ghost Quarter
   weight: 1.0
-  avg_copies: 1.5
-- name: Dryad Arbor
+  avg_copies: 1.33
+- name: Chomping Changeling
   weight: 1.0
   avg_copies: 1.0
 - name: Collector Ouphe
@@ -68,28 +68,28 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.0
-- name: Blast Zone
-  weight: 1.0
-  avg_copies: 1.0
-- name: Endurance
-  weight: 1.0
-  avg_copies: 1.0
-- name: Chomping Changeling
-  weight: 1.0
-  avg_copies: 1.0
-- name: Tajuru Preserver
-  weight: 1.0
-  avg_copies: 1.0
-- name: Shifting Woodland
-  weight: 1.0
-  avg_copies: 1.0
-- name: Wastes
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
 - name: Icetill Explorer
   weight: 1.0
   avg_copies: 1.0
+- name: Tajuru Preserver
+  weight: 1.0
+  avg_copies: 1.0
+- name: Blast Zone
+  weight: 1.0
+  avg_copies: 1.0
+- name: Wastes
+  weight: 1.0
+  avg_copies: 1.0
+- name: Endurance
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shifting Woodland
+  weight: 1.0
+  avg_copies: 1.0
 - name: Six
-  weight: 0.5
+  weight: 0.6667
   avg_copies: 1.0
 ---

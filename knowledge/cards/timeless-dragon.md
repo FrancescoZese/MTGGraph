@@ -10,6 +10,6 @@ type: Creature — Dragon
 meta_presence: 0.001
 archetypes:
   azorius-control:
-    weight: 0.0455
+    weight: 0.0435
     avg_copies: 1.0
 ---

@@ -10,6 +10,6 @@ type: Legendary Planeswalker — Gideon
 meta_presence: 0.001
 archetypes:
   boros-ponza:
-    weight: 0.0667
+    weight: 0.0588
     avg_copies: 2.0
 ---

@@ -10,6 +10,6 @@ type: Creature — Snake Shaman
 meta_presence: 0.001
 archetypes:
   hollow-one:
-    weight: 0.0769
+    weight: 0.0714
     avg_copies: 1.0
 ---

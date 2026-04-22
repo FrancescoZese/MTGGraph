@@ -3,9 +3,12 @@ colors:
 - W
 - R
 name: Burn
-meta_share: 0.0042
+meta_share: 0.004
 list_count: 4
 top_cards:
+- name: Lava Spike
+  weight: 1.0
+  avg_copies: 4.0
 - name: Boltwave
   weight: 1.0
   avg_copies: 4.0
@@ -15,19 +18,16 @@ top_cards:
 - name: Monastery Swiftspear
   weight: 1.0
   avg_copies: 4.0
-- name: Lava Spike
-  weight: 1.0
-  avg_copies: 4.0
 - name: Skullcrack
   weight: 1.0
   avg_copies: 3.75
+- name: Lightning Bolt
+  weight: 1.0
+  avg_copies: 3.25
 - name: Barbarian Ring
   weight: 1.0
   avg_copies: 3.25
 - name: Skewer the Critics
-  weight: 1.0
-  avg_copies: 3.25
-- name: Lightning Bolt
   weight: 1.0
   avg_copies: 3.25
 - name: Mountain
@@ -54,10 +54,10 @@ top_cards:
 - name: Bloodstained Mire
   weight: 0.75
   avg_copies: 1.33
-- name: Seal of Fire
+- name: Boros Charm
   weight: 0.5
   avg_copies: 4.0
-- name: Boros Charm
+- name: Seal of Fire
   weight: 0.5
   avg_copies: 4.0
 - name: Inspiring Vantage
@@ -69,10 +69,7 @@ top_cards:
 - name: Searing Blood
   weight: 0.5
   avg_copies: 3.0
-- name: Surgical Extraction
-  weight: 0.5
-  avg_copies: 2.0
-- name: Obsidian Charmaw
+- name: Deflecting Palm
   weight: 0.5
   avg_copies: 2.0
 - name: Shard Volley
@@ -81,7 +78,10 @@ top_cards:
 - name: Arid Mesa
   weight: 0.5
   avg_copies: 2.0
-- name: Deflecting Palm
+- name: Surgical Extraction
+  weight: 0.5
+  avg_copies: 2.0
+- name: Obsidian Charmaw
   weight: 0.5
   avg_copies: 2.0
 - name: Sacred Foundry
@@ -108,6 +108,9 @@ top_cards:
 - name: Eidolon of the Great Revel
   weight: 0.25
   avg_copies: 2.5
+- name: Meltdown
+  weight: 0.25
+  avg_copies: 2.0
 - name: Tunnel Ignus
   weight: 0.25
   avg_copies: 2.0
@@ -117,13 +120,10 @@ top_cards:
 - name: Damping Sphere
   weight: 0.25
   avg_copies: 2.0
-- name: Meltdown
-  weight: 0.25
-  avg_copies: 2.0
-- name: Ragavan, Nimble Pilferer
+- name: Disruptor Flute
   weight: 0.25
   avg_copies: 1.0
-- name: Disruptor Flute
+- name: Ragavan, Nimble Pilferer
   weight: 0.25
   avg_copies: 1.0
 - name: Molten Rain

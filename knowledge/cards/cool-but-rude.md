@@ -7,12 +7,12 @@ name: Cool but Rude
 scryfall_id: a566ab2d-6ec8-4833-8ad6-210378b1a20e
 set: tmt
 type: Enchantment — Class
-meta_presence: 0.0021
+meta_presence: 0.002
 archetypes:
   boros-energy:
-    weight: 0.005
+    weight: 0.0049
     avg_copies: 1.0
   hollow-one:
-    weight: 0.0769
+    weight: 0.0714
     avg_copies: 2.0
 ---

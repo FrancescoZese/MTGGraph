@@ -7,9 +7,12 @@ name: Untimely Malfunction
 scryfall_id: 857bfb0e-17dc-4dda-bc37-3df927a9eae6
 set: dsk
 type: Instant
-meta_presence: 0.0146
+meta_presence: 0.016
 archetypes:
   ruby-storm:
-    weight: 0.5185
-    avg_copies: 1.79
+    weight: 0.5357
+    avg_copies: 1.8
+  mono-red-belcher:
+    weight: 0.25
+    avg_copies: 3.0
 ---

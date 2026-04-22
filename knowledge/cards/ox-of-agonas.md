@@ -7,10 +7,10 @@ name: Ox of Agonas
 scryfall_id: 00c46d18-064e-403a-bf39-ec655d78390a
 set: nec
 type: Creature — Ox
-meta_presence: 0.0031
+meta_presence: 0.003
 archetypes:
   hollow-one:
-    weight: 0.0769
+    weight: 0.0714
     avg_copies: 1.0
   dredge:
     weight: 0.6667

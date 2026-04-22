@@ -10,6 +10,6 @@ type: Sorcery
 meta_presence: 0.001
 archetypes:
   goryo-reanimator:
-    weight: 0.0323
+    weight: 0.0286
     avg_copies: 1.0
 ---

@@ -6,11 +6,11 @@ name: Glaring Fleshraker
 scryfall_id: 80c2a3c7-1486-4ff9-88ec-79ec67a437f8
 set: mh3
 type: Creature — Eldrazi Drone
-meta_presence: 0.0572
+meta_presence: 0.0569
 archetypes:
   eldrazi-tron:
-    weight: 0.925
-    avg_copies: 3.22
+    weight: 0.9286
+    avg_copies: 3.23
   broodscale-combo:
     weight: 1.0
     avg_copies: 3.89

@@ -7,14 +7,14 @@ name: Formidable Speaker
 scryfall_id: 265522eb-4f6a-40e7-b374-3833fa63c80b
 set: ecl
 type: Creature — Elf Druid
-meta_presence: 0.0343
+meta_presence: 0.0359
 archetypes:
   living-end:
-    weight: 0.5556
-    avg_copies: 2.1
+    weight: 0.5789
+    avg_copies: 2.18
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 1.3
+    avg_copies: 1.27
   eldrazi-ramp:
     weight: 0.4091
     avg_copies: 2.56

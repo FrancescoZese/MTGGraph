@@ -3,7 +3,7 @@ colors:
 - B
 - R
 name: Rakdos Steel-Cutter
-meta_share: 0.0042
+meta_share: 0.004
 list_count: 4
 top_cards:
 - name: Lightning Bolt
@@ -12,22 +12,22 @@ top_cards:
 - name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Obsidian Charmaw
-  weight: 1.0
-  avg_copies: 4.0
-- name: Detective's Phoenix
-  weight: 1.0
-  avg_copies: 4.0
 - name: Moonshadow
+  weight: 1.0
+  avg_copies: 4.0
+- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 4.0
-- name: Dragon's Rage Channeler
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Detective's Phoenix
+  weight: 1.0
+  avg_copies: 4.0
+- name: Obsidian Charmaw
   weight: 1.0
   avg_copies: 4.0
 - name: Casey Jones, Vigilante
@@ -48,31 +48,31 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Bloodstained Mire
-  weight: 0.75
-  avg_copies: 4.0
-- name: Street Wraith
-  weight: 0.75
-  avg_copies: 4.0
-- name: Cori-Steel Cutter
+- name: Thoughtseize
   weight: 0.75
   avg_copies: 4.0
 - name: Lava Dart
   weight: 0.75
   avg_copies: 4.0
+- name: Street Wraith
+  weight: 0.75
+  avg_copies: 4.0
+- name: Bloodstained Mire
+  weight: 0.75
+  avg_copies: 4.0
 - name: Damping Sphere
   weight: 0.75
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Cori-Steel Cutter
   weight: 0.75
   avg_copies: 4.0
 - name: Arid Mesa
   weight: 0.75
   avg_copies: 2.67
-- name: Wooded Foothills
+- name: Mutagenic Growth
   weight: 0.75
   avg_copies: 2.0
-- name: Mutagenic Growth
+- name: Wooded Foothills
   weight: 0.75
   avg_copies: 2.0
 - name: Violent Urge
@@ -90,22 +90,22 @@ top_cards:
 - name: Unearth
   weight: 0.25
   avg_copies: 2.0
+- name: Seal of Fire
+  weight: 0.25
+  avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.25
   avg_copies: 2.0
 - name: Surgical Extraction
   weight: 0.25
   avg_copies: 2.0
-- name: Seal of Fire
-  weight: 0.25
-  avg_copies: 2.0
 - name: Boggart Trawler
   weight: 0.25
   avg_copies: 1.0
-- name: Sundering Eruption
+- name: Troll of Khazad-dûm
   weight: 0.25
   avg_copies: 1.0
-- name: Troll of Khazad-dûm
+- name: Sundering Eruption
   weight: 0.25
   avg_copies: 1.0
 ---

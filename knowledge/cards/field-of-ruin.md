@@ -12,17 +12,17 @@ archetypes:
     weight: 0.88
     avg_copies: 3.32
   dimir-frog:
-    weight: 0.1053
+    weight: 0.1
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0455
+    weight: 0.0435
     avg_copies: 1.0
   mill:
     weight: 1.0
     avg_copies: 3.67
   boros-ponza:
     weight: 1.0
-    avg_copies: 3.87
+    avg_copies: 3.88
   grixis-control:
     weight: 1.0
     avg_copies: 2.0

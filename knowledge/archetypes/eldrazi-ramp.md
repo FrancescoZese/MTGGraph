@@ -3,22 +3,22 @@ colors:
 - R
 - G
 name: Eldrazi Ramp
-meta_share: 0.0229
+meta_share: 0.022
 list_count: 22
 top_cards:
 - name: Forest
   weight: 1.0
   avg_copies: 2.0
-- name: Ugin's Labyrinth
-  weight: 0.9545
-  avg_copies: 4.0
-- name: Sowing Mycospawn
-  weight: 0.9545
-  avg_copies: 4.0
 - name: Utopia Sprawl
   weight: 0.9545
   avg_copies: 4.0
 - name: Eldrazi Temple
+  weight: 0.9545
+  avg_copies: 4.0
+- name: Ugin's Labyrinth
+  weight: 0.9545
+  avg_copies: 4.0
+- name: Sowing Mycospawn
   weight: 0.9545
   avg_copies: 4.0
 - name: Kozilek's Command
@@ -72,10 +72,10 @@ top_cards:
 - name: Grafdigger's Cage
   weight: 0.7727
   avg_copies: 1.18
-- name: Commercial District
+- name: Bojuka Bog
   weight: 0.7727
   avg_copies: 1.0
-- name: Bojuka Bog
+- name: Commercial District
   weight: 0.7727
   avg_copies: 1.0
 - name: Icetill Explorer
@@ -123,37 +123,37 @@ top_cards:
 - name: Ensnaring Bridge
   weight: 0.3182
   avg_copies: 1.0
-- name: Tormod's Crypt
+- name: Engineered Explosives
   weight: 0.3182
   avg_copies: 1.0
 - name: Chalice of the Void
   weight: 0.3182
   avg_copies: 1.0
-- name: Engineered Explosives
+- name: Tormod's Crypt
   weight: 0.3182
   avg_copies: 1.0
 - name: Force of Vigor
   weight: 0.2727
   avg_copies: 1.33
-- name: Hedge Maze
-  weight: 0.2727
-  avg_copies: 1.0
 - name: Lightning Bolt
   weight: 0.2727
   avg_copies: 1.0
 - name: Meltdown
   weight: 0.2727
   avg_copies: 1.0
+- name: Hedge Maze
+  weight: 0.2727
+  avg_copies: 1.0
 - name: Nulldrifter
   weight: 0.2273
   avg_copies: 3.0
-- name: Talisman of Curiosity
+- name: Nature's Claim
   weight: 0.2273
   avg_copies: 2.0
 - name: Dismember
   weight: 0.2273
   avg_copies: 2.0
-- name: Nature's Claim
+- name: Talisman of Curiosity
   weight: 0.2273
   avg_copies: 2.0
 - name: Breeding Pool
@@ -168,25 +168,25 @@ top_cards:
 - name: Magus of the Moon
   weight: 0.1364
   avg_copies: 1.67
-- name: Strix Serenade
-  weight: 0.1364
-  avg_copies: 1.33
 - name: Herigast, Erupting Nullkite
   weight: 0.1364
   avg_copies: 1.33
-- name: Boseiju, Who Endures
+- name: Strix Serenade
   weight: 0.1364
-  avg_copies: 1.0
-- name: Gemstone Caverns
-  weight: 0.1364
-  avg_copies: 1.0
-- name: Damping Sphere
+  avg_copies: 1.33
+- name: Void Mirror
   weight: 0.1364
   avg_copies: 1.0
 - name: Pithing Needle
   weight: 0.1364
   avg_copies: 1.0
-- name: Void Mirror
+- name: Damping Sphere
+  weight: 0.1364
+  avg_copies: 1.0
+- name: Boseiju, Who Endures
+  weight: 0.1364
+  avg_copies: 1.0
+- name: Gemstone Caverns
   weight: 0.1364
   avg_copies: 1.0
 - name: Writhing Chrysalis
@@ -195,28 +195,28 @@ top_cards:
 - name: Cityscape Leveler
   weight: 0.0909
   avg_copies: 1.0
-- name: Summoner's Pact
-  weight: 0.0455
-  avg_copies: 4.0
-- name: Eldritch Evolution
-  weight: 0.0455
-  avg_copies: 4.0
-- name: Detect Intrusion
-  weight: 0.0455
-  avg_copies: 4.0
-- name: Allosaurus Rider
-  weight: 0.0455
-  avg_copies: 4.0
-- name: Pact of Negation
-  weight: 0.0455
-  avg_copies: 4.0
 - name: Glittering Wish
   weight: 0.0455
   avg_copies: 4.0
 - name: Gemstone Mine
   weight: 0.0455
   avg_copies: 4.0
+- name: Summoner's Pact
+  weight: 0.0455
+  avg_copies: 4.0
+- name: Detect Intrusion
+  weight: 0.0455
+  avg_copies: 4.0
+- name: Eldritch Evolution
+  weight: 0.0455
+  avg_copies: 4.0
+- name: Pact of Negation
+  weight: 0.0455
+  avg_copies: 4.0
 - name: Invasion of Gobakhan
+  weight: 0.0455
+  avg_copies: 4.0
+- name: Allosaurus Rider
   weight: 0.0455
   avg_copies: 4.0
 - name: Thrun, the Last Troll
@@ -225,7 +225,13 @@ top_cards:
 - name: Thought-Knot Seer
   weight: 0.0455
   avg_copies: 2.5
+- name: Blood Moon
+  weight: 0.0455
+  avg_copies: 2.0
 - name: Bridgeworks Battle
+  weight: 0.0455
+  avg_copies: 2.0
+- name: Blasphemous Act
   weight: 0.0455
   avg_copies: 2.0
 - name: Talisman of Resilience
@@ -243,94 +249,88 @@ top_cards:
 - name: Ghalta, Stampede Tyrant
   weight: 0.0455
   avg_copies: 2.0
-- name: Blood Moon
-  weight: 0.0455
-  avg_copies: 2.0
-- name: Blasphemous Act
-  weight: 0.0455
-  avg_copies: 2.0
 - name: Neoform
   weight: 0.0455
   avg_copies: 2.0
-- name: Vibrance
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Detention Sphere
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Wastescape Battlemage
-  weight: 0.0455
-  avg_copies: 1.0
 - name: Atraxa, Grand Unifier
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Lush Portico
   weight: 0.0455
   avg_copies: 1.0
 - name: Stump Stomp
   weight: 0.0455
   avg_copies: 1.0
-- name: Griselbrand
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Raph & Mikey, Troublemakers
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Firespout
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Arena of Glory
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Xenagos, God of Revels
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Endurance
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Ugin, the Spirit Dragon
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Ratchet Bomb
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Disciple of Freyalise
+- name: Palantír of Orthanc
   weight: 0.0455
   avg_copies: 1.0
 - name: Darksteel Citadel
   weight: 0.0455
   avg_copies: 1.0
-- name: Ureni, the Song Unending
+- name: Firespout
   weight: 0.0455
   avg_copies: 1.0
-- name: Nature's Chant
+- name: Soul-Guide Lantern
   weight: 0.0455
   avg_copies: 1.0
-- name: Ketria Triome
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Hooting Mandrills
+- name: Xenagos, God of Revels
   weight: 0.0455
   avg_copies: 1.0
 - name: Thief of Existence
   weight: 0.0455
   avg_copies: 1.0
+- name: Arena of Glory
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Detention Sphere
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Ureni, the Song Unending
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Vibrance
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Ketria Triome
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Wastescape Battlemage
+  weight: 0.0455
+  avg_copies: 1.0
 - name: Hedron Archive
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Nature's Chant
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Disciple of Freyalise
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Lush Portico
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Ratchet Bomb
   weight: 0.0455
   avg_copies: 1.0
 - name: Ilharg, the Raze-Boar
   weight: 0.0455
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Hooting Mandrills
   weight: 0.0455
   avg_copies: 1.0
-- name: Palantír of Orthanc
+- name: Endurance
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Griselbrand
   weight: 0.0455
   avg_copies: 1.0
 - name: Keen-Eyed Curator
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Meticulous Archive
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Ugin, the Spirit Dragon
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Raph & Mikey, Troublemakers
   weight: 0.0455
   avg_copies: 1.0
 ---

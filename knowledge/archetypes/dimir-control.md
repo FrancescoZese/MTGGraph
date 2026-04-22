@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: Dimir Control
-meta_share: 0.026
+meta_share: 0.025
 list_count: 25
 top_cards:
 - name: Fatal Push
@@ -117,19 +117,19 @@ top_cards:
 - name: The Meathook Massacre
   weight: 0.16
   avg_copies: 2.0
-- name: Brazen Borrower
+- name: Nihil Spellbomb
   weight: 0.12
   avg_copies: 1.33
-- name: Nihil Spellbomb
+- name: Brazen Borrower
   weight: 0.12
   avg_copies: 1.33
 - name: Toxic Deluge
   weight: 0.12
   avg_copies: 1.25
-- name: Sink into Stupor
+- name: Ashiok, Dream Render
   weight: 0.12
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Sink into Stupor
   weight: 0.12
   avg_copies: 1.0
 - name: Flame of Anor
@@ -138,7 +138,7 @@ top_cards:
 - name: Quantum Riddler
   weight: 0.08
   avg_copies: 2.0
-- name: Anoint with Affliction
+- name: Thundering Falls
   weight: 0.08
   avg_copies: 1.0
 - name: Psychic Frog
@@ -147,76 +147,76 @@ top_cards:
 - name: Preordain
   weight: 0.08
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Anoint with Affliction
   weight: 0.08
   avg_copies: 1.0
 - name: Snow-Covered Island
   weight: 0.04
   avg_copies: 4.0
-- name: Shadow of Doubt
+- name: Thoughtseize
   weight: 0.04
   avg_copies: 3.0
-- name: Fallen Shinobi
+- name: Shadow of Doubt
   weight: 0.04
   avg_copies: 3.0
 - name: Dismember
   weight: 0.04
   avg_copies: 3.0
-- name: Thoughtseize
+- name: Fallen Shinobi
   weight: 0.04
   avg_copies: 3.0
-- name: Bloodstained Mire
-  weight: 0.04
-  avg_copies: 2.0
-- name: Drown in the Loch
-  weight: 0.04
-  avg_copies: 2.0
-- name: Hurkyl's Recall
-  weight: 0.04
-  avg_copies: 2.0
-- name: High Noon
-  weight: 0.04
-  avg_copies: 2.0
 - name: Lightning Bolt
   weight: 0.04
   avg_copies: 2.0
 - name: Pest Control
   weight: 0.04
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Cryptic Command
   weight: 0.04
   avg_copies: 2.0
-- name: Cryptic Command
+- name: Bloodstained Mire
   weight: 0.04
   avg_copies: 2.0
 - name: Murktide Regent
   weight: 0.04
   avg_copies: 2.0
-- name: Jace, the Mind Sculptor
+- name: Damping Sphere
   weight: 0.04
-  avg_copies: 1.0
-- name: Lórien Revealed
+  avg_copies: 2.0
+- name: Hurkyl's Recall
   weight: 0.04
-  avg_copies: 1.0
-- name: Sunken Ruins
+  avg_copies: 2.0
+- name: Drown in the Loch
   weight: 0.04
-  avg_copies: 1.0
-- name: Hall of Storm Giants
+  avg_copies: 2.0
+- name: High Noon
   weight: 0.04
-  avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 0.04
-  avg_copies: 1.0
-- name: Gloomlake Verge
+  avg_copies: 2.0
+- name: Takenuma, Abandoned Mire
   weight: 0.04
   avg_copies: 1.0
 - name: Snow-Covered Swamp
   weight: 0.04
   avg_copies: 1.0
+- name: Sunken Ruins
+  weight: 0.04
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 0.04
+  avg_copies: 1.0
+- name: Lórien Revealed
+  weight: 0.04
+  avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.04
   avg_copies: 1.0
-- name: Takenuma, Abandoned Mire
+- name: Gloomlake Verge
+  weight: 0.04
+  avg_copies: 1.0
+- name: Hall of Storm Giants
+  weight: 0.04
+  avg_copies: 1.0
+- name: Jace, the Mind Sculptor
   weight: 0.04
   avg_copies: 1.0
 ---

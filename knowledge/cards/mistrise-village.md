@@ -6,13 +6,13 @@ name: Mistrise Village
 scryfall_id: d44bccbf-6fab-46e4-8ddb-6577e27ec6e8
 set: tdm
 type: Land
-meta_presence: 0.0177
+meta_presence: 0.018
 archetypes:
   azorius-control:
-    weight: 0.1818
+    weight: 0.1739
     avg_copies: 1.0
   living-end:
-    weight: 0.6111
+    weight: 0.6316
     avg_copies: 1.0
   bant-control:
     weight: 1.0

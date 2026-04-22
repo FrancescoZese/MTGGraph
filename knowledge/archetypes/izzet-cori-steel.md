@@ -3,7 +3,7 @@ colors:
 - U
 - R
 name: Izzet Cori-Steel
-meta_share: 0.0114
+meta_share: 0.011
 list_count: 11
 top_cards:
 - name: Mishra's Bauble
@@ -30,10 +30,10 @@ top_cards:
 - name: Mox Amber
   weight: 0.9091
   avg_copies: 3.9
-- name: Fiery Islet
+- name: Mox Opal
   weight: 0.9091
   avg_copies: 3.6
-- name: Mox Opal
+- name: Fiery Islet
   weight: 0.9091
   avg_copies: 3.6
 - name: Urza's Saga
@@ -42,10 +42,10 @@ top_cards:
 - name: Aether Spellbomb
   weight: 0.9091
   avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
+- name: Erayo, Soratami Ascendant
   weight: 0.8182
   avg_copies: 4.0
-- name: Erayo, Soratami Ascendant
+- name: Tamiyo, Inquisitive Student
   weight: 0.8182
   avg_copies: 4.0
 - name: Preordain
@@ -72,10 +72,10 @@ top_cards:
 - name: Force of Negation
   weight: 0.6364
   avg_copies: 1.43
-- name: Vexing Bauble
+- name: Pithing Needle
   weight: 0.6364
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Vexing Bauble
   weight: 0.6364
   avg_copies: 1.0
 - name: Test of Talents
@@ -93,10 +93,10 @@ top_cards:
 - name: Flame of Anor
   weight: 0.3636
   avg_copies: 2.25
-- name: Scalding Tarn
+- name: Lightning Bolt
   weight: 0.2727
   avg_copies: 4.0
-- name: Lightning Bolt
+- name: Scalding Tarn
   weight: 0.2727
   avg_copies: 4.0
 - name: Blood Moon
@@ -111,43 +111,43 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.1818
   avg_copies: 2.0
-- name: Mountain
-  weight: 0.1818
-  avg_copies: 1.0
 - name: Thundering Falls
   weight: 0.1818
   avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 0.1818
   avg_copies: 1.0
-- name: Ragavan, Nimble Pilferer
-  weight: 0.0909
-  avg_copies: 4.0
-- name: Expressive Iteration
-  weight: 0.0909
-  avg_copies: 4.0
+- name: Mountain
+  weight: 0.1818
+  avg_copies: 1.0
 - name: Dragon's Rage Channeler
+  weight: 0.0909
+  avg_copies: 4.0
+- name: Ragavan, Nimble Pilferer
   weight: 0.0909
   avg_copies: 4.0
 - name: Unholy Heat
   weight: 0.0909
   avg_copies: 4.0
-- name: Surgical Extraction
+- name: Expressive Iteration
   weight: 0.0909
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Experimental Synthesizer
-  weight: 0.0909
-  avg_copies: 3.0
-- name: Vivi Ornitier
   weight: 0.0909
   avg_copies: 3.0
 - name: Meltdown
   weight: 0.0909
   avg_copies: 3.0
-- name: Pyroclasm
+- name: Vivi Ornitier
+  weight: 0.0909
+  avg_copies: 3.0
+- name: Surgical Extraction
+  weight: 0.0909
+  avg_copies: 3.0
+- name: Misty Rainforest
   weight: 0.0909
   avg_copies: 2.0
-- name: Misty Rainforest
+- name: Pyroclasm
   weight: 0.0909
   avg_copies: 2.0
 - name: Invasive Surgery
@@ -156,22 +156,22 @@ top_cards:
 - name: Murktide Regent
   weight: 0.0909
   avg_copies: 2.0
-- name: Breeding Pool
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Skateboard
-  weight: 0.0909
-  avg_copies: 1.0
 - name: An Offer You Can't Refuse
   weight: 0.0909
   avg_copies: 1.0
-- name: Tormod's Crypt
+- name: Haywire Mite
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Breeding Pool
   weight: 0.0909
   avg_copies: 1.0
 - name: Shadowspear
   weight: 0.0909
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Skateboard
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Tormod's Crypt
   weight: 0.0909
   avg_copies: 1.0
 ---

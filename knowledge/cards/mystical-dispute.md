@@ -7,20 +7,20 @@ name: Mystical Dispute
 scryfall_id: fbe04cb8-a8b9-4241-baae-b398a2509a3a
 set: eld
 type: Instant
-meta_presence: 0.4324
+meta_presence: 0.4331
 archetypes:
   dimir-control:
     weight: 1.0
     avg_copies: 2.32
   dimir-frog:
     weight: 1.0
-    avg_copies: 2.11
+    avg_copies: 2.15
   mono-blue-belcher:
-    weight: 0.95
+    weight: 0.9545
     avg_copies: 2.05
   jeskai-energy:
     weight: 1.0
-    avg_copies: 2.3
+    avg_copies: 2.31
   goryo-reanimator:
     weight: 1.0
     avg_copies: 2.71
@@ -29,25 +29,25 @@ archetypes:
     avg_copies: 3.0
   azorius-control:
     weight: 1.0
-    avg_copies: 3.05
+    avg_copies: 3.0
   living-end:
-    weight: 0.9444
-    avg_copies: 3.29
+    weight: 0.9474
+    avg_copies: 3.33
   affinity:
-    weight: 0.8152
-    avg_copies: 1.35
+    weight: 0.8172
+    avg_copies: 1.36
   domain-zoo:
-    weight: 0.9688
-    avg_copies: 2.81
+    weight: 0.9706
+    avg_copies: 2.79
   mill:
     weight: 0.1667
     avg_copies: 2.0
   grixis-reanimator:
-    weight: 0.9444
-    avg_copies: 2.12
+    weight: 0.9474
+    avg_copies: 2.11
   neoform-combo:
-    weight: 0.9444
-    avg_copies: 3.35
+    weight: 0.95
+    avg_copies: 3.32
   mono-blue-tron:
     weight: 0.6667
     avg_copies: 2.0
@@ -58,14 +58,14 @@ archetypes:
     weight: 1.0
     avg_copies: 2.92
   izzet-prowess:
-    weight: 0.2105
+    weight: 0.2
     avg_copies: 1.25
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
   esper-blink:
-    weight: 0.6667
-    avg_copies: 2.17
+    weight: 0.7
+    avg_copies: 2.14
   sultai-reanimator:
     weight: 1.0
     avg_copies: 2.0
@@ -100,6 +100,9 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   esper-midrange:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-3:
     weight: 1.0
     avg_copies: 2.0
 ---

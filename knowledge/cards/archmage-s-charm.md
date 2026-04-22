@@ -10,6 +10,6 @@ type: Instant
 meta_presence: 0.001
 archetypes:
   dimir-frog:
-    weight: 0.0526
+    weight: 0.05
     avg_copies: 2.0
 ---

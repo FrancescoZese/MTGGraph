@@ -6,9 +6,9 @@ name: The Dominion Bracelet
 scryfall_id: f5360880-2849-45d6-b1aa-08c7e01083af
 set: eoe
 type: Legendary Artifact — Equipment
-meta_presence: 0.0021
+meta_presence: 0.002
 archetypes:
   eldrazi-tron:
-    weight: 0.05
+    weight: 0.0476
     avg_copies: 1.0
 ---

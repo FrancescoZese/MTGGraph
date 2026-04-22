@@ -7,7 +7,7 @@ name: Cultivator Colossus
 scryfall_id: 426ed66e-41b3-4e44-90a2-697aafaa8c5c
 set: inr
 type: Creature — Plant Beast
-meta_presence: 0.0364
+meta_presence: 0.0349
 archetypes:
   amulet-titan:
     weight: 0.8333

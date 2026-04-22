@@ -6,16 +6,16 @@ name: Plains
 scryfall_id: d85d0f25-a24a-4de0-9b8b-93fb5017bce9
 set: sos
 type: Basic Land — Plains
-meta_presence: 0.4116
+meta_presence: 0.4132
 archetypes:
   boros-energy:
-    weight: 0.975
-    avg_copies: 1.73
+    weight: 0.9757
+    avg_copies: 1.74
   jeskai-energy:
-    weight: 0.8684
+    weight: 0.8571
     avg_copies: 1.64
   eldrazi-tron:
-    weight: 0.025
+    weight: 0.0238
     avg_copies: 3.0
   goryo-reanimator:
     weight: 1.0
@@ -27,20 +27,20 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   mardu-blink:
-    weight: 0.3333
-    avg_copies: 1.5
+    weight: 0.4286
+    avg_copies: 1.33
   hammer-time:
     weight: 1.0
     avg_copies: 2.5
   boros-ponza:
     weight: 1.0
-    avg_copies: 3.4
+    avg_copies: 3.41
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
   esper-blink:
     weight: 1.0
-    avg_copies: 1.78
+    avg_copies: 1.7
   indomitable-creativity:
     weight: 0.5714
     avg_copies: 1.0
@@ -66,6 +66,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   naya-midrange:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-3:
     weight: 1.0
     avg_copies: 1.0
 ---

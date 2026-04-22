@@ -7,9 +7,9 @@ name: Thud
 scryfall_id: 11bed78a-c579-424a-8fcc-322ce2630dbc
 set: m19
 type: Sorcery
-meta_presence: 0.0042
+meta_presence: 0.005
 archetypes:
   cosmogoyf-fling:
-    weight: 0.8
+    weight: 0.8333
     avg_copies: 4.0
 ---

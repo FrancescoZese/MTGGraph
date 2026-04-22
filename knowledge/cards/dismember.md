@@ -4,8 +4,8 @@ archetypes:
     weight: 0.04
     avg_copies: 3.0
   eldrazi-tron:
-    weight: 0.975
-    avg_copies: 1.77
+    weight: 0.9762
+    avg_copies: 1.79
   amulet-titan:
     weight: 1.0
     avg_copies: 2.24
@@ -13,8 +13,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.67
   living-end:
-    weight: 0.5556
-    avg_copies: 2.1
+    weight: 0.5789
+    avg_copies: 2.09
   kethis-combo:
     weight: 1.0
     avg_copies: 2.0
@@ -33,7 +33,7 @@ archetypes:
 cmc: 3
 colors: []
 image: https://cards.scryfall.io/normal/front/3/d/3d286cf6-3e16-4941-9326-1818b1e06d69.jpg?1562261132
-meta_presence: 0.1299
+meta_presence: 0.1277
 name: Dismember
 scryfall_id: 3d286cf6-3e16-4941-9326-1818b1e06d69
 set: mm2

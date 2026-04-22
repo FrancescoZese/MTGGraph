@@ -9,6 +9,6 @@ type: Land
 meta_presence: 0.001
 archetypes:
   eldrazi-tron:
-    weight: 0.025
+    weight: 0.0238
     avg_copies: 2.0
 ---

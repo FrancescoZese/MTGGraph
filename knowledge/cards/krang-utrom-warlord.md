@@ -6,9 +6,9 @@ name: Krang, Utrom Warlord
 scryfall_id: 88d36c32-d6f9-46e4-9cc8-08e6c0ff05d2
 set: tmt
 type: Legendary Artifact Creature — Utrom Robot
-meta_presence: 0.0021
+meta_presence: 0.002
 archetypes:
   eldrazi-tron:
-    weight: 0.05
+    weight: 0.0476
     avg_copies: 1.0
 ---

@@ -1,31 +1,31 @@
 ---
 archetypes:
   boros-energy:
-    weight: 0.895
-    avg_copies: 1.29
+    weight: 0.8981
+    avg_copies: 1.31
   dimir-control:
     weight: 0.2
     avg_copies: 1.4
   jeskai-energy:
-    weight: 0.8158
+    weight: 0.8182
     avg_copies: 1.06
   goryo-reanimator:
-    weight: 0.8387
-    avg_copies: 1.15
+    weight: 0.8
+    avg_copies: 1.14
   necrodominance:
     weight: 0.7222
     avg_copies: 1.62
   azorius-control:
-    weight: 0.6364
-    avg_copies: 1.21
+    weight: 0.6522
+    avg_copies: 1.2
   domain-zoo:
-    weight: 0.1875
-    avg_copies: 1.33
+    weight: 0.2059
+    avg_copies: 1.29
   mill:
     weight: 1.0
     avg_copies: 2.33
   grixis-reanimator:
-    weight: 0.2778
+    weight: 0.2632
     avg_copies: 1.2
   burn:
     weight: 0.5
@@ -37,22 +37,22 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   hollow-one:
-    weight: 0.5385
-    avg_copies: 2.0
+    weight: 0.5714
+    avg_copies: 1.88
   boros-ponza:
-    weight: 0.2
+    weight: 0.1765
     avg_copies: 1.0
   eldrazi-ramp:
     weight: 0.0455
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.8158
+    weight: 0.825
     avg_copies: 1.51
   esper-blink:
-    weight: 0.2222
+    weight: 0.3
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.25
+    weight: 0.2222
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.4286
@@ -73,7 +73,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 2.0
   naya-midrange:
     weight: 1.0

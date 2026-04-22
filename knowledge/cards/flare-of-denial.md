@@ -10,10 +10,10 @@ type: Instant
 meta_presence: 0.0489
 archetypes:
   mono-blue-belcher:
-    weight: 0.7
-    avg_copies: 2.64
+    weight: 0.7273
+    avg_copies: 2.75
   living-end:
-    weight: 0.2222
+    weight: 0.2105
     avg_copies: 1.0
   simic-ritual:
     weight: 1.0

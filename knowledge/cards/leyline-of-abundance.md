@@ -7,9 +7,9 @@ name: Leyline of Abundance
 scryfall_id: c68e8342-78d2-4826-a287-64c371b97d19
 set: m20
 type: Enchantment
-meta_presence: 0.0021
+meta_presence: 0.003
 archetypes:
   mono-green-ramp:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.0
 ---

@@ -10,6 +10,6 @@ type: Instant — Trap
 meta_presence: 0.001
 archetypes:
   domain-zoo:
-    weight: 0.0312
+    weight: 0.0294
     avg_copies: 3.0
 ---

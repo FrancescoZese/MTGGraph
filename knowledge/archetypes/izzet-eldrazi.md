@@ -3,19 +3,13 @@ colors:
 - U
 - R
 name: Izzet Eldrazi
-meta_share: 0.0021
+meta_share: 0.002
 list_count: 2
 top_cards:
-- name: Stock Up
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ugin's Labyrinth
+- name: Talisman of Creativity
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
-  weight: 1.0
-  avg_copies: 4.0
-- name: Talisman of Creativity
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
@@ -24,10 +18,16 @@ top_cards:
 - name: Through the Breach
   weight: 1.0
   avg_copies: 4.0
+- name: Kozilek's Command
+  weight: 1.0
+  avg_copies: 4.0
+- name: Stock Up
+  weight: 1.0
+  avg_copies: 4.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Kozilek's Command
+- name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
 - name: Emrakul, the Aeons Torn
@@ -42,13 +42,10 @@ top_cards:
 - name: Nulldrifter
   weight: 1.0
   avg_copies: 3.0
-- name: Mystical Dispute
+- name: Soulless Jailer
   weight: 1.0
   avg_copies: 2.0
 - name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 2.0
-- name: Island
   weight: 1.0
   avg_copies: 2.0
 - name: Shivan Reef
@@ -57,10 +54,13 @@ top_cards:
 - name: Steam Vents
   weight: 1.0
   avg_copies: 2.0
-- name: Disruptor Flute
+- name: Island
   weight: 1.0
   avg_copies: 2.0
-- name: Soulless Jailer
+- name: Mystical Dispute
+  weight: 1.0
+  avg_copies: 2.0
+- name: Disruptor Flute
   weight: 1.0
   avg_copies: 2.0
 - name: Spell Snare
@@ -69,28 +69,28 @@ top_cards:
 - name: Kozilek's Return
   weight: 1.0
   avg_copies: 1.5
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 1.0
-- name: Dress Down
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.0
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
+- name: Dress Down
+  weight: 1.0
+  avg_copies: 1.0
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 1.0
-- name: Vexing Bauble
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 1.0
-- name: Talisman of Curiosity
-  weight: 0.5
-  avg_copies: 2.0
 - name: Fable of the Mirror-Breaker
   weight: 0.5
   avg_copies: 2.0
 - name: Remand
+  weight: 0.5
+  avg_copies: 2.0
+- name: Talisman of Curiosity
   weight: 0.5
   avg_copies: 2.0
 - name: Thundering Falls
