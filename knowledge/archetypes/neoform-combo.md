@@ -42,10 +42,10 @@ top_cards:
 - name: Breeding Pool
   weight: 0.9524
   avg_copies: 1.05
-- name: Xenagos, God of Revels
+- name: Griselbrand
   weight: 0.9524
   avg_copies: 1.0
-- name: Griselbrand
+- name: Xenagos, God of Revels
   weight: 0.9524
   avg_copies: 1.0
 - name: Planar Genesis
@@ -69,10 +69,10 @@ top_cards:
 - name: Hooting Mandrills
   weight: 0.9048
   avg_copies: 1.05
-- name: Atraxa, Grand Unifier
+- name: Boseiju, Who Endures
   weight: 0.9048
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Atraxa, Grand Unifier
   weight: 0.9048
   avg_copies: 1.0
 - name: Veil of Summer
@@ -81,10 +81,10 @@ top_cards:
 - name: Snow-Covered Forest
   weight: 0.8571
   avg_copies: 1.11
-- name: Snow-Covered Island
+- name: Elesh Norn, Grand Cenobite
   weight: 0.8571
   avg_copies: 1.0
-- name: Elesh Norn, Grand Cenobite
+- name: Snow-Covered Island
   weight: 0.8571
   avg_copies: 1.0
 - name: Ureni, the Song Unending
@@ -99,10 +99,10 @@ top_cards:
 - name: Ice-Fang Coatl
   weight: 0.7143
   avg_copies: 3.6
-- name: Abhorrent Oculus
+- name: Endurance
   weight: 0.7143
   avg_copies: 1.0
-- name: Endurance
+- name: Abhorrent Oculus
   weight: 0.7143
   avg_copies: 1.0
 - name: Scalding Tarn
@@ -132,19 +132,19 @@ top_cards:
 - name: Forest
   weight: 0.0952
   avg_copies: 1.0
-- name: Glittering Wish
+- name: Invasion of Gobakhan
   weight: 0.0476
   avg_copies: 4.0
-- name: Hexing Squelcher
+- name: Glittering Wish
   weight: 0.0476
   avg_copies: 4.0
 - name: Detect Intrusion
   weight: 0.0476
   avg_copies: 4.0
-- name: Gemstone Mine
+- name: Hexing Squelcher
   weight: 0.0476
   avg_copies: 4.0
-- name: Invasion of Gobakhan
+- name: Gemstone Mine
   weight: 0.0476
   avg_copies: 4.0
 - name: Thrun, the Last Troll
@@ -153,31 +153,19 @@ top_cards:
 - name: Eladamri's Call
   weight: 0.0476
   avg_copies: 2.0
+- name: Firespout
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Preordain
+  weight: 0.0476
+  avg_copies: 1.0
 - name: Commercial District
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Lush Portico
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Brainsurge
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Island
   weight: 0.0476
   avg_copies: 1.0
 - name: Borborygmos Enraged
   weight: 0.0476
   avg_copies: 1.0
-- name: Spell Snare
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Firespout
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Detention Sphere
+- name: Brainsurge
   weight: 0.0476
   avg_copies: 1.0
 - name: Raph & Mikey, Troublemakers
@@ -186,13 +174,25 @@ top_cards:
 - name: Meticulous Archive
   weight: 0.0476
   avg_copies: 1.0
-- name: Preordain
+- name: Lush Portico
   weight: 0.0476
   avg_copies: 1.0
 - name: Stump Stomp
   weight: 0.0476
   avg_copies: 1.0
+- name: Detention Sphere
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Island
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.0476
+  avg_copies: 1.0
 - name: Nature's Chant
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Spell Snare
   weight: 0.0476
   avg_copies: 1.0
 ---

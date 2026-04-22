@@ -29,9 +29,6 @@ archetypes:
   mardu-blink:
     weight: 1.0
     avg_copies: 1.0
-  hollow-one:
-    weight: 0.0667
-    avg_copies: 1.0
   boros-ponza:
     weight: 0.8824
     avg_copies: 3.6
@@ -49,6 +46,9 @@ archetypes:
     avg_copies: 1.0
   jeskai-control:
     weight: 0.3333
+    avg_copies: 1.0
+  scapeshift-combo:
+    weight: 0.25
     avg_copies: 1.0
   naya-midrange:
     weight: 1.0

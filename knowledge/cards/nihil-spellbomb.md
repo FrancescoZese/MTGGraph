@@ -33,7 +33,7 @@ archetypes:
     weight: 0.1429
     avg_copies: 1.0
   hollow-one:
-    weight: 0.2667
+    weight: 0.2857
     avg_copies: 2.25
   sultai-reanimator:
     weight: 1.0

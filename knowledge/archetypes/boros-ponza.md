@@ -12,10 +12,10 @@ top_cards:
 - name: Path to Exile
   weight: 1.0
   avg_copies: 4.0
-- name: Galvanic Discharge
+- name: Demolition Field
   weight: 1.0
   avg_copies: 3.88
-- name: Demolition Field
+- name: Galvanic Discharge
   weight: 1.0
   avg_copies: 3.88
 - name: Field of Ruin
@@ -96,10 +96,10 @@ top_cards:
 - name: March of Otherworldly Light
   weight: 0.1765
   avg_copies: 1.67
-- name: Sunbaked Canyon
+- name: Surgical Extraction
   weight: 0.1765
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Sunbaked Canyon
   weight: 0.1765
   avg_copies: 1.0
 - name: Soul-Guide Lantern

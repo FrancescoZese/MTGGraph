@@ -37,7 +37,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   hollow-one:
-    weight: 0.6
+    weight: 0.6429
     avg_copies: 1.89
   boros-ponza:
     weight: 0.1765

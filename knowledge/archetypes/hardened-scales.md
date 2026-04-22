@@ -8,7 +8,10 @@ top_cards:
 - name: Hardened Scales
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Saga
+- name: Arcbound Ravager
+  weight: 1.0
+  avg_copies: 4.0
+- name: Walking Ballista
   weight: 1.0
   avg_copies: 4.0
 - name: Zabaz, the Glimmerwasp
@@ -17,10 +20,7 @@ top_cards:
 - name: Inkmoth Nexus
   weight: 1.0
   avg_copies: 4.0
-- name: Walking Ballista
-  weight: 1.0
-  avg_copies: 4.0
-- name: Arcbound Ravager
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Opal
@@ -35,18 +35,15 @@ top_cards:
 - name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 3.0
-- name: Whipflare
+- name: Forest
   weight: 1.0
   avg_copies: 2.33
-- name: Forest
+- name: Whipflare
   weight: 1.0
   avg_copies: 2.33
 - name: Arcbound Worker
   weight: 1.0
   avg_copies: 2.0
-- name: Welding Jar
-  weight: 1.0
-  avg_copies: 1.67
 - name: Nature's Claim
   weight: 1.0
   avg_copies: 1.67
@@ -56,10 +53,13 @@ top_cards:
 - name: Dismember
   weight: 1.0
   avg_copies: 1.67
-- name: Grafdigger's Cage
+- name: Welding Jar
+  weight: 1.0
+  avg_copies: 1.67
+- name: The Ozolith
   weight: 1.0
   avg_copies: 1.0
-- name: The Ozolith
+- name: Grafdigger's Cage
   weight: 1.0
   avg_copies: 1.0
 - name: Grove of the Burnwillows
@@ -80,13 +80,10 @@ top_cards:
 - name: The Ooze
   weight: 0.6667
   avg_copies: 1.5
-- name: Tormod's Crypt
-  weight: 0.6667
-  avg_copies: 1.0
 - name: Vexing Bauble
   weight: 0.6667
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Pendelhaven
   weight: 0.6667
   avg_copies: 1.0
 - name: Veil of Summer
@@ -95,7 +92,10 @@ top_cards:
 - name: Haywire Mite
   weight: 0.6667
   avg_copies: 1.0
-- name: Pendelhaven
+- name: Pithing Needle
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Tormod's Crypt
   weight: 0.6667
   avg_copies: 1.0
 - name: Metallic Mimic
@@ -116,16 +116,16 @@ top_cards:
 - name: Shadowspear
   weight: 0.3333
   avg_copies: 1.0
-- name: Bridgeworks Battle
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Heroic Intervention
+- name: Scrapyard Recombiner
   weight: 0.3333
   avg_copies: 1.0
 - name: Force of Vigor
   weight: 0.3333
   avg_copies: 1.0
-- name: Scrapyard Recombiner
+- name: Bridgeworks Battle
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Heroic Intervention
   weight: 0.3333
   avg_copies: 1.0
 ---

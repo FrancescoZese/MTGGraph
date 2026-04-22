@@ -18,9 +18,6 @@ archetypes:
   living-end:
     weight: 0.4737
     avg_copies: 2.33
-  hollow-one:
-    weight: 0.0667
-    avg_copies: 2.0
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 1.73
@@ -47,7 +44,7 @@ archetypes:
     avg_copies: 4.0
   scapeshift-combo:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 2.75
   unknown-3:
     weight: 1.0
     avg_copies: 3.0

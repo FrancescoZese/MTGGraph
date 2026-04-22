@@ -12,13 +12,10 @@ archetypes:
   amulet-titan:
     weight: 0.3095
     avg_copies: 1.06
-  hollow-one:
-    weight: 0.0667
-    avg_copies: 4.0
   eldrazi-ramp:
     weight: 0.7619
     avg_copies: 1.88
   scapeshift-combo:
     weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 1.75
 ---

@@ -32,9 +32,6 @@ archetypes:
   neoform-combo:
     weight: 0.0476
     avg_copies: 1.0
-  hollow-one:
-    weight: 0.0667
-    avg_copies: 1.0
   simic-ritual:
     weight: 0.04
     avg_copies: 1.0
@@ -68,4 +65,7 @@ archetypes:
   izzet-wizards:
     weight: 1.0
     avg_copies: 2.0
+  scapeshift-combo:
+    weight: 0.25
+    avg_copies: 1.0
 ---

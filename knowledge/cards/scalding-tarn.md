@@ -39,7 +39,7 @@ archetypes:
     weight: 0.75
     avg_copies: 1.67
   hollow-one:
-    weight: 0.2
+    weight: 0.2143
     avg_copies: 1.33
   simic-ritual:
     weight: 0.04

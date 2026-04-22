@@ -1,5 +1,5 @@
 ---
-archetype: hollow-one
+archetype: scapeshift-combo
 date: '2026-04-18'
 finish: 6th
 pilot: gurig

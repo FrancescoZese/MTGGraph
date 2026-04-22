@@ -12,7 +12,7 @@ archetypes:
   amulet-titan:
     weight: 1.0
     avg_copies: 3.33
-  hollow-one:
-    weight: 0.0667
+  scapeshift-combo:
+    weight: 0.25
     avg_copies: 2.0
 ---

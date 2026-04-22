@@ -10,49 +10,49 @@ top_cards:
 - name: Devourer of Destiny
   weight: 1.0
   avg_copies: 4.0
-- name: Gemstone Mine
-  weight: 1.0
-  avg_copies: 4.0
-- name: Blackcleave Cliffs
-  weight: 1.0
-  avg_copies: 4.0
-- name: Chancellor of the Annex
-  weight: 1.0
-  avg_copies: 4.0
 - name: Chancellor of the Tangle
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thud
-  weight: 1.0
-  avg_copies: 4.0
-- name: Gemstone Caverns
-  weight: 1.0
-  avg_copies: 4.0
-- name: Plunge into Darkness
-  weight: 1.0
-  avg_copies: 4.0
-- name: Spoils of the Vault
   weight: 1.0
   avg_copies: 4.0
 - name: Cosmogoyf
   weight: 1.0
   avg_copies: 4.0
-- name: Serum Powder
+- name: Gemstone Caverns
+  weight: 1.0
+  avg_copies: 4.0
+- name: Thud
+  weight: 1.0
+  avg_copies: 4.0
+- name: Plunge into Darkness
+  weight: 1.0
+  avg_copies: 4.0
+- name: Blackcleave Cliffs
+  weight: 1.0
+  avg_copies: 4.0
+- name: Spoils of the Vault
+  weight: 1.0
+  avg_copies: 4.0
+- name: Chancellor of the Annex
+  weight: 1.0
+  avg_copies: 4.0
+- name: Gemstone Mine
+  weight: 1.0
+  avg_copies: 4.0
+- name: Copperline Gorge
   weight: 1.0
   avg_copies: 3.4
-- name: Copperline Gorge
+- name: Serum Powder
   weight: 1.0
   avg_copies: 3.4
 - name: Pact of Negation
   weight: 1.0
   avg_copies: 3.33
-- name: Blooming Marsh
-  weight: 1.0
-  avg_copies: 3.2
 - name: Cavern of Souls
   weight: 1.0
   avg_copies: 3.2
 - name: Inquisition of Kozilek
+  weight: 1.0
+  avg_copies: 3.2
+- name: Blooming Marsh
   weight: 1.0
   avg_copies: 3.2
 - name: Summoner's Pact

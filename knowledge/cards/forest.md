@@ -23,9 +23,6 @@ archetypes:
   neoform-combo:
     weight: 0.0952
     avg_copies: 1.0
-  hollow-one:
-    weight: 0.0667
-    avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 1.82
@@ -58,7 +55,7 @@ archetypes:
     avg_copies: 1.0
   scapeshift-combo:
     weight: 1.0
-    avg_copies: 3.67
+    avg_copies: 3.0
   unknown-3:
     weight: 1.0
     avg_copies: 1.0

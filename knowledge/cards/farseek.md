@@ -9,7 +9,7 @@ set: eoc
 type: Sorcery
 meta_presence: 0.001
 archetypes:
-  hollow-one:
-    weight: 0.0667
+  scapeshift-combo:
+    weight: 0.25
     avg_copies: 3.0
 ---

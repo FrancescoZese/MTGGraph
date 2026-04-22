@@ -8,10 +8,10 @@ set: eld
 type: Land — Mountain
 meta_presence: 0.008
 archetypes:
-  hollow-one:
-    weight: 0.0667
-    avg_copies: 1.0
   indomitable-creativity:
     weight: 1.0
     avg_copies: 3.0
+  scapeshift-combo:
+    weight: 0.25
+    avg_copies: 1.0
 ---

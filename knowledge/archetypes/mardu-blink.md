@@ -10,10 +10,10 @@ top_cards:
 - name: Phlage, Titan of Fire's Fury
   weight: 1.0
   avg_copies: 4.0
-- name: Overlord of the Balemurk
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
@@ -31,10 +31,10 @@ top_cards:
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 2.43
-- name: Flickerwisp
+- name: High Noon
   weight: 1.0
   avg_copies: 2.14
-- name: High Noon
+- name: Flickerwisp
   weight: 1.0
   avg_copies: 2.14
 - name: Arena of Glory
@@ -49,13 +49,13 @@ top_cards:
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.86
+- name: Wear
+  weight: 1.0
+  avg_copies: 1.71
 - name: Detective's Phoenix
   weight: 1.0
   avg_copies: 1.71
 - name: Pinnacle Monk
-  weight: 1.0
-  avg_copies: 1.71
-- name: Wear
   weight: 1.0
   avg_copies: 1.71
 - name: Wrath of the Skies
@@ -64,19 +64,19 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.14
-- name: Blood Crypt
+- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 1.0
   avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 1.0
-  avg_copies: 1.0
 - name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Sacred Foundry
+  weight: 1.0
+  avg_copies: 1.0
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Galvanic Discharge
@@ -91,10 +91,10 @@ top_cards:
 - name: Fable of the Mirror-Breaker
   weight: 0.8571
   avg_copies: 1.67
-- name: Orcish Bowmasters
+- name: Shadowy Backstreet
   weight: 0.8571
   avg_copies: 1.0
-- name: Shadowy Backstreet
+- name: Orcish Bowmasters
   weight: 0.8571
   avg_copies: 1.0
 - name: Damping Sphere
@@ -103,10 +103,10 @@ top_cards:
 - name: Snow-Covered Plains
   weight: 0.5714
   avg_copies: 2.0
-- name: Snow-Covered Mountain
+- name: Containment Priest
   weight: 0.5714
   avg_copies: 1.0
-- name: Containment Priest
+- name: Snow-Covered Mountain
   weight: 0.5714
   avg_copies: 1.0
 - name: Plains
@@ -124,10 +124,10 @@ top_cards:
 - name: Boggart Trawler
   weight: 0.2857
   avg_copies: 1.0
-- name: Emperor of Bones
+- name: Unholy Heat
   weight: 0.1429
   avg_copies: 3.0
-- name: Unholy Heat
+- name: Emperor of Bones
   weight: 0.1429
   avg_copies: 3.0
 - name: The Legend of Roku

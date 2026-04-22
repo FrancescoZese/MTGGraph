@@ -18,7 +18,7 @@ archetypes:
     weight: 0.5
     avg_copies: 4.0
   hollow-one:
-    weight: 0.6667
+    weight: 0.7143
     avg_copies: 3.8
   kethis-combo:
     weight: 1.0

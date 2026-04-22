@@ -33,8 +33,8 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   hollow-one:
-    weight: 0.7333
-    avg_copies: 2.0
+    weight: 0.7143
+    avg_copies: 1.9
   izzet-prowess:
     weight: 0.6829
     avg_copies: 2.57
@@ -58,6 +58,9 @@ archetypes:
     avg_copies: 2.67
   bant-ritual:
     weight: 1.0
+    avg_copies: 3.0
+  scapeshift-combo:
+    weight: 0.25
     avg_copies: 3.0
   naya-midrange:
     weight: 1.0

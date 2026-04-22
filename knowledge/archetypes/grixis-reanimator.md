@@ -7,31 +7,31 @@ name: Grixis Reanimator
 meta_share: 0.019
 list_count: 19
 top_cards:
-- name: Psychic Frog
-  weight: 1.0
-  avg_copies: 4.0
-- name: Persist
-  weight: 1.0
-  avg_copies: 4.0
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodstained Mire
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
-- name: Archon of Cruelty
+- name: Persist
+  weight: 1.0
+  avg_copies: 4.0
+- name: Psychic Frog
+  weight: 1.0
+  avg_copies: 4.0
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
 - name: Abhorrent Oculus
   weight: 1.0
   avg_copies: 3.84
-- name: Faithless Looting
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 3.84
-- name: Thoughtseize
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 3.84
 - name: Emperor of Bones
@@ -46,10 +46,10 @@ top_cards:
 - name: Meltdown
   weight: 1.0
   avg_copies: 2.05
-- name: Watery Grave
+- name: Pyroclasm
   weight: 1.0
   avg_copies: 1.89
-- name: Pyroclasm
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.89
 - name: Undercity Sewers
@@ -61,16 +61,16 @@ top_cards:
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 1.05
-- name: Blood Crypt
-  weight: 1.0
-  avg_copies: 1.0
-- name: Island
+- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Island
+  weight: 1.0
+  avg_copies: 1.0
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -124,13 +124,13 @@ top_cards:
 - name: Leyline of the Void
   weight: 0.0526
   avg_copies: 3.0
+- name: Troll of Khazad-dûm
+  weight: 0.0526
+  avg_copies: 1.0
 - name: Harvester of Misery
   weight: 0.0526
   avg_copies: 1.0
 - name: Spell Snare
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Troll of Khazad-dûm
   weight: 0.0526
   avg_copies: 1.0
 ---

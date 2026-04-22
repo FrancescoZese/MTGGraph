@@ -7,19 +7,19 @@ name: Esper Blink
 meta_share: 0.01
 list_count: 10
 top_cards:
+- name: Solitude
+  weight: 1.0
+  avg_copies: 4.0
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marsh Flats
+- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.9
-- name: Phelia, Exuberant Shepherd
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 3.9
 - name: Fatal Push
@@ -34,10 +34,10 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
-- name: Wrath of the Skies
+- name: Damping Sphere
   weight: 1.0
   avg_copies: 2.7
-- name: Damping Sphere
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.7
 - name: Godless Shrine
@@ -52,13 +52,13 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.1
-- name: Watery Grave
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
 - name: Shadowy Backstreet
@@ -67,10 +67,10 @@ top_cards:
 - name: Thoughtseize
   weight: 0.9
   avg_copies: 3.6
-- name: Emperor of Bones
+- name: Ephemerate
   weight: 0.9
   avg_copies: 2.67
-- name: Ephemerate
+- name: Emperor of Bones
   weight: 0.9
   avg_copies: 2.67
 - name: Flickerwisp
@@ -79,10 +79,10 @@ top_cards:
 - name: Polluted Delta
   weight: 0.9
   avg_copies: 1.89
-- name: Undercity Sewers
+- name: Boggart Trawler
   weight: 0.9
   avg_copies: 1.0
-- name: Boggart Trawler
+- name: Undercity Sewers
   weight: 0.9
   avg_copies: 1.0
 - name: High Noon
@@ -97,10 +97,10 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.5
   avg_copies: 2.6
-- name: Island
+- name: Surgical Extraction
   weight: 0.3
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Island
   weight: 0.3
   avg_copies: 1.0
 - name: Psychic Frog
@@ -112,40 +112,40 @@ top_cards:
 - name: Force of Negation
   weight: 0.1
   avg_copies: 4.0
-- name: No More Lies
-  weight: 0.1
-  avg_copies: 4.0
 - name: Subtlety
   weight: 0.1
   avg_copies: 4.0
-- name: Clarion Conqueror
+- name: No More Lies
   weight: 0.1
-  avg_copies: 2.0
+  avg_copies: 4.0
 - name: White Orchid Phantom
   weight: 0.1
   avg_copies: 2.0
-- name: March of Otherworldly Light
+- name: Clarion Conqueror
+  weight: 0.1
+  avg_copies: 2.0
+- name: Windswept Heath
   weight: 0.1
   avg_copies: 1.0
 - name: Emptiness
   weight: 0.1
   avg_copies: 1.0
-- name: Celestial Purge
-  weight: 0.1
-  avg_copies: 1.0
-- name: Floodfarm Verge
-  weight: 0.1
-  avg_copies: 1.0
 - name: Bleachbone Verge
+  weight: 0.1
+  avg_copies: 1.0
+- name: Hydroelectric Specimen
   weight: 0.1
   avg_copies: 1.0
 - name: Strix Serenade
   weight: 0.1
   avg_copies: 1.0
-- name: Windswept Heath
+- name: Celestial Purge
   weight: 0.1
   avg_copies: 1.0
-- name: Hydroelectric Specimen
+- name: March of Otherworldly Light
+  weight: 0.1
+  avg_copies: 1.0
+- name: Floodfarm Verge
   weight: 0.1
   avg_copies: 1.0
 ---

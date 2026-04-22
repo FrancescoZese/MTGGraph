@@ -18,8 +18,8 @@ archetypes:
     weight: 0.0476
     avg_copies: 1.0
   hollow-one:
-    weight: 0.1333
-    avg_copies: 2.0
+    weight: 0.0714
+    avg_copies: 1.0
   eldrazi-ramp:
     weight: 0.8095
     avg_copies: 1.0
@@ -29,6 +29,9 @@ archetypes:
   dredge:
     weight: 0.3333
     avg_copies: 1.0
+  scapeshift-combo:
+    weight: 0.25
+    avg_copies: 3.0
   naya-midrange:
     weight: 1.0
     avg_copies: 1.0

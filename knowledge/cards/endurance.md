@@ -40,7 +40,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   scapeshift-combo:
-    weight: 1.0
+    weight: 0.75
     avg_copies: 1.0
   unknown-3:
     weight: 1.0

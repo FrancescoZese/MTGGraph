@@ -9,10 +9,10 @@ top_cards:
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 3.85
-- name: Counterspell
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 3.7
-- name: Psychic Frog
+- name: Counterspell
   weight: 1.0
   avg_copies: 3.7
 - name: Fatal Push
@@ -141,28 +141,28 @@ top_cards:
 - name: Gloomlake Verge
   weight: 0.15
   avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.15
-  avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 0.15
   avg_copies: 1.0
-- name: Mishra's Bauble
+- name: Meticulous Archive
+  weight: 0.15
+  avg_copies: 1.0
+- name: Moonshadow
   weight: 0.1
   avg_copies: 4.0
-- name: Moonshadow
+- name: Mishra's Bauble
   weight: 0.1
   avg_copies: 4.0
 - name: Consult the Star Charts
   weight: 0.1
   avg_copies: 2.0
-- name: Shoot the Sheriff
+- name: Teferi, Time Raveler
   weight: 0.1
   avg_copies: 1.0
 - name: Field of Ruin
   weight: 0.1
   avg_copies: 1.0
-- name: Teferi, Time Raveler
+- name: Shoot the Sheriff
   weight: 0.1
   avg_copies: 1.0
 - name: Consider
@@ -171,9 +171,6 @@ top_cards:
 - name: Dress Down
   weight: 0.05
   avg_copies: 3.0
-- name: Emperor of Bones
-  weight: 0.05
-  avg_copies: 2.0
 - name: Dauthi Voidwalker
   weight: 0.05
   avg_copies: 2.0
@@ -183,19 +180,19 @@ top_cards:
 - name: Archmage's Charm
   weight: 0.05
   avg_copies: 2.0
+- name: Emperor of Bones
+  weight: 0.05
+  avg_copies: 2.0
 - name: Strix Serenade
   weight: 0.05
   avg_copies: 2.0
 - name: Stony Silence
   weight: 0.05
   avg_copies: 2.0
+- name: Vanishing Verse
+  weight: 0.05
+  avg_copies: 1.0
 - name: Celestial Purge
-  weight: 0.05
-  avg_copies: 1.0
-- name: High Noon
-  weight: 0.05
-  avg_copies: 1.0
-- name: Damnation
   weight: 0.05
   avg_copies: 1.0
 - name: Ashiok, Dream Render
@@ -204,10 +201,13 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.05
   avg_copies: 1.0
-- name: Prismatic Ending
+- name: Damnation
   weight: 0.05
   avg_copies: 1.0
-- name: Vanishing Verse
+- name: High Noon
+  weight: 0.05
+  avg_copies: 1.0
+- name: Prismatic Ending
   weight: 0.05
   avg_copies: 1.0
 ---

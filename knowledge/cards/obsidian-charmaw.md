@@ -25,7 +25,7 @@ archetypes:
     weight: 0.8571
     avg_copies: 2.33
   hollow-one:
-    weight: 0.2667
+    weight: 0.2857
     avg_copies: 2.5
   izzet-prowess:
     weight: 0.0976

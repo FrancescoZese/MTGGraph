@@ -39,8 +39,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   hollow-one:
-    weight: 0.8667
-    avg_copies: 2.23
+    weight: 0.8571
+    avg_copies: 2.25
   boros-ponza:
     weight: 1.0
     avg_copies: 2.06
@@ -97,7 +97,7 @@ archetypes:
     avg_copies: 3.0
   scapeshift-combo:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 2.75
   unknown-1:
     weight: 1.0
     avg_copies: 1.0

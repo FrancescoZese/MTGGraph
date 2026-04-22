@@ -16,7 +16,7 @@ archetypes:
     weight: 0.1429
     avg_copies: 3.0
   hollow-one:
-    weight: 0.2667
+    weight: 0.2857
     avg_copies: 2.0
   eldrazi-ramp:
     weight: 0.5714

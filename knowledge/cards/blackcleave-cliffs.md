@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.007
 archetypes:
   hollow-one:
-    weight: 0.0667
+    weight: 0.0714
     avg_copies: 1.0
   rakdos-lantern-combo:
     weight: 1.0

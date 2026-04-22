@@ -13,10 +13,10 @@ top_cards:
 - name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
-- name: Flame of Anor
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Consign to Memory
+- name: Flame of Anor
   weight: 1.0
   avg_copies: 4.0
 - name: Arid Mesa
@@ -31,28 +31,28 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 3.0
-- name: Wrath of the Skies
-  weight: 1.0
-  avg_copies: 2.4
 - name: Orim's Chant
   weight: 1.0
   avg_copies: 2.4
-- name: Celestial Purge
+- name: Wrath of the Skies
   weight: 1.0
-  avg_copies: 2.0
-- name: Arena of Glory
-  weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 2.4
 - name: Plains
   weight: 1.0
   avg_copies: 2.0
 - name: Steam Vents
   weight: 1.0
   avg_copies: 2.0
-- name: Prismatic Ending
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.0
-- name: Hallowed Fountain
+- name: Arena of Glory
+  weight: 1.0
+  avg_copies: 2.0
+- name: Celestial Purge
+  weight: 1.0
+  avg_copies: 2.0
+- name: Prismatic Ending
   weight: 1.0
   avg_copies: 2.0
 - name: Meticulous Archive
@@ -61,28 +61,28 @@ top_cards:
 - name: Surgical Extraction
   weight: 1.0
   avg_copies: 1.33
-- name: Thundering Falls
+- name: Isochron Scepter
   weight: 1.0
   avg_copies: 1.0
-- name: Isochron Scepter
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Counterspell
   weight: 0.6667
   avg_copies: 4.0
-- name: Consult the Star Charts
-  weight: 0.6667
-  avg_copies: 3.0
 - name: Snapcaster Mage
   weight: 0.6667
   avg_copies: 3.0
+- name: Consult the Star Charts
+  weight: 0.6667
+  avg_copies: 3.0
+- name: Mystic Gate
+  weight: 0.6667
+  avg_copies: 2.0
 - name: Lórien Revealed
   weight: 0.6667
   avg_copies: 2.0
 - name: Spell Snare
-  weight: 0.6667
-  avg_copies: 2.0
-- name: Mystic Gate
   weight: 0.6667
   avg_copies: 2.0
 - name: Stern Scolding
@@ -94,37 +94,37 @@ top_cards:
 - name: Teferi, Hero of Dominaria
   weight: 0.6667
   avg_copies: 1.0
-- name: Thundertrap Trainer
+- name: Scalding Tarn
   weight: 0.3333
   avg_copies: 3.0
 - name: Fable of the Mirror-Breaker
   weight: 0.3333
   avg_copies: 3.0
-- name: Scalding Tarn
+- name: Thundertrap Trainer
   weight: 0.3333
   avg_copies: 3.0
-- name: High Noon
+- name: Flare of Denial
   weight: 0.3333
   avg_copies: 2.0
 - name: Tune the Narrative
   weight: 0.3333
   avg_copies: 2.0
-- name: Obsidian Charmaw
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Flare of Denial
-  weight: 0.3333
-  avg_copies: 2.0
 - name: Subtlety
   weight: 0.3333
   avg_copies: 2.0
-- name: Sacred Foundry
+- name: Obsidian Charmaw
+  weight: 0.3333
+  avg_copies: 2.0
+- name: High Noon
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Mountain
   weight: 0.3333
   avg_copies: 1.0
 - name: Elegant Parlor
   weight: 0.3333
   avg_copies: 1.0
-- name: Mountain
+- name: Sacred Foundry
   weight: 0.3333
   avg_copies: 1.0
 ---

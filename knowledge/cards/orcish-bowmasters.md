@@ -25,7 +25,7 @@ archetypes:
     weight: 0.8571
     avg_copies: 1.0
   hollow-one:
-    weight: 0.4
+    weight: 0.4286
     avg_copies: 3.0
   yawgmoth-combo:
     weight: 0.6364

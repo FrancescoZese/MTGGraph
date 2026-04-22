@@ -6,31 +6,31 @@ name: Yawgmoth Combo
 meta_share: 0.011
 list_count: 11
 top_cards:
+- name: Agatha's Soul Cauldron
+  weight: 1.0
+  avg_copies: 4.0
+- name: Verdant Catacombs
+  weight: 1.0
+  avg_copies: 4.0
 - name: Badgermole Cub
   weight: 1.0
   avg_copies: 4.0
 - name: Delighted Halfling
   weight: 1.0
   avg_copies: 4.0
-- name: Verdant Catacombs
-  weight: 1.0
-  avg_copies: 4.0
-- name: Agatha's Soul Cauldron
-  weight: 1.0
-  avg_copies: 4.0
 - name: Yawgmoth, Thran Physician
   weight: 1.0
   avg_copies: 3.82
-- name: Malevolent Rumble
-  weight: 1.0
-  avg_copies: 3.64
 - name: Young Wolf
   weight: 1.0
   avg_copies: 3.64
-- name: Spymaster's Vault
+- name: Malevolent Rumble
+  weight: 1.0
+  avg_copies: 3.64
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 3.0
-- name: Green Sun's Zenith
+- name: Spymaster's Vault
   weight: 1.0
   avg_copies: 3.0
 - name: Walking Ballista
@@ -63,19 +63,19 @@ top_cards:
 - name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.09
-- name: Dryad Arbor
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Grist, the Hunger Tide
+- name: Endurance
   weight: 1.0
   avg_copies: 1.0
 - name: Strangleroot Geist
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Grist, the Hunger Tide
   weight: 1.0
   avg_copies: 1.0
-- name: Endurance
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
 - name: Soulless Jailer
@@ -117,10 +117,10 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.3636
   avg_copies: 1.5
-- name: Wooded Foothills
+- name: Ignoble Hierarch
   weight: 0.3636
   avg_copies: 1.0
-- name: Ignoble Hierarch
+- name: Wooded Foothills
   weight: 0.3636
   avg_copies: 1.0
 - name: Kraul Harpooner

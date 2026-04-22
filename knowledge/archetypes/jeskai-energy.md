@@ -148,10 +148,10 @@ top_cards:
 - name: Marsh Flats
   weight: 0.0779
   avg_copies: 1.0
-- name: Kataki, War's Wage
+- name: Spell Snare
   weight: 0.0519
   avg_copies: 1.0
-- name: Spell Snare
+- name: Kataki, War's Wage
   weight: 0.0519
   avg_copies: 1.0
 - name: Snow-Covered Island
@@ -166,13 +166,13 @@ top_cards:
 - name: Thraben Charm
   weight: 0.026
   avg_copies: 1.5
+- name: Wear
+  weight: 0.026
+  avg_copies: 1.0
 - name: Floodfarm Verge
   weight: 0.026
   avg_copies: 1.0
 - name: Unholy Heat
-  weight: 0.026
-  avg_copies: 1.0
-- name: Wear
   weight: 0.026
   avg_copies: 1.0
 - name: Jace, the Mind Sculptor
@@ -190,28 +190,25 @@ top_cards:
 - name: Windswept Heath
   weight: 0.013
   avg_copies: 3.0
-- name: Misty Rainforest
-  weight: 0.013
-  avg_copies: 3.0
 - name: Consult the Star Charts
   weight: 0.013
   avg_copies: 3.0
-- name: Stock Up
+- name: Misty Rainforest
   weight: 0.013
-  avg_copies: 2.0
-- name: Mana Leak
-  weight: 0.013
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Cryogen Relic
   weight: 0.013
   avg_copies: 2.0
 - name: Tune the Narrative
   weight: 0.013
   avg_copies: 2.0
-- name: White Orchid Phantom
+- name: Ghost Vacuum
   weight: 0.013
   avg_copies: 2.0
-- name: Boseiju, Who Endures
+- name: Stock Up
+  weight: 0.013
+  avg_copies: 2.0
+- name: White Orchid Phantom
   weight: 0.013
   avg_copies: 2.0
 - name: Eternal Witness
@@ -220,13 +217,28 @@ top_cards:
 - name: Witch Enchanter
   weight: 0.013
   avg_copies: 2.0
-- name: Ghost Vacuum
+- name: Mana Leak
+  weight: 0.013
+  avg_copies: 2.0
+- name: Boseiju, Who Endures
   weight: 0.013
   avg_copies: 2.0
 - name: Stony Silence
   weight: 0.013
   avg_copies: 2.0
-- name: Destroy Evil
+- name: Meltdown
+  weight: 0.013
+  avg_copies: 1.0
+- name: Stomping Ground
+  weight: 0.013
+  avg_copies: 1.0
+- name: Hedge Maze
+  weight: 0.013
+  avg_copies: 1.0
+- name: Breeding Pool
+  weight: 0.013
+  avg_copies: 1.0
+- name: Supreme Verdict
   weight: 0.013
   avg_copies: 1.0
 - name: Subtlety
@@ -235,28 +247,16 @@ top_cards:
 - name: Lush Portico
   weight: 0.013
   avg_copies: 1.0
+- name: Destroy Evil
+  weight: 0.013
+  avg_copies: 1.0
 - name: Omnath, Locus of Creation
   weight: 0.013
   avg_copies: 1.0
-- name: Supreme Verdict
-  weight: 0.013
-  avg_copies: 1.0
-- name: Meltdown
+- name: Temple Garden
   weight: 0.013
   avg_copies: 1.0
 - name: Nihil Spellbomb
-  weight: 0.013
-  avg_copies: 1.0
-- name: Hedge Maze
-  weight: 0.013
-  avg_copies: 1.0
-- name: Stomping Ground
-  weight: 0.013
-  avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.013
-  avg_copies: 1.0
-- name: Temple Garden
   weight: 0.013
   avg_copies: 1.0
 ---
