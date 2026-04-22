@@ -153,15 +153,15 @@ body {
 
 .meta-sidebar-tab {
     font-family: var(--font-body);
-    font-size: 10px;
+    font-size: 9px;
     font-weight: 700;
     text-transform: uppercase;
-    letter-spacing: 0.08em;
+    letter-spacing: 0.04em;
     color: var(--ink-faint);
     background: none;
     border: none;
     border-bottom: 2px solid transparent;
-    padding: 4px 8px;
+    padding: 4px 6px;
     cursor: pointer;
     transition: color .15s, border-color .15s;
 }
