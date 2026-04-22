@@ -310,6 +310,9 @@ function updatePlayersSidebar(data) {
                 gsap.to(this, { attr: { "stroke-opacity": active ? 0.5 : 0.01 }, duration: dur, overwrite: true });
             });
             isHighlighted = true;
+
+            // Open detail panel with player's lists
+            showPlayerDetail(pilot, lastFilteredData);
         });
     });
 }
@@ -2318,6 +2321,82 @@ function showCardDetail(d, edges, nodeMap) {
     }
     html += `</ul>`;
     d3.select("#detail-content").html(html);
+}
+
+function showPlayerDetail(pilot, data) {
+    openPanel();
+
+    // Collect all lists by this pilot, grouped by archetype
+    const byArch = {};
+    for (const node of data.nodes) {
+        if (node.type !== "archetype" || !node.lists) continue;
+        for (const list of node.lists) {
+            if (list.pilot !== pilot) continue;
+            if (!byArch[node.name]) byArch[node.name] = [];
+            byArch[node.name].push(list);
+        }
+    }
+
+    const totalLists = Object.values(byArch).reduce((s, l) => s + l.length, 0);
+    const archCount = Object.keys(byArch).length;
+
+    let html = `<div class="panel-header">`;
+    html += `<div class="panel-name">${pilot}</div>`;
+    html += `<div class="panel-meta">${totalLists}`;
+    html += `<span class="panel-meta-label">${totalLists === 1 ? "list" : "lists"} &middot; ${archCount} ${archCount === 1 ? "archetype" : "archetypes"}</span></div>`;
+    html += `</div>`;
+
+    let idx = 2000 + Math.floor(Math.random() * 10000);
+
+    for (const [archName, lists] of Object.entries(byArch).sort((a, b) => b[1].length - a[1].length)) {
+        html += `<div class="tournament-group">`;
+        html += `<div class="tournament-name">${archName} (${lists.length})</div>`;
+        html += `<ul class="results-list">`;
+
+        for (const list of lists) {
+            html += `<li class="result-row" data-idx="${idx}">`;
+            html += `<div class="result-header">`;
+            html += `<span class="result-finish">${list.finish}</span>`;
+            html += `<span class="result-pilot">${list.source || ""}</span>`;
+            html += `<span class="result-meta">${list.date}</span>`;
+            html += `<span class="result-toggle">+</span>`;
+            html += `</div>`;
+            html += `<div class="result-decklist hidden" id="decklist-${idx}">`;
+            html += `<div class="result-section">Mainboard</div>`;
+            const mainEntries = Object.entries(list.mainboard).sort((a, b) => b[1] - a[1]);
+            for (const [name, qty] of mainEntries) {
+                html += `<div class="result-card" data-card="${name}">${qty} ${name}</div>`;
+            }
+            if (list.sideboard && Object.keys(list.sideboard).length > 0) {
+                html += `<div class="result-section">Sideboard</div>`;
+                const sideEntries = Object.entries(list.sideboard).sort((a, b) => b[1] - a[1]);
+                for (const [name, qty] of sideEntries) {
+                    html += `<div class="result-card" data-card="${name}">${qty} ${name}</div>`;
+                }
+            }
+            html += `</div></li>`;
+            idx++;
+        }
+
+        html += `</ul></div>`;
+    }
+
+    d3.select("#detail-content").html(html);
+
+    // Wire up collapsible toggles + card hover
+    document.querySelectorAll("#detail-content .result-row").forEach(row => {
+        let hoverWired = false;
+        row.querySelector(".result-header").addEventListener("click", () => {
+            const dl = document.getElementById(`decklist-${row.dataset.idx}`);
+            const toggle = row.querySelector(".result-toggle");
+            dl.classList.toggle("hidden");
+            toggle.textContent = dl.classList.contains("hidden") ? "+" : "\u2212";
+            if (!dl.classList.contains("hidden") && !hoverWired) {
+                wireCardHover(dl);
+                hoverWired = true;
+            }
+        });
+    });
 }
 
 /* ── Drag ── */
