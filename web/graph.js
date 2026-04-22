@@ -264,6 +264,54 @@ function updatePlayersSidebar(data) {
     container.innerHTML = html;
 
     animateBars(container.querySelectorAll(".meta-row-bar"));
+
+    container.querySelectorAll(".meta-row").forEach(row => {
+        row.addEventListener("click", () => {
+            const pilot = row.dataset.player;
+            if (sheetOpen) closeMobileSheet();
+
+            // Find archetype IDs that contain lists by this pilot
+            const archIds = new Set();
+            if (lastFilteredData) {
+                for (const node of lastFilteredData.nodes) {
+                    if (node.type !== "archetype" || !node.lists) continue;
+                    for (const list of node.lists) {
+                        if (list.pilot === pilot) {
+                            archIds.add(node.id);
+                            break;
+                        }
+                    }
+                }
+            }
+
+            if (!archIds.size || !currentCardSel || !currentArchSel || !currentLinkSel) return;
+
+            // Highlight: show connected archetypes + their cards, dim everything else
+            const connCards = new Set();
+            if (currentValidEdges) {
+                for (const e of currentValidEdges) {
+                    const t = typeof e.target === "object" ? e.target.id : e.target;
+                    const s = typeof e.source === "object" ? e.source.id : e.source;
+                    if (archIds.has(t)) connCards.add(s);
+                }
+            }
+
+            const dur = highlightDuration();
+            currentArchSel.each(function(n) {
+                gsap.to(this, { attr: { opacity: archIds.has(n.id) ? 1 : 0.1 }, duration: dur, overwrite: true });
+            });
+            currentCardSel.each(function(n) {
+                gsap.to(this, { attr: { opacity: connCards.has(n.id) ? 0.85 : 0.06 }, duration: dur, overwrite: true });
+            });
+            currentLinkSel.each(function(e) {
+                const t = typeof e.target === "object" ? e.target.id : e.target;
+                const s = typeof e.source === "object" ? e.source.id : e.source;
+                const active = archIds.has(t) && connCards.has(s);
+                gsap.to(this, { attr: { "stroke-opacity": active ? 0.5 : 0.01 }, duration: dur, overwrite: true });
+            });
+            isHighlighted = true;
+        });
+    });
 }
 
 /* ── Sidebar tab switching ── */
