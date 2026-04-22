@@ -62,7 +62,8 @@ async function init() {
     document.getElementById("filter-challenge").addEventListener("change", () => applyAllFilters(true));
     document.getElementById("filter-league").addEventListener("change", () => applyAllFilters(true));
 
-    // Mobile bottom sheet toggle
+    // Sidebar tabs + mobile bottom sheet
+    initSidebarTabs();
     initMobileSheet();
 }
 
@@ -122,6 +123,7 @@ function applyAllFilters(skipAnimation) {
 
     updateStats(filtered);
     updateMetaSidebar(lastFilteredData);
+    updateCardsSidebar(lastFilteredData);
     renderGraph(filtered, skipAnimation);
 }
 
@@ -177,6 +179,74 @@ function updateMetaSidebar(data) {
                 if (currentCardSel && currentArchSel && currentLinkSel && currentValidEdges) {
                     highlight(archNode, currentValidEdges, currentCardSel, currentArchSel, currentLinkSel);
                 }
+            }
+        });
+    });
+}
+
+function updateCardsSidebar(data) {
+    const cards = data.nodes
+        .filter(n => n.type === "card" && n.meta_presence > 0)
+        .sort((a, b) => b.meta_presence - a.meta_presence);
+
+    const maxPresence = cards.length > 0 ? cards[0].meta_presence : 1;
+    const container = document.getElementById("meta-sidebar-cards");
+
+    let html = "";
+    for (const card of cards) {
+        const pct = (card.meta_presence * 100).toFixed(1);
+        const barScale = (card.meta_presence / maxPresence).toFixed(4);
+        const barColor = card.colors && card.colors.length === 1
+            ? `var(--mana-${card.colors[0]})`
+            : card.colors && card.colors.length > 1
+            ? "var(--mana-multi)"
+            : "var(--mana-colorless)";
+
+        html += `<div class="meta-row" data-card-id="${card.id}">`;
+        html += `<div class="meta-row-bar" data-scale="${barScale}" style="background:${barColor}"></div>`;
+        html += `<span class="meta-row-name">${card.name}</span>`;
+        html += `<span class="meta-row-pct">${pct}%</span>`;
+        html += `</div>`;
+    }
+    container.innerHTML = html;
+
+    animateBars(container.querySelectorAll(".meta-row-bar"));
+
+    container.querySelectorAll(".meta-row").forEach(row => {
+        row.addEventListener("click", () => {
+            const cardId = row.dataset.cardId;
+            const cardNode = data.nodes.find(n => n.id === cardId);
+            if (cardNode) {
+                if (sheetOpen) closeMobileSheet();
+                const nodeMap = new Map(data.nodes.map(n => [n.id, n]));
+                const edges = data.edges;
+                showCardDetail(cardNode, edges, nodeMap);
+                if (currentCardSel && currentArchSel && currentLinkSel && currentValidEdges) {
+                    highlight(cardNode, currentValidEdges, currentCardSel, currentArchSel, currentLinkSel);
+                }
+            }
+        });
+    });
+}
+
+/* ── Sidebar tab switching ── */
+
+function initSidebarTabs() {
+    document.querySelectorAll(".meta-sidebar-tab").forEach(tab => {
+        tab.addEventListener("click", () => {
+            document.querySelectorAll(".meta-sidebar-tab").forEach(t => t.classList.remove("active"));
+            tab.classList.add("active");
+
+            const target = tab.dataset.tab;
+            const archList = document.getElementById("meta-sidebar-list");
+            const cardList = document.getElementById("meta-sidebar-cards");
+
+            if (target === "archetypes") {
+                archList.classList.remove("hidden");
+                cardList.classList.add("hidden");
+            } else {
+                archList.classList.add("hidden");
+                cardList.classList.remove("hidden");
             }
         });
     });
@@ -1331,18 +1401,32 @@ function renderVariantsChart(archName, lists, colors, medoidIndex, clusterThresh
 
     archSel.each(function(nd) {
         const el = d3.select(this);
-        if (clColors.length === 0) {
+
+        // Derive colors: stock uses archetype colors, variants derive from their cards
+        let nodeColors;
+        if (nd.cluster.isReference) {
+            nodeColors = clColors;
+        } else {
+            const colorOrder = ["W", "U", "B", "R", "G"];
+            const colorSet = new Set();
+            for (const card of Object.keys(nd.cluster.mainboard)) {
+                for (const c of (cardColorMap[card] || [])) colorSet.add(c);
+            }
+            nodeColors = colorOrder.filter(c => colorSet.has(c));
+        }
+
+        if (nodeColors.length === 0) {
             el.append("circle").attr("r", nd.size)
                 .attr("fill", "var(--bg)").attr("stroke", "#a09888")
                 .attr("stroke-width", strokeW).attr("stroke-opacity", 0.5);
-        } else if (clColors.length === 1) {
+        } else if (nodeColors.length === 1) {
             el.append("circle").attr("r", nd.size)
-                .attr("fill", "var(--bg)").attr("stroke", MANA_HEX[clColors[0]] || "#a09888")
+                .attr("fill", "var(--bg)").attr("stroke", MANA_HEX[nodeColors[0]] || "#a09888")
                 .attr("stroke-width", strokeW).attr("stroke-opacity", 0.7);
         } else {
             el.append("circle").attr("r", nd.size).attr("fill", "var(--bg)").attr("stroke", "none");
-            const segAngle = (2 * Math.PI) / clColors.length, gap = 0.08;
-            clColors.forEach((c, ci) => {
+            const segAngle = (2 * Math.PI) / nodeColors.length, gap = 0.08;
+            nodeColors.forEach((c, ci) => {
                 const sA = ci * segAngle - Math.PI / 2 + gap / 2;
                 const eA = (ci + 1) * segAngle - Math.PI / 2 - gap / 2;
                 const largeArc = segAngle - gap > Math.PI ? 1 : 0;
