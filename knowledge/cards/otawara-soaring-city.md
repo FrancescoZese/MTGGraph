@@ -18,7 +18,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   azorius-control:
-    weight: 0.5652
+    weight: 0.5417
     avg_copies: 1.0
   living-end:
     weight: 0.7895
@@ -38,6 +38,9 @@ archetypes:
   simic-ritual:
     weight: 0.84
     avg_copies: 1.0
+  izzet-prowess:
+    weight: 0.0244
+    avg_copies: 1.0
   bant-control:
     weight: 1.0
     avg_copies: 1.0
@@ -48,7 +51,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   izzet-cori-steel:
-    weight: 0.1818
+    weight: 0.1
     avg_copies: 1.0
   grixis-control:
     weight: 1.0

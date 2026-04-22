@@ -21,7 +21,7 @@ archetypes:
     weight: 0.039
     avg_copies: 1.33
   azorius-control:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 1.0
   affinity:
     weight: 0.0108
@@ -42,13 +42,13 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   izzet-cori-steel:
-    weight: 0.8182
+    weight: 0.9
     avg_copies: 4.0
   grixis-control:
     weight: 1.0
     avg_copies: 3.0
   jeskai-control:
-    weight: 0.75
+    weight: 1.0
     avg_copies: 3.0
   izzet-splinter-twin:
     weight: 1.0

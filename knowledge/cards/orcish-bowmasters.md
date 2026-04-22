@@ -25,8 +25,8 @@ archetypes:
     weight: 0.8571
     avg_copies: 1.0
   hollow-one:
-    weight: 0.3571
-    avg_copies: 2.8
+    weight: 0.4
+    avg_copies: 3.0
   yawgmoth-combo:
     weight: 0.6364
     avg_copies: 2.29
@@ -44,9 +44,6 @@ archetypes:
     avg_copies: 3.0
   rakdos-reanimator:
     weight: 1.0
-    avg_copies: 4.0
-  cosmogoyf-fling:
-    weight: 0.1667
     avg_copies: 4.0
   unknown-1:
     weight: 1.0

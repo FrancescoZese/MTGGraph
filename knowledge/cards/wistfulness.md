@@ -14,11 +14,8 @@ archetypes:
     weight: 0.8421
     avg_copies: 3.59
   neoform-combo:
-    weight: 0.2
-    avg_copies: 1.6
-  eldrazi-ramp:
-    weight: 0.0455
-    avg_copies: 2.0
+    weight: 0.2381
+    avg_copies: 1.67
   bant-control:
     weight: 1.0
     avg_copies: 4.0

@@ -8,10 +8,10 @@ set: dmr
 type: Land
 meta_presence: 0.006
 archetypes:
-  eldrazi-ramp:
-    weight: 0.0455
+  neoform-combo:
+    weight: 0.0476
     avg_copies: 4.0
   cosmogoyf-fling:
-    weight: 0.8333
+    weight: 1.0
     avg_copies: 4.0
 ---

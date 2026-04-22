@@ -16,7 +16,7 @@ archetypes:
     weight: 0.7222
     avg_copies: 1.62
   azorius-control:
-    weight: 0.6522
+    weight: 0.625
     avg_copies: 1.2
   domain-zoo:
     weight: 0.2059
@@ -37,17 +37,17 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   hollow-one:
-    weight: 0.5714
-    avg_copies: 1.88
+    weight: 0.6
+    avg_copies: 1.89
   boros-ponza:
     weight: 0.1765
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0455
+    weight: 0.0476
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.825
-    avg_copies: 1.51
+    weight: 0.8293
+    avg_copies: 1.55
   esper-blink:
     weight: 0.3
     avg_copies: 1.0
@@ -60,11 +60,8 @@ archetypes:
   orzhov-blink:
     weight: 0.5
     avg_copies: 1.0
-  izzet-cori-steel:
-    weight: 0.0909
-    avg_copies: 3.0
   jeskai-control:
-    weight: 0.75
+    weight: 1.0
     avg_copies: 1.33
   rakdos-steel-cutter:
     weight: 0.25
@@ -72,9 +69,6 @@ archetypes:
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 1.0
-  cosmogoyf-fling:
-    weight: 0.1667
-    avg_copies: 2.0
   naya-midrange:
     weight: 1.0
     avg_copies: 2.0

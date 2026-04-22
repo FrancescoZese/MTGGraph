@@ -15,6 +15,6 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   izzet-cori-steel:
-    weight: 0.9091
+    weight: 1.0
     avg_copies: 3.9
 ---

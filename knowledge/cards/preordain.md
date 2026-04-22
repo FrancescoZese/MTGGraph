@@ -22,7 +22,7 @@ archetypes:
     weight: 0.172
     avg_copies: 2.75
   neoform-combo:
-    weight: 0.05
+    weight: 0.0476
     avg_copies: 1.0
   izzet-prowess:
     weight: 1.0
@@ -31,8 +31,8 @@ archetypes:
     weight: 0.1
     avg_copies: 3.0
   izzet-cori-steel:
-    weight: 0.8182
-    avg_copies: 3.67
+    weight: 0.8
+    avg_copies: 3.62
   izzet-eldrazi:
     weight: 1.0
     avg_copies: 3.0

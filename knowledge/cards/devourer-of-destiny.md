@@ -12,7 +12,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.36
   eldrazi-ramp:
-    weight: 0.8636
+    weight: 0.9048
     avg_copies: 2.63
   broodscale-combo:
     weight: 0.5
@@ -21,6 +21,6 @@ archetypes:
     weight: 1.0
     avg_copies: 3.5
   cosmogoyf-fling:
-    weight: 0.8333
+    weight: 1.0
     avg_copies: 4.0
 ---

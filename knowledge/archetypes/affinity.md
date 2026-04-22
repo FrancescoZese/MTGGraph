@@ -9,10 +9,10 @@ top_cards:
 - name: Pinnacle Emissary
   weight: 1.0
   avg_copies: 3.96
-- name: Urza's Saga
+- name: Kappa Cannoneer
   weight: 1.0
   avg_copies: 3.94
-- name: Kappa Cannoneer
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 3.94
 - name: Mox Opal
@@ -135,7 +135,6 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 0.0968
   avg_copies: 1.0
-<<<<<<< Updated upstream
 - name: Thundering Falls
   weight: 0.086
   avg_copies: 1.0
@@ -144,16 +143,6 @@ top_cards:
   avg_copies: 1.0
 - name: Hurkyl's Recall
   weight: 0.0645
-=======
-- name: Flusterstorm
-  weight: 0.069
-  avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.069
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.069
->>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 0.0538
@@ -164,22 +153,14 @@ top_cards:
 - name: Vandalblast
   weight: 0.043
   avg_copies: 1.0
+- name: Springleaf Drum
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Salvage Titan
+  weight: 0.0323
+  avg_copies: 1.0
 - name: Lavaspur Boots
   weight: 0.0323
-  avg_copies: 1.0
-<<<<<<< Updated upstream
-- name: Salvage Titan
-  weight: 0.0323
-  avg_copies: 1.0
-- name: Springleaf Drum
-  weight: 0.0323
-=======
-- name: Springleaf Drum
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Salvage Titan
-  weight: 0.0345
->>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Snow-Covered Island
   weight: 0.0215
@@ -187,30 +168,24 @@ top_cards:
 - name: Furnace Dragon
   weight: 0.0215
   avg_copies: 1.5
-<<<<<<< Updated upstream
-- name: Glimmervoid
+- name: Shattering Spree
   weight: 0.0108
   avg_copies: 2.0
 - name: Detect Intrusion
+  weight: 0.0108
+  avg_copies: 2.0
+- name: Glimmervoid
   weight: 0.0108
   avg_copies: 2.0
 - name: Prismari Charm
   weight: 0.0108
-=======
-- name: Lavaspur Boots
-  weight: 0.023
-  avg_copies: 1.0
-- name: Detect Intrusion
-  weight: 0.0115
   avg_copies: 2.0
-- name: Glimmervoid
-  weight: 0.0115
->>>>>>> Stashed changes
-  avg_copies: 2.0
-- name: Shattering Spree
+- name: Polluted Delta
   weight: 0.0108
-  avg_copies: 2.0
-<<<<<<< Updated upstream
+  avg_copies: 1.0
+- name: Ghirapur Aether Grid
+  weight: 0.0108
+  avg_copies: 1.0
 - name: Void Mirror
   weight: 0.0108
   avg_copies: 1.0
@@ -219,41 +194,14 @@ top_cards:
   avg_copies: 1.0
 - name: Minamo, School at Water's Edge
   weight: 0.0108
-=======
-- name: Ghirapur Aether Grid
-  weight: 0.0115
   avg_copies: 1.0
-- name: Chandra, Spark Hunter
-  weight: 0.0115
-  avg_copies: 1.0
-- name: Polluted Delta
-  weight: 0.0115
->>>>>>> Stashed changes
-  avg_copies: 1.0
-- name: Flooded Strand
-  weight: 0.0108
-  avg_copies: 1.0
-<<<<<<< Updated upstream
-- name: Ghirapur Aether Grid
+- name: Tamiyo, Inquisitive Student
   weight: 0.0108
   avg_copies: 1.0
 - name: Jokulmorder
   weight: 0.0108
   avg_copies: 1.0
-- name: Polluted Delta
-  weight: 0.0108
-=======
 - name: Flooded Strand
-  weight: 0.0115
-  avg_copies: 1.0
-- name: Minamo, School at Water's Edge
-  weight: 0.0115
-  avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.0115
->>>>>>> Stashed changes
-  avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
   weight: 0.0108
   avg_copies: 1.0
 ---

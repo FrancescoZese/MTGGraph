@@ -12,7 +12,7 @@ archetypes:
     weight: 0.1948
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.025
+    weight: 0.0244
     avg_copies: 1.0
   izzet-splinter-twin:
     weight: 1.0

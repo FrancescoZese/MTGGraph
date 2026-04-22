@@ -31,7 +31,7 @@ archetypes:
     weight: 0.4
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.1364
+    weight: 0.1429
     avg_copies: 1.33
   esper-blink:
     weight: 0.1
@@ -46,6 +46,6 @@ archetypes:
     weight: 0.9
     avg_copies: 1.0
   izzet-cori-steel:
-    weight: 0.2727
+    weight: 0.3
     avg_copies: 2.0
 ---

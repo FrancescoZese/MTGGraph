@@ -28,10 +28,10 @@ top_cards:
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.04
-- name: Steam Vents
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.01
-- name: Elegant Parlor
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.01
 - name: Hallowed Fountain
@@ -104,7 +104,6 @@ top_cards:
   weight: 0.5325
   avg_copies: 1.22
 - name: Fable of the Mirror-Breaker
-<<<<<<< Updated upstream
   weight: 0.3896
   avg_copies: 1.7
 - name: Ashiok, Dream Render
@@ -113,16 +112,6 @@ top_cards:
 - name: Wear
   weight: 0.3247
   avg_copies: 1.24
-=======
-  weight: 0.3784
-  avg_copies: 1.71
-- name: Wear
-  weight: 0.3108
-  avg_copies: 1.26
-- name: Ashiok, Dream Render
-  weight: 0.3108
-  avg_copies: 1.26
->>>>>>> Stashed changes
 - name: Damping Sphere
   weight: 0.3117
   avg_copies: 1.42
@@ -135,19 +124,11 @@ top_cards:
 - name: Riverpyre Verge
   weight: 0.1948
   avg_copies: 1.0
-<<<<<<< Updated upstream
 - name: Elesh Norn, Mother of Machines
   weight: 0.1688
   avg_copies: 1.0
 - name: The Legend of Roku
   weight: 0.1688
-=======
-- name: The Legend of Roku
-  weight: 0.1622
-  avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
-  weight: 0.1622
->>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Snow-Covered Plains
   weight: 0.1429
@@ -170,10 +151,10 @@ top_cards:
 - name: Snow-Covered Island
   weight: 0.0519
   avg_copies: 1.0
-- name: Spell Snare
+- name: Kataki, War's Wage
   weight: 0.0519
   avg_copies: 1.0
-- name: Kataki, War's Wage
+- name: Spell Snare
   weight: 0.0519
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
@@ -185,10 +166,13 @@ top_cards:
 - name: Thraben Charm
   weight: 0.026
   avg_copies: 1.5
-- name: Floodfarm Verge
+- name: Jace, the Mind Sculptor
   weight: 0.026
   avg_copies: 1.0
 - name: Ajani Vengeant
+  weight: 0.026
+  avg_copies: 1.0
+- name: Floodfarm Verge
   weight: 0.026
   avg_copies: 1.0
 - name: Unholy Heat
@@ -197,14 +181,13 @@ top_cards:
 - name: Wear
   weight: 0.026
   avg_copies: 1.0
-- name: Jace, the Mind Sculptor
-  weight: 0.026
-  avg_copies: 1.0
 - name: Orim's Chant
   weight: 0.013
   avg_copies: 4.0
-<<<<<<< Updated upstream
 - name: Misty Rainforest
+  weight: 0.013
+  avg_copies: 3.0
+- name: Wrenn and Six
   weight: 0.013
   avg_copies: 3.0
 - name: Consult the Star Charts
@@ -213,147 +196,68 @@ top_cards:
 - name: Windswept Heath
   weight: 0.013
   avg_copies: 3.0
-- name: Wrenn and Six
-  weight: 0.013
-  avg_copies: 3.0
-- name: Cryogen Relic
-  weight: 0.013
-=======
-- name: Windswept Heath
-  weight: 0.0135
-  avg_copies: 3.0
-- name: Wrenn and Six
-  weight: 0.0135
-  avg_copies: 3.0
-- name: Consult the Star Charts
-  weight: 0.0135
-  avg_copies: 3.0
-- name: Misty Rainforest
-  weight: 0.0135
-  avg_copies: 3.0
-- name: Tune the Narrative
-  weight: 0.0135
->>>>>>> Stashed changes
-  avg_copies: 2.0
-- name: Eternal Witness
-  weight: 0.013
-  avg_copies: 2.0
-- name: Tune the Narrative
-  weight: 0.013
-  avg_copies: 2.0
-<<<<<<< Updated upstream
 - name: White Orchid Phantom
   weight: 0.013
   avg_copies: 2.0
 - name: Ghost Vacuum
   weight: 0.013
   avg_copies: 2.0
+- name: Tune the Narrative
+  weight: 0.013
+  avg_copies: 2.0
+- name: Cryogen Relic
+  weight: 0.013
+  avg_copies: 2.0
 - name: Boseiju, Who Endures
+  weight: 0.013
+  avg_copies: 2.0
+- name: Eternal Witness
   weight: 0.013
   avg_copies: 2.0
 - name: Stock Up
   weight: 0.013
   avg_copies: 2.0
-- name: Stony Silence
-  weight: 0.013
-  avg_copies: 2.0
 - name: Witch Enchanter
   weight: 0.013
   avg_copies: 2.0
 - name: Mana Leak
   weight: 0.013
   avg_copies: 2.0
+- name: Stony Silence
+  weight: 0.013
+  avg_copies: 2.0
+- name: Nihil Spellbomb
+  weight: 0.013
+  avg_copies: 1.0
+- name: Temple Garden
+  weight: 0.013
+  avg_copies: 1.0
 - name: Supreme Verdict
+  weight: 0.013
+  avg_copies: 1.0
+- name: Lush Portico
+  weight: 0.013
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 0.013
+  avg_copies: 1.0
+- name: Destroy Evil
+  weight: 0.013
+  avg_copies: 1.0
+- name: Subtlety
+  weight: 0.013
+  avg_copies: 1.0
+- name: Breeding Pool
+  weight: 0.013
+  avg_copies: 1.0
+- name: Hedge Maze
   weight: 0.013
   avg_copies: 1.0
 - name: Stomping Ground
   weight: 0.013
   avg_copies: 1.0
-- name: Meltdown
-  weight: 0.013
-=======
-- name: Cryogen Relic
-  weight: 0.0135
-  avg_copies: 2.0
-- name: Eternal Witness
-  weight: 0.0135
-  avg_copies: 2.0
-- name: White Orchid Phantom
-  weight: 0.0135
-  avg_copies: 2.0
-- name: Witch Enchanter
-  weight: 0.0135
-  avg_copies: 2.0
-- name: Mana Leak
-  weight: 0.0135
-  avg_copies: 2.0
-- name: Ghost Vacuum
-  weight: 0.0135
-  avg_copies: 2.0
-- name: Boseiju, Who Endures
-  weight: 0.0135
-  avg_copies: 2.0
-- name: Stony Silence
-  weight: 0.0135
-  avg_copies: 2.0
-- name: Destroy Evil
-  weight: 0.0135
-  avg_copies: 1.0
-- name: Meltdown
-  weight: 0.0135
-  avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.0135
-  avg_copies: 1.0
-- name: Ajani Vengeant
-  weight: 0.0135
-  avg_copies: 1.0
-- name: Lush Portico
-  weight: 0.0135
->>>>>>> Stashed changes
-  avg_copies: 1.0
-- name: Nihil Spellbomb
-  weight: 0.013
-  avg_copies: 1.0
-<<<<<<< Updated upstream
-- name: Hedge Maze
-  weight: 0.013
-  avg_copies: 1.0
 - name: Omnath, Locus of Creation
   weight: 0.013
-  avg_copies: 1.0
-- name: Lush Portico
-  weight: 0.013
-=======
-- name: Omnath, Locus of Creation
-  weight: 0.0135
-  avg_copies: 1.0
-- name: Hedge Maze
-  weight: 0.0135
-  avg_copies: 1.0
-- name: Nihil Spellbomb
-  weight: 0.0135
->>>>>>> Stashed changes
-  avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.013
-  avg_copies: 1.0
-<<<<<<< Updated upstream
-- name: Destroy Evil
-  weight: 0.013
-  avg_copies: 1.0
-- name: Subtlety
-  weight: 0.013
-  avg_copies: 1.0
-- name: Temple Garden
-  weight: 0.013
-=======
-- name: Subtlety
-  weight: 0.0135
-  avg_copies: 1.0
-- name: Temple Garden
-  weight: 0.0135
->>>>>>> Stashed changes
   avg_copies: 1.0
 ---
 Midrange-control deck combining the energy package (Phlage, Galvanic Discharge) with Solitude and Quantum Riddler for removal and value. Phelia and Casey Jones provide blink synergies.

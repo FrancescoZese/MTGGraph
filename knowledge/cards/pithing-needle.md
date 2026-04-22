@@ -21,10 +21,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.1364
+    weight: 0.1429
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.025
+    weight: 0.0244
     avg_copies: 1.0
   broodscale-combo:
     weight: 0.8333
@@ -33,7 +33,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   izzet-cori-steel:
-    weight: 0.6364
+    weight: 0.7
     avg_copies: 1.0
   jund-saga:
     weight: 1.0

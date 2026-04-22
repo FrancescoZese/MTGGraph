@@ -13,12 +13,12 @@ archetypes:
     weight: 0.6818
     avg_copies: 1.45
   neoform-combo:
-    weight: 0.85
+    weight: 0.8095
     avg_copies: 1.0
   kethis-combo:
     weight: 1.0
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.225
+    weight: 0.2195
     avg_copies: 1.22
 ---

@@ -10,9 +10,6 @@ type: Enchantment
 meta_presence: 0.003
 archetypes:
   azorius-control:
-    weight: 0.087
-    avg_copies: 1.67
-  jeskai-control:
-    weight: 0.25
-    avg_copies: 2.0
+    weight: 0.125
+    avg_copies: 1.8
 ---

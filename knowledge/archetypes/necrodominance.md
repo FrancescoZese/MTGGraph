@@ -90,23 +90,19 @@ top_cards:
 - name: Takenuma, Abandoned Mire
   weight: 0.1667
   avg_copies: 1.0
-- name: Psychic Frog
+- name: Sorin, Imperious Bloodlord
   weight: 0.1111
   avg_copies: 4.0
 - name: Vein Ripper
   weight: 0.1111
   avg_copies: 4.0
-- name: Sorin, Imperious Bloodlord
+- name: Psychic Frog
   weight: 0.1111
   avg_copies: 4.0
-- name: Consign to Memory
+- name: Polluted Delta
   weight: 0.1111
   avg_copies: 3.5
-<<<<<<< Updated upstream
-- name: Polluted Delta
-=======
 - name: Consign to Memory
->>>>>>> Stashed changes
   weight: 0.1111
   avg_copies: 3.5
 - name: Watery Grave
@@ -121,114 +117,73 @@ top_cards:
 - name: Toxic Deluge
   weight: 0.1111
   avg_copies: 1.5
-- name: Legion's End
-  weight: 0.1111
-  avg_copies: 1.0
 - name: Undercity Sewers
   weight: 0.1111
   avg_copies: 1.0
+- name: Legion's End
+  weight: 0.1111
+  avg_copies: 1.0
 - name: Gonti's Machinations
-<<<<<<< Updated upstream
-  weight: 0.0556
-  avg_copies: 4.0
-- name: Iridescent Vinelasher
-=======
->>>>>>> Stashed changes
-  weight: 0.0556
-  avg_copies: 4.0
-- name: Sign in Blood
   weight: 0.0556
   avg_copies: 4.0
 - name: Requiting Hex
   weight: 0.0556
   avg_copies: 4.0
-<<<<<<< Updated upstream
-- name: Quantum Riddler
-=======
+- name: Iridescent Vinelasher
+  weight: 0.0556
+  avg_copies: 4.0
 - name: Sign in Blood
   weight: 0.0556
   avg_copies: 4.0
-- name: Mystical Dispute
->>>>>>> Stashed changes
+- name: Quantum Riddler
   weight: 0.0556
   avg_copies: 3.0
 - name: Mystical Dispute
   weight: 0.0556
   avg_copies: 3.0
-<<<<<<< Updated upstream
-- name: Culling Ritual
-=======
-- name: Marsh Flats
->>>>>>> Stashed changes
-  weight: 0.0556
-  avg_copies: 2.0
-- name: Culling Ritual
-  weight: 0.0556
-  avg_copies: 2.0
-<<<<<<< Updated upstream
 - name: Disruptor Flute
-  weight: 0.0556
-  avg_copies: 2.0
-- name: Witherbloom Command
   weight: 0.0556
   avg_copies: 2.0
 - name: Mai, Scornful Striker
-=======
-- name: Witherbloom Command
   weight: 0.0556
   avg_copies: 2.0
-- name: Disruptor Flute
+- name: Culling Ritual
   weight: 0.0556
   avg_copies: 2.0
-- name: Overgrown Tomb
->>>>>>> Stashed changes
+- name: Pillage the Bog
   weight: 0.0556
   avg_copies: 2.0
 - name: Hurkyl's Recall
   weight: 0.0556
   avg_copies: 2.0
-- name: Overgrown Tomb
+- name: Witherbloom Command
   weight: 0.0556
   avg_copies: 2.0
-<<<<<<< Updated upstream
 - name: Marsh Flats
   weight: 0.0556
   avg_copies: 2.0
-- name: Illness in the Ranks
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Shizo, Death's Storehouse
-=======
-- name: Pillage the Bog
+- name: Overgrown Tomb
   weight: 0.0556
   avg_copies: 2.0
-- name: Shizo, Death's Storehouse
+- name: Pick Your Poison
   weight: 0.0556
   avg_copies: 1.0
 - name: Damnation
   weight: 0.0556
   avg_copies: 1.0
-- name: Pick Your Poison
->>>>>>> Stashed changes
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Underground Mortuary
-  weight: 0.0556
-  avg_copies: 1.0
 - name: Nurturing Peatland
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Shizo, Death's Storehouse
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Illness in the Ranks
   weight: 0.0556
   avg_copies: 1.0
 - name: Kaito, Bane of Nightmares
   weight: 0.0556
   avg_copies: 1.0
-<<<<<<< Updated upstream
-- name: Nurturing Peatland
-  weight: 0.0556
-  avg_copies: 1.0
 - name: Underground Mortuary
-=======
-- name: Illness in the Ranks
->>>>>>> Stashed changes
   weight: 0.0556
   avg_copies: 1.0
 ---

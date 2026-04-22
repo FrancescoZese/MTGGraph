@@ -7,47 +7,31 @@ name: Grixis Reanimator
 meta_share: 0.019
 list_count: 19
 top_cards:
-<<<<<<< Updated upstream
+- name: Archon of Cruelty
+  weight: 1.0
+  avg_copies: 4.0
+- name: Persist
+  weight: 1.0
+  avg_copies: 4.0
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
-  weight: 1.0
-  avg_copies: 4.0
 - name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
-- name: Archon of Cruelty
-  weight: 1.0
-  avg_copies: 4.0
-- name: Persist
-=======
-- name: Persist
-  weight: 1.0
-  avg_copies: 4.0
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
-- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Archon of Cruelty
->>>>>>> Stashed changes
-  weight: 1.0
-  avg_copies: 4.0
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 3.84
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 3.84
 - name: Abhorrent Oculus
+  weight: 1.0
+  avg_copies: 3.84
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 3.84
 - name: Emperor of Bones
@@ -76,22 +60,17 @@ top_cards:
   avg_copies: 1.32
 - name: Scalding Tarn
   weight: 1.0
-<<<<<<< Updated upstream
   avg_copies: 1.05
-- name: Steam Vents
-=======
-  avg_copies: 1.06
-- name: Island
->>>>>>> Stashed changes
+- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Island
+  weight: 1.0
+  avg_copies: 1.0
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Blood Crypt
-  weight: 1.0
-  avg_copies: 1.0
-- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -145,21 +124,13 @@ top_cards:
 - name: Leyline of the Void
   weight: 0.0526
   avg_copies: 3.0
-<<<<<<< Updated upstream
-- name: Harvester of Misery
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Troll of Khazad-dûm
-  weight: 0.0526
-=======
-- name: Troll of Khazad-dûm
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Harvester of Misery
-  weight: 0.0556
->>>>>>> Stashed changes
-  avg_copies: 1.0
 - name: Spell Snare
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Harvester of Misery
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Troll of Khazad-dûm
   weight: 0.0526
   avg_copies: 1.0
 ---

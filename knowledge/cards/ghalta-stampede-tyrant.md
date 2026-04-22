@@ -10,9 +10,6 @@ type: Legendary Creature — Elder Dinosaur
 meta_presence: 0.02
 archetypes:
   neoform-combo:
-    weight: 0.95
-    avg_copies: 2.16
-  eldrazi-ramp:
-    weight: 0.0455
-    avg_copies: 2.0
+    weight: 0.9524
+    avg_copies: 2.15
 ---

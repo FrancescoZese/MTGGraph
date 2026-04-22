@@ -30,7 +30,7 @@ archetypes:
     weight: 0.7778
     avg_copies: 2.07
   azorius-control:
-    weight: 0.1304
+    weight: 0.125
     avg_copies: 2.33
   living-end:
     weight: 0.5263
@@ -54,13 +54,13 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   hollow-one:
-    weight: 0.7143
-    avg_copies: 2.3
+    weight: 0.7333
+    avg_copies: 2.36
   yawgmoth-combo:
     weight: 0.4545
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.1364
+    weight: 0.1429
     avg_copies: 1.0
   simic-ritual:
     weight: 0.16
@@ -95,9 +95,6 @@ archetypes:
   bant-ritual:
     weight: 1.0
     avg_copies: 2.0
-  cosmogoyf-fling:
-    weight: 0.1667
-    avg_copies: 3.0
   esper-midrange:
     weight: 1.0
     avg_copies: 2.0

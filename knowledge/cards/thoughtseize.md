@@ -28,8 +28,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   hollow-one:
-    weight: 0.7143
-    avg_copies: 2.9
+    weight: 0.7333
+    avg_copies: 2.91
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 2.18
@@ -65,9 +65,6 @@ archetypes:
     avg_copies: 4.0
   mono-green-ramp:
     weight: 1.0
-    avg_copies: 3.0
-  cosmogoyf-fling:
-    weight: 0.1667
     avg_copies: 3.0
   esper-midrange:
     weight: 1.0

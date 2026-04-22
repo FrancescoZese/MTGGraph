@@ -21,7 +21,7 @@ archetypes:
     weight: 0.1111
     avg_copies: 3.5
   azorius-control:
-    weight: 0.1739
+    weight: 0.1667
     avg_copies: 1.0
   living-end:
     weight: 0.5789
@@ -36,16 +36,16 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   neoform-combo:
-    weight: 0.65
+    weight: 0.619
     avg_copies: 1.15
   hollow-one:
-    weight: 0.1429
+    weight: 0.1333
     avg_copies: 1.0
   simic-ritual:
     weight: 0.16
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.025
+    weight: 0.0244
     avg_copies: 1.0
   esper-blink:
     weight: 0.9

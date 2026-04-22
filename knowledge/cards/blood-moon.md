@@ -22,17 +22,17 @@ archetypes:
     weight: 1.0
     avg_copies: 1.88
   eldrazi-ramp:
-    weight: 0.0455
+    weight: 0.0476
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.1
-    avg_copies: 1.5
+    weight: 0.122
+    avg_copies: 1.6
   sultai-artifacts:
     weight: 0.7
     avg_copies: 2.86
   izzet-cori-steel:
-    weight: 0.2727
-    avg_copies: 2.33
+    weight: 0.2
+    avg_copies: 2.5
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 4.0

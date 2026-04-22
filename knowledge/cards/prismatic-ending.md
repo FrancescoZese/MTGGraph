@@ -29,7 +29,7 @@ archetypes:
     avg_copies: 2.26
   azorius-control:
     weight: 1.0
-    avg_copies: 2.7
+    avg_copies: 2.75
   mardu-blink:
     weight: 0.1429
     avg_copies: 2.0
@@ -37,7 +37,7 @@ archetypes:
     weight: 0.0588
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.025
+    weight: 0.0244
     avg_copies: 3.0
   esper-blink:
     weight: 0.8
@@ -59,7 +59,7 @@ archetypes:
     avg_copies: 3.0
   jeskai-control:
     weight: 1.0
-    avg_copies: 2.5
+    avg_copies: 2.0
   bant-ritual:
     weight: 1.0
     avg_copies: 1.5

@@ -13,8 +13,8 @@ archetypes:
   amulet-titan:
     weight: 0.1905
     avg_copies: 1.38
-  eldrazi-ramp:
-    weight: 0.0455
+  neoform-combo:
+    weight: 0.0476
     avg_copies: 1.0
   simic-ritual:
     weight: 0.04

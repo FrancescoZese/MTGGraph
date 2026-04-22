@@ -10,6 +10,6 @@ type: Enchantment
 meta_presence: 0.002
 archetypes:
   izzet-prowess:
-    weight: 0.05
+    weight: 0.0488
     avg_copies: 1.5
 ---

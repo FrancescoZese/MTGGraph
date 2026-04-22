@@ -19,7 +19,7 @@ archetypes:
     weight: 0.2727
     avg_copies: 3.0
   azorius-control:
-    weight: 0.8261
+    weight: 0.7917
     avg_copies: 2.58
   bant-control:
     weight: 1.0
@@ -31,7 +31,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   jeskai-control:
-    weight: 0.5
+    weight: 0.6667
     avg_copies: 4.0
   izzet-splinter-twin:
     weight: 1.0

@@ -6,20 +6,7 @@ name: Izzet Eldrazi
 meta_share: 0.002
 list_count: 2
 top_cards:
-- name: Through the Breach
-  weight: 1.0
-  avg_copies: 4.0
-- name: Eldrazi Temple
-  weight: 1.0
-  avg_copies: 4.0
-- name: Scalding Tarn
-  weight: 1.0
-  avg_copies: 4.0
-<<<<<<< Updated upstream
-- name: Through the Breach
-=======
-- name: Emrakul, the Aeons Torn
->>>>>>> Stashed changes
+- name: Talisman of Creativity
   weight: 1.0
   avg_copies: 4.0
 - name: Kozilek's Command
@@ -28,133 +15,91 @@ top_cards:
 - name: Stock Up
   weight: 1.0
   avg_copies: 4.0
-- name: Consign to Memory
-  weight: 1.0
-  avg_copies: 4.0
-<<<<<<< Updated upstream
 - name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
-- name: Emrakul, the Aeons Torn
-=======
+- name: Eldrazi Temple
+  weight: 1.0
+  avg_copies: 4.0
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
-- name: Talisman of Creativity
->>>>>>> Stashed changes
+- name: Consign to Memory
+  weight: 1.0
+  avg_copies: 4.0
+- name: Through the Breach
+  weight: 1.0
+  avg_copies: 4.0
+- name: Emrakul, the Aeons Torn
   weight: 1.0
   avg_copies: 4.0
 - name: Devourer of Destiny
   weight: 1.0
   avg_copies: 3.5
-- name: Preordain
-  weight: 1.0
-  avg_copies: 3.0
 - name: Nulldrifter
   weight: 1.0
   avg_copies: 3.0
-<<<<<<< Updated upstream
+- name: Preordain
+  weight: 1.0
+  avg_copies: 3.0
+- name: Disruptor Flute
+  weight: 1.0
+  avg_copies: 2.0
 - name: Soulless Jailer
+  weight: 1.0
+  avg_copies: 2.0
+- name: Mystical Dispute
+  weight: 1.0
+  avg_copies: 2.0
+- name: Shivan Reef
   weight: 1.0
   avg_copies: 2.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 2.0
-- name: Shivan Reef
+- name: Island
   weight: 1.0
   avg_copies: 2.0
 - name: Steam Vents
-=======
-- name: Island
   weight: 1.0
   avg_copies: 2.0
-- name: Mystical Dispute
->>>>>>> Stashed changes
-  weight: 1.0
-  avg_copies: 2.0
-- name: Island
-  weight: 1.0
-  avg_copies: 2.0
-<<<<<<< Updated upstream
-- name: Mystical Dispute
-=======
-- name: Shivan Reef
-  weight: 1.0
-  avg_copies: 2.0
-- name: Soulless Jailer
->>>>>>> Stashed changes
-  weight: 1.0
-  avg_copies: 2.0
-- name: Disruptor Flute
-  weight: 1.0
-  avg_copies: 2.0
-<<<<<<< Updated upstream
 - name: Spell Snare
-=======
-- name: Disruptor Flute
-  weight: 1.0
-  avg_copies: 2.0
-- name: Kozilek's Return
->>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 1.5
 - name: Kozilek's Return
   weight: 1.0
   avg_copies: 1.5
-<<<<<<< Updated upstream
-- name: Vexing Bauble
-  weight: 1.0
-  avg_copies: 1.0
-- name: Mountain
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 1.0
 - name: Dress Down
-  weight: 1.0
-  avg_copies: 1.0
-- name: Sink into Stupor
-  weight: 1.0
-  avg_copies: 1.0
-- name: Polluted Delta
-=======
-- name: Sink into Stupor
-  weight: 1.0
-  avg_copies: 1.0
-- name: Dress Down
-  weight: 1.0
-  avg_copies: 1.0
-- name: Polluted Delta
   weight: 1.0
   avg_copies: 1.0
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
 - name: Vexing Bauble
->>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 1.0
-- name: Fable of the Mirror-Breaker
+- name: Sink into Stupor
+  weight: 1.0
+  avg_copies: 1.0
+- name: Talisman of Curiosity
   weight: 0.5
   avg_copies: 2.0
-- name: Talisman of Curiosity
+- name: Fable of the Mirror-Breaker
   weight: 0.5
   avg_copies: 2.0
 - name: Remand
   weight: 0.5
   avg_copies: 2.0
-<<<<<<< Updated upstream
-- name: Thundering Falls
-=======
 - name: Gemstone Caverns
+  weight: 0.5
+  avg_copies: 1.0
+- name: Thundering Falls
   weight: 0.5
   avg_copies: 1.0
 - name: Lórien Revealed
->>>>>>> Stashed changes
-  weight: 0.5
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.5
-  avg_copies: 1.0
-- name: Gemstone Caverns
   weight: 0.5
   avg_copies: 1.0
 ---

@@ -9,20 +9,13 @@ name: Domain Zoo
 meta_share: 0.0339
 list_count: 34
 top_cards:
-- name: Leyline of the Guildpact
+- name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
-<<<<<<< Updated upstream
-- name: Leyline of the Guildpact
-=======
 - name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
-- name: Territorial Kavu
->>>>>>> Stashed changes
-  weight: 1.0
-  avg_copies: 4.0
-- name: Territorial Kavu
+- name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline Binding
@@ -48,12 +41,8 @@ top_cards:
   avg_copies: 1.68
 - name: Wear
   weight: 1.0
-<<<<<<< Updated upstream
   avg_copies: 1.62
-=======
-  avg_copies: 1.63
->>>>>>> Stashed changes
-- name: Godless Shrine
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 - name: Indatha Triome
@@ -62,8 +51,7 @@ top_cards:
 - name: Plains
   weight: 1.0
   avg_copies: 1.0
-<<<<<<< Updated upstream
-- name: Temple Garden
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
 - name: Doorkeeper Thrull
@@ -72,17 +60,6 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 0.9706
   avg_copies: 3.88
-=======
-- name: Plains
-  weight: 1.0
-  avg_copies: 1.0
-- name: Ragavan, Nimble Pilferer
-  weight: 0.9667
-  avg_copies: 3.97
-- name: Doorkeeper Thrull
-  weight: 0.9667
-  avg_copies: 3.97
->>>>>>> Stashed changes
 - name: Phlage, Titan of Fire's Fury
   weight: 0.9706
   avg_copies: 3.82
@@ -98,10 +75,10 @@ top_cards:
 - name: Arena of Glory
   weight: 0.9706
   avg_copies: 1.91
-- name: Thundering Falls
+- name: Mountain
   weight: 0.9118
   avg_copies: 1.0
-- name: Mountain
+- name: Thundering Falls
   weight: 0.9118
   avg_copies: 1.0
 - name: Damping Sphere
@@ -137,10 +114,10 @@ top_cards:
 - name: The Legend of Roku
   weight: 0.1765
   avg_copies: 1.14
-- name: Pyroclasm
+- name: High Noon
   weight: 0.1471
   avg_copies: 1.0
-- name: High Noon
+- name: Pyroclasm
   weight: 0.1471
   avg_copies: 1.0
 - name: Strix Serenade
@@ -149,34 +126,19 @@ top_cards:
 - name: Clarion Conqueror
   weight: 0.1176
   avg_copies: 1.0
-<<<<<<< Updated upstream
 - name: Celestial Purge
   weight: 0.0882
   avg_copies: 1.0
-- name: Does Machines
-  weight: 0.0588
-=======
 - name: Fable of the Mirror-Breaker
-  weight: 0.0667
+  weight: 0.0588
   avg_copies: 1.0
 - name: Does Machines
-  weight: 0.0667
->>>>>>> Stashed changes
+  weight: 0.0588
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.0588
   avg_copies: 1.0
-- name: Fable of the Mirror-Breaker
-  weight: 0.0588
-  avg_copies: 1.0
-<<<<<<< Updated upstream
-- name: Psychic Frog
-  weight: 0.0294
-  avg_copies: 4.0
 - name: Aurora Awakener
-  weight: 0.0294
-  avg_copies: 4.0
-- name: Faithless Looting
   weight: 0.0294
   avg_copies: 4.0
 - name: Archon of Cruelty
@@ -184,22 +146,12 @@ top_cards:
   avg_copies: 4.0
 - name: Persist
   weight: 0.0294
-=======
-- name: Persist
-  weight: 0.0333
-  avg_copies: 4.0
-- name: Psychic Frog
-  weight: 0.0333
-  avg_copies: 4.0
-- name: Archon of Cruelty
-  weight: 0.0333
   avg_copies: 4.0
 - name: Faithless Looting
-  weight: 0.0333
+  weight: 0.0294
   avg_copies: 4.0
-- name: Aurora Awakener
-  weight: 0.0333
->>>>>>> Stashed changes
+- name: Psychic Frog
+  weight: 0.0294
   avg_copies: 4.0
 - name: Summoning Trap
   weight: 0.0294
@@ -207,47 +159,28 @@ top_cards:
 - name: Drannith Magistrate
   weight: 0.0294
   avg_copies: 2.0
-<<<<<<< Updated upstream
-- name: Orcish Bowmasters
-  weight: 0.0294
-=======
 - name: Raucous Theater
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Meltdown
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Quantum Riddler
-  weight: 0.0333
->>>>>>> Stashed changes
-  avg_copies: 1.0
-- name: Quantum Riddler
   weight: 0.0294
   avg_copies: 1.0
 - name: Breeding Pool
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Orcish Bowmasters
   weight: 0.0294
   avg_copies: 1.0
 - name: Glasspool Mimic
   weight: 0.0294
   avg_copies: 1.0
-<<<<<<< Updated upstream
+- name: Quantum Riddler
+  weight: 0.0294
+  avg_copies: 1.0
 - name: Meltdown
   weight: 0.0294
   avg_copies: 1.0
 - name: Vexing Bauble
   weight: 0.0294
-=======
-- name: Breeding Pool
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Orcish Bowmasters
-  weight: 0.0333
->>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Blood Crypt
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Raucous Theater
   weight: 0.0294
   avg_copies: 1.0
 ---

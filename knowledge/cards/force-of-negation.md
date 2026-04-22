@@ -25,7 +25,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   azorius-control:
-    weight: 0.6087
+    weight: 0.5833
     avg_copies: 1.19
   living-end:
     weight: 1.0
@@ -40,7 +40,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.52
   izzet-prowess:
-    weight: 0.125
+    weight: 0.122
     avg_copies: 1.4
   4c-omnath:
     weight: 1.0
@@ -58,7 +58,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   izzet-cori-steel:
-    weight: 0.6364
+    weight: 0.7
     avg_copies: 1.43
   izzet-splinter-twin:
     weight: 1.0

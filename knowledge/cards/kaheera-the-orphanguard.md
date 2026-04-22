@@ -11,6 +11,6 @@ type: Legendary Creature — Cat Beast
 meta_presence: 0.01
 archetypes:
   azorius-control:
-    weight: 0.4348
+    weight: 0.4167
     avg_copies: 1.0
 ---

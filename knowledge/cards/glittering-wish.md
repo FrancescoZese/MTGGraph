@@ -10,7 +10,7 @@ set: tsr
 type: Sorcery
 meta_presence: 0.001
 archetypes:
-  eldrazi-ramp:
-    weight: 0.0455
+  neoform-combo:
+    weight: 0.0476
     avg_copies: 4.0
 ---

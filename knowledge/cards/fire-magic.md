@@ -19,10 +19,10 @@ archetypes:
     weight: 0.3095
     avg_copies: 2.69
   azorius-control:
-    weight: 0.3478
+    weight: 0.3333
     avg_copies: 1.62
   hollow-one:
-    weight: 0.0714
+    weight: 0.0667
     avg_copies: 4.0
   boros-ponza:
     weight: 0.5294
@@ -37,7 +37,7 @@ archetypes:
     weight: 0.7
     avg_copies: 2.57
   izzet-cori-steel:
-    weight: 0.4545
+    weight: 0.5
     avg_copies: 1.8
   grixis-control:
     weight: 1.0

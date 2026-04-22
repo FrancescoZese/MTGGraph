@@ -22,7 +22,7 @@ archetypes:
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
-    avg_copies: 1.91
+    avg_copies: 1.92
   domain-zoo:
     weight: 1.0
     avg_copies: 1.0

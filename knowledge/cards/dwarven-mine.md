@@ -9,7 +9,7 @@ type: Land — Mountain
 meta_presence: 0.008
 archetypes:
   hollow-one:
-    weight: 0.0714
+    weight: 0.0667
     avg_copies: 1.0
   indomitable-creativity:
     weight: 1.0

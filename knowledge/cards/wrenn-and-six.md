@@ -14,7 +14,7 @@ archetypes:
     weight: 0.013
     avg_copies: 3.0
   hollow-one:
-    weight: 0.0714
+    weight: 0.0667
     avg_copies: 1.0
   indomitable-creativity:
     weight: 1.0

@@ -11,7 +11,7 @@ type: Instant
 meta_presence: 0.007
 archetypes:
   hollow-one:
-    weight: 0.4286
+    weight: 0.4
     avg_copies: 1.83
   rakdos-reanimator:
     weight: 1.0

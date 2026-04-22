@@ -9,6 +9,6 @@ type: Artifact
 meta_presence: 0.021
 archetypes:
   eldrazi-ramp:
-    weight: 0.9545
+    weight: 1.0
     avg_copies: 3.38
 ---

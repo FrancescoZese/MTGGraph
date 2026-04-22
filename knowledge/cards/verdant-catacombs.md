@@ -15,16 +15,16 @@ archetypes:
     weight: 0.0526
     avg_copies: 2.0
   neoform-combo:
-    weight: 0.35
+    weight: 0.3333
     avg_copies: 1.43
   hollow-one:
-    weight: 0.1429
-    avg_copies: 2.0
+    weight: 0.2
+    avg_copies: 2.67
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 4.0
   eldrazi-ramp:
-    weight: 0.9545
+    weight: 1.0
     avg_copies: 1.0
   simic-ritual:
     weight: 0.88
@@ -47,9 +47,6 @@ archetypes:
   mono-green-ramp:
     weight: 1.0
     avg_copies: 1.0
-  cosmogoyf-fling:
-    weight: 0.1667
-    avg_copies: 4.0
   unknown-2:
     weight: 1.0
     avg_copies: 1.0

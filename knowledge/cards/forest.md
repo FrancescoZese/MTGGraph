@@ -21,17 +21,17 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.05
+    weight: 0.0952
     avg_copies: 1.0
   hollow-one:
-    weight: 0.0714
+    weight: 0.0667
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 1.82
   eldrazi-ramp:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.05
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
@@ -54,7 +54,7 @@ archetypes:
     weight: 1.0
     avg_copies: 6.0
   cosmogoyf-fling:
-    weight: 0.8333
+    weight: 1.0
     avg_copies: 1.0
   scapeshift-combo:
     weight: 1.0

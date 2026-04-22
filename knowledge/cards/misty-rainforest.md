@@ -18,7 +18,7 @@ archetypes:
     weight: 0.013
     avg_copies: 3.0
   azorius-control:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 1.0
   living-end:
     weight: 1.0
@@ -30,10 +30,10 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.95
-    avg_copies: 3.58
+    weight: 0.9524
+    avg_copies: 3.6
   hollow-one:
-    weight: 0.0714
+    weight: 0.0667
     avg_copies: 3.0
   kethis-combo:
     weight: 1.0
@@ -42,13 +42,13 @@ archetypes:
     weight: 0.3636
     avg_copies: 1.5
   eldrazi-ramp:
-    weight: 0.8636
-    avg_copies: 1.32
+    weight: 0.8571
+    avg_copies: 1.17
   simic-ritual:
     weight: 1.0
     avg_copies: 3.88
   izzet-prowess:
-    weight: 0.05
+    weight: 0.0732
     avg_copies: 2.0
   4c-omnath:
     weight: 1.0
@@ -68,9 +68,6 @@ archetypes:
   sultai-artifacts:
     weight: 0.3
     avg_copies: 3.0
-  izzet-cori-steel:
-    weight: 0.0909
-    avg_copies: 2.0
   elves:
     weight: 1.0
     avg_copies: 2.0

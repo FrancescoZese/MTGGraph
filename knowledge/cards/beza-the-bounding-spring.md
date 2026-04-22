@@ -10,7 +10,7 @@ type: Legendary Creature — Elemental Elk
 meta_presence: 0.007
 archetypes:
   azorius-control:
-    weight: 0.2609
+    weight: 0.25
     avg_copies: 1.0
   4c-omnath:
     weight: 1.0

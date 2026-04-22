@@ -17,11 +17,11 @@ archetypes:
   domain-zoo:
     weight: 0.5
     avg_copies: 1.0
+  neoform-combo:
+    weight: 0.0476
+    avg_copies: 1.0
   kethis-combo:
     weight: 1.0
-    avg_copies: 1.0
-  eldrazi-ramp:
-    weight: 0.0455
     avg_copies: 1.0
   samwise-combo:
     weight: 1.0

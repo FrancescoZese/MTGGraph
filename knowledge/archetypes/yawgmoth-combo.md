@@ -6,30 +6,22 @@ name: Yawgmoth Combo
 meta_share: 0.011
 list_count: 11
 top_cards:
+- name: Badgermole Cub
+  weight: 1.0
+  avg_copies: 4.0
 - name: Delighted Halfling
   weight: 1.0
   avg_copies: 4.0
-- name: Badgermole Cub
+- name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 4.0
 - name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
-- name: Agatha's Soul Cauldron
-  weight: 1.0
-<<<<<<< Updated upstream
-  avg_copies: 4.0
 - name: Yawgmoth, Thran Physician
   weight: 1.0
   avg_copies: 3.82
 - name: Young Wolf
-=======
-  avg_copies: 3.8
-- name: Young Wolf
-  weight: 1.0
-  avg_copies: 3.6
-- name: Malevolent Rumble
->>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 3.64
 - name: Malevolent Rumble
@@ -70,32 +62,23 @@ top_cards:
   avg_copies: 1.18
 - name: Underground Mortuary
   weight: 1.0
-<<<<<<< Updated upstream
   avg_copies: 1.09
-- name: Grist, the Hunger Tide
-=======
-  avg_copies: 1.1
-- name: Soulless Jailer
->>>>>>> Stashed changes
-  weight: 1.0
-  avg_copies: 1.0
-- name: Endurance
-  weight: 1.0
-  avg_copies: 1.0
-<<<<<<< Updated upstream
-- name: Swamp
-=======
-- name: Dryad Arbor
->>>>>>> Stashed changes
-  weight: 1.0
-  avg_copies: 1.0
-- name: Endurance
-  weight: 1.0
-  avg_copies: 1.0
-- name: Grist, the Hunger Tide
-  weight: 1.0
-  avg_copies: 1.0
 - name: Strangleroot Geist
+  weight: 1.0
+  avg_copies: 1.0
+- name: Soulless Jailer
+  weight: 1.0
+  avg_copies: 1.0
+- name: Grist, the Hunger Tide
+  weight: 1.0
+  avg_copies: 1.0
+- name: Swamp
+  weight: 1.0
+  avg_copies: 1.0
+- name: Dryad Arbor
+  weight: 1.0
+  avg_copies: 1.0
+- name: Endurance
   weight: 1.0
   avg_copies: 1.0
 - name: Windswept Heath
@@ -105,7 +88,6 @@ top_cards:
   weight: 0.9091
   avg_copies: 1.5
 - name: Ashiok, Dream Render
-<<<<<<< Updated upstream
   weight: 0.9091
   avg_copies: 1.1
 - name: Virulent Emissary
@@ -116,15 +98,6 @@ top_cards:
   avg_copies: 1.44
 - name: Outland Liberator
   weight: 0.8182
-=======
-  weight: 0.9
-  avg_copies: 1.11
-- name: Virulent Emissary
-  weight: 0.9
-  avg_copies: 1.0
-- name: Outland Liberator
-  weight: 0.9
->>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Dredger's Insight
   weight: 0.7273
@@ -141,7 +114,6 @@ top_cards:
 - name: Damping Sphere
   weight: 0.4545
   avg_copies: 1.0
-<<<<<<< Updated upstream
 - name: Misty Rainforest
   weight: 0.3636
   avg_copies: 1.5
@@ -151,39 +123,17 @@ top_cards:
 - name: Wooded Foothills
   weight: 0.3636
   avg_copies: 1.0
+- name: Haywire Mite
+  weight: 0.1818
+  avg_copies: 1.0
 - name: Hapatra, Vizier of Poisons
   weight: 0.1818
   avg_copies: 1.0
-- name: Haywire Mite
-  weight: 0.1818
-=======
-- name: Pile On
-  weight: 0.4
-  avg_copies: 1.0
-- name: Ignoble Hierarch
-  weight: 0.4
-  avg_copies: 1.0
-- name: Misty Rainforest
-  weight: 0.3
-  avg_copies: 1.67
-- name: Wooded Foothills
-  weight: 0.3
-  avg_copies: 1.0
-- name: Hapatra, Vizier of Poisons
-  weight: 0.2
-  avg_copies: 1.0
-- name: Kraul Harpooner
-  weight: 0.2
-  avg_copies: 1.0
-- name: Haywire Mite
-  weight: 0.1
-  avg_copies: 1.0
-- name: Culling Ritual
-  weight: 0.1
->>>>>>> Stashed changes
-  avg_copies: 1.0
 - name: Kraul Harpooner
   weight: 0.1818
+  avg_copies: 1.0
+- name: Assassin's Trophy
+  weight: 0.0909
   avg_copies: 1.0
 - name: Culling Ritual
   weight: 0.0909
@@ -191,10 +141,4 @@ top_cards:
 - name: Murderous Cut
   weight: 0.0909
   avg_copies: 1.0
-<<<<<<< Updated upstream
-- name: Assassin's Trophy
-  weight: 0.0909
-  avg_copies: 1.0
-=======
->>>>>>> Stashed changes
 ---

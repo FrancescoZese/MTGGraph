@@ -22,7 +22,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.64
   eldrazi-ramp:
-    weight: 0.9545
+    weight: 1.0
     avg_copies: 3.81
   sultai-reanimator:
     weight: 1.0

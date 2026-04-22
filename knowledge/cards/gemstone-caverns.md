@@ -15,7 +15,7 @@ archetypes:
     weight: 0.0238
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0435
+    weight: 0.0833
     avg_copies: 1.0
   mono-blue-tron:
     weight: 0.3333
@@ -24,7 +24,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.1364
+    weight: 0.1429
     avg_copies: 1.0
   simic-ritual:
     weight: 0.76
@@ -41,10 +41,7 @@ archetypes:
   izzet-eldrazi:
     weight: 0.5
     avg_copies: 1.0
-  jeskai-control:
-    weight: 0.25
-    avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.8333
+    weight: 1.0
     avg_copies: 4.0
 ---

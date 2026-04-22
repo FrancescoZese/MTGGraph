@@ -33,14 +33,14 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   hollow-one:
-    weight: 0.8571
-    avg_copies: 1.5
+    weight: 0.8667
+    avg_copies: 1.46
   boros-ponza:
     weight: 1.0
     avg_copies: 1.18
   izzet-prowess:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.98
   indomitable-creativity:
     weight: 1.0
     avg_copies: 1.0
@@ -51,7 +51,7 @@ archetypes:
     weight: 0.7
     avg_copies: 1.0
   izzet-cori-steel:
-    weight: 0.1818
+    weight: 0.1
     avg_copies: 1.0
   grixis-control:
     weight: 1.0
@@ -66,7 +66,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.25
+    weight: 0.3333
     avg_copies: 1.0
   rakdos-steel-cutter:
     weight: 1.0
@@ -76,9 +76,6 @@ archetypes:
     avg_copies: 2.0
   izzet-splinter-twin:
     weight: 1.0
-    avg_copies: 1.0
-  cosmogoyf-fling:
-    weight: 0.1667
     avg_copies: 1.0
   izzet-wizards:
     weight: 1.0

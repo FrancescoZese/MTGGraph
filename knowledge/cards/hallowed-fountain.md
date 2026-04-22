@@ -22,7 +22,7 @@ archetypes:
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
-    avg_copies: 1.65
+    avg_copies: 1.67
   living-end:
     weight: 0.3684
     avg_copies: 1.0

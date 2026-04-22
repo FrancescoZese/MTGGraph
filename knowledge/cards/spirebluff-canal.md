@@ -12,12 +12,12 @@ archetypes:
     weight: 0.9785
     avg_copies: 3.78
   izzet-prowess:
-    weight: 0.025
-    avg_copies: 2.0
+    weight: 0.0488
+    avg_copies: 3.0
   sultai-artifacts:
     weight: 0.2
     avg_copies: 2.5
   izzet-cori-steel:
     weight: 1.0
-    avg_copies: 3.36
+    avg_copies: 3.3
 ---

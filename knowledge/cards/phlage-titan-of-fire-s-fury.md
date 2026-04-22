@@ -20,7 +20,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.81
   azorius-control:
-    weight: 0.4783
+    weight: 0.4583
     avg_copies: 1.17
   domain-zoo:
     weight: 0.9706
@@ -32,7 +32,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   jeskai-control:
-    weight: 0.75
+    weight: 1.0
     avg_copies: 3.0
   naya-midrange:
     weight: 1.0

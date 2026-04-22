@@ -12,25 +12,15 @@ top_cards:
 - name: Price of Freedom
   weight: 1.0
   avg_copies: 4.0
-<<<<<<< Updated upstream
-- name: Galvanic Discharge
+- name: Demolition Field
   weight: 1.0
   avg_copies: 3.88
-=======
->>>>>>> Stashed changes
 - name: Field of Ruin
   weight: 1.0
   avg_copies: 3.88
-- name: Demolition Field
-  weight: 1.0
-<<<<<<< Updated upstream
-  avg_copies: 3.88
-=======
-  avg_copies: 3.85
 - name: Galvanic Discharge
   weight: 1.0
-  avg_copies: 3.85
->>>>>>> Stashed changes
+  avg_copies: 3.88
 - name: Cleansing Wildfire
   weight: 1.0
   avg_copies: 3.82
@@ -116,7 +106,6 @@ top_cards:
   weight: 0.1176
   avg_copies: 2.0
 - name: Ghost Quarter
-<<<<<<< Updated upstream
   weight: 0.1176
   avg_copies: 1.0
 - name: Meltdown
@@ -125,26 +114,11 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.0588
   avg_copies: 2.0
-- name: Gideon, Ally of Zendikar
-  weight: 0.0588
-  avg_copies: 2.0
 - name: Settle the Wreckage
   weight: 0.0588
-=======
-  weight: 0.1538
-  avg_copies: 1.0
-- name: Meltdown
-  weight: 0.1538
-  avg_copies: 1.0
-- name: Prismatic Ending
-  weight: 0.0769
-  avg_copies: 2.0
-- name: Settle the Wreckage
-  weight: 0.0769
   avg_copies: 2.0
 - name: Gideon, Ally of Zendikar
-  weight: 0.0769
->>>>>>> Stashed changes
+  weight: 0.0588
   avg_copies: 2.0
 ---
 Hatebears deck using land destruction and taxing effects to slow opponents while deploying efficient creatures.

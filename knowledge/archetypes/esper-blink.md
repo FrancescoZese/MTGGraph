@@ -7,38 +7,21 @@ name: Esper Blink
 meta_share: 0.01
 list_count: 10
 top_cards:
-<<<<<<< Updated upstream
 - name: Overlord of the Balemurk
+  weight: 1.0
+  avg_copies: 4.0
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
-=======
-- name: Solitude
->>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
-  weight: 1.0
-  avg_copies: 4.0
-- name: Overlord of the Balemurk
-  weight: 1.0
-<<<<<<< Updated upstream
-  avg_copies: 3.9
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 3.9
-=======
-  avg_copies: 4.0
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 3.89
 - name: Phelia, Exuberant Shepherd
   weight: 1.0
-  avg_copies: 3.89
-- name: Quantum Riddler
+  avg_copies: 3.9
+- name: Marsh Flats
   weight: 1.0
-  avg_copies: 3.44
->>>>>>> Stashed changes
+  avg_copies: 3.9
 - name: Fatal Push
   weight: 1.0
   avg_copies: 3.4
@@ -68,41 +51,32 @@ top_cards:
   avg_copies: 1.5
 - name: Hallowed Fountain
   weight: 1.0
-<<<<<<< Updated upstream
   avg_copies: 1.1
+- name: Shadowy Backstreet
+  weight: 1.0
+  avg_copies: 1.0
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Watery Grave
-=======
-  avg_copies: 1.11
-- name: Meticulous Archive
->>>>>>> Stashed changes
-  weight: 1.0
-  avg_copies: 1.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Watery Grave
-  weight: 1.0
-  avg_copies: 1.0
-- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Thoughtseize
   weight: 0.9
   avg_copies: 3.6
-- name: Ephemerate
+- name: Emperor of Bones
   weight: 0.9
   avg_copies: 2.67
-- name: Emperor of Bones
+- name: Ephemerate
   weight: 0.9
   avg_copies: 2.67
 - name: Flickerwisp
   weight: 0.9
   avg_copies: 2.44
 - name: Polluted Delta
-<<<<<<< Updated upstream
   weight: 0.9
   avg_copies: 1.89
 - name: Undercity Sewers
@@ -110,15 +84,6 @@ top_cards:
   avg_copies: 1.0
 - name: Boggart Trawler
   weight: 0.9
-=======
-  weight: 0.8889
-  avg_copies: 1.75
-- name: Boggart Trawler
-  weight: 0.8889
-  avg_copies: 1.0
-- name: Undercity Sewers
-  weight: 0.8889
->>>>>>> Stashed changes
   avg_copies: 1.0
 - name: High Noon
   weight: 0.8
@@ -138,85 +103,50 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.3
   avg_copies: 1.0
-<<<<<<< Updated upstream
-=======
-- name: Ashiok, Dream Render
-  weight: 0.2222
-  avg_copies: 1.0
-- name: No More Lies
-  weight: 0.1111
-  avg_copies: 4.0
->>>>>>> Stashed changes
 - name: Psychic Frog
   weight: 0.2
   avg_copies: 4.0
 - name: Ashiok, Dream Render
   weight: 0.2
   avg_copies: 1.0
+- name: Subtlety
+  weight: 0.1
+  avg_copies: 4.0
 - name: No More Lies
   weight: 0.1
   avg_copies: 4.0
 - name: Force of Negation
   weight: 0.1
   avg_copies: 4.0
-- name: Subtlety
-  weight: 0.1
-  avg_copies: 4.0
-- name: Clarion Conqueror
-  weight: 0.1
-  avg_copies: 2.0
 - name: White Orchid Phantom
   weight: 0.1
   avg_copies: 2.0
-<<<<<<< Updated upstream
+- name: Clarion Conqueror
+  weight: 0.1
+  avg_copies: 2.0
 - name: Bleachbone Verge
-  weight: 0.1
-  avg_copies: 1.0
-- name: Floodfarm Verge
-  weight: 0.1
-  avg_copies: 1.0
-- name: March of Otherworldly Light
-  weight: 0.1
-  avg_copies: 1.0
-- name: Emptiness
   weight: 0.1
   avg_copies: 1.0
 - name: Hydroelectric Specimen
   weight: 0.1
   avg_copies: 1.0
-- name: Windswept Heath
-  weight: 0.1
-  avg_copies: 1.0
-- name: Strix Serenade
-  weight: 0.1
-  avg_copies: 1.0
 - name: Celestial Purge
   weight: 0.1
-=======
-- name: Windswept Heath
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Emptiness
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Hydroelectric Specimen
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Strix Serenade
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Floodfarm Verge
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Bleachbone Verge
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Celestial Purge
-  weight: 0.1111
   avg_copies: 1.0
 - name: March of Otherworldly Light
-  weight: 0.1111
->>>>>>> Stashed changes
+  weight: 0.1
+  avg_copies: 1.0
+- name: Floodfarm Verge
+  weight: 0.1
+  avg_copies: 1.0
+- name: Strix Serenade
+  weight: 0.1
+  avg_copies: 1.0
+- name: Emptiness
+  weight: 0.1
+  avg_copies: 1.0
+- name: Windswept Heath
+  weight: 0.1
   avg_copies: 1.0
 ---
 Three-color blink-midrange deck using Phelia and Ephemerate to generate value from Overlord of the Balemurk and Solitude.

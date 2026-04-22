@@ -39,7 +39,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.05
+    weight: 0.0476
     avg_copies: 1.0
   mono-blue-tron:
     weight: 1.0
@@ -48,8 +48,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.05
-    avg_copies: 1.0
+    weight: 0.0732
+    avg_copies: 1.33
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
@@ -70,7 +70,7 @@ archetypes:
     avg_copies: 2.0
   izzet-cori-steel:
     weight: 1.0
-    avg_copies: 1.55
+    avg_copies: 1.5
   grixis-control:
     weight: 1.0
     avg_copies: 4.0
@@ -78,8 +78,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   jeskai-control:
-    weight: 0.75
-    avg_copies: 1.33
+    weight: 0.6667
+    avg_copies: 1.0
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 3.0

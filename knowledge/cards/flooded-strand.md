@@ -25,7 +25,7 @@ archetypes:
     avg_copies: 3.31
   azorius-control:
     weight: 1.0
-    avg_copies: 3.87
+    avg_copies: 3.88
   living-end:
     weight: 0.0526
     avg_copies: 2.0
@@ -39,7 +39,7 @@ archetypes:
     weight: 0.8333
     avg_copies: 1.6
   neoform-combo:
-    weight: 0.55
+    weight: 0.5238
     avg_copies: 1.0
   hammer-time:
     weight: 1.0
@@ -51,7 +51,7 @@ archetypes:
     weight: 0.08
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.025
+    weight: 0.0244
     avg_copies: 1.0
   4c-omnath:
     weight: 1.0

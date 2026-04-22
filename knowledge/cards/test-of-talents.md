@@ -10,6 +10,6 @@ type: Instant
 meta_presence: 0.006
 archetypes:
   izzet-cori-steel:
-    weight: 0.5455
+    weight: 0.6
     avg_copies: 2.33
 ---

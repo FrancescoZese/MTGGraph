@@ -8,10 +8,13 @@ set: dsc
 type: Land
 meta_presence: 0.007
 archetypes:
+  hollow-one:
+    weight: 0.0667
+    avg_copies: 1.0
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 4.0
   cosmogoyf-fling:
     weight: 1.0
-    avg_copies: 3.5
+    avg_copies: 4.0
 ---

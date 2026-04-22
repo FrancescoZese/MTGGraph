@@ -18,17 +18,20 @@ archetypes:
   burn:
     weight: 0.5
     avg_copies: 3.0
+  hollow-one:
+    weight: 0.0667
+    avg_copies: 2.0
   simic-ritual:
     weight: 0.04
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.075
+    weight: 0.0732
     avg_copies: 1.67
   sultai-artifacts:
     weight: 0.2
     avg_copies: 1.5
   izzet-cori-steel:
-    weight: 0.0909
+    weight: 0.1
     avg_copies: 2.0
   jund-saga:
     weight: 1.0
@@ -38,9 +41,6 @@ archetypes:
     avg_copies: 3.0
   rakdos-steel-cutter:
     weight: 0.25
-    avg_copies: 2.0
-  cosmogoyf-fling:
-    weight: 0.1667
     avg_copies: 2.0
   unknown-2:
     weight: 1.0

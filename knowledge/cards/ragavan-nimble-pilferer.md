@@ -24,8 +24,8 @@ archetypes:
   mardu-blink:
     weight: 1.0
     avg_copies: 3.14
-  izzet-cori-steel:
-    weight: 0.0909
+  izzet-prowess:
+    weight: 0.0244
     avg_copies: 4.0
   jund-saga:
     weight: 1.0

@@ -28,10 +28,10 @@ archetypes:
     weight: 1.0
     avg_copies: 3.25
   hollow-one:
-    weight: 0.7857
-    avg_copies: 2.82
+    weight: 0.8
+    avg_copies: 2.92
   eldrazi-ramp:
-    weight: 0.2727
+    weight: 0.2857
     avg_copies: 1.0
   izzet-prowess:
     weight: 1.0
@@ -40,7 +40,7 @@ archetypes:
     weight: 0.7143
     avg_copies: 1.4
   izzet-cori-steel:
-    weight: 0.2727
+    weight: 0.2
     avg_copies: 4.0
   grixis-control:
     weight: 1.0
@@ -59,9 +59,6 @@ archetypes:
     avg_copies: 3.0
   izzet-splinter-twin:
     weight: 1.0
-    avg_copies: 4.0
-  cosmogoyf-fling:
-    weight: 0.1667
     avg_copies: 4.0
   izzet-wizards:
     weight: 1.0

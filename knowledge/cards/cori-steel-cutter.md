@@ -17,7 +17,7 @@ archetypes:
     avg_copies: 3.5
   izzet-cori-steel:
     weight: 1.0
-    avg_copies: 3.91
+    avg_copies: 3.9
   rakdos-steel-cutter:
     weight: 0.75
     avg_copies: 4.0

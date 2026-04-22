@@ -24,22 +24,22 @@ archetypes:
     weight: 0.119
     avg_copies: 1.0
   azorius-control:
-    weight: 0.2609
-    avg_copies: 1.83
+    weight: 0.2917
+    avg_copies: 2.0
   mill:
     weight: 1.0
     avg_copies: 2.83
   hollow-one:
-    weight: 0.0714
+    weight: 0.0667
     avg_copies: 1.0
   boros-ponza:
     weight: 0.1176
     avg_copies: 2.0
   eldrazi-ramp:
-    weight: 0.0455
+    weight: 0.0476
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.1
+    weight: 0.0976
     avg_copies: 1.25
   broodscale-combo:
     weight: 1.0
@@ -48,12 +48,9 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   izzet-cori-steel:
-    weight: 0.8182
+    weight: 0.9
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
-  jeskai-control:
-    weight: 0.25
-    avg_copies: 3.0
 ---

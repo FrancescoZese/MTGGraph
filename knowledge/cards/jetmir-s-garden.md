@@ -9,7 +9,7 @@ type: Land — Mountain Forest Plains
 meta_presence: 0.006
 archetypes:
   hollow-one:
-    weight: 0.0714
+    weight: 0.0667
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.7143

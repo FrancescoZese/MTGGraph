@@ -18,25 +18,25 @@ archetypes:
     weight: 1.0
     avg_copies: 3.74
   neoform-combo:
-    weight: 0.8
+    weight: 0.7619
     avg_copies: 1.0
   burn:
     weight: 1.0
     avg_copies: 2.5
   hollow-one:
-    weight: 0.8571
-    avg_copies: 2.58
+    weight: 0.8667
+    avg_copies: 2.54
   yawgmoth-combo:
     weight: 0.3636
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.7273
+    weight: 0.7619
     avg_copies: 1.12
   simic-ritual:
     weight: 0.12
     avg_copies: 3.67
   izzet-prowess:
-    weight: 0.9
+    weight: 0.878
     avg_copies: 2.75
   samwise-combo:
     weight: 0.4444
@@ -65,9 +65,6 @@ archetypes:
   mono-green-stompy:
     weight: 1.0
     avg_copies: 4.0
-  cosmogoyf-fling:
-    weight: 0.1667
-    avg_copies: 2.0
   naya-midrange:
     weight: 1.0
     avg_copies: 2.0

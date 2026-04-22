@@ -13,13 +13,13 @@ archetypes:
     weight: 1.0
     avg_copies: 3.84
   neoform-combo:
-    weight: 0.75
+    weight: 0.7143
     avg_copies: 1.0
   simic-ritual:
     weight: 1.0
     avg_copies: 3.88
   izzet-prowess:
-    weight: 0.125
+    weight: 0.122
     avg_copies: 1.6
   sultai-reanimator:
     weight: 1.0

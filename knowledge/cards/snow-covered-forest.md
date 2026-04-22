@@ -9,7 +9,7 @@ type: Basic Snow Land — Forest
 meta_presence: 0.0429
 archetypes:
   neoform-combo:
-    weight: 0.9
+    weight: 0.8571
     avg_copies: 1.11
   simic-ritual:
     weight: 1.0

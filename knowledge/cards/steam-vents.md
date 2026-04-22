@@ -18,7 +18,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.01
   azorius-control:
-    weight: 0.8261
+    weight: 0.8333
     avg_copies: 1.0
   living-end:
     weight: 0.0526
@@ -37,7 +37,7 @@ archetypes:
     avg_copies: 1.0
   izzet-prowess:
     weight: 1.0
-    avg_copies: 2.9
+    avg_copies: 2.88
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
@@ -61,7 +61,7 @@ archetypes:
     avg_copies: 2.0
   jeskai-control:
     weight: 1.0
-    avg_copies: 1.75
+    avg_copies: 2.0
   grixis-shadow:
     weight: 1.0
     avg_copies: 1.0

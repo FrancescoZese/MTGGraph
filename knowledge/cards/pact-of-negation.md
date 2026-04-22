@@ -1,13 +1,10 @@
 ---
 archetypes:
   neoform-combo:
-    weight: 0.95
-    avg_copies: 3.16
-  eldrazi-ramp:
-    weight: 0.0455
-    avg_copies: 4.0
+    weight: 0.9524
+    avg_copies: 3.2
   cosmogoyf-fling:
-    weight: 0.8333
+    weight: 1.0
     avg_copies: 3.33
 cmc: 0
 colors: []

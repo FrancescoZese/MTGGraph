@@ -18,16 +18,16 @@ archetypes:
     weight: 0.0526
     avg_copies: 1.0
   hollow-one:
-    weight: 0.1429
-    avg_copies: 2.5
+    weight: 0.2
+    avg_copies: 2.0
   eldrazi-ramp:
-    weight: 0.9545
+    weight: 1.0
     avg_copies: 1.52
   simic-ritual:
     weight: 0.04
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.4
+    weight: 0.3902
     avg_copies: 1.12
   4c-omnath:
     weight: 1.0
@@ -46,9 +46,6 @@ archetypes:
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
-    avg_copies: 1.0
-  cosmogoyf-fling:
-    weight: 0.1667
     avg_copies: 1.0
   naya-midrange:
     weight: 1.0

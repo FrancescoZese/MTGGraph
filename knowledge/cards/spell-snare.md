@@ -25,19 +25,19 @@ archetypes:
     weight: 0.1429
     avg_copies: 1.0
   azorius-control:
-    weight: 0.6522
+    weight: 0.625
     avg_copies: 1.75
   grixis-reanimator:
     weight: 0.0526
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.05
+    weight: 0.0476
     avg_copies: 1.0
   mono-blue-tron:
     weight: 0.6667
     avg_copies: 2.5
   izzet-prowess:
-    weight: 0.325
+    weight: 0.3171
     avg_copies: 1.31
   indomitable-creativity:
     weight: 0.7143
@@ -52,7 +52,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   jeskai-control:
-    weight: 0.5
+    weight: 0.6667
     avg_copies: 2.0
   izzet-splinter-twin:
     weight: 1.0

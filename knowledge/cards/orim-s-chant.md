@@ -19,10 +19,10 @@ archetypes:
     weight: 0.013
     avg_copies: 4.0
   azorius-control:
-    weight: 0.913
+    weight: 0.9167
     avg_copies: 4.0
   hollow-one:
-    weight: 0.0714
+    weight: 0.0667
     avg_copies: 4.0
   boros-ponza:
     weight: 1.0
@@ -32,5 +32,5 @@ archetypes:
     avg_copies: 3.0
   jeskai-control:
     weight: 1.0
-    avg_copies: 2.67
+    avg_copies: 2.4
 ---

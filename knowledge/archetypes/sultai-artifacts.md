@@ -6,13 +6,13 @@ name: Sultai Artifacts
 meta_share: 0.01
 list_count: 10
 top_cards:
-- name: Mox Opal
-  weight: 1.0
-  avg_copies: 4.0
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Tamiyo, Inquisitive Student
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
 - name: Emry, Lurker of the Loch
@@ -48,16 +48,10 @@ top_cards:
 - name: Breeding Pool
   weight: 0.9
   avg_copies: 1.11
-<<<<<<< Updated upstream
-=======
-- name: Island
-  weight: 0.9
-  avg_copies: 1.0
->>>>>>> Stashed changes
 - name: Thundering Falls
   weight: 0.9
   avg_copies: 1.0
-- name: Strix Serenade
+- name: Island
   weight: 0.9
   avg_copies: 1.0
 - name: Strix Serenade
@@ -75,10 +69,10 @@ top_cards:
 - name: Blood Moon
   weight: 0.7
   avg_copies: 2.86
-- name: Quantum Riddler
+- name: Fire Magic
   weight: 0.7
   avg_copies: 2.57
-- name: Fire Magic
+- name: Quantum Riddler
   weight: 0.7
   avg_copies: 2.57
 - name: Flame of Anor
@@ -90,26 +84,22 @@ top_cards:
 - name: Mountain
   weight: 0.7
   avg_copies: 1.0
-<<<<<<< Updated upstream
 - name: Shadowspear
-=======
+  weight: 0.6
+  avg_copies: 1.0
+- name: Minamo, School at Water's Edge
+  weight: 0.6
+  avg_copies: 1.0
 - name: Flooded Strand
->>>>>>> Stashed changes
-  weight: 0.6
-  avg_copies: 1.0
-- name: Minamo, School at Water's Edge
-  weight: 0.6
-  avg_copies: 1.0
-- name: Minamo, School at Water's Edge
   weight: 0.6
   avg_copies: 1.0
 - name: Repeal
   weight: 0.5
   avg_copies: 1.2
-- name: Pithing Needle
+- name: Soul-Guide Lantern
   weight: 0.5
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Pithing Needle
   weight: 0.5
   avg_copies: 1.0
 - name: Otawara, Soaring City
@@ -121,10 +111,10 @@ top_cards:
 - name: Sewer-veillance Cam
   weight: 0.3
   avg_copies: 4.0
-- name: Grinding Station
+- name: Misty Rainforest
   weight: 0.3
   avg_copies: 3.0
-- name: Misty Rainforest
+- name: Grinding Station
   weight: 0.3
   avg_copies: 3.0
 - name: Sink into Stupor
@@ -142,38 +132,28 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.2
   avg_copies: 2.0
-- name: Endurance
+- name: Six
   weight: 0.2
   avg_copies: 2.0
-- name: Six
+- name: Endurance
   weight: 0.2
   avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.2
   avg_copies: 1.5
-<<<<<<< Updated upstream
-- name: Boseiju, Who Endures
-  weight: 0.2
-  avg_copies: 1.0
-- name: Hedge Maze
-=======
-- name: Hedge Maze
-  weight: 0.2
-  avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Grafdigger's Cage
   weight: 0.2
   avg_copies: 1.0
 - name: Engineered Explosives
->>>>>>> Stashed changes
   weight: 0.2
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Hedge Maze
   weight: 0.2
   avg_copies: 1.0
 - name: Shifting Woodland
   weight: 0.2
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Boseiju, Who Endures
   weight: 0.2
   avg_copies: 1.0
 - name: Whipflare
@@ -188,61 +168,37 @@ top_cards:
 - name: The Reality Chip
   weight: 0.1
   avg_copies: 2.0
+- name: Kappa Cannoneer
+  weight: 0.1
+  avg_copies: 2.0
 - name: Botanical Sanctum
   weight: 0.1
   avg_copies: 2.0
-<<<<<<< Updated upstream
 - name: Harbinger of the Seas
-=======
-- name: Kappa Cannoneer
->>>>>>> Stashed changes
   weight: 0.1
   avg_copies: 2.0
-- name: The Reality Chip
-  weight: 0.1
-  avg_copies: 2.0
-- name: Nature's Claim
-  weight: 0.1
-  avg_copies: 1.0
-<<<<<<< Updated upstream
 - name: Snow-Covered Mountain
-  weight: 0.1
-  avg_copies: 1.0
-- name: Stomping Ground
-  weight: 0.1
-  avg_copies: 1.0
-- name: Force of Vigor
-=======
-- name: Meltdown
   weight: 0.1
   avg_copies: 1.0
 - name: Subtlety
-  weight: 0.1
-  avg_copies: 1.0
-- name: Snow-Covered Mountain
->>>>>>> Stashed changes
-  weight: 0.1
-  avg_copies: 1.0
-- name: Snow-Covered Island
-  weight: 0.1
-  avg_copies: 1.0
-<<<<<<< Updated upstream
-- name: Snow-Covered Island
   weight: 0.1
   avg_copies: 1.0
 - name: Swan Song
   weight: 0.1
   avg_copies: 1.0
-- name: Subtlety
-=======
-- name: Stomping Ground
-  weight: 0.1
-  avg_copies: 1.0
 - name: Force of Vigor
   weight: 0.1
   avg_copies: 1.0
 - name: Nature's Claim
->>>>>>> Stashed changes
+  weight: 0.1
+  avg_copies: 1.0
+- name: Snow-Covered Island
+  weight: 0.1
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 0.1
+  avg_copies: 1.0
+- name: Stomping Ground
   weight: 0.1
   avg_copies: 1.0
 ---

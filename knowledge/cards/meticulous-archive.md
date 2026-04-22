@@ -22,15 +22,15 @@ archetypes:
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
-    avg_copies: 1.78
+    avg_copies: 1.75
   living-end:
     weight: 0.3684
     avg_copies: 1.0
+  neoform-combo:
+    weight: 0.0476
+    avg_copies: 1.0
   hammer-time:
     weight: 0.5
-    avg_copies: 1.0
-  eldrazi-ramp:
-    weight: 0.0455
     avg_copies: 1.0
   esper-blink:
     weight: 1.0
@@ -46,7 +46,7 @@ archetypes:
     avg_copies: 2.0
   jeskai-control:
     weight: 1.0
-    avg_copies: 1.5
+    avg_copies: 1.67
   bant-ritual:
     weight: 1.0
     avg_copies: 1.0

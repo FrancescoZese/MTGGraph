@@ -12,7 +12,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.5455
+    weight: 0.5714
     avg_copies: 1.0
   sultai-artifacts:
     weight: 0.2

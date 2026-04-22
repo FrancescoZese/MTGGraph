@@ -25,10 +25,10 @@ archetypes:
     weight: 0.8571
     avg_copies: 2.33
   hollow-one:
-    weight: 0.2857
+    weight: 0.2667
     avg_copies: 2.5
   izzet-prowess:
-    weight: 0.1
+    weight: 0.0976
     avg_copies: 1.75
   4c-omnath:
     weight: 1.0
@@ -40,7 +40,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   jeskai-control:
-    weight: 0.25
+    weight: 0.3333
     avg_copies: 2.0
   rakdos-steel-cutter:
     weight: 1.0

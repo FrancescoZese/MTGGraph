@@ -39,7 +39,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   hollow-one:
-    weight: 0.9286
+    weight: 0.8667
     avg_copies: 2.23
   boros-ponza:
     weight: 1.0
@@ -51,10 +51,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.18
   eldrazi-ramp:
-    weight: 0.9091
+    weight: 0.9524
     avg_copies: 1.55
   izzet-prowess:
-    weight: 0.125
+    weight: 0.122
     avg_copies: 2.0
   samwise-combo:
     weight: 0.6667
@@ -72,7 +72,7 @@ archetypes:
     weight: 0.3
     avg_copies: 1.0
   izzet-cori-steel:
-    weight: 0.6364
+    weight: 0.7
     avg_copies: 1.0
   elves:
     weight: 1.0

@@ -6,20 +6,13 @@ name: Simic Ritual
 meta_share: 0.025
 list_count: 25
 top_cards:
-<<<<<<< Updated upstream
-- name: Coiling Oracle
-=======
+- name: Birthing Ritual
+  weight: 1.0
+  avg_copies: 4.0
 - name: Flare of Denial
   weight: 1.0
   avg_copies: 4.0
-- name: Birthing Ritual
->>>>>>> Stashed changes
-  weight: 1.0
-  avg_copies: 4.0
 - name: Coiling Oracle
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ice-Fang Coatl
   weight: 1.0
   avg_copies: 4.0
 - name: Ice-Fang Coatl
@@ -27,16 +20,11 @@ top_cards:
   avg_copies: 4.0
 - name: Misty Rainforest
   weight: 1.0
-<<<<<<< Updated upstream
   avg_copies: 3.88
 - name: Abhorrent Oculus
-=======
-  avg_copies: 3.92
-- name: Subtlety
->>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 3.88
-- name: Abhorrent Oculus
+- name: Subtlety
   weight: 1.0
   avg_copies: 3.84
 - name: Sink into Stupor
@@ -82,17 +70,10 @@ top_cards:
   weight: 0.88
   avg_copies: 3.05
 - name: Otawara, Soaring City
-<<<<<<< Updated upstream
   weight: 0.84
   avg_copies: 1.0
 - name: Watery Grave
   weight: 0.84
-=======
-  weight: 0.8333
-  avg_copies: 1.0
-- name: Watery Grave
-  weight: 0.8333
->>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Consign to Memory
   weight: 0.8
@@ -124,16 +105,11 @@ top_cards:
 - name: Fatal Push
   weight: 0.08
   avg_copies: 2.0
-<<<<<<< Updated upstream
 - name: Undercity Sewers
   weight: 0.08
-=======
-- name: Neoform
-  weight: 0.0833
   avg_copies: 1.0
-- name: Underground Mortuary
-  weight: 0.0833
->>>>>>> Stashed changes
+- name: Neoform
+  weight: 0.08
   avg_copies: 1.0
 - name: Flooded Strand
   weight: 0.08
@@ -141,111 +117,59 @@ top_cards:
 - name: Underground Mortuary
   weight: 0.08
   avg_copies: 1.0
-- name: Neoform
-  weight: 0.08
-  avg_copies: 1.0
-<<<<<<< Updated upstream
-=======
-- name: Undercity Sewers
-  weight: 0.0833
-  avg_copies: 1.0
->>>>>>> Stashed changes
-- name: Quantum Riddler
-  weight: 0.04
-  avg_copies: 3.0
 - name: Fire Magic
   weight: 0.04
   avg_copies: 3.0
 - name: Pyroclasm
   weight: 0.04
   avg_copies: 3.0
-- name: Pyroclasm
-  weight: 0.0417
+- name: Quantum Riddler
+  weight: 0.04
   avg_copies: 3.0
 - name: Psychic Frog
   weight: 0.04
   avg_copies: 2.0
-<<<<<<< Updated upstream
-=======
-- name: Stern Scolding
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Ephara's Dispersal
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Firespout
-  weight: 0.0417
+- name: Pick Your Poison
+  weight: 0.04
   avg_copies: 1.0
 - name: Dress Down
-  weight: 0.0417
+  weight: 0.04
   avg_copies: 1.0
-- name: Pick Your Poison
-  weight: 0.0417
+- name: Fade from History
+  weight: 0.04
   avg_copies: 1.0
->>>>>>> Stashed changes
 - name: Thundering Falls
   weight: 0.04
   avg_copies: 1.0
-<<<<<<< Updated upstream
-- name: Stomping Ground
-  weight: 0.04
-=======
-- name: Scalding Tarn
-  weight: 0.0417
->>>>>>> Stashed changes
-  avg_copies: 1.0
-- name: Steam Vents
-  weight: 0.04
-  avg_copies: 1.0
-- name: Firespout
-  weight: 0.04
-  avg_copies: 1.0
-<<<<<<< Updated upstream
-- name: Pick Your Poison
+- name: Ephara's Dispersal
   weight: 0.04
   avg_copies: 1.0
 - name: Stern Scolding
   weight: 0.04
   avg_copies: 1.0
-- name: Ephara's Dispersal
+- name: Tamiyo, Inquisitive Student
   weight: 0.04
   avg_copies: 1.0
-- name: Scalding Tarn
+- name: Pond Prophet
+  weight: 0.04
+  avg_copies: 1.0
+- name: Steam Vents
   weight: 0.04
   avg_copies: 1.0
 - name: Hurkyl's Recall
   weight: 0.04
   avg_copies: 1.0
-- name: Pond Prophet
+- name: Scalding Tarn
   weight: 0.04
   avg_copies: 1.0
-- name: Dress Down
+- name: Stomping Ground
+  weight: 0.04
+  avg_copies: 1.0
+- name: Firespout
   weight: 0.04
   avg_copies: 1.0
 - name: Overgrown Tomb
   weight: 0.04
-  avg_copies: 1.0
-- name: Fade from History
-  weight: 0.04
-  avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.04
-=======
-- name: Stomping Ground
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Steam Vents
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Fade from History
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Pond Prophet
-  weight: 0.0417
->>>>>>> Stashed changes
   avg_copies: 1.0
 ---
 Cascade deck using Shardless Agent and Birthing Ritual to cheat Abhorrent Oculus and Subtlety into play. Ice-Fang Coatl and Coiling Oracle provide value while Flare of Denial offers free countermagic.

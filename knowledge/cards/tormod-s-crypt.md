@@ -27,10 +27,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.3182
+    weight: 0.3333
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.15
+    weight: 0.1463
     avg_copies: 1.29
   dredge:
     weight: 0.3333
@@ -39,6 +39,6 @@ archetypes:
     weight: 0.7
     avg_copies: 1.12
   izzet-cori-steel:
-    weight: 0.0909
+    weight: 0.1
     avg_copies: 1.0
 ---

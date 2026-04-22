@@ -25,13 +25,10 @@ archetypes:
     weight: 0.1429
     avg_copies: 2.0
   hollow-one:
-    weight: 0.0714
+    weight: 0.1333
     avg_copies: 2.0
   orzhov-blink:
     weight: 0.75
-    avg_copies: 2.0
-  cosmogoyf-fling:
-    weight: 0.1667
     avg_copies: 2.0
   esper-midrange:
     weight: 1.0

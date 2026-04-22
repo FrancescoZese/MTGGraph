@@ -13,7 +13,7 @@ archetypes:
     weight: 0.165
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.025
+    weight: 0.0244
     avg_copies: 1.0
   naya-midrange:
     weight: 1.0

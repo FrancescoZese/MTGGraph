@@ -21,10 +21,10 @@ archetypes:
     weight: 0.4211
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.95
+    weight: 0.9048
     avg_copies: 1.0
   hollow-one:
-    weight: 0.0714
+    weight: 0.0667
     avg_copies: 1.0
   kethis-combo:
     weight: 1.0
@@ -33,7 +33,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.91
   eldrazi-ramp:
-    weight: 0.1364
+    weight: 0.1429
     avg_copies: 1.0
   simic-ritual:
     weight: 1.0

@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.004
 archetypes:
   izzet-prowess:
-    weight: 0.075
+    weight: 0.0732
     avg_copies: 1.0
   rakdos-reanimator:
     weight: 1.0

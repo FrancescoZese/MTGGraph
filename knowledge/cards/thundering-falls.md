@@ -18,7 +18,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.04
   azorius-control:
-    weight: 0.8261
+    weight: 0.7917
     avg_copies: 1.0
   affinity:
     weight: 0.086
@@ -30,10 +30,10 @@ archetypes:
     weight: 0.1053
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.05
+    weight: 0.0476
     avg_copies: 1.0
   hollow-one:
-    weight: 0.0714
+    weight: 0.0667
     avg_copies: 1.0
   simic-ritual:
     weight: 0.04
@@ -54,7 +54,7 @@ archetypes:
     weight: 0.9
     avg_copies: 1.0
   izzet-cori-steel:
-    weight: 0.1818
+    weight: 0.1
     avg_copies: 1.0
   grixis-control:
     weight: 1.0
@@ -63,7 +63,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.75
+    weight: 1.0
     avg_copies: 1.0
   izzet-splinter-twin:
     weight: 1.0

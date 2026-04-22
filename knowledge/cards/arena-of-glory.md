@@ -24,13 +24,13 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   hollow-one:
-    weight: 0.7857
+    weight: 0.7333
     avg_copies: 1.82
   eldrazi-ramp:
-    weight: 0.0455
+    weight: 0.0476
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.75
+    weight: 1.0
     avg_copies: 2.0
   rakdos-steel-cutter:
     weight: 1.0

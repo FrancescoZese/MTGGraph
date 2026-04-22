@@ -18,17 +18,17 @@ archetypes:
     weight: 0.0476
     avg_copies: 1.0
   azorius-control:
-    weight: 0.087
+    weight: 0.0833
     avg_copies: 2.0
   neoform-combo:
-    weight: 0.05
-    avg_copies: 1.0
+    weight: 0.0952
+    avg_copies: 2.5
   yawgmoth-combo:
     weight: 0.9091
     avg_copies: 3.3
   eldrazi-ramp:
-    weight: 0.9545
-    avg_copies: 1.19
+    weight: 0.9524
+    avg_copies: 1.05
   4c-omnath:
     weight: 1.0
     avg_copies: 2.0

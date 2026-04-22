@@ -13,7 +13,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.71
   hollow-one:
-    weight: 0.9286
+    weight: 0.9333
     avg_copies: 4.0
   dredge:
     weight: 0.3333
@@ -24,9 +24,6 @@ archetypes:
   rakdos-reanimator:
     weight: 1.0
     avg_copies: 2.0
-  cosmogoyf-fling:
-    weight: 0.1667
-    avg_copies: 4.0
   unknown-2:
     weight: 1.0
     avg_copies: 2.0

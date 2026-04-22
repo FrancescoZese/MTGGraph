@@ -24,7 +24,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.6364
+    weight: 0.6667
     avg_copies: 1.21
   samwise-combo:
     weight: 0.4444

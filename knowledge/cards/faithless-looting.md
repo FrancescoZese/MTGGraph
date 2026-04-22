@@ -16,7 +16,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.84
   hollow-one:
-    weight: 0.9286
+    weight: 0.9333
     avg_copies: 4.0
   indomitable-creativity:
     weight: 0.2857
@@ -26,9 +26,6 @@ archetypes:
     avg_copies: 4.0
   rakdos-reanimator:
     weight: 1.0
-    avg_copies: 4.0
-  cosmogoyf-fling:
-    weight: 0.1667
     avg_copies: 4.0
   naya-midrange:
     weight: 1.0

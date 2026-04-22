@@ -11,12 +11,12 @@ type: Legendary Planeswalker — Teferi
 meta_presence: 0.013
 archetypes:
   azorius-control:
-    weight: 0.4348
+    weight: 0.4167
     avg_copies: 1.3
   esper-control:
     weight: 1.0
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.5
+    weight: 0.6667
     avg_copies: 1.0
 ---

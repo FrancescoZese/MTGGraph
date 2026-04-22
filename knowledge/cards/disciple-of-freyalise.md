@@ -12,15 +12,12 @@ archetypes:
     weight: 0.4211
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.95
-    avg_copies: 2.16
-  eldrazi-ramp:
-    weight: 0.0455
-    avg_copies: 1.0
+    weight: 0.9524
+    avg_copies: 2.1
   mono-green-ramp:
     weight: 1.0
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.1667
+    weight: 0.2
     avg_copies: 1.0
 ---

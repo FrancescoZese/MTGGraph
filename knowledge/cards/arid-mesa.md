@@ -18,8 +18,8 @@ archetypes:
     weight: 0.987
     avg_copies: 3.7
   azorius-control:
-    weight: 0.913
-    avg_copies: 2.9
+    weight: 0.9167
+    avg_copies: 2.91
   domain-zoo:
     weight: 1.0
     avg_copies: 3.82
@@ -33,10 +33,10 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   hollow-one:
-    weight: 0.7857
+    weight: 0.7333
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.7
+    weight: 0.6829
     avg_copies: 2.57
   indomitable-creativity:
     weight: 1.0
@@ -52,7 +52,7 @@ archetypes:
     avg_copies: 1.67
   jeskai-control:
     weight: 1.0
-    avg_copies: 3.5
+    avg_copies: 3.67
   rakdos-steel-cutter:
     weight: 0.75
     avg_copies: 2.67

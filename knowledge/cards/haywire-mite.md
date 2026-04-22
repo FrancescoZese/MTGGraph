@@ -24,7 +24,7 @@ archetypes:
     weight: 0.1818
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.4545
+    weight: 0.4762
     avg_copies: 1.1
   samwise-combo:
     weight: 1.0
@@ -36,7 +36,7 @@ archetypes:
     weight: 0.8
     avg_copies: 1.33
   izzet-cori-steel:
-    weight: 0.0909
+    weight: 0.1
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
