@@ -7,16 +7,16 @@ name: Grixis Reanimator
 meta_share: 0.019
 list_count: 19
 top_cards:
-- name: Polluted Delta
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Persist
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Bloodstained Mire
@@ -25,13 +25,13 @@ top_cards:
 - name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 3.84
 - name: Abhorrent Oculus
   weight: 1.0
   avg_copies: 3.84
 - name: Faithless Looting
+  weight: 1.0
+  avg_copies: 3.84
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 3.84
 - name: Emperor of Bones
@@ -46,10 +46,10 @@ top_cards:
 - name: Meltdown
   weight: 1.0
   avg_copies: 2.05
-- name: Pyroclasm
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.89
-- name: Watery Grave
+- name: Pyroclasm
   weight: 1.0
   avg_copies: 1.89
 - name: Undercity Sewers
@@ -61,9 +61,6 @@ top_cards:
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 1.05
-- name: Raucous Theater
-  weight: 1.0
-  avg_copies: 1.0
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
@@ -71,6 +68,9 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
+- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
 - name: Mystical Dispute

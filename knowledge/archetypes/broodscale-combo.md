@@ -6,22 +6,22 @@ name: Broodscale Combo
 meta_share: 0.018
 list_count: 18
 top_cards:
-- name: Malevolent Rumble
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Grove of the Burnwillows
   weight: 1.0
   avg_copies: 4.0
-- name: Basking Broodscale
-  weight: 1.0
-  avg_copies: 4.0
-- name: Kozilek's Command
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Saga
+- name: Kozilek's Command
+  weight: 1.0
+  avg_copies: 4.0
+- name: Basking Broodscale
   weight: 1.0
   avg_copies: 4.0
 - name: Glaring Fleshraker
@@ -45,13 +45,13 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.4
+- name: Springleaf Drum
+  weight: 1.0
+  avg_copies: 1.0
 - name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
 - name: Soul-Guide Lantern
-  weight: 1.0
-  avg_copies: 1.0
-- name: Springleaf Drum
   weight: 1.0
   avg_copies: 1.0
 - name: Ancient Stirrings
@@ -144,10 +144,10 @@ top_cards:
 - name: Heroic Intervention
   weight: 0.0556
   avg_copies: 2.0
-- name: Ghost Quarter
+- name: Bojuka Bog
   weight: 0.0556
   avg_copies: 1.0
-- name: Bojuka Bog
+- name: Ghost Quarter
   weight: 0.0556
   avg_copies: 1.0
 ---

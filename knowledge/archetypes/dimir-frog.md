@@ -141,25 +141,25 @@ top_cards:
 - name: Gloomlake Verge
   weight: 0.15
   avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 0.15
-  avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.15
   avg_copies: 1.0
-- name: Moonshadow
+- name: Hallowed Fountain
+  weight: 0.15
+  avg_copies: 1.0
+- name: Mishra's Bauble
   weight: 0.1
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Moonshadow
   weight: 0.1
   avg_copies: 4.0
 - name: Consult the Star Charts
   weight: 0.1
   avg_copies: 2.0
-- name: Field of Ruin
+- name: Shoot the Sheriff
   weight: 0.1
   avg_copies: 1.0
-- name: Shoot the Sheriff
+- name: Field of Ruin
   weight: 0.1
   avg_copies: 1.0
 - name: Teferi, Time Raveler
@@ -171,19 +171,19 @@ top_cards:
 - name: Dress Down
   weight: 0.05
   avg_copies: 3.0
-- name: Strix Serenade
+- name: Emperor of Bones
   weight: 0.05
   avg_copies: 2.0
 - name: Dauthi Voidwalker
   weight: 0.05
   avg_copies: 2.0
+- name: Thraben Charm
+  weight: 0.05
+  avg_copies: 2.0
 - name: Archmage's Charm
   weight: 0.05
   avg_copies: 2.0
-- name: Emperor of Bones
-  weight: 0.05
-  avg_copies: 2.0
-- name: Thraben Charm
+- name: Strix Serenade
   weight: 0.05
   avg_copies: 2.0
 - name: Stony Silence
@@ -192,7 +192,13 @@ top_cards:
 - name: Celestial Purge
   weight: 0.05
   avg_copies: 1.0
-- name: Vanishing Verse
+- name: High Noon
+  weight: 0.05
+  avg_copies: 1.0
+- name: Damnation
+  weight: 0.05
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
   weight: 0.05
   avg_copies: 1.0
 - name: Soul-Guide Lantern
@@ -201,13 +207,7 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.05
   avg_copies: 1.0
-- name: Damnation
-  weight: 0.05
-  avg_copies: 1.0
-- name: High Noon
-  weight: 0.05
-  avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Vanishing Verse
   weight: 0.05
   avg_copies: 1.0
 ---

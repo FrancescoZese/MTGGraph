@@ -180,43 +180,49 @@ top_cards:
 - name: Wear
   weight: 0.0097
   avg_copies: 2.0
-- name: Showdown of the Skalds
+- name: Aven Mindcensor
   weight: 0.0097
   avg_copies: 1.0
-- name: Aven Mindcensor
+- name: Showdown of the Skalds
   weight: 0.0097
   avg_copies: 1.0
 - name: Starfield Shepherd
   weight: 0.0049
   avg_copies: 4.0
-- name: Unlicensed Hearse
-  weight: 0.0049
-  avg_copies: 2.0
-- name: Kataki, War's Wage
+- name: Screaming Nemesis
   weight: 0.0049
   avg_copies: 2.0
 - name: White Orchid Phantom
   weight: 0.0049
   avg_copies: 2.0
-- name: The Battle of Bywater
+- name: Stony Silence
   weight: 0.0049
   avg_copies: 2.0
 - name: Ephemerate
   weight: 0.0049
   avg_copies: 2.0
-- name: Screaming Nemesis
+- name: The Battle of Bywater
+  weight: 0.0049
+  avg_copies: 2.0
+- name: Kataki, War's Wage
   weight: 0.0049
   avg_copies: 2.0
 - name: Reprieve
   weight: 0.0049
   avg_copies: 2.0
-- name: Stony Silence
+- name: Unlicensed Hearse
   weight: 0.0049
   avg_copies: 2.0
+- name: Cool but Rude
+  weight: 0.0049
+  avg_copies: 1.0
 - name: Duty Beyond Death
   weight: 0.0049
   avg_copies: 1.0
-- name: Hallowed Moonlight
+- name: The Wandering Emperor
+  weight: 0.0049
+  avg_copies: 1.0
+- name: Giant Killer
   weight: 0.0049
   avg_copies: 1.0
 - name: The Ooze
@@ -225,25 +231,19 @@ top_cards:
 - name: Curious Farm Animals
   weight: 0.0049
   avg_copies: 1.0
-- name: Tunnel Ignus
-  weight: 0.0049
-  avg_copies: 1.0
-- name: Redirect Lightning
-  weight: 0.0049
-  avg_copies: 1.0
-- name: Prismatic Ending
+- name: Hallowed Moonlight
   weight: 0.0049
   avg_copies: 1.0
 - name: Elspeth, Storm Slayer
   weight: 0.0049
   avg_copies: 1.0
-- name: Giant Killer
+- name: Tunnel Ignus
   weight: 0.0049
   avg_copies: 1.0
-- name: The Wandering Emperor
+- name: Prismatic Ending
   weight: 0.0049
   avg_copies: 1.0
-- name: Cool but Rude
+- name: Redirect Lightning
   weight: 0.0049
   avg_copies: 1.0
 ---

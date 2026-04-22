@@ -10,10 +10,10 @@ top_cards:
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Flame of Anor
+- name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
-- name: Galvanic Discharge
+- name: Flame of Anor
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
@@ -31,28 +31,28 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 3.0
-- name: Orim's Chant
-  weight: 1.0
-  avg_copies: 2.4
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.4
-- name: Prismatic Ending
+- name: Orim's Chant
   weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 2.4
 - name: Celestial Purge
-  weight: 1.0
-  avg_copies: 2.0
-- name: Hallowed Fountain
-  weight: 1.0
-  avg_copies: 2.0
-- name: Plains
   weight: 1.0
   avg_copies: 2.0
 - name: Arena of Glory
   weight: 1.0
   avg_copies: 2.0
+- name: Plains
+  weight: 1.0
+  avg_copies: 2.0
 - name: Steam Vents
+  weight: 1.0
+  avg_copies: 2.0
+- name: Prismatic Ending
+  weight: 1.0
+  avg_copies: 2.0
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.0
 - name: Meticulous Archive
@@ -79,10 +79,10 @@ top_cards:
 - name: Lórien Revealed
   weight: 0.6667
   avg_copies: 2.0
-- name: Mystic Gate
+- name: Spell Snare
   weight: 0.6667
   avg_copies: 2.0
-- name: Spell Snare
+- name: Mystic Gate
   weight: 0.6667
   avg_copies: 2.0
 - name: Stern Scolding
@@ -94,34 +94,34 @@ top_cards:
 - name: Teferi, Hero of Dominaria
   weight: 0.6667
   avg_copies: 1.0
-- name: Scalding Tarn
-  weight: 0.3333
-  avg_copies: 3.0
 - name: Thundertrap Trainer
   weight: 0.3333
   avg_copies: 3.0
 - name: Fable of the Mirror-Breaker
   weight: 0.3333
   avg_copies: 3.0
-- name: Flare of Denial
+- name: Scalding Tarn
   weight: 0.3333
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: High Noon
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Subtlety
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Obsidian Charmaw
   weight: 0.3333
   avg_copies: 2.0
 - name: Tune the Narrative
   weight: 0.3333
   avg_copies: 2.0
-- name: Elegant Parlor
+- name: Obsidian Charmaw
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Flare of Denial
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Subtlety
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Sacred Foundry
   weight: 0.3333
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Elegant Parlor
   weight: 0.3333
   avg_copies: 1.0
 - name: Mountain

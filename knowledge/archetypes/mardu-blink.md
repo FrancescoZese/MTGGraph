@@ -7,13 +7,13 @@ name: Mardu Blink
 meta_share: 0.007
 list_count: 7
 top_cards:
-- name: Solitude
-  weight: 1.0
-  avg_copies: 4.0
 - name: Phlage, Titan of Fire's Fury
   weight: 1.0
   avg_copies: 4.0
 - name: Overlord of the Balemurk
+  weight: 1.0
+  avg_copies: 4.0
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
@@ -31,28 +31,28 @@ top_cards:
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 2.43
-- name: High Noon
-  weight: 1.0
-  avg_copies: 2.14
 - name: Flickerwisp
   weight: 1.0
   avg_copies: 2.14
-- name: Thoughtseize
+- name: High Noon
   weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 2.14
 - name: Arena of Glory
   weight: 1.0
   avg_copies: 2.0
 - name: Witch Enchanter
   weight: 1.0
   avg_copies: 2.0
+- name: Thoughtseize
+  weight: 1.0
+  avg_copies: 2.0
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.86
-- name: Pinnacle Monk
+- name: Detective's Phoenix
   weight: 1.0
   avg_copies: 1.71
-- name: Detective's Phoenix
+- name: Pinnacle Monk
   weight: 1.0
   avg_copies: 1.71
 - name: Wear
@@ -64,19 +64,19 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.14
-- name: Elegant Parlor
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 1.0
   avg_copies: 1.0
-- name: Raucous Theater
-  weight: 1.0
-  avg_copies: 1.0
-- name: Blood Crypt
-  weight: 1.0
-  avg_copies: 1.0
 - name: Sacred Foundry
+  weight: 1.0
+  avg_copies: 1.0
+- name: Elegant Parlor
+  weight: 1.0
+  avg_copies: 1.0
+- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
 - name: Galvanic Discharge
@@ -91,10 +91,10 @@ top_cards:
 - name: Fable of the Mirror-Breaker
   weight: 0.8571
   avg_copies: 1.67
-- name: Shadowy Backstreet
+- name: Orcish Bowmasters
   weight: 0.8571
   avg_copies: 1.0
-- name: Orcish Bowmasters
+- name: Shadowy Backstreet
   weight: 0.8571
   avg_copies: 1.0
 - name: Damping Sphere
@@ -118,10 +118,10 @@ top_cards:
 - name: White Orchid Phantom
   weight: 0.2857
   avg_copies: 2.5
-- name: Boggart Trawler
+- name: Elesh Norn, Mother of Machines
   weight: 0.2857
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
+- name: Boggart Trawler
   weight: 0.2857
   avg_copies: 1.0
 - name: Emperor of Bones
@@ -130,25 +130,25 @@ top_cards:
 - name: Unholy Heat
   weight: 0.1429
   avg_copies: 3.0
+- name: The Legend of Roku
+  weight: 0.1429
+  avg_copies: 2.0
 - name: Prismatic Ending
   weight: 0.1429
   avg_copies: 2.0
 - name: Sheoldred's Edict
   weight: 0.1429
   avg_copies: 2.0
-- name: The Legend of Roku
-  weight: 0.1429
-  avg_copies: 2.0
 - name: Faerie Macabre
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Emptiness
   weight: 0.1429
   avg_copies: 1.0
 - name: Pest Control
   weight: 0.1429
   avg_copies: 1.0
 - name: Nihil Spellbomb
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Emptiness
   weight: 0.1429
   avg_copies: 1.0
 ---

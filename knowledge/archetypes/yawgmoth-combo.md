@@ -6,16 +6,16 @@ name: Yawgmoth Combo
 meta_share: 0.011
 list_count: 11
 top_cards:
-- name: Delighted Halfling
+- name: Badgermole Cub
   weight: 1.0
   avg_copies: 4.0
-- name: Agatha's Soul Cauldron
+- name: Delighted Halfling
   weight: 1.0
   avg_copies: 4.0
 - name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
-- name: Badgermole Cub
+- name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 4.0
 - name: Yawgmoth, Thran Physician
@@ -63,22 +63,22 @@ top_cards:
 - name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.09
-- name: Soulless Jailer
-  weight: 1.0
-  avg_copies: 1.0
-- name: Strangleroot Geist
-  weight: 1.0
-  avg_copies: 1.0
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
 - name: Grist, the Hunger Tide
   weight: 1.0
   avg_copies: 1.0
-- name: Endurance
+- name: Strangleroot Geist
   weight: 1.0
   avg_copies: 1.0
 - name: Swamp
+  weight: 1.0
+  avg_copies: 1.0
+- name: Endurance
+  weight: 1.0
+  avg_copies: 1.0
+- name: Soulless Jailer
   weight: 1.0
   avg_copies: 1.0
 - name: Windswept Heath
@@ -117,19 +117,19 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.3636
   avg_copies: 1.5
-- name: Ignoble Hierarch
-  weight: 0.3636
-  avg_copies: 1.0
 - name: Wooded Foothills
   weight: 0.3636
   avg_copies: 1.0
-- name: Hapatra, Vizier of Poisons
+- name: Ignoble Hierarch
+  weight: 0.3636
+  avg_copies: 1.0
+- name: Kraul Harpooner
   weight: 0.1818
   avg_copies: 1.0
 - name: Haywire Mite
   weight: 0.1818
   avg_copies: 1.0
-- name: Kraul Harpooner
+- name: Hapatra, Vizier of Poisons
   weight: 0.1818
   avg_copies: 1.0
 - name: Culling Ritual

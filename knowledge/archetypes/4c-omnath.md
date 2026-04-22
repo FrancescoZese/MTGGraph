@@ -8,22 +8,22 @@ name: 4c Omnath
 meta_share: 0.001
 list_count: 1
 top_cards:
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
 - name: Misty Rainforest
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flooded Strand
+- name: Shardless Agent
   weight: 1.0
   avg_copies: 4.0
 - name: Magmatic Hellkite
   weight: 1.0
   avg_copies: 4.0
-- name: Quantum Riddler
+- name: Leyline Binding
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline Binding
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 4.0
 - name: Subtlety
@@ -32,12 +32,18 @@ top_cards:
 - name: Birthing Ritual
   weight: 1.0
   avg_copies: 4.0
-- name: Shardless Agent
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Omnath, Locus of Creation
   weight: 1.0
   avg_copies: 3.0
+- name: Witch Enchanter
+  weight: 1.0
+  avg_copies: 2.0
+- name: Wear
+  weight: 1.0
+  avg_copies: 2.0
 - name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 2.0
@@ -47,61 +53,49 @@ top_cards:
 - name: Windswept Heath
   weight: 1.0
   avg_copies: 2.0
-- name: Wear
-  weight: 1.0
-  avg_copies: 2.0
-- name: Witch Enchanter
-  weight: 1.0
-  avg_copies: 2.0
 - name: Force of Negation
   weight: 1.0
   avg_copies: 1.5
 - name: Beza, the Bounding Spring
   weight: 1.0
   avg_copies: 1.0
-- name: Kavaero, Mind-Bitten
-  weight: 1.0
-  avg_copies: 1.0
-- name: Indatha Triome
-  weight: 1.0
-  avg_copies: 1.0
-- name: Gemstone Caverns
-  weight: 1.0
-  avg_copies: 1.0
 - name: Thundering Falls
-  weight: 1.0
-  avg_copies: 1.0
-- name: Formidable Speaker
-  weight: 1.0
-  avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 1.0
-  avg_copies: 1.0
-- name: Rough
-  weight: 1.0
-  avg_copies: 1.0
-- name: Plains
   weight: 1.0
   avg_copies: 1.0
 - name: Island
   weight: 1.0
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Gemstone Caverns
   weight: 1.0
   avg_copies: 1.0
-- name: Dismember
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 1.0
+  avg_copies: 1.0
+- name: Formidable Speaker
+  weight: 1.0
+  avg_copies: 1.0
 - name: Force of Vigor
   weight: 1.0
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Rough
+  weight: 1.0
+  avg_copies: 1.0
+- name: Indatha Triome
+  weight: 1.0
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
+  weight: 1.0
+  avg_copies: 1.0
+- name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
 - name: Stomping Ground
@@ -110,16 +104,22 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 1.0
   avg_copies: 1.0
-- name: Forest
+- name: Endurance
+  weight: 1.0
+  avg_copies: 1.0
+- name: Kavaero, Mind-Bitten
+  weight: 1.0
+  avg_copies: 1.0
+- name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
+- name: Dismember
   weight: 1.0
   avg_copies: 1.0
-- name: Endurance
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
 ---

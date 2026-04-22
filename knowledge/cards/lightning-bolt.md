@@ -48,7 +48,7 @@ archetypes:
   jund-saga:
     weight: 1.0
     avg_copies: 3.0
-  izzet-eldrazi:
+  eldrazi-breach:
     weight: 1.0
     avg_copies: 2.0
   rakdos-steel-cutter:

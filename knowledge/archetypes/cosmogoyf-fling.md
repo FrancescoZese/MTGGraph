@@ -10,10 +10,13 @@ top_cards:
 - name: Devourer of Destiny
   weight: 1.0
   avg_copies: 4.0
-- name: Plunge into Darkness
+- name: Gemstone Mine
   weight: 1.0
   avg_copies: 4.0
-- name: Spoils of the Vault
+- name: Blackcleave Cliffs
+  weight: 1.0
+  avg_copies: 4.0
+- name: Chancellor of the Annex
   weight: 1.0
   avg_copies: 4.0
 - name: Chancellor of the Tangle
@@ -22,19 +25,16 @@ top_cards:
 - name: Thud
   weight: 1.0
   avg_copies: 4.0
-- name: Chancellor of the Annex
-  weight: 1.0
-  avg_copies: 4.0
-- name: Cosmogoyf
-  weight: 1.0
-  avg_copies: 4.0
 - name: Gemstone Caverns
   weight: 1.0
   avg_copies: 4.0
-- name: Blackcleave Cliffs
+- name: Plunge into Darkness
   weight: 1.0
   avg_copies: 4.0
-- name: Gemstone Mine
+- name: Spoils of the Vault
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cosmogoyf
   weight: 1.0
   avg_copies: 4.0
 - name: Serum Powder
@@ -46,10 +46,10 @@ top_cards:
 - name: Pact of Negation
   weight: 1.0
   avg_copies: 3.33
-- name: Cavern of Souls
+- name: Blooming Marsh
   weight: 1.0
   avg_copies: 3.2
-- name: Blooming Marsh
+- name: Cavern of Souls
   weight: 1.0
   avg_copies: 3.2
 - name: Inquisition of Kozilek
@@ -76,10 +76,10 @@ top_cards:
 - name: Callous Sell-Sword
   weight: 0.8
   avg_copies: 1.0
-- name: Aloe Alchemist
+- name: Disciple of Freyalise
   weight: 0.2
   avg_copies: 1.0
-- name: Disciple of Freyalise
+- name: Aloe Alchemist
   weight: 0.2
   avg_copies: 1.0
 ---

@@ -90,10 +90,10 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 0.44
   avg_copies: 1.18
-- name: Logic Knot
+- name: Damnation
   weight: 0.4
   avg_copies: 1.0
-- name: Damnation
+- name: Logic Knot
   weight: 0.4
   avg_copies: 1.0
 - name: Engineered Explosives
@@ -117,10 +117,10 @@ top_cards:
 - name: The Meathook Massacre
   weight: 0.16
   avg_copies: 2.0
-- name: Nihil Spellbomb
+- name: Brazen Borrower
   weight: 0.12
   avg_copies: 1.33
-- name: Brazen Borrower
+- name: Nihil Spellbomb
   weight: 0.12
   avg_copies: 1.33
 - name: Toxic Deluge
@@ -138,52 +138,52 @@ top_cards:
 - name: Quantum Riddler
   weight: 0.08
   avg_copies: 2.0
-- name: Anoint with Affliction
-  weight: 0.08
-  avg_copies: 1.0
 - name: Thundering Falls
-  weight: 0.08
-  avg_copies: 1.0
-- name: Psychic Frog
   weight: 0.08
   avg_copies: 1.0
 - name: Preordain
   weight: 0.08
   avg_copies: 1.0
+- name: Anoint with Affliction
+  weight: 0.08
+  avg_copies: 1.0
+- name: Psychic Frog
+  weight: 0.08
+  avg_copies: 1.0
 - name: Snow-Covered Island
   weight: 0.04
   avg_copies: 4.0
+- name: Dismember
+  weight: 0.04
+  avg_copies: 3.0
 - name: Thoughtseize
   weight: 0.04
   avg_copies: 3.0
 - name: Shadow of Doubt
   weight: 0.04
   avg_copies: 3.0
-- name: Dismember
-  weight: 0.04
-  avg_copies: 3.0
 - name: Fallen Shinobi
   weight: 0.04
   avg_copies: 3.0
-- name: Lightning Bolt
-  weight: 0.04
-  avg_copies: 2.0
-- name: Drown in the Loch
-  weight: 0.04
-  avg_copies: 2.0
-- name: Pest Control
+- name: Murktide Regent
   weight: 0.04
   avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.04
   avg_copies: 2.0
-- name: Murktide Regent
+- name: Pest Control
+  weight: 0.04
+  avg_copies: 2.0
+- name: Lightning Bolt
+  weight: 0.04
+  avg_copies: 2.0
+- name: High Noon
   weight: 0.04
   avg_copies: 2.0
 - name: Cryptic Command
   weight: 0.04
   avg_copies: 2.0
-- name: High Noon
+- name: Drown in the Loch
   weight: 0.04
   avg_copies: 2.0
 - name: Bloodstained Mire
@@ -192,22 +192,13 @@ top_cards:
 - name: Hurkyl's Recall
   weight: 0.04
   avg_copies: 2.0
-- name: Gloomlake Verge
-  weight: 0.04
-  avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 0.04
-  avg_copies: 1.0
-- name: Snow-Covered Swamp
+- name: Lórien Revealed
   weight: 0.04
   avg_copies: 1.0
 - name: Hall of Storm Giants
   weight: 0.04
   avg_copies: 1.0
-- name: Sunken Ruins
-  weight: 0.04
-  avg_copies: 1.0
-- name: Lórien Revealed
+- name: Gloomlake Verge
   weight: 0.04
   avg_copies: 1.0
 - name: Meticulous Archive
@@ -216,7 +207,16 @@ top_cards:
 - name: Jace, the Mind Sculptor
   weight: 0.04
   avg_copies: 1.0
+- name: Snow-Covered Swamp
+  weight: 0.04
+  avg_copies: 1.0
 - name: Takenuma, Abandoned Mire
+  weight: 0.04
+  avg_copies: 1.0
+- name: Sunken Ruins
+  weight: 0.04
+  avg_copies: 1.0
+- name: Hallowed Fountain
   weight: 0.04
   avg_copies: 1.0
 ---

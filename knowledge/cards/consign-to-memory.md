@@ -84,7 +84,7 @@ archetypes:
   grixis-control:
     weight: 1.0
     avg_copies: 4.0
-  izzet-eldrazi:
+  eldrazi-breach:
     weight: 1.0
     avg_copies: 4.0
   jeskai-control:

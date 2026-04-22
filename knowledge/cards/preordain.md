@@ -30,7 +30,7 @@ archetypes:
   izzet-artifacts:
     weight: 0.45
     avg_copies: 3.56
-  izzet-eldrazi:
+  eldrazi-breach:
     weight: 1.0
     avg_copies: 3.0
   izzet-wizards:

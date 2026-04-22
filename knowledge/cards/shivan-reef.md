@@ -11,7 +11,7 @@ archetypes:
   affinity:
     weight: 0.6989
     avg_copies: 1.18
-  izzet-eldrazi:
+  eldrazi-breach:
     weight: 1.0
     avg_copies: 2.0
 ---

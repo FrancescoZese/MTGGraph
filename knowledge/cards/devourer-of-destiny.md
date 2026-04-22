@@ -17,7 +17,7 @@ archetypes:
   broodscale-combo:
     weight: 0.5
     avg_copies: 3.67
-  izzet-eldrazi:
+  eldrazi-breach:
     weight: 1.0
     avg_copies: 3.5
   cosmogoyf-fling:

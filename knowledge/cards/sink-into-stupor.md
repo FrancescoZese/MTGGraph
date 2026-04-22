@@ -50,7 +50,7 @@ archetypes:
   grixis-control:
     weight: 1.0
     avg_copies: 1.0
-  izzet-eldrazi:
+  eldrazi-breach:
     weight: 1.0
     avg_copies: 1.0
   izzet-splinter-twin:

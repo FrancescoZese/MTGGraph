@@ -9,22 +9,22 @@ top_cards:
 - name: Meltdown
   weight: 1.0
   avg_copies: 2.07
+- name: Detective's Phoenix
+  weight: 0.9333
+  avg_copies: 4.0
+- name: Faithless Looting
+  weight: 0.9333
+  avg_copies: 4.0
+- name: Burning Inquiry
+  weight: 0.9333
+  avg_copies: 4.0
 - name: Moonshadow
   weight: 0.9333
   avg_copies: 4.0
 - name: Street Wraith
   weight: 0.9333
   avg_copies: 4.0
-- name: Detective's Phoenix
-  weight: 0.9333
-  avg_copies: 4.0
-- name: Burning Inquiry
-  weight: 0.9333
-  avg_copies: 4.0
 - name: Hollow One
-  weight: 0.9333
-  avg_copies: 4.0
-- name: Faithless Looting
   weight: 0.9333
   avg_copies: 4.0
 - name: Bloodstained Mire
@@ -111,10 +111,10 @@ top_cards:
 - name: Verdant Catacombs
   weight: 0.2
   avg_copies: 2.67
-- name: Stomping Ground
+- name: Tarfire
   weight: 0.2
   avg_copies: 2.0
-- name: Tarfire
+- name: Stomping Ground
   weight: 0.2
   avg_copies: 2.0
 - name: Marsh Flats
@@ -123,28 +123,28 @@ top_cards:
 - name: Scalding Tarn
   weight: 0.2
   avg_copies: 1.33
-- name: Vengevine
-  weight: 0.1333
-  avg_copies: 4.0
 - name: Blazing Rootwalla
   weight: 0.1333
   avg_copies: 4.0
-- name: Sheoldred's Edict
+- name: Vengevine
   weight: 0.1333
-  avg_copies: 2.0
+  avg_copies: 4.0
 - name: Commercial District
   weight: 0.1333
   avg_copies: 2.0
-- name: Polluted Delta
+- name: Sheoldred's Edict
   weight: 0.1333
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Violent Urge
   weight: 0.1333
   avg_copies: 1.0
-- name: Valakut, the Molten Pinnacle
+- name: Polluted Delta
+  weight: 0.1333
+  avg_copies: 1.0
+- name: Vibrance
   weight: 0.0667
   avg_copies: 4.0
-- name: Orim's Chant
+- name: Fire Magic
   weight: 0.0667
   avg_copies: 4.0
 - name: Leyline of the Void
@@ -153,18 +153,15 @@ top_cards:
 - name: Icetill Explorer
   weight: 0.0667
   avg_copies: 4.0
-- name: Fire Magic
-  weight: 0.0667
-  avg_copies: 4.0
-- name: Vibrance
-  weight: 0.0667
-  avg_copies: 4.0
 - name: Dryad of the Ilysian Grove
   weight: 0.0667
   avg_copies: 4.0
-- name: Misty Rainforest
+- name: Valakut, the Molten Pinnacle
   weight: 0.0667
-  avg_copies: 3.0
+  avg_copies: 4.0
+- name: Orim's Chant
+  weight: 0.0667
+  avg_copies: 4.0
 - name: Farseek
   weight: 0.0667
   avg_copies: 3.0
@@ -174,85 +171,88 @@ top_cards:
 - name: Bring to Light
   weight: 0.0667
   avg_copies: 3.0
+- name: Misty Rainforest
+  weight: 0.0667
+  avg_copies: 3.0
+- name: Cool but Rude
+  weight: 0.0667
+  avg_copies: 2.0
 - name: Celestial Purge
-  weight: 0.0667
-  avg_copies: 2.0
-- name: Pyroclasm
-  weight: 0.0667
-  avg_copies: 2.0
-- name: Rough
-  weight: 0.0667
-  avg_copies: 2.0
-- name: Force of Vigor
-  weight: 0.0667
-  avg_copies: 2.0
-- name: Arboreal Grazer
   weight: 0.0667
   avg_copies: 2.0
 - name: Goblin Lore
   weight: 0.0667
   avg_copies: 2.0
+- name: Rough
+  weight: 0.0667
+  avg_copies: 2.0
 - name: Magebane Lizard
+  weight: 0.0667
+  avg_copies: 2.0
+- name: Pyroclasm
+  weight: 0.0667
+  avg_copies: 2.0
+- name: Arboreal Grazer
   weight: 0.0667
   avg_copies: 2.0
 - name: Scapeshift
   weight: 0.0667
   avg_copies: 2.0
-- name: Cool but Rude
+- name: Force of Vigor
   weight: 0.0667
   avg_copies: 2.0
-- name: Jetmir's Garden
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Barbarian Ring
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Wrenn and Six
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Sakura-Tribe Elder
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Overlord of the Balemurk
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Insidious Fungus
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Seal of Fire
+- name: Thundering Falls
   weight: 0.0667
   avg_copies: 1.0
 - name: Shattering Spree
   weight: 0.0667
   avg_copies: 1.0
-- name: Ox of Agonas
+- name: Wrenn and Six
   weight: 0.0667
   avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Blackcleave Cliffs
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Boseiju, Who Endures
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Sacred Foundry
+- name: Overlord of the Balemurk
   weight: 0.0667
   avg_copies: 1.0
 - name: Keen-Eyed Curator
   weight: 0.0667
   avg_copies: 1.0
-- name: Dwarven Mine
+- name: Ox of Agonas
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Barbarian Ring
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Insidious Fungus
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Boseiju, Who Endures
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Blackcleave Cliffs
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Jetmir's Garden
   weight: 0.0667
   avg_copies: 1.0
 - name: Forest
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Seal of Fire
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Sakura-Tribe Elder
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Dwarven Mine
   weight: 0.0667
   avg_copies: 1.0
 ---

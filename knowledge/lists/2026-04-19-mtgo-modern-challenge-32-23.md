@@ -1,5 +1,5 @@
 ---
-archetype: izzet-eldrazi
+archetype: eldrazi-breach
 date: '2026-04-19'
 finish: 7th
 pilot: ScreenwriterNY

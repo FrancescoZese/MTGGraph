@@ -6,28 +6,28 @@ name: Orzhov Blink
 meta_share: 0.004
 list_count: 4
 top_cards:
-- name: Solitude
-  weight: 1.0
-  avg_copies: 4.0
 - name: Overlord of the Balemurk
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
+- name: Thoughtseize
+  weight: 1.0
+  avg_copies: 4.0
 - name: Witch Enchanter
+  weight: 1.0
+  avg_copies: 4.0
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.5
-- name: Fatal Push
+- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.25
-- name: Phelia, Exuberant Shepherd
+- name: Fatal Push
   weight: 1.0
   avg_copies: 3.25
 - name: Emperor of Bones
@@ -42,9 +42,6 @@ top_cards:
 - name: Flickerwisp
   weight: 1.0
   avg_copies: 2.75
-- name: Plains
-  weight: 1.0
-  avg_copies: 2.25
 - name: Clarion Conqueror
   weight: 1.0
   avg_copies: 2.25
@@ -52,6 +49,9 @@ top_cards:
   weight: 1.0
   avg_copies: 2.25
 - name: Damping Sphere
+  weight: 1.0
+  avg_copies: 2.25
+- name: Plains
   weight: 1.0
   avg_copies: 2.25
 - name: High Noon
@@ -72,10 +72,10 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Prismatic Ending
+- name: Dawnbringer Cleric
   weight: 0.75
   avg_copies: 2.0
-- name: Dawnbringer Cleric
+- name: Prismatic Ending
   weight: 0.75
   avg_copies: 2.0
 - name: Sheoldred's Edict
@@ -108,10 +108,10 @@ top_cards:
 - name: Relic of Progenitus
   weight: 0.25
   avg_copies: 4.0
-- name: Raucous Theater
+- name: Eiganjo, Seat of the Empire
   weight: 0.25
   avg_copies: 1.0
-- name: Eiganjo, Seat of the Empire
+- name: Raucous Theater
   weight: 0.25
   avg_copies: 1.0
 ---

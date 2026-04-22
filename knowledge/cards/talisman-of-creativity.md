@@ -8,7 +8,7 @@ set: soc
 type: Artifact
 meta_presence: 0.002
 archetypes:
-  izzet-eldrazi:
+  eldrazi-breach:
     weight: 1.0
     avg_copies: 4.0
 ---

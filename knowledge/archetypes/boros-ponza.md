@@ -12,13 +12,13 @@ top_cards:
 - name: Path to Exile
   weight: 1.0
   avg_copies: 4.0
+- name: Galvanic Discharge
+  weight: 1.0
+  avg_copies: 3.88
 - name: Demolition Field
   weight: 1.0
   avg_copies: 3.88
 - name: Field of Ruin
-  weight: 1.0
-  avg_copies: 3.88
-- name: Galvanic Discharge
   weight: 1.0
   avg_copies: 3.88
 - name: Cleansing Wildfire
@@ -96,28 +96,28 @@ top_cards:
 - name: March of Otherworldly Light
   weight: 0.1765
   avg_copies: 1.67
-- name: Surgical Extraction
+- name: Sunbaked Canyon
   weight: 0.1765
   avg_copies: 1.0
-- name: Sunbaked Canyon
+- name: Surgical Extraction
   weight: 0.1765
   avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.1176
   avg_copies: 2.0
-- name: Ghost Quarter
-  weight: 0.1176
-  avg_copies: 1.0
 - name: Meltdown
   weight: 0.1176
   avg_copies: 1.0
-- name: Prismatic Ending
+- name: Ghost Quarter
+  weight: 0.1176
+  avg_copies: 1.0
+- name: Gideon, Ally of Zendikar
   weight: 0.0588
   avg_copies: 2.0
 - name: Settle the Wreckage
   weight: 0.0588
   avg_copies: 2.0
-- name: Gideon, Ally of Zendikar
+- name: Prismatic Ending
   weight: 0.0588
   avg_copies: 2.0
 ---
