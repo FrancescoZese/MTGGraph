@@ -6,12 +6,6 @@ name: Hollow One
 meta_share: 0.0136
 list_count: 14
 top_cards:
-- name: Faithless Looting
-  weight: 1.0
-  avg_copies: 4.0
-- name: Street Wraith
-  weight: 1.0
-  avg_copies: 4.0
 - name: Detective's Phoenix
   weight: 1.0
   avg_copies: 4.0
@@ -21,7 +15,13 @@ top_cards:
 - name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
+- name: Faithless Looting
+  weight: 1.0
+  avg_copies: 4.0
 - name: Hollow One
+  weight: 1.0
+  avg_copies: 4.0
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Bloodstained Mire
@@ -120,10 +120,10 @@ top_cards:
 - name: Scalding Tarn
   weight: 0.2143
   avg_copies: 1.33
-- name: Vengevine
+- name: Blazing Rootwalla
   weight: 0.1429
   avg_copies: 4.0
-- name: Blazing Rootwalla
+- name: Vengevine
   weight: 0.1429
   avg_copies: 4.0
 - name: Sheoldred's Edict
@@ -132,52 +132,52 @@ top_cards:
 - name: Stomping Ground
   weight: 0.1429
   avg_copies: 1.5
-- name: Polluted Delta
+- name: Violent Urge
   weight: 0.1429
   avg_copies: 1.0
-- name: Violent Urge
+- name: Polluted Delta
   weight: 0.1429
   avg_copies: 1.0
 - name: Leyline of the Void
   weight: 0.0714
   avg_copies: 4.0
-- name: Rough
-  weight: 0.0714
-  avg_copies: 2.0
-- name: Goblin Lore
-  weight: 0.0714
-  avg_copies: 2.0
 - name: Magebane Lizard
   weight: 0.0714
   avg_copies: 2.0
 - name: Cool but Rude
   weight: 0.0714
   avg_copies: 2.0
+- name: Rough
+  weight: 0.0714
+  avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.0714
   avg_copies: 2.0
-- name: Seal of Fire
+- name: Goblin Lore
   weight: 0.0714
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Commercial District
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Barbarian Ring
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Blackcleave Cliffs
+  avg_copies: 2.0
+- name: Shattering Spree
   weight: 0.0714
   avg_copies: 1.0
 - name: Ox of Agonas
   weight: 0.0714
   avg_copies: 1.0
-- name: Overlord of the Balemurk
+- name: Barbarian Ring
   weight: 0.0714
   avg_copies: 1.0
-- name: Shattering Spree
+- name: Commercial District
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Blackcleave Cliffs
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Seal of Fire
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Overlord of the Balemurk
   weight: 0.0714
   avg_copies: 1.0
 ---

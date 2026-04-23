@@ -15,7 +15,7 @@ archetypes:
     weight: 0.3158
     avg_copies: 1.0
   4c-omnath:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 1.0
   sultai-reanimator:
     weight: 1.0

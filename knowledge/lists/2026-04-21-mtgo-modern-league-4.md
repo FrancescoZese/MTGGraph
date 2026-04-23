@@ -1,5 +1,5 @@
 ---
-archetype: unknown-1
+archetype: the-rock
 date: '2026-04-21'
 finish: 5-0
 pilot: rgrauch

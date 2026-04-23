@@ -30,7 +30,7 @@ archetypes:
     weight: 0.381
     avg_copies: 1.12
   4c-omnath:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 1.0
   indomitable-creativity:
     weight: 1.0
@@ -39,8 +39,8 @@ archetypes:
     weight: 0.5556
     avg_copies: 1.0
   dredge:
-    weight: 0.3333
-    avg_copies: 2.0
+    weight: 0.5
+    avg_copies: 1.5
   izzet-artifacts:
     weight: 0.0476
     avg_copies: 1.0
@@ -51,9 +51,6 @@ archetypes:
     weight: 0.25
     avg_copies: 3.0
   naya-midrange:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-4:
     weight: 1.0
     avg_copies: 1.0
 ---

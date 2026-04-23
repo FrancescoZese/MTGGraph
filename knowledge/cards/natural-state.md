@@ -12,7 +12,7 @@ archetypes:
   neoform-combo:
     weight: 0.2273
     avg_copies: 1.6
-  unknown-4:
-    weight: 1.0
+  dredge:
+    weight: 0.25
     avg_copies: 1.0
 ---

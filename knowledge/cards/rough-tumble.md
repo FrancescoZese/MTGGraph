@@ -20,11 +20,8 @@ archetypes:
     avg_copies: 2.1
   4c-omnath:
     weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 1.5
   dredge:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 1.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 2.0
 ---

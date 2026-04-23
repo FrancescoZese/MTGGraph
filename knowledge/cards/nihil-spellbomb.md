@@ -44,10 +44,10 @@ archetypes:
   grixis-shadow:
     weight: 1.0
     avg_copies: 2.0
-  unknown-2:
+  rakdos-shadows:
     weight: 1.0
     avg_copies: 1.0
-  unknown-1:
+  the-rock:
     weight: 1.0
     avg_copies: 1.0
 ---

@@ -5,13 +5,13 @@ name: Mono Blue Belcher
 meta_share: 0.0233
 list_count: 24
 top_cards:
-- name: Lotus Bloom
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 4.0
 - name: Whir of Invention
   weight: 1.0
   avg_copies: 4.0
-- name: Sink into Stupor
+- name: Lotus Bloom
   weight: 1.0
   avg_copies: 4.0
 - name: Suppression Ray
@@ -113,10 +113,10 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 0.1667
   avg_copies: 1.83
-- name: Dusk Rose Reliquary
+- name: Stock Up
   weight: 0.1667
   avg_copies: 1.0
-- name: Stock Up
+- name: Dusk Rose Reliquary
   weight: 0.1667
   avg_copies: 1.0
 - name: Mountain
@@ -125,19 +125,19 @@ top_cards:
 - name: Talisman of Progress
   weight: 0.0833
   avg_copies: 1.0
-- name: Hope of Ghirapur
-  weight: 0.0417
-  avg_copies: 1.0
 - name: Portable Hole
   weight: 0.0417
   avg_copies: 1.0
-- name: Step Through
+- name: Hope of Ghirapur
   weight: 0.0417
   avg_copies: 1.0
 - name: Witch Enchanter
   weight: 0.0417
   avg_copies: 1.0
 - name: Displacement Wave
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Step Through
   weight: 0.0417
   avg_copies: 1.0
 ---

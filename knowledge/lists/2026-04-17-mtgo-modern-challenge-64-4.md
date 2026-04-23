@@ -1,5 +1,5 @@
 ---
-archetype: unknown-2
+archetype: rakdos-shadows
 date: '2026-04-17'
 finish: 4th
 pilot: looknonumbers

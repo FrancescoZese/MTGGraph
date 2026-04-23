@@ -1,99 +1,92 @@
 ---
 colors:
-- U
 - B
-- R
-- G
-name: 'Unknown #4'
+name: Mono Black Reanimator
 meta_share: 0.001
 list_count: 1
 top_cards:
-- name: Arid Mesa
+- name: Swamp
+  weight: 1.0
+  avg_copies: 9.0
+- name: Eyetwitch
   weight: 1.0
   avg_copies: 4.0
-- name: Life from the Loam
+- name: Boggart Trawler
   weight: 1.0
   avg_copies: 4.0
-- name: Artist's Talent
+- name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
-- name: Creeping Chill
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
-- name: Stinkweed Imp
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
-- name: Exhibition Tidecaller
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
-- name: Lava Dart
+- name: Crypt of Agadeem
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodstained Mire
-  weight: 1.0
-  avg_copies: 4.0
-- name: Arclight Phoenix
-  weight: 1.0
-  avg_copies: 4.0
-- name: Burning Inquiry
-  weight: 1.0
-  avg_copies: 4.0
-- name: Golgari Thug
+- name: Emperor of Bones
   weight: 1.0
   avg_copies: 3.0
-- name: Lightning Axe
+- name: Phyrexian Tower
   weight: 1.0
   avg_copies: 3.0
-- name: Scalding Tarn
+- name: Fulminator Mage
   weight: 1.0
   avg_copies: 3.0
-- name: Surgical Extraction
+- name: Persist
+  weight: 1.0
+  avg_copies: 3.0
+- name: Orcish Bowmasters
+  weight: 1.0
+  avg_copies: 3.0
+- name: Force of Despair
   weight: 1.0
   avg_copies: 2.0
-- name: Ray of Revelation
+- name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 2.0
-- name: Mountain
+- name: Requiting Hex
   weight: 1.0
   avg_copies: 2.0
-- name: Spell Pierce
+- name: Dawnhand Dissident
   weight: 1.0
   avg_copies: 2.0
-- name: Flame Jab
+- name: Graveyard Trespasser
+  weight: 1.0
+  avg_copies: 2.0
+- name: Spymaster's Vault
   weight: 1.0
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Vampire Hexmage
   weight: 1.0
   avg_copies: 1.0
-- name: Memory's Journey
+- name: Necrotic Fumes
   weight: 1.0
   avg_copies: 1.0
-- name: Conflagrate
+- name: Dai Li Indoctrination
   weight: 1.0
   avg_copies: 1.0
-- name: Ancient Grudge
+- name: Accursed Marauder
   weight: 1.0
   avg_copies: 1.0
-- name: Natural State
+- name: Flare of Malice
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Decorum Dissertation
   weight: 1.0
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Agadeem's Awakening
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Boseiju, Who Endures
-  weight: 1.0
-  avg_copies: 1.0
-- name: Commercial District
+- name: Ruinous Waterbending
   weight: 1.0
   avg_copies: 1.0
 ---
-Unclassified archetype, pending review.

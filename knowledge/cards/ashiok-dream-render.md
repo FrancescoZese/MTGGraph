@@ -47,7 +47,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   dredge:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 1.0
   azorius-blink:
     weight: 0.6667
@@ -61,7 +61,7 @@ archetypes:
   mono-green-ramp:
     weight: 1.0
     avg_copies: 2.0
-  unknown-5:
+  mono-black-reanimator:
     weight: 1.0
     avg_copies: 2.0
 ---

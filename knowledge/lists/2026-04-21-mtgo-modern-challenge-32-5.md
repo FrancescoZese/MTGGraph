@@ -1,5 +1,5 @@
 ---
-archetype: unknown-3
+archetype: 4c-omnath
 date: '2026-04-21'
 finish: 5th
 pilot: shadow438

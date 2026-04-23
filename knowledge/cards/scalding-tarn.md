@@ -52,7 +52,7 @@ archetypes:
     avg_copies: 2.43
   dredge:
     weight: 1.0
-    avg_copies: 3.67
+    avg_copies: 3.5
   izzet-artifacts:
     weight: 0.5238
     avg_copies: 3.73
@@ -77,7 +77,4 @@ archetypes:
   izzet-wizards:
     weight: 1.0
     avg_copies: 4.0
-  unknown-4:
-    weight: 1.0
-    avg_copies: 3.0
 ---

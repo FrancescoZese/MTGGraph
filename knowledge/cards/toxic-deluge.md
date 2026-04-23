@@ -24,7 +24,7 @@ archetypes:
   mill:
     weight: 0.6667
     avg_copies: 1.5
-  unknown-1:
+  the-rock:
     weight: 1.0
     avg_copies: 1.0
 ---

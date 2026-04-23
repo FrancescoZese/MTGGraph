@@ -48,7 +48,7 @@ archetypes:
     weight: 0.0714
     avg_copies: 2.0
   4c-omnath:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 4.0
   sultai-reanimator:
     weight: 1.0
@@ -80,7 +80,7 @@ archetypes:
   scapeshift-combo:
     weight: 0.25
     avg_copies: 3.0
-  unknown-1:
+  the-rock:
     weight: 1.0
     avg_copies: 1.0
 ---

@@ -9,7 +9,7 @@ set: ecl
 type: Creature — Elf Warlock
 meta_presence: 0.001
 archetypes:
-  unknown-5:
+  mono-black-reanimator:
     weight: 1.0
     avg_copies: 2.0
 ---

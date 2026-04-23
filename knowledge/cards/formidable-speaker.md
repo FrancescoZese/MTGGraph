@@ -19,7 +19,7 @@ archetypes:
     weight: 0.4286
     avg_copies: 2.56
   4c-omnath:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 1.0
   elves:
     weight: 1.0

@@ -20,6 +20,9 @@ archetypes:
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
+  4c-omnath:
+    weight: 0.5
+    avg_copies: 1.0
   samwise-combo:
     weight: 1.0
     avg_copies: 1.22
@@ -33,9 +36,6 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   naya-midrange:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-3:
     weight: 1.0
     avg_copies: 1.0
 ---

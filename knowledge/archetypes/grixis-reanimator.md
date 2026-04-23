@@ -10,9 +10,6 @@ top_cards:
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
 - name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
@@ -20,6 +17,9 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Persist
+  weight: 1.0
+  avg_copies: 4.0
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Fatal Push
@@ -61,13 +61,13 @@ top_cards:
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 1.05
+- name: Raucous Theater
+  weight: 1.0
+  avg_copies: 1.0
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
 - name: Emperor of Bones
@@ -121,16 +121,16 @@ top_cards:
 - name: Thundering Falls
   weight: 0.1
   avg_copies: 1.0
-- name: Fallaji Archaeologist
+- name: Flare of Denial
   weight: 0.05
   avg_copies: 4.0
-- name: Flare of Denial
+- name: Fallaji Archaeologist
   weight: 0.05
   avg_copies: 4.0
 - name: Leyline of the Void
   weight: 0.05
   avg_copies: 3.0
-- name: Troll of Khazad-dûm
+- name: Spell Snare
   weight: 0.05
   avg_copies: 1.0
 - name: Unholy Heat
@@ -139,13 +139,13 @@ top_cards:
 - name: Gran-Gran
   weight: 0.05
   avg_copies: 1.0
-- name: Spell Snare
+- name: Sheoldred's Edict
   weight: 0.05
   avg_copies: 1.0
 - name: Harvester of Misery
   weight: 0.05
   avg_copies: 1.0
-- name: Sheoldred's Edict
+- name: Troll of Khazad-dûm
   weight: 0.05
   avg_copies: 1.0
 ---

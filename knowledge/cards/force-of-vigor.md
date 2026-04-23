@@ -29,7 +29,7 @@ archetypes:
     avg_copies: 2.05
   4c-omnath:
     weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 2.0
   samwise-combo:
     weight: 1.0
     avg_copies: 2.0
@@ -45,7 +45,4 @@ archetypes:
   scapeshift-combo:
     weight: 1.0
     avg_copies: 2.75
-  unknown-3:
-    weight: 1.0
-    avg_copies: 3.0
 ---

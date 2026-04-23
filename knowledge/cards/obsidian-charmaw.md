@@ -32,7 +32,7 @@ archetypes:
     avg_copies: 1.75
   4c-omnath:
     weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 2.5
   grixis-control:
     weight: 1.0
     avg_copies: 3.0
@@ -51,7 +51,4 @@ archetypes:
   naya-midrange:
     weight: 1.0
     avg_copies: 2.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 4.0
 ---

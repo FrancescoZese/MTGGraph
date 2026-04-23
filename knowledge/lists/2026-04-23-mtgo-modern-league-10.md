@@ -1,5 +1,5 @@
 ---
-archetype: unknown-5
+archetype: mono-black-reanimator
 date: '2026-04-23'
 finish: 5-0
 pilot: ShzockChan

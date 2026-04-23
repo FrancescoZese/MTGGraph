@@ -8,7 +8,7 @@ set: iko
 type: Land — Swamp Forest Island
 meta_presence: 0.001
 archetypes:
-  unknown-3:
-    weight: 1.0
+  4c-omnath:
+    weight: 0.5
     avg_copies: 1.0
 ---

@@ -81,10 +81,10 @@ top_cards:
 - name: Kaito, Bane of Nightmares
   weight: 0.7273
   avg_copies: 1.4
-- name: Ghost Vacuum
+- name: Marsh Flats
   weight: 0.6818
   avg_copies: 1.53
-- name: Marsh Flats
+- name: Ghost Vacuum
   weight: 0.6818
   avg_copies: 1.53
 - name: Otawara, Soaring City
@@ -156,19 +156,19 @@ top_cards:
 - name: Consult the Star Charts
   weight: 0.0909
   avg_copies: 2.0
-- name: Shoot the Sheriff
-  weight: 0.0909
-  avg_copies: 1.0
 - name: Field of Ruin
   weight: 0.0909
   avg_copies: 1.0
-- name: Teferi, Time Raveler
+- name: Celestial Purge
   weight: 0.0909
   avg_copies: 1.0
 - name: High Noon
   weight: 0.0909
   avg_copies: 1.0
-- name: Celestial Purge
+- name: Shoot the Sheriff
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Teferi, Time Raveler
   weight: 0.0909
   avg_copies: 1.0
 - name: Consider
@@ -183,7 +183,10 @@ top_cards:
 - name: Dauthi Voidwalker
   weight: 0.0455
   avg_copies: 2.0
-- name: Fire Magic
+- name: Stony Silence
+  weight: 0.0455
+  avg_copies: 2.0
+- name: Surgical Extraction
   weight: 0.0455
   avg_copies: 2.0
 - name: Strix Serenade
@@ -192,34 +195,31 @@ top_cards:
 - name: Thraben Charm
   weight: 0.0455
   avg_copies: 2.0
-- name: Surgical Extraction
+- name: Emperor of Bones
+  weight: 0.0455
+  avg_copies: 2.0
+- name: Fire Magic
   weight: 0.0455
   avg_copies: 2.0
 - name: Archmage's Charm
   weight: 0.0455
   avg_copies: 2.0
-- name: Stony Silence
-  weight: 0.0455
-  avg_copies: 2.0
-- name: Emperor of Bones
-  weight: 0.0455
-  avg_copies: 2.0
-- name: Soul-Guide Lantern
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Steam Vents
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Exorcise
+- name: Prismatic Ending
   weight: 0.0455
   avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.0455
   avg_copies: 1.0
-- name: Prismatic Ending
+- name: Exorcise
   weight: 0.0455
   avg_copies: 1.0
 - name: Vanishing Verse
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Steam Vents
   weight: 0.0455
   avg_copies: 1.0
 - name: Damnation

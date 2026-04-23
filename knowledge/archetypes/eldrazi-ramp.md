@@ -6,19 +6,19 @@ name: Eldrazi Ramp
 meta_share: 0.0204
 list_count: 21
 top_cards:
-- name: Utopia Sprawl
+- name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
-- name: Sowing Mycospawn
+- name: Utopia Sprawl
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
-- name: Kozilek's Command
+- name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
-- name: Ugin's Labyrinth
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Malevolent Rumble
@@ -72,10 +72,10 @@ top_cards:
 - name: Grafdigger's Cage
   weight: 0.8095
   avg_copies: 1.18
-- name: Bojuka Bog
+- name: Commercial District
   weight: 0.8095
   avg_copies: 1.0
-- name: Commercial District
+- name: Bojuka Bog
   weight: 0.8095
   avg_copies: 1.0
 - name: Icetill Explorer
@@ -117,19 +117,19 @@ top_cards:
 - name: Karn, the Great Creator
   weight: 0.3333
   avg_copies: 3.0
-- name: Ensnaring Bridge
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Chalice of the Void
+- name: Liquimetal Coating
   weight: 0.3333
   avg_copies: 1.0
 - name: Engineered Explosives
   weight: 0.3333
   avg_copies: 1.0
-- name: Liquimetal Coating
+- name: Ensnaring Bridge
   weight: 0.3333
   avg_copies: 1.0
 - name: Tormod's Crypt
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Chalice of the Void
   weight: 0.3333
   avg_copies: 1.0
 - name: Force of Vigor
@@ -144,13 +144,13 @@ top_cards:
 - name: Nulldrifter
   weight: 0.2381
   avg_copies: 3.0
-- name: Dismember
+- name: Talisman of Curiosity
   weight: 0.2381
   avg_copies: 2.0
 - name: Nature's Claim
   weight: 0.2381
   avg_copies: 2.0
-- name: Talisman of Curiosity
+- name: Dismember
   weight: 0.2381
   avg_copies: 2.0
 - name: Hedge Maze
@@ -168,19 +168,19 @@ top_cards:
 - name: Magus of the Moon
   weight: 0.1429
   avg_copies: 1.67
-- name: Strix Serenade
-  weight: 0.1429
-  avg_copies: 1.33
 - name: Herigast, Erupting Nullkite
   weight: 0.1429
   avg_copies: 1.33
-- name: Pithing Needle
+- name: Strix Serenade
   weight: 0.1429
-  avg_copies: 1.0
+  avg_copies: 1.33
 - name: Gemstone Caverns
   weight: 0.1429
   avg_copies: 1.0
 - name: Void Mirror
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Pithing Needle
   weight: 0.1429
   avg_copies: 1.0
 - name: Boseiju, Who Endures
@@ -201,37 +201,31 @@ top_cards:
 - name: Blasphemous Act
   weight: 0.0476
   avg_copies: 2.0
-- name: Blood Moon
+- name: Surgical Extraction
   weight: 0.0476
   avg_copies: 2.0
-- name: Surgical Extraction
+- name: Blood Moon
   weight: 0.0476
   avg_copies: 2.0
 - name: Talisman of Resilience
   weight: 0.0476
   avg_copies: 2.0
-- name: Ratchet Bomb
+- name: Arena of Glory
   weight: 0.0476
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Ilharg, the Raze-Boar
   weight: 0.0476
   avg_copies: 1.0
-- name: Ketria Triome
+- name: Darksteel Citadel
   weight: 0.0476
   avg_copies: 1.0
-- name: Hedron Archive
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Vibrance
+- name: Palantír of Orthanc
   weight: 0.0476
   avg_copies: 1.0
 - name: Wastescape Battlemage
   weight: 0.0476
   avg_copies: 1.0
-- name: Arena of Glory
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Ilharg, the Raze-Boar
+- name: Thief of Existence
   weight: 0.0476
   avg_copies: 1.0
 - name: Ugin, the Spirit Dragon
@@ -240,13 +234,19 @@ top_cards:
 - name: Keen-Eyed Curator
   weight: 0.0476
   avg_copies: 1.0
-- name: Palantír of Orthanc
+- name: Ketria Triome
   weight: 0.0476
   avg_copies: 1.0
-- name: Thief of Existence
+- name: Ratchet Bomb
   weight: 0.0476
   avg_copies: 1.0
-- name: Darksteel Citadel
+- name: Vibrance
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Hedron Archive
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
   weight: 0.0476
   avg_copies: 1.0
 ---

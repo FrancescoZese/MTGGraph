@@ -45,8 +45,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.25
   dredge:
-    weight: 0.6667
-    avg_copies: 2.5
+    weight: 0.75
+    avg_copies: 3.0
   azorius-blink:
     weight: 1.0
     avg_copies: 1.67
@@ -65,7 +65,4 @@ archetypes:
   naya-midrange:
     weight: 1.0
     avg_copies: 1.0
-  unknown-4:
-    weight: 1.0
-    avg_copies: 4.0
 ---

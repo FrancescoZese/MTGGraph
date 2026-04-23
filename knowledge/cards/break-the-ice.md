@@ -18,7 +18,7 @@ archetypes:
   necrodominance:
     weight: 0.9444
     avg_copies: 3.65
-  unknown-1:
+  the-rock:
     weight: 1.0
     avg_copies: 3.0
 ---

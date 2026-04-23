@@ -9,7 +9,7 @@ set: dka
 type: Instant
 meta_presence: 0.001
 archetypes:
-  unknown-4:
-    weight: 1.0
+  dredge:
+    weight: 0.25
     avg_copies: 2.0
 ---

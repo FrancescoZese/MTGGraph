@@ -63,6 +63,9 @@ archetypes:
   orzhov-blink:
     weight: 0.5
     avg_copies: 1.0
+  dredge:
+    weight: 0.25
+    avg_copies: 2.0
   jeskai-control:
     weight: 1.0
     avg_copies: 1.33
@@ -73,9 +76,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   naya-midrange:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-4:
     weight: 1.0
     avg_copies: 2.0
 cmc: 1

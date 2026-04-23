@@ -38,7 +38,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   dredge:
-    weight: 0.6667
+    weight: 0.5
     avg_copies: 4.0
   grixis-shadow:
     weight: 1.0

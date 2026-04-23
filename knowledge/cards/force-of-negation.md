@@ -44,7 +44,7 @@ archetypes:
     avg_copies: 1.4
   4c-omnath:
     weight: 1.0
-    avg_copies: 1.5
+    avg_copies: 2.33
   esper-blink:
     weight: 0.1
     avg_copies: 4.0
@@ -63,7 +63,4 @@ archetypes:
   esper-midrange:
     weight: 1.0
     avg_copies: 3.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 4.0
 ---

@@ -6,7 +6,7 @@ name: Ruby Storm
 meta_share: 0.0272
 list_count: 28
 top_cards:
-- name: Desperate Ritual
+- name: Ruby Medallion
   weight: 1.0
   avg_copies: 4.0
 - name: Wrenn's Resolve
@@ -15,7 +15,7 @@ top_cards:
 - name: Manamorphose
   weight: 1.0
   avg_copies: 4.0
-- name: Ruby Medallion
+- name: Desperate Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Reckless Impulse
@@ -129,16 +129,16 @@ top_cards:
 - name: Shattering Spree
   weight: 0.0714
   avg_copies: 1.5
-- name: Phlage, Titan of Fire's Fury
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Steam Vents
-  weight: 0.0714
-  avg_copies: 1.0
 - name: Alchemist's Gambit
   weight: 0.0714
   avg_copies: 1.0
+- name: Phlage, Titan of Fire's Fury
+  weight: 0.0714
+  avg_copies: 1.0
 - name: Vexing Bauble
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Steam Vents
   weight: 0.0714
   avg_copies: 1.0
 - name: Questing Druid
@@ -147,22 +147,22 @@ top_cards:
 - name: Blood Moon
   weight: 0.0357
   avg_copies: 2.0
-- name: Voice of Victory
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Stomping Ground
-  weight: 0.0357
-  avg_copies: 1.0
 - name: Urabrask
   weight: 0.0357
   avg_copies: 1.0
-- name: Hexing Squelcher
+- name: Abrade
   weight: 0.0357
   avg_copies: 1.0
 - name: Pyromancer Ascension
   weight: 0.0357
   avg_copies: 1.0
-- name: Abrade
+- name: Stomping Ground
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Voice of Victory
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Hexing Squelcher
   weight: 0.0357
   avg_copies: 1.0
 ---

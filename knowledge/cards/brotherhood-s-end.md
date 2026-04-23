@@ -16,7 +16,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   4c-omnath:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 2.0
   indomitable-creativity:
     weight: 1.0

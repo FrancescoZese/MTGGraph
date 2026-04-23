@@ -33,7 +33,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.8
   4c-omnath:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 1.0
   bant-control:
     weight: 1.0

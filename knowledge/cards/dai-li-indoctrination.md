@@ -9,7 +9,7 @@ set: tla
 type: Sorcery — Lesson
 meta_presence: 0.001
 archetypes:
-  unknown-5:
+  mono-black-reanimator:
     weight: 1.0
     avg_copies: 1.0
 ---

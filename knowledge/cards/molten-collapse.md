@@ -14,7 +14,7 @@ archetypes:
     weight: 0.55
     avg_copies: 1.0
   dredge:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 2.0
   rakdos-lantern-combo:
     weight: 1.0

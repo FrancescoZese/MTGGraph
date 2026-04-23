@@ -66,7 +66,7 @@ archetypes:
     weight: 0.75
     avg_copies: 1.33
   dredge:
-    weight: 0.6667
+    weight: 0.5
     avg_copies: 2.0
   izzet-artifacts:
     weight: 0.4762
@@ -92,13 +92,13 @@ archetypes:
   bant-ritual:
     weight: 1.0
     avg_copies: 2.0
-  unknown-2:
+  rakdos-shadows:
     weight: 1.0
     avg_copies: 3.0
   scapeshift-combo:
     weight: 1.0
     avg_copies: 2.75
-  unknown-1:
+  the-rock:
     weight: 1.0
     avg_copies: 1.0
 ---

@@ -16,7 +16,7 @@ archetypes:
   yawgmoth-combo:
     weight: 0.8333
     avg_copies: 1.4
-  unknown-5:
+  mono-black-reanimator:
     weight: 1.0
     avg_copies: 3.0
 ---

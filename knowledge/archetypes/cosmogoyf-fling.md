@@ -7,16 +7,25 @@ name: Cosmogoyf Fling
 meta_share: 0.0049
 list_count: 5
 top_cards:
+- name: Gemstone Mine
+  weight: 1.0
+  avg_copies: 4.0
 - name: Thud
+  weight: 1.0
+  avg_copies: 4.0
+- name: Blackcleave Cliffs
   weight: 1.0
   avg_copies: 4.0
 - name: Spoils of the Vault
   weight: 1.0
   avg_copies: 4.0
-- name: Plunge into Darkness
+- name: Cosmogoyf
   weight: 1.0
   avg_copies: 4.0
-- name: Cosmogoyf
+- name: Chancellor of the Annex
+  weight: 1.0
+  avg_copies: 4.0
+- name: Plunge into Darkness
   weight: 1.0
   avg_copies: 4.0
 - name: Devourer of Destiny
@@ -28,31 +37,22 @@ top_cards:
 - name: Gemstone Caverns
   weight: 1.0
   avg_copies: 4.0
-- name: Chancellor of the Annex
-  weight: 1.0
-  avg_copies: 4.0
-- name: Gemstone Mine
-  weight: 1.0
-  avg_copies: 4.0
-- name: Blackcleave Cliffs
-  weight: 1.0
-  avg_copies: 4.0
-- name: Serum Powder
+- name: Copperline Gorge
   weight: 1.0
   avg_copies: 3.4
-- name: Copperline Gorge
+- name: Serum Powder
   weight: 1.0
   avg_copies: 3.4
 - name: Pact of Negation
   weight: 1.0
   avg_copies: 3.33
-- name: Inquisition of Kozilek
-  weight: 1.0
-  avg_copies: 3.2
 - name: Cavern of Souls
   weight: 1.0
   avg_copies: 3.2
 - name: Blooming Marsh
+  weight: 1.0
+  avg_copies: 3.2
+- name: Inquisition of Kozilek
   weight: 1.0
   avg_copies: 3.2
 - name: Summoner's Pact

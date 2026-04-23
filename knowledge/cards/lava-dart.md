@@ -13,12 +13,9 @@ archetypes:
     weight: 0.9762
     avg_copies: 3.78
   dredge:
-    weight: 0.3333
+    weight: 0.5
     avg_copies: 4.0
   rakdos-steel-cutter:
     weight: 0.75
-    avg_copies: 4.0
-  unknown-4:
-    weight: 1.0
     avg_copies: 4.0
 ---

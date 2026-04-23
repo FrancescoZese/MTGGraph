@@ -12,7 +12,7 @@ archetypes:
   rakdos-reanimator:
     weight: 1.0
     avg_copies: 4.0
-  unknown-5:
+  mono-black-reanimator:
     weight: 1.0
     avg_copies: 1.0
 ---

@@ -6,25 +6,25 @@ name: Yawgmoth Combo
 meta_share: 0.0117
 list_count: 12
 top_cards:
-- name: Verdant Catacombs
-  weight: 1.0
-  avg_copies: 4.0
-- name: Agatha's Soul Cauldron
+- name: Delighted Halfling
   weight: 1.0
   avg_copies: 4.0
 - name: Badgermole Cub
   weight: 1.0
   avg_copies: 4.0
-- name: Delighted Halfling
+- name: Agatha's Soul Cauldron
+  weight: 1.0
+  avg_copies: 4.0
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
 - name: Yawgmoth, Thran Physician
   weight: 1.0
   avg_copies: 3.83
-- name: Young Wolf
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 3.67
-- name: Malevolent Rumble
+- name: Young Wolf
   weight: 1.0
   avg_copies: 3.67
 - name: Green Sun's Zenith
@@ -63,22 +63,22 @@ top_cards:
 - name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.08
-- name: Endurance
-  weight: 1.0
-  avg_copies: 1.0
 - name: Grist, the Hunger Tide
   weight: 1.0
   avg_copies: 1.0
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
+- name: Soulless Jailer
+  weight: 1.0
+  avg_copies: 1.0
+- name: Endurance
+  weight: 1.0
+  avg_copies: 1.0
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Strangleroot Geist
-  weight: 1.0
-  avg_copies: 1.0
-- name: Soulless Jailer
   weight: 1.0
   avg_copies: 1.0
 - name: Windswept Heath
@@ -105,10 +105,10 @@ top_cards:
 - name: Dredger's Insight
   weight: 0.6667
   avg_copies: 2.0
-- name: Scavenging Ooze
+- name: Pile On
   weight: 0.5
   avg_copies: 1.0
-- name: Pile On
+- name: Scavenging Ooze
   weight: 0.5
   avg_copies: 1.0
 - name: Misty Rainforest
@@ -126,19 +126,19 @@ top_cards:
 - name: Haywire Mite
   weight: 0.25
   avg_copies: 1.0
-- name: Kraul Harpooner
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Hapatra, Vizier of Poisons
   weight: 0.1667
   avg_copies: 1.0
-- name: Culling Ritual
-  weight: 0.0833
+- name: Kraul Harpooner
+  weight: 0.1667
   avg_copies: 1.0
 - name: Murderous Cut
   weight: 0.0833
   avg_copies: 1.0
 - name: Assassin's Trophy
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Culling Ritual
   weight: 0.0833
   avg_copies: 1.0
 ---

@@ -15,6 +15,9 @@ archetypes:
   azorius-control:
     weight: 0.75
     avg_copies: 1.39
+  4c-omnath:
+    weight: 0.5
+    avg_copies: 4.0
   esper-control:
     weight: 1.0
     avg_copies: 1.0
@@ -27,7 +30,4 @@ archetypes:
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 2.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 4.0
 ---

@@ -56,28 +56,28 @@ top_cards:
 - name: Griselbrand
   weight: 1.0
   avg_copies: 1.14
+- name: Shadowy Backstreet
+  weight: 1.0
+  avg_copies: 1.0
+- name: Undercity Sewers
+  weight: 1.0
+  avg_copies: 1.0
+- name: Meticulous Archive
+  weight: 1.0
+  avg_copies: 1.0
+- name: Island
+  weight: 1.0
+  avg_copies: 1.0
+- name: Watery Grave
+  weight: 1.0
+  avg_copies: 1.0
 - name: Plains
   weight: 1.0
   avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
-- name: Island
-  weight: 1.0
-  avg_copies: 1.0
 - name: Godless Shrine
-  weight: 1.0
-  avg_copies: 1.0
-- name: Watery Grave
-  weight: 1.0
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 1.0
-  avg_copies: 1.0
-- name: Shadowy Backstreet
-  weight: 1.0
-  avg_copies: 1.0
-- name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
 - name: Swamp
@@ -104,10 +104,10 @@ top_cards:
 - name: March of Otherworldly Light
   weight: 0.4444
   avg_copies: 1.05
-- name: Pest Control
+- name: Ashiok, Dream Render
   weight: 0.3889
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Pest Control
   weight: 0.3889
   avg_copies: 1.0
 - name: Emperor of Bones
@@ -128,13 +128,13 @@ top_cards:
 - name: Kavaero, Mind-Bitten
   weight: 0.1667
   avg_copies: 1.0
-- name: Cephalid Coliseum
-  weight: 0.1389
-  avg_copies: 1.0
 - name: Spell Snare
   weight: 0.1389
   avg_copies: 1.0
 - name: Overgrown Tomb
+  weight: 0.1389
+  avg_copies: 1.0
+- name: Cephalid Coliseum
   weight: 0.1389
   avg_copies: 1.0
 - name: Damping Sphere
@@ -143,13 +143,13 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.1111
   avg_copies: 1.25
-- name: Drannith Magistrate
-  weight: 0.1111
-  avg_copies: 1.0
 - name: Otherworldly Gaze
   weight: 0.1111
   avg_copies: 1.0
 - name: Supreme Verdict
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Drannith Magistrate
   weight: 0.1111
   avg_copies: 1.0
 - name: Snow-Covered Swamp
@@ -170,10 +170,13 @@ top_cards:
 - name: No More Lies
   weight: 0.0278
   avg_copies: 2.0
-- name: Ulamog, the Defiler
+- name: Toxic Deluge
   weight: 0.0278
   avg_copies: 1.0
 - name: Winternight Stories
+  weight: 0.0278
+  avg_copies: 1.0
+- name: Unburial Rites
   weight: 0.0278
   avg_copies: 1.0
 - name: Damn
@@ -182,10 +185,7 @@ top_cards:
 - name: Arcbound Ravager
   weight: 0.0278
   avg_copies: 1.0
-- name: Toxic Deluge
-  weight: 0.0278
-  avg_copies: 1.0
-- name: Unburial Rites
+- name: Ulamog, the Defiler
   weight: 0.0278
   avg_copies: 1.0
 ---

@@ -48,7 +48,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   dredge:
-    weight: 1.0
+    weight: 0.75
     avg_copies: 3.33
   elves:
     weight: 1.0

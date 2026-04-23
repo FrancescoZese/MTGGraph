@@ -9,7 +9,7 @@ set: woe
 type: Creature — Human Knight // Sorcery — Adventure
 meta_presence: 0.001
 archetypes:
-  unknown-1:
+  the-rock:
     weight: 1.0
     avg_copies: 1.0
 ---

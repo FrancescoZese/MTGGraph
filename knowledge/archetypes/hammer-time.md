@@ -6,67 +6,67 @@ name: Hammer Time
 meta_share: 0.0019
 list_count: 2
 top_cards:
-- name: Esper Sentinel
-  weight: 1.0
-  avg_copies: 4.0
-- name: Leyline Axe
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ornithopter
-  weight: 1.0
-  avg_copies: 4.0
-- name: Urza's Saga
+- name: Puresteel Paladin
   weight: 1.0
   avg_copies: 4.0
 - name: Colossus Hammer
   weight: 1.0
   avg_copies: 4.0
-- name: Puresteel Paladin
+- name: Esper Sentinel
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ornithopter
   weight: 1.0
   avg_copies: 4.0
 - name: Stoneforge Mystic
   weight: 1.0
   avg_copies: 4.0
-- name: Battlefield Improvisation
+- name: Leyline Axe
   weight: 1.0
-  avg_copies: 3.5
+  avg_copies: 4.0
+- name: Urza's Saga
+  weight: 1.0
+  avg_copies: 4.0
 - name: Metallic Rebuke
   weight: 1.0
   avg_copies: 3.5
-- name: Marsh Flats
+- name: Battlefield Improvisation
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 3.5
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 3.0
-- name: Flooded Strand
+- name: Marsh Flats
   weight: 1.0
-  avg_copies: 2.5
-- name: Sanctifier en-Vec
+  avg_copies: 3.0
+- name: Mox Opal
   weight: 1.0
   avg_copies: 2.5
 - name: Plains
   weight: 1.0
   avg_copies: 2.5
-- name: Soulless Jailer
-  weight: 1.0
-  avg_copies: 2.5
 - name: Inkmoth Nexus
   weight: 1.0
   avg_copies: 2.5
-- name: Mox Opal
+- name: Soulless Jailer
+  weight: 1.0
+  avg_copies: 2.5
+- name: Sanctifier en-Vec
+  weight: 1.0
+  avg_copies: 2.5
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 2.5
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.5
-- name: Pithing Needle
-  weight: 1.0
-  avg_copies: 1.0
 - name: Shadowspear
   weight: 1.0
   avg_copies: 1.0
 - name: Tormod's Crypt
+  weight: 1.0
+  avg_copies: 1.0
+- name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
 - name: Mishra's Bauble
@@ -75,43 +75,43 @@ top_cards:
 - name: Flare of Fortitude
   weight: 0.5
   avg_copies: 4.0
-- name: Sigarda's Aid
-  weight: 0.5
-  avg_copies: 2.0
-- name: Containment Priest
-  weight: 0.5
-  avg_copies: 2.0
 - name: Springleaf Drum
-  weight: 0.5
-  avg_copies: 2.0
-- name: Surge of Salvation
-  weight: 0.5
-  avg_copies: 2.0
-- name: Consign to Memory
-  weight: 0.5
-  avg_copies: 2.0
-- name: Damping Sphere
   weight: 0.5
   avg_copies: 2.0
 - name: Mystical Dispute
   weight: 0.5
   avg_copies: 2.0
-- name: Voice of Victory
+- name: Sigarda's Aid
+  weight: 0.5
+  avg_copies: 2.0
+- name: Damping Sphere
+  weight: 0.5
+  avg_copies: 2.0
+- name: Consign to Memory
+  weight: 0.5
+  avg_copies: 2.0
+- name: Surge of Salvation
+  weight: 0.5
+  avg_copies: 2.0
+- name: Containment Priest
+  weight: 0.5
+  avg_copies: 2.0
+- name: Lavaspur Boots
+  weight: 0.5
+  avg_copies: 1.0
+- name: Skateboard
   weight: 0.5
   avg_copies: 1.0
 - name: Arid Mesa
   weight: 0.5
   avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.5
-  avg_copies: 1.0
 - name: Grafdigger's Cage
   weight: 0.5
   avg_copies: 1.0
-- name: Lavaspur Boots
+- name: Voice of Victory
   weight: 0.5
   avg_copies: 1.0
-- name: Skateboard
+- name: Meticulous Archive
   weight: 0.5
   avg_copies: 1.0
 ---

@@ -25,7 +25,7 @@ archetypes:
     avg_copies: 2.0
   4c-omnath:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.5
   esper-blink:
     weight: 1.0
     avg_copies: 3.1
@@ -35,7 +35,4 @@ archetypes:
   azorius-blink:
     weight: 0.3333
     avg_copies: 4.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 1.0
 ---

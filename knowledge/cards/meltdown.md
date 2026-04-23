@@ -52,7 +52,7 @@ archetypes:
     weight: 0.9048
     avg_copies: 1.79
   dredge:
-    weight: 0.6667
+    weight: 0.5
     avg_copies: 2.5
   izzet-artifacts:
     weight: 0.0476
@@ -69,7 +69,7 @@ archetypes:
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 2.0
-  unknown-2:
+  rakdos-shadows:
     weight: 1.0
     avg_copies: 3.0
   scapeshift-combo:

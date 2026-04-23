@@ -49,7 +49,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   dredge:
-    weight: 1.0
+    weight: 0.75
     avg_copies: 2.67
   jund-saga:
     weight: 1.0
@@ -69,13 +69,13 @@ archetypes:
   esper-midrange:
     weight: 1.0
     avg_copies: 2.0
-  unknown-2:
+  rakdos-shadows:
     weight: 1.0
     avg_copies: 4.0
-  unknown-1:
+  the-rock:
     weight: 1.0
     avg_copies: 2.0
-  unknown-5:
+  mono-black-reanimator:
     weight: 1.0
     avg_copies: 4.0
 ---
