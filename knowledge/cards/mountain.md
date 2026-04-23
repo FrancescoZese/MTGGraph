@@ -20,6 +20,9 @@ archetypes:
   jeskai-energy:
     weight: 0.7662
     avg_copies: 1.0
+  reanimator:
+    weight: 0.0169
+    avg_copies: 2.0
   domain-zoo:
     weight: 0.9118
     avg_copies: 1.0
@@ -65,19 +68,13 @@ archetypes:
   jeskai-control:
     weight: 0.3333
     avg_copies: 1.0
-  rakdos-steel-cutter:
+  rakdos-aggro:
     weight: 1.0
     avg_copies: 1.0
-  rakdos-reanimator:
-    weight: 1.0
-    avg_copies: 2.0
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 1.0
   izzet-wizards:
-    weight: 1.0
-    avg_copies: 1.0
-  rakdos-shadows:
     weight: 1.0
     avg_copies: 1.0
   scapeshift-combo:

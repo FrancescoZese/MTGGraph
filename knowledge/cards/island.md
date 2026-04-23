@@ -9,20 +9,17 @@ type: Basic Land — Island
 meta_presence: 0.3551
 archetypes:
   dimir-control:
-    weight: 0.96
-    avg_copies: 3.25
-  dimir-frog:
-    weight: 1.0
-    avg_copies: 2.05
+    weight: 0.9787
+    avg_copies: 2.67
   mono-blue-belcher:
     weight: 0.5
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.7792
     avg_copies: 1.0
-  goryo-reanimator:
-    weight: 1.0
-    avg_copies: 1.0
+  reanimator:
+    weight: 0.9661
+    avg_copies: 1.02
   azorius-control:
     weight: 1.0
     avg_copies: 1.83
@@ -35,9 +32,6 @@ archetypes:
   mill:
     weight: 0.5
     avg_copies: 2.67
-  grixis-reanimator:
-    weight: 1.0
-    avg_copies: 1.05
   neoform-combo:
     weight: 0.0455
     avg_copies: 1.0
@@ -55,9 +49,6 @@ archetypes:
     avg_copies: 1.0
   esper-blink:
     weight: 0.3
-    avg_copies: 1.0
-  sultai-reanimator:
-    weight: 1.0
     avg_copies: 1.0
   bant-control:
     weight: 1.0

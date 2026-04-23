@@ -9,16 +9,13 @@ type: Instant // Land
 meta_presence: 0.2218
 archetypes:
   dimir-control:
-    weight: 0.12
-    avg_copies: 1.0
-  dimir-frog:
-    weight: 0.8636
-    avg_copies: 1.89
+    weight: 0.4681
+    avg_copies: 1.77
   mono-blue-belcher:
     weight: 1.0
     avg_copies: 4.0
-  goryo-reanimator:
-    weight: 0.1667
+  reanimator:
+    weight: 0.3729
     avg_copies: 1.0
   azorius-control:
     weight: 0.0833
@@ -31,9 +28,6 @@ archetypes:
     avg_copies: 2.23
   mill:
     weight: 0.1667
-    avg_copies: 1.0
-  grixis-reanimator:
-    weight: 0.8
     avg_copies: 1.0
   mono-blue-tron:
     weight: 1.0

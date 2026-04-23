@@ -9,10 +9,10 @@ type: Basic Snow Land — Swamp
 meta_presence: 0.0078
 archetypes:
   dimir-control:
-    weight: 0.04
+    weight: 0.0213
     avg_copies: 1.0
-  goryo-reanimator:
-    weight: 0.0833
+  reanimator:
+    weight: 0.0508
     avg_copies: 1.0
   mill:
     weight: 0.6667

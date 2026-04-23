@@ -9,8 +9,8 @@ set: ecl
 type: Creature — Elemental
 meta_presence: 0.0214
 archetypes:
-  dimir-frog:
-    weight: 0.0909
+  dimir-control:
+    weight: 0.0426
     avg_copies: 4.0
   hollow-one:
     weight: 1.0
@@ -18,10 +18,7 @@ archetypes:
   grixis-shadow:
     weight: 1.0
     avg_copies: 4.0
-  rakdos-steel-cutter:
-    weight: 1.0
-    avg_copies: 4.0
-  rakdos-shadows:
+  rakdos-aggro:
     weight: 1.0
     avg_copies: 4.0
 ---

@@ -10,14 +10,14 @@ set: rvr
 type: Legendary Planeswalker — Teferi
 meta_presence: 0.1508
 archetypes:
-  dimir-frog:
-    weight: 0.0909
+  dimir-control:
+    weight: 0.0426
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.5325
     avg_copies: 1.22
-  goryo-reanimator:
-    weight: 0.7778
+  reanimator:
+    weight: 0.4746
     avg_copies: 1.12
   azorius-control:
     weight: 1.0

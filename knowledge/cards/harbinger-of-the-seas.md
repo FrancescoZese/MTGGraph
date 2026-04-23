@@ -10,14 +10,14 @@ type: Creature — Merfolk Wizard
 meta_presence: 0.1138
 archetypes:
   dimir-control:
-    weight: 0.44
-    avg_copies: 1.18
-  dimir-frog:
-    weight: 0.8182
-    avg_copies: 2.17
+    weight: 0.617
+    avg_copies: 1.79
   mono-blue-belcher:
     weight: 0.8333
     avg_copies: 1.9
+  reanimator:
+    weight: 0.0678
+    avg_copies: 1.5
   azorius-control:
     weight: 0.0417
     avg_copies: 2.0
@@ -27,9 +27,6 @@ archetypes:
   affinity:
     weight: 0.2525
     avg_copies: 1.32
-  grixis-reanimator:
-    weight: 0.2
-    avg_copies: 1.5
   simic-ritual:
     weight: 0.96
     avg_copies: 2.48

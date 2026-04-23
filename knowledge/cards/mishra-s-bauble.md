@@ -8,8 +8,8 @@ set: 2xm
 type: Artifact
 meta_presence: 0.1819
 archetypes:
-  dimir-frog:
-    weight: 0.0909
+  dimir-control:
+    weight: 0.0426
     avg_copies: 4.0
   affinity:
     weight: 1.0
@@ -32,13 +32,10 @@ archetypes:
   grixis-shadow:
     weight: 1.0
     avg_copies: 4.0
-  rakdos-steel-cutter:
+  rakdos-aggro:
     weight: 1.0
     avg_copies: 4.0
   izzet-wizards:
-    weight: 1.0
-    avg_copies: 4.0
-  rakdos-shadows:
     weight: 1.0
     avg_copies: 4.0
 ---

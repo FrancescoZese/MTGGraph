@@ -1,5 +1,5 @@
 ---
-archetype: grixis-reanimator
+archetype: reanimator
 date: '2026-04-16'
 finish: 5-0
 pilot: SaN3

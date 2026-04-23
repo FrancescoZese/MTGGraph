@@ -15,8 +15,8 @@ archetypes:
   boros-energy:
     weight: 0.0047
     avg_copies: 1.0
-  dimir-frog:
-    weight: 0.0455
+  dimir-control:
+    weight: 0.0213
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.5844
@@ -24,8 +24,8 @@ archetypes:
   eldrazi-tron:
     weight: 0.0238
     avg_copies: 2.0
-  goryo-reanimator:
-    weight: 1.0
+  reanimator:
+    weight: 0.6102
     avg_copies: 2.28
   azorius-control:
     weight: 1.0

@@ -10,13 +10,10 @@ meta_presence: 0.1615
 archetypes:
   dimir-control:
     weight: 1.0
-    avg_copies: 2.8
-  dimir-frog:
-    weight: 1.0
-    avg_copies: 2.64
-  goryo-reanimator:
-    weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 2.72
+  reanimator:
+    weight: 0.9661
+    avg_copies: 1.32
   necrodominance:
     weight: 0.1111
     avg_copies: 3.5
@@ -29,9 +26,6 @@ archetypes:
   mill:
     weight: 1.0
     avg_copies: 1.33
-  grixis-reanimator:
-    weight: 1.0
-    avg_copies: 1.9
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
@@ -39,9 +33,6 @@ archetypes:
     weight: 0.84
     avg_copies: 1.0
   esper-blink:
-    weight: 1.0
-    avg_copies: 1.0
-  sultai-reanimator:
     weight: 1.0
     avg_copies: 1.0
   dredge:

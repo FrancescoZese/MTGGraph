@@ -8,8 +8,8 @@ set: mma
 type: Artifact Creature — Beast
 meta_presence: 0.0817
 archetypes:
-  goryo-reanimator:
-    weight: 0.0278
+  reanimator:
+    weight: 0.0169
     avg_copies: 1.0
   hardened-scales:
     weight: 1.0

@@ -6,10 +6,16 @@ name: Mono Green Ramp
 meta_share: 0.0029
 list_count: 3
 top_cards:
-- name: Misty Rainforest
+- name: Badgermole Cub
   weight: 1.0
   avg_copies: 4.0
 - name: Springheart Nantuko
+  weight: 1.0
+  avg_copies: 4.0
+- name: Misty Rainforest
+  weight: 1.0
+  avg_copies: 4.0
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 4.0
 - name: Windswept Heath
@@ -18,28 +24,22 @@ top_cards:
 - name: Delighted Halfling
   weight: 1.0
   avg_copies: 4.0
-- name: Badgermole Cub
-  weight: 1.0
-  avg_copies: 4.0
 - name: Quirion Ranger
   weight: 1.0
   avg_copies: 4.0
-- name: Green Sun's Zenith
-  weight: 1.0
-  avg_copies: 4.0
-- name: Summoner's Pact
-  weight: 1.0
-  avg_copies: 3.0
 - name: Lotus Cobra
   weight: 1.0
   avg_copies: 3.0
-- name: Leyline of Abundance
+- name: Summoner's Pact
   weight: 1.0
   avg_copies: 3.0
 - name: Tyvar, Jubilant Brawler
   weight: 1.0
   avg_copies: 3.0
 - name: Thoughtseize
+  weight: 1.0
+  avg_copies: 3.0
+- name: Leyline of Abundance
   weight: 1.0
   avg_copies: 3.0
 - name: Mai, Scornful Striker
@@ -51,10 +51,10 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 2.0
-- name: Forest
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 2.0
-- name: Dryad Arbor
+- name: Forest
   weight: 1.0
   avg_copies: 2.0
 - name: Overgrown Tomb
@@ -66,13 +66,10 @@ top_cards:
 - name: Creeping Corrosion
   weight: 1.0
   avg_copies: 1.33
+- name: Formidable Speaker
+  weight: 1.0
+  avg_copies: 1.0
 - name: Craterhoof Behemoth
-  weight: 1.0
-  avg_copies: 1.0
-- name: Chomping Changeling
-  weight: 1.0
-  avg_copies: 1.0
-- name: Endurance
   weight: 1.0
   avg_copies: 1.0
 - name: Collector Ouphe
@@ -81,16 +78,19 @@ top_cards:
 - name: Nissa, Resurgent Animist
   weight: 1.0
   avg_copies: 1.0
-- name: Formidable Speaker
+- name: Disciple of Freyalise
   weight: 1.0
   avg_copies: 1.0
-- name: Verdant Catacombs
+- name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.0
 - name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
-- name: Disciple of Freyalise
+- name: Endurance
+  weight: 1.0
+  avg_copies: 1.0
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 1.0
 - name: Ashaya, Soul of the Wild
@@ -99,7 +99,7 @@ top_cards:
 - name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Chomping Changeling
   weight: 1.0
   avg_copies: 1.0
 ---

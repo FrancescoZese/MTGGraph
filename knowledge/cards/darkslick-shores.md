@@ -8,8 +8,8 @@ set: otc
 type: Land
 meta_presence: 0.0165
 archetypes:
-  dimir-frog:
-    weight: 0.7273
+  dimir-control:
+    weight: 0.3404
     avg_copies: 1.69
   esper-midrange:
     weight: 1.0

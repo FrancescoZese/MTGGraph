@@ -9,8 +9,8 @@ set: mh2
 type: Enchantment
 meta_presence: 0.0068
 archetypes:
-  dimir-frog:
-    weight: 0.0455
+  dimir-control:
+    weight: 0.0213
     avg_copies: 3.0
   azorius-control:
     weight: 0.0417

@@ -9,10 +9,7 @@ set: mh3
 type: Instant
 meta_presence: 0.0019
 archetypes:
-  rakdos-reanimator:
-    weight: 1.0
-    avg_copies: 4.0
-  mono-black-reanimator:
-    weight: 1.0
-    avg_copies: 1.0
+  reanimator:
+    weight: 0.0339
+    avg_copies: 2.5
 ---

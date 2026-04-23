@@ -9,8 +9,8 @@ set: tdc
 type: Creature — Dauthi Rogue
 meta_presence: 0.0126
 archetypes:
-  dimir-frog:
-    weight: 0.0455
+  dimir-control:
+    weight: 0.0213
     avg_copies: 2.0
   necrodominance:
     weight: 0.4444

@@ -10,8 +10,8 @@ set: lci
 type: Sorcery
 meta_presence: 0.0126
 archetypes:
-  grixis-reanimator:
-    weight: 0.55
+  reanimator:
+    weight: 0.1864
     avg_copies: 1.0
   dredge:
     weight: 0.25

@@ -1,5 +1,5 @@
 ---
-archetype: goryo-reanimator
+archetype: reanimator
 date: '2026-04-15'
 finish: 2nd
 pilot: slaxx

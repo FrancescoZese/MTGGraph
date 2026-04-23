@@ -12,11 +12,8 @@ archetypes:
     weight: 0.0142
     avg_copies: 1.0
   dimir-control:
-    weight: 0.2
-    avg_copies: 2.0
-  dimir-frog:
-    weight: 0.6818
-    avg_copies: 1.53
+    weight: 0.4255
+    avg_copies: 1.65
   jeskai-energy:
     weight: 0.013
     avg_copies: 2.0

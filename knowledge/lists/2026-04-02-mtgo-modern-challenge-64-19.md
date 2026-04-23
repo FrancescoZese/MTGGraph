@@ -1,5 +1,5 @@
 ---
-archetype: goryo-reanimator
+archetype: reanimator
 date: '2026-04-02'
 finish: 32nd
 pilot: avishai-elma

@@ -1,5 +1,5 @@
 ---
-archetype: dimir-frog
+archetype: dimir-control
 date: '2026-04-19'
 finish: 3rd
 pilot: 1OR513N86

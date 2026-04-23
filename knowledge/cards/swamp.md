@@ -9,17 +9,14 @@ type: Basic Land — Swamp
 meta_presence: 0.2111
 archetypes:
   dimir-control:
-    weight: 0.96
-    avg_copies: 1.0
-  dimir-frog:
-    weight: 1.0
-    avg_copies: 1.09
+    weight: 0.9787
+    avg_copies: 1.04
   eldrazi-tron:
     weight: 0.8571
     avg_copies: 1.0
-  goryo-reanimator:
-    weight: 0.9167
-    avg_copies: 1.0
+  reanimator:
+    weight: 0.9492
+    avg_copies: 1.3
   necrodominance:
     weight: 1.0
     avg_copies: 9.83
@@ -29,9 +26,6 @@ archetypes:
   mill:
     weight: 0.5
     avg_copies: 1.67
-  grixis-reanimator:
-    weight: 1.0
-    avg_copies: 1.35
   hollow-one:
     weight: 0.7857
     avg_copies: 1.0
@@ -41,9 +35,6 @@ archetypes:
   esper-blink:
     weight: 1.0
     avg_copies: 1.0
-  sultai-reanimator:
-    weight: 1.0
-    avg_copies: 2.0
   samwise-combo:
     weight: 0.1111
     avg_copies: 1.0
@@ -59,25 +50,16 @@ archetypes:
   grixis-shadow:
     weight: 1.0
     avg_copies: 1.0
-  rakdos-steel-cutter:
+  rakdos-aggro:
     weight: 1.0
     avg_copies: 1.0
-  rakdos-reanimator:
-    weight: 1.0
-    avg_copies: 2.0
   cosmogoyf-fling:
     weight: 1.0
     avg_copies: 1.0
   esper-midrange:
     weight: 1.0
     avg_copies: 1.0
-  rakdos-shadows:
-    weight: 1.0
-    avg_copies: 1.0
   the-rock:
     weight: 1.0
     avg_copies: 1.0
-  mono-black-reanimator:
-    weight: 1.0
-    avg_copies: 9.0
 ---

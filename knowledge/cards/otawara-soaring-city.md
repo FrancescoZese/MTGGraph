@@ -9,10 +9,7 @@ type: Legendary Land
 meta_presence: 0.1469
 archetypes:
   dimir-control:
-    weight: 0.48
-    avg_copies: 1.0
-  dimir-frog:
-    weight: 0.6818
+    weight: 0.5745
     avg_copies: 1.0
   amulet-titan:
     weight: 1.0

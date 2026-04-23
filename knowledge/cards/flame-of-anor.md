@@ -11,7 +11,7 @@ type: Instant
 meta_presence: 0.0146
 archetypes:
   dimir-control:
-    weight: 0.08
+    weight: 0.0426
     avg_copies: 3.5
   izzet-artifacts:
     weight: 0.3333

@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0224
 archetypes:
   dimir-control:
-    weight: 0.04
+    weight: 0.0213
     avg_copies: 2.0
   mono-blue-belcher:
     weight: 0.5

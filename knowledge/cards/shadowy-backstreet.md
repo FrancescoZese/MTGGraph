@@ -8,8 +8,8 @@ set: mkm
 type: Land — Plains Swamp
 meta_presence: 0.0554
 archetypes:
-  goryo-reanimator:
-    weight: 1.0
+  reanimator:
+    weight: 0.6102
     avg_copies: 1.0
   mardu-blink:
     weight: 0.8571

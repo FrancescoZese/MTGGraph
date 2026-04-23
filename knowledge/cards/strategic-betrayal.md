@@ -9,8 +9,8 @@ set: tdm
 type: Sorcery
 meta_presence: 0.0088
 archetypes:
-  dimir-frog:
-    weight: 0.3182
+  dimir-control:
+    weight: 0.1489
     avg_copies: 1.0
   esper-midrange:
     weight: 1.0

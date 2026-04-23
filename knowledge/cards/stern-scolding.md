@@ -9,8 +9,8 @@ set: ltr
 type: Instant
 meta_presence: 0.0418
 archetypes:
-  dimir-frog:
-    weight: 0.5
+  dimir-control:
+    weight: 0.234
     avg_copies: 1.08
   mono-blue-belcher:
     weight: 1.0

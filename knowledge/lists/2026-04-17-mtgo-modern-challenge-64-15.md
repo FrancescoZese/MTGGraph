@@ -1,5 +1,5 @@
 ---
-archetype: dimir-frog
+archetype: dimir-control
 date: '2026-04-17'
 finish: 15th
 pilot: Slyvester3

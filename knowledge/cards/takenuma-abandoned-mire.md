@@ -9,7 +9,7 @@ type: Legendary Land
 meta_presence: 0.0039
 archetypes:
   dimir-control:
-    weight: 0.04
+    weight: 0.0213
     avg_copies: 1.0
   necrodominance:
     weight: 0.1667

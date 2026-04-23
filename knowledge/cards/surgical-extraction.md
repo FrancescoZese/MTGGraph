@@ -4,17 +4,14 @@ archetypes:
     weight: 0.8957
     avg_copies: 1.31
   dimir-control:
-    weight: 0.2
-    avg_copies: 1.4
-  dimir-frog:
-    weight: 0.0455
-    avg_copies: 2.0
+    weight: 0.1277
+    avg_copies: 1.5
   jeskai-energy:
     weight: 0.8182
     avg_copies: 1.06
-  goryo-reanimator:
-    weight: 0.8056
-    avg_copies: 1.14
+  reanimator:
+    weight: 0.5932
+    avg_copies: 1.17
   necrodominance:
     weight: 0.7222
     avg_copies: 1.62
@@ -27,9 +24,6 @@ archetypes:
   mill:
     weight: 1.0
     avg_copies: 2.33
-  grixis-reanimator:
-    weight: 0.3
-    avg_copies: 1.33
   burn:
     weight: 0.5
     avg_copies: 2.0
@@ -69,8 +63,8 @@ archetypes:
   jeskai-control:
     weight: 1.0
     avg_copies: 1.33
-  rakdos-steel-cutter:
-    weight: 0.25
+  rakdos-aggro:
+    weight: 0.2
     avg_copies: 2.0
   izzet-splinter-twin:
     weight: 1.0

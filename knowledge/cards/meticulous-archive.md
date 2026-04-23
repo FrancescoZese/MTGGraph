@@ -9,16 +9,13 @@ type: Land — Plains Island
 meta_presence: 0.1663
 archetypes:
   dimir-control:
-    weight: 0.04
-    avg_copies: 1.0
-  dimir-frog:
-    weight: 0.1818
+    weight: 0.1064
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.987
     avg_copies: 1.0
-  goryo-reanimator:
-    weight: 1.0
+  reanimator:
+    weight: 0.6102
     avg_copies: 1.0
   azorius-control:
     weight: 1.0

@@ -10,13 +10,10 @@ type: Sorcery
 meta_presence: 0.0272
 archetypes:
   dimir-control:
-    weight: 0.12
-    avg_copies: 1.25
-  dimir-frog:
-    weight: 0.7727
+    weight: 0.4255
     avg_copies: 1.29
-  goryo-reanimator:
-    weight: 0.0278
+  reanimator:
+    weight: 0.0169
     avg_copies: 1.0
   necrodominance:
     weight: 0.1111

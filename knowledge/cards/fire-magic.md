@@ -13,11 +13,8 @@ archetypes:
     weight: 0.1786
     avg_copies: 1.6
   dimir-control:
-    weight: 0.52
-    avg_copies: 1.6
-  dimir-frog:
-    weight: 0.0455
-    avg_copies: 2.0
+    weight: 0.2979
+    avg_copies: 1.62
   amulet-titan:
     weight: 0.3409
     avg_copies: 2.67

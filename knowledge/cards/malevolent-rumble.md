@@ -12,6 +12,9 @@ archetypes:
   amulet-titan:
     weight: 0.4773
     avg_copies: 2.9
+  reanimator:
+    weight: 0.0169
+    avg_copies: 4.0
   hardened-scales:
     weight: 0.6667
     avg_copies: 3.0
@@ -24,9 +27,6 @@ archetypes:
   eldrazi-ramp:
     weight: 1.0
     avg_copies: 3.81
-  sultai-reanimator:
-    weight: 1.0
-    avg_copies: 4.0
   samwise-combo:
     weight: 0.8889
     avg_copies: 2.88

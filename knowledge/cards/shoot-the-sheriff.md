@@ -9,8 +9,8 @@ set: otj
 type: Instant
 meta_presence: 0.0029
 archetypes:
-  dimir-frog:
-    weight: 0.0909
+  dimir-control:
+    weight: 0.0426
     avg_copies: 1.0
   jund-saga:
     weight: 1.0

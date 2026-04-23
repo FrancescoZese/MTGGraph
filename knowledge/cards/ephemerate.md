@@ -15,8 +15,8 @@ archetypes:
   jeskai-energy:
     weight: 0.961
     avg_copies: 1.84
-  goryo-reanimator:
-    weight: 1.0
+  reanimator:
+    weight: 0.6102
     avg_copies: 3.97
   mardu-blink:
     weight: 1.0

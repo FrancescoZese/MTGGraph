@@ -9,14 +9,14 @@ type: Land
 meta_presence: 0.1518
 archetypes:
   dimir-control:
-    weight: 0.16
-    avg_copies: 2.25
-  dimir-frog:
-    weight: 0.6364
-    avg_copies: 1.93
+    weight: 0.383
+    avg_copies: 2.0
   jeskai-energy:
     weight: 0.013
     avg_copies: 3.0
+  reanimator:
+    weight: 0.0169
+    avg_copies: 1.0
   azorius-control:
     weight: 0.0417
     avg_copies: 1.0
@@ -50,9 +50,6 @@ archetypes:
   4c-omnath:
     weight: 0.5
     avg_copies: 4.0
-  sultai-reanimator:
-    weight: 1.0
-    avg_copies: 1.0
   samwise-combo:
     weight: 0.7778
     avg_copies: 1.57

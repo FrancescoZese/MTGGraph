@@ -8,13 +8,10 @@ set: tdc
 type: Land
 meta_presence: 0.0078
 archetypes:
-  goryo-reanimator:
-    weight: 0.1389
+  reanimator:
+    weight: 0.1017
     avg_copies: 1.0
   mill:
     weight: 0.3333
-    avg_copies: 1.0
-  sultai-reanimator:
-    weight: 1.0
     avg_copies: 1.0
 ---

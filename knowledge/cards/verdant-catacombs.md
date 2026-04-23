@@ -8,6 +8,9 @@ set: mh2
 type: Land
 meta_presence: 0.0895
 archetypes:
+  reanimator:
+    weight: 0.0169
+    avg_copies: 4.0
   necrodominance:
     weight: 0.1111
     avg_copies: 2.5
@@ -29,9 +32,6 @@ archetypes:
   simic-ritual:
     weight: 0.88
     avg_copies: 3.68
-  sultai-reanimator:
-    weight: 1.0
-    avg_copies: 4.0
   samwise-combo:
     weight: 1.0
     avg_copies: 4.0
@@ -44,10 +44,10 @@ archetypes:
   jund-saga:
     weight: 1.0
     avg_copies: 4.0
-  mono-green-ramp:
-    weight: 1.0
+  rakdos-aggro:
+    weight: 0.2
     avg_copies: 1.0
-  rakdos-shadows:
+  mono-green-ramp:
     weight: 1.0
     avg_copies: 1.0
   the-rock:

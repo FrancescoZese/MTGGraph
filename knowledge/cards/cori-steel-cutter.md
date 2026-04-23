@@ -15,7 +15,7 @@ archetypes:
   izzet-artifacts:
     weight: 0.9048
     avg_copies: 3.74
-  rakdos-steel-cutter:
-    weight: 0.75
+  rakdos-aggro:
+    weight: 0.6
     avg_copies: 4.0
 ---

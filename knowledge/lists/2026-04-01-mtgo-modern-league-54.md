@@ -1,5 +1,5 @@
 ---
-archetype: dimir-frog
+archetype: dimir-control
 date: '2026-04-01'
 finish: 5-0
 pilot: kytan

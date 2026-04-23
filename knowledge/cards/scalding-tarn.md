@@ -12,14 +12,14 @@ archetypes:
     weight: 1.0
     avg_copies: 2.14
   dimir-control:
-    weight: 0.24
-    avg_copies: 2.17
-  dimir-frog:
-    weight: 0.5
-    avg_copies: 1.09
+    weight: 0.3617
+    avg_copies: 1.47
   jeskai-energy:
     weight: 0.987
     avg_copies: 2.99
+  reanimator:
+    weight: 0.339
+    avg_copies: 1.05
   azorius-control:
     weight: 1.0
     avg_copies: 2.54
@@ -29,9 +29,6 @@ archetypes:
   mill:
     weight: 0.8333
     avg_copies: 1.0
-  grixis-reanimator:
-    weight: 1.0
-    avg_copies: 1.05
   neoform-combo:
     weight: 0.6818
     avg_copies: 1.4
@@ -68,8 +65,8 @@ archetypes:
   grixis-shadow:
     weight: 1.0
     avg_copies: 3.0
-  rakdos-steel-cutter:
-    weight: 0.5
+  rakdos-aggro:
+    weight: 0.4
     avg_copies: 3.0
   izzet-splinter-twin:
     weight: 1.0

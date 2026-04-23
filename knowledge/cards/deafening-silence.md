@@ -12,8 +12,8 @@ archetypes:
   boros-energy:
     weight: 0.0332
     avg_copies: 2.14
-  goryo-reanimator:
-    weight: 0.0556
+  reanimator:
+    weight: 0.0339
     avg_copies: 2.0
   living-end:
     weight: 0.2105

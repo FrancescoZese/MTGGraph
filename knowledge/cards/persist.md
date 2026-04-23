@@ -9,22 +9,13 @@ set: ecc
 type: Sorcery
 meta_presence: 0.0253
 archetypes:
+  reanimator:
+    weight: 0.3898
+    avg_copies: 3.96
   domain-zoo:
     weight: 0.0294
-    avg_copies: 4.0
-  grixis-reanimator:
-    weight: 1.0
-    avg_copies: 4.0
-  sultai-reanimator:
-    weight: 1.0
     avg_copies: 4.0
   indomitable-creativity:
     weight: 0.2857
     avg_copies: 4.0
-  rakdos-reanimator:
-    weight: 1.0
-    avg_copies: 4.0
-  mono-black-reanimator:
-    weight: 1.0
-    avg_copies: 3.0
 ---

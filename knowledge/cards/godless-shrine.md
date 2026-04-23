@@ -8,8 +8,8 @@ set: eoe
 type: Land — Plains Swamp
 meta_presence: 0.0982
 archetypes:
-  goryo-reanimator:
-    weight: 1.0
+  reanimator:
+    weight: 0.6102
     avg_copies: 1.0
   domain-zoo:
     weight: 1.0

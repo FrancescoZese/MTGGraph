@@ -16,23 +16,20 @@ archetypes:
     weight: 0.0664
     avg_copies: 1.29
   dimir-control:
-    weight: 0.64
-    avg_copies: 2.38
-  dimir-frog:
-    weight: 0.0455
-    avg_copies: 3.0
+    weight: 0.3617
+    avg_copies: 2.41
   jeskai-energy:
     weight: 0.013
     avg_copies: 1.0
+  reanimator:
+    weight: 0.339
+    avg_copies: 2.1
   azorius-control:
     weight: 0.1667
     avg_copies: 1.0
   domain-zoo:
     weight: 0.0294
     avg_copies: 1.0
-  grixis-reanimator:
-    weight: 1.0
-    avg_copies: 2.1
   burn:
     weight: 0.25
     avg_copies: 2.0
@@ -63,15 +60,12 @@ archetypes:
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
-  rakdos-steel-cutter:
+  rakdos-aggro:
     weight: 1.0
     avg_copies: 3.0
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 2.0
-  rakdos-shadows:
-    weight: 1.0
-    avg_copies: 3.0
   scapeshift-combo:
     weight: 0.25
     avg_copies: 2.0

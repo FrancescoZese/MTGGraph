@@ -9,6 +9,9 @@ set: dmr
 type: Creature — Wraith
 meta_presence: 0.036
 archetypes:
+  reanimator:
+    weight: 0.0169
+    avg_copies: 4.0
   living-end:
     weight: 0.8947
     avg_copies: 2.71
@@ -18,13 +21,7 @@ archetypes:
   grixis-shadow:
     weight: 1.0
     avg_copies: 4.0
-  rakdos-steel-cutter:
-    weight: 0.75
-    avg_copies: 4.0
-  rakdos-shadows:
-    weight: 1.0
-    avg_copies: 4.0
-  mono-black-reanimator:
-    weight: 1.0
+  rakdos-aggro:
+    weight: 0.8
     avg_copies: 4.0
 ---

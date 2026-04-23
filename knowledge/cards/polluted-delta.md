@@ -10,13 +10,10 @@ meta_presence: 0.1644
 archetypes:
   dimir-control:
     weight: 1.0
-    avg_copies: 3.56
-  dimir-frog:
-    weight: 1.0
-    avg_copies: 3.86
-  goryo-reanimator:
-    weight: 1.0
-    avg_copies: 3.61
+    avg_copies: 3.7
+  reanimator:
+    weight: 0.9831
+    avg_copies: 3.71
   necrodominance:
     weight: 0.1111
     avg_copies: 3.5
@@ -30,9 +27,6 @@ archetypes:
     weight: 0.0202
     avg_copies: 1.0
   mill:
-    weight: 1.0
-    avg_copies: 4.0
-  grixis-reanimator:
     weight: 1.0
     avg_copies: 4.0
   neoform-combo:
@@ -50,9 +44,6 @@ archetypes:
   esper-blink:
     weight: 0.9
     avg_copies: 1.89
-  sultai-reanimator:
-    weight: 1.0
-    avg_copies: 4.0
   esper-control:
     weight: 1.0
     avg_copies: 4.0
@@ -65,9 +56,6 @@ archetypes:
   grixis-shadow:
     weight: 1.0
     avg_copies: 4.0
-  rakdos-reanimator:
-    weight: 1.0
-    avg_copies: 1.0
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 1.0

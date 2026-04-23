@@ -1,5 +1,5 @@
 ---
-archetype: grixis-reanimator
+archetype: reanimator
 date: '2026-04-03'
 finish: 14th
 pilot: Sorathrix

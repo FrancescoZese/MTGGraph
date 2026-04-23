@@ -1,5 +1,5 @@
 ---
-archetype: dimir-frog
+archetype: dimir-control
 date: '2026-04-20'
 finish: 15th
 pilot: SuperCow12653

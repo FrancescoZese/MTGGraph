@@ -9,13 +9,10 @@ set: tdc
 type: Creature — Zombie
 meta_presence: 0.0029
 archetypes:
+  reanimator:
+    weight: 0.0339
+    avg_copies: 4.0
   dredge:
     weight: 0.25
-    avg_copies: 4.0
-  rakdos-reanimator:
-    weight: 1.0
-    avg_copies: 4.0
-  mono-black-reanimator:
-    weight: 1.0
     avg_copies: 4.0
 ---

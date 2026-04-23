@@ -11,8 +11,8 @@ archetypes:
   jeskai-energy:
     weight: 0.013
     avg_copies: 1.0
-  goryo-reanimator:
-    weight: 0.5278
+  reanimator:
+    weight: 0.339
     avg_copies: 1.0
   azorius-control:
     weight: 0.0833
@@ -36,9 +36,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.16
   4c-omnath:
-    weight: 1.0
-    avg_copies: 1.0
-  sultai-reanimator:
     weight: 1.0
     avg_copies: 1.0
   samwise-combo:

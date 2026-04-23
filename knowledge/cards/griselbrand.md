@@ -9,8 +9,8 @@ set: inr
 type: Legendary Creature — Demon
 meta_presence: 0.0554
 archetypes:
-  goryo-reanimator:
-    weight: 1.0
+  reanimator:
+    weight: 0.6102
     avg_copies: 1.14
   neoform-combo:
     weight: 0.9545

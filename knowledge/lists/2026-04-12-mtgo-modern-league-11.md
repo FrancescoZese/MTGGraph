@@ -1,5 +1,5 @@
 ---
-archetype: goryo-reanimator
+archetype: reanimator
 date: '2026-04-12'
 finish: 5-0
 pilot: Im_Yer_Huckleberry

@@ -10,12 +10,9 @@ type: Instant
 meta_presence: 0.0428
 archetypes:
   dimir-control:
-    weight: 1.0
-    avg_copies: 2.08
-  dimir-frog:
-    weight: 0.8182
-    avg_copies: 1.83
-  rakdos-shadows:
-    weight: 1.0
+    weight: 0.9149
+    avg_copies: 1.98
+  rakdos-aggro:
+    weight: 0.2
     avg_copies: 2.0
 ---

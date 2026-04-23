@@ -32,8 +32,8 @@ archetypes:
   jeskai-control:
     weight: 1.0
     avg_copies: 2.0
-  rakdos-steel-cutter:
-    weight: 1.0
+  rakdos-aggro:
+    weight: 0.8
     avg_copies: 2.0
   naya-midrange:
     weight: 1.0

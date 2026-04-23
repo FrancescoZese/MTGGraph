@@ -11,14 +11,14 @@ archetypes:
   boros-energy:
     weight: 0.9716
     avg_copies: 3.46
-  dimir-frog:
-    weight: 0.6818
+  dimir-control:
+    weight: 0.3191
     avg_copies: 1.53
   jeskai-energy:
     weight: 0.0779
     avg_copies: 1.0
-  goryo-reanimator:
-    weight: 1.0
+  reanimator:
+    weight: 0.6102
     avg_copies: 3.03
   necrodominance:
     weight: 0.0556
@@ -44,15 +44,15 @@ archetypes:
   azorius-blink:
     weight: 1.0
     avg_copies: 2.0
+  rakdos-aggro:
+    weight: 0.2
+    avg_copies: 4.0
   bant-ritual:
     weight: 1.0
     avg_copies: 1.0
   esper-midrange:
     weight: 1.0
     avg_copies: 2.0
-  rakdos-shadows:
-    weight: 1.0
-    avg_copies: 4.0
   the-rock:
     weight: 1.0
     avg_copies: 1.0

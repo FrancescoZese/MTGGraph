@@ -9,7 +9,7 @@ set: mh1
 type: Instant
 meta_presence: 0.001
 archetypes:
-  dimir-frog:
-    weight: 0.0455
+  dimir-control:
+    weight: 0.0213
     avg_copies: 2.0
 ---

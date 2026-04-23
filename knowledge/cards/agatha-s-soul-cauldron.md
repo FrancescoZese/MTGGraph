@@ -8,6 +8,9 @@ set: woe
 type: Legendary Artifact
 meta_presence: 0.0233
 archetypes:
+  reanimator:
+    weight: 0.0169
+    avg_copies: 1.0
   hardened-scales:
     weight: 1.0
     avg_copies: 3.0
@@ -17,9 +20,6 @@ archetypes:
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 4.0
-  sultai-reanimator:
-    weight: 1.0
-    avg_copies: 1.0
   azorius-blink:
     weight: 0.3333
     avg_copies: 3.0

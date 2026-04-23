@@ -9,8 +9,8 @@ set: dsc
 type: Instant
 meta_presence: 0.0049
 archetypes:
-  goryo-reanimator:
-    weight: 0.1111
+  reanimator:
+    weight: 0.0678
     avg_copies: 1.0
   dredge:
     weight: 0.25

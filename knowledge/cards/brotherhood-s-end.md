@@ -12,6 +12,9 @@ archetypes:
   ruby-storm:
     weight: 0.75
     avg_copies: 1.38
+  reanimator:
+    weight: 0.0169
+    avg_copies: 1.0
   mono-red-belcher:
     weight: 1.0
     avg_copies: 3.0
@@ -22,9 +25,6 @@ archetypes:
     weight: 1.0
     avg_copies: 2.71
   jund-saga:
-    weight: 1.0
-    avg_copies: 1.0
-  rakdos-reanimator:
     weight: 1.0
     avg_copies: 1.0
 ---

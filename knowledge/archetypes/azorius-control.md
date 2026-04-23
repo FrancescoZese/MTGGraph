@@ -124,10 +124,10 @@ top_cards:
 - name: Subtlety
   weight: 0.375
   avg_copies: 1.78
-- name: Elegant Parlor
+- name: Sacred Foundry
   weight: 0.375
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Elegant Parlor
   weight: 0.375
   avg_copies: 1.0
 - name: Fire Magic
@@ -151,16 +151,16 @@ top_cards:
 - name: Tune the Narrative
   weight: 0.1667
   avg_copies: 2.0
-- name: Mistrise Village
+- name: Polluted Delta
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Stern Scolding
   weight: 0.1667
   avg_copies: 1.0
 - name: Meltdown
   weight: 0.1667
   avg_copies: 1.0
-- name: Polluted Delta
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Stern Scolding
+- name: Mistrise Village
   weight: 0.1667
   avg_copies: 1.0
 - name: Damping Sphere
@@ -169,10 +169,10 @@ top_cards:
 - name: Temporary Lockdown
   weight: 0.125
   avg_copies: 1.8
-- name: Thundertrap Trainer
+- name: Suppression Ray
   weight: 0.0833
   avg_copies: 4.0
-- name: Suppression Ray
+- name: Thundertrap Trainer
   weight: 0.0833
   avg_copies: 4.0
 - name: Marsh Flats
@@ -184,16 +184,16 @@ top_cards:
 - name: Windswept Heath
   weight: 0.0833
   avg_copies: 2.0
-- name: Vendilion Clique
+- name: Watery Grave
   weight: 0.0833
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Vendilion Clique
   weight: 0.0833
   avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.0833
   avg_copies: 1.0
-- name: Watery Grave
+- name: Hedge Maze
   weight: 0.0833
   avg_copies: 1.0
 - name: Breeding Pool
@@ -202,46 +202,46 @@ top_cards:
 - name: Reprieve
   weight: 0.0417
   avg_copies: 2.0
-- name: Harbinger of the Seas
-  weight: 0.0417
-  avg_copies: 2.0
 - name: Floodfarm Verge
   weight: 0.0417
   avg_copies: 2.0
-- name: Jace, the Mind Sculptor
+- name: Harbinger of the Seas
   weight: 0.0417
-  avg_copies: 1.0
-- name: Misty Rainforest
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Field of Ruin
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Wear
-  weight: 0.0417
-  avg_copies: 1.0
-- name: The Wandering Emperor
+  avg_copies: 2.0
+- name: Disruptor Flute
   weight: 0.0417
   avg_copies: 1.0
 - name: Celestial Colonnade
   weight: 0.0417
   avg_copies: 1.0
-- name: Dress Down
+- name: The Wandering Emperor
   weight: 0.0417
   avg_copies: 1.0
-- name: Disruptor Flute
+- name: Wear
   weight: 0.0417
   avg_copies: 1.0
-- name: Get Lost
+- name: Field of Ruin
   weight: 0.0417
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.0417
   avg_copies: 1.0
-- name: Wan Shi Tong, Librarian
+- name: Jace, the Mind Sculptor
   weight: 0.0417
   avg_copies: 1.0
 - name: Timeless Dragon
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Wan Shi Tong, Librarian
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Misty Rainforest
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Dress Down
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Get Lost
   weight: 0.0417
   avg_copies: 1.0
 ---

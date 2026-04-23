@@ -12,16 +12,13 @@ archetypes:
     weight: 0.763
     avg_copies: 3.61
   dimir-control:
-    weight: 0.88
-    avg_copies: 3.55
-  dimir-frog:
-    weight: 0.7727
-    avg_copies: 1.76
+    weight: 0.8298
+    avg_copies: 2.77
   jeskai-energy:
     weight: 1.0
     avg_copies: 3.87
-  goryo-reanimator:
-    weight: 1.0
+  reanimator:
+    weight: 0.6102
     avg_copies: 3.28
   azorius-control:
     weight: 1.0

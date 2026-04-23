@@ -1,5 +1,5 @@
 ---
-archetype: grixis-reanimator
+archetype: reanimator
 date: '2026-04-12'
 finish: 6th
 pilot: hunnhu

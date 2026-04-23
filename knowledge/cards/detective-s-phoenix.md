@@ -9,6 +9,9 @@ set: mh3
 type: Enchantment Creature — Phoenix
 meta_presence: 0.0272
 archetypes:
+  reanimator:
+    weight: 0.0169
+    avg_copies: 2.0
   mardu-blink:
     weight: 1.0
     avg_copies: 1.71
@@ -18,13 +21,7 @@ archetypes:
   dredge:
     weight: 0.25
     avg_copies: 1.0
-  rakdos-steel-cutter:
+  rakdos-aggro:
     weight: 1.0
-    avg_copies: 4.0
-  rakdos-reanimator:
-    weight: 1.0
-    avg_copies: 2.0
-  rakdos-shadows:
-    weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 3.6
 ---

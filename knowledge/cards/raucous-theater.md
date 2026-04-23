@@ -8,11 +8,11 @@ set: mkm
 type: Land — Swamp Mountain
 meta_presence: 0.0516
 archetypes:
+  reanimator:
+    weight: 0.3559
+    avg_copies: 1.05
   domain-zoo:
     weight: 0.0294
-    avg_copies: 1.0
-  grixis-reanimator:
-    weight: 1.0
     avg_copies: 1.0
   burn:
     weight: 0.5
@@ -32,13 +32,7 @@ archetypes:
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
-  rakdos-steel-cutter:
+  rakdos-aggro:
     weight: 1.0
-    avg_copies: 1.25
-  rakdos-reanimator:
-    weight: 1.0
-    avg_copies: 2.0
-  rakdos-shadows:
-    weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.4
 ---

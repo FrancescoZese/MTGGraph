@@ -17,8 +17,8 @@ archetypes:
   eldrazi-tron:
     weight: 0.0238
     avg_copies: 3.0
-  goryo-reanimator:
-    weight: 1.0
+  reanimator:
+    weight: 0.6102
     avg_copies: 1.0
   azorius-control:
     weight: 1.0

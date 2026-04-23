@@ -8,7 +8,7 @@ set: mh3
 type: Legendary Land
 meta_presence: 0.001
 archetypes:
-  mono-black-reanimator:
-    weight: 1.0
+  reanimator:
+    weight: 0.0169
     avg_copies: 3.0
 ---

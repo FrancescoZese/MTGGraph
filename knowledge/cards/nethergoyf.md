@@ -18,10 +18,7 @@ archetypes:
   grixis-shadow:
     weight: 1.0
     avg_copies: 4.0
-  rakdos-steel-cutter:
-    weight: 1.0
-    avg_copies: 4.0
-  rakdos-shadows:
+  rakdos-aggro:
     weight: 1.0
     avg_copies: 4.0
   the-rock:

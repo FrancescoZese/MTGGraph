@@ -20,6 +20,9 @@ archetypes:
   amulet-titan:
     weight: 0.5909
     avg_copies: 1.18
+  reanimator:
+    weight: 0.0678
+    avg_copies: 1.75
   hardened-scales:
     weight: 0.6667
     avg_copies: 1.0
@@ -29,9 +32,6 @@ archetypes:
   domain-zoo:
     weight: 0.0294
     avg_copies: 1.0
-  grixis-reanimator:
-    weight: 0.15
-    avg_copies: 1.33
   mono-red-belcher:
     weight: 0.75
     avg_copies: 2.33
@@ -86,15 +86,12 @@ archetypes:
   grixis-shadow:
     weight: 1.0
     avg_copies: 1.0
-  rakdos-reanimator:
-    weight: 1.0
+  rakdos-aggro:
+    weight: 0.2
     avg_copies: 3.0
   bant-ritual:
     weight: 1.0
     avg_copies: 2.0
-  rakdos-shadows:
-    weight: 1.0
-    avg_copies: 3.0
   scapeshift-combo:
     weight: 1.0
     avg_copies: 2.75

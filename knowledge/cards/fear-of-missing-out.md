@@ -12,10 +12,7 @@ archetypes:
   hollow-one:
     weight: 0.4286
     avg_copies: 2.0
-  rakdos-steel-cutter:
-    weight: 0.25
-    avg_copies: 4.0
-  rakdos-shadows:
-    weight: 1.0
+  rakdos-aggro:
+    weight: 0.4
     avg_copies: 4.0
 ---

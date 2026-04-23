@@ -1,5 +1,5 @@
 ---
-archetype: grixis-reanimator
+archetype: reanimator
 date: '2026-04-21'
 finish: 10th
 pilot: soggymeatball

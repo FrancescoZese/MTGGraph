@@ -12,8 +12,8 @@ set: one
 type: Legendary Creature — Phyrexian Angel
 meta_presence: 0.0554
 archetypes:
-  goryo-reanimator:
-    weight: 1.0
+  reanimator:
+    weight: 0.6102
     avg_copies: 3.89
   living-end:
     weight: 0.0526

@@ -9,8 +9,8 @@ set: dsk
 type: Enchantment
 meta_presence: 0.0049
 archetypes:
-  grixis-reanimator:
-    weight: 0.05
+  reanimator:
+    weight: 0.0169
     avg_copies: 3.0
   hollow-one:
     weight: 0.0714

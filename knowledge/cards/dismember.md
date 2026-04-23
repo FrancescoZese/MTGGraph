@@ -1,7 +1,7 @@
 ---
 archetypes:
   dimir-control:
-    weight: 0.04
+    weight: 0.0213
     avg_copies: 3.0
   eldrazi-tron:
     weight: 0.9762

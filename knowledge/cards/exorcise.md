@@ -12,8 +12,8 @@ archetypes:
   boros-energy:
     weight: 0.1327
     avg_copies: 1.0
-  dimir-frog:
-    weight: 0.0455
+  dimir-control:
+    weight: 0.0213
     avg_copies: 1.0
   naya-midrange:
     weight: 1.0

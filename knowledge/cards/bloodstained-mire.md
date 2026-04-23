@@ -15,17 +15,14 @@ archetypes:
     weight: 0.0142
     avg_copies: 2.67
   dimir-control:
-    weight: 0.04
-    avg_copies: 2.0
-  dimir-frog:
-    weight: 0.1818
-    avg_copies: 2.5
+    weight: 0.1064
+    avg_copies: 2.4
+  reanimator:
+    weight: 0.3559
+    avg_copies: 3.86
   necrodominance:
     weight: 0.1667
     avg_copies: 3.33
-  grixis-reanimator:
-    weight: 1.0
-    avg_copies: 4.0
   burn:
     weight: 0.75
     avg_copies: 1.33
@@ -53,14 +50,8 @@ archetypes:
   grixis-shadow:
     weight: 1.0
     avg_copies: 4.0
-  rakdos-steel-cutter:
-    weight: 0.75
-    avg_copies: 4.0
-  rakdos-reanimator:
-    weight: 1.0
-    avg_copies: 1.0
-  rakdos-shadows:
-    weight: 1.0
+  rakdos-aggro:
+    weight: 0.8
     avg_copies: 4.0
   the-rock:
     weight: 1.0

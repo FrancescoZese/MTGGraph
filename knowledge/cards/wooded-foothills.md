@@ -14,6 +14,9 @@ archetypes:
   amulet-titan:
     weight: 0.0909
     avg_copies: 1.0
+  reanimator:
+    weight: 0.0169
+    avg_copies: 1.0
   domain-zoo:
     weight: 1.0
     avg_copies: 3.74
@@ -56,12 +59,9 @@ archetypes:
   jund-saga:
     weight: 1.0
     avg_copies: 2.0
-  rakdos-steel-cutter:
-    weight: 0.75
+  rakdos-aggro:
+    weight: 0.6
     avg_copies: 2.0
-  rakdos-reanimator:
-    weight: 1.0
-    avg_copies: 1.0
   mono-green-stompy:
     weight: 1.0
     avg_copies: 4.0

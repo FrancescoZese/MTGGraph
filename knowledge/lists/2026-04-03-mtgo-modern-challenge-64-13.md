@@ -1,5 +1,5 @@
 ---
-archetype: dimir-frog
+archetype: dimir-control
 date: '2026-04-03'
 finish: 31st
 pilot: Minivan_of_Jeskai

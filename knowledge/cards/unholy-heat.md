@@ -12,8 +12,8 @@ archetypes:
   jeskai-energy:
     weight: 0.026
     avg_copies: 1.0
-  grixis-reanimator:
-    weight: 0.05
+  reanimator:
+    weight: 0.0169
     avg_copies: 1.0
   mardu-blink:
     weight: 0.1429
@@ -36,10 +36,10 @@ archetypes:
   grixis-shadow:
     weight: 1.0
     avg_copies: 2.0
-  izzet-wizards:
-    weight: 1.0
+  rakdos-aggro:
+    weight: 0.2
     avg_copies: 4.0
-  rakdos-shadows:
+  izzet-wizards:
     weight: 1.0
     avg_copies: 4.0
 ---

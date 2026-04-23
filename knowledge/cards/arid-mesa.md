@@ -53,8 +53,8 @@ archetypes:
   jeskai-control:
     weight: 1.0
     avg_copies: 3.67
-  rakdos-steel-cutter:
-    weight: 0.75
+  rakdos-aggro:
+    weight: 0.6
     avg_copies: 2.67
   bant-ritual:
     weight: 1.0

@@ -13,7 +13,7 @@ archetypes:
   grixis-shadow:
     weight: 1.0
     avg_copies: 2.0
-  rakdos-shadows:
-    weight: 1.0
+  rakdos-aggro:
+    weight: 0.2
     avg_copies: 2.0
 ---

@@ -10,11 +10,11 @@ type: Creature — Orc Archer
 meta_presence: 0.0982
 archetypes:
   dimir-control:
-    weight: 0.96
-    avg_copies: 3.71
-  dimir-frog:
-    weight: 1.0
-    avg_copies: 3.27
+    weight: 0.9787
+    avg_copies: 3.5
+  reanimator:
+    weight: 0.0339
+    avg_copies: 3.5
   necrodominance:
     weight: 1.0
     avg_copies: 3.72
@@ -42,13 +42,7 @@ archetypes:
   jund-saga:
     weight: 1.0
     avg_copies: 3.0
-  rakdos-reanimator:
-    weight: 1.0
-    avg_copies: 4.0
   the-rock:
-    weight: 1.0
-    avg_copies: 3.0
-  mono-black-reanimator:
     weight: 1.0
     avg_copies: 3.0
 ---

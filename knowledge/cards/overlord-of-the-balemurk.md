@@ -9,6 +9,9 @@ set: dsk
 type: Enchantment Creature — Avatar Horror
 meta_presence: 0.0331
 archetypes:
+  reanimator:
+    weight: 0.0169
+    avg_copies: 4.0
   living-end:
     weight: 0.5789
     avg_copies: 4.0
@@ -22,9 +25,6 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   orzhov-blink:
-    weight: 1.0
-    avg_copies: 4.0
-  mono-black-reanimator:
     weight: 1.0
     avg_copies: 4.0
 ---

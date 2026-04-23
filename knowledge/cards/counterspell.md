@@ -11,10 +11,7 @@ meta_presence: 0.0768
 archetypes:
   dimir-control:
     weight: 1.0
-    avg_copies: 3.92
-  dimir-frog:
-    weight: 1.0
-    avg_copies: 3.73
+    avg_copies: 3.83
   mono-blue-belcher:
     weight: 0.25
     avg_copies: 3.0

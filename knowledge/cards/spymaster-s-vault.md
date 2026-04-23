@@ -8,13 +8,10 @@ set: mh3
 type: Land
 meta_presence: 0.0136
 archetypes:
+  reanimator:
+    weight: 0.0339
+    avg_copies: 1.5
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 3.0
-  rakdos-reanimator:
-    weight: 1.0
-    avg_copies: 2.0
-  mono-black-reanimator:
-    weight: 1.0
-    avg_copies: 1.0
 ---

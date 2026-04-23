@@ -11,7 +11,7 @@ type: Instant
 meta_presence: 0.0078
 archetypes:
   dimir-control:
-    weight: 0.04
+    weight: 0.0213
     avg_copies: 3.0
   necrodominance:
     weight: 0.3889

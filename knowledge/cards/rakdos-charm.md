@@ -10,10 +10,10 @@ set: eoc
 type: Instant
 meta_presence: 0.0068
 archetypes:
+  reanimator:
+    weight: 0.0169
+    avg_copies: 3.0
   hollow-one:
     weight: 0.4286
     avg_copies: 1.83
-  rakdos-reanimator:
-    weight: 1.0
-    avg_copies: 3.0
 ---

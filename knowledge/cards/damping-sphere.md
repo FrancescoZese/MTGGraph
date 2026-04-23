@@ -12,17 +12,14 @@ archetypes:
     weight: 0.2322
     avg_copies: 1.51
   dimir-control:
-    weight: 0.04
-    avg_copies: 2.0
-  dimir-frog:
-    weight: 0.3636
-    avg_copies: 1.0
+    weight: 0.1915
+    avg_copies: 1.11
   jeskai-energy:
     weight: 0.3117
     avg_copies: 1.42
-  goryo-reanimator:
-    weight: 0.1111
-    avg_copies: 1.75
+  reanimator:
+    weight: 0.3559
+    avg_copies: 1.9
   hardened-scales:
     weight: 1.0
     avg_copies: 3.0
@@ -41,9 +38,6 @@ archetypes:
   domain-zoo:
     weight: 0.8235
     avg_copies: 1.54
-  grixis-reanimator:
-    weight: 0.85
-    avg_copies: 1.94
   burn:
     weight: 0.25
     avg_copies: 2.0
@@ -83,9 +77,9 @@ archetypes:
   grixis-shadow:
     weight: 1.0
     avg_copies: 2.0
-  rakdos-steel-cutter:
-    weight: 0.75
-    avg_copies: 4.0
+  rakdos-aggro:
+    weight: 0.8
+    avg_copies: 3.75
   mono-green-stompy:
     weight: 1.0
     avg_copies: 3.0
@@ -98,9 +92,6 @@ archetypes:
   esper-midrange:
     weight: 1.0
     avg_copies: 2.0
-  rakdos-shadows:
-    weight: 1.0
-    avg_copies: 3.0
   naya-midrange:
     weight: 1.0
     avg_copies: 2.0

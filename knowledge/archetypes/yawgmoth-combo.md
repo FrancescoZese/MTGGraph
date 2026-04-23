@@ -6,16 +6,16 @@ name: Yawgmoth Combo
 meta_share: 0.0117
 list_count: 12
 top_cards:
-- name: Delighted Halfling
+- name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 4.0
 - name: Badgermole Cub
   weight: 1.0
   avg_copies: 4.0
-- name: Agatha's Soul Cauldron
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
-- name: Verdant Catacombs
+- name: Delighted Halfling
   weight: 1.0
   avg_copies: 4.0
 - name: Yawgmoth, Thran Physician
@@ -27,10 +27,10 @@ top_cards:
 - name: Young Wolf
   weight: 1.0
   avg_copies: 3.67
-- name: Green Sun's Zenith
+- name: Spymaster's Vault
   weight: 1.0
   avg_copies: 3.0
-- name: Spymaster's Vault
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 3.0
 - name: Walking Ballista
@@ -63,22 +63,22 @@ top_cards:
 - name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.08
-- name: Grist, the Hunger Tide
-  weight: 1.0
-  avg_copies: 1.0
-- name: Dryad Arbor
+- name: Strangleroot Geist
   weight: 1.0
   avg_copies: 1.0
 - name: Soulless Jailer
   weight: 1.0
   avg_copies: 1.0
-- name: Endurance
-  weight: 1.0
-  avg_copies: 1.0
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Strangleroot Geist
+- name: Dryad Arbor
+  weight: 1.0
+  avg_copies: 1.0
+- name: Grist, the Hunger Tide
+  weight: 1.0
+  avg_copies: 1.0
+- name: Endurance
   weight: 1.0
   avg_copies: 1.0
 - name: Windswept Heath
@@ -114,10 +114,10 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.4167
   avg_copies: 1.4
-- name: Wooded Foothills
+- name: Damping Sphere
   weight: 0.4167
   avg_copies: 1.0
-- name: Damping Sphere
+- name: Wooded Foothills
   weight: 0.4167
   avg_copies: 1.0
 - name: Ignoble Hierarch
@@ -132,13 +132,13 @@ top_cards:
 - name: Kraul Harpooner
   weight: 0.1667
   avg_copies: 1.0
-- name: Murderous Cut
+- name: Culling Ritual
   weight: 0.0833
   avg_copies: 1.0
 - name: Assassin's Trophy
   weight: 0.0833
   avg_copies: 1.0
-- name: Culling Ritual
+- name: Murderous Cut
   weight: 0.0833
   avg_copies: 1.0
 ---

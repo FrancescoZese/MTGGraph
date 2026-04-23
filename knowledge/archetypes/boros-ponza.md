@@ -15,19 +15,19 @@ top_cards:
 - name: Field of Ruin
   weight: 1.0
   avg_copies: 3.89
-- name: Galvanic Discharge
+- name: Demolition Field
   weight: 1.0
   avg_copies: 3.89
-- name: Demolition Field
+- name: Galvanic Discharge
   weight: 1.0
   avg_copies: 3.89
 - name: Cleansing Wildfire
   weight: 1.0
   avg_copies: 3.83
-- name: Cori Mountain Monastery
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 3.61
-- name: Wrath of the Skies
+- name: Cori Mountain Monastery
   weight: 1.0
   avg_copies: 3.61
 - name: White Orchid Phantom
@@ -96,28 +96,28 @@ top_cards:
 - name: Mana Tithe
   weight: 0.1667
   avg_copies: 2.0
-- name: Sunbaked Canyon
+- name: Surgical Extraction
   weight: 0.1667
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Sunbaked Canyon
   weight: 0.1667
   avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.1111
   avg_copies: 2.0
-- name: Ghost Quarter
+- name: Meltdown
   weight: 0.1111
   avg_copies: 1.0
-- name: Meltdown
+- name: Ghost Quarter
   weight: 0.1111
   avg_copies: 1.0
 - name: Prismatic Ending
   weight: 0.0556
   avg_copies: 2.0
-- name: Gideon, Ally of Zendikar
+- name: Settle the Wreckage
   weight: 0.0556
   avg_copies: 2.0
-- name: Settle the Wreckage
+- name: Gideon, Ally of Zendikar
   weight: 0.0556
   avg_copies: 2.0
 - name: Chalice of the Void

@@ -10,7 +10,7 @@ set: mid
 type: Instant
 meta_presence: 0.035
 archetypes:
-  goryo-reanimator:
-    weight: 1.0
+  reanimator:
+    weight: 0.6102
     avg_copies: 3.06
 ---

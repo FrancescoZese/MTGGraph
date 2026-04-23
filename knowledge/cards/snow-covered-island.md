@@ -9,7 +9,7 @@ type: Basic Snow Land — Island
 meta_presence: 0.0554
 archetypes:
   dimir-control:
-    weight: 0.04
+    weight: 0.0213
     avg_copies: 4.0
   jeskai-energy:
     weight: 0.0519

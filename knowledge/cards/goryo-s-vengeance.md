@@ -9,7 +9,7 @@ set: uma
 type: Instant — Arcane
 meta_presence: 0.035
 archetypes:
-  goryo-reanimator:
-    weight: 1.0
+  reanimator:
+    weight: 0.6102
     avg_copies: 4.0
 ---

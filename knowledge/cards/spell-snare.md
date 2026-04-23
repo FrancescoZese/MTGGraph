@@ -10,26 +10,20 @@ type: Instant
 meta_presence: 0.1187
 archetypes:
   dimir-control:
-    weight: 0.96
-    avg_copies: 2.64
-  dimir-frog:
-    weight: 1.0
-    avg_copies: 2.59
+    weight: 0.9787
+    avg_copies: 2.62
   mono-blue-belcher:
     weight: 0.8333
     avg_copies: 1.82
   jeskai-energy:
     weight: 0.0519
     avg_copies: 1.0
-  goryo-reanimator:
-    weight: 0.1389
+  reanimator:
+    weight: 0.1017
     avg_copies: 1.0
   azorius-control:
     weight: 0.625
     avg_copies: 1.75
-  grixis-reanimator:
-    weight: 0.05
-    avg_copies: 1.0
   neoform-combo:
     weight: 0.0455
     avg_copies: 1.0

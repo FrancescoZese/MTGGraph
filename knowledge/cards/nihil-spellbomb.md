@@ -9,25 +9,19 @@ type: Artifact
 meta_presence: 0.0457
 archetypes:
   dimir-control:
-    weight: 0.12
-    avg_copies: 1.33
-  dimir-frog:
-    weight: 0.2727
-    avg_copies: 1.0
+    weight: 0.1915
+    avg_copies: 1.1
   jeskai-energy:
     weight: 0.013
     avg_copies: 1.0
-  goryo-reanimator:
-    weight: 0.1111
-    avg_copies: 1.25
+  reanimator:
+    weight: 0.1525
+    avg_copies: 1.11
   domain-zoo:
     weight: 0.5294
     avg_copies: 1.22
   mill:
     weight: 0.1667
-    avg_copies: 1.0
-  grixis-reanimator:
-    weight: 0.2
     avg_copies: 1.0
   mardu-blink:
     weight: 0.1429
@@ -35,17 +29,14 @@ archetypes:
   hollow-one:
     weight: 0.2857
     avg_copies: 2.25
-  sultai-reanimator:
-    weight: 1.0
-    avg_copies: 1.0
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
   grixis-shadow:
     weight: 1.0
     avg_copies: 2.0
-  rakdos-shadows:
-    weight: 1.0
+  rakdos-aggro:
+    weight: 0.2
     avg_copies: 1.0
   the-rock:
     weight: 1.0

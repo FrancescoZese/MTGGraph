@@ -8,6 +8,9 @@ set: mh3
 type: Creature — Goblin // Land
 meta_presence: 0.034
 archetypes:
+  reanimator:
+    weight: 0.0169
+    avg_copies: 4.0
   necrodominance:
     weight: 1.0
     avg_copies: 4.0
@@ -20,10 +23,7 @@ archetypes:
   orzhov-blink:
     weight: 1.0
     avg_copies: 1.75
-  rakdos-steel-cutter:
-    weight: 0.25
+  rakdos-aggro:
+    weight: 0.2
     avg_copies: 1.0
-  mono-black-reanimator:
-    weight: 1.0
-    avg_copies: 4.0
 ---

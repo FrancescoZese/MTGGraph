@@ -9,8 +9,8 @@ set: tla
 type: Legendary Creature — Human Peasant Ally
 meta_presence: 0.0058
 archetypes:
-  grixis-reanimator:
-    weight: 0.05
+  reanimator:
+    weight: 0.0169
     avg_copies: 1.0
   kethis-combo:
     weight: 1.0

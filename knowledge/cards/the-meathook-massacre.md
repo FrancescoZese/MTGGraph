@@ -10,7 +10,7 @@ type: Legendary Enchantment
 meta_presence: 0.0243
 archetypes:
   dimir-control:
-    weight: 0.16
+    weight: 0.0851
     avg_copies: 2.0
   necrodominance:
     weight: 0.7778

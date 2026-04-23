@@ -11,17 +11,14 @@ type: Legendary Planeswalker — Ashiok
 meta_presence: 0.1089
 archetypes:
   dimir-control:
-    weight: 0.12
-    avg_copies: 1.0
-  dimir-frog:
-    weight: 0.0455
+    weight: 0.0851
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.3377
     avg_copies: 1.23
-  goryo-reanimator:
-    weight: 0.3889
-    avg_copies: 1.0
+  reanimator:
+    weight: 0.2542
+    avg_copies: 1.07
   necrodominance:
     weight: 0.1667
     avg_copies: 1.67
@@ -59,9 +56,6 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   mono-green-ramp:
-    weight: 1.0
-    avg_copies: 2.0
-  mono-black-reanimator:
     weight: 1.0
     avg_copies: 2.0
 ---

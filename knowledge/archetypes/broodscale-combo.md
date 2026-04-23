@@ -6,19 +6,19 @@ name: Broodscale Combo
 meta_share: 0.0175
 list_count: 18
 top_cards:
-- name: Eldrazi Temple
-  weight: 1.0
-  avg_copies: 4.0
-- name: Basking Broodscale
-  weight: 1.0
-  avg_copies: 4.0
-- name: Kozilek's Command
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
 - name: Grove of the Burnwillows
   weight: 1.0
   avg_copies: 4.0
-- name: Malevolent Rumble
+- name: Eldrazi Temple
+  weight: 1.0
+  avg_copies: 4.0
+- name: Kozilek's Command
+  weight: 1.0
+  avg_copies: 4.0
+- name: Basking Broodscale
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
@@ -45,10 +45,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.4
-- name: Springleaf Drum
+- name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Springleaf Drum
   weight: 1.0
   avg_copies: 1.0
 - name: Soul-Guide Lantern
@@ -84,10 +84,10 @@ top_cards:
 - name: Unholy Heat
   weight: 0.5556
   avg_copies: 1.86
-- name: Commercial District
+- name: Stomping Ground
   weight: 0.5556
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Commercial District
   weight: 0.5556
   avg_copies: 1.0
 - name: Devourer of Destiny
@@ -111,10 +111,10 @@ top_cards:
 - name: Firespout
   weight: 0.3889
   avg_copies: 1.71
-- name: Windswept Heath
+- name: Verdant Catacombs
   weight: 0.3889
   avg_copies: 1.0
-- name: Verdant Catacombs
+- name: Windswept Heath
   weight: 0.3889
   avg_copies: 1.0
 - name: Sowing Mycospawn
@@ -144,10 +144,10 @@ top_cards:
 - name: Heroic Intervention
   weight: 0.0556
   avg_copies: 2.0
-- name: Ghost Quarter
+- name: Bojuka Bog
   weight: 0.0556
   avg_copies: 1.0
-- name: Bojuka Bog
+- name: Ghost Quarter
   weight: 0.0556
   avg_copies: 1.0
 ---

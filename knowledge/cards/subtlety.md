@@ -11,15 +11,12 @@ meta_presence: 0.1109
 archetypes:
   dimir-control:
     weight: 1.0
-    avg_copies: 3.24
-  dimir-frog:
-    weight: 1.0
-    avg_copies: 3.14
+    avg_copies: 3.19
   jeskai-energy:
     weight: 0.013
     avg_copies: 1.0
-  goryo-reanimator:
-    weight: 0.0556
+  reanimator:
+    weight: 0.0339
     avg_copies: 1.5
   azorius-control:
     weight: 0.375

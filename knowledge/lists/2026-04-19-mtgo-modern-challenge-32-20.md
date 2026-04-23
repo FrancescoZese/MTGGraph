@@ -1,5 +1,5 @@
 ---
-archetype: rakdos-steel-cutter
+archetype: rakdos-aggro
 date: '2026-04-19'
 finish: 4th
 pilot: _and_one_

@@ -9,16 +9,13 @@ set: mh1
 type: Instant
 meta_presence: 0.0311
 archetypes:
+  reanimator:
+    weight: 0.2542
+    avg_copies: 2.67
   necrodominance:
     weight: 0.8889
     avg_copies: 2.19
-  grixis-reanimator:
-    weight: 0.7
-    avg_copies: 2.71
   grixis-shadow:
     weight: 1.0
     avg_copies: 1.0
-  mono-black-reanimator:
-    weight: 1.0
-    avg_copies: 2.0
 ---

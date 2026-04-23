@@ -6,52 +6,52 @@ name: Orzhov Blink
 meta_share: 0.0039
 list_count: 4
 top_cards:
-- name: Witch Enchanter
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marsh Flats
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 4.0
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
-- name: Overlord of the Balemurk
+- name: Witch Enchanter
   weight: 1.0
   avg_copies: 4.0
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.5
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 3.25
 - name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.25
-- name: Ephemerate
+- name: Fatal Push
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 3.25
 - name: Emperor of Bones
   weight: 1.0
   avg_copies: 3.0
-- name: Flickerwisp
+- name: Ephemerate
   weight: 1.0
-  avg_copies: 2.75
+  avg_copies: 3.0
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.75
-- name: Clarion Conqueror
+- name: Flickerwisp
   weight: 1.0
-  avg_copies: 2.25
+  avg_copies: 2.75
 - name: Plains
   weight: 1.0
   avg_copies: 2.25
-- name: Arid Mesa
+- name: Clarion Conqueror
   weight: 1.0
   avg_copies: 2.25
 - name: Damping Sphere
+  weight: 1.0
+  avg_copies: 2.25
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 2.25
 - name: Shadowy Backstreet
@@ -60,10 +60,10 @@ top_cards:
 - name: High Noon
   weight: 1.0
   avg_copies: 2.0
-- name: Boggart Trawler
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.75
-- name: Godless Shrine
+- name: Boggart Trawler
   weight: 1.0
   avg_copies: 1.75
 - name: Ashiok, Dream Render
@@ -81,10 +81,10 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 0.75
   avg_copies: 2.0
-- name: Flooded Strand
+- name: Bleachbone Verge
   weight: 0.75
   avg_copies: 1.67
-- name: Bleachbone Verge
+- name: Flooded Strand
   weight: 0.75
   avg_copies: 1.67
 - name: Vexing Bauble
@@ -99,19 +99,19 @@ top_cards:
 - name: Sanctifier en-Vec
   weight: 0.5
   avg_copies: 2.0
-- name: Surgical Extraction
+- name: Sacred Foundry
   weight: 0.5
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Surgical Extraction
   weight: 0.5
   avg_copies: 1.0
 - name: Relic of Progenitus
   weight: 0.25
   avg_copies: 4.0
-- name: Raucous Theater
+- name: Eiganjo, Seat of the Empire
   weight: 0.25
   avg_copies: 1.0
-- name: Eiganjo, Seat of the Empire
+- name: Raucous Theater
   weight: 0.25
   avg_copies: 1.0
 ---

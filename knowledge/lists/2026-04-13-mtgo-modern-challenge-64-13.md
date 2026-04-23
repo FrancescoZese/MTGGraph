@@ -1,5 +1,5 @@
 ---
-archetype: rakdos-steel-cutter
+archetype: rakdos-aggro
 date: '2026-04-13'
 finish: 13th
 pilot: Czechito

@@ -12,14 +12,14 @@ archetypes:
     weight: 0.0714
     avg_copies: 1.0
   dimir-control:
-    weight: 0.64
+    weight: 0.3617
     avg_copies: 1.12
-  dimir-frog:
-    weight: 0.0455
-    avg_copies: 1.0
   jeskai-energy:
     weight: 1.0
     avg_copies: 1.01
+  reanimator:
+    weight: 0.339
+    avg_copies: 1.0
   azorius-control:
     weight: 0.8333
     avg_copies: 1.0
@@ -32,9 +32,6 @@ archetypes:
   domain-zoo:
     weight: 1.0
     avg_copies: 1.68
-  grixis-reanimator:
-    weight: 1.0
-    avg_copies: 1.0
   simic-ritual:
     weight: 0.04
     avg_copies: 1.0

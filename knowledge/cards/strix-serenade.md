@@ -9,8 +9,8 @@ set: mh3
 type: Instant
 meta_presence: 0.1099
 archetypes:
-  dimir-frog:
-    weight: 0.0455
+  dimir-control:
+    weight: 0.0213
     avg_copies: 2.0
   mono-blue-belcher:
     weight: 0.5
@@ -18,15 +18,15 @@ archetypes:
   jeskai-energy:
     weight: 0.8182
     avg_copies: 1.54
+  reanimator:
+    weight: 0.0339
+    avg_copies: 2.0
   affinity:
     weight: 0.0909
     avg_copies: 1.22
   domain-zoo:
     weight: 0.1176
     avg_copies: 1.25
-  grixis-reanimator:
-    weight: 0.1
-    avg_copies: 2.0
   kethis-combo:
     weight: 0.4
     avg_copies: 1.0

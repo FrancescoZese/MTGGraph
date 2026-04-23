@@ -9,19 +9,19 @@ top_cards:
 - name: Coiling Oracle
   weight: 1.0
   avg_copies: 4.0
-- name: Ice-Fang Coatl
+- name: Flare of Denial
   weight: 1.0
   avg_copies: 4.0
-- name: Flare of Denial
+- name: Ice-Fang Coatl
   weight: 1.0
   avg_copies: 4.0
 - name: Birthing Ritual
   weight: 1.0
   avg_copies: 4.0
-- name: Misty Rainforest
+- name: Abhorrent Oculus
   weight: 1.0
   avg_copies: 3.88
-- name: Abhorrent Oculus
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 3.88
 - name: Subtlety
@@ -105,6 +105,9 @@ top_cards:
 - name: Fatal Push
   weight: 0.08
   avg_copies: 2.0
+- name: Flooded Strand
+  weight: 0.08
+  avg_copies: 1.0
 - name: Undercity Sewers
   weight: 0.08
   avg_copies: 1.0
@@ -114,13 +117,10 @@ top_cards:
 - name: Neoform
   weight: 0.08
   avg_copies: 1.0
-- name: Flooded Strand
-  weight: 0.08
-  avg_copies: 1.0
-- name: Pyroclasm
+- name: Fire Magic
   weight: 0.04
   avg_copies: 3.0
-- name: Fire Magic
+- name: Pyroclasm
   weight: 0.04
   avg_copies: 3.0
 - name: Quantum Riddler
@@ -129,7 +129,25 @@ top_cards:
 - name: Psychic Frog
   weight: 0.04
   avg_copies: 2.0
+- name: Hurkyl's Recall
+  weight: 0.04
+  avg_copies: 1.0
 - name: Ephara's Dispersal
+  weight: 0.04
+  avg_copies: 1.0
+- name: Tamiyo, Inquisitive Student
+  weight: 0.04
+  avg_copies: 1.0
+- name: Stomping Ground
+  weight: 0.04
+  avg_copies: 1.0
+- name: Firespout
+  weight: 0.04
+  avg_copies: 1.0
+- name: Stern Scolding
+  weight: 0.04
+  avg_copies: 1.0
+- name: Thundering Falls
   weight: 0.04
   avg_copies: 1.0
 - name: Pond Prophet
@@ -138,37 +156,19 @@ top_cards:
 - name: Fade from History
   weight: 0.04
   avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
+- name: Pick Your Poison
   weight: 0.04
   avg_copies: 1.0
 - name: Overgrown Tomb
   weight: 0.04
   avg_copies: 1.0
-- name: Firespout
-  weight: 0.04
-  avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.04
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.04
-  avg_copies: 1.0
-- name: Pick Your Poison
-  weight: 0.04
-  avg_copies: 1.0
-- name: Scalding Tarn
-  weight: 0.04
-  avg_copies: 1.0
-- name: Stern Scolding
-  weight: 0.04
-  avg_copies: 1.0
-- name: Stomping Ground
+- name: Steam Vents
   weight: 0.04
   avg_copies: 1.0
 - name: Dress Down
   weight: 0.04
   avg_copies: 1.0
-- name: Steam Vents
+- name: Scalding Tarn
   weight: 0.04
   avg_copies: 1.0
 ---

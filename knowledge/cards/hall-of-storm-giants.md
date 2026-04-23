@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.0146
 archetypes:
   dimir-control:
-    weight: 0.04
+    weight: 0.0213
     avg_copies: 1.0
   azorius-control:
     weight: 0.4167

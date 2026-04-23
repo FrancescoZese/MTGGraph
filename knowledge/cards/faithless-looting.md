@@ -9,12 +9,12 @@ set: soc
 type: Sorcery
 meta_presence: 0.0409
 archetypes:
+  reanimator:
+    weight: 0.3559
+    avg_copies: 3.86
   domain-zoo:
     weight: 0.0294
     avg_copies: 4.0
-  grixis-reanimator:
-    weight: 1.0
-    avg_copies: 3.85
   hollow-one:
     weight: 1.0
     avg_copies: 4.0
@@ -23,9 +23,6 @@ archetypes:
     avg_copies: 4.0
   dredge:
     weight: 0.75
-    avg_copies: 4.0
-  rakdos-reanimator:
-    weight: 1.0
     avg_copies: 4.0
   naya-midrange:
     weight: 1.0

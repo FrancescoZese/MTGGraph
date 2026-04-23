@@ -9,10 +9,10 @@ name: Domain Zoo
 meta_share: 0.0331
 list_count: 34
 top_cards:
-- name: Scion of Draco
+- name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
-- name: Territorial Kavu
+- name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline of the Guildpact
@@ -75,10 +75,10 @@ top_cards:
 - name: Arena of Glory
   weight: 0.9706
   avg_copies: 1.91
-- name: Mountain
+- name: Thundering Falls
   weight: 0.9118
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Mountain
   weight: 0.9118
   avg_copies: 1.0
 - name: Damping Sphere
@@ -129,28 +129,28 @@ top_cards:
 - name: Celestial Purge
   weight: 0.0882
   avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 0.0588
+  avg_copies: 1.0
 - name: Fable of the Mirror-Breaker
   weight: 0.0588
   avg_copies: 1.0
 - name: Does Machines
   weight: 0.0588
   avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Psychic Frog
+- name: Archon of Cruelty
+  weight: 0.0294
+  avg_copies: 4.0
+- name: Persist
   weight: 0.0294
   avg_copies: 4.0
 - name: Aurora Awakener
   weight: 0.0294
   avg_copies: 4.0
-- name: Archon of Cruelty
-  weight: 0.0294
-  avg_copies: 4.0
 - name: Faithless Looting
   weight: 0.0294
   avg_copies: 4.0
-- name: Persist
+- name: Psychic Frog
   weight: 0.0294
   avg_copies: 4.0
 - name: Summoning Trap
@@ -162,25 +162,25 @@ top_cards:
 - name: Glasspool Mimic
   weight: 0.0294
   avg_copies: 1.0
-- name: Raucous Theater
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Blood Crypt
-  weight: 0.0294
-  avg_copies: 1.0
 - name: Vexing Bauble
   weight: 0.0294
   avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Meltdown
+- name: Quantum Riddler
   weight: 0.0294
   avg_copies: 1.0
 - name: Orcish Bowmasters
   weight: 0.0294
   avg_copies: 1.0
-- name: Quantum Riddler
+- name: Blood Crypt
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Raucous Theater
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Breeding Pool
   weight: 0.0294
   avg_copies: 1.0
 ---

@@ -11,13 +11,10 @@ type: Sorcery
 meta_presence: 0.0214
 archetypes:
   dimir-control:
-    weight: 0.04
-    avg_copies: 2.0
-  dimir-frog:
-    weight: 0.1818
-    avg_copies: 1.57
-  goryo-reanimator:
-    weight: 0.3889
+    weight: 0.1064
+    avg_copies: 1.67
+  reanimator:
+    weight: 0.2373
     avg_copies: 1.0
   mardu-blink:
     weight: 0.1429

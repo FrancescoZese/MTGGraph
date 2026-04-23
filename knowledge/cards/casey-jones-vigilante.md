@@ -12,7 +12,7 @@ archetypes:
   jeskai-energy:
     weight: 0.8961
     avg_copies: 2.1
-  rakdos-steel-cutter:
-    weight: 1.0
+  rakdos-aggro:
+    weight: 0.8
     avg_copies: 3.75
 ---

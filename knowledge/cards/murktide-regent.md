@@ -10,11 +10,8 @@ type: Creature — Dragon
 meta_presence: 0.0233
 archetypes:
   dimir-control:
-    weight: 0.04
-    avg_copies: 2.0
-  dimir-frog:
-    weight: 0.1818
-    avg_copies: 1.5
+    weight: 0.1064
+    avg_copies: 1.6
   izzet-prowess:
     weight: 0.4524
     avg_copies: 1.2

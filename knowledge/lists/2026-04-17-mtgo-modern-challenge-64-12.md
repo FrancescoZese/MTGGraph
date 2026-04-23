@@ -1,5 +1,5 @@
 ---
-archetype: goryo-reanimator
+archetype: reanimator
 date: '2026-04-17'
 finish: 12th
 pilot: NAKISHIMA

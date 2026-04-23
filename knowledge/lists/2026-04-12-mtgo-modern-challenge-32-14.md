@@ -1,5 +1,5 @@
 ---
-archetype: goryo-reanimator
+archetype: reanimator
 date: '2026-04-12'
 finish: 13th
 pilot: HealthyEgo

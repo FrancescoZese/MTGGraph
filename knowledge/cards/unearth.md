@@ -9,13 +9,10 @@ set: 2x2
 type: Sorcery
 meta_presence: 0.0214
 archetypes:
-  grixis-reanimator:
-    weight: 1.0
-    avg_copies: 3.3
-  sultai-reanimator:
-    weight: 1.0
-    avg_copies: 4.0
-  rakdos-steel-cutter:
-    weight: 0.25
+  reanimator:
+    weight: 0.3559
+    avg_copies: 3.33
+  rakdos-aggro:
+    weight: 0.2
     avg_copies: 2.0
 ---

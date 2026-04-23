@@ -12,11 +12,14 @@ archetypes:
     weight: 0.1071
     avg_copies: 1.0
   dimir-control:
-    weight: 0.08
+    weight: 0.0426
     avg_copies: 1.0
   jeskai-energy:
     weight: 1.0
     avg_copies: 1.04
+  reanimator:
+    weight: 0.0339
+    avg_copies: 1.0
   azorius-control:
     weight: 0.7917
     avg_copies: 1.0
@@ -25,9 +28,6 @@ archetypes:
     avg_copies: 1.0
   domain-zoo:
     weight: 0.9118
-    avg_copies: 1.0
-  grixis-reanimator:
-    weight: 0.1
     avg_copies: 1.0
   neoform-combo:
     weight: 0.0455

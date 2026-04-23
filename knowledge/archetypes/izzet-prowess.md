@@ -6,13 +6,13 @@ name: Izzet Prowess
 meta_share: 0.0409
 list_count: 42
 top_cards:
-- name: Cori-Steel Cutter
+- name: Preordain
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Preordain
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
@@ -174,10 +174,10 @@ top_cards:
 - name: Alpine Moon
   weight: 0.0476
   avg_copies: 1.5
-- name: Redirect Lightning
+- name: True Ancestry
   weight: 0.0476
   avg_copies: 1.0
-- name: True Ancestry
+- name: Redirect Lightning
   weight: 0.0476
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
@@ -192,40 +192,40 @@ top_cards:
 - name: Founding the Third Path
   weight: 0.0238
   avg_copies: 2.0
+- name: The Legend of Roku
+  weight: 0.0238
+  avg_copies: 1.0
+- name: Flooded Strand
+  weight: 0.0238
+  avg_copies: 1.0
 - name: Wear
-  weight: 0.0238
-  avg_copies: 1.0
-- name: Shatterstorm
-  weight: 0.0238
-  avg_copies: 1.0
-- name: Combustion Technique
   weight: 0.0238
   avg_copies: 1.0
 - name: Polluted Delta
   weight: 0.0238
   avg_copies: 1.0
-- name: Riverpyre Verge
-  weight: 0.0238
-  avg_copies: 1.0
-- name: Sink into Stupor
-  weight: 0.0238
-  avg_copies: 1.0
 - name: Grafdigger's Cage
-  weight: 0.0238
-  avg_copies: 1.0
-- name: The Legend of Roku
   weight: 0.0238
   avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 0.0238
   avg_copies: 1.0
+- name: Riverpyre Verge
+  weight: 0.0238
+  avg_copies: 1.0
+- name: Combustion Technique
+  weight: 0.0238
+  avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.0238
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Shatterstorm
   weight: 0.0238
   avg_copies: 1.0
-- name: Flooded Strand
+- name: Sink into Stupor
+  weight: 0.0238
+  avg_copies: 1.0
+- name: Pithing Needle
   weight: 0.0238
   avg_copies: 1.0
 ---

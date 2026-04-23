@@ -9,7 +9,7 @@ set: otj
 type: Instant
 meta_presence: 0.001
 archetypes:
-  rakdos-reanimator:
-    weight: 1.0
+  reanimator:
+    weight: 0.0169
     avg_copies: 2.0
 ---

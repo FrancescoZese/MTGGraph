@@ -12,8 +12,8 @@ archetypes:
   boros-energy:
     weight: 0.9905
     avg_copies: 2.38
-  dimir-frog:
-    weight: 0.0455
+  dimir-control:
+    weight: 0.0213
     avg_copies: 2.0
   jeskai-energy:
     weight: 0.026

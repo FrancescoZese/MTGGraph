@@ -8,6 +8,9 @@ set: mkm
 type: Land — Swamp Forest
 meta_presence: 0.0379
 archetypes:
+  reanimator:
+    weight: 0.0169
+    avg_copies: 1.0
   necrodominance:
     weight: 0.0556
     avg_copies: 1.0
@@ -19,9 +22,6 @@ archetypes:
     avg_copies: 1.08
   simic-ritual:
     weight: 0.08
-    avg_copies: 1.0
-  sultai-reanimator:
-    weight: 1.0
     avg_copies: 1.0
   samwise-combo:
     weight: 0.6667

@@ -11,19 +11,16 @@ meta_presence: 0.4825
 archetypes:
   dimir-control:
     weight: 1.0
-    avg_copies: 3.44
-  dimir-frog:
-    weight: 1.0
-    avg_copies: 3.41
+    avg_copies: 3.43
   mono-blue-belcher:
     weight: 1.0
     avg_copies: 2.88
   jeskai-energy:
     weight: 0.974
     avg_copies: 3.87
-  goryo-reanimator:
-    weight: 1.0
-    avg_copies: 3.0
+  reanimator:
+    weight: 0.9661
+    avg_copies: 2.99
   necrodominance:
     weight: 0.1111
     avg_copies: 3.5
@@ -39,9 +36,6 @@ archetypes:
   mill:
     weight: 0.5
     avg_copies: 1.67
-  grixis-reanimator:
-    weight: 1.0
-    avg_copies: 2.9
   neoform-combo:
     weight: 0.9091
     avg_copies: 3.45
@@ -63,9 +57,6 @@ archetypes:
   esper-blink:
     weight: 1.0
     avg_copies: 3.0
-  sultai-reanimator:
-    weight: 1.0
-    avg_copies: 4.0
   indomitable-creativity:
     weight: 0.7143
     avg_copies: 3.8

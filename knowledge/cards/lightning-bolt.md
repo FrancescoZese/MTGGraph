@@ -16,11 +16,14 @@ archetypes:
     weight: 0.0853
     avg_copies: 1.28
   dimir-control:
-    weight: 0.04
+    weight: 0.0213
     avg_copies: 2.0
   jeskai-energy:
     weight: 0.026
     avg_copies: 2.5
+  reanimator:
+    weight: 0.0169
+    avg_copies: 3.0
   domain-zoo:
     weight: 1.0
     avg_copies: 3.91
@@ -51,12 +54,9 @@ archetypes:
   eldrazi-breach:
     weight: 1.0
     avg_copies: 2.0
-  rakdos-steel-cutter:
-    weight: 1.0
+  rakdos-aggro:
+    weight: 0.8
     avg_copies: 4.0
-  rakdos-reanimator:
-    weight: 1.0
-    avg_copies: 3.0
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 4.0

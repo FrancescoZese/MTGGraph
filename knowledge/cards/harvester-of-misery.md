@@ -9,10 +9,10 @@ set: big
 type: Creature — Spirit
 meta_presence: 0.0097
 archetypes:
+  reanimator:
+    weight: 0.0169
+    avg_copies: 1.0
   living-end:
     weight: 0.4737
-    avg_copies: 1.0
-  grixis-reanimator:
-    weight: 0.05
     avg_copies: 1.0
 ---

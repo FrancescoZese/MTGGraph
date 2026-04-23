@@ -111,10 +111,10 @@ top_cards:
 - name: Polluted Delta
   weight: 0.6364
   avg_copies: 1.14
-- name: Repudiate
+- name: Flooded Strand
   weight: 0.5455
   avg_copies: 1.0
-- name: Flooded Strand
+- name: Repudiate
   weight: 0.5455
   avg_copies: 1.0
 - name: Verdant Catacombs
@@ -135,16 +135,16 @@ top_cards:
 - name: Gemstone Mine
   weight: 0.0455
   avg_copies: 4.0
-- name: Glittering Wish
-  weight: 0.0455
-  avg_copies: 4.0
-- name: Detect Intrusion
+- name: Hexing Squelcher
   weight: 0.0455
   avg_copies: 4.0
 - name: Invasion of Gobakhan
   weight: 0.0455
   avg_copies: 4.0
-- name: Hexing Squelcher
+- name: Glittering Wish
+  weight: 0.0455
+  avg_copies: 4.0
+- name: Detect Intrusion
   weight: 0.0455
   avg_copies: 4.0
 - name: Thrun, the Last Troll
@@ -156,31 +156,31 @@ top_cards:
 - name: Spell Snare
   weight: 0.0455
   avg_copies: 1.0
-- name: Nature's Chant
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Raph & Mikey, Troublemakers
+- name: Lush Portico
   weight: 0.0455
   avg_copies: 1.0
 - name: Firespout
   weight: 0.0455
   avg_copies: 1.0
-- name: Preordain
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Brainsurge
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Island
+- name: Nature's Chant
   weight: 0.0455
   avg_copies: 1.0
 - name: Thundering Falls
   weight: 0.0455
   avg_copies: 1.0
+- name: Raph & Mikey, Troublemakers
+  weight: 0.0455
+  avg_copies: 1.0
 - name: Commercial District
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Borborygmos Enraged
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Meticulous Archive
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Preordain
   weight: 0.0455
   avg_copies: 1.0
 - name: Detention Sphere
@@ -189,10 +189,10 @@ top_cards:
 - name: Stump Stomp
   weight: 0.0455
   avg_copies: 1.0
-- name: Borborygmos Enraged
+- name: Island
   weight: 0.0455
   avg_copies: 1.0
-- name: Lush Portico
+- name: Brainsurge
   weight: 0.0455
   avg_copies: 1.0
 ---

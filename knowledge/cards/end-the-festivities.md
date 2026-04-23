@@ -9,10 +9,10 @@ set: vow
 type: Sorcery
 meta_presence: 0.0039
 archetypes:
+  reanimator:
+    weight: 0.0169
+    avg_copies: 1.0
   izzet-prowess:
     weight: 0.0714
-    avg_copies: 1.0
-  rakdos-reanimator:
-    weight: 1.0
     avg_copies: 1.0
 ---
