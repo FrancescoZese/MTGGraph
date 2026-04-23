@@ -8,7 +8,7 @@ name: Ruthless Lawbringer
 scryfall_id: 927b5498-23f1-47c0-b441-7daaeb54f9b8
 set: otj
 type: Creature — Vampire Assassin
-meta_presence: 0.002
+meta_presence: 0.0019
 archetypes:
   samwise-combo:
     weight: 0.2222

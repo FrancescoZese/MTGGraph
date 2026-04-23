@@ -4,16 +4,16 @@ colors:
 - B
 - R
 name: Mardu Blink
-meta_share: 0.007
+meta_share: 0.0068
 list_count: 7
 top_cards:
 - name: Phlage, Titan of Fire's Fury
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
-- name: Overlord of the Balemurk
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
@@ -31,28 +31,28 @@ top_cards:
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 2.43
-- name: High Noon
+- name: Flickerwisp
   weight: 1.0
   avg_copies: 2.14
-- name: Flickerwisp
+- name: High Noon
   weight: 1.0
   avg_copies: 2.14
 - name: Arena of Glory
   weight: 1.0
   avg_copies: 2.0
-- name: Witch Enchanter
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 2.0
-- name: Thoughtseize
+- name: Witch Enchanter
   weight: 1.0
   avg_copies: 2.0
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.86
-- name: Wear
+- name: Detective's Phoenix
   weight: 1.0
   avg_copies: 1.71
-- name: Detective's Phoenix
+- name: Wear
   weight: 1.0
   avg_copies: 1.71
 - name: Pinnacle Monk
@@ -64,19 +64,19 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.14
-- name: Raucous Theater
-  weight: 1.0
-  avg_copies: 1.0
 - name: Surgical Extraction
   weight: 1.0
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Elegant Parlor
+  weight: 1.0
+  avg_copies: 1.0
+- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
 - name: Galvanic Discharge
@@ -91,10 +91,10 @@ top_cards:
 - name: Fable of the Mirror-Breaker
   weight: 0.8571
   avg_copies: 1.67
-- name: Shadowy Backstreet
+- name: Orcish Bowmasters
   weight: 0.8571
   avg_copies: 1.0
-- name: Orcish Bowmasters
+- name: Shadowy Backstreet
   weight: 0.8571
   avg_copies: 1.0
 - name: Damping Sphere
@@ -130,25 +130,25 @@ top_cards:
 - name: Emperor of Bones
   weight: 0.1429
   avg_copies: 3.0
-- name: The Legend of Roku
+- name: Sheoldred's Edict
   weight: 0.1429
   avg_copies: 2.0
 - name: Prismatic Ending
   weight: 0.1429
   avg_copies: 2.0
-- name: Sheoldred's Edict
+- name: The Legend of Roku
   weight: 0.1429
   avg_copies: 2.0
-- name: Faerie Macabre
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Emptiness
+- name: Nihil Spellbomb
   weight: 0.1429
   avg_copies: 1.0
 - name: Pest Control
   weight: 0.1429
   avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Emptiness
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Faerie Macabre
   weight: 0.1429
   avg_copies: 1.0
 ---

@@ -7,9 +7,12 @@ name: Flare of Malice
 scryfall_id: 19efb9ce-62eb-4cbf-b01e-979f3fd09ba6
 set: mh3
 type: Instant
-meta_presence: 0.001
+meta_presence: 0.0019
 archetypes:
   rakdos-reanimator:
     weight: 1.0
     avg_copies: 4.0
+  unknown-5:
+    weight: 1.0
+    avg_copies: 1.0
 ---

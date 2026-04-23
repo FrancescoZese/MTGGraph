@@ -7,10 +7,13 @@ name: Exorcise
 scryfall_id: f49006f2-a097-417d-8eb0-b8016ff2e0d5
 set: dsk
 type: Sorcery
-meta_presence: 0.0279
+meta_presence: 0.0292
 archetypes:
   boros-energy:
-    weight: 0.1311
+    weight: 0.1327
+    avg_copies: 1.0
+  dimir-frog:
+    weight: 0.0455
     avg_copies: 1.0
   naya-midrange:
     weight: 1.0

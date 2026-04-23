@@ -3,9 +3,15 @@ colors:
 - W
 - B
 name: Orzhov Blink
-meta_share: 0.004
+meta_share: 0.0039
 list_count: 4
 top_cards:
+- name: Thoughtseize
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 4.0
 - name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
@@ -15,19 +21,13 @@ top_cards:
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 4.0
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.5
-- name: Fatal Push
+- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.25
-- name: Phelia, Exuberant Shepherd
+- name: Fatal Push
   weight: 1.0
   avg_copies: 3.25
 - name: Ephemerate
@@ -42,7 +42,7 @@ top_cards:
 - name: Flickerwisp
   weight: 1.0
   avg_copies: 2.75
-- name: Damping Sphere
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 2.25
 - name: Plains
@@ -51,19 +51,19 @@ top_cards:
 - name: Clarion Conqueror
   weight: 1.0
   avg_copies: 2.25
-- name: Arid Mesa
+- name: Damping Sphere
   weight: 1.0
   avg_copies: 2.25
-- name: Shadowy Backstreet
-  weight: 1.0
-  avg_copies: 2.0
 - name: High Noon
   weight: 1.0
   avg_copies: 2.0
-- name: Godless Shrine
+- name: Shadowy Backstreet
+  weight: 1.0
+  avg_copies: 2.0
+- name: Boggart Trawler
   weight: 1.0
   avg_copies: 1.75
-- name: Boggart Trawler
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.75
 - name: Ashiok, Dream Render
@@ -75,10 +75,10 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 0.75
   avg_copies: 2.0
-- name: Dawnbringer Cleric
+- name: Prismatic Ending
   weight: 0.75
   avg_copies: 2.0
-- name: Prismatic Ending
+- name: Dawnbringer Cleric
   weight: 0.75
   avg_copies: 2.0
 - name: Flooded Strand
@@ -99,19 +99,19 @@ top_cards:
 - name: Sanctifier en-Vec
   weight: 0.5
   avg_copies: 2.0
-- name: Sacred Foundry
+- name: Surgical Extraction
   weight: 0.5
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Sacred Foundry
   weight: 0.5
   avg_copies: 1.0
 - name: Relic of Progenitus
   weight: 0.25
   avg_copies: 4.0
-- name: Raucous Theater
+- name: Eiganjo, Seat of the Empire
   weight: 0.25
   avg_copies: 1.0
-- name: Eiganjo, Seat of the Empire
+- name: Raucous Theater
   weight: 0.25
   avg_copies: 1.0
 ---

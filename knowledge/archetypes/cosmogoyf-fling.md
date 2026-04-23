@@ -4,31 +4,28 @@ colors:
 - R
 - G
 name: Cosmogoyf Fling
-meta_share: 0.005
+meta_share: 0.0049
 list_count: 5
 top_cards:
+- name: Thud
+  weight: 1.0
+  avg_copies: 4.0
+- name: Spoils of the Vault
+  weight: 1.0
+  avg_copies: 4.0
+- name: Plunge into Darkness
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cosmogoyf
+  weight: 1.0
+  avg_copies: 4.0
 - name: Devourer of Destiny
   weight: 1.0
   avg_copies: 4.0
 - name: Chancellor of the Tangle
   weight: 1.0
   avg_copies: 4.0
-- name: Cosmogoyf
-  weight: 1.0
-  avg_copies: 4.0
 - name: Gemstone Caverns
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thud
-  weight: 1.0
-  avg_copies: 4.0
-- name: Plunge into Darkness
-  weight: 1.0
-  avg_copies: 4.0
-- name: Blackcleave Cliffs
-  weight: 1.0
-  avg_copies: 4.0
-- name: Spoils of the Vault
   weight: 1.0
   avg_copies: 4.0
 - name: Chancellor of the Annex
@@ -37,19 +34,22 @@ top_cards:
 - name: Gemstone Mine
   weight: 1.0
   avg_copies: 4.0
-- name: Copperline Gorge
+- name: Blackcleave Cliffs
+  weight: 1.0
+  avg_copies: 4.0
+- name: Serum Powder
   weight: 1.0
   avg_copies: 3.4
-- name: Serum Powder
+- name: Copperline Gorge
   weight: 1.0
   avg_copies: 3.4
 - name: Pact of Negation
   weight: 1.0
   avg_copies: 3.33
-- name: Cavern of Souls
+- name: Inquisition of Kozilek
   weight: 1.0
   avg_copies: 3.2
-- name: Inquisition of Kozilek
+- name: Cavern of Souls
   weight: 1.0
   avg_copies: 3.2
 - name: Blooming Marsh
@@ -61,10 +61,10 @@ top_cards:
 - name: Blightstep Pathway
   weight: 1.0
   avg_copies: 2.0
-- name: Swamp
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
-- name: Forest
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Leyline of Sanctity
@@ -76,10 +76,10 @@ top_cards:
 - name: Callous Sell-Sword
   weight: 0.8
   avg_copies: 1.0
-- name: Disciple of Freyalise
+- name: Aloe Alchemist
   weight: 0.2
   avg_copies: 1.0
-- name: Aloe Alchemist
+- name: Disciple of Freyalise
   weight: 0.2
   avg_copies: 1.0
 ---

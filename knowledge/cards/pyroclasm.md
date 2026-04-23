@@ -14,7 +14,7 @@ archetypes:
     avg_copies: 1.0
   grixis-reanimator:
     weight: 1.0
-    avg_copies: 1.89
+    avg_copies: 1.85
   burn:
     weight: 0.5
     avg_copies: 3.0
@@ -25,10 +25,10 @@ archetypes:
     weight: 0.04
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.0732
+    weight: 0.0714
     avg_copies: 1.67
   izzet-artifacts:
-    weight: 0.15
+    weight: 0.1429
     avg_copies: 1.67
   jund-saga:
     weight: 1.0

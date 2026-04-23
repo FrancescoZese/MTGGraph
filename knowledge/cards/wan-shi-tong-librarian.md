@@ -13,8 +13,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.08
   dimir-frog:
-    weight: 0.45
-    avg_copies: 1.67
+    weight: 0.4545
+    avg_copies: 1.7
   azorius-control:
     weight: 0.0417
     avg_copies: 1.0

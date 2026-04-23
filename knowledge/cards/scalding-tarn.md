@@ -16,7 +16,7 @@ archetypes:
     avg_copies: 2.17
   dimir-frog:
     weight: 0.5
-    avg_copies: 1.1
+    avg_copies: 1.09
   jeskai-energy:
     weight: 0.987
     avg_copies: 2.99
@@ -24,8 +24,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.54
   affinity:
-    weight: 0.0968
-    avg_copies: 2.44
+    weight: 0.1111
+    avg_copies: 2.27
   mill:
     weight: 0.8333
     avg_copies: 1.0
@@ -33,8 +33,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.05
   neoform-combo:
-    weight: 0.6667
-    avg_copies: 1.43
+    weight: 0.6818
+    avg_copies: 1.4
   burn:
     weight: 0.75
     avg_copies: 1.67
@@ -45,8 +45,8 @@ archetypes:
     weight: 0.04
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.9756
-    avg_copies: 2.85
+    weight: 0.9762
+    avg_copies: 2.83
   indomitable-creativity:
     weight: 1.0
     avg_copies: 2.43
@@ -54,7 +54,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.67
   izzet-artifacts:
-    weight: 0.55
+    weight: 0.5238
     avg_copies: 3.73
   grixis-control:
     weight: 1.0
@@ -77,4 +77,7 @@ archetypes:
   izzet-wizards:
     weight: 1.0
     avg_copies: 4.0
+  unknown-4:
+    weight: 1.0
+    avg_copies: 3.0
 ---

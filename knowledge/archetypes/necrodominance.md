@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: Necrodominance
-meta_share: 0.018
+meta_share: 0.0175
 list_count: 18
 top_cards:
 - name: Swamp
@@ -90,13 +90,13 @@ top_cards:
 - name: Takenuma, Abandoned Mire
   weight: 0.1667
   avg_copies: 1.0
-- name: Vein Ripper
+- name: Psychic Frog
   weight: 0.1111
   avg_copies: 4.0
 - name: Sorin, Imperious Bloodlord
   weight: 0.1111
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Vein Ripper
   weight: 0.1111
   avg_copies: 4.0
 - name: Polluted Delta
@@ -111,10 +111,10 @@ top_cards:
 - name: Verdant Catacombs
   weight: 0.1111
   avg_copies: 2.5
-- name: Toxic Deluge
+- name: The Filigree Sylex
   weight: 0.1111
   avg_copies: 1.5
-- name: The Filigree Sylex
+- name: Toxic Deluge
   weight: 0.1111
   avg_copies: 1.5
 - name: Legion's End
@@ -123,13 +123,13 @@ top_cards:
 - name: Undercity Sewers
   weight: 0.1111
   avg_copies: 1.0
+- name: Iridescent Vinelasher
+  weight: 0.0556
+  avg_copies: 4.0
 - name: Gonti's Machinations
   weight: 0.0556
   avg_copies: 4.0
 - name: Sign in Blood
-  weight: 0.0556
-  avg_copies: 4.0
-- name: Iridescent Vinelasher
   weight: 0.0556
   avg_copies: 4.0
 - name: Requiting Hex
@@ -141,40 +141,34 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.0556
   avg_copies: 3.0
-- name: Overgrown Tomb
-  weight: 0.0556
-  avg_copies: 2.0
-- name: Hurkyl's Recall
+- name: Culling Ritual
   weight: 0.0556
   avg_copies: 2.0
 - name: Pillage the Bog
   weight: 0.0556
   avg_copies: 2.0
+- name: Mai, Scornful Striker
+  weight: 0.0556
+  avg_copies: 2.0
 - name: Disruptor Flute
+  weight: 0.0556
+  avg_copies: 2.0
+- name: Hurkyl's Recall
   weight: 0.0556
   avg_copies: 2.0
 - name: Marsh Flats
   weight: 0.0556
   avg_copies: 2.0
-- name: Culling Ritual
-  weight: 0.0556
-  avg_copies: 2.0
 - name: Witherbloom Command
   weight: 0.0556
   avg_copies: 2.0
-- name: Mai, Scornful Striker
+- name: Overgrown Tomb
   weight: 0.0556
   avg_copies: 2.0
-- name: Pick Your Poison
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Underground Mortuary
-  weight: 0.0556
-  avg_copies: 1.0
 - name: Nurturing Peatland
   weight: 0.0556
   avg_copies: 1.0
-- name: Damnation
+- name: Underground Mortuary
   weight: 0.0556
   avg_copies: 1.0
 - name: Illness in the Ranks
@@ -183,7 +177,13 @@ top_cards:
 - name: Shizo, Death's Storehouse
   weight: 0.0556
   avg_copies: 1.0
+- name: Pick Your Poison
+  weight: 0.0556
+  avg_copies: 1.0
 - name: Kaito, Bane of Nightmares
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Damnation
   weight: 0.0556
   avg_copies: 1.0
 ---

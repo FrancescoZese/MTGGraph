@@ -4,16 +4,16 @@ colors:
 - U
 - B
 name: Esper Blink
-meta_share: 0.01
+meta_share: 0.0097
 list_count: 10
 top_cards:
-- name: Solitude
-  weight: 1.0
-  avg_copies: 4.0
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Overlord of the Balemurk
+  weight: 1.0
+  avg_copies: 4.0
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Phelia, Exuberant Shepherd
@@ -52,13 +52,13 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.1
-- name: Swamp
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Watery Grave
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Shadowy Backstreet
@@ -109,13 +109,13 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 0.2
   avg_copies: 1.0
+- name: No More Lies
+  weight: 0.1
+  avg_copies: 4.0
 - name: Force of Negation
   weight: 0.1
   avg_copies: 4.0
 - name: Subtlety
-  weight: 0.1
-  avg_copies: 4.0
-- name: No More Lies
   weight: 0.1
   avg_copies: 4.0
 - name: White Orchid Phantom
@@ -124,28 +124,28 @@ top_cards:
 - name: Clarion Conqueror
   weight: 0.1
   avg_copies: 2.0
-- name: Windswept Heath
-  weight: 0.1
-  avg_copies: 1.0
 - name: Emptiness
   weight: 0.1
   avg_copies: 1.0
-- name: Bleachbone Verge
-  weight: 0.1
-  avg_copies: 1.0
-- name: Hydroelectric Specimen
-  weight: 0.1
-  avg_copies: 1.0
-- name: Strix Serenade
-  weight: 0.1
-  avg_copies: 1.0
-- name: Celestial Purge
+- name: Windswept Heath
   weight: 0.1
   avg_copies: 1.0
 - name: March of Otherworldly Light
   weight: 0.1
   avg_copies: 1.0
+- name: Hydroelectric Specimen
+  weight: 0.1
+  avg_copies: 1.0
+- name: Bleachbone Verge
+  weight: 0.1
+  avg_copies: 1.0
+- name: Celestial Purge
+  weight: 0.1
+  avg_copies: 1.0
 - name: Floodfarm Verge
+  weight: 0.1
+  avg_copies: 1.0
+- name: Strix Serenade
   weight: 0.1
   avg_copies: 1.0
 ---

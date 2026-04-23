@@ -6,7 +6,7 @@ name: Mirrorpool
 scryfall_id: 0441cd2c-3646-4c69-ae97-ad3bcea7466f
 set: cmm
 type: Land
-meta_presence: 0.0419
+meta_presence: 0.0428
 archetypes:
   amulet-titan:
     weight: 1.0

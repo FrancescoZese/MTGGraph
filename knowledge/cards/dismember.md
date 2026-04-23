@@ -8,7 +8,7 @@ archetypes:
     avg_copies: 1.79
   amulet-titan:
     weight: 1.0
-    avg_copies: 2.24
+    avg_copies: 2.23
   hardened-scales:
     weight: 1.0
     avg_copies: 1.67
@@ -33,7 +33,7 @@ archetypes:
 cmc: 3
 colors: []
 image: https://cards.scryfall.io/normal/front/3/d/3d286cf6-3e16-4941-9326-1818b1e06d69.jpg?1562261132
-meta_presence: 0.1277
+meta_presence: 0.1265
 name: Dismember
 scryfall_id: 3d286cf6-3e16-4941-9326-1818b1e06d69
 set: mm2

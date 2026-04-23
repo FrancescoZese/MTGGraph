@@ -7,9 +7,9 @@ name: Allosaurus Rider
 scryfall_id: 8fdaedf0-c4d2-4c2c-a183-026f06f3c360
 set: evg
 type: Creature — Elf Warrior
-meta_presence: 0.02
+meta_presence: 0.0204
 archetypes:
   neoform-combo:
-    weight: 0.9524
+    weight: 0.9545
     avg_copies: 3.95
 ---

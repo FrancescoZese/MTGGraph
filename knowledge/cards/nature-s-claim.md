@@ -13,8 +13,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.67
   neoform-combo:
-    weight: 0.9048
-    avg_copies: 2.89
+    weight: 0.9091
+    avg_copies: 2.85
   eldrazi-ramp:
     weight: 0.2381
     avg_copies: 2.0
@@ -22,6 +22,6 @@ archetypes:
     weight: 0.5556
     avg_copies: 2.0
   izzet-artifacts:
-    weight: 0.05
+    weight: 0.0476
     avg_copies: 1.0
 ---

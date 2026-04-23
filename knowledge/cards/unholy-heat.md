@@ -12,6 +12,9 @@ archetypes:
   jeskai-energy:
     weight: 0.026
     avg_copies: 1.0
+  grixis-reanimator:
+    weight: 0.05
+    avg_copies: 1.0
   mardu-blink:
     weight: 0.1429
     avg_copies: 3.0
@@ -22,13 +25,13 @@ archetypes:
     weight: 0.5714
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.8293
-    avg_copies: 2.2
+    weight: 0.8333
+    avg_copies: 2.19
   broodscale-combo:
     weight: 0.5556
     avg_copies: 1.86
   izzet-artifacts:
-    weight: 0.45
+    weight: 0.4286
     avg_copies: 3.56
   grixis-shadow:
     weight: 1.0

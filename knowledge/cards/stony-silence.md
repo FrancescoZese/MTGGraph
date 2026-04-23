@@ -7,13 +7,13 @@ name: Stony Silence
 scryfall_id: 8e7faede-f794-4bda-9d64-21390ba19266
 set: mm3
 type: Enchantment
-meta_presence: 0.004
+meta_presence: 0.0039
 archetypes:
   boros-energy:
-    weight: 0.0049
+    weight: 0.0047
     avg_copies: 2.0
   dimir-frog:
-    weight: 0.05
+    weight: 0.0455
     avg_copies: 2.0
   jeskai-energy:
     weight: 0.013

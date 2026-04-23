@@ -7,23 +7,23 @@ name: Consign to Memory
 scryfall_id: bc95af55-d1dd-4fe6-adb0-3ad6db20d986
 set: mh3
 type: Instant
-meta_presence: 0.48
+meta_presence: 0.4825
 archetypes:
   dimir-control:
     weight: 1.0
     avg_copies: 3.44
   dimir-frog:
     weight: 1.0
-    avg_copies: 3.4
+    avg_copies: 3.41
   mono-blue-belcher:
     weight: 1.0
-    avg_copies: 2.96
+    avg_copies: 2.88
   jeskai-energy:
     weight: 0.974
     avg_copies: 3.87
   goryo-reanimator:
     weight: 1.0
-    avg_copies: 2.98
+    avg_copies: 3.0
   necrodominance:
     weight: 0.1111
     avg_copies: 3.5
@@ -31,7 +31,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.71
   affinity:
-    weight: 0.9355
+    weight: 0.9394
     avg_copies: 2.32
   domain-zoo:
     weight: 1.0
@@ -41,10 +41,10 @@ archetypes:
     avg_copies: 1.67
   grixis-reanimator:
     weight: 1.0
-    avg_copies: 2.89
+    avg_copies: 2.9
   neoform-combo:
-    weight: 0.9048
-    avg_copies: 3.42
+    weight: 0.9091
+    avg_copies: 3.45
   mono-blue-tron:
     weight: 1.0
     avg_copies: 4.0
@@ -58,8 +58,8 @@ archetypes:
     weight: 0.8
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.9512
-    avg_copies: 3.03
+    weight: 0.9524
+    avg_copies: 3.05
   esper-blink:
     weight: 1.0
     avg_copies: 3.0
@@ -76,8 +76,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.2
   izzet-artifacts:
-    weight: 0.9
-    avg_copies: 2.61
+    weight: 0.9048
+    avg_copies: 2.68
   esper-control:
     weight: 1.0
     avg_copies: 3.0

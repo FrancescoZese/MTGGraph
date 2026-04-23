@@ -6,7 +6,7 @@ name: Verdant Catacombs
 scryfall_id: 94c229ea-90da-4aa0-bfda-b162fb3b5b8b
 set: mh2
 type: Land
-meta_presence: 0.0908
+meta_presence: 0.0895
 archetypes:
   necrodominance:
     weight: 0.1111
@@ -15,7 +15,7 @@ archetypes:
     weight: 0.0526
     avg_copies: 2.0
   neoform-combo:
-    weight: 0.3333
+    weight: 0.3182
     avg_copies: 1.43
   hollow-one:
     weight: 0.2143

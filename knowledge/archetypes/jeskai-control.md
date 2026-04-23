@@ -4,19 +4,19 @@ colors:
 - U
 - R
 name: Jeskai Control
-meta_share: 0.003
+meta_share: 0.0029
 list_count: 3
 top_cards:
 - name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flame of Anor
   weight: 1.0
   avg_copies: 4.0
 - name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flame of Anor
   weight: 1.0
   avg_copies: 4.0
 - name: Arid Mesa
@@ -40,19 +40,19 @@ top_cards:
 - name: Plains
   weight: 1.0
   avg_copies: 2.0
-- name: Steam Vents
+- name: Arena of Glory
   weight: 1.0
   avg_copies: 2.0
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.0
-- name: Arena of Glory
-  weight: 1.0
-  avg_copies: 2.0
-- name: Celestial Purge
+- name: Steam Vents
   weight: 1.0
   avg_copies: 2.0
 - name: Prismatic Ending
+  weight: 1.0
+  avg_copies: 2.0
+- name: Celestial Purge
   weight: 1.0
   avg_copies: 2.0
 - name: Meticulous Archive
@@ -61,49 +61,55 @@ top_cards:
 - name: Surgical Extraction
   weight: 1.0
   avg_copies: 1.33
-- name: Isochron Scepter
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Isochron Scepter
   weight: 1.0
   avg_copies: 1.0
 - name: Counterspell
   weight: 0.6667
   avg_copies: 4.0
-- name: Snapcaster Mage
-  weight: 0.6667
-  avg_copies: 3.0
 - name: Consult the Star Charts
   weight: 0.6667
   avg_copies: 3.0
-- name: Mystic Gate
+- name: Snapcaster Mage
   weight: 0.6667
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Lórien Revealed
   weight: 0.6667
   avg_copies: 2.0
 - name: Spell Snare
   weight: 0.6667
   avg_copies: 2.0
-- name: Stern Scolding
+- name: Mystic Gate
   weight: 0.6667
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Island
   weight: 0.6667
   avg_copies: 1.0
 - name: Teferi, Hero of Dominaria
   weight: 0.6667
   avg_copies: 1.0
-- name: Scalding Tarn
-  weight: 0.3333
-  avg_copies: 3.0
+- name: Stern Scolding
+  weight: 0.6667
+  avg_copies: 1.0
 - name: Fable of the Mirror-Breaker
   weight: 0.3333
   avg_copies: 3.0
 - name: Thundertrap Trainer
   weight: 0.3333
   avg_copies: 3.0
+- name: Scalding Tarn
+  weight: 0.3333
+  avg_copies: 3.0
 - name: Flare of Denial
+  weight: 0.3333
+  avg_copies: 2.0
+- name: High Noon
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Obsidian Charmaw
   weight: 0.3333
   avg_copies: 2.0
 - name: Tune the Narrative
@@ -112,19 +118,13 @@ top_cards:
 - name: Subtlety
   weight: 0.3333
   avg_copies: 2.0
-- name: Obsidian Charmaw
-  weight: 0.3333
-  avg_copies: 2.0
-- name: High Noon
-  weight: 0.3333
-  avg_copies: 2.0
 - name: Mountain
   weight: 0.3333
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Sacred Foundry
   weight: 0.3333
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Elegant Parlor
   weight: 0.3333
   avg_copies: 1.0
 ---

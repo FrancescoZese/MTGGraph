@@ -7,9 +7,12 @@ name: Conflagrate
 scryfall_id: bfbbcc1a-c6cc-4671-91ab-9dcf454f62e0
 set: tsr
 type: Sorcery
-meta_presence: 0.001
+meta_presence: 0.0019
 archetypes:
   dredge:
     weight: 0.3333
     avg_copies: 3.0
+  unknown-4:
+    weight: 1.0
+    avg_copies: 1.0
 ---

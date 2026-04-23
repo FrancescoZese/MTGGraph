@@ -6,16 +6,16 @@ name: Mountain
 scryfall_id: a642c7b1-d4d1-4125-a66d-560438e5ee51
 set: sos
 type: Basic Land — Mountain
-meta_presence: 0.3832
+meta_presence: 0.3813
 archetypes:
   ruby-storm:
     weight: 1.0
     avg_copies: 3.39
   boros-energy:
-    weight: 0.7379
+    weight: 0.7441
     avg_copies: 1.0
   mono-blue-belcher:
-    weight: 0.1364
+    weight: 0.125
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.7662
@@ -37,10 +37,10 @@ archetypes:
     avg_copies: 1.33
   boros-ponza:
     weight: 1.0
-    avg_copies: 1.18
+    avg_copies: 1.17
   izzet-prowess:
     weight: 1.0
-    avg_copies: 1.98
+    avg_copies: 2.0
   indomitable-creativity:
     weight: 1.0
     avg_copies: 1.0
@@ -48,7 +48,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   izzet-artifacts:
-    weight: 0.4
+    weight: 0.381
     avg_copies: 1.0
   grixis-control:
     weight: 1.0
@@ -86,4 +86,7 @@ archetypes:
   naya-midrange:
     weight: 1.0
     avg_copies: 1.0
+  unknown-4:
+    weight: 1.0
+    avg_copies: 2.0
 ---

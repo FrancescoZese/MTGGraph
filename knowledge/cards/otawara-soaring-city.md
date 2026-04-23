@@ -6,13 +6,13 @@ name: Otawara, Soaring City
 scryfall_id: 486d7edc-d983-41f0-8b78-c99aecd72996
 set: neo
 type: Legendary Land
-meta_presence: 0.1467
+meta_presence: 0.1469
 archetypes:
   dimir-control:
     weight: 0.48
     avg_copies: 1.0
   dimir-frog:
-    weight: 0.7
+    weight: 0.6818
     avg_copies: 1.0
   amulet-titan:
     weight: 1.0
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.7895
     avg_copies: 1.0
   affinity:
-    weight: 0.0538
+    weight: 0.0606
     avg_copies: 1.0
   mill:
     weight: 1.0
@@ -39,13 +39,13 @@ archetypes:
     weight: 0.84
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0244
+    weight: 0.0238
     avg_copies: 1.0
   bant-control:
     weight: 1.0
     avg_copies: 1.0
   izzet-artifacts:
-    weight: 0.25
+    weight: 0.2381
     avg_copies: 1.0
   esper-control:
     weight: 1.0
