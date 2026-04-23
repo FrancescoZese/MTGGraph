@@ -11,13 +11,16 @@ top_cards:
 - name: Gilded Goose
   weight: 1.0
   avg_copies: 4.0
+- name: Chord of Calling
+  weight: 1.0
+  avg_copies: 4.0
+- name: Windswept Heath
+  weight: 1.0
+  avg_copies: 4.0
 - name: Birthing Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Samwise Gamgee
-  weight: 1.0
-  avg_copies: 4.0
-- name: Chord of Calling
   weight: 1.0
   avg_copies: 4.0
 - name: Cauldron Familiar
@@ -26,19 +29,16 @@ top_cards:
 - name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
-- name: Windswept Heath
-  weight: 1.0
-  avg_copies: 4.0
 - name: Young Wolf
   weight: 1.0
   avg_copies: 2.56
 - name: Carrion Feeder
   weight: 1.0
   avg_copies: 2.22
-- name: Force of Vigor
+- name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 2.0
-- name: Boseiju, Who Endures
+- name: Force of Vigor
   weight: 1.0
   avg_copies: 2.0
 - name: Viscera Seer
@@ -53,19 +53,19 @@ top_cards:
 - name: Temple Garden
   weight: 1.0
   avg_copies: 1.22
+- name: Forest
+  weight: 1.0
+  avg_copies: 1.0
 - name: Lush Portico
+  weight: 1.0
+  avg_copies: 1.0
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
 - name: Haywire Mite
-  weight: 1.0
-  avg_copies: 1.0
-- name: Godless Shrine
-  weight: 1.0
-  avg_copies: 1.0
-- name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Malevolent Rumble
@@ -116,10 +116,10 @@ top_cards:
 - name: Soulless Jailer
   weight: 0.4444
   avg_copies: 1.0
-- name: Lavinia, Azorius Renegade
+- name: Grist, the Hunger Tide
   weight: 0.4444
   avg_copies: 1.0
-- name: Grist, the Hunger Tide
+- name: Lavinia, Azorius Renegade
   weight: 0.4444
   avg_copies: 1.0
 - name: Wooded Foothills
@@ -137,10 +137,10 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.3333
   avg_copies: 1.67
-- name: Dauthi Voidwalker
+- name: Voice of Victory
   weight: 0.3333
   avg_copies: 1.0
-- name: Voice of Victory
+- name: Dauthi Voidwalker
   weight: 0.3333
   avg_copies: 1.0
 - name: Culling Ritual
@@ -152,22 +152,31 @@ top_cards:
 - name: Path to Exile
   weight: 0.2222
   avg_copies: 1.5
-- name: Surgical Extraction
-  weight: 0.2222
-  avg_copies: 1.0
-- name: Sephiroth, Fabled SOLDIER
-  weight: 0.2222
-  avg_copies: 1.0
-- name: Dawnbringer Cleric
+- name: Ruthless Lawbringer
   weight: 0.2222
   avg_copies: 1.0
 - name: Seam Rip
   weight: 0.2222
   avg_copies: 1.0
-- name: Ruthless Lawbringer
+- name: Dawnbringer Cleric
+  weight: 0.2222
+  avg_copies: 1.0
+- name: Sephiroth, Fabled SOLDIER
+  weight: 0.2222
+  avg_copies: 1.0
+- name: Surgical Extraction
   weight: 0.2222
   avg_copies: 1.0
 - name: Mana Confluence
+  weight: 0.1111
+  avg_copies: 2.0
+- name: Moseo, Vein's New Dean
+  weight: 0.1111
+  avg_copies: 2.0
+- name: City of Brass
+  weight: 0.1111
+  avg_copies: 2.0
+- name: Dewdrop Cure
   weight: 0.1111
   avg_copies: 2.0
 - name: Assassin's Trophy
@@ -176,25 +185,16 @@ top_cards:
 - name: Haliya, Guided by Light
   weight: 0.1111
   avg_copies: 2.0
-- name: Dewdrop Cure
-  weight: 0.1111
-  avg_copies: 2.0
-- name: City of Brass
-  weight: 0.1111
-  avg_copies: 2.0
-- name: Moseo, Vein's New Dean
-  weight: 0.1111
-  avg_copies: 2.0
-- name: Drannith Magistrate
-  weight: 0.1111
-  avg_copies: 1.0
 - name: Collector Ouphe
   weight: 0.1111
   avg_copies: 1.0
-- name: Swamp
+- name: Veil of Summer
   weight: 0.1111
   avg_copies: 1.0
-- name: Veil of Summer
+- name: Drannith Magistrate
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Swamp
   weight: 0.1111
   avg_copies: 1.0
 ---

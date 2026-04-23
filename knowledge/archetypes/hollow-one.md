@@ -6,19 +6,19 @@ name: Hollow One
 meta_share: 0.0136
 list_count: 14
 top_cards:
+- name: Detective's Phoenix
+  weight: 1.0
+  avg_copies: 4.0
 - name: Burning Inquiry
   weight: 1.0
   avg_copies: 4.0
-- name: Detective's Phoenix
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
 - name: Hollow One
-  weight: 1.0
-  avg_copies: 4.0
-- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
@@ -132,19 +132,16 @@ top_cards:
 - name: Stomping Ground
   weight: 0.1429
   avg_copies: 1.5
-- name: Violent Urge
+- name: Polluted Delta
   weight: 0.1429
   avg_copies: 1.0
-- name: Polluted Delta
+- name: Violent Urge
   weight: 0.1429
   avg_copies: 1.0
 - name: Leyline of the Void
   weight: 0.0714
   avg_copies: 4.0
 - name: Pyroclasm
-  weight: 0.0714
-  avg_copies: 2.0
-- name: Goblin Lore
   weight: 0.0714
   avg_copies: 2.0
 - name: Cool but Rude
@@ -156,28 +153,31 @@ top_cards:
 - name: Rough
   weight: 0.0714
   avg_copies: 2.0
-- name: Overlord of the Balemurk
+- name: Goblin Lore
   weight: 0.0714
-  avg_copies: 1.0
-- name: Blackcleave Cliffs
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Barbarian Ring
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Commercial District
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Seal of Fire
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Shattering Spree
+  avg_copies: 2.0
+- name: Soul-Guide Lantern
   weight: 0.0714
   avg_copies: 1.0
 - name: Ox of Agonas
   weight: 0.0714
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Barbarian Ring
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Shattering Spree
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Blackcleave Cliffs
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Overlord of the Balemurk
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Seal of Fire
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Commercial District
   weight: 0.0714
   avg_copies: 1.0
 ---

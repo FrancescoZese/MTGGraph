@@ -371,18 +371,18 @@ def enrich_markdown(knowledge_dir: Path, graph: dict) -> None:
         fm["meta_share"] = node["meta_share"]
         fm["list_count"] = node["list_count"]
 
-        # Recompute colors from mainboard cards only (ignore sideboard splashes)
+        # Derive colors from medoid list's mainboard (not average across all lists)
         color_order = ["W", "U", "B", "R", "G"]
         arch_colors = set()
-        for edge in graph["edges"]:
-            if edge["target"] != arch_id:
-                continue
-            if edge.get("main_weight", 0) < 0.25:
-                continue
-            card_node = card_nodes.get(edge["source"])
-            if card_node:
-                for c in card_node.get("colors", []):
-                    arch_colors.add(c)
+        medoid_idx = node.get("medoid_index", 0)
+        if node.get("lists") and medoid_idx < len(node["lists"]):
+            medoid_main = node["lists"][medoid_idx].get("mainboard", {})
+            for card_name in medoid_main:
+                card_slug = slugify(card_name)
+                card_node = card_nodes.get(f"card:{card_slug}")
+                if card_node:
+                    for c in card_node.get("colors", []):
+                        arch_colors.add(c)
         fm["colors"] = [c for c in color_order if c in arch_colors]
         node["colors"] = fm["colors"]
 

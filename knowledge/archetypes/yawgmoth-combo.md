@@ -21,16 +21,16 @@ top_cards:
 - name: Yawgmoth, Thran Physician
   weight: 1.0
   avg_copies: 3.83
-- name: Malevolent Rumble
-  weight: 1.0
-  avg_copies: 3.67
 - name: Young Wolf
   weight: 1.0
   avg_copies: 3.67
-- name: Spymaster's Vault
+- name: Malevolent Rumble
+  weight: 1.0
+  avg_copies: 3.67
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 3.0
-- name: Green Sun's Zenith
+- name: Spymaster's Vault
   weight: 1.0
   avg_copies: 3.0
 - name: Walking Ballista
@@ -48,10 +48,10 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.92
-- name: Force of Vigor
+- name: Forest
   weight: 1.0
   avg_copies: 1.75
-- name: Forest
+- name: Force of Vigor
   weight: 1.0
   avg_copies: 1.75
 - name: Formidable Speaker
@@ -63,22 +63,22 @@ top_cards:
 - name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.08
-- name: Strangleroot Geist
+- name: Endurance
   weight: 1.0
   avg_copies: 1.0
 - name: Soulless Jailer
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Grist, the Hunger Tide
+  weight: 1.0
+  avg_copies: 1.0
+- name: Strangleroot Geist
   weight: 1.0
   avg_copies: 1.0
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
-- name: Grist, the Hunger Tide
-  weight: 1.0
-  avg_copies: 1.0
-- name: Endurance
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Windswept Heath
@@ -126,19 +126,19 @@ top_cards:
 - name: Haywire Mite
   weight: 0.25
   avg_copies: 1.0
-- name: Hapatra, Vizier of Poisons
+- name: Kraul Harpooner
   weight: 0.1667
   avg_copies: 1.0
-- name: Kraul Harpooner
+- name: Hapatra, Vizier of Poisons
   weight: 0.1667
   avg_copies: 1.0
 - name: Culling Ritual
   weight: 0.0833
   avg_copies: 1.0
-- name: Assassin's Trophy
+- name: Murderous Cut
   weight: 0.0833
   avg_copies: 1.0
-- name: Murderous Cut
+- name: Assassin's Trophy
   weight: 0.0833
   avg_copies: 1.0
 ---

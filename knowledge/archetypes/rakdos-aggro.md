@@ -6,13 +6,13 @@ name: Rakdos Aggro
 meta_share: 0.0049
 list_count: 5
 top_cards:
-- name: Dragon's Rage Channeler
-  weight: 1.0
-  avg_copies: 4.0
 - name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
 - name: Blood Crypt
+  weight: 1.0
+  avg_copies: 4.0
+- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Moonshadow
@@ -30,22 +30,22 @@ top_cards:
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.4
-- name: Swamp
-  weight: 1.0
-  avg_copies: 1.0
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Bloodstained Mire
+- name: Swamp
+  weight: 1.0
+  avg_copies: 1.0
+- name: Lightning Bolt
   weight: 0.8
   avg_copies: 4.0
 - name: Obsidian Charmaw
   weight: 0.8
   avg_copies: 4.0
-- name: Lightning Bolt
+- name: Street Wraith
   weight: 0.8
   avg_copies: 4.0
-- name: Street Wraith
+- name: Bloodstained Mire
   weight: 0.8
   avg_copies: 4.0
 - name: Damping Sphere
@@ -57,10 +57,10 @@ top_cards:
 - name: Arena of Glory
   weight: 0.8
   avg_copies: 2.0
-- name: Thoughtseize
+- name: Lava Dart
   weight: 0.6
   avg_copies: 4.0
-- name: Lava Dart
+- name: Thoughtseize
   weight: 0.6
   avg_copies: 4.0
 - name: Cori-Steel Cutter
@@ -93,46 +93,46 @@ top_cards:
 - name: Death's Shadow
   weight: 0.2
   avg_copies: 4.0
-- name: Magebane Lizard
+- name: Unholy Heat
   weight: 0.2
   avg_copies: 4.0
-- name: Unholy Heat
+- name: Magebane Lizard
   weight: 0.2
   avg_copies: 4.0
 - name: Vexing Bauble
   weight: 0.2
   avg_copies: 3.0
-- name: Abigale, Eloquent First-Year
-  weight: 0.2
-  avg_copies: 2.0
-- name: Surgical Extraction
-  weight: 0.2
-  avg_copies: 2.0
-- name: Sheoldred's Edict
-  weight: 0.2
-  avg_copies: 2.0
 - name: Cling to Dust
   weight: 0.2
   avg_copies: 2.0
 - name: Unearth
   weight: 0.2
   avg_copies: 2.0
+- name: Abigale, Eloquent First-Year
+  weight: 0.2
+  avg_copies: 2.0
+- name: Sheoldred's Edict
+  weight: 0.2
+  avg_copies: 2.0
 - name: Seal of Fire
   weight: 0.2
   avg_copies: 2.0
-- name: Nihil Spellbomb
+- name: Surgical Extraction
   weight: 0.2
-  avg_copies: 1.0
-- name: Troll of Khazad-dûm
-  weight: 0.2
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Sundering Eruption
+  weight: 0.2
+  avg_copies: 1.0
+- name: Graveyard Trespasser
+  weight: 0.2
+  avg_copies: 1.0
+- name: Nihil Spellbomb
   weight: 0.2
   avg_copies: 1.0
 - name: Boggart Trawler
   weight: 0.2
   avg_copies: 1.0
-- name: Graveyard Trespasser
+- name: Troll of Khazad-dûm
   weight: 0.2
   avg_copies: 1.0
 - name: Verdant Catacombs

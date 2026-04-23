@@ -12,6 +12,9 @@ top_cards:
 - name: Wrenn's Resolve
   weight: 1.0
   avg_copies: 4.0
+- name: Desperate Ritual
+  weight: 1.0
+  avg_copies: 4.0
 - name: Ruby Medallion
   weight: 1.0
   avg_copies: 4.0
@@ -19,9 +22,6 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Pyretic Ritual
-  weight: 1.0
-  avg_copies: 4.0
-- name: Desperate Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Ral, Monsoon Mage
@@ -39,10 +39,10 @@ top_cards:
 - name: Wish
   weight: 1.0
   avg_copies: 2.07
-- name: Past in Flames
+- name: Valakut Awakening
   weight: 1.0
   avg_copies: 1.96
-- name: Valakut Awakening
+- name: Past in Flames
   weight: 1.0
   avg_copies: 1.96
 - name: Artist's Talent
@@ -129,7 +129,7 @@ top_cards:
 - name: Shattering Spree
   weight: 0.0714
   avg_copies: 1.5
-- name: Phlage, Titan of Fire's Fury
+- name: Steam Vents
   weight: 0.0714
   avg_copies: 1.0
 - name: Alchemist's Gambit
@@ -138,7 +138,7 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.0714
   avg_copies: 1.0
-- name: Steam Vents
+- name: Phlage, Titan of Fire's Fury
   weight: 0.0714
   avg_copies: 1.0
 - name: Questing Druid
@@ -147,16 +147,16 @@ top_cards:
 - name: Blood Moon
   weight: 0.0357
   avg_copies: 2.0
-- name: Abrade
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Stomping Ground
-  weight: 0.0357
-  avg_copies: 1.0
 - name: Urabrask
   weight: 0.0357
   avg_copies: 1.0
+- name: Abrade
+  weight: 0.0357
+  avg_copies: 1.0
 - name: Pyromancer Ascension
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Stomping Ground
   weight: 0.0357
   avg_copies: 1.0
 - name: Voice of Victory

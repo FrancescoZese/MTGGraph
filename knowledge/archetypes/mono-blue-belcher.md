@@ -5,25 +5,25 @@ name: Mono Blue Belcher
 meta_share: 0.0233
 list_count: 24
 top_cards:
-- name: Tameshi, Reality Architect
-  weight: 1.0
-  avg_copies: 4.0
-- name: Whir of Invention
-  weight: 1.0
-  avg_copies: 4.0
-- name: Hydroelectric Specimen
-  weight: 1.0
-  avg_copies: 4.0
-- name: Goblin Charbelcher
+- name: Lotus Bloom
   weight: 1.0
   avg_copies: 4.0
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 4.0
+- name: Goblin Charbelcher
+  weight: 1.0
+  avg_copies: 4.0
+- name: Tameshi, Reality Architect
+  weight: 1.0
+  avg_copies: 4.0
 - name: Suppression Ray
   weight: 1.0
   avg_copies: 4.0
-- name: Lotus Bloom
+- name: Hydroelectric Specimen
+  weight: 1.0
+  avg_copies: 4.0
+- name: Whir of Invention
   weight: 1.0
   avg_copies: 4.0
 - name: Disrupting Shoal
@@ -92,10 +92,10 @@ top_cards:
 - name: Unable to Scream
   weight: 0.4583
   avg_copies: 1.36
-- name: Spell Pierce
+- name: Grafdigger's Cage
   weight: 0.3333
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Spell Pierce
   weight: 0.3333
   avg_copies: 1.0
 - name: Tormod's Crypt
@@ -125,19 +125,19 @@ top_cards:
 - name: Talisman of Progress
   weight: 0.0833
   avg_copies: 1.0
-- name: Hope of Ghirapur
+- name: Portable Hole
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Displacement Wave
   weight: 0.0417
   avg_copies: 1.0
 - name: Step Through
   weight: 0.0417
   avg_copies: 1.0
+- name: Hope of Ghirapur
+  weight: 0.0417
+  avg_copies: 1.0
 - name: Witch Enchanter
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Portable Hole
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Displacement Wave
   weight: 0.0417
   avg_copies: 1.0
 ---

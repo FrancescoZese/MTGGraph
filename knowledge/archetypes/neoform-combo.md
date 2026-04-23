@@ -30,10 +30,10 @@ top_cards:
 - name: Hedge Maze
   weight: 0.9545
   avg_copies: 2.76
-- name: Ghalta, Stampede Tyrant
+- name: Disciple of Freyalise
   weight: 0.9545
   avg_copies: 2.19
-- name: Disciple of Freyalise
+- name: Ghalta, Stampede Tyrant
   weight: 0.9545
   avg_copies: 2.19
 - name: Bridgeworks Battle
@@ -42,10 +42,10 @@ top_cards:
 - name: Breeding Pool
   weight: 0.9545
   avg_copies: 1.05
-- name: Xenagos, God of Revels
+- name: Griselbrand
   weight: 0.9545
   avg_copies: 1.0
-- name: Griselbrand
+- name: Xenagos, God of Revels
   weight: 0.9545
   avg_copies: 1.0
 - name: Planar Genesis
@@ -69,10 +69,10 @@ top_cards:
 - name: Hooting Mandrills
   weight: 0.9091
   avg_copies: 1.08
-- name: Atraxa, Grand Unifier
+- name: Boseiju, Who Endures
   weight: 0.9091
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Atraxa, Grand Unifier
   weight: 0.9091
   avg_copies: 1.0
 - name: Veil of Summer
@@ -132,10 +132,7 @@ top_cards:
 - name: Forest
   weight: 0.0909
   avg_copies: 1.0
-- name: Gemstone Mine
-  weight: 0.0455
-  avg_copies: 4.0
-- name: Hexing Squelcher
+- name: Detect Intrusion
   weight: 0.0455
   avg_copies: 4.0
 - name: Invasion of Gobakhan
@@ -144,7 +141,10 @@ top_cards:
 - name: Glittering Wish
   weight: 0.0455
   avg_copies: 4.0
-- name: Detect Intrusion
+- name: Hexing Squelcher
+  weight: 0.0455
+  avg_copies: 4.0
+- name: Gemstone Mine
   weight: 0.0455
   avg_copies: 4.0
 - name: Thrun, the Last Troll
@@ -153,46 +153,46 @@ top_cards:
 - name: Eladamri's Call
   weight: 0.0455
   avg_copies: 2.0
-- name: Spell Snare
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Lush Portico
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Firespout
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Nature's Chant
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Raph & Mikey, Troublemakers
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Commercial District
+- name: Meticulous Archive
   weight: 0.0455
   avg_copies: 1.0
 - name: Borborygmos Enraged
   weight: 0.0455
   avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.0455
-  avg_copies: 1.0
 - name: Preordain
   weight: 0.0455
   avg_copies: 1.0
-- name: Detention Sphere
+- name: Lush Portico
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Raph & Mikey, Troublemakers
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Nature's Chant
   weight: 0.0455
   avg_copies: 1.0
 - name: Stump Stomp
   weight: 0.0455
   avg_copies: 1.0
+- name: Brainsurge
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Firespout
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Spell Snare
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Detention Sphere
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.0455
+  avg_copies: 1.0
 - name: Island
   weight: 0.0455
   avg_copies: 1.0
-- name: Brainsurge
+- name: Commercial District
   weight: 0.0455
   avg_copies: 1.0
 ---

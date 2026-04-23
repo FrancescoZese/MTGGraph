@@ -18,7 +18,7 @@ Total lists: 1028
    Midrange-control deck combining the energy package (Phlage, Galvanic Discharge) with Solitude and Quantum Riddler for removal and value. Phelia and Casey Jones provide blink synergies.
    See: `archetypes/jeskai-energy.md`
 
-4. **Reanimator** (5.7%, 59 lists) [WUBRG]
+4. **Reanimator** (5.7%, 59 lists) [WUBG]
    See: `archetypes/reanimator.md`
 
 5. **Dimir Control** (4.6%, 47 lists) [UB]
@@ -60,13 +60,13 @@ Total lists: 1028
    Combo deck using Neoform and Eldritch Evolution to sacrifice Allosaurus Rider into a game-ending threat.
    See: `archetypes/neoform-combo.md`
 
-15. **Eldrazi Ramp** (2.0%, 21 lists) [RG]
+15. **Eldrazi Ramp** (2.0%, 21 lists) [G]
    See: `archetypes/eldrazi-ramp.md`
 
 16. **Izzet Artifacts** (2.0%, 21 lists) [UR]
    See: `archetypes/izzet-artifacts.md`
 
-17. **Living End** (1.8%, 19 lists) [WUBG]
+17. **Living End** (1.8%, 19 lists) [UBG]
    Cascade combo deck that cycles or mills creatures into the graveyard, then cascades into Living End to reanimate them all at once.
    See: `archetypes/living-end.md`
 
@@ -126,10 +126,10 @@ Total lists: 1028
    Midrange blink deck using Phelia and Ephemerate to generate value from Overlord of the Balemurk and Orcish Bowmasters.
    See: `archetypes/orzhov-blink.md`
 
-33. **Scapeshift Combo** (0.4%, 4 lists) [URG]
+33. **Scapeshift Combo** (0.4%, 4 lists) [G]
    See: `archetypes/scapeshift-combo.md`
 
-34. **Dredge** (0.4%, 4 lists) [UBRG]
+34. **Dredge** (0.4%, 4 lists) [BRG]
    See: `archetypes/dredge.md`
 
 35. **Mono Red Belcher** (0.4%, 4 lists) [RG]

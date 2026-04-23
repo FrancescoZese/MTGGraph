@@ -1,6 +1,5 @@
 ---
 colors:
-- W
 - U
 - B
 - G
@@ -41,10 +40,10 @@ top_cards:
 - name: Forest
   weight: 1.0
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Island
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -92,10 +91,10 @@ top_cards:
 - name: Overgrown Tomb
   weight: 0.5789
   avg_copies: 1.09
-- name: Halo Forager
+- name: Undercity Sewers
   weight: 0.5789
   avg_copies: 1.0
-- name: Undercity Sewers
+- name: Halo Forager
   weight: 0.5789
   avg_copies: 1.0
 - name: Deceit
@@ -131,13 +130,13 @@ top_cards:
 - name: Troll of Khazad-dûm
   weight: 0.4211
   avg_copies: 1.62
-- name: Disciple of Freyalise
+- name: Lush Portico
   weight: 0.4211
   avg_copies: 1.0
 - name: Boseiju, Who Endures
   weight: 0.4211
   avg_copies: 1.0
-- name: Lush Portico
+- name: Disciple of Freyalise
   weight: 0.4211
   avg_copies: 1.0
 - name: Temple Garden
@@ -146,10 +145,10 @@ top_cards:
 - name: Clarion Conqueror
   weight: 0.3684
   avg_copies: 2.57
-- name: Hallowed Fountain
+- name: Meticulous Archive
   weight: 0.3684
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Hallowed Fountain
   weight: 0.3684
   avg_copies: 1.0
 - name: Striped Riverwinder
@@ -164,16 +163,16 @@ top_cards:
 - name: Swamp
   weight: 0.2632
   avg_copies: 1.0
-- name: Deafening Silence
-  weight: 0.2105
-  avg_copies: 1.0
 - name: Flare of Denial
   weight: 0.2105
   avg_copies: 1.0
-- name: Fracturing Gust
-  weight: 0.1579
+- name: Deafening Silence
+  weight: 0.2105
   avg_copies: 1.0
 - name: Archon of Cruelty
+  weight: 0.1579
+  avg_copies: 1.0
+- name: Fracturing Gust
   weight: 0.1579
   avg_copies: 1.0
 - name: Harbinger of the Seas
@@ -194,13 +193,13 @@ top_cards:
 - name: Atraxa, Grand Unifier
   weight: 0.0526
   avg_copies: 3.0
-- name: Flooded Strand
-  weight: 0.0526
-  avg_copies: 2.0
 - name: Titanoth Rex
   weight: 0.0526
   avg_copies: 2.0
 - name: Steam Vents
+  weight: 0.0526
+  avg_copies: 2.0
+- name: Flooded Strand
   weight: 0.0526
   avg_copies: 2.0
 - name: Verdant Catacombs
@@ -209,16 +208,16 @@ top_cards:
 - name: Collector Ouphe
   weight: 0.0526
   avg_copies: 1.0
-- name: Press the Enemy
+- name: Windcaller Aven
   weight: 0.0526
   avg_copies: 1.0
-- name: Sunken Ruins
+- name: Press the Enemy
   weight: 0.0526
   avg_copies: 1.0
 - name: Murderous Cut
   weight: 0.0526
   avg_copies: 1.0
-- name: Windcaller Aven
+- name: Sunken Ruins
   weight: 0.0526
   avg_copies: 1.0
 - name: Stomping Ground

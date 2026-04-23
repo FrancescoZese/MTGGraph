@@ -141,10 +141,10 @@ top_cards:
 - name: Flusterstorm
   weight: 0.0707
   avg_copies: 1.0
-- name: Hurkyl's Recall
+- name: Otawara, Soaring City
   weight: 0.0606
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Hurkyl's Recall
   weight: 0.0606
   avg_copies: 1.0
 - name: Vandalblast
@@ -156,10 +156,10 @@ top_cards:
 - name: Haywire Mite
   weight: 0.0404
   avg_copies: 1.0
-- name: Springleaf Drum
+- name: Salvage Titan
   weight: 0.0303
   avg_copies: 1.0
-- name: Salvage Titan
+- name: Springleaf Drum
   weight: 0.0303
   avg_copies: 1.0
 - name: Snow-Covered Island
@@ -171,37 +171,37 @@ top_cards:
 - name: Polluted Delta
   weight: 0.0202
   avg_copies: 1.0
+- name: Detect Intrusion
+  weight: 0.0101
+  avg_copies: 2.0
+- name: Shattering Spree
+  weight: 0.0101
+  avg_copies: 2.0
 - name: Glimmervoid
   weight: 0.0101
   avg_copies: 2.0
 - name: Prismari Charm
   weight: 0.0101
   avg_copies: 2.0
-- name: Shattering Spree
-  weight: 0.0101
-  avg_copies: 2.0
-- name: Detect Intrusion
-  weight: 0.0101
-  avg_copies: 2.0
-- name: Chandra, Spark Hunter
-  weight: 0.0101
-  avg_copies: 1.0
 - name: Jokulmorder
   weight: 0.0101
   avg_copies: 1.0
-- name: Flooded Strand
-  weight: 0.0101
-  avg_copies: 1.0
 - name: Void Mirror
-  weight: 0.0101
-  avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
   weight: 0.0101
   avg_copies: 1.0
 - name: Minamo, School at Water's Edge
   weight: 0.0101
   avg_copies: 1.0
 - name: Ghirapur Aether Grid
+  weight: 0.0101
+  avg_copies: 1.0
+- name: Flooded Strand
+  weight: 0.0101
+  avg_copies: 1.0
+- name: Chandra, Spark Hunter
+  weight: 0.0101
+  avg_copies: 1.0
+- name: Tamiyo, Inquisitive Student
   weight: 0.0101
   avg_copies: 1.0
 ---

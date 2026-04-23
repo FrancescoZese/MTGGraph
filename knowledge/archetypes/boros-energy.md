@@ -18,10 +18,10 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 3.86
-- name: Phlage, Titan of Fire's Fury
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 3.83
-- name: Arid Mesa
+- name: Phlage, Titan of Fire's Fury
   weight: 1.0
   avg_copies: 3.83
 - name: Arena of Glory
@@ -147,10 +147,10 @@ top_cards:
 - name: Witch Enchanter
   weight: 0.0284
   avg_copies: 1.17
-- name: Destroy Evil
+- name: Snow-Covered Mountain
   weight: 0.0284
   avg_copies: 1.0
-- name: Snow-Covered Mountain
+- name: Destroy Evil
   weight: 0.0284
   avg_copies: 1.0
 - name: Snow-Covered Plains
@@ -180,10 +180,10 @@ top_cards:
 - name: Wear
   weight: 0.0095
   avg_copies: 2.0
-- name: Hallowed Moonlight
+- name: Aven Mindcensor
   weight: 0.0095
   avg_copies: 1.0
-- name: Aven Mindcensor
+- name: Hallowed Moonlight
   weight: 0.0095
   avg_copies: 1.0
 - name: Showdown of the Skalds
@@ -192,22 +192,16 @@ top_cards:
 - name: Starfield Shepherd
   weight: 0.0047
   avg_copies: 4.0
-- name: Unlicensed Hearse
-  weight: 0.0047
-  avg_copies: 2.0
-- name: Kataki, War's Wage
-  weight: 0.0047
-  avg_copies: 2.0
-- name: Ephemerate
+- name: The Battle of Bywater
   weight: 0.0047
   avg_copies: 2.0
 - name: White Orchid Phantom
   weight: 0.0047
   avg_copies: 2.0
-- name: The Battle of Bywater
+- name: Screaming Nemesis
   weight: 0.0047
   avg_copies: 2.0
-- name: Screaming Nemesis
+- name: Ephemerate
   weight: 0.0047
   avg_copies: 2.0
 - name: Reprieve
@@ -216,7 +210,16 @@ top_cards:
 - name: Stony Silence
   weight: 0.0047
   avg_copies: 2.0
-- name: Duty Beyond Death
+- name: Unlicensed Hearse
+  weight: 0.0047
+  avg_copies: 2.0
+- name: Kataki, War's Wage
+  weight: 0.0047
+  avg_copies: 2.0
+- name: Cool but Rude
+  weight: 0.0047
+  avg_copies: 1.0
+- name: The Ooze
   weight: 0.0047
   avg_copies: 1.0
 - name: Prismatic Ending
@@ -228,19 +231,16 @@ top_cards:
 - name: Giant Killer
   weight: 0.0047
   avg_copies: 1.0
-- name: Cool but Rude
+- name: Curious Farm Animals
   weight: 0.0047
   avg_copies: 1.0
 - name: Tunnel Ignus
   weight: 0.0047
   avg_copies: 1.0
-- name: The Ooze
-  weight: 0.0047
-  avg_copies: 1.0
 - name: Elspeth, Storm Slayer
   weight: 0.0047
   avg_copies: 1.0
-- name: Curious Farm Animals
+- name: Duty Beyond Death
   weight: 0.0047
   avg_copies: 1.0
 - name: Redirect Lightning

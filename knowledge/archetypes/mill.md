@@ -6,19 +6,19 @@ name: Mill
 meta_share: 0.0058
 list_count: 6
 top_cards:
-- name: Ruin Crab
+- name: Fractured Sanity
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ruin Crab
   weight: 1.0
   avg_copies: 4.0
 - name: Hedron Crab
   weight: 1.0
   avg_copies: 4.0
 - name: Archive Trap
-  weight: 1.0
-  avg_copies: 4.0
-- name: Fractured Sanity
   weight: 1.0
   avg_copies: 4.0
 - name: Field of Ruin
@@ -30,10 +30,10 @@ top_cards:
 - name: Drown in the Loch
   weight: 1.0
   avg_copies: 3.17
-- name: Visions of Beyond
+- name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 2.83
-- name: Soul-Guide Lantern
+- name: Visions of Beyond
   weight: 1.0
   avg_copies: 2.83
 - name: Tasha's Hideous Laughter
@@ -51,16 +51,16 @@ top_cards:
 - name: Jace, the Perfected Mind
   weight: 1.0
   avg_copies: 1.17
-- name: Oboro, Palace in the Clouds
-  weight: 1.0
-  avg_copies: 1.0
-- name: Undercity Sewers
+- name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
 - name: Shelldock Isle
   weight: 1.0
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Oboro, Palace in the Clouds
+  weight: 1.0
+  avg_copies: 1.0
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
 - name: Snow-Covered Island
@@ -87,31 +87,31 @@ top_cards:
 - name: Island
   weight: 0.5
   avg_copies: 2.67
+- name: Ghost Quarter
+  weight: 0.5
+  avg_copies: 2.0
 - name: Glimpse the Unthinkable
   weight: 0.5
   avg_copies: 2.0
 - name: Ensnaring Bridge
   weight: 0.5
   avg_copies: 2.0
-- name: Ghost Quarter
-  weight: 0.5
-  avg_copies: 2.0
-- name: Swamp
-  weight: 0.5
-  avg_copies: 1.67
 - name: Consign to Memory
   weight: 0.5
   avg_copies: 1.67
-- name: Crypt Incursion
+- name: Swamp
   weight: 0.5
-  avg_copies: 1.0
-- name: The Meathook Massacre
-  weight: 0.5
-  avg_copies: 1.0
+  avg_copies: 1.67
 - name: Misty Rainforest
   weight: 0.5
   avg_copies: 1.0
+- name: Crypt Incursion
+  weight: 0.5
+  avg_copies: 1.0
 - name: Murderous Cut
+  weight: 0.5
+  avg_copies: 1.0
+- name: The Meathook Massacre
   weight: 0.5
   avg_copies: 1.0
 - name: Kitsune's Technique
@@ -120,43 +120,43 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 0.3333
   avg_copies: 2.0
-- name: Echoing Truth
+- name: Damnation
   weight: 0.3333
   avg_copies: 1.0
 - name: Cephalid Coliseum
   weight: 0.3333
   avg_copies: 1.0
-- name: Mikokoro, Center of the Sea
+- name: Echoing Truth
   weight: 0.3333
   avg_copies: 1.0
-- name: Damnation
+- name: Mikokoro, Center of the Sea
   weight: 0.3333
   avg_copies: 1.0
 - name: Baleful Mastery
   weight: 0.3333
   avg_copies: 1.0
-- name: Vendetta
-  weight: 0.1667
-  avg_copies: 2.0
 - name: Mystical Dispute
   weight: 0.1667
   avg_copies: 2.0
 - name: Chalice of the Void
   weight: 0.1667
   avg_copies: 2.0
-- name: Nihil Spellbomb
+- name: Vendetta
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Go for the Throat
   weight: 0.1667
   avg_copies: 1.0
 - name: Sink into Stupor
   weight: 0.1667
   avg_copies: 1.0
-- name: Long Goodbye
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Go for the Throat
+- name: Nihil Spellbomb
   weight: 0.1667
   avg_copies: 1.0
 - name: Illness in the Ranks
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Long Goodbye
   weight: 0.1667
   avg_copies: 1.0
 ---
