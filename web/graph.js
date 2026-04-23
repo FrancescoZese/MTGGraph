@@ -1107,8 +1107,8 @@ function centerOnConnected(d, edges) {
     // Use 90th percentile bounding box to exclude outlier nodes
     const xs = points.map(p => p.x).sort((a, b) => a - b);
     const ys = points.map(p => p.y).sort((a, b) => a - b);
-    const lo = Math.floor(points.length * 0.05);
-    const hi = Math.min(Math.ceil(points.length * 0.95), points.length - 1);
+    const lo = Math.floor(points.length * 0.15);
+    const hi = Math.min(Math.ceil(points.length * 0.85), points.length - 1);
     const minX = xs[lo], maxX = xs[hi];
     const minY = ys[lo], maxY = ys[hi];
 
