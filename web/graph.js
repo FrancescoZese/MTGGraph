@@ -34,7 +34,7 @@ function cardDotColor(colors) {
 
 /* ── Sizing ── */
 
-function archRadius(d) { return 8 + d.meta_share * 85; }
+function archRadius(d) { return 10 + Math.sqrt(d.meta_share) * 55; }
 function cardRadius(d) { return 1.8 + d.meta_presence * 10; }
 
 /* ── Init ── */
