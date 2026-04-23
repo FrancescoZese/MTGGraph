@@ -723,14 +723,15 @@ function renderGraph(data, skipAnimation) {
         // Update event handlers
         cardSel
             .on("mouseover", (event, d) => {
+                if (isMobile()) return;
                 let html = `<div class="tt-name">${d.name}</div>`;
                 html += `<div class="tt-stat">${(d.meta_presence * 100).toFixed(1)}% presence</div>`;
                 if (d.image) html += `<img src="${d.image}" alt="${d.name}">`;
                 tooltip.innerHTML = html;
                 showTooltipEl();
             })
-            .on("mousemove", moveTooltip)
-            .on("mouseout", hideTooltip)
+            .on("mousemove", (event) => { if (!isMobile()) moveTooltip(event); })
+            .on("mouseout", () => { if (!isMobile()) hideTooltip(); })
             .on("click", (event, d) => {
                 event.stopPropagation();
                 if (isHighlighted) { resetHighlight(); return; }
@@ -741,13 +742,14 @@ function renderGraph(data, skipAnimation) {
 
         archSel
             .on("mouseover", (event, d) => {
+                if (isMobile()) return;
                 let html = `<div class="tt-name">${d.name}</div>`;
                 html += `<div class="tt-stat">${(d.meta_share * 100).toFixed(1)}% &middot; ${d.list_count} lists</div>`;
                 tooltip.innerHTML = html;
                 showTooltipEl();
             })
-            .on("mousemove", moveTooltip)
-            .on("mouseout", hideTooltip)
+            .on("mousemove", (event) => { if (!isMobile()) moveTooltip(event); })
+            .on("mouseout", () => { if (!isMobile()) hideTooltip(); })
             .on("click", (event, d) => {
                 event.stopPropagation();
                 if (isHighlighted) { resetHighlight(); return; }
@@ -1023,6 +1025,32 @@ function initMobileSheet() {
     document.getElementById("graph-container").addEventListener("click", () => {
         if (sheetOpen) closeMobileSheet();
     }, true);
+
+    // Swipe down to dismiss
+    if (isMobile()) {
+        const handle = document.getElementById("meta-sidebar-handle");
+        if (handle) {
+            let startY = 0, deltaY = 0;
+            handle.addEventListener("touchstart", (e) => {
+                startY = e.touches[0].clientY;
+                deltaY = 0;
+            }, { passive: true });
+            handle.addEventListener("touchmove", (e) => {
+                deltaY = e.touches[0].clientY - startY;
+                if (deltaY > 0) {
+                    e.preventDefault();
+                    gsap.set(sidebar, { y: deltaY * 0.7 });
+                }
+            }, { passive: false });
+            handle.addEventListener("touchend", () => {
+                if (deltaY > 60) {
+                    closeMobileSheet();
+                } else if (deltaY > 0) {
+                    gsap.to(sidebar, { y: 0, duration: 0.2, ease: "power2.out" });
+                }
+            }, { passive: true });
+        }
+    }
 }
 
 function openMobileSheet() {
@@ -1076,14 +1104,13 @@ function centerOnConnected(d, edges) {
     }
     if (points.length === 0) return;
 
-    // Bounding box
-    let minX = Infinity, minY = Infinity, maxX = -Infinity, maxY = -Infinity;
-    for (const p of points) {
-        if (p.x < minX) minX = p.x;
-        if (p.y < minY) minY = p.y;
-        if (p.x > maxX) maxX = p.x;
-        if (p.y > maxY) maxY = p.y;
-    }
+    // Use 90th percentile bounding box to exclude outlier nodes
+    const xs = points.map(p => p.x).sort((a, b) => a - b);
+    const ys = points.map(p => p.y).sort((a, b) => a - b);
+    const lo = Math.floor(points.length * 0.05);
+    const hi = Math.min(Math.ceil(points.length * 0.95), points.length - 1);
+    const minX = xs[lo], maxX = xs[hi];
+    const minY = ys[lo], maxY = ys[hi];
 
     const cx = (minX + maxX) / 2;
     const cy = (minY + maxY) / 2;
