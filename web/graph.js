@@ -184,9 +184,12 @@ function updateMetaSidebar(data) {
                 const edges = data.edges;
                 showArchetypeDetail(archNode, edges, nodeMap);
                 if (currentCardSel && currentArchSel && currentLinkSel && currentValidEdges) {
-                    highlight(archNode, currentValidEdges, currentCardSel, currentArchSel, currentLinkSel);
+                    // Use the D3 simulation node for highlight + pill positioning
+                    const simNode = currentNodeMap ? currentNodeMap.get(archId) : null;
+                    const hNode = simNode || archNode;
+                    highlight(hNode, currentValidEdges, currentCardSel, currentArchSel, currentLinkSel);
+                    showVariantsPill(hNode);
                 }
-                showVariantsPill(archNode);
             }
         });
     });
@@ -232,7 +235,8 @@ function updateCardsSidebar(data) {
                 const edges = data.edges;
                 showCardDetail(cardNode, edges, nodeMap);
                 if (currentCardSel && currentArchSel && currentLinkSel && currentValidEdges) {
-                    highlight(cardNode, currentValidEdges, currentCardSel, currentArchSel, currentLinkSel);
+                    const simNode = currentNodeMap ? currentNodeMap.get(cardId) : null;
+                    highlight(simNode || cardNode, currentValidEdges, currentCardSel, currentArchSel, currentLinkSel);
                 }
             }
         });
@@ -468,8 +472,6 @@ function buildMobileFilterChips() {
 
     const presets = [
         { label: "All", index: sidebarArchs.length },
-        { label: "Top 10", index: Math.min(10, sidebarArchs.length) },
-        { label: "Top 20", index: Math.min(20, sidebarArchs.length) },
     ];
     if (idx1 > 0 && idx1 < sidebarArchs.length) {
         presets.push({ label: "> 1%", index: idx1 });
