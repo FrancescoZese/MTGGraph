@@ -960,23 +960,22 @@ body {
     transition: opacity .3s ease, transform .3s ease;
 }
 
-/* Cream veil for legibility — kept on a pseudo-element so the horizontal mask
-   only fades the background, never the title/link text itself. */
-#arch-header::before {
-    content: "";
-    position: absolute;
-    inset: 0;
-    z-index: -1;
-    background: linear-gradient(to bottom, var(--bg) 35%, rgba(244, 241, 235, 0) 100%);
-    -webkit-mask-image: linear-gradient(to right, transparent 0%, black 22%, black 78%, transparent 100%);
-            mask-image: linear-gradient(to right, transparent 0%, black 22%, black 78%, transparent 100%);
-    pointer-events: none;
-}
-
 #arch-header.visible {
     display: flex;
     opacity: 1;
     transform: translateY(0);
+}
+
+/* Cream halo applied to glyphs only — the soft glow follows the contour of the
+   text instead of painting a rectangular veil that bleeds onto the sidebar. */
+.arch-header-name,
+.arch-header-variants {
+    text-shadow:
+        0 0 28px var(--bg),
+        0 0 18px var(--bg),
+        0 0 12px var(--bg),
+        0 0 7px var(--bg),
+        0 0 3px var(--bg);
 }
 
 .arch-header-name {
