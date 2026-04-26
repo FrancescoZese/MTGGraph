@@ -2563,12 +2563,16 @@ function showPlayerDetail(pilot, data) {
 /* ── Drag ── */
 
 function makeDraggable() {
-    // On mobile, fingers landing on nodes were capturing the gesture as a
-    // node-drag instead of a viewport pan / pinch-zoom. Drop the drag
-    // behavior on touch so every touch is forwarded to d3.zoom.
-    // Click handlers still fire on tap (no movement = click, not drag).
-    if (isMobile()) return d3.drag().filter(() => false);
+    // Reject every touch / pen pointer at the filter stage so the gesture
+    // bubbles up to d3.zoom (pan + pinch). Mouse drags still work for
+    // desktop layout tweaks. Tap-to-highlight is unaffected because the
+    // click event still fires when there's no drag movement.
     return d3.drag()
+        .filter(event => {
+            if (event.pointerType && event.pointerType !== "mouse") return false;
+            if (event.type && event.type.startsWith("touch")) return false;
+            return !event.button; // mouse: only primary button
+        })
         .on("start", (e, d) => {
             if (!e.active) simulation.alphaTarget(0.3).restart();
             d.fx = d.x; d.fy = d.y;
