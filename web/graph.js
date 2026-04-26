@@ -178,7 +178,7 @@ function updateMetaSidebar(data) {
             const archNode = data.nodes.find(n => n.id === archId);
             if (archNode) {
                 if (sheetOpen) closeMobileSheet();
-                removeVariantsPill();
+                removeArchHeader();
                 isHighlighted = false;
                 const nodeMap = new Map(data.nodes.map(n => [n.id, n]));
                 const edges = data.edges;
@@ -188,7 +188,8 @@ function updateMetaSidebar(data) {
                     if (simNode) {
                         highlight(simNode, currentValidEdges, currentCardSel, currentArchSel, currentLinkSel);
                         if (!simNode.lists) simNode.lists = archNode.lists;
-                        showVariantsPill(simNode);
+                        centerOnConnected(simNode, currentValidEdges);
+                        showArchHeader(simNode);
                     }
                 }
             }
@@ -842,9 +843,8 @@ function renderGraph(data, skipAnimation) {
                 if (isHighlighted) { resetHighlight(); return; }
                 showArchetypeDetail(d, validEdges, nodeMap);
                 highlight(d, validEdges, cardSel, archSel, link);
-                if (isMobile()) centerOnConnected(d, validEdges);
-
-                showVariantsPill(d);
+                centerOnConnected(d, validEdges);
+                showArchHeader(d);
             });
 
         // Update stored refs for filter + sidebar
@@ -1032,54 +1032,53 @@ function unhighlight(cardSel, archSel, linkSel) {
     }
 }
 
-let variantsPill = null;
-function removeVariantsPill() {
-    if (variantsPill) { variantsPill.remove(); variantsPill = null; }
-    if (simulation) simulation.on("tick.pill", null);
+let selectedArchId = null;
+
+function removeArchHeader() {
+    const header = document.getElementById("arch-header");
+    if (header) header.classList.remove("visible");
+    if (selectedArchId && currentSvg) {
+        currentSvg.selectAll("g.arch-node").classed("label-hidden", false);
+    }
+    selectedArchId = null;
 }
 
-function showVariantsPill(d) {
-    removeVariantsPill();
-    const lists = d.lists || [];
-    if (lists.length < 3 || !currentSvg) return;
+function showArchHeader(d) {
+    removeArchHeader();
+    const header = document.getElementById("arch-header");
+    if (!header || !currentSvg) return;
 
-    const svgG = currentSvg.select("g");
-    // Outer group: position transform driven by simulation tick — must not be touched by GSAP.
-    variantsPill = svgG.append("g")
-        .attr("class", "variants-pill")
-        .attr("cursor", "pointer")
-        .on("click", (e) => {
+    const lists = d.lists || [];
+    const nameEl = header.querySelector(".arch-header-name");
+    const variantsEl = header.querySelector(".arch-header-variants");
+    nameEl.textContent = d.name;
+    if (lists.length >= 3) {
+        variantsEl.classList.remove("hidden");
+        variantsEl.onclick = (e) => {
             e.stopPropagation();
             openVariantsOverlay(d.name, lists, d.colors, d.medoid_index, d.cluster_threshold);
-        });
-    // Inner group: GSAP entrance animation lives here so it cannot clobber the outer translate.
-    const inner = variantsPill.append("g");
-    inner.append("rect")
-        .attr("rx", 12).attr("ry", 12)
-        .attr("width", 90).attr("height", 28)
-        .attr("x", -45).attr("y", 0)
-        .attr("fill", "var(--bg)")
-        .attr("stroke", "var(--accent)")
-        .attr("stroke-width", 1.5)
-        .attr("opacity", 0.95);
-    inner.append("text")
-        .attr("text-anchor", "middle")
-        .attr("y", 19)
-        .attr("font-family", "'Instrument Serif', Georgia, serif")
-        .attr("font-size", 15)
-        .attr("fill", "var(--accent)")
-        .attr("pointer-events", "none")
-        .text("variants");
-    const r = archRadius(d);
-    const setPos = () => variantsPill.attr("transform", `translate(${d.x},${d.y + r + 18})`);
-    setPos();
-    if (simulation) simulation.on("tick.pill", setPos);
-    gsap.fromTo(inner.node(), { opacity: 0, y: -5 }, { opacity: 1, y: 0, duration: 0.3, ease: "power2.out" });
+        };
+    } else {
+        variantsEl.classList.add("hidden");
+        variantsEl.onclick = null;
+    }
+
+    selectedArchId = d.id;
+    currentSvg.selectAll("g.arch-node")
+        .classed("label-hidden", n => n.id === d.id);
+
+    // Force reflow so the transition runs even if .visible was just toggled off.
+    header.offsetWidth;
+    header.classList.add("visible");
 }
+
+// Backward-compatible aliases — older call sites still reach the pill API.
+function removeVariantsPill() { removeArchHeader(); }
+function showVariantsPill(d) { showArchHeader(d); }
 
 function resetHighlight() {
     closePanel();
-    removeVariantsPill();
+    removeArchHeader();
     unhighlight(currentCardSel, currentArchSel, currentLinkSel);
     isHighlighted = false;
 }
@@ -2447,7 +2446,10 @@ function showCardDetail(d, edges, nodeMap) {
         const tid = typeof edge.target === "object" ? edge.target.id : edge.target;
         const arch = nodeMap.get(tid);
         const name = arch ? arch.name : tid;
-        html += `<li><span class="card-name">${name}</span>`;
+        const archPips = ((arch ? arch.colors : null) || []).map(c =>
+            `<img class="meta-mana" src="https://svgs.scryfall.io/card-symbols/${c}.svg" alt="${c}">`
+        ).join("");
+        html += `<li><span class="card-name">${name} ${archPips}</span>`;
         html += `<span class="card-stat">${edge.avg_copies.toFixed(1)}x &middot; ${(edge.weight * 100).toFixed(0)}%</span></li>`;
     }
     html += `</ul>`;
