@@ -74,52 +74,57 @@ function applyAllFilters(skipAnimation) {
     const showLeague = document.getElementById("filter-league").checked;
     const minMeta = metaThreshold;
 
-    // Deep copy and filter by source type
-    const filtered = JSON.parse(JSON.stringify(allData));
-
-    for (const node of filtered.nodes) {
+    // Compute per-archetype source-filtered lists/counts without deep-cloning the
+    // whole dataset (was JSON.parse(JSON.stringify(allData)) twice — ~30-50ms on
+    // mobile per filter change).
+    const archOverrides = new Map(); // id -> { lists, list_count, meta_share }
+    let totalLists = 0;
+    for (const node of allData.nodes) {
         if (node.type !== "archetype" || !node.lists) continue;
-        node.lists = node.lists.filter(l => {
+        const lists = node.lists.filter(l => {
             const src = l.source || "";
             if (src.includes("Challenge") && !showChallenge) return false;
             if (src.includes("League") && !showLeague) return false;
             return true;
         });
-        node.list_count = node.lists.length;
+        archOverrides.set(node.id, { lists, list_count: lists.length });
+        totalLists += lists.length;
+    }
+    for (const o of archOverrides.values()) {
+        o.meta_share = totalLists > 0 ? o.list_count / totalLists : 0;
     }
 
-    // Recalculate meta_share
-    const totalLists = filtered.nodes
-        .filter(n => n.type === "archetype")
-        .reduce((s, n) => s + n.list_count, 0);
+    // Shallow-copy archetype nodes to apply the overrides; cards/edges reused as-is.
+    const sourceFilteredNodes = allData.nodes.map(n => {
+        if (n.type !== "archetype") return n;
+        const o = archOverrides.get(n.id);
+        return o ? { ...n, lists: o.lists, list_count: o.list_count, meta_share: o.meta_share } : n;
+    });
 
-    for (const node of filtered.nodes) {
-        if (node.type === "archetype") {
-            node.meta_share = totalLists > 0 ? node.list_count / totalLists : 0;
-        }
-    }
+    // Sidebar view (before meta-threshold filter)
+    lastFilteredData = { ...allData, nodes: sourceFilteredNodes };
 
-    // Save source-filtered data (before meta threshold) for sidebar
-    lastFilteredData = JSON.parse(JSON.stringify(filtered));
-
-    // Filter by meta threshold + remove empty archetypes
+    // Meta-threshold filter for graph render
     const activeArchIds = new Set(
-        filtered.nodes
+        sourceFilteredNodes
             .filter(n => n.type === "archetype" && n.list_count > 0 &&
                 (rogueMode ? n.meta_share < 0.01 : n.meta_share >= minMeta))
             .map(n => n.id)
     );
     const activeCardIds = new Set();
-    for (const e of filtered.edges) {
+    for (const e of allData.edges) {
         if (activeArchIds.has(e.target)) activeCardIds.add(e.source);
     }
-    filtered.nodes = filtered.nodes.filter(n =>
-        (n.type === "archetype" && activeArchIds.has(n.id)) ||
-        (n.type === "card" && activeCardIds.has(n.id))
-    );
-    filtered.edges = filtered.edges.filter(e =>
-        activeArchIds.has(e.target) && activeCardIds.has(e.source)
-    );
+    const filtered = {
+        ...allData,
+        nodes: sourceFilteredNodes.filter(n =>
+            (n.type === "archetype" && activeArchIds.has(n.id)) ||
+            (n.type === "card" && activeCardIds.has(n.id))
+        ),
+        edges: allData.edges.filter(e =>
+            activeArchIds.has(e.target) && activeCardIds.has(e.source)
+        ),
+    };
 
     updateStats(filtered);
     updateMetaSidebar(lastFilteredData);
