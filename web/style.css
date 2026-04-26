@@ -1090,7 +1090,8 @@ body {
     .stat-block { display: none; }
     .masthead-divider { display: none; }
 
-    /* Compact stats strip */
+    /* Compact stats strip — no background bar across the screen; the text
+       sits on a soft cream halo so nodes that drift up stay visible. */
     #mobile-stats {
         display: flex;
         position: fixed;
@@ -1102,11 +1103,16 @@ body {
         font-family: var(--font-mono);
         font-size: 10px;
         color: var(--ink-faint);
-        background: linear-gradient(to bottom, var(--bg) 60%, transparent);
         pointer-events: none;
     }
 
-    #mobile-stats span { white-space: nowrap; }
+    #mobile-stats span {
+        white-space: nowrap;
+        text-shadow:
+            0 0 10px var(--bg),
+            0 0 6px var(--bg),
+            0 0 3px var(--bg);
+    }
 
     /* Toggle button */
     #meta-toggle {
