@@ -119,27 +119,6 @@ def find_new_events(since: str, ingested: set[tuple[str, str]],
     except requests.exceptions.RequestException as e:
         print(f"  WARNING: Failed to fetch decklists page: {e}", flush=True)
 
-    # Strategy 2: Generate league URLs for dates not found in page
-    # Modern League ID is always 10397
-    if not challenges_only:
-        from datetime import datetime, timedelta
-        since_date = datetime.strptime(since, "%Y-%m-%d").date()
-        today = datetime.now().date()
-        d = since_date + timedelta(days=1)
-        while d <= today:
-            date_str = d.strftime("%Y-%m-%d")
-            slug = f"modern-league-{date_str}10397"
-            if slug not in seen and (date_str, "MTGO Modern League") not in ingested:
-                seen.add(slug)
-                events.append({
-                    "slug": slug,
-                    "date": date_str,
-                    "name": "MTGO Modern League",
-                    "type": "league",
-                    "url": f"{MTGO_BASE_URL}/{slug}",
-                })
-            d += timedelta(days=1)
-
     # Sort by date ascending
     events.sort(key=lambda e: e["date"])
 
