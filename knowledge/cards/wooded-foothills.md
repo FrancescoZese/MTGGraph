@@ -14,12 +14,12 @@ archetypes:
   amulet-titan:
     weight: 0.0833
     avg_copies: 1.0
-  reanimator:
-    weight: 0.0169
-    avg_copies: 1.0
   domain-zoo:
     weight: 1.0
     avg_copies: 3.76
+  reanimator:
+    weight: 0.0435
+    avg_copies: 1.0
   neoform-combo:
     weight: 0.76
     avg_copies: 1.0

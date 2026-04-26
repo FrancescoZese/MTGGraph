@@ -21,12 +21,12 @@ archetypes:
   jeskai-energy:
     weight: 0.0471
     avg_copies: 3.0
-  reanimator:
-    weight: 0.0169
-    avg_copies: 3.0
   domain-zoo:
     weight: 1.0
     avg_copies: 3.92
+  reanimator:
+    weight: 0.0435
+    avg_copies: 3.0
   burn:
     weight: 1.0
     avg_copies: 3.25

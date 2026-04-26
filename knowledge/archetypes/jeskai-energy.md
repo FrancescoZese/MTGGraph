@@ -163,64 +163,49 @@ top_cards:
 - name: Snow-Covered Island
   weight: 0.0471
   avg_copies: 1.0
-- name: Unholy Heat
-  weight: 0.0353
-  avg_copies: 1.0
 - name: Destroy Evil
   weight: 0.0353
   avg_copies: 1.0
-- name: Thraben Charm
-  weight: 0.0235
-  avg_copies: 1.5
+- name: Unholy Heat
+  weight: 0.0353
+  avg_copies: 1.0
 - name: Stock Up
   weight: 0.0235
   avg_copies: 1.5
-- name: Wear
+- name: Thraben Charm
   weight: 0.0235
-  avg_copies: 1.0
-- name: Ajani Vengeant
-  weight: 0.0235
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Jace, the Mind Sculptor
+  weight: 0.0235
+  avg_copies: 1.0
+- name: Wear
   weight: 0.0235
   avg_copies: 1.0
 - name: Floodfarm Verge
   weight: 0.0235
   avg_copies: 1.0
+- name: Ajani Vengeant
+  weight: 0.0235
+  avg_copies: 1.0
 - name: Orim's Chant
   weight: 0.0118
   avg_copies: 4.0
-- name: Misty Rainforest
+- name: Windswept Heath
   weight: 0.0118
   avg_copies: 3.0
-- name: Wrenn and Six
+- name: Misty Rainforest
   weight: 0.0118
   avg_copies: 3.0
 - name: Consult the Star Charts
   weight: 0.0118
   avg_copies: 3.0
-- name: Windswept Heath
+- name: Wrenn and Six
   weight: 0.0118
   avg_copies: 3.0
-- name: Boseiju, Who Endures
-  weight: 0.0118
-  avg_copies: 2.0
-- name: Eternal Witness
-  weight: 0.0118
-  avg_copies: 2.0
 - name: Cryogen Relic
   weight: 0.0118
   avg_copies: 2.0
-- name: Stony Silence
-  weight: 0.0118
-  avg_copies: 2.0
 - name: Witch Enchanter
-  weight: 0.0118
-  avg_copies: 2.0
-- name: Ghost Vacuum
-  weight: 0.0118
-  avg_copies: 2.0
-- name: White Orchid Phantom
   weight: 0.0118
   avg_copies: 2.0
 - name: Mana Leak
@@ -229,37 +214,52 @@ top_cards:
 - name: Tune the Narrative
   weight: 0.0118
   avg_copies: 2.0
-- name: Stomping Ground
+- name: White Orchid Phantom
   weight: 0.0118
-  avg_copies: 1.0
-- name: Supreme Verdict
+  avg_copies: 2.0
+- name: Stony Silence
   weight: 0.0118
-  avg_copies: 1.0
-- name: Fire Magic
+  avg_copies: 2.0
+- name: Eternal Witness
   weight: 0.0118
-  avg_copies: 1.0
-- name: Omnath, Locus of Creation
+  avg_copies: 2.0
+- name: Boseiju, Who Endures
   weight: 0.0118
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: Ghost Vacuum
+  weight: 0.0118
+  avg_copies: 2.0
 - name: Meltdown
-  weight: 0.0118
-  avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.0118
-  avg_copies: 1.0
-- name: Lush Portico
-  weight: 0.0118
-  avg_copies: 1.0
-- name: Subtlety
-  weight: 0.0118
-  avg_copies: 1.0
-- name: Nihil Spellbomb
   weight: 0.0118
   avg_copies: 1.0
 - name: Temple Garden
   weight: 0.0118
   avg_copies: 1.0
+- name: Lush Portico
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Supreme Verdict
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Breeding Pool
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Nihil Spellbomb
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Subtlety
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Fire Magic
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Stomping Ground
+  weight: 0.0118
+  avg_copies: 1.0
 - name: Hedge Maze
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Omnath, Locus of Creation
   weight: 0.0118
   avg_copies: 1.0
 ---

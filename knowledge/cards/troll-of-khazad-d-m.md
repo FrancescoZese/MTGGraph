@@ -9,16 +9,16 @@ set: ltr
 type: Creature — Troll
 meta_presence: 0.0094
 archetypes:
-  reanimator:
-    weight: 0.0169
-    avg_copies: 1.0
   living-end:
     weight: 0.381
     avg_copies: 1.62
+  reanimator:
+    weight: 0.0435
+    avg_copies: 1.0
   rakdos-aggro:
     weight: 0.2
     avg_copies: 1.0
-  unknown-11:
+  goryo1:
     weight: 0.3333
     avg_copies: 1.0
 ---

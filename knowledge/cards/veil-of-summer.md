@@ -9,12 +9,12 @@ set: m20
 type: Instant
 meta_presence: 0.0239
 archetypes:
-  reanimator:
-    weight: 0.0169
-    avg_copies: 2.0
   hardened-scales:
     weight: 0.6667
     avg_copies: 1.0
+  reanimator:
+    weight: 0.0435
+    avg_copies: 2.0
   neoform-combo:
     weight: 0.84
     avg_copies: 2.63

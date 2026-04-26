@@ -15,15 +15,18 @@ archetypes:
   jeskai-energy:
     weight: 0.9882
     avg_copies: 3.8
-  reanimator:
-    weight: 0.7458
-    avg_copies: 2.94
+  goryo:
+    weight: 0.8409
+    avg_copies: 3.56
   necrodominance:
     weight: 0.05
     avg_copies: 3.0
   domain-zoo:
     weight: 0.027
     avg_copies: 1.0
+  reanimator:
+    weight: 0.5652
+    avg_copies: 1.38
   simic-ritual:
     weight: 0.0357
     avg_copies: 3.0
@@ -42,19 +45,16 @@ archetypes:
   izzet-artifacts:
     weight: 0.36
     avg_copies: 2.67
-  unknown-1:
-    weight: 0.75
-    avg_copies: 3.75
   unknown-9:
     weight: 1.0
     avg_copies: 4.0
-  unknown-11:
+  goryo1:
     weight: 0.6667
     avg_copies: 1.0
-  unknown-12:
+  goryo2:
     weight: 1.0
     avg_copies: 4.0
-  unknown-13:
+  goryo3:
     weight: 1.0
     avg_copies: 3.0
 ---

@@ -12,12 +12,12 @@ archetypes:
   amulet-titan:
     weight: 0.5208
     avg_copies: 2.8
-  reanimator:
-    weight: 0.0169
-    avg_copies: 4.0
   hardened-scales:
     weight: 0.6667
     avg_copies: 3.0
+  reanimator:
+    weight: 0.0435
+    avg_copies: 4.0
   kethis-combo:
     weight: 1.0
     avg_copies: 2.8

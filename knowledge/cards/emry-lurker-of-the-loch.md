@@ -18,7 +18,7 @@ archetypes:
   izzet-artifacts:
     weight: 1.0
     avg_copies: 3.96
-  unknown-17:
+  goryo7:
     weight: 1.0
     avg_copies: 2.0
 ---

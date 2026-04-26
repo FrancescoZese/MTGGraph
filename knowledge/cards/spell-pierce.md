@@ -16,7 +16,7 @@ archetypes:
     weight: 0.3077
     avg_copies: 1.0
   reanimator:
-    weight: 0.3051
+    weight: 0.7826
     avg_copies: 1.83
   izzet-prowess:
     weight: 0.7778
@@ -30,7 +30,7 @@ archetypes:
   unknown-4:
     weight: 0.5
     avg_copies: 1.0
-  unknown-11:
+  goryo1:
     weight: 0.6667
     avg_copies: 1.5
 ---

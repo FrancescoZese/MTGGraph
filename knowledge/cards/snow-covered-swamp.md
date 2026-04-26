@@ -11,8 +11,8 @@ archetypes:
   dimir-control:
     weight: 0.0189
     avg_copies: 1.0
-  reanimator:
-    weight: 0.0508
+  goryo:
+    weight: 0.0682
     avg_copies: 1.0
   mill:
     weight: 0.6667

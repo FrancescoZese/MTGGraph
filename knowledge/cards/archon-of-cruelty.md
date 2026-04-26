@@ -9,14 +9,14 @@ set: mh2
 type: Creature — Archon
 meta_presence: 0.0324
 archetypes:
-  reanimator:
-    weight: 0.3898
-    avg_copies: 4.0
   living-end:
     weight: 0.1429
     avg_copies: 1.0
   domain-zoo:
     weight: 0.027
+    avg_copies: 4.0
+  reanimator:
+    weight: 1.0
     avg_copies: 4.0
   indomitable-creativity:
     weight: 1.0
@@ -24,7 +24,7 @@ archetypes:
   unknown-9:
     weight: 1.0
     avg_copies: 4.0
-  unknown-11:
+  goryo1:
     weight: 1.0
     avg_copies: 4.0
 ---

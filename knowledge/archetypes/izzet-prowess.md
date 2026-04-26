@@ -111,10 +111,10 @@ top_cards:
 - name: Octopus Form
   weight: 0.1778
   avg_copies: 1.0
-- name: Firebending Lesson
+- name: It'll Quench Ya!
   weight: 0.1556
   avg_copies: 1.0
-- name: It'll Quench Ya!
+- name: Firebending Lesson
   weight: 0.1556
   avg_copies: 1.0
 - name: Tormod's Crypt
@@ -123,10 +123,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.1111
   avg_copies: 2.0
-- name: Abhorrent Oculus
+- name: Blood Moon
   weight: 0.1111
   avg_copies: 1.6
-- name: Blood Moon
+- name: Abhorrent Oculus
   weight: 0.1111
   avg_copies: 1.6
 - name: Force of Negation
@@ -192,19 +192,22 @@ top_cards:
 - name: Siege Smash
   weight: 0.0222
   avg_copies: 2.0
-- name: Sacred Foundry
-  weight: 0.0222
-  avg_copies: 1.0
 - name: Wear
   weight: 0.0222
   avg_copies: 1.0
+- name: Otawara, Soaring City
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Riverpyre Verge
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Pithing Needle
+  weight: 0.0222
+  avg_copies: 1.0
 - name: Flooded Strand
-  weight: 0.0222
-  avg_copies: 1.0
-- name: The Legend of Roku
-  weight: 0.0222
-  avg_copies: 1.0
-- name: Grafdigger's Cage
   weight: 0.0222
   avg_copies: 1.0
 - name: Flow State
@@ -213,22 +216,19 @@ top_cards:
 - name: Polluted Delta
   weight: 0.0222
   avg_copies: 1.0
-- name: Otawara, Soaring City
-  weight: 0.0222
-  avg_copies: 1.0
-- name: Pithing Needle
-  weight: 0.0222
-  avg_copies: 1.0
-- name: Riverpyre Verge
-  weight: 0.0222
-  avg_copies: 1.0
-- name: Combustion Technique
-  weight: 0.0222
-  avg_copies: 1.0
 - name: Shatterstorm
   weight: 0.0222
   avg_copies: 1.0
+- name: Grafdigger's Cage
+  weight: 0.0222
+  avg_copies: 1.0
 - name: Sink into Stupor
+  weight: 0.0222
+  avg_copies: 1.0
+- name: The Legend of Roku
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Combustion Technique
   weight: 0.0222
   avg_copies: 1.0
 ---

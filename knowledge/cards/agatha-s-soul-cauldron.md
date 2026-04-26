@@ -8,12 +8,12 @@ set: woe
 type: Legendary Artifact
 meta_presence: 0.0222
 archetypes:
-  reanimator:
-    weight: 0.0169
-    avg_copies: 1.0
   hardened-scales:
     weight: 1.0
     avg_copies: 3.0
+  reanimator:
+    weight: 0.0435
+    avg_copies: 1.0
   kethis-combo:
     weight: 1.0
     avg_copies: 2.0

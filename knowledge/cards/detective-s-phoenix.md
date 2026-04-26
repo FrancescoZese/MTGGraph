@@ -10,7 +10,7 @@ type: Enchantment Creature — Phoenix
 meta_presence: 0.0298
 archetypes:
   reanimator:
-    weight: 0.0169
+    weight: 0.0435
     avg_copies: 2.0
   mardu-blink:
     weight: 0.9091

@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.0034
 archetypes:
   reanimator:
-    weight: 0.0169
+    weight: 0.0435
     avg_copies: 1.0
   izzet-prowess:
     weight: 0.0667

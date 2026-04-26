@@ -8,34 +8,34 @@ name: 'Unknown #4'
 meta_share: 0.0017
 list_count: 2
 top_cards:
+- name: Stinkweed Imp
+  weight: 1.0
+  avg_copies: 4.0
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Artist's Talent
+- name: Creeping Chill
   weight: 1.0
   avg_copies: 4.0
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
-- name: Stinkweed Imp
-  weight: 1.0
-  avg_copies: 4.0
-- name: Arclight Phoenix
-  weight: 1.0
-  avg_copies: 4.0
-- name: Burning Inquiry
+- name: Artist's Talent
   weight: 1.0
   avg_copies: 4.0
 - name: Lava Dart
   weight: 1.0
   avg_copies: 4.0
-- name: Life from the Loam
-  weight: 1.0
-  avg_copies: 4.0
 - name: Exhibition Tidecaller
   weight: 1.0
   avg_copies: 4.0
-- name: Creeping Chill
+- name: Burning Inquiry
+  weight: 1.0
+  avg_copies: 4.0
+- name: Life from the Loam
+  weight: 1.0
+  avg_copies: 4.0
+- name: Arclight Phoenix
   weight: 1.0
   avg_copies: 4.0
 - name: Arid Mesa
@@ -50,40 +50,40 @@ top_cards:
 - name: Surgical Extraction
   weight: 1.0
   avg_copies: 2.0
-- name: Ancient Grudge
+- name: Ray of Revelation
   weight: 1.0
   avg_copies: 2.0
-- name: Ray of Revelation
+- name: Ancient Grudge
   weight: 1.0
   avg_copies: 2.0
 - name: Stomping Ground
   weight: 1.0
   avg_copies: 2.0
-- name: Boseiju, Who Endures
-  weight: 1.0
-  avg_copies: 1.5
 - name: Mountain
   weight: 1.0
   avg_copies: 1.5
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.5
-- name: Thundering Falls
+- name: Boseiju, Who Endures
   weight: 1.0
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Commercial District
   weight: 1.0
   avg_copies: 1.0
-- name: Conflagrate
-  weight: 1.0
-  avg_copies: 1.0
-- name: Blood Crypt
+- name: Memory's Journey
   weight: 1.0
   avg_copies: 1.0
 - name: Flame Jab
   weight: 1.0
   avg_copies: 1.0
-- name: Memory's Journey
+- name: Thundering Falls
+  weight: 1.0
+  avg_copies: 1.0
+- name: Blood Crypt
+  weight: 1.0
+  avg_copies: 1.0
+- name: Conflagrate
   weight: 1.0
   avg_copies: 1.0
 - name: Psychic Frog
@@ -95,10 +95,10 @@ top_cards:
 - name: Unholy Heat
   weight: 0.5
   avg_copies: 2.0
-- name: Spell Pierce
+- name: Natural State
   weight: 0.5
   avg_copies: 1.0
-- name: Natural State
+- name: Spell Pierce
   weight: 0.5
   avg_copies: 1.0
 ---

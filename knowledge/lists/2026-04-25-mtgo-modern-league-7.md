@@ -1,5 +1,5 @@
 ---
-archetype: unknown-1
+archetype: goryo
 date: '2026-04-25'
 finish: 5-0
 pilot: looknonumbers

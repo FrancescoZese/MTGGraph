@@ -12,12 +12,15 @@ archetypes:
   dimir-control:
     weight: 0.4528
     avg_copies: 3.12
-  reanimator:
-    weight: 0.9831
-    avg_copies: 3.26
+  goryo:
+    weight: 0.9773
+    avg_copies: 3.02
   necrodominance:
     weight: 0.8
     avg_copies: 3.88
+  reanimator:
+    weight: 0.9565
+    avg_copies: 3.82
   mardu-blink:
     weight: 0.7273
     avg_copies: 2.29
@@ -63,9 +66,6 @@ archetypes:
   the-rock:
     weight: 1.0
     avg_copies: 2.0
-  unknown-1:
-    weight: 0.875
-    avg_copies: 3.43
   unknown-8:
     weight: 1.0
     avg_copies: 4.0
@@ -75,13 +75,13 @@ archetypes:
   unknown-5:
     weight: 1.0
     avg_copies: 4.0
-  unknown-11:
+  goryo1:
     weight: 1.0
     avg_copies: 3.67
-  unknown-15:
+  goryo5:
     weight: 1.0
     avg_copies: 2.0
-  unknown-12:
+  goryo2:
     weight: 1.0
     avg_copies: 3.0
 ---

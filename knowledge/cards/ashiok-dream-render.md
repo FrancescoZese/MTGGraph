@@ -16,9 +16,9 @@ archetypes:
   jeskai-energy:
     weight: 0.3529
     avg_copies: 1.2
-  reanimator:
-    weight: 0.2542
-    avg_copies: 1.07
+  goryo:
+    weight: 0.3636
+    avg_copies: 1.0
   necrodominance:
     weight: 0.15
     avg_copies: 1.67
@@ -31,6 +31,9 @@ archetypes:
   domain-zoo:
     weight: 0.5946
     avg_copies: 1.45
+  reanimator:
+    weight: 0.0435
+    avg_copies: 2.0
   kethis-combo:
     weight: 0.2
     avg_copies: 1.0
@@ -58,16 +61,13 @@ archetypes:
   mono-green-ramp:
     weight: 1.0
     avg_copies: 2.0
-  unknown-1:
-    weight: 0.25
-    avg_copies: 1.0
   unknown-8:
     weight: 1.0
     avg_copies: 2.0
-  unknown-15:
+  goryo5:
     weight: 1.0
     avg_copies: 2.0
-  unknown-13:
+  goryo3:
     weight: 1.0
     avg_copies: 2.0
 ---

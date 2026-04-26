@@ -9,10 +9,10 @@ name: Domain Zoo
 meta_share: 0.0315
 list_count: 37
 top_cards:
-- name: Scion of Draco
+- name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
-- name: Territorial Kavu
+- name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline of the Guildpact
@@ -114,10 +114,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.1892
   avg_copies: 1.29
-- name: High Noon
+- name: Pyroclasm
   weight: 0.1622
   avg_copies: 1.0
-- name: Pyroclasm
+- name: High Noon
   weight: 0.1622
   avg_copies: 1.0
 - name: Clarion Conqueror
@@ -129,22 +129,22 @@ top_cards:
 - name: Celestial Purge
   weight: 0.1081
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Does Machines
   weight: 0.0541
   avg_copies: 1.0
-- name: Does Machines
+- name: Sacred Foundry
   weight: 0.0541
   avg_copies: 1.0
 - name: Fable of the Mirror-Breaker
   weight: 0.0541
   avg_copies: 1.0
-- name: Persist
+- name: Faithless Looting
   weight: 0.027
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 0.027
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Persist
   weight: 0.027
   avg_copies: 4.0
 - name: Archon of Cruelty
@@ -165,25 +165,25 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.027
   avg_copies: 1.0
-- name: Glasspool Mimic
-  weight: 0.027
-  avg_copies: 1.0
-- name: Raucous Theater
-  weight: 0.027
-  avg_copies: 1.0
-- name: Vexing Bauble
-  weight: 0.027
-  avg_copies: 1.0
-- name: Meltdown
-  weight: 0.027
-  avg_copies: 1.0
-- name: Blood Crypt
+- name: Breeding Pool
   weight: 0.027
   avg_copies: 1.0
 - name: Orcish Bowmasters
   weight: 0.027
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Meltdown
+  weight: 0.027
+  avg_copies: 1.0
+- name: Glasspool Mimic
+  weight: 0.027
+  avg_copies: 1.0
+- name: Vexing Bauble
+  weight: 0.027
+  avg_copies: 1.0
+- name: Raucous Theater
+  weight: 0.027
+  avg_copies: 1.0
+- name: Blood Crypt
   weight: 0.027
   avg_copies: 1.0
 ---

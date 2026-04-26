@@ -7,19 +7,19 @@ name: Cosmogoyf Fling
 meta_share: 0.0085
 list_count: 10
 top_cards:
-- name: Chancellor of the Tangle
-  weight: 1.0
-  avg_copies: 4.0
 - name: Plunge into Darkness
   weight: 1.0
   avg_copies: 4.0
-- name: Gemstone Caverns
+- name: Cosmogoyf
   weight: 1.0
   avg_copies: 4.0
 - name: Thud
   weight: 1.0
   avg_copies: 4.0
-- name: Cosmogoyf
+- name: Gemstone Caverns
+  weight: 1.0
+  avg_copies: 4.0
+- name: Chancellor of the Tangle
   weight: 1.0
   avg_copies: 4.0
 - name: Spoils of the Vault
@@ -76,10 +76,10 @@ top_cards:
 - name: Leyline of Sanctity
   weight: 0.6
   avg_copies: 4.0
-- name: Disciple of Freyalise
+- name: Aloe Alchemist
   weight: 0.3
   avg_copies: 1.0
-- name: Aloe Alchemist
+- name: Disciple of Freyalise
   weight: 0.3
   avg_copies: 1.0
 - name: Veil of Summer
@@ -91,10 +91,10 @@ top_cards:
 - name: Fatal Push
   weight: 0.1
   avg_copies: 4.0
-- name: Boseiju, Who Endures
+- name: Mountain
   weight: 0.1
   avg_copies: 1.0
-- name: Mountain
+- name: Boseiju, Who Endures
   weight: 0.1
   avg_copies: 1.0
 ---

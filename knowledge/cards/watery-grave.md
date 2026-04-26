@@ -11,9 +11,9 @@ archetypes:
   dimir-control:
     weight: 1.0
     avg_copies: 2.74
-  reanimator:
-    weight: 0.9661
-    avg_copies: 1.32
+  goryo:
+    weight: 1.0
+    avg_copies: 1.0
   necrodominance:
     weight: 0.1
     avg_copies: 3.5
@@ -26,6 +26,9 @@ archetypes:
   mill:
     weight: 1.0
     avg_copies: 1.33
+  reanimator:
+    weight: 0.913
+    avg_copies: 1.86
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
@@ -47,16 +50,13 @@ archetypes:
   esper-midrange:
     weight: 1.0
     avg_copies: 1.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 1.0
   unknown-9:
     weight: 1.0
     avg_copies: 1.0
-  unknown-11:
+  goryo1:
     weight: 1.0
     avg_copies: 2.0
-  unknown-12:
+  goryo2:
     weight: 1.0
     avg_copies: 1.0
 ---

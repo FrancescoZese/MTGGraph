@@ -8,8 +8,8 @@ set: ecl
 type: Land — Swamp Forest
 meta_presence: 0.0486
 archetypes:
-  reanimator:
-    weight: 0.1017
+  goryo:
+    weight: 0.1591
     avg_copies: 1.0
   necrodominance:
     weight: 0.05
@@ -17,6 +17,9 @@ archetypes:
   living-end:
     weight: 0.619
     avg_copies: 1.08
+  reanimator:
+    weight: 0.0435
+    avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 2.57
@@ -38,13 +41,10 @@ archetypes:
   the-rock:
     weight: 1.0
     avg_copies: 1.0
-  unknown-1:
-    weight: 0.25
-    avg_copies: 1.0
   unknown-8:
     weight: 1.0
     avg_copies: 4.0
-  unknown-15:
+  goryo5:
     weight: 1.0
     avg_copies: 2.0
 ---

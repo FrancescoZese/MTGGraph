@@ -15,8 +15,8 @@ archetypes:
   eldrazi-tron:
     weight: 0.0213
     avg_copies: 1.0
-  reanimator:
-    weight: 0.0678
+  goryo:
+    weight: 0.1364
     avg_copies: 1.0
   living-end:
     weight: 0.0952
@@ -32,8 +32,5 @@ archetypes:
     avg_copies: 1.0
   elves:
     weight: 1.0
-    avg_copies: 1.0
-  unknown-1:
-    weight: 0.25
     avg_copies: 1.0
 ---

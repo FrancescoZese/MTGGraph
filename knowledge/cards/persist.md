@@ -9,19 +9,19 @@ set: ecc
 type: Sorcery
 meta_presence: 0.0256
 archetypes:
-  reanimator:
-    weight: 0.3898
-    avg_copies: 3.96
   domain-zoo:
     weight: 0.027
     avg_copies: 4.0
+  reanimator:
+    weight: 1.0
+    avg_copies: 3.96
   indomitable-creativity:
     weight: 0.2857
     avg_copies: 4.0
   unknown-9:
     weight: 1.0
     avg_copies: 4.0
-  unknown-11:
+  goryo1:
     weight: 1.0
     avg_copies: 4.0
 ---

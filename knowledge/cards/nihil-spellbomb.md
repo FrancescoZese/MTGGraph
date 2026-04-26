@@ -14,14 +14,17 @@ archetypes:
   jeskai-energy:
     weight: 0.0118
     avg_copies: 1.0
-  reanimator:
-    weight: 0.1525
-    avg_copies: 1.11
+  goryo:
+    weight: 0.1364
+    avg_copies: 1.14
   domain-zoo:
     weight: 0.5676
     avg_copies: 1.24
   mill:
     weight: 0.1667
+    avg_copies: 1.0
+  reanimator:
+    weight: 0.2174
     avg_copies: 1.0
   mardu-blink:
     weight: 0.0909
@@ -41,13 +44,10 @@ archetypes:
   the-rock:
     weight: 1.0
     avg_copies: 1.0
-  unknown-1:
-    weight: 0.25
-    avg_copies: 1.0
   unknown-5:
     weight: 1.0
     avg_copies: 1.0
-  unknown-11:
+  goryo1:
     weight: 0.3333
     avg_copies: 1.0
 ---

@@ -12,15 +12,15 @@ archetypes:
   dimir-control:
     weight: 0.9245
     avg_copies: 2.04
-  reanimator:
-    weight: 0.0169
-    avg_copies: 1.0
   necrodominance:
     weight: 0.4
     avg_copies: 2.0
   mill:
     weight: 0.6667
     avg_copies: 1.2
+  reanimator:
+    weight: 0.0435
+    avg_copies: 1.0
   mardu-blink:
     weight: 0.3636
     avg_copies: 1.25

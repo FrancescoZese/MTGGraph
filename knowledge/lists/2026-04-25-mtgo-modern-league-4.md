@@ -1,5 +1,5 @@
 ---
-archetype: unknown-12
+archetype: goryo2
 date: '2026-04-25'
 finish: 5-0
 pilot: goldstargullberg

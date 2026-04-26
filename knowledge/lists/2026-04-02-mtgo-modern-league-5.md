@@ -1,5 +1,5 @@
 ---
-archetype: reanimator
+archetype: goryo
 date: '2026-04-02'
 finish: 5-0
 pilot: DawsonCreep

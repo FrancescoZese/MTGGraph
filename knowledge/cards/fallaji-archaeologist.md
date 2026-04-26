@@ -12,13 +12,13 @@ archetypes:
   mono-blue-belcher:
     weight: 0.7692
     avg_copies: 3.6
+  goryo:
+    weight: 0.2273
+    avg_copies: 3.0
   reanimator:
-    weight: 0.1525
-    avg_copies: 2.89
-  unknown-1:
-    weight: 0.25
+    weight: 0.0435
     avg_copies: 4.0
-  unknown-11:
+  goryo1:
     weight: 0.3333
     avg_copies: 4.0
 ---

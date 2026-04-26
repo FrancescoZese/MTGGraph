@@ -12,7 +12,7 @@ archetypes:
   mill:
     weight: 1.0
     avg_copies: 2.17
-  unknown-11:
+  goryo1:
     weight: 0.3333
     avg_copies: 1.0
 ---

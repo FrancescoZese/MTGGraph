@@ -10,7 +10,7 @@ type: Creature — Eye
 meta_presence: 0.0699
 archetypes:
   reanimator:
-    weight: 0.3559
+    weight: 0.913
     avg_copies: 3.86
   neoform-combo:
     weight: 0.68
@@ -27,7 +27,7 @@ archetypes:
   bant-ritual:
     weight: 1.0
     avg_copies: 2.0
-  unknown-11:
+  goryo1:
     weight: 1.0
     avg_copies: 4.0
 ---

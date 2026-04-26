@@ -1,5 +1,5 @@
 ---
-archetype: unknown-11
+archetype: goryo1
 date: '2026-04-25'
 finish: 3rd
 pilot: Barneygumbal

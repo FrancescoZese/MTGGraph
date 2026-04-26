@@ -17,12 +17,12 @@ archetypes:
   dimir-control:
     weight: 0.1132
     avg_copies: 2.33
-  reanimator:
-    weight: 0.3559
-    avg_copies: 3.86
   necrodominance:
     weight: 0.15
     avg_copies: 3.33
+  reanimator:
+    weight: 0.913
+    avg_copies: 3.86
   burn:
     weight: 0.75
     avg_copies: 1.33
@@ -65,10 +65,10 @@ archetypes:
   unknown-5:
     weight: 1.0
     avg_copies: 4.0
-  unknown-11:
+  goryo1:
     weight: 1.0
     avg_copies: 4.0
-  unknown-15:
+  goryo5:
     weight: 1.0
     avg_copies: 3.0
 ---

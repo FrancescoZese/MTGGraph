@@ -156,13 +156,13 @@ top_cards:
 - name: Haywire Mite
   weight: 0.036
   avg_copies: 1.0
-- name: Springleaf Drum
+- name: Polluted Delta
   weight: 0.027
   avg_copies: 1.0
 - name: Salvage Titan
   weight: 0.027
   avg_copies: 1.0
-- name: Polluted Delta
+- name: Springleaf Drum
   weight: 0.027
   avg_copies: 1.0
 - name: Snow-Covered Island
@@ -180,28 +180,28 @@ top_cards:
 - name: Glimmervoid
   weight: 0.009
   avg_copies: 2.0
-- name: Shattering Spree
-  weight: 0.009
-  avg_copies: 2.0
 - name: Detect Intrusion
   weight: 0.009
   avg_copies: 2.0
+- name: Shattering Spree
+  weight: 0.009
+  avg_copies: 2.0
+- name: Void Mirror
+  weight: 0.009
+  avg_copies: 1.0
 - name: Ghirapur Aether Grid
+  weight: 0.009
+  avg_copies: 1.0
+- name: Tamiyo, Inquisitive Student
+  weight: 0.009
+  avg_copies: 1.0
+- name: Jokulmorder
   weight: 0.009
   avg_copies: 1.0
 - name: Chandra, Spark Hunter
   weight: 0.009
   avg_copies: 1.0
 - name: Minamo, School at Water's Edge
-  weight: 0.009
-  avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.009
-  avg_copies: 1.0
-- name: Void Mirror
-  weight: 0.009
-  avg_copies: 1.0
-- name: Jokulmorder
   weight: 0.009
   avg_copies: 1.0
 ---

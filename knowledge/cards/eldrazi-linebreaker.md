@@ -8,7 +8,7 @@ set: mh3
 type: Creature — Eldrazi
 meta_presence: 0.0009
 archetypes:
-  unknown-14:
+  goryo4:
     weight: 1.0
     avg_copies: 4.0
 ---

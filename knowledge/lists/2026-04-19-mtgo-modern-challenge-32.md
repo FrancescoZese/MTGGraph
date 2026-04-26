@@ -1,5 +1,5 @@
 ---
-archetype: reanimator
+archetype: goryo
 date: '2026-04-19'
 finish: 1st
 pilot: Phryziel

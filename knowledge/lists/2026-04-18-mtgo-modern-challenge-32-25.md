@@ -1,5 +1,5 @@
 ---
-archetype: reanimator
+archetype: goryo
 date: '2026-04-18'
 finish: 7th
 pilot: RandomOctopus

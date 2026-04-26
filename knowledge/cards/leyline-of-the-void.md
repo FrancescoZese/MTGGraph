@@ -10,7 +10,7 @@ type: Enchantment
 meta_presence: 0.0051
 archetypes:
   reanimator:
-    weight: 0.0169
+    weight: 0.0435
     avg_copies: 3.0
   hollow-one:
     weight: 0.0625
@@ -21,7 +21,7 @@ archetypes:
   dredge:
     weight: 0.25
     avg_copies: 2.0
-  unknown-10:
+  goryo0:
     weight: 1.0
     avg_copies: 3.0
 ---

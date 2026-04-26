@@ -1,5 +1,5 @@
 ---
-archetype: unknown-1
+archetype: goryo
 date: '2026-04-23'
 finish: 5th
 pilot: Rvng

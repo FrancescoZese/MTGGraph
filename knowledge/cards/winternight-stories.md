@@ -9,16 +9,13 @@ set: tdm
 type: Sorcery
 meta_presence: 0.0128
 archetypes:
-  reanimator:
-    weight: 0.0169
+  goryo:
+    weight: 0.0455
     avg_copies: 1.0
   domain-zoo:
     weight: 0.3243
     avg_copies: 1.0
   azorius-blink:
     weight: 0.3333
-    avg_copies: 1.0
-  unknown-1:
-    weight: 0.125
     avg_copies: 1.0
 ---

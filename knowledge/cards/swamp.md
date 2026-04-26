@@ -14,9 +14,9 @@ archetypes:
   eldrazi-tron:
     weight: 0.8085
     avg_copies: 1.0
-  reanimator:
-    weight: 0.9492
-    avg_copies: 1.3
+  goryo:
+    weight: 0.9318
+    avg_copies: 1.0
   necrodominance:
     weight: 1.0
     avg_copies: 10.0
@@ -26,6 +26,9 @@ archetypes:
   mill:
     weight: 0.5
     avg_copies: 1.67
+  reanimator:
+    weight: 1.0
+    avg_copies: 1.74
   mardu-blink:
     weight: 0.0909
     avg_copies: 1.0
@@ -65,9 +68,6 @@ archetypes:
   the-rock:
     weight: 1.0
     avg_copies: 1.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 1.0
   unknown-8:
     weight: 1.0
     avg_copies: 1.0
@@ -77,13 +77,13 @@ archetypes:
   unknown-5:
     weight: 1.0
     avg_copies: 1.0
-  unknown-11:
+  goryo1:
     weight: 1.0
     avg_copies: 1.0
-  unknown-15:
+  goryo5:
     weight: 1.0
     avg_copies: 1.0
-  unknown-12:
+  goryo2:
     weight: 1.0
     avg_copies: 1.0
 ---

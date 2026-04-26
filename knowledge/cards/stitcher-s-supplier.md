@@ -10,7 +10,7 @@ type: Creature — Zombie
 meta_presence: 0.0026
 archetypes:
   reanimator:
-    weight: 0.0339
+    weight: 0.087
     avg_copies: 4.0
   dredge:
     weight: 0.25

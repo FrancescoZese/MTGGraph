@@ -11,12 +11,12 @@ archetypes:
   dimir-control:
     weight: 0.1698
     avg_copies: 1.1
-  reanimator:
-    weight: 0.0169
-    avg_copies: 2.0
   necrodominance:
     weight: 0.85
     avg_copies: 3.71
+  reanimator:
+    weight: 0.0435
+    avg_copies: 2.0
   jund-saga:
     weight: 1.0
     avg_copies: 1.0

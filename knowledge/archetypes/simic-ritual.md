@@ -6,10 +6,10 @@ name: Simic Ritual
 meta_share: 0.0239
 list_count: 28
 top_cards:
-- name: Flare of Denial
+- name: Ice-Fang Coatl
   weight: 1.0
   avg_copies: 4.0
-- name: Ice-Fang Coatl
+- name: Flare of Denial
   weight: 1.0
   avg_copies: 4.0
 - name: Coiling Oracle
@@ -108,22 +108,22 @@ top_cards:
 - name: Fatal Push
   weight: 0.0714
   avg_copies: 2.0
-- name: Ephara's Dispersal
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Neoform
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Flooded Strand
+- name: Fade from History
   weight: 0.0714
   avg_copies: 1.0
 - name: Overgrown Tomb
   weight: 0.0714
   avg_copies: 1.0
+- name: Ephara's Dispersal
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Flooded Strand
+  weight: 0.0714
+  avg_copies: 1.0
 - name: Underground Mortuary
   weight: 0.0714
   avg_copies: 1.0
-- name: Fade from History
+- name: Neoform
   weight: 0.0714
   avg_copies: 1.0
 - name: Quantum Riddler
@@ -138,37 +138,37 @@ top_cards:
 - name: Psychic Frog
   weight: 0.0357
   avg_copies: 2.0
-- name: Stern Scolding
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Pond Prophet
+- name: Steam Vents
   weight: 0.0357
   avg_copies: 1.0
 - name: Dress Down
   weight: 0.0357
   avg_copies: 1.0
-- name: Steam Vents
+- name: Thundering Falls
   weight: 0.0357
   avg_copies: 1.0
-- name: Stomping Ground
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Firespout
+- name: Pick Your Poison
   weight: 0.0357
   avg_copies: 1.0
 - name: Hurkyl's Recall
   weight: 0.0357
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Scalding Tarn
   weight: 0.0357
   avg_copies: 1.0
-- name: Scalding Tarn
+- name: Pond Prophet
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Firespout
   weight: 0.0357
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.0357
   avg_copies: 1.0
-- name: Pick Your Poison
+- name: Stomping Ground
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Stern Scolding
   weight: 0.0357
   avg_copies: 1.0
 ---

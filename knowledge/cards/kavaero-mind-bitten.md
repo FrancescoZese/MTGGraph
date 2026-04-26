@@ -8,16 +8,16 @@ set: ''
 type: Unknown
 meta_presence: 0.0136
 archetypes:
-  reanimator:
-    weight: 0.1186
-    avg_copies: 1.29
+  goryo:
+    weight: 0.1818
+    avg_copies: 1.0
   living-end:
     weight: 0.2857
     avg_copies: 1.0
+  reanimator:
+    weight: 0.0435
+    avg_copies: 3.0
   4c-omnath:
     weight: 0.5
-    avg_copies: 1.0
-  unknown-1:
-    weight: 0.25
     avg_copies: 1.0
 ---

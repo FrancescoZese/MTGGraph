@@ -1,5 +1,5 @@
 ---
-archetype: reanimator
+archetype: goryo
 date: '2026-04-05'
 finish: 9th
 pilot: Waumpus

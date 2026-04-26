@@ -8,15 +8,15 @@ set: mkm
 type: Land — Swamp Forest
 meta_presence: 0.0392
 archetypes:
-  reanimator:
-    weight: 0.0169
-    avg_copies: 1.0
   necrodominance:
     weight: 0.05
     avg_copies: 1.0
   living-end:
     weight: 0.619
     avg_copies: 1.38
+  reanimator:
+    weight: 0.0435
+    avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 1.07
@@ -41,7 +41,7 @@ archetypes:
   unknown-8:
     weight: 1.0
     avg_copies: 1.0
-  unknown-15:
+  goryo5:
     weight: 1.0
     avg_copies: 1.0
 ---

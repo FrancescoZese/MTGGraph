@@ -13,9 +13,9 @@ archetypes:
   dimir-control:
     weight: 0.1132
     avg_copies: 1.64
-  reanimator:
-    weight: 0.2373
-    avg_copies: 1.0
+  goryo:
+    weight: 0.4091
+    avg_copies: 1.06
   mardu-blink:
     weight: 0.0909
     avg_copies: 1.0
@@ -25,10 +25,7 @@ archetypes:
   esper-midrange:
     weight: 1.0
     avg_copies: 3.0
-  unknown-1:
-    weight: 0.5
-    avg_copies: 1.25
-  unknown-12:
+  goryo2:
     weight: 1.0
     avg_copies: 2.0
 ---

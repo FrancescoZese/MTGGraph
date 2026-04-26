@@ -6,13 +6,13 @@ name: Hollow One
 meta_share: 0.0136
 list_count: 16
 top_cards:
+- name: Faithless Looting
+  weight: 1.0
+  avg_copies: 4.0
 - name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
-  weight: 1.0
-  avg_copies: 4.0
-- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Hollow One
@@ -45,10 +45,10 @@ top_cards:
 - name: Lightning Bolt
   weight: 0.8125
   avg_copies: 2.92
-- name: Wooded Foothills
+- name: Damping Sphere
   weight: 0.8125
   avg_copies: 2.38
-- name: Damping Sphere
+- name: Wooded Foothills
   weight: 0.8125
   avg_copies: 2.38
 - name: Arena of Glory
@@ -123,10 +123,10 @@ top_cards:
 - name: Polluted Delta
   weight: 0.1875
   avg_copies: 1.0
-- name: Vengevine
+- name: Blazing Rootwalla
   weight: 0.125
   avg_copies: 4.0
-- name: Blazing Rootwalla
+- name: Vengevine
   weight: 0.125
   avg_copies: 4.0
 - name: Cool but Rude
@@ -144,10 +144,10 @@ top_cards:
 - name: Leyline of the Void
   weight: 0.0625
   avg_copies: 4.0
-- name: Goblin Lore
+- name: Pyroclasm
   weight: 0.0625
   avg_copies: 2.0
-- name: Pyroclasm
+- name: Goblin Lore
   weight: 0.0625
   avg_copies: 2.0
 - name: Rough
@@ -156,28 +156,28 @@ top_cards:
 - name: Magebane Lizard
   weight: 0.0625
   avg_copies: 2.0
+- name: Blackcleave Cliffs
+  weight: 0.0625
+  avg_copies: 1.0
 - name: Soul-Guide Lantern
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Barbarian Ring
   weight: 0.0625
   avg_copies: 1.0
 - name: Seal of Fire
   weight: 0.0625
   avg_copies: 1.0
-- name: Ox of Agonas
-  weight: 0.0625
-  avg_copies: 1.0
 - name: Commercial District
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Blackcleave Cliffs
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Barbarian Ring
   weight: 0.0625
   avg_copies: 1.0
 - name: Shattering Spree
   weight: 0.0625
   avg_copies: 1.0
 - name: Overlord of the Balemurk
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Ox of Agonas
   weight: 0.0625
   avg_copies: 1.0
 ---

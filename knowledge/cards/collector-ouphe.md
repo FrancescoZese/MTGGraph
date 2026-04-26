@@ -12,11 +12,11 @@ archetypes:
   amulet-titan:
     weight: 0.5
     avg_copies: 1.0
-  reanimator:
-    weight: 0.0169
-    avg_copies: 1.0
   living-end:
     weight: 0.0476
+    avg_copies: 1.0
+  reanimator:
+    weight: 0.0435
     avg_copies: 1.0
   simic-ritual:
     weight: 0.7143

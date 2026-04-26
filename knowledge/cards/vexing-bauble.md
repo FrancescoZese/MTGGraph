@@ -20,9 +20,6 @@ archetypes:
   amulet-titan:
     weight: 0.5833
     avg_copies: 1.21
-  reanimator:
-    weight: 0.0678
-    avg_copies: 1.75
   hardened-scales:
     weight: 0.6667
     avg_copies: 1.0
@@ -32,6 +29,9 @@ archetypes:
   domain-zoo:
     weight: 0.027
     avg_copies: 1.0
+  reanimator:
+    weight: 0.1739
+    avg_copies: 1.75
   mono-red-belcher:
     weight: 0.5
     avg_copies: 2.33
@@ -101,7 +101,7 @@ archetypes:
   unknown-8:
     weight: 1.0
     avg_copies: 3.0
-  unknown-14:
+  goryo4:
     weight: 1.0
     avg_copies: 3.0
 ---

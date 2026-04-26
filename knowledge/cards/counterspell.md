@@ -36,7 +36,7 @@ archetypes:
   izzet-wizards:
     weight: 1.0
     avg_copies: 3.0
-  unknown-13:
+  goryo3:
     weight: 1.0
     avg_copies: 4.0
 ---

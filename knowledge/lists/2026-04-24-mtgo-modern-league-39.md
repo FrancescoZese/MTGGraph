@@ -1,5 +1,5 @@
 ---
-archetype: unknown-10
+archetype: goryo0
 date: '2026-04-24'
 finish: 5-0
 pilot: Ciano90

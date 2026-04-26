@@ -23,13 +23,13 @@ archetypes:
   esper-midrange:
     weight: 1.0
     avg_copies: 2.0
-  unknown-14:
+  goryo4:
     weight: 1.0
     avg_copies: 2.0
-  unknown-16:
+  goryo6:
     weight: 1.0
     avg_copies: 2.0
-  unknown-12:
+  goryo2:
     weight: 1.0
     avg_copies: 2.0
 ---

@@ -8,12 +8,12 @@ set: ecl
 type: Land — Swamp Mountain
 meta_presence: 0.0631
 archetypes:
-  reanimator:
-    weight: 0.3559
-    avg_copies: 1.1
   domain-zoo:
     weight: 0.027
     avg_copies: 1.0
+  reanimator:
+    weight: 0.913
+    avg_copies: 1.1
   mardu-blink:
     weight: 1.0
     avg_copies: 1.0
@@ -44,7 +44,7 @@ archetypes:
   unknown-5:
     weight: 1.0
     avg_copies: 2.0
-  unknown-11:
+  goryo1:
     weight: 1.0
     avg_copies: 1.0
 ---

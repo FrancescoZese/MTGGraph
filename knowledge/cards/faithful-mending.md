@@ -10,12 +10,9 @@ set: mid
 type: Instant
 meta_presence: 0.0384
 archetypes:
-  reanimator:
-    weight: 0.6102
-    avg_copies: 3.06
-  unknown-1:
+  goryo:
     weight: 1.0
-    avg_copies: 2.88
+    avg_copies: 3.02
   unknown-9:
     weight: 1.0
     avg_copies: 4.0

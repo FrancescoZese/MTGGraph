@@ -11,8 +11,8 @@ archetypes:
   jeskai-energy:
     weight: 0.0118
     avg_copies: 1.0
-  reanimator:
-    weight: 0.339
+  goryo:
+    weight: 0.5227
     avg_copies: 1.0
   azorius-control:
     weight: 0.0769
@@ -22,6 +22,9 @@ archetypes:
     avg_copies: 1.0
   domain-zoo:
     weight: 0.027
+    avg_copies: 1.0
+  reanimator:
+    weight: 0.0435
     avg_copies: 1.0
   neoform-combo:
     weight: 0.96
@@ -47,10 +50,7 @@ archetypes:
   izzet-artifacts:
     weight: 0.48
     avg_copies: 1.08
-  unknown-1:
-    weight: 0.5
-    avg_copies: 1.0
-  unknown-13:
+  goryo3:
     weight: 1.0
     avg_copies: 1.0
 ---

@@ -17,9 +17,6 @@ archetypes:
   jeskai-energy:
     weight: 1.0
     avg_copies: 1.01
-  reanimator:
-    weight: 0.339
-    avg_copies: 1.0
   azorius-control:
     weight: 0.7692
     avg_copies: 1.0
@@ -32,6 +29,9 @@ archetypes:
   domain-zoo:
     weight: 1.0
     avg_copies: 1.7
+  reanimator:
+    weight: 0.8696
+    avg_copies: 1.0
   simic-ritual:
     weight: 0.0357
     avg_copies: 1.0
@@ -71,7 +71,7 @@ archetypes:
   unknown-4:
     weight: 1.0
     avg_copies: 1.5
-  unknown-11:
+  goryo1:
     weight: 1.0
     avg_copies: 1.33
 ---

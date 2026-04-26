@@ -11,7 +11,7 @@ archetypes:
   esper-control:
     weight: 1.0
     avg_copies: 1.0
-  unknown-13:
+  goryo3:
     weight: 1.0
     avg_copies: 1.0
 ---

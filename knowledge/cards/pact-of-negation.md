@@ -6,7 +6,7 @@ archetypes:
   cosmogoyf-fling:
     weight: 1.0
     avg_copies: 3.0
-  unknown-10:
+  goryo0:
     weight: 1.0
     avg_copies: 4.0
 cmc: 0

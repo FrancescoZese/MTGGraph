@@ -12,15 +12,15 @@ archetypes:
   dimir-control:
     weight: 0.9811
     avg_copies: 3.54
-  reanimator:
-    weight: 0.0339
-    avg_copies: 3.5
   necrodominance:
     weight: 1.0
     avg_copies: 3.75
   domain-zoo:
     weight: 0.027
     avg_copies: 1.0
+  reanimator:
+    weight: 0.087
+    avg_copies: 3.5
   mardu-blink:
     weight: 0.7273
     avg_copies: 1.2
@@ -48,7 +48,7 @@ archetypes:
   unknown-8:
     weight: 1.0
     avg_copies: 3.0
-  unknown-15:
+  goryo5:
     weight: 1.0
     avg_copies: 4.0
 ---

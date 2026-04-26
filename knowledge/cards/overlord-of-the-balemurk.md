@@ -9,11 +9,11 @@ set: dsk
 type: Enchantment Creature — Avatar Horror
 meta_presence: 0.0358
 archetypes:
-  reanimator:
-    weight: 0.0169
-    avg_copies: 4.0
   living-end:
     weight: 0.619
+    avg_copies: 4.0
+  reanimator:
+    weight: 0.0435
     avg_copies: 4.0
   mardu-blink:
     weight: 1.0

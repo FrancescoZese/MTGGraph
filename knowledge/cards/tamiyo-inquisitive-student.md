@@ -17,9 +17,6 @@ archetypes:
   jeskai-energy:
     weight: 0.0471
     avg_copies: 1.5
-  reanimator:
-    weight: 0.0339
-    avg_copies: 3.0
   azorius-control:
     weight: 0.0385
     avg_copies: 1.0
@@ -29,6 +26,9 @@ archetypes:
   mill:
     weight: 0.3333
     avg_copies: 2.0
+  reanimator:
+    weight: 0.087
+    avg_copies: 3.0
   kethis-combo:
     weight: 1.0
     avg_copies: 4.0

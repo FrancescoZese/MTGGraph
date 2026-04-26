@@ -1,5 +1,5 @@
 ---
-archetype: reanimator
+archetype: goryo
 date: '2026-04-01'
 finish: 2nd
 pilot: roter_Erzengel

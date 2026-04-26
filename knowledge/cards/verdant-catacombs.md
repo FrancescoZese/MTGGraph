@@ -8,15 +8,15 @@ set: mh2
 type: Land
 meta_presence: 0.0887
 archetypes:
-  reanimator:
-    weight: 0.0169
-    avg_copies: 4.0
   necrodominance:
     weight: 0.1
     avg_copies: 2.5
   living-end:
     weight: 0.0476
     avg_copies: 2.0
+  reanimator:
+    weight: 0.0435
+    avg_copies: 4.0
   neoform-combo:
     weight: 0.28
     avg_copies: 1.43

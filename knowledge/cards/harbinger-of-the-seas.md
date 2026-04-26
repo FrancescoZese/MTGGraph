@@ -15,9 +15,6 @@ archetypes:
   mono-blue-belcher:
     weight: 0.8462
     avg_copies: 1.91
-  reanimator:
-    weight: 0.0678
-    avg_copies: 1.5
   azorius-control:
     weight: 0.0385
     avg_copies: 2.0
@@ -27,6 +24,9 @@ archetypes:
   affinity:
     weight: 0.2613
     avg_copies: 1.31
+  reanimator:
+    weight: 0.1739
+    avg_copies: 1.5
   simic-ritual:
     weight: 0.9643
     avg_copies: 2.47
@@ -36,7 +36,7 @@ archetypes:
   izzet-artifacts:
     weight: 0.48
     avg_copies: 2.58
-  unknown-13:
+  goryo3:
     weight: 1.0
     avg_copies: 2.0
 ---

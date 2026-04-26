@@ -1,5 +1,5 @@
 ---
-archetype: reanimator
+archetype: goryo
 date: '2026-04-06'
 finish: 3rd
 pilot: jussupinator

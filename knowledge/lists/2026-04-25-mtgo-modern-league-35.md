@@ -1,5 +1,5 @@
 ---
-archetype: unknown-17
+archetype: goryo7
 date: '2026-04-25'
 finish: 5-0
 pilot: esatheking

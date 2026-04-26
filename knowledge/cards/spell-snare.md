@@ -18,12 +18,15 @@ archetypes:
   jeskai-energy:
     weight: 0.0588
     avg_copies: 1.0
-  reanimator:
-    weight: 0.1017
-    avg_copies: 1.0
+  goryo:
+    weight: 0.1591
+    avg_copies: 1.12
   azorius-control:
     weight: 0.6538
     avg_copies: 1.72
+  reanimator:
+    weight: 0.0435
+    avg_copies: 1.0
   neoform-combo:
     weight: 0.04
     avg_copies: 1.0
@@ -57,16 +60,13 @@ archetypes:
   esper-midrange:
     weight: 1.0
     avg_copies: 1.5
-  unknown-1:
-    weight: 0.25
-    avg_copies: 1.33
-  unknown-11:
+  goryo1:
     weight: 0.3333
     avg_copies: 1.0
-  unknown-12:
+  goryo2:
     weight: 1.0
     avg_copies: 1.0
-  unknown-13:
+  goryo3:
     weight: 1.0
     avg_copies: 2.0
 ---

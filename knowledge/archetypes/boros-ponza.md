@@ -6,10 +6,10 @@ name: Boros Ponza
 meta_share: 0.0188
 list_count: 22
 top_cards:
-- name: Path to Exile
+- name: Price of Freedom
   weight: 1.0
   avg_copies: 4.0
-- name: Price of Freedom
+- name: Path to Exile
   weight: 1.0
   avg_copies: 4.0
 - name: Demolition Field
@@ -99,10 +99,10 @@ top_cards:
 - name: Erode
   weight: 0.1364
   avg_copies: 3.67
-- name: Soul-Guide Lantern
+- name: Mana Tithe
   weight: 0.1364
   avg_copies: 2.0
-- name: Mana Tithe
+- name: Soul-Guide Lantern
   weight: 0.1364
   avg_copies: 2.0
 - name: Surgical Extraction
@@ -114,43 +114,43 @@ top_cards:
 - name: Ghost Quarter
   weight: 0.0909
   avg_copies: 1.0
-- name: Magmatic Hellkite
+- name: Arid Mesa
   weight: 0.0455
   avg_copies: 4.0
-- name: Arid Mesa
+- name: Magmatic Hellkite
   weight: 0.0455
   avg_copies: 4.0
 - name: Get Lost
   weight: 0.0455
   avg_copies: 3.0
-- name: Gideon, Ally of Zendikar
+- name: Settle the Wreckage
   weight: 0.0455
   avg_copies: 2.0
 - name: Prismatic Ending
   weight: 0.0455
   avg_copies: 2.0
-- name: Settle the Wreckage
+- name: Gideon, Ally of Zendikar
   weight: 0.0455
   avg_copies: 2.0
-- name: Ghost Vacuum
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Flashback
+- name: Brotherhood's End
   weight: 0.0455
   avg_copies: 1.0
 - name: Arena of Glory
   weight: 0.0455
   avg_copies: 1.0
-- name: Brotherhood's End
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Storm's Wrath
+- name: Flashback
   weight: 0.0455
   avg_copies: 1.0
 - name: Elegant Parlor
   weight: 0.0455
   avg_copies: 1.0
 - name: Chalice of the Void
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Storm's Wrath
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Ghost Vacuum
   weight: 0.0455
   avg_copies: 1.0
 ---

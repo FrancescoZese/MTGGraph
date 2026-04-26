@@ -14,8 +14,8 @@ archetypes:
   mono-blue-belcher:
     weight: 1.0
     avg_copies: 4.0
-  reanimator:
-    weight: 0.3729
+  goryo:
+    weight: 0.1364
     avg_copies: 1.0
   azorius-control:
     weight: 0.0769
@@ -28,6 +28,9 @@ archetypes:
     avg_copies: 2.21
   mill:
     weight: 0.1667
+    avg_copies: 1.0
+  reanimator:
+    weight: 0.6957
     avg_copies: 1.0
   mono-blue-tron:
     weight: 1.0
@@ -53,10 +56,10 @@ archetypes:
   izzet-wizards:
     weight: 1.0
     avg_copies: 2.0
-  unknown-11:
+  goryo1:
     weight: 0.6667
     avg_copies: 1.0
-  unknown-17:
+  goryo7:
     weight: 1.0
     avg_copies: 3.0
 ---

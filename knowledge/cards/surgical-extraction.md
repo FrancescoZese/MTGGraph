@@ -12,9 +12,9 @@ archetypes:
   jeskai-energy:
     weight: 0.8
     avg_copies: 1.07
-  reanimator:
-    weight: 0.5932
-    avg_copies: 1.17
+  goryo:
+    weight: 0.75
+    avg_copies: 1.15
   necrodominance:
     weight: 0.7
     avg_copies: 1.57
@@ -27,6 +27,9 @@ archetypes:
   mill:
     weight: 1.0
     avg_copies: 2.33
+  reanimator:
+    weight: 0.2609
+    avg_copies: 1.33
   burn:
     weight: 0.5
     avg_copies: 2.0
@@ -81,19 +84,16 @@ archetypes:
   unknown-4:
     weight: 1.0
     avg_copies: 2.0
-  unknown-1:
-    weight: 0.5
-    avg_copies: 1.25
   unknown-2:
     weight: 1.0
     avg_copies: 4.0
   unknown-6:
     weight: 1.0
     avg_copies: 1.0
-  unknown-11:
+  goryo1:
     weight: 0.3333
     avg_copies: 1.0
-  unknown-15:
+  goryo5:
     weight: 1.0
     avg_copies: 2.0
 cmc: 1

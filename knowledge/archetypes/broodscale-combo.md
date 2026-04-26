@@ -6,22 +6,22 @@ name: Broodscale Combo
 meta_share: 0.0171
 list_count: 20
 top_cards:
-- name: Basking Broodscale
-  weight: 1.0
-  avg_copies: 4.0
-- name: Malevolent Rumble
-  weight: 1.0
-  avg_copies: 4.0
 - name: Grove of the Burnwillows
+  weight: 1.0
+  avg_copies: 4.0
+- name: Basking Broodscale
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
+- name: Kozilek's Command
+  weight: 1.0
+  avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
-- name: Kozilek's Command
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
 - name: Glaring Fleshraker
@@ -45,13 +45,13 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.44
-- name: Springleaf Drum
-  weight: 1.0
-  avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 1.0
 - name: Haywire Mite
+  weight: 1.0
+  avg_copies: 1.0
+- name: Springleaf Drum
   weight: 1.0
   avg_copies: 1.0
 - name: Walking Ballista
@@ -84,10 +84,10 @@ top_cards:
 - name: Unholy Heat
   weight: 0.55
   avg_copies: 1.88
-- name: Stomping Ground
+- name: Commercial District
   weight: 0.55
   avg_copies: 1.0
-- name: Commercial District
+- name: Stomping Ground
   weight: 0.55
   avg_copies: 1.0
 - name: Devourer of Destiny
@@ -102,10 +102,10 @@ top_cards:
 - name: Ugin's Labyrinth
   weight: 0.45
   avg_copies: 4.0
-- name: Soulless Jailer
+- name: Pick Your Poison
   weight: 0.45
   avg_copies: 1.78
-- name: Pick Your Poison
+- name: Soulless Jailer
   weight: 0.45
   avg_copies: 1.78
 - name: Verdant Catacombs
@@ -144,10 +144,10 @@ top_cards:
 - name: Heroic Intervention
   weight: 0.05
   avg_copies: 2.0
-- name: Ghost Quarter
+- name: Bojuka Bog
   weight: 0.05
   avg_copies: 1.0
-- name: Bojuka Bog
+- name: Ghost Quarter
   weight: 0.05
   avg_copies: 1.0
 ---

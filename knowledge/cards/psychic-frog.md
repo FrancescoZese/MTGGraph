@@ -13,14 +13,17 @@ archetypes:
   dimir-control:
     weight: 0.5094
     avg_copies: 3.52
-  reanimator:
-    weight: 0.9661
-    avg_copies: 3.82
+  goryo:
+    weight: 1.0
+    avg_copies: 3.77
   necrodominance:
     weight: 0.1
     avg_copies: 4.0
   domain-zoo:
     weight: 0.027
+    avg_copies: 4.0
+  reanimator:
+    weight: 0.913
     avg_copies: 4.0
   simic-ritual:
     weight: 0.0357
@@ -40,16 +43,13 @@ archetypes:
   unknown-4:
     weight: 0.5
     avg_copies: 4.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 4.0
   unknown-9:
     weight: 1.0
     avg_copies: 1.0
-  unknown-11:
+  goryo1:
     weight: 1.0
     avg_copies: 4.0
-  unknown-12:
+  goryo2:
     weight: 1.0
     avg_copies: 4.0
 ---

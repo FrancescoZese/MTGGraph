@@ -9,12 +9,12 @@ set: dsk
 type: Sorcery
 meta_presence: 0.0367
 archetypes:
-  reanimator:
-    weight: 0.339
-    avg_copies: 1.85
   domain-zoo:
     weight: 0.1622
     avg_copies: 1.0
+  reanimator:
+    weight: 0.8696
+    avg_copies: 1.85
   burn:
     weight: 0.5
     avg_copies: 3.0
@@ -42,7 +42,7 @@ archetypes:
   unknown-5:
     weight: 1.0
     avg_copies: 1.0
-  unknown-11:
+  goryo1:
     weight: 0.6667
     avg_copies: 1.5
 ---

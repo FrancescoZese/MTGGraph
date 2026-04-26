@@ -17,9 +17,9 @@ archetypes:
   jeskai-energy:
     weight: 0.0824
     avg_copies: 1.0
-  reanimator:
-    weight: 0.6102
-    avg_copies: 3.03
+  goryo:
+    weight: 1.0
+    avg_copies: 3.09
   necrodominance:
     weight: 0.05
     avg_copies: 2.0
@@ -56,16 +56,13 @@ archetypes:
   the-rock:
     weight: 1.0
     avg_copies: 1.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 3.38
   unknown-9:
     weight: 1.0
     avg_copies: 4.0
-  unknown-15:
+  goryo5:
     weight: 1.0
     avg_copies: 3.0
-  unknown-12:
+  goryo2:
     weight: 1.0
     avg_copies: 4.0
 ---

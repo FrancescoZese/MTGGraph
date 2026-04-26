@@ -7,10 +7,10 @@ name: Living End
 meta_share: 0.0179
 list_count: 21
 top_cards:
-- name: Shardless Agent
+- name: Endurance
   weight: 1.0
   avg_copies: 4.0
-- name: Endurance
+- name: Shardless Agent
   weight: 1.0
   avg_copies: 4.0
 - name: Force of Negation
@@ -40,10 +40,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
-- name: Forest
+- name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -109,10 +109,10 @@ top_cards:
 - name: Harvester of Misery
   weight: 0.4762
   avg_copies: 1.1
-- name: Boseiju, Who Endures
+- name: Mai, Scornful Striker
   weight: 0.4762
   avg_copies: 1.0
-- name: Mai, Scornful Striker
+- name: Boseiju, Who Endures
   weight: 0.4762
   avg_copies: 1.0
 - name: Force of Vigor
@@ -133,13 +133,13 @@ top_cards:
 - name: Troll of Khazad-dûm
   weight: 0.381
   avg_copies: 1.62
-- name: Disciple of Freyalise
+- name: Temple Garden
   weight: 0.381
   avg_copies: 1.0
 - name: Lush Portico
   weight: 0.381
   avg_copies: 1.0
-- name: Temple Garden
+- name: Disciple of Freyalise
   weight: 0.381
   avg_copies: 1.0
 - name: Clarion Conqueror
@@ -163,19 +163,19 @@ top_cards:
 - name: Swamp
   weight: 0.2381
   avg_copies: 1.0
-- name: Flare of Denial
+- name: Deafening Silence
   weight: 0.1905
   avg_copies: 1.0
-- name: Deafening Silence
+- name: Flare of Denial
   weight: 0.1905
   avg_copies: 1.0
 - name: Harbinger of the Seas
   weight: 0.1429
   avg_copies: 1.0
-- name: Fracturing Gust
+- name: Archon of Cruelty
   weight: 0.1429
   avg_copies: 1.0
-- name: Archon of Cruelty
+- name: Fracturing Gust
   weight: 0.1429
   avg_copies: 1.0
 - name: Drannith Magistrate
@@ -193,37 +193,37 @@ top_cards:
 - name: Atraxa, Grand Unifier
   weight: 0.0476
   avg_copies: 3.0
-- name: Steam Vents
-  weight: 0.0476
-  avg_copies: 2.0
 - name: Flooded Strand
-  weight: 0.0476
-  avg_copies: 2.0
-- name: Fulminator Mage
-  weight: 0.0476
-  avg_copies: 2.0
-- name: Titanoth Rex
   weight: 0.0476
   avg_copies: 2.0
 - name: Verdant Catacombs
   weight: 0.0476
   avg_copies: 2.0
-- name: Stomping Ground
+- name: Titanoth Rex
   weight: 0.0476
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: Steam Vents
+  weight: 0.0476
+  avg_copies: 2.0
+- name: Fulminator Mage
+  weight: 0.0476
+  avg_copies: 2.0
 - name: Murderous Cut
   weight: 0.0476
   avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Sunken Ruins
+- name: Windcaller Aven
   weight: 0.0476
   avg_copies: 1.0
 - name: Press the Enemy
   weight: 0.0476
   avg_copies: 1.0
-- name: Windcaller Aven
+- name: Collector Ouphe
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Stomping Ground
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Sunken Ruins
   weight: 0.0476
   avg_copies: 1.0
 ---

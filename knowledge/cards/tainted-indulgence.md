@@ -10,10 +10,7 @@ set: snc
 type: Instant
 meta_presence: 0.0111
 archetypes:
-  reanimator:
-    weight: 0.1695
-    avg_copies: 1.2
-  unknown-1:
-    weight: 0.375
-    avg_copies: 1.0
+  goryo:
+    weight: 0.2955
+    avg_copies: 1.15
 ---

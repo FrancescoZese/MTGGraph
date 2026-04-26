@@ -14,8 +14,8 @@ archetypes:
   amulet-titan:
     weight: 0.0625
     avg_copies: 1.0
-  reanimator:
-    weight: 0.2034
+  goryo:
+    weight: 0.2955
     avg_copies: 1.0
   azorius-control:
     weight: 0.0769
@@ -40,8 +40,5 @@ archetypes:
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.08
-    avg_copies: 1.0
-  unknown-1:
-    weight: 0.125
     avg_copies: 1.0
 ---

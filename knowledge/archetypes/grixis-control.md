@@ -9,19 +9,19 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 5.0
-- name: Galvanic Discharge
-  weight: 1.0
-  avg_copies: 4.0
 - name: Counterspell
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Snapcaster Mage
+- name: Galvanic Discharge
+  weight: 1.0
+  avg_copies: 4.0
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 3.67
-- name: Scalding Tarn
+- name: Snapcaster Mage
   weight: 1.0
   avg_copies: 3.67
 - name: Flame of Anor
@@ -45,10 +45,10 @@ top_cards:
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 2.0
-- name: Polluted Delta
+- name: Meltdown
   weight: 1.0
   avg_copies: 2.0
-- name: Meltdown
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 2.0
 - name: Fire Magic
@@ -72,13 +72,13 @@ top_cards:
 - name: Consult the Star Charts
   weight: 0.6667
   avg_copies: 2.5
-- name: Ghost Vacuum
+- name: Flooded Strand
   weight: 0.6667
   avg_copies: 2.0
 - name: Invert Polarity
   weight: 0.6667
   avg_copies: 2.0
-- name: Flooded Strand
+- name: Ghost Vacuum
   weight: 0.6667
   avg_copies: 2.0
 - name: Preordain
@@ -93,43 +93,43 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 0.3333
   avg_copies: 3.0
-- name: Thundertrap Trainer
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Lórien Revealed
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Wan Shi Tong, Librarian
-  weight: 0.3333
-  avg_copies: 2.0
 - name: Surgical Extraction
   weight: 0.3333
   avg_copies: 2.0
 - name: Blood Moon
   weight: 0.3333
   avg_copies: 2.0
+- name: Wan Shi Tong, Librarian
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Thundertrap Trainer
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Lórien Revealed
+  weight: 0.3333
+  avg_copies: 2.0
 - name: Field of Ruin
   weight: 0.3333
   avg_copies: 2.0
-- name: Stern Scolding
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Vedalken Shackles
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Dress Down
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Brotherhood's End
   weight: 0.3333
   avg_copies: 1.0
 - name: Hurkyl's Recall
   weight: 0.3333
   avg_copies: 1.0
-- name: Force of Negation
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Sink into Stupor
   weight: 0.3333
   avg_copies: 1.0
-- name: Brotherhood's End
+- name: Force of Negation
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Vedalken Shackles
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Stern Scolding
   weight: 0.3333
   avg_copies: 1.0
 ---

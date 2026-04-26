@@ -9,7 +9,7 @@ set: lcc
 type: Sorcery
 meta_presence: 0.0009
 archetypes:
-  reanimator:
-    weight: 0.0169
+  goryo:
+    weight: 0.0227
     avg_copies: 1.0
 ---

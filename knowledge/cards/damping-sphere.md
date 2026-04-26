@@ -17,9 +17,9 @@ archetypes:
   jeskai-energy:
     weight: 0.3176
     avg_copies: 1.41
-  reanimator:
-    weight: 0.3559
-    avg_copies: 1.9
+  goryo:
+    weight: 0.1136
+    avg_copies: 1.6
   hardened-scales:
     weight: 1.0
     avg_copies: 3.0
@@ -38,6 +38,9 @@ archetypes:
   domain-zoo:
     weight: 0.8108
     avg_copies: 1.53
+  reanimator:
+    weight: 0.7391
+    avg_copies: 1.94
   burn:
     weight: 0.25
     avg_copies: 2.0
@@ -98,22 +101,19 @@ archetypes:
   the-rock:
     weight: 1.0
     avg_copies: 2.0
-  unknown-1:
-    weight: 0.125
-    avg_copies: 1.0
   unknown-6:
     weight: 1.0
     avg_copies: 2.0
   unknown-5:
     weight: 1.0
     avg_copies: 2.0
-  unknown-11:
+  goryo1:
     weight: 1.0
     avg_copies: 2.0
-  unknown-14:
+  goryo4:
     weight: 1.0
     avg_copies: 2.0
-  unknown-17:
+  goryo7:
     weight: 1.0
     avg_copies: 2.0
 ---

@@ -10,8 +10,8 @@ set: dft
 type: Legendary Creature — God
 meta_presence: 0.0128
 archetypes:
-  reanimator:
-    weight: 0.0339
+  goryo:
+    weight: 0.0455
     avg_copies: 1.0
   mardu-blink:
     weight: 0.8182
@@ -22,7 +22,7 @@ archetypes:
   esper-midrange:
     weight: 1.0
     avg_copies: 4.0
-  unknown-12:
+  goryo2:
     weight: 1.0
     avg_copies: 3.0
 ---

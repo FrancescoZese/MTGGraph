@@ -12,7 +12,7 @@ archetypes:
   mono-red-belcher:
     weight: 1.0
     avg_copies: 3.83
-  unknown-10:
+  goryo0:
     weight: 1.0
     avg_copies: 4.0
 ---

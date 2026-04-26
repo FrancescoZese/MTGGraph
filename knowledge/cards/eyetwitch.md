@@ -10,6 +10,6 @@ type: Creature — Eye Bat
 meta_presence: 0.0009
 archetypes:
   reanimator:
-    weight: 0.0169
+    weight: 0.0435
     avg_copies: 4.0
 ---

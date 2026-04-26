@@ -11,9 +11,9 @@ archetypes:
   dimir-control:
     weight: 1.0
     avg_copies: 3.72
-  reanimator:
-    weight: 0.9831
-    avg_copies: 3.71
+  goryo:
+    weight: 1.0
+    avg_copies: 3.68
   necrodominance:
     weight: 0.1
     avg_copies: 3.5
@@ -29,6 +29,9 @@ archetypes:
   mill:
     weight: 1.0
     avg_copies: 4.0
+  reanimator:
+    weight: 0.9565
+    avg_copies: 3.86
   neoform-combo:
     weight: 0.6
     avg_copies: 1.13
@@ -68,9 +71,6 @@ archetypes:
   the-rock:
     weight: 1.0
     avg_copies: 1.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 4.0
   unknown-2:
     weight: 1.0
     avg_copies: 3.0
@@ -80,16 +80,16 @@ archetypes:
   unknown-5:
     weight: 1.0
     avg_copies: 4.0
-  unknown-11:
+  goryo1:
     weight: 1.0
     avg_copies: 4.0
-  unknown-15:
+  goryo5:
     weight: 1.0
     avg_copies: 2.0
-  unknown-12:
+  goryo2:
     weight: 1.0
     avg_copies: 2.0
-  unknown-13:
+  goryo3:
     weight: 1.0
     avg_copies: 1.0
 ---

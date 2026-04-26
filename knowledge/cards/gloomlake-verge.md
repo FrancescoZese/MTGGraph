@@ -11,7 +11,7 @@ archetypes:
   dimir-control:
     weight: 0.0943
     avg_copies: 1.2
-  unknown-1:
-    weight: 0.125
+  goryo:
+    weight: 0.0227
     avg_copies: 1.0
 ---

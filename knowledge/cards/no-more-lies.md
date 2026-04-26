@@ -13,8 +13,8 @@ archetypes:
   jeskai-energy:
     weight: 0.1882
     avg_copies: 1.5
-  reanimator:
-    weight: 0.0169
+  goryo:
+    weight: 0.0227
     avg_copies: 2.0
   esper-blink:
     weight: 0.0909
@@ -22,7 +22,7 @@ archetypes:
   esper-midrange:
     weight: 1.0
     avg_copies: 4.0
-  unknown-12:
+  goryo2:
     weight: 1.0
     avg_copies: 2.0
 ---

@@ -10,7 +10,7 @@ set: inr
 type: Creature — Spirit
 meta_presence: 0.0009
 archetypes:
-  unknown-13:
+  goryo3:
     weight: 1.0
     avg_copies: 2.0
 ---

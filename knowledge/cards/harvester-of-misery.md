@@ -9,13 +9,13 @@ set: big
 type: Creature — Spirit
 meta_presence: 0.0102
 archetypes:
-  reanimator:
-    weight: 0.0169
-    avg_copies: 1.0
   living-end:
     weight: 0.4762
     avg_copies: 1.1
-  unknown-11:
+  reanimator:
+    weight: 0.0435
+    avg_copies: 1.0
+  goryo1:
     weight: 0.3333
     avg_copies: 1.0
 ---

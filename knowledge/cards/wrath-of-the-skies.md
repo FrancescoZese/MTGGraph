@@ -18,9 +18,9 @@ archetypes:
   eldrazi-tron:
     weight: 0.0213
     avg_copies: 2.0
-  reanimator:
-    weight: 0.6102
-    avg_copies: 2.23
+  goryo:
+    weight: 0.9773
+    avg_copies: 2.26
   azorius-control:
     weight: 0.8462
     avg_copies: 1.88
@@ -54,22 +54,19 @@ archetypes:
   naya-midrange:
     weight: 1.0
     avg_copies: 4.0
-  unknown-1:
-    weight: 0.875
-    avg_copies: 2.43
   unknown-9:
     weight: 1.0
     avg_copies: 1.0
   unknown-7:
     weight: 1.0
     avg_copies: 1.0
-  unknown-16:
+  goryo6:
     weight: 1.0
     avg_copies: 4.0
-  unknown-12:
+  goryo2:
     weight: 1.0
     avg_copies: 1.0
-  unknown-13:
+  goryo3:
     weight: 1.0
     avg_copies: 4.0
 ---

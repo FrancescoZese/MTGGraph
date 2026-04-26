@@ -12,8 +12,8 @@ archetypes:
   dimir-control:
     weight: 0.434
     avg_copies: 1.29
-  reanimator:
-    weight: 0.0169
+  goryo:
+    weight: 0.0227
     avg_copies: 1.0
   necrodominance:
     weight: 0.1

@@ -151,19 +151,19 @@ top_cards:
 - name: Tune the Narrative
   weight: 0.1538
   avg_copies: 2.0
-- name: Stern Scolding
+- name: Watery Grave
+  weight: 0.1538
+  avg_copies: 1.0
+- name: Meltdown
   weight: 0.1538
   avg_copies: 1.0
 - name: Mistrise Village
   weight: 0.1538
   avg_copies: 1.0
-- name: Watery Grave
+- name: Stern Scolding
   weight: 0.1538
   avg_copies: 1.0
 - name: Polluted Delta
-  weight: 0.1538
-  avg_copies: 1.0
-- name: Meltdown
   weight: 0.1538
   avg_copies: 1.0
 - name: Damping Sphere
@@ -190,10 +190,10 @@ top_cards:
 - name: Vendilion Clique
   weight: 0.0769
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Disruptor Flute
   weight: 0.0769
   avg_copies: 1.0
-- name: Disruptor Flute
+- name: Breeding Pool
   weight: 0.0769
   avg_copies: 1.0
 - name: Gemstone Caverns
@@ -214,43 +214,43 @@ top_cards:
 - name: Floodfarm Verge
   weight: 0.0385
   avg_copies: 2.0
-- name: Get Lost
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Commandeer
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Misty Rainforest
-  weight: 0.0385
-  avg_copies: 1.0
 - name: Wear
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Celestial Colonnade
   weight: 0.0385
   avg_copies: 1.0
 - name: Strix Serenade
   weight: 0.0385
   avg_copies: 1.0
-- name: The Wandering Emperor
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Timeless Dragon
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Field of Ruin
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Dress Down
+- name: Jace, the Mind Sculptor
   weight: 0.0385
   avg_copies: 1.0
 - name: Wan Shi Tong, Librarian
   weight: 0.0385
   avg_copies: 1.0
-- name: Jace, the Mind Sculptor
+- name: The Wandering Emperor
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Misty Rainforest
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Commandeer
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Get Lost
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Tamiyo, Inquisitive Student
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Dress Down
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Celestial Colonnade
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Field of Ruin
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Timeless Dragon
   weight: 0.0385
   avg_copies: 1.0
 ---

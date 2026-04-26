@@ -13,7 +13,7 @@ archetypes:
   azorius-control:
     weight: 0.4615
     avg_copies: 1.0
-  unknown-16:
+  goryo6:
     weight: 1.0
     avg_copies: 1.0
 ---
