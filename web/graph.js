@@ -342,20 +342,47 @@ function initSidebarTabs() {
         players: document.getElementById("meta-sidebar-players"),
     };
 
+    const searchInput = document.getElementById("meta-search");
+    const placeholders = {
+        archetypes: "Search archetypes...",
+        cards: "Search cards...",
+        players: "Search players...",
+    };
+    let activeTab = "archetypes";
+
     document.querySelectorAll(".meta-sidebar-tab").forEach(tab => {
         tab.addEventListener("click", () => {
             document.querySelectorAll(".meta-sidebar-tab").forEach(t => t.classList.remove("active"));
             tab.classList.add("active");
 
-            const target = tab.dataset.tab;
-            const isArch = target === "archetypes";
+            activeTab = tab.dataset.tab;
+            const isArch = activeTab === "archetypes";
             for (const [key, el] of Object.entries(panels)) {
-                el.classList.toggle("hidden", key !== target);
+                el.classList.toggle("hidden", key !== activeTab);
             }
-            // Only threshold line is archetype-specific
             const threshold = document.querySelector(".meta-threshold-line");
             if (threshold) threshold.style.display = isArch ? "" : "none";
+
+            // Update search placeholder and clear
+            searchInput.placeholder = placeholders[activeTab];
+            searchInput.value = "";
+            filterSidebarRows(panels[activeTab], "");
         });
+    });
+
+    // Search filtering
+    searchInput.addEventListener("input", () => {
+        filterSidebarRows(panels[activeTab], searchInput.value);
+    });
+}
+
+function filterSidebarRows(container, query) {
+    const q = query.toLowerCase().trim();
+    container.querySelectorAll(".meta-row").forEach(row => {
+        const name = row.querySelector(".meta-row-name");
+        if (!name) return;
+        const match = !q || name.textContent.toLowerCase().includes(q);
+        row.style.display = match ? "" : "none";
     });
 }
 

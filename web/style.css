@@ -143,11 +143,34 @@ body {
     background: linear-gradient(to right, var(--bg) 80%, transparent);
 }
 
+/* Sidebar search */
+.meta-search {
+    width: 100%;
+    font-family: var(--font-body);
+    font-size: 11px;
+    color: var(--ink);
+    background: var(--panel-bg);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 5px 8px;
+    margin-bottom: 6px;
+    outline: none;
+    transition: border-color .15s;
+}
+
+.meta-search:focus {
+    border-color: var(--accent);
+}
+
+.meta-search::placeholder {
+    color: var(--ink-faint);
+}
+
 /* Sidebar tabs */
 .meta-sidebar-tabs {
     display: flex;
     gap: 0;
-    margin-bottom: 8px;
+    margin-bottom: 6px;
     border-bottom: 1px solid var(--border);
 }
 
