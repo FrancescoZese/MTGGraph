@@ -1130,6 +1130,11 @@ function animateBars(bars) {
 
 /* ── Mobile bottom sheet ── */
 
+// Sheet positions, expressed as yPercent of the element's own height (100dvh):
+//   0   = fullscreen
+//   45  = default open (bottom 55dvh visible)
+//   100 = closed (off-screen)
+const SHEET_POS = { FULL: 0, DEFAULT: 45, CLOSED: 100 };
 let sheetOpen = false;
 let sheetTween = null;
 
@@ -1146,31 +1151,51 @@ function initMobileSheet() {
         if (sheetOpen) closeMobileSheet();
     }, true);
 
-    // Swipe down to dismiss
-    if (isMobile()) {
-        const handle = document.getElementById("meta-sidebar-handle");
-        if (handle) {
-            let startY = 0, deltaY = 0;
-            handle.addEventListener("touchstart", (e) => {
-                startY = e.touches[0].clientY;
-                deltaY = 0;
-            }, { passive: true });
-            handle.addEventListener("touchmove", (e) => {
-                deltaY = e.touches[0].clientY - startY;
-                if (deltaY > 0) {
-                    e.preventDefault();
-                    gsap.set(sidebar, { y: deltaY * 0.7 });
-                }
-            }, { passive: false });
-            handle.addEventListener("touchend", () => {
-                if (deltaY > 60) {
-                    closeMobileSheet();
-                } else if (deltaY > 0) {
-                    gsap.to(sidebar, { y: 0, duration: 0.2, ease: "power2.out" });
-                }
-            }, { passive: true });
+    const handle = document.getElementById("meta-sidebar-handle");
+    if (!handle) return;
+
+    let dragging = false;
+    let startY = 0;
+    let startPercent = SHEET_POS.DEFAULT;
+
+    function onPointerDown(e) {
+        if (!sheetOpen) return;
+        if (e.pointerType === "mouse" && e.button !== 0) return;
+        e.preventDefault();
+        handle.setPointerCapture(e.pointerId);
+        if (sheetTween) sheetTween.kill();
+        startY = e.clientY;
+        startPercent = parseFloat(gsap.getProperty(sidebar, "yPercent")) || SHEET_POS.DEFAULT;
+        dragging = true;
+    }
+
+    function onPointerMove(e) {
+        if (!dragging) return;
+        const dvh = window.innerHeight / 100;
+        const deltaPercent = (e.clientY - startY) / dvh;
+        const clamped = Math.max(SHEET_POS.FULL, Math.min(SHEET_POS.CLOSED, startPercent + deltaPercent));
+        gsap.set(sidebar, { yPercent: clamped });
+    }
+
+    function endDrag(e) {
+        if (!dragging) return;
+        dragging = false;
+        try { handle.releasePointerCapture(e.pointerId); } catch (_) {}
+        const yPct = parseFloat(gsap.getProperty(sidebar, "yPercent")) || SHEET_POS.DEFAULT;
+        // Snap to nearest target
+        if (yPct < (SHEET_POS.FULL + SHEET_POS.DEFAULT) / 2) {
+            expandMobileSheet();
+        } else if (yPct > (SHEET_POS.DEFAULT + SHEET_POS.CLOSED) / 2) {
+            closeMobileSheet();
+        } else {
+            openMobileSheet();
         }
     }
+
+    handle.addEventListener("pointerdown", onPointerDown);
+    handle.addEventListener("pointermove", onPointerMove);
+    handle.addEventListener("pointerup", endDrag);
+    handle.addEventListener("pointercancel", endDrag);
 }
 
 function openMobileSheet() {
@@ -1180,9 +1205,20 @@ function openMobileSheet() {
     if (sheetTween) sheetTween.kill();
     sidebar.style.visibility = "visible";
     sheetTween = gsap.to(sidebar, {
-        y: 0, duration: dur ? 0.45 : 0, ease: "power3.out", overwrite: true
+        yPercent: SHEET_POS.DEFAULT, duration: dur ? 0.4 : 0, ease: "power3.out", overwrite: true
     });
     gsap.to(toggle, { autoAlpha: 0, duration: dur ? 0.2 : 0 });
+    sheetOpen = true;
+}
+
+function expandMobileSheet() {
+    const sidebar = document.getElementById("meta-sidebar");
+    const dur = highlightDuration();
+    if (sheetTween) sheetTween.kill();
+    sidebar.style.visibility = "visible";
+    sheetTween = gsap.to(sidebar, {
+        yPercent: SHEET_POS.FULL, duration: dur ? 0.3 : 0, ease: "power3.out", overwrite: true
+    });
     sheetOpen = true;
 }
 
@@ -1192,7 +1228,7 @@ function closeMobileSheet() {
     const dur = highlightDuration();
     if (sheetTween) sheetTween.kill();
     sheetTween = gsap.to(sidebar, {
-        y: "100%", duration: dur ? 0.35 : 0, ease: "power2.in", overwrite: true,
+        yPercent: SHEET_POS.CLOSED, duration: dur ? 0.3 : 0, ease: "power2.in", overwrite: true,
         onComplete: () => { sidebar.style.visibility = "hidden"; }
     });
     gsap.to(toggle, { autoAlpha: 1, duration: dur ? 0.2 : 0, delay: dur ? 0.15 : 0 });
@@ -1313,29 +1349,42 @@ function initPanelSwipe(panel) {
     const handle = document.getElementById("panel-swipe-handle");
     if (!handle) return;
 
+    let dragging = false;
     let startY = 0;
     let deltaY = 0;
 
-    handle.addEventListener("touchstart", (e) => {
-        startY = e.touches[0].clientY;
+    function onPointerDown(e) {
+        if (e.pointerType === "mouse" && e.button !== 0) return;
+        e.preventDefault();
+        handle.setPointerCapture(e.pointerId);
+        startY = e.clientY;
         deltaY = 0;
-    }, { passive: true });
+        dragging = true;
+    }
 
-    handle.addEventListener("touchmove", (e) => {
-        deltaY = e.touches[0].clientY - startY;
-        if (deltaY > 0) {
-            e.preventDefault();
-            gsap.set(panel, { y: deltaY * 0.7 });
-        }
-    }, { passive: false });
+    function onPointerMove(e) {
+        if (!dragging) return;
+        deltaY = e.clientY - startY;
+        // Resistance pulling above the rest position; downward follows finger.
+        const offset = deltaY > 0 ? deltaY * 0.7 : deltaY * 0.15;
+        gsap.set(panel, { y: offset });
+    }
 
-    handle.addEventListener("touchend", () => {
+    function endDrag(e) {
+        if (!dragging) return;
+        dragging = false;
+        try { handle.releasePointerCapture(e.pointerId); } catch (_) {}
         if (deltaY > 60) {
             closePanel();
-        } else if (deltaY > 0) {
+        } else {
             gsap.to(panel, { y: 0, duration: 0.2, ease: "power2.out" });
         }
-    }, { passive: true });
+    }
+
+    handle.addEventListener("pointerdown", onPointerDown);
+    handle.addEventListener("pointermove", onPointerMove);
+    handle.addEventListener("pointerup", endDrag);
+    handle.addEventListener("pointercancel", endDrag);
 }
 
 function animatePanelContent() {

@@ -1141,16 +1141,17 @@ body {
 
     #meta-toggle:active { background: var(--bg-warm); }
 
-    /* Meta sidebar bottom sheet */
+    /* Meta sidebar bottom sheet — full height; transform-y controls how much
+       of it sits on screen. Default position shows the bottom 55dvh; pulling
+       the handle up brings it to fullscreen, pulling down dismisses it. */
     #meta-sidebar {
         position: fixed;
-        top: auto;
+        top: 0;
         bottom: 0;
         left: 0;
         right: 0;
         width: 100%;
-        height: 55dvh;
-        max-height: 55dvh;
+        height: 100dvh;
         z-index: 15;
         padding: 8px 16px 24px;
         background: var(--panel-bg);
@@ -1164,13 +1165,27 @@ body {
         visibility: hidden;
     }
 
+    /* Bigger hit area for the drag handle without growing the visible bar.
+       The sheet uses touch-action: none here so vertical drags are captured
+       instead of being eaten by the body's pan-y. */
     #meta-sidebar-handle {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 28px;
+        margin: 0 auto 4px;
+        cursor: grab;
+        touch-action: none;
+        -webkit-tap-highlight-color: transparent;
+    }
+    #meta-sidebar-handle::before {
+        content: "";
         display: block;
         width: 36px;
         height: 4px;
         background: var(--border);
         border-radius: 2px;
-        margin: 4px auto 8px;
     }
 
     /* Hide drag threshold on mobile — use chips instead */
