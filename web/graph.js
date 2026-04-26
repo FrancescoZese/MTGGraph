@@ -184,6 +184,7 @@ function updateMetaSidebar(data) {
                 if (currentCardSel && currentArchSel && currentLinkSel && currentValidEdges) {
                     highlight(archNode, currentValidEdges, currentCardSel, currentArchSel, currentLinkSel);
                 }
+                showVariantsPill(archNode);
             }
         });
     });
@@ -761,41 +762,7 @@ function renderGraph(data, skipAnimation) {
                 highlight(d, validEdges, cardSel, archSel, link);
                 if (isMobile()) centerOnConnected(d, validEdges);
 
-                // Show variants pill on the graph near the node
-                removeVariantsPill();
-                const lists = d.lists || [];
-                if (lists.length >= 3) {
-                    variantsPill = g.append("g")
-                        .attr("cursor", "pointer")
-                        .attr("class", "variants-pill")
-                        .on("click", (e) => {
-                            e.stopPropagation();
-                            openVariantsOverlay(d.name, lists, d.colors, d.medoid_index, d.cluster_threshold);
-                        });
-                    variantsPill.append("rect")
-                        .attr("rx", 12).attr("ry", 12)
-                        .attr("width", 90).attr("height", 28)
-                        .attr("x", -45).attr("y", 0)
-                        .attr("fill", "var(--bg)")
-                        .attr("stroke", "var(--accent)")
-                        .attr("stroke-width", 1.5)
-                        .attr("opacity", 0.95);
-                    variantsPill.append("text")
-                        .attr("text-anchor", "middle")
-                        .attr("y", 19)
-                        .attr("font-family", "'Instrument Serif', Georgia, serif")
-                        .attr("font-size", 15)
-                        .attr("fill", "var(--accent)")
-                        .attr("pointer-events", "none")
-                        .text("variants");
-                    const r = archRadius(d);
-                    variantsPill.attr("transform", `translate(${d.x},${d.y + r + 18})`);
-                    // Follow node on simulation tick
-                    simulation.on("tick.pill", () => {
-                        if (variantsPill) variantsPill.attr("transform", `translate(${d.x},${d.y + r + 18})`);
-                    });
-                    gsap.fromTo(variantsPill.node(), { opacity: 0, y: -5 }, { opacity: 1, y: 0, duration: 0.3, ease: "power2.out" });
-                }
+                showVariantsPill(d);
             });
 
         // Update stored refs for filter + sidebar
@@ -986,6 +953,46 @@ function unhighlight(cardSel, archSel, linkSel) {
 let variantsPill = null;
 function removeVariantsPill() {
     if (variantsPill) { variantsPill.remove(); variantsPill = null; }
+    if (simulation) simulation.on("tick.pill", null);
+}
+
+function showVariantsPill(d) {
+    removeVariantsPill();
+    const lists = d.lists || [];
+    if (lists.length < 3 || !currentSvg) return;
+
+    const svgG = currentSvg.select("g");
+    variantsPill = svgG.append("g")
+        .attr("cursor", "pointer")
+        .attr("class", "variants-pill")
+        .on("click", (e) => {
+            e.stopPropagation();
+            openVariantsOverlay(d.name, lists, d.colors, d.medoid_index, d.cluster_threshold);
+        });
+    variantsPill.append("rect")
+        .attr("rx", 12).attr("ry", 12)
+        .attr("width", 90).attr("height", 28)
+        .attr("x", -45).attr("y", 0)
+        .attr("fill", "var(--bg)")
+        .attr("stroke", "var(--accent)")
+        .attr("stroke-width", 1.5)
+        .attr("opacity", 0.95);
+    variantsPill.append("text")
+        .attr("text-anchor", "middle")
+        .attr("y", 19)
+        .attr("font-family", "'Instrument Serif', Georgia, serif")
+        .attr("font-size", 15)
+        .attr("fill", "var(--accent)")
+        .attr("pointer-events", "none")
+        .text("variants");
+    const r = archRadius(d);
+    variantsPill.attr("transform", `translate(${d.x},${d.y + r + 18})`);
+    if (simulation) {
+        simulation.on("tick.pill", () => {
+            if (variantsPill) variantsPill.attr("transform", `translate(${d.x},${d.y + r + 18})`);
+        });
+    }
+    gsap.fromTo(variantsPill.node(), { opacity: 0, y: -5 }, { opacity: 1, y: 0, duration: 0.3, ease: "power2.out" });
 }
 
 function resetHighlight() {
