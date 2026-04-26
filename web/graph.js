@@ -341,15 +341,25 @@ function initSidebarTabs() {
         players: document.getElementById("meta-sidebar-players"),
     };
 
+    const filters = document.querySelector(".source-filters");
+    const chips = document.getElementById("mobile-filter-chips");
+    const divider = document.querySelector(".masthead-divider");
+
     document.querySelectorAll(".meta-sidebar-tab").forEach(tab => {
         tab.addEventListener("click", () => {
             document.querySelectorAll(".meta-sidebar-tab").forEach(t => t.classList.remove("active"));
             tab.classList.add("active");
 
             const target = tab.dataset.tab;
+            const isArch = target === "archetypes";
             for (const [key, el] of Object.entries(panels)) {
                 el.classList.toggle("hidden", key !== target);
             }
+            if (filters) filters.style.display = isArch ? "" : "none";
+            if (divider) divider.style.display = isArch ? "" : "none";
+            if (chips) chips.style.display = isArch ? "" : "none";
+            const threshold = document.querySelector(".meta-threshold-line");
+            if (threshold) threshold.style.display = isArch ? "" : "none";
         });
     });
 }
@@ -514,6 +524,22 @@ function buildMobileFilterChips() {
                     row.classList.toggle("dimmed", ri >= thresholdIndex);
                 }
             });
+
+            // When entering Rogue mode, scroll the sidebar to the first highlighted row
+            if (isRogue) {
+                const firstRogueRow = document.querySelector(
+                    `#meta-sidebar-list .meta-row[data-row-index="${idx}"]`
+                );
+                const sidebar = document.getElementById("meta-sidebar");
+                if (firstRogueRow && sidebar) {
+                    const sidebarTop = sidebar.getBoundingClientRect().top;
+                    const rowTop = firstRogueRow.getBoundingClientRect().top;
+                    sidebar.scrollTo({
+                        top: sidebar.scrollTop + (rowTop - sidebarTop) - 12,
+                        behavior: "smooth",
+                    });
+                }
+            }
 
             applyAllFilters(true);
         });
