@@ -641,19 +641,17 @@ body {
 /* ---- Variants Trigger (in detail panel) ---- */
 
 .variants-link {
-    display: inline-block;
-    margin-top: 8px;
     color: var(--accent);
     cursor: pointer;
-    text-decoration: none;
-    font-family: var(--font-display);
-    font-size: 16px;
-    transition: text-decoration .15s;
+    font: inherit;
+    letter-spacing: inherit;
+    text-transform: inherit;
+    border-bottom: 1px solid currentColor;
+    padding-bottom: 1px;
+    transition: opacity .15s;
 }
 
-.variants-link:hover {
-    text-decoration: underline;
-}
+.variants-link:hover { opacity: 0.65; }
 
 /* ---- Variants Overlay ---- */
 
@@ -941,6 +939,93 @@ body {
 
 .result-card:hover {
     background: var(--bg-warm);
+}
+
+/* ---- Selected archetype header ---- */
+
+#arch-header {
+    position: fixed;
+    top: 96px;
+    left: 0;
+    right: 0;
+    z-index: 9;
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    padding: 18px 24px 28px;
+    pointer-events: none;
+    opacity: 0;
+    transform: translateY(-6px);
+    transition: opacity .3s ease, transform .3s ease;
+}
+
+/* Cream veil for legibility — kept on a pseudo-element so the horizontal mask
+   only fades the background, never the title/link text itself. */
+#arch-header::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    background: linear-gradient(to bottom, var(--bg) 35%, rgba(244, 241, 235, 0) 100%);
+    -webkit-mask-image: linear-gradient(to right, transparent 0%, black 22%, black 78%, transparent 100%);
+            mask-image: linear-gradient(to right, transparent 0%, black 22%, black 78%, transparent 100%);
+    pointer-events: none;
+}
+
+#arch-header.visible {
+    display: flex;
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.arch-header-name {
+    font-family: var(--font-display);
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 1;
+    color: var(--ink);
+    letter-spacing: -0.015em;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: min(80vw, 1100px);
+    pointer-events: none;
+}
+
+.arch-header-variants {
+    font-family: var(--font-display);
+    font-style: italic;
+    font-size: 17px;
+    color: var(--accent);
+    cursor: pointer;
+    border-bottom: 1px solid currentColor;
+    padding-bottom: 1px;
+    transition: opacity .15s;
+    pointer-events: auto;
+}
+
+.arch-header-variants::after {
+    content: " \2192";
+    font-style: normal;
+}
+
+.arch-header-variants:hover { opacity: 0.65; }
+
+.arch-header-variants.hidden { display: none; }
+
+/* Hide the SVG label under the currently selected archetype node */
+.arch-node.label-hidden text { opacity: 0; }
+
+@media (max-width: 600px) {
+    #arch-header {
+        top: 80px;
+        padding: 10px 16px 22px;
+        gap: 6px;
+    }
+    .arch-header-name { font-size: 32px; max-width: 90vw; }
+    .arch-header-variants { font-size: 13px; }
 }
 
 /* ---- Meta toggle (mobile only) ---- */

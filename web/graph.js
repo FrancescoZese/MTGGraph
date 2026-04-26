@@ -231,7 +231,7 @@ function updateCardsSidebar(data) {
             const cardNode = data.nodes.find(n => n.id === cardId);
             if (cardNode) {
                 if (sheetOpen) closeMobileSheet();
-                removeVariantsPill();
+                removeArchHeader();
                 isHighlighted = false;
                 const nodeMap = new Map(data.nodes.map(n => [n.id, n]));
                 const edges = data.edges;
@@ -284,7 +284,7 @@ function updatePlayersSidebar(data) {
         row.addEventListener("click", () => {
             const pilot = row.dataset.player;
             if (sheetOpen) closeMobileSheet();
-            removeVariantsPill();
+            removeArchHeader();
             isHighlighted = false;
 
             // Find archetype IDs that contain lists by this pilot
@@ -364,6 +364,8 @@ function initSidebarTabs() {
             }
             const threshold = document.querySelector(".meta-threshold-line");
             if (threshold) threshold.style.display = isArch ? "" : "none";
+            const chips = document.getElementById("mobile-filter-chips");
+            if (chips) chips.style.display = isArch ? "" : "none";
 
             // Update search placeholder and clear
             searchInput.placeholder = placeholders[activeTab];
@@ -675,9 +677,8 @@ function createManaArc(parentG, d) {
 /* ── Render ── */
 
 function renderGraph(data, skipAnimation) {
-    // Halt the previous simulation before its tick handlers (e.g. tick.pill)
-    // can race with the new one and reposition newly created elements.
-    removeVariantsPill();
+    // Stop the previous simulation so its tick handlers can't race with the new one.
+    removeArchHeader();
     if (simulation) simulation.stop();
     isHighlighted = false;
 
@@ -1072,10 +1073,6 @@ function showArchHeader(d) {
     header.classList.add("visible");
 }
 
-// Backward-compatible aliases — older call sites still reach the pill API.
-function removeVariantsPill() { removeArchHeader(); }
-function showVariantsPill(d) { showArchHeader(d); }
-
 function resetHighlight() {
     closePanel();
     removeArchHeader();
@@ -1220,7 +1217,7 @@ function centerOnConnected(d, edges) {
     const pad = 60;
     const scaleX = (width - pad * 2) / bw;
     const scaleY = (targetH - pad * 2) / bh;
-    const scale = Math.min(scaleX, scaleY, 2.5); // cap zoom
+    const scale = Math.min(scaleX, scaleY, 1.6); // cap zoom — keep context visible around the cluster
 
     const tx = targetCenterX - cx * scale;
     const ty = targetCenterY - cy * scale;
