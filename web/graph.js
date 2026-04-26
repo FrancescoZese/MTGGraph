@@ -435,40 +435,42 @@ function initThresholdDrag(container) {
     const sidebar = document.getElementById("meta-sidebar");
 
     let dragging = false;
-    let scrollRAF = null;
     let lastClientY = 0;
+    let moveRAF = null;
+    // Snapshot of each row's geometry — read once on pointerdown to avoid
+    // per-frame getBoundingClientRect() calls that force layout.
+    let rowCache = [];      // [{ rowIndex, centerOffset, el }]
+    let rowsRefs = [];      // raw DOM refs in DOM order
+    let sidebarTop = 0;
+
+    function rebuildRowCache() {
+        const rows = container.querySelectorAll(".meta-row");
+        rowsRefs = Array.from(rows);
+        rowCache = rowsRefs.map(row => ({
+            rowIndex: parseInt(row.dataset.rowIndex),
+            centerOffset: row.offsetTop + row.offsetHeight / 2,
+            el: row,
+        }));
+        sidebarTop = sidebar.getBoundingClientRect().top;
+    }
 
     function autoScroll(clientY) {
-        const rect = sidebar.getBoundingClientRect();
         const EDGE = 40, SPEED = 5;
+        const bottom = sidebarTop + sidebar.clientHeight;
         let delta = 0;
-        if (clientY > rect.bottom - EDGE)
-            delta = SPEED * Math.min(1, (clientY - (rect.bottom - EDGE)) / EDGE);
-        else if (clientY < rect.top + EDGE)
-            delta = -SPEED * Math.min(1, ((rect.top + EDGE) - clientY) / EDGE);
-
-        if (delta !== 0) {
-            sidebar.scrollTop += delta;
-            if (!scrollRAF) {
-                scrollRAF = requestAnimationFrame(() => {
-                    scrollRAF = null;
-                    if (dragging) {
-                        autoScroll(lastClientY);
-                        updatePosition(lastClientY);
-                    }
-                });
-            }
-        }
+        if (clientY > bottom - EDGE)
+            delta = SPEED * Math.min(1, (clientY - (bottom - EDGE)) / EDGE);
+        else if (clientY < sidebarTop + EDGE)
+            delta = -SPEED * Math.min(1, ((sidebarTop + EDGE) - clientY) / EDGE);
+        if (delta !== 0) sidebar.scrollTop += delta;
     }
 
     function updatePosition(clientY) {
-        // Read row positions live — no cache, always accurate
-        const rows = container.querySelectorAll(".meta-row");
+        const scrollTop = sidebar.scrollTop;
         let newIndex = sidebarArchs.length;
-        for (const row of rows) {
-            const rect = row.getBoundingClientRect();
-            if (clientY < rect.top + rect.height / 2) {
-                newIndex = parseInt(row.dataset.rowIndex);
+        for (const r of rowCache) {
+            if (clientY < sidebarTop + r.centerOffset - scrollTop) {
+                newIndex = r.rowIndex;
                 break;
             }
         }
@@ -476,23 +478,37 @@ function initThresholdDrag(container) {
         if (newIndex === thresholdIndex) return;
         thresholdIndex = newIndex;
 
-        // Derive metaThreshold from index
         metaThreshold = thresholdIndex >= sidebarArchs.length
             ? 0
             : sidebarArchs[thresholdIndex].meta_share + 0.0001;
 
-        // Update label
         line.querySelector(".meta-threshold-value").textContent = thresholdLabel();
 
-        // Toggle dimmed
-        for (const row of rows) {
-            row.classList.toggle("dimmed", parseInt(row.dataset.rowIndex) >= thresholdIndex);
+        for (const r of rowCache) {
+            r.el.classList.toggle("dimmed", r.rowIndex >= thresholdIndex);
         }
 
-        // Move line in flow — only fires when threshold actually changes
-        const firstDimmed = Array.from(rows).find(r => parseInt(r.dataset.rowIndex) >= thresholdIndex);
+        const firstDimmed = rowsRefs.find(el => parseInt(el.dataset.rowIndex) >= thresholdIndex);
         if (firstDimmed) container.insertBefore(line, firstDimmed);
         else container.appendChild(line);
+    }
+
+    function tick() {
+        moveRAF = null;
+        if (!dragging) return;
+        autoScroll(lastClientY);
+        updatePosition(lastClientY);
+        // While the user holds steady at the edge, keep auto-scrolling
+        // by re-scheduling rAF as long as we're scrolling.
+        if (lastClientY > sidebarTop + sidebar.clientHeight - 40 ||
+            lastClientY < sidebarTop + 40) {
+            moveRAF = requestAnimationFrame(tick);
+        }
+    }
+
+    function scheduleTick() {
+        if (moveRAF || !dragging) return;
+        moveRAF = requestAnimationFrame(tick);
     }
 
     function onPointerDown(e) {
@@ -501,20 +517,20 @@ function initThresholdDrag(container) {
         lastClientY = e.clientY;
         line.classList.add("dragging");
         line.setPointerCapture(e.pointerId);
+        rebuildRowCache();
     }
 
     function onPointerMove(e) {
         if (!dragging) return;
         lastClientY = e.clientY;
-        autoScroll(e.clientY);
-        updatePosition(e.clientY);
+        scheduleTick();
     }
 
     function onPointerUp() {
         if (!dragging) return;
         dragging = false;
         line.classList.remove("dragging");
-        if (scrollRAF) { cancelAnimationFrame(scrollRAF); scrollRAF = null; }
+        if (moveRAF) { cancelAnimationFrame(moveRAF); moveRAF = null; }
         applyAllFilters(true);
     }
 
