@@ -311,8 +311,13 @@ function updatePlayersSidebar(data) {
             playerHighlightActive = { pilot, archIds, savedThreshold, savedThresholdIndex };
             applyAllFilters(true);
 
-            // Now highlight the player's archetypes
-            if (currentCardSel && currentArchSel && currentLinkSel && currentValidEdges) {
+            // Open detail panel immediately
+            showPlayerDetail(pilot, lastFilteredData);
+
+            // Delay highlight to next frame so D3 selections are ready
+            requestAnimationFrame(() => {
+                if (!currentCardSel || !currentArchSel || !currentLinkSel || !currentValidEdges) return;
+
                 const connCards = new Set();
                 for (const e of currentValidEdges) {
                     const t = typeof e.target === "object" ? e.target.id : e.target;
@@ -334,10 +339,7 @@ function updatePlayersSidebar(data) {
                     gsap.to(this, { attr: { "stroke-opacity": active ? 0.5 : 0.01 }, duration: dur, overwrite: true });
                 });
                 isHighlighted = true;
-            }
-
-            // Open detail panel with player's lists
-            showPlayerDetail(pilot, lastFilteredData);
+            });
         });
     });
 }
@@ -1033,14 +1035,17 @@ function showVariantsPill(d) {
     if (lists.length < 3 || !currentSvg) return;
 
     const svgG = currentSvg.select("g");
+    // Outer group: position transform driven by simulation tick — must not be touched by GSAP.
     variantsPill = svgG.append("g")
-        .attr("cursor", "pointer")
         .attr("class", "variants-pill")
+        .attr("cursor", "pointer")
         .on("click", (e) => {
             e.stopPropagation();
             openVariantsOverlay(d.name, lists, d.colors, d.medoid_index, d.cluster_threshold);
         });
-    variantsPill.append("rect")
+    // Inner group: GSAP entrance animation lives here so it cannot clobber the outer translate.
+    const inner = variantsPill.append("g");
+    inner.append("rect")
         .attr("rx", 12).attr("ry", 12)
         .attr("width", 90).attr("height", 28)
         .attr("x", -45).attr("y", 0)
@@ -1048,7 +1053,7 @@ function showVariantsPill(d) {
         .attr("stroke", "var(--accent)")
         .attr("stroke-width", 1.5)
         .attr("opacity", 0.95);
-    variantsPill.append("text")
+    inner.append("text")
         .attr("text-anchor", "middle")
         .attr("y", 19)
         .attr("font-family", "'Instrument Serif', Georgia, serif")
@@ -1057,13 +1062,10 @@ function showVariantsPill(d) {
         .attr("pointer-events", "none")
         .text("variants");
     const r = archRadius(d);
-    variantsPill.attr("transform", `translate(${d.x},${d.y + r + 18})`);
-    if (simulation) {
-        simulation.on("tick.pill", () => {
-            if (variantsPill) variantsPill.attr("transform", `translate(${d.x},${d.y + r + 18})`);
-        });
-    }
-    gsap.fromTo(variantsPill.node(), { opacity: 0, y: -5 }, { opacity: 1, y: 0, duration: 0.3, ease: "power2.out" });
+    const setPos = () => variantsPill.attr("transform", `translate(${d.x},${d.y + r + 18})`);
+    setPos();
+    if (simulation) simulation.on("tick.pill", setPos);
+    gsap.fromTo(inner.node(), { opacity: 0, y: -5 }, { opacity: 1, y: 0, duration: 0.3, ease: "power2.out" });
 }
 
 function resetHighlight() {
