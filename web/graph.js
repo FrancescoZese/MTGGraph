@@ -184,11 +184,12 @@ function updateMetaSidebar(data) {
                 const edges = data.edges;
                 showArchetypeDetail(archNode, edges, nodeMap);
                 if (currentCardSel && currentArchSel && currentLinkSel && currentValidEdges) {
-                    // Use the D3 simulation node for highlight + pill positioning
                     const simNode = currentNodeMap ? currentNodeMap.get(archId) : null;
-                    const hNode = simNode || archNode;
-                    highlight(hNode, currentValidEdges, currentCardSel, currentArchSel, currentLinkSel);
-                    showVariantsPill(hNode);
+                    if (simNode) {
+                        highlight(simNode, currentValidEdges, currentCardSel, currentArchSel, currentLinkSel);
+                        if (!simNode.lists) simNode.lists = archNode.lists;
+                        showVariantsPill(simNode);
+                    }
                 }
             }
         });
