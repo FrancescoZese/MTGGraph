@@ -1304,8 +1304,14 @@ function centerOnConnected(d, edges) {
 /* ── Panel open / close ── */
 
 let panelTween = null;
-
 let panelSwipeSetup = false;
+
+// Panel snap targets in pixels (mobile).
+//   0                       = fullscreen
+//   ~50% of viewport height = default open (bottom 50dvh visible)
+//   100% of viewport height = closed
+function panelOpenY()   { return Math.round(window.innerHeight * 0.5); }
+function panelClosedY() { return window.innerHeight; }
 
 function openPanel() {
     const panel = document.getElementById("detail-panel");
@@ -1317,7 +1323,7 @@ function openPanel() {
     if (isMobile()) {
         gsap.set(panel, { x: 0 });
         panelTween = gsap.to(panel, {
-            y: 0, duration: dur ? 0.45 : 0, ease: "power3.out", overwrite: true
+            y: panelOpenY(), duration: dur ? 0.45 : 0, ease: "power3.out", overwrite: true
         });
         if (!panelSwipeSetup) { initPanelSwipe(panel); panelSwipeSetup = true; }
     } else {
@@ -1329,6 +1335,27 @@ function openPanel() {
     else animatePanelContent();
 }
 
+function expandPanel() {
+    const panel = document.getElementById("detail-panel");
+    const dur = highlightDuration();
+    if (panelTween) panelTween.kill();
+    panel.style.visibility = "visible";
+    panelTween = gsap.to(panel, {
+        y: 0, duration: dur ? 0.3 : 0, ease: "power3.out", overwrite: true
+    });
+}
+
+// Snap-back to default open position without re-running entrance animations
+// or resetting scroll (used by the drag handle).
+function settlePanelOpen() {
+    const panel = document.getElementById("detail-panel");
+    const dur = highlightDuration();
+    if (panelTween) panelTween.kill();
+    panelTween = gsap.to(panel, {
+        y: panelOpenY(), duration: dur ? 0.25 : 0, ease: "power3.out", overwrite: true
+    });
+}
+
 function closePanel() {
     const panel = document.getElementById("detail-panel");
     if (panelTween) panelTween.kill();
@@ -1336,7 +1363,7 @@ function closePanel() {
     const dur = highlightDuration();
     if (isMobile()) {
         panelTween = gsap.to(panel, {
-            y: "100%", duration: dur ? 0.3 : 0, ease: "power2.in", overwrite: true,
+            y: panelClosedY(), duration: dur ? 0.3 : 0, ease: "power2.in", overwrite: true,
             onComplete: () => { panel.style.visibility = "hidden"; }
         });
     } else {
@@ -1352,35 +1379,37 @@ function initPanelSwipe(panel) {
     if (!handle) return;
 
     let dragging = false;
-    let startY = 0;
-    let deltaY = 0;
+    let startClientY = 0;
+    let startPx = 0;
+
+    function currentY() { return parseFloat(gsap.getProperty(panel, "y")) || 0; }
 
     function onPointerDown(e) {
         if (e.pointerType === "mouse" && e.button !== 0) return;
         e.preventDefault();
         handle.setPointerCapture(e.pointerId);
-        startY = e.clientY;
-        deltaY = 0;
+        if (panelTween) panelTween.kill();
+        startClientY = e.clientY;
+        startPx = currentY();
         dragging = true;
     }
 
     function onPointerMove(e) {
         if (!dragging) return;
-        deltaY = e.clientY - startY;
-        // Resistance pulling above the rest position; downward follows finger.
-        const offset = deltaY > 0 ? deltaY * 0.7 : deltaY * 0.15;
-        gsap.set(panel, { y: offset });
+        const next = Math.max(0, Math.min(panelClosedY(), startPx + (e.clientY - startClientY)));
+        gsap.set(panel, { y: next });
     }
 
     function endDrag(e) {
         if (!dragging) return;
         dragging = false;
         try { handle.releasePointerCapture(e.pointerId); } catch (_) {}
-        if (deltaY > 60) {
-            closePanel();
-        } else {
-            gsap.to(panel, { y: 0, duration: 0.2, ease: "power2.out" });
-        }
+        const y = currentY();
+        const fullToOpen  = panelOpenY() / 2;
+        const openToClose = (panelOpenY() + panelClosedY()) / 2;
+        if (y < fullToOpen) expandPanel();
+        else if (y > openToClose) closePanel();
+        else settlePanelOpen();
     }
 
     handle.addEventListener("pointerdown", onPointerDown);
