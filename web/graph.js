@@ -178,11 +178,8 @@ function updateMetaSidebar(data) {
             const archNode = data.nodes.find(n => n.id === archId);
             if (archNode) {
                 if (sheetOpen) closeMobileSheet();
-                if (isHighlighted) {
-                    unhighlight(currentCardSel, currentArchSel, currentLinkSel);
-                    removeVariantsPill();
-                    isHighlighted = false;
-                }
+                removeVariantsPill();
+                isHighlighted = false;
                 const nodeMap = new Map(data.nodes.map(n => [n.id, n]));
                 const edges = data.edges;
                 showArchetypeDetail(archNode, edges, nodeMap);
@@ -229,11 +226,8 @@ function updateCardsSidebar(data) {
             const cardNode = data.nodes.find(n => n.id === cardId);
             if (cardNode) {
                 if (sheetOpen) closeMobileSheet();
-                if (isHighlighted) {
-                    unhighlight(currentCardSel, currentArchSel, currentLinkSel);
-                    removeVariantsPill();
-                    isHighlighted = false;
-                }
+                removeVariantsPill();
+                isHighlighted = false;
                 const nodeMap = new Map(data.nodes.map(n => [n.id, n]));
                 const edges = data.edges;
                 showCardDetail(cardNode, edges, nodeMap);
@@ -284,11 +278,8 @@ function updatePlayersSidebar(data) {
         row.addEventListener("click", () => {
             const pilot = row.dataset.player;
             if (sheetOpen) closeMobileSheet();
-            if (isHighlighted) {
-                unhighlight(currentCardSel, currentArchSel, currentLinkSel);
-                removeVariantsPill();
-                isHighlighted = false;
-            }
+            removeVariantsPill();
+            isHighlighted = false;
 
             // Find archetype IDs that contain lists by this pilot
             const archIds = new Set();
