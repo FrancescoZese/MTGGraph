@@ -341,10 +341,6 @@ function initSidebarTabs() {
         players: document.getElementById("meta-sidebar-players"),
     };
 
-    const filters = document.querySelector(".source-filters");
-    const chips = document.getElementById("mobile-filter-chips");
-    const divider = document.querySelector(".masthead-divider");
-
     document.querySelectorAll(".meta-sidebar-tab").forEach(tab => {
         tab.addEventListener("click", () => {
             document.querySelectorAll(".meta-sidebar-tab").forEach(t => t.classList.remove("active"));
@@ -355,9 +351,7 @@ function initSidebarTabs() {
             for (const [key, el] of Object.entries(panels)) {
                 el.classList.toggle("hidden", key !== target);
             }
-            if (filters) filters.style.display = isArch ? "" : "none";
-            if (divider) divider.style.display = isArch ? "" : "none";
-            if (chips) chips.style.display = isArch ? "" : "none";
+            // Only threshold line is archetype-specific
             const threshold = document.querySelector(".meta-threshold-line");
             if (threshold) threshold.style.display = isArch ? "" : "none";
         });
