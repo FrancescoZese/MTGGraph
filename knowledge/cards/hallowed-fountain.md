@@ -19,10 +19,13 @@ archetypes:
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
-    avg_copies: 1.69
+    avg_copies: 2.0
   living-end:
     weight: 0.3333
     avg_copies: 1.0
+  jeskai-control:
+    weight: 1.0
+    avg_copies: 1.5
   mill:
     weight: 0.1429
     avg_copies: 1.0
@@ -45,9 +48,6 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   esper-control:
-    weight: 1.0
-    avg_copies: 2.0
-  jeskai-control:
     weight: 1.0
     avg_copies: 2.0
   bant-ritual:

@@ -6,22 +6,22 @@ name: Ruby Storm
 meta_share: 0.0264
 list_count: 31
 top_cards:
-- name: Wrenn's Resolve
-  weight: 1.0
-  avg_copies: 4.0
-- name: Desperate Ritual
-  weight: 1.0
-  avg_copies: 4.0
-- name: Pyretic Ritual
+- name: Reckless Impulse
   weight: 1.0
   avg_copies: 4.0
 - name: Ruby Medallion
   weight: 1.0
   avg_copies: 4.0
-- name: Manamorphose
+- name: Wrenn's Resolve
   weight: 1.0
   avg_copies: 4.0
-- name: Reckless Impulse
+- name: Pyretic Ritual
+  weight: 1.0
+  avg_copies: 4.0
+- name: Desperate Ritual
+  weight: 1.0
+  avg_copies: 4.0
+- name: Manamorphose
   weight: 1.0
   avg_copies: 4.0
 - name: Ral, Monsoon Mage
@@ -135,10 +135,10 @@ top_cards:
 - name: Shattering Spree
   weight: 0.0645
   avg_copies: 1.5
-- name: Vexing Bauble
+- name: Alchemist's Gambit
   weight: 0.0645
   avg_copies: 1.0
-- name: Alchemist's Gambit
+- name: Vexing Bauble
   weight: 0.0645
   avg_copies: 1.0
 - name: Phlage, Titan of Fire's Fury
@@ -147,34 +147,34 @@ top_cards:
 - name: Questing Druid
   weight: 0.0323
   avg_copies: 4.0
-- name: Blood Moon
-  weight: 0.0323
-  avg_copies: 2.0
 - name: Flame of Anor
   weight: 0.0323
   avg_copies: 2.0
-- name: Pyromancer Ascension
+- name: Blood Moon
   weight: 0.0323
-  avg_copies: 1.0
-- name: Into the Flood Maw
-  weight: 0.0323
-  avg_copies: 1.0
-- name: Urabrask
-  weight: 0.0323
-  avg_copies: 1.0
-- name: Hexing Squelcher
-  weight: 0.0323
-  avg_copies: 1.0
-- name: card:lindblum-industrial-regency
+  avg_copies: 2.0
+- name: Abrade
   weight: 0.0323
   avg_copies: 1.0
 - name: Stomping Ground
   weight: 0.0323
   avg_copies: 1.0
-- name: Abrade
+- name: Pyromancer Ascension
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Urabrask
+  weight: 0.0323
+  avg_copies: 1.0
+- name: card:lindblum-industrial-regency
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Into the Flood Maw
   weight: 0.0323
   avg_copies: 1.0
 - name: Voice of Victory
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Hexing Squelcher
   weight: 0.0323
   avg_copies: 1.0
 ---

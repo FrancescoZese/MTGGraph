@@ -21,10 +21,13 @@ archetypes:
     avg_copies: 1.18
   azorius-control:
     weight: 1.0
-    avg_copies: 3.11
+    avg_copies: 3.21
   living-end:
     weight: 0.381
     avg_copies: 2.22
+  jeskai-control:
+    weight: 0.8125
+    avg_copies: 3.0
   domain-zoo:
     weight: 0.7568
     avg_copies: 1.1

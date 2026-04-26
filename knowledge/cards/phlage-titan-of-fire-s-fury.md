@@ -19,9 +19,9 @@ archetypes:
   jeskai-energy:
     weight: 1.0
     avg_copies: 3.79
-  azorius-control:
-    weight: 0.4231
-    avg_copies: 1.17
+  jeskai-control:
+    weight: 0.875
+    avg_copies: 1.43
   domain-zoo:
     weight: 0.973
     avg_copies: 3.83
@@ -31,9 +31,6 @@ archetypes:
   boros-ponza:
     weight: 1.0
     avg_copies: 2.05
-  jeskai-control:
-    weight: 1.0
-    avg_copies: 3.0
   naya-midrange:
     weight: 1.0
     avg_copies: 3.0

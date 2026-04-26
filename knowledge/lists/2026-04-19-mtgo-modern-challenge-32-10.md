@@ -1,5 +1,5 @@
 ---
-archetype: azorius-control
+archetype: jeskai-control
 date: '2026-04-19'
 finish: 10th
 pilot: Ettore09

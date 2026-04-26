@@ -6,6 +6,9 @@ name: Mono Green Ramp
 meta_share: 0.0043
 list_count: 5
 top_cards:
+- name: Springheart Nantuko
+  weight: 1.0
+  avg_copies: 4.0
 - name: Badgermole Cub
   weight: 1.0
   avg_copies: 4.0
@@ -13,9 +16,6 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Green Sun's Zenith
-  weight: 1.0
-  avg_copies: 4.0
-- name: Springheart Nantuko
   weight: 1.0
   avg_copies: 4.0
 - name: Windswept Heath
@@ -42,22 +42,22 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.2
-- name: Chomping Changeling
-  weight: 1.0
-  avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 1.0
-  avg_copies: 1.0
-- name: Pithing Needle
-  weight: 1.0
-  avg_copies: 1.0
 - name: Ashaya, Soul of the Wild
+  weight: 1.0
+  avg_copies: 1.0
+- name: Craterhoof Behemoth
   weight: 1.0
   avg_copies: 1.0
 - name: Endurance
   weight: 1.0
   avg_copies: 1.0
-- name: Craterhoof Behemoth
+- name: Collector Ouphe
+  weight: 1.0
+  avg_copies: 1.0
+- name: Chomping Changeling
+  weight: 1.0
+  avg_copies: 1.0
+- name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
 - name: Delighted Halfling
@@ -66,10 +66,10 @@ top_cards:
 - name: Leyline of Abundance
   weight: 0.8
   avg_copies: 3.25
-- name: Lotus Cobra
+- name: Thoughtseize
   weight: 0.8
   avg_copies: 3.0
-- name: Thoughtseize
+- name: Lotus Cobra
   weight: 0.8
   avg_copies: 3.0
 - name: Tyvar, Jubilant Brawler
@@ -90,21 +90,18 @@ top_cards:
 - name: Creeping Corrosion
   weight: 0.8
   avg_copies: 1.25
-- name: Disciple of Freyalise
+- name: Formidable Speaker
   weight: 0.8
   avg_copies: 1.0
-- name: Underground Mortuary
+- name: Disciple of Freyalise
   weight: 0.8
   avg_copies: 1.0
 - name: Nissa, Resurgent Animist
   weight: 0.8
   avg_copies: 1.0
-- name: Formidable Speaker
+- name: Underground Mortuary
   weight: 0.8
   avg_copies: 1.0
-- name: Life's Legacy
-  weight: 0.2
-  avg_copies: 4.0
 - name: Slumbering Trudge
   weight: 0.2
   avg_copies: 4.0
@@ -114,10 +111,13 @@ top_cards:
 - name: Fanatic of Rhonas
   weight: 0.2
   avg_copies: 4.0
-- name: Force of Vigor
+- name: Life's Legacy
+  weight: 0.2
+  avg_copies: 4.0
+- name: Trinisphere
   weight: 0.2
   avg_copies: 3.0
-- name: Trinisphere
+- name: Force of Vigor
   weight: 0.2
   avg_copies: 3.0
 - name: Soulless Jailer

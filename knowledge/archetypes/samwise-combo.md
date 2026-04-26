@@ -8,25 +8,25 @@ name: Samwise Combo
 meta_share: 0.0085
 list_count: 10
 top_cards:
-- name: Windswept Heath
-  weight: 1.0
-  avg_copies: 4.0
-- name: Cauldron Familiar
-  weight: 1.0
-  avg_copies: 4.0
-- name: Gilded Goose
-  weight: 1.0
-  avg_copies: 4.0
 - name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
 - name: Samwise Gamgee
   weight: 1.0
   avg_copies: 4.0
+- name: Chord of Calling
+  weight: 1.0
+  avg_copies: 4.0
 - name: Birthing Ritual
   weight: 1.0
   avg_copies: 4.0
-- name: Chord of Calling
+- name: Gilded Goose
+  weight: 1.0
+  avg_copies: 4.0
+- name: Windswept Heath
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cauldron Familiar
   weight: 1.0
   avg_copies: 4.0
 - name: Young Wolf
@@ -35,10 +35,10 @@ top_cards:
 - name: Carrion Feeder
   weight: 1.0
   avg_copies: 2.2
-- name: Force of Vigor
+- name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 2.0
-- name: Boseiju, Who Endures
+- name: Force of Vigor
   weight: 1.0
   avg_copies: 2.0
 - name: Viscera Seer
@@ -53,19 +53,19 @@ top_cards:
 - name: Temple Garden
   weight: 1.0
   avg_copies: 1.2
-- name: Lush Portico
-  weight: 1.0
-  avg_copies: 1.0
-- name: Dryad Arbor
-  weight: 1.0
-  avg_copies: 1.0
 - name: Godless Shrine
+  weight: 1.0
+  avg_copies: 1.0
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
-- name: Forest
+- name: Dryad Arbor
+  weight: 1.0
+  avg_copies: 1.0
+- name: Lush Portico
   weight: 1.0
   avg_copies: 1.0
 - name: Malevolent Rumble
@@ -110,13 +110,13 @@ top_cards:
 - name: Yawgmoth, Thran Physician
   weight: 0.5
   avg_copies: 1.2
+- name: Wooded Foothills
+  weight: 0.5
+  avg_copies: 1.0
 - name: Lavinia, Azorius Renegade
   weight: 0.5
   avg_copies: 1.0
 - name: Grist, the Hunger Tide
-  weight: 0.5
-  avg_copies: 1.0
-- name: Wooded Foothills
   weight: 0.5
   avg_copies: 1.0
 - name: Thoughtseize
@@ -134,10 +134,10 @@ top_cards:
 - name: Culling Ritual
   weight: 0.3
   avg_copies: 2.0
-- name: Marionette Apprentice
+- name: Wall of Roots
   weight: 0.3
   avg_copies: 2.0
-- name: Wall of Roots
+- name: Marionette Apprentice
   weight: 0.3
   avg_copies: 2.0
 - name: Orcish Bowmasters
@@ -158,40 +158,40 @@ top_cards:
 - name: Path to Exile
   weight: 0.2
   avg_copies: 1.5
+- name: Sephiroth, Fabled SOLDIER
+  weight: 0.2
+  avg_copies: 1.0
 - name: Dawnbringer Cleric
   weight: 0.2
   avg_copies: 1.0
 - name: Seam Rip
   weight: 0.2
   avg_copies: 1.0
-- name: Sephiroth, Fabled SOLDIER
-  weight: 0.2
-  avg_copies: 1.0
-- name: Haliya, Guided by Light
-  weight: 0.1
-  avg_copies: 2.0
-- name: Dewdrop Cure
-  weight: 0.1
-  avg_copies: 2.0
 - name: Moseo, Vein's New Dean
-  weight: 0.1
-  avg_copies: 2.0
-- name: Assassin's Trophy
-  weight: 0.1
-  avg_copies: 2.0
-- name: City of Brass
   weight: 0.1
   avg_copies: 2.0
 - name: Mana Confluence
   weight: 0.1
   avg_copies: 2.0
-- name: Veil of Summer
+- name: Dewdrop Cure
+  weight: 0.1
+  avg_copies: 2.0
+- name: City of Brass
+  weight: 0.1
+  avg_copies: 2.0
+- name: Haliya, Guided by Light
+  weight: 0.1
+  avg_copies: 2.0
+- name: Assassin's Trophy
+  weight: 0.1
+  avg_copies: 2.0
+- name: Drannith Magistrate
   weight: 0.1
   avg_copies: 1.0
 - name: Collector Ouphe
   weight: 0.1
   avg_copies: 1.0
-- name: Drannith Magistrate
+- name: Veil of Summer
   weight: 0.1
   avg_copies: 1.0
 - name: Swamp

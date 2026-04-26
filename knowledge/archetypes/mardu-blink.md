@@ -7,10 +7,10 @@ name: Mardu Blink
 meta_share: 0.0094
 list_count: 11
 top_cards:
-- name: Solitude
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
-- name: Overlord of the Balemurk
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Phlage, Titan of Fire's Fury
@@ -49,6 +49,9 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.09
+- name: Elegant Parlor
+  weight: 1.0
+  avg_copies: 1.0
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
@@ -56,9 +59,6 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Raucous Theater
-  weight: 1.0
-  avg_copies: 1.0
-- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Galvanic Discharge
@@ -70,10 +70,10 @@ top_cards:
 - name: High Noon
   weight: 0.9091
   avg_copies: 2.1
-- name: Bloodstained Mire
+- name: Detective's Phoenix
   weight: 0.9091
   avg_copies: 1.8
-- name: Detective's Phoenix
+- name: Bloodstained Mire
   weight: 0.9091
   avg_copies: 1.8
 - name: Pinnacle Monk
@@ -139,25 +139,25 @@ top_cards:
 - name: March of Otherworldly Light
   weight: 0.0909
   avg_copies: 2.0
-- name: Clarion Conqueror
-  weight: 0.0909
-  avg_copies: 2.0
 - name: The Legend of Roku
   weight: 0.0909
   avg_copies: 2.0
-- name: Emptiness
+- name: Clarion Conqueror
   weight: 0.0909
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Pest Control
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Swamp
   weight: 0.0909
   avg_copies: 1.0
 - name: Nihil Spellbomb
   weight: 0.0909
   avg_copies: 1.0
 - name: Faerie Macabre
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Emptiness
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Swamp
   weight: 0.0909
   avg_copies: 1.0
 ---

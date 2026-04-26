@@ -24,7 +24,7 @@ archetypes:
     weight: 0.05
     avg_copies: 2.0
   azorius-control:
-    weight: 0.1154
+    weight: 0.2308
     avg_copies: 2.0
   reanimator:
     weight: 0.0417

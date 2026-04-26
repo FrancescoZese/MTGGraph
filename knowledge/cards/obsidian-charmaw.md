@@ -15,6 +15,9 @@ archetypes:
   jeskai-energy:
     weight: 0.9765
     avg_copies: 2.75
+  jeskai-control:
+    weight: 0.0625
+    avg_copies: 2.0
   domain-zoo:
     weight: 0.3784
     avg_copies: 1.86
@@ -41,9 +44,6 @@ archetypes:
     avg_copies: 3.0
   jund-saga:
     weight: 1.0
-    avg_copies: 2.0
-  jeskai-control:
-    weight: 0.3333
     avg_copies: 2.0
   rakdos-aggro:
     weight: 0.6667

@@ -14,6 +14,9 @@ archetypes:
   living-end:
     weight: 0.5714
     avg_copies: 1.0
+  jeskai-control:
+    weight: 0.125
+    avg_copies: 1.0
   bant-control:
     weight: 1.0
     avg_copies: 1.0

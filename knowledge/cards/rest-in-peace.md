@@ -10,7 +10,7 @@ type: Enchantment
 meta_presence: 0.0239
 archetypes:
   azorius-control:
-    weight: 0.2308
+    weight: 0.4615
     avg_copies: 1.33
   boros-ponza:
     weight: 0.8636

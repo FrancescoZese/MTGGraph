@@ -7,10 +7,10 @@ name: Living End
 meta_share: 0.0179
 list_count: 21
 top_cards:
-- name: Shardless Agent
+- name: Endurance
   weight: 1.0
   avg_copies: 4.0
-- name: Endurance
+- name: Shardless Agent
   weight: 1.0
   avg_copies: 4.0
 - name: Force of Negation
@@ -88,10 +88,10 @@ top_cards:
 - name: Overgrown Tomb
   weight: 0.619
   avg_copies: 1.08
-- name: Undercity Sewers
+- name: Halo Forager
   weight: 0.619
   avg_copies: 1.0
-- name: Halo Forager
+- name: Undercity Sewers
   weight: 0.619
   avg_copies: 1.0
 - name: Mistrise Village
@@ -103,16 +103,16 @@ top_cards:
 - name: Flooded Grove
   weight: 0.5238
   avg_copies: 1.0
-- name: Damping Sphere
-  weight: 0.4762
-  avg_copies: 1.1
 - name: Harvester of Misery
   weight: 0.4762
   avg_copies: 1.1
-- name: Boseiju, Who Endures
+- name: Damping Sphere
+  weight: 0.4762
+  avg_copies: 1.1
+- name: Mai, Scornful Striker
   weight: 0.4762
   avg_copies: 1.0
-- name: Mai, Scornful Striker
+- name: Boseiju, Who Endures
   weight: 0.4762
   avg_copies: 1.0
 - name: Force of Vigor
@@ -136,19 +136,19 @@ top_cards:
 - name: Disciple of Freyalise
   weight: 0.381
   avg_copies: 1.0
-- name: Lush Portico
+- name: Temple Garden
   weight: 0.381
   avg_copies: 1.0
-- name: Temple Garden
+- name: Lush Portico
   weight: 0.381
   avg_copies: 1.0
 - name: Clarion Conqueror
   weight: 0.3333
   avg_copies: 2.57
-- name: Meticulous Archive
+- name: Hallowed Fountain
   weight: 0.3333
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Meticulous Archive
   weight: 0.3333
   avg_copies: 1.0
 - name: Striped Riverwinder
@@ -163,19 +163,19 @@ top_cards:
 - name: Swamp
   weight: 0.2381
   avg_copies: 1.0
-- name: Deafening Silence
-  weight: 0.1905
-  avg_copies: 1.0
 - name: Flare of Denial
   weight: 0.1905
   avg_copies: 1.0
-- name: Fracturing Gust
-  weight: 0.1429
+- name: Deafening Silence
+  weight: 0.1905
   avg_copies: 1.0
 - name: Archon of Cruelty
   weight: 0.1429
   avg_copies: 1.0
 - name: Harbinger of the Seas
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Fracturing Gust
   weight: 0.1429
   avg_copies: 1.0
 - name: Drannith Magistrate
@@ -187,27 +187,36 @@ top_cards:
 - name: Rough
   weight: 0.0476
   avg_copies: 4.0
-- name: Atraxa, Grand Unifier
-  weight: 0.0476
-  avg_copies: 3.0
 - name: Oliphaunt
   weight: 0.0476
   avg_copies: 3.0
-- name: Flooded Strand
+- name: Atraxa, Grand Unifier
   weight: 0.0476
-  avg_copies: 2.0
-- name: Fulminator Mage
-  weight: 0.0476
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Titanoth Rex
+  weight: 0.0476
+  avg_copies: 2.0
+- name: Flooded Strand
   weight: 0.0476
   avg_copies: 2.0
 - name: Verdant Catacombs
   weight: 0.0476
   avg_copies: 2.0
+- name: Fulminator Mage
+  weight: 0.0476
+  avg_copies: 2.0
 - name: Steam Vents
   weight: 0.0476
   avg_copies: 2.0
+- name: Murderous Cut
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Sunken Ruins
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Stomping Ground
+  weight: 0.0476
+  avg_copies: 1.0
 - name: Windcaller Aven
   weight: 0.0476
   avg_copies: 1.0
@@ -215,15 +224,6 @@ top_cards:
   weight: 0.0476
   avg_copies: 1.0
 - name: Press the Enemy
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Stomping Ground
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Sunken Ruins
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Murderous Cut
   weight: 0.0476
   avg_copies: 1.0
 ---

@@ -18,8 +18,11 @@ archetypes:
     weight: 0.9882
     avg_copies: 3.73
   azorius-control:
-    weight: 0.9231
-    avg_copies: 2.79
+    weight: 0.8462
+    avg_copies: 1.82
+  jeskai-control:
+    weight: 1.0
+    avg_copies: 3.62
   domain-zoo:
     weight: 1.0
     avg_copies: 3.84
@@ -53,9 +56,6 @@ archetypes:
   azorius-blink:
     weight: 1.0
     avg_copies: 1.67
-  jeskai-control:
-    weight: 1.0
-    avg_copies: 3.67
   rakdos-aggro:
     weight: 0.5
     avg_copies: 2.67

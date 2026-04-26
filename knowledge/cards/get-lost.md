@@ -9,8 +9,8 @@ set: lci
 type: Instant
 meta_presence: 0.0026
 archetypes:
-  azorius-control:
-    weight: 0.0385
+  jeskai-control:
+    weight: 0.0625
     avg_copies: 1.0
   boros-ponza:
     weight: 0.0455

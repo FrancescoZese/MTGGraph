@@ -21,8 +21,8 @@ archetypes:
   jeskai-energy:
     weight: 0.0118
     avg_copies: 1.0
-  azorius-control:
-    weight: 0.1538
+  jeskai-control:
+    weight: 0.25
     avg_copies: 1.0
   domain-zoo:
     weight: 0.027

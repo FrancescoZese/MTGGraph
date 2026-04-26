@@ -1,5 +1,5 @@
 ---
-archetype: azorius-control
+archetype: jeskai-control
 date: '2026-04-03'
 finish: 9th
 pilot: PieGonti

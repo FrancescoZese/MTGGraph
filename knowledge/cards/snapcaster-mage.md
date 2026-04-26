@@ -12,12 +12,12 @@ archetypes:
   dimir-control:
     weight: 0.434
     avg_copies: 1.87
+  jeskai-control:
+    weight: 0.125
+    avg_copies: 3.0
   grixis-control:
     weight: 1.0
     avg_copies: 3.67
-  jeskai-control:
-    weight: 0.6667
-    avg_copies: 3.0
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 2.0

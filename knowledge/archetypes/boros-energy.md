@@ -177,10 +177,10 @@ top_cards:
 - name: Hallowed Moonlight
   weight: 0.0125
   avg_copies: 1.0
-- name: Showdown of the Skalds
+- name: Haliya, Guided by Light
   weight: 0.0125
   avg_copies: 1.0
-- name: Haliya, Guided by Light
+- name: Showdown of the Skalds
   weight: 0.0125
   avg_copies: 1.0
 - name: Wear
@@ -195,10 +195,19 @@ top_cards:
 - name: Starfield Shepherd
   weight: 0.0042
   avg_copies: 4.0
+- name: White Orchid Phantom
+  weight: 0.0042
+  avg_copies: 2.0
+- name: Kataki, War's Wage
+  weight: 0.0042
+  avg_copies: 2.0
+- name: The Battle of Bywater
+  weight: 0.0042
+  avg_copies: 2.0
 - name: Screaming Nemesis
   weight: 0.0042
   avg_copies: 2.0
-- name: Reprieve
+- name: Stony Silence
   weight: 0.0042
   avg_copies: 2.0
 - name: Ephemerate
@@ -207,40 +216,25 @@ top_cards:
 - name: Enduring Innocence
   weight: 0.0042
   avg_copies: 2.0
-- name: Stony Silence
-  weight: 0.0042
-  avg_copies: 2.0
-- name: White Orchid Phantom
-  weight: 0.0042
-  avg_copies: 2.0
-- name: Kataki, War's Wage
+- name: Reprieve
   weight: 0.0042
   avg_copies: 2.0
 - name: Unlicensed Hearse
   weight: 0.0042
   avg_copies: 2.0
-- name: The Battle of Bywater
-  weight: 0.0042
-  avg_copies: 2.0
-- name: Duty Beyond Death
-  weight: 0.0042
-  avg_copies: 1.0
-- name: Giant Killer
-  weight: 0.0042
-  avg_copies: 1.0
-- name: Prismatic Ending
-  weight: 0.0042
-  avg_copies: 1.0
-- name: The Ooze
+- name: Tunnel Ignus
   weight: 0.0042
   avg_copies: 1.0
 - name: Lorehold Charm
   weight: 0.0042
   avg_copies: 1.0
+- name: Cool but Rude
+  weight: 0.0042
+  avg_copies: 1.0
 - name: Elspeth, Storm Slayer
   weight: 0.0042
   avg_copies: 1.0
-- name: Cool but Rude
+- name: Duty Beyond Death
   weight: 0.0042
   avg_copies: 1.0
 - name: The Wandering Emperor
@@ -249,7 +243,13 @@ top_cards:
 - name: Curious Farm Animals
   weight: 0.0042
   avg_copies: 1.0
-- name: Tunnel Ignus
+- name: Giant Killer
+  weight: 0.0042
+  avg_copies: 1.0
+- name: The Ooze
+  weight: 0.0042
+  avg_copies: 1.0
+- name: Prismatic Ending
   weight: 0.0042
   avg_copies: 1.0
 ---

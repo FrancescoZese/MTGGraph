@@ -14,6 +14,9 @@ archetypes:
   jeskai-energy:
     weight: 1.0
     avg_copies: 2.6
+  jeskai-control:
+    weight: 0.1875
+    avg_copies: 2.0
   domain-zoo:
     weight: 0.973
     avg_copies: 1.92
@@ -32,9 +35,6 @@ archetypes:
   eldrazi-ramp:
     weight: 0.0455
     avg_copies: 1.0
-  jeskai-control:
-    weight: 1.0
-    avg_copies: 2.0
   rakdos-aggro:
     weight: 0.8333
     avg_copies: 1.8

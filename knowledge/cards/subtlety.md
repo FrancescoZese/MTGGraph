@@ -19,11 +19,14 @@ archetypes:
     weight: 0.0682
     avg_copies: 1.5
   azorius-control:
-    weight: 0.3462
-    avg_copies: 1.78
+    weight: 0.4615
+    avg_copies: 1.83
   living-end:
     weight: 1.0
     avg_copies: 3.86
+  jeskai-control:
+    weight: 0.25
+    avg_copies: 1.75
   mono-blue-tron:
     weight: 1.0
     avg_copies: 2.75
@@ -42,9 +45,6 @@ archetypes:
   grixis-control:
     weight: 1.0
     avg_copies: 3.33
-  jeskai-control:
-    weight: 0.3333
-    avg_copies: 2.0
   izzet-wizards:
     weight: 1.0
     avg_copies: 3.0

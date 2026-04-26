@@ -1,5 +1,5 @@
 ---
-archetype: azorius-control
+archetype: jeskai-control
 date: '2026-04-12'
 finish: 21st
 pilot: strgn7

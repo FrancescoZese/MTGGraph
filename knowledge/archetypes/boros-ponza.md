@@ -99,16 +99,16 @@ top_cards:
 - name: Erode
   weight: 0.1364
   avg_copies: 3.67
-- name: Soul-Guide Lantern
-  weight: 0.1364
-  avg_copies: 2.0
 - name: Mana Tithe
   weight: 0.1364
   avg_copies: 2.0
-- name: Meltdown
+- name: Soul-Guide Lantern
+  weight: 0.1364
+  avg_copies: 2.0
+- name: Surgical Extraction
   weight: 0.1364
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Meltdown
   weight: 0.1364
   avg_copies: 1.0
 - name: Ghost Quarter
@@ -123,10 +123,10 @@ top_cards:
 - name: Get Lost
   weight: 0.0455
   avg_copies: 3.0
-- name: Settle the Wreckage
+- name: Gideon, Ally of Zendikar
   weight: 0.0455
   avg_copies: 2.0
-- name: Gideon, Ally of Zendikar
+- name: Settle the Wreckage
   weight: 0.0455
   avg_copies: 2.0
 - name: Prismatic Ending
@@ -135,22 +135,22 @@ top_cards:
 - name: Ghost Vacuum
   weight: 0.0455
   avg_copies: 1.0
-- name: Flashback
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Brotherhood's End
-  weight: 0.0455
-  avg_copies: 1.0
 - name: Arena of Glory
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Chalice of the Void
   weight: 0.0455
   avg_copies: 1.0
 - name: Elegant Parlor
   weight: 0.0455
   avg_copies: 1.0
 - name: Storm's Wrath
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Chalice of the Void
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Brotherhood's End
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Flashback
   weight: 0.0455
   avg_copies: 1.0
 ---

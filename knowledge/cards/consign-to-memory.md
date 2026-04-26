@@ -26,7 +26,10 @@ archetypes:
     avg_copies: 3.5
   azorius-control:
     weight: 1.0
-    avg_copies: 3.73
+    avg_copies: 3.77
+  jeskai-control:
+    weight: 1.0
+    avg_copies: 3.75
   affinity:
     weight: 0.9369
     avg_copies: 2.33
@@ -79,9 +82,6 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   eldrazi-breach:
-    weight: 1.0
-    avg_copies: 4.0
-  jeskai-control:
     weight: 1.0
     avg_copies: 4.0
   grixis-shadow:

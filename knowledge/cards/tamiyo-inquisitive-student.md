@@ -18,8 +18,11 @@ archetypes:
     weight: 0.0471
     avg_copies: 1.5
   azorius-control:
-    weight: 0.0385
+    weight: 0.0769
     avg_copies: 1.0
+  jeskai-control:
+    weight: 0.1875
+    avg_copies: 3.0
   affinity:
     weight: 0.009
     avg_copies: 1.0
@@ -41,9 +44,6 @@ archetypes:
   grixis-control:
     weight: 0.6667
     avg_copies: 3.5
-  jeskai-control:
-    weight: 1.0
-    avg_copies: 3.0
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 4.0

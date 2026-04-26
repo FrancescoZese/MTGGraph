@@ -15,12 +15,12 @@ archetypes:
   mono-blue-belcher:
     weight: 0.8462
     avg_copies: 1.91
-  azorius-control:
-    weight: 0.0385
-    avg_copies: 2.0
   living-end:
     weight: 0.1429
     avg_copies: 1.0
+  jeskai-control:
+    weight: 0.0625
+    avg_copies: 2.0
   affinity:
     weight: 0.2613
     avg_copies: 1.31

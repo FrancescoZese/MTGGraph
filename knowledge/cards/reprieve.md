@@ -12,8 +12,8 @@ archetypes:
   boros-energy:
     weight: 0.0042
     avg_copies: 2.0
-  azorius-control:
-    weight: 0.0385
+  jeskai-control:
+    weight: 0.0625
     avg_copies: 2.0
   boros-ponza:
     weight: 0.1818

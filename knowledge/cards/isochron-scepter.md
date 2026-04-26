@@ -10,8 +10,8 @@ meta_presence: 0.0213
 archetypes:
   azorius-control:
     weight: 0.8462
-    avg_copies: 1.38
+    avg_copies: 1.42
   jeskai-control:
-    weight: 1.0
-    avg_copies: 1.0
+    weight: 0.875
+    avg_copies: 1.26
 ---

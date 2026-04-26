@@ -13,8 +13,11 @@ archetypes:
     weight: 0.0189
     avg_copies: 1.0
   azorius-control:
-    weight: 0.7692
-    avg_copies: 1.4
+    weight: 0.9231
+    avg_copies: 1.67
+  jeskai-control:
+    weight: 0.625
+    avg_copies: 1.2
   4c-omnath:
     weight: 0.5
     avg_copies: 4.0
@@ -27,9 +30,6 @@ archetypes:
   eldrazi-breach:
     weight: 0.5
     avg_copies: 1.0
-  jeskai-control:
-    weight: 0.6667
-    avg_copies: 2.0
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 2.0

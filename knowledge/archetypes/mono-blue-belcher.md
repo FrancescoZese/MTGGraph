@@ -5,25 +5,25 @@ name: Mono Blue Belcher
 meta_share: 0.0222
 list_count: 26
 top_cards:
-- name: Goblin Charbelcher
+- name: Whir of Invention
   weight: 1.0
   avg_copies: 4.0
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 4.0
+- name: Goblin Charbelcher
+  weight: 1.0
+  avg_copies: 4.0
 - name: Lotus Bloom
   weight: 1.0
   avg_copies: 4.0
-- name: Whir of Invention
+- name: Tameshi, Reality Architect
   weight: 1.0
-  avg_copies: 4.0
+  avg_copies: 3.96
 - name: Suppression Ray
   weight: 1.0
   avg_copies: 3.96
 - name: Disrupting Shoal
-  weight: 1.0
-  avg_copies: 3.96
-- name: Tameshi, Reality Architect
   weight: 1.0
   avg_copies: 3.96
 - name: Sea Gate Restoration
@@ -86,10 +86,10 @@ top_cards:
 - name: Unable to Scream
   weight: 0.4615
   avg_copies: 1.5
-- name: Island
+- name: Strix Serenade
   weight: 0.4615
   avg_copies: 1.0
-- name: Strix Serenade
+- name: Island
   weight: 0.4615
   avg_copies: 1.0
 - name: Spell Pierce
@@ -113,22 +113,19 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 0.1538
   avg_copies: 1.83
+- name: Dusk Rose Reliquary
+  weight: 0.1538
+  avg_copies: 1.0
 - name: Mountain
   weight: 0.1538
   avg_copies: 1.0
 - name: Stock Up
   weight: 0.1538
   avg_copies: 1.0
-- name: Dusk Rose Reliquary
-  weight: 0.1538
-  avg_copies: 1.0
 - name: Talisman of Progress
   weight: 0.0769
   avg_copies: 1.0
-- name: Step Through
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Portable Hole
+- name: Displacement Wave
   weight: 0.0385
   avg_copies: 1.0
 - name: Witch Enchanter
@@ -137,10 +134,13 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.0385
   avg_copies: 1.0
-- name: Hope of Ghirapur
+- name: Portable Hole
   weight: 0.0385
   avg_copies: 1.0
-- name: Displacement Wave
+- name: Step Through
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Hope of Ghirapur
   weight: 0.0385
   avg_copies: 1.0
 ---

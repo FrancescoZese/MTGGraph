@@ -17,8 +17,8 @@ archetypes:
   jeskai-energy:
     weight: 1.0
     avg_copies: 1.01
-  azorius-control:
-    weight: 0.3462
+  jeskai-control:
+    weight: 0.625
     avg_copies: 1.0
   mardu-blink:
     weight: 1.0
@@ -31,9 +31,6 @@ archetypes:
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.7143
-    avg_copies: 1.0
-  jeskai-control:
-    weight: 0.3333
     avg_copies: 1.0
   naya-midrange:
     weight: 1.0

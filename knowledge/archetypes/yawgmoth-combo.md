@@ -6,13 +6,13 @@ name: Yawgmoth Combo
 meta_share: 0.0119
 list_count: 14
 top_cards:
+- name: Verdant Catacombs
+  weight: 1.0
+  avg_copies: 4.0
 - name: Badgermole Cub
   weight: 1.0
   avg_copies: 4.0
 - name: Delighted Halfling
-  weight: 1.0
-  avg_copies: 4.0
-- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
 - name: Agatha's Soul Cauldron
@@ -63,13 +63,13 @@ top_cards:
 - name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.07
+- name: Strangleroot Geist
+  weight: 1.0
+  avg_copies: 1.0
 - name: Soulless Jailer
   weight: 1.0
   avg_copies: 1.0
-- name: Grist, the Hunger Tide
-  weight: 1.0
-  avg_copies: 1.0
-- name: Strangleroot Geist
+- name: Endurance
   weight: 1.0
   avg_copies: 1.0
 - name: Dryad Arbor
@@ -78,7 +78,7 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Endurance
+- name: Grist, the Hunger Tide
   weight: 1.0
   avg_copies: 1.0
 - name: Windswept Heath
@@ -120,16 +120,16 @@ top_cards:
 - name: Damping Sphere
   weight: 0.3571
   avg_copies: 1.0
-- name: Ignoble Hierarch
-  weight: 0.2857
-  avg_copies: 1.0
 - name: Haywire Mite
   weight: 0.2857
   avg_copies: 1.0
-- name: Hapatra, Vizier of Poisons
-  weight: 0.2143
+- name: Ignoble Hierarch
+  weight: 0.2857
   avg_copies: 1.0
 - name: Kraul Harpooner
+  weight: 0.2143
+  avg_copies: 1.0
+- name: Hapatra, Vizier of Poisons
   weight: 0.2143
   avg_copies: 1.0
 - name: Culling Ritual
@@ -138,10 +138,10 @@ top_cards:
 - name: Assassin's Trophy
   weight: 0.1429
   avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Murderous Cut
   weight: 0.0714
   avg_copies: 1.0
-- name: Murderous Cut
+- name: Nurturing Peatland
   weight: 0.0714
   avg_copies: 1.0
 ---

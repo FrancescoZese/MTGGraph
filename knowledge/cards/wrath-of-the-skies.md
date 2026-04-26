@@ -7,7 +7,7 @@ name: Wrath of the Skies
 scryfall_id: 4ef1882e-b422-4f30-8a6c-bd71c2601660
 set: mh3
 type: Sorcery
-meta_presence: 0.4135
+meta_presence: 0.4152
 archetypes:
   boros-energy:
     weight: 0.9917
@@ -23,7 +23,10 @@ archetypes:
     avg_copies: 2.26
   azorius-control:
     weight: 0.8462
-    avg_copies: 1.88
+    avg_copies: 1.7
+  jeskai-control:
+    weight: 1.0
+    avg_copies: 2.12
   domain-zoo:
     weight: 0.973
     avg_copies: 2.19
@@ -48,9 +51,6 @@ archetypes:
   azorius-blink:
     weight: 0.6667
     avg_copies: 1.5
-  jeskai-control:
-    weight: 1.0
-    avg_copies: 2.4
   bant-ritual:
     weight: 1.0
     avg_copies: 2.0

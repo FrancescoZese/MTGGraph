@@ -16,15 +16,15 @@ archetypes:
   dimir-control:
     weight: 0.0377
     avg_copies: 3.5
+  jeskai-control:
+    weight: 0.1875
+    avg_copies: 4.0
   izzet-artifacts:
     weight: 0.36
     avg_copies: 2.0
   grixis-control:
     weight: 1.0
     avg_copies: 3.67
-  jeskai-control:
-    weight: 1.0
-    avg_copies: 4.0
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 4.0

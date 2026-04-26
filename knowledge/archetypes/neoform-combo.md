@@ -42,10 +42,10 @@ top_cards:
 - name: Breeding Pool
   weight: 0.96
   avg_copies: 1.04
-- name: Griselbrand
+- name: Xenagos, God of Revels
   weight: 0.96
   avg_copies: 1.0
-- name: Xenagos, God of Revels
+- name: Griselbrand
   weight: 0.96
   avg_copies: 1.0
 - name: Planar Genesis
@@ -78,25 +78,25 @@ top_cards:
 - name: Snow-Covered Forest
   weight: 0.88
   avg_copies: 1.12
-- name: Snow-Covered Island
+- name: Elesh Norn, Grand Cenobite
   weight: 0.88
   avg_copies: 1.0
-- name: Elesh Norn, Grand Cenobite
+- name: Snow-Covered Island
   weight: 0.88
   avg_copies: 1.0
 - name: Veil of Summer
   weight: 0.84
   avg_copies: 2.63
-- name: Into the Flood Maw
-  weight: 0.84
-  avg_copies: 1.0
 - name: Ureni, the Song Unending
   weight: 0.84
   avg_copies: 1.0
-- name: Wooded Foothills
-  weight: 0.76
+- name: Into the Flood Maw
+  weight: 0.84
   avg_copies: 1.0
 - name: Endurance
+  weight: 0.76
+  avg_copies: 1.0
+- name: Wooded Foothills
   weight: 0.76
   avg_copies: 1.0
 - name: Scalding Tarn
@@ -132,12 +132,6 @@ top_cards:
 - name: Forest
   weight: 0.08
   avg_copies: 1.0
-- name: Glittering Wish
-  weight: 0.04
-  avg_copies: 4.0
-- name: Hexing Squelcher
-  weight: 0.04
-  avg_copies: 4.0
 - name: Detect Intrusion
   weight: 0.04
   avg_copies: 4.0
@@ -147,7 +141,13 @@ top_cards:
 - name: Gemstone Mine
   weight: 0.04
   avg_copies: 4.0
+- name: Glittering Wish
+  weight: 0.04
+  avg_copies: 4.0
 - name: Geometer's Arthropod
+  weight: 0.04
+  avg_copies: 4.0
+- name: Hexing Squelcher
   weight: 0.04
   avg_copies: 4.0
 - name: Thrun, the Last Troll
@@ -159,46 +159,46 @@ top_cards:
 - name: Eladamri's Call
   weight: 0.04
   avg_copies: 2.0
-- name: Island
+- name: Thundering Falls
   weight: 0.04
   avg_copies: 1.0
 - name: Nature's Chant
   weight: 0.04
   avg_copies: 1.0
-- name: Stump Stomp
-  weight: 0.04
-  avg_copies: 1.0
 - name: Preordain
   weight: 0.04
   avg_copies: 1.0
-- name: Brainsurge
-  weight: 0.04
-  avg_copies: 1.0
-- name: Firespout
-  weight: 0.04
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.04
-  avg_copies: 1.0
-- name: Borborygmos Enraged
-  weight: 0.04
-  avg_copies: 1.0
-- name: Commercial District
-  weight: 0.04
-  avg_copies: 1.0
-- name: Lush Portico
+- name: Island
   weight: 0.04
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.04
   avg_copies: 1.0
-- name: Raph & Mikey, Troublemakers
+- name: Spell Snare
+  weight: 0.04
+  avg_copies: 1.0
+- name: Firespout
+  weight: 0.04
+  avg_copies: 1.0
+- name: Brainsurge
+  weight: 0.04
+  avg_copies: 1.0
+- name: Borborygmos Enraged
+  weight: 0.04
+  avg_copies: 1.0
+- name: Lush Portico
   weight: 0.04
   avg_copies: 1.0
 - name: Detention Sphere
   weight: 0.04
   avg_copies: 1.0
-- name: Spell Snare
+- name: Stump Stomp
+  weight: 0.04
+  avg_copies: 1.0
+- name: Raph & Mikey, Troublemakers
+  weight: 0.04
+  avg_copies: 1.0
+- name: Commercial District
   weight: 0.04
   avg_copies: 1.0
 ---

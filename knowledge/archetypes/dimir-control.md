@@ -165,10 +165,10 @@ top_cards:
 - name: Pest Control
   weight: 0.1132
   avg_copies: 1.64
-- name: Meticulous Archive
+- name: Hallowed Fountain
   weight: 0.1132
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Meticulous Archive
   weight: 0.1132
   avg_copies: 1.0
 - name: The Meathook Massacre
@@ -180,19 +180,19 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 0.0755
   avg_copies: 1.0
-- name: Brazen Borrower
+- name: High Noon
   weight: 0.0566
   avg_copies: 1.33
-- name: High Noon
+- name: Brazen Borrower
   weight: 0.0566
   avg_copies: 1.33
 - name: Teferi, Time Raveler
   weight: 0.0566
   avg_copies: 1.0
-- name: Moonshadow
+- name: Mishra's Bauble
   weight: 0.0377
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Moonshadow
   weight: 0.0377
   avg_copies: 4.0
 - name: Flame of Anor
@@ -204,22 +204,22 @@ top_cards:
 - name: Thundering Falls
   weight: 0.0377
   avg_copies: 1.0
-- name: Vanishing Verse
-  weight: 0.0377
-  avg_copies: 1.0
-- name: Shoot the Sheriff
-  weight: 0.0377
-  avg_copies: 1.0
 - name: Anoint with Affliction
   weight: 0.0377
   avg_copies: 1.0
-- name: Prismatic Ending
+- name: Vanishing Verse
   weight: 0.0377
   avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.0377
   avg_copies: 1.0
 - name: Celestial Purge
+  weight: 0.0377
+  avg_copies: 1.0
+- name: Shoot the Sheriff
+  weight: 0.0377
+  avg_copies: 1.0
+- name: Prismatic Ending
   weight: 0.0377
   avg_copies: 1.0
 - name: Consider
@@ -234,28 +234,25 @@ top_cards:
 - name: Shadow of Doubt
   weight: 0.0189
   avg_copies: 3.0
-- name: Dismember
-  weight: 0.0189
-  avg_copies: 3.0
 - name: Fallen Shinobi
   weight: 0.0189
   avg_copies: 3.0
-- name: Hurkyl's Recall
+- name: Dismember
+  weight: 0.0189
+  avg_copies: 3.0
+- name: Archmage's Charm
   weight: 0.0189
   avg_copies: 2.0
 - name: Lightning Bolt
   weight: 0.0189
   avg_copies: 2.0
-- name: Archmage's Charm
+- name: Stony Silence
   weight: 0.0189
   avg_copies: 2.0
 - name: Strix Serenade
   weight: 0.0189
   avg_copies: 2.0
-- name: Stony Silence
-  weight: 0.0189
-  avg_copies: 2.0
-- name: Cryptic Command
+- name: Hurkyl's Recall
   weight: 0.0189
   avg_copies: 2.0
 - name: Dauthi Voidwalker
@@ -264,25 +261,28 @@ top_cards:
 - name: Emperor of Bones
   weight: 0.0189
   avg_copies: 2.0
-- name: Jace, the Mind Sculptor
+- name: Cryptic Command
   weight: 0.0189
-  avg_copies: 1.0
-- name: Exorcise
-  weight: 0.0189
-  avg_copies: 1.0
-- name: Hall of Storm Giants
-  weight: 0.0189
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Snow-Covered Swamp
   weight: 0.0189
   avg_copies: 1.0
-- name: Lórien Revealed
+- name: Sunken Ruins
   weight: 0.0189
   avg_copies: 1.0
 - name: Takenuma, Abandoned Mire
   weight: 0.0189
   avg_copies: 1.0
-- name: Sunken Ruins
+- name: Lórien Revealed
+  weight: 0.0189
+  avg_copies: 1.0
+- name: Hall of Storm Giants
+  weight: 0.0189
+  avg_copies: 1.0
+- name: Jace, the Mind Sculptor
+  weight: 0.0189
+  avg_copies: 1.0
+- name: Exorcise
   weight: 0.0189
   avg_copies: 1.0
 ---

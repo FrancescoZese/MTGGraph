@@ -1,5 +1,5 @@
 ---
-archetype: azorius-control
+archetype: jeskai-control
 date: '2026-04-01'
 finish: 5-0
 pilot: Gobern

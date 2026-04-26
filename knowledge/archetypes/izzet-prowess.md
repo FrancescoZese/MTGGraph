@@ -6,10 +6,10 @@ name: Izzet Prowess
 meta_share: 0.0384
 list_count: 45
 top_cards:
-- name: Lightning Bolt
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
-- name: Cori-Steel Cutter
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
@@ -129,10 +129,10 @@ top_cards:
 - name: Blood Moon
   weight: 0.1111
   avg_copies: 1.6
-- name: Force of Negation
+- name: Monstrous Rage
   weight: 0.1111
   avg_copies: 1.4
-- name: Monstrous Rage
+- name: Force of Negation
   weight: 0.1111
   avg_copies: 1.4
 - name: Iroh's Demonstration
@@ -162,10 +162,10 @@ top_cards:
 - name: Island
   weight: 0.0667
   avg_copies: 1.33
-- name: Accumulate Wisdom
+- name: End the Festivities
   weight: 0.0667
   avg_copies: 1.0
-- name: End the Festivities
+- name: Accumulate Wisdom
   weight: 0.0667
   avg_copies: 1.0
 - name: Spirebluff Canal
@@ -192,43 +192,43 @@ top_cards:
 - name: Siege Smash
   weight: 0.0222
   avg_copies: 2.0
-- name: Flooded Strand
-  weight: 0.0222
-  avg_copies: 1.0
 - name: Wear
   weight: 0.0222
   avg_copies: 1.0
 - name: Flow State
   weight: 0.0222
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Sink into Stupor
   weight: 0.0222
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.0222
   avg_copies: 1.0
-- name: Polluted Delta
-  weight: 0.0222
-  avg_copies: 1.0
 - name: Combustion Technique
-  weight: 0.0222
-  avg_copies: 1.0
-- name: Riverpyre Verge
   weight: 0.0222
   avg_copies: 1.0
 - name: Pithing Needle
   weight: 0.0222
   avg_copies: 1.0
+- name: Flooded Strand
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Polluted Delta
+  weight: 0.0222
+  avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 0.0222
   avg_copies: 1.0
-- name: Sink into Stupor
+- name: Grafdigger's Cage
   weight: 0.0222
   avg_copies: 1.0
 - name: The Legend of Roku
   weight: 0.0222
   avg_copies: 1.0
 - name: Shatterstorm
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Riverpyre Verge
   weight: 0.0222
   avg_copies: 1.0
 ---

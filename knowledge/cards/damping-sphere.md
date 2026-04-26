@@ -26,12 +26,12 @@ archetypes:
   necrodominance:
     weight: 0.8
     avg_copies: 2.06
-  azorius-control:
-    weight: 0.1154
-    avg_copies: 2.33
   living-end:
     weight: 0.4762
     avg_copies: 1.1
+  jeskai-control:
+    weight: 0.1875
+    avg_copies: 2.33
   affinity:
     weight: 0.982
     avg_copies: 2.53

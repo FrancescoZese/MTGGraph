@@ -19,8 +19,11 @@ archetypes:
     weight: 0.0118
     avg_copies: 4.0
   azorius-control:
-    weight: 0.9231
+    weight: 1.0
     avg_copies: 4.0
+  jeskai-control:
+    weight: 0.875
+    avg_copies: 3.5
   mono-red-belcher:
     weight: 0.3333
     avg_copies: 4.0
@@ -30,9 +33,6 @@ archetypes:
   indomitable-creativity:
     weight: 0.2857
     avg_copies: 3.0
-  jeskai-control:
-    weight: 1.0
-    avg_copies: 2.4
   scapeshift-combo:
     weight: 0.25
     avg_copies: 4.0

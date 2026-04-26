@@ -15,6 +15,9 @@ archetypes:
   living-end:
     weight: 0.1905
     avg_copies: 1.0
+  jeskai-control:
+    weight: 0.0625
+    avg_copies: 2.0
   mill:
     weight: 0.1429
     avg_copies: 2.0
@@ -27,9 +30,6 @@ archetypes:
   grixis-control:
     weight: 0.3333
     avg_copies: 3.0
-  jeskai-control:
-    weight: 0.3333
-    avg_copies: 2.0
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 3.0

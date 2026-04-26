@@ -10,10 +10,10 @@ top_cards:
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
-- name: Overlord of the Balemurk
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
@@ -49,16 +49,16 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.09
-- name: Shadowy Backstreet
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
-- name: Watery Grave
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Thoughtseize
@@ -97,10 +97,10 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.5455
   avg_copies: 2.67
-- name: Island
+- name: Surgical Extraction
   weight: 0.2727
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Island
   weight: 0.2727
   avg_copies: 1.0
 - name: Psychic Frog
@@ -115,37 +115,37 @@ top_cards:
 - name: Force of Negation
   weight: 0.0909
   avg_copies: 4.0
-- name: Subtlety
-  weight: 0.0909
-  avg_copies: 4.0
 - name: No More Lies
   weight: 0.0909
   avg_copies: 4.0
-- name: Clarion Conqueror
+- name: Subtlety
   weight: 0.0909
-  avg_copies: 2.0
+  avg_copies: 4.0
 - name: White Orchid Phantom
   weight: 0.0909
   avg_copies: 2.0
-- name: Windswept Heath
+- name: Clarion Conqueror
   weight: 0.0909
-  avg_copies: 1.0
-- name: March of Otherworldly Light
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Emptiness
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Strix Serenade
-  weight: 0.0909
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Hydroelectric Specimen
   weight: 0.0909
   avg_copies: 1.0
 - name: Floodfarm Verge
   weight: 0.0909
   avg_copies: 1.0
+- name: Strix Serenade
+  weight: 0.0909
+  avg_copies: 1.0
+- name: March of Otherworldly Light
+  weight: 0.0909
+  avg_copies: 1.0
 - name: Celestial Purge
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Windswept Heath
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Emptiness
   weight: 0.0909
   avg_copies: 1.0
 ---

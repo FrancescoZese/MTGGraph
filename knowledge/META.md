@@ -52,107 +52,107 @@ Total lists: 1163
    Combo deck that uses Whir of Invention to find Goblin Charbelcher and wins with a landless deck. Thundertrap Trainer and Tameshi provide backup artifact synergies.
    See: `archetypes/mono-blue-belcher.md`
 
-13. **Azorius Control** (2.2%, 26 lists) [WUR]
-   Draw-go control deck with Solitude and Prismatic Ending for removal, backed by Counterspell and Teferi for countermagic and card advantage.
-   See: `archetypes/azorius-control.md`
-
-14. **Izzet Artifacts** (2.1%, 25 lists) [UR]
+13. **Izzet Artifacts** (2.1%, 25 lists) [UR]
    See: `archetypes/izzet-artifacts.md`
 
-15. **Neoform Combo** (2.1%, 25 lists) [WUBRG]
+14. **Neoform Combo** (2.1%, 25 lists) [WUBRG]
    Combo deck using Neoform and Eldritch Evolution to sacrifice Allosaurus Rider into a game-ending threat.
    See: `archetypes/neoform-combo.md`
 
-16. **Reanimator** (2.1%, 24 lists) [UBR]
+15. **Reanimator** (2.1%, 24 lists) [UBR]
    See: `archetypes/reanimator.md`
 
-17. **Boros Ponza** (1.9%, 22 lists) [WR]
+16. **Boros Ponza** (1.9%, 22 lists) [WR]
    Hatebears deck using land destruction and taxing effects to slow opponents while deploying efficient creatures.
    See: `archetypes/boros-ponza.md`
 
-18. **Eldrazi Ramp** (1.9%, 22 lists) [RG]
+17. **Eldrazi Ramp** (1.9%, 22 lists) [RG]
    See: `archetypes/eldrazi-ramp.md`
 
-19. **Living End** (1.8%, 21 lists) [UBG]
+18. **Living End** (1.8%, 21 lists) [UBG]
    Cascade combo deck that cycles or mills creatures into the graveyard, then cascades into Living End to reanimate them all at once.
    See: `archetypes/living-end.md`
 
-20. **Broodscale Combo** (1.7%, 20 lists) [RG]
+19. **Broodscale Combo** (1.7%, 20 lists) [RG]
    Unclassified archetype, pending review.
    See: `archetypes/broodscale-combo.md`
 
-21. **Necrodominance** (1.7%, 20 lists) [UB]
+20. **Necrodominance** (1.7%, 20 lists) [UB]
    Mono-black midrange deck powered by Necrodominance for massive card advantage, with Orcish Bowmasters and Soul Spike as payoffs.
    See: `archetypes/necrodominance.md`
 
-22. **Hollow One** (1.5%, 17 lists) [BR]
+21. **Hollow One** (1.5%, 17 lists) [BR]
    Aggressive graveyard deck using Burning Inquiry and Faithless Looting to discard Hollow One for free casting. Dragon's Rage Channeler and Nethergoyf provide efficient threats powered by a full graveyard.
    See: `archetypes/hollow-one.md`
+
+22. **Jeskai Control** (1.4%, 16 lists) [WUR]
+   Unclassified archetype, pending review.
+   See: `archetypes/jeskai-control.md`
 
 23. **Yawgmoth Combo** (1.2%, 14 lists) [BG]
    See: `archetypes/yawgmoth-combo.md`
 
-24. **Mardu Blink** (0.9%, 11 lists) [WBR]
+24. **Azorius Control** (1.1%, 13 lists) [WU]
+   Draw-go control deck with Solitude and Prismatic Ending for removal, backed by Counterspell and Teferi for countermagic and card advantage.
+   See: `archetypes/azorius-control.md`
+
+25. **Mardu Blink** (0.9%, 11 lists) [WBR]
    Midrange blink deck splashing red for Phlage and Galvanic Discharge alongside Solitude and Overlord blink targets.
    See: `archetypes/mardu-blink.md`
 
-25. **Esper Blink** (0.9%, 11 lists) [WUB]
+26. **Esper Blink** (0.9%, 11 lists) [WUB]
    Three-color blink-midrange deck using Phelia and Ephemerate to generate value from Overlord of the Balemurk and Solitude.
    See: `archetypes/esper-blink.md`
 
-26. **Cosmogoyf Fling** (0.9%, 10 lists) [BRG]
+27. **Cosmogoyf Fling** (0.9%, 10 lists) [BRG]
    See: `archetypes/cosmogoyf-fling.md`
 
-27. **Samwise Combo** (0.9%, 10 lists) [WUBG]
+28. **Samwise Combo** (0.9%, 10 lists) [WUBG]
    Creature combo deck using Samwise Gamgee, Birthing Ritual, and Cauldron Familiar with Chord of Calling to assemble value loops.
    See: `archetypes/samwise-combo.md`
 
-28. **Mill** (0.6%, 7 lists) [UB]
+29. **Mill** (0.6%, 7 lists) [UB]
    Control deck that wins by milling the opponent out with Hedron Crab, Archive Trap, and other mill effects backed by Fatal Push and countermagic.
    See: `archetypes/mill.md`
 
-29. **Indomitable Creativity** (0.6%, 7 lists) [WUBRG]
+30. **Indomitable Creativity** (0.6%, 7 lists) [WUBRG]
    See: `archetypes/indomitable-creativity.md`
 
-30. **Dredge** (0.5%, 6 lists) [UBRG]
+31. **Dredge** (0.5%, 6 lists) [UBRG]
    See: `archetypes/dredge.md`
 
-31. **Mono Red Belcher** (0.5%, 6 lists) [RG]
+32. **Mono Red Belcher** (0.5%, 6 lists) [RG]
    Combo deck using rituals and cascade to power out Goblin Charbelcher for a one-shot kill.
    See: `archetypes/mono-red-belcher.md`
 
-32. **Rakdos Aggro** (0.5%, 6 lists) [BR]
+33. **Rakdos Aggro** (0.5%, 6 lists) [BR]
    See: `archetypes/rakdos-aggro.md`
 
-33. **Mono Green Ramp** (0.4%, 5 lists) [BG]
+34. **Mono Green Ramp** (0.4%, 5 lists) [BG]
    Unclassified archetype, pending review.
    See: `archetypes/mono-green-ramp.md`
 
-34. **Kethis Combo** (0.4%, 5 lists) [WUBG]
+35. **Kethis Combo** (0.4%, 5 lists) [WUBG]
    Legendary-matters combo deck leveraging Plaza of Heroes and Mox Opal with a suite of legendary permanents.
    See: `archetypes/kethis-combo.md`
 
-35. **Burn** (0.3%, 4 lists) [WR]
+36. **Burn** (0.3%, 4 lists) [WR]
    Mono-red aggro deck that wins by chaining burn spells to the face.
    See: `archetypes/burn.md`
 
-36. **Orzhov Blink** (0.3%, 4 lists) [WB]
+37. **Orzhov Blink** (0.3%, 4 lists) [WB]
    Midrange blink deck using Phelia and Ephemerate to generate value from Overlord of the Balemurk and Orcish Bowmasters.
    See: `archetypes/orzhov-blink.md`
 
-37. **Scapeshift Combo** (0.3%, 4 lists) [G]
+38. **Scapeshift Combo** (0.3%, 4 lists) [G]
    See: `archetypes/scapeshift-combo.md`
 
-38. **Grixis Control** (0.3%, 3 lists) [UR]
+39. **Grixis Control** (0.3%, 3 lists) [UR]
    See: `archetypes/grixis-control.md`
 
-39. **Azorius Blink** (0.3%, 3 lists) [WU]
+40. **Azorius Blink** (0.3%, 3 lists) [WU]
    Creature-based blink deck using Guide of Souls, Ocelot Pride, Solitude, and Ephemerate.
    See: `archetypes/azorius-blink.md`
-
-40. **Jeskai Control** (0.3%, 3 lists) [WUR]
-   Unclassified archetype, pending review.
-   See: `archetypes/jeskai-control.md`
 
 41. **Mono-Blue Tron** (0.3%, 3 lists) [U]
    Big mana control deck assembling Tron lands for powerful colorless spells.
@@ -260,85 +260,85 @@ Total lists: 1163
 
 ## Most Played Cards (by meta presence)
 
-1. **Consign to Memory** (47.7%) [U] — in: Dimir Control, Mono Blue Belcher, Goryo, Azorius Control, Domain Zoo, Mono-Blue Tron, Esper Blink, Bant Control, Azorius Blink, Esper Control, Grixis Control, Eldrazi Breach, Jeskai Control, Grixis Shadow, Izzet Splinter Twin, Izzet Wizzards, Esper Midrange, archetype:goryo1, archetype:goryo7, archetype:goryo2, archetype:goryo3, Jeskai Energy, Izzet Prowess, Affinity, Neoform Combo, Izzet Artifacts, Reanimator, Kethis Combo, Simic Ritual, Indomitable Creativity, Mill, Hammer Time, Necrodominance
+1. **Consign to Memory** (47.7%) [U] — in: Dimir Control, Mono Blue Belcher, Goryo, Azorius Control, Jeskai Control, Domain Zoo, Mono-Blue Tron, Esper Blink, Bant Control, Azorius Blink, Esper Control, Grixis Control, Eldrazi Breach, Grixis Shadow, Izzet Splinter Twin, Izzet Wizzards, Esper Midrange, archetype:goryo1, archetype:goryo7, archetype:goryo2, archetype:goryo3, Jeskai Energy, Izzet Prowess, Affinity, Neoform Combo, Izzet Artifacts, Reanimator, Kethis Combo, Simic Ritual, Indomitable Creativity, Mill, Hammer Time, Necrodominance
    See: `cards/consign-to-memory.md`
 
-2. **Mystical Dispute** (42.8%) [U] — in: Dimir Control, Goryo, Azorius Control, Simic Ritual, 4c Omnath, Bant Control, Esper Control, Grixis Control, Eldrazi Breach, Jeskai Control, Izzet Splinter Twin, Esper Midrange, archetype:goryo1, archetype:goryo2, archetype:goryo3, Jeskai Energy, Domain Zoo, Living End, Mono Blue Belcher, Neoform Combo, Affinity, Reanimator, Esper Blink, Indomitable Creativity, Mono-Blue Tron, Hammer Time, Azorius Blink, Mill, Izzet Prowess, Izzet Artifacts, Necrodominance
+2. **Mystical Dispute** (42.8%) [U] — in: Dimir Control, Goryo, Azorius Control, Jeskai Control, Simic Ritual, 4c Omnath, Bant Control, Esper Control, Grixis Control, Eldrazi Breach, Izzet Splinter Twin, Esper Midrange, archetype:goryo1, archetype:goryo2, archetype:goryo3, Jeskai Energy, Domain Zoo, Living End, Mono Blue Belcher, Neoform Combo, Affinity, Reanimator, Esper Blink, Indomitable Creativity, Mono-Blue Tron, Hammer Time, Azorius Blink, Mill, Izzet Prowess, Izzet Artifacts, Necrodominance
    See: `cards/mystical-dispute.md`
 
-3. **Arid Mesa** (42.6%) [] — in: Boros Energy, Domain Zoo, Mardu Blink, Indomitable Creativity, Orzhov Blink, Azorius Blink, Jeskai Control, Bant Ritual, Naya Midrange, Selesnya Midrange, Jeskai Energy, Azorius Control, Ruby Storm, Dredge, Hollow One, Izzet Prowess, Burn, Hammer Time, Rakdos Aggro, Scapeshift Combo, Boros Ponza
+3. **Arid Mesa** (42.6%) [] — in: Boros Energy, Jeskai Control, Domain Zoo, Mardu Blink, Indomitable Creativity, Orzhov Blink, Azorius Blink, Bant Ritual, Naya Midrange, Selesnya Midrange, Jeskai Energy, Ruby Storm, Azorius Control, Dredge, Hollow One, Izzet Prowess, Burn, Hammer Time, Rakdos Aggro, Scapeshift Combo, Boros Ponza
    See: `cards/arid-mesa.md`
 
-4. **Flooded Strand** (42.2%) [] — in: Jeskai Energy, Goryo, Azorius Control, Domain Zoo, Hammer Time, Kethis Combo, 4c Omnath, Esper Blink, Bant Control, Esper Control, Jeskai Control, Izzet Splinter Twin, Bant Ritual, Izzet Wizzards, Esper Midrange, archetype:goryo2, archetype:goryo3, Mill, Dimir Control, Boros Energy, Orzhov Blink, Azorius Blink, Grixis Control, Neoform Combo, Izzet Artifacts, Simic Ritual, Living End, Reanimator, Izzet Prowess, Affinity
+4. **Flooded Strand** (42.2%) [] — in: Jeskai Energy, Goryo, Azorius Control, Jeskai Control, Domain Zoo, Hammer Time, Kethis Combo, 4c Omnath, Esper Blink, Bant Control, Esper Control, Izzet Splinter Twin, Bant Ritual, Izzet Wizzards, Esper Midrange, archetype:goryo2, archetype:goryo3, Mill, Dimir Control, Boros Energy, Orzhov Blink, Azorius Blink, Grixis Control, Neoform Combo, Izzet Artifacts, Simic Ritual, Living End, Reanimator, Izzet Prowess, Affinity
    See: `cards/flooded-strand.md`
 
-5. **Wrath of the Skies** (41.3%) [W] — in: Mardu Blink, Boros Ponza, Esper Blink, Orzhov Blink, Bant Control, Jeskai Control, Bant Ritual, Naya Midrange, Selesnya Midrange, archetype:goryo6, archetype:goryo2, archetype:goryo3, Boros Energy, Jeskai Energy, Goryo, Domain Zoo, Azorius Control, Azorius Blink, Reanimator, Eldrazi Tron
+5. **Wrath of the Skies** (41.5%) [W] — in: Jeskai Control, Mardu Blink, Boros Ponza, Esper Blink, Orzhov Blink, Bant Control, Bant Ritual, Naya Midrange, Selesnya Midrange, archetype:goryo6, archetype:goryo2, archetype:goryo3, Boros Energy, Jeskai Energy, Goryo, Domain Zoo, Azorius Control, Azorius Blink, Reanimator, Eldrazi Tron
    See: `cards/wrath-of-the-skies.md`
 
-6. **Plains** (40.9%) [] — in: Goryo, Azorius Control, Domain Zoo, Hammer Time, Boros Ponza, 4c Omnath, Esper Blink, Orzhov Blink, Bant Control, Azorius Blink, Esper Control, Jeskai Control, Bant Ritual, Esper Midrange, Naya Midrange, Selesnya Midrange, archetype:goryo6, archetype:goryo2, archetype:goryo3, Boros Energy, Jeskai Energy, Indomitable Creativity, Mardu Blink, Mill, Reanimator, Eldrazi Tron
+6. **Plains** (40.9%) [] — in: Goryo, Azorius Control, Jeskai Control, Domain Zoo, Hammer Time, Boros Ponza, 4c Omnath, Esper Blink, Orzhov Blink, Bant Control, Azorius Blink, Esper Control, Bant Ritual, Esper Midrange, Naya Midrange, Selesnya Midrange, archetype:goryo6, archetype:goryo2, archetype:goryo3, Boros Energy, Jeskai Energy, Indomitable Creativity, Mardu Blink, Mill, Reanimator, Eldrazi Tron
    See: `cards/plains.md`
 
-7. **Surgical Extraction** (39.8%) [] — in: Mill, Mardu Blink, Jeskai Control, Izzet Splinter Twin, Naya Midrange, archetype:goryo5, Boros Energy, Izzet Prowess, Jeskai Energy, Goryo, Necrodominance, Azorius Control, Hollow One, Burn, Orzhov Blink, Dredge, Indomitable Creativity, Mono-Blue Tron, Grixis Control, archetype:goryo1, Samwise Combo, Esper Blink, Reanimator, Domain Zoo, Rakdos Aggro, Boros Ponza, Dimir Control, Eldrazi Ramp, Mono Blue Belcher
+7. **Surgical Extraction** (39.8%) [] — in: Mill, Mardu Blink, Izzet Splinter Twin, Naya Midrange, archetype:goryo5, Boros Energy, Izzet Prowess, Jeskai Control, Jeskai Energy, Goryo, Necrodominance, Hollow One, Azorius Control, Burn, Orzhov Blink, Dredge, Indomitable Creativity, Mono-Blue Tron, Grixis Control, archetype:goryo1, Samwise Combo, Esper Blink, Reanimator, Domain Zoo, Rakdos Aggro, Boros Ponza, Dimir Control, Eldrazi Ramp, Mono Blue Belcher
    See: `cards/surgical-extraction.md`
 
-8. **Mountain** (38.5%) [] — in: Ruby Storm, Burn, Boros Ponza, Izzet Prowess, Indomitable Creativity, Grixis Control, Jund Saga, Rakdos Lantern Combo, Eldrazi Breach, Rakdos Aggro, Izzet Splinter Twin, Izzet Wizzards, Naya Midrange, archetype:goryo0, Selesnya Midrange, archetype:goryo4, Domain Zoo, Hollow One, Jeskai Energy, Boros Energy, Mono Red Belcher, Dredge, Mardu Blink, Izzet Artifacts, Jeskai Control, Scapeshift Combo, Mono Blue Belcher, Cosmogoyf Fling, Reanimator
+8. **Mountain** (38.5%) [] — in: Ruby Storm, Burn, Boros Ponza, Izzet Prowess, Indomitable Creativity, Grixis Control, Jund Saga, Rakdos Lantern Combo, Eldrazi Breach, Rakdos Aggro, Izzet Splinter Twin, Izzet Wizzards, Naya Midrange, archetype:goryo0, Selesnya Midrange, archetype:goryo4, Domain Zoo, Hollow One, Jeskai Energy, Boros Energy, Mono Red Belcher, Dredge, Mardu Blink, Izzet Artifacts, Scapeshift Combo, Mono Blue Belcher, Cosmogoyf Fling, Jeskai Control, Reanimator
    See: `cards/mountain.md`
 
-9. **Island** (35.3%) [] — in: Goryo, Azorius Control, Living End, Mono-Blue Tron, Kethis Combo, 4c Omnath, Bant Control, Esper Control, Grixis Control, Eldrazi Breach, Izzet Splinter Twin, Izzet Wizzards, Esper Midrange, archetype:goryo1, archetype:goryo7, archetype:goryo2, archetype:goryo3, Affinity, Dimir Control, Izzet Artifacts, Reanimator, Jeskai Energy, Jeskai Control, Mill, Mono Blue Belcher, Esper Blink, Izzet Prowess, Neoform Combo
+9. **Island** (35.3%) [] — in: Goryo, Azorius Control, Living End, Mono-Blue Tron, Kethis Combo, 4c Omnath, Bant Control, Esper Control, Grixis Control, Eldrazi Breach, Izzet Splinter Twin, Izzet Wizzards, Esper Midrange, archetype:goryo1, archetype:goryo7, archetype:goryo2, archetype:goryo3, Affinity, Dimir Control, Izzet Artifacts, Jeskai Control, Reanimator, Jeskai Energy, Mill, Mono Blue Belcher, Esper Blink, Izzet Prowess, Neoform Combo
    See: `cards/island.md`
 
-10. **Sacred Foundry** (35.3%) [] — in: Ruby Storm, Boros Energy, Jeskai Energy, Mardu Blink, 4c Omnath, Naya Midrange, Selesnya Midrange, Boros Ponza, Indomitable Creativity, Burn, Orzhov Blink, Azorius Control, Jeskai Control, Scapeshift Combo, Domain Zoo, Izzet Prowess
+10. **Sacred Foundry** (35.3%) [] — in: Ruby Storm, Boros Energy, Jeskai Energy, Mardu Blink, 4c Omnath, Naya Midrange, Selesnya Midrange, Boros Ponza, Indomitable Creativity, Jeskai Control, Burn, Orzhov Blink, Scapeshift Combo, Azorius Control, Domain Zoo, Izzet Prowess
    See: `cards/sacred-foundry.md`
 
-11. **Phlage, Titan of Fire's Fury** (35.1%) [RW] — in: Boros Energy, Jeskai Energy, Mardu Blink, Boros Ponza, Jeskai Control, Naya Midrange, Selesnya Midrange, Domain Zoo, Azorius Control, Ruby Storm
+11. **Phlage, Titan of Fire's Fury** (35.1%) [RW] — in: Boros Energy, Jeskai Energy, Mardu Blink, Boros Ponza, Naya Midrange, Selesnya Midrange, Domain Zoo, Jeskai Control, Ruby Storm
    See: `cards/phlage-titan-of-fire-s-fury.md`
 
-12. **Arena of Glory** (34.0%) [] — in: Boros Energy, Jeskai Energy, Mardu Blink, Jeskai Control, Naya Midrange, Selesnya Midrange, Domain Zoo, Rakdos Aggro, Hollow One, Burn, Boros Ponza, Eldrazi Ramp
+12. **Arena of Glory** (34.0%) [] — in: Boros Energy, Jeskai Energy, Mardu Blink, Naya Midrange, Selesnya Midrange, Domain Zoo, Rakdos Aggro, Hollow One, Burn, Jeskai Control, Boros Ponza, Eldrazi Ramp
    See: `cards/arena-of-glory.md`
 
-13. **Steam Vents** (33.2%) [] — in: Jeskai Energy, Domain Zoo, Izzet Prowess, 4c Omnath, Indomitable Creativity, Grixis Control, Eldrazi Breach, Jeskai Control, Grixis Shadow, Izzet Splinter Twin, Izzet Wizzards, archetype:goryo1, Affinity, Izzet Artifacts, Reanimator, Dredge, Azorius Control, Dimir Control, Ruby Storm, Living End, Simic Ritual
+13. **Steam Vents** (33.2%) [] — in: Jeskai Energy, Jeskai Control, Domain Zoo, Izzet Prowess, 4c Omnath, Indomitable Creativity, Grixis Control, Eldrazi Breach, Grixis Shadow, Izzet Splinter Twin, Izzet Wizzards, archetype:goryo1, Affinity, Izzet Artifacts, Reanimator, Dredge, Azorius Control, Dimir Control, Ruby Storm, Living End, Simic Ritual
    See: `cards/steam-vents.md`
 
-14. **Elegant Parlor** (32.9%) [] — in: Ruby Storm, Boros Energy, Jeskai Energy, Mardu Blink, Naya Midrange, Selesnya Midrange, Indomitable Creativity, 4c Omnath, Azorius Control, Jeskai Control, Boros Ponza
+14. **Elegant Parlor** (32.9%) [] — in: Ruby Storm, Boros Energy, Jeskai Energy, Mardu Blink, Naya Midrange, Selesnya Midrange, Indomitable Creativity, Jeskai Control, 4c Omnath, Boros Ponza
    See: `cards/elegant-parlor.md`
 
 15. **Ragavan, Nimble Pilferer** (32.0%) [R] — in: Boros Energy, Jund Saga, Izzet Splinter Twin, Naya Midrange, Selesnya Midrange, Jeskai Energy, Domain Zoo, Mardu Blink, Burn, Izzet Prowess
    See: `cards/ragavan-nimble-pilferer.md`
 
-16. **Galvanic Discharge** (32.0%) [R] — in: Boros Energy, Grixis Control, Jeskai Control, Naya Midrange, Selesnya Midrange, Boros Ponza, Jeskai Energy, Mardu Blink, Indomitable Creativity, Azorius Control
+16. **Galvanic Discharge** (32.0%) [R] — in: Boros Energy, Jeskai Control, Grixis Control, Naya Midrange, Selesnya Midrange, Boros Ponza, Jeskai Energy, Mardu Blink, Indomitable Creativity
    See: `cards/galvanic-discharge.md`
 
-17. **Damping Sphere** (31.5%) [] — in: Hardened Scales, Esper Blink, Orzhov Blink, Elves, Grixis Shadow, Mono Green Stompy, Izzet Splinter Twin, Bant Ritual, Esper Midrange, Naya Midrange, archetype:goryo1, archetype:goryo4, archetype:goryo7, Affinity, Rakdos Aggro, Hollow One, Mardu Blink, Domain Zoo, Necrodominance, Reanimator, Broodscale Combo, Hammer Time, The Rock, Living End, Yawgmoth Combo, Jeskai Energy, Burn, Boros Energy, Dimir Control, Simic Ritual, Dredge, Eldrazi Ramp, Azorius Control, Goryo
+17. **Damping Sphere** (31.5%) [] — in: Hardened Scales, Esper Blink, Orzhov Blink, Elves, Grixis Shadow, Mono Green Stompy, Izzet Splinter Twin, Bant Ritual, Esper Midrange, Naya Midrange, archetype:goryo1, archetype:goryo4, archetype:goryo7, Affinity, Rakdos Aggro, Hollow One, Mardu Blink, Domain Zoo, Necrodominance, Reanimator, Broodscale Combo, Hammer Time, The Rock, Living End, Yawgmoth Combo, Jeskai Energy, Burn, Boros Energy, Dimir Control, Jeskai Control, Simic Ritual, Dredge, Eldrazi Ramp, Goryo
    See: `cards/damping-sphere.md`
 
 18. **Vexing Bauble** (30.4%) [] — in: Hammer Time, Kethis Combo, Yawgmoth Combo, Broodscale Combo, Elves, Jund Saga, Rakdos Lantern Combo, Eldrazi Breach, Grixis Shadow, Bant Ritual, Scapeshift Combo, The Rock, archetype:goryo4, Boros Ponza, Eldrazi Ramp, Hollow One, Orzhov Blink, Hardened Scales, Eldrazi Tron, Affinity, Samwise Combo, Amulet Titan, Mono Red Belcher, Izzet Artifacts, Dredge, Boros Energy, Reanimator, Rakdos Aggro, Izzet Prowess, Ruby Storm, Domain Zoo
    See: `cards/vexing-bauble.md`
 
-19. **Marsh Flats** (29.7%) [] — in: Goryo, Mardu Blink, Hammer Time, Esper Blink, Orzhov Blink, Azorius Blink, Bant Ritual, Esper Midrange, archetype:goryo5, archetype:goryo2, Boros Energy, The Rock, Dimir Control, Hollow One, Rakdos Aggro, Azorius Control, Jeskai Energy, Necrodominance, Reanimator
+19. **Marsh Flats** (29.7%) [] — in: Goryo, Mardu Blink, Hammer Time, Esper Blink, Orzhov Blink, Azorius Blink, Bant Ritual, Esper Midrange, archetype:goryo5, archetype:goryo2, Boros Energy, The Rock, Dimir Control, Hollow One, Azorius Control, Rakdos Aggro, Jeskai Energy, Necrodominance, Reanimator
    See: `cards/marsh-flats.md`
 
-20. **Obsidian Charmaw** (28.7%) [R] — in: 4c Omnath, Jund Saga, Naya Midrange, Selesnya Midrange, Jeskai Energy, Boros Energy, Mardu Blink, Rakdos Aggro, Burn, Domain Zoo, Hollow One, Grixis Control, Jeskai Control, Izzet Prowess, Reanimator
+20. **Obsidian Charmaw** (28.7%) [R] — in: 4c Omnath, Jund Saga, Naya Midrange, Selesnya Midrange, Jeskai Energy, Boros Energy, Mardu Blink, Rakdos Aggro, Burn, Domain Zoo, Hollow One, Grixis Control, Izzet Prowess, Jeskai Control, Reanimator
    See: `cards/obsidian-charmaw.md`
 
-21. **Scalding Tarn** (26.5%) [] — in: Ruby Storm, Azorius Control, Indomitable Creativity, Dredge, Grixis Control, Eldrazi Breach, Grixis Shadow, Izzet Splinter Twin, Izzet Wizzards, archetype:goryo1, archetype:goryo3, Jeskai Energy, Izzet Prowess, Mill, Reanimator, Burn, Neoform Combo, Izzet Artifacts, Rakdos Aggro, Dimir Control, Jeskai Control, Hollow One, Affinity, Simic Ritual
+21. **Scalding Tarn** (26.5%) [] — in: Ruby Storm, Azorius Control, Indomitable Creativity, Dredge, Grixis Control, Eldrazi Breach, Grixis Shadow, Izzet Splinter Twin, Izzet Wizzards, archetype:goryo1, archetype:goryo3, Jeskai Energy, Izzet Prowess, Jeskai Control, Mill, Reanimator, Burn, Neoform Combo, Izzet Artifacts, Rakdos Aggro, Dimir Control, Hollow One, Affinity, Simic Ritual
    See: `cards/scalding-tarn.md`
 
-22. **High Noon** (26.0%) [W] — in: Orzhov Blink, Esper Control, Elves, Selesnya Midrange, archetype:goryo6, archetype:goryo2, Jeskai Energy, Boros Ponza, Mardu Blink, Esper Blink, Azorius Control, Boros Energy, Indomitable Creativity, Jeskai Control, Samwise Combo, Domain Zoo, Living End, Dimir Control, Eldrazi Tron
+22. **High Noon** (26.0%) [W] — in: Orzhov Blink, Esper Control, Elves, Selesnya Midrange, archetype:goryo6, archetype:goryo2, Jeskai Energy, Boros Ponza, Mardu Blink, Esper Blink, Azorius Control, Boros Energy, Jeskai Control, Indomitable Creativity, Samwise Combo, Domain Zoo, Living End, Dimir Control, Eldrazi Tron
    See: `cards/high-noon.md`
 
-23. **Celestial Purge** (25.1%) [W] — in: Jeskai Control, Esper Midrange, archetype:goryo2, archetype:goryo3, Boros Ponza, Azorius Control, Goryo, Boros Energy, Jeskai Energy, Azorius Blink, Scapeshift Combo, Domain Zoo, Esper Blink, Dimir Control, Eldrazi Tron
+23. **Celestial Purge** (25.1%) [W] — in: Esper Midrange, archetype:goryo2, archetype:goryo3, Boros Ponza, Jeskai Control, Azorius Control, Goryo, Boros Energy, Jeskai Energy, Azorius Blink, Scapeshift Combo, Domain Zoo, Esper Blink, Dimir Control, Eldrazi Tron
    See: `cards/celestial-purge.md`
 
-24. **Orim's Chant** (25.1%) [W] — in: Jeskai Control, archetype:goryo0, Boros Ponza, Azorius Control, Boros Energy, Ruby Storm, Mono Red Belcher, Indomitable Creativity, Scapeshift Combo, Jeskai Energy
+24. **Orim's Chant** (25.1%) [W] — in: Azorius Control, archetype:goryo0, Boros Ponza, Boros Energy, Jeskai Control, Ruby Storm, Mono Red Belcher, Indomitable Creativity, Scapeshift Combo, Jeskai Energy
    See: `cards/orim-s-chant.md`
 
-25. **Force of Negation** (24.6%) [U] — in: Goryo, Living End, Mono-Blue Tron, Simic Ritual, 4c Omnath, Esper Control, Izzet Splinter Twin, Esper Midrange, archetype:goryo7, archetype:goryo3, Dimir Control, Mono Blue Belcher, Izzet Artifacts, Azorius Control, Affinity, Grixis Control, Jeskai Energy, Mill, Izzet Prowess, Esper Blink, Reanimator
+25. **Force of Negation** (24.6%) [U] — in: Goryo, Living End, Mono-Blue Tron, Simic Ritual, 4c Omnath, Esper Control, Izzet Splinter Twin, Esper Midrange, archetype:goryo7, archetype:goryo3, Dimir Control, Mono Blue Belcher, Izzet Artifacts, Jeskai Control, Affinity, Azorius Control, Grixis Control, Jeskai Energy, Mill, Izzet Prowess, Esper Blink, Reanimator
    See: `cards/force-of-negation.md`
 
 26. **Swamp** (21.6%) [] — in: Necrodominance, Reanimator, Yawgmoth Combo, Esper Blink, Orzhov Blink, Jund Saga, Rakdos Lantern Combo, Grixis Shadow, Rakdos Aggro, Cosmogoyf Fling, Esper Midrange, The Rock, archetype:goryo1, archetype:goryo5, archetype:goryo2, Dimir Control, Goryo, Eldrazi Tron, Hollow One, Mill, Living End, Samwise Combo, Mardu Blink
    See: `cards/swamp.md`
 
-27. **Sink into Stupor** (21.5%) [] — in: Mono Blue Belcher, Living End, Mono-Blue Tron, Simic Ritual, Eldrazi Breach, Izzet Splinter Twin, Izzet Wizzards, archetype:goryo7, Affinity, Reanimator, archetype:goryo1, Izzet Artifacts, Dimir Control, Grixis Control, Mill, Goryo, Azorius Control, Izzet Prowess
+27. **Sink into Stupor** (21.5%) [] — in: Mono Blue Belcher, Living End, Mono-Blue Tron, Simic Ritual, Eldrazi Breach, Izzet Splinter Twin, Izzet Wizzards, archetype:goryo7, Affinity, Reanimator, archetype:goryo1, Izzet Artifacts, Dimir Control, Grixis Control, Azorius Control, Mill, Goryo, Izzet Prowess
    See: `cards/sink-into-stupor.md`
 
 28. **Ocelot Pride** (20.9%) [W] — in: Boros Energy, Azorius Blink, Bant Ritual, Selesnya Midrange

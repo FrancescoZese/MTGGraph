@@ -15,12 +15,12 @@ archetypes:
   azorius-control:
     weight: 0.1538
     avg_copies: 2.0
+  jeskai-control:
+    weight: 0.1875
+    avg_copies: 2.0
   bant-control:
     weight: 1.0
     avg_copies: 4.0
-  jeskai-control:
-    weight: 0.3333
-    avg_copies: 2.0
   goryo3:
     weight: 1.0
     avg_copies: 3.0

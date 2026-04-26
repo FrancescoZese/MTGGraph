@@ -22,11 +22,14 @@ archetypes:
     weight: 0.0213
     avg_copies: 1.0
   azorius-control:
-    weight: 0.6154
-    avg_copies: 1.62
+    weight: 0.7692
+    avg_copies: 1.8
   living-end:
     weight: 0.0952
     avg_copies: 1.0
+  jeskai-control:
+    weight: 0.4375
+    avg_copies: 1.43
   domain-zoo:
     weight: 0.1622
     avg_copies: 1.0
@@ -54,9 +57,6 @@ archetypes:
   elves:
     weight: 1.0
     avg_copies: 1.0
-  jeskai-control:
-    weight: 0.3333
-    avg_copies: 2.0
   selesnya-midrange:
     weight: 1.0
     avg_copies: 1.0

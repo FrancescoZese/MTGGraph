@@ -6,16 +6,16 @@ name: Hollow One
 meta_share: 0.0145
 list_count: 17
 top_cards:
-- name: Hollow One
-  weight: 1.0
-  avg_copies: 4.0
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
 - name: Burning Inquiry
+  weight: 1.0
+  avg_copies: 4.0
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Detective's Phoenix
@@ -132,58 +132,58 @@ top_cards:
 - name: Polluted Delta
   weight: 0.1765
   avg_copies: 1.0
+- name: Sheoldred's Edict
+  weight: 0.1176
+  avg_copies: 2.0
 - name: Cool but Rude
   weight: 0.1176
   avg_copies: 2.0
 - name: Goblin Lore
   weight: 0.1176
   avg_copies: 2.0
-- name: Sheoldred's Edict
-  weight: 0.1176
-  avg_copies: 2.0
 - name: Ox of Agonas
   weight: 0.1176
   avg_copies: 1.5
+- name: Violent Urge
+  weight: 0.1176
+  avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.1176
   avg_copies: 1.0
 - name: Commercial District
   weight: 0.1176
   avg_copies: 1.0
-- name: Violent Urge
-  weight: 0.1176
-  avg_copies: 1.0
 - name: Leyline of the Void
   weight: 0.0588
   avg_copies: 4.0
-- name: Blood Moon
+- name: Rough
   weight: 0.0588
   avg_copies: 2.0
-- name: Magebane Lizard
+- name: Blood Moon
   weight: 0.0588
   avg_copies: 2.0
 - name: Flameblade Adept
   weight: 0.0588
   avg_copies: 2.0
-- name: Cam and Farrik, Havoc Duo
-  weight: 0.0588
-  avg_copies: 2.0
-- name: Rough
-  weight: 0.0588
-  avg_copies: 2.0
-- name: Ancient Grudge
+- name: Magebane Lizard
   weight: 0.0588
   avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.0588
   avg_copies: 2.0
-- name: Shattering Spree
+- name: Cam and Farrik, Havoc Duo
+  weight: 0.0588
+  avg_copies: 2.0
+- name: Ancient Grudge
+  weight: 0.0588
+  avg_copies: 2.0
+- name: Overlord of the Balemurk
   weight: 0.0588
   avg_copies: 1.0
 - name: Seal of Fire
   weight: 0.0588
   avg_copies: 1.0
-- name: Overlord of the Balemurk
+- name: Shattering Spree
   weight: 0.0588
   avg_copies: 1.0
 - name: Barbarian Ring
