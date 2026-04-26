@@ -18,7 +18,6 @@ let rogueMode = false;
 let thresholdIndex = -1; // -1 = not yet initialized, set on first sidebar build
 let sidebarArchs = []; // cached sorted archetype list for index<->threshold mapping
 let lastFilteredData = null; // cache for sidebar rebuild without full refilter
-let playerHighlightActive = null; // tracks temporary threshold override for player view
 
 /* ── Colors ── */
 
@@ -301,45 +300,32 @@ function updatePlayersSidebar(data) {
                 }
             }
 
-            if (!archIds.size) return;
+            if (!archIds.size || !currentCardSel || !currentArchSel || !currentLinkSel || !currentValidEdges) return;
 
-            // Temporarily remove threshold to show all player's archetypes
-            const savedThreshold = metaThreshold;
-            const savedThresholdIndex = thresholdIndex;
-            metaThreshold = 0;
-            thresholdIndex = sidebarArchs.length;
-            playerHighlightActive = { pilot, archIds, savedThreshold, savedThresholdIndex };
-            applyAllFilters(true);
+            // Graph already has all archetypes (threshold removed on tab switch)
+            const connCards = new Set();
+            for (const e of currentValidEdges) {
+                const t = typeof e.target === "object" ? e.target.id : e.target;
+                const s = typeof e.source === "object" ? e.source.id : e.source;
+                if (archIds.has(t)) connCards.add(s);
+            }
 
-            // Open detail panel immediately
-            showPlayerDetail(pilot, lastFilteredData);
-
-            // Delay highlight to next frame so D3 selections are ready
-            requestAnimationFrame(() => {
-                if (!currentCardSel || !currentArchSel || !currentLinkSel || !currentValidEdges) return;
-
-                const connCards = new Set();
-                for (const e of currentValidEdges) {
-                    const t = typeof e.target === "object" ? e.target.id : e.target;
-                    const s = typeof e.source === "object" ? e.source.id : e.source;
-                    if (archIds.has(t)) connCards.add(s);
-                }
-
-                const dur = highlightDuration();
-                currentArchSel.each(function(n) {
-                    gsap.to(this, { attr: { opacity: archIds.has(n.id) ? 1 : 0.1 }, duration: dur, overwrite: true });
-                });
-                currentCardSel.each(function(n) {
-                    gsap.to(this, { attr: { opacity: connCards.has(n.id) ? 0.85 : 0.06 }, duration: dur, overwrite: true });
-                });
-                currentLinkSel.each(function(e) {
-                    const t = typeof e.target === "object" ? e.target.id : e.target;
-                    const s = typeof e.source === "object" ? e.source.id : e.source;
-                    const active = archIds.has(t) && connCards.has(s);
-                    gsap.to(this, { attr: { "stroke-opacity": active ? 0.5 : 0.01 }, duration: dur, overwrite: true });
-                });
-                isHighlighted = true;
+            const dur = highlightDuration();
+            currentArchSel.each(function(n) {
+                gsap.to(this, { attr: { opacity: archIds.has(n.id) ? 1 : 0.1 }, duration: dur, overwrite: true });
             });
+            currentCardSel.each(function(n) {
+                gsap.to(this, { attr: { opacity: connCards.has(n.id) ? 0.85 : 0.06 }, duration: dur, overwrite: true });
+            });
+            currentLinkSel.each(function(e) {
+                const t = typeof e.target === "object" ? e.target.id : e.target;
+                const s = typeof e.source === "object" ? e.source.id : e.source;
+                const active = archIds.has(t) && connCards.has(s);
+                gsap.to(this, { attr: { "stroke-opacity": active ? 0.5 : 0.01 }, duration: dur, overwrite: true });
+            });
+            isHighlighted = true;
+
+            showPlayerDetail(pilot, lastFilteredData);
         });
     });
 }
@@ -361,8 +347,12 @@ function initSidebarTabs() {
     };
     let activeTab = "archetypes";
 
+    let savedThreshold = null;
+    let savedThresholdIndex = null;
+
     document.querySelectorAll(".meta-sidebar-tab").forEach(tab => {
         tab.addEventListener("click", () => {
+            const prevTab = activeTab;
             document.querySelectorAll(".meta-sidebar-tab").forEach(t => t.classList.remove("active"));
             tab.classList.add("active");
 
@@ -378,6 +368,25 @@ function initSidebarTabs() {
             searchInput.placeholder = placeholders[activeTab];
             searchInput.value = "";
             filterSidebarRows(panels[activeTab], "");
+
+            // Players tab: show all archetypes (remove threshold)
+            if (activeTab === "players" && prevTab !== "players") {
+                savedThreshold = metaThreshold;
+                savedThresholdIndex = thresholdIndex;
+                metaThreshold = 0;
+                thresholdIndex = sidebarArchs.length;
+                resetHighlight();
+                applyAllFilters(true);
+            }
+            // Leaving players tab: restore threshold
+            if (prevTab === "players" && activeTab !== "players" && savedThreshold !== null) {
+                metaThreshold = savedThreshold;
+                thresholdIndex = savedThresholdIndex;
+                savedThreshold = null;
+                savedThresholdIndex = null;
+                resetHighlight();
+                applyAllFilters(true);
+            }
         });
     });
 
@@ -1073,14 +1082,6 @@ function resetHighlight() {
     removeVariantsPill();
     unhighlight(currentCardSel, currentArchSel, currentLinkSel);
     isHighlighted = false;
-
-    // Restore threshold if it was temporarily removed for player view
-    if (playerHighlightActive) {
-        metaThreshold = playerHighlightActive.savedThreshold;
-        thresholdIndex = playerHighlightActive.savedThresholdIndex;
-        playerHighlightActive = null;
-        applyAllFilters(true);
-    }
 }
 
 function highlightDuration() {
