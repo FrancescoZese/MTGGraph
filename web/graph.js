@@ -1130,11 +1130,14 @@ function animateBars(bars) {
 
 /* ── Mobile bottom sheet ── */
 
-// Sheet positions, expressed as yPercent of the element's own height (100dvh):
-//   0   = fullscreen
-//   45  = default open (bottom 55dvh visible)
-//   100 = closed (off-screen)
-const SHEET_POS = { FULL: 0, DEFAULT: 45, CLOSED: 100 };
+// Sheet positions in pixels (recomputed per call so rotation just works):
+//   fullY  = 0                          (fullscreen)
+//   openY  = 45% of viewport height     (default — bottom 55dvh visible)
+//   closedY = 100% of viewport height   (off-screen)
+function fullY()   { return 0; }
+function openY()   { return Math.round(window.innerHeight * 0.45); }
+function closedY() { return window.innerHeight; }
+
 let sheetOpen = false;
 let sheetTween = null;
 
@@ -1155,8 +1158,12 @@ function initMobileSheet() {
     if (!handle) return;
 
     let dragging = false;
-    let startY = 0;
-    let startPercent = SHEET_POS.DEFAULT;
+    let startClientY = 0;
+    let startPx = 0;
+
+    function currentY() {
+        return parseFloat(gsap.getProperty(sidebar, "y")) || 0;
+    }
 
     function onPointerDown(e) {
         if (!sheetOpen) return;
@@ -1164,32 +1171,27 @@ function initMobileSheet() {
         e.preventDefault();
         handle.setPointerCapture(e.pointerId);
         if (sheetTween) sheetTween.kill();
-        startY = e.clientY;
-        startPercent = parseFloat(gsap.getProperty(sidebar, "yPercent")) || SHEET_POS.DEFAULT;
+        startClientY = e.clientY;
+        startPx = currentY();
         dragging = true;
     }
 
     function onPointerMove(e) {
         if (!dragging) return;
-        const dvh = window.innerHeight / 100;
-        const deltaPercent = (e.clientY - startY) / dvh;
-        const clamped = Math.max(SHEET_POS.FULL, Math.min(SHEET_POS.CLOSED, startPercent + deltaPercent));
-        gsap.set(sidebar, { yPercent: clamped });
+        const next = Math.max(fullY(), Math.min(closedY(), startPx + (e.clientY - startClientY)));
+        gsap.set(sidebar, { y: next });
     }
 
     function endDrag(e) {
         if (!dragging) return;
         dragging = false;
         try { handle.releasePointerCapture(e.pointerId); } catch (_) {}
-        const yPct = parseFloat(gsap.getProperty(sidebar, "yPercent")) || SHEET_POS.DEFAULT;
-        // Snap to nearest target
-        if (yPct < (SHEET_POS.FULL + SHEET_POS.DEFAULT) / 2) {
-            expandMobileSheet();
-        } else if (yPct > (SHEET_POS.DEFAULT + SHEET_POS.CLOSED) / 2) {
-            closeMobileSheet();
-        } else {
-            openMobileSheet();
-        }
+        const y = currentY();
+        const fullToOpen  = (fullY() + openY()) / 2;
+        const openToClose = (openY() + closedY()) / 2;
+        if (y < fullToOpen) expandMobileSheet();
+        else if (y > openToClose) closeMobileSheet();
+        else openMobileSheet();
     }
 
     handle.addEventListener("pointerdown", onPointerDown);
@@ -1205,7 +1207,7 @@ function openMobileSheet() {
     if (sheetTween) sheetTween.kill();
     sidebar.style.visibility = "visible";
     sheetTween = gsap.to(sidebar, {
-        yPercent: SHEET_POS.DEFAULT, duration: dur ? 0.4 : 0, ease: "power3.out", overwrite: true
+        y: openY(), duration: dur ? 0.4 : 0, ease: "power3.out", overwrite: true
     });
     gsap.to(toggle, { autoAlpha: 0, duration: dur ? 0.2 : 0 });
     sheetOpen = true;
@@ -1217,7 +1219,7 @@ function expandMobileSheet() {
     if (sheetTween) sheetTween.kill();
     sidebar.style.visibility = "visible";
     sheetTween = gsap.to(sidebar, {
-        yPercent: SHEET_POS.FULL, duration: dur ? 0.3 : 0, ease: "power3.out", overwrite: true
+        y: fullY(), duration: dur ? 0.3 : 0, ease: "power3.out", overwrite: true
     });
     sheetOpen = true;
 }
@@ -1228,7 +1230,7 @@ function closeMobileSheet() {
     const dur = highlightDuration();
     if (sheetTween) sheetTween.kill();
     sheetTween = gsap.to(sidebar, {
-        yPercent: SHEET_POS.CLOSED, duration: dur ? 0.3 : 0, ease: "power2.in", overwrite: true,
+        y: closedY(), duration: dur ? 0.3 : 0, ease: "power2.in", overwrite: true,
         onComplete: () => { sidebar.style.visibility = "hidden"; }
     });
     gsap.to(toggle, { autoAlpha: 1, duration: dur ? 0.2 : 0, delay: dur ? 0.15 : 0 });
