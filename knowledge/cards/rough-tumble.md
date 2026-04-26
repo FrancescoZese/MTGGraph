@@ -16,15 +16,12 @@ archetypes:
     weight: 0.5676
     avg_copies: 1.86
   hollow-one:
-    weight: 0.6875
-    avg_copies: 2.09
+    weight: 0.7059
+    avg_copies: 2.08
   4c-omnath:
     weight: 1.0
     avg_copies: 1.5
   dredge:
-    weight: 0.25
+    weight: 0.1667
     avg_copies: 1.0
-  unknown-6:
-    weight: 1.0
-    avg_copies: 2.0
 ---

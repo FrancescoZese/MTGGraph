@@ -10,10 +10,10 @@ top_cards:
 - name: Plunge into Darkness
   weight: 1.0
   avg_copies: 4.0
-- name: Cosmogoyf
+- name: Thud
   weight: 1.0
   avg_copies: 4.0
-- name: Thud
+- name: Cosmogoyf
   weight: 1.0
   avg_copies: 4.0
 - name: Gemstone Caverns

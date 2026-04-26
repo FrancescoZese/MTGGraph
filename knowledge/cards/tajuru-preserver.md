@@ -9,10 +9,10 @@ set: roe
 type: Creature — Elf Shaman
 meta_presence: 0.0034
 archetypes:
+  mono-green-ramp:
+    weight: 0.2
+    avg_copies: 1.0
   scapeshift-combo:
     weight: 0.75
-    avg_copies: 1.0
-  unknown-3:
-    weight: 1.0
     avg_copies: 1.0
 ---

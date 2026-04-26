@@ -25,7 +25,7 @@ archetypes:
     weight: 0.2613
     avg_copies: 1.31
   reanimator:
-    weight: 0.1739
+    weight: 0.1667
     avg_copies: 1.5
   simic-ritual:
     weight: 0.9643

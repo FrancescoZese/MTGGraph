@@ -10,7 +10,7 @@ type: Legendary Planeswalker — Jace
 meta_presence: 0.0094
 archetypes:
   mill:
-    weight: 1.0
+    weight: 0.8571
     avg_copies: 1.17
   kethis-combo:
     weight: 1.0

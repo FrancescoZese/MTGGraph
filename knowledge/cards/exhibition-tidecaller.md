@@ -9,13 +9,10 @@ set: sos
 type: Creature — Djinn Wizard
 meta_presence: 0.0034
 archetypes:
+  mill:
+    weight: 0.1429
+    avg_copies: 4.0
   dredge:
-    weight: 0.25
-    avg_copies: 4.0
-  unknown-4:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-2:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 4.0
 ---

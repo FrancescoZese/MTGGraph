@@ -16,16 +16,13 @@ archetypes:
     avg_copies: 1.0
   mill:
     weight: 1.0
-    avg_copies: 3.67
+    avg_copies: 3.71
   boros-ponza:
     weight: 1.0
     avg_copies: 3.73
   grixis-control:
     weight: 0.3333
     avg_copies: 2.0
-  unknown-2:
-    weight: 1.0
-    avg_copies: 4.0
   goryo6:
     weight: 1.0
     avg_copies: 4.0

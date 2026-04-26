@@ -21,11 +21,11 @@ archetypes:
     weight: 0.619
     avg_copies: 1.0
   mill:
-    weight: 1.0
+    weight: 0.8571
     avg_copies: 1.0
   reanimator:
-    weight: 0.913
-    avg_copies: 1.52
+    weight: 0.9167
+    avg_copies: 1.5
   simic-ritual:
     weight: 0.1071
     avg_copies: 1.0
@@ -39,9 +39,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   esper-midrange:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-9:
     weight: 1.0
     avg_copies: 1.0
   goryo1:

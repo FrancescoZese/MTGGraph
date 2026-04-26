@@ -1,5 +1,5 @@
 ---
-archetype: unknown-7
+archetype: selesnya-midrange
 date: '2026-04-24'
 finish: 5-0
 pilot: gummy593

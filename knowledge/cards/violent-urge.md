@@ -10,15 +10,12 @@ type: Instant
 meta_presence: 0.0315
 archetypes:
   hollow-one:
-    weight: 0.125
+    weight: 0.1176
     avg_copies: 1.0
   izzet-prowess:
     weight: 0.6889
     avg_copies: 1.87
   rakdos-aggro:
-    weight: 0.6
-    avg_copies: 1.0
-  unknown-5:
-    weight: 1.0
+    weight: 0.6667
     avg_copies: 1.0
 ---

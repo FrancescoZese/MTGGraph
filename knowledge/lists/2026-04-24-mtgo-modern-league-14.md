@@ -1,5 +1,5 @@
 ---
-archetype: unknown-8
+archetype: the-rock
 date: '2026-04-24'
 finish: 5-0
 pilot: rumrum1995

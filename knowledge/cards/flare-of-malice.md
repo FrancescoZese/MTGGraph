@@ -10,6 +10,6 @@ type: Instant
 meta_presence: 0.0017
 archetypes:
   reanimator:
-    weight: 0.087
+    weight: 0.0833
     avg_copies: 2.5
 ---

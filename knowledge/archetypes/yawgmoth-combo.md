@@ -6,10 +6,10 @@ name: Yawgmoth Combo
 meta_share: 0.0119
 list_count: 14
 top_cards:
-- name: Delighted Halfling
+- name: Badgermole Cub
   weight: 1.0
   avg_copies: 4.0
-- name: Badgermole Cub
+- name: Delighted Halfling
   weight: 1.0
   avg_copies: 4.0
 - name: Verdant Catacombs
@@ -21,16 +21,16 @@ top_cards:
 - name: Yawgmoth, Thran Physician
   weight: 1.0
   avg_copies: 3.86
-- name: Young Wolf
-  weight: 1.0
-  avg_copies: 3.71
 - name: Malevolent Rumble
   weight: 1.0
   avg_copies: 3.71
-- name: Green Sun's Zenith
+- name: Young Wolf
+  weight: 1.0
+  avg_copies: 3.71
+- name: Spymaster's Vault
   weight: 1.0
   avg_copies: 3.0
-- name: Spymaster's Vault
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 3.0
 - name: Walking Ballista
@@ -63,9 +63,6 @@ top_cards:
 - name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.07
-- name: Dryad Arbor
-  weight: 1.0
-  avg_copies: 1.0
 - name: Soulless Jailer
   weight: 1.0
   avg_copies: 1.0
@@ -73,6 +70,9 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Strangleroot Geist
+  weight: 1.0
+  avg_copies: 1.0
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
 - name: Swamp
@@ -126,10 +126,10 @@ top_cards:
 - name: Haywire Mite
   weight: 0.2857
   avg_copies: 1.0
-- name: Kraul Harpooner
+- name: Hapatra, Vizier of Poisons
   weight: 0.2143
   avg_copies: 1.0
-- name: Hapatra, Vizier of Poisons
+- name: Kraul Harpooner
   weight: 0.2143
   avg_copies: 1.0
 - name: Culling Ritual
@@ -138,10 +138,10 @@ top_cards:
 - name: Assassin's Trophy
   weight: 0.1429
   avg_copies: 1.0
-- name: Murderous Cut
+- name: Nurturing Peatland
   weight: 0.0714
   avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Murderous Cut
   weight: 0.0714
   avg_copies: 1.0
 ---

@@ -6,16 +6,16 @@ name: Simic Ritual
 meta_share: 0.0239
 list_count: 28
 top_cards:
-- name: Ice-Fang Coatl
-  weight: 1.0
-  avg_copies: 4.0
 - name: Flare of Denial
   weight: 1.0
   avg_copies: 4.0
-- name: Coiling Oracle
+- name: Birthing Ritual
   weight: 1.0
   avg_copies: 4.0
-- name: Birthing Ritual
+- name: Ice-Fang Coatl
+  weight: 1.0
+  avg_copies: 4.0
+- name: Coiling Oracle
   weight: 1.0
   avg_copies: 4.0
 - name: Abhorrent Oculus
@@ -108,67 +108,67 @@ top_cards:
 - name: Fatal Push
   weight: 0.0714
   avg_copies: 2.0
-- name: Fade from History
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Overgrown Tomb
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Ephara's Dispersal
-  weight: 0.0714
-  avg_copies: 1.0
 - name: Flooded Strand
   weight: 0.0714
   avg_copies: 1.0
 - name: Underground Mortuary
   weight: 0.0714
   avg_copies: 1.0
+- name: Ephara's Dispersal
+  weight: 0.0714
+  avg_copies: 1.0
 - name: Neoform
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Overgrown Tomb
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Fade from History
   weight: 0.0714
   avg_copies: 1.0
 - name: Quantum Riddler
   weight: 0.0357
   avg_copies: 3.0
-- name: Pyroclasm
+- name: Fire Magic
   weight: 0.0357
   avg_copies: 3.0
-- name: Fire Magic
+- name: Pyroclasm
   weight: 0.0357
   avg_copies: 3.0
 - name: Psychic Frog
   weight: 0.0357
   avg_copies: 2.0
-- name: Steam Vents
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Dress Down
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Pick Your Poison
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Scalding Tarn
-  weight: 0.0357
-  avg_copies: 1.0
 - name: Pond Prophet
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Firespout
   weight: 0.0357
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.0357
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Hurkyl's Recall
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Dress Down
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Pick Your Poison
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Firespout
   weight: 0.0357
   avg_copies: 1.0
 - name: Stern Scolding
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Stomping Ground
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Scalding Tarn
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Steam Vents
   weight: 0.0357
   avg_copies: 1.0
 ---

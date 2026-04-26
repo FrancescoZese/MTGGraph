@@ -10,15 +10,12 @@ type: Creature — Human Shaman
 meta_presence: 0.052
 archetypes:
   hollow-one:
-    weight: 0.6875
+    weight: 0.6471
     avg_copies: 4.0
   izzet-prowess:
     weight: 0.9778
     avg_copies: 4.0
   rakdos-aggro:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-5:
     weight: 1.0
     avg_copies: 4.0
 ---

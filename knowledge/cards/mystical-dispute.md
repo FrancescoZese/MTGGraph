@@ -37,10 +37,10 @@ archetypes:
     weight: 0.973
     avg_copies: 2.78
   mill:
-    weight: 0.1667
-    avg_copies: 2.0
+    weight: 0.2857
+    avg_copies: 3.0
   reanimator:
-    weight: 0.8261
+    weight: 0.7917
     avg_copies: 2.11
   neoform-combo:
     weight: 0.92
@@ -93,9 +93,6 @@ archetypes:
   esper-midrange:
     weight: 1.0
     avg_copies: 2.0
-  unknown-2:
-    weight: 1.0
-    avg_copies: 4.0
   goryo1:
     weight: 1.0
     avg_copies: 2.0

@@ -30,9 +30,12 @@ archetypes:
   affinity:
     weight: 0.3964
     avg_copies: 1.86
+  mill:
+    weight: 0.1429
+    avg_copies: 1.0
   reanimator:
-    weight: 0.0435
-    avg_copies: 2.0
+    weight: 0.0833
+    avg_copies: 2.5
   mono-blue-tron:
     weight: 1.0
     avg_copies: 3.33
@@ -61,12 +64,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   esper-midrange:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-2:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-9:
     weight: 1.0
     avg_copies: 3.0
   goryo7:

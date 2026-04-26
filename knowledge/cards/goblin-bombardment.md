@@ -12,7 +12,7 @@ archetypes:
   boros-energy:
     weight: 0.9958
     avg_copies: 2.94
-  unknown-7:
+  selesnya-midrange:
     weight: 1.0
     avg_copies: 3.0
 ---

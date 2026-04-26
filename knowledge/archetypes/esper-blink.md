@@ -10,16 +10,16 @@ top_cards:
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Overlord of the Balemurk
-  weight: 1.0
-  avg_copies: 4.0
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Phelia, Exuberant Shepherd
+- name: Overlord of the Balemurk
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 3.91
-- name: Marsh Flats
+- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.91
 - name: Fatal Push
@@ -34,10 +34,10 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
-- name: Damping Sphere
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.73
-- name: Wrath of the Skies
+- name: Damping Sphere
   weight: 1.0
   avg_copies: 2.73
 - name: Godless Shrine
@@ -49,25 +49,25 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.09
-- name: Meticulous Archive
-  weight: 1.0
-  avg_copies: 1.0
-- name: Watery Grave
-  weight: 1.0
-  avg_copies: 1.0
 - name: Shadowy Backstreet
+  weight: 1.0
+  avg_copies: 1.0
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
+- name: Watery Grave
+  weight: 1.0
+  avg_copies: 1.0
 - name: Thoughtseize
   weight: 0.9091
   avg_copies: 3.64
-- name: Emperor of Bones
+- name: Ephemerate
   weight: 0.9091
   avg_copies: 2.7
-- name: Ephemerate
+- name: Emperor of Bones
   weight: 0.9091
   avg_copies: 2.7
 - name: Flickerwisp
@@ -79,10 +79,10 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 0.9091
   avg_copies: 1.5
-- name: Undercity Sewers
+- name: Boggart Trawler
   weight: 0.9091
   avg_copies: 1.0
-- name: Boggart Trawler
+- name: Undercity Sewers
   weight: 0.9091
   avg_copies: 1.0
 - name: High Noon
@@ -97,10 +97,10 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.5455
   avg_copies: 2.67
-- name: Surgical Extraction
+- name: Island
   weight: 0.2727
   avg_copies: 1.0
-- name: Island
+- name: Surgical Extraction
   weight: 0.2727
   avg_copies: 1.0
 - name: Psychic Frog
@@ -112,37 +112,37 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 0.1818
   avg_copies: 1.0
-- name: No More Lies
-  weight: 0.0909
-  avg_copies: 4.0
 - name: Force of Negation
   weight: 0.0909
   avg_copies: 4.0
 - name: Subtlety
   weight: 0.0909
   avg_copies: 4.0
-- name: White Orchid Phantom
+- name: No More Lies
   weight: 0.0909
-  avg_copies: 2.0
+  avg_copies: 4.0
 - name: Clarion Conqueror
   weight: 0.0909
   avg_copies: 2.0
-- name: Strix Serenade
+- name: White Orchid Phantom
   weight: 0.0909
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Windswept Heath
   weight: 0.0909
   avg_copies: 1.0
 - name: March of Otherworldly Light
   weight: 0.0909
   avg_copies: 1.0
-- name: Floodfarm Verge
+- name: Emptiness
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Strix Serenade
   weight: 0.0909
   avg_copies: 1.0
 - name: Hydroelectric Specimen
   weight: 0.0909
   avg_copies: 1.0
-- name: Emptiness
+- name: Floodfarm Verge
   weight: 0.0909
   avg_copies: 1.0
 - name: Celestial Purge

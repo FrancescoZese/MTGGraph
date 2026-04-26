@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0833
     avg_copies: 1.0
   mono-green-ramp:
-    weight: 1.0
+    weight: 0.8
     avg_copies: 1.25
   scapeshift-combo:
     weight: 0.75

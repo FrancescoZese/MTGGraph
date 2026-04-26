@@ -24,10 +24,10 @@ archetypes:
     weight: 0.1261
     avg_copies: 2.21
   mill:
-    weight: 0.8333
-    avg_copies: 1.0
+    weight: 0.8571
+    avg_copies: 1.17
   reanimator:
-    weight: 0.8696
+    weight: 0.8333
     avg_copies: 1.05
   neoform-combo:
     weight: 0.72
@@ -36,7 +36,7 @@ archetypes:
     weight: 0.75
     avg_copies: 1.67
   hollow-one:
-    weight: 0.1875
+    weight: 0.1765
     avg_copies: 1.33
   simic-ritual:
     weight: 0.0357
@@ -49,7 +49,7 @@ archetypes:
     avg_copies: 2.43
   dredge:
     weight: 1.0
-    avg_copies: 3.5
+    avg_copies: 3.33
   izzet-artifacts:
     weight: 0.52
     avg_copies: 3.77
@@ -66,7 +66,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   rakdos-aggro:
-    weight: 0.4
+    weight: 0.5
     avg_copies: 3.0
   izzet-splinter-twin:
     weight: 1.0
@@ -74,15 +74,6 @@ archetypes:
   izzet-wizards:
     weight: 1.0
     avg_copies: 4.0
-  unknown-4:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-2:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 3.0
   goryo1:
     weight: 1.0
     avg_copies: 1.67

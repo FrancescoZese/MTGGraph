@@ -11,10 +11,10 @@ type: Sorcery
 meta_presence: 0.0128
 archetypes:
   reanimator:
-    weight: 0.4783
+    weight: 0.4583
     avg_copies: 1.0
   dredge:
-    weight: 0.25
+    weight: 0.1667
     avg_copies: 2.0
   rakdos-lantern-combo:
     weight: 1.0

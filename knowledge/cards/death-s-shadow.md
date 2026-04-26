@@ -13,6 +13,6 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   rakdos-aggro:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 4.0
 ---

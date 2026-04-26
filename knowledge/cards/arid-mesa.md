@@ -33,8 +33,8 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   hollow-one:
-    weight: 0.6875
-    avg_copies: 1.91
+    weight: 0.7059
+    avg_copies: 1.83
   boros-ponza:
     weight: 0.0455
     avg_copies: 4.0
@@ -48,8 +48,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.25
   dredge:
-    weight: 0.75
-    avg_copies: 3.0
+    weight: 0.8333
+    avg_copies: 3.2
   azorius-blink:
     weight: 1.0
     avg_copies: 1.67
@@ -57,7 +57,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.67
   rakdos-aggro:
-    weight: 0.6
+    weight: 0.5
     avg_copies: 2.67
   bant-ritual:
     weight: 1.0
@@ -68,13 +68,7 @@ archetypes:
   naya-midrange:
     weight: 1.0
     avg_copies: 1.0
-  unknown-4:
-    weight: 1.0
-    avg_copies: 3.5
-  unknown-6:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-7:
+  selesnya-midrange:
     weight: 1.0
     avg_copies: 2.0
 ---

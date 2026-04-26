@@ -4,7 +4,7 @@ archetypes:
     weight: 0.8
     avg_copies: 2.86
   rakdos-aggro:
-    weight: 0.6
+    weight: 0.5
     avg_copies: 2.0
 cmc: 1
 colors: []

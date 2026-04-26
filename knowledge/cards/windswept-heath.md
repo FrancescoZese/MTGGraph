@@ -52,7 +52,7 @@ archetypes:
     avg_copies: 2.0
   mono-green-ramp:
     weight: 1.0
-    avg_copies: 3.75
+    avg_copies: 3.4
   mono-green-stompy:
     weight: 1.0
     avg_copies: 4.0
@@ -62,13 +62,10 @@ archetypes:
   naya-midrange:
     weight: 1.0
     avg_copies: 4.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-8:
-    weight: 1.0
+  the-rock:
+    weight: 0.5
     avg_copies: 4.0
-  unknown-7:
+  selesnya-midrange:
     weight: 1.0
     avg_copies: 4.0
 ---

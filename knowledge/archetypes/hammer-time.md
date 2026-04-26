@@ -6,25 +6,25 @@ name: Hammer Time
 meta_share: 0.0017
 list_count: 2
 top_cards:
-- name: Stoneforge Mystic
-  weight: 1.0
-  avg_copies: 4.0
-- name: Colossus Hammer
+- name: Puresteel Paladin
   weight: 1.0
   avg_copies: 4.0
 - name: Esper Sentinel
   weight: 1.0
   avg_copies: 4.0
+- name: Stoneforge Mystic
+  weight: 1.0
+  avg_copies: 4.0
 - name: Leyline Axe
+  weight: 1.0
+  avg_copies: 4.0
+- name: Colossus Hammer
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Ornithopter
-  weight: 1.0
-  avg_copies: 4.0
-- name: Puresteel Paladin
   weight: 1.0
   avg_copies: 4.0
 - name: Battlefield Improvisation
@@ -42,16 +42,16 @@ top_cards:
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 2.5
-- name: Soulless Jailer
+- name: Mox Opal
   weight: 1.0
   avg_copies: 2.5
 - name: Sanctifier en-Vec
   weight: 1.0
   avg_copies: 2.5
-- name: Inkmoth Nexus
+- name: Soulless Jailer
   weight: 1.0
   avg_copies: 2.5
-- name: Mox Opal
+- name: Inkmoth Nexus
   weight: 1.0
   avg_copies: 2.5
 - name: Plains
@@ -69,19 +69,19 @@ top_cards:
 - name: Shadowspear
   weight: 1.0
   avg_copies: 1.0
-- name: Mishra's Bauble
-  weight: 0.5
-  avg_copies: 4.0
 - name: Flare of Fortitude
   weight: 0.5
   avg_copies: 4.0
-- name: Sigarda's Aid
+- name: Mishra's Bauble
+  weight: 0.5
+  avg_copies: 4.0
+- name: Damping Sphere
+  weight: 0.5
+  avg_copies: 2.0
+- name: Surge of Salvation
   weight: 0.5
   avg_copies: 2.0
 - name: Mystical Dispute
-  weight: 0.5
-  avg_copies: 2.0
-- name: Damping Sphere
   weight: 0.5
   avg_copies: 2.0
 - name: Containment Priest
@@ -90,16 +90,19 @@ top_cards:
 - name: Consign to Memory
   weight: 0.5
   avg_copies: 2.0
-- name: Surge of Salvation
-  weight: 0.5
-  avg_copies: 2.0
 - name: Springleaf Drum
   weight: 0.5
   avg_copies: 2.0
+- name: Sigarda's Aid
+  weight: 0.5
+  avg_copies: 2.0
+- name: Meticulous Archive
+  weight: 0.5
+  avg_copies: 1.0
 - name: Lavaspur Boots
   weight: 0.5
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Grafdigger's Cage
   weight: 0.5
   avg_copies: 1.0
 - name: Arid Mesa
@@ -109,9 +112,6 @@ top_cards:
   weight: 0.5
   avg_copies: 1.0
 - name: Voice of Victory
-  weight: 0.5
-  avg_copies: 1.0
-- name: Grafdigger's Cage
   weight: 0.5
   avg_copies: 1.0
 ---

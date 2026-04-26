@@ -10,12 +10,9 @@ type: Creature — Elemental
 meta_presence: 0.0034
 archetypes:
   hollow-one:
-    weight: 0.125
+    weight: 0.1765
     avg_copies: 4.0
   dredge:
-    weight: 0.25
-    avg_copies: 4.0
-  unknown-6:
-    weight: 1.0
+    weight: 0.1667
     avg_copies: 4.0
 ---

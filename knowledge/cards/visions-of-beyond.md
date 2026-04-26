@@ -11,8 +11,5 @@ meta_presence: 0.006
 archetypes:
   mill:
     weight: 1.0
-    avg_copies: 2.83
-  unknown-2:
-    weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.0
 ---

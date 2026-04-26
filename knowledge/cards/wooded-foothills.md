@@ -18,7 +18,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.76
   reanimator:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 1.0
   neoform-combo:
     weight: 0.76
@@ -27,8 +27,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.5
   hollow-one:
-    weight: 0.8125
-    avg_copies: 2.38
+    weight: 0.8235
+    avg_copies: 2.5
   yawgmoth-combo:
     weight: 0.5
     avg_copies: 1.14
@@ -51,7 +51,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.1
   dredge:
-    weight: 0.75
+    weight: 0.5
     avg_copies: 3.33
   elves:
     weight: 1.0
@@ -60,7 +60,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   rakdos-aggro:
-    weight: 0.6
+    weight: 0.5
     avg_copies: 2.0
   mono-green-stompy:
     weight: 1.0
@@ -71,10 +71,7 @@ archetypes:
   naya-midrange:
     weight: 1.0
     avg_copies: 2.0
-  unknown-6:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-7:
+  selesnya-midrange:
     weight: 1.0
     avg_copies: 2.0
 ---

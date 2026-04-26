@@ -12,8 +12,8 @@ archetypes:
   necrodominance:
     weight: 0.15
     avg_copies: 1.6
-  unknown-5:
-    weight: 1.0
+  rakdos-aggro:
+    weight: 0.1667
     avg_copies: 1.0
   goryo2:
     weight: 1.0

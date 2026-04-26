@@ -25,10 +25,10 @@ top_cards:
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.04
-- name: Steam Vents
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.01
-- name: Elegant Parlor
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.01
 - name: Hallowed Fountain
@@ -157,10 +157,10 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 0.0471
   avg_copies: 1.5
-- name: Kataki, War's Wage
+- name: Snow-Covered Island
   weight: 0.0471
   avg_copies: 1.0
-- name: Snow-Covered Island
+- name: Kataki, War's Wage
   weight: 0.0471
   avg_copies: 1.0
 - name: Destroy Evil
@@ -169,10 +169,10 @@ top_cards:
 - name: Unholy Heat
   weight: 0.0353
   avg_copies: 1.0
-- name: Stock Up
+- name: Thraben Charm
   weight: 0.0235
   avg_copies: 1.5
-- name: Thraben Charm
+- name: Stock Up
   weight: 0.0235
   avg_copies: 1.5
 - name: Jace, the Mind Sculptor
@@ -205,52 +205,34 @@ top_cards:
 - name: Cryogen Relic
   weight: 0.0118
   avg_copies: 2.0
-- name: Witch Enchanter
-  weight: 0.0118
-  avg_copies: 2.0
-- name: Mana Leak
-  weight: 0.0118
-  avg_copies: 2.0
-- name: Tune the Narrative
-  weight: 0.0118
-  avg_copies: 2.0
-- name: White Orchid Phantom
-  weight: 0.0118
-  avg_copies: 2.0
-- name: Stony Silence
-  weight: 0.0118
-  avg_copies: 2.0
 - name: Eternal Witness
-  weight: 0.0118
-  avg_copies: 2.0
-- name: Boseiju, Who Endures
   weight: 0.0118
   avg_copies: 2.0
 - name: Ghost Vacuum
   weight: 0.0118
   avg_copies: 2.0
-- name: Meltdown
+- name: Mana Leak
   weight: 0.0118
-  avg_copies: 1.0
-- name: Temple Garden
+  avg_copies: 2.0
+- name: Boseiju, Who Endures
   weight: 0.0118
-  avg_copies: 1.0
-- name: Lush Portico
+  avg_copies: 2.0
+- name: Witch Enchanter
   weight: 0.0118
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: Tune the Narrative
+  weight: 0.0118
+  avg_copies: 2.0
+- name: Stony Silence
+  weight: 0.0118
+  avg_copies: 2.0
+- name: White Orchid Phantom
+  weight: 0.0118
+  avg_copies: 2.0
 - name: Supreme Verdict
   weight: 0.0118
   avg_copies: 1.0
 - name: Breeding Pool
-  weight: 0.0118
-  avg_copies: 1.0
-- name: Nihil Spellbomb
-  weight: 0.0118
-  avg_copies: 1.0
-- name: Subtlety
-  weight: 0.0118
-  avg_copies: 1.0
-- name: Fire Magic
   weight: 0.0118
   avg_copies: 1.0
 - name: Stomping Ground
@@ -260,6 +242,24 @@ top_cards:
   weight: 0.0118
   avg_copies: 1.0
 - name: Omnath, Locus of Creation
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Fire Magic
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Subtlety
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Lush Portico
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Temple Garden
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Nihil Spellbomb
   weight: 0.0118
   avg_copies: 1.0
 ---

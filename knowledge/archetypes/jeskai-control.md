@@ -10,13 +10,13 @@ top_cards:
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Flame of Anor
-  weight: 1.0
-  avg_copies: 4.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
 - name: Galvanic Discharge
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flame of Anor
   weight: 1.0
   avg_copies: 4.0
 - name: Arid Mesa
@@ -25,10 +25,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 3.67
-- name: Phlage, Titan of Fire's Fury
+- name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 3.0
-- name: Tamiyo, Inquisitive Student
+- name: Phlage, Titan of Fire's Fury
   weight: 1.0
   avg_copies: 3.0
 - name: Orim's Chant
@@ -37,16 +37,16 @@ top_cards:
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.4
-- name: Steam Vents
+- name: Arena of Glory
   weight: 1.0
   avg_copies: 2.0
-- name: Arena of Glory
+- name: Plains
   weight: 1.0
   avg_copies: 2.0
 - name: Prismatic Ending
   weight: 1.0
   avg_copies: 2.0
-- name: Plains
+- name: Steam Vents
   weight: 1.0
   avg_copies: 2.0
 - name: Hallowed Fountain
@@ -70,19 +70,19 @@ top_cards:
 - name: Counterspell
   weight: 0.6667
   avg_copies: 4.0
-- name: Snapcaster Mage
-  weight: 0.6667
-  avg_copies: 3.0
 - name: Consult the Star Charts
   weight: 0.6667
   avg_copies: 3.0
-- name: Spell Snare
+- name: Snapcaster Mage
+  weight: 0.6667
+  avg_copies: 3.0
+- name: Lórien Revealed
   weight: 0.6667
   avg_copies: 2.0
 - name: Mystic Gate
   weight: 0.6667
   avg_copies: 2.0
-- name: Lórien Revealed
+- name: Spell Snare
   weight: 0.6667
   avg_copies: 2.0
 - name: Island
@@ -94,28 +94,28 @@ top_cards:
 - name: Stern Scolding
   weight: 0.6667
   avg_copies: 1.0
-- name: Scalding Tarn
-  weight: 0.3333
-  avg_copies: 3.0
 - name: Thundertrap Trainer
   weight: 0.3333
   avg_copies: 3.0
 - name: Fable of the Mirror-Breaker
   weight: 0.3333
   avg_copies: 3.0
-- name: Flare of Denial
+- name: Scalding Tarn
+  weight: 0.3333
+  avg_copies: 3.0
+- name: High Noon
   weight: 0.3333
   avg_copies: 2.0
 - name: Tune the Narrative
   weight: 0.3333
   avg_copies: 2.0
-- name: Obsidian Charmaw
-  weight: 0.3333
-  avg_copies: 2.0
-- name: High Noon
+- name: Flare of Denial
   weight: 0.3333
   avg_copies: 2.0
 - name: Subtlety
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Obsidian Charmaw
   weight: 0.3333
   avg_copies: 2.0
 - name: Mountain

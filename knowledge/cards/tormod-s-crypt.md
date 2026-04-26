@@ -33,7 +33,7 @@ archetypes:
     weight: 0.1333
     avg_copies: 1.29
   dredge:
-    weight: 0.25
+    weight: 0.1667
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.4

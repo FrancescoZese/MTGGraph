@@ -24,11 +24,11 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.07
   mill:
-    weight: 1.0
+    weight: 0.8571
     avg_copies: 1.33
   reanimator:
-    weight: 0.913
-    avg_copies: 1.86
+    weight: 0.9167
+    avg_copies: 1.82
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
@@ -39,7 +39,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   dredge:
-    weight: 0.25
+    weight: 0.1667
     avg_copies: 1.0
   esper-control:
     weight: 1.0
@@ -48,9 +48,6 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   esper-midrange:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-9:
     weight: 1.0
     avg_copies: 1.0
   goryo1:

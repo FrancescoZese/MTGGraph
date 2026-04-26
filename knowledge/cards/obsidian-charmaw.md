@@ -19,7 +19,7 @@ archetypes:
     weight: 0.3784
     avg_copies: 1.86
   reanimator:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 3.0
   burn:
     weight: 0.5
@@ -28,8 +28,8 @@ archetypes:
     weight: 0.8182
     avg_copies: 2.67
   hollow-one:
-    weight: 0.3125
-    avg_copies: 2.6
+    weight: 0.3529
+    avg_copies: 2.83
   izzet-prowess:
     weight: 0.0889
     avg_copies: 1.75
@@ -46,15 +46,12 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   rakdos-aggro:
-    weight: 0.8
+    weight: 0.6667
     avg_copies: 4.0
   naya-midrange:
     weight: 1.0
     avg_copies: 2.0
-  unknown-6:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-7:
+  selesnya-midrange:
     weight: 1.0
     avg_copies: 2.0
 ---

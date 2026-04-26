@@ -30,7 +30,7 @@ archetypes:
     weight: 0.027
     avg_copies: 1.0
   reanimator:
-    weight: 0.1739
+    weight: 0.1667
     avg_copies: 1.75
   mono-red-belcher:
     weight: 0.5
@@ -39,7 +39,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   hollow-one:
-    weight: 0.875
+    weight: 0.8235
     avg_copies: 2.29
   boros-ponza:
     weight: 0.9545
@@ -66,7 +66,7 @@ archetypes:
     weight: 0.75
     avg_copies: 1.33
   dredge:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 2.0
   izzet-artifacts:
     weight: 0.4
@@ -87,7 +87,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   rakdos-aggro:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 3.0
   bant-ritual:
     weight: 1.0
@@ -97,10 +97,7 @@ archetypes:
     avg_copies: 2.75
   the-rock:
     weight: 1.0
-    avg_copies: 1.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 1.67
   goryo4:
     weight: 1.0
     avg_copies: 3.0

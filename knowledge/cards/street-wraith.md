@@ -13,7 +13,7 @@ archetypes:
     weight: 0.9048
     avg_copies: 2.63
   reanimator:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 4.0
   hollow-one:
     weight: 1.0
@@ -22,12 +22,6 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   rakdos-aggro:
-    weight: 0.8
-    avg_copies: 4.0
-  unknown-6:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-5:
-    weight: 1.0
+    weight: 0.8333
     avg_copies: 4.0
 ---

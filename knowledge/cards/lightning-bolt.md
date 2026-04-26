@@ -25,14 +25,14 @@ archetypes:
     weight: 1.0
     avg_copies: 3.92
   reanimator:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 3.0
   burn:
     weight: 1.0
     avg_copies: 3.25
   hollow-one:
-    weight: 0.8125
-    avg_copies: 2.92
+    weight: 0.8235
+    avg_copies: 2.93
   eldrazi-ramp:
     weight: 0.3182
     avg_copies: 1.0
@@ -55,7 +55,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   rakdos-aggro:
-    weight: 0.8
+    weight: 0.8333
     avg_copies: 4.0
   izzet-splinter-twin:
     weight: 1.0
@@ -63,10 +63,4 @@ archetypes:
   izzet-wizards:
     weight: 1.0
     avg_copies: 2.0
-  unknown-6:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 4.0
 ---

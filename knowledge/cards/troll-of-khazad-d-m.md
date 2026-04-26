@@ -13,10 +13,10 @@ archetypes:
     weight: 0.381
     avg_copies: 1.62
   reanimator:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 1.0
   rakdos-aggro:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 1.0
   goryo1:
     weight: 0.3333

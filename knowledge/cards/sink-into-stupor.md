@@ -27,10 +27,10 @@ archetypes:
     weight: 0.9009
     avg_copies: 2.21
   mill:
-    weight: 0.1667
+    weight: 0.1429
     avg_copies: 1.0
   reanimator:
-    weight: 0.6957
+    weight: 0.6667
     avg_copies: 1.0
   mono-blue-tron:
     weight: 1.0

@@ -21,6 +21,9 @@ archetypes:
   mono-red-belcher:
     weight: 1.0
     avg_copies: 2.1
+  hollow-one:
+    weight: 0.0588
+    avg_copies: 2.0
   eldrazi-ramp:
     weight: 0.0455
     avg_copies: 2.0
@@ -36,6 +39,9 @@ archetypes:
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 4.0
+  rakdos-aggro:
+    weight: 0.1667
+    avg_copies: 3.0
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 2.0
@@ -45,10 +51,4 @@ archetypes:
   naya-midrange:
     weight: 1.0
     avg_copies: 1.0
-  unknown-6:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 3.0
 ---

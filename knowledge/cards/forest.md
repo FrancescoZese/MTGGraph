@@ -46,7 +46,7 @@ archetypes:
     avg_copies: 1.0
   mono-green-ramp:
     weight: 1.0
-    avg_copies: 1.75
+    avg_copies: 1.6
   mono-green-stompy:
     weight: 1.0
     avg_copies: 6.0
@@ -58,13 +58,7 @@ archetypes:
     avg_copies: 3.0
   the-rock:
     weight: 1.0
-    avg_copies: 1.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 2.0
   goryo4:
     weight: 1.0
     avg_copies: 1.0

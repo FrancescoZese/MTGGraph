@@ -6,19 +6,19 @@ name: Eldrazi Ramp
 meta_share: 0.0188
 list_count: 22
 top_cards:
-- name: Utopia Sprawl
-  weight: 1.0
-  avg_copies: 4.0
 - name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
 - name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
-- name: Eldrazi Temple
+- name: Utopia Sprawl
   weight: 1.0
   avg_copies: 4.0
 - name: Kozilek's Command
+  weight: 1.0
+  avg_copies: 4.0
+- name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
 - name: Malevolent Rumble
@@ -117,25 +117,25 @@ top_cards:
 - name: Liquimetal Coating
   weight: 0.3636
   avg_copies: 1.0
-- name: The Stone Brain
-  weight: 0.3636
-  avg_copies: 1.0
-- name: Engineered Explosives
-  weight: 0.3636
-  avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 0.3636
   avg_copies: 1.0
 - name: Ensnaring Bridge
   weight: 0.3636
   avg_copies: 1.0
+- name: Engineered Explosives
+  weight: 0.3636
+  avg_copies: 1.0
+- name: The Stone Brain
+  weight: 0.3636
+  avg_copies: 1.0
 - name: Force of Vigor
   weight: 0.3182
   avg_copies: 1.29
-- name: Chalice of the Void
+- name: Lightning Bolt
   weight: 0.3182
   avg_copies: 1.0
-- name: Lightning Bolt
+- name: Chalice of the Void
   weight: 0.3182
   avg_copies: 1.0
 - name: Meltdown
@@ -144,13 +144,13 @@ top_cards:
 - name: Nulldrifter
   weight: 0.2273
   avg_copies: 3.0
-- name: Talisman of Curiosity
-  weight: 0.2273
-  avg_copies: 2.0
 - name: Nature's Claim
   weight: 0.2273
   avg_copies: 2.0
 - name: Dismember
+  weight: 0.2273
+  avg_copies: 2.0
+- name: Talisman of Curiosity
   weight: 0.2273
   avg_copies: 2.0
 - name: Hedge Maze
@@ -159,34 +159,34 @@ top_cards:
 - name: Ancient Stirrings
   weight: 0.1818
   avg_copies: 2.0
-- name: Six
+- name: Breeding Pool
   weight: 0.1818
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Six
   weight: 0.1818
   avg_copies: 1.0
 - name: Magus of the Moon
   weight: 0.1364
   avg_copies: 1.67
-- name: Strix Serenade
-  weight: 0.1364
-  avg_copies: 1.33
 - name: Herigast, Erupting Nullkite
   weight: 0.1364
   avg_copies: 1.33
-- name: Void Mirror
+- name: Strix Serenade
+  weight: 0.1364
+  avg_copies: 1.33
+- name: Boseiju, Who Endures
   weight: 0.1364
   avg_copies: 1.0
-- name: Damping Sphere
+- name: Void Mirror
   weight: 0.1364
   avg_copies: 1.0
 - name: Pithing Needle
   weight: 0.1364
   avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Damping Sphere
   weight: 0.1364
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Gemstone Caverns
   weight: 0.1364
   avg_copies: 1.0
 - name: Writhing Chrysalis
@@ -198,6 +198,9 @@ top_cards:
 - name: Thought-Knot Seer
   weight: 0.0455
   avg_copies: 2.5
+- name: Surgical Extraction
+  weight: 0.0455
+  avg_copies: 2.0
 - name: Blood Moon
   weight: 0.0455
   avg_copies: 2.0
@@ -207,46 +210,43 @@ top_cards:
 - name: Talisman of Resilience
   weight: 0.0455
   avg_copies: 2.0
-- name: Surgical Extraction
-  weight: 0.0455
-  avg_copies: 2.0
-- name: Ratchet Bomb
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Keen-Eyed Curator
-  weight: 0.0455
-  avg_copies: 1.0
 - name: Hedron Archive
   weight: 0.0455
   avg_copies: 1.0
-- name: Palantír of Orthanc
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Darksteel Citadel
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Ketria Triome
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Vibrance
+- name: Wastescape Battlemage
   weight: 0.0455
   avg_copies: 1.0
 - name: Arena of Glory
   weight: 0.0455
   avg_copies: 1.0
-- name: Ilharg, the Raze-Boar
+- name: Palantír of Orthanc
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Vibrance
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Ketria Triome
   weight: 0.0455
   avg_copies: 1.0
 - name: Ugin, the Spirit Dragon
   weight: 0.0455
   avg_copies: 1.0
+- name: Ratchet Bomb
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Ilharg, the Raze-Boar
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Darksteel Citadel
+  weight: 0.0455
+  avg_copies: 1.0
 - name: Thief of Existence
   weight: 0.0455
   avg_copies: 1.0
-- name: Wastescape Battlemage
+- name: Keen-Eyed Curator
   weight: 0.0455
   avg_copies: 1.0
 ---

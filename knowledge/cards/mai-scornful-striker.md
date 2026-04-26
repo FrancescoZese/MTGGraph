@@ -16,9 +16,9 @@ archetypes:
     weight: 0.4762
     avg_copies: 1.0
   reanimator:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 1.0
   mono-green-ramp:
-    weight: 1.0
+    weight: 0.8
     avg_copies: 2.75
 ---

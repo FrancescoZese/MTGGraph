@@ -28,15 +28,15 @@ archetypes:
     avg_copies: 1.0
   mill:
     weight: 1.0
-    avg_copies: 4.0
-  reanimator:
-    weight: 0.9565
     avg_copies: 3.86
+  reanimator:
+    weight: 0.9583
+    avg_copies: 3.74
   neoform-combo:
     weight: 0.6
     avg_copies: 1.13
   hollow-one:
-    weight: 0.1875
+    weight: 0.1765
     avg_copies: 1.0
   simic-ritual:
     weight: 0.2143
@@ -59,6 +59,9 @@ archetypes:
   grixis-shadow:
     weight: 1.0
     avg_copies: 4.0
+  rakdos-aggro:
+    weight: 0.1667
+    avg_copies: 4.0
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 1.0
@@ -69,17 +72,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   the-rock:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 1.0
-  unknown-2:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 4.0
   goryo1:
     weight: 1.0
     avg_copies: 4.0

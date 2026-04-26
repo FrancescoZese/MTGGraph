@@ -24,7 +24,7 @@ archetypes:
   bant-ritual:
     weight: 1.0
     avg_copies: 3.0
-  unknown-7:
+  selesnya-midrange:
     weight: 1.0
     avg_copies: 3.0
 ---

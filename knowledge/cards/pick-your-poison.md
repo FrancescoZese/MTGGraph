@@ -22,9 +22,9 @@ archetypes:
     weight: 0.45
     avg_copies: 1.78
   dredge:
-    weight: 0.25
+    weight: 0.1667
     avg_copies: 2.0
   the-rock:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 2.0
 ---

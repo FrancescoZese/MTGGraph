@@ -24,7 +24,7 @@ archetypes:
   naya-midrange:
     weight: 1.0
     avg_copies: 4.0
-  unknown-7:
+  selesnya-midrange:
     weight: 1.0
     avg_copies: 2.0
 ---

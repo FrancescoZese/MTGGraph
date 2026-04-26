@@ -16,7 +16,7 @@ archetypes:
     weight: 0.0476
     avg_copies: 1.0
   reanimator:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 1.0
   simic-ritual:
     weight: 0.7143
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.1
     avg_copies: 1.0
   dredge:
-    weight: 0.25
+    weight: 0.1667
     avg_copies: 2.0
   elves:
     weight: 1.0
@@ -39,10 +39,7 @@ archetypes:
   scapeshift-combo:
     weight: 1.0
     avg_copies: 1.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-8:
-    weight: 1.0
+  the-rock:
+    weight: 0.5
     avg_copies: 1.0
 ---

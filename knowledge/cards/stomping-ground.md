@@ -18,8 +18,8 @@ archetypes:
     weight: 0.0476
     avg_copies: 1.0
   hollow-one:
-    weight: 0.125
-    avg_copies: 1.5
+    weight: 0.1765
+    avg_copies: 1.67
   eldrazi-ramp:
     weight: 1.0
     avg_copies: 1.55
@@ -39,8 +39,8 @@ archetypes:
     weight: 0.55
     avg_copies: 1.0
   dredge:
-    weight: 0.5
-    avg_copies: 1.5
+    weight: 0.6667
+    avg_copies: 1.75
   izzet-artifacts:
     weight: 0.04
     avg_copies: 1.0
@@ -53,13 +53,7 @@ archetypes:
   naya-midrange:
     weight: 1.0
     avg_copies: 1.0
-  unknown-4:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-6:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-7:
+  selesnya-midrange:
     weight: 1.0
     avg_copies: 1.0
 ---

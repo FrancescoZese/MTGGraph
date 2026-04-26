@@ -109,10 +109,10 @@ top_cards:
 - name: Galvanic Discharge
   weight: 0.5
   avg_copies: 3.77
-- name: Kaheera, the Orphanguard
+- name: Hall of Storm Giants
   weight: 0.4615
   avg_copies: 1.0
-- name: Hall of Storm Giants
+- name: Kaheera, the Orphanguard
   weight: 0.4615
   avg_copies: 1.0
 - name: Teferi, Hero of Dominaria
@@ -151,19 +151,19 @@ top_cards:
 - name: Tune the Narrative
   weight: 0.1538
   avg_copies: 2.0
-- name: Watery Grave
+- name: Stern Scolding
   weight: 0.1538
   avg_copies: 1.0
-- name: Meltdown
+- name: Polluted Delta
+  weight: 0.1538
+  avg_copies: 1.0
+- name: Watery Grave
   weight: 0.1538
   avg_copies: 1.0
 - name: Mistrise Village
   weight: 0.1538
   avg_copies: 1.0
-- name: Stern Scolding
-  weight: 0.1538
-  avg_copies: 1.0
-- name: Polluted Delta
+- name: Meltdown
   weight: 0.1538
   avg_copies: 1.0
 - name: Damping Sphere
@@ -175,10 +175,10 @@ top_cards:
 - name: Temporary Lockdown
   weight: 0.1154
   avg_copies: 1.8
-- name: Suppression Ray
+- name: Thundertrap Trainer
   weight: 0.0769
   avg_copies: 4.0
-- name: Thundertrap Trainer
+- name: Suppression Ray
   weight: 0.0769
   avg_copies: 4.0
 - name: Windswept Heath
@@ -187,70 +187,70 @@ top_cards:
 - name: Sink into Stupor
   weight: 0.0769
   avg_copies: 2.0
-- name: Vendilion Clique
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Disruptor Flute
-  weight: 0.0769
-  avg_copies: 1.0
 - name: Breeding Pool
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Gemstone Caverns
   weight: 0.0769
   avg_copies: 1.0
 - name: Hedge Maze
   weight: 0.0769
   avg_copies: 1.0
-- name: Harbinger of the Seas
-  weight: 0.0385
-  avg_copies: 2.0
+- name: Disruptor Flute
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Vendilion Clique
+  weight: 0.0769
+  avg_copies: 1.0
 - name: Flow State
-  weight: 0.0385
-  avg_copies: 2.0
-- name: Reprieve
   weight: 0.0385
   avg_copies: 2.0
 - name: Floodfarm Verge
   weight: 0.0385
   avg_copies: 2.0
+- name: Reprieve
+  weight: 0.0385
+  avg_copies: 2.0
+- name: Harbinger of the Seas
+  weight: 0.0385
+  avg_copies: 2.0
+- name: Timeless Dragon
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Jace, the Mind Sculptor
+  weight: 0.0385
+  avg_copies: 1.0
 - name: Wear
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Get Lost
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Dress Down
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Field of Ruin
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Misty Rainforest
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Celestial Colonnade
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Commandeer
   weight: 0.0385
   avg_copies: 1.0
 - name: Strix Serenade
   weight: 0.0385
   avg_copies: 1.0
-- name: Jace, the Mind Sculptor
+- name: Tamiyo, Inquisitive Student
   weight: 0.0385
   avg_copies: 1.0
 - name: Wan Shi Tong, Librarian
   weight: 0.0385
   avg_copies: 1.0
 - name: The Wandering Emperor
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Misty Rainforest
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Commandeer
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Get Lost
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Dress Down
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Celestial Colonnade
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Field of Ruin
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Timeless Dragon
   weight: 0.0385
   avg_copies: 1.0
 ---

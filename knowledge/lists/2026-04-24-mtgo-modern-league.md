@@ -1,5 +1,5 @@
 ---
-archetype: unknown-5
+archetype: rakdos-aggro
 date: '2026-04-24'
 finish: 5-0
 pilot: Bl4ckdragon

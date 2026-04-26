@@ -24,10 +24,10 @@ archetypes:
     weight: 0.009
     avg_copies: 1.0
   mill:
-    weight: 0.3333
+    weight: 0.2857
     avg_copies: 2.0
   reanimator:
-    weight: 0.087
+    weight: 0.0833
     avg_copies: 3.0
   kethis-combo:
     weight: 1.0

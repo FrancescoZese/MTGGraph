@@ -19,13 +19,13 @@ archetypes:
     weight: 0.027
     avg_copies: 1.0
   reanimator:
-    weight: 0.087
+    weight: 0.0833
     avg_copies: 3.5
   mardu-blink:
     weight: 0.7273
     avg_copies: 1.2
   hollow-one:
-    weight: 0.4375
+    weight: 0.4118
     avg_copies: 2.71
   yawgmoth-combo:
     weight: 0.6429
@@ -43,9 +43,6 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   the-rock:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-8:
     weight: 1.0
     avg_copies: 3.0
   goryo5:

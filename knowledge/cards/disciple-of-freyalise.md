@@ -15,7 +15,7 @@ archetypes:
     weight: 0.96
     avg_copies: 2.25
   mono-green-ramp:
-    weight: 1.0
+    weight: 0.8
     avg_copies: 1.0
   cosmogoyf-fling:
     weight: 0.3

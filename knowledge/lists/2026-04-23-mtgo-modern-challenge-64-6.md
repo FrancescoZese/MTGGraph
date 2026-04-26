@@ -1,5 +1,5 @@
 ---
-archetype: unknown-2
+archetype: mill
 date: '2026-04-23'
 finish: 6th
 pilot: medvedev

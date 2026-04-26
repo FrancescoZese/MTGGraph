@@ -18,9 +18,6 @@ archetypes:
   indomitable-creativity:
     weight: 0.2857
     avg_copies: 4.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 4.0
   goryo1:
     weight: 1.0
     avg_copies: 4.0

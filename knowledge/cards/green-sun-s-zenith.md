@@ -24,10 +24,7 @@ archetypes:
   scapeshift-combo:
     weight: 1.0
     avg_copies: 3.75
-  unknown-3:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-8:
-    weight: 1.0
+  the-rock:
+    weight: 0.5
     avg_copies: 4.0
 ---

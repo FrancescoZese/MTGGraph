@@ -9,13 +9,10 @@ set: tsr
 type: Instant
 meta_presence: 0.0043
 archetypes:
+  hollow-one:
+    weight: 0.0588
+    avg_copies: 2.0
   dredge:
-    weight: 0.5
-    avg_copies: 1.5
-  unknown-4:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-6:
-    weight: 1.0
-    avg_copies: 2.0
+    weight: 0.6667
+    avg_copies: 1.75
 ---

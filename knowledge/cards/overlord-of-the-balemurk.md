@@ -13,13 +13,13 @@ archetypes:
     weight: 0.619
     avg_copies: 4.0
   reanimator:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 4.0
   mardu-blink:
     weight: 1.0
     avg_copies: 4.0
   hollow-one:
-    weight: 0.0625
+    weight: 0.0588
     avg_copies: 1.0
   esper-blink:
     weight: 1.0
@@ -27,7 +27,7 @@ archetypes:
   orzhov-blink:
     weight: 1.0
     avg_copies: 4.0
-  unknown-8:
-    weight: 1.0
+  the-rock:
+    weight: 0.5
     avg_copies: 2.0
 ---

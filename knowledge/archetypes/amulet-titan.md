@@ -5,16 +5,16 @@ name: Amulet Titan
 meta_share: 0.0409
 list_count: 48
 top_cards:
-- name: Spelunking
-  weight: 1.0
-  avg_copies: 4.0
-- name: Urza's Saga
-  weight: 1.0
-  avg_copies: 4.0
 - name: Amulet of Vigor
   weight: 1.0
   avg_copies: 4.0
 - name: Arboreal Grazer
+  weight: 1.0
+  avg_copies: 4.0
+- name: Spelunking
+  weight: 1.0
+  avg_copies: 4.0
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Crumbling Vestige
@@ -44,40 +44,40 @@ top_cards:
 - name: Summoner's Pact
   weight: 1.0
   avg_copies: 2.06
-- name: Lotus Field
+- name: Force of Vigor
   weight: 1.0
   avg_copies: 2.0
-- name: Force of Vigor
+- name: Lotus Field
   weight: 1.0
   avg_copies: 2.0
 - name: Aftermath Analyst
   weight: 1.0
   avg_copies: 1.1
-- name: Otawara, Soaring City
-  weight: 1.0
-  avg_copies: 1.0
-- name: Hanweir Battlements
-  weight: 1.0
-  avg_copies: 1.0
-- name: Bojuka Bog
-  weight: 1.0
-  avg_copies: 1.0
-- name: Echoing Deeps
-  weight: 1.0
-  avg_copies: 1.0
-- name: Urza's Cave
-  weight: 1.0
-  avg_copies: 1.0
 - name: Tolaria West
-  weight: 1.0
-  avg_copies: 1.0
-- name: Shifting Woodland
   weight: 1.0
   avg_copies: 1.0
 - name: Mirrorpool
   weight: 1.0
   avg_copies: 1.0
+- name: Urza's Cave
+  weight: 1.0
+  avg_copies: 1.0
+- name: Echoing Deeps
+  weight: 1.0
+  avg_copies: 1.0
+- name: Otawara, Soaring City
+  weight: 1.0
+  avg_copies: 1.0
+- name: Bojuka Bog
+  weight: 1.0
+  avg_copies: 1.0
+- name: Hanweir Battlements
+  weight: 1.0
+  avg_copies: 1.0
 - name: Vesuva
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shifting Woodland
   weight: 1.0
   avg_copies: 1.0
 - name: Six
@@ -131,31 +131,31 @@ top_cards:
 - name: Elder Gargaroth
   weight: 0.125
   avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 0.1042
+  avg_copies: 1.0
 - name: Azusa, Lost but Seeking
   weight: 0.1042
   avg_copies: 1.0
 - name: Keen-Eyed Curator
   weight: 0.1042
   avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.1042
-  avg_copies: 1.0
 - name: Explore
   weight: 0.0833
   avg_copies: 3.0
+- name: Creeping Corrosion
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Outland Liberator
+  weight: 0.0833
+  avg_copies: 1.0
 - name: Elvish Reclaimer
   weight: 0.0833
   avg_copies: 1.0
 - name: Commercial District
   weight: 0.0833
   avg_copies: 1.0
-- name: Creeping Corrosion
-  weight: 0.0833
-  avg_copies: 1.0
 - name: Wooded Foothills
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Outland Liberator
   weight: 0.0833
   avg_copies: 1.0
 - name: Hedge Maze
@@ -176,10 +176,10 @@ top_cards:
 - name: Cavern of Souls
   weight: 0.0208
   avg_copies: 1.0
-- name: Dosan the Falling Leaf
+- name: Insidious Fungus
   weight: 0.0208
   avg_copies: 1.0
-- name: Insidious Fungus
+- name: Dosan the Falling Leaf
   weight: 0.0208
   avg_copies: 1.0
 - name: Gemstone Caverns

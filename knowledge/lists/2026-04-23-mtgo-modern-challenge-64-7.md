@@ -1,5 +1,5 @@
 ---
-archetype: unknown-3
+archetype: mono-green-ramp
 date: '2026-04-23'
 finish: 7th
 pilot: Taurum

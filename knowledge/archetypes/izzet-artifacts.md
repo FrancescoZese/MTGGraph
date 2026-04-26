@@ -72,10 +72,10 @@ top_cards:
 - name: Scalding Tarn
   weight: 0.52
   avg_copies: 3.77
-- name: Pithing Needle
+- name: Skateboard
   weight: 0.52
   avg_copies: 1.0
-- name: Skateboard
+- name: Pithing Needle
   weight: 0.52
   avg_copies: 1.0
 - name: Erayo, Soratami Ascendant
@@ -120,10 +120,10 @@ top_cards:
 - name: Flame of Anor
   weight: 0.36
   avg_copies: 2.0
-- name: Shadowspear
+- name: Flooded Strand
   weight: 0.32
   avg_copies: 1.0
-- name: Flooded Strand
+- name: Shadowspear
   weight: 0.32
   avg_copies: 1.0
 - name: Minamo, School at Water's Edge
@@ -144,22 +144,22 @@ top_cards:
 - name: Sewer-veillance Cam
   weight: 0.12
   avg_copies: 4.0
+- name: Grinding Station
+  weight: 0.12
+  avg_copies: 3.0
 - name: Emeritus of Conflict
   weight: 0.12
   avg_copies: 3.0
 - name: Misty Rainforest
   weight: 0.12
   avg_copies: 3.0
-- name: Grinding Station
-  weight: 0.12
-  avg_copies: 3.0
 - name: Pyroclasm
   weight: 0.12
   avg_copies: 1.67
-- name: Lightning Bolt
+- name: Malevolent Rumble
   weight: 0.08
   avg_copies: 4.0
-- name: Malevolent Rumble
+- name: Lightning Bolt
   weight: 0.08
   avg_copies: 4.0
 - name: Six
@@ -168,19 +168,19 @@ top_cards:
 - name: Endurance
   weight: 0.08
   avg_copies: 2.0
-- name: Engineered Explosives
+- name: Grafdigger's Cage
   weight: 0.08
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Hedge Maze
   weight: 0.08
   avg_copies: 1.0
 - name: Shifting Woodland
   weight: 0.08
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Engineered Explosives
   weight: 0.08
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Boseiju, Who Endures
   weight: 0.08
   avg_copies: 1.0
 - name: Stormchaser's Talent
@@ -198,37 +198,37 @@ top_cards:
 - name: Botanical Sanctum
   weight: 0.04
   avg_copies: 2.0
-- name: Invasive Surgery
-  weight: 0.04
-  avg_copies: 2.0
 - name: The Reality Chip
   weight: 0.04
   avg_copies: 2.0
-- name: Swan Song
+- name: Invasive Surgery
+  weight: 0.04
+  avg_copies: 2.0
+- name: Force of Vigor
   weight: 0.04
   avg_copies: 1.0
-- name: An Offer You Can't Refuse
+- name: Stomping Ground
   weight: 0.04
   avg_copies: 1.0
 - name: Nature's Claim
   weight: 0.04
   avg_copies: 1.0
+- name: An Offer You Can't Refuse
+  weight: 0.04
+  avg_copies: 1.0
 - name: Meltdown
-  weight: 0.04
-  avg_copies: 1.0
-- name: Force of Vigor
-  weight: 0.04
-  avg_copies: 1.0
-- name: Snow-Covered Mountain
-  weight: 0.04
-  avg_copies: 1.0
-- name: Subtlety
   weight: 0.04
   avg_copies: 1.0
 - name: Snow-Covered Island
   weight: 0.04
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Subtlety
+  weight: 0.04
+  avg_copies: 1.0
+- name: Swan Song
+  weight: 0.04
+  avg_copies: 1.0
+- name: Snow-Covered Mountain
   weight: 0.04
   avg_copies: 1.0
 ---

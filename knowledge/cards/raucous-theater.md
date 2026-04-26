@@ -12,7 +12,7 @@ archetypes:
     weight: 0.027
     avg_copies: 1.0
   reanimator:
-    weight: 0.913
+    weight: 0.875
     avg_copies: 1.05
   burn:
     weight: 0.5
@@ -21,7 +21,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   hollow-one:
-    weight: 0.9375
+    weight: 0.8824
     avg_copies: 1.07
   indomitable-creativity:
     weight: 0.2857
@@ -34,10 +34,7 @@ archetypes:
     avg_copies: 1.0
   rakdos-aggro:
     weight: 1.0
-    avg_copies: 1.4
-  unknown-5:
-    weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 1.33
   goryo1:
     weight: 1.0
     avg_copies: 1.0

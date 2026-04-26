@@ -18,7 +18,7 @@ archetypes:
     weight: 0.5
     avg_copies: 4.0
   hollow-one:
-    weight: 0.75
+    weight: 0.7059
     avg_copies: 3.75
   kethis-combo:
     weight: 1.0
@@ -36,9 +36,6 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   izzet-wizards:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-5:
     weight: 1.0
     avg_copies: 4.0
   goryo7:

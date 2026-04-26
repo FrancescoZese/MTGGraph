@@ -9,12 +9,12 @@ set: sos
 type: Instant
 meta_presence: 0.0043
 archetypes:
+  mill:
+    weight: 0.1429
+    avg_copies: 4.0
   boros-ponza:
     weight: 0.1364
     avg_copies: 3.67
-  unknown-2:
-    weight: 1.0
-    avg_copies: 4.0
   goryo6:
     weight: 1.0
     avg_copies: 4.0

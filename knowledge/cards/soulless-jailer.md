@@ -38,7 +38,7 @@ archetypes:
   eldrazi-breach:
     weight: 1.0
     avg_copies: 2.0
-  unknown-3:
-    weight: 1.0
+  mono-green-ramp:
+    weight: 0.2
     avg_copies: 2.0
 ---

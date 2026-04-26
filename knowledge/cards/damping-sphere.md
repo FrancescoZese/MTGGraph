@@ -39,7 +39,7 @@ archetypes:
     weight: 0.8108
     avg_copies: 1.53
   reanimator:
-    weight: 0.7391
+    weight: 0.7083
     avg_copies: 1.94
   burn:
     weight: 0.25
@@ -51,8 +51,8 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   hollow-one:
-    weight: 0.8125
-    avg_copies: 2.38
+    weight: 0.8235
+    avg_copies: 2.36
   yawgmoth-combo:
     weight: 0.3571
     avg_copies: 1.0
@@ -72,7 +72,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.25
   dredge:
-    weight: 0.25
+    weight: 0.1667
     avg_copies: 2.0
   elves:
     weight: 1.0
@@ -81,8 +81,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   rakdos-aggro:
-    weight: 0.8
-    avg_copies: 3.75
+    weight: 0.8333
+    avg_copies: 3.4
   mono-green-stompy:
     weight: 1.0
     avg_copies: 3.0
@@ -99,13 +99,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   the-rock:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-6:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-5:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 2.0
   goryo1:
     weight: 1.0

@@ -15,7 +15,7 @@ archetypes:
     weight: 0.619
     avg_copies: 1.38
   reanimator:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
@@ -30,17 +30,14 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   mono-green-ramp:
-    weight: 1.0
+    weight: 0.8
     avg_copies: 1.0
   mono-green-stompy:
     weight: 1.0
     avg_copies: 1.0
   the-rock:
     weight: 1.0
-    avg_copies: 2.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 1.5
   goryo5:
     weight: 1.0
     avg_copies: 1.0

@@ -6,10 +6,10 @@ name: Izzet Prowess
 meta_share: 0.0384
 list_count: 45
 top_cards:
-- name: Cori-Steel Cutter
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Lightning Bolt
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
@@ -111,10 +111,10 @@ top_cards:
 - name: Octopus Form
   weight: 0.1778
   avg_copies: 1.0
-- name: It'll Quench Ya!
+- name: Firebending Lesson
   weight: 0.1556
   avg_copies: 1.0
-- name: Firebending Lesson
+- name: It'll Quench Ya!
   weight: 0.1556
   avg_copies: 1.0
 - name: Tormod's Crypt
@@ -123,10 +123,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.1111
   avg_copies: 2.0
-- name: Blood Moon
+- name: Abhorrent Oculus
   weight: 0.1111
   avg_copies: 1.6
-- name: Abhorrent Oculus
+- name: Blood Moon
   weight: 0.1111
   avg_copies: 1.6
 - name: Force of Negation
@@ -135,10 +135,10 @@ top_cards:
 - name: Monstrous Rage
   weight: 0.1111
   avg_copies: 1.4
-- name: Price of Freedom
+- name: Iroh's Demonstration
   weight: 0.1111
   avg_copies: 1.0
-- name: Iroh's Demonstration
+- name: Price of Freedom
   weight: 0.1111
   avg_copies: 1.0
 - name: Questing Druid
@@ -162,10 +162,10 @@ top_cards:
 - name: Island
   weight: 0.0667
   avg_copies: 1.33
-- name: End the Festivities
+- name: Accumulate Wisdom
   weight: 0.0667
   avg_copies: 1.0
-- name: Accumulate Wisdom
+- name: End the Festivities
   weight: 0.0667
   avg_copies: 1.0
 - name: Spirebluff Canal
@@ -177,10 +177,10 @@ top_cards:
 - name: Alpine Moon
   weight: 0.0444
   avg_copies: 1.5
-- name: True Ancestry
+- name: Redirect Lightning
   weight: 0.0444
   avg_copies: 1.0
-- name: Redirect Lightning
+- name: True Ancestry
   weight: 0.0444
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
@@ -192,34 +192,34 @@ top_cards:
 - name: Siege Smash
   weight: 0.0222
   avg_copies: 2.0
-- name: Wear
-  weight: 0.0222
-  avg_copies: 1.0
-- name: Otawara, Soaring City
-  weight: 0.0222
-  avg_copies: 1.0
-- name: Riverpyre Verge
-  weight: 0.0222
-  avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 0.0222
-  avg_copies: 1.0
-- name: Pithing Needle
-  weight: 0.0222
-  avg_copies: 1.0
 - name: Flooded Strand
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Wear
   weight: 0.0222
   avg_copies: 1.0
 - name: Flow State
   weight: 0.0222
   avg_copies: 1.0
+- name: Grafdigger's Cage
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 0.0222
+  avg_copies: 1.0
 - name: Polluted Delta
   weight: 0.0222
   avg_copies: 1.0
-- name: Shatterstorm
+- name: Combustion Technique
   weight: 0.0222
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Riverpyre Verge
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Pithing Needle
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Otawara, Soaring City
   weight: 0.0222
   avg_copies: 1.0
 - name: Sink into Stupor
@@ -228,7 +228,7 @@ top_cards:
 - name: The Legend of Roku
   weight: 0.0222
   avg_copies: 1.0
-- name: Combustion Technique
+- name: Shatterstorm
   weight: 0.0222
   avg_copies: 1.0
 ---

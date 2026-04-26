@@ -11,6 +11,6 @@ type: Sorcery
 meta_presence: 0.0026
 archetypes:
   mill:
-    weight: 0.5
+    weight: 0.4286
     avg_copies: 2.0
 ---

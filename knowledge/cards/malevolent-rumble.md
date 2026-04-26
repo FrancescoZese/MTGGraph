@@ -16,7 +16,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 3.0
   reanimator:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 4.0
   kethis-combo:
     weight: 1.0
@@ -42,10 +42,10 @@ archetypes:
   naya-midrange:
     weight: 1.0
     avg_copies: 4.0
-  unknown-8:
-    weight: 1.0
+  the-rock:
+    weight: 0.5
     avg_copies: 4.0
-  unknown-7:
+  selesnya-midrange:
     weight: 1.0
     avg_copies: 3.0
 ---

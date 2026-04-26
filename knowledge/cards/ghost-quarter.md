@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.0222
 archetypes:
   mill:
-    weight: 0.5
+    weight: 0.4286
     avg_copies: 2.0
   boros-ponza:
     weight: 0.0909
@@ -23,7 +23,7 @@ archetypes:
   scapeshift-combo:
     weight: 0.75
     avg_copies: 1.33
-  unknown-8:
-    weight: 1.0
+  the-rock:
+    weight: 0.5
     avg_copies: 2.0
 ---

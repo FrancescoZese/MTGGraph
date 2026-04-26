@@ -10,6 +10,6 @@ type: Creature — Elf Warlock
 meta_presence: 0.0009
 archetypes:
   reanimator:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 2.0
 ---

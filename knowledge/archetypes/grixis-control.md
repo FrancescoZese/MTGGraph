@@ -9,46 +9,46 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 5.0
-- name: Counterspell
-  weight: 1.0
-  avg_copies: 4.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
 - name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
+- name: Counterspell
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flame of Anor
+  weight: 1.0
+  avg_copies: 3.67
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 3.67
 - name: Snapcaster Mage
   weight: 1.0
   avg_copies: 3.67
-- name: Flame of Anor
-  weight: 1.0
-  avg_copies: 3.67
 - name: Subtlety
   weight: 1.0
   avg_copies: 3.33
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 3.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 3.0
-- name: Spell Snare
+- name: Steam Vents
   weight: 1.0
-  avg_copies: 2.33
+  avg_copies: 3.0
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.33
-- name: Thundering Falls
+- name: Spell Snare
   weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 2.33
 - name: Meltdown
   weight: 1.0
   avg_copies: 2.0
 - name: Polluted Delta
+  weight: 1.0
+  avg_copies: 2.0
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 2.0
 - name: Fire Magic
@@ -60,10 +60,10 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Hall of Storm Giants
   weight: 1.0
   avg_copies: 1.0
-- name: Hall of Storm Giants
+- name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
@@ -72,13 +72,13 @@ top_cards:
 - name: Consult the Star Charts
   weight: 0.6667
   avg_copies: 2.5
+- name: Ghost Vacuum
+  weight: 0.6667
+  avg_copies: 2.0
 - name: Flooded Strand
   weight: 0.6667
   avg_copies: 2.0
 - name: Invert Polarity
-  weight: 0.6667
-  avg_copies: 2.0
-- name: Ghost Vacuum
   weight: 0.6667
   avg_copies: 2.0
 - name: Preordain
@@ -93,43 +93,43 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 0.3333
   avg_copies: 3.0
-- name: Surgical Extraction
+- name: Thundertrap Trainer
   weight: 0.3333
   avg_copies: 2.0
 - name: Blood Moon
   weight: 0.3333
   avg_copies: 2.0
+- name: Surgical Extraction
+  weight: 0.3333
+  avg_copies: 2.0
 - name: Wan Shi Tong, Librarian
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Thundertrap Trainer
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Lórien Revealed
   weight: 0.3333
   avg_copies: 2.0
 - name: Field of Ruin
   weight: 0.3333
   avg_copies: 2.0
-- name: Dress Down
+- name: Lórien Revealed
   weight: 0.3333
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Brotherhood's End
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Sink into Stupor
   weight: 0.3333
   avg_copies: 1.0
 - name: Force of Negation
   weight: 0.3333
   avg_copies: 1.0
-- name: Vedalken Shackles
+- name: Hurkyl's Recall
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Dress Down
   weight: 0.3333
   avg_copies: 1.0
 - name: Stern Scolding
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Sink into Stupor
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Vedalken Shackles
   weight: 0.3333
   avg_copies: 1.0
 ---

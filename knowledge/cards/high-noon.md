@@ -57,7 +57,7 @@ archetypes:
   jeskai-control:
     weight: 0.3333
     avg_copies: 2.0
-  unknown-7:
+  selesnya-midrange:
     weight: 1.0
     avg_copies: 1.0
   goryo6:

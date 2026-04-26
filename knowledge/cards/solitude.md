@@ -24,6 +24,9 @@ archetypes:
   azorius-control:
     weight: 1.0
     avg_copies: 3.38
+  reanimator:
+    weight: 0.0417
+    avg_copies: 4.0
   mardu-blink:
     weight: 1.0
     avg_copies: 4.0
@@ -57,9 +60,6 @@ archetypes:
   naya-midrange:
     weight: 1.0
     avg_copies: 3.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 4.0
   goryo6:
     weight: 1.0
     avg_copies: 4.0

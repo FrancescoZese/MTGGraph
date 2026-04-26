@@ -21,7 +21,7 @@ archetypes:
     weight: 0.15
     avg_copies: 3.33
   reanimator:
-    weight: 0.913
+    weight: 0.875
     avg_copies: 3.86
   burn:
     weight: 0.75
@@ -31,7 +31,7 @@ archetypes:
     avg_copies: 1.8
   hollow-one:
     weight: 1.0
-    avg_copies: 3.81
+    avg_copies: 3.82
   izzet-prowess:
     weight: 0.8667
     avg_copies: 2.87
@@ -39,8 +39,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.57
   dredge:
-    weight: 0.75
-    avg_copies: 3.0
+    weight: 0.8333
+    avg_copies: 3.4
   jund-saga:
     weight: 1.0
     avg_copies: 3.0
@@ -51,20 +51,11 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   rakdos-aggro:
-    weight: 0.8
+    weight: 0.8333
     avg_copies: 4.0
   the-rock:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 1.0
-  unknown-4:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-6:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 4.0
   goryo1:
     weight: 1.0
     avg_copies: 4.0

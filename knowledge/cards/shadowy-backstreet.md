@@ -11,6 +11,9 @@ archetypes:
   goryo:
     weight: 0.9773
     avg_copies: 1.0
+  reanimator:
+    weight: 0.0417
+    avg_copies: 1.0
   mardu-blink:
     weight: 0.9091
     avg_copies: 1.0
@@ -21,9 +24,6 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   esper-midrange:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-9:
     weight: 1.0
     avg_copies: 1.0
   goryo2:

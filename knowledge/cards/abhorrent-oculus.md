@@ -10,7 +10,7 @@ type: Creature — Eye
 meta_presence: 0.0699
 archetypes:
   reanimator:
-    weight: 0.913
+    weight: 0.875
     avg_copies: 3.86
   neoform-combo:
     weight: 0.68

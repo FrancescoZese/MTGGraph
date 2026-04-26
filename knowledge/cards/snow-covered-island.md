@@ -18,7 +18,7 @@ archetypes:
     weight: 0.018
     avg_copies: 2.0
   mill:
-    weight: 0.8333
+    weight: 0.7143
     avg_copies: 3.0
   neoform-combo:
     weight: 0.88

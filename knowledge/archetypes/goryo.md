@@ -50,19 +50,19 @@ top_cards:
 - name: Griselbrand
   weight: 1.0
   avg_copies: 1.18
-- name: Godless Shrine
-  weight: 1.0
-  avg_copies: 1.0
-- name: Undercity Sewers
-  weight: 1.0
-  avg_copies: 1.0
 - name: Island
+  weight: 1.0
+  avg_copies: 1.0
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Plains
+- name: Undercity Sewers
+  weight: 1.0
+  avg_copies: 1.0
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
 - name: Watery Grave
@@ -140,10 +140,10 @@ top_cards:
 - name: Supreme Verdict
   weight: 0.1364
   avg_copies: 1.0
-- name: Drannith Magistrate
+- name: Sink into Stupor
   weight: 0.1364
   avg_copies: 1.0
-- name: Sink into Stupor
+- name: Drannith Magistrate
   weight: 0.1364
   avg_copies: 1.0
 - name: Otherworldly Gaze
@@ -161,10 +161,10 @@ top_cards:
 - name: Deafening Silence
   weight: 0.0455
   avg_copies: 2.0
-- name: Ketramose, the New Dawn
+- name: Winternight Stories
   weight: 0.0455
   avg_copies: 1.0
-- name: Winternight Stories
+- name: Ketramose, the New Dawn
   weight: 0.0455
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
@@ -173,22 +173,22 @@ top_cards:
 - name: No More Lies
   weight: 0.0227
   avg_copies: 2.0
-- name: Gloomlake Verge
-  weight: 0.0227
-  avg_copies: 1.0
 - name: Unburial Rites
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Arcbound Ravager
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Ulamog, the Defiler
   weight: 0.0227
   avg_copies: 1.0
 - name: Toxic Deluge
   weight: 0.0227
   avg_copies: 1.0
 - name: Damn
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Ulamog, the Defiler
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Gloomlake Verge
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Arcbound Ravager
   weight: 0.0227
   avg_copies: 1.0
 ---

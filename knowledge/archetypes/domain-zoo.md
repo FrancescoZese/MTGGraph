@@ -12,10 +12,10 @@ top_cards:
 - name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
-- name: Scion of Draco
+- name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline of the Guildpact
+- name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline Binding
@@ -42,10 +42,10 @@ top_cards:
 - name: Wear
   weight: 1.0
   avg_copies: 1.62
-- name: Godless Shrine
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
-- name: Plains
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
 - name: Temple Garden
@@ -114,10 +114,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.1892
   avg_copies: 1.29
-- name: Pyroclasm
+- name: High Noon
   weight: 0.1622
   avg_copies: 1.0
-- name: High Noon
+- name: Pyroclasm
   weight: 0.1622
   avg_copies: 1.0
 - name: Clarion Conqueror
@@ -129,25 +129,25 @@ top_cards:
 - name: Celestial Purge
   weight: 0.1081
   avg_copies: 1.0
-- name: Does Machines
+- name: Fable of the Mirror-Breaker
   weight: 0.0541
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.0541
   avg_copies: 1.0
-- name: Fable of the Mirror-Breaker
+- name: Does Machines
   weight: 0.0541
   avg_copies: 1.0
-- name: Faithless Looting
+- name: Psychic Frog
   weight: 0.027
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Archon of Cruelty
   weight: 0.027
   avg_copies: 4.0
 - name: Persist
   weight: 0.027
   avg_copies: 4.0
-- name: Archon of Cruelty
+- name: Faithless Looting
   weight: 0.027
   avg_copies: 4.0
 - name: Aurora Awakener
@@ -162,28 +162,28 @@ top_cards:
 - name: Quantum Riddler
   weight: 0.027
   avg_copies: 1.0
-- name: Prismatic Ending
+- name: Vexing Bauble
   weight: 0.027
   avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.027
-  avg_copies: 1.0
-- name: Orcish Bowmasters
+- name: Blood Crypt
   weight: 0.027
   avg_copies: 1.0
 - name: Meltdown
   weight: 0.027
   avg_copies: 1.0
-- name: Glasspool Mimic
-  weight: 0.027
-  avg_copies: 1.0
-- name: Vexing Bauble
+- name: Breeding Pool
   weight: 0.027
   avg_copies: 1.0
 - name: Raucous Theater
   weight: 0.027
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Glasspool Mimic
+  weight: 0.027
+  avg_copies: 1.0
+- name: Orcish Bowmasters
+  weight: 0.027
+  avg_copies: 1.0
+- name: Prismatic Ending
   weight: 0.027
   avg_copies: 1.0
 ---

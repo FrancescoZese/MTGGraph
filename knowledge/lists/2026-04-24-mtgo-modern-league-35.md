@@ -1,5 +1,5 @@
 ---
-archetype: unknown-9
+archetype: reanimator
 date: '2026-04-24'
 finish: 5-0
 pilot: Serosocram

@@ -13,13 +13,13 @@ archetypes:
     weight: 0.1622
     avg_copies: 1.0
   reanimator:
-    weight: 0.8696
+    weight: 0.8333
     avg_copies: 1.85
   burn:
     weight: 0.5
     avg_copies: 3.0
   hollow-one:
-    weight: 0.0625
+    weight: 0.0588
     avg_copies: 2.0
   simic-ritual:
     weight: 0.0357
@@ -37,11 +37,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   rakdos-aggro:
-    weight: 0.4
-    avg_copies: 2.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 1.0
+    weight: 0.5
+    avg_copies: 1.67
   goryo1:
     weight: 0.6667
     avg_copies: 1.5

@@ -33,6 +33,9 @@ archetypes:
   domain-zoo:
     weight: 0.027
     avg_copies: 1.0
+  reanimator:
+    weight: 0.0417
+    avg_copies: 4.0
   mardu-blink:
     weight: 0.1818
     avg_copies: 2.0
@@ -72,9 +75,6 @@ archetypes:
   naya-midrange:
     weight: 1.0
     avg_copies: 2.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 4.0
   goryo2:
     weight: 1.0
     avg_copies: 1.5

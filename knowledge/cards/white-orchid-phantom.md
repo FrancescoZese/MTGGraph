@@ -15,6 +15,12 @@ archetypes:
   jeskai-energy:
     weight: 0.0118
     avg_copies: 2.0
+  mill:
+    weight: 0.1429
+    avg_copies: 4.0
+  reanimator:
+    weight: 0.0417
+    avg_copies: 1.0
   mardu-blink:
     weight: 0.2727
     avg_copies: 2.67
@@ -30,10 +36,4 @@ archetypes:
   bant-ritual:
     weight: 1.0
     avg_copies: 2.0
-  unknown-2:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 1.0
 ---

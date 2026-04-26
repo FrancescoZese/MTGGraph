@@ -21,16 +21,16 @@ archetypes:
     weight: 0.5676
     avg_copies: 1.24
   mill:
-    weight: 0.1667
+    weight: 0.1429
     avg_copies: 1.0
   reanimator:
-    weight: 0.2174
+    weight: 0.2083
     avg_copies: 1.0
   mardu-blink:
     weight: 0.0909
     avg_copies: 1.0
   hollow-one:
-    weight: 0.3125
+    weight: 0.2941
     avg_copies: 2.2
   jund-saga:
     weight: 1.0
@@ -39,13 +39,10 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   rakdos-aggro:
-    weight: 0.2
+    weight: 0.3333
     avg_copies: 1.0
   the-rock:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-5:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 1.0
   goryo1:
     weight: 0.3333

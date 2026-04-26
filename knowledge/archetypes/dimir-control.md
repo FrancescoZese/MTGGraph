@@ -180,10 +180,10 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 0.0755
   avg_copies: 1.0
-- name: High Noon
+- name: Brazen Borrower
   weight: 0.0566
   avg_copies: 1.33
-- name: Brazen Borrower
+- name: High Noon
   weight: 0.0566
   avg_copies: 1.33
 - name: Teferi, Time Raveler
@@ -204,22 +204,22 @@ top_cards:
 - name: Thundering Falls
   weight: 0.0377
   avg_copies: 1.0
-- name: Celestial Purge
+- name: Vanishing Verse
   weight: 0.0377
   avg_copies: 1.0
 - name: Shoot the Sheriff
   weight: 0.0377
   avg_copies: 1.0
-- name: Vanishing Verse
-  weight: 0.0377
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Anoint with Affliction
   weight: 0.0377
   avg_copies: 1.0
 - name: Prismatic Ending
   weight: 0.0377
   avg_copies: 1.0
-- name: Anoint with Affliction
+- name: Soul-Guide Lantern
+  weight: 0.0377
+  avg_copies: 1.0
+- name: Celestial Purge
   weight: 0.0377
   avg_copies: 1.0
 - name: Consider
@@ -231,55 +231,55 @@ top_cards:
 - name: Dress Down
   weight: 0.0189
   avg_copies: 3.0
-- name: Fallen Shinobi
-  weight: 0.0189
-  avg_copies: 3.0
 - name: Shadow of Doubt
   weight: 0.0189
   avg_copies: 3.0
 - name: Dismember
   weight: 0.0189
   avg_copies: 3.0
+- name: Fallen Shinobi
+  weight: 0.0189
+  avg_copies: 3.0
+- name: Hurkyl's Recall
+  weight: 0.0189
+  avg_copies: 2.0
+- name: Lightning Bolt
+  weight: 0.0189
+  avg_copies: 2.0
 - name: Archmage's Charm
   weight: 0.0189
   avg_copies: 2.0
 - name: Strix Serenade
   weight: 0.0189
   avg_copies: 2.0
-- name: Cryptic Command
+- name: Stony Silence
   weight: 0.0189
   avg_copies: 2.0
-- name: Emperor of Bones
+- name: Cryptic Command
   weight: 0.0189
   avg_copies: 2.0
 - name: Dauthi Voidwalker
   weight: 0.0189
   avg_copies: 2.0
-- name: Hurkyl's Recall
-  weight: 0.0189
-  avg_copies: 2.0
-- name: Stony Silence
-  weight: 0.0189
-  avg_copies: 2.0
-- name: Lightning Bolt
+- name: Emperor of Bones
   weight: 0.0189
   avg_copies: 2.0
 - name: Jace, the Mind Sculptor
   weight: 0.0189
   avg_copies: 1.0
-- name: Takenuma, Abandoned Mire
-  weight: 0.0189
-  avg_copies: 1.0
 - name: Exorcise
-  weight: 0.0189
-  avg_copies: 1.0
-- name: Snow-Covered Swamp
   weight: 0.0189
   avg_copies: 1.0
 - name: Hall of Storm Giants
   weight: 0.0189
   avg_copies: 1.0
+- name: Snow-Covered Swamp
+  weight: 0.0189
+  avg_copies: 1.0
 - name: Lórien Revealed
+  weight: 0.0189
+  avg_copies: 1.0
+- name: Takenuma, Abandoned Mire
   weight: 0.0189
   avg_copies: 1.0
 - name: Sunken Ruins

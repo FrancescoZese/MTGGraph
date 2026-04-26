@@ -69,19 +69,19 @@ top_cards:
 - name: Hooting Mandrills
   weight: 0.92
   avg_copies: 1.09
-- name: Atraxa, Grand Unifier
+- name: Boseiju, Who Endures
   weight: 0.92
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Atraxa, Grand Unifier
   weight: 0.92
   avg_copies: 1.0
 - name: Snow-Covered Forest
   weight: 0.88
   avg_copies: 1.12
-- name: Elesh Norn, Grand Cenobite
+- name: Snow-Covered Island
   weight: 0.88
   avg_copies: 1.0
-- name: Snow-Covered Island
+- name: Elesh Norn, Grand Cenobite
   weight: 0.88
   avg_copies: 1.0
 - name: Veil of Summer
@@ -132,9 +132,6 @@ top_cards:
 - name: Forest
   weight: 0.08
   avg_copies: 1.0
-- name: Geometer's Arthropod
-  weight: 0.04
-  avg_copies: 4.0
 - name: Glittering Wish
   weight: 0.04
   avg_copies: 4.0
@@ -144,10 +141,13 @@ top_cards:
 - name: Detect Intrusion
   weight: 0.04
   avg_copies: 4.0
+- name: Invasion of Gobakhan
+  weight: 0.04
+  avg_copies: 4.0
 - name: Gemstone Mine
   weight: 0.04
   avg_copies: 4.0
-- name: Invasion of Gobakhan
+- name: Geometer's Arthropod
   weight: 0.04
   avg_copies: 4.0
 - name: Thrun, the Last Troll
@@ -159,46 +159,46 @@ top_cards:
 - name: Eladamri's Call
   weight: 0.04
   avg_copies: 2.0
-- name: Brainsurge
-  weight: 0.04
-  avg_copies: 1.0
-- name: Stump Stomp
-  weight: 0.04
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.04
-  avg_copies: 1.0
 - name: Island
-  weight: 0.04
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.04
-  avg_copies: 1.0
-- name: Preordain
-  weight: 0.04
-  avg_copies: 1.0
-- name: Spell Snare
-  weight: 0.04
-  avg_copies: 1.0
-- name: Commercial District
-  weight: 0.04
-  avg_copies: 1.0
-- name: Detention Sphere
   weight: 0.04
   avg_copies: 1.0
 - name: Nature's Chant
   weight: 0.04
   avg_copies: 1.0
-- name: Borborygmos Enraged
+- name: Stump Stomp
+  weight: 0.04
+  avg_copies: 1.0
+- name: Preordain
+  weight: 0.04
+  avg_copies: 1.0
+- name: Brainsurge
   weight: 0.04
   avg_copies: 1.0
 - name: Firespout
   weight: 0.04
   avg_copies: 1.0
-- name: Raph & Mikey, Troublemakers
+- name: Thundering Falls
+  weight: 0.04
+  avg_copies: 1.0
+- name: Borborygmos Enraged
+  weight: 0.04
+  avg_copies: 1.0
+- name: Commercial District
   weight: 0.04
   avg_copies: 1.0
 - name: Lush Portico
+  weight: 0.04
+  avg_copies: 1.0
+- name: Meticulous Archive
+  weight: 0.04
+  avg_copies: 1.0
+- name: Raph & Mikey, Troublemakers
+  weight: 0.04
+  avg_copies: 1.0
+- name: Detention Sphere
+  weight: 0.04
+  avg_copies: 1.0
+- name: Spell Snare
   weight: 0.04
   avg_copies: 1.0
 ---

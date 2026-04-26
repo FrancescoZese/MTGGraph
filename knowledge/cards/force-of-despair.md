@@ -13,14 +13,11 @@ archetypes:
     weight: 0.9
     avg_copies: 2.17
   reanimator:
-    weight: 0.6522
-    avg_copies: 2.67
+    weight: 0.6667
+    avg_copies: 2.69
   grixis-shadow:
     weight: 1.0
     avg_copies: 1.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 3.0
   goryo5:
     weight: 1.0
     avg_copies: 2.0

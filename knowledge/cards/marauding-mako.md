@@ -10,9 +10,6 @@ type: Creature — Shark Pirate
 meta_presence: 0.0051
 archetypes:
   hollow-one:
-    weight: 0.3125
-    avg_copies: 3.6
-  unknown-6:
-    weight: 1.0
-    avg_copies: 4.0
+    weight: 0.3529
+    avg_copies: 3.67
 ---

@@ -15,8 +15,11 @@ archetypes:
   living-end:
     weight: 0.1905
     avg_copies: 1.0
+  mill:
+    weight: 0.1429
+    avg_copies: 2.0
   reanimator:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 4.0
   simic-ritual:
     weight: 1.0
@@ -31,9 +34,6 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   izzet-wizards:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-2:
     weight: 1.0
     avg_copies: 2.0
   goryo1:

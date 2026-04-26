@@ -16,7 +16,7 @@ archetypes:
     weight: 0.75
     avg_copies: 1.33
   mill:
-    weight: 0.5
+    weight: 0.4286
     avg_copies: 1.0
   kethis-combo:
     weight: 0.6

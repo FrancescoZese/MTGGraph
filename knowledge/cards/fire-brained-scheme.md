@@ -11,7 +11,7 @@ archetypes:
   ruby-storm:
     weight: 0.1935
     avg_copies: 1.67
-  unknown-5:
-    weight: 1.0
+  rakdos-aggro:
+    weight: 0.1667
     avg_copies: 3.0
 ---

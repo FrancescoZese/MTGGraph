@@ -10,6 +10,6 @@ type: Enchantment
 meta_presence: 0.0034
 archetypes:
   mono-green-ramp:
-    weight: 1.0
+    weight: 0.8
     avg_copies: 3.25
 ---

@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.0136
 archetypes:
   reanimator:
-    weight: 0.087
+    weight: 0.0833
     avg_copies: 1.5
   yawgmoth-combo:
     weight: 1.0

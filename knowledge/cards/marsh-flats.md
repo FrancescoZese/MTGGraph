@@ -26,6 +26,9 @@ archetypes:
   azorius-control:
     weight: 0.1154
     avg_copies: 2.0
+  reanimator:
+    weight: 0.0417
+    avg_copies: 4.0
   mardu-blink:
     weight: 1.0
     avg_copies: 2.55
@@ -33,7 +36,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   hollow-one:
-    weight: 0.25
+    weight: 0.2353
     avg_copies: 1.75
   esper-blink:
     weight: 1.0
@@ -45,7 +48,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   rakdos-aggro:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 4.0
   bant-ritual:
     weight: 1.0
@@ -54,11 +57,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   the-rock:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 1.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 4.0
   goryo5:
     weight: 1.0
     avg_copies: 3.0

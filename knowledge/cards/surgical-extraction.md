@@ -26,9 +26,9 @@ archetypes:
     avg_copies: 1.29
   mill:
     weight: 1.0
-    avg_copies: 2.33
+    avg_copies: 2.5
   reanimator:
-    weight: 0.2609
+    weight: 0.25
     avg_copies: 1.33
   burn:
     weight: 0.5
@@ -40,8 +40,8 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   hollow-one:
-    weight: 0.625
-    avg_copies: 1.9
+    weight: 0.6471
+    avg_copies: 1.82
   boros-ponza:
     weight: 0.1364
     avg_copies: 1.0
@@ -64,7 +64,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   dredge:
-    weight: 0.25
+    weight: 0.5
     avg_copies: 2.0
   grixis-control:
     weight: 0.3333
@@ -73,7 +73,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.33
   rakdos-aggro:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 2.0
   izzet-splinter-twin:
     weight: 1.0
@@ -81,15 +81,6 @@ archetypes:
   naya-midrange:
     weight: 1.0
     avg_copies: 2.0
-  unknown-4:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-2:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-6:
-    weight: 1.0
-    avg_copies: 1.0
   goryo1:
     weight: 0.3333
     avg_copies: 1.0

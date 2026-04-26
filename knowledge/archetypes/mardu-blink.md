@@ -7,10 +7,10 @@ name: Mardu Blink
 meta_share: 0.0094
 list_count: 11
 top_cards:
-- name: Overlord of the Balemurk
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
 - name: Phlage, Titan of Fire's Fury
@@ -28,10 +28,10 @@ top_cards:
 - name: Ephemerate
   weight: 1.0
   avg_copies: 2.36
-- name: Flickerwisp
+- name: Witch Enchanter
   weight: 1.0
   avg_copies: 2.09
-- name: Witch Enchanter
+- name: Flickerwisp
   weight: 1.0
   avg_copies: 2.09
 - name: Arena of Glory
@@ -49,16 +49,16 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.09
-- name: Sacred Foundry
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Galvanic Discharge
@@ -103,10 +103,10 @@ top_cards:
 - name: Snow-Covered Plains
   weight: 0.5455
   avg_copies: 1.67
-- name: Snow-Covered Mountain
+- name: Boggart Trawler
   weight: 0.5455
   avg_copies: 1.0
-- name: Boggart Trawler
+- name: Snow-Covered Mountain
   weight: 0.5455
   avg_copies: 1.0
 - name: Emperor of Bones
@@ -145,19 +145,19 @@ top_cards:
 - name: The Legend of Roku
   weight: 0.0909
   avg_copies: 2.0
-- name: Faerie Macabre
+- name: Emptiness
   weight: 0.0909
   avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Pest Control
   weight: 0.0909
   avg_copies: 1.0
 - name: Swamp
   weight: 0.0909
   avg_copies: 1.0
-- name: Emptiness
+- name: Nihil Spellbomb
   weight: 0.0909
   avg_copies: 1.0
-- name: Pest Control
+- name: Faerie Macabre
   weight: 0.0909
   avg_copies: 1.0
 ---

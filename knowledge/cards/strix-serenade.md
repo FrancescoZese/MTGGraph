@@ -28,7 +28,7 @@ archetypes:
     weight: 0.1081
     avg_copies: 1.25
   reanimator:
-    weight: 0.087
+    weight: 0.0833
     avg_copies: 2.0
   kethis-combo:
     weight: 0.4

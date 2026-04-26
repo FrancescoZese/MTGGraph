@@ -1,5 +1,5 @@
 ---
-archetype: unknown-4
+archetype: dredge
 date: '2026-04-25'
 finish: 9th
 pilot: The-Magic-Mana

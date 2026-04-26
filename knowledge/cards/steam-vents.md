@@ -30,7 +30,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.7
   reanimator:
-    weight: 0.8696
+    weight: 0.8333
     avg_copies: 1.0
   simic-ritual:
     weight: 0.0357
@@ -45,8 +45,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   dredge:
-    weight: 0.75
-    avg_copies: 2.0
+    weight: 0.8333
+    avg_copies: 1.8
   izzet-artifacts:
     weight: 0.96
     avg_copies: 1.88
@@ -68,9 +68,6 @@ archetypes:
   izzet-wizards:
     weight: 1.0
     avg_copies: 3.0
-  unknown-4:
-    weight: 1.0
-    avg_copies: 1.5
   goryo1:
     weight: 1.0
     avg_copies: 1.33

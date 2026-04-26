@@ -9,7 +9,7 @@ set: sos
 type: Creature — Plant Beast
 meta_presence: 0.0009
 archetypes:
-  unknown-3:
-    weight: 1.0
+  mono-green-ramp:
+    weight: 0.2
     avg_copies: 4.0
 ---

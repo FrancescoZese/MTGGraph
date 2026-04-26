@@ -27,7 +27,7 @@ archetypes:
     weight: 0.9189
     avg_copies: 1.0
   reanimator:
-    weight: 0.087
+    weight: 0.0833
     avg_copies: 1.0
   neoform-combo:
     weight: 0.04
@@ -45,7 +45,7 @@ archetypes:
     weight: 0.5714
     avg_copies: 1.0
   dredge:
-    weight: 0.75
+    weight: 0.8333
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.48
@@ -67,8 +67,5 @@ archetypes:
     avg_copies: 2.0
   scapeshift-combo:
     weight: 0.25
-    avg_copies: 1.0
-  unknown-4:
-    weight: 1.0
     avg_copies: 1.0
 ---

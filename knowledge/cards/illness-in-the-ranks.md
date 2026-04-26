@@ -13,13 +13,13 @@ archetypes:
     weight: 0.15
     avg_copies: 1.67
   mill:
-    weight: 0.1667
+    weight: 0.1429
     avg_copies: 1.0
   hollow-one:
-    weight: 0.5
+    weight: 0.4706
     avg_copies: 1.0
   dredge:
-    weight: 0.25
+    weight: 0.1667
     avg_copies: 1.0
   mono-green-stompy:
     weight: 1.0

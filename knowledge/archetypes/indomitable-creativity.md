@@ -45,10 +45,10 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Leyline Binding
@@ -60,10 +60,10 @@ top_cards:
 - name: Galvanic Discharge
   weight: 0.7143
   avg_copies: 3.8
-- name: Pawpatch Formation
+- name: Reprieve
   weight: 0.7143
   avg_copies: 2.6
-- name: Reprieve
+- name: Pawpatch Formation
   weight: 0.7143
   avg_copies: 2.6
 - name: Prismatic Ending
@@ -87,19 +87,19 @@ top_cards:
 - name: Sacred Foundry
   weight: 0.7143
   avg_copies: 1.0
+- name: Raph & Mikey, Troublemakers
+  weight: 0.7143
+  avg_copies: 1.0
 - name: Elegant Parlor
   weight: 0.7143
   avg_copies: 1.0
 - name: Xander's Lounge
   weight: 0.7143
   avg_copies: 1.0
-- name: Raph & Mikey, Troublemakers
-  weight: 0.7143
-  avg_copies: 1.0
-- name: Thundering Falls
+- name: Plains
   weight: 0.5714
   avg_copies: 1.0
-- name: Plains
+- name: Thundering Falls
   weight: 0.5714
   avg_copies: 1.0
 - name: High Noon
@@ -108,19 +108,16 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.4286
   avg_copies: 1.67
-- name: Elesh Norn, Grand Cenobite
+- name: Valgavoth, Terror Eater
   weight: 0.4286
   avg_copies: 1.0
 - name: Boseiju, Who Endures
   weight: 0.4286
   avg_copies: 1.0
-- name: Valgavoth, Terror Eater
+- name: Elesh Norn, Grand Cenobite
   weight: 0.4286
   avg_copies: 1.0
-- name: Leyline of the Void
-  weight: 0.2857
-  avg_copies: 4.0
-- name: Faithless Looting
+- name: Fatal Push
   weight: 0.2857
   avg_copies: 4.0
 - name: Thoughtseize
@@ -129,7 +126,10 @@ top_cards:
 - name: Persist
   weight: 0.2857
   avg_copies: 4.0
-- name: Fatal Push
+- name: Faithless Looting
+  weight: 0.2857
+  avg_copies: 4.0
+- name: Leyline of the Void
   weight: 0.2857
   avg_copies: 4.0
 - name: Orim's Chant
@@ -144,43 +144,43 @@ top_cards:
 - name: Spell Pierce
   weight: 0.2857
   avg_copies: 1.5
-- name: Prismari Command
-  weight: 0.2857
-  avg_copies: 1.0
-- name: Iona, Shield of Emeria
-  weight: 0.2857
-  avg_copies: 1.0
-- name: Ketria Triome
-  weight: 0.2857
-  avg_copies: 1.0
 - name: Abrupt Decay
   weight: 0.2857
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Prismari Command
   weight: 0.2857
   avg_copies: 1.0
 - name: Ziatora's Proving Ground
   weight: 0.2857
   avg_copies: 1.0
+- name: Raucous Theater
+  weight: 0.2857
+  avg_copies: 1.0
+- name: Ketria Triome
+  weight: 0.2857
+  avg_copies: 1.0
+- name: Iona, Shield of Emeria
+  weight: 0.2857
+  avg_copies: 1.0
 - name: Planar Genesis
   weight: 0.1429
   avg_copies: 2.0
-- name: Brainsurge
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Valakut Awakening
+- name: Rest in Peace
   weight: 0.1429
   avg_copies: 1.0
 - name: Veil of Summer
   weight: 0.1429
   avg_copies: 1.0
+- name: Brainsurge
+  weight: 0.1429
+  avg_copies: 1.0
 - name: Emrakul, the Aeons Torn
   weight: 0.1429
   avg_copies: 1.0
-- name: Rest in Peace
+- name: Elesh Norn, Mother of Machines
   weight: 0.1429
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
+- name: Valakut Awakening
   weight: 0.1429
   avg_copies: 1.0
 ---

@@ -25,6 +25,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   mono-green-ramp:
-    weight: 1.0
+    weight: 0.8
     avg_copies: 1.0
 ---

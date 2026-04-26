@@ -6,16 +6,16 @@ name: Izzet Splinter Twin
 meta_share: 0.0009
 list_count: 1
 top_cards:
-- name: Scalding Tarn
+- name: Thundertrap Trainer
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Thundertrap Trainer
+- name: Flame of Anor
   weight: 1.0
   avg_copies: 4.0
-- name: Flame of Anor
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
 - name: Tamiyo, Inquisitive Student
@@ -27,7 +27,7 @@ top_cards:
 - name: Deceiver Exarch
   weight: 1.0
   avg_copies: 4.0
-- name: Flare of Denial
+- name: Island
   weight: 1.0
   avg_copies: 3.0
 - name: Splinter Twin
@@ -39,22 +39,13 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 3.0
-- name: Island
-  weight: 1.0
-  avg_copies: 3.0
 - name: Counterspell
   weight: 1.0
   avg_copies: 3.0
-- name: Misty Rainforest
+- name: Flare of Denial
   weight: 1.0
-  avg_copies: 2.0
-- name: Meltdown
-  weight: 1.0
-  avg_copies: 2.0
-- name: Ragavan, Nimble Pilferer
-  weight: 1.0
-  avg_copies: 2.0
-- name: Snapcaster Mage
+  avg_copies: 3.0
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 2.0
 - name: Thundering Falls
@@ -63,40 +54,49 @@ top_cards:
 - name: Blood Moon
   weight: 1.0
   avg_copies: 2.0
+- name: Misty Rainforest
+  weight: 1.0
+  avg_copies: 2.0
 - name: Lórien Revealed
   weight: 1.0
   avg_copies: 2.0
-- name: Sink into Stupor
+- name: Meltdown
   weight: 1.0
   avg_copies: 2.0
 - name: Spell Snare
   weight: 1.0
   avg_copies: 2.0
-- name: Flooded Strand
+- name: Ragavan, Nimble Pilferer
+  weight: 1.0
+  avg_copies: 2.0
+- name: Snapcaster Mage
+  weight: 1.0
+  avg_copies: 2.0
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 1.0
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
+- name: Ghost Vacuum
+  weight: 1.0
+  avg_copies: 1.0
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 1.0
 - name: Otawara, Soaring City
+  weight: 1.0
+  avg_copies: 1.0
+- name: Damping Sphere
+  weight: 1.0
+  avg_copies: 1.0
+- name: Riverpyre Verge
   weight: 1.0
   avg_copies: 1.0
 - name: Force of Negation
   weight: 1.0
   avg_copies: 1.0
 - name: Surgical Extraction
-  weight: 1.0
-  avg_copies: 1.0
-- name: Damping Sphere
-  weight: 1.0
-  avg_copies: 1.0
-- name: Ghost Vacuum
-  weight: 1.0
-  avg_copies: 1.0
-- name: Riverpyre Verge
-  weight: 1.0
-  avg_copies: 1.0
-- name: Polluted Delta
   weight: 1.0
   avg_copies: 1.0
 ---

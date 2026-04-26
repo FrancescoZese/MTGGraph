@@ -44,14 +44,8 @@ archetypes:
     avg_copies: 1.0
   the-rock:
     weight: 1.0
-    avg_copies: 2.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-7:
+    avg_copies: 1.5
+  selesnya-midrange:
     weight: 1.0
     avg_copies: 2.0
 ---

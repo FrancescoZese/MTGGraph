@@ -10,10 +10,10 @@ type: Sorcery
 meta_presence: 0.0213
 archetypes:
   reanimator:
-    weight: 0.913
+    weight: 0.875
     avg_copies: 3.33
   rakdos-aggro:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 2.0
   goryo1:
     weight: 1.0

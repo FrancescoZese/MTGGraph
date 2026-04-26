@@ -24,8 +24,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   hollow-one:
-    weight: 0.8125
-    avg_copies: 1.77
+    weight: 0.8235
+    avg_copies: 1.79
   boros-ponza:
     weight: 0.0455
     avg_copies: 1.0
@@ -36,18 +36,12 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   rakdos-aggro:
-    weight: 0.8
-    avg_copies: 2.0
+    weight: 0.8333
+    avg_copies: 1.8
   naya-midrange:
     weight: 1.0
     avg_copies: 3.0
-  unknown-6:
+  selesnya-midrange:
     weight: 1.0
     avg_copies: 2.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 1.0
 ---
