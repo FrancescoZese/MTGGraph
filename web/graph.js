@@ -159,7 +159,11 @@ function updateMetaSidebar(data) {
 
         html += `<div class="meta-row${dimmed ? " dimmed" : ""}" data-arch-id="${arch.id}" data-row-index="${i}">`;
         html += `<div class="meta-row-bar" data-scale="${barScale}"></div>`;
+        const pips = (arch.colors || []).map(c =>
+            `<img class="meta-mana" src="https://svgs.scryfall.io/card-symbols/${c}.svg" alt="${c}">`
+        ).join("");
         html += `<span class="meta-row-name">${arch.name}</span>`;
+        html += `<span class="meta-row-mana">${pips}</span>`;
         html += `<span class="meta-row-pct">${pct}%</span>`;
         html += `</div>`;
     }
