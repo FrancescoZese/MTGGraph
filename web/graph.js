@@ -2563,6 +2563,11 @@ function showPlayerDetail(pilot, data) {
 /* ── Drag ── */
 
 function makeDraggable() {
+    // On mobile, fingers landing on nodes were capturing the gesture as a
+    // node-drag instead of a viewport pan / pinch-zoom. Drop the drag
+    // behavior on touch so every touch is forwarded to d3.zoom.
+    // Click handlers still fire on tap (no movement = click, not drag).
+    if (isMobile()) return d3.drag().filter(() => false);
     return d3.drag()
         .on("start", (e, d) => {
             if (!e.active) simulation.alphaTarget(0.3).restart();
