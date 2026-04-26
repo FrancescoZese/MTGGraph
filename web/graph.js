@@ -746,9 +746,12 @@ function renderGraph(data, skipAnimation) {
     const cardG = g.append("g");
     const archG = g.append("g");
 
+    // Mobile: decay faster so the simulation settles in ~3s instead of ~10s.
+    // Long tick'ing keeps Safari iOS busy repainting and blocks pan/zoom fluidity.
+    const decay = skipAnimation ? 0.03 : (isMobile() ? 0.04 : 0.012);
     simulation = d3.forceSimulation(activeNodes)
-        .alphaDecay(skipAnimation ? 0.03 : 0.012)
-        .velocityDecay(0.35)
+        .alphaDecay(decay)
+        .velocityDecay(isMobile() ? 0.45 : 0.35)
         .force("link", d3.forceLink(activeEdges).id(d => d.id)
             .distance(d => 25 + (1 - d.weight) * 25)
             .strength(d => d.weight * 0.35))
@@ -814,18 +817,23 @@ function renderGraph(data, skipAnimation) {
         archEnter.transition().duration(highlightDuration() ? 500 : 0).attr("opacity", 1);
         archSel = archEnter.merge(archSel);
 
-        // Update event handlers
+        // Update event handlers — skip hover/move/out on mobile so iOS does not
+        // synthesise mouse events from taps and burn cycles in handlers that
+        // would have early-returned anyway.
+        const desktop = !isMobile();
+        if (desktop) {
+            cardSel
+                .on("mouseover", (event, d) => {
+                    let html = `<div class="tt-name">${d.name}</div>`;
+                    html += `<div class="tt-stat">${(d.meta_presence * 100).toFixed(1)}% presence</div>`;
+                    if (d.image) html += `<img src="${d.image}" alt="${d.name}">`;
+                    tooltip.innerHTML = html;
+                    showTooltipEl();
+                })
+                .on("mousemove", (event) => moveTooltip(event))
+                .on("mouseout", () => hideTooltip());
+        }
         cardSel
-            .on("mouseover", (event, d) => {
-                if (isMobile()) return;
-                let html = `<div class="tt-name">${d.name}</div>`;
-                html += `<div class="tt-stat">${(d.meta_presence * 100).toFixed(1)}% presence</div>`;
-                if (d.image) html += `<img src="${d.image}" alt="${d.name}">`;
-                tooltip.innerHTML = html;
-                showTooltipEl();
-            })
-            .on("mousemove", (event) => { if (!isMobile()) moveTooltip(event); })
-            .on("mouseout", () => { if (!isMobile()) hideTooltip(); })
             .on("click", (event, d) => {
                 event.stopPropagation();
                 if (isHighlighted) { resetHighlight(); return; }
@@ -834,16 +842,18 @@ function renderGraph(data, skipAnimation) {
                 if (isMobile()) centerOnConnected(d, validEdges);
             });
 
+        if (desktop) {
+            archSel
+                .on("mouseover", (event, d) => {
+                    let html = `<div class="tt-name">${d.name}</div>`;
+                    html += `<div class="tt-stat">${(d.meta_share * 100).toFixed(1)}% &middot; ${d.list_count} lists</div>`;
+                    tooltip.innerHTML = html;
+                    showTooltipEl();
+                })
+                .on("mousemove", (event) => moveTooltip(event))
+                .on("mouseout", () => hideTooltip());
+        }
         archSel
-            .on("mouseover", (event, d) => {
-                if (isMobile()) return;
-                let html = `<div class="tt-name">${d.name}</div>`;
-                html += `<div class="tt-stat">${(d.meta_share * 100).toFixed(1)}% &middot; ${d.list_count} lists</div>`;
-                tooltip.innerHTML = html;
-                showTooltipEl();
-            })
-            .on("mousemove", (event) => { if (!isMobile()) moveTooltip(event); })
-            .on("mouseout", () => { if (!isMobile()) hideTooltip(); })
             .on("click", (event, d) => {
                 event.stopPropagation();
                 if (isHighlighted) { resetHighlight(); return; }
