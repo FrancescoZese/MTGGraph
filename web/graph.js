@@ -2119,7 +2119,11 @@ function showArchetypeDetail(d, edges, nodeMap) {
     html += `<div class="panel-name">${d.name}</div>`;
     if (pips) html += `<div class="mana-pips">${pips}</div>`;
     html += `<div class="panel-meta">${(d.meta_share * 100).toFixed(1)}%`;
-    html += `<span class="panel-meta-label">of the meta &middot; ${d.list_count} lists</span></div>`;
+    html += `<span class="panel-meta-label">of the meta &middot; ${d.list_count} lists`;
+    if (lists.length >= 3) {
+        html += ` &middot; <span class="variants-link" id="open-variants">view variants</span>`;
+    }
+    html += `</span></div>`;
     html += `</div>`;
 
     html += `<div class="panel-tabs">`;
@@ -2151,7 +2155,14 @@ function showArchetypeDetail(d, edges, nodeMap) {
         });
     });
 
-    // Variants pill is handled on the graph canvas (see highlight flow)
+    // Wire up variants link
+    const varLink = document.getElementById("open-variants");
+    if (varLink) {
+        varLink.addEventListener("click", (e) => {
+            e.stopPropagation();
+            openVariantsOverlay(d.name, lists, d.colors, d.medoid_index || 0, d.cluster_threshold || 6);
+        });
+    }
 
     // Wire up collapsible list toggles
     document.querySelectorAll(".result-row").forEach(row => {
