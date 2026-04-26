@@ -7,11 +7,11 @@ name: Illness in the Ranks
 scryfall_id: 989a68c1-3b76-4c2d-9db3-23c45be3f9ff
 set: gtc
 type: Enchantment
-meta_presence: 0.0107
+meta_presence: 0.0119
 archetypes:
   necrodominance:
-    weight: 0.0556
-    avg_copies: 1.0
+    weight: 0.15
+    avg_copies: 1.67
   mill:
     weight: 0.1667
     avg_copies: 1.0

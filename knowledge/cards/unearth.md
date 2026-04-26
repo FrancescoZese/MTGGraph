@@ -7,7 +7,7 @@ name: Unearth
 scryfall_id: b1f73271-b70f-40ae-be64-f8de7805923a
 set: 2x2
 type: Sorcery
-meta_presence: 0.0214
+meta_presence: 0.0213
 archetypes:
   reanimator:
     weight: 0.3559
@@ -15,4 +15,7 @@ archetypes:
   rakdos-aggro:
     weight: 0.2
     avg_copies: 2.0
+  unknown-11:
+    weight: 1.0
+    avg_copies: 3.67
 ---

@@ -6,7 +6,7 @@ name: Shelldock Isle
 scryfall_id: 4216656e-90e8-45fc-a0f6-0d0d79d0a021
 set: lrw
 type: Land
-meta_presence: 0.0058
+meta_presence: 0.0051
 archetypes:
   mill:
     weight: 1.0

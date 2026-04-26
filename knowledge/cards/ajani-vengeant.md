@@ -8,9 +8,9 @@ name: Ajani Vengeant
 scryfall_id: f3bf1867-aab4-4935-b891-45489ebeb231
 set: ddh
 type: Legendary Planeswalker — Ajani
-meta_presence: 0.0019
+meta_presence: 0.0017
 archetypes:
   jeskai-energy:
-    weight: 0.026
+    weight: 0.0235
     avg_copies: 1.0
 ---

@@ -6,7 +6,7 @@ name: Valakut, the Molten Pinnacle
 scryfall_id: 37bce60d-2cb0-4772-9f5c-122a7ed426a0
 set: zen
 type: Land
-meta_presence: 0.001
+meta_presence: 0.0009
 archetypes:
   scapeshift-combo:
     weight: 0.25

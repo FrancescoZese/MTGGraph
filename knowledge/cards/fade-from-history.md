@@ -7,12 +7,12 @@ name: Fade from History
 scryfall_id: 71f13f67-e852-4a6a-8f32-b16195e53ec3
 set: bro
 type: Sorcery
-meta_presence: 0.0165
+meta_presence: 0.0162
 archetypes:
   eldrazi-ramp:
-    weight: 0.7619
-    avg_copies: 1.81
+    weight: 0.7727
+    avg_copies: 1.76
   simic-ritual:
-    weight: 0.04
+    weight: 0.0714
     avg_copies: 1.0
 ---

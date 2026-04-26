@@ -7,9 +7,9 @@ name: Screaming Nemesis
 scryfall_id: ce35e6fb-ff54-44c4-a216-7ddd37f46882
 set: dsk
 type: Creature — Spirit
-meta_presence: 0.001
+meta_presence: 0.0009
 archetypes:
   boros-energy:
-    weight: 0.0047
+    weight: 0.0042
     avg_copies: 2.0
 ---

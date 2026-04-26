@@ -10,12 +10,15 @@ type: Sorcery
 meta_presence: 0.0418
 archetypes:
   dimir-control:
-    weight: 0.5319
-    avg_copies: 2.8
+    weight: 0.5283
+    avg_copies: 2.79
   necrodominance:
-    weight: 0.9444
-    avg_copies: 3.65
+    weight: 0.95
+    avg_copies: 3.63
   the-rock:
     weight: 1.0
     avg_copies: 3.0
+  unknown-5:
+    weight: 1.0
+    avg_copies: 2.0
 ---

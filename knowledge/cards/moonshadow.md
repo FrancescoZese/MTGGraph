@@ -7,10 +7,10 @@ name: Moonshadow
 scryfall_id: 2573e694-eaa0-42ca-b470-2ab507cbcec1
 set: ecl
 type: Creature — Elemental
-meta_presence: 0.0214
+meta_presence: 0.0213
 archetypes:
   dimir-control:
-    weight: 0.0426
+    weight: 0.0377
     avg_copies: 4.0
   hollow-one:
     weight: 1.0
@@ -19,6 +19,9 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   rakdos-aggro:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-5:
     weight: 1.0
     avg_copies: 4.0
 ---

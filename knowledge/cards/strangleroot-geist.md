@@ -7,7 +7,7 @@ name: Strangleroot Geist
 scryfall_id: bf1fb137-205c-480f-b6dc-dfa137793ae3
 set: dka
 type: Creature — Spirit
-meta_presence: 0.0117
+meta_presence: 0.0119
 archetypes:
   yawgmoth-combo:
     weight: 1.0

@@ -10,7 +10,7 @@ type: Creature — Human Wizard
 meta_presence: 0.0068
 archetypes:
   samwise-combo:
-    weight: 0.6667
+    weight: 0.7
     avg_copies: 1.0
   elves:
     weight: 1.0

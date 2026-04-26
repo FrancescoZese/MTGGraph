@@ -7,9 +7,12 @@ name: Tajuru Preserver
 scryfall_id: c8d03346-0802-4058-b89e-1b6076963c8e
 set: roe
 type: Creature — Elf Shaman
-meta_presence: 0.0029
+meta_presence: 0.0034
 archetypes:
   scapeshift-combo:
     weight: 0.75
+    avg_copies: 1.0
+  unknown-3:
+    weight: 1.0
     avg_copies: 1.0
 ---

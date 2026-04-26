@@ -3,31 +3,31 @@ colors:
 - W
 - R
 name: Burn
-meta_share: 0.0039
+meta_share: 0.0034
 list_count: 4
 top_cards:
 - name: Boltwave
   weight: 1.0
   avg_copies: 4.0
-- name: Lava Spike
+- name: Monastery Swiftspear
   weight: 1.0
   avg_copies: 4.0
 - name: Goblin Guide
   weight: 1.0
   avg_copies: 4.0
-- name: Monastery Swiftspear
+- name: Lava Spike
   weight: 1.0
   avg_copies: 4.0
 - name: Skullcrack
   weight: 1.0
   avg_copies: 3.75
-- name: Barbarian Ring
-  weight: 1.0
-  avg_copies: 3.25
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 3.25
 - name: Skewer the Critics
+  weight: 1.0
+  avg_copies: 3.25
+- name: Barbarian Ring
   weight: 1.0
   avg_copies: 3.25
 - name: Mountain
@@ -69,25 +69,25 @@ top_cards:
 - name: Searing Blood
   weight: 0.5
   avg_copies: 3.0
-- name: Arid Mesa
+- name: Shard Volley
   weight: 0.5
   avg_copies: 2.0
 - name: Deflecting Palm
   weight: 0.5
   avg_copies: 2.0
-- name: Obsidian Charmaw
-  weight: 0.5
-  avg_copies: 2.0
-- name: Shard Volley
+- name: Arid Mesa
   weight: 0.5
   avg_copies: 2.0
 - name: Surgical Extraction
   weight: 0.5
   avg_copies: 2.0
-- name: Exquisite Firecraft
+- name: Obsidian Charmaw
+  weight: 0.5
+  avg_copies: 2.0
+- name: Sacred Foundry
   weight: 0.5
   avg_copies: 1.5
-- name: Sacred Foundry
+- name: Exquisite Firecraft
   weight: 0.5
   avg_copies: 1.5
 - name: Raucous Theater
@@ -96,34 +96,34 @@ top_cards:
 - name: Sanctifier en-Vec
   weight: 0.25
   avg_copies: 4.0
-- name: Roiling Vortex
+- name: Chandra's Incinerator
   weight: 0.25
   avg_copies: 3.0
 - name: Arena of Glory
   weight: 0.25
   avg_copies: 3.0
-- name: Chandra's Incinerator
+- name: Roiling Vortex
   weight: 0.25
   avg_copies: 3.0
 - name: Eidolon of the Great Revel
   weight: 0.25
   avg_copies: 2.5
-- name: Meltdown
+- name: Damping Sphere
   weight: 0.25
   avg_copies: 2.0
 - name: Wear
   weight: 0.25
   avg_copies: 2.0
-- name: Damping Sphere
-  weight: 0.25
-  avg_copies: 2.0
 - name: Tunnel Ignus
   weight: 0.25
   avg_copies: 2.0
-- name: Disruptor Flute
+- name: Meltdown
+  weight: 0.25
+  avg_copies: 2.0
+- name: Ragavan, Nimble Pilferer
   weight: 0.25
   avg_copies: 1.0
-- name: Ragavan, Nimble Pilferer
+- name: Disruptor Flute
   weight: 0.25
   avg_copies: 1.0
 - name: Molten Rain

@@ -6,20 +6,20 @@ name: Vexing Bauble
 scryfall_id: 29f11089-658f-42e6-aeb0-09b512ad2479
 set: mh3
 type: Artifact
-meta_presence: 0.3084
+meta_presence: 0.3043
 archetypes:
   ruby-storm:
-    weight: 0.0714
+    weight: 0.0645
     avg_copies: 1.0
   boros-energy:
-    weight: 0.2749
-    avg_copies: 1.62
+    weight: 0.3167
+    avg_copies: 1.58
   eldrazi-tron:
-    weight: 0.6905
-    avg_copies: 1.11
+    weight: 0.6596
+    avg_copies: 1.1
   amulet-titan:
-    weight: 0.5909
-    avg_copies: 1.18
+    weight: 0.5833
+    avg_copies: 1.21
   reanimator:
     weight: 0.0678
     avg_copies: 1.75
@@ -27,41 +27,41 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   affinity:
-    weight: 0.6667
-    avg_copies: 1.2
+    weight: 0.6486
+    avg_copies: 1.18
   domain-zoo:
-    weight: 0.0294
+    weight: 0.027
     avg_copies: 1.0
   mono-red-belcher:
-    weight: 0.75
+    weight: 0.5
     avg_copies: 2.33
   hammer-time:
     weight: 1.0
     avg_copies: 1.5
   hollow-one:
-    weight: 0.8571
-    avg_copies: 2.25
+    weight: 0.875
+    avg_copies: 2.29
   boros-ponza:
-    weight: 1.0
+    weight: 0.9545
     avg_copies: 2.0
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 1.17
+    avg_copies: 1.14
   eldrazi-ramp:
-    weight: 0.9524
-    avg_copies: 1.55
+    weight: 0.9545
+    avg_copies: 1.57
   izzet-prowess:
-    weight: 0.119
+    weight: 0.1111
     avg_copies: 2.0
   samwise-combo:
-    weight: 0.6667
+    weight: 0.6
     avg_copies: 2.0
   broodscale-combo:
     weight: 1.0
-    avg_copies: 1.4
+    avg_copies: 1.44
   orzhov-blink:
     weight: 0.75
     avg_copies: 1.33
@@ -69,7 +69,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   izzet-artifacts:
-    weight: 0.4762
+    weight: 0.4
     avg_copies: 1.0
   elves:
     weight: 1.0
@@ -98,4 +98,10 @@ archetypes:
   the-rock:
     weight: 1.0
     avg_copies: 1.0
+  unknown-8:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-14:
+    weight: 1.0
+    avg_copies: 3.0
 ---

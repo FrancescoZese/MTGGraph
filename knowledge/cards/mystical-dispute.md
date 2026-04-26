@@ -7,41 +7,41 @@ name: Mystical Dispute
 scryfall_id: fbe04cb8-a8b9-4241-baae-b398a2509a3a
 set: eld
 type: Instant
-meta_presence: 0.4339
+meta_presence: 0.428
 archetypes:
   dimir-control:
     weight: 1.0
-    avg_copies: 2.23
+    avg_copies: 2.19
   mono-blue-belcher:
-    weight: 0.9583
+    weight: 0.9231
     avg_copies: 2.04
   jeskai-energy:
-    weight: 1.0
-    avg_copies: 2.31
+    weight: 0.9882
+    avg_copies: 2.32
   reanimator:
     weight: 0.9322
     avg_copies: 2.51
   necrodominance:
-    weight: 0.0556
+    weight: 0.05
     avg_copies: 3.0
   azorius-control:
     weight: 1.0
-    avg_copies: 3.04
+    avg_copies: 3.0
   living-end:
-    weight: 0.9474
-    avg_copies: 3.33
+    weight: 0.9524
+    avg_copies: 3.35
   affinity:
-    weight: 0.8081
-    avg_copies: 1.35
+    weight: 0.8108
+    avg_copies: 1.36
   domain-zoo:
-    weight: 0.9706
-    avg_copies: 2.79
+    weight: 0.973
+    avg_copies: 2.78
   mill:
     weight: 0.1667
     avg_copies: 2.0
   neoform-combo:
-    weight: 0.9091
-    avg_copies: 3.35
+    weight: 0.92
+    avg_copies: 3.26
   mono-blue-tron:
     weight: 0.6667
     avg_copies: 2.0
@@ -50,16 +50,16 @@ archetypes:
     avg_copies: 2.0
   simic-ritual:
     weight: 1.0
-    avg_copies: 2.92
+    avg_copies: 2.93
   izzet-prowess:
-    weight: 0.2381
-    avg_copies: 1.4
+    weight: 0.2444
+    avg_copies: 1.45
   4c-omnath:
     weight: 1.0
     avg_copies: 1.5
   esper-blink:
-    weight: 0.7
-    avg_copies: 2.14
+    weight: 0.7273
+    avg_copies: 2.12
   indomitable-creativity:
     weight: 0.7143
     avg_copies: 2.0
@@ -70,14 +70,14 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   izzet-artifacts:
-    weight: 0.1905
-    avg_copies: 1.5
+    weight: 0.2
+    avg_copies: 1.4
   esper-control:
     weight: 1.0
     avg_copies: 3.0
   grixis-control:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.33
   eldrazi-breach:
     weight: 1.0
     avg_copies: 2.0
@@ -90,4 +90,19 @@ archetypes:
   esper-midrange:
     weight: 1.0
     avg_copies: 2.0
+  unknown-1:
+    weight: 1.0
+    avg_copies: 2.5
+  unknown-2:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-11:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-12:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-13:
+    weight: 1.0
+    avg_copies: 3.0
 ---

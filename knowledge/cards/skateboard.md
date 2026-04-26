@@ -6,10 +6,10 @@ name: Skateboard
 scryfall_id: deadb6d8-3eea-4261-a07c-8536df89e85c
 set: tmt
 type: Artifact — Equipment
-meta_presence: 0.1099
+meta_presence: 0.1091
 archetypes:
   affinity:
-    weight: 0.9596
+    weight: 0.964
     avg_copies: 1.0
   hammer-time:
     weight: 0.5
@@ -18,9 +18,12 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   izzet-artifacts:
-    weight: 0.5238
+    weight: 0.52
     avg_copies: 1.0
   jund-saga:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-17:
     weight: 1.0
     avg_copies: 1.0
 ---

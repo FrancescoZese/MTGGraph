@@ -6,9 +6,12 @@ name: Lantern of the Lost
 scryfall_id: c2303f11-2c82-44d5-893a-8e71dece7746
 set: vow
 type: Artifact
-meta_presence: 0.001
+meta_presence: 0.0017
 archetypes:
   mono-red-belcher:
-    weight: 0.25
+    weight: 0.1667
+    avg_copies: 2.0
+  unknown-16:
+    weight: 1.0
     avg_copies: 2.0
 ---

@@ -3,25 +3,13 @@ colors:
 - U
 - R
 name: Eldrazi Breach
-meta_share: 0.0019
+meta_share: 0.0017
 list_count: 2
 top_cards:
-- name: Emrakul, the Aeons Torn
-  weight: 1.0
-  avg_copies: 4.0
-- name: Stock Up
-  weight: 1.0
-  avg_copies: 4.0
-- name: Through the Breach
-  weight: 1.0
-  avg_copies: 4.0
-- name: Consign to Memory
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
 - name: Talisman of Creativity
-  weight: 1.0
-  avg_copies: 4.0
-- name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
 - name: Ugin's Labyrinth
@@ -30,37 +18,49 @@ top_cards:
 - name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
+- name: Through the Breach
+  weight: 1.0
+  avg_copies: 4.0
 - name: Kozilek's Command
+  weight: 1.0
+  avg_copies: 4.0
+- name: Emrakul, the Aeons Torn
+  weight: 1.0
+  avg_copies: 4.0
+- name: Stock Up
+  weight: 1.0
+  avg_copies: 4.0
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
 - name: Devourer of Destiny
   weight: 1.0
   avg_copies: 3.5
-- name: Nulldrifter
-  weight: 1.0
-  avg_copies: 3.0
 - name: Preordain
   weight: 1.0
   avg_copies: 3.0
-- name: Shivan Reef
+- name: Nulldrifter
   weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Soulless Jailer
   weight: 1.0
   avg_copies: 2.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 2.0
-- name: Mystical Dispute
+- name: Island
   weight: 1.0
   avg_copies: 2.0
 - name: Disruptor Flute
   weight: 1.0
   avg_copies: 2.0
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 2.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 2.0
-- name: Island
+- name: Shivan Reef
+  weight: 1.0
+  avg_copies: 2.0
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
 - name: Kozilek's Return
@@ -69,37 +69,37 @@ top_cards:
 - name: Spell Snare
   weight: 1.0
   avg_copies: 1.5
-- name: Dress Down
-  weight: 1.0
-  avg_copies: 1.0
-- name: Vexing Bauble
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 1.0
-- name: Mountain
-  weight: 1.0
-  avg_copies: 1.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 1.0
+- name: Vexing Bauble
+  weight: 1.0
+  avg_copies: 1.0
+- name: Dress Down
+  weight: 1.0
+  avg_copies: 1.0
+- name: Talisman of Curiosity
+  weight: 0.5
+  avg_copies: 2.0
 - name: Fable of the Mirror-Breaker
   weight: 0.5
   avg_copies: 2.0
 - name: Remand
   weight: 0.5
   avg_copies: 2.0
-- name: Talisman of Curiosity
-  weight: 0.5
-  avg_copies: 2.0
 - name: Lórien Revealed
   weight: 0.5
   avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Thundering Falls
   weight: 0.5
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Gemstone Caverns
   weight: 0.5
   avg_copies: 1.0
 ---

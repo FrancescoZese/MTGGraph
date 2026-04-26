@@ -6,9 +6,12 @@ name: Mana Confluence
 scryfall_id: 504a69eb-3c2d-4bb1-b117-252b15acf0c2
 set: jou
 type: Land
-meta_presence: 0.001
+meta_presence: 0.0017
 archetypes:
   samwise-combo:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 2.0
+  unknown-17:
+    weight: 1.0
+    avg_copies: 3.0
 ---

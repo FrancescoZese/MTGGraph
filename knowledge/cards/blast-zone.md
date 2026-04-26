@@ -6,9 +6,12 @@ name: Blast Zone
 scryfall_id: cdad14f1-d541-4e58-af9f-f8e587fca05f
 set: cmm
 type: Land
-meta_presence: 0.0029
+meta_presence: 0.0034
 archetypes:
   scapeshift-combo:
     weight: 0.75
+    avg_copies: 1.0
+  unknown-14:
+    weight: 1.0
     avg_copies: 1.0
 ---

@@ -8,7 +8,7 @@ name: Prized Amalgam
 scryfall_id: 844c9fa7-8751-49be-827a-7fb6986bae59
 set: 2x2
 type: Creature — Zombie
-meta_presence: 0.001
+meta_presence: 0.0009
 archetypes:
   dredge:
     weight: 0.25

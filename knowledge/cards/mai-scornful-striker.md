@@ -13,12 +13,12 @@ archetypes:
     weight: 0.0169
     avg_copies: 1.0
   necrodominance:
-    weight: 0.0556
+    weight: 0.05
     avg_copies: 2.0
   living-end:
-    weight: 0.4737
+    weight: 0.4762
     avg_copies: 1.0
   mono-green-ramp:
     weight: 1.0
-    avg_copies: 2.67
+    avg_copies: 2.75
 ---

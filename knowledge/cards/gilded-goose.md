@@ -7,7 +7,7 @@ name: Gilded Goose
 scryfall_id: 5ea59511-24b1-4925-9948-9d4c0d27d1c5
 set: soc
 type: Creature — Bird
-meta_presence: 0.0088
+meta_presence: 0.0085
 archetypes:
   samwise-combo:
     weight: 1.0

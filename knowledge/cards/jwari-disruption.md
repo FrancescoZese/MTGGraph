@@ -6,9 +6,9 @@ name: Jwari Disruption // Jwari Ruins
 scryfall_id: 301750a7-d1fd-435e-bfa8-9d2fb22ad627
 set: znr
 type: Instant // Land
-meta_presence: 0.0233
+meta_presence: 0.0222
 archetypes:
   mono-blue-belcher:
     weight: 1.0
-    avg_copies: 3.25
+    avg_copies: 3.27
 ---

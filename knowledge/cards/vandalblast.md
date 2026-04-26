@@ -10,9 +10,9 @@ type: Sorcery
 meta_presence: 0.0136
 archetypes:
   affinity:
-    weight: 0.0404
+    weight: 0.036
     avg_copies: 1.0
   izzet-artifacts:
-    weight: 0.4762
-    avg_copies: 2.3
+    weight: 0.48
+    avg_copies: 2.25
 ---

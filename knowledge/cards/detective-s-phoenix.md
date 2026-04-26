@@ -7,14 +7,14 @@ name: Detective's Phoenix
 scryfall_id: e2a01edd-dbc0-4ed4-b827-9b608290e9a1
 set: mh3
 type: Enchantment Creature — Phoenix
-meta_presence: 0.0272
+meta_presence: 0.0298
 archetypes:
   reanimator:
     weight: 0.0169
     avg_copies: 2.0
   mardu-blink:
-    weight: 1.0
-    avg_copies: 1.71
+    weight: 0.9091
+    avg_copies: 1.8
   hollow-one:
     weight: 1.0
     avg_copies: 4.0
@@ -24,4 +24,10 @@ archetypes:
   rakdos-aggro:
     weight: 1.0
     avg_copies: 3.6
+  unknown-6:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-5:
+    weight: 1.0
+    avg_copies: 2.0
 ---

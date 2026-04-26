@@ -6,12 +6,15 @@ name: Goblin Charbelcher
 scryfall_id: 240344ff-404d-4894-a6e9-4401cd68cf50
 set: ddt
 type: Artifact
-meta_presence: 0.0272
+meta_presence: 0.0281
 archetypes:
   mono-blue-belcher:
     weight: 1.0
     avg_copies: 4.0
   mono-red-belcher:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-10:
     weight: 1.0
     avg_copies: 4.0
 ---

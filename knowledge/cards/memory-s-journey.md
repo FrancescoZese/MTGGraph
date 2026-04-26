@@ -7,9 +7,12 @@ name: Memory's Journey
 scryfall_id: 265aaa73-1a1e-4282-a860-f7c422f21db3
 set: isd
 type: Instant
-meta_presence: 0.0019
+meta_presence: 0.0034
 archetypes:
   dredge:
     weight: 0.5
     avg_copies: 1.5
+  unknown-4:
+    weight: 1.0
+    avg_copies: 1.0
 ---

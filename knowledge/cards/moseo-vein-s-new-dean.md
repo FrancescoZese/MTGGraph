@@ -7,9 +7,9 @@ name: Moseo, Vein's New Dean
 scryfall_id: 6877180c-22a1-4c4d-9178-316f4c34661b
 set: sos
 type: Legendary Creature — Bird Skeleton Warlock
-meta_presence: 0.001
+meta_presence: 0.0009
 archetypes:
   samwise-combo:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 2.0
 ---
