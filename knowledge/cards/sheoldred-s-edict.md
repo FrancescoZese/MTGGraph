@@ -10,8 +10,8 @@ type: Instant
 meta_presence: 0.063
 archetypes:
   dimir-control:
-    weight: 0.9322
-    avg_copies: 2.05
+    weight: 0.9032
+    avg_copies: 2.03
   necrodominance:
     weight: 0.4286
     avg_copies: 1.89
@@ -19,7 +19,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.33
   reanimator:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 1.0
   mardu-blink:
     weight: 0.4667
@@ -42,10 +42,7 @@ archetypes:
   the-rock:
     weight: 0.5
     avg_copies: 4.0
-  unknown-22:
-    weight: 0.3333
-    avg_copies: 1.0
-  unknown-26:
+  sultai-midrange:
     weight: 1.0
     avg_copies: 2.0
 ---

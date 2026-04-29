@@ -11,7 +11,7 @@ type: Sorcery
 meta_presence: 0.0232
 archetypes:
   dimir-control:
-    weight: 0.1186
+    weight: 0.1129
     avg_copies: 1.54
   goryo:
     weight: 0.375

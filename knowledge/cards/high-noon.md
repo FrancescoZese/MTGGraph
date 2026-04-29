@@ -13,7 +13,7 @@ archetypes:
     weight: 0.5865
     avg_copies: 1.56
   dimir-control:
-    weight: 0.0678
+    weight: 0.0645
     avg_copies: 1.5
   jeskai-energy:
     weight: 0.9667
@@ -29,7 +29,7 @@ archetypes:
     avg_copies: 1.0
   jeskai-control:
     weight: 0.5
-    avg_copies: 1.5
+    avg_copies: 1.55
   domain-zoo:
     weight: 0.1333
     avg_copies: 1.0
@@ -70,9 +70,6 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   soultrader-combo0:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-19:
     weight: 1.0
     avg_copies: 2.0
 ---

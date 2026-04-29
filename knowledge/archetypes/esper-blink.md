@@ -7,25 +7,25 @@ name: Esper Blink
 meta_share: 0.0087
 list_count: 12
 top_cards:
-- name: Overlord of the Balemurk
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 3.92
 - name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.92
-- name: Quantum Riddler
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 3.92
+- name: Fatal Push
   weight: 1.0
   avg_copies: 3.42
-- name: Fatal Push
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 3.42
 - name: Consign to Memory
@@ -49,9 +49,6 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.08
-- name: Meticulous Archive
-  weight: 1.0
-  avg_copies: 1.0
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
@@ -59,6 +56,9 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Watery Grave
+  weight: 1.0
+  avg_copies: 1.0
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Thoughtseize
@@ -97,10 +97,10 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.5833
   avg_copies: 2.57
-- name: Surgical Extraction
+- name: Island
   weight: 0.25
   avg_copies: 1.0
-- name: Island
+- name: Surgical Extraction
   weight: 0.25
   avg_copies: 1.0
 - name: Bleachbone Verge
@@ -112,10 +112,10 @@ top_cards:
 - name: Clarion Conqueror
   weight: 0.1667
   avg_copies: 2.0
-- name: Ashiok, Dream Render
+- name: Floodfarm Verge
   weight: 0.1667
   avg_copies: 1.0
-- name: Floodfarm Verge
+- name: Ashiok, Dream Render
   weight: 0.1667
   avg_copies: 1.0
 - name: Force of Negation
@@ -130,13 +130,10 @@ top_cards:
 - name: White Orchid Phantom
   weight: 0.0833
   avg_copies: 2.0
-- name: Skycoach Conductor
+- name: Strix Serenade
   weight: 0.0833
   avg_copies: 1.0
-- name: Windswept Heath
-  weight: 0.0833
-  avg_copies: 1.0
-- name: March of Otherworldly Light
+- name: Celestial Purge
   weight: 0.0833
   avg_copies: 1.0
 - name: Emptiness
@@ -145,16 +142,19 @@ top_cards:
 - name: Elesh Norn, Mother of Machines
   weight: 0.0833
   avg_copies: 1.0
-- name: Hydroelectric Specimen
+- name: Skycoach Conductor
   weight: 0.0833
   avg_copies: 1.0
-- name: Strix Serenade
+- name: March of Otherworldly Light
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Hydroelectric Specimen
   weight: 0.0833
   avg_copies: 1.0
 - name: Erode
   weight: 0.0833
   avg_copies: 1.0
-- name: Celestial Purge
+- name: Windswept Heath
   weight: 0.0833
   avg_copies: 1.0
 ---

@@ -15,6 +15,9 @@ archetypes:
   jeskai-energy:
     weight: 0.9889
     avg_copies: 3.49
+  jeskai-control:
+    weight: 0.0455
+    avg_copies: 4.0
   domain-zoo:
     weight: 0.9778
     avg_copies: 3.91
@@ -46,9 +49,6 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   soultrader-combo0:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-23:
     weight: 1.0
     avg_copies: 4.0
 ---

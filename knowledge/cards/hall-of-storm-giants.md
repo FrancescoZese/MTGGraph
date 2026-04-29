@@ -9,13 +9,13 @@ type: Land
 meta_presence: 0.0166
 archetypes:
   dimir-control:
-    weight: 0.0169
+    weight: 0.0161
     avg_copies: 1.0
   azorius-control:
     weight: 0.6923
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.15
+    weight: 0.1364
     avg_copies: 1.0
   mono-blue-tron:
     weight: 0.5
@@ -32,7 +32,7 @@ archetypes:
   unknown-25:
     weight: 1.0
     avg_copies: 1.0
-  unknown-26:
+  sultai-midrange:
     weight: 1.0
     avg_copies: 1.0
 ---

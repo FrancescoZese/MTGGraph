@@ -10,8 +10,8 @@ type: Legendary Enchantment
 meta_presence: 0.021
 archetypes:
   dimir-control:
-    weight: 0.1017
-    avg_copies: 1.83
+    weight: 0.1129
+    avg_copies: 1.86
   necrodominance:
     weight: 0.7143
     avg_copies: 1.33
@@ -24,7 +24,4 @@ archetypes:
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 1.0
-  unknown-22:
-    weight: 0.3333
-    avg_copies: 2.0
 ---

@@ -13,7 +13,7 @@ archetypes:
   mono-green-ramp:
     weight: 0.8
     avg_copies: 3.0
-  unknown-24:
+  devoted-combo:
     weight: 1.0
     avg_copies: 4.0
 ---

@@ -13,7 +13,7 @@ archetypes:
     weight: 0.1538
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.25
+    weight: 0.2273
     avg_copies: 1.0
   4c-omnath:
     weight: 0.25

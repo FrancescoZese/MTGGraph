@@ -18,7 +18,7 @@ archetypes:
     weight: 0.04
     avg_copies: 2.0
   reanimator:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 4.0
   neoform-combo:
     weight: 0.3214
@@ -62,7 +62,7 @@ archetypes:
   unknown-4:
     weight: 1.0
     avg_copies: 4.0
-  unknown-24:
+  devoted-combo:
     weight: 1.0
     avg_copies: 4.0
 ---

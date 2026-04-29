@@ -6,13 +6,13 @@ name: Eldrazi Ramp
 meta_share: 0.0203
 list_count: 28
 top_cards:
-- name: Sowing Mycospawn
-  weight: 1.0
-  avg_copies: 4.0
 - name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
 - name: Ugin's Labyrinth
+  weight: 1.0
+  avg_copies: 4.0
+- name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
 - name: Kozilek's Command
@@ -126,19 +126,19 @@ top_cards:
 - name: Meltdown
   weight: 0.2857
   avg_copies: 1.12
-- name: Ensnaring Bridge
-  weight: 0.2857
-  avg_copies: 1.0
-- name: Tormod's Crypt
-  weight: 0.2857
-  avg_copies: 1.0
 - name: Liquimetal Coating
+  weight: 0.2857
+  avg_copies: 1.0
+- name: Engineered Explosives
   weight: 0.2857
   avg_copies: 1.0
 - name: The Stone Brain
   weight: 0.2857
   avg_copies: 1.0
-- name: Engineered Explosives
+- name: Tormod's Crypt
+  weight: 0.2857
+  avg_copies: 1.0
+- name: Ensnaring Bridge
   weight: 0.2857
   avg_copies: 1.0
 - name: Chalice of the Void
@@ -147,13 +147,13 @@ top_cards:
 - name: Nulldrifter
   weight: 0.1786
   avg_copies: 3.0
-- name: Dismember
+- name: Magus of the Moon
   weight: 0.1786
   avg_copies: 2.0
 - name: Talisman of Curiosity
   weight: 0.1786
   avg_copies: 2.0
-- name: Magus of the Moon
+- name: Dismember
   weight: 0.1786
   avg_copies: 2.0
 - name: Hedge Maze
@@ -174,10 +174,10 @@ top_cards:
 - name: Void Mirror
   weight: 0.1429
   avg_copies: 1.0
-- name: Six
+- name: Breeding Pool
   weight: 0.1429
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Six
   weight: 0.1429
   avg_copies: 1.0
 - name: Surgical Extraction
@@ -186,10 +186,10 @@ top_cards:
 - name: Strix Serenade
   weight: 0.1071
   avg_copies: 1.33
-- name: Boseiju, Who Endures
+- name: Gemstone Caverns
   weight: 0.1071
   avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Boseiju, Who Endures
   weight: 0.1071
   avg_copies: 1.0
 - name: Damping Sphere
@@ -204,25 +204,25 @@ top_cards:
 - name: Blasphemous Act
   weight: 0.0714
   avg_copies: 1.5
-- name: Ilharg, the Raze-Boar
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Cityscape Leveler
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Arena of Glory
+- name: Keen-Eyed Curator
   weight: 0.0714
   avg_copies: 1.0
 - name: Vibrance
   weight: 0.0714
   avg_copies: 1.0
-- name: Wastescape Battlemage
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Keen-Eyed Curator
-  weight: 0.0714
-  avg_copies: 1.0
 - name: Palantír of Orthanc
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Ilharg, the Raze-Boar
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Arena of Glory
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Cityscape Leveler
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Wastescape Battlemage
   weight: 0.0714
   avg_copies: 1.0
 - name: Thought-Knot Seer
@@ -234,25 +234,25 @@ top_cards:
 - name: Darksteel Citadel
   weight: 0.0357
   avg_copies: 1.0
+- name: Hedron Archive
+  weight: 0.0357
+  avg_copies: 1.0
 - name: Thief of Existence
   weight: 0.0357
   avg_copies: 1.0
 - name: Ratchet Bomb
   weight: 0.0357
   avg_copies: 1.0
-- name: Untimely Malfunction
+- name: Ketria Triome
   weight: 0.0357
   avg_copies: 1.0
 - name: Ugin, the Spirit Dragon
   weight: 0.0357
   avg_copies: 1.0
-- name: Ketria Triome
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Hedron Archive
-  weight: 0.0357
-  avg_copies: 1.0
 - name: Stone Rain
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Untimely Malfunction
   weight: 0.0357
   avg_copies: 1.0
 ---

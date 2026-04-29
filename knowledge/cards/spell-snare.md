@@ -10,8 +10,8 @@ type: Instant
 meta_presence: 0.1194
 archetypes:
   dimir-control:
-    weight: 0.9831
-    avg_copies: 2.53
+    weight: 0.9839
+    avg_copies: 2.52
   mono-blue-belcher:
     weight: 0.8621
     avg_copies: 1.82
@@ -25,10 +25,10 @@ archetypes:
     weight: 0.7692
     avg_copies: 1.9
   jeskai-control:
-    weight: 0.45
+    weight: 0.4091
     avg_copies: 1.6
   reanimator:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 1.0
   neoform-combo:
     weight: 0.0357
@@ -78,13 +78,10 @@ archetypes:
   izzet-murktide:
     weight: 1.0
     avg_copies: 2.0
-  unknown-22:
-    weight: 1.0
-    avg_copies: 2.33
   unknown-25:
     weight: 1.0
     avg_copies: 2.0
-  unknown-26:
+  sultai-midrange:
     weight: 1.0
     avg_copies: 2.0
 ---

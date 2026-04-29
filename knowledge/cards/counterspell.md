@@ -19,8 +19,8 @@ archetypes:
     weight: 0.7692
     avg_copies: 3.2
   jeskai-control:
-    weight: 0.8
-    avg_copies: 2.31
+    weight: 0.7727
+    avg_copies: 2.35
   bant-control:
     weight: 1.0
     avg_copies: 4.0
@@ -45,13 +45,7 @@ archetypes:
   4c-omnath9:
     weight: 0.5
     avg_copies: 4.0
-  unknown-22:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-23:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-26:
+  sultai-midrange:
     weight: 1.0
     avg_copies: 3.0
 ---

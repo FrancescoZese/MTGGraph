@@ -13,8 +13,8 @@ archetypes:
     weight: 0.6389
     avg_copies: 1.35
   reanimator:
-    weight: 0.04
-    avg_copies: 1.0
+    weight: 0.0769
+    avg_copies: 1.5
   mono-red-belcher:
     weight: 1.0
     avg_copies: 2.62
@@ -34,9 +34,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   izzet-murktide:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-21:
     weight: 1.0
     avg_copies: 2.0
 ---

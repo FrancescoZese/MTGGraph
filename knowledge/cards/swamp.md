@@ -9,7 +9,7 @@ type: Basic Land — Swamp
 meta_presence: 0.2185
 archetypes:
   dimir-control:
-    weight: 0.9831
+    weight: 0.9839
     avg_copies: 1.03
   eldrazi-tron:
     weight: 0.7736
@@ -28,7 +28,7 @@ archetypes:
     avg_copies: 1.5
   reanimator:
     weight: 1.0
-    avg_copies: 1.68
+    avg_copies: 1.69
   mardu-blink:
     weight: 0.0667
     avg_copies: 1.0
@@ -86,16 +86,10 @@ archetypes:
   soultrader-combo:
     weight: 1.0
     avg_copies: 2.5
-  unknown-22:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-21:
-    weight: 1.0
-    avg_copies: 2.0
   unknown-4:
     weight: 1.0
     avg_copies: 1.0
-  unknown-26:
+  sultai-midrange:
     weight: 1.0
     avg_copies: 1.0
 ---

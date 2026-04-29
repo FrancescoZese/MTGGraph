@@ -15,14 +15,14 @@ archetypes:
     weight: 0.0113
     avg_copies: 2.67
   dimir-control:
-    weight: 0.1017
+    weight: 0.0968
     avg_copies: 2.33
   necrodominance:
     weight: 0.1429
     avg_copies: 3.33
   reanimator:
-    weight: 0.88
-    avg_copies: 3.86
+    weight: 0.8846
+    avg_copies: 3.74
   burn:
     weight: 0.6667
     avg_copies: 2.0
@@ -65,9 +65,6 @@ archetypes:
   soultrader-combo:
     weight: 1.0
     avg_copies: 1.5
-  unknown-21:
-    weight: 1.0
-    avg_copies: 1.0
   unknown-4:
     weight: 1.0
     avg_copies: 1.0

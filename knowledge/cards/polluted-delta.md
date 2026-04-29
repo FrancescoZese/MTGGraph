@@ -10,7 +10,7 @@ meta_presence: 0.1816
 archetypes:
   dimir-control:
     weight: 1.0
-    avg_copies: 3.71
+    avg_copies: 3.73
   goryo:
     weight: 1.0
     avg_copies: 3.64
@@ -30,8 +30,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.88
   reanimator:
-    weight: 0.96
-    avg_copies: 3.75
+    weight: 0.9615
+    avg_copies: 3.68
   neoform-combo:
     weight: 0.5714
     avg_copies: 1.12
@@ -92,13 +92,7 @@ archetypes:
   izzet-murktide:
     weight: 1.0
     avg_copies: 1.0
-  unknown-22:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-21:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-26:
+  sultai-midrange:
     weight: 1.0
     avg_copies: 4.0
 ---

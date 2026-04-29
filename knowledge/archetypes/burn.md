@@ -30,10 +30,10 @@ top_cards:
 - name: Wooded Foothills
   weight: 1.0
   avg_copies: 2.17
-- name: Goblin Guide
+- name: Monastery Swiftspear
   weight: 0.8333
   avg_copies: 4.0
-- name: Monastery Swiftspear
+- name: Goblin Guide
   weight: 0.8333
   avg_copies: 4.0
 - name: Smash to Smithereens
@@ -60,10 +60,10 @@ top_cards:
 - name: Scalding Tarn
   weight: 0.6667
   avg_copies: 1.75
-- name: Seal of Fire
+- name: Boros Charm
   weight: 0.5
   avg_copies: 4.0
-- name: Boros Charm
+- name: Seal of Fire
   weight: 0.5
   avg_copies: 4.0
 - name: Obsidian Charmaw
@@ -78,19 +78,19 @@ top_cards:
 - name: Raucous Theater
   weight: 0.5
   avg_copies: 1.33
-- name: Chandra's Incinerator
+- name: Inspiring Vantage
   weight: 0.3333
   avg_copies: 3.5
-- name: Inspiring Vantage
+- name: Chandra's Incinerator
   weight: 0.3333
   avg_copies: 3.5
 - name: Roiling Vortex
   weight: 0.3333
   avg_copies: 3.25
-- name: Arena of Glory
+- name: Eidolon of the Great Revel
   weight: 0.3333
   avg_copies: 3.0
-- name: Eidolon of the Great Revel
+- name: Arena of Glory
   weight: 0.3333
   avg_copies: 3.0
 - name: Pyroclasm
@@ -105,13 +105,13 @@ top_cards:
 - name: Exquisite Firecraft
   weight: 0.3333
   avg_copies: 1.5
+- name: Iridescent Vinelasher
+  weight: 0.1667
+  avg_copies: 4.0
 - name: Sanctifier en-Vec
   weight: 0.1667
   avg_copies: 4.0
 - name: Vexing Devil
-  weight: 0.1667
-  avg_copies: 4.0
-- name: Iridescent Vinelasher
   weight: 0.1667
   avg_copies: 4.0
 - name: Containment Priest
@@ -120,28 +120,31 @@ top_cards:
 - name: Magebane Lizard
   weight: 0.1667
   avg_copies: 3.0
-- name: Nihil Spellbomb
+- name: Wear
   weight: 0.1667
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Nihil Spellbomb
   weight: 0.1667
   avg_copies: 2.0
 - name: Tunnel Ignus
   weight: 0.1667
   avg_copies: 2.0
-- name: Meltdown
-  weight: 0.1667
-  avg_copies: 2.0
-- name: Wear
+- name: Damping Sphere
   weight: 0.1667
   avg_copies: 2.0
 - name: Blood Crypt
   weight: 0.1667
   avg_copies: 2.0
+- name: Meltdown
+  weight: 0.1667
+  avg_copies: 2.0
 - name: Elegant Parlor
   weight: 0.1667
   avg_copies: 1.0
-- name: card:volcanic-fallout
+- name: Ragavan, Nimble Pilferer
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Rain of Gore
   weight: 0.1667
   avg_copies: 1.0
 - name: Rakdos Charm
@@ -150,13 +153,10 @@ top_cards:
 - name: Disruptor Flute
   weight: 0.1667
   avg_copies: 1.0
-- name: Rain of Gore
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Molten Rain
   weight: 0.1667
   avg_copies: 1.0
-- name: Ragavan, Nimble Pilferer
+- name: card:volcanic-fallout
   weight: 0.1667
   avg_copies: 1.0
 ---

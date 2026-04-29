@@ -6,9 +6,6 @@ name: Mono Green Ramp
 meta_share: 0.0036
 list_count: 5
 top_cards:
-- name: Badgermole Cub
-  weight: 1.0
-  avg_copies: 4.0
 - name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 4.0
@@ -18,10 +15,13 @@ top_cards:
 - name: Springheart Nantuko
   weight: 1.0
   avg_copies: 4.0
-- name: Windswept Heath
+- name: Badgermole Cub
+  weight: 1.0
+  avg_copies: 4.0
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 3.4
-- name: Misty Rainforest
+- name: Windswept Heath
   weight: 1.0
   avg_copies: 3.4
 - name: Summoner's Pact
@@ -42,22 +42,22 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.2
-- name: Collector Ouphe
-  weight: 1.0
-  avg_copies: 1.0
-- name: Ashaya, Soul of the Wild
+- name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
 - name: Craterhoof Behemoth
   weight: 1.0
   avg_copies: 1.0
-- name: Chomping Changeling
-  weight: 1.0
-  avg_copies: 1.0
 - name: Endurance
   weight: 1.0
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Chomping Changeling
+  weight: 1.0
+  avg_copies: 1.0
+- name: Ashaya, Soul of the Wild
+  weight: 1.0
+  avg_copies: 1.0
+- name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
 - name: Delighted Halfling
@@ -69,19 +69,19 @@ top_cards:
 - name: Thoughtseize
   weight: 0.8
   avg_copies: 3.0
-- name: Tyvar, Jubilant Brawler
+- name: Lotus Cobra
   weight: 0.8
   avg_copies: 3.0
-- name: Lotus Cobra
+- name: Tyvar, Jubilant Brawler
   weight: 0.8
   avg_copies: 3.0
 - name: Mai, Scornful Striker
   weight: 0.8
   avg_copies: 2.75
-- name: Ashiok, Dream Render
+- name: Nissa, Who Shakes the World
   weight: 0.8
   avg_copies: 2.0
-- name: Nissa, Who Shakes the World
+- name: Ashiok, Dream Render
   weight: 0.8
   avg_copies: 2.0
 - name: Overgrown Tomb
@@ -90,10 +90,10 @@ top_cards:
 - name: Creeping Corrosion
   weight: 0.8
   avg_copies: 1.25
-- name: Disciple of Freyalise
+- name: Nissa, Resurgent Animist
   weight: 0.8
   avg_copies: 1.0
-- name: Nissa, Resurgent Animist
+- name: Disciple of Freyalise
   weight: 0.8
   avg_copies: 1.0
 - name: Formidable Speaker
@@ -102,16 +102,16 @@ top_cards:
 - name: Underground Mortuary
   weight: 0.8
   avg_copies: 1.0
-- name: The Great Henge
+- name: Slumbering Trudge
   weight: 0.2
   avg_copies: 4.0
 - name: Fanatic of Rhonas
   weight: 0.2
   avg_copies: 4.0
-- name: Life's Legacy
+- name: The Great Henge
   weight: 0.2
   avg_copies: 4.0
-- name: Slumbering Trudge
+- name: Life's Legacy
   weight: 0.2
   avg_copies: 4.0
 - name: Trinisphere

@@ -12,7 +12,7 @@ archetypes:
   elves:
     weight: 1.0
     avg_copies: 4.0
-  unknown-24:
+  devoted-combo:
     weight: 1.0
     avg_copies: 4.0
 ---

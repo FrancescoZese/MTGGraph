@@ -16,7 +16,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 3.0
   reanimator:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 4.0
   kethis-combo:
     weight: 1.0
@@ -54,7 +54,7 @@ archetypes:
   unknown-4:
     weight: 1.0
     avg_copies: 4.0
-  unknown-24:
+  devoted-combo:
     weight: 1.0
     avg_copies: 4.0
 ---

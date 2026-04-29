@@ -10,7 +10,7 @@ type: Creature — Dauthi Rogue
 meta_presence: 0.0123
 archetypes:
   dimir-control:
-    weight: 0.0169
+    weight: 0.0161
     avg_copies: 2.0
   necrodominance:
     weight: 0.4286

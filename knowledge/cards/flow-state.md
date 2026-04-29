@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.0058
 archetypes:
   dimir-control:
-    weight: 0.0169
+    weight: 0.0484
     avg_copies: 4.0
   azorius-control:
     weight: 0.0769
@@ -18,7 +18,4 @@ archetypes:
   izzet-prowess:
     weight: 0.069
     avg_copies: 2.0
-  unknown-22:
-    weight: 0.6667
-    avg_copies: 4.0
 ---

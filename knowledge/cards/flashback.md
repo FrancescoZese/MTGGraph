@@ -13,12 +13,9 @@ archetypes:
     weight: 0.1111
     avg_copies: 3.5
   reanimator:
-    weight: 0.04
-    avg_copies: 1.0
+    weight: 0.0769
+    avg_copies: 1.5
   boros-ponza:
     weight: 0.125
     avg_copies: 1.0
-  unknown-21:
-    weight: 1.0
-    avg_copies: 2.0
 ---

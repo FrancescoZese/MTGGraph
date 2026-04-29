@@ -13,7 +13,7 @@ archetypes:
   scapeshift-combo:
     weight: 0.25
     avg_copies: 3.0
-  unknown-26:
+  sultai-midrange:
     weight: 1.0
     avg_copies: 3.0
 ---

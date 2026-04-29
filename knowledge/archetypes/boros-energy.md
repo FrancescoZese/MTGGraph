@@ -177,10 +177,10 @@ top_cards:
 - name: Phelia, Exuberant Shepherd
   weight: 0.0113
   avg_copies: 1.67
-- name: Showdown of the Skalds
+- name: Haliya, Guided by Light
   weight: 0.0113
   avg_copies: 1.0
-- name: Haliya, Guided by Light
+- name: Showdown of the Skalds
   weight: 0.0113
   avg_copies: 1.0
 - name: Wear
@@ -189,10 +189,10 @@ top_cards:
 - name: Lorehold Charm
   weight: 0.0075
   avg_copies: 1.5
-- name: Aven Mindcensor
+- name: Redirect Lightning
   weight: 0.0075
   avg_copies: 1.0
-- name: Redirect Lightning
+- name: Aven Mindcensor
   weight: 0.0075
   avg_copies: 1.0
 - name: Starfield Shepherd
@@ -204,10 +204,7 @@ top_cards:
 - name: card:practiced-offense
   weight: 0.0038
   avg_copies: 3.0
-- name: Ephemerate
-  weight: 0.0038
-  avg_copies: 2.0
-- name: Unlicensed Hearse
+- name: Kataki, War's Wage
   weight: 0.0038
   avg_copies: 2.0
 - name: Stony Silence
@@ -216,10 +213,7 @@ top_cards:
 - name: Screaming Nemesis
   weight: 0.0038
   avg_copies: 2.0
-- name: Enduring Innocence
-  weight: 0.0038
-  avg_copies: 2.0
-- name: Kataki, War's Wage
+- name: Ephemerate
   weight: 0.0038
   avg_copies: 2.0
 - name: White Orchid Phantom
@@ -228,31 +222,28 @@ top_cards:
 - name: Reprieve
   weight: 0.0038
   avg_copies: 2.0
-- name: The Battle of Bywater
+- name: Enduring Innocence
   weight: 0.0038
   avg_copies: 2.0
 - name: Jolted Awake
   weight: 0.0038
   avg_copies: 2.0
-- name: Prismatic Ending
+- name: The Battle of Bywater
   weight: 0.0038
-  avg_copies: 1.0
-- name: Elspeth, Storm Slayer
+  avg_copies: 2.0
+- name: Unlicensed Hearse
+  weight: 0.0038
+  avg_copies: 2.0
+- name: Tunnel Ignus
   weight: 0.0038
   avg_copies: 1.0
 - name: Drannith Magistrate
   weight: 0.0038
   avg_copies: 1.0
-- name: The Wandering Emperor
+- name: Elspeth, Storm Slayer
   weight: 0.0038
   avg_copies: 1.0
 - name: Erode
-  weight: 0.0038
-  avg_copies: 1.0
-- name: Cool but Rude
-  weight: 0.0038
-  avg_copies: 1.0
-- name: Giant Killer
   weight: 0.0038
   avg_copies: 1.0
 - name: The Ooze
@@ -261,10 +252,19 @@ top_cards:
 - name: Duty Beyond Death
   weight: 0.0038
   avg_copies: 1.0
+- name: Giant Killer
+  weight: 0.0038
+  avg_copies: 1.0
+- name: Cool but Rude
+  weight: 0.0038
+  avg_copies: 1.0
 - name: Curious Farm Animals
   weight: 0.0038
   avg_copies: 1.0
-- name: Tunnel Ignus
+- name: Prismatic Ending
+  weight: 0.0038
+  avg_copies: 1.0
+- name: The Wandering Emperor
   weight: 0.0038
   avg_copies: 1.0
 ---

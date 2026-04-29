@@ -12,10 +12,10 @@ top_cards:
 - name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
-- name: Scion of Draco
+- name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline of the Guildpact
+- name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline Binding
@@ -42,10 +42,10 @@ top_cards:
 - name: Wear
   weight: 1.0
   avg_copies: 1.62
-- name: Plains
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
-- name: Temple Garden
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
 - name: Indatha Triome
@@ -75,10 +75,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.9556
   avg_copies: 2.77
-- name: Thundering Falls
+- name: Mountain
   weight: 0.9333
   avg_copies: 1.0
-- name: Mountain
+- name: Thundering Falls
   weight: 0.9333
   avg_copies: 1.0
 - name: Damping Sphere
@@ -117,10 +117,10 @@ top_cards:
 - name: Celestial Purge
   weight: 0.1778
   avg_copies: 1.0
-- name: Pyroclasm
+- name: High Noon
   weight: 0.1333
   avg_copies: 1.0
-- name: High Noon
+- name: Pyroclasm
   weight: 0.1333
   avg_copies: 1.0
 - name: Clarion Conqueror
@@ -165,16 +165,13 @@ top_cards:
 - name: Summoning Trap
   weight: 0.0222
   avg_copies: 3.0
-- name: Mana Tithe
-  weight: 0.0222
-  avg_copies: 2.0
 - name: Drannith Magistrate
   weight: 0.0222
   avg_copies: 2.0
-- name: Raucous Theater
+- name: Mana Tithe
   weight: 0.0222
-  avg_copies: 1.0
-- name: Prismatic Ending
+  avg_copies: 2.0
+- name: Glasspool Mimic
   weight: 0.0222
   avg_copies: 1.0
 - name: Vexing Bauble
@@ -183,13 +180,16 @@ top_cards:
 - name: Breeding Pool
   weight: 0.0222
   avg_copies: 1.0
-- name: Quantum Riddler
+- name: Raucous Theater
   weight: 0.0222
   avg_copies: 1.0
-- name: Glasspool Mimic
+- name: Prismatic Ending
   weight: 0.0222
   avg_copies: 1.0
 - name: Meltdown
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Quantum Riddler
   weight: 0.0222
   avg_copies: 1.0
 ---

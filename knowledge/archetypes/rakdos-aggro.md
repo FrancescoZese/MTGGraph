@@ -6,13 +6,13 @@ name: Rakdos Aggro
 meta_share: 0.0043
 list_count: 6
 top_cards:
+- name: Dragon's Rage Channeler
+  weight: 1.0
+  avg_copies: 4.0
 - name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Moonshadow
@@ -96,16 +96,16 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.3333
   avg_copies: 1.0
-- name: Death's Shadow
+- name: Marsh Flats
   weight: 0.1667
   avg_copies: 4.0
-- name: Polluted Delta
+- name: Death's Shadow
   weight: 0.1667
   avg_copies: 4.0
 - name: Magebane Lizard
   weight: 0.1667
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Polluted Delta
   weight: 0.1667
   avg_copies: 4.0
 - name: Vexing Bauble
@@ -117,43 +117,43 @@ top_cards:
 - name: Blood Moon
   weight: 0.1667
   avg_copies: 3.0
-- name: Abigale, Eloquent First-Year
-  weight: 0.1667
-  avg_copies: 2.0
-- name: Surgical Extraction
-  weight: 0.1667
-  avg_copies: 2.0
-- name: Seal of Fire
+- name: Break the Ice
   weight: 0.1667
   avg_copies: 2.0
 - name: Unearth
   weight: 0.1667
   avg_copies: 2.0
-- name: Break the Ice
+- name: Seal of Fire
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Surgical Extraction
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Abigale, Eloquent First-Year
   weight: 0.1667
   avg_copies: 2.0
 - name: Sheoldred's Edict
   weight: 0.1667
   avg_copies: 2.0
-- name: Boggart Trawler
+- name: Sundering Eruption
   weight: 0.1667
   avg_copies: 1.0
 - name: Fatal Push
   weight: 0.1667
   avg_copies: 1.0
-- name: Verdant Catacombs
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Ob Nixilis, the Adversary
   weight: 0.1667
   avg_copies: 1.0
-- name: Sundering Eruption
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Dreams of Steel and Oil
+- name: Boggart Trawler
   weight: 0.1667
   avg_copies: 1.0
 - name: Troll of Khazad-dûm
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Verdant Catacombs
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Dreams of Steel and Oil
   weight: 0.1667
   avg_copies: 1.0
 - name: Graveyard Trespasser

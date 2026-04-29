@@ -8,7 +8,7 @@ set: mh1
 type: Land
 meta_presence: 0.0007
 archetypes:
-  unknown-24:
+  devoted-combo:
     weight: 1.0
     avg_copies: 1.0
 ---

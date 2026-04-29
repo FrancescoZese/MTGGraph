@@ -12,7 +12,7 @@ archetypes:
     weight: 0.1111
     avg_copies: 1.0
   dimir-control:
-    weight: 0.0339
+    weight: 0.0323
     avg_copies: 1.0
   jeskai-energy:
     weight: 1.0
@@ -30,7 +30,7 @@ archetypes:
     weight: 0.9333
     avg_copies: 1.0
   reanimator:
-    weight: 0.08
+    weight: 0.0769
     avg_copies: 1.0
   neoform-combo:
     weight: 0.0357
@@ -80,13 +80,7 @@ archetypes:
   unknown-25:
     weight: 1.0
     avg_copies: 1.0
-  unknown-23:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-26:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-19:
+  sultai-midrange:
     weight: 1.0
     avg_copies: 1.0
 ---

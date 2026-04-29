@@ -22,8 +22,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   jeskai-control:
-    weight: 0.9
-    avg_copies: 3.55
+    weight: 0.8636
+    avg_copies: 3.57
   mono-red-belcher:
     weight: 0.5
     avg_copies: 3.2
@@ -45,10 +45,7 @@ archetypes:
   4c-omnath9:
     weight: 1.0
     avg_copies: 4.0
-  unknown-19:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-24:
+  devoted-combo:
     weight: 1.0
     avg_copies: 2.0
 ---

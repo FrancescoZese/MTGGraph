@@ -14,7 +14,7 @@ archetypes:
     weight: 0.04
     avg_copies: 2.0
   reanimator:
-    weight: 0.2
+    weight: 0.1923
     avg_copies: 2.6
   yawgmoth-combo:
     weight: 0.8125

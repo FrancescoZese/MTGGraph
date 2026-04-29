@@ -10,7 +10,7 @@ set: mh1
 type: Creature — Elemental Skeleton
 meta_presence: 0.0007
 archetypes:
-  unknown-21:
-    weight: 1.0
+  reanimator:
+    weight: 0.0385
     avg_copies: 2.0
 ---

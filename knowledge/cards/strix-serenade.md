@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.1042
 archetypes:
   dimir-control:
-    weight: 0.0169
+    weight: 0.0161
     avg_copies: 2.0
   mono-blue-belcher:
     weight: 0.4828
@@ -28,7 +28,7 @@ archetypes:
     weight: 0.0889
     avg_copies: 1.25
   reanimator:
-    weight: 0.08
+    weight: 0.0769
     avg_copies: 2.0
   kethis-combo:
     weight: 0.4

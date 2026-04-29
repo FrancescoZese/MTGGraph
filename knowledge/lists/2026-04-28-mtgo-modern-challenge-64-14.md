@@ -1,5 +1,5 @@
 ---
-archetype: unknown-22
+archetype: dimir-control
 date: '2026-04-28'
 finish: 15th
 pilot: Shadowz2005

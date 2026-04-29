@@ -10,14 +10,11 @@ type: Instant
 meta_presence: 0.0043
 archetypes:
   reanimator:
-    weight: 0.08
-    avg_copies: 2.5
+    weight: 0.1154
+    avg_copies: 3.0
   soultrader-combo:
     weight: 1.0
     avg_copies: 3.5
-  unknown-21:
-    weight: 1.0
-    avg_copies: 4.0
   unknown-4:
     weight: 1.0
     avg_copies: 3.0

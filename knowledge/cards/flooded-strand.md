@@ -12,8 +12,8 @@ archetypes:
     weight: 0.782
     avg_copies: 3.58
   dimir-control:
-    weight: 0.8475
-    avg_copies: 2.88
+    weight: 0.8548
+    avg_copies: 2.92
   jeskai-energy:
     weight: 1.0
     avg_copies: 3.88
@@ -28,7 +28,7 @@ archetypes:
     avg_copies: 2.0
   jeskai-control:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.95
   affinity:
     weight: 0.037
     avg_copies: 1.2
@@ -39,7 +39,7 @@ archetypes:
     weight: 0.75
     avg_copies: 2.0
   reanimator:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 4.0
   neoform-combo:
     weight: 0.5357
@@ -104,16 +104,7 @@ archetypes:
   4c-omnath9:
     weight: 1.0
     avg_copies: 4.0
-  unknown-22:
-    weight: 1.0
-    avg_copies: 3.67
   unknown-25:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-23:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-19:
     weight: 1.0
     avg_copies: 4.0
 ---

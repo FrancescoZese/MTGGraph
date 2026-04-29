@@ -10,6 +10,6 @@ type: Creature — Vampire Shaman
 meta_presence: 0.0007
 archetypes:
   reanimator:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 1.0
 ---

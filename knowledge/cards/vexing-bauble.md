@@ -33,8 +33,8 @@ archetypes:
     weight: 0.0222
     avg_copies: 1.0
   reanimator:
-    weight: 0.16
-    avg_copies: 1.75
+    weight: 0.1923
+    avg_copies: 2.2
   mono-red-belcher:
     weight: 0.375
     avg_copies: 2.33
@@ -110,9 +110,6 @@ archetypes:
   soultrader-combo:
     weight: 0.5
     avg_copies: 2.0
-  unknown-21:
-    weight: 1.0
-    avg_copies: 4.0
   unknown-4:
     weight: 1.0
     avg_copies: 2.0

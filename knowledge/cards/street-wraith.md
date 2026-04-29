@@ -13,7 +13,7 @@ archetypes:
     weight: 0.88
     avg_copies: 2.55
   reanimator:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 4.0
   hollow-one:
     weight: 1.0

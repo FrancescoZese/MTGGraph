@@ -11,7 +11,7 @@ archetypes:
   4c-omnath:
     weight: 0.25
     avg_copies: 1.0
-  unknown-26:
+  sultai-midrange:
     weight: 1.0
     avg_copies: 1.0
 ---

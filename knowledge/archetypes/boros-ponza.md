@@ -105,10 +105,10 @@ top_cards:
 - name: March of Otherworldly Light
   weight: 0.125
   avg_copies: 1.75
-- name: Meltdown
+- name: Flashback
   weight: 0.125
   avg_copies: 1.0
-- name: Flashback
+- name: Meltdown
   weight: 0.125
   avg_copies: 1.0
 - name: Mana Tithe
@@ -123,19 +123,19 @@ top_cards:
 - name: Get Lost
   weight: 0.0625
   avg_copies: 3.0
-- name: Arena of Glory
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Ghost Vacuum
-  weight: 0.0625
-  avg_copies: 1.0
 - name: Elegant Parlor
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Brotherhood's End
   weight: 0.0625
   avg_copies: 1.0
 - name: Ghost Quarter
   weight: 0.0625
   avg_copies: 1.0
-- name: Brotherhood's End
+- name: Arena of Glory
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Ghost Vacuum
   weight: 0.0625
   avg_copies: 1.0
 - name: Fable of the Mirror-Breaker
@@ -144,13 +144,10 @@ top_cards:
 - name: Gideon, Ally of Zendikar
   weight: 0.0312
   avg_copies: 2.0
-- name: Raze to the Ground
-  weight: 0.0312
-  avg_copies: 2.0
-- name: Prismatic Ending
-  weight: 0.0312
-  avg_copies: 2.0
 - name: Flagstones of Trokair
+  weight: 0.0312
+  avg_copies: 2.0
+- name: Raze to the Ground
   weight: 0.0312
   avg_copies: 2.0
 - name: Stony Silence
@@ -159,43 +156,46 @@ top_cards:
 - name: Aven Mindcensor
   weight: 0.0312
   avg_copies: 2.0
+- name: Prismatic Ending
+  weight: 0.0312
+  avg_copies: 2.0
 - name: Stone Rain
   weight: 0.0312
   avg_copies: 2.0
 - name: Settle the Wreckage
   weight: 0.0312
   avg_copies: 2.0
-- name: Ark of Hunger
-  weight: 0.0312
-  avg_copies: 1.0
-- name: Dead
-  weight: 0.0312
-  avg_copies: 1.0
 - name: Castle Ardenvale
-  weight: 0.0312
-  avg_copies: 1.0
-- name: Elspeth, Sun's Nemesis
-  weight: 0.0312
-  avg_copies: 1.0
-- name: Suspend Aggression
-  weight: 0.0312
-  avg_copies: 1.0
-- name: The Restoration of Eiganjo
-  weight: 0.0312
-  avg_copies: 1.0
-- name: Storm's Wrath
-  weight: 0.0312
-  avg_copies: 1.0
-- name: Forked Bolt
   weight: 0.0312
   avg_copies: 1.0
 - name: Chalice of the Void
   weight: 0.0312
   avg_copies: 1.0
-- name: The Wandering Emperor
+- name: Ark of Hunger
+  weight: 0.0312
+  avg_copies: 1.0
+- name: Forked Bolt
+  weight: 0.0312
+  avg_copies: 1.0
+- name: Storm's Wrath
+  weight: 0.0312
+  avg_copies: 1.0
+- name: Suspend Aggression
   weight: 0.0312
   avg_copies: 1.0
 - name: Clarion Conqueror
+  weight: 0.0312
+  avg_copies: 1.0
+- name: Dead
+  weight: 0.0312
+  avg_copies: 1.0
+- name: Elspeth, Sun's Nemesis
+  weight: 0.0312
+  avg_copies: 1.0
+- name: The Wandering Emperor
+  weight: 0.0312
+  avg_copies: 1.0
+- name: The Restoration of Eiganjo
   weight: 0.0312
   avg_copies: 1.0
 ---

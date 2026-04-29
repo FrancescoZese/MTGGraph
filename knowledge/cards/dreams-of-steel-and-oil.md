@@ -9,6 +9,9 @@ set: bro
 type: Sorcery
 meta_presence: 0.0043
 archetypes:
+  dimir-control:
+    weight: 0.0161
+    avg_copies: 1.0
   necrodominance:
     weight: 0.1429
     avg_copies: 1.6
@@ -17,8 +20,5 @@ archetypes:
     avg_copies: 1.0
   goryo2:
     weight: 1.0
-    avg_copies: 1.0
-  unknown-22:
-    weight: 0.3333
     avg_copies: 1.0
 ---

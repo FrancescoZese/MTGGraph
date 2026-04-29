@@ -65,10 +65,10 @@ archetypes:
   goryo4:
     weight: 0.5
     avg_copies: 1.0
-  unknown-26:
+  sultai-midrange:
     weight: 1.0
     avg_copies: 1.0
-  unknown-24:
+  devoted-combo:
     weight: 1.0
     avg_copies: 1.0
 ---

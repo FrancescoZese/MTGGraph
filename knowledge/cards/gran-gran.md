@@ -10,7 +10,7 @@ type: Legendary Creature — Human Peasant Ally
 meta_presence: 0.0043
 archetypes:
   reanimator:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 1.0
   kethis-combo:
     weight: 1.0

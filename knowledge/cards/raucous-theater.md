@@ -12,8 +12,8 @@ archetypes:
     weight: 0.0222
     avg_copies: 1.0
   reanimator:
-    weight: 0.88
-    avg_copies: 1.05
+    weight: 0.8846
+    avg_copies: 1.09
   burn:
     weight: 0.5
     avg_copies: 1.33
@@ -41,7 +41,4 @@ archetypes:
   soultrader-combo0:
     weight: 1.0
     avg_copies: 1.0
-  unknown-21:
-    weight: 1.0
-    avg_copies: 2.0
 ---

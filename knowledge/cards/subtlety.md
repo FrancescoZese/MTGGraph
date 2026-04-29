@@ -10,8 +10,8 @@ type: Creature — Elemental Incarnation
 meta_presence: 0.1129
 archetypes:
   dimir-control:
-    weight: 1.0
-    avg_copies: 3.14
+    weight: 0.9839
+    avg_copies: 3.11
   jeskai-energy:
     weight: 0.0111
     avg_copies: 1.0
@@ -25,8 +25,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.88
   jeskai-control:
-    weight: 0.25
-    avg_copies: 1.8
+    weight: 0.2727
+    avg_copies: 1.83
   mill:
     weight: 0.125
     avg_copies: 1.0
@@ -60,13 +60,7 @@ archetypes:
   4c-omnath9:
     weight: 0.5
     avg_copies: 2.0
-  unknown-22:
-    weight: 0.6667
-    avg_copies: 2.5
-  unknown-26:
+  sultai-midrange:
     weight: 1.0
     avg_copies: 3.0
-  unknown-19:
-    weight: 1.0
-    avg_copies: 2.0
 ---

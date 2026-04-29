@@ -9,15 +9,12 @@ type: Land
 meta_presence: 0.0188
 archetypes:
   dimir-control:
-    weight: 0.3729
-    avg_copies: 1.59
+    weight: 0.3871
+    avg_copies: 1.54
   mill:
     weight: 0.125
     avg_copies: 1.0
   esper-midrange:
     weight: 1.0
-    avg_copies: 1.0
-  unknown-22:
-    weight: 0.6667
     avg_copies: 1.0
 ---

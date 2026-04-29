@@ -12,10 +12,10 @@ top_cards:
 - name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 3.94
-- name: Badgermole Cub
+- name: Yawgmoth, Thran Physician
   weight: 1.0
   avg_copies: 3.88
-- name: Yawgmoth, Thran Physician
+- name: Badgermole Cub
   weight: 1.0
   avg_copies: 3.88
 - name: Delighted Halfling
@@ -63,16 +63,16 @@ top_cards:
 - name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.06
-- name: Soulless Jailer
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
-- name: Dryad Arbor
+- name: Grist, the Hunger Tide
   weight: 1.0
   avg_copies: 1.0
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Grist, the Hunger Tide
+- name: Soulless Jailer
   weight: 1.0
   avg_copies: 1.0
 - name: Endurance
@@ -120,16 +120,16 @@ top_cards:
 - name: Damping Sphere
   weight: 0.3125
   avg_copies: 1.0
-- name: Haywire Mite
-  weight: 0.25
-  avg_copies: 1.0
 - name: Ignoble Hierarch
   weight: 0.25
   avg_copies: 1.0
-- name: Kraul Harpooner
-  weight: 0.1875
+- name: Haywire Mite
+  weight: 0.25
   avg_copies: 1.0
 - name: Hapatra, Vizier of Poisons
+  weight: 0.1875
+  avg_copies: 1.0
+- name: Kraul Harpooner
   weight: 0.1875
   avg_copies: 1.0
 - name: Culling Ritual

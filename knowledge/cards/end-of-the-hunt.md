@@ -9,13 +9,13 @@ set: sos
 type: Sorcery
 meta_presence: 0.0022
 archetypes:
+  dimir-control:
+    weight: 0.0161
+    avg_copies: 2.0
   necrodominance:
     weight: 0.0476
     avg_copies: 2.0
   goryo1:
     weight: 0.1429
-    avg_copies: 2.0
-  unknown-22:
-    weight: 0.3333
     avg_copies: 2.0
 ---

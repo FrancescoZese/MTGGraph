@@ -93,67 +93,73 @@ top_cards:
 - name: Dreams of Steel and Oil
   weight: 0.1429
   avg_copies: 1.6
-- name: Sorin, Imperious Bloodlord
+- name: Psychic Frog
   weight: 0.0952
   avg_copies: 4.0
 - name: Vein Ripper
   weight: 0.0952
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Sorin, Imperious Bloodlord
   weight: 0.0952
   avg_copies: 4.0
 - name: Consign to Memory
   weight: 0.0952
   avg_copies: 3.5
-- name: Polluted Delta
+- name: Watery Grave
   weight: 0.0952
   avg_copies: 3.5
-- name: Watery Grave
+- name: Polluted Delta
   weight: 0.0952
   avg_copies: 3.5
 - name: Verdant Catacombs
   weight: 0.0952
   avg_copies: 2.5
-- name: The Filigree Sylex
+- name: Toxic Deluge
   weight: 0.0952
   avg_copies: 1.5
-- name: Toxic Deluge
+- name: The Filigree Sylex
   weight: 0.0952
   avg_copies: 1.5
 - name: Undercity Sewers
   weight: 0.0952
   avg_copies: 1.0
-- name: Damnation
-  weight: 0.0952
-  avg_copies: 1.0
 - name: Legion's End
   weight: 0.0952
   avg_copies: 1.0
-- name: Requiting Hex
-  weight: 0.0476
-  avg_copies: 4.0
-- name: Gonti's Machinations
+- name: Damnation
+  weight: 0.0952
+  avg_copies: 1.0
+- name: Sign in Blood
   weight: 0.0476
   avg_copies: 4.0
 - name: Iridescent Vinelasher
   weight: 0.0476
   avg_copies: 4.0
-- name: Sign in Blood
+- name: Gonti's Machinations
   weight: 0.0476
   avg_copies: 4.0
-- name: Quantum Riddler
+- name: Requiting Hex
   weight: 0.0476
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Mystical Dispute
   weight: 0.0476
   avg_copies: 3.0
+- name: Quantum Riddler
+  weight: 0.0476
+  avg_copies: 3.0
+- name: Pillage the Bog
+  weight: 0.0476
+  avg_copies: 2.0
 - name: Mai, Scornful Striker
   weight: 0.0476
   avg_copies: 2.0
 - name: Culling Ritual
   weight: 0.0476
   avg_copies: 2.0
-- name: Witherbloom Command
+- name: Phyrexian Crusader
+  weight: 0.0476
+  avg_copies: 2.0
+- name: Marsh Flats
   weight: 0.0476
   avg_copies: 2.0
 - name: Overgrown Tomb
@@ -162,34 +168,28 @@ top_cards:
 - name: Disruptor Flute
   weight: 0.0476
   avg_copies: 2.0
-- name: Hurkyl's Recall
+- name: Witherbloom Command
   weight: 0.0476
   avg_copies: 2.0
-- name: Pillage the Bog
+- name: Hurkyl's Recall
   weight: 0.0476
   avg_copies: 2.0
 - name: Duress
   weight: 0.0476
   avg_copies: 2.0
-- name: Marsh Flats
-  weight: 0.0476
-  avg_copies: 2.0
-- name: Phyrexian Crusader
-  weight: 0.0476
-  avg_copies: 2.0
 - name: End of the Hunt
   weight: 0.0476
   avg_copies: 2.0
-- name: Kaito, Bane of Nightmares
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Cling to Dust
+- name: Nurturing Peatland
   weight: 0.0476
   avg_copies: 1.0
 - name: Pick Your Poison
   weight: 0.0476
   avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Cling to Dust
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Kaito, Bane of Nightmares
   weight: 0.0476
   avg_copies: 1.0
 - name: Underground Mortuary

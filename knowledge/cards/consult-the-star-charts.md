@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.047
 archetypes:
   dimir-control:
-    weight: 0.5254
+    weight: 0.5
     avg_copies: 3.61
   jeskai-energy:
     weight: 0.0111
@@ -19,7 +19,7 @@ archetypes:
     weight: 0.7692
     avg_copies: 2.9
   jeskai-control:
-    weight: 0.85
+    weight: 0.7727
     avg_copies: 3.24
   esper-control:
     weight: 1.0

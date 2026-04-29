@@ -13,7 +13,7 @@ archetypes:
     weight: 0.3056
     avg_copies: 1.64
   dimir-control:
-    weight: 0.2712
+    weight: 0.2581
     avg_copies: 1.67
   jeskai-energy:
     weight: 0.0111
@@ -25,8 +25,8 @@ archetypes:
     weight: 0.1538
     avg_copies: 2.0
   jeskai-control:
-    weight: 0.45
-    avg_copies: 1.56
+    weight: 0.4545
+    avg_copies: 1.5
   boros-ponza:
     weight: 0.3125
     avg_copies: 1.9
@@ -48,7 +48,4 @@ archetypes:
   scapeshift-combo:
     weight: 0.25
     avg_copies: 4.0
-  unknown-23:
-    weight: 1.0
-    avg_copies: 1.0
 ---

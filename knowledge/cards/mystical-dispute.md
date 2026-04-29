@@ -11,7 +11,7 @@ meta_presence: 0.432
 archetypes:
   dimir-control:
     weight: 1.0
-    avg_copies: 2.22
+    avg_copies: 2.23
   mono-blue-belcher:
     weight: 0.931
     avg_copies: 2.07
@@ -32,7 +32,7 @@ archetypes:
     avg_copies: 3.33
   jeskai-control:
     weight: 1.0
-    avg_copies: 2.85
+    avg_copies: 2.77
   affinity:
     weight: 0.7926
     avg_copies: 1.38
@@ -43,7 +43,7 @@ archetypes:
     weight: 0.375
     avg_copies: 2.33
   reanimator:
-    weight: 0.8
+    weight: 0.7692
     avg_copies: 2.1
   neoform-combo:
     weight: 0.9286
@@ -108,19 +108,10 @@ archetypes:
   4c-omnath9:
     weight: 1.0
     avg_copies: 2.0
-  unknown-22:
-    weight: 1.0
-    avg_copies: 2.33
   unknown-25:
     weight: 1.0
     avg_copies: 2.0
-  unknown-23:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-26:
+  sultai-midrange:
     weight: 1.0
     avg_copies: 3.0
-  unknown-19:
-    weight: 1.0
-    avg_copies: 2.0
 ---

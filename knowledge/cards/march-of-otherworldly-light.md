@@ -28,7 +28,7 @@ archetypes:
     weight: 0.1538
     avg_copies: 1.5
   jeskai-control:
-    weight: 0.45
+    weight: 0.4091
     avg_copies: 1.0
   mardu-blink:
     weight: 0.0667

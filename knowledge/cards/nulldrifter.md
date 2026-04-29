@@ -8,13 +8,13 @@ set: mh3
 type: Creature — Eldrazi Elemental
 meta_presence: 0.0065
 archetypes:
+  jeskai-control:
+    weight: 0.0455
+    avg_copies: 3.0
   eldrazi-ramp:
     weight: 0.1786
     avg_copies: 3.0
   eldrazi-breach:
     weight: 1.0
     avg_copies: 3.33
-  unknown-23:
-    weight: 1.0
-    avg_copies: 3.0
 ---

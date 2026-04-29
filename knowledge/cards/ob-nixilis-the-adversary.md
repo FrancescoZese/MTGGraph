@@ -10,10 +10,10 @@ set: snc
 type: Legendary Planeswalker — Nixilis
 meta_presence: 0.0014
 archetypes:
+  reanimator:
+    weight: 0.0385
+    avg_copies: 2.0
   rakdos-aggro:
     weight: 0.1667
     avg_copies: 1.0
-  unknown-21:
-    weight: 1.0
-    avg_copies: 2.0
 ---

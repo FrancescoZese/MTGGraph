@@ -14,10 +14,10 @@ archetypes:
     weight: 0.0278
     avg_copies: 2.0
   dimir-control:
-    weight: 0.0339
+    weight: 0.0323
     avg_copies: 3.5
   jeskai-control:
-    weight: 0.2
+    weight: 0.2273
     avg_copies: 4.0
   izzet-artifacts:
     weight: 0.3846
@@ -32,9 +32,6 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   4c-omnath9:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-19:
     weight: 1.0
     avg_copies: 4.0
 ---

@@ -1,5 +1,5 @@
 ---
-archetype: unknown-26
+archetype: sultai-midrange
 date: '2026-04-28'
 finish: 5-0
 pilot: Napoleon_I

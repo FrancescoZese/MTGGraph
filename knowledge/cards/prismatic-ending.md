@@ -16,7 +16,7 @@ archetypes:
     weight: 0.0038
     avg_copies: 1.0
   dimir-control:
-    weight: 0.0339
+    weight: 0.0323
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.5778
@@ -31,13 +31,13 @@ archetypes:
     weight: 1.0
     avg_copies: 3.62
   jeskai-control:
-    weight: 0.95
-    avg_copies: 2.0
+    weight: 0.9091
+    avg_copies: 2.05
   domain-zoo:
     weight: 0.0222
     avg_copies: 1.0
   reanimator:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 4.0
   mardu-blink:
     weight: 0.1333
@@ -87,10 +87,7 @@ archetypes:
   unknown-25:
     weight: 1.0
     avg_copies: 2.0
-  unknown-23:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-24:
+  devoted-combo:
     weight: 1.0
     avg_copies: 2.0
 ---

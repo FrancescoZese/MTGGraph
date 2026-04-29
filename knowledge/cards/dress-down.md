@@ -10,11 +10,14 @@ type: Enchantment
 meta_presence: 0.0065
 archetypes:
   dimir-control:
-    weight: 0.0169
+    weight: 0.0161
     avg_copies: 3.0
   azorius-control:
     weight: 0.0769
     avg_copies: 1.0
+  jeskai-control:
+    weight: 0.0455
+    avg_copies: 4.0
   mono-blue-tron:
     weight: 0.25
     avg_copies: 2.0
@@ -30,7 +33,4 @@ archetypes:
   izzet-wizards:
     weight: 1.0
     avg_copies: 2.0
-  unknown-23:
-    weight: 1.0
-    avg_copies: 4.0
 ---

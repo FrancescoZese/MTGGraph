@@ -9,8 +9,8 @@ type: Instant // Land
 meta_presence: 0.2178
 archetypes:
   dimir-control:
-    weight: 0.5085
-    avg_copies: 1.87
+    weight: 0.5323
+    avg_copies: 1.88
   mono-blue-belcher:
     weight: 1.0
     avg_copies: 4.0
@@ -23,6 +23,9 @@ archetypes:
   living-end:
     weight: 1.0
     avg_copies: 1.56
+  jeskai-control:
+    weight: 0.0455
+    avg_copies: 1.0
   affinity:
     weight: 0.8741
     avg_copies: 2.15
@@ -30,7 +33,7 @@ archetypes:
     weight: 0.125
     avg_copies: 1.0
   reanimator:
-    weight: 0.68
+    weight: 0.6538
     avg_copies: 1.0
   mono-blue-tron:
     weight: 1.0
@@ -63,12 +66,6 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   izzet-murktide:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-22:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-23:
     weight: 1.0
     avg_copies: 1.0
 ---

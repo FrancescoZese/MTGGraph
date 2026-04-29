@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.1534
 archetypes:
   dimir-control:
-    weight: 0.339
+    weight: 0.3226
     avg_copies: 2.05
   jeskai-energy:
     weight: 0.0111
@@ -30,7 +30,7 @@ archetypes:
     weight: 0.625
     avg_copies: 1.8
   reanimator:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 1.0
   neoform-combo:
     weight: 0.9643
@@ -89,7 +89,7 @@ archetypes:
   izzet-murktide:
     weight: 1.0
     avg_copies: 1.0
-  unknown-26:
+  sultai-midrange:
     weight: 1.0
     avg_copies: 4.0
 ---

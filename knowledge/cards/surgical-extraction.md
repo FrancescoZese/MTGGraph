@@ -4,8 +4,8 @@ archetypes:
     weight: 0.8947
     avg_copies: 1.32
   dimir-control:
-    weight: 0.1186
-    avg_copies: 1.43
+    weight: 0.129
+    avg_copies: 1.5
   mono-blue-belcher:
     weight: 0.0345
     avg_copies: 1.0
@@ -22,8 +22,8 @@ archetypes:
     weight: 0.5385
     avg_copies: 1.14
   jeskai-control:
-    weight: 0.7
-    avg_copies: 1.21
+    weight: 0.6818
+    avg_copies: 1.2
   domain-zoo:
     weight: 0.1778
     avg_copies: 1.25
@@ -31,7 +31,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.55
   reanimator:
-    weight: 0.24
+    weight: 0.2308
     avg_copies: 1.33
   burn:
     weight: 0.3333
@@ -90,13 +90,7 @@ archetypes:
   izzet-murktide:
     weight: 1.0
     avg_copies: 2.0
-  unknown-22:
-    weight: 0.3333
-    avg_copies: 2.0
-  unknown-23:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-26:
+  sultai-midrange:
     weight: 1.0
     avg_copies: 1.0
 cmc: 1

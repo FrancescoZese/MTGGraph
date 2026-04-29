@@ -18,7 +18,7 @@ archetypes:
   boros-ponza:
     weight: 0.7812
     avg_copies: 1.88
-  unknown-24:
+  devoted-combo:
     weight: 1.0
     avg_copies: 1.0
 ---

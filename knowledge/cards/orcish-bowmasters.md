@@ -10,8 +10,8 @@ type: Creature — Orc Archer
 meta_presence: 0.1035
 archetypes:
   dimir-control:
-    weight: 0.9831
-    avg_copies: 3.52
+    weight: 0.9839
+    avg_copies: 3.54
   necrodominance:
     weight: 1.0
     avg_copies: 3.76
@@ -19,8 +19,8 @@ archetypes:
     weight: 0.0444
     avg_copies: 2.0
   reanimator:
-    weight: 0.08
-    avg_copies: 3.5
+    weight: 0.1154
+    avg_copies: 3.33
   mardu-blink:
     weight: 0.7333
     avg_copies: 1.22
@@ -54,16 +54,10 @@ archetypes:
   soultrader-combo:
     weight: 1.0
     avg_copies: 4.0
-  unknown-22:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-21:
-    weight: 1.0
-    avg_copies: 3.0
   unknown-4:
     weight: 1.0
     avg_copies: 4.0
-  unknown-26:
+  sultai-midrange:
     weight: 1.0
     avg_copies: 2.0
 ---

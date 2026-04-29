@@ -11,7 +11,7 @@ archetypes:
   boros-energy:
     weight: 0.0038
     avg_copies: 2.0
-  unknown-23:
-    weight: 1.0
+  jeskai-control:
+    weight: 0.0455
     avg_copies: 1.0
 ---

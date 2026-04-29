@@ -1,5 +1,5 @@
 ---
-archetype: unknown-22
+archetype: dimir-control
 date: '2026-04-28'
 finish: 5-0
 pilot: eneges

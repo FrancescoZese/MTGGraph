@@ -6,10 +6,10 @@ name: Affinity
 meta_share: 0.0977
 list_count: 135
 top_cards:
-- name: Kappa Cannoneer
+- name: Pinnacle Emissary
   weight: 1.0
   avg_copies: 3.93
-- name: Pinnacle Emissary
+- name: Kappa Cannoneer
   weight: 1.0
   avg_copies: 3.93
 - name: Urza's Saga
@@ -162,10 +162,10 @@ top_cards:
 - name: Snow-Covered Island
   weight: 0.0296
   avg_copies: 1.5
-- name: Vandalblast
+- name: Haywire Mite
   weight: 0.0296
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Vandalblast
   weight: 0.0296
   avg_copies: 1.0
 - name: Springleaf Drum
@@ -183,25 +183,22 @@ top_cards:
 - name: Thought Monitor
   weight: 0.0148
   avg_copies: 1.0
+- name: Detect Intrusion
+  weight: 0.0074
+  avg_copies: 2.0
+- name: Prismari Charm
+  weight: 0.0074
+  avg_copies: 2.0
 - name: Shattering Spree
   weight: 0.0074
   avg_copies: 2.0
 - name: Patchwork Automaton
   weight: 0.0074
   avg_copies: 2.0
-- name: Detect Intrusion
-  weight: 0.0074
-  avg_copies: 2.0
 - name: Glimmervoid
   weight: 0.0074
   avg_copies: 2.0
-- name: Prismari Charm
-  weight: 0.0074
-  avg_copies: 2.0
 - name: Jokulmorder
-  weight: 0.0074
-  avg_copies: 1.0
-- name: Chandra, Spark Hunter
   weight: 0.0074
   avg_copies: 1.0
 - name: Mountain
@@ -211,6 +208,9 @@ top_cards:
   weight: 0.0074
   avg_copies: 1.0
 - name: Void Mirror
+  weight: 0.0074
+  avg_copies: 1.0
+- name: Chandra, Spark Hunter
   weight: 0.0074
   avg_copies: 1.0
 - name: Ghirapur Aether Grid

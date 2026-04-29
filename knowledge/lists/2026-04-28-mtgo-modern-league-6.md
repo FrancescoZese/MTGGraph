@@ -1,5 +1,5 @@
 ---
-archetype: unknown-24
+archetype: devoted-combo
 date: '2026-04-28'
 finish: 5-0
 pilot: Stuhl

@@ -15,7 +15,7 @@ archetypes:
     weight: 0.28
     avg_copies: 1.0
   reanimator:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 3.0
   4c-omnath:
     weight: 0.5

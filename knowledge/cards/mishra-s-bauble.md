@@ -9,7 +9,7 @@ type: Artifact
 meta_presence: 0.1823
 archetypes:
   dimir-control:
-    weight: 0.0339
+    weight: 0.0323
     avg_copies: 4.0
   affinity:
     weight: 1.0

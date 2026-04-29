@@ -21,10 +21,10 @@ top_cards:
 - name: Leyline Axe
   weight: 1.0
   avg_copies: 3.67
-- name: Battlefield Improvisation
+- name: Ornithopter
   weight: 1.0
   avg_copies: 3.67
-- name: Ornithopter
+- name: Battlefield Improvisation
   weight: 1.0
   avg_copies: 3.67
 - name: Metallic Rebuke
@@ -36,25 +36,25 @@ top_cards:
 - name: Puresteel Paladin
   weight: 1.0
   avg_copies: 3.0
-- name: Sanctifier en-Vec
-  weight: 1.0
-  avg_copies: 2.67
-- name: Plains
+- name: Mox Opal
   weight: 1.0
   avg_copies: 2.67
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.67
+- name: Sanctifier en-Vec
+  weight: 1.0
+  avg_copies: 2.67
 - name: Inkmoth Nexus
   weight: 1.0
   avg_copies: 2.67
-- name: Mox Opal
+- name: Plains
   weight: 1.0
   avg_copies: 2.67
-- name: Soulless Jailer
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 2.33
-- name: Flooded Strand
+- name: Soulless Jailer
   weight: 1.0
   avg_copies: 2.33
 - name: Vexing Bauble
@@ -63,10 +63,10 @@ top_cards:
 - name: Shadowspear
   weight: 1.0
   avg_copies: 1.0
-- name: Consign to Memory
+- name: Mystical Dispute
   weight: 0.6667
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Consign to Memory
   weight: 0.6667
   avg_copies: 2.0
 - name: Surge of Salvation
@@ -75,52 +75,52 @@ top_cards:
 - name: Springleaf Drum
   weight: 0.6667
   avg_copies: 1.5
+- name: Pithing Needle
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Arid Mesa
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Tormod's Crypt
+  weight: 0.6667
+  avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.6667
   avg_copies: 1.0
 - name: Lavaspur Boots
   weight: 0.6667
   avg_copies: 1.0
-- name: Arid Mesa
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Pithing Needle
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Tormod's Crypt
-  weight: 0.6667
-  avg_copies: 1.0
+- name: Portable Hole
+  weight: 0.3333
+  avg_copies: 4.0
 - name: Mishra's Bauble
   weight: 0.3333
   avg_copies: 4.0
 - name: Flare of Fortitude
   weight: 0.3333
   avg_copies: 4.0
-- name: Portable Hole
+- name: Test of Talents
   weight: 0.3333
-  avg_copies: 4.0
+  avg_copies: 2.0
+- name: Suncleanser
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Damping Sphere
+  weight: 0.3333
+  avg_copies: 2.0
 - name: Sigarda's Aid
   weight: 0.3333
   avg_copies: 2.0
 - name: Containment Priest
   weight: 0.3333
   avg_copies: 2.0
-- name: Suncleanser
+- name: Voice of Victory
   weight: 0.3333
-  avg_copies: 2.0
-- name: Test of Talents
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Damping Sphere
-  weight: 0.3333
-  avg_copies: 2.0
+  avg_copies: 1.0
 - name: Grafdigger's Cage
   weight: 0.3333
   avg_copies: 1.0
 - name: Skateboard
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Voice of Victory
   weight: 0.3333
   avg_copies: 1.0
 ---

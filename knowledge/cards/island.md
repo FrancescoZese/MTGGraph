@@ -9,8 +9,8 @@ type: Basic Land — Island
 meta_presence: 0.3524
 archetypes:
   dimir-control:
-    weight: 0.9831
-    avg_copies: 2.66
+    weight: 0.9839
+    avg_copies: 2.62
   mono-blue-belcher:
     weight: 0.4828
     avg_copies: 1.0
@@ -27,8 +27,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.9
-    avg_copies: 1.67
+    weight: 0.8636
+    avg_copies: 1.63
   affinity:
     weight: 0.9704
     avg_copies: 1.15
@@ -36,7 +36,7 @@ archetypes:
     weight: 0.625
     avg_copies: 3.2
   reanimator:
-    weight: 0.92
+    weight: 0.8846
     avg_copies: 1.04
   neoform-combo:
     weight: 0.0357
@@ -98,16 +98,10 @@ archetypes:
   4c-omnath9:
     weight: 0.5
     avg_copies: 1.0
-  unknown-22:
-    weight: 1.0
-    avg_copies: 2.0
   unknown-25:
     weight: 1.0
     avg_copies: 1.0
-  unknown-23:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-26:
+  sultai-midrange:
     weight: 1.0
     avg_copies: 2.0
 ---

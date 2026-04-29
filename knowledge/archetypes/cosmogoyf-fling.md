@@ -7,10 +7,13 @@ name: Cosmogoyf Fling
 meta_share: 0.008
 list_count: 11
 top_cards:
+- name: Cosmogoyf
+  weight: 1.0
+  avg_copies: 4.0
 - name: Chancellor of the Tangle
   weight: 1.0
   avg_copies: 4.0
-- name: Cosmogoyf
+- name: Thud
   weight: 1.0
   avg_copies: 4.0
 - name: Plunge into Darkness
@@ -19,19 +22,16 @@ top_cards:
 - name: Gemstone Caverns
   weight: 1.0
   avg_copies: 4.0
-- name: Thud
-  weight: 1.0
-  avg_copies: 4.0
-- name: Gemstone Mine
-  weight: 1.0
-  avg_copies: 3.82
 - name: Spoils of the Vault
   weight: 1.0
   avg_copies: 3.82
-- name: Devourer of Destiny
+- name: Gemstone Mine
+  weight: 1.0
+  avg_copies: 3.82
+- name: Blackcleave Cliffs
   weight: 1.0
   avg_copies: 3.73
-- name: Blackcleave Cliffs
+- name: Devourer of Destiny
   weight: 1.0
   avg_copies: 3.73
 - name: Blooming Marsh
@@ -76,10 +76,10 @@ top_cards:
 - name: Leyline of Sanctity
   weight: 0.6364
   avg_copies: 4.0
-- name: Aloe Alchemist
+- name: Disciple of Freyalise
   weight: 0.2727
   avg_copies: 1.0
-- name: Disciple of Freyalise
+- name: Aloe Alchemist
   weight: 0.2727
   avg_copies: 1.0
 - name: Veil of Summer
@@ -91,10 +91,10 @@ top_cards:
 - name: Fatal Push
   weight: 0.0909
   avg_copies: 4.0
-- name: Boseiju, Who Endures
+- name: Mountain
   weight: 0.0909
   avg_copies: 1.0
-- name: Mountain
+- name: Boseiju, Who Endures
   weight: 0.0909
   avg_copies: 1.0
 ---

@@ -1,5 +1,5 @@
 ---
-archetype: unknown-19
+archetype: jeskai-control
 date: '2026-04-28'
 finish: 5-0
 pilot: greedofdeath

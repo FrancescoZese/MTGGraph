@@ -9,8 +9,8 @@ type: Artifact
 meta_presence: 0.0564
 archetypes:
   dimir-control:
-    weight: 0.2373
-    avg_copies: 1.13
+    weight: 0.2581
+    avg_copies: 1.17
   jeskai-energy:
     weight: 0.0111
     avg_copies: 1.0
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.125
     avg_copies: 1.0
   reanimator:
-    weight: 0.2
+    weight: 0.1923
     avg_copies: 1.0
   burn:
     weight: 0.1667
@@ -56,13 +56,10 @@ archetypes:
   soultrader-combo0:
     weight: 1.0
     avg_copies: 1.0
-  unknown-22:
-    weight: 0.6667
-    avg_copies: 1.33
   unknown-4:
     weight: 1.0
     avg_copies: 1.0
-  unknown-26:
+  sultai-midrange:
     weight: 1.0
     avg_copies: 1.0
 ---

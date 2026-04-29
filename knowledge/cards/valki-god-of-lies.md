@@ -8,7 +8,7 @@ set: khm
 type: Legendary Creature — God // Legendary Planeswalker — Tibalt
 meta_presence: 0.0007
 archetypes:
-  unknown-26:
+  sultai-midrange:
     weight: 1.0
     avg_copies: 2.0
 ---

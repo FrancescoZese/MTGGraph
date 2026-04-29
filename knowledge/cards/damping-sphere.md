@@ -12,8 +12,8 @@ archetypes:
     weight: 0.2632
     avg_copies: 1.5
   dimir-control:
-    weight: 0.1695
-    avg_copies: 1.1
+    weight: 0.1774
+    avg_copies: 1.09
   jeskai-energy:
     weight: 0.3222
     avg_copies: 1.41
@@ -30,8 +30,8 @@ archetypes:
     weight: 0.56
     avg_copies: 1.07
   jeskai-control:
-    weight: 0.25
-    avg_copies: 2.0
+    weight: 0.2727
+    avg_copies: 1.83
   affinity:
     weight: 0.9852
     avg_copies: 2.53
@@ -39,7 +39,7 @@ archetypes:
     weight: 0.8444
     avg_copies: 1.55
   reanimator:
-    weight: 0.72
+    weight: 0.6923
     avg_copies: 1.94
   burn:
     weight: 0.1667
@@ -113,13 +113,7 @@ archetypes:
   goryo7:
     weight: 1.0
     avg_copies: 2.0
-  unknown-22:
-    weight: 0.3333
-    avg_copies: 1.0
-  unknown-23:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-24:
+  devoted-combo:
     weight: 1.0
     avg_copies: 3.0
 ---

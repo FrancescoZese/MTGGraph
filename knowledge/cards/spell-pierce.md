@@ -10,13 +10,13 @@ type: Instant
 meta_presence: 0.0724
 archetypes:
   dimir-control:
-    weight: 0.2373
+    weight: 0.2258
     avg_copies: 1.0
   mono-blue-belcher:
     weight: 0.3103
     avg_copies: 1.0
   reanimator:
-    weight: 0.76
+    weight: 0.7308
     avg_copies: 1.84
   izzet-prowess:
     weight: 0.8103

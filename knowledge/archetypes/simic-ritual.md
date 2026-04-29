@@ -6,7 +6,7 @@ name: Simic Ritual
 meta_share: 0.026
 list_count: 36
 top_cards:
-- name: Coiling Oracle
+- name: Birthing Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Ice-Fang Coatl
@@ -15,7 +15,7 @@ top_cards:
 - name: Flare of Denial
   weight: 1.0
   avg_copies: 4.0
-- name: Birthing Ritual
+- name: Coiling Oracle
   weight: 1.0
   avg_copies: 4.0
 - name: Abhorrent Oculus
@@ -120,19 +120,19 @@ top_cards:
 - name: Fatal Push
   weight: 0.0556
   avg_copies: 2.0
-- name: Underground Mortuary
-  weight: 0.0556
-  avg_copies: 1.0
 - name: Flooded Strand
   weight: 0.0556
   avg_copies: 1.0
 - name: Neoform
   weight: 0.0556
   avg_copies: 1.0
-- name: Pyroclasm
+- name: Underground Mortuary
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Fire Magic
   weight: 0.0278
   avg_copies: 3.0
-- name: Fire Magic
+- name: Pyroclasm
   weight: 0.0278
   avg_copies: 3.0
 - name: Quantum Riddler
@@ -141,13 +141,10 @@ top_cards:
 - name: Psychic Frog
   weight: 0.0278
   avg_copies: 2.0
-- name: Scalding Tarn
+- name: Steam Vents
   weight: 0.0278
   avg_copies: 1.0
-- name: Willowrush Verge
-  weight: 0.0278
-  avg_copies: 1.0
-- name: Thundering Falls
+- name: Firespout
   weight: 0.0278
   avg_copies: 1.0
 - name: Pick Your Poison
@@ -156,10 +153,13 @@ top_cards:
 - name: Toxic Deluge
   weight: 0.0278
   avg_copies: 1.0
-- name: Stern Scolding
+- name: Stomping Ground
   weight: 0.0278
   avg_copies: 1.0
-- name: Steam Vents
+- name: Thundering Falls
+  weight: 0.0278
+  avg_copies: 1.0
+- name: Willowrush Verge
   weight: 0.0278
   avg_copies: 1.0
 - name: Spell Snare
@@ -168,16 +168,16 @@ top_cards:
 - name: Pond Prophet
   weight: 0.0278
   avg_copies: 1.0
+- name: Scalding Tarn
+  weight: 0.0278
+  avg_copies: 1.0
 - name: Hurkyl's Recall
   weight: 0.0278
   avg_copies: 1.0
-- name: Firespout
+- name: Stern Scolding
   weight: 0.0278
   avg_copies: 1.0
 - name: Dress Down
-  weight: 0.0278
-  avg_copies: 1.0
-- name: Stomping Ground
   weight: 0.0278
   avg_copies: 1.0
 ---

@@ -10,14 +10,14 @@ type: Sorcery
 meta_presence: 0.0239
 archetypes:
   dimir-control:
-    weight: 0.0169
+    weight: 0.0161
     avg_copies: 1.0
   azorius-control:
     weight: 0.9231
     avg_copies: 1.67
   jeskai-control:
-    weight: 0.6
-    avg_copies: 1.17
+    weight: 0.5909
+    avg_copies: 1.23
   4c-omnath:
     weight: 0.25
     avg_copies: 4.0
@@ -37,9 +37,6 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-25:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-23:
     weight: 1.0
     avg_copies: 2.0
 ---

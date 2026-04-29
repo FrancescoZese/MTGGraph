@@ -9,7 +9,7 @@ type: Legendary Land
 meta_presence: 0.1447
 archetypes:
   dimir-control:
-    weight: 0.5932
+    weight: 0.5968
     avg_copies: 1.0
   amulet-titan:
     weight: 1.0
@@ -21,7 +21,7 @@ archetypes:
     weight: 0.84
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.25
+    weight: 0.2273
     avg_copies: 1.0
   affinity:
     weight: 0.0963
@@ -64,8 +64,5 @@ archetypes:
     avg_copies: 1.0
   izzet-murktide:
     weight: 1.0
-    avg_copies: 1.0
-  unknown-22:
-    weight: 0.6667
     avg_copies: 1.0
 ---

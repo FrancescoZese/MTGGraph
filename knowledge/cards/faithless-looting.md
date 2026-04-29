@@ -13,8 +13,8 @@ archetypes:
     weight: 0.0222
     avg_copies: 4.0
   reanimator:
-    weight: 0.88
-    avg_copies: 3.86
+    weight: 0.8846
+    avg_copies: 3.87
   hollow-one:
     weight: 1.0
     avg_copies: 4.0
@@ -34,9 +34,6 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   izzet-murktide:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-21:
     weight: 1.0
     avg_copies: 4.0
 ---

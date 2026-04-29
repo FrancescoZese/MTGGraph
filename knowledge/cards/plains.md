@@ -25,7 +25,7 @@ archetypes:
     avg_copies: 2.0
   jeskai-control:
     weight: 1.0
-    avg_copies: 1.8
+    avg_copies: 1.82
   domain-zoo:
     weight: 1.0
     avg_copies: 1.0
@@ -33,7 +33,7 @@ archetypes:
     weight: 0.125
     avg_copies: 1.0
   reanimator:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 1.0
   mardu-blink:
     weight: 0.3333
@@ -92,13 +92,7 @@ archetypes:
   unknown-25:
     weight: 1.0
     avg_copies: 2.0
-  unknown-23:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-19:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-24:
+  devoted-combo:
     weight: 1.0
     avg_copies: 1.0
 ---

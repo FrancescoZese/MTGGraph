@@ -8,13 +8,13 @@ set: iko
 type: Land — Island Mountain Plains
 meta_presence: 0.0022
 archetypes:
+  jeskai-control:
+    weight: 0.0455
+    avg_copies: 1.0
   esper-control:
     weight: 1.0
     avg_copies: 1.0
   goryo3:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-23:
     weight: 1.0
     avg_copies: 1.0
 ---

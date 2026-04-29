@@ -20,6 +20,9 @@ archetypes:
   azorius-control:
     weight: 0.1538
     avg_copies: 2.0
+  jeskai-control:
+    weight: 0.0455
+    avg_copies: 1.0
   neoform-combo:
     weight: 0.1429
     avg_copies: 2.0
@@ -68,10 +71,7 @@ archetypes:
   selesnya-midrange:
     weight: 1.0
     avg_copies: 4.0
-  unknown-23:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-24:
+  devoted-combo:
     weight: 1.0
     avg_copies: 4.0
 ---

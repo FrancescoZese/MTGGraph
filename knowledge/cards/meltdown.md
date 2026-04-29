@@ -16,19 +16,19 @@ archetypes:
     weight: 0.0602
     avg_copies: 1.31
   dimir-control:
-    weight: 0.322
+    weight: 0.3065
     avg_copies: 2.42
   jeskai-energy:
     weight: 0.0111
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.2
+    weight: 0.1818
     avg_copies: 1.0
   domain-zoo:
     weight: 0.0222
     avg_copies: 1.0
   reanimator:
-    weight: 0.84
+    weight: 0.8077
     avg_copies: 2.1
   burn:
     weight: 0.1667

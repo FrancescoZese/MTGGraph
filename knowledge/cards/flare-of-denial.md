@@ -16,13 +16,13 @@ archetypes:
     weight: 0.28
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.1
+    weight: 0.1364
     avg_copies: 2.0
   mill:
     weight: 0.125
     avg_copies: 2.0
   reanimator:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 4.0
   simic-ritual:
     weight: 1.0
@@ -41,8 +41,5 @@ archetypes:
     avg_copies: 4.0
   4c-omnath9:
     weight: 0.5
-    avg_copies: 2.0
-  unknown-19:
-    weight: 1.0
     avg_copies: 2.0
 ---

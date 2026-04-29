@@ -9,7 +9,7 @@ type: Legendary Land
 meta_presence: 0.0029
 archetypes:
   reanimator:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 3.0
   soultrader-combo:
     weight: 1.0

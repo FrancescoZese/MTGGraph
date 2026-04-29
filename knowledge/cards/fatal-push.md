@@ -11,7 +11,7 @@ meta_presence: 0.1563
 archetypes:
   dimir-control:
     weight: 1.0
-    avg_copies: 3.8
+    avg_copies: 3.81
   goryo:
     weight: 0.5179
     avg_copies: 1.41
@@ -22,8 +22,8 @@ archetypes:
     weight: 0.875
     avg_copies: 3.57
   reanimator:
-    weight: 0.92
-    avg_copies: 3.91
+    weight: 0.9231
+    avg_copies: 3.83
   hollow-one:
     weight: 0.4
     avg_copies: 2.5
@@ -84,16 +84,10 @@ archetypes:
   soultrader-combo:
     weight: 1.0
     avg_copies: 2.5
-  unknown-22:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-21:
-    weight: 1.0
-    avg_copies: 2.0
   unknown-4:
     weight: 1.0
     avg_copies: 3.0
-  unknown-26:
+  sultai-midrange:
     weight: 1.0
     avg_copies: 4.0
 ---

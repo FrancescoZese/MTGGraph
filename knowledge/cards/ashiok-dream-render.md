@@ -11,7 +11,7 @@ type: Legendary Planeswalker — Ashiok
 meta_presence: 0.1136
 archetypes:
   dimir-control:
-    weight: 0.0678
+    weight: 0.0645
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.3556
@@ -26,7 +26,7 @@ archetypes:
     weight: 0.2308
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.25
+    weight: 0.2273
     avg_copies: 1.0
   affinity:
     weight: 0.1481
@@ -35,7 +35,7 @@ archetypes:
     weight: 0.6444
     avg_copies: 1.41
   reanimator:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 2.0
   kethis-combo:
     weight: 0.2
