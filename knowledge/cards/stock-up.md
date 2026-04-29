@@ -22,18 +22,13 @@ archetypes:
     weight: 0.7692
     avg_copies: 2.4
   jeskai-control:
-<<<<<<< Updated upstream
-    weight: 0.4211
+    weight: 0.4
     avg_copies: 1.75
-=======
-    weight: 0.3684
-    avg_copies: 1.86
->>>>>>> Stashed changes
   mono-blue-tron:
     weight: 1.0
     avg_copies: 4.0
   4c-omnath:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 2.0
   eldrazi-breach:
     weight: 1.0

@@ -12,7 +12,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   4c-omnath:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 4.0
   soultrader-combo0:
     weight: 1.0

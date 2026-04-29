@@ -16,16 +16,11 @@ archetypes:
     weight: 0.0111
     avg_copies: 2.0
   jeskai-control:
-    weight: 0.0526
+    weight: 0.05
     avg_copies: 2.0
   boros-ponza:
-<<<<<<< Updated upstream
-    weight: 0.1935
+    weight: 0.1875
     avg_copies: 3.17
-=======
-    weight: 0.1852
-    avg_copies: 3.2
->>>>>>> Stashed changes
   indomitable-creativity:
     weight: 0.625
     avg_copies: 2.6

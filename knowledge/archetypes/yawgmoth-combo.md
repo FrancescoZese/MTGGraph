@@ -9,15 +9,6 @@ top_cards:
 - name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
-<<<<<<< Updated upstream
-=======
-- name: Delighted Halfling
-  weight: 1.0
-  avg_copies: 4.0
-- name: Badgermole Cub
-  weight: 1.0
-  avg_copies: 4.0
->>>>>>> Stashed changes
 - name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 3.94
@@ -26,7 +17,6 @@ top_cards:
   avg_copies: 3.88
 - name: Yawgmoth, Thran Physician
   weight: 1.0
-<<<<<<< Updated upstream
   avg_copies: 3.88
 - name: Delighted Halfling
   weight: 1.0
@@ -35,13 +25,6 @@ top_cards:
   weight: 1.0
   avg_copies: 3.69
 - name: Malevolent Rumble
-=======
-  avg_copies: 3.86
-- name: Malevolent Rumble
-  weight: 1.0
-  avg_copies: 3.71
-- name: Young Wolf
->>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 3.62
 - name: Green Sun's Zenith
@@ -79,38 +62,23 @@ top_cards:
   avg_copies: 1.19
 - name: Underground Mortuary
   weight: 1.0
-<<<<<<< Updated upstream
   avg_copies: 1.06
 - name: Soulless Jailer
   weight: 1.0
   avg_copies: 1.0
+- name: Dryad Arbor
+  weight: 1.0
+  avg_copies: 1.0
+- name: Swamp
+  weight: 1.0
+  avg_copies: 1.0
 - name: Grist, the Hunger Tide
   weight: 1.0
   avg_copies: 1.0
 - name: Endurance
-=======
-  avg_copies: 1.07
-- name: Dryad Arbor
-  weight: 1.0
-  avg_copies: 1.0
-- name: Endurance
-  weight: 1.0
-  avg_copies: 1.0
-- name: Swamp
->>>>>>> Stashed changes
-  weight: 1.0
-  avg_copies: 1.0
-- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
 - name: Strangleroot Geist
-  weight: 1.0
-  avg_copies: 1.0
-<<<<<<< Updated upstream
-- name: Swamp
-=======
-- name: Grist, the Hunger Tide
->>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 1.0
 - name: Windswept Heath
@@ -135,25 +103,12 @@ top_cards:
   weight: 0.6875
   avg_copies: 2.09
 - name: Dredger's Insight
-<<<<<<< Updated upstream
   weight: 0.6875
   avg_copies: 1.73
 - name: Pile On
   weight: 0.5625
-=======
-  weight: 0.6429
-  avg_copies: 1.89
-- name: Misty Rainforest
-  weight: 0.5
-  avg_copies: 1.29
-- name: Wooded Foothills
-  weight: 0.5
-  avg_copies: 1.14
-- name: Scavenging Ooze
-  weight: 0.5
->>>>>>> Stashed changes
   avg_copies: 1.0
-- name: Pile On
+- name: Scavenging Ooze
   weight: 0.5
   avg_copies: 1.0
 - name: Misty Rainforest
@@ -171,25 +126,17 @@ top_cards:
 - name: Ignoble Hierarch
   weight: 0.25
   avg_copies: 1.0
-- name: Hapatra, Vizier of Poisons
-  weight: 0.1875
-  avg_copies: 1.0
 - name: Kraul Harpooner
   weight: 0.1875
   avg_copies: 1.0
-<<<<<<< Updated upstream
+- name: Hapatra, Vizier of Poisons
+  weight: 0.1875
+  avg_copies: 1.0
 - name: Culling Ritual
   weight: 0.125
   avg_copies: 1.0
 - name: Assassin's Trophy
   weight: 0.125
-=======
-- name: Assassin's Trophy
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Culling Ritual
-  weight: 0.1429
->>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Nurturing Peatland
   weight: 0.0625

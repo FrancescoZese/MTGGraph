@@ -18,7 +18,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.01
   jeskai-control:
-    weight: 0.6842
+    weight: 0.7
     avg_copies: 1.0
   burn:
     weight: 0.1667
@@ -27,17 +27,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   boros-ponza:
-<<<<<<< Updated upstream
-    weight: 0.0645
+    weight: 0.0625
     avg_copies: 1.0
   4c-omnath:
-    weight: 0.3333
-=======
-    weight: 0.0741
-    avg_copies: 1.0
-  4c-omnath:
-    weight: 0.6667
->>>>>>> Stashed changes
+    weight: 0.5
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.625
@@ -52,6 +45,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   soultrader-combo0:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-19:
     weight: 1.0
     avg_copies: 1.0
 ---

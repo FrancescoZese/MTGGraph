@@ -54,19 +54,16 @@ archetypes:
   soultrader-combo:
     weight: 1.0
     avg_copies: 4.0
-<<<<<<< Updated upstream
-  unknown-6:
-    weight: 1.0
-    avg_copies: 2.0
   unknown-22:
     weight: 1.0
     avg_copies: 4.0
   unknown-21:
     weight: 1.0
     avg_copies: 3.0
+  unknown-4:
+    weight: 1.0
+    avg_copies: 4.0
   unknown-26:
     weight: 1.0
     avg_copies: 2.0
-=======
->>>>>>> Stashed changes
 ---

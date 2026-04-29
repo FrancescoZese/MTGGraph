@@ -25,7 +25,7 @@ archetypes:
     weight: 0.4444
     avg_copies: 1.75
   4c-omnath:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 1.0
   broodscale-combo:
     weight: 0.6

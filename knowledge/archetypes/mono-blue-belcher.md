@@ -8,31 +8,22 @@ top_cards:
 - name: Whir of Invention
   weight: 1.0
   avg_copies: 4.0
-- name: Sink into Stupor
-  weight: 1.0
-  avg_copies: 4.0
 - name: Goblin Charbelcher
   weight: 1.0
   avg_copies: 4.0
-- name: Lotus Bloom
-<<<<<<< Updated upstream
-=======
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 4.0
-- name: Tameshi, Reality Architect
->>>>>>> Stashed changes
+- name: Lotus Bloom
   weight: 1.0
   avg_copies: 4.0
 - name: Suppression Ray
   weight: 1.0
   avg_copies: 3.97
-- name: Disrupting Shoal
-<<<<<<< Updated upstream
+- name: Tameshi, Reality Architect
   weight: 1.0
   avg_copies: 3.97
-- name: Tameshi, Reality Architect
-=======
->>>>>>> Stashed changes
+- name: Disrupting Shoal
   weight: 1.0
   avg_copies: 3.97
 - name: Sea Gate Restoration
@@ -125,10 +116,10 @@ top_cards:
 - name: Stock Up
   weight: 0.1724
   avg_copies: 1.0
-- name: Mountain
+- name: Dusk Rose Reliquary
   weight: 0.1379
   avg_copies: 1.0
-- name: Dusk Rose Reliquary
+- name: Mountain
   weight: 0.1379
   avg_copies: 1.0
 - name: Step Through
@@ -137,30 +128,19 @@ top_cards:
 - name: Talisman of Progress
   weight: 0.069
   avg_copies: 1.0
-<<<<<<< Updated upstream
 - name: Witch Enchanter
-=======
-- name: Portable Hole
->>>>>>> Stashed changes
   weight: 0.0345
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.0345
   avg_copies: 1.0
-- name: Hope of Ghirapur
+- name: Portable Hole
   weight: 0.0345
   avg_copies: 1.0
-<<<<<<< Updated upstream
 - name: Displacement Wave
   weight: 0.0345
   avg_copies: 1.0
-- name: Surgical Extraction
-=======
-- name: Witch Enchanter
-  weight: 0.0345
-  avg_copies: 1.0
 - name: Hope of Ghirapur
->>>>>>> Stashed changes
   weight: 0.0345
   avg_copies: 1.0
 ---

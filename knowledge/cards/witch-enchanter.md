@@ -27,13 +27,8 @@ archetypes:
     weight: 0.5
     avg_copies: 3.25
   4c-omnath:
-<<<<<<< Updated upstream
-    weight: 1.0
+    weight: 0.75
     avg_copies: 1.67
-=======
-    weight: 0.6667
-    avg_copies: 1.5
->>>>>>> Stashed changes
   esper-blink:
     weight: 1.0
     avg_copies: 3.0

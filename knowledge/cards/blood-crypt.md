@@ -12,16 +12,11 @@ archetypes:
     weight: 0.0667
     avg_copies: 1.0
   reanimator:
-<<<<<<< Updated upstream
     weight: 0.88
     avg_copies: 1.09
-=======
-    weight: 0.875
-    avg_copies: 1.1
   burn:
     weight: 0.1667
     avg_copies: 2.0
->>>>>>> Stashed changes
   mardu-blink:
     weight: 1.0
     avg_copies: 1.0

@@ -13,13 +13,8 @@ archetypes:
     weight: 0.0189
     avg_copies: 1.0
   boros-ponza:
-<<<<<<< Updated upstream
-    weight: 0.5161
+    weight: 0.5
     avg_copies: 1.79
-=======
-    weight: 0.4074
-    avg_copies: 1.64
->>>>>>> Stashed changes
   goryo6:
     weight: 1.0
     avg_copies: 4.0

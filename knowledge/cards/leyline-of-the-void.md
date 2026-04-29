@@ -10,11 +10,7 @@ type: Enchantment
 meta_presence: 0.0058
 archetypes:
   goryo:
-<<<<<<< Updated upstream
-    weight: 0.0185
-=======
-    weight: 0.0189
->>>>>>> Stashed changes
+    weight: 0.0179
     avg_copies: 3.0
   reanimator:
     weight: 0.04

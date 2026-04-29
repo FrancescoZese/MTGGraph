@@ -19,13 +19,8 @@ archetypes:
     weight: 0.9889
     avg_copies: 2.34
   goryo:
-<<<<<<< Updated upstream
-    weight: 1.0
+    weight: 0.9643
     avg_copies: 2.72
-=======
-    weight: 0.9623
-    avg_copies: 2.71
->>>>>>> Stashed changes
   necrodominance:
     weight: 0.0476
     avg_copies: 3.0
@@ -37,7 +32,7 @@ archetypes:
     avg_copies: 3.33
   jeskai-control:
     weight: 1.0
-    avg_copies: 2.84
+    avg_copies: 2.85
   affinity:
     weight: 0.7926
     avg_copies: 1.38
@@ -63,16 +58,11 @@ archetypes:
     weight: 1.0
     avg_copies: 2.89
   izzet-prowess:
-<<<<<<< Updated upstream
-    weight: 0.2632
+    weight: 0.2586
     avg_copies: 1.6
-=======
-    weight: 0.25
-    avg_copies: 1.57
->>>>>>> Stashed changes
   4c-omnath:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.25
   esper-blink:
     weight: 0.75
     avg_copies: 2.11
@@ -130,4 +120,7 @@ archetypes:
   unknown-26:
     weight: 1.0
     avg_copies: 3.0
+  unknown-19:
+    weight: 1.0
+    avg_copies: 2.0
 ---

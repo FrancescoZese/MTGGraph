@@ -12,11 +12,7 @@ archetypes:
     weight: 0.1356
     avg_copies: 1.25
   goryo:
-<<<<<<< Updated upstream
-    weight: 0.0185
-=======
-    weight: 0.0189
->>>>>>> Stashed changes
+    weight: 0.0179
     avg_copies: 1.0
   unknown-22:
     weight: 0.6667

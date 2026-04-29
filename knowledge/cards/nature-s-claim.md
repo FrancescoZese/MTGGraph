@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0278
     avg_copies: 4.0
   goryo:
-    weight: 0.0377
+    weight: 0.0357
     avg_copies: 1.0
   hardened-scales:
     weight: 1.0
@@ -22,16 +22,11 @@ archetypes:
     weight: 0.9286
     avg_copies: 2.77
   eldrazi-ramp:
-<<<<<<< Updated upstream
     weight: 0.3571
     avg_copies: 2.1
-=======
-    weight: 0.3333
-    avg_copies: 2.0
   indomitable-creativity:
     weight: 0.125
     avg_copies: 3.0
->>>>>>> Stashed changes
   broodscale-combo:
     weight: 0.56
     avg_copies: 2.0

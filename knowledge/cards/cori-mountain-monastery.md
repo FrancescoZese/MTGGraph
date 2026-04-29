@@ -10,12 +10,5 @@ meta_presence: 0.0232
 archetypes:
   boros-ponza:
     weight: 1.0
-<<<<<<< Updated upstream
-    avg_copies: 3.29
-  unknown-5:
-    weight: 1.0
-    avg_copies: 3.0
-=======
-    avg_copies: 3.26
->>>>>>> Stashed changes
+    avg_copies: 3.28
 ---

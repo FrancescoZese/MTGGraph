@@ -9,11 +9,7 @@ type: Land
 meta_presence: 0.0087
 archetypes:
   goryo:
-<<<<<<< Updated upstream
-    weight: 0.1667
-=======
-    weight: 0.1509
->>>>>>> Stashed changes
+    weight: 0.1607
     avg_copies: 1.0
   mill:
     weight: 0.25

@@ -13,13 +13,8 @@ archetypes:
     weight: 0.7889
     avg_copies: 1.07
   goryo:
-<<<<<<< Updated upstream
-    weight: 0.6481
-    avg_copies: 1.14
-=======
-    weight: 0.6604
+    weight: 0.6429
     avg_copies: 1.17
->>>>>>> Stashed changes
   necrodominance:
     weight: 0.7143
     avg_copies: 1.53
@@ -27,7 +22,7 @@ archetypes:
     weight: 0.5385
     avg_copies: 1.14
   jeskai-control:
-    weight: 0.7368
+    weight: 0.7
     avg_copies: 1.21
   domain-zoo:
     weight: 0.1778
@@ -51,24 +46,14 @@ archetypes:
     weight: 0.65
     avg_copies: 1.77
   boros-ponza:
-<<<<<<< Updated upstream
-    weight: 0.1613
-    avg_copies: 1.0
-=======
-    weight: 0.1481
-    avg_copies: 1.4
->>>>>>> Stashed changes
+    weight: 0.1875
+    avg_copies: 1.29
   eldrazi-ramp:
     weight: 0.1071
     avg_copies: 1.67
   izzet-prowess:
-<<<<<<< Updated upstream
-    weight: 0.8772
-    avg_copies: 1.63
-=======
-    weight: 0.875
-    avg_copies: 1.62
->>>>>>> Stashed changes
+    weight: 0.8793
+    avg_copies: 1.64
   esper-blink:
     weight: 0.25
     avg_copies: 1.0

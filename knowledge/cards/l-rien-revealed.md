@@ -16,15 +16,10 @@ archetypes:
     weight: 0.9231
     avg_copies: 1.67
   jeskai-control:
-<<<<<<< Updated upstream
-    weight: 0.6316
+    weight: 0.6
     avg_copies: 1.17
-=======
-    weight: 0.5789
-    avg_copies: 1.18
->>>>>>> Stashed changes
   4c-omnath:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 4.0
   esper-control:
     weight: 1.0
@@ -38,18 +33,13 @@ archetypes:
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 2.0
-<<<<<<< Updated upstream
-  unknown-19:
-    weight: 0.25
+  4c-omnath9:
+    weight: 0.5
     avg_copies: 2.0
   unknown-25:
     weight: 1.0
     avg_copies: 2.0
   unknown-23:
     weight: 1.0
-=======
-  4c-omnath9:
-    weight: 0.5
->>>>>>> Stashed changes
     avg_copies: 2.0
 ---

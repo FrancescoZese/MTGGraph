@@ -8,45 +8,25 @@ name: Samwise Combo
 meta_share: 0.008
 list_count: 11
 top_cards:
-<<<<<<< Updated upstream
 - name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
 - name: Cauldron Familiar
   weight: 1.0
   avg_copies: 4.0
-- name: Chord of Calling
-  weight: 1.0
-  avg_copies: 4.0
-- name: Gilded Goose
-=======
-- name: Chord of Calling
-  weight: 1.0
-  avg_copies: 4.0
 - name: Windswept Heath
   weight: 1.0
   avg_copies: 4.0
-- name: Gilded Goose
-  weight: 1.0
-  avg_copies: 4.0
-- name: Samwise Gamgee
->>>>>>> Stashed changes
+- name: Chord of Calling
   weight: 1.0
   avg_copies: 4.0
 - name: Samwise Gamgee
   weight: 1.0
   avg_copies: 4.0
-<<<<<<< Updated upstream
-- name: Birthing Ritual
-  weight: 1.0
-  avg_copies: 4.0
-- name: Windswept Heath
-=======
-- name: Cauldron Familiar
+- name: Gilded Goose
   weight: 1.0
   avg_copies: 4.0
 - name: Birthing Ritual
->>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 4.0
 - name: Young Wolf
@@ -70,23 +50,13 @@ top_cards:
 - name: Temple Garden
   weight: 1.0
   avg_copies: 1.18
-<<<<<<< Updated upstream
-- name: Forest
+- name: Lush Portico
   weight: 1.0
   avg_copies: 1.0
-- name: Lush Portico
-=======
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
-- name: Godless Shrine
-  weight: 1.0
-  avg_copies: 1.0
 - name: Forest
->>>>>>> Stashed changes
-  weight: 1.0
-  avg_copies: 1.0
-- name: Lush Portico
   weight: 1.0
   avg_copies: 1.0
 - name: Haywire Mite
@@ -119,20 +89,16 @@ top_cards:
 - name: Abhorrent Oculus
   weight: 0.6364
   avg_copies: 1.57
-- name: Underground Mortuary
+- name: Breeding Pool
   weight: 0.6364
   avg_copies: 1.0
 - name: Sylvan Safekeeper
   weight: 0.6364
   avg_copies: 1.0
-<<<<<<< Updated upstream
-- name: Breeding Pool
-=======
 - name: Nurturing Peatland
   weight: 0.6364
   avg_copies: 1.0
-- name: Sylvan Safekeeper
->>>>>>> Stashed changes
+- name: Underground Mortuary
   weight: 0.6364
   avg_copies: 1.0
 - name: Fatal Push
@@ -147,19 +113,13 @@ top_cards:
 - name: Thoughtseize
   weight: 0.4545
   avg_copies: 2.6
-- name: Lavinia, Azorius Renegade
-<<<<<<< Updated upstream
-=======
-  weight: 0.4545
-  avg_copies: 1.0
 - name: Grist, the Hunger Tide
->>>>>>> Stashed changes
   weight: 0.4545
   avg_copies: 1.0
 - name: Wooded Foothills
   weight: 0.4545
   avg_copies: 1.0
-- name: Grist, the Hunger Tide
+- name: Lavinia, Azorius Renegade
   weight: 0.4545
   avg_copies: 1.0
 - name: Wall of Roots
@@ -168,10 +128,10 @@ top_cards:
 - name: Scout for Survivors
   weight: 0.3636
   avg_copies: 1.75
-- name: Dauthi Voidwalker
+- name: Soulless Jailer
   weight: 0.3636
   avg_copies: 1.0
-- name: Soulless Jailer
+- name: Dauthi Voidwalker
   weight: 0.3636
   avg_copies: 1.0
 - name: Ruthless Lawbringer
@@ -180,19 +140,19 @@ top_cards:
 - name: Culling Ritual
   weight: 0.2727
   avg_copies: 2.0
-- name: Marionette Apprentice
+- name: High Noon
   weight: 0.2727
   avg_copies: 2.0
-- name: High Noon
+- name: Marionette Apprentice
   weight: 0.2727
   avg_copies: 2.0
 - name: Orcish Bowmasters
   weight: 0.2727
   avg_copies: 1.67
-- name: Voice of Victory
+- name: Surgical Extraction
   weight: 0.2727
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Voice of Victory
   weight: 0.2727
   avg_copies: 1.0
 - name: Path to Exile
@@ -201,58 +161,46 @@ top_cards:
 - name: Collector Ouphe
   weight: 0.1818
   avg_copies: 1.0
-- name: Seam Rip
+- name: Sephiroth, Fabled SOLDIER
   weight: 0.1818
   avg_copies: 1.0
-- name: Sephiroth, Fabled SOLDIER
+- name: Seam Rip
   weight: 0.1818
   avg_copies: 1.0
 - name: Dawnbringer Cleric
   weight: 0.1818
   avg_copies: 1.0
+- name: City of Brass
+  weight: 0.0909
+  avg_copies: 2.0
+- name: Haliya, Guided by Light
+  weight: 0.0909
+  avg_copies: 2.0
+- name: Dewdrop Cure
+  weight: 0.0909
+  avg_copies: 2.0
+- name: Mana Confluence
+  weight: 0.0909
+  avg_copies: 2.0
 - name: Assassin's Trophy
   weight: 0.0909
   avg_copies: 2.0
 - name: Moseo, Vein's New Dean
   weight: 0.0909
   avg_copies: 2.0
-- name: Haliya, Guided by Light
-  weight: 0.0909
-  avg_copies: 2.0
 - name: Abrupt Decay
   weight: 0.0909
   avg_copies: 2.0
-- name: City of Brass
-  weight: 0.0909
-  avg_copies: 2.0
-<<<<<<< Updated upstream
-- name: Moseo, Vein's New Dean
-=======
-- name: Abrupt Decay
->>>>>>> Stashed changes
-  weight: 0.0909
-  avg_copies: 2.0
-- name: Mana Confluence
-  weight: 0.0909
-  avg_copies: 2.0
-- name: Dewdrop Cure
-  weight: 0.0909
-<<<<<<< Updated upstream
-  avg_copies: 1.0
-- name: Veil of Summer
-=======
-  avg_copies: 2.0
-- name: Eidolon of Rhetoric
->>>>>>> Stashed changes
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Eidolon of Rhetoric
+- name: Swamp
   weight: 0.0909
   avg_copies: 1.0
 - name: Drannith Magistrate
   weight: 0.0909
   avg_copies: 1.0
-- name: Swamp
+- name: Veil of Summer
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Eidolon of Rhetoric
   weight: 0.0909
   avg_copies: 1.0
 ---

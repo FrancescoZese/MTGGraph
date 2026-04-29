@@ -21,11 +21,7 @@ archetypes:
     weight: 0.7444
     avg_copies: 1.0
   jeskai-control:
-<<<<<<< Updated upstream
-    weight: 0.0526
-=======
-    weight: 0.1053
->>>>>>> Stashed changes
+    weight: 0.1
     avg_copies: 1.0
   affinity:
     weight: 0.0074
@@ -53,11 +49,7 @@ archetypes:
     avg_copies: 1.16
   izzet-prowess:
     weight: 1.0
-<<<<<<< Updated upstream
-    avg_copies: 2.05
-=======
-    avg_copies: 2.0
->>>>>>> Stashed changes
+    avg_copies: 2.03
   indomitable-creativity:
     weight: 1.0
     avg_copies: 1.12
@@ -122,6 +114,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-23:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-19:
     weight: 1.0
     avg_copies: 1.0
 ---

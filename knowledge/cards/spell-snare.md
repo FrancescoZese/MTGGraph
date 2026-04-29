@@ -19,18 +19,13 @@ archetypes:
     weight: 0.0556
     avg_copies: 1.0
   goryo:
-<<<<<<< Updated upstream
-    weight: 0.1481
+    weight: 0.1429
     avg_copies: 1.1
-=======
-    weight: 0.1509
-    avg_copies: 1.11
->>>>>>> Stashed changes
   azorius-control:
     weight: 0.7692
     avg_copies: 1.9
   jeskai-control:
-    weight: 0.4737
+    weight: 0.45
     avg_copies: 1.6
   reanimator:
     weight: 0.04
@@ -45,14 +40,10 @@ archetypes:
     weight: 0.0278
     avg_copies: 1.0
   izzet-prowess:
-<<<<<<< Updated upstream
-    weight: 0.2982
-=======
-    weight: 0.3036
->>>>>>> Stashed changes
+    weight: 0.2931
     avg_copies: 1.29
   4c-omnath:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 2.0
   indomitable-creativity:
     weight: 0.625

@@ -87,210 +87,115 @@ top_cards:
 - name: Bloodstained Mire
   weight: 0.1429
   avg_copies: 3.33
-<<<<<<< Updated upstream
 - name: Illness in the Ranks
   weight: 0.1429
-=======
-- name: Ashiok, Dream Render
-  weight: 0.15
-  avg_copies: 1.67
-- name: Illness in the Ranks
-  weight: 0.15
->>>>>>> Stashed changes
   avg_copies: 1.67
 - name: Dreams of Steel and Oil
   weight: 0.1429
   avg_copies: 1.6
-<<<<<<< Updated upstream
+- name: Sorin, Imperious Bloodlord
+  weight: 0.0952
+  avg_copies: 4.0
 - name: Vein Ripper
   weight: 0.0952
   avg_copies: 4.0
-- name: Sorin, Imperious Bloodlord
-  weight: 0.0952
-  avg_copies: 4.0
-=======
->>>>>>> Stashed changes
 - name: Psychic Frog
   weight: 0.0952
   avg_copies: 4.0
-<<<<<<< Updated upstream
-- name: Polluted Delta
+- name: Consign to Memory
   weight: 0.0952
   avg_copies: 3.5
-- name: Consign to Memory
+- name: Polluted Delta
   weight: 0.0952
   avg_copies: 3.5
 - name: Watery Grave
   weight: 0.0952
-=======
-- name: Sorin, Imperious Bloodlord
-  weight: 0.1
-  avg_copies: 4.0
-- name: Polluted Delta
-  weight: 0.1
-  avg_copies: 3.5
-- name: Consign to Memory
-  weight: 0.1
-  avg_copies: 3.5
-- name: Watery Grave
-  weight: 0.1
->>>>>>> Stashed changes
   avg_copies: 3.5
 - name: Verdant Catacombs
   weight: 0.0952
   avg_copies: 2.5
 - name: The Filigree Sylex
-<<<<<<< Updated upstream
   weight: 0.0952
   avg_copies: 1.5
 - name: Toxic Deluge
   weight: 0.0952
   avg_copies: 1.5
-- name: Legion's End
-  weight: 0.0952
-  avg_copies: 1.0
-- name: Damnation
-  weight: 0.0952
-=======
-  weight: 0.1
-  avg_copies: 1.5
-- name: Toxic Deluge
-  weight: 0.1
-  avg_copies: 1.5
-- name: Damnation
-  weight: 0.1
-  avg_copies: 1.0
-- name: Legion's End
-  weight: 0.1
->>>>>>> Stashed changes
-  avg_copies: 1.0
 - name: Undercity Sewers
   weight: 0.0952
   avg_copies: 1.0
-<<<<<<< Updated upstream
-- name: Gonti's Machinations
+- name: Damnation
+  weight: 0.0952
+  avg_copies: 1.0
+- name: Legion's End
+  weight: 0.0952
+  avg_copies: 1.0
+- name: Requiting Hex
   weight: 0.0476
   avg_copies: 4.0
-- name: Sign in Blood
+- name: Gonti's Machinations
   weight: 0.0476
   avg_copies: 4.0
 - name: Iridescent Vinelasher
   weight: 0.0476
   avg_copies: 4.0
-- name: Requiting Hex
-  weight: 0.0476
-=======
 - name: Sign in Blood
-  weight: 0.05
-  avg_copies: 4.0
-- name: Iridescent Vinelasher
-  weight: 0.05
-  avg_copies: 4.0
-- name: Gonti's Machinations
-  weight: 0.05
-  avg_copies: 4.0
-- name: Requiting Hex
-  weight: 0.05
->>>>>>> Stashed changes
-  avg_copies: 4.0
-- name: Mystical Dispute
   weight: 0.0476
-  avg_copies: 3.0
-<<<<<<< Updated upstream
+  avg_copies: 4.0
 - name: Quantum Riddler
   weight: 0.0476
   avg_copies: 3.0
-- name: Culling Ritual
+- name: Mystical Dispute
   weight: 0.0476
-  avg_copies: 2.0
-- name: Marsh Flats
-  weight: 0.0476
-  avg_copies: 2.0
-- name: Witherbloom Command
-  weight: 0.0476
-  avg_copies: 2.0
-- name: Hurkyl's Recall
-  weight: 0.0476
-=======
-- name: Hurkyl's Recall
-  weight: 0.05
-  avg_copies: 2.0
-- name: Marsh Flats
-  weight: 0.05
-  avg_copies: 2.0
-- name: Culling Ritual
-  weight: 0.05
-  avg_copies: 2.0
-- name: Phyrexian Crusader
-  weight: 0.05
->>>>>>> Stashed changes
-  avg_copies: 2.0
-- name: Phyrexian Crusader
-  weight: 0.0476
-  avg_copies: 2.0
-<<<<<<< Updated upstream
-- name: End of the Hunt
-  weight: 0.0476
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Mai, Scornful Striker
   weight: 0.0476
   avg_copies: 2.0
-- name: Duress
+- name: Culling Ritual
   weight: 0.0476
   avg_copies: 2.0
-- name: Pillage the Bog
-  weight: 0.0476
-  avg_copies: 2.0
-- name: Disruptor Flute
+- name: Witherbloom Command
   weight: 0.0476
   avg_copies: 2.0
 - name: Overgrown Tomb
   weight: 0.0476
   avg_copies: 2.0
-- name: Cling to Dust
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Nurturing Peatland
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Underground Mortuary
-  weight: 0.0476
-=======
-- name: Witherbloom Command
-  weight: 0.05
-  avg_copies: 2.0
 - name: Disruptor Flute
-  weight: 0.05
+  weight: 0.0476
   avg_copies: 2.0
-- name: Mai, Scornful Striker
-  weight: 0.05
-  avg_copies: 2.0
-- name: End of the Hunt
-  weight: 0.05
+- name: Hurkyl's Recall
+  weight: 0.0476
   avg_copies: 2.0
 - name: Pillage the Bog
-  weight: 0.05
+  weight: 0.0476
   avg_copies: 2.0
-- name: Underground Mortuary
-  weight: 0.05
-  avg_copies: 1.0
-- name: Nurturing Peatland
-  weight: 0.05
-  avg_copies: 1.0
-- name: Pick Your Poison
-  weight: 0.05
-  avg_copies: 1.0
-- name: Shizo, Death's Storehouse
-  weight: 0.05
->>>>>>> Stashed changes
-  avg_copies: 1.0
+- name: Duress
+  weight: 0.0476
+  avg_copies: 2.0
+- name: Marsh Flats
+  weight: 0.0476
+  avg_copies: 2.0
+- name: Phyrexian Crusader
+  weight: 0.0476
+  avg_copies: 2.0
+- name: End of the Hunt
+  weight: 0.0476
+  avg_copies: 2.0
 - name: Kaito, Bane of Nightmares
   weight: 0.0476
   avg_copies: 1.0
-- name: Shizo, Death's Storehouse
+- name: Cling to Dust
   weight: 0.0476
   avg_copies: 1.0
 - name: Pick Your Poison
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Nurturing Peatland
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Underground Mortuary
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Shizo, Death's Storehouse
   weight: 0.0476
   avg_copies: 1.0
 ---

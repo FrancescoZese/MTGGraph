@@ -30,13 +30,7 @@ archetypes:
   cosmogoyf-fling:
     weight: 0.1818
     avg_copies: 4.0
-<<<<<<< Updated upstream
-  unknown-7:
-    weight: 1.0
-    avg_copies: 3.0
   unknown-24:
     weight: 1.0
     avg_copies: 3.0
-=======
->>>>>>> Stashed changes
 ---

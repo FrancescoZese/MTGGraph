@@ -6,54 +6,31 @@ name: Eldrazi Breach
 meta_share: 0.0022
 list_count: 3
 top_cards:
-<<<<<<< Updated upstream
-- name: Kozilek's Command
-  weight: 1.0
-  avg_copies: 4.0
-- name: Talisman of Creativity
-  weight: 1.0
-  avg_copies: 4.0
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
-- name: Ugin's Labyrinth
-  weight: 1.0
-  avg_copies: 4.0
-- name: Emrakul, the Aeons Torn
-=======
 - name: Through the Breach
   weight: 1.0
   avg_copies: 4.0
 - name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
-- name: Stock Up
-  weight: 1.0
-  avg_copies: 4.0
-- name: Eldrazi Temple
-  weight: 1.0
-  avg_copies: 4.0
-- name: Consign to Memory
->>>>>>> Stashed changes
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Talisman of Creativity
   weight: 1.0
   avg_copies: 4.0
+- name: Emrakul, the Aeons Torn
+  weight: 1.0
+  avg_copies: 4.0
 - name: Stock Up
   weight: 1.0
   avg_copies: 4.0
-<<<<<<< Updated upstream
 - name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
-=======
-- name: Emrakul, the Aeons Torn
-  weight: 1.0
-  avg_copies: 4.0
-- name: Kozilek's Command
->>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 3.67
 - name: Devourer of Destiny
@@ -64,34 +41,20 @@ top_cards:
   avg_copies: 3.33
 - name: Preordain
   weight: 1.0
-<<<<<<< Updated upstream
   avg_copies: 2.67
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.33
+- name: Shivan Reef
+  weight: 1.0
+  avg_copies: 2.0
 - name: Island
-=======
-  avg_copies: 3.0
-- name: Island
   weight: 1.0
   avg_copies: 2.0
-- name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 2.0
-- name: Soulless Jailer
-  weight: 1.0
-  avg_copies: 2.0
-- name: Disruptor Flute
->>>>>>> Stashed changes
-  weight: 1.0
-  avg_copies: 2.0
-- name: Mystical Dispute
-  weight: 1.0
-  avg_copies: 2.0
-- name: Kozilek's Return
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.67
-- name: Steam Vents
+- name: Kozilek's Return
   weight: 1.0
   avg_copies: 1.67
 - name: Vexing Bauble
@@ -100,48 +63,31 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Lightning Bolt
+- name: Soulless Jailer
   weight: 0.6667
   avg_copies: 2.0
 - name: Disruptor Flute
   weight: 0.6667
   avg_copies: 2.0
-<<<<<<< Updated upstream
-- name: Soulless Jailer
+- name: Lightning Bolt
   weight: 0.6667
-=======
-- name: Shivan Reef
-  weight: 1.0
->>>>>>> Stashed changes
   avg_copies: 2.0
 - name: Spell Snare
   weight: 0.6667
   avg_copies: 1.5
-- name: Polluted Delta
+- name: Thundering Falls
   weight: 0.6667
   avg_copies: 1.0
-- name: Dress Down
-<<<<<<< Updated upstream
+- name: Polluted Delta
   weight: 0.6667
-=======
-  weight: 1.0
->>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Sink into Stupor
   weight: 0.6667
   avg_copies: 1.0
-<<<<<<< Updated upstream
-- name: Gemstone Caverns
+- name: Dress Down
   weight: 0.6667
-=======
-- name: Mountain
-  weight: 1.0
   avg_copies: 1.0
-- name: Vexing Bauble
-  weight: 1.0
->>>>>>> Stashed changes
-  avg_copies: 1.0
-- name: Thundering Falls
+- name: Gemstone Caverns
   weight: 0.6667
   avg_copies: 1.0
 - name: Ulamog, the Defiler
@@ -150,20 +96,19 @@ top_cards:
 - name: Yggdrasil, Rebirth Engine
   weight: 0.3333
   avg_copies: 3.0
-- name: Meltdown
+- name: Unholy Heat
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Fable of the Mirror-Breaker
   weight: 0.3333
   avg_copies: 2.0
 - name: Remand
   weight: 0.3333
   avg_copies: 2.0
-<<<<<<< Updated upstream
-- name: Fable of the Mirror-Breaker
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Unholy Heat
-  weight: 0.3333
-  avg_copies: 2.0
 - name: Talisman of Curiosity
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Meltdown
   weight: 0.3333
   avg_copies: 2.0
 - name: Boseiju, Who Shelters All
@@ -171,22 +116,6 @@ top_cards:
   avg_copies: 1.0
 - name: Lórien Revealed
   weight: 0.3333
-=======
-- name: Talisman of Curiosity
-  weight: 0.5
-  avg_copies: 2.0
-- name: Fable of the Mirror-Breaker
-  weight: 0.5
-  avg_copies: 2.0
-- name: Thundering Falls
-  weight: 0.5
-  avg_copies: 1.0
-- name: Lórien Revealed
-  weight: 0.5
-  avg_copies: 1.0
-- name: Gemstone Caverns
-  weight: 0.5
->>>>>>> Stashed changes
   avg_copies: 1.0
 ---
 Combo-ramp deck using Through the Breach to cheat Eldrazi into play.

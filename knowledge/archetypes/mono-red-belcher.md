@@ -6,49 +6,31 @@ name: Mono Red Belcher
 meta_share: 0.0058
 list_count: 8
 top_cards:
-<<<<<<< Updated upstream
-- name: Strike It Rich
-=======
-- name: Sundering Eruption
->>>>>>> Stashed changes
-  weight: 1.0
-  avg_copies: 4.0
-- name: Stormscale Scion
-  weight: 1.0
-  avg_copies: 4.0
-<<<<<<< Updated upstream
-- name: Pyretic Ritual
+- name: Desperate Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Shatterskull Smashing
-=======
+  weight: 1.0
+  avg_copies: 4.0
 - name: Stormscale Scion
-  weight: 1.0
-  avg_copies: 4.0
-- name: Pinnacle Monk
->>>>>>> Stashed changes
-  weight: 1.0
-  avg_copies: 4.0
-- name: Manamorphose
   weight: 1.0
   avg_copies: 4.0
 - name: Goblin Charbelcher
   weight: 1.0
   avg_copies: 4.0
-<<<<<<< Updated upstream
-- name: Pinnacle Monk
+- name: Pyretic Ritual
   weight: 1.0
   avg_copies: 4.0
-- name: Desperate Ritual
-=======
-- name: Desperate Ritual
-  weight: 1.0
-  avg_copies: 4.0
-- name: Strike It Rich
->>>>>>> Stashed changes
+- name: Sundering Eruption
   weight: 1.0
   avg_copies: 4.0
 - name: Manamorphose
+  weight: 1.0
+  avg_copies: 4.0
+- name: Pinnacle Monk
+  weight: 1.0
+  avg_copies: 4.0
+- name: Strike It Rich
   weight: 1.0
   avg_copies: 4.0
 - name: Irencrag Feat
@@ -117,39 +99,28 @@ top_cards:
 - name: Talisman of Conviction
   weight: 0.125
   avg_copies: 3.0
-- name: March of Reckless Joy
+- name: Serum Powder
   weight: 0.125
   avg_copies: 2.0
-<<<<<<< Updated upstream
 - name: Lantern of the Lost
   weight: 0.125
   avg_copies: 2.0
-- name: Serum Powder
-=======
 - name: Kraza, the Swarm as One
   weight: 0.125
   avg_copies: 2.0
-- name: Lantern of the Lost
->>>>>>> Stashed changes
+- name: March of Reckless Joy
   weight: 0.125
   avg_copies: 2.0
-- name: Serum Powder
+- name: Redirect Lightning
   weight: 0.125
-  avg_copies: 2.0
+  avg_copies: 1.0
+- name: Trinisphere
+  weight: 0.125
+  avg_copies: 1.0
 - name: The Legend of Roku
   weight: 0.125
   avg_copies: 1.0
 - name: Rush of Inspiration
-  weight: 0.125
-  avg_copies: 1.0
-- name: The Legend of Roku
-  weight: 0.125
-  avg_copies: 1.0
-<<<<<<< Updated upstream
-- name: Redirect Lightning
-=======
-- name: Trinisphere
->>>>>>> Stashed changes
   weight: 0.125
   avg_copies: 1.0
 ---

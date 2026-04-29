@@ -5,22 +5,16 @@ name: Amulet Titan
 meta_share: 0.0412
 list_count: 57
 top_cards:
-<<<<<<< Updated upstream
-- name: Amulet of Vigor
-  weight: 1.0
-  avg_copies: 4.0
-=======
->>>>>>> Stashed changes
-- name: Urza's Saga
+- name: Spelunking
   weight: 1.0
   avg_copies: 4.0
 - name: Arboreal Grazer
   weight: 1.0
   avg_copies: 4.0
-- name: Spelunking
+- name: Amulet of Vigor
   weight: 1.0
   avg_copies: 4.0
-- name: Spelunking
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Crumbling Vestige
@@ -56,52 +50,31 @@ top_cards:
 - name: Aftermath Analyst
   weight: 1.0
   avg_copies: 1.09
-<<<<<<< Updated upstream
-- name: Mirrorpool
-=======
-- name: Hanweir Battlements
->>>>>>> Stashed changes
+- name: Echoing Deeps
   weight: 1.0
   avg_copies: 1.0
-- name: Urza's Cave
+- name: Vesuva
   weight: 1.0
   avg_copies: 1.0
-<<<<<<< Updated upstream
 - name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
-- name: Hanweir Battlements
-=======
-- name: Mirrorpool
-  weight: 1.0
-  avg_copies: 1.0
-- name: Urza's Cave
->>>>>>> Stashed changes
-  weight: 1.0
-  avg_copies: 1.0
-- name: Echoing Deeps
+- name: Tolaria West
   weight: 1.0
   avg_copies: 1.0
 - name: Shifting Woodland
   weight: 1.0
   avg_copies: 1.0
-<<<<<<< Updated upstream
-- name: Bojuka Bog
-  weight: 1.0
-  avg_copies: 1.0
-- name: Vesuva
-  weight: 1.0
-  avg_copies: 1.0
-- name: Tolaria West
-=======
-- name: Otawara, Soaring City
+- name: Hanweir Battlements
   weight: 1.0
   avg_copies: 1.0
 - name: Bojuka Bog
   weight: 1.0
   avg_copies: 1.0
-- name: Vesuva
->>>>>>> Stashed changes
+- name: Urza's Cave
+  weight: 1.0
+  avg_copies: 1.0
+- name: Mirrorpool
   weight: 1.0
   avg_copies: 1.0
 - name: Dismember
@@ -158,59 +131,38 @@ top_cards:
 - name: Elder Gargaroth
   weight: 0.1228
   avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.1053
-  avg_copies: 1.0
 - name: Keen-Eyed Curator
   weight: 0.1053
   avg_copies: 1.0
-<<<<<<< Updated upstream
-- name: Elvish Reclaimer
-  weight: 0.0877
+- name: Soul-Guide Lantern
+  weight: 0.1053
   avg_copies: 1.0
 - name: Outland Liberator
   weight: 0.0877
   avg_copies: 1.0
 - name: Azusa, Lost but Seeking
   weight: 0.0877
-=======
-- name: Azusa, Lost but Seeking
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Keen-Eyed Curator
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Outland Liberator
-  weight: 0.0909
   avg_copies: 1.0
 - name: Elvish Reclaimer
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.0909
->>>>>>> Stashed changes
+  weight: 0.0877
   avg_copies: 1.0
 - name: Explore
   weight: 0.0702
   avg_copies: 3.0
-- name: Creeping Corrosion
-<<<<<<< Updated upstream
-  weight: 0.0702
-=======
-  weight: 0.0727
-  avg_copies: 1.0
 - name: Commercial District
-  weight: 0.0727
->>>>>>> Stashed changes
+  weight: 0.0702
   avg_copies: 1.0
 - name: Wooded Foothills
   weight: 0.0702
   avg_copies: 1.0
-- name: Commercial District
+- name: Creeping Corrosion
   weight: 0.0702
   avg_copies: 1.0
 - name: Hedge Maze
   weight: 0.0526
+  avg_copies: 1.0
+- name: Windswept Heath
+  weight: 0.0351
   avg_copies: 1.0
 - name: Tireless Tracker
   weight: 0.0351
@@ -218,17 +170,10 @@ top_cards:
 - name: Heritage Reclamation
   weight: 0.0351
   avg_copies: 1.0
-- name: Windswept Heath
-  weight: 0.0351
-  avg_copies: 1.0
 - name: Golgari Rot Farm
   weight: 0.0175
   avg_copies: 2.0
-<<<<<<< Updated upstream
 - name: Dosan the Falling Leaf
-  weight: 0.0175
-  avg_copies: 1.0
-- name: Gemstone Caverns
   weight: 0.0175
   avg_copies: 1.0
 - name: Insidious Fungus
@@ -239,22 +184,9 @@ top_cards:
   avg_copies: 1.0
 - name: Lithomantic Barrage
   weight: 0.0175
-=======
-- name: Insidious Fungus
-  weight: 0.0182
-  avg_copies: 1.0
-- name: Dosan the Falling Leaf
-  weight: 0.0182
   avg_copies: 1.0
 - name: Gemstone Caverns
-  weight: 0.0182
-  avg_copies: 1.0
-- name: Cavern of Souls
-  weight: 0.0182
-  avg_copies: 1.0
-- name: Lithomantic Barrage
-  weight: 0.0182
->>>>>>> Stashed changes
+  weight: 0.0175
   avg_copies: 1.0
 ---
 Combo-ramp deck using Amulet of Vigor to untap bounce lands, powering out Primeval Titan to assemble lethal with Valakut or utility lands.

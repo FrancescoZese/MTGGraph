@@ -24,17 +24,10 @@ archetypes:
     weight: 0.125
     avg_copies: 1.0
   boros-ponza:
-<<<<<<< Updated upstream
-    weight: 0.9355
+    weight: 0.9062
     avg_copies: 1.26
   izzet-prowess:
-    weight: 0.0175
-=======
-    weight: 0.9259
-    avg_copies: 1.31
-  izzet-prowess:
-    weight: 0.0179
->>>>>>> Stashed changes
+    weight: 0.0172
     avg_copies: 1.0
   naya-midrange:
     weight: 1.0

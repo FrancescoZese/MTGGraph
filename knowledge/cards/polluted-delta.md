@@ -13,11 +13,7 @@ archetypes:
     avg_copies: 3.71
   goryo:
     weight: 1.0
-<<<<<<< Updated upstream
-    avg_copies: 3.7
-=======
     avg_copies: 3.64
->>>>>>> Stashed changes
   necrodominance:
     weight: 0.0952
     avg_copies: 3.5
@@ -46,11 +42,7 @@ archetypes:
     weight: 0.3056
     avg_copies: 1.0
   izzet-prowess:
-<<<<<<< Updated upstream
-    weight: 0.0175
-=======
-    weight: 0.0179
->>>>>>> Stashed changes
+    weight: 0.0172
     avg_copies: 1.0
   esper-blink:
     weight: 0.9167

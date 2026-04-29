@@ -13,13 +13,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.8
   goryo:
-<<<<<<< Updated upstream
-    weight: 0.5
-    avg_copies: 1.38
-=======
-    weight: 0.5472
+    weight: 0.5179
     avg_copies: 1.41
->>>>>>> Stashed changes
   necrodominance:
     weight: 0.9524
     avg_copies: 3.95
@@ -88,27 +83,17 @@ archetypes:
     avg_copies: 4.0
   soultrader-combo:
     weight: 1.0
-<<<<<<< Updated upstream
-    avg_copies: 2.0
-  unknown-4:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-6:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.5
   unknown-22:
     weight: 1.0
     avg_copies: 4.0
   unknown-21:
     weight: 1.0
     avg_copies: 2.0
+  unknown-4:
+    weight: 1.0
+    avg_copies: 3.0
   unknown-26:
     weight: 1.0
     avg_copies: 4.0
-=======
-    avg_copies: 2.5
->>>>>>> Stashed changes
 ---

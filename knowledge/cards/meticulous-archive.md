@@ -15,7 +15,7 @@ archetypes:
     weight: 0.9889
     avg_copies: 1.0
   goryo:
-    weight: 0.9623
+    weight: 0.9643
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
@@ -25,11 +25,7 @@ archetypes:
     avg_copies: 1.0
   jeskai-control:
     weight: 1.0
-<<<<<<< Updated upstream
-    avg_copies: 1.74
-=======
-    avg_copies: 1.68
->>>>>>> Stashed changes
+    avg_copies: 1.7
   mill:
     weight: 0.125
     avg_copies: 1.0
@@ -43,7 +39,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   4c-omnath:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 1.0
   esper-blink:
     weight: 1.0
@@ -76,6 +72,9 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-23:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-19:
     weight: 1.0
     avg_copies: 1.0
 ---

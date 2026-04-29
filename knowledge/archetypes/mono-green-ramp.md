@@ -6,26 +6,22 @@ name: Mono Green Ramp
 meta_share: 0.0036
 list_count: 5
 top_cards:
-<<<<<<< Updated upstream
-- name: Springheart Nantuko
-=======
-- name: Quirion Ranger
->>>>>>> Stashed changes
-  weight: 1.0
-  avg_copies: 4.0
 - name: Badgermole Cub
   weight: 1.0
   avg_copies: 4.0
 - name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 4.0
-- name: Badgermole Cub
+- name: Quirion Ranger
   weight: 1.0
   avg_copies: 4.0
-- name: Misty Rainforest
+- name: Springheart Nantuko
+  weight: 1.0
+  avg_copies: 4.0
+- name: Windswept Heath
   weight: 1.0
   avg_copies: 3.4
-- name: Windswept Heath
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 3.4
 - name: Summoner's Pact
@@ -52,27 +48,16 @@ top_cards:
 - name: Ashaya, Soul of the Wild
   weight: 1.0
   avg_copies: 1.0
-<<<<<<< Updated upstream
-- name: Pithing Needle
-=======
 - name: Craterhoof Behemoth
->>>>>>> Stashed changes
+  weight: 1.0
+  avg_copies: 1.0
+- name: Chomping Changeling
   weight: 1.0
   avg_copies: 1.0
 - name: Endurance
   weight: 1.0
   avg_copies: 1.0
-<<<<<<< Updated upstream
-- name: Chomping Changeling
-  weight: 1.0
-  avg_copies: 1.0
-- name: Craterhoof Behemoth
-=======
-- name: Collector Ouphe
-  weight: 1.0
-  avg_copies: 1.0
-- name: Chomping Changeling
->>>>>>> Stashed changes
+- name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
 - name: Delighted Halfling
@@ -81,20 +66,13 @@ top_cards:
 - name: Leyline of Abundance
   weight: 0.8
   avg_copies: 3.25
-<<<<<<< Updated upstream
+- name: Thoughtseize
+  weight: 0.8
+  avg_copies: 3.0
+- name: Tyvar, Jubilant Brawler
+  weight: 0.8
+  avg_copies: 3.0
 - name: Lotus Cobra
-  weight: 0.8
-  avg_copies: 3.0
-- name: Tyvar, Jubilant Brawler
-=======
-- name: Thoughtseize
->>>>>>> Stashed changes
-  weight: 0.8
-  avg_copies: 3.0
-- name: Thoughtseize
-  weight: 0.8
-  avg_copies: 3.0
-- name: Tyvar, Jubilant Brawler
   weight: 0.8
   avg_copies: 3.0
 - name: Mai, Scornful Striker
@@ -112,42 +90,34 @@ top_cards:
 - name: Creeping Corrosion
   weight: 0.8
   avg_copies: 1.25
-<<<<<<< Updated upstream
-- name: Formidable Speaker
-=======
-- name: Underground Mortuary
->>>>>>> Stashed changes
-  weight: 0.8
-  avg_copies: 1.0
-- name: Formidable Speaker
-  weight: 0.8
-  avg_copies: 1.0
 - name: Disciple of Freyalise
   weight: 0.8
   avg_copies: 1.0
 - name: Nissa, Resurgent Animist
   weight: 0.8
   avg_copies: 1.0
+- name: Formidable Speaker
+  weight: 0.8
+  avg_copies: 1.0
+- name: Underground Mortuary
+  weight: 0.8
+  avg_copies: 1.0
 - name: The Great Henge
-  weight: 0.2
-  avg_copies: 4.0
-<<<<<<< Updated upstream
-- name: Slumbering Trudge
-=======
-- name: Life's Legacy
->>>>>>> Stashed changes
-  weight: 0.2
-  avg_copies: 4.0
-- name: Life's Legacy
   weight: 0.2
   avg_copies: 4.0
 - name: Fanatic of Rhonas
   weight: 0.2
   avg_copies: 4.0
-- name: Force of Vigor
+- name: Life's Legacy
+  weight: 0.2
+  avg_copies: 4.0
+- name: Slumbering Trudge
+  weight: 0.2
+  avg_copies: 4.0
+- name: Trinisphere
   weight: 0.2
   avg_copies: 3.0
-- name: Trinisphere
+- name: Force of Vigor
   weight: 0.2
   avg_copies: 3.0
 - name: Soulless Jailer

@@ -13,13 +13,8 @@ archetypes:
     weight: 0.1
     avg_copies: 1.0
   izzet-prowess:
-<<<<<<< Updated upstream
-    weight: 0.7018
+    weight: 0.6897
     avg_copies: 1.88
-=======
-    weight: 0.6964
-    avg_copies: 1.87
->>>>>>> Stashed changes
   rakdos-aggro:
     weight: 0.6667
     avg_copies: 1.0

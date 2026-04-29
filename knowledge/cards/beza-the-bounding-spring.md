@@ -13,13 +13,9 @@ archetypes:
     weight: 0.1538
     avg_copies: 1.0
   jeskai-control:
-<<<<<<< Updated upstream
-    weight: 0.2632
-=======
-    weight: 0.2105
->>>>>>> Stashed changes
+    weight: 0.25
     avg_copies: 1.0
   4c-omnath:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 1.0
 ---

@@ -9,7 +9,7 @@ type: Land — Swamp Forest
 meta_presence: 0.0434
 archetypes:
   goryo:
-    weight: 0.0377
+    weight: 0.0357
     avg_copies: 2.0
   necrodominance:
     weight: 0.0476
@@ -45,6 +45,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   soultrader-combo:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-4:
     weight: 1.0
     avg_copies: 1.0
   unknown-24:

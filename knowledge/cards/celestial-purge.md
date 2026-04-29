@@ -22,30 +22,20 @@ archetypes:
     weight: 0.0189
     avg_copies: 1.0
   goryo:
-<<<<<<< Updated upstream
-    weight: 0.6667
+    weight: 0.6429
     avg_copies: 1.11
-=======
-    weight: 0.6415
-    avg_copies: 1.12
->>>>>>> Stashed changes
   azorius-control:
     weight: 0.7692
     avg_copies: 1.4
   jeskai-control:
-    weight: 0.9474
-    avg_copies: 1.61
+    weight: 0.95
+    avg_copies: 1.63
   domain-zoo:
     weight: 0.1778
     avg_copies: 1.0
   boros-ponza:
-<<<<<<< Updated upstream
-    weight: 0.9032
+    weight: 0.875
     avg_copies: 1.9
-=======
-    weight: 0.8889
-    avg_copies: 1.96
->>>>>>> Stashed changes
   esper-blink:
     weight: 0.0833
     avg_copies: 1.0
@@ -73,4 +63,7 @@ archetypes:
   unknown-25:
     weight: 1.0
     avg_copies: 1.0
+  unknown-19:
+    weight: 1.0
+    avg_copies: 2.0
 ---

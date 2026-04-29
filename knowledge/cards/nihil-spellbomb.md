@@ -15,13 +15,8 @@ archetypes:
     weight: 0.0111
     avg_copies: 1.0
   goryo:
-<<<<<<< Updated upstream
-    weight: 0.1481
+    weight: 0.1429
     avg_copies: 1.22
-=======
-    weight: 0.1321
-    avg_copies: 1.25
->>>>>>> Stashed changes
   domain-zoo:
     weight: 0.5778
     avg_copies: 1.19
@@ -64,6 +59,9 @@ archetypes:
   unknown-22:
     weight: 0.6667
     avg_copies: 1.33
+  unknown-4:
+    weight: 1.0
+    avg_copies: 1.0
   unknown-26:
     weight: 1.0
     avg_copies: 1.0

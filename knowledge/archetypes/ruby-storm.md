@@ -6,29 +6,22 @@ name: Ruby Storm
 meta_share: 0.026
 list_count: 36
 top_cards:
-- name: Pyretic Ritual
+- name: Desperate Ritual
+  weight: 1.0
+  avg_copies: 4.0
+- name: Wrenn's Resolve
+  weight: 1.0
+  avg_copies: 4.0
+- name: Manamorphose
+  weight: 1.0
+  avg_copies: 4.0
+- name: Reckless Impulse
   weight: 1.0
   avg_copies: 4.0
 - name: Ruby Medallion
   weight: 1.0
   avg_copies: 4.0
-- name: Wrenn's Resolve
-  weight: 1.0
-  avg_copies: 4.0
-- name: Wrenn's Resolve
-  weight: 1.0
-  avg_copies: 4.0
-<<<<<<< Updated upstream
-- name: Manamorphose
-  weight: 1.0
-  avg_copies: 4.0
-- name: Reckless Impulse
-=======
-- name: Desperate Ritual
-  weight: 1.0
-  avg_copies: 4.0
 - name: Pyretic Ritual
->>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 4.0
 - name: Ral, Monsoon Mage
@@ -136,50 +129,52 @@ top_cards:
 - name: March of Otherworldly Light
   weight: 0.0833
   avg_copies: 1.67
-- name: Phlage, Titan of Fire's Fury
-  weight: 0.0833
-  avg_copies: 1.0
 - name: Steam Vents
   weight: 0.0833
   avg_copies: 1.0
-- name: Blood Moon
-  weight: 0.0556
-  avg_copies: 1.5
+- name: Phlage, Titan of Fire's Fury
+  weight: 0.0833
+  avg_copies: 1.0
 - name: Shattering Spree
   weight: 0.0556
   avg_copies: 1.5
-<<<<<<< Updated upstream
+- name: Blood Moon
+  weight: 0.0556
+  avg_copies: 1.5
 - name: Alchemist's Gambit
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Abrade
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Stomping Ground
   weight: 0.0556
   avg_copies: 1.0
 - name: Vexing Bauble
   weight: 0.0556
   avg_copies: 1.0
-- name: Nature's Claim
+- name: Stomping Ground
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Abrade
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Questing Druid
   weight: 0.0278
   avg_copies: 4.0
-- name: Questing Druid
+- name: Nature's Claim
   weight: 0.0278
   avg_copies: 4.0
 - name: Escape to the Wilds
   weight: 0.0278
   avg_copies: 2.0
-- name: Flame of Anor
+- name: Goblin Anarchomancer
   weight: 0.0278
   avg_copies: 2.0
-- name: Goblin Anarchomancer
+- name: Flame of Anor
   weight: 0.0278
   avg_copies: 2.0
 - name: Into the Flood Maw
   weight: 0.0278
   avg_copies: 1.0
-- name: Veil of Summer
+- name: Mine Collapse
+  weight: 0.0278
+  avg_copies: 1.0
+- name: Voice of Victory
   weight: 0.0278
   avg_copies: 1.0
 - name: Flame Slash
@@ -188,77 +183,17 @@ top_cards:
 - name: Urabrask
   weight: 0.0278
   avg_copies: 1.0
-- name: Pyromancer Ascension
-  weight: 0.0278
-=======
-- name: Stomping Ground
-  weight: 0.0571
-  avg_copies: 1.0
-- name: Vexing Bauble
-  weight: 0.0571
-  avg_copies: 1.0
-- name: Alchemist's Gambit
-  weight: 0.0571
-  avg_copies: 1.0
-- name: Abrade
-  weight: 0.0571
-  avg_copies: 1.0
-- name: Questing Druid
-  weight: 0.0286
-  avg_copies: 4.0
-- name: Nature's Claim
-  weight: 0.0286
-  avg_copies: 4.0
-- name: Goblin Anarchomancer
-  weight: 0.0286
-  avg_copies: 2.0
-- name: Flame of Anor
-  weight: 0.0286
-  avg_copies: 2.0
-- name: Blood Moon
-  weight: 0.0286
-  avg_copies: 2.0
-- name: Escape to the Wilds
-  weight: 0.0286
-  avg_copies: 2.0
-- name: card:lindblum-industrial-regency
-  weight: 0.0286
-  avg_copies: 1.0
-- name: Mine Collapse
-  weight: 0.0286
-  avg_copies: 1.0
-- name: Urabrask
-  weight: 0.0286
-  avg_copies: 1.0
 - name: Veil of Summer
-  weight: 0.0286
-  avg_copies: 1.0
-- name: Voice of Victory
-  weight: 0.0286
->>>>>>> Stashed changes
-  avg_copies: 1.0
-- name: Mine Collapse
   weight: 0.0278
   avg_copies: 1.0
-<<<<<<< Updated upstream
+- name: Pyromancer Ascension
+  weight: 0.0278
+  avg_copies: 1.0
 - name: Hexing Squelcher
-  weight: 0.0278
-  avg_copies: 1.0
-- name: Voice of Victory
   weight: 0.0278
   avg_copies: 1.0
 - name: card:lindblum-industrial-regency
   weight: 0.0278
-=======
-- name: Pyromancer Ascension
-  weight: 0.0286
-  avg_copies: 1.0
-- name: Into the Flood Maw
-  weight: 0.0286
-  avg_copies: 1.0
-- name: Hexing Squelcher
-  weight: 0.0286
->>>>>>> Stashed changes
   avg_copies: 1.0
 ---
 already exists

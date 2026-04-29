@@ -13,20 +13,14 @@ archetypes:
     avg_copies: 1.5
   yawgmoth-combo:
     weight: 1.0
-<<<<<<< Updated upstream
     avg_copies: 2.88
-  unknown-2:
+  soultrader-combo:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 2.0
+  unknown-21:
+    weight: 1.0
+    avg_copies: 2.0
   unknown-4:
     weight: 1.0
     avg_copies: 1.0
-  unknown-21:
-    weight: 1.0
-=======
-    avg_copies: 3.0
-  soultrader-combo:
-    weight: 1.0
->>>>>>> Stashed changes
-    avg_copies: 2.0
 ---

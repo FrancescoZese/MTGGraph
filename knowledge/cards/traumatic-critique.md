@@ -11,7 +11,7 @@ type: Instant
 meta_presence: 0.0029
 archetypes:
   izzet-prowess:
-    weight: 0.0179
+    weight: 0.0172
     avg_copies: 3.0
   grixis-control:
     weight: 0.2

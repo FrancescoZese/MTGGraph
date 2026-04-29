@@ -18,7 +18,7 @@ archetypes:
     weight: 0.7667
     avg_copies: 1.0
   goryo:
-    weight: 0.9623
+    weight: 0.9643
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
@@ -27,13 +27,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   jeskai-control:
-<<<<<<< Updated upstream
-    weight: 0.9474
+    weight: 0.9
     avg_copies: 1.67
-=======
-    weight: 0.8947
-    avg_copies: 1.65
->>>>>>> Stashed changes
   affinity:
     weight: 0.9704
     avg_copies: 1.15
@@ -53,11 +48,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   izzet-prowess:
-<<<<<<< Updated upstream
-    weight: 0.0526
-=======
-    weight: 0.0536
->>>>>>> Stashed changes
+    weight: 0.0517
     avg_copies: 1.33
   4c-omnath:
     weight: 1.0
@@ -104,19 +95,14 @@ archetypes:
   izzet-murktide:
     weight: 1.0
     avg_copies: 2.0
-<<<<<<< Updated upstream
-  unknown-19:
-    weight: 0.25
+  4c-omnath9:
+    weight: 0.5
     avg_copies: 1.0
   unknown-22:
     weight: 1.0
     avg_copies: 2.0
   unknown-25:
     weight: 1.0
-=======
-  4c-omnath9:
-    weight: 0.5
->>>>>>> Stashed changes
     avg_copies: 1.0
   unknown-23:
     weight: 1.0

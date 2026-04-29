@@ -35,10 +35,10 @@ top_cards:
 - name: Steam Vents
   weight: 0.8571
   avg_copies: 1.83
-- name: Artist's Talent
+- name: Arclight Phoenix
   weight: 0.7143
   avg_copies: 4.0
-- name: Arclight Phoenix
+- name: Artist's Talent
   weight: 0.7143
   avg_copies: 4.0
 - name: Lava Dart
@@ -62,29 +62,19 @@ top_cards:
 - name: Memory's Journey
   weight: 0.7143
   avg_copies: 1.17
-<<<<<<< Updated upstream
+- name: Thundering Falls
+  weight: 0.7143
+  avg_copies: 1.0
+- name: Commercial District
+  weight: 0.7143
+  avg_copies: 1.0
 - name: Flame Jab
   weight: 0.7143
   avg_copies: 1.0
-- name: Commercial District
-=======
-- name: Thundering Falls
->>>>>>> Stashed changes
-  weight: 0.7143
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.7143
-  avg_copies: 1.0
-<<<<<<< Updated upstream
-=======
-- name: Commercial District
-  weight: 0.7143
-  avg_copies: 1.0
->>>>>>> Stashed changes
-- name: Burning Inquiry
+- name: Exhibition Tidecaller
   weight: 0.5714
   avg_copies: 4.0
-- name: Exhibition Tidecaller
+- name: Burning Inquiry
   weight: 0.5714
   avg_copies: 4.0
 - name: Surgical Extraction
@@ -114,17 +104,10 @@ top_cards:
 - name: Meltdown
   weight: 0.2857
   avg_copies: 2.5
-<<<<<<< Updated upstream
-- name: Cathartic Reunion
+- name: Vexing Bauble
   weight: 0.2857
   avg_copies: 2.0
 - name: Unholy Heat
-=======
-- name: Vexing Bauble
->>>>>>> Stashed changes
-  weight: 0.2857
-  avg_copies: 2.0
-- name: Vexing Bauble
   weight: 0.2857
   avg_copies: 2.0
 - name: Cathartic Reunion
@@ -139,103 +122,64 @@ top_cards:
 - name: Wonder
   weight: 0.2857
   avg_copies: 1.0
-- name: Stitcher's Supplier
-  weight: 0.1429
-  avg_copies: 4.0
 - name: Otherworldly Gaze
   weight: 0.1429
   avg_copies: 4.0
-- name: Hedron Crab
-  weight: 0.1429
-  avg_copies: 4.0
-- name: Hedron Crab
-  weight: 0.1429
-  avg_copies: 4.0
-- name: Vengevine
-  weight: 0.1429
-  avg_copies: 4.0
-<<<<<<< Updated upstream
-- name: Blazing Rootwalla
-  weight: 0.1429
-  avg_copies: 4.0
-- name: Manamorphose
-  weight: 0.1429
-  avg_copies: 4.0
-- name: Silversmote Ghoul
-  weight: 0.1429
-  avg_copies: 3.0
-- name: Darkblast
-=======
 - name: Vengevine
   weight: 0.1429
   avg_copies: 4.0
 - name: Prized Amalgam
   weight: 0.1429
   avg_copies: 4.0
-- name: Seal of Fire
->>>>>>> Stashed changes
+- name: Blazing Rootwalla
   weight: 0.1429
-  avg_copies: 3.0
-- name: Snow-Covered Mountain
+  avg_copies: 4.0
+- name: Manamorphose
   weight: 0.1429
-  avg_copies: 3.0
-- name: Seal of Fire
+  avg_copies: 4.0
+- name: Hedron Crab
   weight: 0.1429
-  avg_copies: 3.0
-<<<<<<< Updated upstream
-- name: Gemstone Caverns
+  avg_copies: 4.0
+- name: Stitcher's Supplier
   weight: 0.1429
-  avg_copies: 3.0
-- name: Narcomoeba
-  weight: 0.1429
-  avg_copies: 3.0
-- name: Into the Flood Maw
-=======
-- name: Snow-Covered Mountain
-  weight: 0.1429
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Silversmote Ghoul
   weight: 0.1429
   avg_copies: 3.0
 - name: Darkblast
   weight: 0.1429
   avg_copies: 3.0
+- name: Snow-Covered Mountain
+  weight: 0.1429
+  avg_copies: 3.0
+- name: Narcomoeba
+  weight: 0.1429
+  avg_copies: 3.0
+- name: Seal of Fire
+  weight: 0.1429
+  avg_copies: 3.0
+- name: Gemstone Caverns
+  weight: 0.1429
+  avg_copies: 3.0
 - name: Collector Ouphe
->>>>>>> Stashed changes
   weight: 0.1429
   avg_copies: 2.0
-- name: Collector Ouphe
+- name: Into the Flood Maw
   weight: 0.1429
   avg_copies: 2.0
-<<<<<<< Updated upstream
-- name: Timeline Culler
-  weight: 0.1429
-  avg_copies: 2.0
-- name: Leyline of the Void
+- name: Pick Your Poison
   weight: 0.1429
   avg_copies: 2.0
 - name: Molten Collapse
   weight: 0.1429
   avg_copies: 2.0
-- name: Damping Sphere
-  weight: 0.1429
-  avg_copies: 2.0
-- name: Pick Your Poison
-=======
 - name: Leyline of the Void
-  weight: 0.1429
-  avg_copies: 2.0
-- name: Pick Your Poison
-  weight: 0.1429
-  avg_copies: 2.0
-- name: Damping Sphere
   weight: 0.1429
   avg_copies: 2.0
 - name: Timeline Culler
   weight: 0.1429
   avg_copies: 2.0
-- name: Into the Flood Maw
->>>>>>> Stashed changes
+- name: Damping Sphere
   weight: 0.1429
   avg_copies: 2.0
 - name: Detective's Phoenix
@@ -244,21 +188,6 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 0.1429
   avg_copies: 1.0
-<<<<<<< Updated upstream
-- name: Tormod's Crypt
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Watery Grave
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Illness in the Ranks
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Rough
-=======
-- name: Rough
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Illness in the Ranks
   weight: 0.1429
   avg_copies: 1.0
@@ -266,7 +195,9 @@ top_cards:
   weight: 0.1429
   avg_copies: 1.0
 - name: Tormod's Crypt
->>>>>>> Stashed changes
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Rough
   weight: 0.1429
   avg_copies: 1.0
 ---

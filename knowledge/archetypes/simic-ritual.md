@@ -6,17 +6,13 @@ name: Simic Ritual
 meta_share: 0.026
 list_count: 36
 top_cards:
-- name: Flare of Denial
-  weight: 1.0
-  avg_copies: 4.0
 - name: Coiling Oracle
   weight: 1.0
   avg_copies: 4.0
-<<<<<<< Updated upstream
 - name: Ice-Fang Coatl
-=======
-- name: Coiling Oracle
->>>>>>> Stashed changes
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flare of Denial
   weight: 1.0
   avg_copies: 4.0
 - name: Birthing Ritual
@@ -51,19 +47,11 @@ top_cards:
   avg_copies: 1.78
 - name: Endurance
   weight: 1.0
-<<<<<<< Updated upstream
   avg_copies: 1.63
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.22
 - name: Breeding Pool
-=======
-  avg_copies: 1.64
-- name: Breeding Pool
-  weight: 1.0
-  avg_copies: 1.18
-- name: Boseiju, Who Endures
->>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 1.17
 - name: Shardless Agent
@@ -117,7 +105,6 @@ top_cards:
 - name: Wooded Foothills
   weight: 0.0833
   avg_copies: 3.67
-<<<<<<< Updated upstream
 - name: Tamiyo, Inquisitive Student
   weight: 0.0833
   avg_copies: 1.67
@@ -126,16 +113,6 @@ top_cards:
   avg_copies: 1.0
 - name: Ephara's Dispersal
   weight: 0.0833
-=======
-- name: Ephara's Dispersal
-  weight: 0.0882
-  avg_copies: 1.0
-- name: Fade from History
-  weight: 0.0882
-  avg_copies: 1.0
-- name: Overgrown Tomb
-  weight: 0.0882
->>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Meltdown
   weight: 0.0556
@@ -143,30 +120,19 @@ top_cards:
 - name: Fatal Push
   weight: 0.0556
   avg_copies: 2.0
-<<<<<<< Updated upstream
+- name: Underground Mortuary
+  weight: 0.0556
+  avg_copies: 1.0
 - name: Flooded Strand
   weight: 0.0556
   avg_copies: 1.0
-- name: Underground Mortuary
-  weight: 0.0556
-=======
-- name: Underground Mortuary
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Neoform
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.0588
->>>>>>> Stashed changes
-  avg_copies: 1.0
 - name: Neoform
   weight: 0.0556
   avg_copies: 1.0
-- name: Fire Magic
+- name: Pyroclasm
   weight: 0.0278
   avg_copies: 3.0
-- name: Pyroclasm
+- name: Fire Magic
   weight: 0.0278
   avg_copies: 3.0
 - name: Quantum Riddler
@@ -175,20 +141,25 @@ top_cards:
 - name: Psychic Frog
   weight: 0.0278
   avg_copies: 2.0
-<<<<<<< Updated upstream
-- name: Willowrush Verge
-  weight: 0.0278
-  avg_copies: 1.0
 - name: Scalding Tarn
   weight: 0.0278
   avg_copies: 1.0
-- name: Hurkyl's Recall
+- name: Willowrush Verge
+  weight: 0.0278
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.0278
+  avg_copies: 1.0
+- name: Pick Your Poison
   weight: 0.0278
   avg_copies: 1.0
 - name: Toxic Deluge
   weight: 0.0278
   avg_copies: 1.0
-- name: Dress Down
+- name: Stern Scolding
+  weight: 0.0278
+  avg_copies: 1.0
+- name: Steam Vents
   weight: 0.0278
   avg_copies: 1.0
 - name: Spell Snare
@@ -197,57 +168,17 @@ top_cards:
 - name: Pond Prophet
   weight: 0.0278
   avg_copies: 1.0
-- name: Steam Vents
-  weight: 0.0278
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.0278
-  avg_copies: 1.0
-- name: Pick Your Poison
+- name: Hurkyl's Recall
   weight: 0.0278
   avg_copies: 1.0
 - name: Firespout
   weight: 0.0278
-  avg_copies: 1.0
-- name: Stern Scolding
-  weight: 0.0278
-  avg_copies: 1.0
-- name: Stomping Ground
-  weight: 0.0278
-=======
-- name: Thundering Falls
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Stomping Ground
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Toxic Deluge
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Scalding Tarn
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Steam Vents
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Pick Your Poison
-  weight: 0.0294
   avg_copies: 1.0
 - name: Dress Down
-  weight: 0.0294
+  weight: 0.0278
   avg_copies: 1.0
-- name: Stern Scolding
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Firespout
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Pond Prophet
-  weight: 0.0294
->>>>>>> Stashed changes
+- name: Stomping Ground
+  weight: 0.0278
   avg_copies: 1.0
 ---
 Cascade deck using Shardless Agent and Birthing Ritual to cheat Abhorrent Oculus and Subtlety into play. Ice-Fang Coatl and Coiling Oracle provide value while Flare of Denial offers free countermagic.

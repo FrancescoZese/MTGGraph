@@ -9,11 +9,7 @@ type: Artifact Creature — Beast
 meta_presence: 0.081
 archetypes:
   goryo:
-<<<<<<< Updated upstream
-    weight: 0.0185
-=======
-    weight: 0.0189
->>>>>>> Stashed changes
+    weight: 0.0179
     avg_copies: 1.0
   hardened-scales:
     weight: 1.0

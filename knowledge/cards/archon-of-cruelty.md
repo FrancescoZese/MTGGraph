@@ -10,7 +10,7 @@ type: Creature — Archon
 meta_presence: 0.034
 archetypes:
   goryo:
-    weight: 0.0377
+    weight: 0.0357
     avg_copies: 3.0
   living-end:
     weight: 0.12
@@ -27,16 +27,7 @@ archetypes:
   goryo1:
     weight: 1.0
     avg_copies: 4.0
-<<<<<<< Updated upstream
-  unknown-3:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 4.0
   unknown-21:
     weight: 1.0
     avg_copies: 4.0
-=======
->>>>>>> Stashed changes
 ---

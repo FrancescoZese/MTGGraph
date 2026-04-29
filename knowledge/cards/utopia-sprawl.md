@@ -10,7 +10,7 @@ type: Enchantment — Aura
 meta_presence: 0.021
 archetypes:
   goryo:
-    weight: 0.0189
+    weight: 0.0179
     avg_copies: 4.0
   eldrazi-ramp:
     weight: 1.0

@@ -9,11 +9,7 @@ type: Land — Plains Swamp
 meta_presence: 0.063
 archetypes:
   goryo:
-<<<<<<< Updated upstream
-    weight: 0.9815
-=======
-    weight: 0.9434
->>>>>>> Stashed changes
+    weight: 0.9464
     avg_copies: 1.0
   reanimator:
     weight: 0.04

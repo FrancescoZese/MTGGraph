@@ -15,7 +15,7 @@ archetypes:
     weight: 0.0175
     avg_copies: 1.0
   goryo:
-    weight: 0.0189
+    weight: 0.0179
     avg_copies: 1.0
   azorius-control:
     weight: 0.1538
@@ -33,7 +33,7 @@ archetypes:
     weight: 0.6944
     avg_copies: 2.0
   4c-omnath:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 1.0
   broodscale-combo:
     weight: 0.84
@@ -47,13 +47,7 @@ archetypes:
   cosmogoyf-fling:
     weight: 1.0
     avg_copies: 4.0
-<<<<<<< Updated upstream
-  unknown-3:
-    weight: 0.5
-    avg_copies: 1.0
   unknown-25:
     weight: 1.0
     avg_copies: 1.0
-=======
->>>>>>> Stashed changes
 ---

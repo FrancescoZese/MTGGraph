@@ -13,13 +13,8 @@ archetypes:
     weight: 0.7241
     avg_copies: 3.57
   goryo:
-<<<<<<< Updated upstream
-    weight: 0.2222
+    weight: 0.2143
     avg_copies: 3.17
-=======
-    weight: 0.2075
-    avg_copies: 3.09
->>>>>>> Stashed changes
   reanimator:
     weight: 0.04
     avg_copies: 4.0

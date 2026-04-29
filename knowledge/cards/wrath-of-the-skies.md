@@ -19,23 +19,14 @@ archetypes:
     weight: 0.0189
     avg_copies: 2.0
   goryo:
-<<<<<<< Updated upstream
-    weight: 0.9815
+    weight: 0.9464
     avg_copies: 2.26
-=======
-    weight: 0.9434
-    avg_copies: 2.24
->>>>>>> Stashed changes
   azorius-control:
     weight: 0.8462
     avg_copies: 1.7
   jeskai-control:
     weight: 1.0
-<<<<<<< Updated upstream
-    avg_copies: 2.0
-=======
-    avg_copies: 2.1
->>>>>>> Stashed changes
+    avg_copies: 2.06
   domain-zoo:
     weight: 0.9778
     avg_copies: 2.16
@@ -47,14 +38,10 @@ archetypes:
     avg_copies: 2.05
   boros-ponza:
     weight: 1.0
-<<<<<<< Updated upstream
-    avg_copies: 3.29
-=======
-    avg_copies: 3.13
+    avg_copies: 3.25
   4c-omnath:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 2.0
->>>>>>> Stashed changes
   esper-blink:
     weight: 1.0
     avg_copies: 2.75
@@ -87,18 +74,14 @@ archetypes:
     avg_copies: 4.0
   4c-omnath9:
     weight: 1.0
-<<<<<<< Updated upstream
-    avg_copies: 2.0
-  unknown-19:
-    weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 2.33
   unknown-25:
     weight: 1.0
     avg_copies: 2.0
   unknown-23:
     weight: 1.0
     avg_copies: 2.0
-=======
-    avg_copies: 2.33
->>>>>>> Stashed changes
+  unknown-19:
+    weight: 1.0
+    avg_copies: 4.0
 ---

@@ -10,7 +10,7 @@ type: Creature — Elf Druid
 meta_presence: 0.0384
 archetypes:
   goryo:
-    weight: 0.0377
+    weight: 0.0357
     avg_copies: 4.0
   living-end:
     weight: 0.68
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.4286
     avg_copies: 2.67
   4c-omnath:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 1.0
   elves:
     weight: 1.0

@@ -11,14 +11,10 @@ meta_presence: 0.0232
 archetypes:
   yawgmoth-combo:
     weight: 1.0
-<<<<<<< Updated upstream
     avg_copies: 3.81
-=======
-    avg_copies: 4.0
   4c-omnath:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 3.0
->>>>>>> Stashed changes
   broodscale-combo:
     weight: 0.28
     avg_copies: 2.86

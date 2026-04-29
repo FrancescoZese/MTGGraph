@@ -10,10 +10,6 @@ type: Enchantment
 meta_presence: 0.0014
 archetypes:
   izzet-prowess:
-<<<<<<< Updated upstream
-    weight: 0.0351
-=======
-    weight: 0.0357
->>>>>>> Stashed changes
+    weight: 0.0345
     avg_copies: 1.5
 ---

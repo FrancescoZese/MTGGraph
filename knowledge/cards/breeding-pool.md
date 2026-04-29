@@ -12,11 +12,7 @@ archetypes:
     weight: 0.0111
     avg_copies: 1.0
   goryo:
-<<<<<<< Updated upstream
-    weight: 0.537
-=======
-    weight: 0.5094
->>>>>>> Stashed changes
+    weight: 0.5179
     avg_copies: 1.0
   azorius-control:
     weight: 0.1538

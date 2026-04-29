@@ -9,12 +9,9 @@ type: Land — Swamp Forest Island
 meta_presence: 0.0014
 archetypes:
   4c-omnath:
-    weight: 0.3333
-<<<<<<< Updated upstream
+    weight: 0.25
     avg_copies: 1.0
   unknown-26:
     weight: 1.0
-=======
->>>>>>> Stashed changes
     avg_copies: 1.0
 ---

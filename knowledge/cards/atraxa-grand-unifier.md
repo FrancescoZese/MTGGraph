@@ -14,11 +14,7 @@ meta_presence: 0.0601
 archetypes:
   goryo:
     weight: 1.0
-<<<<<<< Updated upstream
-    avg_copies: 3.93
-=======
-    avg_copies: 3.81
->>>>>>> Stashed changes
+    avg_copies: 3.82
   living-end:
     weight: 0.04
     avg_copies: 3.0

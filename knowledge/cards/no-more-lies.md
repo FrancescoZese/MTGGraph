@@ -14,11 +14,7 @@ archetypes:
     weight: 0.1889
     avg_copies: 1.5
   goryo:
-<<<<<<< Updated upstream
-    weight: 0.0185
-=======
-    weight: 0.0189
->>>>>>> Stashed changes
+    weight: 0.0179
     avg_copies: 2.0
   esper-blink:
     weight: 0.0833

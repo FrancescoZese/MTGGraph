@@ -10,11 +10,7 @@ type: Sorcery
 meta_presence: 0.0109
 archetypes:
   goryo:
-<<<<<<< Updated upstream
-    weight: 0.037
-=======
-    weight: 0.0377
->>>>>>> Stashed changes
+    weight: 0.0357
     avg_copies: 1.0
   domain-zoo:
     weight: 0.2667

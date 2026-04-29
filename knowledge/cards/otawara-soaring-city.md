@@ -21,7 +21,7 @@ archetypes:
     weight: 0.84
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.2632
+    weight: 0.25
     avg_copies: 1.0
   affinity:
     weight: 0.0963
@@ -39,14 +39,10 @@ archetypes:
     weight: 0.6944
     avg_copies: 1.0
   izzet-prowess:
-<<<<<<< Updated upstream
-    weight: 0.0175
-=======
-    weight: 0.0179
+    weight: 0.0172
     avg_copies: 1.0
   4c-omnath:
-    weight: 0.3333
->>>>>>> Stashed changes
+    weight: 0.25
     avg_copies: 1.0
   bant-control:
     weight: 1.0

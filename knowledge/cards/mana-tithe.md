@@ -16,11 +16,7 @@ archetypes:
     weight: 0.0222
     avg_copies: 2.0
   boros-ponza:
-<<<<<<< Updated upstream
-    weight: 0.0968
-=======
-    weight: 0.1111
->>>>>>> Stashed changes
+    weight: 0.0938
     avg_copies: 2.0
   elves:
     weight: 1.0

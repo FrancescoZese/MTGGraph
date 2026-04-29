@@ -11,7 +11,7 @@ type: Sorcery
 meta_presence: 0.0434
 archetypes:
   goryo:
-    weight: 0.0377
+    weight: 0.0357
     avg_copies: 1.0
   necrodominance:
     weight: 0.0476
@@ -33,15 +33,11 @@ archetypes:
     avg_copies: 1.0
   soultrader-combo:
     weight: 1.0
-<<<<<<< Updated upstream
-    avg_copies: 1.0
+    avg_copies: 2.0
   unknown-4:
     weight: 1.0
     avg_copies: 3.0
   unknown-26:
     weight: 1.0
     avg_copies: 1.0
-=======
-    avg_copies: 2.0
->>>>>>> Stashed changes
 ---

@@ -33,13 +33,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.8
   izzet-prowess:
-<<<<<<< Updated upstream
-    weight: 0.8772
+    weight: 0.8793
     avg_copies: 2.84
-=======
-    weight: 0.875
-    avg_copies: 2.86
->>>>>>> Stashed changes
   indomitable-creativity:
     weight: 1.0
     avg_copies: 2.75
@@ -69,18 +64,11 @@ archetypes:
     avg_copies: 3.0
   soultrader-combo:
     weight: 1.0
-<<<<<<< Updated upstream
-    avg_copies: 4.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-18:
-    weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 1.5
   unknown-21:
     weight: 1.0
     avg_copies: 1.0
-=======
-    avg_copies: 1.5
->>>>>>> Stashed changes
+  unknown-4:
+    weight: 1.0
+    avg_copies: 1.0
 ---

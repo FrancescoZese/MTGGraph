@@ -19,7 +19,7 @@ archetypes:
     weight: 0.0111
     avg_copies: 2.0
   boros-ponza:
-    weight: 0.0323
+    weight: 0.0312
     avg_copies: 2.0
   azorius-blink:
     weight: 0.3333

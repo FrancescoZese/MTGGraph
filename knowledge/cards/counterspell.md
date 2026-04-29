@@ -19,13 +19,8 @@ archetypes:
     weight: 0.7692
     avg_copies: 3.2
   jeskai-control:
-<<<<<<< Updated upstream
-    weight: 0.8421
+    weight: 0.8
     avg_copies: 2.31
-=======
-    weight: 0.7895
-    avg_copies: 2.4
->>>>>>> Stashed changes
   bant-control:
     weight: 1.0
     avg_copies: 4.0
@@ -47,13 +42,8 @@ archetypes:
   izzet-murktide:
     weight: 1.0
     avg_copies: 1.0
-<<<<<<< Updated upstream
-  unknown-19:
-    weight: 0.25
-=======
   4c-omnath9:
     weight: 0.5
->>>>>>> Stashed changes
     avg_copies: 4.0
   unknown-22:
     weight: 1.0

@@ -13,11 +13,7 @@ archetypes:
     weight: 0.4576
     avg_copies: 1.36
   goryo:
-<<<<<<< Updated upstream
-    weight: 0.0185
-=======
-    weight: 0.0189
->>>>>>> Stashed changes
+    weight: 0.0179
     avg_copies: 1.0
   necrodominance:
     weight: 0.0952

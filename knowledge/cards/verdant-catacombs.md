@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.0948
 archetypes:
   goryo:
-    weight: 0.0377
+    weight: 0.0357
     avg_copies: 4.0
   necrodominance:
     weight: 0.0952
@@ -58,15 +58,11 @@ archetypes:
     avg_copies: 4.0
   soultrader-combo:
     weight: 1.0
-<<<<<<< Updated upstream
-    avg_copies: 2.0
+    avg_copies: 3.0
   unknown-4:
     weight: 1.0
     avg_copies: 4.0
   unknown-24:
     weight: 1.0
     avg_copies: 4.0
-=======
-    avg_copies: 3.0
->>>>>>> Stashed changes
 ---

@@ -10,11 +10,7 @@ type: Sorcery — Lesson
 meta_presence: 0.0195
 archetypes:
   izzet-prowess:
-<<<<<<< Updated upstream
-    weight: 0.2281
-=======
-    weight: 0.2321
->>>>>>> Stashed changes
+    weight: 0.2241
     avg_copies: 2.45
   izzet-artifacts:
     weight: 0.5385

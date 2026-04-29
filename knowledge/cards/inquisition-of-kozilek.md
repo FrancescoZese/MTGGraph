@@ -10,19 +10,14 @@ type: Sorcery
 meta_presence: 0.021
 archetypes:
   goryo:
-    weight: 0.0189
+    weight: 0.0179
     avg_copies: 2.0
   necrodominance:
-<<<<<<< Updated upstream
     weight: 0.619
     avg_copies: 2.46
-=======
-    weight: 0.6
-    avg_copies: 2.5
   indomitable-creativity:
     weight: 0.125
     avg_copies: 1.5
->>>>>>> Stashed changes
   jund-saga:
     weight: 1.0
     avg_copies: 2.0
@@ -32,16 +27,7 @@ archetypes:
   cosmogoyf-fling:
     weight: 1.0
     avg_copies: 3.18
-<<<<<<< Updated upstream
-  unknown-3:
-    weight: 0.5
-    avg_copies: 2.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 1.5
   unknown-24:
     weight: 1.0
     avg_copies: 4.0
-=======
->>>>>>> Stashed changes
 ---

@@ -21,7 +21,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   4c-omnath:
-    weight: 0.6667
+    weight: 0.75
     avg_copies: 1.0
   samwise-combo:
     weight: 1.0

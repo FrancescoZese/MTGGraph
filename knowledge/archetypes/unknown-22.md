@@ -6,13 +6,10 @@ name: 'Unknown #22'
 meta_share: 0.0022
 list_count: 3
 top_cards:
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 4.0
 - name: Orcish Bowmasters
+  weight: 1.0
+  avg_copies: 4.0
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
@@ -21,10 +18,13 @@ top_cards:
 - name: Counterspell
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 4.0
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 3.67
-- name: Thoughtseize
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 3.67
 - name: Consign to Memory
@@ -36,13 +36,13 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 2.33
-- name: Mystical Dispute
-  weight: 1.0
-  avg_copies: 2.33
 - name: Spell Snare
   weight: 1.0
   avg_copies: 2.33
-- name: Engineered Explosives
+- name: Mystical Dispute
+  weight: 1.0
+  avg_copies: 2.33
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 2.0
 - name: Force of Negation
@@ -54,7 +54,7 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 2.0
-- name: Undercity Sewers
+- name: Engineered Explosives
   weight: 1.0
   avg_copies: 2.0
 - name: Stern Scolding
@@ -72,13 +72,13 @@ top_cards:
 - name: Preordain
   weight: 0.6667
   avg_copies: 3.5
-- name: Subtlety
-  weight: 0.6667
-  avg_copies: 2.5
 - name: Murktide Regent
   weight: 0.6667
   avg_copies: 2.5
 - name: Quantum Riddler
+  weight: 0.6667
+  avg_copies: 2.5
+- name: Subtlety
   weight: 0.6667
   avg_copies: 2.5
 - name: Gloomlake Verge
@@ -99,22 +99,25 @@ top_cards:
 - name: Darkslick Shores
   weight: 0.6667
   avg_copies: 1.0
-- name: Marsh Flats
-  weight: 0.3333
-  avg_copies: 2.0
-- name: End of the Hunt
+- name: Surgical Extraction
   weight: 0.3333
   avg_copies: 2.0
 - name: The Meathook Massacre
   weight: 0.3333
   avg_copies: 2.0
-- name: Surgical Extraction
+- name: Marsh Flats
   weight: 0.3333
   avg_copies: 2.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.3333
   avg_copies: 2.0
+- name: End of the Hunt
+  weight: 0.3333
+  avg_copies: 2.0
 - name: Toxic Deluge
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Dreams of Steel and Oil
   weight: 0.3333
   avg_copies: 1.0
 - name: Graveyard Trespasser
@@ -124,9 +127,6 @@ top_cards:
   weight: 0.3333
   avg_copies: 1.0
 - name: Damping Sphere
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Dreams of Steel and Oil
   weight: 0.3333
   avg_copies: 1.0
 ---
