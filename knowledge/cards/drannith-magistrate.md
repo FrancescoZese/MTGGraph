@@ -24,6 +24,9 @@ archetypes:
   living-end:
     weight: 0.08
     avg_copies: 1.5
+  jeskai-control:
+    weight: 0.0435
+    avg_copies: 2.0
   domain-zoo:
     weight: 0.0222
     avg_copies: 2.0
@@ -36,7 +39,4 @@ archetypes:
   elves:
     weight: 1.0
     avg_copies: 1.0
-  unknown-25:
-    weight: 1.0
-    avg_copies: 2.0
 ---

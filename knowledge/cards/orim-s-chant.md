@@ -22,7 +22,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   jeskai-control:
-    weight: 0.8636
+    weight: 0.8261
     avg_copies: 3.57
   mono-red-belcher:
     weight: 0.5

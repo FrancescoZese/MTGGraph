@@ -22,8 +22,8 @@ archetypes:
     weight: 0.0476
     avg_copies: 3.0
   jeskai-control:
-    weight: 0.0455
-    avg_copies: 1.0
+    weight: 0.087
+    avg_copies: 1.5
   domain-zoo:
     weight: 0.0222
     avg_copies: 1.0
@@ -57,9 +57,6 @@ archetypes:
   goryo3:
     weight: 1.0
     avg_copies: 3.0
-  unknown-25:
-    weight: 1.0
-    avg_copies: 2.0
   sultai-midrange:
     weight: 1.0
     avg_copies: 2.0

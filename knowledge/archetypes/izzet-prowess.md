@@ -6,10 +6,10 @@ name: Izzet Prowess
 meta_share: 0.042
 list_count: 58
 top_cards:
-- name: Cori-Steel Cutter
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Lightning Bolt
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
@@ -114,19 +114,19 @@ top_cards:
 - name: Monstrous Rage
   weight: 0.1379
   avg_copies: 1.75
-- name: Firebending Lesson
+- name: It'll Quench Ya!
   weight: 0.1379
   avg_copies: 1.0
-- name: It'll Quench Ya!
+- name: Firebending Lesson
   weight: 0.1379
   avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 0.1207
   avg_copies: 1.38
-- name: Abhorrent Oculus
+- name: Blood Moon
   weight: 0.1034
   avg_copies: 1.5
-- name: Blood Moon
+- name: Abhorrent Oculus
   weight: 0.1034
   avg_copies: 1.5
 - name: Force of Negation
@@ -138,10 +138,10 @@ top_cards:
 - name: Iroh's Demonstration
   weight: 0.1034
   avg_copies: 1.0
-- name: Vexing Bauble
+- name: Founding the Third Path
   weight: 0.0862
   avg_copies: 2.0
-- name: Founding the Third Path
+- name: Vexing Bauble
   weight: 0.0862
   avg_copies: 2.0
 - name: Questing Druid
@@ -150,19 +150,19 @@ top_cards:
 - name: Flow State
   weight: 0.069
   avg_copies: 2.0
-- name: Pyroclasm
+- name: Obsidian Charmaw
   weight: 0.069
   avg_copies: 1.75
-- name: Obsidian Charmaw
+- name: Pyroclasm
   weight: 0.069
   avg_copies: 1.75
 - name: Soul-Guide Lantern
   weight: 0.069
   avg_copies: 1.25
-- name: Accumulate Wisdom
+- name: Origin of Metalbending
   weight: 0.069
   avg_copies: 1.0
-- name: Origin of Metalbending
+- name: Accumulate Wisdom
   weight: 0.069
   avg_copies: 1.0
 - name: Misty Rainforest
@@ -186,73 +186,73 @@ top_cards:
 - name: True Ancestry
   weight: 0.0345
   avg_copies: 1.0
-- name: Manamorphose
-  weight: 0.0172
-  avg_copies: 4.0
-- name: Ragavan, Nimble Pilferer
+- name: Faithless Looting
   weight: 0.0172
   avg_copies: 4.0
 - name: Arclight Phoenix
   weight: 0.0172
   avg_copies: 4.0
+- name: Manamorphose
+  weight: 0.0172
+  avg_copies: 4.0
 - name: Searing Blaze
   weight: 0.0172
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Ragavan, Nimble Pilferer
   weight: 0.0172
   avg_copies: 4.0
-- name: Traumatic Critique
+- name: Prismatic Ending
   weight: 0.0172
   avg_copies: 3.0
 - name: Hurkyl's Recall
   weight: 0.0172
   avg_copies: 3.0
-- name: Prismatic Ending
+- name: Traumatic Critique
   weight: 0.0172
   avg_copies: 3.0
-- name: Gut Shot
+- name: Bedlam Reveler
   weight: 0.0172
   avg_copies: 2.0
 - name: Siege Smash
   weight: 0.0172
   avg_copies: 2.0
-- name: Bedlam Reveler
+- name: Gut Shot
   weight: 0.0172
   avg_copies: 2.0
-- name: Pithing Needle
-  weight: 0.0172
-  avg_copies: 1.0
-- name: Wear
-  weight: 0.0172
-  avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 0.0172
   avg_copies: 1.0
 - name: Flooded Strand
   weight: 0.0172
   avg_copies: 1.0
-- name: Sink into Stupor
+- name: The Legend of Roku
   weight: 0.0172
   avg_copies: 1.0
-- name: The Legend of Roku
+- name: Pithing Needle
+  weight: 0.0172
+  avg_copies: 1.0
+- name: Wear
   weight: 0.0172
   avg_copies: 1.0
 - name: Grafdigger's Cage
   weight: 0.0172
   avg_copies: 1.0
-- name: Shatterstorm
+- name: Sacred Foundry
   weight: 0.0172
   avg_copies: 1.0
 - name: Polluted Delta
   weight: 0.0172
   avg_copies: 1.0
-- name: Lightning Axe
-  weight: 0.0172
-  avg_copies: 1.0
 - name: Combustion Technique
   weight: 0.0172
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Lightning Axe
+  weight: 0.0172
+  avg_copies: 1.0
+- name: Sink into Stupor
+  weight: 0.0172
+  avg_copies: 1.0
+- name: Shatterstorm
   weight: 0.0172
   avg_copies: 1.0
 - name: Riverpyre Verge

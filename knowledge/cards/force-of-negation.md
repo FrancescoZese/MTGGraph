@@ -28,7 +28,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.92
   jeskai-control:
-    weight: 0.6364
+    weight: 0.6522
     avg_copies: 1.06
   affinity:
     weight: 0.363
@@ -76,9 +76,6 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   izzet-murktide:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-25:
     weight: 1.0
     avg_copies: 1.0
   sultai-midrange:

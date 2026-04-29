@@ -9,13 +9,13 @@ name: Domain Zoo
 meta_share: 0.0326
 list_count: 45
 top_cards:
+- name: Scion of Draco
+  weight: 1.0
+  avg_copies: 4.0
 - name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline of the Guildpact
-  weight: 1.0
-  avg_copies: 4.0
-- name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline Binding
@@ -45,10 +45,10 @@ top_cards:
 - name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
-- name: Plains
+- name: Indatha Triome
   weight: 1.0
   avg_copies: 1.0
-- name: Indatha Triome
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
@@ -75,10 +75,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.9556
   avg_copies: 2.77
-- name: Mountain
+- name: Thundering Falls
   weight: 0.9333
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Mountain
   weight: 0.9333
   avg_copies: 1.0
 - name: Damping Sphere
@@ -135,28 +135,28 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.0444
   avg_copies: 2.0
-- name: Sacred Foundry
-  weight: 0.0444
-  avg_copies: 1.0
 - name: Does Machines
   weight: 0.0444
   avg_copies: 1.0
 - name: Fable of the Mirror-Breaker
   weight: 0.0444
   avg_copies: 1.0
-- name: Aurora Awakener
-  weight: 0.0222
-  avg_copies: 4.0
-- name: Archon of Cruelty
+- name: Sacred Foundry
+  weight: 0.0444
+  avg_copies: 1.0
+- name: Tribal Flames
   weight: 0.0222
   avg_copies: 4.0
 - name: Faithless Looting
   weight: 0.0222
   avg_copies: 4.0
+- name: Aurora Awakener
+  weight: 0.0222
+  avg_copies: 4.0
 - name: Psychic Frog
   weight: 0.0222
   avg_copies: 4.0
-- name: Tribal Flames
+- name: Archon of Cruelty
   weight: 0.0222
   avg_copies: 4.0
 - name: Persist
@@ -171,25 +171,25 @@ top_cards:
 - name: Mana Tithe
   weight: 0.0222
   avg_copies: 2.0
+- name: Breeding Pool
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Quantum Riddler
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Raucous Theater
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 0.0222
+  avg_copies: 1.0
 - name: Glasspool Mimic
   weight: 0.0222
   avg_copies: 1.0
 - name: Vexing Bauble
   weight: 0.0222
   avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.0222
-  avg_copies: 1.0
-- name: Raucous Theater
-  weight: 0.0222
-  avg_copies: 1.0
 - name: Prismatic Ending
-  weight: 0.0222
-  avg_copies: 1.0
-- name: Meltdown
-  weight: 0.0222
-  avg_copies: 1.0
-- name: Quantum Riddler
   weight: 0.0222
   avg_copies: 1.0
 ---

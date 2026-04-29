@@ -17,7 +17,7 @@ archetypes:
     weight: 0.0323
     avg_copies: 3.5
   jeskai-control:
-    weight: 0.2273
+    weight: 0.2174
     avg_copies: 4.0
   izzet-artifacts:
     weight: 0.3846

@@ -10,10 +10,10 @@ set: mh3
 type: Instant
 meta_presence: 0.0029
 archetypes:
+  jeskai-control:
+    weight: 0.0435
+    avg_copies: 2.0
   grixis-control:
     weight: 0.6
-    avg_copies: 2.0
-  unknown-25:
-    weight: 1.0
     avg_copies: 2.0
 ---

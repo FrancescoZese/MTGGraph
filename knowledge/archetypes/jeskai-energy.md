@@ -154,10 +154,10 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 0.0556
   avg_copies: 1.4
-- name: Snow-Covered Island
+- name: Spell Snare
   weight: 0.0556
   avg_copies: 1.0
-- name: Spell Snare
+- name: Snow-Covered Island
   weight: 0.0556
   avg_copies: 1.0
 - name: Kataki, War's Wage
@@ -172,100 +172,100 @@ top_cards:
 - name: Unholy Heat
   weight: 0.0333
   avg_copies: 1.0
-- name: Ghost Vacuum
-  weight: 0.0222
-  avg_copies: 1.5
 - name: Stock Up
   weight: 0.0222
   avg_copies: 1.5
+- name: Ghost Vacuum
+  weight: 0.0222
+  avg_copies: 1.5
+- name: Wear
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Ajani Vengeant
+  weight: 0.0222
+  avg_copies: 1.0
 - name: Floodfarm Verge
   weight: 0.0222
   avg_copies: 1.0
 - name: Jace, the Mind Sculptor
   weight: 0.0222
   avg_copies: 1.0
-- name: Ajani Vengeant
-  weight: 0.0222
-  avg_copies: 1.0
-- name: Wear
-  weight: 0.0222
-  avg_copies: 1.0
 - name: Orim's Chant
   weight: 0.0111
   avg_copies: 4.0
-- name: Misty Rainforest
+- name: Windswept Heath
   weight: 0.0111
   avg_copies: 3.0
-- name: Wrenn and Six
+- name: Misty Rainforest
   weight: 0.0111
   avg_copies: 3.0
 - name: Consult the Star Charts
   weight: 0.0111
   avg_copies: 3.0
-- name: Windswept Heath
+- name: Wrenn and Six
   weight: 0.0111
   avg_copies: 3.0
-- name: Eternal Witness
+- name: White Orchid Phantom
   weight: 0.0111
   avg_copies: 2.0
 - name: Witch Enchanter
   weight: 0.0111
   avg_copies: 2.0
-- name: Disruptor Flute
+- name: Mana Leak
+  weight: 0.0111
+  avg_copies: 2.0
+- name: Eternal Witness
   weight: 0.0111
   avg_copies: 2.0
 - name: Stony Silence
   weight: 0.0111
   avg_copies: 2.0
-- name: Boseiju, Who Endures
+- name: Reprieve
   weight: 0.0111
   avg_copies: 2.0
 - name: Cryogen Relic
   weight: 0.0111
   avg_copies: 2.0
-- name: White Orchid Phantom
-  weight: 0.0111
-  avg_copies: 2.0
-- name: Reprieve
-  weight: 0.0111
-  avg_copies: 2.0
-- name: Mana Leak
+- name: Boseiju, Who Endures
   weight: 0.0111
   avg_copies: 2.0
 - name: Tune the Narrative
   weight: 0.0111
   avg_copies: 2.0
-- name: Nihil Spellbomb
+- name: Disruptor Flute
   weight: 0.0111
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Fire Magic
-  weight: 0.0111
-  avg_copies: 1.0
-- name: Subtlety
-  weight: 0.0111
-  avg_copies: 1.0
-- name: Meltdown
-  weight: 0.0111
-  avg_copies: 1.0
-- name: Omnath, Locus of Creation
-  weight: 0.0111
-  avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.0111
-  avg_copies: 1.0
-- name: Temple Garden
-  weight: 0.0111
-  avg_copies: 1.0
-- name: Supreme Verdict
-  weight: 0.0111
-  avg_copies: 1.0
-- name: Stomping Ground
   weight: 0.0111
   avg_copies: 1.0
 - name: Lush Portico
   weight: 0.0111
   avg_copies: 1.0
+- name: Subtlety
+  weight: 0.0111
+  avg_copies: 1.0
+- name: Breeding Pool
+  weight: 0.0111
+  avg_copies: 1.0
+- name: Stomping Ground
+  weight: 0.0111
+  avg_copies: 1.0
+- name: Temple Garden
+  weight: 0.0111
+  avg_copies: 1.0
+- name: Nihil Spellbomb
+  weight: 0.0111
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 0.0111
+  avg_copies: 1.0
 - name: Hedge Maze
+  weight: 0.0111
+  avg_copies: 1.0
+- name: Omnath, Locus of Creation
+  weight: 0.0111
+  avg_copies: 1.0
+- name: Supreme Verdict
   weight: 0.0111
   avg_copies: 1.0
 ---

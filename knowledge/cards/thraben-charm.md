@@ -18,10 +18,10 @@ archetypes:
   jeskai-energy:
     weight: 0.0333
     avg_copies: 1.33
+  jeskai-control:
+    weight: 0.0435
+    avg_copies: 1.0
   selesnya-midrange:
     weight: 1.0
     avg_copies: 2.0
-  unknown-25:
-    weight: 1.0
-    avg_copies: 1.0
 ---

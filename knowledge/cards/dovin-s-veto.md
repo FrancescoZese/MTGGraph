@@ -10,7 +10,7 @@ set: war
 type: Instant
 meta_presence: 0.0007
 archetypes:
-  unknown-25:
-    weight: 1.0
+  jeskai-control:
+    weight: 0.0435
     avg_copies: 1.0
 ---

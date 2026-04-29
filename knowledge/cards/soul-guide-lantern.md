@@ -27,8 +27,8 @@ archetypes:
     weight: 0.1538
     avg_copies: 3.0
   jeskai-control:
-    weight: 0.3182
-    avg_copies: 1.71
+    weight: 0.3478
+    avg_copies: 1.75
   mill:
     weight: 0.875
     avg_copies: 2.86
@@ -53,7 +53,4 @@ archetypes:
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
-  unknown-25:
-    weight: 1.0
-    avg_copies: 2.0
 ---

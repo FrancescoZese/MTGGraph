@@ -18,6 +18,9 @@ archetypes:
   goryo:
     weight: 0.9643
     avg_copies: 3.98
+  jeskai-control:
+    weight: 0.0435
+    avg_copies: 2.0
   reanimator:
     weight: 0.0385
     avg_copies: 4.0
@@ -42,7 +45,4 @@ archetypes:
   goryo2:
     weight: 1.0
     avg_copies: 3.0
-  unknown-25:
-    weight: 1.0
-    avg_copies: 2.0
 ---

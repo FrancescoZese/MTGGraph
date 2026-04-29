@@ -37,13 +37,13 @@ top_cards:
 - name: Hedge Maze
   weight: 1.0
   avg_copies: 1.04
+- name: Forest
+  weight: 1.0
+  avg_copies: 1.0
 - name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Breeding Pool
-  weight: 1.0
-  avg_copies: 1.0
-- name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -136,28 +136,28 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 0.32
   avg_copies: 2.22
-- name: Swamp
+- name: Lush Portico
   weight: 0.32
   avg_copies: 1.0
 - name: Temple Garden
   weight: 0.32
   avg_copies: 1.0
-- name: Lush Portico
+- name: Swamp
   weight: 0.32
   avg_copies: 1.0
 - name: Clarion Conqueror
   weight: 0.28
   avg_copies: 2.57
-- name: Hallowed Fountain
+- name: Kavaero, Mind-Bitten
   weight: 0.28
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Hallowed Fountain
   weight: 0.28
   avg_copies: 1.0
 - name: Flare of Denial
   weight: 0.28
   avg_copies: 1.0
-- name: Kavaero, Mind-Bitten
+- name: Meticulous Archive
   weight: 0.28
   avg_copies: 1.0
 - name: Striped Riverwinder
@@ -187,43 +187,43 @@ top_cards:
 - name: Rough
   weight: 0.04
   avg_copies: 4.0
-- name: Atraxa, Grand Unifier
-  weight: 0.04
-  avg_copies: 3.0
 - name: Oliphaunt
   weight: 0.04
   avg_copies: 3.0
-- name: Steam Vents
+- name: Atraxa, Grand Unifier
+  weight: 0.04
+  avg_copies: 3.0
+- name: Fulminator Mage
   weight: 0.04
   avg_copies: 2.0
 - name: Flooded Strand
   weight: 0.04
   avg_copies: 2.0
-- name: Titanoth Rex
-  weight: 0.04
-  avg_copies: 2.0
 - name: Verdant Catacombs
   weight: 0.04
   avg_copies: 2.0
-- name: Fulminator Mage
+- name: Steam Vents
   weight: 0.04
   avg_copies: 2.0
-- name: Collector Ouphe
+- name: Titanoth Rex
   weight: 0.04
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Press the Enemy
-  weight: 0.04
-  avg_copies: 1.0
-- name: Windcaller Aven
-  weight: 0.04
-  avg_copies: 1.0
-- name: Sunken Ruins
   weight: 0.04
   avg_copies: 1.0
 - name: Stomping Ground
   weight: 0.04
   avg_copies: 1.0
 - name: Murderous Cut
+  weight: 0.04
+  avg_copies: 1.0
+- name: Sunken Ruins
+  weight: 0.04
+  avg_copies: 1.0
+- name: Windcaller Aven
+  weight: 0.04
+  avg_copies: 1.0
+- name: Collector Ouphe
   weight: 0.04
   avg_copies: 1.0
 ---

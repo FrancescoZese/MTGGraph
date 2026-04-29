@@ -21,7 +21,7 @@ archetypes:
     weight: 0.7444
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.1818
+    weight: 0.2174
     avg_copies: 1.0
   affinity:
     weight: 0.0074
@@ -105,9 +105,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   soultrader-combo0:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-25:
     weight: 1.0
     avg_copies: 1.0
 ---

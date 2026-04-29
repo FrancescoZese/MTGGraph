@@ -32,7 +32,7 @@ archetypes:
     avg_copies: 3.33
   jeskai-control:
     weight: 1.0
-    avg_copies: 2.77
+    avg_copies: 2.74
   affinity:
     weight: 0.7926
     avg_copies: 1.38
@@ -106,9 +106,6 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   4c-omnath9:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-25:
     weight: 1.0
     avg_copies: 2.0
   sultai-midrange:

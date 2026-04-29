@@ -6,16 +6,19 @@ name: Mono Red Belcher
 meta_share: 0.0058
 list_count: 8
 top_cards:
+- name: Pyretic Ritual
+  weight: 1.0
+  avg_copies: 4.0
+- name: Stormscale Scion
+  weight: 1.0
+  avg_copies: 4.0
 - name: Sundering Eruption
   weight: 1.0
   avg_copies: 4.0
 - name: Manamorphose
   weight: 1.0
   avg_copies: 4.0
-- name: Pyretic Ritual
-  weight: 1.0
-  avg_copies: 4.0
-- name: Desperate Ritual
+- name: Strike It Rich
   weight: 1.0
   avg_copies: 4.0
 - name: Goblin Charbelcher
@@ -24,13 +27,10 @@ top_cards:
 - name: Pinnacle Monk
   weight: 1.0
   avg_copies: 4.0
-- name: Strike It Rich
+- name: Desperate Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Shatterskull Smashing
-  weight: 1.0
-  avg_copies: 4.0
-- name: Stormscale Scion
   weight: 1.0
   avg_copies: 4.0
 - name: Irencrag Feat
@@ -60,10 +60,10 @@ top_cards:
 - name: Wear
   weight: 0.625
   avg_copies: 2.8
-- name: Spikefield Hazard
+- name: Vessel of Volatility
   weight: 0.5
   avg_copies: 4.0
-- name: Vessel of Volatility
+- name: Spikefield Hazard
   weight: 0.5
   avg_copies: 4.0
 - name: Witch Enchanter
@@ -84,19 +84,19 @@ top_cards:
 - name: Glimpse the Impossible
   weight: 0.25
   avg_copies: 2.5
-- name: Leyline of Sanctity
-  weight: 0.125
-  avg_copies: 4.0
 - name: Relic of Progenitus
   weight: 0.125
   avg_copies: 4.0
 - name: Hexing Squelcher
   weight: 0.125
   avg_copies: 4.0
-- name: Talisman of Conviction
+- name: Leyline of Sanctity
+  weight: 0.125
+  avg_copies: 4.0
+- name: Untimely Malfunction
   weight: 0.125
   avg_copies: 3.0
-- name: Untimely Malfunction
+- name: Talisman of Conviction
   weight: 0.125
   avg_copies: 3.0
 - name: Serum Powder
@@ -105,22 +105,22 @@ top_cards:
 - name: Lantern of the Lost
   weight: 0.125
   avg_copies: 2.0
-- name: March of Reckless Joy
-  weight: 0.125
-  avg_copies: 2.0
 - name: Kraza, the Swarm as One
   weight: 0.125
   avg_copies: 2.0
-- name: The Legend of Roku
+- name: March of Reckless Joy
+  weight: 0.125
+  avg_copies: 2.0
+- name: Trinisphere
   weight: 0.125
   avg_copies: 1.0
 - name: Rush of Inspiration
   weight: 0.125
   avg_copies: 1.0
-- name: Redirect Lightning
+- name: The Legend of Roku
   weight: 0.125
   avg_copies: 1.0
-- name: Trinisphere
+- name: Redirect Lightning
   weight: 0.125
   avg_copies: 1.0
 ---

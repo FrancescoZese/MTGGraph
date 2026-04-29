@@ -1,5 +1,5 @@
 ---
-archetype: unknown-25
+archetype: jeskai-control
 date: '2026-04-28'
 finish: 5-0
 pilot: light1024

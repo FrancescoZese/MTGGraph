@@ -10,6 +10,9 @@ set: sos
 type: Instant
 meta_presence: 0.0029
 archetypes:
+  jeskai-control:
+    weight: 0.0435
+    avg_copies: 2.0
   affinity:
     weight: 0.0074
     avg_copies: 2.0
@@ -18,8 +21,5 @@ archetypes:
     avg_copies: 2.0
   goryo1:
     weight: 0.1429
-    avg_copies: 2.0
-  unknown-25:
-    weight: 1.0
     avg_copies: 2.0
 ---

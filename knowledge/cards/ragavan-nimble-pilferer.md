@@ -16,7 +16,7 @@ archetypes:
     weight: 0.9889
     avg_copies: 3.49
   jeskai-control:
-    weight: 0.0455
+    weight: 0.0435
     avg_copies: 4.0
   domain-zoo:
     weight: 0.9778

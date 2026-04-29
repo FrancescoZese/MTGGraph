@@ -25,8 +25,8 @@ archetypes:
     weight: 0.7692
     avg_copies: 1.9
   jeskai-control:
-    weight: 0.4091
-    avg_copies: 1.6
+    weight: 0.4348
+    avg_copies: 1.64
   reanimator:
     weight: 0.0385
     avg_copies: 1.0
@@ -76,9 +76,6 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   izzet-murktide:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-25:
     weight: 1.0
     avg_copies: 2.0
   sultai-midrange:

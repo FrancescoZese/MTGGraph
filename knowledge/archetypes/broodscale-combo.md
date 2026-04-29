@@ -6,22 +6,22 @@ name: Broodscale Combo
 meta_share: 0.0181
 list_count: 25
 top_cards:
-- name: Grove of the Burnwillows
+- name: Basking Broodscale
   weight: 1.0
   avg_copies: 4.0
-- name: Eldrazi Temple
+- name: Grove of the Burnwillows
   weight: 1.0
   avg_copies: 4.0
 - name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Saga
-  weight: 1.0
-  avg_copies: 4.0
 - name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
-- name: Basking Broodscale
+- name: Urza's Saga
+  weight: 1.0
+  avg_copies: 4.0
+- name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
 - name: Glaring Fleshraker
@@ -63,10 +63,10 @@ top_cards:
 - name: Pithing Needle
   weight: 0.84
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Gemstone Caverns
   weight: 0.84
   avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Grafdigger's Cage
   weight: 0.84
   avg_copies: 1.0
 - name: Cavern of Souls
@@ -84,10 +84,10 @@ top_cards:
 - name: Unholy Heat
   weight: 0.56
   avg_copies: 1.9
-- name: Stomping Ground
+- name: Commercial District
   weight: 0.56
   avg_copies: 1.0
-- name: Commercial District
+- name: Stomping Ground
   weight: 0.56
   avg_copies: 1.0
 - name: Warping Wail
@@ -102,10 +102,10 @@ top_cards:
 - name: Ugin's Labyrinth
   weight: 0.44
   avg_copies: 4.0
-- name: Pick Your Poison
+- name: Soulless Jailer
   weight: 0.44
   avg_copies: 1.82
-- name: Soulless Jailer
+- name: Pick Your Poison
   weight: 0.44
   avg_copies: 1.82
 - name: Firespout
@@ -147,10 +147,10 @@ top_cards:
 - name: Pyroclasm
   weight: 0.04
   avg_copies: 2.0
-- name: Ghost Quarter
+- name: Bojuka Bog
   weight: 0.04
   avg_copies: 1.0
-- name: Bojuka Bog
+- name: Ghost Quarter
   weight: 0.04
   avg_copies: 1.0
 ---

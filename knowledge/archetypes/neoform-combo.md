@@ -30,10 +30,10 @@ top_cards:
 - name: Hedge Maze
   weight: 0.9643
   avg_copies: 2.81
-- name: Ghalta, Stampede Tyrant
+- name: Disciple of Freyalise
   weight: 0.9643
   avg_copies: 2.22
-- name: Disciple of Freyalise
+- name: Ghalta, Stampede Tyrant
   weight: 0.9643
   avg_copies: 2.22
 - name: Bridgeworks Battle
@@ -42,10 +42,10 @@ top_cards:
 - name: Breeding Pool
   weight: 0.9643
   avg_copies: 1.04
-- name: Griselbrand
+- name: Xenagos, God of Revels
   weight: 0.9643
   avg_copies: 1.0
-- name: Xenagos, God of Revels
+- name: Griselbrand
   weight: 0.9643
   avg_copies: 1.0
 - name: Planar Genesis
@@ -84,10 +84,10 @@ top_cards:
 - name: Veil of Summer
   weight: 0.8571
   avg_copies: 2.67
-- name: Into the Flood Maw
+- name: Elesh Norn, Grand Cenobite
   weight: 0.8571
   avg_copies: 1.0
-- name: Elesh Norn, Grand Cenobite
+- name: Into the Flood Maw
   weight: 0.8571
   avg_copies: 1.0
 - name: Ureni, the Song Unending
@@ -129,25 +129,25 @@ top_cards:
 - name: Windswept Heath
   weight: 0.1429
   avg_copies: 2.0
-- name: Forest
-  weight: 0.0714
-  avg_copies: 1.0
 - name: Borborygmos Enraged
   weight: 0.0714
   avg_copies: 1.0
-- name: Glittering Wish
-  weight: 0.0357
-  avg_copies: 4.0
+- name: Forest
+  weight: 0.0714
+  avg_copies: 1.0
 - name: Gemstone Mine
   weight: 0.0357
   avg_copies: 4.0
-- name: Detect Intrusion
+- name: Glittering Wish
   weight: 0.0357
   avg_copies: 4.0
 - name: Invasion of Gobakhan
   weight: 0.0357
   avg_copies: 4.0
 - name: Hexing Squelcher
+  weight: 0.0357
+  avg_copies: 4.0
+- name: Detect Intrusion
   weight: 0.0357
   avg_copies: 4.0
 - name: Geometer's Arthropod
@@ -162,7 +162,13 @@ top_cards:
 - name: Eladamri's Call
   weight: 0.0357
   avg_copies: 2.0
-- name: Firespout
+- name: Spell Snare
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Commercial District
   weight: 0.0357
   avg_copies: 1.0
 - name: Nature's Chant
@@ -171,37 +177,31 @@ top_cards:
 - name: Brainsurge
   weight: 0.0357
   avg_copies: 1.0
-- name: Stump Stomp
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Lush Portico
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Island
-  weight: 0.0357
-  avg_copies: 1.0
 - name: Preordain
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Commercial District
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Force of Vigor
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Spell Snare
   weight: 0.0357
   avg_copies: 1.0
 - name: Raph & Mikey, Troublemakers
   weight: 0.0357
   avg_copies: 1.0
-- name: Detention Sphere
+- name: Stump Stomp
   weight: 0.0357
   avg_copies: 1.0
 - name: Meticulous Archive
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Firespout
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Island
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Lush Portico
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Force of Vigor
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Detention Sphere
   weight: 0.0357
   avg_copies: 1.0
 ---

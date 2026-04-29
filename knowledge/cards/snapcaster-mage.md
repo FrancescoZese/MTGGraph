@@ -13,8 +13,8 @@ archetypes:
     weight: 0.4032
     avg_copies: 1.88
   jeskai-control:
-    weight: 0.0909
-    avg_copies: 3.0
+    weight: 0.1304
+    avg_copies: 2.67
   grixis-control:
     weight: 1.0
     avg_copies: 3.8
@@ -29,8 +29,5 @@ archetypes:
     avg_copies: 2.0
   4c-omnath9:
     weight: 0.5
-    avg_copies: 2.0
-  unknown-25:
-    weight: 1.0
     avg_copies: 2.0
 ---

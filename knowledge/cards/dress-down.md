@@ -16,7 +16,7 @@ archetypes:
     weight: 0.0769
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.0455
+    weight: 0.0435
     avg_copies: 4.0
   mono-blue-tron:
     weight: 0.25

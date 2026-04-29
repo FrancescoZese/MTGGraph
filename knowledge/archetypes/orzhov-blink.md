@@ -12,13 +12,13 @@ top_cards:
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
+- name: Solitude
+  weight: 1.0
+  avg_copies: 4.0
 - name: Witch Enchanter
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
-  weight: 1.0
-  avg_copies: 4.0
-- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Orcish Bowmasters
@@ -54,10 +54,10 @@ top_cards:
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 2.25
-- name: Shadowy Backstreet
+- name: High Noon
   weight: 1.0
   avg_copies: 2.0
-- name: High Noon
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 2.0
 - name: Boggart Trawler
@@ -75,16 +75,16 @@ top_cards:
 - name: Dawnbringer Cleric
   weight: 0.75
   avg_copies: 2.0
-- name: Sheoldred's Edict
-  weight: 0.75
-  avg_copies: 2.0
 - name: Prismatic Ending
   weight: 0.75
   avg_copies: 2.0
-- name: Flooded Strand
+- name: Sheoldred's Edict
+  weight: 0.75
+  avg_copies: 2.0
+- name: Bleachbone Verge
   weight: 0.75
   avg_copies: 1.67
-- name: Bleachbone Verge
+- name: Flooded Strand
   weight: 0.75
   avg_copies: 1.67
 - name: Vexing Bauble

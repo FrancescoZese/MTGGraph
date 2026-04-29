@@ -11,10 +11,10 @@ archetypes:
   eldrazi-tron:
     weight: 0.0566
     avg_copies: 1.0
+  jeskai-control:
+    weight: 0.0435
+    avg_copies: 1.0
   goryo4:
     weight: 0.5
-    avg_copies: 1.0
-  unknown-25:
-    weight: 1.0
     avg_copies: 1.0
 ---

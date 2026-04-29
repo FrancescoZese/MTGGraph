@@ -12,10 +12,10 @@ top_cards:
 - name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 3.94
-- name: Yawgmoth, Thran Physician
+- name: Badgermole Cub
   weight: 1.0
   avg_copies: 3.88
-- name: Badgermole Cub
+- name: Yawgmoth, Thran Physician
   weight: 1.0
   avg_copies: 3.88
 - name: Delighted Halfling
@@ -54,31 +54,31 @@ top_cards:
 - name: Forest
   weight: 1.0
   avg_copies: 1.62
-- name: Vexing Bauble
+- name: Formidable Speaker
   weight: 1.0
   avg_copies: 1.19
-- name: Formidable Speaker
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.19
 - name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.06
-- name: Dryad Arbor
-  weight: 1.0
-  avg_copies: 1.0
-- name: Grist, the Hunger Tide
-  weight: 1.0
-  avg_copies: 1.0
-- name: Swamp
-  weight: 1.0
-  avg_copies: 1.0
 - name: Soulless Jailer
+  weight: 1.0
+  avg_copies: 1.0
+- name: Strangleroot Geist
   weight: 1.0
   avg_copies: 1.0
 - name: Endurance
   weight: 1.0
   avg_copies: 1.0
-- name: Strangleroot Geist
+- name: Swamp
+  weight: 1.0
+  avg_copies: 1.0
+- name: Grist, the Hunger Tide
+  weight: 1.0
+  avg_copies: 1.0
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
 - name: Windswept Heath
@@ -132,10 +132,10 @@ top_cards:
 - name: Kraul Harpooner
   weight: 0.1875
   avg_copies: 1.0
-- name: Culling Ritual
+- name: Assassin's Trophy
   weight: 0.125
   avg_copies: 1.0
-- name: Assassin's Trophy
+- name: Culling Ritual
   weight: 0.125
   avg_copies: 1.0
 - name: Nurturing Peatland
