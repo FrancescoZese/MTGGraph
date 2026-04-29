@@ -9,16 +9,16 @@ type: Artifact
 meta_presence: 0.0304
 archetypes:
   eldrazi-tron:
-    weight: 0.5686
-    avg_copies: 1.37
+    weight: 0.566
+    avg_copies: 1.38
   mill:
     weight: 0.125
     avg_copies: 2.0
   boros-ponza:
-    weight: 0.0385
+    weight: 0.0323
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.2593
+    weight: 0.25
     avg_copies: 1.0
   naya-midrange:
     weight: 1.0
@@ -26,4 +26,7 @@ archetypes:
   goryo4:
     weight: 0.5
     avg_copies: 4.0
+  unknown-26:
+    weight: 1.0
+    avg_copies: 2.0
 ---

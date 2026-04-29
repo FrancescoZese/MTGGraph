@@ -3,16 +3,16 @@ colors:
 - W
 - R
 name: Burn
-meta_share: 0.0038
+meta_share: 0.0036
 list_count: 5
 top_cards:
 - name: Monastery Swiftspear
   weight: 1.0
   avg_copies: 4.0
-- name: Boltwave
+- name: Lava Spike
   weight: 1.0
   avg_copies: 4.0
-- name: Lava Spike
+- name: Boltwave
   weight: 1.0
   avg_copies: 4.0
 - name: Goblin Guide
@@ -21,10 +21,10 @@ top_cards:
 - name: Skullcrack
   weight: 1.0
   avg_copies: 3.6
-- name: Lightning Bolt
+- name: Skewer the Critics
   weight: 1.0
   avg_copies: 3.4
-- name: Skewer the Critics
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 3.4
 - name: Barbarian Ring
@@ -90,52 +90,52 @@ top_cards:
 - name: Shard Volley
   weight: 0.4
   avg_copies: 2.0
-- name: Exquisite Firecraft
+- name: Raucous Theater
   weight: 0.4
   avg_copies: 1.5
-- name: Raucous Theater
+- name: Exquisite Firecraft
   weight: 0.4
   avg_copies: 1.5
 - name: Sanctifier en-Vec
   weight: 0.2
   avg_copies: 4.0
-- name: Arena of Glory
+- name: Chandra's Incinerator
   weight: 0.2
   avg_copies: 3.0
-- name: Magebane Lizard
+- name: Arena of Glory
   weight: 0.2
   avg_copies: 3.0
 - name: Containment Priest
   weight: 0.2
   avg_copies: 3.0
-- name: Chandra's Incinerator
+- name: Magebane Lizard
   weight: 0.2
   avg_copies: 3.0
 - name: Eidolon of the Great Revel
   weight: 0.2
   avg_copies: 2.5
-- name: Damping Sphere
+- name: Meltdown
   weight: 0.2
   avg_copies: 2.0
 - name: Tunnel Ignus
   weight: 0.2
   avg_copies: 2.0
-- name: Meltdown
+- name: Damping Sphere
   weight: 0.2
   avg_copies: 2.0
 - name: Wear
   weight: 0.2
   avg_copies: 2.0
-- name: card:volcanic-fallout
-  weight: 0.2
-  avg_copies: 1.0
-- name: Disruptor Flute
-  weight: 0.2
-  avg_copies: 1.0
 - name: Molten Rain
   weight: 0.2
   avg_copies: 1.0
 - name: Elegant Parlor
+  weight: 0.2
+  avg_copies: 1.0
+- name: card:volcanic-fallout
+  weight: 0.2
+  avg_copies: 1.0
+- name: Disruptor Flute
   weight: 0.2
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer

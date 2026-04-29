@@ -9,8 +9,8 @@ type: Land
 meta_presence: 0.0152
 archetypes:
   necrodominance:
-    weight: 0.95
-    avg_copies: 3.37
+    weight: 0.9524
+    avg_copies: 3.35
   the-rock:
     weight: 0.5
     avg_copies: 1.0

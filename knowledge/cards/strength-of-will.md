@@ -7,7 +7,7 @@ name: Strength of Will
 scryfall_id: 68f985c7-7765-46c3-ad31-edae3abb9fbf
 set: spm
 type: Instant
-meta_presence: 0.0015
+meta_presence: 0.0014
 archetypes:
   hardened-scales:
     weight: 0.6667

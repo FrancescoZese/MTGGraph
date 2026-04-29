@@ -9,53 +9,53 @@ type: Land
 meta_presence: 0.1534
 archetypes:
   dimir-control:
-    weight: 0.3448
+    weight: 0.339
     avg_copies: 2.05
   jeskai-energy:
-    weight: 0.0115
+    weight: 0.0111
     avg_copies: 3.0
   azorius-control:
     weight: 0.0769
     avg_copies: 1.0
   living-end:
     weight: 1.0
-    avg_copies: 3.78
+    avg_copies: 3.8
   affinity:
-    weight: 0.1231
+    weight: 0.1259
     avg_copies: 1.88
   mill:
     weight: 0.625
     avg_copies: 1.8
   reanimator:
-    weight: 0.0417
+    weight: 0.04
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.963
-    avg_copies: 3.69
+    weight: 0.9643
+    avg_copies: 3.7
   kethis-combo:
     weight: 1.0
     avg_copies: 3.2
   yawgmoth-combo:
-    weight: 0.5
+    weight: 0.4375
     avg_copies: 1.29
   eldrazi-ramp:
-    weight: 0.8148
-    avg_copies: 1.14
+    weight: 0.8214
+    avg_copies: 1.13
   simic-ritual:
     weight: 1.0
-    avg_copies: 3.5
+    avg_copies: 3.53
   izzet-prowess:
-    weight: 0.0545
+    weight: 0.0526
     avg_copies: 2.0
   4c-omnath:
-    weight: 0.5
+    weight: 0.6667
     avg_copies: 4.0
   samwise-combo:
     weight: 0.8182
     avg_copies: 1.56
   broodscale-combo:
-    weight: 0.2083
-    avg_copies: 1.4
+    weight: 0.24
+    avg_copies: 1.33
   bant-control:
     weight: 1.0
     avg_copies: 2.0
@@ -95,4 +95,7 @@ archetypes:
   unknown-8:
     weight: 1.0
     avg_copies: 1.0
+  unknown-26:
+    weight: 1.0
+    avg_copies: 4.0
 ---

@@ -6,15 +6,15 @@ name: Welding Jar
 scryfall_id: 275ec0c4-1c59-4818-9999-b2389d17c2e7
 set: 2xm
 type: Artifact
-meta_presence: 0.0812
+meta_presence: 0.081
 archetypes:
   hardened-scales:
     weight: 1.0
     avg_copies: 1.67
   affinity:
-    weight: 0.7923
-    avg_copies: 1.32
+    weight: 0.7926
+    avg_copies: 1.31
   goryo7:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.5
 ---

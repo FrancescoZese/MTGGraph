@@ -10,7 +10,7 @@ type: Legendary Creature — Phyrexian Praetor
 meta_presence: 0.0159
 archetypes:
   necrodominance:
-    weight: 0.95
+    weight: 0.9524
     avg_copies: 3.05
   goryo5:
     weight: 1.0

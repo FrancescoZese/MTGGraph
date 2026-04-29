@@ -8,9 +8,9 @@ name: Hardened Academic
 scryfall_id: 06c9e8a7-2840-4cff-90af-c6636e598f78
 set: sos
 type: Creature — Bird Cleric
-meta_presence: 0.0008
+meta_presence: 0.0007
 archetypes:
   boros-energy:
-    weight: 0.0039
+    weight: 0.0038
     avg_copies: 4.0
 ---

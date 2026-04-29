@@ -6,9 +6,9 @@ name: Hedron Archive
 scryfall_id: 535b9ac6-dba2-4162-86ed-df3e9fad0306
 set: fdn
 type: Artifact
-meta_presence: 0.0008
+meta_presence: 0.0007
 archetypes:
   eldrazi-ramp:
-    weight: 0.037
+    weight: 0.0357
     avg_copies: 1.0
 ---

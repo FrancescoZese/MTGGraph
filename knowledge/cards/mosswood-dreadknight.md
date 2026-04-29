@@ -7,7 +7,7 @@ name: Mosswood Dreadknight // Dread Whispers
 scryfall_id: 9869ac70-5907-45fa-952c-31aef70c5066
 set: woe
 type: Creature — Human Knight // Sorcery — Adventure
-meta_presence: 0.0008
+meta_presence: 0.0007
 archetypes:
   the-rock:
     weight: 0.5

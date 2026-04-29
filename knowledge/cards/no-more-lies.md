@@ -11,10 +11,10 @@ type: Instant
 meta_presence: 0.0152
 archetypes:
   jeskai-energy:
-    weight: 0.1839
-    avg_copies: 1.48
+    weight: 0.1889
+    avg_copies: 1.5
   goryo:
-    weight: 0.0196
+    weight: 0.0185
     avg_copies: 2.0
   esper-blink:
     weight: 0.0833

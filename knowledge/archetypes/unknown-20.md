@@ -6,25 +6,25 @@ colors:
 - R
 - G
 name: 'Unknown #20'
-meta_share: 0.0008
+meta_share: 0.0007
 list_count: 1
 top_cards:
-- name: Territorial Kavu
+- name: Tribal Flames
   weight: 1.0
   avg_copies: 4.0
 - name: Wooded Foothills
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline Binding
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Ragavan, Nimble Pilferer
+- name: Phlage, Titan of Fire's Fury
   weight: 1.0
   avg_copies: 4.0
-- name: Arid Mesa
+- name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
@@ -33,16 +33,16 @@ top_cards:
 - name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
-- name: Tribal Flames
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Leyline Binding
   weight: 1.0
   avg_copies: 4.0
-- name: Scion of Draco
+- name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 4.0
-- name: Phlage, Titan of Fire's Fury
+- name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
 - name: Cecil, Dark Knight
@@ -51,13 +51,7 @@ top_cards:
 - name: Meltdown
   weight: 1.0
   avg_copies: 3.0
-- name: Ashiok, Dream Render
-  weight: 1.0
-  avg_copies: 2.0
 - name: Celestial Purge
-  weight: 1.0
-  avg_copies: 2.0
-- name: Wear
   weight: 1.0
   avg_copies: 2.0
 - name: Arena of Glory
@@ -66,34 +60,40 @@ top_cards:
 - name: High Noon
   weight: 1.0
   avg_copies: 2.0
+- name: Wear
+  weight: 1.0
+  avg_copies: 2.0
 - name: Graveyard Trespasser
   weight: 1.0
   avg_copies: 2.0
-- name: Elegant Parlor
+- name: Ashiok, Dream Render
   weight: 1.0
-  avg_copies: 1.0
-- name: Temple Garden
-  weight: 1.0
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Mountain
+  weight: 1.0
+  avg_copies: 1.0
+- name: The Legend of Roku
   weight: 1.0
   avg_copies: 1.0
 - name: Spara's Headquarters
   weight: 1.0
   avg_copies: 1.0
-- name: Nihil Spellbomb
-  weight: 1.0
-  avg_copies: 1.0
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
-- name: The Legend of Roku
+- name: Nihil Spellbomb
+  weight: 1.0
+  avg_copies: 1.0
+- name: Elegant Parlor
+  weight: 1.0
+  avg_copies: 1.0
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 ---

@@ -7,7 +7,7 @@ name: Marang River Regent // Coil and Catch
 scryfall_id: f890bdc7-32e6-4492-bac7-7cabf54a8bfd
 set: tdm
 type: Creature — Dragon // Instant — Omen
-meta_presence: 0.0008
+meta_presence: 0.0007
 archetypes:
   grixis-control:
     weight: 0.25

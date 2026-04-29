@@ -10,10 +10,10 @@ type: Sorcery
 meta_presence: 0.0456
 archetypes:
   domain-zoo:
-    weight: 0.025
+    weight: 0.0222
     avg_copies: 4.0
   reanimator:
-    weight: 0.875
+    weight: 0.88
     avg_copies: 3.86
   hollow-one:
     weight: 1.0
@@ -37,6 +37,9 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-18:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-21:
     weight: 1.0
     avg_copies: 4.0
 ---

@@ -2,22 +2,22 @@
 colors:
 - U
 name: Mono-Blue Tron
-meta_share: 0.003
+meta_share: 0.0029
 list_count: 4
 top_cards:
-- name: Expedition Map
+- name: Urza's Power Plant
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Tower
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Power Plant
+- name: Urza's Tower
   weight: 1.0
   avg_copies: 4.0
-- name: Kozilek's Command
+- name: Expedition Map
   weight: 1.0
   avg_copies: 4.0
 - name: Stock Up
@@ -68,37 +68,25 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.5
   avg_copies: 2.0
-- name: Emrakul, the Promised End
+- name: Portent of Calamity
   weight: 0.5
   avg_copies: 1.5
 - name: Hurkyl's Recall
   weight: 0.5
   avg_copies: 1.5
-- name: Portent of Calamity
+- name: Emrakul, the Promised End
   weight: 0.5
   avg_copies: 1.5
-- name: Engineered Explosives
-  weight: 0.5
-  avg_copies: 1.0
-- name: Walking Ballista
-  weight: 0.5
-  avg_copies: 1.0
-- name: Cityscape Leveler
-  weight: 0.5
-  avg_copies: 1.0
-- name: Ensnaring Bridge
-  weight: 0.5
-  avg_copies: 1.0
-- name: Soulless Jailer
-  weight: 0.5
-  avg_copies: 1.0
-- name: Tormod's Crypt
-  weight: 0.5
-  avg_copies: 1.0
-- name: Agna Qel'a
+- name: Wurmcoil Engine
   weight: 0.5
   avg_copies: 1.0
 - name: Hall of Storm Giants
+  weight: 0.5
+  avg_copies: 1.0
+- name: Engineered Explosives
+  weight: 0.5
+  avg_copies: 1.0
+- name: Agna Qel'a
   weight: 0.5
   avg_copies: 1.0
 - name: Liquimetal Coating
@@ -107,7 +95,7 @@ top_cards:
 - name: Oblivion Stone
   weight: 0.5
   avg_copies: 1.0
-- name: Wurmcoil Engine
+- name: Walking Ballista
   weight: 0.5
   avg_copies: 1.0
 - name: Sundering Titan
@@ -116,13 +104,28 @@ top_cards:
 - name: Trinisphere
   weight: 0.5
   avg_copies: 1.0
+- name: Ensnaring Bridge
+  weight: 0.5
+  avg_copies: 1.0
+- name: Tormod's Crypt
+  weight: 0.5
+  avg_copies: 1.0
+- name: Cityscape Leveler
+  weight: 0.5
+  avg_copies: 1.0
+- name: Soulless Jailer
+  weight: 0.5
+  avg_copies: 1.0
 - name: Ugin's Labyrinth
   weight: 0.25
   avg_copies: 4.0
-- name: Change the Equation
+- name: Dress Down
   weight: 0.25
   avg_copies: 2.0
 - name: Marrow Shards
+  weight: 0.25
+  avg_copies: 2.0
+- name: Change the Equation
   weight: 0.25
   avg_copies: 2.0
 - name: Propaganda
@@ -131,34 +134,31 @@ top_cards:
 - name: Stern Scolding
   weight: 0.25
   avg_copies: 2.0
-- name: Dress Down
-  weight: 0.25
-  avg_copies: 2.0
-- name: Talisman of Progress
-  weight: 0.25
-  avg_copies: 1.0
-- name: Disruptor Flute
-  weight: 0.25
-  avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.25
-  avg_copies: 1.0
-- name: Boseiju, Who Shelters All
+- name: Oboro, Palace in the Clouds
   weight: 0.25
   avg_copies: 1.0
 - name: Talisman of Dominance
   weight: 0.25
   avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Talisman of Progress
   weight: 0.25
   avg_copies: 1.0
 - name: Tishana's Tidebinder
   weight: 0.25
   avg_copies: 1.0
-- name: Oboro, Palace in the Clouds
+- name: Boseiju, Who Shelters All
   weight: 0.25
   avg_copies: 1.0
 - name: Talisman of Curiosity
+  weight: 0.25
+  avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.25
+  avg_copies: 1.0
+- name: Surgical Extraction
+  weight: 0.25
+  avg_copies: 1.0
+- name: Disruptor Flute
   weight: 0.25
   avg_copies: 1.0
 ---

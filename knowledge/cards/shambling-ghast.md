@@ -7,7 +7,7 @@ name: Shambling Ghast
 scryfall_id: d96198a7-dd19-4940-bf8f-23135011fc84
 set: afr
 type: Creature — Zombie
-meta_presence: 0.0008
+meta_presence: 0.0014
 archetypes:
   unknown-4:
     weight: 1.0

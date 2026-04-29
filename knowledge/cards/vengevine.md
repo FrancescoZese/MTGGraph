@@ -7,7 +7,7 @@ name: Vengevine
 scryfall_id: 5631668d-75f2-4d2d-b644-90c073c7be21
 set: 2xm
 type: Creature — Elemental
-meta_presence: 0.003
+meta_presence: 0.0029
 archetypes:
   hollow-one:
     weight: 0.15

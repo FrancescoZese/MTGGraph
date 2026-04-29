@@ -6,16 +6,16 @@ name: Thought-Knot Seer
 scryfall_id: bffc360e-db41-48f3-9365-680d55046e04
 set: ogw
 type: Creature — Eldrazi
-meta_presence: 0.0448
+meta_presence: 0.0441
 archetypes:
   eldrazi-tron:
     weight: 1.0
-    avg_copies: 3.86
+    avg_copies: 3.87
   eldrazi-ramp:
-    weight: 0.037
+    weight: 0.0357
     avg_copies: 2.5
   broodscale-combo:
-    weight: 0.0833
+    weight: 0.08
     avg_copies: 2.67
   scapeshift-combo:
     weight: 0.75

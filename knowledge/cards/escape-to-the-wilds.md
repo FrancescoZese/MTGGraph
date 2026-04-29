@@ -8,9 +8,9 @@ name: Escape to the Wilds
 scryfall_id: 889cdc42-fae3-4dda-9cf0-697730ef00e3
 set: eoc
 type: Sorcery
-meta_presence: 0.0008
+meta_presence: 0.0007
 archetypes:
   ruby-storm:
-    weight: 0.0286
+    weight: 0.0278
     avg_copies: 2.0
 ---

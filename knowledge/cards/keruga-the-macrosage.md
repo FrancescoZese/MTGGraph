@@ -8,9 +8,9 @@ name: Keruga, the Macrosage
 scryfall_id: a90ee952-de7a-420f-993c-a38db89bc8ac
 set: iko
 type: Legendary Creature — Dinosaur Hippo
-meta_presence: 0.0008
+meta_presence: 0.0007
 archetypes:
   4c-omnath:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
 ---

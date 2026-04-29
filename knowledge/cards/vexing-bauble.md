@@ -6,31 +6,31 @@ name: Vexing Bauble
 scryfall_id: 29f11089-658f-42e6-aeb0-09b512ad2479
 set: mh3
 type: Artifact
-meta_presence: 0.3068
+meta_presence: 0.3075
 archetypes:
   ruby-storm:
-    weight: 0.0571
+    weight: 0.0556
     avg_copies: 1.0
   boros-energy:
-    weight: 0.3256
-    avg_copies: 1.56
+    weight: 0.3271
+    avg_copies: 1.55
   eldrazi-tron:
-    weight: 0.6275
+    weight: 0.6226
     avg_copies: 1.09
   amulet-titan:
-    weight: 0.6
-    avg_copies: 1.22
+    weight: 0.614
+    avg_copies: 1.21
   hardened-scales:
     weight: 0.6667
     avg_copies: 1.0
   affinity:
-    weight: 0.6462
-    avg_copies: 1.18
+    weight: 0.637
+    avg_copies: 1.17
   domain-zoo:
-    weight: 0.025
+    weight: 0.0222
     avg_copies: 1.0
   reanimator:
-    weight: 0.1667
+    weight: 0.16
     avg_copies: 1.75
   mono-red-belcher:
     weight: 0.375
@@ -42,26 +42,26 @@ archetypes:
     weight: 0.85
     avg_copies: 2.24
   boros-ponza:
-    weight: 0.9231
-    avg_copies: 2.0
+    weight: 0.9355
+    avg_copies: 2.07
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 1.14
+    avg_copies: 1.19
   eldrazi-ramp:
-    weight: 0.9259
-    avg_copies: 1.62
+    weight: 0.9286
+    avg_copies: 1.63
   izzet-prowess:
-    weight: 0.0909
+    weight: 0.0877
     avg_copies: 2.0
   samwise-combo:
     weight: 0.6364
     avg_copies: 2.0
   broodscale-combo:
     weight: 1.0
-    avg_copies: 1.45
+    avg_copies: 1.43
   orzhov-blink:
     weight: 0.75
     avg_copies: 1.33
@@ -82,7 +82,7 @@ archetypes:
     avg_copies: 1.0
   eldrazi-breach:
     weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 1.4
   grixis-shadow:
     weight: 1.0
     avg_copies: 1.0
@@ -99,8 +99,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.67
   goryo1:
-    weight: 0.1667
-    avg_copies: 1.0
+    weight: 0.2857
+    avg_copies: 1.5
   goryo4:
     weight: 0.5
     avg_copies: 3.0
@@ -111,6 +111,9 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-5:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-21:
     weight: 1.0
     avg_copies: 4.0
 ---

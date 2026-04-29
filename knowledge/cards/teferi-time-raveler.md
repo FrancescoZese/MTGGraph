@@ -8,34 +8,34 @@ name: Teferi, Time Raveler
 scryfall_id: 662fe50f-d75c-422c-8c6c-1f9b5c4ba21f
 set: rvr
 type: Legendary Planeswalker — Teferi
-meta_presence: 0.1352
+meta_presence: 0.1339
 archetypes:
   dimir-control:
-    weight: 0.0517
+    weight: 0.0508
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.4828
-    avg_copies: 1.23
+    weight: 0.4889
+    avg_copies: 1.22
   goryo:
-    weight: 0.7255
-    avg_copies: 1.25
+    weight: 0.7222
+    avg_copies: 1.23
   azorius-control:
     weight: 1.0
     avg_copies: 3.21
   living-end:
-    weight: 0.3478
+    weight: 0.32
     avg_copies: 2.22
   jeskai-control:
-    weight: 0.8333
+    weight: 0.8421
     avg_copies: 3.0
   domain-zoo:
-    weight: 0.75
+    weight: 0.6889
     avg_copies: 1.09
   kethis-combo:
     weight: 1.0
     avg_copies: 1.5
   4c-omnath:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 2.0
   esper-blink:
     weight: 0.9167
@@ -62,6 +62,9 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-19:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 1.5
+  unknown-23:
+    weight: 1.0
+    avg_copies: 1.0
 ---

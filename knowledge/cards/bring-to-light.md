@@ -8,9 +8,12 @@ name: Bring to Light
 scryfall_id: e3399260-a81a-475c-9b87-1efb1a13f8d6
 set: 2x2
 type: Sorcery
-meta_presence: 0.0008
+meta_presence: 0.0014
 archetypes:
   scapeshift-combo:
     weight: 0.25
+    avg_copies: 3.0
+  unknown-26:
+    weight: 1.0
     avg_copies: 3.0
 ---

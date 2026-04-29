@@ -3,12 +3,9 @@ colors:
 - W
 - U
 name: Hammer Time
-meta_share: 0.0023
+meta_share: 0.0022
 list_count: 3
 top_cards:
-- name: Stoneforge Mystic
-  weight: 1.0
-  avg_copies: 4.0
 - name: Esper Sentinel
   weight: 1.0
   avg_copies: 4.0
@@ -18,13 +15,16 @@ top_cards:
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
+- name: Stoneforge Mystic
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ornithopter
+  weight: 1.0
+  avg_copies: 3.67
 - name: Battlefield Improvisation
   weight: 1.0
   avg_copies: 3.67
 - name: Leyline Axe
-  weight: 1.0
-  avg_copies: 3.67
-- name: Ornithopter
   weight: 1.0
   avg_copies: 3.67
 - name: Metallic Rebuke
@@ -36,16 +36,16 @@ top_cards:
 - name: Puresteel Paladin
   weight: 1.0
   avg_copies: 3.0
-- name: Inkmoth Nexus
-  weight: 1.0
-  avg_copies: 2.67
 - name: Mox Opal
   weight: 1.0
   avg_copies: 2.67
-- name: Sanctifier en-Vec
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.67
-- name: Hallowed Fountain
+- name: Inkmoth Nexus
+  weight: 1.0
+  avg_copies: 2.67
+- name: Sanctifier en-Vec
   weight: 1.0
   avg_copies: 2.67
 - name: Plains
@@ -90,22 +90,16 @@ top_cards:
 - name: Meticulous Archive
   weight: 0.6667
   avg_copies: 1.0
-- name: Flare of Fortitude
+- name: Portable Hole
   weight: 0.3333
   avg_copies: 4.0
 - name: Mishra's Bauble
   weight: 0.3333
   avg_copies: 4.0
-- name: Portable Hole
+- name: Flare of Fortitude
   weight: 0.3333
   avg_copies: 4.0
-- name: Containment Priest
-  weight: 0.3333
-  avg_copies: 2.0
 - name: Suncleanser
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Sigarda's Aid
   weight: 0.3333
   avg_copies: 2.0
 - name: Test of Talents
@@ -114,10 +108,16 @@ top_cards:
 - name: Damping Sphere
   weight: 0.3333
   avg_copies: 2.0
-- name: Skateboard
+- name: Containment Priest
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Sigarda's Aid
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Grafdigger's Cage
   weight: 0.3333
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Skateboard
   weight: 0.3333
   avg_copies: 1.0
 - name: Voice of Victory

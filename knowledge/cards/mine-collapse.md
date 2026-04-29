@@ -7,9 +7,9 @@ name: Mine Collapse
 scryfall_id: 56e2e8b5-660d-4469-a4fe-2367dfadb709
 set: mh2
 type: Instant
-meta_presence: 0.0008
+meta_presence: 0.0007
 archetypes:
   ruby-storm:
-    weight: 0.0286
+    weight: 0.0278
     avg_copies: 1.0
 ---

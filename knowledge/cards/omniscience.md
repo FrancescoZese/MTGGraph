@@ -7,7 +7,7 @@ name: Omniscience
 scryfall_id: d33d91d0-1506-45e4-9def-975bf901815e
 set: fdn
 type: Enchantment
-meta_presence: 0.0008
+meta_presence: 0.0007
 archetypes:
   unknown-3:
     weight: 0.5

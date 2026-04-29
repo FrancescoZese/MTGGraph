@@ -7,12 +7,12 @@ name: Requiting Hex
 scryfall_id: f21b0fb7-91b6-403f-a81a-562665961276
 set: ecl
 type: Instant
-meta_presence: 0.0015
+meta_presence: 0.0014
 archetypes:
   necrodominance:
-    weight: 0.05
+    weight: 0.0476
     avg_copies: 4.0
   reanimator:
-    weight: 0.0417
+    weight: 0.04
     avg_copies: 2.0
 ---

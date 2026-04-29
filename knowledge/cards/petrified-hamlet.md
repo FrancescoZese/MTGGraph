@@ -6,7 +6,7 @@ name: Petrified Hamlet
 scryfall_id: 355dd460-b0e9-41f2-a058-b7f7e39ac387
 set: sos
 type: Land
-meta_presence: 0.0008
+meta_presence: 0.0007
 archetypes:
   goryo4:
     weight: 0.5

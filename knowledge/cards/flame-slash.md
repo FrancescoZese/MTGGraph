@@ -7,9 +7,9 @@ name: Flame Slash
 scryfall_id: 15affc1b-2ebb-4934-87a2-10e89eafe894
 set: cn2
 type: Sorcery
-meta_presence: 0.0008
+meta_presence: 0.0007
 archetypes:
   ruby-storm:
-    weight: 0.0286
+    weight: 0.0278
     avg_copies: 1.0
 ---

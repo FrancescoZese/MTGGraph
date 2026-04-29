@@ -4,30 +4,27 @@ colors:
 - R
 - G
 name: Naya Midrange
-meta_share: 0.0008
+meta_share: 0.0007
 list_count: 1
 top_cards:
-- name: Reprieve
-  weight: 1.0
-  avg_copies: 4.0
-- name: Malevolent Rumble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Wrath of the Skies
-  weight: 1.0
-  avg_copies: 4.0
-- name: Windswept Heath
+- name: Wrenn and Six
   weight: 1.0
   avg_copies: 4.0
 - name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
-- name: Wrenn and Six
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Malevolent Rumble
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 4.0
+- name: Windswept Heath
+  weight: 1.0
+  avg_copies: 4.0
+- name: Reprieve
+  weight: 1.0
+  avg_copies: 4.0
 - name: Arena of Glory
   weight: 1.0
   avg_copies: 3.0
@@ -37,7 +34,16 @@ top_cards:
 - name: Fable of the Mirror-Breaker
   weight: 1.0
   avg_copies: 3.0
-- name: Prismatic Ending
+- name: Solitude
+  weight: 1.0
+  avg_copies: 3.0
+- name: Obsidian Charmaw
+  weight: 1.0
+  avg_copies: 2.0
+- name: The Legend of Roku
+  weight: 1.0
+  avg_copies: 2.0
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 2.0
 - name: Damping Sphere
@@ -46,70 +52,64 @@ top_cards:
 - name: Surgical Extraction
   weight: 1.0
   avg_copies: 2.0
+- name: Prismatic Ending
+  weight: 1.0
+  avg_copies: 2.0
 - name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 2.0
-- name: Obsidian Charmaw
-  weight: 1.0
-  avg_copies: 2.0
-- name: Wooded Foothills
-  weight: 1.0
-  avg_copies: 2.0
-- name: The Legend of Roku
-  weight: 1.0
-  avg_copies: 2.0
-- name: Exorcise
-  weight: 1.0
-  avg_copies: 1.0
-- name: Elegant Parlor
-  weight: 1.0
-  avg_copies: 1.0
-- name: Faithless Looting
-  weight: 1.0
-  avg_copies: 1.0
-- name: Temple Garden
-  weight: 1.0
-  avg_copies: 1.0
-- name: Commercial District
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
 - name: Lush Portico
   weight: 1.0
   avg_copies: 1.0
-- name: Mountain
-  weight: 1.0
-  avg_copies: 1.0
-- name: Boseiju, Who Endures
-  weight: 1.0
-  avg_copies: 1.0
-- name: Arid Mesa
-  weight: 1.0
-  avg_copies: 1.0
-- name: Chalice of the Void
+- name: Shatterstorm
   weight: 1.0
   avg_copies: 1.0
 - name: Six
   weight: 1.0
   avg_copies: 1.0
-- name: Stone Rain
+- name: Blood Moon
   weight: 1.0
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.0
 - name: Plains
   weight: 1.0
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Commercial District
   weight: 1.0
   avg_copies: 1.0
-- name: Shatterstorm
+- name: Sacred Foundry
+  weight: 1.0
+  avg_copies: 1.0
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Moon
+- name: Faithless Looting
+  weight: 1.0
+  avg_copies: 1.0
+- name: Chalice of the Void
+  weight: 1.0
+  avg_copies: 1.0
+- name: Elegant Parlor
+  weight: 1.0
+  avg_copies: 1.0
+- name: Arid Mesa
+  weight: 1.0
+  avg_copies: 1.0
+- name: Exorcise
+  weight: 1.0
+  avg_copies: 1.0
+- name: Stomping Ground
+  weight: 1.0
+  avg_copies: 1.0
+- name: Stone Rain
   weight: 1.0
   avg_copies: 1.0
 ---

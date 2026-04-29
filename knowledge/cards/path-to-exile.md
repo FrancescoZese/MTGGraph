@@ -7,13 +7,13 @@ name: Path to Exile
 scryfall_id: 90b690f4-9647-4e67-b7cb-b2692ea149b1
 set: soc
 type: Instant
-meta_presence: 0.0501
+meta_presence: 0.0521
 archetypes:
   boros-energy:
-    weight: 0.0388
+    weight: 0.0376
     avg_copies: 1.19
   domain-zoo:
-    weight: 0.575
+    weight: 0.5333
     avg_copies: 1.0
   mill:
     weight: 0.125

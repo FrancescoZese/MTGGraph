@@ -7,7 +7,7 @@ name: Flameblade Adept
 scryfall_id: f974d05a-3b31-4661-af18-58d87b76f19e
 set: akh
 type: Creature — Jackal Warrior
-meta_presence: 0.0008
+meta_presence: 0.0007
 archetypes:
   hollow-one:
     weight: 0.05

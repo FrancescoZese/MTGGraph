@@ -8,7 +8,7 @@ name: Dina's Guidance
 scryfall_id: 775c1e50-08a4-413f-ab0f-f1c2a79cfe94
 set: sos
 type: Instant
-meta_presence: 0.0015
+meta_presence: 0.0014
 archetypes:
   unknown-3:
     weight: 1.0

@@ -8,9 +8,9 @@ name: Goblin Anarchomancer
 scryfall_id: 633a3423-501d-4b22-95a6-743233be521e
 set: mh2
 type: Creature — Goblin Shaman
-meta_presence: 0.0008
+meta_presence: 0.0007
 archetypes:
   ruby-storm:
-    weight: 0.0286
+    weight: 0.0278
     avg_copies: 2.0
 ---

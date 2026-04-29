@@ -5,19 +5,22 @@ colors:
 - B
 - R
 name: Grixis Shadow
-meta_share: 0.0008
+meta_share: 0.0007
 list_count: 1
 top_cards:
-- name: Street Wraith
+- name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
-- name: Consign to Memory
+- name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -26,52 +29,49 @@ top_cards:
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Death's Shadow
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 4.0
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Death's Shadow
   weight: 1.0
   avg_copies: 4.0
-- name: Nethergoyf
-  weight: 1.0
-  avg_copies: 4.0
-- name: Moonshadow
-  weight: 1.0
-  avg_copies: 4.0
-- name: Expressive Iteration
-  weight: 1.0
-  avg_copies: 3.0
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 3.0
-- name: Damping Sphere
+- name: Expressive Iteration
   weight: 1.0
-  avg_copies: 2.0
-- name: Abigale, Eloquent First-Year
-  weight: 1.0
-  avg_copies: 2.0
-- name: Nihil Spellbomb
-  weight: 1.0
-  avg_copies: 2.0
-- name: Fire Magic
-  weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Dauthi Voidwalker
-  weight: 1.0
-  avg_copies: 2.0
-- name: Watery Grave
   weight: 1.0
   avg_copies: 2.0
 - name: Unholy Heat
   weight: 1.0
   avg_copies: 2.0
+- name: Damping Sphere
+  weight: 1.0
+  avg_copies: 2.0
+- name: Watery Grave
+  weight: 1.0
+  avg_copies: 2.0
+- name: Nihil Spellbomb
+  weight: 1.0
+  avg_copies: 2.0
 - name: Stubborn Denial
   weight: 1.0
   avg_copies: 2.0
+- name: Abigale, Eloquent First-Year
+  weight: 1.0
+  avg_copies: 2.0
 - name: Blood Crypt
+  weight: 1.0
+  avg_copies: 2.0
+- name: Fire Magic
   weight: 1.0
   avg_copies: 2.0
 - name: Force of Despair

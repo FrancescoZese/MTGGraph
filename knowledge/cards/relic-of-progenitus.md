@@ -9,7 +9,7 @@ type: Artifact
 meta_presence: 0.0152
 archetypes:
   eldrazi-tron:
-    weight: 0.2549
+    weight: 0.2642
     avg_copies: 1.11
   mono-red-belcher:
     weight: 0.125

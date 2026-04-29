@@ -6,7 +6,7 @@ name: Lotus Bloom
 scryfall_id: db89ae4d-1cc2-41d8-a4de-a54b958c4429
 set: tsr
 type: Artifact
-meta_presence: 0.022
+meta_presence: 0.021
 archetypes:
   mono-blue-belcher:
     weight: 1.0

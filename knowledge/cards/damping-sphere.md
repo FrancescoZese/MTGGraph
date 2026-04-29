@@ -6,47 +6,47 @@ name: Damping Sphere
 scryfall_id: 550860b4-887d-423a-8add-816c2a8da615
 set: dmr
 type: Artifact
-meta_presence: 0.3189
+meta_presence: 0.3242
 archetypes:
   boros-energy:
-    weight: 0.2597
-    avg_copies: 1.51
+    weight: 0.2632
+    avg_copies: 1.5
   dimir-control:
-    weight: 0.1724
+    weight: 0.1695
     avg_copies: 1.1
   jeskai-energy:
-    weight: 0.3218
-    avg_copies: 1.39
+    weight: 0.3222
+    avg_copies: 1.41
   goryo:
-    weight: 0.1176
+    weight: 0.1111
     avg_copies: 1.83
   hardened-scales:
     weight: 1.0
     avg_copies: 3.0
   necrodominance:
-    weight: 0.8
+    weight: 0.8095
     avg_copies: 2.06
   living-end:
-    weight: 0.5217
-    avg_copies: 1.08
+    weight: 0.56
+    avg_copies: 1.07
   jeskai-control:
-    weight: 0.2222
-    avg_copies: 2.25
+    weight: 0.2632
+    avg_copies: 2.0
   affinity:
-    weight: 0.9846
-    avg_copies: 2.52
+    weight: 0.9852
+    avg_copies: 2.53
   domain-zoo:
-    weight: 0.825
+    weight: 0.8444
     avg_copies: 1.55
   reanimator:
-    weight: 0.7083
+    weight: 0.72
     avg_copies: 1.94
   burn:
     weight: 0.2
     avg_copies: 2.0
   mardu-blink:
-    weight: 0.8462
-    avg_copies: 1.55
+    weight: 0.8667
+    avg_copies: 1.62
   hammer-time:
     weight: 0.3333
     avg_copies: 2.0
@@ -54,19 +54,22 @@ archetypes:
     weight: 0.85
     avg_copies: 2.35
   yawgmoth-combo:
-    weight: 0.3571
+    weight: 0.3125
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.1111
+    weight: 0.1071
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.2353
+    weight: 0.2222
+    avg_copies: 2.0
+  4c-omnath:
+    weight: 0.3333
     avg_copies: 2.0
   esper-blink:
     weight: 1.0
     avg_copies: 2.75
   broodscale-combo:
-    weight: 0.5417
+    weight: 0.56
     avg_copies: 2.0
   orzhov-blink:
     weight: 1.0
@@ -102,7 +105,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.5
+    weight: 0.5714
     avg_copies: 2.0
   goryo4:
     weight: 0.5
@@ -113,4 +116,13 @@ archetypes:
   unknown-3:
     weight: 1.0
     avg_copies: 2.0
+  unknown-22:
+    weight: 0.3333
+    avg_copies: 1.0
+  unknown-23:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-24:
+    weight: 1.0
+    avg_copies: 3.0
 ---

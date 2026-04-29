@@ -7,9 +7,12 @@ name: Nature's Rhythm
 scryfall_id: 1397d904-c51d-451e-8505-7f3118acc1f6
 set: tdm
 type: Sorcery
-meta_presence: 0.0008
+meta_presence: 0.0014
 archetypes:
   elves:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-24:
     weight: 1.0
     avg_copies: 4.0
 ---

@@ -6,9 +6,9 @@ name: Crypt of Agadeem
 scryfall_id: 18adafe6-de67-4101-8b39-b53ab695ec4a
 set: tdc
 type: Land
-meta_presence: 0.0008
+meta_presence: 0.0007
 archetypes:
   reanimator:
-    weight: 0.0417
+    weight: 0.04
     avg_copies: 4.0
 ---

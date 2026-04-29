@@ -6,9 +6,9 @@ name: Sanctum of Ugin
 scryfall_id: 86798d03-9f2d-46bd-a660-13c8dd5535ce
 set: bfz
 type: Land
-meta_presence: 0.0175
+meta_presence: 0.0166
 archetypes:
   eldrazi-ramp:
-    weight: 0.8519
+    weight: 0.8214
     avg_copies: 1.0
 ---
