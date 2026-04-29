@@ -9,6 +9,9 @@ set: ecl
 type: Creature — Elf Druid
 meta_presence: 0.0384
 archetypes:
+  goryo:
+    weight: 0.0377
+    avg_copies: 4.0
   living-end:
     weight: 0.68
     avg_copies: 2.29
@@ -27,7 +30,4 @@ archetypes:
   mono-green-ramp:
     weight: 0.8
     avg_copies: 1.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 4.0
 ---

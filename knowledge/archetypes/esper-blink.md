@@ -10,10 +10,14 @@ top_cards:
 - name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Solitude
+=======
+- name: Flooded Strand
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
@@ -49,13 +53,19 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.08
+<<<<<<< Updated upstream
+=======
+- name: Meticulous Archive
+  weight: 1.0
+  avg_copies: 1.0
+>>>>>>> Stashed changes
 - name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowy Backstreet
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Swamp
@@ -100,10 +110,14 @@ top_cards:
 - name: Bleachbone Verge
   weight: 0.25
   avg_copies: 1.0
-- name: Island
+- name: Surgical Extraction
   weight: 0.25
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Surgical Extraction
+=======
+- name: Island
+>>>>>>> Stashed changes
   weight: 0.25
   avg_copies: 1.0
 - name: Psychic Frog
@@ -118,10 +132,14 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 0.1667
   avg_copies: 1.0
-- name: Subtlety
+- name: No More Lies
   weight: 0.0833
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Force of Negation
+=======
+- name: Subtlety
+>>>>>>> Stashed changes
   weight: 0.0833
   avg_copies: 4.0
 - name: No More Lies
@@ -130,12 +148,17 @@ top_cards:
 - name: White Orchid Phantom
   weight: 0.0833
   avg_copies: 2.0
+<<<<<<< Updated upstream
 - name: Celestial Purge
+=======
+- name: Strix Serenade
+>>>>>>> Stashed changes
   weight: 0.0833
   avg_copies: 1.0
 - name: Hydroelectric Specimen
   weight: 0.0833
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Windswept Heath
   weight: 0.0833
   avg_copies: 1.0
@@ -143,18 +166,35 @@ top_cards:
   weight: 0.0833
   avg_copies: 1.0
 - name: Strix Serenade
+=======
+- name: Hydroelectric Specimen
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Windswept Heath
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Skycoach Conductor
+>>>>>>> Stashed changes
   weight: 0.0833
   avg_copies: 1.0
 - name: March of Otherworldly Light
   weight: 0.0833
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Skycoach Conductor
+=======
+- name: Emptiness
+>>>>>>> Stashed changes
   weight: 0.0833
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
   weight: 0.0833
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Emptiness
+=======
+- name: Erode
+>>>>>>> Stashed changes
   weight: 0.0833
   avg_copies: 1.0
 ---

@@ -10,6 +10,11 @@ type: Instant
 meta_presence: 0.0145
 archetypes:
   boros-ponza:
+<<<<<<< Updated upstream
     weight: 0.6452
     avg_copies: 2.5
+=======
+    weight: 0.7037
+    avg_copies: 2.58
+>>>>>>> Stashed changes
 ---

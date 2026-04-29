@@ -9,10 +9,7 @@ set: tdc
 type: Creature — Zombie
 meta_presence: 0.0022
 archetypes:
-  unknown-2:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-4:
+  soultrader-combo:
     weight: 1.0
     avg_copies: 4.0
 ---

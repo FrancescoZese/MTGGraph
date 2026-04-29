@@ -27,10 +27,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   grixis-control:
-    weight: 0.75
-    avg_copies: 1.0
-  unknown-6:
-    weight: 1.0
+    weight: 0.8
     avg_copies: 1.0
   unknown-25:
     weight: 1.0

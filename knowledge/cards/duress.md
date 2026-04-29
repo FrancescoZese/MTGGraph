@@ -9,10 +9,15 @@ set: fdn
 type: Sorcery
 meta_presence: 0.0014
 archetypes:
+<<<<<<< Updated upstream
   necrodominance:
     weight: 0.0476
     avg_copies: 2.0
   unknown-3:
     weight: 0.5
+=======
+  goryo:
+    weight: 0.0189
+>>>>>>> Stashed changes
     avg_copies: 1.0
 ---

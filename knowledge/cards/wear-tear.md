@@ -26,7 +26,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.62
   burn:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 2.0
   mardu-blink:
     weight: 1.0
@@ -36,6 +36,7 @@ archetypes:
     avg_copies: 2.8
   boros-ponza:
     weight: 1.0
+<<<<<<< Updated upstream
     avg_copies: 1.52
   izzet-prowess:
     weight: 0.0175
@@ -43,13 +44,19 @@ archetypes:
   4c-omnath:
     weight: 0.6667
     avg_copies: 2.5
+=======
+    avg_copies: 1.67
+  izzet-prowess:
+    weight: 0.0179
+    avg_copies: 1.0
+  4c-omnath:
+    weight: 0.3333
+    avg_copies: 2.0
+>>>>>>> Stashed changes
   goryo0:
     weight: 1.0
     avg_copies: 4.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-20:
+  soultrader-combo0:
     weight: 1.0
     avg_copies: 2.0
 ---

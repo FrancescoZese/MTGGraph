@@ -1,5 +1,5 @@
 ---
-archetype: unknown-20
+archetype: soultrader-combo0
 date: '2026-04-27'
 finish: 5-0
 pilot: -Datrevdo

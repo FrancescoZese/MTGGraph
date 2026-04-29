@@ -19,13 +19,18 @@ archetypes:
     weight: 0.7692
     avg_copies: 2.9
   jeskai-control:
+<<<<<<< Updated upstream
     weight: 0.8947
     avg_copies: 3.24
+=======
+    weight: 0.8421
+    avg_copies: 3.25
+>>>>>>> Stashed changes
   esper-control:
     weight: 1.0
     avg_copies: 4.0
   grixis-control:
-    weight: 0.5
+    weight: 0.4
     avg_copies: 2.5
   goryo2:
     weight: 1.0

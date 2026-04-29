@@ -14,6 +14,9 @@ archetypes:
   jeskai-energy:
     weight: 0.0111
     avg_copies: 3.0
+  goryo:
+    weight: 0.0377
+    avg_copies: 1.5
   azorius-control:
     weight: 0.0769
     avg_copies: 1.0
@@ -45,11 +48,19 @@ archetypes:
     weight: 1.0
     avg_copies: 3.53
   izzet-prowess:
+<<<<<<< Updated upstream
     weight: 0.0526
     avg_copies: 2.0
   4c-omnath:
     weight: 0.6667
     avg_copies: 4.0
+=======
+    weight: 0.0536
+    avg_copies: 2.0
+  4c-omnath:
+    weight: 0.6667
+    avg_copies: 3.5
+>>>>>>> Stashed changes
   samwise-combo:
     weight: 0.8182
     avg_copies: 1.56
@@ -66,8 +77,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   grixis-control:
-    weight: 0.75
-    avg_copies: 1.33
+    weight: 0.8
+    avg_copies: 1.5
   mono-green-ramp:
     weight: 1.0
     avg_copies: 3.4
@@ -83,16 +94,7 @@ archetypes:
   goryo3:
     weight: 1.0
     avg_copies: 2.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 1.5
-  unknown-1:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-6:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-8:
+  izzet-murktide:
     weight: 1.0
     avg_copies: 1.0
   unknown-26:

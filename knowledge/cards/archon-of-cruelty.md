@@ -9,6 +9,9 @@ set: mh2
 type: Creature — Archon
 meta_presence: 0.034
 archetypes:
+  goryo:
+    weight: 0.0377
+    avg_copies: 3.0
   living-end:
     weight: 0.12
     avg_copies: 1.0
@@ -20,10 +23,11 @@ archetypes:
     avg_copies: 4.0
   indomitable-creativity:
     weight: 1.0
-    avg_copies: 2.29
+    avg_copies: 2.5
   goryo1:
     weight: 1.0
     avg_copies: 4.0
+<<<<<<< Updated upstream
   unknown-3:
     weight: 1.0
     avg_copies: 3.0
@@ -33,4 +37,6 @@ archetypes:
   unknown-21:
     weight: 1.0
     avg_copies: 4.0
+=======
+>>>>>>> Stashed changes
 ---

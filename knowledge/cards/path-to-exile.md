@@ -20,7 +20,7 @@ archetypes:
     avg_copies: 4.0
   boros-ponza:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.93
   samwise-combo:
     weight: 0.1818
     avg_copies: 1.5
@@ -33,7 +33,4 @@ archetypes:
   goryo6:
     weight: 1.0
     avg_copies: 4.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 2.0
 ---

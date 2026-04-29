@@ -13,7 +13,14 @@ archetypes:
     avg_copies: 1.2
   amulet-titan:
     weight: 1.0
+<<<<<<< Updated upstream
     avg_copies: 2.78
+=======
+    avg_copies: 2.8
+  goryo:
+    weight: 0.0377
+    avg_copies: 1.5
+>>>>>>> Stashed changes
   hardened-scales:
     weight: 1.0
     avg_copies: 2.33
@@ -62,6 +69,7 @@ archetypes:
   goryo4:
     weight: 0.5
     avg_copies: 1.0
+<<<<<<< Updated upstream
   unknown-3:
     weight: 1.0
     avg_copies: 1.5
@@ -74,4 +82,6 @@ archetypes:
   unknown-24:
     weight: 1.0
     avg_copies: 1.0
+=======
+>>>>>>> Stashed changes
 ---

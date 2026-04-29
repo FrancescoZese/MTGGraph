@@ -15,7 +15,11 @@ archetypes:
     weight: 0.125
     avg_copies: 2.0
   boros-ponza:
+<<<<<<< Updated upstream
     weight: 0.0323
+=======
+    weight: 0.037
+>>>>>>> Stashed changes
     avg_copies: 1.0
   eldrazi-ramp:
     weight: 0.25

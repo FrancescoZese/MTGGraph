@@ -9,7 +9,7 @@ set: fdn
 type: Creature — Phyrexian Wurm
 meta_presence: 0.0007
 archetypes:
-  unknown-3:
-    weight: 0.5
+  goryo:
+    weight: 0.0189
     avg_copies: 1.0
 ---

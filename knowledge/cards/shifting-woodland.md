@@ -11,6 +11,9 @@ archetypes:
   amulet-titan:
     weight: 1.0
     avg_copies: 1.0
+  goryo:
+    weight: 0.0377
+    avg_copies: 3.5
   eldrazi-ramp:
     weight: 0.5714
     avg_copies: 1.0
@@ -20,7 +23,4 @@ archetypes:
   scapeshift-combo:
     weight: 0.75
     avg_copies: 1.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 3.5
 ---

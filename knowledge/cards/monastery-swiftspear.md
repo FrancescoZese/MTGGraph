@@ -10,12 +10,13 @@ type: Creature — Human Monk
 meta_presence: 0.0434
 archetypes:
   burn:
-    weight: 1.0
+    weight: 0.8333
     avg_copies: 4.0
   izzet-prowess:
+<<<<<<< Updated upstream
     weight: 0.9474
+=======
+    weight: 0.9464
+>>>>>>> Stashed changes
     avg_copies: 3.98
-  unknown-18:
-    weight: 1.0
-    avg_copies: 4.0
 ---

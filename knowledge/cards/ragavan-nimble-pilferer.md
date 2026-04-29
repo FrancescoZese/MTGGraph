@@ -19,13 +19,17 @@ archetypes:
     weight: 0.9778
     avg_copies: 3.91
   burn:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 1.0
   mardu-blink:
     weight: 0.9333
     avg_copies: 3.14
   izzet-prowess:
+<<<<<<< Updated upstream
     weight: 0.0175
+=======
+    weight: 0.0179
+>>>>>>> Stashed changes
     avg_copies: 4.0
   jund-saga:
     weight: 1.0
@@ -42,10 +46,10 @@ archetypes:
   goryo1:
     weight: 0.1429
     avg_copies: 4.0
-  unknown-8:
+  izzet-murktide:
     weight: 1.0
     avg_copies: 4.0
-  unknown-20:
+  soultrader-combo0:
     weight: 1.0
     avg_copies: 4.0
   unknown-23:

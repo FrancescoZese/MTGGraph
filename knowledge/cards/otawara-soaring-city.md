@@ -39,7 +39,14 @@ archetypes:
     weight: 0.6944
     avg_copies: 1.0
   izzet-prowess:
+<<<<<<< Updated upstream
     weight: 0.0175
+=======
+    weight: 0.0179
+    avg_copies: 1.0
+  4c-omnath:
+    weight: 0.3333
+>>>>>>> Stashed changes
     avg_copies: 1.0
   bant-control:
     weight: 1.0
@@ -51,7 +58,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   grixis-control:
-    weight: 0.75
+    weight: 0.8
     avg_copies: 1.0
   izzet-splinter-twin:
     weight: 1.0
@@ -59,13 +66,7 @@ archetypes:
   esper-midrange:
     weight: 1.0
     avg_copies: 1.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-6:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-8:
+  izzet-murktide:
     weight: 1.0
     avg_copies: 1.0
   unknown-22:

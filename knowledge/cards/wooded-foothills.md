@@ -25,7 +25,7 @@ archetypes:
     avg_copies: 1.0
   burn:
     weight: 1.0
-    avg_copies: 2.4
+    avg_copies: 2.17
   hollow-one:
     weight: 0.8
     avg_copies: 2.56
@@ -39,14 +39,19 @@ archetypes:
     weight: 0.0833
     avg_copies: 3.67
   izzet-prowess:
+<<<<<<< Updated upstream
     weight: 0.8772
     avg_copies: 2.7
+=======
+    weight: 0.875
+    avg_copies: 2.67
+>>>>>>> Stashed changes
   samwise-combo:
     weight: 0.4545
     avg_copies: 1.0
   indomitable-creativity:
     weight: 1.0
-    avg_copies: 2.57
+    avg_copies: 2.75
   broodscale-combo:
     weight: 0.48
     avg_copies: 1.08
@@ -74,16 +79,7 @@ archetypes:
   selesnya-midrange:
     weight: 1.0
     avg_copies: 2.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-18:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-20:
+  soultrader-combo0:
     weight: 1.0
     avg_copies: 4.0
   unknown-21:

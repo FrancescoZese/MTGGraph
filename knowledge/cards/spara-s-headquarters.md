@@ -8,7 +8,7 @@ set: snc
 type: Land — Forest Plains Island
 meta_presence: 0.0007
 archetypes:
-  unknown-20:
+  soultrader-combo0:
     weight: 1.0
     avg_copies: 1.0
 ---

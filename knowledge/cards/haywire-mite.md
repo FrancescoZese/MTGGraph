@@ -11,6 +11,9 @@ archetypes:
   eldrazi-tron:
     weight: 0.0566
     avg_copies: 1.0
+  goryo:
+    weight: 0.0189
+    avg_copies: 1.0
   hardened-scales:
     weight: 0.6667
     avg_copies: 1.0
@@ -47,10 +50,7 @@ archetypes:
   goryo7:
     weight: 1.0
     avg_copies: 1.0
-  unknown-3:
+  soultrader-combo:
     weight: 0.5
-    avg_copies: 1.0
-  unknown-2:
-    weight: 1.0
     avg_copies: 1.0
 ---

@@ -1,5 +1,5 @@
 ---
-archetype: unknown-6
+archetype: grixis-control
 date: '2026-04-26'
 finish: 5-0
 pilot: Boulderer

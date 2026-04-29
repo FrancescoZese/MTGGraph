@@ -12,6 +12,9 @@ archetypes:
   amulet-titan:
     weight: 0.5088
     avg_copies: 1.0
+  goryo:
+    weight: 0.0189
+    avg_copies: 2.0
   living-end:
     weight: 0.04
     avg_copies: 1.0
@@ -42,13 +45,16 @@ archetypes:
   the-rock:
     weight: 0.5
     avg_copies: 1.0
-  unknown-3:
+  soultrader-combo:
     weight: 0.5
     avg_copies: 2.0
+<<<<<<< Updated upstream
   unknown-2:
     weight: 1.0
     avg_copies: 2.0
   unknown-24:
     weight: 1.0
     avg_copies: 1.0
+=======
+>>>>>>> Stashed changes
 ---

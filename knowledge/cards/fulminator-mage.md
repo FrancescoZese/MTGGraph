@@ -22,7 +22,7 @@ archetypes:
   goryo1:
     weight: 0.1429
     avg_copies: 2.0
-  unknown-2:
-    weight: 1.0
+  soultrader-combo:
+    weight: 0.5
     avg_copies: 3.0
 ---

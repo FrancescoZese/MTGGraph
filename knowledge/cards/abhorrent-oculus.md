@@ -19,7 +19,11 @@ archetypes:
     weight: 1.0
     avg_copies: 3.89
   izzet-prowess:
+<<<<<<< Updated upstream
     weight: 0.1053
+=======
+    weight: 0.1071
+>>>>>>> Stashed changes
     avg_copies: 1.5
   samwise-combo:
     weight: 0.6364

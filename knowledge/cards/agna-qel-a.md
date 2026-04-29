@@ -12,6 +12,6 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   grixis-control:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 1.0
 ---

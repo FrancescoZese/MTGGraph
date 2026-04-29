@@ -18,7 +18,7 @@ archetypes:
     weight: 0.0189
     avg_copies: 3.0
   goryo:
-    weight: 1.0
+    weight: 0.9623
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
@@ -43,7 +43,11 @@ archetypes:
     avg_copies: 2.67
   boros-ponza:
     weight: 1.0
+<<<<<<< Updated upstream
     avg_copies: 3.45
+=======
+    avg_copies: 3.26
+>>>>>>> Stashed changes
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
@@ -51,7 +55,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.75
   indomitable-creativity:
-    weight: 0.5714
+    weight: 0.5
     avg_copies: 1.0
   orzhov-blink:
     weight: 1.0
@@ -86,11 +90,9 @@ archetypes:
   goryo3:
     weight: 1.0
     avg_copies: 2.0
-  unknown-1:
+  4c-omnath9:
     weight: 1.0
-    avg_copies: 1.0
-  unknown-5:
-    weight: 1.0
+<<<<<<< Updated upstream
     avg_copies: 1.0
   unknown-19:
     weight: 1.0
@@ -104,4 +106,7 @@ archetypes:
   unknown-24:
     weight: 1.0
     avg_copies: 1.0
+=======
+    avg_copies: 1.5
+>>>>>>> Stashed changes
 ---

@@ -1,5 +1,5 @@
 ---
-archetype: unknown-7
+archetype: indomitable-creativity
 date: '2026-04-26'
 finish: 5-0
 pilot: Sebek

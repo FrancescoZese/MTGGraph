@@ -9,10 +9,14 @@ set: mm2
 type: Sorcery
 meta_presence: 0.0014
 archetypes:
+<<<<<<< Updated upstream
   domain-zoo:
     weight: 0.0222
     avg_copies: 4.0
   unknown-20:
+=======
+  soultrader-combo0:
+>>>>>>> Stashed changes
     weight: 1.0
     avg_copies: 4.0
 ---

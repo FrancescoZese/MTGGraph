@@ -12,7 +12,7 @@ archetypes:
   dimir-control:
     weight: 0.0169
     avg_copies: 4.0
-  unknown-6:
-    weight: 1.0
+  grixis-control:
+    weight: 0.2
     avg_copies: 1.0
 ---

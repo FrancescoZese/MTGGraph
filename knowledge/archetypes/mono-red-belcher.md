@@ -6,28 +6,46 @@ name: Mono Red Belcher
 meta_share: 0.0058
 list_count: 8
 top_cards:
+<<<<<<< Updated upstream
 - name: Strike It Rich
+=======
+- name: Sundering Eruption
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 4.0
 - name: Stormscale Scion
   weight: 1.0
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Pyretic Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Shatterskull Smashing
+=======
+- name: Stormscale Scion
   weight: 1.0
   avg_copies: 4.0
-- name: Sundering Eruption
+- name: Pinnacle Monk
+>>>>>>> Stashed changes
+  weight: 1.0
+  avg_copies: 4.0
+- name: Manamorphose
   weight: 1.0
   avg_copies: 4.0
 - name: Goblin Charbelcher
   weight: 1.0
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Pinnacle Monk
   weight: 1.0
   avg_copies: 4.0
 - name: Desperate Ritual
+=======
+- name: Desperate Ritual
+  weight: 1.0
+  avg_copies: 4.0
+- name: Strike It Rich
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 4.0
 - name: Manamorphose
@@ -102,13 +120,20 @@ top_cards:
 - name: March of Reckless Joy
   weight: 0.125
   avg_copies: 2.0
+<<<<<<< Updated upstream
 - name: Lantern of the Lost
   weight: 0.125
   avg_copies: 2.0
 - name: Serum Powder
+=======
+- name: Kraza, the Swarm as One
   weight: 0.125
   avg_copies: 2.0
-- name: Kraza, the Swarm as One
+- name: Lantern of the Lost
+>>>>>>> Stashed changes
+  weight: 0.125
+  avg_copies: 2.0
+- name: Serum Powder
   weight: 0.125
   avg_copies: 2.0
 - name: The Legend of Roku
@@ -117,10 +142,14 @@ top_cards:
 - name: Rush of Inspiration
   weight: 0.125
   avg_copies: 1.0
-- name: Trinisphere
+- name: The Legend of Roku
   weight: 0.125
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Redirect Lightning
+=======
+- name: Trinisphere
+>>>>>>> Stashed changes
   weight: 0.125
   avg_copies: 1.0
 ---

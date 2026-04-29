@@ -15,22 +15,34 @@ archetypes:
     weight: 0.4556
     avg_copies: 1.9
   jeskai-control:
+<<<<<<< Updated upstream
     weight: 0.0526
     avg_copies: 3.0
+=======
+    weight: 0.1053
+    avg_copies: 3.5
+>>>>>>> Stashed changes
   domain-zoo:
     weight: 0.0444
     avg_copies: 1.0
   mardu-blink:
+<<<<<<< Updated upstream
     weight: 0.8
     avg_copies: 1.83
   boros-ponza:
     weight: 0.0323
+=======
+    weight: 0.7692
+    avg_copies: 1.8
+  4c-omnath:
+    weight: 0.3333
+>>>>>>> Stashed changes
     avg_copies: 3.0
   indomitable-creativity:
     weight: 1.0
     avg_copies: 4.0
   grixis-control:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 2.0
   jund-saga:
     weight: 1.0
@@ -44,13 +56,7 @@ archetypes:
   naya-midrange:
     weight: 1.0
     avg_copies: 3.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-19:
+  4c-omnath9:
     weight: 1.0
     avg_copies: 4.0
 ---

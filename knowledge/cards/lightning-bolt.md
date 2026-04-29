@@ -32,7 +32,7 @@ archetypes:
     avg_copies: 3.0
   burn:
     weight: 1.0
-    avg_copies: 3.4
+    avg_copies: 3.5
   hollow-one:
     weight: 0.8
     avg_copies: 3.0
@@ -43,8 +43,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   indomitable-creativity:
-    weight: 0.7143
-    avg_copies: 1.4
+    weight: 0.75
+    avg_copies: 1.83
   izzet-artifacts:
     weight: 0.0769
     avg_copies: 4.0
@@ -66,22 +66,10 @@ archetypes:
   izzet-wizards:
     weight: 1.0
     avg_copies: 2.0
-  unknown-6:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-7:
+  izzet-murktide:
     weight: 1.0
     avg_copies: 4.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-18:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-20:
+  soultrader-combo0:
     weight: 1.0
     avg_copies: 4.0
   unknown-21:

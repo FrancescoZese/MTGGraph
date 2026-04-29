@@ -8,6 +8,9 @@ set: mkm
 type: Land — Swamp Forest
 meta_presence: 0.0434
 archetypes:
+  goryo:
+    weight: 0.0377
+    avg_copies: 2.0
   necrodominance:
     weight: 0.0476
     avg_copies: 1.0
@@ -41,13 +44,7 @@ archetypes:
   goryo5:
     weight: 1.0
     avg_copies: 1.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-2:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-4:
+  soultrader-combo:
     weight: 1.0
     avg_copies: 1.0
   unknown-24:

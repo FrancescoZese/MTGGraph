@@ -13,7 +13,11 @@ archetypes:
     avg_copies: 3.71
   goryo:
     weight: 1.0
+<<<<<<< Updated upstream
     avg_copies: 3.7
+=======
+    avg_copies: 3.64
+>>>>>>> Stashed changes
   necrodominance:
     weight: 0.0952
     avg_copies: 3.5
@@ -42,7 +46,11 @@ archetypes:
     weight: 0.3056
     avg_copies: 1.0
   izzet-prowess:
+<<<<<<< Updated upstream
     weight: 0.0175
+=======
+    weight: 0.0179
+>>>>>>> Stashed changes
     avg_copies: 1.0
   esper-blink:
     weight: 0.9167
@@ -52,7 +60,7 @@ archetypes:
     avg_copies: 4.0
   grixis-control:
     weight: 1.0
-    avg_copies: 1.75
+    avg_copies: 2.2
   eldrazi-breach:
     weight: 0.6667
     avg_copies: 1.0
@@ -86,16 +94,10 @@ archetypes:
   goryo3:
     weight: 1.0
     avg_copies: 1.0
-  unknown-3:
-    weight: 1.0
+  soultrader-combo:
+    weight: 0.5
     avg_copies: 2.0
-  unknown-2:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-6:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-8:
+  izzet-murktide:
     weight: 1.0
     avg_copies: 1.0
   unknown-22:

@@ -132,10 +132,10 @@ top_cards:
 - name: Temporary Lockdown
   weight: 0.2308
   avg_copies: 1.8
-- name: Stern Scolding
+- name: Ashiok, Dream Render
   weight: 0.2308
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Stern Scolding
   weight: 0.2308
   avg_copies: 1.0
 - name: Suppression Ray
@@ -147,21 +147,33 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.1538
   avg_copies: 3.0
+<<<<<<< Updated upstream
 - name: Fire Magic
   weight: 0.1538
   avg_copies: 2.0
 - name: Sink into Stupor
+=======
+- name: Tune the Narrative
   weight: 0.1538
   avg_copies: 2.0
-- name: Tune the Narrative
+- name: Fire Magic
+>>>>>>> Stashed changes
   weight: 0.1538
   avg_copies: 2.0
 - name: Windswept Heath
   weight: 0.1538
   avg_copies: 2.0
+<<<<<<< Updated upstream
+- name: Windswept Heath
+=======
+- name: Sink into Stupor
+>>>>>>> Stashed changes
+  weight: 0.1538
+  avg_copies: 2.0
 - name: March of Otherworldly Light
   weight: 0.1538
   avg_copies: 1.5
+<<<<<<< Updated upstream
 - name: Mistrise Village
   weight: 0.1538
   avg_copies: 1.0
@@ -178,12 +190,34 @@ top_cards:
   weight: 0.1538
   avg_copies: 1.0
 - name: Disruptor Flute
+=======
+- name: Gemstone Caverns
   weight: 0.1538
   avg_copies: 1.0
 - name: Hedge Maze
   weight: 0.1538
   avg_copies: 1.0
+- name: Mistrise Village
+  weight: 0.1538
+  avg_copies: 1.0
+- name: Disruptor Flute
+  weight: 0.1538
+  avg_copies: 1.0
+- name: Breeding Pool
+>>>>>>> Stashed changes
+  weight: 0.1538
+  avg_copies: 1.0
+- name: Hedge Maze
+  weight: 0.1538
+  avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Floodfarm Verge
+=======
+- name: Beza, the Bounding Spring
+  weight: 0.1538
+  avg_copies: 1.0
+- name: Flow State
+>>>>>>> Stashed changes
   weight: 0.0769
   avg_copies: 2.0
 - name: Flow State
@@ -192,6 +226,7 @@ top_cards:
 - name: Jace, the Mind Sculptor
   weight: 0.0769
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Commandeer
   weight: 0.0769
   avg_copies: 1.0
@@ -202,21 +237,44 @@ top_cards:
   weight: 0.0769
   avg_copies: 1.0
 - name: Celestial Colonnade
+=======
+- name: The Wandering Emperor
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Misty Rainforest
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Celestial Colonnade
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Tamiyo, Inquisitive Student
+>>>>>>> Stashed changes
   weight: 0.0769
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.0769
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: The Wandering Emperor
+=======
+- name: Strix Serenade
+>>>>>>> Stashed changes
   weight: 0.0769
   avg_copies: 1.0
 - name: Field of Ruin
   weight: 0.0769
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Vendilion Clique
   weight: 0.0769
   avg_copies: 1.0
 - name: Dress Down
+=======
+- name: Commandeer
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Vendilion Clique
+>>>>>>> Stashed changes
   weight: 0.0769
   avg_copies: 1.0
 - name: Wan Shi Tong, Librarian

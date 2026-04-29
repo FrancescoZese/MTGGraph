@@ -204,6 +204,7 @@ top_cards:
 - name: card:practiced-offense
   weight: 0.0038
   avg_copies: 3.0
+<<<<<<< Updated upstream
 - name: Kataki, War's Wage
   weight: 0.0038
   avg_copies: 2.0
@@ -251,6 +252,64 @@ top_cards:
   avg_copies: 1.0
 - name: The Wandering Emperor
   weight: 0.0038
+=======
+- name: Jolted Awake
+  weight: 0.0039
+  avg_copies: 2.0
+- name: Enduring Innocence
+  weight: 0.0039
+  avg_copies: 2.0
+- name: Ephemerate
+  weight: 0.0039
+  avg_copies: 2.0
+- name: The Battle of Bywater
+  weight: 0.0039
+  avg_copies: 2.0
+- name: Reprieve
+  weight: 0.0039
+  avg_copies: 2.0
+- name: Screaming Nemesis
+  weight: 0.0039
+  avg_copies: 2.0
+- name: Unlicensed Hearse
+  weight: 0.0039
+  avg_copies: 2.0
+- name: Kataki, War's Wage
+  weight: 0.0039
+  avg_copies: 2.0
+- name: Stony Silence
+  weight: 0.0039
+  avg_copies: 2.0
+- name: White Orchid Phantom
+  weight: 0.0039
+  avg_copies: 2.0
+- name: Curious Farm Animals
+  weight: 0.0039
+  avg_copies: 1.0
+- name: Tunnel Ignus
+  weight: 0.0039
+  avg_copies: 1.0
+- name: The Wandering Emperor
+  weight: 0.0039
+  avg_copies: 1.0
+- name: Duty Beyond Death
+  weight: 0.0039
+  avg_copies: 1.0
+- name: Prismatic Ending
+  weight: 0.0039
+  avg_copies: 1.0
+- name: The Ooze
+  weight: 0.0039
+  avg_copies: 1.0
+- name: Giant Killer
+  weight: 0.0039
+  avg_copies: 1.0
+- name: Drannith Magistrate
+  weight: 0.0039
+  avg_copies: 1.0
+- name: Cool but Rude
+  weight: 0.0039
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Erode
   weight: 0.0038

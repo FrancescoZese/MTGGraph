@@ -12,7 +12,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   indomitable-creativity:
-    weight: 0.1429
+    weight: 0.125
     avg_copies: 1.0
   rakdos-lantern-combo:
     weight: 1.0

@@ -24,8 +24,8 @@ archetypes:
     weight: 0.88
     avg_copies: 3.86
   burn:
-    weight: 0.6
-    avg_copies: 1.33
+    weight: 0.6667
+    avg_copies: 2.0
   mardu-blink:
     weight: 0.9333
     avg_copies: 1.86
@@ -33,11 +33,16 @@ archetypes:
     weight: 1.0
     avg_copies: 3.8
   izzet-prowess:
+<<<<<<< Updated upstream
     weight: 0.8772
     avg_copies: 2.84
+=======
+    weight: 0.875
+    avg_copies: 2.86
+>>>>>>> Stashed changes
   indomitable-creativity:
     weight: 1.0
-    avg_copies: 2.57
+    avg_copies: 2.75
   dredge:
     weight: 0.8571
     avg_copies: 3.5
@@ -62,14 +67,9 @@ archetypes:
   goryo5:
     weight: 1.0
     avg_copies: 3.0
-  unknown-2:
+  soultrader-combo:
     weight: 1.0
-    avg_copies: 2.0
-  unknown-4:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-7:
-    weight: 1.0
+<<<<<<< Updated upstream
     avg_copies: 4.0
   unknown-9:
     weight: 1.0
@@ -80,4 +80,7 @@ archetypes:
   unknown-21:
     weight: 1.0
     avg_copies: 1.0
+=======
+    avg_copies: 1.5
+>>>>>>> Stashed changes
 ---

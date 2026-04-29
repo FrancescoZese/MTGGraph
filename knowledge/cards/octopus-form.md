@@ -10,6 +10,10 @@ type: Instant — Lesson
 meta_presence: 0.0065
 archetypes:
   izzet-prowess:
+<<<<<<< Updated upstream
     weight: 0.1579
+=======
+    weight: 0.1607
+>>>>>>> Stashed changes
     avg_copies: 1.0
 ---

@@ -1,5 +1,5 @@
 ---
-archetype: unknown-3
+archetype: goryo
 date: '2026-04-26'
 finish: 10th
 pilot: ScreenwriterNY

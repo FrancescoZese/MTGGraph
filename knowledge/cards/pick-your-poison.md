@@ -16,7 +16,11 @@ archetypes:
     weight: 0.0278
     avg_copies: 1.0
   izzet-prowess:
+<<<<<<< Updated upstream
     weight: 0.2105
+=======
+    weight: 0.2143
+>>>>>>> Stashed changes
     avg_copies: 1.75
   broodscale-combo:
     weight: 0.44

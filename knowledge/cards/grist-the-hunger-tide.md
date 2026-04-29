@@ -10,6 +10,9 @@ set: dsc
 type: Legendary Planeswalker — Grist
 meta_presence: 0.0181
 archetypes:
+  goryo:
+    weight: 0.0189
+    avg_copies: 1.0
   reanimator:
     weight: 0.04
     avg_copies: 2.0
@@ -22,10 +25,7 @@ archetypes:
   the-rock:
     weight: 0.5
     avg_copies: 3.0
-  unknown-3:
+  soultrader-combo:
     weight: 0.5
-    avg_copies: 1.0
-  unknown-2:
-    weight: 1.0
     avg_copies: 1.0
 ---

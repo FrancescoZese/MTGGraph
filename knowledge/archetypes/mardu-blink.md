@@ -30,11 +30,19 @@ top_cards:
   avg_copies: 2.27
 - name: Witch Enchanter
   weight: 1.0
+<<<<<<< Updated upstream
   avg_copies: 2.07
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.05
 - name: Arena of Glory
+=======
+  avg_copies: 2.08
+- name: Arena of Glory
+  weight: 1.0
+  avg_copies: 2.0
+- name: Flickerwisp
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 2.0
 - name: Wear
@@ -48,17 +56,29 @@ top_cards:
   avg_copies: 1.33
 - name: Godless Shrine
   weight: 1.0
+<<<<<<< Updated upstream
   avg_copies: 1.07
 - name: Raucous Theater
+=======
+  avg_copies: 1.08
+- name: Blood Crypt
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Sacred Foundry
+=======
+- name: Raucous Theater
+  weight: 1.0
+  avg_copies: 1.0
+- name: Elegant Parlor
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 1.0
 - name: Galvanic Discharge
@@ -68,6 +88,7 @@ top_cards:
   weight: 0.9333
   avg_copies: 3.14
 - name: High Noon
+<<<<<<< Updated upstream
   weight: 0.9333
   avg_copies: 2.07
 - name: Bloodstained Mire
@@ -76,6 +97,16 @@ top_cards:
 - name: Detective's Phoenix
   weight: 0.9333
   avg_copies: 1.86
+=======
+  weight: 0.9231
+  avg_copies: 2.08
+- name: Detective's Phoenix
+  weight: 0.9231
+  avg_copies: 1.83
+- name: Bloodstained Mire
+  weight: 0.9231
+  avg_copies: 1.83
+>>>>>>> Stashed changes
 - name: Pinnacle Monk
   weight: 0.9333
   avg_copies: 1.36
@@ -137,14 +168,19 @@ top_cards:
   weight: 0.0667
   avg_copies: 3.0
 - name: The Legend of Roku
+<<<<<<< Updated upstream
   weight: 0.0667
   avg_copies: 2.0
 - name: Magus of the Moon
   weight: 0.0667
+=======
+  weight: 0.0769
+>>>>>>> Stashed changes
   avg_copies: 2.0
 - name: March of Otherworldly Light
   weight: 0.0667
   avg_copies: 2.0
+<<<<<<< Updated upstream
 - name: Clarion Conqueror
   weight: 0.0667
   avg_copies: 2.0
@@ -153,6 +189,22 @@ top_cards:
   avg_copies: 1.0
 - name: Nihil Spellbomb
   weight: 0.0667
+=======
+- name: Magus of the Moon
+  weight: 0.0769
+  avg_copies: 2.0
+- name: Clarion Conqueror
+  weight: 0.0769
+  avg_copies: 2.0
+- name: Nihil Spellbomb
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Emptiness
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Swamp
+  weight: 0.0769
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Pest Control
   weight: 0.0667
@@ -162,6 +214,9 @@ top_cards:
   avg_copies: 1.0
 - name: Swamp
   weight: 0.0667
+  avg_copies: 1.0
+- name: Faerie Macabre
+  weight: 0.0769
   avg_copies: 1.0
 ---
 Midrange blink deck splashing red for Phlage and Galvanic Discharge alongside Solitude and Overlord blink targets.

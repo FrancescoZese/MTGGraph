@@ -18,8 +18,13 @@ archetypes:
     weight: 0.3222
     avg_copies: 1.41
   goryo:
+<<<<<<< Updated upstream
     weight: 0.1111
     avg_copies: 1.83
+=======
+    weight: 0.1509
+    avg_copies: 1.88
+>>>>>>> Stashed changes
   hardened-scales:
     weight: 1.0
     avg_copies: 3.0
@@ -30,8 +35,13 @@ archetypes:
     weight: 0.56
     avg_copies: 1.07
   jeskai-control:
+<<<<<<< Updated upstream
     weight: 0.2632
     avg_copies: 2.0
+=======
+    weight: 0.2105
+    avg_copies: 2.25
+>>>>>>> Stashed changes
   affinity:
     weight: 0.9852
     avg_copies: 2.53
@@ -42,7 +52,7 @@ archetypes:
     weight: 0.72
     avg_copies: 1.94
   burn:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 2.0
   mardu-blink:
     weight: 0.8667
@@ -113,6 +123,7 @@ archetypes:
   goryo7:
     weight: 1.0
     avg_copies: 2.0
+<<<<<<< Updated upstream
   unknown-3:
     weight: 1.0
     avg_copies: 2.0
@@ -125,4 +136,6 @@ archetypes:
   unknown-24:
     weight: 1.0
     avg_copies: 3.0
+=======
+>>>>>>> Stashed changes
 ---

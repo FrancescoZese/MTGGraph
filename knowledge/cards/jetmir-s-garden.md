@@ -9,7 +9,7 @@ type: Land — Mountain Forest Plains
 meta_presence: 0.0043
 archetypes:
   indomitable-creativity:
-    weight: 0.7143
+    weight: 0.625
     avg_copies: 1.0
   scapeshift-combo:
     weight: 0.25

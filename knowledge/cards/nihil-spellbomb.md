@@ -15,8 +15,13 @@ archetypes:
     weight: 0.0111
     avg_copies: 1.0
   goryo:
+<<<<<<< Updated upstream
     weight: 0.1481
     avg_copies: 1.22
+=======
+    weight: 0.1321
+    avg_copies: 1.25
+>>>>>>> Stashed changes
   domain-zoo:
     weight: 0.5778
     avg_copies: 1.19
@@ -26,6 +31,9 @@ archetypes:
   reanimator:
     weight: 0.2
     avg_copies: 1.0
+  burn:
+    weight: 0.1667
+    avg_copies: 2.0
   mardu-blink:
     weight: 0.0667
     avg_copies: 1.0
@@ -47,13 +55,10 @@ archetypes:
   goryo1:
     weight: 0.5714
     avg_copies: 1.0
-  unknown-4:
-    weight: 1.0
+  soultrader-combo:
+    weight: 0.5
     avg_copies: 1.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-20:
+  soultrader-combo0:
     weight: 1.0
     avg_copies: 1.0
   unknown-22:

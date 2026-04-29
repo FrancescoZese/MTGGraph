@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0338
     avg_copies: 2.11
   burn:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 1.0
   jund-saga:
     weight: 1.0

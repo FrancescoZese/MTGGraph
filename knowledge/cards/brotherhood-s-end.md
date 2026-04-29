@@ -19,21 +19,25 @@ archetypes:
     weight: 1.0
     avg_copies: 2.62
   boros-ponza:
+<<<<<<< Updated upstream
     weight: 0.0645
+=======
+    weight: 0.0741
+>>>>>>> Stashed changes
     avg_copies: 1.0
   4c-omnath:
     weight: 0.3333
     avg_copies: 2.0
   indomitable-creativity:
-    weight: 1.0
+    weight: 0.875
     avg_copies: 2.71
   grixis-control:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
-  unknown-8:
+  izzet-murktide:
     weight: 1.0
     avg_copies: 2.0
   unknown-21:

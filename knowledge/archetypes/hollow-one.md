@@ -6,16 +6,23 @@ name: Hollow One
 meta_share: 0.0145
 list_count: 20
 top_cards:
+<<<<<<< Updated upstream
 - name: Burning Inquiry
   weight: 1.0
   avg_copies: 4.0
 - name: Faithless Looting
+=======
+- name: Hollow One
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Hollow One
+  weight: 1.0
+  avg_copies: 4.0
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Detective's Phoenix
@@ -117,10 +124,10 @@ top_cards:
 - name: Murderous Cut
   weight: 0.2
   avg_copies: 1.0
-- name: Vengevine
+- name: Blazing Rootwalla
   weight: 0.15
   avg_copies: 4.0
-- name: Blazing Rootwalla
+- name: Vengevine
   weight: 0.15
   avg_copies: 4.0
 - name: Tarfire
@@ -138,10 +145,10 @@ top_cards:
 - name: Leyline of the Void
   weight: 0.1
   avg_copies: 3.5
-- name: Sheoldred's Edict
+- name: Goblin Lore
   weight: 0.1
   avg_copies: 2.0
-- name: Goblin Lore
+- name: Sheoldred's Edict
   weight: 0.1
   avg_copies: 2.0
 - name: Ox of Agonas
@@ -151,17 +158,21 @@ top_cards:
   weight: 0.1
   avg_copies: 1.5
 - name: Blackcleave Cliffs
+<<<<<<< Updated upstream
   weight: 0.1
   avg_copies: 1.0
 - name: Commercial District
+=======
+>>>>>>> Stashed changes
   weight: 0.1
   avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.1
   avg_copies: 1.0
-- name: Violent Urge
+- name: Commercial District
   weight: 0.1
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Magus of the Moon
   weight: 0.05
   avg_copies: 2.0
@@ -181,11 +192,36 @@ top_cards:
   weight: 0.05
   avg_copies: 2.0
 - name: Magebane Lizard
+=======
+- name: Violent Urge
+  weight: 0.1
+  avg_copies: 1.0
+- name: Flameblade Adept
+  weight: 0.05
+  avg_copies: 2.0
+- name: Ancient Grudge
+  weight: 0.05
+  avg_copies: 2.0
+- name: Rough
+  weight: 0.05
+  avg_copies: 2.0
+- name: Cam and Farrik, Havoc Duo
+  weight: 0.05
+  avg_copies: 2.0
+- name: Magebane Lizard
+  weight: 0.05
+  avg_copies: 2.0
+- name: Magus of the Moon
+  weight: 0.05
+  avg_copies: 2.0
+- name: Pyroclasm
+>>>>>>> Stashed changes
   weight: 0.05
   avg_copies: 2.0
 - name: Overlord of the Balemurk
   weight: 0.05
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Liliana of the Veil
   weight: 0.05
   avg_copies: 1.0
@@ -196,6 +232,18 @@ top_cards:
   weight: 0.05
   avg_copies: 1.0
 - name: Shattering Spree
+=======
+- name: Barbarian Ring
+  weight: 0.05
+  avg_copies: 1.0
+- name: Overlord of the Balemurk
+  weight: 0.05
+  avg_copies: 1.0
+- name: Shattering Spree
+  weight: 0.05
+  avg_copies: 1.0
+- name: Liliana of the Veil
+>>>>>>> Stashed changes
   weight: 0.05
   avg_copies: 1.0
 ---

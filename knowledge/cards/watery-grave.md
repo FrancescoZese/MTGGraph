@@ -12,7 +12,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.68
   goryo:
-    weight: 1.0
+    weight: 0.9623
     avg_copies: 1.0
   necrodominance:
     weight: 0.0952
@@ -44,6 +44,9 @@ archetypes:
   esper-control:
     weight: 1.0
     avg_copies: 2.0
+  grixis-control:
+    weight: 0.2
+    avg_copies: 2.0
   grixis-shadow:
     weight: 1.0
     avg_copies: 2.0
@@ -56,6 +59,7 @@ archetypes:
   goryo2:
     weight: 1.0
     avg_copies: 1.0
+<<<<<<< Updated upstream
   unknown-6:
     weight: 1.0
     avg_copies: 2.0
@@ -65,4 +69,6 @@ archetypes:
   unknown-26:
     weight: 1.0
     avg_copies: 3.0
+=======
+>>>>>>> Stashed changes
 ---

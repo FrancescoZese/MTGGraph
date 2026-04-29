@@ -13,19 +13,27 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   goryo:
+<<<<<<< Updated upstream
     weight: 0.0741
+=======
+    weight: 0.0566
+>>>>>>> Stashed changes
     avg_copies: 1.0
   mardu-blink:
     weight: 0.1333
     avg_copies: 1.0
   4c-omnath:
+<<<<<<< Updated upstream
     weight: 0.6667
+=======
+    weight: 0.3333
+>>>>>>> Stashed changes
     avg_copies: 1.0
   esper-blink:
     weight: 0.0833
     avg_copies: 1.0
   indomitable-creativity:
-    weight: 0.1429
+    weight: 0.125
     avg_copies: 1.0
   bant-control:
     weight: 1.0

@@ -11,7 +11,11 @@ type: Legendary Creature — God
 meta_presence: 0.0145
 archetypes:
   goryo:
+<<<<<<< Updated upstream
     weight: 0.0556
+=======
+    weight: 0.0566
+>>>>>>> Stashed changes
     avg_copies: 1.33
   mardu-blink:
     weight: 0.8667

@@ -23,15 +23,27 @@ archetypes:
     avg_copies: 4.0
   jeskai-control:
     weight: 0.8947
+<<<<<<< Updated upstream
     avg_copies: 3.53
+=======
+    avg_copies: 3.58
+>>>>>>> Stashed changes
   mono-red-belcher:
     weight: 0.5
     avg_copies: 3.2
   boros-ponza:
+<<<<<<< Updated upstream
     weight: 0.8065
     avg_copies: 1.65
+=======
+    weight: 0.8519
+    avg_copies: 1.56
+  4c-omnath:
+    weight: 0.3333
+    avg_copies: 4.0
+>>>>>>> Stashed changes
   indomitable-creativity:
-    weight: 0.2857
+    weight: 0.25
     avg_copies: 3.0
   scapeshift-combo:
     weight: 0.25
@@ -39,10 +51,7 @@ archetypes:
   goryo0:
     weight: 1.0
     avg_copies: 3.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-19:
+  4c-omnath9:
     weight: 1.0
     avg_copies: 4.0
   unknown-24:

@@ -9,7 +9,7 @@ set: mid
 type: Instant
 meta_presence: 0.0007
 archetypes:
-  unknown-7:
-    weight: 1.0
+  indomitable-creativity:
+    weight: 0.125
     avg_copies: 1.0
 ---

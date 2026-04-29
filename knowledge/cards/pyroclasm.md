@@ -16,7 +16,7 @@ archetypes:
     weight: 0.84
     avg_copies: 1.86
   burn:
-    weight: 0.4
+    weight: 0.3333
     avg_copies: 3.0
   hollow-one:
     weight: 0.05
@@ -25,7 +25,11 @@ archetypes:
     weight: 0.0278
     avg_copies: 3.0
   izzet-prowess:
+<<<<<<< Updated upstream
     weight: 0.0702
+=======
+    weight: 0.0714
+>>>>>>> Stashed changes
     avg_copies: 1.75
   broodscale-combo:
     weight: 0.04

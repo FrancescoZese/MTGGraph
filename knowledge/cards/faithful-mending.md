@@ -11,8 +11,13 @@ type: Instant
 meta_presence: 0.0398
 archetypes:
   goryo:
+<<<<<<< Updated upstream
     weight: 1.0
     avg_copies: 2.93
+=======
+    weight: 0.9623
+    avg_copies: 2.92
+>>>>>>> Stashed changes
   reanimator:
     weight: 0.04
     avg_copies: 4.0

@@ -15,8 +15,13 @@ archetypes:
     weight: 0.7736
     avg_copies: 1.0
   goryo:
+<<<<<<< Updated upstream
     weight: 0.9259
     avg_copies: 1.0
+=======
+    weight: 0.9245
+    avg_copies: 1.06
+>>>>>>> Stashed changes
   necrodominance:
     weight: 1.0
     avg_copies: 10.05
@@ -44,8 +49,14 @@ archetypes:
   samwise-combo:
     weight: 0.0909
     avg_copies: 1.0
+  indomitable-creativity:
+    weight: 0.125
+    avg_copies: 1.0
   orzhov-blink:
     weight: 1.0
+    avg_copies: 1.0
+  grixis-control:
+    weight: 0.2
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
@@ -77,9 +88,10 @@ archetypes:
   goryo2:
     weight: 1.0
     avg_copies: 1.0
-  unknown-3:
+  soultrader-combo:
     weight: 1.0
     avg_copies: 2.5
+<<<<<<< Updated upstream
   unknown-2:
     weight: 1.0
     avg_copies: 4.0
@@ -101,4 +113,6 @@ archetypes:
   unknown-26:
     weight: 1.0
     avg_copies: 1.0
+=======
+>>>>>>> Stashed changes
 ---

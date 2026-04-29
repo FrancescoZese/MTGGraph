@@ -10,6 +10,6 @@ type: Creature — Elephant
 meta_presence: 0.0014
 archetypes:
   indomitable-creativity:
-    weight: 0.2857
+    weight: 0.25
     avg_copies: 3.0
 ---

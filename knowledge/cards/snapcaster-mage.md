@@ -17,7 +17,7 @@ archetypes:
     avg_copies: 3.0
   grixis-control:
     weight: 1.0
-    avg_copies: 3.75
+    avg_copies: 3.8
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 2.0
@@ -27,6 +27,7 @@ archetypes:
   goryo3:
     weight: 1.0
     avg_copies: 2.0
+<<<<<<< Updated upstream
   unknown-6:
     weight: 1.0
     avg_copies: 4.0
@@ -35,5 +36,9 @@ archetypes:
     avg_copies: 2.0
   unknown-25:
     weight: 1.0
+=======
+  4c-omnath9:
+    weight: 0.5
+>>>>>>> Stashed changes
     avg_copies: 2.0
 ---

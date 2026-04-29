@@ -9,6 +9,9 @@ set: ecc
 type: Sorcery
 meta_presence: 0.0282
 archetypes:
+  goryo:
+    weight: 0.0377
+    avg_copies: 1.0
   domain-zoo:
     weight: 0.0222
     avg_copies: 4.0
@@ -16,11 +19,12 @@ archetypes:
     weight: 1.0
     avg_copies: 3.96
   indomitable-creativity:
-    weight: 0.2857
+    weight: 0.375
     avg_copies: 4.0
   goryo1:
     weight: 1.0
     avg_copies: 4.0
+<<<<<<< Updated upstream
   unknown-3:
     weight: 1.0
     avg_copies: 1.0
@@ -30,4 +34,6 @@ archetypes:
   unknown-21:
     weight: 1.0
     avg_copies: 3.0
+=======
+>>>>>>> Stashed changes
 ---

@@ -1,5 +1,5 @@
 ---
-archetype: unknown-19
+archetype: 4c-omnath9
 date: '2026-04-27'
 finish: 5-0
 pilot: Valident

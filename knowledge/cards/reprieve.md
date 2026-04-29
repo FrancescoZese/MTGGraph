@@ -19,10 +19,15 @@ archetypes:
     weight: 0.0526
     avg_copies: 2.0
   boros-ponza:
+<<<<<<< Updated upstream
     weight: 0.1935
     avg_copies: 3.17
+=======
+    weight: 0.1852
+    avg_copies: 3.2
+>>>>>>> Stashed changes
   indomitable-creativity:
-    weight: 0.7143
+    weight: 0.625
     avg_copies: 2.6
   naya-midrange:
     weight: 1.0

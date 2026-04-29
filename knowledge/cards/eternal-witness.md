@@ -12,8 +12,8 @@ archetypes:
   jeskai-energy:
     weight: 0.0111
     avg_copies: 2.0
-  unknown-1:
-    weight: 1.0
+  4c-omnath:
+    weight: 0.3333
     avg_copies: 2.0
   unknown-24:
     weight: 1.0

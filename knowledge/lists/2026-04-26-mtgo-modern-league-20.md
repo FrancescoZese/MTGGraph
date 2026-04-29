@@ -1,5 +1,5 @@
 ---
-archetype: unknown-5
+archetype: boros-ponza
 date: '2026-04-26'
 finish: 5-0
 pilot: chase00111

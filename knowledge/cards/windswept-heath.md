@@ -31,7 +31,7 @@ archetypes:
     avg_copies: 1.19
   4c-omnath:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 3.33
   esper-blink:
     weight: 0.0833
     avg_copies: 1.0
@@ -68,6 +68,7 @@ archetypes:
   selesnya-midrange:
     weight: 1.0
     avg_copies: 4.0
+<<<<<<< Updated upstream
   unknown-1:
     weight: 1.0
     avg_copies: 4.0
@@ -77,4 +78,6 @@ archetypes:
   unknown-24:
     weight: 1.0
     avg_copies: 4.0
+=======
+>>>>>>> Stashed changes
 ---

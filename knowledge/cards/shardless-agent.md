@@ -17,6 +17,10 @@ archetypes:
     weight: 0.9722
     avg_copies: 3.46
   4c-omnath:
+<<<<<<< Updated upstream
     weight: 0.6667
+=======
+    weight: 0.3333
+>>>>>>> Stashed changes
     avg_copies: 4.0
 ---

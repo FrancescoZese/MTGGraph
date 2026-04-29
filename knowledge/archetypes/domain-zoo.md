@@ -9,7 +9,11 @@ name: Domain Zoo
 meta_share: 0.0326
 list_count: 45
 top_cards:
+<<<<<<< Updated upstream
 - name: Scion of Draco
+=======
+- name: Leyline of the Guildpact
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 4.0
 - name: Territorial Kavu
@@ -64,6 +68,7 @@ top_cards:
   weight: 0.9778
   avg_copies: 2.16
 - name: Arena of Glory
+<<<<<<< Updated upstream
   weight: 0.9778
   avg_copies: 1.89
 - name: Godless Shrine
@@ -80,6 +85,15 @@ top_cards:
   avg_copies: 1.0
 - name: Thundering Falls
   weight: 0.9333
+=======
+  weight: 0.975
+  avg_copies: 1.92
+- name: Thundering Falls
+  weight: 0.925
+  avg_copies: 1.0
+- name: Mountain
+  weight: 0.925
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.8444
@@ -132,15 +146,21 @@ top_cards:
 - name: Blood Crypt
   weight: 0.0667
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Orcish Bowmasters
   weight: 0.0444
   avg_copies: 2.0
 - name: Fable of the Mirror-Breaker
   weight: 0.0444
+=======
+- name: Sacred Foundry
+  weight: 0.05
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Does Machines
   weight: 0.0444
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Sacred Foundry
   weight: 0.0444
   avg_copies: 1.0
@@ -149,6 +169,13 @@ top_cards:
   avg_copies: 4.0
 - name: Archon of Cruelty
   weight: 0.0222
+=======
+- name: Fable of the Mirror-Breaker
+  weight: 0.05
+  avg_copies: 1.0
+- name: Psychic Frog
+  weight: 0.025
+>>>>>>> Stashed changes
   avg_copies: 4.0
 - name: Faithless Looting
   weight: 0.0222
@@ -159,8 +186,16 @@ top_cards:
 - name: Aurora Awakener
   weight: 0.0222
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Psychic Frog
   weight: 0.0222
+=======
+- name: Archon of Cruelty
+  weight: 0.025
+  avg_copies: 4.0
+- name: Faithless Looting
+  weight: 0.025
+>>>>>>> Stashed changes
   avg_copies: 4.0
 - name: Summoning Trap
   weight: 0.0222
@@ -171,12 +206,24 @@ top_cards:
 - name: Mana Tithe
   weight: 0.0222
   avg_copies: 2.0
+<<<<<<< Updated upstream
 - name: Meltdown
   weight: 0.0222
+=======
+- name: Blood Crypt
+  weight: 0.025
+  avg_copies: 1.0
+- name: Orcish Bowmasters
+  weight: 0.025
+  avg_copies: 1.0
+- name: Breeding Pool
+  weight: 0.025
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Vexing Bauble
   weight: 0.0222
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Raucous Theater
   weight: 0.0222
   avg_copies: 1.0
@@ -191,6 +238,22 @@ top_cards:
   avg_copies: 1.0
 - name: Quantum Riddler
   weight: 0.0222
+=======
+- name: Vexing Bauble
+  weight: 0.025
+  avg_copies: 1.0
+- name: Raucous Theater
+  weight: 0.025
+  avg_copies: 1.0
+- name: Glasspool Mimic
+  weight: 0.025
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 0.025
+  avg_copies: 1.0
+- name: Prismatic Ending
+  weight: 0.025
+>>>>>>> Stashed changes
   avg_copies: 1.0
 ---
 Five-color aggro deck using Leyline of the Guildpact to power up domain cards like Scion of Draco and Leyline Binding while deploying efficient threats.

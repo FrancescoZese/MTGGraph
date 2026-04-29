@@ -10,7 +10,7 @@ set: dis
 type: Enchantment
 meta_presence: 0.0007
 archetypes:
-  unknown-9:
-    weight: 1.0
+  burn:
+    weight: 0.1667
     avg_copies: 1.0
 ---

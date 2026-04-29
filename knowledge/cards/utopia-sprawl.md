@@ -9,10 +9,10 @@ set: rvr
 type: Enchantment — Aura
 meta_presence: 0.021
 archetypes:
+  goryo:
+    weight: 0.0189
+    avg_copies: 4.0
   eldrazi-ramp:
     weight: 1.0
     avg_copies: 3.89
-  unknown-3:
-    weight: 0.5
-    avg_copies: 4.0
 ---

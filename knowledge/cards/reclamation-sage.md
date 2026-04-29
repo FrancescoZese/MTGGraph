@@ -9,7 +9,7 @@ set: fdn
 type: Creature — Elf Shaman
 meta_presence: 0.0007
 archetypes:
-  unknown-2:
-    weight: 1.0
+  soultrader-combo:
+    weight: 0.5
     avg_copies: 1.0
 ---

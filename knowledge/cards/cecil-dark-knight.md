@@ -8,7 +8,7 @@ set: fin
 type: Legendary Creature — Human Knight // Legendary Creature — Human Knight
 meta_presence: 0.0007
 archetypes:
-  unknown-20:
+  soultrader-combo0:
     weight: 1.0
     avg_copies: 3.0
 ---

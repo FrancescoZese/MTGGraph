@@ -12,10 +12,10 @@ archetypes:
   amulet-titan:
     weight: 0.4386
     avg_copies: 2.36
-  grixis-control:
-    weight: 0.25
+  indomitable-creativity:
+    weight: 0.125
     avg_copies: 1.0
-  unknown-7:
-    weight: 1.0
+  grixis-control:
+    weight: 0.2
     avg_copies: 1.0
 ---

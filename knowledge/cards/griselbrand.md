@@ -11,11 +11,12 @@ meta_presence: 0.0601
 archetypes:
   goryo:
     weight: 1.0
+<<<<<<< Updated upstream
     avg_copies: 1.19
+=======
+    avg_copies: 1.17
+>>>>>>> Stashed changes
   neoform-combo:
     weight: 0.9643
-    avg_copies: 1.0
-  unknown-3:
-    weight: 1.0
     avg_copies: 1.0
 ---

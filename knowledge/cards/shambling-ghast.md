@@ -9,7 +9,7 @@ set: afr
 type: Creature — Zombie
 meta_presence: 0.0014
 archetypes:
-  unknown-4:
-    weight: 1.0
+  soultrader-combo:
+    weight: 0.5
     avg_copies: 4.0
 ---

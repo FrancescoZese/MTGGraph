@@ -1,5 +1,5 @@
 ---
-archetype: unknown-2
+archetype: soultrader-combo
 date: '2026-04-26'
 finish: 9th
 pilot: Sam_Lewin

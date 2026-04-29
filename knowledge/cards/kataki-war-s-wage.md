@@ -16,9 +16,14 @@ archetypes:
     weight: 0.0444
     avg_copies: 1.0
   boros-ponza:
+<<<<<<< Updated upstream
     weight: 0.8065
     avg_copies: 1.88
   unknown-24:
     weight: 1.0
     avg_copies: 1.0
+=======
+    weight: 0.8148
+    avg_copies: 1.86
+>>>>>>> Stashed changes
 ---

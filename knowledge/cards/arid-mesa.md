@@ -22,13 +22,17 @@ archetypes:
     avg_copies: 1.82
   jeskai-control:
     weight: 1.0
+<<<<<<< Updated upstream
     avg_copies: 3.53
+=======
+    avg_copies: 3.58
+>>>>>>> Stashed changes
   domain-zoo:
     weight: 1.0
     avg_copies: 3.87
   burn:
-    weight: 0.6
-    avg_copies: 2.33
+    weight: 0.6667
+    avg_copies: 2.75
   mardu-blink:
     weight: 1.0
     avg_copies: 2.93
@@ -39,13 +43,20 @@ archetypes:
     weight: 0.6
     avg_copies: 1.83
   boros-ponza:
+<<<<<<< Updated upstream
     weight: 0.0645
     avg_copies: 4.0
   izzet-prowess:
     weight: 0.7193
+=======
+    weight: 0.0741
+    avg_copies: 4.0
+  izzet-prowess:
+    weight: 0.7321
+>>>>>>> Stashed changes
     avg_copies: 2.61
   indomitable-creativity:
-    weight: 1.0
+    weight: 0.875
     avg_copies: 3.57
   orzhov-blink:
     weight: 1.0
@@ -71,16 +82,17 @@ archetypes:
   selesnya-midrange:
     weight: 1.0
     avg_copies: 2.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-18:
+  4c-omnath9:
     weight: 1.0
     avg_copies: 3.0
+<<<<<<< Updated upstream
   unknown-19:
     weight: 1.0
     avg_copies: 3.5
   unknown-20:
+=======
+  soultrader-combo0:
+>>>>>>> Stashed changes
     weight: 1.0
     avg_copies: 4.0
   unknown-25:

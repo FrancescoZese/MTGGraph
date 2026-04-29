@@ -22,13 +22,21 @@ archetypes:
     weight: 0.9333
     avg_copies: 4.0
   boros-ponza:
+<<<<<<< Updated upstream
     weight: 0.8387
     avg_copies: 3.73
+=======
+    weight: 0.9259
+    avg_copies: 3.76
+  4c-omnath:
+    weight: 0.3333
+    avg_copies: 2.0
+>>>>>>> Stashed changes
   indomitable-creativity:
-    weight: 0.7143
+    weight: 0.625
     avg_copies: 3.8
   grixis-control:
-    weight: 1.0
+    weight: 0.8
     avg_copies: 4.0
   naya-midrange:
     weight: 1.0
@@ -36,13 +44,7 @@ archetypes:
   selesnya-midrange:
     weight: 1.0
     avg_copies: 3.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-19:
+  4c-omnath9:
     weight: 1.0
     avg_copies: 4.0
   unknown-25:

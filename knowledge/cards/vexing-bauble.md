@@ -18,8 +18,16 @@ archetypes:
     weight: 0.6226
     avg_copies: 1.09
   amulet-titan:
+<<<<<<< Updated upstream
     weight: 0.614
     avg_copies: 1.21
+=======
+    weight: 0.6
+    avg_copies: 1.22
+  goryo:
+    weight: 0.0189
+    avg_copies: 2.0
+>>>>>>> Stashed changes
   hardened-scales:
     weight: 0.6667
     avg_copies: 1.0
@@ -42,8 +50,13 @@ archetypes:
     weight: 0.85
     avg_copies: 2.24
   boros-ponza:
+<<<<<<< Updated upstream
     weight: 0.9355
     avg_copies: 2.07
+=======
+    weight: 0.9259
+    avg_copies: 2.08
+>>>>>>> Stashed changes
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
@@ -54,7 +67,11 @@ archetypes:
     weight: 0.9286
     avg_copies: 1.63
   izzet-prowess:
+<<<<<<< Updated upstream
     weight: 0.0877
+=======
+    weight: 0.0893
+>>>>>>> Stashed changes
     avg_copies: 2.0
   samwise-combo:
     weight: 0.6364
@@ -104,9 +121,10 @@ archetypes:
   goryo4:
     weight: 0.5
     avg_copies: 3.0
-  unknown-3:
+  soultrader-combo:
     weight: 0.5
     avg_copies: 2.0
+<<<<<<< Updated upstream
   unknown-4:
     weight: 1.0
     avg_copies: 2.0
@@ -116,4 +134,6 @@ archetypes:
   unknown-21:
     weight: 1.0
     avg_copies: 4.0
+=======
+>>>>>>> Stashed changes
 ---

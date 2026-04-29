@@ -10,9 +10,16 @@ type: Creature — Dragon
 meta_presence: 0.0029
 archetypes:
   boros-ponza:
+<<<<<<< Updated upstream
     weight: 0.0645
     avg_copies: 4.0
   4c-omnath:
     weight: 0.6667
+=======
+    weight: 0.0741
+    avg_copies: 4.0
+  4c-omnath:
+    weight: 0.3333
+>>>>>>> Stashed changes
     avg_copies: 4.0
 ---

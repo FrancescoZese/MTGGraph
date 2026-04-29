@@ -1,9 +1,7 @@
 ---
-colors:
-- W
-- U
-- R
+colors: []
 name: 'Unknown #19'
+<<<<<<< Updated upstream
 meta_share: 0.0029
 list_count: 4
 top_cards:
@@ -121,5 +119,10 @@ top_cards:
 - name: Sevinne's Reclamation
   weight: 0.25
   avg_copies: 1.0
+=======
+meta_share: 0
+list_count: 0
+top_cards: []
+>>>>>>> Stashed changes
 ---
 Unclassified archetype, pending review.

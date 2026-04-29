@@ -13,9 +13,12 @@ archetypes:
   jeskai-energy:
     weight: 0.0111
     avg_copies: 3.0
+  4c-omnath:
+    weight: 0.3333
+    avg_copies: 3.0
   indomitable-creativity:
     weight: 1.0
-    avg_copies: 3.43
+    avg_copies: 3.5
   jund-saga:
     weight: 1.0
     avg_copies: 3.0
@@ -23,12 +26,6 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   naya-midrange:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-7:
     weight: 1.0
     avg_copies: 4.0
 ---

@@ -1,5 +1,5 @@
 ---
-archetype: unknown-4
+archetype: soultrader-combo
 date: '2026-04-26'
 finish: 5-0
 pilot: RiceTackler

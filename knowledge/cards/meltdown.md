@@ -31,13 +31,17 @@ archetypes:
     weight: 0.84
     avg_copies: 2.1
   burn:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 2.0
   hollow-one:
     weight: 1.0
     avg_copies: 2.2
   boros-ponza:
+<<<<<<< Updated upstream
     weight: 0.0968
+=======
+    weight: 0.1481
+>>>>>>> Stashed changes
     avg_copies: 1.0
   eldrazi-ramp:
     weight: 0.2857
@@ -46,8 +50,15 @@ archetypes:
     weight: 0.0556
     avg_copies: 3.0
   izzet-prowess:
+<<<<<<< Updated upstream
     weight: 0.8772
+=======
+    weight: 0.8929
+>>>>>>> Stashed changes
     avg_copies: 1.8
+  indomitable-creativity:
+    weight: 0.125
+    avg_copies: 1.0
   dredge:
     weight: 0.2857
     avg_copies: 2.5
@@ -56,7 +67,7 @@ archetypes:
     avg_copies: 1.0
   grixis-control:
     weight: 1.0
-    avg_copies: 1.75
+    avg_copies: 1.8
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
@@ -74,6 +85,7 @@ archetypes:
     avg_copies: 2.0
   goryo1:
     weight: 1.0
+<<<<<<< Updated upstream
     avg_copies: 2.14
   unknown-5:
     weight: 1.0
@@ -88,6 +100,10 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-20:
+=======
+    avg_copies: 2.17
+  soultrader-combo0:
+>>>>>>> Stashed changes
     weight: 1.0
     avg_copies: 3.0
 ---

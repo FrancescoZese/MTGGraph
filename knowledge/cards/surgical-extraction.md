@@ -13,8 +13,13 @@ archetypes:
     weight: 0.7889
     avg_copies: 1.07
   goryo:
+<<<<<<< Updated upstream
     weight: 0.6481
     avg_copies: 1.14
+=======
+    weight: 0.6604
+    avg_copies: 1.17
+>>>>>>> Stashed changes
   necrodominance:
     weight: 0.7143
     avg_copies: 1.53
@@ -34,7 +39,7 @@ archetypes:
     weight: 0.24
     avg_copies: 1.33
   burn:
-    weight: 0.4
+    weight: 0.3333
     avg_copies: 2.0
   mardu-blink:
     weight: 1.0
@@ -46,14 +51,24 @@ archetypes:
     weight: 0.65
     avg_copies: 1.77
   boros-ponza:
+<<<<<<< Updated upstream
     weight: 0.1613
     avg_copies: 1.0
+=======
+    weight: 0.1481
+    avg_copies: 1.4
+>>>>>>> Stashed changes
   eldrazi-ramp:
     weight: 0.1071
     avg_copies: 1.67
   izzet-prowess:
+<<<<<<< Updated upstream
     weight: 0.8772
     avg_copies: 1.63
+=======
+    weight: 0.875
+    avg_copies: 1.62
+>>>>>>> Stashed changes
   esper-blink:
     weight: 0.25
     avg_copies: 1.0
@@ -61,8 +76,8 @@ archetypes:
     weight: 0.2727
     avg_copies: 1.0
   indomitable-creativity:
-    weight: 0.4286
-    avg_copies: 1.67
+    weight: 0.5
+    avg_copies: 1.5
   orzhov-blink:
     weight: 0.5
     avg_copies: 1.0
@@ -70,7 +85,7 @@ archetypes:
     weight: 0.5714
     avg_copies: 2.0
   grixis-control:
-    weight: 0.5
+    weight: 0.4
     avg_copies: 1.5
   rakdos-aggro:
     weight: 0.1667
@@ -87,19 +102,7 @@ archetypes:
   goryo5:
     weight: 1.0
     avg_copies: 2.0
-  unknown-3:
-    weight: 0.5
-    avg_copies: 2.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-18:
+  izzet-murktide:
     weight: 1.0
     avg_copies: 2.0
   unknown-22:

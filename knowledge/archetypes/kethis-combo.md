@@ -8,6 +8,7 @@ name: Kethis Combo
 meta_share: 0.0036
 list_count: 5
 top_cards:
+<<<<<<< Updated upstream
 - name: Emry, Lurker of the Loch
   weight: 1.0
   avg_copies: 4.0
@@ -15,27 +16,43 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Kethis, the Hidden Hand
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mox Opal
+=======
+- name: Kethis, the Hidden Hand
   weight: 1.0
   avg_copies: 4.0
 - name: Plaza of Heroes
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 4.0
-- name: Mox Amber
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
+<<<<<<< Updated upstream
+- name: Mox Amber
+  weight: 1.0
+  avg_copies: 4.0
+- name: Tamiyo, Inquisitive Student
+=======
+- name: Emry, Lurker of the Loch
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mox Amber
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mox Opal
+>>>>>>> Stashed changes
+  weight: 1.0
+  avg_copies: 4.0
 - name: Misty Rainforest
   weight: 1.0
   avg_copies: 3.2
-- name: Grinding Station
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 3.0
-- name: Urza's Saga
+- name: Grinding Station
   weight: 1.0
   avg_copies: 3.0
 - name: Malevolent Rumble
@@ -59,12 +76,17 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 1.5
+<<<<<<< Updated upstream
 - name: Otawara, Soaring City
+=======
+- name: Breeding Pool
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 1.0
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
@@ -78,11 +100,27 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Island
+=======
+- name: Sewer-veillance Cam
   weight: 1.0
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Gemstone Caverns
   weight: 1.0
   avg_copies: 1.0
+- name: Temple Garden
+  weight: 1.0
+  avg_copies: 1.0
+- name: Island
+  weight: 1.0
+  avg_copies: 1.0
+- name: Boseiju, Who Endures
+>>>>>>> Stashed changes
+  weight: 1.0
+  avg_copies: 1.0
+- name: Lush Portico
+  weight: 1.0
+  avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Skateboard
   weight: 1.0
   avg_copies: 1.0
@@ -93,6 +131,18 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Watery Grave
+=======
+- name: Watery Grave
+  weight: 1.0
+  avg_copies: 1.0
+- name: Haywire Mite
+  weight: 1.0
+  avg_copies: 1.0
+- name: Skateboard
+  weight: 1.0
+  avg_copies: 1.0
+- name: Otawara, Soaring City
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 1.0
 - name: Boseiju, Who Endures
@@ -114,19 +164,32 @@ top_cards:
   weight: 0.2
   avg_copies: 2.0
 - name: Urza's Ruinous Blast
+<<<<<<< Updated upstream
   weight: 0.2
   avg_copies: 1.0
 - name: Phelia, Exuberant Shepherd
-  weight: 0.2
-  avg_copies: 1.0
-- name: Lluwen, Imperfect Naturalist
-  weight: 0.2
-  avg_copies: 1.0
-- name: Dredger's Insight
+=======
+>>>>>>> Stashed changes
   weight: 0.2
   avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.2
   avg_copies: 1.0
+<<<<<<< Updated upstream
+- name: Dredger's Insight
+=======
+- name: Phelia, Exuberant Shepherd
+>>>>>>> Stashed changes
+  weight: 0.2
+  avg_copies: 1.0
+- name: Dredger's Insight
+  weight: 0.2
+  avg_copies: 1.0
+<<<<<<< Updated upstream
+=======
+- name: Lluwen, Imperfect Naturalist
+  weight: 0.2
+  avg_copies: 1.0
+>>>>>>> Stashed changes
 ---
 Legendary-matters combo deck leveraging Plaza of Heroes and Mox Opal with a suite of legendary permanents.

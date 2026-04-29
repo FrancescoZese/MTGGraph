@@ -10,16 +10,16 @@ set: soc
 type: Sorcery
 meta_presence: 0.0036
 archetypes:
+  goryo:
+    weight: 0.0377
+    avg_copies: 1.5
   necrodominance:
     weight: 0.0476
     avg_copies: 2.0
+  indomitable-creativity:
+    weight: 0.125
+    avg_copies: 1.0
   the-rock:
     weight: 0.5
     avg_copies: 4.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 1.5
-  unknown-7:
-    weight: 1.0
-    avg_copies: 1.0
 ---

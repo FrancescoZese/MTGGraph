@@ -10,8 +10,13 @@ type: Instant
 meta_presence: 0.0072
 archetypes:
   goryo:
+<<<<<<< Updated upstream
     weight: 0.1481
     avg_copies: 1.25
+=======
+    weight: 0.1321
+    avg_copies: 1.14
+>>>>>>> Stashed changes
   dredge:
     weight: 0.1429
     avg_copies: 4.0

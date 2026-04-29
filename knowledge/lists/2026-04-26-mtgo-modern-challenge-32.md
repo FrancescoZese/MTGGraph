@@ -1,5 +1,5 @@
 ---
-archetype: unknown-1
+archetype: 4c-omnath
 date: '2026-04-26'
 finish: 1st
 pilot: RandomGameActions

@@ -165,11 +165,25 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.1186
   avg_copies: 1.43
+<<<<<<< Updated upstream
 - name: Hallowed Fountain
   weight: 0.1186
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.1186
+=======
+- name: Bloodstained Mire
+  weight: 0.1034
+  avg_copies: 2.33
+- name: Pest Control
+  weight: 0.1034
+  avg_copies: 1.64
+- name: Meticulous Archive
+  weight: 0.1034
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 0.1034
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Bloodstained Mire
   weight: 0.1017
@@ -192,11 +206,19 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 0.0508
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Mishra's Bauble
   weight: 0.0339
   avg_copies: 4.0
 - name: Moonshadow
   weight: 0.0339
+=======
+- name: Moonshadow
+  weight: 0.0345
+  avg_copies: 4.0
+- name: Mishra's Bauble
+  weight: 0.0345
+>>>>>>> Stashed changes
   avg_copies: 4.0
 - name: Flame of Anor
   weight: 0.0339
@@ -204,6 +226,7 @@ top_cards:
 - name: Thraben Charm
   weight: 0.0339
   avg_copies: 2.0
+<<<<<<< Updated upstream
 - name: Tasigur, the Golden Fang
   weight: 0.0339
   avg_copies: 2.0
@@ -224,6 +247,28 @@ top_cards:
   avg_copies: 1.0
 - name: Prismatic Ending
   weight: 0.0339
+=======
+- name: Thundering Falls
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Prismatic Ending
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Celestial Purge
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Anoint with Affliction
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Shoot the Sheriff
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Vanishing Verse
+  weight: 0.0345
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Snow-Covered Island
   weight: 0.0169
@@ -234,6 +279,7 @@ top_cards:
 - name: Flow State
   weight: 0.0169
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Fallen Shinobi
   weight: 0.0169
   avg_copies: 3.0
@@ -248,17 +294,42 @@ top_cards:
   avg_copies: 3.0
 - name: Hurkyl's Recall
   weight: 0.0169
+=======
+- name: Shadow of Doubt
+  weight: 0.0172
+  avg_copies: 3.0
+- name: Dress Down
+  weight: 0.0172
+  avg_copies: 3.0
+- name: Fallen Shinobi
+  weight: 0.0172
+  avg_copies: 3.0
+- name: Dismember
+  weight: 0.0172
+  avg_copies: 3.0
+- name: Cryptic Command
+  weight: 0.0172
+  avg_copies: 2.0
+- name: Dauthi Voidwalker
+  weight: 0.0172
+>>>>>>> Stashed changes
   avg_copies: 2.0
 - name: Strix Serenade
   weight: 0.0169
   avg_copies: 2.0
+<<<<<<< Updated upstream
 - name: Lightning Bolt
   weight: 0.0169
+=======
+- name: Strix Serenade
+  weight: 0.0172
+>>>>>>> Stashed changes
   avg_copies: 2.0
 - name: Archmage's Charm
   weight: 0.0169
   avg_copies: 2.0
 - name: Stony Silence
+<<<<<<< Updated upstream
   weight: 0.0169
   avg_copies: 2.0
 - name: Cryptic Command
@@ -272,10 +343,23 @@ top_cards:
   avg_copies: 2.0
 - name: Sunken Ruins
   weight: 0.0169
+=======
+  weight: 0.0172
+  avg_copies: 2.0
+- name: Lightning Bolt
+  weight: 0.0172
+  avg_copies: 2.0
+- name: Archmage's Charm
+  weight: 0.0172
+  avg_copies: 2.0
+- name: Jace, the Mind Sculptor
+  weight: 0.0172
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Jace, the Mind Sculptor
   weight: 0.0169
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Hall of Storm Giants
   weight: 0.0169
   avg_copies: 1.0
@@ -293,6 +377,22 @@ top_cards:
   avg_copies: 1.0
 - name: Lórien Revealed
   weight: 0.0169
+=======
+- name: Snow-Covered Swamp
+  weight: 0.0172
+  avg_copies: 1.0
+- name: Sunken Ruins
+  weight: 0.0172
+  avg_copies: 1.0
+- name: Hall of Storm Giants
+  weight: 0.0172
+  avg_copies: 1.0
+- name: Exorcise
+  weight: 0.0172
+  avg_copies: 1.0
+- name: Lórien Revealed
+  weight: 0.0172
+>>>>>>> Stashed changes
   avg_copies: 1.0
 ---
 Draw-go control deck built on Counterspell, Fatal Push, and Orcish Bowmasters. Uses Consult the Star Charts and Wan Shi Tong for card advantage, with Subtlety as a free tempo play.

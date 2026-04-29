@@ -9,7 +9,7 @@ set: sos
 type: Legendary Creature — Vampire Druid
 meta_presence: 0.0007
 archetypes:
-  unknown-2:
-    weight: 1.0
+  soultrader-combo:
+    weight: 0.5
     avg_copies: 2.0
 ---

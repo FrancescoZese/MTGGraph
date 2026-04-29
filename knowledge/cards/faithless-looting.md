@@ -18,8 +18,11 @@ archetypes:
   hollow-one:
     weight: 1.0
     avg_copies: 4.0
+  izzet-prowess:
+    weight: 0.0179
+    avg_copies: 4.0
   indomitable-creativity:
-    weight: 0.2857
+    weight: 0.375
     avg_copies: 4.0
   dredge:
     weight: 0.8571
@@ -30,13 +33,7 @@ archetypes:
   goryo1:
     weight: 1.0
     avg_copies: 4.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-18:
+  izzet-murktide:
     weight: 1.0
     avg_copies: 4.0
   unknown-21:

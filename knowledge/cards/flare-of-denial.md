@@ -16,7 +16,11 @@ archetypes:
     weight: 0.28
     avg_copies: 1.0
   jeskai-control:
+<<<<<<< Updated upstream
     weight: 0.0526
+=======
+    weight: 0.1053
+>>>>>>> Stashed changes
     avg_copies: 2.0
   mill:
     weight: 0.125
@@ -28,7 +32,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   grixis-control:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 3.0
   izzet-splinter-twin:
     weight: 1.0
@@ -39,7 +43,12 @@ archetypes:
   goryo1:
     weight: 0.2857
     avg_copies: 4.0
+<<<<<<< Updated upstream
   unknown-19:
     weight: 0.75
+=======
+  4c-omnath9:
+    weight: 0.5
+>>>>>>> Stashed changes
     avg_copies: 2.0
 ---

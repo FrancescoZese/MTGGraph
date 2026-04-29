@@ -9,7 +9,12 @@ set: soc
 type: Sorcery
 meta_presence: 0.0007
 archetypes:
+<<<<<<< Updated upstream
   unknown-19:
     weight: 0.25
+=======
+  4c-omnath9:
+    weight: 0.5
+>>>>>>> Stashed changes
     avg_copies: 1.0
 ---

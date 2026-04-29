@@ -48,8 +48,8 @@ archetypes:
   selesnya-midrange:
     weight: 1.0
     avg_copies: 3.0
-  unknown-4:
-    weight: 1.0
+  soultrader-combo:
+    weight: 0.5
     avg_copies: 4.0
   unknown-24:
     weight: 1.0

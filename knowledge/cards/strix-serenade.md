@@ -40,7 +40,7 @@ archetypes:
     weight: 0.0833
     avg_copies: 1.0
   indomitable-creativity:
-    weight: 0.2857
+    weight: 0.25
     avg_copies: 2.0
   azorius-blink:
     weight: 0.3333

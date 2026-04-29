@@ -22,8 +22,13 @@ archetypes:
     weight: 0.0189
     avg_copies: 1.0
   goryo:
+<<<<<<< Updated upstream
     weight: 0.6667
     avg_copies: 1.11
+=======
+    weight: 0.6415
+    avg_copies: 1.12
+>>>>>>> Stashed changes
   azorius-control:
     weight: 0.7692
     avg_copies: 1.4
@@ -34,8 +39,13 @@ archetypes:
     weight: 0.1778
     avg_copies: 1.0
   boros-ponza:
+<<<<<<< Updated upstream
     weight: 0.9032
     avg_copies: 1.9
+=======
+    weight: 0.8889
+    avg_copies: 1.96
+>>>>>>> Stashed changes
   esper-blink:
     weight: 0.0833
     avg_copies: 1.0
@@ -54,10 +64,10 @@ archetypes:
   goryo3:
     weight: 1.0
     avg_copies: 2.0
-  unknown-19:
+  4c-omnath9:
     weight: 1.0
     avg_copies: 2.0
-  unknown-20:
+  soultrader-combo0:
     weight: 1.0
     avg_copies: 2.0
   unknown-25:

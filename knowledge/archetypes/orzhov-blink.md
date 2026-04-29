@@ -12,10 +12,14 @@ top_cards:
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Overlord of the Balemurk
+=======
+- name: Thoughtseize
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
@@ -36,13 +40,17 @@ top_cards:
 - name: Emperor of Bones
   weight: 1.0
   avg_copies: 3.0
-- name: Wrath of the Skies
-  weight: 1.0
-  avg_copies: 2.75
 - name: Flickerwisp
   weight: 1.0
   avg_copies: 2.75
+- name: Wrath of the Skies
+  weight: 1.0
+  avg_copies: 2.75
+<<<<<<< Updated upstream
 - name: Clarion Conqueror
+=======
+- name: Arid Mesa
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 2.25
 - name: Damping Sphere
@@ -54,16 +62,16 @@ top_cards:
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 2.25
-- name: Shadowy Backstreet
-  weight: 1.0
-  avg_copies: 2.0
 - name: High Noon
   weight: 1.0
   avg_copies: 2.0
-- name: Boggart Trawler
+- name: Shadowy Backstreet
+  weight: 1.0
+  avg_copies: 2.0
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.75
-- name: Godless Shrine
+- name: Boggart Trawler
   weight: 1.0
   avg_copies: 1.75
 - name: Ashiok, Dream Render
@@ -72,19 +80,19 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Prismatic Ending
+- name: Sheoldred's Edict
   weight: 0.75
   avg_copies: 2.0
 - name: Dawnbringer Cleric
   weight: 0.75
   avg_copies: 2.0
-- name: Sheoldred's Edict
+- name: Prismatic Ending
   weight: 0.75
   avg_copies: 2.0
-- name: Flooded Strand
+- name: Bleachbone Verge
   weight: 0.75
   avg_copies: 1.67
-- name: Bleachbone Verge
+- name: Flooded Strand
   weight: 0.75
   avg_copies: 1.67
 - name: Vexing Bauble
@@ -99,10 +107,10 @@ top_cards:
 - name: Sanctifier en-Vec
   weight: 0.5
   avg_copies: 2.0
-- name: Surgical Extraction
+- name: Sacred Foundry
   weight: 0.5
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Surgical Extraction
   weight: 0.5
   avg_copies: 1.0
 - name: Relic of Progenitus

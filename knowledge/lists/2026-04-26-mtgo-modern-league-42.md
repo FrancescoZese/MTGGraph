@@ -1,5 +1,5 @@
 ---
-archetype: unknown-18
+archetype: izzet-prowess
 date: '2026-04-26'
 finish: 5-0
 pilot: Schiapponetor

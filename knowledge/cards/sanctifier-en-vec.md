@@ -10,7 +10,7 @@ type: Creature — Human Cleric
 meta_presence: 0.0072
 archetypes:
   burn:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 4.0
   hammer-time:
     weight: 1.0

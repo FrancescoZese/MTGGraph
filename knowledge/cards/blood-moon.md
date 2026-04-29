@@ -28,13 +28,17 @@ archetypes:
     weight: 0.0714
     avg_copies: 2.0
   izzet-prowess:
+<<<<<<< Updated upstream
     weight: 0.1053
+=======
+    weight: 0.1071
+>>>>>>> Stashed changes
     avg_copies: 1.5
   izzet-artifacts:
     weight: 0.4231
     avg_copies: 2.82
   grixis-control:
-    weight: 0.5
+    weight: 0.4
     avg_copies: 2.0
   rakdos-lantern-combo:
     weight: 1.0
@@ -51,7 +55,7 @@ archetypes:
   naya-midrange:
     weight: 1.0
     avg_copies: 1.0
-  unknown-8:
+  izzet-murktide:
     weight: 1.0
     avg_copies: 2.0
 ---

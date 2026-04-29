@@ -25,8 +25,13 @@ archetypes:
     weight: 0.2
     avg_copies: 2.67
   boros-ponza:
+<<<<<<< Updated upstream
     weight: 0.9677
     avg_copies: 3.7
+=======
+    weight: 1.0
+    avg_copies: 3.56
+>>>>>>> Stashed changes
   esper-blink:
     weight: 0.0833
     avg_copies: 2.0
@@ -36,7 +41,4 @@ archetypes:
   bant-ritual:
     weight: 1.0
     avg_copies: 2.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 1.0
 ---

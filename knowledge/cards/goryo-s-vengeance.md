@@ -11,8 +11,5 @@ meta_presence: 0.0405
 archetypes:
   goryo:
     weight: 1.0
-    avg_copies: 4.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 3.5
+    avg_copies: 3.98
 ---

@@ -10,7 +10,11 @@ type: Enchantment
 meta_presence: 0.0058
 archetypes:
   goryo:
+<<<<<<< Updated upstream
     weight: 0.0185
+=======
+    weight: 0.0189
+>>>>>>> Stashed changes
     avg_copies: 3.0
   reanimator:
     weight: 0.04
@@ -19,7 +23,7 @@ archetypes:
     weight: 0.1
     avg_copies: 3.5
   indomitable-creativity:
-    weight: 0.2857
+    weight: 0.25
     avg_copies: 4.0
   dredge:
     weight: 0.1429

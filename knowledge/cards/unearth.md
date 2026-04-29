@@ -17,9 +17,15 @@ archetypes:
     avg_copies: 2.0
   goryo1:
     weight: 1.0
+<<<<<<< Updated upstream
     avg_copies: 3.43
   unknown-2:
     weight: 1.0
+=======
+    avg_copies: 3.5
+  soultrader-combo:
+    weight: 0.5
+>>>>>>> Stashed changes
     avg_copies: 4.0
   unknown-21:
     weight: 1.0

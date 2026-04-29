@@ -18,7 +18,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.88
   goryo:
-    weight: 1.0
+    weight: 0.9623
     avg_copies: 3.35
   azorius-control:
     weight: 1.0
@@ -54,7 +54,11 @@ archetypes:
     weight: 0.0556
     avg_copies: 1.0
   izzet-prowess:
+<<<<<<< Updated upstream
     weight: 0.0175
+=======
+    weight: 0.0179
+>>>>>>> Stashed changes
     avg_copies: 1.0
   4c-omnath:
     weight: 1.0
@@ -78,8 +82,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   grixis-control:
-    weight: 0.75
-    avg_copies: 2.67
+    weight: 0.8
+    avg_copies: 2.5
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 1.0
@@ -98,16 +102,10 @@ archetypes:
   goryo3:
     weight: 1.0
     avg_copies: 4.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-6:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-8:
+  izzet-murktide:
     weight: 1.0
     avg_copies: 1.0
-  unknown-19:
+  4c-omnath9:
     weight: 1.0
     avg_copies: 4.0
   unknown-22:

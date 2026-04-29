@@ -16,8 +16,13 @@ archetypes:
     weight: 0.0111
     avg_copies: 1.0
   goryo:
+<<<<<<< Updated upstream
     weight: 0.0556
     avg_copies: 1.5
+=======
+    weight: 0.0566
+    avg_copies: 1.6
+>>>>>>> Stashed changes
   azorius-control:
     weight: 0.4615
     avg_copies: 1.83
@@ -25,8 +30,13 @@ archetypes:
     weight: 1.0
     avg_copies: 3.88
   jeskai-control:
+<<<<<<< Updated upstream
     weight: 0.2105
     avg_copies: 1.75
+=======
+    weight: 0.2632
+    avg_copies: 1.8
+>>>>>>> Stashed changes
   mill:
     weight: 0.125
     avg_copies: 1.0
@@ -37,7 +47,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.58
   4c-omnath:
-    weight: 1.0
+    weight: 0.6667
     avg_copies: 4.0
   esper-blink:
     weight: 0.0833
@@ -46,7 +56,7 @@ archetypes:
     weight: 0.0385
     avg_copies: 1.0
   grixis-control:
-    weight: 0.75
+    weight: 0.6
     avg_copies: 3.33
   izzet-wizards:
     weight: 1.0
@@ -54,11 +64,16 @@ archetypes:
   esper-midrange:
     weight: 1.0
     avg_copies: 3.0
-  unknown-8:
+  izzet-murktide:
     weight: 1.0
     avg_copies: 1.0
+<<<<<<< Updated upstream
   unknown-19:
     weight: 0.75
+=======
+  4c-omnath9:
+    weight: 0.5
+>>>>>>> Stashed changes
     avg_copies: 2.0
   unknown-22:
     weight: 0.6667

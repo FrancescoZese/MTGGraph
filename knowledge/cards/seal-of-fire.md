@@ -10,7 +10,7 @@ type: Enchantment
 meta_presence: 0.0043
 archetypes:
   burn:
-    weight: 0.4
+    weight: 0.5
     avg_copies: 4.0
   hollow-one:
     weight: 0.05
@@ -21,7 +21,4 @@ archetypes:
   rakdos-aggro:
     weight: 0.1667
     avg_copies: 2.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 4.0
 ---

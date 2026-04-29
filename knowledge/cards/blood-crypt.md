@@ -12,8 +12,16 @@ archetypes:
     weight: 0.0667
     avg_copies: 1.0
   reanimator:
+<<<<<<< Updated upstream
     weight: 0.88
     avg_copies: 1.09
+=======
+    weight: 0.875
+    avg_copies: 1.1
+  burn:
+    weight: 0.1667
+    avg_copies: 2.0
+>>>>>>> Stashed changes
   mardu-blink:
     weight: 1.0
     avg_copies: 1.0
@@ -22,7 +30,7 @@ archetypes:
     avg_copies: 3.37
   indomitable-creativity:
     weight: 1.0
-    avg_copies: 1.29
+    avg_copies: 1.38
   dredge:
     weight: 1.0
     avg_copies: 1.57
@@ -41,13 +49,7 @@ archetypes:
   goryo1:
     weight: 1.0
     avg_copies: 1.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-20:
+  soultrader-combo0:
     weight: 1.0
     avg_copies: 1.0
   unknown-21:

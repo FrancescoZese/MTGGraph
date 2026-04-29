@@ -163,10 +163,17 @@ top_cards:
   weight: 0.0296
   avg_copies: 1.5
 - name: Vandalblast
+<<<<<<< Updated upstream
   weight: 0.0296
   avg_copies: 1.0
 - name: Haywire Mite
   weight: 0.0296
+=======
+  weight: 0.0308
+  avg_copies: 1.0
+- name: Haywire Mite
+  weight: 0.0308
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Salvage Titan
   weight: 0.0222
@@ -180,9 +187,18 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 0.0148
   avg_copies: 2.0
+<<<<<<< Updated upstream
 - name: Thought Monitor
   weight: 0.0148
   avg_copies: 1.0
+=======
+- name: Magus of the Moon
+  weight: 0.0154
+  avg_copies: 1.0
+- name: Thought Monitor
+  weight: 0.0154
+  avg_copies: 1.0
+>>>>>>> Stashed changes
 - name: Glimmervoid
   weight: 0.0074
   avg_copies: 2.0
@@ -192,9 +208,13 @@ top_cards:
 - name: Patchwork Automaton
   weight: 0.0074
   avg_copies: 2.0
+- name: Shattering Spree
+  weight: 0.0077
+  avg_copies: 2.0
 - name: Prismari Charm
   weight: 0.0074
   avg_copies: 2.0
+<<<<<<< Updated upstream
 - name: Detect Intrusion
   weight: 0.0074
   avg_copies: 2.0
@@ -203,15 +223,30 @@ top_cards:
   avg_copies: 1.0
 - name: Chandra, Spark Hunter
   weight: 0.0074
+=======
+- name: Jokulmorder
+  weight: 0.0077
+  avg_copies: 1.0
+- name: Minamo, School at Water's Edge
+  weight: 0.0077
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Mountain
   weight: 0.0074
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Void Mirror
   weight: 0.0074
   avg_copies: 1.0
 - name: Minamo, School at Water's Edge
   weight: 0.0074
+=======
+- name: Chandra, Spark Hunter
+  weight: 0.0077
+  avg_copies: 1.0
+- name: Ghirapur Aether Grid
+  weight: 0.0077
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Jokulmorder
   weight: 0.0074

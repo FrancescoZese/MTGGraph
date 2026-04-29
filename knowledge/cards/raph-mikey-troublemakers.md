@@ -14,6 +14,6 @@ archetypes:
     weight: 0.0357
     avg_copies: 1.0
   indomitable-creativity:
-    weight: 0.7143
+    weight: 0.625
     avg_copies: 1.0
 ---

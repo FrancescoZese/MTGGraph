@@ -10,9 +10,6 @@ type: Instant
 meta_presence: 0.0043
 archetypes:
   indomitable-creativity:
-    weight: 0.7143
-    avg_copies: 2.6
-  unknown-7:
-    weight: 1.0
-    avg_copies: 2.0
+    weight: 0.75
+    avg_copies: 2.5
 ---

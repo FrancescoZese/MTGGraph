@@ -13,7 +13,11 @@ archetypes:
     weight: 0.1617
     avg_copies: 1.0
   izzet-prowess:
+<<<<<<< Updated upstream
     weight: 0.0175
+=======
+    weight: 0.0179
+>>>>>>> Stashed changes
     avg_copies: 1.0
   4c-omnath:
     weight: 0.3333

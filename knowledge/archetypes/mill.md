@@ -93,10 +93,10 @@ top_cards:
 - name: Toxic Deluge
   weight: 0.5
   avg_copies: 1.5
-- name: Snow-Covered Swamp
+- name: Swamp
   weight: 0.5
   avg_copies: 1.5
-- name: Swamp
+- name: Snow-Covered Swamp
   weight: 0.5
   avg_copies: 1.5
 - name: Sheoldred's Edict
@@ -108,10 +108,14 @@ top_cards:
 - name: Ghost Quarter
   weight: 0.375
   avg_copies: 2.0
+<<<<<<< Updated upstream
 - name: Crypt Incursion
+=======
+- name: Murderous Cut
+>>>>>>> Stashed changes
   weight: 0.375
   avg_copies: 1.0
-- name: Murderous Cut
+- name: The Meathook Massacre
   weight: 0.375
   avg_copies: 1.0
 - name: The Meathook Massacre
@@ -120,10 +124,10 @@ top_cards:
 - name: Exhibition Tidecaller
   weight: 0.25
   avg_copies: 3.5
-- name: Tamiyo, Inquisitive Student
+- name: Kitsune's Technique
   weight: 0.25
   avg_copies: 2.0
-- name: Kitsune's Technique
+- name: Tamiyo, Inquisitive Student
   weight: 0.25
   avg_copies: 2.0
 - name: Force of Negation
@@ -135,7 +139,11 @@ top_cards:
 - name: Baleful Mastery
   weight: 0.25
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Mikokoro, Center of the Sea
+=======
+- name: Damnation
+>>>>>>> Stashed changes
   weight: 0.25
   avg_copies: 1.0
 - name: Damnation
@@ -144,16 +152,23 @@ top_cards:
 - name: Echoing Truth
   weight: 0.25
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: White Orchid Phantom
+  weight: 0.125
+  avg_copies: 4.0
+- name: Erode
+=======
+- name: Path to Exile
+  weight: 0.125
+  avg_copies: 4.0
+- name: Trapmaker's Snare
+>>>>>>> Stashed changes
   weight: 0.125
   avg_copies: 4.0
 - name: Erode
   weight: 0.125
   avg_copies: 4.0
-- name: Path to Exile
-  weight: 0.125
-  avg_copies: 4.0
-- name: Trapmaker's Snare
+- name: White Orchid Phantom
   weight: 0.125
   avg_copies: 4.0
 - name: Flare of Denial
@@ -165,19 +180,27 @@ top_cards:
 - name: Chalice of the Void
   weight: 0.125
   avg_copies: 2.0
+<<<<<<< Updated upstream
 - name: Subtlety
+=======
+- name: Nihil Spellbomb
+>>>>>>> Stashed changes
   weight: 0.125
   avg_copies: 1.0
 - name: Darkslick Shores
   weight: 0.125
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Mindbreak Trap
+=======
+- name: Go for the Throat
+>>>>>>> Stashed changes
   weight: 0.125
   avg_copies: 1.0
 - name: Sink into Stupor
   weight: 0.125
   avg_copies: 1.0
-- name: Ravenous Trap
+- name: Darkslick Shores
   weight: 0.125
   avg_copies: 1.0
 - name: Hallowed Fountain
@@ -186,6 +209,7 @@ top_cards:
 - name: Plains
   weight: 0.125
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Nihil Spellbomb
   weight: 0.125
   avg_copies: 1.0
@@ -196,9 +220,21 @@ top_cards:
   weight: 0.125
   avg_copies: 1.0
 - name: Long Goodbye
+=======
+- name: Meticulous Archive
   weight: 0.125
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Subtlety
+  weight: 0.125
+  avg_copies: 1.0
+- name: Ravenous Trap
+  weight: 0.125
+  avg_copies: 1.0
+- name: Mindbreak Trap
+>>>>>>> Stashed changes
+  weight: 0.125
+  avg_copies: 1.0
+- name: Plains
   weight: 0.125
   avg_copies: 1.0
 ---

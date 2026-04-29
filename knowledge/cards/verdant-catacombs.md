@@ -8,6 +8,9 @@ set: mh2
 type: Land
 meta_presence: 0.0948
 archetypes:
+  goryo:
+    weight: 0.0377
+    avg_copies: 4.0
   necrodominance:
     weight: 0.0952
     avg_copies: 2.5
@@ -53,11 +56,9 @@ archetypes:
   the-rock:
     weight: 1.0
     avg_copies: 4.0
-  unknown-3:
+  soultrader-combo:
     weight: 1.0
-    avg_copies: 4.0
-  unknown-2:
-    weight: 1.0
+<<<<<<< Updated upstream
     avg_copies: 2.0
   unknown-4:
     weight: 1.0
@@ -65,4 +66,7 @@ archetypes:
   unknown-24:
     weight: 1.0
     avg_copies: 4.0
+=======
+    avg_copies: 3.0
+>>>>>>> Stashed changes
 ---

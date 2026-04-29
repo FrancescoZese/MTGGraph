@@ -25,15 +25,18 @@ archetypes:
     weight: 0.0909
     avg_copies: 1.0
   indomitable-creativity:
-    weight: 0.1429
-    avg_copies: 1.0
+    weight: 0.25
+    avg_copies: 2.0
   cosmogoyf-fling:
     weight: 0.1818
     avg_copies: 4.0
+<<<<<<< Updated upstream
   unknown-7:
     weight: 1.0
     avg_copies: 3.0
   unknown-24:
     weight: 1.0
     avg_copies: 3.0
+=======
+>>>>>>> Stashed changes
 ---

@@ -12,7 +12,11 @@ top_cards:
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Dragon's Rage Channeler
+=======
+- name: Mishra's Bauble
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 4.0
 - name: Nethergoyf
@@ -60,13 +64,17 @@ top_cards:
 - name: Violent Urge
   weight: 0.6667
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Lava Dart
+=======
+- name: Thoughtseize
+>>>>>>> Stashed changes
   weight: 0.5
   avg_copies: 4.0
 - name: Cori-Steel Cutter
   weight: 0.5
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Lava Dart
   weight: 0.5
   avg_copies: 4.0
 - name: Fear of Missing Out
@@ -96,45 +104,68 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.3333
   avg_copies: 1.0
+- name: Polluted Delta
+  weight: 0.1667
+  avg_copies: 4.0
+<<<<<<< Updated upstream
+- name: Polluted Delta
+=======
 - name: Marsh Flats
   weight: 0.1667
   avg_copies: 4.0
-- name: Polluted Delta
+- name: Magebane Lizard
+>>>>>>> Stashed changes
   weight: 0.1667
   avg_copies: 4.0
 - name: Death's Shadow
   weight: 0.1667
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Magebane Lizard
   weight: 0.1667
   avg_copies: 4.0
 - name: Fire-Brained Scheme
+=======
+- name: Vexing Bauble
+>>>>>>> Stashed changes
   weight: 0.1667
   avg_copies: 3.0
 - name: Blood Moon
   weight: 0.1667
   avg_copies: 3.0
-- name: Vexing Bauble
+- name: Fire-Brained Scheme
   weight: 0.1667
   avg_copies: 3.0
 - name: Break the Ice
   weight: 0.1667
   avg_copies: 2.0
+<<<<<<< Updated upstream
 - name: Abigale, Eloquent First-Year
   weight: 0.1667
   avg_copies: 2.0
 - name: Sheoldred's Edict
+=======
+- name: Surgical Extraction
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Abigale, Eloquent First-Year
+>>>>>>> Stashed changes
   weight: 0.1667
   avg_copies: 2.0
 - name: Seal of Fire
   weight: 0.1667
   avg_copies: 2.0
+<<<<<<< Updated upstream
 - name: Surgical Extraction
+=======
+- name: Sheoldred's Edict
+>>>>>>> Stashed changes
   weight: 0.1667
   avg_copies: 2.0
 - name: Unearth
   weight: 0.1667
   avg_copies: 2.0
+<<<<<<< Updated upstream
 - name: Verdant Catacombs
   weight: 0.1667
   avg_copies: 1.0
@@ -148,12 +179,31 @@ top_cards:
   weight: 0.1667
   avg_copies: 1.0
 - name: Troll of Khazad-dûm
-  weight: 0.1667
-  avg_copies: 1.0
+=======
 - name: Sundering Eruption
   weight: 0.1667
   avg_copies: 1.0
+- name: Graveyard Trespasser
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Dreams of Steel and Oil
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Troll of Khazad-dûm
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Boggart Trawler
+>>>>>>> Stashed changes
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Ob Nixilis, the Adversary
+  weight: 0.1667
+  avg_copies: 1.0
+<<<<<<< Updated upstream
+- name: Dreams of Steel and Oil
+=======
+- name: Verdant Catacombs
+>>>>>>> Stashed changes
   weight: 0.1667
   avg_copies: 1.0
 - name: Ob Nixilis, the Adversary

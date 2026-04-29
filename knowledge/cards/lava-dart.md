@@ -10,15 +10,16 @@ type: Instant
 meta_presence: 0.047
 archetypes:
   izzet-prowess:
+<<<<<<< Updated upstream
     weight: 0.9825
+=======
+    weight: 0.9821
+>>>>>>> Stashed changes
     avg_copies: 3.84
   dredge:
     weight: 0.7143
     avg_copies: 4.0
   rakdos-aggro:
     weight: 0.5
-    avg_copies: 4.0
-  unknown-18:
-    weight: 1.0
     avg_copies: 4.0
 ---

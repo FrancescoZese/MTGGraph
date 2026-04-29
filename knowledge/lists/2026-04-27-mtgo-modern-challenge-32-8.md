@@ -1,5 +1,5 @@
 ---
-archetype: unknown-19
+archetype: jeskai-control
 date: '2026-04-27'
 finish: 8th
 pilot: gazmon48

@@ -22,13 +22,13 @@ archetypes:
     weight: 0.0357
     avg_copies: 1.0
   izzet-prowess:
-    weight: 1.0
+    weight: 0.9821
     avg_copies: 3.96
   izzet-artifacts:
     weight: 0.3846
     avg_copies: 3.3
   grixis-control:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 4.0
   eldrazi-breach:
     weight: 1.0

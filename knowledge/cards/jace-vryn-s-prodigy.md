@@ -9,6 +9,10 @@ type: Legendary Creature — Human Wizard // Legendary Planeswalker — Jace
 meta_presence: 0.0007
 archetypes:
   goryo:
+<<<<<<< Updated upstream
     weight: 0.0185
+=======
+    weight: 0.0189
+>>>>>>> Stashed changes
     avg_copies: 4.0
 ---

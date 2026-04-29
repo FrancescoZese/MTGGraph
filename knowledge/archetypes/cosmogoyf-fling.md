@@ -10,15 +10,23 @@ top_cards:
 - name: Plunge into Darkness
   weight: 1.0
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Gemstone Caverns
   weight: 1.0
   avg_copies: 4.0
 - name: Cosmogoyf
-  weight: 1.0
-  avg_copies: 4.0
+=======
 - name: Chancellor of the Tangle
   weight: 1.0
   avg_copies: 4.0
+- name: Thud
+>>>>>>> Stashed changes
+  weight: 1.0
+  avg_copies: 4.0
+- name: Gemstone Caverns
+  weight: 1.0
+  avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Thud
   weight: 1.0
   avg_copies: 4.0
@@ -29,6 +37,18 @@ top_cards:
   weight: 1.0
   avg_copies: 3.82
 - name: Blackcleave Cliffs
+=======
+- name: Gemstone Mine
+  weight: 1.0
+  avg_copies: 3.82
+- name: Spoils of the Vault
+  weight: 1.0
+  avg_copies: 3.82
+- name: Blackcleave Cliffs
+  weight: 1.0
+  avg_copies: 3.73
+- name: Devourer of Destiny
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 3.73
 - name: Devourer of Destiny

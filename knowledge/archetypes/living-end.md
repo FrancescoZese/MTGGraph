@@ -37,13 +37,13 @@ top_cards:
 - name: Hedge Maze
   weight: 1.0
   avg_copies: 1.04
-- name: Island
-  weight: 1.0
-  avg_copies: 1.0
 - name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Breeding Pool
+  weight: 1.0
+  avg_copies: 1.0
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -110,6 +110,7 @@ top_cards:
   weight: 0.56
   avg_copies: 1.0
 - name: Culling Ritual
+<<<<<<< Updated upstream
   weight: 0.52
   avg_copies: 1.92
 - name: Mai, Scornful Striker
@@ -123,6 +124,15 @@ top_cards:
   avg_copies: 1.0
 - name: Disciple of Freyalise
   weight: 0.44
+=======
+  weight: 0.4783
+  avg_copies: 1.91
+- name: Boseiju, Who Endures
+  weight: 0.4783
+  avg_copies: 1.0
+- name: Mai, Scornful Striker
+  weight: 0.4783
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Force of Vigor
   weight: 0.4
@@ -136,6 +146,7 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 0.32
   avg_copies: 2.22
+<<<<<<< Updated upstream
 - name: Lush Portico
   weight: 0.32
   avg_copies: 1.0
@@ -144,10 +155,18 @@ top_cards:
   avg_copies: 1.0
 - name: Swamp
   weight: 0.32
+=======
+- name: Temple Garden
+  weight: 0.3478
+  avg_copies: 1.0
+- name: Lush Portico
+  weight: 0.3478
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Clarion Conqueror
   weight: 0.28
   avg_copies: 2.57
+<<<<<<< Updated upstream
 - name: Flare of Denial
   weight: 0.28
   avg_copies: 1.0
@@ -159,6 +178,13 @@ top_cards:
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.28
+=======
+- name: Meticulous Archive
+  weight: 0.3043
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 0.3043
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Striped Riverwinder
   weight: 0.24
@@ -173,7 +199,14 @@ top_cards:
   weight: 0.16
   avg_copies: 1.25
 - name: Deafening Silence
+<<<<<<< Updated upstream
   weight: 0.16
+=======
+  weight: 0.1739
+  avg_copies: 1.0
+- name: Fracturing Gust
+  weight: 0.1739
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Archon of Cruelty
   weight: 0.12
@@ -193,19 +226,31 @@ top_cards:
 - name: Oliphaunt
   weight: 0.04
   avg_copies: 3.0
+<<<<<<< Updated upstream
+=======
+- name: Fulminator Mage
+  weight: 0.0435
+  avg_copies: 2.0
+>>>>>>> Stashed changes
 - name: Flooded Strand
   weight: 0.04
   avg_copies: 2.0
 - name: Steam Vents
   weight: 0.04
   avg_copies: 2.0
+<<<<<<< Updated upstream
 - name: Fulminator Mage
   weight: 0.04
+=======
+- name: Titanoth Rex
+  weight: 0.0435
+>>>>>>> Stashed changes
   avg_copies: 2.0
 - name: Titanoth Rex
   weight: 0.04
   avg_copies: 2.0
 - name: Verdant Catacombs
+<<<<<<< Updated upstream
   weight: 0.04
   avg_copies: 2.0
 - name: Sunken Ruins
@@ -216,6 +261,21 @@ top_cards:
   avg_copies: 1.0
 - name: Press the Enemy
   weight: 0.04
+=======
+  weight: 0.0435
+  avg_copies: 2.0
+- name: Windcaller Aven
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Press the Enemy
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Stomping Ground
+  weight: 0.0435
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Windcaller Aven
   weight: 0.04

@@ -10,11 +10,8 @@ meta_presence: 0.0051
 archetypes:
   burn:
     weight: 1.0
-    avg_copies: 3.2
+    avg_copies: 3.0
   hollow-one:
     weight: 0.05
     avg_copies: 1.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 2.0
 ---

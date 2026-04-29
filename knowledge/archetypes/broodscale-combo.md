@@ -9,19 +9,31 @@ top_cards:
 - name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Basking Broodscale
+=======
+- name: Urza's Saga
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 4.0
 - name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Urza's Saga
+=======
+- name: Basking Broodscale
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
+<<<<<<< Updated upstream
 - name: Grove of the Burnwillows
+=======
+- name: Kozilek's Command
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 4.0
 - name: Glaring Fleshraker
@@ -44,14 +56,23 @@ top_cards:
   avg_copies: 1.65
 - name: Vexing Bauble
   weight: 1.0
+<<<<<<< Updated upstream
   avg_copies: 1.43
 - name: Soul-Guide Lantern
+=======
+  avg_copies: 1.45
+- name: Springleaf Drum
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 1.0
 - name: Springleaf Drum
   weight: 1.0
   avg_copies: 1.0
+<<<<<<< Updated upstream
 - name: Haywire Mite
+=======
+- name: Soul-Guide Lantern
+>>>>>>> Stashed changes
   weight: 1.0
   avg_copies: 1.0
 - name: Walking Ballista
@@ -82,6 +103,7 @@ top_cards:
   weight: 0.56
   avg_copies: 2.0
 - name: Unholy Heat
+<<<<<<< Updated upstream
   weight: 0.56
   avg_copies: 1.9
 - name: Commercial District
@@ -89,6 +111,15 @@ top_cards:
   avg_copies: 1.0
 - name: Stomping Ground
   weight: 0.56
+=======
+  weight: 0.5417
+  avg_copies: 1.89
+- name: Stomping Ground
+  weight: 0.5417
+  avg_copies: 1.0
+- name: Commercial District
+  weight: 0.5417
+>>>>>>> Stashed changes
   avg_copies: 1.0
 - name: Warping Wail
   weight: 0.52
@@ -103,7 +134,14 @@ top_cards:
   weight: 0.44
   avg_copies: 4.0
 - name: Pick Your Poison
+<<<<<<< Updated upstream
   weight: 0.44
+=======
+  weight: 0.4583
+  avg_copies: 1.82
+- name: Soulless Jailer
+  weight: 0.4583
+>>>>>>> Stashed changes
   avg_copies: 1.82
 - name: Soulless Jailer
   weight: 0.44
@@ -148,10 +186,17 @@ top_cards:
   weight: 0.04
   avg_copies: 2.0
 - name: Ghost Quarter
+<<<<<<< Updated upstream
   weight: 0.04
   avg_copies: 1.0
 - name: Bojuka Bog
   weight: 0.04
+=======
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Bojuka Bog
+  weight: 0.0417
+>>>>>>> Stashed changes
   avg_copies: 1.0
 ---
 Unclassified archetype, pending review.

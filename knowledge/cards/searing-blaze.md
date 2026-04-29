@@ -10,6 +10,7 @@ type: Instant
 meta_presence: 0.0043
 archetypes:
   burn:
+<<<<<<< Updated upstream
     weight: 0.8
     avg_copies: 2.67
   izzet-prowess:
@@ -18,4 +19,8 @@ archetypes:
   unknown-9:
     weight: 1.0
     avg_copies: 1.0
+=======
+    weight: 0.8333
+    avg_copies: 2.43
+>>>>>>> Stashed changes
 ---

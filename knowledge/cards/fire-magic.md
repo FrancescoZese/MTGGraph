@@ -25,10 +25,17 @@ archetypes:
     weight: 0.1538
     avg_copies: 2.0
   jeskai-control:
+<<<<<<< Updated upstream
     weight: 0.4737
     avg_copies: 1.56
   boros-ponza:
     weight: 0.3226
+=======
+    weight: 0.4211
+    avg_copies: 1.62
+  boros-ponza:
+    weight: 0.3704
+>>>>>>> Stashed changes
     avg_copies: 1.9
   simic-ritual:
     weight: 0.0278
@@ -40,18 +47,21 @@ archetypes:
     weight: 0.6923
     avg_copies: 2.28
   grixis-control:
-    weight: 0.75
-    avg_copies: 1.67
+    weight: 0.8
+    avg_copies: 2.0
   grixis-shadow:
     weight: 1.0
     avg_copies: 2.0
   scapeshift-combo:
     weight: 0.25
     avg_copies: 4.0
+<<<<<<< Updated upstream
   unknown-6:
     weight: 1.0
     avg_copies: 3.0
   unknown-23:
     weight: 1.0
     avg_copies: 1.0
+=======
+>>>>>>> Stashed changes
 ---

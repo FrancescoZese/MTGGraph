@@ -15,8 +15,8 @@ archetypes:
     weight: 0.88
     avg_copies: 1.05
   burn:
-    weight: 0.4
-    avg_copies: 1.5
+    weight: 0.5
+    avg_copies: 1.33
   mardu-blink:
     weight: 1.0
     avg_copies: 1.0
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.9
     avg_copies: 1.06
   indomitable-creativity:
-    weight: 0.2857
+    weight: 0.375
     avg_copies: 1.0
   orzhov-blink:
     weight: 0.25
@@ -38,13 +38,7 @@ archetypes:
   goryo1:
     weight: 1.0
     avg_copies: 1.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-20:
+  soultrader-combo0:
     weight: 1.0
     avg_copies: 1.0
   unknown-21:

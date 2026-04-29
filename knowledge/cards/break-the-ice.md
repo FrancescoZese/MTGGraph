@@ -13,18 +13,23 @@ archetypes:
     weight: 0.5085
     avg_copies: 2.8
   necrodominance:
+<<<<<<< Updated upstream
     weight: 0.9524
     avg_copies: 3.65
+=======
+    weight: 0.95
+    avg_copies: 3.63
+  grixis-control:
+    weight: 0.2
+    avg_copies: 3.0
+>>>>>>> Stashed changes
   rakdos-aggro:
     weight: 0.1667
     avg_copies: 2.0
   the-rock:
     weight: 0.5
     avg_copies: 3.0
-  unknown-4:
-    weight: 1.0
+  soultrader-combo:
+    weight: 0.5
     avg_copies: 1.0
-  unknown-6:
-    weight: 1.0
-    avg_copies: 3.0
 ---

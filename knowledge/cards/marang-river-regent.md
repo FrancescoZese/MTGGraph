@@ -10,6 +10,6 @@ type: Creature — Dragon // Instant — Omen
 meta_presence: 0.0007
 archetypes:
   grixis-control:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 3.0
 ---

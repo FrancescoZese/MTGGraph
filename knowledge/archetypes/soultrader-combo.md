@@ -1,0 +1,233 @@
+---
+colors:
+- B
+- G
+<<<<<<< Updated upstream:knowledge/archetypes/unknown-4.md
+name: 'Unknown #4'
+meta_share: 0.0014
+list_count: 2
+top_cards:
+- name: Verdant Catacombs
+  weight: 1.0
+  avg_copies: 4.0
+- name: Gravecrawler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Shambling Ghast
+  weight: 1.0
+  avg_copies: 4.0
+- name: Phoenix Fleet Airship
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 4.0
+- name: Thoughtseize
+=======
+name: Soultrader Combo
+meta_share: 0.0015
+list_count: 2
+top_cards:
+- name: Orcish Bowmasters
+  weight: 1.0
+  avg_copies: 4.0
+- name: Gravecrawler
+>>>>>>> Stashed changes:knowledge/archetypes/soultrader-combo.md
+  weight: 1.0
+  avg_copies: 4.0
+- name: Warren Soultrader
+  weight: 1.0
+  avg_copies: 4.0
+<<<<<<< Updated upstream:knowledge/archetypes/unknown-4.md
+- name: Malevolent Rumble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Orcish Bowmasters
+  weight: 1.0
+  avg_copies: 4.0
+- name: Phyrexian Tower
+  weight: 1.0
+  avg_copies: 4.0
+- name: Culling Ritual
+  weight: 1.0
+  avg_copies: 3.0
+- name: Flare of Malice
+  weight: 1.0
+  avg_copies: 3.0
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 3.0
+- name: Marionette Apprentice
+  weight: 1.0
+  avg_copies: 3.0
+- name: Graveyard Trespasser
+  weight: 1.0
+  avg_copies: 3.0
+- name: Overgrown Tomb
+=======
+- name: Flare of Malice
+  weight: 1.0
+  avg_copies: 3.5
+- name: Marionette Apprentice
+  weight: 1.0
+  avg_copies: 3.5
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 3.0
+- name: Verdant Catacombs
+  weight: 1.0
+  avg_copies: 3.0
+- name: Thoughtseize
+  weight: 1.0
+  avg_copies: 2.67
+- name: Swamp
+  weight: 1.0
+  avg_copies: 2.5
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 2.5
+- name: Phyrexian Tower
+  weight: 1.0
+  avg_copies: 2.5
+- name: Culling Ritual
+  weight: 1.0
+  avg_copies: 2.0
+- name: Spymaster's Vault
+>>>>>>> Stashed changes:knowledge/archetypes/soultrader-combo.md
+  weight: 1.0
+  avg_copies: 2.0
+- name: Vexing Bauble
+  weight: 1.0
+  avg_copies: 2.0
+<<<<<<< Updated upstream:knowledge/archetypes/unknown-4.md
+- name: Cling to Dust
+=======
+- name: Bloodstained Mire
+>>>>>>> Stashed changes:knowledge/archetypes/soultrader-combo.md
+  weight: 1.0
+  avg_copies: 1.5
+- name: Underground Mortuary
+  weight: 1.0
+  avg_copies: 1.0
+<<<<<<< Updated upstream:knowledge/archetypes/unknown-4.md
+- name: Break the Ice
+  weight: 1.0
+  avg_copies: 1.0
+- name: Underground Mortuary
+  weight: 1.0
+  avg_copies: 1.0
+- name: Bloodstained Mire
+  weight: 1.0
+=======
+- name: Shambling Ghast
+  weight: 0.5
+  avg_copies: 4.0
+- name: Stitcher's Supplier
+  weight: 0.5
+  avg_copies: 4.0
+- name: Malevolent Rumble
+  weight: 0.5
+  avg_copies: 4.0
+- name: Phoenix Fleet Airship
+  weight: 0.5
+  avg_copies: 4.0
+- name: Boggart Trawler
+  weight: 0.5
+  avg_copies: 4.0
+- name: Unearth
+  weight: 0.5
+  avg_copies: 4.0
+- name: Birthing Ritual
+  weight: 0.5
+  avg_copies: 4.0
+- name: Graveyard Trespasser
+  weight: 0.5
+  avg_copies: 3.0
+- name: Fulminator Mage
+  weight: 0.5
+  avg_copies: 3.0
+- name: Polluted Delta
+  weight: 0.5
+  avg_copies: 2.0
+- name: Vexing Bauble
+  weight: 0.5
+  avg_copies: 2.0
+- name: Collector Ouphe
+  weight: 0.5
+  avg_copies: 2.0
+- name: Soulless Jailer
+  weight: 0.5
+  avg_copies: 2.0
+- name: Arnyn, Deathbloom Botanist
+  weight: 0.5
+  avg_copies: 2.0
+- name: Reclamation Sage
+  weight: 0.5
+  avg_copies: 1.0
+- name: Nihil Spellbomb
+  weight: 0.5
+  avg_copies: 1.0
+- name: Shatter Assumptions
+  weight: 0.5
+  avg_copies: 1.0
+- name: Cling to Dust
+  weight: 0.5
+>>>>>>> Stashed changes:knowledge/archetypes/soultrader-combo.md
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
+  weight: 0.5
+  avg_copies: 1.0
+<<<<<<< Updated upstream:knowledge/archetypes/unknown-4.md
+- name: Urborg, Tomb of Yawgmoth
+  weight: 1.0
+  avg_copies: 1.0
+- name: Chthonian Nightmare
+  weight: 1.0
+  avg_copies: 1.0
+- name: Nihil Spellbomb
+  weight: 1.0
+  avg_copies: 1.0
+- name: Spymaster's Vault
+  weight: 1.0
+  avg_copies: 1.0
+- name: Overlord of the Balemurk
+  weight: 1.0
+  avg_copies: 1.0
+- name: Nurturing Peatland
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shatter Assumptions
+  weight: 1.0
+  avg_copies: 1.0
+- name: Swamp
+  weight: 1.0
+=======
+- name: Chthonian Nightmare
+  weight: 0.5
+  avg_copies: 1.0
+- name: Nurturing Peatland
+  weight: 0.5
+  avg_copies: 1.0
+- name: Abrupt Decay
+  weight: 0.5
+  avg_copies: 1.0
+- name: Break the Ice
+  weight: 0.5
+  avg_copies: 1.0
+- name: Haywire Mite
+  weight: 0.5
+  avg_copies: 1.0
+- name: Urborg, Tomb of Yawgmoth
+  weight: 0.5
+  avg_copies: 1.0
+- name: Sephiroth, Fabled SOLDIER
+  weight: 0.5
+  avg_copies: 1.0
+- name: Grist, the Hunger Tide
+  weight: 0.5
+  avg_copies: 1.0
+- name: Overlord of the Balemurk
+  weight: 0.5
+>>>>>>> Stashed changes:knowledge/archetypes/soultrader-combo.md
+  avg_copies: 1.0
+---

@@ -19,9 +19,13 @@ archetypes:
     avg_copies: 3.75
   boros-ponza:
     weight: 1.0
+<<<<<<< Updated upstream
     avg_copies: 3.74
+=======
+    avg_copies: 3.7
+>>>>>>> Stashed changes
   grixis-control:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 2.0
   goryo6:
     weight: 1.0
@@ -29,7 +33,4 @@ archetypes:
   goryo3:
     weight: 1.0
     avg_copies: 2.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 4.0
 ---

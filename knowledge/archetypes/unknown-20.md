@@ -1,11 +1,7 @@
 ---
-colors:
-- W
-- U
-- B
-- R
-- G
+colors: []
 name: 'Unknown #20'
+<<<<<<< Updated upstream
 meta_share: 0.0007
 list_count: 1
 top_cards:
@@ -96,5 +92,10 @@ top_cards:
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
+=======
+meta_share: 0
+list_count: 0
+top_cards: []
+>>>>>>> Stashed changes
 ---
 Unclassified archetype, pending review.

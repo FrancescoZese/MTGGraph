@@ -25,7 +25,11 @@ archetypes:
     avg_copies: 2.0
   jeskai-control:
     weight: 1.0
+<<<<<<< Updated upstream
     avg_copies: 1.16
+=======
+    avg_copies: 1.21
+>>>>>>> Stashed changes
   affinity:
     weight: 0.9704
     avg_copies: 1.58
@@ -40,12 +44,16 @@ archetypes:
     avg_copies: 1.0
   izzet-prowess:
     weight: 1.0
+<<<<<<< Updated upstream
     avg_copies: 2.84
+=======
+    avg_copies: 2.86
+>>>>>>> Stashed changes
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
   indomitable-creativity:
-    weight: 1.0
+    weight: 0.875
     avg_copies: 1.0
   dredge:
     weight: 0.8571
@@ -55,7 +63,7 @@ archetypes:
     avg_copies: 1.88
   grixis-control:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 2.8
   eldrazi-breach:
     weight: 1.0
     avg_copies: 1.67
@@ -70,21 +78,21 @@ archetypes:
     avg_copies: 3.0
   goryo1:
     weight: 1.0
+<<<<<<< Updated upstream
     avg_copies: 1.29
   unknown-1:
     weight: 1.0
     avg_copies: 1.0
   unknown-6:
+=======
+    avg_copies: 1.33
+  izzet-murktide:
+>>>>>>> Stashed changes
     weight: 1.0
     avg_copies: 2.0
-  unknown-8:
+  4c-omnath9:
     weight: 1.0
-    avg_copies: 2.0
-  unknown-18:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-19:
-    weight: 1.0
+<<<<<<< Updated upstream
     avg_copies: 1.75
   unknown-25:
     weight: 1.0
@@ -92,4 +100,7 @@ archetypes:
   unknown-23:
     weight: 1.0
     avg_copies: 2.0
+=======
+    avg_copies: 1.5
+>>>>>>> Stashed changes
 ---
