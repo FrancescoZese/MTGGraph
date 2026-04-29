@@ -7,9 +7,9 @@ name: Vendetta
 scryfall_id: 039fc76d-3b7e-4329-a997-07c25509e421
 set: roe
 type: Instant
-meta_presence: 0.0009
+meta_presence: 0.0008
 archetypes:
   mill:
-    weight: 0.1429
+    weight: 0.125
     avg_copies: 2.0
 ---

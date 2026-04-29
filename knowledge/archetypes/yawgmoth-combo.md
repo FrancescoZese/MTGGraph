@@ -3,13 +3,13 @@ colors:
 - B
 - G
 name: Yawgmoth Combo
-meta_share: 0.0119
+meta_share: 0.0106
 list_count: 14
 top_cards:
-- name: Verdant Catacombs
+- name: Badgermole Cub
   weight: 1.0
   avg_copies: 4.0
-- name: Badgermole Cub
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
 - name: Delighted Halfling
@@ -21,16 +21,16 @@ top_cards:
 - name: Yawgmoth, Thran Physician
   weight: 1.0
   avg_copies: 3.86
-- name: Malevolent Rumble
-  weight: 1.0
-  avg_copies: 3.71
 - name: Young Wolf
   weight: 1.0
   avg_copies: 3.71
-- name: Spymaster's Vault
+- name: Malevolent Rumble
+  weight: 1.0
+  avg_copies: 3.71
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 3.0
-- name: Green Sun's Zenith
+- name: Spymaster's Vault
   weight: 1.0
   avg_copies: 3.0
 - name: Walking Ballista
@@ -66,6 +66,12 @@ top_cards:
 - name: Strangleroot Geist
   weight: 1.0
   avg_copies: 1.0
+- name: Swamp
+  weight: 1.0
+  avg_copies: 1.0
+- name: Grist, the Hunger Tide
+  weight: 1.0
+  avg_copies: 1.0
 - name: Soulless Jailer
   weight: 1.0
   avg_copies: 1.0
@@ -73,12 +79,6 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Dryad Arbor
-  weight: 1.0
-  avg_copies: 1.0
-- name: Swamp
-  weight: 1.0
-  avg_copies: 1.0
-- name: Grist, the Hunger Tide
   weight: 1.0
   avg_copies: 1.0
 - name: Windswept Heath
@@ -111,25 +111,25 @@ top_cards:
 - name: Wooded Foothills
   weight: 0.5
   avg_copies: 1.14
-- name: Scavenging Ooze
+- name: Pile On
   weight: 0.5
   avg_copies: 1.0
-- name: Pile On
+- name: Scavenging Ooze
   weight: 0.5
   avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.3571
   avg_copies: 1.0
-- name: Haywire Mite
-  weight: 0.2857
-  avg_copies: 1.0
 - name: Ignoble Hierarch
   weight: 0.2857
   avg_copies: 1.0
-- name: Kraul Harpooner
-  weight: 0.2143
+- name: Haywire Mite
+  weight: 0.2857
   avg_copies: 1.0
 - name: Hapatra, Vizier of Poisons
+  weight: 0.2143
+  avg_copies: 1.0
+- name: Kraul Harpooner
   weight: 0.2143
   avg_copies: 1.0
 - name: Culling Ritual
@@ -138,10 +138,10 @@ top_cards:
 - name: Assassin's Trophy
   weight: 0.1429
   avg_copies: 1.0
-- name: Murderous Cut
+- name: Nurturing Peatland
   weight: 0.0714
   avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Murderous Cut
   weight: 0.0714
   avg_copies: 1.0
 ---

@@ -12,8 +12,8 @@ archetypes:
     weight: 0.8462
     avg_copies: 1.18
   jeskai-control:
-    weight: 0.6875
-    avg_copies: 1.36
+    weight: 0.7222
+    avg_copies: 1.31
   bant-control:
     weight: 1.0
     avg_copies: 1.0
@@ -23,4 +23,7 @@ archetypes:
   goryo3:
     weight: 1.0
     avg_copies: 1.0
+  unknown-19:
+    weight: 0.3333
+    avg_copies: 2.0
 ---

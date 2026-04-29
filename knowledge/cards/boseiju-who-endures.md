@@ -6,25 +6,25 @@ name: Boseiju, Who Endures
 scryfall_id: 2135ac5a-187b-4dc9-8f82-34e8d1603416
 set: neo
 type: Legendary Land
-meta_presence: 0.1637
+meta_presence: 0.1648
 archetypes:
   jeskai-energy:
-    weight: 0.0118
+    weight: 0.0115
     avg_copies: 2.0
   eldrazi-tron:
-    weight: 0.0426
+    weight: 0.0588
     avg_copies: 1.0
   amulet-titan:
     weight: 1.0
-    avg_copies: 2.44
+    avg_copies: 2.47
   hardened-scales:
     weight: 1.0
     avg_copies: 1.67
   living-end:
-    weight: 0.4762
+    weight: 0.4783
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.92
+    weight: 0.9259
     avg_copies: 1.0
   kethis-combo:
     weight: 1.0
@@ -33,11 +33,11 @@ archetypes:
     weight: 1.0
     avg_copies: 1.93
   eldrazi-ramp:
-    weight: 0.1364
+    weight: 0.1111
     avg_copies: 1.0
   simic-ritual:
     weight: 1.0
-    avg_copies: 1.11
+    avg_copies: 1.18
   samwise-combo:
     weight: 1.0
     avg_copies: 2.0
@@ -46,12 +46,12 @@ archetypes:
     avg_copies: 1.0
   broodscale-combo:
     weight: 1.0
-    avg_copies: 1.75
+    avg_copies: 1.64
   dredge:
-    weight: 0.6667
-    avg_copies: 1.4
+    weight: 0.7143
+    avg_copies: 1.33
   izzet-artifacts:
-    weight: 0.08
+    weight: 0.0769
     avg_copies: 1.0
   elves:
     weight: 1.0
@@ -66,7 +66,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 1.0
   scapeshift-combo:
     weight: 1.0
@@ -78,6 +78,12 @@ archetypes:
     weight: 0.5
     avg_copies: 1.5
   selesnya-midrange:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-1:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-7:
     weight: 1.0
     avg_copies: 1.0
 ---

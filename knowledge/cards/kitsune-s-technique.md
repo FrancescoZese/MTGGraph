@@ -7,9 +7,9 @@ name: Kitsune's Technique
 scryfall_id: 9ca5327e-df90-483c-875f-73a23781f56d
 set: tmt
 type: Instant
-meta_presence: 0.0017
+meta_presence: 0.0015
 archetypes:
   mill:
-    weight: 0.2857
+    weight: 0.25
     avg_copies: 2.0
 ---

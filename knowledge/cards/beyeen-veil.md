@@ -6,9 +6,9 @@ name: Beyeen Veil // Beyeen Coast
 scryfall_id: 5f411f08-45dd-4d73-8894-daf51c175150
 set: znr
 type: Instant // Land
-meta_presence: 0.0179
+meta_presence: 0.0175
 archetypes:
   mono-blue-belcher:
-    weight: 0.8077
-    avg_copies: 1.62
+    weight: 0.7931
+    avg_copies: 1.57
 ---

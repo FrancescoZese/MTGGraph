@@ -7,9 +7,9 @@ name: Pyromancer Ascension
 scryfall_id: 0f9cea68-4390-4d73-a374-d6299cbc9271
 set: mm3
 type: Enchantment
-meta_presence: 0.0009
+meta_presence: 0.0008
 archetypes:
   ruby-storm:
-    weight: 0.0323
+    weight: 0.0286
     avg_copies: 1.0
 ---

@@ -6,7 +6,7 @@ name: Ba Sing Se
 scryfall_id: bdf3b2be-d0cd-4a3c-a10e-82d32c12d3bd
 set: tla
 type: Land
-meta_presence: 0.0009
+meta_presence: 0.0008
 archetypes:
   mono-green-stompy:
     weight: 1.0

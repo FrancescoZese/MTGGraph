@@ -7,9 +7,12 @@ name: Chandra's Incinerator
 scryfall_id: ed875705-b7b6-4464-b16f-61629ffed04f
 set: m21
 type: Creature — Elemental
-meta_presence: 0.0009
+meta_presence: 0.0015
 archetypes:
   burn:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 3.0
+  unknown-9:
+    weight: 1.0
+    avg_copies: 4.0
 ---

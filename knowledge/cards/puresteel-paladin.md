@@ -7,9 +7,9 @@ name: Puresteel Paladin
 scryfall_id: d8f8a324-006d-4cb8-9816-620a603b4229
 set: cmm
 type: Creature — Human Knight
-meta_presence: 0.0017
+meta_presence: 0.0023
 archetypes:
   hammer-time:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.0
 ---

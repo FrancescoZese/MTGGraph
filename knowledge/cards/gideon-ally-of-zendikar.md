@@ -7,9 +7,9 @@ name: Gideon, Ally of Zendikar
 scryfall_id: 187e887c-c39d-4d25-a506-cdc95fc70316
 set: bfz
 type: Legendary Planeswalker — Gideon
-meta_presence: 0.0009
+meta_presence: 0.0008
 archetypes:
   boros-ponza:
-    weight: 0.0455
+    weight: 0.0385
     avg_copies: 2.0
 ---

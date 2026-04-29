@@ -7,11 +7,11 @@ name: Street Wraith
 scryfall_id: 5d09cc57-2275-4b6b-aaf6-a6d781cd9365
 set: dmr
 type: Creature — Wraith
-meta_presence: 0.0367
+meta_presence: 0.0364
 archetypes:
   living-end:
-    weight: 0.9048
-    avg_copies: 2.63
+    weight: 0.8696
+    avg_copies: 2.6
   reanimator:
     weight: 0.0417
     avg_copies: 4.0
@@ -23,5 +23,8 @@ archetypes:
     avg_copies: 4.0
   rakdos-aggro:
     weight: 0.8333
+    avg_copies: 4.0
+  unknown-8:
+    weight: 1.0
     avg_copies: 4.0
 ---

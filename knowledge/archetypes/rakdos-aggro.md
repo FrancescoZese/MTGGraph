@@ -3,19 +3,19 @@ colors:
 - B
 - R
 name: Rakdos Aggro
-meta_share: 0.0051
+meta_share: 0.0046
 list_count: 6
 top_cards:
 - name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
 - name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
 - name: Dragon's Rage Channeler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
 - name: Blood Crypt
@@ -39,10 +39,10 @@ top_cards:
 - name: Street Wraith
   weight: 0.8333
   avg_copies: 4.0
-- name: Lightning Bolt
+- name: Bloodstained Mire
   weight: 0.8333
   avg_copies: 4.0
-- name: Bloodstained Mire
+- name: Lightning Bolt
   weight: 0.8333
   avg_copies: 4.0
 - name: Damping Sphere
@@ -63,10 +63,10 @@ top_cards:
 - name: Cori-Steel Cutter
   weight: 0.5
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Lava Dart
   weight: 0.5
   avg_copies: 4.0
-- name: Lava Dart
+- name: Thoughtseize
   weight: 0.5
   avg_copies: 4.0
 - name: Fear of Missing Out
@@ -99,34 +99,31 @@ top_cards:
 - name: Marsh Flats
   weight: 0.1667
   avg_copies: 4.0
-- name: Polluted Delta
+- name: Magebane Lizard
   weight: 0.1667
   avg_copies: 4.0
-- name: Magebane Lizard
+- name: Polluted Delta
   weight: 0.1667
   avg_copies: 4.0
 - name: Death's Shadow
   weight: 0.1667
   avg_copies: 4.0
-- name: Blood Moon
+- name: Fire-Brained Scheme
   weight: 0.1667
   avg_copies: 3.0
-- name: Fire-Brained Scheme
+- name: Blood Moon
   weight: 0.1667
   avg_copies: 3.0
 - name: Vexing Bauble
   weight: 0.1667
   avg_copies: 3.0
+- name: Seal of Fire
+  weight: 0.1667
+  avg_copies: 2.0
 - name: Sheoldred's Edict
   weight: 0.1667
   avg_copies: 2.0
 - name: Surgical Extraction
-  weight: 0.1667
-  avg_copies: 2.0
-- name: Unearth
-  weight: 0.1667
-  avg_copies: 2.0
-- name: Seal of Fire
   weight: 0.1667
   avg_copies: 2.0
 - name: Break the Ice
@@ -135,25 +132,28 @@ top_cards:
 - name: Abigale, Eloquent First-Year
   weight: 0.1667
   avg_copies: 2.0
-- name: Graveyard Trespasser
+- name: Unearth
   weight: 0.1667
-  avg_copies: 1.0
-- name: Sundering Eruption
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Verdant Catacombs
+  avg_copies: 2.0
+- name: Dreams of Steel and Oil
   weight: 0.1667
   avg_copies: 1.0
 - name: Troll of Khazad-dûm
   weight: 0.1667
   avg_copies: 1.0
-- name: Boggart Trawler
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Ob Nixilis, the Adversary
   weight: 0.1667
   avg_copies: 1.0
-- name: Dreams of Steel and Oil
+- name: Graveyard Trespasser
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Verdant Catacombs
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Sundering Eruption
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Boggart Trawler
   weight: 0.1667
   avg_copies: 1.0
 - name: Fatal Push

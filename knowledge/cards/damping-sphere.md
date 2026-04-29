@@ -6,20 +6,20 @@ name: Damping Sphere
 scryfall_id: 550860b4-887d-423a-8add-816c2a8da615
 set: dmr
 type: Artifact
-meta_presence: 0.3154
+meta_presence: 0.3189
 archetypes:
   boros-energy:
-    weight: 0.2375
-    avg_copies: 1.47
+    weight: 0.2597
+    avg_copies: 1.51
   dimir-control:
-    weight: 0.1887
+    weight: 0.1724
     avg_copies: 1.1
   jeskai-energy:
-    weight: 0.3176
-    avg_copies: 1.41
+    weight: 0.3218
+    avg_copies: 1.39
   goryo:
-    weight: 0.1136
-    avg_copies: 1.6
+    weight: 0.1176
+    avg_copies: 1.83
   hardened-scales:
     weight: 1.0
     avg_copies: 3.0
@@ -27,52 +27,52 @@ archetypes:
     weight: 0.8
     avg_copies: 2.06
   living-end:
-    weight: 0.4762
-    avg_copies: 1.1
+    weight: 0.5217
+    avg_copies: 1.08
   jeskai-control:
-    weight: 0.1875
-    avg_copies: 2.33
+    weight: 0.2222
+    avg_copies: 2.25
   affinity:
-    weight: 0.982
-    avg_copies: 2.53
+    weight: 0.9846
+    avg_copies: 2.52
   domain-zoo:
-    weight: 0.8108
-    avg_copies: 1.53
+    weight: 0.825
+    avg_copies: 1.55
   reanimator:
     weight: 0.7083
     avg_copies: 1.94
   burn:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 2.0
   mardu-blink:
-    weight: 0.8182
-    avg_copies: 1.44
+    weight: 0.8462
+    avg_copies: 1.55
   hammer-time:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 2.0
   hollow-one:
-    weight: 0.8235
-    avg_copies: 2.36
+    weight: 0.85
+    avg_copies: 2.35
   yawgmoth-combo:
     weight: 0.3571
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.1364
+    weight: 0.1111
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.1786
+    weight: 0.2353
     avg_copies: 2.0
   esper-blink:
     weight: 1.0
-    avg_copies: 2.73
+    avg_copies: 2.75
   broodscale-combo:
-    weight: 0.55
+    weight: 0.5417
     avg_copies: 2.0
   orzhov-blink:
     weight: 1.0
     avg_copies: 2.25
   dredge:
-    weight: 0.1667
+    weight: 0.1429
     avg_copies: 2.0
   elves:
     weight: 1.0
@@ -102,12 +102,15 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 2.0
   goryo4:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 2.0
   goryo7:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-3:
     weight: 1.0
     avg_copies: 2.0
 ---

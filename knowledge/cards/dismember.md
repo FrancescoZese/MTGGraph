@@ -1,42 +1,42 @@
 ---
 archetypes:
   dimir-control:
-    weight: 0.0189
+    weight: 0.0172
     avg_copies: 3.0
   eldrazi-tron:
-    weight: 0.9787
-    avg_copies: 1.83
+    weight: 0.9804
+    avg_copies: 1.84
   amulet-titan:
-    weight: 1.0
-    avg_copies: 2.25
+    weight: 0.9818
+    avg_copies: 2.22
   hardened-scales:
     weight: 1.0
     avg_copies: 1.67
   living-end:
-    weight: 0.619
-    avg_copies: 2.15
+    weight: 0.6522
+    avg_copies: 2.2
   kethis-combo:
     weight: 1.0
     avg_copies: 2.0
   eldrazi-ramp:
-    weight: 0.2273
+    weight: 0.1852
     avg_copies: 2.0
   simic-ritual:
-    weight: 0.3214
-    avg_copies: 1.67
+    weight: 0.4118
+    avg_copies: 1.72
   4c-omnath:
     weight: 0.5
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.65
-    avg_copies: 1.86
+    weight: 0.625
+    avg_copies: 1.88
   goryo4:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.5
 cmc: 3
 colors: []
 image: https://cards.scryfall.io/normal/front/3/d/3d286cf6-3e16-4941-9326-1818b1e06d69.jpg?1562261132
-meta_presence: 0.1236
+meta_presence: 0.1253
 name: Dismember
 scryfall_id: 3d286cf6-3e16-4941-9326-1818b1e06d69
 set: mm2

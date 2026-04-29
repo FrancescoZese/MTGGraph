@@ -7,9 +7,9 @@ name: The Reality Chip
 scryfall_id: d859de3a-0be1-4e66-b438-1c3d4ee756cd
 set: neo
 type: Legendary Artifact Creature — Equipment Jellyfish
-meta_presence: 0.0009
+meta_presence: 0.0008
 archetypes:
   izzet-artifacts:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 2.0
 ---

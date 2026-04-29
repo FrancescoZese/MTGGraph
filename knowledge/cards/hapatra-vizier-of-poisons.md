@@ -8,7 +8,7 @@ name: Hapatra, Vizier of Poisons
 scryfall_id: d19e17fc-ae3e-4533-ab94-70d5f2e1b8cd
 set: ecc
 type: Legendary Creature — Human Cleric
-meta_presence: 0.0026
+meta_presence: 0.0023
 archetypes:
   yawgmoth-combo:
     weight: 0.2143

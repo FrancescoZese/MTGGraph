@@ -10,6 +10,6 @@ type: Artifact Creature — Wall
 meta_presence: 0.0068
 archetypes:
   samwise-combo:
-    weight: 0.8
+    weight: 0.8182
     avg_copies: 1.0
 ---

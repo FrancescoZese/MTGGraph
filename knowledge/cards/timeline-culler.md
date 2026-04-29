@@ -7,9 +7,9 @@ name: Timeline Culler
 scryfall_id: 33410410-72f2-49c4-9e63-a72202cd075a
 set: eoe
 type: Creature — Drix Warlock
-meta_presence: 0.0009
+meta_presence: 0.0008
 archetypes:
   dredge:
-    weight: 0.1667
+    weight: 0.1429
     avg_copies: 2.0
 ---

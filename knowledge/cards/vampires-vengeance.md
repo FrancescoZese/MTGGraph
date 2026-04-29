@@ -10,6 +10,12 @@ type: Instant
 meta_presence: 0.0205
 archetypes:
   amulet-titan:
-    weight: 0.5
-    avg_copies: 2.38
+    weight: 0.4545
+    avg_copies: 2.36
+  grixis-control:
+    weight: 0.25
+    avg_copies: 1.0
+  unknown-7:
+    weight: 1.0
+    avg_copies: 1.0
 ---

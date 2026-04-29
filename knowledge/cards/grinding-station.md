@@ -6,12 +6,12 @@ name: Grinding Station
 scryfall_id: df1df511-b52c-45cd-9503-ffce4271a802
 set: 5dn
 type: Artifact
-meta_presence: 0.0068
+meta_presence: 0.0061
 archetypes:
   kethis-combo:
     weight: 1.0
     avg_copies: 3.0
   izzet-artifacts:
-    weight: 0.12
+    weight: 0.1154
     avg_copies: 3.0
 ---

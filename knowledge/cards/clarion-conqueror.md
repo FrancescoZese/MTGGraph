@@ -10,19 +10,19 @@ type: Creature — Dragon
 meta_presence: 0.0486
 archetypes:
   boros-energy:
-    weight: 0.15
-    avg_copies: 1.31
+    weight: 0.1589
+    avg_copies: 1.39
   living-end:
-    weight: 0.3333
+    weight: 0.3043
     avg_copies: 2.57
   domain-zoo:
-    weight: 0.1351
+    weight: 0.125
     avg_copies: 1.0
   mardu-blink:
-    weight: 0.0909
+    weight: 0.0769
     avg_copies: 2.0
   esper-blink:
-    weight: 0.0909
+    weight: 0.1667
     avg_copies: 2.0
   orzhov-blink:
     weight: 1.0
@@ -33,4 +33,7 @@ archetypes:
   selesnya-midrange:
     weight: 1.0
     avg_copies: 2.0
+  unknown-5:
+    weight: 1.0
+    avg_copies: 1.0
 ---

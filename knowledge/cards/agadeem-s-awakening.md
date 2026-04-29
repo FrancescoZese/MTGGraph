@@ -6,7 +6,7 @@ name: Agadeem's Awakening // Agadeem, the Undercrypt
 scryfall_id: 67f4c93b-080c-4196-b095-6a120a221988
 set: znr
 type: Sorcery // Land
-meta_presence: 0.0009
+meta_presence: 0.0008
 archetypes:
   reanimator:
     weight: 0.0417

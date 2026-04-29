@@ -10,12 +10,12 @@ type: Legendary Creature — Spirit
 meta_presence: 0.0205
 archetypes:
   boros-energy:
-    weight: 0.0042
+    weight: 0.0039
     avg_copies: 2.0
   jeskai-energy:
-    weight: 0.0471
+    weight: 0.046
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.8636
-    avg_copies: 1.89
+    weight: 0.8462
+    avg_copies: 1.86
 ---

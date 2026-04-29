@@ -7,9 +7,9 @@ name: Exquisite Firecraft
 scryfall_id: 42eca98e-a164-4f70-a0b0-7a604863f30b
 set: ori
 type: Sorcery
-meta_presence: 0.0017
+meta_presence: 0.0015
 archetypes:
   burn:
-    weight: 0.5
+    weight: 0.4
     avg_copies: 1.5
 ---

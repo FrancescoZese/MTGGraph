@@ -10,10 +10,10 @@ type: Creature — Elemental
 meta_presence: 0.0213
 archetypes:
   dimir-control:
-    weight: 0.0377
+    weight: 0.0345
     avg_copies: 4.0
   hollow-one:
-    weight: 0.9412
+    weight: 0.95
     avg_copies: 4.0
   grixis-shadow:
     weight: 1.0

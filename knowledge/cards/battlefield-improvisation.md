@@ -7,9 +7,9 @@ name: Battlefield Improvisation
 scryfall_id: d2cf2cd1-f7b3-4a23-a23a-6eb0af5451cf
 set: acr
 type: Instant
-meta_presence: 0.0017
+meta_presence: 0.0023
 archetypes:
   hammer-time:
     weight: 1.0
-    avg_copies: 3.5
+    avg_copies: 3.67
 ---
