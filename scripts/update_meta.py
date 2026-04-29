@@ -66,17 +66,33 @@ def find_new_events(since: str, ingested: set[tuple[str, str]],
     events = []
     seen = set()
 
-    # Strategy 1: Parse the MTGO decklists page
-    print("Fetching MTGO decklists page...", flush=True)
-    try:
+    # Strategy 1: Parse the MTGO decklists page (with retry)
+    import time
+    resp = None
+    for attempt in range(3):
+        print(f"Fetching MTGO decklists page (attempt {attempt + 1}/3)...", flush=True)
         try:
-            import cloudscraper
-            scraper = cloudscraper.create_scraper()
-            resp = scraper.get(MTGO_DECKLISTS_URL, timeout=90)
-        except ImportError:
-            resp = requests.get(MTGO_DECKLISTS_URL, timeout=90)
-        resp.raise_for_status()
-        print(f"  Got {len(resp.text)} bytes", flush=True)
+            try:
+                import cloudscraper
+                scraper = cloudscraper.create_scraper()
+                resp = scraper.get(MTGO_DECKLISTS_URL, timeout=90)
+            except ImportError:
+                resp = requests.get(MTGO_DECKLISTS_URL, timeout=90)
+            resp.raise_for_status()
+            print(f"  Got {len(resp.text)} bytes", flush=True)
+            break
+        except requests.exceptions.RequestException as e:
+            print(f"  Attempt {attempt + 1} failed: {e}", flush=True)
+            if attempt < 2:
+                wait = 30 * (attempt + 1)
+                print(f"  Retrying in {wait}s...", flush=True)
+                time.sleep(wait)
+            else:
+                print(f"  WARNING: All attempts failed to fetch decklists page", flush=True)
+
+    try:
+        if resp is None:
+            raise requests.exceptions.ConnectionError("All retry attempts failed")
 
         pattern = r"/decklist/(modern-(challenge|league)[\w-]+)"
         matches = re.findall(pattern, resp.text)
