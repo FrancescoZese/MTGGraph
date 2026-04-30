@@ -4,7 +4,7 @@ colors:
 - B
 - G
 name: Living End
-meta_share: 0.0181
+meta_share: 0.0177
 list_count: 25
 top_cards:
 - name: Endurance
@@ -13,10 +13,10 @@ top_cards:
 - name: Force of Negation
   weight: 1.0
   avg_copies: 3.92
-- name: Subtlety
+- name: Shardless Agent
   weight: 1.0
   avg_copies: 3.88
-- name: Shardless Agent
+- name: Subtlety
   weight: 1.0
   avg_copies: 3.88
 - name: Misty Rainforest
@@ -37,13 +37,13 @@ top_cards:
 - name: Hedge Maze
   weight: 1.0
   avg_copies: 1.04
-- name: Forest
-  weight: 1.0
-  avg_copies: 1.0
 - name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Breeding Pool
+  weight: 1.0
+  avg_copies: 1.0
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -100,10 +100,10 @@ top_cards:
 - name: Deceit
   weight: 0.6
   avg_copies: 1.4
-- name: Harvester of Misery
+- name: Damping Sphere
   weight: 0.56
   avg_copies: 1.07
-- name: Damping Sphere
+- name: Harvester of Misery
   weight: 0.56
   avg_copies: 1.07
 - name: Flooded Grove
@@ -118,10 +118,10 @@ top_cards:
 - name: Troll of Khazad-dûm
   weight: 0.48
   avg_copies: 1.75
-- name: Disciple of Freyalise
+- name: Boseiju, Who Endures
   weight: 0.44
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Disciple of Freyalise
   weight: 0.44
   avg_copies: 1.0
 - name: Force of Vigor
@@ -148,16 +148,16 @@ top_cards:
 - name: Clarion Conqueror
   weight: 0.28
   avg_copies: 2.57
-- name: Kavaero, Mind-Bitten
+- name: Hallowed Fountain
   weight: 0.28
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Meticulous Archive
   weight: 0.28
   avg_copies: 1.0
 - name: Flare of Denial
   weight: 0.28
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Kavaero, Mind-Bitten
   weight: 0.28
   avg_copies: 1.0
 - name: Striped Riverwinder
@@ -187,43 +187,43 @@ top_cards:
 - name: Rough
   weight: 0.04
   avg_copies: 4.0
-- name: Oliphaunt
-  weight: 0.04
-  avg_copies: 3.0
 - name: Atraxa, Grand Unifier
   weight: 0.04
   avg_copies: 3.0
-- name: Fulminator Mage
+- name: Oliphaunt
   weight: 0.04
-  avg_copies: 2.0
-- name: Flooded Strand
-  weight: 0.04
-  avg_copies: 2.0
-- name: Verdant Catacombs
-  weight: 0.04
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Steam Vents
   weight: 0.04
   avg_copies: 2.0
 - name: Titanoth Rex
   weight: 0.04
   avg_copies: 2.0
-- name: Press the Enemy
+- name: Fulminator Mage
+  weight: 0.04
+  avg_copies: 2.0
+- name: Verdant Catacombs
+  weight: 0.04
+  avg_copies: 2.0
+- name: Flooded Strand
+  weight: 0.04
+  avg_copies: 2.0
+- name: Sunken Ruins
   weight: 0.04
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Press the Enemy
   weight: 0.04
   avg_copies: 1.0
 - name: Murderous Cut
   weight: 0.04
   avg_copies: 1.0
-- name: Sunken Ruins
-  weight: 0.04
-  avg_copies: 1.0
-- name: Windcaller Aven
+- name: Stomping Ground
   weight: 0.04
   avg_copies: 1.0
 - name: Collector Ouphe
+  weight: 0.04
+  avg_copies: 1.0
+- name: Windcaller Aven
   weight: 0.04
   avg_copies: 1.0
 ---

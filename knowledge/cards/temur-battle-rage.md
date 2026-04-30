@@ -7,9 +7,9 @@ name: Temur Battle Rage
 scryfall_id: 375bc646-942e-4bf5-9c71-2c5471828e35
 set: cmm
 type: Instant
-meta_presence: 0.0014
+meta_presence: 0.0021
 archetypes:
   cosmogoyf-fling:
-    weight: 0.1818
-    avg_copies: 3.5
+    weight: 0.25
+    avg_copies: 3.33
 ---

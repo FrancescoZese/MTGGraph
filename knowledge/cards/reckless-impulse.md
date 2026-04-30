@@ -7,9 +7,12 @@ name: Reckless Impulse
 scryfall_id: 6943c07f-ab0d-4f5a-bbe9-c0a83dc98546
 set: vow
 type: Sorcery
-meta_presence: 0.026
+meta_presence: 0.0269
 archetypes:
   ruby-storm:
     weight: 1.0
     avg_copies: 4.0
+  unknown-2:
+    weight: 1.0
+    avg_copies: 3.0
 ---

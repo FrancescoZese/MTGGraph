@@ -10,6 +10,6 @@ type: Enchantment
 meta_presence: 0.0007
 archetypes:
   goryo:
-    weight: 0.0179
+    weight: 0.0175
     avg_copies: 1.0
 ---

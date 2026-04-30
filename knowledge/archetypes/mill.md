@@ -3,16 +3,16 @@ colors:
 - U
 - B
 name: Mill
-meta_share: 0.0058
+meta_share: 0.0057
 list_count: 8
 top_cards:
-- name: Archive Trap
+- name: Ruin Crab
   weight: 1.0
   avg_copies: 4.0
 - name: Hedron Crab
   weight: 1.0
   avg_copies: 4.0
-- name: Ruin Crab
+- name: Archive Trap
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -63,10 +63,10 @@ top_cards:
 - name: Scalding Tarn
   weight: 0.75
   avg_copies: 1.17
-- name: Otawara, Soaring City
+- name: Shelldock Isle
   weight: 0.75
   avg_copies: 1.0
-- name: Shelldock Isle
+- name: Otawara, Soaring City
   weight: 0.75
   avg_copies: 1.0
 - name: Island
@@ -90,10 +90,10 @@ top_cards:
 - name: Glimpse the Unthinkable
   weight: 0.5
   avg_copies: 2.0
-- name: Toxic Deluge
+- name: Snow-Covered Swamp
   weight: 0.5
   avg_copies: 1.5
-- name: Snow-Covered Swamp
+- name: Toxic Deluge
   weight: 0.5
   avg_copies: 1.5
 - name: Swamp
@@ -108,97 +108,97 @@ top_cards:
 - name: Ghost Quarter
   weight: 0.375
   avg_copies: 2.0
+- name: Crypt Incursion
+  weight: 0.375
+  avg_copies: 1.0
 - name: Murderous Cut
   weight: 0.375
   avg_copies: 1.0
 - name: The Meathook Massacre
   weight: 0.375
   avg_copies: 1.0
-- name: Crypt Incursion
-  weight: 0.375
-  avg_copies: 1.0
 - name: Exhibition Tidecaller
   weight: 0.25
   avg_copies: 3.5
-- name: Tamiyo, Inquisitive Student
+- name: Kitsune's Technique
   weight: 0.25
   avg_copies: 2.0
-- name: Kitsune's Technique
+- name: Tamiyo, Inquisitive Student
   weight: 0.25
   avg_copies: 2.0
 - name: Force of Negation
   weight: 0.25
   avg_copies: 1.5
+- name: Damnation
+  weight: 0.25
+  avg_copies: 1.0
 - name: Echoing Truth
   weight: 0.25
   avg_copies: 1.0
 - name: Cephalid Coliseum
   weight: 0.25
   avg_copies: 1.0
-- name: Damnation
+- name: Baleful Mastery
   weight: 0.25
   avg_copies: 1.0
 - name: Mikokoro, Center of the Sea
   weight: 0.25
   avg_copies: 1.0
-- name: Baleful Mastery
-  weight: 0.25
-  avg_copies: 1.0
-- name: White Orchid Phantom
-  weight: 0.125
-  avg_copies: 4.0
-- name: Erode
+- name: Path to Exile
   weight: 0.125
   avg_copies: 4.0
 - name: Trapmaker's Snare
   weight: 0.125
   avg_copies: 4.0
-- name: Path to Exile
+- name: Erode
   weight: 0.125
   avg_copies: 4.0
-- name: Vendetta
+- name: White Orchid Phantom
   weight: 0.125
-  avg_copies: 2.0
+  avg_copies: 4.0
 - name: Flare of Denial
   weight: 0.125
   avg_copies: 2.0
 - name: Chalice of the Void
   weight: 0.125
   avg_copies: 2.0
-- name: Subtlety
+- name: Vendetta
   weight: 0.125
-  avg_copies: 1.0
-- name: Illness in the Ranks
-  weight: 0.125
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Sink into Stupor
-  weight: 0.125
-  avg_copies: 1.0
-- name: Ravenous Trap
-  weight: 0.125
-  avg_copies: 1.0
-- name: Go for the Throat
   weight: 0.125
   avg_copies: 1.0
 - name: Nihil Spellbomb
   weight: 0.125
   avg_copies: 1.0
-- name: Long Goodbye
-  weight: 0.125
-  avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Darkslick Shores
   weight: 0.125
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.125
   avg_copies: 1.0
-- name: Darkslick Shores
+- name: Ravenous Trap
+  weight: 0.125
+  avg_copies: 1.0
+- name: Subtlety
+  weight: 0.125
+  avg_copies: 1.0
+- name: Go for the Throat
+  weight: 0.125
+  avg_copies: 1.0
+- name: Illness in the Ranks
   weight: 0.125
   avg_copies: 1.0
 - name: Mindbreak Trap
   weight: 0.125
   avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 0.125
+  avg_copies: 1.0
 - name: Plains
+  weight: 0.125
+  avg_copies: 1.0
+- name: Long Goodbye
   weight: 0.125
   avg_copies: 1.0
 ---

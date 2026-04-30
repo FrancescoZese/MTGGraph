@@ -9,6 +9,6 @@ type: Sorcery // Land
 meta_presence: 0.0007
 archetypes:
   neoform-combo:
-    weight: 0.0357
+    weight: 0.0345
     avg_copies: 1.0
 ---

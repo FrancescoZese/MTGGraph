@@ -9,22 +9,22 @@ type: Enchantment — Saga // Enchantment Creature — Goblin Shaman
 meta_presence: 0.1187
 archetypes:
   boros-energy:
-    weight: 0.3346
-    avg_copies: 1.79
+    weight: 0.337
+    avg_copies: 1.78
   jeskai-energy:
-    weight: 0.4556
-    avg_copies: 1.9
+    weight: 0.4674
+    avg_copies: 1.93
   jeskai-control:
-    weight: 0.1304
+    weight: 0.125
     avg_copies: 3.67
   domain-zoo:
-    weight: 0.0444
+    weight: 0.0426
     avg_copies: 1.0
   mardu-blink:
     weight: 0.8
     avg_copies: 1.83
   boros-ponza:
-    weight: 0.0312
+    weight: 0.0303
     avg_copies: 3.0
   4c-omnath:
     weight: 0.25

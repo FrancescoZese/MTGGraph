@@ -10,20 +10,20 @@ type: Creature — Elemental Incarnation
 meta_presence: 0.0933
 archetypes:
   goryo:
-    weight: 0.0357
+    weight: 0.0351
     avg_copies: 1.25
   living-end:
     weight: 1.0
     avg_copies: 4.0
   neoform-combo:
-    weight: 0.7857
+    weight: 0.7586
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 1.0
   simic-ritual:
     weight: 1.0
-    avg_copies: 1.63
+    avg_copies: 1.65
   4c-omnath:
     weight: 0.5
     avg_copies: 1.5

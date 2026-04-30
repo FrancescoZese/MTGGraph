@@ -7,7 +7,7 @@ name: Emeritus of Conflict // Lightning Bolt
 scryfall_id: f58dba4f-1abb-47a3-a684-29c32bab95c0
 set: sos
 type: Creature — Human Wizard // Instant
-meta_presence: 0.0022
+meta_presence: 0.0021
 archetypes:
   izzet-artifacts:
     weight: 0.1154

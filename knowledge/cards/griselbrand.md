@@ -11,8 +11,8 @@ meta_presence: 0.0601
 archetypes:
   goryo:
     weight: 1.0
-    avg_copies: 1.18
+    avg_copies: 1.19
   neoform-combo:
-    weight: 0.9643
+    weight: 0.9655
     avg_copies: 1.0
 ---

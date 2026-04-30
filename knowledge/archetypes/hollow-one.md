@@ -3,19 +3,19 @@ colors:
 - B
 - R
 name: Hollow One
-meta_share: 0.0145
+meta_share: 0.0141
 list_count: 20
 top_cards:
-- name: Faithless Looting
-  weight: 1.0
-  avg_copies: 4.0
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
-- name: Hollow One
+- name: Burning Inquiry
   weight: 1.0
   avg_copies: 4.0
-- name: Burning Inquiry
+- name: Faithless Looting
+  weight: 1.0
+  avg_copies: 4.0
+- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
 - name: Detective's Phoenix
@@ -111,22 +111,22 @@ top_cards:
 - name: Unholy Heat
   weight: 0.25
   avg_copies: 2.0
-- name: Polluted Delta
-  weight: 0.2
-  avg_copies: 1.0
 - name: Murderous Cut
   weight: 0.2
   avg_copies: 1.0
-- name: Vengevine
-  weight: 0.15
-  avg_copies: 4.0
+- name: Polluted Delta
+  weight: 0.2
+  avg_copies: 1.0
 - name: Blazing Rootwalla
   weight: 0.15
   avg_copies: 4.0
-- name: Tarfire
+- name: Vengevine
+  weight: 0.15
+  avg_copies: 4.0
+- name: Cool but Rude
   weight: 0.15
   avg_copies: 2.0
-- name: Cool but Rude
+- name: Tarfire
   weight: 0.15
   avg_copies: 2.0
 - name: Stomping Ground
@@ -144,15 +144,12 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 0.1
   avg_copies: 2.0
-- name: Ox of Agonas
-  weight: 0.1
-  avg_copies: 1.5
 - name: Blood Moon
   weight: 0.1
   avg_copies: 1.5
-- name: Commercial District
+- name: Ox of Agonas
   weight: 0.1
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Violent Urge
   weight: 0.1
   avg_copies: 1.0
@@ -162,40 +159,43 @@ top_cards:
 - name: Blackcleave Cliffs
   weight: 0.1
   avg_copies: 1.0
-- name: Rough
+- name: Commercial District
+  weight: 0.1
+  avg_copies: 1.0
+- name: Magebane Lizard
   weight: 0.05
   avg_copies: 2.0
 - name: Flameblade Adept
   weight: 0.05
   avg_copies: 2.0
-- name: Magebane Lizard
-  weight: 0.05
-  avg_copies: 2.0
-- name: Pyroclasm
-  weight: 0.05
-  avg_copies: 2.0
 - name: Cam and Farrik, Havoc Duo
   weight: 0.05
   avg_copies: 2.0
-- name: Magus of the Moon
+- name: Rough
   weight: 0.05
   avg_copies: 2.0
 - name: Ancient Grudge
   weight: 0.05
   avg_copies: 2.0
+- name: Magus of the Moon
+  weight: 0.05
+  avg_copies: 2.0
+- name: Pyroclasm
+  weight: 0.05
+  avg_copies: 2.0
 - name: Shattering Spree
   weight: 0.05
   avg_copies: 1.0
-- name: Barbarian Ring
-  weight: 0.05
-  avg_copies: 1.0
-- name: Seal of Fire
+- name: Liliana of the Veil
   weight: 0.05
   avg_copies: 1.0
 - name: Overlord of the Balemurk
   weight: 0.05
   avg_copies: 1.0
-- name: Liliana of the Veil
+- name: Seal of Fire
+  weight: 0.05
+  avg_copies: 1.0
+- name: Barbarian Ring
   weight: 0.05
   avg_copies: 1.0
 ---

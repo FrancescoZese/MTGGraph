@@ -10,6 +10,6 @@ type: Creature — Human Scout
 meta_presence: 0.0014
 archetypes:
   amulet-titan:
-    weight: 0.0351
+    weight: 0.0333
     avg_copies: 1.0
 ---

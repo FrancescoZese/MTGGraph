@@ -8,13 +8,13 @@ name: Teferi, Hero of Dominaria
 scryfall_id: 5d10b752-d9cb-419d-a5c4-d4ee1acb655e
 set: dom
 type: Legendary Planeswalker — Teferi
-meta_presence: 0.0123
+meta_presence: 0.012
 archetypes:
   azorius-control:
     weight: 0.5385
     avg_copies: 1.57
   jeskai-control:
-    weight: 0.3913
+    weight: 0.375
     avg_copies: 1.0
   esper-control:
     weight: 1.0

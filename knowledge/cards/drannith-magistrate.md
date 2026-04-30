@@ -7,28 +7,28 @@ name: Drannith Magistrate
 scryfall_id: 98b0a4a8-9319-451b-9b79-b0bca7a41e91
 set: iko
 type: Creature — Human Wizard
-meta_presence: 0.0181
+meta_presence: 0.0177
 archetypes:
   boros-energy:
-    weight: 0.0038
+    weight: 0.0037
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.1
+    weight: 0.0978
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.0189
+    weight: 0.0185
     avg_copies: 1.0
   goryo:
-    weight: 0.125
+    weight: 0.1228
     avg_copies: 1.0
   living-end:
     weight: 0.08
     avg_copies: 1.5
   jeskai-control:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 2.0
   domain-zoo:
-    weight: 0.0222
+    weight: 0.0213
     avg_copies: 2.0
   kethis-combo:
     weight: 0.2

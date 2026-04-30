@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: Dimir Control
-meta_share: 0.0449
+meta_share: 0.0438
 list_count: 62
 top_cards:
 - name: Counterspell
@@ -21,10 +21,10 @@ top_cards:
 - name: Watery Grave
   weight: 1.0
   avg_copies: 2.68
-- name: Undercity Sewers
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.23
-- name: Mystical Dispute
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 2.23
 - name: Orcish Bowmasters
@@ -204,19 +204,19 @@ top_cards:
 - name: Flame of Anor
   weight: 0.0323
   avg_copies: 3.5
-- name: Tasigur, the Golden Fang
-  weight: 0.0323
-  avg_copies: 2.0
 - name: Thraben Charm
   weight: 0.0323
   avg_copies: 2.0
-- name: Thundering Falls
+- name: Tasigur, the Golden Fang
+  weight: 0.0323
+  avg_copies: 2.0
+- name: Shoot the Sheriff
   weight: 0.0323
   avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.0323
   avg_copies: 1.0
-- name: Anoint with Affliction
+- name: Thundering Falls
   weight: 0.0323
   avg_copies: 1.0
 - name: Prismatic Ending
@@ -225,7 +225,7 @@ top_cards:
 - name: Vanishing Verse
   weight: 0.0323
   avg_copies: 1.0
-- name: Shoot the Sheriff
+- name: Anoint with Affliction
   weight: 0.0323
   avg_copies: 1.0
 - name: Snow-Covered Island
@@ -234,70 +234,70 @@ top_cards:
 - name: Consider
   weight: 0.0161
   avg_copies: 4.0
-- name: Dress Down
-  weight: 0.0161
-  avg_copies: 3.0
 - name: Fallen Shinobi
   weight: 0.0161
   avg_copies: 3.0
-- name: Shadow of Doubt
+- name: Dress Down
   weight: 0.0161
   avg_copies: 3.0
 - name: Dismember
   weight: 0.0161
   avg_copies: 3.0
-- name: Lightning Bolt
+- name: Shadow of Doubt
   weight: 0.0161
-  avg_copies: 2.0
-- name: Cryptic Command
-  weight: 0.0161
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: End of the Hunt
   weight: 0.0161
   avg_copies: 2.0
-- name: Dauthi Voidwalker
+- name: Lightning Bolt
   weight: 0.0161
   avg_copies: 2.0
 - name: Emperor of Bones
   weight: 0.0161
   avg_copies: 2.0
-- name: Stony Silence
+- name: Cryptic Command
   weight: 0.0161
   avg_copies: 2.0
-- name: Strix Serenade
+- name: Dauthi Voidwalker
+  weight: 0.0161
+  avg_copies: 2.0
+- name: Stony Silence
   weight: 0.0161
   avg_copies: 2.0
 - name: Archmage's Charm
   weight: 0.0161
   avg_copies: 2.0
+- name: Strix Serenade
+  weight: 0.0161
+  avg_copies: 2.0
 - name: Hurkyl's Recall
   weight: 0.0161
   avg_copies: 2.0
-- name: Lórien Revealed
-  weight: 0.0161
-  avg_copies: 1.0
-- name: Exorcise
+- name: Sunken Ruins
   weight: 0.0161
   avg_copies: 1.0
 - name: Dreams of Steel and Oil
   weight: 0.0161
   avg_copies: 1.0
+- name: Takenuma, Abandoned Mire
+  weight: 0.0161
+  avg_copies: 1.0
 - name: Snow-Covered Swamp
-  weight: 0.0161
-  avg_copies: 1.0
-- name: Sunken Ruins
-  weight: 0.0161
-  avg_copies: 1.0
-- name: Jace, the Mind Sculptor
-  weight: 0.0161
-  avg_copies: 1.0
-- name: Sphinx's Revelation
   weight: 0.0161
   avg_copies: 1.0
 - name: Hall of Storm Giants
   weight: 0.0161
   avg_copies: 1.0
-- name: Takenuma, Abandoned Mire
+- name: Jace, the Mind Sculptor
+  weight: 0.0161
+  avg_copies: 1.0
+- name: Exorcise
+  weight: 0.0161
+  avg_copies: 1.0
+- name: Lórien Revealed
+  weight: 0.0161
+  avg_copies: 1.0
+- name: Sphinx's Revelation
   weight: 0.0161
   avg_copies: 1.0
 ---

@@ -4,13 +4,13 @@ colors:
 - B
 - R
 name: Mardu Blink
-meta_share: 0.0109
+meta_share: 0.0106
 list_count: 15
 top_cards:
-- name: Solitude
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
-- name: Overlord of the Balemurk
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Phlage, Titan of Fire's Fury
@@ -49,6 +49,9 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.07
+- name: Sacred Foundry
+  weight: 1.0
+  avg_copies: 1.0
 - name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
@@ -56,9 +59,6 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Blood Crypt
-  weight: 1.0
-  avg_copies: 1.0
-- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
 - name: Galvanic Discharge
@@ -103,10 +103,10 @@ top_cards:
 - name: Snow-Covered Plains
   weight: 0.6667
   avg_copies: 1.4
-- name: Boggart Trawler
+- name: Snow-Covered Mountain
   weight: 0.6667
   avg_copies: 1.0
-- name: Snow-Covered Mountain
+- name: Boggart Trawler
   weight: 0.6667
   avg_copies: 1.0
 - name: Emperor of Bones
@@ -136,10 +136,10 @@ top_cards:
 - name: Unholy Heat
   weight: 0.0667
   avg_copies: 3.0
-- name: Clarion Conqueror
+- name: March of Otherworldly Light
   weight: 0.0667
   avg_copies: 2.0
-- name: March of Otherworldly Light
+- name: Clarion Conqueror
   weight: 0.0667
   avg_copies: 2.0
 - name: The Legend of Roku
@@ -148,16 +148,16 @@ top_cards:
 - name: Magus of the Moon
   weight: 0.0667
   avg_copies: 2.0
-- name: Faerie Macabre
+- name: Nihil Spellbomb
   weight: 0.0667
   avg_copies: 1.0
 - name: Emptiness
   weight: 0.0667
   avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Swamp
   weight: 0.0667
   avg_copies: 1.0
-- name: Swamp
+- name: Faerie Macabre
   weight: 0.0667
   avg_copies: 1.0
 - name: Pest Control

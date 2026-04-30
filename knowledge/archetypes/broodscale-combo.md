@@ -3,22 +3,22 @@ colors:
 - R
 - G
 name: Broodscale Combo
-meta_share: 0.0181
+meta_share: 0.0177
 list_count: 25
 top_cards:
-- name: Basking Broodscale
-  weight: 1.0
-  avg_copies: 4.0
-- name: Grove of the Burnwillows
-  weight: 1.0
-  avg_copies: 4.0
 - name: Kozilek's Command
+  weight: 1.0
+  avg_copies: 4.0
+- name: Urza's Saga
+  weight: 1.0
+  avg_copies: 4.0
+- name: Basking Broodscale
   weight: 1.0
   avg_copies: 4.0
 - name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Saga
+- name: Grove of the Burnwillows
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
@@ -45,13 +45,13 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.43
+- name: Springleaf Drum
+  weight: 1.0
+  avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 1.0
 - name: Haywire Mite
-  weight: 1.0
-  avg_copies: 1.0
-- name: Springleaf Drum
   weight: 1.0
   avg_copies: 1.0
 - name: Walking Ballista
@@ -60,13 +60,13 @@ top_cards:
 - name: Ancient Stirrings
   weight: 0.92
   avg_copies: 3.96
+- name: Grafdigger's Cage
+  weight: 0.84
+  avg_copies: 1.0
 - name: Pithing Needle
   weight: 0.84
   avg_copies: 1.0
 - name: Gemstone Caverns
-  weight: 0.84
-  avg_copies: 1.0
-- name: Grafdigger's Cage
   weight: 0.84
   avg_copies: 1.0
 - name: Cavern of Souls
@@ -75,19 +75,19 @@ top_cards:
 - name: Dismember
   weight: 0.6
   avg_copies: 1.88
-- name: Damping Sphere
+- name: Nature's Claim
   weight: 0.56
   avg_copies: 2.0
-- name: Nature's Claim
+- name: Damping Sphere
   weight: 0.56
   avg_copies: 2.0
 - name: Unholy Heat
   weight: 0.56
   avg_copies: 1.9
-- name: Commercial District
+- name: Stomping Ground
   weight: 0.56
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Commercial District
   weight: 0.56
   avg_copies: 1.0
 - name: Warping Wail

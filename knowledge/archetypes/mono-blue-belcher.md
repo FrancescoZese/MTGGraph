@@ -2,7 +2,7 @@
 colors:
 - U
 name: Mono Blue Belcher
-meta_share: 0.021
+meta_share: 0.0205
 list_count: 29
 top_cards:
 - name: Sink into Stupor
@@ -11,19 +11,19 @@ top_cards:
 - name: Whir of Invention
   weight: 1.0
   avg_copies: 4.0
-- name: Goblin Charbelcher
-  weight: 1.0
-  avg_copies: 4.0
 - name: Lotus Bloom
   weight: 1.0
   avg_copies: 4.0
+- name: Goblin Charbelcher
+  weight: 1.0
+  avg_copies: 4.0
+- name: Disrupting Shoal
+  weight: 1.0
+  avg_copies: 3.97
 - name: Suppression Ray
   weight: 1.0
   avg_copies: 3.97
 - name: Tameshi, Reality Architect
-  weight: 1.0
-  avg_copies: 3.97
-- name: Disrupting Shoal
   weight: 1.0
   avg_copies: 3.97
 - name: Sea Gate Restoration
@@ -80,10 +80,10 @@ top_cards:
 - name: Flusterstorm
   weight: 0.4828
   avg_copies: 1.71
-- name: Strix Serenade
+- name: Island
   weight: 0.4828
   avg_copies: 1.0
-- name: Island
+- name: Strix Serenade
   weight: 0.4828
   avg_copies: 1.0
 - name: Hurkyl's Recall
@@ -92,10 +92,10 @@ top_cards:
 - name: Unable to Scream
   weight: 0.4483
   avg_copies: 1.46
-- name: Spell Pierce
+- name: Grafdigger's Cage
   weight: 0.3103
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Spell Pierce
   weight: 0.3103
   avg_copies: 1.0
 - name: Counterspell
@@ -131,9 +131,6 @@ top_cards:
 - name: Witch Enchanter
   weight: 0.0345
   avg_copies: 1.0
-- name: Portable Hole
-  weight: 0.0345
-  avg_copies: 1.0
 - name: Displacement Wave
   weight: 0.0345
   avg_copies: 1.0
@@ -141,6 +138,9 @@ top_cards:
   weight: 0.0345
   avg_copies: 1.0
 - name: Hope of Ghirapur
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Portable Hole
   weight: 0.0345
   avg_copies: 1.0
 ---

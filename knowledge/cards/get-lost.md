@@ -7,13 +7,13 @@ name: Get Lost
 scryfall_id: 522aa72b-2b8c-484c-872b-f082101cee35
 set: lci
 type: Instant
-meta_presence: 0.0029
+meta_presence: 0.0028
 archetypes:
   jeskai-control:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.0625
+    weight: 0.0606
     avg_copies: 3.0
   goryo6:
     weight: 1.0

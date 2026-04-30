@@ -2,22 +2,22 @@
 colors:
 - G
 name: Hardened Scales
-meta_share: 0.0022
+meta_share: 0.0021
 list_count: 3
 top_cards:
 - name: Hardened Scales
-  weight: 1.0
-  avg_copies: 4.0
-- name: Zabaz, the Glimmerwasp
-  weight: 1.0
-  avg_copies: 4.0
-- name: Walking Ballista
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Inkmoth Nexus
+  weight: 1.0
+  avg_copies: 4.0
+- name: Walking Ballista
+  weight: 1.0
+  avg_copies: 4.0
+- name: Zabaz, the Glimmerwasp
   weight: 1.0
   avg_copies: 4.0
 - name: Arcbound Ravager
@@ -44,22 +44,22 @@ top_cards:
 - name: Arcbound Worker
   weight: 1.0
   avg_copies: 2.0
-- name: Welding Jar
+- name: Dismember
   weight: 1.0
   avg_copies: 1.67
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.67
-- name: Dismember
+- name: Welding Jar
   weight: 1.0
   avg_copies: 1.67
 - name: Nature's Claim
   weight: 1.0
   avg_copies: 1.67
-- name: The Ozolith
+- name: Grafdigger's Cage
   weight: 1.0
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: The Ozolith
   weight: 1.0
   avg_copies: 1.0
 - name: Grove of the Burnwillows
@@ -74,10 +74,10 @@ top_cards:
 - name: Strength of Will
   weight: 0.6667
   avg_copies: 2.0
-- name: The Ooze
+- name: Tamiyo's Safekeeping
   weight: 0.6667
   avg_copies: 1.5
-- name: Tamiyo's Safekeeping
+- name: The Ooze
   weight: 0.6667
   avg_copies: 1.5
 - name: Pithing Needle
@@ -89,22 +89,22 @@ top_cards:
 - name: Veil of Summer
   weight: 0.6667
   avg_copies: 1.0
-- name: Haywire Mite
-  weight: 0.6667
-  avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 0.6667
   avg_copies: 1.0
 - name: Pendelhaven
   weight: 0.6667
   avg_copies: 1.0
+- name: Haywire Mite
+  weight: 0.6667
+  avg_copies: 1.0
 - name: Karplusan Forest
   weight: 0.3333
   avg_copies: 4.0
-- name: Metallic Mimic
+- name: Marketback Walker
   weight: 0.3333
   avg_copies: 4.0
-- name: Marketback Walker
+- name: Metallic Mimic
   weight: 0.3333
   avg_copies: 4.0
 - name: Ancient Stirrings
@@ -113,10 +113,10 @@ top_cards:
 - name: Terrasymbiosis
   weight: 0.3333
   avg_copies: 1.5
-- name: Shadowspear
+- name: Heroic Intervention
   weight: 0.3333
   avg_copies: 1.0
-- name: Heroic Intervention
+- name: Scrapyard Recombiner
   weight: 0.3333
   avg_copies: 1.0
 - name: Force of Vigor
@@ -125,7 +125,7 @@ top_cards:
 - name: Bridgeworks Battle
   weight: 0.3333
   avg_copies: 1.0
-- name: Scrapyard Recombiner
+- name: Shadowspear
   weight: 0.3333
   avg_copies: 1.0
 ---

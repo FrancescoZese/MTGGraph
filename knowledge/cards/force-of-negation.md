@@ -7,7 +7,7 @@ name: Force of Negation
 scryfall_id: 1825a719-1b2a-4af9-9cd2-7cb497cd0317
 set: 2x2
 type: Instant
-meta_presence: 0.2467
+meta_presence: 0.2466
 archetypes:
   dimir-control:
     weight: 0.9839
@@ -16,10 +16,10 @@ archetypes:
     weight: 0.8966
     avg_copies: 1.52
   jeskai-energy:
-    weight: 0.2222
+    weight: 0.2283
     avg_copies: 1.05
   goryo:
-    weight: 0.9643
+    weight: 0.9649
     avg_copies: 2.09
   azorius-control:
     weight: 0.3846
@@ -28,11 +28,11 @@ archetypes:
     weight: 1.0
     avg_copies: 3.92
   jeskai-control:
-    weight: 0.6522
+    weight: 0.6667
     avg_copies: 1.06
   affinity:
-    weight: 0.363
-    avg_copies: 1.8
+    weight: 0.3643
+    avg_copies: 1.76
   mill:
     weight: 0.25
     avg_copies: 1.5
@@ -46,13 +46,13 @@ archetypes:
     weight: 1.0
     avg_copies: 2.39
   izzet-prowess:
-    weight: 0.1034
-    avg_copies: 1.33
+    weight: 0.1167
+    avg_copies: 1.29
   4c-omnath:
     weight: 0.75
     avg_copies: 1.8
   esper-blink:
-    weight: 0.0833
+    weight: 0.0769
     avg_copies: 4.0
   izzet-artifacts:
     weight: 0.8462
