@@ -7,7 +7,7 @@ name: Past in Flames
 scryfall_id: 2b7472f4-37b0-439f-b4ac-80706d40d191
 set: mm3
 type: Sorcery
-meta_presence: 0.0269
+meta_presence: 0.0266
 archetypes:
   ruby-storm:
     weight: 1.0

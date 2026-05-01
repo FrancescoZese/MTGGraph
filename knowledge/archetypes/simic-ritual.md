@@ -3,19 +3,19 @@ colors:
 - U
 - G
 name: Simic Ritual
-meta_share: 0.0269
+meta_share: 0.0266
 list_count: 38
 top_cards:
-- name: Birthing Ritual
-  weight: 1.0
-  avg_copies: 4.0
 - name: Ice-Fang Coatl
   weight: 1.0
   avg_copies: 4.0
-- name: Flare of Denial
+- name: Coiling Oracle
   weight: 1.0
   avg_copies: 4.0
-- name: Coiling Oracle
+- name: Birthing Ritual
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flare of Denial
   weight: 1.0
   avg_copies: 4.0
 - name: Abhorrent Oculus
@@ -123,52 +123,43 @@ top_cards:
 - name: Flooded Strand
   weight: 0.0526
   avg_copies: 1.0
-- name: Neoform
-  weight: 0.0526
-  avg_copies: 1.0
 - name: Underground Mortuary
   weight: 0.0526
   avg_copies: 1.0
-- name: Fire Magic
-  weight: 0.0263
-  avg_copies: 3.0
+- name: Neoform
+  weight: 0.0526
+  avg_copies: 1.0
 - name: Quantum Riddler
   weight: 0.0263
   avg_copies: 3.0
 - name: Pyroclasm
   weight: 0.0263
   avg_copies: 3.0
+- name: Fire Magic
+  weight: 0.0263
+  avg_copies: 3.0
 - name: Psychic Frog
   weight: 0.0263
   avg_copies: 2.0
+- name: Pond Prophet
+  weight: 0.0263
+  avg_copies: 1.0
 - name: Dress Down
   weight: 0.0263
   avg_copies: 1.0
 - name: Firespout
   weight: 0.0263
   avg_copies: 1.0
-- name: Steam Vents
-  weight: 0.0263
-  avg_copies: 1.0
-- name: Stomping Ground
-  weight: 0.0263
-  avg_copies: 1.0
-- name: Plague Engineer
+- name: Pick Your Poison
   weight: 0.0263
   avg_copies: 1.0
 - name: Spell Snare
   weight: 0.0263
   avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.0263
-  avg_copies: 1.0
 - name: Stern Scolding
   weight: 0.0263
   avg_copies: 1.0
-- name: Pond Prophet
-  weight: 0.0263
-  avg_copies: 1.0
-- name: Pick Your Poison
+- name: Stomping Ground
   weight: 0.0263
   avg_copies: 1.0
 - name: Willowrush Verge
@@ -177,10 +168,19 @@ top_cards:
 - name: Scalding Tarn
   weight: 0.0263
   avg_copies: 1.0
-- name: Toxic Deluge
+- name: Thundering Falls
+  weight: 0.0263
+  avg_copies: 1.0
+- name: Steam Vents
   weight: 0.0263
   avg_copies: 1.0
 - name: Hurkyl's Recall
+  weight: 0.0263
+  avg_copies: 1.0
+- name: Plague Engineer
+  weight: 0.0263
+  avg_copies: 1.0
+- name: Toxic Deluge
   weight: 0.0263
   avg_copies: 1.0
 ---

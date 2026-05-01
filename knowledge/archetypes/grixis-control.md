@@ -18,10 +18,10 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.8
-- name: Flame of Anor
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 3.6
-- name: Scalding Tarn
+- name: Flame of Anor
   weight: 1.0
   avg_copies: 3.6
 - name: Lightning Bolt
@@ -57,10 +57,10 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.8
   avg_copies: 1.5
-- name: Otawara, Soaring City
+- name: Hall of Storm Giants
   weight: 0.8
   avg_copies: 1.0
-- name: Hall of Storm Giants
+- name: Otawara, Soaring City
   weight: 0.8
   avg_copies: 1.0
 - name: Subtlety
@@ -81,10 +81,10 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 0.4
   avg_copies: 3.0
-- name: Consult the Star Charts
+- name: Wan Shi Tong, Librarian
   weight: 0.4
   avg_copies: 2.5
-- name: Wan Shi Tong, Librarian
+- name: Consult the Star Charts
   weight: 0.4
   avg_copies: 2.5
 - name: Blood Moon
@@ -99,31 +99,49 @@ top_cards:
 - name: Sink into Stupor
   weight: 0.4
   avg_copies: 1.0
+- name: Tishana's Tidebinder
+  weight: 0.2
+  avg_copies: 4.0
 - name: Preordain
   weight: 0.2
   avg_copies: 4.0
 - name: Fatal Push
   weight: 0.2
   avg_copies: 4.0
-- name: Tishana's Tidebinder
-  weight: 0.2
-  avg_copies: 4.0
-- name: Traumatic Critique
-  weight: 0.2
-  avg_copies: 3.0
-- name: Flare of Denial
+- name: Break the Ice
   weight: 0.2
   avg_copies: 3.0
 - name: Marang River Regent
   weight: 0.2
   avg_copies: 3.0
-- name: Break the Ice
+- name: Flare of Denial
   weight: 0.2
   avg_copies: 3.0
-- name: Lórien Revealed
+- name: Traumatic Critique
+  weight: 0.2
+  avg_copies: 3.0
+- name: Thundertrap Trainer
+  weight: 0.2
+  avg_copies: 2.0
+- name: Sheoldred's Edict
+  weight: 0.2
+  avg_copies: 2.0
+- name: Cling to Dust
+  weight: 0.2
+  avg_copies: 2.0
+- name: Undercity Sewers
   weight: 0.2
   avg_copies: 2.0
 - name: Orcish Bowmasters
+  weight: 0.2
+  avg_copies: 2.0
+- name: Prismari Charm
+  weight: 0.2
+  avg_copies: 2.0
+- name: Lórien Revealed
+  weight: 0.2
+  avg_copies: 2.0
+- name: Watery Grave
   weight: 0.2
   avg_copies: 2.0
 - name: Spirebluff Canal
@@ -132,37 +150,28 @@ top_cards:
 - name: Field of Ruin
   weight: 0.2
   avg_copies: 2.0
-- name: Watery Grave
-  weight: 0.2
-  avg_copies: 2.0
-- name: Cling to Dust
-  weight: 0.2
-  avg_copies: 2.0
 - name: Fable of the Mirror-Breaker
-  weight: 0.2
-  avg_copies: 2.0
-- name: Sheoldred's Edict
-  weight: 0.2
-  avg_copies: 2.0
-- name: Thundertrap Trainer
-  weight: 0.2
-  avg_copies: 2.0
-- name: Undercity Sewers
-  weight: 0.2
-  avg_copies: 2.0
-- name: Prismari Charm
   weight: 0.2
   avg_copies: 2.0
 - name: Dress Down
   weight: 0.2
   avg_copies: 1.0
-- name: Brotherhood's End
+- name: Consider
   weight: 0.2
   avg_copies: 1.0
-- name: Logic Knot
+- name: Stern Scolding
+  weight: 0.2
+  avg_copies: 1.0
+- name: Swamp
   weight: 0.2
   avg_copies: 1.0
 - name: Agna Qel'a
+  weight: 0.2
+  avg_copies: 1.0
+- name: Spell Pierce
+  weight: 0.2
+  avg_copies: 1.0
+- name: Hurkyl's Recall
   weight: 0.2
   avg_copies: 1.0
 - name: Vampires' Vengeance
@@ -171,19 +180,10 @@ top_cards:
 - name: Vedalken Shackles
   weight: 0.2
   avg_copies: 1.0
-- name: Stern Scolding
+- name: Logic Knot
   weight: 0.2
   avg_copies: 1.0
-- name: Consider
-  weight: 0.2
-  avg_copies: 1.0
-- name: Swamp
-  weight: 0.2
-  avg_copies: 1.0
-- name: Spell Pierce
-  weight: 0.2
-  avg_copies: 1.0
-- name: Hurkyl's Recall
+- name: Brotherhood's End
   weight: 0.2
   avg_copies: 1.0
 ---

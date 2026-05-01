@@ -31,7 +31,7 @@ archetypes:
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 1.88
+    avg_copies: 1.89
   eldrazi-ramp:
     weight: 0.1071
     avg_copies: 1.0
@@ -49,7 +49,7 @@ archetypes:
     avg_copies: 1.0
   broodscale-combo:
     weight: 1.0
-    avg_copies: 1.65
+    avg_copies: 1.67
   dredge:
     weight: 0.7143
     avg_copies: 1.33

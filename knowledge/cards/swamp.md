@@ -6,7 +6,7 @@ name: Swamp
 scryfall_id: 51fe930f-2b5a-4b1e-9007-6ee74fb44715
 set: sos
 type: Basic Land — Swamp
-meta_presence: 0.2177
+meta_presence: 0.2186
 archetypes:
   dimir-control:
     weight: 0.9839
@@ -30,10 +30,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.69
   mardu-blink:
-    weight: 0.0667
+    weight: 0.125
     avg_copies: 1.0
   hollow-one:
-    weight: 0.8
+    weight: 0.8095
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0

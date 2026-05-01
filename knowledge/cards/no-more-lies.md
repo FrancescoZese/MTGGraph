@@ -8,7 +8,7 @@ name: No More Lies
 scryfall_id: 1e0c695d-62f9-4805-9e2f-7032e8464136
 set: mkm
 type: Instant
-meta_presence: 0.0148
+meta_presence: 0.0147
 archetypes:
   jeskai-energy:
     weight: 0.1848

@@ -5,7 +5,7 @@ colors:
 - B
 - G
 name: Goryo
-meta_share: 0.0403
+meta_share: 0.0399
 list_count: 57
 top_cards:
 - name: Goryo's Vengeance
@@ -53,22 +53,22 @@ top_cards:
 - name: Godless Shrine
   weight: 0.9649
   avg_copies: 1.0
-- name: Island
+- name: Meticulous Archive
   weight: 0.9649
   avg_copies: 1.0
-- name: Watery Grave
+- name: Plains
   weight: 0.9649
   avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 0.9649
   avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.9649
-  avg_copies: 1.0
 - name: Undercity Sewers
   weight: 0.9649
   avg_copies: 1.0
-- name: Plains
+- name: Island
+  weight: 0.9649
+  avg_copies: 1.0
+- name: Watery Grave
   weight: 0.9649
   avg_copies: 1.0
 - name: Prismatic Ending
@@ -167,13 +167,13 @@ top_cards:
 - name: Formidable Speaker
   weight: 0.0351
   avg_copies: 4.0
+- name: Dina's Guidance
+  weight: 0.0351
+  avg_copies: 4.0
 - name: Unmarked Grave
   weight: 0.0351
   avg_copies: 4.0
 - name: Verdant Catacombs
-  weight: 0.0351
-  avg_copies: 4.0
-- name: Dina's Guidance
   weight: 0.0351
   avg_copies: 4.0
 - name: Shifting Woodland
@@ -182,22 +182,22 @@ top_cards:
 - name: Archon of Cruelty
   weight: 0.0351
   avg_copies: 3.0
-- name: Deafening Silence
-  weight: 0.0351
-  avg_copies: 2.0
 - name: Underground Mortuary
   weight: 0.0351
   avg_copies: 2.0
 - name: Bitter Triumph
   weight: 0.0351
   avg_copies: 2.0
-- name: Misty Rainforest
+- name: Deafening Silence
+  weight: 0.0351
+  avg_copies: 2.0
+- name: Forest
   weight: 0.0351
   avg_copies: 1.5
 - name: Witherbloom Command
   weight: 0.0351
   avg_copies: 1.5
-- name: Forest
+- name: Misty Rainforest
   weight: 0.0351
   avg_copies: 1.5
 - name: Endurance
@@ -206,16 +206,16 @@ top_cards:
 - name: Persist
   weight: 0.0351
   avg_copies: 1.0
-- name: Nature's Claim
-  weight: 0.0351
-  avg_copies: 1.0
 - name: Geier Reach Sanitarium
   weight: 0.0351
   avg_copies: 1.0
-- name: Winternight Stories
+- name: Nature's Claim
   weight: 0.0351
   avg_copies: 1.0
 - name: Culling Ritual
+  weight: 0.0351
+  avg_copies: 1.0
+- name: Winternight Stories
   weight: 0.0351
   avg_copies: 1.0
 - name: Jace, Vryn's Prodigy
@@ -227,52 +227,25 @@ top_cards:
 - name: Leyline of the Void
   weight: 0.0175
   avg_copies: 3.0
-- name: Vexing Bauble
-  weight: 0.0175
-  avg_copies: 2.0
-- name: No More Lies
-  weight: 0.0175
-  avg_copies: 2.0
 - name: Inquisition of Kozilek
   weight: 0.0175
   avg_copies: 2.0
 - name: Collector Ouphe
   weight: 0.0175
   avg_copies: 2.0
-- name: Gloomlake Verge
+- name: Vexing Bauble
   weight: 0.0175
-  avg_copies: 1.0
-- name: Troll of Khazad-dûm
+  avg_copies: 2.0
+- name: No More Lies
   weight: 0.0175
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Unburial Rites
-  weight: 0.0175
-  avg_copies: 1.0
-- name: Gemstone Caverns
-  weight: 0.0175
-  avg_copies: 1.0
-- name: Damn
-  weight: 0.0175
-  avg_copies: 1.0
-- name: Generous Ent
-  weight: 0.0175
-  avg_copies: 1.0
-- name: Toxic Deluge
-  weight: 0.0175
-  avg_copies: 1.0
-- name: Ghalta, Stampede Tyrant
   weight: 0.0175
   avg_copies: 1.0
 - name: Ulamog, the Defiler
   weight: 0.0175
   avg_copies: 1.0
-- name: Haywire Mite
-  weight: 0.0175
-  avg_copies: 1.0
-- name: Grist, the Hunger Tide
-  weight: 0.0175
-  avg_copies: 1.0
-- name: Omniscience
+- name: Massacre Wurm
   weight: 0.0175
   avg_copies: 1.0
 - name: Duress
@@ -281,13 +254,40 @@ top_cards:
 - name: Serra's Emissary
   weight: 0.0175
   avg_copies: 1.0
-- name: Vanishing Verse
+- name: Gloomlake Verge
+  weight: 0.0175
+  avg_copies: 1.0
+- name: Troll of Khazad-dûm
+  weight: 0.0175
+  avg_copies: 1.0
+- name: Damn
+  weight: 0.0175
+  avg_copies: 1.0
+- name: Toxic Deluge
+  weight: 0.0175
+  avg_copies: 1.0
+- name: Omniscience
+  weight: 0.0175
+  avg_copies: 1.0
+- name: Ghalta, Stampede Tyrant
+  weight: 0.0175
+  avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.0175
+  avg_copies: 1.0
+- name: Grist, the Hunger Tide
+  weight: 0.0175
+  avg_copies: 1.0
+- name: Generous Ent
   weight: 0.0175
   avg_copies: 1.0
 - name: Arcbound Ravager
   weight: 0.0175
   avg_copies: 1.0
-- name: Massacre Wurm
+- name: Haywire Mite
+  weight: 0.0175
+  avg_copies: 1.0
+- name: Vanishing Verse
   weight: 0.0175
   avg_copies: 1.0
 ---

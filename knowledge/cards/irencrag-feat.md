@@ -7,7 +7,7 @@ name: Irencrag Feat
 scryfall_id: b5bcf822-e129-45f6-9403-310ce9410f3b
 set: eld
 type: Sorcery
-meta_presence: 0.0064
+meta_presence: 0.0063
 archetypes:
   mono-red-belcher:
     weight: 1.0

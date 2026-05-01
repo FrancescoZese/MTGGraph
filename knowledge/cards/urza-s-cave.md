@@ -6,7 +6,7 @@ name: Urza's Cave
 scryfall_id: 926916ed-2f22-4ba9-9427-194886ad6c1e
 set: mh3
 type: Land — Urza's Cave
-meta_presence: 0.0417
+meta_presence: 0.0413
 archetypes:
   amulet-titan:
     weight: 0.9833

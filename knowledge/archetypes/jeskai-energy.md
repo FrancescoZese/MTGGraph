@@ -4,7 +4,7 @@ colors:
 - U
 - R
 name: Jeskai Energy
-meta_share: 0.065
+meta_share: 0.0645
 list_count: 92
 top_cards:
 - name: Solitude
@@ -25,10 +25,10 @@ top_cards:
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.03
-- name: Steam Vents
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.01
-- name: Elegant Parlor
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.01
 - name: Hallowed Fountain
@@ -124,10 +124,10 @@ top_cards:
 - name: Snow-Covered Plains
   weight: 0.1739
   avg_copies: 1.81
-- name: Riverpyre Verge
+- name: The Legend of Roku
   weight: 0.1739
   avg_copies: 1.0
-- name: The Legend of Roku
+- name: Riverpyre Verge
   weight: 0.1739
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
@@ -166,19 +166,19 @@ top_cards:
 - name: Thraben Charm
   weight: 0.0326
   avg_copies: 1.33
-- name: Destroy Evil
+- name: Unholy Heat
   weight: 0.0326
   avg_copies: 1.0
-- name: Unholy Heat
+- name: Destroy Evil
   weight: 0.0326
   avg_copies: 1.0
 - name: Stony Silence
   weight: 0.0217
   avg_copies: 1.5
-- name: Ghost Vacuum
+- name: Stock Up
   weight: 0.0217
   avg_copies: 1.5
-- name: Stock Up
+- name: Ghost Vacuum
   weight: 0.0217
   avg_copies: 1.5
 - name: Floodfarm Verge
@@ -199,55 +199,61 @@ top_cards:
 - name: Windswept Heath
   weight: 0.0109
   avg_copies: 3.0
-- name: Consult the Star Charts
+- name: Misty Rainforest
   weight: 0.0109
   avg_copies: 3.0
-- name: Misty Rainforest
+- name: Consult the Star Charts
   weight: 0.0109
   avg_copies: 3.0
 - name: Wrenn and Six
   weight: 0.0109
   avg_copies: 3.0
-- name: Witch Enchanter
-  weight: 0.0109
-  avg_copies: 2.0
-- name: Cryogen Relic
-  weight: 0.0109
-  avg_copies: 2.0
-- name: White Orchid Phantom
-  weight: 0.0109
-  avg_copies: 2.0
-- name: Mana Leak
-  weight: 0.0109
-  avg_copies: 2.0
-- name: Reprieve
+- name: Eternal Witness
   weight: 0.0109
   avg_copies: 2.0
 - name: Tune the Narrative
   weight: 0.0109
   avg_copies: 2.0
+- name: Mana Leak
+  weight: 0.0109
+  avg_copies: 2.0
 - name: Disruptor Flute
+  weight: 0.0109
+  avg_copies: 2.0
+- name: White Orchid Phantom
   weight: 0.0109
   avg_copies: 2.0
 - name: Boseiju, Who Endures
   weight: 0.0109
   avg_copies: 2.0
-- name: Eternal Witness
+- name: Cryogen Relic
   weight: 0.0109
   avg_copies: 2.0
-- name: Nihil Spellbomb
+- name: Reprieve
   weight: 0.0109
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: Witch Enchanter
+  weight: 0.0109
+  avg_copies: 2.0
 - name: Lush Portico
   weight: 0.0109
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Meltdown
+  weight: 0.0109
+  avg_copies: 1.0
+- name: Hedge Maze
+  weight: 0.0109
+  avg_copies: 1.0
+- name: Temple Garden
+  weight: 0.0109
+  avg_copies: 1.0
+- name: Omnath, Locus of Creation
   weight: 0.0109
   avg_copies: 1.0
 - name: Fire Magic
   weight: 0.0109
   avg_copies: 1.0
-- name: Temple Garden
+- name: Subtlety
   weight: 0.0109
   avg_copies: 1.0
 - name: Supreme Verdict
@@ -256,16 +262,10 @@ top_cards:
 - name: Stomping Ground
   weight: 0.0109
   avg_copies: 1.0
-- name: Subtlety
+- name: Breeding Pool
   weight: 0.0109
   avg_copies: 1.0
-- name: Meltdown
-  weight: 0.0109
-  avg_copies: 1.0
-- name: Omnath, Locus of Creation
-  weight: 0.0109
-  avg_copies: 1.0
-- name: Hedge Maze
+- name: Nihil Spellbomb
   weight: 0.0109
   avg_copies: 1.0
 ---

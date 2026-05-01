@@ -6,7 +6,7 @@ colors:
 - R
 - G
 name: Indomitable Creativity
-meta_share: 0.0057
+meta_share: 0.0056
 list_count: 8
 top_cards:
 - name: Indomitable Creativity
@@ -60,10 +60,10 @@ top_cards:
 - name: Leyline Binding
   weight: 0.625
   avg_copies: 4.0
-- name: Consign to Memory
+- name: Galvanic Discharge
   weight: 0.625
   avg_copies: 3.8
-- name: Galvanic Discharge
+- name: Consign to Memory
   weight: 0.625
   avg_copies: 3.8
 - name: Reprieve
@@ -72,46 +72,46 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.625
   avg_copies: 2.2
-- name: Teferi, Time Raveler
+- name: Mystical Dispute
   weight: 0.625
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Teferi, Time Raveler
   weight: 0.625
   avg_copies: 2.0
 - name: Spell Snare
   weight: 0.625
   avg_copies: 1.8
-- name: Raph & Mikey, Troublemakers
-  weight: 0.625
-  avg_copies: 1.0
-- name: Jetmir's Garden
+- name: Elegant Parlor
   weight: 0.625
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.625
   avg_copies: 1.0
-- name: Xander's Lounge
+- name: Jetmir's Garden
   weight: 0.625
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Raph & Mikey, Troublemakers
+  weight: 0.625
+  avg_copies: 1.0
+- name: Xander's Lounge
   weight: 0.625
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.5
   avg_copies: 1.5
-- name: Thundering Falls
-  weight: 0.5
-  avg_copies: 1.0
 - name: Plains
   weight: 0.5
   avg_copies: 1.0
-- name: Thoughtseize
-  weight: 0.375
-  avg_copies: 4.0
+- name: Thundering Falls
+  weight: 0.5
+  avg_copies: 1.0
 - name: Faithless Looting
   weight: 0.375
   avg_copies: 4.0
 - name: Persist
+  weight: 0.375
+  avg_copies: 4.0
+- name: Thoughtseize
   weight: 0.375
   avg_copies: 4.0
 - name: Fatal Push
@@ -123,16 +123,16 @@ top_cards:
 - name: Ziatora's Proving Ground
   weight: 0.375
   avg_copies: 1.0
-- name: Elesh Norn, Grand Cenobite
+- name: Valgavoth, Terror Eater
   weight: 0.375
   avg_copies: 1.0
-- name: Valgavoth, Terror Eater
+- name: Raucous Theater
   weight: 0.375
   avg_copies: 1.0
 - name: Boseiju, Who Endures
   weight: 0.375
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Elesh Norn, Grand Cenobite
   weight: 0.375
   avg_copies: 1.0
 - name: Leyline of the Void
@@ -144,25 +144,25 @@ top_cards:
 - name: Terastodon
   weight: 0.25
   avg_copies: 3.0
-- name: Veil of Summer
+- name: Strix Serenade
   weight: 0.25
   avg_copies: 2.0
-- name: Strix Serenade
+- name: Veil of Summer
   weight: 0.25
   avg_copies: 2.0
 - name: Spell Pierce
   weight: 0.25
   avg_copies: 1.5
-- name: Iona, Shield of Emeria
+- name: Prismari Command
   weight: 0.25
   avg_copies: 1.0
 - name: Abrupt Decay
   weight: 0.25
   avg_copies: 1.0
-- name: Ketria Triome
+- name: Iona, Shield of Emeria
   weight: 0.25
   avg_copies: 1.0
-- name: Prismari Command
+- name: Ketria Triome
   weight: 0.25
   avg_copies: 1.0
 - name: Nature's Claim
@@ -177,25 +177,22 @@ top_cards:
 - name: Inquisition of Kozilek
   weight: 0.125
   avg_copies: 1.5
-- name: Valakut Awakening
-  weight: 0.125
-  avg_copies: 1.0
-- name: Brainsurge
-  weight: 0.125
-  avg_copies: 1.0
-- name: Vampires' Vengeance
+- name: Witherbloom Command
   weight: 0.125
   avg_copies: 1.0
 - name: Meltdown
   weight: 0.125
   avg_copies: 1.0
-- name: Rest in Peace
+- name: Swamp
+  weight: 0.125
+  avg_copies: 1.0
+- name: Emrakul, the Aeons Torn
   weight: 0.125
   avg_copies: 1.0
 - name: Molten Collapse
   weight: 0.125
   avg_copies: 1.0
-- name: Witherbloom Command
+- name: Rest in Peace
   weight: 0.125
   avg_copies: 1.0
 - name: Turn the Earth
@@ -207,10 +204,13 @@ top_cards:
 - name: Elesh Norn, Mother of Machines
   weight: 0.125
   avg_copies: 1.0
-- name: Swamp
+- name: Brainsurge
   weight: 0.125
   avg_copies: 1.0
-- name: Emrakul, the Aeons Torn
+- name: Valakut Awakening
+  weight: 0.125
+  avg_copies: 1.0
+- name: Vampires' Vengeance
   weight: 0.125
   avg_copies: 1.0
 ---

@@ -7,7 +7,7 @@ name: Quantum Riddler
 scryfall_id: 120be808-ff3b-4fca-96a1-4db6b9825856
 set: eoe
 type: Creature — Sphinx
-meta_presence: 0.1555
+meta_presence: 0.1542
 archetypes:
   dimir-control:
     weight: 0.4516
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.0833
     avg_copies: 1.5
   domain-zoo:
-    weight: 0.0213
+    weight: 0.0208
     avg_copies: 1.0
   reanimator:
     weight: 0.5769

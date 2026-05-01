@@ -3,13 +3,13 @@ colors:
 - U
 - R
 name: Izzet Prowess
-meta_share: 0.0424
-list_count: 60
+meta_share: 0.0434
+list_count: 62
 top_cards:
-- name: Lightning Bolt
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
-- name: Cori-Steel Cutter
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
@@ -17,246 +17,249 @@ top_cards:
   avg_copies: 3.98
 - name: Steam Vents
   weight: 1.0
-  avg_copies: 2.87
+  avg_copies: 2.85
 - name: Mountain
   weight: 1.0
-  avg_copies: 2.07
+  avg_copies: 2.1
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Dragon's Rage Channeler
-  weight: 0.9833
+  weight: 0.9839
   avg_copies: 4.0
 - name: Preordain
-  weight: 0.9833
+  weight: 0.9839
   avg_copies: 3.97
 - name: Lava Dart
-  weight: 0.9833
+  weight: 0.9839
   avg_copies: 3.85
 - name: Scalding Tarn
-  weight: 0.9833
-  avg_copies: 2.68
-- name: Consign to Memory
-  weight: 0.9667
-  avg_copies: 3.09
+  weight: 0.9677
+  avg_copies: 2.67
 - name: Monastery Swiftspear
-  weight: 0.95
+  weight: 0.9516
   avg_copies: 3.98
+- name: Consign to Memory
+  weight: 0.9516
+  avg_copies: 3.1
 - name: Expressive Iteration
-  weight: 0.9
-  avg_copies: 3.83
+  weight: 0.9032
+  avg_copies: 3.82
 - name: Bloodstained Mire
-  weight: 0.8833
-  avg_copies: 2.87
-- name: Meltdown
-  weight: 0.8833
-  avg_copies: 1.79
+  weight: 0.8871
+  avg_copies: 2.85
 - name: Wooded Foothills
-  weight: 0.8667
-  avg_copies: 2.65
+  weight: 0.871
+  avg_copies: 2.7
 - name: Unholy Heat
-  weight: 0.8667
-  avg_copies: 2.32
+  weight: 0.871
+  avg_copies: 2.35
+- name: Meltdown
+  weight: 0.871
+  avg_copies: 1.8
 - name: Surgical Extraction
-  weight: 0.8667
-  avg_copies: 1.64
+  weight: 0.871
+  avg_copies: 1.66
 - name: Fiery Islet
-  weight: 0.8167
+  weight: 0.8226
   avg_copies: 1.63
 - name: Spell Pierce
-  weight: 0.8167
-  avg_copies: 1.59
+  weight: 0.8226
+  avg_copies: 1.61
 - name: Mutagenic Growth
-  weight: 0.8
-  avg_copies: 2.79
+  weight: 0.8065
+  avg_copies: 2.84
 - name: Slickshot Show-Off
-  weight: 0.75
-  avg_copies: 3.78
+  weight: 0.7581
+  avg_copies: 3.79
 - name: Arid Mesa
-  weight: 0.7167
-  avg_copies: 2.6
+  weight: 0.7097
+  avg_copies: 2.64
 - name: Violent Urge
-  weight: 0.6833
+  weight: 0.6774
   avg_copies: 1.88
 - name: Murktide Regent
-  weight: 0.4333
-  avg_copies: 1.22
+  weight: 0.4355
+  avg_copies: 1.25
 - name: Stomping Ground
-  weight: 0.3333
+  weight: 0.3387
   avg_copies: 1.1
 - name: Spell Snare
-  weight: 0.3
-  avg_copies: 1.28
+  weight: 0.3065
+  avg_copies: 1.26
 - name: Mystical Dispute
-  weight: 0.2833
+  weight: 0.2742
   avg_copies: 1.59
 - name: Stormchaser's Talent
-  weight: 0.25
+  weight: 0.2419
   avg_copies: 3.8
 - name: Boomerang Basics
-  weight: 0.2333
+  weight: 0.2258
   avg_copies: 2.48
 - name: Pick Your Poison
-  weight: 0.2
-  avg_copies: 1.75
+  weight: 0.2097
+  avg_copies: 1.85
 - name: Into the Flood Maw
-  weight: 0.1833
+  weight: 0.1774
   avg_copies: 1.18
 - name: Heritage Reclamation
-  weight: 0.1667
+  weight: 0.1613
   avg_copies: 1.9
 - name: Academic Dispute
-  weight: 0.15
+  weight: 0.1452
   avg_copies: 3.78
 - name: Octopus Form
-  weight: 0.15
+  weight: 0.1452
   avg_copies: 1.0
 - name: Monstrous Rage
-  weight: 0.1333
+  weight: 0.129
   avg_copies: 1.75
 - name: Tormod's Crypt
-  weight: 0.1333
+  weight: 0.129
   avg_copies: 1.44
-- name: It'll Quench Ya!
-  weight: 0.1333
-  avg_copies: 1.0
 - name: Firebending Lesson
-  weight: 0.1333
+  weight: 0.129
+  avg_copies: 1.0
+- name: It'll Quench Ya!
+  weight: 0.129
   avg_copies: 1.0
 - name: Force of Negation
-  weight: 0.1167
+  weight: 0.1129
   avg_copies: 1.29
 - name: Vexing Bauble
-  weight: 0.1
+  weight: 0.0968
   avg_copies: 2.0
 - name: Abhorrent Oculus
-  weight: 0.1
+  weight: 0.0968
   avg_copies: 1.5
 - name: Blood Moon
-  weight: 0.1
+  weight: 0.0968
   avg_copies: 1.5
-- name: Iroh's Demonstration
-  weight: 0.1
-  avg_copies: 1.0
 - name: Price of Freedom
-  weight: 0.1
+  weight: 0.0968
+  avg_copies: 1.0
+- name: Iroh's Demonstration
+  weight: 0.0968
   avg_copies: 1.0
 - name: Founding the Third Path
-  weight: 0.0833
+  weight: 0.0806
   avg_copies: 2.0
 - name: Flow State
-  weight: 0.0833
+  weight: 0.0806
   avg_copies: 1.8
 - name: Questing Druid
-  weight: 0.0667
+  weight: 0.0645
   avg_copies: 3.14
 - name: Obsidian Charmaw
-  weight: 0.0667
+  weight: 0.0645
   avg_copies: 1.75
 - name: Pyroclasm
-  weight: 0.0667
+  weight: 0.0645
   avg_copies: 1.75
 - name: Soul-Guide Lantern
-  weight: 0.0667
+  weight: 0.0645
   avg_copies: 1.25
-- name: Origin of Metalbending
-  weight: 0.0667
-  avg_copies: 1.0
 - name: Accumulate Wisdom
-  weight: 0.0667
+  weight: 0.0645
+  avg_copies: 1.0
+- name: Origin of Metalbending
+  weight: 0.0645
   avg_copies: 1.0
 - name: Spirebluff Canal
-  weight: 0.05
+  weight: 0.0484
   avg_copies: 2.33
 - name: Misty Rainforest
-  weight: 0.05
+  weight: 0.0484
   avg_copies: 2.0
 - name: Island
-  weight: 0.05
+  weight: 0.0484
   avg_copies: 1.33
-- name: End the Festivities
-  weight: 0.05
-  avg_copies: 1.0
 - name: Redirect Lightning
-  weight: 0.05
+  weight: 0.0484
+  avg_copies: 1.0
+- name: End the Festivities
+  weight: 0.0484
   avg_copies: 1.0
 - name: Alpine Moon
-  weight: 0.0333
+  weight: 0.0323
   avg_copies: 1.5
 - name: True Ancestry
-  weight: 0.0333
+  weight: 0.0323
   avg_copies: 1.0
-- name: Ragavan, Nimble Pilferer
-  weight: 0.0167
-  avg_copies: 4.0
 - name: Faithless Looting
-  weight: 0.0167
+  weight: 0.0161
+  avg_copies: 4.0
+- name: Ragavan, Nimble Pilferer
+  weight: 0.0161
   avg_copies: 4.0
 - name: Manamorphose
-  weight: 0.0167
-  avg_copies: 4.0
-- name: Searing Blaze
-  weight: 0.0167
+  weight: 0.0161
   avg_copies: 4.0
 - name: Arclight Phoenix
-  weight: 0.0167
+  weight: 0.0161
   avg_copies: 4.0
-- name: Traumatic Critique
-  weight: 0.0167
-  avg_copies: 3.0
+- name: Searing Blaze
+  weight: 0.0161
+  avg_copies: 4.0
 - name: Prismatic Ending
-  weight: 0.0167
+  weight: 0.0161
+  avg_copies: 3.0
+- name: Flashback
+  weight: 0.0161
   avg_copies: 3.0
 - name: Hurkyl's Recall
-  weight: 0.0167
+  weight: 0.0161
+  avg_copies: 3.0
+- name: Traumatic Critique
+  weight: 0.0161
   avg_copies: 3.0
 - name: Siege Smash
-  weight: 0.0167
-  avg_copies: 2.0
-- name: Bedlam Reveler
-  weight: 0.0167
+  weight: 0.0161
   avg_copies: 2.0
 - name: Gut Shot
-  weight: 0.0167
+  weight: 0.0161
   avg_copies: 2.0
-- name: Grafdigger's Cage
-  weight: 0.0167
-  avg_copies: 1.0
-- name: Pithing Needle
-  weight: 0.0167
-  avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 0.0167
-  avg_copies: 1.0
-- name: Lightning Axe
-  weight: 0.0167
-  avg_copies: 1.0
+- name: Bedlam Reveler
+  weight: 0.0161
+  avg_copies: 2.0
 - name: Shatterstorm
-  weight: 0.0167
+  weight: 0.0161
   avg_copies: 1.0
-- name: Combustion Technique
-  weight: 0.0167
-  avg_copies: 1.0
-- name: Riverpyre Verge
-  weight: 0.0167
-  avg_copies: 1.0
-- name: Sink into Stupor
-  weight: 0.0167
-  avg_copies: 1.0
-- name: Flooded Strand
-  weight: 0.0167
+- name: Grafdigger's Cage
+  weight: 0.0161
   avg_copies: 1.0
 - name: Otawara, Soaring City
-  weight: 0.0167
+  weight: 0.0161
   avg_copies: 1.0
-- name: The Legend of Roku
-  weight: 0.0167
+- name: Pithing Needle
+  weight: 0.0161
   avg_copies: 1.0
-- name: Wear
-  weight: 0.0167
+- name: Combustion Technique
+  weight: 0.0161
+  avg_copies: 1.0
+- name: Flooded Strand
+  weight: 0.0161
+  avg_copies: 1.0
+- name: Riverpyre Verge
+  weight: 0.0161
+  avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 0.0161
   avg_copies: 1.0
 - name: Polluted Delta
-  weight: 0.0167
+  weight: 0.0161
+  avg_copies: 1.0
+- name: Wear
+  weight: 0.0161
+  avg_copies: 1.0
+- name: The Legend of Roku
+  weight: 0.0161
+  avg_copies: 1.0
+- name: Lightning Axe
+  weight: 0.0161
+  avg_copies: 1.0
+- name: Sink into Stupor
+  weight: 0.0161
   avg_copies: 1.0
 ---
 Tempo-aggro deck chaining cheap cantrips and burn to power up prowess creatures like Dragon's Rage Channeler and Slickshot Show-Off.

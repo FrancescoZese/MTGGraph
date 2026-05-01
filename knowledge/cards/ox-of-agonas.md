@@ -10,7 +10,7 @@ type: Creature — Ox
 meta_presence: 0.0028
 archetypes:
   hollow-one:
-    weight: 0.1
+    weight: 0.0952
     avg_copies: 1.5
   dredge:
     weight: 0.2857

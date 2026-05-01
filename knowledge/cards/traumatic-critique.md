@@ -14,7 +14,7 @@ archetypes:
     weight: 0.0833
     avg_copies: 1.5
   izzet-prowess:
-    weight: 0.0167
+    weight: 0.0161
     avg_copies: 3.0
   grixis-control:
     weight: 0.2

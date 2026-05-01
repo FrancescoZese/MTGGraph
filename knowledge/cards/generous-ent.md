@@ -7,7 +7,7 @@ name: Generous Ent
 scryfall_id: 85d22d5d-3875-42ff-b51e-c6e21db201f5
 set: ltr
 type: Creature — Treefolk
-meta_presence: 0.0375
+meta_presence: 0.0371
 archetypes:
   goryo:
     weight: 0.0175

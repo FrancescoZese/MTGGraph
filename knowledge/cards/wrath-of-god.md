@@ -7,7 +7,7 @@ name: Wrath of God
 scryfall_id: 537d2b05-3f52-45d6-8fe3-26282085d0c6
 set: cmm
 type: Sorcery
-meta_presence: 0.0127
+meta_presence: 0.0126
 archetypes:
   eldrazi-tron:
     weight: 0.0185

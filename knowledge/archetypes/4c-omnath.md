@@ -29,28 +29,28 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.25
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Island
-  weight: 1.0
-  avg_copies: 1.0
 - name: Forest
-  weight: 1.0
-  avg_copies: 1.0
-- name: Breeding Pool
-  weight: 1.0
-  avg_copies: 1.0
-- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
 - name: Plains
   weight: 1.0
   avg_copies: 1.0
-- name: Subtlety
+- name: Sacred Foundry
+  weight: 1.0
+  avg_copies: 1.0
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
+- name: Breeding Pool
+  weight: 1.0
+  avg_copies: 1.0
+- name: Island
+  weight: 1.0
+  avg_copies: 1.0
+- name: Leyline Binding
   weight: 0.75
   avg_copies: 4.0
-- name: Leyline Binding
+- name: Subtlety
   weight: 0.75
   avg_copies: 4.0
 - name: Misty Rainforest
@@ -68,16 +68,16 @@ top_cards:
 - name: Hallowed Fountain
   weight: 0.75
   avg_copies: 1.0
-- name: Temple Garden
-  weight: 0.75
-  avg_copies: 1.0
 - name: Hedge Maze
   weight: 0.75
   avg_copies: 1.0
-- name: Shardless Agent
+- name: Temple Garden
+  weight: 0.75
+  avg_copies: 1.0
+- name: Magmatic Hellkite
   weight: 0.5
   avg_copies: 4.0
-- name: Magmatic Hellkite
+- name: Shardless Agent
   weight: 0.5
   avg_copies: 4.0
 - name: Birthing Ritual
@@ -95,30 +95,24 @@ top_cards:
 - name: Endurance
   weight: 0.5
   avg_copies: 1.5
-- name: Stomping Ground
-  weight: 0.5
-  avg_copies: 1.0
-- name: Indatha Triome
-  weight: 0.5
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.5
-  avg_copies: 1.0
 - name: Elegant Parlor
   weight: 0.5
   avg_copies: 1.0
 - name: Kavaero, Mind-Bitten
   weight: 0.5
   avg_copies: 1.0
+- name: Stomping Ground
+  weight: 0.5
+  avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
   weight: 0.5
   avg_copies: 1.0
-- name: Lórien Revealed
-  weight: 0.25
-  avg_copies: 4.0
-- name: Helga, Skittish Seer
-  weight: 0.25
-  avg_copies: 4.0
+- name: Thundering Falls
+  weight: 0.5
+  avg_copies: 1.0
+- name: Indatha Triome
+  weight: 0.5
+  avg_copies: 1.0
 - name: Scion of Draco
   weight: 0.25
   avg_copies: 4.0
@@ -128,61 +122,67 @@ top_cards:
 - name: Orim's Chant
   weight: 0.25
   avg_copies: 4.0
+- name: Lórien Revealed
+  weight: 0.25
+  avg_copies: 4.0
 - name: Leyline of the Guildpact
   weight: 0.25
   avg_copies: 4.0
-- name: Fable of the Mirror-Breaker
+- name: Helga, Skittish Seer
   weight: 0.25
-  avg_copies: 3.0
-- name: Wrenn and Six
-  weight: 0.25
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Ephemerate
   weight: 0.25
   avg_copies: 3.0
 - name: Delighted Halfling
   weight: 0.25
   avg_copies: 3.0
-- name: Ashiok, Dream Render
+- name: Wrenn and Six
   weight: 0.25
-  avg_copies: 2.0
-- name: Brotherhood's End
+  avg_copies: 3.0
+- name: Fable of the Mirror-Breaker
   weight: 0.25
-  avg_copies: 2.0
-- name: Wrath of the Skies
-  weight: 0.25
-  avg_copies: 2.0
-- name: Consign to Memory
-  weight: 0.25
-  avg_copies: 2.0
-- name: Shatterstorm
+  avg_copies: 3.0
+- name: Eternal Witness
   weight: 0.25
   avg_copies: 2.0
 - name: Spell Snare
   weight: 0.25
   avg_copies: 2.0
-- name: Stock Up
+- name: Shatterstorm
   weight: 0.25
   avg_copies: 2.0
-- name: Eternal Witness
+- name: Ashiok, Dream Render
   weight: 0.25
   avg_copies: 2.0
 - name: Galvanic Discharge
   weight: 0.25
   avg_copies: 2.0
+- name: Stock Up
+  weight: 0.25
+  avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.25
   avg_copies: 2.0
+- name: Brotherhood's End
+  weight: 0.25
+  avg_copies: 2.0
+- name: Consign to Memory
+  weight: 0.25
+  avg_copies: 2.0
+- name: Wrath of the Skies
+  weight: 0.25
+  avg_copies: 2.0
+- name: Gemstone Caverns
+  weight: 0.25
+  avg_copies: 1.0
 - name: Dismember
   weight: 0.25
   avg_copies: 1.0
-- name: Risen Reef
+- name: Formidable Speaker
   weight: 0.25
   avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.25
-  avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Keruga, the Macrosage
   weight: 0.25
   avg_copies: 1.0
 - name: Beza, the Bounding Spring
@@ -191,16 +191,16 @@ top_cards:
 - name: Zagoth Triome
   weight: 0.25
   avg_copies: 1.0
-- name: Gemstone Caverns
-  weight: 0.25
-  avg_copies: 1.0
-- name: Keruga, the Macrosage
+- name: Otawara, Soaring City
   weight: 0.25
   avg_copies: 1.0
 - name: Boseiju, Who Endures
   weight: 0.25
   avg_copies: 1.0
-- name: Formidable Speaker
+- name: Risen Reef
+  weight: 0.25
+  avg_copies: 1.0
+- name: Meticulous Archive
   weight: 0.25
   avg_copies: 1.0
 ---

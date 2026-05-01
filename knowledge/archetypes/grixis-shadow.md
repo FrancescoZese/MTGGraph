@@ -11,22 +11,19 @@ top_cards:
 - name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
-- name: Street Wraith
-  weight: 1.0
-  avg_copies: 4.0
 - name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Bloodstained Mire
-  weight: 1.0
-  avg_copies: 4.0
-- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Death's Shadow
+- name: Street Wraith
+  weight: 1.0
+  avg_copies: 4.0
+- name: Bloodstained Mire
+  weight: 1.0
+  avg_copies: 4.0
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Nethergoyf
@@ -38,25 +35,34 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Polluted Delta
+- name: Death's Shadow
   weight: 1.0
   avg_copies: 4.0
-- name: Scalding Tarn
+- name: Fatal Push
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Expressive Iteration
   weight: 1.0
   avg_copies: 3.0
-- name: Nihil Spellbomb
+- name: Scalding Tarn
   weight: 1.0
-  avg_copies: 2.0
-- name: Abigale, Eloquent First-Year
+  avg_copies: 3.0
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 2.0
 - name: Dauthi Voidwalker
   weight: 1.0
   avg_copies: 2.0
-- name: Watery Grave
+- name: Abigale, Eloquent First-Year
+  weight: 1.0
+  avg_copies: 2.0
+- name: Fire Magic
+  weight: 1.0
+  avg_copies: 2.0
+- name: Nihil Spellbomb
+  weight: 1.0
+  avg_copies: 2.0
+- name: Damping Sphere
   weight: 1.0
   avg_copies: 2.0
 - name: Unholy Heat
@@ -65,28 +71,22 @@ top_cards:
 - name: Stubborn Denial
   weight: 1.0
   avg_copies: 2.0
-- name: Blood Crypt
+- name: Watery Grave
   weight: 1.0
   avg_copies: 2.0
-- name: Fire Magic
-  weight: 1.0
-  avg_copies: 2.0
-- name: Damping Sphere
-  weight: 1.0
-  avg_copies: 2.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
 - name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Force of Despair
+  weight: 1.0
+  avg_copies: 1.0
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 ---

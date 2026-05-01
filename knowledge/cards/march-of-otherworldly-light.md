@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0811
     avg_copies: 1.67
   boros-energy:
-    weight: 0.0222
+    weight: 0.0221
     avg_copies: 1.1
   jeskai-energy:
     weight: 0.7174
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.375
     avg_copies: 1.0
   mardu-blink:
-    weight: 0.0667
+    weight: 0.125
     avg_copies: 2.0
   boros-ponza:
     weight: 0.1212

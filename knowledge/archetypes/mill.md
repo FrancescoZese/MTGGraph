@@ -3,16 +3,16 @@ colors:
 - U
 - B
 name: Mill
-meta_share: 0.0057
+meta_share: 0.0056
 list_count: 8
 top_cards:
-- name: Ruin Crab
+- name: Archive Trap
   weight: 1.0
   avg_copies: 4.0
 - name: Hedron Crab
   weight: 1.0
   avg_copies: 4.0
-- name: Archive Trap
+- name: Ruin Crab
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -48,10 +48,10 @@ top_cards:
 - name: Jace, the Perfected Mind
   weight: 0.875
   avg_copies: 1.29
-- name: Oboro, Palace in the Clouds
+- name: Undercity Sewers
   weight: 0.875
   avg_copies: 1.0
-- name: Undercity Sewers
+- name: Oboro, Palace in the Clouds
   weight: 0.875
   avg_copies: 1.0
 - name: Tasha's Hideous Laughter
@@ -93,10 +93,10 @@ top_cards:
 - name: Snow-Covered Swamp
   weight: 0.5
   avg_copies: 1.5
-- name: Toxic Deluge
+- name: Swamp
   weight: 0.5
   avg_copies: 1.5
-- name: Swamp
+- name: Toxic Deluge
   weight: 0.5
   avg_copies: 1.5
 - name: Sheoldred's Edict
@@ -120,19 +120,19 @@ top_cards:
 - name: Exhibition Tidecaller
   weight: 0.25
   avg_copies: 3.5
-- name: Kitsune's Technique
+- name: Tamiyo, Inquisitive Student
   weight: 0.25
   avg_copies: 2.0
-- name: Tamiyo, Inquisitive Student
+- name: Kitsune's Technique
   weight: 0.25
   avg_copies: 2.0
 - name: Force of Negation
   weight: 0.25
   avg_copies: 1.5
-- name: Damnation
+- name: Echoing Truth
   weight: 0.25
   avg_copies: 1.0
-- name: Echoing Truth
+- name: Damnation
   weight: 0.25
   avg_copies: 1.0
 - name: Cephalid Coliseum
@@ -147,58 +147,58 @@ top_cards:
 - name: Path to Exile
   weight: 0.125
   avg_copies: 4.0
-- name: Trapmaker's Snare
-  weight: 0.125
-  avg_copies: 4.0
 - name: Erode
   weight: 0.125
   avg_copies: 4.0
 - name: White Orchid Phantom
   weight: 0.125
   avg_copies: 4.0
+- name: Trapmaker's Snare
+  weight: 0.125
+  avg_copies: 4.0
+- name: Vendetta
+  weight: 0.125
+  avg_copies: 2.0
 - name: Flare of Denial
   weight: 0.125
   avg_copies: 2.0
 - name: Chalice of the Void
   weight: 0.125
   avg_copies: 2.0
-- name: Vendetta
-  weight: 0.125
-  avg_copies: 2.0
-- name: Sink into Stupor
+- name: Plains
   weight: 0.125
   avg_copies: 1.0
-- name: Nihil Spellbomb
-  weight: 0.125
-  avg_copies: 1.0
-- name: Darkslick Shores
-  weight: 0.125
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.125
-  avg_copies: 1.0
-- name: Ravenous Trap
-  weight: 0.125
-  avg_copies: 1.0
-- name: Subtlety
+- name: Long Goodbye
   weight: 0.125
   avg_copies: 1.0
 - name: Go for the Throat
   weight: 0.125
   avg_copies: 1.0
-- name: Illness in the Ranks
+- name: Hallowed Fountain
   weight: 0.125
   avg_copies: 1.0
 - name: Mindbreak Trap
   weight: 0.125
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Ravenous Trap
   weight: 0.125
   avg_copies: 1.0
-- name: Plains
+- name: Darkslick Shores
   weight: 0.125
   avg_copies: 1.0
-- name: Long Goodbye
+- name: Nihil Spellbomb
+  weight: 0.125
+  avg_copies: 1.0
+- name: Sink into Stupor
+  weight: 0.125
+  avg_copies: 1.0
+- name: Illness in the Ranks
+  weight: 0.125
+  avg_copies: 1.0
+- name: Meticulous Archive
+  weight: 0.125
+  avg_copies: 1.0
+- name: Subtlety
   weight: 0.125
   avg_copies: 1.0
 ---

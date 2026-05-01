@@ -3,7 +3,7 @@ colors:
 - W
 - R
 name: Boros Ponza
-meta_share: 0.0233
+meta_share: 0.0231
 list_count: 33
 top_cards:
 - name: Price of Freedom
@@ -114,52 +114,49 @@ top_cards:
 - name: Mana Tithe
   weight: 0.0909
   avg_copies: 2.0
-- name: Arid Mesa
+- name: Magmatic Hellkite
   weight: 0.0606
   avg_copies: 4.0
-- name: Magmatic Hellkite
+- name: Arid Mesa
   weight: 0.0606
   avg_copies: 4.0
 - name: Get Lost
   weight: 0.0606
   avg_copies: 3.0
-- name: Brotherhood's End
+- name: Elegant Parlor
   weight: 0.0606
   avg_copies: 1.0
 - name: Ghost Vacuum
   weight: 0.0606
   avg_copies: 1.0
-- name: Arena of Glory
-  weight: 0.0606
-  avg_copies: 1.0
 - name: Ghost Quarter
   weight: 0.0606
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Arena of Glory
   weight: 0.0606
   avg_copies: 1.0
-- name: Fable of the Mirror-Breaker
-  weight: 0.0303
-  avg_copies: 3.0
+- name: Brotherhood's End
+  weight: 0.0606
+  avg_copies: 1.0
 - name: Blood Moon
   weight: 0.0303
   avg_copies: 3.0
-- name: Gideon, Ally of Zendikar
+- name: Fable of the Mirror-Breaker
   weight: 0.0303
-  avg_copies: 2.0
-- name: Settle the Wreckage
-  weight: 0.0303
-  avg_copies: 2.0
-- name: Flagstones of Trokair
-  weight: 0.0303
-  avg_copies: 2.0
-- name: Prismatic Ending
+  avg_copies: 3.0
+- name: Raze to the Ground
   weight: 0.0303
   avg_copies: 2.0
 - name: Stony Silence
   weight: 0.0303
   avg_copies: 2.0
-- name: Raze to the Ground
+- name: Prismatic Ending
+  weight: 0.0303
+  avg_copies: 2.0
+- name: Settle the Wreckage
+  weight: 0.0303
+  avg_copies: 2.0
+- name: Gideon, Ally of Zendikar
   weight: 0.0303
   avg_copies: 2.0
 - name: Aven Mindcensor
@@ -168,25 +165,28 @@ top_cards:
 - name: Stone Rain
   weight: 0.0303
   avg_copies: 2.0
-- name: Storm's Wrath
+- name: Flagstones of Trokair
   weight: 0.0303
-  avg_copies: 1.0
-- name: The Restoration of Eiganjo
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Dead
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Castle Ardenvale
-  weight: 0.0303
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Forked Bolt
   weight: 0.0303
   avg_copies: 1.0
 - name: Clarion Conqueror
   weight: 0.0303
   avg_copies: 1.0
-- name: Suspend Aggression
+- name: Castle Ardenvale
+  weight: 0.0303
+  avg_copies: 1.0
+- name: Ark of Hunger
+  weight: 0.0303
+  avg_copies: 1.0
+- name: The Restoration of Eiganjo
+  weight: 0.0303
+  avg_copies: 1.0
+- name: Storm's Wrath
+  weight: 0.0303
+  avg_copies: 1.0
+- name: Elspeth, Sun's Nemesis
   weight: 0.0303
   avg_copies: 1.0
 - name: Chalice of the Void
@@ -195,10 +195,10 @@ top_cards:
 - name: The Wandering Emperor
   weight: 0.0303
   avg_copies: 1.0
-- name: Ark of Hunger
+- name: Dead
   weight: 0.0303
   avg_copies: 1.0
-- name: Elspeth, Sun's Nemesis
+- name: Suspend Aggression
   weight: 0.0303
   avg_copies: 1.0
 ---

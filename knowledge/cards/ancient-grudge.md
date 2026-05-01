@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0042
 archetypes:
   hollow-one:
-    weight: 0.05
+    weight: 0.0476
     avg_copies: 2.0
   dredge:
     weight: 0.7143

@@ -10,6 +10,6 @@ type: Sorcery
 meta_presence: 0.0014
 archetypes:
   hollow-one:
-    weight: 0.1
+    weight: 0.0952
     avg_copies: 2.0
 ---

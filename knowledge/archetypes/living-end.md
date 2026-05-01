@@ -4,7 +4,7 @@ colors:
 - B
 - G
 name: Living End
-meta_share: 0.0177
+meta_share: 0.0175
 list_count: 25
 top_cards:
 - name: Endurance
@@ -13,10 +13,10 @@ top_cards:
 - name: Force of Negation
   weight: 1.0
   avg_copies: 3.92
-- name: Shardless Agent
+- name: Subtlety
   weight: 1.0
   avg_copies: 3.88
-- name: Subtlety
+- name: Shardless Agent
   weight: 1.0
   avg_copies: 3.88
 - name: Misty Rainforest
@@ -37,13 +37,13 @@ top_cards:
 - name: Hedge Maze
   weight: 1.0
   avg_copies: 1.04
-- name: Island
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
-- name: Forest
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -139,25 +139,25 @@ top_cards:
 - name: Lush Portico
   weight: 0.32
   avg_copies: 1.0
-- name: Temple Garden
+- name: Swamp
   weight: 0.32
   avg_copies: 1.0
-- name: Swamp
+- name: Temple Garden
   weight: 0.32
   avg_copies: 1.0
 - name: Clarion Conqueror
   weight: 0.28
   avg_copies: 2.57
-- name: Hallowed Fountain
-  weight: 0.28
-  avg_copies: 1.0
-- name: Meticulous Archive
+- name: Kavaero, Mind-Bitten
   weight: 0.28
   avg_copies: 1.0
 - name: Flare of Denial
   weight: 0.28
   avg_copies: 1.0
-- name: Kavaero, Mind-Bitten
+- name: Meticulous Archive
+  weight: 0.28
+  avg_copies: 1.0
+- name: Hallowed Fountain
   weight: 0.28
   avg_copies: 1.0
 - name: Striped Riverwinder
@@ -187,43 +187,43 @@ top_cards:
 - name: Rough
   weight: 0.04
   avg_copies: 4.0
-- name: Atraxa, Grand Unifier
-  weight: 0.04
-  avg_copies: 3.0
 - name: Oliphaunt
   weight: 0.04
   avg_copies: 3.0
-- name: Steam Vents
+- name: Atraxa, Grand Unifier
   weight: 0.04
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Titanoth Rex
   weight: 0.04
   avg_copies: 2.0
 - name: Fulminator Mage
   weight: 0.04
   avg_copies: 2.0
-- name: Verdant Catacombs
-  weight: 0.04
-  avg_copies: 2.0
 - name: Flooded Strand
   weight: 0.04
   avg_copies: 2.0
-- name: Sunken Ruins
+- name: Steam Vents
   weight: 0.04
-  avg_copies: 1.0
-- name: Press the Enemy
+  avg_copies: 2.0
+- name: Verdant Catacombs
   weight: 0.04
-  avg_copies: 1.0
-- name: Murderous Cut
+  avg_copies: 2.0
+- name: Collector Ouphe
   weight: 0.04
   avg_copies: 1.0
 - name: Stomping Ground
   weight: 0.04
   avg_copies: 1.0
-- name: Collector Ouphe
+- name: Sunken Ruins
+  weight: 0.04
+  avg_copies: 1.0
+- name: Murderous Cut
   weight: 0.04
   avg_copies: 1.0
 - name: Windcaller Aven
+  weight: 0.04
+  avg_copies: 1.0
+- name: Press the Enemy
   weight: 0.04
   avg_copies: 1.0
 ---

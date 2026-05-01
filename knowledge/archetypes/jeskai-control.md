@@ -4,7 +4,7 @@ colors:
 - U
 - R
 name: Jeskai Control
-meta_share: 0.017
+meta_share: 0.0168
 list_count: 24
 top_cards:
 - name: Flooded Strand
@@ -85,10 +85,10 @@ top_cards:
 - name: Force of Negation
   weight: 0.6667
   avg_copies: 1.06
-- name: Geier Reach Sanitarium
+- name: Elegant Parlor
   weight: 0.6667
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Geier Reach Sanitarium
   weight: 0.6667
   avg_copies: 1.0
 - name: Lórien Revealed
@@ -115,16 +115,16 @@ top_cards:
 - name: Supreme Verdict
   weight: 0.4167
   avg_copies: 1.0
-- name: Teferi, Hero of Dominaria
-  weight: 0.375
-  avg_copies: 1.0
 - name: March of Otherworldly Light
   weight: 0.375
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Teferi, Hero of Dominaria
+  weight: 0.375
+  avg_copies: 1.0
+- name: Stock Up
   weight: 0.3333
   avg_copies: 1.75
-- name: Stock Up
+- name: Soul-Guide Lantern
   weight: 0.3333
   avg_copies: 1.75
 - name: Arena of Glory
@@ -151,16 +151,16 @@ top_cards:
 - name: Tune the Narrative
   weight: 0.2083
   avg_copies: 2.0
-- name: Beza, the Bounding Spring
-  weight: 0.2083
-  avg_copies: 1.0
 - name: Hall of Storm Giants
   weight: 0.2083
   avg_copies: 1.0
-- name: Mountain
+- name: Otawara, Soaring City
   weight: 0.2083
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Beza, the Bounding Spring
+  weight: 0.2083
+  avg_copies: 1.0
+- name: Mountain
   weight: 0.2083
   avg_copies: 1.0
 - name: Meltdown
@@ -187,10 +187,10 @@ top_cards:
 - name: Traumatic Critique
   weight: 0.0833
   avg_copies: 1.5
-- name: Stern Scolding
+- name: Kaheera, the Orphanguard
   weight: 0.0833
   avg_copies: 1.0
-- name: Kaheera, the Orphanguard
+- name: Stern Scolding
   weight: 0.0833
   avg_copies: 1.0
 - name: Wear
@@ -199,64 +199,64 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 0.0417
   avg_copies: 4.0
-- name: Lightning Bolt
+- name: Dress Down
   weight: 0.0417
   avg_copies: 4.0
-- name: Dress Down
+- name: Lightning Bolt
   weight: 0.0417
   avg_copies: 4.0
 - name: Nulldrifter
   weight: 0.0417
   avg_copies: 3.0
-- name: Invert Polarity
+- name: Ephemerate
   weight: 0.0417
   avg_copies: 2.0
 - name: Prismari Charm
   weight: 0.0417
   avg_copies: 2.0
-- name: Reprieve
-  weight: 0.0417
-  avg_copies: 2.0
-- name: Ephemerate
-  weight: 0.0417
-  avg_copies: 2.0
 - name: Harbinger of the Seas
+  weight: 0.0417
+  avg_copies: 2.0
+- name: Invert Polarity
+  weight: 0.0417
+  avg_copies: 2.0
+- name: Reprieve
   weight: 0.0417
   avg_copies: 2.0
 - name: Drannith Magistrate
   weight: 0.0417
   avg_copies: 2.0
-- name: Timeless Dragon
-  weight: 0.0417
-  avg_copies: 1.0
 - name: Windswept Heath
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Dovin's Veto
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Gemstone Caverns
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Thraben Charm
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Raugrin Triome
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Unlicensed Hearse
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Sink into Stupor
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Vendilion Clique
   weight: 0.0417
   avg_copies: 1.0
 - name: Kozilek, Butcher of Truth
   weight: 0.0417
   avg_copies: 1.0
+- name: Timeless Dragon
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.0417
+  avg_copies: 1.0
 - name: Get Lost
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Vendilion Clique
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Unlicensed Hearse
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Raugrin Triome
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Thraben Charm
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Dovin's Veto
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Sink into Stupor
   weight: 0.0417
   avg_copies: 1.0
 ---

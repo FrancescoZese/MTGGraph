@@ -6,16 +6,16 @@ name: Mono Green Ramp
 meta_share: 0.0035
 list_count: 5
 top_cards:
-- name: Quirion Ranger
-  weight: 1.0
-  avg_copies: 4.0
 - name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 4.0
-- name: Springheart Nantuko
+- name: Quirion Ranger
   weight: 1.0
   avg_copies: 4.0
 - name: Badgermole Cub
+  weight: 1.0
+  avg_copies: 4.0
+- name: Springheart Nantuko
   weight: 1.0
   avg_copies: 4.0
 - name: Windswept Heath
@@ -42,19 +42,19 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.2
-- name: Pithing Needle
-  weight: 1.0
-  avg_copies: 1.0
 - name: Ashaya, Soul of the Wild
   weight: 1.0
   avg_copies: 1.0
-- name: Collector Ouphe
+- name: Pithing Needle
+  weight: 1.0
+  avg_copies: 1.0
+- name: Chomping Changeling
   weight: 1.0
   avg_copies: 1.0
 - name: Endurance
   weight: 1.0
   avg_copies: 1.0
-- name: Chomping Changeling
+- name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
 - name: Craterhoof Behemoth
@@ -66,10 +66,10 @@ top_cards:
 - name: Leyline of Abundance
   weight: 0.8
   avg_copies: 3.25
-- name: Lotus Cobra
+- name: Tyvar, Jubilant Brawler
   weight: 0.8
   avg_copies: 3.0
-- name: Tyvar, Jubilant Brawler
+- name: Lotus Cobra
   weight: 0.8
   avg_copies: 3.0
 - name: Thoughtseize
@@ -90,28 +90,28 @@ top_cards:
 - name: Creeping Corrosion
   weight: 0.8
   avg_copies: 1.25
-- name: Nissa, Resurgent Animist
+- name: Disciple of Freyalise
   weight: 0.8
   avg_copies: 1.0
 - name: Formidable Speaker
   weight: 0.8
   avg_copies: 1.0
-- name: Disciple of Freyalise
-  weight: 0.8
-  avg_copies: 1.0
 - name: Underground Mortuary
   weight: 0.8
   avg_copies: 1.0
-- name: The Great Henge
+- name: Nissa, Resurgent Animist
+  weight: 0.8
+  avg_copies: 1.0
+- name: Fanatic of Rhonas
   weight: 0.2
   avg_copies: 4.0
 - name: Life's Legacy
   weight: 0.2
   avg_copies: 4.0
-- name: Fanatic of Rhonas
+- name: Slumbering Trudge
   weight: 0.2
   avg_copies: 4.0
-- name: Slumbering Trudge
+- name: The Great Henge
   weight: 0.2
   avg_copies: 4.0
 - name: Force of Vigor

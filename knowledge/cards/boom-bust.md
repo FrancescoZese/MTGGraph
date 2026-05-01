@@ -1,0 +1,15 @@
+---
+cmc: 8
+colors:
+- R
+image: https://cards.scryfall.io/normal/front/8/f/8ffdee1b-bb5d-44e6-a90d-6f9e9266d4fd.jpg?1666020608
+name: Boom // Bust
+scryfall_id: 8ffdee1b-bb5d-44e6-a90d-6f9e9266d4fd
+set: tsr
+type: Sorcery // Sorcery
+meta_presence: 0.0007
+archetypes:
+  unknown-3:
+    weight: 1.0
+    avg_copies: 4.0
+---

@@ -4,13 +4,13 @@ colors:
 - U
 - B
 name: Esper Blink
-meta_share: 0.0092
+meta_share: 0.0091
 list_count: 13
 top_cards:
-- name: Overlord of the Balemurk
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
@@ -49,7 +49,7 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.08
-- name: Meticulous Archive
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Watery Grave
@@ -58,7 +58,7 @@ top_cards:
 - name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Thoughtseize
@@ -97,13 +97,13 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.5385
   avg_copies: 2.57
-- name: Island
-  weight: 0.2308
-  avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.2308
   avg_copies: 1.0
 - name: Bleachbone Verge
+  weight: 0.2308
+  avg_copies: 1.0
+- name: Island
   weight: 0.2308
   avg_copies: 1.0
 - name: Psychic Frog
@@ -112,37 +112,40 @@ top_cards:
 - name: Clarion Conqueror
   weight: 0.1538
   avg_copies: 2.0
-- name: Floodfarm Verge
-  weight: 0.1538
-  avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.1538
   avg_copies: 1.0
-- name: Subtlety
+- name: Floodfarm Verge
+  weight: 0.1538
+  avg_copies: 1.0
+- name: Force of Negation
   weight: 0.0769
   avg_copies: 4.0
 - name: No More Lies
   weight: 0.0769
   avg_copies: 4.0
-- name: Force of Negation
+- name: Subtlety
   weight: 0.0769
   avg_copies: 4.0
 - name: White Orchid Phantom
   weight: 0.0769
   avg_copies: 2.0
-- name: March of Otherworldly Light
-  weight: 0.0769
-  avg_copies: 1.0
 - name: Windswept Heath
   weight: 0.0769
   avg_copies: 1.0
 - name: Skycoach Conductor
   weight: 0.0769
   avg_copies: 1.0
+- name: Strix Serenade
+  weight: 0.0769
+  avg_copies: 1.0
 - name: Celestial Purge
   weight: 0.0769
   avg_copies: 1.0
-- name: Emptiness
+- name: Elesh Norn, Mother of Machines
+  weight: 0.0769
+  avg_copies: 1.0
+- name: March of Otherworldly Light
   weight: 0.0769
   avg_copies: 1.0
 - name: Hydroelectric Specimen
@@ -151,10 +154,7 @@ top_cards:
 - name: Erode
   weight: 0.0769
   avg_copies: 1.0
-- name: Strix Serenade
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
+- name: Emptiness
   weight: 0.0769
   avg_copies: 1.0
 ---

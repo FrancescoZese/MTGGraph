@@ -7,7 +7,7 @@ name: Elesh Norn, Grand Cenobite
 scryfall_id: 78c2bfef-06a5-4c7f-8283-ea3fb673b7a1
 set: ima
 type: Legendary Creature — Phyrexian Praetor
-meta_presence: 0.0198
+meta_presence: 0.0196
 archetypes:
   neoform-combo:
     weight: 0.8621

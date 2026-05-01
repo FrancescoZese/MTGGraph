@@ -3,8 +3,8 @@ colors:
 - W
 - R
 name: Boros Energy
-meta_share: 0.1908
-list_count: 270
+meta_share: 0.1899
+list_count: 271
 top_cards:
 - name: Guide of Souls
   weight: 1.0
@@ -23,7 +23,7 @@ top_cards:
   avg_copies: 3.84
 - name: Arid Mesa
   weight: 1.0
-  avg_copies: 3.81
+  avg_copies: 3.82
 - name: Arena of Glory
   weight: 1.0
   avg_copies: 2.94
@@ -46,127 +46,127 @@ top_cards:
   weight: 0.9889
   avg_copies: 2.36
 - name: Seasoned Pyromancer
-  weight: 0.9778
+  weight: 0.9779
   avg_copies: 2.9
 - name: Marsh Flats
-  weight: 0.9704
+  weight: 0.9705
   avg_copies: 3.38
 - name: Plains
-  weight: 0.9704
+  weight: 0.9705
   avg_copies: 1.76
 - name: Wear
-  weight: 0.9407
-  avg_copies: 1.59
+  weight: 0.941
+  avg_copies: 1.58
 - name: Surgical Extraction
-  weight: 0.8963
+  weight: 0.8967
   avg_copies: 1.32
 - name: Orim's Chant
-  weight: 0.8778
+  weight: 0.8782
   avg_copies: 1.89
 - name: Obsidian Charmaw
-  weight: 0.863
+  weight: 0.8635
   avg_copies: 2.39
 - name: Flooded Strand
-  weight: 0.7852
+  weight: 0.786
   avg_copies: 3.57
 - name: Voice of Victory
-  weight: 0.763
+  weight: 0.7638
   avg_copies: 1.93
 - name: Mountain
-  weight: 0.7556
+  weight: 0.7565
   avg_copies: 1.0
 - name: Blood Moon
-  weight: 0.7481
+  weight: 0.7491
   avg_copies: 1.21
 - name: The Legend of Roku
-  weight: 0.6704
+  weight: 0.6716
   avg_copies: 1.51
 - name: Celestial Purge
-  weight: 0.663
-  avg_copies: 1.63
+  weight: 0.6642
+  avg_copies: 1.62
 - name: High Noon
-  weight: 0.5926
+  weight: 0.5941
   avg_copies: 1.56
 - name: Windswept Heath
-  weight: 0.4333
+  weight: 0.4317
   avg_copies: 2.96
 - name: Ranger-Captain of Eos
-  weight: 0.4222
+  weight: 0.4244
   avg_copies: 1.69
-- name: Fable of the Mirror-Breaker
-  weight: 0.337
-  avg_copies: 1.78
 - name: Vexing Bauble
-  weight: 0.337
-  avg_copies: 1.54
+  weight: 0.3395
+  avg_copies: 1.53
+- name: Fable of the Mirror-Breaker
+  weight: 0.3358
+  avg_copies: 1.78
 - name: Dalkovan Encampment
-  weight: 0.337
+  weight: 0.3358
   avg_copies: 1.0
 - name: Damping Sphere
-  weight: 0.2667
-  avg_copies: 1.49
+  weight: 0.2694
+  avg_copies: 1.48
 - name: Shatterstorm
-  weight: 0.1593
+  weight: 0.1587
   avg_copies: 1.0
 - name: Clarion Conqueror
-  weight: 0.1556
+  weight: 0.155
   avg_copies: 1.4
 - name: Containment Priest
-  weight: 0.1407
+  weight: 0.1402
   avg_copies: 1.18
 - name: Exorcise
-  weight: 0.1185
+  weight: 0.1181
   avg_copies: 1.0
 - name: Static Prison
-  weight: 0.1074
+  weight: 0.107
   avg_copies: 1.17
 - name: Soul-Guide Lantern
-  weight: 0.1
+  weight: 0.0996
   avg_copies: 1.11
 - name: Sunbaked Canyon
-  weight: 0.0889
+  weight: 0.0886
   avg_copies: 1.0
 - name: Lightning Bolt
-  weight: 0.0778
+  weight: 0.0775
   avg_copies: 1.24
 - name: Meltdown
-  weight: 0.0593
+  weight: 0.059
   avg_copies: 1.31
 - name: Solitude
-  weight: 0.0556
+  weight: 0.0554
   avg_copies: 1.22
 - name: Witch Enchanter
-  weight: 0.0407
+  weight: 0.0406
   avg_copies: 1.09
 - name: Path to Exile
-  weight: 0.037
+  weight: 0.0369
   avg_copies: 1.19
 - name: Snow-Covered Mountain
-  weight: 0.037
+  weight: 0.0369
   avg_copies: 1.0
 - name: Molten Rain
-  weight: 0.0333
+  weight: 0.0332
   avg_copies: 2.11
 - name: Disruptor Flute
-  weight: 0.0333
+  weight: 0.0332
   avg_copies: 1.0
 - name: Snow-Covered Plains
-  weight: 0.0296
+  weight: 0.0295
   avg_copies: 2.12
 - name: Deafening Silence
-  weight: 0.0296
+  weight: 0.0295
   avg_copies: 2.0
 - name: Destroy Evil
-  weight: 0.0296
+  weight: 0.0295
   avg_copies: 1.12
 - name: Ghost Vacuum
-  weight: 0.0296
+  weight: 0.0295
   avg_copies: 1.0
 - name: Mana Tithe
-  weight: 0.0222
+  weight: 0.0221
   avg_copies: 2.0
 - name: March of Otherworldly Light
-  weight: 0.0222
+  weight: 0.0221
   avg_copies: 1.1
 - name: Bloodstained Mire
   weight: 0.0148
@@ -189,67 +189,58 @@ top_cards:
 - name: Lorehold Charm
   weight: 0.0074
   avg_copies: 1.5
-- name: Redirect Lightning
-  weight: 0.0074
-  avg_copies: 1.0
 - name: Aven Mindcensor
   weight: 0.0074
   avg_copies: 1.0
-- name: Hardened Academic
+- name: Redirect Lightning
+  weight: 0.0074
+  avg_copies: 1.0
+- name: Starfield Shepherd
   weight: 0.0037
   avg_copies: 4.0
-- name: Starfield Shepherd
+- name: Hardened Academic
   weight: 0.0037
   avg_copies: 4.0
 - name: card:practiced-offense
   weight: 0.0037
   avg_copies: 3.0
+- name: Stony Silence
+  weight: 0.0037
+  avg_copies: 2.0
+- name: Ephemerate
+  weight: 0.0037
+  avg_copies: 2.0
 - name: White Orchid Phantom
   weight: 0.0037
   avg_copies: 2.0
 - name: Kataki, War's Wage
   weight: 0.0037
   avg_copies: 2.0
-- name: Stony Silence
-  weight: 0.0037
-  avg_copies: 2.0
-- name: The Battle of Bywater
-  weight: 0.0037
-  avg_copies: 2.0
-- name: Ephemerate
+- name: Unlicensed Hearse
   weight: 0.0037
   avg_copies: 2.0
 - name: Reprieve
   weight: 0.0037
   avg_copies: 2.0
-- name: Unlicensed Hearse
-  weight: 0.0037
-  avg_copies: 2.0
 - name: Screaming Nemesis
-  weight: 0.0037
-  avg_copies: 2.0
-- name: Enduring Innocence
   weight: 0.0037
   avg_copies: 2.0
 - name: Jolted Awake
   weight: 0.0037
   avg_copies: 2.0
-- name: Duty Beyond Death
+- name: Enduring Innocence
   weight: 0.0037
-  avg_copies: 1.0
-- name: Cool but Rude
+  avg_copies: 2.0
+- name: The Battle of Bywater
+  weight: 0.0037
+  avg_copies: 2.0
+- name: Prismatic Ending
   weight: 0.0037
   avg_copies: 1.0
 - name: Elspeth, Storm Slayer
   weight: 0.0037
   avg_copies: 1.0
-- name: Erode
-  weight: 0.0037
-  avg_copies: 1.0
 - name: Giant Killer
-  weight: 0.0037
-  avg_copies: 1.0
-- name: The Ooze
   weight: 0.0037
   avg_copies: 1.0
 - name: Curious Farm Animals
@@ -258,13 +249,22 @@ top_cards:
 - name: Tunnel Ignus
   weight: 0.0037
   avg_copies: 1.0
-- name: Prismatic Ending
+- name: Erode
+  weight: 0.0037
+  avg_copies: 1.0
+- name: Duty Beyond Death
+  weight: 0.0037
+  avg_copies: 1.0
+- name: The Ooze
   weight: 0.0037
   avg_copies: 1.0
 - name: Drannith Magistrate
   weight: 0.0037
   avg_copies: 1.0
 - name: The Wandering Emperor
+  weight: 0.0037
+  avg_copies: 1.0
+- name: Cool but Rude
   weight: 0.0037
   avg_copies: 1.0
 ---

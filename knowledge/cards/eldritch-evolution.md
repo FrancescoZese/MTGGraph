@@ -7,7 +7,7 @@ name: Eldritch Evolution
 scryfall_id: 606caf13-c0d3-4a61-9a1a-32f13b6448ab
 set: inr
 type: Sorcery
-meta_presence: 0.0198
+meta_presence: 0.0196
 archetypes:
   neoform-combo:
     weight: 0.9655
