@@ -3,16 +3,16 @@ colors:
 - W
 - U
 name: Azorius Control
-meta_share: 0.0091
+meta_share: 0.0089
 list_count: 13
 top_cards:
 - name: Orim's Chant
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.77
-- name: Consign to Memory
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 3.77
 - name: Prismatic Ending
@@ -30,13 +30,13 @@ top_cards:
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 2.08
-- name: Plains
-  weight: 1.0
-  avg_copies: 2.0
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.0
 - name: Island
+  weight: 1.0
+  avg_copies: 2.0
+- name: Plains
   weight: 1.0
   avg_copies: 2.0
 - name: Meticulous Archive
@@ -150,28 +150,28 @@ top_cards:
 - name: Windswept Heath
   weight: 0.1538
   avg_copies: 2.0
-- name: Tune the Narrative
-  weight: 0.1538
-  avg_copies: 2.0
 - name: Fire Magic
   weight: 0.1538
   avg_copies: 2.0
 - name: Sink into Stupor
   weight: 0.1538
   avg_copies: 2.0
+- name: Tune the Narrative
+  weight: 0.1538
+  avg_copies: 2.0
 - name: March of Otherworldly Light
   weight: 0.1538
   avg_copies: 1.5
+- name: Mistrise Village
+  weight: 0.1538
+  avg_copies: 1.0
 - name: Hedge Maze
   weight: 0.1538
   avg_copies: 1.0
-- name: Disruptor Flute
+- name: Breeding Pool
   weight: 0.1538
   avg_copies: 1.0
 - name: Gemstone Caverns
-  weight: 0.1538
-  avg_copies: 1.0
-- name: Mistrise Village
   weight: 0.1538
   avg_copies: 1.0
 - name: Sacred Foundry
@@ -180,46 +180,46 @@ top_cards:
 - name: Beza, the Bounding Spring
   weight: 0.1538
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Disruptor Flute
   weight: 0.1538
   avg_copies: 1.0
-- name: Floodfarm Verge
-  weight: 0.0769
-  avg_copies: 2.0
 - name: Flow State
   weight: 0.0769
   avg_copies: 2.0
+- name: Floodfarm Verge
+  weight: 0.0769
+  avg_copies: 2.0
+- name: Commandeer
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Tamiyo, Inquisitive Student
+  weight: 0.0769
+  avg_copies: 1.0
+- name: The Wandering Emperor
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Dress Down
+  weight: 0.0769
+  avg_copies: 1.0
 - name: Strix Serenade
   weight: 0.0769
   avg_copies: 1.0
 - name: Misty Rainforest
   weight: 0.0769
   avg_copies: 1.0
-- name: Jace, the Mind Sculptor
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Commandeer
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Dress Down
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Wan Shi Tong, Librarian
+- name: Celestial Colonnade
   weight: 0.0769
   avg_copies: 1.0
 - name: Vendilion Clique
   weight: 0.0769
   avg_copies: 1.0
-- name: The Wandering Emperor
+- name: Jace, the Mind Sculptor
   weight: 0.0769
   avg_copies: 1.0
 - name: Field of Ruin
   weight: 0.0769
   avg_copies: 1.0
-- name: Celestial Colonnade
+- name: Wan Shi Tong, Librarian
   weight: 0.0769
   avg_copies: 1.0
 ---

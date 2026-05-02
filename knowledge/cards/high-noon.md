@@ -10,10 +10,10 @@ type: Enchantment
 meta_presence: 0.2509
 archetypes:
   boros-energy:
-    weight: 0.5941
-    avg_copies: 1.56
+    weight: 0.5985
+    avg_copies: 1.55
   dimir-control:
-    weight: 0.0645
+    weight: 0.0625
     avg_copies: 1.5
   jeskai-energy:
     weight: 0.9565
@@ -28,16 +28,16 @@ archetypes:
     weight: 0.08
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.4583
-    avg_copies: 1.55
+    weight: 0.48
+    avg_copies: 1.5
   domain-zoo:
-    weight: 0.1458
+    weight: 0.1633
     avg_copies: 1.0
   mardu-blink:
-    weight: 0.875
+    weight: 0.8824
     avg_copies: 2.07
   boros-ponza:
-    weight: 0.9697
+    weight: 0.9706
     avg_copies: 2.09
   esper-blink:
     weight: 0.8462

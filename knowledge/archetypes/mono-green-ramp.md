@@ -3,13 +3,13 @@ colors:
 - B
 - G
 name: Mono Green Ramp
-meta_share: 0.0035
+meta_share: 0.0034
 list_count: 5
 top_cards:
-- name: Green Sun's Zenith
+- name: Quirion Ranger
   weight: 1.0
   avg_copies: 4.0
-- name: Quirion Ranger
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 4.0
 - name: Badgermole Cub
@@ -42,7 +42,7 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.2
-- name: Ashaya, Soul of the Wild
+- name: Endurance
   weight: 1.0
   avg_copies: 1.0
 - name: Pithing Needle
@@ -51,10 +51,10 @@ top_cards:
 - name: Chomping Changeling
   weight: 1.0
   avg_copies: 1.0
-- name: Endurance
+- name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
-- name: Collector Ouphe
+- name: Ashaya, Soul of the Wild
   weight: 1.0
   avg_copies: 1.0
 - name: Craterhoof Behemoth
@@ -93,25 +93,25 @@ top_cards:
 - name: Disciple of Freyalise
   weight: 0.8
   avg_copies: 1.0
-- name: Formidable Speaker
+- name: Nissa, Resurgent Animist
   weight: 0.8
   avg_copies: 1.0
 - name: Underground Mortuary
   weight: 0.8
   avg_copies: 1.0
-- name: Nissa, Resurgent Animist
+- name: Formidable Speaker
   weight: 0.8
   avg_copies: 1.0
-- name: Fanatic of Rhonas
-  weight: 0.2
-  avg_copies: 4.0
-- name: Life's Legacy
-  weight: 0.2
-  avg_copies: 4.0
 - name: Slumbering Trudge
   weight: 0.2
   avg_copies: 4.0
 - name: The Great Henge
+  weight: 0.2
+  avg_copies: 4.0
+- name: Fanatic of Rhonas
+  weight: 0.2
+  avg_copies: 4.0
+- name: Life's Legacy
   weight: 0.2
   avg_copies: 4.0
 - name: Force of Vigor

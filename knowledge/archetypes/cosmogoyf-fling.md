@@ -4,22 +4,22 @@ colors:
 - R
 - G
 name: Cosmogoyf Fling
-meta_share: 0.0084
+meta_share: 0.0082
 list_count: 12
 top_cards:
-- name: Gemstone Caverns
-  weight: 1.0
-  avg_copies: 4.0
-- name: Chancellor of the Tangle
-  weight: 1.0
-  avg_copies: 4.0
-- name: Plunge into Darkness
+- name: Cosmogoyf
   weight: 1.0
   avg_copies: 4.0
 - name: Thud
   weight: 1.0
   avg_copies: 4.0
-- name: Cosmogoyf
+- name: Plunge into Darkness
+  weight: 1.0
+  avg_copies: 4.0
+- name: Gemstone Caverns
+  weight: 1.0
+  avg_copies: 4.0
+- name: Chancellor of the Tangle
   weight: 1.0
   avg_copies: 4.0
 - name: Gemstone Mine
@@ -28,10 +28,10 @@ top_cards:
 - name: Spoils of the Vault
   weight: 1.0
   avg_copies: 3.83
-- name: Blackcleave Cliffs
+- name: Devourer of Destiny
   weight: 1.0
   avg_copies: 3.75
-- name: Devourer of Destiny
+- name: Blackcleave Cliffs
   weight: 1.0
   avg_copies: 3.75
 - name: Blooming Marsh
@@ -67,10 +67,10 @@ top_cards:
 - name: Darkbore Pathway
   weight: 0.75
   avg_copies: 1.78
-- name: Forest
+- name: Callous Sell-Sword
   weight: 0.75
   avg_copies: 1.0
-- name: Callous Sell-Sword
+- name: Forest
   weight: 0.75
   avg_copies: 1.0
 - name: Leyline of Sanctity
@@ -91,10 +91,10 @@ top_cards:
 - name: Fatal Push
   weight: 0.0833
   avg_copies: 4.0
-- name: Mountain
+- name: Boseiju, Who Endures
   weight: 0.0833
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Mountain
   weight: 0.0833
   avg_copies: 1.0
 ---

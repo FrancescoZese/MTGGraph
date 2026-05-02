@@ -6,34 +6,34 @@ name: Soultrader Combo
 meta_share: 0.0014
 list_count: 2
 top_cards:
-- name: Warren Soultrader
-  weight: 1.0
-  avg_copies: 4.0
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
 - name: Gravecrawler
   weight: 1.0
   avg_copies: 4.0
-- name: Flare of Malice
+- name: Warren Soultrader
   weight: 1.0
-  avg_copies: 3.5
+  avg_copies: 4.0
 - name: Marionette Apprentice
   weight: 1.0
   avg_copies: 3.5
-- name: Marsh Flats
+- name: Flare of Malice
+  weight: 1.0
+  avg_copies: 3.5
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 3.0
-- name: Verdant Catacombs
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 3.0
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 2.67
-- name: Phyrexian Tower
+- name: Swamp
   weight: 1.0
   avg_copies: 2.5
-- name: Swamp
+- name: Phyrexian Tower
   weight: 1.0
   avg_copies: 2.5
 - name: Fatal Push
@@ -54,16 +54,16 @@ top_cards:
 - name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.0
-- name: Boggart Trawler
-  weight: 0.5
-  avg_copies: 4.0
 - name: Birthing Ritual
   weight: 0.5
   avg_copies: 4.0
-- name: Shambling Ghast
+- name: Unearth
   weight: 0.5
   avg_copies: 4.0
-- name: Unearth
+- name: Phoenix Fleet Airship
+  weight: 0.5
+  avg_copies: 4.0
+- name: Shambling Ghast
   weight: 0.5
   avg_copies: 4.0
 - name: Stitcher's Supplier
@@ -72,7 +72,7 @@ top_cards:
 - name: Malevolent Rumble
   weight: 0.5
   avg_copies: 4.0
-- name: Phoenix Fleet Airship
+- name: Boggart Trawler
   weight: 0.5
   avg_copies: 4.0
 - name: Fulminator Mage
@@ -81,49 +81,31 @@ top_cards:
 - name: Graveyard Trespasser
   weight: 0.5
   avg_copies: 3.0
-- name: Polluted Delta
-  weight: 0.5
-  avg_copies: 2.0
 - name: Arnyn, Deathbloom Botanist
-  weight: 0.5
-  avg_copies: 2.0
-- name: Soulless Jailer
-  weight: 0.5
-  avg_copies: 2.0
-- name: Vexing Bauble
   weight: 0.5
   avg_copies: 2.0
 - name: Collector Ouphe
   weight: 0.5
   avg_copies: 2.0
-- name: Chthonian Nightmare
+- name: Vexing Bauble
   weight: 0.5
-  avg_copies: 1.0
-- name: Grist, the Hunger Tide
+  avg_copies: 2.0
+- name: Soulless Jailer
   weight: 0.5
-  avg_copies: 1.0
-- name: Abrupt Decay
+  avg_copies: 2.0
+- name: Polluted Delta
   weight: 0.5
-  avg_copies: 1.0
-- name: Urborg, Tomb of Yawgmoth
+  avg_copies: 2.0
+- name: Break the Ice
   weight: 0.5
   avg_copies: 1.0
 - name: Nurturing Peatland
   weight: 0.5
   avg_copies: 1.0
-- name: Break the Ice
-  weight: 0.5
-  avg_copies: 1.0
-- name: Cling to Dust
+- name: Grist, the Hunger Tide
   weight: 0.5
   avg_copies: 1.0
 - name: Ashiok, Dream Render
-  weight: 0.5
-  avg_copies: 1.0
-- name: Overlord of the Balemurk
-  weight: 0.5
-  avg_copies: 1.0
-- name: Sephiroth, Fabled SOLDIER
   weight: 0.5
   avg_copies: 1.0
 - name: Shatter Assumptions
@@ -132,10 +114,28 @@ top_cards:
 - name: Haywire Mite
   weight: 0.5
   avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Chthonian Nightmare
   weight: 0.5
   avg_copies: 1.0
 - name: Reclamation Sage
+  weight: 0.5
+  avg_copies: 1.0
+- name: Urborg, Tomb of Yawgmoth
+  weight: 0.5
+  avg_copies: 1.0
+- name: Abrupt Decay
+  weight: 0.5
+  avg_copies: 1.0
+- name: Nihil Spellbomb
+  weight: 0.5
+  avg_copies: 1.0
+- name: Overlord of the Balemurk
+  weight: 0.5
+  avg_copies: 1.0
+- name: Cling to Dust
+  weight: 0.5
+  avg_copies: 1.0
+- name: Sephiroth, Fabled SOLDIER
   weight: 0.5
   avg_copies: 1.0
 ---

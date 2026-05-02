@@ -9,7 +9,7 @@ type: Artifact
 meta_presence: 0.0021
 archetypes:
   mono-red-belcher:
-    weight: 0.25
+    weight: 0.2222
     avg_copies: 4.0
   unknown-2:
     weight: 1.0

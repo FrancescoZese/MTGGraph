@@ -6,9 +6,12 @@ name: Invasion of Gobakhan // Lightshield Array
 scryfall_id: 11798730-6788-4e0b-a828-b46cab1a4fa7
 set: mom
 type: Battle — Siege // Enchantment
-meta_presence: 0.0007
+meta_presence: 0.0014
 archetypes:
   neoform-combo:
     weight: 0.0345
+    avg_copies: 4.0
+  unknown-6:
+    weight: 1.0
     avg_copies: 4.0
 ---

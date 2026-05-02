@@ -9,7 +9,7 @@ type: Legendary Artifact
 meta_presence: 0.0021
 archetypes:
   boros-energy:
-    weight: 0.0037
+    weight: 0.0036
     avg_copies: 1.0
   hardened-scales:
     weight: 0.6667

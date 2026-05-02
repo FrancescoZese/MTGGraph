@@ -9,6 +9,6 @@ type: Creature — Shapeshifter Rogue // Land
 meta_presence: 0.0007
 archetypes:
   domain-zoo:
-    weight: 0.0208
+    weight: 0.0204
     avg_copies: 1.0
 ---

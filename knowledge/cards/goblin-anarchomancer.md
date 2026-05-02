@@ -11,6 +11,6 @@ type: Creature — Goblin Shaman
 meta_presence: 0.0007
 archetypes:
   ruby-storm:
-    weight: 0.027
+    weight: 0.025
     avg_copies: 2.0
 ---

@@ -10,6 +10,6 @@ type: Artifact Creature — Construct
 meta_presence: 0.0014
 archetypes:
   affinity:
-    weight: 0.0143
+    weight: 0.0136
     avg_copies: 1.0
 ---

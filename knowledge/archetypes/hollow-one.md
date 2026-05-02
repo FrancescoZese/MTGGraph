@@ -3,19 +3,19 @@ colors:
 - B
 - R
 name: Hollow One
-meta_share: 0.0147
+meta_share: 0.0144
 list_count: 21
 top_cards:
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Hollow One
+- name: Burning Inquiry
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
-- name: Burning Inquiry
+- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
 - name: Detective's Phoenix
@@ -111,22 +111,22 @@ top_cards:
 - name: Unholy Heat
   weight: 0.2381
   avg_copies: 2.0
-- name: Polluted Delta
-  weight: 0.1905
-  avg_copies: 1.0
 - name: Murderous Cut
   weight: 0.1905
   avg_copies: 1.0
-- name: Vengevine
-  weight: 0.1429
-  avg_copies: 4.0
+- name: Polluted Delta
+  weight: 0.1905
+  avg_copies: 1.0
 - name: Blazing Rootwalla
   weight: 0.1429
   avg_copies: 4.0
-- name: Tarfire
+- name: Vengevine
+  weight: 0.1429
+  avg_copies: 4.0
+- name: Cool but Rude
   weight: 0.1429
   avg_copies: 2.0
-- name: Cool but Rude
+- name: Tarfire
   weight: 0.1429
   avg_copies: 2.0
 - name: Stomping Ground
@@ -138,10 +138,10 @@ top_cards:
 - name: Leyline of the Void
   weight: 0.0952
   avg_copies: 3.5
-- name: Sheoldred's Edict
+- name: Goblin Lore
   weight: 0.0952
   avg_copies: 2.0
-- name: Goblin Lore
+- name: Sheoldred's Edict
   weight: 0.0952
   avg_copies: 2.0
 - name: Blood Moon
@@ -150,28 +150,25 @@ top_cards:
 - name: Ox of Agonas
   weight: 0.0952
   avg_copies: 1.5
-- name: Commercial District
-  weight: 0.0952
-  avg_copies: 1.0
 - name: Liliana of the Veil
-  weight: 0.0952
-  avg_copies: 1.0
-- name: Blackcleave Cliffs
-  weight: 0.0952
-  avg_copies: 1.0
-- name: Violent Urge
   weight: 0.0952
   avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.0952
   avg_copies: 1.0
-- name: Magus of the Moon
+- name: Violent Urge
+  weight: 0.0952
+  avg_copies: 1.0
+- name: Blackcleave Cliffs
+  weight: 0.0952
+  avg_copies: 1.0
+- name: Commercial District
+  weight: 0.0952
+  avg_copies: 1.0
+- name: Magebane Lizard
   weight: 0.0476
   avg_copies: 2.0
-- name: Pyroclasm
-  weight: 0.0476
-  avg_copies: 2.0
-- name: Ancient Grudge
+- name: Cam and Farrik, Havoc Duo
   weight: 0.0476
   avg_copies: 2.0
 - name: Flameblade Adept
@@ -180,22 +177,25 @@ top_cards:
 - name: Rough
   weight: 0.0476
   avg_copies: 2.0
-- name: Cam and Farrik, Havoc Duo
+- name: Pyroclasm
   weight: 0.0476
   avg_copies: 2.0
-- name: Magebane Lizard
+- name: Ancient Grudge
+  weight: 0.0476
+  avg_copies: 2.0
+- name: Magus of the Moon
   weight: 0.0476
   avg_copies: 2.0
 - name: Seal of Fire
   weight: 0.0476
   avg_copies: 1.0
-- name: Barbarian Ring
+- name: Shattering Spree
   weight: 0.0476
   avg_copies: 1.0
 - name: Overlord of the Balemurk
   weight: 0.0476
   avg_copies: 1.0
-- name: Shattering Spree
+- name: Barbarian Ring
   weight: 0.0476
   avg_copies: 1.0
 ---

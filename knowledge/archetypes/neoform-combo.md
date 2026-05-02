@@ -6,7 +6,7 @@ colors:
 - R
 - G
 name: Neoform Combo
-meta_share: 0.0203
+meta_share: 0.0199
 list_count: 29
 top_cards:
 - name: Eldritch Evolution
@@ -84,19 +84,19 @@ top_cards:
 - name: Into the Flood Maw
   weight: 0.8621
   avg_copies: 1.04
-- name: Snow-Covered Island
+- name: Elesh Norn, Grand Cenobite
   weight: 0.8621
   avg_copies: 1.0
-- name: Elesh Norn, Grand Cenobite
+- name: Snow-Covered Island
   weight: 0.8621
   avg_copies: 1.0
 - name: Ureni, the Song Unending
   weight: 0.7931
   avg_copies: 1.0
-- name: Wooded Foothills
+- name: Endurance
   weight: 0.7586
   avg_copies: 1.0
-- name: Endurance
+- name: Wooded Foothills
   weight: 0.7586
   avg_copies: 1.0
 - name: Ice-Fang Coatl
@@ -141,49 +141,52 @@ top_cards:
 - name: Borborygmos Enraged
   weight: 0.069
   avg_copies: 1.0
-- name: Hexing Squelcher
+- name: Glittering Wish
   weight: 0.0345
   avg_copies: 4.0
 - name: Invasion of Gobakhan
   weight: 0.0345
   avg_copies: 4.0
-- name: Glittering Wish
+- name: Geometer's Arthropod
   weight: 0.0345
   avg_copies: 4.0
 - name: Detect Intrusion
   weight: 0.0345
   avg_copies: 4.0
-- name: Geometer's Arthropod
+- name: Gemstone Mine
   weight: 0.0345
   avg_copies: 4.0
-- name: Gemstone Mine
+- name: Hexing Squelcher
   weight: 0.0345
   avg_copies: 4.0
 - name: Thrun, the Last Troll
   weight: 0.0345
   avg_copies: 3.0
-- name: Eladamri's Call
-  weight: 0.0345
-  avg_copies: 2.0
 - name: Quandrix Charm
   weight: 0.0345
   avg_copies: 2.0
+- name: Eladamri's Call
+  weight: 0.0345
+  avg_copies: 2.0
+- name: Meticulous Archive
+  weight: 0.0345
+  avg_copies: 1.0
 - name: Lush Portico
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Stump Stomp
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Firespout
   weight: 0.0345
   avg_copies: 1.0
 - name: Force of Vigor
   weight: 0.0345
   avg_copies: 1.0
-- name: Spell Snare
+- name: Thundering Falls
   weight: 0.0345
   avg_copies: 1.0
-- name: Nature's Chant
+- name: Firespout
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Stump Stomp
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Spell Snare
   weight: 0.0345
   avg_copies: 1.0
 - name: Raph & Mikey, Troublemakers
@@ -192,16 +195,13 @@ top_cards:
 - name: Detention Sphere
   weight: 0.0345
   avg_copies: 1.0
-- name: Commercial District
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.0345
-  avg_copies: 1.0
 - name: Brainsurge
   weight: 0.0345
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Commercial District
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Nature's Chant
   weight: 0.0345
   avg_copies: 1.0
 ---

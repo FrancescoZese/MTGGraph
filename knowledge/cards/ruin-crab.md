@@ -7,7 +7,7 @@ name: Ruin Crab
 scryfall_id: 738ce273-c938-42d2-83b2-c4f5f4000b0b
 set: znr
 type: Creature — Crab
-meta_presence: 0.0056
+meta_presence: 0.0055
 archetypes:
   mill:
     weight: 1.0

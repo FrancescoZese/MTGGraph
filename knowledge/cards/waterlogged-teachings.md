@@ -6,9 +6,9 @@ name: Waterlogged Teachings // Inundated Archive
 scryfall_id: 060f9675-4921-4cbb-bae2-54c85c679fd4
 set: mh3
 type: Instant // Land
-meta_presence: 0.0196
+meta_presence: 0.0199
 archetypes:
   mono-blue-belcher:
-    weight: 0.9655
-    avg_copies: 2.89
+    weight: 0.9667
+    avg_copies: 2.83
 ---

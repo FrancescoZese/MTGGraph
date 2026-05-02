@@ -7,10 +7,10 @@ name: Jace, the Mind Sculptor
 scryfall_id: c8817585-0d32-4d56-9142-0d29512e86a9
 set: 2xm
 type: Legendary Planeswalker — Jace
-meta_presence: 0.0028
+meta_presence: 0.0027
 archetypes:
   dimir-control:
-    weight: 0.0161
+    weight: 0.0156
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.0217

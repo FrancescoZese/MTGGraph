@@ -4,22 +4,22 @@ colors:
 - U
 - B
 name: Esper Blink
-meta_share: 0.0091
+meta_share: 0.0089
 list_count: 13
 top_cards:
-- name: Flooded Strand
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.92
-- name: Phelia, Exuberant Shepherd
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 3.92
 - name: Fatal Push
@@ -28,10 +28,10 @@ top_cards:
 - name: Quantum Riddler
   weight: 1.0
   avg_copies: 3.31
-- name: Witch Enchanter
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
-- name: Consign to Memory
+- name: Witch Enchanter
   weight: 1.0
   avg_copies: 3.0
 - name: Damping Sphere
@@ -49,16 +49,16 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.08
-- name: Swamp
-  weight: 1.0
-  avg_copies: 1.0
-- name: Watery Grave
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Swamp
+  weight: 1.0
+  avg_copies: 1.0
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
 - name: Thoughtseize
@@ -97,13 +97,13 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.5385
   avg_copies: 2.57
-- name: Surgical Extraction
+- name: Island
   weight: 0.2308
   avg_copies: 1.0
 - name: Bleachbone Verge
   weight: 0.2308
   avg_copies: 1.0
-- name: Island
+- name: Surgical Extraction
   weight: 0.2308
   avg_copies: 1.0
 - name: Psychic Frog
@@ -118,43 +118,43 @@ top_cards:
 - name: Floodfarm Verge
   weight: 0.1538
   avg_copies: 1.0
+- name: Subtlety
+  weight: 0.0769
+  avg_copies: 4.0
 - name: Force of Negation
   weight: 0.0769
   avg_copies: 4.0
 - name: No More Lies
   weight: 0.0769
   avg_copies: 4.0
-- name: Subtlety
-  weight: 0.0769
-  avg_copies: 4.0
 - name: White Orchid Phantom
   weight: 0.0769
   avg_copies: 2.0
-- name: Windswept Heath
+- name: Elesh Norn, Mother of Machines
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Erode
   weight: 0.0769
   avg_copies: 1.0
 - name: Skycoach Conductor
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Hydroelectric Specimen
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Windswept Heath
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Emptiness
+  weight: 0.0769
+  avg_copies: 1.0
+- name: March of Otherworldly Light
   weight: 0.0769
   avg_copies: 1.0
 - name: Strix Serenade
   weight: 0.0769
   avg_copies: 1.0
 - name: Celestial Purge
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
-  weight: 0.0769
-  avg_copies: 1.0
-- name: March of Otherworldly Light
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Hydroelectric Specimen
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Erode
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Emptiness
   weight: 0.0769
   avg_copies: 1.0
 ---

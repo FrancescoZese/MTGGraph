@@ -6,10 +6,10 @@ name: Eldrazi Breach
 meta_share: 0.0021
 list_count: 3
 top_cards:
-- name: Talisman of Creativity
+- name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
-- name: Through the Breach
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Emrakul, the Aeons Torn
@@ -18,16 +18,16 @@ top_cards:
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
-- name: Kozilek's Command
+- name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
 - name: Stock Up
   weight: 1.0
   avg_copies: 4.0
-- name: Eldrazi Temple
+- name: Talisman of Creativity
   weight: 1.0
   avg_copies: 4.0
-- name: Ugin's Labyrinth
+- name: Through the Breach
   weight: 1.0
   avg_copies: 4.0
 - name: Devourer of Destiny
@@ -45,10 +45,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.33
-- name: Shivan Reef
+- name: Island
   weight: 1.0
   avg_copies: 2.0
-- name: Island
+- name: Shivan Reef
   weight: 1.0
   avg_copies: 2.0
 - name: Steam Vents
@@ -75,16 +75,16 @@ top_cards:
 - name: Spell Snare
   weight: 0.6667
   avg_copies: 1.5
-- name: Gemstone Caverns
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Dress Down
+- name: Thundering Falls
   weight: 0.6667
   avg_copies: 1.0
 - name: Polluted Delta
   weight: 0.6667
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Gemstone Caverns
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Dress Down
   weight: 0.6667
   avg_copies: 1.0
 - name: Sink into Stupor
@@ -96,25 +96,25 @@ top_cards:
 - name: Yggdrasil, Rebirth Engine
   weight: 0.3333
   avg_copies: 3.0
-- name: Meltdown
-  weight: 0.3333
-  avg_copies: 2.0
 - name: Remand
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Unholy Heat
   weight: 0.3333
   avg_copies: 2.0
 - name: Talisman of Curiosity
   weight: 0.3333
   avg_copies: 2.0
+- name: Unholy Heat
+  weight: 0.3333
+  avg_copies: 2.0
 - name: Fable of the Mirror-Breaker
   weight: 0.3333
   avg_copies: 2.0
-- name: Boseiju, Who Shelters All
+- name: Meltdown
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Lórien Revealed
   weight: 0.3333
   avg_copies: 1.0
-- name: Lórien Revealed
+- name: Boseiju, Who Shelters All
   weight: 0.3333
   avg_copies: 1.0
 ---

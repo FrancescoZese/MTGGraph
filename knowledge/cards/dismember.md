@@ -1,7 +1,7 @@
 ---
 archetypes:
   dimir-control:
-    weight: 0.0161
+    weight: 0.0156
     avg_copies: 3.0
   eldrazi-tron:
     weight: 0.9815
@@ -19,7 +19,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   eldrazi-ramp:
-    weight: 0.1786
+    weight: 0.1724
     avg_copies: 2.0
   simic-ritual:
     weight: 0.4211
@@ -39,7 +39,7 @@ archetypes:
 cmc: 3
 colors: []
 image: https://cards.scryfall.io/normal/front/3/d/3d286cf6-3e16-4941-9326-1818b1e06d69.jpg?1562261132
-meta_presence: 0.1247
+meta_presence: 0.1223
 name: Dismember
 scryfall_id: 3d286cf6-3e16-4941-9326-1818b1e06d69
 set: mm2

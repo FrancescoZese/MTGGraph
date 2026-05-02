@@ -7,10 +7,10 @@ name: Goblin Bombardment
 scryfall_id: e262f55e-9239-4a97-a19e-9b08fb34502e
 set: mh2
 type: Enchantment
-meta_presence: 0.1899
+meta_presence: 0.1883
 archetypes:
   boros-energy:
-    weight: 0.9963
+    weight: 0.9964
     avg_copies: 2.94
   selesnya-midrange:
     weight: 1.0

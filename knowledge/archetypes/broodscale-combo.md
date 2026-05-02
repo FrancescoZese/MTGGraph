@@ -2,25 +2,25 @@
 colors:
 - G
 name: Broodscale Combo
-meta_share: 0.0182
+meta_share: 0.0179
 list_count: 26
 top_cards:
-- name: Grove of the Burnwillows
+- name: Urza's Saga
+  weight: 1.0
+  avg_copies: 4.0
+- name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
 - name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Saga
-  weight: 1.0
-  avg_copies: 4.0
-- name: Malevolent Rumble
-  weight: 1.0
-  avg_copies: 4.0
 - name: Basking Broodscale
   weight: 1.0
   avg_copies: 4.0
-- name: Eldrazi Temple
+- name: Grove of the Burnwillows
+  weight: 1.0
+  avg_copies: 4.0
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
 - name: Glaring Fleshraker
@@ -44,10 +44,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.43
-- name: Springleaf Drum
+- name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Springleaf Drum
   weight: 1.0
   avg_copies: 1.0
 - name: Soul-Guide Lantern
@@ -59,10 +59,10 @@ top_cards:
 - name: Ancient Stirrings
   weight: 0.9231
   avg_copies: 3.96
-- name: Gemstone Caverns
+- name: Pithing Needle
   weight: 0.8462
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Gemstone Caverns
   weight: 0.8462
   avg_copies: 1.0
 - name: Grafdigger's Cage
@@ -74,10 +74,10 @@ top_cards:
 - name: Dismember
   weight: 0.6154
   avg_copies: 1.88
-- name: Nature's Claim
+- name: Damping Sphere
   weight: 0.5385
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Nature's Claim
   weight: 0.5385
   avg_copies: 2.0
 - name: Unholy Heat
@@ -140,19 +140,19 @@ top_cards:
 - name: Fire Magic
   weight: 0.0385
   avg_copies: 4.0
-- name: Pyroclasm
+- name: Heroic Intervention
   weight: 0.0385
   avg_copies: 2.0
-- name: Heroic Intervention
+- name: Pyroclasm
   weight: 0.0385
   avg_copies: 2.0
 - name: Revitalizing Repast
   weight: 0.0385
   avg_copies: 1.0
-- name: Ghost Quarter
+- name: Bojuka Bog
   weight: 0.0385
   avg_copies: 1.0
-- name: Bojuka Bog
+- name: Ghost Quarter
   weight: 0.0385
   avg_copies: 1.0
 ---
