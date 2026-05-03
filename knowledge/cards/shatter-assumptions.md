@@ -7,10 +7,10 @@ name: Shatter Assumptions
 scryfall_id: 7f224f64-513f-4c01-9b1b-bb89e366f1c4
 set: mh1
 type: Sorcery
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   soultrader-combo:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
   unknown-4:
     weight: 0.5

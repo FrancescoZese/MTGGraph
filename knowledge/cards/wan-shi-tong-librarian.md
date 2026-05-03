@@ -10,8 +10,8 @@ type: Legendary Creature — Bird Spirit
 meta_presence: 0.0357
 archetypes:
   dimir-control:
-    weight: 0.7344
-    avg_copies: 2.53
+    weight: 0.7424
+    avg_copies: 2.51
   azorius-control:
     weight: 0.0769
     avg_copies: 1.0

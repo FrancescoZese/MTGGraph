@@ -7,9 +7,12 @@ name: Bloodghast
 scryfall_id: cee85485-598f-4dfc-aa0b-7b1de86c7788
 set: soc
 type: Creature — Vampire Spirit
-meta_presence: 0.0014
+meta_presence: 0.002
 archetypes:
   reanimator:
     weight: 0.0769
+    avg_copies: 4.0
+  unknown-8:
+    weight: 1.0
     avg_copies: 4.0
 ---

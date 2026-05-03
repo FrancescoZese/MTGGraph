@@ -8,7 +8,7 @@ name: Prismari Command
 scryfall_id: 372d0c0b-439c-413f-aac4-5174c75aadb0
 set: soc
 type: Instant
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   indomitable-creativity:
     weight: 0.25

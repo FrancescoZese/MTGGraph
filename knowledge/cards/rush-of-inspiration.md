@@ -9,6 +9,6 @@ type: Instant // Land
 meta_presence: 0.0007
 archetypes:
   mono-red-belcher:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 1.0
 ---

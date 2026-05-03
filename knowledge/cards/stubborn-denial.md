@@ -10,8 +10,8 @@ type: Instant
 meta_presence: 0.0337
 archetypes:
   domain-zoo:
-    weight: 0.9796
-    avg_copies: 2.29
+    weight: 0.9804
+    avg_copies: 2.3
   grixis-shadow:
     weight: 1.0
     avg_copies: 2.0

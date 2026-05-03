@@ -3,37 +3,37 @@ colors:
 - U
 - R
 name: Eldrazi Breach
-meta_share: 0.0021
+meta_share: 0.002
 list_count: 3
 top_cards:
+- name: Emrakul, the Aeons Torn
+  weight: 1.0
+  avg_copies: 4.0
+- name: Through the Breach
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ugin's Labyrinth
+  weight: 1.0
+  avg_copies: 4.0
 - name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
 - name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
-- name: Emrakul, the Aeons Torn
+- name: Talisman of Creativity
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
-- name: Ugin's Labyrinth
-  weight: 1.0
-  avg_copies: 4.0
 - name: Stock Up
   weight: 1.0
   avg_copies: 4.0
-- name: Talisman of Creativity
-  weight: 1.0
-  avg_copies: 4.0
-- name: Through the Breach
-  weight: 1.0
-  avg_copies: 4.0
-- name: Devourer of Destiny
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.67
-- name: Consign to Memory
+- name: Devourer of Destiny
   weight: 1.0
   avg_copies: 3.67
 - name: Nulldrifter
@@ -45,10 +45,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.33
-- name: Island
+- name: Shivan Reef
   weight: 1.0
   avg_copies: 2.0
-- name: Shivan Reef
+- name: Island
   weight: 1.0
   avg_copies: 2.0
 - name: Steam Vents
@@ -63,31 +63,31 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
+- name: Disruptor Flute
+  weight: 0.6667
+  avg_copies: 2.0
 - name: Lightning Bolt
   weight: 0.6667
   avg_copies: 2.0
 - name: Soulless Jailer
   weight: 0.6667
   avg_copies: 2.0
-- name: Disruptor Flute
-  weight: 0.6667
-  avg_copies: 2.0
 - name: Spell Snare
   weight: 0.6667
   avg_copies: 1.5
-- name: Thundering Falls
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Polluted Delta
+- name: Dress Down
   weight: 0.6667
   avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.6667
   avg_copies: 1.0
-- name: Dress Down
+- name: Thundering Falls
   weight: 0.6667
   avg_copies: 1.0
 - name: Sink into Stupor
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Polluted Delta
   weight: 0.6667
   avg_copies: 1.0
 - name: Ulamog, the Defiler
@@ -96,19 +96,19 @@ top_cards:
 - name: Yggdrasil, Rebirth Engine
   weight: 0.3333
   avg_copies: 3.0
-- name: Remand
-  weight: 0.3333
-  avg_copies: 2.0
 - name: Talisman of Curiosity
   weight: 0.3333
   avg_copies: 2.0
-- name: Unholy Heat
+- name: Meltdown
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Remand
   weight: 0.3333
   avg_copies: 2.0
 - name: Fable of the Mirror-Breaker
   weight: 0.3333
   avg_copies: 2.0
-- name: Meltdown
+- name: Unholy Heat
   weight: 0.3333
   avg_copies: 2.0
 - name: Lórien Revealed

@@ -7,9 +7,9 @@ name: Ilharg, the Raze-Boar
 scryfall_id: 3d397fc3-fd4e-45ad-ad40-0f8a585c15fd
 set: rvr
 type: Legendary Creature — Boar God
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   eldrazi-ramp:
-    weight: 0.069
+    weight: 0.0645
     avg_copies: 1.0
 ---

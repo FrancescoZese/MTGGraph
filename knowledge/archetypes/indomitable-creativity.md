@@ -6,13 +6,13 @@ colors:
 - R
 - G
 name: Indomitable Creativity
-meta_share: 0.0055
+meta_share: 0.0053
 list_count: 8
 top_cards:
-- name: Fable of the Mirror-Breaker
+- name: Indomitable Creativity
   weight: 1.0
   avg_copies: 4.0
-- name: Indomitable Creativity
+- name: Fable of the Mirror-Breaker
   weight: 1.0
   avg_copies: 4.0
 - name: Wrenn and Six
@@ -60,10 +60,10 @@ top_cards:
 - name: Leyline Binding
   weight: 0.625
   avg_copies: 4.0
-- name: Consign to Memory
+- name: Galvanic Discharge
   weight: 0.625
   avg_copies: 3.8
-- name: Galvanic Discharge
+- name: Consign to Memory
   weight: 0.625
   avg_copies: 3.8
 - name: Reprieve
@@ -81,28 +81,28 @@ top_cards:
 - name: Spell Snare
   weight: 0.625
   avg_copies: 1.8
-- name: Elegant Parlor
-  weight: 0.625
-  avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 0.625
-  avg_copies: 1.0
-- name: Raph & Mikey, Troublemakers
-  weight: 0.625
-  avg_copies: 1.0
 - name: Xander's Lounge
   weight: 0.625
   avg_copies: 1.0
 - name: Jetmir's Garden
   weight: 0.625
   avg_copies: 1.0
+- name: Raph & Mikey, Troublemakers
+  weight: 0.625
+  avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 0.625
+  avg_copies: 1.0
+- name: Elegant Parlor
+  weight: 0.625
+  avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.5
   avg_copies: 1.5
-- name: Thundering Falls
+- name: Plains
   weight: 0.5
   avg_copies: 1.0
-- name: Plains
+- name: Thundering Falls
   weight: 0.5
   avg_copies: 1.0
 - name: Faithless Looting
@@ -120,16 +120,16 @@ top_cards:
 - name: High Noon
   weight: 0.375
   avg_copies: 3.0
-- name: Boseiju, Who Endures
+- name: Ziatora's Proving Ground
   weight: 0.375
   avg_copies: 1.0
 - name: Elesh Norn, Grand Cenobite
   weight: 0.375
   avg_copies: 1.0
-- name: Ziatora's Proving Ground
+- name: Valgavoth, Terror Eater
   weight: 0.375
   avg_copies: 1.0
-- name: Valgavoth, Terror Eater
+- name: Boseiju, Who Endures
   weight: 0.375
   avg_copies: 1.0
 - name: Raucous Theater
@@ -153,16 +153,16 @@ top_cards:
 - name: Spell Pierce
   weight: 0.25
   avg_copies: 1.5
-- name: Iona, Shield of Emeria
-  weight: 0.25
-  avg_copies: 1.0
 - name: Ketria Triome
   weight: 0.25
   avg_copies: 1.0
-- name: Abrupt Decay
+- name: Prismari Command
   weight: 0.25
   avg_copies: 1.0
-- name: Prismari Command
+- name: Iona, Shield of Emeria
+  weight: 0.25
+  avg_copies: 1.0
+- name: Abrupt Decay
   weight: 0.25
   avg_copies: 1.0
 - name: Nature's Claim
@@ -180,22 +180,7 @@ top_cards:
 - name: Elesh Norn, Mother of Machines
   weight: 0.125
   avg_copies: 1.0
-- name: Turn the Earth
-  weight: 0.125
-  avg_copies: 1.0
 - name: Emrakul, the Aeons Torn
-  weight: 0.125
-  avg_copies: 1.0
-- name: Molten Collapse
-  weight: 0.125
-  avg_copies: 1.0
-- name: Swamp
-  weight: 0.125
-  avg_copies: 1.0
-- name: Witherbloom Command
-  weight: 0.125
-  avg_copies: 1.0
-- name: Rest in Peace
   weight: 0.125
   avg_copies: 1.0
 - name: Vampires' Vengeance
@@ -204,13 +189,28 @@ top_cards:
 - name: Brainsurge
   weight: 0.125
   avg_copies: 1.0
-- name: Commercial District
+- name: Valakut Awakening
+  weight: 0.125
+  avg_copies: 1.0
+- name: Turn the Earth
   weight: 0.125
   avg_copies: 1.0
 - name: Meltdown
   weight: 0.125
   avg_copies: 1.0
-- name: Valakut Awakening
+- name: Molten Collapse
+  weight: 0.125
+  avg_copies: 1.0
+- name: Witherbloom Command
+  weight: 0.125
+  avg_copies: 1.0
+- name: Commercial District
+  weight: 0.125
+  avg_copies: 1.0
+- name: Swamp
+  weight: 0.125
+  avg_copies: 1.0
+- name: Rest in Peace
   weight: 0.125
   avg_copies: 1.0
 ---

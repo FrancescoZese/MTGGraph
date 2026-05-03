@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: Azorius Control
-meta_share: 0.0089
+meta_share: 0.0086
 list_count: 13
 top_cards:
 - name: Orim's Chant
@@ -33,10 +33,10 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.0
-- name: Island
+- name: Plains
   weight: 1.0
   avg_copies: 2.0
-- name: Plains
+- name: Island
   weight: 1.0
   avg_copies: 2.0
 - name: Meticulous Archive
@@ -147,13 +147,13 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.1538
   avg_copies: 3.0
+- name: Sink into Stupor
+  weight: 0.1538
+  avg_copies: 2.0
 - name: Windswept Heath
   weight: 0.1538
   avg_copies: 2.0
 - name: Fire Magic
-  weight: 0.1538
-  avg_copies: 2.0
-- name: Sink into Stupor
   weight: 0.1538
   avg_copies: 2.0
 - name: Tune the Narrative
@@ -162,33 +162,39 @@ top_cards:
 - name: March of Otherworldly Light
   weight: 0.1538
   avg_copies: 1.5
-- name: Mistrise Village
+- name: Disruptor Flute
   weight: 0.1538
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Mistrise Village
   weight: 0.1538
   avg_copies: 1.0
 - name: Breeding Pool
   weight: 0.1538
   avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Beza, the Bounding Spring
+  weight: 0.1538
+  avg_copies: 1.0
+- name: Hedge Maze
   weight: 0.1538
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.1538
   avg_copies: 1.0
-- name: Beza, the Bounding Spring
+- name: Gemstone Caverns
   weight: 0.1538
   avg_copies: 1.0
-- name: Disruptor Flute
-  weight: 0.1538
-  avg_copies: 1.0
-- name: Flow State
-  weight: 0.0769
-  avg_copies: 2.0
 - name: Floodfarm Verge
   weight: 0.0769
   avg_copies: 2.0
+- name: Flow State
+  weight: 0.0769
+  avg_copies: 2.0
+- name: Field of Ruin
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Jace, the Mind Sculptor
+  weight: 0.0769
+  avg_copies: 1.0
 - name: Commandeer
   weight: 0.0769
   avg_copies: 1.0
@@ -201,25 +207,19 @@ top_cards:
 - name: Dress Down
   weight: 0.0769
   avg_copies: 1.0
-- name: Strix Serenade
-  weight: 0.0769
-  avg_copies: 1.0
 - name: Misty Rainforest
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Celestial Colonnade
   weight: 0.0769
   avg_copies: 1.0
 - name: Vendilion Clique
   weight: 0.0769
   avg_copies: 1.0
-- name: Jace, the Mind Sculptor
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Field of Ruin
-  weight: 0.0769
-  avg_copies: 1.0
 - name: Wan Shi Tong, Librarian
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Celestial Colonnade
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Strix Serenade
   weight: 0.0769
   avg_copies: 1.0
 ---

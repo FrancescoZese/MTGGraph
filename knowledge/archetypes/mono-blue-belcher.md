@@ -2,19 +2,19 @@
 colors:
 - U
 name: Mono Blue Belcher
-meta_share: 0.0206
+meta_share: 0.0198
 list_count: 30
 top_cards:
 - name: Goblin Charbelcher
-  weight: 1.0
-  avg_copies: 4.0
-- name: Lotus Bloom
   weight: 1.0
   avg_copies: 4.0
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 4.0
 - name: Whir of Invention
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lotus Bloom
   weight: 1.0
   avg_copies: 4.0
 - name: Disrupting Shoal
@@ -113,34 +113,34 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 0.1667
   avg_copies: 1.86
-- name: Stock Up
+- name: Mountain
   weight: 0.1667
   avg_copies: 1.0
-- name: Mountain
+- name: Stock Up
   weight: 0.1667
   avg_copies: 1.0
 - name: Dusk Rose Reliquary
   weight: 0.1333
   avg_copies: 1.0
-- name: Talisman of Progress
-  weight: 0.0667
-  avg_copies: 1.0
 - name: Step Through
   weight: 0.0667
   avg_copies: 1.0
-- name: Portable Hole
-  weight: 0.0333
+- name: Talisman of Progress
+  weight: 0.0667
   avg_copies: 1.0
 - name: Surgical Extraction
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Portable Hole
   weight: 0.0333
   avg_copies: 1.0
 - name: Displacement Wave
   weight: 0.0333
   avg_copies: 1.0
-- name: Witch Enchanter
+- name: Hope of Ghirapur
   weight: 0.0333
   avg_copies: 1.0
-- name: Hope of Ghirapur
+- name: Witch Enchanter
   weight: 0.0333
   avg_copies: 1.0
 ---

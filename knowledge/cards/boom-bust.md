@@ -7,7 +7,7 @@ name: Boom // Bust
 scryfall_id: 8ffdee1b-bb5d-44e6-a90d-6f9e9266d4fd
 set: tsr
 type: Sorcery // Sorcery
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   unknown-3:
     weight: 1.0

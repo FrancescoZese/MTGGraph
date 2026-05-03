@@ -7,9 +7,12 @@ name: Life's Legacy
 scryfall_id: bf0e70d2-5f1a-441b-99b9-d003fa15b999
 set: ncc
 type: Sorcery
-meta_presence: 0.0007
+meta_presence: 0.0013
 archetypes:
   mono-green-ramp:
     weight: 0.2
     avg_copies: 4.0
+  unknown-11:
+    weight: 1.0
+    avg_copies: 3.0
 ---

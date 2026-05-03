@@ -6,10 +6,10 @@ name: Blood Crypt
 scryfall_id: 6da63cc5-4624-4491-abd9-9b600c3fefe2
 set: ecl
 type: Land — Swamp Mountain
-meta_presence: 0.0674
+meta_presence: 0.0681
 archetypes:
   domain-zoo:
-    weight: 0.0612
+    weight: 0.0588
     avg_copies: 1.0
   reanimator:
     weight: 0.8846
@@ -50,4 +50,10 @@ archetypes:
   unknown-5:
     weight: 1.0
     avg_copies: 2.0
+  unknown-8:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-10:
+    weight: 1.0
+    avg_copies: 1.0
 ---

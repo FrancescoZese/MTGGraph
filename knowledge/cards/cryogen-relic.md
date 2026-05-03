@@ -10,6 +10,6 @@ type: Artifact
 meta_presence: 0.0007
 archetypes:
   jeskai-energy:
-    weight: 0.0109
+    weight: 0.0104
     avg_copies: 2.0
 ---

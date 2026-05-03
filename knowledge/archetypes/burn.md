@@ -3,7 +3,7 @@ colors:
 - W
 - R
 name: Burn
-meta_share: 0.0048
+meta_share: 0.0046
 list_count: 7
 top_cards:
 - name: Boltwave
@@ -18,10 +18,10 @@ top_cards:
 - name: Skullcrack
   weight: 1.0
   avg_copies: 3.57
-- name: Skewer the Critics
+- name: Barbarian Ring
   weight: 1.0
   avg_copies: 3.14
-- name: Barbarian Ring
+- name: Skewer the Critics
   weight: 1.0
   avg_copies: 3.14
 - name: Mountain
@@ -75,22 +75,22 @@ top_cards:
 - name: Arena of Glory
   weight: 0.4286
   avg_copies: 3.0
-- name: Pyroclasm
+- name: Obsidian Charmaw
   weight: 0.4286
   avg_copies: 2.33
-- name: Obsidian Charmaw
+- name: Pyroclasm
   weight: 0.4286
   avg_copies: 2.33
 - name: Surgical Extraction
   weight: 0.4286
   avg_copies: 2.0
+- name: Shard Volley
+  weight: 0.4286
+  avg_copies: 1.67
 - name: Deflecting Palm
   weight: 0.4286
   avg_copies: 1.67
 - name: Sacred Foundry
-  weight: 0.4286
-  avg_copies: 1.67
-- name: Shard Volley
   weight: 0.4286
   avg_copies: 1.67
 - name: Exquisite Firecraft
@@ -111,13 +111,13 @@ top_cards:
 - name: Meltdown
   weight: 0.2857
   avg_copies: 1.5
-- name: Ragavan, Nimble Pilferer
+- name: Disruptor Flute
   weight: 0.2857
   avg_copies: 1.0
 - name: Molten Rain
   weight: 0.2857
   avg_copies: 1.0
-- name: Disruptor Flute
+- name: Ragavan, Nimble Pilferer
   weight: 0.2857
   avg_copies: 1.0
 - name: Vexing Devil
@@ -129,10 +129,10 @@ top_cards:
 - name: Sanctifier en-Vec
   weight: 0.1429
   avg_copies: 4.0
-- name: Containment Priest
+- name: Magebane Lizard
   weight: 0.1429
   avg_copies: 3.0
-- name: Magebane Lizard
+- name: Containment Priest
   weight: 0.1429
   avg_copies: 3.0
 - name: Tunnel Ignus
@@ -147,19 +147,19 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.1429
   avg_copies: 2.0
-- name: Elegant Parlor
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Blood Moon
+- name: Rain of Gore
   weight: 0.1429
   avg_copies: 1.0
 - name: card:volcanic-fallout
   weight: 0.1429
   avg_copies: 1.0
-- name: Rain of Gore
+- name: Rakdos Charm
   weight: 0.1429
   avg_copies: 1.0
-- name: Rakdos Charm
+- name: Elegant Parlor
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Blood Moon
   weight: 0.1429
   avg_copies: 1.0
 ---

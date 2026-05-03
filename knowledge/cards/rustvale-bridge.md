@@ -6,7 +6,7 @@ name: Rustvale Bridge
 scryfall_id: da54e458-1d4f-45f0-a225-99eb9c4049fb
 set: eoc
 type: Artifact Land
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   unknown-3:
     weight: 1.0

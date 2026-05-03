@@ -7,9 +7,12 @@ name: The Great Henge
 scryfall_id: 6340e0f3-7f9c-4d71-8daf-e1be5505eb5b
 set: cmm
 type: Legendary Artifact
-meta_presence: 0.0007
+meta_presence: 0.0013
 archetypes:
   mono-green-ramp:
     weight: 0.2
+    avg_copies: 4.0
+  unknown-11:
+    weight: 1.0
     avg_copies: 4.0
 ---

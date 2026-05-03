@@ -7,7 +7,7 @@ name: Fuel the Flames
 scryfall_id: 624335fb-8a0b-4fa9-aefb-60ac641a7934
 set: dft
 type: Instant
-meta_presence: 0.0007
+meta_presence: 0.0013
 archetypes:
   unknown-1:
     weight: 1.0

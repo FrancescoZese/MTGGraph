@@ -11,6 +11,6 @@ type: Creature — Bird Cleric
 meta_presence: 0.0007
 archetypes:
   boros-energy:
-    weight: 0.0036
+    weight: 0.0035
     avg_copies: 4.0
 ---

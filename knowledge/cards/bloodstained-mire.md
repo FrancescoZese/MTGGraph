@@ -6,16 +6,16 @@ name: Bloodstained Mire
 scryfall_id: 579743fe-f71e-4cb2-8629-d6b02ed1591d
 set: mh3
 type: Land
-meta_presence: 0.1436
+meta_presence: 0.1468
 archetypes:
   ruby-storm:
-    weight: 0.975
-    avg_copies: 2.26
+    weight: 0.9762
+    avg_copies: 2.24
   boros-energy:
-    weight: 0.0146
+    weight: 0.0141
     avg_copies: 2.75
   dimir-control:
-    weight: 0.0938
+    weight: 0.0909
     avg_copies: 2.33
   necrodominance:
     weight: 0.1364
@@ -27,14 +27,14 @@ archetypes:
     weight: 0.7143
     avg_copies: 1.8
   mardu-blink:
-    weight: 0.8824
-    avg_copies: 1.87
+    weight: 0.8889
+    avg_copies: 1.81
   hollow-one:
     weight: 1.0
     avg_copies: 3.67
   izzet-prowess:
-    weight: 0.8889
-    avg_copies: 2.88
+    weight: 0.8806
+    avg_copies: 2.9
   indomitable-creativity:
     weight: 1.0
     avg_copies: 2.75
@@ -64,11 +64,23 @@ archetypes:
     avg_copies: 3.0
   soultrader-combo:
     weight: 1.0
-    avg_copies: 1.5
+    avg_copies: 1.67
   unknown-4:
     weight: 0.5
     avg_copies: 1.0
   unknown-5:
     weight: 1.0
     avg_copies: 4.0
+  unknown-8:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-7:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-12:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-10:
+    weight: 1.0
+    avg_copies: 3.0
 ---

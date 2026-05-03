@@ -6,14 +6,14 @@ name: Phyrexian Tower
 scryfall_id: 0b47f6d2-9f65-47a4-bfc4-15619befe53d
 set: mh3
 type: Legendary Land
-meta_presence: 0.0027
+meta_presence: 0.0033
 archetypes:
   reanimator:
     weight: 0.0385
     avg_copies: 3.0
   soultrader-combo:
     weight: 1.0
-    avg_copies: 2.5
+    avg_copies: 2.0
   unknown-4:
     weight: 0.5
     avg_copies: 4.0

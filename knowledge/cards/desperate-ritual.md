@@ -7,7 +7,7 @@ name: Desperate Ritual
 scryfall_id: 3825b85d-07df-43b9-a8d8-930863262d83
 set: uma
 type: Instant — Arcane
-meta_presence: 0.0351
+meta_presence: 0.0364
 archetypes:
   ruby-storm:
     weight: 1.0

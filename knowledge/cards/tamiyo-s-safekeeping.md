@@ -7,9 +7,9 @@ name: Tamiyo's Safekeeping
 scryfall_id: fd4b7ee2-de65-4288-872d-486065a4f226
 set: neo
 type: Instant
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   hardened-scales:
-    weight: 0.6667
-    avg_copies: 1.5
+    weight: 0.5
+    avg_copies: 1.67
 ---

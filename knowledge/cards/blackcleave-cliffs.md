@@ -6,7 +6,7 @@ name: Blackcleave Cliffs
 scryfall_id: f75715ce-744f-409c-aeb1-e66eb9186a74
 set: dsc
 type: Land
-meta_presence: 0.0103
+meta_presence: 0.0099
 archetypes:
   hollow-one:
     weight: 0.0952

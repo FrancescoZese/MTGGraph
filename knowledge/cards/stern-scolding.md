@@ -7,11 +7,11 @@ name: Stern Scolding
 scryfall_id: 3ca1e1de-b916-445f-b3b2-0f4d0cc7ceeb
 set: ltr
 type: Instant
-meta_presence: 0.0412
+meta_presence: 0.041
 archetypes:
   dimir-control:
-    weight: 0.3438
-    avg_copies: 1.24
+    weight: 0.3485
+    avg_copies: 1.23
   mono-blue-belcher:
     weight: 0.9667
     avg_copies: 1.94
@@ -29,5 +29,8 @@ archetypes:
     avg_copies: 1.0
   grixis-control:
     weight: 0.2
+    avg_copies: 1.0
+  unknown-12:
+    weight: 1.0
     avg_copies: 1.0
 ---

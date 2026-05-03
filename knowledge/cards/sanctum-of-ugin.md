@@ -9,6 +9,6 @@ type: Land
 meta_presence: 0.0165
 archetypes:
   eldrazi-ramp:
-    weight: 0.8276
+    weight: 0.8065
     avg_copies: 1.0
 ---

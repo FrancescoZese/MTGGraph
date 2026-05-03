@@ -7,7 +7,7 @@ name: Ancient Grudge
 scryfall_id: 5f28d4a2-6c75-44c2-93ac-e7159c1c623f
 set: tsr
 type: Instant
-meta_presence: 0.0041
+meta_presence: 0.004
 archetypes:
   hollow-one:
     weight: 0.0476

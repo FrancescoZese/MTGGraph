@@ -9,6 +9,6 @@ type: Instant // Land
 meta_presence: 0.0007
 archetypes:
   broodscale-combo:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 1.0
 ---

@@ -7,9 +7,12 @@ name: Village Rites
 scryfall_id: 42ed35e9-51cd-468a-86a9-9412553cf50d
 set: inr
 type: Instant
-meta_presence: 0.0014
+meta_presence: 0.002
 archetypes:
   reanimator:
     weight: 0.0769
     avg_copies: 2.5
+  unknown-8:
+    weight: 1.0
+    avg_copies: 2.0
 ---

@@ -11,6 +11,6 @@ type: Creature — Zombie Ninja
 meta_presence: 0.0007
 archetypes:
   dimir-control:
-    weight: 0.0156
+    weight: 0.0152
     avg_copies: 3.0
 ---

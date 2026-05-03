@@ -7,9 +7,12 @@ name: Academic Dispute
 scryfall_id: 4620cc3b-e401-4096-b310-fed080806344
 set: stx
 type: Instant
-meta_presence: 0.0062
+meta_presence: 0.0066
 archetypes:
   izzet-prowess:
-    weight: 0.1429
+    weight: 0.1343
     avg_copies: 3.78
+  unknown-7:
+    weight: 1.0
+    avg_copies: 4.0
 ---

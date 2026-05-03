@@ -4,7 +4,7 @@ colors:
 - B
 - G
 name: Living End
-meta_share: 0.0172
+meta_share: 0.0165
 list_count: 25
 top_cards:
 - name: Endurance
@@ -13,10 +13,10 @@ top_cards:
 - name: Force of Negation
   weight: 1.0
   avg_copies: 3.92
-- name: Shardless Agent
+- name: Subtlety
   weight: 1.0
   avg_copies: 3.88
-- name: Subtlety
+- name: Shardless Agent
   weight: 1.0
   avg_copies: 3.88
 - name: Misty Rainforest
@@ -88,10 +88,10 @@ top_cards:
 - name: Overgrown Tomb
   weight: 0.68
   avg_copies: 1.06
-- name: Halo Forager
+- name: Undercity Sewers
   weight: 0.68
   avg_copies: 1.0
-- name: Undercity Sewers
+- name: Halo Forager
   weight: 0.68
   avg_copies: 1.0
 - name: Mistrise Village
@@ -100,10 +100,10 @@ top_cards:
 - name: Deceit
   weight: 0.6
   avg_copies: 1.4
-- name: Harvester of Misery
+- name: Damping Sphere
   weight: 0.56
   avg_copies: 1.07
-- name: Damping Sphere
+- name: Harvester of Misery
   weight: 0.56
   avg_copies: 1.07
 - name: Flooded Grove
@@ -136,25 +136,25 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 0.32
   avg_copies: 2.22
-- name: Swamp
+- name: Temple Garden
   weight: 0.32
   avg_copies: 1.0
 - name: Lush Portico
   weight: 0.32
   avg_copies: 1.0
-- name: Temple Garden
+- name: Swamp
   weight: 0.32
   avg_copies: 1.0
 - name: Clarion Conqueror
   weight: 0.28
   avg_copies: 2.57
+- name: Flare of Denial
+  weight: 0.28
+  avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.28
   avg_copies: 1.0
 - name: Hallowed Fountain
-  weight: 0.28
-  avg_copies: 1.0
-- name: Flare of Denial
   weight: 0.28
   avg_copies: 1.0
 - name: Kavaero, Mind-Bitten
@@ -193,19 +193,19 @@ top_cards:
 - name: Atraxa, Grand Unifier
   weight: 0.04
   avg_copies: 3.0
+- name: Fulminator Mage
+  weight: 0.04
+  avg_copies: 2.0
 - name: Steam Vents
+  weight: 0.04
+  avg_copies: 2.0
+- name: Flooded Strand
   weight: 0.04
   avg_copies: 2.0
 - name: Titanoth Rex
   weight: 0.04
   avg_copies: 2.0
-- name: Fulminator Mage
-  weight: 0.04
-  avg_copies: 2.0
 - name: Verdant Catacombs
-  weight: 0.04
-  avg_copies: 2.0
-- name: Flooded Strand
   weight: 0.04
   avg_copies: 2.0
 - name: Sunken Ruins
@@ -214,13 +214,13 @@ top_cards:
 - name: Collector Ouphe
   weight: 0.04
   avg_copies: 1.0
+- name: Stomping Ground
+  weight: 0.04
+  avg_copies: 1.0
 - name: Murderous Cut
   weight: 0.04
   avg_copies: 1.0
 - name: Press the Enemy
-  weight: 0.04
-  avg_copies: 1.0
-- name: Stomping Ground
   weight: 0.04
   avg_copies: 1.0
 - name: Windcaller Aven

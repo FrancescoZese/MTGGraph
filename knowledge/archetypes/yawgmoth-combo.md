@@ -3,7 +3,7 @@ colors:
 - B
 - G
 name: Yawgmoth Combo
-meta_share: 0.0131
+meta_share: 0.0126
 list_count: 19
 top_cards:
 - name: Verdant Catacombs
@@ -54,10 +54,10 @@ top_cards:
 - name: Forest
   weight: 1.0
   avg_copies: 1.68
-- name: Vexing Bauble
+- name: Formidable Speaker
   weight: 1.0
   avg_copies: 1.16
-- name: Formidable Speaker
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.16
 - name: Underground Mortuary
@@ -66,19 +66,19 @@ top_cards:
 - name: Grist, the Hunger Tide
   weight: 1.0
   avg_copies: 1.07
-- name: Endurance
-  weight: 1.0
-  avg_copies: 1.0
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
 - name: Strangleroot Geist
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Soulless Jailer
   weight: 1.0
   avg_copies: 1.0
-- name: Soulless Jailer
+- name: Endurance
+  weight: 1.0
+  avg_copies: 1.0
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Windswept Heath
@@ -117,34 +117,34 @@ top_cards:
 - name: Wooded Foothills
   weight: 0.4737
   avg_copies: 1.11
-- name: Haywire Mite
+- name: Ignoble Hierarch
   weight: 0.3158
   avg_copies: 1.0
-- name: Ignoble Hierarch
+- name: Haywire Mite
   weight: 0.3158
   avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.2632
   avg_copies: 1.0
-- name: Hapatra, Vizier of Poisons
-  weight: 0.1579
-  avg_copies: 1.0
 - name: Kraul Harpooner
   weight: 0.1579
   avg_copies: 1.0
-- name: Assassin's Trophy
-  weight: 0.1053
+- name: Hapatra, Vizier of Poisons
+  weight: 0.1579
   avg_copies: 1.0
 - name: Culling Ritual
   weight: 0.1053
   avg_copies: 1.0
-- name: Nurturing Peatland
-  weight: 0.0526
+- name: Assassin's Trophy
+  weight: 0.1053
   avg_copies: 1.0
 - name: Murderous Cut
   weight: 0.0526
   avg_copies: 1.0
 - name: Sylvan Safekeeper
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Nurturing Peatland
   weight: 0.0526
   avg_copies: 1.0
 ---

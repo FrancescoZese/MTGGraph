@@ -10,8 +10,8 @@ type: Instant
 meta_presence: 0.1045
 archetypes:
   affinity:
-    weight: 0.8299
-    avg_copies: 2.54
+    weight: 0.8312
+    avg_copies: 2.56
   hammer-time:
     weight: 1.0
     avg_copies: 3.33

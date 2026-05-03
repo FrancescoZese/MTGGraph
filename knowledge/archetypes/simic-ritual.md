@@ -3,7 +3,7 @@ colors:
 - U
 - G
 name: Simic Ritual
-meta_share: 0.0261
+meta_share: 0.0251
 list_count: 38
 top_cards:
 - name: Birthing Ritual
@@ -141,10 +141,13 @@ top_cards:
 - name: Psychic Frog
   weight: 0.0263
   avg_copies: 2.0
-- name: Steam Vents
+- name: Dress Down
   weight: 0.0263
   avg_copies: 1.0
-- name: Toxic Deluge
+- name: Pond Prophet
+  weight: 0.0263
+  avg_copies: 1.0
+- name: Stern Scolding
   weight: 0.0263
   avg_copies: 1.0
 - name: Thundering Falls
@@ -156,31 +159,28 @@ top_cards:
 - name: Plague Engineer
   weight: 0.0263
   avg_copies: 1.0
-- name: Scalding Tarn
-  weight: 0.0263
-  avg_copies: 1.0
-- name: Stomping Ground
+- name: Pick Your Poison
   weight: 0.0263
   avg_copies: 1.0
 - name: Willowrush Verge
   weight: 0.0263
   avg_copies: 1.0
-- name: Pond Prophet
+- name: Steam Vents
   weight: 0.0263
   avg_copies: 1.0
-- name: Dress Down
+- name: Hurkyl's Recall
   weight: 0.0263
   avg_copies: 1.0
-- name: Stern Scolding
-  weight: 0.0263
-  avg_copies: 1.0
-- name: Pick Your Poison
+- name: Stomping Ground
   weight: 0.0263
   avg_copies: 1.0
 - name: Spell Snare
   weight: 0.0263
   avg_copies: 1.0
-- name: Hurkyl's Recall
+- name: Toxic Deluge
+  weight: 0.0263
+  avg_copies: 1.0
+- name: Scalding Tarn
   weight: 0.0263
   avg_copies: 1.0
 ---

@@ -3,7 +3,7 @@ colors:
 - U
 - R
 name: Grixis Control
-meta_share: 0.0034
+meta_share: 0.0033
 list_count: 5
 top_cards:
 - name: Island
@@ -12,10 +12,10 @@ top_cards:
 - name: Counterspell
   weight: 1.0
   avg_copies: 4.0
-- name: Consign to Memory
+- name: Snapcaster Mage
   weight: 1.0
   avg_copies: 3.8
-- name: Snapcaster Mage
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.8
 - name: Flame of Anor
@@ -99,16 +99,16 @@ top_cards:
 - name: Sink into Stupor
   weight: 0.4
   avg_copies: 1.0
+- name: Tishana's Tidebinder
+  weight: 0.2
+  avg_copies: 4.0
 - name: Preordain
   weight: 0.2
   avg_copies: 4.0
 - name: Fatal Push
   weight: 0.2
   avg_copies: 4.0
-- name: Tishana's Tidebinder
-  weight: 0.2
-  avg_copies: 4.0
-- name: Break the Ice
+- name: Marang River Regent
   weight: 0.2
   avg_copies: 3.0
 - name: Traumatic Critique
@@ -117,73 +117,73 @@ top_cards:
 - name: Flare of Denial
   weight: 0.2
   avg_copies: 3.0
-- name: Marang River Regent
+- name: Break the Ice
   weight: 0.2
   avg_copies: 3.0
-- name: Orcish Bowmasters
-  weight: 0.2
-  avg_copies: 2.0
 - name: Thundertrap Trainer
-  weight: 0.2
-  avg_copies: 2.0
-- name: Field of Ruin
-  weight: 0.2
-  avg_copies: 2.0
-- name: Fable of the Mirror-Breaker
-  weight: 0.2
-  avg_copies: 2.0
-- name: Spirebluff Canal
   weight: 0.2
   avg_copies: 2.0
 - name: Undercity Sewers
   weight: 0.2
   avg_copies: 2.0
-- name: Lórien Revealed
-  weight: 0.2
-  avg_copies: 2.0
 - name: Prismari Charm
   weight: 0.2
   avg_copies: 2.0
-- name: Sheoldred's Edict
+- name: Lórien Revealed
+  weight: 0.2
+  avg_copies: 2.0
+- name: Field of Ruin
   weight: 0.2
   avg_copies: 2.0
 - name: Watery Grave
   weight: 0.2
   avg_copies: 2.0
+- name: Spirebluff Canal
+  weight: 0.2
+  avg_copies: 2.0
 - name: Cling to Dust
   weight: 0.2
   avg_copies: 2.0
-- name: Vedalken Shackles
+- name: Orcish Bowmasters
+  weight: 0.2
+  avg_copies: 2.0
+- name: Fable of the Mirror-Breaker
+  weight: 0.2
+  avg_copies: 2.0
+- name: Sheoldred's Edict
+  weight: 0.2
+  avg_copies: 2.0
+- name: Dress Down
   weight: 0.2
   avg_copies: 1.0
 - name: Swamp
   weight: 0.2
   avg_copies: 1.0
-- name: Dress Down
+- name: Vedalken Shackles
   weight: 0.2
   avg_copies: 1.0
-- name: Brotherhood's End
-  weight: 0.2
-  avg_copies: 1.0
-- name: Stern Scolding
-  weight: 0.2
-  avg_copies: 1.0
-- name: Consider
+- name: Logic Knot
   weight: 0.2
   avg_copies: 1.0
 - name: Vampires' Vengeance
   weight: 0.2
   avg_copies: 1.0
-- name: Hurkyl's Recall
+- name: Stern Scolding
   weight: 0.2
   avg_copies: 1.0
 - name: Agna Qel'a
   weight: 0.2
   avg_copies: 1.0
-- name: Spell Pierce
+- name: Brotherhood's End
   weight: 0.2
   avg_copies: 1.0
-- name: Logic Knot
+- name: Hurkyl's Recall
+  weight: 0.2
+  avg_copies: 1.0
+- name: Consider
+  weight: 0.2
+  avg_copies: 1.0
+- name: Spell Pierce
   weight: 0.2
   avg_copies: 1.0
 ---

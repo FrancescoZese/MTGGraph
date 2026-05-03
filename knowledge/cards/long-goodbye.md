@@ -7,9 +7,9 @@ name: Long Goodbye
 scryfall_id: c3896705-bbd2-4ffb-a590-ee78e0eabdc5
 set: mkm
 type: Instant
-meta_presence: 0.0007
+meta_presence: 0.0013
 archetypes:
   mill:
-    weight: 0.125
+    weight: 0.2222
     avg_copies: 1.0
 ---

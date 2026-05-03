@@ -4,22 +4,22 @@ colors:
 - U
 - B
 name: Esper Blink
-meta_share: 0.0089
+meta_share: 0.0086
 list_count: 13
 top_cards:
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Overlord of the Balemurk
-  weight: 1.0
-  avg_copies: 4.0
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Phelia, Exuberant Shepherd
+- name: Overlord of the Balemurk
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 3.92
-- name: Marsh Flats
+- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.92
 - name: Fatal Push
@@ -49,16 +49,16 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.08
-- name: Meticulous Archive
-  weight: 1.0
-  avg_copies: 1.0
 - name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Watery Grave
+  weight: 1.0
+  avg_copies: 1.0
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Thoughtseize
@@ -97,13 +97,13 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.5385
   avg_copies: 2.57
-- name: Island
+- name: Surgical Extraction
   weight: 0.2308
   avg_copies: 1.0
 - name: Bleachbone Verge
   weight: 0.2308
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Island
   weight: 0.2308
   avg_copies: 1.0
 - name: Psychic Frog
@@ -133,28 +133,28 @@ top_cards:
 - name: Elesh Norn, Mother of Machines
   weight: 0.0769
   avg_copies: 1.0
-- name: Erode
+- name: Hydroelectric Specimen
   weight: 0.0769
   avg_copies: 1.0
 - name: Skycoach Conductor
   weight: 0.0769
   avg_copies: 1.0
-- name: Hydroelectric Specimen
+- name: Erode
   weight: 0.0769
   avg_copies: 1.0
 - name: Windswept Heath
   weight: 0.0769
   avg_copies: 1.0
-- name: Emptiness
+- name: Celestial Purge
   weight: 0.0769
   avg_copies: 1.0
-- name: March of Otherworldly Light
+- name: Emptiness
   weight: 0.0769
   avg_copies: 1.0
 - name: Strix Serenade
   weight: 0.0769
   avg_copies: 1.0
-- name: Celestial Purge
+- name: March of Otherworldly Light
   weight: 0.0769
   avg_copies: 1.0
 ---
