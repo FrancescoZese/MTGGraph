@@ -50,9 +50,9 @@ archetypes:
   esper-control:
     weight: 1.0
     avg_copies: 4.0
-  grixis-control:
+  izzet-wizards:
     weight: 1.0
-    avg_copies: 2.5
+    avg_copies: 1.8
   eldrazi-breach:
     weight: 0.5
     avg_copies: 1.0
@@ -65,9 +65,6 @@ archetypes:
   izzet-splinter-twin:
     weight: 0.5
     avg_copies: 1.0
-  izzet-wizards:
-    weight: 1.0
-    avg_copies: 2.0
   esper-midrange:
     weight: 1.0
     avg_copies: 4.0
@@ -89,6 +86,9 @@ archetypes:
   soultrader-combo:
     weight: 0.6667
     avg_copies: 2.0
+  grixis-control:
+    weight: 1.0
+    avg_copies: 4.0
   izzet-murktide:
     weight: 1.0
     avg_copies: 1.0

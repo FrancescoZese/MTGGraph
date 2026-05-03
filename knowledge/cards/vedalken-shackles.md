@@ -8,7 +8,7 @@ set: mma
 type: Artifact
 meta_presence: 0.0007
 archetypes:
-  grixis-control:
-    weight: 0.1667
+  izzet-wizards:
+    weight: 0.2
     avg_copies: 1.0
 ---

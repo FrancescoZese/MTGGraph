@@ -24,8 +24,8 @@ archetypes:
   esper-control:
     weight: 1.0
     avg_copies: 4.0
-  grixis-control:
-    weight: 0.3333
+  izzet-wizards:
+    weight: 0.4
     avg_copies: 2.5
   goryo2:
     weight: 1.0

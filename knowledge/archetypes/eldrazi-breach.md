@@ -6,19 +6,19 @@ name: Eldrazi Breach
 meta_share: 0.0026
 list_count: 4
 top_cards:
-- name: Kozilek's Command
+- name: Emrakul, the Aeons Torn
   weight: 1.0
   avg_copies: 4.0
-- name: Emrakul, the Aeons Torn
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
-- name: Eldrazi Temple
+- name: Through the Breach
   weight: 1.0
   avg_copies: 4.0
-- name: Through the Breach
+- name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
 - name: Devourer of Destiny
@@ -84,40 +84,40 @@ top_cards:
 - name: Spell Snare
   weight: 0.5
   avg_copies: 1.5
+- name: Polluted Delta
+  weight: 0.5
+  avg_copies: 1.0
+- name: Dress Down
+  weight: 0.5
+  avg_copies: 1.0
 - name: Thundering Falls
   weight: 0.5
   avg_copies: 1.0
 - name: Sink into Stupor
   weight: 0.5
   avg_copies: 1.0
-- name: Dress Down
-  weight: 0.5
-  avg_copies: 1.0
-- name: Polluted Delta
-  weight: 0.5
-  avg_copies: 1.0
-- name: Faithless Looting
-  weight: 0.25
-  avg_copies: 4.0
 - name: Bloodstained Mire
-  weight: 0.25
-  avg_copies: 4.0
-- name: Talisman of Indulgence
   weight: 0.25
   avg_copies: 4.0
 - name: Goryo's Vengeance
   weight: 0.25
   avg_copies: 4.0
+- name: Talisman of Indulgence
+  weight: 0.25
+  avg_copies: 4.0
 - name: Thoughtseize
   weight: 0.25
   avg_copies: 4.0
-- name: Fire Magic
+- name: Faithless Looting
   weight: 0.25
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Trinisphere
   weight: 0.25
   avg_copies: 3.0
-- name: Talisman of Curiosity
+- name: Fire Magic
+  weight: 0.25
+  avg_copies: 3.0
+- name: Fable of the Mirror-Breaker
   weight: 0.25
   avg_copies: 2.0
 - name: Blood Crypt
@@ -126,13 +126,10 @@ top_cards:
 - name: Remand
   weight: 0.25
   avg_copies: 2.0
-- name: Meltdown
-  weight: 0.25
-  avg_copies: 2.0
-- name: Ashiok, Dream Render
-  weight: 0.25
-  avg_copies: 2.0
 - name: Void Mirror
+  weight: 0.25
+  avg_copies: 2.0
+- name: Talisman of Curiosity
   weight: 0.25
   avg_copies: 2.0
 - name: Raucous Theater
@@ -141,7 +138,10 @@ top_cards:
 - name: Unholy Heat
   weight: 0.25
   avg_copies: 2.0
-- name: Fable of the Mirror-Breaker
+- name: Meltdown
+  weight: 0.25
+  avg_copies: 2.0
+- name: Ashiok, Dream Render
   weight: 0.25
   avg_copies: 2.0
 - name: Boseiju, Who Shelters All

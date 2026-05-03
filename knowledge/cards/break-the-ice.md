@@ -18,9 +18,6 @@ archetypes:
   simic-ritual:
     weight: 0.025
     avg_copies: 1.0
-  grixis-control:
-    weight: 0.1667
-    avg_copies: 3.0
   rakdos-aggro:
     weight: 0.1667
     avg_copies: 2.0
@@ -30,4 +27,7 @@ archetypes:
   soultrader-combo:
     weight: 0.3333
     avg_copies: 1.0
+  grixis-control:
+    weight: 0.5
+    avg_copies: 3.0
 ---

@@ -53,9 +53,6 @@ archetypes:
   orzhov-blink:
     weight: 1.0
     avg_copies: 1.0
-  grixis-control:
-    weight: 0.3333
-    avg_copies: 1.0
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
@@ -92,6 +89,9 @@ archetypes:
   soultrader-combo:
     weight: 1.0
     avg_copies: 3.0
+  grixis-control:
+    weight: 1.0
+    avg_copies: 1.0
   sultai-midrange:
     weight: 1.0
     avg_copies: 1.0

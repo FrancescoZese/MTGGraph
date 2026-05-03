@@ -27,16 +27,16 @@ archetypes:
   esper-control:
     weight: 1.0
     avg_copies: 4.0
-  grixis-control:
+  izzet-wizards:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.8
   izzet-splinter-twin:
     weight: 0.5
     avg_copies: 3.0
-  izzet-wizards:
-    weight: 1.0
-    avg_copies: 3.0
   goryo3:
+    weight: 1.0
+    avg_copies: 4.0
+  grixis-control:
     weight: 1.0
     avg_copies: 4.0
   izzet-murktide:

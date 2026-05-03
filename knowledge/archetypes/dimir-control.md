@@ -132,10 +132,10 @@ top_cards:
 - name: Spell Pierce
   weight: 0.2388
   avg_copies: 1.0
-- name: Damnation
+- name: Logic Knot
   weight: 0.209
   avg_copies: 1.0
-- name: Logic Knot
+- name: Damnation
   weight: 0.209
   avg_copies: 1.0
 - name: Preordain
@@ -195,10 +195,10 @@ top_cards:
 - name: Celestial Purge
   weight: 0.0448
   avg_copies: 1.0
-- name: Moonshadow
+- name: Mishra's Bauble
   weight: 0.0299
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Moonshadow
   weight: 0.0299
   avg_copies: 4.0
 - name: Flame of Anor
@@ -210,19 +210,10 @@ top_cards:
 - name: Tasigur, the Golden Fang
   weight: 0.0299
   avg_copies: 2.0
-- name: Prismatic Ending
-  weight: 0.0299
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.0299
-  avg_copies: 1.0
 - name: Dreams of Steel and Oil
   weight: 0.0299
   avg_copies: 1.0
 - name: Soul-Guide Lantern
-  weight: 0.0299
-  avg_copies: 1.0
-- name: Shoot the Sheriff
   weight: 0.0299
   avg_copies: 1.0
 - name: Anoint with Affliction
@@ -231,10 +222,19 @@ top_cards:
 - name: Vanishing Verse
   weight: 0.0299
   avg_copies: 1.0
-- name: Death's Shadow
+- name: Prismatic Ending
+  weight: 0.0299
+  avg_copies: 1.0
+- name: Shoot the Sheriff
+  weight: 0.0299
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.0299
+  avg_copies: 1.0
+- name: Street Wraith
   weight: 0.0149
   avg_copies: 4.0
-- name: Street Wraith
+- name: Death's Shadow
   weight: 0.0149
   avg_copies: 4.0
 - name: Snow-Covered Island
@@ -243,73 +243,73 @@ top_cards:
 - name: Consider
   weight: 0.0149
   avg_copies: 4.0
-- name: Fallen Shinobi
-  weight: 0.0149
-  avg_copies: 3.0
 - name: Dress Down
   weight: 0.0149
   avg_copies: 3.0
-- name: Shadow of Doubt
+- name: Fallen Shinobi
   weight: 0.0149
   avg_copies: 3.0
 - name: Dismember
   weight: 0.0149
   avg_copies: 3.0
-- name: Cryptic Command
+- name: Shadow of Doubt
+  weight: 0.0149
+  avg_copies: 3.0
+- name: Strix Serenade
   weight: 0.0149
   avg_copies: 2.0
 - name: Stony Silence
   weight: 0.0149
   avg_copies: 2.0
-- name: Archmage's Charm
+- name: Dauthi Voidwalker
   weight: 0.0149
   avg_copies: 2.0
-- name: End of the Hunt
+- name: Archmage's Charm
   weight: 0.0149
   avg_copies: 2.0
 - name: Lightning Bolt
   weight: 0.0149
   avg_copies: 2.0
-- name: Emperor of Bones
+- name: End of the Hunt
   weight: 0.0149
   avg_copies: 2.0
 - name: Hurkyl's Recall
   weight: 0.0149
   avg_copies: 2.0
-- name: Dauthi Voidwalker
+- name: Emperor of Bones
   weight: 0.0149
   avg_copies: 2.0
-- name: Strix Serenade
+- name: Cryptic Command
   weight: 0.0149
   avg_copies: 2.0
 - name: Lórien Revealed
   weight: 0.0149
   avg_copies: 1.0
-- name: Abigale, Eloquent First-Year
-  weight: 0.0149
-  avg_copies: 1.0
-- name: Snow-Covered Swamp
-  weight: 0.0149
-  avg_copies: 1.0
-- name: Exorcise
-  weight: 0.0149
-  avg_copies: 1.0
-- name: Sphinx's Revelation
-  weight: 0.0149
-  avg_copies: 1.0
-- name: Hall of Storm Giants
+- name: Sunken Ruins
   weight: 0.0149
   avg_copies: 1.0
 - name: Relic of Progenitus
   weight: 0.0149
   avg_copies: 1.0
-- name: Sunken Ruins
-  weight: 0.0149
-  avg_copies: 1.0
 - name: Takenuma, Abandoned Mire
   weight: 0.0149
   avg_copies: 1.0
+- name: Snow-Covered Swamp
+  weight: 0.0149
+  avg_copies: 1.0
+- name: Sphinx's Revelation
+  weight: 0.0149
+  avg_copies: 1.0
+- name: Exorcise
+  weight: 0.0149
+  avg_copies: 1.0
+- name: Abigale, Eloquent First-Year
+  weight: 0.0149
+  avg_copies: 1.0
 - name: Jace, the Mind Sculptor
+  weight: 0.0149
+  avg_copies: 1.0
+- name: Hall of Storm Giants
   weight: 0.0149
   avg_copies: 1.0
 ---

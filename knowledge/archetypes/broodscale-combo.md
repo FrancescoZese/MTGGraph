@@ -5,22 +5,22 @@ name: Broodscale Combo
 meta_share: 0.0179
 list_count: 27
 top_cards:
-- name: Malevolent Rumble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Basking Broodscale
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Saga
+- name: Basking Broodscale
   weight: 1.0
   avg_copies: 4.0
-- name: Grove of the Burnwillows
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
+  weight: 1.0
+  avg_copies: 4.0
+- name: Grove of the Burnwillows
   weight: 1.0
   avg_copies: 4.0
 - name: Glaring Fleshraker
@@ -44,13 +44,13 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.43
+- name: Soul-Guide Lantern
+  weight: 1.0
+  avg_copies: 1.0
 - name: Springleaf Drum
   weight: 1.0
   avg_copies: 1.0
 - name: Haywire Mite
-  weight: 1.0
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 1.0
 - name: Walking Ballista
@@ -62,10 +62,10 @@ top_cards:
 - name: Grafdigger's Cage
   weight: 0.8519
   avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Pithing Needle
   weight: 0.8519
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Gemstone Caverns
   weight: 0.8519
   avg_copies: 1.0
 - name: Cavern of Souls
@@ -77,28 +77,28 @@ top_cards:
 - name: Devourer of Destiny
   weight: 0.5185
   avg_copies: 3.79
-- name: Nature's Claim
+- name: Damping Sphere
   weight: 0.5185
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Nature's Claim
   weight: 0.5185
   avg_copies: 2.0
 - name: Unholy Heat
   weight: 0.5185
   avg_copies: 1.9
-- name: Stomping Ground
+- name: Commercial District
   weight: 0.5185
   avg_copies: 1.0
-- name: Commercial District
+- name: Stomping Ground
   weight: 0.5185
   avg_copies: 1.0
 - name: Ugin's Labyrinth
   weight: 0.4815
   avg_copies: 4.0
-- name: Pick Your Poison
+- name: Soulless Jailer
   weight: 0.4815
   avg_copies: 1.85
-- name: Soulless Jailer
+- name: Pick Your Poison
   weight: 0.4815
   avg_copies: 1.85
 - name: Warping Wail
@@ -140,19 +140,19 @@ top_cards:
 - name: Fire Magic
   weight: 0.037
   avg_copies: 4.0
-- name: Pyroclasm
-  weight: 0.037
-  avg_copies: 2.0
 - name: Heroic Intervention
   weight: 0.037
   avg_copies: 2.0
+- name: Pyroclasm
+  weight: 0.037
+  avg_copies: 2.0
+- name: Bojuka Bog
+  weight: 0.037
+  avg_copies: 1.0
 - name: Ghost Quarter
   weight: 0.037
   avg_copies: 1.0
 - name: Revitalizing Repast
-  weight: 0.037
-  avg_copies: 1.0
-- name: Bojuka Bog
   weight: 0.037
   avg_copies: 1.0
 ---

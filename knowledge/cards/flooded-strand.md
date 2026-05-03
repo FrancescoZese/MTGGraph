@@ -77,8 +77,8 @@ archetypes:
   esper-control:
     weight: 1.0
     avg_copies: 4.0
-  grixis-control:
-    weight: 0.6667
+  izzet-wizards:
+    weight: 0.8
     avg_copies: 2.5
   izzet-splinter-twin:
     weight: 0.5
@@ -86,9 +86,6 @@ archetypes:
   bant-ritual:
     weight: 1.0
     avg_copies: 1.0
-  izzet-wizards:
-    weight: 1.0
-    avg_copies: 2.0
   esper-midrange:
     weight: 1.0
     avg_copies: 4.0
@@ -98,6 +95,9 @@ archetypes:
   goryo3:
     weight: 1.0
     avg_copies: 4.0
+  grixis-control:
+    weight: 0.5
+    avg_copies: 2.0
   izzet-murktide:
     weight: 1.0
     avg_copies: 1.0

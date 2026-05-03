@@ -85,10 +85,10 @@ top_cards:
 - name: Force of Negation
   weight: 0.68
   avg_copies: 1.05
-- name: Geier Reach Sanitarium
+- name: Elegant Parlor
   weight: 0.68
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Geier Reach Sanitarium
   weight: 0.68
   avg_copies: 1.0
 - name: Sacred Foundry
@@ -154,13 +154,13 @@ top_cards:
 - name: Mountain
   weight: 0.2
   avg_copies: 1.0
-- name: Hall of Storm Giants
-  weight: 0.2
-  avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 0.2
   avg_copies: 1.0
 - name: Beza, the Bounding Spring
+  weight: 0.2
+  avg_copies: 1.0
+- name: Hall of Storm Giants
   weight: 0.2
   avg_copies: 1.0
 - name: Meltdown
@@ -181,19 +181,19 @@ top_cards:
 - name: Mistrise Village
   weight: 0.12
   avg_copies: 1.0
-- name: Quantum Riddler
-  weight: 0.08
-  avg_copies: 1.5
 - name: Traumatic Critique
   weight: 0.08
   avg_copies: 1.5
-- name: Kaheera, the Orphanguard
+- name: Quantum Riddler
   weight: 0.08
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Stern Scolding
   weight: 0.08
   avg_copies: 1.0
 - name: Wear
+  weight: 0.08
+  avg_copies: 1.0
+- name: Kaheera, the Orphanguard
   weight: 0.08
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
@@ -208,24 +208,27 @@ top_cards:
 - name: Nulldrifter
   weight: 0.04
   avg_copies: 3.0
-- name: Prismari Charm
+- name: Invert Polarity
   weight: 0.04
   avg_copies: 2.0
-- name: Harbinger of the Seas
+- name: Prismari Charm
   weight: 0.04
   avg_copies: 2.0
 - name: Reprieve
   weight: 0.04
   avg_copies: 2.0
-- name: Drannith Magistrate
-  weight: 0.04
-  avg_copies: 2.0
-- name: Invert Polarity
-  weight: 0.04
-  avg_copies: 2.0
 - name: Ephemerate
   weight: 0.04
   avg_copies: 2.0
+- name: Drannith Magistrate
+  weight: 0.04
+  avg_copies: 2.0
+- name: Harbinger of the Seas
+  weight: 0.04
+  avg_copies: 2.0
+- name: Raugrin Triome
+  weight: 0.04
+  avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.04
   avg_copies: 1.0
@@ -235,7 +238,16 @@ top_cards:
 - name: Sink into Stupor
   weight: 0.04
   avg_copies: 1.0
-- name: Kozilek, Butcher of Truth
+- name: Emeritus of Ideation
+  weight: 0.04
+  avg_copies: 1.0
+- name: Timeless Dragon
+  weight: 0.04
+  avg_copies: 1.0
+- name: Dovin's Veto
+  weight: 0.04
+  avg_copies: 1.0
+- name: Get Lost
   weight: 0.04
   avg_copies: 1.0
 - name: Vendilion Clique
@@ -244,22 +256,10 @@ top_cards:
 - name: Windswept Heath
   weight: 0.04
   avg_copies: 1.0
-- name: Raugrin Triome
-  weight: 0.04
-  avg_copies: 1.0
-- name: Get Lost
+- name: Kozilek, Butcher of Truth
   weight: 0.04
   avg_copies: 1.0
 - name: Unlicensed Hearse
-  weight: 0.04
-  avg_copies: 1.0
-- name: Emeritus of Ideation
-  weight: 0.04
-  avg_copies: 1.0
-- name: Dovin's Veto
-  weight: 0.04
-  avg_copies: 1.0
-- name: Timeless Dragon
   weight: 0.04
   avg_copies: 1.0
 ---

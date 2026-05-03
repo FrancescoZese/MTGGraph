@@ -11,7 +11,7 @@ archetypes:
   mono-blue-tron:
     weight: 0.6
     avg_copies: 1.0
-  grixis-control:
-    weight: 0.1667
+  izzet-wizards:
+    weight: 0.2
     avg_copies: 1.0
 ---

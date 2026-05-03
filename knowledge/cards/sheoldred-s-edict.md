@@ -30,9 +30,6 @@ archetypes:
   orzhov-blink:
     weight: 0.75
     avg_copies: 2.0
-  grixis-control:
-    weight: 0.1667
-    avg_copies: 2.0
   rakdos-aggro:
     weight: 0.1667
     avg_copies: 2.0
@@ -42,6 +39,9 @@ archetypes:
   the-rock:
     weight: 0.5
     avg_copies: 4.0
+  grixis-control:
+    weight: 0.5
+    avg_copies: 2.0
   sultai-midrange:
     weight: 1.0
     avg_copies: 2.0

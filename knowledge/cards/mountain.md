@@ -59,8 +59,8 @@ archetypes:
   izzet-artifacts:
     weight: 0.4231
     avg_copies: 1.0
-  grixis-control:
-    weight: 0.6667
+  izzet-wizards:
+    weight: 0.8
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
@@ -80,9 +80,6 @@ archetypes:
   cosmogoyf-fling:
     weight: 0.0833
     avg_copies: 1.0
-  izzet-wizards:
-    weight: 1.0
-    avg_copies: 1.0
   scapeshift-combo:
     weight: 0.5
     avg_copies: 1.67
@@ -97,6 +94,9 @@ archetypes:
     avg_copies: 1.0
   goryo4:
     weight: 1.0
+    avg_copies: 1.0
+  grixis-control:
+    weight: 0.5
     avg_copies: 1.0
   izzet-murktide:
     weight: 1.0

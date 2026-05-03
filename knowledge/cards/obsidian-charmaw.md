@@ -39,8 +39,8 @@ archetypes:
   4c-omnath:
     weight: 1.0
     avg_copies: 2.25
-  grixis-control:
-    weight: 0.3333
+  izzet-wizards:
+    weight: 0.4
     avg_copies: 3.0
   jund-saga:
     weight: 1.0

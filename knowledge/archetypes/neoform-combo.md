@@ -36,10 +36,10 @@ top_cards:
 - name: Breeding Pool
   weight: 0.9677
   avg_copies: 1.1
-- name: Xenagos, God of Revels
+- name: Griselbrand
   weight: 0.9677
   avg_copies: 1.0
-- name: Griselbrand
+- name: Xenagos, God of Revels
   weight: 0.9677
   avg_copies: 1.0
 - name: Pact of Negation
@@ -93,10 +93,10 @@ top_cards:
 - name: Ureni, the Song Unending
   weight: 0.8065
   avg_copies: 1.0
-- name: Endurance
+- name: Wooded Foothills
   weight: 0.7097
   avg_copies: 1.0
-- name: Wooded Foothills
+- name: Endurance
   weight: 0.7097
   avg_copies: 1.0
 - name: Ice-Fang Coatl
@@ -135,13 +135,13 @@ top_cards:
 - name: Island
   weight: 0.0968
   avg_copies: 1.33
-- name: Gemstone Mine
-  weight: 0.0645
-  avg_copies: 4.0
 - name: Glittering Wish
   weight: 0.0645
   avg_copies: 4.0
 - name: Invasion of Gobakhan
+  weight: 0.0645
+  avg_copies: 4.0
+- name: Gemstone Mine
   weight: 0.0645
   avg_copies: 4.0
 - name: Thrun, the Last Troll
@@ -153,42 +153,48 @@ top_cards:
 - name: Eladamri's Call
   weight: 0.0645
   avg_copies: 2.0
-- name: Stump Stomp
-  weight: 0.0645
-  avg_copies: 1.0
-- name: Raph & Mikey, Troublemakers
-  weight: 0.0645
-  avg_copies: 1.0
-- name: Meticulous Archive
+- name: Nature's Chant
   weight: 0.0645
   avg_copies: 1.0
 - name: Borborygmos Enraged
   weight: 0.0645
   avg_copies: 1.0
-- name: Firespout
-  weight: 0.0645
-  avg_copies: 1.0
-- name: Nature's Chant
+- name: Lush Portico
   weight: 0.0645
   avg_copies: 1.0
 - name: Detention Sphere
   weight: 0.0645
   avg_copies: 1.0
-- name: Lush Portico
+- name: Stump Stomp
   weight: 0.0645
   avg_copies: 1.0
-- name: Detect Intrusion
+- name: Meticulous Archive
+  weight: 0.0645
+  avg_copies: 1.0
+- name: Firespout
+  weight: 0.0645
+  avg_copies: 1.0
+- name: Raph & Mikey, Troublemakers
+  weight: 0.0645
+  avg_copies: 1.0
+- name: Geometer's Arthropod
   weight: 0.0323
   avg_copies: 4.0
 - name: Hexing Squelcher
   weight: 0.0323
   avg_copies: 4.0
-- name: Geometer's Arthropod
+- name: Detect Intrusion
   weight: 0.0323
   avg_copies: 4.0
 - name: Quandrix Charm
   weight: 0.0323
   avg_copies: 3.0
+- name: Spell Snare
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Commercial District
+  weight: 0.0323
+  avg_copies: 1.0
 - name: Force of Vigor
   weight: 0.0323
   avg_copies: 1.0
@@ -196,12 +202,6 @@ top_cards:
   weight: 0.0323
   avg_copies: 1.0
 - name: Thundering Falls
-  weight: 0.0323
-  avg_copies: 1.0
-- name: Commercial District
-  weight: 0.0323
-  avg_copies: 1.0
-- name: Spell Snare
   weight: 0.0323
   avg_copies: 1.0
 ---

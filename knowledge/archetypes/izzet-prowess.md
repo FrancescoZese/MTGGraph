@@ -186,22 +186,22 @@ top_cards:
 - name: Wear
   weight: 0.0294
   avg_copies: 1.5
-- name: Sacred Foundry
-  weight: 0.0294
-  avg_copies: 1.0
 - name: True Ancestry
   weight: 0.0294
   avg_copies: 1.0
-- name: Faithless Looting
+- name: Sacred Foundry
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Ragavan, Nimble Pilferer
   weight: 0.0147
   avg_copies: 4.0
-- name: Ragavan, Nimble Pilferer
+- name: Manamorphose
   weight: 0.0147
   avg_copies: 4.0
 - name: Searing Blaze
   weight: 0.0147
   avg_copies: 4.0
-- name: Manamorphose
+- name: Faithless Looting
   weight: 0.0147
   avg_copies: 4.0
 - name: Arclight Phoenix
@@ -210,10 +210,10 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.0147
   avg_copies: 3.0
-- name: Traumatic Critique
+- name: Hurkyl's Recall
   weight: 0.0147
   avg_copies: 3.0
-- name: Hurkyl's Recall
+- name: Traumatic Critique
   weight: 0.0147
   avg_copies: 3.0
 - name: Flashback
@@ -222,46 +222,46 @@ top_cards:
 - name: Siege Smash
   weight: 0.0147
   avg_copies: 2.0
-- name: Bedlam Reveler
-  weight: 0.0147
-  avg_copies: 2.0
 - name: Gut Shot
   weight: 0.0147
   avg_copies: 2.0
-- name: Shatterstorm
+- name: Bedlam Reveler
   weight: 0.0147
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: The Legend of Roku
-  weight: 0.0147
-  avg_copies: 1.0
-- name: Pithing Needle
-  weight: 0.0147
-  avg_copies: 1.0
-- name: Sink into Stupor
-  weight: 0.0147
-  avg_copies: 1.0
-- name: Polluted Delta
   weight: 0.0147
   avg_copies: 1.0
 - name: Grafdigger's Cage
   weight: 0.0147
   avg_copies: 1.0
-- name: Fire Magic
-  weight: 0.0147
-  avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Shatterstorm
   weight: 0.0147
   avg_copies: 1.0
 - name: Flooded Strand
   weight: 0.0147
   avg_copies: 1.0
-- name: Riverpyre Verge
-  weight: 0.0147
-  avg_copies: 1.0
 - name: Combustion Technique
   weight: 0.0147
   avg_copies: 1.0
+- name: Sink into Stupor
+  weight: 0.0147
+  avg_copies: 1.0
+- name: Otawara, Soaring City
+  weight: 0.0147
+  avg_copies: 1.0
+- name: Riverpyre Verge
+  weight: 0.0147
+  avg_copies: 1.0
+- name: Polluted Delta
+  weight: 0.0147
+  avg_copies: 1.0
+- name: Pithing Needle
+  weight: 0.0147
+  avg_copies: 1.0
 - name: Lightning Axe
+  weight: 0.0147
+  avg_copies: 1.0
+- name: Fire Magic
   weight: 0.0147
   avg_copies: 1.0
 ---

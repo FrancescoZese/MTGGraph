@@ -29,9 +29,6 @@ archetypes:
   dredge:
     weight: 1.0
     avg_copies: 1.57
-  grixis-control:
-    weight: 0.1667
-    avg_copies: 1.0
   jund-saga:
     weight: 1.0
     avg_copies: 2.0
@@ -49,6 +46,9 @@ archetypes:
     avg_copies: 3.67
   goryo1:
     weight: 1.0
+    avg_copies: 1.0
+  grixis-control:
+    weight: 0.5
     avg_copies: 1.0
   soultrader-combo0:
     weight: 1.0

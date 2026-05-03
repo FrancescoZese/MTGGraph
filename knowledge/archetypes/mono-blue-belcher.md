@@ -5,16 +5,16 @@ name: Mono Blue Belcher
 meta_share: 0.0198
 list_count: 30
 top_cards:
-- name: Whir of Invention
-  weight: 1.0
-  avg_copies: 4.0
-- name: Sink into Stupor
-  weight: 1.0
-  avg_copies: 4.0
 - name: Lotus Bloom
   weight: 1.0
   avg_copies: 4.0
+- name: Whir of Invention
+  weight: 1.0
+  avg_copies: 4.0
 - name: Goblin Charbelcher
+  weight: 1.0
+  avg_copies: 4.0
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 4.0
 - name: Disrupting Shoal
@@ -128,6 +128,9 @@ top_cards:
 - name: Talisman of Progress
   weight: 0.0667
   avg_copies: 1.0
+- name: Displacement Wave
+  weight: 0.0333
+  avg_copies: 1.0
 - name: Portable Hole
   weight: 0.0333
   avg_copies: 1.0
@@ -138,9 +141,6 @@ top_cards:
   weight: 0.0333
   avg_copies: 1.0
 - name: Witch Enchanter
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Displacement Wave
   weight: 0.0333
   avg_copies: 1.0
 ---

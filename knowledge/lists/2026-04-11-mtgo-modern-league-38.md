@@ -1,5 +1,5 @@
 ---
-archetype: grixis-control
+archetype: izzet-wizards
 date: '2026-04-11'
 finish: 5-0
 pilot: Aldenor1914

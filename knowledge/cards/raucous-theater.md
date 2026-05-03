@@ -32,9 +32,6 @@ archetypes:
   orzhov-blink:
     weight: 0.25
     avg_copies: 1.0
-  grixis-control:
-    weight: 0.1667
-    avg_copies: 1.0
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
@@ -46,6 +43,9 @@ archetypes:
     avg_copies: 1.33
   goryo1:
     weight: 1.0
+    avg_copies: 1.0
+  grixis-control:
+    weight: 0.5
     avg_copies: 1.0
   soultrader-combo0:
     weight: 1.0

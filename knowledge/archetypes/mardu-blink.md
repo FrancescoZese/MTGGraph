@@ -13,10 +13,10 @@ top_cards:
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Phlage, Titan of Fire's Fury
+- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.39
-- name: Phelia, Exuberant Shepherd
+- name: Phlage, Titan of Fire's Fury
   weight: 1.0
   avg_copies: 3.39
 - name: Arid Mesa
@@ -46,13 +46,13 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.06
+- name: Elegant Parlor
+  weight: 1.0
+  avg_copies: 1.0
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
 - name: Raucous Theater
-  weight: 1.0
-  avg_copies: 1.0
-- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Wear
@@ -130,19 +130,19 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.1667
   avg_copies: 2.0
-- name: March of Otherworldly Light
-  weight: 0.1111
-  avg_copies: 2.0
 - name: Clarion Conqueror
   weight: 0.1111
   avg_copies: 2.0
-- name: Swamp
+- name: March of Otherworldly Light
   weight: 0.1111
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Nihil Spellbomb
   weight: 0.1111
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Swamp
   weight: 0.1111
   avg_copies: 1.0
 - name: Fatal Push
@@ -151,9 +151,6 @@ top_cards:
 - name: Unholy Heat
   weight: 0.0556
   avg_copies: 3.0
-- name: Seasoned Pyromancer
-  weight: 0.0556
-  avg_copies: 2.0
 - name: Graveyard Trespasser
   weight: 0.0556
   avg_copies: 2.0
@@ -166,6 +163,12 @@ top_cards:
 - name: Force of Despair
   weight: 0.0556
   avg_copies: 2.0
+- name: Seasoned Pyromancer
+  weight: 0.0556
+  avg_copies: 2.0
+- name: Emptiness
+  weight: 0.0556
+  avg_copies: 1.0
 - name: Faerie Macabre
   weight: 0.0556
   avg_copies: 1.0
@@ -173,9 +176,6 @@ top_cards:
   weight: 0.0556
   avg_copies: 1.0
 - name: Pest Control
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Emptiness
   weight: 0.0556
   avg_copies: 1.0
 ---

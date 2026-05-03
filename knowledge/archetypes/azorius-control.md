@@ -30,10 +30,10 @@ top_cards:
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 2.08
-- name: Hallowed Fountain
+- name: Island
   weight: 1.0
   avg_copies: 2.0
-- name: Island
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.0
 - name: Plains
@@ -81,10 +81,10 @@ top_cards:
 - name: Monumental Henge
   weight: 0.7692
   avg_copies: 1.1
-- name: Kaheera, the Orphanguard
+- name: Otawara, Soaring City
   weight: 0.7692
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Kaheera, the Orphanguard
   weight: 0.7692
   avg_copies: 1.0
 - name: Hall of Storm Giants
@@ -117,13 +117,13 @@ top_cards:
 - name: Force of Negation
   weight: 0.3846
   avg_copies: 1.5
-- name: Watery Grave
-  weight: 0.3077
-  avg_copies: 1.0
 - name: Polluted Delta
   weight: 0.3077
   avg_copies: 1.0
 - name: Geier Reach Sanitarium
+  weight: 0.3077
+  avg_copies: 1.0
+- name: Watery Grave
   weight: 0.3077
   avg_copies: 1.0
 - name: Marsh Flats
@@ -138,19 +138,19 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 0.2308
   avg_copies: 1.0
-- name: Thundertrap Trainer
+- name: Suppression Ray
   weight: 0.1538
   avg_copies: 4.0
-- name: Suppression Ray
+- name: Thundertrap Trainer
   weight: 0.1538
   avg_copies: 4.0
 - name: Soul-Guide Lantern
   weight: 0.1538
   avg_copies: 3.0
-- name: Tune the Narrative
+- name: Sink into Stupor
   weight: 0.1538
   avg_copies: 2.0
-- name: Sink into Stupor
+- name: Tune the Narrative
   weight: 0.1538
   avg_copies: 2.0
 - name: Windswept Heath
@@ -168,13 +168,13 @@ top_cards:
 - name: Gemstone Caverns
   weight: 0.1538
   avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 0.1538
-  avg_copies: 1.0
 - name: Mistrise Village
   weight: 0.1538
   avg_copies: 1.0
 - name: Beza, the Bounding Spring
+  weight: 0.1538
+  avg_copies: 1.0
+- name: Sacred Foundry
   weight: 0.1538
   avg_copies: 1.0
 - name: Breeding Pool
@@ -189,37 +189,37 @@ top_cards:
 - name: Flow State
   weight: 0.0769
   avg_copies: 2.0
-- name: Commandeer
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Field of Ruin
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Dress Down
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Celestial Colonnade
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Vendilion Clique
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Misty Rainforest
-  weight: 0.0769
-  avg_copies: 1.0
-- name: The Wandering Emperor
+- name: Strix Serenade
   weight: 0.0769
   avg_copies: 1.0
 - name: Wan Shi Tong, Librarian
   weight: 0.0769
   avg_copies: 1.0
-- name: Jace, the Mind Sculptor
+- name: Dress Down
   weight: 0.0769
   avg_copies: 1.0
-- name: Strix Serenade
+- name: Misty Rainforest
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Tamiyo, Inquisitive Student
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Commandeer
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Vendilion Clique
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Celestial Colonnade
+  weight: 0.0769
+  avg_copies: 1.0
+- name: The Wandering Emperor
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Field of Ruin
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Jace, the Mind Sculptor
   weight: 0.0769
   avg_copies: 1.0
 ---

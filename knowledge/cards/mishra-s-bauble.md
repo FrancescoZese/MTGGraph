@@ -29,6 +29,9 @@ archetypes:
   izzet-artifacts:
     weight: 1.0
     avg_copies: 4.0
+  izzet-wizards:
+    weight: 0.2
+    avg_copies: 4.0
   grixis-shadow:
     weight: 1.0
     avg_copies: 4.0
@@ -37,9 +40,6 @@ archetypes:
     avg_copies: 4.0
   izzet-splinter-twin:
     weight: 0.5
-    avg_copies: 4.0
-  izzet-wizards:
-    weight: 1.0
     avg_copies: 4.0
   goryo7:
     weight: 1.0

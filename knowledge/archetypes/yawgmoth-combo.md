@@ -12,10 +12,10 @@ top_cards:
 - name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 3.95
-- name: Yawgmoth, Thran Physician
+- name: Badgermole Cub
   weight: 1.0
   avg_copies: 3.89
-- name: Badgermole Cub
+- name: Yawgmoth, Thran Physician
   weight: 1.0
   avg_copies: 3.89
 - name: Delighted Halfling
@@ -30,10 +30,10 @@ top_cards:
 - name: Walking Ballista
   weight: 1.0
   avg_copies: 2.95
-- name: Green Sun's Zenith
+- name: Spymaster's Vault
   weight: 1.0
   avg_copies: 2.89
-- name: Spymaster's Vault
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 2.89
 - name: Fatal Push
@@ -54,10 +54,10 @@ top_cards:
 - name: Forest
   weight: 1.0
   avg_copies: 1.68
-- name: Formidable Speaker
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.16
-- name: Vexing Bauble
+- name: Formidable Speaker
   weight: 1.0
   avg_copies: 1.16
 - name: Underground Mortuary
@@ -66,13 +66,13 @@ top_cards:
 - name: Grist, the Hunger Tide
   weight: 1.0
   avg_copies: 1.07
-- name: Swamp
+- name: Soulless Jailer
   weight: 1.0
   avg_copies: 1.0
 - name: Strangleroot Geist
   weight: 1.0
   avg_copies: 1.0
-- name: Soulless Jailer
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Endurance
@@ -117,10 +117,10 @@ top_cards:
 - name: Wooded Foothills
   weight: 0.4737
   avg_copies: 1.11
-- name: Ignoble Hierarch
+- name: Haywire Mite
   weight: 0.3158
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Ignoble Hierarch
   weight: 0.3158
   avg_copies: 1.0
 - name: Damping Sphere
@@ -141,10 +141,10 @@ top_cards:
 - name: Murderous Cut
   weight: 0.0526
   avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Sylvan Safekeeper
   weight: 0.0526
   avg_copies: 1.0
-- name: Sylvan Safekeeper
+- name: Nurturing Peatland
   weight: 0.0526
   avg_copies: 1.0
 ---

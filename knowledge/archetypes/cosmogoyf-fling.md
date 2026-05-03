@@ -10,7 +10,7 @@ top_cards:
 - name: Chancellor of the Tangle
   weight: 1.0
   avg_copies: 4.0
-- name: Plunge into Darkness
+- name: Thud
   weight: 1.0
   avg_copies: 4.0
 - name: Gemstone Caverns
@@ -19,7 +19,7 @@ top_cards:
 - name: Cosmogoyf
   weight: 1.0
   avg_copies: 4.0
-- name: Thud
+- name: Plunge into Darkness
   weight: 1.0
   avg_copies: 4.0
 - name: Spoils of the Vault
@@ -28,10 +28,10 @@ top_cards:
 - name: Gemstone Mine
   weight: 1.0
   avg_copies: 3.83
-- name: Blackcleave Cliffs
+- name: Devourer of Destiny
   weight: 1.0
   avg_copies: 3.75
-- name: Devourer of Destiny
+- name: Blackcleave Cliffs
   weight: 1.0
   avg_copies: 3.75
 - name: Blooming Marsh
@@ -91,10 +91,10 @@ top_cards:
 - name: Fatal Push
   weight: 0.0833
   avg_copies: 4.0
-- name: Boseiju, Who Endures
+- name: Mountain
   weight: 0.0833
   avg_copies: 1.0
-- name: Mountain
+- name: Boseiju, Who Endures
   weight: 0.0833
   avg_copies: 1.0
 ---

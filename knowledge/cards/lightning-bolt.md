@@ -48,9 +48,9 @@ archetypes:
   izzet-artifacts:
     weight: 0.0769
     avg_copies: 4.0
-  grixis-control:
+  izzet-wizards:
     weight: 1.0
-    avg_copies: 3.17
+    avg_copies: 2.67
   jund-saga:
     weight: 1.0
     avg_copies: 3.0
@@ -63,12 +63,12 @@ archetypes:
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 2.5
-  izzet-wizards:
-    weight: 1.0
-    avg_copies: 2.0
   scapeshift-combo:
     weight: 0.3333
     avg_copies: 3.0
+  grixis-control:
+    weight: 1.0
+    avg_copies: 3.5
   izzet-murktide:
     weight: 1.0
     avg_copies: 4.0

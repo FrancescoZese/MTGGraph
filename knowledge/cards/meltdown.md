@@ -57,9 +57,9 @@ archetypes:
   izzet-artifacts:
     weight: 0.0385
     avg_copies: 1.0
-  grixis-control:
-    weight: 1.0
-    avg_copies: 1.67
+  izzet-wizards:
+    weight: 0.8
+    avg_copies: 1.75
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
@@ -78,6 +78,9 @@ archetypes:
   goryo1:
     weight: 1.0
     avg_copies: 2.1
+  grixis-control:
+    weight: 1.0
+    avg_copies: 1.5
   soultrader-combo0:
     weight: 1.0
     avg_copies: 3.0

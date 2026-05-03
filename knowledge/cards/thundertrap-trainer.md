@@ -18,14 +18,11 @@ archetypes:
   jeskai-control:
     weight: 0.12
     avg_copies: 3.0
-  grixis-control:
-    weight: 0.1667
-    avg_copies: 2.0
+  izzet-wizards:
+    weight: 0.4
+    avg_copies: 3.0
   izzet-splinter-twin:
     weight: 0.5
-    avg_copies: 4.0
-  izzet-wizards:
-    weight: 1.0
     avg_copies: 4.0
   4c-omnath9:
     weight: 1.0

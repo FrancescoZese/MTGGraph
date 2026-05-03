@@ -16,10 +16,10 @@ top_cards:
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.92
-- name: Phelia, Exuberant Shepherd
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 3.92
 - name: Fatal Push
@@ -52,13 +52,13 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Watery Grave
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowy Backstreet
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
 - name: Thoughtseize
@@ -112,25 +112,31 @@ top_cards:
 - name: Clarion Conqueror
   weight: 0.1538
   avg_copies: 2.0
-- name: Ashiok, Dream Render
+- name: Floodfarm Verge
   weight: 0.1538
   avg_copies: 1.0
-- name: Floodfarm Verge
+- name: Ashiok, Dream Render
   weight: 0.1538
   avg_copies: 1.0
 - name: Force of Negation
   weight: 0.0769
   avg_copies: 4.0
-- name: Subtlety
+- name: No More Lies
   weight: 0.0769
   avg_copies: 4.0
-- name: No More Lies
+- name: Subtlety
   weight: 0.0769
   avg_copies: 4.0
 - name: White Orchid Phantom
   weight: 0.0769
   avg_copies: 2.0
-- name: March of Otherworldly Light
+- name: Strix Serenade
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Emptiness
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
   weight: 0.0769
   avg_copies: 1.0
 - name: Windswept Heath
@@ -139,22 +145,16 @@ top_cards:
 - name: Erode
   weight: 0.0769
   avg_copies: 1.0
+- name: March of Otherworldly Light
+  weight: 0.0769
+  avg_copies: 1.0
 - name: Celestial Purge
   weight: 0.0769
   avg_copies: 1.0
 - name: Hydroelectric Specimen
   weight: 0.0769
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Emptiness
-  weight: 0.0769
-  avg_copies: 1.0
 - name: Skycoach Conductor
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Strix Serenade
   weight: 0.0769
   avg_copies: 1.0
 ---

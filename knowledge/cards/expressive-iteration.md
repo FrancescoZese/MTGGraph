@@ -13,13 +13,13 @@ archetypes:
   izzet-prowess:
     weight: 0.8529
     avg_copies: 3.83
+  izzet-wizards:
+    weight: 0.2
+    avg_copies: 2.0
   grixis-shadow:
     weight: 1.0
     avg_copies: 3.0
   izzet-splinter-twin:
     weight: 0.5
     avg_copies: 4.0
-  izzet-wizards:
-    weight: 1.0
-    avg_copies: 2.0
 ---

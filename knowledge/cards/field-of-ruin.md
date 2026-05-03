@@ -20,8 +20,8 @@ archetypes:
   boros-ponza:
     weight: 0.9444
     avg_copies: 3.74
-  grixis-control:
-    weight: 0.1667
+  izzet-wizards:
+    weight: 0.2
     avg_copies: 2.0
   goryo6:
     weight: 1.0

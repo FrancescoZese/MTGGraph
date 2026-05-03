@@ -27,12 +27,12 @@ archetypes:
   dredge:
     weight: 0.2857
     avg_copies: 1.5
-  grixis-control:
-    weight: 0.1667
-    avg_copies: 1.0
   goryo1:
     weight: 0.7
     avg_copies: 1.71
+  grixis-control:
+    weight: 0.5
+    avg_copies: 1.0
   izzet-murktide:
     weight: 1.0
     avg_copies: 1.0

@@ -1,5 +1,5 @@
 ---
-archetype: grixis-control
+archetype: izzet-wizards
 date: '2026-04-26'
 finish: 5-0
 pilot: Goerajaponica

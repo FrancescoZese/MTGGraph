@@ -27,8 +27,8 @@ archetypes:
   indomitable-creativity:
     weight: 0.875
     avg_copies: 2.71
-  grixis-control:
-    weight: 0.1667
+  izzet-wizards:
+    weight: 0.2
     avg_copies: 1.0
   jund-saga:
     weight: 1.0

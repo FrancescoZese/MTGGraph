@@ -45,17 +45,17 @@ archetypes:
   izzet-artifacts:
     weight: 0.0385
     avg_copies: 1.0
-  grixis-control:
-    weight: 0.6667
+  izzet-wizards:
+    weight: 0.8
     avg_copies: 3.25
   izzet-splinter-twin:
     weight: 0.5
     avg_copies: 3.0
-  izzet-wizards:
-    weight: 1.0
-    avg_copies: 3.0
   esper-midrange:
     weight: 1.0
+    avg_copies: 3.0
+  grixis-control:
+    weight: 0.5
     avg_copies: 3.0
   izzet-murktide:
     weight: 1.0

@@ -27,15 +27,12 @@ archetypes:
   simic-ritual:
     weight: 0.975
     avg_copies: 4.0
-  grixis-control:
-    weight: 0.1667
-    avg_copies: 3.0
+  izzet-wizards:
+    weight: 0.4
+    avg_copies: 2.5
   izzet-splinter-twin:
     weight: 0.5
     avg_copies: 3.0
-  izzet-wizards:
-    weight: 1.0
-    avg_copies: 2.0
   goryo1:
     weight: 0.2
     avg_copies: 4.0

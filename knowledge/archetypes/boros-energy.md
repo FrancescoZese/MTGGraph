@@ -6,10 +6,10 @@ name: Boros Energy
 meta_share: 0.1872
 list_count: 283
 top_cards:
-- name: Galvanic Discharge
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 3.98
-- name: Guide of Souls
+- name: Galvanic Discharge
   weight: 1.0
   avg_copies: 3.98
 - name: Ocelot Pride
@@ -180,16 +180,16 @@ top_cards:
 - name: Phelia, Exuberant Shepherd
   weight: 0.0106
   avg_copies: 1.67
-- name: Haliya, Guided by Light
-  weight: 0.0106
-  avg_copies: 1.0
 - name: Showdown of the Skalds
   weight: 0.0106
   avg_copies: 1.0
-- name: Wear
+- name: Haliya, Guided by Light
+  weight: 0.0106
+  avg_copies: 1.0
+- name: White Orchid Phantom
   weight: 0.0071
   avg_copies: 2.0
-- name: White Orchid Phantom
+- name: Wear
   weight: 0.0071
   avg_copies: 2.0
 - name: Lorehold Charm
@@ -210,13 +210,7 @@ top_cards:
 - name: card:practiced-offense
   weight: 0.0035
   avg_copies: 3.0
-- name: Jolted Awake
-  weight: 0.0035
-  avg_copies: 2.0
-- name: The Battle of Bywater
-  weight: 0.0035
-  avg_copies: 2.0
-- name: Enduring Innocence
+- name: Kataki, War's Wage
   weight: 0.0035
   avg_copies: 2.0
 - name: Reprieve
@@ -225,46 +219,52 @@ top_cards:
 - name: Stony Silence
   weight: 0.0035
   avg_copies: 2.0
-- name: Kataki, War's Wage
-  weight: 0.0035
-  avg_copies: 2.0
-- name: Unlicensed Hearse
-  weight: 0.0035
-  avg_copies: 2.0
 - name: Screaming Nemesis
   weight: 0.0035
   avg_copies: 2.0
 - name: Ephemerate
   weight: 0.0035
   avg_copies: 2.0
-- name: Duty Beyond Death
+- name: The Battle of Bywater
   weight: 0.0035
-  avg_copies: 1.0
-- name: Prismatic Ending
+  avg_copies: 2.0
+- name: Enduring Innocence
   weight: 0.0035
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: Jolted Awake
+  weight: 0.0035
+  avg_copies: 2.0
+- name: Unlicensed Hearse
+  weight: 0.0035
+  avg_copies: 2.0
 - name: Cool but Rude
   weight: 0.0035
   avg_copies: 1.0
 - name: Tunnel Ignus
   weight: 0.0035
   avg_copies: 1.0
-- name: Drannith Magistrate
+- name: Elspeth, Storm Slayer
   weight: 0.0035
   avg_copies: 1.0
 - name: Giant Killer
   weight: 0.0035
   avg_copies: 1.0
-- name: Curious Farm Animals
-  weight: 0.0035
-  avg_copies: 1.0
-- name: Elspeth, Storm Slayer
-  weight: 0.0035
-  avg_copies: 1.0
 - name: The Wandering Emperor
   weight: 0.0035
   avg_copies: 1.0
+- name: Prismatic Ending
+  weight: 0.0035
+  avg_copies: 1.0
+- name: Curious Farm Animals
+  weight: 0.0035
+  avg_copies: 1.0
+- name: Duty Beyond Death
+  weight: 0.0035
+  avg_copies: 1.0
 - name: The Ooze
+  weight: 0.0035
+  avg_copies: 1.0
+- name: Drannith Magistrate
   weight: 0.0035
   avg_copies: 1.0
 ---

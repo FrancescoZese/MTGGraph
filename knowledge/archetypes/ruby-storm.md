@@ -6,10 +6,10 @@ name: Ruby Storm
 meta_share: 0.0291
 list_count: 44
 top_cards:
-- name: Pyretic Ritual
+- name: Manamorphose
   weight: 1.0
   avg_copies: 4.0
-- name: Manamorphose
+- name: Pyretic Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Desperate Ritual
@@ -18,10 +18,10 @@ top_cards:
 - name: Wrenn's Resolve
   weight: 1.0
   avg_copies: 3.95
-- name: Ral, Monsoon Mage
+- name: Reckless Impulse
   weight: 1.0
   avg_copies: 3.93
-- name: Reckless Impulse
+- name: Ral, Monsoon Mage
   weight: 1.0
   avg_copies: 3.93
 - name: Mountain
@@ -120,10 +120,10 @@ top_cards:
 - name: Silence
   weight: 0.1136
   avg_copies: 2.4
-- name: Meltdown
+- name: Steam Vents
   weight: 0.1136
   avg_copies: 1.4
-- name: Steam Vents
+- name: Meltdown
   weight: 0.1136
   avg_copies: 1.4
 - name: March of Otherworldly Light
@@ -135,10 +135,10 @@ top_cards:
 - name: Flusterstorm
   weight: 0.0682
   avg_copies: 2.33
-- name: Shattering Spree
+- name: Into the Flood Maw
   weight: 0.0682
   avg_copies: 1.67
-- name: Into the Flood Maw
+- name: Shattering Spree
   weight: 0.0682
   avg_copies: 1.67
 - name: Flame of Anor
@@ -150,28 +150,28 @@ top_cards:
 - name: Stomping Ground
   weight: 0.0682
   avg_copies: 1.0
-- name: Questing Druid
+- name: Stormcatch Mentor
   weight: 0.0455
   avg_copies: 4.0
-- name: Stormcatch Mentor
+- name: Questing Druid
   weight: 0.0455
   avg_copies: 4.0
 - name: Flow State
   weight: 0.0455
   avg_copies: 4.0
-- name: Stock Up
+- name: Spirebluff Canal
   weight: 0.0455
   avg_copies: 3.0
-- name: Spirebluff Canal
+- name: Stock Up
   weight: 0.0455
   avg_copies: 3.0
 - name: Defense Grid
   weight: 0.0455
   avg_copies: 2.5
-- name: Preordain
+- name: Soul-Guide Lantern
   weight: 0.0455
   avg_copies: 2.0
-- name: Soul-Guide Lantern
+- name: Preordain
   weight: 0.0455
   avg_copies: 2.0
 - name: Blood Moon
@@ -180,13 +180,10 @@ top_cards:
 - name: Island
   weight: 0.0455
   avg_copies: 1.0
-- name: Alchemist's Gambit
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Baral, Chief of Compliance
-  weight: 0.0455
-  avg_copies: 1.0
 - name: Fiery Islet
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Alchemist's Gambit
   weight: 0.0455
   avg_copies: 1.0
 - name: Misty Rainforest
@@ -195,12 +192,21 @@ top_cards:
 - name: Otawara, Soaring City
   weight: 0.0455
   avg_copies: 1.0
+- name: Baral, Chief of Compliance
+  weight: 0.0455
+  avg_copies: 1.0
 - name: Abrade
   weight: 0.0455
   avg_copies: 1.0
 - name: Nature's Claim
   weight: 0.0227
   avg_copies: 4.0
+- name: Spell Snare
+  weight: 0.0227
+  avg_copies: 2.0
+- name: Escape to the Wilds
+  weight: 0.0227
+  avg_copies: 2.0
 - name: Goblin Anarchomancer
   weight: 0.0227
   avg_copies: 2.0
@@ -210,34 +216,10 @@ top_cards:
 - name: Remand
   weight: 0.0227
   avg_copies: 2.0
-- name: Spell Snare
-  weight: 0.0227
-  avg_copies: 2.0
 - name: Consign to Memory
   weight: 0.0227
   avg_copies: 2.0
-- name: Escape to the Wilds
-  weight: 0.0227
-  avg_copies: 2.0
 - name: Lorehold Charm
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Hexing Squelcher
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Fire
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Veil of Summer
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Flame Slash
-  weight: 0.0227
-  avg_copies: 1.0
-- name: card:lindblum-industrial-regency
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Voice of Victory
   weight: 0.0227
   avg_copies: 1.0
 - name: Urabrask
@@ -246,10 +228,28 @@ top_cards:
 - name: Raucous Theater
   weight: 0.0227
   avg_copies: 1.0
-- name: Pyromancer Ascension
+- name: Hexing Squelcher
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Flame Slash
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Veil of Summer
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Voice of Victory
   weight: 0.0227
   avg_copies: 1.0
 - name: Mine Collapse
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Fire
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Pyromancer Ascension
+  weight: 0.0227
+  avg_copies: 1.0
+- name: card:lindblum-industrial-regency
   weight: 0.0227
   avg_copies: 1.0
 ---

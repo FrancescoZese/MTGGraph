@@ -18,10 +18,10 @@ archetypes:
   affinity:
     weight: 0.0909
     avg_copies: 1.0
-  bant-ritual:
-    weight: 1.0
-    avg_copies: 2.0
   izzet-wizards:
+    weight: 0.2
+    avg_copies: 2.0
+  bant-ritual:
     weight: 1.0
     avg_copies: 2.0
 ---

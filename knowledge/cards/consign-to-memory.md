@@ -84,9 +84,9 @@ archetypes:
   esper-control:
     weight: 1.0
     avg_copies: 3.0
-  grixis-control:
+  izzet-wizards:
     weight: 1.0
-    avg_copies: 3.67
+    avg_copies: 3.6
   eldrazi-breach:
     weight: 0.75
     avg_copies: 3.67
@@ -96,9 +96,6 @@ archetypes:
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 4.0
-  izzet-wizards:
-    weight: 1.0
-    avg_copies: 3.0
   esper-midrange:
     weight: 1.0
     avg_copies: 4.0
@@ -114,6 +111,9 @@ archetypes:
   goryo3:
     weight: 1.0
     avg_copies: 4.0
+  grixis-control:
+    weight: 1.0
+    avg_copies: 3.5
   izzet-murktide:
     weight: 1.0
     avg_copies: 4.0

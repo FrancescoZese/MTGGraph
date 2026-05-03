@@ -21,10 +21,10 @@ archetypes:
   kethis-combo:
     weight: 0.6
     avg_copies: 1.67
-  grixis-control:
-    weight: 0.1667
-    avg_copies: 1.0
   rakdos-lantern-combo:
     weight: 1.0
+    avg_copies: 1.0
+  grixis-control:
+    weight: 0.5
     avg_copies: 1.0
 ---

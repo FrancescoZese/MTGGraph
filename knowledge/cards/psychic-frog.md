@@ -34,9 +34,6 @@ archetypes:
   dredge:
     weight: 0.2857
     avg_copies: 4.0
-  grixis-control:
-    weight: 0.1667
-    avg_copies: 4.0
   grixis-shadow:
     weight: 1.0
     avg_copies: 4.0
@@ -48,6 +45,9 @@ archetypes:
     avg_copies: 4.0
   goryo2:
     weight: 1.0
+    avg_copies: 4.0
+  grixis-control:
+    weight: 0.5
     avg_copies: 4.0
   sultai-midrange:
     weight: 1.0

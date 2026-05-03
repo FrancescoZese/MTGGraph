@@ -32,18 +32,15 @@ archetypes:
   indomitable-creativity:
     weight: 1.0
     avg_copies: 4.0
-  grixis-control:
-    weight: 0.1667
-    avg_copies: 2.0
+  izzet-wizards:
+    weight: 0.4
+    avg_copies: 2.5
   jund-saga:
     weight: 1.0
     avg_copies: 2.0
   eldrazi-breach:
     weight: 0.25
     avg_copies: 2.0
-  izzet-wizards:
-    weight: 1.0
-    avg_copies: 3.0
   naya-midrange:
     weight: 1.0
     avg_copies: 3.0

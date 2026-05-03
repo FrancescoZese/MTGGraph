@@ -35,9 +35,6 @@ archetypes:
   esper-control:
     weight: 1.0
     avg_copies: 1.0
-  grixis-control:
-    weight: 0.3333
-    avg_copies: 1.5
   grixis-shadow:
     weight: 1.0
     avg_copies: 1.0
@@ -50,6 +47,9 @@ archetypes:
   goryo2:
     weight: 1.0
     avg_copies: 1.0
+  grixis-control:
+    weight: 1.0
+    avg_copies: 1.5
   sultai-midrange:
     weight: 1.0
     avg_copies: 1.0

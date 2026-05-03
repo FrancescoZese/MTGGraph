@@ -138,10 +138,10 @@ top_cards:
 - name: Thundering Falls
   weight: 0.1169
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Flusterstorm
   weight: 0.0909
   avg_copies: 1.0
-- name: Flusterstorm
+- name: Otawara, Soaring City
   weight: 0.0909
   avg_copies: 1.0
 - name: Hurkyl's Recall
@@ -165,16 +165,16 @@ top_cards:
 - name: Snow-Covered Island
   weight: 0.026
   avg_copies: 1.5
-- name: Haywire Mite
-  weight: 0.026
-  avg_copies: 1.0
 - name: Vandalblast
   weight: 0.026
   avg_copies: 1.0
-- name: Salvage Titan
-  weight: 0.0195
+- name: Haywire Mite
+  weight: 0.026
   avg_copies: 1.0
 - name: Springleaf Drum
+  weight: 0.0195
+  avg_copies: 1.0
+- name: Salvage Titan
   weight: 0.0195
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
@@ -186,34 +186,34 @@ top_cards:
 - name: Thought Monitor
   weight: 0.013
   avg_copies: 1.0
-- name: Shattering Spree
-  weight: 0.0065
-  avg_copies: 2.0
 - name: Prismari Charm
-  weight: 0.0065
-  avg_copies: 2.0
-- name: Detect Intrusion
   weight: 0.0065
   avg_copies: 2.0
 - name: Glimmervoid
   weight: 0.0065
   avg_copies: 2.0
+- name: Shattering Spree
+  weight: 0.0065
+  avg_copies: 2.0
+- name: Detect Intrusion
+  weight: 0.0065
+  avg_copies: 2.0
 - name: Patchwork Automaton
   weight: 0.0065
   avg_copies: 2.0
+- name: Minamo, School at Water's Edge
+  weight: 0.0065
+  avg_copies: 1.0
+- name: Void Mirror
+  weight: 0.0065
+  avg_copies: 1.0
 - name: Jokulmorder
   weight: 0.0065
   avg_copies: 1.0
 - name: Mountain
   weight: 0.0065
   avg_copies: 1.0
-- name: Minamo, School at Water's Edge
-  weight: 0.0065
-  avg_copies: 1.0
 - name: Chandra, Spark Hunter
-  weight: 0.0065
-  avg_copies: 1.0
-- name: Void Mirror
   weight: 0.0065
   avg_copies: 1.0
 - name: Ghirapur Aether Grid
