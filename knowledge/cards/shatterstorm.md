@@ -16,7 +16,7 @@ archetypes:
     weight: 0.2
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0149
+    weight: 0.0147
     avg_copies: 1.0
   4c-omnath:
     weight: 0.25

@@ -10,6 +10,6 @@ type: Creature — Snake Shaman
 meta_presence: 0.0007
 archetypes:
   scapeshift-combo:
-    weight: 0.25
+    weight: 0.1667
     avg_copies: 1.0
 ---

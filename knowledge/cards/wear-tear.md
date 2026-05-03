@@ -11,7 +11,7 @@ type: Instant // Instant
 meta_presence: 0.3042
 archetypes:
   ruby-storm:
-    weight: 0.9286
+    weight: 0.8864
     avg_copies: 2.23
   boros-energy:
     weight: 0.9329
@@ -35,10 +35,10 @@ archetypes:
     weight: 0.7
     avg_copies: 2.86
   boros-ponza:
-    weight: 1.0
+    weight: 0.9444
     avg_copies: 1.59
   izzet-prowess:
-    weight: 0.0299
+    weight: 0.0294
     avg_copies: 1.5
   4c-omnath:
     weight: 0.5

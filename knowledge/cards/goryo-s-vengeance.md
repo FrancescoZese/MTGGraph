@@ -12,7 +12,7 @@ archetypes:
   goryo:
     weight: 1.0
     avg_copies: 3.98
-  unknown-5:
-    weight: 1.0
+  eldrazi-breach:
+    weight: 0.25
     avg_copies: 4.0
 ---

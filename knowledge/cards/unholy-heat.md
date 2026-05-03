@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0312
     avg_copies: 1.0
   reanimator:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 1.0
   mardu-blink:
     weight: 0.0556
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.5484
     avg_copies: 1.97
   izzet-prowess:
-    weight: 0.8806
+    weight: 0.8824
     avg_copies: 2.37
   broodscale-combo:
     weight: 0.5185
@@ -37,7 +37,7 @@ archetypes:
     weight: 0.4615
     avg_copies: 3.23
   eldrazi-breach:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 2.0
   grixis-shadow:
     weight: 1.0
@@ -45,6 +45,9 @@ archetypes:
   rakdos-aggro:
     weight: 0.3333
     avg_copies: 2.0
+  izzet-splinter-twin:
+    weight: 0.5
+    avg_copies: 3.0
   izzet-wizards:
     weight: 1.0
     avg_copies: 4.0
@@ -54,10 +57,4 @@ archetypes:
   izzet-murktide:
     weight: 1.0
     avg_copies: 4.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 2.0
 ---

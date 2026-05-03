@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.4101
 archetypes:
   ruby-storm:
-    weight: 0.881
+    weight: 0.8409
     avg_copies: 2.57
   boros-energy:
     weight: 1.0
@@ -39,10 +39,10 @@ archetypes:
     weight: 0.5714
     avg_copies: 1.83
   boros-ponza:
-    weight: 0.0588
+    weight: 0.1111
     avg_copies: 4.0
   izzet-prowess:
-    weight: 0.7164
+    weight: 0.7059
     avg_copies: 2.62
   indomitable-creativity:
     weight: 0.875
@@ -63,7 +63,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   scapeshift-combo:
-    weight: 0.25
+    weight: 0.1667
     avg_copies: 3.0
   naya-midrange:
     weight: 1.0
@@ -75,9 +75,6 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   soultrader-combo0:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-3:
     weight: 1.0
     avg_copies: 4.0
 ---

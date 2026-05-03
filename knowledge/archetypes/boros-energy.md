@@ -201,31 +201,16 @@ top_cards:
 - name: Redirect Lightning
   weight: 0.0071
   avg_copies: 1.0
-- name: Hardened Academic
+- name: Starfield Shepherd
   weight: 0.0035
   avg_copies: 4.0
-- name: Starfield Shepherd
+- name: Hardened Academic
   weight: 0.0035
   avg_copies: 4.0
 - name: card:practiced-offense
   weight: 0.0035
   avg_copies: 3.0
-- name: Stony Silence
-  weight: 0.0035
-  avg_copies: 2.0
-- name: Ephemerate
-  weight: 0.0035
-  avg_copies: 2.0
-- name: Screaming Nemesis
-  weight: 0.0035
-  avg_copies: 2.0
 - name: Jolted Awake
-  weight: 0.0035
-  avg_copies: 2.0
-- name: Unlicensed Hearse
-  weight: 0.0035
-  avg_copies: 2.0
-- name: Kataki, War's Wage
   weight: 0.0035
   avg_copies: 2.0
 - name: The Battle of Bywater
@@ -237,22 +222,31 @@ top_cards:
 - name: Reprieve
   weight: 0.0035
   avg_copies: 2.0
-- name: Tunnel Ignus
+- name: Stony Silence
+  weight: 0.0035
+  avg_copies: 2.0
+- name: Kataki, War's Wage
+  weight: 0.0035
+  avg_copies: 2.0
+- name: Unlicensed Hearse
+  weight: 0.0035
+  avg_copies: 2.0
+- name: Screaming Nemesis
+  weight: 0.0035
+  avg_copies: 2.0
+- name: Ephemerate
+  weight: 0.0035
+  avg_copies: 2.0
+- name: Duty Beyond Death
+  weight: 0.0035
+  avg_copies: 1.0
+- name: Prismatic Ending
   weight: 0.0035
   avg_copies: 1.0
 - name: Cool but Rude
   weight: 0.0035
   avg_copies: 1.0
-- name: Curious Farm Animals
-  weight: 0.0035
-  avg_copies: 1.0
-- name: Duty Beyond Death
-  weight: 0.0035
-  avg_copies: 1.0
-- name: The Wandering Emperor
-  weight: 0.0035
-  avg_copies: 1.0
-- name: The Ooze
+- name: Tunnel Ignus
   weight: 0.0035
   avg_copies: 1.0
 - name: Drannith Magistrate
@@ -261,10 +255,16 @@ top_cards:
 - name: Giant Killer
   weight: 0.0035
   avg_copies: 1.0
+- name: Curious Farm Animals
+  weight: 0.0035
+  avg_copies: 1.0
 - name: Elspeth, Storm Slayer
   weight: 0.0035
   avg_copies: 1.0
-- name: Prismatic Ending
+- name: The Wandering Emperor
+  weight: 0.0035
+  avg_copies: 1.0
+- name: The Ooze
   weight: 0.0035
   avg_copies: 1.0
 ---

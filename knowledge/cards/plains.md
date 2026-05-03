@@ -33,7 +33,7 @@ archetypes:
     weight: 0.1111
     avg_copies: 1.0
   reanimator:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 1.0
   mardu-blink:
     weight: 0.3889
@@ -43,7 +43,7 @@ archetypes:
     avg_copies: 2.67
   boros-ponza:
     weight: 1.0
-    avg_copies: 3.26
+    avg_copies: 3.14
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
@@ -90,9 +90,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   devoted-combo:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-3:
     weight: 1.0
     avg_copies: 1.0
 ---

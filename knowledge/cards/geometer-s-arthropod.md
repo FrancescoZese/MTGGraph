@@ -11,6 +11,6 @@ type: Creature — Fractal Crab
 meta_presence: 0.0007
 archetypes:
   neoform-combo:
-    weight: 0.0333
+    weight: 0.0323
     avg_copies: 4.0
 ---

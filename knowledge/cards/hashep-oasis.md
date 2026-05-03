@@ -9,6 +9,6 @@ type: Land — Desert
 meta_presence: 0.002
 archetypes:
   scapeshift-combo:
-    weight: 0.75
+    weight: 0.5
     avg_copies: 4.0
 ---

@@ -26,6 +26,9 @@ archetypes:
   mono-red-belcher:
     weight: 0.6
     avg_copies: 3.5
+  boros-ponza:
+    weight: 0.0556
+    avg_copies: 2.0
   4c-omnath:
     weight: 0.75
     avg_copies: 1.67
@@ -42,9 +45,6 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo3:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-3:
     weight: 1.0
     avg_copies: 2.0
 ---

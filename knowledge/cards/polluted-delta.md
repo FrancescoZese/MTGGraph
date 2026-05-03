@@ -10,7 +10,7 @@ meta_presence: 0.1799
 archetypes:
   dimir-control:
     weight: 1.0
-    avg_copies: 3.74
+    avg_copies: 3.75
   goryo:
     weight: 1.0
     avg_copies: 3.67
@@ -30,19 +30,19 @@ archetypes:
     weight: 1.0
     avg_copies: 3.89
   reanimator:
-    weight: 0.9615
-    avg_copies: 3.68
+    weight: 0.963
+    avg_copies: 3.62
   neoform-combo:
-    weight: 0.6
+    weight: 0.5806
     avg_copies: 1.17
   hollow-one:
     weight: 0.1905
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.2895
-    avg_copies: 1.0
+    weight: 0.3
+    avg_copies: 1.25
   izzet-prowess:
-    weight: 0.0149
+    weight: 0.0147
     avg_copies: 1.0
   esper-blink:
     weight: 0.9231
@@ -52,9 +52,9 @@ archetypes:
     avg_copies: 4.0
   grixis-control:
     weight: 1.0
-    avg_copies: 2.2
+    avg_copies: 2.5
   eldrazi-breach:
-    weight: 0.6667
+    weight: 0.5
     avg_copies: 1.0
   grixis-shadow:
     weight: 1.0
@@ -63,7 +63,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 4.0
   izzet-splinter-twin:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 1.0
   izzet-wizards:
     weight: 1.0
@@ -92,19 +92,7 @@ archetypes:
   izzet-murktide:
     weight: 1.0
     avg_copies: 1.0
-  unknown-4:
-    weight: 0.5
-    avg_copies: 4.0
   sultai-midrange:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-12:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-10:
     weight: 1.0
     avg_copies: 4.0
 ---

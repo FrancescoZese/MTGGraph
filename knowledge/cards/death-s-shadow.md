@@ -9,13 +9,13 @@ set: 2xm
 type: Creature — Avatar
 meta_presence: 0.002
 archetypes:
+  dimir-control:
+    weight: 0.0149
+    avg_copies: 4.0
   grixis-shadow:
     weight: 1.0
     avg_copies: 4.0
   rakdos-aggro:
     weight: 0.1667
-    avg_copies: 4.0
-  unknown-12:
-    weight: 1.0
     avg_copies: 4.0
 ---

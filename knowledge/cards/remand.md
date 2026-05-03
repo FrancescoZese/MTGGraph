@@ -9,13 +9,13 @@ set: rvr
 type: Instant
 meta_presence: 0.0026
 archetypes:
+  ruby-storm:
+    weight: 0.0227
+    avg_copies: 2.0
   mono-blue-tron:
     weight: 0.4
     avg_copies: 4.0
   eldrazi-breach:
-    weight: 0.3333
-    avg_copies: 2.0
-  unknown-2:
-    weight: 0.5
+    weight: 0.25
     avg_copies: 2.0
 ---

@@ -9,9 +9,12 @@ set: tdc
 type: Sorcery
 meta_presence: 0.0952
 archetypes:
+  ruby-storm:
+    weight: 0.0455
+    avg_copies: 2.0
   dimir-control:
-    weight: 0.1667
-    avg_copies: 2.27
+    weight: 0.1791
+    avg_copies: 2.42
   mono-blue-belcher:
     weight: 0.2333
     avg_copies: 3.0
@@ -19,20 +22,23 @@ archetypes:
     weight: 0.2273
     avg_copies: 3.06
   neoform-combo:
-    weight: 0.0667
+    weight: 0.0645
     avg_copies: 2.5
   izzet-prowess:
-    weight: 0.9851
-    avg_copies: 3.97
+    weight: 0.9853
+    avg_copies: 3.93
   izzet-artifacts:
     weight: 0.3846
     avg_copies: 3.3
   grixis-control:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 4.0
   eldrazi-breach:
-    weight: 1.0
+    weight: 0.75
     avg_copies: 2.67
+  izzet-splinter-twin:
+    weight: 0.5
+    avg_copies: 4.0
   izzet-wizards:
     weight: 1.0
     avg_copies: 2.0
@@ -42,16 +48,4 @@ archetypes:
   goryo7:
     weight: 1.0
     avg_copies: 2.0
-  unknown-2:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-12:
-    weight: 1.0
-    avg_copies: 4.0
 ---

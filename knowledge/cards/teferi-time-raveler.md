@@ -11,7 +11,7 @@ type: Legendary Planeswalker — Teferi
 meta_presence: 0.1323
 archetypes:
   dimir-control:
-    weight: 0.0455
+    weight: 0.0448
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.5104

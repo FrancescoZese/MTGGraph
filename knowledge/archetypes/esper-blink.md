@@ -7,13 +7,13 @@ name: Esper Blink
 meta_share: 0.0086
 list_count: 13
 top_cards:
+- name: Overlord of the Balemurk
+  weight: 1.0
+  avg_copies: 4.0
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
-  weight: 1.0
-  avg_copies: 4.0
-- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
@@ -49,16 +49,16 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.08
-- name: Shadowy Backstreet
-  weight: 1.0
-  avg_copies: 1.0
-- name: Meticulous Archive
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Meticulous Archive
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Thoughtseize
@@ -97,13 +97,13 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.5385
   avg_copies: 2.57
-- name: Surgical Extraction
+- name: Island
   weight: 0.2308
   avg_copies: 1.0
 - name: Bleachbone Verge
   weight: 0.2308
   avg_copies: 1.0
-- name: Island
+- name: Surgical Extraction
   weight: 0.2308
   avg_copies: 1.0
 - name: Psychic Frog
@@ -118,10 +118,10 @@ top_cards:
 - name: Floodfarm Verge
   weight: 0.1538
   avg_copies: 1.0
-- name: Subtlety
+- name: Force of Negation
   weight: 0.0769
   avg_copies: 4.0
-- name: Force of Negation
+- name: Subtlety
   weight: 0.0769
   avg_copies: 4.0
 - name: No More Lies
@@ -130,31 +130,31 @@ top_cards:
 - name: White Orchid Phantom
   weight: 0.0769
   avg_copies: 2.0
-- name: Elesh Norn, Mother of Machines
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Hydroelectric Specimen
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Skycoach Conductor
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Erode
+- name: March of Otherworldly Light
   weight: 0.0769
   avg_copies: 1.0
 - name: Windswept Heath
   weight: 0.0769
   avg_copies: 1.0
+- name: Erode
+  weight: 0.0769
+  avg_copies: 1.0
 - name: Celestial Purge
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Hydroelectric Specimen
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
   weight: 0.0769
   avg_copies: 1.0
 - name: Emptiness
   weight: 0.0769
   avg_copies: 1.0
-- name: Strix Serenade
+- name: Skycoach Conductor
   weight: 0.0769
   avg_copies: 1.0
-- name: March of Otherworldly Light
+- name: Strix Serenade
   weight: 0.0769
   avg_copies: 1.0
 ---

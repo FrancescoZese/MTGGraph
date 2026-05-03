@@ -11,8 +11,8 @@ type: Creature — Frog
 meta_presence: 0.0939
 archetypes:
   dimir-control:
-    weight: 0.5455
-    avg_copies: 3.58
+    weight: 0.5522
+    avg_copies: 3.59
   goryo:
     weight: 0.9667
     avg_copies: 3.83
@@ -23,16 +23,19 @@ archetypes:
     weight: 0.0196
     avg_copies: 4.0
   reanimator:
-    weight: 0.8846
+    weight: 0.8519
     avg_copies: 3.87
   simic-ritual:
-    weight: 0.0263
-    avg_copies: 2.0
+    weight: 0.05
+    avg_copies: 3.0
   esper-blink:
     weight: 0.1538
     avg_copies: 4.0
   dredge:
     weight: 0.2857
+    avg_copies: 4.0
+  grixis-control:
+    weight: 0.1667
     avg_copies: 4.0
   grixis-shadow:
     weight: 1.0
@@ -46,16 +49,7 @@ archetypes:
   goryo2:
     weight: 1.0
     avg_copies: 4.0
-  unknown-4:
-    weight: 0.5
-    avg_copies: 4.0
   sultai-midrange:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-12:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-10:
     weight: 1.0
     avg_copies: 4.0
 ---

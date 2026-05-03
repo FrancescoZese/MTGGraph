@@ -10,13 +10,13 @@ type: Creature — Skeleton Noble
 meta_presence: 0.0556
 archetypes:
   dimir-control:
-    weight: 0.0152
+    weight: 0.0149
     avg_copies: 2.0
   goryo:
     weight: 0.4
     avg_copies: 1.19
   reanimator:
-    weight: 0.8846
+    weight: 0.8519
     avg_copies: 3.57
   mardu-blink:
     weight: 0.6667

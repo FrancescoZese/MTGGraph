@@ -9,7 +9,7 @@ type: Legendary Land
 meta_presence: 0.08
 archetypes:
   ruby-storm:
-    weight: 0.9524
+    weight: 0.9091
     avg_copies: 1.0
   amulet-titan:
     weight: 0.0159
@@ -33,7 +33,7 @@ archetypes:
     weight: 0.0968
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.6842
+    weight: 0.65
     avg_copies: 2.0
   4c-omnath:
     weight: 0.25
@@ -45,12 +45,9 @@ archetypes:
     weight: 0.1429
     avg_copies: 3.0
   eldrazi-breach:
-    weight: 0.6667
+    weight: 0.75
     avg_copies: 1.0
   cosmogoyf-fling:
     weight: 1.0
     avg_copies: 4.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 1.0
 ---

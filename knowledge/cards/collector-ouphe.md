@@ -19,11 +19,11 @@ archetypes:
     weight: 0.04
     avg_copies: 1.0
   reanimator:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.7368
-    avg_copies: 1.71
+    weight: 0.725
+    avg_copies: 1.72
   samwise-combo:
     weight: 0.1818
     avg_copies: 1.0
@@ -40,7 +40,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   scapeshift-combo:
-    weight: 1.0
+    weight: 0.6667
     avg_copies: 1.0
   the-rock:
     weight: 0.5
@@ -48,13 +48,7 @@ archetypes:
   soultrader-combo:
     weight: 0.6667
     avg_copies: 2.0
-  unknown-4:
-    weight: 0.5
-    avg_copies: 2.0
   devoted-combo:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-11:
     weight: 1.0
     avg_copies: 1.0
 ---

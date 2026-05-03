@@ -10,13 +10,16 @@ type: Instant
 meta_presence: 0.047
 archetypes:
   dimir-control:
-    weight: 0.9394
-    avg_copies: 1.84
+    weight: 0.9403
+    avg_copies: 1.83
   necrodominance:
     weight: 0.0455
     avg_copies: 1.0
+  simic-ritual:
+    weight: 0.025
+    avg_copies: 1.0
   grixis-control:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 2.0
   rakdos-aggro:
     weight: 0.3333
@@ -27,13 +30,7 @@ archetypes:
   soultrader-combo:
     weight: 0.3333
     avg_copies: 1.0
-  unknown-4:
-    weight: 0.5
-    avg_copies: 1.0
   sultai-midrange:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-12:
     weight: 1.0
     avg_copies: 1.0
 ---

@@ -10,6 +10,6 @@ type: Creature — Snake
 meta_presence: 0.0026
 archetypes:
   mono-green-ramp:
-    weight: 0.8
+    weight: 0.6667
     avg_copies: 3.0
 ---

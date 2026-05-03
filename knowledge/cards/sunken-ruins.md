@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.0013
 archetypes:
   dimir-control:
-    weight: 0.0152
+    weight: 0.0149
     avg_copies: 1.0
   living-end:
     weight: 0.04

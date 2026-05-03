@@ -1,5 +1,5 @@
 ---
-archetype: unknown-1
+archetype: scapeshift-combo
 date: '2026-04-29'
 finish: 14th
 pilot: Corkyboyy

@@ -16,10 +16,10 @@ archetypes:
     weight: 0.52
     avg_copies: 1.0
   reanimator:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 1.0
   mono-green-ramp:
-    weight: 0.8
+    weight: 0.6667
     avg_copies: 2.75
   soultrader-combo:
     weight: 0.3333

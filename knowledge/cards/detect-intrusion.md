@@ -12,7 +12,7 @@ archetypes:
     weight: 0.0065
     avg_copies: 2.0
   neoform-combo:
-    weight: 0.0333
+    weight: 0.0323
     avg_copies: 4.0
   azorius-blink:
     weight: 0.3333

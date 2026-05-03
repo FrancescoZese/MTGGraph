@@ -9,13 +9,13 @@ set: tdc
 type: Instant
 meta_presence: 0.002
 archetypes:
+  ruby-storm:
+    weight: 0.0227
+    avg_copies: 2.0
   dimir-control:
-    weight: 0.0152
+    weight: 0.0149
     avg_copies: 4.0
   grixis-control:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 1.0
-  unknown-2:
-    weight: 0.5
-    avg_copies: 2.0
 ---

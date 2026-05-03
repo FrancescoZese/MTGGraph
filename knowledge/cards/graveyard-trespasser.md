@@ -9,16 +9,19 @@ type: Creature — Human Werewolf // Creature — Werewolf
 meta_presence: 0.0258
 archetypes:
   dimir-control:
-    weight: 0.1667
+    weight: 0.1642
     avg_copies: 1.15
   necrodominance:
     weight: 0.8636
     avg_copies: 3.68
   reanimator:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 2.0
   mardu-blink:
     weight: 0.0556
+    avg_copies: 2.0
+  simic-ritual:
+    weight: 0.025
     avg_copies: 2.0
   jund-saga:
     weight: 1.0
@@ -34,8 +37,5 @@ archetypes:
     avg_copies: 3.0
   soultrader-combo0:
     weight: 1.0
-    avg_copies: 2.0
-  unknown-4:
-    weight: 0.5
     avg_copies: 2.0
 ---

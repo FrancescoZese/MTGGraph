@@ -9,7 +9,7 @@ type: Land — Plains Island
 meta_presence: 0.1561
 archetypes:
   dimir-control:
-    weight: 0.1061
+    weight: 0.1045
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.9896
@@ -30,10 +30,10 @@ archetypes:
     weight: 0.1111
     avg_copies: 1.0
   reanimator:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0333
+    weight: 0.0645
     avg_copies: 1.0
   hammer-time:
     weight: 0.6667
@@ -66,9 +66,6 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   4c-omnath9:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-6:
     weight: 1.0
     avg_copies: 1.0
 ---

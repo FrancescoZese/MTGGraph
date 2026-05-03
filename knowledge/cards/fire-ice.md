@@ -10,7 +10,7 @@ set: dmr
 type: Instant // Instant
 meta_presence: 0.0007
 archetypes:
-  unknown-2:
-    weight: 0.5
+  ruby-storm:
+    weight: 0.0227
     avg_copies: 1.0
 ---

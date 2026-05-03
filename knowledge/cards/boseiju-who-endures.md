@@ -24,7 +24,7 @@ archetypes:
     weight: 0.44
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.9
+    weight: 0.871
     avg_copies: 1.0
   kethis-combo:
     weight: 1.0
@@ -36,7 +36,7 @@ archetypes:
     weight: 0.0968
     avg_copies: 1.0
   simic-ritual:
-    weight: 1.0
+    weight: 0.95
     avg_copies: 1.23
   4c-omnath:
     weight: 0.25
@@ -64,7 +64,7 @@ archetypes:
     avg_copies: 1.0
   mono-green-ramp:
     weight: 1.0
-    avg_copies: 1.2
+    avg_copies: 1.17
   mono-green-stompy:
     weight: 1.0
     avg_copies: 1.0
@@ -73,7 +73,7 @@ archetypes:
     avg_copies: 1.0
   scapeshift-combo:
     weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 1.33
   naya-midrange:
     weight: 1.0
     avg_copies: 1.0
@@ -84,12 +84,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   devoted-combo:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-11:
     weight: 1.0
     avg_copies: 1.0
 ---

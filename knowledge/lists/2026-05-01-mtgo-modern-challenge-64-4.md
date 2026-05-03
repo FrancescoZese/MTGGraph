@@ -1,5 +1,5 @@
 ---
-archetype: unknown-3
+archetype: boros-ponza
 date: '2026-05-01'
 finish: 4th
 pilot: EDHplayer

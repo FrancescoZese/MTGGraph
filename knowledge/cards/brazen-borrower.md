@@ -10,6 +10,6 @@ type: Creature — Faerie Rogue // Instant — Adventure
 meta_presence: 0.002
 archetypes:
   dimir-control:
-    weight: 0.0455
+    weight: 0.0448
     avg_copies: 1.33
 ---

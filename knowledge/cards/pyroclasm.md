@@ -16,7 +16,7 @@ archetypes:
     weight: 0.1373
     avg_copies: 1.0
   reanimator:
-    weight: 0.8077
+    weight: 0.7778
     avg_copies: 1.86
   burn:
     weight: 0.4286
@@ -25,10 +25,10 @@ archetypes:
     weight: 0.0476
     avg_copies: 2.0
   simic-ritual:
-    weight: 0.0263
+    weight: 0.025
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.0597
+    weight: 0.0588
     avg_copies: 1.75
   broodscale-combo:
     weight: 0.037
@@ -45,10 +45,10 @@ archetypes:
   rakdos-aggro:
     weight: 0.5
     avg_copies: 1.67
+  scapeshift-combo:
+    weight: 0.3333
+    avg_copies: 3.0
   goryo1:
     weight: 0.9
     avg_copies: 1.67
-  unknown-1:
-    weight: 1.0
-    avg_copies: 3.0
 ---

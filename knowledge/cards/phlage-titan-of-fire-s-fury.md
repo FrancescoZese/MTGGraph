@@ -11,7 +11,7 @@ type: Legendary Creature — Elder Giant
 meta_presence: 0.3386
 archetypes:
   ruby-storm:
-    weight: 0.0714
+    weight: 0.0682
     avg_copies: 1.0
   boros-energy:
     weight: 1.0
@@ -29,7 +29,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.39
   boros-ponza:
-    weight: 1.0
+    weight: 0.9444
     avg_copies: 2.18
   naya-midrange:
     weight: 1.0

@@ -8,7 +8,7 @@ set: fin
 type: Legendary Creature — Elder Wizard // Legendary Creature — Avatar
 meta_presence: 0.0007
 archetypes:
-  unknown-10:
-    weight: 1.0
+  grixis-control:
+    weight: 0.1667
     avg_copies: 1.0
 ---

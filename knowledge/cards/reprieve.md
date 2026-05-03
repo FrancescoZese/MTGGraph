@@ -19,8 +19,8 @@ archetypes:
     weight: 0.04
     avg_copies: 2.0
   boros-ponza:
-    weight: 0.1765
-    avg_copies: 3.17
+    weight: 0.2222
+    avg_copies: 2.7
   indomitable-creativity:
     weight: 0.625
     avg_copies: 2.6
@@ -28,9 +28,6 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   selesnya-midrange:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-3:
     weight: 1.0
     avg_copies: 2.0
 ---

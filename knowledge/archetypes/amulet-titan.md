@@ -8,13 +8,13 @@ top_cards:
 - name: Amulet of Vigor
   weight: 1.0
   avg_copies: 4.0
+- name: Arboreal Grazer
+  weight: 1.0
+  avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Spelunking
-  weight: 1.0
-  avg_copies: 4.0
-- name: Arboreal Grazer
   weight: 1.0
   avg_copies: 4.0
 - name: Crumbling Vestige
@@ -50,28 +50,28 @@ top_cards:
 - name: Aftermath Analyst
   weight: 1.0
   avg_copies: 1.08
-- name: Tolaria West
-  weight: 1.0
-  avg_copies: 1.0
-- name: Vesuva
+- name: Echoing Deeps
   weight: 1.0
   avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
-- name: Hanweir Battlements
+- name: Shifting Woodland
   weight: 1.0
   avg_copies: 1.0
-- name: Echoing Deeps
+- name: Tolaria West
+  weight: 1.0
+  avg_copies: 1.0
+- name: Bojuka Bog
   weight: 1.0
   avg_copies: 1.0
 - name: Mirrorpool
   weight: 1.0
   avg_copies: 1.0
-- name: Shifting Woodland
+- name: Vesuva
   weight: 1.0
   avg_copies: 1.0
-- name: Bojuka Bog
+- name: Hanweir Battlements
   weight: 1.0
   avg_copies: 1.0
 - name: Urza's Cave
@@ -143,16 +143,16 @@ top_cards:
 - name: Elvish Reclaimer
   weight: 0.0952
   avg_copies: 1.0
-- name: Azusa, Lost but Seeking
-  weight: 0.0794
-  avg_copies: 1.0
-- name: Tireless Tracker
-  weight: 0.0794
-  avg_copies: 1.0
 - name: Wooded Foothills
   weight: 0.0794
   avg_copies: 1.0
+- name: Azusa, Lost but Seeking
+  weight: 0.0794
+  avg_copies: 1.0
 - name: Commercial District
+  weight: 0.0794
+  avg_copies: 1.0
+- name: Tireless Tracker
   weight: 0.0794
   avg_copies: 1.0
 - name: Explore
@@ -182,16 +182,16 @@ top_cards:
 - name: Gemstone Caverns
   weight: 0.0159
   avg_copies: 1.0
-- name: Lithomantic Barrage
-  weight: 0.0159
-  avg_copies: 1.0
 - name: Pyroclasm
   weight: 0.0159
   avg_copies: 1.0
-- name: The Mycosynth Gardens
+- name: Lithomantic Barrage
   weight: 0.0159
   avg_copies: 1.0
 - name: Dosan the Falling Leaf
+  weight: 0.0159
+  avg_copies: 1.0
+- name: The Mycosynth Gardens
   weight: 0.0159
   avg_copies: 1.0
 ---

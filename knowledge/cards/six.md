@@ -19,7 +19,7 @@ archetypes:
     weight: 0.0769
     avg_copies: 2.0
   scapeshift-combo:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
   naya-midrange:
     weight: 1.0

@@ -1,5 +1,5 @@
 ---
-archetype: unknown-11
+archetype: mono-green-ramp
 date: '2026-05-03'
 finish: 5-0
 pilot: wasatchwarrior

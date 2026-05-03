@@ -8,9 +8,12 @@ set: sos
 type: Basic Land — Island
 meta_presence: 0.3532
 archetypes:
+  ruby-storm:
+    weight: 0.0455
+    avg_copies: 1.0
   dimir-control:
-    weight: 0.9848
-    avg_copies: 2.55
+    weight: 0.9851
+    avg_copies: 2.53
   mono-blue-belcher:
     weight: 0.4667
     avg_copies: 1.0
@@ -36,10 +39,10 @@ archetypes:
     weight: 0.6667
     avg_copies: 3.0
   reanimator:
-    weight: 0.8846
+    weight: 0.8519
     avg_copies: 1.04
   neoform-combo:
-    weight: 0.1
+    weight: 0.0968
     avg_copies: 1.33
   mono-blue-tron:
     weight: 1.0
@@ -47,8 +50,11 @@ archetypes:
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
+  simic-ritual:
+    weight: 0.025
+    avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0448
+    weight: 0.0441
     avg_copies: 1.33
   4c-omnath:
     weight: 1.0
@@ -67,9 +73,9 @@ archetypes:
     avg_copies: 2.0
   grixis-control:
     weight: 1.0
-    avg_copies: 4.8
+    avg_copies: 4.33
   eldrazi-breach:
-    weight: 1.0
+    weight: 0.75
     avg_copies: 2.0
   izzet-splinter-twin:
     weight: 1.0
@@ -98,22 +104,7 @@ archetypes:
   4c-omnath9:
     weight: 0.5
     avg_copies: 1.0
-  unknown-4:
-    weight: 0.5
-    avg_copies: 2.0
   sultai-midrange:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-2:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-12:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-10:
     weight: 1.0
     avg_copies: 2.0
 ---

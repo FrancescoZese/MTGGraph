@@ -6,15 +6,12 @@ name: Boseiju, Who Shelters All
 scryfall_id: 0180d9a8-992c-4d55-8ac4-33a587786993
 set: chk
 type: Legendary Land
-meta_presence: 0.002
+meta_presence: 0.0013
 archetypes:
   mono-blue-tron:
     weight: 0.2
     avg_copies: 1.0
   eldrazi-breach:
-    weight: 0.3333
-    avg_copies: 1.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 2.0
+    weight: 0.25
+    avg_copies: 1.5
 ---

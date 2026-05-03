@@ -11,9 +11,6 @@ type: Creature — Snake Elf Druid
 meta_presence: 0.0258
 archetypes:
   simic-ritual:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-4:
-    weight: 0.5
+    weight: 0.975
     avg_copies: 4.0
 ---

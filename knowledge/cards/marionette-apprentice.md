@@ -9,13 +9,13 @@ set: mh3
 type: Creature — Human Artificer
 meta_presence: 0.0046
 archetypes:
+  simic-ritual:
+    weight: 0.025
+    avg_copies: 3.0
   samwise-combo:
     weight: 0.2727
     avg_copies: 2.0
   soultrader-combo:
     weight: 1.0
     avg_copies: 3.67
-  unknown-4:
-    weight: 0.5
-    avg_copies: 3.0
 ---

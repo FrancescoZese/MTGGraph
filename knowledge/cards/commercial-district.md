@@ -9,13 +9,13 @@ type: Land — Mountain Forest
 meta_presence: 0.0556
 archetypes:
   ruby-storm:
-    weight: 0.5714
+    weight: 0.5455
     avg_copies: 1.04
   amulet-titan:
     weight: 0.0794
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0333
+    weight: 0.0323
     avg_copies: 1.0
   hollow-one:
     weight: 0.0952
@@ -33,7 +33,7 @@ archetypes:
     weight: 0.7143
     avg_copies: 1.0
   scapeshift-combo:
-    weight: 0.25
+    weight: 0.5
     avg_copies: 3.0
   naya-midrange:
     weight: 1.0
@@ -41,7 +41,4 @@ archetypes:
   selesnya-midrange:
     weight: 1.0
     avg_copies: 1.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 3.0
 ---

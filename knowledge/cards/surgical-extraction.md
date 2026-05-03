@@ -4,7 +4,7 @@ archetypes:
     weight: 0.9011
     avg_copies: 1.32
   dimir-control:
-    weight: 0.1212
+    weight: 0.1194
     avg_copies: 1.5
   mono-blue-belcher:
     weight: 0.0333
@@ -31,7 +31,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.58
   reanimator:
-    weight: 0.2308
+    weight: 0.2222
     avg_copies: 1.33
   burn:
     weight: 0.4286
@@ -46,14 +46,14 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.79
   boros-ponza:
-    weight: 0.1765
+    weight: 0.1667
     avg_copies: 1.29
   eldrazi-ramp:
     weight: 0.0968
     avg_copies: 1.67
   izzet-prowess:
-    weight: 0.8806
-    avg_copies: 1.65
+    weight: 0.8824
+    avg_copies: 1.66
   esper-blink:
     weight: 0.2308
     avg_copies: 1.0
@@ -70,13 +70,16 @@ archetypes:
     weight: 0.5714
     avg_copies: 2.0
   grixis-control:
-    weight: 0.4
-    avg_copies: 1.5
+    weight: 0.5
+    avg_copies: 1.33
   rakdos-aggro:
     weight: 0.1667
     avg_copies: 2.0
   izzet-splinter-twin:
-    weight: 1.0
+    weight: 0.5
+    avg_copies: 1.0
+  scapeshift-combo:
+    weight: 0.3333
     avg_copies: 1.0
   naya-midrange:
     weight: 1.0
@@ -91,15 +94,6 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   sultai-midrange:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-10:
     weight: 1.0
     avg_copies: 1.0
 cmc: 1

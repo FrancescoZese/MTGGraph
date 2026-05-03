@@ -8,11 +8,14 @@ set: eoc
 type: Artifact
 meta_presence: 0.0893
 archetypes:
+  ruby-storm:
+    weight: 0.0455
+    avg_copies: 2.0
   boros-energy:
     weight: 0.0989
     avg_copies: 1.11
   dimir-control:
-    weight: 0.0303
+    weight: 0.0299
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.1458
@@ -36,13 +39,16 @@ archetypes:
     weight: 0.0952
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.1765
+    weight: 0.1667
     avg_copies: 2.0
   eldrazi-ramp:
     weight: 0.1613
     avg_copies: 1.0
+  simic-ritual:
+    weight: 0.025
+    avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0597
+    weight: 0.0588
     avg_copies: 1.25
   broodscale-combo:
     weight: 1.0
@@ -53,13 +59,7 @@ archetypes:
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
-  unknown-4:
+  izzet-splinter-twin:
     weight: 0.5
-    avg_copies: 1.0
-  unknown-2:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-9:
-    weight: 1.0
     avg_copies: 2.0
 ---

@@ -1,5 +1,5 @@
 ---
-archetype: unknown-6
+archetype: neoform-combo
 date: '2026-05-02'
 finish: 5-0
 pilot: GriselSram

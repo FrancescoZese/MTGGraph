@@ -16,7 +16,7 @@ archetypes:
     weight: 0.75
     avg_copies: 3.0
   reanimator:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 4.0
   kethis-combo:
     weight: 1.0
@@ -27,6 +27,9 @@ archetypes:
   eldrazi-ramp:
     weight: 1.0
     avg_copies: 3.87
+  simic-ritual:
+    weight: 0.025
+    avg_copies: 4.0
   samwise-combo:
     weight: 0.9091
     avg_copies: 3.0
@@ -37,7 +40,7 @@ archetypes:
     weight: 0.0769
     avg_copies: 4.0
   scapeshift-combo:
-    weight: 0.75
+    weight: 0.8333
     avg_copies: 4.0
   naya-midrange:
     weight: 1.0
@@ -51,13 +54,7 @@ archetypes:
   soultrader-combo:
     weight: 0.3333
     avg_copies: 4.0
-  unknown-4:
-    weight: 0.5
-    avg_copies: 4.0
   devoted-combo:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-1:
     weight: 1.0
     avg_copies: 4.0
 ---

@@ -10,16 +10,16 @@ type: Instant
 meta_presence: 0.0238
 archetypes:
   ruby-storm:
-    weight: 0.0238
+    weight: 0.0227
     avg_copies: 1.0
   hardened-scales:
     weight: 0.75
     avg_copies: 1.0
   reanimator:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 2.0
   neoform-combo:
-    weight: 0.8333
+    weight: 0.8065
     avg_copies: 2.75
   samwise-combo:
     weight: 0.0909

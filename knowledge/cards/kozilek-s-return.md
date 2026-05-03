@@ -11,10 +11,10 @@ archetypes:
   eldrazi-ramp:
     weight: 0.9677
     avg_copies: 2.0
-  eldrazi-breach:
-    weight: 1.0
-    avg_copies: 1.67
-  unknown-10:
-    weight: 1.0
+  grixis-control:
+    weight: 0.1667
     avg_copies: 1.0
+  eldrazi-breach:
+    weight: 0.75
+    avg_copies: 1.67
 ---

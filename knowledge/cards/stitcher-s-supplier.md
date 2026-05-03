@@ -10,15 +10,12 @@ type: Creature — Zombie
 meta_presence: 0.0046
 archetypes:
   reanimator:
-    weight: 0.1154
+    weight: 0.1481
     avg_copies: 4.0
   dredge:
     weight: 0.1429
     avg_copies: 4.0
   soultrader-combo:
     weight: 0.6667
-    avg_copies: 4.0
-  unknown-8:
-    weight: 1.0
     avg_copies: 4.0
 ---

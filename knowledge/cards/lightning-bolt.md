@@ -10,13 +10,13 @@ type: Instant
 meta_presence: 0.1455
 archetypes:
   ruby-storm:
-    weight: 0.1429
+    weight: 0.1591
     avg_copies: 1.0
   boros-energy:
     weight: 0.0742
     avg_copies: 1.24
   dimir-control:
-    weight: 0.0152
+    weight: 0.0149
     avg_copies: 2.0
   jeskai-energy:
     weight: 0.0625
@@ -28,8 +28,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.94
   reanimator:
-    weight: 0.0769
-    avg_copies: 2.5
+    weight: 0.1111
+    avg_copies: 2.33
   burn:
     weight: 1.0
     avg_copies: 3.57
@@ -50,44 +50,29 @@ archetypes:
     avg_copies: 4.0
   grixis-control:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 3.17
   jund-saga:
     weight: 1.0
     avg_copies: 3.0
   eldrazi-breach:
-    weight: 0.6667
+    weight: 0.5
     avg_copies: 2.0
   rakdos-aggro:
     weight: 0.8333
     avg_copies: 4.0
   izzet-splinter-twin:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 2.5
   izzet-wizards:
     weight: 1.0
     avg_copies: 2.0
+  scapeshift-combo:
+    weight: 0.3333
+    avg_copies: 3.0
   izzet-murktide:
     weight: 1.0
     avg_copies: 4.0
   soultrader-combo0:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-2:
-    weight: 0.5
-    avg_copies: 1.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-10:
     weight: 1.0
     avg_copies: 4.0
 ---

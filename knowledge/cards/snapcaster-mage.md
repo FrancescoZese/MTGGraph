@@ -10,16 +10,16 @@ type: Creature — Human Wizard
 meta_presence: 0.0265
 archetypes:
   dimir-control:
-    weight: 0.4091
+    weight: 0.403
     avg_copies: 1.89
   jeskai-control:
     weight: 0.12
     avg_copies: 2.67
   grixis-control:
     weight: 1.0
-    avg_copies: 3.8
+    avg_copies: 3.33
   izzet-splinter-twin:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 2.0
   izzet-wizards:
     weight: 1.0
@@ -30,7 +30,4 @@ archetypes:
   4c-omnath9:
     weight: 0.5
     avg_copies: 2.0
-  unknown-10:
-    weight: 1.0
-    avg_copies: 1.0
 ---

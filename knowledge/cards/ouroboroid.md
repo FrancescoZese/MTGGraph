@@ -11,17 +11,14 @@ meta_presence: 0.0073
 archetypes:
   mono-green-ramp:
     weight: 1.0
-    avg_copies: 1.5
+    avg_copies: 1.73
   mono-green-stompy:
     weight: 1.0
     avg_copies: 1.0
   scapeshift-combo:
-    weight: 0.75
+    weight: 0.5
     avg_copies: 4.0
   the-rock:
     weight: 0.5
-    avg_copies: 4.0
-  unknown-11:
-    weight: 1.0
     avg_copies: 4.0
 ---

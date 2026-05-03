@@ -11,7 +11,7 @@ type: Instant
 meta_presence: 0.0079
 archetypes:
   reanimator:
-    weight: 0.0769
+    weight: 0.1111
     avg_copies: 3.0
   burn:
     weight: 0.1429
@@ -19,10 +19,7 @@ archetypes:
   hollow-one:
     weight: 0.3333
     avg_copies: 1.86
-  unknown-8:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-10:
-    weight: 1.0
+  grixis-control:
+    weight: 0.1667
     avg_copies: 2.0
 ---

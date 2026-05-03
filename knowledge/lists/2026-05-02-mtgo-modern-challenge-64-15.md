@@ -1,5 +1,5 @@
 ---
-archetype: unknown-2
+archetype: ruby-storm
 date: '2026-05-02'
 finish: 16th
 pilot: TonyScapone

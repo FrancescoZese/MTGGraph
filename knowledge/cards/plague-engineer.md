@@ -10,12 +10,9 @@ type: Creature — Phyrexian Carrier
 meta_presence: 0.002
 archetypes:
   reanimator:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0263
-    avg_copies: 1.0
-  unknown-4:
-    weight: 0.5
+    weight: 0.05
     avg_copies: 1.0
 ---

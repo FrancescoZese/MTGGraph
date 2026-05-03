@@ -4,10 +4,10 @@ name: Eldrazi Tron
 meta_share: 0.037
 list_count: 56
 top_cards:
-- name: Ugin's Labyrinth
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
-- name: Kozilek's Command
+- name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
@@ -148,7 +148,7 @@ top_cards:
 - name: Emrakul, the Promised End
   weight: 0.0536
   avg_copies: 1.5
-- name: Talisman of Curiosity
+- name: Pithing Needle
   weight: 0.0536
   avg_copies: 1.0
 - name: Kozilek, Butcher of Truth
@@ -157,7 +157,7 @@ top_cards:
 - name: Ratchet Bomb
   weight: 0.0536
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Talisman of Curiosity
   weight: 0.0536
   avg_copies: 1.0
 - name: Mystic Forge
@@ -166,91 +166,70 @@ top_cards:
 - name: Oblivion Stone
   weight: 0.0536
   avg_copies: 1.0
-- name: Weathered Runestone
-  weight: 0.0357
-  avg_copies: 1.0
-- name: The Dominion Bracelet
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Sundering Titan
+- name: Phyrexian Metamorph
   weight: 0.0357
   avg_copies: 1.0
 - name: Krang, Utrom Warlord
   weight: 0.0357
   avg_copies: 1.0
-- name: Phyrexian Metamorph
+- name: Sundering Titan
   weight: 0.0357
   avg_copies: 1.0
-- name: Solitude
-  weight: 0.0179
-  avg_copies: 4.0
+- name: The Dominion Bracelet
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Weathered Runestone
+  weight: 0.0357
+  avg_copies: 1.0
 - name: Stoneforge Mystic
   weight: 0.0179
   avg_copies: 4.0
-- name: Emeria's Call
+- name: Solitude
   weight: 0.0179
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Plains
   weight: 0.0179
   avg_copies: 3.0
+- name: Emeria's Call
+  weight: 0.0179
+  avg_copies: 3.0
+- name: Prismatic Ending
+  weight: 0.0179
+  avg_copies: 2.0
 - name: Meteor Sword
-  weight: 0.0179
-  avg_copies: 2.0
-- name: Detention Chariot
-  weight: 0.0179
-  avg_copies: 2.0
-- name: Caves of Koilos
-  weight: 0.0179
-  avg_copies: 2.0
-- name: Battlefield Forge
-  weight: 0.0179
-  avg_copies: 2.0
-- name: March of Otherworldly Light
-  weight: 0.0179
-  avg_copies: 2.0
-- name: Spirit of the Labyrinth
-  weight: 0.0179
-  avg_copies: 2.0
-- name: Wrath of the Skies
-  weight: 0.0179
-  avg_copies: 2.0
-- name: Shattered Landscape
   weight: 0.0179
   avg_copies: 2.0
 - name: Touch the Spirit Realm
   weight: 0.0179
   avg_copies: 2.0
+- name: Wrath of the Skies
+  weight: 0.0179
+  avg_copies: 2.0
 - name: Witch Enchanter
   weight: 0.0179
   avg_copies: 2.0
-- name: Prismatic Ending
+- name: March of Otherworldly Light
+  weight: 0.0179
+  avg_copies: 2.0
+- name: Battlefield Forge
+  weight: 0.0179
+  avg_copies: 2.0
+- name: Spirit of the Labyrinth
+  weight: 0.0179
+  avg_copies: 2.0
+- name: Shattered Landscape
+  weight: 0.0179
+  avg_copies: 2.0
+- name: Caves of Koilos
+  weight: 0.0179
+  avg_copies: 2.0
+- name: Detention Chariot
   weight: 0.0179
   avg_copies: 2.0
 - name: High Noon
   weight: 0.0179
   avg_copies: 1.0
-- name: Geier Reach Sanitarium
-  weight: 0.0179
-  avg_copies: 1.0
 - name: Emrakul, the Aeons Torn
-  weight: 0.0179
-  avg_copies: 1.0
-- name: Aven Mindcensor
-  weight: 0.0179
-  avg_copies: 1.0
-- name: Celestial Purge
-  weight: 0.0179
-  avg_copies: 1.0
-- name: Wrath of God
-  weight: 0.0179
-  avg_copies: 1.0
-- name: World Breaker
-  weight: 0.0179
-  avg_copies: 1.0
-- name: Drannith Magistrate
-  weight: 0.0179
-  avg_copies: 1.0
-- name: Cursed Totem
   weight: 0.0179
   avg_copies: 1.0
 - name: Orbs of Warding
@@ -259,7 +238,28 @@ top_cards:
 - name: Kaldra Compleat
   weight: 0.0179
   avg_copies: 1.0
+- name: Drannith Magistrate
+  weight: 0.0179
+  avg_copies: 1.0
+- name: Wrath of God
+  weight: 0.0179
+  avg_copies: 1.0
+- name: Cursed Totem
+  weight: 0.0179
+  avg_copies: 1.0
 - name: Soul-Guide Lantern
+  weight: 0.0179
+  avg_copies: 1.0
+- name: Aven Mindcensor
+  weight: 0.0179
+  avg_copies: 1.0
+- name: Geier Reach Sanitarium
+  weight: 0.0179
+  avg_copies: 1.0
+- name: Celestial Purge
+  weight: 0.0179
+  avg_copies: 1.0
+- name: World Breaker
   weight: 0.0179
   avg_copies: 1.0
 ---

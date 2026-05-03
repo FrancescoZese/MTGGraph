@@ -11,8 +11,5 @@ meta_presence: 0.0238
 archetypes:
   boros-ponza:
     weight: 1.0
-    avg_copies: 3.91
-  unknown-3:
-    weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.92
 ---

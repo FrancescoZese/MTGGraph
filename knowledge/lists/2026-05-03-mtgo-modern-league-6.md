@@ -1,5 +1,5 @@
 ---
-archetype: unknown-10
+archetype: grixis-control
 date: '2026-05-03'
 finish: 5-0
 pilot: pepelameco

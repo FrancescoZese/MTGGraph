@@ -1,5 +1,5 @@
 ---
-archetype: unknown-12
+archetype: dimir-control
 date: '2026-05-03'
 finish: 5-0
 pilot: Nucl3arFish

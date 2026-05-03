@@ -10,16 +10,16 @@ type: Instant
 meta_presence: 0.0747
 archetypes:
   dimir-control:
-    weight: 0.2424
+    weight: 0.2388
     avg_copies: 1.0
   mono-blue-belcher:
     weight: 0.3
     avg_copies: 1.0
   reanimator:
-    weight: 0.7308
+    weight: 0.7037
     avg_copies: 1.84
   izzet-prowess:
-    weight: 0.8358
+    weight: 0.8235
     avg_copies: 1.66
   indomitable-creativity:
     weight: 0.25
@@ -28,7 +28,7 @@ archetypes:
     weight: 0.2857
     avg_copies: 1.5
   grixis-control:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 1.0
   goryo1:
     weight: 0.7

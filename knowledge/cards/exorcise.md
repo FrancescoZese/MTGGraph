@@ -13,7 +13,7 @@ archetypes:
     weight: 0.1131
     avg_copies: 1.0
   dimir-control:
-    weight: 0.0152
+    weight: 0.0149
     avg_copies: 1.0
   naya-midrange:
     weight: 1.0

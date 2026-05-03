@@ -10,13 +10,16 @@ type: Sorcery
 meta_presence: 0.0384
 archetypes:
   dimir-control:
-    weight: 0.4848
+    weight: 0.4776
     avg_copies: 2.81
   necrodominance:
     weight: 0.9545
     avg_copies: 3.62
+  simic-ritual:
+    weight: 0.025
+    avg_copies: 1.0
   grixis-control:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 3.0
   rakdos-aggro:
     weight: 0.1667
@@ -26,8 +29,5 @@ archetypes:
     avg_copies: 3.0
   soultrader-combo:
     weight: 0.3333
-    avg_copies: 1.0
-  unknown-4:
-    weight: 0.5
     avg_copies: 1.0
 ---

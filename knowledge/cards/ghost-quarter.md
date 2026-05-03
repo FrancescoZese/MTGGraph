@@ -12,7 +12,7 @@ archetypes:
     weight: 0.4444
     avg_copies: 2.0
   boros-ponza:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 1.0
   eldrazi-ramp:
     weight: 0.7419
@@ -21,12 +21,9 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   scapeshift-combo:
-    weight: 0.75
-    avg_copies: 1.33
+    weight: 0.8333
+    avg_copies: 1.2
   the-rock:
     weight: 0.5
     avg_copies: 2.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 1.0
 ---

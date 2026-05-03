@@ -1,5 +1,5 @@
 ---
-archetype: unknown-5
+archetype: eldrazi-breach
 date: '2026-05-01'
 finish: 9th
 pilot: makeshiftreaper

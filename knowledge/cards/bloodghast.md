@@ -10,9 +10,6 @@ type: Creature — Vampire Spirit
 meta_presence: 0.002
 archetypes:
   reanimator:
-    weight: 0.0769
-    avg_copies: 4.0
-  unknown-8:
-    weight: 1.0
+    weight: 0.1111
     avg_copies: 4.0
 ---

@@ -19,10 +19,10 @@ archetypes:
     weight: 0.2593
     avg_copies: 2.86
   mono-green-ramp:
-    weight: 0.8
+    weight: 0.6667
     avg_copies: 4.0
   scapeshift-combo:
-    weight: 0.75
+    weight: 0.5
     avg_copies: 4.0
   the-rock:
     weight: 0.5

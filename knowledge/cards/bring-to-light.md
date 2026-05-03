@@ -11,7 +11,7 @@ type: Sorcery
 meta_presence: 0.0013
 archetypes:
   scapeshift-combo:
-    weight: 0.25
+    weight: 0.1667
     avg_copies: 3.0
   sultai-midrange:
     weight: 1.0

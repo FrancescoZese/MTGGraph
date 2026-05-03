@@ -8,19 +8,19 @@ set: mh1
 type: Land
 meta_presence: 0.1554
 archetypes:
+  ruby-storm:
+    weight: 0.0455
+    avg_copies: 1.0
   affinity:
     weight: 0.987
     avg_copies: 3.15
   izzet-prowess:
-    weight: 0.8209
+    weight: 0.8088
     avg_copies: 1.62
   izzet-artifacts:
     weight: 0.9231
     avg_copies: 2.62
   goryo7:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-2:
     weight: 1.0
     avg_copies: 1.0
 ---

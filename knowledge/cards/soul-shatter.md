@@ -9,7 +9,7 @@ set: znr
 type: Instant
 meta_presence: 0.0007
 archetypes:
-  unknown-4:
-    weight: 0.5
+  simic-ritual:
+    weight: 0.025
     avg_copies: 1.0
 ---

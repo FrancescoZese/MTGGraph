@@ -4,20 +4,14 @@ archetypes:
     weight: 1.0
     avg_copies: 2.06
   neoform-combo:
-    weight: 0.9667
-    avg_copies: 3.79
+    weight: 0.9677
+    avg_copies: 3.8
   mono-green-ramp:
     weight: 1.0
     avg_copies: 3.0
   cosmogoyf-fling:
     weight: 1.0
     avg_copies: 2.33
-  unknown-6:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-11:
-    weight: 1.0
-    avg_copies: 3.0
 cmc: 0
 colors: []
 image: https://cards.scryfall.io/normal/front/e/e/ee0f88ac-8a90-4057-b0e6-c15fbd02da38.jpg?1619398774

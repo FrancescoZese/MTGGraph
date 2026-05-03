@@ -9,22 +9,19 @@ set: sos
 type: Sorcery
 meta_presence: 0.0106
 archetypes:
-  dimir-control:
+  ruby-storm:
     weight: 0.0455
+    avg_copies: 4.0
+  dimir-control:
+    weight: 0.0597
     avg_copies: 4.0
   azorius-control:
     weight: 0.0769
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.1194
+    weight: 0.1176
     avg_copies: 2.62
-  unknown-2:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-12:
-    weight: 1.0
+  izzet-splinter-twin:
+    weight: 0.5
     avg_copies: 4.0
 ---

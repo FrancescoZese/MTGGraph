@@ -18,10 +18,10 @@ archetypes:
     weight: 0.04
     avg_copies: 2.0
   reanimator:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 4.0
   neoform-combo:
-    weight: 0.3
+    weight: 0.2903
     avg_copies: 1.67
   hollow-one:
     weight: 0.3333
@@ -33,8 +33,8 @@ archetypes:
     weight: 0.9677
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.9211
-    avg_copies: 3.57
+    weight: 0.9
+    avg_copies: 3.58
   samwise-combo:
     weight: 1.0
     avg_copies: 4.0
@@ -52,20 +52,14 @@ archetypes:
     avg_copies: 1.0
   mono-green-ramp:
     weight: 1.0
-    avg_copies: 1.4
+    avg_copies: 1.67
   the-rock:
     weight: 1.0
     avg_copies: 4.0
   soultrader-combo:
     weight: 1.0
     avg_copies: 2.67
-  unknown-4:
-    weight: 0.5
-    avg_copies: 4.0
   devoted-combo:
     weight: 1.0
     avg_copies: 4.0
-  unknown-11:
-    weight: 1.0
-    avg_copies: 3.0
 ---

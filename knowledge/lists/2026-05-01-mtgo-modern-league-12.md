@@ -1,5 +1,5 @@
 ---
-archetype: unknown-4
+archetype: simic-ritual
 date: '2026-05-01'
 finish: 5-0
 pilot: JackS3D

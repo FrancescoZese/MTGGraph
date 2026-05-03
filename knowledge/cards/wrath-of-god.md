@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0179
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.5
+    weight: 0.4722
     avg_copies: 1.8
   goryo6:
     weight: 1.0

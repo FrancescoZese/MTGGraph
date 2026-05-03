@@ -1,5 +1,5 @@
 ---
-archetype: unknown-4
+archetype: simic-ritual
 date: '2026-04-28'
 finish: 5-0
 pilot: RiceTackler

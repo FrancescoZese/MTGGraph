@@ -8,22 +8,22 @@ set: otj
 type: Land
 meta_presence: 0.1151
 archetypes:
+  ruby-storm:
+    weight: 0.0455
+    avg_copies: 3.0
   affinity:
     weight: 0.9805
     avg_copies: 3.7
   izzet-prowess:
-    weight: 0.0448
+    weight: 0.0441
     avg_copies: 2.33
   izzet-artifacts:
     weight: 0.6154
     avg_copies: 3.38
   grixis-control:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 2.0
-  unknown-2:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-9:
-    weight: 1.0
+  izzet-splinter-twin:
+    weight: 0.5
     avg_copies: 3.0
 ---

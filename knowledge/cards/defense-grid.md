@@ -8,10 +8,10 @@ set: 9ed
 type: Artifact
 meta_presence: 0.0026
 archetypes:
+  ruby-storm:
+    weight: 0.0455
+    avg_copies: 2.5
   mono-red-belcher:
     weight: 0.2
     avg_copies: 4.0
-  unknown-2:
-    weight: 1.0
-    avg_copies: 2.5
 ---

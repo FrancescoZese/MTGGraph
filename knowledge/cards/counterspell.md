@@ -11,7 +11,7 @@ meta_presence: 0.078
 archetypes:
   dimir-control:
     weight: 1.0
-    avg_copies: 3.86
+    avg_copies: 3.87
   mono-blue-belcher:
     weight: 0.2667
     avg_copies: 2.88
@@ -31,7 +31,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   izzet-splinter-twin:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 3.0
   izzet-wizards:
     weight: 1.0
@@ -48,10 +48,4 @@ archetypes:
   sultai-midrange:
     weight: 1.0
     avg_copies: 3.0
-  unknown-12:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-10:
-    weight: 1.0
-    avg_copies: 4.0
 ---

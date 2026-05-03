@@ -157,10 +157,10 @@ top_cards:
 - name: Hall of Storm Giants
   weight: 0.2
   avg_copies: 1.0
-- name: Beza, the Bounding Spring
+- name: Otawara, Soaring City
   weight: 0.2
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Beza, the Bounding Spring
   weight: 0.2
   avg_copies: 1.0
 - name: Meltdown
@@ -190,76 +190,76 @@ top_cards:
 - name: Kaheera, the Orphanguard
   weight: 0.08
   avg_copies: 1.0
-- name: Wear
-  weight: 0.08
-  avg_copies: 1.0
 - name: Stern Scolding
   weight: 0.08
   avg_copies: 1.0
+- name: Wear
+  weight: 0.08
+  avg_copies: 1.0
+- name: Ragavan, Nimble Pilferer
+  weight: 0.04
+  avg_copies: 4.0
 - name: Dress Down
   weight: 0.04
   avg_copies: 4.0
 - name: Lightning Bolt
   weight: 0.04
   avg_copies: 4.0
-- name: Ragavan, Nimble Pilferer
-  weight: 0.04
-  avg_copies: 4.0
 - name: Nulldrifter
   weight: 0.04
   avg_copies: 3.0
-- name: Harbinger of the Seas
-  weight: 0.04
-  avg_copies: 2.0
-- name: Ephemerate
-  weight: 0.04
-  avg_copies: 2.0
-- name: Drannith Magistrate
-  weight: 0.04
-  avg_copies: 2.0
 - name: Prismari Charm
   weight: 0.04
   avg_copies: 2.0
-- name: Invert Polarity
+- name: Harbinger of the Seas
   weight: 0.04
   avg_copies: 2.0
 - name: Reprieve
   weight: 0.04
   avg_copies: 2.0
-- name: Kozilek, Butcher of Truth
+- name: Drannith Magistrate
   weight: 0.04
-  avg_copies: 1.0
-- name: Sink into Stupor
+  avg_copies: 2.0
+- name: Invert Polarity
   weight: 0.04
-  avg_copies: 1.0
-- name: Unlicensed Hearse
+  avg_copies: 2.0
+- name: Ephemerate
   weight: 0.04
-  avg_copies: 1.0
-- name: Dovin's Veto
+  avg_copies: 2.0
+- name: Gemstone Caverns
   weight: 0.04
   avg_copies: 1.0
 - name: Thraben Charm
   weight: 0.04
   avg_copies: 1.0
-- name: Emeritus of Ideation
+- name: Sink into Stupor
   weight: 0.04
   avg_copies: 1.0
-- name: Windswept Heath
-  weight: 0.04
-  avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Kozilek, Butcher of Truth
   weight: 0.04
   avg_copies: 1.0
 - name: Vendilion Clique
   weight: 0.04
   avg_copies: 1.0
+- name: Windswept Heath
+  weight: 0.04
+  avg_copies: 1.0
 - name: Raugrin Triome
   weight: 0.04
   avg_copies: 1.0
-- name: Timeless Dragon
+- name: Get Lost
   weight: 0.04
   avg_copies: 1.0
-- name: Get Lost
+- name: Unlicensed Hearse
+  weight: 0.04
+  avg_copies: 1.0
+- name: Emeritus of Ideation
+  weight: 0.04
+  avg_copies: 1.0
+- name: Dovin's Veto
+  weight: 0.04
+  avg_copies: 1.0
+- name: Timeless Dragon
   weight: 0.04
   avg_copies: 1.0
 ---

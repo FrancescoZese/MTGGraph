@@ -14,14 +14,14 @@ archetypes:
   yawgmoth-combo:
     weight: 0.0526
     avg_copies: 1.0
+  simic-ritual:
+    weight: 0.025
+    avg_copies: 1.0
   samwise-combo:
     weight: 0.6364
     avg_copies: 1.0
   soultrader-combo:
     weight: 0.3333
-    avg_copies: 1.0
-  unknown-4:
-    weight: 0.5
     avg_copies: 1.0
   devoted-combo:
     weight: 1.0

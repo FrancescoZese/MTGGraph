@@ -11,12 +11,9 @@ type: Sorcery
 meta_presence: 0.0212
 archetypes:
   neoform-combo:
-    weight: 0.9667
-    avg_copies: 3.87
+    weight: 0.9677
+    avg_copies: 3.75
   simic-ritual:
-    weight: 0.0526
+    weight: 0.05
     avg_copies: 1.0
-  unknown-6:
-    weight: 1.0
-    avg_copies: 2.0
 ---

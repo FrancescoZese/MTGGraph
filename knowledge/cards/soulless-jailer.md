@@ -36,10 +36,10 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   eldrazi-breach:
-    weight: 0.6667
+    weight: 0.5
     avg_copies: 2.0
   mono-green-ramp:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 2.0
   soultrader-combo:
     weight: 0.6667

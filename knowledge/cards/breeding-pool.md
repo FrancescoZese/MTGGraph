@@ -24,10 +24,10 @@ archetypes:
     weight: 0.0196
     avg_copies: 1.0
   reanimator:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.9667
+    weight: 0.9677
     avg_copies: 1.1
   kethis-combo:
     weight: 1.0
@@ -36,8 +36,8 @@ archetypes:
     weight: 0.129
     avg_copies: 1.0
   simic-ritual:
-    weight: 1.0
-    avg_copies: 1.16
+    weight: 0.975
+    avg_copies: 1.18
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
@@ -51,12 +51,6 @@ archetypes:
     weight: 0.4615
     avg_copies: 1.08
   goryo3:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-4:
-    weight: 0.5
-    avg_copies: 2.0
-  unknown-6:
     weight: 1.0
     avg_copies: 1.0
 ---

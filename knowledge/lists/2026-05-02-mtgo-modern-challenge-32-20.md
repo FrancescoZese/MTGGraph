@@ -1,5 +1,5 @@
 ---
-archetype: unknown-1
+archetype: scapeshift-combo
 date: '2026-05-02'
 finish: 5th
 pilot: mmmbop

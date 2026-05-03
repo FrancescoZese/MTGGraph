@@ -9,7 +9,7 @@ set: shm
 type: Enchantment
 meta_presence: 0.0013
 archetypes:
-  unknown-1:
-    weight: 1.0
+  scapeshift-combo:
+    weight: 0.3333
     avg_copies: 2.0
 ---

@@ -12,7 +12,7 @@ archetypes:
     weight: 0.9682
     avg_copies: 3.39
   dimir-control:
-    weight: 0.3485
+    weight: 0.3433
     avg_copies: 1.61
   jeskai-energy:
     weight: 0.0729
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.2308
     avg_copies: 2.0
   reanimator:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 4.0
   mardu-blink:
     weight: 1.0
@@ -38,6 +38,9 @@ archetypes:
   hollow-one:
     weight: 0.2857
     avg_copies: 1.67
+  simic-ritual:
+    weight: 0.025
+    avg_copies: 4.0
   esper-blink:
     weight: 1.0
     avg_copies: 3.92
@@ -70,8 +73,5 @@ archetypes:
     avg_copies: 2.67
   soultrader-combo0:
     weight: 1.0
-    avg_copies: 4.0
-  unknown-4:
-    weight: 0.5
     avg_copies: 4.0
 ---

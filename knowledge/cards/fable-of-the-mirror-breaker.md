@@ -24,7 +24,7 @@ archetypes:
     weight: 0.7222
     avg_copies: 1.85
   boros-ponza:
-    weight: 0.0294
+    weight: 0.0278
     avg_copies: 3.0
   4c-omnath:
     weight: 0.25
@@ -33,13 +33,13 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   grixis-control:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 2.0
   jund-saga:
     weight: 1.0
     avg_copies: 2.0
   eldrazi-breach:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 2.0
   izzet-wizards:
     weight: 1.0

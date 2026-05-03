@@ -10,13 +10,13 @@ type: Sorcery
 meta_presence: 0.1296
 archetypes:
   ruby-storm:
-    weight: 0.119
+    weight: 0.1136
     avg_copies: 1.4
   boros-energy:
     weight: 0.0565
     avg_copies: 1.31
   dimir-control:
-    weight: 0.3182
+    weight: 0.3134
     avg_copies: 2.52
   jeskai-energy:
     weight: 0.0104
@@ -28,7 +28,7 @@ archetypes:
     weight: 0.0196
     avg_copies: 1.0
   reanimator:
-    weight: 0.8077
+    weight: 0.7778
     avg_copies: 2.1
   burn:
     weight: 0.2857
@@ -37,16 +37,16 @@ archetypes:
     weight: 1.0
     avg_copies: 2.19
   boros-ponza:
-    weight: 0.1176
+    weight: 0.1111
     avg_copies: 1.0
   eldrazi-ramp:
     weight: 0.2581
     avg_copies: 1.12
   simic-ritual:
-    weight: 0.0526
+    weight: 0.05
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.8806
+    weight: 0.8676
     avg_copies: 1.81
   indomitable-creativity:
     weight: 0.125
@@ -59,21 +59,21 @@ archetypes:
     avg_copies: 1.0
   grixis-control:
     weight: 1.0
-    avg_copies: 1.8
+    avg_copies: 1.67
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
   eldrazi-breach:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 2.0
   rakdos-aggro:
     weight: 1.0
     avg_copies: 2.83
   izzet-splinter-twin:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 2.0
   scapeshift-combo:
-    weight: 0.25
+    weight: 0.1667
     avg_copies: 2.0
   goryo1:
     weight: 1.0
@@ -81,7 +81,4 @@ archetypes:
   soultrader-combo0:
     weight: 1.0
     avg_copies: 3.0
-  unknown-10:
-    weight: 1.0
-    avg_copies: 1.0
 ---

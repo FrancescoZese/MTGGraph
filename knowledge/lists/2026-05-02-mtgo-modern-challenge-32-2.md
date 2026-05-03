@@ -1,5 +1,5 @@
 ---
-archetype: unknown-8
+archetype: reanimator
 date: '2026-05-02'
 finish: 1st
 pilot: DragonFodder

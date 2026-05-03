@@ -12,6 +12,6 @@ archetypes:
     weight: 0.625
     avg_copies: 1.0
   scapeshift-combo:
-    weight: 0.25
+    weight: 0.1667
     avg_copies: 1.0
 ---

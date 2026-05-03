@@ -8,8 +8,11 @@ set: mh2
 type: Land
 meta_presence: 0.1534
 archetypes:
+  ruby-storm:
+    weight: 0.0455
+    avg_copies: 1.0
   dimir-control:
-    weight: 0.3333
+    weight: 0.3284
     avg_copies: 1.95
   jeskai-energy:
     weight: 0.0104
@@ -30,11 +33,11 @@ archetypes:
     weight: 0.5556
     avg_copies: 1.8
   reanimator:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.9667
-    avg_copies: 3.62
+    weight: 0.9677
+    avg_copies: 3.63
   kethis-combo:
     weight: 1.0
     avg_copies: 3.2
@@ -45,10 +48,10 @@ archetypes:
     weight: 0.8387
     avg_copies: 1.19
   simic-ritual:
-    weight: 1.0
-    avg_copies: 3.55
+    weight: 0.975
+    avg_copies: 3.56
   izzet-prowess:
-    weight: 0.0448
+    weight: 0.0441
     avg_copies: 2.0
   4c-omnath:
     weight: 0.75
@@ -69,17 +72,17 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   grixis-control:
-    weight: 0.8
+    weight: 0.6667
     avg_copies: 1.5
   mono-green-ramp:
     weight: 1.0
-    avg_copies: 3.4
+    avg_copies: 3.33
   izzet-splinter-twin:
     weight: 1.0
-    avg_copies: 2.0
-  scapeshift-combo:
-    weight: 0.25
     avg_copies: 3.0
+  scapeshift-combo:
+    weight: 0.5
+    avg_copies: 3.33
   the-rock:
     weight: 1.0
     avg_copies: 1.0
@@ -89,25 +92,7 @@ archetypes:
   izzet-murktide:
     weight: 1.0
     avg_copies: 1.0
-  unknown-4:
-    weight: 0.5
-    avg_copies: 4.0
   sultai-midrange:
     weight: 1.0
     avg_copies: 4.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 3.5
-  unknown-2:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-6:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-11:
-    weight: 1.0
-    avg_copies: 3.0
 ---

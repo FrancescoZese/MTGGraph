@@ -9,20 +9,20 @@ type: Land
 meta_presence: 0.1468
 archetypes:
   ruby-storm:
-    weight: 0.9762
+    weight: 0.9318
     avg_copies: 2.24
   boros-energy:
     weight: 0.0141
     avg_copies: 2.75
   dimir-control:
-    weight: 0.0909
-    avg_copies: 2.33
+    weight: 0.1045
+    avg_copies: 2.57
   necrodominance:
     weight: 0.1364
     avg_copies: 3.33
   reanimator:
-    weight: 0.8846
-    avg_copies: 3.74
+    weight: 0.8889
+    avg_copies: 3.62
   burn:
     weight: 0.7143
     avg_copies: 1.8
@@ -32,8 +32,11 @@ archetypes:
   hollow-one:
     weight: 1.0
     avg_copies: 3.67
+  simic-ritual:
+    weight: 0.025
+    avg_copies: 1.0
   izzet-prowess:
-    weight: 0.8806
+    weight: 0.8824
     avg_copies: 2.9
   indomitable-creativity:
     weight: 1.0
@@ -41,11 +44,17 @@ archetypes:
   dredge:
     weight: 0.8571
     avg_copies: 3.5
+  grixis-control:
+    weight: 0.1667
+    avg_copies: 3.0
   jund-saga:
     weight: 1.0
     avg_copies: 3.0
   rakdos-lantern-combo:
     weight: 1.0
+    avg_copies: 4.0
+  eldrazi-breach:
+    weight: 0.25
     avg_copies: 4.0
   grixis-shadow:
     weight: 1.0
@@ -65,22 +74,4 @@ archetypes:
   soultrader-combo:
     weight: 1.0
     avg_copies: 1.67
-  unknown-4:
-    weight: 0.5
-    avg_copies: 1.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-12:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-10:
-    weight: 1.0
-    avg_copies: 3.0
 ---

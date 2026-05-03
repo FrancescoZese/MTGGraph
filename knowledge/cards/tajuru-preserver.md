@@ -10,9 +10,9 @@ type: Creature — Elf Shaman
 meta_presence: 0.0026
 archetypes:
   mono-green-ramp:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 1.0
   scapeshift-combo:
-    weight: 0.75
+    weight: 0.5
     avg_copies: 1.0
 ---

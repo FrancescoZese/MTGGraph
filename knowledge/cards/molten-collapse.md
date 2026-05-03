@@ -11,7 +11,7 @@ type: Sorcery
 meta_presence: 0.0132
 archetypes:
   reanimator:
-    weight: 0.4615
+    weight: 0.4444
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.125

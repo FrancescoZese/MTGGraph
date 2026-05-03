@@ -14,6 +14,9 @@ archetypes:
   mono-blue-tron:
     weight: 0.6
     avg_copies: 1.67
+  boros-ponza:
+    weight: 0.0556
+    avg_copies: 1.0
   indomitable-creativity:
     weight: 0.125
     avg_copies: 1.0
@@ -26,10 +29,4 @@ archetypes:
   goryo0:
     weight: 1.0
     avg_copies: 1.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 4.0
 ---

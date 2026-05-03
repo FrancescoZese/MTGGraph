@@ -11,7 +11,7 @@ type: Legendary Planeswalker — Tyvar
 meta_presence: 0.0033
 archetypes:
   mono-green-ramp:
-    weight: 0.8
+    weight: 0.6667
     avg_copies: 3.0
   devoted-combo:
     weight: 1.0

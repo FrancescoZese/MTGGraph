@@ -9,7 +9,7 @@ type: Artifact
 meta_presence: 0.1872
 archetypes:
   dimir-control:
-    weight: 0.0303
+    weight: 0.0299
     avg_copies: 4.0
   affinity:
     weight: 1.0
@@ -25,7 +25,7 @@ archetypes:
     avg_copies: 4.0
   izzet-prowess:
     weight: 1.0
-    avg_copies: 3.99
+    avg_copies: 3.94
   izzet-artifacts:
     weight: 1.0
     avg_copies: 4.0
@@ -35,16 +35,13 @@ archetypes:
   rakdos-aggro:
     weight: 1.0
     avg_copies: 4.0
+  izzet-splinter-twin:
+    weight: 0.5
+    avg_copies: 4.0
   izzet-wizards:
     weight: 1.0
     avg_copies: 4.0
   goryo7:
     weight: 1.0
     avg_copies: 4.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 1.0
 ---

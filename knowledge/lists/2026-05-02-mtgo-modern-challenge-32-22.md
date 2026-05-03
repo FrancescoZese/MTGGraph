@@ -1,5 +1,5 @@
 ---
-archetype: unknown-9
+archetype: izzet-splinter-twin
 date: '2026-05-02'
 finish: 7th
 pilot: kahluah777

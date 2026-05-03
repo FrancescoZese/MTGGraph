@@ -10,7 +10,7 @@ type: Enchantment
 meta_presence: 0.0364
 archetypes:
   simic-ritual:
-    weight: 1.0
+    weight: 0.975
     avg_copies: 4.0
   4c-omnath:
     weight: 0.5
@@ -23,8 +23,5 @@ archetypes:
     avg_copies: 4.0
   soultrader-combo:
     weight: 0.6667
-    avg_copies: 4.0
-  unknown-4:
-    weight: 0.5
     avg_copies: 4.0
 ---

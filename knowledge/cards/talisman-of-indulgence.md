@@ -8,7 +8,7 @@ set: dsc
 type: Artifact
 meta_presence: 0.0007
 archetypes:
-  unknown-5:
-    weight: 1.0
+  eldrazi-breach:
+    weight: 0.25
     avg_copies: 4.0
 ---

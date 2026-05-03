@@ -12,7 +12,7 @@ archetypes:
     weight: 0.2827
     avg_copies: 1.46
   dimir-control:
-    weight: 0.1818
+    weight: 0.1791
     avg_copies: 1.08
   jeskai-energy:
     weight: 0.3229
@@ -39,7 +39,7 @@ archetypes:
     weight: 0.8627
     avg_copies: 1.61
   reanimator:
-    weight: 0.6923
+    weight: 0.6667
     avg_copies: 1.94
   burn:
     weight: 0.2857
@@ -60,7 +60,7 @@ archetypes:
     weight: 0.0968
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.2105
+    weight: 0.225
     avg_copies: 2.0
   4c-omnath:
     weight: 0.25
@@ -86,11 +86,14 @@ archetypes:
   rakdos-aggro:
     weight: 0.8333
     avg_copies: 3.4
+  mono-green-ramp:
+    weight: 0.1667
+    avg_copies: 3.0
   mono-green-stompy:
     weight: 1.0
     avg_copies: 3.0
   izzet-splinter-twin:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 1.0
   bant-ritual:
     weight: 1.0
@@ -98,6 +101,9 @@ archetypes:
   esper-midrange:
     weight: 1.0
     avg_copies: 2.0
+  scapeshift-combo:
+    weight: 0.3333
+    avg_copies: 4.0
   naya-midrange:
     weight: 1.0
     avg_copies: 2.0
@@ -113,16 +119,7 @@ archetypes:
   goryo7:
     weight: 1.0
     avg_copies: 2.0
-  unknown-4:
-    weight: 0.5
-    avg_copies: 2.0
   devoted-combo:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-11:
     weight: 1.0
     avg_copies: 3.0
 ---

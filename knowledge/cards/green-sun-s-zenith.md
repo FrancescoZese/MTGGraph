@@ -23,17 +23,11 @@ archetypes:
     avg_copies: 4.0
   scapeshift-combo:
     weight: 1.0
-    avg_copies: 3.75
+    avg_copies: 3.5
   the-rock:
     weight: 0.5
     avg_copies: 4.0
   devoted-combo:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-11:
     weight: 1.0
     avg_copies: 4.0
 ---

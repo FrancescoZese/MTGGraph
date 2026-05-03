@@ -9,10 +9,10 @@ type: Land
 meta_presence: 0.2612
 archetypes:
   ruby-storm:
-    weight: 0.9524
-    avg_copies: 2.2
+    weight: 0.9545
+    avg_copies: 2.29
   dimir-control:
-    weight: 0.3333
+    weight: 0.3284
     avg_copies: 1.41
   jeskai-energy:
     weight: 0.9896
@@ -30,10 +30,10 @@ archetypes:
     weight: 0.7778
     avg_copies: 1.14
   reanimator:
-    weight: 0.8077
+    weight: 0.7778
     avg_copies: 1.05
   neoform-combo:
-    weight: 0.6667
+    weight: 0.6452
     avg_copies: 1.3
   burn:
     weight: 0.5714
@@ -42,11 +42,11 @@ archetypes:
     weight: 0.1429
     avg_copies: 1.33
   simic-ritual:
-    weight: 0.0263
+    weight: 0.05
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.9552
-    avg_copies: 2.62
+    weight: 0.9559
+    avg_copies: 2.65
   indomitable-creativity:
     weight: 0.875
     avg_copies: 2.43
@@ -58,10 +58,10 @@ archetypes:
     avg_copies: 3.77
   grixis-control:
     weight: 1.0
-    avg_copies: 3.6
+    avg_copies: 3.17
   eldrazi-breach:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.5
   grixis-shadow:
     weight: 1.0
     avg_copies: 3.0
@@ -74,6 +74,9 @@ archetypes:
   izzet-wizards:
     weight: 1.0
     avg_copies: 4.0
+  scapeshift-combo:
+    weight: 0.3333
+    avg_copies: 2.0
   goryo1:
     weight: 1.0
     avg_copies: 1.7
@@ -86,28 +89,7 @@ archetypes:
   4c-omnath9:
     weight: 1.0
     avg_copies: 2.0
-  unknown-4:
-    weight: 0.5
-    avg_copies: 1.0
   sultai-midrange:
     weight: 1.0
     avg_copies: 4.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-2:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-10:
-    weight: 1.0
-    avg_copies: 1.0
 ---

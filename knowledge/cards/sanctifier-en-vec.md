@@ -15,6 +15,9 @@ archetypes:
   hammer-time:
     weight: 1.0
     avg_copies: 2.67
+  boros-ponza:
+    weight: 0.0556
+    avg_copies: 3.0
   orzhov-blink:
     weight: 0.5
     avg_copies: 2.0
@@ -24,7 +27,4 @@ archetypes:
   elves:
     weight: 1.0
     avg_copies: 1.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 3.0
 ---

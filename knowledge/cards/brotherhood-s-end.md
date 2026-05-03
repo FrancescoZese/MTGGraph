@@ -10,16 +10,16 @@ type: Sorcery
 meta_presence: 0.0364
 archetypes:
   ruby-storm:
-    weight: 0.6429
-    avg_copies: 1.33
+    weight: 0.6591
+    avg_copies: 1.34
   reanimator:
-    weight: 0.0769
-    avg_copies: 1.5
+    weight: 0.1111
+    avg_copies: 1.67
   mono-red-belcher:
     weight: 0.8
     avg_copies: 2.62
   boros-ponza:
-    weight: 0.0588
+    weight: 0.1111
     avg_copies: 1.0
   4c-omnath:
     weight: 0.25
@@ -28,21 +28,12 @@ archetypes:
     weight: 0.875
     avg_copies: 2.71
   grixis-control:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
   izzet-murktide:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-2:
-    weight: 1.0
-    avg_copies: 1.5
-  unknown-3:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-8:
     weight: 1.0
     avg_copies: 2.0
 ---

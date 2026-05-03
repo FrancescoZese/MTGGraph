@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0807
 archetypes:
   ruby-storm:
-    weight: 0.0952
+    weight: 0.0909
     avg_copies: 2.0
   boros-energy:
     weight: 0.0247
@@ -34,7 +34,7 @@ archetypes:
     weight: 0.1111
     avg_copies: 2.0
   boros-ponza:
-    weight: 0.1176
+    weight: 0.1111
     avg_copies: 1.75
   esper-blink:
     weight: 0.0769

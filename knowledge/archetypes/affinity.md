@@ -165,16 +165,16 @@ top_cards:
 - name: Snow-Covered Island
   weight: 0.026
   avg_copies: 1.5
-- name: Vandalblast
-  weight: 0.026
-  avg_copies: 1.0
 - name: Haywire Mite
   weight: 0.026
   avg_copies: 1.0
-- name: Springleaf Drum
-  weight: 0.0195
+- name: Vandalblast
+  weight: 0.026
   avg_copies: 1.0
 - name: Salvage Titan
+  weight: 0.0195
+  avg_copies: 1.0
+- name: Springleaf Drum
   weight: 0.0195
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
@@ -186,37 +186,37 @@ top_cards:
 - name: Thought Monitor
   weight: 0.013
   avg_copies: 1.0
-- name: Patchwork Automaton
-  weight: 0.0065
-  avg_copies: 2.0
-- name: Detect Intrusion
-  weight: 0.0065
-  avg_copies: 2.0
 - name: Shattering Spree
-  weight: 0.0065
-  avg_copies: 2.0
-- name: Glimmervoid
   weight: 0.0065
   avg_copies: 2.0
 - name: Prismari Charm
   weight: 0.0065
   avg_copies: 2.0
-- name: Mountain
+- name: Detect Intrusion
+  weight: 0.0065
+  avg_copies: 2.0
+- name: Glimmervoid
+  weight: 0.0065
+  avg_copies: 2.0
+- name: Patchwork Automaton
+  weight: 0.0065
+  avg_copies: 2.0
+- name: Jokulmorder
   weight: 0.0065
   avg_copies: 1.0
-- name: Void Mirror
+- name: Mountain
   weight: 0.0065
   avg_copies: 1.0
 - name: Minamo, School at Water's Edge
   weight: 0.0065
   avg_copies: 1.0
-- name: Ghirapur Aether Grid
-  weight: 0.0065
-  avg_copies: 1.0
 - name: Chandra, Spark Hunter
   weight: 0.0065
   avg_copies: 1.0
-- name: Jokulmorder
+- name: Void Mirror
+  weight: 0.0065
+  avg_copies: 1.0
+- name: Ghirapur Aether Grid
   weight: 0.0065
   avg_copies: 1.0
 ---

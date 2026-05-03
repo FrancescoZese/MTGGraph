@@ -10,9 +10,6 @@ type: Sorcery
 meta_presence: 0.0198
 archetypes:
   neoform-combo:
-    weight: 0.9667
-    avg_copies: 4.0
-  unknown-6:
-    weight: 1.0
+    weight: 0.9677
     avg_copies: 4.0
 ---

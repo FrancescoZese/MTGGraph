@@ -16,7 +16,7 @@ archetypes:
     weight: 0.0196
     avg_copies: 2.0
   boros-ponza:
-    weight: 0.0882
+    weight: 0.0833
     avg_copies: 2.0
   elves:
     weight: 1.0

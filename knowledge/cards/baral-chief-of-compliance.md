@@ -9,7 +9,7 @@ set: aer
 type: Legendary Creature — Human Wizard
 meta_presence: 0.0013
 archetypes:
-  unknown-2:
-    weight: 1.0
+  ruby-storm:
+    weight: 0.0455
     avg_copies: 1.0
 ---

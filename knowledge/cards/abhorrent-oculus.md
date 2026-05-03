@@ -10,16 +10,16 @@ type: Creature — Eye
 meta_presence: 0.0688
 archetypes:
   reanimator:
-    weight: 0.8462
+    weight: 0.8148
     avg_copies: 3.86
   neoform-combo:
-    weight: 0.6667
+    weight: 0.6452
     avg_copies: 1.0
   simic-ritual:
-    weight: 1.0
-    avg_copies: 3.89
+    weight: 0.975
+    avg_copies: 3.9
   izzet-prowess:
-    weight: 0.0896
+    weight: 0.0882
     avg_copies: 1.5
   samwise-combo:
     weight: 0.6364
@@ -29,8 +29,5 @@ archetypes:
     avg_copies: 2.0
   goryo1:
     weight: 0.9
-    avg_copies: 4.0
-  unknown-4:
-    weight: 0.5
     avg_copies: 4.0
 ---

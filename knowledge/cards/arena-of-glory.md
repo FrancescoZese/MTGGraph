@@ -30,7 +30,7 @@ archetypes:
     weight: 0.7619
     avg_copies: 1.69
   boros-ponza:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 1.0
   eldrazi-ramp:
     weight: 0.0645

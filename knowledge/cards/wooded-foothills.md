@@ -9,8 +9,8 @@ type: Land
 meta_presence: 0.1885
 archetypes:
   ruby-storm:
-    weight: 0.9762
-    avg_copies: 2.39
+    weight: 0.9773
+    avg_copies: 2.33
   amulet-titan:
     weight: 0.0794
     avg_copies: 1.0
@@ -18,10 +18,10 @@ archetypes:
     weight: 1.0
     avg_copies: 3.75
   reanimator:
-    weight: 0.0769
+    weight: 0.1111
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.7333
+    weight: 0.7097
     avg_copies: 1.0
   burn:
     weight: 1.0
@@ -36,10 +36,10 @@ archetypes:
     weight: 0.8065
     avg_copies: 1.12
   simic-ritual:
-    weight: 0.0789
+    weight: 0.075
     avg_copies: 3.67
   izzet-prowess:
-    weight: 0.8806
+    weight: 0.8824
     avg_copies: 2.75
   samwise-combo:
     weight: 0.4545
@@ -66,7 +66,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   scapeshift-combo:
-    weight: 0.25
+    weight: 0.5
     avg_copies: 4.0
   naya-midrange:
     weight: 1.0
@@ -77,16 +77,4 @@ archetypes:
   soultrader-combo0:
     weight: 1.0
     avg_copies: 4.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-2:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 3.0
 ---

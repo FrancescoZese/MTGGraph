@@ -12,19 +12,19 @@ archetypes:
     weight: 0.0283
     avg_copies: 1.0
   dimir-control:
-    weight: 0.3788
+    weight: 0.3731
     avg_copies: 1.6
   jeskai-energy:
     weight: 0.0208
     avg_copies: 1.5
   boros-ponza:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 1.0
   grixis-control:
-    weight: 0.6
+    weight: 0.5
     avg_copies: 1.67
   izzet-splinter-twin:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 1.0
   goryo1:
     weight: 0.1

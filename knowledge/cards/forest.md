@@ -24,7 +24,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.1333
+    weight: 0.1613
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
@@ -32,6 +32,9 @@ archetypes:
   eldrazi-ramp:
     weight: 1.0
     avg_copies: 2.35
+  simic-ritual:
+    weight: 0.025
+    avg_copies: 2.0
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
@@ -49,7 +52,7 @@ archetypes:
     avg_copies: 1.0
   mono-green-ramp:
     weight: 1.0
-    avg_copies: 1.6
+    avg_copies: 2.33
   mono-green-stompy:
     weight: 1.0
     avg_copies: 6.0
@@ -58,29 +61,17 @@ archetypes:
     avg_copies: 1.0
   scapeshift-combo:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 2.33
   the-rock:
     weight: 1.0
     avg_copies: 2.0
   goryo4:
     weight: 0.5
     avg_copies: 1.0
-  unknown-4:
-    weight: 0.5
-    avg_copies: 2.0
   sultai-midrange:
     weight: 1.0
     avg_copies: 1.0
   devoted-combo:
     weight: 1.0
     avg_copies: 1.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-6:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-11:
-    weight: 1.0
-    avg_copies: 6.0
 ---

@@ -9,9 +9,12 @@ set: ecl
 type: Instant
 meta_presence: 0.1171
 archetypes:
+  ruby-storm:
+    weight: 0.0227
+    avg_copies: 2.0
   dimir-control:
-    weight: 0.9848
-    avg_copies: 2.53
+    weight: 0.9851
+    avg_copies: 2.52
   mono-blue-belcher:
     weight: 0.8667
     avg_copies: 1.79
@@ -28,19 +31,19 @@ archetypes:
     weight: 0.44
     avg_copies: 1.54
   reanimator:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0333
+    weight: 0.0323
     avg_copies: 1.0
   mono-blue-tron:
     weight: 0.8
     avg_copies: 2.5
   simic-ritual:
-    weight: 0.0263
+    weight: 0.025
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.2836
+    weight: 0.2794
     avg_copies: 1.26
   4c-omnath:
     weight: 0.25
@@ -52,13 +55,13 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   grixis-control:
-    weight: 1.0
+    weight: 0.8333
     avg_copies: 2.6
   eldrazi-breach:
-    weight: 0.6667
+    weight: 0.5
     avg_copies: 1.5
   izzet-splinter-twin:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 2.0
   izzet-wizards:
     weight: 1.0
@@ -79,12 +82,6 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   sultai-midrange:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-2:
-    weight: 0.5
-    avg_copies: 2.0
-  unknown-12:
     weight: 1.0
     avg_copies: 2.0
 ---

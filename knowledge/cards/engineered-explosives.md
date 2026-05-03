@@ -9,8 +9,8 @@ type: Artifact
 meta_presence: 0.1673
 archetypes:
   dimir-control:
-    weight: 0.5455
-    avg_copies: 1.72
+    weight: 0.5522
+    avg_copies: 1.7
   mono-blue-belcher:
     weight: 0.6
     avg_copies: 1.61
@@ -48,9 +48,6 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   sultai-midrange:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-12:
     weight: 1.0
     avg_copies: 1.0
 ---

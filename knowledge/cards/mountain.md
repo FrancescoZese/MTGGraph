@@ -10,7 +10,7 @@ meta_presence: 0.3915
 archetypes:
   ruby-storm:
     weight: 1.0
-    avg_copies: 3.19
+    avg_copies: 3.09
   boros-energy:
     weight: 0.7597
     avg_copies: 1.0
@@ -30,7 +30,7 @@ archetypes:
     weight: 0.9412
     avg_copies: 1.0
   reanimator:
-    weight: 0.0769
+    weight: 0.1111
     avg_copies: 2.0
   burn:
     weight: 1.0
@@ -46,10 +46,10 @@ archetypes:
     avg_copies: 1.41
   boros-ponza:
     weight: 1.0
-    avg_copies: 1.15
+    avg_copies: 1.14
   izzet-prowess:
     weight: 1.0
-    avg_copies: 2.12
+    avg_copies: 2.1
   indomitable-creativity:
     weight: 1.0
     avg_copies: 1.12
@@ -60,7 +60,7 @@ archetypes:
     weight: 0.4231
     avg_copies: 1.0
   grixis-control:
-    weight: 0.6
+    weight: 0.6667
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
@@ -84,8 +84,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   scapeshift-combo:
-    weight: 0.25
-    avg_copies: 3.0
+    weight: 0.5
+    avg_copies: 1.67
   naya-midrange:
     weight: 1.0
     avg_copies: 1.0
@@ -105,30 +105,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   soultrader-combo0:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-2:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-10:
     weight: 1.0
     avg_copies: 1.0
 ---

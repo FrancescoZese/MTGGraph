@@ -10,8 +10,8 @@ type: Sorcery
 meta_presence: 0.0245
 archetypes:
   reanimator:
-    weight: 0.8846
-    avg_copies: 3.17
+    weight: 0.8889
+    avg_copies: 3.12
   rakdos-aggro:
     weight: 0.1667
     avg_copies: 2.0
@@ -21,7 +21,4 @@ archetypes:
   soultrader-combo:
     weight: 0.6667
     avg_copies: 4.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 2.0
 ---

@@ -9,10 +9,10 @@ type: Land — Island Mountain
 meta_presence: 0.3393
 archetypes:
   ruby-storm:
-    weight: 0.0714
-    avg_copies: 1.0
+    weight: 0.1136
+    avg_copies: 1.4
   dimir-control:
-    weight: 0.3182
+    weight: 0.3134
     avg_copies: 1.1
   jeskai-energy:
     weight: 1.0
@@ -33,14 +33,14 @@ archetypes:
     weight: 1.0
     avg_copies: 1.75
   reanimator:
-    weight: 0.8077
+    weight: 0.7778
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0263
+    weight: 0.025
     avg_copies: 1.0
   izzet-prowess:
     weight: 1.0
-    avg_copies: 2.87
+    avg_copies: 2.88
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
@@ -55,9 +55,9 @@ archetypes:
     avg_copies: 1.88
   grixis-control:
     weight: 1.0
-    avg_copies: 2.8
+    avg_copies: 2.5
   eldrazi-breach:
-    weight: 1.0
+    weight: 0.75
     avg_copies: 1.67
   grixis-shadow:
     weight: 1.0
@@ -77,16 +77,4 @@ archetypes:
   4c-omnath9:
     weight: 1.0
     avg_copies: 1.5
-  unknown-2:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-10:
-    weight: 1.0
-    avg_copies: 1.0
 ---

@@ -11,7 +11,7 @@ type: Legendary Planeswalker — Ashiok
 meta_presence: 0.1131
 archetypes:
   dimir-control:
-    weight: 0.0606
+    weight: 0.0597
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.3542
@@ -35,7 +35,7 @@ archetypes:
     weight: 0.6078
     avg_copies: 1.39
   reanimator:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 2.0
   kethis-combo:
     weight: 0.2
@@ -43,6 +43,9 @@ archetypes:
   yawgmoth-combo:
     weight: 0.9474
     avg_copies: 1.06
+  simic-ritual:
+    weight: 0.025
+    avg_copies: 1.0
   4c-omnath:
     weight: 0.25
     avg_copies: 2.0
@@ -67,8 +70,11 @@ archetypes:
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 2.0
+  eldrazi-breach:
+    weight: 0.25
+    avg_copies: 2.0
   mono-green-ramp:
-    weight: 0.8
+    weight: 0.6667
     avg_copies: 2.0
   the-rock:
     weight: 0.5
@@ -83,12 +89,6 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   soultrader-combo0:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-4:
-    weight: 0.5
-    avg_copies: 1.0
-  unknown-5:
     weight: 1.0
     avg_copies: 2.0
 ---

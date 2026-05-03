@@ -10,8 +10,8 @@ type: Sorcery
 meta_presence: 0.0271
 archetypes:
   dimir-control:
-    weight: 0.4545
-    avg_copies: 1.32
+    weight: 0.4627
+    avg_copies: 1.34
   goryo:
     weight: 0.0167
     avg_copies: 1.0
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.4444
     avg_copies: 1.5
   simic-ritual:
-    weight: 0.0263
+    weight: 0.025
     avg_copies: 1.0
   the-rock:
     weight: 0.5
@@ -30,7 +30,4 @@ archetypes:
   sultai-midrange:
     weight: 1.0
     avg_copies: 1.0
-  unknown-12:
-    weight: 1.0
-    avg_copies: 2.0
 ---

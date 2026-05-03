@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.0238
 archetypes:
   boros-ponza:
-    weight: 1.0
+    weight: 0.9444
     avg_copies: 3.85
   goryo6:
     weight: 1.0

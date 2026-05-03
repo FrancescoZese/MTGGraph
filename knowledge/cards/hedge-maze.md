@@ -24,14 +24,14 @@ archetypes:
     weight: 1.0
     avg_copies: 1.04
   neoform-combo:
-    weight: 0.9667
-    avg_copies: 2.76
+    weight: 0.9677
+    avg_copies: 2.7
   eldrazi-ramp:
     weight: 0.2258
     avg_copies: 1.0
   simic-ritual:
-    weight: 1.0
-    avg_copies: 1.76
+    weight: 0.975
+    avg_copies: 1.74
   4c-omnath:
     weight: 0.75
     avg_copies: 1.0
@@ -40,11 +40,5 @@ archetypes:
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.0769
-    avg_copies: 1.0
-  unknown-4:
-    weight: 0.5
-    avg_copies: 1.0
-  unknown-6:
-    weight: 1.0
     avg_copies: 1.0
 ---

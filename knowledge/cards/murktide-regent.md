@@ -10,15 +10,12 @@ type: Creature — Dragon
 meta_presence: 0.0278
 archetypes:
   dimir-control:
-    weight: 0.1515
-    avg_copies: 1.7
+    weight: 0.1642
+    avg_copies: 1.82
   izzet-prowess:
-    weight: 0.4478
+    weight: 0.4412
     avg_copies: 1.26
   izzet-murktide:
     weight: 1.0
     avg_copies: 4.0
-  unknown-12:
-    weight: 1.0
-    avg_copies: 3.0
 ---

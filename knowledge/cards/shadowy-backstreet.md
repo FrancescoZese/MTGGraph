@@ -12,7 +12,7 @@ archetypes:
     weight: 0.95
     avg_copies: 1.0
   reanimator:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 1.0
   mardu-blink:
     weight: 0.9444

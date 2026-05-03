@@ -9,7 +9,7 @@ type: Basic Snow Land — Island
 meta_presence: 0.0536
 archetypes:
   dimir-control:
-    weight: 0.0152
+    weight: 0.0149
     avg_copies: 4.0
   jeskai-energy:
     weight: 0.0625
@@ -21,10 +21,10 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.83
   neoform-combo:
-    weight: 0.8333
+    weight: 0.8065
     avg_copies: 1.0
   simic-ritual:
-    weight: 1.0
+    weight: 0.95
     avg_copies: 1.89
   izzet-artifacts:
     weight: 0.0385

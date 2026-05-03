@@ -7,16 +7,16 @@ name: Mardu Blink
 meta_share: 0.0119
 list_count: 18
 top_cards:
-- name: Solitude
-  weight: 1.0
-  avg_copies: 4.0
 - name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
-- name: Phelia, Exuberant Shepherd
+- name: Solitude
+  weight: 1.0
+  avg_copies: 4.0
+- name: Phlage, Titan of Fire's Fury
   weight: 1.0
   avg_copies: 3.39
-- name: Phlage, Titan of Fire's Fury
+- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.39
 - name: Arid Mesa
@@ -40,16 +40,16 @@ top_cards:
 - name: Flickerwisp
   weight: 1.0
   avg_copies: 1.89
-- name: Godless Shrine
-  weight: 1.0
-  avg_copies: 1.06
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 1.06
-- name: Raucous Theater
+- name: Godless Shrine
+  weight: 1.0
+  avg_copies: 1.06
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
 - name: Elegant Parlor
@@ -130,19 +130,19 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.1667
   avg_copies: 2.0
-- name: Clarion Conqueror
-  weight: 0.1111
-  avg_copies: 2.0
 - name: March of Otherworldly Light
   weight: 0.1111
   avg_copies: 2.0
-- name: Elesh Norn, Mother of Machines
+- name: Clarion Conqueror
+  weight: 0.1111
+  avg_copies: 2.0
+- name: Swamp
   weight: 0.1111
   avg_copies: 1.0
 - name: Nihil Spellbomb
   weight: 0.1111
   avg_copies: 1.0
-- name: Swamp
+- name: Elesh Norn, Mother of Machines
   weight: 0.1111
   avg_copies: 1.0
 - name: Fatal Push
@@ -151,31 +151,31 @@ top_cards:
 - name: Unholy Heat
   weight: 0.0556
   avg_copies: 3.0
-- name: Graveyard Trespasser
+- name: Seasoned Pyromancer
   weight: 0.0556
   avg_copies: 2.0
-- name: Force of Despair
+- name: Graveyard Trespasser
   weight: 0.0556
   avg_copies: 2.0
 - name: The Legend of Roku
   weight: 0.0556
   avg_copies: 2.0
-- name: Seasoned Pyromancer
-  weight: 0.0556
-  avg_copies: 2.0
 - name: Magus of the Moon
   weight: 0.0556
   avg_copies: 2.0
-- name: Emptiness
+- name: Force of Despair
+  weight: 0.0556
+  avg_copies: 2.0
+- name: Faerie Macabre
   weight: 0.0556
   avg_copies: 1.0
 - name: Snow-Covered Swamp
   weight: 0.0556
   avg_copies: 1.0
-- name: Faerie Macabre
+- name: Pest Control
   weight: 0.0556
   avg_copies: 1.0
-- name: Pest Control
+- name: Emptiness
   weight: 0.0556
   avg_copies: 1.0
 ---

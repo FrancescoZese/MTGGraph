@@ -13,19 +13,22 @@ archetypes:
     weight: 0.0196
     avg_copies: 4.0
   reanimator:
-    weight: 0.8846
-    avg_copies: 3.87
+    weight: 0.8889
+    avg_copies: 3.88
   hollow-one:
     weight: 1.0
     avg_copies: 4.0
   izzet-prowess:
-    weight: 0.0149
+    weight: 0.0147
     avg_copies: 4.0
   indomitable-creativity:
     weight: 0.375
     avg_copies: 4.0
   dredge:
     weight: 0.8571
+    avg_copies: 4.0
+  eldrazi-breach:
+    weight: 0.25
     avg_copies: 4.0
   naya-midrange:
     weight: 1.0
@@ -34,12 +37,6 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   izzet-murktide:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-8:
     weight: 1.0
     avg_copies: 4.0
 ---

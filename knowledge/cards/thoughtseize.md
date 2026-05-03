@@ -10,8 +10,8 @@ type: Sorcery
 meta_presence: 0.1587
 archetypes:
   dimir-control:
-    weight: 0.5
-    avg_copies: 3.11
+    weight: 0.5075
+    avg_copies: 3.14
   goryo:
     weight: 0.9667
     avg_copies: 3.08
@@ -19,7 +19,7 @@ archetypes:
     weight: 0.8182
     avg_copies: 3.89
   reanimator:
-    weight: 0.9231
+    weight: 0.8889
     avg_copies: 3.79
   mardu-blink:
     weight: 0.7222
@@ -30,6 +30,9 @@ archetypes:
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 2.16
+  simic-ritual:
+    weight: 0.025
+    avg_copies: 4.0
   esper-blink:
     weight: 0.9231
     avg_copies: 3.54
@@ -51,6 +54,9 @@ archetypes:
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 4.0
+  eldrazi-breach:
+    weight: 0.25
+    avg_copies: 4.0
   grixis-shadow:
     weight: 1.0
     avg_copies: 4.0
@@ -58,7 +64,7 @@ archetypes:
     weight: 0.5
     avg_copies: 4.0
   mono-green-ramp:
-    weight: 0.8
+    weight: 0.6667
     avg_copies: 3.0
   esper-midrange:
     weight: 1.0
@@ -79,15 +85,6 @@ archetypes:
     weight: 1.0
     avg_copies: 2.4
   soultrader-combo0:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-4:
-    weight: 0.5
-    avg_copies: 4.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-12:
     weight: 1.0
     avg_copies: 4.0
 ---

@@ -10,7 +10,7 @@ type: Creature — Sphinx
 meta_presence: 0.1528
 archetypes:
   dimir-control:
-    weight: 0.4545
+    weight: 0.4478
     avg_copies: 2.84
   jeskai-energy:
     weight: 0.9896
@@ -28,10 +28,10 @@ archetypes:
     weight: 0.0196
     avg_copies: 1.0
   reanimator:
-    weight: 0.5769
+    weight: 0.5556
     avg_copies: 1.53
   simic-ritual:
-    weight: 0.0263
+    weight: 0.025
     avg_copies: 3.0
   4c-omnath:
     weight: 1.0
@@ -48,6 +48,9 @@ archetypes:
   izzet-artifacts:
     weight: 0.3846
     avg_copies: 2.7
+  izzet-splinter-twin:
+    weight: 0.5
+    avg_copies: 2.0
   goryo1:
     weight: 0.4
     avg_copies: 1.25
@@ -58,9 +61,6 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   sultai-midrange:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-9:
     weight: 1.0
     avg_copies: 2.0
 ---

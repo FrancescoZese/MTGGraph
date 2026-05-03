@@ -10,6 +10,6 @@ type: Sorcery — Lesson
 meta_presence: 0.0013
 archetypes:
   izzet-prowess:
-    weight: 0.0299
+    weight: 0.0294
     avg_copies: 1.0
 ---

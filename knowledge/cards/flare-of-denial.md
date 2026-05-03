@@ -22,16 +22,16 @@ archetypes:
     weight: 0.1111
     avg_copies: 2.0
   reanimator:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 4.0
   simic-ritual:
-    weight: 1.0
+    weight: 0.975
     avg_copies: 4.0
   grixis-control:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 3.0
   izzet-splinter-twin:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 3.0
   izzet-wizards:
     weight: 1.0
@@ -42,7 +42,4 @@ archetypes:
   4c-omnath9:
     weight: 0.5
     avg_copies: 2.0
-  unknown-4:
-    weight: 0.5
-    avg_copies: 4.0
 ---

@@ -10,7 +10,7 @@ meta_presence: 0.164
 archetypes:
   dimir-control:
     weight: 1.0
-    avg_copies: 2.65
+    avg_copies: 2.66
   goryo:
     weight: 0.9667
     avg_copies: 1.0
@@ -27,14 +27,14 @@ archetypes:
     weight: 0.8889
     avg_copies: 1.38
   reanimator:
-    weight: 0.8846
+    weight: 0.8519
     avg_copies: 1.83
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.8158
-    avg_copies: 1.0
+    weight: 0.8
+    avg_copies: 1.03
   esper-blink:
     weight: 1.0
     avg_copies: 1.0
@@ -45,7 +45,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   grixis-control:
-    weight: 0.2
+    weight: 0.3333
     avg_copies: 2.0
   grixis-shadow:
     weight: 1.0
@@ -59,16 +59,7 @@ archetypes:
   goryo2:
     weight: 1.0
     avg_copies: 1.0
-  unknown-4:
-    weight: 0.5
-    avg_copies: 2.0
   sultai-midrange:
     weight: 1.0
     avg_copies: 3.0
-  unknown-12:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-10:
-    weight: 1.0
-    avg_copies: 2.0
 ---

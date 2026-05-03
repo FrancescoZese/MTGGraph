@@ -10,7 +10,7 @@ type: Enchantment
 meta_presence: 0.1865
 archetypes:
   ruby-storm:
-    weight: 0.0476
+    weight: 0.0455
     avg_copies: 1.5
   boros-energy:
     weight: 0.7527
@@ -28,19 +28,19 @@ archetypes:
     weight: 0.0952
     avg_copies: 1.5
   boros-ponza:
-    weight: 0.0294
+    weight: 0.0278
     avg_copies: 3.0
   eldrazi-ramp:
     weight: 0.0645
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0896
+    weight: 0.0882
     avg_copies: 1.5
   izzet-artifacts:
     weight: 0.4231
     avg_copies: 2.82
   grixis-control:
-    weight: 0.4
+    weight: 0.3333
     avg_copies: 2.0
   rakdos-lantern-combo:
     weight: 1.0
@@ -58,9 +58,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   izzet-murktide:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-9:
     weight: 1.0
     avg_copies: 2.0
 ---

@@ -9,10 +9,10 @@ name: Domain Zoo
 meta_share: 0.0337
 list_count: 51
 top_cards:
-- name: Territorial Kavu
+- name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline of the Guildpact
+- name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline Binding
@@ -24,10 +24,10 @@ top_cards:
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 3.94
-- name: Flooded Strand
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 3.84
-- name: Arid Mesa
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 3.84
 - name: Wooded Foothills
@@ -135,43 +135,49 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.0392
   avg_copies: 2.0
-- name: Does Machines
+- name: Fable of the Mirror-Breaker
   weight: 0.0392
   avg_copies: 1.0
-- name: Fable of the Mirror-Breaker
+- name: Does Machines
   weight: 0.0392
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.0392
   avg_copies: 1.0
-- name: Tribal Flames
-  weight: 0.0196
-  avg_copies: 4.0
 - name: Faithless Looting
-  weight: 0.0196
-  avg_copies: 4.0
-- name: Archon of Cruelty
-  weight: 0.0196
-  avg_copies: 4.0
-- name: Persist
-  weight: 0.0196
-  avg_copies: 4.0
-- name: Psychic Frog
   weight: 0.0196
   avg_copies: 4.0
 - name: Aurora Awakener
   weight: 0.0196
   avg_copies: 4.0
+- name: Psychic Frog
+  weight: 0.0196
+  avg_copies: 4.0
+- name: Persist
+  weight: 0.0196
+  avg_copies: 4.0
+- name: Archon of Cruelty
+  weight: 0.0196
+  avg_copies: 4.0
+- name: Tribal Flames
+  weight: 0.0196
+  avg_copies: 4.0
 - name: Summoning Trap
   weight: 0.0196
   avg_copies: 3.0
-- name: Drannith Magistrate
-  weight: 0.0196
-  avg_copies: 2.0
 - name: Mana Tithe
   weight: 0.0196
   avg_copies: 2.0
-- name: Glasspool Mimic
+- name: Drannith Magistrate
+  weight: 0.0196
+  avg_copies: 2.0
+- name: Prismatic Ending
+  weight: 0.0196
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 0.0196
+  avg_copies: 1.0
+- name: Raucous Theater
   weight: 0.0196
   avg_copies: 1.0
 - name: Quantum Riddler
@@ -183,13 +189,7 @@ top_cards:
 - name: Breeding Pool
   weight: 0.0196
   avg_copies: 1.0
-- name: Raucous Theater
-  weight: 0.0196
-  avg_copies: 1.0
-- name: Meltdown
-  weight: 0.0196
-  avg_copies: 1.0
-- name: Prismatic Ending
+- name: Glasspool Mimic
   weight: 0.0196
   avg_copies: 1.0
 ---

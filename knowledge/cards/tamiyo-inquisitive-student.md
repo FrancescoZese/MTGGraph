@@ -9,7 +9,7 @@ type: Legendary Creature — Moonfolk Wizard // Legendary Planeswalker — Tamiy
 meta_presence: 0.0661
 archetypes:
   dimir-control:
-    weight: 0.5
+    weight: 0.4925
     avg_copies: 2.39
   mono-blue-belcher:
     weight: 0.1667
@@ -30,20 +30,20 @@ archetypes:
     weight: 0.2222
     avg_copies: 2.0
   reanimator:
-    weight: 0.0769
+    weight: 0.0741
     avg_copies: 3.0
   kethis-combo:
     weight: 1.0
     avg_copies: 4.0
   simic-ritual:
-    weight: 0.1053
+    weight: 0.1
     avg_copies: 1.75
   izzet-artifacts:
     weight: 0.9615
     avg_copies: 4.0
   grixis-control:
-    weight: 0.6
-    avg_copies: 3.0
+    weight: 0.6667
+    avg_copies: 3.25
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 4.0
@@ -59,10 +59,4 @@ archetypes:
   sultai-midrange:
     weight: 1.0
     avg_copies: 2.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-10:
-    weight: 1.0
-    avg_copies: 4.0
 ---

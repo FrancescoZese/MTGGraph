@@ -18,7 +18,7 @@ archetypes:
     weight: 0.2963
     avg_copies: 2.12
   scapeshift-combo:
-    weight: 0.75
+    weight: 0.5
     avg_copies: 4.0
   goryo4:
     weight: 0.5

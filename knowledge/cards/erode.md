@@ -19,15 +19,12 @@ archetypes:
     weight: 0.1
     avg_copies: 2.0
   boros-ponza:
-    weight: 0.3824
-    avg_copies: 3.46
+    weight: 0.4167
+    avg_copies: 3.4
   esper-blink:
     weight: 0.0769
     avg_copies: 1.0
   goryo6:
     weight: 1.0
     avg_copies: 4.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 3.0
 ---

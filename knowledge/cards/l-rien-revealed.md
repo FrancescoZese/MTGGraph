@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.0225
 archetypes:
   dimir-control:
-    weight: 0.0152
+    weight: 0.0149
     avg_copies: 1.0
   azorius-control:
     weight: 0.9231
@@ -25,13 +25,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   grixis-control:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 2.0
   eldrazi-breach:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 1.0
   izzet-splinter-twin:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 2.0
   4c-omnath9:
     weight: 0.5

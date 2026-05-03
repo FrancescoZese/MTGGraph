@@ -12,10 +12,13 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   reanimator:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 4.0
   mardu-blink:
     weight: 0.6667
+    avg_copies: 1.0
+  simic-ritual:
+    weight: 0.025
     avg_copies: 1.0
   esper-blink:
     weight: 0.9231
@@ -32,7 +35,4 @@ archetypes:
   soultrader-combo:
     weight: 0.6667
     avg_copies: 4.0
-  unknown-4:
-    weight: 0.5
-    avg_copies: 1.0
 ---

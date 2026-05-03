@@ -19,14 +19,14 @@ archetypes:
     weight: 0.1111
     avg_copies: 4.0
   reanimator:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 1.0
   mardu-blink:
     weight: 0.2222
     avg_copies: 2.75
   boros-ponza:
-    weight: 0.9706
-    avg_copies: 3.61
+    weight: 0.9722
+    avg_copies: 3.63
   esper-blink:
     weight: 0.0769
     avg_copies: 2.0
@@ -36,7 +36,4 @@ archetypes:
   bant-ritual:
     weight: 1.0
     avg_copies: 2.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 4.0
 ---

@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.0086
 archetypes:
   dimir-control:
-    weight: 0.1667
+    weight: 0.1642
     avg_copies: 1.0
   esper-midrange:
     weight: 1.0

@@ -50,25 +50,25 @@ top_cards:
 - name: Force of Negation
   weight: 0.9667
   avg_copies: 2.1
-- name: Undercity Sewers
-  weight: 0.9667
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.9667
-  avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 0.9667
   avg_copies: 1.0
-- name: Godless Shrine
-  weight: 0.9667
-  avg_copies: 1.0
-- name: Plains
+- name: Island
   weight: 0.9667
   avg_copies: 1.0
 - name: Watery Grave
   weight: 0.9667
   avg_copies: 1.0
-- name: Island
+- name: Meticulous Archive
+  weight: 0.9667
+  avg_copies: 1.0
+- name: Undercity Sewers
+  weight: 0.9667
+  avg_copies: 1.0
+- name: Plains
+  weight: 0.9667
+  avg_copies: 1.0
+- name: Godless Shrine
   weight: 0.9667
   avg_copies: 1.0
 - name: Prismatic Ending
@@ -155,10 +155,10 @@ top_cards:
 - name: Subtlety
   weight: 0.0667
   avg_copies: 1.43
-- name: Elesh Norn, Mother of Machines
+- name: Snow-Covered Swamp
   weight: 0.0667
   avg_copies: 1.0
-- name: Snow-Covered Swamp
+- name: Elesh Norn, Mother of Machines
   weight: 0.0667
   avg_copies: 1.0
 - name: Ketramose, the New Dawn
@@ -167,10 +167,10 @@ top_cards:
 - name: Unmarked Grave
   weight: 0.0333
   avg_copies: 4.0
-- name: Dina's Guidance
+- name: Formidable Speaker
   weight: 0.0333
   avg_copies: 4.0
-- name: Formidable Speaker
+- name: Dina's Guidance
   weight: 0.0333
   avg_copies: 4.0
 - name: Verdant Catacombs
@@ -182,27 +182,33 @@ top_cards:
 - name: Archon of Cruelty
   weight: 0.0333
   avg_copies: 3.0
-- name: Underground Mortuary
+- name: Bitter Triumph
   weight: 0.0333
   avg_copies: 2.0
 - name: Deafening Silence
   weight: 0.0333
   avg_copies: 2.0
-- name: Bitter Triumph
+- name: Underground Mortuary
   weight: 0.0333
   avg_copies: 2.0
+- name: Witherbloom Command
+  weight: 0.0333
+  avg_copies: 1.5
 - name: Forest
   weight: 0.0333
   avg_copies: 1.5
 - name: Misty Rainforest
   weight: 0.0333
   avg_copies: 1.5
-- name: Witherbloom Command
-  weight: 0.0333
-  avg_copies: 1.5
 - name: Endurance
   weight: 0.0333
   avg_copies: 1.25
+- name: Persist
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Culling Ritual
+  weight: 0.0333
+  avg_copies: 1.0
 - name: Geier Reach Sanitarium
   weight: 0.0333
   avg_copies: 1.0
@@ -212,37 +218,49 @@ top_cards:
 - name: Winternight Stories
   weight: 0.0333
   avg_copies: 1.0
-- name: Culling Ritual
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Persist
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Jace, Vryn's Prodigy
+- name: Utopia Sprawl
   weight: 0.0167
   avg_copies: 4.0
-- name: Utopia Sprawl
+- name: Jace, Vryn's Prodigy
   weight: 0.0167
   avg_copies: 4.0
 - name: Leyline of the Void
   weight: 0.0167
   avg_copies: 3.0
-- name: Vexing Bauble
-  weight: 0.0167
-  avg_copies: 2.0
-- name: Collector Ouphe
-  weight: 0.0167
-  avg_copies: 2.0
 - name: No More Lies
   weight: 0.0167
   avg_copies: 2.0
 - name: Inquisition of Kozilek
   weight: 0.0167
   avg_copies: 2.0
+- name: Collector Ouphe
+  weight: 0.0167
+  avg_copies: 2.0
+- name: Vexing Bauble
+  weight: 0.0167
+  avg_copies: 2.0
+- name: Unburial Rites
+  weight: 0.0167
+  avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.0167
+  avg_copies: 1.0
+- name: Grist, the Hunger Tide
+  weight: 0.0167
+  avg_copies: 1.0
+- name: Ghalta, Stampede Tyrant
+  weight: 0.0167
+  avg_copies: 1.0
+- name: Damn
+  weight: 0.0167
+  avg_copies: 1.0
 - name: Gloomlake Verge
   weight: 0.0167
   avg_copies: 1.0
-- name: Vanishing Verse
+- name: Arcbound Ravager
+  weight: 0.0167
+  avg_copies: 1.0
+- name: Ulamog, the Defiler
   weight: 0.0167
   avg_copies: 1.0
 - name: Troll of Khazad-dûm
@@ -251,43 +269,25 @@ top_cards:
 - name: Massacre Wurm
   weight: 0.0167
   avg_copies: 1.0
-- name: Duress
-  weight: 0.0167
-  avg_copies: 1.0
-- name: Ulamog, the Defiler
-  weight: 0.0167
-  avg_copies: 1.0
-- name: Arcbound Ravager
-  weight: 0.0167
-  avg_copies: 1.0
-- name: Unburial Rites
+- name: Omniscience
   weight: 0.0167
   avg_copies: 1.0
 - name: Toxic Deluge
   weight: 0.0167
   avg_copies: 1.0
-- name: Serra's Emissary
+- name: Generous Ent
   weight: 0.0167
   avg_copies: 1.0
 - name: Haywire Mite
   weight: 0.0167
   avg_copies: 1.0
-- name: Omniscience
+- name: Duress
   weight: 0.0167
   avg_copies: 1.0
-- name: Generous Ent
+- name: Serra's Emissary
   weight: 0.0167
   avg_copies: 1.0
-- name: Gemstone Caverns
-  weight: 0.0167
-  avg_copies: 1.0
-- name: Ghalta, Stampede Tyrant
-  weight: 0.0167
-  avg_copies: 1.0
-- name: Grist, the Hunger Tide
-  weight: 0.0167
-  avg_copies: 1.0
-- name: Damn
+- name: Vanishing Verse
   weight: 0.0167
   avg_copies: 1.0
 ---

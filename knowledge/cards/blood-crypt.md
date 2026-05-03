@@ -12,8 +12,8 @@ archetypes:
     weight: 0.0588
     avg_copies: 1.0
   reanimator:
-    weight: 0.8846
-    avg_copies: 1.17
+    weight: 0.8889
+    avg_copies: 1.25
   burn:
     weight: 0.1429
     avg_copies: 2.0
@@ -29,12 +29,18 @@ archetypes:
   dredge:
     weight: 1.0
     avg_copies: 1.57
+  grixis-control:
+    weight: 0.1667
+    avg_copies: 1.0
   jund-saga:
     weight: 1.0
     avg_copies: 2.0
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 1.0
+  eldrazi-breach:
+    weight: 0.25
+    avg_copies: 2.0
   grixis-shadow:
     weight: 1.0
     avg_copies: 2.0
@@ -45,15 +51,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   soultrader-combo0:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-10:
     weight: 1.0
     avg_copies: 1.0
 ---

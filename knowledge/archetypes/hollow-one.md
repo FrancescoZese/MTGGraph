@@ -6,9 +6,6 @@ name: Hollow One
 meta_share: 0.0139
 list_count: 21
 top_cards:
-- name: Burning Inquiry
-  weight: 1.0
-  avg_copies: 4.0
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
@@ -16,6 +13,9 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
+  weight: 1.0
+  avg_copies: 4.0
+- name: Burning Inquiry
   weight: 1.0
   avg_copies: 4.0
 - name: Detective's Phoenix
@@ -117,16 +117,16 @@ top_cards:
 - name: Polluted Delta
   weight: 0.1905
   avg_copies: 1.0
-- name: Blazing Rootwalla
-  weight: 0.1429
-  avg_copies: 4.0
 - name: Vengevine
   weight: 0.1429
   avg_copies: 4.0
-- name: Cool but Rude
+- name: Blazing Rootwalla
+  weight: 0.1429
+  avg_copies: 4.0
+- name: Tarfire
   weight: 0.1429
   avg_copies: 2.0
-- name: Tarfire
+- name: Cool but Rude
   weight: 0.1429
   avg_copies: 2.0
 - name: Stomping Ground
@@ -138,19 +138,25 @@ top_cards:
 - name: Leyline of the Void
   weight: 0.0952
   avg_copies: 3.5
-- name: Goblin Lore
-  weight: 0.0952
-  avg_copies: 2.0
 - name: Sheoldred's Edict
   weight: 0.0952
   avg_copies: 2.0
-- name: Ox of Agonas
+- name: Goblin Lore
   weight: 0.0952
-  avg_copies: 1.5
+  avg_copies: 2.0
 - name: Blood Moon
   weight: 0.0952
   avg_copies: 1.5
+- name: Ox of Agonas
+  weight: 0.0952
+  avg_copies: 1.5
+- name: Violent Urge
+  weight: 0.0952
+  avg_copies: 1.0
 - name: Blackcleave Cliffs
+  weight: 0.0952
+  avg_copies: 1.0
+- name: Liliana of the Veil
   weight: 0.0952
   avg_copies: 1.0
 - name: Commercial District
@@ -159,28 +165,22 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.0952
   avg_copies: 1.0
-- name: Violent Urge
-  weight: 0.0952
-  avg_copies: 1.0
-- name: Liliana of the Veil
-  weight: 0.0952
-  avg_copies: 1.0
 - name: Cam and Farrik, Havoc Duo
   weight: 0.0476
   avg_copies: 2.0
-- name: Magebane Lizard
-  weight: 0.0476
-  avg_copies: 2.0
-- name: Rough
+- name: Pyroclasm
   weight: 0.0476
   avg_copies: 2.0
 - name: Ancient Grudge
   weight: 0.0476
   avg_copies: 2.0
-- name: Magus of the Moon
+- name: Rough
   weight: 0.0476
   avg_copies: 2.0
-- name: Pyroclasm
+- name: Magebane Lizard
+  weight: 0.0476
+  avg_copies: 2.0
+- name: Magus of the Moon
   weight: 0.0476
   avg_copies: 2.0
 - name: Flameblade Adept
@@ -189,10 +189,10 @@ top_cards:
 - name: Shattering Spree
   weight: 0.0476
   avg_copies: 1.0
-- name: Seal of Fire
+- name: Overlord of the Balemurk
   weight: 0.0476
   avg_copies: 1.0
-- name: Overlord of the Balemurk
+- name: Seal of Fire
   weight: 0.0476
   avg_copies: 1.0
 - name: Barbarian Ring

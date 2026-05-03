@@ -17,14 +17,11 @@ archetypes:
     avg_copies: 4.0
   reanimator:
     weight: 1.0
-    avg_copies: 3.92
+    avg_copies: 3.89
   indomitable-creativity:
     weight: 0.375
     avg_copies: 4.0
   goryo1:
     weight: 1.0
     avg_copies: 3.8
-  unknown-8:
-    weight: 1.0
-    avg_copies: 3.0
 ---

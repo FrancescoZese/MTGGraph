@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.0026
 archetypes:
   scapeshift-combo:
-    weight: 0.75
+    weight: 0.5
     avg_copies: 1.0
   goryo4:
     weight: 0.5

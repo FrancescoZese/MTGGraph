@@ -24,7 +24,7 @@ archetypes:
     weight: 0.129
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0149
+    weight: 0.0147
     avg_copies: 1.0
   broodscale-combo:
     weight: 0.8519
@@ -39,7 +39,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   mono-green-ramp:
-    weight: 1.0
+    weight: 0.8333
     avg_copies: 1.0
   the-rock:
     weight: 0.5

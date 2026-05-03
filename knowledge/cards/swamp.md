@@ -9,7 +9,7 @@ type: Basic Land — Swamp
 meta_presence: 0.2183
 archetypes:
   dimir-control:
-    weight: 0.9848
+    weight: 0.9851
     avg_copies: 1.03
   eldrazi-tron:
     weight: 0.7679
@@ -28,7 +28,7 @@ archetypes:
     avg_copies: 1.4
   reanimator:
     weight: 1.0
-    avg_copies: 1.69
+    avg_copies: 1.7
   mardu-blink:
     weight: 0.1111
     avg_copies: 1.0
@@ -37,6 +37,9 @@ archetypes:
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
+    avg_copies: 1.0
+  simic-ritual:
+    weight: 0.05
     avg_copies: 1.0
   esper-blink:
     weight: 1.0
@@ -51,7 +54,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   grixis-control:
-    weight: 0.2
+    weight: 0.3333
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
@@ -59,6 +62,9 @@ archetypes:
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 4.0
+  eldrazi-breach:
+    weight: 0.25
+    avg_copies: 1.0
   grixis-shadow:
     weight: 1.0
     avg_copies: 1.0
@@ -86,22 +92,7 @@ archetypes:
   soultrader-combo:
     weight: 1.0
     avg_copies: 3.0
-  unknown-4:
-    weight: 1.0
-    avg_copies: 1.0
   sultai-midrange:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-12:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-10:
     weight: 1.0
     avg_copies: 1.0
 ---

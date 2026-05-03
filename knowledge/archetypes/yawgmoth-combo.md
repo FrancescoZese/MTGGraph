@@ -66,7 +66,7 @@ top_cards:
 - name: Grist, the Hunger Tide
   weight: 1.0
   avg_copies: 1.07
-- name: Dryad Arbor
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Strangleroot Geist
@@ -78,7 +78,7 @@ top_cards:
 - name: Endurance
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
 - name: Windswept Heath
@@ -126,25 +126,25 @@ top_cards:
 - name: Damping Sphere
   weight: 0.2632
   avg_copies: 1.0
-- name: Kraul Harpooner
-  weight: 0.1579
-  avg_copies: 1.0
 - name: Hapatra, Vizier of Poisons
   weight: 0.1579
   avg_copies: 1.0
-- name: Culling Ritual
-  weight: 0.1053
+- name: Kraul Harpooner
+  weight: 0.1579
   avg_copies: 1.0
 - name: Assassin's Trophy
+  weight: 0.1053
+  avg_copies: 1.0
+- name: Culling Ritual
   weight: 0.1053
   avg_copies: 1.0
 - name: Murderous Cut
   weight: 0.0526
   avg_copies: 1.0
-- name: Sylvan Safekeeper
+- name: Nurturing Peatland
   weight: 0.0526
   avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Sylvan Safekeeper
   weight: 0.0526
   avg_copies: 1.0
 ---

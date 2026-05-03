@@ -10,6 +10,6 @@ type: Creature — Phyrexian Cleric
 meta_presence: 0.0007
 archetypes:
   izzet-splinter-twin:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 4.0
 ---

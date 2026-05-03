@@ -11,15 +11,15 @@ type: Legendary Planeswalker — Kaito
 meta_presence: 0.0364
 archetypes:
   dimir-control:
-    weight: 0.7879
+    weight: 0.7761
     avg_copies: 1.27
   necrodominance:
     weight: 0.0455
     avg_copies: 1.0
-  unknown-4:
-    weight: 0.5
+  simic-ritual:
+    weight: 0.025
     avg_copies: 1.0
-  unknown-10:
-    weight: 1.0
+  grixis-control:
+    weight: 0.1667
     avg_copies: 1.0
 ---

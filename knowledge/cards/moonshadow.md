@@ -10,7 +10,7 @@ type: Creature — Elemental
 meta_presence: 0.0192
 archetypes:
   dimir-control:
-    weight: 0.0303
+    weight: 0.0299
     avg_copies: 4.0
   hollow-one:
     weight: 0.9524

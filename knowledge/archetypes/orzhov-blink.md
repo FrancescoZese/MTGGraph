@@ -9,13 +9,13 @@ top_cards:
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
+- name: Overlord of the Balemurk
+  weight: 1.0
+  avg_copies: 4.0
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
-  weight: 1.0
-  avg_copies: 4.0
-- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
 - name: Witch Enchanter
@@ -24,10 +24,10 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.5
-- name: Phelia, Exuberant Shepherd
+- name: Fatal Push
   weight: 1.0
   avg_copies: 3.25
-- name: Fatal Push
+- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.25
 - name: Emperor of Bones
@@ -36,28 +36,28 @@ top_cards:
 - name: Ephemerate
   weight: 1.0
   avg_copies: 3.0
-- name: Wrath of the Skies
-  weight: 1.0
-  avg_copies: 2.75
 - name: Flickerwisp
   weight: 1.0
   avg_copies: 2.75
-- name: Arid Mesa
+- name: Wrath of the Skies
   weight: 1.0
-  avg_copies: 2.25
-- name: Clarion Conqueror
-  weight: 1.0
-  avg_copies: 2.25
+  avg_copies: 2.75
 - name: Damping Sphere
+  weight: 1.0
+  avg_copies: 2.25
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 2.25
 - name: Plains
   weight: 1.0
   avg_copies: 2.25
-- name: Shadowy Backstreet
+- name: Clarion Conqueror
+  weight: 1.0
+  avg_copies: 2.25
+- name: High Noon
   weight: 1.0
   avg_copies: 2.0
-- name: High Noon
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 2.0
 - name: Boggart Trawler
@@ -72,19 +72,19 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Dawnbringer Cleric
+- name: Prismatic Ending
   weight: 0.75
   avg_copies: 2.0
 - name: Sheoldred's Edict
   weight: 0.75
   avg_copies: 2.0
-- name: Prismatic Ending
+- name: Dawnbringer Cleric
   weight: 0.75
   avg_copies: 2.0
-- name: Flooded Strand
+- name: Bleachbone Verge
   weight: 0.75
   avg_copies: 1.67
-- name: Bleachbone Verge
+- name: Flooded Strand
   weight: 0.75
   avg_copies: 1.67
 - name: Vexing Bauble
@@ -108,10 +108,10 @@ top_cards:
 - name: Relic of Progenitus
   weight: 0.25
   avg_copies: 4.0
-- name: Eiganjo, Seat of the Empire
+- name: Raucous Theater
   weight: 0.25
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Eiganjo, Seat of the Empire
   weight: 0.25
   avg_copies: 1.0
 ---

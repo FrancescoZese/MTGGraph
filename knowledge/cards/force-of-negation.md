@@ -10,8 +10,8 @@ type: Instant
 meta_presence: 0.2434
 archetypes:
   dimir-control:
-    weight: 0.9848
-    avg_copies: 1.67
+    weight: 0.9851
+    avg_copies: 1.68
   mono-blue-belcher:
     weight: 0.9
     avg_copies: 1.53
@@ -37,16 +37,16 @@ archetypes:
     weight: 0.2222
     avg_copies: 1.5
   reanimator:
-    weight: 0.0769
+    weight: 0.0741
     avg_copies: 2.5
   mono-blue-tron:
     weight: 1.0
     avg_copies: 3.4
   simic-ritual:
-    weight: 1.0
-    avg_copies: 2.39
+    weight: 0.975
+    avg_copies: 2.38
   izzet-prowess:
-    weight: 0.1045
+    weight: 0.1029
     avg_copies: 1.29
   4c-omnath:
     weight: 0.75
@@ -61,11 +61,11 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   grixis-control:
-    weight: 0.4
-    avg_copies: 1.33
+    weight: 0.5
+    avg_copies: 1.75
   izzet-splinter-twin:
     weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 2.0
   esper-midrange:
     weight: 1.0
     avg_copies: 3.0
@@ -78,19 +78,7 @@ archetypes:
   izzet-murktide:
     weight: 1.0
     avg_copies: 1.0
-  unknown-4:
-    weight: 0.5
-    avg_copies: 2.0
   sultai-midrange:
     weight: 1.0
     avg_copies: 2.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-12:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-10:
-    weight: 1.0
-    avg_copies: 3.0
 ---

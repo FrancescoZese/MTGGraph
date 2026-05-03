@@ -22,7 +22,7 @@ archetypes:
     weight: 0.8889
     avg_copies: 4.0
   boros-ponza:
-    weight: 0.8235
+    weight: 0.7778
     avg_copies: 3.68
   4c-omnath:
     weight: 0.25
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.625
     avg_copies: 3.8
   grixis-control:
-    weight: 0.8
+    weight: 0.6667
     avg_copies: 4.0
   naya-midrange:
     weight: 1.0

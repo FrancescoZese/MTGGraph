@@ -36,12 +36,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   eldrazi-breach:
-    weight: 0.6667
-    avg_copies: 2.0
+    weight: 0.75
+    avg_copies: 2.33
   goryo4:
     weight: 1.0
     avg_copies: 2.5
-  unknown-5:
-    weight: 1.0
-    avg_copies: 3.0
 ---

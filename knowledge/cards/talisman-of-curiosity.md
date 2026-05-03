@@ -18,6 +18,6 @@ archetypes:
     weight: 0.2258
     avg_copies: 2.0
   eldrazi-breach:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 2.0
 ---

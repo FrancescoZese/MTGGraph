@@ -9,10 +9,10 @@ type: Land — Island Mountain
 meta_presence: 0.2083
 archetypes:
   ruby-storm:
-    weight: 0.0952
-    avg_copies: 1.0
+    weight: 0.1364
+    avg_copies: 1.33
   dimir-control:
-    weight: 0.0303
+    weight: 0.0299
     avg_copies: 1.0
   jeskai-energy:
     weight: 1.0
@@ -30,13 +30,13 @@ archetypes:
     weight: 0.9412
     avg_copies: 1.0
   reanimator:
-    weight: 0.0769
+    weight: 0.0741
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0333
+    weight: 0.0323
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0263
+    weight: 0.025
     avg_copies: 1.0
   izzet-prowess:
     weight: 1.0
@@ -55,18 +55,18 @@ archetypes:
     avg_copies: 1.0
   grixis-control:
     weight: 1.0
-    avg_copies: 1.8
+    avg_copies: 1.67
   eldrazi-breach:
-    weight: 0.6667
+    weight: 0.5
     avg_copies: 1.0
   izzet-splinter-twin:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.5
   izzet-wizards:
     weight: 1.0
     avg_copies: 2.0
   scapeshift-combo:
-    weight: 0.25
+    weight: 0.1667
     avg_copies: 1.0
   goryo1:
     weight: 0.1
@@ -78,18 +78,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   sultai-midrange:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-2:
-    weight: 1.0
-    avg_copies: 2.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-10:
     weight: 1.0
     avg_copies: 1.0
 ---

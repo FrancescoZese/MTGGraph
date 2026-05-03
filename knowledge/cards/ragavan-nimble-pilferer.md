@@ -27,14 +27,17 @@ archetypes:
   mardu-blink:
     weight: 0.8889
     avg_copies: 3.0
+  boros-ponza:
+    weight: 0.0556
+    avg_copies: 4.0
   izzet-prowess:
-    weight: 0.0149
+    weight: 0.0147
     avg_copies: 4.0
   jund-saga:
     weight: 1.0
     avg_copies: 4.0
   izzet-splinter-twin:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 2.0
   naya-midrange:
     weight: 1.0
@@ -49,9 +52,6 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   soultrader-combo0:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-3:
     weight: 1.0
     avg_copies: 4.0
 ---

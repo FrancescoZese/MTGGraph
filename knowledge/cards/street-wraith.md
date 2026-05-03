@@ -9,11 +9,14 @@ set: dmr
 type: Creature — Wraith
 meta_presence: 0.0344
 archetypes:
+  dimir-control:
+    weight: 0.0149
+    avg_copies: 4.0
   living-end:
     weight: 0.88
     avg_copies: 2.55
   reanimator:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 4.0
   hollow-one:
     weight: 1.0
@@ -25,9 +28,6 @@ archetypes:
     weight: 0.8333
     avg_copies: 4.0
   izzet-murktide:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-12:
     weight: 1.0
     avg_copies: 4.0
 ---

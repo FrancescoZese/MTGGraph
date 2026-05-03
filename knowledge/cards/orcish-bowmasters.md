@@ -10,7 +10,7 @@ type: Creature — Orc Archer
 meta_presence: 0.1025
 archetypes:
   dimir-control:
-    weight: 0.9848
+    weight: 0.9701
     avg_copies: 3.57
   necrodominance:
     weight: 1.0
@@ -19,8 +19,8 @@ archetypes:
     weight: 0.0392
     avg_copies: 2.0
   reanimator:
-    weight: 0.1154
-    avg_copies: 3.33
+    weight: 0.1481
+    avg_copies: 3.25
   mardu-blink:
     weight: 0.6667
     avg_copies: 1.35
@@ -30,6 +30,9 @@ archetypes:
   yawgmoth-combo:
     weight: 0.7368
     avg_copies: 2.0
+  simic-ritual:
+    weight: 0.025
+    avg_copies: 4.0
   esper-blink:
     weight: 0.5385
     avg_copies: 2.57
@@ -40,7 +43,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.5
   grixis-control:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 2.0
   jund-saga:
     weight: 1.0
@@ -54,13 +57,7 @@ archetypes:
   soultrader-combo:
     weight: 1.0
     avg_copies: 4.0
-  unknown-4:
-    weight: 0.5
-    avg_copies: 4.0
   sultai-midrange:
     weight: 1.0
     avg_copies: 2.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 3.0
 ---

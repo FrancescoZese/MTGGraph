@@ -17,13 +17,13 @@ archetypes:
   broodscale-combo:
     weight: 0.037
     avg_copies: 1.0
+  scapeshift-combo:
+    weight: 0.3333
+    avg_copies: 1.0
   the-rock:
     weight: 0.5
     avg_copies: 1.0
   goryo4:
     weight: 0.5
-    avg_copies: 1.0
-  unknown-1:
-    weight: 1.0
     avg_copies: 1.0
 ---

@@ -9,7 +9,7 @@ type: Artifact
 meta_presence: 0.0152
 archetypes:
   dimir-control:
-    weight: 0.0152
+    weight: 0.0149
     avg_copies: 1.0
   eldrazi-tron:
     weight: 0.2679

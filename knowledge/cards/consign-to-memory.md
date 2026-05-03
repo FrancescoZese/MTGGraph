@@ -9,9 +9,12 @@ set: mh3
 type: Instant
 meta_presence: 0.4795
 archetypes:
+  ruby-storm:
+    weight: 0.0227
+    avg_copies: 2.0
   dimir-control:
     weight: 1.0
-    avg_copies: 3.39
+    avg_copies: 3.4
   mono-blue-belcher:
     weight: 1.0
     avg_copies: 2.94
@@ -40,10 +43,10 @@ archetypes:
     weight: 0.5556
     avg_copies: 2.2
   reanimator:
-    weight: 0.8846
+    weight: 0.8519
     avg_copies: 2.87
   neoform-combo:
-    weight: 0.9333
+    weight: 0.9032
     avg_copies: 3.5
   mono-blue-tron:
     weight: 1.0
@@ -55,10 +58,10 @@ archetypes:
     weight: 0.8
     avg_copies: 2.75
   simic-ritual:
-    weight: 0.7895
+    weight: 0.775
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.9552
+    weight: 0.9559
     avg_copies: 3.11
   4c-omnath:
     weight: 0.25
@@ -83,9 +86,9 @@ archetypes:
     avg_copies: 3.0
   grixis-control:
     weight: 1.0
-    avg_copies: 3.8
+    avg_copies: 3.67
   eldrazi-breach:
-    weight: 1.0
+    weight: 0.75
     avg_copies: 3.67
   grixis-shadow:
     weight: 1.0
@@ -117,25 +120,7 @@ archetypes:
   4c-omnath9:
     weight: 1.0
     avg_copies: 4.0
-  unknown-4:
-    weight: 0.5
-    avg_copies: 3.0
   sultai-midrange:
     weight: 1.0
     avg_copies: 4.0
-  unknown-2:
-    weight: 0.5
-    avg_copies: 2.0
-  unknown-9:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-7:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-12:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-10:
-    weight: 1.0
-    avg_copies: 3.0
 ---

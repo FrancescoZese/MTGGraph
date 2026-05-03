@@ -15,7 +15,7 @@ archetypes:
   rakdos-aggro:
     weight: 0.5
     avg_copies: 3.67
-  unknown-9:
-    weight: 1.0
+  izzet-splinter-twin:
+    weight: 0.5
     avg_copies: 4.0
 ---

@@ -10,9 +10,6 @@ type: Enchantment Creature — Nymph Dryad
 meta_presence: 0.002
 archetypes:
   scapeshift-combo:
-    weight: 0.25
-    avg_copies: 4.0
-  unknown-1:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 4.0
 ---

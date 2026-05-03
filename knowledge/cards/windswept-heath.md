@@ -24,8 +24,8 @@ archetypes:
     weight: 0.04
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.1667
-    avg_copies: 1.8
+    weight: 0.1935
+    avg_copies: 2.17
   yawgmoth-combo:
     weight: 0.9474
     avg_copies: 2.94
@@ -55,7 +55,7 @@ archetypes:
     avg_copies: 2.0
   mono-green-ramp:
     weight: 1.0
-    avg_copies: 3.4
+    avg_copies: 3.33
   mono-green-stompy:
     weight: 1.0
     avg_copies: 4.0
@@ -74,10 +74,4 @@ archetypes:
   devoted-combo:
     weight: 1.0
     avg_copies: 4.0
-  unknown-6:
-    weight: 1.0
-    avg_copies: 4.0
-  unknown-11:
-    weight: 1.0
-    avg_copies: 3.0
 ---

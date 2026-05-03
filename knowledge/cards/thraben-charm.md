@@ -13,7 +13,7 @@ archetypes:
     weight: 0.9894
     avg_copies: 2.37
   dimir-control:
-    weight: 0.0303
+    weight: 0.0299
     avg_copies: 2.0
   jeskai-energy:
     weight: 0.0312

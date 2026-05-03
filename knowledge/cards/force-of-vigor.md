@@ -19,7 +19,7 @@ archetypes:
     weight: 0.4
     avg_copies: 2.2
   neoform-combo:
-    weight: 0.0333
+    weight: 0.0323
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
@@ -28,7 +28,7 @@ archetypes:
     weight: 0.2581
     avg_copies: 1.25
   simic-ritual:
-    weight: 0.7895
+    weight: 0.75
     avg_copies: 1.93
   4c-omnath:
     weight: 0.5
@@ -43,14 +43,14 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   mono-green-ramp:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 3.0
   mono-green-stompy:
     weight: 1.0
     avg_copies: 4.0
   scapeshift-combo:
     weight: 1.0
-    avg_copies: 2.75
+    avg_copies: 2.17
   the-rock:
     weight: 0.5
     avg_copies: 1.0
@@ -60,7 +60,4 @@ archetypes:
   devoted-combo:
     weight: 1.0
     avg_copies: 2.0
-  unknown-1:
-    weight: 1.0
-    avg_copies: 1.0
 ---

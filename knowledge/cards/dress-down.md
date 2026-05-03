@@ -10,7 +10,7 @@ type: Enchantment
 meta_presence: 0.0066
 archetypes:
   dimir-control:
-    weight: 0.0152
+    weight: 0.0149
     avg_copies: 3.0
   azorius-control:
     weight: 0.0769
@@ -22,13 +22,13 @@ archetypes:
     weight: 0.4
     avg_copies: 2.0
   simic-ritual:
-    weight: 0.0263
+    weight: 0.025
     avg_copies: 1.0
   grixis-control:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 1.0
   eldrazi-breach:
-    weight: 0.6667
+    weight: 0.5
     avg_copies: 1.0
   izzet-wizards:
     weight: 1.0

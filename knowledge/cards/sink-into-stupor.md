@@ -9,8 +9,8 @@ type: Instant // Land
 meta_presence: 0.2176
 archetypes:
   dimir-control:
-    weight: 0.5303
-    avg_copies: 1.89
+    weight: 0.5373
+    avg_copies: 1.86
   mono-blue-belcher:
     weight: 1.0
     avg_copies: 4.0
@@ -33,28 +33,28 @@ archetypes:
     weight: 0.1111
     avg_copies: 1.0
   reanimator:
-    weight: 0.6538
+    weight: 0.6296
     avg_copies: 1.0
   mono-blue-tron:
     weight: 1.0
     avg_copies: 1.6
   simic-ritual:
-    weight: 1.0
+    weight: 0.95
     avg_copies: 3.66
   izzet-prowess:
-    weight: 0.0149
+    weight: 0.0147
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.5769
     avg_copies: 2.07
   grixis-control:
-    weight: 0.4
-    avg_copies: 1.0
+    weight: 0.5
+    avg_copies: 1.33
   eldrazi-breach:
-    weight: 0.6667
+    weight: 0.5
     avg_copies: 1.0
   izzet-splinter-twin:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 2.0
   izzet-wizards:
     weight: 1.0
@@ -68,10 +68,4 @@ archetypes:
   izzet-murktide:
     weight: 1.0
     avg_copies: 1.0
-  unknown-12:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-10:
-    weight: 1.0
-    avg_copies: 2.0
 ---

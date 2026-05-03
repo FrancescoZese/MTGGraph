@@ -11,12 +11,9 @@ type: Legendary Creature — Mutant Ninja Turtle
 meta_presence: 0.0046
 archetypes:
   neoform-combo:
-    weight: 0.0333
+    weight: 0.0645
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.625
-    avg_copies: 1.0
-  unknown-6:
-    weight: 1.0
     avg_copies: 1.0
 ---

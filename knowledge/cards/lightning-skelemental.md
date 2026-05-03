@@ -11,9 +11,6 @@ type: Creature — Elemental Skeleton
 meta_presence: 0.0013
 archetypes:
   reanimator:
-    weight: 0.0385
-    avg_copies: 2.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 1.0
+    weight: 0.0741
+    avg_copies: 1.5
 ---

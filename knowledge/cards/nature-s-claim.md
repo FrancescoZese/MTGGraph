@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.041
 archetypes:
   ruby-storm:
-    weight: 0.0238
+    weight: 0.0227
     avg_copies: 4.0
   goryo:
     weight: 0.0333
@@ -19,7 +19,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   neoform-combo:
-    weight: 0.9333
+    weight: 0.9032
     avg_copies: 2.71
   eldrazi-ramp:
     weight: 0.3548

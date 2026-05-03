@@ -9,7 +9,7 @@ type: Land — Mountain Plains
 meta_presence: 0.3122
 archetypes:
   ruby-storm:
-    weight: 0.9762
+    weight: 0.9318
     avg_copies: 1.39
   boros-energy:
     weight: 1.0
@@ -27,8 +27,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.0588
-    avg_copies: 1.0
+    weight: 0.1111
+    avg_copies: 1.5
   4c-omnath:
     weight: 0.5
     avg_copies: 1.0
@@ -47,7 +47,4 @@ archetypes:
   soultrader-combo0:
     weight: 1.0
     avg_copies: 1.0
-  unknown-3:
-    weight: 1.0
-    avg_copies: 2.0
 ---

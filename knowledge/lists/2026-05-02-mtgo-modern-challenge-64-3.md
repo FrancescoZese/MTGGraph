@@ -1,5 +1,5 @@
 ---
-archetype: unknown-7
+archetype: izzet-prowess
 date: '2026-05-02'
 finish: 3rd
 pilot: HP_

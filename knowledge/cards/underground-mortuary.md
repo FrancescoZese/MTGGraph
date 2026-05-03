@@ -18,13 +18,13 @@ archetypes:
     weight: 0.68
     avg_copies: 1.29
   reanimator:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 1.11
   simic-ritual:
-    weight: 0.0526
+    weight: 0.1
     avg_copies: 1.0
   samwise-combo:
     weight: 0.6364
@@ -33,7 +33,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   mono-green-ramp:
-    weight: 0.8
+    weight: 0.6667
     avg_copies: 1.0
   mono-green-stompy:
     weight: 1.0
@@ -45,9 +45,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   soultrader-combo:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-4:
     weight: 1.0
     avg_copies: 1.0
   devoted-combo:

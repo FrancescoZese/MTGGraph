@@ -23,19 +23,16 @@ archetypes:
   eldrazi-ramp:
     weight: 0.8065
     avg_copies: 1.96
-  mono-green-ramp:
-    weight: 0.2
+  eldrazi-breach:
+    weight: 0.25
     avg_copies: 3.0
+  mono-green-ramp:
+    weight: 0.3333
+    avg_copies: 2.0
   scapeshift-combo:
-    weight: 0.75
+    weight: 0.5
     avg_copies: 3.0
   goryo4:
     weight: 0.5
     avg_copies: 3.0
-  unknown-5:
-    weight: 1.0
-    avg_copies: 3.0
-  unknown-11:
-    weight: 1.0
-    avg_copies: 1.0
 ---

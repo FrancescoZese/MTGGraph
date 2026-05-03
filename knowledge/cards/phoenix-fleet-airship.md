@@ -9,10 +9,10 @@ set: tla
 type: Artifact — Vehicle
 meta_presence: 0.0013
 archetypes:
+  simic-ritual:
+    weight: 0.025
+    avg_copies: 4.0
   soultrader-combo:
     weight: 0.3333
-    avg_copies: 4.0
-  unknown-4:
-    weight: 0.5
     avg_copies: 4.0
 ---

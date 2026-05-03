@@ -1,7 +1,7 @@
 ---
 archetypes:
   dimir-control:
-    weight: 0.0152
+    weight: 0.0149
     avg_copies: 3.0
   eldrazi-tron:
     weight: 0.9821
@@ -22,8 +22,8 @@ archetypes:
     weight: 0.1613
     avg_copies: 2.0
   simic-ritual:
-    weight: 0.4211
-    avg_copies: 1.75
+    weight: 0.425
+    avg_copies: 1.76
   4c-omnath:
     weight: 0.25
     avg_copies: 1.0
@@ -33,9 +33,6 @@ archetypes:
   goryo4:
     weight: 1.0
     avg_copies: 2.5
-  unknown-4:
-    weight: 0.5
-    avg_copies: 2.0
 cmc: 3
 colors: []
 image: https://cards.scryfall.io/normal/front/3/d/3d286cf6-3e16-4941-9326-1818b1e06d69.jpg?1562261132

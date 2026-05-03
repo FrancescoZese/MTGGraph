@@ -8,8 +8,11 @@ set: neo
 type: Legendary Land
 meta_presence: 0.1429
 archetypes:
+  ruby-storm:
+    weight: 0.0455
+    avg_copies: 1.0
   dimir-control:
-    weight: 0.5909
+    weight: 0.5821
     avg_copies: 1.0
   amulet-titan:
     weight: 1.0
@@ -36,10 +39,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.7105
+    weight: 0.675
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0149
+    weight: 0.0147
     avg_copies: 1.0
   4c-omnath:
     weight: 0.25
@@ -54,21 +57,15 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   grixis-control:
-    weight: 0.8
+    weight: 0.8333
     avg_copies: 1.0
   izzet-splinter-twin:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 1.0
   esper-midrange:
     weight: 1.0
     avg_copies: 1.0
   izzet-murktide:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-2:
-    weight: 1.0
-    avg_copies: 1.0
-  unknown-10:
     weight: 1.0
     avg_copies: 1.0
 ---

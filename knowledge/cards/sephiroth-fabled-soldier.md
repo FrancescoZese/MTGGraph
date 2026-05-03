@@ -9,13 +9,13 @@ type: Legendary Creature — Human Avatar Soldier // Legendary Creature — Ange
   Avatar
 meta_presence: 0.0026
 archetypes:
+  simic-ritual:
+    weight: 0.025
+    avg_copies: 1.0
   samwise-combo:
     weight: 0.1818
     avg_copies: 1.0
   soultrader-combo:
     weight: 0.3333
-    avg_copies: 1.0
-  unknown-4:
-    weight: 0.5
     avg_copies: 1.0
 ---

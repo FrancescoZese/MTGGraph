@@ -9,18 +9,15 @@ type: Land
 meta_presence: 0.0179
 archetypes:
   reanimator:
-    weight: 0.1154
-    avg_copies: 1.67
+    weight: 0.1481
+    avg_copies: 1.75
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 2.89
+  simic-ritual:
+    weight: 0.025
+    avg_copies: 1.0
   soultrader-combo:
     weight: 1.0
     avg_copies: 2.33
-  unknown-4:
-    weight: 0.5
-    avg_copies: 1.0
-  unknown-8:
-    weight: 1.0
-    avg_copies: 2.0
 ---
