@@ -7,7 +7,7 @@ name: Deceiver Exarch
 scryfall_id: 35437d86-6f92-480a-aa0c-c17c3943c00c
 set: cma
 type: Creature — Phyrexian Cleric
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   izzet-splinter-twin:
     weight: 0.5

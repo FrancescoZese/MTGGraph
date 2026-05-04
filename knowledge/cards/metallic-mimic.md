@@ -6,7 +6,7 @@ name: Metallic Mimic
 scryfall_id: 9ad98263-9fe6-4766-a9fb-4776e570c250
 set: inr
 type: Artifact Creature — Shapeshifter
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   hardened-scales:
     weight: 0.25

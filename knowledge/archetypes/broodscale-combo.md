@@ -2,12 +2,9 @@
 colors:
 - G
 name: Broodscale Combo
-meta_share: 0.0179
+meta_share: 0.0175
 list_count: 27
 top_cards:
-- name: Urza's Saga
-  weight: 1.0
-  avg_copies: 4.0
 - name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
@@ -17,10 +14,13 @@ top_cards:
 - name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
-- name: Eldrazi Temple
+- name: Grove of the Burnwillows
   weight: 1.0
   avg_copies: 4.0
-- name: Grove of the Burnwillows
+- name: Urza's Saga
+  weight: 1.0
+  avg_copies: 4.0
+- name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
 - name: Glaring Fleshraker
@@ -44,10 +44,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.43
-- name: Soul-Guide Lantern
+- name: Springleaf Drum
   weight: 1.0
   avg_copies: 1.0
-- name: Springleaf Drum
+- name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 1.0
 - name: Haywire Mite
@@ -59,13 +59,13 @@ top_cards:
 - name: Ancient Stirrings
   weight: 0.9259
   avg_copies: 3.96
-- name: Grafdigger's Cage
+- name: Gemstone Caverns
   weight: 0.8519
   avg_copies: 1.0
 - name: Pithing Needle
   weight: 0.8519
   avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Grafdigger's Cage
   weight: 0.8519
   avg_copies: 1.0
 - name: Cavern of Souls
@@ -95,10 +95,10 @@ top_cards:
 - name: Ugin's Labyrinth
   weight: 0.4815
   avg_copies: 4.0
-- name: Soulless Jailer
+- name: Pick Your Poison
   weight: 0.4815
   avg_copies: 1.85
-- name: Pick Your Poison
+- name: Soulless Jailer
   weight: 0.4815
   avg_copies: 1.85
 - name: Warping Wail
@@ -140,10 +140,10 @@ top_cards:
 - name: Fire Magic
   weight: 0.037
   avg_copies: 4.0
-- name: Heroic Intervention
+- name: Pyroclasm
   weight: 0.037
   avg_copies: 2.0
-- name: Pyroclasm
+- name: Heroic Intervention
   weight: 0.037
   avg_copies: 2.0
 - name: Bojuka Bog

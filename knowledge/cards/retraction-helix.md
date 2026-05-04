@@ -7,7 +7,7 @@ name: Retraction Helix
 scryfall_id: 7aa3fdd0-34d8-47b3-9753-d2929838732e
 set: a25
 type: Instant
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   izzet-artifacts:
     weight: 0.0385

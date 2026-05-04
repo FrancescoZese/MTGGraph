@@ -7,9 +7,9 @@ name: Combustion Technique
 scryfall_id: fdcca576-2ef2-44cc-9944-a92bd146444a
 set: tla
 type: Instant — Lesson
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   izzet-prowess:
-    weight: 0.0147
+    weight: 0.0141
     avg_copies: 1.0
 ---

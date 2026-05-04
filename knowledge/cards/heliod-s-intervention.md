@@ -7,7 +7,7 @@ name: Heliod's Intervention
 scryfall_id: 9519bb3a-bed3-48e8-93ae-9e9b2e7d646a
 set: otc
 type: Instant
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   goryo6:
     weight: 0.5

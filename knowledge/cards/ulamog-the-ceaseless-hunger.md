@@ -6,9 +6,9 @@ name: Ulamog, the Ceaseless Hunger
 scryfall_id: c74ae706-b3b3-4097-a387-6f6c38a9b603
 set: cmm
 type: Legendary Creature — Eldrazi
-meta_presence: 0.0192
+meta_presence: 0.0188
 archetypes:
   eldrazi-tron:
-    weight: 0.5179
+    weight: 0.5088
     avg_copies: 1.1
 ---

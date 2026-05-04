@@ -10,6 +10,6 @@ type: Sorcery // Sorcery
 meta_presence: 0.0013
 archetypes:
   boros-ponza:
-    weight: 0.0556
+    weight: 0.0541
     avg_copies: 4.0
 ---

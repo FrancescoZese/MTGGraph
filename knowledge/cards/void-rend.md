@@ -9,7 +9,7 @@ name: Void Rend
 scryfall_id: 2daab74d-d66b-4164-aa19-24e8d5536f7d
 set: snc
 type: Instant
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   esper-control:
     weight: 1.0

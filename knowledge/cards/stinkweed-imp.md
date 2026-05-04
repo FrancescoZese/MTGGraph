@@ -7,7 +7,7 @@ name: Stinkweed Imp
 scryfall_id: 2ab08d69-210b-4b06-88a2-45281a1a4e1e
 set: dvd
 type: Creature — Imp
-meta_presence: 0.0046
+meta_presence: 0.0052
 archetypes:
   dredge:
     weight: 1.0

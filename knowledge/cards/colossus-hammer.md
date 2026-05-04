@@ -6,7 +6,7 @@ name: Colossus Hammer
 scryfall_id: 897a134e-7e61-4fe1-bbae-23ef1fe5c0cf
 set: afc
 type: Artifact — Equipment
-meta_presence: 0.002
+meta_presence: 0.0019
 archetypes:
   hammer-time:
     weight: 1.0

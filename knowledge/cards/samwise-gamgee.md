@@ -8,7 +8,7 @@ name: Samwise Gamgee
 scryfall_id: a1b6f13e-63d0-46bf-aa57-23c2dbdf62dd
 set: ltr
 type: Legendary Creature — Halfling Peasant
-meta_presence: 0.0073
+meta_presence: 0.0071
 archetypes:
   samwise-combo:
     weight: 1.0

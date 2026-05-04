@@ -7,9 +7,9 @@ name: Darkblast
 scryfall_id: 0dcaba91-06d3-4492-9e07-36a1b858ca47
 set: rav
 type: Instant
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   dredge:
-    weight: 0.1429
+    weight: 0.125
     avg_copies: 3.0
 ---

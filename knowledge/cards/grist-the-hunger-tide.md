@@ -8,10 +8,10 @@ name: Grist, the Hunger Tide
 scryfall_id: 1925dc45-4dee-4772-aa16-3b4ca54be6c7
 set: dsc
 type: Legendary Planeswalker — Grist
-meta_presence: 0.0185
+meta_presence: 0.0188
 archetypes:
   goryo:
-    weight: 0.0167
+    weight: 0.0164
     avg_copies: 1.0
   reanimator:
     weight: 0.037
@@ -27,5 +27,8 @@ archetypes:
     avg_copies: 3.0
   soultrader-combo:
     weight: 0.3333
+    avg_copies: 1.0
+  unknown-4:
+    weight: 1.0
     avg_copies: 1.0
 ---

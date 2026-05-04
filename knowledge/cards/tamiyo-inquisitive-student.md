@@ -9,13 +9,13 @@ type: Legendary Creature — Moonfolk Wizard // Legendary Planeswalker — Tamiy
 meta_presence: 0.0661
 archetypes:
   dimir-control:
-    weight: 0.4925
+    weight: 0.4853
     avg_copies: 2.39
   mono-blue-belcher:
     weight: 0.1667
     avg_copies: 1.86
   jeskai-energy:
-    weight: 0.0521
+    weight: 0.0515
     avg_copies: 1.4
   azorius-control:
     weight: 0.0769
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.2
     avg_copies: 3.0
   affinity:
-    weight: 0.013
+    weight: 0.0127
     avg_copies: 2.0
   mill:
     weight: 0.2222
@@ -58,8 +58,11 @@ archetypes:
     avg_copies: 4.0
   4c-omnath9:
     weight: 1.0
-    avg_copies: 3.5
+    avg_copies: 3.33
   sultai-midrange:
     weight: 1.0
     avg_copies: 2.0
+  unknown-6:
+    weight: 1.0
+    avg_copies: 4.0
 ---

@@ -6,7 +6,7 @@ name: Sea Gate Restoration // Sea Gate, Reborn
 scryfall_id: 193071fe-180b-4d35-ba78-9c16675c29fc
 set: znr
 type: Sorcery // Land
-meta_presence: 0.0198
+meta_presence: 0.0194
 archetypes:
   mono-blue-belcher:
     weight: 1.0

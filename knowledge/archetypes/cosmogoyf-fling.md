@@ -4,22 +4,22 @@ colors:
 - R
 - G
 name: Cosmogoyf Fling
-meta_share: 0.0079
+meta_share: 0.0078
 list_count: 12
 top_cards:
+- name: Thud
+  weight: 1.0
+  avg_copies: 4.0
 - name: Chancellor of the Tangle
   weight: 1.0
   avg_copies: 4.0
-- name: Thud
+- name: Plunge into Darkness
   weight: 1.0
   avg_copies: 4.0
 - name: Gemstone Caverns
   weight: 1.0
   avg_copies: 4.0
 - name: Cosmogoyf
-  weight: 1.0
-  avg_copies: 4.0
-- name: Plunge into Darkness
   weight: 1.0
   avg_copies: 4.0
 - name: Spoils of the Vault
@@ -67,10 +67,10 @@ top_cards:
 - name: Darkbore Pathway
   weight: 0.75
   avg_copies: 1.78
-- name: Callous Sell-Sword
+- name: Forest
   weight: 0.75
   avg_copies: 1.0
-- name: Forest
+- name: Callous Sell-Sword
   weight: 0.75
   avg_copies: 1.0
 - name: Leyline of Sanctity

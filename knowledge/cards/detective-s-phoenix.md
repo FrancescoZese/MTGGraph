@@ -13,13 +13,13 @@ archetypes:
     weight: 0.037
     avg_copies: 2.0
   mardu-blink:
-    weight: 0.8889
+    weight: 0.8947
     avg_copies: 1.88
   hollow-one:
     weight: 1.0
     avg_copies: 3.95
   dredge:
-    weight: 0.1429
+    weight: 0.125
     avg_copies: 1.0
   rakdos-aggro:
     weight: 1.0

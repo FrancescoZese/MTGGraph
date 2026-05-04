@@ -7,16 +7,16 @@ name: Flusterstorm
 scryfall_id: f900eeb7-7c45-44bc-ad3a-0bbe594ecf50
 set: ima
 type: Instant
-meta_presence: 0.0225
+meta_presence: 0.0227
 archetypes:
   ruby-storm:
-    weight: 0.0682
+    weight: 0.0667
     avg_copies: 2.33
   mono-blue-belcher:
     weight: 0.5
     avg_copies: 1.73
   affinity:
-    weight: 0.0909
+    weight: 0.0955
     avg_copies: 1.0
   izzet-wizards:
     weight: 0.2

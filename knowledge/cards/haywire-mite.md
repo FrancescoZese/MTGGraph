@@ -9,17 +9,17 @@ type: Artifact Creature — Insect
 meta_presence: 0.0602
 archetypes:
   eldrazi-tron:
-    weight: 0.0714
+    weight: 0.0702
     avg_copies: 1.0
   goryo:
-    weight: 0.0167
+    weight: 0.0164
     avg_copies: 1.0
   hardened-scales:
     weight: 0.5
     avg_copies: 1.0
   affinity:
-    weight: 0.026
-    avg_copies: 1.0
+    weight: 0.0255
+    avg_copies: 1.17
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
@@ -52,5 +52,11 @@ archetypes:
     avg_copies: 1.0
   soultrader-combo:
     weight: 0.6667
+    avg_copies: 1.0
+  unknown-4:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-6:
+    weight: 1.0
     avg_copies: 1.0
 ---

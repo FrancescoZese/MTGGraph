@@ -6,17 +6,17 @@ name: Underground Mortuary
 scryfall_id: f6ca59cd-8779-4a84-a54b-e863b79c61f0
 set: mkm
 type: Land — Swamp Forest
-meta_presence: 0.043
+meta_presence: 0.0434
 archetypes:
   goryo:
-    weight: 0.0333
+    weight: 0.0328
     avg_copies: 2.0
   necrodominance:
     weight: 0.0455
     avg_copies: 1.0
   living-end:
-    weight: 0.68
-    avg_copies: 1.29
+    weight: 0.6923
+    avg_copies: 1.28
   reanimator:
     weight: 0.037
     avg_copies: 1.0
@@ -48,6 +48,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   devoted-combo:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-4:
     weight: 1.0
     avg_copies: 1.0
 ---

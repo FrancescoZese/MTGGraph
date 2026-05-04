@@ -6,9 +6,9 @@ name: Patchwork Automaton
 scryfall_id: 7a4e1580-dd26-4f4b-ac98-3e6fa7b879d5
 set: neo
 type: Artifact Creature — Construct
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   affinity:
-    weight: 0.0065
+    weight: 0.0064
     avg_copies: 2.0
 ---

@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: Mill
-meta_share: 0.006
+meta_share: 0.0058
 list_count: 9
 top_cards:
 - name: Archive Trap
@@ -48,10 +48,10 @@ top_cards:
 - name: Jace, the Perfected Mind
   weight: 0.8889
   avg_copies: 1.25
-- name: Undercity Sewers
+- name: Oboro, Palace in the Clouds
   weight: 0.8889
   avg_copies: 1.0
-- name: Oboro, Palace in the Clouds
+- name: Undercity Sewers
   weight: 0.8889
   avg_copies: 1.0
 - name: Tasha's Hideous Laughter
@@ -60,10 +60,10 @@ top_cards:
 - name: Scalding Tarn
   weight: 0.7778
   avg_copies: 1.14
-- name: Otawara, Soaring City
+- name: Shelldock Isle
   weight: 0.7778
   avg_copies: 1.0
-- name: Shelldock Isle
+- name: Otawara, Soaring City
   weight: 0.7778
   avg_copies: 1.0
 - name: Island
@@ -84,10 +84,10 @@ top_cards:
 - name: Ensnaring Bridge
   weight: 0.5556
   avg_copies: 2.0
-- name: Misty Rainforest
+- name: Glimpse the Unthinkable
   weight: 0.5556
   avg_copies: 1.8
-- name: Glimpse the Unthinkable
+- name: Misty Rainforest
   weight: 0.5556
   avg_copies: 1.8
 - name: Swamp
@@ -117,9 +117,6 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.3333
   avg_copies: 2.33
-- name: Mikokoro, Center of the Sea
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Baleful Mastery
   weight: 0.3333
   avg_copies: 1.0
@@ -132,13 +129,16 @@ top_cards:
 - name: Echoing Truth
   weight: 0.3333
   avg_copies: 1.0
+- name: Mikokoro, Center of the Sea
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Exhibition Tidecaller
   weight: 0.2222
   avg_copies: 3.5
-- name: Tamiyo, Inquisitive Student
+- name: Kitsune's Technique
   weight: 0.2222
   avg_copies: 2.0
-- name: Kitsune's Technique
+- name: Tamiyo, Inquisitive Student
   weight: 0.2222
   avg_copies: 2.0
 - name: Force of Negation
@@ -150,10 +150,10 @@ top_cards:
 - name: Long Goodbye
   weight: 0.2222
   avg_copies: 1.0
-- name: Trapmaker's Snare
+- name: Path to Exile
   weight: 0.1111
   avg_copies: 4.0
-- name: Path to Exile
+- name: Trapmaker's Snare
   weight: 0.1111
   avg_copies: 4.0
 - name: White Orchid Phantom
@@ -162,43 +162,43 @@ top_cards:
 - name: Erode
   weight: 0.1111
   avg_copies: 4.0
+- name: Flare of Denial
+  weight: 0.1111
+  avg_copies: 2.0
 - name: Vendetta
   weight: 0.1111
   avg_copies: 2.0
 - name: Chalice of the Void
   weight: 0.1111
   avg_copies: 2.0
-- name: Flare of Denial
-  weight: 0.1111
-  avg_copies: 2.0
-- name: Darkslick Shores
-  weight: 0.1111
-  avg_copies: 1.0
 - name: Nihil Spellbomb
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Plains
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Mindbreak Trap
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Illness in the Ranks
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Ravenous Trap
   weight: 0.1111
   avg_copies: 1.0
 - name: Subtlety
   weight: 0.1111
   avg_copies: 1.0
+- name: Darkslick Shores
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Mindbreak Trap
+  weight: 0.1111
+  avg_copies: 1.0
 - name: Meticulous Archive
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Ravenous Trap
   weight: 0.1111
   avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 0.1111
   avg_copies: 1.0
+- name: Plains
+  weight: 0.1111
+  avg_copies: 1.0
 - name: Sink into Stupor
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Illness in the Ranks
   weight: 0.1111
   avg_copies: 1.0
 ---

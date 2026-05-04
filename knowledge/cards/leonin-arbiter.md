@@ -10,6 +10,6 @@ type: Creature — Cat Cleric
 meta_presence: 0.0013
 archetypes:
   boros-ponza:
-    weight: 0.0556
+    weight: 0.0541
     avg_copies: 2.0
 ---

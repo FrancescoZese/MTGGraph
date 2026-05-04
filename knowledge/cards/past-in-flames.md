@@ -11,5 +11,5 @@ meta_presence: 0.0291
 archetypes:
   ruby-storm:
     weight: 1.0
-    avg_copies: 1.97
+    avg_copies: 1.95
 ---

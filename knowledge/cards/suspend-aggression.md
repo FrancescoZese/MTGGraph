@@ -8,9 +8,9 @@ name: Suspend Aggression
 scryfall_id: 135c0696-d86d-4e48-988c-5c218de451fc
 set: sos
 type: Instant
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   boros-ponza:
-    weight: 0.0278
+    weight: 0.027
     avg_copies: 1.0
 ---

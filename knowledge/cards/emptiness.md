@@ -11,9 +11,9 @@ type: Creature — Elemental Incarnation
 meta_presence: 0.0013
 archetypes:
   mardu-blink:
-    weight: 0.0556
+    weight: 0.0526
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0769
+    weight: 0.0714
     avg_copies: 1.0
 ---

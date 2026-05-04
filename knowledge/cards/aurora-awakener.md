@@ -7,9 +7,9 @@ name: Aurora Awakener
 scryfall_id: 913977c2-73f9-466b-bd01-827c1736e070
 set: ecl
 type: Creature — Giant Druid
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   domain-zoo:
-    weight: 0.0196
+    weight: 0.0189
     avg_copies: 4.0
 ---

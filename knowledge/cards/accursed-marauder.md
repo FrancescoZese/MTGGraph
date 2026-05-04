@@ -7,7 +7,7 @@ name: Accursed Marauder
 scryfall_id: 5da14d86-0780-4821-a799-96f64b377df4
 set: mh3
 type: Creature — Zombie Warrior
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   reanimator:
     weight: 0.037

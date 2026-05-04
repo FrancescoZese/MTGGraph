@@ -6,7 +6,7 @@ name: Scrapyard Recombiner
 scryfall_id: 8945f5e0-c143-47ca-910e-32ad9ac34487
 set: mh1
 type: Artifact Creature — Construct
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   hardened-scales:
     weight: 0.25

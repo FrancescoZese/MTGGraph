@@ -10,6 +10,6 @@ type: Instant
 meta_presence: 0.0026
 archetypes:
   dredge:
-    weight: 0.5714
+    weight: 0.5
     avg_copies: 1.75
 ---

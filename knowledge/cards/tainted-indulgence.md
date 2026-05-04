@@ -8,9 +8,12 @@ name: Tainted Indulgence
 scryfall_id: 347d883c-84ab-4547-813b-f4385366fbce
 set: snc
 type: Instant
-meta_presence: 0.0099
+meta_presence: 0.0104
 archetypes:
   goryo:
-    weight: 0.25
+    weight: 0.2459
     avg_copies: 1.33
+  unknown-5:
+    weight: 1.0
+    avg_copies: 4.0
 ---

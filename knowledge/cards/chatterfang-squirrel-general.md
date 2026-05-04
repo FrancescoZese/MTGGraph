@@ -7,7 +7,7 @@ name: Chatterfang, Squirrel General
 scryfall_id: 1785cf85-1ac0-4246-9b89-1a8221a8e1b2
 set: mh2
 type: Legendary Creature — Squirrel Warrior
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   selesnya-midrange:
     weight: 1.0

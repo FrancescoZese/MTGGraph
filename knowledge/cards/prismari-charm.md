@@ -14,12 +14,12 @@ archetypes:
     weight: 0.04
     avg_copies: 2.0
   affinity:
-    weight: 0.0065
+    weight: 0.0064
     avg_copies: 2.0
   izzet-wizards:
     weight: 0.2
     avg_copies: 2.0
   goryo1:
-    weight: 0.1
+    weight: 0.0833
     avg_copies: 2.0
 ---

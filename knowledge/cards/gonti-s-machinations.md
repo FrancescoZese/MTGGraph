@@ -7,7 +7,7 @@ name: Gonti's Machinations
 scryfall_id: 6c97f5a9-6e04-45c3-aa8d-dcf0fd81d5b9
 set: aer
 type: Enchantment
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   necrodominance:
     weight: 0.0455

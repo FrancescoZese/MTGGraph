@@ -3,7 +3,7 @@ colors:
 - B
 - G
 name: Yawgmoth Combo
-meta_share: 0.0126
+meta_share: 0.0123
 list_count: 19
 top_cards:
 - name: Verdant Catacombs
@@ -30,10 +30,10 @@ top_cards:
 - name: Walking Ballista
   weight: 1.0
   avg_copies: 2.95
-- name: Spymaster's Vault
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 2.89
-- name: Green Sun's Zenith
+- name: Spymaster's Vault
   weight: 1.0
   avg_copies: 2.89
 - name: Fatal Push
@@ -66,19 +66,19 @@ top_cards:
 - name: Grist, the Hunger Tide
   weight: 1.0
   avg_copies: 1.07
-- name: Soulless Jailer
-  weight: 1.0
-  avg_copies: 1.0
 - name: Strangleroot Geist
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
 - name: Endurance
   weight: 1.0
   avg_copies: 1.0
-- name: Dryad Arbor
+- name: Swamp
+  weight: 1.0
+  avg_copies: 1.0
+- name: Soulless Jailer
   weight: 1.0
   avg_copies: 1.0
 - name: Windswept Heath
@@ -117,19 +117,19 @@ top_cards:
 - name: Wooded Foothills
   weight: 0.4737
   avg_copies: 1.11
-- name: Haywire Mite
+- name: Ignoble Hierarch
   weight: 0.3158
   avg_copies: 1.0
-- name: Ignoble Hierarch
+- name: Haywire Mite
   weight: 0.3158
   avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.2632
   avg_copies: 1.0
-- name: Hapatra, Vizier of Poisons
+- name: Kraul Harpooner
   weight: 0.1579
   avg_copies: 1.0
-- name: Kraul Harpooner
+- name: Hapatra, Vizier of Poisons
   weight: 0.1579
   avg_copies: 1.0
 - name: Assassin's Trophy

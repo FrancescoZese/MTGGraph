@@ -6,19 +6,19 @@ name: Damping Sphere
 scryfall_id: 550860b4-887d-423a-8add-816c2a8da615
 set: dmr
 type: Artifact
-meta_presence: 0.3313
+meta_presence: 0.3329
 archetypes:
   boros-energy:
-    weight: 0.2827
-    avg_copies: 1.46
+    weight: 0.2892
+    avg_copies: 1.45
   dimir-control:
-    weight: 0.1791
+    weight: 0.1912
     avg_copies: 1.08
   jeskai-energy:
-    weight: 0.3229
+    weight: 0.3196
     avg_copies: 1.45
   goryo:
-    weight: 0.1333
+    weight: 0.1311
     avg_copies: 1.88
   hardened-scales:
     weight: 1.0
@@ -27,17 +27,17 @@ archetypes:
     weight: 0.8182
     avg_copies: 2.06
   living-end:
-    weight: 0.56
+    weight: 0.5769
     avg_copies: 1.07
   jeskai-control:
     weight: 0.28
     avg_copies: 1.71
   affinity:
-    weight: 0.987
-    avg_copies: 2.5
+    weight: 0.9809
+    avg_copies: 2.51
   domain-zoo:
-    weight: 0.8627
-    avg_copies: 1.61
+    weight: 0.8679
+    avg_copies: 1.63
   reanimator:
     weight: 0.6667
     avg_copies: 1.94
@@ -45,8 +45,8 @@ archetypes:
     weight: 0.2857
     avg_copies: 2.0
   mardu-blink:
-    weight: 0.8889
-    avg_copies: 1.75
+    weight: 0.8947
+    avg_copies: 1.82
   hammer-time:
     weight: 0.3333
     avg_copies: 2.0
@@ -67,7 +67,7 @@ archetypes:
     avg_copies: 2.0
   esper-blink:
     weight: 1.0
-    avg_copies: 2.77
+    avg_copies: 2.71
   broodscale-combo:
     weight: 0.5185
     avg_copies: 2.0
@@ -75,7 +75,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.25
   dredge:
-    weight: 0.1429
+    weight: 0.125
     avg_copies: 2.0
   elves:
     weight: 1.0
@@ -111,7 +111,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.6
+    weight: 0.5
     avg_copies: 2.0
   goryo4:
     weight: 0.5
@@ -120,6 +120,12 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   devoted-combo:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-4:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-5:
     weight: 1.0
     avg_copies: 3.0
 ---

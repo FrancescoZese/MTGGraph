@@ -7,7 +7,7 @@ name: Day of Judgment
 scryfall_id: 96e84bdc-8a9a-4c58-ba8b-9f052fd60069
 set: fdn
 type: Sorcery
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   goryo6:
     weight: 0.5

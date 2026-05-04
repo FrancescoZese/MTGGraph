@@ -7,7 +7,7 @@ name: Steel Leaf Champion
 scryfall_id: 24d8a688-79d4-49b9-ab0c-c7f5c9b551f4
 set: dom
 type: Creature — Elf Knight
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   mono-green-stompy:
     weight: 1.0

@@ -8,7 +8,7 @@ name: Risen Reef
 scryfall_id: 715ad2ff-7eae-42f1-bb3c-a3afc2c9b82a
 set: ecc
 type: Creature — Elemental
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   4c-omnath:
     weight: 0.25

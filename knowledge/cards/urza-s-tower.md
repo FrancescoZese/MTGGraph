@@ -6,10 +6,10 @@ name: Urza's Tower
 scryfall_id: 1e9f09b3-dd2d-4ba9-a57e-4f3c1793f752
 set: cmm
 type: Land — Urza's Tower
-meta_presence: 0.0397
+meta_presence: 0.0395
 archetypes:
   eldrazi-tron:
-    weight: 0.9821
+    weight: 0.9825
     avg_copies: 3.95
   mono-blue-tron:
     weight: 1.0

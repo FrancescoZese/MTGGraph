@@ -7,7 +7,7 @@ name: Eidolon of Rhetoric
 scryfall_id: c3bc8b9e-4d22-41ba-b593-d383fd301ef9
 set: jou
 type: Enchantment Creature — Spirit
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   samwise-combo:
     weight: 0.0909

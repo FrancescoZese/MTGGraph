@@ -41,4 +41,10 @@ archetypes:
   goryo7:
     weight: 1.0
     avg_copies: 4.0
+  unknown-4:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-6:
+    weight: 1.0
+    avg_copies: 2.0
 ---

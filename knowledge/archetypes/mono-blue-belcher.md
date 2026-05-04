@@ -2,19 +2,19 @@
 colors:
 - U
 name: Mono Blue Belcher
-meta_share: 0.0198
+meta_share: 0.0194
 list_count: 30
 top_cards:
-- name: Lotus Bloom
+- name: Goblin Charbelcher
   weight: 1.0
   avg_copies: 4.0
 - name: Whir of Invention
   weight: 1.0
   avg_copies: 4.0
-- name: Goblin Charbelcher
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 4.0
-- name: Sink into Stupor
+- name: Lotus Bloom
   weight: 1.0
   avg_copies: 4.0
 - name: Disrupting Shoal
@@ -92,10 +92,10 @@ top_cards:
 - name: Unable to Scream
   weight: 0.4333
   avg_copies: 1.46
-- name: Grafdigger's Cage
+- name: Spell Pierce
   weight: 0.3
   avg_copies: 1.0
-- name: Spell Pierce
+- name: Grafdigger's Cage
   weight: 0.3
   avg_copies: 1.0
 - name: Counterspell
@@ -122,25 +122,25 @@ top_cards:
 - name: Dusk Rose Reliquary
   weight: 0.1333
   avg_copies: 1.0
-- name: Step Through
-  weight: 0.0667
-  avg_copies: 1.0
 - name: Talisman of Progress
   weight: 0.0667
   avg_copies: 1.0
+- name: Step Through
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Witch Enchanter
+  weight: 0.0333
+  avg_copies: 1.0
 - name: Displacement Wave
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Hope of Ghirapur
   weight: 0.0333
   avg_copies: 1.0
 - name: Portable Hole
   weight: 0.0333
   avg_copies: 1.0
 - name: Surgical Extraction
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Hope of Ghirapur
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Witch Enchanter
   weight: 0.0333
   avg_copies: 1.0
 ---

@@ -7,9 +7,9 @@ name: Unburial Rites
 scryfall_id: 7023aa24-ef49-4973-8978-7d0d3af719d3
 set: 2x2
 type: Sorcery
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   goryo:
-    weight: 0.0167
+    weight: 0.0164
     avg_copies: 1.0
 ---

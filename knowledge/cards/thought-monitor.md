@@ -7,9 +7,9 @@ name: Thought Monitor
 scryfall_id: 18a6ea89-417c-4ee0-a410-8a0067b92967
 set: eoc
 type: Artifact Creature — Construct
-meta_presence: 0.0013
+meta_presence: 0.0019
 archetypes:
   affinity:
-    weight: 0.013
+    weight: 0.0191
     avg_copies: 1.0
 ---

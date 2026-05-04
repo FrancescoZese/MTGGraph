@@ -33,31 +33,25 @@ top_cards:
 - name: Endurance
   weight: 1.0
   avg_copies: 1.5
-- name: Swamp
-  weight: 1.0
-  avg_copies: 1.0
 - name: Misty Rainforest
   weight: 1.0
   avg_copies: 1.0
+- name: Swamp
+  weight: 1.0
+  avg_copies: 1.0
+- name: Springheart Nantuko
+  weight: 0.5
+  avg_copies: 4.0
 - name: Badgermole Cub
   weight: 0.5
   avg_copies: 4.0
-- name: Witherbloom Command
-  weight: 0.5
-  avg_copies: 4.0
-- name: Urza's Saga
-  weight: 0.5
-  avg_copies: 4.0
-- name: Sheoldred's Edict
-  weight: 0.5
-  avg_copies: 4.0
-- name: Nethergoyf
-  weight: 0.5
-  avg_copies: 4.0
-- name: Windswept Heath
+- name: Green Sun's Zenith
   weight: 0.5
   avg_copies: 4.0
 - name: Ouroboroid
+  weight: 0.5
+  avg_copies: 4.0
+- name: Nethergoyf
   weight: 0.5
   avg_copies: 4.0
 - name: Elvish Reclaimer
@@ -66,46 +60,52 @@ top_cards:
 - name: Malevolent Rumble
   weight: 0.5
   avg_copies: 4.0
-- name: Springheart Nantuko
+- name: Urza's Saga
   weight: 0.5
   avg_copies: 4.0
-- name: Green Sun's Zenith
+- name: Sheoldred's Edict
   weight: 0.5
   avg_copies: 4.0
-- name: Grist, the Hunger Tide
+- name: Windswept Heath
+  weight: 0.5
+  avg_copies: 4.0
+- name: Witherbloom Command
+  weight: 0.5
+  avg_copies: 4.0
+- name: Fatal Push
   weight: 0.5
   avg_copies: 3.0
 - name: Break the Ice
   weight: 0.5
   avg_copies: 3.0
-- name: Fatal Push
+- name: Grist, the Hunger Tide
   weight: 0.5
   avg_copies: 3.0
-- name: Damping Sphere
-  weight: 0.5
-  avg_copies: 2.0
 - name: Chthonian Nightmare
   weight: 0.5
   avg_copies: 2.0
-- name: Overlord of the Balemurk
-  weight: 0.5
-  avg_copies: 2.0
-- name: Pick Your Poison
+- name: Damping Sphere
   weight: 0.5
   avg_copies: 2.0
 - name: Strategic Betrayal
   weight: 0.5
   avg_copies: 2.0
+- name: Witherbloom Charm
+  weight: 0.5
+  avg_copies: 2.0
 - name: Ghost Quarter
+  weight: 0.5
+  avg_copies: 2.0
+- name: Overlord of the Balemurk
   weight: 0.5
   avg_copies: 2.0
 - name: Vicious Rivalry
   weight: 0.5
   avg_copies: 2.0
-- name: Witherbloom Charm
+- name: Ashiok, Dream Render
   weight: 0.5
   avg_copies: 2.0
-- name: Ashiok, Dream Render
+- name: Pick Your Poison
   weight: 0.5
   avg_copies: 2.0
 - name: Boseiju, Who Endures
@@ -117,40 +117,22 @@ top_cards:
 - name: Bojuka Bog
   weight: 0.5
   avg_copies: 1.0
-- name: Bloodstained Mire
-  weight: 0.5
-  avg_copies: 1.0
 - name: Delighted Halfling
-  weight: 0.5
-  avg_copies: 1.0
-- name: Castle Locthwain
-  weight: 0.5
-  avg_copies: 1.0
-- name: Cling to Dust
-  weight: 0.5
-  avg_copies: 1.0
-- name: Marsh Flats
   weight: 0.5
   avg_copies: 1.0
 - name: Polluted Delta
   weight: 0.5
   avg_copies: 1.0
-- name: Haywire Mite
-  weight: 0.5
-  avg_copies: 1.0
-- name: Pithing Needle
-  weight: 0.5
-  avg_copies: 1.0
-- name: Collector Ouphe
+- name: Toxic Deluge
   weight: 0.5
   avg_copies: 1.0
 - name: Shadowspear
   weight: 0.5
   avg_copies: 1.0
-- name: Chomping Changeling
+- name: Mosswood Dreadknight
   weight: 0.5
   avg_copies: 1.0
-- name: Mosswood Dreadknight
+- name: Chomping Changeling
   weight: 0.5
   avg_copies: 1.0
 - name: Icetill Explorer
@@ -159,10 +141,28 @@ top_cards:
 - name: Dryad Arbor
   weight: 0.5
   avg_copies: 1.0
-- name: Toxic Deluge
+- name: Cling to Dust
+  weight: 0.5
+  avg_copies: 1.0
+- name: Castle Locthwain
+  weight: 0.5
+  avg_copies: 1.0
+- name: Pithing Needle
+  weight: 0.5
+  avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 0.5
+  avg_copies: 1.0
+- name: Marsh Flats
+  weight: 0.5
+  avg_copies: 1.0
+- name: Haywire Mite
   weight: 0.5
   avg_copies: 1.0
 - name: Force of Vigor
+  weight: 0.5
+  avg_copies: 1.0
+- name: Bloodstained Mire
   weight: 0.5
   avg_copies: 1.0
 ---

@@ -8,9 +8,9 @@ name: Sphinx's Revelation
 scryfall_id: 6350b216-4a11-4e33-89ac-ffaf6315ab7d
 set: plst
 type: Instant
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   dimir-control:
-    weight: 0.0149
+    weight: 0.0147
     avg_copies: 1.0
 ---

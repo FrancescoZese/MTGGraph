@@ -10,18 +10,21 @@ type: Instant
 meta_presence: 0.1898
 archetypes:
   boros-energy:
-    weight: 0.9894
+    weight: 0.9895
     avg_copies: 2.37
   dimir-control:
-    weight: 0.0299
+    weight: 0.0294
     avg_copies: 2.0
   jeskai-energy:
-    weight: 0.0312
-    avg_copies: 1.33
+    weight: 0.0412
+    avg_copies: 1.25
   jeskai-control:
     weight: 0.04
     avg_copies: 1.0
   selesnya-midrange:
     weight: 1.0
     avg_copies: 2.0
+  unknown-3:
+    weight: 1.0
+    avg_copies: 1.0
 ---

@@ -7,7 +7,7 @@ name: Soul Shatter
 scryfall_id: 2c2fb07b-0f70-403b-be8b-b5217f12e671
 set: znr
 type: Instant
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   simic-ritual:
     weight: 0.025

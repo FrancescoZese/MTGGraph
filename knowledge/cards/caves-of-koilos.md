@@ -6,9 +6,9 @@ name: Caves of Koilos
 scryfall_id: a8a57915-5226-4d3c-ae8e-a55c50f3c131
 set: soc
 type: Land
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   eldrazi-tron:
-    weight: 0.0179
+    weight: 0.0175
     avg_copies: 2.0
 ---

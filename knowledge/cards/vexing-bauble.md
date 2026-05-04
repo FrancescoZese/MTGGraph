@@ -6,31 +6,31 @@ name: Vexing Bauble
 scryfall_id: 29f11089-658f-42e6-aeb0-09b512ad2479
 set: mh3
 type: Artifact
-meta_presence: 0.3168
+meta_presence: 0.3167
 archetypes:
   ruby-storm:
-    weight: 0.0909
+    weight: 0.0889
     avg_copies: 2.0
   boros-energy:
-    weight: 0.3534
-    avg_copies: 1.52
+    weight: 0.3589
+    avg_copies: 1.5
   eldrazi-tron:
-    weight: 0.6429
+    weight: 0.6316
     avg_copies: 1.08
   amulet-titan:
-    weight: 0.6349
-    avg_copies: 1.22
+    weight: 0.6406
+    avg_copies: 1.23
   goryo:
-    weight: 0.0167
+    weight: 0.0164
     avg_copies: 2.0
   hardened-scales:
     weight: 0.75
     avg_copies: 1.25
   affinity:
-    weight: 0.6558
+    weight: 0.6561
     avg_copies: 1.15
   domain-zoo:
-    weight: 0.0196
+    weight: 0.0189
     avg_copies: 1.0
   reanimator:
     weight: 0.2222
@@ -45,7 +45,7 @@ archetypes:
     weight: 0.8095
     avg_copies: 2.24
   boros-ponza:
-    weight: 0.8889
+    weight: 0.8919
     avg_copies: 2.12
   kethis-combo:
     weight: 1.0
@@ -60,7 +60,7 @@ archetypes:
     weight: 0.025
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0882
+    weight: 0.0845
     avg_copies: 2.0
   samwise-combo:
     weight: 0.6364
@@ -72,7 +72,7 @@ archetypes:
     weight: 0.75
     avg_copies: 1.33
   dredge:
-    weight: 0.2857
+    weight: 0.25
     avg_copies: 2.0
   izzet-artifacts:
     weight: 0.4231
@@ -108,12 +108,18 @@ archetypes:
     weight: 1.0
     avg_copies: 1.67
   goryo1:
-    weight: 0.2
-    avg_copies: 1.5
+    weight: 0.25
+    avg_copies: 1.33
   goryo4:
     weight: 0.5
     avg_copies: 3.0
   soultrader-combo:
     weight: 0.3333
     avg_copies: 2.0
+  unknown-4:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-1:
+    weight: 1.0
+    avg_copies: 4.0
 ---

@@ -11,6 +11,6 @@ type: Legendary Planeswalker — Ajani
 meta_presence: 0.0013
 archetypes:
   jeskai-energy:
-    weight: 0.0208
+    weight: 0.0206
     avg_copies: 1.0
 ---

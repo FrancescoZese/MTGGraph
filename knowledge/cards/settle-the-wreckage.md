@@ -7,9 +7,9 @@ name: Settle the Wreckage
 scryfall_id: 9cbd346e-098a-4cf6-a72f-468376fd2e8f
 set: xln
 type: Instant
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   boros-ponza:
-    weight: 0.0278
+    weight: 0.027
     avg_copies: 2.0
 ---
