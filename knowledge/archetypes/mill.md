@@ -3,16 +3,16 @@ colors:
 - U
 - B
 name: Mill
-meta_share: 0.0058
+meta_share: 0.0056
 list_count: 9
 top_cards:
+- name: Hedron Crab
+  weight: 1.0
+  avg_copies: 4.0
 - name: Archive Trap
   weight: 1.0
   avg_copies: 4.0
 - name: Ruin Crab
-  weight: 1.0
-  avg_copies: 4.0
-- name: Hedron Crab
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -48,10 +48,10 @@ top_cards:
 - name: Jace, the Perfected Mind
   weight: 0.8889
   avg_copies: 1.25
-- name: Oboro, Palace in the Clouds
+- name: Undercity Sewers
   weight: 0.8889
   avg_copies: 1.0
-- name: Undercity Sewers
+- name: Oboro, Palace in the Clouds
   weight: 0.8889
   avg_copies: 1.0
 - name: Tasha's Hideous Laughter
@@ -60,10 +60,10 @@ top_cards:
 - name: Scalding Tarn
   weight: 0.7778
   avg_copies: 1.14
-- name: Shelldock Isle
+- name: Otawara, Soaring City
   weight: 0.7778
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Shelldock Isle
   weight: 0.7778
   avg_copies: 1.0
 - name: Island
@@ -84,10 +84,10 @@ top_cards:
 - name: Ensnaring Bridge
   weight: 0.5556
   avg_copies: 2.0
-- name: Glimpse the Unthinkable
+- name: Misty Rainforest
   weight: 0.5556
   avg_copies: 1.8
-- name: Misty Rainforest
+- name: Glimpse the Unthinkable
   weight: 0.5556
   avg_copies: 1.8
 - name: Swamp
@@ -105,31 +105,31 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 0.4444
   avg_copies: 1.33
+- name: Crypt Incursion
+  weight: 0.4444
+  avg_copies: 1.0
 - name: Murderous Cut
   weight: 0.4444
   avg_copies: 1.0
 - name: The Meathook Massacre
   weight: 0.4444
   avg_copies: 1.0
-- name: Crypt Incursion
-  weight: 0.4444
-  avg_copies: 1.0
 - name: Mystical Dispute
   weight: 0.3333
   avg_copies: 2.33
-- name: Baleful Mastery
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Cephalid Coliseum
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Damnation
+- name: Mikokoro, Center of the Sea
   weight: 0.3333
   avg_copies: 1.0
 - name: Echoing Truth
   weight: 0.3333
   avg_copies: 1.0
-- name: Mikokoro, Center of the Sea
+- name: Cephalid Coliseum
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Baleful Mastery
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Damnation
   weight: 0.3333
   avg_copies: 1.0
 - name: Exhibition Tidecaller
@@ -150,7 +150,7 @@ top_cards:
 - name: Long Goodbye
   weight: 0.2222
   avg_copies: 1.0
-- name: Path to Exile
+- name: Erode
   weight: 0.1111
   avg_copies: 4.0
 - name: Trapmaker's Snare
@@ -159,7 +159,7 @@ top_cards:
 - name: White Orchid Phantom
   weight: 0.1111
   avg_copies: 4.0
-- name: Erode
+- name: Path to Exile
   weight: 0.1111
   avg_copies: 4.0
 - name: Flare of Denial
@@ -171,34 +171,34 @@ top_cards:
 - name: Chalice of the Void
   weight: 0.1111
   avg_copies: 2.0
-- name: Nihil Spellbomb
-  weight: 0.1111
-  avg_copies: 1.0
 - name: Subtlety
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Darkslick Shores
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Mindbreak Trap
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Ravenous Trap
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Plains
   weight: 0.1111
   avg_copies: 1.0
 - name: Sink into Stupor
   weight: 0.1111
   avg_copies: 1.0
+- name: Plains
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Nihil Spellbomb
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Mindbreak Trap
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Darkslick Shores
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 0.1111
+  avg_copies: 1.0
 - name: Illness in the Ranks
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Ravenous Trap
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Meticulous Archive
   weight: 0.1111
   avg_copies: 1.0
 ---

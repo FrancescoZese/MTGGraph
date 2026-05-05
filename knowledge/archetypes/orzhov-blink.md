@@ -3,13 +3,13 @@ colors:
 - W
 - B
 name: Orzhov Blink
-meta_share: 0.0026
+meta_share: 0.0025
 list_count: 4
 top_cards:
-- name: Overlord of the Balemurk
+- name: Witch Enchanter
   weight: 1.0
   avg_copies: 4.0
-- name: Witch Enchanter
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
@@ -24,40 +24,40 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.5
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 3.25
 - name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.25
-- name: Emperor of Bones
+- name: Fatal Push
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 3.25
 - name: Ephemerate
   weight: 1.0
   avg_copies: 3.0
-- name: Wrath of the Skies
+- name: Emperor of Bones
   weight: 1.0
-  avg_copies: 2.75
+  avg_copies: 3.0
 - name: Flickerwisp
   weight: 1.0
   avg_copies: 2.75
-- name: Damping Sphere
+- name: Wrath of the Skies
   weight: 1.0
-  avg_copies: 2.25
+  avg_copies: 2.75
 - name: Clarion Conqueror
   weight: 1.0
   avg_copies: 2.25
 - name: Plains
   weight: 1.0
   avg_copies: 2.25
+- name: Damping Sphere
+  weight: 1.0
+  avg_copies: 2.25
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 2.25
-- name: High Noon
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 2.0
-- name: Shadowy Backstreet
+- name: High Noon
   weight: 1.0
   avg_copies: 2.0
 - name: Boggart Trawler
@@ -72,10 +72,10 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Dawnbringer Cleric
+- name: Sheoldred's Edict
   weight: 0.75
   avg_copies: 2.0
-- name: Sheoldred's Edict
+- name: Dawnbringer Cleric
   weight: 0.75
   avg_copies: 2.0
 - name: Prismatic Ending
@@ -108,10 +108,10 @@ top_cards:
 - name: Relic of Progenitus
   weight: 0.25
   avg_copies: 4.0
-- name: Eiganjo, Seat of the Empire
+- name: Raucous Theater
   weight: 0.25
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Eiganjo, Seat of the Empire
   weight: 0.25
   avg_copies: 1.0
 ---

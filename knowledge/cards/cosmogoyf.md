@@ -8,7 +8,7 @@ name: Cosmogoyf
 scryfall_id: 5e07d3c6-60a5-44d1-a926-6414be85bd50
 set: eoe
 type: Creature — Elemental Lhurgoyf
-meta_presence: 0.0078
+meta_presence: 0.0075
 archetypes:
   cosmogoyf-fling:
     weight: 1.0

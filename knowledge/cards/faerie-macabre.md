@@ -10,6 +10,6 @@ type: Creature — Faerie Rogue
 meta_presence: 0.0006
 archetypes:
   mardu-blink:
-    weight: 0.0526
+    weight: 0.05
     avg_copies: 1.0
 ---

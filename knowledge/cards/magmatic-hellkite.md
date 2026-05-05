@@ -7,12 +7,15 @@ name: Magmatic Hellkite
 scryfall_id: b3b3aec8-d931-4c7f-86b5-1e7dfb717b59
 set: tdm
 type: Creature — Dragon
-meta_presence: 0.0039
+meta_presence: 0.0044
 archetypes:
   boros-ponza:
     weight: 0.1081
     avg_copies: 4.0
   4c-omnath:
     weight: 0.5
+    avg_copies: 4.0
+  unknown-13:
+    weight: 1.0
     avg_copies: 4.0
 ---

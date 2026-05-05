@@ -7,7 +7,7 @@ name: Nourishing Shoal
 scryfall_id: 9472cd09-0b0a-49c9-ab10-ec5b73ddb74b
 set: uma
 type: Instant — Arcane
-meta_presence: 0.0181
+meta_presence: 0.0174
 archetypes:
   neoform-combo:
     weight: 0.9032

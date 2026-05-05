@@ -9,14 +9,14 @@ type: Artifact
 meta_presence: 0.0622
 archetypes:
   boros-energy:
-    weight: 0.0314
+    weight: 0.0301
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.0103
+    weight: 0.0099
     avg_copies: 2.0
   eldrazi-tron:
-    weight: 0.9298
-    avg_copies: 1.49
+    weight: 0.9322
+    avg_copies: 1.51
   necrodominance:
     weight: 0.0455
     avg_copies: 2.0
@@ -30,8 +30,8 @@ archetypes:
     weight: 0.2
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.6774
-    avg_copies: 1.76
+    weight: 0.6875
+    avg_copies: 1.77
   elves:
     weight: 1.0
     avg_copies: 1.0
@@ -41,4 +41,7 @@ archetypes:
   goryo4:
     weight: 1.0
     avg_copies: 2.5
+  unknown-12:
+    weight: 1.0
+    avg_copies: 1.0
 ---

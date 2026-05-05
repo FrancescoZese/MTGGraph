@@ -9,6 +9,6 @@ type: Land — Desert
 meta_presence: 0.0006
 archetypes:
   goryo6:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 2.0
 ---

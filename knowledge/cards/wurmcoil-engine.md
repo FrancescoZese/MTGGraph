@@ -6,7 +6,7 @@ name: Wurmcoil Engine
 scryfall_id: 5d275f04-cc60-4e3f-95cc-3d02bc916b82
 set: 2xm
 type: Artifact Creature — Phyrexian Wurm
-meta_presence: 0.0013
+meta_presence: 0.0012
 archetypes:
   mono-blue-tron:
     weight: 0.4

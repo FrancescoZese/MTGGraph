@@ -6,12 +6,12 @@ name: Sunken Ruins
 scryfall_id: 9181d30d-4f8e-421f-89b8-149ed8000fb2
 set: 2xm
 type: Land
-meta_presence: 0.0013
+meta_presence: 0.0012
 archetypes:
   dimir-control:
-    weight: 0.0147
+    weight: 0.0143
     avg_copies: 1.0
   living-end:
-    weight: 0.0385
+    weight: 0.0345
     avg_copies: 1.0
 ---

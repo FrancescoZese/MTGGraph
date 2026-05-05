@@ -9,13 +9,13 @@ type: Creature — Eldrazi Fungus
 meta_presence: 0.0317
 archetypes:
   eldrazi-tron:
-    weight: 0.1053
+    weight: 0.1186
     avg_copies: 4.0
   eldrazi-ramp:
     weight: 1.0
     avg_copies: 4.0
   broodscale-combo:
-    weight: 0.2963
+    weight: 0.2857
     avg_copies: 2.12
   scapeshift-combo:
     weight: 0.5

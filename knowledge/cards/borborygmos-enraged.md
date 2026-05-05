@@ -8,7 +8,7 @@ name: Borborygmos Enraged
 scryfall_id: 02df18c5-07b9-4e85-9c4b-58b63fa59437
 set: rvr
 type: Legendary Creature — Cyclops
-meta_presence: 0.0013
+meta_presence: 0.0012
 archetypes:
   neoform-combo:
     weight: 0.0645

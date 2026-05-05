@@ -4,39 +4,39 @@ colors:
 - B
 - G
 name: Living End
-meta_share: 0.0168
-list_count: 26
+meta_share: 0.018
+list_count: 29
 top_cards:
 - name: Endurance
   weight: 1.0
   avg_copies: 4.0
 - name: Force of Negation
   weight: 1.0
-  avg_copies: 3.92
-- name: Subtlety
-  weight: 1.0
-  avg_copies: 3.88
+  avg_copies: 3.93
 - name: Shardless Agent
   weight: 1.0
-  avg_copies: 3.88
+  avg_copies: 3.9
+- name: Subtlety
+  weight: 1.0
+  avg_copies: 3.9
 - name: Misty Rainforest
   weight: 1.0
-  avg_copies: 3.81
+  avg_copies: 3.79
 - name: Generous Ent
   weight: 1.0
-  avg_copies: 3.23
+  avg_copies: 3.24
 - name: Living End
   weight: 1.0
-  avg_copies: 3.04
+  avg_copies: 3.03
 - name: Inevitable Betrayal
   weight: 1.0
-  avg_copies: 2.23
+  avg_copies: 2.21
 - name: Sink into Stupor
   weight: 1.0
-  avg_copies: 1.54
+  avg_copies: 1.52
 - name: Hedge Maze
   weight: 1.0
-  avg_copies: 1.04
+  avg_copies: 1.03
 - name: Island
   weight: 1.0
   avg_copies: 1.0
@@ -47,184 +47,190 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Mystical Dispute
-  weight: 0.9615
-  avg_copies: 3.32
+  weight: 0.9655
+  avg_copies: 3.29
 - name: Colossal Skyturtle
-  weight: 0.9231
-  avg_copies: 1.5
+  weight: 0.931
+  avg_copies: 1.44
 - name: Wistfulness
-  weight: 0.8846
-  avg_copies: 3.71
+  weight: 0.8966
+  avg_copies: 3.7
 - name: Street Wraith
-  weight: 0.8846
-  avg_copies: 2.52
+  weight: 0.8966
+  avg_copies: 2.54
 - name: Otawara, Soaring City
-  weight: 0.8462
+  weight: 0.8276
   avg_copies: 1.0
-- name: Curator of Mysteries
-  weight: 0.7308
-  avg_copies: 2.63
-- name: Foundation Breaker
-  weight: 0.7308
-  avg_copies: 1.84
 - name: Watery Grave
-  weight: 0.7308
+  weight: 0.7586
   avg_copies: 1.05
 - name: Overlord of the Balemurk
-  weight: 0.6923
+  weight: 0.7241
   avg_copies: 4.0
+- name: Curator of Mysteries
+  weight: 0.7241
+  avg_copies: 2.57
 - name: Formidable Speaker
-  weight: 0.6923
-  avg_copies: 2.28
+  weight: 0.7241
+  avg_copies: 2.24
 - name: Dismember
-  weight: 0.6923
-  avg_copies: 2.17
-- name: Polluted Delta
-  weight: 0.6923
-  avg_copies: 1.5
+  weight: 0.7241
+  avg_copies: 2.14
+- name: Foundation Breaker
+  weight: 0.7241
+  avg_copies: 1.76
 - name: Underground Mortuary
-  weight: 0.6923
-  avg_copies: 1.28
+  weight: 0.7241
+  avg_copies: 1.24
 - name: Overgrown Tomb
-  weight: 0.6923
-  avg_copies: 1.06
-- name: Halo Forager
-  weight: 0.6923
-  avg_copies: 1.0
+  weight: 0.7241
+  avg_copies: 1.05
 - name: Undercity Sewers
-  weight: 0.6923
+  weight: 0.7241
   avg_copies: 1.0
-- name: Mistrise Village
-  weight: 0.6538
+- name: Halo Forager
+  weight: 0.7241
   avg_copies: 1.0
+- name: Polluted Delta
+  weight: 0.6897
+  avg_copies: 1.45
 - name: Deceit
-  weight: 0.6154
-  avg_copies: 1.38
-- name: Damping Sphere
-  weight: 0.5769
-  avg_copies: 1.07
-- name: Harvester of Misery
-  weight: 0.5769
-  avg_copies: 1.07
-- name: Flooded Grove
-  weight: 0.5769
+  weight: 0.6552
+  avg_copies: 1.32
+- name: Mistrise Village
+  weight: 0.6552
   avg_copies: 1.0
+- name: Damping Sphere
+  weight: 0.6207
+  avg_copies: 1.06
 - name: Culling Ritual
-  weight: 0.5385
-  avg_copies: 1.93
+  weight: 0.5862
+  avg_copies: 1.94
+- name: Harvester of Misery
+  weight: 0.5862
+  avg_copies: 1.06
+- name: Flooded Grove
+  weight: 0.5862
+  avg_copies: 1.0
 - name: Mai, Scornful Striker
-  weight: 0.5385
+  weight: 0.5862
   avg_copies: 1.0
 - name: Troll of Khazad-dûm
-  weight: 0.5
-  avg_copies: 1.77
+  weight: 0.5172
+  avg_copies: 1.73
 - name: Disciple of Freyalise
-  weight: 0.4615
+  weight: 0.5172
+  avg_copies: 1.0
+- name: Swamp
+  weight: 0.4138
   avg_copies: 1.0
 - name: Boseiju, Who Endures
-  weight: 0.4231
+  weight: 0.4138
   avg_copies: 1.0
 - name: Force of Vigor
-  weight: 0.3846
-  avg_copies: 2.2
+  weight: 0.3793
+  avg_copies: 2.18
 - name: Commandeer
-  weight: 0.3846
+  weight: 0.3793
   avg_copies: 1.05
-- name: Swamp
-  weight: 0.3462
+- name: Flare of Denial
+  weight: 0.3448
   avg_copies: 1.0
 - name: Ardent Plea
-  weight: 0.3077
+  weight: 0.2759
   avg_copies: 4.0
 - name: Teferi, Time Raveler
-  weight: 0.3077
+  weight: 0.2759
   avg_copies: 2.22
-- name: Lush Portico
-  weight: 0.3077
-  avg_copies: 1.0
-- name: Flare of Denial
-  weight: 0.3077
+- name: Kavaero, Mind-Bitten
+  weight: 0.2759
   avg_copies: 1.0
 - name: Temple Garden
-  weight: 0.3077
+  weight: 0.2759
+  avg_copies: 1.0
+- name: Lush Portico
+  weight: 0.2759
+  avg_copies: 1.0
+- name: Fracturing Gust
+  weight: 0.2759
   avg_copies: 1.0
 - name: Clarion Conqueror
-  weight: 0.2692
+  weight: 0.2414
   avg_copies: 2.57
-- name: Kavaero, Mind-Bitten
-  weight: 0.2692
-  avg_copies: 1.0
 - name: Meticulous Archive
-  weight: 0.2692
+  weight: 0.2414
   avg_copies: 1.0
 - name: Hallowed Fountain
-  weight: 0.2692
+  weight: 0.2414
   avg_copies: 1.0
 - name: Striped Riverwinder
-  weight: 0.2308
+  weight: 0.2069
   avg_copies: 1.83
-- name: Fracturing Gust
-  weight: 0.2308
-  avg_copies: 1.0
 - name: Waker of Waves
-  weight: 0.1923
+  weight: 0.1724
   avg_copies: 2.8
 - name: Harbinger of the Seas
-  weight: 0.1538
+  weight: 0.1379
   avg_copies: 1.25
 - name: Deafening Silence
-  weight: 0.1538
+  weight: 0.1379
   avg_copies: 1.0
 - name: Archon of Cruelty
-  weight: 0.1154
+  weight: 0.1034
   avg_copies: 1.0
+- name: Verdant Catacombs
+  weight: 0.069
+  avg_copies: 2.0
 - name: Drannith Magistrate
-  weight: 0.0769
+  weight: 0.069
   avg_copies: 1.5
 - name: High Noon
-  weight: 0.0769
+  weight: 0.069
   avg_copies: 1.0
 - name: Rough
-  weight: 0.0385
+  weight: 0.0345
   avg_copies: 4.0
-- name: Atraxa, Grand Unifier
-  weight: 0.0385
-  avg_copies: 3.0
 - name: Oliphaunt
-  weight: 0.0385
+  weight: 0.0345
   avg_copies: 3.0
-- name: Steam Vents
-  weight: 0.0385
-  avg_copies: 2.0
-- name: Verdant Catacombs
-  weight: 0.0385
-  avg_copies: 2.0
+- name: Atraxa, Grand Unifier
+  weight: 0.0345
+  avg_copies: 3.0
 - name: Titanoth Rex
-  weight: 0.0385
+  weight: 0.0345
   avg_copies: 2.0
 - name: Flooded Strand
-  weight: 0.0385
+  weight: 0.0345
+  avg_copies: 2.0
+- name: Steam Vents
+  weight: 0.0345
   avg_copies: 2.0
 - name: Fulminator Mage
-  weight: 0.0385
+  weight: 0.0345
   avg_copies: 2.0
-- name: Windcaller Aven
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Press the Enemy
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 0.0385
+- name: Stomping Ground
+  weight: 0.0345
   avg_copies: 1.0
 - name: Murderous Cut
-  weight: 0.0385
+  weight: 0.0345
   avg_copies: 1.0
-- name: Stomping Ground
-  weight: 0.0385
+- name: Force of Despair
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Windcaller Aven
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 0.0345
   avg_copies: 1.0
 - name: Sunken Ruins
-  weight: 0.0385
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Press the Enemy
+  weight: 0.0345
   avg_copies: 1.0
 ---
 Cascade combo deck that cycles or mills creatures into the graveyard, then cascades into Living End to reanimate them all at once.

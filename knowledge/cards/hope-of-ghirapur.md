@@ -9,6 +9,6 @@ type: Legendary Artifact Creature — Thopter
 meta_presence: 0.0006
 archetypes:
   mono-blue-belcher:
-    weight: 0.0333
+    weight: 0.0312
     avg_copies: 1.0
 ---

@@ -10,7 +10,7 @@ type: Enchantment
 meta_presence: 0.0019
 archetypes:
   simic-ritual:
-    weight: 0.025
+    weight: 0.0244
     avg_copies: 1.0
   the-rock:
     weight: 0.5

@@ -13,7 +13,7 @@ archetypes:
     weight: 0.027
     avg_copies: 2.0
   eldrazi-ramp:
-    weight: 0.0323
+    weight: 0.0312
     avg_copies: 1.0
   naya-midrange:
     weight: 1.0

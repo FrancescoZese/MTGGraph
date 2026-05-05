@@ -11,6 +11,6 @@ type: Legendary Planeswalker — Ral
 meta_presence: 0.0006
 archetypes:
   izzet-prowess:
-    weight: 0.0141
+    weight: 0.0135
     avg_copies: 1.0
 ---

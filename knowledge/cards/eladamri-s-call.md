@@ -8,7 +8,7 @@ name: Eladamri's Call
 scryfall_id: ea751fe2-b64a-4265-8885-a9016b29b5b3
 set: mh1
 type: Instant
-meta_presence: 0.0013
+meta_presence: 0.0012
 archetypes:
   neoform-combo:
     weight: 0.0645

@@ -7,12 +7,12 @@ name: Questing Druid // Seek the Beast
 scryfall_id: 72c130e2-1e17-4996-a5ae-231155d68261
 set: woe
 type: Creature — Human Druid // Instant — Adventure
-meta_presence: 0.0045
+meta_presence: 0.0044
 archetypes:
   ruby-storm:
-    weight: 0.0667
+    weight: 0.0638
     avg_copies: 4.0
   izzet-prowess:
-    weight: 0.0563
+    weight: 0.0541
     avg_copies: 3.0
 ---

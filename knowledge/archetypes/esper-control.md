@@ -7,22 +7,22 @@ name: Esper Control
 meta_share: 0.0006
 list_count: 1
 top_cards:
-- name: Flooded Strand
-  weight: 1.0
-  avg_copies: 4.0
-- name: Counterspell
-  weight: 1.0
-  avg_copies: 4.0
 - name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
-- name: Consult the Star Charts
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
+- name: Consult the Star Charts
+  weight: 1.0
+  avg_copies: 4.0
+- name: Counterspell
+  weight: 1.0
+  avg_copies: 4.0
 - name: Teferi, Time Raveler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
@@ -31,24 +31,15 @@ top_cards:
 - name: Fatal Push
   weight: 1.0
   avg_copies: 3.0
-- name: Prismatic Ending
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 3.0
 - name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 3.0
-- name: Mystical Dispute
+- name: Prismatic Ending
   weight: 1.0
   avg_copies: 3.0
-- name: Island
-  weight: 1.0
-  avg_copies: 2.0
-- name: Watery Grave
-  weight: 1.0
-  avg_copies: 2.0
-- name: Supreme Verdict
-  weight: 1.0
-  avg_copies: 2.0
 - name: Spell Snare
   weight: 1.0
   avg_copies: 2.0
@@ -56,6 +47,18 @@ top_cards:
   weight: 1.0
   avg_copies: 2.0
 - name: High Noon
+  weight: 1.0
+  avg_copies: 2.0
+- name: Supreme Verdict
+  weight: 1.0
+  avg_copies: 2.0
+- name: Island
+  weight: 1.0
+  avg_copies: 2.0
+- name: Plains
+  weight: 1.0
+  avg_copies: 2.0
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.0
 - name: Rest in Peace
@@ -67,10 +70,7 @@ top_cards:
 - name: Force of Negation
   weight: 1.0
   avg_copies: 2.0
-- name: Hallowed Fountain
-  weight: 1.0
-  avg_copies: 2.0
-- name: Plains
+- name: Watery Grave
   weight: 1.0
   avg_copies: 2.0
 - name: Meticulous Archive
@@ -82,28 +82,28 @@ top_cards:
 - name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
-- name: Celestial Colonnade
-  weight: 1.0
-  avg_copies: 1.0
-- name: Raugrin Triome
-  weight: 1.0
-  avg_copies: 1.0
-- name: Teferi, Hero of Dominaria
-  weight: 1.0
-  avg_copies: 1.0
 - name: Otawara, Soaring City
-  weight: 1.0
-  avg_copies: 1.0
-- name: Raffine's Tower
-  weight: 1.0
-  avg_copies: 1.0
-- name: Lórien Revealed
   weight: 1.0
   avg_copies: 1.0
 - name: Hall of Storm Giants
   weight: 1.0
   avg_copies: 1.0
+- name: Celestial Colonnade
+  weight: 1.0
+  avg_copies: 1.0
+- name: Teferi, Hero of Dominaria
+  weight: 1.0
+  avg_copies: 1.0
+- name: Raffine's Tower
+  weight: 1.0
+  avg_copies: 1.0
 - name: The Wandering Emperor
+  weight: 1.0
+  avg_copies: 1.0
+- name: Lórien Revealed
+  weight: 1.0
+  avg_copies: 1.0
+- name: Raugrin Triome
   weight: 1.0
   avg_copies: 1.0
 ---

@@ -3,7 +3,7 @@ colors:
 - W
 - R
 name: Boros Ponza
-meta_share: 0.024
+meta_share: 0.023
 list_count: 37
 top_cards:
 - name: Price of Freedom
@@ -105,10 +105,10 @@ top_cards:
 - name: Flashback
   weight: 0.1351
   avg_copies: 1.0
-- name: Arid Mesa
+- name: Magmatic Hellkite
   weight: 0.1081
   avg_copies: 4.0
-- name: Magmatic Hellkite
+- name: Arid Mesa
   weight: 0.1081
   avg_copies: 4.0
 - name: March of Otherworldly Light
@@ -117,10 +117,10 @@ top_cards:
 - name: Elegant Parlor
   weight: 0.1081
   avg_copies: 1.5
-- name: Brotherhood's End
+- name: Meltdown
   weight: 0.1081
   avg_copies: 1.0
-- name: Meltdown
+- name: Brotherhood's End
   weight: 0.1081
   avg_copies: 1.0
 - name: Flagstones of Trokair
@@ -132,61 +132,61 @@ top_cards:
 - name: Ghost Vacuum
   weight: 0.0811
   avg_copies: 1.0
-- name: Boom
-  weight: 0.0541
-  avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
   weight: 0.0541
   avg_copies: 4.0
-- name: Get Lost
+- name: Boom
+  weight: 0.0541
+  avg_copies: 4.0
+- name: Sanctifier en-Vec
   weight: 0.0541
   avg_copies: 3.0
-- name: Sanctifier en-Vec
+- name: Get Lost
   weight: 0.0541
   avg_copies: 3.0
 - name: Rustvale Bridge
   weight: 0.0541
   avg_copies: 3.0
+- name: Witch Enchanter
+  weight: 0.0541
+  avg_copies: 2.0
+- name: Elesh Norn, Mother of Machines
+  weight: 0.0541
+  avg_copies: 2.0
+- name: Drannith Magistrate
+  weight: 0.0541
+  avg_copies: 2.0
 - name: Pinnacle Monk
   weight: 0.0541
   avg_copies: 2.0
 - name: Leonin Arbiter
   weight: 0.0541
   avg_copies: 2.0
-- name: Witch Enchanter
-  weight: 0.0541
-  avg_copies: 2.0
-- name: Drannith Magistrate
-  weight: 0.0541
-  avg_copies: 2.0
-- name: Elesh Norn, Mother of Machines
-  weight: 0.0541
-  avg_copies: 2.0
-- name: Emrakul, the Aeons Torn
+- name: Ghost Quarter
   weight: 0.0541
   avg_copies: 1.0
-- name: Ghost Quarter
+- name: Emrakul, the Aeons Torn
   weight: 0.0541
   avg_copies: 1.0
 - name: Arena of Glory
   weight: 0.0541
   avg_copies: 1.0
-- name: Fable of the Mirror-Breaker
-  weight: 0.027
-  avg_copies: 3.0
 - name: Blood Moon
   weight: 0.027
   avg_copies: 3.0
-- name: Prismatic Ending
+- name: Fable of the Mirror-Breaker
   weight: 0.027
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Gideon, Ally of Zendikar
   weight: 0.027
   avg_copies: 2.0
-- name: Stony Silence
+- name: Prismatic Ending
   weight: 0.027
   avg_copies: 2.0
-- name: Raze to the Ground
+- name: Stone Rain
+  weight: 0.027
+  avg_copies: 2.0
+- name: Stony Silence
   weight: 0.027
   avg_copies: 2.0
 - name: Settle the Wreckage
@@ -195,46 +195,46 @@ top_cards:
 - name: Sundering Eruption
   weight: 0.027
   avg_copies: 2.0
-- name: Stone Rain
+- name: Raze to the Ground
   weight: 0.027
   avg_copies: 2.0
 - name: Aven Mindcensor
   weight: 0.027
   avg_copies: 2.0
-- name: Clarion Conqueror
-  weight: 0.027
-  avg_copies: 1.0
-- name: Forked Bolt
-  weight: 0.027
-  avg_copies: 1.0
-- name: Elspeth, Sun's Nemesis
-  weight: 0.027
-  avg_copies: 1.0
-- name: Suspend Aggression
-  weight: 0.027
-  avg_copies: 1.0
-- name: Chalice of the Void
-  weight: 0.027
-  avg_copies: 1.0
-- name: Ephemerate
-  weight: 0.027
-  avg_copies: 1.0
-- name: The Wandering Emperor
-  weight: 0.027
-  avg_copies: 1.0
-- name: The Restoration of Eiganjo
-  weight: 0.027
-  avg_copies: 1.0
 - name: Castle Ardenvale
-  weight: 0.027
-  avg_copies: 1.0
-- name: Dead
   weight: 0.027
   avg_copies: 1.0
 - name: Storm's Wrath
   weight: 0.027
   avg_copies: 1.0
 - name: Ark of Hunger
+  weight: 0.027
+  avg_copies: 1.0
+- name: Clarion Conqueror
+  weight: 0.027
+  avg_copies: 1.0
+- name: Forked Bolt
+  weight: 0.027
+  avg_copies: 1.0
+- name: Ephemerate
+  weight: 0.027
+  avg_copies: 1.0
+- name: Suspend Aggression
+  weight: 0.027
+  avg_copies: 1.0
+- name: Elspeth, Sun's Nemesis
+  weight: 0.027
+  avg_copies: 1.0
+- name: The Wandering Emperor
+  weight: 0.027
+  avg_copies: 1.0
+- name: Chalice of the Void
+  weight: 0.027
+  avg_copies: 1.0
+- name: The Restoration of Eiganjo
+  weight: 0.027
+  avg_copies: 1.0
+- name: Dead
   weight: 0.027
   avg_copies: 1.0
 ---

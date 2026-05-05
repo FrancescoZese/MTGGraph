@@ -14,7 +14,7 @@ archetypes:
     avg_copies: 3.28
   goryo1:
     weight: 0.5
-    avg_copies: 3.33
+    avg_copies: 3.29
   izzet-murktide:
     weight: 1.0
     avg_copies: 4.0

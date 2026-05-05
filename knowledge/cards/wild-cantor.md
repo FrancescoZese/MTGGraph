@@ -11,6 +11,6 @@ type: Creature — Human Druid
 meta_presence: 0.0006
 archetypes:
   goryo0:
-    weight: 1.0
+    weight: 0.3333
     avg_copies: 4.0
 ---

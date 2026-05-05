@@ -9,6 +9,6 @@ type: Land
 meta_presence: 0.0006
 archetypes:
   simic-ritual:
-    weight: 0.025
+    weight: 0.0244
     avg_copies: 1.0
 ---

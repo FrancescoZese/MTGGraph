@@ -7,7 +7,7 @@ name: Splinter Twin
 scryfall_id: 580fbbf8-ba7e-4889-a5ea-d066f3ea8cea
 set: mm2
 type: Enchantment — Aura
-meta_presence: 0.0013
+meta_presence: 0.0012
 archetypes:
   izzet-splinter-twin:
     weight: 1.0

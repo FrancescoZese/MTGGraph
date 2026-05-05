@@ -7,10 +7,10 @@ name: Wrath of God
 scryfall_id: 537d2b05-3f52-45d6-8fe3-26282085d0c6
 set: cmm
 type: Sorcery
-meta_presence: 0.0136
+meta_presence: 0.0143
 archetypes:
   eldrazi-tron:
-    weight: 0.0175
+    weight: 0.0169
     avg_copies: 1.0
   boros-ponza:
     weight: 0.4865
@@ -18,4 +18,7 @@ archetypes:
   goryo6:
     weight: 1.0
     avg_copies: 4.0
+  unknown-12:
+    weight: 1.0
+    avg_copies: 1.0
 ---

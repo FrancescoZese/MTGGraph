@@ -8,7 +8,7 @@ name: Nature's Chant
 scryfall_id: 9a17cbf6-3f38-4bc6-8448-881e19cffe06
 set: mh1
 type: Instant
-meta_presence: 0.0013
+meta_presence: 0.0012
 archetypes:
   neoform-combo:
     weight: 0.0645

@@ -8,7 +8,7 @@ name: Detention Sphere
 scryfall_id: afee5464-83b7-4d7a-b407-9ee7de21535b
 set: rtr
 type: Enchantment
-meta_presence: 0.0013
+meta_presence: 0.0012
 archetypes:
   neoform-combo:
     weight: 0.0645
