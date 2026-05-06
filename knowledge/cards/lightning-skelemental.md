@@ -8,7 +8,7 @@ name: Lightning Skelemental
 scryfall_id: 5734012b-31db-4125-8fea-c88666969cd6
 set: mh1
 type: Creature — Elemental Skeleton
-meta_presence: 0.0019
+meta_presence: 0.0018
 archetypes:
   reanimator:
     weight: 0.0741

@@ -7,7 +7,7 @@ name: Through the Breach
 scryfall_id: c90a3430-f6d9-4432-84d3-9952d2b82003
 set: inr
 type: Instant — Arcane
-meta_presence: 0.0025
+meta_presence: 0.0024
 archetypes:
   eldrazi-breach:
     weight: 1.0

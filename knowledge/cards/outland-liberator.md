@@ -9,10 +9,10 @@ type: Creature — Human Werewolf // Creature — Werewolf
 meta_presence: 0.0131
 archetypes:
   amulet-titan:
-    weight: 0.0909
+    weight: 0.0882
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.7
+    weight: 0.6818
     avg_copies: 1.0
   devoted-combo:
     weight: 1.0

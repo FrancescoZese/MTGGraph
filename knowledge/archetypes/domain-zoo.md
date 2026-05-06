@@ -6,191 +6,191 @@ colors:
 - R
 - G
 name: Domain Zoo
-meta_share: 0.0336
-list_count: 54
+meta_share: 0.0339
+list_count: 57
 top_cards:
-- name: Leyline of the Guildpact
+- name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
-- name: Territorial Kavu
+- name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline Binding
   weight: 1.0
   avg_copies: 3.98
-- name: Scion of Draco
-  weight: 1.0
-  avg_copies: 3.94
 - name: Lightning Bolt
   weight: 1.0
-  avg_copies: 3.94
+  avg_copies: 3.95
+- name: Scion of Draco
+  weight: 1.0
+  avg_copies: 3.95
 - name: Arid Mesa
   weight: 1.0
-  avg_copies: 3.85
+  avg_copies: 3.86
 - name: Flooded Strand
   weight: 1.0
-  avg_copies: 3.83
+  avg_copies: 3.84
 - name: Wooded Foothills
   weight: 1.0
-  avg_copies: 3.74
+  avg_copies: 3.72
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 1.97
 - name: Steam Vents
   weight: 1.0
-  avg_copies: 1.76
+  avg_copies: 1.74
 - name: Wear
   weight: 1.0
-  avg_copies: 1.63
-- name: Temple Garden
+  avg_copies: 1.61
+- name: Indatha Triome
   weight: 1.0
   avg_copies: 1.0
 - name: Plains
   weight: 1.0
   avg_copies: 1.0
-- name: Indatha Triome
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
-  weight: 0.9815
-  avg_copies: 3.92
+  weight: 0.9825
+  avg_copies: 3.93
 - name: Phlage, Titan of Fire's Fury
-  weight: 0.9815
-  avg_copies: 3.87
+  weight: 0.9825
+  avg_copies: 3.88
 - name: Stubborn Denial
-  weight: 0.9815
+  weight: 0.9825
   avg_copies: 2.32
 - name: Wrath of the Skies
-  weight: 0.9815
-  avg_copies: 2.17
+  weight: 0.9825
+  avg_copies: 2.16
 - name: Arena of Glory
-  weight: 0.9815
+  weight: 0.9825
   avg_copies: 1.89
 - name: Godless Shrine
-  weight: 0.9815
+  weight: 0.9825
   avg_copies: 1.0
 - name: Doorkeeper Thrull
-  weight: 0.963
-  avg_copies: 3.9
+  weight: 0.9649
+  avg_copies: 3.91
 - name: Mystical Dispute
-  weight: 0.963
-  avg_copies: 2.77
+  weight: 0.9649
+  avg_copies: 2.76
 - name: Mountain
-  weight: 0.9444
+  weight: 0.9474
   avg_copies: 1.0
 - name: Thundering Falls
-  weight: 0.9444
+  weight: 0.9474
   avg_copies: 1.0
 - name: Damping Sphere
-  weight: 0.8704
-  avg_copies: 1.64
+  weight: 0.8772
+  avg_copies: 1.66
 - name: Teferi, Time Raveler
-  weight: 0.7037
+  weight: 0.7018
   avg_copies: 1.07
 - name: Rough
-  weight: 0.6296
-  avg_copies: 1.91
+  weight: 0.6491
+  avg_copies: 1.89
 - name: Ashiok, Dream Render
-  weight: 0.6111
-  avg_copies: 1.39
+  weight: 0.6316
+  avg_copies: 1.36
 - name: Nihil Spellbomb
-  weight: 0.5926
-  avg_copies: 1.16
+  weight: 0.5965
+  avg_copies: 1.15
 - name: Lush Portico
-  weight: 0.5741
+  weight: 0.5965
   avg_copies: 1.0
 - name: Path to Exile
-  weight: 0.5185
+  weight: 0.5263
   avg_copies: 1.0
 - name: The Legend of Roku
-  weight: 0.3148
-  avg_copies: 1.17
+  weight: 0.3158
+  avg_copies: 1.16
 - name: Obsidian Charmaw
-  weight: 0.2963
+  weight: 0.2807
   avg_copies: 1.88
 - name: Winternight Stories
-  weight: 0.2407
-  avg_copies: 1.0
-- name: Celestial Purge
-  weight: 0.2037
+  weight: 0.2281
   avg_copies: 1.0
 - name: Surgical Extraction
-  weight: 0.1852
-  avg_copies: 1.2
+  weight: 0.2105
+  avg_copies: 1.17
+- name: Celestial Purge
+  weight: 0.2105
+  avg_copies: 1.0
 - name: High Noon
-  weight: 0.1481
+  weight: 0.1404
   avg_copies: 1.0
 - name: Pyroclasm
-  weight: 0.1296
+  weight: 0.1228
   avg_copies: 1.0
 - name: Clarion Conqueror
-  weight: 0.0926
+  weight: 0.0877
   avg_copies: 1.0
 - name: Strix Serenade
-  weight: 0.0741
+  weight: 0.0702
   avg_copies: 1.25
 - name: Blood Crypt
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Orcish Bowmasters
-  weight: 0.037
-  avg_copies: 2.0
-- name: Sacred Foundry
-  weight: 0.037
+  weight: 0.0526
   avg_copies: 1.0
 - name: Fable of the Mirror-Breaker
-  weight: 0.037
+  weight: 0.0526
   avg_copies: 1.0
+- name: Orcish Bowmasters
+  weight: 0.0351
+  avg_copies: 2.0
 - name: Does Machines
-  weight: 0.037
+  weight: 0.0351
   avg_copies: 1.0
-- name: Aurora Awakener
-  weight: 0.0185
+- name: Sacred Foundry
+  weight: 0.0351
+  avg_copies: 1.0
+- name: Psychic Frog
+  weight: 0.0175
   avg_copies: 4.0
-- name: Archon of Cruelty
-  weight: 0.0185
+- name: Aurora Awakener
+  weight: 0.0175
   avg_copies: 4.0
 - name: Tribal Flames
-  weight: 0.0185
-  avg_copies: 4.0
-- name: Psychic Frog
-  weight: 0.0185
-  avg_copies: 4.0
-- name: Faithless Looting
-  weight: 0.0185
+  weight: 0.0175
   avg_copies: 4.0
 - name: Persist
-  weight: 0.0185
+  weight: 0.0175
+  avg_copies: 4.0
+- name: Faithless Looting
+  weight: 0.0175
+  avg_copies: 4.0
+- name: Archon of Cruelty
+  weight: 0.0175
   avg_copies: 4.0
 - name: Summoning Trap
-  weight: 0.0185
+  weight: 0.0175
   avg_copies: 3.0
-- name: Drannith Magistrate
-  weight: 0.0185
-  avg_copies: 2.0
 - name: Mana Tithe
-  weight: 0.0185
+  weight: 0.0175
+  avg_copies: 2.0
+- name: Drannith Magistrate
+  weight: 0.0175
   avg_copies: 2.0
 - name: Vexing Bauble
-  weight: 0.0185
+  weight: 0.0175
   avg_copies: 1.0
 - name: Meltdown
-  weight: 0.0185
-  avg_copies: 1.0
-- name: Prismatic Ending
-  weight: 0.0185
-  avg_copies: 1.0
-- name: Glasspool Mimic
-  weight: 0.0185
-  avg_copies: 1.0
-- name: Raucous Theater
-  weight: 0.0185
+  weight: 0.0175
   avg_copies: 1.0
 - name: Quantum Riddler
-  weight: 0.0185
+  weight: 0.0175
   avg_copies: 1.0
 - name: Breeding Pool
-  weight: 0.0185
+  weight: 0.0175
+  avg_copies: 1.0
+- name: Prismatic Ending
+  weight: 0.0175
+  avg_copies: 1.0
+- name: Glasspool Mimic
+  weight: 0.0175
+  avg_copies: 1.0
+- name: Raucous Theater
+  weight: 0.0175
   avg_copies: 1.0
 ---
 Five-color aggro deck using Leyline of the Guildpact to power up domain cards like Scion of Draco and Leyline Binding while deploying efficient threats.

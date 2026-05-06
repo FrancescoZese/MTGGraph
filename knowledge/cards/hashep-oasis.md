@@ -6,7 +6,7 @@ name: Hashep Oasis
 scryfall_id: d18d5af2-ca2c-4a3a-9b67-e953b24b0718
 set: otc
 type: Land — Desert
-meta_presence: 0.0019
+meta_presence: 0.0018
 archetypes:
   scapeshift-combo:
     weight: 0.5

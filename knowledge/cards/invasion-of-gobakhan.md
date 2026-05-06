@@ -9,6 +9,6 @@ type: Battle — Siege // Enchantment
 meta_presence: 0.0012
 archetypes:
   neoform-combo:
-    weight: 0.0645
+    weight: 0.0606
     avg_copies: 4.0
 ---

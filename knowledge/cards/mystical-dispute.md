@@ -7,20 +7,20 @@ name: Mystical Dispute
 scryfall_id: fbe04cb8-a8b9-4241-baae-b398a2509a3a
 set: eld
 type: Instant
-meta_presence: 0.4281
+meta_presence: 0.4274
 archetypes:
   dimir-control:
     weight: 1.0
-    avg_copies: 2.23
+    avg_copies: 2.27
   mono-blue-belcher:
-    weight: 0.9375
-    avg_copies: 2.1
+    weight: 0.9412
+    avg_copies: 2.09
   jeskai-energy:
-    weight: 0.9901
+    weight: 0.9903
     avg_copies: 2.34
   goryo:
-    weight: 0.9677
-    avg_copies: 2.73
+    weight: 0.971
+    avg_copies: 2.75
   necrodominance:
     weight: 0.0455
     avg_copies: 3.0
@@ -28,17 +28,17 @@ archetypes:
     weight: 1.0
     avg_copies: 3.15
   living-end:
-    weight: 0.9655
-    avg_copies: 3.29
+    weight: 0.9677
+    avg_copies: 3.3
   jeskai-control:
     weight: 1.0
     avg_copies: 2.76
   affinity:
-    weight: 0.7939
+    weight: 0.7917
     avg_copies: 1.42
   domain-zoo:
-    weight: 0.963
-    avg_copies: 2.77
+    weight: 0.9649
+    avg_copies: 2.76
   mill:
     weight: 0.3333
     avg_copies: 2.33
@@ -46,8 +46,8 @@ archetypes:
     weight: 0.7407
     avg_copies: 2.1
   neoform-combo:
-    weight: 0.9032
-    avg_copies: 3.25
+    weight: 0.9091
+    avg_copies: 3.27
   mono-blue-tron:
     weight: 0.6
     avg_copies: 2.0
@@ -58,14 +58,14 @@ archetypes:
     weight: 0.9512
     avg_copies: 2.9
   izzet-prowess:
-    weight: 0.2703
-    avg_copies: 1.7
+    weight: 0.2727
+    avg_copies: 1.71
   4c-omnath:
     weight: 1.0
     avg_copies: 2.25
   esper-blink:
-    weight: 0.8
-    avg_copies: 1.92
+    weight: 0.8125
+    avg_copies: 1.85
   indomitable-creativity:
     weight: 0.625
     avg_copies: 2.0
@@ -95,7 +95,7 @@ archetypes:
     avg_copies: 2.0
   goryo1:
     weight: 1.0
-    avg_copies: 1.93
+    avg_copies: 1.94
   goryo2:
     weight: 1.0
     avg_copies: 2.0
@@ -115,6 +115,12 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-3:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-16:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-19:
     weight: 1.0
     avg_copies: 2.0
 ---

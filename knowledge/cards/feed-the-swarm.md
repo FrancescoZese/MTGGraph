@@ -7,9 +7,9 @@ name: Feed the Swarm
 scryfall_id: a776f96b-01bf-430a-b1ad-9f4651070610
 set: tdc
 type: Sorcery
-meta_presence: 0.0006
+meta_presence: 0.0012
 archetypes:
   goryo1:
-    weight: 0.0714
+    weight: 0.125
     avg_copies: 1.0
 ---

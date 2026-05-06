@@ -9,6 +9,6 @@ type: Enchantment — Saga // Enchantment Creature — Fox Monk
 meta_presence: 0.0006
 archetypes:
   boros-ponza:
-    weight: 0.027
+    weight: 0.025
     avg_copies: 1.0
 ---

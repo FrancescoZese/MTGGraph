@@ -9,13 +9,13 @@ type: Land
 meta_presence: 0.15
 archetypes:
   ruby-storm:
-    weight: 0.9362
-    avg_copies: 2.23
+    weight: 0.94
+    avg_copies: 2.21
   boros-energy:
-    weight: 0.0134
+    weight: 0.0129
     avg_copies: 2.75
   dimir-control:
-    weight: 0.1
+    weight: 0.0946
     avg_copies: 2.57
   necrodominance:
     weight: 0.1364
@@ -36,8 +36,8 @@ archetypes:
     weight: 0.0244
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.8919
-    avg_copies: 2.92
+    weight: 0.8961
+    avg_copies: 2.88
   indomitable-creativity:
     weight: 1.0
     avg_copies: 2.75
@@ -57,14 +57,14 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   rakdos-aggro:
-    weight: 0.8333
+    weight: 0.8571
     avg_copies: 4.0
   the-rock:
     weight: 0.5
     avg_copies: 1.0
   goryo1:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.94
   goryo5:
     weight: 1.0
     avg_copies: 3.0
@@ -86,4 +86,7 @@ archetypes:
   unknown-8:
     weight: 1.0
     avg_copies: 3.0
+  unknown-18:
+    weight: 1.0
+    avg_copies: 4.0
 ---

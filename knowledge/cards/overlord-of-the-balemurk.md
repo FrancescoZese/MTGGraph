@@ -10,7 +10,7 @@ type: Enchantment Creature — Avatar Horror
 meta_presence: 0.0411
 archetypes:
   living-end:
-    weight: 0.7241
+    weight: 0.7419
     avg_copies: 4.0
   reanimator:
     weight: 0.037
@@ -26,7 +26,7 @@ archetypes:
     avg_copies: 1.0
   esper-blink:
     weight: 1.0
-    avg_copies: 3.93
+    avg_copies: 3.94
   orzhov-blink:
     weight: 1.0
     avg_copies: 4.0

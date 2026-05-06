@@ -8,7 +8,7 @@ name: Invert Polarity
 scryfall_id: dcee6a8a-c3a8-43bc-beb9-be30d03ab952
 set: mh3
 type: Instant
-meta_presence: 0.0025
+meta_presence: 0.0024
 archetypes:
   jeskai-control:
     weight: 0.04

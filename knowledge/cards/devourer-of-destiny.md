@@ -6,23 +6,23 @@ name: Devourer of Destiny
 scryfall_id: 560debcd-feb4-4534-991e-a7aa1cca2409
 set: mh3
 type: Creature — Eldrazi
-meta_presence: 0.0741
+meta_presence: 0.0756
 archetypes:
   eldrazi-tron:
     weight: 1.0
-    avg_copies: 3.39
+    avg_copies: 3.4
   eldrazi-ramp:
-    weight: 0.875
-    avg_copies: 2.46
+    weight: 0.8857
+    avg_copies: 2.39
   broodscale-combo:
     weight: 0.5
-    avg_copies: 3.79
+    avg_copies: 3.8
   eldrazi-breach:
     weight: 1.0
     avg_copies: 3.75
   cosmogoyf-fling:
     weight: 1.0
-    avg_copies: 3.75
+    avg_copies: 3.77
   goryo4:
     weight: 1.0
     avg_copies: 4.0

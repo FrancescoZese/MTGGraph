@@ -3,16 +3,16 @@ colors:
 - U
 - G
 name: Simic Ritual
-meta_share: 0.0255
+meta_share: 0.0244
 list_count: 41
 top_cards:
 - name: Coiling Oracle
   weight: 0.9756
   avg_copies: 4.0
-- name: Birthing Ritual
+- name: Flare of Denial
   weight: 0.9756
   avg_copies: 4.0
-- name: Flare of Denial
+- name: Birthing Ritual
   weight: 0.9756
   avg_copies: 4.0
 - name: Abhorrent Oculus
@@ -126,52 +126,49 @@ top_cards:
 - name: Psychic Frog
   weight: 0.0488
   avg_copies: 3.0
-- name: Scalding Tarn
+- name: Neoform
   weight: 0.0488
   avg_copies: 1.0
 - name: Plague Engineer
   weight: 0.0488
   avg_copies: 1.0
-- name: Swamp
-  weight: 0.0488
-  avg_copies: 1.0
 - name: Flooded Strand
   weight: 0.0488
   avg_copies: 1.0
-- name: Neoform
+- name: Scalding Tarn
   weight: 0.0488
   avg_copies: 1.0
-- name: Malevolent Rumble
-  weight: 0.0244
-  avg_copies: 4.0
+- name: Swamp
+  weight: 0.0488
+  avg_copies: 1.0
 - name: Phyrexian Tower
-  weight: 0.0244
-  avg_copies: 4.0
-- name: Gravecrawler
-  weight: 0.0244
-  avg_copies: 4.0
-- name: Shambling Ghast
   weight: 0.0244
   avg_copies: 4.0
 - name: Phoenix Fleet Airship
   weight: 0.0244
   avg_copies: 4.0
-- name: Warren Soultrader
+- name: Orcish Bowmasters
+  weight: 0.0244
+  avg_copies: 4.0
+- name: Gravecrawler
   weight: 0.0244
   avg_copies: 4.0
 - name: Thoughtseize
   weight: 0.0244
   avg_copies: 4.0
-- name: Orcish Bowmasters
+- name: Warren Soultrader
+  weight: 0.0244
+  avg_copies: 4.0
+- name: Shambling Ghast
   weight: 0.0244
   avg_copies: 4.0
 - name: Marsh Flats
   weight: 0.0244
   avg_copies: 4.0
-- name: Marionette Apprentice
+- name: Malevolent Rumble
   weight: 0.0244
-  avg_copies: 3.0
-- name: Pyroclasm
+  avg_copies: 4.0
+- name: Fire Magic
   weight: 0.0244
   avg_copies: 3.0
 - name: Quantum Riddler
@@ -180,58 +177,49 @@ top_cards:
 - name: Flare of Malice
   weight: 0.0244
   avg_copies: 3.0
-- name: Fire Magic
+- name: Pyroclasm
   weight: 0.0244
   avg_copies: 3.0
-- name: Island
+- name: Marionette Apprentice
   weight: 0.0244
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Forest
   weight: 0.0244
   avg_copies: 2.0
 - name: Vexing Bauble
   weight: 0.0244
   avg_copies: 2.0
+- name: Island
+  weight: 0.0244
+  avg_copies: 2.0
 - name: Graveyard Trespasser
   weight: 0.0244
   avg_copies: 2.0
-- name: Stomping Ground
+- name: Steam Vents
+  weight: 0.0244
+  avg_copies: 1.0
+- name: Cling to Dust
+  weight: 0.0244
+  avg_copies: 1.0
+- name: Soul Shatter
   weight: 0.0244
   avg_copies: 1.0
 - name: Pond Prophet
   weight: 0.0244
   avg_copies: 1.0
-- name: Hurkyl's Recall
+- name: Spymaster's Vault
   weight: 0.0244
   avg_copies: 1.0
-- name: Sephiroth, Fabled SOLDIER
+- name: Overlord of the Balemurk
   weight: 0.0244
   avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Stern Scolding
   weight: 0.0244
   avg_copies: 1.0
-- name: Bloodstained Mire
-  weight: 0.0244
-  avg_copies: 1.0
-- name: Urborg, Tomb of Yawgmoth
-  weight: 0.0244
-  avg_copies: 1.0
-- name: Firespout
-  weight: 0.0244
-  avg_copies: 1.0
-- name: Shatter Assumptions
-  weight: 0.0244
-  avg_copies: 1.0
-- name: Boggart Trawler
-  weight: 0.0244
-  avg_copies: 1.0
-- name: Thundering Falls
+- name: Spell Snare
   weight: 0.0244
   avg_copies: 1.0
 - name: Pick Your Poison
-  weight: 0.0244
-  avg_copies: 1.0
-- name: Break the Ice
   weight: 0.0244
   avg_copies: 1.0
 - name: Ashiok, Dream Render
@@ -240,43 +228,55 @@ top_cards:
 - name: Kaito, Bane of Nightmares
   weight: 0.0244
   avg_copies: 1.0
-- name: Overlord of the Balemurk
+- name: Stomping Ground
   weight: 0.0244
   avg_copies: 1.0
-- name: Cling to Dust
-  weight: 0.0244
-  avg_copies: 1.0
-- name: Chthonian Nightmare
-  weight: 0.0244
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.0244
-  avg_copies: 1.0
-- name: Spell Snare
-  weight: 0.0244
-  avg_copies: 1.0
-- name: Spymaster's Vault
-  weight: 0.0244
-  avg_copies: 1.0
-- name: Toxic Deluge
-  weight: 0.0244
-  avg_copies: 1.0
-- name: Soul Shatter
-  weight: 0.0244
-  avg_copies: 1.0
-- name: Steam Vents
+- name: Shatter Assumptions
   weight: 0.0244
   avg_copies: 1.0
 - name: Willowrush Verge
   weight: 0.0244
   avg_copies: 1.0
-- name: Stern Scolding
+- name: Chthonian Nightmare
   weight: 0.0244
   avg_copies: 1.0
 - name: Dress Down
   weight: 0.0244
   avg_copies: 1.0
+- name: Nurturing Peatland
+  weight: 0.0244
+  avg_copies: 1.0
+- name: Firespout
+  weight: 0.0244
+  avg_copies: 1.0
 - name: Nihil Spellbomb
+  weight: 0.0244
+  avg_copies: 1.0
+- name: Toxic Deluge
+  weight: 0.0244
+  avg_copies: 1.0
+- name: Sephiroth, Fabled SOLDIER
+  weight: 0.0244
+  avg_copies: 1.0
+- name: Break the Ice
+  weight: 0.0244
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 0.0244
+  avg_copies: 1.0
+- name: Boggart Trawler
+  weight: 0.0244
+  avg_copies: 1.0
+- name: Hurkyl's Recall
+  weight: 0.0244
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.0244
+  avg_copies: 1.0
+- name: Bloodstained Mire
+  weight: 0.0244
+  avg_copies: 1.0
+- name: Urborg, Tomb of Yawgmoth
   weight: 0.0244
   avg_copies: 1.0
 ---

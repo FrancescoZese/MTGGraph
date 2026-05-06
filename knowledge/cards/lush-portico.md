@@ -9,16 +9,16 @@ type: Land — Forest Plains
 meta_presence: 0.0417
 archetypes:
   jeskai-energy:
-    weight: 0.0099
+    weight: 0.0097
     avg_copies: 1.0
   living-end:
-    weight: 0.2759
+    weight: 0.2581
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.5741
+    weight: 0.5965
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0645
+    weight: 0.0606
     avg_copies: 1.0
   kethis-combo:
     weight: 1.0

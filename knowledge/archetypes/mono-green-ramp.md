@@ -3,19 +3,19 @@ colors:
 - B
 - G
 name: Mono Green Ramp
-meta_share: 0.0037
+meta_share: 0.0036
 list_count: 6
 top_cards:
-- name: Badgermole Cub
-  weight: 1.0
-  avg_copies: 4.0
 - name: Springheart Nantuko
   weight: 1.0
   avg_copies: 4.0
-- name: Green Sun's Zenith
+- name: Badgermole Cub
   weight: 1.0
   avg_copies: 4.0
 - name: Quirion Ranger
+  weight: 1.0
+  avg_copies: 4.0
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 4.0
 - name: Misty Rainforest
@@ -45,13 +45,13 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.17
-- name: Chomping Changeling
-  weight: 1.0
-  avg_copies: 1.0
 - name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
 - name: Ashaya, Soul of the Wild
+  weight: 1.0
+  avg_copies: 1.0
+- name: Chomping Changeling
   weight: 1.0
   avg_copies: 1.0
 - name: Craterhoof Behemoth
@@ -72,10 +72,10 @@ top_cards:
 - name: Lotus Cobra
   weight: 0.6667
   avg_copies: 3.0
-- name: Tyvar, Jubilant Brawler
+- name: Thoughtseize
   weight: 0.6667
   avg_copies: 3.0
-- name: Thoughtseize
+- name: Tyvar, Jubilant Brawler
   weight: 0.6667
   avg_copies: 3.0
 - name: Mai, Scornful Striker
@@ -93,10 +93,10 @@ top_cards:
 - name: Creeping Corrosion
   weight: 0.6667
   avg_copies: 1.25
-- name: Formidable Speaker
+- name: Nissa, Resurgent Animist
   weight: 0.6667
   avg_copies: 1.0
-- name: Nissa, Resurgent Animist
+- name: Formidable Speaker
   weight: 0.6667
   avg_copies: 1.0
 - name: Underground Mortuary
@@ -120,10 +120,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.1667
   avg_copies: 3.0
-- name: Force of Vigor
+- name: Fade from History
   weight: 0.1667
   avg_copies: 3.0
-- name: Fade from History
+- name: Force of Vigor
   weight: 0.1667
   avg_copies: 3.0
 - name: Damping Sphere

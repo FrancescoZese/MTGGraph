@@ -11,16 +11,16 @@ type: Sorcery
 meta_presence: 0.0429
 archetypes:
   goryo:
-    weight: 0.0323
+    weight: 0.029
     avg_copies: 1.0
   necrodominance:
     weight: 0.0455
     avg_copies: 2.0
   living-end:
-    weight: 0.5862
-    avg_copies: 1.94
+    weight: 0.5806
+    avg_copies: 1.89
   yawgmoth-combo:
-    weight: 0.1
+    weight: 0.1364
     avg_copies: 1.0
   simic-ritual:
     weight: 0.9268
@@ -35,6 +35,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.67
   sultai-midrange:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-14:
     weight: 1.0
     avg_copies: 1.0
 ---

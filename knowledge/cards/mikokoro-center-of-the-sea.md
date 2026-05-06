@@ -6,7 +6,7 @@ name: Mikokoro, Center of the Sea
 scryfall_id: d80eb098-5433-4b1e-aad5-0fd31bf598dd
 set: dmc
 type: Legendary Land
-meta_presence: 0.0019
+meta_presence: 0.0018
 archetypes:
   mill:
     weight: 0.3333

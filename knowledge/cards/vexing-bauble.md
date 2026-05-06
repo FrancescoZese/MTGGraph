@@ -6,31 +6,31 @@ name: Vexing Bauble
 scryfall_id: 29f11089-658f-42e6-aeb0-09b512ad2479
 set: mh3
 type: Artifact
-meta_presence: 0.3186
+meta_presence: 0.3173
 archetypes:
   ruby-storm:
-    weight: 0.0851
+    weight: 0.08
     avg_copies: 2.0
   boros-energy:
-    weight: 0.3612
-    avg_copies: 1.51
+    weight: 0.3625
+    avg_copies: 1.49
   eldrazi-tron:
-    weight: 0.6271
+    weight: 0.5968
     avg_copies: 1.08
   amulet-titan:
-    weight: 0.6515
+    weight: 0.6618
     avg_copies: 1.24
   goryo:
-    weight: 0.0161
+    weight: 0.0145
     avg_copies: 2.0
   hardened-scales:
     weight: 0.75
     avg_copies: 1.25
   affinity:
-    weight: 0.6667
-    avg_copies: 1.15
+    weight: 0.6726
+    avg_copies: 1.14
   domain-zoo:
-    weight: 0.0185
+    weight: 0.0175
     avg_copies: 1.0
   reanimator:
     weight: 0.2222
@@ -45,22 +45,22 @@ archetypes:
     weight: 0.8095
     avg_copies: 2.24
   boros-ponza:
-    weight: 0.8919
-    avg_copies: 2.12
+    weight: 0.9
+    avg_copies: 2.08
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 1.2
+    avg_copies: 1.18
   eldrazi-ramp:
-    weight: 0.9375
-    avg_copies: 1.68
+    weight: 0.9429
+    avg_copies: 1.74
   simic-ritual:
     weight: 0.0244
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0946
+    weight: 0.0909
     avg_copies: 1.86
   samwise-combo:
     weight: 0.6667
@@ -93,7 +93,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   rakdos-aggro:
-    weight: 0.1667
+    weight: 0.1429
     avg_copies: 3.0
   mono-green-ramp:
     weight: 0.1667
@@ -108,8 +108,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.67
   goryo1:
-    weight: 0.2857
-    avg_copies: 1.5
+    weight: 0.3125
+    avg_copies: 1.4
   goryo4:
     weight: 0.5
     avg_copies: 3.0

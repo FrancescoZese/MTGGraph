@@ -7,9 +7,12 @@ name: Phyrexian Crusader
 scryfall_id: 32aaa8b9-987b-4809-8a54-aa29bdc18805
 set: mbs
 type: Creature — Phyrexian Zombie Knight
-meta_presence: 0.0006
+meta_presence: 0.0012
 archetypes:
   necrodominance:
     weight: 0.0455
+    avg_copies: 2.0
+  unknown-18:
+    weight: 1.0
     avg_copies: 2.0
 ---

@@ -5,28 +5,28 @@ colors:
 - B
 - G
 name: Samwise Combo
-meta_share: 0.0075
+meta_share: 0.0071
 list_count: 12
 top_cards:
-- name: Gilded Goose
-  weight: 1.0
-  avg_copies: 4.0
 - name: Birthing Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Cauldron Familiar
   weight: 1.0
   avg_copies: 4.0
-- name: Verdant Catacombs
-  weight: 1.0
-  avg_copies: 4.0
-- name: Samwise Gamgee
-  weight: 1.0
-  avg_copies: 4.0
 - name: Chord of Calling
   weight: 1.0
   avg_copies: 4.0
+- name: Verdant Catacombs
+  weight: 1.0
+  avg_copies: 4.0
+- name: Gilded Goose
+  weight: 1.0
+  avg_copies: 4.0
 - name: Windswept Heath
+  weight: 1.0
+  avg_copies: 4.0
+- name: Samwise Gamgee
   weight: 1.0
   avg_copies: 4.0
 - name: Young Wolf
@@ -53,7 +53,7 @@ top_cards:
 - name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
-- name: Godless Shrine
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Dryad Arbor
@@ -62,7 +62,7 @@ top_cards:
 - name: Lush Portico
   weight: 1.0
   avg_copies: 1.0
-- name: Forest
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
 - name: Malevolent Rumble
@@ -113,31 +113,31 @@ top_cards:
 - name: Badgermole Cub
   weight: 0.5
   avg_copies: 2.33
-- name: Lavinia, Azorius Renegade
+- name: Ruthless Lawbringer
   weight: 0.4167
   avg_copies: 1.0
 - name: Wooded Foothills
   weight: 0.4167
   avg_copies: 1.0
-- name: Ruthless Lawbringer
+- name: Lavinia, Azorius Renegade
   weight: 0.4167
   avg_copies: 1.0
 - name: Grist, the Hunger Tide
   weight: 0.4167
   avg_copies: 1.0
-- name: Wall of Roots
+- name: High Noon
   weight: 0.3333
   avg_copies: 2.0
-- name: High Noon
+- name: Wall of Roots
   weight: 0.3333
   avg_copies: 2.0
 - name: Scout for Survivors
   weight: 0.3333
   avg_copies: 1.75
-- name: Dauthi Voidwalker
+- name: Soulless Jailer
   weight: 0.3333
   avg_copies: 1.0
-- name: Soulless Jailer
+- name: Dauthi Voidwalker
   weight: 0.3333
   avg_copies: 1.0
 - name: Culling Ritual
@@ -164,46 +164,46 @@ top_cards:
 - name: Path to Exile
   weight: 0.1667
   avg_copies: 1.5
-- name: Sephiroth, Fabled SOLDIER
+- name: Seam Rip
   weight: 0.1667
   avg_copies: 1.0
 - name: Dawnbringer Cleric
   weight: 0.1667
   avg_copies: 1.0
+- name: Sephiroth, Fabled SOLDIER
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Eidolon of Rhetoric
   weight: 0.1667
   avg_copies: 1.0
-- name: Seam Rip
-  weight: 0.1667
-  avg_copies: 1.0
+- name: Moseo, Vein's New Dean
+  weight: 0.0833
+  avg_copies: 2.0
+- name: City of Brass
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Dewdrop Cure
+  weight: 0.0833
+  avg_copies: 2.0
 - name: Witherbloom Charm
   weight: 0.0833
   avg_copies: 2.0
 - name: Mana Confluence
   weight: 0.0833
   avg_copies: 2.0
-- name: Haliya, Guided by Light
-  weight: 0.0833
-  avg_copies: 2.0
-- name: Dewdrop Cure
-  weight: 0.0833
-  avg_copies: 2.0
 - name: Assassin's Trophy
   weight: 0.0833
   avg_copies: 2.0
-- name: City of Brass
+- name: Haliya, Guided by Light
   weight: 0.0833
   avg_copies: 2.0
-- name: Moseo, Vein's New Dean
-  weight: 0.0833
-  avg_copies: 2.0
-- name: Drannith Magistrate
+- name: Veil of Summer
   weight: 0.0833
   avg_copies: 1.0
 - name: Swamp
   weight: 0.0833
   avg_copies: 1.0
-- name: Veil of Summer
+- name: Drannith Magistrate
   weight: 0.0833
   avg_copies: 1.0
 ---

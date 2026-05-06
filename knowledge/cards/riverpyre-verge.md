@@ -6,13 +6,13 @@ name: Riverpyre Verge
 scryfall_id: 57a93a71-d77c-417f-85d0-cd420f573331
 set: dft
 type: Land
-meta_presence: 0.0118
+meta_presence: 0.0113
 archetypes:
   jeskai-energy:
-    weight: 0.1584
+    weight: 0.1553
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0135
+    weight: 0.013
     avg_copies: 1.0
   izzet-splinter-twin:
     weight: 0.5

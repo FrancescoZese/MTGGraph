@@ -7,11 +7,11 @@ name: Sheoldred's Edict
 scryfall_id: a9225cc3-90f0-448f-a8d9-7c6c2796d077
 set: one
 type: Instant
-meta_presence: 0.0597
+meta_presence: 0.0601
 archetypes:
   dimir-control:
-    weight: 0.9
-    avg_copies: 2.05
+    weight: 0.9054
+    avg_copies: 2.07
   necrodominance:
     weight: 0.4545
     avg_copies: 1.9
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.75
     avg_copies: 2.0
   rakdos-aggro:
-    weight: 0.1667
+    weight: 0.1429
     avg_copies: 2.0
   esper-midrange:
     weight: 1.0
@@ -45,4 +45,7 @@ archetypes:
   sultai-midrange:
     weight: 1.0
     avg_copies: 2.0
+  unknown-14:
+    weight: 1.0
+    avg_copies: 1.0
 ---

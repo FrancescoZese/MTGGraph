@@ -11,7 +11,7 @@ type: Instant // Instant
 meta_presence: 0.0012
 archetypes:
   ruby-storm:
-    weight: 0.0213
+    weight: 0.02
     avg_copies: 1.0
   unknown-11:
     weight: 1.0

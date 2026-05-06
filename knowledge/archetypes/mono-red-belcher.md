@@ -3,37 +3,37 @@ colors:
 - R
 - G
 name: Mono Red Belcher
-meta_share: 0.0075
+meta_share: 0.0071
 list_count: 12
 top_cards:
-- name: Sundering Eruption
+- name: Stormscale Scion
   weight: 1.0
   avg_copies: 4.0
-- name: Goblin Charbelcher
+- name: Sundering Eruption
   weight: 1.0
   avg_copies: 4.0
 - name: Pinnacle Monk
   weight: 1.0
   avg_copies: 4.0
-- name: Stormscale Scion
-  weight: 1.0
-  avg_copies: 4.0
 - name: Desperate Ritual
-  weight: 1.0
-  avg_copies: 4.0
-- name: Pyretic Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Manamorphose
   weight: 1.0
   avg_copies: 4.0
+- name: Pyretic Ritual
+  weight: 1.0
+  avg_copies: 4.0
 - name: Shatterskull Smashing
   weight: 1.0
   avg_copies: 4.0
-- name: Strike It Rich
+- name: Goblin Charbelcher
+  weight: 1.0
+  avg_copies: 4.0
+- name: Irencrag Feat
   weight: 1.0
   avg_copies: 3.92
-- name: Irencrag Feat
+- name: Strike It Rich
   weight: 1.0
   avg_copies: 3.92
 - name: Blood Moon
@@ -105,10 +105,10 @@ top_cards:
 - name: Leyline of Sanctity
   weight: 0.0833
   avg_copies: 4.0
-- name: Hexing Squelcher
+- name: Relic of Progenitus
   weight: 0.0833
   avg_copies: 4.0
-- name: Relic of Progenitus
+- name: Hexing Squelcher
   weight: 0.0833
   avg_copies: 4.0
 - name: Untimely Malfunction
@@ -117,13 +117,13 @@ top_cards:
 - name: Lantern of the Lost
   weight: 0.0833
   avg_copies: 2.0
-- name: Kraza, the Swarm as One
+- name: Serum Powder
   weight: 0.0833
   avg_copies: 2.0
 - name: Phlage, Titan of Fire's Fury
   weight: 0.0833
   avg_copies: 2.0
-- name: Serum Powder
+- name: Kraza, the Swarm as One
   weight: 0.0833
   avg_copies: 2.0
 - name: Path to Exile

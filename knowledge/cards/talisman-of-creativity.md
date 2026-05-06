@@ -6,7 +6,7 @@ name: Talisman of Creativity
 scryfall_id: 101e47ed-4afe-4d15-b6c3-4ab495965fde
 set: soc
 type: Artifact
-meta_presence: 0.0019
+meta_presence: 0.0018
 archetypes:
   eldrazi-breach:
     weight: 0.75

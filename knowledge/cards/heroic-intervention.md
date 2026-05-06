@@ -7,12 +7,12 @@ name: Heroic Intervention
 scryfall_id: e32c67d1-187f-40df-b3b3-6036f5c92834
 set: cmm
 type: Instant
-meta_presence: 0.0019
+meta_presence: 0.0018
 archetypes:
   hardened-scales:
     weight: 0.5
     avg_copies: 1.5
   broodscale-combo:
-    weight: 0.0357
+    weight: 0.0333
     avg_copies: 2.0
 ---

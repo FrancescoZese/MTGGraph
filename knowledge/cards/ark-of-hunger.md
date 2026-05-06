@@ -8,9 +8,12 @@ name: Ark of Hunger
 scryfall_id: 79d01c19-162b-4a12-9e27-18366d95eaa0
 set: sos
 type: Artifact
-meta_presence: 0.0006
+meta_presence: 0.0012
 archetypes:
+  boros-energy:
+    weight: 0.0032
+    avg_copies: 2.0
   boros-ponza:
-    weight: 0.027
+    weight: 0.025
     avg_copies: 1.0
 ---

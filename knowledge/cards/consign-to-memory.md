@@ -7,23 +7,23 @@ name: Consign to Memory
 scryfall_id: bc95af55-d1dd-4fe6-adb0-3ad6db20d986
 set: mh3
 type: Instant
-meta_presence: 0.476
+meta_presence: 0.4762
 archetypes:
   ruby-storm:
-    weight: 0.0213
+    weight: 0.02
     avg_copies: 2.0
   dimir-control:
-    weight: 0.9857
-    avg_copies: 3.41
+    weight: 0.9865
+    avg_copies: 3.45
   mono-blue-belcher:
     weight: 1.0
     avg_copies: 2.94
   jeskai-energy:
-    weight: 0.9802
-    avg_copies: 3.82
+    weight: 0.9806
+    avg_copies: 3.83
   goryo:
-    weight: 0.9677
-    avg_copies: 3.1
+    weight: 0.971
+    avg_copies: 3.11
   necrodominance:
     weight: 0.0909
     avg_copies: 3.5
@@ -34,7 +34,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.52
   affinity:
-    weight: 0.903
+    weight: 0.9048
     avg_copies: 2.32
   domain-zoo:
     weight: 1.0
@@ -46,7 +46,7 @@ archetypes:
     weight: 0.8519
     avg_copies: 2.87
   neoform-combo:
-    weight: 0.9032
+    weight: 0.9091
     avg_copies: 3.5
   mono-blue-tron:
     weight: 1.0
@@ -57,12 +57,15 @@ archetypes:
   kethis-combo:
     weight: 0.8
     avg_copies: 2.75
+  eldrazi-ramp:
+    weight: 0.0286
+    avg_copies: 3.0
   simic-ritual:
     weight: 0.7805
     avg_copies: 2.97
   izzet-prowess:
-    weight: 0.9595
-    avg_copies: 3.1
+    weight: 0.961
+    avg_copies: 3.08
   4c-omnath:
     weight: 0.25
     avg_copies: 2.0
@@ -100,8 +103,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   goryo1:
-    weight: 0.9286
-    avg_copies: 3.23
+    weight: 0.9375
+    avg_copies: 3.07
   goryo7:
     weight: 1.0
     avg_copies: 2.0
@@ -138,4 +141,16 @@ archetypes:
   unknown-11:
     weight: 1.0
     avg_copies: 2.0
+  unknown-15:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-16:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-17:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-19:
+    weight: 1.0
+    avg_copies: 1.5
 ---

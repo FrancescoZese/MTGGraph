@@ -6,10 +6,10 @@ name: Ulamog, the Defiler
 scryfall_id: fd00d56a-86bd-41d8-82b6-975404ef8067
 set: mh3
 type: Legendary Creature — Eldrazi
-meta_presence: 0.0019
+meta_presence: 0.0018
 archetypes:
   goryo:
-    weight: 0.0161
+    weight: 0.0145
     avg_copies: 1.0
   eldrazi-breach:
     weight: 0.5

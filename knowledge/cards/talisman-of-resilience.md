@@ -6,12 +6,12 @@ name: Talisman of Resilience
 scryfall_id: eff598b0-0b32-41d0-b980-584576e58626
 set: dsc
 type: Artifact
-meta_presence: 0.005
+meta_presence: 0.006
 archetypes:
   eldrazi-tron:
-    weight: 0.1186
-    avg_copies: 3.86
+    weight: 0.1452
+    avg_copies: 3.89
   eldrazi-ramp:
-    weight: 0.0312
+    weight: 0.0286
     avg_copies: 2.0
 ---

@@ -3,16 +3,16 @@ colors:
 - U
 - R
 name: Izzet Wizzards
-meta_share: 0.0031
+meta_share: 0.003
 list_count: 5
 top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 5.0
-- name: Scalding Tarn
+- name: Flame of Anor
   weight: 1.0
   avg_copies: 3.8
-- name: Flame of Anor
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 3.8
 - name: Counterspell
@@ -60,10 +60,10 @@ top_cards:
 - name: Invert Polarity
   weight: 0.6
   avg_copies: 2.0
-- name: Ghost Vacuum
+- name: Fire Magic
   weight: 0.6
   avg_copies: 1.67
-- name: Fire Magic
+- name: Ghost Vacuum
   weight: 0.6
   avg_copies: 1.67
 - name: Misty Rainforest
@@ -78,25 +78,25 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 0.4
   avg_copies: 3.5
-- name: Obsidian Charmaw
+- name: Thundertrap Trainer
   weight: 0.4
   avg_copies: 3.0
 - name: Preordain
   weight: 0.4
   avg_copies: 3.0
-- name: Thundertrap Trainer
+- name: Obsidian Charmaw
   weight: 0.4
   avg_copies: 3.0
-- name: Flare of Denial
-  weight: 0.4
-  avg_copies: 2.5
 - name: Consult the Star Charts
   weight: 0.4
   avg_copies: 2.5
-- name: Wan Shi Tong, Librarian
+- name: Fable of the Mirror-Breaker
   weight: 0.4
   avg_copies: 2.5
-- name: Fable of the Mirror-Breaker
+- name: Flare of Denial
+  weight: 0.4
+  avg_copies: 2.5
+- name: Wan Shi Tong, Librarian
   weight: 0.4
   avg_copies: 2.5
 - name: Blood Moon
@@ -123,13 +123,19 @@ top_cards:
 - name: Marang River Regent
   weight: 0.2
   avg_copies: 3.0
-- name: Flusterstorm
+- name: Lórien Revealed
+  weight: 0.2
+  avg_copies: 2.0
+- name: Engineered Explosives
   weight: 0.2
   avg_copies: 2.0
 - name: Field of Ruin
   weight: 0.2
   avg_copies: 2.0
-- name: Lórien Revealed
+- name: Prismari Charm
+  weight: 0.2
+  avg_copies: 2.0
+- name: Flusterstorm
   weight: 0.2
   avg_copies: 2.0
 - name: Expressive Iteration
@@ -138,43 +144,37 @@ top_cards:
 - name: Spirebluff Canal
   weight: 0.2
   avg_copies: 2.0
-- name: Engineered Explosives
-  weight: 0.2
-  avg_copies: 2.0
 - name: Den of the Bugbear
   weight: 0.2
   avg_copies: 2.0
-- name: Prismari Charm
-  weight: 0.2
-  avg_copies: 2.0
-- name: Vedalken Shackles
-  weight: 0.2
-  avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.2
-  avg_copies: 1.0
 - name: Agna Qel'a
-  weight: 0.2
-  avg_copies: 1.0
-- name: Brotherhood's End
-  weight: 0.2
-  avg_copies: 1.0
-- name: Force of Negation
   weight: 0.2
   avg_copies: 1.0
 - name: Annul
   weight: 0.2
   avg_copies: 1.0
-- name: Stone of Erech
+- name: Brotherhood's End
   weight: 0.2
   avg_copies: 1.0
 - name: Mistrise Village
   weight: 0.2
   avg_copies: 1.0
+- name: Stern Scolding
+  weight: 0.2
+  avg_copies: 1.0
+- name: Stone of Erech
+  weight: 0.2
+  avg_copies: 1.0
+- name: Vedalken Shackles
+  weight: 0.2
+  avg_copies: 1.0
 - name: Vampires' Vengeance
   weight: 0.2
   avg_copies: 1.0
-- name: Stern Scolding
+- name: Force of Negation
+  weight: 0.2
+  avg_copies: 1.0
+- name: Hurkyl's Recall
   weight: 0.2
   avg_copies: 1.0
 ---

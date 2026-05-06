@@ -6,7 +6,7 @@ name: Tolaria West
 scryfall_id: b005eef6-75f3-454f-a42b-d851bc84ac4e
 set: tsr
 type: Land
-meta_presence: 0.0411
+meta_presence: 0.0405
 archetypes:
   amulet-titan:
     weight: 1.0

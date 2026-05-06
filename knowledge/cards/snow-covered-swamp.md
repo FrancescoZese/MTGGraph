@@ -6,13 +6,13 @@ name: Snow-Covered Swamp
 scryfall_id: 6aa85af8-15f5-4620-8aea-0b45c28372ed
 set: khm
 type: Basic Snow Land — Swamp
-meta_presence: 0.0075
+meta_presence: 0.0071
 archetypes:
   dimir-control:
-    weight: 0.0143
+    weight: 0.0135
     avg_copies: 1.0
   goryo:
-    weight: 0.0645
+    weight: 0.058
     avg_copies: 1.0
   mill:
     weight: 0.5556

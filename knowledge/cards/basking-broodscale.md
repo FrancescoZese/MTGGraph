@@ -6,7 +6,7 @@ name: Basking Broodscale
 scryfall_id: 5feba5d6-99a6-4e9b-8a7d-90d955868fc3
 set: mh3
 type: Creature — Eldrazi Lizard
-meta_presence: 0.0174
+meta_presence: 0.0179
 archetypes:
   broodscale-combo:
     weight: 1.0

@@ -6,10 +6,10 @@ name: Rustvale Bridge
 scryfall_id: da54e458-1d4f-45f0-a225-99eb9c4049fb
 set: eoc
 type: Artifact Land
-meta_presence: 0.0019
+meta_presence: 0.0018
 archetypes:
   boros-ponza:
-    weight: 0.0541
+    weight: 0.05
     avg_copies: 3.0
   unknown-13:
     weight: 1.0
