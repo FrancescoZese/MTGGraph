@@ -7,25 +7,25 @@ name: Meltdown
 scryfall_id: 173369d2-dc39-4bfe-a602-b47156570365
 set: mh3
 type: Sorcery
-meta_presence: 0.1298
+meta_presence: 0.1293
 archetypes:
   ruby-storm:
-    weight: 0.1
+    weight: 0.098
     avg_copies: 1.4
   boros-energy:
-    weight: 0.055
+    weight: 0.0536
     avg_copies: 1.29
   dimir-control:
-    weight: 0.2838
-    avg_copies: 2.52
+    weight: 0.2857
+    avg_copies: 2.5
   jeskai-energy:
-    weight: 0.0194
+    weight: 0.019
     avg_copies: 1.0
   jeskai-control:
     weight: 0.16
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0175
+    weight: 0.0172
     avg_copies: 1.0
   reanimator:
     weight: 0.7778
@@ -46,16 +46,16 @@ archetypes:
     weight: 0.0488
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.8701
+    weight: 0.8718
     avg_copies: 1.79
   indomitable-creativity:
     weight: 0.125
     avg_copies: 1.0
   dredge:
-    weight: 0.375
-    avg_copies: 2.33
+    weight: 0.4444
+    avg_copies: 2.25
   izzet-artifacts:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 1.0
   izzet-wizards:
     weight: 0.8

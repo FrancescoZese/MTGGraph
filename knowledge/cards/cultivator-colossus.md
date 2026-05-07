@@ -10,6 +10,6 @@ type: Creature — Plant Beast
 meta_presence: 0.0357
 archetypes:
   amulet-titan:
-    weight: 0.8824
+    weight: 0.8841
     avg_copies: 1.0
 ---

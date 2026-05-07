@@ -3,33 +3,33 @@ colors:
 - B
 - G
 name: Yawgmoth Combo
-meta_share: 0.0131
-list_count: 22
+meta_share: 0.0135
+list_count: 23
 top_cards:
 - name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
 - name: Agatha's Soul Cauldron
   weight: 1.0
-  avg_copies: 3.95
-- name: Delighted Halfling
-  weight: 1.0
-  avg_copies: 3.86
+  avg_copies: 3.96
 - name: Yawgmoth, Thran Physician
   weight: 1.0
-  avg_copies: 3.86
+  avg_copies: 3.83
 - name: Badgermole Cub
   weight: 1.0
-  avg_copies: 3.82
+  avg_copies: 3.83
+- name: Delighted Halfling
+  weight: 1.0
+  avg_copies: 3.83
 - name: Young Wolf
   weight: 1.0
-  avg_copies: 3.68
+  avg_copies: 3.65
 - name: Malevolent Rumble
   weight: 1.0
-  avg_copies: 3.55
+  avg_copies: 3.52
 - name: Walking Ballista
   weight: 1.0
-  avg_copies: 2.95
+  avg_copies: 2.96
 - name: Spymaster's Vault
   weight: 1.0
   avg_copies: 2.91
@@ -38,119 +38,119 @@ top_cards:
   avg_copies: 2.91
 - name: Fatal Push
   weight: 1.0
-  avg_copies: 2.77
+  avg_copies: 2.74
 - name: Overgrown Tomb
   weight: 1.0
-  avg_copies: 2.45
+  avg_copies: 2.48
 - name: Thoughtseize
   weight: 1.0
-  avg_copies: 2.18
+  avg_copies: 2.17
 - name: Boseiju, Who Endures
   weight: 1.0
-  avg_copies: 1.86
+  avg_copies: 1.87
 - name: Force of Vigor
   weight: 1.0
-  avg_copies: 1.73
+  avg_copies: 1.74
 - name: Forest
   weight: 1.0
-  avg_copies: 1.59
+  avg_copies: 1.61
 - name: Vexing Bauble
   weight: 1.0
-  avg_copies: 1.18
+  avg_copies: 1.17
 - name: Formidable Speaker
   weight: 1.0
-  avg_copies: 1.14
+  avg_copies: 1.13
 - name: Underground Mortuary
   weight: 1.0
-  avg_copies: 1.14
+  avg_copies: 1.13
 - name: Grist, the Hunger Tide
   weight: 1.0
-  avg_copies: 1.1
-- name: Soulless Jailer
+  avg_copies: 1.09
+- name: Strangleroot Geist
   weight: 1.0
   avg_copies: 1.0
-- name: Strangleroot Geist
+- name: Endurance
   weight: 1.0
   avg_copies: 1.0
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
-- name: Endurance
+- name: Soulless Jailer
   weight: 1.0
   avg_copies: 1.0
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Windswept Heath
-  weight: 0.9545
-  avg_copies: 3.1
+  weight: 0.9565
+  avg_copies: 3.0
 - name: Chord of Calling
-  weight: 0.9545
-  avg_copies: 1.67
+  weight: 0.9565
+  avg_copies: 1.68
 - name: Ashiok, Dream Render
-  weight: 0.9545
-  avg_copies: 1.1
+  weight: 0.9565
+  avg_copies: 1.09
 - name: Virulent Emissary
-  weight: 0.9545
+  weight: 0.9565
   avg_copies: 1.0
 - name: Fulminator Mage
-  weight: 0.8182
-  avg_copies: 1.39
+  weight: 0.8261
+  avg_copies: 1.42
 - name: Orcish Bowmasters
-  weight: 0.7727
+  weight: 0.7826
   avg_copies: 2.0
 - name: Dredger's Insight
-  weight: 0.6818
-  avg_copies: 1.6
+  weight: 0.6957
+  avg_copies: 1.56
 - name: Outland Liberator
-  weight: 0.6818
+  weight: 0.6957
   avg_copies: 1.0
 - name: Pile On
-  weight: 0.6364
+  weight: 0.6522
   avg_copies: 1.0
 - name: Scavenging Ooze
-  weight: 0.5455
+  weight: 0.5652
   avg_copies: 1.0
 - name: Misty Rainforest
-  weight: 0.4091
+  weight: 0.3913
   avg_copies: 1.22
 - name: Wooded Foothills
-  weight: 0.4091
+  weight: 0.3913
   avg_copies: 1.11
 - name: Haywire Mite
-  weight: 0.3182
+  weight: 0.3043
   avg_copies: 1.0
 - name: Ignoble Hierarch
-  weight: 0.2727
+  weight: 0.2609
   avg_copies: 1.0
 - name: Damping Sphere
-  weight: 0.2273
+  weight: 0.2174
   avg_copies: 1.0
 - name: Hapatra, Vizier of Poisons
-  weight: 0.1364
-  avg_copies: 1.0
-- name: Culling Ritual
-  weight: 0.1364
+  weight: 0.1304
   avg_copies: 1.0
 - name: Kraul Harpooner
-  weight: 0.1364
+  weight: 0.1304
   avg_copies: 1.0
-- name: Assassin's Trophy
-  weight: 0.0909
+- name: Culling Ritual
+  weight: 0.1304
   avg_copies: 1.0
 - name: Ouroboroid
-  weight: 0.0455
+  weight: 0.087
   avg_copies: 1.0
-- name: Nurturing Peatland
-  weight: 0.0455
+- name: Assassin's Trophy
+  weight: 0.087
   avg_copies: 1.0
 - name: Murderous Cut
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Creeping Corrosion
-  weight: 0.0455
+  weight: 0.0435
   avg_copies: 1.0
 - name: Sylvan Safekeeper
-  weight: 0.0455
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Nurturing Peatland
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Creeping Corrosion
+  weight: 0.0435
   avg_copies: 1.0
 ---

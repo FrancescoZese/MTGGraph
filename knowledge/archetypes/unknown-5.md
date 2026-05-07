@@ -16,22 +16,22 @@ top_cards:
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Emeritus of Ideation
   weight: 1.0
   avg_copies: 4.0
-- name: Archon of Cruelty
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
 - name: Persist
   weight: 1.0
   avg_copies: 4.0
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 4.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Emeritus of Ideation
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thoughtseize
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
 - name: Emperor of Bones
@@ -49,52 +49,52 @@ top_cards:
 - name: Celestial Purge
   weight: 1.0
   avg_copies: 2.0
-- name: Fatal Push
+- name: Nihil Spellbomb
   weight: 1.0
   avg_copies: 2.0
 - name: Sheoldred, the Apocalypse
   weight: 1.0
   avg_copies: 2.0
-- name: Faithful Mending
-  weight: 1.0
-  avg_copies: 2.0
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.0
-- name: Nihil Spellbomb
+- name: Faithful Mending
+  weight: 1.0
+  avg_copies: 2.0
+- name: Fatal Push
   weight: 1.0
   avg_copies: 2.0
 - name: Inquisition of Kozilek
   weight: 1.0
   avg_copies: 1.5
-- name: Hallowed Fountain
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
 - name: Plains
   weight: 1.0
   avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 1.0
-  avg_copies: 1.0
-- name: Swamp
-  weight: 1.0
-  avg_copies: 1.0
-- name: Shadowy Backstreet
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
 - name: Island
   weight: 1.0
   avg_copies: 1.0
-- name: Undercity Sewers
-  weight: 1.0
-  avg_copies: 1.0
-- name: Watery Grave
-  weight: 1.0
-  avg_copies: 1.0
-- name: Godless Shrine
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
 - name: Pest Control
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shadowy Backstreet
+  weight: 1.0
+  avg_copies: 1.0
+- name: Undercity Sewers
+  weight: 1.0
+  avg_copies: 1.0
+- name: Swamp
+  weight: 1.0
+  avg_copies: 1.0
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 ---

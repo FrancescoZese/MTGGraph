@@ -9,7 +9,7 @@ type: Instant
 meta_presence: 0.0018
 archetypes:
   izzet-prowess:
-    weight: 0.026
+    weight: 0.0256
     avg_copies: 1.5
   unknown-2:
     weight: 1.0

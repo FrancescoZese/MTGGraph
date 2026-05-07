@@ -6,16 +6,16 @@ name: Windswept Heath
 scryfall_id: bd1d13f7-fd38-4f0b-a8e0-1eac78668117
 set: mh3
 type: Land
-meta_presence: 0.1423
+meta_presence: 0.1422
 archetypes:
   boros-energy:
-    weight: 0.4175
-    avg_copies: 2.95
+    weight: 0.4164
+    avg_copies: 2.93
   jeskai-energy:
-    weight: 0.0097
+    weight: 0.0095
     avg_copies: 3.0
   amulet-titan:
-    weight: 0.0441
+    weight: 0.0435
     avg_copies: 1.0
   azorius-control:
     weight: 0.1538
@@ -27,8 +27,8 @@ archetypes:
     weight: 0.1818
     avg_copies: 2.17
   yawgmoth-combo:
-    weight: 0.9545
-    avg_copies: 3.1
+    weight: 0.9565
+    avg_copies: 3.0
   eldrazi-ramp:
     weight: 0.9429
     avg_copies: 1.15
@@ -42,7 +42,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   broodscale-combo:
-    weight: 0.3
+    weight: 0.2903
     avg_copies: 1.11
   bant-control:
     weight: 1.0

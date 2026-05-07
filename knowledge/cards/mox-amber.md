@@ -6,14 +6,14 @@ name: Mox Amber
 scryfall_id: 66024e69-ad60-4c9a-a0ca-da138d33ad80
 set: dom
 type: Legendary Artifact
-meta_presence: 0.0214
+meta_presence: 0.0217
 archetypes:
   kethis-combo:
     weight: 1.0
     avg_copies: 4.0
   izzet-artifacts:
     weight: 1.0
-    avg_copies: 3.46
+    avg_copies: 3.44
   unknown-6:
     weight: 1.0
     avg_copies: 3.0

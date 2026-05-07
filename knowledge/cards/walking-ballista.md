@@ -9,7 +9,7 @@ type: Artifact Creature — Construct
 meta_presence: 0.0685
 archetypes:
   eldrazi-tron:
-    weight: 0.9032
+    weight: 0.9048
     avg_copies: 1.0
   hardened-scales:
     weight: 1.0
@@ -19,9 +19,9 @@ archetypes:
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 2.95
+    avg_copies: 2.96
   broodscale-combo:
-    weight: 0.9333
+    weight: 0.9032
     avg_copies: 2.21
   azorius-blink:
     weight: 0.3333

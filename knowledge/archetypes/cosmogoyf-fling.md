@@ -4,13 +4,10 @@ colors:
 - R
 - G
 name: Cosmogoyf Fling
-meta_share: 0.0077
+meta_share: 0.0076
 list_count: 13
 top_cards:
 - name: Chancellor of the Tangle
-  weight: 1.0
-  avg_copies: 4.0
-- name: Plunge into Darkness
   weight: 1.0
   avg_copies: 4.0
 - name: Gemstone Caverns
@@ -19,19 +16,22 @@ top_cards:
 - name: Thud
   weight: 1.0
   avg_copies: 4.0
+- name: Plunge into Darkness
+  weight: 1.0
+  avg_copies: 4.0
 - name: Gemstone Mine
   weight: 1.0
   avg_copies: 3.85
 - name: Spoils of the Vault
   weight: 1.0
   avg_copies: 3.85
-- name: Devourer of Destiny
-  weight: 1.0
-  avg_copies: 3.77
 - name: Blackcleave Cliffs
   weight: 1.0
   avg_copies: 3.77
 - name: Cosmogoyf
+  weight: 1.0
+  avg_copies: 3.77
+- name: Devourer of Destiny
   weight: 1.0
   avg_copies: 3.77
 - name: Serum Powder
@@ -40,10 +40,10 @@ top_cards:
 - name: Blooming Marsh
   weight: 1.0
   avg_copies: 3.54
-- name: Copperline Gorge
+- name: Inquisition of Kozilek
   weight: 1.0
   avg_copies: 3.23
-- name: Inquisition of Kozilek
+- name: Copperline Gorge
   weight: 1.0
   avg_copies: 3.23
 - name: Pact of Negation

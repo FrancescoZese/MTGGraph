@@ -6,7 +6,7 @@ name: Shatterskull Smashing // Shatterskull, the Hammer Pass
 scryfall_id: bc7239ea-f8aa-4a6f-87bd-c35359635673
 set: znr
 type: Sorcery // Land
-meta_presence: 0.0113
+meta_presence: 0.0111
 archetypes:
   mono-red-belcher:
     weight: 1.0

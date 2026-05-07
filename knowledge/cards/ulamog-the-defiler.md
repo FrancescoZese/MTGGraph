@@ -9,7 +9,7 @@ type: Legendary Creature — Eldrazi
 meta_presence: 0.0018
 archetypes:
   goryo:
-    weight: 0.0145
+    weight: 0.0141
     avg_copies: 1.0
   eldrazi-breach:
     weight: 0.5

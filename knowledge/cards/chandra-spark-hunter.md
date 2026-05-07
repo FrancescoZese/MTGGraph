@@ -10,6 +10,6 @@ type: Legendary Planeswalker — Chandra
 meta_presence: 0.0006
 archetypes:
   affinity:
-    weight: 0.006
+    weight: 0.0058
     avg_copies: 1.0
 ---

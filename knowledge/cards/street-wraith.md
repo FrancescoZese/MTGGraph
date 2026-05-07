@@ -10,11 +10,11 @@ type: Creature — Wraith
 meta_presence: 0.0351
 archetypes:
   dimir-control:
-    weight: 0.0135
+    weight: 0.013
     avg_copies: 4.0
   living-end:
-    weight: 0.9032
-    avg_copies: 2.54
+    weight: 0.9062
+    avg_copies: 2.52
   reanimator:
     weight: 0.037
     avg_copies: 4.0

@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0012
 archetypes:
   dimir-control:
-    weight: 0.0135
+    weight: 0.013
     avg_copies: 2.0
   unknown-17:
     weight: 1.0

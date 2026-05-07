@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.0018
 archetypes:
   dimir-control:
-    weight: 0.0135
+    weight: 0.013
     avg_copies: 2.0
   necrodominance:
     weight: 0.0455

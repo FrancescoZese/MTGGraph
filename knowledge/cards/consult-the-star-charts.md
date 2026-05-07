@@ -7,13 +7,13 @@ name: Consult the Star Charts
 scryfall_id: a16a6555-2e3a-4587-aacd-0307d696b26c
 set: eoe
 type: Instant
-meta_presence: 0.0435
+meta_presence: 0.0439
 archetypes:
   dimir-control:
-    weight: 0.4865
-    avg_copies: 3.67
+    weight: 0.4935
+    avg_copies: 3.61
   jeskai-energy:
-    weight: 0.0097
+    weight: 0.0095
     avg_copies: 3.0
   azorius-control:
     weight: 0.7692

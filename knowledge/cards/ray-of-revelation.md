@@ -7,9 +7,9 @@ name: Ray of Revelation
 scryfall_id: d7e2c5a4-cf92-46bd-9033-8036436488cb
 set: dka
 type: Instant
-meta_presence: 0.0024
+meta_presence: 0.0023
 archetypes:
   dredge:
-    weight: 0.5
+    weight: 0.4444
     avg_copies: 1.75
 ---

@@ -4,13 +4,13 @@ colors:
 - B
 - R
 name: Mardu Blink
-meta_share: 0.0119
+meta_share: 0.0117
 list_count: 20
 top_cards:
-- name: Overlord of the Balemurk
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
 - name: Phelia, Exuberant Shepherd
@@ -46,10 +46,10 @@ top_cards:
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Ephemerate
@@ -76,10 +76,10 @@ top_cards:
 - name: Detective's Phoenix
   weight: 0.85
   avg_copies: 1.88
-- name: Damping Sphere
+- name: Bloodstained Mire
   weight: 0.85
   avg_copies: 1.82
-- name: Bloodstained Mire
+- name: Damping Sphere
   weight: 0.85
   avg_copies: 1.82
 - name: Pinnacle Monk
@@ -112,10 +112,10 @@ top_cards:
 - name: Snow-Covered Mountain
   weight: 0.5
   avg_copies: 1.0
-- name: Sheoldred's Edict
+- name: Plains
   weight: 0.4
   avg_copies: 1.25
-- name: Plains
+- name: Sheoldred's Edict
   weight: 0.4
   avg_copies: 1.25
 - name: Mountain
@@ -133,10 +133,10 @@ top_cards:
 - name: Clarion Conqueror
   weight: 0.15
   avg_copies: 2.0
-- name: Nihil Spellbomb
+- name: March of Otherworldly Light
   weight: 0.15
   avg_copies: 1.67
-- name: March of Otherworldly Light
+- name: Nihil Spellbomb
   weight: 0.15
   avg_copies: 1.67
 - name: Swamp
@@ -160,19 +160,19 @@ top_cards:
 - name: The Legend of Roku
   weight: 0.05
   avg_copies: 2.0
-- name: Seasoned Pyromancer
+- name: Magus of the Moon
   weight: 0.05
   avg_copies: 2.0
-- name: Magus of the Moon
+- name: Seasoned Pyromancer
   weight: 0.05
   avg_copies: 2.0
 - name: Graveyard Trespasser
   weight: 0.05
   avg_copies: 2.0
-- name: Pest Control
+- name: Emptiness
   weight: 0.05
   avg_copies: 1.0
-- name: Emptiness
+- name: Pest Control
   weight: 0.05
   avg_copies: 1.0
 - name: Faerie Macabre

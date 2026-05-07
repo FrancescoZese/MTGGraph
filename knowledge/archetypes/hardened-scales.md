@@ -2,25 +2,25 @@
 colors:
 - G
 name: Hardened Scales
-meta_share: 0.0024
+meta_share: 0.0023
 list_count: 4
 top_cards:
-- name: Inkmoth Nexus
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Walking Ballista
   weight: 1.0
   avg_copies: 4.0
-- name: Arcbound Ravager
+- name: Inkmoth Nexus
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Saga
+- name: Zabaz, the Glimmerwasp
   weight: 1.0
   avg_copies: 4.0
 - name: Hardened Scales
   weight: 1.0
   avg_copies: 4.0
-- name: Zabaz, the Glimmerwasp
+- name: Arcbound Ravager
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Opal
@@ -35,10 +35,10 @@ top_cards:
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 3.0
-- name: Forest
+- name: Whipflare
   weight: 1.0
   avg_copies: 2.25
-- name: Whipflare
+- name: Forest
   weight: 1.0
   avg_copies: 2.25
 - name: Arcbound Worker
@@ -47,10 +47,10 @@ top_cards:
 - name: Dismember
   weight: 1.0
   avg_copies: 1.75
-- name: Welding Jar
+- name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.75
-- name: Boseiju, Who Endures
+- name: Welding Jar
   weight: 1.0
   avg_copies: 1.75
 - name: Nature's Claim
@@ -80,10 +80,10 @@ top_cards:
 - name: Pithing Needle
   weight: 0.75
   avg_copies: 1.0
-- name: Veil of Summer
+- name: Pendelhaven
   weight: 0.75
   avg_copies: 1.0
-- name: Pendelhaven
+- name: Veil of Summer
   weight: 0.75
   avg_copies: 1.0
 - name: Strength of Will
@@ -98,10 +98,10 @@ top_cards:
 - name: Heroic Intervention
   weight: 0.5
   avg_copies: 1.5
-- name: Tormod's Crypt
+- name: Haywire Mite
   weight: 0.5
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Tormod's Crypt
   weight: 0.5
   avg_copies: 1.0
 - name: Force of Vigor
@@ -119,10 +119,10 @@ top_cards:
 - name: Ancient Stirrings
   weight: 0.25
   avg_copies: 3.0
-- name: Skateboard
+- name: Bridgeworks Battle
   weight: 0.25
   avg_copies: 1.0
-- name: Bridgeworks Battle
+- name: Skateboard
   weight: 0.25
   avg_copies: 1.0
 - name: Scrapyard Recombiner

@@ -10,6 +10,6 @@ type: Legendary Creature — Human Shaman
 meta_presence: 0.0012
 archetypes:
   dimir-control:
-    weight: 0.027
+    weight: 0.026
     avg_copies: 2.0
 ---

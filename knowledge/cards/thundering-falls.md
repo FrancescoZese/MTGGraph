@@ -9,10 +9,10 @@ type: Land — Island Mountain
 meta_presence: 0.2089
 archetypes:
   ruby-storm:
-    weight: 0.16
+    weight: 0.1569
     avg_copies: 1.25
   dimir-control:
-    weight: 0.0405
+    weight: 0.039
     avg_copies: 1.0
   jeskai-energy:
     weight: 1.0
@@ -24,10 +24,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   affinity:
-    weight: 0.1131
+    weight: 0.1111
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.9474
+    weight: 0.9483
     avg_copies: 1.0
   reanimator:
     weight: 0.0741
@@ -48,10 +48,10 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   dredge:
-    weight: 0.75
+    weight: 0.7778
     avg_copies: 1.0
   izzet-artifacts:
-    weight: 0.4615
+    weight: 0.4815
     avg_copies: 1.0
   izzet-wizards:
     weight: 1.0

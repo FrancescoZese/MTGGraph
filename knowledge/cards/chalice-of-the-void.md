@@ -6,11 +6,11 @@ name: Chalice of the Void
 scryfall_id: 1f0d2e8e-c8f2-4b31-a6ba-6283fc8740d4
 set: a25
 type: Artifact
-meta_presence: 0.0292
+meta_presence: 0.0293
 archetypes:
   eldrazi-tron:
-    weight: 0.5484
-    avg_copies: 1.38
+    weight: 0.5556
+    avg_copies: 1.37
   mill:
     weight: 0.1111
     avg_copies: 2.0

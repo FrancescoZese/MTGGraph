@@ -10,7 +10,7 @@ type: Creature — Avatar
 meta_presence: 0.0018
 archetypes:
   dimir-control:
-    weight: 0.0135
+    weight: 0.013
     avg_copies: 4.0
   grixis-shadow:
     weight: 1.0
