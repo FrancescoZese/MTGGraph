@@ -7,7 +7,7 @@ name: Mind Sludge
 scryfall_id: 7aaedf6d-171b-4845-8815-debbe06b5b66
 set: zen
 type: Sorcery
-meta_presence: 0.0006
+meta_presence: 0.0005
 archetypes:
   unknown-14:
     weight: 1.0

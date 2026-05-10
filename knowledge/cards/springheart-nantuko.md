@@ -18,4 +18,7 @@ archetypes:
   the-rock:
     weight: 0.5
     avg_copies: 4.0
+  unknown-28:
+    weight: 1.0
+    avg_copies: 4.0
 ---

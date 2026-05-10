@@ -7,7 +7,7 @@ name: Old-Growth Troll
 scryfall_id: b759b0f6-342c-4bba-89f1-8451835d8c45
 set: khm
 type: Creature — Troll Warrior
-meta_presence: 0.0006
+meta_presence: 0.0011
 archetypes:
   mono-green-stompy:
     weight: 1.0

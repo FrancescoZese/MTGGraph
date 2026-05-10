@@ -7,9 +7,12 @@ name: Sakura-Tribe Elder
 scryfall_id: 7a8b1c49-8594-426d-b585-41140235bb0e
 set: soc
 type: Creature — Snake Shaman
-meta_presence: 0.0006
+meta_presence: 0.0011
 archetypes:
   scapeshift-combo:
     weight: 0.1667
+    avg_copies: 1.0
+  unknown-23:
+    weight: 1.0
     avg_copies: 1.0
 ---

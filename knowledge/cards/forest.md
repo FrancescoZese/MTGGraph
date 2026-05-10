@@ -6,16 +6,16 @@ name: Forest
 scryfall_id: f169dfb2-e4c8-46e9-8591-e51bb82da082
 set: sos
 type: Basic Land — Forest
-meta_presence: 0.1533
+meta_presence: 0.1554
 archetypes:
   eldrazi-tron:
-    weight: 0.1587
-    avg_copies: 1.3
+    weight: 0.197
+    avg_copies: 1.31
   amulet-titan:
     weight: 1.0
-    avg_copies: 2.72
+    avg_copies: 2.7
   goryo:
-    weight: 0.0282
+    weight: 0.027
     avg_copies: 1.5
   hardened-scales:
     weight: 1.0
@@ -24,26 +24,26 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.1515
+    weight: 0.1389
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 1.61
+    avg_copies: 1.56
   eldrazi-ramp:
     weight: 1.0
-    avg_copies: 2.46
+    avg_copies: 2.5
   simic-ritual:
-    weight: 0.0244
+    weight: 0.0233
     avg_copies: 2.0
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
   samwise-combo:
     weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 1.07
   broodscale-combo:
     weight: 1.0
-    avg_copies: 2.74
+    avg_copies: 2.73
   elves:
     weight: 1.0
     avg_copies: 3.0
@@ -57,7 +57,7 @@ archetypes:
     weight: 1.0
     avg_copies: 6.0
   cosmogoyf-fling:
-    weight: 0.7692
+    weight: 0.8
     avg_copies: 1.0
   scapeshift-combo:
     weight: 1.0
@@ -84,6 +84,15 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-14:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-25:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-23:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-28:
     weight: 1.0
     avg_copies: 1.0
 ---

@@ -7,7 +7,7 @@ name: Rhonas the Indomitable
 scryfall_id: 50f23c47-278c-4188-8fb4-ae20a0c423c5
 set: akh
 type: Legendary Creature — God
-meta_presence: 0.0006
+meta_presence: 0.0005
 archetypes:
   devoted-combo:
     weight: 1.0

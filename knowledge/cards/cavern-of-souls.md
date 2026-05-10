@@ -6,26 +6,26 @@ name: Cavern of Souls
 scryfall_id: 3aad15a2-8a1b-4460-9b06-e85863081878
 set: lci
 type: Land
-meta_presence: 0.0433
+meta_presence: 0.0422
 archetypes:
   eldrazi-tron:
-    weight: 0.0794
+    weight: 0.0758
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.029
+    weight: 0.0278
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.8286
-    avg_copies: 1.13
+    weight: 0.8158
+    avg_copies: 1.12
   broodscale-combo:
-    weight: 0.7419
-    avg_copies: 1.35
+    weight: 0.7273
+    avg_copies: 1.38
   elves:
     weight: 1.0
     avg_copies: 2.0
   cosmogoyf-fling:
-    weight: 0.9231
-    avg_copies: 2.33
+    weight: 0.9333
+    avg_copies: 2.14
   goryo4:
     weight: 1.0
     avg_copies: 4.0

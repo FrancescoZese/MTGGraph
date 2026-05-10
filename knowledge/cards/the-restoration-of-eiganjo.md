@@ -6,9 +6,9 @@ name: The Restoration of Eiganjo // Architect of Restoration
 scryfall_id: a11a33ae-e7fa-4bd4-8cd8-3a3239a29bcc
 set: neo
 type: Enchantment — Saga // Enchantment Creature — Fox Monk
-meta_presence: 0.0006
+meta_presence: 0.0005
 archetypes:
   boros-ponza:
-    weight: 0.025
+    weight: 0.0196
     avg_copies: 1.0
 ---

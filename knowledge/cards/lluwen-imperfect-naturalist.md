@@ -8,7 +8,7 @@ name: Lluwen, Imperfect Naturalist
 scryfall_id: 127a30a6-c25a-448a-a242-dc04f273a854
 set: ecl
 type: Legendary Creature — Elf Druid
-meta_presence: 0.0006
+meta_presence: 0.0005
 archetypes:
   kethis-combo:
     weight: 0.2

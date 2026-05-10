@@ -7,7 +7,7 @@ name: Collected Company
 scryfall_id: cfa7b456-7e83-4587-a875-9b35fde318c2
 set: dtk
 type: Instant
-meta_presence: 0.0006
+meta_presence: 0.0005
 archetypes:
   selesnya-midrange:
     weight: 1.0

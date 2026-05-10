@@ -6,7 +6,7 @@ name: Codex Shredder
 scryfall_id: 4f5a3293-f3e7-4f68-af6a-b478959226c1
 set: cmr
 type: Artifact
-meta_presence: 0.0012
+meta_presence: 0.0011
 archetypes:
   rakdos-lantern-combo:
     weight: 1.0

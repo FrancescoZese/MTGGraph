@@ -6,7 +6,7 @@ name: Talisman of Indulgence
 scryfall_id: daf69185-96cf-4523-be1d-1fe90fc63ab7
 set: dsc
 type: Artifact
-meta_presence: 0.0006
+meta_presence: 0.0005
 archetypes:
   eldrazi-breach:
     weight: 0.25

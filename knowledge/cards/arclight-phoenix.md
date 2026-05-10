@@ -7,13 +7,13 @@ name: Arclight Phoenix
 scryfall_id: def7f05b-6e63-4828-a92c-ce7921bbdf4e
 set: rvr
 type: Creature — Phoenix
-meta_presence: 0.0059
+meta_presence: 0.0064
 archetypes:
   izzet-prowess:
-    weight: 0.0256
+    weight: 0.0235
     avg_copies: 4.0
   dredge:
-    weight: 0.7778
+    weight: 0.8182
     avg_copies: 4.0
   unknown-2:
     weight: 1.0

@@ -7,13 +7,13 @@ name: Flare of Malice
 scryfall_id: 19efb9ce-62eb-4cbf-b01e-979f3fd09ba6
 set: mh3
 type: Instant
-meta_presence: 0.0053
+meta_presence: 0.0048
 archetypes:
   reanimator:
     weight: 0.1481
     avg_copies: 3.25
   simic-ritual:
-    weight: 0.0244
+    weight: 0.0233
     avg_copies: 3.0
   soultrader-combo:
     weight: 1.0

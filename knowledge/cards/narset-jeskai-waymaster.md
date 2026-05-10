@@ -9,7 +9,7 @@ name: Narset, Jeskai Waymaster
 scryfall_id: 6b77cbc1-dbc8-44d9-aa29-15cbb19afecd
 set: tdm
 type: Legendary Creature — Human Monk
-meta_presence: 0.0006
+meta_presence: 0.0005
 archetypes:
   unknown-10:
     weight: 1.0

@@ -6,41 +6,41 @@ name: Steam Vents
 scryfall_id: b66daa94-d367-4812-9f18-f35378c1febb
 set: ecl
 type: Land — Island Mountain
-meta_presence: 0.337
+meta_presence: 0.3408
 archetypes:
   ruby-storm:
-    weight: 0.1373
+    weight: 0.1228
     avg_copies: 1.29
   dimir-control:
-    weight: 0.2857
+    weight: 0.2821
     avg_copies: 1.09
   jeskai-energy:
     weight: 1.0
     avg_copies: 1.01
   azorius-control:
-    weight: 0.5385
+    weight: 0.5714
     avg_copies: 1.0
   living-end:
-    weight: 0.0312
+    weight: 0.0278
     avg_copies: 2.0
   jeskai-control:
     weight: 1.0
-    avg_copies: 1.28
+    avg_copies: 1.26
   affinity:
-    weight: 0.9708
-    avg_copies: 1.53
+    weight: 0.9692
+    avg_copies: 1.54
   domain-zoo:
     weight: 1.0
-    avg_copies: 1.74
+    avg_copies: 1.73
   reanimator:
     weight: 0.7778
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0244
+    weight: 0.0233
     avg_copies: 1.0
   izzet-prowess:
     weight: 1.0
-    avg_copies: 2.9
+    avg_copies: 2.89
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
@@ -48,10 +48,10 @@ archetypes:
     weight: 0.875
     avg_copies: 1.0
   dredge:
-    weight: 0.8889
-    avg_copies: 1.88
+    weight: 0.9091
+    avg_copies: 1.9
   izzet-artifacts:
-    weight: 0.9259
+    weight: 0.9286
     avg_copies: 1.88
   izzet-wizards:
     weight: 1.0
@@ -67,7 +67,7 @@ archetypes:
     avg_copies: 3.0
   goryo1:
     weight: 1.0
-    avg_copies: 1.19
+    avg_copies: 1.14
   grixis-control:
     weight: 1.0
     avg_copies: 1.5
@@ -88,7 +88,7 @@ archetypes:
     avg_copies: 1.0
   unknown-11:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.5
   unknown-15:
     weight: 1.0
     avg_copies: 2.0
@@ -96,6 +96,18 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-19:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-22:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-25:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-31:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-27:
     weight: 1.0
     avg_copies: 1.0
 ---

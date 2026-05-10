@@ -6,7 +6,7 @@ name: Emet-Selch, Unsundered // Hades, Sorcerer of Eld
 scryfall_id: 75cf4eb8-33e7-4dfc-b890-a7e3b5c1b9d5
 set: fin
 type: Legendary Creature — Elder Wizard // Legendary Creature — Avatar
-meta_presence: 0.0006
+meta_presence: 0.0005
 archetypes:
   grixis-control:
     weight: 0.5

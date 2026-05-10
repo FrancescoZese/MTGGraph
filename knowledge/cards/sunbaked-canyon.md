@@ -6,18 +6,18 @@ name: Sunbaked Canyon
 scryfall_id: c36820fa-ee86-4206-9a0d-737a67cf5208
 set: mh1
 type: Land
-meta_presence: 0.0451
+meta_presence: 0.0433
 archetypes:
   ruby-storm:
-    weight: 0.7647
+    weight: 0.7544
     avg_copies: 1.0
   boros-energy:
-    weight: 0.0883
+    weight: 0.0826
     avg_copies: 1.0
   burn:
     weight: 0.5714
     avg_copies: 3.75
   boros-ponza:
-    weight: 0.15
+    weight: 0.1176
     avg_copies: 1.0
 ---

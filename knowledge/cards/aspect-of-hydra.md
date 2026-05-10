@@ -7,9 +7,9 @@ name: Aspect of Hydra
 scryfall_id: 19353629-07be-47e2-a7d5-3a5e5e1120c8
 set: bng
 type: Instant
-meta_presence: 0.0006
+meta_presence: 0.0011
 archetypes:
   mono-green-stompy:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 3.5
 ---

@@ -6,9 +6,9 @@ name: Botanical Sanctum
 scryfall_id: cc18d5f4-a56a-4f7d-9f56-ccc92cbfb7f7
 set: otj
 type: Land
-meta_presence: 0.0006
+meta_presence: 0.0005
 archetypes:
   izzet-artifacts:
-    weight: 0.037
+    weight: 0.0357
     avg_copies: 2.0
 ---

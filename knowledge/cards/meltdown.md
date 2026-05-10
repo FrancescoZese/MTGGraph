@@ -10,22 +10,22 @@ type: Sorcery
 meta_presence: 0.1293
 archetypes:
   ruby-storm:
-    weight: 0.098
+    weight: 0.0877
     avg_copies: 1.4
   boros-energy:
-    weight: 0.0536
+    weight: 0.0501
     avg_copies: 1.29
   dimir-control:
-    weight: 0.2857
+    weight: 0.2821
     avg_copies: 2.5
   jeskai-energy:
-    weight: 0.019
+    weight: 0.0259
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.16
+    weight: 0.1481
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0172
+    weight: 0.0161
     avg_copies: 1.0
   reanimator:
     weight: 0.7778
@@ -34,28 +34,28 @@ archetypes:
     weight: 0.2857
     avg_copies: 1.5
   hollow-one:
-    weight: 1.0
+    weight: 0.9545
     avg_copies: 2.19
   boros-ponza:
-    weight: 0.1
+    weight: 0.0784
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.2286
+    weight: 0.2105
     avg_copies: 1.12
   simic-ritual:
-    weight: 0.0488
+    weight: 0.0465
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.8718
-    avg_copies: 1.79
+    weight: 0.8824
+    avg_copies: 1.8
   indomitable-creativity:
     weight: 0.125
     avg_copies: 1.0
   dredge:
-    weight: 0.4444
-    avg_copies: 2.25
+    weight: 0.4545
+    avg_copies: 2.2
   izzet-artifacts:
-    weight: 0.037
+    weight: 0.0357
     avg_copies: 1.0
   izzet-wizards:
     weight: 0.8
@@ -77,7 +77,7 @@ archetypes:
     avg_copies: 2.0
   goryo1:
     weight: 1.0
-    avg_copies: 2.12
+    avg_copies: 2.1
   grixis-control:
     weight: 1.0
     avg_copies: 1.5
@@ -87,6 +87,9 @@ archetypes:
   unknown-2:
     weight: 1.0
     avg_copies: 3.0
+  unknown-11:
+    weight: 0.5
+    avg_copies: 1.0
   unknown-8:
     weight: 1.0
     avg_copies: 2.0
@@ -96,4 +99,22 @@ archetypes:
   unknown-18:
     weight: 1.0
     avg_copies: 2.0
+  unknown-20:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-31:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-27:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-29:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-34:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-33:
+    weight: 1.0
+    avg_copies: 3.0
 ---

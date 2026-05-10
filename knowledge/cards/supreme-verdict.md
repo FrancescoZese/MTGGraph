@@ -8,19 +8,19 @@ name: Supreme Verdict
 scryfall_id: 3892f1c5-937e-4ef4-b6f9-e0c0ded070d0
 set: clu
 type: Sorcery
-meta_presence: 0.0234
+meta_presence: 0.023
 archetypes:
   jeskai-energy:
-    weight: 0.0095
+    weight: 0.0086
     avg_copies: 1.0
   goryo:
-    weight: 0.169
+    weight: 0.1622
     avg_copies: 1.0
   azorius-control:
-    weight: 0.7692
-    avg_copies: 1.75
+    weight: 0.7857
+    avg_copies: 1.77
   jeskai-control:
-    weight: 0.44
+    weight: 0.4815
     avg_copies: 1.0
   bant-control:
     weight: 1.0

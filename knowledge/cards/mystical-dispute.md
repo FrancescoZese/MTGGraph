@@ -7,38 +7,38 @@ name: Mystical Dispute
 scryfall_id: fbe04cb8-a8b9-4241-baae-b398a2509a3a
 set: eld
 type: Instant
-meta_presence: 0.4277
+meta_presence: 0.4311
 archetypes:
   dimir-control:
     weight: 1.0
-    avg_copies: 2.27
+    avg_copies: 2.28
   mono-blue-belcher:
-    weight: 0.9429
-    avg_copies: 2.12
+    weight: 0.95
+    avg_copies: 2.11
   jeskai-energy:
-    weight: 0.9905
-    avg_copies: 2.35
+    weight: 0.9914
+    avg_copies: 2.38
   goryo:
-    weight: 0.9718
-    avg_copies: 2.75
+    weight: 0.973
+    avg_copies: 2.76
   necrodominance:
-    weight: 0.0455
+    weight: 0.0435
     avg_copies: 3.0
   azorius-control:
     weight: 1.0
-    avg_copies: 3.15
+    avg_copies: 3.14
   living-end:
-    weight: 0.9688
-    avg_copies: 3.32
+    weight: 0.9722
+    avg_copies: 3.29
   jeskai-control:
     weight: 1.0
-    avg_copies: 2.76
+    avg_copies: 2.78
   affinity:
-    weight: 0.7895
-    avg_copies: 1.42
+    weight: 0.7897
+    avg_copies: 1.44
   domain-zoo:
-    weight: 0.9655
-    avg_copies: 2.77
+    weight: 0.9677
+    avg_copies: 2.75
   mill:
     weight: 0.3333
     avg_copies: 2.33
@@ -46,26 +46,26 @@ archetypes:
     weight: 0.7407
     avg_copies: 2.1
   neoform-combo:
-    weight: 0.9091
-    avg_copies: 3.27
+    weight: 0.9167
+    avg_copies: 3.3
   mono-blue-tron:
-    weight: 0.6
-    avg_copies: 2.0
+    weight: 0.75
+    avg_copies: 2.33
   hammer-time:
     weight: 0.6667
     avg_copies: 2.0
   simic-ritual:
-    weight: 0.9512
-    avg_copies: 2.9
+    weight: 0.9535
+    avg_copies: 2.88
   izzet-prowess:
-    weight: 0.2821
+    weight: 0.2941
     avg_copies: 1.68
   4c-omnath:
     weight: 1.0
     avg_copies: 2.25
   esper-blink:
-    weight: 0.8125
-    avg_copies: 1.85
+    weight: 0.8333
+    avg_copies: 1.87
   indomitable-creativity:
     weight: 0.625
     avg_copies: 2.0
@@ -73,10 +73,10 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   azorius-blink:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 1.0
   izzet-artifacts:
-    weight: 0.2222
+    weight: 0.2143
     avg_copies: 1.5
   esper-control:
     weight: 1.0
@@ -95,7 +95,7 @@ archetypes:
     avg_copies: 2.0
   goryo1:
     weight: 1.0
-    avg_copies: 1.94
+    avg_copies: 1.86
   goryo2:
     weight: 1.0
     avg_copies: 2.0
@@ -117,10 +117,28 @@ archetypes:
   unknown-3:
     weight: 1.0
     avg_copies: 2.0
+  unknown-9:
+    weight: 0.6667
+    avg_copies: 2.0
   unknown-16:
     weight: 1.0
     avg_copies: 4.0
   unknown-19:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-22:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-25:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-30:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-31:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-27:
     weight: 1.0
     avg_copies: 2.0
 ---

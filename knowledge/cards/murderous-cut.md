@@ -10,15 +10,15 @@ type: Instant
 meta_presence: 0.0059
 archetypes:
   living-end:
-    weight: 0.0312
+    weight: 0.0278
     avg_copies: 1.0
   mill:
     weight: 0.4444
     avg_copies: 1.0
   hollow-one:
-    weight: 0.1905
+    weight: 0.2273
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.0435
+    weight: 0.04
     avg_copies: 1.0
 ---

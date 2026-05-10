@@ -7,9 +7,9 @@ name: Timeless Dragon
 scryfall_id: 96fe8889-0ec8-421a-83a4-5d00ab4804db
 set: mh2
 type: Creature — Dragon
-meta_presence: 0.0006
+meta_presence: 0.0005
 archetypes:
   jeskai-control:
-    weight: 0.04
+    weight: 0.037
     avg_copies: 1.0
 ---

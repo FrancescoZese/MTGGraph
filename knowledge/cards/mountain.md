@@ -6,28 +6,28 @@ name: Mountain
 scryfall_id: a642c7b1-d4d1-4125-a66d-560438e5ee51
 set: sos
 type: Basic Land — Mountain
-meta_presence: 0.3956
+meta_presence: 0.4001
 archetypes:
   ruby-storm:
     weight: 1.0
-    avg_copies: 3.1
+    avg_copies: 3.04
   boros-energy:
-    weight: 0.7571
+    weight: 0.7522
     avg_copies: 1.0
   mono-blue-belcher:
-    weight: 0.1429
+    weight: 0.15
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.7619
+    weight: 0.7759
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.2
+    weight: 0.1852
     avg_copies: 1.0
   affinity:
-    weight: 0.0058
+    weight: 0.0154
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.9483
+    weight: 0.9516
     avg_copies: 1.0
   reanimator:
     weight: 0.1111
@@ -42,22 +42,22 @@ archetypes:
     weight: 0.8333
     avg_copies: 1.0
   hollow-one:
-    weight: 0.8095
-    avg_copies: 1.41
+    weight: 0.8182
+    avg_copies: 1.39
   boros-ponza:
     weight: 1.0
-    avg_copies: 1.12
+    avg_copies: 1.1
   izzet-prowess:
     weight: 1.0
-    avg_copies: 2.18
+    avg_copies: 2.19
   indomitable-creativity:
     weight: 1.0
     avg_copies: 1.12
   dredge:
-    weight: 0.7778
-    avg_copies: 1.71
+    weight: 0.8182
+    avg_copies: 1.78
   izzet-artifacts:
-    weight: 0.4444
+    weight: 0.4643
     avg_copies: 1.0
   izzet-wizards:
     weight: 0.8
@@ -78,7 +78,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.0769
+    weight: 0.0667
     avg_copies: 1.0
   scapeshift-combo:
     weight: 0.5
@@ -93,7 +93,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo1:
-    weight: 0.0625
+    weight: 0.0476
     avg_copies: 1.0
   goryo4:
     weight: 1.0
@@ -121,7 +121,7 @@ archetypes:
     avg_copies: 2.0
   unknown-11:
     weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 1.5
   unknown-8:
     weight: 1.0
     avg_copies: 2.0
@@ -129,6 +129,33 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-15:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-22:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-25:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-23:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-32:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-26:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-27:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-29:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-34:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-33:
     weight: 1.0
     avg_copies: 1.0
 ---

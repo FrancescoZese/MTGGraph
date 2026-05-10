@@ -2,64 +2,61 @@
 colors:
 - G
 name: Amulet Titan
-meta_share: 0.0404
-list_count: 69
+meta_share: 0.0385
+list_count: 72
 top_cards:
+- name: Amulet of Vigor
+  weight: 1.0
+  avg_copies: 4.0
+- name: Spelunking
+  weight: 1.0
+  avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Arboreal Grazer
   weight: 1.0
   avg_copies: 4.0
-- name: Spelunking
-  weight: 1.0
-  avg_copies: 4.0
-- name: Amulet of Vigor
-  weight: 1.0
-  avg_copies: 4.0
 - name: Crumbling Vestige
   weight: 1.0
-  avg_copies: 3.83
+  avg_copies: 3.81
 - name: Primeval Titan
   weight: 1.0
-  avg_copies: 3.75
+  avg_copies: 3.76
 - name: Gruul Turf
   weight: 1.0
-  avg_copies: 3.57
+  avg_copies: 3.58
 - name: Scapeshift
   weight: 1.0
-  avg_copies: 3.39
+  avg_copies: 3.4
 - name: Forest
   weight: 1.0
-  avg_copies: 2.72
+  avg_copies: 2.7
 - name: Simic Growth Chamber
   weight: 1.0
-  avg_copies: 2.52
+  avg_copies: 2.5
 - name: Boseiju, Who Endures
   weight: 1.0
-  avg_copies: 2.41
+  avg_copies: 2.39
 - name: Summoner's Pact
   weight: 1.0
   avg_copies: 2.06
 - name: Force of Vigor
   weight: 1.0
-  avg_copies: 2.03
+  avg_copies: 2.01
 - name: Lotus Field
   weight: 1.0
   avg_copies: 2.0
 - name: Aftermath Analyst
   weight: 1.0
   avg_copies: 1.07
+- name: Tolaria West
+  weight: 1.0
+  avg_copies: 1.0
 - name: Shifting Woodland
   weight: 1.0
   avg_copies: 1.0
 - name: Hanweir Battlements
-  weight: 1.0
-  avg_copies: 1.0
-- name: Mirrorpool
-  weight: 1.0
-  avg_copies: 1.0
-- name: Tolaria West
   weight: 1.0
   avg_copies: 1.0
 - name: Otawara, Soaring City
@@ -74,128 +71,131 @@ top_cards:
 - name: Bojuka Bog
   weight: 1.0
   avg_copies: 1.0
+- name: Mirrorpool
+  weight: 1.0
+  avg_copies: 1.0
 - name: Urza's Cave
-  weight: 0.9855
+  weight: 0.9861
   avg_copies: 1.0
 - name: Dismember
-  weight: 0.971
-  avg_copies: 2.28
+  weight: 0.9722
+  avg_copies: 2.31
 - name: Green Sun's Zenith
-  weight: 0.942
-  avg_copies: 3.39
+  weight: 0.9444
+  avg_copies: 3.38
 - name: Six
-  weight: 0.913
+  weight: 0.9028
   avg_copies: 1.06
 - name: Cultivator Colossus
-  weight: 0.8841
+  weight: 0.8889
   avg_copies: 1.0
 - name: Vexing Bauble
-  weight: 0.6667
-  avg_copies: 1.25
+  weight: 0.6806
+  avg_copies: 1.26
 - name: Malevolent Rumble
-  weight: 0.5942
-  avg_copies: 2.78
+  weight: 0.6111
+  avg_copies: 2.8
 - name: Trinisphere
-  weight: 0.5797
+  weight: 0.5556
   avg_copies: 2.65
 - name: Dryad Arbor
-  weight: 0.5507
+  weight: 0.5278
   avg_copies: 1.0
 - name: Collector Ouphe
-  weight: 0.4783
+  weight: 0.4722
   avg_copies: 1.0
 - name: Vampires' Vengeance
-  weight: 0.4493
-  avg_copies: 2.32
+  weight: 0.4583
+  avg_copies: 2.3
 - name: Stock Up
-  weight: 0.3623
+  weight: 0.3472
   avg_copies: 1.75
 - name: Fire Magic
-  weight: 0.3478
+  weight: 0.3333
   avg_copies: 2.54
 - name: Soulless Jailer
-  weight: 0.2899
-  avg_copies: 2.25
+  weight: 0.2917
+  avg_copies: 2.29
 - name: Icetill Explorer
-  weight: 0.2754
+  weight: 0.2639
   avg_copies: 1.04
 - name: Firespout
-  weight: 0.2174
-  avg_copies: 1.73
-- name: The Wandering Minstrel
-  weight: 0.2174
-  avg_copies: 1.0
+  weight: 0.2222
+  avg_copies: 1.81
 - name: Skyline Cascade
-  weight: 0.2174
+  weight: 0.2083
   avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.1449
+- name: The Wandering Minstrel
+  weight: 0.2083
   avg_copies: 1.0
 - name: Tireless Tracker
-  weight: 0.1304
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 0.1667
   avg_copies: 1.0
 - name: Elvish Reclaimer
-  weight: 0.1304
+  weight: 0.1528
   avg_copies: 1.0
 - name: Elder Gargaroth
-  weight: 0.1014
-  avg_copies: 1.0
-- name: Keen-Eyed Curator
-  weight: 0.087
-  avg_copies: 1.0
-- name: Outland Liberator
-  weight: 0.087
-  avg_copies: 1.0
-- name: Wooded Foothills
-  weight: 0.0725
-  avg_copies: 1.0
-- name: Azusa, Lost but Seeking
-  weight: 0.0725
-  avg_copies: 1.0
-- name: Commercial District
-  weight: 0.0725
-  avg_copies: 1.0
-- name: Explore
-  weight: 0.058
-  avg_copies: 3.0
-- name: Creeping Corrosion
-  weight: 0.058
-  avg_copies: 1.0
-- name: Hedge Maze
-  weight: 0.058
+  weight: 0.0972
   avg_copies: 1.0
 - name: The Mycosynth Gardens
-  weight: 0.058
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Keen-Eyed Curator
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Outland Liberator
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Wooded Foothills
+  weight: 0.0694
+  avg_copies: 1.0
+- name: Azusa, Lost but Seeking
+  weight: 0.0694
+  avg_copies: 1.0
+- name: Commercial District
+  weight: 0.0694
+  avg_copies: 1.0
+- name: Explore
+  weight: 0.0556
+  avg_copies: 3.0
+- name: Hedge Maze
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Creeping Corrosion
+  weight: 0.0556
   avg_copies: 1.0
 - name: Insidious Fungus
-  weight: 0.0435
+  weight: 0.0417
   avg_copies: 1.0
 - name: Heritage Reclamation
-  weight: 0.0435
+  weight: 0.0417
   avg_copies: 1.0
 - name: Windswept Heath
-  weight: 0.0435
+  weight: 0.0417
   avg_copies: 1.0
 - name: Cavern of Souls
-  weight: 0.029
+  weight: 0.0278
   avg_copies: 1.0
 - name: Golgari Rot Farm
-  weight: 0.0145
+  weight: 0.0139
   avg_copies: 2.0
-- name: Hexdrinker
-  weight: 0.0145
-  avg_copies: 1.0
 - name: Dosan the Falling Leaf
-  weight: 0.0145
-  avg_copies: 1.0
-- name: Lithomantic Barrage
-  weight: 0.0145
+  weight: 0.0139
   avg_copies: 1.0
 - name: Gemstone Caverns
-  weight: 0.0145
+  weight: 0.0139
+  avg_copies: 1.0
+- name: Hexdrinker
+  weight: 0.0139
   avg_copies: 1.0
 - name: Pyroclasm
-  weight: 0.0145
+  weight: 0.0139
+  avg_copies: 1.0
+- name: Lithomantic Barrage
+  weight: 0.0139
   avg_copies: 1.0
 ---
 Combo-ramp deck using Amulet of Vigor to untap bounce lands, powering out Primeval Titan to assemble lethal with Valakut or utility lands.

@@ -6,7 +6,7 @@ name: Spara's Headquarters
 scryfall_id: 7363f1fb-9af3-4212-921f-d59533faf0e5
 set: snc
 type: Land — Forest Plains Island
-meta_presence: 0.0006
+meta_presence: 0.0005
 archetypes:
   soultrader-combo0:
     weight: 1.0

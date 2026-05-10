@@ -6,7 +6,7 @@ name: Shinka, the Bloodsoaked Keep
 scryfall_id: d2d5f30e-cc3a-46c1-82a9-2cd73705b2f5
 set: chk
 type: Legendary Land
-meta_presence: 0.0006
+meta_presence: 0.0005
 archetypes:
   unknown-18:
     weight: 1.0

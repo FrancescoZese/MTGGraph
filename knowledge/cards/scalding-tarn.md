@@ -6,26 +6,26 @@ name: Scalding Tarn
 scryfall_id: 71e491c5-8c07-449b-b2f1-ffa052e6d311
 set: mh2
 type: Land
-meta_presence: 0.2598
+meta_presence: 0.2596
 archetypes:
   ruby-storm:
-    weight: 0.9608
+    weight: 0.9123
     avg_copies: 2.31
   dimir-control:
-    weight: 0.3377
-    avg_copies: 1.35
+    weight: 0.3462
+    avg_copies: 1.33
   jeskai-energy:
-    weight: 0.9905
-    avg_copies: 3.04
+    weight: 0.9914
+    avg_copies: 3.03
   azorius-control:
     weight: 1.0
-    avg_copies: 2.08
+    avg_copies: 2.0
   jeskai-control:
-    weight: 0.88
-    avg_copies: 3.05
+    weight: 0.8889
+    avg_copies: 3.12
   affinity:
-    weight: 0.1111
-    avg_copies: 2.11
+    weight: 0.1026
+    avg_copies: 2.05
   mill:
     weight: 0.7778
     avg_copies: 1.14
@@ -33,29 +33,29 @@ archetypes:
     weight: 0.7778
     avg_copies: 1.05
   neoform-combo:
-    weight: 0.6364
-    avg_copies: 1.29
+    weight: 0.6389
+    avg_copies: 1.26
   burn:
     weight: 0.5714
     avg_copies: 1.75
   hollow-one:
-    weight: 0.1429
+    weight: 0.1364
     avg_copies: 1.33
   simic-ritual:
-    weight: 0.0488
+    weight: 0.0465
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.9359
-    avg_copies: 2.68
+    weight: 0.9412
+    avg_copies: 2.66
   indomitable-creativity:
     weight: 0.875
     avg_copies: 2.43
   dredge:
     weight: 1.0
-    avg_copies: 3.22
+    avg_copies: 3.09
   izzet-artifacts:
-    weight: 0.5185
-    avg_copies: 3.79
+    weight: 0.5357
+    avg_copies: 3.8
   izzet-wizards:
     weight: 1.0
     avg_copies: 3.8
@@ -76,7 +76,7 @@ archetypes:
     avg_copies: 2.0
   goryo1:
     weight: 1.0
-    avg_copies: 1.69
+    avg_copies: 1.52
   goryo3:
     weight: 1.0
     avg_copies: 1.0
@@ -111,6 +111,18 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-19:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-22:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-25:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-31:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-27:
     weight: 1.0
     avg_copies: 3.0
 ---

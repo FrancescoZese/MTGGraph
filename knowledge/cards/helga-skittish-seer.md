@@ -9,7 +9,7 @@ name: Helga, Skittish Seer
 scryfall_id: 40339715-22d0-4f99-822b-a00d9824f27a
 set: blb
 type: Legendary Creature — Frog Druid
-meta_presence: 0.0006
+meta_presence: 0.0005
 archetypes:
   4c-omnath:
     weight: 0.25

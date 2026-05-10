@@ -8,7 +8,7 @@ name: Wheel of Sun and Moon
 scryfall_id: 55976e4b-718f-44b2-b93d-de5f75dc3bbe
 set: shm
 type: Enchantment — Aura
-meta_presence: 0.0006
+meta_presence: 0.0016
 archetypes:
   unknown-9:
     weight: 1.0

@@ -7,9 +7,12 @@ name: Cryptic Command
 scryfall_id: 30f6fca9-003b-4f6b-9d6e-1e88adda4155
 set: ima
 type: Instant
-meta_presence: 0.0006
+meta_presence: 0.0016
 archetypes:
   dimir-control:
-    weight: 0.013
+    weight: 0.0128
     avg_copies: 2.0
+  unknown-25:
+    weight: 1.0
+    avg_copies: 1.5
 ---

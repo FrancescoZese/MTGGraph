@@ -7,10 +7,10 @@ name: Gravecrawler
 scryfall_id: 6987d609-ba0f-42bf-9b61-bdfb943c03b5
 set: tdc
 type: Creature — Zombie
-meta_presence: 0.0023
+meta_presence: 0.0021
 archetypes:
   simic-ritual:
-    weight: 0.0244
+    weight: 0.0233
     avg_copies: 4.0
   soultrader-combo:
     weight: 1.0

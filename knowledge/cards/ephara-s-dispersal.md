@@ -7,9 +7,9 @@ name: Ephara's Dispersal
 scryfall_id: b622aad1-4f57-472e-9bd8-9404da88d6be
 set: mkc
 type: Instant
-meta_presence: 0.0018
+meta_presence: 0.0016
 archetypes:
   simic-ritual:
-    weight: 0.0732
+    weight: 0.0698
     avg_copies: 1.0
 ---

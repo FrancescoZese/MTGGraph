@@ -6,9 +6,9 @@ name: Jace, Vryn's Prodigy // Jace, Telepath Unbound
 scryfall_id: 02d6d693-f1f3-4317-bcc0-c21fa8490d38
 set: ori
 type: Legendary Creature — Human Wizard // Legendary Planeswalker — Jace
-meta_presence: 0.0006
+meta_presence: 0.0005
 archetypes:
   goryo:
-    weight: 0.0141
+    weight: 0.0135
     avg_copies: 4.0
 ---

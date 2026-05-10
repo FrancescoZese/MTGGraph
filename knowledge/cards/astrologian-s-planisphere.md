@@ -7,7 +7,7 @@ name: Astrologian's Planisphere
 scryfall_id: bfa4e927-1d6f-4a64-9801-7d168a5ef3f6
 set: fin
 type: Artifact — Equipment
-meta_presence: 0.0006
+meta_presence: 0.0005
 archetypes:
   unknown-15:
     weight: 1.0

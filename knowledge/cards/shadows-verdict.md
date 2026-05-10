@@ -7,7 +7,7 @@ name: Shadows' Verdict
 scryfall_id: 52470883-b44d-415b-9324-8074e66f79ae
 set: znr
 type: Sorcery
-meta_presence: 0.0006
+meta_presence: 0.0005
 archetypes:
   unknown-14:
     weight: 1.0

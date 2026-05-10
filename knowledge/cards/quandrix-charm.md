@@ -8,9 +8,9 @@ name: Quandrix Charm
 scryfall_id: 318486e0-f255-40f5-8150-dc272eec9d7d
 set: sos
 type: Instant
-meta_presence: 0.0006
+meta_presence: 0.0005
 archetypes:
   neoform-combo:
-    weight: 0.0303
+    weight: 0.0278
     avg_copies: 3.0
 ---

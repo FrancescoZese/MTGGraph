@@ -8,9 +8,9 @@ name: Glittering Wish
 scryfall_id: 0c89645b-5e53-48c0-b4bb-9f22332c7658
 set: tsr
 type: Sorcery
-meta_presence: 0.0012
+meta_presence: 0.0011
 archetypes:
   neoform-combo:
-    weight: 0.0606
+    weight: 0.0556
     avg_copies: 4.0
 ---
