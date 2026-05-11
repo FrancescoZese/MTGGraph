@@ -7,12 +7,12 @@ name: Destroy Evil
 scryfall_id: 4f7862ef-2c8d-4d28-9e50-7cc41861f245
 set: dmu
 type: Instant
-meta_presence: 0.0069
+meta_presence: 0.0067
 archetypes:
   boros-energy:
-    weight: 0.0295
+    weight: 0.0289
     avg_copies: 1.2
   jeskai-energy:
-    weight: 0.0259
+    weight: 0.0252
     avg_copies: 1.0
 ---

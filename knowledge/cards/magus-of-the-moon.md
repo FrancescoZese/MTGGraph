@@ -10,7 +10,7 @@ type: Creature — Human Wizard
 meta_presence: 0.0118
 archetypes:
   affinity:
-    weight: 0.0615
+    weight: 0.0591
     avg_copies: 1.0
   mardu-blink:
     weight: 0.05
@@ -19,8 +19,8 @@ archetypes:
     weight: 0.0455
     avg_copies: 2.0
   eldrazi-ramp:
-    weight: 0.1842
-    avg_copies: 2.0
+    weight: 0.2
+    avg_copies: 2.12
   rakdos-lantern-combo:
     weight: 0.5
     avg_copies: 1.0

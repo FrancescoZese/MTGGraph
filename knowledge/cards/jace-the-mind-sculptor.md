@@ -10,10 +10,10 @@ type: Legendary Planeswalker — Jace
 meta_presence: 0.0021
 archetypes:
   dimir-control:
-    weight: 0.0128
+    weight: 0.0127
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.0172
+    weight: 0.0168
     avg_copies: 1.0
   azorius-control:
     weight: 0.0714

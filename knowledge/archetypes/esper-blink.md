@@ -4,7 +4,7 @@ colors:
 - U
 - B
 name: Esper Blink
-meta_share: 0.0096
+meta_share: 0.0093
 list_count: 18
 top_cards:
 - name: Solitude
@@ -49,16 +49,16 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.11
-- name: Meticulous Archive
-  weight: 1.0
-  avg_copies: 1.0
 - name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowy Backstreet
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Meticulous Archive
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Thoughtseize
@@ -100,9 +100,6 @@ top_cards:
 - name: Clarion Conqueror
   weight: 0.2778
   avg_copies: 1.6
-- name: Skycoach Conductor
-  weight: 0.2222
-  avg_copies: 1.0
 - name: Island
   weight: 0.2222
   avg_copies: 1.0
@@ -110,6 +107,9 @@ top_cards:
   weight: 0.2222
   avg_copies: 1.0
 - name: Erode
+  weight: 0.2222
+  avg_copies: 1.0
+- name: Skycoach Conductor
   weight: 0.2222
   avg_copies: 1.0
 - name: Psychic Frog
@@ -142,19 +142,19 @@ top_cards:
 - name: White Orchid Phantom
   weight: 0.0556
   avg_copies: 2.0
-- name: Spell Pierce
-  weight: 0.0556
-  avg_copies: 1.0
-- name: March of Otherworldly Light
+- name: Windswept Heath
   weight: 0.0556
   avg_copies: 1.0
 - name: Strix Serenade
   weight: 0.0556
   avg_copies: 1.0
-- name: Windswept Heath
+- name: Emptiness
   weight: 0.0556
   avg_copies: 1.0
-- name: Emptiness
+- name: March of Otherworldly Light
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Spell Pierce
   weight: 0.0556
   avg_copies: 1.0
 - name: Celestial Purge

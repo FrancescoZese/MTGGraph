@@ -3,19 +3,19 @@ colors:
 - B
 - R
 name: Hollow One
-meta_share: 0.0118
+meta_share: 0.0113
 list_count: 22
 top_cards:
-- name: Hollow One
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Burning Inquiry
   weight: 1.0
   avg_copies: 4.0
-- name: Street Wraith
+- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
 - name: Detective's Phoenix
@@ -141,10 +141,10 @@ top_cards:
 - name: Blackcleave Cliffs
   weight: 0.1364
   avg_copies: 1.0
-- name: Sheoldred's Edict
+- name: Goblin Lore
   weight: 0.0909
   avg_copies: 2.0
-- name: Goblin Lore
+- name: Sheoldred's Edict
   weight: 0.0909
   avg_copies: 2.0
 - name: Blood Moon
@@ -156,13 +156,13 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.0909
   avg_copies: 1.0
-- name: Liliana of the Veil
+- name: Violent Urge
   weight: 0.0909
   avg_copies: 1.0
 - name: Commercial District
   weight: 0.0909
   avg_copies: 1.0
-- name: Violent Urge
+- name: Liliana of the Veil
   weight: 0.0909
   avg_copies: 1.0
 - name: Magus of the Moon
@@ -171,34 +171,34 @@ top_cards:
 - name: Rough
   weight: 0.0455
   avg_copies: 2.0
-- name: Ancient Grudge
+- name: Inti, Seneschal of the Sun
   weight: 0.0455
   avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.0455
   avg_copies: 2.0
+- name: Magebane Lizard
+  weight: 0.0455
+  avg_copies: 2.0
 - name: Cam and Farrik, Havoc Duo
+  weight: 0.0455
+  avg_copies: 2.0
+- name: Ancient Grudge
   weight: 0.0455
   avg_copies: 2.0
 - name: Flameblade Adept
   weight: 0.0455
   avg_copies: 2.0
-- name: Magebane Lizard
+- name: Shattering Spree
   weight: 0.0455
-  avg_copies: 2.0
-- name: Inti, Seneschal of the Sun
-  weight: 0.0455
-  avg_copies: 2.0
-- name: Overlord of the Balemurk
+  avg_copies: 1.0
+- name: Barbarian Ring
   weight: 0.0455
   avg_copies: 1.0
 - name: Seal of Fire
   weight: 0.0455
   avg_copies: 1.0
-- name: Shattering Spree
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Barbarian Ring
+- name: Overlord of the Balemurk
   weight: 0.0455
   avg_copies: 1.0
 ---

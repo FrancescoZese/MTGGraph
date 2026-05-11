@@ -10,8 +10,8 @@ type: Legendary Creature — Merfolk Wizard
 meta_presence: 0.101
 archetypes:
   affinity:
-    weight: 0.7692
-    avg_copies: 2.09
+    weight: 0.7734
+    avg_copies: 2.11
   kethis-combo:
     weight: 1.0
     avg_copies: 4.0

@@ -7,7 +7,7 @@ name: Nine Lives
 scryfall_id: e70b7a73-484e-48f1-944c-3d38866cdc20
 set: m21
 type: Enchantment
-meta_presence: 0.0016
+meta_presence: 0.0015
 archetypes:
   unknown-9:
     weight: 1.0

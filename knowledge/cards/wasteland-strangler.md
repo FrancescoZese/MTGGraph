@@ -6,7 +6,7 @@ name: Wasteland Strangler
 scryfall_id: 5e215ab0-efd6-4ea2-8bd2-0a93865e1e3c
 set: bfz
 type: Creature — Eldrazi Processor
-meta_presence: 0.0011
+meta_presence: 0.001
 archetypes:
   unknown-24:
     weight: 1.0

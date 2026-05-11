@@ -7,9 +7,9 @@ name: Vein Ripper
 scryfall_id: 078933b3-6d82-45f2-94e8-addf54cf1704
 set: mkm
 type: Creature — Vampire Assassin
-meta_presence: 0.0011
+meta_presence: 0.001
 archetypes:
   necrodominance:
-    weight: 0.087
+    weight: 0.08
     avg_copies: 4.0
 ---

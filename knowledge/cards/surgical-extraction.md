@@ -1,22 +1,22 @@
 ---
 archetypes:
   boros-energy:
-    weight: 0.9056
-    avg_copies: 1.31
+    weight: 0.9046
+    avg_copies: 1.32
   dimir-control:
-    weight: 0.1154
+    weight: 0.1139
     avg_copies: 1.44
   mono-blue-belcher:
-    weight: 0.025
+    weight: 0.0238
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.7328
+    weight: 0.7143
     avg_copies: 1.09
   goryo:
-    weight: 0.5676
-    avg_copies: 1.17
+    weight: 0.5733
+    avg_copies: 1.16
   necrodominance:
-    weight: 0.6522
+    weight: 0.6
     avg_copies: 1.53
   azorius-control:
     weight: 0.5714
@@ -25,11 +25,11 @@ archetypes:
     weight: 0.5556
     avg_copies: 1.2
   domain-zoo:
-    weight: 0.2258
-    avg_copies: 1.14
+    weight: 0.2344
+    avg_copies: 1.13
   mill:
     weight: 1.0
-    avg_copies: 2.58
+    avg_copies: 2.79
   reanimator:
     weight: 0.2222
     avg_copies: 1.33
@@ -46,14 +46,14 @@ archetypes:
     weight: 0.6364
     avg_copies: 1.79
   boros-ponza:
-    weight: 0.2157
-    avg_copies: 1.58
+    weight: 0.2105
+    avg_copies: 1.69
   eldrazi-ramp:
-    weight: 0.0789
+    weight: 0.075
     avg_copies: 1.67
   izzet-prowess:
-    weight: 0.8824
-    avg_copies: 1.6
+    weight: 0.8876
+    avg_copies: 1.58
   esper-blink:
     weight: 0.1667
     avg_copies: 1.0
@@ -85,7 +85,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.5238
+    weight: 0.5
     avg_copies: 1.18
   goryo5:
     weight: 1.0
@@ -135,10 +135,13 @@ archetypes:
   unknown-29:
     weight: 1.0
     avg_copies: 1.0
+  unknown-36:
+    weight: 1.0
+    avg_copies: 2.0
 cmc: 1
 colors: []
 image: https://cards.scryfall.io/normal/front/e/1/e15d76ac-1c23-4503-8225-375ac2bf2fb6.jpg?1673147668
-meta_presence: 0.3697
+meta_presence: 0.3648
 name: Surgical Extraction
 scryfall_id: e15d76ac-1c23-4503-8225-375ac2bf2fb6
 set: 2x2

@@ -7,10 +7,10 @@ name: 'Unknown #2'
 meta_share: 0.0005
 list_count: 1
 top_cards:
-- name: Gut Shot
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Force of Negation
   weight: 1.0
   avg_copies: 4.0
 - name: Manamorphose
@@ -19,16 +19,16 @@ top_cards:
 - name: Lava Dart
   weight: 1.0
   avg_copies: 4.0
-- name: Force of Negation
-  weight: 1.0
-  avg_copies: 4.0
-- name: Consider
-  weight: 1.0
-  avg_copies: 4.0
-- name: Price of Freedom
+- name: Thought Scour
   weight: 1.0
   avg_copies: 4.0
 - name: Arclight Phoenix
+  weight: 1.0
+  avg_copies: 4.0
+- name: Exhibition Tidecaller
+  weight: 1.0
+  avg_copies: 4.0
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
 - name: Demilich
@@ -40,13 +40,13 @@ top_cards:
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
-- name: Thought Scour
+- name: Gut Shot
   weight: 1.0
   avg_copies: 4.0
-- name: Scalding Tarn
+- name: Price of Freedom
   weight: 1.0
   avg_copies: 4.0
-- name: Exhibition Tidecaller
+- name: Consider
   weight: 1.0
   avg_copies: 4.0
 - name: Flashback
@@ -67,10 +67,10 @@ top_cards:
 - name: Wooded Foothills
   weight: 1.0
   avg_copies: 2.0
-- name: Mountain
+- name: Into the Flood Maw
   weight: 1.0
   avg_copies: 1.0
-- name: Into the Flood Maw
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
 ---

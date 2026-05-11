@@ -6,7 +6,7 @@ name: Unclaimed Territory
 scryfall_id: 7f5ad03d-77ae-4e06-96f2-4f03bdfbb226
 set: ecc
 type: Land
-meta_presence: 0.0011
+meta_presence: 0.001
 archetypes:
   goryo4:
     weight: 1.0

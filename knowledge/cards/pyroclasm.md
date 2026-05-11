@@ -9,6 +9,9 @@ set: dsk
 type: Sorcery
 meta_presence: 0.0443
 archetypes:
+  ruby-storm:
+    weight: 0.0169
+    avg_copies: 2.0
   amulet-titan:
     weight: 0.0139
     avg_copies: 1.0
@@ -16,7 +19,7 @@ archetypes:
     weight: 0.0714
     avg_copies: 2.0
   domain-zoo:
-    weight: 0.1129
+    weight: 0.1094
     avg_copies: 1.0
   reanimator:
     weight: 0.7778
@@ -31,10 +34,10 @@ archetypes:
     weight: 0.0233
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.0588
+    weight: 0.0562
     avg_copies: 1.8
   broodscale-combo:
-    weight: 0.0303
+    weight: 0.0294
     avg_copies: 2.0
   izzet-artifacts:
     weight: 0.1071
@@ -52,11 +55,11 @@ archetypes:
     weight: 0.3333
     avg_copies: 3.0
   goryo0:
-    weight: 0.1111
+    weight: 0.1667
     avg_copies: 2.0
   goryo1:
-    weight: 0.9048
-    avg_copies: 1.74
+    weight: 0.9091
+    avg_copies: 1.7
   unknown-4:
     weight: 1.0
     avg_copies: 1.0

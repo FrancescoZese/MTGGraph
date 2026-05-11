@@ -13,14 +13,14 @@ archetypes:
     weight: 0.0029
     avg_copies: 2.0
   jeskai-energy:
-    weight: 0.0086
+    weight: 0.0084
     avg_copies: 2.0
   jeskai-control:
     weight: 0.037
     avg_copies: 2.0
   boros-ponza:
-    weight: 0.2353
-    avg_copies: 2.64
+    weight: 0.2281
+    avg_copies: 2.6
   indomitable-creativity:
     weight: 0.625
     avg_copies: 2.6
@@ -40,6 +40,6 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-26:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 4.0
 ---

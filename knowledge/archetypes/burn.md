@@ -3,19 +3,19 @@ colors:
 - W
 - R
 name: Burn
-meta_share: 0.0037
+meta_share: 0.0036
 list_count: 7
 top_cards:
-- name: Lava Spike
-  weight: 1.0
-  avg_copies: 4.0
 - name: Boltwave
   weight: 1.0
   avg_copies: 4.0
-- name: Skullcrack
+- name: Lava Spike
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 3.57
-- name: Lightning Bolt
+- name: Skullcrack
   weight: 1.0
   avg_copies: 3.57
 - name: Barbarian Ring
@@ -75,22 +75,22 @@ top_cards:
 - name: Arena of Glory
   weight: 0.4286
   avg_copies: 3.0
-- name: Pyroclasm
+- name: Obsidian Charmaw
   weight: 0.4286
   avg_copies: 2.33
-- name: Obsidian Charmaw
+- name: Pyroclasm
   weight: 0.4286
   avg_copies: 2.33
 - name: Surgical Extraction
   weight: 0.4286
   avg_copies: 2.0
-- name: Shard Volley
+- name: Deflecting Palm
   weight: 0.4286
   avg_copies: 1.67
 - name: Sacred Foundry
   weight: 0.4286
   avg_copies: 1.67
-- name: Deflecting Palm
+- name: Shard Volley
   weight: 0.4286
   avg_copies: 1.67
 - name: Exquisite Firecraft
@@ -120,46 +120,46 @@ top_cards:
 - name: Molten Rain
   weight: 0.2857
   avg_copies: 1.0
-- name: Vexing Devil
+- name: Iridescent Vinelasher
   weight: 0.1429
   avg_copies: 4.0
 - name: Sanctifier en-Vec
   weight: 0.1429
   avg_copies: 4.0
-- name: Iridescent Vinelasher
+- name: Vexing Devil
   weight: 0.1429
   avg_copies: 4.0
-- name: Containment Priest
-  weight: 0.1429
-  avg_copies: 3.0
 - name: Magebane Lizard
   weight: 0.1429
   avg_copies: 3.0
+- name: Containment Priest
+  weight: 0.1429
+  avg_copies: 3.0
+- name: Blood Crypt
+  weight: 0.1429
+  avg_copies: 2.0
+- name: Tunnel Ignus
+  weight: 0.1429
+  avg_copies: 2.0
 - name: Wear
   weight: 0.1429
   avg_copies: 2.0
 - name: Nihil Spellbomb
   weight: 0.1429
   avg_copies: 2.0
-- name: Tunnel Ignus
+- name: Elegant Parlor
   weight: 0.1429
-  avg_copies: 2.0
-- name: Blood Crypt
-  weight: 0.1429
-  avg_copies: 2.0
+  avg_copies: 1.0
 - name: Blood Moon
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Rain of Gore
   weight: 0.1429
   avg_copies: 1.0
 - name: card:volcanic-fallout
   weight: 0.1429
   avg_copies: 1.0
-- name: Elegant Parlor
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Rakdos Charm
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Rain of Gore
   weight: 0.1429
   avg_copies: 1.0
 ---

@@ -8,11 +8,11 @@ name: Ice-Fang Coatl
 scryfall_id: 6a55cfed-e76c-4ade-ac78-a546e05fe8da
 set: mh1
 type: Snow Creature — Snake
-meta_presence: 0.0342
+meta_presence: 0.0335
 archetypes:
   neoform-combo:
-    weight: 0.6389
-    avg_copies: 3.7
+    weight: 0.6316
+    avg_copies: 3.71
   simic-ritual:
     weight: 0.9535
     avg_copies: 4.0

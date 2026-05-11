@@ -13,25 +13,25 @@ archetypes:
     weight: 0.0029
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.0776
+    weight: 0.0756
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.0152
+    weight: 0.0143
     avg_copies: 1.0
   goryo:
-    weight: 0.1081
+    weight: 0.1067
     avg_copies: 1.0
   living-end:
-    weight: 0.0833
-    avg_copies: 1.33
+    weight: 0.1026
+    avg_copies: 1.25
   jeskai-control:
     weight: 0.037
     avg_copies: 2.0
   domain-zoo:
-    weight: 0.0161
+    weight: 0.0156
     avg_copies: 2.0
   boros-ponza:
-    weight: 0.0392
+    weight: 0.0351
     avg_copies: 2.0
   kethis-combo:
     weight: 0.2

@@ -7,20 +7,20 @@ name: Ragavan, Nimble Pilferer
 scryfall_id: a9738cda-adb1-47fb-9f4c-ecd930228c4d
 set: mh2
 type: Legendary Creature — Monkey Pirate
-meta_presence: 0.2965
+meta_presence: 0.2926
 archetypes:
   boros-energy:
     weight: 1.0
     avg_copies: 3.81
   jeskai-energy:
-    weight: 0.9914
+    weight: 0.9916
     avg_copies: 3.53
   jeskai-control:
     weight: 0.037
     avg_copies: 4.0
   domain-zoo:
-    weight: 0.9839
-    avg_copies: 3.93
+    weight: 0.9844
+    avg_copies: 3.94
   burn:
     weight: 0.2857
     avg_copies: 1.0
@@ -28,10 +28,10 @@ archetypes:
     weight: 0.9
     avg_copies: 3.0
   boros-ponza:
-    weight: 0.0392
+    weight: 0.0351
     avg_copies: 4.0
   izzet-prowess:
-    weight: 0.0118
+    weight: 0.0112
     avg_copies: 4.0
   jund-saga:
     weight: 1.0
@@ -49,7 +49,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   goryo1:
-    weight: 0.1429
+    weight: 0.1364
     avg_copies: 3.33
   izzet-murktide:
     weight: 1.0
@@ -75,4 +75,7 @@ archetypes:
   unknown-33:
     weight: 1.0
     avg_copies: 3.0
+  unknown-38:
+    weight: 1.0
+    avg_copies: 4.0
 ---

@@ -2,19 +2,19 @@
 colors:
 - G
 name: Amulet Titan
-meta_share: 0.0385
+meta_share: 0.0371
 list_count: 72
 top_cards:
-- name: Amulet of Vigor
+- name: Arboreal Grazer
   weight: 1.0
   avg_copies: 4.0
-- name: Spelunking
+- name: Amulet of Vigor
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
-- name: Arboreal Grazer
+- name: Spelunking
   weight: 1.0
   avg_copies: 4.0
 - name: Crumbling Vestige
@@ -53,13 +53,7 @@ top_cards:
 - name: Tolaria West
   weight: 1.0
   avg_copies: 1.0
-- name: Shifting Woodland
-  weight: 1.0
-  avg_copies: 1.0
-- name: Hanweir Battlements
-  weight: 1.0
-  avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Bojuka Bog
   weight: 1.0
   avg_copies: 1.0
 - name: Vesuva
@@ -68,10 +62,16 @@ top_cards:
 - name: Echoing Deeps
   weight: 1.0
   avg_copies: 1.0
-- name: Bojuka Bog
+- name: Hanweir Battlements
   weight: 1.0
   avg_copies: 1.0
 - name: Mirrorpool
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shifting Woodland
+  weight: 1.0
+  avg_copies: 1.0
+- name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
 - name: Urza's Cave
@@ -122,16 +122,16 @@ top_cards:
 - name: Firespout
   weight: 0.2222
   avg_copies: 1.81
-- name: Skyline Cascade
-  weight: 0.2083
-  avg_copies: 1.0
 - name: The Wandering Minstrel
   weight: 0.2083
   avg_copies: 1.0
-- name: Tireless Tracker
-  weight: 0.1667
+- name: Skyline Cascade
+  weight: 0.2083
   avg_copies: 1.0
 - name: Soul-Guide Lantern
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Tireless Tracker
   weight: 0.1667
   avg_copies: 1.0
 - name: Elvish Reclaimer
@@ -140,22 +140,22 @@ top_cards:
 - name: Elder Gargaroth
   weight: 0.0972
   avg_copies: 1.0
-- name: The Mycosynth Gardens
+- name: Outland Liberator
   weight: 0.0833
   avg_copies: 1.0
 - name: Keen-Eyed Curator
   weight: 0.0833
   avg_copies: 1.0
-- name: Outland Liberator
+- name: The Mycosynth Gardens
   weight: 0.0833
   avg_copies: 1.0
 - name: Wooded Foothills
   weight: 0.0694
   avg_copies: 1.0
-- name: Azusa, Lost but Seeking
+- name: Commercial District
   weight: 0.0694
   avg_copies: 1.0
-- name: Commercial District
+- name: Azusa, Lost but Seeking
   weight: 0.0694
   avg_copies: 1.0
 - name: Explore
@@ -167,13 +167,13 @@ top_cards:
 - name: Creeping Corrosion
   weight: 0.0556
   avg_copies: 1.0
-- name: Insidious Fungus
+- name: Windswept Heath
   weight: 0.0417
   avg_copies: 1.0
 - name: Heritage Reclamation
   weight: 0.0417
   avg_copies: 1.0
-- name: Windswept Heath
+- name: Insidious Fungus
   weight: 0.0417
   avg_copies: 1.0
 - name: Cavern of Souls
@@ -182,19 +182,19 @@ top_cards:
 - name: Golgari Rot Farm
   weight: 0.0139
   avg_copies: 2.0
-- name: Dosan the Falling Leaf
-  weight: 0.0139
-  avg_copies: 1.0
 - name: Gemstone Caverns
-  weight: 0.0139
-  avg_copies: 1.0
-- name: Hexdrinker
   weight: 0.0139
   avg_copies: 1.0
 - name: Pyroclasm
   weight: 0.0139
   avg_copies: 1.0
 - name: Lithomantic Barrage
+  weight: 0.0139
+  avg_copies: 1.0
+- name: Hexdrinker
+  weight: 0.0139
+  avg_copies: 1.0
+- name: Dosan the Falling Leaf
   weight: 0.0139
   avg_copies: 1.0
 ---

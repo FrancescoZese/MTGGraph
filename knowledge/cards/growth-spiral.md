@@ -8,7 +8,7 @@ name: Growth Spiral
 scryfall_id: 1e10e2b4-9639-41ae-8b8e-253224d3d513
 set: dsc
 type: Instant
-meta_presence: 0.0011
+meta_presence: 0.001
 archetypes:
   unknown-25:
     weight: 1.0

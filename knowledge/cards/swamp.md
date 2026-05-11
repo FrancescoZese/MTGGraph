@@ -9,23 +9,23 @@ type: Basic Land — Swamp
 meta_presence: 0.2179
 archetypes:
   dimir-control:
-    weight: 0.9872
+    weight: 0.9873
     avg_copies: 1.03
   eldrazi-tron:
-    weight: 0.697
+    weight: 0.6714
     avg_copies: 1.0
   goryo:
-    weight: 0.9459
+    weight: 0.9467
     avg_copies: 1.04
   necrodominance:
     weight: 1.0
-    avg_copies: 10.22
+    avg_copies: 9.92
   living-end:
-    weight: 0.4167
+    weight: 0.4103
     avg_copies: 1.0
   mill:
-    weight: 0.5556
-    avg_copies: 1.4
+    weight: 0.6364
+    avg_copies: 1.29
   reanimator:
     weight: 1.0
     avg_copies: 1.7
@@ -79,7 +79,7 @@ archetypes:
     avg_copies: 1.0
   goryo1:
     weight: 1.0
-    avg_copies: 1.29
+    avg_copies: 1.27
   goryo5:
     weight: 1.0
     avg_copies: 1.5
@@ -132,6 +132,15 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-33:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-38:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-39:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-36:
     weight: 1.0
     avg_copies: 1.0
 ---

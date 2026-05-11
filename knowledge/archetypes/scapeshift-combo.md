@@ -2,7 +2,7 @@
 colors:
 - G
 name: Scapeshift Combo
-meta_share: 0.0032
+meta_share: 0.0031
 list_count: 6
 top_cards:
 - name: Green Sun's Zenith
@@ -38,37 +38,10 @@ top_cards:
 - name: Collector Ouphe
   weight: 0.6667
   avg_copies: 1.0
-- name: Kozilek's Command
-  weight: 0.5
-  avg_copies: 4.0
-- name: Badgermole Cub
-  weight: 0.5
-  avg_copies: 4.0
-- name: Valakut, the Molten Pinnacle
-  weight: 0.5
-  avg_copies: 4.0
-- name: Wooded Foothills
-  weight: 0.5
-  avg_copies: 4.0
-- name: Eldrazi Temple
-  weight: 0.5
-  avg_copies: 4.0
-- name: Springheart Nantuko
-  weight: 0.5
-  avg_copies: 4.0
-- name: Dryad of the Ilysian Grove
-  weight: 0.5
-  avg_copies: 4.0
-- name: Sowing Mycospawn
-  weight: 0.5
-  avg_copies: 4.0
-- name: Ouroboroid
-  weight: 0.5
-  avg_copies: 4.0
 - name: Hashep Oasis
   weight: 0.5
   avg_copies: 4.0
-- name: Prismatic Vista
+- name: Dryad of the Ilysian Grove
   weight: 0.5
   avg_copies: 4.0
 - name: Thought-Knot Seer
@@ -77,13 +50,40 @@ top_cards:
 - name: Vibrance
   weight: 0.5
   avg_copies: 4.0
+- name: Badgermole Cub
+  weight: 0.5
+  avg_copies: 4.0
+- name: Springheart Nantuko
+  weight: 0.5
+  avg_copies: 4.0
+- name: Wooded Foothills
+  weight: 0.5
+  avg_copies: 4.0
+- name: Valakut, the Molten Pinnacle
+  weight: 0.5
+  avg_copies: 4.0
+- name: Ouroboroid
+  weight: 0.5
+  avg_copies: 4.0
+- name: Kozilek's Command
+  weight: 0.5
+  avg_copies: 4.0
 - name: Delighted Halfling
   weight: 0.5
   avg_copies: 4.0
-- name: Misty Rainforest
+- name: Prismatic Vista
+  weight: 0.5
+  avg_copies: 4.0
+- name: Eldrazi Temple
+  weight: 0.5
+  avg_copies: 4.0
+- name: Sowing Mycospawn
+  weight: 0.5
+  avg_copies: 4.0
+- name: Arboreal Grazer
   weight: 0.5
   avg_copies: 3.33
-- name: Arboreal Grazer
+- name: Misty Rainforest
   weight: 0.5
   avg_copies: 3.33
 - name: Trinisphere
@@ -95,28 +95,28 @@ top_cards:
 - name: Commercial District
   weight: 0.5
   avg_copies: 3.0
-- name: Stomping Ground
+- name: Creeping Corrosion
   weight: 0.5
   avg_copies: 2.0
-- name: Creeping Corrosion
+- name: Stomping Ground
   weight: 0.5
   avg_copies: 2.0
 - name: Mountain
   weight: 0.5
   avg_copies: 1.67
+- name: Wastes
+  weight: 0.5
+  avg_copies: 1.0
 - name: Blast Zone
   weight: 0.5
   avg_copies: 1.0
 - name: Endurance
   weight: 0.5
   avg_copies: 1.0
-- name: Wastes
+- name: Chomping Changeling
   weight: 0.5
   avg_copies: 1.0
 - name: Tajuru Preserver
-  weight: 0.5
-  avg_copies: 1.0
-- name: Chomping Changeling
   weight: 0.5
   avg_copies: 1.0
 - name: Damping Sphere
@@ -131,10 +131,10 @@ top_cards:
 - name: Fade from History
   weight: 0.3333
   avg_copies: 3.0
-- name: Prismatic Omen
+- name: Scalding Tarn
   weight: 0.3333
   avg_copies: 2.0
-- name: Scalding Tarn
+- name: Prismatic Omen
   weight: 0.3333
   avg_copies: 2.0
 - name: Bojuka Bog
@@ -155,43 +155,43 @@ top_cards:
 - name: Fire Magic
   weight: 0.1667
   avg_copies: 4.0
-- name: Bring to Light
+- name: Farseek
   weight: 0.1667
   avg_copies: 3.0
 - name: Arid Mesa
   weight: 0.1667
   avg_copies: 3.0
-- name: Farseek
+- name: Bring to Light
   weight: 0.1667
   avg_copies: 3.0
-- name: Meltdown
+- name: Scapeshift
   weight: 0.1667
   avg_copies: 2.0
-- name: Scapeshift
+- name: Meltdown
   weight: 0.1667
   avg_copies: 2.0
 - name: Celestial Purge
   weight: 0.1667
   avg_copies: 2.0
-- name: Thundering Falls
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Keen-Eyed Curator
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Sakura-Tribe Elder
+- name: Dwarven Mine
   weight: 0.1667
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.1667
   avg_copies: 1.0
-- name: Insidious Fungus
+- name: Keen-Eyed Curator
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Thundering Falls
   weight: 0.1667
   avg_copies: 1.0
 - name: Jetmir's Garden
   weight: 0.1667
   avg_copies: 1.0
-- name: Dwarven Mine
+- name: Insidious Fungus
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Sakura-Tribe Elder
   weight: 0.1667
   avg_copies: 1.0
 ---

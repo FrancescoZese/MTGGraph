@@ -5,22 +5,22 @@ colors:
 - B
 - G
 name: Samwise Combo
-meta_share: 0.008
+meta_share: 0.0077
 list_count: 15
 top_cards:
 - name: Gilded Goose
   weight: 1.0
   avg_copies: 4.0
-- name: Samwise Gamgee
-  weight: 1.0
-  avg_copies: 4.0
 - name: Windswept Heath
   weight: 1.0
   avg_copies: 4.0
-- name: Birthing Ritual
+- name: Samwise Gamgee
   weight: 1.0
   avg_copies: 4.0
 - name: Cauldron Familiar
+  weight: 1.0
+  avg_copies: 4.0
+- name: Birthing Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Verdant Catacombs
@@ -53,10 +53,10 @@ top_cards:
 - name: Lush Portico
   weight: 1.0
   avg_copies: 1.0
-- name: Dryad Arbor
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
-- name: Godless Shrine
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
 - name: Young Wolf
@@ -104,10 +104,10 @@ top_cards:
 - name: Abhorrent Oculus
   weight: 0.5333
   avg_copies: 1.62
-- name: Breeding Pool
+- name: Sylvan Safekeeper
   weight: 0.5333
   avg_copies: 1.0
-- name: Sylvan Safekeeper
+- name: Breeding Pool
   weight: 0.5333
   avg_copies: 1.0
 - name: Fatal Push
@@ -152,13 +152,13 @@ top_cards:
 - name: Marionette Apprentice
   weight: 0.2
   avg_copies: 2.0
-- name: Voice of Victory
+- name: Collector Ouphe
   weight: 0.2
   avg_copies: 1.0
 - name: Sephiroth, Fabled SOLDIER
   weight: 0.2
   avg_copies: 1.0
-- name: Collector Ouphe
+- name: Voice of Victory
   weight: 0.2
   avg_copies: 1.0
 - name: Witherbloom Charm
@@ -170,13 +170,13 @@ top_cards:
 - name: Path to Exile
   weight: 0.1333
   avg_copies: 1.5
-- name: Dawnbringer Cleric
-  weight: 0.1333
-  avg_copies: 1.0
 - name: Eidolon of Rhetoric
   weight: 0.1333
   avg_copies: 1.0
 - name: Swamp
+  weight: 0.1333
+  avg_copies: 1.0
+- name: Dawnbringer Cleric
   weight: 0.1333
   avg_copies: 1.0
 - name: Seam Rip
@@ -185,19 +185,16 @@ top_cards:
 - name: Delighted Halfling
   weight: 0.0667
   avg_copies: 3.0
-- name: Dewdrop Cure
-  weight: 0.0667
-  avg_copies: 2.0
-- name: Professor Dellian Fel
+- name: City of Brass
   weight: 0.0667
   avg_copies: 2.0
 - name: Haliya, Guided by Light
   weight: 0.0667
   avg_copies: 2.0
-- name: Assassin's Trophy
+- name: Professor Dellian Fel
   weight: 0.0667
   avg_copies: 2.0
-- name: City of Brass
+- name: Dewdrop Cure
   weight: 0.0667
   avg_copies: 2.0
 - name: Moseo, Vein's New Dean
@@ -206,10 +203,13 @@ top_cards:
 - name: Mana Confluence
   weight: 0.0667
   avg_copies: 2.0
-- name: Veil of Summer
+- name: Assassin's Trophy
+  weight: 0.0667
+  avg_copies: 2.0
+- name: Icetill Explorer
   weight: 0.0667
   avg_copies: 1.0
-- name: Icetill Explorer
+- name: Veil of Summer
   weight: 0.0667
   avg_copies: 1.0
 - name: Drannith Magistrate

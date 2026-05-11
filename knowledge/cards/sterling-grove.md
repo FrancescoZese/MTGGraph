@@ -8,7 +8,7 @@ name: Sterling Grove
 scryfall_id: ba03e105-a76c-4769-a35a-d780448890ec
 set: mh2
 type: Enchantment
-meta_presence: 0.0016
+meta_presence: 0.0015
 archetypes:
   unknown-9:
     weight: 1.0

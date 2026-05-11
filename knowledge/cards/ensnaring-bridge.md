@@ -6,21 +6,24 @@ name: Ensnaring Bridge
 scryfall_id: cf825a56-4870-463a-a2ef-eec86be891db
 set: 2xm
 type: Artifact
-meta_presence: 0.047
+meta_presence: 0.0484
 archetypes:
   eldrazi-tron:
-    weight: 0.9848
+    weight: 0.9857
     avg_copies: 1.0
   mill:
-    weight: 0.5556
+    weight: 0.4545
     avg_copies: 2.0
   mono-blue-tron:
     weight: 0.25
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.3684
+    weight: 0.375
     avg_copies: 1.0
   rakdos-lantern-combo:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-41:
     weight: 1.0
     avg_copies: 4.0
 ---

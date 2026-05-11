@@ -6,7 +6,7 @@ name: Yggdrasil, Rebirth Engine
 scryfall_id: f240a9ef-06cd-4c48-ba97-fea1e55f20e2
 set: acr
 type: Legendary Artifact
-meta_presence: 0.0011
+meta_presence: 0.001
 archetypes:
   eldrazi-breach:
     weight: 0.5

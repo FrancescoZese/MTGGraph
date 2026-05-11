@@ -12,16 +12,16 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   affinity:
-    weight: 0.9692
+    weight: 0.9704
     avg_copies: 1.0
   hammer-time:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 1.0
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0606
+    weight: 0.0588
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.5357

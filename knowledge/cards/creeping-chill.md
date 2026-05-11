@@ -7,7 +7,7 @@ name: Creeping Chill
 scryfall_id: f5456173-7a08-4b5c-8450-7123375f4a86
 set: grn
 type: Sorcery
-meta_presence: 0.0059
+meta_presence: 0.0057
 archetypes:
   dredge:
     weight: 1.0

@@ -6,12 +6,15 @@ name: Minamo, School at Water's Edge
 scryfall_id: 7536292c-da25-41c8-ba28-1e35758a7f3d
 set: chk
 type: Legendary Land
-meta_presence: 0.0048
+meta_presence: 0.0052
 archetypes:
   affinity:
-    weight: 0.0051
+    weight: 0.0049
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.2857
+    avg_copies: 1.0
+  unknown-42:
+    weight: 1.0
     avg_copies: 1.0
 ---

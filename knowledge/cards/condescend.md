@@ -7,7 +7,7 @@ name: Condescend
 scryfall_id: 5ba16c0f-dd42-4a2a-8f08-bc8c8478952b
 set: ima
 type: Instant
-meta_presence: 0.0037
+meta_presence: 0.0036
 archetypes:
   mono-blue-tron:
     weight: 0.875

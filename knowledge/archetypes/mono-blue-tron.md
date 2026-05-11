@@ -2,7 +2,7 @@
 colors:
 - U
 name: Mono-Blue Tron
-meta_share: 0.0043
+meta_share: 0.0041
 list_count: 8
 top_cards:
 - name: Kozilek's Command
@@ -11,16 +11,16 @@ top_cards:
 - name: Urza's Power Plant
   weight: 1.0
   avg_copies: 4.0
-- name: Expedition Map
-  weight: 1.0
-  avg_copies: 4.0
 - name: Urza's Tower
   weight: 1.0
   avg_copies: 4.0
-- name: Island
+- name: Expedition Map
+  weight: 1.0
+  avg_copies: 4.0
+- name: Urza's Mine
   weight: 1.0
   avg_copies: 3.88
-- name: Urza's Mine
+- name: Island
   weight: 1.0
   avg_copies: 3.88
 - name: Consign to Memory
@@ -74,10 +74,10 @@ top_cards:
 - name: Agna Qel'a
   weight: 0.625
   avg_copies: 1.0
-- name: Eldrazi Temple
+- name: Stern Scolding
   weight: 0.5
   avg_copies: 2.0
-- name: Stern Scolding
+- name: Eldrazi Temple
   weight: 0.5
   avg_copies: 2.0
 - name: Gemstone Caverns
@@ -92,10 +92,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.375
   avg_copies: 1.0
-- name: Karn, the Great Creator
+- name: Remand
   weight: 0.25
   avg_copies: 4.0
-- name: Remand
+- name: Karn, the Great Creator
   weight: 0.25
   avg_copies: 4.0
 - name: Ugin's Labyrinth
@@ -113,31 +113,28 @@ top_cards:
 - name: Tishana's Tidebinder
   weight: 0.25
   avg_copies: 1.25
-- name: Disruptor Flute
-  weight: 0.25
-  avg_copies: 1.0
-- name: Tormod's Crypt
-  weight: 0.25
-  avg_copies: 1.0
-- name: Sundering Titan
-  weight: 0.25
-  avg_copies: 1.0
-- name: Engineered Explosives
-  weight: 0.25
-  avg_copies: 1.0
-- name: Ensnaring Bridge
-  weight: 0.25
-  avg_copies: 1.0
-- name: Soulless Jailer
-  weight: 0.25
-  avg_copies: 1.0
-- name: Walking Ballista
+- name: Liquimetal Coating
   weight: 0.25
   avg_copies: 1.0
 - name: Hall of Storm Giants
   weight: 0.25
   avg_copies: 1.0
-- name: Oblivion Stone
+- name: Tormod's Crypt
+  weight: 0.25
+  avg_copies: 1.0
+- name: Soulless Jailer
+  weight: 0.25
+  avg_copies: 1.0
+- name: Engineered Explosives
+  weight: 0.25
+  avg_copies: 1.0
+- name: Sundering Titan
+  weight: 0.25
+  avg_copies: 1.0
+- name: Walking Ballista
+  weight: 0.25
+  avg_copies: 1.0
+- name: Disruptor Flute
   weight: 0.25
   avg_copies: 1.0
 - name: Cityscape Leveler
@@ -146,13 +143,16 @@ top_cards:
 - name: Wurmcoil Engine
   weight: 0.25
   avg_copies: 1.0
-- name: Liquimetal Coating
+- name: Ensnaring Bridge
   weight: 0.25
   avg_copies: 1.0
-- name: Change the Equation
+- name: Oblivion Stone
+  weight: 0.25
+  avg_copies: 1.0
+- name: All Is Dust
   weight: 0.125
   avg_copies: 2.0
-- name: All Is Dust
+- name: Change the Equation
   weight: 0.125
   avg_copies: 2.0
 - name: Sire of Seven Deaths
@@ -161,19 +161,19 @@ top_cards:
 - name: Propaganda
   weight: 0.125
   avg_copies: 2.0
-- name: Talisman of Progress
+- name: Temporal Mastery
   weight: 0.125
   avg_copies: 1.0
 - name: Boseiju, Who Shelters All
   weight: 0.125
   avg_copies: 1.0
+- name: Oboro, Palace in the Clouds
+  weight: 0.125
+  avg_copies: 1.0
 - name: Talisman of Curiosity
   weight: 0.125
   avg_copies: 1.0
-- name: Temporal Mastery
-  weight: 0.125
-  avg_copies: 1.0
-- name: Oboro, Palace in the Clouds
+- name: Talisman of Progress
   weight: 0.125
   avg_copies: 1.0
 - name: Talisman of Dominance

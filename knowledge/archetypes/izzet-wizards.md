@@ -3,19 +3,19 @@ colors:
 - U
 - R
 name: Izzet Wizzards
-meta_share: 0.0027
+meta_share: 0.0026
 list_count: 5
 top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 5.0
+- name: Scalding Tarn
+  weight: 1.0
+  avg_copies: 3.8
 - name: Counterspell
   weight: 1.0
   avg_copies: 3.8
 - name: Flame of Anor
-  weight: 1.0
-  avg_copies: 3.8
-- name: Scalding Tarn
   weight: 1.0
   avg_copies: 3.8
 - name: Consign to Memory
@@ -78,25 +78,25 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 0.4
   avg_copies: 3.5
-- name: Thundertrap Trainer
+- name: Obsidian Charmaw
   weight: 0.4
   avg_copies: 3.0
-- name: Obsidian Charmaw
+- name: Thundertrap Trainer
   weight: 0.4
   avg_copies: 3.0
 - name: Preordain
   weight: 0.4
   avg_copies: 3.0
-- name: Wan Shi Tong, Librarian
-  weight: 0.4
-  avg_copies: 2.5
-- name: Fable of the Mirror-Breaker
-  weight: 0.4
-  avg_copies: 2.5
 - name: Flare of Denial
   weight: 0.4
   avg_copies: 2.5
+- name: Wan Shi Tong, Librarian
+  weight: 0.4
+  avg_copies: 2.5
 - name: Consult the Star Charts
+  weight: 0.4
+  avg_copies: 2.5
+- name: Fable of the Mirror-Breaker
   weight: 0.4
   avg_copies: 2.5
 - name: Blood Moon
@@ -111,28 +111,28 @@ top_cards:
 - name: Dress Down
   weight: 0.4
   avg_copies: 1.33
-- name: Tishana's Tidebinder
+- name: Mishra's Bauble
   weight: 0.2
   avg_copies: 4.0
 - name: Unholy Heat
   weight: 0.2
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Tishana's Tidebinder
   weight: 0.2
   avg_copies: 4.0
 - name: Marang River Regent
   weight: 0.2
   avg_copies: 3.0
-- name: Den of the Bugbear
-  weight: 0.2
-  avg_copies: 2.0
 - name: Flusterstorm
   weight: 0.2
   avg_copies: 2.0
-- name: Lórien Revealed
+- name: Prismari Charm
   weight: 0.2
   avg_copies: 2.0
 - name: Engineered Explosives
+  weight: 0.2
+  avg_copies: 2.0
+- name: Den of the Bugbear
   weight: 0.2
   avg_copies: 2.0
 - name: Expressive Iteration
@@ -141,13 +141,16 @@ top_cards:
 - name: Spirebluff Canal
   weight: 0.2
   avg_copies: 2.0
-- name: Prismari Charm
-  weight: 0.2
-  avg_copies: 2.0
 - name: Field of Ruin
   weight: 0.2
   avg_copies: 2.0
-- name: Mistrise Village
+- name: Lórien Revealed
+  weight: 0.2
+  avg_copies: 2.0
+- name: Force of Negation
+  weight: 0.2
+  avg_copies: 1.0
+- name: Annul
   weight: 0.2
   avg_copies: 1.0
 - name: Agna Qel'a
@@ -156,25 +159,22 @@ top_cards:
 - name: Brotherhood's End
   weight: 0.2
   avg_copies: 1.0
-- name: Vedalken Shackles
-  weight: 0.2
-  avg_copies: 1.0
 - name: Stone of Erech
-  weight: 0.2
-  avg_copies: 1.0
-- name: Force of Negation
-  weight: 0.2
-  avg_copies: 1.0
-- name: Vampires' Vengeance
   weight: 0.2
   avg_copies: 1.0
 - name: Stern Scolding
   weight: 0.2
   avg_copies: 1.0
-- name: Hurkyl's Recall
+- name: Mistrise Village
   weight: 0.2
   avg_copies: 1.0
-- name: Annul
+- name: Vampires' Vengeance
+  weight: 0.2
+  avg_copies: 1.0
+- name: Vedalken Shackles
+  weight: 0.2
+  avg_copies: 1.0
+- name: Hurkyl's Recall
   weight: 0.2
   avg_copies: 1.0
 ---

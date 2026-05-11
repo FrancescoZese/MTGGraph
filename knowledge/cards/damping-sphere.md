@@ -6,41 +6,41 @@ name: Damping Sphere
 scryfall_id: 550860b4-887d-423a-8add-816c2a8da615
 set: dmr
 type: Artifact
-meta_presence: 0.3365
+meta_presence: 0.3364
 archetypes:
   boros-energy:
-    weight: 0.2979
-    avg_copies: 1.42
+    weight: 0.3064
+    avg_copies: 1.4
   dimir-control:
-    weight: 0.1795
+    weight: 0.1772
     avg_copies: 1.14
   jeskai-energy:
-    weight: 0.3793
-    avg_copies: 1.45
+    weight: 0.395
+    avg_copies: 1.47
   eldrazi-tron:
-    weight: 0.0152
+    weight: 0.0143
     avg_copies: 1.0
   goryo:
-    weight: 0.1622
+    weight: 0.16
     avg_copies: 1.83
   hardened-scales:
     weight: 1.0
     avg_copies: 3.0
   necrodominance:
-    weight: 0.7826
-    avg_copies: 2.06
+    weight: 0.76
+    avg_copies: 2.05
   living-end:
-    weight: 0.6111
-    avg_copies: 1.05
+    weight: 0.5897
+    avg_copies: 1.04
   jeskai-control:
     weight: 0.2593
     avg_copies: 1.71
   affinity:
-    weight: 0.9846
+    weight: 0.9852
     avg_copies: 2.46
   domain-zoo:
-    weight: 0.8871
-    avg_copies: 1.65
+    weight: 0.8906
+    avg_copies: 1.67
   reanimator:
     weight: 0.6667
     avg_copies: 1.94
@@ -51,16 +51,16 @@ archetypes:
     weight: 0.85
     avg_copies: 1.82
   hammer-time:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 2.0
   hollow-one:
     weight: 0.8636
     avg_copies: 2.32
   yawgmoth-combo:
-    weight: 0.2
+    weight: 0.1923
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0789
+    weight: 0.075
     avg_copies: 1.0
   simic-ritual:
     weight: 0.2093
@@ -72,7 +72,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.78
   broodscale-combo:
-    weight: 0.5152
+    weight: 0.5
     avg_copies: 1.94
   orzhov-blink:
     weight: 1.0
@@ -114,7 +114,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.619
+    weight: 0.5909
     avg_copies: 2.0
   goryo4:
     weight: 0.5
@@ -150,6 +150,15 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-34:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-35:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-38:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-41:
     weight: 1.0
     avg_copies: 1.0
 ---
