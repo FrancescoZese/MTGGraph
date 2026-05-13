@@ -7,9 +7,9 @@ name: Waker of Waves
 scryfall_id: abb47990-a5a9-4a22-a8bb-d229b17132c6
 set: m21
 type: Creature — Whale
-meta_presence: 0.0036
+meta_presence: 0.0039
 archetypes:
   living-end:
-    weight: 0.1795
-    avg_copies: 2.57
+    weight: 0.1951
+    avg_copies: 2.5
 ---

@@ -10,6 +10,6 @@ type: Creature — Human Wizard // Instant
 meta_presence: 0.0015
 archetypes:
   izzet-artifacts:
-    weight: 0.1071
+    weight: 0.1034
     avg_copies: 3.0
 ---

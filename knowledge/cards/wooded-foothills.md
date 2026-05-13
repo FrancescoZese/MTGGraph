@@ -9,10 +9,10 @@ type: Land
 meta_presence: 0.1855
 archetypes:
   ruby-storm:
-    weight: 0.9492
+    weight: 0.9516
     avg_copies: 2.34
   amulet-titan:
-    weight: 0.0694
+    weight: 0.0649
     avg_copies: 1.0
   domain-zoo:
     weight: 1.0
@@ -27,31 +27,31 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   hollow-one:
-    weight: 0.8182
-    avg_copies: 2.5
+    weight: 0.8261
+    avg_copies: 2.47
   yawgmoth-combo:
     weight: 0.3462
     avg_copies: 1.11
   eldrazi-ramp:
-    weight: 0.85
-    avg_copies: 1.09
+    weight: 0.8605
+    avg_copies: 1.11
   simic-ritual:
-    weight: 0.0698
+    weight: 0.0667
     avg_copies: 3.67
   izzet-prowess:
-    weight: 0.8876
+    weight: 0.8925
     avg_copies: 2.73
   samwise-combo:
-    weight: 0.3333
+    weight: 0.3125
     avg_copies: 1.0
   indomitable-creativity:
     weight: 1.0
     avg_copies: 2.75
   broodscale-combo:
-    weight: 0.3824
+    weight: 0.3714
     avg_copies: 1.08
   dredge:
-    weight: 0.5455
+    weight: 0.5
     avg_copies: 3.17
   elves:
     weight: 1.0
@@ -60,7 +60,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   rakdos-aggro:
-    weight: 0.4286
+    weight: 0.5
     avg_copies: 2.0
   mono-green-stompy:
     weight: 1.0

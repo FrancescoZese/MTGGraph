@@ -8,7 +8,7 @@ name: Kolaghan's Command
 scryfall_id: a0dab027-a475-481b-b012-b6a76e21e494
 set: 2x2
 type: Instant
-meta_presence: 0.0021
+meta_presence: 0.002
 archetypes:
   grixis-control:
     weight: 0.5

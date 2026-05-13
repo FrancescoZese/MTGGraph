@@ -10,8 +10,8 @@ type: Enchantment
 meta_presence: 0.0325
 archetypes:
   simic-ritual:
-    weight: 0.9767
-    avg_copies: 4.0
+    weight: 0.9778
+    avg_copies: 3.98
   4c-omnath:
     weight: 0.5
     avg_copies: 3.5

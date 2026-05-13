@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: Necrodominance
-meta_share: 0.0129
+meta_share: 0.0123
 list_count: 25
 top_cards:
 - name: Swamp
@@ -108,19 +108,19 @@ top_cards:
 - name: Undercity Sewers
   weight: 0.12
   avg_copies: 1.0
+- name: Vein Ripper
+  weight: 0.08
+  avg_copies: 4.0
 - name: Psychic Frog
   weight: 0.08
   avg_copies: 4.0
 - name: Sorin, Imperious Bloodlord
   weight: 0.08
   avg_copies: 4.0
-- name: Vein Ripper
-  weight: 0.08
-  avg_copies: 4.0
-- name: Consign to Memory
+- name: Watery Grave
   weight: 0.08
   avg_copies: 3.5
-- name: Watery Grave
+- name: Consign to Memory
   weight: 0.08
   avg_copies: 3.5
 - name: Long Goodbye
@@ -129,21 +129,24 @@ top_cards:
 - name: Agadeem's Awakening
   weight: 0.08
   avg_copies: 2.0
+- name: Marsh Flats
+  weight: 0.08
+  avg_copies: 1.5
 - name: Toxic Deluge
   weight: 0.08
   avg_copies: 1.5
 - name: The Filigree Sylex
   weight: 0.08
   avg_copies: 1.5
-- name: Marsh Flats
-  weight: 0.08
-  avg_copies: 1.5
-- name: Legion's End
-  weight: 0.08
-  avg_copies: 1.0
 - name: Slaughter Pact
   weight: 0.08
   avg_copies: 1.0
+- name: Legion's End
+  weight: 0.08
+  avg_copies: 1.0
+- name: Gonti's Machinations
+  weight: 0.04
+  avg_copies: 4.0
 - name: Iridescent Vinelasher
   weight: 0.04
   avg_copies: 4.0
@@ -153,16 +156,13 @@ top_cards:
 - name: Sign in Blood
   weight: 0.04
   avg_copies: 4.0
-- name: Gonti's Machinations
-  weight: 0.04
-  avg_copies: 4.0
 - name: Quantum Riddler
   weight: 0.04
   avg_copies: 3.0
 - name: Mystical Dispute
   weight: 0.04
   avg_copies: 3.0
-- name: Mai, Scornful Striker
+- name: Witherbloom Command
   weight: 0.04
   avg_copies: 2.0
 - name: End of the Hunt
@@ -171,27 +171,24 @@ top_cards:
 - name: Culling Ritual
   weight: 0.04
   avg_copies: 2.0
-- name: Overgrown Tomb
-  weight: 0.04
-  avg_copies: 2.0
-- name: Disruptor Flute
-  weight: 0.04
-  avg_copies: 2.0
-- name: Pillage the Bog
+- name: Hurkyl's Recall
   weight: 0.04
   avg_copies: 2.0
 - name: Phyrexian Crusader
   weight: 0.04
   avg_copies: 2.0
-- name: Hurkyl's Recall
+- name: Mai, Scornful Striker
   weight: 0.04
   avg_copies: 2.0
-- name: Witherbloom Command
+- name: Pillage the Bog
   weight: 0.04
   avg_copies: 2.0
-- name: Nurturing Peatland
+- name: Disruptor Flute
   weight: 0.04
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: Overgrown Tomb
+  weight: 0.04
+  avg_copies: 2.0
 - name: Kaito, Bane of Nightmares
   weight: 0.04
   avg_copies: 1.0
@@ -205,6 +202,9 @@ top_cards:
   weight: 0.04
   avg_copies: 1.0
 - name: Underground Mortuary
+  weight: 0.04
+  avg_copies: 1.0
+- name: Nurturing Peatland
   weight: 0.04
   avg_copies: 1.0
 ---

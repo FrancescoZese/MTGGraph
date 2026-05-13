@@ -8,12 +8,12 @@ name: Lorehold Charm
 scryfall_id: 5fe70295-e550-4577-a341-dab6c25aabfd
 set: sos
 type: Instant
-meta_presence: 0.0021
+meta_presence: 0.002
 archetypes:
   ruby-storm:
-    weight: 0.0339
+    weight: 0.0323
     avg_copies: 1.0
   boros-energy:
-    weight: 0.0058
+    weight: 0.0055
     avg_copies: 1.5
 ---

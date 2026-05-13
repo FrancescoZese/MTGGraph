@@ -11,6 +11,6 @@ type: Creature — Zombie
 meta_presence: 0.0005
 archetypes:
   dredge:
-    weight: 0.0909
+    weight: 0.0833
     avg_copies: 4.0
 ---

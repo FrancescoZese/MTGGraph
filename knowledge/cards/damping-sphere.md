@@ -6,23 +6,23 @@ name: Damping Sphere
 scryfall_id: 550860b4-887d-423a-8add-816c2a8da615
 set: dmr
 type: Artifact
-meta_presence: 0.3364
+meta_presence: 0.3401
 archetypes:
   boros-energy:
-    weight: 0.3064
-    avg_copies: 1.4
+    weight: 0.3296
+    avg_copies: 1.39
   dimir-control:
     weight: 0.1772
     avg_copies: 1.14
   jeskai-energy:
-    weight: 0.395
-    avg_copies: 1.47
+    weight: 0.3967
+    avg_copies: 1.48
   eldrazi-tron:
-    weight: 0.0143
+    weight: 0.0274
     avg_copies: 1.0
   goryo:
-    weight: 0.16
-    avg_copies: 1.83
+    weight: 0.1646
+    avg_copies: 1.77
   hardened-scales:
     weight: 1.0
     avg_copies: 3.0
@@ -30,17 +30,20 @@ archetypes:
     weight: 0.76
     avg_copies: 2.05
   living-end:
-    weight: 0.5897
+    weight: 0.5854
     avg_copies: 1.04
   jeskai-control:
     weight: 0.2593
     avg_copies: 1.71
   affinity:
-    weight: 0.9852
+    weight: 0.9857
     avg_copies: 2.46
   domain-zoo:
-    weight: 0.8906
-    avg_copies: 1.67
+    weight: 0.8824
+    avg_copies: 1.65
+  mill:
+    weight: 0.1538
+    avg_copies: 1.5
   reanimator:
     weight: 0.6667
     avg_copies: 1.94
@@ -54,16 +57,16 @@ archetypes:
     weight: 0.25
     avg_copies: 2.0
   hollow-one:
-    weight: 0.8636
-    avg_copies: 2.32
+    weight: 0.8696
+    avg_copies: 2.3
   yawgmoth-combo:
     weight: 0.1923
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.075
+    weight: 0.0698
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.2093
+    weight: 0.2
     avg_copies: 2.0
   4c-omnath:
     weight: 0.25
@@ -72,13 +75,13 @@ archetypes:
     weight: 1.0
     avg_copies: 2.78
   broodscale-combo:
-    weight: 0.5
-    avg_copies: 1.94
+    weight: 0.5143
+    avg_copies: 2.0
   orzhov-blink:
-    weight: 1.0
+    weight: 0.8
     avg_copies: 2.25
   dredge:
-    weight: 0.0909
+    weight: 0.0833
     avg_copies: 2.0
   elves:
     weight: 1.0
@@ -87,8 +90,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   rakdos-aggro:
-    weight: 0.8571
-    avg_copies: 3.33
+    weight: 0.8
+    avg_copies: 3.5
   mono-green-ramp:
     weight: 0.1667
     avg_copies: 3.0
@@ -114,7 +117,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.5909
+    weight: 0.625
     avg_copies: 2.0
   goryo4:
     weight: 0.5
@@ -161,4 +164,13 @@ archetypes:
   unknown-41:
     weight: 1.0
     avg_copies: 1.0
+  unknown-44:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-43:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-46:
+    weight: 1.0
+    avg_copies: 2.0
 ---

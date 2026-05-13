@@ -1,0 +1,48 @@
+---
+archetype: amulet-titan
+date: '2026-05-11'
+finish: 11th
+pilot: DFrank
+source: MTGO Modern Challenge 64
+---
+
+
+# Mainboard
+1 Aftermath Analyst
+1 Vesuva
+1 Tolaria West
+2 Summoner's Pact
+4 Crumbling Vestige
+2 Simic Growth Chamber
+4 Scapeshift
+1 Echoing Deeps
+3 Primeval Titan
+1 Otawara, Soaring City
+3 Malevolent Rumble
+1 Hanweir Battlements
+2 Lotus Field
+4 Gruul Turf
+1 Mirrorpool
+3 Green Sun's Zenith
+3 Forest
+1 Dryad Arbor
+1 Shifting Woodland
+1 Cultivator Colossus
+4 Spelunking
+3 Boseiju, Who Endures
+4 Arboreal Grazer
+1 Urza's Cave
+4 Urza's Saga
+4 Amulet of Vigor
+1 Vexing Bauble
+
+# Sideboard
+3 Trinisphere
+1 Six
+3 Fire Magic
+2 Force of Vigor
+2 Dismember
+1 The Wandering Minstrel
+1 Bojuka Bog
+1 Collector Ouphe
+1 Vexing Bauble

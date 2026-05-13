@@ -3,7 +3,7 @@ colors:
 - B
 - G
 name: Yawgmoth Combo
-meta_share: 0.0134
+meta_share: 0.0128
 list_count: 26
 top_cards:
 - name: Verdant Catacombs
@@ -18,10 +18,10 @@ top_cards:
 - name: Yawgmoth, Thran Physician
   weight: 1.0
   avg_copies: 3.73
-- name: Badgermole Cub
+- name: Young Wolf
   weight: 1.0
   avg_copies: 3.69
-- name: Young Wolf
+- name: Badgermole Cub
   weight: 1.0
   avg_copies: 3.69
 - name: Malevolent Rumble
@@ -30,10 +30,10 @@ top_cards:
 - name: Walking Ballista
   weight: 1.0
   avg_copies: 2.96
-- name: Spymaster's Vault
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 2.92
-- name: Green Sun's Zenith
+- name: Spymaster's Vault
   weight: 1.0
   avg_copies: 2.92
 - name: Fatal Push
@@ -66,19 +66,19 @@ top_cards:
 - name: Grist, the Hunger Tide
   weight: 1.0
   avg_copies: 1.08
+- name: Swamp
+  weight: 1.0
+  avg_copies: 1.0
+- name: Dryad Arbor
+  weight: 1.0
+  avg_copies: 1.0
 - name: Endurance
   weight: 1.0
   avg_copies: 1.0
 - name: Soulless Jailer
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
-  weight: 1.0
-  avg_copies: 1.0
 - name: Strangleroot Geist
-  weight: 1.0
-  avg_copies: 1.0
-- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
 - name: Windswept Heath
@@ -102,10 +102,10 @@ top_cards:
 - name: Dredger's Insight
   weight: 0.7308
   avg_copies: 1.47
-- name: Pile On
+- name: Outland Liberator
   weight: 0.6923
   avg_copies: 1.0
-- name: Outland Liberator
+- name: Pile On
   weight: 0.6923
   avg_copies: 1.0
 - name: Scavenging Ooze
@@ -132,25 +132,25 @@ top_cards:
 - name: Culling Ritual
   weight: 0.1538
   avg_copies: 1.0
-- name: Hapatra, Vizier of Poisons
+- name: Kraul Harpooner
   weight: 0.1154
   avg_copies: 1.0
-- name: Kraul Harpooner
+- name: Hapatra, Vizier of Poisons
   weight: 0.1154
   avg_copies: 1.0
 - name: Assassin's Trophy
   weight: 0.0769
   avg_copies: 1.0
-- name: Sylvan Safekeeper
-  weight: 0.0385
-  avg_copies: 1.0
 - name: Creeping Corrosion
   weight: 0.0385
   avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Murderous Cut
   weight: 0.0385
   avg_copies: 1.0
-- name: Murderous Cut
+- name: Sylvan Safekeeper
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Nurturing Peatland
   weight: 0.0385
   avg_copies: 1.0
 ---

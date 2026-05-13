@@ -7,7 +7,7 @@ name: Dark Petition
 scryfall_id: e9df9c5e-7087-42b2-9001-c89d40a66c68
 set: ori
 type: Sorcery
-meta_presence: 0.0005
+meta_presence: 0.001
 archetypes:
   unknown-14:
     weight: 1.0

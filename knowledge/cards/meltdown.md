@@ -7,26 +7,29 @@ name: Meltdown
 scryfall_id: 173369d2-dc39-4bfe-a602-b47156570365
 set: mh3
 type: Sorcery
-meta_presence: 0.1273
+meta_presence: 0.128
 archetypes:
   ruby-storm:
-    weight: 0.1017
+    weight: 0.0968
     avg_copies: 1.33
   boros-energy:
-    weight: 0.0491
+    weight: 0.0471
     avg_copies: 1.29
   dimir-control:
     weight: 0.2785
     avg_copies: 2.5
   jeskai-energy:
-    weight: 0.0252
+    weight: 0.0248
     avg_copies: 1.0
   jeskai-control:
     weight: 0.1481
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0156
+    weight: 0.0294
     avg_copies: 1.0
+  mill:
+    weight: 0.0769
+    avg_copies: 2.0
   reanimator:
     weight: 0.7778
     avg_copies: 2.1
@@ -34,28 +37,28 @@ archetypes:
     weight: 0.2857
     avg_copies: 1.5
   hollow-one:
-    weight: 0.9545
-    avg_copies: 2.19
+    weight: 0.9565
+    avg_copies: 2.18
   boros-ponza:
-    weight: 0.0702
+    weight: 0.0615
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.2
+    weight: 0.186
     avg_copies: 1.12
   simic-ritual:
-    weight: 0.0465
+    weight: 0.0444
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.8764
-    avg_copies: 1.79
+    weight: 0.8817
+    avg_copies: 1.77
   indomitable-creativity:
     weight: 0.125
     avg_copies: 1.0
   dredge:
-    weight: 0.4545
-    avg_copies: 2.2
+    weight: 0.5
+    avg_copies: 2.0
   izzet-artifacts:
-    weight: 0.0357
+    weight: 0.0345
     avg_copies: 1.0
   izzet-wizards:
     weight: 0.8
@@ -77,7 +80,7 @@ archetypes:
     avg_copies: 2.0
   goryo1:
     weight: 1.0
-    avg_copies: 2.09
+    avg_copies: 2.08
   grixis-control:
     weight: 1.0
     avg_copies: 1.5
@@ -100,7 +103,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-20:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 3.0
   unknown-31:
     weight: 1.0

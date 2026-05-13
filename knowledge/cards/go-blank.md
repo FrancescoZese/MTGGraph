@@ -7,7 +7,7 @@ name: Go Blank
 scryfall_id: 846e8657-7435-44c6-a997-b8b156d0cd2c
 set: stx
 type: Sorcery
-meta_presence: 0.0005
+meta_presence: 0.001
 archetypes:
   unknown-14:
     weight: 1.0

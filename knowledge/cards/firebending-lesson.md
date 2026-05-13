@@ -7,9 +7,9 @@ name: Firebending Lesson
 scryfall_id: fa940e68-010e-4b68-be8a-555d7068f7b4
 set: tla
 type: Instant — Lesson
-meta_presence: 0.0057
+meta_presence: 0.0054
 archetypes:
   izzet-prowess:
-    weight: 0.1236
+    weight: 0.1183
     avg_copies: 1.0
 ---

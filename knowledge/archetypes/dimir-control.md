@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: Dimir Control
-meta_share: 0.0407
+meta_share: 0.0389
 list_count: 79
 top_cards:
 - name: Counterspell
@@ -141,10 +141,10 @@ top_cards:
 - name: Damping Sphere
   weight: 0.1772
   avg_copies: 1.14
-- name: Damnation
+- name: Logic Knot
   weight: 0.1772
   avg_copies: 1.0
-- name: Logic Knot
+- name: Damnation
   weight: 0.1772
   avg_copies: 1.0
 - name: Preordain
@@ -183,10 +183,10 @@ top_cards:
 - name: Flow State
   weight: 0.0633
   avg_copies: 3.6
-- name: Ashiok, Dream Render
+- name: Celestial Purge
   weight: 0.0633
   avg_copies: 1.0
-- name: Celestial Purge
+- name: Ashiok, Dream Render
   weight: 0.0633
   avg_copies: 1.0
 - name: Teferi, Time Raveler
@@ -195,10 +195,10 @@ top_cards:
 - name: Brazen Borrower
   weight: 0.038
   avg_copies: 1.33
-- name: Sphinx's Revelation
+- name: Thundering Falls
   weight: 0.038
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Sphinx's Revelation
   weight: 0.038
   avg_copies: 1.0
 - name: Mishra's Bauble
@@ -219,10 +219,13 @@ top_cards:
 - name: Thraben Charm
   weight: 0.0253
   avg_copies: 2.0
-- name: Soul-Guide Lantern
+- name: Prismatic Ending
   weight: 0.0253
   avg_copies: 1.0
 - name: Dreams of Steel and Oil
+  weight: 0.0253
+  avg_copies: 1.0
+- name: Anoint with Affliction
   weight: 0.0253
   avg_copies: 1.0
 - name: Shoot the Sheriff
@@ -231,25 +234,22 @@ top_cards:
 - name: Vanishing Verse
   weight: 0.0253
   avg_copies: 1.0
-- name: Prismatic Ending
+- name: Soul-Guide Lantern
   weight: 0.0253
   avg_copies: 1.0
-- name: Anoint with Affliction
-  weight: 0.0253
-  avg_copies: 1.0
-- name: Snow-Covered Island
+- name: Death's Shadow
   weight: 0.0127
   avg_copies: 4.0
 - name: Street Wraith
   weight: 0.0127
   avg_copies: 4.0
-- name: Death's Shadow
+- name: Snow-Covered Island
   weight: 0.0127
   avg_copies: 4.0
-- name: Dismember
+- name: Shadow of Doubt
   weight: 0.0127
   avg_copies: 3.0
-- name: Shadow of Doubt
+- name: Dismember
   weight: 0.0127
   avg_copies: 3.0
 - name: Fallen Shinobi
@@ -258,13 +258,25 @@ top_cards:
 - name: Dress Down
   weight: 0.0127
   avg_copies: 3.0
+- name: Emperor of Bones
+  weight: 0.0127
+  avg_copies: 2.0
+- name: Strix Serenade
+  weight: 0.0127
+  avg_copies: 2.0
 - name: Stony Silence
   weight: 0.0127
   avg_copies: 2.0
-- name: Cryptic Command
+- name: Archmage's Charm
   weight: 0.0127
   avg_copies: 2.0
-- name: Archmage's Charm
+- name: End of the Hunt
+  weight: 0.0127
+  avg_copies: 2.0
+- name: Hurkyl's Recall
+  weight: 0.0127
+  avg_copies: 2.0
+- name: Cryptic Command
   weight: 0.0127
   avg_copies: 2.0
 - name: Dauthi Voidwalker
@@ -273,52 +285,40 @@ top_cards:
 - name: Lightning Bolt
   weight: 0.0127
   avg_copies: 2.0
-- name: Strix Serenade
-  weight: 0.0127
-  avg_copies: 2.0
-- name: End of the Hunt
-  weight: 0.0127
-  avg_copies: 2.0
-- name: Emperor of Bones
-  weight: 0.0127
-  avg_copies: 2.0
-- name: Hurkyl's Recall
-  weight: 0.0127
-  avg_copies: 2.0
 - name: Force of Despair
   weight: 0.0127
   avg_copies: 1.5
-- name: Hall of Storm Giants
-  weight: 0.0127
-  avg_copies: 1.0
-- name: Extirpate
-  weight: 0.0127
-  avg_copies: 1.0
-- name: Jace, the Mind Sculptor
-  weight: 0.0127
-  avg_copies: 1.0
-- name: Verdant Catacombs
-  weight: 0.0127
-  avg_copies: 1.0
 - name: Rest in Peace
-  weight: 0.0127
-  avg_copies: 1.0
-- name: Sunken Ruins
   weight: 0.0127
   avg_copies: 1.0
 - name: Lórien Revealed
   weight: 0.0127
   avg_copies: 1.0
+- name: Exorcise
+  weight: 0.0127
+  avg_copies: 1.0
 - name: Relic of Progenitus
   weight: 0.0127
   avg_copies: 1.0
-- name: Exorcise
+- name: Abigale, Eloquent First-Year
+  weight: 0.0127
+  avg_copies: 1.0
+- name: Sunken Ruins
   weight: 0.0127
   avg_copies: 1.0
 - name: Snow-Covered Swamp
   weight: 0.0127
   avg_copies: 1.0
-- name: Abigale, Eloquent First-Year
+- name: Extirpate
+  weight: 0.0127
+  avg_copies: 1.0
+- name: Verdant Catacombs
+  weight: 0.0127
+  avg_copies: 1.0
+- name: Hall of Storm Giants
+  weight: 0.0127
+  avg_copies: 1.0
+- name: Jace, the Mind Sculptor
   weight: 0.0127
   avg_copies: 1.0
 - name: Takenuma, Abandoned Mire

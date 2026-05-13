@@ -10,7 +10,7 @@ type: Legendary Creature — Mutant Ninja Human
 meta_presence: 0.001
 archetypes:
   rakdos-aggro:
-    weight: 0.1429
+    weight: 0.1
     avg_copies: 4.0
   unknown-33:
     weight: 1.0

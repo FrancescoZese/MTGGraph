@@ -6,7 +6,7 @@ name: Boggart Trawler // Boggart Bog
 scryfall_id: d0d484a6-5610-4f1d-95ec-eda273c255e4
 set: mh3
 type: Creature — Goblin // Land
-meta_presence: 0.035
+meta_presence: 0.0359
 archetypes:
   necrodominance:
     weight: 1.0
@@ -18,19 +18,19 @@ archetypes:
     weight: 0.65
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0233
+    weight: 0.0222
     avg_copies: 1.0
   esper-blink:
     weight: 0.9444
     avg_copies: 1.0
   orzhov-blink:
     weight: 1.0
-    avg_copies: 1.75
+    avg_copies: 1.6
   rakdos-aggro:
-    weight: 0.1429
+    weight: 0.1
     avg_copies: 1.0
   goryo1:
-    weight: 0.0455
+    weight: 0.0417
     avg_copies: 1.0
   goryo5:
     weight: 1.0
@@ -41,4 +41,10 @@ archetypes:
   unknown-39:
     weight: 1.0
     avg_copies: 1.0
+  unknown-45:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-46:
+    weight: 1.0
+    avg_copies: 4.0
 ---

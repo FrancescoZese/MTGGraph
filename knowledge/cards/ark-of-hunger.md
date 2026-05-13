@@ -11,9 +11,9 @@ type: Artifact
 meta_presence: 0.001
 archetypes:
   boros-energy:
-    weight: 0.0029
+    weight: 0.0028
     avg_copies: 2.0
   boros-ponza:
-    weight: 0.0175
+    weight: 0.0154
     avg_copies: 1.0
 ---

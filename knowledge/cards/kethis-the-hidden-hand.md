@@ -9,7 +9,7 @@ name: Kethis, the Hidden Hand
 scryfall_id: fe28de73-76f3-4a9e-a020-dbe5921b9be5
 set: m20
 type: Legendary Creature — Elf Advisor
-meta_presence: 0.0026
+meta_presence: 0.0025
 archetypes:
   kethis-combo:
     weight: 1.0

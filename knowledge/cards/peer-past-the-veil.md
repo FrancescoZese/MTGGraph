@@ -11,6 +11,6 @@ type: Instant
 meta_presence: 0.0005
 archetypes:
   unknown-6:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
 ---

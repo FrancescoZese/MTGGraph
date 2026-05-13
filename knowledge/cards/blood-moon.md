@@ -10,14 +10,14 @@ type: Enchantment
 meta_presence: 0.186
 archetypes:
   ruby-storm:
-    weight: 0.0339
+    weight: 0.0323
     avg_copies: 1.5
   boros-energy:
-    weight: 0.7659
-    avg_copies: 1.21
+    weight: 0.7701
+    avg_copies: 1.2
   affinity:
-    weight: 0.1626
-    avg_copies: 1.48
+    weight: 0.1667
+    avg_copies: 1.46
   burn:
     weight: 0.1429
     avg_copies: 1.0
@@ -25,19 +25,19 @@ archetypes:
     weight: 1.0
     avg_copies: 2.31
   hollow-one:
-    weight: 0.0909
+    weight: 0.087
     avg_copies: 1.5
   boros-ponza:
-    weight: 0.0175
+    weight: 0.0154
     avg_copies: 3.0
   eldrazi-ramp:
-    weight: 0.05
+    weight: 0.0465
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0674
+    weight: 0.0645
     avg_copies: 1.5
   izzet-artifacts:
-    weight: 0.4643
+    weight: 0.4483
     avg_copies: 2.69
   izzet-wizards:
     weight: 0.4
@@ -46,7 +46,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.5
   rakdos-aggro:
-    weight: 0.1429
+    weight: 0.1
     avg_copies: 3.0
   izzet-splinter-twin:
     weight: 1.0
@@ -55,8 +55,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo0:
-    weight: 0.75
-    avg_copies: 2.78
+    weight: 0.7857
+    avg_copies: 2.82
   izzet-murktide:
     weight: 1.0
     avg_copies: 2.0

@@ -6,19 +6,19 @@ name: Plains
 scryfall_id: d85d0f25-a24a-4de0-9b8b-93fb5017bce9
 set: sos
 type: Basic Land — Plains
-meta_presence: 0.3864
+meta_presence: 0.3853
 archetypes:
   boros-energy:
-    weight: 0.9711
+    weight: 0.9723
     avg_copies: 1.76
   jeskai-energy:
-    weight: 0.8571
-    avg_copies: 1.63
+    weight: 0.8512
+    avg_copies: 1.62
   eldrazi-tron:
-    weight: 0.0143
+    weight: 0.0137
     avg_copies: 3.0
   goryo:
-    weight: 0.9733
+    weight: 0.9747
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
@@ -30,7 +30,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   mill:
-    weight: 0.0909
+    weight: 0.0769
     avg_copies: 1.0
   reanimator:
     weight: 0.037
@@ -42,8 +42,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   boros-ponza:
-    weight: 1.0
-    avg_copies: 3.21
+    weight: 0.9846
+    avg_copies: 3.22
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
@@ -55,7 +55,7 @@ archetypes:
     avg_copies: 1.0
   orzhov-blink:
     weight: 1.0
-    avg_copies: 2.25
+    avg_copies: 2.2
   bant-control:
     weight: 1.0
     avg_copies: 2.0
@@ -88,7 +88,7 @@ archetypes:
     avg_copies: 2.0
   4c-omnath9:
     weight: 1.0
-    avg_copies: 1.67
+    avg_copies: 1.75
   devoted-combo:
     weight: 1.0
     avg_copies: 1.0

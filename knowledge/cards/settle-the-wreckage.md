@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.001
 archetypes:
   boros-ponza:
-    weight: 0.0175
+    weight: 0.0154
     avg_copies: 2.0
   goryo6:
     weight: 0.3333

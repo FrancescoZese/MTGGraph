@@ -8,7 +8,7 @@ name: Gaze of Granite
 scryfall_id: 97cf4cd8-9cb5-482e-92ca-da657b410e48
 set: eoc
 type: Sorcery
-meta_presence: 0.0005
+meta_presence: 0.001
 archetypes:
   unknown-14:
     weight: 1.0

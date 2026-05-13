@@ -7,9 +7,9 @@ name: Curator of Mysteries
 scryfall_id: 98b959ad-8920-4b28-a954-f733bf36bde8
 set: afc
 type: Creature — Sphinx
-meta_presence: 0.0139
+meta_presence: 0.0143
 archetypes:
   living-end:
-    weight: 0.6923
-    avg_copies: 2.56
+    weight: 0.7073
+    avg_copies: 2.59
 ---

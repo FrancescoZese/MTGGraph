@@ -13,13 +13,16 @@ archetypes:
     avg_copies: 3.75
   affinity:
     weight: 1.0
-    avg_copies: 3.87
+    avg_copies: 3.86
   hammer-time:
     weight: 1.0
     avg_copies: 3.0
   kethis-combo:
     weight: 1.0
     avg_copies: 4.0
+  broodscale-combo:
+    weight: 0.0286
+    avg_copies: 3.0
   izzet-artifacts:
     weight: 1.0
     avg_copies: 3.86
@@ -44,4 +47,10 @@ archetypes:
   unknown-41:
     weight: 1.0
     avg_copies: 3.0
+  unknown-44:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-43:
+    weight: 1.0
+    avg_copies: 4.0
 ---

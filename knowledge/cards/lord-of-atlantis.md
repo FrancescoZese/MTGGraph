@@ -7,7 +7,7 @@ name: Lord of Atlantis
 scryfall_id: a9407b60-8921-4531-bdbe-9a82aaa38d28
 set: tsb
 type: Creature — Merfolk
-meta_presence: 0.0005
+meta_presence: 0.001
 archetypes:
   unknown-42:
     weight: 1.0

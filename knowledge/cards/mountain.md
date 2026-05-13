@@ -6,28 +6,28 @@ name: Mountain
 scryfall_id: a642c7b1-d4d1-4125-a66d-560438e5ee51
 set: sos
 type: Basic Land — Mountain
-meta_presence: 0.4019
+meta_presence: 0.404
 archetypes:
   ruby-storm:
     weight: 1.0
-    avg_copies: 3.05
+    avg_copies: 3.03
   boros-energy:
-    weight: 0.7572
+    weight: 0.7645
     avg_copies: 1.0
   mono-blue-belcher:
     weight: 0.1429
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.7815
+    weight: 0.7769
     avg_copies: 1.0
   jeskai-control:
     weight: 0.1852
     avg_copies: 1.0
   affinity:
-    weight: 0.0148
+    weight: 0.0143
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.9531
+    weight: 0.9559
     avg_copies: 1.0
   reanimator:
     weight: 0.1111
@@ -42,22 +42,22 @@ archetypes:
     weight: 0.8333
     avg_copies: 1.0
   hollow-one:
-    weight: 0.8182
-    avg_copies: 1.39
+    weight: 0.8261
+    avg_copies: 1.37
   boros-ponza:
-    weight: 1.0
+    weight: 0.9846
     avg_copies: 1.11
   izzet-prowess:
     weight: 1.0
-    avg_copies: 2.21
+    avg_copies: 2.23
   indomitable-creativity:
     weight: 1.0
     avg_copies: 1.12
   dredge:
-    weight: 0.8182
-    avg_copies: 1.78
+    weight: 0.8333
+    avg_copies: 1.7
   izzet-artifacts:
-    weight: 0.4643
+    weight: 0.4483
     avg_copies: 1.0
   izzet-wizards:
     weight: 0.8
@@ -73,12 +73,12 @@ archetypes:
     avg_copies: 1.0
   rakdos-aggro:
     weight: 1.0
-    avg_copies: 1.14
+    avg_copies: 1.1
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 1.0
   scapeshift-combo:
     weight: 0.5
@@ -93,7 +93,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo1:
-    weight: 0.0455
+    weight: 0.0417
     avg_copies: 1.0
   goryo4:
     weight: 1.0

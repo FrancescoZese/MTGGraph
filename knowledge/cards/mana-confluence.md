@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.0015
 archetypes:
   samwise-combo:
-    weight: 0.0667
+    weight: 0.0625
     avg_copies: 2.0
   goryo7:
     weight: 1.0

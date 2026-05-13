@@ -6,9 +6,9 @@ name: Mind Stone
 scryfall_id: ad881aa0-decc-447b-8c8a-983546a9a55a
 set: soc
 type: Artifact
-meta_presence: 0.0273
+meta_presence: 0.0276
 archetypes:
   eldrazi-tron:
-    weight: 0.7571
-    avg_copies: 3.94
+    weight: 0.7671
+    avg_copies: 3.93
 ---

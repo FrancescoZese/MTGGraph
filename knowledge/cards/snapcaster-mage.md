@@ -7,7 +7,7 @@ name: Snapcaster Mage
 scryfall_id: 7e41765e-43fe-461d-baeb-ee30d13d2d93
 set: uma
 type: Creature — Human Wizard
-meta_presence: 0.0268
+meta_presence: 0.0261
 archetypes:
   dimir-control:
     weight: 0.4051
@@ -28,8 +28,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.5
   4c-omnath9:
-    weight: 0.3333
-    avg_copies: 2.0
+    weight: 0.5
+    avg_copies: 1.5
   unknown-15:
     weight: 1.0
     avg_copies: 1.0
