@@ -7,7 +7,7 @@ name: Baleful Mastery
 scryfall_id: 579e20e7-1395-4a6c-a836-ae3419fc8808
 set: otc
 type: Instant
-meta_presence: 0.0025
+meta_presence: 0.0024
 archetypes:
   mill:
     weight: 0.3846

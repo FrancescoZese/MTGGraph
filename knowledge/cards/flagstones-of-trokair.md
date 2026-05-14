@@ -9,7 +9,7 @@ type: Legendary Land
 meta_presence: 0.0034
 archetypes:
   boros-ponza:
-    weight: 0.0462
+    weight: 0.0448
     avg_copies: 3.33
   azorius-blink:
     weight: 0.75

@@ -6,10 +6,10 @@ name: Soulless Jailer
 scryfall_id: bf9991fd-ea6a-4ed7-b5f1-46a95f8d0634
 set: one
 type: Artifact Creature — Phyrexian Golem
-meta_presence: 0.0655
+meta_presence: 0.0654
 archetypes:
   eldrazi-tron:
-    weight: 0.3151
+    weight: 0.3108
     avg_copies: 1.0
   amulet-titan:
     weight: 0.2727
@@ -24,20 +24,20 @@ archetypes:
     weight: 1.0
     avg_copies: 2.25
   boros-ponza:
-    weight: 0.0154
+    weight: 0.0149
     avg_copies: 2.0
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.5349
+    weight: 0.5111
     avg_copies: 1.26
   samwise-combo:
-    weight: 0.25
+    weight: 0.2222
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.5143
-    avg_copies: 1.78
+    weight: 0.5405
+    avg_copies: 1.75
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 2.5

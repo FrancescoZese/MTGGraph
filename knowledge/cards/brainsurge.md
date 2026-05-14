@@ -7,7 +7,7 @@ name: Brainsurge
 scryfall_id: ed48f805-b57c-4d7f-a3c2-d16ae71bce2d
 set: mh3
 type: Instant
-meta_presence: 0.0025
+meta_presence: 0.0024
 archetypes:
   living-end:
     weight: 0.0244

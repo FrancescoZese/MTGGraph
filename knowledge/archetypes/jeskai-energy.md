@@ -4,8 +4,8 @@ colors:
 - U
 - R
 name: Jeskai Energy
-meta_share: 0.0595
-list_count: 121
+meta_share: 0.0591
+list_count: 122
 top_cards:
 - name: Solitude
   weight: 1.0
@@ -35,244 +35,244 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Quantum Riddler
-  weight: 0.9917
+  weight: 0.9918
   avg_copies: 3.82
 - name: Arid Mesa
-  weight: 0.9917
+  weight: 0.9918
   avg_copies: 3.77
 - name: Ragavan, Nimble Pilferer
-  weight: 0.9917
-  avg_copies: 3.54
+  weight: 0.9918
+  avg_copies: 3.55
 - name: Scalding Tarn
-  weight: 0.9917
+  weight: 0.9918
   avg_copies: 3.03
 - name: Mystical Dispute
-  weight: 0.9917
-  avg_copies: 2.39
+  weight: 0.9918
+  avg_copies: 2.4
 - name: Wrath of the Skies
-  weight: 0.9917
-  avg_copies: 1.55
+  weight: 0.9918
+  avg_copies: 1.56
 - name: Meticulous Archive
-  weight: 0.9917
+  weight: 0.9918
   avg_copies: 1.0
 - name: Consign to Memory
-  weight: 0.9835
+  weight: 0.9836
   avg_copies: 3.8
 - name: Phelia, Exuberant Shepherd
-  weight: 0.9835
+  weight: 0.9836
   avg_copies: 3.59
 - name: Obsidian Charmaw
-  weight: 0.9752
+  weight: 0.9754
   avg_copies: 2.74
 - name: Ephemerate
-  weight: 0.9421
-  avg_copies: 1.81
+  weight: 0.9426
+  avg_copies: 1.82
 - name: High Noon
-  weight: 0.9339
-  avg_copies: 1.74
+  weight: 0.9344
+  avg_copies: 1.73
 - name: Galvanic Discharge
-  weight: 0.876
+  weight: 0.8689
   avg_copies: 3.8
 - name: Plains
-  weight: 0.8512
+  weight: 0.8525
   avg_copies: 1.62
 - name: Island
-  weight: 0.8017
+  weight: 0.8033
   avg_copies: 1.0
 - name: Mountain
-  weight: 0.7769
+  weight: 0.7787
   avg_copies: 1.0
 - name: Strix Serenade
-  weight: 0.7603
+  weight: 0.7541
   avg_copies: 1.51
 - name: March of Otherworldly Light
-  weight: 0.7438
-  avg_copies: 1.5
+  weight: 0.7459
+  avg_copies: 1.49
 - name: Casey Jones, Vigilante
-  weight: 0.7273
+  weight: 0.7213
   avg_copies: 1.98
 - name: Surgical Extraction
-  weight: 0.7107
+  weight: 0.7049
   avg_copies: 1.09
 - name: Prismatic Ending
-  weight: 0.595
-  avg_copies: 1.75
+  weight: 0.5984
+  avg_copies: 1.77
 - name: Fable of the Mirror-Breaker
-  weight: 0.5702
-  avg_copies: 2.26
+  weight: 0.5738
+  avg_copies: 2.29
 - name: Celestial Purge
-  weight: 0.5124
+  weight: 0.5082
   avg_copies: 1.16
 - name: Teferi, Time Raveler
-  weight: 0.4545
+  weight: 0.4508
   avg_copies: 1.21
 - name: Damping Sphere
-  weight: 0.3967
-  avg_copies: 1.48
+  weight: 0.4016
+  avg_copies: 1.49
 - name: Wear
-  weight: 0.3719
+  weight: 0.3689
   avg_copies: 1.2
 - name: Ashiok, Dream Render
-  weight: 0.3058
+  weight: 0.3033
   avg_copies: 1.3
 - name: No More Lies
-  weight: 0.2397
-  avg_copies: 1.33
+  weight: 0.2459
+  avg_copies: 1.32
 - name: Soul-Guide Lantern
-  weight: 0.2149
+  weight: 0.2131
   avg_copies: 1.58
 - name: Force of Negation
-  weight: 0.1901
+  weight: 0.1885
   avg_copies: 1.04
 - name: Snow-Covered Plains
-  weight: 0.1488
+  weight: 0.1475
   avg_copies: 1.83
 - name: Spell Snare
-  weight: 0.1405
+  weight: 0.1475
   avg_copies: 1.06
-- name: Riverpyre Verge
-  weight: 0.1405
-  avg_copies: 1.0
 - name: The Legend of Roku
-  weight: 0.1405
+  weight: 0.1393
+  avg_copies: 1.0
+- name: Riverpyre Verge
+  weight: 0.1393
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
-  weight: 0.124
+  weight: 0.123
   avg_copies: 1.0
 - name: Snow-Covered Mountain
-  weight: 0.1157
+  weight: 0.1148
   avg_copies: 1.0
 - name: Tishana's Tidebinder
-  weight: 0.0826
+  weight: 0.082
   avg_copies: 1.5
-- name: Drannith Magistrate
-  weight: 0.0744
-  avg_copies: 1.0
 - name: Unholy Heat
-  weight: 0.0661
+  weight: 0.0738
+  avg_copies: 1.0
+- name: Drannith Magistrate
+  weight: 0.0738
   avg_copies: 1.0
 - name: Snow-Covered Island
-  weight: 0.0661
+  weight: 0.0656
   avg_copies: 1.0
 - name: Lightning Bolt
-  weight: 0.0579
+  weight: 0.0574
   avg_copies: 3.0
 - name: Marsh Flats
-  weight: 0.0579
+  weight: 0.0574
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
-  weight: 0.0413
+  weight: 0.041
   avg_copies: 1.4
 - name: Thraben Charm
-  weight: 0.0331
+  weight: 0.0328
   avg_copies: 1.25
 - name: Kataki, War's Wage
-  weight: 0.0331
+  weight: 0.0328
   avg_copies: 1.0
 - name: Ghost Vacuum
-  weight: 0.0248
+  weight: 0.0246
   avg_copies: 1.33
-- name: Meltdown
-  weight: 0.0248
-  avg_copies: 1.0
 - name: Destroy Evil
-  weight: 0.0248
+  weight: 0.0246
   avg_copies: 1.0
-- name: Stony Silence
-  weight: 0.0165
+- name: Meltdown
+  weight: 0.0246
+  avg_copies: 1.0
+- name: Stock Up
+  weight: 0.0164
   avg_copies: 1.5
 - name: Mana Leak
-  weight: 0.0165
+  weight: 0.0164
   avg_copies: 1.5
 - name: Containment Priest
-  weight: 0.0165
+  weight: 0.0164
   avg_copies: 1.5
-- name: Stock Up
-  weight: 0.0165
+- name: Stony Silence
+  weight: 0.0164
   avg_copies: 1.5
-- name: Ajani Vengeant
-  weight: 0.0165
-  avg_copies: 1.0
 - name: Floodfarm Verge
-  weight: 0.0165
+  weight: 0.0164
+  avg_copies: 1.0
+- name: Ajani Vengeant
+  weight: 0.0164
   avg_copies: 1.0
 - name: Wear
-  weight: 0.0165
+  weight: 0.0164
   avg_copies: 1.0
 - name: Jace, the Mind Sculptor
-  weight: 0.0165
+  weight: 0.0164
   avg_copies: 1.0
 - name: Orim's Chant
-  weight: 0.0083
+  weight: 0.0082
   avg_copies: 4.0
 - name: Consult the Star Charts
-  weight: 0.0083
-  avg_copies: 3.0
-- name: Misty Rainforest
-  weight: 0.0083
-  avg_copies: 3.0
-- name: Windswept Heath
-  weight: 0.0083
+  weight: 0.0082
   avg_copies: 3.0
 - name: Wrenn and Six
-  weight: 0.0083
+  weight: 0.0082
   avg_copies: 3.0
+- name: Misty Rainforest
+  weight: 0.0082
+  avg_copies: 3.0
+- name: Windswept Heath
+  weight: 0.0082
+  avg_copies: 3.0
+- name: Disruptor Flute
+  weight: 0.0082
+  avg_copies: 2.0
 - name: Reprieve
-  weight: 0.0083
-  avg_copies: 2.0
-- name: Cryogen Relic
-  weight: 0.0083
-  avg_copies: 2.0
-- name: Tune the Narrative
-  weight: 0.0083
-  avg_copies: 2.0
-- name: Boseiju, Who Endures
-  weight: 0.0083
-  avg_copies: 2.0
-- name: Eternal Witness
-  weight: 0.0083
+  weight: 0.0082
   avg_copies: 2.0
 - name: White Orchid Phantom
-  weight: 0.0083
+  weight: 0.0082
+  avg_copies: 2.0
+- name: Boseiju, Who Endures
+  weight: 0.0082
+  avg_copies: 2.0
+- name: Eternal Witness
+  weight: 0.0082
   avg_copies: 2.0
 - name: Witch Enchanter
-  weight: 0.0083
+  weight: 0.0082
+  avg_copies: 2.0
+- name: Cryogen Relic
+  weight: 0.0082
   avg_copies: 2.0
 - name: Mana Tithe
-  weight: 0.0083
+  weight: 0.0082
   avg_copies: 2.0
-- name: Disruptor Flute
-  weight: 0.0083
+- name: Tune the Narrative
+  weight: 0.0082
   avg_copies: 2.0
-- name: Nihil Spellbomb
-  weight: 0.0083
+- name: Hedge Maze
+  weight: 0.0082
   avg_copies: 1.0
 - name: Temple Garden
-  weight: 0.0083
+  weight: 0.0082
   avg_copies: 1.0
-- name: Stomping Ground
-  weight: 0.0083
-  avg_copies: 1.0
-- name: Fire Magic
-  weight: 0.0083
-  avg_copies: 1.0
-- name: Lush Portico
-  weight: 0.0083
+- name: Nihil Spellbomb
+  weight: 0.0082
   avg_copies: 1.0
 - name: Supreme Verdict
-  weight: 0.0083
+  weight: 0.0082
   avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.0083
-  avg_copies: 1.0
-- name: Hedge Maze
-  weight: 0.0083
+- name: Fire Magic
+  weight: 0.0082
   avg_copies: 1.0
 - name: Omnath, Locus of Creation
-  weight: 0.0083
+  weight: 0.0082
+  avg_copies: 1.0
+- name: Breeding Pool
+  weight: 0.0082
   avg_copies: 1.0
 - name: Subtlety
-  weight: 0.0083
+  weight: 0.0082
+  avg_copies: 1.0
+- name: Stomping Ground
+  weight: 0.0082
+  avg_copies: 1.0
+- name: Lush Portico
+  weight: 0.0082
   avg_copies: 1.0
 ---
 Midrange-control deck combining the energy package (Phlage, Galvanic Discharge) with Solitude and Quantum Riddler for removal and value. Phelia and Casey Jones provide blink synergies.

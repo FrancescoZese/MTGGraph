@@ -7,10 +7,10 @@ name: Remand
 scryfall_id: a5048047-abff-4a1f-8d72-6b758a03542c
 set: rvr
 type: Instant
-meta_presence: 0.002
+meta_presence: 0.0019
 archetypes:
   ruby-storm:
-    weight: 0.0161
+    weight: 0.0156
     avg_copies: 2.0
   mono-blue-tron:
     weight: 0.2222

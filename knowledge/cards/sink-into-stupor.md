@@ -27,8 +27,8 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   affinity:
-    weight: 0.8952
-    avg_copies: 2.13
+    weight: 0.8967
+    avg_copies: 2.14
   mill:
     weight: 0.3077
     avg_copies: 1.0
@@ -42,7 +42,7 @@ archetypes:
     weight: 0.9556
     avg_copies: 3.7
   izzet-prowess:
-    weight: 0.0108
+    weight: 0.0105
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.5862
@@ -92,6 +92,9 @@ archetypes:
   unknown-25:
     weight: 0.5
     avg_copies: 1.0
+  unknown-30:
+    weight: 0.5
+    avg_copies: 1.0
   unknown-36:
     weight: 1.0
     avg_copies: 2.0
@@ -105,6 +108,9 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
+    weight: 1.0
+    avg_copies: 1.5
+  unknown-49:
     weight: 1.0
     avg_copies: 2.0
 ---

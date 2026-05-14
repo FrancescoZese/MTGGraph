@@ -6,9 +6,9 @@ name: Fountainport
 scryfall_id: 658cfcb7-81b7-48c6-9dd2-1663d06108cf
 set: blb
 type: Land
-meta_presence: 0.0015
+meta_presence: 0.0019
 archetypes:
   goryo6:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.2
 ---

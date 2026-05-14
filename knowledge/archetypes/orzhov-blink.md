@@ -3,16 +3,16 @@ colors:
 - W
 - B
 name: Orzhov Blink
-meta_share: 0.0025
+meta_share: 0.0024
 list_count: 5
 top_cards:
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 4.0
 - name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
+  weight: 1.0
+  avg_copies: 4.0
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
@@ -45,10 +45,10 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.8
-- name: Ashiok, Dream Render
+- name: Boggart Trawler
   weight: 1.0
   avg_copies: 1.6
-- name: Boggart Trawler
+- name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 1.6
 - name: Swamp
@@ -75,10 +75,10 @@ top_cards:
 - name: Bleachbone Verge
   weight: 0.8
   avg_copies: 1.75
-- name: Sheoldred's Edict
+- name: Dawnbringer Cleric
   weight: 0.6
   avg_copies: 2.0
-- name: Dawnbringer Cleric
+- name: Sheoldred's Edict
   weight: 0.6
   avg_copies: 2.0
 - name: Prismatic Ending
@@ -111,18 +111,15 @@ top_cards:
 - name: Orim's Chant
   weight: 0.2
   avg_copies: 4.0
+- name: Polluted Delta
+  weight: 0.2
+  avg_copies: 2.0
 - name: Duress
   weight: 0.2
   avg_copies: 2.0
 - name: Windswept Heath
   weight: 0.2
   avg_copies: 2.0
-- name: Polluted Delta
-  weight: 0.2
-  avg_copies: 2.0
-- name: Monumental Henge
-  weight: 0.2
-  avg_copies: 1.0
 - name: Eiganjo, Seat of the Empire
   weight: 0.2
   avg_copies: 1.0
@@ -130,6 +127,9 @@ top_cards:
   weight: 0.2
   avg_copies: 1.0
 - name: Raucous Theater
+  weight: 0.2
+  avg_copies: 1.0
+- name: Monumental Henge
   weight: 0.2
   avg_copies: 1.0
 ---

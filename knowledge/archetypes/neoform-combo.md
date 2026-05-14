@@ -6,7 +6,7 @@ colors:
 - R
 - G
 name: Neoform Combo
-meta_share: 0.0187
+meta_share: 0.0184
 list_count: 38
 top_cards:
 - name: Eldritch Evolution
@@ -84,10 +84,10 @@ top_cards:
 - name: Snow-Covered Forest
   weight: 0.8421
   avg_copies: 1.23
-- name: Ureni, the Song Unending
+- name: Snow-Covered Island
   weight: 0.8421
   avg_copies: 1.0
-- name: Snow-Covered Island
+- name: Ureni, the Song Unending
   weight: 0.8421
   avg_copies: 1.0
 - name: Into the Flood Maw
@@ -135,13 +135,13 @@ top_cards:
 - name: Island
   weight: 0.0789
   avg_copies: 1.33
-- name: Glittering Wish
-  weight: 0.0526
-  avg_copies: 4.0
 - name: Invasion of Gobakhan
   weight: 0.0526
   avg_copies: 4.0
 - name: Gemstone Mine
+  weight: 0.0526
+  avg_copies: 4.0
+- name: Glittering Wish
   weight: 0.0526
   avg_copies: 4.0
 - name: Thrun, the Last Troll
@@ -156,28 +156,28 @@ top_cards:
 - name: Spell Snare
   weight: 0.0526
   avg_copies: 1.5
+- name: Stump Stomp
+  weight: 0.0526
+  avg_copies: 1.0
 - name: Raph & Mikey, Troublemakers
   weight: 0.0526
   avg_copies: 1.0
 - name: Borborygmos Enraged
   weight: 0.0526
   avg_copies: 1.0
-- name: Stump Stomp
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Lush Portico
-  weight: 0.0526
-  avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.0526
   avg_copies: 1.0
-- name: Detention Sphere
+- name: Firespout
   weight: 0.0526
   avg_copies: 1.0
 - name: Nature's Chant
   weight: 0.0526
   avg_copies: 1.0
-- name: Firespout
+- name: Lush Portico
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Detention Sphere
   weight: 0.0526
   avg_copies: 1.0
 - name: Hexing Squelcher
@@ -189,34 +189,34 @@ top_cards:
 - name: Detect Intrusion
   weight: 0.0263
   avg_copies: 4.0
-- name: Quandrix Charm
+- name: Abrupt Decay
   weight: 0.0263
   avg_copies: 3.0
-- name: Abrupt Decay
+- name: Quandrix Charm
   weight: 0.0263
   avg_copies: 3.0
 - name: Rakshasa's Bargain
   weight: 0.0263
   avg_copies: 3.0
+- name: Brainsurge
+  weight: 0.0263
+  avg_copies: 1.0
+- name: Force of Vigor
+  weight: 0.0263
+  avg_copies: 1.0
 - name: Thundering Falls
   weight: 0.0263
   avg_copies: 1.0
 - name: Commercial District
   weight: 0.0263
   avg_copies: 1.0
+- name: Undercity Sewers
+  weight: 0.0263
+  avg_copies: 1.0
 - name: Underground Mortuary
   weight: 0.0263
   avg_copies: 1.0
-- name: Force of Vigor
-  weight: 0.0263
-  avg_copies: 1.0
 - name: Wan Shi Tong, Librarian
-  weight: 0.0263
-  avg_copies: 1.0
-- name: Brainsurge
-  weight: 0.0263
-  avg_copies: 1.0
-- name: Undercity Sewers
   weight: 0.0263
   avg_copies: 1.0
 ---

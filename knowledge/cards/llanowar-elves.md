@@ -7,9 +7,9 @@ name: Llanowar Elves
 scryfall_id: 6a0b230b-d391-4998-a3f7-7b158a0ec2cd
 set: fdn
 type: Creature — Elf Druid
-meta_presence: 0.0005
+meta_presence: 0.001
 archetypes:
   elves:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 3.5
 ---

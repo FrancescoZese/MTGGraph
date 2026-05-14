@@ -7,7 +7,7 @@ name: Leyline of Sanctity
 scryfall_id: be8b1acf-dd87-42ca-ad19-c27d21066030
 set: m20
 type: Enchantment
-meta_presence: 0.0069
+meta_presence: 0.0068
 archetypes:
   mono-red-belcher:
     weight: 0.0833

@@ -8,7 +8,7 @@ name: Ketramose, the New Dawn
 scryfall_id: cffae8d0-7b4e-42ed-8124-24a86b38f490
 set: dft
 type: Legendary Creature — God
-meta_presence: 0.0113
+meta_presence: 0.0111
 archetypes:
   goryo:
     weight: 0.038

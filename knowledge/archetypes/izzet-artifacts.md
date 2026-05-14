@@ -3,7 +3,7 @@ colors:
 - U
 - R
 name: Izzet Artifacts
-meta_share: 0.0143
+meta_share: 0.0141
 list_count: 29
 top_cards:
 - name: Mishra's Bauble
@@ -165,22 +165,22 @@ top_cards:
 - name: Lightning Bolt
   weight: 0.069
   avg_copies: 3.0
-- name: Endurance
-  weight: 0.069
-  avg_copies: 2.0
 - name: Six
   weight: 0.069
   avg_copies: 2.0
-- name: Boseiju, Who Endures
+- name: Endurance
+  weight: 0.069
+  avg_copies: 2.0
+- name: Hedge Maze
   weight: 0.069
   avg_copies: 1.0
 - name: Grafdigger's Cage
   weight: 0.069
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Shifting Woodland
   weight: 0.069
   avg_copies: 1.0
-- name: Shifting Woodland
+- name: Boseiju, Who Endures
   weight: 0.069
   avg_copies: 1.0
 - name: Stormchaser's Talent
@@ -195,25 +195,37 @@ top_cards:
 - name: Retraction Helix
   weight: 0.0345
   avg_copies: 3.0
-- name: Spell Pierce
+- name: Annul
   weight: 0.0345
   avg_copies: 2.0
 - name: Kappa Cannoneer
   weight: 0.0345
   avg_copies: 2.0
-- name: Botanical Sanctum
+- name: The Reality Chip
   weight: 0.0345
   avg_copies: 2.0
-- name: Annul
+- name: Spell Pierce
   weight: 0.0345
   avg_copies: 2.0
 - name: Invasive Surgery
   weight: 0.0345
   avg_copies: 2.0
-- name: The Reality Chip
+- name: Botanical Sanctum
   weight: 0.0345
   avg_copies: 2.0
-- name: Ashiok, Dream Render
+- name: Nature's Claim
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Snow-Covered Mountain
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Shivan Reef
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Snow-Covered Island
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Force of Vigor
   weight: 0.0345
   avg_copies: 1.0
 - name: An Offer You Can't Refuse
@@ -222,31 +234,19 @@ top_cards:
 - name: Meltdown
   weight: 0.0345
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Swan Song
   weight: 0.0345
   avg_copies: 1.0
-- name: Force of Vigor
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Lavaspur Boots
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Snow-Covered Mountain
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Snow-Covered Island
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Nature's Claim
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Shivan Reef
+- name: Ashiok, Dream Render
   weight: 0.0345
   avg_copies: 1.0
 - name: Subtlety
   weight: 0.0345
   avg_copies: 1.0
-- name: Swan Song
+- name: Stomping Ground
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Lavaspur Boots
   weight: 0.0345
   avg_copies: 1.0
 ---

@@ -6,13 +6,13 @@ name: Soultrader Combo
 meta_share: 0.0015
 list_count: 3
 top_cards:
-- name: Warren Soultrader
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
 - name: Gravecrawler
   weight: 1.0
   avg_copies: 4.0
-- name: Orcish Bowmasters
+- name: Warren Soultrader
   weight: 1.0
   avg_copies: 4.0
 - name: Marionette Apprentice
@@ -45,46 +45,46 @@ top_cards:
 - name: Overgrown Tomb
   weight: 1.0
   avg_copies: 2.0
-- name: Culling Ritual
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.67
-- name: Bloodstained Mire
+- name: Culling Ritual
   weight: 1.0
   avg_copies: 1.67
 - name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.0
-- name: Stitcher's Supplier
-  weight: 0.6667
-  avg_copies: 4.0
 - name: Boggart Trawler
-  weight: 0.6667
-  avg_copies: 4.0
-- name: Unearth
   weight: 0.6667
   avg_copies: 4.0
 - name: Birthing Ritual
   weight: 0.6667
   avg_copies: 4.0
+- name: Stitcher's Supplier
+  weight: 0.6667
+  avg_copies: 4.0
+- name: Unearth
+  weight: 0.6667
+  avg_copies: 4.0
 - name: Fulminator Mage
   weight: 0.6667
   avg_copies: 3.0
-- name: Collector Ouphe
-  weight: 0.6667
-  avg_copies: 2.0
-- name: Arnyn, Deathbloom Botanist
+- name: Polluted Delta
   weight: 0.6667
   avg_copies: 2.0
 - name: Soulless Jailer
   weight: 0.6667
   avg_copies: 2.0
-- name: Polluted Delta
+- name: Arnyn, Deathbloom Botanist
   weight: 0.6667
   avg_copies: 2.0
-- name: Haywire Mite
+- name: Collector Ouphe
+  weight: 0.6667
+  avg_copies: 2.0
+- name: Reclamation Sage
   weight: 0.6667
   avg_copies: 1.0
-- name: Reclamation Sage
+- name: Haywire Mite
   weight: 0.6667
   avg_copies: 1.0
 - name: Abrupt Decay
@@ -93,10 +93,10 @@ top_cards:
 - name: Phoenix Fleet Airship
   weight: 0.3333
   avg_copies: 4.0
-- name: Shambling Ghast
+- name: Malevolent Rumble
   weight: 0.3333
   avg_copies: 4.0
-- name: Malevolent Rumble
+- name: Shambling Ghast
   weight: 0.3333
   avg_copies: 4.0
 - name: Graveyard Trespasser
@@ -105,9 +105,6 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.3333
   avg_copies: 2.0
-- name: Nihil Spellbomb
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Overlord of the Balemurk
   weight: 0.3333
   avg_copies: 1.0
@@ -117,28 +114,31 @@ top_cards:
 - name: Cling to Dust
   weight: 0.3333
   avg_copies: 1.0
-- name: Sephiroth, Fabled SOLDIER
+- name: Break the Ice
   weight: 0.3333
   avg_copies: 1.0
-- name: Urborg, Tomb of Yawgmoth
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Ashiok, Dream Render
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Mai, Scornful Striker
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Shatter Assumptions
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Grist, the Hunger Tide
+- name: Nihil Spellbomb
   weight: 0.3333
   avg_copies: 1.0
 - name: Nurturing Peatland
   weight: 0.3333
   avg_copies: 1.0
-- name: Break the Ice
+- name: Ashiok, Dream Render
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Grist, the Hunger Tide
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Urborg, Tomb of Yawgmoth
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Shatter Assumptions
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Mai, Scornful Striker
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Sephiroth, Fabled SOLDIER
   weight: 0.3333
   avg_copies: 1.0
 ---

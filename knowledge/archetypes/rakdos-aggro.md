@@ -3,19 +3,19 @@ colors:
 - B
 - R
 name: Rakdos Aggro
-meta_share: 0.0049
+meta_share: 0.0048
 list_count: 10
 top_cards:
-- name: Dragon's Rage Channeler
+- name: Moonshadow
+  weight: 1.0
+  avg_copies: 4.0
+- name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
-- name: Moonshadow
-  weight: 1.0
-  avg_copies: 4.0
-- name: Nethergoyf
+- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Blood Crypt
@@ -87,10 +87,10 @@ top_cards:
 - name: Mutagenic Growth
   weight: 0.3
   avg_copies: 2.0
-- name: Pyroclasm
+- name: Cling to Dust
   weight: 0.3
   avg_copies: 1.67
-- name: Cling to Dust
+- name: Pyroclasm
   weight: 0.3
   avg_copies: 1.67
 - name: Nihil Spellbomb
@@ -108,7 +108,10 @@ top_cards:
 - name: Sundering Eruption
   weight: 0.2
   avg_copies: 1.0
-- name: Death's Shadow
+- name: Super Shredder
+  weight: 0.1
+  avg_copies: 4.0
+- name: Polluted Delta
   weight: 0.1
   avg_copies: 4.0
 - name: Marsh Flats
@@ -117,13 +120,10 @@ top_cards:
 - name: Magebane Lizard
   weight: 0.1
   avg_copies: 4.0
-- name: Super Shredder
+- name: Death's Shadow
   weight: 0.1
   avg_copies: 4.0
 - name: Bloodbraid Marauder
-  weight: 0.1
-  avg_copies: 4.0
-- name: Polluted Delta
   weight: 0.1
   avg_copies: 4.0
 - name: Force of Despair
@@ -138,16 +138,13 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.1
   avg_copies: 3.0
-- name: Sheoldred's Edict
-  weight: 0.1
-  avg_copies: 2.0
 - name: Feed the Swarm
   weight: 0.1
   avg_copies: 2.0
 - name: Blackcleave Cliffs
   weight: 0.1
   avg_copies: 2.0
-- name: Unearth
+- name: Break the Ice
   weight: 0.1
   avg_copies: 2.0
 - name: Torpor Orb
@@ -156,34 +153,37 @@ top_cards:
 - name: Abigale, Eloquent First-Year
   weight: 0.1
   avg_copies: 2.0
-- name: Break the Ice
+- name: Sheoldred's Edict
   weight: 0.1
   avg_copies: 2.0
-- name: Graveyard Trespasser
+- name: Unearth
   weight: 0.1
-  avg_copies: 1.0
-- name: Fatal Push
+  avg_copies: 2.0
+- name: Boggart Trawler
   weight: 0.1
   avg_copies: 1.0
 - name: Verdant Catacombs
   weight: 0.1
   avg_copies: 1.0
-- name: Troll of Khazad-dûm
+- name: Fatal Push
   weight: 0.1
   avg_copies: 1.0
 - name: Cecil, Dark Knight
   weight: 0.1
   avg_copies: 1.0
-- name: Boggart Trawler
-  weight: 0.1
-  avg_copies: 1.0
-- name: Dreams of Steel and Oil
-  weight: 0.1
-  avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
   weight: 0.1
   avg_copies: 1.0
+- name: Troll of Khazad-dûm
+  weight: 0.1
+  avg_copies: 1.0
 - name: Ob Nixilis, the Adversary
+  weight: 0.1
+  avg_copies: 1.0
+- name: Graveyard Trespasser
+  weight: 0.1
+  avg_copies: 1.0
+- name: Dreams of Steel and Oil
   weight: 0.1
   avg_copies: 1.0
 ---

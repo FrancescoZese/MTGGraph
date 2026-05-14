@@ -7,7 +7,7 @@ name: Hedron Crab
 scryfall_id: d109b70e-862f-4d8a-8b40-ef6dc904868f
 set: tdc
 type: Creature — Crab
-meta_presence: 0.0074
+meta_presence: 0.0073
 archetypes:
   mill:
     weight: 1.0
@@ -16,6 +16,6 @@ archetypes:
     weight: 0.0833
     avg_copies: 4.0
   unknown-30:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 4.0
 ---

@@ -6,9 +6,9 @@ name: Claws of Gix
 scryfall_id: d02b645e-ba2c-44a0-889e-c1b46d2cd925
 set: tsb
 type: Artifact
-meta_presence: 0.1024
+meta_presence: 0.1022
 archetypes:
   affinity:
-    weight: 0.9905
-    avg_copies: 2.8
+    weight: 0.9906
+    avg_copies: 2.81
 ---

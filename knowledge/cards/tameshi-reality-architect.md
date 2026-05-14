@@ -7,7 +7,7 @@ name: Tameshi, Reality Architect
 scryfall_id: 26594b52-3e9c-4cde-88df-1f4e9e16676e
 set: neo
 type: Legendary Creature — Moonfolk Wizard
-meta_presence: 0.0207
+meta_presence: 0.0208
 archetypes:
   mono-blue-belcher:
     weight: 1.0

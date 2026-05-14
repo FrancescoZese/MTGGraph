@@ -7,9 +7,9 @@ name: Wall of Roots
 scryfall_id: e4e7d3b7-9b0c-463d-975c-ef81d7fd8dad
 set: tdc
 type: Creature — Plant Wall
-meta_presence: 0.002
+meta_presence: 0.0024
 archetypes:
   samwise-combo:
-    weight: 0.25
+    weight: 0.2778
     avg_copies: 2.0
 ---

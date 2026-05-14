@@ -7,25 +7,25 @@ name: 'Unknown #11'
 meta_share: 0.001
 list_count: 2
 top_cards:
-- name: Flow State
-  weight: 1.0
-  avg_copies: 4.0
-- name: Manamorphose
+- name: Pyretic Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Ral, Monsoon Mage
   weight: 1.0
   avg_copies: 4.0
+- name: Desperate Ritual
+  weight: 1.0
+  avg_copies: 4.0
 - name: Stormcatch Mentor
   weight: 1.0
   avg_copies: 4.0
-- name: Pyretic Ritual
+- name: Flow State
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
-- name: Desperate Ritual
+- name: Manamorphose
   weight: 1.0
   avg_copies: 4.0
 - name: Stock Up
@@ -40,13 +40,7 @@ top_cards:
 - name: Steam Vents
   weight: 1.0
   avg_copies: 2.5
-- name: Past in Flames
-  weight: 1.0
-  avg_copies: 2.0
-- name: Reckless Impulse
-  weight: 1.0
-  avg_copies: 2.0
-- name: Thundering Falls
+- name: Defense Grid
   weight: 1.0
   avg_copies: 2.0
 - name: Into the Flood Maw
@@ -55,34 +49,40 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 2.0
-- name: Defense Grid
+- name: Reckless Impulse
   weight: 1.0
   avg_copies: 2.0
-- name: Flame of Anor
+- name: Thundering Falls
   weight: 1.0
-  avg_copies: 1.5
+  avg_copies: 2.0
+- name: Past in Flames
+  weight: 1.0
+  avg_copies: 2.0
 - name: Mountain
   weight: 1.0
   avg_copies: 1.5
 - name: Brotherhood's End
   weight: 1.0
   avg_copies: 1.5
+- name: Flame of Anor
+  weight: 1.0
+  avg_copies: 1.5
 - name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 1.5
-- name: Misty Rainforest
-  weight: 1.0
-  avg_copies: 1.0
 - name: Grapeshot
   weight: 1.0
   avg_copies: 1.0
-- name: Valakut Awakening
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
 - name: Wooded Foothills
+  weight: 1.0
+  avg_copies: 1.0
+- name: Valakut Awakening
   weight: 1.0
   avg_copies: 1.0
 - name: Island
@@ -109,25 +109,25 @@ top_cards:
 - name: Lightning Bolt
   weight: 0.5
   avg_copies: 1.5
+- name: Shatterskull Smashing
+  weight: 0.5
+  avg_copies: 1.0
 - name: Sink into Stupor
   weight: 0.5
   avg_copies: 1.0
 - name: Baral, Chief of Compliance
   weight: 0.5
   avg_copies: 1.0
-- name: Arid Mesa
-  weight: 0.5
-  avg_copies: 1.0
-- name: Shatterskull Smashing
-  weight: 0.5
-  avg_copies: 1.0
-- name: Meltdown
-  weight: 0.5
-  avg_copies: 1.0
 - name: Fiery Islet
   weight: 0.5
   avg_copies: 1.0
+- name: Arid Mesa
+  weight: 0.5
+  avg_copies: 1.0
 - name: Fire
+  weight: 0.5
+  avg_copies: 1.0
+- name: Meltdown
   weight: 0.5
   avg_copies: 1.0
 ---

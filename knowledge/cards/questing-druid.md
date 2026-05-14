@@ -10,9 +10,9 @@ type: Creature — Human Druid // Instant — Adventure
 meta_presence: 0.0034
 archetypes:
   ruby-storm:
-    weight: 0.0484
+    weight: 0.0469
     avg_copies: 4.0
   izzet-prowess:
-    weight: 0.043
+    weight: 0.0421
     avg_copies: 3.0
 ---

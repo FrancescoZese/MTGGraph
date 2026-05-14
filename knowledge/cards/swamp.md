@@ -12,7 +12,7 @@ archetypes:
     weight: 0.9873
     avg_copies: 1.03
   eldrazi-tron:
-    weight: 0.6575
+    weight: 0.6622
     avg_copies: 1.0
   goryo:
     weight: 0.9494
@@ -45,7 +45,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.125
+    weight: 0.1667
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.125
@@ -152,4 +152,10 @@ archetypes:
   unknown-47:
     weight: 1.0
     avg_copies: 1.0
+  unknown-51:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-50:
+    weight: 1.0
+    avg_copies: 2.0
 ---

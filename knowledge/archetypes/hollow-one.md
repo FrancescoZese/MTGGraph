@@ -3,16 +3,16 @@ colors:
 - B
 - R
 name: Hollow One
-meta_share: 0.0113
+meta_share: 0.0111
 list_count: 23
 top_cards:
-- name: Street Wraith
+- name: Burning Inquiry
   weight: 1.0
   avg_copies: 4.0
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Burning Inquiry
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Hollow One
@@ -138,10 +138,10 @@ top_cards:
 - name: Scalding Tarn
   weight: 0.1304
   avg_copies: 1.33
-- name: Blackcleave Cliffs
+- name: Liliana of the Veil
   weight: 0.1304
   avg_copies: 1.0
-- name: Liliana of the Veil
+- name: Blackcleave Cliffs
   weight: 0.1304
   avg_copies: 1.0
 - name: Sheoldred's Edict
@@ -150,43 +150,43 @@ top_cards:
 - name: Goblin Lore
   weight: 0.087
   avg_copies: 2.0
-- name: Ox of Agonas
+- name: Blood Moon
   weight: 0.087
   avg_copies: 1.5
-- name: Blood Moon
+- name: Ox of Agonas
   weight: 0.087
   avg_copies: 1.5
 - name: Violent Urge
   weight: 0.087
   avg_copies: 1.0
-- name: Commercial District
-  weight: 0.087
-  avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.087
   avg_copies: 1.0
-- name: Pyroclasm
-  weight: 0.0435
-  avg_copies: 2.0
-- name: Ancient Grudge
-  weight: 0.0435
-  avg_copies: 2.0
-- name: Magus of the Moon
+- name: Commercial District
+  weight: 0.087
+  avg_copies: 1.0
+- name: Rough
   weight: 0.0435
   avg_copies: 2.0
 - name: Flameblade Adept
   weight: 0.0435
   avg_copies: 2.0
-- name: Magebane Lizard
-  weight: 0.0435
-  avg_copies: 2.0
 - name: Inti, Seneschal of the Sun
   weight: 0.0435
   avg_copies: 2.0
-- name: Rough
+- name: Ancient Grudge
   weight: 0.0435
   avg_copies: 2.0
 - name: Cam and Farrik, Havoc Duo
+  weight: 0.0435
+  avg_copies: 2.0
+- name: Magebane Lizard
+  weight: 0.0435
+  avg_copies: 2.0
+- name: Pyroclasm
+  weight: 0.0435
+  avg_copies: 2.0
+- name: Magus of the Moon
   weight: 0.0435
   avg_copies: 2.0
 - name: Overlord of the Balemurk

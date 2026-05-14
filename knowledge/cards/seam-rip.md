@@ -10,6 +10,6 @@ type: Enchantment
 meta_presence: 0.001
 archetypes:
   samwise-combo:
-    weight: 0.125
+    weight: 0.1111
     avg_copies: 1.0
 ---
