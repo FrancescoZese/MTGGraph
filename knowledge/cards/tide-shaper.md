@@ -7,7 +7,7 @@ name: Tide Shaper
 scryfall_id: 2ff414bc-6736-428b-bb60-9d62793a5ae5
 set: mh2
 type: Creature — Merfolk Wizard
-meta_presence: 0.001
+meta_presence: 0.0009
 archetypes:
   unknown-42:
     weight: 1.0

@@ -7,7 +7,7 @@ name: Solitary Confinement
 scryfall_id: b9031a7f-8821-443c-9c9d-552fb25b2101
 set: mh2
 type: Enchantment
-meta_presence: 0.0015
+meta_presence: 0.0014
 archetypes:
   unknown-9:
     weight: 1.0

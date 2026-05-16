@@ -6,7 +6,7 @@ name: Slaughter Pact
 scryfall_id: 81e00341-030f-433e-b22b-aca42e0a88d2
 set: tsr
 type: Instant
-meta_presence: 0.001
+meta_presence: 0.0009
 archetypes:
   necrodominance:
     weight: 0.08

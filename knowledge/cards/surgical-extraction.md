@@ -1,19 +1,19 @@
 ---
 archetypes:
   boros-energy:
-    weight: 0.9038
+    weight: 0.9035
     avg_copies: 1.32
   dimir-control:
-    weight: 0.1139
+    weight: 0.1111
     avg_copies: 1.44
   mono-blue-belcher:
     weight: 0.0233
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.7049
+    weight: 0.6992
     avg_copies: 1.09
   goryo:
-    weight: 0.5443
+    weight: 0.5301
     avg_copies: 1.16
   necrodominance:
     weight: 0.6
@@ -37,28 +37,28 @@ archetypes:
     weight: 0.4286
     avg_copies: 2.0
   mardu-blink:
-    weight: 0.9
-    avg_copies: 1.44
+    weight: 0.9048
+    avg_copies: 1.42
   mono-blue-tron:
     weight: 0.4444
     avg_copies: 1.75
   hollow-one:
-    weight: 0.6522
-    avg_copies: 1.8
+    weight: 0.6667
+    avg_copies: 1.75
   boros-ponza:
-    weight: 0.209
-    avg_copies: 1.67
+    weight: 0.2143
+    avg_copies: 1.62
   eldrazi-ramp:
-    weight: 0.0667
+    weight: 0.0638
     avg_copies: 1.67
   izzet-prowess:
-    weight: 0.8947
-    avg_copies: 1.55
+    weight: 0.8969
+    avg_copies: 1.56
   esper-blink:
-    weight: 0.1667
+    weight: 0.1579
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.2222
+    weight: 0.25
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.5
@@ -124,7 +124,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-23:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 3.0
   unknown-31:
     weight: 1.0
@@ -142,18 +142,27 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 1.0
-    avg_copies: 1.5
+    weight: 0.8
+    avg_copies: 1.75
   unknown-51:
     weight: 1.0
     avg_copies: 2.0
   unknown-50:
     weight: 1.0
     avg_copies: 1.0
+  unknown-53:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-54:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-58:
+    weight: 1.0
+    avg_copies: 1.0
 cmc: 1
 colors: []
 image: https://cards.scryfall.io/normal/front/e/1/e15d76ac-1c23-4503-8225-375ac2bf2fb6.jpg?1673147668
-meta_presence: 0.3624
+meta_presence: 0.3585
 name: Surgical Extraction
 scryfall_id: e15d76ac-1c23-4503-8225-375ac2bf2fb6
 set: 2x2

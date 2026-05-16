@@ -7,10 +7,10 @@ name: Boom // Bust
 scryfall_id: 8ffdee1b-bb5d-44e6-a90d-6f9e9266d4fd
 set: tsr
 type: Sorcery // Sorcery
-meta_presence: 0.0015
+meta_presence: 0.0014
 archetypes:
   boros-ponza:
-    weight: 0.0299
+    weight: 0.0286
     avg_copies: 4.0
   unknown-13:
     weight: 1.0

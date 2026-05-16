@@ -6,7 +6,7 @@ name: Lantern of Insight
 scryfall_id: cb0e4c78-75fe-4692-b177-974b148f0614
 set: 5dn
 type: Artifact
-meta_presence: 0.0015
+meta_presence: 0.0019
 archetypes:
   rakdos-lantern-combo:
     weight: 1.0

@@ -6,34 +6,31 @@ name: 'Unknown #49'
 meta_share: 0.0005
 list_count: 1
 top_cards:
-- name: Metallic Rebuke
-  weight: 1.0
-  avg_copies: 4.0
-- name: Fiery Islet
-  weight: 1.0
-  avg_copies: 4.0
 - name: Tormod's Crypt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Pinnacle Emissary
-  weight: 1.0
-  avg_copies: 4.0
-- name: Kappa Cannoneer
   weight: 1.0
   avg_copies: 4.0
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 4.0
-- name: Memnite
+- name: Fiery Islet
+  weight: 1.0
+  avg_copies: 4.0
+- name: Kappa Cannoneer
   weight: 1.0
   avg_copies: 4.0
 - name: Emry, Lurker of the Loch
   weight: 1.0
   avg_copies: 4.0
-- name: Spirebluff Canal
+- name: Metallic Rebuke
   weight: 1.0
   avg_copies: 4.0
-- name: Engineered Explosives
+- name: Pinnacle Emissary
+  weight: 1.0
+  avg_copies: 4.0
+- name: Memnite
+  weight: 1.0
+  avg_copies: 4.0
+- name: Spirebluff Canal
   weight: 1.0
   avg_copies: 4.0
 - name: Welding Jar
@@ -42,6 +39,12 @@ top_cards:
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
+- name: Engineered Explosives
+  weight: 1.0
+  avg_copies: 4.0
+- name: Snow-Covered Island
+  weight: 1.0
+  avg_copies: 3.0
 - name: Whipflare
   weight: 1.0
   avg_copies: 3.0
@@ -51,16 +54,13 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
-- name: Snow-Covered Island
-  weight: 1.0
-  avg_copies: 3.0
 - name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 2.0
-- name: Urza's Saga
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 2.0
-- name: Sink into Stupor
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 2.0
 - name: Lavaspur Boots

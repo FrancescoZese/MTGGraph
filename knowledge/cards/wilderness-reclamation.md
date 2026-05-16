@@ -7,7 +7,7 @@ name: Wilderness Reclamation
 scryfall_id: 5e6c0cb4-f17d-48ae-9bbf-9498505a23b0
 set: dsc
 type: Enchantment
-meta_presence: 0.001
+meta_presence: 0.0009
 archetypes:
   unknown-25:
     weight: 1.0

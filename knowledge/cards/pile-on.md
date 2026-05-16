@@ -7,12 +7,12 @@ name: Pile On
 scryfall_id: 570b56ff-b25a-43e4-927b-99dba542be5e
 set: mkc
 type: Instant
-meta_presence: 0.0097
+meta_presence: 0.0093
 archetypes:
   yawgmoth-combo:
-    weight: 0.6923
+    weight: 0.6667
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 1.0
 ---

@@ -7,7 +7,7 @@ name: Rain of Tears
 scryfall_id: 5811f4ee-f352-4b41-8f56-da0cb7f3f11b
 set: 10e
 type: Sorcery
-meta_presence: 0.001
+meta_presence: 0.0009
 archetypes:
   unknown-14:
     weight: 1.0

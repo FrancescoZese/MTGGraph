@@ -7,7 +7,7 @@ name: Silvergill Mentor
 scryfall_id: e6e37fe8-459c-4992-8ae9-f782cddab2fe
 set: ecl
 type: Creature — Merfolk Wizard
-meta_presence: 0.001
+meta_presence: 0.0009
 archetypes:
   unknown-42:
     weight: 1.0

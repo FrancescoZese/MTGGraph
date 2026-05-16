@@ -26,7 +26,7 @@ archetypes:
     avg_copies: 4.0
   4c-omnath9:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 3.2
   unknown-16:
     weight: 1.0
     avg_copies: 4.0

@@ -7,7 +7,7 @@ name: Eyetwitch
 scryfall_id: 1f4d1bb6-cb8f-4d01-9879-0b3a0585cbf4
 set: stx
 type: Creature — Eye Bat
-meta_presence: 0.0029
+meta_presence: 0.0037
 archetypes:
   reanimator:
     weight: 0.037
@@ -16,6 +16,9 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-50:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-57:
     weight: 1.0
     avg_copies: 4.0
 ---

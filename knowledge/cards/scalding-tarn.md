@@ -6,16 +6,16 @@ name: Scalding Tarn
 scryfall_id: 71e491c5-8c07-449b-b2f1-ffa052e6d311
 set: mh2
 type: Land
-meta_presence: 0.2519
+meta_presence: 0.2494
 archetypes:
   ruby-storm:
-    weight: 0.9062
-    avg_copies: 2.26
+    weight: 0.9104
+    avg_copies: 2.25
   dimir-control:
-    weight: 0.3544
-    avg_copies: 1.32
+    weight: 0.358
+    avg_copies: 1.34
   jeskai-energy:
-    weight: 0.9918
+    weight: 0.9919
     avg_copies: 3.03
   azorius-control:
     weight: 1.0
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.8889
     avg_copies: 3.12
   affinity:
-    weight: 0.0986
+    weight: 0.0995
     avg_copies: 2.05
   mill:
     weight: 0.6154
@@ -33,20 +33,20 @@ archetypes:
     weight: 0.7778
     avg_copies: 1.05
   neoform-combo:
-    weight: 0.6053
-    avg_copies: 1.26
+    weight: 0.6154
+    avg_copies: 1.25
   burn:
     weight: 0.5714
     avg_copies: 1.75
   hollow-one:
-    weight: 0.1304
+    weight: 0.125
     avg_copies: 1.33
   simic-ritual:
-    weight: 0.0444
+    weight: 0.0426
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.9474
-    avg_copies: 2.69
+    weight: 0.9485
+    avg_copies: 2.67
   indomitable-creativity:
     weight: 0.875
     avg_copies: 2.43
@@ -54,8 +54,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.17
   izzet-artifacts:
-    weight: 0.5172
-    avg_copies: 3.8
+    weight: 0.5333
+    avg_copies: 3.75
   izzet-wizards:
     weight: 1.0
     avg_copies: 3.8
@@ -88,7 +88,7 @@ archetypes:
     avg_copies: 4.0
   4c-omnath9:
     weight: 1.0
-    avg_copies: 2.25
+    avg_copies: 2.4
   sultai-midrange:
     weight: 1.0
     avg_copies: 4.0
@@ -110,6 +110,9 @@ archetypes:
   unknown-15:
     weight: 1.0
     avg_copies: 2.0
+  unknown-16:
+    weight: 0.5
+    avg_copies: 1.0
   unknown-19:
     weight: 1.0
     avg_copies: 3.0
@@ -134,4 +137,10 @@ archetypes:
   unknown-41:
     weight: 1.0
     avg_copies: 1.0
+  unknown-53:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-59:
+    weight: 1.0
+    avg_copies: 4.0
 ---

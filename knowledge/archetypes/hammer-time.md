@@ -6,31 +6,31 @@ name: Hammer Time
 meta_share: 0.0019
 list_count: 4
 top_cards:
-- name: Esper Sentinel
+- name: Stoneforge Mystic
   weight: 1.0
   avg_copies: 4.0
-- name: Stoneforge Mystic
+- name: Esper Sentinel
   weight: 1.0
   avg_copies: 4.0
 - name: Colossus Hammer
   weight: 1.0
   avg_copies: 4.0
-- name: Battlefield Improvisation
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 3.75
-- name: Urza's Saga
+- name: Battlefield Improvisation
   weight: 1.0
   avg_copies: 3.75
 - name: Leyline Axe
   weight: 1.0
   avg_copies: 3.5
+- name: Ornithopter
+  weight: 1.0
+  avg_copies: 3.25
 - name: Metallic Rebuke
   weight: 1.0
   avg_copies: 3.25
 - name: Puresteel Paladin
-  weight: 1.0
-  avg_copies: 3.25
-- name: Ornithopter
   weight: 1.0
   avg_copies: 3.25
 - name: Marsh Flats
@@ -51,10 +51,10 @@ top_cards:
 - name: Inkmoth Nexus
   weight: 1.0
   avg_copies: 2.5
-- name: Soulless Jailer
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 2.25
-- name: Flooded Strand
+- name: Soulless Jailer
   weight: 1.0
   avg_copies: 2.25
 - name: Vexing Bauble
@@ -63,10 +63,10 @@ top_cards:
 - name: Shadowspear
   weight: 1.0
   avg_copies: 1.0
-- name: Consign to Memory
+- name: Mystical Dispute
   weight: 0.75
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Consign to Memory
   weight: 0.75
   avg_copies: 2.0
 - name: Surge of Salvation
@@ -84,10 +84,10 @@ top_cards:
 - name: Portable Hole
   weight: 0.5
   avg_copies: 4.0
-- name: Suncleanser
+- name: Test of Talents
   weight: 0.5
   avg_copies: 2.0
-- name: Test of Talents
+- name: Suncleanser
   weight: 0.5
   avg_copies: 2.0
 - name: Springleaf Drum
@@ -108,22 +108,22 @@ top_cards:
 - name: Containment Priest
   weight: 0.25
   avg_copies: 2.0
-- name: Damping Sphere
-  weight: 0.25
-  avg_copies: 2.0
 - name: Sigarda's Aid
   weight: 0.25
   avg_copies: 2.0
-- name: Voice of Victory
+- name: Damping Sphere
+  weight: 0.25
+  avg_copies: 2.0
+- name: Grafdigger's Cage
   weight: 0.25
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Skateboard
   weight: 0.25
   avg_copies: 1.0
 - name: Kappa Cannoneer
   weight: 0.25
   avg_copies: 1.0
-- name: Skateboard
+- name: Voice of Victory
   weight: 0.25
   avg_copies: 1.0
 ---

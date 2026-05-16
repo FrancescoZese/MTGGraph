@@ -7,7 +7,7 @@ name: Phyrexian Unlife
 scryfall_id: b4a1e16a-39f0-47ab-aba8-73e82ba9ab18
 set: nph
 type: Enchantment
-meta_presence: 0.0015
+meta_presence: 0.0014
 archetypes:
   unknown-9:
     weight: 1.0

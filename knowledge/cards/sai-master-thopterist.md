@@ -7,9 +7,12 @@ name: Sai, Master Thopterist
 scryfall_id: ad0b5c09-5075-408e-84c5-1095354ac53e
 set: cmm
 type: Legendary Creature — Human Artificer
-meta_presence: 0.0005
+meta_presence: 0.0009
 archetypes:
   unknown-43:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-59:
     weight: 1.0
     avg_copies: 2.0
 ---

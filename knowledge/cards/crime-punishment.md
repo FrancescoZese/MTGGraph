@@ -9,7 +9,7 @@ name: Crime // Punishment
 scryfall_id: 2edeab08-86eb-4fa8-ba24-23dacb32e0fd
 set: dis
 type: Sorcery // Sorcery
-meta_presence: 0.001
+meta_presence: 0.0009
 archetypes:
   unknown-14:
     weight: 1.0

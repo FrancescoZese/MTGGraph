@@ -4,34 +4,34 @@ colors:
 - R
 - G
 name: 'Unknown #11'
-meta_share: 0.001
+meta_share: 0.0009
 list_count: 2
 top_cards:
-- name: Pyretic Ritual
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ral, Monsoon Mage
-  weight: 1.0
-  avg_copies: 4.0
-- name: Desperate Ritual
-  weight: 1.0
-  avg_copies: 4.0
 - name: Stormcatch Mentor
   weight: 1.0
   avg_copies: 4.0
 - name: Flow State
   weight: 1.0
   avg_copies: 4.0
+- name: Ral, Monsoon Mage
+  weight: 1.0
+  avg_copies: 4.0
 - name: Scalding Tarn
+  weight: 1.0
+  avg_copies: 4.0
+- name: Desperate Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Manamorphose
   weight: 1.0
   avg_copies: 4.0
-- name: Stock Up
+- name: Pyretic Ritual
+  weight: 1.0
+  avg_copies: 4.0
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 3.0
-- name: Vexing Bauble
+- name: Stock Up
   weight: 1.0
   avg_copies: 3.0
 - name: Wrenn's Resolve
@@ -43,19 +43,19 @@ top_cards:
 - name: Defense Grid
   weight: 1.0
   avg_copies: 2.0
-- name: Into the Flood Maw
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 2.0
-- name: Consign to Memory
+- name: Past in Flames
+  weight: 1.0
+  avg_copies: 2.0
+- name: Into the Flood Maw
   weight: 1.0
   avg_copies: 2.0
 - name: Reckless Impulse
   weight: 1.0
   avg_copies: 2.0
-- name: Thundering Falls
-  weight: 1.0
-  avg_copies: 2.0
-- name: Past in Flames
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 2.0
 - name: Mountain
@@ -70,22 +70,22 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 1.5
-- name: Grapeshot
-  weight: 1.0
-  avg_copies: 1.0
 - name: Misty Rainforest
   weight: 1.0
   avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
+- name: Island
+  weight: 1.0
+  avg_copies: 1.0
 - name: Wooded Foothills
   weight: 1.0
   avg_copies: 1.0
-- name: Valakut Awakening
+- name: Grapeshot
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Valakut Awakening
   weight: 1.0
   avg_copies: 1.0
 - name: Spirebluff Canal
@@ -94,22 +94,22 @@ top_cards:
 - name: Mox Amber
   weight: 0.5
   avg_copies: 2.0
-- name: Fire-Brained Scheme
+- name: Strike It Rich
   weight: 0.5
   avg_copies: 2.0
-- name: Strike It Rich
+- name: Fire-Brained Scheme
   weight: 0.5
   avg_copies: 2.0
 - name: Apostle's Blessing
   weight: 0.5
   avg_copies: 2.0
-- name: Repeal
-  weight: 0.5
-  avg_copies: 1.5
 - name: Lightning Bolt
   weight: 0.5
   avg_copies: 1.5
-- name: Shatterskull Smashing
+- name: Repeal
+  weight: 0.5
+  avg_copies: 1.5
+- name: Fiery Islet
   weight: 0.5
   avg_copies: 1.0
 - name: Sink into Stupor
@@ -118,7 +118,7 @@ top_cards:
 - name: Baral, Chief of Compliance
   weight: 0.5
   avg_copies: 1.0
-- name: Fiery Islet
+- name: Shatterskull Smashing
   weight: 0.5
   avg_copies: 1.0
 - name: Arid Mesa

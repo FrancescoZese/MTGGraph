@@ -9,6 +9,6 @@ type: Land — Urza's Cave
 meta_presence: 0.0368
 archetypes:
   amulet-titan:
-    weight: 0.987
+    weight: 0.9875
     avg_copies: 1.0
 ---

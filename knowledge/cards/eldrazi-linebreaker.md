@@ -6,7 +6,7 @@ name: Eldrazi Linebreaker
 scryfall_id: f67774a1-f5f8-4b7b-871d-88a1b5e57d27
 set: mh3
 type: Creature — Eldrazi
-meta_presence: 0.001
+meta_presence: 0.0009
 archetypes:
   goryo4:
     weight: 1.0

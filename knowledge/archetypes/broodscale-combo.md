@@ -2,25 +2,25 @@
 colors:
 - G
 name: Broodscale Combo
-meta_share: 0.0179
+meta_share: 0.0172
 list_count: 37
 top_cards:
+- name: Basking Broodscale
+  weight: 1.0
+  avg_copies: 4.0
 - name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
-- name: Eldrazi Temple
-  weight: 1.0
-  avg_copies: 4.0
-- name: Malevolent Rumble
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Grove of the Burnwillows
   weight: 1.0
   avg_copies: 4.0
-- name: Basking Broodscale
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Saga
+- name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
 - name: Glaring Fleshraker
@@ -44,10 +44,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.973
   avg_copies: 1.44
-- name: Soul-Guide Lantern
+- name: Haywire Mite
   weight: 0.973
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Soul-Guide Lantern
   weight: 0.973
   avg_copies: 1.0
 - name: Ancient Stirrings
@@ -149,46 +149,46 @@ top_cards:
 - name: Fire Magic
   weight: 0.027
   avg_copies: 4.0
-- name: Formidable Speaker
-  weight: 0.027
-  avg_copies: 3.0
 - name: Darksteel Citadel
   weight: 0.027
   avg_copies: 3.0
 - name: Mox Opal
   weight: 0.027
   avg_copies: 3.0
-- name: Heroic Intervention
+- name: Formidable Speaker
+  weight: 0.027
+  avg_copies: 3.0
+- name: Torpor Orb
   weight: 0.027
   avg_copies: 2.0
-- name: Torpor Orb
+- name: Heroic Intervention
   weight: 0.027
   avg_copies: 2.0
 - name: Idol of False Gods
   weight: 0.027
   avg_copies: 2.0
-- name: Pyroclasm
-  weight: 0.027
-  avg_copies: 2.0
 - name: Snakeskin Veil
   weight: 0.027
   avg_copies: 2.0
+- name: Pyroclasm
+  weight: 0.027
+  avg_copies: 2.0
+- name: Tunnel Ignus
+  weight: 0.027
+  avg_copies: 1.0
 - name: Revitalizing Repast
   weight: 0.027
   avg_copies: 1.0
 - name: Bojuka Bog
   weight: 0.027
   avg_copies: 1.0
-- name: Ghost Quarter
+- name: Agatha's Soul Cauldron
   weight: 0.027
   avg_copies: 1.0
 - name: Shadowspear
   weight: 0.027
   avg_copies: 1.0
-- name: Tunnel Ignus
-  weight: 0.027
-  avg_copies: 1.0
-- name: Agatha's Soul Cauldron
+- name: Ghost Quarter
   weight: 0.027
   avg_copies: 1.0
 ---

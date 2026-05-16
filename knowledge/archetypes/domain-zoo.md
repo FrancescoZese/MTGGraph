@@ -6,7 +6,7 @@ colors:
 - R
 - G
 name: Domain Zoo
-meta_share: 0.0339
+meta_share: 0.0326
 list_count: 70
 top_cards:
 - name: Territorial Kavu
@@ -42,13 +42,13 @@ top_cards:
 - name: Wear
   weight: 1.0
   avg_copies: 1.64
-- name: Indatha Triome
-  weight: 1.0
-  avg_copies: 1.0
 - name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 - name: Plains
+  weight: 1.0
+  avg_copies: 1.0
+- name: Indatha Triome
   weight: 1.0
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
@@ -141,49 +141,40 @@ top_cards:
 - name: Meltdown
   weight: 0.0429
   avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 0.0286
-  avg_copies: 1.0
 - name: Does Machines
   weight: 0.0286
   avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 0.0286
+  avg_copies: 1.0
+- name: Archon of Cruelty
+  weight: 0.0143
+  avg_copies: 4.0
 - name: Aurora Awakener
   weight: 0.0143
   avg_copies: 4.0
 - name: Faithless Looting
   weight: 0.0143
   avg_copies: 4.0
-- name: Persist
+- name: Tribal Flames
   weight: 0.0143
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 0.0143
   avg_copies: 4.0
-- name: Archon of Cruelty
-  weight: 0.0143
-  avg_copies: 4.0
-- name: Tribal Flames
+- name: Persist
   weight: 0.0143
   avg_copies: 4.0
 - name: Summoning Trap
   weight: 0.0143
   avg_copies: 3.0
-- name: Drannith Magistrate
-  weight: 0.0143
-  avg_copies: 2.0
 - name: Mana Tithe
   weight: 0.0143
   avg_copies: 2.0
-- name: Quantum Riddler
+- name: Drannith Magistrate
   weight: 0.0143
-  avg_copies: 1.0
-- name: Sacred Ground
-  weight: 0.0143
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Glasspool Mimic
-  weight: 0.0143
-  avg_copies: 1.0
-- name: Raucous Theater
   weight: 0.0143
   avg_copies: 1.0
 - name: Breeding Pool
@@ -192,7 +183,16 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.0143
   avg_copies: 1.0
+- name: Sacred Ground
+  weight: 0.0143
+  avg_copies: 1.0
 - name: Prismatic Ending
+  weight: 0.0143
+  avg_copies: 1.0
+- name: Quantum Riddler
+  weight: 0.0143
+  avg_copies: 1.0
+- name: Raucous Theater
   weight: 0.0143
   avg_copies: 1.0
 ---

@@ -5,13 +5,13 @@ colors:
 - R
 - G
 name: Dredge
-meta_share: 0.0058
+meta_share: 0.0056
 list_count: 12
 top_cards:
-- name: Stinkweed Imp
+- name: Creeping Chill
   weight: 1.0
   avg_copies: 4.0
-- name: Creeping Chill
+- name: Stinkweed Imp
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
@@ -71,10 +71,10 @@ top_cards:
 - name: Memory's Journey
   weight: 0.5833
   avg_copies: 1.12
-- name: Flame Jab
+- name: Commercial District
   weight: 0.5833
   avg_copies: 1.0
-- name: Commercial District
+- name: Flame Jab
   weight: 0.5833
   avg_copies: 1.0
 - name: Thoughtseize
@@ -125,13 +125,16 @@ top_cards:
 - name: Spell Pierce
   weight: 0.1667
   avg_copies: 1.5
-- name: Natural State
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Wonder
   weight: 0.1667
   avg_copies: 1.0
+- name: Natural State
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Vengevine
+  weight: 0.0833
+  avg_copies: 4.0
+- name: Hedron Crab
   weight: 0.0833
   avg_copies: 4.0
 - name: Prized Amalgam
@@ -146,16 +149,13 @@ top_cards:
 - name: Blazing Rootwalla
   weight: 0.0833
   avg_copies: 4.0
-- name: Hedron Crab
-  weight: 0.0833
-  avg_copies: 4.0
 - name: Snow-Covered Mountain
   weight: 0.0833
   avg_copies: 3.0
-- name: Gemstone Caverns
+- name: Narcomoeba
   weight: 0.0833
   avg_copies: 3.0
-- name: Narcomoeba
+- name: Darkblast
   weight: 0.0833
   avg_copies: 3.0
 - name: Silversmote Ghoul
@@ -164,9 +164,12 @@ top_cards:
 - name: Seal of Fire
   weight: 0.0833
   avg_copies: 3.0
-- name: Darkblast
+- name: Gemstone Caverns
   weight: 0.0833
   avg_copies: 3.0
+- name: Molten Collapse
+  weight: 0.0833
+  avg_copies: 2.0
 - name: Timeline Culler
   weight: 0.0833
   avg_copies: 2.0
@@ -174,9 +177,6 @@ top_cards:
   weight: 0.0833
   avg_copies: 2.0
 - name: Leyline of the Void
-  weight: 0.0833
-  avg_copies: 2.0
-- name: Molten Collapse
   weight: 0.0833
   avg_copies: 2.0
 - name: Damping Sphere
@@ -191,25 +191,25 @@ top_cards:
 - name: Tormod's Crypt
   weight: 0.0833
   avg_copies: 1.0
-- name: Illness in the Ranks
+- name: Watery Grave
   weight: 0.0833
   avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.0833
   avg_copies: 1.0
-- name: Watery Grave
+- name: Cephalid Coliseum
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Shenanigans
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Illness in the Ranks
   weight: 0.0833
   avg_copies: 1.0
 - name: Detective's Phoenix
   weight: 0.0833
   avg_copies: 1.0
-- name: Cephalid Coliseum
-  weight: 0.0833
-  avg_copies: 1.0
 - name: Rough
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Shenanigans
   weight: 0.0833
   avg_copies: 1.0
 ---

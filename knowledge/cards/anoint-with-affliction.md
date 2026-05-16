@@ -7,9 +7,9 @@ name: Anoint with Affliction
 scryfall_id: f7dc55a8-290f-4666-90ce-aa632e87c5e7
 set: one
 type: Instant
-meta_presence: 0.001
+meta_presence: 0.0009
 archetypes:
   dimir-control:
-    weight: 0.0253
+    weight: 0.0247
     avg_copies: 1.0
 ---

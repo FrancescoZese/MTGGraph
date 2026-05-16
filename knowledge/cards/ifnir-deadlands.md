@@ -6,7 +6,7 @@ name: Ifnir Deadlands
 scryfall_id: 902e260d-71ba-4342-9794-fefe2b531c00
 set: ecc
 type: Land — Desert
-meta_presence: 0.001
+meta_presence: 0.0014
 archetypes:
   unknown-24:
     weight: 1.0

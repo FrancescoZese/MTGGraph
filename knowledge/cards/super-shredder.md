@@ -7,7 +7,7 @@ name: Super Shredder
 scryfall_id: 37a497b8-e908-4ddc-996e-a8470df72afb
 set: tmt
 type: Legendary Creature — Mutant Ninja Human
-meta_presence: 0.001
+meta_presence: 0.0009
 archetypes:
   rakdos-aggro:
     weight: 0.1

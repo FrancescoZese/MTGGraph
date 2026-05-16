@@ -7,7 +7,7 @@ name: Arnyn, Deathbloom Botanist
 scryfall_id: 6168b472-0930-4db5-9920-407340b99050
 set: sos
 type: Legendary Creature — Vampire Druid
-meta_presence: 0.001
+meta_presence: 0.0009
 archetypes:
   soultrader-combo:
     weight: 0.6667

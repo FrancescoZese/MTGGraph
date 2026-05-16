@@ -3,9 +3,12 @@ colors:
 - B
 - R
 name: Rakdos Aggro
-meta_share: 0.0048
+meta_share: 0.0047
 list_count: 10
 top_cards:
+- name: Dragon's Rage Channeler
+  weight: 1.0
+  avg_copies: 4.0
 - name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
@@ -13,9 +16,6 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Blood Crypt
@@ -42,19 +42,19 @@ top_cards:
 - name: Street Wraith
   weight: 0.8
   avg_copies: 4.0
-- name: Detective's Phoenix
+- name: Damping Sphere
   weight: 0.8
   avg_copies: 3.5
-- name: Damping Sphere
+- name: Detective's Phoenix
   weight: 0.8
   avg_copies: 3.5
 - name: Obsidian Charmaw
   weight: 0.8
   avg_copies: 3.38
-- name: Cori-Steel Cutter
+- name: Lava Dart
   weight: 0.7
   avg_copies: 4.0
-- name: Lava Dart
+- name: Cori-Steel Cutter
   weight: 0.7
   avg_copies: 4.0
 - name: Arid Mesa
@@ -111,70 +111,70 @@ top_cards:
 - name: Super Shredder
   weight: 0.1
   avg_copies: 4.0
-- name: Polluted Delta
-  weight: 0.1
-  avg_copies: 4.0
 - name: Marsh Flats
-  weight: 0.1
-  avg_copies: 4.0
-- name: Magebane Lizard
   weight: 0.1
   avg_copies: 4.0
 - name: Death's Shadow
   weight: 0.1
   avg_copies: 4.0
+- name: Polluted Delta
+  weight: 0.1
+  avg_copies: 4.0
 - name: Bloodbraid Marauder
   weight: 0.1
   avg_copies: 4.0
-- name: Force of Despair
+- name: Magebane Lizard
   weight: 0.1
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Blood Moon
-  weight: 0.1
-  avg_copies: 3.0
-- name: Fire-Brained Scheme
   weight: 0.1
   avg_copies: 3.0
 - name: Vexing Bauble
   weight: 0.1
   avg_copies: 3.0
-- name: Feed the Swarm
+- name: Fire-Brained Scheme
+  weight: 0.1
+  avg_copies: 3.0
+- name: Force of Despair
+  weight: 0.1
+  avg_copies: 3.0
+- name: Torpor Orb
   weight: 0.1
   avg_copies: 2.0
-- name: Blackcleave Cliffs
+- name: Feed the Swarm
   weight: 0.1
   avg_copies: 2.0
 - name: Break the Ice
   weight: 0.1
   avg_copies: 2.0
-- name: Torpor Orb
+- name: Blackcleave Cliffs
   weight: 0.1
   avg_copies: 2.0
 - name: Abigale, Eloquent First-Year
   weight: 0.1
   avg_copies: 2.0
-- name: Sheoldred's Edict
+- name: Unearth
   weight: 0.1
   avg_copies: 2.0
-- name: Unearth
+- name: Sheoldred's Edict
   weight: 0.1
   avg_copies: 2.0
 - name: Boggart Trawler
   weight: 0.1
   avg_copies: 1.0
-- name: Verdant Catacombs
+- name: Ragavan, Nimble Pilferer
   weight: 0.1
   avg_copies: 1.0
 - name: Fatal Push
   weight: 0.1
   avg_copies: 1.0
-- name: Cecil, Dark Knight
-  weight: 0.1
-  avg_copies: 1.0
-- name: Ragavan, Nimble Pilferer
+- name: Verdant Catacombs
   weight: 0.1
   avg_copies: 1.0
 - name: Troll of Khazad-dûm
+  weight: 0.1
+  avg_copies: 1.0
+- name: Dreams of Steel and Oil
   weight: 0.1
   avg_copies: 1.0
 - name: Ob Nixilis, the Adversary
@@ -183,7 +183,7 @@ top_cards:
 - name: Graveyard Trespasser
   weight: 0.1
   avg_copies: 1.0
-- name: Dreams of Steel and Oil
+- name: Cecil, Dark Knight
   weight: 0.1
   avg_copies: 1.0
 ---

@@ -7,14 +7,14 @@ name: Badgermole Cub
 scryfall_id: 340c5799-4964-44dd-8c48-8f3f3aba5211
 set: tla
 type: Creature — Badger Mole
-meta_presence: 0.0228
+meta_presence: 0.0233
 archetypes:
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 3.69
+    avg_copies: 3.7
   samwise-combo:
-    weight: 0.5556
-    avg_copies: 2.4
+    weight: 0.6
+    avg_copies: 2.5
   mono-green-ramp:
     weight: 1.0
     avg_copies: 4.0

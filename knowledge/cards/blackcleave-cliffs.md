@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.0121
 archetypes:
   hollow-one:
-    weight: 0.1304
+    weight: 0.125
     avg_copies: 1.0
   rakdos-lantern-combo:
     weight: 1.0
@@ -19,7 +19,7 @@ archetypes:
     avg_copies: 2.0
   cosmogoyf-fling:
     weight: 1.0
-    avg_copies: 3.83
+    avg_copies: 3.84
   unknown-34:
     weight: 1.0
     avg_copies: 2.0

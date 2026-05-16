@@ -2,25 +2,25 @@
 colors:
 - U
 name: Mono Blue Belcher
-meta_share: 0.0208
+meta_share: 0.02
 list_count: 43
 top_cards:
-- name: Whir of Invention
-  weight: 1.0
-  avg_copies: 4.0
 - name: Goblin Charbelcher
   weight: 1.0
   avg_copies: 4.0
 - name: Lotus Bloom
   weight: 1.0
   avg_copies: 4.0
+- name: Whir of Invention
+  weight: 1.0
+  avg_copies: 4.0
 - name: Tameshi, Reality Architect
   weight: 1.0
   avg_copies: 3.98
-- name: Sea Gate Restoration
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 3.95
-- name: Sink into Stupor
+- name: Sea Gate Restoration
   weight: 1.0
   avg_copies: 3.95
 - name: Disrupting Shoal
@@ -125,13 +125,13 @@ top_cards:
 - name: Step Through
   weight: 0.0698
   avg_copies: 1.0
-- name: Echoing Truth
-  weight: 0.0465
-  avg_copies: 1.0
 - name: Talisman of Progress
   weight: 0.0465
   avg_copies: 1.0
-- name: Portable Hole
+- name: Echoing Truth
+  weight: 0.0465
+  avg_copies: 1.0
+- name: Hope of Ghirapur
   weight: 0.0233
   avg_copies: 1.0
 - name: Displacement Wave
@@ -143,7 +143,7 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.0233
   avg_copies: 1.0
-- name: Hope of Ghirapur
+- name: Portable Hole
   weight: 0.0233
   avg_copies: 1.0
 ---

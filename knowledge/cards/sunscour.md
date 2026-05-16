@@ -7,8 +7,11 @@ name: Sunscour
 scryfall_id: 44c726db-a30a-4e76-9fbf-ec6d5cd7a1ba
 set: csp
 type: Sorcery
-meta_presence: 0.0005
+meta_presence: 0.0009
 archetypes:
+  goryo:
+    weight: 0.012
+    avg_copies: 1.0
   unknown-12:
     weight: 1.0
     avg_copies: 1.0

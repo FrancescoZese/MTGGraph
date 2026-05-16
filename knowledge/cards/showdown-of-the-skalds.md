@@ -8,9 +8,9 @@ name: Showdown of the Skalds
 scryfall_id: 3d9d840e-1f13-44e3-a4de-903cfa58a346
 set: khm
 type: Enchantment — Saga
-meta_presence: 0.0019
+meta_presence: 0.0023
 archetypes:
   boros-energy:
-    weight: 0.011
-    avg_copies: 1.0
+    weight: 0.0134
+    avg_copies: 1.2
 ---

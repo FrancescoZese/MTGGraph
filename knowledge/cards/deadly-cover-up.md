@@ -7,7 +7,7 @@ name: Deadly Cover-Up
 scryfall_id: 3876aa0f-b199-43f5-8a91-c2d620b8ef84
 set: mkm
 type: Sorcery
-meta_presence: 0.001
+meta_presence: 0.0009
 archetypes:
   unknown-14:
     weight: 1.0

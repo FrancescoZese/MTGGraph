@@ -3,37 +3,37 @@ colors:
 - U
 - R
 name: Izzet Splinter Twin
-meta_share: 0.001
+meta_share: 0.0009
 list_count: 2
 top_cards:
-- name: Consign to Memory
-  weight: 1.0
-  avg_copies: 4.0
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
 - name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
-- name: Misty Rainforest
+- name: Consign to Memory
+  weight: 1.0
+  avg_copies: 4.0
+- name: Splinter Twin
   weight: 1.0
   avg_copies: 3.0
-- name: Steam Vents
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 3.0
 - name: Island
   weight: 1.0
   avg_copies: 3.0
-- name: Splinter Twin
+- name: Steam Vents
   weight: 1.0
   avg_copies: 3.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 2.5
-- name: Force of Negation
+- name: Blood Moon
   weight: 1.0
   avg_copies: 2.0
-- name: Blood Moon
+- name: Force of Negation
   weight: 1.0
   avg_copies: 2.0
 - name: Thundering Falls
@@ -42,40 +42,37 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Thundertrap Trainer
-  weight: 0.5
-  avg_copies: 4.0
-- name: Preordain
+- name: Flow State
   weight: 0.5
   avg_copies: 4.0
 - name: Deceiver Exarch
   weight: 0.5
   avg_copies: 4.0
-- name: Flow State
-  weight: 0.5
-  avg_copies: 4.0
-- name: Flame of Anor
+- name: Expressive Iteration
   weight: 0.5
   avg_copies: 4.0
 - name: Mishra's Bauble
   weight: 0.5
   avg_copies: 4.0
-- name: Expressive Iteration
+- name: Flame of Anor
   weight: 0.5
   avg_copies: 4.0
 - name: Fear of Missing Out
   weight: 0.5
   avg_copies: 4.0
+- name: Preordain
+  weight: 0.5
+  avg_copies: 4.0
+- name: Thundertrap Trainer
+  weight: 0.5
+  avg_copies: 4.0
 - name: Unholy Heat
   weight: 0.5
   avg_copies: 3.0
-- name: Counterspell
+- name: Mystical Dispute
   weight: 0.5
   avg_copies: 3.0
 - name: Subtlety
-  weight: 0.5
-  avg_copies: 3.0
-- name: Mystical Dispute
   weight: 0.5
   avg_copies: 3.0
 - name: Flare of Denial
@@ -84,25 +81,22 @@ top_cards:
 - name: Spirebluff Canal
   weight: 0.5
   avg_copies: 3.0
-- name: Quantum Riddler
+- name: Counterspell
   weight: 0.5
-  avg_copies: 2.0
-- name: Into the Flood Maw
+  avg_copies: 3.0
+- name: Ragavan, Nimble Pilferer
   weight: 0.5
   avg_copies: 2.0
 - name: Sink into Stupor
   weight: 0.5
   avg_copies: 2.0
-- name: Spell Snare
-  weight: 0.5
-  avg_copies: 2.0
-- name: Ragavan, Nimble Pilferer
-  weight: 0.5
-  avg_copies: 2.0
 - name: Snapcaster Mage
   weight: 0.5
   avg_copies: 2.0
-- name: Soul-Guide Lantern
+- name: Into the Flood Maw
+  weight: 0.5
+  avg_copies: 2.0
+- name: Quantum Riddler
   weight: 0.5
   avg_copies: 2.0
 - name: Lórien Revealed
@@ -114,25 +108,31 @@ top_cards:
 - name: Meltdown
   weight: 0.5
   avg_copies: 2.0
-- name: Ghost Vacuum
+- name: Soul-Guide Lantern
   weight: 0.5
-  avg_copies: 1.0
-- name: Polluted Delta
+  avg_copies: 2.0
+- name: Spell Snare
+  weight: 0.5
+  avg_copies: 2.0
+- name: Flooded Strand
   weight: 0.5
   avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 0.5
   avg_copies: 1.0
-- name: Flooded Strand
+- name: Surgical Extraction
+  weight: 0.5
+  avg_copies: 1.0
+- name: Polluted Delta
   weight: 0.5
   avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.5
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Riverpyre Verge
   weight: 0.5
   avg_copies: 1.0
-- name: Riverpyre Verge
+- name: Ghost Vacuum
   weight: 0.5
   avg_copies: 1.0
 ---

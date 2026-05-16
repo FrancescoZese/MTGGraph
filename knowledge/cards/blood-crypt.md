@@ -9,7 +9,7 @@ type: Land — Swamp Mountain
 meta_presence: 0.0732
 archetypes:
   ruby-storm:
-    weight: 0.0156
+    weight: 0.0149
     avg_copies: 1.0
   domain-zoo:
     weight: 0.1143
@@ -22,12 +22,12 @@ archetypes:
     avg_copies: 2.0
   mardu-blink:
     weight: 1.0
-    avg_copies: 1.1
+    avg_copies: 1.14
   hollow-one:
-    weight: 0.9565
-    avg_copies: 3.18
+    weight: 0.9583
+    avg_copies: 3.09
   izzet-prowess:
-    weight: 0.0316
+    weight: 0.0309
     avg_copies: 1.0
   indomitable-creativity:
     weight: 1.0
@@ -81,7 +81,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-20:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
   unknown-27:
     weight: 1.0
@@ -98,4 +98,10 @@ archetypes:
   unknown-38:
     weight: 1.0
     avg_copies: 1.0
+  unknown-57:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-58:
+    weight: 1.0
+    avg_copies: 3.0
 ---

@@ -10,7 +10,7 @@ type: Creature — Avatar
 meta_presence: 0.0019
 archetypes:
   dimir-control:
-    weight: 0.0127
+    weight: 0.0123
     avg_copies: 4.0
   grixis-shadow:
     weight: 1.0
@@ -19,6 +19,6 @@ archetypes:
     weight: 0.1
     avg_copies: 4.0
   cosmogoyf-fling:
-    weight: 0.0556
+    weight: 0.0526
     avg_copies: 2.0
 ---

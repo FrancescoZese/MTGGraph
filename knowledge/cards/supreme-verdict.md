@@ -11,10 +11,10 @@ type: Sorcery
 meta_presence: 0.0228
 archetypes:
   jeskai-energy:
-    weight: 0.0082
+    weight: 0.0081
     avg_copies: 1.0
   goryo:
-    weight: 0.1899
+    weight: 0.1928
     avg_copies: 1.0
   azorius-control:
     weight: 0.7857
@@ -32,7 +32,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   4c-omnath9:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 1.0
   unknown-16:
     weight: 1.0

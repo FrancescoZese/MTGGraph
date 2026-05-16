@@ -3,13 +3,10 @@ colors:
 - W
 - B
 name: Orzhov Blink
-meta_share: 0.0024
+meta_share: 0.0023
 list_count: 5
 top_cards:
 - name: Overlord of the Balemurk
-  weight: 1.0
-  avg_copies: 4.0
-- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
@@ -21,10 +18,13 @@ top_cards:
 - name: Witch Enchanter
   weight: 1.0
   avg_copies: 4.0
-- name: Phelia, Exuberant Shepherd
+- name: Solitude
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fatal Push
   weight: 1.0
   avg_copies: 3.4
-- name: Fatal Push
+- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.4
 - name: Flickerwisp
@@ -63,10 +63,10 @@ top_cards:
 - name: Clarion Conqueror
   weight: 0.8
   avg_copies: 2.25
-- name: Arid Mesa
+- name: Damping Sphere
   weight: 0.8
   avg_copies: 2.25
-- name: Damping Sphere
+- name: Arid Mesa
   weight: 0.8
   avg_copies: 2.25
 - name: High Noon
@@ -78,10 +78,10 @@ top_cards:
 - name: Dawnbringer Cleric
   weight: 0.6
   avg_copies: 2.0
-- name: Sheoldred's Edict
+- name: Prismatic Ending
   weight: 0.6
   avg_copies: 2.0
-- name: Prismatic Ending
+- name: Sheoldred's Edict
   weight: 0.6
   avg_copies: 2.0
 - name: Flooded Strand
@@ -111,25 +111,25 @@ top_cards:
 - name: Orim's Chant
   weight: 0.2
   avg_copies: 4.0
-- name: Polluted Delta
+- name: Windswept Heath
   weight: 0.2
   avg_copies: 2.0
 - name: Duress
   weight: 0.2
   avg_copies: 2.0
-- name: Windswept Heath
+- name: Polluted Delta
   weight: 0.2
   avg_copies: 2.0
-- name: Eiganjo, Seat of the Empire
+- name: Monumental Henge
   weight: 0.2
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
   weight: 0.2
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Eiganjo, Seat of the Empire
   weight: 0.2
   avg_copies: 1.0
-- name: Monumental Henge
+- name: Raucous Theater
   weight: 0.2
   avg_copies: 1.0
 ---

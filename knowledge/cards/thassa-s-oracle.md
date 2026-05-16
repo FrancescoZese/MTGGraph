@@ -7,7 +7,7 @@ name: Thassa's Oracle
 scryfall_id: 726e8b29-13e9-4138-b6a9-d2a0d8188d1c
 set: thb
 type: Creature — Merfolk Wizard
-meta_presence: 0.001
+meta_presence: 0.0014
 archetypes:
   unknown-20:
     weight: 1.0

@@ -7,9 +7,9 @@ name: Aloe Alchemist
 scryfall_id: 69f2f632-b6cc-4092-acd5-a6b152e90488
 set: otj
 type: Creature — Plant Warlock
-meta_presence: 0.0029
+meta_presence: 0.0028
 archetypes:
   cosmogoyf-fling:
-    weight: 0.3333
+    weight: 0.3158
     avg_copies: 1.0
 ---

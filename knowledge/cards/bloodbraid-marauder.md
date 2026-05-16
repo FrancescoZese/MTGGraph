@@ -7,7 +7,7 @@ name: Bloodbraid Marauder
 scryfall_id: 6286fd93-bb97-4721-8a40-1c5a884c2edb
 set: mh2
 type: Creature — Human Berserker
-meta_presence: 0.001
+meta_presence: 0.0009
 archetypes:
   rakdos-aggro:
     weight: 0.1

@@ -7,9 +7,12 @@ name: Prismatic Omen
 scryfall_id: e75594cc-de47-49f2-9a8b-ba76c576368e
 set: shm
 type: Enchantment
-meta_presence: 0.001
+meta_presence: 0.0014
 archetypes:
   scapeshift-combo:
     weight: 0.3333
+    avg_copies: 2.0
+  unknown-23:
+    weight: 0.5
     avg_copies: 2.0
 ---
