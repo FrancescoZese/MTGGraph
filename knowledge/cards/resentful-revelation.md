@@ -7,7 +7,7 @@ name: Resentful Revelation
 scryfall_id: 945006ea-c6a1-4ee5-abb2-387c2b6d3123
 set: fin
 type: Sorcery
-meta_presence: 0.0005
+meta_presence: 0.0004
 archetypes:
   unknown-14:
     weight: 0.5

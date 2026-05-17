@@ -6,7 +6,7 @@ name: Silverbluff Bridge
 scryfall_id: 8f14540a-479f-4a3c-8e5b-f482caf48451
 set: eoc
 type: Artifact Land
-meta_presence: 0.0005
+meta_presence: 0.0004
 archetypes:
   unknown-44:
     weight: 1.0

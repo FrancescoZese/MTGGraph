@@ -7,10 +7,10 @@ name: Leonin Arbiter
 scryfall_id: 0d0f827b-ebc3-45a4-8d12-c71a14478038
 set: 2x2
 type: Creature — Cat Cleric
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   boros-ponza:
-    weight: 0.0286
+    weight: 0.0263
     avg_copies: 2.0
   unknown-13:
     weight: 1.0

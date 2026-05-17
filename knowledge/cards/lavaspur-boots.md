@@ -6,10 +6,10 @@ name: Lavaspur Boots
 scryfall_id: e50709de-e6ef-4dbc-af1e-290fed279f34
 set: otj
 type: Artifact — Equipment
-meta_presence: 0.007
+meta_presence: 0.0067
 archetypes:
   affinity:
-    weight: 0.0317
+    weight: 0.0306
     avg_copies: 1.0
   hammer-time:
     weight: 0.75

@@ -6,28 +6,28 @@ name: Gemstone Caverns
 scryfall_id: 7f273641-c5f3-48bc-b89e-3cff52d26a0b
 set: tsr
 type: Legendary Land
-meta_presence: 0.0774
+meta_presence: 0.0769
 archetypes:
   ruby-storm:
-    weight: 0.8955
+    weight: 0.9
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.0128
-    avg_copies: 1.0
-  amulet-titan:
     weight: 0.0125
     avg_copies: 1.0
+  amulet-titan:
+    weight: 0.0115
+    avg_copies: 1.0
   goryo:
-    weight: 0.012
+    weight: 0.0118
     avg_copies: 1.0
   azorius-control:
-    weight: 0.1429
+    weight: 0.125
     avg_copies: 1.0
   living-end:
-    weight: 0.0213
+    weight: 0.0204
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.037
+    weight: 0.0357
     avg_copies: 1.0
   mono-blue-tron:
     weight: 0.4444
@@ -36,19 +36,19 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0638
+    weight: 0.08
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.6596
+    weight: 0.6531
     avg_copies: 2.0
   4c-omnath:
     weight: 0.25
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.8108
+    weight: 0.7895
     avg_copies: 1.0
   dredge:
-    weight: 0.0833
+    weight: 0.0714
     avg_copies: 3.0
   eldrazi-breach:
     weight: 0.75

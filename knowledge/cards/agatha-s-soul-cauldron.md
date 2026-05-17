@@ -6,7 +6,7 @@ name: Agatha's Soul Cauldron
 scryfall_id: 019b51b0-e5c6-4208-922b-7736686dddcd
 set: woe
 type: Legendary Artifact
-meta_presence: 0.0214
+meta_presence: 0.022
 archetypes:
   hardened-scales:
     weight: 1.0
@@ -19,9 +19,9 @@ archetypes:
     avg_copies: 2.0
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 3.96
+    avg_copies: 3.97
   broodscale-combo:
-    weight: 0.027
+    weight: 0.0263
     avg_copies: 1.0
   azorius-blink:
     weight: 0.25

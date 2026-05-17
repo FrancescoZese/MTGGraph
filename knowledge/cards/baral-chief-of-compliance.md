@@ -7,10 +7,10 @@ name: Baral, Chief of Compliance
 scryfall_id: 60e16d94-1166-4050-8554-686e153a7f80
 set: aer
 type: Legendary Creature — Human Wizard
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   ruby-storm:
-    weight: 0.0299
+    weight: 0.0286
     avg_copies: 1.0
   unknown-11:
     weight: 0.5

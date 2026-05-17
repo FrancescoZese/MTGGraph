@@ -7,10 +7,10 @@ name: Thrun, the Last Troll
 scryfall_id: 5d393da0-4cb6-4ae8-b747-8e6d0fa7f55a
 set: mbs
 type: Legendary Creature — Troll Shaman
-meta_presence: 0.0019
+meta_presence: 0.0018
 archetypes:
   neoform-combo:
-    weight: 0.0513
+    weight: 0.0476
     avg_copies: 3.0
   cosmogoyf-fling:
     weight: 0.1053

@@ -6,9 +6,9 @@ name: Cam and Farrik, Havoc Duo
 scryfall_id: ''
 set: ''
 type: Unknown
-meta_presence: 0.0005
+meta_presence: 0.0004
 archetypes:
   hollow-one:
-    weight: 0.0417
+    weight: 0.04
     avg_copies: 2.0
 ---

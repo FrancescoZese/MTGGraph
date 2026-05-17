@@ -7,9 +7,9 @@ name: Silversmote Ghoul
 scryfall_id: c50a8053-7e79-4e0f-8e72-8df089377cd1
 set: c21
 type: Creature — Zombie Vampire
-meta_presence: 0.0005
+meta_presence: 0.0004
 archetypes:
   dredge:
-    weight: 0.0833
+    weight: 0.0714
     avg_copies: 3.0
 ---

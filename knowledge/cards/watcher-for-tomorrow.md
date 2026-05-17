@@ -7,7 +7,7 @@ name: Watcher for Tomorrow
 scryfall_id: 15f01a3c-0a66-48da-a7d2-46260e3b721f
 set: mh1
 type: Creature — Human Wizard
-meta_presence: 0.0005
+meta_presence: 0.0004
 archetypes:
   unknown-60:
     weight: 1.0

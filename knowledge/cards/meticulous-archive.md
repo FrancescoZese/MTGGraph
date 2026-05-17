@@ -12,20 +12,20 @@ archetypes:
     weight: 0.1358
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.9919
+    weight: 0.9921
     avg_copies: 1.0
   goryo:
-    weight: 0.9759
+    weight: 0.9765
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
-    avg_copies: 1.86
+    avg_copies: 1.88
   living-end:
-    weight: 0.2553
+    weight: 0.2653
     avg_copies: 1.0
   jeskai-control:
     weight: 1.0
-    avg_copies: 1.7
+    avg_copies: 1.68
   mill:
     weight: 0.0769
     avg_copies: 1.0
@@ -33,7 +33,7 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0513
+    weight: 0.0714
     avg_copies: 1.0
   hammer-time:
     weight: 0.75
@@ -98,6 +98,9 @@ archetypes:
   unknown-56:
     weight: 1.0
     avg_copies: 1.0
+  unknown-62:
+    weight: 1.0
+    avg_copies: 2.0
   unknown-60:
     weight: 1.0
     avg_copies: 1.0

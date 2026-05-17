@@ -7,20 +7,20 @@ name: Counterspell
 scryfall_id: 4f616706-ec97-4923-bb1e-11a69fbaa1f8
 set: dsc
 type: Instant
-meta_presence: 0.0704
+meta_presence: 0.0701
 archetypes:
   dimir-control:
     weight: 1.0
     avg_copies: 3.86
   mono-blue-belcher:
-    weight: 0.2558
-    avg_copies: 2.91
-  azorius-control:
-    weight: 0.7857
+    weight: 0.2727
     avg_copies: 2.92
+  azorius-control:
+    weight: 0.8125
+    avg_copies: 3.07
   jeskai-control:
-    weight: 0.7778
-    avg_copies: 2.29
+    weight: 0.7857
+    avg_copies: 2.27
   bant-control:
     weight: 1.0
     avg_copies: 4.0
@@ -33,6 +33,9 @@ archetypes:
   izzet-splinter-twin:
     weight: 0.5
     avg_copies: 3.0
+  goryo1:
+    weight: 0.04
+    avg_copies: 2.0
   goryo3:
     weight: 1.0
     avg_copies: 4.0

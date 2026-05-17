@@ -6,7 +6,7 @@ colors:
 - R
 - G
 name: Domain Zoo
-meta_share: 0.0326
+meta_share: 0.0315
 list_count: 70
 top_cards:
 - name: Territorial Kavu
@@ -18,10 +18,10 @@ top_cards:
 - name: Leyline Binding
   weight: 1.0
   avg_copies: 3.97
-- name: Scion of Draco
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 3.96
-- name: Lightning Bolt
+- name: Scion of Draco
   weight: 1.0
   avg_copies: 3.96
 - name: Flooded Strand
@@ -42,10 +42,10 @@ top_cards:
 - name: Wear
   weight: 1.0
   avg_copies: 1.64
-- name: Temple Garden
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
-- name: Plains
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 - name: Indatha Triome
@@ -72,10 +72,10 @@ top_cards:
 - name: Godless Shrine
   weight: 0.9714
   avg_copies: 1.0
-- name: Mountain
+- name: Thundering Falls
   weight: 0.9571
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Mountain
   weight: 0.9571
   avg_copies: 1.0
 - name: Doorkeeper Thrull
@@ -120,10 +120,10 @@ top_cards:
 - name: High Noon
   weight: 0.1714
   avg_copies: 1.0
-- name: Clarion Conqueror
+- name: Pyroclasm
   weight: 0.1143
   avg_copies: 1.12
-- name: Pyroclasm
+- name: Clarion Conqueror
   weight: 0.1143
   avg_copies: 1.12
 - name: Blood Crypt
@@ -147,52 +147,52 @@ top_cards:
 - name: Sacred Foundry
   weight: 0.0286
   avg_copies: 1.0
-- name: Archon of Cruelty
-  weight: 0.0143
-  avg_copies: 4.0
-- name: Aurora Awakener
-  weight: 0.0143
-  avg_copies: 4.0
-- name: Faithless Looting
-  weight: 0.0143
-  avg_copies: 4.0
-- name: Tribal Flames
+- name: Persist
   weight: 0.0143
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 0.0143
   avg_copies: 4.0
-- name: Persist
+- name: Faithless Looting
+  weight: 0.0143
+  avg_copies: 4.0
+- name: Aurora Awakener
+  weight: 0.0143
+  avg_copies: 4.0
+- name: Tribal Flames
+  weight: 0.0143
+  avg_copies: 4.0
+- name: Archon of Cruelty
   weight: 0.0143
   avg_copies: 4.0
 - name: Summoning Trap
   weight: 0.0143
   avg_copies: 3.0
-- name: Mana Tithe
-  weight: 0.0143
-  avg_copies: 2.0
 - name: Drannith Magistrate
   weight: 0.0143
   avg_copies: 2.0
-- name: Glasspool Mimic
+- name: Mana Tithe
   weight: 0.0143
-  avg_copies: 1.0
-- name: Breeding Pool
+  avg_copies: 2.0
+- name: Prismatic Ending
   weight: 0.0143
   avg_copies: 1.0
 - name: Vexing Bauble
   weight: 0.0143
   avg_copies: 1.0
-- name: Sacred Ground
-  weight: 0.0143
-  avg_copies: 1.0
-- name: Prismatic Ending
+- name: Glasspool Mimic
   weight: 0.0143
   avg_copies: 1.0
 - name: Quantum Riddler
   weight: 0.0143
   avg_copies: 1.0
+- name: Sacred Ground
+  weight: 0.0143
+  avg_copies: 1.0
 - name: Raucous Theater
+  weight: 0.0143
+  avg_copies: 1.0
+- name: Breeding Pool
   weight: 0.0143
   avg_copies: 1.0
 ---

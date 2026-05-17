@@ -8,7 +8,7 @@ name: Umori, the Collector
 scryfall_id: 75ac31e0-ac70-4ee6-b2b1-cc445ffa1da9
 set: iko
 type: Legendary Creature — Ooze
-meta_presence: 0.0005
+meta_presence: 0.0004
 archetypes:
   unknown-14:
     weight: 0.5

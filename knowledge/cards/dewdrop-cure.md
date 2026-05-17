@@ -7,9 +7,9 @@ name: Dewdrop Cure
 scryfall_id: 666aefc2-44e0-4c27-88d5-7906f245a71f
 set: blb
 type: Sorcery
-meta_presence: 0.0005
+meta_presence: 0.0004
 archetypes:
   samwise-combo:
-    weight: 0.05
+    weight: 0.0476
     avg_copies: 2.0
 ---

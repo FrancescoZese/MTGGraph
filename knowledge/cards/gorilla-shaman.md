@@ -7,7 +7,7 @@ name: Gorilla Shaman
 scryfall_id: c8f8ee19-3a88-40fa-85d8-386ffe06efd7
 set: mh2
 type: Creature — Ape Shaman
-meta_presence: 0.0005
+meta_presence: 0.0013
 archetypes:
   unknown-34:
     weight: 1.0

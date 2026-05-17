@@ -7,9 +7,9 @@ name: Maelstrom Artisan // Rocket Volley
 scryfall_id: 5c88391d-271f-4021-a5d9-158ebc1e6357
 set: sos
 type: Creature — Minotaur Sorcerer // Sorcery
-meta_presence: 0.0005
+meta_presence: 0.0004
 archetypes:
   boros-energy:
-    weight: 0.0027
+    weight: 0.0026
     avg_copies: 3.0
 ---

@@ -6,19 +6,19 @@ name: Relic of Progenitus
 scryfall_id: 436cd66c-0622-43cd-8748-af4d21a2db3f
 set: ema
 type: Artifact
-meta_presence: 0.014
+meta_presence: 0.0135
 archetypes:
   dimir-control:
     weight: 0.0123
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.2179
+    weight: 0.2125
     avg_copies: 1.12
   mono-red-belcher:
     weight: 0.0833
     avg_copies: 4.0
   boros-ponza:
-    weight: 0.0143
+    weight: 0.0132
     avg_copies: 3.0
   orzhov-blink:
     weight: 0.4

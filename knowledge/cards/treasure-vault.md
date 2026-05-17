@@ -6,7 +6,7 @@ name: Treasure Vault
 scryfall_id: a0931eb3-b403-4b1a-ad46-a7b0a51bb9a4
 set: afr
 type: Artifact Land
-meta_presence: 0.0005
+meta_presence: 0.0004
 archetypes:
   unknown-55:
     weight: 1.0

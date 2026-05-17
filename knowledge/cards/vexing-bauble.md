@@ -6,29 +6,29 @@ name: Vexing Bauble
 scryfall_id: 29f11089-658f-42e6-aeb0-09b512ad2479
 set: mh3
 type: Artifact
-meta_presence: 0.3277
+meta_presence: 0.3326
 archetypes:
   ruby-storm:
-    weight: 0.0597
+    weight: 0.0571
     avg_copies: 2.0
   boros-energy:
-    weight: 0.3995
-    avg_copies: 1.44
+    weight: 0.3958
+    avg_copies: 1.43
   eldrazi-tron:
-    weight: 0.5769
+    weight: 0.5625
     avg_copies: 1.07
   amulet-titan:
-    weight: 0.6875
-    avg_copies: 1.25
+    weight: 0.7011
+    avg_copies: 1.26
   goryo:
-    weight: 0.012
+    weight: 0.0118
     avg_copies: 2.0
   hardened-scales:
     weight: 0.75
     avg_copies: 1.25
   affinity:
-    weight: 0.6697
-    avg_copies: 1.11
+    weight: 0.6812
+    avg_copies: 1.1
   domain-zoo:
     weight: 0.0143
     avg_copies: 1.0
@@ -42,38 +42,38 @@ archetypes:
     weight: 1.0
     avg_copies: 1.75
   hollow-one:
-    weight: 0.75
+    weight: 0.72
     avg_copies: 2.22
   boros-ponza:
-    weight: 0.9429
-    avg_copies: 2.15
+    weight: 0.9474
+    avg_copies: 2.14
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 1.22
+    avg_copies: 1.2
   eldrazi-ramp:
-    weight: 0.9574
-    avg_copies: 1.76
+    weight: 0.96
+    avg_copies: 1.78
   simic-ritual:
-    weight: 0.0213
+    weight: 0.0204
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0722
+    weight: 0.0707
     avg_copies: 1.86
   samwise-combo:
-    weight: 0.6
-    avg_copies: 2.0
+    weight: 0.619
+    avg_copies: 1.92
   broodscale-combo:
-    weight: 0.973
+    weight: 0.9737
     avg_copies: 1.44
   orzhov-blink:
     weight: 0.6
     avg_copies: 1.33
   dredge:
-    weight: 0.3333
-    avg_copies: 2.25
+    weight: 0.4286
+    avg_copies: 2.5
   izzet-artifacts:
     weight: 0.3667
     avg_copies: 1.0
@@ -93,13 +93,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   rakdos-aggro:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 3.0
   mono-green-ramp:
     weight: 0.1667
     avg_copies: 3.0
   mono-green-stompy:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 2.0
   bant-ritual:
     weight: 1.0
@@ -111,7 +111,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.67
   goryo1:
-    weight: 0.2917
+    weight: 0.28
     avg_copies: 1.29
   goryo4:
     weight: 0.5
@@ -136,7 +136,7 @@ archetypes:
     avg_copies: 3.0
   unknown-23:
     weight: 1.0
-    avg_copies: 1.67
+    avg_copies: 1.57
   unknown-28:
     weight: 1.0
     avg_copies: 3.0
@@ -167,4 +167,7 @@ archetypes:
   unknown-58:
     weight: 1.0
     avg_copies: 2.0
+  unknown-64:
+    weight: 1.0
+    avg_copies: 4.0
 ---

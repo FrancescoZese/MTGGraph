@@ -7,9 +7,9 @@ name: Titanoth Rex
 scryfall_id: 9d02e1e8-b85b-4e26-8ab8-ca2f49d05b88
 set: iko
 type: Creature — Dinosaur Beast
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   living-end:
-    weight: 0.0638
+    weight: 0.0612
     avg_copies: 1.33
 ---

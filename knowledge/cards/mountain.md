@@ -6,25 +6,25 @@ name: Mountain
 scryfall_id: a642c7b1-d4d1-4125-a66d-560438e5ee51
 set: sos
 type: Basic Land — Mountain
-meta_presence: 0.4
+meta_presence: 0.3991
 archetypes:
   ruby-storm:
     weight: 1.0
     avg_copies: 2.97
   boros-energy:
-    weight: 0.7668
+    weight: 0.7678
     avg_copies: 1.0
   mono-blue-belcher:
-    weight: 0.1395
+    weight: 0.1364
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.7805
+    weight: 0.7857
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.1852
+    weight: 0.2143
     avg_copies: 1.0
   affinity:
-    weight: 0.0136
+    weight: 0.0131
     avg_copies: 1.0
   domain-zoo:
     weight: 0.9571
@@ -36,26 +36,26 @@ archetypes:
     weight: 1.0
     avg_copies: 2.57
   mardu-blink:
-    weight: 0.381
+    weight: 0.3478
     avg_copies: 1.0
   mono-red-belcher:
     weight: 0.8333
     avg_copies: 1.0
   hollow-one:
-    weight: 0.8333
-    avg_copies: 1.35
+    weight: 0.84
+    avg_copies: 1.33
   boros-ponza:
-    weight: 0.9714
+    weight: 0.9737
     avg_copies: 1.12
   izzet-prowess:
     weight: 1.0
-    avg_copies: 2.23
+    avg_copies: 2.22
   indomitable-creativity:
     weight: 1.0
     avg_copies: 1.12
   dredge:
-    weight: 0.8333
-    avg_copies: 1.7
+    weight: 0.8571
+    avg_copies: 1.75
   izzet-artifacts:
     weight: 0.4667
     avg_copies: 1.0
@@ -73,7 +73,7 @@ archetypes:
     avg_copies: 1.0
   rakdos-aggro:
     weight: 1.0
-    avg_copies: 1.1
+    avg_copies: 1.09
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 1.0
@@ -93,7 +93,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo1:
-    weight: 0.0417
+    weight: 0.04
     avg_copies: 1.0
   goryo4:
     weight: 1.0
@@ -139,7 +139,7 @@ archetypes:
     avg_copies: 1.0
   unknown-23:
     weight: 1.0
-    avg_copies: 2.5
+    avg_copies: 1.75
   unknown-32:
     weight: 1.0
     avg_copies: 1.0
@@ -171,6 +171,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-58:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-64:
     weight: 1.0
     avg_copies: 1.0
 ---

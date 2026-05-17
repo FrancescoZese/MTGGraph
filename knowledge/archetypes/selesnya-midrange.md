@@ -4,7 +4,7 @@ colors:
 - R
 - G
 name: Selesnya Midrange
-meta_share: 0.0005
+meta_share: 0.0004
 list_count: 1
 top_cards:
 - name: Windswept Heath
@@ -25,40 +25,28 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 3.0
-- name: Goblin Bombardment
-  weight: 1.0
-  avg_copies: 3.0
 - name: Malevolent Rumble
   weight: 1.0
   avg_copies: 3.0
-- name: Voice of Victory
+- name: Goblin Bombardment
   weight: 1.0
   avg_copies: 3.0
 - name: Galvanic Discharge
   weight: 1.0
   avg_copies: 3.0
-- name: Clarion Conqueror
+- name: Voice of Victory
   weight: 1.0
-  avg_copies: 2.0
-- name: Endurance
+  avg_copies: 3.0
+- name: Plains
   weight: 1.0
   avg_copies: 2.0
 - name: Arena of Glory
   weight: 1.0
   avg_copies: 2.0
-- name: Reprieve
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 2.0
-- name: Gaddock Teeg
-  weight: 1.0
-  avg_copies: 2.0
-- name: Arid Mesa
-  weight: 1.0
-  avg_copies: 2.0
-- name: Collected Company
-  weight: 1.0
-  avg_copies: 2.0
-- name: Thraben Charm
+- name: Hexing Squelcher
   weight: 1.0
   avg_copies: 2.0
 - name: Obsidian Charmaw
@@ -67,22 +55,34 @@ top_cards:
 - name: Chatterfang, Squirrel General
   weight: 1.0
   avg_copies: 2.0
-- name: Hexing Squelcher
+- name: Endurance
   weight: 1.0
   avg_copies: 2.0
-- name: Wooded Foothills
+- name: Collected Company
   weight: 1.0
   avg_copies: 2.0
-- name: Plains
+- name: Clarion Conqueror
+  weight: 1.0
+  avg_copies: 2.0
+- name: Thraben Charm
   weight: 1.0
   avg_copies: 2.0
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 2.0
-- name: Mountain
+- name: Gaddock Teeg
+  weight: 1.0
+  avg_copies: 2.0
+- name: Reprieve
+  weight: 1.0
+  avg_copies: 2.0
+- name: Arid Mesa
+  weight: 1.0
+  avg_copies: 2.0
+- name: Lush Portico
   weight: 1.0
   avg_copies: 1.0
-- name: Lush Portico
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 - name: Untimely Malfunction
@@ -91,31 +91,31 @@ top_cards:
 - name: Force of Vigor
   weight: 1.0
   avg_copies: 1.0
-- name: Stomping Ground
-  weight: 1.0
-  avg_copies: 1.0
-- name: Deafening Silence
+- name: Commercial District
   weight: 1.0
   avg_copies: 1.0
 - name: High Noon
   weight: 1.0
   avg_copies: 1.0
-- name: Temple Garden
+- name: Ranger-Captain of Eos
   weight: 1.0
   avg_copies: 1.0
-- name: Ranger-Captain of Eos
+- name: Deafening Silence
   weight: 1.0
   avg_copies: 1.0
 - name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
+- name: Mountain
+  weight: 1.0
+  avg_copies: 1.0
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.0
-- name: Wrath of the Skies
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
-- name: Commercial District
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 1.0
 ---

@@ -2,19 +2,19 @@
 colors:
 - U
 name: Mono-Blue Tron
-meta_share: 0.0042
+meta_share: 0.004
 list_count: 9
 top_cards:
-- name: Urza's Power Plant
+- name: Expedition Map
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Tower
   weight: 1.0
   avg_copies: 4.0
-- name: Expedition Map
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
-- name: Kozilek's Command
+- name: Urza's Power Plant
   weight: 1.0
   avg_copies: 4.0
 - name: Island
@@ -95,10 +95,10 @@ top_cards:
 - name: Hall of Storm Giants
   weight: 0.3333
   avg_copies: 1.0
-- name: Karn, the Great Creator
+- name: Remand
   weight: 0.2222
   avg_copies: 4.0
-- name: Remand
+- name: Karn, the Great Creator
   weight: 0.2222
   avg_copies: 4.0
 - name: Ugin's Labyrinth
@@ -116,40 +116,40 @@ top_cards:
 - name: Tishana's Tidebinder
   weight: 0.2222
   avg_copies: 1.25
+- name: Tormod's Crypt
+  weight: 0.2222
+  avg_copies: 1.0
+- name: Soulless Jailer
+  weight: 0.2222
+  avg_copies: 1.0
+- name: Cityscape Leveler
+  weight: 0.2222
+  avg_copies: 1.0
+- name: Walking Ballista
+  weight: 0.2222
+  avg_copies: 1.0
+- name: Engineered Explosives
+  weight: 0.2222
+  avg_copies: 1.0
 - name: Oboro, Palace in the Clouds
   weight: 0.2222
   avg_copies: 1.0
-- name: Tormod's Crypt
+- name: Oblivion Stone
   weight: 0.2222
   avg_copies: 1.0
 - name: Wurmcoil Engine
   weight: 0.2222
   avg_copies: 1.0
-- name: Walking Ballista
+- name: Disruptor Flute
+  weight: 0.2222
+  avg_copies: 1.0
+- name: Liquimetal Coating
   weight: 0.2222
   avg_copies: 1.0
 - name: Ensnaring Bridge
   weight: 0.2222
   avg_copies: 1.0
 - name: Sundering Titan
-  weight: 0.2222
-  avg_copies: 1.0
-- name: Soulless Jailer
-  weight: 0.2222
-  avg_copies: 1.0
-- name: Liquimetal Coating
-  weight: 0.2222
-  avg_copies: 1.0
-- name: Cityscape Leveler
-  weight: 0.2222
-  avg_copies: 1.0
-- name: Engineered Explosives
-  weight: 0.2222
-  avg_copies: 1.0
-- name: Disruptor Flute
-  weight: 0.2222
-  avg_copies: 1.0
-- name: Oblivion Stone
   weight: 0.2222
   avg_copies: 1.0
 - name: Strix Serenade
@@ -161,24 +161,18 @@ top_cards:
 - name: Omen of the Sea
   weight: 0.1111
   avg_copies: 3.0
-- name: Change the Equation
+- name: Sire of Seven Deaths
   weight: 0.1111
   avg_copies: 2.0
-- name: Propaganda
+- name: Change the Equation
   weight: 0.1111
   avg_copies: 2.0
 - name: All Is Dust
   weight: 0.1111
   avg_copies: 2.0
-- name: Sire of Seven Deaths
+- name: Propaganda
   weight: 0.1111
   avg_copies: 2.0
-- name: Temporal Mastery
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Talisman of Dominance
-  weight: 0.1111
-  avg_copies: 1.0
 - name: Talisman of Progress
   weight: 0.1111
   avg_copies: 1.0
@@ -186,6 +180,12 @@ top_cards:
   weight: 0.1111
   avg_copies: 1.0
 - name: Talisman of Curiosity
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Temporal Mastery
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Talisman of Dominance
   weight: 0.1111
   avg_copies: 1.0
 ---

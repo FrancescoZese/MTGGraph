@@ -6,7 +6,7 @@ name: Ulamog, the Infinite Gyre
 scryfall_id: 9464a820-65de-44f2-9895-46a35e8621a0
 set: 2x2
 type: Legendary Creature — Eldrazi
-meta_presence: 0.0005
+meta_presence: 0.0004
 archetypes:
   unknown-37:
     weight: 1.0

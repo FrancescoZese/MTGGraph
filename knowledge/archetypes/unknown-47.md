@@ -3,28 +3,28 @@ colors:
 - U
 - B
 name: 'Unknown #47'
-meta_share: 0.0023
+meta_share: 0.0022
 list_count: 5
 top_cards:
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
-  weight: 1.0
-  avg_copies: 4.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Psychic Frog
   weight: 1.0
-  avg_copies: 3.8
+  avg_copies: 4.0
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.8
-- name: Quantum Riddler
+- name: Thoughtseize
+  weight: 1.0
+  avg_copies: 3.8
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.4
-- name: Consign to Memory
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 3.4
 - name: Counterspell
@@ -51,13 +51,13 @@ top_cards:
 - name: Spell Snare
   weight: 1.0
   avg_copies: 1.88
+- name: Engineered Explosives
+  weight: 1.0
+  avg_copies: 1.8
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 1.8
 - name: Island
-  weight: 1.0
-  avg_copies: 1.8
-- name: Engineered Explosives
   weight: 1.0
   avg_copies: 1.8
 - name: Marsh Flats
@@ -87,10 +87,10 @@ top_cards:
 - name: Gloomlake Verge
   weight: 0.8
   avg_copies: 1.25
-- name: Toxic Deluge
+- name: Darkslick Shores
   weight: 0.8
   avg_copies: 1.0
-- name: Darkslick Shores
+- name: Toxic Deluge
   weight: 0.8
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
@@ -102,10 +102,10 @@ top_cards:
 - name: Agna Qel'a
   weight: 0.4
   avg_copies: 1.0
-- name: Misty Rainforest
+- name: Preordain
   weight: 0.2
   avg_copies: 4.0
-- name: Preordain
+- name: Misty Rainforest
   weight: 0.2
   avg_copies: 4.0
 - name: Flow State
@@ -114,22 +114,16 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.2
   avg_copies: 2.0
+- name: Damping Sphere
+  weight: 0.2
+  avg_copies: 2.0
 - name: Wan Shi Tong, Librarian
   weight: 0.2
   avg_copies: 2.0
 - name: Tasigur, the Golden Fang
   weight: 0.2
   avg_copies: 2.0
-- name: Damping Sphere
-  weight: 0.2
-  avg_copies: 2.0
-- name: Otawara, Soaring City
-  weight: 0.2
-  avg_copies: 1.0
-- name: River of Tears
-  weight: 0.2
-  avg_copies: 1.0
-- name: Snapcaster Mage
+- name: Bloodstained Mire
   weight: 0.2
   avg_copies: 1.0
 - name: Ghost Vacuum
@@ -138,7 +132,13 @@ top_cards:
 - name: The Meathook Massacre
   weight: 0.2
   avg_copies: 1.0
-- name: Bloodstained Mire
+- name: Otawara, Soaring City
+  weight: 0.2
+  avg_copies: 1.0
+- name: Snapcaster Mage
+  weight: 0.2
+  avg_copies: 1.0
+- name: River of Tears
   weight: 0.2
   avg_copies: 1.0
 ---

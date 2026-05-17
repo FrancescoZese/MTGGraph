@@ -8,7 +8,7 @@ name: Tokka & Rahzar, Terrible Twos
 scryfall_id: 284f9012-a58d-41da-be7c-962dca052711
 set: tmt
 type: Legendary Creature — Turtle Wolf Mutant
-meta_presence: 0.0005
+meta_presence: 0.0004
 archetypes:
   rakdos-lantern-combo:
     weight: 0.5

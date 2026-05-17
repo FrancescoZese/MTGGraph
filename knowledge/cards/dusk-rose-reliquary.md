@@ -7,9 +7,9 @@ name: Dusk Rose Reliquary
 scryfall_id: a5f231ef-4167-4b0a-b54c-a098b2eb2f6f
 set: lci
 type: Artifact
-meta_presence: 0.0019
+meta_presence: 0.0018
 archetypes:
   mono-blue-belcher:
-    weight: 0.093
+    weight: 0.0909
     avg_copies: 1.0
 ---

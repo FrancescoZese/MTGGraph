@@ -7,9 +7,9 @@ name: Narcomoeba
 scryfall_id: a3e23275-2261-4d6d-88d8-124342334391
 set: grn
 type: Creature — Illusion
-meta_presence: 0.0005
+meta_presence: 0.0004
 archetypes:
   dredge:
-    weight: 0.0833
+    weight: 0.0714
     avg_copies: 3.0
 ---

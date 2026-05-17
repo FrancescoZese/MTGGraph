@@ -6,23 +6,23 @@ name: Arid Mesa
 scryfall_id: 25ac5405-df7b-4097-914a-022cb18e20d4
 set: mh2
 type: Land
-meta_presence: 0.3921
+meta_presence: 0.3883
 archetypes:
   ruby-storm:
-    weight: 0.8806
-    avg_copies: 2.61
+    weight: 0.8857
+    avg_copies: 2.6
   boros-energy:
     weight: 1.0
-    avg_copies: 3.82
+    avg_copies: 3.83
   jeskai-energy:
-    weight: 0.9919
-    avg_copies: 3.77
+    weight: 0.9921
+    avg_copies: 3.78
   azorius-control:
-    weight: 0.8571
-    avg_copies: 1.75
+    weight: 0.875
+    avg_copies: 1.79
   jeskai-control:
-    weight: 0.963
-    avg_copies: 3.46
+    weight: 0.9643
+    avg_copies: 3.44
   domain-zoo:
     weight: 1.0
     avg_copies: 3.84
@@ -31,19 +31,19 @@ archetypes:
     avg_copies: 2.8
   mardu-blink:
     weight: 1.0
-    avg_copies: 2.76
+    avg_copies: 2.7
   hammer-time:
     weight: 0.75
     avg_copies: 1.0
   hollow-one:
-    weight: 0.5417
+    weight: 0.52
     avg_copies: 1.85
   boros-ponza:
-    weight: 0.1143
+    weight: 0.1053
     avg_copies: 4.0
   izzet-prowess:
-    weight: 0.732
-    avg_copies: 2.52
+    weight: 0.7374
+    avg_copies: 2.51
   indomitable-creativity:
     weight: 0.875
     avg_copies: 3.57
@@ -51,14 +51,14 @@ archetypes:
     weight: 0.8
     avg_copies: 2.25
   dredge:
-    weight: 0.9167
-    avg_copies: 3.27
+    weight: 0.9286
+    avg_copies: 3.23
   azorius-blink:
     weight: 1.0
     avg_copies: 1.75
   rakdos-aggro:
-    weight: 0.7
-    avg_copies: 2.86
+    weight: 0.7273
+    avg_copies: 2.75
   bant-ritual:
     weight: 1.0
     avg_copies: 3.0
@@ -99,7 +99,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-23:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 2.5
   unknown-29:
     weight: 1.0
@@ -107,4 +107,7 @@ archetypes:
   unknown-54:
     weight: 1.0
     avg_copies: 2.0
+  unknown-62:
+    weight: 1.0
+    avg_copies: 4.0
 ---

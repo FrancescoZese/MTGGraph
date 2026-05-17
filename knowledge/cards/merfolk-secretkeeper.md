@@ -7,7 +7,7 @@ name: Merfolk Secretkeeper // Venture Deeper
 scryfall_id: ceb7308d-608c-4ede-9496-d795fc5bb271
 set: eld
 type: Creature — Merfolk Wizard // Sorcery — Adventure
-meta_presence: 0.0005
+meta_presence: 0.0004
 archetypes:
   unknown-30:
     weight: 0.5

@@ -4,7 +4,7 @@ colors:
 - R
 - G
 name: Cosmogoyf Fling
-meta_share: 0.0089
+meta_share: 0.0085
 list_count: 19
 top_cards:
 - name: Plunge into Darkness

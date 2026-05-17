@@ -8,7 +8,7 @@ name: Wild Cantor
 scryfall_id: e6b56946-a368-4cd7-9d35-be14afca935b
 set: rvr
 type: Creature — Human Druid
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   goryo0:
     weight: 0.125

@@ -3,19 +3,10 @@ colors:
 - R
 - G
 name: 'Unknown #23'
-meta_share: 0.0009
-list_count: 2
+meta_share: 0.0018
+list_count: 4
 top_cards:
-- name: Valakut, the Molten Pinnacle
-  weight: 1.0
-  avg_copies: 4.0
-- name: Green Sun's Zenith
-  weight: 1.0
-  avg_copies: 4.0
-- name: Icetill Explorer
-  weight: 1.0
-  avg_copies: 4.0
-- name: Dryad of the Ilysian Grove
+- name: Arboreal Grazer
   weight: 1.0
   avg_copies: 4.0
 - name: Vibrance
@@ -24,107 +15,125 @@ top_cards:
 - name: Wrenn and Six
   weight: 1.0
   avg_copies: 4.0
-- name: Arboreal Grazer
+- name: Valakut, the Molten Pinnacle
   weight: 1.0
   avg_copies: 4.0
-- name: Mountain
+- name: Dryad of the Ilysian Grove
   weight: 1.0
-  avg_copies: 2.5
+  avg_copies: 4.0
+- name: Icetill Explorer
+  weight: 1.0
+  avg_copies: 3.5
+- name: Green Sun's Zenith
+  weight: 1.0
+  avg_copies: 3.5
+- name: Damping Sphere
+  weight: 1.0
+  avg_copies: 2.75
 - name: Stomping Ground
   weight: 1.0
   avg_copies: 2.5
-- name: Fade from History
-  weight: 1.0
-  avg_copies: 2.5
-- name: Damping Sphere
-  weight: 1.0
-  avg_copies: 2.5
-- name: Arid Mesa
-  weight: 1.0
-  avg_copies: 2.5
-- name: Wooded Foothills
-  weight: 1.0
-  avg_copies: 2.5
-- name: Windswept Heath
-  weight: 1.0
-  avg_copies: 2.0
 - name: Commercial District
   weight: 1.0
-  avg_copies: 2.0
-- name: Vexing Bauble
+  avg_copies: 2.25
+- name: Wooded Foothills
   weight: 1.0
-  avg_copies: 1.67
+  avg_copies: 2.25
+- name: Pyroclasm
+  weight: 1.0
+  avg_copies: 2.0
+- name: Fade from History
+  weight: 1.0
+  avg_copies: 1.75
 - name: Boseiju, Who Endures
   weight: 1.0
-  avg_copies: 1.5
+  avg_copies: 1.75
+- name: Mountain
+  weight: 1.0
+  avg_copies: 1.75
+- name: Vexing Bauble
+  weight: 1.0
+  avg_copies: 1.57
 - name: Forest
   weight: 1.0
   avg_copies: 1.0
-- name: Pyroclasm
-  weight: 1.0
-  avg_copies: 1.0
 - name: Malevolent Rumble
-  weight: 0.5
-  avg_copies: 4.0
-- name: Surgical Extraction
-  weight: 0.5
-  avg_copies: 3.0
-- name: Scapeshift
-  weight: 0.5
-  avg_copies: 3.0
-- name: Orim's Chant
-  weight: 0.5
-  avg_copies: 2.0
+  weight: 0.75
+  avg_copies: 3.33
 - name: Force of Vigor
-  weight: 0.5
-  avg_copies: 2.0
-- name: Erode
-  weight: 0.5
-  avg_copies: 2.0
-- name: Disruptor Flute
-  weight: 0.5
-  avg_copies: 2.0
-- name: Fire Magic
-  weight: 0.5
-  avg_copies: 2.0
-- name: Ghost Quarter
-  weight: 0.5
-  avg_copies: 2.0
+  weight: 0.75
+  avg_copies: 2.67
+- name: Surgical Extraction
+  weight: 0.75
+  avg_copies: 2.33
 - name: Prismatic Omen
-  weight: 0.5
+  weight: 0.75
   avg_copies: 2.0
-- name: Endurance
-  weight: 0.5
-  avg_copies: 1.0
 - name: Misty Rainforest
-  weight: 0.5
-  avg_copies: 1.0
-- name: Dryad Arbor
-  weight: 0.5
-  avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 0.5
-  avg_copies: 1.0
-- name: Sakura-Tribe Elder
-  weight: 0.5
+  weight: 0.75
+  avg_copies: 1.67
+- name: Ghost Quarter
+  weight: 0.75
+  avg_copies: 1.33
+- name: Shifting Woodland
+  weight: 0.75
   avg_copies: 1.0
 - name: Bojuka Bog
+  weight: 0.75
+  avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 0.75
+  avg_copies: 1.0
+- name: Dryad Arbor
+  weight: 0.75
+  avg_copies: 1.0
+- name: Lightning Bolt
+  weight: 0.5
+  avg_copies: 3.0
+- name: Arid Mesa
+  weight: 0.5
+  avg_copies: 2.5
+- name: Windswept Heath
+  weight: 0.5
+  avg_copies: 2.0
+- name: Meltdown
   weight: 0.5
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Scalding Tarn
   weight: 0.5
   avg_copies: 1.0
+- name: Scapeshift
+  weight: 0.25
+  avg_copies: 3.0
+- name: Orim's Chant
+  weight: 0.25
+  avg_copies: 2.0
+- name: Erode
+  weight: 0.25
+  avg_copies: 2.0
+- name: Fire Magic
+  weight: 0.25
+  avg_copies: 2.0
+- name: Disruptor Flute
+  weight: 0.25
+  avg_copies: 2.0
 - name: Dwarven Mine
-  weight: 0.5
+  weight: 0.25
   avg_copies: 1.0
 - name: Jetmir's Garden
-  weight: 0.5
+  weight: 0.25
+  avg_copies: 1.0
+- name: Sakura-Tribe Elder
+  weight: 0.25
+  avg_copies: 1.0
+- name: Endurance
+  weight: 0.25
+  avg_copies: 1.0
+- name: Elegant Parlor
+  weight: 0.25
   avg_copies: 1.0
 - name: Sacred Foundry
-  weight: 0.5
-  avg_copies: 1.0
-- name: Shifting Woodland
-  weight: 0.5
+  weight: 0.25
   avg_copies: 1.0
 ---
 Unclassified archetype, pending review.

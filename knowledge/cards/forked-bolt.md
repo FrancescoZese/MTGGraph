@@ -7,9 +7,9 @@ name: Forked Bolt
 scryfall_id: 364ed745-0dff-477a-a2c5-987639936337
 set: ddp
 type: Sorcery
-meta_presence: 0.0005
+meta_presence: 0.0004
 archetypes:
   boros-ponza:
-    weight: 0.0143
+    weight: 0.0132
     avg_copies: 1.0
 ---
