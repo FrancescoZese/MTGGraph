@@ -2,16 +2,16 @@
 colors:
 - G
 name: Amulet Titan
-meta_share: 0.0391
+meta_share: 0.0386
 list_count: 87
 top_cards:
-- name: Urza's Saga
+- name: Amulet of Vigor
   weight: 1.0
   avg_copies: 4.0
 - name: Arboreal Grazer
   weight: 1.0
   avg_copies: 4.0
-- name: Amulet of Vigor
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Spelunking
@@ -50,28 +50,28 @@ top_cards:
 - name: Aftermath Analyst
   weight: 1.0
   avg_copies: 1.06
-- name: Shifting Woodland
-  weight: 1.0
-  avg_copies: 1.0
-- name: Mirrorpool
-  weight: 1.0
-  avg_copies: 1.0
-- name: Hanweir Battlements
-  weight: 1.0
-  avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Echoing Deeps
   weight: 1.0
   avg_copies: 1.0
 - name: Tolaria West
   weight: 1.0
   avg_copies: 1.0
-- name: Bojuka Bog
+- name: Hanweir Battlements
   weight: 1.0
   avg_copies: 1.0
 - name: Vesuva
   weight: 1.0
   avg_copies: 1.0
-- name: Echoing Deeps
+- name: Shifting Woodland
+  weight: 1.0
+  avg_copies: 1.0
+- name: Bojuka Bog
+  weight: 1.0
+  avg_copies: 1.0
+- name: Otawara, Soaring City
+  weight: 1.0
+  avg_copies: 1.0
+- name: Mirrorpool
   weight: 1.0
   avg_copies: 1.0
 - name: Urza's Cave
@@ -149,13 +149,13 @@ top_cards:
 - name: Outland Liberator
   weight: 0.069
   avg_copies: 1.0
+- name: Wooded Foothills
+  weight: 0.0575
+  avg_copies: 1.0
 - name: Commercial District
   weight: 0.0575
   avg_copies: 1.0
 - name: Azusa, Lost but Seeking
-  weight: 0.0575
-  avg_copies: 1.0
-- name: Wooded Foothills
   weight: 0.0575
   avg_copies: 1.0
 - name: Explore
@@ -170,16 +170,16 @@ top_cards:
 - name: Heritage Reclamation
   weight: 0.0345
   avg_copies: 1.0
-- name: Insidious Fungus
-  weight: 0.0345
-  avg_copies: 1.0
 - name: Windswept Heath
   weight: 0.0345
   avg_copies: 1.0
-- name: Pyroclasm
-  weight: 0.023
+- name: Insidious Fungus
+  weight: 0.0345
   avg_copies: 1.0
 - name: Cavern of Souls
+  weight: 0.023
+  avg_copies: 1.0
+- name: Pyroclasm
   weight: 0.023
   avg_copies: 1.0
 - name: Golgari Rot Farm
@@ -188,7 +188,7 @@ top_cards:
 - name: Endurance
   weight: 0.0115
   avg_copies: 2.0
-- name: Dosan the Falling Leaf
+- name: Lithomantic Barrage
   weight: 0.0115
   avg_copies: 1.0
 - name: Gemstone Caverns
@@ -197,7 +197,7 @@ top_cards:
 - name: Hexdrinker
   weight: 0.0115
   avg_copies: 1.0
-- name: Lithomantic Barrage
+- name: Dosan the Falling Leaf
   weight: 0.0115
   avg_copies: 1.0
 ---

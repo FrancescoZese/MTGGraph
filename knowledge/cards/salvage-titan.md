@@ -10,6 +10,6 @@ type: Artifact Creature — Golem
 meta_presence: 0.0013
 archetypes:
   affinity:
-    weight: 0.0131
+    weight: 0.0128
     avg_copies: 1.0
 ---

@@ -16,7 +16,7 @@ archetypes:
     weight: 0.037
     avg_copies: 3.0
   hollow-one:
-    weight: 0.12
+    weight: 0.1154
     avg_copies: 3.67
   indomitable-creativity:
     weight: 0.25
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.0714
     avg_copies: 2.0
   goryo0:
-    weight: 0.0625
+    weight: 0.0588
     avg_copies: 3.0
   unknown-40:
     weight: 1.0

@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0118
     avg_copies: 1.0
   necrodominance:
-    weight: 0.12
+    weight: 0.1111
     avg_copies: 1.33
   orzhov-blink:
     weight: 0.2

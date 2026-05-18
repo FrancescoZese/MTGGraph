@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.0058
 archetypes:
   boros-energy:
-    weight: 0.0264
+    weight: 0.0262
     avg_copies: 2.1
   burn:
     weight: 0.2857

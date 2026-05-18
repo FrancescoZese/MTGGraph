@@ -10,16 +10,16 @@ type: Instant
 meta_presence: 0.0656
 archetypes:
   boros-energy:
-    weight: 0.0396
+    weight: 0.0393
     avg_copies: 1.3
   jeskai-control:
     weight: 0.0357
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.5
+    weight: 0.507
     avg_copies: 1.0
   mill:
-    weight: 0.0769
+    weight: 0.0714
     avg_copies: 4.0
   mono-red-belcher:
     weight: 0.0833
@@ -37,7 +37,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.5
   goryo0:
-    weight: 0.125
+    weight: 0.1176
     avg_copies: 1.0
   goryo6:
     weight: 1.0

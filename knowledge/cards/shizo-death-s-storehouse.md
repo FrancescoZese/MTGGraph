@@ -9,7 +9,7 @@ type: Legendary Land
 meta_presence: 0.0009
 archetypes:
   necrodominance:
-    weight: 0.04
+    weight: 0.037
     avg_copies: 1.0
   unknown-18:
     weight: 1.0

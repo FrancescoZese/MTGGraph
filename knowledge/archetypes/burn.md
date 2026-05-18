@@ -30,10 +30,10 @@ top_cards:
 - name: Wooded Foothills
   weight: 1.0
   avg_copies: 2.0
-- name: Monastery Swiftspear
+- name: Goblin Guide
   weight: 0.8571
   avg_copies: 4.0
-- name: Goblin Guide
+- name: Monastery Swiftspear
   weight: 0.8571
   avg_copies: 4.0
 - name: Smash to Smithereens
@@ -84,13 +84,13 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.4286
   avg_copies: 2.0
-- name: Shard Volley
+- name: Sacred Foundry
   weight: 0.4286
   avg_copies: 1.67
 - name: Deflecting Palm
   weight: 0.4286
   avg_copies: 1.67
-- name: Sacred Foundry
+- name: Shard Volley
   weight: 0.4286
   avg_copies: 1.67
 - name: Exquisite Firecraft
@@ -114,31 +114,31 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 0.2857
   avg_copies: 1.0
-- name: Molten Rain
-  weight: 0.2857
-  avg_copies: 1.0
 - name: Disruptor Flute
   weight: 0.2857
   avg_copies: 1.0
-- name: Vexing Devil
+- name: Molten Rain
+  weight: 0.2857
+  avg_copies: 1.0
+- name: Sanctifier en-Vec
   weight: 0.1429
   avg_copies: 4.0
 - name: Iridescent Vinelasher
   weight: 0.1429
   avg_copies: 4.0
-- name: Sanctifier en-Vec
+- name: Vexing Devil
   weight: 0.1429
   avg_copies: 4.0
-- name: Containment Priest
-  weight: 0.1429
-  avg_copies: 3.0
 - name: Magebane Lizard
   weight: 0.1429
   avg_copies: 3.0
-- name: Nihil Spellbomb
+- name: Containment Priest
+  weight: 0.1429
+  avg_copies: 3.0
+- name: Blood Crypt
   weight: 0.1429
   avg_copies: 2.0
-- name: Blood Crypt
+- name: Nihil Spellbomb
   weight: 0.1429
   avg_copies: 2.0
 - name: Tunnel Ignus
@@ -147,19 +147,19 @@ top_cards:
 - name: Wear
   weight: 0.1429
   avg_copies: 2.0
-- name: Blood Moon
-  weight: 0.1429
-  avg_copies: 1.0
 - name: card:volcanic-fallout
   weight: 0.1429
   avg_copies: 1.0
 - name: Rakdos Charm
   weight: 0.1429
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Rain of Gore
   weight: 0.1429
   avg_copies: 1.0
-- name: Rain of Gore
+- name: Blood Moon
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Elegant Parlor
   weight: 0.1429
   avg_copies: 1.0
 ---

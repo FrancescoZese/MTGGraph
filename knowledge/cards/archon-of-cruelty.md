@@ -16,7 +16,7 @@ archetypes:
     weight: 0.0612
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0143
+    weight: 0.0141
     avg_copies: 4.0
   reanimator:
     weight: 1.0

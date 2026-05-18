@@ -7,7 +7,7 @@ name: Strix Serenade
 scryfall_id: 42ac5ac7-b2f9-4e6f-af41-7e42ac816374
 set: mh3
 type: Instant
-meta_presence: 0.0921
+meta_presence: 0.0922
 archetypes:
   dimir-control:
     weight: 0.0123
@@ -16,7 +16,7 @@ archetypes:
     weight: 0.5455
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.746
+    weight: 0.75
     avg_copies: 1.5
   goryo:
     weight: 0.0118
@@ -25,10 +25,10 @@ archetypes:
     weight: 0.0625
     avg_copies: 1.0
   affinity:
-    weight: 0.1616
+    weight: 0.1617
     avg_copies: 1.16
   domain-zoo:
-    weight: 0.0571
+    weight: 0.0563
     avg_copies: 1.25
   reanimator:
     weight: 0.0741
@@ -40,7 +40,7 @@ archetypes:
     weight: 0.4
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.06
+    weight: 0.0566
     avg_copies: 1.33
   esper-blink:
     weight: 0.05

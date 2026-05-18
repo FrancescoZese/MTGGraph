@@ -6,19 +6,19 @@ name: 'Unknown #33'
 meta_share: 0.0004
 list_count: 1
 top_cards:
-- name: Dragon's Rage Channeler
+- name: Wooded Foothills
+  weight: 1.0
+  avg_copies: 4.0
+- name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
-- name: Wooded Foothills
+- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
-- name: Obsidian Charmaw
-  weight: 1.0
-  avg_copies: 4.0
-- name: Stalactite Stalker
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
@@ -27,49 +27,49 @@ top_cards:
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
-- name: Moonshadow
+- name: Lightning Bolt
+  weight: 1.0
+  avg_copies: 4.0
+- name: Obsidian Charmaw
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Street Wraith
+- name: Stalactite Stalker
   weight: 1.0
   avg_copies: 4.0
-- name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Nihil Spellbomb
-  weight: 1.0
-  avg_copies: 3.0
-- name: Meltdown
-  weight: 1.0
-  avg_copies: 3.0
-- name: Ragavan, Nimble Pilferer
-  weight: 1.0
-  avg_copies: 3.0
-- name: Lithomantic Barrage
+- name: Super Shredder
   weight: 1.0
   avg_copies: 3.0
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 3.0
-- name: Fatal Push
+- name: Nihil Spellbomb
   weight: 1.0
   avg_copies: 3.0
-- name: Super Shredder
+- name: Lithomantic Barrage
+  weight: 1.0
+  avg_copies: 3.0
+- name: Ragavan, Nimble Pilferer
+  weight: 1.0
+  avg_copies: 3.0
+- name: Meltdown
+  weight: 1.0
+  avg_copies: 3.0
+- name: Fatal Push
   weight: 1.0
   avg_copies: 3.0
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 2.0
-- name: Molten Collapse
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 2.0
 - name: Kroxa, Titan of Death's Hunger
   weight: 1.0
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Molten Collapse
   weight: 1.0
   avg_copies: 2.0
 - name: Swamp

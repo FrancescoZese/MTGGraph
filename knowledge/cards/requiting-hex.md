@@ -10,10 +10,10 @@ type: Instant
 meta_presence: 0.0013
 archetypes:
   necrodominance:
-    weight: 0.04
+    weight: 0.037
     avg_copies: 4.0
   mill:
-    weight: 0.0769
+    weight: 0.0714
     avg_copies: 1.0
   reanimator:
     weight: 0.037

@@ -10,6 +10,6 @@ type: Creature — Vampire Assassin
 meta_presence: 0.0009
 archetypes:
   necrodominance:
-    weight: 0.08
+    weight: 0.0741
     avg_copies: 4.0
 ---

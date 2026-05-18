@@ -7,19 +7,19 @@ name: 'Unknown #6'
 meta_share: 0.0013
 list_count: 3
 top_cards:
-- name: Song of Creation
-  weight: 1.0
-  avg_copies: 4.0
 - name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
 - name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
+- name: Song of Creation
+  weight: 1.0
+  avg_copies: 4.0
 - name: Mox Opal
+  weight: 1.0
+  avg_copies: 4.0
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
 - name: Misty Rainforest
@@ -58,31 +58,31 @@ top_cards:
 - name: Engineered Explosives
   weight: 1.0
   avg_copies: 1.25
-- name: Tormod's Crypt
-  weight: 1.0
-  avg_copies: 1.0
 - name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Stomping Ground
-  weight: 1.0
-  avg_copies: 1.0
-- name: Spire of Industry
-  weight: 1.0
-  avg_copies: 1.0
-- name: Haywire Mite
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Endurance
   weight: 1.0
   avg_copies: 1.0
+- name: Spire of Industry
+  weight: 1.0
+  avg_copies: 1.0
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
+- name: Haywire Mite
+  weight: 1.0
+  avg_copies: 1.0
+- name: Stomping Ground
+  weight: 1.0
+  avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Tormod's Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Boomerang Basics
@@ -91,22 +91,19 @@ top_cards:
 - name: Preordain
   weight: 0.6667
   avg_copies: 2.5
-- name: Fire Magic
-  weight: 0.6667
-  avg_copies: 1.5
 - name: Swan Song
   weight: 0.6667
   avg_copies: 1.5
-- name: Ashiok, Dream Render
+- name: Fire Magic
   weight: 0.6667
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Strix Serenade
   weight: 0.6667
   avg_copies: 1.0
-- name: Jace, Wielder of Mysteries
+- name: Forest
   weight: 0.6667
   avg_copies: 1.0
-- name: Forest
+- name: Pithing Needle
   weight: 0.6667
   avg_copies: 1.0
 - name: Thundering Falls
@@ -115,7 +112,10 @@ top_cards:
 - name: Grapeshot
   weight: 0.6667
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Jace, Wielder of Mysteries
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
   weight: 0.6667
   avg_copies: 1.0
 - name: Cori-Steel Cutter
@@ -127,22 +127,7 @@ top_cards:
 - name: Force of Negation
   weight: 0.3333
   avg_copies: 2.0
-- name: Nature's Claim
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Pyroclasm
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Aether Spellbomb
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Soulless Jailer
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Life from the Loam
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Peer Past the Veil
   weight: 0.3333
   avg_copies: 1.0
 - name: Galvanic Blast
@@ -151,7 +136,22 @@ top_cards:
 - name: Flame of Anor
   weight: 0.3333
   avg_copies: 1.0
-- name: Peer Past the Veil
+- name: Boseiju, Who Endures
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Nature's Claim
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Life from the Loam
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Aether Spellbomb
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Soulless Jailer
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Pyroclasm
   weight: 0.3333
   avg_copies: 1.0
 ---

@@ -3,16 +3,19 @@ colors:
 - B
 - R
 name: 'Unknown #1'
-meta_share: 0.0013
-list_count: 3
+meta_share: 0.0018
+list_count: 4
 top_cards:
+- name: Stitcher's Supplier
+  weight: 1.0
+  avg_copies: 4.0
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 4.0
-- name: Stitcher's Supplier
+- name: Bloodghast
   weight: 1.0
   avg_copies: 4.0
 - name: Flare of Malice
@@ -21,46 +24,31 @@ top_cards:
 - name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodghast
-  weight: 1.0
-  avg_copies: 4.0
 - name: Persist
   weight: 1.0
-  avg_copies: 3.67
-- name: Obsidian Charmaw
-  weight: 1.0
-  avg_copies: 3.0
-- name: Orcish Bowmasters
+  avg_copies: 3.75
+- name: Rakdos Charm
   weight: 1.0
   avg_copies: 3.0
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 3.0
-- name: Rakdos Charm
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.0
-- name: Spymaster's Vault
+- name: Obsidian Charmaw
   weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 3.0
+- name: Lightning Bolt
+  weight: 1.0
+  avg_copies: 2.25
 - name: Swamp
-  weight: 1.0
-  avg_copies: 2.0
-- name: Village Rites
-  weight: 1.0
-  avg_copies: 2.0
-- name: Raucous Theater
-  weight: 1.0
-  avg_copies: 2.0
-- name: Extract the Truth
   weight: 1.0
   avg_copies: 2.0
 - name: Brotherhood's End
   weight: 1.0
   avg_copies: 2.0
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 2.0
-- name: Polluted Delta
+- name: Raucous Theater
   weight: 1.0
   avg_copies: 2.0
 - name: Mountain
@@ -69,13 +57,25 @@ top_cards:
 - name: Corrupted Conviction
   weight: 1.0
   avg_copies: 2.0
-- name: Lightning Bolt
+- name: Extract the Truth
   weight: 1.0
   avg_copies: 2.0
-- name: End the Festivities
+- name: Village Rites
+  weight: 1.0
+  avg_copies: 2.0
+- name: Spymaster's Vault
+  weight: 1.0
+  avg_copies: 2.0
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 2.0
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 2.0
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 1.0
-- name: Wooded Foothills
+- name: End the Festivities
   weight: 1.0
   avg_copies: 1.0
 - name: Bloodstained Mire
@@ -85,22 +85,22 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Leyline of Combustion
-  weight: 0.6667
+  weight: 0.75
   avg_copies: 4.0
 - name: Detective's Phoenix
-  weight: 0.6667
+  weight: 0.75
   avg_copies: 2.0
 - name: Flashback
-  weight: 0.6667
+  weight: 0.5
   avg_copies: 2.0
 - name: Unearth
-  weight: 0.3333
+  weight: 0.25
   avg_copies: 2.0
 - name: Lightning Skelemental
-  weight: 0.3333
+  weight: 0.25
   avg_copies: 1.0
 - name: Ob Nixilis, the Adversary
-  weight: 0.3333
+  weight: 0.25
   avg_copies: 1.0
 ---
 Unclassified archetype, pending review.

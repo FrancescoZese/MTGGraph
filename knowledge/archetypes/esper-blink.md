@@ -4,7 +4,7 @@ colors:
 - U
 - B
 name: Esper Blink
-meta_share: 0.009
+meta_share: 0.0089
 list_count: 20
 top_cards:
 - name: Solitude
@@ -49,16 +49,16 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.1
-- name: Watery Grave
+- name: Swamp
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
-  weight: 1.0
-  avg_copies: 1.0
-- name: Shadowy Backstreet
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
 - name: Thoughtseize
@@ -100,10 +100,10 @@ top_cards:
 - name: Clarion Conqueror
   weight: 0.35
   avg_copies: 1.71
-- name: Skycoach Conductor
+- name: Elesh Norn, Mother of Machines
   weight: 0.3
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
+- name: Skycoach Conductor
   weight: 0.3
   avg_copies: 1.0
 - name: Erode
@@ -118,10 +118,10 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 0.15
   avg_copies: 1.33
-- name: Bleachbone Verge
+- name: Surgical Extraction
   weight: 0.15
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Bleachbone Verge
   weight: 0.15
   avg_copies: 1.0
 - name: Force of Negation
@@ -142,22 +142,22 @@ top_cards:
 - name: White Orchid Phantom
   weight: 0.05
   avg_copies: 2.0
+- name: Strix Serenade
+  weight: 0.05
+  avg_copies: 1.0
+- name: Celestial Purge
+  weight: 0.05
+  avg_copies: 1.0
+- name: Emptiness
+  weight: 0.05
+  avg_copies: 1.0
 - name: Spell Pierce
   weight: 0.05
   avg_copies: 1.0
 - name: March of Otherworldly Light
   weight: 0.05
   avg_copies: 1.0
-- name: Strix Serenade
-  weight: 0.05
-  avg_copies: 1.0
 - name: Windswept Heath
-  weight: 0.05
-  avg_copies: 1.0
-- name: Emptiness
-  weight: 0.05
-  avg_copies: 1.0
-- name: Celestial Purge
   weight: 0.05
   avg_copies: 1.0
 ---

@@ -6,7 +6,7 @@ name: Hallowed Fountain
 scryfall_id: e056b55f-82ed-4fe0-ab0c-bb20fa4a218a
 set: ecl
 type: Land — Plains Island
-meta_presence: 0.1519
+meta_presence: 0.1508
 archetypes:
   dimir-control:
     weight: 0.1605
@@ -27,7 +27,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.46
   mill:
-    weight: 0.0769
+    weight: 0.0714
     avg_copies: 1.0
   reanimator:
     weight: 0.037

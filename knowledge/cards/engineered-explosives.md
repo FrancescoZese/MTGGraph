@@ -6,7 +6,7 @@ name: Engineered Explosives
 scryfall_id: 420bf1e9-f2ec-4dff-b540-e64de71e58be
 set: 2xm
 type: Artifact
-meta_presence: 0.1726
+meta_presence: 0.1738
 archetypes:
   dimir-control:
     weight: 0.5185
@@ -18,19 +18,19 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   necrodominance:
-    weight: 0.32
+    weight: 0.2963
     avg_copies: 1.88
   affinity:
     weight: 1.0
-    avg_copies: 3.82
+    avg_copies: 3.83
   mill:
-    weight: 0.4615
+    weight: 0.4286
     avg_copies: 1.33
   mono-blue-tron:
     weight: 0.2222
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.26
+    weight: 0.2453
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.1667
@@ -76,7 +76,7 @@ archetypes:
     avg_copies: 2.14
   unknown-47:
     weight: 1.0
-    avg_copies: 1.8
+    avg_copies: 1.71
   unknown-49:
     weight: 1.0
     avg_copies: 4.0

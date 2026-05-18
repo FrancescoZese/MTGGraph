@@ -6,67 +6,67 @@ name: 'Unknown #35'
 meta_share: 0.0004
 list_count: 1
 top_cards:
-- name: Lórien Revealed
+- name: Flow State
   weight: 1.0
   avg_copies: 4.0
 - name: Thundertrap Trainer
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
 - name: Subtlety
-  weight: 1.0
-  avg_copies: 4.0
-- name: Scalding Tarn
-  weight: 1.0
-  avg_copies: 4.0
-- name: Fable of the Mirror-Breaker
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flow State
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flame of Anor
-  weight: 1.0
-  avg_copies: 4.0
-- name: Unholy Heat
   weight: 1.0
   avg_copies: 4.0
 - name: Island
   weight: 1.0
   avg_copies: 4.0
-- name: Ghost Vacuum
+- name: Mishra's Bauble
   weight: 1.0
-  avg_copies: 3.0
-- name: Steam Vents
+  avg_copies: 4.0
+- name: Lórien Revealed
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 4.0
+- name: Unholy Heat
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fable of the Mirror-Breaker
+  weight: 1.0
+  avg_copies: 4.0
+- name: Scalding Tarn
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flame of Anor
+  weight: 1.0
+  avg_copies: 4.0
 - name: Consign to Memory
+  weight: 1.0
+  avg_copies: 3.0
+- name: Ghost Vacuum
   weight: 1.0
   avg_copies: 3.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 3.0
-- name: Thundering Falls
+- name: Steam Vents
   weight: 1.0
-  avg_copies: 2.0
-- name: Flare of Denial
-  weight: 1.0
-  avg_copies: 2.0
-- name: Flooded Strand
+  avg_copies: 3.0
+- name: Snapcaster Mage
   weight: 1.0
   avg_copies: 2.0
 - name: Blood Moon
   weight: 1.0
   avg_copies: 2.0
-- name: Polluted Delta
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 2.0
-- name: Snapcaster Mage
+- name: Flare of Denial
   weight: 1.0
   avg_copies: 2.0
 - name: Dress Down
+  weight: 1.0
+  avg_copies: 2.0
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 2.0
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 2.0
 - name: Spell Snare
@@ -75,19 +75,19 @@ top_cards:
 - name: Flusterstorm
   weight: 1.0
   avg_copies: 1.0
-- name: Force of Negation
-  weight: 1.0
-  avg_copies: 1.0
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Stern Scolding
+- name: Engineered Explosives
   weight: 1.0
   avg_copies: 1.0
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 1.0
-- name: Engineered Explosives
+- name: Stern Scolding
+  weight: 1.0
+  avg_copies: 1.0
+- name: Force of Negation
   weight: 1.0
   avg_copies: 1.0
 ---

@@ -13,12 +13,12 @@ archetypes:
     weight: 0.0143
     avg_copies: 1.0
   boros-energy:
-    weight: 0.1425
+    weight: 0.1414
     avg_copies: 1.16
   mono-red-belcher:
     weight: 0.3333
     avg_copies: 1.0
   goryo0:
-    weight: 0.4375
-    avg_copies: 1.29
+    weight: 0.4706
+    avg_copies: 1.25
 ---

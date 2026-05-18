@@ -6,40 +6,40 @@ name: Hammer Time
 meta_share: 0.0018
 list_count: 4
 top_cards:
-- name: Colossus Hammer
+- name: Stoneforge Mystic
   weight: 1.0
   avg_copies: 4.0
 - name: Esper Sentinel
   weight: 1.0
   avg_copies: 4.0
-- name: Stoneforge Mystic
+- name: Colossus Hammer
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Saga
+- name: Battlefield Improvisation
   weight: 1.0
   avg_copies: 3.75
-- name: Battlefield Improvisation
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 3.75
 - name: Leyline Axe
   weight: 1.0
   avg_copies: 3.5
-- name: Ornithopter
-  weight: 1.0
-  avg_copies: 3.25
 - name: Puresteel Paladin
   weight: 1.0
   avg_copies: 3.25
 - name: Metallic Rebuke
   weight: 1.0
   avg_copies: 3.25
+- name: Ornithopter
+  weight: 1.0
+  avg_copies: 3.25
+- name: Mox Opal
+  weight: 1.0
+  avg_copies: 3.0
 - name: Plains
   weight: 1.0
   avg_copies: 3.0
 - name: Marsh Flats
-  weight: 1.0
-  avg_copies: 3.0
-- name: Mox Opal
   weight: 1.0
   avg_copies: 3.0
 - name: Sanctifier en-Vec
@@ -51,10 +51,10 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.5
-- name: Soulless Jailer
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 2.25
-- name: Flooded Strand
+- name: Soulless Jailer
   weight: 1.0
   avg_copies: 2.25
 - name: Vexing Bauble
@@ -66,10 +66,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.75
   avg_copies: 2.0
-- name: Consign to Memory
+- name: Surge of Salvation
   weight: 0.75
   avg_copies: 2.0
-- name: Surge of Salvation
+- name: Consign to Memory
   weight: 0.75
   avg_copies: 2.0
 - name: Meticulous Archive
@@ -84,19 +84,19 @@ top_cards:
 - name: Portable Hole
   weight: 0.5
   avg_copies: 4.0
-- name: Suncleanser
+- name: Test of Talents
   weight: 0.5
   avg_copies: 2.0
-- name: Test of Talents
+- name: Suncleanser
   weight: 0.5
   avg_copies: 2.0
 - name: Springleaf Drum
   weight: 0.5
   avg_copies: 1.5
-- name: Tormod's Crypt
+- name: Pithing Needle
   weight: 0.5
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Tormod's Crypt
   weight: 0.5
   avg_copies: 1.0
 - name: Mishra's Bauble
@@ -114,16 +114,16 @@ top_cards:
 - name: Sigarda's Aid
   weight: 0.25
   avg_copies: 2.0
-- name: Kappa Cannoneer
+- name: Grafdigger's Cage
   weight: 0.25
   avg_copies: 1.0
-- name: Skateboard
+- name: Kappa Cannoneer
   weight: 0.25
   avg_copies: 1.0
 - name: Voice of Victory
   weight: 0.25
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Skateboard
   weight: 0.25
   avg_copies: 1.0
 ---

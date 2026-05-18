@@ -9,22 +9,22 @@ top_cards:
 - name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Witch Enchanter
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Witch Enchanter
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.4
-- name: Phelia, Exuberant Shepherd
+- name: Fatal Push
   weight: 1.0
   avg_copies: 3.4
 - name: Flickerwisp
@@ -45,10 +45,10 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.8
-- name: Ashiok, Dream Render
+- name: Boggart Trawler
   weight: 1.0
   avg_copies: 1.6
-- name: Boggart Trawler
+- name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 1.6
 - name: Swamp
@@ -75,10 +75,10 @@ top_cards:
 - name: Bleachbone Verge
   weight: 0.8
   avg_copies: 1.75
-- name: Dawnbringer Cleric
+- name: Prismatic Ending
   weight: 0.6
   avg_copies: 2.0
-- name: Prismatic Ending
+- name: Dawnbringer Cleric
   weight: 0.6
   avg_copies: 2.0
 - name: Sheoldred's Edict
@@ -90,10 +90,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.6
   avg_copies: 1.33
-- name: Surgical Extraction
+- name: Grafdigger's Cage
   weight: 0.6
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Surgical Extraction
   weight: 0.6
   avg_copies: 1.0
 - name: Relic of Progenitus
@@ -111,25 +111,25 @@ top_cards:
 - name: Orim's Chant
   weight: 0.2
   avg_copies: 4.0
-- name: Polluted Delta
+- name: Windswept Heath
   weight: 0.2
   avg_copies: 2.0
-- name: Windswept Heath
+- name: Polluted Delta
   weight: 0.2
   avg_copies: 2.0
 - name: Duress
   weight: 0.2
   avg_copies: 2.0
-- name: Eiganjo, Seat of the Empire
-  weight: 0.2
-  avg_copies: 1.0
-- name: Monumental Henge
+- name: Elesh Norn, Mother of Machines
   weight: 0.2
   avg_copies: 1.0
 - name: Raucous Theater
   weight: 0.2
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
+- name: Monumental Henge
+  weight: 0.2
+  avg_copies: 1.0
+- name: Eiganjo, Seat of the Empire
   weight: 0.2
   avg_copies: 1.0
 ---

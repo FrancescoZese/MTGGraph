@@ -22,16 +22,16 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   eldrazi-ramp:
-    weight: 0.12
-    avg_copies: 1.83
+    weight: 0.1321
+    avg_copies: 1.86
   simic-ritual:
-    weight: 0.4286
+    weight: 0.42
     avg_copies: 1.72
   4c-omnath:
     weight: 0.25
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.6579
+    weight: 0.641
     avg_copies: 1.96
   goryo4:
     weight: 1.0
@@ -51,7 +51,7 @@ archetypes:
 cmc: 3
 colors: []
 image: https://cards.scryfall.io/normal/front/3/d/3d286cf6-3e16-4941-9326-1818b1e06d69.jpg?1562261132
-meta_presence: 0.1231
+meta_presence: 0.122
 name: Dismember
 scryfall_id: 3d286cf6-3e16-4941-9326-1818b1e06d69
 set: mm2

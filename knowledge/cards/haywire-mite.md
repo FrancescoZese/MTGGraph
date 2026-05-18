@@ -18,8 +18,8 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   affinity:
-    weight: 0.0175
-    avg_copies: 1.17
+    weight: 0.017
+    avg_copies: 1.14
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
@@ -27,13 +27,13 @@ archetypes:
     weight: 0.3
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.42
+    weight: 0.4151
     avg_copies: 1.05
   samwise-combo:
     weight: 0.9048
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.9737
+    weight: 0.9744
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.4667

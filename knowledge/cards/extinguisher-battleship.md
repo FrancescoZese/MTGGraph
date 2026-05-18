@@ -6,7 +6,7 @@ name: Extinguisher Battleship
 scryfall_id: 5541cdd2-84a6-4667-83eb-fffbe5b3cd3d
 set: eoe
 type: Artifact — Spacecraft
-meta_presence: 0.0292
+meta_presence: 0.0288
 archetypes:
   eldrazi-tron:
     weight: 0.8125

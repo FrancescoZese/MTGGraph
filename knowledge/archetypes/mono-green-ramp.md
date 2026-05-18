@@ -18,10 +18,10 @@ top_cards:
 - name: Springheart Nantuko
   weight: 1.0
   avg_copies: 4.0
-- name: Windswept Heath
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 3.33
-- name: Misty Rainforest
+- name: Windswept Heath
   weight: 1.0
   avg_copies: 3.33
 - name: Summoner's Pact
@@ -45,16 +45,16 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.17
-- name: Ashaya, Soul of the Wild
-  weight: 1.0
-  avg_copies: 1.0
-- name: Chomping Changeling
+- name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
 - name: Craterhoof Behemoth
   weight: 1.0
   avg_copies: 1.0
-- name: Collector Ouphe
+- name: Ashaya, Soul of the Wild
+  weight: 1.0
+  avg_copies: 1.0
+- name: Chomping Changeling
   weight: 1.0
   avg_copies: 1.0
 - name: Disciple of Freyalise
@@ -69,13 +69,13 @@ top_cards:
 - name: Leyline of Abundance
   weight: 0.6667
   avg_copies: 3.25
+- name: Tyvar, Jubilant Brawler
+  weight: 0.6667
+  avg_copies: 3.0
 - name: Lotus Cobra
   weight: 0.6667
   avg_copies: 3.0
 - name: Thoughtseize
-  weight: 0.6667
-  avg_copies: 3.0
-- name: Tyvar, Jubilant Brawler
   weight: 0.6667
   avg_copies: 3.0
 - name: Mai, Scornful Striker
@@ -93,22 +93,22 @@ top_cards:
 - name: Creeping Corrosion
   weight: 0.6667
   avg_copies: 1.25
-- name: Formidable Speaker
-  weight: 0.6667
-  avg_copies: 1.0
 - name: Underground Mortuary
   weight: 0.6667
   avg_copies: 1.0
 - name: Nissa, Resurgent Animist
   weight: 0.6667
   avg_copies: 1.0
+- name: Formidable Speaker
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Slumbering Trudge
+  weight: 0.3333
+  avg_copies: 4.0
 - name: The Great Henge
   weight: 0.3333
   avg_copies: 4.0
 - name: Fanatic of Rhonas
-  weight: 0.3333
-  avg_copies: 4.0
-- name: Slumbering Trudge
   weight: 0.3333
   avg_copies: 4.0
 - name: Life's Legacy
@@ -117,16 +117,16 @@ top_cards:
 - name: Trinisphere
   weight: 0.3333
   avg_copies: 2.0
-- name: Force of Vigor
-  weight: 0.1667
-  avg_copies: 3.0
-- name: Fade from History
+- name: Vexing Bauble
   weight: 0.1667
   avg_copies: 3.0
 - name: Damping Sphere
   weight: 0.1667
   avg_copies: 3.0
-- name: Vexing Bauble
+- name: Fade from History
+  weight: 0.1667
+  avg_copies: 3.0
+- name: Force of Vigor
   weight: 0.1667
   avg_copies: 3.0
 - name: Soulless Jailer

@@ -10,7 +10,7 @@ type: Creature — Human Shaman
 meta_presence: 0.0022
 archetypes:
   jeskai-energy:
-    weight: 0.0079
+    weight: 0.0078
     avg_copies: 2.0
   4c-omnath:
     weight: 0.25

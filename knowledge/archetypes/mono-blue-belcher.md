@@ -2,7 +2,7 @@
 colors:
 - U
 name: Mono Blue Belcher
-meta_share: 0.0198
+meta_share: 0.0195
 list_count: 44
 top_cards:
 - name: Lotus Bloom
@@ -17,10 +17,10 @@ top_cards:
 - name: Tameshi, Reality Architect
   weight: 1.0
   avg_copies: 3.98
-- name: Sink into Stupor
+- name: Sea Gate Restoration
   weight: 1.0
   avg_copies: 3.95
-- name: Sea Gate Restoration
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 3.95
 - name: Disrupting Shoal
@@ -131,19 +131,19 @@ top_cards:
 - name: Echoing Truth
   weight: 0.0455
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Witch Enchanter
   weight: 0.0227
   avg_copies: 1.0
 - name: Portable Hole
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Surgical Extraction
   weight: 0.0227
   avg_copies: 1.0
 - name: Displacement Wave
   weight: 0.0227
   avg_copies: 1.0
 - name: Hope of Ghirapur
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Witch Enchanter
   weight: 0.0227
   avg_copies: 1.0
 ---

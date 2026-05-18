@@ -6,11 +6,11 @@ name: Shivan Reef
 scryfall_id: e13d0982-2542-4770-8e93-637478a0f84a
 set: soc
 type: Land
-meta_presence: 0.0634
+meta_presence: 0.0647
 archetypes:
   affinity:
-    weight: 0.5983
-    avg_copies: 1.23
+    weight: 0.6043
+    avg_copies: 1.24
   izzet-artifacts:
     weight: 0.0333
     avg_copies: 1.0

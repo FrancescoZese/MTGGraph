@@ -13,7 +13,7 @@ archetypes:
     weight: 0.1429
     avg_copies: 3.0
   hollow-one:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 2.0
   rakdos-aggro:
     weight: 0.0909

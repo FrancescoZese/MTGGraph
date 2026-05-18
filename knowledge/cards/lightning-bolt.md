@@ -7,19 +7,19 @@ name: Lightning Bolt
 scryfall_id: 77c6fa74-5543-42ac-9ead-0e890b188e99
 set: clu
 type: Instant
-meta_presence: 0.1402
+meta_presence: 0.1415
 archetypes:
   ruby-storm:
     weight: 0.1
     avg_copies: 1.0
   boros-energy:
-    weight: 0.0607
+    weight: 0.0602
     avg_copies: 1.22
   dimir-control:
     weight: 0.0123
     avg_copies: 2.0
   jeskai-energy:
-    weight: 0.0556
+    weight: 0.0547
     avg_copies: 3.0
   jeskai-control:
     weight: 0.0714
@@ -34,14 +34,14 @@ archetypes:
     weight: 1.0
     avg_copies: 3.57
   hollow-one:
-    weight: 0.84
-    avg_copies: 3.14
+    weight: 0.8462
+    avg_copies: 3.18
   eldrazi-ramp:
-    weight: 0.22
+    weight: 0.2075
     avg_copies: 1.08
   izzet-prowess:
     weight: 1.0
-    avg_copies: 3.97
+    avg_copies: 3.96
   indomitable-creativity:
     weight: 0.75
     avg_copies: 1.83
@@ -86,7 +86,7 @@ archetypes:
     avg_copies: 2.0
   unknown-1:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.25
   unknown-7:
     weight: 1.0
     avg_copies: 3.0
@@ -109,7 +109,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-23:
-    weight: 0.5
+    weight: 0.6
     avg_copies: 3.0
   unknown-31:
     weight: 1.0

@@ -16,8 +16,8 @@ archetypes:
     weight: 0.9765
     avg_copies: 3.06
   necrodominance:
-    weight: 0.76
-    avg_copies: 3.9
+    weight: 0.7778
+    avg_copies: 3.91
   reanimator:
     weight: 0.8889
     avg_copies: 3.79
@@ -25,16 +25,16 @@ archetypes:
     weight: 0.7391
     avg_copies: 2.52
   hollow-one:
-    weight: 0.76
-    avg_copies: 2.84
+    weight: 0.7692
+    avg_copies: 2.85
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 2.27
   simic-ritual:
-    weight: 0.0204
+    weight: 0.02
     avg_copies: 4.0
   izzet-prowess:
-    weight: 0.0303
+    weight: 0.0294
     avg_copies: 3.0
   esper-blink:
     weight: 0.95
@@ -140,7 +140,7 @@ archetypes:
     avg_copies: 2.0
   unknown-47:
     weight: 1.0
-    avg_copies: 3.8
+    avg_copies: 3.86
   unknown-50:
     weight: 1.0
     avg_copies: 2.0
