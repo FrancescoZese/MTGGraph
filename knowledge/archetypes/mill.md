@@ -9,10 +9,10 @@ top_cards:
 - name: Archive Trap
   weight: 1.0
   avg_copies: 4.0
-- name: Ruin Crab
+- name: Hedron Crab
   weight: 1.0
   avg_copies: 4.0
-- name: Hedron Crab
+- name: Ruin Crab
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -66,10 +66,10 @@ top_cards:
 - name: Shelldock Isle
   weight: 0.7143
   avg_copies: 1.0
-- name: Swamp
+- name: Jace, the Perfected Mind
   weight: 0.6429
   avg_copies: 1.22
-- name: Jace, the Perfected Mind
+- name: Swamp
   weight: 0.6429
   avg_copies: 1.22
 - name: Soul-Guide Lantern
@@ -126,64 +126,70 @@ top_cards:
 - name: Ghost Quarter
   weight: 0.2857
   avg_copies: 2.0
-- name: Murderous Cut
+- name: Damnation
   weight: 0.2857
   avg_copies: 1.0
-- name: Damnation
+- name: Murderous Cut
   weight: 0.2857
   avg_copies: 1.0
 - name: Profane Memento
   weight: 0.2143
   avg_copies: 2.0
-- name: Feed the Cycle
-  weight: 0.2143
-  avg_copies: 1.0
-- name: Echoing Truth
+- name: Cephalid Coliseum
   weight: 0.2143
   avg_copies: 1.0
 - name: Mikokoro, Center of the Sea
   weight: 0.2143
   avg_copies: 1.0
-- name: Cephalid Coliseum
+- name: Echoing Truth
   weight: 0.2143
   avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.1429
-  avg_copies: 2.0
+- name: Feed the Cycle
+  weight: 0.2143
+  avg_copies: 1.0
 - name: Kitsune's Technique
   weight: 0.1429
   avg_copies: 2.0
-- name: Nihil Spellbomb
+- name: Tamiyo, Inquisitive Student
+  weight: 0.1429
+  avg_copies: 2.0
+- name: Force of Negation
   weight: 0.1429
   avg_copies: 1.5
 - name: Damping Sphere
   weight: 0.1429
   avg_copies: 1.5
-- name: Force of Negation
+- name: Nihil Spellbomb
   weight: 0.1429
   avg_copies: 1.5
-- name: Ashiok, Dream Render
+- name: Go for the Throat
   weight: 0.1429
   avg_copies: 1.0
-- name: Go for the Throat
+- name: Ashiok, Dream Render
   weight: 0.1429
   avg_copies: 1.0
 - name: Long Goodbye
   weight: 0.1429
   avg_copies: 1.0
-- name: Erode
-  weight: 0.0714
-  avg_copies: 4.0
-- name: White Orchid Phantom
-  weight: 0.0714
-  avg_copies: 4.0
 - name: Trapmaker's Snare
   weight: 0.0714
   avg_copies: 4.0
 - name: Path to Exile
   weight: 0.0714
   avg_copies: 4.0
+- name: Erode
+  weight: 0.0714
+  avg_copies: 4.0
+- name: White Orchid Phantom
+  weight: 0.0714
+  avg_copies: 4.0
+- name: Meltdown
+  weight: 0.0714
+  avg_copies: 2.0
 - name: Flare of Denial
+  weight: 0.0714
+  avg_copies: 2.0
+- name: Vendetta
   weight: 0.0714
   avg_copies: 2.0
 - name: Chalice of the Void
@@ -192,13 +198,10 @@ top_cards:
 - name: Spell Snare
   weight: 0.0714
   avg_copies: 2.0
-- name: Meltdown
+- name: Plains
   weight: 0.0714
-  avg_copies: 2.0
-- name: Vendetta
-  weight: 0.0714
-  avg_copies: 2.0
-- name: Ravenous Trap
+  avg_copies: 1.0
+- name: Illness in the Ranks
   weight: 0.0714
   avg_copies: 1.0
 - name: Hallowed Fountain
@@ -207,25 +210,22 @@ top_cards:
 - name: Darkslick Shores
   weight: 0.0714
   avg_copies: 1.0
-- name: Steam Vents
+- name: Meticulous Archive
   weight: 0.0714
   avg_copies: 1.0
-- name: Illness in the Ranks
+- name: Mindbreak Trap
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Ravenous Trap
   weight: 0.0714
   avg_copies: 1.0
 - name: Subtlety
   weight: 0.0714
   avg_copies: 1.0
+- name: Steam Vents
+  weight: 0.0714
+  avg_copies: 1.0
 - name: Requiting Hex
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Plains
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Mindbreak Trap
   weight: 0.0714
   avg_copies: 1.0
 ---

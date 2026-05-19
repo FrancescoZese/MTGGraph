@@ -10,10 +10,10 @@ type: Creature — Ouphe
 meta_presence: 0.0528
 archetypes:
   amulet-titan:
-    weight: 0.5057
+    weight: 0.5056
     avg_copies: 1.0
   goryo:
-    weight: 0.0118
+    weight: 0.0116
     avg_copies: 2.0
   living-end:
     weight: 0.0204
@@ -28,7 +28,7 @@ archetypes:
     weight: 0.2381
     avg_copies: 1.0
   dredge:
-    weight: 0.4286
+    weight: 0.4
     avg_copies: 2.17
   elves:
     weight: 1.0

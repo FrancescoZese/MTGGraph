@@ -6,7 +6,7 @@ name: Wastes
 scryfall_id: baf8f4f2-9f25-4cd2-8d78-1041e134aeac
 set: eoc
 type: Basic Land
-meta_presence: 0.0253
+meta_presence: 0.0251
 archetypes:
   eldrazi-tron:
     weight: 0.6

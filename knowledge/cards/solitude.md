@@ -10,7 +10,7 @@ type: Creature — Elemental Incarnation
 meta_presence: 0.1942
 archetypes:
   boros-energy:
-    weight: 0.0759
+    weight: 0.0755
     avg_copies: 1.15
   jeskai-energy:
     weight: 1.0
@@ -19,7 +19,7 @@ archetypes:
     weight: 0.0125
     avg_copies: 4.0
   goryo:
-    weight: 0.9765
+    weight: 0.9767
     avg_copies: 3.82
   azorius-control:
     weight: 1.0

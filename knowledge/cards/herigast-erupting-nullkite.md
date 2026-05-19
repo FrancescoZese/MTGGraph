@@ -9,6 +9,6 @@ type: Legendary Creature — Eldrazi Dragon
 meta_presence: 0.0018
 archetypes:
   eldrazi-ramp:
-    weight: 0.0755
+    weight: 0.0741
     avg_copies: 1.5
 ---

@@ -25,7 +25,7 @@ archetypes:
     weight: 0.375
     avg_copies: 4.0
   dredge:
-    weight: 0.9286
+    weight: 0.9333
     avg_copies: 4.0
   eldrazi-breach:
     weight: 0.25

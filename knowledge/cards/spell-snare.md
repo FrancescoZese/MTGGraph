@@ -16,13 +16,13 @@ archetypes:
     weight: 0.9877
     avg_copies: 2.46
   mono-blue-belcher:
-    weight: 0.9091
-    avg_copies: 1.81
+    weight: 0.8913
+    avg_copies: 1.82
   jeskai-energy:
     weight: 0.1719
     avg_copies: 1.07
   goryo:
-    weight: 0.1529
+    weight: 0.1628
     avg_copies: 1.12
   azorius-control:
     weight: 0.8125
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.4286
     avg_copies: 1.5
   affinity:
-    weight: 0.0085
+    weight: 0.0084
     avg_copies: 1.0
   mill:
     weight: 0.0714
@@ -40,7 +40,7 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0714
+    weight: 0.0698
     avg_copies: 1.67
   mono-blue-tron:
     weight: 0.8889

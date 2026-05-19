@@ -6,10 +6,10 @@ name: 'Unknown #47'
 meta_share: 0.0031
 list_count: 7
 top_cards:
-- name: Psychic Frog
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Polluted Delta
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Fatal Push
@@ -48,10 +48,10 @@ top_cards:
 - name: Cling to Dust
   weight: 1.0
   avg_copies: 2.0
-- name: Island
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 1.86
-- name: Sink into Stupor
+- name: Island
   weight: 1.0
   avg_copies: 1.86
 - name: Spell Snare
@@ -75,10 +75,10 @@ top_cards:
 - name: Kaito, Bane of Nightmares
   weight: 0.8571
   avg_copies: 1.57
-- name: Darkslick Shores
+- name: Toxic Deluge
   weight: 0.8571
   avg_copies: 1.0
-- name: Toxic Deluge
+- name: Darkslick Shores
   weight: 0.8571
   avg_copies: 1.0
 - name: Force of Despair
@@ -111,34 +111,34 @@ top_cards:
 - name: Otawara, Soaring City
   weight: 0.2857
   avg_copies: 1.0
-- name: Misty Rainforest
+- name: Preordain
   weight: 0.1429
   avg_copies: 4.0
-- name: Preordain
+- name: Misty Rainforest
   weight: 0.1429
   avg_copies: 4.0
 - name: Flow State
   weight: 0.1429
   avg_copies: 3.0
-- name: Nihil Spellbomb
+- name: Stern Scolding
   weight: 0.1429
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Nihil Spellbomb
   weight: 0.1429
   avg_copies: 2.0
 - name: Wan Shi Tong, Librarian
   weight: 0.1429
   avg_copies: 2.0
-- name: Stern Scolding
+- name: Damping Sphere
   weight: 0.1429
   avg_copies: 2.0
 - name: The Meathook Massacre
   weight: 0.1429
   avg_copies: 1.0
-- name: Snapcaster Mage
+- name: Ghost Vacuum
   weight: 0.1429
   avg_copies: 1.0
-- name: Ghost Vacuum
+- name: Snapcaster Mage
   weight: 0.1429
   avg_copies: 1.0
 - name: River of Tears

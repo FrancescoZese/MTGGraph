@@ -6,7 +6,7 @@ name: Pithing Needle
 scryfall_id: 776899f8-e977-42b7-8b54-6f726a349e3c
 set: 2x2
 type: Artifact
-meta_presence: 0.1366
+meta_presence: 0.1369
 archetypes:
   eldrazi-tron:
     weight: 0.05
@@ -15,13 +15,13 @@ archetypes:
     weight: 0.75
     avg_copies: 1.0
   affinity:
-    weight: 0.9021
+    weight: 0.9034
     avg_copies: 1.0
   hammer-time:
     weight: 0.5
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0755
+    weight: 0.0741
     avg_copies: 1.0
   izzet-prowess:
     weight: 0.0098

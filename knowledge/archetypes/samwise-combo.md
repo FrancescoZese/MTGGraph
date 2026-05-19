@@ -5,28 +5,28 @@ colors:
 - B
 - G
 name: Samwise Combo
-meta_share: 0.0093
+meta_share: 0.0092
 list_count: 21
 top_cards:
-- name: Cauldron Familiar
-  weight: 1.0
-  avg_copies: 4.0
-- name: Birthing Ritual
-  weight: 1.0
-  avg_copies: 4.0
 - name: Samwise Gamgee
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cauldron Familiar
   weight: 1.0
   avg_copies: 4.0
 - name: Gilded Goose
   weight: 1.0
   avg_copies: 4.0
+- name: Birthing Ritual
+  weight: 1.0
+  avg_copies: 4.0
 - name: Windswept Heath
   weight: 1.0
   avg_copies: 3.86
-- name: Chord of Calling
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 3.81
-- name: Verdant Catacombs
+- name: Chord of Calling
   weight: 1.0
   avg_copies: 3.81
 - name: Carrion Feeder
@@ -50,13 +50,13 @@ top_cards:
 - name: Forest
   weight: 1.0
   avg_copies: 1.05
-- name: Godless Shrine
+- name: Lush Portico
   weight: 1.0
   avg_copies: 1.0
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
-- name: Lush Portico
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
 - name: Young Wolf
@@ -122,10 +122,10 @@ top_cards:
 - name: High Noon
   weight: 0.381
   avg_copies: 1.88
-- name: Wooded Foothills
+- name: Ruthless Lawbringer
   weight: 0.381
   avg_copies: 1.0
-- name: Ruthless Lawbringer
+- name: Wooded Foothills
   weight: 0.381
   avg_copies: 1.0
 - name: Lavinia, Azorius Renegade
@@ -158,10 +158,10 @@ top_cards:
 - name: Marionette Apprentice
   weight: 0.1905
   avg_copies: 1.75
-- name: Swamp
+- name: Dawnbringer Cleric
   weight: 0.1905
   avg_copies: 1.0
-- name: Dawnbringer Cleric
+- name: Swamp
   weight: 0.1905
   avg_copies: 1.0
 - name: Abrupt Decay
@@ -182,55 +182,55 @@ top_cards:
 - name: Mana Confluence
   weight: 0.0952
   avg_copies: 1.5
-- name: Path to Exile
-  weight: 0.0952
-  avg_copies: 1.5
 - name: Moseo, Vein's New Dean
   weight: 0.0952
   avg_copies: 1.5
-- name: Seam Rip
+- name: Path to Exile
   weight: 0.0952
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Pile On
   weight: 0.0952
   avg_copies: 1.0
 - name: Mistcaller
   weight: 0.0952
   avg_copies: 1.0
+- name: Seam Rip
+  weight: 0.0952
+  avg_copies: 1.0
 - name: Delighted Halfling
   weight: 0.0476
   avg_copies: 3.0
-- name: Assassin's Trophy
-  weight: 0.0476
-  avg_copies: 2.0
 - name: Green Sun's Zenith
-  weight: 0.0476
-  avg_copies: 2.0
-- name: Dewdrop Cure
-  weight: 0.0476
-  avg_copies: 2.0
-- name: Haliya, Guided by Light
   weight: 0.0476
   avg_copies: 2.0
 - name: Professor Dellian Fel
   weight: 0.0476
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Haliya, Guided by Light
   weight: 0.0476
-  avg_copies: 1.0
-- name: Drannith Magistrate
+  avg_copies: 2.0
+- name: Dewdrop Cure
   weight: 0.0476
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: Assassin's Trophy
+  weight: 0.0476
+  avg_copies: 2.0
 - name: Renegade Rallier
   weight: 0.0476
   avg_copies: 1.0
 - name: Formidable Speaker
   weight: 0.0476
   avg_copies: 1.0
-- name: Icetill Explorer
+- name: Drannith Magistrate
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Damping Sphere
   weight: 0.0476
   avg_copies: 1.0
 - name: Veil of Summer
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Icetill Explorer
   weight: 0.0476
   avg_copies: 1.0
 ---

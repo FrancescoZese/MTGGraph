@@ -6,16 +6,16 @@ name: Sink into Stupor // Soporific Springs
 scryfall_id: 5358b87a-1a29-426d-b165-40c97da2c14d
 set: mh3
 type: Instant // Land
-meta_presence: 0.2239
+meta_presence: 0.2237
 archetypes:
   dimir-control:
     weight: 0.5679
     avg_copies: 1.85
   mono-blue-belcher:
     weight: 1.0
-    avg_copies: 3.95
+    avg_copies: 3.96
   goryo:
-    weight: 0.0824
+    weight: 0.0814
     avg_copies: 1.0
   azorius-control:
     weight: 0.125
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.0357
     avg_copies: 1.0
   affinity:
-    weight: 0.8936
+    weight: 0.8866
     avg_copies: 2.14
   mill:
     weight: 0.3571

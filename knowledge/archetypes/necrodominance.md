@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: Necrodominance
-meta_share: 0.012
+meta_share: 0.0119
 list_count: 27
 top_cards:
 - name: Swamp
@@ -105,19 +105,19 @@ top_cards:
 - name: Damnation
   weight: 0.1481
   avg_copies: 1.0
-- name: Marsh Flats
+- name: Duress
   weight: 0.1111
   avg_copies: 1.33
-- name: Duress
+- name: Marsh Flats
   weight: 0.1111
   avg_copies: 1.33
 - name: Psychic Frog
   weight: 0.0741
   avg_copies: 4.0
-- name: Sorin, Imperious Bloodlord
+- name: Vein Ripper
   weight: 0.0741
   avg_copies: 4.0
-- name: Vein Ripper
+- name: Sorin, Imperious Bloodlord
   weight: 0.0741
   avg_copies: 4.0
 - name: Watery Grave
@@ -132,13 +132,13 @@ top_cards:
 - name: Long Goodbye
   weight: 0.0741
   avg_copies: 2.0
+- name: Disruptor Flute
+  weight: 0.0741
+  avg_copies: 1.5
 - name: Toxic Deluge
   weight: 0.0741
   avg_copies: 1.5
 - name: The Filigree Sylex
-  weight: 0.0741
-  avg_copies: 1.5
-- name: Disruptor Flute
   weight: 0.0741
   avg_copies: 1.5
 - name: Legion's End
@@ -150,13 +150,13 @@ top_cards:
 - name: Iridescent Vinelasher
   weight: 0.037
   avg_copies: 4.0
-- name: Requiting Hex
+- name: Gonti's Machinations
   weight: 0.037
   avg_copies: 4.0
 - name: Sign in Blood
   weight: 0.037
   avg_copies: 4.0
-- name: Gonti's Machinations
+- name: Requiting Hex
   weight: 0.037
   avg_copies: 4.0
 - name: Mystical Dispute
@@ -165,22 +165,13 @@ top_cards:
 - name: Quantum Riddler
   weight: 0.037
   avg_copies: 3.0
-- name: Culling Ritual
-  weight: 0.037
-  avg_copies: 2.0
-- name: Necromentia
+- name: Witherbloom Command
   weight: 0.037
   avg_copies: 2.0
 - name: Wrench Mind
   weight: 0.037
   avg_copies: 2.0
-- name: Witherbloom Command
-  weight: 0.037
-  avg_copies: 2.0
-- name: Pillage the Bog
-  weight: 0.037
-  avg_copies: 2.0
-- name: Hurkyl's Recall
+- name: Meltdown
   weight: 0.037
   avg_copies: 2.0
 - name: End of the Hunt
@@ -189,40 +180,49 @@ top_cards:
 - name: Phyrexian Crusader
   weight: 0.037
   avg_copies: 2.0
-- name: Mai, Scornful Striker
-  weight: 0.037
-  avg_copies: 2.0
-- name: Meltdown
-  weight: 0.037
-  avg_copies: 2.0
 - name: Overgrown Tomb
   weight: 0.037
   avg_copies: 2.0
-- name: Blood Crypt
+- name: Hurkyl's Recall
   weight: 0.037
-  avg_copies: 1.0
-- name: Kaito, Bane of Nightmares
+  avg_copies: 2.0
+- name: Culling Ritual
   weight: 0.037
-  avg_copies: 1.0
-- name: Underground Mortuary
+  avg_copies: 2.0
+- name: Mai, Scornful Striker
   weight: 0.037
-  avg_copies: 1.0
-- name: Nurturing Peatland
+  avg_copies: 2.0
+- name: Pillage the Bog
   weight: 0.037
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: Necromentia
+  weight: 0.037
+  avg_copies: 2.0
 - name: Shizo, Death's Storehouse
   weight: 0.037
   avg_copies: 1.0
 - name: Decorum Dissertation
   weight: 0.037
   avg_copies: 1.0
-- name: Cling to Dust
+- name: Kaito, Bane of Nightmares
+  weight: 0.037
+  avg_copies: 1.0
+- name: Nurturing Peatland
+  weight: 0.037
+  avg_copies: 1.0
+- name: Blood Crypt
+  weight: 0.037
+  avg_copies: 1.0
+- name: Pick Your Poison
+  weight: 0.037
+  avg_copies: 1.0
+- name: Underground Mortuary
   weight: 0.037
   avg_copies: 1.0
 - name: Raucous Theater
   weight: 0.037
   avg_copies: 1.0
-- name: Pick Your Poison
+- name: Cling to Dust
   weight: 0.037
   avg_copies: 1.0
 ---

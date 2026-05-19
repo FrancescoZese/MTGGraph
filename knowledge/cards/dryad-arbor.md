@@ -10,7 +10,7 @@ type: Land Creature — Forest Dryad
 meta_presence: 0.0528
 archetypes:
   amulet-titan:
-    weight: 0.5287
+    weight: 0.5281
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0

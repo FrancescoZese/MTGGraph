@@ -7,7 +7,7 @@ archetypes:
     weight: 0.9875
     avg_copies: 1.9
   amulet-titan:
-    weight: 0.977
+    weight: 0.9775
     avg_copies: 2.33
   hardened-scales:
     weight: 1.0
@@ -22,7 +22,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   eldrazi-ramp:
-    weight: 0.1321
+    weight: 0.1296
     avg_copies: 1.86
   simic-ritual:
     weight: 0.42

@@ -12,7 +12,7 @@ archetypes:
     weight: 0.9429
     avg_copies: 2.33
   amulet-titan:
-    weight: 0.0575
+    weight: 0.0562
     avg_copies: 1.0
   domain-zoo:
     weight: 1.0
@@ -21,7 +21,7 @@ archetypes:
     weight: 0.1111
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.6429
+    weight: 0.6512
     avg_copies: 1.0
   burn:
     weight: 1.0
@@ -33,7 +33,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.1
   eldrazi-ramp:
-    weight: 0.8868
+    weight: 0.8889
     avg_copies: 1.17
   simic-ritual:
     weight: 0.08
@@ -51,8 +51,8 @@ archetypes:
     weight: 0.359
     avg_copies: 1.07
   dredge:
-    weight: 0.5714
-    avg_copies: 3.12
+    weight: 0.6
+    avg_copies: 3.11
   elves:
     weight: 1.0
     avg_copies: 1.0

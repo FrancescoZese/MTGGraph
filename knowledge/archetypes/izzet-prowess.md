@@ -3,7 +3,7 @@ colors:
 - U
 - R
 name: Izzet Prowess
-meta_share: 0.0452
+meta_share: 0.0449
 list_count: 102
 top_cards:
 - name: Cori-Steel Cutter
@@ -117,10 +117,10 @@ top_cards:
 - name: Flow State
   weight: 0.1078
   avg_copies: 2.27
-- name: Firebending Lesson
+- name: It'll Quench Ya!
   weight: 0.1078
   avg_copies: 1.0
-- name: It'll Quench Ya!
+- name: Firebending Lesson
   weight: 0.1078
   avg_copies: 1.0
 - name: Flashback
@@ -138,10 +138,10 @@ top_cards:
 - name: Founding the Third Path
   weight: 0.0686
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Obsidian Charmaw
   weight: 0.0686
   avg_copies: 1.86
-- name: Obsidian Charmaw
+- name: Vexing Bauble
   weight: 0.0686
   avg_copies: 1.86
 - name: Blood Moon
@@ -180,49 +180,49 @@ top_cards:
 - name: Redirect Lightning
   weight: 0.0392
   avg_copies: 1.0
-- name: Arclight Phoenix
+- name: Faithless Looting
   weight: 0.0294
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Arclight Phoenix
   weight: 0.0294
   avg_copies: 4.0
 - name: Thoughtseize
   weight: 0.0294
   avg_copies: 3.0
-- name: Misty Rainforest
-  weight: 0.0294
-  avg_copies: 2.0
 - name: Assault Strobe
   weight: 0.0294
   avg_copies: 2.0
-- name: Gut Shot
+- name: Misty Rainforest
   weight: 0.0294
-  avg_copies: 1.33
+  avg_copies: 2.0
 - name: Island
   weight: 0.0294
   avg_copies: 1.33
-- name: Blood Crypt
+- name: Gut Shot
+  weight: 0.0294
+  avg_copies: 1.33
+- name: Sacred Foundry
   weight: 0.0294
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Blood Crypt
   weight: 0.0294
   avg_copies: 1.0
 - name: Hurkyl's Recall
   weight: 0.0196
   avg_copies: 2.0
-- name: Alpine Moon
+- name: Wear
   weight: 0.0196
   avg_copies: 1.5
-- name: Wear
+- name: Alpine Moon
   weight: 0.0196
   avg_copies: 1.5
 - name: True Ancestry
   weight: 0.0196
   avg_copies: 1.0
-- name: Manamorphose
+- name: Searing Blaze
   weight: 0.0098
   avg_copies: 4.0
-- name: Searing Blaze
+- name: Manamorphose
   weight: 0.0098
   avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
@@ -237,49 +237,49 @@ top_cards:
 - name: Thraben Charm
   weight: 0.0098
   avg_copies: 3.0
-- name: Bedlam Reveler
-  weight: 0.0098
-  avg_copies: 2.0
 - name: Siege Smash
   weight: 0.0098
   avg_copies: 2.0
-- name: Pithing Needle
+- name: Bedlam Reveler
   weight: 0.0098
-  avg_copies: 1.0
-- name: Combustion Technique
-  weight: 0.0098
-  avg_copies: 1.0
-- name: Grafdigger's Cage
+  avg_copies: 2.0
+- name: Riverpyre Verge
   weight: 0.0098
   avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 0.0098
   avg_copies: 1.0
-- name: Stern Scolding
+- name: Polluted Delta
+  weight: 0.0098
+  avg_copies: 1.0
+- name: Combustion Technique
+  weight: 0.0098
+  avg_copies: 1.0
+- name: Pithing Needle
+  weight: 0.0098
+  avg_copies: 1.0
+- name: Grafdigger's Cage
+  weight: 0.0098
+  avg_copies: 1.0
+- name: The Legend of Roku
+  weight: 0.0098
+  avg_copies: 1.0
+- name: Flooded Strand
   weight: 0.0098
   avg_copies: 1.0
 - name: Sink into Stupor
   weight: 0.0098
   avg_copies: 1.0
-- name: The Legend of Roku
+- name: Lightning Axe
+  weight: 0.0098
+  avg_copies: 1.0
+- name: Stern Scolding
   weight: 0.0098
   avg_copies: 1.0
 - name: Ral, Crackling Wit
   weight: 0.0098
   avg_copies: 1.0
 - name: Shatterstorm
-  weight: 0.0098
-  avg_copies: 1.0
-- name: Flooded Strand
-  weight: 0.0098
-  avg_copies: 1.0
-- name: Lightning Axe
-  weight: 0.0098
-  avg_copies: 1.0
-- name: Polluted Delta
-  weight: 0.0098
-  avg_copies: 1.0
-- name: Riverpyre Verge
   weight: 0.0098
   avg_copies: 1.0
 ---

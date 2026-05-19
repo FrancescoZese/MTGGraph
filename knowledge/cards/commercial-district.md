@@ -12,16 +12,16 @@ archetypes:
     weight: 0.5286
     avg_copies: 1.03
   amulet-titan:
-    weight: 0.0575
+    weight: 0.0562
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0238
+    weight: 0.0233
     avg_copies: 1.0
   hollow-one:
     weight: 0.0769
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.9057
+    weight: 0.9074
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.125
@@ -30,7 +30,7 @@ archetypes:
     weight: 0.4615
     avg_copies: 1.0
   dredge:
-    weight: 0.5714
+    weight: 0.5333
     avg_copies: 1.0
   scapeshift-combo:
     weight: 0.5

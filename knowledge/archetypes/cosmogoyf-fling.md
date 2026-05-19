@@ -13,10 +13,10 @@ top_cards:
 - name: Plunge into Darkness
   weight: 1.0
   avg_copies: 4.0
-- name: Spoils of the Vault
+- name: Gemstone Caverns
   weight: 1.0
   avg_copies: 3.89
-- name: Gemstone Caverns
+- name: Spoils of the Vault
   weight: 1.0
   avg_copies: 3.89
 - name: Blackcleave Cliffs

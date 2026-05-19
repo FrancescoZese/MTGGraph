@@ -6,7 +6,7 @@ colors:
 - R
 - G
 name: Domain Zoo
-meta_share: 0.0315
+meta_share: 0.0313
 list_count: 71
 top_cards:
 - name: Leyline of the Guildpact
@@ -42,13 +42,13 @@ top_cards:
 - name: Wear
   weight: 1.0
   avg_copies: 1.65
-- name: Indatha Triome
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 - name: Plains
   weight: 1.0
   avg_copies: 1.0
-- name: Temple Garden
+- name: Indatha Triome
   weight: 1.0
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
@@ -72,10 +72,10 @@ top_cards:
 - name: Godless Shrine
   weight: 0.9718
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Mountain
   weight: 0.9577
   avg_copies: 1.0
-- name: Mountain
+- name: Thundering Falls
   weight: 0.9577
   avg_copies: 1.0
 - name: Doorkeeper Thrull
@@ -150,19 +150,19 @@ top_cards:
 - name: Tribal Flames
   weight: 0.0141
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Aurora Awakener
+  weight: 0.0141
+  avg_copies: 4.0
+- name: Persist
   weight: 0.0141
   avg_copies: 4.0
 - name: Faithless Looting
   weight: 0.0141
   avg_copies: 4.0
+- name: Psychic Frog
+  weight: 0.0141
+  avg_copies: 4.0
 - name: Archon of Cruelty
-  weight: 0.0141
-  avg_copies: 4.0
-- name: Aurora Awakener
-  weight: 0.0141
-  avg_copies: 4.0
-- name: Persist
   weight: 0.0141
   avg_copies: 4.0
 - name: Summoning Trap
@@ -177,9 +177,6 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.0141
   avg_copies: 1.0
-- name: Raucous Theater
-  weight: 0.0141
-  avg_copies: 1.0
 - name: Vexing Bauble
   weight: 0.0141
   avg_copies: 1.0
@@ -189,10 +186,13 @@ top_cards:
 - name: Glasspool Mimic
   weight: 0.0141
   avg_copies: 1.0
+- name: Sacred Ground
+  weight: 0.0141
+  avg_copies: 1.0
 - name: Breeding Pool
   weight: 0.0141
   avg_copies: 1.0
-- name: Sacred Ground
+- name: Raucous Theater
   weight: 0.0141
   avg_copies: 1.0
 ---

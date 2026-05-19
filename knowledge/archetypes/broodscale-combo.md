@@ -2,22 +2,22 @@
 colors:
 - G
 name: Broodscale Combo
-meta_share: 0.0173
+meta_share: 0.0172
 list_count: 39
 top_cards:
-- name: Kozilek's Command
+- name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
-- name: Malevolent Rumble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Eldrazi Temple
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Basking Broodscale
+  weight: 1.0
+  avg_copies: 4.0
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
 - name: Glaring Fleshraker
@@ -155,37 +155,46 @@ top_cards:
 - name: Formidable Speaker
   weight: 0.0256
   avg_copies: 3.0
-- name: Darksteel Citadel
-  weight: 0.0256
-  avg_copies: 3.0
 - name: Mox Opal
   weight: 0.0256
   avg_copies: 3.0
-- name: Snakeskin Veil
+- name: Darksteel Citadel
   weight: 0.0256
-  avg_copies: 2.0
-- name: Idol of False Gods
-  weight: 0.0256
-  avg_copies: 2.0
-- name: Apostle's Blessing
+  avg_copies: 3.0
+- name: Torpor Orb
   weight: 0.0256
   avg_copies: 2.0
 - name: Heroic Intervention
   weight: 0.0256
   avg_copies: 2.0
-- name: Traverse the Ulvenwald
+- name: Idol of False Gods
   weight: 0.0256
   avg_copies: 2.0
-- name: Torpor Orb
+- name: Snakeskin Veil
   weight: 0.0256
   avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.0256
   avg_copies: 2.0
-- name: Bojuka Bog
+- name: Traverse the Ulvenwald
+  weight: 0.0256
+  avg_copies: 2.0
+- name: Apostle's Blessing
+  weight: 0.0256
+  avg_copies: 2.0
+- name: Snow-Covered Wastes
   weight: 0.0256
   avg_copies: 1.0
-- name: Agatha's Soul Cauldron
+- name: Ghost Quarter
+  weight: 0.0256
+  avg_copies: 1.0
+- name: Shifting Woodland
+  weight: 0.0256
+  avg_copies: 1.0
+- name: Mutagenic Growth
+  weight: 0.0256
+  avg_copies: 1.0
+- name: Shadowspear
   weight: 0.0256
   avg_copies: 1.0
 - name: Tunnel Ignus
@@ -194,19 +203,10 @@ top_cards:
 - name: Revitalizing Repast
   weight: 0.0256
   avg_copies: 1.0
-- name: Ghost Quarter
+- name: Bojuka Bog
   weight: 0.0256
   avg_copies: 1.0
-- name: Mutagenic Growth
-  weight: 0.0256
-  avg_copies: 1.0
-- name: Shifting Woodland
-  weight: 0.0256
-  avg_copies: 1.0
-- name: Shadowspear
-  weight: 0.0256
-  avg_copies: 1.0
-- name: Snow-Covered Wastes
+- name: Agatha's Soul Cauldron
   weight: 0.0256
   avg_copies: 1.0
 ---

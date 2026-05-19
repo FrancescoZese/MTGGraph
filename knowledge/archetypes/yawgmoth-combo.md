@@ -3,7 +3,7 @@ colors:
 - B
 - G
 name: Yawgmoth Combo
-meta_share: 0.0133
+meta_share: 0.0132
 list_count: 30
 top_cards:
 - name: Verdant Catacombs
@@ -15,10 +15,10 @@ top_cards:
 - name: Delighted Halfling
   weight: 1.0
   avg_copies: 3.87
-- name: Badgermole Cub
+- name: Young Wolf
   weight: 1.0
   avg_copies: 3.73
-- name: Young Wolf
+- name: Badgermole Cub
   weight: 1.0
   avg_copies: 3.73
 - name: Yawgmoth, Thran Physician
@@ -66,6 +66,9 @@ top_cards:
 - name: Formidable Speaker
   weight: 1.0
   avg_copies: 1.1
+- name: Strangleroot Geist
+  weight: 1.0
+  avg_copies: 1.0
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
@@ -73,9 +76,6 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Endurance
-  weight: 1.0
-  avg_copies: 1.0
-- name: Strangleroot Geist
   weight: 1.0
   avg_copies: 1.0
 - name: Soulless Jailer
@@ -141,16 +141,16 @@ top_cards:
 - name: Assassin's Trophy
   weight: 0.0667
   avg_copies: 1.0
-- name: Creeping Corrosion
-  weight: 0.0333
-  avg_copies: 1.0
 - name: Sylvan Safekeeper
   weight: 0.0333
   avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Murderous Cut
   weight: 0.0333
   avg_copies: 1.0
-- name: Murderous Cut
+- name: Creeping Corrosion
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Nurturing Peatland
   weight: 0.0333
   avg_copies: 1.0
 ---

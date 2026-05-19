@@ -10,6 +10,6 @@ type: Creature — Archon
 meta_presence: 0.0013
 archetypes:
   boros-ponza:
-    weight: 0.039
+    weight: 0.038
     avg_copies: 1.67
 ---
