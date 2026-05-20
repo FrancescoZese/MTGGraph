@@ -7,9 +7,9 @@ name: Wonder
 scryfall_id: 567abd78-d4a3-4a33-9b5b-b5ca361059cc
 set: tdc
 type: Creature — Incarnation
-meta_presence: 0.0009
+meta_presence: 0.0008
 archetypes:
   dredge:
-    weight: 0.1333
+    weight: 0.125
     avg_copies: 1.0
 ---

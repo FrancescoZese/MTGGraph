@@ -6,16 +6,16 @@ name: Cityscape Leveler
 scryfall_id: 67a87278-4c82-4056-8354-253d86b0ef3d
 set: bro
 type: Artifact Creature — Construct
-meta_presence: 0.0365
+meta_presence: 0.0369
 archetypes:
   eldrazi-tron:
-    weight: 0.925
+    weight: 0.9186
     avg_copies: 1.0
   mono-blue-tron:
-    weight: 0.2222
+    weight: 0.2
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 1.0
   unknown-48:
     weight: 1.0

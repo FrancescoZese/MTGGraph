@@ -4,13 +4,13 @@ colors:
 - R
 - G
 name: Cosmogoyf Fling
-meta_share: 0.0084
+meta_share: 0.008
 list_count: 19
 top_cards:
-- name: Thud
+- name: Plunge into Darkness
   weight: 1.0
   avg_copies: 4.0
-- name: Plunge into Darkness
+- name: Thud
   weight: 1.0
   avg_copies: 4.0
 - name: Gemstone Caverns

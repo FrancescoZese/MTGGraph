@@ -2,25 +2,25 @@
 colors:
 - G
 name: Hardened Scales
-meta_share: 0.0018
+meta_share: 0.0017
 list_count: 4
 top_cards:
-- name: Zabaz, the Glimmerwasp
-  weight: 1.0
-  avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
-- name: Inkmoth Nexus
+- name: Zabaz, the Glimmerwasp
+  weight: 1.0
+  avg_copies: 4.0
+- name: Walking Ballista
   weight: 1.0
   avg_copies: 4.0
 - name: Arcbound Ravager
   weight: 1.0
   avg_copies: 4.0
-- name: Hardened Scales
+- name: Inkmoth Nexus
   weight: 1.0
   avg_copies: 4.0
-- name: Walking Ballista
+- name: Hardened Scales
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Opal
@@ -44,10 +44,10 @@ top_cards:
 - name: Arcbound Worker
   weight: 1.0
   avg_copies: 2.0
-- name: Welding Jar
+- name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.75
-- name: Boseiju, Who Endures
+- name: Welding Jar
   weight: 1.0
   avg_copies: 1.75
 - name: Dismember
@@ -77,13 +77,13 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.75
   avg_copies: 1.25
+- name: Pendelhaven
+  weight: 0.75
+  avg_copies: 1.0
 - name: Veil of Summer
   weight: 0.75
   avg_copies: 1.0
 - name: Pithing Needle
-  weight: 0.75
-  avg_copies: 1.0
-- name: Pendelhaven
   weight: 0.75
   avg_copies: 1.0
 - name: Strength of Will
@@ -122,13 +122,13 @@ top_cards:
 - name: Bridgeworks Battle
   weight: 0.25
   avg_copies: 1.0
-- name: Shadowspear
+- name: Scrapyard Recombiner
   weight: 0.25
   avg_copies: 1.0
 - name: Skateboard
   weight: 0.25
   avg_copies: 1.0
-- name: Scrapyard Recombiner
+- name: Shadowspear
   weight: 0.25
   avg_copies: 1.0
 ---

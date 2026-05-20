@@ -10,6 +10,6 @@ type: Sorcery — Lesson
 meta_presence: 0.0004
 archetypes:
   unknown-45:
-    weight: 0.1111
+    weight: 0.0833
     avg_copies: 1.0
 ---

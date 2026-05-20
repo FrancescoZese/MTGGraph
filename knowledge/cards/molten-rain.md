@@ -7,13 +7,13 @@ name: Molten Rain
 scryfall_id: ecdd414b-3d9d-4347-acce-289209d09fc4
 set: mm3
 type: Sorcery
-meta_presence: 0.0057
+meta_presence: 0.0059
 archetypes:
   boros-energy:
-    weight: 0.026
+    weight: 0.0256
     avg_copies: 2.1
   burn:
-    weight: 0.2857
+    weight: 0.3
     avg_copies: 1.0
   jund-saga:
     weight: 1.0

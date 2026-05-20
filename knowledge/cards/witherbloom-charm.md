@@ -8,14 +8,14 @@ name: Witherbloom Charm
 scryfall_id: 254437f7-7a8a-4b11-9cea-e8e7ea23c59e
 set: sos
 type: Instant
-meta_presence: 0.0048
+meta_presence: 0.0054
 archetypes:
   simic-ritual:
-    weight: 0.02
+    weight: 0.0192
     avg_copies: 2.0
   samwise-combo:
-    weight: 0.1905
-    avg_copies: 1.83
+    weight: 0.25
+    avg_copies: 1.75
   the-rock:
     weight: 0.5
     avg_copies: 2.0

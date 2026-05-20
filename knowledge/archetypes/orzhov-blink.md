@@ -3,16 +3,16 @@ colors:
 - W
 - B
 name: Orzhov Blink
-meta_share: 0.0022
+meta_share: 0.0021
 list_count: 5
 top_cards:
 - name: Witch Enchanter
   weight: 1.0
   avg_copies: 4.0
-- name: Overlord of the Balemurk
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
@@ -75,10 +75,10 @@ top_cards:
 - name: Bleachbone Verge
   weight: 0.8
   avg_copies: 1.75
-- name: Dawnbringer Cleric
+- name: Prismatic Ending
   weight: 0.6
   avg_copies: 2.0
-- name: Prismatic Ending
+- name: Dawnbringer Cleric
   weight: 0.6
   avg_copies: 2.0
 - name: Sheoldred's Edict
@@ -126,10 +126,10 @@ top_cards:
 - name: Elesh Norn, Mother of Machines
   weight: 0.2
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Monumental Henge
   weight: 0.2
   avg_copies: 1.0
-- name: Monumental Henge
+- name: Raucous Theater
   weight: 0.2
   avg_copies: 1.0
 ---

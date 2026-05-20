@@ -7,9 +7,9 @@ name: Does Machines
 scryfall_id: 989da63a-2cbd-41a9-9bbb-99f4ad1c6a25
 set: tmt
 type: Enchantment — Class
-meta_presence: 0.0009
+meta_presence: 0.0008
 archetypes:
   domain-zoo:
-    weight: 0.0282
+    weight: 0.0274
     avg_copies: 1.0
 ---

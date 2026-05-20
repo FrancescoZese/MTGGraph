@@ -9,8 +9,11 @@ set: tla
 type: Sorcery — Lesson
 meta_presence: 0.0163
 archetypes:
+  domain-zoo:
+    weight: 0.0137
+    avg_copies: 1.0
   izzet-prowess:
-    weight: 0.1863
+    weight: 0.1776
     avg_copies: 2.33
   izzet-artifacts:
     weight: 0.5
@@ -21,4 +24,7 @@ archetypes:
   unknown-50:
     weight: 1.0
     avg_copies: 1.0
+  unknown-71:
+    weight: 1.0
+    avg_copies: 4.0
 ---

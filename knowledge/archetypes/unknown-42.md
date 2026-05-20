@@ -2,15 +2,12 @@
 colors:
 - U
 name: 'Unknown #42'
-meta_share: 0.0009
+meta_share: 0.0008
 list_count: 2
 top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 6.5
-- name: Mutavault
-  weight: 1.0
-  avg_copies: 4.0
 - name: Master of the Pearl Trident
   weight: 1.0
   avg_copies: 4.0
@@ -20,16 +17,19 @@ top_cards:
 - name: Tide Shaper
   weight: 1.0
   avg_copies: 4.0
+- name: Mutavault
+  weight: 1.0
+  avg_copies: 4.0
 - name: Silvergill Mentor
   weight: 1.0
   avg_copies: 3.5
+- name: Cavern of Souls
+  weight: 1.0
+  avg_copies: 3.0
 - name: Aether Vial
   weight: 1.0
   avg_copies: 3.0
 - name: Vodalian Hexcatcher
-  weight: 1.0
-  avg_copies: 3.0
-- name: Mindspring Merfolk
   weight: 1.0
   avg_copies: 3.0
 - name: Flare of Denial
@@ -38,25 +38,25 @@ top_cards:
 - name: Subtlety
   weight: 1.0
   avg_copies: 3.0
-- name: Svyelun of Sea and Sky
-  weight: 1.0
-  avg_copies: 3.0
-- name: Cavern of Souls
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 3.0
-- name: Consign to Memory
+- name: Svyelun of Sea and Sky
+  weight: 1.0
+  avg_copies: 3.0
+- name: Mindspring Merfolk
   weight: 1.0
   avg_copies: 3.0
 - name: Force of Negation
   weight: 1.0
   avg_copies: 2.5
-- name: Tishana's Tidebinder
+- name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 2.5
-- name: Harbinger of the Seas
+- name: Tishana's Tidebinder
   weight: 1.0
   avg_copies: 2.5
 - name: Grafdigger's Cage

@@ -10,6 +10,9 @@ top_cards:
 - name: Reprieve
   weight: 1.0
   avg_copies: 4.0
+- name: Wrath of the Skies
+  weight: 1.0
+  avg_copies: 4.0
 - name: Windswept Heath
   weight: 1.0
   avg_copies: 4.0
@@ -20,9 +23,6 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Wrenn and Six
-  weight: 1.0
-  avg_copies: 4.0
-- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 4.0
 - name: Fable of the Mirror-Breaker
@@ -40,76 +40,76 @@ top_cards:
 - name: Surgical Extraction
   weight: 1.0
   avg_copies: 2.0
-- name: Ragavan, Nimble Pilferer
-  weight: 1.0
-  avg_copies: 2.0
-- name: The Legend of Roku
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 2.0
 - name: Prismatic Ending
   weight: 1.0
   avg_copies: 2.0
-- name: Obsidian Charmaw
-  weight: 1.0
-  avg_copies: 2.0
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 2.0
-- name: Wooded Foothills
+- name: Ragavan, Nimble Pilferer
+  weight: 1.0
+  avg_copies: 2.0
+- name: Obsidian Charmaw
+  weight: 1.0
+  avg_copies: 2.0
+- name: The Legend of Roku
   weight: 1.0
   avg_copies: 2.0
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 1.0
 - name: Exorcise
   weight: 1.0
   avg_copies: 1.0
-- name: Commercial District
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
 - name: Lush Portico
   weight: 1.0
   avg_copies: 1.0
-- name: Arid Mesa
-  weight: 1.0
-  avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
-  weight: 1.0
-  avg_copies: 1.0
-- name: Faithless Looting
-  weight: 1.0
-  avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 1.0
-  avg_copies: 1.0
-- name: Chalice of the Void
-  weight: 1.0
-  avg_copies: 1.0
-- name: Shatterstorm
+- name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.0
 - name: Blood Moon
   weight: 1.0
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Six
+  weight: 1.0
+  avg_copies: 1.0
+- name: Faithless Looting
+  weight: 1.0
+  avg_copies: 1.0
+- name: Stomping Ground
+  weight: 1.0
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shatterstorm
+  weight: 1.0
+  avg_copies: 1.0
+- name: Stone Rain
   weight: 1.0
   avg_copies: 1.0
 - name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
-- name: Plains
-  weight: 1.0
-  avg_copies: 1.0
-- name: Six
-  weight: 1.0
-  avg_copies: 1.0
 - name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
-- name: Stone Rain
+- name: Sacred Foundry
+  weight: 1.0
+  avg_copies: 1.0
+- name: Commercial District
+  weight: 1.0
+  avg_copies: 1.0
+- name: Chalice of the Void
   weight: 1.0
   avg_copies: 1.0
 ---

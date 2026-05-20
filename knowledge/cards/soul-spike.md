@@ -7,15 +7,18 @@ name: Soul Spike
 scryfall_id: 4b14b97d-122b-453a-9e5f-129404f96440
 set: csp
 type: Instant
-meta_presence: 0.0128
+meta_presence: 0.013
 archetypes:
   necrodominance:
-    weight: 0.9259
+    weight: 0.9286
     avg_copies: 4.0
   goryo5:
     weight: 1.0
     avg_copies: 4.0
   unknown-46:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-69:
     weight: 1.0
     avg_copies: 4.0
 ---

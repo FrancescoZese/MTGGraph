@@ -9,11 +9,14 @@ type: Land — Cave
 meta_presence: 0.0339
 archetypes:
   boros-ponza:
-    weight: 0.9494
-    avg_copies: 2.37
+    weight: 0.9512
+    avg_copies: 2.4
   unknown-12:
     weight: 1.0
     avg_copies: 2.0
+  unknown-26:
+    weight: 0.3333
+    avg_copies: 4.0
   unknown-48:
     weight: 1.0
     avg_copies: 3.0

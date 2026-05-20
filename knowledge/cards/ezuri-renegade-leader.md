@@ -7,7 +7,7 @@ name: Ezuri, Renegade Leader
 scryfall_id: 8a448dbf-08a1-4145-a4b2-0265cc9f2e53
 set: ddu
 type: Legendary Creature — Elf Warrior
-meta_presence: 0.0009
+meta_presence: 0.0008
 archetypes:
   elves:
     weight: 1.0

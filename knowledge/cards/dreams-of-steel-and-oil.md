@@ -7,16 +7,16 @@ name: Dreams of Steel and Oil
 scryfall_id: 261ac92e-c61a-4c11-aa6a-9ae1cb703e5c
 set: bro
 type: Sorcery
-meta_presence: 0.0066
+meta_presence: 0.0063
 archetypes:
   dimir-control:
     weight: 0.0247
     avg_copies: 1.0
   necrodominance:
-    weight: 0.2222
+    weight: 0.2143
     avg_copies: 1.88
   rakdos-aggro:
-    weight: 0.0909
+    weight: 0.0769
     avg_copies: 1.0
   goryo2:
     weight: 1.0

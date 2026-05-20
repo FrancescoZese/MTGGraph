@@ -10,10 +10,10 @@ type: Creature — Phoenix
 meta_presence: 0.0075
 archetypes:
   izzet-prowess:
-    weight: 0.0294
+    weight: 0.028
     avg_copies: 4.0
   dredge:
-    weight: 0.8667
+    weight: 0.875
     avg_copies: 4.0
   unknown-2:
     weight: 1.0

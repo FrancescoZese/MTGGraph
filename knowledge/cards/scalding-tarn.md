@@ -6,11 +6,11 @@ name: Scalding Tarn
 scryfall_id: 71e491c5-8c07-449b-b2f1-ffa052e6d311
 set: mh2
 type: Land
-meta_presence: 0.247
+meta_presence: 0.2469
 archetypes:
   ruby-storm:
-    weight: 0.9143
-    avg_copies: 2.23
+    weight: 0.9028
+    avg_copies: 2.25
   dimir-control:
     weight: 0.358
     avg_copies: 1.34
@@ -19,12 +19,12 @@ archetypes:
     avg_copies: 3.03
   azorius-control:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.95
   jeskai-control:
     weight: 0.8929
     avg_copies: 3.12
   affinity:
-    weight: 0.0966
+    weight: 0.0927
     avg_copies: 2.0
   mill:
     weight: 0.5714
@@ -36,23 +36,23 @@ archetypes:
     weight: 0.6279
     avg_copies: 1.22
   burn:
-    weight: 0.5714
-    avg_copies: 1.75
+    weight: 0.5
+    avg_copies: 1.6
   hollow-one:
     weight: 0.1154
     avg_copies: 1.33
   simic-ritual:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.9412
-    avg_copies: 2.65
+    weight: 0.9159
+    avg_copies: 2.64
   indomitable-creativity:
     weight: 0.875
     avg_copies: 2.43
   dredge:
     weight: 1.0
-    avg_copies: 3.07
+    avg_copies: 2.94
   izzet-artifacts:
     weight: 0.5333
     avg_copies: 3.75
@@ -64,9 +64,9 @@ archetypes:
     avg_copies: 3.5
   grixis-shadow:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 3.5
   rakdos-aggro:
-    weight: 0.3636
+    weight: 0.3077
     avg_copies: 3.0
   izzet-splinter-twin:
     weight: 1.0
@@ -76,7 +76,7 @@ archetypes:
     avg_copies: 2.0
   goryo1:
     weight: 1.0
-    avg_copies: 1.52
+    avg_copies: 1.5
   goryo3:
     weight: 1.0
     avg_copies: 1.0
@@ -111,7 +111,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-16:
-    weight: 0.5
+    weight: 0.6667
     avg_copies: 1.0
   unknown-19:
     weight: 1.0
@@ -140,10 +140,28 @@ archetypes:
   unknown-41:
     weight: 1.0
     avg_copies: 1.0
+  unknown-47:
+    weight: 0.1111
+    avg_copies: 1.0
   unknown-53:
     weight: 1.0
     avg_copies: 4.0
   unknown-59:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-65:
+    weight: 1.0
+    avg_copies: 3.89
+  unknown-66:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-67:
+    weight: 0.3
+    avg_copies: 1.0
+  unknown-70:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-71:
     weight: 1.0
     avg_copies: 4.0
 ---

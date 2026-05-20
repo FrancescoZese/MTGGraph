@@ -8,13 +8,13 @@ name: Witherbloom Command
 scryfall_id: 0d68dee5-56ff-45bb-a37e-9e2dfc07c5a7
 set: soc
 type: Sorcery
-meta_presence: 0.0022
+meta_presence: 0.0021
 archetypes:
   goryo:
-    weight: 0.0233
+    weight: 0.023
     avg_copies: 1.5
   necrodominance:
-    weight: 0.037
+    weight: 0.0357
     avg_copies: 2.0
   indomitable-creativity:
     weight: 0.125

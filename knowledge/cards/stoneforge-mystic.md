@@ -7,15 +7,18 @@ name: Stoneforge Mystic
 scryfall_id: 4d3473d0-b46f-41f5-ac1e-ba217f7747d4
 set: 2xm
 type: Creature — Kor Artificer
-meta_presence: 0.0026
+meta_presence: 0.0029
 archetypes:
   eldrazi-tron:
-    weight: 0.0125
+    weight: 0.0116
     avg_copies: 4.0
   hammer-time:
     weight: 1.0
     avg_copies: 4.0
   unknown-21:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-74:
     weight: 1.0
     avg_copies: 4.0
 ---

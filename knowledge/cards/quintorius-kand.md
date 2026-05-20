@@ -11,6 +11,6 @@ type: Legendary Planeswalker — Quintorius
 meta_presence: 0.0004
 archetypes:
   boros-ponza:
-    weight: 0.0127
+    weight: 0.0122
     avg_copies: 2.0
 ---

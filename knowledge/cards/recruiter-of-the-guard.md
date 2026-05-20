@@ -1,0 +1,15 @@
+---
+cmc: 3
+colors:
+- W
+image: https://cards.scryfall.io/normal/front/8/e/8e4c6ba1-1abc-478f-9b7c-97e9e3c92fb0.jpg?1717013560
+name: Recruiter of the Guard
+scryfall_id: 8e4c6ba1-1abc-478f-9b7c-97e9e3c92fb0
+set: mh3
+type: Creature — Human Soldier
+meta_presence: 0.0013
+archetypes:
+  azorius-blink:
+    weight: 0.4286
+    avg_copies: 1.0
+---

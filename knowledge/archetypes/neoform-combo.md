@@ -6,7 +6,7 @@ colors:
 - R
 - G
 name: Neoform Combo
-meta_share: 0.0189
+meta_share: 0.018
 list_count: 43
 top_cards:
 - name: Eldritch Evolution
@@ -36,10 +36,10 @@ top_cards:
 - name: Breeding Pool
   weight: 0.9767
   avg_copies: 1.07
-- name: Griselbrand
+- name: Xenagos, God of Revels
   weight: 0.9767
   avg_copies: 1.0
-- name: Xenagos, God of Revels
+- name: Griselbrand
   weight: 0.9767
   avg_copies: 1.0
 - name: Pact of Negation
@@ -78,13 +78,13 @@ top_cards:
 - name: Snow-Covered Forest
   weight: 0.8605
   avg_copies: 1.22
-- name: Snow-Covered Island
-  weight: 0.8605
-  avg_copies: 1.0
 - name: Elesh Norn, Grand Cenobite
   weight: 0.8605
   avg_copies: 1.0
 - name: Ureni, the Song Unending
+  weight: 0.8605
+  avg_copies: 1.0
+- name: Snow-Covered Island
   weight: 0.8605
   avg_copies: 1.0
 - name: Veil of Summer
@@ -147,10 +147,10 @@ top_cards:
 - name: Meticulous Archive
   weight: 0.0698
   avg_copies: 1.0
-- name: Glittering Wish
+- name: Gemstone Mine
   weight: 0.0465
   avg_copies: 4.0
-- name: Gemstone Mine
+- name: Glittering Wish
   weight: 0.0465
   avg_copies: 4.0
 - name: Invasion of Gobakhan
@@ -159,37 +159,37 @@ top_cards:
 - name: Thrun, the Last Troll
   weight: 0.0465
   avg_copies: 3.0
-- name: Borborygmos Enraged
+- name: Firespout
   weight: 0.0465
   avg_copies: 1.0
 - name: Nature's Chant
   weight: 0.0465
   avg_copies: 1.0
-- name: Lush Portico
-  weight: 0.0465
-  avg_copies: 1.0
 - name: Raph & Mikey, Troublemakers
   weight: 0.0465
   avg_copies: 1.0
-- name: Detention Sphere
+- name: Lush Portico
   weight: 0.0465
   avg_copies: 1.0
 - name: Stump Stomp
   weight: 0.0465
   avg_copies: 1.0
-- name: Firespout
+- name: Detention Sphere
+  weight: 0.0465
+  avg_copies: 1.0
+- name: Borborygmos Enraged
   weight: 0.0465
   avg_copies: 1.0
 - name: Voice of Victory
+  weight: 0.0233
+  avg_copies: 4.0
+- name: Hexing Squelcher
   weight: 0.0233
   avg_copies: 4.0
 - name: Detect Intrusion
   weight: 0.0233
   avg_copies: 4.0
 - name: Geometer's Arthropod
-  weight: 0.0233
-  avg_copies: 4.0
-- name: Hexing Squelcher
   weight: 0.0233
   avg_copies: 4.0
 - name: Rakshasa's Bargain
@@ -201,10 +201,16 @@ top_cards:
 - name: Abrupt Decay
   weight: 0.0233
   avg_copies: 3.0
-- name: Undercity Sewers
+- name: Brainsurge
   weight: 0.0233
   avg_copies: 1.0
-- name: Force of Vigor
+- name: Underground Mortuary
+  weight: 0.0233
+  avg_copies: 1.0
+- name: Commercial District
+  weight: 0.0233
+  avg_copies: 1.0
+- name: Undercity Sewers
   weight: 0.0233
   avg_copies: 1.0
 - name: Wan Shi Tong, Librarian
@@ -216,22 +222,16 @@ top_cards:
 - name: Temple Garden
   weight: 0.0233
   avg_copies: 1.0
-- name: Commercial District
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Underground Mortuary
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Thundering Falls
+- name: Stormkeld Vanguard
   weight: 0.0233
   avg_copies: 1.0
 - name: Subtlety
   weight: 0.0233
   avg_copies: 1.0
-- name: Stormkeld Vanguard
+- name: Force of Vigor
   weight: 0.0233
   avg_copies: 1.0
-- name: Brainsurge
+- name: Thundering Falls
   weight: 0.0233
   avg_copies: 1.0
 ---

@@ -10,6 +10,6 @@ type: Creature — Zombie Vampire
 meta_presence: 0.0004
 archetypes:
   dredge:
-    weight: 0.0667
+    weight: 0.0625
     avg_copies: 3.0
 ---

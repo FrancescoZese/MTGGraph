@@ -6,31 +6,31 @@ name: Vexing Bauble
 scryfall_id: 29f11089-658f-42e6-aeb0-09b512ad2479
 set: mh3
 type: Artifact
-meta_presence: 0.3347
+meta_presence: 0.337
 archetypes:
   ruby-storm:
-    weight: 0.0571
+    weight: 0.0556
     avg_copies: 2.0
   boros-energy:
-    weight: 0.3932
+    weight: 0.3887
     avg_copies: 1.43
   eldrazi-tron:
-    weight: 0.5625
-    avg_copies: 1.07
+    weight: 0.5581
+    avg_copies: 1.13
   amulet-titan:
-    weight: 0.7079
-    avg_copies: 1.26
+    weight: 0.7143
+    avg_copies: 1.28
   goryo:
-    weight: 0.0116
+    weight: 0.0115
     avg_copies: 2.0
   hardened-scales:
     weight: 0.75
     avg_copies: 1.25
   affinity:
-    weight: 0.6807
+    weight: 0.6895
     avg_copies: 1.1
   domain-zoo:
-    weight: 0.0141
+    weight: 0.0137
     avg_copies: 1.0
   reanimator:
     weight: 0.2222
@@ -45,35 +45,35 @@ archetypes:
     weight: 0.6923
     avg_copies: 2.22
   boros-ponza:
-    weight: 0.9494
-    avg_copies: 2.16
+    weight: 0.9512
+    avg_copies: 2.15
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 1.2
+    avg_copies: 1.18
   eldrazi-ramp:
-    weight: 0.963
-    avg_copies: 1.74
+    weight: 0.95
+    avg_copies: 1.78
   simic-ritual:
-    weight: 0.02
+    weight: 0.0192
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0686
+    weight: 0.0654
     avg_copies: 1.86
   samwise-combo:
-    weight: 0.619
-    avg_copies: 1.92
+    weight: 0.625
+    avg_copies: 2.07
   broodscale-combo:
-    weight: 0.9744
-    avg_copies: 1.44
+    weight: 0.9778
+    avg_copies: 1.53
   orzhov-blink:
     weight: 0.6
     avg_copies: 1.33
   dredge:
-    weight: 0.4667
-    avg_copies: 2.57
+    weight: 0.5
+    avg_copies: 2.62
   izzet-artifacts:
     weight: 0.3667
     avg_copies: 1.0
@@ -91,10 +91,10 @@ archetypes:
     avg_copies: 1.4
   grixis-shadow:
     weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 1.5
   rakdos-aggro:
-    weight: 0.0909
-    avg_copies: 3.0
+    weight: 0.2308
+    avg_copies: 2.67
   mono-green-ramp:
     weight: 0.1667
     avg_copies: 3.0
@@ -111,8 +111,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.67
   goryo1:
-    weight: 0.28
-    avg_copies: 1.29
+    weight: 0.3077
+    avg_copies: 1.25
   goryo4:
     weight: 0.5
     avg_copies: 3.0
@@ -137,6 +137,9 @@ archetypes:
   unknown-23:
     weight: 1.0
     avg_copies: 1.56
+  unknown-26:
+    weight: 0.3333
+    avg_copies: 1.0
   unknown-28:
     weight: 1.0
     avg_copies: 3.0
@@ -160,7 +163,7 @@ archetypes:
     avg_copies: 2.0
   unknown-52:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.5
   unknown-56:
     weight: 1.0
     avg_copies: 1.0
@@ -170,4 +173,10 @@ archetypes:
   unknown-64:
     weight: 1.0
     avg_copies: 4.0
+  unknown-68:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-70:
+    weight: 1.0
+    avg_copies: 2.0
 ---

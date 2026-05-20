@@ -7,7 +7,7 @@ name: Death's Shadow
 scryfall_id: 5526ff6e-c079-4ad4-ac8d-5e26ecacf50d
 set: 2xm
 type: Creature — Avatar
-meta_presence: 0.0018
+meta_presence: 0.0034
 archetypes:
   dimir-control:
     weight: 0.0123
@@ -16,9 +16,12 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   rakdos-aggro:
-    weight: 0.0909
+    weight: 0.2308
     avg_copies: 4.0
   cosmogoyf-fling:
     weight: 0.0526
     avg_copies: 2.0
+  unknown-73:
+    weight: 1.0
+    avg_copies: 4.0
 ---

@@ -6,14 +6,14 @@ name: Soul-Guide Lantern
 scryfall_id: f4907e7b-d6d5-4e9b-968f-bce34ae4a577
 set: eoc
 type: Artifact
-meta_presence: 0.0907
+meta_presence: 0.0918
 archetypes:
   ruby-storm:
-    weight: 0.0286
+    weight: 0.0278
     avg_copies: 2.0
   boros-energy:
-    weight: 0.0964
-    avg_copies: 1.11
+    weight: 0.1023
+    avg_copies: 1.1
   dimir-control:
     weight: 0.0247
     avg_copies: 1.0
@@ -21,16 +21,16 @@ archetypes:
     weight: 0.2266
     avg_copies: 1.55
   eldrazi-tron:
-    weight: 0.0125
-    avg_copies: 1.0
-  amulet-titan:
-    weight: 0.2247
-    avg_copies: 1.0
-  goryo:
     weight: 0.0116
     avg_copies: 1.0
+  amulet-titan:
+    weight: 0.2198
+    avg_copies: 1.0
+  goryo:
+    weight: 0.0115
+    avg_copies: 1.0
   azorius-control:
-    weight: 0.125
+    weight: 0.1053
     avg_copies: 3.0
   jeskai-control:
     weight: 0.3929
@@ -42,20 +42,20 @@ archetypes:
     weight: 0.0769
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.1013
+    weight: 0.0976
     avg_copies: 1.88
   eldrazi-ramp:
-    weight: 0.1481
+    weight: 0.1333
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.02
+    weight: 0.0192
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0588
-    avg_copies: 1.17
+    weight: 0.0654
+    avg_copies: 1.14
   broodscale-combo:
-    weight: 0.9744
-    avg_copies: 1.0
+    weight: 0.9778
+    avg_copies: 1.04
   izzet-artifacts:
     weight: 0.5333
     avg_copies: 1.0
@@ -95,4 +95,7 @@ archetypes:
   unknown-63:
     weight: 1.0
     avg_copies: 1.0
+  unknown-71:
+    weight: 1.0
+    avg_copies: 2.0
 ---

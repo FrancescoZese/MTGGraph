@@ -6,10 +6,10 @@ name: Thundering Falls
 scryfall_id: 17260fff-b239-4af4-9306-3236ae3fa5a5
 set: mkm
 type: Land — Island Mountain
-meta_presence: 0.1986
+meta_presence: 0.2033
 archetypes:
   ruby-storm:
-    weight: 0.1857
+    weight: 0.1806
     avg_copies: 1.38
   dimir-control:
     weight: 0.037
@@ -18,16 +18,19 @@ archetypes:
     weight: 1.0
     avg_copies: 1.02
   azorius-control:
-    weight: 0.6875
+    weight: 0.7368
+    avg_copies: 1.0
+  living-end:
+    weight: 0.02
     avg_copies: 1.0
   jeskai-control:
     weight: 1.0
     avg_copies: 1.0
   affinity:
-    weight: 0.0924
+    weight: 0.0887
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.9577
+    weight: 0.9589
     avg_copies: 1.0
   reanimator:
     weight: 0.0741
@@ -36,7 +39,7 @@ archetypes:
     weight: 0.0233
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.02
+    weight: 0.0192
     avg_copies: 1.0
   izzet-prowess:
     weight: 1.0
@@ -48,7 +51,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   dredge:
-    weight: 0.7333
+    weight: 0.75
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.5
@@ -66,7 +69,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   goryo1:
-    weight: 0.16
+    weight: 0.1923
     avg_copies: 1.0
   grixis-control:
     weight: 1.0
@@ -93,7 +96,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-16:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
   unknown-19:
     weight: 1.0
@@ -120,6 +123,15 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-59:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-65:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-66:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-67:
     weight: 1.0
     avg_copies: 1.0
 ---

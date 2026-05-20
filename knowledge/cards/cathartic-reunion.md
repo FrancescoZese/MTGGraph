@@ -7,9 +7,9 @@ name: Cathartic Reunion
 scryfall_id: e3bca51a-b9be-4be2-a256-b15853fde433
 set: ecc
 type: Sorcery
-meta_presence: 0.0009
+meta_presence: 0.0008
 archetypes:
   dredge:
-    weight: 0.1333
+    weight: 0.125
     avg_copies: 2.0
 ---

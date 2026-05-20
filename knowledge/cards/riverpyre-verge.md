@@ -12,7 +12,7 @@ archetypes:
     weight: 0.1328
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0098
+    weight: 0.0093
     avg_copies: 1.0
   izzet-splinter-twin:
     weight: 0.5
@@ -20,4 +20,7 @@ archetypes:
   izzet-murktide:
     weight: 1.0
     avg_copies: 2.0
+  unknown-35:
+    weight: 0.5
+    avg_copies: 1.0
 ---

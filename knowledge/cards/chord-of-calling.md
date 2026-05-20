@@ -7,14 +7,14 @@ name: Chord of Calling
 scryfall_id: b18fe7e0-8344-40cc-b242-83f01c6be7a6
 set: rvr
 type: Instant
-meta_presence: 0.0229
+meta_presence: 0.0239
 archetypes:
   yawgmoth-combo:
-    weight: 0.9667
-    avg_copies: 1.76
+    weight: 0.9394
+    avg_copies: 1.77
   samwise-combo:
     weight: 1.0
-    avg_copies: 3.81
+    avg_copies: 3.83
   elves:
     weight: 1.0
     avg_copies: 3.0
