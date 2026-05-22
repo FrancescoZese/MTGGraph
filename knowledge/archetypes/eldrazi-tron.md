@@ -1,8 +1,8 @@
 ---
 colors: []
 name: Eldrazi Tron
-meta_share: 0.036
-list_count: 86
+meta_share: 0.0367
+list_count: 89
 top_cards:
 - name: Kozilek's Command
   weight: 1.0
@@ -12,293 +12,302 @@ top_cards:
   avg_copies: 3.97
 - name: Devourer of Destiny
   weight: 1.0
-  avg_copies: 3.47
+  avg_copies: 3.45
 - name: Eldrazi Temple
-  weight: 0.9884
+  weight: 0.9888
   avg_copies: 3.95
-- name: Urza's Tower
-  weight: 0.9884
-  avg_copies: 3.93
 - name: Urza's Power Plant
-  weight: 0.9884
+  weight: 0.9888
   avg_copies: 3.93
 - name: Urza's Mine
-  weight: 0.9884
+  weight: 0.9888
+  avg_copies: 3.93
+- name: Urza's Tower
+  weight: 0.9888
   avg_copies: 3.93
 - name: Karn, the Great Creator
-  weight: 0.9884
-  avg_copies: 3.88
+  weight: 0.9888
+  avg_copies: 3.89
 - name: Expedition Map
-  weight: 0.9884
-  avg_copies: 3.8
+  weight: 0.9888
+  avg_copies: 3.81
 - name: Ugin, Eye of the Storms
-  weight: 0.9884
-  avg_copies: 3.49
-- name: Dismember
-  weight: 0.9884
-  avg_copies: 1.91
-- name: Tormod's Crypt
-  weight: 0.9884
-  avg_copies: 1.0
+  weight: 0.9888
+  avg_copies: 3.48
 - name: Ensnaring Bridge
-  weight: 0.9884
+  weight: 0.9888
   avg_copies: 1.0
+- name: Tormod's Crypt
+  weight: 0.9888
+  avg_copies: 1.0
+- name: Dismember
+  weight: 0.9775
+  avg_copies: 1.9
 - name: Trinisphere
-  weight: 0.9767
+  weight: 0.9775
   avg_copies: 1.32
 - name: Liquimetal Coating
-  weight: 0.9767
+  weight: 0.9775
   avg_copies: 1.0
 - name: Thought-Knot Seer
-  weight: 0.9651
-  avg_copies: 3.83
+  weight: 0.9663
+  avg_copies: 3.84
 - name: Disruptor Flute
-  weight: 0.9302
-  avg_copies: 1.57
+  weight: 0.9326
+  avg_copies: 1.59
 - name: Sire of Seven Deaths
-  weight: 0.9186
-  avg_copies: 1.87
-- name: Torpor Orb
-  weight: 0.9186
-  avg_copies: 1.18
+  weight: 0.9213
+  avg_copies: 1.85
 - name: Cityscape Leveler
-  weight: 0.9186
+  weight: 0.9213
   avg_copies: 1.0
+- name: Torpor Orb
+  weight: 0.9101
+  avg_copies: 1.17
 - name: Walking Ballista
-  weight: 0.907
+  weight: 0.9101
   avg_copies: 1.0
 - name: Extinguisher Battleship
-  weight: 0.8256
+  weight: 0.8202
   avg_copies: 1.0
 - name: Mind Stone
-  weight: 0.7442
-  avg_copies: 3.84
+  weight: 0.7528
+  avg_copies: 3.85
 - name: The Stone Brain
-  weight: 0.7326
+  weight: 0.7303
   avg_copies: 1.0
 - name: Glaring Fleshraker
-  weight: 0.7093
-  avg_copies: 3.21
+  weight: 0.7191
+  avg_copies: 3.23
 - name: The Filigree Sylex
-  weight: 0.6512
+  weight: 0.6404
   avg_copies: 1.0
 - name: Swamp
-  weight: 0.6395
+  weight: 0.6404
   avg_copies: 1.0
 - name: Wastes
-  weight: 0.6047
+  weight: 0.6067
   avg_copies: 1.02
 - name: Chalice of the Void
-  weight: 0.5814
-  avg_copies: 1.35
+  weight: 0.5955
+  avg_copies: 1.34
 - name: Vexing Bauble
-  weight: 0.5581
+  weight: 0.5618
   avg_copies: 1.13
 - name: Ulamog, the Ceaseless Hunger
-  weight: 0.5465
-  avg_copies: 1.11
+  weight: 0.5393
+  avg_copies: 1.1
 - name: All Is Dust
-  weight: 0.4884
+  weight: 0.5056
   avg_copies: 1.33
 - name: Skysovereign, Consul Flagship
-  weight: 0.4302
+  weight: 0.4157
   avg_copies: 1.0
 - name: Soulless Jailer
-  weight: 0.3721
+  weight: 0.3708
   avg_copies: 1.0
 - name: Grafdigger's Cage
-  weight: 0.3256
+  weight: 0.3146
   avg_copies: 1.04
 - name: Talisman of Resilience
-  weight: 0.2442
+  weight: 0.236
   avg_copies: 3.86
 - name: Sowing Mycospawn
-  weight: 0.2442
+  weight: 0.236
   avg_copies: 3.71
 - name: Engineered Explosives
-  weight: 0.2442
+  weight: 0.236
   avg_copies: 1.0
 - name: Forest
-  weight: 0.2326
+  weight: 0.2247
   avg_copies: 1.24
-- name: Haywire Mite
-  weight: 0.2093
-  avg_copies: 1.0
 - name: Relic of Progenitus
-  weight: 0.1977
-  avg_copies: 1.11
+  weight: 0.2022
+  avg_copies: 1.1
+- name: Haywire Mite
+  weight: 0.2022
+  avg_copies: 1.0
 - name: Warping Wail
-  weight: 0.186
-  avg_copies: 1.88
+  weight: 0.191
+  avg_copies: 1.89
 - name: Snow-Covered Wastes
-  weight: 0.186
+  weight: 0.191
   avg_copies: 1.0
 - name: Abstergo Entertainment
-  weight: 0.1395
+  weight: 0.1348
   avg_copies: 1.0
 - name: Boseiju, Who Endures
-  weight: 0.1163
-  avg_copies: 1.0
-- name: Pithing Needle
-  weight: 0.093
-  avg_copies: 1.0
-- name: Kozilek, Butcher of Truth
-  weight: 0.093
+  weight: 0.1124
   avg_copies: 1.0
 - name: Talisman of Curiosity
-  weight: 0.093
+  weight: 0.0899
   avg_copies: 1.0
-- name: Ratchet Bomb
-  weight: 0.0814
-  avg_copies: 1.14
+- name: Kozilek, Butcher of Truth
+  weight: 0.0899
+  avg_copies: 1.0
+- name: Pithing Needle
+  weight: 0.0899
+  avg_copies: 1.0
 - name: Palantír of Orthanc
-  weight: 0.0698
-  avg_copies: 1.43
+  weight: 0.0787
+  avg_copies: 1.38
+- name: Ratchet Bomb
+  weight: 0.0787
+  avg_copies: 1.14
+- name: Mystic Forge
+  weight: 0.0674
+  avg_copies: 1.0
+- name: Sundering Titan
+  weight: 0.0674
+  avg_copies: 1.0
 - name: Cavern of Souls
-  weight: 0.0698
+  weight: 0.0674
   avg_copies: 1.0
 - name: Talisman of Impulse
-  weight: 0.0581
+  weight: 0.0562
   avg_copies: 1.6
-- name: Sundering Titan
-  weight: 0.0581
-  avg_copies: 1.0
-- name: Mystic Forge
-  weight: 0.0581
-  avg_copies: 1.0
 - name: Emrakul, the Promised End
-  weight: 0.0465
+  weight: 0.0449
   avg_copies: 1.4
-- name: Gemstone Caverns
-  weight: 0.0465
-  avg_copies: 1.0
 - name: Oblivion Stone
-  weight: 0.0349
-  avg_copies: 1.25
-- name: Karn's Sylex
-  weight: 0.0349
-  avg_copies: 1.0
-- name: World Breaker
-  weight: 0.0349
-  avg_copies: 1.0
-- name: Urza's Saga
-  weight: 0.0349
-  avg_copies: 1.0
-- name: The Endstone
-  weight: 0.0349
-  avg_copies: 1.0
-- name: Blast Zone
-  weight: 0.0349
+  weight: 0.0449
+  avg_copies: 1.2
+- name: Gemstone Caverns
+  weight: 0.0449
   avg_copies: 1.0
 - name: Karn Liberated
-  weight: 0.0233
-  avg_copies: 1.5
-- name: Krang, Utrom Warlord
-  weight: 0.0233
+  weight: 0.0337
+  avg_copies: 1.33
+- name: World Breaker
+  weight: 0.0337
   avg_copies: 1.0
 - name: Crucible of Worlds
-  weight: 0.0233
+  weight: 0.0337
+  avg_copies: 1.0
+- name: The Endstone
+  weight: 0.0337
+  avg_copies: 1.0
+- name: Blast Zone
+  weight: 0.0337
+  avg_copies: 1.0
+- name: Karn's Sylex
+  weight: 0.0337
+  avg_copies: 1.0
+- name: Urza's Saga
+  weight: 0.0337
   avg_copies: 1.0
 - name: Damping Sphere
-  weight: 0.0233
+  weight: 0.0225
   avg_copies: 1.0
-- name: Phyrexian Metamorph
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Forsaken Monument
-  weight: 0.0233
+- name: Krang, Utrom Warlord
+  weight: 0.0225
   avg_copies: 1.0
 - name: The Dominion Bracelet
-  weight: 0.0233
+  weight: 0.0225
   avg_copies: 1.0
 - name: Weathered Runestone
-  weight: 0.0233
+  weight: 0.0225
+  avg_copies: 1.0
+- name: Phyrexian Metamorph
+  weight: 0.0225
+  avg_copies: 1.0
+- name: Forsaken Monument
+  weight: 0.0225
   avg_copies: 1.0
 - name: Solitude
-  weight: 0.0116
+  weight: 0.0112
   avg_copies: 4.0
 - name: Stoneforge Mystic
-  weight: 0.0116
+  weight: 0.0112
   avg_copies: 4.0
-- name: Plains
-  weight: 0.0116
-  avg_copies: 3.0
 - name: Emeria's Call
-  weight: 0.0116
+  weight: 0.0112
   avg_copies: 3.0
-- name: Snow-Covered Forest
-  weight: 0.0116
-  avg_copies: 2.0
-- name: Prismatic Ending
-  weight: 0.0116
+- name: Tezzeret, Cruel Captain
+  weight: 0.0112
+  avg_copies: 3.0
+- name: Plains
+  weight: 0.0112
+  avg_copies: 3.0
+- name: Touch the Spirit Realm
+  weight: 0.0112
   avg_copies: 2.0
 - name: March of Otherworldly Light
-  weight: 0.0116
-  avg_copies: 2.0
-- name: Wrath of the Skies
-  weight: 0.0116
-  avg_copies: 2.0
-- name: Shattered Landscape
-  weight: 0.0116
-  avg_copies: 2.0
-- name: Meteor Sword
-  weight: 0.0116
-  avg_copies: 2.0
-- name: Battlefield Forge
-  weight: 0.0116
+  weight: 0.0112
   avg_copies: 2.0
 - name: Spirit of the Labyrinth
-  weight: 0.0116
+  weight: 0.0112
+  avg_copies: 2.0
+- name: Prismatic Ending
+  weight: 0.0112
   avg_copies: 2.0
 - name: Witch Enchanter
-  weight: 0.0116
-  avg_copies: 2.0
-- name: Caves of Koilos
-  weight: 0.0116
+  weight: 0.0112
   avg_copies: 2.0
 - name: Detention Chariot
-  weight: 0.0116
+  weight: 0.0112
   avg_copies: 2.0
-- name: Touch the Spirit Realm
-  weight: 0.0116
+- name: Caves of Koilos
+  weight: 0.0112
   avg_copies: 2.0
-- name: Drannith Magistrate
-  weight: 0.0116
+- name: Wrath of the Skies
+  weight: 0.0112
+  avg_copies: 2.0
+- name: Battlefield Forge
+  weight: 0.0112
+  avg_copies: 2.0
+- name: Snow-Covered Forest
+  weight: 0.0112
+  avg_copies: 2.0
+- name: Meteor Sword
+  weight: 0.0112
+  avg_copies: 2.0
+- name: Shattered Landscape
+  weight: 0.0112
+  avg_copies: 2.0
+- name: Wrath of God
+  weight: 0.0112
   avg_copies: 1.0
-- name: Cursed Totem
-  weight: 0.0116
-  avg_copies: 1.0
-- name: Celestial Purge
-  weight: 0.0116
-  avg_copies: 1.0
-- name: Tablet of Compleation
-  weight: 0.0116
-  avg_copies: 1.0
-- name: Bojuka Bog
-  weight: 0.0116
-  avg_copies: 1.0
-- name: Kaldra Compleat
-  weight: 0.0116
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.0116
+- name: Ugin, the Spirit Dragon
+  weight: 0.0112
   avg_copies: 1.0
 - name: Geier Reach Sanitarium
-  weight: 0.0116
-  avg_copies: 1.0
-- name: High Noon
-  weight: 0.0116
-  avg_copies: 1.0
-- name: Emrakul, the Aeons Torn
-  weight: 0.0116
+  weight: 0.0112
   avg_copies: 1.0
 - name: Orbs of Warding
-  weight: 0.0116
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Tablet of Compleation
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Cursed Totem
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 0.0112
   avg_copies: 1.0
 - name: Aven Mindcensor
-  weight: 0.0116
+  weight: 0.0112
   avg_copies: 1.0
-- name: Wrath of God
-  weight: 0.0116
+- name: Emrakul, the Aeons Torn
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Drannith Magistrate
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Celestial Purge
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Wurmcoil Engine
+  weight: 0.0112
+  avg_copies: 1.0
+- name: High Noon
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Bojuka Bog
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Kaldra Compleat
+  weight: 0.0112
   avg_copies: 1.0
 ---

@@ -9,25 +9,25 @@ name: 'Unknown #19'
 meta_share: 0.0004
 list_count: 1
 top_cards:
-- name: Fable of the Mirror-Breaker
-  weight: 1.0
-  avg_copies: 4.0
-- name: Faithless Looting
-  weight: 1.0
-  avg_copies: 4.0
 - name: Indomitable Creativity
   weight: 1.0
   avg_copies: 4.0
-- name: Goryo's Vengeance
+- name: Fable of the Mirror-Breaker
   weight: 1.0
   avg_copies: 4.0
 - name: Counterspell
   weight: 1.0
   avg_copies: 4.0
-- name: Dwarven Mine
+- name: Goryo's Vengeance
+  weight: 1.0
+  avg_copies: 4.0
+- name: Faithless Looting
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 3.0
-- name: Wooded Foothills
+- name: Dwarven Mine
   weight: 1.0
   avg_copies: 3.0
 - name: Scalding Tarn
@@ -36,52 +36,58 @@ top_cards:
 - name: Fatal Push
   weight: 1.0
   avg_copies: 3.0
-- name: Lightning Bolt
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 3.0
-- name: Arid Mesa
-  weight: 1.0
-  avg_copies: 2.0
-- name: Pyroclasm
-  weight: 1.0
-  avg_copies: 2.0
-- name: Meltdown
-  weight: 1.0
-  avg_copies: 2.0
 - name: Blood Crypt
-  weight: 1.0
-  avg_copies: 2.0
-- name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 2.0
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
+- name: Ashiok, Dream Render
+  weight: 1.0
+  avg_copies: 2.0
+- name: Pyroclasm
+  weight: 1.0
+  avg_copies: 2.0
+- name: Arid Mesa
+  weight: 1.0
+  avg_copies: 2.0
+- name: Meltdown
+  weight: 1.0
+  avg_copies: 2.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 1.5
-- name: Atraxa, Grand Unifier
+- name: Spell Snare
   weight: 1.0
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Xander's Lounge
   weight: 1.0
   avg_copies: 1.0
-- name: Valgavoth, Terror Eater
+- name: Ureni, the Song Unending
   weight: 1.0
   avg_copies: 1.0
 - name: Iona, Shield of Emeria
   weight: 1.0
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Raph & Mikey, Troublemakers
   weight: 1.0
   avg_copies: 1.0
-- name: Prismari Command
+- name: Snow-Covered Mountain
+  weight: 1.0
+  avg_copies: 1.0
+- name: Surgical Extraction
   weight: 1.0
   avg_copies: 1.0
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Force of Negation
+- name: Griselbrand
+  weight: 1.0
+  avg_copies: 1.0
+- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
 - name: Boseiju, Who Shelters All
@@ -90,28 +96,22 @@ top_cards:
 - name: Bitter Triumph
   weight: 1.0
   avg_copies: 1.0
-- name: Xander's Lounge
-  weight: 1.0
-  avg_copies: 1.0
-- name: Griselbrand
-  weight: 1.0
-  avg_copies: 1.0
-- name: Spell Snare
+- name: Atraxa, Grand Unifier
   weight: 1.0
   avg_copies: 1.0
 - name: Spell Pierce
   weight: 1.0
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Force of Negation
   weight: 1.0
   avg_copies: 1.0
-- name: Ureni, the Song Unending
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
-- name: Snow-Covered Mountain
+- name: Prismari Command
   weight: 1.0
   avg_copies: 1.0
-- name: Raph & Mikey, Troublemakers
+- name: Valgavoth, Terror Eater
   weight: 1.0
   avg_copies: 1.0
 ---

@@ -7,7 +7,7 @@ name: Reprieve
 scryfall_id: 1bd3fa8a-6c50-4f7f-9ae3-0810eec5e3db
 set: ltr
 type: Instant
-meta_presence: 0.0134
+meta_presence: 0.0136
 archetypes:
   boros-energy:
     weight: 0.0051
@@ -19,8 +19,8 @@ archetypes:
     weight: 0.0357
     avg_copies: 2.0
   boros-ponza:
-    weight: 0.1829
-    avg_copies: 2.53
+    weight: 0.1928
+    avg_copies: 2.61
   indomitable-creativity:
     weight: 0.625
     avg_copies: 2.6

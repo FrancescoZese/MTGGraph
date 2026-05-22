@@ -8,10 +8,10 @@ name: Vibrance
 scryfall_id: b9f71c3b-0840-475f-9c17-fdacbc7f3213
 set: ecl
 type: Creature — Elemental Incarnation
-meta_presence: 0.0067
+meta_presence: 0.0074
 archetypes:
   eldrazi-ramp:
-    weight: 0.0333
+    weight: 0.0328
     avg_copies: 1.0
   scapeshift-combo:
     weight: 0.5
@@ -20,9 +20,9 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-65:
-    weight: 0.5556
+    weight: 0.5833
     avg_copies: 1.0
   unknown-67:
-    weight: 0.1
+    weight: 0.0769
     avg_copies: 1.0
 ---

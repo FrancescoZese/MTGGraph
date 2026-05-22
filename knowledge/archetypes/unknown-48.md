@@ -6,22 +6,22 @@ name: 'Unknown #48'
 meta_share: 0.0004
 list_count: 1
 top_cards:
-- name: Reprieve
+- name: Stock Up
   weight: 1.0
   avg_copies: 4.0
-- name: Stock Up
+- name: Erode
   weight: 1.0
   avg_copies: 4.0
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 4.0
-- name: Demolition Field
+- name: Reprieve
   weight: 1.0
   avg_copies: 4.0
 - name: Field of Ruin
   weight: 1.0
   avg_copies: 4.0
-- name: Erode
+- name: Demolition Field
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
@@ -39,43 +39,43 @@ top_cards:
 - name: Path to Exile
   weight: 1.0
   avg_copies: 3.0
-- name: Island
-  weight: 1.0
-  avg_copies: 2.0
-- name: Orim's Chant
-  weight: 1.0
-  avg_copies: 2.0
-- name: Teferi, Time Raveler
+- name: Razorgrass Ambush
   weight: 1.0
   avg_copies: 2.0
 - name: Floodfarm Verge
   weight: 1.0
   avg_copies: 2.0
-- name: Kataki, War's Wage
-  weight: 1.0
-  avg_copies: 2.0
 - name: Ghost Quarter
   weight: 1.0
   avg_copies: 2.0
-- name: Razorgrass Ambush
+- name: Island
+  weight: 1.0
+  avg_copies: 2.0
+- name: Kataki, War's Wage
+  weight: 1.0
+  avg_copies: 2.0
+- name: Teferi, Time Raveler
+  weight: 1.0
+  avg_copies: 2.0
+- name: Orim's Chant
   weight: 1.0
   avg_copies: 2.0
 - name: Relic of Progenitus
   weight: 1.0
   avg_copies: 1.5
-- name: Consult the Star Charts
-  weight: 1.0
-  avg_copies: 1.0
 - name: Mana Tithe
   weight: 1.0
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Cityscape Leveler
   weight: 1.0
   avg_copies: 1.0
-- name: Plains
+- name: Portable Hole
   weight: 1.0
   avg_copies: 1.0
 - name: Crucible of Worlds
+  weight: 1.0
+  avg_copies: 1.0
+- name: Supreme Verdict
   weight: 1.0
   avg_copies: 1.0
 - name: Wurmcoil Engine
@@ -84,19 +84,19 @@ top_cards:
 - name: Kaheera, the Orphanguard
   weight: 1.0
   avg_copies: 1.0
-- name: Ensnaring Bridge
-  weight: 1.0
-  avg_copies: 1.0
-- name: Portable Hole
-  weight: 1.0
-  avg_copies: 1.0
-- name: Cityscape Leveler
-  weight: 1.0
-  avg_copies: 1.0
-- name: Supreme Verdict
+- name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
 - name: Liquimetal Coating
+  weight: 1.0
+  avg_copies: 1.0
+- name: Plains
+  weight: 1.0
+  avg_copies: 1.0
+- name: Ensnaring Bridge
+  weight: 1.0
+  avg_copies: 1.0
+- name: Consult the Star Charts
   weight: 1.0
   avg_copies: 1.0
 ---

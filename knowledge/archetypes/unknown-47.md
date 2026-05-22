@@ -3,16 +3,16 @@ colors:
 - U
 - B
 name: 'Unknown #47'
-meta_share: 0.0038
+meta_share: 0.0037
 list_count: 9
 top_cards:
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
@@ -51,13 +51,13 @@ top_cards:
 - name: Spell Snare
   weight: 1.0
   avg_copies: 1.79
-- name: Engineered Explosives
+- name: Cling to Dust
   weight: 1.0
   avg_copies: 1.78
 - name: Island
   weight: 1.0
   avg_copies: 1.78
-- name: Cling to Dust
+- name: Engineered Explosives
   weight: 1.0
   avg_copies: 1.78
 - name: Swamp
@@ -126,28 +126,28 @@ top_cards:
 - name: Preordain
   weight: 0.1111
   avg_copies: 4.0
-- name: Wan Shi Tong, Librarian
-  weight: 0.1111
-  avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.1111
   avg_copies: 2.0
-- name: Scalding Tarn
+- name: Wan Shi Tong, Librarian
   weight: 0.1111
-  avg_copies: 1.0
-- name: Strategic Betrayal
-  weight: 0.1111
-  avg_copies: 1.0
-- name: The Meathook Massacre
+  avg_copies: 2.0
+- name: River of Tears
   weight: 0.1111
   avg_copies: 1.0
 - name: Snapcaster Mage
   weight: 0.1111
   avg_copies: 1.0
-- name: River of Tears
+- name: Ghost Vacuum
   weight: 0.1111
   avg_copies: 1.0
-- name: Ghost Vacuum
+- name: The Meathook Massacre
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Scalding Tarn
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Strategic Betrayal
   weight: 0.1111
   avg_copies: 1.0
 ---

@@ -10,20 +10,20 @@ type: Creature — Elemental Incarnation
 meta_presence: 0.1911
 archetypes:
   boros-energy:
-    weight: 0.0742
+    weight: 0.0736
     avg_copies: 1.17
   jeskai-energy:
     weight: 1.0
     avg_copies: 3.91
   eldrazi-tron:
-    weight: 0.0116
+    weight: 0.0112
     avg_copies: 4.0
   goryo:
     weight: 0.977
     avg_copies: 3.82
   azorius-control:
     weight: 1.0
-    avg_copies: 3.26
+    avg_copies: 3.25
   jeskai-control:
     weight: 0.8214
     avg_copies: 2.96
@@ -35,7 +35,7 @@ archetypes:
     avg_copies: 4.0
   boros-ponza:
     weight: 1.0
-    avg_copies: 3.01
+    avg_copies: 3.02
   4c-omnath:
     weight: 1.0
     avg_copies: 4.0
@@ -103,6 +103,12 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-74:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-75:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-77:
     weight: 1.0
     avg_copies: 4.0
 ---

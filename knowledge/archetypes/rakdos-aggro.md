@@ -6,16 +6,16 @@ name: Rakdos Aggro
 meta_share: 0.0054
 list_count: 13
 top_cards:
-- name: Moonshadow
+- name: Nethergoyf
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
-- name: Nethergoyf
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
 - name: Blood Crypt
@@ -54,10 +54,10 @@ top_cards:
 - name: Damping Sphere
   weight: 0.6923
   avg_copies: 3.56
-- name: Lava Dart
+- name: Cori-Steel Cutter
   weight: 0.6154
   avg_copies: 4.0
-- name: Cori-Steel Cutter
+- name: Lava Dart
   weight: 0.6154
   avg_copies: 4.0
 - name: Arena of Glory
@@ -99,10 +99,10 @@ top_cards:
 - name: Mutagenic Growth
   weight: 0.2308
   avg_copies: 2.0
-- name: Pyroclasm
+- name: Cling to Dust
   weight: 0.2308
   avg_copies: 1.67
-- name: Cling to Dust
+- name: Pyroclasm
   weight: 0.2308
   avg_copies: 1.67
 - name: Nihil Spellbomb
@@ -111,112 +111,112 @@ top_cards:
 - name: Academic Dispute
   weight: 0.1538
   avg_copies: 4.0
-- name: Seal of Fire
+- name: Unholy Heat
   weight: 0.1538
   avg_copies: 2.0
-- name: Unholy Heat
+- name: Seal of Fire
   weight: 0.1538
   avg_copies: 2.0
 - name: Price of Freedom
   weight: 0.1538
   avg_copies: 1.0
-- name: Dai Li Indoctrination
-  weight: 0.1538
-  avg_copies: 1.0
-- name: Dismember
-  weight: 0.1538
-  avg_copies: 1.0
-- name: Decorum Dissertation
-  weight: 0.1538
-  avg_copies: 1.0
 - name: Firebending Lesson
-  weight: 0.1538
-  avg_copies: 1.0
-- name: Whispers of Emrakul
   weight: 0.1538
   avg_copies: 1.0
 - name: Sundering Eruption
   weight: 0.1538
   avg_copies: 1.0
-- name: Super Shredder
+- name: Dismember
+  weight: 0.1538
+  avg_copies: 1.0
+- name: Dai Li Indoctrination
+  weight: 0.1538
+  avg_copies: 1.0
+- name: Decorum Dissertation
+  weight: 0.1538
+  avg_copies: 1.0
+- name: Whispers of Emrakul
+  weight: 0.1538
+  avg_copies: 1.0
+- name: Magebane Lizard
   weight: 0.0769
   avg_copies: 4.0
 - name: Marsh Flats
   weight: 0.0769
   avg_copies: 4.0
-- name: Magebane Lizard
+- name: Polluted Delta
   weight: 0.0769
   avg_copies: 4.0
 - name: Bloodbraid Marauder
   weight: 0.0769
   avg_copies: 4.0
-- name: Polluted Delta
+- name: Super Shredder
   weight: 0.0769
   avg_copies: 4.0
 - name: Force of Despair
   weight: 0.0769
   avg_copies: 3.0
-- name: Fire-Brained Scheme
-  weight: 0.0769
-  avg_copies: 3.0
 - name: Blood Moon
   weight: 0.0769
   avg_copies: 3.0
-- name: Feed the Swarm
+- name: Fire-Brained Scheme
   weight: 0.0769
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Blackcleave Cliffs
-  weight: 0.0769
-  avg_copies: 2.0
-- name: Abigale, Eloquent First-Year
-  weight: 0.0769
-  avg_copies: 2.0
-- name: Unearth
-  weight: 0.0769
-  avg_copies: 2.0
-- name: Break the Ice
-  weight: 0.0769
-  avg_copies: 2.0
-- name: Torpor Orb
   weight: 0.0769
   avg_copies: 2.0
 - name: Sheoldred's Edict
   weight: 0.0769
   avg_copies: 2.0
-- name: Graveyard Trespasser
+- name: Break the Ice
   weight: 0.0769
-  avg_copies: 1.0
-- name: Ob Nixilis, the Adversary
+  avg_copies: 2.0
+- name: Abigale, Eloquent First-Year
   weight: 0.0769
-  avg_copies: 1.0
-- name: Troll of Khazad-dûm
+  avg_copies: 2.0
+- name: Feed the Swarm
   weight: 0.0769
-  avg_copies: 1.0
-- name: Redirect Lightning
+  avg_copies: 2.0
+- name: Unearth
   weight: 0.0769
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: Torpor Orb
+  weight: 0.0769
+  avg_copies: 2.0
 - name: Ruinous Waterbending
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Boggart Trawler
   weight: 0.0769
   avg_copies: 1.0
 - name: Fatal Push
   weight: 0.0769
   avg_copies: 1.0
-- name: Ragavan, Nimble Pilferer
-  weight: 0.0769
-  avg_copies: 1.0
 - name: Tarfire
   weight: 0.0769
   avg_copies: 1.0
-- name: Dreams of Steel and Oil
+- name: Ob Nixilis, the Adversary
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Graveyard Trespasser
   weight: 0.0769
   avg_copies: 1.0
 - name: Cecil, Dark Knight
   weight: 0.0769
   avg_copies: 1.0
+- name: Dreams of Steel and Oil
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Troll of Khazad-dûm
+  weight: 0.0769
+  avg_copies: 1.0
 - name: Duress
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Ragavan, Nimble Pilferer
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Redirect Lightning
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Boggart Trawler
   weight: 0.0769
   avg_copies: 1.0
 - name: Abandon Attachments

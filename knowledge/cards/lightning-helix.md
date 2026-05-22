@@ -1,0 +1,16 @@
+---
+cmc: 2
+colors:
+- R
+- W
+image: https://cards.scryfall.io/normal/front/4/1/4101e3fe-b0e7-4f0f-b9ac-9b61a4d628b3.jpg?1706242208
+name: Lightning Helix
+scryfall_id: 4101e3fe-b0e7-4f0f-b9ac-9b61a4d628b3
+set: mkm
+type: Instant
+meta_presence: 0.0008
+archetypes:
+  burn:
+    weight: 0.1667
+    avg_copies: 2.5
+---

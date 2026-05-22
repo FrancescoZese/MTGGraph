@@ -7,15 +7,15 @@ name: Tunnel Ignus
 scryfall_id: c3016e6b-32b2-4fa7-91c0-ec8fbe345760
 set: som
 type: Creature — Elemental
-meta_presence: 0.0013
+meta_presence: 0.0012
 archetypes:
   boros-energy:
-    weight: 0.0026
+    weight: 0.0025
     avg_copies: 1.0
   burn:
-    weight: 0.1
+    weight: 0.0833
     avg_copies: 2.0
   broodscale-combo:
-    weight: 0.0222
+    weight: 0.0213
     avg_copies: 1.0
 ---

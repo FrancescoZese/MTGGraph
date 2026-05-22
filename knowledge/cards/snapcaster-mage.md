@@ -17,12 +17,12 @@ archetypes:
     avg_copies: 2.67
   izzet-wizards:
     weight: 1.0
-    avg_copies: 3.4
+    avg_copies: 3.5
   izzet-splinter-twin:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 1.0
   goryo3:
     weight: 1.0

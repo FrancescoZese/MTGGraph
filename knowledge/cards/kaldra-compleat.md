@@ -6,10 +6,10 @@ name: Kaldra Compleat
 scryfall_id: 572fb0dc-d876-4e1b-91d1-9c595f6f6f04
 set: cmm
 type: Legendary Artifact — Equipment
-meta_presence: 0.0013
+meta_presence: 0.0012
 archetypes:
   eldrazi-tron:
-    weight: 0.0116
+    weight: 0.0112
     avg_copies: 1.0
   unknown-21:
     weight: 1.0

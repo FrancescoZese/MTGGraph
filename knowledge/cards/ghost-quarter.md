@@ -15,13 +15,13 @@ archetypes:
     weight: 0.2857
     avg_copies: 2.0
   boros-ponza:
-    weight: 0.0244
+    weight: 0.0241
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.75
+    weight: 0.7541
     avg_copies: 1.02
   broodscale-combo:
-    weight: 0.0222
+    weight: 0.0213
     avg_copies: 1.0
   scapeshift-combo:
     weight: 0.8333

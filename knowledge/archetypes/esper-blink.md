@@ -4,7 +4,7 @@ colors:
 - U
 - B
 name: Esper Blink
-meta_share: 0.0088
+meta_share: 0.0087
 list_count: 21
 top_cards:
 - name: Solitude
@@ -46,16 +46,16 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.1
-- name: Swamp
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
-- name: Watery Grave
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowy Backstreet
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Thoughtseize
@@ -100,19 +100,19 @@ top_cards:
 - name: Clarion Conqueror
   weight: 0.381
   avg_copies: 1.62
-- name: Elesh Norn, Mother of Machines
+- name: Skycoach Conductor
   weight: 0.2857
   avg_copies: 1.0
-- name: Skycoach Conductor
+- name: Elesh Norn, Mother of Machines
   weight: 0.2857
   avg_copies: 1.0
 - name: Island
   weight: 0.2381
   avg_copies: 1.0
-- name: Bleachbone Verge
+- name: Erode
   weight: 0.1905
   avg_copies: 1.0
-- name: Erode
+- name: Bleachbone Verge
   weight: 0.1905
   avg_copies: 1.0
 - name: Psychic Frog
@@ -133,10 +133,10 @@ top_cards:
 - name: White Orchid Phantom
   weight: 0.0952
   avg_copies: 2.0
-- name: Hydroelectric Specimen
+- name: Floodfarm Verge
   weight: 0.0952
   avg_copies: 1.0
-- name: Floodfarm Verge
+- name: Hydroelectric Specimen
   weight: 0.0952
   avg_copies: 1.0
 - name: No More Lies
@@ -148,28 +148,28 @@ top_cards:
 - name: Strix Serenade
   weight: 0.0476
   avg_copies: 1.0
-- name: Kavaero, Mind-Bitten
-  weight: 0.0476
-  avg_copies: 1.0
 - name: Boromir, Warden of the Tower
   weight: 0.0476
   avg_copies: 1.0
-- name: End of the Hunt
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Emptiness
-  weight: 0.0476
-  avg_copies: 1.0
 - name: Celestial Purge
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Windswept Heath
   weight: 0.0476
   avg_copies: 1.0
 - name: Chalice of the Void
   weight: 0.0476
   avg_copies: 1.0
 - name: Spell Pierce
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Windswept Heath
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Kavaero, Mind-Bitten
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Emptiness
+  weight: 0.0476
+  avg_copies: 1.0
+- name: End of the Hunt
   weight: 0.0476
   avg_copies: 1.0
 ---

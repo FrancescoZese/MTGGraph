@@ -6,25 +6,25 @@ name: Orzhov Blink
 meta_share: 0.0021
 list_count: 5
 top_cards:
-- name: Witch Enchanter
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
-- name: Overlord of the Balemurk
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Witch Enchanter
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Phelia, Exuberant Shepherd
+- name: Fatal Push
   weight: 1.0
   avg_copies: 3.4
-- name: Fatal Push
+- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.4
 - name: Flickerwisp
@@ -45,10 +45,10 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.8
-- name: Boggart Trawler
+- name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 1.6
-- name: Ashiok, Dream Render
+- name: Boggart Trawler
   weight: 1.0
   avg_copies: 1.6
 - name: Swamp
@@ -60,13 +60,13 @@ top_cards:
 - name: Ephemerate
   weight: 0.8
   avg_copies: 3.0
+- name: Damping Sphere
+  weight: 0.8
+  avg_copies: 2.25
 - name: Clarion Conqueror
   weight: 0.8
   avg_copies: 2.25
 - name: Arid Mesa
-  weight: 0.8
-  avg_copies: 2.25
-- name: Damping Sphere
   weight: 0.8
   avg_copies: 2.25
 - name: High Noon
@@ -75,13 +75,13 @@ top_cards:
 - name: Bleachbone Verge
   weight: 0.8
   avg_copies: 1.75
-- name: Prismatic Ending
+- name: Sheoldred's Edict
   weight: 0.6
   avg_copies: 2.0
 - name: Dawnbringer Cleric
   weight: 0.6
   avg_copies: 2.0
-- name: Sheoldred's Edict
+- name: Prismatic Ending
   weight: 0.6
   avg_copies: 2.0
 - name: Flooded Strand
@@ -111,25 +111,25 @@ top_cards:
 - name: Orim's Chant
   weight: 0.2
   avg_copies: 4.0
+- name: Polluted Delta
+  weight: 0.2
+  avg_copies: 2.0
 - name: Windswept Heath
   weight: 0.2
   avg_copies: 2.0
 - name: Duress
   weight: 0.2
   avg_copies: 2.0
-- name: Polluted Delta
-  weight: 0.2
-  avg_copies: 2.0
-- name: Eiganjo, Seat of the Empire
+- name: Elesh Norn, Mother of Machines
   weight: 0.2
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
+- name: Raucous Theater
   weight: 0.2
   avg_copies: 1.0
 - name: Monumental Henge
   weight: 0.2
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Eiganjo, Seat of the Empire
   weight: 0.2
   avg_copies: 1.0
 ---

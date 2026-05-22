@@ -4,7 +4,7 @@ colors:
 - B
 - R
 name: Mardu Blink
-meta_share: 0.0096
+meta_share: 0.0095
 list_count: 23
 top_cards:
 - name: Overlord of the Balemurk
@@ -43,13 +43,13 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.04
-- name: Elegant Parlor
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Wear
@@ -133,13 +133,13 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.1739
   avg_copies: 2.0
-- name: Swamp
-  weight: 0.1739
-  avg_copies: 1.0
 - name: Containment Priest
   weight: 0.1739
   avg_copies: 1.0
 - name: Snow-Covered Swamp
+  weight: 0.1739
+  avg_copies: 1.0
+- name: Swamp
   weight: 0.1739
   avg_copies: 1.0
 - name: Clarion Conqueror
@@ -160,16 +160,16 @@ top_cards:
 - name: Unholy Heat
   weight: 0.0435
   avg_copies: 3.0
-- name: Graveyard Trespasser
-  weight: 0.0435
-  avg_copies: 2.0
-- name: Seasoned Pyromancer
-  weight: 0.0435
-  avg_copies: 2.0
 - name: Magus of the Moon
   weight: 0.0435
   avg_copies: 2.0
+- name: Graveyard Trespasser
+  weight: 0.0435
+  avg_copies: 2.0
 - name: The Legend of Roku
+  weight: 0.0435
+  avg_copies: 2.0
+- name: Seasoned Pyromancer
   weight: 0.0435
   avg_copies: 2.0
 - name: Faerie Macabre

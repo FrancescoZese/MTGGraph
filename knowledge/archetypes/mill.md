@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: Mill
-meta_share: 0.0059
+meta_share: 0.0058
 list_count: 14
 top_cards:
 - name: Archive Trap
@@ -66,10 +66,10 @@ top_cards:
 - name: Shelldock Isle
   weight: 0.7143
   avg_copies: 1.0
-- name: Swamp
+- name: Jace, the Perfected Mind
   weight: 0.6429
   avg_copies: 1.22
-- name: Jace, the Perfected Mind
+- name: Swamp
   weight: 0.6429
   avg_copies: 1.22
 - name: Soul-Guide Lantern
@@ -126,25 +126,25 @@ top_cards:
 - name: Ghost Quarter
   weight: 0.2857
   avg_copies: 2.0
-- name: Murderous Cut
+- name: Damnation
   weight: 0.2857
   avg_copies: 1.0
-- name: Damnation
+- name: Murderous Cut
   weight: 0.2857
   avg_copies: 1.0
 - name: Profane Memento
   weight: 0.2143
   avg_copies: 2.0
-- name: Cephalid Coliseum
+- name: Mikokoro, Center of the Sea
   weight: 0.2143
   avg_copies: 1.0
 - name: Feed the Cycle
   weight: 0.2143
   avg_copies: 1.0
-- name: Mikokoro, Center of the Sea
+- name: Echoing Truth
   weight: 0.2143
   avg_copies: 1.0
-- name: Echoing Truth
+- name: Cephalid Coliseum
   weight: 0.2143
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
@@ -156,37 +156,34 @@ top_cards:
 - name: Damping Sphere
   weight: 0.1429
   avg_copies: 1.5
-- name: Force of Negation
-  weight: 0.1429
-  avg_copies: 1.5
 - name: Nihil Spellbomb
   weight: 0.1429
   avg_copies: 1.5
+- name: Force of Negation
+  weight: 0.1429
+  avg_copies: 1.5
+- name: Go for the Throat
+  weight: 0.1429
+  avg_copies: 1.0
 - name: Long Goodbye
   weight: 0.1429
   avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.1429
   avg_copies: 1.0
-- name: Go for the Throat
-  weight: 0.1429
-  avg_copies: 1.0
-- name: White Orchid Phantom
-  weight: 0.0714
-  avg_copies: 4.0
 - name: Path to Exile
   weight: 0.0714
   avg_copies: 4.0
-- name: Erode
+- name: White Orchid Phantom
   weight: 0.0714
   avg_copies: 4.0
 - name: Trapmaker's Snare
   weight: 0.0714
   avg_copies: 4.0
-- name: Vendetta
+- name: Erode
   weight: 0.0714
-  avg_copies: 2.0
-- name: Spell Snare
+  avg_copies: 4.0
+- name: Vendetta
   weight: 0.0714
   avg_copies: 2.0
 - name: Chalice of the Void
@@ -195,22 +192,16 @@ top_cards:
 - name: Meltdown
   weight: 0.0714
   avg_copies: 2.0
+- name: Spell Snare
+  weight: 0.0714
+  avg_copies: 2.0
 - name: Flare of Denial
   weight: 0.0714
   avg_copies: 2.0
-- name: Plains
-  weight: 0.0714
-  avg_copies: 1.0
 - name: Steam Vents
   weight: 0.0714
   avg_copies: 1.0
-- name: Illness in the Ranks
-  weight: 0.0714
-  avg_copies: 1.0
 - name: Darkslick Shores
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Ravenous Trap
   weight: 0.0714
   avg_copies: 1.0
 - name: Hallowed Fountain
@@ -222,10 +213,19 @@ top_cards:
 - name: Meticulous Archive
   weight: 0.0714
   avg_copies: 1.0
+- name: Plains
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Ravenous Trap
+  weight: 0.0714
+  avg_copies: 1.0
 - name: Requiting Hex
   weight: 0.0714
   avg_copies: 1.0
 - name: Mindbreak Trap
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Illness in the Ranks
   weight: 0.0714
   avg_copies: 1.0
 ---

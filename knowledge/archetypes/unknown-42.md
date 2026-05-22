@@ -23,10 +23,7 @@ top_cards:
 - name: Silvergill Mentor
   weight: 1.0
   avg_copies: 3.5
-- name: Cavern of Souls
-  weight: 1.0
-  avg_copies: 3.0
-- name: Aether Vial
+- name: Mindspring Merfolk
   weight: 1.0
   avg_copies: 3.0
 - name: Vodalian Hexcatcher
@@ -35,28 +32,31 @@ top_cards:
 - name: Flare of Denial
   weight: 1.0
   avg_copies: 3.0
-- name: Subtlety
-  weight: 1.0
-  avg_copies: 3.0
-- name: Consign to Memory
-  weight: 1.0
-  avg_copies: 3.0
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 3.0
 - name: Svyelun of Sea and Sky
   weight: 1.0
   avg_copies: 3.0
-- name: Mindspring Merfolk
+- name: Aether Vial
   weight: 1.0
   avg_copies: 3.0
-- name: Force of Negation
+- name: Subtlety
   weight: 1.0
-  avg_copies: 2.5
+  avg_copies: 3.0
+- name: Cavern of Souls
+  weight: 1.0
+  avg_copies: 3.0
+- name: Consign to Memory
+  weight: 1.0
+  avg_copies: 3.0
 - name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 2.5
 - name: Tishana's Tidebinder
+  weight: 1.0
+  avg_copies: 2.5
+- name: Force of Negation
   weight: 1.0
   avg_copies: 2.5
 - name: Grafdigger's Cage
@@ -65,10 +65,10 @@ top_cards:
 - name: Dismember
   weight: 1.0
   avg_copies: 2.0
-- name: Otawara, Soaring City
+- name: Minamo, School at Water's Edge
   weight: 1.0
   avg_copies: 1.0
-- name: Minamo, School at Water's Edge
+- name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
 - name: Merfolk Trickster

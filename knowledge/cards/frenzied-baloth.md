@@ -7,7 +7,7 @@ name: Frenzied Baloth
 scryfall_id: c72d85e9-a0bc-4f73-8d73-c58843577f4e
 set: eoe
 type: Creature — Beast
-meta_presence: 0.0013
+meta_presence: 0.0012
 archetypes:
   mono-green-stompy:
     weight: 1.0

@@ -7,7 +7,7 @@ name: Vines of Vastwood
 scryfall_id: 6203e3d4-8998-41d6-9f7e-b68af0f1f8b5
 set: mm2
 type: Instant
-meta_presence: 0.0013
+meta_presence: 0.0012
 archetypes:
   mono-green-stompy:
     weight: 1.0

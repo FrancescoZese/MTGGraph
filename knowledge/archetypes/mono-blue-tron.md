@@ -2,19 +2,19 @@
 colors:
 - U
 name: Mono-Blue Tron
-meta_share: 0.0042
+meta_share: 0.0041
 list_count: 10
 top_cards:
-- name: Kozilek's Command
+- name: Expedition Map
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Tower
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Power Plant
   weight: 1.0
   avg_copies: 4.0
-- name: Expedition Map
+- name: Urza's Tower
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Mine
@@ -104,10 +104,10 @@ top_cards:
 - name: Hall of Storm Giants
   weight: 0.3
   avg_copies: 1.0
-- name: Karn, the Great Creator
+- name: Remand
   weight: 0.2
   avg_copies: 4.0
-- name: Remand
+- name: Karn, the Great Creator
   weight: 0.2
   avg_copies: 4.0
 - name: Nulldrifter
@@ -116,43 +116,43 @@ top_cards:
 - name: Ugin's Binding
   weight: 0.2
   avg_copies: 1.5
-- name: Oblivion Stone
-  weight: 0.2
-  avg_copies: 1.0
-- name: Soulless Jailer
-  weight: 0.2
-  avg_copies: 1.0
-- name: Wurmcoil Engine
-  weight: 0.2
-  avg_copies: 1.0
-- name: Talisman of Curiosity
-  weight: 0.2
-  avg_copies: 1.0
 - name: Sundering Titan
   weight: 0.2
   avg_copies: 1.0
-- name: Engineered Explosives
-  weight: 0.2
-  avg_copies: 1.0
-- name: Cityscape Leveler
-  weight: 0.2
-  avg_copies: 1.0
-- name: Liquimetal Coating
-  weight: 0.2
-  avg_copies: 1.0
-- name: Walking Ballista
-  weight: 0.2
-  avg_copies: 1.0
-- name: Disruptor Flute
-  weight: 0.2
-  avg_copies: 1.0
-- name: Oboro, Palace in the Clouds
+- name: Tormod's Crypt
   weight: 0.2
   avg_copies: 1.0
 - name: Ensnaring Bridge
   weight: 0.2
   avg_copies: 1.0
-- name: Tormod's Crypt
+- name: Oboro, Palace in the Clouds
+  weight: 0.2
+  avg_copies: 1.0
+- name: Walking Ballista
+  weight: 0.2
+  avg_copies: 1.0
+- name: Cityscape Leveler
+  weight: 0.2
+  avg_copies: 1.0
+- name: Wurmcoil Engine
+  weight: 0.2
+  avg_copies: 1.0
+- name: Disruptor Flute
+  weight: 0.2
+  avg_copies: 1.0
+- name: Engineered Explosives
+  weight: 0.2
+  avg_copies: 1.0
+- name: Oblivion Stone
+  weight: 0.2
+  avg_copies: 1.0
+- name: Talisman of Curiosity
+  weight: 0.2
+  avg_copies: 1.0
+- name: Liquimetal Coating
+  weight: 0.2
+  avg_copies: 1.0
+- name: Soulless Jailer
   weight: 0.2
   avg_copies: 1.0
 - name: Strix Serenade
@@ -170,16 +170,16 @@ top_cards:
 - name: Relic of Progenitus
   weight: 0.1
   avg_copies: 2.0
-- name: Propaganda
-  weight: 0.1
-  avg_copies: 2.0
 - name: Sire of Seven Deaths
   weight: 0.1
   avg_copies: 2.0
-- name: All Is Dust
+- name: Propaganda
   weight: 0.1
   avg_copies: 2.0
 - name: Change the Equation
+  weight: 0.1
+  avg_copies: 2.0
+- name: All Is Dust
   weight: 0.1
   avg_copies: 2.0
 - name: Talisman of Dominance
@@ -188,10 +188,10 @@ top_cards:
 - name: Snow-Covered Island
   weight: 0.1
   avg_copies: 1.0
-- name: Temporal Mastery
+- name: Boseiju, Who Shelters All
   weight: 0.1
   avg_copies: 1.0
-- name: Boseiju, Who Shelters All
+- name: Temporal Mastery
   weight: 0.1
   avg_copies: 1.0
 - name: Talisman of Progress

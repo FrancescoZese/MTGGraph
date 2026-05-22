@@ -6,13 +6,13 @@ colors:
 - R
 - G
 name: Domain Zoo
-meta_share: 0.0306
+meta_share: 0.0301
 list_count: 73
 top_cards:
-- name: Leyline of the Guildpact
+- name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
-- name: Territorial Kavu
+- name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline Binding
@@ -72,10 +72,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.9589
   avg_copies: 2.67
-- name: Mountain
+- name: Thundering Falls
   weight: 0.9589
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Mountain
   weight: 0.9589
   avg_copies: 1.0
 - name: Doorkeeper Thrull
@@ -123,10 +123,10 @@ top_cards:
 - name: Blood Crypt
   weight: 0.1233
   avg_copies: 1.0
-- name: Clarion Conqueror
+- name: Pyroclasm
   weight: 0.1096
   avg_copies: 1.12
-- name: Pyroclasm
+- name: Clarion Conqueror
   weight: 0.1096
   avg_copies: 1.12
 - name: Fable of the Mirror-Breaker
@@ -153,7 +153,7 @@ top_cards:
 - name: Sacred Foundry
   weight: 0.0274
   avg_copies: 1.0
-- name: Psychic Frog
+- name: Faithless Looting
   weight: 0.0137
   avg_copies: 4.0
 - name: Persist
@@ -162,7 +162,10 @@ top_cards:
 - name: Archon of Cruelty
   weight: 0.0137
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Psychic Frog
+  weight: 0.0137
+  avg_copies: 4.0
+- name: Aurora Awakener
   weight: 0.0137
   avg_copies: 4.0
 - name: Professor of Symbology
@@ -171,49 +174,22 @@ top_cards:
 - name: Tribal Flames
   weight: 0.0137
   avg_copies: 4.0
-- name: Aurora Awakener
-  weight: 0.0137
-  avg_copies: 4.0
 - name: Summoning Trap
   weight: 0.0137
   avg_copies: 3.0
-- name: Drannith Magistrate
+- name: Rest in Peace
   weight: 0.0137
   avg_copies: 2.0
-- name: Rest in Peace
+- name: Drannith Magistrate
   weight: 0.0137
   avg_copies: 2.0
 - name: Mana Tithe
   weight: 0.0137
   avg_copies: 2.0
-- name: Prismatic Ending
-  weight: 0.0137
-  avg_copies: 1.0
-- name: Price of Freedom
-  weight: 0.0137
-  avg_copies: 1.0
-- name: Dai Li Indoctrination
-  weight: 0.0137
-  avg_copies: 1.0
-- name: Origin of Metalbending
-  weight: 0.0137
-  avg_copies: 1.0
-- name: Decorum Dissertation
-  weight: 0.0137
-  avg_copies: 1.0
-- name: Boomerang Basics
-  weight: 0.0137
-  avg_copies: 1.0
-- name: Redirect Lightning
-  weight: 0.0137
-  avg_copies: 1.0
 - name: Ruinous Waterbending
   weight: 0.0137
   avg_copies: 1.0
-- name: Sacred Ground
-  weight: 0.0137
-  avg_copies: 1.0
-- name: Vexing Bauble
+- name: Price of Freedom
   weight: 0.0137
   avg_copies: 1.0
 - name: Firebending Lesson
@@ -222,13 +198,37 @@ top_cards:
 - name: Raucous Theater
   weight: 0.0137
   avg_copies: 1.0
+- name: Prismatic Ending
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Sacred Ground
+  weight: 0.0137
+  avg_copies: 1.0
 - name: Glasspool Mimic
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Chthonian Nightmare
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Dai Li Indoctrination
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Decorum Dissertation
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Vexing Bauble
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Origin of Metalbending
   weight: 0.0137
   avg_copies: 1.0
 - name: Breeding Pool
   weight: 0.0137
   avg_copies: 1.0
-- name: Chthonian Nightmare
+- name: Redirect Lightning
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Boomerang Basics
   weight: 0.0137
   avg_copies: 1.0
 - name: Abandon Attachments

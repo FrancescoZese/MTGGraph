@@ -6,9 +6,12 @@ name: Amulet of Vigor
 scryfall_id: 997bc933-ac30-477b-a4e1-5333b796a99d
 set: wwk
 type: Artifact
-meta_presence: 0.0381
+meta_presence: 0.038
 archetypes:
   amulet-titan:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-76:
     weight: 1.0
     avg_copies: 4.0
 ---

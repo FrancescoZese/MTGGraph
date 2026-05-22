@@ -6,10 +6,10 @@ name: Umezawa's Jitte
 scryfall_id: 3b6e5956-f795-451b-bb24-56462d1ced27
 set: bok
 type: Legendary Artifact — Equipment
-meta_presence: 0.0013
+meta_presence: 0.0012
 archetypes:
   affinity:
-    weight: 0.0081
+    weight: 0.008
     avg_copies: 1.0
   unknown-74:
     weight: 1.0

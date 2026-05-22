@@ -10,13 +10,13 @@ type: Legendary Planeswalker
 meta_presence: 0.0025
 archetypes:
   boros-energy:
-    weight: 0.0026
+    weight: 0.0025
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0526
+    weight: 0.05
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.0244
+    weight: 0.0241
     avg_copies: 1.0
   esper-control:
     weight: 1.0

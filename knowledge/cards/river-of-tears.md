@@ -6,7 +6,7 @@ name: River of Tears
 scryfall_id: 67b626cc-1c12-4059-afa5-e5a1221ea1ba
 set: mkc
 type: Land
-meta_presence: 0.0013
+meta_presence: 0.0012
 archetypes:
   unknown-41:
     weight: 1.0

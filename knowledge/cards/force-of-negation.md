@@ -7,14 +7,14 @@ name: Force of Negation
 scryfall_id: 1825a719-1b2a-4af9-9cd2-7cb497cd0317
 set: 2x2
 type: Instant
-meta_presence: 0.2448
+meta_presence: 0.246
 archetypes:
   dimir-control:
     weight: 0.9877
     avg_copies: 1.73
   mono-blue-belcher:
-    weight: 0.8936
-    avg_copies: 1.56
+    weight: 0.8958
+    avg_copies: 1.6
   jeskai-energy:
     weight: 0.1797
     avg_copies: 1.04
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.977
     avg_copies: 2.19
   azorius-control:
-    weight: 0.4211
+    weight: 0.4
     avg_copies: 1.56
   living-end:
     weight: 1.0
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.6786
     avg_copies: 1.05
   affinity:
-    weight: 0.4355
+    weight: 0.4422
     avg_copies: 1.59
   mill:
     weight: 0.1429
@@ -46,7 +46,7 @@ archetypes:
     weight: 0.9423
     avg_copies: 2.27
   izzet-prowess:
-    weight: 0.0654
+    weight: 0.0636
     avg_copies: 1.29
   4c-omnath:
     weight: 0.75
@@ -61,8 +61,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   izzet-wizards:
-    weight: 0.2
-    avg_copies: 1.0
+    weight: 0.3333
+    avg_copies: 1.67
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 2.0
@@ -70,7 +70,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   goryo1:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 2.0
   goryo7:
     weight: 1.0
@@ -155,7 +155,7 @@ archetypes:
     avg_copies: 2.0
   unknown-65:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.75
   unknown-67:
     weight: 1.0
     avg_copies: 4.0

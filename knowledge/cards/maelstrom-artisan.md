@@ -10,6 +10,6 @@ type: Creature — Minotaur Sorcerer // Sorcery
 meta_presence: 0.0004
 archetypes:
   boros-energy:
-    weight: 0.0026
+    weight: 0.0025
     avg_copies: 3.0
 ---

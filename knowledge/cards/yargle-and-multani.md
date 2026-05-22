@@ -8,7 +8,7 @@ name: Yargle and Multani
 scryfall_id: 9c15e244-14cc-46a5-abd4-66a58d1c0dd0
 set: mom
 type: Legendary Creature — Frog Spirit Elemental
-meta_presence: 0.0013
+meta_presence: 0.0012
 archetypes:
   unknown-34:
     weight: 1.0

@@ -6,9 +6,12 @@ name: Hanweir Battlements
 scryfall_id: 8c0acb91-edfc-43a5-af77-6614327fce43
 set: inr
 type: Land
-meta_presence: 0.0381
+meta_presence: 0.038
 archetypes:
   amulet-titan:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-76:
     weight: 1.0
     avg_copies: 1.0
 ---

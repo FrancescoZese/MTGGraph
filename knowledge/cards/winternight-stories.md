@@ -7,7 +7,7 @@ name: Winternight Stories
 scryfall_id: 64d9367c-f50c-4568-aa63-6760c44ecaeb
 set: tdm
 type: Sorcery
-meta_presence: 0.0075
+meta_presence: 0.0074
 archetypes:
   goryo:
     weight: 0.023
@@ -16,6 +16,6 @@ archetypes:
     weight: 0.2055
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.1429
+    weight: 0.1111
     avg_copies: 1.0
 ---

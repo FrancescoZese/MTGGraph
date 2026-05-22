@@ -3,7 +3,7 @@ colors:
 - B
 - G
 name: Yawgmoth Combo
-meta_share: 0.0138
+meta_share: 0.0136
 list_count: 33
 top_cards:
 - name: Verdant Catacombs
@@ -57,25 +57,25 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.18
-- name: Grist, the Hunger Tide
+- name: Formidable Speaker
   weight: 1.0
   avg_copies: 1.09
-- name: Formidable Speaker
+- name: Grist, the Hunger Tide
   weight: 1.0
   avg_copies: 1.09
 - name: Endurance
   weight: 1.0
   avg_copies: 1.02
-- name: Swamp
+- name: Strangleroot Geist
   weight: 1.0
   avg_copies: 1.0
-- name: Soulless Jailer
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
-- name: Strangleroot Geist
+- name: Soulless Jailer
   weight: 1.0
   avg_copies: 1.0
 - name: Windswept Heath
@@ -120,10 +120,10 @@ top_cards:
 - name: Haywire Mite
   weight: 0.303
   avg_copies: 1.0
-- name: Ouroboroid
+- name: Ignoble Hierarch
   weight: 0.2727
   avg_copies: 1.0
-- name: Ignoble Hierarch
+- name: Ouroboroid
   weight: 0.2727
   avg_copies: 1.0
 - name: Culling Ritual
@@ -138,28 +138,28 @@ top_cards:
 - name: Kraul Harpooner
   weight: 0.0909
   avg_copies: 1.0
-- name: Assassin's Trophy
+- name: Murderous Cut
   weight: 0.0606
   avg_copies: 1.0
-- name: Murderous Cut
+- name: Assassin's Trophy
   weight: 0.0606
   avg_copies: 1.0
 - name: Chalice of the Void
   weight: 0.0303
   avg_copies: 2.0
+- name: Essence Warden
+  weight: 0.0303
+  avg_copies: 1.0
 - name: Creeping Corrosion
   weight: 0.0303
   avg_copies: 1.0
 - name: Nurturing Peatland
   weight: 0.0303
   avg_copies: 1.0
-- name: Essence Warden
+- name: Sylvan Safekeeper
   weight: 0.0303
   avg_copies: 1.0
 - name: Vicious Rivalry
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Sylvan Safekeeper
   weight: 0.0303
   avg_copies: 1.0
 ---
