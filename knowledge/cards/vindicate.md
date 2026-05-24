@@ -1,0 +1,16 @@
+---
+cmc: 3
+colors:
+- B
+- W
+image: https://cards.scryfall.io/normal/front/6/8/683c4e13-525c-45c9-8832-bfe67965c34e.jpg?1626100840
+name: Vindicate
+scryfall_id: 683c4e13-525c-45c9-8832-bfe67965c34e
+set: mh2
+type: Sorcery
+meta_presence: 0.0004
+archetypes:
+  orzhov-blink:
+    weight: 0.1667
+    avg_copies: 1.0
+---

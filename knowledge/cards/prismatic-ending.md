@@ -7,14 +7,14 @@ name: Prismatic Ending
 scryfall_id: 825969b9-3c70-4fca-8cab-696e9ca7cdb2
 set: mh2
 type: Sorcery
-meta_presence: 0.1358
+meta_presence: 0.1393
 archetypes:
   ruby-storm:
-    weight: 0.8514
+    weight: 0.8625
     avg_copies: 3.35
   boros-energy:
-    weight: 0.0051
-    avg_copies: 1.33
+    weight: 0.0121
+    avg_copies: 1.5
   dimir-control:
     weight: 0.037
     avg_copies: 1.0
@@ -22,19 +22,19 @@ archetypes:
     weight: 0.5938
     avg_copies: 1.73
   eldrazi-tron:
-    weight: 0.0112
+    weight: 0.0103
     avg_copies: 2.0
   goryo:
-    weight: 0.9655
-    avg_copies: 2.34
+    weight: 0.9677
+    avg_copies: 2.32
   azorius-control:
     weight: 1.0
-    avg_copies: 3.7
+    avg_copies: 3.62
   jeskai-control:
     weight: 0.9286
     avg_copies: 2.0
   domain-zoo:
-    weight: 0.0137
+    weight: 0.0132
     avg_copies: 1.0
   reanimator:
     weight: 0.037
@@ -43,29 +43,29 @@ archetypes:
     weight: 0.1739
     avg_copies: 2.0
   boros-ponza:
-    weight: 0.012
+    weight: 0.0116
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0091
+    weight: 0.0083
     avg_copies: 3.0
   4c-omnath:
     weight: 0.25
     avg_copies: 4.0
   esper-blink:
-    weight: 0.9048
-    avg_copies: 1.21
+    weight: 0.8519
+    avg_copies: 1.18
   indomitable-creativity:
-    weight: 0.625
-    avg_copies: 2.2
+    weight: 0.6667
+    avg_copies: 2.17
   orzhov-blink:
-    weight: 0.6
+    weight: 0.5
     avg_copies: 2.0
   bant-control:
     weight: 1.0
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.2222
-    avg_copies: 2.0
+    weight: 0.1905
+    avg_copies: 1.75
   esper-control:
     weight: 1.0
     avg_copies: 3.0
@@ -99,10 +99,25 @@ archetypes:
   unknown-16:
     weight: 0.6667
     avg_copies: 4.0
+  unknown-62:
+    weight: 0.5714
+    avg_copies: 3.0
   unknown-74:
     weight: 1.0
     avg_copies: 4.0
   unknown-75:
     weight: 1.0
     avg_copies: 4.0
+  unknown-83:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-85:
+    weight: 0.3333
+    avg_copies: 2.0
+  unknown-87:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-89:
+    weight: 1.0
+    avg_copies: 2.0
 ---

@@ -10,7 +10,7 @@ type: Creature — Human Berserker
 meta_presence: 0.0012
 archetypes:
   rakdos-aggro:
-    weight: 0.0769
+    weight: 0.0714
     avg_copies: 4.0
   unknown-38:
     weight: 1.0

@@ -8,13 +8,13 @@ name: Raph & Mikey, Troublemakers
 scryfall_id: 8795fba4-0ff3-4c04-a81c-60408608a00c
 set: tmt
 type: Legendary Creature — Mutant Ninja Turtle
-meta_presence: 0.0041
+meta_presence: 0.0042
 archetypes:
   neoform-combo:
     weight: 0.0465
     avg_copies: 1.0
   indomitable-creativity:
-    weight: 0.625
+    weight: 0.6667
     avg_copies: 1.0
   unknown-8:
     weight: 1.0

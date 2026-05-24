@@ -6,29 +6,29 @@ name: Polluted Delta
 scryfall_id: 6e288374-2b71-4ace-b1d2-a19fee6cb4af
 set: mh3
 type: Land
-meta_presence: 0.1742
+meta_presence: 0.1754
 archetypes:
   dimir-control:
     weight: 1.0
     avg_copies: 3.7
   goryo:
     weight: 1.0
-    avg_copies: 3.74
+    avg_copies: 3.75
   necrodominance:
-    weight: 0.2143
-    avg_copies: 2.33
+    weight: 0.2414
+    avg_copies: 2.14
   azorius-control:
     weight: 0.25
-    avg_copies: 1.0
+    avg_copies: 1.17
   living-end:
     weight: 0.66
     avg_copies: 1.48
   affinity:
-    weight: 0.0319
+    weight: 0.0305
     avg_copies: 1.5
   mill:
     weight: 1.0
-    avg_copies: 3.93
+    avg_copies: 3.94
   reanimator:
     weight: 0.963
     avg_copies: 3.62
@@ -39,17 +39,20 @@ archetypes:
     weight: 0.1538
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.2692
+    weight: 0.2545
     avg_copies: 1.21
   izzet-prowess:
-    weight: 0.0091
+    weight: 0.0083
     avg_copies: 1.0
   esper-blink:
-    weight: 0.9524
-    avg_copies: 1.55
+    weight: 0.9259
+    avg_copies: 1.6
   orzhov-blink:
-    weight: 0.2
-    avg_copies: 2.0
+    weight: 0.3333
+    avg_copies: 1.5
+  azorius-blink:
+    weight: 0.0476
+    avg_copies: 1.0
   esper-control:
     weight: 1.0
     avg_copies: 4.0
@@ -63,7 +66,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   rakdos-aggro:
-    weight: 0.0769
+    weight: 0.1429
     avg_copies: 4.0
   izzet-splinter-twin:
     weight: 0.5
@@ -76,7 +79,7 @@ archetypes:
     avg_copies: 1.0
   goryo1:
     weight: 1.0
-    avg_copies: 3.78
+    avg_copies: 3.82
   goryo5:
     weight: 1.0
     avg_copies: 2.67
@@ -129,8 +132,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-45:
-    weight: 0.25
-    avg_copies: 3.0
+    weight: 0.3077
+    avg_copies: 3.25
   unknown-47:
     weight: 1.0
     avg_copies: 4.0
@@ -170,4 +173,10 @@ archetypes:
   unknown-78:
     weight: 1.0
     avg_copies: 2.0
+  unknown-87:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-89:
+    weight: 1.0
+    avg_copies: 1.0
 ---

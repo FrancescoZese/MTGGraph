@@ -6,10 +6,13 @@ name: 'Unknown #30'
 meta_share: 0.0008
 list_count: 2
 top_cards:
-- name: Flare of Denial
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Thought Scour
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flare of Denial
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -18,19 +21,16 @@ top_cards:
 - name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
-- name: Thought Scour
-  weight: 1.0
-  avg_copies: 4.0
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 3.5
 - name: Abhorrent Oculus
   weight: 1.0
   avg_copies: 3.5
-- name: Consign to Memory
+- name: Unearth
   weight: 1.0
   avg_copies: 3.0
-- name: Unearth
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
 - name: Watery Grave
@@ -42,37 +42,37 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 2.5
-- name: Misty Rainforest
+- name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 2.0
-- name: Island
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 2.0
 - name: Undercity Sewers
   weight: 1.0
   avg_copies: 2.0
-- name: Ashiok, Dream Render
+- name: Island
   weight: 1.0
   avg_copies: 2.0
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.5
-- name: Otawara, Soaring City
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 1.0
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Flooded Strand
+- name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
 - name: Hedron Crab
   weight: 0.5
   avg_copies: 4.0
-- name: Vengevine
+- name: Merfolk Secretkeeper
   weight: 0.5
   avg_copies: 4.0
-- name: Merfolk Secretkeeper
+- name: Vengevine
   weight: 0.5
   avg_copies: 4.0
 - name: Fallaji Archaeologist
@@ -90,22 +90,22 @@ top_cards:
 - name: Thundertrap Trainer
   weight: 0.5
   avg_copies: 2.0
+- name: Cephalid Coliseum
+  weight: 0.5
+  avg_copies: 1.0
 - name: Verdant Catacombs
-  weight: 0.5
-  avg_copies: 1.0
-- name: Nihil Spellbomb
-  weight: 0.5
-  avg_copies: 1.0
-- name: The Meathook Massacre
-  weight: 0.5
-  avg_copies: 1.0
-- name: Engineered Explosives
   weight: 0.5
   avg_copies: 1.0
 - name: Sink into Stupor
   weight: 0.5
   avg_copies: 1.0
-- name: Cephalid Coliseum
+- name: Engineered Explosives
+  weight: 0.5
+  avg_copies: 1.0
+- name: The Meathook Massacre
+  weight: 0.5
+  avg_copies: 1.0
+- name: Nihil Spellbomb
   weight: 0.5
   avg_copies: 1.0
 - name: Force of Negation

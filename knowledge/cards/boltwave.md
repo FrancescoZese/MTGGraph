@@ -7,12 +7,15 @@ name: Boltwave
 scryfall_id: 8d1ec351-5e70-4eb2-b590-6bff94ef8178
 set: fdn
 type: Sorcery
-meta_presence: 0.0054
+meta_presence: 0.0069
 archetypes:
   burn:
     weight: 1.0
     avg_copies: 4.0
   unknown-71:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-86:
     weight: 1.0
     avg_copies: 4.0
 ---

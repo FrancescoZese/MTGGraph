@@ -7,12 +7,12 @@ name: Raze to the Ground
 scryfall_id: 838b25d2-7615-4375-a5e6-3d762c9072a5
 set: bro
 type: Sorcery
-meta_presence: 0.0017
+meta_presence: 0.0015
 archetypes:
   boros-energy:
-    weight: 0.0076
+    weight: 0.0073
     avg_copies: 1.33
   boros-ponza:
-    weight: 0.012
+    weight: 0.0116
     avg_copies: 2.0
 ---

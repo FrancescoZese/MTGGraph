@@ -6,11 +6,11 @@ name: Scalding Tarn
 scryfall_id: 71e491c5-8c07-449b-b2f1-ffa052e6d311
 set: mh2
 type: Land
-meta_presence: 0.2476
+meta_presence: 0.2456
 archetypes:
   ruby-storm:
-    weight: 0.8919
-    avg_copies: 2.23
+    weight: 0.9
+    avg_copies: 2.25
   dimir-control:
     weight: 0.358
     avg_copies: 1.34
@@ -18,16 +18,16 @@ archetypes:
     weight: 0.9922
     avg_copies: 3.03
   azorius-control:
-    weight: 1.0
-    avg_copies: 1.95
+    weight: 0.9583
+    avg_copies: 1.91
   jeskai-control:
     weight: 0.8929
     avg_copies: 3.12
   affinity:
-    weight: 0.0916
+    weight: 0.0878
     avg_copies: 2.0
   mill:
-    weight: 0.5714
+    weight: 0.4706
     avg_copies: 1.25
   reanimator:
     weight: 0.7778
@@ -36,20 +36,20 @@ archetypes:
     weight: 0.6279
     avg_copies: 1.22
   burn:
-    weight: 0.5
+    weight: 0.625
     avg_copies: 1.5
   hollow-one:
     weight: 0.1154
     avg_copies: 1.33
   simic-ritual:
-    weight: 0.0385
+    weight: 0.0364
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.9182
-    avg_copies: 2.64
+    weight: 0.9091
+    avg_copies: 2.57
   indomitable-creativity:
-    weight: 0.875
-    avg_copies: 2.43
+    weight: 0.8889
+    avg_copies: 2.5
   dredge:
     weight: 1.0
     avg_copies: 2.94
@@ -64,9 +64,9 @@ archetypes:
     avg_copies: 3.5
   grixis-shadow:
     weight: 1.0
-    avg_copies: 3.5
+    avg_copies: 3.67
   rakdos-aggro:
-    weight: 0.3077
+    weight: 0.3571
     avg_copies: 3.0
   izzet-splinter-twin:
     weight: 1.0
@@ -76,7 +76,7 @@ archetypes:
     avg_copies: 2.0
   goryo1:
     weight: 1.0
-    avg_copies: 1.48
+    avg_copies: 1.39
   goryo3:
     weight: 1.0
     avg_copies: 1.0
@@ -141,7 +141,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.1111
+    weight: 0.0667
     avg_copies: 1.0
   unknown-53:
     weight: 1.0
@@ -150,13 +150,13 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-65:
-    weight: 1.0
-    avg_copies: 3.92
+    weight: 0.875
+    avg_copies: 3.79
   unknown-66:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.2308
+    weight: 0.1579
     avg_copies: 1.0
   unknown-70:
     weight: 1.0
@@ -164,4 +164,19 @@ archetypes:
   unknown-71:
     weight: 1.0
     avg_copies: 4.0
+  unknown-79:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-82:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-83:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-86:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-89:
+    weight: 1.0
+    avg_copies: 1.0
 ---

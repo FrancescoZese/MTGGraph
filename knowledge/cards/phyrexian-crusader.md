@@ -10,7 +10,7 @@ type: Creature — Phyrexian Zombie Knight
 meta_presence: 0.0008
 archetypes:
   necrodominance:
-    weight: 0.0357
+    weight: 0.0345
     avg_copies: 2.0
   unknown-18:
     weight: 1.0

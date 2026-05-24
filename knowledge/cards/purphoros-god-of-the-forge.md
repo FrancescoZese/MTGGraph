@@ -10,6 +10,6 @@ type: Legendary Enchantment Creature — God
 meta_presence: 0.0004
 archetypes:
   boros-energy:
-    weight: 0.0025
+    weight: 0.0024
     avg_copies: 1.0
 ---

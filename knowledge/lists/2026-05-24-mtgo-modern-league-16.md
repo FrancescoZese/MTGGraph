@@ -1,0 +1,40 @@
+---
+archetype: unknown-62
+date: '2026-05-24'
+finish: 5-0
+pilot: TheTunnelingCat
+source: MTGO Modern League
+---
+
+
+# Mainboard
+2 Spell Pierce
+2 Consign to Memory
+4 Ephemerate
+3 Plains
+4 Guide of Souls
+4 Phelia, Exuberant Shepherd
+1 Island
+1 Meticulous Archive
+1 Mockingbird
+4 Ocelot Pride
+3 Hallowed Fountain
+4 Flooded Strand
+4 Quantum Riddler
+1 Sink into Stupor
+1 Skycoach Conductor
+4 Solitude
+4 Arid Mesa
+4 Starfield Shepherd
+2 Subtlety
+3 Teferi, Time Raveler
+4 Witch Enchanter
+
+# Sideboard
+2 Consign to Memory
+1 Force of Negation
+2 Harbinger of the Seas
+3 Mystical Dispute
+3 Prismatic Ending
+1 Subtlety
+3 Wrath of the Skies

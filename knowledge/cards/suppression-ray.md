@@ -10,9 +10,9 @@ meta_presence: 0.0215
 archetypes:
   mono-blue-belcher:
     weight: 1.0
-    avg_copies: 3.85
+    avg_copies: 3.87
   azorius-control:
-    weight: 0.1
+    weight: 0.0833
     avg_copies: 4.0
   unknown-16:
     weight: 0.6667

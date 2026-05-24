@@ -6,15 +6,15 @@ name: Ketria Triome
 scryfall_id: a249b1f4-2b22-4b67-a207-e0c4ae95d2e1
 set: iko
 type: Land — Forest Island Mountain
-meta_presence: 0.0017
+meta_presence: 0.0015
 archetypes:
   eldrazi-ramp:
-    weight: 0.0164
+    weight: 0.0161
     avg_copies: 1.0
   indomitable-creativity:
-    weight: 0.25
+    weight: 0.2222
     avg_copies: 1.0
   unknown-65:
-    weight: 0.0833
+    weight: 0.0625
     avg_copies: 1.0
 ---

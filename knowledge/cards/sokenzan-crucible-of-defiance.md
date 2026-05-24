@@ -6,8 +6,11 @@ name: Sokenzan, Crucible of Defiance
 scryfall_id: aa548dcd-c1dd-492d-a69f-c65dfeef0633
 set: neo
 type: Legendary Land
-meta_presence: 0.0008
+meta_presence: 0.0012
 archetypes:
+  boros-energy:
+    weight: 0.0024
+    avg_copies: 1.0
   unknown-8:
     weight: 1.0
     avg_copies: 1.0

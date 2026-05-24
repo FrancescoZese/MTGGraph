@@ -9,7 +9,7 @@ type: Legendary Creature — Human Knight // Legendary Creature — Human Knight
 meta_presence: 0.0008
 archetypes:
   rakdos-aggro:
-    weight: 0.0769
+    weight: 0.0714
     avg_copies: 1.0
   soultrader-combo0:
     weight: 1.0

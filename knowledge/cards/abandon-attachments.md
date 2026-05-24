@@ -11,9 +11,9 @@ type: Instant — Lesson
 meta_presence: 0.0008
 archetypes:
   domain-zoo:
-    weight: 0.0137
+    weight: 0.0132
     avg_copies: 1.0
   rakdos-aggro:
-    weight: 0.0769
+    weight: 0.0714
     avg_copies: 1.0
 ---

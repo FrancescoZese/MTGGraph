@@ -6,7 +6,7 @@ name: Zagoth Triome
 scryfall_id: cc520518-2063-4b57-a0d4-10cf62a7175e
 set: iko
 type: Land — Swamp Forest Island
-meta_presence: 0.0012
+meta_presence: 0.0015
 archetypes:
   4c-omnath:
     weight: 0.25
@@ -16,5 +16,8 @@ archetypes:
     avg_copies: 1.0
   unknown-72:
     weight: 1.0
+    avg_copies: 1.0
+  unknown-85:
+    weight: 0.3333
     avg_copies: 1.0
 ---

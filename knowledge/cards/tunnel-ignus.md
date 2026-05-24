@@ -10,12 +10,12 @@ type: Creature — Elemental
 meta_presence: 0.0012
 archetypes:
   boros-energy:
-    weight: 0.0025
+    weight: 0.0024
     avg_copies: 1.0
   burn:
-    weight: 0.0833
+    weight: 0.0625
     avg_copies: 2.0
   broodscale-combo:
-    weight: 0.0213
+    weight: 0.0167
     avg_copies: 1.0
 ---

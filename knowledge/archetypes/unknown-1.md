@@ -3,30 +3,33 @@ colors:
 - B
 - R
 name: 'Unknown #1'
-meta_share: 0.0017
+meta_share: 0.0015
 list_count: 4
 top_cards:
-- name: Archon of Cruelty
-  weight: 1.0
-  avg_copies: 4.0
-- name: Stitcher's Supplier
-  weight: 1.0
-  avg_copies: 4.0
 - name: Faithless Looting
-  weight: 1.0
-  avg_copies: 4.0
-- name: Vexing Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Bloodghast
   weight: 1.0
   avg_copies: 4.0
+- name: Archon of Cruelty
+  weight: 1.0
+  avg_copies: 4.0
 - name: Flare of Malice
+  weight: 1.0
+  avg_copies: 4.0
+- name: Vexing Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
 - name: Persist
   weight: 1.0
   avg_copies: 3.75
+- name: Orcish Bowmasters
+  weight: 1.0
+  avg_copies: 3.0
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 3.0
@@ -36,19 +39,22 @@ top_cards:
 - name: Rakdos Charm
   weight: 1.0
   avg_copies: 3.0
-- name: Orcish Bowmasters
-  weight: 1.0
-  avg_copies: 3.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 2.25
-- name: Extract the Truth
+- name: Mountain
+  weight: 1.0
+  avg_copies: 2.0
+- name: Corrupted Conviction
+  weight: 1.0
+  avg_copies: 2.0
+- name: Village Rites
+  weight: 1.0
+  avg_copies: 2.0
+- name: Brotherhood's End
   weight: 1.0
   avg_copies: 2.0
 - name: Raucous Theater
-  weight: 1.0
-  avg_copies: 2.0
-- name: Polluted Delta
   weight: 1.0
   avg_copies: 2.0
 - name: Spymaster's Vault
@@ -57,19 +63,13 @@ top_cards:
 - name: Fatal Push
   weight: 1.0
   avg_copies: 2.0
-- name: Mountain
-  weight: 1.0
-  avg_copies: 2.0
-- name: Village Rites
-  weight: 1.0
-  avg_copies: 2.0
 - name: Swamp
   weight: 1.0
   avg_copies: 2.0
-- name: Brotherhood's End
+- name: Extract the Truth
   weight: 1.0
   avg_copies: 2.0
-- name: Corrupted Conviction
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 2.0
 - name: Wooded Foothills

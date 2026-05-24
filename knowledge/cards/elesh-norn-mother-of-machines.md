@@ -16,28 +16,31 @@ archetypes:
     weight: 0.1172
     avg_copies: 1.0
   goryo:
-    weight: 0.092
+    weight: 0.0968
     avg_copies: 1.0
   mardu-blink:
     weight: 0.087
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.0241
+    weight: 0.0233
     avg_copies: 2.0
   4c-omnath:
     weight: 0.5
     avg_copies: 1.0
   esper-blink:
-    weight: 0.2857
+    weight: 0.2593
     avg_copies: 1.0
   indomitable-creativity:
-    weight: 0.125
+    weight: 0.1111
     avg_copies: 1.0
   orzhov-blink:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 1.0
   bant-control:
     weight: 1.0
+    avg_copies: 1.0
+  azorius-blink:
+    weight: 0.0476
     avg_copies: 1.0
   naya-midrange:
     weight: 1.0

@@ -6,26 +6,26 @@ name: Bloodstained Mire
 scryfall_id: 579743fe-f71e-4cb2-8629-d6b02ed1591d
 set: mh3
 type: Land
-meta_presence: 0.1568
+meta_presence: 0.1596
 archetypes:
   ruby-storm:
-    weight: 0.9324
-    avg_copies: 2.45
+    weight: 0.9375
+    avg_copies: 2.4
   boros-energy:
-    weight: 0.0102
+    weight: 0.0097
     avg_copies: 2.75
   dimir-control:
     weight: 0.0864
     avg_copies: 2.57
   necrodominance:
-    weight: 0.2143
-    avg_copies: 2.67
+    weight: 0.2414
+    avg_copies: 2.43
   reanimator:
     weight: 0.8889
     avg_copies: 3.62
   burn:
-    weight: 0.8333
-    avg_copies: 1.6
+    weight: 0.875
+    avg_copies: 1.57
   mardu-blink:
     weight: 0.8696
     avg_copies: 1.85
@@ -33,14 +33,14 @@ archetypes:
     weight: 1.0
     avg_copies: 3.42
   simic-ritual:
-    weight: 0.0192
+    weight: 0.0182
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.9091
-    avg_copies: 2.81
+    weight: 0.9174
+    avg_copies: 2.82
   indomitable-creativity:
     weight: 1.0
-    avg_copies: 2.75
+    avg_copies: 2.67
   dredge:
     weight: 0.9375
     avg_copies: 2.93
@@ -57,14 +57,14 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   rakdos-aggro:
-    weight: 0.9231
+    weight: 0.9286
     avg_copies: 4.0
   the-rock:
     weight: 0.5
     avg_copies: 1.0
   goryo1:
     weight: 1.0
-    avg_copies: 3.93
+    avg_copies: 3.88
   goryo5:
     weight: 0.6667
     avg_copies: 3.0
@@ -114,14 +114,14 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-45:
-    weight: 0.0833
+    weight: 0.0769
     avg_copies: 4.0
   unknown-46:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.2222
-    avg_copies: 1.5
+    weight: 0.2
+    avg_copies: 1.67
   unknown-50:
     weight: 1.0
     avg_copies: 2.0
@@ -146,10 +146,19 @@ archetypes:
   unknown-71:
     weight: 1.0
     avg_copies: 2.0
+  unknown-81:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-86:
+    weight: 1.0
+    avg_copies: 1.0
   unknown-78:
     weight: 1.0
     avg_copies: 2.0
   unknown-77:
     weight: 1.0
     avg_copies: 2.0
+  unknown-90:
+    weight: 1.0
+    avg_copies: 4.0
 ---

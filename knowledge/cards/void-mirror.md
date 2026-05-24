@@ -9,13 +9,13 @@ type: Artifact
 meta_presence: 0.0058
 archetypes:
   affinity:
-    weight: 0.004
+    weight: 0.0038
     avg_copies: 1.0
   burn:
-    weight: 0.0833
+    weight: 0.0625
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0656
+    weight: 0.0645
     avg_copies: 1.0
   rakdos-lantern-combo:
     weight: 0.5
@@ -30,6 +30,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-45:
-    weight: 0.25
+    weight: 0.2308
     avg_copies: 1.0
+  unknown-47:
+    weight: 0.0667
+    avg_copies: 2.0
 ---

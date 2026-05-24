@@ -10,6 +10,6 @@ type: Instant
 meta_presence: 0.0012
 archetypes:
   hammer-time:
-    weight: 0.75
-    avg_copies: 2.0
+    weight: 0.6
+    avg_copies: 1.75
 ---
