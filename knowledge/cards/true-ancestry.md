@@ -7,13 +7,13 @@ name: True Ancestry
 scryfall_id: 8c55b333-dc8b-4332-895b-eec5eb45543f
 set: tla
 type: Sorcery — Lesson
-meta_presence: 0.0058
+meta_presence: 0.0059
 archetypes:
   izzet-prowess:
-    weight: 0.0165
+    weight: 0.0153
     avg_copies: 1.0
   unknown-45:
-    weight: 0.9231
+    weight: 0.9286
     avg_copies: 1.0
   unknown-57:
     weight: 1.0

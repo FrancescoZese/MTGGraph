@@ -8,10 +8,10 @@ name: Abandon Attachments
 scryfall_id: 74ca45a4-97ab-4255-9129-884e8b42b984
 set: tla
 type: Instant — Lesson
-meta_presence: 0.0008
+meta_presence: 0.0007
 archetypes:
   domain-zoo:
-    weight: 0.0132
+    weight: 0.013
     avg_copies: 1.0
   rakdos-aggro:
     weight: 0.0714

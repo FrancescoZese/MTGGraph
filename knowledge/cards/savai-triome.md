@@ -9,6 +9,6 @@ type: Land — Mountain Plains Swamp
 meta_presence: 0.0004
 archetypes:
   unknown-85:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 1.0
 ---

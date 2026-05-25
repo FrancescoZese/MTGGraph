@@ -7,9 +7,9 @@ name: Step Through
 scryfall_id: 716534cb-aa89-4de7-9aa5-8d8aa4422a6a
 set: mh2
 type: Sorcery
-meta_presence: 0.0012
+meta_presence: 0.0011
 archetypes:
   mono-blue-belcher:
-    weight: 0.0577
+    weight: 0.0566
     avg_copies: 1.0
 ---

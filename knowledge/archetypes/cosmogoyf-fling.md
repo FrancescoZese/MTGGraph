@@ -4,22 +4,22 @@ colors:
 - R
 - G
 name: Cosmogoyf Fling
-meta_share: 0.0081
+meta_share: 0.0078
 list_count: 21
 top_cards:
-- name: Thud
+- name: Plunge into Darkness
   weight: 1.0
   avg_copies: 4.0
-- name: Plunge into Darkness
+- name: Thud
   weight: 1.0
   avg_copies: 4.0
 - name: Spoils of the Vault
   weight: 1.0
   avg_copies: 3.9
-- name: Gemstone Caverns
+- name: Blackcleave Cliffs
   weight: 1.0
   avg_copies: 3.86
-- name: Blackcleave Cliffs
+- name: Gemstone Caverns
   weight: 1.0
   avg_copies: 3.86
 - name: Serum Powder

@@ -11,16 +11,16 @@ type: Legendary Planeswalker — Grist
 meta_presence: 0.0203
 archetypes:
   goryo:
-    weight: 0.0108
+    weight: 0.0105
     avg_copies: 1.0
   reanimator:
     weight: 0.037
     avg_copies: 2.0
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 1.08
+    avg_copies: 1.12
   samwise-combo:
-    weight: 0.3846
+    weight: 0.3571
     avg_copies: 1.05
   jund-saga:
     weight: 0.5

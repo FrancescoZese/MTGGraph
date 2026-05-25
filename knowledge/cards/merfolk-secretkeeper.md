@@ -10,6 +10,6 @@ type: Creature — Merfolk Wizard // Sorcery — Adventure
 meta_presence: 0.0004
 archetypes:
   unknown-30:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 4.0
 ---

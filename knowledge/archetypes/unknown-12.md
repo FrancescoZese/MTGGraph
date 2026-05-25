@@ -5,19 +5,13 @@ name: 'Unknown #12'
 meta_share: 0.0004
 list_count: 1
 top_cards:
-- name: White Orchid Phantom
-  weight: 1.0
-  avg_copies: 4.0
 - name: Reprieve
   weight: 1.0
   avg_copies: 4.0
 - name: March of Otherworldly Light
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ghost Quarter
+- name: Demolition Field
   weight: 1.0
   avg_copies: 4.0
 - name: Field of Ruin
@@ -26,16 +20,25 @@ top_cards:
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 4.0
-- name: Demolition Field
+- name: Ghost Quarter
+  weight: 1.0
+  avg_copies: 4.0
+- name: White Orchid Phantom
+  weight: 1.0
+  avg_copies: 4.0
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Witch Enchanter
   weight: 1.0
   avg_copies: 3.0
-- name: Erode
+- name: High Noon
   weight: 1.0
   avg_copies: 2.0
-- name: High Noon
+- name: Sunken Citadel
+  weight: 1.0
+  avg_copies: 2.0
+- name: Erode
   weight: 1.0
   avg_copies: 2.0
 - name: Skyclave Apparition
@@ -44,28 +47,28 @@ top_cards:
 - name: Serra Paragon
   weight: 1.0
   avg_copies: 2.0
-- name: Sunken Citadel
-  weight: 1.0
-  avg_copies: 2.0
-- name: Damping Sphere
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
-- name: Crucible of Worlds
+- name: Disruptor Flute
   weight: 1.0
   avg_copies: 1.0
-- name: Path to Exile
-  weight: 1.0
-  avg_copies: 1.0
-- name: Orim's Chant
-  weight: 1.0
-  avg_copies: 1.0
-- name: Liquimetal Coating
+- name: Wrath of God
   weight: 1.0
   avg_copies: 1.0
 - name: Portable Hole
   weight: 1.0
   avg_copies: 1.0
-- name: Disruptor Flute
+- name: Liquimetal Coating
+  weight: 1.0
+  avg_copies: 1.0
+- name: Damping Sphere
+  weight: 1.0
+  avg_copies: 1.0
+- name: Orim's Chant
+  weight: 1.0
+  avg_copies: 1.0
+- name: Relic of Progenitus
   weight: 1.0
   avg_copies: 1.0
 - name: Grafdigger's Cage
@@ -77,25 +80,22 @@ top_cards:
 - name: Temporary Lockdown
   weight: 1.0
   avg_copies: 1.0
-- name: Relic of Progenitus
-  weight: 1.0
-  avg_copies: 1.0
-- name: Sunscour
-  weight: 1.0
-  avg_copies: 1.0
 - name: Karn, the Great Creator
   weight: 1.0
   avg_copies: 1.0
-- name: Plains
-  weight: 1.0
-  avg_copies: 1.0
-- name: Wrath of God
+- name: The Wandering Emperor
   weight: 1.0
   avg_copies: 1.0
 - name: Castle Ardenvale
   weight: 1.0
   avg_copies: 1.0
-- name: The Wandering Emperor
+- name: Crucible of Worlds
+  weight: 1.0
+  avg_copies: 1.0
+- name: Path to Exile
+  weight: 1.0
+  avg_copies: 1.0
+- name: Sunscour
   weight: 1.0
   avg_copies: 1.0
 ---

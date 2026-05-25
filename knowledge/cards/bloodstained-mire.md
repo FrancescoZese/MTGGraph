@@ -6,13 +6,13 @@ name: Bloodstained Mire
 scryfall_id: 579743fe-f71e-4cb2-8629-d6b02ed1591d
 set: mh3
 type: Land
-meta_presence: 0.1596
+meta_presence: 0.1636
 archetypes:
   ruby-storm:
-    weight: 0.9375
-    avg_copies: 2.4
+    weight: 0.9412
+    avg_copies: 2.41
   boros-energy:
-    weight: 0.0097
+    weight: 0.0095
     avg_copies: 2.75
   dimir-control:
     weight: 0.0864
@@ -24,20 +24,20 @@ archetypes:
     weight: 0.8889
     avg_copies: 3.62
   burn:
-    weight: 0.875
-    avg_copies: 1.57
+    weight: 0.8889
+    avg_copies: 1.5
   mardu-blink:
     weight: 0.8696
     avg_copies: 1.85
   hollow-one:
     weight: 1.0
-    avg_copies: 3.42
+    avg_copies: 3.44
   simic-ritual:
-    weight: 0.0182
+    weight: 0.0179
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.9174
-    avg_copies: 2.82
+    weight: 0.9237
+    avg_copies: 2.8
   indomitable-creativity:
     weight: 1.0
     avg_copies: 2.67
@@ -64,7 +64,7 @@ archetypes:
     avg_copies: 1.0
   goryo1:
     weight: 1.0
-    avg_copies: 3.88
+    avg_copies: 3.89
   goryo5:
     weight: 0.6667
     avg_copies: 3.0
@@ -96,7 +96,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-30:
-    weight: 1.0
+    weight: 0.6667
     avg_copies: 1.5
   unknown-27:
     weight: 1.0
@@ -114,13 +114,13 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-45:
-    weight: 0.0769
+    weight: 0.0714
     avg_copies: 4.0
   unknown-46:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.2
+    weight: 0.1579
     avg_copies: 1.67
   unknown-50:
     weight: 1.0
@@ -139,7 +139,7 @@ archetypes:
     avg_copies: 4.0
   unknown-68:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 2.67
   unknown-69:
     weight: 1.0
     avg_copies: 2.0
@@ -151,11 +151,17 @@ archetypes:
     avg_copies: 2.0
   unknown-86:
     weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 2.5
   unknown-78:
     weight: 1.0
     avg_copies: 2.0
   unknown-77:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-96:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-91:
     weight: 1.0
     avg_copies: 2.0
   unknown-90:

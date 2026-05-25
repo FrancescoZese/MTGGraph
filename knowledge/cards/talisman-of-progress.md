@@ -6,12 +6,12 @@ name: Talisman of Progress
 scryfall_id: 9d6a5ed4-54b3-4660-8d41-953336f2fe74
 set: tdc
 type: Artifact
-meta_presence: 0.0019
+meta_presence: 0.0018
 archetypes:
   mono-blue-belcher:
-    weight: 0.0769
+    weight: 0.0755
     avg_copies: 1.75
   mono-blue-tron:
-    weight: 0.0909
+    weight: 0.0833
     avg_copies: 1.0
 ---

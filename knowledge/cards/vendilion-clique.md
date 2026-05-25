@@ -7,10 +7,10 @@ name: Vendilion Clique
 scryfall_id: cd702cf1-10ca-4448-9fb1-b6de635e839c
 set: a25
 type: Legendary Creature — Faerie Wizard
-meta_presence: 0.0012
+meta_presence: 0.0011
 archetypes:
   azorius-control:
-    weight: 0.0417
+    weight: 0.0385
     avg_copies: 1.0
   jeskai-control:
     weight: 0.0357

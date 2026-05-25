@@ -9,11 +9,11 @@ type: Artifact
 meta_presence: 0.0203
 archetypes:
   mono-blue-belcher:
-    weight: 0.0192
+    weight: 0.0189
     avg_copies: 1.0
   azorius-control:
-    weight: 0.9167
-    avg_copies: 1.54
+    weight: 0.9231
+    avg_copies: 1.58
   jeskai-control:
     weight: 0.8571
     avg_copies: 1.39

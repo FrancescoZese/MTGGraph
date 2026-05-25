@@ -12,12 +12,12 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   sultai-midrange:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 1.0
   unknown-72:
     weight: 1.0
     avg_copies: 1.0
   unknown-85:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 1.0
 ---

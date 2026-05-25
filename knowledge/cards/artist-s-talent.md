@@ -7,11 +7,11 @@ name: Artist's Talent
 scryfall_id: 8b9e51d9-189b-4dd6-87cb-628ea6373e81
 set: blb
 type: Enchantment — Class
-meta_presence: 0.0345
+meta_presence: 0.0347
 archetypes:
   ruby-storm:
-    weight: 0.95
-    avg_copies: 1.93
+    weight: 0.9412
+    avg_copies: 1.94
   dredge:
     weight: 0.875
     avg_copies: 3.07

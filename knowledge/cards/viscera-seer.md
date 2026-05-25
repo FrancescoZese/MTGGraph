@@ -7,9 +7,9 @@ name: Viscera Seer
 scryfall_id: f511830b-1c1f-4d30-aa5d-4314726d142e
 set: soc
 type: Creature — Vampire Wizard
-meta_presence: 0.01
+meta_presence: 0.0103
 archetypes:
   samwise-combo:
     weight: 1.0
-    avg_copies: 1.69
+    avg_copies: 1.64
 ---

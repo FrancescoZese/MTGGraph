@@ -6,8 +6,11 @@ name: Cranial Plating
 scryfall_id: e1375f17-bc25-4a65-98b7-4785bbdbe974
 set: 2xm
 type: Artifact — Equipment
-meta_presence: 0.0004
+meta_presence: 0.0007
 archetypes:
+  affinity:
+    weight: 0.0037
+    avg_copies: 1.0
   unknown-44:
     weight: 1.0
     avg_copies: 4.0

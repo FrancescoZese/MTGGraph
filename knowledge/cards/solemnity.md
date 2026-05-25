@@ -7,7 +7,7 @@ name: Solemnity
 scryfall_id: 0a71fb62-acbd-49f5-842f-0fc9fa48afea
 set: hou
 type: Enchantment
-meta_presence: 0.0012
+meta_presence: 0.0011
 archetypes:
   unknown-9:
     weight: 1.0

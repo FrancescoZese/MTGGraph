@@ -6,12 +6,15 @@ name: Hollow One
 scryfall_id: 43fe9c6d-4fa2-4f9a-9025-1bf12fe7ed9f
 set: hou
 type: Artifact Creature — Golem
-meta_presence: 0.0104
+meta_presence: 0.0107
 archetypes:
   hollow-one:
     weight: 1.0
     avg_copies: 4.0
   unknown-29:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-96:
     weight: 1.0
     avg_copies: 4.0
 ---

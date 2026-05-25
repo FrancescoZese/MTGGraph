@@ -6,16 +6,16 @@ name: Mountain
 scryfall_id: a642c7b1-d4d1-4125-a66d-560438e5ee51
 set: sos
 type: Basic Land — Mountain
-meta_presence: 0.3929
+meta_presence: 0.3922
 archetypes:
   ruby-storm:
     weight: 1.0
-    avg_copies: 3.04
+    avg_copies: 3.08
   boros-energy:
-    weight: 0.784
+    weight: 0.7876
     avg_copies: 1.0
   mono-blue-belcher:
-    weight: 0.2115
+    weight: 0.2075
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.7891
@@ -24,10 +24,10 @@ archetypes:
     weight: 0.2143
     avg_copies: 1.0
   affinity:
-    weight: 0.0115
+    weight: 0.0111
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.9605
+    weight: 0.961
     avg_copies: 1.0
   reanimator:
     weight: 0.1111
@@ -42,14 +42,14 @@ archetypes:
     weight: 0.8333
     avg_copies: 1.0
   hollow-one:
-    weight: 0.8462
-    avg_copies: 1.32
+    weight: 0.8519
+    avg_copies: 1.3
   boros-ponza:
-    weight: 0.9767
+    weight: 0.977
     avg_copies: 1.11
   izzet-prowess:
     weight: 1.0
-    avg_copies: 2.26
+    avg_copies: 2.28
   indomitable-creativity:
     weight: 1.0
     avg_copies: 1.11
@@ -93,7 +93,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo1:
-    weight: 0.0303
+    weight: 0.0278
     avg_copies: 1.0
   goryo4:
     weight: 1.0
@@ -145,7 +145,7 @@ archetypes:
     avg_copies: 1.0
   unknown-26:
     weight: 1.0
-    avg_copies: 1.75
+    avg_copies: 1.83
   unknown-27:
     weight: 1.0
     avg_copies: 1.0
@@ -177,13 +177,16 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-65:
-    weight: 0.9375
+    weight: 0.9444
     avg_copies: 1.0
   unknown-66:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.0526
+    weight: 0.0455
+    avg_copies: 1.0
+  unknown-68:
+    weight: 0.3333
     avg_copies: 1.0
   unknown-70:
     weight: 0.5
@@ -198,9 +201,15 @@ archetypes:
     weight: 1.0
     avg_copies: 9.0
   unknown-85:
-    weight: 0.6667
+    weight: 0.75
     avg_copies: 1.0
   unknown-86:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 3.5
+  unknown-92:
+    weight: 1.0
+    avg_copies: 10.0
+  unknown-96:
+    weight: 1.0
+    avg_copies: 1.0
 ---

@@ -3,7 +3,7 @@ colors:
 - B
 - G
 name: Mono Green Ramp
-meta_share: 0.0023
+meta_share: 0.0022
 list_count: 6
 top_cards:
 - name: Green Sun's Zenith
@@ -12,16 +12,16 @@ top_cards:
 - name: Quirion Ranger
   weight: 1.0
   avg_copies: 4.0
-- name: Badgermole Cub
-  weight: 1.0
-  avg_copies: 4.0
 - name: Springheart Nantuko
   weight: 1.0
   avg_copies: 4.0
-- name: Misty Rainforest
+- name: Badgermole Cub
+  weight: 1.0
+  avg_copies: 4.0
+- name: Windswept Heath
   weight: 1.0
   avg_copies: 3.33
-- name: Windswept Heath
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 3.33
 - name: Summoner's Pact
@@ -69,13 +69,13 @@ top_cards:
 - name: Leyline of Abundance
   weight: 0.6667
   avg_copies: 3.25
-- name: Thoughtseize
+- name: Tyvar, Jubilant Brawler
   weight: 0.6667
   avg_copies: 3.0
 - name: Lotus Cobra
   weight: 0.6667
   avg_copies: 3.0
-- name: Tyvar, Jubilant Brawler
+- name: Thoughtseize
   weight: 0.6667
   avg_copies: 3.0
 - name: Mai, Scornful Striker
@@ -93,22 +93,22 @@ top_cards:
 - name: Creeping Corrosion
   weight: 0.6667
   avg_copies: 1.25
+- name: Underground Mortuary
+  weight: 0.6667
+  avg_copies: 1.0
 - name: Formidable Speaker
   weight: 0.6667
   avg_copies: 1.0
 - name: Nissa, Resurgent Animist
   weight: 0.6667
   avg_copies: 1.0
-- name: Underground Mortuary
-  weight: 0.6667
-  avg_copies: 1.0
+- name: The Great Henge
+  weight: 0.3333
+  avg_copies: 4.0
 - name: Slumbering Trudge
   weight: 0.3333
   avg_copies: 4.0
 - name: Fanatic of Rhonas
-  weight: 0.3333
-  avg_copies: 4.0
-- name: The Great Henge
   weight: 0.3333
   avg_copies: 4.0
 - name: Life's Legacy
@@ -117,16 +117,16 @@ top_cards:
 - name: Trinisphere
   weight: 0.3333
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Damping Sphere
   weight: 0.1667
   avg_copies: 3.0
-- name: Force of Vigor
+- name: Vexing Bauble
   weight: 0.1667
   avg_copies: 3.0
 - name: Fade from History
   weight: 0.1667
   avg_copies: 3.0
-- name: Damping Sphere
+- name: Force of Vigor
   weight: 0.1667
   avg_copies: 3.0
 - name: Soulless Jailer

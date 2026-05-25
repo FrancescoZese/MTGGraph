@@ -7,9 +7,12 @@ name: Storm's Wrath
 scryfall_id: 6d064aff-711f-4670-b786-a74265bdf44a
 set: tdc
 type: Sorcery
-meta_presence: 0.0004
+meta_presence: 0.0007
 archetypes:
   boros-ponza:
-    weight: 0.0116
+    weight: 0.0115
+    avg_copies: 1.0
+  unknown-76:
+    weight: 0.5
     avg_copies: 1.0
 ---

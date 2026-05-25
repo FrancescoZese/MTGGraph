@@ -5,31 +5,7 @@ name: 'Unknown #61'
 meta_share: 0.0004
 list_count: 1
 top_cards:
-- name: Kozilek's Command
-  weight: 1.0
-  avg_copies: 4.0
-- name: Fanatic of Rhonas
-  weight: 1.0
-  avg_copies: 4.0
-- name: Turntimber Symbiosis
-  weight: 1.0
-  avg_copies: 4.0
-- name: Slumbering Trudge
-  weight: 1.0
-  avg_copies: 4.0
-- name: Fight Rigging
-  weight: 1.0
-  avg_copies: 4.0
-- name: Disciple of Freyalise
-  weight: 1.0
-  avg_copies: 4.0
-- name: Eldrazi Temple
-  weight: 1.0
-  avg_copies: 4.0
 - name: Devourer of Destiny
-  weight: 1.0
-  avg_copies: 4.0
-- name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
 - name: Ugin's Labyrinth
@@ -41,12 +17,33 @@ top_cards:
 - name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 4.0
+- name: Sowing Mycospawn
+  weight: 1.0
+  avg_copies: 4.0
+- name: Slumbering Trudge
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fight Rigging
+  weight: 1.0
+  avg_copies: 4.0
+- name: Eldrazi Temple
+  weight: 1.0
+  avg_copies: 4.0
 - name: Emrakul, the Promised End
   weight: 1.0
   avg_copies: 4.0
-- name: Thought-Knot Seer
+- name: Fanatic of Rhonas
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 4.0
+- name: Kozilek's Command
+  weight: 1.0
+  avg_copies: 4.0
+- name: Turntimber Symbiosis
+  weight: 1.0
+  avg_copies: 4.0
+- name: Disciple of Freyalise
+  weight: 1.0
+  avg_copies: 4.0
 - name: Endurance
   weight: 1.0
   avg_copies: 3.0
@@ -56,13 +53,16 @@ top_cards:
 - name: Fade from History
   weight: 1.0
   avg_copies: 3.0
-- name: Forest
+- name: Thought-Knot Seer
   weight: 1.0
-  avg_copies: 1.0
-- name: Chomping Changeling
+  avg_copies: 3.0
+- name: Mosswort Bridge
   weight: 1.0
   avg_copies: 1.0
 - name: Dryad Arbor
+  weight: 1.0
+  avg_copies: 1.0
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Collector Ouphe
@@ -71,7 +71,7 @@ top_cards:
 - name: Ghost Quarter
   weight: 1.0
   avg_copies: 1.0
-- name: Mosswort Bridge
+- name: Chomping Changeling
   weight: 1.0
   avg_copies: 1.0
 ---

@@ -11,7 +11,7 @@ type: Legendary Creature — Kithkin Advisor
 meta_presence: 0.0092
 archetypes:
   samwise-combo:
-    weight: 0.8077
+    weight: 0.7857
     avg_copies: 1.0
   selesnya-midrange:
     weight: 1.0

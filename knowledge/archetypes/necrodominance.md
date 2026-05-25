@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: Necrodominance
-meta_share: 0.0111
+meta_share: 0.0107
 list_count: 29
 top_cards:
 - name: Swamp
@@ -96,10 +96,10 @@ top_cards:
 - name: Damnation
   weight: 0.2069
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Verdant Catacombs
   weight: 0.1724
   avg_copies: 1.6
-- name: Verdant Catacombs
+- name: Ashiok, Dream Render
   weight: 0.1724
   avg_copies: 1.6
 - name: Marsh Flats
@@ -108,10 +108,10 @@ top_cards:
 - name: Undercity Sewers
   weight: 0.1379
   avg_copies: 1.0
-- name: Duress
+- name: Disruptor Flute
   weight: 0.1034
   avg_copies: 1.33
-- name: Disruptor Flute
+- name: Duress
   weight: 0.1034
   avg_copies: 1.33
 - name: Psychic Frog
@@ -123,40 +123,34 @@ top_cards:
 - name: Vein Ripper
   weight: 0.069
   avg_copies: 4.0
-- name: Consign to Memory
-  weight: 0.069
-  avg_copies: 3.5
 - name: Watery Grave
   weight: 0.069
   avg_copies: 3.5
-- name: Wrench Mind
+- name: Consign to Memory
   weight: 0.069
-  avg_copies: 2.0
-- name: Agadeem's Awakening
-  weight: 0.069
-  avg_copies: 2.0
+  avg_copies: 3.5
 - name: Long Goodbye
+  weight: 0.069
+  avg_copies: 2.0
+- name: Wrench Mind
   weight: 0.069
   avg_copies: 2.0
 - name: Necromentia
   weight: 0.069
   avg_copies: 2.0
-- name: Toxic Deluge
+- name: Agadeem's Awakening
   weight: 0.069
-  avg_copies: 1.5
+  avg_copies: 2.0
 - name: Meltdown
   weight: 0.069
   avg_copies: 1.5
 - name: The Filigree Sylex
   weight: 0.069
   avg_copies: 1.5
-- name: Slaughter Pact
+- name: Toxic Deluge
   weight: 0.069
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Raucous Theater
-  weight: 0.069
-  avg_copies: 1.0
-- name: Underground Mortuary
   weight: 0.069
   avg_copies: 1.0
 - name: Legion's End
@@ -165,7 +159,13 @@ top_cards:
 - name: Decorum Dissertation
   weight: 0.069
   avg_copies: 1.0
-- name: Requiting Hex
+- name: Slaughter Pact
+  weight: 0.069
+  avg_copies: 1.0
+- name: Underground Mortuary
+  weight: 0.069
+  avg_copies: 1.0
+- name: Sign in Blood
   weight: 0.0345
   avg_copies: 4.0
 - name: Gonti's Machinations
@@ -174,7 +174,7 @@ top_cards:
 - name: Iridescent Vinelasher
   weight: 0.0345
   avg_copies: 4.0
-- name: Sign in Blood
+- name: Requiting Hex
   weight: 0.0345
   avg_copies: 4.0
 - name: Mystical Dispute
@@ -183,46 +183,46 @@ top_cards:
 - name: Quantum Riddler
   weight: 0.0345
   avg_copies: 3.0
-- name: Hurkyl's Recall
-  weight: 0.0345
-  avg_copies: 2.0
-- name: End of the Hunt
-  weight: 0.0345
-  avg_copies: 2.0
-- name: Overgrown Tomb
-  weight: 0.0345
-  avg_copies: 2.0
 - name: Pillage the Bog
-  weight: 0.0345
-  avg_copies: 2.0
-- name: Culling Ritual
-  weight: 0.0345
-  avg_copies: 2.0
-- name: Mai, Scornful Striker
-  weight: 0.0345
-  avg_copies: 2.0
-- name: Phyrexian Crusader
   weight: 0.0345
   avg_copies: 2.0
 - name: Witherbloom Command
   weight: 0.0345
   avg_copies: 2.0
-- name: Blood Crypt
+- name: Culling Ritual
   weight: 0.0345
-  avg_copies: 1.0
-- name: Pick Your Poison
+  avg_copies: 2.0
+- name: Overgrown Tomb
+  weight: 0.0345
+  avg_copies: 2.0
+- name: Hurkyl's Recall
+  weight: 0.0345
+  avg_copies: 2.0
+- name: Mai, Scornful Striker
+  weight: 0.0345
+  avg_copies: 2.0
+- name: End of the Hunt
+  weight: 0.0345
+  avg_copies: 2.0
+- name: Phyrexian Crusader
+  weight: 0.0345
+  avg_copies: 2.0
+- name: Cling to Dust
   weight: 0.0345
   avg_copies: 1.0
 - name: Shizo, Death's Storehouse
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Cling to Dust
   weight: 0.0345
   avg_copies: 1.0
 - name: Nurturing Peatland
   weight: 0.0345
   avg_copies: 1.0
 - name: Kaito, Bane of Nightmares
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Pick Your Poison
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Blood Crypt
   weight: 0.0345
   avg_copies: 1.0
 ---

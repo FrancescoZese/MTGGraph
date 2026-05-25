@@ -6,12 +6,12 @@ name: Candy Trail
 scryfall_id: 1a860925-d912-49e5-9ddc-41ab26916bb3
 set: woe
 type: Artifact — Food Clue
-meta_presence: 0.0019
+meta_presence: 0.0018
 archetypes:
   goryo6:
     weight: 1.0
     avg_copies: 4.0
   unknown-26:
-    weight: 0.25
+    weight: 0.1667
     avg_copies: 3.0
 ---

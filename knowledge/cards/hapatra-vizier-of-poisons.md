@@ -11,6 +11,6 @@ type: Legendary Creature — Human Cleric
 meta_presence: 0.0015
 archetypes:
   yawgmoth-combo:
-    weight: 0.1081
+    weight: 0.1026
     avg_copies: 1.0
 ---

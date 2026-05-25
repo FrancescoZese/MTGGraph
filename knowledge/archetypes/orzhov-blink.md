@@ -3,28 +3,28 @@ colors:
 - W
 - B
 name: Orzhov Blink
-meta_share: 0.0023
+meta_share: 0.0022
 list_count: 6
 top_cards:
-- name: Solitude
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 4.0
 - name: Marsh Flats
+  weight: 1.0
+  avg_copies: 4.0
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
+- name: Thoughtseize
+  weight: 1.0
+  avg_copies: 4.0
 - name: Witch Enchanter
   weight: 1.0
   avg_copies: 3.67
-- name: Fatal Push
+- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.5
-- name: Phelia, Exuberant Shepherd
+- name: Fatal Push
   weight: 1.0
   avg_copies: 3.5
 - name: Flickerwisp
@@ -39,10 +39,10 @@ top_cards:
 - name: Plains
   weight: 1.0
   avg_copies: 2.17
-- name: Godless Shrine
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 2.0
-- name: Shadowy Backstreet
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 2.0
 - name: Boggart Trawler
@@ -69,13 +69,13 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.6667
   avg_copies: 3.5
-- name: Flooded Strand
+- name: Damping Sphere
   weight: 0.6667
   avg_copies: 2.25
 - name: Arid Mesa
   weight: 0.6667
   avg_copies: 2.25
-- name: Damping Sphere
+- name: Flooded Strand
   weight: 0.6667
   avg_copies: 2.25
 - name: Ketramose, the New Dawn
@@ -84,13 +84,13 @@ top_cards:
 - name: Relic of Progenitus
   weight: 0.5
   avg_copies: 2.75
-- name: Sheoldred's Edict
+- name: Prismatic Ending
   weight: 0.5
   avg_copies: 2.0
 - name: Dawnbringer Cleric
   weight: 0.5
   avg_copies: 2.0
-- name: Prismatic Ending
+- name: Sheoldred's Edict
   weight: 0.5
   avg_copies: 2.0
 - name: Vexing Bauble
@@ -120,34 +120,34 @@ top_cards:
 - name: Duress
   weight: 0.1667
   avg_copies: 2.0
-- name: End of the Hunt
-  weight: 0.1667
-  avg_copies: 2.0
 - name: Windswept Heath
   weight: 0.1667
   avg_copies: 2.0
-- name: Drannith Magistrate
+- name: End of the Hunt
   weight: 0.1667
-  avg_copies: 1.0
-- name: Eiganjo, Seat of the Empire
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Monumental Henge
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Vindicate
+  avg_copies: 2.0
+- name: Emptiness
   weight: 0.1667
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
   weight: 0.1667
   avg_copies: 1.0
-- name: Erode
-  weight: 0.1667
-  avg_copies: 1.0
 - name: March of Otherworldly Light
   weight: 0.1667
   avg_copies: 1.0
-- name: Emptiness
+- name: Vindicate
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Drannith Magistrate
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Monumental Henge
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Erode
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Eiganjo, Seat of the Empire
   weight: 0.1667
   avg_copies: 1.0
 - name: Raucous Theater

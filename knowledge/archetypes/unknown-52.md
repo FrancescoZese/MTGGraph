@@ -3,19 +3,13 @@ colors:
 - B
 - G
 name: 'Unknown #52'
-meta_share: 0.0008
+meta_share: 0.0007
 list_count: 2
 top_cards:
-- name: Gravecrawler
+- name: Shambling Ghast
   weight: 1.0
   avg_copies: 4.0
-- name: Orcish Bowmasters
-  weight: 1.0
-  avg_copies: 4.0
-- name: Phoenix Fleet Airship
-  weight: 1.0
-  avg_copies: 4.0
-- name: Phyrexian Tower
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
 - name: Verdant Catacombs
@@ -24,25 +18,31 @@ top_cards:
 - name: Marionette Apprentice
   weight: 1.0
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Phoenix Fleet Airship
   weight: 1.0
   avg_copies: 4.0
-- name: Malevolent Rumble
+- name: Gravecrawler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Phyrexian Tower
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Shambling Ghast
-  weight: 1.0
-  avg_copies: 4.0
 - name: Warren Soultrader
   weight: 1.0
   avg_copies: 4.0
-- name: Culling Ritual
+- name: Thoughtseize
+  weight: 1.0
+  avg_copies: 4.0
+- name: Orcish Bowmasters
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flare of Malice
   weight: 1.0
   avg_copies: 3.0
-- name: Flare of Malice
+- name: Culling Ritual
   weight: 1.0
   avg_copies: 3.0
 - name: Fatal Push
@@ -54,31 +54,31 @@ top_cards:
 - name: Overgrown Tomb
   weight: 1.0
   avg_copies: 2.0
-- name: Nihil Spellbomb
-  weight: 1.0
-  avg_copies: 1.5
 - name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 1.5
-- name: Shatter Assumptions
+- name: Nihil Spellbomb
   weight: 1.0
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Sephiroth, Fabled SOLDIER
   weight: 1.0
   avg_copies: 1.0
-- name: Chthonian Nightmare
+- name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.0
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.0
-- name: Spymaster's Vault
-  weight: 1.0
-  avg_copies: 1.0
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Underground Mortuary
+- name: Shatter Assumptions
+  weight: 1.0
+  avg_copies: 1.0
+- name: Spymaster's Vault
+  weight: 1.0
+  avg_copies: 1.0
+- name: Chthonian Nightmare
   weight: 1.0
   avg_copies: 1.0
 - name: Graveyard Trespasser
@@ -87,10 +87,10 @@ top_cards:
 - name: Break the Ice
   weight: 0.5
   avg_copies: 2.0
-- name: Cling to Dust
+- name: Nurturing Peatland
   weight: 0.5
   avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Cling to Dust
   weight: 0.5
   avg_copies: 1.0
 ---

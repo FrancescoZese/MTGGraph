@@ -3,16 +3,16 @@ colors:
 - B
 - R
 name: Rakdos Aggro
-meta_share: 0.0054
+meta_share: 0.0052
 list_count: 14
 top_cards:
-- name: Dragon's Rage Channeler
+- name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
-- name: Moonshadow
+- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Nethergoyf
@@ -126,40 +126,40 @@ top_cards:
 - name: Dai Li Indoctrination
   weight: 0.1429
   avg_copies: 1.0
-- name: Tarfire
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Sundering Eruption
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Price of Freedom
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Dreams of Steel and Oil
   weight: 0.1429
   avg_copies: 1.0
-- name: Whispers of Emrakul
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Firebending Lesson
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Decorum Dissertation
+- name: Tarfire
   weight: 0.1429
   avg_copies: 1.0
 - name: Dismember
   weight: 0.1429
   avg_copies: 1.0
-- name: Super Shredder
+- name: Decorum Dissertation
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Price of Freedom
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Sundering Eruption
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Firebending Lesson
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Whispers of Emrakul
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Bloodbraid Marauder
+  weight: 0.0714
+  avg_copies: 4.0
+- name: Magebane Lizard
   weight: 0.0714
   avg_copies: 4.0
 - name: Marsh Flats
   weight: 0.0714
   avg_copies: 4.0
-- name: Bloodbraid Marauder
-  weight: 0.0714
-  avg_copies: 4.0
-- name: Magebane Lizard
+- name: Super Shredder
   weight: 0.0714
   avg_copies: 4.0
 - name: Force of Despair
@@ -168,67 +168,67 @@ top_cards:
 - name: Fire-Brained Scheme
   weight: 0.0714
   avg_copies: 3.0
+- name: Feed the Swarm
+  weight: 0.0714
+  avg_copies: 2.0
 - name: Abigale, Eloquent First-Year
-  weight: 0.0714
-  avg_copies: 2.0
-- name: Blackcleave Cliffs
-  weight: 0.0714
-  avg_copies: 2.0
-- name: Torpor Orb
   weight: 0.0714
   avg_copies: 2.0
 - name: Break the Ice
   weight: 0.0714
   avg_copies: 2.0
-- name: Feed the Swarm
+- name: Sheoldred's Edict
   weight: 0.0714
   avg_copies: 2.0
 - name: Unearth
   weight: 0.0714
   avg_copies: 2.0
-- name: Sheoldred's Edict
+- name: Blackcleave Cliffs
   weight: 0.0714
   avg_copies: 2.0
 - name: Blood Moon
   weight: 0.0714
   avg_copies: 2.0
-- name: Ruinous Waterbending
+- name: Torpor Orb
   weight: 0.0714
-  avg_copies: 1.0
-- name: Ob Nixilis, the Adversary
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Duress
-  weight: 0.0714
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Troll of Khazad-dûm
   weight: 0.0714
   avg_copies: 1.0
-- name: Cecil, Dark Knight
+- name: Untimely Malfunction
   weight: 0.0714
   avg_copies: 1.0
-- name: Graveyard Trespasser
+- name: Ruinous Waterbending
   weight: 0.0714
   avg_copies: 1.0
 - name: Redirect Lightning
   weight: 0.0714
   avg_copies: 1.0
-- name: Fatal Push
+- name: Ob Nixilis, the Adversary
   weight: 0.0714
   avg_copies: 1.0
 - name: Engineered Explosives
   weight: 0.0714
   avg_copies: 1.0
-- name: Fire Magic
+- name: Fatal Push
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Duress
   weight: 0.0714
   avg_copies: 1.0
 - name: Abandon Attachments
   weight: 0.0714
   avg_copies: 1.0
-- name: Boggart Trawler
+- name: Graveyard Trespasser
   weight: 0.0714
   avg_copies: 1.0
-- name: Untimely Malfunction
+- name: Fire Magic
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Cecil, Dark Knight
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Boggart Trawler
   weight: 0.0714
   avg_copies: 1.0
 ---

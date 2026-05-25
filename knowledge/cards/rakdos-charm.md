@@ -8,16 +8,16 @@ name: Rakdos Charm
 scryfall_id: 64b67170-1602-4050-80c0-ade2a6cac211
 set: eoc
 type: Instant
-meta_presence: 0.0069
+meta_presence: 0.0066
 archetypes:
   reanimator:
     weight: 0.1111
     avg_copies: 3.0
   burn:
-    weight: 0.0625
+    weight: 0.0556
     avg_copies: 1.0
   hollow-one:
-    weight: 0.3077
+    weight: 0.2963
     avg_copies: 1.75
   grixis-control:
     weight: 0.5

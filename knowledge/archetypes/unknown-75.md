@@ -6,16 +6,10 @@ name: 'Unknown #75'
 meta_share: 0.0004
 list_count: 1
 top_cards:
-- name: Quantum Riddler
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Ocelot Pride
-  weight: 1.0
-  avg_copies: 4.0
-- name: Hallowed Fountain
-  weight: 1.0
-  avg_copies: 4.0
-- name: Solitude
+- name: Ranger-Captain of Eos
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
@@ -24,34 +18,37 @@ top_cards:
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
-- name: Ranger-Captain of Eos
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marsh Flats
+- name: Prismatic Ending
   weight: 1.0
   avg_copies: 4.0
 - name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 4.0
-- name: Prismatic Ending
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
-- name: Guide of Souls
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Ephemerate
+- name: Quantum Riddler
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 4.0
+- name: Solitude
+  weight: 1.0
+  avg_copies: 4.0
+- name: Hallowed Fountain
+  weight: 1.0
+  avg_copies: 4.0
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 3.0
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 3.0
-- name: Voice of Victory
+- name: Ephemerate
   weight: 1.0
-  avg_copies: 2.0
-- name: Rest in Peace
+  avg_copies: 3.0
+- name: Plains
   weight: 1.0
   avg_copies: 2.0
 - name: March of Otherworldly Light
@@ -63,10 +60,13 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 2.0
-- name: Meticulous Archive
+- name: Rest in Peace
   weight: 1.0
   avg_copies: 2.0
-- name: Plains
+- name: Voice of Victory
+  weight: 1.0
+  avg_copies: 2.0
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 2.0
 - name: Teferi, Time Raveler

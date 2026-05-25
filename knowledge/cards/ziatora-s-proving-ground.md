@@ -6,7 +6,7 @@ name: Ziatora's Proving Ground
 scryfall_id: 75fdce80-e338-4a50-bdc6-786511feaeef
 set: snc
 type: Land — Swamp Mountain Forest
-meta_presence: 0.0023
+meta_presence: 0.0026
 archetypes:
   indomitable-creativity:
     weight: 0.3333
@@ -18,6 +18,9 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-56:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-94:
     weight: 1.0
     avg_copies: 1.0
 ---

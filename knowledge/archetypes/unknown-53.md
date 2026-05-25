@@ -6,28 +6,7 @@ name: 'Unknown #53'
 meta_share: 0.0004
 list_count: 1
 top_cards:
-- name: Subtlety
-  weight: 1.0
-  avg_copies: 4.0
 - name: Cori-Steel Cutter
-  weight: 1.0
-  avg_copies: 4.0
-- name: Expressive Iteration
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Preordain
-  weight: 1.0
-  avg_copies: 4.0
-- name: Scalding Tarn
-  weight: 1.0
-  avg_copies: 4.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 4.0
-- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -36,37 +15,58 @@ top_cards:
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
+- name: Preordain
+  weight: 1.0
+  avg_copies: 4.0
+- name: Dragon's Rage Channeler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Expressive Iteration
+  weight: 1.0
+  avg_copies: 4.0
+- name: Subtlety
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 4.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Flow State
+- name: Scalding Tarn
+  weight: 1.0
+  avg_copies: 4.0
+- name: Unholy Heat
   weight: 1.0
   avg_copies: 3.0
 - name: Force of Negation
   weight: 1.0
   avg_copies: 3.0
-- name: Unholy Heat
+- name: Flow State
   weight: 1.0
   avg_copies: 3.0
-- name: Surgical Extraction
-  weight: 1.0
-  avg_copies: 2.0
-- name: Stern Scolding
-  weight: 1.0
-  avg_copies: 2.0
-- name: Murktide Regent
-  weight: 1.0
-  avg_copies: 2.0
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
-- name: Spell Snare
+- name: Meltdown
   weight: 1.0
   avg_copies: 2.0
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.0
-- name: Meltdown
+- name: Murktide Regent
+  weight: 1.0
+  avg_copies: 2.0
+- name: Stern Scolding
+  weight: 1.0
+  avg_copies: 2.0
+- name: Spell Snare
+  weight: 1.0
+  avg_copies: 2.0
+- name: Surgical Extraction
   weight: 1.0
   avg_copies: 2.0
 - name: Island
@@ -78,7 +78,7 @@ top_cards:
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
-- name: Flooded Strand
+- name: Fire Magic
   weight: 1.0
   avg_copies: 1.0
 - name: Grafdigger's Cage
@@ -87,7 +87,7 @@ top_cards:
 - name: Hurkyl's Recall
   weight: 1.0
   avg_copies: 1.0
-- name: Fire Magic
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 1.0
 ---

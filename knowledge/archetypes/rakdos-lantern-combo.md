@@ -3,34 +3,34 @@ colors:
 - B
 - R
 name: Rakdos Lantern Combo
-meta_share: 0.0008
+meta_share: 0.0007
 list_count: 2
 top_cards:
-- name: Codex Shredder
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ensnaring Bridge
-  weight: 1.0
-  avg_copies: 4.0
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
-- name: Lantern of Insight
+- name: Ensnaring Bridge
+  weight: 1.0
+  avg_copies: 4.0
+- name: Profane Tutor
   weight: 1.0
   avg_copies: 4.0
 - name: Swamp
   weight: 1.0
   avg_copies: 4.0
-- name: Blackcleave Cliffs
+- name: Lantern of Insight
   weight: 1.0
   avg_copies: 4.0
-- name: Profane Tutor
+- name: Thoughtseize
+  weight: 1.0
+  avg_copies: 4.0
+- name: Codex Shredder
+  weight: 1.0
+  avg_copies: 4.0
+- name: Blackcleave Cliffs
   weight: 1.0
   avg_copies: 4.0
 - name: Blood Moon
@@ -51,19 +51,19 @@ top_cards:
 - name: Mox Opal
   weight: 1.0
   avg_copies: 2.5
+- name: Pyxis of Pandemonium
+  weight: 1.0
+  avg_copies: 2.0
 - name: The Mycosynth Gardens
   weight: 1.0
   avg_copies: 2.0
 - name: Fatal Push
   weight: 1.0
   avg_copies: 2.0
-- name: Pyxis of Pandemonium
-  weight: 1.0
-  avg_copies: 2.0
-- name: Ashiok, Dream Render
+- name: Cursed Totem
   weight: 1.0
   avg_copies: 1.5
-- name: Cursed Totem
+- name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 1.5
 - name: Torpor Orb
@@ -72,19 +72,19 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Crypt
-  weight: 1.0
-  avg_copies: 1.0
-- name: Vexing Bauble
+- name: Grafdigger's Cage
   weight: 1.0
   avg_copies: 1.0
 - name: The Underworld Cookbook
   weight: 1.0
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.0
 - name: Molten Collapse
+  weight: 1.0
+  avg_copies: 1.0
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Emrakul, the Aeons Torn
@@ -96,16 +96,16 @@ top_cards:
 - name: Void Mirror
   weight: 0.5
   avg_copies: 1.0
-- name: Necromentia
-  weight: 0.5
-  avg_copies: 1.0
-- name: Magus of the Moon
+- name: The Meathook Massacre
   weight: 0.5
   avg_copies: 1.0
 - name: Tokka & Rahzar, Terrible Twos
   weight: 0.5
   avg_copies: 1.0
-- name: The Meathook Massacre
+- name: Necromentia
+  weight: 0.5
+  avg_copies: 1.0
+- name: Magus of the Moon
   weight: 0.5
   avg_copies: 1.0
 ---

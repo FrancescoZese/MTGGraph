@@ -7,9 +7,12 @@ name: Leyline of Combustion
 scryfall_id: 3a93c8e2-fb27-43af-83a7-2bd4d40e0eff
 set: m20
 type: Enchantment
-meta_presence: 0.0012
+meta_presence: 0.0015
 archetypes:
   unknown-1:
     weight: 0.75
     avg_copies: 4.0
+  unknown-92:
+    weight: 1.0
+    avg_copies: 1.0
 ---
