@@ -3,19 +3,19 @@ colors:
 - B
 - R
 name: Hollow One
-meta_share: 0.01
+meta_share: 0.0098
 list_count: 27
 top_cards:
-- name: Hollow One
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Burning Inquiry
   weight: 1.0
   avg_copies: 4.0
-- name: Street Wraith
+- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Detective's Phoenix
@@ -117,10 +117,10 @@ top_cards:
 - name: Tarfire
   weight: 0.1481
   avg_copies: 2.0
-- name: Polluted Delta
+- name: Liliana of the Veil
   weight: 0.1481
   avg_copies: 1.0
-- name: Liliana of the Veil
+- name: Polluted Delta
   weight: 0.1481
   avg_copies: 1.0
 - name: Vengevine
@@ -144,40 +144,34 @@ top_cards:
 - name: Blackcleave Cliffs
   weight: 0.1111
   avg_copies: 1.0
-- name: Sheoldred's Edict
-  weight: 0.0741
-  avg_copies: 2.0
 - name: Goblin Lore
   weight: 0.0741
   avg_copies: 2.0
-- name: Blood Moon
+- name: Sheoldred's Edict
   weight: 0.0741
-  avg_copies: 1.5
+  avg_copies: 2.0
 - name: Ox of Agonas
   weight: 0.0741
   avg_copies: 1.5
-- name: Commercial District
+- name: Blood Moon
   weight: 0.0741
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Violent Urge
   weight: 0.0741
   avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.0741
   avg_copies: 1.0
+- name: Commercial District
+  weight: 0.0741
+  avg_copies: 1.0
 - name: Death's Shadow
   weight: 0.037
   avg_copies: 4.0
-- name: Magebane Lizard
-  weight: 0.037
-  avg_copies: 2.0
 - name: Rough
   weight: 0.037
   avg_copies: 2.0
-- name: Magus of the Moon
-  weight: 0.037
-  avg_copies: 2.0
-- name: Flameblade Adept
+- name: Inti, Seneschal of the Sun
   weight: 0.037
   avg_copies: 2.0
 - name: Ancient Grudge
@@ -186,19 +180,25 @@ top_cards:
 - name: Pyroclasm
   weight: 0.037
   avg_copies: 2.0
-- name: Inti, Seneschal of the Sun
+- name: Magus of the Moon
   weight: 0.037
   avg_copies: 2.0
 - name: Cam and Farrik, Havoc Duo
   weight: 0.037
   avg_copies: 2.0
+- name: Magebane Lizard
+  weight: 0.037
+  avg_copies: 2.0
+- name: Flameblade Adept
+  weight: 0.037
+  avg_copies: 2.0
+- name: Barbarian Ring
+  weight: 0.037
+  avg_copies: 1.0
 - name: Shattering Spree
   weight: 0.037
   avg_copies: 1.0
 - name: Seal of Fire
-  weight: 0.037
-  avg_copies: 1.0
-- name: Barbarian Ring
   weight: 0.037
   avg_copies: 1.0
 - name: Overlord of the Balemurk

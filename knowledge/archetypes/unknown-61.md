@@ -2,25 +2,34 @@
 colors:
 - G
 name: 'Unknown #61'
-meta_share: 0.0004
-list_count: 1
+meta_share: 0.0007
+list_count: 2
 top_cards:
-- name: Devourer of Destiny
+- name: Slumbering Trudge
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fanatic of Rhonas
   weight: 1.0
   avg_copies: 4.0
 - name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
-- name: Malevolent Rumble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Green Sun's Zenith
-  weight: 1.0
-  avg_copies: 4.0
 - name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
-- name: Slumbering Trudge
+- name: Devourer of Destiny
+  weight: 1.0
+  avg_copies: 4.0
+- name: Kozilek's Command
+  weight: 1.0
+  avg_copies: 4.0
+- name: Emrakul, the Promised End
+  weight: 1.0
+  avg_copies: 4.0
+- name: Turntimber Symbiosis
+  weight: 1.0
+  avg_copies: 4.0
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 4.0
 - name: Fight Rigging
@@ -29,21 +38,15 @@ top_cards:
 - name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
-- name: Emrakul, the Promised End
-  weight: 1.0
-  avg_copies: 4.0
-- name: Fanatic of Rhonas
-  weight: 1.0
-  avg_copies: 4.0
-- name: Kozilek's Command
-  weight: 1.0
-  avg_copies: 4.0
-- name: Turntimber Symbiosis
-  weight: 1.0
-  avg_copies: 4.0
 - name: Disciple of Freyalise
   weight: 1.0
   avg_copies: 4.0
+- name: Malevolent Rumble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Thought-Knot Seer
+  weight: 1.0
+  avg_copies: 3.5
 - name: Endurance
   weight: 1.0
   avg_copies: 3.0
@@ -53,25 +56,22 @@ top_cards:
 - name: Fade from History
   weight: 1.0
   avg_copies: 3.0
-- name: Thought-Knot Seer
-  weight: 1.0
-  avg_copies: 3.0
 - name: Mosswort Bridge
+  weight: 1.0
+  avg_copies: 1.0
+- name: Chomping Changeling
   weight: 1.0
   avg_copies: 1.0
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
-- name: Forest
+- name: Ghost Quarter
   weight: 1.0
   avg_copies: 1.0
 - name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
-- name: Ghost Quarter
-  weight: 1.0
-  avg_copies: 1.0
-- name: Chomping Changeling
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
 ---

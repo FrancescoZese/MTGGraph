@@ -9,6 +9,6 @@ type: Land
 meta_presence: 0.0004
 archetypes:
   unknown-76:
-    weight: 0.5
+    weight: 0.25
     avg_copies: 1.0
 ---

@@ -3,7 +3,7 @@ colors:
 - B
 - G
 name: Yawgmoth Combo
-meta_share: 0.0144
+meta_share: 0.0142
 list_count: 39
 top_cards:
 - name: Verdant Catacombs
@@ -63,13 +63,13 @@ top_cards:
 - name: Endurance
   weight: 1.0
   avg_copies: 1.04
+- name: Swamp
+  weight: 1.0
+  avg_copies: 1.0
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
 - name: Soulless Jailer
-  weight: 1.0
-  avg_copies: 1.0
-- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Windswept Heath
@@ -138,34 +138,34 @@ top_cards:
 - name: Hapatra, Vizier of Poisons
   weight: 0.1026
   avg_copies: 1.0
-- name: Kraul Harpooner
+- name: Murderous Cut
   weight: 0.0769
   avg_copies: 1.0
-- name: Murderous Cut
+- name: Kraul Harpooner
   weight: 0.0769
   avg_copies: 1.0
 - name: Assassin's Trophy
   weight: 0.0513
   avg_copies: 1.0
-- name: Sephiroth, Fabled SOLDIER
-  weight: 0.0256
-  avg_copies: 1.0
-- name: Creeping Corrosion
-  weight: 0.0256
-  avg_copies: 1.0
-- name: Essence Warden
-  weight: 0.0256
-  avg_copies: 1.0
-- name: Vicious Rivalry
-  weight: 0.0256
-  avg_copies: 1.0
 - name: Sylvan Safekeeper
+  weight: 0.0256
+  avg_copies: 1.0
+- name: Nurturing Peatland
   weight: 0.0256
   avg_copies: 1.0
 - name: Crime
   weight: 0.0256
   avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Vicious Rivalry
+  weight: 0.0256
+  avg_copies: 1.0
+- name: Essence Warden
+  weight: 0.0256
+  avg_copies: 1.0
+- name: Creeping Corrosion
+  weight: 0.0256
+  avg_copies: 1.0
+- name: Sephiroth, Fabled SOLDIER
   weight: 0.0256
   avg_copies: 1.0
 ---

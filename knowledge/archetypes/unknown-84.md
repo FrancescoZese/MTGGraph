@@ -8,7 +8,10 @@ name: 'Unknown #84'
 meta_share: 0.0007
 list_count: 2
 top_cards:
-- name: Violent Outburst
+- name: Leyline Binding
+  weight: 1.0
+  avg_copies: 4.0
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 4.0
 - name: Crashing Footfalls
@@ -17,39 +20,33 @@ top_cards:
 - name: Subtlety
   weight: 1.0
   avg_copies: 4.0
-- name: Force of Negation
+- name: Fire
   weight: 1.0
   avg_copies: 4.0
 - name: Shardless Agent
   weight: 1.0
   avg_copies: 4.0
-- name: Wooded Foothills
+- name: Force of Negation
   weight: 1.0
   avg_copies: 4.0
-- name: Fire
-  weight: 1.0
-  avg_copies: 4.0
-- name: Leyline Binding
+- name: Violent Outburst
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Obsidian Charmaw
-  weight: 1.0
-  avg_copies: 3.0
-- name: Mystical Dispute
-  weight: 1.0
-  avg_copies: 3.0
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 3.0
 - name: Endurance
   weight: 1.0
   avg_copies: 3.0
-- name: Vibrance
+- name: Mystical Dispute
   weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 3.0
+- name: Obsidian Charmaw
+  weight: 1.0
+  avg_copies: 3.0
 - name: Inevitable Betrayal
   weight: 1.0
   avg_copies: 2.0
@@ -65,13 +62,10 @@ top_cards:
 - name: Quantum Riddler
   weight: 1.0
   avg_copies: 2.0
-- name: Boseiju, Who Endures
+- name: Vibrance
   weight: 1.0
-  avg_copies: 1.0
-- name: Plains
-  weight: 1.0
-  avg_copies: 1.0
-- name: Hallowed Fountain
+  avg_copies: 2.0
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Breeding Pool
@@ -80,16 +74,16 @@ top_cards:
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
-- name: Mistrise Village
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
-- name: Temple Garden
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Island
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
 - name: Lush Portico
@@ -98,10 +92,16 @@ top_cards:
 - name: Xander's Lounge
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Temple Garden
+  weight: 1.0
+  avg_copies: 1.0
+- name: Mistrise Village
+  weight: 1.0
+  avg_copies: 1.0
+- name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.0
 - name: Ardent Plea

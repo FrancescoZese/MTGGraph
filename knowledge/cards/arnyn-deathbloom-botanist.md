@@ -10,6 +10,6 @@ type: Legendary Creature — Vampire Druid
 meta_presence: 0.0007
 archetypes:
   soultrader-combo:
-    weight: 0.6667
+    weight: 0.5
     avg_copies: 2.0
 ---

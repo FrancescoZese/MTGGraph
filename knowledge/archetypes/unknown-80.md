@@ -9,33 +9,39 @@ top_cards:
 - name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Temple Garden
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flooded Strand
-  weight: 1.0
-  avg_copies: 4.0
-- name: White Orchid Phantom
+- name: Leonardo, Cutting Edge
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
-- name: Leonardo, Cutting Edge
+- name: White Orchid Phantom
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Windswept Heath
+- name: Temple Garden
   weight: 1.0
   avg_copies: 4.0
 - name: Birthing Ritual
   weight: 1.0
   avg_copies: 4.0
+- name: Windswept Heath
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
 - name: Ranger-Captain of Eos
   weight: 1.0
   avg_copies: 3.5
+- name: Solitude
+  weight: 1.0
+  avg_copies: 3.0
+- name: Agatha's Soul Cauldron
+  weight: 1.0
+  avg_copies: 3.0
 - name: Plains
   weight: 1.0
   avg_copies: 3.0
@@ -45,16 +51,10 @@ top_cards:
 - name: Haliya, Guided by Light
   weight: 1.0
   avg_copies: 3.0
-- name: Agatha's Soul Cauldron
-  weight: 1.0
-  avg_copies: 3.0
-- name: Solitude
-  weight: 1.0
-  avg_copies: 3.0
 - name: Brightglass Gearhulk
   weight: 1.0
   avg_copies: 2.5
-- name: Gaddock Teeg
+- name: Idyllic Grange
   weight: 1.0
   avg_copies: 2.0
 - name: Wrath of the Skies
@@ -63,31 +63,31 @@ top_cards:
 - name: Lush Portico
   weight: 1.0
   avg_copies: 2.0
-- name: Walking Ballista
+- name: Gaddock Teeg
   weight: 1.0
   avg_copies: 2.0
-- name: Idyllic Grange
+- name: Walking Ballista
   weight: 1.0
   avg_copies: 2.0
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 1.5
-- name: Pithing Needle
-  weight: 1.0
-  avg_copies: 1.0
-- name: Heliod, Sun-Crowned
-  weight: 1.0
-  avg_copies: 1.0
 - name: Young Wolf
   weight: 1.0
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Starfield Shepherd
   weight: 1.0
   avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 1.0
-- name: Starfield Shepherd
+- name: Haywire Mite
+  weight: 1.0
+  avg_copies: 1.0
+- name: Pithing Needle
+  weight: 1.0
+  avg_copies: 1.0
+- name: Heliod, Sun-Crowned
   weight: 1.0
   avg_copies: 1.0
 - name: High Noon

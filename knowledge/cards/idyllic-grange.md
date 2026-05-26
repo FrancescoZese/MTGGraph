@@ -9,7 +9,7 @@ type: Land — Plains
 meta_presence: 0.0015
 archetypes:
   azorius-blink:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 2.0
   bant-ritual:
     weight: 1.0

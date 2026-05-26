@@ -14,7 +14,7 @@ archetypes:
     weight: 0.1481
     avg_copies: 1.52
   goryo:
-    weight: 0.4
+    weight: 0.3958
     avg_copies: 1.09
   mardu-blink:
     weight: 0.0435
@@ -38,7 +38,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-30:
-    weight: 0.3333
+    weight: 0.5
     avg_copies: 2.0
   unknown-78:
     weight: 1.0

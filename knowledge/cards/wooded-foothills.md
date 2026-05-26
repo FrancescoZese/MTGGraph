@@ -6,10 +6,10 @@ name: Wooded Foothills
 scryfall_id: 4e11ea8a-f895-438d-a3b7-f070238e4161
 set: mh3
 type: Land
-meta_presence: 0.2038
+meta_presence: 0.2024
 archetypes:
   ruby-storm:
-    weight: 0.9529
+    weight: 0.9535
     avg_copies: 2.33
   amulet-titan:
     weight: 0.0538
@@ -33,22 +33,22 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.23
   eldrazi-ramp:
-    weight: 0.9048
-    avg_copies: 1.18
+    weight: 0.9062
+    avg_copies: 1.21
   simic-ritual:
-    weight: 0.0893
+    weight: 0.0862
     avg_copies: 3.6
   izzet-prowess:
-    weight: 0.916
+    weight: 0.9091
     avg_copies: 2.62
   samwise-combo:
-    weight: 0.2857
-    avg_copies: 1.0
+    weight: 0.3
+    avg_copies: 1.11
   indomitable-creativity:
     weight: 1.0
     avg_copies: 2.67
   broodscale-combo:
-    weight: 0.3077
+    weight: 0.303
     avg_copies: 1.3
   dredge:
     weight: 0.625
@@ -114,8 +114,8 @@ archetypes:
     weight: 0.9444
     avg_copies: 2.65
   unknown-67:
-    weight: 0.0909
-    avg_copies: 1.5
+    weight: 0.1154
+    avg_copies: 1.33
   unknown-71:
     weight: 1.0
     avg_copies: 3.0

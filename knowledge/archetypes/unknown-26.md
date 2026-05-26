@@ -6,10 +6,10 @@ name: 'Unknown #26'
 meta_share: 0.0022
 list_count: 6
 top_cards:
-- name: Demolition Field
+- name: Path to Exile
   weight: 1.0
   avg_copies: 4.0
-- name: High Noon
+- name: Demolition Field
   weight: 1.0
   avg_copies: 4.0
 - name: Field of Ruin
@@ -21,13 +21,13 @@ top_cards:
 - name: Cleansing Wildfire
   weight: 1.0
   avg_copies: 4.0
-- name: Path to Exile
+- name: High Noon
   weight: 1.0
   avg_copies: 4.0
-- name: Price of Freedom
+- name: Solitude
   weight: 1.0
   avg_copies: 3.83
-- name: Solitude
+- name: Price of Freedom
   weight: 1.0
   avg_copies: 3.83
 - name: Wrath of God
@@ -42,10 +42,10 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.83
-- name: Cori Mountain Monastery
+- name: Erode
   weight: 0.8333
   avg_copies: 4.0
-- name: Erode
+- name: Cori Mountain Monastery
   weight: 0.8333
   avg_copies: 4.0
 - name: Emergency Eject
@@ -75,7 +75,7 @@ top_cards:
 - name: Sunken Citadel
   weight: 0.3333
   avg_copies: 3.0
-- name: Orim's Chant
+- name: White Orchid Phantom
   weight: 0.1667
   avg_copies: 4.0
 - name: Arid Mesa
@@ -84,7 +84,7 @@ top_cards:
 - name: Volcanic Spite
   weight: 0.1667
   avg_copies: 4.0
-- name: White Orchid Phantom
+- name: Orim's Chant
   weight: 0.1667
   avg_copies: 4.0
 - name: Candy Trail
@@ -93,10 +93,10 @@ top_cards:
 - name: Relic of Progenitus
   weight: 0.1667
   avg_copies: 3.0
-- name: Ragavan, Nimble Pilferer
+- name: Get Lost
   weight: 0.1667
   avg_copies: 3.0
-- name: Get Lost
+- name: Ragavan, Nimble Pilferer
   weight: 0.1667
   avg_copies: 3.0
 - name: Hallowed Moonlight

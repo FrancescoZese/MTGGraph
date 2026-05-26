@@ -11,10 +11,10 @@ type: Instant // Instant
 meta_presence: 0.1156
 archetypes:
   ruby-storm:
-    weight: 0.8588
-    avg_copies: 2.36
+    weight: 0.8605
+    avg_copies: 2.35
   boros-energy:
-    weight: 0.0048
+    weight: 0.0047
     avg_copies: 2.0
   jeskai-energy:
     weight: 0.0156
@@ -26,7 +26,7 @@ archetypes:
     weight: 0.0714
     avg_copies: 1.0
   affinity:
-    weight: 0.0074
+    weight: 0.0073
     avg_copies: 2.0
   domain-zoo:
     weight: 0.987
@@ -41,10 +41,10 @@ archetypes:
     weight: 0.75
     avg_copies: 2.89
   boros-ponza:
-    weight: 0.8621
-    avg_copies: 1.72
+    weight: 0.8652
+    avg_copies: 1.73
   izzet-prowess:
-    weight: 0.0153
+    weight: 0.0152
     avg_copies: 1.5
   4c-omnath:
     weight: 0.5
@@ -74,13 +74,13 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-70:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
   unknown-72:
     weight: 1.0
     avg_copies: 1.0
   unknown-79:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 2.0
   unknown-85:
     weight: 1.0
@@ -91,4 +91,7 @@ archetypes:
   unknown-84:
     weight: 1.0
     avg_copies: 2.0
+  unknown-99:
+    weight: 1.0
+    avg_copies: 1.0
 ---

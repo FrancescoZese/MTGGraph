@@ -6,22 +6,22 @@ name: Vexing Bauble
 scryfall_id: 29f11089-658f-42e6-aeb0-09b512ad2479
 set: mh3
 type: Artifact
-meta_presence: 0.3482
+meta_presence: 0.3496
 archetypes:
   ruby-storm:
-    weight: 0.1059
+    weight: 0.1047
     avg_copies: 2.0
   boros-energy:
-    weight: 0.4272
-    avg_copies: 1.51
+    weight: 0.4326
+    avg_copies: 1.52
   eldrazi-tron:
-    weight: 0.5769
+    weight: 0.5849
     avg_copies: 1.18
   amulet-titan:
     weight: 0.7097
     avg_copies: 1.27
   goryo:
-    weight: 0.0105
+    weight: 0.0104
     avg_copies: 2.0
   hardened-scales:
     weight: 0.75
@@ -30,13 +30,13 @@ archetypes:
     weight: 0.0385
     avg_copies: 2.0
   affinity:
-    weight: 0.7111
+    weight: 0.7153
     avg_copies: 1.11
   domain-zoo:
     weight: 0.026
     avg_copies: 1.0
   mill:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 4.0
   reanimator:
     weight: 0.2222
@@ -54,7 +54,7 @@ archetypes:
     weight: 0.7037
     avg_copies: 2.26
   boros-ponza:
-    weight: 0.954
+    weight: 0.9438
     avg_copies: 2.14
   kethis-combo:
     weight: 1.0
@@ -63,31 +63,31 @@ archetypes:
     weight: 0.9487
     avg_copies: 1.18
   eldrazi-ramp:
-    weight: 0.9524
-    avg_copies: 1.82
+    weight: 0.9531
+    avg_copies: 1.84
   simic-ritual:
-    weight: 0.0179
+    weight: 0.0172
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0534
+    weight: 0.053
     avg_copies: 1.86
   esper-blink:
     weight: 0.0645
     avg_copies: 2.0
   samwise-combo:
-    weight: 0.6071
+    weight: 0.5667
     avg_copies: 2.06
   broodscale-combo:
-    weight: 0.9846
+    weight: 0.9848
     avg_copies: 1.66
   orzhov-blink:
-    weight: 0.5
+    weight: 0.4286
     avg_copies: 1.33
   dredge:
     weight: 0.5
     avg_copies: 2.62
   azorius-blink:
-    weight: 0.2174
+    weight: 0.2083
     avg_copies: 1.4
   izzet-artifacts:
     weight: 0.3667
@@ -126,13 +126,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.67
   goryo1:
-    weight: 0.5
+    weight: 0.4865
     avg_copies: 1.67
   goryo4:
-    weight: 0.3333
-    avg_copies: 2.5
+    weight: 0.5
+    avg_copies: 2.33
   soultrader-combo:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 2.0
   unknown-4:
     weight: 1.0
@@ -198,10 +198,10 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-76:
-    weight: 1.0
-    avg_copies: 1.67
+    weight: 0.75
+    avg_copies: 1.4
   unknown-79:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 2.0
   unknown-81:
     weight: 1.0
@@ -215,4 +215,10 @@ archetypes:
   unknown-90:
     weight: 1.0
     avg_copies: 3.0
+  unknown-97:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-98:
+    weight: 1.0
+    avg_copies: 1.0
 ---

@@ -2,13 +2,13 @@
 colors:
 - U
 name: Mono Blue Belcher
-meta_share: 0.0196
+meta_share: 0.0193
 list_count: 53
 top_cards:
-- name: Lotus Bloom
+- name: Whir of Invention
   weight: 1.0
   avg_copies: 4.0
-- name: Whir of Invention
+- name: Lotus Bloom
   weight: 1.0
   avg_copies: 4.0
 - name: Goblin Charbelcher
@@ -137,16 +137,16 @@ top_cards:
 - name: Echoing Truth
   weight: 0.0377
   avg_copies: 1.0
-- name: Hope of Ghirapur
-  weight: 0.0189
-  avg_copies: 1.0
-- name: Isochron Scepter
-  weight: 0.0189
-  avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.0189
   avg_copies: 1.0
-- name: Witch Enchanter
+- name: Hope of Ghirapur
+  weight: 0.0189
+  avg_copies: 1.0
+- name: Erode
+  weight: 0.0189
+  avg_copies: 1.0
+- name: Isochron Scepter
   weight: 0.0189
   avg_copies: 1.0
 - name: Portable Hole
@@ -155,7 +155,7 @@ top_cards:
 - name: Displacement Wave
   weight: 0.0189
   avg_copies: 1.0
-- name: Erode
+- name: Witch Enchanter
   weight: 0.0189
   avg_copies: 1.0
 ---

@@ -4,7 +4,7 @@ colors:
 - U
 - B
 name: Esper Blink
-meta_share: 0.0114
+meta_share: 0.0113
 list_count: 31
 top_cards:
 - name: Overlord of the Balemurk
@@ -52,10 +52,10 @@ top_cards:
 - name: Ephemerate
   weight: 0.9677
   avg_copies: 2.87
-- name: Emperor of Bones
+- name: Consign to Memory
   weight: 0.9677
   avg_copies: 2.47
-- name: Consign to Memory
+- name: Emperor of Bones
   weight: 0.9677
   avg_copies: 2.47
 - name: Teferi, Time Raveler
@@ -64,13 +64,13 @@ top_cards:
 - name: Plains
   weight: 0.9677
   avg_copies: 1.67
-- name: Boggart Trawler
-  weight: 0.9677
-  avg_copies: 1.0
 - name: Swamp
   weight: 0.9677
   avg_copies: 1.0
 - name: Shadowy Backstreet
+  weight: 0.9677
+  avg_copies: 1.0
+- name: Boggart Trawler
   weight: 0.9677
   avg_copies: 1.0
 - name: Flickerwisp
@@ -109,10 +109,10 @@ top_cards:
 - name: White Orchid Phantom
   weight: 0.2581
   avg_copies: 2.12
-- name: Elesh Norn, Mother of Machines
+- name: Surgical Extraction
   weight: 0.2581
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Elesh Norn, Mother of Machines
   weight: 0.2581
   avg_copies: 1.0
 - name: Skycoach Conductor
@@ -127,13 +127,13 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 0.129
   avg_copies: 1.5
-- name: Chalice of the Void
-  weight: 0.129
-  avg_copies: 1.0
 - name: Kavaero, Mind-Bitten
   weight: 0.129
   avg_copies: 1.0
 - name: Erode
+  weight: 0.129
+  avg_copies: 1.0
+- name: Chalice of the Void
   weight: 0.129
   avg_copies: 1.0
 - name: Boromir, Warden of the Tower
@@ -160,34 +160,34 @@ top_cards:
 - name: Pest Control
   weight: 0.0645
   avg_copies: 1.0
-- name: No More Lies
-  weight: 0.0323
-  avg_copies: 4.0
 - name: Drannith Magistrate
   weight: 0.0323
   avg_copies: 4.0
-- name: Nihil Spellbomb
+- name: No More Lies
+  weight: 0.0323
+  avg_copies: 4.0
+- name: Graveyard Trespasser
   weight: 0.0323
   avg_copies: 2.0
 - name: Abhorrent Oculus
   weight: 0.0323
   avg_copies: 2.0
-- name: Graveyard Trespasser
-  weight: 0.0323
-  avg_copies: 2.0
 - name: Ketramose, the New Dawn
-  weight: 0.0323
-  avg_copies: 2.0
-- name: Northampton Farm
   weight: 0.0323
   avg_copies: 2.0
 - name: Force of Despair
   weight: 0.0323
   avg_copies: 2.0
-- name: Emptiness
+- name: Nihil Spellbomb
+  weight: 0.0323
+  avg_copies: 2.0
+- name: Northampton Farm
+  weight: 0.0323
+  avg_copies: 2.0
+- name: Snow-Covered Plains
   weight: 0.0323
   avg_copies: 1.0
-- name: Windswept Heath
+- name: Spell Pierce
   weight: 0.0323
   avg_copies: 1.0
 - name: End of the Hunt
@@ -196,16 +196,16 @@ top_cards:
 - name: Snow-Covered Island
   weight: 0.0323
   avg_copies: 1.0
-- name: Spell Pierce
+- name: Windswept Heath
   weight: 0.0323
   avg_copies: 1.0
-- name: Snow-Covered Plains
-  weight: 0.0323
-  avg_copies: 1.0
-- name: Snow-Covered Swamp
+- name: Emptiness
   weight: 0.0323
   avg_copies: 1.0
 - name: Celestial Purge
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Snow-Covered Swamp
   weight: 0.0323
   avg_copies: 1.0
 ---

@@ -7,13 +7,25 @@ name: 'Unknown #96'
 meta_share: 0.0004
 list_count: 1
 top_cards:
+- name: Marauding Mako
+  weight: 1.0
+  avg_copies: 4.0
+- name: Hollow One
+  weight: 1.0
+  avg_copies: 4.0
+- name: Faithless Looting
+  weight: 1.0
+  avg_copies: 4.0
 - name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
-- name: Detective's Phoenix
+- name: Hardened Academic
   weight: 1.0
   avg_copies: 4.0
-- name: Lightning Bolt
+- name: Street Wraith
+  weight: 1.0
+  avg_copies: 4.0
+- name: Burning Inquiry
   weight: 1.0
   avg_copies: 4.0
 - name: Arid Mesa
@@ -22,37 +34,31 @@ top_cards:
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
-- name: Hardened Academic
+- name: Detective's Phoenix
   weight: 1.0
   avg_copies: 4.0
-- name: Marauding Mako
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Hollow One
+- name: Thoughtseize
   weight: 1.0
-  avg_copies: 4.0
-- name: Burning Inquiry
+  avg_copies: 3.0
+- name: Marsh Flats
   weight: 1.0
-  avg_copies: 4.0
-- name: Street Wraith
-  weight: 1.0
-  avg_copies: 4.0
-- name: Faithless Looting
-  weight: 1.0
-  avg_copies: 4.0
+  avg_copies: 3.0
 - name: Leyline of the Void
   weight: 1.0
   avg_copies: 3.0
 - name: Practiced Offense
   weight: 1.0
   avg_copies: 3.0
-- name: Marsh Flats
+- name: Prismatic Ending
   weight: 1.0
-  avg_copies: 3.0
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 2.0
 - name: Meltdown
+  weight: 1.0
+  avg_copies: 2.0
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 2.0
 - name: Damping Sphere
@@ -61,15 +67,12 @@ top_cards:
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 2.0
-- name: Prismatic Ending
-  weight: 1.0
-  avg_copies: 2.0
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 2.0
-- name: Orcish Bowmasters
+- name: Godless Shrine
   weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 1.0
 - name: Arena of Glory
   weight: 1.0
   avg_copies: 1.0
@@ -83,9 +86,6 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Raucous Theater
-  weight: 1.0
-  avg_copies: 1.0
-- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
 ---

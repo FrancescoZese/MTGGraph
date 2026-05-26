@@ -13,10 +13,10 @@ archetypes:
     weight: 0.5
     avg_copies: 1.5
   samwise-combo:
-    weight: 0.0357
+    weight: 0.0333
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0154
+    weight: 0.0152
     avg_copies: 2.0
   elves:
     weight: 0.5

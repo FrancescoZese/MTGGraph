@@ -7,7 +7,7 @@ name: Quantum Riddler
 scryfall_id: 120be808-ff3b-4fca-96a1-4db6b9825856
 set: eoe
 type: Creature — Sphinx
-meta_presence: 0.1536
+meta_presence: 0.1533
 archetypes:
   boros-energy:
     weight: 0.0024
@@ -19,10 +19,10 @@ archetypes:
     weight: 0.9922
     avg_copies: 3.81
   goryo:
-    weight: 0.7474
-    avg_copies: 3.41
+    weight: 0.7396
+    avg_copies: 3.4
   necrodominance:
-    weight: 0.0345
+    weight: 0.0333
     avg_copies: 3.0
   jeskai-control:
     weight: 0.0714
@@ -34,7 +34,7 @@ archetypes:
     weight: 0.5556
     avg_copies: 1.53
   simic-ritual:
-    weight: 0.0357
+    weight: 0.0345
     avg_copies: 2.0
   4c-omnath:
     weight: 1.0
@@ -55,8 +55,8 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.3611
-    avg_copies: 1.31
+    weight: 0.3784
+    avg_copies: 1.43
   goryo2:
     weight: 1.0
     avg_copies: 4.0
@@ -83,7 +83,7 @@ archetypes:
     avg_copies: 3.16
   unknown-62:
     weight: 1.0
-    avg_copies: 3.78
+    avg_copies: 3.6
   unknown-65:
     weight: 0.7778
     avg_copies: 2.29
@@ -91,11 +91,11 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-67:
-    weight: 0.0455
+    weight: 0.0769
     avg_copies: 1.0
   unknown-70:
     weight: 1.0
-    avg_copies: 3.5
+    avg_copies: 3.67
   unknown-74:
     weight: 1.0
     avg_copies: 4.0
@@ -104,7 +104,7 @@ archetypes:
     avg_copies: 4.0
   unknown-79:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 3.25
   unknown-83:
     weight: 1.0
     avg_copies: 1.0

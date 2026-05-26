@@ -2,16 +2,16 @@
 colors:
 - G
 name: Amulet Titan
-meta_share: 0.0343
+meta_share: 0.0338
 list_count: 93
 top_cards:
-- name: Urza's Saga
-  weight: 1.0
-  avg_copies: 4.0
 - name: Arboreal Grazer
   weight: 1.0
   avg_copies: 4.0
 - name: Amulet of Vigor
+  weight: 1.0
+  avg_copies: 4.0
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Spelunking
@@ -62,10 +62,10 @@ top_cards:
 - name: Dismember
   weight: 0.9785
   avg_copies: 2.35
-- name: Echoing Deeps
+- name: Shifting Woodland
   weight: 0.9785
   avg_copies: 1.0
-- name: Shifting Woodland
+- name: Echoing Deeps
   weight: 0.9785
   avg_copies: 1.0
 - name: Bojuka Bog
@@ -158,10 +158,10 @@ top_cards:
 - name: Golgari Rot Farm
   weight: 0.0538
   avg_copies: 1.8
-- name: Commercial District
+- name: Wooded Foothills
   weight: 0.0538
   avg_copies: 1.0
-- name: Wooded Foothills
+- name: Commercial District
   weight: 0.0538
   avg_copies: 1.0
 - name: Hedge Maze
@@ -173,13 +173,13 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.0323
   avg_copies: 1.33
-- name: Heritage Reclamation
+- name: Insidious Fungus
   weight: 0.0323
   avg_copies: 1.0
 - name: Kessig Wolf Run
   weight: 0.0323
   avg_copies: 1.0
-- name: Insidious Fungus
+- name: Heritage Reclamation
   weight: 0.0323
   avg_copies: 1.0
 - name: Windswept Heath
@@ -209,22 +209,22 @@ top_cards:
 - name: Ghost Quarter
   weight: 0.0108
   avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Formidable Speaker
   weight: 0.0108
   avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 0.0108
   avg_copies: 1.0
-- name: Formidable Speaker
-  weight: 0.0108
-  avg_copies: 1.0
-- name: Carnage Tyrant
+- name: Lithomantic Barrage
   weight: 0.0108
   avg_copies: 1.0
 - name: Dosan the Falling Leaf
   weight: 0.0108
   avg_copies: 1.0
-- name: Lithomantic Barrage
+- name: Carnage Tyrant
+  weight: 0.0108
+  avg_copies: 1.0
+- name: Gemstone Caverns
   weight: 0.0108
   avg_copies: 1.0
 ---

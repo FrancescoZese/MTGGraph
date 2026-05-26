@@ -13,8 +13,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.74
   samwise-combo:
-    weight: 0.5357
-    avg_copies: 2.47
+    weight: 0.5333
+    avg_copies: 2.56
   mono-green-ramp:
     weight: 1.0
     avg_copies: 4.0

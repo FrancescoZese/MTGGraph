@@ -10,6 +10,6 @@ type: Instant
 meta_presence: 0.0015
 archetypes:
   ruby-storm:
-    weight: 0.0471
+    weight: 0.0465
     avg_copies: 1.0
 ---

@@ -3,16 +3,16 @@ colors:
 - U
 - B
 name: 'Unknown #47'
-meta_share: 0.007
+meta_share: 0.0069
 list_count: 19
 top_cards:
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Fatal Push
+  weight: 1.0
+  avg_copies: 4.0
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Orcish Bowmasters
@@ -111,10 +111,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.3684
   avg_copies: 1.86
-- name: Bloodstained Mire
+- name: Stern Scolding
   weight: 0.1579
   avg_copies: 1.67
-- name: Stern Scolding
+- name: Bloodstained Mire
   weight: 0.1579
   avg_copies: 1.67
 - name: Flow State
@@ -141,28 +141,28 @@ top_cards:
 - name: Ghost Vacuum
   weight: 0.1053
   avg_copies: 1.5
-- name: Chalice of the Void
-  weight: 0.0526
-  avg_copies: 2.0
 - name: Void Mirror
   weight: 0.0526
   avg_copies: 2.0
-- name: Murktide Regent
+- name: Chalice of the Void
   weight: 0.0526
-  avg_copies: 1.0
-- name: Scalding Tarn
-  weight: 0.0526
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Snapcaster Mage
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Spell Pierce
   weight: 0.0526
   avg_copies: 1.0
 - name: Snow-Covered Island
   weight: 0.0526
   avg_copies: 1.0
+- name: Murktide Regent
+  weight: 0.0526
+  avg_copies: 1.0
 - name: Strategic Betrayal
   weight: 0.0526
   avg_copies: 1.0
-- name: Spell Pierce
+- name: Scalding Tarn
   weight: 0.0526
   avg_copies: 1.0
 - name: Snow-Covered Swamp

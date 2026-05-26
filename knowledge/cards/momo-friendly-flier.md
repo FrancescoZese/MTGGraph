@@ -10,9 +10,9 @@ type: Legendary Creature — Lemur Bat Ally
 meta_presence: 0.0018
 archetypes:
   azorius-blink:
-    weight: 0.1304
+    weight: 0.125
     avg_copies: 2.0
   unknown-62:
-    weight: 0.2222
+    weight: 0.2
     avg_copies: 1.0
 ---

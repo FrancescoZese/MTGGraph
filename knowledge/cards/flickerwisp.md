@@ -17,7 +17,7 @@ archetypes:
     avg_copies: 2.1
   orzhov-blink:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 2.86
   unknown-77:
     weight: 1.0
     avg_copies: 2.0

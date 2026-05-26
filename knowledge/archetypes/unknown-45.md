@@ -3,22 +3,22 @@ colors:
 - U
 - B
 name: 'Unknown #45'
-meta_share: 0.0052
+meta_share: 0.0051
 list_count: 14
 top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 4.21
-- name: Stitcher's Supplier
+- name: Crypt of Agadeem
   weight: 1.0
   avg_copies: 4.0
-- name: Eyetwitch
+- name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
 - name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
-- name: Crypt of Agadeem
+- name: Eyetwitch
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
@@ -57,10 +57,10 @@ top_cards:
 - name: Decorum Dissertation
   weight: 1.0
   avg_copies: 1.0
-- name: Ruinous Waterbending
+- name: Ozai's Cruelty
   weight: 1.0
   avg_copies: 1.0
-- name: Ozai's Cruelty
+- name: Ruinous Waterbending
   weight: 1.0
   avg_copies: 1.0
 - name: Break the Ice
@@ -72,6 +72,9 @@ top_cards:
 - name: Origin of Metalbending
   weight: 0.9286
   avg_copies: 1.08
+- name: Bone Shards
+  weight: 0.9286
+  avg_copies: 1.0
 - name: True Ancestry
   weight: 0.9286
   avg_copies: 1.0
@@ -81,15 +84,15 @@ top_cards:
 - name: Overgrown Tomb
   weight: 0.9286
   avg_copies: 1.0
-- name: Bone Shards
-  weight: 0.9286
-  avg_copies: 1.0
 - name: Underground Mortuary
   weight: 0.9286
   avg_copies: 1.0
 - name: Force of Despair
   weight: 0.8571
   avg_copies: 1.83
+- name: Poet's Quill
+  weight: 0.7857
+  avg_copies: 1.0
 - name: Necrotic Fumes
   weight: 0.7857
   avg_copies: 1.0
@@ -97,9 +100,6 @@ top_cards:
   weight: 0.7857
   avg_copies: 1.0
 - name: Deceit
-  weight: 0.7857
-  avg_copies: 1.0
-- name: Poet's Quill
   weight: 0.7857
   avg_copies: 1.0
 - name: Engineered Explosives
@@ -135,19 +135,7 @@ top_cards:
 - name: Blood Crypt
   weight: 0.0714
   avg_copies: 2.0
-- name: Ashiok, Dream Render
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Redirect Lightning
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Improvisation Capstone
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Cling to Dust
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Iroh's Demonstration
+- name: Chthonian Nightmare
   weight: 0.0714
   avg_copies: 1.0
 - name: Liliana, the Last Hope
@@ -156,7 +144,19 @@ top_cards:
 - name: Raucous Theater
   weight: 0.0714
   avg_copies: 1.0
-- name: Chthonian Nightmare
+- name: Ashiok, Dream Render
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Redirect Lightning
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Cling to Dust
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Iroh's Demonstration
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Improvisation Capstone
   weight: 0.0714
   avg_copies: 1.0
 ---

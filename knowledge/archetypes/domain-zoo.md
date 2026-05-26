@@ -6,7 +6,7 @@ colors:
 - R
 - G
 name: Domain Zoo
-meta_share: 0.0284
+meta_share: 0.028
 list_count: 77
 top_cards:
 - name: Leyline of the Guildpact
@@ -15,13 +15,13 @@ top_cards:
 - name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
-- name: Scion of Draco
+- name: Leyline Binding
   weight: 1.0
   avg_copies: 3.96
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 3.96
-- name: Leyline Binding
+- name: Scion of Draco
   weight: 1.0
   avg_copies: 3.96
 - name: Flooded Strand
@@ -39,10 +39,10 @@ top_cards:
 - name: Plains
   weight: 1.0
   avg_copies: 1.0
-- name: Temple Garden
+- name: Indatha Triome
   weight: 1.0
   avg_copies: 1.0
-- name: Indatha Triome
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
@@ -159,25 +159,25 @@ top_cards:
 - name: Sacred Foundry
   weight: 0.026
   avg_copies: 1.0
-- name: Psychic Frog
-  weight: 0.013
-  avg_copies: 4.0
-- name: Persist
-  weight: 0.013
-  avg_copies: 4.0
-- name: Tribal Flames
+- name: Faithless Looting
   weight: 0.013
   avg_copies: 4.0
 - name: Professor of Symbology
   weight: 0.013
   avg_copies: 4.0
-- name: Aurora Awakener
-  weight: 0.013
-  avg_copies: 4.0
 - name: Archon of Cruelty
   weight: 0.013
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Aurora Awakener
+  weight: 0.013
+  avg_copies: 4.0
+- name: Tribal Flames
+  weight: 0.013
+  avg_copies: 4.0
+- name: Persist
+  weight: 0.013
+  avg_copies: 4.0
+- name: Psychic Frog
   weight: 0.013
   avg_copies: 4.0
 - name: Summoning Trap
@@ -189,13 +189,16 @@ top_cards:
 - name: Drannith Magistrate
   weight: 0.013
   avg_copies: 2.0
-- name: Breeding Pool
+- name: Chthonian Nightmare
   weight: 0.013
   avg_copies: 1.0
-- name: Sacred Ground
+- name: Boromir, Warden of the Tower
   weight: 0.013
   avg_copies: 1.0
-- name: Ruinous Waterbending
+- name: Decorum Dissertation
+  weight: 0.013
+  avg_copies: 1.0
+- name: Raucous Theater
   weight: 0.013
   avg_copies: 1.0
 - name: Redirect Lightning
@@ -204,37 +207,34 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.013
   avg_copies: 1.0
-- name: Dai Li Indoctrination
-  weight: 0.013
-  avg_copies: 1.0
-- name: Boromir, Warden of the Tower
-  weight: 0.013
-  avg_copies: 1.0
-- name: Raucous Theater
+- name: Ruinous Waterbending
   weight: 0.013
   avg_copies: 1.0
 - name: Glasspool Mimic
   weight: 0.013
   avg_copies: 1.0
-- name: Chthonian Nightmare
+- name: Boomerang Basics
   weight: 0.013
   avg_copies: 1.0
-- name: Decorum Dissertation
-  weight: 0.013
-  avg_copies: 1.0
-- name: Origin of Metalbending
+- name: Dai Li Indoctrination
   weight: 0.013
   avg_copies: 1.0
 - name: Abandon Attachments
   weight: 0.013
   avg_copies: 1.0
-- name: Price of Freedom
-  weight: 0.013
-  avg_copies: 1.0
 - name: Firebending Lesson
   weight: 0.013
   avg_copies: 1.0
-- name: Boomerang Basics
+- name: Breeding Pool
+  weight: 0.013
+  avg_copies: 1.0
+- name: Sacred Ground
+  weight: 0.013
+  avg_copies: 1.0
+- name: Price of Freedom
+  weight: 0.013
+  avg_copies: 1.0
+- name: Origin of Metalbending
   weight: 0.013
   avg_copies: 1.0
 ---
