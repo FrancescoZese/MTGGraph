@@ -7,7 +7,7 @@ name: Twinflame Tyrant
 scryfall_id: 1eb34f51-0bd2-43c3-af95-2ce8dabcc7bb
 set: fdn
 type: Creature — Dragon
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   unknown-35:
     weight: 0.3333

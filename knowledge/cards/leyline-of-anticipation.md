@@ -7,7 +7,7 @@ name: Leyline of Anticipation
 scryfall_id: f57bdaa1-ce8a-4103-8598-fee751e65a53
 set: clb
 type: Enchantment
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   unknown-92:
     weight: 1.0

@@ -4,7 +4,7 @@ colors:
 - R
 - G
 name: Cosmogoyf Fling
-meta_share: 0.0076
+meta_share: 0.0073
 list_count: 21
 top_cards:
 - name: Plunge into Darkness
@@ -16,10 +16,10 @@ top_cards:
 - name: Spoils of the Vault
   weight: 1.0
   avg_copies: 3.9
-- name: Blackcleave Cliffs
+- name: Gemstone Caverns
   weight: 1.0
   avg_copies: 3.86
-- name: Gemstone Caverns
+- name: Blackcleave Cliffs
   weight: 1.0
   avg_copies: 3.86
 - name: Serum Powder
@@ -121,13 +121,13 @@ top_cards:
 - name: Death's Shadow
   weight: 0.0476
   avg_copies: 2.0
-- name: Mountain
+- name: Kaheera, the Orphanguard
   weight: 0.0476
   avg_copies: 1.0
 - name: Fling
   weight: 0.0476
   avg_copies: 1.0
-- name: Kaheera, the Orphanguard
+- name: Mountain
   weight: 0.0476
   avg_copies: 1.0
 ---

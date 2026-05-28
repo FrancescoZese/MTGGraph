@@ -7,7 +7,7 @@ name: Leyline of Vitality
 scryfall_id: f5318113-9dfb-492c-9151-de90951d881e
 set: m11
 type: Enchantment
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   unknown-92:
     weight: 1.0

@@ -7,7 +7,7 @@ name: Liliana, the Last Hope
 scryfall_id: f7ae5085-0d0d-4d7d-80a3-614315a07de5
 set: 2x2
 type: Legendary Planeswalker — Liliana
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   unknown-45:
     weight: 0.0714

@@ -6,9 +6,9 @@ name: Idol of False Gods
 scryfall_id: d5e1ff6d-190a-497f-89c3-35e0979c93b5
 set: mh3
 type: Kindred Artifact — Eldrazi
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   broodscale-combo:
-    weight: 0.0152
+    weight: 0.0128
     avg_copies: 2.0
 ---

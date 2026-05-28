@@ -8,12 +8,12 @@ name: Deflecting Palm
 scryfall_id: c5bda1a7-537f-4a80-95a0-c45eb127969b
 set: mkc
 type: Instant
-meta_presence: 0.0047
+meta_presence: 0.0049
 archetypes:
   burn:
-    weight: 0.6111
+    weight: 0.5789
     avg_copies: 1.91
   unknown-86:
     weight: 1.0
-    avg_copies: 1.5
+    avg_copies: 1.67
 ---

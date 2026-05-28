@@ -7,9 +7,9 @@ name: Ghirapur Aether Grid
 scryfall_id: 4ec852e9-bff8-4a07-8bc9-165484494c62
 set: moc
 type: Enchantment
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   affinity:
-    weight: 0.0036
+    weight: 0.0035
     avg_copies: 1.0
 ---

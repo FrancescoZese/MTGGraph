@@ -7,10 +7,10 @@ name: Quantum Riddler
 scryfall_id: 120be808-ff3b-4fca-96a1-4db6b9825856
 set: eoe
 type: Creature — Sphinx
-meta_presence: 0.1533
+meta_presence: 0.1548
 archetypes:
   boros-energy:
-    weight: 0.0024
+    weight: 0.0023
     avg_copies: 3.0
   dimir-control:
     weight: 0.4815
@@ -19,8 +19,8 @@ archetypes:
     weight: 0.9922
     avg_copies: 3.81
   goryo:
-    weight: 0.7396
-    avg_copies: 3.4
+    weight: 0.7353
+    avg_copies: 3.36
   necrodominance:
     weight: 0.0333
     avg_copies: 3.0
@@ -28,26 +28,26 @@ archetypes:
     weight: 0.0714
     avg_copies: 1.5
   domain-zoo:
-    weight: 0.0779
-    avg_copies: 3.57
+    weight: 0.0897
+    avg_copies: 3.62
   reanimator:
     weight: 0.5556
     avg_copies: 1.53
   simic-ritual:
-    weight: 0.0345
+    weight: 0.0323
     avg_copies: 2.0
   4c-omnath:
     weight: 1.0
     avg_copies: 3.5
   esper-blink:
     weight: 1.0
-    avg_copies: 3.58
+    avg_copies: 3.56
   bant-control:
     weight: 1.0
     avg_copies: 4.0
   azorius-blink:
     weight: 1.0
-    avg_copies: 3.96
+    avg_copies: 3.93
   izzet-artifacts:
     weight: 0.4333
     avg_copies: 2.62
@@ -55,8 +55,8 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.3784
-    avg_copies: 1.43
+    weight: 0.3333
+    avg_copies: 1.53
   goryo2:
     weight: 1.0
     avg_copies: 4.0
@@ -69,6 +69,9 @@ archetypes:
   unknown-3:
     weight: 1.0
     avg_copies: 4.0
+  unknown-5:
+    weight: 0.5
+    avg_copies: 4.0
   unknown-7:
     weight: 1.0
     avg_copies: 4.0
@@ -80,18 +83,18 @@ archetypes:
     avg_copies: 2.0
   unknown-47:
     weight: 1.0
-    avg_copies: 3.16
+    avg_copies: 3.15
   unknown-62:
     weight: 1.0
-    avg_copies: 3.6
+    avg_copies: 3.69
   unknown-65:
-    weight: 0.7778
-    avg_copies: 2.29
+    weight: 0.8
+    avg_copies: 2.25
   unknown-66:
     weight: 1.0
     avg_copies: 4.0
   unknown-67:
-    weight: 0.0769
+    weight: 0.1034
     avg_copies: 1.0
   unknown-70:
     weight: 1.0
@@ -120,4 +123,7 @@ archetypes:
   unknown-89:
     weight: 1.0
     avg_copies: 4.0
+  unknown-100:
+    weight: 1.0
+    avg_copies: 2.0
 ---

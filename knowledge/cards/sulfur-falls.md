@@ -6,7 +6,7 @@ name: Sulfur Falls
 scryfall_id: 56a6df05-f4e4-40d9-a701-6d5adb7ce9fd
 set: soc
 type: Land
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   unknown-99:
     weight: 1.0

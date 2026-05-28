@@ -8,7 +8,7 @@ name: Voice of Resurgence
 scryfall_id: 99d1e843-71c9-4a65-bc36-d23858ef5ead
 set: 2xm
 type: Creature — Elemental
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   unknown-60:
     weight: 1.0

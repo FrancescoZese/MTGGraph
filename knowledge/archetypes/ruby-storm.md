@@ -3,16 +3,16 @@ colors:
 - R
 - G
 name: Ruby Storm
-meta_share: 0.0312
-list_count: 86
+meta_share: 0.0313
+list_count: 90
 top_cards:
-- name: Pyretic Ritual
-  weight: 1.0
-  avg_copies: 4.0
 - name: Manamorphose
   weight: 1.0
   avg_copies: 4.0
 - name: Desperate Ritual
+  weight: 1.0
+  avg_copies: 4.0
+- name: Pyretic Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Wrenn's Resolve
@@ -26,255 +26,264 @@ top_cards:
   avg_copies: 3.93
 - name: Mountain
   weight: 1.0
-  avg_copies: 3.09
+  avg_copies: 3.08
 - name: Past in Flames
   weight: 1.0
   avg_copies: 1.98
 - name: Valakut Awakening
   weight: 1.0
-  avg_copies: 1.94
+  avg_copies: 1.96
 - name: Ruby Medallion
-  weight: 0.9767
+  weight: 0.9778
   avg_copies: 3.99
 - name: Wish
-  weight: 0.9767
-  avg_copies: 2.1
+  weight: 0.9778
+  avg_copies: 2.09
 - name: Grapeshot
-  weight: 0.9767
+  weight: 0.9778
   avg_copies: 1.03
 - name: Wooded Foothills
-  weight: 0.9535
+  weight: 0.9444
   avg_copies: 2.33
-- name: Bloodstained Mire
-  weight: 0.9419
-  avg_copies: 2.41
 - name: Artist's Talent
-  weight: 0.9419
+  weight: 0.9444
   avg_copies: 1.94
+- name: Bloodstained Mire
+  weight: 0.9333
+  avg_copies: 2.4
 - name: Elegant Parlor
-  weight: 0.9186
-  avg_copies: 1.32
+  weight: 0.9222
+  avg_copies: 1.33
 - name: Sacred Foundry
-  weight: 0.9186
-  avg_copies: 1.09
+  weight: 0.9222
+  avg_copies: 1.08
 - name: Gemstone Caverns
-  weight: 0.907
-  avg_copies: 1.03
+  weight: 0.9111
+  avg_copies: 1.02
 - name: Scalding Tarn
-  weight: 0.8953
-  avg_copies: 2.26
+  weight: 0.9
+  avg_copies: 2.28
 - name: Empty the Warrens
-  weight: 0.8837
+  weight: 0.8889
   avg_copies: 1.0
 - name: Arid Mesa
-  weight: 0.8605
-  avg_copies: 2.49
+  weight: 0.8667
+  avg_copies: 2.51
 - name: Wear
-  weight: 0.8605
-  avg_copies: 2.35
+  weight: 0.8667
+  avg_copies: 2.33
 - name: Prismatic Ending
-  weight: 0.8488
-  avg_copies: 3.37
+  weight: 0.8556
+  avg_copies: 3.36
 - name: Glimpse the Impossible
-  weight: 0.8372
-  avg_copies: 2.22
+  weight: 0.8333
+  avg_copies: 2.24
 - name: Orim's Chant
-  weight: 0.8256
-  avg_copies: 3.04
+  weight: 0.8111
+  avg_copies: 3.07
 - name: Sunbaked Canyon
-  weight: 0.7674
+  weight: 0.7556
   avg_copies: 1.0
 - name: Brotherhood's End
-  weight: 0.5698
-  avg_copies: 1.41
+  weight: 0.5778
+  avg_copies: 1.4
 - name: Commercial District
-  weight: 0.5233
+  weight: 0.5111
   avg_copies: 1.07
 - name: Untimely Malfunction
-  weight: 0.4186
-  avg_copies: 1.53
+  weight: 0.4111
+  avg_copies: 1.51
 - name: Flashback
-  weight: 0.407
+  weight: 0.4
   avg_copies: 1.97
 - name: Fire Magic
-  weight: 0.3372
-  avg_copies: 1.79
+  weight: 0.3333
+  avg_copies: 1.77
 - name: Strike It Rich
-  weight: 0.3372
+  weight: 0.3222
   avg_copies: 1.76
 - name: Galvanic Relay
-  weight: 0.2442
+  weight: 0.2556
   avg_copies: 1.0
 - name: Thundering Falls
-  weight: 0.1977
-  avg_copies: 1.35
+  weight: 0.2111
+  avg_copies: 1.32
 - name: Fire-Brained Scheme
-  weight: 0.1512
-  avg_copies: 2.0
-- name: Stormscale Scion
-  weight: 0.1395
-  avg_copies: 1.17
+  weight: 0.1556
+  avg_copies: 2.14
 - name: Steam Vents
-  weight: 0.1279
-  avg_copies: 1.27
+  weight: 0.1333
+  avg_copies: 1.25
+- name: Stormscale Scion
+  weight: 0.1333
+  avg_copies: 1.17
 - name: Vexing Bauble
-  weight: 0.1047
+  weight: 0.1111
   avg_copies: 2.0
 - name: Meltdown
-  weight: 0.1047
-  avg_copies: 1.44
+  weight: 0.1111
+  avg_copies: 1.4
+- name: Flusterstorm
+  weight: 0.0778
+  avg_copies: 2.71
 - name: Lightning Bolt
-  weight: 0.0814
+  weight: 0.0778
   avg_copies: 1.0
 - name: Stomping Ground
-  weight: 0.0814
+  weight: 0.0778
   avg_copies: 1.0
 - name: Into the Flood Maw
-  weight: 0.0698
+  weight: 0.0667
   avg_copies: 2.83
-- name: Flusterstorm
-  weight: 0.0698
-  avg_copies: 2.67
 - name: Silence
-  weight: 0.0698
+  weight: 0.0667
   avg_copies: 2.5
 - name: Shattering Spree
-  weight: 0.0698
+  weight: 0.0667
   avg_copies: 1.5
+- name: Raucous Theater
+  weight: 0.0667
+  avg_copies: 1.0
 - name: Phlage, Titan of Fire's Fury
-  weight: 0.0698
+  weight: 0.0667
   avg_copies: 1.0
 - name: March of Otherworldly Light
-  weight: 0.0581
+  weight: 0.0556
   avg_copies: 2.2
-- name: Raucous Theater
-  weight: 0.0581
-  avg_copies: 1.0
 - name: Preordain
-  weight: 0.0465
+  weight: 0.0444
   avg_copies: 2.0
 - name: Defense Grid
-  weight: 0.0465
+  weight: 0.0444
   avg_copies: 1.75
 - name: Flame of Anor
-  weight: 0.0465
+  weight: 0.0444
   avg_copies: 1.5
 - name: Mine Collapse
-  weight: 0.0465
+  weight: 0.0444
   avg_copies: 1.0
-- name: Questing Druid
-  weight: 0.0349
-  avg_copies: 4.0
 - name: Flow State
-  weight: 0.0349
+  weight: 0.0333
+  avg_copies: 4.0
+- name: Questing Druid
+  weight: 0.0333
   avg_copies: 4.0
 - name: Hexing Squelcher
-  weight: 0.0349
+  weight: 0.0333
   avg_copies: 1.67
+- name: Blood Moon
+  weight: 0.0333
+  avg_copies: 1.33
 - name: Abrade
-  weight: 0.0349
+  weight: 0.0333
   avg_copies: 1.0
 - name: Fiery Islet
-  weight: 0.0349
+  weight: 0.0333
   avg_copies: 1.0
-- name: Nature's Claim
-  weight: 0.0233
-  avg_copies: 4.0
 - name: Stormcatch Mentor
-  weight: 0.0233
+  weight: 0.0222
+  avg_copies: 4.0
+- name: Nature's Claim
+  weight: 0.0222
   avg_copies: 4.0
 - name: Spirebluff Canal
-  weight: 0.0233
+  weight: 0.0222
   avg_copies: 3.0
 - name: Stock Up
-  weight: 0.0233
+  weight: 0.0222
   avg_copies: 3.0
 - name: Static Prison
-  weight: 0.0233
+  weight: 0.0222
+  avg_copies: 2.5
+- name: March of Reckless Joy
+  weight: 0.0222
   avg_copies: 2.5
 - name: Soul-Guide Lantern
-  weight: 0.0233
+  weight: 0.0222
   avg_copies: 2.0
 - name: Escape to the Wilds
-  weight: 0.0233
+  weight: 0.0222
   avg_copies: 2.0
-- name: Veil of Summer
-  weight: 0.0233
-  avg_copies: 1.5
 - name: Pyroclasm
-  weight: 0.0233
+  weight: 0.0222
   avg_copies: 1.5
-- name: Blood Moon
-  weight: 0.0233
+- name: Veil of Summer
+  weight: 0.0222
   avg_copies: 1.5
-- name: Lorehold Charm
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Otawara, Soaring City
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Shatterskull Smashing
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Flame Slash
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Baral, Chief of Compliance
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Island
-  weight: 0.0233
+- name: Blood Crypt
+  weight: 0.0222
   avg_copies: 1.0
 - name: Misty Rainforest
-  weight: 0.0233
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Island
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Otawara, Soaring City
+  weight: 0.0222
   avg_copies: 1.0
 - name: Alchemist's Gambit
-  weight: 0.0233
+  weight: 0.0222
   avg_copies: 1.0
-- name: March of Reckless Joy
-  weight: 0.0116
-  avg_copies: 4.0
-- name: Remand
-  weight: 0.0116
+- name: Baral, Chief of Compliance
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Shatterskull Smashing
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Flame Slash
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Lorehold Charm
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Goblin Anarchomancer
+  weight: 0.0111
   avg_copies: 2.0
-- name: Spell Snare
-  weight: 0.0116
+- name: Thoughtseize
+  weight: 0.0111
+  avg_copies: 2.0
+- name: Remand
+  weight: 0.0111
   avg_copies: 2.0
 - name: Consign to Memory
-  weight: 0.0116
+  weight: 0.0111
   avg_copies: 2.0
 - name: Consider
-  weight: 0.0116
+  weight: 0.0111
   avg_copies: 2.0
-- name: Goblin Anarchomancer
-  weight: 0.0116
+- name: Spell Snare
+  weight: 0.0111
   avg_copies: 2.0
 - name: card:lindblum-industrial-regency
-  weight: 0.0116
-  avg_copies: 1.0
-- name: Pact of Negation
-  weight: 0.0116
+  weight: 0.0111
   avg_copies: 1.0
 - name: Urabrask
-  weight: 0.0116
+  weight: 0.0111
   avg_copies: 1.0
 - name: Pyromancer Ascension
-  weight: 0.0116
-  avg_copies: 1.0
-- name: Blazing Firesinger
-  weight: 0.0116
-  avg_copies: 1.0
-- name: Fire
-  weight: 0.0116
-  avg_copies: 1.0
-- name: Rip Apart
-  weight: 0.0116
+  weight: 0.0111
   avg_copies: 1.0
 - name: Voice of Victory
-  weight: 0.0116
+  weight: 0.0111
   avg_copies: 1.0
-- name: Blood Crypt
-  weight: 0.0116
+- name: Pact of Negation
+  weight: 0.0111
+  avg_copies: 1.0
+- name: Inquisition of Kozilek
+  weight: 0.0111
+  avg_copies: 1.0
+- name: Rip Apart
+  weight: 0.0111
+  avg_copies: 1.0
+- name: Surgical Extraction
+  weight: 0.0111
+  avg_copies: 1.0
+- name: Fire
+  weight: 0.0111
+  avg_copies: 1.0
+- name: Blazing Firesinger
+  weight: 0.0111
   avg_copies: 1.0
 ---
 already exists

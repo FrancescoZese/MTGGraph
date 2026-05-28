@@ -7,10 +7,10 @@ name: Shambling Ghast
 scryfall_id: d96198a7-dd19-4940-bf8f-23135011fc84
 set: afr
 type: Creature — Zombie
-meta_presence: 0.0015
+meta_presence: 0.0014
 archetypes:
   simic-ritual:
-    weight: 0.0172
+    weight: 0.0161
     avg_copies: 4.0
   soultrader-combo:
     weight: 0.25

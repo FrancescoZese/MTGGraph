@@ -6,17 +6,17 @@ name: Sacred Foundry
 scryfall_id: 8b4e2642-3c87-4708-b9b4-2e7f7359ac7d
 set: eoe
 type: Land — Mountain Plains
-meta_presence: 0.3038
+meta_presence: 0.3005
 archetypes:
   ruby-storm:
-    weight: 0.9186
-    avg_copies: 1.09
+    weight: 0.9222
+    avg_copies: 1.08
   boros-energy:
     weight: 1.0
     avg_copies: 2.78
   jeskai-energy:
     weight: 1.0
-    avg_copies: 1.27
+    avg_copies: 1.28
   azorius-control:
     weight: 0.0769
     avg_copies: 1.0
@@ -24,31 +24,31 @@ archetypes:
     weight: 0.6786
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.026
+    weight: 0.0256
     avg_copies: 1.0
   burn:
-    weight: 0.7222
-    avg_copies: 1.77
+    weight: 0.7368
+    avg_copies: 1.86
   mardu-blink:
     weight: 1.0
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.9663
-    avg_copies: 3.14
+    weight: 0.9677
+    avg_copies: 3.12
   izzet-prowess:
-    weight: 0.0227
+    weight: 0.0219
     avg_copies: 1.0
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
   indomitable-creativity:
-    weight: 0.6667
+    weight: 0.7
     avg_copies: 1.0
   orzhov-blink:
     weight: 0.2857
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.0417
+    weight: 0.0357
     avg_copies: 2.0
   scapeshift-combo:
     weight: 0.1667
@@ -87,17 +87,20 @@ archetypes:
     weight: 0.2
     avg_copies: 1.0
   unknown-26:
-    weight: 0.1667
+    weight: 0.2857
     avg_copies: 2.0
   unknown-54:
     weight: 1.0
+    avg_copies: 1.0
+  unknown-62:
+    weight: 0.0769
     avg_copies: 1.0
   unknown-66:
     weight: 1.0
     avg_copies: 2.0
   unknown-68:
     weight: 1.0
-    avg_copies: 1.75
+    avg_copies: 1.86
   unknown-70:
     weight: 1.0
     avg_copies: 1.67
@@ -112,7 +115,7 @@ archetypes:
     avg_copies: 1.0
   unknown-86:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.33
   unknown-84:
     weight: 1.0
     avg_copies: 1.0
@@ -123,6 +126,9 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-99:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-100:
     weight: 1.0
     avg_copies: 1.0
 ---

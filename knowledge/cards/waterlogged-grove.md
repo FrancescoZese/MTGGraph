@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.0007
 archetypes:
   affinity:
-    weight: 0.0036
+    weight: 0.0035
     avg_copies: 1.0
   unknown-94:
     weight: 1.0

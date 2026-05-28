@@ -7,7 +7,7 @@ name: Mystical Dispute
 scryfall_id: fbe04cb8-a8b9-4241-baae-b398a2509a3a
 set: eld
 type: Instant
-meta_presence: 0.4175
+meta_presence: 0.4174
 archetypes:
   dimir-control:
     weight: 1.0
@@ -17,9 +17,9 @@ archetypes:
     avg_copies: 2.21
   jeskai-energy:
     weight: 0.9922
-    avg_copies: 2.4
+    avg_copies: 2.41
   goryo:
-    weight: 0.9792
+    weight: 0.9804
     avg_copies: 2.76
   necrodominance:
     weight: 0.0333
@@ -34,11 +34,11 @@ archetypes:
     weight: 1.0
     avg_copies: 2.79
   affinity:
-    weight: 0.7737
+    weight: 0.7774
     avg_copies: 1.47
   domain-zoo:
-    weight: 0.961
-    avg_copies: 2.66
+    weight: 0.9615
+    avg_copies: 2.67
   mill:
     weight: 0.2778
     avg_copies: 2.4
@@ -46,35 +46,35 @@ archetypes:
     weight: 0.7407
     avg_copies: 2.1
   neoform-combo:
-    weight: 0.907
-    avg_copies: 3.31
+    weight: 0.9091
+    avg_copies: 3.33
   mono-blue-tron:
     weight: 0.75
     avg_copies: 2.22
   hammer-time:
-    weight: 0.6
-    avg_copies: 2.0
+    weight: 0.6667
+    avg_copies: 1.75
   simic-ritual:
-    weight: 0.9655
-    avg_copies: 2.93
+    weight: 0.9677
+    avg_copies: 2.95
   izzet-prowess:
-    weight: 0.3106
-    avg_copies: 1.63
+    weight: 0.3139
+    avg_copies: 1.6
   4c-omnath:
     weight: 1.0
     avg_copies: 2.25
   esper-blink:
-    weight: 0.8387
-    avg_copies: 1.92
+    weight: 0.8235
+    avg_copies: 1.93
   indomitable-creativity:
-    weight: 0.6667
+    weight: 0.6
     avg_copies: 2.0
   bant-control:
     weight: 1.0
     avg_copies: 3.0
   azorius-blink:
-    weight: 0.7917
-    avg_copies: 1.95
+    weight: 0.8214
+    avg_copies: 2.13
   izzet-artifacts:
     weight: 0.2
     avg_copies: 1.5
@@ -82,8 +82,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   izzet-wizards:
-    weight: 0.8333
-    avg_copies: 2.4
+    weight: 0.8571
+    avg_copies: 2.5
   eldrazi-breach:
     weight: 0.75
     avg_copies: 2.33
@@ -97,8 +97,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.9459
-    avg_copies: 2.0
+    weight: 0.9333
+    avg_copies: 2.12
   goryo2:
     weight: 1.0
     avg_copies: 2.0
@@ -120,6 +120,9 @@ archetypes:
   unknown-3:
     weight: 1.0
     avg_copies: 2.0
+  unknown-5:
+    weight: 0.5
+    avg_copies: 2.0
   unknown-9:
     weight: 0.6667
     avg_copies: 2.0
@@ -139,7 +142,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-30:
-    weight: 0.5
+    weight: 0.4
     avg_copies: 3.5
   unknown-31:
     weight: 1.0
@@ -148,11 +151,11 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-42:
-    weight: 0.4
+    weight: 0.2857
     avg_copies: 2.0
   unknown-47:
     weight: 1.0
-    avg_copies: 2.42
+    avg_copies: 2.4
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
@@ -164,13 +167,13 @@ archetypes:
     avg_copies: 2.0
   unknown-62:
     weight: 1.0
-    avg_copies: 2.6
+    avg_copies: 2.62
   unknown-65:
     weight: 1.0
-    avg_copies: 2.89
+    avg_copies: 2.77
   unknown-67:
     weight: 1.0
-    avg_copies: 3.04
+    avg_copies: 3.03
   unknown-72:
     weight: 1.0
     avg_copies: 1.0
@@ -190,8 +193,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-85:
-    weight: 0.75
-    avg_copies: 2.33
+    weight: 0.8
+    avg_copies: 2.25
   unknown-84:
     weight: 1.0
     avg_copies: 3.0
@@ -211,6 +214,9 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-99:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-100:
     weight: 1.0
     avg_copies: 2.0
 ---

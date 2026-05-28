@@ -7,7 +7,7 @@ name: Leyline of Lifeforce
 scryfall_id: f7caffa7-29bd-455c-9770-94a0ad7ef5e3
 set: gpt
 type: Enchantment
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   unknown-92:
     weight: 1.0

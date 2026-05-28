@@ -6,7 +6,7 @@ name: Kishla Village
 scryfall_id: 9f0ff90d-7312-44df-afc5-29c768fa7758
 set: tdm
 type: Land
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   unknown-14:
     weight: 0.5

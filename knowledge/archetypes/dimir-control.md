@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: Dimir Control
-meta_share: 0.0294
+meta_share: 0.0282
 list_count: 81
 top_cards:
 - name: Counterspell
@@ -207,13 +207,13 @@ top_cards:
 - name: Thundering Falls
   weight: 0.037
   avg_copies: 1.0
+- name: Mishra's Bauble
+  weight: 0.0247
+  avg_copies: 4.0
 - name: Moonshadow
   weight: 0.0247
   avg_copies: 4.0
 - name: Consider
-  weight: 0.0247
-  avg_copies: 4.0
-- name: Mishra's Bauble
   weight: 0.0247
   avg_copies: 4.0
 - name: Flame of Anor
@@ -225,10 +225,10 @@ top_cards:
 - name: Anoint with Affliction
   weight: 0.0247
   avg_copies: 1.0
-- name: Shoot the Sheriff
+- name: Soul-Guide Lantern
   weight: 0.0247
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Shoot the Sheriff
   weight: 0.0247
   avg_copies: 1.0
 - name: Dreams of Steel and Oil
@@ -237,13 +237,13 @@ top_cards:
 - name: Vanishing Verse
   weight: 0.0247
   avg_copies: 1.0
+- name: Death's Shadow
+  weight: 0.0123
+  avg_copies: 4.0
 - name: Snow-Covered Island
   weight: 0.0123
   avg_copies: 4.0
 - name: Street Wraith
-  weight: 0.0123
-  avg_copies: 4.0
-- name: Death's Shadow
   weight: 0.0123
   avg_copies: 4.0
 - name: Dismember
@@ -258,12 +258,6 @@ top_cards:
 - name: Dress Down
   weight: 0.0123
   avg_copies: 3.0
-- name: End of the Hunt
-  weight: 0.0123
-  avg_copies: 2.0
-- name: Dauthi Voidwalker
-  weight: 0.0123
-  avg_copies: 2.0
 - name: Lightning Bolt
   weight: 0.0123
   avg_copies: 2.0
@@ -273,58 +267,64 @@ top_cards:
 - name: Stony Silence
   weight: 0.0123
   avg_copies: 2.0
-- name: Cryptic Command
+- name: Hurkyl's Recall
   weight: 0.0123
   avg_copies: 2.0
 - name: Archmage's Charm
   weight: 0.0123
   avg_copies: 2.0
-- name: Hurkyl's Recall
+- name: Dauthi Voidwalker
   weight: 0.0123
   avg_copies: 2.0
 - name: Emperor of Bones
   weight: 0.0123
   avg_copies: 2.0
+- name: Cryptic Command
+  weight: 0.0123
+  avg_copies: 2.0
+- name: End of the Hunt
+  weight: 0.0123
+  avg_copies: 2.0
 - name: Force of Despair
   weight: 0.0123
   avg_copies: 1.5
-- name: Elesh Norn, Mother of Machines
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Sunken Ruins
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Takenuma, Abandoned Mire
-  weight: 0.0123
-  avg_copies: 1.0
 - name: Lórien Revealed
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Snow-Covered Swamp
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Jace, the Mind Sculptor
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Abigale, Eloquent First-Year
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Verdant Catacombs
   weight: 0.0123
   avg_copies: 1.0
 - name: Rest in Peace
   weight: 0.0123
   avg_copies: 1.0
-- name: Relic of Progenitus
+- name: Extirpate
   weight: 0.0123
   avg_copies: 1.0
-- name: Hall of Storm Giants
+- name: Verdant Catacombs
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Sunken Ruins
   weight: 0.0123
   avg_copies: 1.0
 - name: Exorcise
   weight: 0.0123
   avg_copies: 1.0
-- name: Extirpate
+- name: Hall of Storm Giants
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Takenuma, Abandoned Mire
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Jace, the Mind Sculptor
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Relic of Progenitus
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Snow-Covered Swamp
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Abigale, Eloquent First-Year
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
   weight: 0.0123
   avg_copies: 1.0
 ---

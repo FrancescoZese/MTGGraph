@@ -8,7 +8,7 @@ name: Golbez, Crystal Collector
 scryfall_id: 849f5716-7211-4e93-a220-f88d49f937f4
 set: fin
 type: Legendary Creature — Human Wizard
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   unknown-63:
     weight: 1.0

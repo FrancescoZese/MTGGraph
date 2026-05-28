@@ -11,7 +11,7 @@ type: Creature — Human Warrior
 meta_presence: 0.0007
 archetypes:
   samwise-combo:
-    weight: 0.0333
+    weight: 0.0312
     avg_copies: 1.0
   unknown-60:
     weight: 1.0

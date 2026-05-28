@@ -7,9 +7,9 @@ name: Massacre Wurm
 scryfall_id: 670a36cc-34e1-4d11-808e-1b6bc88eb5d8
 set: fdn
 type: Creature — Phyrexian Wurm
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   goryo:
-    weight: 0.0104
+    weight: 0.0098
     avg_copies: 1.0
 ---

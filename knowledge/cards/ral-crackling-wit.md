@@ -8,9 +8,9 @@ name: Ral, Crackling Wit
 scryfall_id: acfde780-899a-4c5b-a39b-f4a3ff129103
 set: blb
 type: Legendary Planeswalker — Ral
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   izzet-prowess:
-    weight: 0.0076
+    weight: 0.0073
     avg_copies: 1.0
 ---

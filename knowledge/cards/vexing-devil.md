@@ -7,9 +7,9 @@ name: Vexing Devil
 scryfall_id: ba50e7df-9dec-4df8-94a5-5883bbedf0cb
 set: inr
 type: Creature — Devil
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   burn:
-    weight: 0.0556
+    weight: 0.0526
     avg_copies: 4.0
 ---

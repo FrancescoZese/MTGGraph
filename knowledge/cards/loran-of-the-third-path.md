@@ -7,9 +7,9 @@ name: Loran of the Third Path
 scryfall_id: 9e83a0ef-4fea-45ba-86c0-130d6687f7fe
 set: mkc
 type: Legendary Creature — Human Artificer
-meta_presence: 0.0007
+meta_presence: 0.001
 archetypes:
   unknown-30:
-    weight: 0.5
+    weight: 0.6
     avg_copies: 1.0
 ---

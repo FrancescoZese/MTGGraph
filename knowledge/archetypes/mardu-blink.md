@@ -4,7 +4,7 @@ colors:
 - B
 - R
 name: Mardu Blink
-meta_share: 0.0084
+meta_share: 0.008
 list_count: 23
 top_cards:
 - name: Solitude
@@ -19,10 +19,10 @@ top_cards:
 - name: Phlage, Titan of Fire's Fury
   weight: 1.0
   avg_copies: 3.09
-- name: Arid Mesa
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 2.7
-- name: Marsh Flats
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 2.7
 - name: Witch Enchanter
@@ -43,13 +43,13 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.04
-- name: Elegant Parlor
-  weight: 1.0
-  avg_copies: 1.0
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
 - name: Sacred Foundry
+  weight: 1.0
+  avg_copies: 1.0
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Wear
@@ -136,19 +136,19 @@ top_cards:
 - name: Containment Priest
   weight: 0.1739
   avg_copies: 1.0
-- name: Swamp
+- name: Snow-Covered Swamp
   weight: 0.1739
   avg_copies: 1.0
-- name: Snow-Covered Swamp
+- name: Swamp
   weight: 0.1739
   avg_copies: 1.0
 - name: Clarion Conqueror
   weight: 0.1304
   avg_copies: 2.0
-- name: March of Otherworldly Light
+- name: Nihil Spellbomb
   weight: 0.1304
   avg_copies: 1.67
-- name: Nihil Spellbomb
+- name: March of Otherworldly Light
   weight: 0.1304
   avg_copies: 1.67
 - name: Ashiok, Dream Render
@@ -166,19 +166,19 @@ top_cards:
 - name: Seasoned Pyromancer
   weight: 0.0435
   avg_copies: 2.0
-- name: The Legend of Roku
+- name: Magus of the Moon
   weight: 0.0435
   avg_copies: 2.0
-- name: Magus of the Moon
+- name: The Legend of Roku
   weight: 0.0435
   avg_copies: 2.0
 - name: Emptiness
   weight: 0.0435
   avg_copies: 1.0
-- name: Pest Control
+- name: Faerie Macabre
   weight: 0.0435
   avg_copies: 1.0
-- name: Faerie Macabre
+- name: Pest Control
   weight: 0.0435
   avg_copies: 1.0
 ---

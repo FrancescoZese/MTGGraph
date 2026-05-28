@@ -7,12 +7,12 @@ name: Momo, Friendly Flier
 scryfall_id: c472ef84-a632-4ad7-853c-60588a7a4b12
 set: tla
 type: Legendary Creature — Lemur Bat Ally
-meta_presence: 0.0018
+meta_presence: 0.0017
 archetypes:
   azorius-blink:
-    weight: 0.125
+    weight: 0.1071
     avg_copies: 2.0
   unknown-62:
-    weight: 0.2
+    weight: 0.1538
     avg_copies: 1.0
 ---

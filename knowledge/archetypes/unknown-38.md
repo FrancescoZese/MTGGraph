@@ -3,10 +3,13 @@ colors:
 - B
 - R
 name: 'Unknown #38'
-meta_share: 0.0004
+meta_share: 0.0003
 list_count: 1
 top_cards:
-- name: Tarfire
+- name: Bloodbraid Marauder
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 4.0
 - name: Nethergoyf
@@ -15,28 +18,25 @@ top_cards:
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 4.0
-- name: Unholy Heat
-  weight: 1.0
-  avg_copies: 4.0
 - name: Dragon's Rage Channeler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Urza's Saga
-  weight: 1.0
-  avg_copies: 4.0
-- name: Nature's Claim
   weight: 1.0
   avg_copies: 4.0
 - name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodbraid Marauder
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
-- name: Ragavan, Nimble Pilferer
+- name: Tarfire
+  weight: 1.0
+  avg_copies: 4.0
+- name: Unholy Heat
+  weight: 1.0
+  avg_copies: 4.0
+- name: Nature's Claim
+  weight: 1.0
+  avg_copies: 4.0
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Arena of Glory
@@ -51,10 +51,10 @@ top_cards:
 - name: Fire Magic
   weight: 1.0
   avg_copies: 2.0
-- name: Swamp
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 2.0
-- name: Mishra's Bauble
+- name: Swamp
   weight: 1.0
   avg_copies: 2.0
 - name: Dark Confidant
@@ -72,22 +72,22 @@ top_cards:
 - name: Shadowspear
   weight: 1.0
   avg_copies: 1.0
+- name: Haywire Mite
+  weight: 1.0
+  avg_copies: 1.0
+- name: Raucous Theater
+  weight: 1.0
+  avg_copies: 1.0
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
 - name: Castle Locthwain
   weight: 1.0
   avg_copies: 1.0
-- name: Stomping Ground
-  weight: 1.0
-  avg_copies: 1.0
-- name: Raucous Theater
-  weight: 1.0
-  avg_copies: 1.0
-- name: Haywire Mite
-  weight: 1.0
-  avg_copies: 1.0
 - name: Blood Crypt
+  weight: 1.0
+  avg_copies: 1.0
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
 ---

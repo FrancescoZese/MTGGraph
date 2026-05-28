@@ -7,11 +7,11 @@ name: Seasoned Pyromancer
 scryfall_id: 1427f615-8430-426e-a669-f9fe12033ac4
 set: 2x2
 type: Creature — Human Shaman
-meta_presence: 0.1526
+meta_presence: 0.1496
 archetypes:
   boros-energy:
-    weight: 0.9764
-    avg_copies: 2.94
+    weight: 0.9745
+    avg_copies: 2.93
   mardu-blink:
     weight: 0.0435
     avg_copies: 2.0
@@ -20,7 +20,7 @@ archetypes:
     avg_copies: 1.0
   unknown-68:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.86
   unknown-70:
     weight: 0.3333
     avg_copies: 3.0

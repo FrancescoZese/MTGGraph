@@ -4,28 +4,28 @@ colors:
 - R
 - G
 name: 'Unknown #6'
-meta_share: 0.0011
+meta_share: 0.001
 list_count: 3
 top_cards:
+- name: Malevolent Rumble
+  weight: 1.0
+  avg_copies: 4.0
 - name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
-- name: Song of Creation
-  weight: 1.0
-  avg_copies: 4.0
 - name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
-- name: Malevolent Rumble
+- name: Song of Creation
   weight: 1.0
   avg_copies: 4.0
-- name: Emry, Lurker of the Loch
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 3.67
-- name: Misty Rainforest
+- name: Emry, Lurker of the Loch
   weight: 1.0
   avg_copies: 3.67
 - name: Mox Amber
@@ -43,10 +43,10 @@ top_cards:
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 2.0
-- name: Breeding Pool
+- name: Unholy Heat
   weight: 1.0
   avg_copies: 1.67
-- name: Unholy Heat
+- name: Breeding Pool
   weight: 1.0
   avg_copies: 1.67
 - name: Shifting Woodland
@@ -58,31 +58,31 @@ top_cards:
 - name: Engineered Explosives
   weight: 1.0
   avg_copies: 1.25
-- name: Island
-  weight: 1.0
-  avg_copies: 1.0
-- name: Otawara, Soaring City
-  weight: 1.0
-  avg_copies: 1.0
-- name: Hedge Maze
-  weight: 1.0
-  avg_copies: 1.0
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Tormod's Crypt
-  weight: 1.0
-  avg_copies: 1.0
-- name: Stomping Ground
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Endurance
   weight: 1.0
   avg_copies: 1.0
-- name: Spire of Industry
+- name: Hedge Maze
+  weight: 1.0
+  avg_copies: 1.0
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
 - name: Haywire Mite
+  weight: 1.0
+  avg_copies: 1.0
+- name: Otawara, Soaring City
+  weight: 1.0
+  avg_copies: 1.0
+- name: Tormod's Crypt
+  weight: 1.0
+  avg_copies: 1.0
+- name: Spire of Industry
   weight: 1.0
   avg_copies: 1.0
 - name: Boomerang Basics
@@ -97,16 +97,16 @@ top_cards:
 - name: Swan Song
   weight: 0.6667
   avg_copies: 1.5
-- name: Jace, Wielder of Mysteries
-  weight: 0.6667
-  avg_copies: 1.0
 - name: Grapeshot
   weight: 0.6667
   avg_copies: 1.0
-- name: Forest
+- name: Strix Serenade
   weight: 0.6667
   avg_copies: 1.0
 - name: Ashiok, Dream Render
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Forest
   weight: 0.6667
   avg_copies: 1.0
 - name: Pithing Needle
@@ -115,7 +115,7 @@ top_cards:
 - name: Thundering Falls
   weight: 0.6667
   avg_copies: 1.0
-- name: Strix Serenade
+- name: Jace, Wielder of Mysteries
   weight: 0.6667
   avg_copies: 1.0
 - name: Cori-Steel Cutter
@@ -127,31 +127,31 @@ top_cards:
 - name: Veil of Summer
   weight: 0.3333
   avg_copies: 2.0
+- name: Galvanic Blast
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Peer Past the Veil
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Life from the Loam
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Nature's Claim
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Aether Spellbomb
   weight: 0.3333
   avg_copies: 1.0
 - name: Boseiju, Who Endures
   weight: 0.3333
   avg_copies: 1.0
-- name: Pyroclasm
+- name: Life from the Loam
   weight: 0.3333
   avg_copies: 1.0
 - name: Flame of Anor
   weight: 0.3333
   avg_copies: 1.0
+- name: Pyroclasm
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Aether Spellbomb
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Soulless Jailer
   weight: 0.3333
   avg_copies: 1.0
-- name: Galvanic Blast
+- name: Nature's Claim
   weight: 0.3333
   avg_copies: 1.0
 ---

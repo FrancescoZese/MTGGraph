@@ -6,7 +6,7 @@ name: Academy Manufactor
 scryfall_id: 76480f4d-ad6d-4ed6-82c6-fa12abc22557
 set: otc
 type: Artifact Creature — Assembly-Worker
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   unknown-63:
     weight: 1.0

@@ -7,7 +7,7 @@ name: Vizier of Tumbling Sands
 scryfall_id: a9aef509-50f0-4848-87d5-3c169453186f
 set: cmm
 type: Creature — Human Cleric
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   unknown-20:
     weight: 0.3333

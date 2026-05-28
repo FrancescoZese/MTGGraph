@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: Azorius Control
-meta_share: 0.0094
+meta_share: 0.009
 list_count: 26
 top_cards:
 - name: Orim's Chant
@@ -27,10 +27,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.92
-- name: Plains
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.0
-- name: Hallowed Fountain
+- name: Plains
   weight: 1.0
   avg_copies: 2.0
 - name: Meticulous Archive
@@ -156,10 +156,10 @@ top_cards:
 - name: Breeding Pool
   weight: 0.1154
   avg_copies: 1.0
-- name: Suppression Ray
+- name: Thundertrap Trainer
   weight: 0.0769
   avg_copies: 4.0
-- name: Thundertrap Trainer
+- name: Suppression Ray
   weight: 0.0769
   avg_copies: 4.0
 - name: Soul-Guide Lantern
@@ -168,19 +168,28 @@ top_cards:
 - name: Fire Magic
   weight: 0.0769
   avg_copies: 2.0
-- name: Floodfarm Verge
+- name: Windswept Heath
   weight: 0.0769
   avg_copies: 2.0
-- name: Windswept Heath
+- name: Floodfarm Verge
   weight: 0.0769
   avg_copies: 2.0
 - name: March of Otherworldly Light
   weight: 0.0769
   avg_copies: 1.67
-- name: Hedge Maze
+- name: Mistrise Village
   weight: 0.0769
   avg_copies: 1.0
 - name: Beza, the Bounding Spring
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Misty Rainforest
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Hedge Maze
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Gemstone Caverns
   weight: 0.0769
   avg_copies: 1.0
 - name: Sacred Foundry
@@ -189,64 +198,55 @@ top_cards:
 - name: Field of Ruin
   weight: 0.0769
   avg_copies: 1.0
-- name: Mistrise Village
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Misty Rainforest
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Gemstone Caverns
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Vexing Bauble
-  weight: 0.0385
-  avg_copies: 2.0
 - name: Wear
   weight: 0.0385
   avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.0385
   avg_copies: 2.0
-- name: Petrified Hamlet
+- name: Vexing Bauble
   weight: 0.0385
-  avg_copies: 1.0
-- name: Vendilion Clique
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Celestial Colonnade
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Strix Serenade
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Get Lost
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Wan Shi Tong, Librarian
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Jace, the Mind Sculptor
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Undercity Sewers
-  weight: 0.0385
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Erode
   weight: 0.0385
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.0385
   avg_copies: 1.0
-- name: The Wandering Emperor
+- name: Strix Serenade
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Undercity Sewers
   weight: 0.0385
   avg_copies: 1.0
 - name: Hurkyl's Recall
   weight: 0.0385
   avg_copies: 1.0
+- name: Dress Down
+  weight: 0.0385
+  avg_copies: 1.0
+- name: The Wandering Emperor
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Vendilion Clique
+  weight: 0.0385
+  avg_copies: 1.0
 - name: Commandeer
   weight: 0.0385
   avg_copies: 1.0
-- name: Dress Down
+- name: Jace, the Mind Sculptor
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Petrified Hamlet
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Get Lost
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Celestial Colonnade
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Wan Shi Tong, Librarian
   weight: 0.0385
   avg_copies: 1.0
 ---

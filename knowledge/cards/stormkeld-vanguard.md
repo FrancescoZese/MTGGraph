@@ -7,9 +7,9 @@ name: Stormkeld Vanguard // Bear Down
 scryfall_id: bacb1fe5-0adf-461f-b698-9d09a8728c63
 set: woe
 type: Creature — Giant Warrior // Sorcery — Adventure
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   neoform-combo:
-    weight: 0.0233
+    weight: 0.0227
     avg_copies: 1.0
 ---

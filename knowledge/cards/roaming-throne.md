@@ -6,7 +6,7 @@ name: Roaming Throne
 scryfall_id: 32fd8b7c-baf3-4d3d-be6f-044a917b11a0
 set: lci
 type: Artifact Creature — Golem
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   unknown-37:
     weight: 1.0

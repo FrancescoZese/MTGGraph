@@ -7,7 +7,7 @@ name: Leyline Immersion
 scryfall_id: 197f5adc-e14b-4c84-896f-ef5f01f7ff57
 set: mat
 type: Enchantment — Aura
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   unknown-92:
     weight: 1.0

@@ -7,7 +7,7 @@ name: Leyline of Hope
 scryfall_id: 40960e47-3065-485e-aede-29a62411034e
 set: dsk
 type: Enchantment
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   unknown-92:
     weight: 1.0

@@ -7,7 +7,7 @@ name: Thalia, Heretic Cathar
 scryfall_id: c062937f-d519-4206-99b0-cbea01b85a0d
 set: inr
 type: Legendary Creature — Human Soldier
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   unknown-13:
     weight: 1.0

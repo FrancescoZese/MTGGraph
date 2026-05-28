@@ -8,7 +8,7 @@ name: Drown in the Loch
 scryfall_id: eb7b9762-740b-4c1c-a411-20dbf023aea5
 set: clb
 type: Instant
-meta_presence: 0.0153
+meta_presence: 0.015
 archetypes:
   dimir-control:
     weight: 0.1358
@@ -20,6 +20,6 @@ archetypes:
     weight: 0.5
     avg_copies: 1.5
   unknown-47:
-    weight: 0.7368
-    avg_copies: 1.79
+    weight: 0.75
+    avg_copies: 1.8
 ---

@@ -7,9 +7,9 @@ name: Siege Smash
 scryfall_id: f33e3b25-76f5-4263-a309-9ea97f2d8248
 set: mh3
 type: Instant
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   izzet-prowess:
-    weight: 0.0076
+    weight: 0.0073
     avg_copies: 2.0
 ---

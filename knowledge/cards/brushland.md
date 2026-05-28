@@ -6,9 +6,9 @@ name: Brushland
 scryfall_id: 18d236ce-3b78-403a-b5f9-4fb44123d85b
 set: bro
 type: Land
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   broodscale-combo:
-    weight: 0.0152
+    weight: 0.0128
     avg_copies: 4.0
 ---

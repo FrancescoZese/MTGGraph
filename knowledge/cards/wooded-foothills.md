@@ -6,13 +6,13 @@ name: Wooded Foothills
 scryfall_id: 4e11ea8a-f895-438d-a3b7-f070238e4161
 set: mh3
 type: Land
-meta_presence: 0.2024
+meta_presence: 0.2049
 archetypes:
   ruby-storm:
-    weight: 0.9535
+    weight: 0.9444
     avg_copies: 2.33
   amulet-titan:
-    weight: 0.0538
+    weight: 0.0521
     avg_copies: 1.0
   domain-zoo:
     weight: 1.0
@@ -21,35 +21,35 @@ archetypes:
     weight: 0.1111
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.6512
+    weight: 0.6591
     avg_copies: 1.0
   burn:
     weight: 1.0
-    avg_copies: 1.5
+    avg_copies: 1.53
   hollow-one:
-    weight: 0.8519
-    avg_copies: 2.39
+    weight: 0.8571
+    avg_copies: 2.38
   yawgmoth-combo:
-    weight: 0.3333
-    avg_copies: 1.23
+    weight: 0.3636
+    avg_copies: 1.25
   eldrazi-ramp:
-    weight: 0.9062
-    avg_copies: 1.21
+    weight: 0.9091
+    avg_copies: 1.2
   simic-ritual:
-    weight: 0.0862
+    weight: 0.0806
     avg_copies: 3.6
   izzet-prowess:
-    weight: 0.9091
-    avg_copies: 2.62
+    weight: 0.9051
+    avg_copies: 2.61
   samwise-combo:
-    weight: 0.3
-    avg_copies: 1.11
+    weight: 0.3438
+    avg_copies: 1.27
   indomitable-creativity:
-    weight: 1.0
+    weight: 0.9
     avg_copies: 2.67
   broodscale-combo:
-    weight: 0.303
-    avg_copies: 1.3
+    weight: 0.3333
+    avg_copies: 1.23
   dredge:
     weight: 0.625
     avg_copies: 3.1
@@ -111,11 +111,11 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-65:
-    weight: 0.9444
-    avg_copies: 2.65
+    weight: 0.95
+    avg_copies: 2.79
   unknown-67:
-    weight: 0.1154
-    avg_copies: 1.33
+    weight: 0.1379
+    avg_copies: 1.25
   unknown-71:
     weight: 1.0
     avg_copies: 3.0
@@ -130,10 +130,10 @@ archetypes:
     avg_copies: 4.0
   unknown-85:
     weight: 1.0
-    avg_copies: 3.75
+    avg_copies: 3.8
   unknown-86:
-    weight: 0.5
-    avg_copies: 4.0
+    weight: 0.6667
+    avg_copies: 3.0
   unknown-84:
     weight: 1.0
     avg_copies: 4.0
@@ -141,6 +141,9 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-90:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-100:
     weight: 1.0
     avg_copies: 3.0
 ---

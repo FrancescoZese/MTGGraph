@@ -7,23 +7,23 @@ name: Into the Flood Maw
 scryfall_id: 50b9575a-53d9-4df7-b86c-cda021107d3f
 set: blb
 type: Instant
-meta_presence: 0.0396
+meta_presence: 0.0386
 archetypes:
   ruby-storm:
-    weight: 0.0698
+    weight: 0.0667
     avg_copies: 2.83
   mono-blue-belcher:
     weight: 0.6604
     avg_copies: 1.58
   neoform-combo:
-    weight: 0.814
+    weight: 0.8182
     avg_copies: 1.03
   kethis-combo:
     weight: 1.0
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.1742
-    avg_copies: 1.35
+    weight: 0.1752
+    avg_copies: 1.38
   dredge:
     weight: 0.0625
     avg_copies: 2.0
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-2:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 1.0
   unknown-11:
     weight: 1.0

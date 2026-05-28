@@ -7,7 +7,7 @@ name: Wild Ride
 scryfall_id: abc8c6f5-6135-428e-8476-1751f82623f9
 set: tdm
 type: Sorcery
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   unknown-92:
     weight: 1.0

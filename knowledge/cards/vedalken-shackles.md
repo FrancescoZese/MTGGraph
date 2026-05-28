@@ -6,9 +6,9 @@ name: Vedalken Shackles
 scryfall_id: e3257833-b237-49ef-856a-3c1d1c752cf8
 set: mma
 type: Artifact
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   izzet-wizards:
-    weight: 0.1667
+    weight: 0.1429
     avg_copies: 1.0
 ---

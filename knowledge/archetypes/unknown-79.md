@@ -6,9 +6,12 @@ colors:
 - R
 - G
 name: 'Unknown #79'
-meta_share: 0.0015
+meta_share: 0.0014
 list_count: 4
 top_cards:
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
 - name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
@@ -18,10 +21,7 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline of the Guildpact
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flooded Strand
+- name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
@@ -30,7 +30,7 @@ top_cards:
 - name: Wooded Foothills
   weight: 1.0
   avg_copies: 4.0
-- name: Territorial Kavu
+- name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline Binding
@@ -39,10 +39,10 @@ top_cards:
 - name: Quantum Riddler
   weight: 1.0
   avg_copies: 3.25
-- name: Wrath of the Skies
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 2.0
-- name: Misty Rainforest
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.0
 - name: Scalding Tarn
@@ -54,16 +54,16 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 1.0
   avg_copies: 1.75
-- name: Subtlety
+- name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 1.6
-- name: Teferi, Time Raveler
+- name: Subtlety
   weight: 1.0
   avg_copies: 1.6
 - name: Force of Negation
   weight: 1.0
   avg_copies: 1.5
-- name: Island
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
 - name: Temple Garden
@@ -72,31 +72,31 @@ top_cards:
 - name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
-- name: Forest
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Indatha Triome
   weight: 1.0
   avg_copies: 1.0
+- name: Pick Your Poison
+  weight: 0.75
+  avg_copies: 2.0
 - name: Mystical Dispute
   weight: 0.75
   avg_copies: 2.0
 - name: Damping Sphere
-  weight: 0.75
-  avg_copies: 2.0
-- name: Pick Your Poison
   weight: 0.75
   avg_copies: 2.0
 - name: Hidetsugu Consumes All
@@ -114,7 +114,7 @@ top_cards:
 - name: Stubborn Denial
   weight: 0.25
   avg_copies: 2.0
-- name: Surgical Extraction
+- name: Blood Crypt
   weight: 0.25
   avg_copies: 1.0
 - name: High Noon
@@ -123,7 +123,7 @@ top_cards:
 - name: Shatterstorm
   weight: 0.25
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Surgical Extraction
   weight: 0.25
   avg_copies: 1.0
 ---

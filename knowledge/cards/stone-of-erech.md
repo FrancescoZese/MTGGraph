@@ -6,9 +6,9 @@ name: Stone of Erech
 scryfall_id: bc02e193-df33-4eb1-adc1-b51ee931218a
 set: ltr
 type: Legendary Artifact
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   izzet-wizards:
-    weight: 0.1667
+    weight: 0.1429
     avg_copies: 1.0
 ---

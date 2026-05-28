@@ -7,9 +7,9 @@ name: Blazing Firesinger // Seething Song
 scryfall_id: 3ba971e7-0b7a-4750-896f-7cf063e66b2a
 set: sos
 type: Creature — Dwarf Bard // Instant
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   ruby-storm:
-    weight: 0.0116
+    weight: 0.0111
     avg_copies: 1.0
 ---

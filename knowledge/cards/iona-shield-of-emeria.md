@@ -7,10 +7,10 @@ name: Iona, Shield of Emeria
 scryfall_id: 6197b59e-1652-496c-a038-e2eb88ecf017
 set: mm2
 type: Legendary Creature — Angel
-meta_presence: 0.0015
+meta_presence: 0.0017
 archetypes:
   indomitable-creativity:
-    weight: 0.3333
+    weight: 0.4
     avg_copies: 1.0
   unknown-19:
     weight: 1.0

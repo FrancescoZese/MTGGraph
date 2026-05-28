@@ -8,7 +8,7 @@ name: Zirda, the Dawnwaker
 scryfall_id: 1bd8e61c-2ee8-4243-a848-7008810db8a0
 set: iko
 type: Legendary Creature — Elemental Fox
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   goryo6:
     weight: 0.25

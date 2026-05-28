@@ -7,7 +7,7 @@ name: Heritage Druid
 scryfall_id: 57948c65-4324-42bc-97ae-7cc700eb3817
 set: ema
 type: Creature — Elf Druid
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   elves:
     weight: 0.5

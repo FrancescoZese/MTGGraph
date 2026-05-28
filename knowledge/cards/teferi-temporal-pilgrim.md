@@ -7,7 +7,7 @@ name: Teferi, Temporal Pilgrim
 scryfall_id: 23a4f1ec-eadf-4f1e-8821-f22293ad2580
 set: bro
 type: Legendary Planeswalker — Teferi
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   unknown-35:
     weight: 0.3333

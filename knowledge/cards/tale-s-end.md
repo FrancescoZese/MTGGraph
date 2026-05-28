@@ -7,7 +7,7 @@ name: Tale's End
 scryfall_id: 1421115b-9a98-4ab2-bcb2-7d8899ce12db
 set: m20
 type: Instant
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   unknown-99:
     weight: 1.0

@@ -8,7 +8,7 @@ name: Aven Heartstabber
 scryfall_id: acef329c-61e6-41c1-8d89-ff2417949839
 set: snc
 type: Creature — Bird Assassin
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   unknown-39:
     weight: 1.0

@@ -6,9 +6,9 @@ name: Willowrush Verge
 scryfall_id: 758d93d5-3f66-4395-a928-000485396c87
 set: dft
 type: Land
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   simic-ritual:
-    weight: 0.0172
+    weight: 0.0161
     avg_copies: 1.0
 ---

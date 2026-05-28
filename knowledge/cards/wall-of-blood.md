@@ -7,7 +7,7 @@ name: Wall of Blood
 scryfall_id: 17320043-f81c-4e14-b9ba-c1309972c22b
 set: mrd
 type: Creature — Wall
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   unknown-20:
     weight: 0.3333

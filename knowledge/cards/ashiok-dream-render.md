@@ -8,17 +8,17 @@ name: Ashiok, Dream Render
 scryfall_id: f2df3258-c053-48a8-974f-d80899b2cd93
 set: war
 type: Legendary Planeswalker — Ashiok
-meta_presence: 0.0974
+meta_presence: 0.095
 archetypes:
   dimir-control:
     weight: 0.0617
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.3047
+    weight: 0.3023
     avg_copies: 1.38
   goryo:
-    weight: 0.3125
-    avg_copies: 1.07
+    weight: 0.3039
+    avg_copies: 1.06
   necrodominance:
     weight: 0.1667
     avg_copies: 1.6
@@ -32,10 +32,10 @@ archetypes:
     weight: 0.2143
     avg_copies: 1.0
   affinity:
-    weight: 0.146
+    weight: 0.1449
     avg_copies: 1.02
   domain-zoo:
-    weight: 0.5584
+    weight: 0.5513
     avg_copies: 1.35
   mill:
     weight: 0.1111
@@ -50,17 +50,17 @@ archetypes:
     weight: 0.2
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.7949
-    avg_copies: 1.13
+    weight: 0.7273
+    avg_copies: 1.12
   simic-ritual:
-    weight: 0.0172
+    weight: 0.0161
     avg_copies: 1.0
   4c-omnath:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.129
-    avg_copies: 1.5
+    weight: 0.1471
+    avg_copies: 1.6
   orzhov-blink:
     weight: 0.7143
     avg_copies: 1.6
@@ -68,7 +68,7 @@ archetypes:
     weight: 0.0625
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.2083
+    weight: 0.1786
     avg_copies: 1.8
   izzet-artifacts:
     weight: 0.0333
@@ -120,7 +120,7 @@ archetypes:
     avg_copies: 1.0
   unknown-30:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.8
   unknown-41:
     weight: 1.0
     avg_copies: 3.0

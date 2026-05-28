@@ -6,9 +6,9 @@ name: Rugged Prairie
 scryfall_id: 6bd21c9e-de16-4ee9-ae16-6e82b490109d
 set: soc
 type: Land
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   boros-ponza:
-    weight: 0.0112
+    weight: 0.0108
     avg_copies: 1.0
 ---

@@ -7,7 +7,7 @@ name: Sheoldred, the Apocalypse
 scryfall_id: d67be074-cdd4-41d9-ac89-0a0456c4e4b2
 set: dmu
 type: Legendary Creature — Phyrexian Praetor
-meta_presence: 0.0131
+meta_presence: 0.0125
 archetypes:
   necrodominance:
     weight: 0.9667
@@ -19,7 +19,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-5:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 2.0
   unknown-69:
     weight: 1.0

@@ -7,9 +7,9 @@ name: Bedlam Reveler
 scryfall_id: 4780d9d6-b5a2-4646-bd63-48ec58fea6b2
 set: inr
 type: Creature — Devil Horror
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   izzet-prowess:
-    weight: 0.0076
+    weight: 0.0073
     avg_copies: 2.0
 ---

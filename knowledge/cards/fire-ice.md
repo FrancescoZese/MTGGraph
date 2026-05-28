@@ -8,10 +8,10 @@ name: Fire // Ice
 scryfall_id: 18303862-4726-4136-814f-157aa7006579
 set: dmr
 type: Instant // Instant
-meta_presence: 0.0091
+meta_presence: 0.0094
 archetypes:
   ruby-storm:
-    weight: 0.0116
+    weight: 0.0111
     avg_copies: 1.0
   unknown-11:
     weight: 0.5
@@ -21,7 +21,7 @@ archetypes:
     avg_copies: 2.0
   unknown-65:
     weight: 1.0
-    avg_copies: 3.83
+    avg_copies: 3.85
   unknown-84:
     weight: 1.0
     avg_copies: 4.0

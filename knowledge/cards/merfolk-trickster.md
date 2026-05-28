@@ -7,9 +7,9 @@ name: Merfolk Trickster
 scryfall_id: 359b2f2b-7b58-47b6-b00c-8616f981e3a3
 set: dom
 type: Creature — Merfolk Wizard
-meta_presence: 0.0004
+meta_presence: 0.0007
 archetypes:
   unknown-42:
-    weight: 0.2
-    avg_copies: 3.0
+    weight: 0.2857
+    avg_copies: 3.5
 ---

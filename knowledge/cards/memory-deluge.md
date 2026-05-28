@@ -7,7 +7,7 @@ name: Memory Deluge
 scryfall_id: edcd3802-ddb3-4eb6-9b6e-a26d76557662
 set: inr
 type: Instant
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   unknown-99:
     weight: 1.0
