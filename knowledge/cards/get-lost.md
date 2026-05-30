@@ -10,18 +10,18 @@ type: Instant
 meta_presence: 0.0031
 archetypes:
   azorius-control:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 1.0
   jeskai-control:
     weight: 0.0357
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.0215
+    weight: 0.0211
     avg_copies: 3.0
   goryo6:
     weight: 1.0
     avg_copies: 4.0
   unknown-26:
-    weight: 0.1429
+    weight: 0.125
     avg_copies: 3.0
 ---

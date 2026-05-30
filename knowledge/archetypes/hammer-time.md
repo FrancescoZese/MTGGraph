@@ -12,10 +12,10 @@ top_cards:
 - name: Colossus Hammer
   weight: 1.0
   avg_copies: 4.0
-- name: Battlefield Improvisation
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 3.83
-- name: Urza's Saga
+- name: Battlefield Improvisation
   weight: 1.0
   avg_copies: 3.83
 - name: Leyline Axe
@@ -24,10 +24,10 @@ top_cards:
 - name: Ornithopter
   weight: 1.0
   avg_copies: 3.5
-- name: Puresteel Paladin
+- name: Metallic Rebuke
   weight: 1.0
   avg_copies: 3.5
-- name: Metallic Rebuke
+- name: Puresteel Paladin
   weight: 1.0
   avg_copies: 3.5
 - name: Mox Opal
@@ -90,6 +90,9 @@ top_cards:
 - name: Portable Hole
   weight: 0.3333
   avg_copies: 2.5
+- name: Damping Sphere
+  weight: 0.3333
+  avg_copies: 2.0
 - name: Teferi, Time Raveler
   weight: 0.3333
   avg_copies: 2.0
@@ -99,16 +102,13 @@ top_cards:
 - name: Test of Talents
   weight: 0.3333
   avg_copies: 2.0
-- name: Damping Sphere
-  weight: 0.3333
-  avg_copies: 2.0
 - name: Kappa Cannoneer
   weight: 0.3333
   avg_copies: 1.67
 - name: Springleaf Drum
   weight: 0.3333
   avg_copies: 1.5
-- name: Stern Scolding
+- name: Cryptic Coat
   weight: 0.3333
   avg_copies: 1.0
 - name: Pithing Needle
@@ -117,7 +117,7 @@ top_cards:
 - name: Grafdigger's Cage
   weight: 0.3333
   avg_copies: 1.0
-- name: Cryptic Coat
+- name: Stern Scolding
   weight: 0.3333
   avg_copies: 1.0
 - name: Flare of Fortitude
@@ -138,10 +138,10 @@ top_cards:
 - name: Paradise Mantle
   weight: 0.1667
   avg_copies: 1.0
-- name: Skateboard
+- name: Voice of Victory
   weight: 0.1667
   avg_copies: 1.0
-- name: Voice of Victory
+- name: Skateboard
   weight: 0.1667
   avg_copies: 1.0
 ---

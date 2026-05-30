@@ -6,31 +6,31 @@ name: 'Unknown #30'
 meta_share: 0.0017
 list_count: 5
 top_cards:
-- name: Thought Scour
-  weight: 1.0
-  avg_copies: 4.0
-- name: Moonshadow
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Polluted Delta
+- name: Moonshadow
+  weight: 1.0
+  avg_copies: 4.0
+- name: Thought Scour
   weight: 1.0
   avg_copies: 4.0
 - name: Abhorrent Oculus
   weight: 1.0
   avg_copies: 3.8
-- name: Flare of Denial
-  weight: 1.0
-  avg_copies: 3.6
 - name: Unearth
   weight: 1.0
   avg_copies: 3.6
-- name: Consign to Memory
+- name: Flare of Denial
+  weight: 1.0
+  avg_copies: 3.6
+- name: Watery Grave
   weight: 1.0
   avg_copies: 3.0
-- name: Watery Grave
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
 - name: Subtlety
@@ -81,13 +81,13 @@ top_cards:
 - name: Force of Negation
   weight: 0.6
   avg_copies: 1.25
-- name: Soul-Guide Lantern
-  weight: 0.6
-  avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.6
   avg_copies: 1.0
 - name: Loran of the Third Path
+  weight: 0.6
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
   weight: 0.6
   avg_copies: 1.0
 - name: Godless Shrine
@@ -102,25 +102,25 @@ top_cards:
 - name: Bloodstained Mire
   weight: 0.4
   avg_copies: 1.5
-- name: Surgical Extraction
-  weight: 0.4
-  avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 0.4
   avg_copies: 1.0
 - name: Kaito, Bane of Nightmares
   weight: 0.4
   avg_copies: 1.0
+- name: Surgical Extraction
+  weight: 0.4
+  avg_copies: 1.0
 - name: Exhibition Tidecaller
+  weight: 0.2
+  avg_copies: 4.0
+- name: Vengevine
   weight: 0.2
   avg_copies: 4.0
 - name: Hedron Crab
   weight: 0.2
   avg_copies: 4.0
 - name: Merfolk Secretkeeper
-  weight: 0.2
-  avg_copies: 4.0
-- name: Vengevine
   weight: 0.2
   avg_copies: 4.0
 - name: Gran-Gran
@@ -132,22 +132,22 @@ top_cards:
 - name: Dauthi Voidwalker
   weight: 0.2
   avg_copies: 2.0
+- name: The Meathook Massacre
+  weight: 0.2
+  avg_copies: 1.0
+- name: Cephalid Coliseum
+  weight: 0.2
+  avg_copies: 1.0
+- name: Verdant Catacombs
+  weight: 0.2
+  avg_copies: 1.0
 - name: Lavinia, Azorius Renegade
   weight: 0.2
   avg_copies: 1.0
 - name: Engineered Explosives
   weight: 0.2
   avg_copies: 1.0
-- name: Cephalid Coliseum
-  weight: 0.2
-  avg_copies: 1.0
 - name: Nihil Spellbomb
-  weight: 0.2
-  avg_copies: 1.0
-- name: The Meathook Massacre
-  weight: 0.2
-  avg_copies: 1.0
-- name: Verdant Catacombs
   weight: 0.2
   avg_copies: 1.0
 ---

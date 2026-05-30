@@ -15,13 +15,13 @@ archetypes:
     weight: 0.0155
     avg_copies: 2.0
   eldrazi-tron:
-    weight: 0.931
+    weight: 0.9322
     avg_copies: 1.62
   necrodominance:
-    weight: 0.1333
+    weight: 0.129
     avg_copies: 1.5
   azorius-control:
-    weight: 0.1538
+    weight: 0.1481
     avg_copies: 1.0
   burn:
     weight: 0.1579
@@ -30,10 +30,10 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.6818
-    avg_copies: 1.78
+    weight: 0.6866
+    avg_copies: 1.76
   izzet-prowess:
-    weight: 0.0073
+    weight: 0.0071
     avg_copies: 2.0
   elves:
     weight: 1.0

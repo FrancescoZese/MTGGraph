@@ -12,11 +12,11 @@ archetypes:
     weight: 0.0078
     avg_copies: 2.0
   eldrazi-tron:
-    weight: 0.1121
+    weight: 0.1102
     avg_copies: 1.0
   amulet-titan:
     weight: 1.0
-    avg_copies: 2.34
+    avg_copies: 2.32
   hardened-scales:
     weight: 1.0
     avg_copies: 1.75
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.46
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.8864
+    weight: 0.8889
     avg_copies: 1.0
   kethis-combo:
     weight: 1.0
@@ -33,7 +33,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.86
   eldrazi-ramp:
-    weight: 0.1515
+    weight: 0.1493
     avg_copies: 1.0
   simic-ritual:
     weight: 0.9355
@@ -120,6 +120,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-94:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-102:
     weight: 1.0
     avg_copies: 1.0
 ---

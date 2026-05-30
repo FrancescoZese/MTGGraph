@@ -7,7 +7,7 @@ name: Skycoach Conductor // All Aboard
 scryfall_id: 4ecbca71-9a1d-44c5-b709-d6f565941d5e
 set: sos
 type: Creature — Bird Pilot // Instant
-meta_presence: 0.0077
+meta_presence: 0.0075
 archetypes:
   living-end:
     weight: 0.02
@@ -19,7 +19,7 @@ archetypes:
     weight: 0.0357
     avg_copies: 1.0
   unknown-62:
-    weight: 0.9231
+    weight: 0.8
     avg_copies: 1.25
   unknown-89:
     weight: 1.0

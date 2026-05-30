@@ -6,31 +6,7 @@ name: 'Unknown #52'
 meta_share: 0.0007
 list_count: 2
 top_cards:
-- name: Warren Soultrader
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 4.0
-- name: Phoenix Fleet Airship
-  weight: 1.0
-  avg_copies: 4.0
 - name: Malevolent Rumble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Gravecrawler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Orcish Bowmasters
-  weight: 1.0
-  avg_copies: 4.0
-- name: Verdant Catacombs
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 4.0
-- name: Phyrexian Tower
   weight: 1.0
   avg_copies: 4.0
 - name: Shambling Ghast
@@ -39,13 +15,37 @@ top_cards:
 - name: Marionette Apprentice
   weight: 1.0
   avg_copies: 4.0
-- name: Flare of Malice
+- name: Phoenix Fleet Airship
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 4.0
+- name: Phyrexian Tower
+  weight: 1.0
+  avg_copies: 4.0
+- name: Orcish Bowmasters
+  weight: 1.0
+  avg_copies: 4.0
+- name: Verdant Catacombs
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 4.0
+- name: Gravecrawler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Thoughtseize
+  weight: 1.0
+  avg_copies: 4.0
+- name: Warren Soultrader
+  weight: 1.0
+  avg_copies: 4.0
 - name: Fatal Push
   weight: 1.0
   avg_copies: 3.0
 - name: Culling Ritual
+  weight: 1.0
+  avg_copies: 3.0
+- name: Flare of Malice
   weight: 1.0
   avg_copies: 3.0
 - name: Vexing Bauble
@@ -66,19 +66,19 @@ top_cards:
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.0
-- name: Chthonian Nightmare
-  weight: 1.0
-  avg_copies: 1.0
 - name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Shatter Assumptions
   weight: 1.0
   avg_copies: 1.0
 - name: Sephiroth, Fabled SOLDIER
   weight: 1.0
   avg_copies: 1.0
-- name: Shatter Assumptions
+- name: Chthonian Nightmare
+  weight: 1.0
+  avg_copies: 1.0
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Graveyard Trespasser
@@ -87,10 +87,10 @@ top_cards:
 - name: Break the Ice
   weight: 0.5
   avg_copies: 2.0
-- name: Nurturing Peatland
+- name: Cling to Dust
   weight: 0.5
   avg_copies: 1.0
-- name: Cling to Dust
+- name: Nurturing Peatland
   weight: 0.5
   avg_copies: 1.0
 ---

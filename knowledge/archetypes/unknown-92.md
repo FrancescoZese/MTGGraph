@@ -9,16 +9,19 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 10.0
-- name: Slickshot Show-Off
+- name: Ancestral Anger
   weight: 1.0
   avg_copies: 4.0
 - name: Monastery Swiftspear
   weight: 1.0
   avg_copies: 4.0
-- name: Ancestral Anger
+- name: Slickshot Show-Off
   weight: 1.0
   avg_copies: 4.0
-- name: Wild Ride
+- name: Mutagenic Growth
+  weight: 1.0
+  avg_copies: 4.0
+- name: Callous Sell-Sword
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline of Resonance
@@ -27,13 +30,10 @@ top_cards:
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 4.0
-- name: Callous Sell-Sword
-  weight: 1.0
-  avg_copies: 4.0
 - name: Heartfire Hero
   weight: 1.0
   avg_copies: 4.0
-- name: Mutagenic Growth
+- name: Wild Ride
   weight: 1.0
   avg_copies: 4.0
 - name: Turn Inside Out
@@ -48,34 +48,25 @@ top_cards:
 - name: Brute Force
   weight: 1.0
   avg_copies: 2.0
-- name: Leyline of the Void
-  weight: 1.0
-  avg_copies: 1.0
-- name: Leyline of Combustion
+- name: Leyline of Sanctity
   weight: 1.0
   avg_copies: 1.0
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 1.0
-- name: Leyline of Transformation
+- name: Leyline of Vitality
   weight: 1.0
   avg_copies: 1.0
 - name: Leyline of Lightning
   weight: 1.0
   avg_copies: 1.0
-- name: Leyline of Sanctity
+- name: Leyline of Abundance
   weight: 1.0
   avg_copies: 1.0
-- name: Scalding Tarn
+- name: Poison Dart Frog
   weight: 1.0
   avg_copies: 1.0
 - name: Arena of Glory
-  weight: 1.0
-  avg_copies: 1.0
-- name: Leyline of Lifeforce
-  weight: 1.0
-  avg_copies: 1.0
-- name: Leyline Axe
   weight: 1.0
   avg_copies: 1.0
 - name: Leyline of Anticipation
@@ -84,25 +75,34 @@ top_cards:
 - name: Leyline Immersion
   weight: 1.0
   avg_copies: 1.0
-- name: Leyline of the Meek
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 1.0
-- name: Leyline of Abundance
+- name: Leyline of the Void
+  weight: 1.0
+  avg_copies: 1.0
+- name: Leyline of Lifeforce
+  weight: 1.0
+  avg_copies: 1.0
+- name: Leyline Axe
   weight: 1.0
   avg_copies: 1.0
 - name: Den of the Bugbear
   weight: 1.0
   avg_copies: 1.0
-- name: Poison Dart Frog
-  weight: 1.0
-  avg_copies: 1.0
-- name: Leyline of Vitality
-  weight: 1.0
-  avg_copies: 1.0
 - name: Leyline of Hope
   weight: 1.0
   avg_copies: 1.0
+- name: Leyline of Transformation
+  weight: 1.0
+  avg_copies: 1.0
+- name: Leyline of the Meek
+  weight: 1.0
+  avg_copies: 1.0
 - name: Leyline of the Guildpact
+  weight: 1.0
+  avg_copies: 1.0
+- name: Leyline of Combustion
   weight: 1.0
   avg_copies: 1.0
 ---

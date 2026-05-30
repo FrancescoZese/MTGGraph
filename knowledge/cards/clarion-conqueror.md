@@ -7,10 +7,10 @@ name: Clarion Conqueror
 scryfall_id: f892d156-371c-4391-8ae6-25513c5032b0
 set: tdm
 type: Creature — Dragon
-meta_presence: 0.0508
+meta_presence: 0.05
 archetypes:
   boros-energy:
-    weight: 0.1508
+    weight: 0.1505
     avg_copies: 1.31
   living-end:
     weight: 0.22
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.1304
     avg_copies: 2.0
   boros-ponza:
-    weight: 0.0645
+    weight: 0.0632
     avg_copies: 2.0
   esper-blink:
     weight: 0.5
@@ -37,7 +37,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-62:
-    weight: 0.2308
+    weight: 0.2
     avg_copies: 1.33
   unknown-67:
     weight: 0.0345

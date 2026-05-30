@@ -8,7 +8,7 @@ name: Molten Collapse
 scryfall_id: 2487d124-210b-4808-888c-cd0a78aebd90
 set: lci
 type: Sorcery
-meta_presence: 0.0104
+meta_presence: 0.0103
 archetypes:
   reanimator:
     weight: 0.4444
@@ -23,7 +23,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo1:
-    weight: 0.2889
+    weight: 0.2826
     avg_copies: 1.21
   unknown-33:
     weight: 1.0

@@ -7,10 +7,10 @@ name: Azusa, Lost but Seeking
 scryfall_id: 2fe97fbe-a6d6-4e96-8c26-f81bcdf579a1
 set: cmm
 type: Legendary Creature — Human Monk
-meta_presence: 0.0031
+meta_presence: 0.0038
 archetypes:
   amulet-titan:
-    weight: 0.0833
+    weight: 0.102
     avg_copies: 1.0
   unknown-76:
     weight: 0.25

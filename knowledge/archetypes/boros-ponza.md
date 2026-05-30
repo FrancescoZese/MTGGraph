@@ -3,8 +3,8 @@ colors:
 - W
 - R
 name: Boros Ponza
-meta_share: 0.0323
-list_count: 93
+meta_share: 0.0325
+list_count: 95
 top_cards:
 - name: Price of Freedom
   weight: 1.0
@@ -14,306 +14,315 @@ top_cards:
   avg_copies: 3.95
 - name: Path to Exile
   weight: 1.0
-  avg_copies: 3.91
+  avg_copies: 3.92
 - name: Solitude
   weight: 1.0
   avg_copies: 3.08
 - name: Demolition Field
-  weight: 0.9785
-  avg_copies: 3.92
+  weight: 0.9789
+  avg_copies: 3.91
 - name: Field of Ruin
-  weight: 0.9785
+  weight: 0.9789
   avg_copies: 3.82
 - name: Wrath of the Skies
-  weight: 0.9785
-  avg_copies: 3.48
+  weight: 0.9789
+  avg_copies: 3.49
 - name: Plains
-  weight: 0.9785
-  avg_copies: 3.38
+  weight: 0.9789
+  avg_copies: 3.42
 - name: Cori Mountain Monastery
-  weight: 0.9785
-  avg_copies: 3.26
+  weight: 0.9789
+  avg_copies: 3.27
 - name: Mountain
-  weight: 0.9785
+  weight: 0.9789
   avg_copies: 1.11
 - name: Sacred Foundry
-  weight: 0.9677
-  avg_copies: 3.12
+  weight: 0.9684
+  avg_copies: 3.14
 - name: Sunken Citadel
-  weight: 0.957
-  avg_copies: 2.39
+  weight: 0.9579
+  avg_copies: 2.4
 - name: High Noon
-  weight: 0.9462
-  avg_copies: 2.2
+  weight: 0.9474
+  avg_copies: 2.22
 - name: Vexing Bauble
-  weight: 0.9355
+  weight: 0.9263
   avg_copies: 2.14
 - name: White Orchid Phantom
-  weight: 0.9247
-  avg_copies: 3.81
+  weight: 0.9158
+  avg_copies: 3.82
 - name: Wear
-  weight: 0.871
-  avg_copies: 1.73
-- name: Celestial Purge
-  weight: 0.8172
-  avg_copies: 1.82
+  weight: 0.8737
+  avg_copies: 1.72
 - name: Rest in Peace
-  weight: 0.8065
-  avg_copies: 2.55
+  weight: 0.8105
+  avg_copies: 2.57
+- name: Celestial Purge
+  weight: 0.8105
+  avg_copies: 1.82
 - name: Phlage, Titan of Fire's Fury
-  weight: 0.8065
+  weight: 0.7895
   avg_copies: 2.37
-- name: Galvanic Discharge
-  weight: 0.7849
-  avg_copies: 3.81
 - name: Orim's Chant
-  weight: 0.7849
+  weight: 0.7895
   avg_copies: 1.75
+- name: Galvanic Discharge
+  weight: 0.7789
+  avg_copies: 3.81
 - name: Erode
-  weight: 0.7742
-  avg_copies: 3.69
+  weight: 0.7789
+  avg_copies: 3.7
 - name: The Legend of Roku
-  weight: 0.6882
-  avg_copies: 1.21
+  weight: 0.6947
+  avg_copies: 1.23
 - name: Kataki, War's Wage
-  weight: 0.6667
+  weight: 0.6632
   avg_copies: 1.95
 - name: Wrath of God
-  weight: 0.4409
-  avg_copies: 1.51
+  weight: 0.4421
+  avg_copies: 1.52
 - name: Sunbillow Verge
-  weight: 0.3763
-  avg_copies: 1.11
+  weight: 0.3789
+  avg_copies: 1.14
 - name: March of Otherworldly Light
-  weight: 0.3441
+  weight: 0.3474
   avg_copies: 1.71
 - name: Soul Partition
-  weight: 0.3333
+  weight: 0.3263
   avg_copies: 2.35
 - name: Reprieve
-  weight: 0.2258
+  weight: 0.2211
   avg_copies: 2.42
 - name: Surgical Extraction
-  weight: 0.2043
+  weight: 0.2
   avg_copies: 1.7
 - name: Flashback
-  weight: 0.1398
+  weight: 0.1368
   avg_copies: 1.0
 - name: Fire Magic
-  weight: 0.1183
+  weight: 0.1158
   avg_copies: 1.75
 - name: Elegant Parlor
-  weight: 0.1075
+  weight: 0.1053
   avg_copies: 1.2
 - name: Arid Mesa
-  weight: 0.0968
+  weight: 0.0947
   avg_copies: 3.89
+- name: Mana Tithe
+  weight: 0.0947
+  avg_copies: 2.0
 - name: Castle Ardenvale
-  weight: 0.0968
+  weight: 0.0947
   avg_copies: 1.11
 - name: Brotherhood's End
-  weight: 0.0968
+  weight: 0.0947
   avg_copies: 1.0
-- name: Mana Tithe
-  weight: 0.086
-  avg_copies: 1.88
 - name: Soul-Guide Lantern
-  weight: 0.086
+  weight: 0.0842
   avg_copies: 1.88
 - name: Chandra, Awakened Inferno
-  weight: 0.086
+  weight: 0.0842
   avg_copies: 1.0
-- name: Clarion Conqueror
-  weight: 0.0645
-  avg_copies: 2.0
 - name: Chandra, Torch of Defiance
-  weight: 0.0645
+  weight: 0.0632
   avg_copies: 2.0
-- name: Sunbaked Canyon
-  weight: 0.0645
-  avg_copies: 1.0
+- name: Clarion Conqueror
+  weight: 0.0632
+  avg_copies: 2.0
 - name: Drannith Magistrate
-  weight: 0.0538
-  avg_copies: 1.8
-- name: Aven Mindcensor
-  weight: 0.0538
-  avg_copies: 1.71
+  weight: 0.0632
+  avg_copies: 1.83
 - name: Crucible of Worlds
-  weight: 0.0538
+  weight: 0.0632
+  avg_copies: 1.0
+- name: Sunbaked Canyon
+  weight: 0.0632
   avg_copies: 1.0
 - name: Kaheera, the Orphanguard
-  weight: 0.0538
+  weight: 0.0632
   avg_copies: 1.0
+- name: Aven Mindcensor
+  weight: 0.0526
+  avg_copies: 1.71
 - name: Magmatic Hellkite
-  weight: 0.043
+  weight: 0.0421
   avg_copies: 4.0
 - name: Archon of Emeria
-  weight: 0.043
+  weight: 0.0421
   avg_copies: 1.5
-- name: Meltdown
-  weight: 0.043
-  avg_copies: 1.0
 - name: Ghost Vacuum
-  weight: 0.043
+  weight: 0.0421
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 0.0421
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
-  weight: 0.0323
+  weight: 0.0316
   avg_copies: 4.0
 - name: Flagstones of Trokair
-  weight: 0.0323
+  weight: 0.0316
   avg_copies: 3.33
 - name: Snow-Covered Mountain
-  weight: 0.0323
+  weight: 0.0316
   avg_copies: 1.67
 - name: Emrakul, the Aeons Torn
-  weight: 0.0323
+  weight: 0.0316
   avg_copies: 1.0
 - name: Ephemerate
-  weight: 0.0323
+  weight: 0.0316
   avg_copies: 1.0
 - name: Snow-Covered Plains
-  weight: 0.0215
+  weight: 0.0211
   avg_copies: 4.0
 - name: Boom
-  weight: 0.0215
+  weight: 0.0211
   avg_copies: 4.0
 - name: Sanctifier en-Vec
-  weight: 0.0215
+  weight: 0.0211
   avg_copies: 3.0
 - name: Get Lost
-  weight: 0.0215
+  weight: 0.0211
   avg_copies: 3.0
 - name: Rustvale Bridge
-  weight: 0.0215
+  weight: 0.0211
   avg_copies: 3.0
 - name: Fable of the Mirror-Breaker
-  weight: 0.0215
+  weight: 0.0211
   avg_copies: 2.5
 - name: Day of Judgment
-  weight: 0.0215
+  weight: 0.0211
   avg_copies: 2.0
 - name: Sundering Eruption
-  weight: 0.0215
-  avg_copies: 2.0
-- name: Kor Firewalker
-  weight: 0.0215
-  avg_copies: 2.0
-- name: Leonin Arbiter
-  weight: 0.0215
-  avg_copies: 2.0
-- name: Pinnacle Monk
-  weight: 0.0215
+  weight: 0.0211
   avg_copies: 2.0
 - name: Witch Enchanter
-  weight: 0.0215
-  avg_copies: 2.0
-- name: Elesh Norn, Mother of Machines
-  weight: 0.0215
+  weight: 0.0211
   avg_copies: 2.0
 - name: Calamity's Wake
-  weight: 0.0215
+  weight: 0.0211
   avg_copies: 2.0
+- name: Kor Firewalker
+  weight: 0.0211
+  avg_copies: 2.0
+- name: Pinnacle Monk
+  weight: 0.0211
+  avg_copies: 2.0
+- name: Leonin Arbiter
+  weight: 0.0211
+  avg_copies: 2.0
+- name: Elesh Norn, Mother of Machines
+  weight: 0.0211
+  avg_copies: 2.0
+- name: Ghost Quarter
+  weight: 0.0211
+  avg_copies: 1.0
 - name: The Wandering Emperor
-  weight: 0.0215
+  weight: 0.0211
   avg_copies: 1.0
 - name: Elspeth, Storm Slayer
-  weight: 0.0215
-  avg_copies: 1.0
-- name: Boil
-  weight: 0.0215
+  weight: 0.0211
   avg_copies: 1.0
 - name: Arena of Glory
-  weight: 0.0215
+  weight: 0.0211
   avg_copies: 1.0
-- name: Ghost Quarter
-  weight: 0.0215
+- name: Boil
+  weight: 0.0211
   avg_copies: 1.0
-- name: Geomancer's Gambit
-  weight: 0.0108
+- name: Lightning Helix
+  weight: 0.0105
+  avg_copies: 4.0
+- name: Blood Moon
+  weight: 0.0105
   avg_copies: 3.0
 - name: Relic of Progenitus
-  weight: 0.0108
+  weight: 0.0105
   avg_copies: 3.0
-- name: Blood Moon
-  weight: 0.0108
+- name: Geomancer's Gambit
+  weight: 0.0105
   avg_copies: 3.0
+- name: Raze to the Ground
+  weight: 0.0105
+  avg_copies: 2.0
 - name: Settle the Wreckage
-  weight: 0.0108
-  avg_copies: 2.0
-- name: Quintorius Kand
-  weight: 0.0108
-  avg_copies: 2.0
-- name: Stone Rain
-  weight: 0.0108
-  avg_copies: 2.0
-- name: Stony Silence
-  weight: 0.0108
-  avg_copies: 2.0
-- name: Prismatic Ending
-  weight: 0.0108
-  avg_copies: 2.0
-- name: Gideon, Ally of Zendikar
-  weight: 0.0108
+  weight: 0.0105
   avg_copies: 2.0
 - name: Soulless Jailer
-  weight: 0.0108
-  avg_copies: 2.0
-- name: Voice of Victory
-  weight: 0.0108
-  avg_copies: 2.0
-- name: Raze to the Ground
-  weight: 0.0108
+  weight: 0.0105
   avg_copies: 2.0
 - name: Doomskar
-  weight: 0.0108
+  weight: 0.0105
   avg_copies: 2.0
 - name: Damping Sphere
-  weight: 0.0108
+  weight: 0.0105
+  avg_copies: 2.0
+- name: Stony Silence
+  weight: 0.0105
+  avg_copies: 2.0
+- name: Prismatic Ending
+  weight: 0.0105
+  avg_copies: 2.0
+- name: Quintorius Kand
+  weight: 0.0105
+  avg_copies: 2.0
+- name: Voice of Victory
+  weight: 0.0105
+  avg_copies: 2.0
+- name: Gideon, Ally of Zendikar
+  weight: 0.0105
+  avg_copies: 2.0
+- name: Stone Rain
+  weight: 0.0105
   avg_copies: 2.0
 - name: Outlaws' Merriment
-  weight: 0.0108
+  weight: 0.0105
   avg_copies: 1.5
-- name: The Restoration of Eiganjo
-  weight: 0.0108
-  avg_copies: 1.0
-- name: Storm's Wrath
-  weight: 0.0108
-  avg_copies: 1.0
-- name: Forked Bolt
-  weight: 0.0108
-  avg_copies: 1.0
-- name: Ark of Hunger
-  weight: 0.0108
-  avg_copies: 1.0
 - name: Dead
-  weight: 0.0108
-  avg_copies: 1.0
-- name: Kozilek, Butcher of Truth
-  weight: 0.0108
-  avg_copies: 1.0
-- name: Purify the Grave
-  weight: 0.0108
+  weight: 0.0105
   avg_copies: 1.0
 - name: Rugged Prairie
-  weight: 0.0108
+  weight: 0.0105
   avg_copies: 1.0
-- name: Chalice of the Void
-  weight: 0.0108
+- name: Beza, the Bounding Spring
+  weight: 0.0105
   avg_copies: 1.0
-- name: Stormbreath Dragon
-  weight: 0.0108
+- name: Windswept Heath
+  weight: 0.0105
   avg_copies: 1.0
-- name: Suspend Aggression
-  weight: 0.0108
+- name: Kozilek, Butcher of Truth
+  weight: 0.0105
   avg_copies: 1.0
 - name: Ajani Vengeant
-  weight: 0.0108
-  avg_copies: 1.0
-- name: Elspeth, Sun's Nemesis
-  weight: 0.0108
+  weight: 0.0105
   avg_copies: 1.0
 - name: Redirect Lightning
-  weight: 0.0108
+  weight: 0.0105
+  avg_copies: 1.0
+- name: Forked Bolt
+  weight: 0.0105
+  avg_copies: 1.0
+- name: Elspeth, Sun's Nemesis
+  weight: 0.0105
+  avg_copies: 1.0
+- name: Suspend Aggression
+  weight: 0.0105
+  avg_copies: 1.0
+- name: Ark of Hunger
+  weight: 0.0105
+  avg_copies: 1.0
+- name: Purify the Grave
+  weight: 0.0105
+  avg_copies: 1.0
+- name: Chalice of the Void
+  weight: 0.0105
+  avg_copies: 1.0
+- name: Storm's Wrath
+  weight: 0.0105
+  avg_copies: 1.0
+- name: The Restoration of Eiganjo
+  weight: 0.0105
+  avg_copies: 1.0
+- name: Stormbreath Dragon
+  weight: 0.0105
   avg_copies: 1.0
 ---
 Hatebears deck using land destruction and taxing effects to slow opponents while deploying efficient creatures.

@@ -9,13 +9,16 @@ name: 'Unknown #79'
 meta_share: 0.0014
 list_count: 4
 top_cards:
-- name: Flooded Strand
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 4.0
 - name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
-- name: Lightning Bolt
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
@@ -24,10 +27,7 @@ top_cards:
 - name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
-  weight: 1.0
-  avg_copies: 4.0
-- name: Wooded Foothills
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline of the Guildpact
@@ -42,10 +42,10 @@ top_cards:
 - name: Misty Rainforest
   weight: 1.0
   avg_copies: 2.0
-- name: Wrath of the Skies
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 2.0
-- name: Scalding Tarn
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.0
 - name: Consign to Memory
@@ -63,22 +63,25 @@ top_cards:
 - name: Force of Negation
   weight: 1.0
   avg_copies: 1.5
-- name: Sacred Foundry
-  weight: 1.0
-  avg_copies: 1.0
-- name: Temple Garden
+- name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
 - name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
 - name: Island
   weight: 1.0
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Temple Garden
+  weight: 1.0
+  avg_copies: 1.0
+- name: Indatha Triome
+  weight: 1.0
+  avg_copies: 1.0
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
 - name: Forest
@@ -87,16 +90,13 @@ top_cards:
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
-- name: Indatha Triome
-  weight: 1.0
-  avg_copies: 1.0
-- name: Pick Your Poison
+- name: Damping Sphere
   weight: 0.75
   avg_copies: 2.0
 - name: Mystical Dispute
   weight: 0.75
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Pick Your Poison
   weight: 0.75
   avg_copies: 2.0
 - name: Hidetsugu Consumes All
@@ -117,13 +117,13 @@ top_cards:
 - name: Blood Crypt
   weight: 0.25
   avg_copies: 1.0
-- name: High Noon
-  weight: 0.25
-  avg_copies: 1.0
 - name: Shatterstorm
   weight: 0.25
   avg_copies: 1.0
 - name: Surgical Extraction
+  weight: 0.25
+  avg_copies: 1.0
+- name: High Noon
   weight: 0.25
   avg_copies: 1.0
 ---

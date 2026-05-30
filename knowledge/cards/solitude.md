@@ -10,20 +10,20 @@ type: Creature — Elemental Incarnation
 meta_presence: 0.1955
 archetypes:
   boros-energy:
-    weight: 0.0835
+    weight: 0.0833
     avg_copies: 1.17
   jeskai-energy:
     weight: 1.0
     avg_copies: 3.91
   eldrazi-tron:
-    weight: 0.0086
+    weight: 0.0085
     avg_copies: 4.0
   goryo:
-    weight: 0.9804
+    weight: 0.9808
     avg_copies: 3.84
   azorius-control:
     weight: 1.0
-    avg_copies: 3.27
+    avg_copies: 3.19
   jeskai-control:
     weight: 0.8214
     avg_copies: 2.96
@@ -92,7 +92,7 @@ archetypes:
     avg_copies: 3.0
   unknown-26:
     weight: 1.0
-    avg_copies: 3.86
+    avg_copies: 3.88
   unknown-48:
     weight: 1.0
     avg_copies: 4.0
@@ -106,7 +106,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-68:
-    weight: 0.1429
+    weight: 0.125
     avg_copies: 1.0
   unknown-70:
     weight: 0.3333

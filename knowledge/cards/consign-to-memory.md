@@ -7,10 +7,10 @@ name: Consign to Memory
 scryfall_id: bc95af55-d1dd-4fe6-adb0-3ad6db20d986
 set: mh3
 type: Instant
-meta_presence: 0.4595
+meta_presence: 0.4589
 archetypes:
   ruby-storm:
-    weight: 0.0111
+    weight: 0.0106
     avg_copies: 2.0
   boros-energy:
     weight: 0.0023
@@ -25,20 +25,20 @@ archetypes:
     weight: 0.9845
     avg_copies: 3.79
   goryo:
-    weight: 0.9804
+    weight: 0.9808
     avg_copies: 3.08
   necrodominance:
-    weight: 0.0667
+    weight: 0.0645
     avg_copies: 3.5
   azorius-control:
     weight: 1.0
-    avg_copies: 3.77
+    avg_copies: 3.78
   jeskai-control:
     weight: 1.0
     avg_copies: 3.53
   affinity:
-    weight: 0.9187
-    avg_copies: 2.36
+    weight: 0.9201
+    avg_copies: 2.37
   domain-zoo:
     weight: 0.9487
     avg_copies: 2.01
@@ -49,8 +49,8 @@ archetypes:
     weight: 0.8519
     avg_copies: 2.87
   neoform-combo:
-    weight: 0.9318
-    avg_copies: 3.59
+    weight: 0.9333
+    avg_copies: 3.57
   mono-blue-tron:
     weight: 1.0
     avg_copies: 3.14
@@ -61,13 +61,13 @@ archetypes:
     weight: 0.8
     avg_copies: 2.75
   eldrazi-ramp:
-    weight: 0.0758
+    weight: 0.0746
     avg_copies: 2.6
   simic-ritual:
     weight: 0.8065
     avg_copies: 2.96
   izzet-prowess:
-    weight: 0.9708
+    weight: 0.9714
     avg_copies: 3.26
   4c-omnath:
     weight: 0.25
@@ -109,8 +109,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   goryo1:
-    weight: 0.9778
-    avg_copies: 3.0
+    weight: 0.9783
+    avg_copies: 2.98
   goryo7:
     weight: 1.0
     avg_copies: 2.0
@@ -218,7 +218,7 @@ archetypes:
     avg_copies: 2.0
   unknown-62:
     weight: 1.0
-    avg_copies: 1.88
+    avg_copies: 1.93
   unknown-63:
     weight: 1.0
     avg_copies: 3.0
@@ -247,10 +247,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-85:
-    weight: 0.8
+    weight: 0.8333
     avg_copies: 4.0
   unknown-88:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 3.0
   unknown-87:
     weight: 1.0
@@ -276,4 +276,7 @@ archetypes:
   unknown-100:
     weight: 1.0
     avg_copies: 2.0
+  unknown-103:
+    weight: 1.0
+    avg_copies: 3.0
 ---

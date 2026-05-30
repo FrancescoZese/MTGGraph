@@ -5,7 +5,7 @@ colors:
 - B
 - G
 name: Samwise Combo
-meta_share: 0.0111
+meta_share: 0.011
 list_count: 32
 top_cards:
 - name: Cauldron Familiar
@@ -20,10 +20,10 @@ top_cards:
 - name: Samwise Gamgee
   weight: 1.0
   avg_copies: 3.94
-- name: Chord of Calling
+- name: Windswept Heath
   weight: 1.0
   avg_copies: 3.84
-- name: Windswept Heath
+- name: Chord of Calling
   weight: 1.0
   avg_copies: 3.84
 - name: Verdant Catacombs
@@ -53,10 +53,10 @@ top_cards:
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
-- name: Lush Portico
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
-- name: Godless Shrine
+- name: Lush Portico
   weight: 1.0
   avg_copies: 1.0
 - name: Young Wolf
@@ -161,10 +161,10 @@ top_cards:
 - name: Abrupt Decay
   weight: 0.1562
   avg_copies: 1.67
-- name: Swamp
+- name: Eidolon of Rhetoric
   weight: 0.1562
   avg_copies: 1.0
-- name: Eidolon of Rhetoric
+- name: Swamp
   weight: 0.1562
   avg_copies: 1.0
 - name: Culling Ritual
@@ -191,28 +191,28 @@ top_cards:
 - name: Voice of Victory
   weight: 0.0938
   avg_copies: 1.25
-- name: Origin of Metalbending
-  weight: 0.0938
-  avg_copies: 1.0
-- name: Boggart Trawler
-  weight: 0.0938
-  avg_copies: 1.0
-- name: Decorum Dissertation
-  weight: 0.0938
-  avg_copies: 1.0
 - name: Phyrexian Tower
   weight: 0.0938
   avg_copies: 1.0
 - name: Professor of Symbology
   weight: 0.0938
   avg_copies: 1.0
-- name: Chthonian Nightmare
-  weight: 0.0938
-  avg_copies: 1.0
 - name: Ruinous Waterbending
   weight: 0.0938
   avg_copies: 1.0
+- name: Origin of Metalbending
+  weight: 0.0938
+  avg_copies: 1.0
 - name: True Ancestry
+  weight: 0.0938
+  avg_copies: 1.0
+- name: Boggart Trawler
+  weight: 0.0938
+  avg_copies: 1.0
+- name: Chthonian Nightmare
+  weight: 0.0938
+  avg_copies: 1.0
+- name: Decorum Dissertation
   weight: 0.0938
   avg_copies: 1.0
 - name: Assassin's Trophy
@@ -224,67 +224,67 @@ top_cards:
 - name: Path to Exile
   weight: 0.0625
   avg_copies: 1.5
-- name: Dai Li Indoctrination
-  weight: 0.0625
-  avg_copies: 1.0
 - name: Seam Rip
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Pile On
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Reduce to Memory
   weight: 0.0625
   avg_copies: 1.0
 - name: Mistcaller
   weight: 0.0625
   avg_copies: 1.0
+- name: Reduce to Memory
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Dai Li Indoctrination
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Pile On
+  weight: 0.0625
+  avg_copies: 1.0
 - name: Delighted Halfling
   weight: 0.0312
   avg_copies: 3.0
-- name: Professor Dellian Fel
+- name: Dewdrop Cure
   weight: 0.0312
   avg_copies: 2.0
-- name: Haliya, Guided by Light
+- name: Professor Dellian Fel
   weight: 0.0312
   avg_copies: 2.0
 - name: Green Sun's Zenith
   weight: 0.0312
   avg_copies: 2.0
-- name: Dewdrop Cure
+- name: Haliya, Guided by Light
   weight: 0.0312
   avg_copies: 2.0
-- name: Icetill Explorer
-  weight: 0.0312
-  avg_copies: 1.0
-- name: Boromir, Warden of the Tower
-  weight: 0.0312
-  avg_copies: 1.0
-- name: Formidable Speaker
-  weight: 0.0312
-  avg_copies: 1.0
 - name: Heroic Intervention
-  weight: 0.0312
-  avg_copies: 1.0
-- name: Enter the Avatar State
-  weight: 0.0312
-  avg_copies: 1.0
-- name: Renegade Rallier
   weight: 0.0312
   avg_copies: 1.0
 - name: Vraska, Golgari Queen
   weight: 0.0312
   avg_copies: 1.0
-- name: Deafening Silence
+- name: Icetill Explorer
   weight: 0.0312
   avg_copies: 1.0
-- name: Umbral Collar Zealot
+- name: Formidable Speaker
   weight: 0.0312
   avg_copies: 1.0
 - name: Veil of Summer
   weight: 0.0312
   avg_copies: 1.0
 - name: Damping Sphere
+  weight: 0.0312
+  avg_copies: 1.0
+- name: Renegade Rallier
+  weight: 0.0312
+  avg_copies: 1.0
+- name: Umbral Collar Zealot
+  weight: 0.0312
+  avg_copies: 1.0
+- name: Enter the Avatar State
+  weight: 0.0312
+  avg_copies: 1.0
+- name: Deafening Silence
+  weight: 0.0312
+  avg_copies: 1.0
+- name: Boromir, Warden of the Tower
   weight: 0.0312
   avg_copies: 1.0
 ---

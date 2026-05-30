@@ -3,7 +3,7 @@ colors:
 - U
 - R
 name: Izzet Artifacts
-meta_share: 0.0104
+meta_share: 0.0103
 list_count: 30
 top_cards:
 - name: Mishra's Bauble
@@ -78,10 +78,10 @@ top_cards:
 - name: Breeding Pool
   weight: 0.5
   avg_copies: 1.07
-- name: Pithing Needle
+- name: Skateboard
   weight: 0.5
   avg_copies: 1.0
-- name: Skateboard
+- name: Pithing Needle
   weight: 0.5
   avg_copies: 1.0
 - name: Thundering Falls
@@ -165,19 +165,16 @@ top_cards:
 - name: Lightning Bolt
   weight: 0.0667
   avg_copies: 2.5
-- name: Endurance
+- name: Annul
   weight: 0.0667
   avg_copies: 2.0
 - name: Six
   weight: 0.0667
   avg_copies: 2.0
-- name: Annul
+- name: Endurance
   weight: 0.0667
   avg_copies: 2.0
 - name: Shifting Woodland
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Lavaspur Boots
   weight: 0.0667
   avg_copies: 1.0
 - name: Hedge Maze
@@ -186,40 +183,52 @@ top_cards:
 - name: Grafdigger's Cage
   weight: 0.0667
   avg_copies: 1.0
+- name: Lavaspur Boots
+  weight: 0.0667
+  avg_copies: 1.0
 - name: Boseiju, Who Endures
   weight: 0.0667
   avg_copies: 1.0
 - name: Stormchaser's Talent
   weight: 0.0333
   avg_copies: 4.0
-- name: Experimental Synthesizer
+- name: Retraction Helix
   weight: 0.0333
   avg_copies: 3.0
 - name: Vivi Ornitier
   weight: 0.0333
   avg_copies: 3.0
-- name: Retraction Helix
+- name: Experimental Synthesizer
   weight: 0.0333
   avg_copies: 3.0
-- name: Botanical Sanctum
-  weight: 0.0333
-  avg_copies: 2.0
-- name: Kappa Cannoneer
-  weight: 0.0333
-  avg_copies: 2.0
-- name: Spell Pierce
+- name: Invasive Surgery
   weight: 0.0333
   avg_copies: 2.0
 - name: The Reality Chip
   weight: 0.0333
   avg_copies: 2.0
-- name: Invasive Surgery
+- name: Spell Pierce
   weight: 0.0333
   avg_copies: 2.0
-- name: Meltdown
+- name: Kappa Cannoneer
+  weight: 0.0333
+  avg_copies: 2.0
+- name: Botanical Sanctum
+  weight: 0.0333
+  avg_copies: 2.0
+- name: An Offer You Can't Refuse
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Shivan Reef
   weight: 0.0333
   avg_copies: 1.0
 - name: Stomping Ground
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Nature's Claim
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Swan Song
   weight: 0.0333
   avg_copies: 1.0
 - name: Ashiok, Dream Render
@@ -228,25 +237,16 @@ top_cards:
 - name: Snow-Covered Island
   weight: 0.0333
   avg_copies: 1.0
-- name: Nature's Claim
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Snow-Covered Mountain
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Shivan Reef
-  weight: 0.0333
-  avg_copies: 1.0
 - name: Force of Vigor
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Meltdown
   weight: 0.0333
   avg_copies: 1.0
 - name: Subtlety
   weight: 0.0333
   avg_copies: 1.0
-- name: An Offer You Can't Refuse
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Swan Song
+- name: Snow-Covered Mountain
   weight: 0.0333
   avg_copies: 1.0
 ---

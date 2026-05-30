@@ -6,10 +6,10 @@ name: Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
 scryfall_id: 24c0d87b-0049-4beb-b9cb-6f813b7aa7dc
 set: neo
 type: Enchantment — Saga // Enchantment Creature — Goblin Shaman
-meta_presence: 0.1057
+meta_presence: 0.1045
 archetypes:
   boros-energy:
-    weight: 0.3619
+    weight: 0.3611
     avg_copies: 1.73
   jeskai-energy:
     weight: 0.5969
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.7391
     avg_copies: 1.76
   boros-ponza:
-    weight: 0.0215
+    weight: 0.0211
     avg_copies: 2.5
   4c-omnath:
     weight: 0.25
@@ -64,11 +64,11 @@ archetypes:
     avg_copies: 2.67
   unknown-68:
     weight: 1.0
-    avg_copies: 1.29
+    avg_copies: 1.25
   unknown-70:
     weight: 0.3333
     avg_copies: 2.0
   unknown-85:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 2.0
 ---

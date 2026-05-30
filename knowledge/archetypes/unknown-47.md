@@ -3,25 +3,25 @@ colors:
 - U
 - B
 name: 'Unknown #47'
-meta_share: 0.007
+meta_share: 0.0068
 list_count: 20
 top_cards:
-- name: Fatal Push
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Polluted Delta
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.5
-- name: Quantum Riddler
+- name: Counterspell
   weight: 1.0
   avg_copies: 3.15
-- name: Counterspell
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 3.15
 - name: Force of Negation
@@ -123,16 +123,16 @@ top_cards:
 - name: Flow State
   weight: 0.1
   avg_copies: 3.0
-- name: Misty Rainforest
-  weight: 0.1
-  avg_copies: 2.5
 - name: Damping Sphere
   weight: 0.1
   avg_copies: 2.5
-- name: Vexing Bauble
+- name: Misty Rainforest
+  weight: 0.1
+  avg_copies: 2.5
+- name: Wan Shi Tong, Librarian
   weight: 0.1
   avg_copies: 2.0
-- name: Wan Shi Tong, Librarian
+- name: Vexing Bauble
   weight: 0.1
   avg_copies: 2.0
 - name: The Meathook Massacre
@@ -147,25 +147,25 @@ top_cards:
 - name: Chalice of the Void
   weight: 0.05
   avg_copies: 2.0
-- name: Snapcaster Mage
+- name: Spell Pierce
   weight: 0.05
   avg_copies: 1.0
-- name: Strategic Betrayal
+- name: Snow-Covered Island
   weight: 0.05
   avg_copies: 1.0
 - name: Snow-Covered Swamp
   weight: 0.05
   avg_copies: 1.0
-- name: Spell Pierce
+- name: Scalding Tarn
   weight: 0.05
   avg_copies: 1.0
-- name: Scalding Tarn
+- name: Snapcaster Mage
   weight: 0.05
   avg_copies: 1.0
 - name: River of Tears
   weight: 0.05
   avg_copies: 1.0
-- name: Snow-Covered Island
+- name: Strategic Betrayal
   weight: 0.05
   avg_copies: 1.0
 - name: Murktide Regent

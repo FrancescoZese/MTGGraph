@@ -4,7 +4,7 @@ colors:
 - R
 - G
 name: Cosmogoyf Fling
-meta_share: 0.0073
+meta_share: 0.0072
 list_count: 21
 top_cards:
 - name: Plunge into Darkness
@@ -115,16 +115,16 @@ top_cards:
 - name: Mana Confluence
   weight: 0.0476
   avg_copies: 4.0
-- name: Lightning Bolt
-  weight: 0.0476
-  avg_copies: 2.0
 - name: Death's Shadow
   weight: 0.0476
   avg_copies: 2.0
-- name: Kaheera, the Orphanguard
+- name: Lightning Bolt
+  weight: 0.0476
+  avg_copies: 2.0
+- name: Fling
   weight: 0.0476
   avg_copies: 1.0
-- name: Fling
+- name: Kaheera, the Orphanguard
   weight: 0.0476
   avg_copies: 1.0
 - name: Mountain

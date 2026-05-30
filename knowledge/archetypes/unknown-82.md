@@ -6,16 +6,22 @@ name: 'Unknown #82'
 meta_share: 0.0003
 list_count: 1
 top_cards:
-- name: Flooded Strand
-  weight: 1.0
-  avg_copies: 4.0
 - name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
-- name: Flame of Anor
+- name: Thundertrap Trainer
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
+- name: Counterspell
   weight: 1.0
   avg_copies: 4.0
 - name: Tamiyo, Inquisitive Student
+  weight: 1.0
+  avg_copies: 4.0
+- name: Island
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
@@ -24,28 +30,25 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Thundertrap Trainer
+- name: Flame of Anor
   weight: 1.0
   avg_copies: 4.0
-- name: Counterspell
+- name: Steam Vents
   weight: 1.0
-  avg_copies: 4.0
-- name: Island
+  avg_copies: 3.0
+- name: Traumatic Critique
   weight: 1.0
-  avg_copies: 4.0
+  avg_copies: 3.0
 - name: Snapcaster Mage
   weight: 1.0
   avg_copies: 3.0
 - name: Flare of Denial
   weight: 1.0
   avg_copies: 3.0
-- name: Traumatic Critique
+- name: Prismari Charm
   weight: 1.0
-  avg_copies: 3.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 3.0
-- name: Sink into Stupor
+  avg_copies: 2.0
+- name: Damping Sphere
   weight: 1.0
   avg_copies: 2.0
 - name: Soul-Guide Lantern
@@ -54,34 +57,31 @@ top_cards:
 - name: Fire Magic
   weight: 1.0
   avg_copies: 2.0
-- name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 2.0
-- name: Spell Snare
-  weight: 1.0
-  avg_copies: 2.0
 - name: Great Hall of the Biblioplex
   weight: 1.0
   avg_copies: 2.0
-- name: Murktide Regent
+- name: Sink into Stupor
+  weight: 1.0
+  avg_copies: 2.0
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 2.0
 - name: Meltdown
   weight: 1.0
   avg_copies: 2.0
+- name: Murktide Regent
+  weight: 1.0
+  avg_copies: 2.0
+- name: Spell Snare
+  weight: 1.0
+  avg_copies: 2.0
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
-- name: Damping Sphere
-  weight: 1.0
-  avg_copies: 2.0
-- name: Prismari Charm
-  weight: 1.0
-  avg_copies: 2.0
-- name: Otawara, Soaring City
+- name: Blood Moon
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Moon
+- name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
 - name: Thundering Falls

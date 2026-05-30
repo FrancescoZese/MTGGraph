@@ -11,7 +11,7 @@ name: Leyline of the Guildpact
 scryfall_id: bf6e59be-f959-4f4a-8c2d-b7c441e88135
 set: mkm
 type: Enchantment
-meta_presence: 0.0327
+meta_presence: 0.0325
 archetypes:
   domain-zoo:
     weight: 1.0
@@ -33,7 +33,7 @@ archetypes:
     avg_copies: 4.0
   unknown-85:
     weight: 1.0
-    avg_copies: 3.4
+    avg_copies: 3.5
   unknown-92:
     weight: 1.0
     avg_copies: 1.0

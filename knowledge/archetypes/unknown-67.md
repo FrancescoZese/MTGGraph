@@ -5,7 +5,7 @@ colors:
 - R
 - G
 name: 'Unknown #67'
-meta_share: 0.0101
+meta_share: 0.0099
 list_count: 29
 top_cards:
 - name: Shardless Agent
@@ -14,16 +14,16 @@ top_cards:
 - name: Subtlety
   weight: 1.0
   avg_copies: 3.93
-- name: Force of Negation
-  weight: 1.0
-  avg_copies: 3.9
 - name: Violent Outburst
   weight: 1.0
   avg_copies: 3.9
-- name: Curator of Mysteries
+- name: Force of Negation
+  weight: 1.0
+  avg_copies: 3.9
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 3.86
-- name: Misty Rainforest
+- name: Curator of Mysteries
   weight: 1.0
   avg_copies: 3.86
 - name: Street Wraith
@@ -53,13 +53,13 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.03
-- name: Steam Vents
+- name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
 - name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Forest
@@ -146,28 +146,28 @@ top_cards:
 - name: Vibrance
   weight: 0.1379
   avg_copies: 1.0
+- name: Valakut Awakening
+  weight: 0.1034
+  avg_copies: 1.0
+- name: Fade from History
+  weight: 0.1034
+  avg_copies: 1.0
 - name: Quantum Riddler
   weight: 0.1034
   avg_copies: 1.0
 - name: Flare of Denial
   weight: 0.1034
   avg_copies: 1.0
-- name: Fade from History
-  weight: 0.1034
-  avg_copies: 1.0
-- name: Valakut Awakening
-  weight: 0.1034
-  avg_copies: 1.0
 - name: Teferi, Time Raveler
   weight: 0.069
   avg_copies: 2.0
+- name: Windcaller Aven
+  weight: 0.069
+  avg_copies: 1.0
 - name: Temple Garden
   weight: 0.069
   avg_copies: 1.0
 - name: Press the Enemy
-  weight: 0.069
-  avg_copies: 1.0
-- name: Windcaller Aven
   weight: 0.069
   avg_copies: 1.0
 - name: Clarion Conqueror

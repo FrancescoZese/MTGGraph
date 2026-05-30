@@ -3,13 +3,13 @@ colors:
 - W
 - R
 name: Burn
-meta_share: 0.0066
+meta_share: 0.0065
 list_count: 19
 top_cards:
-- name: Boltwave
+- name: Lava Spike
   weight: 1.0
   avg_copies: 4.0
-- name: Lava Spike
+- name: Boltwave
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
@@ -108,16 +108,16 @@ top_cards:
 - name: Pyroclasm
   weight: 0.2105
   avg_copies: 2.25
-- name: Surgical Extraction
-  weight: 0.2105
-  avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.2105
   avg_copies: 2.0
-- name: Lightning Helix
+- name: Surgical Extraction
+  weight: 0.2105
+  avg_copies: 2.0
+- name: Meltdown
   weight: 0.2105
   avg_copies: 1.75
-- name: Meltdown
+- name: Lightning Helix
   weight: 0.2105
   avg_copies: 1.75
 - name: Shard Volley
@@ -129,10 +129,10 @@ top_cards:
 - name: Stony Silence
   weight: 0.1579
   avg_copies: 2.0
-- name: Disruptor Flute
+- name: Ragavan, Nimble Pilferer
   weight: 0.1579
   avg_copies: 1.0
-- name: Ragavan, Nimble Pilferer
+- name: Disruptor Flute
   weight: 0.1579
   avg_copies: 1.0
 - name: Sanctifier en-Vec
@@ -144,10 +144,10 @@ top_cards:
 - name: Vexing Devil
   weight: 0.0526
   avg_copies: 4.0
-- name: Containment Priest
+- name: Magebane Lizard
   weight: 0.0526
   avg_copies: 3.0
-- name: Magebane Lizard
+- name: Containment Priest
   weight: 0.0526
   avg_copies: 3.0
 - name: Orim's Chant
@@ -159,13 +159,13 @@ top_cards:
 - name: Relic of Progenitus
   weight: 0.0526
   avg_copies: 2.0
-- name: Nihil Spellbomb
-  weight: 0.0526
-  avg_copies: 2.0
 - name: Tunnel Ignus
   weight: 0.0526
   avg_copies: 2.0
-- name: Erode
+- name: Nihil Spellbomb
+  weight: 0.0526
+  avg_copies: 2.0
+- name: Blood Moon
   weight: 0.0526
   avg_copies: 1.0
 - name: Void Mirror
@@ -174,22 +174,22 @@ top_cards:
 - name: card:volcanic-fallout
   weight: 0.0526
   avg_copies: 1.0
-- name: Rain of Gore
+- name: Path to Exile
   weight: 0.0526
   avg_copies: 1.0
 - name: Ensnaring Bridge
   weight: 0.0526
   avg_copies: 1.0
-- name: Path to Exile
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Blood Moon
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Deafening Silence
+- name: Rain of Gore
   weight: 0.0526
   avg_copies: 1.0
 - name: Rakdos Charm
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Erode
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Deafening Silence
   weight: 0.0526
   avg_copies: 1.0
 ---

@@ -9,16 +9,16 @@ type: Creature — Eldrazi
 meta_presence: 0.0616
 archetypes:
   eldrazi-tron:
-    weight: 0.931
-    avg_copies: 1.8
+    weight: 0.9322
+    avg_copies: 1.79
   mono-blue-tron:
     weight: 0.0833
     avg_copies: 2.0
   eldrazi-ramp:
-    weight: 0.8182
-    avg_copies: 1.54
+    weight: 0.8209
+    avg_copies: 1.55
   broodscale-combo:
-    weight: 0.0897
+    weight: 0.0854
     avg_copies: 1.1
   goryo4:
     weight: 1.0

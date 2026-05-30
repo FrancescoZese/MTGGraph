@@ -7,23 +7,23 @@ name: Wrath of the Skies
 scryfall_id: 4ef1882e-b422-4f30-8a6c-bd71c2601660
 set: mh3
 type: Sorcery
-meta_presence: 0.3621
+meta_presence: 0.3606
 archetypes:
   boros-energy:
-    weight: 0.993
+    weight: 0.9931
     avg_copies: 2.1
   jeskai-energy:
     weight: 0.9922
     avg_copies: 1.56
   eldrazi-tron:
-    weight: 0.0086
+    weight: 0.0085
     avg_copies: 2.0
   goryo:
-    weight: 0.9706
-    avg_copies: 2.28
+    weight: 0.9712
+    avg_copies: 2.27
   azorius-control:
-    weight: 0.8846
-    avg_copies: 1.68
+    weight: 0.8889
+    avg_copies: 1.65
   jeskai-control:
     weight: 0.9643
     avg_copies: 2.02
@@ -37,8 +37,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.07
   boros-ponza:
-    weight: 0.9785
-    avg_copies: 3.48
+    weight: 0.9789
+    avg_copies: 3.49
   4c-omnath:
     weight: 0.25
     avg_copies: 2.0
@@ -98,13 +98,13 @@ archetypes:
     avg_copies: 1.5
   unknown-26:
     weight: 1.0
-    avg_copies: 3.86
+    avg_copies: 3.88
   unknown-48:
     weight: 1.0
     avg_copies: 4.0
   unknown-62:
     weight: 1.0
-    avg_copies: 2.79
+    avg_copies: 2.75
   unknown-68:
     weight: 1.0
     avg_copies: 2.0
@@ -127,10 +127,13 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-85:
-    weight: 0.8
-    avg_copies: 2.0
+    weight: 0.8333
+    avg_copies: 2.2
   unknown-77:
     weight: 1.0
+    avg_copies: 2.0
+  unknown-88:
+    weight: 0.5
     avg_copies: 2.0
   unknown-87:
     weight: 1.0

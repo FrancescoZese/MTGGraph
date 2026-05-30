@@ -6,13 +6,13 @@ name: Flagstones of Trokair
 scryfall_id: a0acea27-88de-4d27-8da2-8f82439526a1
 set: tsr
 type: Legendary Land
-meta_presence: 0.0111
+meta_presence: 0.0113
 archetypes:
   boros-energy:
     weight: 0.0023
     avg_copies: 3.0
   boros-ponza:
-    weight: 0.0323
+    weight: 0.0316
     avg_copies: 3.33
   azorius-blink:
     weight: 0.8929

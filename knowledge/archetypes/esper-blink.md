@@ -4,7 +4,7 @@ colors:
 - U
 - B
 name: Esper Blink
-meta_share: 0.0118
+meta_share: 0.0116
 list_count: 34
 top_cards:
 - name: Overlord of the Balemurk
@@ -73,10 +73,10 @@ top_cards:
 - name: Flickerwisp
   weight: 0.9412
   avg_copies: 2.12
-- name: Shadowy Backstreet
+- name: Undercity Sewers
   weight: 0.9412
   avg_copies: 1.0
-- name: Undercity Sewers
+- name: Shadowy Backstreet
   weight: 0.9412
   avg_copies: 1.0
 - name: Polluted Delta
@@ -109,16 +109,16 @@ top_cards:
 - name: Bleachbone Verge
   weight: 0.2647
   avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.2353
-  avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
   weight: 0.2353
   avg_copies: 1.0
-- name: Skycoach Conductor
-  weight: 0.1765
+- name: Surgical Extraction
+  weight: 0.2353
   avg_copies: 1.0
 - name: March of Otherworldly Light
+  weight: 0.1765
+  avg_copies: 1.0
+- name: Skycoach Conductor
   weight: 0.1765
   avg_copies: 1.0
 - name: Psychic Frog
@@ -127,13 +127,13 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 0.1471
   avg_copies: 1.6
-- name: Erode
+- name: Chalice of the Void
   weight: 0.1176
   avg_copies: 1.0
 - name: Kavaero, Mind-Bitten
   weight: 0.1176
   avg_copies: 1.0
-- name: Chalice of the Void
+- name: Erode
   weight: 0.1176
   avg_copies: 1.0
 - name: Drannith Magistrate
@@ -151,9 +151,6 @@ top_cards:
 - name: Graveyard Trespasser
   weight: 0.0588
   avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 0.0588
-  avg_copies: 2.0
 - name: Abhorrent Oculus
   weight: 0.0588
   avg_copies: 2.0
@@ -163,19 +160,22 @@ top_cards:
 - name: Northampton Farm
   weight: 0.0588
   avg_copies: 2.0
+- name: Vexing Bauble
+  weight: 0.0588
+  avg_copies: 2.0
 - name: Strix Serenade
   weight: 0.0588
   avg_copies: 1.33
-- name: Floodfarm Verge
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Pest Control
+- name: End of the Hunt
   weight: 0.0588
   avg_copies: 1.0
 - name: Hydroelectric Specimen
   weight: 0.0588
   avg_copies: 1.0
-- name: End of the Hunt
+- name: Floodfarm Verge
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Pest Control
   weight: 0.0588
   avg_copies: 1.0
 - name: No More Lies
@@ -187,16 +187,16 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.0294
   avg_copies: 2.0
+- name: Spell Pierce
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Snow-Covered Island
+  weight: 0.0294
+  avg_copies: 1.0
 - name: Emptiness
   weight: 0.0294
   avg_copies: 1.0
-- name: Celestial Purge
-  weight: 0.0294
-  avg_copies: 1.0
 - name: Snow-Covered Swamp
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Spell Pierce
   weight: 0.0294
   avg_copies: 1.0
 - name: Windswept Heath
@@ -205,7 +205,7 @@ top_cards:
 - name: Snow-Covered Plains
   weight: 0.0294
   avg_copies: 1.0
-- name: Snow-Covered Island
+- name: Celestial Purge
   weight: 0.0294
   avg_copies: 1.0
 ---

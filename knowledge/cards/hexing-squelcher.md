@@ -7,13 +7,13 @@ name: Hexing Squelcher
 scryfall_id: 674960ce-ff33-4d5e-a24a-a4582b2e9809
 set: ecl
 type: Creature — Goblin Sorcerer
-meta_presence: 0.0028
+meta_presence: 0.0027
 archetypes:
   ruby-storm:
-    weight: 0.0333
+    weight: 0.0319
     avg_copies: 1.67
   neoform-combo:
-    weight: 0.0227
+    weight: 0.0222
     avg_copies: 4.0
   mono-red-belcher:
     weight: 0.0833
