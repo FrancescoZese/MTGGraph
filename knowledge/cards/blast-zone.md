@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.0027
 archetypes:
   eldrazi-tron:
-    weight: 0.0254
+    weight: 0.0252
     avg_copies: 1.0
   scapeshift-combo:
     weight: 0.5

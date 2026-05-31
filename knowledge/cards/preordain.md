@@ -16,8 +16,8 @@ archetypes:
     weight: 0.1605
     avg_copies: 2.31
   mono-blue-belcher:
-    weight: 0.3636
-    avg_copies: 2.9
+    weight: 0.375
+    avg_copies: 2.95
   goryo:
     weight: 0.0385
     avg_copies: 2.0
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.0667
     avg_copies: 2.33
   izzet-prowess:
-    weight: 0.9929
+    weight: 0.993
     avg_copies: 3.91
   izzet-artifacts:
     weight: 0.4
@@ -64,7 +64,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-47:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 3.0
   unknown-53:
     weight: 1.0
@@ -75,4 +75,7 @@ archetypes:
   unknown-73:
     weight: 1.0
     avg_copies: 4.0
+  unknown-105:
+    weight: 1.0
+    avg_copies: 2.0
 ---

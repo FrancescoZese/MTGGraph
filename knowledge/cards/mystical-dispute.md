@@ -7,13 +7,13 @@ name: Mystical Dispute
 scryfall_id: fbe04cb8-a8b9-4241-baae-b398a2509a3a
 set: eld
 type: Instant
-meta_presence: 0.4164
+meta_presence: 0.4165
 archetypes:
   dimir-control:
     weight: 1.0
     avg_copies: 2.3
   mono-blue-belcher:
-    weight: 0.9091
+    weight: 0.9107
     avg_copies: 2.2
   jeskai-energy:
     weight: 0.9922
@@ -26,7 +26,7 @@ archetypes:
     avg_copies: 3.0
   azorius-control:
     weight: 1.0
-    avg_copies: 2.93
+    avg_copies: 2.96
   living-end:
     weight: 0.98
     avg_copies: 3.33
@@ -58,13 +58,13 @@ archetypes:
     weight: 0.9677
     avg_copies: 2.95
   izzet-prowess:
-    weight: 0.3143
+    weight: 0.3099
     avg_copies: 1.61
   4c-omnath:
     weight: 1.0
     avg_copies: 2.25
   esper-blink:
-    weight: 0.8235
+    weight: 0.8
     avg_copies: 1.93
   indomitable-creativity:
     weight: 0.6
@@ -73,8 +73,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   azorius-blink:
-    weight: 0.8214
-    avg_copies: 2.13
+    weight: 0.8276
+    avg_copies: 2.12
   izzet-artifacts:
     weight: 0.2
     avg_copies: 1.5
@@ -97,8 +97,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.9348
-    avg_copies: 2.12
+    weight: 0.9434
+    avg_copies: 2.16
   goryo2:
     weight: 1.0
     avg_copies: 2.0
@@ -121,7 +121,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-5:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 2.0
   unknown-9:
     weight: 0.6667
@@ -155,7 +155,7 @@ archetypes:
     avg_copies: 2.0
   unknown-47:
     weight: 1.0
-    avg_copies: 2.4
+    avg_copies: 2.36
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
@@ -170,7 +170,7 @@ archetypes:
     avg_copies: 2.53
   unknown-65:
     weight: 1.0
-    avg_copies: 2.77
+    avg_copies: 2.79
   unknown-67:
     weight: 1.0
     avg_copies: 3.03
@@ -219,6 +219,12 @@ archetypes:
   unknown-100:
     weight: 1.0
     avg_copies: 2.0
+  unknown-105:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-104:
+    weight: 1.0
+    avg_copies: 3.0
   unknown-103:
     weight: 1.0
     avg_copies: 3.0

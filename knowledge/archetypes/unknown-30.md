@@ -6,6 +6,9 @@ name: 'Unknown #30'
 meta_share: 0.0017
 list_count: 5
 top_cards:
+- name: Thought Scour
+  weight: 1.0
+  avg_copies: 4.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
@@ -13,9 +16,6 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Moonshadow
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thought Scour
   weight: 1.0
   avg_copies: 4.0
 - name: Abhorrent Oculus
@@ -45,10 +45,10 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 1.8
-- name: Harbinger of the Seas
+- name: Swamp
   weight: 1.0
   avg_copies: 1.6
-- name: Swamp
+- name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 1.6
 - name: Island
@@ -69,10 +69,10 @@ top_cards:
 - name: Thoughtseize
   weight: 0.6
   avg_copies: 2.5
-- name: High Noon
+- name: Pest Control
   weight: 0.6
   avg_copies: 2.0
-- name: Pest Control
+- name: High Noon
   weight: 0.6
   avg_copies: 2.0
 - name: Bitter Triumph
@@ -102,16 +102,16 @@ top_cards:
 - name: Bloodstained Mire
   weight: 0.4
   avg_copies: 1.5
-- name: Otawara, Soaring City
-  weight: 0.4
-  avg_copies: 1.0
 - name: Kaito, Bane of Nightmares
   weight: 0.4
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.4
   avg_copies: 1.0
-- name: Exhibition Tidecaller
+- name: Otawara, Soaring City
+  weight: 0.4
+  avg_copies: 1.0
+- name: Merfolk Secretkeeper
   weight: 0.2
   avg_copies: 4.0
 - name: Vengevine
@@ -120,7 +120,7 @@ top_cards:
 - name: Hedron Crab
   weight: 0.2
   avg_copies: 4.0
-- name: Merfolk Secretkeeper
+- name: Exhibition Tidecaller
   weight: 0.2
   avg_copies: 4.0
 - name: Gran-Gran
@@ -132,7 +132,13 @@ top_cards:
 - name: Dauthi Voidwalker
   weight: 0.2
   avg_copies: 2.0
+- name: Nihil Spellbomb
+  weight: 0.2
+  avg_copies: 1.0
 - name: The Meathook Massacre
+  weight: 0.2
+  avg_copies: 1.0
+- name: Lavinia, Azorius Renegade
   weight: 0.2
   avg_copies: 1.0
 - name: Cephalid Coliseum
@@ -141,13 +147,7 @@ top_cards:
 - name: Verdant Catacombs
   weight: 0.2
   avg_copies: 1.0
-- name: Lavinia, Azorius Renegade
-  weight: 0.2
-  avg_copies: 1.0
 - name: Engineered Explosives
-  weight: 0.2
-  avg_copies: 1.0
-- name: Nihil Spellbomb
   weight: 0.2
   avg_copies: 1.0
 ---

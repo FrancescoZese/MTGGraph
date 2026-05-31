@@ -7,55 +7,55 @@ name: Bant Control
 meta_share: 0.0003
 list_count: 1
 top_cards:
-- name: Wistfulness
+- name: Tune the Narrative
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Ephemerate
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 4.0
-- name: Prismatic Ending
+- name: Wistfulness
   weight: 1.0
   avg_copies: 4.0
 - name: Counterspell
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
-  weight: 1.0
-  avg_copies: 4.0
-- name: Wrath of the Skies
-  weight: 1.0
-  avg_copies: 4.0
 - name: Quantum Riddler
   weight: 1.0
   avg_copies: 4.0
-- name: Tune the Narrative
+- name: Prismatic Ending
   weight: 1.0
   avg_copies: 4.0
-- name: Harbinger of the Seas
+- name: Solitude
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ephemerate
+  weight: 1.0
+  avg_copies: 4.0
+- name: Relic of Progenitus
   weight: 1.0
   avg_copies: 3.0
-- name: Relic of Progenitus
+- name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 3.0
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 3.0
-- name: Ceremonious Rejection
-  weight: 1.0
-  avg_copies: 2.0
 - name: Meticulous Archive
-  weight: 1.0
-  avg_copies: 2.0
-- name: Island
   weight: 1.0
   avg_copies: 2.0
 - name: Misty Rainforest
   weight: 1.0
   avg_copies: 2.0
+- name: Island
+  weight: 1.0
+  avg_copies: 2.0
 - name: Consign to Memory
+  weight: 1.0
+  avg_copies: 2.0
+- name: Ceremonious Rejection
   weight: 1.0
   avg_copies: 2.0
 - name: Supreme Verdict
@@ -64,25 +64,19 @@ top_cards:
 - name: Plains
   weight: 1.0
   avg_copies: 2.0
-- name: Mystic Gate
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
-- name: Mistrise Village
-  weight: 1.0
-  avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 1.0
-  avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
-  weight: 1.0
-  avg_copies: 1.0
-- name: Windswept Heath
+- name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
 - name: Otawara, Soaring City
+  weight: 1.0
+  avg_copies: 1.0
+- name: Mystic Gate
   weight: 1.0
   avg_copies: 1.0
 - name: Lush Portico
@@ -91,10 +85,16 @@ top_cards:
 - name: Hall of Storm Giants
   weight: 1.0
   avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
+  weight: 1.0
+  avg_copies: 1.0
+- name: Mistrise Village
+  weight: 1.0
+  avg_copies: 1.0
 - name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Windswept Heath
   weight: 1.0
   avg_copies: 1.0
 ---

@@ -9,10 +9,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 4.57
-- name: Counterspell
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 3.86
-- name: Scalding Tarn
+- name: Counterspell
   weight: 1.0
   avg_copies: 3.86
 - name: Flame of Anor
@@ -63,25 +63,25 @@ top_cards:
 - name: Otawara, Soaring City
   weight: 0.7143
   avg_copies: 1.0
-- name: Misty Rainforest
+- name: Sink into Stupor
   weight: 0.5714
   avg_copies: 1.5
-- name: Sink into Stupor
+- name: Misty Rainforest
   weight: 0.5714
   avg_copies: 1.5
 - name: Tamiyo, Inquisitive Student
   weight: 0.4286
   avg_copies: 3.67
-- name: Wan Shi Tong, Librarian
-  weight: 0.4286
-  avg_copies: 2.67
 - name: Obsidian Charmaw
   weight: 0.4286
   avg_copies: 2.67
-- name: Invert Polarity
+- name: Wan Shi Tong, Librarian
+  weight: 0.4286
+  avg_copies: 2.67
+- name: Consult the Star Charts
   weight: 0.4286
   avg_copies: 2.0
-- name: Consult the Star Charts
+- name: Invert Polarity
   weight: 0.4286
   avg_copies: 2.0
 - name: Force of Negation
@@ -138,22 +138,25 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.1429
   avg_copies: 3.0
-- name: Expressive Iteration
+- name: Flusterstorm
+  weight: 0.1429
+  avg_copies: 2.0
+- name: Den of the Bugbear
   weight: 0.1429
   avg_copies: 2.0
 - name: Spirebluff Canal
   weight: 0.1429
   avg_copies: 2.0
-- name: Flusterstorm
+- name: Expressive Iteration
   weight: 0.1429
   avg_copies: 2.0
-- name: Lórien Revealed
+- name: Field of Ruin
   weight: 0.1429
   avg_copies: 2.0
 - name: Brainsurge
   weight: 0.1429
   avg_copies: 2.0
-- name: Den of the Bugbear
+- name: Lórien Revealed
   weight: 0.1429
   avg_copies: 2.0
 - name: Engineered Explosives
@@ -162,19 +165,31 @@ top_cards:
 - name: Test of Talents
   weight: 0.1429
   avg_copies: 2.0
-- name: Field of Ruin
-  weight: 0.1429
-  avg_copies: 2.0
-- name: Arid Mesa
+- name: Vampires' Vengeance
   weight: 0.1429
   avg_copies: 1.0
-- name: Vampires' Vengeance
+- name: Riverpyre Verge
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Annul
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Vedalken Shackles
   weight: 0.1429
   avg_copies: 1.0
 - name: Logic Knot
   weight: 0.1429
   avg_copies: 1.0
-- name: Annul
+- name: Agna Qel'a
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Stern Scolding
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Stone of Erech
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Vexing Bauble
   weight: 0.1429
   avg_copies: 1.0
 - name: Hurkyl's Recall
@@ -183,22 +198,7 @@ top_cards:
 - name: Mistrise Village
   weight: 0.1429
   avg_copies: 1.0
-- name: Vedalken Shackles
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Vexing Bauble
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Stern Scolding
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Agna Qel'a
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Riverpyre Verge
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Stone of Erech
+- name: Arid Mesa
   weight: 0.1429
   avg_copies: 1.0
 ---

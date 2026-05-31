@@ -6,18 +6,6 @@ name: 'Unknown #86'
 meta_share: 0.001
 list_count: 3
 top_cards:
-- name: Lava Spike
-  weight: 1.0
-  avg_copies: 4.0
-- name: Boltwave
-  weight: 1.0
-  avg_copies: 4.0
-- name: Monastery Swiftspear
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
 - name: Skewer the Critics
   weight: 1.0
   avg_copies: 4.0
@@ -27,16 +15,28 @@ top_cards:
 - name: Barbarian Ring
   weight: 1.0
   avg_copies: 4.0
+- name: Boltwave
+  weight: 1.0
+  avg_copies: 4.0
 - name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
-- name: Light Up the Stage
+- name: Monastery Swiftspear
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lava Spike
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mountain
   weight: 1.0
   avg_copies: 3.33
-- name: Mountain
+- name: Light Up the Stage
   weight: 1.0
   avg_copies: 3.33
 - name: Lava Dart
@@ -45,13 +45,13 @@ top_cards:
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.67
-- name: Sacred Foundry
-  weight: 1.0
-  avg_copies: 2.33
 - name: Wear
   weight: 1.0
   avg_copies: 2.33
 - name: Tormod's Crypt
+  weight: 1.0
+  avg_copies: 2.33
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 2.33
 - name: Deflecting Palm
@@ -72,28 +72,28 @@ top_cards:
 - name: Arid Mesa
   weight: 0.6667
   avg_copies: 3.0
-- name: Scalding Tarn
-  weight: 0.6667
-  avg_copies: 2.5
 - name: Obsidian Charmaw
   weight: 0.6667
   avg_copies: 2.5
-- name: Meltdown
+- name: Scalding Tarn
   weight: 0.6667
-  avg_copies: 1.0
+  avg_copies: 2.5
 - name: Ragavan, Nimble Pilferer
   weight: 0.6667
   avg_copies: 1.0
-- name: Pyroclasm
+- name: Meltdown
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Path to Exile
   weight: 0.3333
   avg_copies: 2.0
 - name: Boros Charm
   weight: 0.3333
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Pyroclasm
   weight: 0.3333
   avg_copies: 2.0
-- name: Path to Exile
+- name: Vexing Bauble
   weight: 0.3333
   avg_copies: 2.0
 ---

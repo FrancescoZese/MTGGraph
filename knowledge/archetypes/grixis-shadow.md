@@ -7,13 +7,13 @@ name: Grixis Shadow
 meta_share: 0.0014
 list_count: 4
 top_cards:
+- name: Thoughtseize
+  weight: 1.0
+  avg_copies: 4.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
-  weight: 1.0
-  avg_copies: 4.0
-- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
@@ -22,10 +22,10 @@ top_cards:
 - name: Death's Shadow
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
@@ -46,10 +46,10 @@ top_cards:
 - name: Unholy Heat
   weight: 1.0
   avg_copies: 2.25
-- name: Watery Grave
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 2.0
-- name: Blood Crypt
+- name: Watery Grave
   weight: 1.0
   avg_copies: 2.0
 - name: Vexing Bauble
@@ -67,10 +67,10 @@ top_cards:
 - name: Expressive Iteration
   weight: 0.75
   avg_copies: 3.33
-- name: Pyroclasm
+- name: Flusterstorm
   weight: 0.75
   avg_copies: 2.0
-- name: Flusterstorm
+- name: Pyroclasm
   weight: 0.75
   avg_copies: 2.0
 - name: Meltdown
@@ -91,31 +91,31 @@ top_cards:
 - name: Murktide Regent
   weight: 0.25
   avg_copies: 3.0
+- name: Abigale, Eloquent First-Year
+  weight: 0.25
+  avg_copies: 2.0
 - name: Damping Sphere
-  weight: 0.25
-  avg_copies: 2.0
-- name: End of the Hunt
-  weight: 0.25
-  avg_copies: 2.0
-- name: Fire Magic
-  weight: 0.25
-  avg_copies: 2.0
-- name: Counterspell
   weight: 0.25
   avg_copies: 2.0
 - name: Dress Down
   weight: 0.25
   avg_copies: 2.0
-- name: Abigale, Eloquent First-Year
+- name: Counterspell
+  weight: 0.25
+  avg_copies: 2.0
+- name: End of the Hunt
   weight: 0.25
   avg_copies: 2.0
 - name: Dauthi Voidwalker
   weight: 0.25
   avg_copies: 2.0
-- name: Force of Despair
+- name: Fire Magic
+  weight: 0.25
+  avg_copies: 2.0
+- name: Kaito, Bane of Nightmares
   weight: 0.25
   avg_copies: 1.0
-- name: Kaito, Bane of Nightmares
+- name: Force of Despair
   weight: 0.25
   avg_copies: 1.0
 - name: Undercity Sewers

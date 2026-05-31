@@ -5,13 +5,13 @@ colors:
 - B
 - G
 name: Samwise Combo
-meta_share: 0.011
-list_count: 32
+meta_share: 0.0115
+list_count: 34
 top_cards:
-- name: Cauldron Familiar
+- name: Birthing Ritual
   weight: 1.0
   avg_copies: 4.0
-- name: Birthing Ritual
+- name: Cauldron Familiar
   weight: 1.0
   avg_copies: 4.0
 - name: Gilded Goose
@@ -20,18 +20,18 @@ top_cards:
 - name: Samwise Gamgee
   weight: 1.0
   avg_copies: 3.94
-- name: Windswept Heath
-  weight: 1.0
-  avg_copies: 3.84
 - name: Chord of Calling
   weight: 1.0
-  avg_copies: 3.84
+  avg_copies: 3.85
+- name: Windswept Heath
+  weight: 1.0
+  avg_copies: 3.85
 - name: Verdant Catacombs
   weight: 1.0
-  avg_copies: 3.75
+  avg_copies: 3.76
 - name: Carrion Feeder
   weight: 1.0
-  avg_copies: 2.22
+  avg_copies: 2.21
 - name: Force of Vigor
   weight: 1.0
   avg_copies: 2.09
@@ -43,249 +43,249 @@ top_cards:
   avg_copies: 1.86
 - name: Viscera Seer
   weight: 1.0
-  avg_copies: 1.62
+  avg_copies: 1.59
 - name: Temple Garden
   weight: 1.0
-  avg_copies: 1.22
+  avg_copies: 1.21
 - name: Forest
   weight: 1.0
   avg_copies: 1.06
+- name: Lush Portico
+  weight: 1.0
+  avg_copies: 1.0
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
-- name: Lush Portico
-  weight: 1.0
+- name: Endurance
+  weight: 0.8824
+  avg_copies: 1.32
+- name: Underground Mortuary
+  weight: 0.8529
   avg_copies: 1.0
 - name: Young Wolf
-  weight: 0.875
+  weight: 0.8235
   avg_copies: 2.61
-- name: Endurance
-  weight: 0.875
-  avg_copies: 1.34
-- name: Haywire Mite
-  weight: 0.8438
-  avg_copies: 1.0
-- name: Underground Mortuary
-  weight: 0.8438
-  avg_copies: 1.0
 - name: Malevolent Rumble
-  weight: 0.8125
-  avg_copies: 2.58
+  weight: 0.8235
+  avg_copies: 2.54
 - name: Gaddock Teeg
-  weight: 0.8125
+  weight: 0.8235
+  avg_copies: 1.0
+- name: Haywire Mite
+  weight: 0.7941
   avg_copies: 1.0
 - name: Suncleanser
-  weight: 0.75
-  avg_copies: 1.25
+  weight: 0.7647
+  avg_copies: 1.23
 - name: Thoughtseize
-  weight: 0.7188
-  avg_copies: 2.39
-- name: Misty Rainforest
-  weight: 0.6875
-  avg_copies: 1.36
+  weight: 0.7353
+  avg_copies: 2.36
 - name: Orcish Bowmasters
-  weight: 0.6562
-  avg_copies: 2.09
-- name: Breeding Pool
-  weight: 0.6562
-  avg_copies: 1.0
+  weight: 0.6765
+  avg_copies: 2.0
+- name: Misty Rainforest
+  weight: 0.6471
+  avg_copies: 1.36
 - name: Crystal Barricade
-  weight: 0.6562
+  weight: 0.6176
   avg_copies: 1.0
-- name: Abhorrent Oculus
-  weight: 0.625
-  avg_copies: 1.5
+- name: Breeding Pool
+  weight: 0.6176
+  avg_copies: 1.0
 - name: Badgermole Cub
-  weight: 0.5625
-  avg_copies: 2.72
+  weight: 0.5882
+  avg_copies: 2.85
+- name: Abhorrent Oculus
+  weight: 0.5882
+  avg_copies: 1.5
 - name: Vexing Bauble
-  weight: 0.5312
+  weight: 0.5
   avg_copies: 2.06
 - name: Yawgmoth, Thran Physician
-  weight: 0.5312
+  weight: 0.5
   avg_copies: 1.12
 - name: Sylvan Safekeeper
-  weight: 0.5312
+  weight: 0.5
   avg_copies: 1.0
 - name: Fatal Push
-  weight: 0.4375
+  weight: 0.4118
   avg_copies: 2.29
 - name: Nurturing Peatland
-  weight: 0.4375
+  weight: 0.4118
   avg_copies: 1.0
 - name: Wooded Foothills
-  weight: 0.3438
-  avg_copies: 1.27
-- name: Grist, the Hunger Tide
-  weight: 0.3438
-  avg_copies: 1.05
+  weight: 0.3824
+  avg_copies: 1.38
 - name: Collector Ouphe
-  weight: 0.3438
+  weight: 0.3824
   avg_copies: 1.0
+- name: Grist, the Hunger Tide
+  weight: 0.3235
+  avg_copies: 1.05
 - name: Witherbloom Charm
-  weight: 0.3125
+  weight: 0.2941
   avg_copies: 1.75
+- name: Drannith Magistrate
+  weight: 0.2941
+  avg_copies: 1.09
 - name: Lavinia, Azorius Renegade
-  weight: 0.3125
+  weight: 0.2941
   avg_copies: 1.0
 - name: High Noon
-  weight: 0.2812
+  weight: 0.2647
   avg_copies: 1.78
 - name: Ruthless Lawbringer
-  weight: 0.2812
+  weight: 0.2647
   avg_copies: 1.0
 - name: Scout for Survivors
-  weight: 0.25
+  weight: 0.2353
   avg_copies: 1.5
-- name: Drannith Magistrate
-  weight: 0.25
-  avg_copies: 1.11
 - name: Dauthi Voidwalker
-  weight: 0.25
+  weight: 0.2353
   avg_copies: 1.0
 - name: Soulless Jailer
-  weight: 0.2188
+  weight: 0.2059
   avg_copies: 1.0
 - name: Wall of Roots
-  weight: 0.1875
+  weight: 0.1765
   avg_copies: 2.0
 - name: Marionette Apprentice
-  weight: 0.1875
+  weight: 0.1765
   avg_copies: 1.67
 - name: Surgical Extraction
-  weight: 0.1875
-  avg_copies: 1.0
-- name: Abrupt Decay
-  weight: 0.1562
-  avg_copies: 1.67
-- name: Eidolon of Rhetoric
-  weight: 0.1562
-  avg_copies: 1.0
-- name: Swamp
-  weight: 0.1562
-  avg_copies: 1.0
-- name: Culling Ritual
-  weight: 0.125
-  avg_copies: 2.0
-- name: Erode
-  weight: 0.125
-  avg_copies: 1.75
-- name: Mana Confluence
-  weight: 0.125
-  avg_copies: 1.25
-- name: Dawnbringer Cleric
-  weight: 0.125
+  weight: 0.1765
   avg_copies: 1.0
 - name: Sephiroth, Fabled SOLDIER
-  weight: 0.125
+  weight: 0.1765
   avg_copies: 1.0
 - name: Eyetwitch
-  weight: 0.0938
+  weight: 0.1471
   avg_copies: 4.0
-- name: City of Brass
-  weight: 0.0938
+- name: Abrupt Decay
+  weight: 0.1471
   avg_copies: 1.67
-- name: Voice of Victory
-  weight: 0.0938
-  avg_copies: 1.25
-- name: Phyrexian Tower
-  weight: 0.0938
-  avg_copies: 1.0
-- name: Professor of Symbology
-  weight: 0.0938
-  avg_copies: 1.0
 - name: Ruinous Waterbending
-  weight: 0.0938
-  avg_copies: 1.0
-- name: Origin of Metalbending
-  weight: 0.0938
-  avg_copies: 1.0
-- name: True Ancestry
-  weight: 0.0938
-  avg_copies: 1.0
-- name: Boggart Trawler
-  weight: 0.0938
-  avg_copies: 1.0
-- name: Chthonian Nightmare
-  weight: 0.0938
+  weight: 0.1471
   avg_copies: 1.0
 - name: Decorum Dissertation
-  weight: 0.0938
+  weight: 0.1471
   avg_copies: 1.0
-- name: Assassin's Trophy
-  weight: 0.0625
+- name: Boggart Trawler
+  weight: 0.1471
+  avg_copies: 1.0
+- name: Swamp
+  weight: 0.1471
+  avg_copies: 1.0
+- name: Professor of Symbology
+  weight: 0.1471
+  avg_copies: 1.0
+- name: Eidolon of Rhetoric
+  weight: 0.1471
+  avg_copies: 1.0
+- name: Origin of Metalbending
+  weight: 0.1471
+  avg_copies: 1.0
+- name: True Ancestry
+  weight: 0.1471
+  avg_copies: 1.0
+- name: Phyrexian Tower
+  weight: 0.1471
+  avg_copies: 1.0
+- name: Culling Ritual
+  weight: 0.1176
   avg_copies: 2.0
-- name: Moseo, Vein's New Dean
-  weight: 0.0625
-  avg_copies: 1.5
-- name: Path to Exile
-  weight: 0.0625
-  avg_copies: 1.5
-- name: Seam Rip
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Mistcaller
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Reduce to Memory
-  weight: 0.0625
+- name: Erode
+  weight: 0.1176
+  avg_copies: 1.75
+- name: Mana Confluence
+  weight: 0.1176
+  avg_copies: 1.25
+- name: Dawnbringer Cleric
+  weight: 0.1176
   avg_copies: 1.0
 - name: Dai Li Indoctrination
-  weight: 0.0625
+  weight: 0.1176
+  avg_copies: 1.0
+- name: Reduce to Memory
+  weight: 0.1176
+  avg_copies: 1.0
+- name: City of Brass
+  weight: 0.0882
+  avg_copies: 1.67
+- name: Voice of Victory
+  weight: 0.0882
+  avg_copies: 1.25
+- name: Umbral Collar Zealot
+  weight: 0.0882
+  avg_copies: 1.0
+- name: Chthonian Nightmare
+  weight: 0.0882
+  avg_copies: 1.0
+- name: Assassin's Trophy
+  weight: 0.0588
+  avg_copies: 2.0
+- name: Path to Exile
+  weight: 0.0588
+  avg_copies: 1.5
+- name: Moseo, Vein's New Dean
+  weight: 0.0588
+  avg_copies: 1.5
+- name: Seam Rip
+  weight: 0.0588
   avg_copies: 1.0
 - name: Pile On
-  weight: 0.0625
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Mistcaller
+  weight: 0.0588
   avg_copies: 1.0
 - name: Delighted Halfling
-  weight: 0.0312
+  weight: 0.0294
   avg_copies: 3.0
+- name: Green Sun's Zenith
+  weight: 0.0294
+  avg_copies: 2.0
 - name: Dewdrop Cure
-  weight: 0.0312
+  weight: 0.0294
   avg_copies: 2.0
 - name: Professor Dellian Fel
-  weight: 0.0312
-  avg_copies: 2.0
-- name: Green Sun's Zenith
-  weight: 0.0312
+  weight: 0.0294
   avg_copies: 2.0
 - name: Haliya, Guided by Light
-  weight: 0.0312
+  weight: 0.0294
   avg_copies: 2.0
-- name: Heroic Intervention
-  weight: 0.0312
-  avg_copies: 1.0
-- name: Vraska, Golgari Queen
-  weight: 0.0312
-  avg_copies: 1.0
-- name: Icetill Explorer
-  weight: 0.0312
-  avg_copies: 1.0
-- name: Formidable Speaker
-  weight: 0.0312
-  avg_copies: 1.0
-- name: Veil of Summer
-  weight: 0.0312
-  avg_copies: 1.0
-- name: Damping Sphere
-  weight: 0.0312
+- name: Enter the Avatar State
+  weight: 0.0294
   avg_copies: 1.0
 - name: Renegade Rallier
-  weight: 0.0312
+  weight: 0.0294
   avg_copies: 1.0
-- name: Umbral Collar Zealot
-  weight: 0.0312
+- name: Formidable Speaker
+  weight: 0.0294
   avg_copies: 1.0
-- name: Enter the Avatar State
-  weight: 0.0312
+- name: Heroic Intervention
+  weight: 0.0294
   avg_copies: 1.0
-- name: Deafening Silence
-  weight: 0.0312
+- name: Veil of Summer
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Icetill Explorer
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Damping Sphere
+  weight: 0.0294
   avg_copies: 1.0
 - name: Boromir, Warden of the Tower
-  weight: 0.0312
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Deafening Silence
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Vraska, Golgari Queen
+  weight: 0.0294
   avg_copies: 1.0
 ---
 Creature combo deck using Samwise Gamgee, Birthing Ritual, and Cauldron Familiar with Chord of Calling to assemble value loops.

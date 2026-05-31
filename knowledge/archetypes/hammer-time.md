@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: Hammer Time
-meta_share: 0.0021
+meta_share: 0.002
 list_count: 6
 top_cards:
 - name: Stoneforge Mystic
@@ -24,10 +24,10 @@ top_cards:
 - name: Ornithopter
   weight: 1.0
   avg_copies: 3.5
-- name: Metallic Rebuke
+- name: Puresteel Paladin
   weight: 1.0
   avg_copies: 3.5
-- name: Puresteel Paladin
+- name: Metallic Rebuke
   weight: 1.0
   avg_copies: 3.5
 - name: Mox Opal
@@ -90,10 +90,10 @@ top_cards:
 - name: Portable Hole
   weight: 0.3333
   avg_copies: 2.5
-- name: Damping Sphere
+- name: Teferi, Time Raveler
   weight: 0.3333
   avg_copies: 2.0
-- name: Teferi, Time Raveler
+- name: Damping Sphere
   weight: 0.3333
   avg_copies: 2.0
 - name: Suncleanser
@@ -114,16 +114,16 @@ top_cards:
 - name: Pithing Needle
   weight: 0.3333
   avg_copies: 1.0
-- name: Grafdigger's Cage
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Stern Scolding
   weight: 0.3333
   avg_copies: 1.0
-- name: Flare of Fortitude
+- name: Grafdigger's Cage
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Memnite
   weight: 0.1667
   avg_copies: 4.0
-- name: Memnite
+- name: Flare of Fortitude
   weight: 0.1667
   avg_copies: 4.0
 - name: Mishra's Bauble

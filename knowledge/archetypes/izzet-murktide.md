@@ -7,13 +7,22 @@ name: Izzet Murktide
 meta_share: 0.0003
 list_count: 1
 top_cards:
-- name: Tamiyo, Inquisitive Student
+- name: Ragavan, Nimble Pilferer
+  weight: 1.0
+  avg_copies: 4.0
+- name: Thought Scour
+  weight: 1.0
+  avg_copies: 4.0
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Detective's Phoenix
+  weight: 1.0
+  avg_copies: 4.0
+- name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
@@ -31,22 +40,13 @@ top_cards:
 - name: Unholy Heat
   weight: 1.0
   avg_copies: 4.0
-- name: Thought Scour
+- name: Brotherhood's End
   weight: 1.0
-  avg_copies: 4.0
-- name: Ragavan, Nimble Pilferer
+  avg_copies: 2.0
+- name: Riverpyre Verge
   weight: 1.0
-  avg_copies: 4.0
-- name: Faithless Looting
-  weight: 1.0
-  avg_copies: 4.0
+  avg_copies: 2.0
 - name: Blood Moon
-  weight: 1.0
-  avg_copies: 2.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 2.0
-- name: Engineered Explosives
   weight: 1.0
   avg_copies: 2.0
 - name: Island
@@ -55,52 +55,52 @@ top_cards:
 - name: Surgical Extraction
   weight: 1.0
   avg_copies: 2.0
-- name: Thundering Falls
-  weight: 1.0
-  avg_copies: 2.0
-- name: Riverpyre Verge
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
 - name: Spell Snare
   weight: 1.0
   avg_copies: 2.0
-- name: Brotherhood's End
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Engineered Explosives
   weight: 1.0
   avg_copies: 2.0
-- name: Polluted Delta
+- name: Steam Vents
   weight: 1.0
-  avg_copies: 1.0
-- name: Subtlety
-  weight: 1.0
-  avg_copies: 1.0
-- name: Spell Pierce
+  avg_copies: 2.0
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 1.0
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 1.0
-- name: Counterspell
-  weight: 1.0
-  avg_copies: 1.0
-- name: Sink into Stupor
-  weight: 1.0
-  avg_copies: 1.0
-- name: Misty Rainforest
-  weight: 1.0
-  avg_copies: 1.0
-- name: Mountain
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
-- name: Rough
+- name: Misty Rainforest
+  weight: 1.0
+  avg_copies: 1.0
+- name: Counterspell
+  weight: 1.0
+  avg_copies: 1.0
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
 - name: Force of Negation
+  weight: 1.0
+  avg_copies: 1.0
+- name: Rough
+  weight: 1.0
+  avg_copies: 1.0
+- name: Spell Pierce
+  weight: 1.0
+  avg_copies: 1.0
+- name: Subtlety
   weight: 1.0
   avg_copies: 1.0
 ---

@@ -36,10 +36,10 @@ top_cards:
 - name: Arid Mesa
   weight: 0.9
   avg_copies: 3.67
-- name: Wooded Foothills
+- name: Scalding Tarn
   weight: 0.9
   avg_copies: 2.67
-- name: Scalding Tarn
+- name: Wooded Foothills
   weight: 0.9
   avg_copies: 2.67
 - name: Brotherhood's End
@@ -78,13 +78,13 @@ top_cards:
 - name: Xander's Lounge
   weight: 0.7
   avg_copies: 1.0
-- name: Jetmir's Garden
+- name: Sacred Foundry
   weight: 0.7
   avg_copies: 1.0
 - name: Elegant Parlor
   weight: 0.7
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Jetmir's Garden
   weight: 0.7
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -96,10 +96,10 @@ top_cards:
 - name: Raph & Mikey, Troublemakers
   weight: 0.6
   avg_copies: 1.0
-- name: Plains
+- name: Thundering Falls
   weight: 0.6
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Plains
   weight: 0.6
   avg_copies: 1.0
 - name: Galvanic Discharge
@@ -108,25 +108,25 @@ top_cards:
 - name: High Noon
   weight: 0.4
   avg_copies: 2.75
-- name: Raucous Theater
+- name: Boseiju, Who Endures
   weight: 0.4
   avg_copies: 1.0
 - name: Elesh Norn, Grand Cenobite
   weight: 0.4
   avg_copies: 1.0
-- name: Iona, Shield of Emeria
+- name: Raucous Theater
   weight: 0.4
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Iona, Shield of Emeria
   weight: 0.4
   avg_copies: 1.0
 - name: Thoughtseize
   weight: 0.3
   avg_copies: 4.0
-- name: Persist
+- name: Faithless Looting
   weight: 0.3
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Persist
   weight: 0.3
   avg_copies: 4.0
 - name: Fatal Push
@@ -153,25 +153,25 @@ top_cards:
 - name: Terastodon
   weight: 0.2
   avg_copies: 3.0
-- name: Spell Pierce
-  weight: 0.2
-  avg_copies: 1.5
 - name: Meltdown
   weight: 0.2
   avg_copies: 1.5
+- name: Spell Pierce
+  weight: 0.2
+  avg_copies: 1.5
+- name: Valakut Awakening
+  weight: 0.2
+  avg_copies: 1.0
 - name: Emrakul, the Aeons Torn
+  weight: 0.2
+  avg_copies: 1.0
+- name: Prismari Command
   weight: 0.2
   avg_copies: 1.0
 - name: Ketria Triome
   weight: 0.2
   avg_copies: 1.0
 - name: Abrupt Decay
-  weight: 0.2
-  avg_copies: 1.0
-- name: Valakut Awakening
-  weight: 0.2
-  avg_copies: 1.0
-- name: Prismari Command
   weight: 0.2
   avg_copies: 1.0
 - name: Nature's Claim
@@ -186,31 +186,31 @@ top_cards:
 - name: Inquisition of Kozilek
   weight: 0.1
   avg_copies: 1.5
-- name: Witherbloom Command
+- name: Vampires' Vengeance
   weight: 0.1
   avg_copies: 1.0
 - name: Molten Collapse
   weight: 0.1
   avg_copies: 1.0
-- name: Vampires' Vengeance
+- name: Elesh Norn, Mother of Machines
   weight: 0.1
   avg_copies: 1.0
-- name: Turn the Earth
+- name: Witherbloom Command
   weight: 0.1
   avg_copies: 1.0
 - name: Brainsurge
   weight: 0.1
   avg_copies: 1.0
+- name: Swamp
+  weight: 0.1
+  avg_copies: 1.0
 - name: Rest in Peace
   weight: 0.1
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
+- name: Turn the Earth
   weight: 0.1
   avg_copies: 1.0
 - name: Commercial District
-  weight: 0.1
-  avg_copies: 1.0
-- name: Swamp
   weight: 0.1
   avg_copies: 1.0
 ---

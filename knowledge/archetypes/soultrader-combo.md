@@ -6,28 +6,28 @@ name: Soultrader Combo
 meta_share: 0.0014
 list_count: 4
 top_cards:
-- name: Gravecrawler
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
-- name: Orcish Bowmasters
+- name: Gravecrawler
   weight: 1.0
   avg_copies: 4.0
 - name: Warren Soultrader
   weight: 1.0
   avg_copies: 4.0
-- name: Marionette Apprentice
+- name: Flare of Malice
   weight: 1.0
   avg_copies: 3.75
-- name: Flare of Malice
+- name: Marionette Apprentice
   weight: 1.0
   avg_copies: 3.75
 - name: Spymaster's Vault
   weight: 1.0
   avg_copies: 2.5
-- name: Fatal Push
+- name: Swamp
   weight: 1.0
   avg_copies: 2.5
-- name: Swamp
+- name: Fatal Push
   weight: 1.0
   avg_copies: 2.5
 - name: Bloodstained Mire
@@ -54,19 +54,19 @@ top_cards:
 - name: Birthing Ritual
   weight: 0.75
   avg_copies: 3.67
-- name: Verdant Catacombs
+- name: Marsh Flats
   weight: 0.75
   avg_copies: 2.67
 - name: Fulminator Mage
   weight: 0.75
   avg_copies: 2.67
-- name: Marsh Flats
+- name: Verdant Catacombs
   weight: 0.75
   avg_copies: 2.67
-- name: Polluted Delta
+- name: Thoughtseize
   weight: 0.75
   avg_copies: 2.33
-- name: Thoughtseize
+- name: Polluted Delta
   weight: 0.75
   avg_copies: 2.33
 - name: Culling Ritual
@@ -75,22 +75,22 @@ top_cards:
 - name: Reclamation Sage
   weight: 0.75
   avg_copies: 1.33
-- name: Collector Ouphe
+- name: Arnyn, Deathbloom Botanist
   weight: 0.5
   avg_copies: 2.0
 - name: Soulless Jailer
   weight: 0.5
   avg_copies: 2.0
-- name: Arnyn, Deathbloom Botanist
+- name: Collector Ouphe
   weight: 0.5
   avg_copies: 2.0
 - name: Haywire Mite
   weight: 0.5
   avg_copies: 1.0
-- name: Abrupt Decay
+- name: Chthonian Nightmare
   weight: 0.5
   avg_copies: 1.0
-- name: Chthonian Nightmare
+- name: Abrupt Decay
   weight: 0.5
   avg_copies: 1.0
 - name: Malevolent Rumble
@@ -99,28 +99,40 @@ top_cards:
 - name: Shambling Ghast
   weight: 0.25
   avg_copies: 4.0
-- name: Wight of the Reliquary
+- name: Phoenix Fleet Airship
   weight: 0.25
   avg_copies: 3.0
 - name: Graveyard Trespasser
   weight: 0.25
   avg_copies: 3.0
-- name: Phoenix Fleet Airship
+- name: Wight of the Reliquary
   weight: 0.25
   avg_copies: 3.0
-- name: Bloodghast
-  weight: 0.25
-  avg_copies: 2.0
 - name: Abhorrent Oculus
   weight: 0.25
   avg_copies: 2.0
 - name: Dauthi Voidwalker
   weight: 0.25
   avg_copies: 2.0
+- name: Bloodghast
+  weight: 0.25
+  avg_copies: 2.0
 - name: Vexing Bauble
   weight: 0.25
   avg_copies: 2.0
-- name: Ashiok, Dream Render
+- name: Urborg, Tomb of Yawgmoth
+  weight: 0.25
+  avg_copies: 1.0
+- name: Mai, Scornful Striker
+  weight: 0.25
+  avg_copies: 1.0
+- name: Shatter Assumptions
+  weight: 0.25
+  avg_copies: 1.0
+- name: Nurturing Peatland
+  weight: 0.25
+  avg_copies: 1.0
+- name: Nihil Spellbomb
   weight: 0.25
   avg_copies: 1.0
 - name: Watery Grave
@@ -129,31 +141,19 @@ top_cards:
 - name: Break the Ice
   weight: 0.25
   avg_copies: 1.0
-- name: Overlord of the Balemurk
-  weight: 0.25
-  avg_copies: 1.0
 - name: Grist, the Hunger Tide
   weight: 0.25
   avg_copies: 1.0
-- name: Cling to Dust
+- name: Ashiok, Dream Render
   weight: 0.25
   avg_copies: 1.0
-- name: Shatter Assumptions
+- name: Overlord of the Balemurk
   weight: 0.25
   avg_copies: 1.0
 - name: Sephiroth, Fabled SOLDIER
   weight: 0.25
   avg_copies: 1.0
-- name: Mai, Scornful Striker
-  weight: 0.25
-  avg_copies: 1.0
-- name: Urborg, Tomb of Yawgmoth
-  weight: 0.25
-  avg_copies: 1.0
-- name: Nurturing Peatland
-  weight: 0.25
-  avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Cling to Dust
   weight: 0.25
   avg_copies: 1.0
 ---

@@ -8,10 +8,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 5.86
-- name: Lord of Atlantis
+- name: Master of the Pearl Trident
   weight: 1.0
   avg_copies: 4.0
-- name: Master of the Pearl Trident
+- name: Lord of Atlantis
   weight: 1.0
   avg_copies: 4.0
 - name: Tide Shaper
@@ -35,10 +35,10 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 3.14
-- name: Cavern of Souls
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.14
-- name: Consign to Memory
+- name: Cavern of Souls
   weight: 1.0
   avg_copies: 3.14
 - name: Flare of Denial
@@ -92,19 +92,19 @@ top_cards:
 - name: Mistcaller
   weight: 0.1429
   avg_copies: 3.0
-- name: Spell Pierce
+- name: Hurkyl's Recall
   weight: 0.1429
   avg_copies: 2.0
-- name: Hurkyl's Recall
+- name: Spell Pierce
   weight: 0.1429
   avg_copies: 2.0
 - name: Glasspool Mimic
   weight: 0.1429
   avg_copies: 2.0
-- name: Oboro, Palace in the Clouds
+- name: Gloomlake Verge
   weight: 0.1429
   avg_copies: 1.0
-- name: Gloomlake Verge
+- name: Oboro, Palace in the Clouds
   weight: 0.1429
   avg_copies: 1.0
 ---

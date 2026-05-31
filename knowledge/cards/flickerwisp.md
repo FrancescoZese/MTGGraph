@@ -13,7 +13,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.74
   esper-blink:
-    weight: 0.9412
+    weight: 0.9429
     avg_copies: 2.12
   orzhov-blink:
     weight: 1.0

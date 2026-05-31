@@ -3,7 +3,7 @@ colors:
 - U
 - R
 name: Affinity
-meta_share: 0.0986
+meta_share: 0.0974
 list_count: 288
 top_cards:
 - name: Kappa Cannoneer
@@ -174,16 +174,16 @@ top_cards:
 - name: Haywire Mite
   weight: 0.0139
   avg_copies: 1.14
-- name: Salvage Titan
-  weight: 0.0104
-  avg_copies: 1.0
-- name: Thought Monitor
-  weight: 0.0104
-  avg_copies: 1.0
 - name: Mountain
   weight: 0.0104
   avg_copies: 1.0
+- name: Salvage Titan
+  weight: 0.0104
+  avg_copies: 1.0
 - name: Springleaf Drum
+  weight: 0.0104
+  avg_copies: 1.0
+- name: Thought Monitor
   weight: 0.0104
   avg_copies: 1.0
 - name: Wear
@@ -198,55 +198,34 @@ top_cards:
 - name: Ornithopter
   weight: 0.0069
   avg_copies: 1.0
-- name: Echoing Deeps
+- name: Spell Snare
   weight: 0.0069
   avg_copies: 1.0
-- name: Spell Snare
+- name: Echoing Deeps
   weight: 0.0069
   avg_copies: 1.0
 - name: Dispatch
   weight: 0.0035
   avg_copies: 2.0
-- name: Detect Intrusion
-  weight: 0.0035
-  avg_copies: 2.0
 - name: Glimmervoid
-  weight: 0.0035
-  avg_copies: 2.0
-- name: Portable Hole
   weight: 0.0035
   avg_copies: 2.0
 - name: Patchwork Automaton
   weight: 0.0035
   avg_copies: 2.0
-- name: Prismari Charm
+- name: Portable Hole
   weight: 0.0035
   avg_copies: 2.0
 - name: Experimental Synthesizer
   weight: 0.0035
   avg_copies: 2.0
-- name: Breeding Pool
+- name: Detect Intrusion
   weight: 0.0035
-  avg_copies: 1.0
-- name: Waterlogged Grove
+  avg_copies: 2.0
+- name: Prismari Charm
   weight: 0.0035
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Hallowed Fountain
-  weight: 0.0035
-  avg_copies: 1.0
-- name: Void Mirror
-  weight: 0.0035
-  avg_copies: 1.0
-- name: Lithomantic Barrage
-  weight: 0.0035
-  avg_copies: 1.0
-- name: Cranial Plating
-  weight: 0.0035
-  avg_copies: 1.0
-- name: Jokulmorder
-  weight: 0.0035
-  avg_copies: 1.0
-- name: Spell Pierce
   weight: 0.0035
   avg_copies: 1.0
 - name: Chandra, Spark Hunter
@@ -255,7 +234,28 @@ top_cards:
 - name: Ghirapur Aether Grid
   weight: 0.0035
   avg_copies: 1.0
+- name: Spell Pierce
+  weight: 0.0035
+  avg_copies: 1.0
+- name: Cranial Plating
+  weight: 0.0035
+  avg_copies: 1.0
+- name: Jokulmorder
+  weight: 0.0035
+  avg_copies: 1.0
+- name: Void Mirror
+  weight: 0.0035
+  avg_copies: 1.0
 - name: Minamo, School at Water's Edge
+  weight: 0.0035
+  avg_copies: 1.0
+- name: Waterlogged Grove
+  weight: 0.0035
+  avg_copies: 1.0
+- name: Breeding Pool
+  weight: 0.0035
+  avg_copies: 1.0
+- name: Lithomantic Barrage
   weight: 0.0035
   avg_copies: 1.0
 ---

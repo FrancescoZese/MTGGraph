@@ -6,7 +6,7 @@ name: Glimmervoid
 scryfall_id: 4a639687-d9e3-46a8-bc9f-6ca3912c46ab
 set: 2xm
 type: Land
-meta_presence: 0.001
+meta_presence: 0.0014
 archetypes:
   affinity:
     weight: 0.0035
@@ -14,4 +14,7 @@ archetypes:
   goryo7:
     weight: 1.0
     avg_copies: 2.0
+  unknown-41:
+    weight: 0.3333
+    avg_copies: 1.0
 ---

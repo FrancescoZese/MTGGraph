@@ -3,16 +3,16 @@ colors:
 - B
 - R
 name: Hollow One
-meta_share: 0.0096
+meta_share: 0.0095
 list_count: 28
 top_cards:
-- name: Hollow One
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
 - name: Detective's Phoenix
@@ -123,10 +123,10 @@ top_cards:
 - name: Liliana of the Veil
   weight: 0.1429
   avg_copies: 1.0
-- name: Vengevine
+- name: Blazing Rootwalla
   weight: 0.1071
   avg_copies: 4.0
-- name: Blazing Rootwalla
+- name: Vengevine
   weight: 0.1071
   avg_copies: 4.0
 - name: Leyline of the Void
@@ -159,10 +159,10 @@ top_cards:
 - name: Violent Urge
   weight: 0.0714
   avg_copies: 1.0
-- name: Seal of Fire
+- name: Soul-Guide Lantern
   weight: 0.0714
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Seal of Fire
   weight: 0.0714
   avg_copies: 1.0
 - name: Commercial District
@@ -174,34 +174,34 @@ top_cards:
 - name: Cam and Farrik, Havoc Duo
   weight: 0.0357
   avg_copies: 2.0
-- name: Pyroclasm
-  weight: 0.0357
-  avg_copies: 2.0
-- name: Magebane Lizard
-  weight: 0.0357
-  avg_copies: 2.0
-- name: Rough
+- name: Flameblade Adept
   weight: 0.0357
   avg_copies: 2.0
 - name: Ancient Grudge
   weight: 0.0357
   avg_copies: 2.0
-- name: Inti, Seneschal of the Sun
-  weight: 0.0357
-  avg_copies: 2.0
 - name: Magus of the Moon
   weight: 0.0357
   avg_copies: 2.0
-- name: Flameblade Adept
+- name: Inti, Seneschal of the Sun
   weight: 0.0357
   avg_copies: 2.0
-- name: Barbarian Ring
+- name: Magebane Lizard
   weight: 0.0357
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: Pyroclasm
+  weight: 0.0357
+  avg_copies: 2.0
+- name: Rough
+  weight: 0.0357
+  avg_copies: 2.0
 - name: Shattering Spree
   weight: 0.0357
   avg_copies: 1.0
 - name: Overlord of the Balemurk
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Barbarian Ring
   weight: 0.0357
   avg_copies: 1.0
 ---

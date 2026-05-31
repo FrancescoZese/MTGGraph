@@ -16,6 +16,6 @@ archetypes:
     weight: 0.8889
     avg_copies: 2.38
   goryo1:
-    weight: 0.0652
+    weight: 0.0566
     avg_copies: 1.0
 ---

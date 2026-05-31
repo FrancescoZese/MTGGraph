@@ -6,16 +6,16 @@ name: Orzhov Blink
 meta_share: 0.0024
 list_count: 7
 top_cards:
-- name: Overlord of the Balemurk
-  weight: 1.0
-  avg_copies: 4.0
-- name: Solitude
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Solitude
+  weight: 1.0
+  avg_copies: 4.0
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
 - name: Witch Enchanter
@@ -36,10 +36,10 @@ top_cards:
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.5
-- name: Plains
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 2.14
-- name: Shadowy Backstreet
+- name: Plains
   weight: 1.0
   avg_copies: 2.14
 - name: Godless Shrine
@@ -78,10 +78,10 @@ top_cards:
 - name: Relic of Progenitus
   weight: 0.5714
   avg_copies: 2.8
-- name: Damping Sphere
+- name: Flooded Strand
   weight: 0.5714
   avg_copies: 2.25
-- name: Flooded Strand
+- name: Damping Sphere
   weight: 0.5714
   avg_copies: 2.25
 - name: Dawnbringer Cleric
@@ -96,10 +96,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.4286
   avg_copies: 1.33
-- name: Grafdigger's Cage
+- name: Surgical Extraction
   weight: 0.4286
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Grafdigger's Cage
   weight: 0.4286
   avg_copies: 1.0
 - name: White Orchid Phantom
@@ -111,10 +111,10 @@ top_cards:
 - name: Polluted Delta
   weight: 0.2857
   avg_copies: 1.5
-- name: March of Otherworldly Light
+- name: Sacred Foundry
   weight: 0.2857
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: March of Otherworldly Light
   weight: 0.2857
   avg_copies: 1.0
 - name: Orim's Chant
@@ -123,16 +123,16 @@ top_cards:
 - name: Force of Despair
   weight: 0.1429
   avg_copies: 3.0
+- name: Windswept Heath
+  weight: 0.1429
+  avg_copies: 2.0
 - name: Duress
   weight: 0.1429
   avg_copies: 2.0
 - name: End of the Hunt
   weight: 0.1429
   avg_copies: 2.0
-- name: Windswept Heath
-  weight: 0.1429
-  avg_copies: 2.0
-- name: Vindicate
+- name: Erode
   weight: 0.1429
   avg_copies: 1.0
 - name: Emptiness
@@ -141,19 +141,19 @@ top_cards:
 - name: Eiganjo, Seat of the Empire
   weight: 0.1429
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Elesh Norn, Mother of Machines
   weight: 0.1429
   avg_copies: 1.0
 - name: Monumental Henge
   weight: 0.1429
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Erode
+- name: Vindicate
   weight: 0.1429
   avg_copies: 1.0
 - name: Drannith Magistrate
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Raucous Theater
   weight: 0.1429
   avg_copies: 1.0
 ---

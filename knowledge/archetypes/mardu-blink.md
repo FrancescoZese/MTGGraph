@@ -4,13 +4,13 @@ colors:
 - B
 - R
 name: Mardu Blink
-meta_share: 0.0079
+meta_share: 0.0078
 list_count: 23
 top_cards:
-- name: Overlord of the Balemurk
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
 - name: Phelia, Exuberant Shepherd
@@ -19,10 +19,10 @@ top_cards:
 - name: Phlage, Titan of Fire's Fury
   weight: 1.0
   avg_copies: 3.09
-- name: Arid Mesa
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 2.7
-- name: Marsh Flats
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 2.7
 - name: Witch Enchanter
@@ -43,13 +43,13 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.04
-- name: Raucous Theater
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
 - name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
 - name: Wear
@@ -133,22 +133,22 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.1739
   avg_copies: 2.0
+- name: Swamp
+  weight: 0.1739
+  avg_copies: 1.0
 - name: Snow-Covered Swamp
   weight: 0.1739
   avg_copies: 1.0
 - name: Containment Priest
   weight: 0.1739
   avg_copies: 1.0
-- name: Swamp
-  weight: 0.1739
-  avg_copies: 1.0
 - name: Clarion Conqueror
   weight: 0.1304
   avg_copies: 2.0
-- name: March of Otherworldly Light
+- name: Nihil Spellbomb
   weight: 0.1304
   avg_copies: 1.67
-- name: Nihil Spellbomb
+- name: March of Otherworldly Light
   weight: 0.1304
   avg_copies: 1.67
 - name: Ashiok, Dream Render
@@ -160,16 +160,16 @@ top_cards:
 - name: Unholy Heat
   weight: 0.0435
   avg_copies: 3.0
-- name: Graveyard Trespasser
-  weight: 0.0435
-  avg_copies: 2.0
-- name: The Legend of Roku
-  weight: 0.0435
-  avg_copies: 2.0
 - name: Seasoned Pyromancer
   weight: 0.0435
   avg_copies: 2.0
 - name: Magus of the Moon
+  weight: 0.0435
+  avg_copies: 2.0
+- name: Graveyard Trespasser
+  weight: 0.0435
+  avg_copies: 2.0
+- name: The Legend of Roku
   weight: 0.0435
   avg_copies: 2.0
 - name: Emptiness

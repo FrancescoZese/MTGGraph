@@ -7,7 +7,7 @@ name: Consign to Memory
 scryfall_id: bc95af55-d1dd-4fe6-adb0-3ad6db20d986
 set: mh3
 type: Instant
-meta_presence: 0.4589
+meta_presence: 0.4594
 archetypes:
   ruby-storm:
     weight: 0.0106
@@ -20,7 +20,7 @@ archetypes:
     avg_copies: 3.48
   mono-blue-belcher:
     weight: 1.0
-    avg_copies: 3.11
+    avg_copies: 3.07
   jeskai-energy:
     weight: 0.9845
     avg_copies: 3.79
@@ -32,7 +32,7 @@ archetypes:
     avg_copies: 3.5
   azorius-control:
     weight: 1.0
-    avg_copies: 3.78
+    avg_copies: 3.79
   jeskai-control:
     weight: 1.0
     avg_copies: 3.53
@@ -61,20 +61,20 @@ archetypes:
     weight: 0.8
     avg_copies: 2.75
   eldrazi-ramp:
-    weight: 0.0746
+    weight: 0.0735
     avg_copies: 2.6
   simic-ritual:
     weight: 0.8065
     avg_copies: 2.96
   izzet-prowess:
-    weight: 0.9714
-    avg_copies: 3.26
+    weight: 0.9718
+    avg_copies: 3.28
   4c-omnath:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.9412
-    avg_copies: 2.5
+    weight: 0.9429
+    avg_copies: 2.49
   indomitable-creativity:
     weight: 0.7
     avg_copies: 3.71
@@ -85,8 +85,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   azorius-blink:
-    weight: 0.9643
-    avg_copies: 2.08
+    weight: 0.9655
+    avg_copies: 2.1
   izzet-artifacts:
     weight: 0.9333
     avg_copies: 2.71
@@ -109,8 +109,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   goryo1:
-    weight: 0.9783
-    avg_copies: 2.98
+    weight: 0.9811
+    avg_copies: 2.96
   goryo7:
     weight: 1.0
     avg_copies: 2.0
@@ -139,7 +139,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-5:
-    weight: 0.5
+    weight: 0.6667
     avg_copies: 4.0
   unknown-6:
     weight: 1.0
@@ -189,6 +189,9 @@ archetypes:
   unknown-39:
     weight: 1.0
     avg_copies: 3.0
+  unknown-41:
+    weight: 0.3333
+    avg_copies: 3.0
   unknown-42:
     weight: 1.0
     avg_copies: 3.14
@@ -196,7 +199,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.95
+    weight: 0.9545
     avg_copies: 2.67
   unknown-51:
     weight: 1.0
@@ -276,6 +279,12 @@ archetypes:
   unknown-100:
     weight: 1.0
     avg_copies: 2.0
+  unknown-105:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-104:
+    weight: 1.0
+    avg_copies: 3.0
   unknown-103:
     weight: 1.0
     avg_copies: 3.0

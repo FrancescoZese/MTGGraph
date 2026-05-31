@@ -25,7 +25,7 @@ archetypes:
     avg_copies: 1.0
   burn:
     weight: 1.0
-    avg_copies: 1.53
+    avg_copies: 1.55
   hollow-one:
     weight: 0.8571
     avg_copies: 2.38
@@ -33,22 +33,22 @@ archetypes:
     weight: 0.3636
     avg_copies: 1.25
   eldrazi-ramp:
-    weight: 0.9104
-    avg_copies: 1.2
+    weight: 0.9118
+    avg_copies: 1.19
   simic-ritual:
     weight: 0.0806
     avg_copies: 3.6
   izzet-prowess:
-    weight: 0.9071
-    avg_copies: 2.61
+    weight: 0.9085
+    avg_copies: 2.6
   samwise-combo:
-    weight: 0.3438
-    avg_copies: 1.27
+    weight: 0.3824
+    avg_copies: 1.38
   indomitable-creativity:
     weight: 0.9
     avg_copies: 2.67
   broodscale-combo:
-    weight: 0.3537
+    weight: 0.3372
     avg_copies: 1.21
   dredge:
     weight: 0.625
@@ -111,8 +111,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-65:
-    weight: 0.95
-    avg_copies: 2.79
+    weight: 0.9545
+    avg_copies: 2.86
   unknown-67:
     weight: 0.1379
     avg_copies: 1.25

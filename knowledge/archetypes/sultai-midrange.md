@@ -13,10 +13,10 @@ top_cards:
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Misty Rainforest
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
@@ -34,100 +34,91 @@ top_cards:
 - name: Subtlety
   weight: 1.0
   avg_copies: 3.0
-- name: Island
-  weight: 1.0
-  avg_copies: 2.5
-- name: Orcish Bowmasters
-  weight: 1.0
-  avg_copies: 2.5
 - name: Quantum Riddler
+  weight: 1.0
+  avg_copies: 2.5
+- name: Island
   weight: 1.0
   avg_copies: 2.5
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.5
+- name: Orcish Bowmasters
+  weight: 1.0
+  avg_copies: 2.5
+- name: Spell Snare
+  weight: 1.0
+  avg_copies: 2.0
 - name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 2.0
 - name: Sheoldred's Edict
   weight: 1.0
   avg_copies: 2.0
-- name: Spell Snare
-  weight: 1.0
-  avg_copies: 2.0
-- name: Harbinger of the Seas
-  weight: 1.0
-  avg_copies: 1.5
 - name: Force of Negation
   weight: 1.0
   avg_copies: 1.5
-- name: Undercity Sewers
+- name: Harbinger of the Seas
   weight: 1.0
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Brainsurge
-  weight: 0.5
-  avg_copies: 3.0
+- name: Undercity Sewers
+  weight: 1.0
+  avg_copies: 1.0
 - name: Bring to Light
   weight: 0.5
   avg_copies: 3.0
-- name: Valki, God of Lies
+- name: Brainsurge
   weight: 0.5
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Thoughtseize
-  weight: 0.5
-  avg_copies: 2.0
-- name: Chalice of the Void
-  weight: 0.5
-  avg_copies: 2.0
-- name: Thraben Charm
   weight: 0.5
   avg_copies: 2.0
 - name: Consult the Star Charts
   weight: 0.5
   avg_copies: 2.0
+- name: Thraben Charm
+  weight: 0.5
+  avg_copies: 2.0
 - name: Murktide Regent
+  weight: 0.5
+  avg_copies: 2.0
+- name: Chalice of the Void
+  weight: 0.5
+  avg_copies: 2.0
+- name: Valki, God of Lies
   weight: 0.5
   avg_copies: 2.0
 - name: Pest Control
   weight: 0.5
   avg_copies: 1.5
-- name: Teferi, Time Raveler
-  weight: 0.5
-  avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 0.5
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.5
   avg_copies: 1.0
-- name: Toxic Deluge
+- name: Nihil Spellbomb
   weight: 0.5
   avg_copies: 1.0
-- name: Zagoth Triome
+- name: Teferi, Time Raveler
   weight: 0.5
   avg_copies: 1.0
-- name: Damnation
+- name: Surgical Extraction
   weight: 0.5
   avg_copies: 1.0
-- name: Celestial Purge
+- name: Hall of Storm Giants
   weight: 0.5
   avg_copies: 1.0
 - name: Prismatic Ending
   weight: 0.5
   avg_copies: 1.0
-- name: Engineered Explosives
-  weight: 0.5
-  avg_copies: 1.0
-- name: Cling to Dust
-  weight: 0.5
-  avg_copies: 1.0
-- name: Sink into Stupor
-  weight: 0.5
-  avg_copies: 1.0
 - name: Culling Ritual
+  weight: 0.5
+  avg_copies: 1.0
+- name: Thundering Falls
   weight: 0.5
   avg_copies: 1.0
 - name: Ghost Vacuum
@@ -139,16 +130,25 @@ top_cards:
 - name: Forest
   weight: 0.5
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Toxic Deluge
   weight: 0.5
   avg_copies: 1.0
-- name: Hall of Storm Giants
+- name: Sink into Stupor
   weight: 0.5
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Damnation
   weight: 0.5
   avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Celestial Purge
+  weight: 0.5
+  avg_copies: 1.0
+- name: Cling to Dust
+  weight: 0.5
+  avg_copies: 1.0
+- name: Zagoth Triome
+  weight: 0.5
+  avg_copies: 1.0
+- name: Engineered Explosives
   weight: 0.5
   avg_copies: 1.0
 ---

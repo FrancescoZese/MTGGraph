@@ -7,10 +7,10 @@ name: Seal of Fire
 scryfall_id: 210f4f5a-4a36-4f2f-8821-d04f3f52c8db
 set: jvc
 type: Enchantment
-meta_presence: 0.0038
+meta_presence: 0.0037
 archetypes:
   burn:
-    weight: 0.3158
+    weight: 0.3
     avg_copies: 4.0
   hollow-one:
     weight: 0.0714

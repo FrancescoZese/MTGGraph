@@ -3,7 +3,7 @@ colors:
 - W
 - R
 name: Boros Ponza
-meta_share: 0.0325
+meta_share: 0.0321
 list_count: 95
 top_cards:
 - name: Price of Freedom
@@ -123,10 +123,10 @@ top_cards:
 - name: Chandra, Awakened Inferno
   weight: 0.0842
   avg_copies: 1.0
-- name: Chandra, Torch of Defiance
+- name: Clarion Conqueror
   weight: 0.0632
   avg_copies: 2.0
-- name: Clarion Conqueror
+- name: Chandra, Torch of Defiance
   weight: 0.0632
   avg_copies: 2.0
 - name: Drannith Magistrate
@@ -150,10 +150,10 @@ top_cards:
 - name: Archon of Emeria
   weight: 0.0421
   avg_copies: 1.5
-- name: Ghost Vacuum
+- name: Meltdown
   weight: 0.0421
   avg_copies: 1.0
-- name: Meltdown
+- name: Ghost Vacuum
   weight: 0.0421
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
@@ -189,16 +189,19 @@ top_cards:
 - name: Fable of the Mirror-Breaker
   weight: 0.0211
   avg_copies: 2.5
+- name: Elesh Norn, Mother of Machines
+  weight: 0.0211
+  avg_copies: 2.0
 - name: Day of Judgment
+  weight: 0.0211
+  avg_copies: 2.0
+- name: Calamity's Wake
   weight: 0.0211
   avg_copies: 2.0
 - name: Sundering Eruption
   weight: 0.0211
   avg_copies: 2.0
-- name: Witch Enchanter
-  weight: 0.0211
-  avg_copies: 2.0
-- name: Calamity's Wake
+- name: Leonin Arbiter
   weight: 0.0211
   avg_copies: 2.0
 - name: Kor Firewalker
@@ -207,61 +210,37 @@ top_cards:
 - name: Pinnacle Monk
   weight: 0.0211
   avg_copies: 2.0
-- name: Leonin Arbiter
+- name: Witch Enchanter
   weight: 0.0211
   avg_copies: 2.0
-- name: Elesh Norn, Mother of Machines
+- name: Boil
   weight: 0.0211
-  avg_copies: 2.0
+  avg_copies: 1.0
+- name: Arena of Glory
+  weight: 0.0211
+  avg_copies: 1.0
+- name: Elspeth, Storm Slayer
+  weight: 0.0211
+  avg_copies: 1.0
 - name: Ghost Quarter
   weight: 0.0211
   avg_copies: 1.0
 - name: The Wandering Emperor
   weight: 0.0211
   avg_copies: 1.0
-- name: Elspeth, Storm Slayer
-  weight: 0.0211
-  avg_copies: 1.0
-- name: Arena of Glory
-  weight: 0.0211
-  avg_copies: 1.0
-- name: Boil
-  weight: 0.0211
-  avg_copies: 1.0
 - name: Lightning Helix
   weight: 0.0105
   avg_copies: 4.0
-- name: Blood Moon
-  weight: 0.0105
-  avg_copies: 3.0
 - name: Relic of Progenitus
   weight: 0.0105
   avg_copies: 3.0
 - name: Geomancer's Gambit
   weight: 0.0105
   avg_copies: 3.0
-- name: Raze to the Ground
+- name: Blood Moon
   weight: 0.0105
-  avg_copies: 2.0
-- name: Settle the Wreckage
-  weight: 0.0105
-  avg_copies: 2.0
-- name: Soulless Jailer
-  weight: 0.0105
-  avg_copies: 2.0
-- name: Doomskar
-  weight: 0.0105
-  avg_copies: 2.0
-- name: Damping Sphere
-  weight: 0.0105
-  avg_copies: 2.0
-- name: Stony Silence
-  weight: 0.0105
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Prismatic Ending
-  weight: 0.0105
-  avg_copies: 2.0
-- name: Quintorius Kand
   weight: 0.0105
   avg_copies: 2.0
 - name: Voice of Victory
@@ -270,28 +249,43 @@ top_cards:
 - name: Gideon, Ally of Zendikar
   weight: 0.0105
   avg_copies: 2.0
+- name: Settle the Wreckage
+  weight: 0.0105
+  avg_copies: 2.0
+- name: Soulless Jailer
+  weight: 0.0105
+  avg_copies: 2.0
+- name: Quintorius Kand
+  weight: 0.0105
+  avg_copies: 2.0
+- name: Doomskar
+  weight: 0.0105
+  avg_copies: 2.0
+- name: Stony Silence
+  weight: 0.0105
+  avg_copies: 2.0
+- name: Damping Sphere
+  weight: 0.0105
+  avg_copies: 2.0
 - name: Stone Rain
+  weight: 0.0105
+  avg_copies: 2.0
+- name: Raze to the Ground
   weight: 0.0105
   avg_copies: 2.0
 - name: Outlaws' Merriment
   weight: 0.0105
   avg_copies: 1.5
-- name: Dead
+- name: The Restoration of Eiganjo
   weight: 0.0105
   avg_copies: 1.0
-- name: Rugged Prairie
-  weight: 0.0105
-  avg_copies: 1.0
-- name: Beza, the Bounding Spring
+- name: Ajani Vengeant
   weight: 0.0105
   avg_copies: 1.0
 - name: Windswept Heath
   weight: 0.0105
   avg_copies: 1.0
-- name: Kozilek, Butcher of Truth
-  weight: 0.0105
-  avg_copies: 1.0
-- name: Ajani Vengeant
+- name: Beza, the Bounding Spring
   weight: 0.0105
   avg_copies: 1.0
 - name: Redirect Lightning
@@ -300,13 +294,16 @@ top_cards:
 - name: Forked Bolt
   weight: 0.0105
   avg_copies: 1.0
-- name: Elspeth, Sun's Nemesis
+- name: Rugged Prairie
+  weight: 0.0105
+  avg_copies: 1.0
+- name: Stormbreath Dragon
   weight: 0.0105
   avg_copies: 1.0
 - name: Suspend Aggression
   weight: 0.0105
   avg_copies: 1.0
-- name: Ark of Hunger
+- name: Dead
   weight: 0.0105
   avg_copies: 1.0
 - name: Purify the Grave
@@ -318,10 +315,13 @@ top_cards:
 - name: Storm's Wrath
   weight: 0.0105
   avg_copies: 1.0
-- name: The Restoration of Eiganjo
+- name: Ark of Hunger
   weight: 0.0105
   avg_copies: 1.0
-- name: Stormbreath Dragon
+- name: Kozilek, Butcher of Truth
+  weight: 0.0105
+  avg_copies: 1.0
+- name: Elspeth, Sun's Nemesis
   weight: 0.0105
   avg_copies: 1.0
 ---

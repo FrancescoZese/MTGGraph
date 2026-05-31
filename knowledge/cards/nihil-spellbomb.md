@@ -6,7 +6,7 @@ name: Nihil Spellbomb
 scryfall_id: e5892a23-efae-4731-9b8f-41c87960fe93
 set: a25
 type: Artifact
-meta_presence: 0.0651
+meta_presence: 0.0663
 archetypes:
   dimir-control:
     weight: 0.3086
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.1852
     avg_copies: 1.0
   burn:
-    weight: 0.0526
+    weight: 0.05
     avg_copies: 2.0
   mardu-blink:
     weight: 0.1304
@@ -36,16 +36,16 @@ archetypes:
     weight: 0.2857
     avg_copies: 2.12
   eldrazi-ramp:
-    weight: 0.0299
+    weight: 0.0294
     avg_copies: 3.5
   simic-ritual:
     weight: 0.0161
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0294
+    weight: 0.0286
     avg_copies: 2.0
   azorius-blink:
-    weight: 0.0357
+    weight: 0.0345
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
@@ -60,7 +60,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   goryo1:
-    weight: 0.2391
+    weight: 0.2075
     avg_copies: 1.18
   soultrader-combo:
     weight: 0.25
@@ -78,7 +78,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-5:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 2.0
   unknown-7:
     weight: 1.0
@@ -108,16 +108,16 @@ archetypes:
     weight: 0.0667
     avg_copies: 2.0
   unknown-47:
-    weight: 0.55
-    avg_copies: 1.82
+    weight: 0.5909
+    avg_copies: 1.77
   unknown-52:
     weight: 1.0
-    avg_copies: 1.5
+    avg_copies: 1.67
   unknown-58:
     weight: 1.0
     avg_copies: 1.0
   unknown-68:
-    weight: 0.375
+    weight: 0.5
     avg_copies: 2.0
   unknown-73:
     weight: 1.0
@@ -137,4 +137,7 @@ archetypes:
   unknown-97:
     weight: 1.0
     avg_copies: 3.0
+  unknown-105:
+    weight: 1.0
+    avg_copies: 1.0
 ---

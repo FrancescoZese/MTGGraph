@@ -13,6 +13,6 @@ archetypes:
     weight: 0.0323
     avg_copies: 4.0
   burn:
-    weight: 0.0526
+    weight: 0.05
     avg_copies: 4.0
 ---

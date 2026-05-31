@@ -9,6 +9,6 @@ type: Kindred Artifact — Eldrazi
 meta_presence: 0.0003
 archetypes:
   broodscale-combo:
-    weight: 0.0122
+    weight: 0.0116
     avg_copies: 2.0
 ---

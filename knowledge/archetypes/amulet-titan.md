@@ -2,13 +2,13 @@
 colors:
 - G
 name: Amulet Titan
-meta_share: 0.0336
+meta_share: 0.0331
 list_count: 98
 top_cards:
-- name: Urza's Saga
+- name: Arboreal Grazer
   weight: 1.0
   avg_copies: 4.0
-- name: Arboreal Grazer
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Amulet of Vigor
@@ -44,10 +44,10 @@ top_cards:
 - name: Hanweir Battlements
   weight: 1.0
   avg_copies: 1.0
-- name: Mirrorpool
+- name: Vesuva
   weight: 1.0
   avg_copies: 1.0
-- name: Vesuva
+- name: Mirrorpool
   weight: 1.0
   avg_copies: 1.0
 - name: Force of Vigor
@@ -179,16 +179,16 @@ top_cards:
 - name: Cephalid Coliseum
   weight: 0.0408
   avg_copies: 1.0
-- name: Pyroclasm
-  weight: 0.0306
-  avg_copies: 1.0
 - name: Windswept Heath
   weight: 0.0306
   avg_copies: 1.0
-- name: Heritage Reclamation
+- name: Insidious Fungus
   weight: 0.0306
   avg_copies: 1.0
-- name: Insidious Fungus
+- name: Pyroclasm
+  weight: 0.0306
+  avg_copies: 1.0
+- name: Heritage Reclamation
   weight: 0.0306
   avg_copies: 1.0
 - name: Kessig Wolf Run
@@ -200,25 +200,28 @@ top_cards:
 - name: Endurance
   weight: 0.0204
   avg_copies: 1.5
-- name: Cavern of Souls
-  weight: 0.0204
-  avg_copies: 1.0
 - name: Valakut, the Molten Pinnacle
   weight: 0.0204
   avg_copies: 1.0
 - name: Hexdrinker
   weight: 0.0204
   avg_copies: 1.0
+- name: Cavern of Souls
+  weight: 0.0204
+  avg_copies: 1.0
 - name: Defense Grid
   weight: 0.0102
   avg_copies: 3.0
+- name: Gemstone Caverns
+  weight: 0.0102
+  avg_copies: 1.0
+- name: Tormod's Crypt
+  weight: 0.0102
+  avg_copies: 1.0
 - name: Dosan the Falling Leaf
   weight: 0.0102
   avg_copies: 1.0
-- name: Lithomantic Barrage
-  weight: 0.0102
-  avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Formidable Speaker
   weight: 0.0102
   avg_copies: 1.0
 - name: Ghost Quarter
@@ -227,13 +230,10 @@ top_cards:
 - name: Titania, Protector of Argoth
   weight: 0.0102
   avg_copies: 1.0
-- name: Formidable Speaker
-  weight: 0.0102
-  avg_copies: 1.0
 - name: Carnage Tyrant
   weight: 0.0102
   avg_copies: 1.0
-- name: Tormod's Crypt
+- name: Lithomantic Barrage
   weight: 0.0102
   avg_copies: 1.0
 ---

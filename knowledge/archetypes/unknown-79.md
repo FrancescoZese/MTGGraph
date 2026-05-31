@@ -9,28 +9,28 @@ name: 'Unknown #79'
 meta_share: 0.0014
 list_count: 4
 top_cards:
-- name: Wooded Foothills
-  weight: 1.0
-  avg_copies: 4.0
-- name: Scion of Draco
-  weight: 1.0
-  avg_copies: 4.0
 - name: Flooded Strand
-  weight: 1.0
-  avg_copies: 4.0
-- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 4.0
-- name: Territorial Kavu
-  weight: 1.0
-  avg_copies: 4.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
+- name: Psychic Frog
+  weight: 1.0
+  avg_copies: 4.0
+- name: Scion of Draco
+  weight: 1.0
+  avg_copies: 4.0
+- name: Territorial Kavu
+  weight: 1.0
+  avg_copies: 4.0
 - name: Leyline of the Guildpact
+  weight: 1.0
+  avg_copies: 4.0
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline Binding
@@ -39,13 +39,13 @@ top_cards:
 - name: Quantum Riddler
   weight: 1.0
   avg_copies: 3.25
-- name: Misty Rainforest
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.0
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 2.0
-- name: Wrath of the Skies
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 2.0
 - name: Consign to Memory
@@ -63,13 +63,16 @@ top_cards:
 - name: Force of Negation
   weight: 1.0
   avg_copies: 1.5
-- name: Breeding Pool
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Sacred Foundry
+  weight: 1.0
+  avg_copies: 1.0
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Temple Garden
@@ -78,22 +81,19 @@ top_cards:
 - name: Indatha Triome
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 1.0
-  avg_copies: 1.0
 - name: Forest
   weight: 1.0
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
-- name: Damping Sphere
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
+- name: Mystical Dispute
   weight: 0.75
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Damping Sphere
   weight: 0.75
   avg_copies: 2.0
 - name: Pick Your Poison
@@ -108,19 +108,19 @@ top_cards:
 - name: Wear
   weight: 0.25
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Stubborn Denial
   weight: 0.25
   avg_copies: 2.0
-- name: Stubborn Denial
+- name: Vexing Bauble
   weight: 0.25
   avg_copies: 2.0
 - name: Blood Crypt
   weight: 0.25
   avg_copies: 1.0
-- name: Shatterstorm
+- name: Surgical Extraction
   weight: 0.25
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Shatterstorm
   weight: 0.25
   avg_copies: 1.0
 - name: High Noon

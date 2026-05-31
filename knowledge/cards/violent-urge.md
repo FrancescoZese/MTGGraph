@@ -7,13 +7,13 @@ name: Violent Urge
 scryfall_id: a47c968b-1edd-45ac-a67c-311647e7e2fc
 set: dsk
 type: Instant
-meta_presence: 0.0377
+meta_presence: 0.0375
 archetypes:
   hollow-one:
     weight: 0.0714
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.7357
+    weight: 0.7324
     avg_copies: 1.67
   rakdos-aggro:
     weight: 0.3571

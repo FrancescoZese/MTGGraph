@@ -6,10 +6,10 @@ name: 'Unknown #26'
 meta_share: 0.0027
 list_count: 8
 top_cards:
-- name: High Noon
+- name: Path to Exile
   weight: 1.0
   avg_copies: 4.0
-- name: Path to Exile
+- name: Field of Ruin
   weight: 1.0
   avg_copies: 4.0
 - name: Demolition Field
@@ -18,13 +18,13 @@ top_cards:
 - name: Cleansing Wildfire
   weight: 1.0
   avg_copies: 4.0
-- name: Field of Ruin
+- name: High Noon
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 3.88
-- name: Wrath of the Skies
+- name: Solitude
   weight: 1.0
   avg_copies: 3.88
 - name: Price of Freedom
@@ -42,10 +42,10 @@ top_cards:
 - name: Castle Ardenvale
   weight: 1.0
   avg_copies: 1.88
-- name: Cori Mountain Monastery
+- name: Erode
   weight: 0.875
   avg_copies: 3.57
-- name: Erode
+- name: Cori Mountain Monastery
   weight: 0.875
   avg_copies: 3.57
 - name: Elegant Parlor
@@ -69,10 +69,10 @@ top_cards:
 - name: Arid Mesa
   weight: 0.25
   avg_copies: 4.0
-- name: Reprieve
+- name: Mishra's Research Desk
   weight: 0.25
   avg_copies: 3.5
-- name: Mishra's Research Desk
+- name: Reprieve
   weight: 0.25
   avg_copies: 3.5
 - name: Sunken Citadel
@@ -90,25 +90,25 @@ top_cards:
 - name: Wear
   weight: 0.125
   avg_copies: 4.0
-- name: Ark of Hunger
-  weight: 0.125
-  avg_copies: 4.0
-- name: Volcanic Spite
+- name: White Orchid Phantom
   weight: 0.125
   avg_copies: 4.0
 - name: Geomancer's Gambit
   weight: 0.125
   avg_copies: 4.0
-- name: White Orchid Phantom
+- name: Volcanic Spite
+  weight: 0.125
+  avg_copies: 4.0
+- name: Ark of Hunger
   weight: 0.125
   avg_copies: 4.0
 - name: Relic of Progenitus
   weight: 0.125
   avg_copies: 3.5
-- name: Candy Trail
+- name: Ragavan, Nimble Pilferer
   weight: 0.125
   avg_copies: 3.0
-- name: Ragavan, Nimble Pilferer
+- name: Candy Trail
   weight: 0.125
   avg_copies: 3.0
 - name: Get Lost
@@ -117,16 +117,16 @@ top_cards:
 - name: Hallowed Moonlight
   weight: 0.125
   avg_copies: 2.0
-- name: Galvanic Discharge
-  weight: 0.125
-  avg_copies: 2.0
 - name: Engineered Explosives
   weight: 0.125
   avg_copies: 2.0
-- name: Elixir of Immortality
+- name: Galvanic Discharge
+  weight: 0.125
+  avg_copies: 2.0
+- name: Crucible of Worlds
   weight: 0.125
   avg_copies: 1.0
-- name: Crucible of Worlds
+- name: Elixir of Immortality
   weight: 0.125
   avg_copies: 1.0
 ---

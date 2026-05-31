@@ -6,7 +6,7 @@ colors:
 - R
 - G
 name: Domain Zoo
-meta_share: 0.0267
+meta_share: 0.0264
 list_count: 78
 top_cards:
 - name: Territorial Kavu
@@ -39,10 +39,10 @@ top_cards:
 - name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
-- name: Plains
+- name: Indatha Triome
   weight: 1.0
   avg_copies: 1.0
-- name: Indatha Triome
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
@@ -150,91 +150,91 @@ top_cards:
 - name: Meltdown
   weight: 0.0385
   avg_copies: 1.0
-- name: Vexing Bauble
+- name: Does Machines
   weight: 0.0256
   avg_copies: 1.0
-- name: Does Machines
+- name: Vexing Bauble
   weight: 0.0256
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.0256
   avg_copies: 1.0
-- name: Persist
-  weight: 0.0128
-  avg_copies: 4.0
-- name: Aurora Awakener
+- name: Faithless Looting
   weight: 0.0128
   avg_copies: 4.0
 - name: Professor of Symbology
   weight: 0.0128
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Persist
   weight: 0.0128
   avg_copies: 4.0
 - name: Archon of Cruelty
   weight: 0.0128
   avg_copies: 4.0
-- name: Tribal Flames
+- name: Psychic Frog
   weight: 0.0128
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Aurora Awakener
+  weight: 0.0128
+  avg_copies: 4.0
+- name: Tribal Flames
   weight: 0.0128
   avg_copies: 4.0
 - name: Summoning Trap
   weight: 0.0128
   avg_copies: 3.0
-- name: Drannith Magistrate
-  weight: 0.0128
-  avg_copies: 2.0
 - name: Mana Tithe
   weight: 0.0128
   avg_copies: 2.0
-- name: Breeding Pool
+- name: Drannith Magistrate
   weight: 0.0128
-  avg_copies: 1.0
-- name: Abandon Attachments
-  weight: 0.0128
-  avg_copies: 1.0
-- name: Glasspool Mimic
-  weight: 0.0128
-  avg_copies: 1.0
-- name: Redirect Lightning
-  weight: 0.0128
-  avg_copies: 1.0
-- name: Price of Freedom
-  weight: 0.0128
-  avg_copies: 1.0
-- name: Dai Li Indoctrination
-  weight: 0.0128
-  avg_copies: 1.0
-- name: Ruinous Waterbending
-  weight: 0.0128
-  avg_copies: 1.0
-- name: Origin of Metalbending
-  weight: 0.0128
-  avg_copies: 1.0
-- name: Boomerang Basics
-  weight: 0.0128
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Sacred Ground
   weight: 0.0128
   avg_copies: 1.0
 - name: Firebending Lesson
   weight: 0.0128
   avg_copies: 1.0
+- name: Ruinous Waterbending
+  weight: 0.0128
+  avg_copies: 1.0
+- name: Decorum Dissertation
+  weight: 0.0128
+  avg_copies: 1.0
+- name: Prismatic Ending
+  weight: 0.0128
+  avg_copies: 1.0
+- name: Redirect Lightning
+  weight: 0.0128
+  avg_copies: 1.0
+- name: Abandon Attachments
+  weight: 0.0128
+  avg_copies: 1.0
+- name: Price of Freedom
+  weight: 0.0128
+  avg_copies: 1.0
+- name: Boomerang Basics
+  weight: 0.0128
+  avg_copies: 1.0
 - name: Raucous Theater
+  weight: 0.0128
+  avg_copies: 1.0
+- name: Glasspool Mimic
+  weight: 0.0128
+  avg_copies: 1.0
+- name: Dai Li Indoctrination
+  weight: 0.0128
+  avg_copies: 1.0
+- name: Origin of Metalbending
+  weight: 0.0128
+  avg_copies: 1.0
+- name: Breeding Pool
   weight: 0.0128
   avg_copies: 1.0
 - name: Boromir, Warden of the Tower
   weight: 0.0128
   avg_copies: 1.0
 - name: Chthonian Nightmare
-  weight: 0.0128
-  avg_copies: 1.0
-- name: Prismatic Ending
-  weight: 0.0128
-  avg_copies: 1.0
-- name: Decorum Dissertation
   weight: 0.0128
   avg_copies: 1.0
 ---

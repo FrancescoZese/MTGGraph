@@ -7,9 +7,12 @@ name: Tear Asunder
 scryfall_id: e408c673-4a1f-45db-827a-75c501e1b3d6
 set: eoc
 type: Instant
-meta_presence: 0.0003
+meta_presence: 0.0007
 archetypes:
   unknown-4:
     weight: 1.0
+    avg_copies: 2.0
+  unknown-41:
+    weight: 0.3333
     avg_copies: 2.0
 ---
