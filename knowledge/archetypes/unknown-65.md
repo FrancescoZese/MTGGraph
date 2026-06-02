@@ -4,16 +4,16 @@ colors:
 - R
 - G
 name: 'Unknown #65'
-meta_share: 0.0074
+meta_share: 0.0071
 list_count: 22
 top_cards:
 - name: Crashing Footfalls
   weight: 1.0
   avg_copies: 4.0
-- name: Shardless Agent
+- name: Violent Outburst
   weight: 1.0
   avg_copies: 4.0
-- name: Violent Outburst
+- name: Shardless Agent
   weight: 1.0
   avg_copies: 4.0
 - name: Misty Rainforest
@@ -52,13 +52,13 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.09
-- name: Thundering Falls
+- name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
 - name: Forest
   weight: 1.0
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Stomping Ground
@@ -139,13 +139,13 @@ top_cards:
 - name: Mutavault
   weight: 0.0455
   avg_copies: 2.0
-- name: Mine Collapse
-  weight: 0.0455
-  avg_copies: 1.0
 - name: Rough
   weight: 0.0455
   avg_copies: 1.0
 - name: Ketria Triome
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Mine Collapse
   weight: 0.0455
   avg_copies: 1.0
 ---

@@ -13,10 +13,10 @@ archetypes:
     weight: 0.0123
     avg_copies: 3.0
   mono-blue-belcher:
-    weight: 0.0179
+    weight: 0.0172
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0714
+    weight: 0.069
     avg_copies: 1.0
   jeskai-control:
     weight: 0.0357
@@ -25,16 +25,19 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.2
   simic-ritual:
-    weight: 0.0161
+    weight: 0.0159
     avg_copies: 1.0
   izzet-wizards:
-    weight: 0.2857
+    weight: 0.2222
     avg_copies: 1.33
   eldrazi-breach:
     weight: 0.5
     avg_copies: 1.0
   grixis-shadow:
     weight: 0.25
+    avg_copies: 2.0
+  unknown-17:
+    weight: 0.5
     avg_copies: 2.0
   unknown-35:
     weight: 1.0

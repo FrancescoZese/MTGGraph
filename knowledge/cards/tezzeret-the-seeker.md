@@ -7,9 +7,9 @@ name: Tezzeret the Seeker
 scryfall_id: cf339735-eb1a-46f0-8c3e-eae06f278eca
 set: mm2
 type: Legendary Planeswalker — Tezzeret
-meta_presence: 0.0125
+meta_presence: 0.012
 archetypes:
   mono-blue-belcher:
-    weight: 0.6607
+    weight: 0.6379
     avg_copies: 1.08
 ---

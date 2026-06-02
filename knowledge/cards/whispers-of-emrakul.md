@@ -7,9 +7,9 @@ name: Whispers of Emrakul
 scryfall_id: 0b7ba428-5a35-4062-8e16-39eb927cb316
 set: emn
 type: Sorcery
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   rakdos-aggro:
-    weight: 0.1429
+    weight: 0.1333
     avg_copies: 1.0
 ---

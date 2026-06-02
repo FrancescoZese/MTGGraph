@@ -6,13 +6,13 @@ name: Hall of Storm Giants
 scryfall_id: bf8f052d-8840-4905-a807-9a305f4fd8f7
 set: afr
 type: Land
-meta_presence: 0.0142
+meta_presence: 0.0149
 archetypes:
   dimir-control:
     weight: 0.0123
     avg_copies: 1.0
   azorius-control:
-    weight: 0.8214
+    weight: 0.8276
     avg_copies: 1.0
   jeskai-control:
     weight: 0.1786
@@ -27,7 +27,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   izzet-wizards:
-    weight: 0.4286
+    weight: 0.4444
     avg_copies: 1.0
   grixis-control:
     weight: 0.5
@@ -42,6 +42,12 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-104:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-106:
+    weight: 0.5
+    avg_copies: 1.0
+  unknown-109:
     weight: 1.0
     avg_copies: 1.0
 ---

@@ -8,7 +8,7 @@ name: Terminate
 scryfall_id: 21f579c9-4b74-4461-8812-dcfd68fd2b97
 set: ecc
 type: Instant
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   unknown-18:
     weight: 1.0

@@ -6,26 +6,26 @@ name: Island
 scryfall_id: 77b88bb8-6bd9-4632-b937-89468fcb5e6a
 set: sos
 type: Basic Land — Island
-meta_presence: 0.3577
+meta_presence: 0.3547
 archetypes:
   ruby-storm:
-    weight: 0.0213
+    weight: 0.0208
     avg_copies: 1.0
   dimir-control:
     weight: 0.9877
     avg_copies: 2.48
   mono-blue-belcher:
-    weight: 0.6071
+    weight: 0.6034
     avg_copies: 1.03
   jeskai-energy:
     weight: 0.814
     avg_copies: 1.0
   goryo:
-    weight: 0.9808
+    weight: 0.9813
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
-    avg_copies: 1.89
+    avg_copies: 1.9
   living-end:
     weight: 1.0
     avg_copies: 1.0
@@ -33,8 +33,8 @@ archetypes:
     weight: 0.8929
     avg_copies: 1.64
   affinity:
-    weight: 0.9826
-    avg_copies: 1.28
+    weight: 0.9829
+    avg_copies: 1.29
   mill:
     weight: 0.8333
     avg_copies: 2.53
@@ -51,22 +51,22 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0161
+    weight: 0.0159
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0211
+    weight: 0.0197
     avg_copies: 1.33
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
   esper-blink:
-    weight: 0.3143
+    weight: 0.3415
     avg_copies: 1.0
   bant-control:
     weight: 1.0
     avg_copies: 2.0
   azorius-blink:
-    weight: 0.1034
+    weight: 0.0938
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.9667
@@ -76,7 +76,7 @@ archetypes:
     avg_copies: 2.0
   izzet-wizards:
     weight: 1.0
-    avg_copies: 4.57
+    avg_copies: 4.56
   eldrazi-breach:
     weight: 0.75
     avg_copies: 2.0
@@ -124,7 +124,7 @@ archetypes:
     avg_copies: 1.0
   unknown-11:
     weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 1.33
   unknown-15:
     weight: 1.0
     avg_copies: 1.0
@@ -228,7 +228,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-85:
-    weight: 0.1667
+    weight: 0.1111
     avg_copies: 1.0
   unknown-84:
     weight: 1.0
@@ -260,4 +260,16 @@ archetypes:
   unknown-103:
     weight: 1.0
     avg_copies: 6.0
+  unknown-106:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-108:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-109:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-107:
+    weight: 1.0
+    avg_copies: 4.0
 ---

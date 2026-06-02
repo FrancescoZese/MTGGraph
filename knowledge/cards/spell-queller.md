@@ -8,12 +8,12 @@ name: Spell Queller
 scryfall_id: a9364b43-ab2e-4433-91e8-88a0d5d5965c
 set: inr
 type: Creature — Spirit
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   goryo3:
     weight: 1.0
     avg_copies: 2.0
   unknown-85:
-    weight: 0.1667
+    weight: 0.1111
     avg_copies: 4.0
 ---

@@ -7,12 +7,12 @@ name: Iridescent Vinelasher
 scryfall_id: b2bc854c-4e72-48e0-a098-e3451d6e511d
 set: blb
 type: Creature — Lizard Assassin
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   necrodominance:
     weight: 0.0323
     avg_copies: 4.0
   burn:
-    weight: 0.05
+    weight: 0.0455
     avg_copies: 4.0
 ---

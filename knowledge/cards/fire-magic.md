@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0571
 archetypes:
   ruby-storm:
-    weight: 0.3298
+    weight: 0.3229
     avg_copies: 1.77
   dimir-control:
     weight: 0.2346
@@ -19,26 +19,29 @@ archetypes:
     weight: 0.0078
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.3265
+    weight: 0.32
     avg_copies: 2.56
   azorius-control:
-    weight: 0.0714
+    weight: 0.069
     avg_copies: 2.0
   jeskai-control:
     weight: 0.5357
     avg_copies: 1.47
+  domain-zoo:
+    weight: 0.0123
+    avg_copies: 1.0
   boros-ponza:
-    weight: 0.1158
+    weight: 0.1134
     avg_copies: 1.75
   simic-ritual:
-    weight: 0.0323
+    weight: 0.0317
     avg_copies: 2.5
   izzet-prowess:
-    weight: 0.0282
+    weight: 0.0263
     avg_copies: 1.5
   broodscale-combo:
-    weight: 0.0116
-    avg_copies: 4.0
+    weight: 0.0202
+    avg_copies: 3.5
   dredge:
     weight: 0.0625
     avg_copies: 2.0
@@ -46,8 +49,8 @@ archetypes:
     weight: 0.7
     avg_copies: 2.29
   izzet-wizards:
-    weight: 0.7143
-    avg_copies: 1.8
+    weight: 0.7778
+    avg_copies: 1.71
   eldrazi-breach:
     weight: 0.25
     avg_copies: 3.0
@@ -55,7 +58,7 @@ archetypes:
     weight: 0.25
     avg_copies: 2.0
   rakdos-aggro:
-    weight: 0.0714
+    weight: 0.0667
     avg_copies: 1.0
   izzet-splinter-twin:
     weight: 0.5
@@ -72,6 +75,9 @@ archetypes:
   unknown-6:
     weight: 0.6667
     avg_copies: 1.5
+  unknown-11:
+    weight: 0.3333
+    avg_copies: 1.0
   unknown-25:
     weight: 1.0
     avg_copies: 2.0
@@ -97,6 +103,12 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-82:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-96:
+    weight: 0.2
+    avg_copies: 1.0
+  unknown-107:
     weight: 1.0
     avg_copies: 2.0
 ---

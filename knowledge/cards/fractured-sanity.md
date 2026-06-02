@@ -7,9 +7,12 @@ name: Fractured Sanity
 scryfall_id: 81875876-c1a0-4f64-8dfc-39217b5e4020
 set: clb
 type: Sorcery
-meta_presence: 0.0057
+meta_presence: 0.0058
 archetypes:
   mill:
     weight: 0.9444
+    avg_copies: 4.0
+  unknown-107:
+    weight: 1.0
     avg_copies: 4.0
 ---

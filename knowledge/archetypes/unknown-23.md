@@ -3,19 +3,19 @@ colors:
 - R
 - G
 name: 'Unknown #23'
-meta_share: 0.0017
+meta_share: 0.0016
 list_count: 5
 top_cards:
-- name: Wrenn and Six
-  weight: 1.0
-  avg_copies: 4.0
 - name: Dryad of the Ilysian Grove
   weight: 1.0
   avg_copies: 4.0
-- name: Vibrance
+- name: Arboreal Grazer
   weight: 1.0
   avg_copies: 4.0
-- name: Arboreal Grazer
+- name: Wrenn and Six
+  weight: 1.0
+  avg_copies: 4.0
+- name: Vibrance
   weight: 1.0
   avg_copies: 4.0
 - name: Valakut, the Molten Pinnacle
@@ -75,25 +75,25 @@ top_cards:
 - name: Ghost Quarter
   weight: 0.8
   avg_copies: 1.25
-- name: Bojuka Bog
+- name: Collector Ouphe
   weight: 0.8
   avg_copies: 1.0
-- name: Shifting Woodland
+- name: Bojuka Bog
   weight: 0.8
   avg_copies: 1.0
 - name: Dryad Arbor
   weight: 0.8
   avg_copies: 1.0
-- name: Collector Ouphe
+- name: Shifting Woodland
   weight: 0.8
   avg_copies: 1.0
 - name: Lightning Bolt
   weight: 0.6
   avg_copies: 3.0
-- name: Scalding Tarn
+- name: Meltdown
   weight: 0.6
   avg_copies: 1.0
-- name: Meltdown
+- name: Scalding Tarn
   weight: 0.6
   avg_copies: 1.0
 - name: Arid Mesa
@@ -105,19 +105,19 @@ top_cards:
 - name: Scapeshift
   weight: 0.2
   avg_copies: 3.0
-- name: Erode
-  weight: 0.2
-  avg_copies: 2.0
-- name: Orim's Chant
-  weight: 0.2
-  avg_copies: 2.0
 - name: Disruptor Flute
   weight: 0.2
   avg_copies: 2.0
 - name: Fire Magic
   weight: 0.2
   avg_copies: 2.0
-- name: Endurance
+- name: Orim's Chant
+  weight: 0.2
+  avg_copies: 2.0
+- name: Erode
+  weight: 0.2
+  avg_copies: 2.0
+- name: Sakura-Tribe Elder
   weight: 0.2
   avg_copies: 1.0
 - name: Sacred Foundry
@@ -126,13 +126,13 @@ top_cards:
 - name: Elegant Parlor
   weight: 0.2
   avg_copies: 1.0
-- name: Dwarven Mine
+- name: Endurance
   weight: 0.2
   avg_copies: 1.0
 - name: Jetmir's Garden
   weight: 0.2
   avg_copies: 1.0
-- name: Sakura-Tribe Elder
+- name: Dwarven Mine
   weight: 0.2
   avg_copies: 1.0
 ---

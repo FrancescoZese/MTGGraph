@@ -7,7 +7,7 @@ name: Akroma, Angel of Fury
 scryfall_id: 2a81f0b5-5116-4946-89fc-18479bf85305
 set: mkc
 type: Legendary Creature — Angel
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   unknown-89:
     weight: 1.0

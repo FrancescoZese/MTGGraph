@@ -6,13 +6,13 @@ name: Bloodstained Mire
 scryfall_id: 579743fe-f71e-4cb2-8629-d6b02ed1591d
 set: mh3
 type: Land
-meta_presence: 0.1673
+meta_presence: 0.1712
 archetypes:
   ruby-storm:
-    weight: 0.9362
+    weight: 0.9375
     avg_copies: 2.39
   boros-energy:
-    weight: 0.0092
+    weight: 0.0091
     avg_copies: 2.75
   dimir-control:
     weight: 0.0864
@@ -24,8 +24,8 @@ archetypes:
     weight: 0.8889
     avg_copies: 3.62
   burn:
-    weight: 0.9
-    avg_copies: 1.56
+    weight: 0.9091
+    avg_copies: 1.55
   mardu-blink:
     weight: 0.8696
     avg_copies: 1.85
@@ -33,14 +33,17 @@ archetypes:
     weight: 1.0
     avg_copies: 3.46
   simic-ritual:
-    weight: 0.0161
+    weight: 0.0159
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.9296
-    avg_copies: 2.8
+    weight: 0.9276
+    avg_copies: 2.82
   indomitable-creativity:
     weight: 1.0
     avg_copies: 2.6
+  orzhov-blink:
+    weight: 0.125
+    avg_copies: 2.0
   dredge:
     weight: 0.9375
     avg_copies: 2.93
@@ -57,14 +60,14 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   rakdos-aggro:
-    weight: 0.9286
+    weight: 0.9333
     avg_copies: 4.0
   the-rock:
     weight: 0.5
     avg_copies: 1.0
   goryo1:
     weight: 1.0
-    avg_copies: 3.85
+    avg_copies: 3.81
   goryo5:
     weight: 0.6667
     avg_copies: 3.0
@@ -120,7 +123,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.1364
+    weight: 0.1154
     avg_copies: 1.67
   unknown-50:
     weight: 1.0
@@ -138,8 +141,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-68:
-    weight: 0.9
-    avg_copies: 2.44
+    weight: 0.9375
+    avg_copies: 2.33
   unknown-69:
     weight: 1.0
     avg_copies: 2.0
@@ -160,7 +163,7 @@ archetypes:
     avg_copies: 2.0
   unknown-96:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.8
   unknown-91:
     weight: 1.0
     avg_copies: 2.0
@@ -173,4 +176,7 @@ archetypes:
   unknown-105:
     weight: 1.0
     avg_copies: 1.0
+  unknown-110:
+    weight: 1.0
+    avg_copies: 3.0
 ---

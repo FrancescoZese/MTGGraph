@@ -10,7 +10,7 @@ type: Legendary Enchantment Creature — God
 meta_presence: 0.001
 archetypes:
   azorius-blink:
-    weight: 0.0345
+    weight: 0.0312
     avg_copies: 1.0
   unknown-80:
     weight: 1.0

@@ -9,9 +9,9 @@ type: Legendary Planeswalker — Ugin
 meta_presence: 0.001
 archetypes:
   eldrazi-tron:
-    weight: 0.0168
+    weight: 0.0157
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0147
+    weight: 0.0141
     avg_copies: 1.0
 ---

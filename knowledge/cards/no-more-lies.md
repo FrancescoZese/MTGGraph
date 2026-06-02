@@ -14,10 +14,13 @@ archetypes:
     weight: 0.2558
     avg_copies: 1.29
   goryo:
-    weight: 0.0096
+    weight: 0.0093
+    avg_copies: 2.0
+  domain-zoo:
+    weight: 0.0123
     avg_copies: 2.0
   esper-blink:
-    weight: 0.0286
+    weight: 0.0244
     avg_copies: 4.0
   esper-midrange:
     weight: 1.0
@@ -31,4 +34,7 @@ archetypes:
   unknown-62:
     weight: 0.2
     avg_copies: 1.67
+  unknown-106:
+    weight: 0.5
+    avg_copies: 2.0
 ---

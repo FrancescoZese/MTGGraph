@@ -7,23 +7,23 @@ name: Solitude
 scryfall_id: 47a6234f-309f-4e03-9263-66da48b57153
 set: mh2
 type: Creature — Elemental Incarnation
-meta_presence: 0.1944
+meta_presence: 0.1942
 archetypes:
   boros-energy:
-    weight: 0.0829
-    avg_copies: 1.17
+    weight: 0.0862
+    avg_copies: 1.16
   jeskai-energy:
     weight: 1.0
     avg_copies: 3.91
   eldrazi-tron:
-    weight: 0.0084
+    weight: 0.0079
     avg_copies: 4.0
   goryo:
-    weight: 0.9808
+    weight: 0.9813
     avg_copies: 3.84
   azorius-control:
     weight: 1.0
-    avg_copies: 3.18
+    avg_copies: 3.17
   jeskai-control:
     weight: 0.8214
     avg_copies: 2.96
@@ -35,13 +35,13 @@ archetypes:
     avg_copies: 4.0
   boros-ponza:
     weight: 1.0
-    avg_copies: 3.08
+    avg_copies: 3.1
   4c-omnath:
     weight: 1.0
     avg_copies: 4.0
   esper-blink:
     weight: 1.0
-    avg_copies: 3.91
+    avg_copies: 3.93
   orzhov-blink:
     weight: 1.0
     avg_copies: 4.0
@@ -92,7 +92,7 @@ archetypes:
     avg_copies: 3.0
   unknown-26:
     weight: 1.0
-    avg_copies: 3.88
+    avg_copies: 3.89
   unknown-48:
     weight: 1.0
     avg_copies: 4.0
@@ -106,7 +106,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-68:
-    weight: 0.1
+    weight: 0.0625
     avg_copies: 1.0
   unknown-70:
     weight: 0.3333
@@ -133,6 +133,15 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-89:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-106:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-108:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-110:
     weight: 1.0
     avg_copies: 4.0
 ---

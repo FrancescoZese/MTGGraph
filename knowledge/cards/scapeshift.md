@@ -7,10 +7,10 @@ name: Scapeshift
 scryfall_id: 175e21a3-00f7-4c51-8a8e-fbfd7089efda
 set: m19
 type: Sorcery
-meta_presence: 0.0331
+meta_presence: 0.0324
 archetypes:
   amulet-titan:
-    weight: 0.9796
+    weight: 0.98
     avg_copies: 3.45
   scapeshift-combo:
     weight: 0.1667

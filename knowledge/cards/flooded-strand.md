@@ -6,10 +6,10 @@ name: Flooded Strand
 scryfall_id: 8f85e12c-196b-4459-b81f-0c9c854e9f57
 set: mh3
 type: Land
-meta_presence: 0.357
+meta_presence: 0.3557
 archetypes:
   boros-energy:
-    weight: 0.8249
+    weight: 0.8231
     avg_copies: 3.51
   dimir-control:
     weight: 0.8765
@@ -18,7 +18,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.87
   goryo:
-    weight: 0.9808
+    weight: 0.9813
     avg_copies: 3.17
   azorius-control:
     weight: 1.0
@@ -30,11 +30,11 @@ archetypes:
     weight: 1.0
     avg_copies: 3.96
   affinity:
-    weight: 0.0278
+    weight: 0.0273
     avg_copies: 1.62
   domain-zoo:
     weight: 1.0
-    avg_copies: 3.88
+    avg_copies: 3.89
   mill:
     weight: 0.8333
     avg_copies: 3.0
@@ -45,32 +45,32 @@ archetypes:
     weight: 0.5778
     avg_copies: 1.15
   hammer-time:
-    weight: 0.8333
-    avg_copies: 2.4
+    weight: 0.75
+    avg_copies: 2.67
   kethis-combo:
     weight: 1.0
     avg_copies: 1.6
   simic-ritual:
-    weight: 0.0645
+    weight: 0.0635
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.007
+    weight: 0.0066
     avg_copies: 1.0
   4c-omnath:
     weight: 1.0
     avg_copies: 4.0
   esper-blink:
     weight: 1.0
-    avg_copies: 3.83
+    avg_copies: 3.85
   orzhov-blink:
-    weight: 0.5714
+    weight: 0.5
     avg_copies: 2.25
   bant-control:
     weight: 1.0
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.8966
-    avg_copies: 2.69
+    weight: 0.9062
+    avg_copies: 2.72
   izzet-artifacts:
     weight: 0.2667
     avg_copies: 1.0
@@ -78,8 +78,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   izzet-wizards:
-    weight: 0.8571
-    avg_copies: 2.33
+    weight: 0.8889
+    avg_copies: 2.12
   izzet-splinter-twin:
     weight: 0.5
     avg_copies: 1.0
@@ -121,7 +121,7 @@ archetypes:
     avg_copies: 4.0
   unknown-17:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 2.0
   unknown-22:
     weight: 1.0
     avg_copies: 4.0
@@ -135,8 +135,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9545
-    avg_copies: 3.05
+    weight: 0.9615
+    avg_copies: 3.12
   unknown-51:
     weight: 1.0
     avg_copies: 4.0
@@ -159,8 +159,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-68:
-    weight: 0.3
-    avg_copies: 1.67
+    weight: 0.5
+    avg_copies: 2.0
   unknown-70:
     weight: 1.0
     avg_copies: 4.0
@@ -174,7 +174,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-79:
-    weight: 1.0
+    weight: 0.8
     avg_copies: 4.0
   unknown-82:
     weight: 1.0
@@ -183,7 +183,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-85:
-    weight: 0.8333
+    weight: 0.8889
     avg_copies: 4.0
   unknown-84:
     weight: 1.0
@@ -206,4 +206,13 @@ archetypes:
   unknown-104:
     weight: 1.0
     avg_copies: 2.0
+  unknown-106:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-108:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-109:
+    weight: 1.0
+    avg_copies: 4.0
 ---

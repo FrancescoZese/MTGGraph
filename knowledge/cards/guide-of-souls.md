@@ -7,14 +7,17 @@ name: Guide of Souls
 scryfall_id: 76c3cad2-1e25-4abe-878d-9194de6fcc27
 set: mh3
 type: Creature — Human Cleric
-meta_presence: 0.169
+meta_presence: 0.1683
 archetypes:
   boros-energy:
     weight: 1.0
     avg_copies: 3.96
+  esper-blink:
+    weight: 0.0244
+    avg_copies: 4.0
   azorius-blink:
     weight: 1.0
-    avg_copies: 3.9
+    avg_copies: 3.91
   bant-ritual:
     weight: 1.0
     avg_copies: 4.0
@@ -43,6 +46,9 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-88:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-110:
     weight: 1.0
     avg_copies: 4.0
 ---

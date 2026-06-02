@@ -6,11 +6,11 @@ name: Marsh Flats
 scryfall_id: 9db3ba6d-eb7f-4f5b-9a3b-c6239c3baa42
 set: mh2
 type: Land
-meta_presence: 0.2559
+meta_presence: 0.2565
 archetypes:
   boros-energy:
-    weight: 0.9654
-    avg_copies: 3.34
+    weight: 0.966
+    avg_copies: 3.35
   dimir-control:
     weight: 0.3827
     avg_copies: 1.52
@@ -18,13 +18,13 @@ archetypes:
     weight: 0.0543
     avg_copies: 1.0
   goryo:
-    weight: 0.9904
-    avg_copies: 3.28
+    weight: 0.9907
+    avg_copies: 3.3
   necrodominance:
     weight: 0.1613
     avg_copies: 1.2
   azorius-control:
-    weight: 0.4286
+    weight: 0.4138
     avg_copies: 2.0
   reanimator:
     weight: 0.037
@@ -33,25 +33,25 @@ archetypes:
     weight: 1.0
     avg_copies: 2.7
   hammer-time:
-    weight: 0.8333
+    weight: 0.625
     avg_copies: 3.2
   hollow-one:
     weight: 0.25
     avg_copies: 1.71
   simic-ritual:
-    weight: 0.0161
+    weight: 0.0159
     avg_copies: 4.0
   esper-blink:
     weight: 1.0
-    avg_copies: 3.66
+    avg_copies: 3.71
   orzhov-blink:
     weight: 1.0
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.8276
-    avg_copies: 2.21
+    weight: 0.8438
+    avg_copies: 2.19
   rakdos-aggro:
-    weight: 0.0714
+    weight: 0.0667
     avg_copies: 4.0
   bant-ritual:
     weight: 1.0
@@ -99,8 +99,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9091
-    avg_copies: 1.9
+    weight: 0.9231
+    avg_copies: 1.92
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
@@ -115,7 +115,7 @@ archetypes:
     avg_copies: 1.0
   unknown-68:
     weight: 1.0
-    avg_copies: 3.8
+    avg_copies: 3.88
   unknown-69:
     weight: 1.0
     avg_copies: 1.0
@@ -138,9 +138,18 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 1.0
+    weight: 0.2
     avg_copies: 3.0
   unknown-105:
     weight: 1.0
     avg_copies: 1.0
+  unknown-106:
+    weight: 0.5
+    avg_copies: 1.0
+  unknown-108:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-110:
+    weight: 1.0
+    avg_copies: 3.0
 ---

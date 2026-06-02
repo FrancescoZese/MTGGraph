@@ -7,7 +7,7 @@ name: Legion Extruder
 scryfall_id: 5a077de0-1893-40d0-a499-ee2e6e2258f1
 set: big
 type: Artifact
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   unknown-98:
     weight: 1.0

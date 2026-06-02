@@ -2,19 +2,19 @@
 colors:
 - U
 name: Mono-Blue Tron
-meta_share: 0.0041
+meta_share: 0.0039
 list_count: 12
 top_cards:
 - name: Expedition Map
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Tower
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Power Plant
   weight: 1.0
   avg_copies: 4.0
-- name: Kozilek's Command
+- name: Urza's Tower
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Mine
@@ -98,13 +98,13 @@ top_cards:
 - name: Devourer of Destiny
   weight: 0.25
   avg_copies: 3.0
-- name: Relic of Progenitus
+- name: Unable to Scream
   weight: 0.25
   avg_copies: 2.33
 - name: Marrow Shards
   weight: 0.25
   avg_copies: 2.33
-- name: Unable to Scream
+- name: Relic of Progenitus
   weight: 0.25
   avg_copies: 2.33
 - name: Engineered Explosives
@@ -116,10 +116,10 @@ top_cards:
 - name: Hall of Storm Giants
   weight: 0.25
   avg_copies: 1.0
-- name: Karn, the Great Creator
+- name: Remand
   weight: 0.1667
   avg_copies: 4.0
-- name: Remand
+- name: Karn, the Great Creator
   weight: 0.1667
   avg_copies: 4.0
 - name: Nulldrifter
@@ -140,22 +140,7 @@ top_cards:
 - name: Wurmcoil Engine
   weight: 0.1667
   avg_copies: 1.0
-- name: Tormod's Crypt
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Snow-Covered Island
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Sundering Titan
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Oblivion Stone
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Ensnaring Bridge
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Soulless Jailer
   weight: 0.1667
   avg_copies: 1.0
 - name: Disruptor Flute
@@ -164,10 +149,25 @@ top_cards:
 - name: Oboro, Palace in the Clouds
   weight: 0.1667
   avg_copies: 1.0
-- name: Walking Ballista
+- name: Soulless Jailer
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Snow-Covered Island
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Tormod's Crypt
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Sundering Titan
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Ensnaring Bridge
   weight: 0.1667
   avg_copies: 1.0
 - name: Cityscape Leveler
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Walking Ballista
   weight: 0.1667
   avg_copies: 1.0
 - name: Strix Serenade
@@ -176,13 +176,13 @@ top_cards:
 - name: Omen of the Sea
   weight: 0.0833
   avg_copies: 3.0
+- name: Propaganda
+  weight: 0.0833
+  avg_copies: 2.0
 - name: All Is Dust
   weight: 0.0833
   avg_copies: 2.0
 - name: Sire of Seven Deaths
-  weight: 0.0833
-  avg_copies: 2.0
-- name: Propaganda
   weight: 0.0833
   avg_copies: 2.0
 - name: Change the Equation

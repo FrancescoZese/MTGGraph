@@ -16,10 +16,10 @@ archetypes:
     weight: 0.02
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0323
+    weight: 0.0317
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.007
+    weight: 0.0066
     avg_copies: 1.0
   unknown-63:
     weight: 1.0
@@ -28,7 +28,7 @@ archetypes:
     weight: 0.4091
     avg_copies: 1.89
   unknown-67:
-    weight: 0.3103
+    weight: 0.3125
     avg_copies: 1.0
   unknown-103:
     weight: 1.0

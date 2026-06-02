@@ -9,8 +9,8 @@ type: Enchantment Land — Urza's Saga
 meta_presence: 0.1913
 archetypes:
   eldrazi-tron:
-    weight: 0.0588
-    avg_copies: 1.14
+    weight: 0.0709
+    avg_copies: 1.22
   amulet-titan:
     weight: 1.0
     avg_copies: 4.0
@@ -22,13 +22,13 @@ archetypes:
     avg_copies: 3.88
   hammer-time:
     weight: 1.0
-    avg_copies: 3.83
+    avg_copies: 3.88
   kethis-combo:
     weight: 1.0
     avg_copies: 3.0
   broodscale-combo:
     weight: 1.0
-    avg_copies: 3.97
+    avg_copies: 3.94
   izzet-artifacts:
     weight: 1.0
     avg_copies: 3.57

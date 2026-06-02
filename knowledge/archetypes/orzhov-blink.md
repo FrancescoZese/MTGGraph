@@ -3,10 +3,13 @@ colors:
 - W
 - B
 name: Orzhov Blink
-meta_share: 0.0024
-list_count: 7
+meta_share: 0.0026
+list_count: 8
 top_cards:
 - name: Thoughtseize
+  weight: 1.0
+  avg_copies: 4.0
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
@@ -15,146 +18,155 @@ top_cards:
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Overlord of the Balemurk
-  weight: 1.0
-  avg_copies: 4.0
-- name: Witch Enchanter
-  weight: 1.0
-  avg_copies: 3.71
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 3.57
 - name: Phelia, Exuberant Shepherd
   weight: 1.0
-  avg_copies: 3.57
-- name: Flickerwisp
+  avg_copies: 3.62
+- name: Fatal Push
   weight: 1.0
-  avg_copies: 2.86
+  avg_copies: 3.62
+- name: Witch Enchanter
+  weight: 1.0
+  avg_copies: 3.5
 - name: Emperor of Bones
   weight: 1.0
-  avg_copies: 2.57
+  avg_copies: 2.62
 - name: Wrath of the Skies
   weight: 1.0
-  avg_copies: 2.5
-- name: Shadowy Backstreet
-  weight: 1.0
-  avg_copies: 2.14
+  avg_copies: 2.56
 - name: Plains
   weight: 1.0
-  avg_copies: 2.14
+  avg_copies: 2.12
+- name: Shadowy Backstreet
+  weight: 1.0
+  avg_copies: 2.12
 - name: Godless Shrine
   weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 2.12
 - name: Boggart Trawler
   weight: 1.0
-  avg_copies: 1.57
+  avg_copies: 1.62
 - name: Swamp
   weight: 1.0
-  avg_copies: 1.14
+  avg_copies: 1.25
 - name: Ephemerate
-  weight: 0.8571
+  weight: 0.875
   avg_copies: 3.0
-- name: Clarion Conqueror
-  weight: 0.8571
-  avg_copies: 2.17
+- name: Flickerwisp
+  weight: 0.875
+  avg_copies: 2.86
+- name: Orcish Bowmasters
+  weight: 0.75
+  avg_copies: 3.17
+- name: Arid Mesa
+  weight: 0.75
+  avg_copies: 2.5
 - name: High Noon
-  weight: 0.8571
+  weight: 0.75
+  avg_copies: 2.17
+- name: Clarion Conqueror
+  weight: 0.75
   avg_copies: 2.17
 - name: Bleachbone Verge
-  weight: 0.8571
+  weight: 0.75
   avg_copies: 1.67
-- name: Orcish Bowmasters
-  weight: 0.7143
-  avg_copies: 3.4
-- name: Arid Mesa
-  weight: 0.7143
-  avg_copies: 2.6
-- name: Ashiok, Dream Render
-  weight: 0.7143
-  avg_copies: 1.6
 - name: Ketramose, the New Dawn
-  weight: 0.5714
-  avg_copies: 3.0
+  weight: 0.625
+  avg_copies: 3.14
 - name: Relic of Progenitus
-  weight: 0.5714
-  avg_copies: 2.8
-- name: Flooded Strand
-  weight: 0.5714
-  avg_copies: 2.25
+  weight: 0.625
+  avg_copies: 3.0
 - name: Damping Sphere
-  weight: 0.5714
+  weight: 0.625
+  avg_copies: 2.2
+- name: Ashiok, Dream Render
+  weight: 0.625
+  avg_copies: 1.6
+- name: Flooded Strand
+  weight: 0.5
   avg_copies: 2.25
-- name: Dawnbringer Cleric
-  weight: 0.4286
-  avg_copies: 2.0
+- name: White Orchid Phantom
+  weight: 0.375
+  avg_copies: 3.67
 - name: Prismatic Ending
-  weight: 0.4286
+  weight: 0.375
   avg_copies: 2.0
 - name: Sheoldred's Edict
-  weight: 0.4286
+  weight: 0.375
+  avg_copies: 2.0
+- name: Dawnbringer Cleric
+  weight: 0.375
   avg_copies: 2.0
 - name: Vexing Bauble
-  weight: 0.4286
+  weight: 0.375
   avg_copies: 1.33
 - name: Surgical Extraction
-  weight: 0.4286
+  weight: 0.375
   avg_copies: 1.0
 - name: Grafdigger's Cage
-  weight: 0.4286
+  weight: 0.375
   avg_copies: 1.0
-- name: White Orchid Phantom
-  weight: 0.2857
-  avg_copies: 3.5
 - name: Sanctifier en-Vec
-  weight: 0.2857
+  weight: 0.25
   avg_copies: 2.0
 - name: Polluted Delta
-  weight: 0.2857
+  weight: 0.25
   avg_copies: 1.5
 - name: Sacred Foundry
-  weight: 0.2857
+  weight: 0.25
   avg_copies: 1.0
 - name: March of Otherworldly Light
-  weight: 0.2857
+  weight: 0.25
   avg_copies: 1.0
 - name: Orim's Chant
-  weight: 0.1429
+  weight: 0.125
   avg_copies: 4.0
+- name: Faerie Macabre
+  weight: 0.125
+  avg_copies: 3.0
 - name: Force of Despair
-  weight: 0.1429
+  weight: 0.125
+  avg_copies: 3.0
+- name: Deafening Silence
+  weight: 0.125
   avg_copies: 3.0
 - name: Windswept Heath
-  weight: 0.1429
+  weight: 0.125
+  avg_copies: 2.0
+- name: Bloodstained Mire
+  weight: 0.125
   avg_copies: 2.0
 - name: Duress
-  weight: 0.1429
+  weight: 0.125
+  avg_copies: 2.0
+- name: Troll of Khazad-dûm
+  weight: 0.125
   avg_copies: 2.0
 - name: End of the Hunt
-  weight: 0.1429
+  weight: 0.125
   avg_copies: 2.0
-- name: Erode
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Emptiness
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Eiganjo, Seat of the Empire
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Monumental Henge
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Vindicate
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Drannith Magistrate
-  weight: 0.1429
+  weight: 0.125
   avg_copies: 1.0
 - name: Raucous Theater
-  weight: 0.1429
+  weight: 0.125
+  avg_copies: 1.0
+- name: Emptiness
+  weight: 0.125
+  avg_copies: 1.0
+- name: Vindicate
+  weight: 0.125
+  avg_copies: 1.0
+- name: Monumental Henge
+  weight: 0.125
+  avg_copies: 1.0
+- name: Eiganjo, Seat of the Empire
+  weight: 0.125
+  avg_copies: 1.0
+- name: Erode
+  weight: 0.125
+  avg_copies: 1.0
+- name: Drannith Magistrate
+  weight: 0.125
   avg_copies: 1.0
 ---
 Midrange blink deck using Phelia and Ephemerate to generate value from Overlord of the Balemurk and Orcish Bowmasters.

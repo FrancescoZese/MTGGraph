@@ -9,6 +9,6 @@ type: Artifact
 meta_presence: 0.0003
 archetypes:
   izzet-wizards:
-    weight: 0.1429
+    weight: 0.1111
     avg_copies: 1.0
 ---

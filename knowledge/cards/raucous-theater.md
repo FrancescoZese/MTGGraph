@@ -9,19 +9,19 @@ type: Land — Swamp Mountain
 meta_presence: 0.0636
 archetypes:
   ruby-storm:
-    weight: 0.0638
+    weight: 0.0625
     avg_copies: 1.0
   necrodominance:
     weight: 0.0645
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0128
+    weight: 0.0123
     avg_copies: 1.0
   reanimator:
     weight: 0.8889
     avg_copies: 1.12
   burn:
-    weight: 0.25
+    weight: 0.2273
     avg_copies: 1.6
   mardu-blink:
     weight: 1.0
@@ -33,7 +33,7 @@ archetypes:
     weight: 0.4
     avg_copies: 1.0
   orzhov-blink:
-    weight: 0.1429
+    weight: 0.125
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
@@ -42,8 +42,8 @@ archetypes:
     weight: 0.25
     avg_copies: 2.0
   rakdos-aggro:
-    weight: 0.9286
-    avg_copies: 1.15
+    weight: 0.9333
+    avg_copies: 1.14
   goryo1:
     weight: 1.0
     avg_copies: 1.0
@@ -99,7 +99,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 1.0
+    weight: 0.2
     avg_copies: 1.0
   unknown-100:
     weight: 1.0
@@ -107,4 +107,7 @@ archetypes:
   unknown-101:
     weight: 1.0
     avg_copies: 2.0
+  unknown-110:
+    weight: 1.0
+    avg_copies: 1.0
 ---

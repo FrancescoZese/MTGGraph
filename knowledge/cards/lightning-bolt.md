@@ -7,14 +7,14 @@ name: Lightning Bolt
 scryfall_id: 77c6fa74-5543-42ac-9ead-0e890b188e99
 set: clu
 type: Instant
-meta_presence: 0.1467
+meta_presence: 0.1501
 archetypes:
   ruby-storm:
-    weight: 0.0745
+    weight: 0.0729
     avg_copies: 1.0
   boros-energy:
-    weight: 0.0829
-    avg_copies: 1.33
+    weight: 0.0884
+    avg_copies: 1.31
   dimir-control:
     weight: 0.0123
     avg_copies: 2.0
@@ -26,22 +26,22 @@ archetypes:
     avg_copies: 2.5
   domain-zoo:
     weight: 1.0
-    avg_copies: 3.96
+    avg_copies: 3.93
   reanimator:
     weight: 0.1111
     avg_copies: 2.33
   burn:
     weight: 1.0
-    avg_copies: 3.7
+    avg_copies: 3.73
   hollow-one:
     weight: 0.8214
     avg_copies: 3.21
   eldrazi-ramp:
-    weight: 0.2206
+    weight: 0.2113
     avg_copies: 1.28
   izzet-prowess:
     weight: 1.0
-    avg_copies: 3.94
+    avg_copies: 3.91
   indomitable-creativity:
     weight: 0.8
     avg_copies: 2.25
@@ -50,7 +50,7 @@ archetypes:
     avg_copies: 2.5
   izzet-wizards:
     weight: 1.0
-    avg_copies: 2.62
+    avg_copies: 2.3
   jund-saga:
     weight: 1.0
     avg_copies: 2.5
@@ -58,8 +58,8 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   rakdos-aggro:
-    weight: 0.9286
-    avg_copies: 3.85
+    weight: 0.9333
+    avg_copies: 3.86
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 2.5
@@ -70,7 +70,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 3.0
   goryo1:
-    weight: 0.0189
+    weight: 0.0169
     avg_copies: 1.0
   grixis-control:
     weight: 1.0
@@ -94,8 +94,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-11:
-    weight: 0.5
-    avg_copies: 1.5
+    weight: 0.6667
+    avg_copies: 1.67
   unknown-8:
     weight: 1.0
     avg_copies: 4.0
@@ -163,8 +163,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-96:
-    weight: 1.0
-    avg_copies: 4.0
+    weight: 0.6
+    avg_copies: 3.0
   unknown-98:
     weight: 1.0
     avg_copies: 4.0
@@ -175,6 +175,9 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-104:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-107:
     weight: 1.0
     avg_copies: 1.0
 ---

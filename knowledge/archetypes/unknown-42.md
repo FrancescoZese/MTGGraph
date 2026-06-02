@@ -2,7 +2,7 @@
 colors:
 - U
 name: 'Unknown #42'
-meta_share: 0.0024
+meta_share: 0.0023
 list_count: 7
 top_cards:
 - name: Island
@@ -20,16 +20,16 @@ top_cards:
 - name: Vodalian Hexcatcher
   weight: 1.0
   avg_copies: 3.57
-- name: Silvergill Mentor
+- name: Mutavault
+  weight: 1.0
+  avg_copies: 3.43
+- name: Aether Vial
   weight: 1.0
   avg_copies: 3.43
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 3.43
-- name: Mutavault
-  weight: 1.0
-  avg_copies: 3.43
-- name: Aether Vial
+- name: Silvergill Mentor
   weight: 1.0
   avg_copies: 3.43
 - name: Harbinger of the Seas
@@ -92,13 +92,13 @@ top_cards:
 - name: Mistcaller
   weight: 0.1429
   avg_copies: 3.0
-- name: Hurkyl's Recall
+- name: Glasspool Mimic
   weight: 0.1429
   avg_copies: 2.0
 - name: Spell Pierce
   weight: 0.1429
   avg_copies: 2.0
-- name: Glasspool Mimic
+- name: Hurkyl's Recall
   weight: 0.1429
   avg_copies: 2.0
 - name: Gloomlake Verge

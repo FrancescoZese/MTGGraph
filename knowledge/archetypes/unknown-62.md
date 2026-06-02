@@ -3,13 +3,13 @@ colors:
 - W
 - U
 name: 'Unknown #62'
-meta_share: 0.0051
+meta_share: 0.0049
 list_count: 15
 top_cards:
-- name: Guide of Souls
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Witch Enchanter
@@ -33,10 +33,10 @@ top_cards:
 - name: Ephemerate
   weight: 1.0
   avg_copies: 3.33
-- name: Hallowed Fountain
+- name: Starfield Shepherd
   weight: 1.0
   avg_copies: 3.27
-- name: Starfield Shepherd
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 3.27
 - name: Wrath of the Skies
@@ -90,19 +90,19 @@ top_cards:
 - name: Sanctifier en-Vec
   weight: 0.2
   avg_copies: 2.0
-- name: No More Lies
+- name: Deafening Silence
   weight: 0.2
   avg_copies: 1.67
-- name: Deafening Silence
+- name: No More Lies
   weight: 0.2
   avg_copies: 1.67
 - name: High Noon
   weight: 0.2
   avg_copies: 1.67
-- name: Clarion Conqueror
+- name: March of Otherworldly Light
   weight: 0.2
   avg_copies: 1.33
-- name: March of Otherworldly Light
+- name: Clarion Conqueror
   weight: 0.2
   avg_copies: 1.33
 - name: Surgical Extraction
@@ -126,58 +126,37 @@ top_cards:
 - name: Aang, Swift Savior
   weight: 0.1333
   avg_copies: 1.0
-- name: Ragavan, Nimble Pilferer
-  weight: 0.0667
-  avg_copies: 3.0
 - name: White Orchid Phantom
   weight: 0.0667
   avg_copies: 3.0
+- name: Ragavan, Nimble Pilferer
+  weight: 0.0667
+  avg_copies: 3.0
+- name: Windswept Heath
+  weight: 0.0667
+  avg_copies: 2.0
+- name: Galvanic Discharge
+  weight: 0.0667
+  avg_copies: 2.0
+- name: Obsidian Charmaw
+  weight: 0.0667
+  avg_copies: 2.0
 - name: Goblin Bombardment
   weight: 0.0667
   avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.0667
   avg_copies: 2.0
-- name: Windswept Heath
-  weight: 0.0667
-  avg_copies: 2.0
-- name: Obsidian Charmaw
-  weight: 0.0667
-  avg_copies: 2.0
-- name: Galvanic Discharge
-  weight: 0.0667
-  avg_copies: 2.0
 - name: Thraben Charm
   weight: 0.0667
   avg_copies: 1.5
-- name: Razorgrass Ambush
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Wear
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Orim's Chant
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Ranger-Captain of Eos
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Spell Snare
+- name: Haliya, Guided by Light
   weight: 0.0667
   avg_copies: 1.0
 - name: Elegant Parlor
   weight: 0.0667
   avg_copies: 1.0
-- name: Hydroelectric Specimen
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Ajani, Nacatl Pariah
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Aven Interrupter
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Meltdown
+- name: Wear
   weight: 0.0667
   avg_copies: 1.0
 - name: Flitterwing Nuisance
@@ -186,7 +165,28 @@ top_cards:
 - name: Celestial Purge
   weight: 0.0667
   avg_copies: 1.0
-- name: Haliya, Guided by Light
+- name: Hydroelectric Specimen
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Orim's Chant
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Aven Interrupter
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Ajani, Nacatl Pariah
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Razorgrass Ambush
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Spell Snare
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Ranger-Captain of Eos
   weight: 0.0667
   avg_copies: 1.0
 ---

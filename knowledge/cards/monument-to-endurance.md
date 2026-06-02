@@ -6,7 +6,7 @@ name: Monument to Endurance
 scryfall_id: d21433ba-0a14-42bc-ad0b-a4ef823a3295
 set: dft
 type: Artifact
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   unknown-58:
     weight: 1.0

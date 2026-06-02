@@ -4,7 +4,7 @@ colors:
 - R
 - G
 name: Cosmogoyf Fling
-meta_share: 0.0074
+meta_share: 0.0071
 list_count: 22
 top_cards:
 - name: Plunge into Darkness
@@ -112,10 +112,10 @@ top_cards:
 - name: Mosswort Bridge
   weight: 0.0909
   avg_copies: 1.5
-- name: Thrun, the Last Troll
+- name: Fling
   weight: 0.0909
   avg_copies: 1.0
-- name: Fling
+- name: Thrun, the Last Troll
   weight: 0.0909
   avg_copies: 1.0
 - name: Mana Confluence

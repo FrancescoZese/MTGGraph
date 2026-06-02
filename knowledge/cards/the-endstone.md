@@ -6,9 +6,9 @@ name: The Endstone
 scryfall_id: a451a459-18e0-4c53-a171-3e9da534ebf1
 set: eoe
 type: Legendary Artifact
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   eldrazi-tron:
-    weight: 0.0336
+    weight: 0.0315
     avg_copies: 1.0
 ---

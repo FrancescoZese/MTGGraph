@@ -6,13 +6,13 @@ name: Pendelhaven
 scryfall_id: acf85879-4d14-4d86-978c-b155c47b7dcd
 set: a25
 type: Legendary Land
-meta_presence: 0.002
+meta_presence: 0.0019
 archetypes:
   hardened-scales:
     weight: 0.75
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0161
+    weight: 0.0159
     avg_copies: 1.0
   unknown-102:
     weight: 1.0

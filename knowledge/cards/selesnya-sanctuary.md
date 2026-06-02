@@ -6,7 +6,7 @@ name: Selesnya Sanctuary
 scryfall_id: fdc53c6a-8e28-4314-9bcf-b31b6c6f56d7
 set: clu
 type: Land
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   unknown-76:
     weight: 0.5

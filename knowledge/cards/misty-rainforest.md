@@ -6,10 +6,10 @@ name: Misty Rainforest
 scryfall_id: 88231c0d-0cc8-44ec-bf95-81d1710ac141
 set: mh2
 type: Land
-meta_presence: 0.1504
+meta_presence: 0.1488
 archetypes:
   ruby-storm:
-    weight: 0.0213
+    weight: 0.0208
     avg_copies: 1.0
   dimir-control:
     weight: 0.3457
@@ -18,16 +18,16 @@ archetypes:
     weight: 0.0078
     avg_copies: 3.0
   goryo:
-    weight: 0.0192
+    weight: 0.0187
     avg_copies: 1.5
   azorius-control:
-    weight: 0.1071
+    weight: 0.1034
     avg_copies: 1.33
   living-end:
     weight: 1.0
     avg_copies: 3.72
   affinity:
-    weight: 0.0764
+    weight: 0.0751
     avg_copies: 1.86
   mill:
     weight: 0.3333
@@ -45,23 +45,23 @@ archetypes:
     weight: 0.3182
     avg_copies: 1.29
   eldrazi-ramp:
-    weight: 0.7647
+    weight: 0.7324
     avg_copies: 1.25
   simic-ritual:
-    weight: 0.9839
-    avg_copies: 3.67
+    weight: 0.9841
+    avg_copies: 3.68
   izzet-prowess:
-    weight: 0.0211
+    weight: 0.0197
     avg_copies: 2.0
   4c-omnath:
     weight: 0.75
     avg_copies: 3.67
   samwise-combo:
-    weight: 0.6471
-    avg_copies: 1.36
+    weight: 0.6757
+    avg_copies: 1.4
   broodscale-combo:
-    weight: 0.1628
-    avg_copies: 1.21
+    weight: 0.1515
+    avg_copies: 1.2
   bant-control:
     weight: 1.0
     avg_copies: 2.0
@@ -72,8 +72,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   izzet-wizards:
-    weight: 0.5714
-    avg_copies: 1.5
+    weight: 0.6667
+    avg_copies: 1.33
   mono-green-ramp:
     weight: 1.0
     avg_copies: 3.33
@@ -126,7 +126,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-47:
-    weight: 0.0909
+    weight: 0.0769
     avg_copies: 2.5
   unknown-59:
     weight: 1.0
@@ -139,7 +139,7 @@ archetypes:
     avg_copies: 3.91
   unknown-67:
     weight: 1.0
-    avg_copies: 3.86
+    avg_copies: 3.88
   unknown-73:
     weight: 1.0
     avg_copies: 4.0
@@ -148,7 +148,7 @@ archetypes:
     avg_copies: 1.0
   unknown-79:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.4
   unknown-94:
     weight: 1.0
     avg_copies: 2.0
