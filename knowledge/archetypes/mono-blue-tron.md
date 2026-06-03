@@ -2,10 +2,10 @@
 colors:
 - U
 name: Mono-Blue Tron
-meta_share: 0.0039
+meta_share: 0.0038
 list_count: 12
 top_cards:
-- name: Expedition Map
+- name: Urza's Tower
   weight: 1.0
   avg_copies: 4.0
 - name: Kozilek's Command
@@ -14,7 +14,7 @@ top_cards:
 - name: Urza's Power Plant
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Tower
+- name: Expedition Map
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Mine
@@ -116,10 +116,10 @@ top_cards:
 - name: Hall of Storm Giants
   weight: 0.25
   avg_copies: 1.0
-- name: Remand
+- name: Karn, the Great Creator
   weight: 0.1667
   avg_copies: 4.0
-- name: Karn, the Great Creator
+- name: Remand
   weight: 0.1667
   avg_copies: 4.0
 - name: Nulldrifter
@@ -134,37 +134,37 @@ top_cards:
 - name: Ugin's Binding
   weight: 0.1667
   avg_copies: 1.5
-- name: Liquimetal Coating
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Wurmcoil Engine
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Oblivion Stone
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Disruptor Flute
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Oboro, Palace in the Clouds
+- name: Sundering Titan
   weight: 0.1667
   avg_copies: 1.0
 - name: Soulless Jailer
   weight: 0.1667
   avg_copies: 1.0
+- name: Liquimetal Coating
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Oblivion Stone
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Snow-Covered Island
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Tormod's Crypt
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Sundering Titan
   weight: 0.1667
   avg_copies: 1.0
 - name: Ensnaring Bridge
   weight: 0.1667
   avg_copies: 1.0
 - name: Cityscape Leveler
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Oboro, Palace in the Clouds
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Wurmcoil Engine
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Tormod's Crypt
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Disruptor Flute
   weight: 0.1667
   avg_copies: 1.0
 - name: Walking Ballista
@@ -188,16 +188,16 @@ top_cards:
 - name: Change the Equation
   weight: 0.0833
   avg_copies: 2.0
-- name: Temporal Mastery
+- name: Boseiju, Who Shelters All
   weight: 0.0833
   avg_copies: 1.0
-- name: Talisman of Progress
+- name: Temporal Mastery
   weight: 0.0833
   avg_copies: 1.0
 - name: Vexing Bauble
   weight: 0.0833
   avg_copies: 1.0
-- name: Boseiju, Who Shelters All
+- name: Talisman of Progress
   weight: 0.0833
   avg_copies: 1.0
 ---

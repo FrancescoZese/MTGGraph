@@ -18,7 +18,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.02
   azorius-control:
-    weight: 0.6897
+    weight: 0.7097
     avg_copies: 1.0
   living-end:
     weight: 0.02
@@ -27,10 +27,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   affinity:
-    weight: 0.0751
+    weight: 0.0741
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.963
+    weight: 0.9512
     avg_copies: 1.0
   reanimator:
     weight: 0.0741
@@ -39,10 +39,10 @@ archetypes:
     weight: 0.0222
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0317
+    weight: 0.0312
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.9868
+    weight: 0.9869
     avg_copies: 1.01
   4c-omnath:
     weight: 0.5
@@ -69,7 +69,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   goryo1:
-    weight: 0.3898
+    weight: 0.4098
     avg_copies: 1.0
   grixis-control:
     weight: 1.0
@@ -179,4 +179,10 @@ archetypes:
   unknown-107:
     weight: 1.0
     avg_copies: 2.0
+  unknown-111:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-112:
+    weight: 1.0
+    avg_copies: 1.0
 ---

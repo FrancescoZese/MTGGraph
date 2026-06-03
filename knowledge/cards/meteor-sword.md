@@ -9,7 +9,7 @@ type: Artifact — Equipment
 meta_presence: 0.001
 archetypes:
   eldrazi-tron:
-    weight: 0.0079
+    weight: 0.0078
     avg_copies: 2.0
   unknown-74:
     weight: 1.0

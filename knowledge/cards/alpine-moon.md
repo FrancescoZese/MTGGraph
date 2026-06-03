@@ -10,9 +10,9 @@ type: Enchantment
 meta_presence: 0.0013
 archetypes:
   domain-zoo:
-    weight: 0.0123
+    weight: 0.0122
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0197
+    weight: 0.0196
     avg_copies: 1.67
 ---

@@ -4,22 +4,22 @@ colors:
 - R
 - G
 name: Cosmogoyf Fling
-meta_share: 0.0071
+meta_share: 0.007
 list_count: 22
 top_cards:
-- name: Plunge into Darkness
+- name: Thud
   weight: 1.0
   avg_copies: 4.0
-- name: Thud
+- name: Plunge into Darkness
   weight: 1.0
   avg_copies: 4.0
 - name: Spoils of the Vault
   weight: 1.0
   avg_copies: 3.91
-- name: Blackcleave Cliffs
+- name: Gemstone Caverns
   weight: 1.0
   avg_copies: 3.86
-- name: Gemstone Caverns
+- name: Blackcleave Cliffs
   weight: 1.0
   avg_copies: 3.86
 - name: Serum Powder
@@ -112,10 +112,10 @@ top_cards:
 - name: Mosswort Bridge
   weight: 0.0909
   avg_copies: 1.5
-- name: Fling
+- name: Thrun, the Last Troll
   weight: 0.0909
   avg_copies: 1.0
-- name: Thrun, the Last Troll
+- name: Fling
   weight: 0.0909
   avg_copies: 1.0
 - name: Mana Confluence
@@ -127,10 +127,10 @@ top_cards:
 - name: Mountain
   weight: 0.0455
   avg_copies: 1.0
-- name: Leyline of the Void
+- name: Kaheera, the Orphanguard
   weight: 0.0455
   avg_copies: 1.0
-- name: Kaheera, the Orphanguard
+- name: Leyline of the Void
   weight: 0.0455
   avg_copies: 1.0
 ---

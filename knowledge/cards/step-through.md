@@ -10,6 +10,6 @@ type: Sorcery
 meta_presence: 0.001
 archetypes:
   mono-blue-belcher:
-    weight: 0.0517
+    weight: 0.0508
     avg_copies: 1.0
 ---

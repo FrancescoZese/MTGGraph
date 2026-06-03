@@ -6,7 +6,7 @@ colors:
 - R
 - G
 name: Neoform Combo
-meta_share: 0.0146
+meta_share: 0.0144
 list_count: 45
 top_cards:
 - name: Eldritch Evolution
@@ -36,10 +36,10 @@ top_cards:
 - name: Breeding Pool
   weight: 0.9778
   avg_copies: 1.07
-- name: Griselbrand
+- name: Xenagos, God of Revels
   weight: 0.9778
   avg_copies: 1.0
-- name: Xenagos, God of Revels
+- name: Griselbrand
   weight: 0.9778
   avg_copies: 1.0
 - name: Pact of Negation
@@ -99,10 +99,10 @@ top_cards:
 - name: Wooded Foothills
   weight: 0.6667
   avg_copies: 1.0
-- name: Scalding Tarn
+- name: Polluted Delta
   weight: 0.6444
   avg_copies: 1.28
-- name: Polluted Delta
+- name: Scalding Tarn
   weight: 0.6444
   avg_copies: 1.28
 - name: Ice-Fang Coatl
@@ -147,31 +147,28 @@ top_cards:
 - name: Meticulous Archive
   weight: 0.0667
   avg_copies: 1.0
-- name: Invasion of Gobakhan
+- name: Gemstone Mine
   weight: 0.0444
   avg_copies: 4.0
 - name: Glittering Wish
   weight: 0.0444
   avg_copies: 4.0
-- name: Gemstone Mine
+- name: Invasion of Gobakhan
   weight: 0.0444
   avg_copies: 4.0
 - name: Thrun, the Last Troll
   weight: 0.0444
   avg_copies: 3.0
-- name: Nature's Chant
-  weight: 0.0444
-  avg_copies: 1.0
-- name: Lush Portico
-  weight: 0.0444
-  avg_copies: 1.0
 - name: Raph & Mikey, Troublemakers
   weight: 0.0444
   avg_copies: 1.0
 - name: Detention Sphere
   weight: 0.0444
   avg_copies: 1.0
-- name: Borborygmos Enraged
+- name: Nature's Chant
+  weight: 0.0444
+  avg_copies: 1.0
+- name: Lush Portico
   weight: 0.0444
   avg_copies: 1.0
 - name: Firespout
@@ -180,10 +177,10 @@ top_cards:
 - name: Stump Stomp
   weight: 0.0444
   avg_copies: 1.0
+- name: Borborygmos Enraged
+  weight: 0.0444
+  avg_copies: 1.0
 - name: Hexing Squelcher
-  weight: 0.0222
-  avg_copies: 4.0
-- name: Detect Intrusion
   weight: 0.0222
   avg_copies: 4.0
 - name: Geometer's Arthropod
@@ -192,46 +189,49 @@ top_cards:
 - name: Voice of Victory
   weight: 0.0222
   avg_copies: 4.0
-- name: Quandrix Charm
+- name: Detect Intrusion
   weight: 0.0222
-  avg_copies: 3.0
-- name: Rakshasa's Bargain
+  avg_copies: 4.0
+- name: Quandrix Charm
   weight: 0.0222
   avg_copies: 3.0
 - name: Abrupt Decay
   weight: 0.0222
   avg_copies: 3.0
-- name: Wan Shi Tong, Librarian
+- name: Rakshasa's Bargain
   weight: 0.0222
-  avg_copies: 1.0
-- name: Subtlety
-  weight: 0.0222
-  avg_copies: 1.0
+  avg_copies: 3.0
 - name: Undercity Sewers
-  weight: 0.0222
-  avg_copies: 1.0
-- name: Underground Mortuary
-  weight: 0.0222
-  avg_copies: 1.0
-- name: Stormkeld Vanguard
-  weight: 0.0222
-  avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 0.0222
-  avg_copies: 1.0
-- name: Temple Garden
-  weight: 0.0222
-  avg_copies: 1.0
-- name: Brainsurge
-  weight: 0.0222
-  avg_copies: 1.0
-- name: Thundering Falls
   weight: 0.0222
   avg_copies: 1.0
 - name: Commercial District
   weight: 0.0222
   avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.0222
+  avg_copies: 1.0
 - name: Force of Vigor
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Stormkeld Vanguard
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Subtlety
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Brainsurge
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Temple Garden
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Underground Mortuary
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Wan Shi Tong, Librarian
   weight: 0.0222
   avg_copies: 1.0
 ---

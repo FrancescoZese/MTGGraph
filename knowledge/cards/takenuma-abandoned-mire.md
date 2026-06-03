@@ -12,7 +12,7 @@ archetypes:
     weight: 0.0123
     avg_copies: 1.0
   necrodominance:
-    weight: 0.2581
+    weight: 0.2424
     avg_copies: 1.0
   unknown-78:
     weight: 1.0

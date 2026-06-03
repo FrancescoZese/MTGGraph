@@ -3,16 +3,16 @@ colors:
 - R
 - G
 name: Ruby Storm
-meta_share: 0.0311
+meta_share: 0.0307
 list_count: 96
 top_cards:
 - name: Manamorphose
   weight: 1.0
   avg_copies: 4.0
-- name: Pyretic Ritual
+- name: Desperate Ritual
   weight: 1.0
   avg_copies: 4.0
-- name: Desperate Ritual
+- name: Pyretic Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Wrenn's Resolve
@@ -174,13 +174,13 @@ top_cards:
 - name: Blood Moon
   weight: 0.0312
   avg_copies: 1.33
-- name: Alchemist's Gambit
-  weight: 0.0312
-  avg_copies: 1.0
 - name: Abrade
   weight: 0.0312
   avg_copies: 1.0
 - name: Fiery Islet
+  weight: 0.0312
+  avg_copies: 1.0
+- name: Alchemist's Gambit
   weight: 0.0312
   avg_copies: 1.0
 - name: Stormcatch Mentor
@@ -189,22 +189,22 @@ top_cards:
 - name: Nature's Claim
   weight: 0.0208
   avg_copies: 4.0
-- name: Spirebluff Canal
-  weight: 0.0208
-  avg_copies: 3.0
 - name: Stock Up
   weight: 0.0208
   avg_copies: 3.0
-- name: Static Prison
+- name: Spirebluff Canal
   weight: 0.0208
-  avg_copies: 2.5
+  avg_copies: 3.0
 - name: March of Reckless Joy
   weight: 0.0208
   avg_copies: 2.5
-- name: Escape to the Wilds
+- name: Static Prison
+  weight: 0.0208
+  avg_copies: 2.5
+- name: Soul-Guide Lantern
   weight: 0.0208
   avg_copies: 2.0
-- name: Soul-Guide Lantern
+- name: Escape to the Wilds
   weight: 0.0208
   avg_copies: 2.0
 - name: Pyroclasm
@@ -213,40 +213,34 @@ top_cards:
 - name: Veil of Summer
   weight: 0.0208
   avg_copies: 1.5
+- name: Flame Slash
+  weight: 0.0208
+  avg_copies: 1.0
+- name: Blood Crypt
+  weight: 0.0208
+  avg_copies: 1.0
+- name: Misty Rainforest
+  weight: 0.0208
+  avg_copies: 1.0
+- name: Baral, Chief of Compliance
+  weight: 0.0208
+  avg_copies: 1.0
+- name: Island
+  weight: 0.0208
+  avg_copies: 1.0
+- name: Pyromancer Ascension
+  weight: 0.0208
+  avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 0.0208
   avg_copies: 1.0
 - name: Shatterskull Smashing
   weight: 0.0208
   avg_copies: 1.0
-- name: Flame Slash
-  weight: 0.0208
-  avg_copies: 1.0
-- name: Pyromancer Ascension
-  weight: 0.0208
-  avg_copies: 1.0
-- name: Misty Rainforest
-  weight: 0.0208
-  avg_copies: 1.0
 - name: Lorehold Charm
   weight: 0.0208
   avg_copies: 1.0
-- name: Baral, Chief of Compliance
-  weight: 0.0208
-  avg_copies: 1.0
-- name: Blood Crypt
-  weight: 0.0208
-  avg_copies: 1.0
-- name: Island
-  weight: 0.0208
-  avg_copies: 1.0
-- name: Thoughtseize
-  weight: 0.0104
-  avg_copies: 2.0
 - name: Consign to Memory
-  weight: 0.0104
-  avg_copies: 2.0
-- name: Consider
   weight: 0.0104
   avg_copies: 2.0
 - name: Spell Snare
@@ -255,37 +249,43 @@ top_cards:
 - name: Remand
   weight: 0.0104
   avg_copies: 2.0
+- name: Consider
+  weight: 0.0104
+  avg_copies: 2.0
 - name: Goblin Anarchomancer
+  weight: 0.0104
+  avg_copies: 2.0
+- name: Thoughtseize
   weight: 0.0104
   avg_copies: 2.0
 - name: Pact of Negation
   weight: 0.0104
   avg_copies: 1.0
-- name: Rip Apart
+- name: Inquisition of Kozilek
   weight: 0.0104
   avg_copies: 1.0
-- name: Goblin Lore
+- name: Voice of Victory
   weight: 0.0104
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.0104
   avg_copies: 1.0
-- name: Fire
+- name: Urabrask
+  weight: 0.0104
+  avg_copies: 1.0
+- name: Goblin Lore
   weight: 0.0104
   avg_copies: 1.0
 - name: Blazing Firesinger
   weight: 0.0104
   avg_copies: 1.0
+- name: Rip Apart
+  weight: 0.0104
+  avg_copies: 1.0
+- name: Fire
+  weight: 0.0104
+  avg_copies: 1.0
 - name: card:lindblum-industrial-regency
-  weight: 0.0104
-  avg_copies: 1.0
-- name: Inquisition of Kozilek
-  weight: 0.0104
-  avg_copies: 1.0
-- name: Urabrask
-  weight: 0.0104
-  avg_copies: 1.0
-- name: Voice of Victory
   weight: 0.0104
   avg_copies: 1.0
 ---

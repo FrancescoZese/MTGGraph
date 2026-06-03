@@ -10,6 +10,6 @@ type: Sorcery
 meta_presence: 0.0003
 archetypes:
   goryo1:
-    weight: 0.0169
+    weight: 0.0164
     avg_copies: 2.0
 ---

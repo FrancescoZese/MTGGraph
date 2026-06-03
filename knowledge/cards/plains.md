@@ -9,16 +9,16 @@ type: Basic Land — Plains
 meta_presence: 0.3547
 archetypes:
   boros-energy:
-    weight: 0.9773
+    weight: 0.9775
     avg_copies: 1.78
   jeskai-energy:
     weight: 0.8605
     avg_copies: 1.61
   eldrazi-tron:
-    weight: 0.0079
+    weight: 0.0078
     avg_copies: 3.0
   goryo:
-    weight: 0.9813
+    weight: 0.9815
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
@@ -42,14 +42,14 @@ archetypes:
     weight: 1.0
     avg_copies: 2.5
   boros-ponza:
-    weight: 0.9794
-    avg_copies: 3.42
+    weight: 0.9796
+    avg_copies: 3.41
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
   esper-blink:
-    weight: 0.9512
-    avg_copies: 1.62
+    weight: 0.9524
+    avg_copies: 1.6
   indomitable-creativity:
     weight: 0.6
     avg_copies: 1.0
@@ -61,7 +61,7 @@ archetypes:
     avg_copies: 2.0
   azorius-blink:
     weight: 1.0
-    avg_copies: 2.34
+    avg_copies: 2.33
   esper-control:
     weight: 1.0
     avg_copies: 2.0
@@ -139,7 +139,7 @@ archetypes:
     avg_copies: 2.0
   unknown-68:
     weight: 1.0
-    avg_copies: 1.38
+    avg_copies: 1.35
   unknown-70:
     weight: 1.0
     avg_copies: 2.0
@@ -186,6 +186,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-110:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-113:
     weight: 1.0
     avg_copies: 1.0
 ---

@@ -8,7 +8,7 @@ name: Assassin's Trophy
 scryfall_id: aaf258fc-3ba4-4b83-bdbf-10a07e0b6c03
 set: soc
 type: Instant
-meta_presence: 0.0032
+meta_presence: 0.0035
 archetypes:
   yawgmoth-combo:
     weight: 0.0455
@@ -18,7 +18,7 @@ archetypes:
     avg_copies: 2.0
   goryo5:
     weight: 1.0
-    avg_copies: 2.33
+    avg_copies: 2.25
   unknown-4:
     weight: 1.0
     avg_copies: 1.0

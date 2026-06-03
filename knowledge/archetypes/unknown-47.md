@@ -3,13 +3,13 @@ colors:
 - U
 - B
 name: 'Unknown #47'
-meta_share: 0.0084
+meta_share: 0.0083
 list_count: 26
 top_cards:
-- name: Psychic Frog
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Polluted Delta
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Fatal Push
@@ -117,10 +117,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.1154
   avg_copies: 2.0
-- name: Bloodstained Mire
+- name: Stern Scolding
   weight: 0.1154
   avg_copies: 1.67
-- name: Stern Scolding
+- name: Bloodstained Mire
   weight: 0.1154
   avg_copies: 1.67
 - name: Chalice of the Void
@@ -147,13 +147,13 @@ top_cards:
 - name: The Meathook Massacre
   weight: 0.0769
   avg_copies: 1.5
+- name: Snow-Covered Island
+  weight: 0.0769
+  avg_copies: 1.0
 - name: Spell Pierce
   weight: 0.0769
   avg_copies: 1.0
 - name: Snow-Covered Swamp
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Snow-Covered Island
   weight: 0.0769
   avg_copies: 1.0
 - name: Pest Control
@@ -162,31 +162,31 @@ top_cards:
 - name: Void Mirror
   weight: 0.0385
   avg_copies: 2.0
-- name: Hallowed Fountain
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Waterlogged Teachings
+- name: Dreams of Steel and Oil
   weight: 0.0385
   avg_copies: 1.0
 - name: Strategic Betrayal
   weight: 0.0385
   avg_copies: 1.0
-- name: High Noon
-  weight: 0.0385
-  avg_copies: 1.0
 - name: Snapcaster Mage
   weight: 0.0385
   avg_copies: 1.0
-- name: Scalding Tarn
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Dreams of Steel and Oil
+- name: Hallowed Fountain
   weight: 0.0385
   avg_copies: 1.0
 - name: River of Tears
   weight: 0.0385
   avg_copies: 1.0
+- name: Scalding Tarn
+  weight: 0.0385
+  avg_copies: 1.0
 - name: Meticulous Archive
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Waterlogged Teachings
+  weight: 0.0385
+  avg_copies: 1.0
+- name: High Noon
   weight: 0.0385
   avg_copies: 1.0
 ---

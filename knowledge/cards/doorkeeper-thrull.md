@@ -10,7 +10,7 @@ type: Creature — Thrull
 meta_presence: 0.0217
 archetypes:
   domain-zoo:
-    weight: 0.8025
+    weight: 0.8049
     avg_copies: 3.81
   unknown-72:
     weight: 1.0

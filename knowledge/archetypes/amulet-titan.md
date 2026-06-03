@@ -2,25 +2,25 @@
 colors:
 - G
 name: Amulet Titan
-meta_share: 0.0324
+meta_share: 0.032
 list_count: 100
 top_cards:
-- name: Amulet of Vigor
+- name: Arboreal Grazer
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
-- name: Arboreal Grazer
+- name: Amulet of Vigor
   weight: 1.0
   avg_copies: 4.0
 - name: Spelunking
   weight: 1.0
   avg_copies: 3.89
-- name: Crumbling Vestige
+- name: Primeval Titan
   weight: 1.0
   avg_copies: 3.65
-- name: Primeval Titan
+- name: Crumbling Vestige
   weight: 1.0
   avg_copies: 3.65
 - name: Gruul Turf
@@ -155,40 +155,40 @@ top_cards:
 - name: Zuran Orb
   weight: 0.07
   avg_copies: 1.0
-- name: Outland Liberator
+- name: Cephalid Coliseum
   weight: 0.06
   avg_copies: 1.0
-- name: Cephalid Coliseum
+- name: Outland Liberator
   weight: 0.06
   avg_copies: 1.0
 - name: Golgari Rot Farm
   weight: 0.05
   avg_copies: 1.8
-- name: Wooded Foothills
+- name: Commercial District
   weight: 0.05
   avg_copies: 1.0
-- name: Commercial District
+- name: Wooded Foothills
   weight: 0.05
   avg_copies: 1.0
 - name: Engineered Explosives
   weight: 0.04
   avg_copies: 1.25
-- name: Hedge Maze
-  weight: 0.04
-  avg_copies: 1.0
 - name: Creeping Corrosion
   weight: 0.04
   avg_copies: 1.0
-- name: Windswept Heath
+- name: Hedge Maze
+  weight: 0.04
+  avg_copies: 1.0
+- name: Heritage Reclamation
   weight: 0.03
   avg_copies: 1.0
 - name: Pyroclasm
   weight: 0.03
   avg_copies: 1.0
-- name: Heritage Reclamation
+- name: Kessig Wolf Run
   weight: 0.03
   avg_copies: 1.0
-- name: Kessig Wolf Run
+- name: Windswept Heath
   weight: 0.03
   avg_copies: 1.0
 - name: Insidious Fungus
@@ -200,13 +200,13 @@ top_cards:
 - name: Endurance
   weight: 0.02
   avg_copies: 1.5
-- name: Cavern of Souls
+- name: Valakut, the Molten Pinnacle
   weight: 0.02
   avg_copies: 1.0
 - name: Hexdrinker
   weight: 0.02
   avg_copies: 1.0
-- name: Valakut, the Molten Pinnacle
+- name: Cavern of Souls
   weight: 0.02
   avg_copies: 1.0
 - name: Defense Grid
@@ -215,22 +215,22 @@ top_cards:
 - name: Dosan the Falling Leaf
   weight: 0.01
   avg_copies: 1.0
-- name: Ghost Quarter
-  weight: 0.01
-  avg_copies: 1.0
-- name: Formidable Speaker
-  weight: 0.01
-  avg_copies: 1.0
-- name: Titania, Protector of Argoth
+- name: Lithomantic Barrage
   weight: 0.01
   avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 0.01
   avg_copies: 1.0
-- name: Lithomantic Barrage
+- name: Formidable Speaker
+  weight: 0.01
+  avg_copies: 1.0
+- name: Ghost Quarter
   weight: 0.01
   avg_copies: 1.0
 - name: Gemstone Caverns
+  weight: 0.01
+  avg_copies: 1.0
+- name: Titania, Protector of Argoth
   weight: 0.01
   avg_copies: 1.0
 - name: Carnage Tyrant

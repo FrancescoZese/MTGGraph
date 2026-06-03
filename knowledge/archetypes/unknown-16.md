@@ -15,10 +15,10 @@ top_cards:
 - name: Orim's Chant
   weight: 1.0
   avg_copies: 4.0
-- name: Narset, Parter of Veils
+- name: Thundertrap Trainer
   weight: 1.0
   avg_copies: 4.0
-- name: Thundertrap Trainer
+- name: Narset, Parter of Veils
   weight: 1.0
   avg_copies: 4.0
 - name: Teferi, Time Raveler
@@ -42,19 +42,19 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 2.0
+- name: Day's Undoing
+  weight: 1.0
+  avg_copies: 2.0
 - name: Plains
   weight: 1.0
   avg_copies: 2.0
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 2.0
-- name: High Noon
-  weight: 1.0
-  avg_copies: 2.0
 - name: Island
   weight: 1.0
   avg_copies: 2.0
-- name: Day's Undoing
+- name: High Noon
   weight: 1.0
   avg_copies: 2.0
 - name: Hallowed Fountain
@@ -63,19 +63,19 @@ top_cards:
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
-- name: Supreme Verdict
-  weight: 1.0
-  avg_copies: 1.0
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Prismatic Ending
+- name: Supreme Verdict
+  weight: 1.0
+  avg_copies: 1.0
+- name: Suppression Ray
   weight: 0.6667
   avg_copies: 4.0
-- name: Suppression Ray
+- name: Prismatic Ending
   weight: 0.6667
   avg_copies: 4.0
 - name: Wear
@@ -93,25 +93,25 @@ top_cards:
 - name: Galvanic Discharge
   weight: 0.3333
   avg_copies: 4.0
-- name: Brought Back
-  weight: 0.3333
-  avg_copies: 2.0
 - name: Wrath of the Skies
   weight: 0.3333
   avg_copies: 2.0
+- name: Brought Back
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Thundering Falls
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Elegant Parlor
   weight: 0.3333
   avg_copies: 1.0
 - name: Geier Reach Sanitarium
   weight: 0.3333
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Monumental Henge
   weight: 0.3333
   avg_copies: 1.0
 - name: Isochron Scepter
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Monumental Henge
   weight: 0.3333
   avg_copies: 1.0
 ---

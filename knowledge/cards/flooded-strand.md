@@ -6,10 +6,10 @@ name: Flooded Strand
 scryfall_id: 8f85e12c-196b-4459-b81f-0c9c854e9f57
 set: mh3
 type: Land
-meta_presence: 0.3557
+meta_presence: 0.3556
 archetypes:
   boros-energy:
-    weight: 0.8231
+    weight: 0.8225
     avg_copies: 3.51
   dimir-control:
     weight: 0.8765
@@ -18,11 +18,11 @@ archetypes:
     weight: 1.0
     avg_copies: 3.87
   goryo:
-    weight: 0.9813
-    avg_copies: 3.17
+    weight: 0.9815
+    avg_copies: 3.18
   azorius-control:
     weight: 1.0
-    avg_copies: 3.79
+    avg_copies: 3.81
   living-end:
     weight: 0.1
     avg_copies: 1.2
@@ -30,10 +30,10 @@ archetypes:
     weight: 1.0
     avg_copies: 3.96
   affinity:
-    weight: 0.0273
+    weight: 0.0269
     avg_copies: 1.62
   domain-zoo:
-    weight: 1.0
+    weight: 0.9878
     avg_copies: 3.89
   mill:
     weight: 0.8333
@@ -51,17 +51,17 @@ archetypes:
     weight: 1.0
     avg_copies: 1.6
   simic-ritual:
-    weight: 0.0635
-    avg_copies: 1.0
+    weight: 0.0781
+    avg_copies: 1.2
   izzet-prowess:
-    weight: 0.0066
+    weight: 0.0065
     avg_copies: 1.0
   4c-omnath:
     weight: 1.0
     avg_copies: 4.0
   esper-blink:
     weight: 1.0
-    avg_copies: 3.85
+    avg_copies: 3.86
   orzhov-blink:
     weight: 0.5
     avg_copies: 2.25
@@ -69,8 +69,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.9062
-    avg_copies: 2.72
+    weight: 0.9091
+    avg_copies: 2.77
   izzet-artifacts:
     weight: 0.2667
     avg_copies: 1.0
@@ -121,7 +121,7 @@ archetypes:
     avg_copies: 4.0
   unknown-17:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.67
   unknown-22:
     weight: 1.0
     avg_copies: 4.0
@@ -159,7 +159,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-68:
-    weight: 0.5
+    weight: 0.4706
     avg_copies: 2.0
   unknown-70:
     weight: 1.0
@@ -215,4 +215,16 @@ archetypes:
   unknown-109:
     weight: 1.0
     avg_copies: 4.0
+  unknown-111:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-113:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-114:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-112:
+    weight: 1.0
+    avg_copies: 3.0
 ---

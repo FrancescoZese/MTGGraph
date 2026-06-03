@@ -10,6 +10,6 @@ type: Creature — Dragon
 meta_presence: 0.0003
 archetypes:
   boros-ponza:
-    weight: 0.0103
+    weight: 0.0102
     avg_copies: 1.0
 ---

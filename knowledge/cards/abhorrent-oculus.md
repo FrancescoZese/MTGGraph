@@ -19,13 +19,13 @@ archetypes:
     weight: 0.5778
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.9841
+    weight: 0.9844
     avg_copies: 3.84
   izzet-prowess:
-    weight: 0.0658
+    weight: 0.0654
     avg_copies: 1.3
   esper-blink:
-    weight: 0.0732
+    weight: 0.0714
     avg_copies: 2.0
   samwise-combo:
     weight: 0.5946
@@ -34,7 +34,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.9661
+    weight: 0.9672
     avg_copies: 3.98
   soultrader-combo:
     weight: 0.25

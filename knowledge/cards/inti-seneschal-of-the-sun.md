@@ -10,7 +10,7 @@ type: Legendary Creature — Human Knight
 meta_presence: 0.001
 archetypes:
   hollow-one:
-    weight: 0.0357
+    weight: 0.0345
     avg_copies: 2.0
   unknown-58:
     weight: 1.0

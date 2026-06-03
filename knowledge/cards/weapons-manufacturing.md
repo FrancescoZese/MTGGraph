@@ -10,7 +10,7 @@ type: Enchantment
 meta_presence: 0.0947
 archetypes:
   affinity:
-    weight: 0.9932
+    weight: 0.9933
     avg_copies: 3.74
   unknown-59:
     weight: 1.0

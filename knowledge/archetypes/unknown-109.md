@@ -4,46 +4,43 @@ colors:
 - U
 - R
 name: 'Unknown #109'
-meta_share: 0.0003
-list_count: 1
+meta_share: 0.0006
+list_count: 2
 top_cards:
-- name: Counterspell
-  weight: 1.0
-  avg_copies: 4.0
 - name: Galvanic Discharge
-  weight: 1.0
-  avg_copies: 4.0
-- name: Orim's Chant
-  weight: 1.0
-  avg_copies: 4.0
-- name: Narset, Parter of Veils
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Flow State
+- name: Lórien Revealed
+  weight: 1.0
+  avg_copies: 4.0
+- name: Narset, Parter of Veils
   weight: 1.0
   avg_copies: 4.0
 - name: Prismatic Ending
   weight: 1.0
   avg_copies: 4.0
-- name: Lórien Revealed
+- name: Orim's Chant
   weight: 1.0
   avg_copies: 4.0
-- name: Supreme Verdict
+- name: Flow State
   weight: 1.0
-  avg_copies: 2.0
-- name: Veil of Summer
+  avg_copies: 4.0
+- name: Counterspell
+  weight: 1.0
+  avg_copies: 4.0
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 2.0
 - name: Surgical Extraction
   weight: 1.0
   avg_copies: 2.0
-- name: Hallowed Fountain
+- name: Veil of Summer
   weight: 1.0
   avg_copies: 2.0
-- name: High Noon
+- name: Supreme Verdict
   weight: 1.0
   avg_copies: 2.0
 - name: Dovin's Veto
@@ -52,34 +49,25 @@ top_cards:
 - name: Day's Undoing
   weight: 1.0
   avg_copies: 2.0
+- name: Hallowed Fountain
+  weight: 1.0
+  avg_copies: 2.0
+- name: High Noon
+  weight: 1.0
+  avg_copies: 2.0
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.0
-- name: Scalding Tarn
-  weight: 1.0
-  avg_copies: 2.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Plains
-  weight: 1.0
-  avg_copies: 1.0
-- name: Breeding Pool
-  weight: 1.0
-  avg_copies: 1.0
-- name: Hall of Storm Giants
+- name: Mystic Gate
   weight: 1.0
   avg_copies: 1.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 1.0
-- name: Monumental Henge
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
-- name: Island
-  weight: 1.0
-  avg_copies: 1.0
-- name: The Wandering Emperor
+- name: Hall of Storm Giants
   weight: 1.0
   avg_copies: 1.0
 - name: Kaheera, the Orphanguard
@@ -88,16 +76,28 @@ top_cards:
 - name: Geier Reach Sanitarium
   weight: 1.0
   avg_copies: 1.0
-- name: Teferi, Time Raveler
-  weight: 1.0
-  avg_copies: 1.0
-- name: Mystic Gate
-  weight: 1.0
-  avg_copies: 1.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Thundering Falls
+  weight: 1.0
+  avg_copies: 1.0
+- name: The Wandering Emperor
+  weight: 1.0
+  avg_copies: 1.0
+- name: Island
+  weight: 1.0
+  avg_copies: 1.0
+- name: Monumental Henge
+  weight: 1.0
+  avg_copies: 1.0
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
+- name: Teferi, Time Raveler
+  weight: 1.0
+  avg_copies: 1.0
+- name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
 ---

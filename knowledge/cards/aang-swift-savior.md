@@ -10,7 +10,7 @@ type: Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar 
 meta_presence: 0.001
 archetypes:
   unknown-17:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 2.0
   unknown-62:
     weight: 0.1333

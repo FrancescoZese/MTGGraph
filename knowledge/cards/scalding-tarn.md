@@ -6,7 +6,7 @@ name: Scalding Tarn
 scryfall_id: 71e491c5-8c07-449b-b2f1-ffa052e6d311
 set: mh2
 type: Land
-meta_presence: 0.2438
+meta_presence: 0.2434
 archetypes:
   ruby-storm:
     weight: 0.9062
@@ -18,13 +18,13 @@ archetypes:
     weight: 0.9922
     avg_copies: 3.04
   azorius-control:
-    weight: 0.9655
-    avg_copies: 1.89
+    weight: 0.9677
+    avg_copies: 1.83
   jeskai-control:
     weight: 0.8929
     avg_copies: 3.12
   affinity:
-    weight: 0.0819
+    weight: 0.0808
     avg_copies: 1.96
   mill:
     weight: 0.4444
@@ -39,13 +39,13 @@ archetypes:
     weight: 0.6364
     avg_copies: 1.36
   hollow-one:
-    weight: 0.1071
+    weight: 0.1034
     avg_copies: 1.33
   simic-ritual:
-    weight: 0.0317
+    weight: 0.0312
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.8882
+    weight: 0.8889
     avg_copies: 2.54
   indomitable-creativity:
     weight: 0.9
@@ -156,7 +156,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.2188
+    weight: 0.2424
     avg_copies: 1.0
   unknown-70:
     weight: 1.0
@@ -210,6 +210,12 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-107:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-111:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-112:
     weight: 1.0
     avg_copies: 4.0
 ---

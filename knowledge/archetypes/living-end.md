@@ -4,16 +4,16 @@ colors:
 - B
 - G
 name: Living End
-meta_share: 0.0162
+meta_share: 0.016
 list_count: 50
 top_cards:
 - name: Endurance
   weight: 1.0
   avg_copies: 3.96
-- name: Subtlety
+- name: Shardless Agent
   weight: 1.0
   avg_copies: 3.94
-- name: Shardless Agent
+- name: Subtlety
   weight: 1.0
   avg_copies: 3.94
 - name: Force of Negation
@@ -34,10 +34,10 @@ top_cards:
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 1.48
-- name: Hedge Maze
+- name: Breeding Pool
   weight: 1.0
   avg_copies: 1.04
-- name: Breeding Pool
+- name: Hedge Maze
   weight: 1.0
   avg_copies: 1.04
 - name: Forest
@@ -178,10 +178,10 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 0.1
   avg_copies: 1.33
-- name: Flooded Strand
+- name: Drannith Magistrate
   weight: 0.1
   avg_copies: 1.2
-- name: Drannith Magistrate
+- name: Flooded Strand
   weight: 0.1
   avg_copies: 1.2
 - name: Titanoth Rex
@@ -208,10 +208,10 @@ top_cards:
 - name: High Noon
   weight: 0.04
   avg_copies: 1.0
-- name: Rough
+- name: Violent Outburst
   weight: 0.02
   avg_copies: 4.0
-- name: Violent Outburst
+- name: Rough
   weight: 0.02
   avg_copies: 4.0
 - name: Atraxa, Grand Unifier
@@ -220,7 +220,7 @@ top_cards:
 - name: Soulless Jailer
   weight: 0.02
   avg_copies: 2.0
-- name: Architects of Will
+- name: Ashiok, Dream Render
   weight: 0.02
   avg_copies: 2.0
 - name: Fulminator Mage
@@ -229,46 +229,46 @@ top_cards:
 - name: Fade from History
   weight: 0.02
   avg_copies: 2.0
-- name: Ashiok, Dream Render
+- name: Architects of Will
   weight: 0.02
   avg_copies: 2.0
-- name: Gloomlake Verge
-  weight: 0.02
-  avg_copies: 1.0
-- name: Skycoach Conductor
-  weight: 0.02
-  avg_copies: 1.0
-- name: Force of Despair
-  weight: 0.02
-  avg_copies: 1.0
-- name: Murderous Cut
-  weight: 0.02
-  avg_copies: 1.0
-- name: Undercity Informer
-  weight: 0.02
-  avg_copies: 1.0
-- name: Sunken Ruins
-  weight: 0.02
-  avg_copies: 1.0
-- name: Kataki, War's Wage
-  weight: 0.02
-  avg_copies: 1.0
-- name: Press the Enemy
-  weight: 0.02
-  avg_copies: 1.0
 - name: Brazen Borrower
-  weight: 0.02
-  avg_copies: 1.0
-- name: Brainsurge
-  weight: 0.02
-  avg_copies: 1.0
-- name: Collector Ouphe
   weight: 0.02
   avg_copies: 1.0
 - name: Thundering Falls
   weight: 0.02
   avg_copies: 1.0
+- name: Undercity Informer
+  weight: 0.02
+  avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 0.02
+  avg_copies: 1.0
+- name: Press the Enemy
+  weight: 0.02
+  avg_copies: 1.0
+- name: Skycoach Conductor
+  weight: 0.02
+  avg_copies: 1.0
+- name: Sunken Ruins
+  weight: 0.02
+  avg_copies: 1.0
+- name: Brainsurge
+  weight: 0.02
+  avg_copies: 1.0
+- name: Gloomlake Verge
+  weight: 0.02
+  avg_copies: 1.0
+- name: Force of Despair
+  weight: 0.02
+  avg_copies: 1.0
 - name: Gemstone Caverns
+  weight: 0.02
+  avg_copies: 1.0
+- name: Kataki, War's Wage
+  weight: 0.02
+  avg_copies: 1.0
+- name: Murderous Cut
   weight: 0.02
   avg_copies: 1.0
 ---

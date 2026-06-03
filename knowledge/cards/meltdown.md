@@ -13,8 +13,8 @@ archetypes:
     weight: 0.1146
     avg_copies: 1.36
   boros-energy:
-    weight: 0.0567
-    avg_copies: 1.2
+    weight: 0.0584
+    avg_copies: 1.19
   dimir-control:
     weight: 0.2716
     avg_copies: 2.5
@@ -22,13 +22,13 @@ archetypes:
     weight: 0.031
     avg_copies: 1.0
   necrodominance:
-    weight: 0.0645
+    weight: 0.0606
     avg_copies: 1.5
   jeskai-control:
     weight: 0.1429
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.037
+    weight: 0.0366
     avg_copies: 1.0
   mill:
     weight: 0.0556
@@ -40,19 +40,19 @@ archetypes:
     weight: 0.1818
     avg_copies: 1.75
   hollow-one:
-    weight: 0.9286
+    weight: 0.8966
     avg_copies: 2.19
   boros-ponza:
-    weight: 0.0412
+    weight: 0.0408
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.1127
+    weight: 0.1096
     avg_copies: 1.12
   simic-ritual:
-    weight: 0.0476
+    weight: 0.0469
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.9145
+    weight: 0.915
     avg_copies: 1.79
   indomitable-creativity:
     weight: 0.2
@@ -85,7 +85,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 2.0
   goryo1:
-    weight: 0.9831
+    weight: 0.9836
     avg_copies: 2.02
   grixis-control:
     weight: 1.0
@@ -142,7 +142,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-68:
-    weight: 0.25
+    weight: 0.2353
     avg_copies: 1.0
   unknown-71:
     weight: 1.0
@@ -169,6 +169,12 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-107:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-111:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-115:
     weight: 1.0
     avg_copies: 3.0
 ---

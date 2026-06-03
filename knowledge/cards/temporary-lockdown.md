@@ -10,7 +10,7 @@ type: Enchantment
 meta_presence: 0.0019
 archetypes:
   azorius-control:
-    weight: 0.1034
+    weight: 0.0968
     avg_copies: 1.8
   unknown-12:
     weight: 1.0

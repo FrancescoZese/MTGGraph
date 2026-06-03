@@ -18,16 +18,16 @@ archetypes:
     weight: 0.0222
     avg_copies: 1.0
   hollow-one:
-    weight: 0.0714
+    weight: 0.069
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.9155
+    weight: 0.9178
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.1
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.404
+    weight: 0.3922
     avg_copies: 1.0
   dredge:
     weight: 0.5
@@ -54,6 +54,6 @@ archetypes:
     weight: 0.1818
     avg_copies: 1.0
   unknown-67:
-    weight: 0.875
+    weight: 0.8788
     avg_copies: 1.0
 ---

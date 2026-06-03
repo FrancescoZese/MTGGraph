@@ -7,16 +7,16 @@ name: Break the Ice
 scryfall_id: 01ca9568-06b6-4c57-b1f6-8a74ec2a2b91
 set: mh2
 type: Sorcery
-meta_presence: 0.0331
+meta_presence: 0.0342
 archetypes:
   dimir-control:
     weight: 0.4321
     avg_copies: 2.8
   necrodominance:
-    weight: 0.9032
-    avg_copies: 3.68
+    weight: 0.9091
+    avg_copies: 3.7
   simic-ritual:
-    weight: 0.0159
+    weight: 0.0156
     avg_copies: 1.0
   rakdos-aggro:
     weight: 0.0667
@@ -24,6 +24,9 @@ archetypes:
   the-rock:
     weight: 0.5
     avg_copies: 3.0
+  goryo5:
+    weight: 0.25
+    avg_copies: 4.0
   soultrader-combo:
     weight: 0.25
     avg_copies: 1.0
@@ -40,14 +43,14 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-45:
-    weight: 0.9333
-    avg_copies: 1.36
+    weight: 0.9375
+    avg_copies: 1.33
   unknown-46:
     weight: 1.0
     avg_copies: 2.0
   unknown-52:
-    weight: 0.75
-    avg_copies: 1.67
+    weight: 0.8
+    avg_copies: 1.75
   unknown-57:
     weight: 1.0
     avg_copies: 1.0

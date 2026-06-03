@@ -12,8 +12,8 @@ archetypes:
     weight: 0.0208
     avg_copies: 2.0
   boros-energy:
-    weight: 0.0998
-    avg_copies: 1.14
+    weight: 0.1011
+    avg_copies: 1.13
   dimir-control:
     weight: 0.0247
     avg_copies: 1.0
@@ -21,7 +21,7 @@ archetypes:
     weight: 0.2248
     avg_copies: 1.55
   eldrazi-tron:
-    weight: 0.0157
+    weight: 0.0156
     avg_copies: 1.0
   amulet-titan:
     weight: 0.24
@@ -30,7 +30,7 @@ archetypes:
     weight: 0.0093
     avg_copies: 1.0
   azorius-control:
-    weight: 0.1034
+    weight: 0.0968
     avg_copies: 2.67
   jeskai-control:
     weight: 0.3929
@@ -42,25 +42,25 @@ archetypes:
     weight: 0.125
     avg_copies: 1.0
   hollow-one:
-    weight: 0.0714
+    weight: 0.069
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.0825
+    weight: 0.0816
     avg_copies: 1.88
   eldrazi-ramp:
-    weight: 0.1127
+    weight: 0.1233
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0159
+    weight: 0.0156
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0724
+    weight: 0.0719
     avg_copies: 1.09
   broodscale-combo:
-    weight: 0.8788
+    weight: 0.8725
     avg_copies: 1.12
   azorius-blink:
-    weight: 0.0625
+    weight: 0.0606
     avg_copies: 1.5
   izzet-artifacts:
     weight: 0.5333

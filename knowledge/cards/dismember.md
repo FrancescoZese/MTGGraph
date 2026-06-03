@@ -4,7 +4,7 @@ archetypes:
     weight: 0.0123
     avg_copies: 3.0
   eldrazi-tron:
-    weight: 0.9055
+    weight: 0.9062
     avg_copies: 1.88
   amulet-titan:
     weight: 0.98
@@ -22,17 +22,17 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   eldrazi-ramp:
-    weight: 0.1408
+    weight: 0.137
     avg_copies: 1.7
   simic-ritual:
-    weight: 0.4444
-    avg_copies: 1.69
+    weight: 0.4531
+    avg_copies: 1.7
   4c-omnath:
     weight: 0.25
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.6061
-    avg_copies: 2.05
+    weight: 0.6078
+    avg_copies: 2.04
   rakdos-aggro:
     weight: 0.1333
     avg_copies: 1.0
@@ -48,6 +48,9 @@ archetypes:
   unknown-42:
     weight: 0.7143
     avg_copies: 2.0
+  unknown-61:
+    weight: 0.1
+    avg_copies: 1.0
   unknown-55:
     weight: 1.0
     avg_copies: 1.0
@@ -55,7 +58,7 @@ archetypes:
     weight: 0.9091
     avg_copies: 1.14
   unknown-67:
-    weight: 0.2188
+    weight: 0.2121
     avg_copies: 1.71
   unknown-76:
     weight: 1.0
@@ -69,7 +72,7 @@ archetypes:
 cmc: 3
 colors: []
 image: https://cards.scryfall.io/normal/front/3/d/3d286cf6-3e16-4941-9326-1818b1e06d69.jpg?1562261132
-meta_presence: 0.1352
+meta_presence: 0.135
 name: Dismember
 scryfall_id: 3d286cf6-3e16-4941-9326-1818b1e06d69
 set: mm2

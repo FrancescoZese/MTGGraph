@@ -3,7 +3,7 @@ colors:
 - B
 - G
 name: Yawgmoth Combo
-meta_share: 0.0143
+meta_share: 0.0141
 list_count: 44
 top_cards:
 - name: Verdant Catacombs
@@ -150,25 +150,10 @@ top_cards:
 - name: Sephiroth, Fabled SOLDIER
   weight: 0.0455
   avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Essence Warden
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Sylvan Safekeeper
   weight: 0.0227
   avg_copies: 1.0
 - name: Crime
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Creeping Corrosion
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Sylvan Safekeeper
   weight: 0.0227
   avg_copies: 1.0
 - name: Vicious Rivalry
@@ -177,10 +162,25 @@ top_cards:
 - name: Spore Frog
   weight: 0.0227
   avg_copies: 1.0
-- name: Cankerbloom
+- name: Collector Ouphe
   weight: 0.0227
   avg_copies: 1.0
 - name: Shifting Woodland
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Cankerbloom
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Essence Warden
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Surgical Extraction
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Nurturing Peatland
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Creeping Corrosion
   weight: 0.0227
   avg_copies: 1.0
 ---

@@ -9,7 +9,7 @@ type: Instant
 meta_presence: 0.0029
 archetypes:
   broodscale-combo:
-    weight: 0.0707
+    weight: 0.0686
     avg_copies: 1.43
   unknown-11:
     weight: 0.6667

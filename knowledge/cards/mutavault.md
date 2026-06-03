@@ -6,7 +6,7 @@ name: Mutavault
 scryfall_id: 52cc2f10-142d-4e6a-984e-b25f566cc960
 set: clb
 type: Land
-meta_presence: 0.0026
+meta_presence: 0.0029
 archetypes:
   unknown-42:
     weight: 1.0
@@ -14,4 +14,7 @@ archetypes:
   unknown-65:
     weight: 0.0455
     avg_copies: 2.0
+  unknown-115:
+    weight: 1.0
+    avg_copies: 1.0
 ---

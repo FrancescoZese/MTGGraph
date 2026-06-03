@@ -5,7 +5,7 @@ colors:
 - B
 - G
 name: Samwise Combo
-meta_share: 0.012
+meta_share: 0.0118
 list_count: 37
 top_cards:
 - name: Gilded Goose
@@ -143,10 +143,10 @@ top_cards:
 - name: Ruthless Lawbringer
   weight: 0.2432
   avg_copies: 1.0
-- name: Dauthi Voidwalker
+- name: Soulless Jailer
   weight: 0.2162
   avg_copies: 1.0
-- name: Soulless Jailer
+- name: Dauthi Voidwalker
   weight: 0.2162
   avg_copies: 1.0
 - name: Marionette Apprentice
@@ -158,10 +158,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.1622
   avg_copies: 1.0
-- name: Swamp
+- name: Sephiroth, Fabled SOLDIER
   weight: 0.1622
   avg_copies: 1.0
-- name: Sephiroth, Fabled SOLDIER
+- name: Swamp
   weight: 0.1622
   avg_copies: 1.0
 - name: Eyetwitch
@@ -173,25 +173,25 @@ top_cards:
 - name: Abrupt Decay
   weight: 0.1351
   avg_copies: 1.67
-- name: Origin of Metalbending
-  weight: 0.1351
-  avg_copies: 1.0
-- name: Ruinous Waterbending
+- name: Phyrexian Tower
   weight: 0.1351
   avg_copies: 1.0
 - name: True Ancestry
   weight: 0.1351
   avg_copies: 1.0
-- name: Boggart Trawler
+- name: Decorum Dissertation
   weight: 0.1351
   avg_copies: 1.0
-- name: Phyrexian Tower
+- name: Ruinous Waterbending
+  weight: 0.1351
+  avg_copies: 1.0
+- name: Origin of Metalbending
   weight: 0.1351
   avg_copies: 1.0
 - name: Eidolon of Rhetoric
   weight: 0.1351
   avg_copies: 1.0
-- name: Decorum Dissertation
+- name: Boggart Trawler
   weight: 0.1351
   avg_copies: 1.0
 - name: Professor of Symbology
@@ -227,13 +227,13 @@ top_cards:
 - name: Assassin's Trophy
   weight: 0.0541
   avg_copies: 2.0
-- name: Moseo, Vein's New Dean
-  weight: 0.0541
-  avg_copies: 1.5
 - name: Path to Exile
   weight: 0.0541
   avg_copies: 1.5
 - name: Damping Sphere
+  weight: 0.0541
+  avg_copies: 1.5
+- name: Moseo, Vein's New Dean
   weight: 0.0541
   avg_copies: 1.5
 - name: Mistcaller
@@ -248,31 +248,25 @@ top_cards:
 - name: Delighted Halfling
   weight: 0.027
   avg_copies: 3.0
-- name: Green Sun's Zenith
+- name: Dewdrop Cure
   weight: 0.027
   avg_copies: 2.0
 - name: Fade from History
   weight: 0.027
   avg_copies: 2.0
-- name: Haliya, Guided by Light
-  weight: 0.027
-  avg_copies: 2.0
-- name: Dewdrop Cure
+- name: Green Sun's Zenith
   weight: 0.027
   avg_copies: 2.0
 - name: Professor Dellian Fel
   weight: 0.027
   avg_copies: 2.0
-- name: Enter the Avatar State
+- name: Haliya, Guided by Light
+  weight: 0.027
+  avg_copies: 2.0
+- name: Heroic Intervention
   weight: 0.027
   avg_copies: 1.0
-- name: Icetill Explorer
-  weight: 0.027
-  avg_copies: 1.0
-- name: Deafening Silence
-  weight: 0.027
-  avg_copies: 1.0
-- name: Mai, Scornful Striker
+- name: Veil of Summer
   weight: 0.027
   avg_copies: 1.0
 - name: Formidable Speaker
@@ -281,16 +275,22 @@ top_cards:
 - name: Renegade Rallier
   weight: 0.027
   avg_copies: 1.0
-- name: Veil of Summer
+- name: Deafening Silence
+  weight: 0.027
+  avg_copies: 1.0
+- name: Icetill Explorer
+  weight: 0.027
+  avg_copies: 1.0
+- name: Enter the Avatar State
+  weight: 0.027
+  avg_copies: 1.0
+- name: Boromir, Warden of the Tower
   weight: 0.027
   avg_copies: 1.0
 - name: Vraska, Golgari Queen
   weight: 0.027
   avg_copies: 1.0
-- name: Heroic Intervention
-  weight: 0.027
-  avg_copies: 1.0
-- name: Boromir, Warden of the Tower
+- name: Mai, Scornful Striker
   weight: 0.027
   avg_copies: 1.0
 ---
