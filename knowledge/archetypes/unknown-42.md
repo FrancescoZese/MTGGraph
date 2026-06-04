@@ -20,25 +20,25 @@ top_cards:
 - name: Vodalian Hexcatcher
   weight: 1.0
   avg_copies: 3.57
+- name: Silvergill Mentor
+  weight: 1.0
+  avg_copies: 3.43
+- name: Sink into Stupor
+  weight: 1.0
+  avg_copies: 3.43
 - name: Aether Vial
   weight: 1.0
   avg_copies: 3.43
 - name: Mutavault
   weight: 1.0
   avg_copies: 3.43
-- name: Sink into Stupor
-  weight: 1.0
-  avg_copies: 3.43
-- name: Silvergill Mentor
-  weight: 1.0
-  avg_copies: 3.43
-- name: Consign to Memory
-  weight: 1.0
-  avg_copies: 3.14
 - name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 3.14
 - name: Cavern of Souls
+  weight: 1.0
+  avg_copies: 3.14
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.14
 - name: Flare of Denial
@@ -95,16 +95,16 @@ top_cards:
 - name: Glasspool Mimic
   weight: 0.1429
   avg_copies: 2.0
-- name: Spell Pierce
-  weight: 0.1429
-  avg_copies: 2.0
 - name: Hurkyl's Recall
   weight: 0.1429
   avg_copies: 2.0
-- name: Oboro, Palace in the Clouds
+- name: Spell Pierce
+  weight: 0.1429
+  avg_copies: 2.0
+- name: Gloomlake Verge
   weight: 0.1429
   avg_copies: 1.0
-- name: Gloomlake Verge
+- name: Oboro, Palace in the Clouds
   weight: 0.1429
   avg_copies: 1.0
 ---

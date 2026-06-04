@@ -1,10 +1,10 @@
 ---
 archetypes:
   ruby-storm:
-    weight: 0.0104
+    weight: 0.0103
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.9556
+    weight: 0.9565
     avg_copies: 3.14
   cosmogoyf-fling:
     weight: 0.8636

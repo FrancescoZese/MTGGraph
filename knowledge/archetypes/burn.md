@@ -3,7 +3,7 @@ colors:
 - W
 - R
 name: Burn
-meta_share: 0.007
+meta_share: 0.0069
 list_count: 22
 top_cards:
 - name: Boltwave
@@ -24,10 +24,10 @@ top_cards:
 - name: Wooded Foothills
   weight: 1.0
   avg_copies: 1.55
-- name: Goblin Guide
+- name: Monastery Swiftspear
   weight: 0.9545
   avg_copies: 4.0
-- name: Monastery Swiftspear
+- name: Goblin Guide
   weight: 0.9545
   avg_copies: 4.0
 - name: Arid Mesa
@@ -144,55 +144,55 @@ top_cards:
 - name: Iridescent Vinelasher
   weight: 0.0455
   avg_copies: 4.0
-- name: Vexing Devil
-  weight: 0.0455
-  avg_copies: 4.0
 - name: Vexing Bauble
   weight: 0.0455
   avg_copies: 4.0
-- name: Containment Priest
+- name: Vexing Devil
   weight: 0.0455
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Magebane Lizard
   weight: 0.0455
   avg_copies: 3.0
+- name: Containment Priest
+  weight: 0.0455
+  avg_copies: 3.0
+- name: Relic of Progenitus
+  weight: 0.0455
+  avg_copies: 2.0
+- name: Blood Crypt
+  weight: 0.0455
+  avg_copies: 2.0
 - name: Tunnel Ignus
   weight: 0.0455
   avg_copies: 2.0
 - name: Nihil Spellbomb
   weight: 0.0455
   avg_copies: 2.0
-- name: Blood Crypt
-  weight: 0.0455
-  avg_copies: 2.0
-- name: Relic of Progenitus
-  weight: 0.0455
-  avg_copies: 2.0
-- name: Deafening Silence
-  weight: 0.0455
-  avg_copies: 1.0
 - name: Erode
   weight: 0.0455
   avg_copies: 1.0
 - name: Void Mirror
   weight: 0.0455
   avg_copies: 1.0
-- name: Blood Moon
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Ensnaring Bridge
+- name: Rakdos Charm
   weight: 0.0455
   avg_copies: 1.0
 - name: card:volcanic-fallout
   weight: 0.0455
   avg_copies: 1.0
-- name: Path to Exile
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Rakdos Charm
+- name: Deafening Silence
   weight: 0.0455
   avg_copies: 1.0
 - name: Rain of Gore
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Path to Exile
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Ensnaring Bridge
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Blood Moon
   weight: 0.0455
   avg_copies: 1.0
 ---

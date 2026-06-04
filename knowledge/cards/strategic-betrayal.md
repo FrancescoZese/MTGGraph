@@ -7,11 +7,14 @@ name: Strategic Betrayal
 scryfall_id: 95617742-548d-464a-bb89-a858ffa9018f
 set: tdm
 type: Sorcery
-meta_presence: 0.0074
+meta_presence: 0.0076
 archetypes:
   dimir-control:
     weight: 0.1852
     avg_copies: 1.06
+  samwise-combo:
+    weight: 0.0263
+    avg_copies: 1.0
   esper-midrange:
     weight: 1.0
     avg_copies: 1.0

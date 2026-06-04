@@ -11,7 +11,7 @@ type: Creature — Otter Wizard
 meta_presence: 0.0016
 archetypes:
   ruby-storm:
-    weight: 0.0208
+    weight: 0.0206
     avg_copies: 4.0
   unknown-11:
     weight: 1.0

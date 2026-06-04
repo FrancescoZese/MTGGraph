@@ -3,16 +3,16 @@ colors:
 - B
 - R
 name: Hollow One
-meta_share: 0.0093
+meta_share: 0.0092
 list_count: 29
 top_cards:
-- name: Faithless Looting
-  weight: 1.0
-  avg_copies: 4.0
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Hollow One
+  weight: 1.0
+  avg_copies: 4.0
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Detective's Phoenix
@@ -111,10 +111,10 @@ top_cards:
 - name: Marsh Flats
   weight: 0.2414
   avg_copies: 1.71
-- name: Polluted Delta
+- name: Murderous Cut
   weight: 0.1724
   avg_copies: 1.0
-- name: Murderous Cut
+- name: Polluted Delta
   weight: 0.1724
   avg_copies: 1.0
 - name: Tarfire
@@ -123,10 +123,10 @@ top_cards:
 - name: Liliana of the Veil
   weight: 0.1379
   avg_copies: 1.0
-- name: Vengevine
+- name: Blazing Rootwalla
   weight: 0.1034
   avg_copies: 4.0
-- name: Blazing Rootwalla
+- name: Vengevine
   weight: 0.1034
   avg_copies: 4.0
 - name: Leyline of the Void
@@ -144,64 +144,64 @@ top_cards:
 - name: Blackcleave Cliffs
   weight: 0.1034
   avg_copies: 1.0
-- name: Sheoldred's Edict
-  weight: 0.069
-  avg_copies: 2.0
 - name: Goblin Lore
   weight: 0.069
   avg_copies: 2.0
-- name: Blood Moon
+- name: Sheoldred's Edict
   weight: 0.069
-  avg_copies: 1.5
+  avg_copies: 2.0
 - name: Ox of Agonas
   weight: 0.069
   avg_copies: 1.5
-- name: Commercial District
+- name: Blood Moon
   weight: 0.069
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Soul-Guide Lantern
-  weight: 0.069
-  avg_copies: 1.0
-- name: Violent Urge
   weight: 0.069
   avg_copies: 1.0
 - name: Seal of Fire
   weight: 0.069
   avg_copies: 1.0
+- name: Violent Urge
+  weight: 0.069
+  avg_copies: 1.0
+- name: Commercial District
+  weight: 0.069
+  avg_copies: 1.0
 - name: Death's Shadow
   weight: 0.0345
   avg_copies: 4.0
-- name: Magus of the Moon
-  weight: 0.0345
-  avg_copies: 2.0
-- name: Cam and Farrik, Havoc Duo
-  weight: 0.0345
-  avg_copies: 2.0
-- name: Flameblade Adept
-  weight: 0.0345
-  avg_copies: 2.0
-- name: Inti, Seneschal of the Sun
-  weight: 0.0345
-  avg_copies: 2.0
-- name: Rough
-  weight: 0.0345
-  avg_copies: 2.0
-- name: Pyroclasm
+- name: Magebane Lizard
   weight: 0.0345
   avg_copies: 2.0
 - name: Ancient Grudge
   weight: 0.0345
   avg_copies: 2.0
-- name: Magebane Lizard
+- name: Rough
+  weight: 0.0345
+  avg_copies: 2.0
+- name: Cam and Farrik, Havoc Duo
+  weight: 0.0345
+  avg_copies: 2.0
+- name: Magus of the Moon
+  weight: 0.0345
+  avg_copies: 2.0
+- name: Flameblade Adept
+  weight: 0.0345
+  avg_copies: 2.0
+- name: Pyroclasm
+  weight: 0.0345
+  avg_copies: 2.0
+- name: Inti, Seneschal of the Sun
   weight: 0.0345
   avg_copies: 2.0
 - name: Shattering Spree
   weight: 0.0345
   avg_copies: 1.0
-- name: Overlord of the Balemurk
+- name: Barbarian Ring
   weight: 0.0345
   avg_copies: 1.0
-- name: Barbarian Ring
+- name: Overlord of the Balemurk
   weight: 0.0345
   avg_copies: 1.0
 ---

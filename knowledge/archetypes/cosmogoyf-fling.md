@@ -4,13 +4,13 @@ colors:
 - R
 - G
 name: Cosmogoyf Fling
-meta_share: 0.007
+meta_share: 0.0069
 list_count: 22
 top_cards:
-- name: Thud
+- name: Plunge into Darkness
   weight: 1.0
   avg_copies: 4.0
-- name: Plunge into Darkness
+- name: Thud
   weight: 1.0
   avg_copies: 4.0
 - name: Spoils of the Vault

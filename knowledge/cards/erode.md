@@ -10,13 +10,13 @@ type: Instant
 meta_presence: 0.0489
 archetypes:
   boros-energy:
-    weight: 0.0292
+    weight: 0.0289
     avg_copies: 1.12
   mono-blue-belcher:
     weight: 0.0169
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0323
+    weight: 0.0303
     avg_copies: 1.0
   mill:
     weight: 0.0556
@@ -28,13 +28,13 @@ archetypes:
     weight: 0.25
     avg_copies: 1.67
   boros-ponza:
-    weight: 0.7857
-    avg_copies: 3.71
+    weight: 0.7879
+    avg_copies: 3.72
   esper-blink:
-    weight: 0.1429
+    weight: 0.1364
     avg_copies: 1.56
   samwise-combo:
-    weight: 0.1351
+    weight: 0.1316
     avg_copies: 2.0
   orzhov-blink:
     weight: 0.125
@@ -67,8 +67,8 @@ archetypes:
     weight: 0.2
     avg_copies: 2.0
   unknown-26:
-    weight: 0.8889
-    avg_copies: 3.62
+    weight: 0.9
+    avg_copies: 3.67
   unknown-41:
     weight: 0.3333
     avg_copies: 1.0

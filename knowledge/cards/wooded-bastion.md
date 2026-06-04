@@ -6,7 +6,7 @@ name: Wooded Bastion
 scryfall_id: 36b591ec-0231-4b91-a132-eb3aedfdf8fa
 set: 2xm
 type: Land
-meta_presence: 0.001
+meta_presence: 0.0009
 archetypes:
   unknown-3:
     weight: 1.0

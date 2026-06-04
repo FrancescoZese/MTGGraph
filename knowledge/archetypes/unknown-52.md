@@ -6,16 +6,16 @@ name: 'Unknown #52'
 meta_share: 0.0016
 list_count: 5
 top_cards:
-- name: Shambling Ghast
+- name: Marionette Apprentice
   weight: 1.0
   avg_copies: 4.0
-- name: Verdant Catacombs
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Malevolent Rumble
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
-- name: Gravecrawler
+- name: Phyrexian Tower
   weight: 1.0
   avg_copies: 4.0
 - name: Warren Soultrader
@@ -24,28 +24,28 @@ top_cards:
 - name: Phoenix Fleet Airship
   weight: 1.0
   avg_copies: 4.0
-- name: Marionette Apprentice
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 4.0
-- name: Phyrexian Tower
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Shambling Ghast
   weight: 1.0
   avg_copies: 4.0
-- name: Flare of Malice
+- name: Gravecrawler
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Fatal Push
   weight: 1.0
   avg_copies: 3.0
 - name: Culling Ritual
+  weight: 1.0
+  avg_copies: 3.0
+- name: Flare of Malice
   weight: 1.0
   avg_copies: 3.0
 - name: Vexing Bauble
@@ -63,10 +63,10 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 1.2
-- name: Chthonian Nightmare
+- name: Shatter Assumptions
   weight: 1.0
   avg_copies: 1.0
-- name: Shatter Assumptions
+- name: Sephiroth, Fabled SOLDIER
   weight: 1.0
   avg_copies: 1.0
 - name: Swamp
@@ -78,7 +78,7 @@ top_cards:
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.0
-- name: Sephiroth, Fabled SOLDIER
+- name: Chthonian Nightmare
   weight: 1.0
   avg_copies: 1.0
 - name: Break the Ice
@@ -90,10 +90,10 @@ top_cards:
 - name: Graveyard Trespasser
   weight: 0.2
   avg_copies: 3.0
-- name: Polluted Delta
+- name: Cling to Dust
   weight: 0.2
   avg_copies: 1.0
-- name: Cling to Dust
+- name: Polluted Delta
   weight: 0.2
   avg_copies: 1.0
 ---

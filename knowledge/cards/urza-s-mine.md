@@ -9,8 +9,8 @@ type: Land — Urza's Mine
 meta_presence: 0.0448
 archetypes:
   eldrazi-tron:
-    weight: 0.9922
-    avg_copies: 3.94
+    weight: 0.9923
+    avg_copies: 3.95
   mono-blue-tron:
     weight: 1.0
     avg_copies: 3.83

@@ -7,7 +7,7 @@ name: Noble Hierarch
 scryfall_id: 400382a4-aea2-4827-b06a-1b0b3745908b
 set: 2xm
 type: Creature — Human Druid
-meta_presence: 0.001
+meta_presence: 0.0009
 archetypes:
   mono-green-stompy:
     weight: 1.0

@@ -6,7 +6,13 @@ name: 'Unknown #78'
 meta_share: 0.0003
 list_count: 1
 top_cards:
-- name: Break the Ice
+- name: Sheoldred, the Apocalypse
+  weight: 1.0
+  avg_copies: 4.0
+- name: Thoughtseize
+  weight: 1.0
+  avg_copies: 4.0
+- name: Relic of Progenitus
   weight: 1.0
   avg_copies: 4.0
 - name: Necrodominance
@@ -15,24 +21,24 @@ top_cards:
 - name: Boggart Trawler
   weight: 1.0
   avg_copies: 4.0
-- name: Soul Spike
-  weight: 1.0
-  avg_copies: 4.0
-- name: Relic of Progenitus
+- name: Break the Ice
   weight: 1.0
   avg_copies: 4.0
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 4.0
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
-- name: Sheoldred, the Apocalypse
+- name: Soul Spike
   weight: 1.0
   avg_copies: 4.0
+- name: Pest Control
+  weight: 1.0
+  avg_copies: 3.0
+- name: Drannith Magistrate
+  weight: 1.0
+  avg_copies: 3.0
 - name: Force of Despair
   weight: 1.0
   avg_copies: 3.0
@@ -42,46 +48,40 @@ top_cards:
 - name: Bleachbone Verge
   weight: 1.0
   avg_copies: 3.0
-- name: Drannith Magistrate
-  weight: 1.0
-  avg_copies: 3.0
-- name: Pest Control
-  weight: 1.0
-  avg_copies: 3.0
-- name: Verdant Catacombs
+- name: March of Wretched Sorrow
   weight: 1.0
   avg_copies: 2.0
 - name: Illness in the Ranks
   weight: 1.0
   avg_copies: 2.0
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 2.0
-- name: March of Wretched Sorrow
-  weight: 1.0
-  avg_copies: 2.0
-- name: Fracture
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 2.0
 - name: Fell the Profane
   weight: 1.0
   avg_copies: 2.0
+- name: Fracture
+  weight: 1.0
+  avg_copies: 2.0
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.0
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 2.0
+- name: Shadowy Backstreet
+  weight: 1.0
+  avg_copies: 1.0
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowy Backstreet
+- name: Damnation
   weight: 1.0
   avg_copies: 1.0
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Takenuma, Abandoned Mire
-  weight: 1.0
-  avg_copies: 1.0
-- name: Damnation
   weight: 1.0
   avg_copies: 1.0
 ---

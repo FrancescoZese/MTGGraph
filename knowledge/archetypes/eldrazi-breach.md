@@ -6,19 +6,19 @@ name: Eldrazi Breach
 meta_share: 0.0013
 list_count: 4
 top_cards:
-- name: Emrakul, the Aeons Torn
-  weight: 1.0
-  avg_copies: 4.0
 - name: Through the Breach
-  weight: 1.0
-  avg_copies: 4.0
-- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
 - name: Ugin's Labyrinth
+  weight: 1.0
+  avg_copies: 4.0
+- name: Emrakul, the Aeons Torn
+  weight: 1.0
+  avg_copies: 4.0
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Devourer of Destiny
@@ -51,16 +51,16 @@ top_cards:
 - name: Disruptor Flute
   weight: 0.75
   avg_copies: 2.33
-- name: Shivan Reef
-  weight: 0.75
-  avg_copies: 2.0
 - name: Island
   weight: 0.75
   avg_copies: 2.0
-- name: Kozilek's Return
+- name: Shivan Reef
+  weight: 0.75
+  avg_copies: 2.0
+- name: Steam Vents
   weight: 0.75
   avg_copies: 1.67
-- name: Steam Vents
+- name: Kozilek's Return
   weight: 0.75
   avg_copies: 1.67
 - name: Vexing Bauble
@@ -75,16 +75,16 @@ top_cards:
 - name: Yggdrasil, Rebirth Engine
   weight: 0.5
   avg_copies: 3.0
-- name: Soulless Jailer
+- name: Lightning Bolt
   weight: 0.5
   avg_copies: 2.0
-- name: Lightning Bolt
+- name: Soulless Jailer
   weight: 0.5
   avg_copies: 2.0
 - name: Spell Snare
   weight: 0.5
   avg_copies: 1.5
-- name: Polluted Delta
+- name: Sink into Stupor
   weight: 0.5
   avg_copies: 1.0
 - name: Thundering Falls
@@ -93,22 +93,22 @@ top_cards:
 - name: Dress Down
   weight: 0.5
   avg_copies: 1.0
-- name: Sink into Stupor
+- name: Polluted Delta
   weight: 0.5
   avg_copies: 1.0
-- name: Talisman of Indulgence
-  weight: 0.25
-  avg_copies: 4.0
-- name: Bloodstained Mire
-  weight: 0.25
-  avg_copies: 4.0
-- name: Faithless Looting
+- name: Thoughtseize
   weight: 0.25
   avg_copies: 4.0
 - name: Goryo's Vengeance
   weight: 0.25
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Faithless Looting
+  weight: 0.25
+  avg_copies: 4.0
+- name: Bloodstained Mire
+  weight: 0.25
+  avg_copies: 4.0
+- name: Talisman of Indulgence
   weight: 0.25
   avg_copies: 4.0
 - name: Trinisphere
@@ -117,31 +117,31 @@ top_cards:
 - name: Fire Magic
   weight: 0.25
   avg_copies: 3.0
-- name: Fable of the Mirror-Breaker
-  weight: 0.25
-  avg_copies: 2.0
-- name: Meltdown
+- name: Remand
   weight: 0.25
   avg_copies: 2.0
 - name: Void Mirror
   weight: 0.25
   avg_copies: 2.0
-- name: Blood Crypt
-  weight: 0.25
-  avg_copies: 2.0
-- name: Ashiok, Dream Render
-  weight: 0.25
-  avg_copies: 2.0
-- name: Raucous Theater
-  weight: 0.25
-  avg_copies: 2.0
 - name: Unholy Heat
+  weight: 0.25
+  avg_copies: 2.0
+- name: Meltdown
   weight: 0.25
   avg_copies: 2.0
 - name: Talisman of Curiosity
   weight: 0.25
   avg_copies: 2.0
-- name: Remand
+- name: Blood Crypt
+  weight: 0.25
+  avg_copies: 2.0
+- name: Raucous Theater
+  weight: 0.25
+  avg_copies: 2.0
+- name: Ashiok, Dream Render
+  weight: 0.25
+  avg_copies: 2.0
+- name: Fable of the Mirror-Breaker
   weight: 0.25
   avg_copies: 2.0
 - name: Boseiju, Who Shelters All

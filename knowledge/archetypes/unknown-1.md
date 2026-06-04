@@ -6,49 +6,55 @@ name: 'Unknown #1'
 meta_share: 0.0013
 list_count: 4
 top_cards:
-- name: Bloodghast
-  weight: 1.0
-  avg_copies: 4.0
-- name: Archon of Cruelty
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flare of Malice
-  weight: 1.0
-  avg_copies: 4.0
 - name: Stitcher's Supplier
+  weight: 1.0
+  avg_copies: 4.0
+- name: Bloodghast
   weight: 1.0
   avg_copies: 4.0
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
+- name: Archon of Cruelty
+  weight: 1.0
+  avg_copies: 4.0
 - name: Vexing Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flare of Malice
   weight: 1.0
   avg_copies: 4.0
 - name: Persist
   weight: 1.0
   avg_copies: 3.75
-- name: Obsidian Charmaw
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.0
-- name: Rakdos Charm
+- name: Obsidian Charmaw
   weight: 1.0
   avg_copies: 3.0
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 3.0
-- name: Orcish Bowmasters
+- name: Rakdos Charm
   weight: 1.0
   avg_copies: 3.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 2.25
-- name: Extract the Truth
+- name: Raucous Theater
+  weight: 1.0
+  avg_copies: 2.0
+- name: Brotherhood's End
+  weight: 1.0
+  avg_copies: 2.0
+- name: Mountain
   weight: 1.0
   avg_copies: 2.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 2.0
-- name: Brotherhood's End
+- name: Extract the Truth
   weight: 1.0
   avg_copies: 2.0
 - name: Village Rites
@@ -60,25 +66,19 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 2.0
-- name: Spymaster's Vault
-  weight: 1.0
-  avg_copies: 2.0
 - name: Fatal Push
   weight: 1.0
   avg_copies: 2.0
-- name: Raucous Theater
+- name: Spymaster's Vault
   weight: 1.0
   avg_copies: 2.0
-- name: Mountain
+- name: Den of the Bugbear
   weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 1.0
 - name: Wooded Foothills
   weight: 1.0
   avg_copies: 1.0
 - name: End the Festivities
-  weight: 1.0
-  avg_copies: 1.0
-- name: Den of the Bugbear
   weight: 1.0
   avg_copies: 1.0
 - name: Bloodstained Mire

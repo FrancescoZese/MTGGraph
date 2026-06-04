@@ -9,13 +9,13 @@ type: Basic Land — Forest
 meta_presence: 0.1938
 archetypes:
   eldrazi-tron:
-    weight: 0.2188
+    weight: 0.2154
     avg_copies: 1.17
   amulet-titan:
     weight: 1.0
-    avg_copies: 2.72
+    avg_copies: 2.69
   goryo:
-    weight: 0.0185
+    weight: 0.0182
     avg_copies: 1.5
   hardened-scales:
     weight: 1.0
@@ -24,14 +24,14 @@ archetypes:
     weight: 1.0
     avg_copies: 1.02
   neoform-combo:
-    weight: 0.1111
+    weight: 0.1304
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 1.66
   eldrazi-ramp:
     weight: 1.0
-    avg_copies: 2.71
+    avg_copies: 2.73
   simic-ritual:
     weight: 0.0156
     avg_copies: 2.0
@@ -43,7 +43,7 @@ archetypes:
     avg_copies: 1.05
   broodscale-combo:
     weight: 1.0
-    avg_copies: 2.94
+    avg_copies: 2.96
   elves:
     weight: 1.0
     avg_copies: 3.0
@@ -78,7 +78,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-6:
-    weight: 0.6667
+    weight: 0.75
     avg_copies: 1.0
   unknown-9:
     weight: 1.0

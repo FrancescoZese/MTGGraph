@@ -10,6 +10,6 @@ type: Creature — Leviathan
 meta_presence: 0.0003
 archetypes:
   affinity:
-    weight: 0.0034
+    weight: 0.0033
     avg_copies: 1.0
 ---

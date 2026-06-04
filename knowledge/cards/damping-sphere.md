@@ -6,11 +6,11 @@ name: Damping Sphere
 scryfall_id: 550860b4-887d-423a-8add-816c2a8da615
 set: dmr
 type: Artifact
-meta_presence: 0.3064
+meta_presence: 0.3062
 archetypes:
   boros-energy:
-    weight: 0.3348
-    avg_copies: 1.44
+    weight: 0.3333
+    avg_copies: 1.43
   dimir-control:
     weight: 0.1728
     avg_copies: 1.14
@@ -18,16 +18,16 @@ archetypes:
     weight: 0.4186
     avg_copies: 1.44
   eldrazi-tron:
-    weight: 0.0156
+    weight: 0.0154
     avg_copies: 1.0
   goryo:
-    weight: 0.1481
-    avg_copies: 1.69
+    weight: 0.1545
+    avg_copies: 1.71
   hardened-scales:
     weight: 1.0
     avg_copies: 3.0
   necrodominance:
-    weight: 0.7576
+    weight: 0.7647
     avg_copies: 2.08
   living-end:
     weight: 0.58
@@ -36,8 +36,8 @@ archetypes:
     weight: 0.25
     avg_copies: 1.71
   affinity:
-    weight: 0.936
-    avg_copies: 2.42
+    weight: 0.9369
+    avg_copies: 2.41
   domain-zoo:
     weight: 0.8049
     avg_copies: 1.65
@@ -60,13 +60,13 @@ archetypes:
     weight: 0.8621
     avg_copies: 2.32
   boros-ponza:
-    weight: 0.0102
+    weight: 0.0101
     avg_copies: 2.0
   yawgmoth-combo:
     weight: 0.1591
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0411
+    weight: 0.0405
     avg_copies: 1.0
   simic-ritual:
     weight: 0.1562
@@ -75,14 +75,14 @@ archetypes:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.7381
-    avg_copies: 2.55
+    weight: 0.7273
+    avg_copies: 2.53
   samwise-combo:
-    weight: 0.0541
+    weight: 0.0526
     avg_copies: 1.5
   broodscale-combo:
-    weight: 0.3824
-    avg_copies: 1.74
+    weight: 0.3883
+    avg_copies: 1.73
   orzhov-blink:
     weight: 0.625
     avg_copies: 2.2
@@ -126,7 +126,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.8525
+    weight: 0.8571
     avg_copies: 1.96
   goryo4:
     weight: 0.8333
@@ -198,7 +198,7 @@ archetypes:
     weight: 0.0667
     avg_copies: 2.0
   unknown-68:
-    weight: 0.2353
+    weight: 0.2222
     avg_copies: 1.75
   unknown-72:
     weight: 1.0

@@ -7,10 +7,10 @@ name: Consign to Memory
 scryfall_id: bc95af55-d1dd-4fe6-adb0-3ad6db20d986
 set: mh3
 type: Instant
-meta_presence: 0.4595
+meta_presence: 0.4605
 archetypes:
   ruby-storm:
-    weight: 0.0104
+    weight: 0.0103
     avg_copies: 2.0
   boros-energy:
     weight: 0.0022
@@ -25,19 +25,19 @@ archetypes:
     weight: 0.9845
     avg_copies: 3.79
   goryo:
-    weight: 0.9815
-    avg_copies: 3.06
+    weight: 0.9818
+    avg_copies: 3.05
   necrodominance:
-    weight: 0.0606
+    weight: 0.0588
     avg_copies: 3.5
   azorius-control:
     weight: 1.0
-    avg_copies: 3.81
+    avg_copies: 3.82
   jeskai-control:
     weight: 1.0
     avg_copies: 3.53
   affinity:
-    weight: 0.9226
+    weight: 0.9236
     avg_copies: 2.37
   domain-zoo:
     weight: 0.939
@@ -49,8 +49,8 @@ archetypes:
     weight: 0.8519
     avg_copies: 2.87
   neoform-combo:
-    weight: 0.9333
-    avg_copies: 3.57
+    weight: 0.9348
+    avg_copies: 3.58
   mono-blue-tron:
     weight: 1.0
     avg_copies: 3.14
@@ -61,20 +61,20 @@ archetypes:
     weight: 0.8
     avg_copies: 2.75
   eldrazi-ramp:
-    weight: 0.0685
+    weight: 0.0676
     avg_copies: 2.6
   simic-ritual:
     weight: 0.8125
     avg_copies: 2.96
   izzet-prowess:
-    weight: 0.9739
-    avg_copies: 3.3
+    weight: 0.9745
+    avg_copies: 3.31
   4c-omnath:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.881
-    avg_copies: 2.53
+    weight: 0.8864
+    avg_copies: 2.57
   indomitable-creativity:
     weight: 0.7
     avg_copies: 3.71
@@ -109,8 +109,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   goryo1:
-    weight: 0.9836
-    avg_copies: 3.02
+    weight: 0.9841
+    avg_copies: 3.05
   goryo7:
     weight: 1.0
     avg_copies: 2.0
@@ -143,7 +143,7 @@ archetypes:
     avg_copies: 4.0
   unknown-6:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.25
   unknown-9:
     weight: 1.0
     avg_copies: 4.0
@@ -312,4 +312,7 @@ archetypes:
   unknown-112:
     weight: 1.0
     avg_copies: 2.0
+  unknown-116:
+    weight: 1.0
+    avg_copies: 3.0
 ---

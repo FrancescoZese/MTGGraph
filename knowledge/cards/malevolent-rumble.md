@@ -10,8 +10,8 @@ type: Sorcery
 meta_presence: 0.1174
 archetypes:
   amulet-titan:
-    weight: 0.66
-    avg_copies: 2.8
+    weight: 0.6667
+    avg_copies: 2.81
   hardened-scales:
     weight: 0.75
     avg_copies: 3.0
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.0156
     avg_copies: 4.0
   samwise-combo:
-    weight: 0.7838
+    weight: 0.7632
     avg_copies: 2.52
   broodscale-combo:
     weight: 1.0

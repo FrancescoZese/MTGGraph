@@ -8,13 +8,13 @@ name: Traumatic Critique
 scryfall_id: 2a812fa7-4599-4e25-97db-20ffc6bc0b26
 set: sos
 type: Instant
-meta_presence: 0.0042
+meta_presence: 0.0041
 archetypes:
   jeskai-control:
     weight: 0.0714
     avg_copies: 1.5
   izzet-prowess:
-    weight: 0.0065
+    weight: 0.0064
     avg_copies: 3.0
   izzet-wizards:
     weight: 0.2222

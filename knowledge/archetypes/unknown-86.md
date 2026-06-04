@@ -3,25 +3,25 @@ colors:
 - W
 - R
 name: 'Unknown #86'
-meta_share: 0.001
+meta_share: 0.0009
 list_count: 3
 top_cards:
 - name: Skewer the Critics
   weight: 1.0
   avg_copies: 4.0
-- name: Monastery Swiftspear
+- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
-- name: Cori-Steel Cutter
+- name: Monastery Swiftspear
   weight: 1.0
   avg_copies: 4.0
 - name: Barbarian Ring
   weight: 1.0
   avg_copies: 4.0
-- name: Dragon's Rage Channeler
+- name: Boltwave
   weight: 1.0
   avg_copies: 4.0
-- name: Boltwave
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
@@ -33,25 +33,25 @@ top_cards:
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
-- name: Light Up the Stage
+- name: Mountain
   weight: 1.0
   avg_copies: 3.33
 - name: Lava Dart
   weight: 1.0
   avg_copies: 3.33
-- name: Mountain
+- name: Light Up the Stage
   weight: 1.0
   avg_copies: 3.33
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.67
-- name: Sacred Foundry
+- name: Tormod's Crypt
   weight: 1.0
   avg_copies: 2.33
 - name: Wear
   weight: 1.0
   avg_copies: 2.33
-- name: Tormod's Crypt
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 2.33
 - name: Deflecting Palm
@@ -66,10 +66,10 @@ top_cards:
 - name: Searing Blaze
   weight: 0.6667
   avg_copies: 3.67
-- name: Wooded Foothills
+- name: Arid Mesa
   weight: 0.6667
   avg_copies: 3.0
-- name: Arid Mesa
+- name: Wooded Foothills
   weight: 0.6667
   avg_copies: 3.0
 - name: Scalding Tarn
@@ -78,22 +78,22 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 0.6667
   avg_copies: 2.5
-- name: Meltdown
-  weight: 0.6667
-  avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
   weight: 0.6667
   avg_copies: 1.0
-- name: Path to Exile
-  weight: 0.3333
-  avg_copies: 2.0
+- name: Meltdown
+  weight: 0.6667
+  avg_copies: 1.0
 - name: Pyroclasm
   weight: 0.3333
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Boros Charm
   weight: 0.3333
   avg_copies: 2.0
-- name: Boros Charm
+- name: Path to Exile
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Vexing Bauble
   weight: 0.3333
   avg_copies: 2.0
 ---

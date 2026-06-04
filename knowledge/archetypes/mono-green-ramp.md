@@ -6,9 +6,6 @@ name: Mono Green Ramp
 meta_share: 0.0019
 list_count: 6
 top_cards:
-- name: Springheart Nantuko
-  weight: 1.0
-  avg_copies: 4.0
 - name: Quirion Ranger
   weight: 1.0
   avg_copies: 4.0
@@ -16,6 +13,9 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Badgermole Cub
+  weight: 1.0
+  avg_copies: 4.0
+- name: Springheart Nantuko
   weight: 1.0
   avg_copies: 4.0
 - name: Misty Rainforest
@@ -45,16 +45,16 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.17
-- name: Craterhoof Behemoth
-  weight: 1.0
-  avg_copies: 1.0
-- name: Collector Ouphe
+- name: Chomping Changeling
   weight: 1.0
   avg_copies: 1.0
 - name: Ashaya, Soul of the Wild
   weight: 1.0
   avg_copies: 1.0
-- name: Chomping Changeling
+- name: Craterhoof Behemoth
+  weight: 1.0
+  avg_copies: 1.0
+- name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
 - name: Disciple of Freyalise
@@ -69,10 +69,10 @@ top_cards:
 - name: Leyline of Abundance
   weight: 0.6667
   avg_copies: 3.25
-- name: Lotus Cobra
+- name: Tyvar, Jubilant Brawler
   weight: 0.6667
   avg_copies: 3.0
-- name: Tyvar, Jubilant Brawler
+- name: Lotus Cobra
   weight: 0.6667
   avg_copies: 3.0
 - name: Thoughtseize
@@ -93,22 +93,22 @@ top_cards:
 - name: Creeping Corrosion
   weight: 0.6667
   avg_copies: 1.25
-- name: Underground Mortuary
-  weight: 0.6667
-  avg_copies: 1.0
 - name: Nissa, Resurgent Animist
   weight: 0.6667
   avg_copies: 1.0
 - name: Formidable Speaker
   weight: 0.6667
   avg_copies: 1.0
-- name: The Great Henge
+- name: Underground Mortuary
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Slumbering Trudge
   weight: 0.3333
   avg_copies: 4.0
 - name: Fanatic of Rhonas
   weight: 0.3333
   avg_copies: 4.0
-- name: Slumbering Trudge
+- name: The Great Henge
   weight: 0.3333
   avg_copies: 4.0
 - name: Life's Legacy
@@ -120,10 +120,10 @@ top_cards:
 - name: Fade from History
   weight: 0.1667
   avg_copies: 3.0
-- name: Force of Vigor
+- name: Damping Sphere
   weight: 0.1667
   avg_copies: 3.0
-- name: Damping Sphere
+- name: Force of Vigor
   weight: 0.1667
   avg_copies: 3.0
 - name: Vexing Bauble

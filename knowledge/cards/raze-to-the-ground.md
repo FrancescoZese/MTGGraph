@@ -13,6 +13,6 @@ archetypes:
     weight: 0.0067
     avg_copies: 1.33
   boros-ponza:
-    weight: 0.0102
+    weight: 0.0101
     avg_copies: 2.0
 ---

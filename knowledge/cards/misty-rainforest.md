@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.149
 archetypes:
   ruby-storm:
-    weight: 0.0208
+    weight: 0.0206
     avg_copies: 1.0
   dimir-control:
     weight: 0.3457
@@ -18,16 +18,16 @@ archetypes:
     weight: 0.0078
     avg_copies: 3.0
   goryo:
-    weight: 0.0185
+    weight: 0.0182
     avg_copies: 1.5
   azorius-control:
-    weight: 0.1613
-    avg_copies: 1.2
+    weight: 0.2121
+    avg_copies: 1.14
   living-end:
     weight: 1.0
     avg_copies: 3.72
   affinity:
-    weight: 0.0741
+    weight: 0.0731
     avg_copies: 1.86
   mill:
     weight: 0.3333
@@ -36,8 +36,8 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.9778
-    avg_copies: 3.7
+    weight: 0.9783
+    avg_copies: 3.71
   kethis-combo:
     weight: 1.0
     avg_copies: 3.2
@@ -45,22 +45,22 @@ archetypes:
     weight: 0.3182
     avg_copies: 1.29
   eldrazi-ramp:
-    weight: 0.726
+    weight: 0.7162
     avg_copies: 1.25
   simic-ritual:
     weight: 0.9844
     avg_copies: 3.68
   izzet-prowess:
-    weight: 0.0196
+    weight: 0.0191
     avg_copies: 2.0
   4c-omnath:
     weight: 0.75
     avg_copies: 3.67
   samwise-combo:
-    weight: 0.6757
+    weight: 0.6579
     avg_copies: 1.4
   broodscale-combo:
-    weight: 0.1471
+    weight: 0.1456
     avg_copies: 1.2
   bant-control:
     weight: 1.0
@@ -106,7 +106,7 @@ archetypes:
     avg_copies: 1.0
   unknown-6:
     weight: 1.0
-    avg_copies: 3.67
+    avg_copies: 3.75
   unknown-11:
     weight: 1.0
     avg_copies: 1.0

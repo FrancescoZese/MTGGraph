@@ -16,25 +16,25 @@ archetypes:
     weight: 0.8148
     avg_copies: 3.86
   neoform-combo:
-    weight: 0.5778
+    weight: 0.5652
     avg_copies: 1.0
   simic-ritual:
     weight: 0.9844
     avg_copies: 3.84
   izzet-prowess:
-    weight: 0.0654
+    weight: 0.0637
     avg_copies: 1.3
   esper-blink:
-    weight: 0.0714
+    weight: 0.0682
     avg_copies: 2.0
   samwise-combo:
-    weight: 0.5946
+    weight: 0.5789
     avg_copies: 1.55
   bant-ritual:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.9672
+    weight: 0.9683
     avg_copies: 3.98
   soultrader-combo:
     weight: 0.25
@@ -44,7 +44,7 @@ archetypes:
     avg_copies: 4.0
   unknown-30:
     weight: 1.0
-    avg_copies: 3.8
+    avg_copies: 3.83
   unknown-39:
     weight: 1.0
     avg_copies: 4.0

@@ -3,25 +3,25 @@ colors:
 - W
 - B
 name: Orzhov Blink
-meta_share: 0.0026
+meta_share: 0.0025
 list_count: 8
 top_cards:
+- name: Thoughtseize
+  weight: 1.0
+  avg_copies: 4.0
+- name: Solitude
+  weight: 1.0
+  avg_copies: 4.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
 - name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 4.0
-- name: Phelia, Exuberant Shepherd
+- name: Fatal Push
   weight: 1.0
   avg_copies: 3.62
-- name: Fatal Push
+- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.62
 - name: Witch Enchanter
@@ -33,13 +33,13 @@ top_cards:
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.56
-- name: Godless Shrine
-  weight: 1.0
-  avg_copies: 2.12
 - name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 2.12
 - name: Plains
+  weight: 1.0
+  avg_copies: 2.12
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 2.12
 - name: Boggart Trawler
@@ -87,10 +87,10 @@ top_cards:
 - name: White Orchid Phantom
   weight: 0.375
   avg_copies: 3.67
-- name: Sheoldred's Edict
+- name: Prismatic Ending
   weight: 0.375
   avg_copies: 2.0
-- name: Prismatic Ending
+- name: Sheoldred's Edict
   weight: 0.375
   avg_copies: 2.0
 - name: Dawnbringer Cleric
@@ -99,10 +99,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.375
   avg_copies: 1.33
-- name: Grafdigger's Cage
+- name: Surgical Extraction
   weight: 0.375
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Grafdigger's Cage
   weight: 0.375
   avg_copies: 1.0
 - name: Sanctifier en-Vec
@@ -120,21 +120,15 @@ top_cards:
 - name: Orim's Chant
   weight: 0.125
   avg_copies: 4.0
+- name: Faerie Macabre
+  weight: 0.125
+  avg_copies: 3.0
 - name: Force of Despair
   weight: 0.125
   avg_copies: 3.0
 - name: Deafening Silence
   weight: 0.125
   avg_copies: 3.0
-- name: Faerie Macabre
-  weight: 0.125
-  avg_copies: 3.0
-- name: Troll of Khazad-dûm
-  weight: 0.125
-  avg_copies: 2.0
-- name: Bloodstained Mire
-  weight: 0.125
-  avg_copies: 2.0
 - name: Duress
   weight: 0.125
   avg_copies: 2.0
@@ -144,28 +138,34 @@ top_cards:
 - name: Windswept Heath
   weight: 0.125
   avg_copies: 2.0
-- name: Drannith Magistrate
+- name: Bloodstained Mire
   weight: 0.125
-  avg_copies: 1.0
-- name: Emptiness
+  avg_copies: 2.0
+- name: Troll of Khazad-dûm
   weight: 0.125
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Erode
-  weight: 0.125
-  avg_copies: 1.0
-- name: Vindicate
   weight: 0.125
   avg_copies: 1.0
 - name: Eiganjo, Seat of the Empire
   weight: 0.125
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Drannith Magistrate
   weight: 0.125
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
   weight: 0.125
   avg_copies: 1.0
+- name: Raucous Theater
+  weight: 0.125
+  avg_copies: 1.0
 - name: Monumental Henge
+  weight: 0.125
+  avg_copies: 1.0
+- name: Emptiness
+  weight: 0.125
+  avg_copies: 1.0
+- name: Vindicate
   weight: 0.125
   avg_copies: 1.0
 ---

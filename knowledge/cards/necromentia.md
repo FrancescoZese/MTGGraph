@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.0013
 archetypes:
   necrodominance:
-    weight: 0.0909
+    weight: 0.0882
     avg_copies: 2.0
   rakdos-lantern-combo:
     weight: 0.5

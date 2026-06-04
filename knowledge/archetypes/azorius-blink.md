@@ -3,13 +3,13 @@ colors:
 - W
 - U
 name: Azorius Blink
-meta_share: 0.0106
+meta_share: 0.0104
 list_count: 33
 top_cards:
-- name: Solitude
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
-- name: Ocelot Pride
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Quantum Riddler
@@ -138,46 +138,46 @@ top_cards:
 - name: Idyllic Grange
   weight: 0.0909
   avg_copies: 1.33
-- name: Island
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Haywire Mite
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Temple Garden
+- name: Gran-Gran
   weight: 0.0909
   avg_copies: 1.0
 - name: Thraben Charm
   weight: 0.0909
   avg_copies: 1.0
-- name: Gran-Gran
+- name: Haywire Mite
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Island
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Temple Garden
   weight: 0.0909
   avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.0606
   avg_copies: 1.5
-- name: Orim's Chant
-  weight: 0.0606
-  avg_copies: 1.5
 - name: Wan Shi Tong, Librarian
   weight: 0.0606
   avg_copies: 1.5
-- name: Stony Silence
+- name: Orim's Chant
   weight: 0.0606
-  avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.0606
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Lavinia, Azorius Renegade
   weight: 0.0606
   avg_copies: 1.0
 - name: Elegant Parlor
   weight: 0.0606
   avg_copies: 1.0
-- name: Overlord of the Balemurk
+- name: Surgical Extraction
+  weight: 0.0606
+  avg_copies: 1.0
+- name: Stony Silence
+  weight: 0.0606
+  avg_copies: 1.0
+- name: Ajani, Nacatl Pariah
   weight: 0.0303
   avg_copies: 4.0
-- name: Ajani, Nacatl Pariah
+- name: Overlord of the Balemurk
   weight: 0.0303
   avg_copies: 4.0
 - name: Agatha's Soul Cauldron
@@ -195,9 +195,6 @@ top_cards:
 - name: Sacred Foundry
   weight: 0.0303
   avg_copies: 2.0
-- name: Test of Talents
-  weight: 0.0303
-  avg_copies: 2.0
 - name: Giant Killer
   weight: 0.0303
   avg_copies: 2.0
@@ -210,31 +207,13 @@ top_cards:
 - name: Walking Ballista
   weight: 0.0303
   avg_copies: 2.0
+- name: Test of Talents
+  weight: 0.0303
+  avg_copies: 2.0
+- name: Elesh Norn, Mother of Machines
+  weight: 0.0303
+  avg_copies: 1.0
 - name: Mistcaller
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Winternight Stories
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Flitterwing Nuisance
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Spell Pierce
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Skycoach Conductor
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Heliod, Sun-Crowned
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Watery Grave
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Nihil Spellbomb
   weight: 0.0303
   avg_copies: 1.0
 - name: Polluted Delta
@@ -243,16 +222,37 @@ top_cards:
 - name: Erode
   weight: 0.0303
   avg_copies: 1.0
-- name: Ragavan, Nimble Pilferer
-  weight: 0.0303
-  avg_copies: 1.0
 - name: Shadowy Backstreet
   weight: 0.0303
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
+- name: Flitterwing Nuisance
+  weight: 0.0303
+  avg_copies: 1.0
+- name: Winternight Stories
+  weight: 0.0303
+  avg_copies: 1.0
+- name: Heliod, Sun-Crowned
+  weight: 0.0303
+  avg_copies: 1.0
+- name: Watery Grave
+  weight: 0.0303
+  avg_copies: 1.0
+- name: Spell Pierce
   weight: 0.0303
   avg_copies: 1.0
 - name: Floodfarm Verge
+  weight: 0.0303
+  avg_copies: 1.0
+- name: Hurkyl's Recall
+  weight: 0.0303
+  avg_copies: 1.0
+- name: Ragavan, Nimble Pilferer
+  weight: 0.0303
+  avg_copies: 1.0
+- name: Skycoach Conductor
+  weight: 0.0303
+  avg_copies: 1.0
+- name: Nihil Spellbomb
   weight: 0.0303
   avg_copies: 1.0
 ---
