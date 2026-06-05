@@ -9,22 +9,22 @@ top_cards:
 - name: Utopia Sprawl
   weight: 1.0
   avg_copies: 4.0
-- name: Forest
-  weight: 1.0
-  avg_copies: 4.0
-- name: Sowing Mycospawn
-  weight: 1.0
-  avg_copies: 4.0
-- name: Malevolent Rumble
-  weight: 1.0
-  avg_copies: 4.0
 - name: Eldrazi Temple
+  weight: 1.0
+  avg_copies: 4.0
+- name: Forest
   weight: 1.0
   avg_copies: 4.0
 - name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
+- name: Malevolent Rumble
+  weight: 1.0
+  avg_copies: 4.0
 - name: Kozilek's Command
+  weight: 1.0
+  avg_copies: 4.0
+- name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
 - name: Vexing Bauble
@@ -33,10 +33,10 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 1.0
   avg_copies: 3.67
-- name: Emrakul, the Promised End
+- name: Ancient Stirrings
   weight: 1.0
   avg_copies: 3.0
-- name: Ancient Stirrings
+- name: Emrakul, the Promised End
   weight: 1.0
   avg_copies: 3.0
 - name: Devourer of Destiny
@@ -48,37 +48,37 @@ top_cards:
 - name: Fatal Push
   weight: 1.0
   avg_copies: 2.2
-- name: Misty Rainforest
+- name: Talisman of Resilience
   weight: 1.0
   avg_copies: 2.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 2.0
-- name: Talisman of Curiosity
-  weight: 1.0
-  avg_copies: 2.0
-- name: Talisman of Resilience
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 2.0
 - name: Ugin, Eye of the Storms
   weight: 1.0
   avg_copies: 2.0
+- name: Talisman of Curiosity
+  weight: 1.0
+  avg_copies: 2.0
 - name: Nulldrifter
   weight: 1.0
   avg_copies: 1.33
-- name: Breeding Pool
-  weight: 1.0
-  avg_copies: 1.0
-- name: World Breaker
-  weight: 1.0
-  avg_copies: 1.0
-- name: Overgrown Tomb
+- name: Sanctum of Ugin
   weight: 1.0
   avg_copies: 1.0
 - name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
-- name: Sanctum of Ugin
+- name: Overgrown Tomb
+  weight: 1.0
+  avg_copies: 1.0
+- name: Breeding Pool
+  weight: 1.0
+  avg_copies: 1.0
+- name: World Breaker
   weight: 1.0
   avg_copies: 1.0
 - name: Underground Mortuary
@@ -99,28 +99,28 @@ top_cards:
 - name: Karn, the Great Creator
   weight: 0.3333
   avg_copies: 3.0
-- name: Tormod's Crypt
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Thoughtseize
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Chalice of the Void
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Pithing Needle
+- name: Ensnaring Bridge
   weight: 0.3333
   avg_copies: 1.0
 - name: Haywire Mite
   weight: 0.3333
   avg_copies: 1.0
-- name: Liquimetal Coating
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Disruptor Flute
   weight: 0.3333
   avg_copies: 1.0
-- name: Ensnaring Bridge
+- name: Pithing Needle
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Thoughtseize
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Liquimetal Coating
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Tormod's Crypt
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Chalice of the Void
   weight: 0.3333
   avg_copies: 1.0
 ---

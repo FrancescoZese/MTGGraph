@@ -19,7 +19,7 @@ archetypes:
     weight: 0.75
     avg_copies: 2.56
   boros-ponza:
-    weight: 0.0909
+    weight: 0.09
     avg_copies: 1.0
   4c-omnath:
     weight: 0.25
@@ -49,11 +49,11 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-65:
-    weight: 0.9545
-    avg_copies: 2.19
+    weight: 0.9565
+    avg_copies: 2.18
   unknown-67:
-    weight: 0.2059
-    avg_copies: 1.71
+    weight: 0.2286
+    avg_copies: 1.75
   unknown-84:
     weight: 1.0
     avg_copies: 2.0

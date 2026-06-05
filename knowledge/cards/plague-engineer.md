@@ -7,14 +7,14 @@ name: Plague Engineer
 scryfall_id: 8f32b0e9-5eb2-4b26-8c06-5d4561f0295d
 set: mh1
 type: Creature — Phyrexian Carrier
-meta_presence: 0.0022
+meta_presence: 0.0025
 archetypes:
   reanimator:
     weight: 0.037
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0781
-    avg_copies: 1.2
+    weight: 0.0909
+    avg_copies: 1.33
   unknown-110:
     weight: 1.0
     avg_copies: 1.0

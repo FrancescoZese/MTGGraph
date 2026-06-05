@@ -9,16 +9,16 @@ name: 'Unknown #85'
 meta_share: 0.0028
 list_count: 9
 top_cards:
-- name: Leyline Binding
-  weight: 1.0
-  avg_copies: 4.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Territorial Kavu
+- name: Leyline Binding
   weight: 1.0
   avg_copies: 4.0
 - name: Scion of Draco
+  weight: 1.0
+  avg_copies: 4.0
+- name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
 - name: Wooded Foothills
@@ -60,10 +60,10 @@ top_cards:
 - name: Wear
   weight: 0.8889
   avg_copies: 2.0
-- name: Breeding Pool
+- name: Forest
   weight: 0.8889
   avg_copies: 1.0
-- name: Forest
+- name: Breeding Pool
   weight: 0.8889
   avg_copies: 1.0
 - name: Sacred Foundry
@@ -75,10 +75,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.7778
   avg_copies: 2.14
-- name: Mountain
+- name: Blood Crypt
   weight: 0.7778
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Mountain
   weight: 0.7778
   avg_copies: 1.0
 - name: High Noon
@@ -114,16 +114,16 @@ top_cards:
 - name: Rest in Peace
   weight: 0.2222
   avg_copies: 1.5
-- name: Surgical Extraction
+- name: Plains
   weight: 0.2222
   avg_copies: 1.0
 - name: Overgrown Tomb
   weight: 0.2222
   avg_copies: 1.0
-- name: Plains
+- name: Savai Triome
   weight: 0.2222
   avg_copies: 1.0
-- name: Savai Triome
+- name: Surgical Extraction
   weight: 0.2222
   avg_copies: 1.0
 - name: Spell Queller
@@ -132,52 +132,52 @@ top_cards:
 - name: Force of Vigor
   weight: 0.1111
   avg_copies: 3.0
-- name: Prismatic Ending
-  weight: 0.1111
-  avg_copies: 2.0
-- name: Laelia, the Blade Reforged
-  weight: 0.1111
-  avg_copies: 2.0
-- name: Endurance
+- name: Doorkeeper Thrull
   weight: 0.1111
   avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.1111
   avg_copies: 2.0
-- name: Rough
+- name: Laelia, the Blade Reforged
   weight: 0.1111
   avg_copies: 2.0
-- name: Doorkeeper Thrull
+- name: Prismatic Ending
   weight: 0.1111
   avg_copies: 2.0
 - name: Pick Your Poison
   weight: 0.1111
   avg_copies: 2.0
+- name: Rough
+  weight: 0.1111
+  avg_copies: 2.0
 - name: Fable of the Mirror-Breaker
   weight: 0.1111
   avg_copies: 2.0
-- name: Hidetsugu Consumes All
+- name: Endurance
+  weight: 0.1111
+  avg_copies: 2.0
+- name: Hedge Maze
   weight: 0.1111
   avg_copies: 1.0
 - name: Xander's Lounge
   weight: 0.1111
   avg_copies: 1.0
-- name: Chalice of the Void
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Island
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Hedge Maze
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Pyroclasm
+- name: Zagoth Triome
   weight: 0.1111
   avg_copies: 1.0
 - name: Lush Portico
   weight: 0.1111
   avg_copies: 1.0
-- name: Zagoth Triome
+- name: Hidetsugu Consumes All
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Island
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Chalice of the Void
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Pyroclasm
   weight: 0.1111
   avg_copies: 1.0
 ---

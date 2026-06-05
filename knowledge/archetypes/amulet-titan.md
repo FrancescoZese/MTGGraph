@@ -2,13 +2,13 @@
 colors:
 - G
 name: Amulet Titan
-meta_share: 0.0322
+meta_share: 0.0317
 list_count: 102
 top_cards:
-- name: Arboreal Grazer
+- name: Amulet of Vigor
   weight: 1.0
   avg_copies: 4.0
-- name: Amulet of Vigor
+- name: Arboreal Grazer
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
@@ -17,10 +17,10 @@ top_cards:
 - name: Spelunking
   weight: 1.0
   avg_copies: 3.89
-- name: Crumbling Vestige
+- name: Primeval Titan
   weight: 1.0
   avg_copies: 3.64
-- name: Primeval Titan
+- name: Crumbling Vestige
   weight: 1.0
   avg_copies: 3.64
 - name: Gruul Turf
@@ -179,19 +179,19 @@ top_cards:
 - name: Hedge Maze
   weight: 0.0392
   avg_copies: 1.0
-- name: Insidious Fungus
+- name: Heritage Reclamation
   weight: 0.0294
   avg_copies: 1.0
-- name: Heritage Reclamation
+- name: Insidious Fungus
   weight: 0.0294
   avg_copies: 1.0
 - name: Kessig Wolf Run
   weight: 0.0294
   avg_copies: 1.0
-- name: Pyroclasm
+- name: Windswept Heath
   weight: 0.0294
   avg_copies: 1.0
-- name: Windswept Heath
+- name: Pyroclasm
   weight: 0.0294
   avg_copies: 1.0
 - name: Dryad of the Ilysian Grove
@@ -212,28 +212,28 @@ top_cards:
 - name: Defense Grid
   weight: 0.0098
   avg_copies: 3.0
-- name: Tormod's Crypt
-  weight: 0.0098
-  avg_copies: 1.0
-- name: Formidable Speaker
-  weight: 0.0098
-  avg_copies: 1.0
-- name: Carnage Tyrant
-  weight: 0.0098
-  avg_copies: 1.0
-- name: Lithomantic Barrage
-  weight: 0.0098
-  avg_copies: 1.0
 - name: Gemstone Caverns
-  weight: 0.0098
-  avg_copies: 1.0
-- name: Titania, Protector of Argoth
   weight: 0.0098
   avg_copies: 1.0
 - name: Dosan the Falling Leaf
   weight: 0.0098
   avg_copies: 1.0
 - name: Ghost Quarter
+  weight: 0.0098
+  avg_copies: 1.0
+- name: Formidable Speaker
+  weight: 0.0098
+  avg_copies: 1.0
+- name: Lithomantic Barrage
+  weight: 0.0098
+  avg_copies: 1.0
+- name: Titania, Protector of Argoth
+  weight: 0.0098
+  avg_copies: 1.0
+- name: Tormod's Crypt
+  weight: 0.0098
+  avg_copies: 1.0
+- name: Carnage Tyrant
   weight: 0.0098
   avg_copies: 1.0
 ---

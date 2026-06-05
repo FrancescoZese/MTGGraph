@@ -6,7 +6,7 @@ colors:
 - R
 - G
 name: Domain Zoo
-meta_share: 0.0259
+meta_share: 0.0255
 list_count: 82
 top_cards:
 - name: Territorial Kavu
@@ -54,16 +54,16 @@ top_cards:
 - name: Wear
   weight: 0.9878
   avg_copies: 1.67
-- name: Temple Garden
-  weight: 0.9878
-  avg_copies: 1.0
 - name: Indatha Triome
   weight: 0.9878
   avg_copies: 1.0
-- name: Mountain
-  weight: 0.9634
+- name: Temple Garden
+  weight: 0.9878
   avg_copies: 1.0
 - name: Godless Shrine
+  weight: 0.9634
+  avg_copies: 1.0
+- name: Mountain
   weight: 0.9634
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -141,10 +141,10 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.0854
   avg_copies: 2.43
-- name: Strix Serenade
+- name: Vexing Bauble
   weight: 0.0488
   avg_copies: 1.25
-- name: Vexing Bauble
+- name: Strix Serenade
   weight: 0.0488
   avg_copies: 1.25
 - name: Rest in Peace
@@ -168,10 +168,16 @@ top_cards:
 - name: Psychic Frog
   weight: 0.0122
   avg_copies: 4.0
+- name: Professor of Symbology
+  weight: 0.0122
+  avg_copies: 4.0
 - name: Persist
   weight: 0.0122
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Faithless Looting
+  weight: 0.0122
+  avg_copies: 4.0
+- name: Archon of Cruelty
   weight: 0.0122
   avg_copies: 4.0
 - name: Aurora Awakener
@@ -180,13 +186,7 @@ top_cards:
 - name: Bloodstained Mire
   weight: 0.0122
   avg_copies: 4.0
-- name: Archon of Cruelty
-  weight: 0.0122
-  avg_copies: 4.0
-- name: Professor of Symbology
-  weight: 0.0122
-  avg_copies: 4.0
-- name: Faithless Looting
+- name: Marsh Flats
   weight: 0.0122
   avg_copies: 4.0
 - name: Kroxa, Titan of Death's Hunger
@@ -195,79 +195,79 @@ top_cards:
 - name: Summoning Trap
   weight: 0.0122
   avg_copies: 3.0
-- name: Boros Charm
-  weight: 0.0122
-  avg_copies: 2.0
 - name: Mana Tithe
-  weight: 0.0122
-  avg_copies: 2.0
-- name: Drannith Magistrate
   weight: 0.0122
   avg_copies: 2.0
 - name: No More Lies
   weight: 0.0122
   avg_copies: 2.0
-- name: Dai Li Indoctrination
+- name: Boros Charm
   weight: 0.0122
-  avg_copies: 1.0
-- name: Breeding Pool
+  avg_copies: 2.0
+- name: Drannith Magistrate
   weight: 0.0122
-  avg_copies: 1.0
-- name: Boomerang Basics
-  weight: 0.0122
-  avg_copies: 1.0
-- name: Abandon Attachments
-  weight: 0.0122
-  avg_copies: 1.0
-- name: Origin of Metalbending
-  weight: 0.0122
-  avg_copies: 1.0
-- name: Elegant Parlor
-  weight: 0.0122
-  avg_copies: 1.0
-- name: Overgrown Tomb
-  weight: 0.0122
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Raucous Theater
-  weight: 0.0122
-  avg_copies: 1.0
-- name: Alpine Moon
   weight: 0.0122
   avg_copies: 1.0
 - name: Firebending Lesson
   weight: 0.0122
   avg_copies: 1.0
-- name: Sacred Ground
+- name: Overgrown Tomb
+  weight: 0.0122
+  avg_copies: 1.0
+- name: Elegant Parlor
+  weight: 0.0122
+  avg_copies: 1.0
+- name: Breeding Pool
   weight: 0.0122
   avg_copies: 1.0
 - name: Ruinous Waterbending
   weight: 0.0122
   avg_copies: 1.0
-- name: Price of Freedom
+- name: Alpine Moon
   weight: 0.0122
   avg_copies: 1.0
-- name: Redirect Lightning
+- name: Origin of Metalbending
+  weight: 0.0122
+  avg_copies: 1.0
+- name: Boromir, Warden of the Tower
   weight: 0.0122
   avg_copies: 1.0
 - name: Fire Magic
   weight: 0.0122
   avg_copies: 1.0
-- name: Glasspool Mimic
+- name: Sacred Ground
   weight: 0.0122
   avg_copies: 1.0
-- name: Decorum Dissertation
-  weight: 0.0122
-  avg_copies: 1.0
-- name: Zagoth Triome
-  weight: 0.0122
-  avg_copies: 1.0
-- name: Boromir, Warden of the Tower
+- name: Boomerang Basics
   weight: 0.0122
   avg_copies: 1.0
 - name: Containment Priest
   weight: 0.0122
   avg_copies: 1.0
 - name: Chthonian Nightmare
+  weight: 0.0122
+  avg_copies: 1.0
+- name: Dai Li Indoctrination
+  weight: 0.0122
+  avg_copies: 1.0
+- name: Zagoth Triome
+  weight: 0.0122
+  avg_copies: 1.0
+- name: Decorum Dissertation
+  weight: 0.0122
+  avg_copies: 1.0
+- name: Glasspool Mimic
+  weight: 0.0122
+  avg_copies: 1.0
+- name: Abandon Attachments
+  weight: 0.0122
+  avg_copies: 1.0
+- name: Redirect Lightning
+  weight: 0.0122
+  avg_copies: 1.0
+- name: Price of Freedom
   weight: 0.0122
   avg_copies: 1.0
 ---

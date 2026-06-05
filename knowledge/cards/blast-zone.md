@@ -9,13 +9,13 @@ type: Land
 meta_presence: 0.0025
 archetypes:
   eldrazi-tron:
-    weight: 0.0231
+    weight: 0.0227
     avg_copies: 1.0
   scapeshift-combo:
     weight: 0.5
     avg_copies: 1.0
   goryo4:
-    weight: 0.1667
+    weight: 0.125
     avg_copies: 1.0
   unknown-28:
     weight: 1.0

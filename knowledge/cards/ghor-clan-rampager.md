@@ -8,8 +8,11 @@ name: Ghor-Clan Rampager
 scryfall_id: 4aae3f29-dde8-4880-b675-75468d53b3f4
 set: 2xm
 type: Creature — Beast
-meta_presence: 0.0003
+meta_presence: 0.0006
 archetypes:
+  cosmogoyf-fling:
+    weight: 0.0435
+    avg_copies: 1.0
   unknown-90:
     weight: 1.0
     avg_copies: 1.0

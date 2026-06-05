@@ -6,7 +6,7 @@ name: Leyline Axe
 scryfall_id: b9c03336-a321-4c06-94d1-809f328fabd8
 set: fdn
 type: Artifact — Equipment
-meta_presence: 0.0032
+meta_presence: 0.0034
 archetypes:
   hammer-time:
     weight: 1.0
@@ -17,4 +17,7 @@ archetypes:
   unknown-92:
     weight: 1.0
     avg_copies: 1.0
+  unknown-119:
+    weight: 1.0
+    avg_copies: 4.0
 ---

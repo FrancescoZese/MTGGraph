@@ -6,7 +6,7 @@ name: Inkmoth Nexus
 scryfall_id: ec50c1c3-885e-47d3-ada7-cc0edbf09df1
 set: mbs
 type: Land
-meta_presence: 0.0041
+meta_presence: 0.0044
 archetypes:
   hardened-scales:
     weight: 1.0
@@ -17,4 +17,7 @@ archetypes:
   unknown-21:
     weight: 1.0
     avg_copies: 2.0
+  unknown-119:
+    weight: 1.0
+    avg_copies: 3.0
 ---

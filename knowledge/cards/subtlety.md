@@ -16,10 +16,10 @@ archetypes:
     weight: 0.0078
     avg_copies: 1.0
   goryo:
-    weight: 0.0818
+    weight: 0.0796
     avg_copies: 1.35
   azorius-control:
-    weight: 0.2424
+    weight: 0.2353
     avg_copies: 1.75
   living-end:
     weight: 1.0
@@ -37,16 +37,16 @@ archetypes:
     weight: 0.9167
     avg_copies: 2.69
   simic-ritual:
-    weight: 0.9844
-    avg_copies: 3.43
+    weight: 0.9848
+    avg_copies: 3.45
   izzet-prowess:
-    weight: 0.0064
+    weight: 0.0063
     avg_copies: 2.0
   4c-omnath:
     weight: 0.75
     avg_copies: 4.0
   esper-blink:
-    weight: 0.0455
+    weight: 0.0435
     avg_copies: 2.5
   izzet-artifacts:
     weight: 0.0333
@@ -95,7 +95,7 @@ archetypes:
     avg_copies: 2.33
   unknown-47:
     weight: 1.0
-    avg_copies: 2.27
+    avg_copies: 2.3
   unknown-51:
     weight: 1.0
     avg_copies: 4.0
@@ -103,11 +103,11 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-62:
-    weight: 0.8
+    weight: 0.75
     avg_copies: 1.72
   unknown-65:
     weight: 1.0
-    avg_copies: 3.55
+    avg_copies: 3.57
   unknown-67:
     weight: 1.0
     avg_copies: 3.94
@@ -131,7 +131,7 @@ archetypes:
     avg_copies: 4.0
   unknown-111:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.5
   unknown-113:
     weight: 1.0
     avg_copies: 4.0

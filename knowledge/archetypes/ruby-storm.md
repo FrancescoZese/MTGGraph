@@ -3,16 +3,16 @@ colors:
 - R
 - G
 name: Ruby Storm
-meta_share: 0.0306
+meta_share: 0.0301
 list_count: 97
 top_cards:
-- name: Desperate Ritual
-  weight: 1.0
-  avg_copies: 4.0
 - name: Pyretic Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Manamorphose
+  weight: 1.0
+  avg_copies: 4.0
+- name: Desperate Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Wrenn's Resolve
@@ -144,10 +144,10 @@ top_cards:
 - name: March of Otherworldly Light
   weight: 0.0619
   avg_copies: 2.0
-- name: Phlage, Titan of Fire's Fury
+- name: Raucous Theater
   weight: 0.0619
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Phlage, Titan of Fire's Fury
   weight: 0.0619
   avg_copies: 1.0
 - name: Hexing Squelcher
@@ -165,10 +165,10 @@ top_cards:
 - name: Mine Collapse
   weight: 0.0412
   avg_copies: 1.0
-- name: Flow State
+- name: Questing Druid
   weight: 0.0309
   avg_copies: 4.0
-- name: Questing Druid
+- name: Flow State
   weight: 0.0309
   avg_copies: 4.0
 - name: Static Prison
@@ -177,19 +177,19 @@ top_cards:
 - name: March of Reckless Joy
   weight: 0.0309
   avg_copies: 3.0
-- name: Pyroclasm
+- name: Blood Moon
   weight: 0.0309
   avg_copies: 1.33
-- name: Blood Moon
+- name: Pyroclasm
   weight: 0.0309
   avg_copies: 1.33
 - name: Fiery Islet
   weight: 0.0309
   avg_copies: 1.0
-- name: Alchemist's Gambit
+- name: Abrade
   weight: 0.0309
   avg_copies: 1.0
-- name: Abrade
+- name: Alchemist's Gambit
   weight: 0.0309
   avg_copies: 1.0
 - name: Nature's Claim
@@ -198,10 +198,10 @@ top_cards:
 - name: Stormcatch Mentor
   weight: 0.0206
   avg_copies: 4.0
-- name: Stock Up
+- name: Spirebluff Canal
   weight: 0.0206
   avg_copies: 3.0
-- name: Spirebluff Canal
+- name: Stock Up
   weight: 0.0206
   avg_copies: 3.0
 - name: Soul-Guide Lantern
@@ -213,6 +213,12 @@ top_cards:
 - name: Veil of Summer
   weight: 0.0206
   avg_copies: 1.5
+- name: Lorehold Charm
+  weight: 0.0206
+  avg_copies: 1.0
+- name: Blood Crypt
+  weight: 0.0206
+  avg_copies: 1.0
 - name: Baral, Chief of Compliance
   weight: 0.0206
   avg_copies: 1.0
@@ -228,64 +234,58 @@ top_cards:
 - name: Flame Slash
   weight: 0.0206
   avg_copies: 1.0
-- name: Blood Crypt
-  weight: 0.0206
-  avg_copies: 1.0
 - name: Shatterskull Smashing
-  weight: 0.0206
-  avg_copies: 1.0
-- name: Lorehold Charm
   weight: 0.0206
   avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 0.0206
   avg_copies: 1.0
-- name: Thoughtseize
-  weight: 0.0103
-  avg_copies: 2.0
-- name: Consider
-  weight: 0.0103
-  avg_copies: 2.0
 - name: Goblin Anarchomancer
   weight: 0.0103
   avg_copies: 2.0
 - name: Remand
   weight: 0.0103
   avg_copies: 2.0
-- name: Consign to Memory
-  weight: 0.0103
-  avg_copies: 2.0
 - name: Spell Snare
   weight: 0.0103
   avg_copies: 2.0
-- name: card:lindblum-industrial-regency
+- name: Consign to Memory
   weight: 0.0103
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: Thoughtseize
+  weight: 0.0103
+  avg_copies: 2.0
+- name: Consider
+  weight: 0.0103
+  avg_copies: 2.0
 - name: Voice of Victory
-  weight: 0.0103
-  avg_copies: 1.0
-- name: Inquisition of Kozilek
   weight: 0.0103
   avg_copies: 1.0
 - name: Rip Apart
   weight: 0.0103
   avg_copies: 1.0
-- name: Urabrask
+- name: Goblin Lore
   weight: 0.0103
   avg_copies: 1.0
-- name: Goblin Lore
+- name: Inquisition of Kozilek
   weight: 0.0103
   avg_copies: 1.0
 - name: Blazing Firesinger
   weight: 0.0103
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: card:lindblum-industrial-regency
+  weight: 0.0103
+  avg_copies: 1.0
+- name: Urabrask
   weight: 0.0103
   avg_copies: 1.0
 - name: Fire
   weight: 0.0103
   avg_copies: 1.0
 - name: Pact of Negation
+  weight: 0.0103
+  avg_copies: 1.0
+- name: Surgical Extraction
   weight: 0.0103
   avg_copies: 1.0
 ---

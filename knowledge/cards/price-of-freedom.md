@@ -15,8 +15,11 @@ archetypes:
   boros-ponza:
     weight: 1.0
     avg_copies: 4.0
+  eldrazi-ramp:
+    weight: 0.0133
+    avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0573
+    weight: 0.057
     avg_copies: 1.0
   rakdos-aggro:
     weight: 0.1333

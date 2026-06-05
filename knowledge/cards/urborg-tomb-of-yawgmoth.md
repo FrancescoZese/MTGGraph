@@ -9,7 +9,7 @@ type: Legendary Land
 meta_presence: 0.0044
 archetypes:
   simic-ritual:
-    weight: 0.0156
+    weight: 0.0152
     avg_copies: 1.0
   soultrader-combo:
     weight: 0.25

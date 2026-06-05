@@ -6,10 +6,13 @@ name: 'Unknown #35'
 meta_share: 0.0009
 list_count: 3
 top_cards:
-- name: Unholy Heat
+- name: Flame of Anor
   weight: 1.0
   avg_copies: 4.0
-- name: Lórien Revealed
+- name: Thundertrap Trainer
+  weight: 1.0
+  avg_copies: 4.0
+- name: Unholy Heat
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
@@ -18,25 +21,22 @@ top_cards:
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
+- name: Lórien Revealed
+  weight: 1.0
+  avg_copies: 4.0
 - name: Subtlety
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thundertrap Trainer
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flame of Anor
   weight: 1.0
   avg_copies: 4.0
 - name: Island
   weight: 1.0
   avg_copies: 3.33
-- name: Steam Vents
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 3.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
-- name: Lightning Bolt
+- name: Steam Vents
   weight: 1.0
   avg_copies: 3.0
 - name: Flow State
@@ -48,19 +48,19 @@ top_cards:
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 2.0
-- name: Flare of Denial
+- name: Dress Down
   weight: 1.0
   avg_copies: 2.0
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 2.0
-- name: Dress Down
-  weight: 1.0
-  avg_copies: 2.0
-- name: Blood Moon
+- name: Flare of Denial
   weight: 1.0
   avg_copies: 2.0
 - name: Snapcaster Mage
+  weight: 1.0
+  avg_copies: 2.0
+- name: Blood Moon
   weight: 1.0
   avg_copies: 2.0
 - name: Spell Snare
@@ -69,13 +69,13 @@ top_cards:
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 1.33
+- name: Flusterstorm
+  weight: 1.0
+  avg_copies: 1.0
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
 - name: Engineered Explosives
-  weight: 1.0
-  avg_copies: 1.0
-- name: Flusterstorm
   weight: 1.0
   avg_copies: 1.0
 - name: Ghost Vacuum
@@ -93,28 +93,28 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.3333
   avg_copies: 4.0
-- name: Spell Pierce
+- name: Teferi, Temporal Pilgrim
   weight: 0.3333
   avg_copies: 2.0
 - name: Arena of Glory
   weight: 0.3333
   avg_copies: 2.0
+- name: Spell Pierce
+  weight: 0.3333
+  avg_copies: 2.0
 - name: Twinflame Tyrant
   weight: 0.3333
   avg_copies: 2.0
-- name: Teferi, Temporal Pilgrim
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Stern Scolding
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.3333
   avg_copies: 1.0
-- name: Den of the Bugbear
+- name: Mistrise Village
   weight: 0.3333
   avg_copies: 1.0
-- name: Mistrise Village
+- name: Stern Scolding
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Den of the Bugbear
   weight: 0.3333
   avg_copies: 1.0
 ---

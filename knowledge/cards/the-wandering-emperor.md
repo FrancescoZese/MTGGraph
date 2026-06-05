@@ -13,10 +13,10 @@ archetypes:
     weight: 0.0022
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0303
+    weight: 0.0294
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.0202
+    weight: 0.02
     avg_copies: 1.33
   esper-control:
     weight: 1.0

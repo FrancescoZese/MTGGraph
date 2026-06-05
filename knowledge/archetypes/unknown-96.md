@@ -8,25 +8,25 @@ name: 'Unknown #96'
 meta_share: 0.0016
 list_count: 5
 top_cards:
-- name: Street Wraith
+- name: Marauding Mako
   weight: 1.0
   avg_copies: 4.0
 - name: Hardened Academic
   weight: 1.0
   avg_copies: 4.0
+- name: Street Wraith
+  weight: 1.0
+  avg_copies: 4.0
 - name: Hollow One
   weight: 1.0
   avg_copies: 4.0
-- name: Marauding Mako
-  weight: 1.0
-  avg_copies: 4.0
-- name: Arid Mesa
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Burning Inquiry
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
 - name: Bloodstained Mire
@@ -44,10 +44,10 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.6
-- name: Blazing Rootwalla
+- name: Vengevine
   weight: 0.8
   avg_copies: 4.0
-- name: Vengevine
+- name: Blazing Rootwalla
   weight: 0.8
   avg_copies: 4.0
 - name: Leyline of the Void
@@ -74,13 +74,13 @@ top_cards:
 - name: Seasoned Pyromancer
   weight: 0.6
   avg_copies: 2.0
+- name: Fable of the Mirror-Breaker
+  weight: 0.6
+  avg_copies: 2.0
 - name: Stomping Ground
   weight: 0.6
   avg_copies: 2.0
 - name: Lingering Souls
-  weight: 0.6
-  avg_copies: 2.0
-- name: Fable of the Mirror-Breaker
   weight: 0.6
   avg_copies: 2.0
 - name: Wear
@@ -92,46 +92,46 @@ top_cards:
 - name: Moonshadow
   weight: 0.2
   avg_copies: 4.0
-- name: Orim's Chant
-  weight: 0.2
-  avg_copies: 3.0
-- name: Thoughtseize
+- name: Obsidian Charmaw
   weight: 0.2
   avg_copies: 3.0
 - name: Marsh Flats
   weight: 0.2
   avg_copies: 3.0
-- name: Obsidian Charmaw
+- name: Thoughtseize
   weight: 0.2
   avg_copies: 3.0
-- name: Magebane Lizard
+- name: Orim's Chant
+  weight: 0.2
+  avg_copies: 3.0
+- name: Damping Sphere
   weight: 0.2
   avg_copies: 2.0
 - name: Prismatic Ending
   weight: 0.2
   avg_copies: 2.0
-- name: Surgical Extraction
-  weight: 0.2
-  avg_copies: 2.0
-- name: Damping Sphere
-  weight: 0.2
-  avg_copies: 2.0
 - name: Orcish Bowmasters
   weight: 0.2
   avg_copies: 2.0
-- name: Arena of Glory
+- name: Surgical Extraction
   weight: 0.2
-  avg_copies: 1.0
-- name: Fire Magic
+  avg_copies: 2.0
+- name: Magebane Lizard
   weight: 0.2
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Raucous Theater
+  weight: 0.2
+  avg_copies: 1.0
+- name: Arena of Glory
   weight: 0.2
   avg_copies: 1.0
 - name: Godless Shrine
   weight: 0.2
   avg_copies: 1.0
 - name: Rough
+  weight: 0.2
+  avg_copies: 1.0
+- name: Fire Magic
   weight: 0.2
   avg_copies: 1.0
 ---

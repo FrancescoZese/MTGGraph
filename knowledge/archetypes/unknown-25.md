@@ -7,7 +7,13 @@ name: 'Unknown #25'
 meta_share: 0.0006
 list_count: 2
 top_cards:
-- name: Consult the Star Charts
+- name: Galvanic Discharge
+  weight: 1.0
+  avg_copies: 4.0
+- name: Consign to Memory
+  weight: 1.0
+  avg_copies: 4.0
+- name: Growth Spiral
   weight: 1.0
   avg_copies: 4.0
 - name: Misty Rainforest
@@ -16,16 +22,10 @@ top_cards:
 - name: Wilderness Reclamation
   weight: 1.0
   avg_copies: 4.0
-- name: Consign to Memory
+- name: Consult the Star Charts
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
-  weight: 1.0
-  avg_copies: 4.0
-- name: Growth Spiral
-  weight: 1.0
-  avg_copies: 4.0
-- name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
 - name: Counterspell
@@ -43,43 +43,28 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
-- name: Fire Magic
-  weight: 1.0
-  avg_copies: 2.0
 - name: Fire
   weight: 1.0
   avg_copies: 2.0
 - name: Island
   weight: 1.0
   avg_copies: 2.0
-- name: Nature's Claim
+- name: Flashback
   weight: 1.0
   avg_copies: 2.0
-- name: Flashback
+- name: Fire Magic
+  weight: 1.0
+  avg_copies: 2.0
+- name: Nature's Claim
   weight: 1.0
   avg_copies: 2.0
 - name: Cryptic Command
   weight: 1.0
   avg_copies: 1.5
-- name: Mountain
-  weight: 1.0
-  avg_copies: 1.0
-- name: Breeding Pool
-  weight: 1.0
-  avg_copies: 1.0
-- name: Agna Qel'a
-  weight: 1.0
-  avg_copies: 1.0
 - name: Forest
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Kaheera, the Orphanguard
-  weight: 1.0
-  avg_copies: 1.0
-- name: Stomping Ground
+- name: Commercial District
   weight: 1.0
   avg_copies: 1.0
 - name: Hedge Maze
@@ -88,10 +73,19 @@ top_cards:
 - name: Mistrise Village
   weight: 1.0
   avg_copies: 1.0
+- name: Kaheera, the Orphanguard
+  weight: 1.0
+  avg_copies: 1.0
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
+- name: Breeding Pool
+  weight: 1.0
+  avg_copies: 1.0
 - name: Cori Mountain Monastery
+  weight: 1.0
+  avg_copies: 1.0
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Spell Snare
@@ -100,16 +94,22 @@ top_cards:
 - name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
-- name: Commercial District
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
+- name: Agna Qel'a
+  weight: 1.0
+  avg_copies: 1.0
+- name: Stomping Ground
+  weight: 1.0
+  avg_copies: 1.0
+- name: Flame of Anor
+  weight: 0.5
+  avg_copies: 2.0
 - name: Brainsurge
   weight: 0.5
   avg_copies: 2.0
 - name: Force of Negation
-  weight: 0.5
-  avg_copies: 2.0
-- name: Flame of Anor
   weight: 0.5
   avg_copies: 2.0
 - name: Sink into Stupor

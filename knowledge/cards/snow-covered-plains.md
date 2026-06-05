@@ -9,7 +9,7 @@ type: Basic Snow Land — Plains
 meta_presence: 0.0155
 archetypes:
   boros-energy:
-    weight: 0.0222
+    weight: 0.022
     avg_copies: 2.1
   jeskai-energy:
     weight: 0.1395
@@ -18,10 +18,10 @@ archetypes:
     weight: 0.6087
     avg_copies: 1.29
   boros-ponza:
-    weight: 0.0202
+    weight: 0.02
     avg_copies: 4.0
   esper-blink:
-    weight: 0.0455
+    weight: 0.0435
     avg_copies: 1.0
   unknown-3:
     weight: 1.0

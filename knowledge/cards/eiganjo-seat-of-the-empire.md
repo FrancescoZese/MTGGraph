@@ -9,7 +9,7 @@ type: Legendary Land
 meta_presence: 0.0006
 archetypes:
   orzhov-blink:
-    weight: 0.125
+    weight: 0.1111
     avg_copies: 1.0
   unknown-108:
     weight: 1.0

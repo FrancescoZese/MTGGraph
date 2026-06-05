@@ -6,7 +6,7 @@ name: Wooded Foothills
 scryfall_id: 4e11ea8a-f895-438d-a3b7-f070238e4161
 set: mh3
 type: Land
-meta_presence: 0.2077
+meta_presence: 0.2076
 archetypes:
   ruby-storm:
     weight: 0.9485
@@ -25,22 +25,22 @@ archetypes:
     avg_copies: 1.0
   burn:
     weight: 1.0
-    avg_copies: 1.55
+    avg_copies: 1.52
   hollow-one:
     weight: 0.8621
     avg_copies: 2.36
   yawgmoth-combo:
-    weight: 0.3636
+    weight: 0.3556
     avg_copies: 1.25
   eldrazi-ramp:
-    weight: 0.9189
-    avg_copies: 1.31
+    weight: 0.92
+    avg_copies: 1.35
   simic-ritual:
-    weight: 0.0938
+    weight: 0.0909
     avg_copies: 3.33
   izzet-prowess:
-    weight: 0.9045
-    avg_copies: 2.58
+    weight: 0.9051
+    avg_copies: 2.57
   samwise-combo:
     weight: 0.3684
     avg_copies: 1.36
@@ -48,11 +48,11 @@ archetypes:
     weight: 0.9
     avg_copies: 2.67
   broodscale-combo:
-    weight: 0.301
-    avg_copies: 1.19
+    weight: 0.3182
+    avg_copies: 1.2
   dredge:
-    weight: 0.625
-    avg_copies: 3.1
+    weight: 0.6471
+    avg_copies: 3.09
   elves:
     weight: 1.0
     avg_copies: 1.0
@@ -111,10 +111,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-65:
-    weight: 0.9545
+    weight: 0.9565
     avg_copies: 2.86
   unknown-67:
-    weight: 0.1471
+    weight: 0.1429
     avg_copies: 1.2
   unknown-71:
     weight: 1.0
@@ -155,4 +155,7 @@ archetypes:
   unknown-116:
     weight: 1.0
     avg_copies: 2.5
+  unknown-117:
+    weight: 1.0
+    avg_copies: 2.0
 ---

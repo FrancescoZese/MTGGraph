@@ -10,6 +10,6 @@ type: Instant
 meta_presence: 0.0009
 archetypes:
   simic-ritual:
-    weight: 0.0469
+    weight: 0.0455
     avg_copies: 1.0
 ---

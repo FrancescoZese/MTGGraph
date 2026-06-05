@@ -15,7 +15,7 @@ archetypes:
     weight: 0.062
     avg_copies: 1.0
   affinity:
-    weight: 0.0166
+    weight: 0.0164
     avg_copies: 1.4
   mill:
     weight: 0.3889
@@ -27,10 +27,10 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.9688
-    avg_copies: 1.9
+    weight: 0.9697
+    avg_copies: 1.91
   esper-blink:
-    weight: 0.0455
+    weight: 0.0435
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.0333
@@ -39,7 +39,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0769
+    weight: 0.0741
     avg_copies: 1.0
   unknown-49:
     weight: 1.0
@@ -54,6 +54,6 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-111:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 4.0
 ---

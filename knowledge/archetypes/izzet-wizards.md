@@ -9,10 +9,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 4.56
-- name: Counterspell
+- name: Flame of Anor
   weight: 1.0
   avg_copies: 3.89
-- name: Flame of Anor
+- name: Counterspell
   weight: 1.0
   avg_copies: 3.89
 - name: Snapcaster Mage
@@ -24,10 +24,10 @@ top_cards:
 - name: Steam Vents
   weight: 1.0
   avg_copies: 3.0
-- name: Spell Snare
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 2.3
-- name: Lightning Bolt
+- name: Spell Snare
   weight: 1.0
   avg_copies: 2.3
 - name: Thundering Falls
@@ -120,10 +120,10 @@ top_cards:
 - name: Fable of the Mirror-Breaker
   weight: 0.2222
   avg_copies: 2.5
-- name: Lórien Revealed
+- name: Test of Talents
   weight: 0.2222
   avg_copies: 2.0
-- name: Test of Talents
+- name: Lórien Revealed
   weight: 0.2222
   avg_copies: 2.0
 - name: Surgical Extraction
@@ -141,46 +141,37 @@ top_cards:
 - name: Mishra's Bauble
   weight: 0.1111
   avg_copies: 4.0
-- name: Soul-Guide Lantern
-  weight: 0.1111
-  avg_copies: 3.0
 - name: Marang River Regent
   weight: 0.1111
   avg_copies: 3.0
-- name: Engineered Explosives
+- name: Soul-Guide Lantern
   weight: 0.1111
-  avg_copies: 2.0
-- name: Spirebluff Canal
+  avg_copies: 3.0
+- name: Expressive Iteration
   weight: 0.1111
   avg_copies: 2.0
 - name: Field of Ruin
   weight: 0.1111
   avg_copies: 2.0
+- name: Flusterstorm
+  weight: 0.1111
+  avg_copies: 2.0
 - name: Brainsurge
+  weight: 0.1111
+  avg_copies: 2.0
+- name: Spirebluff Canal
   weight: 0.1111
   avg_copies: 2.0
 - name: Den of the Bugbear
   weight: 0.1111
   avg_copies: 2.0
-- name: Expressive Iteration
+- name: Engineered Explosives
   weight: 0.1111
   avg_copies: 2.0
-- name: Flusterstorm
-  weight: 0.1111
-  avg_copies: 2.0
-- name: Agna Qel'a
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Vampires' Vengeance
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Stern Scolding
-  weight: 0.1111
-  avg_copies: 1.0
 - name: Vexing Bauble
   weight: 0.1111
   avg_copies: 1.0
-- name: Hurkyl's Recall
+- name: Vampires' Vengeance
   weight: 0.1111
   avg_copies: 1.0
 - name: Mistrise Village
@@ -189,7 +180,13 @@ top_cards:
 - name: Stone of Erech
   weight: 0.1111
   avg_copies: 1.0
-- name: Arid Mesa
+- name: Ashiok, Dream Render
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Annul
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Stern Scolding
   weight: 0.1111
   avg_copies: 1.0
 - name: Riverpyre Verge
@@ -198,10 +195,13 @@ top_cards:
 - name: Vedalken Shackles
   weight: 0.1111
   avg_copies: 1.0
-- name: Annul
+- name: Hurkyl's Recall
   weight: 0.1111
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Arid Mesa
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Agna Qel'a
   weight: 0.1111
   avg_copies: 1.0
 ---

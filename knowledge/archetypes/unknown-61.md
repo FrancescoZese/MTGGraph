@@ -2,10 +2,19 @@
 colors:
 - G
 name: 'Unknown #61'
-meta_share: 0.0032
+meta_share: 0.0031
 list_count: 10
 top_cards:
+- name: Eldrazi Temple
+  weight: 1.0
+  avg_copies: 4.0
 - name: Ugin's Labyrinth
+  weight: 1.0
+  avg_copies: 4.0
+- name: Kozilek's Command
+  weight: 1.0
+  avg_copies: 4.0
+- name: Disciple of Freyalise
   weight: 1.0
   avg_copies: 4.0
 - name: Green Sun's Zenith
@@ -14,30 +23,18 @@ top_cards:
 - name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
-- name: Emrakul, the Promised End
+- name: Turntimber Symbiosis
   weight: 1.0
   avg_copies: 4.0
 - name: Slumbering Trudge
   weight: 1.0
   avg_copies: 4.0
-- name: Turntimber Symbiosis
-  weight: 1.0
-  avg_copies: 4.0
-- name: Disciple of Freyalise
-  weight: 1.0
-  avg_copies: 4.0
-- name: Kozilek's Command
-  weight: 1.0
-  avg_copies: 4.0
-- name: Eldrazi Temple
+- name: Emrakul, the Promised End
   weight: 1.0
   avg_copies: 4.0
 - name: Thought-Knot Seer
   weight: 1.0
   avg_copies: 3.8
-- name: Fight Rigging
-  weight: 1.0
-  avg_copies: 3.7
 - name: Devourer of Destiny
   weight: 1.0
   avg_copies: 3.7
@@ -45,6 +42,9 @@ top_cards:
   weight: 1.0
   avg_copies: 3.7
 - name: Malevolent Rumble
+  weight: 1.0
+  avg_copies: 3.7
+- name: Fight Rigging
   weight: 1.0
   avg_copies: 3.7
 - name: Forest
@@ -62,7 +62,7 @@ top_cards:
 - name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
-- name: Dryad Arbor
+- name: Ghost Quarter
   weight: 1.0
   avg_copies: 1.0
 - name: Mosswort Bridge
@@ -71,13 +71,13 @@ top_cards:
 - name: Chomping Changeling
   weight: 1.0
   avg_copies: 1.0
-- name: Ghost Quarter
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
-- name: Dismember
+- name: Icetill Explorer
   weight: 0.1
   avg_copies: 1.0
-- name: Icetill Explorer
+- name: Dismember
   weight: 0.1
   avg_copies: 1.0
 ---

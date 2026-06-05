@@ -7,9 +7,9 @@ name: Fblthp, the Lost
 scryfall_id: 79b2c547-0d9e-4fd7-a399-347ad908c70b
 set: rvr
 type: Legendary Creature — Homunculus
-meta_presence: 0.0189
+meta_presence: 0.0193
 archetypes:
   simic-ritual:
-    weight: 0.9375
+    weight: 0.9394
     avg_copies: 1.98
 ---

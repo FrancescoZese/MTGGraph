@@ -10,16 +10,16 @@ type: Creature — Faerie Rogue
 meta_presence: 0.0016
 archetypes:
   goryo:
-    weight: 0.0091
+    weight: 0.0088
     avg_copies: 1.0
   mardu-blink:
     weight: 0.0435
     avg_copies: 1.0
   orzhov-blink:
-    weight: 0.125
+    weight: 0.1111
     avg_copies: 3.0
   unknown-67:
-    weight: 0.0294
+    weight: 0.0286
     avg_copies: 1.0
   unknown-113:
     weight: 1.0
