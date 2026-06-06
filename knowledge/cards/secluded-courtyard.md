@@ -6,7 +6,7 @@ name: Secluded Courtyard
 scryfall_id: 98563d19-fa5d-4395-ba6c-2bd724d9c410
 set: ecc
 type: Land
-meta_presence: 0.0019
+meta_presence: 0.0018
 archetypes:
   goryo4:
     weight: 0.75

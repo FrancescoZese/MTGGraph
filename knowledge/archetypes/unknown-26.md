@@ -6,28 +6,28 @@ name: 'Unknown #26'
 meta_share: 0.0031
 list_count: 10
 top_cards:
-- name: Path to Exile
-  weight: 1.0
-  avg_copies: 4.0
-- name: Field of Ruin
+- name: Demolition Field
   weight: 1.0
   avg_copies: 4.0
 - name: Cleansing Wildfire
   weight: 1.0
   avg_copies: 4.0
-- name: Demolition Field
+- name: Field of Ruin
   weight: 1.0
   avg_copies: 4.0
-- name: High Noon
+- name: Path to Exile
+  weight: 1.0
+  avg_copies: 4.0
+- name: Price of Freedom
   weight: 1.0
   avg_copies: 3.9
-- name: Wrath of the Skies
+- name: High Noon
   weight: 1.0
   avg_copies: 3.9
 - name: Solitude
   weight: 1.0
   avg_copies: 3.9
-- name: Price of Freedom
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 3.9
 - name: Wrath of God
@@ -84,10 +84,10 @@ top_cards:
 - name: Arid Mesa
   weight: 0.2
   avg_copies: 4.0
-- name: Reprieve
+- name: Mishra's Research Desk
   weight: 0.2
   avg_copies: 3.5
-- name: Mishra's Research Desk
+- name: Reprieve
   weight: 0.2
   avg_copies: 3.5
 - name: Wear
@@ -99,40 +99,40 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.2
   avg_copies: 2.0
-- name: White Orchid Phantom
+- name: Ark of Hunger
   weight: 0.1
   avg_copies: 4.0
 - name: Volcanic Spite
   weight: 0.1
   avg_copies: 4.0
-- name: Ark of Hunger
+- name: White Orchid Phantom
   weight: 0.1
   avg_copies: 4.0
 - name: Relic of Progenitus
   weight: 0.1
   avg_copies: 3.5
+- name: Candy Trail
+  weight: 0.1
+  avg_copies: 3.0
 - name: Get Lost
   weight: 0.1
   avg_copies: 3.0
 - name: Ragavan, Nimble Pilferer
   weight: 0.1
   avg_copies: 3.0
-- name: Candy Trail
+- name: Flashback
   weight: 0.1
-  avg_copies: 3.0
+  avg_copies: 2.0
 - name: Hallowed Moonlight
   weight: 0.1
   avg_copies: 2.0
 - name: Kor Firewalker
   weight: 0.1
   avg_copies: 2.0
-- name: Flashback
-  weight: 0.1
-  avg_copies: 2.0
-- name: Crucible of Worlds
+- name: Elixir of Immortality
   weight: 0.1
   avg_copies: 1.0
-- name: Elixir of Immortality
+- name: Crucible of Worlds
   weight: 0.1
   avg_copies: 1.0
 ---

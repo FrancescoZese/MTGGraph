@@ -5,28 +5,28 @@ colors:
 - R
 - G
 name: 'Unknown #96'
-meta_share: 0.0016
+meta_share: 0.0015
 list_count: 5
 top_cards:
-- name: Marauding Mako
-  weight: 1.0
-  avg_copies: 4.0
-- name: Hardened Academic
+- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
-- name: Hollow One
-  weight: 1.0
-  avg_copies: 4.0
-- name: Faithless Looting
+- name: Marauding Mako
   weight: 1.0
   avg_copies: 4.0
 - name: Burning Inquiry
   weight: 1.0
   avg_copies: 4.0
 - name: Arid Mesa
+  weight: 1.0
+  avg_copies: 4.0
+- name: Faithless Looting
+  weight: 1.0
+  avg_copies: 4.0
+- name: Hardened Academic
   weight: 1.0
   avg_copies: 4.0
 - name: Bloodstained Mire
@@ -71,10 +71,10 @@ top_cards:
 - name: Lightning Bolt
   weight: 0.6
   avg_copies: 3.0
-- name: Seasoned Pyromancer
+- name: Fable of the Mirror-Breaker
   weight: 0.6
   avg_copies: 2.0
-- name: Fable of the Mirror-Breaker
+- name: Seasoned Pyromancer
   weight: 0.6
   avg_copies: 2.0
 - name: Stomping Ground
@@ -92,16 +92,16 @@ top_cards:
 - name: Moonshadow
   weight: 0.2
   avg_copies: 4.0
-- name: Obsidian Charmaw
-  weight: 0.2
-  avg_copies: 3.0
-- name: Marsh Flats
-  weight: 0.2
-  avg_copies: 3.0
 - name: Thoughtseize
   weight: 0.2
   avg_copies: 3.0
+- name: Obsidian Charmaw
+  weight: 0.2
+  avg_copies: 3.0
 - name: Orim's Chant
+  weight: 0.2
+  avg_copies: 3.0
+- name: Marsh Flats
   weight: 0.2
   avg_copies: 3.0
 - name: Damping Sphere
@@ -110,28 +110,28 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.2
   avg_copies: 2.0
-- name: Orcish Bowmasters
-  weight: 0.2
-  avg_copies: 2.0
 - name: Surgical Extraction
   weight: 0.2
   avg_copies: 2.0
 - name: Magebane Lizard
   weight: 0.2
   avg_copies: 2.0
-- name: Raucous Theater
+- name: Orcish Bowmasters
   weight: 0.2
-  avg_copies: 1.0
-- name: Arena of Glory
-  weight: 0.2
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Godless Shrine
+  weight: 0.2
+  avg_copies: 1.0
+- name: Fire Magic
+  weight: 0.2
+  avg_copies: 1.0
+- name: Raucous Theater
   weight: 0.2
   avg_copies: 1.0
 - name: Rough
   weight: 0.2
   avg_copies: 1.0
-- name: Fire Magic
+- name: Arena of Glory
   weight: 0.2
   avg_copies: 1.0
 ---

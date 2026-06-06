@@ -6,10 +6,10 @@ name: Marsh Flats
 scryfall_id: 9db3ba6d-eb7f-4f5b-9a3b-c6239c3baa42
 set: mh2
 type: Land
-meta_presence: 0.2576
+meta_presence: 0.2583
 archetypes:
   boros-energy:
-    weight: 0.9648
+    weight: 0.9651
     avg_copies: 3.34
   dimir-control:
     weight: 0.3827
@@ -18,16 +18,16 @@ archetypes:
     weight: 0.0543
     avg_copies: 1.0
   goryo:
-    weight: 0.9912
-    avg_copies: 3.32
+    weight: 0.9915
+    avg_copies: 3.34
   necrodominance:
-    weight: 0.1471
-    avg_copies: 1.2
+    weight: 0.1714
+    avg_copies: 1.17
   azorius-control:
-    weight: 0.3529
+    weight: 0.3333
     avg_copies: 2.0
   domain-zoo:
-    weight: 0.0122
+    weight: 0.0238
     avg_copies: 4.0
   reanimator:
     weight: 0.037
@@ -46,13 +46,13 @@ archetypes:
     avg_copies: 4.0
   esper-blink:
     weight: 1.0
-    avg_copies: 3.74
+    avg_copies: 3.76
   orzhov-blink:
     weight: 1.0
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.8529
-    avg_copies: 2.14
+    weight: 0.8611
+    avg_copies: 2.13
   rakdos-aggro:
     weight: 0.0667
     avg_copies: 4.0
@@ -66,8 +66,8 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   goryo5:
-    weight: 0.75
-    avg_copies: 3.33
+    weight: 0.8
+    avg_copies: 3.5
   goryo2:
     weight: 1.0
     avg_copies: 4.0
@@ -153,7 +153,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-111:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
   unknown-110:
     weight: 1.0

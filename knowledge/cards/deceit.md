@@ -8,10 +8,10 @@ name: Deceit
 scryfall_id: bd82c9e4-9871-4e6d-b691-ee00b4b9a3c6
 set: ecl
 type: Creature — Elemental Incarnation
-meta_presence: 0.0134
+meta_presence: 0.0131
 archetypes:
   living-end:
-    weight: 0.62
+    weight: 0.6078
     avg_copies: 1.48
   unknown-45:
     weight: 0.75

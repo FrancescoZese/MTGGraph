@@ -7,20 +7,20 @@ name: Flashback
 scryfall_id: 1b832fda-d7c4-4566-884c-2a8b6da15488
 set: sos
 type: Instant
-meta_presence: 0.036
+meta_presence: 0.0364
 archetypes:
   ruby-storm:
-    weight: 0.4227
+    weight: 0.43
     avg_copies: 1.98
   reanimator:
     weight: 0.1111
     avg_copies: 1.67
   boros-ponza:
-    weight: 0.14
+    weight: 0.1386
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.2785
-    avg_copies: 1.7
+    weight: 0.2778
+    avg_copies: 1.71
   goryo1:
     weight: 0.0909
     avg_copies: 1.17

@@ -9,6 +9,6 @@ type: Instant // Land
 meta_presence: 0.0131
 archetypes:
   mono-blue-belcher:
-    weight: 0.7119
-    avg_copies: 1.31
+    weight: 0.7049
+    avg_copies: 1.3
 ---

@@ -3,10 +3,19 @@ colors:
 - B
 - G
 name: 'Unknown #52'
-meta_share: 0.0019
+meta_share: 0.0018
 list_count: 6
 top_cards:
-- name: Orcish Bowmasters
+- name: Verdant Catacombs
+  weight: 1.0
+  avg_copies: 4.0
+- name: Phoenix Fleet Airship
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 4.0
+- name: Phyrexian Tower
   weight: 1.0
   avg_copies: 4.0
 - name: Warren Soultrader
@@ -15,25 +24,16 @@ top_cards:
 - name: Gravecrawler
   weight: 1.0
   avg_copies: 4.0
+- name: Orcish Bowmasters
+  weight: 1.0
+  avg_copies: 4.0
 - name: Malevolent Rumble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Phyrexian Tower
-  weight: 1.0
-  avg_copies: 4.0
-- name: Phoenix Fleet Airship
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marionette Apprentice
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
 - name: Shambling Ghast
   weight: 1.0
   avg_copies: 4.0
-- name: Verdant Catacombs
+- name: Marionette Apprentice
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
@@ -69,16 +69,16 @@ top_cards:
 - name: Sephiroth, Fabled SOLDIER
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Shatter Assumptions
   weight: 1.0
   avg_copies: 1.0
 - name: Spymaster's Vault
   weight: 1.0
   avg_copies: 1.0
-- name: Bloodstained Mire
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Shatter Assumptions
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.0
 - name: Break the Ice

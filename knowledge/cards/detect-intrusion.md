@@ -6,7 +6,7 @@ name: Detect Intrusion
 scryfall_id: ''
 set: ''
 type: Unknown
-meta_presence: 0.0022
+meta_presence: 0.0021
 archetypes:
   affinity:
     weight: 0.0033
@@ -15,6 +15,6 @@ archetypes:
     weight: 0.0217
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.1471
+    weight: 0.1389
     avg_copies: 2.0
 ---

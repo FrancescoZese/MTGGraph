@@ -12,10 +12,10 @@ archetypes:
     weight: 0.0078
     avg_copies: 1.0
   goryo:
-    weight: 0.4602
+    weight: 0.4615
     avg_copies: 1.0
   azorius-control:
-    weight: 0.1765
+    weight: 0.1667
     avg_copies: 1.0
   living-end:
     weight: 1.0
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.0033
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0122
+    weight: 0.0119
     avg_copies: 1.0
   reanimator:
     weight: 0.037
@@ -36,7 +36,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.12
+    weight: 0.1139
     avg_copies: 1.0
   simic-ritual:
     weight: 0.9848
@@ -67,6 +67,9 @@ archetypes:
     avg_copies: 1.0
   unknown-39:
     weight: 1.0
+    avg_copies: 1.0
+  unknown-54:
+    weight: 0.5
     avg_copies: 1.0
   unknown-59:
     weight: 1.0

@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: Hammer Time
-meta_share: 0.0025
+meta_share: 0.0024
 list_count: 8
 top_cards:
 - name: Stoneforge Mystic
@@ -15,10 +15,10 @@ top_cards:
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 3.88
-- name: Leyline Axe
+- name: Battlefield Improvisation
   weight: 1.0
   avg_copies: 3.75
-- name: Battlefield Improvisation
+- name: Leyline Axe
   weight: 1.0
   avg_copies: 3.75
 - name: Puresteel Paladin
@@ -66,10 +66,10 @@ top_cards:
 - name: Marsh Flats
   weight: 0.625
   avg_copies: 3.2
-- name: Mystical Dispute
+- name: Soulless Jailer
   weight: 0.625
   avg_copies: 2.0
-- name: Soulless Jailer
+- name: Mystical Dispute
   weight: 0.625
   avg_copies: 2.0
 - name: Tormod's Crypt
@@ -108,10 +108,10 @@ top_cards:
 - name: Cryptic Coat
   weight: 0.375
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Grafdigger's Cage
   weight: 0.375
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Pithing Needle
   weight: 0.375
   avg_copies: 1.0
 - name: Stern Scolding
@@ -138,16 +138,16 @@ top_cards:
 - name: Containment Priest
   weight: 0.125
   avg_copies: 2.0
-- name: Paradise Mantle
-  weight: 0.125
-  avg_copies: 1.0
 - name: Prismatic Ending
   weight: 0.125
   avg_copies: 1.0
-- name: Skateboard
+- name: Soul-Guide Lantern
   weight: 0.125
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Paradise Mantle
+  weight: 0.125
+  avg_copies: 1.0
+- name: Skateboard
   weight: 0.125
   avg_copies: 1.0
 ---

@@ -9,10 +9,10 @@ name: Indomitable Creativity
 meta_share: 0.0031
 list_count: 10
 top_cards:
-- name: Indomitable Creativity
+- name: Fable of the Mirror-Breaker
   weight: 1.0
   avg_copies: 4.0
-- name: Fable of the Mirror-Breaker
+- name: Indomitable Creativity
   weight: 1.0
   avg_copies: 4.0
 - name: Wrenn and Six
@@ -36,10 +36,10 @@ top_cards:
 - name: Arid Mesa
   weight: 0.9
   avg_copies: 3.67
-- name: Wooded Foothills
+- name: Scalding Tarn
   weight: 0.9
   avg_copies: 2.67
-- name: Scalding Tarn
+- name: Wooded Foothills
   weight: 0.9
   avg_copies: 2.67
 - name: Brotherhood's End
@@ -81,10 +81,10 @@ top_cards:
 - name: Elegant Parlor
   weight: 0.7
   avg_copies: 1.0
-- name: Jetmir's Garden
+- name: Sacred Foundry
   weight: 0.7
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Jetmir's Garden
   weight: 0.7
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -111,19 +111,19 @@ top_cards:
 - name: Raucous Theater
   weight: 0.4
   avg_copies: 1.0
-- name: Elesh Norn, Grand Cenobite
+- name: Boseiju, Who Endures
   weight: 0.4
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Elesh Norn, Grand Cenobite
   weight: 0.4
   avg_copies: 1.0
 - name: Iona, Shield of Emeria
   weight: 0.4
   avg_copies: 1.0
-- name: Persist
+- name: Thoughtseize
   weight: 0.3
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Persist
   weight: 0.3
   avg_copies: 4.0
 - name: Faithless Looting
@@ -141,10 +141,10 @@ top_cards:
 - name: Strix Serenade
   weight: 0.3
   avg_copies: 1.67
-- name: Valgavoth, Terror Eater
+- name: Ziatora's Proving Ground
   weight: 0.3
   avg_copies: 1.0
-- name: Ziatora's Proving Ground
+- name: Valgavoth, Terror Eater
   weight: 0.3
   avg_copies: 1.0
 - name: Leyline of the Void
@@ -162,7 +162,7 @@ top_cards:
 - name: Prismari Command
   weight: 0.2
   avg_copies: 1.0
-- name: Ketria Triome
+- name: Emrakul, the Aeons Torn
   weight: 0.2
   avg_copies: 1.0
 - name: Abrupt Decay
@@ -171,31 +171,25 @@ top_cards:
 - name: Valakut Awakening
   weight: 0.2
   avg_copies: 1.0
-- name: Emrakul, the Aeons Torn
+- name: Ketria Triome
   weight: 0.2
   avg_copies: 1.0
 - name: Nature's Claim
   weight: 0.1
   avg_copies: 3.0
-- name: Serra's Emissary
+- name: Planar Genesis
   weight: 0.1
   avg_copies: 2.0
-- name: Planar Genesis
+- name: Serra's Emissary
   weight: 0.1
   avg_copies: 2.0
 - name: Inquisition of Kozilek
   weight: 0.1
   avg_copies: 1.5
-- name: Elesh Norn, Mother of Machines
-  weight: 0.1
-  avg_copies: 1.0
-- name: Commercial District
-  weight: 0.1
-  avg_copies: 1.0
 - name: Vampires' Vengeance
   weight: 0.1
   avg_copies: 1.0
-- name: Brainsurge
+- name: Rest in Peace
   weight: 0.1
   avg_copies: 1.0
 - name: Witherbloom Command
@@ -204,13 +198,19 @@ top_cards:
 - name: Swamp
   weight: 0.1
   avg_copies: 1.0
-- name: Rest in Peace
+- name: Brainsurge
+  weight: 0.1
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
   weight: 0.1
   avg_copies: 1.0
 - name: Turn the Earth
   weight: 0.1
   avg_copies: 1.0
 - name: Molten Collapse
+  weight: 0.1
+  avg_copies: 1.0
+- name: Commercial District
   weight: 0.1
   avg_copies: 1.0
 ---

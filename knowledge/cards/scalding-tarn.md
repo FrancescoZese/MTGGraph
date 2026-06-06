@@ -6,11 +6,11 @@ name: Scalding Tarn
 scryfall_id: 71e491c5-8c07-449b-b2f1-ffa052e6d311
 set: mh2
 type: Land
-meta_presence: 0.2433
+meta_presence: 0.2427
 archetypes:
   ruby-storm:
-    weight: 0.8969
-    avg_copies: 2.29
+    weight: 0.89
+    avg_copies: 2.28
   dimir-control:
     weight: 0.358
     avg_copies: 1.34
@@ -18,8 +18,8 @@ archetypes:
     weight: 0.9922
     avg_copies: 3.04
   azorius-control:
-    weight: 0.9706
-    avg_copies: 1.76
+    weight: 0.9722
+    avg_copies: 1.71
   jeskai-control:
     weight: 0.8929
     avg_copies: 3.12
@@ -36,8 +36,8 @@ archetypes:
     weight: 0.6522
     avg_copies: 1.27
   burn:
-    weight: 0.6522
-    avg_copies: 1.33
+    weight: 0.6667
+    avg_copies: 1.31
   hollow-one:
     weight: 0.1034
     avg_copies: 1.33
@@ -45,7 +45,7 @@ archetypes:
     weight: 0.0303
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.8924
+    weight: 0.8827
     avg_copies: 2.55
   indomitable-creativity:
     weight: 0.9
@@ -146,6 +146,9 @@ archetypes:
   unknown-53:
     weight: 1.0
     avg_copies: 4.0
+  unknown-54:
+    weight: 0.5
+    avg_copies: 2.0
   unknown-59:
     weight: 1.0
     avg_copies: 4.0
@@ -156,7 +159,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.2571
+    weight: 0.25
     avg_copies: 1.0
   unknown-70:
     weight: 1.0
@@ -218,7 +221,13 @@ archetypes:
   unknown-112:
     weight: 1.0
     avg_copies: 4.0
+  unknown-120:
+    weight: 1.0
+    avg_copies: 2.0
   unknown-118:
     weight: 1.0
     avg_copies: 2.0
+  unknown-122:
+    weight: 1.0
+    avg_copies: 4.0
 ---

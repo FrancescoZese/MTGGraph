@@ -4,13 +4,13 @@ colors:
 - B
 - R
 name: 'Unknown #68'
-meta_share: 0.0059
+meta_share: 0.0058
 list_count: 19
 top_cards:
-- name: Ocelot Pride
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Guide of Souls
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
@@ -55,13 +55,13 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.05
-- name: Blood Crypt
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowy Backstreet
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Thoughtseize
@@ -85,10 +85,10 @@ top_cards:
 - name: Sephiroth, Fabled SOLDIER
   weight: 0.7368
   avg_copies: 1.71
-- name: High Noon
+- name: Fable of the Mirror-Breaker
   weight: 0.7368
   avg_copies: 1.71
-- name: Fable of the Mirror-Breaker
+- name: High Noon
   weight: 0.7368
   avg_copies: 1.71
 - name: Nihil Spellbomb
@@ -130,10 +130,10 @@ top_cards:
 - name: Ob Nixilis, the Adversary
   weight: 0.2632
   avg_copies: 2.2
-- name: End of the Hunt
+- name: Celestial Purge
   weight: 0.2632
   avg_copies: 1.0
-- name: Celestial Purge
+- name: End of the Hunt
   weight: 0.2632
   avg_copies: 1.0
 - name: Damping Sphere
@@ -157,10 +157,10 @@ top_cards:
 - name: Lingering Souls
   weight: 0.0526
   avg_copies: 2.0
-- name: Strategic Betrayal
+- name: Solitude
   weight: 0.0526
   avg_copies: 1.0
-- name: Solitude
+- name: Strategic Betrayal
   weight: 0.0526
   avg_copies: 1.0
 ---

@@ -6,7 +6,7 @@ name: Karn Liberated
 scryfall_id: 4b0c6662-4dde-40a2-97e0-0318478c0367
 set: 2xm
 type: Legendary Planeswalker — Karn
-meta_presence: 0.0019
+meta_presence: 0.0018
 archetypes:
   eldrazi-tron:
     weight: 0.0455

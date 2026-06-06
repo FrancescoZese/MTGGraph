@@ -6,16 +6,16 @@ name: Forest
 scryfall_id: f169dfb2-e4c8-46e9-8591-e51bb82da082
 set: sos
 type: Basic Land — Forest
-meta_presence: 0.1952
+meta_presence: 0.1969
 archetypes:
   eldrazi-tron:
     weight: 0.2121
     avg_copies: 1.17
   amulet-titan:
     weight: 1.0
-    avg_copies: 2.69
+    avg_copies: 2.72
   goryo:
-    weight: 0.0177
+    weight: 0.0171
     avg_copies: 1.5
   hardened-scales:
     weight: 1.0
@@ -28,10 +28,10 @@ archetypes:
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 1.67
+    avg_copies: 1.69
   eldrazi-ramp:
     weight: 1.0
-    avg_copies: 2.73
+    avg_copies: 2.8
   simic-ritual:
     weight: 0.0152
     avg_copies: 2.0
@@ -43,7 +43,7 @@ archetypes:
     avg_copies: 1.05
   broodscale-combo:
     weight: 1.0
-    avg_copies: 2.88
+    avg_copies: 2.87
   elves:
     weight: 1.0
     avg_copies: 3.0
@@ -103,7 +103,7 @@ archetypes:
     avg_copies: 1.0
   unknown-61:
     weight: 1.0
-    avg_copies: 3.1
+    avg_copies: 3.0
   unknown-59:
     weight: 1.0
     avg_copies: 1.0
@@ -140,4 +140,7 @@ archetypes:
   unknown-102:
     weight: 1.0
     avg_copies: 1.5
+  unknown-121:
+    weight: 1.0
+    avg_copies: 4.0
 ---

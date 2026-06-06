@@ -7,22 +7,22 @@ name: Orim's Chant
 scryfall_id: ee241079-1e5a-4224-b9cb-4fd3e0da687c
 set: mh3
 type: Instant
-meta_presence: 0.2175
+meta_presence: 0.2168
 archetypes:
   ruby-storm:
-    weight: 0.8247
-    avg_copies: 3.08
+    weight: 0.83
+    avg_copies: 3.1
   boros-energy:
-    weight: 0.8747
+    weight: 0.8736
     avg_copies: 1.81
   mono-blue-belcher:
-    weight: 0.0508
-    avg_copies: 3.67
+    weight: 0.0656
+    avg_copies: 3.0
   jeskai-energy:
     weight: 0.0078
     avg_copies: 4.0
   goryo:
-    weight: 0.0177
+    weight: 0.0171
     avg_copies: 2.5
   azorius-control:
     weight: 1.0
@@ -31,31 +31,31 @@ archetypes:
     weight: 0.8571
     avg_copies: 3.65
   burn:
-    weight: 0.087
+    weight: 0.0833
     avg_copies: 1.5
   mono-red-belcher:
     weight: 0.4167
     avg_copies: 3.56
   boros-ponza:
-    weight: 0.77
+    weight: 0.7624
     avg_copies: 1.75
   4c-omnath:
     weight: 0.25
     avg_copies: 4.0
   esper-blink:
-    weight: 0.0435
+    weight: 0.0408
     avg_copies: 2.0
   indomitable-creativity:
     weight: 0.3
     avg_copies: 2.67
   broodscale-combo:
-    weight: 0.0091
+    weight: 0.009
     avg_copies: 2.0
   orzhov-blink:
     weight: 0.1111
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 1.5
   scapeshift-combo:
     weight: 0.1667

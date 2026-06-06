@@ -9,7 +9,7 @@ type: Artifact Land
 meta_presence: 0.0009
 archetypes:
   boros-ponza:
-    weight: 0.02
+    weight: 0.0198
     avg_copies: 3.0
   unknown-13:
     weight: 1.0

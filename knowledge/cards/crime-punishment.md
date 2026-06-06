@@ -9,10 +9,10 @@ name: Crime // Punishment
 scryfall_id: 2edeab08-86eb-4fa8-ba24-23dacb32e0fd
 set: dis
 type: Sorcery // Sorcery
-meta_presence: 0.0009
+meta_presence: 0.0012
 archetypes:
   yawgmoth-combo:
-    weight: 0.0222
+    weight: 0.0417
     avg_copies: 1.0
   unknown-14:
     weight: 1.0

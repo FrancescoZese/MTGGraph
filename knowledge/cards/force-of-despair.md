@@ -13,10 +13,10 @@ archetypes:
     weight: 0.0123
     avg_copies: 1.5
   necrodominance:
-    weight: 0.8824
-    avg_copies: 2.18
+    weight: 0.8857
+    avg_copies: 2.17
   living-end:
-    weight: 0.02
+    weight: 0.0196
     avg_copies: 1.0
   reanimator:
     weight: 0.6296
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.2174
     avg_copies: 2.0
   esper-blink:
-    weight: 0.0652
+    weight: 0.0612
     avg_copies: 2.0
   orzhov-blink:
     weight: 0.1111
@@ -41,7 +41,7 @@ archetypes:
     avg_copies: 2.38
   goryo5:
     weight: 1.0
-    avg_copies: 2.14
+    avg_copies: 2.11
   unknown-5:
     weight: 0.3333
     avg_copies: 3.0
@@ -61,7 +61,7 @@ archetypes:
     weight: 0.6296
     avg_copies: 2.0
   unknown-54:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 2.0
   unknown-69:
     weight: 1.0

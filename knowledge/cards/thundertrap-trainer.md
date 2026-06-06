@@ -10,10 +10,10 @@ type: Creature — Otter Wizard
 meta_presence: 0.0186
 archetypes:
   mono-blue-belcher:
-    weight: 0.6271
-    avg_copies: 3.95
+    weight: 0.623
+    avg_copies: 3.92
   azorius-control:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 4.0
   jeskai-control:
     weight: 0.1071

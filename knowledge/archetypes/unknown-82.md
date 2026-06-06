@@ -6,13 +6,13 @@ name: 'Unknown #82'
 meta_share: 0.0003
 list_count: 1
 top_cards:
+- name: Thundertrap Trainer
+  weight: 1.0
+  avg_copies: 4.0
 - name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
-- name: Flame of Anor
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flooded Strand
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
@@ -24,10 +24,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 4.0
-- name: Consign to Memory
+- name: Flame of Anor
   weight: 1.0
   avg_copies: 4.0
-- name: Thundertrap Trainer
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Tamiyo, Inquisitive Student
@@ -45,28 +45,16 @@ top_cards:
 - name: Flare of Denial
   weight: 1.0
   avg_copies: 3.0
-- name: Prismari Charm
-  weight: 1.0
-  avg_copies: 2.0
-- name: Great Hall of the Biblioplex
-  weight: 1.0
-  avg_copies: 2.0
-- name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 2.0
 - name: Damping Sphere
-  weight: 1.0
-  avg_copies: 2.0
-- name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 2.0
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
-- name: Sink into Stupor
+- name: Meltdown
   weight: 1.0
   avg_copies: 2.0
-- name: Murktide Regent
+- name: Prismari Charm
   weight: 1.0
   avg_copies: 2.0
 - name: Fire Magic
@@ -75,16 +63,28 @@ top_cards:
 - name: Spell Snare
   weight: 1.0
   avg_copies: 2.0
-- name: Meltdown
+- name: Soul-Guide Lantern
+  weight: 1.0
+  avg_copies: 2.0
+- name: Lightning Bolt
+  weight: 1.0
+  avg_copies: 2.0
+- name: Sink into Stupor
+  weight: 1.0
+  avg_copies: 2.0
+- name: Great Hall of the Biblioplex
+  weight: 1.0
+  avg_copies: 2.0
+- name: Murktide Regent
   weight: 1.0
   avg_copies: 2.0
 - name: Blood Moon
   weight: 1.0
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 ---

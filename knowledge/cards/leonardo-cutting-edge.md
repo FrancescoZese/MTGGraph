@@ -10,7 +10,7 @@ type: Legendary Creature — Mutant Ninja Turtle
 meta_presence: 0.0012
 archetypes:
   azorius-blink:
-    weight: 0.0294
+    weight: 0.0278
     avg_copies: 3.0
   bant-ritual:
     weight: 1.0

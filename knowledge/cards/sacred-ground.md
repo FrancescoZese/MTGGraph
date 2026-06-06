@@ -7,12 +7,12 @@ name: Sacred Ground
 scryfall_id: d72dc68a-d6f9-4a18-8282-0f104999591f
 set: 9ed
 type: Enchantment
-meta_presence: 0.0006
+meta_presence: 0.0009
 archetypes:
   domain-zoo:
-    weight: 0.0122
+    weight: 0.0119
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.01
+    weight: 0.0198
     avg_copies: 2.0
 ---

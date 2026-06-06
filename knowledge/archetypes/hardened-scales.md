@@ -5,22 +5,22 @@ name: Hardened Scales
 meta_share: 0.0012
 list_count: 4
 top_cards:
-- name: Arcbound Ravager
+- name: Walking Ballista
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Saga
+- name: Zabaz, the Glimmerwasp
+  weight: 1.0
+  avg_copies: 4.0
+- name: Arcbound Ravager
   weight: 1.0
   avg_copies: 4.0
 - name: Inkmoth Nexus
   weight: 1.0
   avg_copies: 4.0
-- name: Walking Ballista
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Hardened Scales
-  weight: 1.0
-  avg_copies: 4.0
-- name: Zabaz, the Glimmerwasp
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Opal
@@ -56,10 +56,10 @@ top_cards:
 - name: Nature's Claim
   weight: 1.0
   avg_copies: 1.5
-- name: Grafdigger's Cage
+- name: The Ozolith
   weight: 1.0
   avg_copies: 1.0
-- name: The Ozolith
+- name: Grafdigger's Cage
   weight: 1.0
   avg_copies: 1.0
 - name: Grove of the Burnwillows
@@ -77,13 +77,13 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.75
   avg_copies: 1.25
+- name: Pendelhaven
+  weight: 0.75
+  avg_copies: 1.0
 - name: Veil of Summer
   weight: 0.75
   avg_copies: 1.0
 - name: Pithing Needle
-  weight: 0.75
-  avg_copies: 1.0
-- name: Pendelhaven
   weight: 0.75
   avg_copies: 1.0
 - name: Strength of Will
@@ -98,34 +98,34 @@ top_cards:
 - name: Heroic Intervention
   weight: 0.5
   avg_copies: 1.5
-- name: Force of Vigor
+- name: Tormod's Crypt
   weight: 0.5
   avg_copies: 1.0
 - name: Haywire Mite
   weight: 0.5
   avg_copies: 1.0
-- name: Tormod's Crypt
+- name: Force of Vigor
   weight: 0.5
   avg_copies: 1.0
-- name: Karplusan Forest
+- name: Metallic Mimic
   weight: 0.25
   avg_copies: 4.0
 - name: Marketback Walker
   weight: 0.25
   avg_copies: 4.0
-- name: Metallic Mimic
+- name: Karplusan Forest
   weight: 0.25
   avg_copies: 4.0
 - name: Ancient Stirrings
   weight: 0.25
   avg_copies: 3.0
+- name: Scrapyard Recombiner
+  weight: 0.25
+  avg_copies: 1.0
 - name: Shadowspear
   weight: 0.25
   avg_copies: 1.0
 - name: Bridgeworks Battle
-  weight: 0.25
-  avg_copies: 1.0
-- name: Scrapyard Recombiner
   weight: 0.25
   avg_copies: 1.0
 - name: Skateboard

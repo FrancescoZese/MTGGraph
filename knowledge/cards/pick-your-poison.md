@@ -10,16 +10,16 @@ type: Sorcery
 meta_presence: 0.0205
 archetypes:
   necrodominance:
-    weight: 0.0294
+    weight: 0.0286
     avg_copies: 1.0
   simic-ritual:
     weight: 0.0152
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.1203
+    weight: 0.1173
     avg_copies: 1.89
   broodscale-combo:
-    weight: 0.2909
+    weight: 0.2883
     avg_copies: 1.97
   dredge:
     weight: 0.1176
@@ -45,4 +45,7 @@ archetypes:
   unknown-85:
     weight: 0.1111
     avg_copies: 2.0
+  unknown-121:
+    weight: 1.0
+    avg_copies: 1.0
 ---

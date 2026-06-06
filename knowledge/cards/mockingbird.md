@@ -7,14 +7,14 @@ name: Mockingbird
 scryfall_id: ade32396-8841-4ba4-8852-d11146607f21
 set: blb
 type: Creature — Bird Bard
-meta_presence: 0.0124
+meta_presence: 0.0128
 archetypes:
   boros-energy:
     weight: 0.0022
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.6471
-    avg_copies: 1.18
+    weight: 0.6667
+    avg_copies: 1.17
   unknown-62:
     weight: 0.9375
     avg_copies: 1.0

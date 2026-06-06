@@ -9,13 +9,16 @@ top_cards:
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
-- name: Abhorrent Oculus
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
 - name: Pensive Professor
   weight: 1.0
   avg_copies: 4.0
-- name: Polluted Delta
+- name: Gran-Gran
+  weight: 1.0
+  avg_copies: 4.0
+- name: Abhorrent Oculus
   weight: 1.0
   avg_copies: 4.0
 - name: Fatal Push
@@ -24,16 +27,13 @@ top_cards:
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Gran-Gran
-  weight: 1.0
-  avg_copies: 4.0
-- name: Agatha's Soul Cauldron
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marsh Flats
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Unearth
+  weight: 1.0
+  avg_copies: 4.0
+- name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 4.0
 - name: Watery Grave
@@ -48,16 +48,16 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 2.67
-- name: Darkslick Shores
-  weight: 1.0
-  avg_copies: 2.0
 - name: Force of Negation
   weight: 1.0
   avg_copies: 2.0
-- name: Swamp
+- name: Darkslick Shores
+  weight: 1.0
+  avg_copies: 2.0
+- name: Island
   weight: 1.0
   avg_copies: 1.33
-- name: Island
+- name: Swamp
   weight: 1.0
   avg_copies: 1.33
 - name: Bloodstained Mire
@@ -72,13 +72,13 @@ top_cards:
 - name: Hurkyl's Recall
   weight: 0.6667
   avg_copies: 3.0
-- name: Orcish Bowmasters
+- name: Tainted Indulgence
   weight: 0.6667
   avg_copies: 2.0
 - name: Mystical Dispute
   weight: 0.6667
   avg_copies: 2.0
-- name: Tainted Indulgence
+- name: Orcish Bowmasters
   weight: 0.6667
   avg_copies: 2.0
 - name: Sink into Stupor
@@ -90,7 +90,7 @@ top_cards:
 - name: Pyroclasm
   weight: 0.3333
   avg_copies: 2.0
-- name: Wall of Blood
+- name: Walking Ballista
   weight: 0.3333
   avg_copies: 1.0
 - name: Vizier of Tumbling Sands
@@ -102,7 +102,7 @@ top_cards:
 - name: Blood Crypt
   weight: 0.3333
   avg_copies: 1.0
-- name: Walking Ballista
+- name: Wall of Blood
   weight: 0.3333
   avg_copies: 1.0
 ---

@@ -9,10 +9,10 @@ type: Legendary Creature — Human Noble // Legendary Planeswalker — Sorin
 meta_presence: 0.0037
 archetypes:
   necrodominance:
-    weight: 0.2941
+    weight: 0.2857
     avg_copies: 2.0
   goryo5:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 4.0
   unknown-46:
     weight: 1.0

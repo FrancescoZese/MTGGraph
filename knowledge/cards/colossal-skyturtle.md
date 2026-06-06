@@ -8,12 +8,12 @@ name: Colossal Skyturtle
 scryfall_id: f40bd797-4d12-4098-a1a8-d7e5b7b82ac9
 set: neo
 type: Enchantment Creature — Turtle
-meta_presence: 0.0221
+meta_presence: 0.0223
 archetypes:
   living-end:
-    weight: 0.84
-    avg_copies: 1.4
+    weight: 0.8431
+    avg_copies: 1.42
   unknown-67:
-    weight: 0.8286
-    avg_copies: 1.27
+    weight: 0.8333
+    avg_copies: 1.29
 ---

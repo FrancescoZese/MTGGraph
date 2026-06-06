@@ -6,37 +6,37 @@ name: 'Unknown #86'
 meta_share: 0.0009
 list_count: 3
 top_cards:
-- name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Cori-Steel Cutter
-  weight: 1.0
-  avg_copies: 4.0
-- name: Boltwave
-  weight: 1.0
-  avg_copies: 4.0
 - name: Lava Spike
-  weight: 1.0
-  avg_copies: 4.0
-- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Skewer the Critics
   weight: 1.0
   avg_copies: 4.0
-- name: Monastery Swiftspear
-  weight: 1.0
-  avg_copies: 4.0
 - name: Barbarian Ring
   weight: 1.0
   avg_copies: 4.0
-- name: Light Up the Stage
+- name: Monastery Swiftspear
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cori-Steel Cutter
+  weight: 1.0
+  avg_copies: 4.0
+- name: Dragon's Rage Channeler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lightning Bolt
+  weight: 1.0
+  avg_copies: 4.0
+- name: Boltwave
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lava Dart
   weight: 1.0
   avg_copies: 3.33
-- name: Lava Dart
+- name: Light Up the Stage
   weight: 1.0
   avg_copies: 3.33
 - name: Mountain
@@ -45,19 +45,19 @@ top_cards:
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.67
-- name: Tormod's Crypt
+- name: Wear
   weight: 1.0
   avg_copies: 2.33
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 2.33
-- name: Wear
+- name: Tormod's Crypt
   weight: 1.0
   avg_copies: 2.33
-- name: Orim's Chant
+- name: Deflecting Palm
   weight: 1.0
   avg_copies: 1.67
-- name: Deflecting Palm
+- name: Orim's Chant
   weight: 1.0
   avg_copies: 1.67
 - name: Elegant Parlor
@@ -78,10 +78,10 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 0.6667
   avg_copies: 2.5
-- name: Ragavan, Nimble Pilferer
+- name: Meltdown
   weight: 0.6667
   avg_copies: 1.0
-- name: Meltdown
+- name: Ragavan, Nimble Pilferer
   weight: 0.6667
   avg_copies: 1.0
 - name: Path to Exile

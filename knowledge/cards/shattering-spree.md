@@ -7,10 +7,10 @@ name: Shattering Spree
 scryfall_id: d6dcff21-5900-43c4-a38b-cdc19c704ce4
 set: gpt
 type: Sorcery
-meta_presence: 0.0118
+meta_presence: 0.0122
 archetypes:
   ruby-storm:
-    weight: 0.0722
+    weight: 0.07
     avg_copies: 1.43
   affinity:
     weight: 0.0592
@@ -19,7 +19,7 @@ archetypes:
     weight: 0.0345
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0063
+    weight: 0.0062
     avg_copies: 1.0
   goryo0:
     weight: 0.2778
@@ -30,4 +30,7 @@ archetypes:
   unknown-98:
     weight: 1.0
     avg_copies: 2.0
+  unknown-123:
+    weight: 1.0
+    avg_copies: 3.0
 ---

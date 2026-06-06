@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.0544
 archetypes:
   domain-zoo:
-    weight: 0.0122
+    weight: 0.0119
     avg_copies: 4.0
   reanimator:
     weight: 0.8889
@@ -19,7 +19,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   izzet-prowess:
-    weight: 0.0253
+    weight: 0.0247
     avg_copies: 4.0
   indomitable-creativity:
     weight: 0.3
@@ -72,7 +72,10 @@ archetypes:
   unknown-101:
     weight: 1.0
     avg_copies: 4.0
+  unknown-120:
+    weight: 1.0
+    avg_copies: 4.0
   unknown-117:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.5
 ---

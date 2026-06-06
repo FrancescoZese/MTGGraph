@@ -13,13 +13,13 @@ archetypes:
     weight: 0.0123
     avg_copies: 2.0
   mono-blue-belcher:
-    weight: 0.3729
-    avg_copies: 1.82
+    weight: 0.377
+    avg_copies: 1.78
   necrodominance:
-    weight: 0.0294
+    weight: 0.0286
     avg_copies: 2.0
   azorius-control:
-    weight: 0.0294
+    weight: 0.0278
     avg_copies: 1.0
   affinity:
     weight: 0.0625
@@ -31,10 +31,10 @@ archetypes:
     weight: 0.0152
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0127
+    weight: 0.0123
     avg_copies: 2.0
   azorius-blink:
-    weight: 0.0294
+    weight: 0.0278
     avg_copies: 1.0
   izzet-wizards:
     weight: 0.1111
