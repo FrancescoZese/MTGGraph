@@ -6,13 +6,13 @@ colors:
 - R
 - G
 name: Indomitable Creativity
-meta_share: 0.0031
+meta_share: 0.003
 list_count: 10
 top_cards:
-- name: Fable of the Mirror-Breaker
+- name: Indomitable Creativity
   weight: 1.0
   avg_copies: 4.0
-- name: Indomitable Creativity
+- name: Fable of the Mirror-Breaker
   weight: 1.0
   avg_copies: 4.0
 - name: Wrenn and Six
@@ -21,10 +21,10 @@ top_cards:
 - name: Dwarven Mine
   weight: 1.0
   avg_copies: 3.1
-- name: Bloodstained Mire
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 2.6
-- name: Archon of Cruelty
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.6
 - name: Mountain
@@ -75,16 +75,16 @@ top_cards:
 - name: Spell Snare
   weight: 0.7
   avg_copies: 1.86
-- name: Xander's Lounge
+- name: Sacred Foundry
+  weight: 0.7
+  avg_copies: 1.0
+- name: Jetmir's Garden
   weight: 0.7
   avg_copies: 1.0
 - name: Elegant Parlor
   weight: 0.7
   avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 0.7
-  avg_copies: 1.0
-- name: Jetmir's Garden
+- name: Xander's Lounge
   weight: 0.7
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -93,10 +93,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.6
   avg_copies: 1.5
-- name: Plains
+- name: Thundering Falls
   weight: 0.6
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Plains
   weight: 0.6
   avg_copies: 1.0
 - name: Raph & Mikey, Troublemakers
@@ -108,25 +108,25 @@ top_cards:
 - name: High Noon
   weight: 0.4
   avg_copies: 2.75
-- name: Raucous Theater
+- name: Iona, Shield of Emeria
   weight: 0.4
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Raucous Theater
   weight: 0.4
   avg_copies: 1.0
 - name: Elesh Norn, Grand Cenobite
   weight: 0.4
   avg_copies: 1.0
-- name: Iona, Shield of Emeria
+- name: Boseiju, Who Endures
   weight: 0.4
   avg_copies: 1.0
-- name: Thoughtseize
-  weight: 0.3
-  avg_copies: 4.0
 - name: Persist
   weight: 0.3
   avg_copies: 4.0
 - name: Faithless Looting
+  weight: 0.3
+  avg_copies: 4.0
+- name: Thoughtseize
   weight: 0.3
   avg_copies: 4.0
 - name: Fatal Push
@@ -141,10 +141,10 @@ top_cards:
 - name: Strix Serenade
   weight: 0.3
   avg_copies: 1.67
-- name: Ziatora's Proving Ground
+- name: Valgavoth, Terror Eater
   weight: 0.3
   avg_copies: 1.0
-- name: Valgavoth, Terror Eater
+- name: Ziatora's Proving Ground
   weight: 0.3
   avg_copies: 1.0
 - name: Leyline of the Void
@@ -153,22 +153,22 @@ top_cards:
 - name: Terastodon
   weight: 0.2
   avg_copies: 3.0
-- name: Spell Pierce
-  weight: 0.2
-  avg_copies: 1.5
 - name: Meltdown
   weight: 0.2
   avg_copies: 1.5
-- name: Prismari Command
+- name: Spell Pierce
+  weight: 0.2
+  avg_copies: 1.5
+- name: Valakut Awakening
   weight: 0.2
   avg_copies: 1.0
-- name: Emrakul, the Aeons Torn
+- name: Prismari Command
   weight: 0.2
   avg_copies: 1.0
 - name: Abrupt Decay
   weight: 0.2
   avg_copies: 1.0
-- name: Valakut Awakening
+- name: Emrakul, the Aeons Torn
   weight: 0.2
   avg_copies: 1.0
 - name: Ketria Triome
@@ -177,40 +177,40 @@ top_cards:
 - name: Nature's Claim
   weight: 0.1
   avg_copies: 3.0
-- name: Planar Genesis
+- name: Serra's Emissary
   weight: 0.1
   avg_copies: 2.0
-- name: Serra's Emissary
+- name: Planar Genesis
   weight: 0.1
   avg_copies: 2.0
 - name: Inquisition of Kozilek
   weight: 0.1
   avg_copies: 1.5
-- name: Vampires' Vengeance
-  weight: 0.1
-  avg_copies: 1.0
-- name: Rest in Peace
-  weight: 0.1
-  avg_copies: 1.0
-- name: Witherbloom Command
-  weight: 0.1
-  avg_copies: 1.0
-- name: Swamp
-  weight: 0.1
-  avg_copies: 1.0
 - name: Brainsurge
-  weight: 0.1
-  avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
-  weight: 0.1
-  avg_copies: 1.0
-- name: Turn the Earth
   weight: 0.1
   avg_copies: 1.0
 - name: Molten Collapse
   weight: 0.1
   avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
+  weight: 0.1
+  avg_copies: 1.0
+- name: Swamp
+  weight: 0.1
+  avg_copies: 1.0
 - name: Commercial District
+  weight: 0.1
+  avg_copies: 1.0
+- name: Vampires' Vengeance
+  weight: 0.1
+  avg_copies: 1.0
+- name: Turn the Earth
+  weight: 0.1
+  avg_copies: 1.0
+- name: Witherbloom Command
+  weight: 0.1
+  avg_copies: 1.0
+- name: Rest in Peace
   weight: 0.1
   avg_copies: 1.0
 ---

@@ -7,12 +7,12 @@ name: Spelunking
 scryfall_id: d3be4257-2316-4a2e-b347-f71c0368a947
 set: lci
 type: Enchantment
-meta_presence: 0.033
+meta_presence: 0.0331
 archetypes:
   amulet-titan:
     weight: 1.0
     avg_copies: 3.9
   unknown-76:
-    weight: 0.75
-    avg_copies: 2.67
+    weight: 0.8
+    avg_copies: 3.0
 ---

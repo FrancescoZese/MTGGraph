@@ -10,7 +10,7 @@ type: Creature — Spirit
 meta_presence: 0.0147
 archetypes:
   yawgmoth-combo:
-    weight: 0.9792
+    weight: 0.96
     avg_copies: 1.0
   unknown-102:
     weight: 0.5

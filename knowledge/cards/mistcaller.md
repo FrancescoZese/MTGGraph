@@ -7,15 +7,18 @@ name: Mistcaller
 scryfall_id: a35c1bd0-3d1a-4e46-b74d-11db6867e0d7
 set: m19
 type: Creature — Merfolk Wizard
-meta_presence: 0.0012
+meta_presence: 0.0018
 archetypes:
   samwise-combo:
-    weight: 0.0526
+    weight: 0.0769
     avg_copies: 1.0
   azorius-blink:
     weight: 0.0278
     avg_copies: 1.0
   unknown-42:
     weight: 0.1429
+    avg_copies: 3.0
+  unknown-124:
+    weight: 1.0
     avg_copies: 3.0
 ---

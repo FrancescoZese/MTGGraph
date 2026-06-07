@@ -6,22 +6,22 @@ name: 'Unknown #86'
 meta_share: 0.0009
 list_count: 3
 top_cards:
-- name: Lava Spike
-  weight: 1.0
-  avg_copies: 4.0
-- name: Skewer the Critics
-  weight: 1.0
-  avg_copies: 4.0
-- name: Barbarian Ring
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Monastery Swiftspear
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Boltwave
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lava Spike
   weight: 1.0
   avg_copies: 4.0
 - name: Cori-Steel Cutter
+  weight: 1.0
+  avg_copies: 4.0
+- name: Barbarian Ring
   weight: 1.0
   avg_copies: 4.0
 - name: Dragon's Rage Channeler
@@ -30,28 +30,28 @@ top_cards:
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Boltwave
+- name: Skewer the Critics
   weight: 1.0
   avg_copies: 4.0
 - name: Lava Dart
   weight: 1.0
   avg_copies: 3.33
-- name: Light Up the Stage
+- name: Mountain
   weight: 1.0
   avg_copies: 3.33
-- name: Mountain
+- name: Light Up the Stage
   weight: 1.0
   avg_copies: 3.33
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.67
-- name: Wear
-  weight: 1.0
-  avg_copies: 2.33
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 2.33
 - name: Tormod's Crypt
+  weight: 1.0
+  avg_copies: 2.33
+- name: Wear
   weight: 1.0
   avg_copies: 2.33
 - name: Deflecting Palm
@@ -66,10 +66,10 @@ top_cards:
 - name: Searing Blaze
   weight: 0.6667
   avg_copies: 3.67
-- name: Wooded Foothills
+- name: Arid Mesa
   weight: 0.6667
   avg_copies: 3.0
-- name: Arid Mesa
+- name: Wooded Foothills
   weight: 0.6667
   avg_copies: 3.0
 - name: Scalding Tarn
@@ -78,22 +78,22 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 0.6667
   avg_copies: 2.5
-- name: Meltdown
-  weight: 0.6667
-  avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
   weight: 0.6667
   avg_copies: 1.0
-- name: Path to Exile
+- name: Meltdown
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Vexing Bauble
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Boros Charm
   weight: 0.3333
   avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.3333
   avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Boros Charm
+- name: Path to Exile
   weight: 0.3333
   avg_copies: 2.0
 ---

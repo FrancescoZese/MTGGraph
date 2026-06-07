@@ -9,37 +9,37 @@ top_cards:
 - name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
-- name: Sunbaked Canyon
-  weight: 1.0
-  avg_copies: 4.0
-- name: Puresteel Paladin
-  weight: 1.0
-  avg_copies: 4.0
-- name: Leyline Axe
-  weight: 1.0
-  avg_copies: 4.0
-- name: Cori-Steel Cutter
-  weight: 1.0
-  avg_copies: 4.0
-- name: Battlefield Improvisation
-  weight: 1.0
-  avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
-- name: Stoneforge Mystic
+- name: Sunbaked Canyon
+  weight: 1.0
+  avg_copies: 4.0
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
 - name: Memnite
   weight: 1.0
   avg_copies: 4.0
-- name: Steelshaper's Gift
-  weight: 1.0
-  avg_copies: 4.0
 - name: Colossus Hammer
   weight: 1.0
   avg_copies: 4.0
-- name: Arid Mesa
+- name: Steelshaper's Gift
+  weight: 1.0
+  avg_copies: 4.0
+- name: Puresteel Paladin
+  weight: 1.0
+  avg_copies: 4.0
+- name: Stoneforge Mystic
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cori-Steel Cutter
+  weight: 1.0
+  avg_copies: 4.0
+- name: Leyline Axe
+  weight: 1.0
+  avg_copies: 4.0
+- name: Battlefield Improvisation
   weight: 1.0
   avg_copies: 4.0
 - name: Plains
@@ -48,49 +48,49 @@ top_cards:
 - name: Inkmoth Nexus
   weight: 1.0
   avg_copies: 3.0
-- name: Damping Sphere
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 2.0
 - name: Forge Anew
   weight: 1.0
   avg_copies: 2.0
-- name: Wear
+- name: Disruptor Flute
   weight: 1.0
   avg_copies: 2.0
-- name: Disruptor Flute
+- name: Wear
   weight: 1.0
   avg_copies: 2.0
 - name: Mana Tithe
   weight: 1.0
   avg_copies: 2.0
-- name: Sacred Foundry
+- name: Damping Sphere
   weight: 1.0
   avg_copies: 2.0
-- name: Tormod's Crypt
-  weight: 1.0
-  avg_copies: 1.0
-- name: Elegant Parlor
-  weight: 1.0
-  avg_copies: 1.0
-- name: Paradise Mantle
-  weight: 1.0
-  avg_copies: 1.0
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.0
 - name: Tezzeret, Cruel Captain
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowspear
+- name: Tormod's Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Chainsaw
+- name: Paradise Mantle
+  weight: 1.0
+  avg_copies: 1.0
+- name: Umezawa's Jitte
+  weight: 1.0
+  avg_copies: 1.0
+- name: Elegant Parlor
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shadowspear
   weight: 1.0
   avg_copies: 1.0
 - name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
-- name: Umezawa's Jitte
+- name: Chainsaw
   weight: 1.0
   avg_copies: 1.0
 ---

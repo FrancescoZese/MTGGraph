@@ -8,7 +8,7 @@ name: Asmoranomardicadaistinaculdacar
 scryfall_id: d99a9a7d-d9ca-4c11-80ab-e39d5943a315
 set: mh2
 type: Legendary Creature — Human Wizard
-meta_presence: 0.0015
+meta_presence: 0.0021
 archetypes:
   unknown-58:
     weight: 1.0
@@ -16,6 +16,9 @@ archetypes:
   unknown-63:
     weight: 1.0
     avg_copies: 1.5
+  unknown-96:
+    weight: 0.2857
+    avg_copies: 2.0
   unknown-117:
     weight: 1.0
     avg_copies: 4.0

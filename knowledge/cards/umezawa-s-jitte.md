@@ -9,10 +9,10 @@ type: Legendary Artifact — Equipment
 meta_presence: 0.0021
 archetypes:
   boros-energy:
-    weight: 0.0044
+    weight: 0.0043
     avg_copies: 1.0
   affinity:
-    weight: 0.0066
+    weight: 0.0064
     avg_copies: 1.0
   unknown-74:
     weight: 1.0

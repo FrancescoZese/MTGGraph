@@ -10,7 +10,7 @@ type: Creature — Human Shaman
 meta_presence: 0.1428
 archetypes:
   boros-energy:
-    weight: 0.9695
+    weight: 0.97
     avg_copies: 2.92
   mardu-blink:
     weight: 0.0435
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 3.0
   unknown-96:
-    weight: 0.6
+    weight: 0.4286
     avg_copies: 2.0
   unknown-110:
     weight: 1.0

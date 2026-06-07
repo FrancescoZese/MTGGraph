@@ -7,16 +7,16 @@ name: Stitcher's Supplier
 scryfall_id: 2edcde06-b326-476e-884d-770187c785fe
 set: tdc
 type: Creature — Zombie
-meta_presence: 0.0092
+meta_presence: 0.0093
 archetypes:
   reanimator:
     weight: 0.1481
     avg_copies: 4.0
   dredge:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 4.0
   soultrader-combo:
-    weight: 0.75
+    weight: 0.8
     avg_copies: 4.0
   unknown-1:
     weight: 1.0

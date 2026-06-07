@@ -3,8 +3,8 @@ colors:
 - U
 - R
 name: Izzet Artifacts
-meta_share: 0.0092
-list_count: 30
+meta_share: 0.0093
+list_count: 31
 top_cards:
 - name: Mishra's Bauble
   weight: 1.0
@@ -17,236 +17,239 @@ top_cards:
   avg_copies: 3.87
 - name: Urza's Saga
   weight: 1.0
-  avg_copies: 3.57
+  avg_copies: 3.58
 - name: Mox Amber
   weight: 1.0
-  avg_copies: 3.43
+  avg_copies: 3.42
 - name: Tamiyo, Inquisitive Student
-  weight: 0.9667
+  weight: 0.9677
   avg_copies: 4.0
 - name: Metallic Rebuke
-  weight: 0.9667
-  avg_copies: 3.52
+  weight: 0.9677
+  avg_copies: 3.5
 - name: Island
-  weight: 0.9667
-  avg_copies: 1.28
+  weight: 0.9677
+  avg_copies: 1.27
 - name: Cori-Steel Cutter
-  weight: 0.9333
-  avg_copies: 3.82
+  weight: 0.9355
+  avg_copies: 3.83
 - name: Consign to Memory
-  weight: 0.9333
-  avg_copies: 2.71
+  weight: 0.9355
+  avg_copies: 2.72
 - name: Fiery Islet
-  weight: 0.9333
-  avg_copies: 2.61
+  weight: 0.9355
+  avg_copies: 2.59
 - name: Steam Vents
-  weight: 0.9333
-  avg_copies: 1.89
+  weight: 0.9355
+  avg_copies: 1.9
 - name: Force of Negation
-  weight: 0.8667
-  avg_copies: 1.65
+  weight: 0.871
+  avg_copies: 1.67
 - name: Aether Spellbomb
-  weight: 0.7333
+  weight: 0.7419
   avg_copies: 1.0
 - name: Fire Magic
-  weight: 0.7
-  avg_copies: 2.29
+  weight: 0.7097
+  avg_copies: 2.27
 - name: Strix Serenade
-  weight: 0.7
-  avg_copies: 1.2
+  weight: 0.6774
+  avg_copies: 1.19
 - name: Spirebluff Canal
-  weight: 0.6333
-  avg_copies: 3.16
-- name: Sink into Stupor
-  weight: 0.5667
-  avg_copies: 2.06
+  weight: 0.6452
+  avg_copies: 3.05
 - name: Scalding Tarn
-  weight: 0.5333
-  avg_copies: 3.75
+  weight: 0.5484
+  avg_copies: 3.76
 - name: Unholy Heat
-  weight: 0.5333
-  avg_copies: 3.35
-- name: Repeal
-  weight: 0.5333
-  avg_copies: 1.62
-- name: Soul-Guide Lantern
-  weight: 0.5333
-  avg_copies: 1.0
+  weight: 0.5484
+  avg_copies: 3.39
+- name: Sink into Stupor
+  weight: 0.5484
+  avg_copies: 2.06
 - name: Boomerang Basics
-  weight: 0.5
-  avg_copies: 3.53
+  weight: 0.5161
+  avg_copies: 3.44
+- name: Repeal
+  weight: 0.5161
+  avg_copies: 1.62
 - name: Breeding Pool
-  weight: 0.5
-  avg_copies: 1.07
+  weight: 0.5161
+  avg_copies: 1.06
 - name: Thundering Falls
-  weight: 0.5
+  weight: 0.5161
   avg_copies: 1.0
-- name: Pithing Needle
-  weight: 0.5
+- name: Soul-Guide Lantern
+  weight: 0.5161
   avg_copies: 1.0
 - name: Skateboard
-  weight: 0.5
+  weight: 0.5161
+  avg_copies: 1.0
+- name: Haywire Mite
+  weight: 0.4839
+  avg_copies: 1.21
+- name: Mountain
+  weight: 0.4839
+  avg_copies: 1.0
+- name: Pithing Needle
+  weight: 0.4839
   avg_copies: 1.0
 - name: Blood Moon
-  weight: 0.4667
+  weight: 0.4516
   avg_copies: 2.64
 - name: Harbinger of the Seas
-  weight: 0.4667
+  weight: 0.4516
   avg_copies: 2.57
-- name: Haywire Mite
-  weight: 0.4667
-  avg_copies: 1.23
-- name: Mountain
-  weight: 0.4667
-  avg_copies: 1.0
-- name: Erayo, Soratami Ascendant
-  weight: 0.4333
-  avg_copies: 3.69
 - name: Quantum Riddler
-  weight: 0.4333
-  avg_copies: 2.62
+  weight: 0.4516
+  avg_copies: 2.4
 - name: Vandalblast
-  weight: 0.4333
-  avg_copies: 2.31
+  weight: 0.4516
+  avg_copies: 2.21
 - name: Flame of Anor
-  weight: 0.4333
+  weight: 0.4516
   avg_copies: 1.95
 - name: Tormod's Crypt
-  weight: 0.4333
-  avg_copies: 1.07
+  weight: 0.4516
+  avg_copies: 1.06
+- name: Erayo, Soratami Ascendant
+  weight: 0.4194
+  avg_copies: 3.69
 - name: Preordain
-  weight: 0.4
+  weight: 0.3871
   avg_copies: 2.92
 - name: Vexing Bauble
-  weight: 0.3667
+  weight: 0.3548
   avg_copies: 1.0
 - name: Otawara, Soaring City
-  weight: 0.3
+  weight: 0.3226
   avg_copies: 1.0
 - name: Shadowspear
-  weight: 0.3
+  weight: 0.2903
   avg_copies: 1.0
 - name: Whipflare
-  weight: 0.2667
+  weight: 0.2581
   avg_copies: 2.25
 - name: Flooded Strand
-  weight: 0.2667
+  weight: 0.2581
   avg_copies: 1.0
 - name: Minamo, School at Water's Edge
-  weight: 0.2667
+  weight: 0.2581
   avg_copies: 1.0
-- name: Test of Talents
-  weight: 0.2
-  avg_copies: 2.33
 - name: Mystical Dispute
-  weight: 0.2
-  avg_copies: 1.5
+  weight: 0.2258
+  avg_copies: 1.43
+- name: Test of Talents
+  weight: 0.1935
+  avg_copies: 2.33
 - name: Engineered Explosives
-  weight: 0.1667
+  weight: 0.1613
   avg_copies: 1.0
 - name: Sewer-veillance Cam
-  weight: 0.1333
+  weight: 0.129
   avg_copies: 4.0
-- name: Emeritus of Conflict
-  weight: 0.1
+- name: Grinding Station
+  weight: 0.0968
   avg_copies: 3.0
 - name: Misty Rainforest
-  weight: 0.1
+  weight: 0.0968
   avg_copies: 3.0
-- name: Grinding Station
-  weight: 0.1
+- name: Emeritus of Conflict
+  weight: 0.0968
   avg_copies: 3.0
+- name: Lightning Bolt
+  weight: 0.0968
+  avg_copies: 2.2
 - name: Pyroclasm
-  weight: 0.1
+  weight: 0.0968
   avg_copies: 1.67
 - name: Malevolent Rumble
-  weight: 0.0667
+  weight: 0.0645
   avg_copies: 4.0
-- name: Lightning Bolt
-  weight: 0.0667
-  avg_copies: 2.5
 - name: Six
-  weight: 0.0667
+  weight: 0.0645
   avg_copies: 2.0
 - name: Annul
-  weight: 0.0667
+  weight: 0.0645
   avg_copies: 2.0
 - name: Endurance
-  weight: 0.0667
+  weight: 0.0645
   avg_copies: 2.0
-- name: Boseiju, Who Endures
-  weight: 0.0667
-  avg_copies: 1.0
 - name: Lavaspur Boots
-  weight: 0.0667
+  weight: 0.0645
+  avg_copies: 1.0
+- name: Boseiju, Who Endures
+  weight: 0.0645
   avg_copies: 1.0
 - name: Hedge Maze
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Shifting Woodland
-  weight: 0.0667
+  weight: 0.0645
   avg_copies: 1.0
 - name: Grafdigger's Cage
-  weight: 0.0667
+  weight: 0.0645
+  avg_copies: 1.0
+- name: Shifting Woodland
+  weight: 0.0645
   avg_copies: 1.0
 - name: Stormchaser's Talent
-  weight: 0.0333
+  weight: 0.0323
   avg_copies: 4.0
 - name: Vivi Ornitier
-  weight: 0.0333
-  avg_copies: 3.0
-- name: Retraction Helix
-  weight: 0.0333
+  weight: 0.0323
   avg_copies: 3.0
 - name: Experimental Synthesizer
-  weight: 0.0333
+  weight: 0.0323
   avg_copies: 3.0
-- name: The Reality Chip
-  weight: 0.0333
+- name: Retraction Helix
+  weight: 0.0323
+  avg_copies: 3.0
+- name: Invasive Surgery
+  weight: 0.0323
   avg_copies: 2.0
-- name: Spell Pierce
-  weight: 0.0333
-  avg_copies: 2.0
-- name: Botanical Sanctum
-  weight: 0.0333
+- name: card:ledger-shredder
+  weight: 0.0323
   avg_copies: 2.0
 - name: Kappa Cannoneer
-  weight: 0.0333
+  weight: 0.0323
   avg_copies: 2.0
-- name: Invasive Surgery
-  weight: 0.0333
+- name: The Reality Chip
+  weight: 0.0323
   avg_copies: 2.0
-- name: Subtlety
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Swan Song
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Nature's Claim
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Stomping Ground
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Force of Vigor
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Shivan Reef
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Snow-Covered Mountain
-  weight: 0.0333
-  avg_copies: 1.0
-- name: An Offer You Can't Refuse
-  weight: 0.0333
+- name: Spell Pierce
+  weight: 0.0323
+  avg_copies: 2.0
+- name: Botanical Sanctum
+  weight: 0.0323
+  avg_copies: 2.0
+- name: Snow-Covered Island
+  weight: 0.0323
   avg_copies: 1.0
 - name: Meltdown
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Snow-Covered Island
-  weight: 0.0333
+  weight: 0.0323
   avg_copies: 1.0
 - name: Ashiok, Dream Render
-  weight: 0.0333
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Snow-Covered Mountain
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Subtlety
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Shivan Reef
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Force of Vigor
+  weight: 0.0323
+  avg_copies: 1.0
+- name: An Offer You Can't Refuse
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Swan Song
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Nature's Claim
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Stomping Ground
+  weight: 0.0323
   avg_copies: 1.0
 ---

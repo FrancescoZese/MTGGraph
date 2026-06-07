@@ -7,14 +7,14 @@ name: March of Wretched Sorrow
 scryfall_id: 050a604e-6146-4e2e-88a5-863ecb3dfa1f
 set: neo
 type: Instant
-meta_presence: 0.0122
+meta_presence: 0.0123
 archetypes:
   necrodominance:
     weight: 0.9429
     avg_copies: 2.27
   goryo5:
-    weight: 0.8
-    avg_copies: 2.75
+    weight: 0.8333
+    avg_copies: 2.4
   unknown-46:
     weight: 1.0
     avg_copies: 2.0

@@ -15,10 +15,10 @@ top_cards:
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 3.88
-- name: Battlefield Improvisation
+- name: Leyline Axe
   weight: 1.0
   avg_copies: 3.75
-- name: Leyline Axe
+- name: Battlefield Improvisation
   weight: 1.0
   avg_copies: 3.75
 - name: Puresteel Paladin
@@ -66,10 +66,10 @@ top_cards:
 - name: Marsh Flats
   weight: 0.625
   avg_copies: 3.2
-- name: Soulless Jailer
+- name: Mystical Dispute
   weight: 0.625
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Soulless Jailer
   weight: 0.625
   avg_copies: 2.0
 - name: Tormod's Crypt
@@ -90,10 +90,10 @@ top_cards:
 - name: Portable Hole
   weight: 0.375
   avg_copies: 2.2
-- name: Damping Sphere
+- name: Suncleanser
   weight: 0.375
   avg_copies: 2.0
-- name: Suncleanser
+- name: Damping Sphere
   weight: 0.375
   avg_copies: 2.0
 - name: Teferi, Time Raveler
@@ -105,16 +105,16 @@ top_cards:
 - name: Kappa Cannoneer
   weight: 0.375
   avg_copies: 1.4
-- name: Cryptic Coat
+- name: Stern Scolding
   weight: 0.375
   avg_copies: 1.0
 - name: Grafdigger's Cage
   weight: 0.375
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Cryptic Coat
   weight: 0.375
   avg_copies: 1.0
-- name: Stern Scolding
+- name: Pithing Needle
   weight: 0.375
   avg_copies: 1.0
 - name: Memnite
@@ -141,13 +141,13 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.125
   avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.125
-  avg_copies: 1.0
 - name: Paradise Mantle
   weight: 0.125
   avg_copies: 1.0
 - name: Skateboard
+  weight: 0.125
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
   weight: 0.125
   avg_copies: 1.0
 ---

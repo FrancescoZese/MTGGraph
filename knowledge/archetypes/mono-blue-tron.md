@@ -2,16 +2,16 @@
 colors:
 - U
 name: Mono-Blue Tron
-meta_share: 0.0037
+meta_share: 0.0036
 list_count: 12
 top_cards:
+- name: Urza's Power Plant
+  weight: 1.0
+  avg_copies: 4.0
 - name: Expedition Map
   weight: 1.0
   avg_copies: 4.0
 - name: Kozilek's Command
-  weight: 1.0
-  avg_copies: 4.0
-- name: Urza's Power Plant
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Tower
@@ -98,13 +98,13 @@ top_cards:
 - name: Devourer of Destiny
   weight: 0.25
   avg_copies: 3.0
+- name: Marrow Shards
+  weight: 0.25
+  avg_copies: 2.33
 - name: Relic of Progenitus
   weight: 0.25
   avg_copies: 2.33
 - name: Unable to Scream
-  weight: 0.25
-  avg_copies: 2.33
-- name: Marrow Shards
   weight: 0.25
   avg_copies: 2.33
 - name: Engineered Explosives
@@ -116,10 +116,10 @@ top_cards:
 - name: Hall of Storm Giants
   weight: 0.25
   avg_copies: 1.0
-- name: Karn, the Great Creator
+- name: Remand
   weight: 0.1667
   avg_copies: 4.0
-- name: Remand
+- name: Karn, the Great Creator
   weight: 0.1667
   avg_copies: 4.0
 - name: Nulldrifter
@@ -134,40 +134,40 @@ top_cards:
 - name: Ugin's Binding
   weight: 0.1667
   avg_copies: 1.5
-- name: Walking Ballista
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Soulless Jailer
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Sundering Titan
   weight: 0.1667
   avg_copies: 1.0
-- name: Oblivion Stone
+- name: Walking Ballista
   weight: 0.1667
   avg_copies: 1.0
-- name: Ensnaring Bridge
+- name: Snow-Covered Island
   weight: 0.1667
   avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 0.1667
   avg_copies: 1.0
+- name: Oboro, Palace in the Clouds
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Wurmcoil Engine
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Ensnaring Bridge
   weight: 0.1667
   avg_copies: 1.0
 - name: Cityscape Leveler
   weight: 0.1667
   avg_copies: 1.0
-- name: Liquimetal Coating
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Oboro, Palace in the Clouds
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Disruptor Flute
   weight: 0.1667
   avg_copies: 1.0
-- name: Snow-Covered Island
+- name: Soulless Jailer
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Liquimetal Coating
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Oblivion Stone
   weight: 0.1667
   avg_copies: 1.0
 - name: Strix Serenade
@@ -176,28 +176,28 @@ top_cards:
 - name: Omen of the Sea
   weight: 0.0833
   avg_copies: 3.0
-- name: Change the Equation
-  weight: 0.0833
-  avg_copies: 2.0
-- name: Propaganda
-  weight: 0.0833
-  avg_copies: 2.0
 - name: Sire of Seven Deaths
   weight: 0.0833
   avg_copies: 2.0
 - name: All Is Dust
   weight: 0.0833
   avg_copies: 2.0
-- name: Temporal Mastery
+- name: Change the Equation
   weight: 0.0833
-  avg_copies: 1.0
-- name: Boseiju, Who Shelters All
+  avg_copies: 2.0
+- name: Propaganda
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Vexing Bauble
   weight: 0.0833
   avg_copies: 1.0
 - name: Talisman of Progress
   weight: 0.0833
   avg_copies: 1.0
-- name: Vexing Bauble
+- name: Boseiju, Who Shelters All
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Temporal Mastery
   weight: 0.0833
   avg_copies: 1.0
 ---

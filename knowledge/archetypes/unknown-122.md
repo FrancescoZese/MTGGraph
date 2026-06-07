@@ -7,25 +7,7 @@ name: 'Unknown #122'
 meta_share: 0.0003
 list_count: 1
 top_cards:
-- name: Questing Druid
-  weight: 1.0
-  avg_copies: 4.0
-- name: Scalding Tarn
-  weight: 1.0
-  avg_copies: 4.0
-- name: Stormchaser's Talent
-  weight: 1.0
-  avg_copies: 4.0
 - name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Cori-Steel Cutter
-  weight: 1.0
-  avg_copies: 4.0
-- name: Preordain
-  weight: 1.0
-  avg_copies: 4.0
-- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Lava Dart
@@ -34,19 +16,37 @@ top_cards:
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
+- name: Scalding Tarn
+  weight: 1.0
+  avg_copies: 4.0
 - name: Arid Mesa
+  weight: 1.0
+  avg_copies: 4.0
+- name: Stormchaser's Talent
   weight: 1.0
   avg_copies: 4.0
 - name: Academic Dispute
   weight: 1.0
   avg_copies: 4.0
-- name: Steam Vents
+- name: Cori-Steel Cutter
+  weight: 1.0
+  avg_copies: 4.0
+- name: Questing Druid
+  weight: 1.0
+  avg_copies: 4.0
+- name: Dragon's Rage Channeler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Preordain
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mountain
   weight: 1.0
   avg_copies: 3.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
-- name: Mountain
+- name: Steam Vents
   weight: 1.0
   avg_copies: 3.0
 - name: Vexing Bauble
@@ -55,31 +55,28 @@ top_cards:
 - name: Misty Rainforest
   weight: 1.0
   avg_copies: 2.0
-- name: Tormod's Crypt
-  weight: 1.0
-  avg_copies: 2.0
 - name: Boomerang Basics
   weight: 1.0
   avg_copies: 2.0
-- name: Iroh's Demonstration
+- name: Tormod's Crypt
+  weight: 1.0
+  avg_copies: 2.0
+- name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 1.0
-- name: Price of Freedom
+- name: Firebending Lesson
   weight: 1.0
   avg_copies: 1.0
-- name: It'll Quench Ya!
+- name: Origin of Metalbending
   weight: 1.0
   avg_copies: 1.0
 - name: Island
   weight: 1.0
   avg_copies: 1.0
-- name: Ragavan, Nimble Pilferer
+- name: Iroh's Demonstration
   weight: 1.0
   avg_copies: 1.0
-- name: Stomping Ground
-  weight: 1.0
-  avg_copies: 1.0
-- name: Origin of Metalbending
+- name: Price of Freedom
   weight: 1.0
   avg_copies: 1.0
 - name: Thundering Falls
@@ -88,7 +85,10 @@ top_cards:
 - name: Octopus Form
   weight: 1.0
   avg_copies: 1.0
-- name: Firebending Lesson
+- name: It'll Quench Ya!
+  weight: 1.0
+  avg_copies: 1.0
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
 ---

@@ -7,9 +7,9 @@ name: Crypt Incursion
 scryfall_id: c3b71cc5-0a81-4cab-bae3-49335c04aaaa
 set: dgm
 type: Instant
-meta_presence: 0.0037
+meta_presence: 0.0039
 archetypes:
   mill:
-    weight: 0.6667
-    avg_copies: 1.33
+    weight: 0.6842
+    avg_copies: 1.37
 ---

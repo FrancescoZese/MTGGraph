@@ -10,6 +10,6 @@ type: Creature — Boar Elk Bird Ox
 meta_presence: 0.0003
 archetypes:
   boros-energy:
-    weight: 0.0022
+    weight: 0.0021
     avg_copies: 1.0
 ---

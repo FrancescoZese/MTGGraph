@@ -5,7 +5,7 @@ colors:
 - R
 - G
 name: 'Unknown #67'
-meta_share: 0.011
+meta_share: 0.0108
 list_count: 36
 top_cards:
 - name: Shardless Agent
@@ -53,19 +53,19 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.03
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Forest
+- name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Stomping Ground
+  weight: 1.0
+  avg_copies: 1.0
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Wistfulness
@@ -86,10 +86,10 @@ top_cards:
 - name: Colossal Skyturtle
   weight: 0.8333
   avg_copies: 1.29
-- name: Otawara, Soaring City
+- name: Boseiju, Who Endures
   weight: 0.75
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Otawara, Soaring City
   weight: 0.75
   avg_copies: 1.0
 - name: Striped Riverwinder
@@ -149,31 +149,31 @@ top_cards:
 - name: Fade from History
   weight: 0.1111
   avg_copies: 1.25
-- name: Quantum Riddler
+- name: Flare of Denial
   weight: 0.1111
   avg_copies: 1.0
-- name: Flare of Denial
+- name: Quantum Riddler
   weight: 0.1111
   avg_copies: 1.0
 - name: Teferi, Time Raveler
   weight: 0.0833
   avg_copies: 2.0
-- name: Valakut Awakening
+- name: Temple Garden
   weight: 0.0833
   avg_copies: 1.0
-- name: Temple Garden
+- name: Valakut Awakening
   weight: 0.0833
   avg_copies: 1.0
 - name: Clarion Conqueror
   weight: 0.0556
   avg_copies: 3.0
+- name: Windcaller Aven
+  weight: 0.0556
+  avg_copies: 1.0
 - name: Press the Enemy
   weight: 0.0556
   avg_copies: 1.0
 - name: Hallowed Fountain
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Windcaller Aven
   weight: 0.0556
   avg_copies: 1.0
 - name: Faerie Macabre

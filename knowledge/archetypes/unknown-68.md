@@ -4,7 +4,7 @@ colors:
 - B
 - R
 name: 'Unknown #68'
-meta_share: 0.0058
+meta_share: 0.0057
 list_count: 19
 top_cards:
 - name: Guide of Souls
@@ -58,10 +58,10 @@ top_cards:
 - name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Thoughtseize
@@ -82,10 +82,10 @@ top_cards:
 - name: Seasoned Pyromancer
   weight: 0.7895
   avg_copies: 2.13
-- name: Sephiroth, Fabled SOLDIER
+- name: Fable of the Mirror-Breaker
   weight: 0.7368
   avg_copies: 1.71
-- name: Fable of the Mirror-Breaker
+- name: Sephiroth, Fabled SOLDIER
   weight: 0.7368
   avg_copies: 1.71
 - name: High Noon
@@ -130,10 +130,10 @@ top_cards:
 - name: Ob Nixilis, the Adversary
   weight: 0.2632
   avg_copies: 2.2
-- name: Celestial Purge
+- name: End of the Hunt
   weight: 0.2632
   avg_copies: 1.0
-- name: End of the Hunt
+- name: Celestial Purge
   weight: 0.2632
   avg_copies: 1.0
 - name: Damping Sphere
@@ -142,25 +142,25 @@ top_cards:
 - name: Meltdown
   weight: 0.2105
   avg_copies: 1.0
-- name: Prismatic Ending
+- name: The Legend of Roku
   weight: 0.1579
   avg_copies: 1.0
-- name: The Legend of Roku
+- name: Prismatic Ending
   weight: 0.1579
   avg_copies: 1.0
 - name: Blood Moon
   weight: 0.1053
   avg_copies: 2.0
-- name: Fulminator Mage
-  weight: 0.0526
-  avg_copies: 2.0
 - name: Lingering Souls
   weight: 0.0526
   avg_copies: 2.0
-- name: Solitude
+- name: Fulminator Mage
+  weight: 0.0526
+  avg_copies: 2.0
+- name: Strategic Betrayal
   weight: 0.0526
   avg_copies: 1.0
-- name: Strategic Betrayal
+- name: Solitude
   weight: 0.0526
   avg_copies: 1.0
 ---

@@ -6,12 +6,6 @@ name: 'Unknown #102'
 meta_share: 0.0006
 list_count: 2
 top_cards:
-- name: Chord of Calling
-  weight: 1.0
-  avg_copies: 4.0
-- name: Young Wolf
-  weight: 1.0
-  avg_copies: 4.0
 - name: Delighted Halfling
   weight: 1.0
   avg_copies: 4.0
@@ -21,7 +15,13 @@ top_cards:
 - name: Birthing Ritual
   weight: 1.0
   avg_copies: 4.0
+- name: Young Wolf
+  weight: 1.0
+  avg_copies: 4.0
 - name: Marionette Apprentice
+  weight: 1.0
+  avg_copies: 4.0
+- name: Chord of Calling
   weight: 1.0
   avg_copies: 4.0
 - name: Verdant Catacombs
@@ -30,6 +30,9 @@ top_cards:
 - name: Blooming Marsh
   weight: 1.0
   avg_copies: 2.5
+- name: Vexing Bauble
+  weight: 1.0
+  avg_copies: 2.0
 - name: Underground Mortuary
   weight: 1.0
   avg_copies: 2.0
@@ -42,76 +45,73 @@ top_cards:
 - name: Twilight Mire
   weight: 1.0
   avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 1.0
-  avg_copies: 2.0
 - name: Orcish Bowmasters
-  weight: 1.0
-  avg_copies: 1.5
-- name: Forest
   weight: 1.0
   avg_copies: 1.5
 - name: Ignoble Hierarch
   weight: 1.0
   avg_copies: 1.5
-- name: Endurance
-  weight: 1.0
-  avg_copies: 1.5
 - name: Force of Vigor
   weight: 1.0
   avg_copies: 1.5
-- name: Sephiroth, Fabled SOLDIER
+- name: Endurance
   weight: 1.0
-  avg_copies: 1.0
-- name: Prosperous Innkeeper
+  avg_copies: 1.5
+- name: Forest
   weight: 1.0
-  avg_copies: 1.0
-- name: Pendelhaven
-  weight: 1.0
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Hapatra, Vizier of Poisons
-  weight: 1.0
-  avg_copies: 1.0
-- name: Geralf's Messenger
-  weight: 1.0
-  avg_copies: 1.0
-- name: Spore Frog
-  weight: 1.0
-  avg_copies: 1.0
-- name: Fade from History
-  weight: 1.0
-  avg_copies: 1.0
-- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Urborg, Tomb of Yawgmoth
   weight: 1.0
   avg_copies: 1.0
-- name: Takenuma, Abandoned Mire
+- name: Spore Frog
   weight: 1.0
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Pendelhaven
+  weight: 1.0
+  avg_copies: 1.0
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 1.0
-- name: Grist, the Hunger Tide
+- name: Prosperous Innkeeper
   weight: 1.0
   avg_copies: 1.0
 - name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
+- name: Fade from History
+  weight: 1.0
+  avg_copies: 1.0
+- name: Sephiroth, Fabled SOLDIER
+  weight: 1.0
+  avg_copies: 1.0
+- name: Boseiju, Who Endures
+  weight: 1.0
+  avg_copies: 1.0
+- name: Takenuma, Abandoned Mire
+  weight: 1.0
+  avg_copies: 1.0
 - name: Yavimaya, Cradle of Growth
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Artist
+- name: Mai, Scornful Striker
   weight: 1.0
   avg_copies: 1.0
 - name: Overgrown Tomb
   weight: 1.0
   avg_copies: 1.0
-- name: Mai, Scornful Striker
+- name: Blood Artist
+  weight: 1.0
+  avg_copies: 1.0
+- name: Grist, the Hunger Tide
+  weight: 1.0
+  avg_copies: 1.0
+- name: Geralf's Messenger
   weight: 1.0
   avg_copies: 1.0
 - name: Badgermole Cub
@@ -120,13 +120,13 @@ top_cards:
 - name: Wall of Roots
   weight: 0.5
   avg_copies: 3.0
-- name: Spymaster's Vault
+- name: Haywire Mite
   weight: 0.5
   avg_copies: 1.0
 - name: Strangleroot Geist
   weight: 0.5
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Spymaster's Vault
   weight: 0.5
   avg_copies: 1.0
 ---

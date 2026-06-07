@@ -7,14 +7,14 @@ name: Vessel of Volatility
 scryfall_id: 81647b86-2c84-4a14-8d5a-919f7a5b8bc7
 set: soi
 type: Enchantment
-meta_presence: 0.0067
+meta_presence: 0.0069
 archetypes:
   mono-red-belcher:
     weight: 0.6667
     avg_copies: 3.38
   goryo0:
-    weight: 0.7222
-    avg_copies: 2.85
+    weight: 0.7368
+    avg_copies: 2.71
   unknown-40:
     weight: 1.0
     avg_copies: 4.0

@@ -3,7 +3,7 @@ colors:
 - W
 - R
 name: 'Unknown #26'
-meta_share: 0.0031
+meta_share: 0.003
 list_count: 10
 top_cards:
 - name: Demolition Field
@@ -12,12 +12,15 @@ top_cards:
 - name: Cleansing Wildfire
   weight: 1.0
   avg_copies: 4.0
-- name: Field of Ruin
-  weight: 1.0
-  avg_copies: 4.0
 - name: Path to Exile
   weight: 1.0
   avg_copies: 4.0
+- name: Field of Ruin
+  weight: 1.0
+  avg_copies: 4.0
+- name: Wrath of the Skies
+  weight: 1.0
+  avg_copies: 3.9
 - name: Price of Freedom
   weight: 1.0
   avg_copies: 3.9
@@ -25,9 +28,6 @@ top_cards:
   weight: 1.0
   avg_copies: 3.9
 - name: Solitude
-  weight: 1.0
-  avg_copies: 3.9
-- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 3.9
 - name: Wrath of God
@@ -78,10 +78,10 @@ top_cards:
 - name: Sacred Foundry
   weight: 0.3
   avg_copies: 2.0
-- name: Mazemind Tome
+- name: Arid Mesa
   weight: 0.2
   avg_copies: 4.0
-- name: Arid Mesa
+- name: Mazemind Tome
   weight: 0.2
   avg_copies: 4.0
 - name: Mishra's Research Desk
@@ -102,10 +102,10 @@ top_cards:
 - name: Ark of Hunger
   weight: 0.1
   avg_copies: 4.0
-- name: Volcanic Spite
+- name: White Orchid Phantom
   weight: 0.1
   avg_copies: 4.0
-- name: White Orchid Phantom
+- name: Volcanic Spite
   weight: 0.1
   avg_copies: 4.0
 - name: Relic of Progenitus
@@ -114,25 +114,25 @@ top_cards:
 - name: Candy Trail
   weight: 0.1
   avg_copies: 3.0
-- name: Get Lost
-  weight: 0.1
-  avg_copies: 3.0
 - name: Ragavan, Nimble Pilferer
   weight: 0.1
   avg_copies: 3.0
+- name: Get Lost
+  weight: 0.1
+  avg_copies: 3.0
+- name: Kor Firewalker
+  weight: 0.1
+  avg_copies: 2.0
 - name: Flashback
   weight: 0.1
   avg_copies: 2.0
 - name: Hallowed Moonlight
   weight: 0.1
   avg_copies: 2.0
-- name: Kor Firewalker
-  weight: 0.1
-  avg_copies: 2.0
-- name: Elixir of Immortality
+- name: Crucible of Worlds
   weight: 0.1
   avg_copies: 1.0
-- name: Crucible of Worlds
+- name: Elixir of Immortality
   weight: 0.1
   avg_copies: 1.0
 ---

@@ -10,7 +10,7 @@ type: Creature — Human Peasant // Instant — Adventure
 meta_presence: 0.0006
 archetypes:
   boros-energy:
-    weight: 0.0022
+    weight: 0.0021
     avg_copies: 1.0
   azorius-blink:
     weight: 0.0278

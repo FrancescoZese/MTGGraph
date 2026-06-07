@@ -10,6 +10,6 @@ type: Legendary Creature — Human Warlock
 meta_presence: 0.0003
 archetypes:
   goryo5:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 1.0
 ---

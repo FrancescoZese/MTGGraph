@@ -10,6 +10,6 @@ type: Sorcery
 meta_presence: 0.0009
 archetypes:
   eldrazi-ramp:
-    weight: 0.038
+    weight: 0.037
     avg_copies: 1.67
 ---

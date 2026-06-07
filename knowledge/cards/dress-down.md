@@ -7,7 +7,7 @@ name: Dress Down
 scryfall_id: 04f9f061-67b8-4427-9fcb-b3ccfee8fc5d
 set: mh2
 type: Enchantment
-meta_presence: 0.0079
+meta_presence: 0.0078
 archetypes:
   dimir-control:
     weight: 0.0123
@@ -16,7 +16,7 @@ archetypes:
     weight: 0.0164
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0556
+    weight: 0.0541
     avg_copies: 1.0
   jeskai-control:
     weight: 0.0357
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.2
   simic-ritual:
-    weight: 0.0152
+    weight: 0.0149
     avg_copies: 1.0
   izzet-wizards:
     weight: 0.2222

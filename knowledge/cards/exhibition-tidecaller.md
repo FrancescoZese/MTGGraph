@@ -7,14 +7,14 @@ name: Exhibition Tidecaller
 scryfall_id: a58c364e-d0c5-41b9-8c8b-2e5a99468cc7
 set: sos
 type: Creature — Djinn Wizard
-meta_presence: 0.0076
+meta_presence: 0.0081
 archetypes:
   mill:
-    weight: 0.3889
-    avg_copies: 2.43
+    weight: 0.4211
+    avg_copies: 2.38
   dredge:
-    weight: 0.8235
-    avg_copies: 3.67
+    weight: 0.8333
+    avg_copies: 3.69
   unknown-2:
     weight: 1.0
     avg_copies: 4.0

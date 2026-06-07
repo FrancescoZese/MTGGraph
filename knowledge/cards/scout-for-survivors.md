@@ -7,12 +7,12 @@ name: Scout for Survivors
 scryfall_id: ebf3a6dd-a447-46f9-8b10-091ac8cbaa18
 set: eoe
 type: Sorcery
-meta_presence: 0.0031
+meta_presence: 0.0033
 archetypes:
   boros-energy:
-    weight: 0.0022
+    weight: 0.0021
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.2368
-    avg_copies: 1.44
+    weight: 0.2564
+    avg_copies: 1.36
 ---

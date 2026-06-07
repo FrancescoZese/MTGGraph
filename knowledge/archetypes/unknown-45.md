@@ -3,25 +3,25 @@ colors:
 - U
 - B
 name: 'Unknown #45'
-meta_share: 0.0049
+meta_share: 0.0048
 list_count: 16
 top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 4.06
+- name: Archon of Cruelty
+  weight: 1.0
+  avg_copies: 4.0
+- name: Eyetwitch
+  weight: 1.0
+  avg_copies: 4.0
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Crypt of Agadeem
   weight: 1.0
   avg_copies: 4.0
-- name: Archon of Cruelty
-  weight: 1.0
-  avg_copies: 4.0
 - name: Stitcher's Supplier
-  weight: 1.0
-  avg_copies: 4.0
-- name: Eyetwitch
   weight: 1.0
   avg_copies: 4.0
 - name: Persist
@@ -54,13 +54,13 @@ top_cards:
 - name: Boggart Trawler
   weight: 1.0
   avg_copies: 1.56
-- name: Ruinous Waterbending
+- name: Decorum Dissertation
   weight: 1.0
   avg_copies: 1.0
 - name: Ozai's Cruelty
   weight: 1.0
   avg_copies: 1.0
-- name: Decorum Dissertation
+- name: Ruinous Waterbending
   weight: 1.0
   avg_copies: 1.0
 - name: Break the Ice
@@ -96,10 +96,10 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.75
   avg_copies: 2.17
-- name: Deceit
+- name: Inquisition of Kozilek
   weight: 0.75
   avg_copies: 1.0
-- name: Inquisition of Kozilek
+- name: Deceit
   weight: 0.75
   avg_copies: 1.0
 - name: Verdant Catacombs
@@ -108,10 +108,10 @@ top_cards:
 - name: Poet's Quill
   weight: 0.6875
   avg_copies: 1.0
-- name: Dawnhand Dissident
+- name: Fulminator Mage
   weight: 0.4375
   avg_copies: 1.0
-- name: Fulminator Mage
+- name: Dawnhand Dissident
   weight: 0.4375
   avg_copies: 1.0
 - name: Void Mirror
@@ -129,37 +129,37 @@ top_cards:
 - name: Culling Ritual
   weight: 0.0625
   avg_copies: 3.0
+- name: Nihil Spellbomb
+  weight: 0.0625
+  avg_copies: 2.0
 - name: Price of Freedom
   weight: 0.0625
   avg_copies: 2.0
 - name: Blood Crypt
   weight: 0.0625
   avg_copies: 2.0
-- name: Nihil Spellbomb
-  weight: 0.0625
-  avg_copies: 2.0
-- name: Iroh's Demonstration
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Cling to Dust
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Improvisation Capstone
+- name: Redirect Lightning
   weight: 0.0625
   avg_copies: 1.0
 - name: Raucous Theater
   weight: 0.0625
   avg_copies: 1.0
-- name: Chthonian Nightmare
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Redirect Lightning
+- name: Iroh's Demonstration
   weight: 0.0625
   avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.0625
   avg_copies: 1.0
+- name: Cling to Dust
+  weight: 0.0625
+  avg_copies: 1.0
 - name: Liliana, the Last Hope
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Improvisation Capstone
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Chthonian Nightmare
   weight: 0.0625
   avg_copies: 1.0
 ---

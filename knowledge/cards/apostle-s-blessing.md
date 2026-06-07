@@ -6,10 +6,10 @@ name: Apostle's Blessing
 scryfall_id: fdfbc07e-d726-4d42-9394-6aa0f5fc3a3a
 set: mm2
 type: Instant
-meta_presence: 0.0028
+meta_presence: 0.0027
 archetypes:
   broodscale-combo:
-    weight: 0.0631
+    weight: 0.0609
     avg_copies: 1.43
   unknown-11:
     weight: 0.6667

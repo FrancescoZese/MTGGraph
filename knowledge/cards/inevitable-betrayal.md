@@ -7,11 +7,11 @@ name: Inevitable Betrayal
 scryfall_id: 71725895-38cd-4017-bbf0-0b7dc9b5db60
 set: mh2
 type: Sorcery
-meta_presence: 0.0315
+meta_presence: 0.0313
 archetypes:
   living-end:
     weight: 1.0
-    avg_copies: 2.24
+    avg_copies: 2.25
   unknown-65:
     weight: 0.6957
     avg_copies: 2.0

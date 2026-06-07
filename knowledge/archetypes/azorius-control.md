@@ -3,24 +3,24 @@ colors:
 - W
 - U
 name: Azorius Control
-meta_share: 0.011
-list_count: 36
+meta_share: 0.0111
+list_count: 37
 top_cards:
 - name: Orim's Chant
   weight: 1.0
-  avg_copies: 3.94
+  avg_copies: 3.95
 - name: Flooded Strand
   weight: 1.0
-  avg_copies: 3.83
+  avg_copies: 3.84
 - name: Consign to Memory
   weight: 1.0
-  avg_copies: 3.83
+  avg_copies: 3.84
 - name: Prismatic Ending
   weight: 1.0
-  avg_copies: 3.67
+  avg_copies: 3.68
 - name: Teferi, Time Raveler
   weight: 1.0
-  avg_copies: 3.45
+  avg_copies: 3.46
 - name: Solitude
   weight: 1.0
   avg_copies: 3.22
@@ -40,223 +40,223 @@ top_cards:
   weight: 1.0
   avg_copies: 1.92
 - name: Scalding Tarn
-  weight: 0.9722
-  avg_copies: 1.71
+  weight: 0.973
+  avg_copies: 1.72
 - name: Isochron Scepter
-  weight: 0.9444
-  avg_copies: 1.67
+  weight: 0.9459
+  avg_copies: 1.68
 - name: Counterspell
-  weight: 0.9167
-  avg_copies: 3.47
+  weight: 0.9189
+  avg_copies: 3.49
 - name: Consult the Star Charts
-  weight: 0.9167
-  avg_copies: 3.36
+  weight: 0.9189
+  avg_copies: 3.38
 - name: Arid Mesa
-  weight: 0.9167
+  weight: 0.9189
   avg_copies: 1.85
 - name: Wrath of the Skies
-  weight: 0.9167
+  weight: 0.9189
   avg_copies: 1.7
 - name: Mystic Gate
-  weight: 0.9167
+  weight: 0.9189
   avg_copies: 1.06
 - name: Otawara, Soaring City
-  weight: 0.9167
+  weight: 0.9189
   avg_copies: 1.0
 - name: Kaheera, the Orphanguard
-  weight: 0.9167
+  weight: 0.9189
   avg_copies: 1.0
 - name: Supreme Verdict
-  weight: 0.8889
+  weight: 0.8919
   avg_copies: 1.71
 - name: Spell Snare
-  weight: 0.8611
+  weight: 0.8649
   avg_copies: 1.82
 - name: Hall of Storm Giants
-  weight: 0.8611
+  weight: 0.8649
   avg_copies: 1.0
 - name: High Noon
-  weight: 0.7778
+  weight: 0.7838
   avg_copies: 1.93
 - name: Surgical Extraction
-  weight: 0.7778
+  weight: 0.7838
   avg_copies: 1.14
 - name: Monumental Henge
-  weight: 0.75
+  weight: 0.7568
   avg_copies: 1.04
 - name: Lórien Revealed
-  weight: 0.7222
-  avg_copies: 1.58
+  weight: 0.7297
+  avg_copies: 1.59
 - name: Teferi, Hero of Dominaria
-  weight: 0.6667
-  avg_copies: 1.79
+  weight: 0.6757
+  avg_copies: 1.8
 - name: Thundering Falls
-  weight: 0.6389
+  weight: 0.6486
   avg_copies: 1.0
 - name: Rest in Peace
-  weight: 0.5833
+  weight: 0.5946
   avg_copies: 1.14
 - name: Celestial Purge
-  weight: 0.4722
-  avg_copies: 1.35
+  weight: 0.4865
+  avg_copies: 1.39
 - name: Steam Vents
-  weight: 0.4722
+  weight: 0.4595
   avg_copies: 1.0
 - name: Stock Up
-  weight: 0.4444
+  weight: 0.4324
   avg_copies: 1.88
 - name: Narset, Parter of Veils
-  weight: 0.4167
+  weight: 0.4054
   avg_copies: 3.53
 - name: Day's Undoing
-  weight: 0.3889
+  weight: 0.3784
   avg_copies: 1.71
 - name: Marsh Flats
-  weight: 0.3333
+  weight: 0.3514
   avg_copies: 2.0
-- name: Force of Negation
-  weight: 0.3333
-  avg_copies: 1.67
 - name: Watery Grave
-  weight: 0.3333
+  weight: 0.3514
   avg_copies: 1.0
+- name: Force of Negation
+  weight: 0.3243
+  avg_copies: 1.67
 - name: Geier Reach Sanitarium
-  weight: 0.3056
+  weight: 0.2973
   avg_copies: 1.0
+- name: Flow State
+  weight: 0.2703
+  avg_copies: 1.9
 - name: Chalice of the Void
-  weight: 0.2778
+  weight: 0.2703
   avg_copies: 1.8
 - name: Polluted Delta
-  weight: 0.2778
+  weight: 0.2703
   avg_copies: 1.1
 - name: Misty Rainforest
-  weight: 0.2778
+  weight: 0.2703
   avg_copies: 1.1
 - name: Floodfarm Verge
-  weight: 0.25
+  weight: 0.2432
   avg_copies: 2.0
-- name: Flow State
-  weight: 0.25
-  avg_copies: 1.89
 - name: Subtlety
-  weight: 0.2222
+  weight: 0.2162
   avg_copies: 1.75
 - name: Tune the Narrative
-  weight: 0.1944
+  weight: 0.1892
   avg_copies: 2.57
 - name: Hedge Maze
-  weight: 0.1944
+  weight: 0.1892
   avg_copies: 1.0
 - name: Windswept Heath
-  weight: 0.1667
+  weight: 0.1622
   avg_copies: 1.33
 - name: Breeding Pool
-  weight: 0.1667
+  weight: 0.1622
   avg_copies: 1.0
 - name: Vexing Bauble
-  weight: 0.1111
+  weight: 0.1081
   avg_copies: 2.0
-- name: Beza, the Bounding Spring
-  weight: 0.1111
-  avg_copies: 1.25
 - name: Ashiok, Dream Render
-  weight: 0.1111
+  weight: 0.1081
+  avg_copies: 1.25
+- name: Beza, the Bounding Spring
+  weight: 0.1081
   avg_copies: 1.25
 - name: Field of Ruin
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Disruptor Flute
-  weight: 0.1111
+  weight: 0.1081
   avg_copies: 1.0
 - name: Stern Scolding
-  weight: 0.1111
+  weight: 0.1081
+  avg_copies: 1.0
+- name: Disruptor Flute
+  weight: 0.1081
   avg_copies: 1.0
 - name: Soul-Guide Lantern
-  weight: 0.0833
+  weight: 0.0811
   avg_copies: 2.67
 - name: Temporary Lockdown
-  weight: 0.0833
+  weight: 0.0811
   avg_copies: 1.8
 - name: Sink into Stupor
-  weight: 0.0833
+  weight: 0.0811
   avg_copies: 1.67
 - name: March of Otherworldly Light
-  weight: 0.0833
+  weight: 0.0811
   avg_copies: 1.5
-- name: Suppression Ray
-  weight: 0.0556
-  avg_copies: 4.0
 - name: Thundertrap Trainer
-  weight: 0.0556
+  weight: 0.0541
+  avg_copies: 4.0
+- name: Suppression Ray
+  weight: 0.0541
   avg_copies: 4.0
 - name: Fire Magic
-  weight: 0.0556
+  weight: 0.0541
   avg_copies: 2.0
 - name: Mistrise Village
-  weight: 0.0556
+  weight: 0.0541
   avg_copies: 1.0
 - name: Gemstone Caverns
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Dress Down
-  weight: 0.0556
+  weight: 0.0541
   avg_copies: 1.0
 - name: Sacred Foundry
-  weight: 0.0556
+  weight: 0.0541
+  avg_copies: 1.0
+- name: Dress Down
+  weight: 0.0541
   avg_copies: 1.0
 - name: Undercity Sewers
-  weight: 0.0556
+  weight: 0.0541
   avg_copies: 1.0
 - name: Jace, the Mind Sculptor
-  weight: 0.0556
+  weight: 0.0541
   avg_copies: 1.0
 - name: Brainsurge
-  weight: 0.0278
+  weight: 0.027
   avg_copies: 4.0
 - name: Galvanic Discharge
-  weight: 0.0278
+  weight: 0.027
   avg_copies: 4.0
 - name: Terminus
-  weight: 0.0278
+  weight: 0.027
   avg_copies: 3.0
-- name: Wear
-  weight: 0.0278
-  avg_copies: 2.0
 - name: Pyroclasm
-  weight: 0.0278
+  weight: 0.027
   avg_copies: 2.0
-- name: Wan Shi Tong, Librarian
-  weight: 0.0278
-  avg_copies: 1.0
-- name: Petrified Hamlet
-  weight: 0.0278
-  avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.0278
-  avg_copies: 1.0
+- name: Wear
+  weight: 0.027
+  avg_copies: 2.0
 - name: Celestial Colonnade
-  weight: 0.0278
+  weight: 0.027
   avg_copies: 1.0
-- name: Vendilion Clique
-  weight: 0.0278
-  avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.0278
-  avg_copies: 1.0
-- name: Commandeer
-  weight: 0.0278
-  avg_copies: 1.0
-- name: Erode
-  weight: 0.0278
-  avg_copies: 1.0
-- name: Get Lost
-  weight: 0.0278
-  avg_copies: 1.0
-- name: The Wandering Emperor
-  weight: 0.0278
+- name: Wan Shi Tong, Librarian
+  weight: 0.027
   avg_copies: 1.0
 - name: Strix Serenade
-  weight: 0.0278
+  weight: 0.027
+  avg_copies: 1.0
+- name: Vendilion Clique
+  weight: 0.027
+  avg_copies: 1.0
+- name: Hurkyl's Recall
+  weight: 0.027
+  avg_copies: 1.0
+- name: Erode
+  weight: 0.027
+  avg_copies: 1.0
+- name: Tamiyo, Inquisitive Student
+  weight: 0.027
+  avg_copies: 1.0
+- name: The Wandering Emperor
+  weight: 0.027
+  avg_copies: 1.0
+- name: Commandeer
+  weight: 0.027
+  avg_copies: 1.0
+- name: Get Lost
+  weight: 0.027
+  avg_copies: 1.0
+- name: Petrified Hamlet
+  weight: 0.027
   avg_copies: 1.0
 ---
 Draw-go control deck with Solitude and Prismatic Ending for removal, backed by Counterspell and Teferi for countermagic and card advantage.

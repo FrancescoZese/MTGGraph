@@ -4,7 +4,7 @@ colors:
 - R
 - G
 name: 'Unknown #65'
-meta_share: 0.007
+meta_share: 0.0069
 list_count: 23
 top_cards:
 - name: Violent Outburst
@@ -46,22 +46,22 @@ top_cards:
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.74
-- name: Island
-  weight: 1.0
-  avg_copies: 1.13
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.13
-- name: Hedge Maze
+- name: Island
   weight: 1.0
-  avg_copies: 1.0
-- name: Forest
-  weight: 1.0
-  avg_copies: 1.0
+  avg_copies: 1.13
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
+- name: Hedge Maze
+  weight: 1.0
+  avg_copies: 1.0
 - name: Stomping Ground
+  weight: 1.0
+  avg_copies: 1.0
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Wooded Foothills
@@ -70,10 +70,10 @@ top_cards:
 - name: Brotherhood's End
   weight: 0.9565
   avg_copies: 2.18
-- name: Boseiju, Who Endures
+- name: Mountain
   weight: 0.9565
   avg_copies: 1.0
-- name: Mountain
+- name: Boseiju, Who Endures
   weight: 0.9565
   avg_copies: 1.0
 - name: Obsidian Charmaw
@@ -133,13 +133,13 @@ top_cards:
 - name: Flame of Anor
   weight: 0.0435
   avg_copies: 4.0
-- name: Commandeer
-  weight: 0.0435
-  avg_copies: 2.0
 - name: Mutavault
   weight: 0.0435
   avg_copies: 2.0
-- name: Rough
+- name: Commandeer
+  weight: 0.0435
+  avg_copies: 2.0
+- name: Mine Collapse
   weight: 0.0435
   avg_copies: 1.0
 - name: Fable of the Mirror-Breaker
@@ -148,7 +148,7 @@ top_cards:
 - name: Ketria Triome
   weight: 0.0435
   avg_copies: 1.0
-- name: Mine Collapse
+- name: Rough
   weight: 0.0435
   avg_copies: 1.0
 ---

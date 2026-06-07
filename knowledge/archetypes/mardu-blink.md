@@ -4,7 +4,7 @@ colors:
 - B
 - R
 name: Mardu Blink
-meta_share: 0.007
+meta_share: 0.0069
 list_count: 23
 top_cards:
 - name: Solitude
@@ -19,10 +19,10 @@ top_cards:
 - name: Phlage, Titan of Fire's Fury
   weight: 1.0
   avg_copies: 3.09
-- name: Arid Mesa
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 2.7
-- name: Marsh Flats
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 2.7
 - name: Witch Enchanter
@@ -43,13 +43,13 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.04
-- name: Elegant Parlor
+- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Wear
@@ -70,10 +70,10 @@ top_cards:
 - name: Detective's Phoenix
   weight: 0.8696
   avg_copies: 1.9
-- name: Damping Sphere
+- name: Bloodstained Mire
   weight: 0.8696
   avg_copies: 1.85
-- name: Bloodstained Mire
+- name: Damping Sphere
   weight: 0.8696
   avg_copies: 1.85
 - name: Pinnacle Monk
@@ -136,10 +136,10 @@ top_cards:
 - name: Swamp
   weight: 0.1739
   avg_copies: 1.0
-- name: Containment Priest
+- name: Snow-Covered Swamp
   weight: 0.1739
   avg_copies: 1.0
-- name: Snow-Covered Swamp
+- name: Containment Priest
   weight: 0.1739
   avg_copies: 1.0
 - name: Clarion Conqueror
@@ -160,22 +160,22 @@ top_cards:
 - name: Unholy Heat
   weight: 0.0435
   avg_copies: 3.0
-- name: Magus of the Moon
-  weight: 0.0435
-  avg_copies: 2.0
-- name: Seasoned Pyromancer
-  weight: 0.0435
-  avg_copies: 2.0
 - name: The Legend of Roku
   weight: 0.0435
   avg_copies: 2.0
 - name: Graveyard Trespasser
   weight: 0.0435
   avg_copies: 2.0
-- name: Pest Control
+- name: Magus of the Moon
+  weight: 0.0435
+  avg_copies: 2.0
+- name: Seasoned Pyromancer
+  weight: 0.0435
+  avg_copies: 2.0
+- name: Emptiness
   weight: 0.0435
   avg_copies: 1.0
-- name: Emptiness
+- name: Pest Control
   weight: 0.0435
   avg_copies: 1.0
 - name: Faerie Macabre

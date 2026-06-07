@@ -10,6 +10,6 @@ type: Creature — Human Rogue
 meta_presence: 0.0003
 archetypes:
   living-end:
-    weight: 0.0196
+    weight: 0.0192
     avg_copies: 1.0
 ---

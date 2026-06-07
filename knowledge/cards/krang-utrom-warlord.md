@@ -9,6 +9,6 @@ type: Legendary Artifact Creature — Utrom Robot
 meta_presence: 0.0006
 archetypes:
   eldrazi-tron:
-    weight: 0.0152
+    weight: 0.015
     avg_copies: 1.0
 ---

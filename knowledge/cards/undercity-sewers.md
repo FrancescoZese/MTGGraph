@@ -12,31 +12,31 @@ archetypes:
     weight: 1.0
     avg_copies: 2.16
   goryo:
-    weight: 0.9829
+    weight: 0.9832
     avg_copies: 1.0
   necrodominance:
     weight: 0.1429
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0556
+    weight: 0.0541
     avg_copies: 1.0
   living-end:
-    weight: 0.7255
+    weight: 0.7308
     avg_copies: 1.0
   mill:
-    weight: 0.9444
-    avg_copies: 1.35
+    weight: 0.9474
+    avg_copies: 1.39
   reanimator:
     weight: 0.8519
     avg_copies: 1.52
   neoform-combo:
-    weight: 0.0217
+    weight: 0.0213
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.1364
+    weight: 0.1343
     avg_copies: 1.0
   esper-blink:
-    weight: 0.9592
+    weight: 0.96
     avg_copies: 1.0
   esper-control:
     weight: 1.0
@@ -128,4 +128,7 @@ archetypes:
   unknown-120:
     weight: 1.0
     avg_copies: 1.0
+  unknown-125:
+    weight: 1.0
+    avg_copies: 2.0
 ---

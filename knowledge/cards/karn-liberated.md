@@ -9,6 +9,6 @@ type: Legendary Planeswalker — Karn
 meta_presence: 0.0018
 archetypes:
   eldrazi-tron:
-    weight: 0.0455
+    weight: 0.0451
     avg_copies: 1.17
 ---

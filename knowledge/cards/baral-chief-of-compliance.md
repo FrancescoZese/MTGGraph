@@ -10,7 +10,7 @@ type: Legendary Creature — Human Wizard
 meta_presence: 0.0009
 archetypes:
   ruby-storm:
-    weight: 0.02
+    weight: 0.0198
     avg_copies: 1.0
   unknown-11:
     weight: 0.3333

@@ -1,0 +1,38 @@
+---
+archetype: goryo0
+date: '2026-06-07'
+finish: 5-0
+pilot: NAP_DARKMAGE_MJM
+source: MTGO Modern League
+---
+
+
+# Mainboard
+4 Goblin Charbelcher
+1 Razorgrass Ambush
+4 Witch Enchanter
+4 Pinnacle Monk
+4 Sundering Eruption
+4 Legion Leadership
+3 Talisman of Conviction
+4 Manamorphose
+4 Desperate Ritual
+1 Silence
+4 Orim's Chant
+4 Pyretic Ritual
+1 Vessel of Volatility
+4 Irencrag Feat
+4 Shatterskull Smashing
+4 Strike It Rich
+2 March of Reckless Joy
+4 Stormscale Scion
+
+# Sideboard
+1 Static Prison
+1 Price of Freedom
+3 Blood Moon
+2 Shattering Spree
+2 Silence
+1 Mountain
+3 Wear/Tear
+2 Path to Exile

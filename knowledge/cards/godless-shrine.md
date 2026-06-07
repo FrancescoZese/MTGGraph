@@ -9,10 +9,10 @@ type: Land — Plains Swamp
 meta_presence: 0.1091
 archetypes:
   goryo:
-    weight: 0.9829
+    weight: 0.9832
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.9643
+    weight: 0.9647
     avg_copies: 1.0
   reanimator:
     weight: 0.037
@@ -22,7 +22,7 @@ archetypes:
     avg_copies: 1.04
   esper-blink:
     weight: 1.0
-    avg_copies: 1.65
+    avg_copies: 1.66
   samwise-combo:
     weight: 1.0
     avg_copies: 1.0
@@ -69,7 +69,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.2
+    weight: 0.1429
     avg_copies: 1.0
   unknown-110:
     weight: 1.0
@@ -78,6 +78,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-116:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-126:
     weight: 1.0
     avg_copies: 1.0
 ---

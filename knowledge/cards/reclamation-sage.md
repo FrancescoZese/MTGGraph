@@ -10,9 +10,9 @@ type: Creature — Elf Shaman
 meta_presence: 0.0012
 archetypes:
   simic-ritual:
-    weight: 0.0152
+    weight: 0.0149
     avg_copies: 1.0
   soultrader-combo:
-    weight: 0.75
+    weight: 0.6
     avg_copies: 1.33
 ---

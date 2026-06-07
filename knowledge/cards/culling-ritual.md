@@ -11,31 +11,31 @@ type: Sorcery
 meta_presence: 0.0397
 archetypes:
   goryo:
-    weight: 0.0171
+    weight: 0.0168
     avg_copies: 1.0
   necrodominance:
     weight: 0.0286
     avg_copies: 2.0
   living-end:
-    weight: 0.5686
+    weight: 0.5577
     avg_copies: 1.9
   yawgmoth-combo:
-    weight: 0.3333
+    weight: 0.34
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0127
+    weight: 0.0123
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.8485
+    weight: 0.8358
     avg_copies: 2.86
   samwise-combo:
-    weight: 0.1053
+    weight: 0.1026
     avg_copies: 2.0
   goryo5:
-    weight: 0.8
-    avg_copies: 1.5
+    weight: 0.8333
+    avg_copies: 1.6
   soultrader-combo:
-    weight: 0.75
+    weight: 0.6
     avg_copies: 1.67
   sultai-midrange:
     weight: 0.5

@@ -6,10 +6,10 @@ name: Oboro, Palace in the Clouds
 scryfall_id: ffc2d68e-6543-43ec-b67a-afff1325a32f
 set: sok
 type: Legendary Land
-meta_presence: 0.0064
+meta_presence: 0.0066
 archetypes:
   mill:
-    weight: 0.9444
+    weight: 0.9474
     avg_copies: 1.0
   mono-blue-tron:
     weight: 0.1667

@@ -7,28 +7,28 @@ name: 'Unknown #70'
 meta_share: 0.0009
 list_count: 3
 top_cards:
-- name: Guide of Souls
-  weight: 1.0
-  avg_copies: 4.0
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ajani, Nacatl Pariah
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
+- name: Ajani, Nacatl Pariah
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 3.67
-- name: Quantum Riddler
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 3.67
-- name: Ocelot Pride
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 3.67
 - name: Phelia, Exuberant Shepherd
@@ -40,19 +40,19 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 2.2
-- name: Plains
-  weight: 1.0
-  avg_copies: 2.0
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 2.0
-- name: Steam Vents
+- name: Plains
   weight: 1.0
-  avg_copies: 1.67
+  avg_copies: 2.0
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.67
 - name: High Noon
+  weight: 1.0
+  avg_copies: 1.67
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.67
 - name: Hallowed Fountain
@@ -70,10 +70,10 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 0.6667
   avg_copies: 2.5
-- name: Rest in Peace
+- name: Orim's Chant
   weight: 0.6667
   avg_copies: 2.0
-- name: Orim's Chant
+- name: Rest in Peace
   weight: 0.6667
   avg_copies: 2.0
 - name: Island
@@ -82,13 +82,13 @@ top_cards:
 - name: Thundering Falls
   weight: 0.6667
   avg_copies: 1.0
-- name: Celestial Purge
-  weight: 0.6667
-  avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.6667
   avg_copies: 1.0
 - name: Mountain
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Celestial Purge
   weight: 0.6667
   avg_copies: 1.0
 - name: Solitude
@@ -97,31 +97,40 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.3333
   avg_copies: 3.0
-- name: Ranger-Captain of Eos
-  weight: 0.3333
-  avg_copies: 3.0
 - name: Seasoned Pyromancer
   weight: 0.3333
   avg_copies: 3.0
-- name: Voice of Victory
+- name: Ranger-Captain of Eos
   weight: 0.3333
-  avg_copies: 2.0
-- name: Ephemerate
-  weight: 0.3333
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Thraben Charm
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Reprieve
   weight: 0.3333
   avg_copies: 2.0
 - name: Fable of the Mirror-Breaker
   weight: 0.3333
   avg_copies: 2.0
-- name: Mockingbird
+- name: Reprieve
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Ephemerate
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Voice of Victory
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Arena of Glory
+  weight: 0.3333
+  avg_copies: 1.0
+- name: The Legend of Roku
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Boromir, Warden of the Tower
   weight: 0.3333
   avg_copies: 1.0
 - name: Magus of the Moon
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Strix Serenade
   weight: 0.3333
   avg_copies: 1.0
 - name: Wear
@@ -130,16 +139,7 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 0.3333
   avg_copies: 1.0
-- name: The Legend of Roku
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Arena of Glory
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Strix Serenade
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Boromir, Warden of the Tower
+- name: Mockingbird
   weight: 0.3333
   avg_copies: 1.0
 ---

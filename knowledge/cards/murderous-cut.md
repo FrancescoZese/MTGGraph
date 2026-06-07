@@ -7,18 +7,18 @@ name: Murderous Cut
 scryfall_id: b2dadff2-883f-4134-a881-be145cdcbd84
 set: ktk
 type: Instant
-meta_presence: 0.0055
+meta_presence: 0.0054
 archetypes:
   living-end:
-    weight: 0.0196
+    weight: 0.0192
     avg_copies: 1.0
   mill:
-    weight: 0.3333
+    weight: 0.3158
     avg_copies: 1.0
   hollow-one:
     weight: 0.1724
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.125
+    weight: 0.12
     avg_copies: 1.0
 ---

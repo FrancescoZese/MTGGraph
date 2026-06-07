@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0571
     avg_copies: 4.0
   mill:
-    weight: 0.0556
+    weight: 0.0526
     avg_copies: 1.0
   reanimator:
     weight: 0.037

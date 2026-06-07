@@ -6,12 +6,12 @@ name: Simic Growth Chamber
 scryfall_id: 212d97c5-c144-483b-b42e-00623477e928
 set: dsc
 type: Land
-meta_presence: 0.0333
+meta_presence: 0.0334
 archetypes:
   amulet-titan:
     weight: 1.0
-    avg_copies: 2.52
+    avg_copies: 2.54
   unknown-76:
     weight: 1.0
-    avg_copies: 3.75
+    avg_copies: 3.8
 ---
