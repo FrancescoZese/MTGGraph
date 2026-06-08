@@ -6,10 +6,13 @@ name: Blast Zone
 scryfall_id: cdad14f1-d541-4e58-af9f-f8e587fca05f
 set: cmm
 type: Land
-meta_presence: 0.0024
+meta_presence: 0.0027
 archetypes:
   eldrazi-tron:
-    weight: 0.0226
+    weight: 0.0221
+    avg_copies: 1.0
+  boros-ponza:
+    weight: 0.0097
     avg_copies: 1.0
   scapeshift-combo:
     weight: 0.5

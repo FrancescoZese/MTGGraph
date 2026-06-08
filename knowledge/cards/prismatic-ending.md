@@ -10,10 +10,10 @@ type: Sorcery
 meta_presence: 0.1434
 archetypes:
   ruby-storm:
-    weight: 0.8515
-    avg_copies: 3.41
+    weight: 0.8529
+    avg_copies: 3.4
   boros-energy:
-    weight: 0.03
+    weight: 0.0294
     avg_copies: 1.27
   dimir-control:
     weight: 0.037
@@ -22,16 +22,16 @@ archetypes:
     weight: 0.5969
     avg_copies: 1.75
   eldrazi-tron:
-    weight: 0.0075
+    weight: 0.0074
     avg_copies: 2.0
   goryo:
-    weight: 0.9748
-    avg_copies: 2.3
+    weight: 0.975
+    avg_copies: 2.29
   azorius-control:
     weight: 1.0
     avg_copies: 3.68
   jeskai-control:
-    weight: 0.9286
+    weight: 0.931
     avg_copies: 2.0
   domain-zoo:
     weight: 0.0235
@@ -46,10 +46,10 @@ archetypes:
     weight: 0.125
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.0098
+    weight: 0.0097
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0061
+    weight: 0.006
     avg_copies: 3.0
   4c-omnath:
     weight: 0.25
@@ -109,7 +109,7 @@ archetypes:
     weight: 0.625
     avg_copies: 2.25
   unknown-68:
-    weight: 0.1579
+    weight: 0.2
     avg_copies: 1.0
   unknown-70:
     weight: 0.3333
@@ -153,4 +153,7 @@ archetypes:
   unknown-117:
     weight: 1.0
     avg_copies: 2.0
+  unknown-129:
+    weight: 1.0
+    avg_copies: 3.0
 ---

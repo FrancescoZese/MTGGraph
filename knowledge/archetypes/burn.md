@@ -3,7 +3,7 @@ colors:
 - W
 - R
 name: Burn
-meta_share: 0.0075
+meta_share: 0.0074
 list_count: 25
 top_cards:
 - name: Boltwave
@@ -24,10 +24,10 @@ top_cards:
 - name: Wooded Foothills
   weight: 1.0
   avg_copies: 1.56
-- name: Monastery Swiftspear
+- name: Goblin Guide
   weight: 0.96
   avg_copies: 4.0
-- name: Goblin Guide
+- name: Monastery Swiftspear
   weight: 0.96
   avg_copies: 4.0
 - name: Arid Mesa
@@ -147,61 +147,61 @@ top_cards:
 - name: Path to Exile
   weight: 0.08
   avg_copies: 1.5
+- name: Mogg Fanatic
+  weight: 0.04
+  avg_copies: 4.0
 - name: Iridescent Vinelasher
   weight: 0.04
   avg_copies: 4.0
 - name: Vexing Devil
   weight: 0.04
   avg_copies: 4.0
-- name: Mogg Fanatic
-  weight: 0.04
-  avg_copies: 4.0
-- name: Magebane Lizard
-  weight: 0.04
-  avg_copies: 3.0
 - name: Containment Priest
   weight: 0.04
   avg_copies: 3.0
+- name: Magebane Lizard
+  weight: 0.04
+  avg_copies: 3.0
+- name: Relic of Progenitus
+  weight: 0.04
+  avg_copies: 2.0
+- name: Blood Crypt
+  weight: 0.04
+  avg_copies: 2.0
+- name: Tunnel Ignus
+  weight: 0.04
+  avg_copies: 2.0
 - name: Nihil Spellbomb
   weight: 0.04
   avg_copies: 2.0
 - name: Kor Firewalker
   weight: 0.04
   avg_copies: 2.0
-- name: Blood Crypt
-  weight: 0.04
-  avg_copies: 2.0
-- name: Relic of Progenitus
-  weight: 0.04
-  avg_copies: 2.0
-- name: Tunnel Ignus
-  weight: 0.04
-  avg_copies: 2.0
-- name: card:volcanic-fallout
+- name: Rakdos Charm
   weight: 0.04
   avg_copies: 1.0
-- name: Blood Moon
+- name: Rain of Gore
   weight: 0.04
   avg_copies: 1.0
 - name: Erode
   weight: 0.04
   avg_copies: 1.0
-- name: Deafening Silence
-  weight: 0.04
-  avg_copies: 1.0
 - name: Snow-Covered Mountain
   weight: 0.04
   avg_copies: 1.0
-- name: Void Mirror
+- name: card:volcanic-fallout
+  weight: 0.04
+  avg_copies: 1.0
+- name: Deafening Silence
+  weight: 0.04
+  avg_copies: 1.0
+- name: Blood Moon
   weight: 0.04
   avg_copies: 1.0
 - name: Ensnaring Bridge
   weight: 0.04
   avg_copies: 1.0
-- name: Rakdos Charm
-  weight: 0.04
-  avg_copies: 1.0
-- name: Rain of Gore
+- name: Void Mirror
   weight: 0.04
   avg_copies: 1.0
 ---

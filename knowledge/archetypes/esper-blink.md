@@ -4,7 +4,7 @@ colors:
 - U
 - B
 name: Esper Blink
-meta_share: 0.015
+meta_share: 0.0148
 list_count: 50
 top_cards:
 - name: Solitude
@@ -52,10 +52,10 @@ top_cards:
 - name: Plains
   weight: 0.96
   avg_copies: 1.54
-- name: Swamp
+- name: Undercity Sewers
   weight: 0.96
   avg_copies: 1.0
-- name: Undercity Sewers
+- name: Swamp
   weight: 0.96
   avg_copies: 1.0
 - name: Boggart Trawler
@@ -142,37 +142,37 @@ top_cards:
 - name: Kavaero, Mind-Bitten
   weight: 0.08
   avg_copies: 1.0
-- name: Abhorrent Oculus
-  weight: 0.06
-  avg_copies: 2.0
-- name: Graveyard Trespasser
-  weight: 0.06
-  avg_copies: 2.0
-- name: Nihil Spellbomb
-  weight: 0.06
-  avg_copies: 2.0
 - name: Ketramose, the New Dawn
   weight: 0.06
   avg_copies: 2.0
-- name: Northampton Farm
+- name: Abhorrent Oculus
   weight: 0.06
   avg_copies: 2.0
 - name: Force of Despair
   weight: 0.06
   avg_copies: 2.0
+- name: Nihil Spellbomb
+  weight: 0.06
+  avg_copies: 2.0
+- name: Northampton Farm
+  weight: 0.06
+  avg_copies: 2.0
+- name: Graveyard Trespasser
+  weight: 0.06
+  avg_copies: 2.0
 - name: Strix Serenade
   weight: 0.06
   avg_copies: 1.75
-- name: Boromir, Warden of the Tower
-  weight: 0.06
-  avg_copies: 1.0
 - name: Celestial Purge
   weight: 0.06
   avg_copies: 1.0
-- name: Ocelot Pride
+- name: Boromir, Warden of the Tower
+  weight: 0.06
+  avg_copies: 1.0
+- name: Guide of Souls
   weight: 0.04
   avg_copies: 4.0
-- name: Guide of Souls
+- name: Ocelot Pride
   weight: 0.04
   avg_copies: 4.0
 - name: Force of Negation
@@ -190,13 +190,13 @@ top_cards:
 - name: Orim's Chant
   weight: 0.04
   avg_copies: 2.0
-- name: Snow-Covered Island
+- name: Snow-Covered Plains
   weight: 0.04
   avg_copies: 1.0
 - name: Pest Control
   weight: 0.04
   avg_copies: 1.0
-- name: Snow-Covered Plains
+- name: Hydroelectric Specimen
   weight: 0.04
   avg_copies: 1.0
 - name: Snow-Covered Swamp
@@ -205,7 +205,7 @@ top_cards:
 - name: Floodfarm Verge
   weight: 0.04
   avg_copies: 1.0
-- name: Hydroelectric Specimen
+- name: Snow-Covered Island
   weight: 0.04
   avg_copies: 1.0
 - name: No More Lies
@@ -214,25 +214,25 @@ top_cards:
 - name: Deafening Silence
   weight: 0.02
   avg_copies: 3.0
-- name: Windswept Heath
+- name: Relic of Progenitus
   weight: 0.02
   avg_copies: 1.0
 - name: Stony Silence
   weight: 0.02
   avg_copies: 1.0
+- name: Windswept Heath
+  weight: 0.02
+  avg_copies: 1.0
 - name: Emeritus of Ideation
+  weight: 0.02
+  avg_copies: 1.0
+- name: Cling to Dust
   weight: 0.02
   avg_copies: 1.0
 - name: Emptiness
   weight: 0.02
   avg_copies: 1.0
 - name: Spell Pierce
-  weight: 0.02
-  avg_copies: 1.0
-- name: Cling to Dust
-  weight: 0.02
-  avg_copies: 1.0
-- name: Relic of Progenitus
   weight: 0.02
   avg_copies: 1.0
 ---

@@ -3,22 +3,22 @@ colors:
 - R
 - G
 name: Eldrazi Ramp
-meta_share: 0.0243
+meta_share: 0.024
 list_count: 81
 top_cards:
+- name: Ugin's Labyrinth
+  weight: 1.0
+  avg_copies: 4.0
 - name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
-- name: Ugin's Labyrinth
-  weight: 1.0
-  avg_copies: 4.0
-- name: Eldrazi Temple
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 3.95
-- name: Malevolent Rumble
+- name: Eldrazi Temple
   weight: 1.0
   avg_copies: 3.95
 - name: Utopia Sprawl
@@ -123,10 +123,10 @@ top_cards:
 - name: Karn, the Great Creator
   weight: 0.2963
   avg_copies: 2.62
-- name: Ensnaring Bridge
+- name: Liquimetal Coating
   weight: 0.2963
   avg_copies: 1.0
-- name: Liquimetal Coating
+- name: Ensnaring Bridge
   weight: 0.2963
   avg_copies: 1.0
 - name: Tormod's Crypt
@@ -168,13 +168,13 @@ top_cards:
 - name: Meltdown
   weight: 0.1111
   avg_copies: 1.22
+- name: Pithing Needle
+  weight: 0.1111
+  avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.1111
   avg_copies: 1.0
 - name: Breeding Pool
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Pithing Needle
   weight: 0.1111
   avg_copies: 1.0
 - name: Gemstone Caverns
@@ -219,10 +219,13 @@ top_cards:
 - name: Strix Serenade
   weight: 0.037
   avg_copies: 1.33
-- name: Redirect Lightning
+- name: Iroh's Demonstration
   weight: 0.037
   avg_copies: 1.0
-- name: Iroh's Demonstration
+- name: Price of Freedom
+  weight: 0.037
+  avg_copies: 1.0
+- name: Redirect Lightning
   weight: 0.037
   avg_copies: 1.0
 - name: Origin of Metalbending
@@ -231,13 +234,10 @@ top_cards:
 - name: Palantír of Orthanc
   weight: 0.037
   avg_copies: 1.0
-- name: Price of Freedom
+- name: Damping Sphere
   weight: 0.037
   avg_copies: 1.0
 - name: True Ancestry
-  weight: 0.037
-  avg_copies: 1.0
-- name: Damping Sphere
   weight: 0.037
   avg_copies: 1.0
 - name: Improvisation Capstone
@@ -252,13 +252,16 @@ top_cards:
 - name: Stone Rain
   weight: 0.0247
   avg_copies: 1.5
-- name: Firebending Lesson
+- name: Vibrance
   weight: 0.0247
   avg_copies: 1.0
 - name: Ilharg, the Raze-Boar
   weight: 0.0247
   avg_copies: 1.0
 - name: Thief of Existence
+  weight: 0.0247
+  avg_copies: 1.0
+- name: Firebending Lesson
   weight: 0.0247
   avg_copies: 1.0
 - name: Wastescape Battlemage
@@ -273,43 +276,40 @@ top_cards:
 - name: Overgrown Tomb
   weight: 0.0247
   avg_copies: 1.0
-- name: Vibrance
-  weight: 0.0247
-  avg_copies: 1.0
 - name: Abrupt Decay
   weight: 0.0123
   avg_copies: 2.0
-- name: Hedron Archive
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Walking Ballista
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Ugin, the Spirit Dragon
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Culling Ritual
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 0.0123
-  avg_copies: 1.0
 - name: Mutable Explorer
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Darksteel Citadel
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Ketria Triome
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Seismic Sense
   weight: 0.0123
   avg_copies: 1.0
 - name: Untimely Malfunction
   weight: 0.0123
   avg_copies: 1.0
+- name: Ketria Triome
+  weight: 0.0123
+  avg_copies: 1.0
 - name: Ratchet Bomb
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Darksteel Citadel
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Hedron Archive
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Culling Ritual
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Walking Ballista
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Seismic Sense
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Ugin, the Spirit Dragon
   weight: 0.0123
   avg_copies: 1.0
 ---

@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: 'Unknown #47'
-meta_share: 0.0084
+meta_share: 0.0083
 list_count: 28
 top_cards:
 - name: Polluted Delta
@@ -18,10 +18,10 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.32
-- name: Counterspell
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 3.18
-- name: Quantum Riddler
+- name: Counterspell
   weight: 1.0
   avg_copies: 3.18
 - name: Force of Negation
@@ -150,13 +150,13 @@ top_cards:
 - name: Scalding Tarn
   weight: 0.0714
   avg_copies: 1.0
-- name: Snow-Covered Island
+- name: Snow-Covered Swamp
   weight: 0.0714
   avg_copies: 1.0
 - name: Spell Pierce
   weight: 0.0714
   avg_copies: 1.0
-- name: Snow-Covered Swamp
+- name: Snow-Covered Island
   weight: 0.0714
   avg_copies: 1.0
 - name: Pest Control
@@ -165,19 +165,13 @@ top_cards:
 - name: Void Mirror
   weight: 0.0357
   avg_copies: 2.0
-- name: Waterlogged Teachings
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Dreams of Steel and Oil
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.0357
-  avg_copies: 1.0
-- name: River of Tears
+- name: Snapcaster Mage
   weight: 0.0357
   avg_copies: 1.0
 - name: Strategic Betrayal
+  weight: 0.0357
+  avg_copies: 1.0
+- name: River of Tears
   weight: 0.0357
   avg_copies: 1.0
 - name: High Noon
@@ -186,7 +180,13 @@ top_cards:
 - name: Hallowed Fountain
   weight: 0.0357
   avg_copies: 1.0
-- name: Snapcaster Mage
+- name: Dreams of Steel and Oil
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Meticulous Archive
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Waterlogged Teachings
   weight: 0.0357
   avg_copies: 1.0
 ---

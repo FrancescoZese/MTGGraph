@@ -3,7 +3,7 @@ colors:
 - B
 - G
 name: Yawgmoth Combo
-meta_share: 0.015
+meta_share: 0.0148
 list_count: 50
 top_cards:
 - name: Verdant Catacombs
@@ -63,10 +63,10 @@ top_cards:
 - name: Endurance
   weight: 1.0
   avg_copies: 1.04
-- name: Swamp
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
-- name: Dryad Arbor
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Windswept Heath
@@ -132,10 +132,10 @@ top_cards:
 - name: Damping Sphere
   weight: 0.16
   avg_copies: 1.12
-- name: Murderous Cut
+- name: Sephiroth, Fabled SOLDIER
   weight: 0.12
   avg_copies: 1.0
-- name: Sephiroth, Fabled SOLDIER
+- name: Murderous Cut
   weight: 0.12
   avg_copies: 1.0
 - name: Chalice of the Void
@@ -147,40 +147,40 @@ top_cards:
 - name: Kraul Harpooner
   weight: 0.08
   avg_copies: 1.0
-- name: Assassin's Trophy
-  weight: 0.04
-  avg_copies: 1.0
 - name: Crime
   weight: 0.04
   avg_copies: 1.0
 - name: Essence Warden
   weight: 0.04
   avg_copies: 1.0
-- name: Spore Frog
+- name: Assassin's Trophy
+  weight: 0.04
+  avg_copies: 1.0
+- name: Creeping Corrosion
   weight: 0.02
   avg_copies: 1.0
 - name: Nurturing Peatland
   weight: 0.02
   avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 0.02
-  avg_copies: 1.0
-- name: Creeping Corrosion
-  weight: 0.02
-  avg_copies: 1.0
 - name: Vicious Rivalry
   weight: 0.02
   avg_copies: 1.0
-- name: Cankerbloom
+- name: Collector Ouphe
   weight: 0.02
   avg_copies: 1.0
 - name: Shifting Woodland
   weight: 0.02
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Cankerbloom
   weight: 0.02
   avg_copies: 1.0
 - name: Sylvan Safekeeper
+  weight: 0.02
+  avg_copies: 1.0
+- name: Spore Frog
+  weight: 0.02
+  avg_copies: 1.0
+- name: Surgical Extraction
   weight: 0.02
   avg_copies: 1.0
 ---

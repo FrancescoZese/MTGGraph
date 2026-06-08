@@ -11,7 +11,7 @@ type: Legendary Planeswalker — Dellian
 meta_presence: 0.0024
 archetypes:
   samwise-combo:
-    weight: 0.0256
+    weight: 0.025
     avg_copies: 2.0
   goryo5:
     weight: 1.0

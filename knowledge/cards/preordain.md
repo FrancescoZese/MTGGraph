@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.0995
 archetypes:
   ruby-storm:
-    weight: 0.0396
+    weight: 0.0392
     avg_copies: 2.0
   dimir-control:
     weight: 0.1605
@@ -19,11 +19,11 @@ archetypes:
     weight: 0.4098
     avg_copies: 2.92
   goryo:
-    weight: 0.0336
+    weight: 0.0333
     avg_copies: 2.0
   affinity:
-    weight: 0.2444
-    avg_copies: 3.07
+    weight: 0.2492
+    avg_copies: 3.06
   mill:
     weight: 0.3684
     avg_copies: 3.0
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.0638
     avg_copies: 2.33
   izzet-prowess:
-    weight: 0.9939
+    weight: 0.994
     avg_copies: 3.92
   izzet-artifacts:
     weight: 0.3871

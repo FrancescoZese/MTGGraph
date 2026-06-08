@@ -14,12 +14,12 @@ archetypes:
     avg_copies: 1.0
   affinity:
     weight: 0.0032
-    avg_copies: 2.0
+    avg_copies: 3.0
   hammer-time:
     weight: 0.375
     avg_copies: 2.2
   samwise-combo:
-    weight: 0.0256
+    weight: 0.025
     avg_copies: 1.0
   goryo7:
     weight: 1.0

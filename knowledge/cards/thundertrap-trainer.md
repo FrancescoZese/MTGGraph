@@ -7,16 +7,16 @@ name: Thundertrap Trainer
 scryfall_id: 9cf3af94-b7c8-415c-a5a1-d89967fd0bba
 set: blb
 type: Creature — Otter Wizard
-meta_presence: 0.0183
+meta_presence: 0.0181
 archetypes:
   mono-blue-belcher:
     weight: 0.623
     avg_copies: 3.92
   azorius-control:
-    weight: 0.0541
+    weight: 0.0526
     avg_copies: 4.0
   jeskai-control:
-    weight: 0.1071
+    weight: 0.1034
     avg_copies: 3.0
   izzet-wizards:
     weight: 0.2222

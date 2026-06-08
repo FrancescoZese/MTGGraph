@@ -7,9 +7,9 @@ name: Ingot Chewer
 scryfall_id: c2086d4e-c202-4677-8dee-ecabd61cf921
 set: ecc
 type: Creature — Elemental
-meta_presence: 0.0048
+meta_presence: 0.0053
 archetypes:
   unknown-67:
-    weight: 0.4444
-    avg_copies: 1.12
+    weight: 0.4737
+    avg_copies: 1.11
 ---

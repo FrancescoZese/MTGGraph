@@ -6,7 +6,7 @@ name: Indatha Triome
 scryfall_id: 2b74bb81-fb9a-40e5-a941-e517430b52f5
 set: iko
 type: Land — Plains Swamp Forest
-meta_presence: 0.0301
+meta_presence: 0.03
 archetypes:
   domain-zoo:
     weight: 0.9765
@@ -24,6 +24,9 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   unknown-116:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-129:
     weight: 1.0
     avg_copies: 1.0
 ---

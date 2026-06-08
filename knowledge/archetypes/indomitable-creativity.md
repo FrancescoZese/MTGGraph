@@ -75,16 +75,16 @@ top_cards:
 - name: Spell Snare
   weight: 0.7
   avg_copies: 1.86
-- name: Sacred Foundry
-  weight: 0.7
-  avg_copies: 1.0
-- name: Jetmir's Garden
+- name: Xander's Lounge
   weight: 0.7
   avg_copies: 1.0
 - name: Elegant Parlor
   weight: 0.7
   avg_copies: 1.0
-- name: Xander's Lounge
+- name: Jetmir's Garden
+  weight: 0.7
+  avg_copies: 1.0
+- name: Sacred Foundry
   weight: 0.7
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -96,10 +96,10 @@ top_cards:
 - name: Thundering Falls
   weight: 0.6
   avg_copies: 1.0
-- name: Plains
+- name: Raph & Mikey, Troublemakers
   weight: 0.6
   avg_copies: 1.0
-- name: Raph & Mikey, Troublemakers
+- name: Plains
   weight: 0.6
   avg_copies: 1.0
 - name: Galvanic Discharge
@@ -114,19 +114,19 @@ top_cards:
 - name: Raucous Theater
   weight: 0.4
   avg_copies: 1.0
-- name: Elesh Norn, Grand Cenobite
-  weight: 0.4
-  avg_copies: 1.0
 - name: Boseiju, Who Endures
   weight: 0.4
   avg_copies: 1.0
+- name: Elesh Norn, Grand Cenobite
+  weight: 0.4
+  avg_copies: 1.0
+- name: Thoughtseize
+  weight: 0.3
+  avg_copies: 4.0
 - name: Persist
   weight: 0.3
   avg_copies: 4.0
 - name: Faithless Looting
-  weight: 0.3
-  avg_copies: 4.0
-- name: Thoughtseize
   weight: 0.3
   avg_copies: 4.0
 - name: Fatal Push
@@ -141,10 +141,10 @@ top_cards:
 - name: Strix Serenade
   weight: 0.3
   avg_copies: 1.67
-- name: Valgavoth, Terror Eater
+- name: Ziatora's Proving Ground
   weight: 0.3
   avg_copies: 1.0
-- name: Ziatora's Proving Ground
+- name: Valgavoth, Terror Eater
   weight: 0.3
   avg_copies: 1.0
 - name: Leyline of the Void
@@ -159,19 +159,19 @@ top_cards:
 - name: Spell Pierce
   weight: 0.2
   avg_copies: 1.5
-- name: Valakut Awakening
+- name: Abrupt Decay
   weight: 0.2
   avg_copies: 1.0
 - name: Prismari Command
-  weight: 0.2
-  avg_copies: 1.0
-- name: Abrupt Decay
   weight: 0.2
   avg_copies: 1.0
 - name: Emrakul, the Aeons Torn
   weight: 0.2
   avg_copies: 1.0
 - name: Ketria Triome
+  weight: 0.2
+  avg_copies: 1.0
+- name: Valakut Awakening
   weight: 0.2
   avg_copies: 1.0
 - name: Nature's Claim
@@ -189,16 +189,13 @@ top_cards:
 - name: Brainsurge
   weight: 0.1
   avg_copies: 1.0
-- name: Molten Collapse
-  weight: 0.1
-  avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
-  weight: 0.1
-  avg_copies: 1.0
-- name: Swamp
+- name: Rest in Peace
   weight: 0.1
   avg_copies: 1.0
 - name: Commercial District
+  weight: 0.1
+  avg_copies: 1.0
+- name: Molten Collapse
   weight: 0.1
   avg_copies: 1.0
 - name: Vampires' Vengeance
@@ -210,7 +207,10 @@ top_cards:
 - name: Witherbloom Command
   weight: 0.1
   avg_copies: 1.0
-- name: Rest in Peace
+- name: Elesh Norn, Mother of Machines
+  weight: 0.1
+  avg_copies: 1.0
+- name: Swamp
   weight: 0.1
   avg_copies: 1.0
 ---

@@ -35,28 +35,28 @@ top_cards:
 - name: Dismember
   weight: 1.0
   avg_copies: 2.2
+- name: Forest
+  weight: 1.0
+  avg_copies: 2.0
 - name: Force of Vigor
   weight: 1.0
   avg_copies: 2.0
 - name: Summoner's Pact
   weight: 1.0
   avg_copies: 2.0
-- name: Forest
-  weight: 1.0
-  avg_copies: 2.0
 - name: Valakut, the Molten Pinnacle
   weight: 1.0
   avg_copies: 1.6
-- name: Hanweir Battlements
-  weight: 1.0
-  avg_copies: 1.0
-- name: Cultivator Colossus
+- name: Tolaria West
   weight: 1.0
   avg_copies: 1.0
 - name: Vesuva
   weight: 1.0
   avg_copies: 1.0
-- name: Tolaria West
+- name: Cultivator Colossus
+  weight: 1.0
+  avg_copies: 1.0
+- name: Hanweir Battlements
   weight: 1.0
   avg_copies: 1.0
 - name: Mirrorpool
@@ -71,10 +71,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.8
   avg_copies: 1.29
-- name: Six
+- name: Golgari Rot Farm
   weight: 0.8
   avg_copies: 1.25
-- name: Golgari Rot Farm
+- name: Six
   weight: 0.8
   avg_copies: 1.25
 - name: Explore
@@ -92,16 +92,16 @@ top_cards:
 - name: Bojuka Bog
   weight: 0.6
   avg_copies: 1.0
-- name: Selesnya Sanctuary
-  weight: 0.4
-  avg_copies: 2.0
 - name: Fire Magic
   weight: 0.4
   avg_copies: 2.0
-- name: Pyroclasm
+- name: Selesnya Sanctuary
+  weight: 0.4
+  avg_copies: 2.0
+- name: Soulless Jailer
   weight: 0.4
   avg_copies: 1.5
-- name: Soulless Jailer
+- name: Pyroclasm
   weight: 0.4
   avg_copies: 1.5
 - name: Icetill Explorer
@@ -110,10 +110,22 @@ top_cards:
 - name: Ghost Quarter
   weight: 0.4
   avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.4
+  avg_copies: 1.0
 - name: Cavern of Souls
   weight: 0.4
   avg_copies: 1.0
+- name: Otawara, Soaring City
+  weight: 0.4
+  avg_copies: 1.0
+- name: Azusa, Lost but Seeking
+  weight: 0.4
+  avg_copies: 1.0
 - name: Collector Ouphe
+  weight: 0.4
+  avg_copies: 1.0
+- name: Shifting Woodland
   weight: 0.4
   avg_copies: 1.0
 - name: Endurance
@@ -122,34 +134,28 @@ top_cards:
 - name: Elder Gargaroth
   weight: 0.4
   avg_copies: 1.0
-- name: Gemstone Caverns
-  weight: 0.4
-  avg_copies: 1.0
-- name: Otawara, Soaring City
-  weight: 0.4
-  avg_copies: 1.0
-- name: Shifting Woodland
-  weight: 0.4
-  avg_copies: 1.0
-- name: Azusa, Lost but Seeking
-  weight: 0.4
-  avg_copies: 1.0
 - name: Trinisphere
   weight: 0.2
   avg_copies: 3.0
-- name: Elvish Reclaimer
+- name: Temple Garden
   weight: 0.2
   avg_copies: 2.0
-- name: Temple Garden
+- name: Elvish Reclaimer
   weight: 0.2
   avg_copies: 2.0
 - name: Vampires' Vengeance
   weight: 0.2
   avg_copies: 2.0
+- name: Outland Liberator
+  weight: 0.2
+  avg_copies: 1.0
 - name: Springheart Nantuko
   weight: 0.2
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
+- name: Relic of Progenitus
+  weight: 0.2
+  avg_copies: 1.0
+- name: Aether Spellbomb
   weight: 0.2
   avg_copies: 1.0
 - name: Expedition Map
@@ -158,31 +164,25 @@ top_cards:
 - name: Storm's Wrath
   weight: 0.2
   avg_copies: 1.0
-- name: Aether Spellbomb
-  weight: 0.2
-  avg_copies: 1.0
-- name: Flagstones of Trokair
-  weight: 0.2
-  avg_copies: 1.0
-- name: Misty Rainforest
-  weight: 0.2
-  avg_copies: 1.0
-- name: Kessig Wolf Run
+- name: Echoing Deeps
   weight: 0.2
   avg_copies: 1.0
 - name: Formidable Speaker
   weight: 0.2
   avg_copies: 1.0
-- name: Relic of Progenitus
+- name: Flagstones of Trokair
+  weight: 0.2
+  avg_copies: 1.0
+- name: Kessig Wolf Run
+  weight: 0.2
+  avg_copies: 1.0
+- name: Misty Rainforest
+  weight: 0.2
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
   weight: 0.2
   avg_copies: 1.0
 - name: Oran-Rief, the Vastwood
-  weight: 0.2
-  avg_copies: 1.0
-- name: Echoing Deeps
-  weight: 0.2
-  avg_copies: 1.0
-- name: Outland Liberator
   weight: 0.2
   avg_copies: 1.0
 ---

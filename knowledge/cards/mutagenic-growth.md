@@ -1,10 +1,10 @@
 ---
 archetypes:
   izzet-prowess:
-    weight: 0.8659
-    avg_copies: 3.2
+    weight: 0.8675
+    avg_copies: 3.22
   broodscale-combo:
-    weight: 0.0174
+    weight: 0.0165
     avg_copies: 1.0
   rakdos-aggro:
     weight: 0.2

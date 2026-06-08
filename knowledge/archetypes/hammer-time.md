@@ -15,10 +15,10 @@ top_cards:
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 3.88
-- name: Leyline Axe
+- name: Battlefield Improvisation
   weight: 1.0
   avg_copies: 3.75
-- name: Battlefield Improvisation
+- name: Leyline Axe
   weight: 1.0
   avg_copies: 3.75
 - name: Puresteel Paladin
@@ -90,13 +90,13 @@ top_cards:
 - name: Portable Hole
   weight: 0.375
   avg_copies: 2.2
+- name: Teferi, Time Raveler
+  weight: 0.375
+  avg_copies: 2.0
 - name: Suncleanser
   weight: 0.375
   avg_copies: 2.0
 - name: Damping Sphere
-  weight: 0.375
-  avg_copies: 2.0
-- name: Teferi, Time Raveler
   weight: 0.375
   avg_copies: 2.0
 - name: Springleaf Drum
@@ -138,13 +138,13 @@ top_cards:
 - name: Containment Priest
   weight: 0.125
   avg_copies: 2.0
-- name: Prismatic Ending
+- name: Skateboard
   weight: 0.125
   avg_copies: 1.0
 - name: Paradise Mantle
   weight: 0.125
   avg_copies: 1.0
-- name: Skateboard
+- name: Prismatic Ending
   weight: 0.125
   avg_copies: 1.0
 - name: Soul-Guide Lantern

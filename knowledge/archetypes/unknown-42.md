@@ -8,10 +8,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 5.86
-- name: Lord of Atlantis
+- name: Master of the Pearl Trident
   weight: 1.0
   avg_copies: 4.0
-- name: Master of the Pearl Trident
+- name: Lord of Atlantis
   weight: 1.0
   avg_copies: 4.0
 - name: Tide Shaper
@@ -20,22 +20,22 @@ top_cards:
 - name: Vodalian Hexcatcher
   weight: 1.0
   avg_copies: 3.57
-- name: Sink into Stupor
+- name: Silvergill Mentor
   weight: 1.0
   avg_copies: 3.43
 - name: Aether Vial
   weight: 1.0
   avg_copies: 3.43
-- name: Silvergill Mentor
-  weight: 1.0
-  avg_copies: 3.43
 - name: Mutavault
   weight: 1.0
   avg_copies: 3.43
-- name: Consign to Memory
+- name: Sink into Stupor
+  weight: 1.0
+  avg_copies: 3.43
+- name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 3.14
-- name: Harbinger of the Seas
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.14
 - name: Cavern of Souls

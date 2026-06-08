@@ -9,22 +9,22 @@ type: Artifact
 meta_presence: 0.0487
 archetypes:
   eldrazi-tron:
-    weight: 0.6241
-    avg_copies: 1.45
+    weight: 0.6176
+    avg_copies: 1.47
   goryo:
-    weight: 0.0084
+    weight: 0.0083
     avg_copies: 1.0
   necrodominance:
-    weight: 0.0571
-    avg_copies: 2.5
+    weight: 0.0833
+    avg_copies: 2.33
   azorius-control:
-    weight: 0.2703
+    weight: 0.2632
     avg_copies: 1.8
   mill:
     weight: 0.1053
     avg_copies: 3.0
   boros-ponza:
-    weight: 0.0098
+    weight: 0.0097
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 0.1

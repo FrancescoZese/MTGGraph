@@ -9,10 +9,10 @@ top_cards:
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
-- name: Moonshadow
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Abhorrent Oculus
@@ -24,19 +24,19 @@ top_cards:
 - name: Flare of Denial
   weight: 1.0
   avg_copies: 3.33
-- name: Consign to Memory
+- name: Watery Grave
   weight: 1.0
   avg_copies: 3.0
 - name: Subtlety
   weight: 1.0
   avg_copies: 3.0
-- name: Watery Grave
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
-- name: Misty Rainforest
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 2.0
-- name: Flooded Strand
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 2.0
 - name: Ashiok, Dream Render
@@ -45,10 +45,10 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 1.67
-- name: Swamp
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.5
-- name: Undercity Sewers
+- name: Swamp
   weight: 1.0
   avg_copies: 1.5
 - name: Island
@@ -87,16 +87,16 @@ top_cards:
 - name: Force of Negation
   weight: 0.5
   avg_copies: 1.2
-- name: Meticulous Archive
+- name: Otawara, Soaring City
   weight: 0.5
   avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.5
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Godless Shrine
   weight: 0.5
   avg_copies: 1.0
-- name: Godless Shrine
+- name: Meticulous Archive
   weight: 0.5
   avg_copies: 1.0
 - name: Loran of the Third Path
@@ -120,21 +120,36 @@ top_cards:
 - name: Vengevine
   weight: 0.1667
   avg_copies: 4.0
+- name: Exhibition Tidecaller
+  weight: 0.1667
+  avg_copies: 4.0
 - name: Merfolk Secretkeeper
   weight: 0.1667
   avg_copies: 4.0
 - name: Hedron Crab
   weight: 0.1667
   avg_copies: 4.0
-- name: Exhibition Tidecaller
-  weight: 0.1667
-  avg_copies: 4.0
-- name: Dauthi Voidwalker
-  weight: 0.1667
-  avg_copies: 2.0
 - name: Thundertrap Trainer
   weight: 0.1667
   avg_copies: 2.0
+- name: Dauthi Voidwalker
+  weight: 0.1667
+  avg_copies: 2.0
+- name: The Meathook Massacre
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Cephalid Coliseum
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Engineered Explosives
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Lavinia, Azorius Renegade
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Requiting Hex
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Toxic Deluge
   weight: 0.1667
   avg_copies: 1.0
@@ -142,21 +157,6 @@ top_cards:
   weight: 0.1667
   avg_copies: 1.0
 - name: Verdant Catacombs
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Engineered Explosives
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Cephalid Coliseum
-  weight: 0.1667
-  avg_copies: 1.0
-- name: The Meathook Massacre
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Lavinia, Azorius Renegade
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Requiting Hex
   weight: 0.1667
   avg_copies: 1.0
 ---

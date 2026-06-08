@@ -3,16 +3,16 @@ colors:
 - B
 - R
 name: Hollow One
-meta_share: 0.0087
+meta_share: 0.0086
 list_count: 29
 top_cards:
-- name: Faithless Looting
-  weight: 1.0
-  avg_copies: 4.0
 - name: Hollow One
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
+  weight: 1.0
+  avg_copies: 4.0
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Burning Inquiry
@@ -111,10 +111,10 @@ top_cards:
 - name: Marsh Flats
   weight: 0.2414
   avg_copies: 1.71
-- name: Polluted Delta
+- name: Murderous Cut
   weight: 0.1724
   avg_copies: 1.0
-- name: Murderous Cut
+- name: Polluted Delta
   weight: 0.1724
   avg_copies: 1.0
 - name: Tarfire
@@ -156,6 +156,9 @@ top_cards:
 - name: Ox of Agonas
   weight: 0.069
   avg_copies: 1.5
+- name: Seal of Fire
+  weight: 0.069
+  avg_copies: 1.0
 - name: Commercial District
   weight: 0.069
   avg_copies: 1.0
@@ -165,34 +168,31 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.069
   avg_copies: 1.0
-- name: Seal of Fire
-  weight: 0.069
-  avg_copies: 1.0
 - name: Death's Shadow
   weight: 0.0345
   avg_copies: 4.0
-- name: Magebane Lizard
+- name: Inti, Seneschal of the Sun
   weight: 0.0345
   avg_copies: 2.0
 - name: Magus of the Moon
   weight: 0.0345
   avg_copies: 2.0
-- name: Inti, Seneschal of the Sun
-  weight: 0.0345
-  avg_copies: 2.0
-- name: Cam and Farrik, Havoc Duo
-  weight: 0.0345
-  avg_copies: 2.0
 - name: Rough
+  weight: 0.0345
+  avg_copies: 2.0
+- name: Magebane Lizard
   weight: 0.0345
   avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.0345
   avg_copies: 2.0
+- name: Flameblade Adept
+  weight: 0.0345
+  avg_copies: 2.0
 - name: Ancient Grudge
   weight: 0.0345
   avg_copies: 2.0
-- name: Flameblade Adept
+- name: Cam and Farrik, Havoc Duo
   weight: 0.0345
   avg_copies: 2.0
 - name: Shattering Spree

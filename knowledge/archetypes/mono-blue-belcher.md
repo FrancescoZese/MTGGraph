@@ -2,16 +2,16 @@
 colors:
 - U
 name: Mono Blue Belcher
-meta_share: 0.0183
+meta_share: 0.0181
 list_count: 61
 top_cards:
 - name: Goblin Charbelcher
   weight: 1.0
   avg_copies: 4.0
-- name: Lotus Bloom
+- name: Whir of Invention
   weight: 1.0
   avg_copies: 4.0
-- name: Whir of Invention
+- name: Lotus Bloom
   weight: 1.0
   avg_copies: 4.0
 - name: Tameshi, Reality Architect
@@ -140,16 +140,10 @@ top_cards:
 - name: card:impulse
   weight: 0.0164
   avg_copies: 4.0
-- name: Erode
-  weight: 0.0164
-  avg_copies: 1.0
-- name: Displacement Wave
-  weight: 0.0164
-  avg_copies: 1.0
-- name: Dress Down
-  weight: 0.0164
-  avg_copies: 1.0
 - name: Isochron Scepter
+  weight: 0.0164
+  avg_copies: 1.0
+- name: Portable Hole
   weight: 0.0164
   avg_copies: 1.0
 - name: Hope of Ghirapur
@@ -158,7 +152,13 @@ top_cards:
 - name: Witch Enchanter
   weight: 0.0164
   avg_copies: 1.0
-- name: Portable Hole
+- name: Erode
+  weight: 0.0164
+  avg_copies: 1.0
+- name: Displacement Wave
+  weight: 0.0164
+  avg_copies: 1.0
+- name: Dress Down
   weight: 0.0164
   avg_copies: 1.0
 - name: Surgical Extraction
