@@ -5,7 +5,7 @@ colors:
 - R
 - G
 name: 'Unknown #67'
-meta_share: 0.0113
+meta_share: 0.0111
 list_count: 38
 top_cards:
 - name: Shardless Agent
@@ -53,19 +53,19 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.03
-- name: Thundering Falls
-  weight: 1.0
-  avg_copies: 1.0
 - name: Forest
-  weight: 1.0
-  avg_copies: 1.0
-- name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
+- name: Breeding Pool
+  weight: 1.0
+  avg_copies: 1.0
 - name: Stomping Ground
+  weight: 1.0
+  avg_copies: 1.0
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Wistfulness
@@ -77,10 +77,10 @@ top_cards:
 - name: Inevitable Betrayal
   weight: 0.8947
   avg_copies: 2.15
-- name: Mistrise Village
+- name: Commercial District
   weight: 0.8947
   avg_copies: 1.0
-- name: Commercial District
+- name: Mistrise Village
   weight: 0.8947
   avg_copies: 1.0
 - name: Colossal Skyturtle
@@ -152,13 +152,13 @@ top_cards:
 - name: Fade from History
   weight: 0.1053
   avg_copies: 1.25
-- name: Quantum Riddler
-  weight: 0.1053
-  avg_copies: 1.0
 - name: Temple Garden
   weight: 0.1053
   avg_copies: 1.0
 - name: Flare of Denial
+  weight: 0.1053
+  avg_copies: 1.0
+- name: Quantum Riddler
   weight: 0.1053
   avg_copies: 1.0
 - name: Clarion Conqueror
@@ -185,16 +185,16 @@ top_cards:
 - name: Bonecrusher Giant
   weight: 0.0263
   avg_copies: 2.0
-- name: Brainsurge
-  weight: 0.0263
-  avg_copies: 1.0
 - name: Mountain
   weight: 0.0263
   avg_copies: 1.0
-- name: Collector Ouphe
+- name: Brainsurge
   weight: 0.0263
   avg_copies: 1.0
 - name: Meticulous Archive
+  weight: 0.0263
+  avg_copies: 1.0
+- name: Collector Ouphe
   weight: 0.0263
   avg_copies: 1.0
 ---

@@ -34,10 +34,10 @@ top_cards:
 - name: Voice of Victory
   weight: 1.0
   avg_copies: 2.0
-- name: Thraben Charm
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.9
-- name: Sacred Foundry
+- name: Thraben Charm
   weight: 1.0
   avg_copies: 1.9
 - name: Wrath of the Skies
@@ -55,13 +55,13 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.05
+- name: Shadowy Backstreet
+  weight: 1.0
+  avg_copies: 1.0
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Elegant Parlor
-  weight: 1.0
-  avg_copies: 1.0
-- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Thoughtseize
@@ -142,19 +142,19 @@ top_cards:
 - name: The Legend of Roku
   weight: 0.2
   avg_copies: 1.0
-- name: Meltdown
+- name: Prismatic Ending
   weight: 0.2
   avg_copies: 1.0
-- name: Prismatic Ending
+- name: Meltdown
   weight: 0.2
   avg_copies: 1.0
 - name: Blood Moon
   weight: 0.1
   avg_copies: 2.0
-- name: Fulminator Mage
+- name: Lingering Souls
   weight: 0.05
   avg_copies: 2.0
-- name: Lingering Souls
+- name: Fulminator Mage
   weight: 0.05
   avg_copies: 2.0
 - name: Strategic Betrayal

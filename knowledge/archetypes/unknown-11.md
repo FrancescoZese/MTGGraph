@@ -10,19 +10,19 @@ top_cards:
 - name: Manamorphose
   weight: 1.0
   avg_copies: 4.0
-- name: Scalding Tarn
+- name: Stormcatch Mentor
   weight: 1.0
   avg_copies: 4.0
 - name: Ral, Monsoon Mage
   weight: 1.0
   avg_copies: 4.0
-- name: Stormcatch Mentor
+- name: Pyretic Ritual
+  weight: 1.0
+  avg_copies: 4.0
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
 - name: Flow State
-  weight: 1.0
-  avg_copies: 4.0
-- name: Pyretic Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Desperate Ritual
@@ -31,34 +31,34 @@ top_cards:
 - name: Stock Up
   weight: 1.0
   avg_copies: 3.33
-- name: Vexing Bauble
-  weight: 1.0
-  avg_copies: 2.67
 - name: Steam Vents
   weight: 1.0
   avg_copies: 2.67
-- name: Thundering Falls
+- name: Vexing Bauble
   weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 2.67
 - name: Into the Flood Maw
   weight: 1.0
   avg_copies: 2.0
-- name: Defense Grid
-  weight: 1.0
-  avg_copies: 2.0
-- name: Past in Flames
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 2.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 2.0
-- name: Island
+- name: Past in Flames
   weight: 1.0
-  avg_copies: 1.33
+  avg_copies: 2.0
+- name: Defense Grid
+  weight: 1.0
+  avg_copies: 2.0
 - name: Mountain
   weight: 1.0
   avg_copies: 1.33
 - name: Brotherhood's End
+  weight: 1.0
+  avg_copies: 1.33
+- name: Island
   weight: 1.0
   avg_copies: 1.33
 - name: Soul-Guide Lantern
@@ -67,16 +67,16 @@ top_cards:
 - name: Flame of Anor
   weight: 1.0
   avg_copies: 1.25
-- name: Grapeshot
+- name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 1.0
 - name: Wooded Foothills
   weight: 1.0
   avg_copies: 1.0
-- name: Misty Rainforest
+- name: Grapeshot
   weight: 1.0
   avg_copies: 1.0
 - name: Wrenn's Resolve
@@ -97,13 +97,13 @@ top_cards:
 - name: Apostle's Blessing
   weight: 0.6667
   avg_copies: 1.5
-- name: Meltdown
+- name: Fiery Islet
   weight: 0.6667
   avg_copies: 1.0
 - name: Valakut Awakening
   weight: 0.6667
   avg_copies: 1.0
-- name: Fiery Islet
+- name: Meltdown
   weight: 0.6667
   avg_copies: 1.0
 - name: Preordain
@@ -124,13 +124,16 @@ top_cards:
 - name: Shatterskull Smashing
   weight: 0.3333
   avg_copies: 1.0
-- name: Arid Mesa
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Artist's Talent
   weight: 0.3333
   avg_copies: 1.0
 - name: Untimely Malfunction
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Arid Mesa
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Remand
   weight: 0.3333
   avg_copies: 1.0
 - name: Fire Magic
@@ -139,13 +142,10 @@ top_cards:
 - name: Baral, Chief of Compliance
   weight: 0.3333
   avg_copies: 1.0
-- name: Fire
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Polluted Delta
   weight: 0.3333
   avg_copies: 1.0
-- name: Remand
+- name: Fire
   weight: 0.3333
   avg_copies: 1.0
 ---

@@ -6,7 +6,7 @@ colors:
 - R
 - G
 name: Domain Zoo
-meta_share: 0.0252
+meta_share: 0.0249
 list_count: 85
 top_cards:
 - name: Territorial Kavu
@@ -18,10 +18,10 @@ top_cards:
 - name: Leyline Binding
   weight: 1.0
   avg_copies: 3.96
-- name: Lightning Bolt
+- name: Scion of Draco
   weight: 1.0
   avg_copies: 3.93
-- name: Scion of Draco
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 3.93
 - name: Wooded Foothills
@@ -171,13 +171,13 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.0235
   avg_copies: 1.5
+- name: Elegant Parlor
+  weight: 0.0235
+  avg_copies: 1.0
 - name: Zagoth Triome
   weight: 0.0235
   avg_copies: 1.0
 - name: Containment Priest
-  weight: 0.0235
-  avg_copies: 1.0
-- name: Elegant Parlor
   weight: 0.0235
   avg_copies: 1.0
 - name: Does Machines
@@ -186,22 +186,22 @@ top_cards:
 - name: Overgrown Tomb
   weight: 0.0235
   avg_copies: 1.0
-- name: Faithless Looting
-  weight: 0.0118
-  avg_copies: 4.0
-- name: Professor of Symbology
+- name: Persist
   weight: 0.0118
   avg_copies: 4.0
 - name: Archon of Cruelty
   weight: 0.0118
   avg_copies: 4.0
-- name: Aurora Awakener
-  weight: 0.0118
-  avg_copies: 4.0
 - name: Psychic Frog
   weight: 0.0118
   avg_copies: 4.0
-- name: Persist
+- name: Aurora Awakener
+  weight: 0.0118
+  avg_copies: 4.0
+- name: Faithless Looting
+  weight: 0.0118
+  avg_copies: 4.0
+- name: Professor of Symbology
   weight: 0.0118
   avg_copies: 4.0
 - name: Summoning Trap
@@ -210,55 +210,28 @@ top_cards:
 - name: Boros Charm
   weight: 0.0118
   avg_copies: 2.0
+- name: Drannith Magistrate
+  weight: 0.0118
+  avg_copies: 2.0
 - name: No More Lies
   weight: 0.0118
   avg_copies: 2.0
 - name: Mana Tithe
   weight: 0.0118
   avg_copies: 2.0
-- name: Drannith Magistrate
-  weight: 0.0118
-  avg_copies: 2.0
-- name: Price of Freedom
-  weight: 0.0118
-  avg_copies: 1.0
-- name: Alpine Moon
-  weight: 0.0118
-  avg_copies: 1.0
-- name: Redirect Lightning
-  weight: 0.0118
-  avg_copies: 1.0
-- name: Chthonian Nightmare
-  weight: 0.0118
-  avg_copies: 1.0
-- name: Fire Magic
-  weight: 0.0118
-  avg_copies: 1.0
 - name: Origin of Metalbending
-  weight: 0.0118
-  avg_copies: 1.0
-- name: Firebending Lesson
-  weight: 0.0118
-  avg_copies: 1.0
-- name: Dai Li Indoctrination
-  weight: 0.0118
-  avg_copies: 1.0
-- name: Sacred Ground
-  weight: 0.0118
-  avg_copies: 1.0
-- name: Ruinous Waterbending
-  weight: 0.0118
-  avg_copies: 1.0
-- name: Decorum Dissertation
-  weight: 0.0118
-  avg_copies: 1.0
-- name: Glasspool Mimic
   weight: 0.0118
   avg_copies: 1.0
 - name: Raucous Theater
   weight: 0.0118
   avg_copies: 1.0
-- name: Boomerang Basics
+- name: Breeding Pool
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Glasspool Mimic
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Sacred Ground
   weight: 0.0118
   avg_copies: 1.0
 - name: Boromir, Warden of the Tower
@@ -267,7 +240,34 @@ top_cards:
 - name: Abandon Attachments
   weight: 0.0118
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Price of Freedom
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Ruinous Waterbending
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Alpine Moon
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Dai Li Indoctrination
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Firebending Lesson
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Boomerang Basics
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Redirect Lightning
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Fire Magic
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Chthonian Nightmare
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Decorum Dissertation
   weight: 0.0118
   avg_copies: 1.0
 ---

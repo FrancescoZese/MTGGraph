@@ -4,13 +4,13 @@ colors:
 - R
 - G
 name: Cosmogoyf Fling
-meta_share: 0.0068
+meta_share: 0.0067
 list_count: 23
 top_cards:
-- name: Plunge into Darkness
+- name: Thud
   weight: 1.0
   avg_copies: 4.0
-- name: Thud
+- name: Plunge into Darkness
   weight: 1.0
   avg_copies: 4.0
 - name: Spoils of the Vault
@@ -100,10 +100,10 @@ top_cards:
 - name: Claim
   weight: 0.1304
   avg_copies: 3.33
-- name: Fire Magic
+- name: Lightning Bolt
   weight: 0.1304
   avg_copies: 2.33
-- name: Lightning Bolt
+- name: Fire Magic
   weight: 0.1304
   avg_copies: 2.33
 - name: Pick Your Poison
@@ -112,28 +112,28 @@ top_cards:
 - name: Mosswort Bridge
   weight: 0.087
   avg_copies: 1.5
-- name: Fling
+- name: Thrun, the Last Troll
   weight: 0.087
   avg_copies: 1.0
-- name: Thrun, the Last Troll
+- name: Fling
   weight: 0.087
   avg_copies: 1.0
 - name: Mana Confluence
   weight: 0.0435
   avg_copies: 4.0
-- name: Duress
-  weight: 0.0435
-  avg_copies: 2.0
 - name: Death's Shadow
   weight: 0.0435
   avg_copies: 2.0
+- name: Duress
+  weight: 0.0435
+  avg_copies: 2.0
+- name: Mountain
+  weight: 0.0435
+  avg_copies: 1.0
 - name: Chancellor of the Dross
   weight: 0.0435
   avg_copies: 1.0
 - name: Leyline of the Void
-  weight: 0.0435
-  avg_copies: 1.0
-- name: Mountain
   weight: 0.0435
   avg_copies: 1.0
 - name: Ghor-Clan Rampager

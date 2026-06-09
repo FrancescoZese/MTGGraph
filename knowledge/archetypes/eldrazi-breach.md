@@ -45,10 +45,10 @@ top_cards:
 - name: Preordain
   weight: 0.75
   avg_copies: 2.67
-- name: Mystical Dispute
+- name: Disruptor Flute
   weight: 0.75
   avg_copies: 2.33
-- name: Disruptor Flute
+- name: Mystical Dispute
   weight: 0.75
   avg_copies: 2.33
 - name: Island
@@ -57,10 +57,10 @@ top_cards:
 - name: Shivan Reef
   weight: 0.75
   avg_copies: 2.0
-- name: Kozilek's Return
+- name: Steam Vents
   weight: 0.75
   avg_copies: 1.67
-- name: Steam Vents
+- name: Kozilek's Return
   weight: 0.75
   avg_copies: 1.67
 - name: Vexing Bauble
@@ -87,55 +87,46 @@ top_cards:
 - name: Thundering Falls
   weight: 0.5
   avg_copies: 1.0
-- name: Sink into Stupor
+- name: Dress Down
   weight: 0.5
   avg_copies: 1.0
-- name: Dress Down
+- name: Sink into Stupor
   weight: 0.5
   avg_copies: 1.0
 - name: Polluted Delta
   weight: 0.5
   avg_copies: 1.0
-- name: Thoughtseize
-  weight: 0.25
-  avg_copies: 4.0
 - name: Goryo's Vengeance
-  weight: 0.25
-  avg_copies: 4.0
-- name: Bloodstained Mire
   weight: 0.25
   avg_copies: 4.0
 - name: Talisman of Indulgence
   weight: 0.25
   avg_copies: 4.0
+- name: Thoughtseize
+  weight: 0.25
+  avg_copies: 4.0
 - name: Faithless Looting
   weight: 0.25
   avg_copies: 4.0
-- name: Trinisphere
+- name: Bloodstained Mire
   weight: 0.25
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Fire Magic
   weight: 0.25
   avg_copies: 3.0
-- name: Talisman of Curiosity
+- name: Trinisphere
   weight: 0.25
-  avg_copies: 2.0
-- name: Ashiok, Dream Render
-  weight: 0.25
-  avg_copies: 2.0
-- name: Blood Crypt
+  avg_copies: 3.0
+- name: Fable of the Mirror-Breaker
   weight: 0.25
   avg_copies: 2.0
 - name: Raucous Theater
   weight: 0.25
   avg_copies: 2.0
-- name: Meltdown
+- name: Talisman of Curiosity
   weight: 0.25
   avg_copies: 2.0
-- name: Fable of the Mirror-Breaker
-  weight: 0.25
-  avg_copies: 2.0
-- name: Unholy Heat
+- name: Ashiok, Dream Render
   weight: 0.25
   avg_copies: 2.0
 - name: Remand
@@ -144,13 +135,22 @@ top_cards:
 - name: Void Mirror
   weight: 0.25
   avg_copies: 2.0
+- name: Meltdown
+  weight: 0.25
+  avg_copies: 2.0
+- name: Unholy Heat
+  weight: 0.25
+  avg_copies: 2.0
+- name: Blood Crypt
+  weight: 0.25
+  avg_copies: 2.0
 - name: Boseiju, Who Shelters All
   weight: 0.25
   avg_copies: 1.5
-- name: Lórien Revealed
+- name: Swamp
   weight: 0.25
   avg_copies: 1.0
-- name: Swamp
+- name: Lórien Revealed
   weight: 0.25
   avg_copies: 1.0
 ---

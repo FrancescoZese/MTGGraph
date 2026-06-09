@@ -3,13 +3,13 @@ colors:
 - U
 - B
 name: 'Unknown #47'
-meta_share: 0.0083
+meta_share: 0.0082
 list_count: 28
 top_cards:
-- name: Polluted Delta
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Fatal Push
@@ -18,10 +18,10 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.32
-- name: Quantum Riddler
+- name: Counterspell
   weight: 1.0
   avg_copies: 3.18
-- name: Counterspell
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 3.18
 - name: Force of Negation
@@ -135,10 +135,10 @@ top_cards:
 - name: Flow State
   weight: 0.0714
   avg_copies: 3.0
-- name: Damping Sphere
+- name: Misty Rainforest
   weight: 0.0714
   avg_copies: 2.5
-- name: Misty Rainforest
+- name: Damping Sphere
   weight: 0.0714
   avg_copies: 2.5
 - name: Wan Shi Tong, Librarian
@@ -147,16 +147,16 @@ top_cards:
 - name: The Meathook Massacre
   weight: 0.0714
   avg_copies: 1.5
-- name: Scalding Tarn
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Snow-Covered Swamp
-  weight: 0.0714
-  avg_copies: 1.0
 - name: Spell Pierce
   weight: 0.0714
   avg_copies: 1.0
+- name: Scalding Tarn
+  weight: 0.0714
+  avg_copies: 1.0
 - name: Snow-Covered Island
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Snow-Covered Swamp
   weight: 0.0714
   avg_copies: 1.0
 - name: Pest Control
@@ -165,25 +165,25 @@ top_cards:
 - name: Void Mirror
   weight: 0.0357
   avg_copies: 2.0
-- name: Snapcaster Mage
-  weight: 0.0357
-  avg_copies: 1.0
 - name: Strategic Betrayal
-  weight: 0.0357
-  avg_copies: 1.0
-- name: River of Tears
   weight: 0.0357
   avg_copies: 1.0
 - name: High Noon
   weight: 0.0357
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Meticulous Archive
   weight: 0.0357
   avg_copies: 1.0
 - name: Dreams of Steel and Oil
   weight: 0.0357
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Snapcaster Mage
+  weight: 0.0357
+  avg_copies: 1.0
+- name: River of Tears
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Hallowed Fountain
   weight: 0.0357
   avg_copies: 1.0
 - name: Waterlogged Teachings

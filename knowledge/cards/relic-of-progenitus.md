@@ -12,13 +12,13 @@ archetypes:
     weight: 0.0123
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.2647
+    weight: 0.2662
     avg_copies: 1.07
   burn:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 2.0
   mono-blue-tron:
-    weight: 0.25
+    weight: 0.2308
     avg_copies: 2.33
   mono-red-belcher:
     weight: 0.0833
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.0194
     avg_copies: 3.0
   esper-blink:
-    weight: 0.02
+    weight: 0.0192
     avg_copies: 1.0
   orzhov-blink:
     weight: 0.6667

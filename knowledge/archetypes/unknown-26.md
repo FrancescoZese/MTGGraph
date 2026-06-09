@@ -3,16 +3,16 @@ colors:
 - W
 - R
 name: 'Unknown #26'
-meta_share: 0.0033
+meta_share: 0.0032
 list_count: 11
 top_cards:
-- name: Path to Exile
+- name: Field of Ruin
   weight: 1.0
   avg_copies: 4.0
 - name: Demolition Field
   weight: 1.0
   avg_copies: 4.0
-- name: Field of Ruin
+- name: Path to Exile
   weight: 1.0
   avg_copies: 4.0
 - name: Cleansing Wildfire
@@ -24,10 +24,10 @@ top_cards:
 - name: High Noon
   weight: 1.0
   avg_copies: 3.91
-- name: Solitude
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 3.91
-- name: Wrath of the Skies
+- name: Solitude
   weight: 1.0
   avg_copies: 3.91
 - name: Wrath of God
@@ -42,10 +42,10 @@ top_cards:
 - name: Castle Ardenvale
   weight: 1.0
   avg_copies: 1.91
-- name: Cori Mountain Monastery
+- name: Erode
   weight: 0.9091
   avg_copies: 3.7
-- name: Erode
+- name: Cori Mountain Monastery
   weight: 0.9091
   avg_copies: 3.7
 - name: Kaheera, the Orphanguard
@@ -93,22 +93,22 @@ top_cards:
 - name: Wear
   weight: 0.1818
   avg_copies: 3.0
-- name: Engineered Explosives
+- name: Galvanic Discharge
   weight: 0.1818
   avg_copies: 2.0
-- name: Galvanic Discharge
+- name: Engineered Explosives
   weight: 0.1818
   avg_copies: 2.0
 - name: Crucible of Worlds
   weight: 0.1818
   avg_copies: 1.0
-- name: Volcanic Spite
+- name: White Orchid Phantom
   weight: 0.0909
   avg_copies: 4.0
 - name: Ark of Hunger
   weight: 0.0909
   avg_copies: 4.0
-- name: White Orchid Phantom
+- name: Volcanic Spite
   weight: 0.0909
   avg_copies: 4.0
 - name: Relic of Progenitus
@@ -123,16 +123,16 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 0.0909
   avg_copies: 3.0
-- name: Beza, the Bounding Spring
-  weight: 0.0909
-  avg_copies: 2.0
-- name: Flashback
-  weight: 0.0909
-  avg_copies: 2.0
 - name: Hallowed Moonlight
   weight: 0.0909
   avg_copies: 2.0
 - name: Kor Firewalker
+  weight: 0.0909
+  avg_copies: 2.0
+- name: Beza, the Bounding Spring
+  weight: 0.0909
+  avg_copies: 2.0
+- name: Flashback
   weight: 0.0909
   avg_copies: 2.0
 - name: Elixir of Immortality

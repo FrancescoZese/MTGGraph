@@ -6,7 +6,7 @@ name: Graveyard Trespasser // Graveyard Glutton
 scryfall_id: daa2a273-488f-4285-a069-ad159ad2d393
 set: mid
 type: Creature — Human Werewolf // Creature — Werewolf
-meta_presence: 0.0208
+meta_presence: 0.0205
 archetypes:
   dimir-control:
     weight: 0.1728
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.0149
     avg_copies: 2.0
   esper-blink:
-    weight: 0.06
+    weight: 0.0577
     avg_copies: 2.0
   jund-saga:
     weight: 0.5
@@ -36,7 +36,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.0143
+    weight: 0.0141
     avg_copies: 2.0
   goryo5:
     weight: 0.5

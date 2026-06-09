@@ -3,7 +3,7 @@ colors:
 - U
 - R
 name: Izzet Artifacts
-meta_share: 0.0092
+meta_share: 0.0091
 list_count: 31
 top_cards:
 - name: Mishra's Bauble
@@ -78,19 +78,19 @@ top_cards:
 - name: Thundering Falls
   weight: 0.5161
   avg_copies: 1.0
-- name: Skateboard
+- name: Soul-Guide Lantern
   weight: 0.5161
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Skateboard
   weight: 0.5161
   avg_copies: 1.0
 - name: Haywire Mite
   weight: 0.4839
   avg_copies: 1.21
-- name: Pithing Needle
+- name: Mountain
   weight: 0.4839
   avg_copies: 1.0
-- name: Mountain
+- name: Pithing Needle
   weight: 0.4839
   avg_copies: 1.0
 - name: Blood Moon
@@ -129,10 +129,10 @@ top_cards:
 - name: Whipflare
   weight: 0.2581
   avg_copies: 2.25
-- name: Minamo, School at Water's Edge
+- name: Flooded Strand
   weight: 0.2581
   avg_copies: 1.0
-- name: Flooded Strand
+- name: Minamo, School at Water's Edge
   weight: 0.2581
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -147,13 +147,13 @@ top_cards:
 - name: Sewer-veillance Cam
   weight: 0.129
   avg_copies: 4.0
+- name: Misty Rainforest
+  weight: 0.0968
+  avg_copies: 3.0
 - name: Emeritus of Conflict
   weight: 0.0968
   avg_copies: 3.0
 - name: Grinding Station
-  weight: 0.0968
-  avg_copies: 3.0
-- name: Misty Rainforest
   weight: 0.0968
   avg_copies: 3.0
 - name: Lightning Bolt
@@ -165,19 +165,19 @@ top_cards:
 - name: Malevolent Rumble
   weight: 0.0645
   avg_copies: 4.0
-- name: Annul
+- name: Endurance
   weight: 0.0645
   avg_copies: 2.0
-- name: Endurance
+- name: Annul
   weight: 0.0645
   avg_copies: 2.0
 - name: Six
   weight: 0.0645
   avg_copies: 2.0
-- name: Lavaspur Boots
+- name: Shifting Woodland
   weight: 0.0645
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Lavaspur Boots
   weight: 0.0645
   avg_copies: 1.0
 - name: Boseiju, Who Endures
@@ -186,67 +186,67 @@ top_cards:
 - name: Hedge Maze
   weight: 0.0645
   avg_copies: 1.0
-- name: Shifting Woodland
+- name: Grafdigger's Cage
   weight: 0.0645
   avg_copies: 1.0
 - name: Stormchaser's Talent
   weight: 0.0323
   avg_copies: 4.0
-- name: Experimental Synthesizer
+- name: Vivi Ornitier
   weight: 0.0323
   avg_copies: 3.0
 - name: Retraction Helix
   weight: 0.0323
   avg_copies: 3.0
-- name: Vivi Ornitier
+- name: Experimental Synthesizer
   weight: 0.0323
   avg_copies: 3.0
-- name: Invasive Surgery
-  weight: 0.0323
-  avg_copies: 2.0
-- name: Kappa Cannoneer
-  weight: 0.0323
-  avg_copies: 2.0
-- name: card:ledger-shredder
+- name: Botanical Sanctum
   weight: 0.0323
   avg_copies: 2.0
 - name: The Reality Chip
   weight: 0.0323
   avg_copies: 2.0
-- name: Botanical Sanctum
-  weight: 0.0323
-  avg_copies: 2.0
 - name: Spell Pierce
   weight: 0.0323
   avg_copies: 2.0
-- name: Shivan Reef
+- name: Invasive Surgery
   weight: 0.0323
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: card:ledger-shredder
+  weight: 0.0323
+  avg_copies: 2.0
+- name: Kappa Cannoneer
+  weight: 0.0323
+  avg_copies: 2.0
 - name: Subtlety
-  weight: 0.0323
-  avg_copies: 1.0
-- name: Force of Vigor
   weight: 0.0323
   avg_copies: 1.0
 - name: Swan Song
   weight: 0.0323
   avg_copies: 1.0
-- name: Stomping Ground
-  weight: 0.0323
-  avg_copies: 1.0
-- name: Snow-Covered Island
-  weight: 0.0323
-  avg_copies: 1.0
 - name: Nature's Claim
   weight: 0.0323
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Force of Vigor
   weight: 0.0323
   avg_copies: 1.0
 - name: Meltdown
   weight: 0.0323
   avg_copies: 1.0
 - name: Snow-Covered Mountain
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Stomping Ground
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Shivan Reef
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Snow-Covered Island
   weight: 0.0323
   avg_copies: 1.0
 - name: An Offer You Can't Refuse

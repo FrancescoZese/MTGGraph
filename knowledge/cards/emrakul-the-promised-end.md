@@ -9,14 +9,14 @@ type: Legendary Creature — Eldrazi
 meta_presence: 0.0707
 archetypes:
   eldrazi-tron:
-    weight: 0.0735
-    avg_copies: 1.18
+    weight: 0.0791
+    avg_copies: 1.17
   mono-blue-tron:
-    weight: 0.8333
-    avg_copies: 1.3
+    weight: 0.8462
+    avg_copies: 1.36
   eldrazi-ramp:
     weight: 1.0
-    avg_copies: 2.86
+    avg_copies: 2.87
   broodscale-combo:
     weight: 0.9752
     avg_copies: 2.07

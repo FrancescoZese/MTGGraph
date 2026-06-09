@@ -6,10 +6,10 @@ name: Misty Rainforest
 scryfall_id: 88231c0d-0cc8-44ec-bf95-81d1710ac141
 set: mh2
 type: Land
-meta_presence: 0.1485
+meta_presence: 0.1473
 archetypes:
   ruby-storm:
-    weight: 0.0196
+    weight: 0.0194
     avg_copies: 1.0
   dimir-control:
     weight: 0.3457
@@ -18,16 +18,16 @@ archetypes:
     weight: 0.0078
     avg_copies: 3.0
   goryo:
-    weight: 0.0167
+    weight: 0.0156
     avg_copies: 1.5
   azorius-control:
-    weight: 0.2632
+    weight: 0.2564
     avg_copies: 1.1
   living-end:
     weight: 1.0
     avg_copies: 3.74
   affinity:
-    weight: 0.0703
+    weight: 0.0701
     avg_copies: 1.86
   mill:
     weight: 0.3158
@@ -42,16 +42,16 @@ archetypes:
     weight: 1.0
     avg_copies: 3.2
   yawgmoth-combo:
-    weight: 0.28
+    weight: 0.2745
     avg_copies: 1.29
   eldrazi-ramp:
-    weight: 0.679
+    weight: 0.6707
     avg_copies: 1.24
   simic-ritual:
     weight: 0.9851
     avg_copies: 3.7
   izzet-prowess:
-    weight: 0.0241
+    weight: 0.024
     avg_copies: 1.75
   4c-omnath:
     weight: 0.75
@@ -165,7 +165,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-122:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 2.0
   unknown-126:
     weight: 1.0
@@ -173,6 +173,9 @@ archetypes:
   unknown-124:
     weight: 1.0
     avg_copies: 4.0
+  unknown-130:
+    weight: 1.0
+    avg_copies: 2.0
   unknown-128:
     weight: 1.0
     avg_copies: 1.0

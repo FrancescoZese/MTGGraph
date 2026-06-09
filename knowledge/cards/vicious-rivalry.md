@@ -11,7 +11,7 @@ type: Sorcery
 meta_presence: 0.0012
 archetypes:
   yawgmoth-combo:
-    weight: 0.02
+    weight: 0.0196
     avg_copies: 1.0
   the-rock:
     weight: 0.5

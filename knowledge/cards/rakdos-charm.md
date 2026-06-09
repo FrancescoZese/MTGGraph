@@ -14,10 +14,10 @@ archetypes:
     weight: 0.1111
     avg_copies: 3.0
   burn:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 1.0
   hollow-one:
-    weight: 0.2759
+    weight: 0.2667
     avg_copies: 1.75
   grixis-control:
     weight: 0.5

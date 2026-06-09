@@ -7,10 +7,10 @@ name: Consign to Memory
 scryfall_id: bc95af55-d1dd-4fe6-adb0-3ad6db20d986
 set: mh3
 type: Instant
-meta_presence: 0.4569
+meta_presence: 0.4573
 archetypes:
   ruby-storm:
-    weight: 0.0098
+    weight: 0.0097
     avg_copies: 2.0
   boros-energy:
     weight: 0.0021
@@ -25,19 +25,19 @@ archetypes:
     weight: 0.9845
     avg_copies: 3.79
   goryo:
-    weight: 0.9833
-    avg_copies: 2.96
+    weight: 0.9844
+    avg_copies: 2.95
   necrodominance:
     weight: 0.0556
     avg_copies: 3.5
   azorius-control:
     weight: 1.0
-    avg_copies: 3.84
+    avg_copies: 3.85
   jeskai-control:
     weight: 1.0
     avg_copies: 3.55
   affinity:
-    weight: 0.9265
+    weight: 0.9268
     avg_copies: 2.38
   domain-zoo:
     weight: 0.9294
@@ -53,7 +53,7 @@ archetypes:
     avg_copies: 3.59
   mono-blue-tron:
     weight: 1.0
-    avg_copies: 3.14
+    avg_copies: 3.2
   hammer-time:
     weight: 0.875
     avg_copies: 2.57
@@ -61,20 +61,20 @@ archetypes:
     weight: 0.8
     avg_copies: 2.75
   eldrazi-ramp:
-    weight: 0.0617
-    avg_copies: 2.6
+    weight: 0.0732
+    avg_copies: 2.5
   simic-ritual:
     weight: 0.806
     avg_copies: 2.96
   izzet-prowess:
-    weight: 0.9759
+    weight: 0.976
     avg_copies: 3.32
   4c-omnath:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.9
-    avg_copies: 2.6
+    weight: 0.9038
+    avg_copies: 2.57
   indomitable-creativity:
     weight: 0.7
     avg_copies: 3.71
@@ -85,7 +85,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   azorius-blink:
-    weight: 0.9722
+    weight: 0.973
     avg_copies: 2.11
   izzet-artifacts:
     weight: 0.9355
@@ -109,7 +109,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   goryo1:
-    weight: 0.9857
+    weight: 0.9859
     avg_copies: 3.03
   goryo7:
     weight: 1.0
@@ -325,7 +325,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-122:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 3.0
   unknown-125:
     weight: 1.0
@@ -342,4 +342,7 @@ archetypes:
   unknown-129:
     weight: 1.0
     avg_copies: 4.0
+  unknown-131:
+    weight: 1.0
+    avg_copies: 2.0
 ---

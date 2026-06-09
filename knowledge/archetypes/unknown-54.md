@@ -9,31 +9,31 @@ name: 'Unknown #54'
 meta_share: 0.0006
 list_count: 2
 top_cards:
-- name: Archon of Cruelty
-  weight: 1.0
-  avg_copies: 4.0
 - name: Territorial Kavu
-  weight: 1.0
-  avg_copies: 4.0
-- name: Aurora Awakener
-  weight: 1.0
-  avg_copies: 4.0
-- name: Leyline of the Guildpact
-  weight: 1.0
-  avg_copies: 4.0
-- name: Leyline Binding
-  weight: 1.0
-  avg_copies: 4.0
-- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Persist
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
 - name: Scion of Draco
+  weight: 1.0
+  avg_copies: 4.0
+- name: Archon of Cruelty
+  weight: 1.0
+  avg_copies: 4.0
+- name: Leyline Binding
+  weight: 1.0
+  avg_copies: 4.0
+- name: Aurora Awakener
+  weight: 1.0
+  avg_copies: 4.0
+- name: Faithless Looting
+  weight: 1.0
+  avg_copies: 4.0
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
@@ -54,25 +54,25 @@ top_cards:
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 1.5
-- name: Thundering Falls
-  weight: 1.0
-  avg_copies: 1.0
-- name: Plains
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
-- name: Overgrown Tomb
+- name: Indatha Triome
   weight: 1.0
   avg_copies: 1.0
-- name: Indatha Triome
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Thundering Falls
+  weight: 1.0
+  avg_copies: 1.0
+- name: Overgrown Tomb
   weight: 1.0
   avg_copies: 1.0
 - name: Psychic Frog
@@ -84,13 +84,19 @@ top_cards:
 - name: Flooded Strand
   weight: 0.5
   avg_copies: 3.0
-- name: Vexing Bauble
+- name: Nihil Spellbomb
+  weight: 0.5
+  avg_copies: 2.0
+- name: Pyroclasm
+  weight: 0.5
+  avg_copies: 2.0
+- name: Wear
   weight: 0.5
   avg_copies: 2.0
 - name: Fire Magic
   weight: 0.5
   avg_copies: 2.0
-- name: Meltdown
+- name: Surgical Extraction
   weight: 0.5
   avg_copies: 2.0
 - name: Scalding Tarn
@@ -99,25 +105,22 @@ top_cards:
 - name: Force of Despair
   weight: 0.5
   avg_copies: 2.0
-- name: Nihil Spellbomb
+- name: Vexing Bauble
   weight: 0.5
   avg_copies: 2.0
-- name: Wear
+- name: Meltdown
   weight: 0.5
   avg_copies: 2.0
-- name: Pyroclasm
+- name: Breeding Pool
   weight: 0.5
-  avg_copies: 2.0
-- name: Surgical Extraction
+  avg_copies: 1.0
+- name: Meticulous Archive
   weight: 0.5
-  avg_copies: 2.0
+  avg_copies: 1.0
 - name: Temple Garden
   weight: 0.5
   avg_copies: 1.0
-- name: Underground Mortuary
-  weight: 0.5
-  avg_copies: 1.0
-- name: Blood Crypt
+- name: Swamp
   weight: 0.5
   avg_copies: 1.0
 - name: Undercity Sewers
@@ -126,13 +129,10 @@ top_cards:
 - name: Snow-Covered Swamp
   weight: 0.5
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Underground Mortuary
   weight: 0.5
   avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.5
-  avg_copies: 1.0
-- name: Swamp
+- name: Blood Crypt
   weight: 0.5
   avg_copies: 1.0
 ---

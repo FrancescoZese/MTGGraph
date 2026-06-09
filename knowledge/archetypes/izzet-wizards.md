@@ -3,16 +3,16 @@ colors:
 - U
 - R
 name: Izzet Wizzards
-meta_share: 0.0027
+meta_share: 0.0026
 list_count: 9
 top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 4.56
-- name: Flame of Anor
+- name: Counterspell
   weight: 1.0
   avg_copies: 3.89
-- name: Counterspell
+- name: Flame of Anor
   weight: 1.0
   avg_copies: 3.89
 - name: Snapcaster Mage
@@ -93,10 +93,10 @@ top_cards:
 - name: Tishana's Tidebinder
   weight: 0.3333
   avg_copies: 2.67
-- name: Blood Moon
+- name: Ghost Vacuum
   weight: 0.3333
   avg_copies: 1.67
-- name: Ghost Vacuum
+- name: Blood Moon
   weight: 0.3333
   avg_copies: 1.67
 - name: Prismari Charm
@@ -108,22 +108,22 @@ top_cards:
 - name: Traumatic Critique
   weight: 0.2222
   avg_copies: 4.0
-- name: Preordain
-  weight: 0.2222
-  avg_copies: 3.0
 - name: Thundertrap Trainer
   weight: 0.2222
   avg_copies: 3.0
-- name: Flare of Denial
+- name: Preordain
   weight: 0.2222
-  avg_copies: 2.5
+  avg_copies: 3.0
 - name: Fable of the Mirror-Breaker
   weight: 0.2222
   avg_copies: 2.5
-- name: Lórien Revealed
+- name: Flare of Denial
+  weight: 0.2222
+  avg_copies: 2.5
+- name: Test of Talents
   weight: 0.2222
   avg_copies: 2.0
-- name: Test of Talents
+- name: Lórien Revealed
   weight: 0.2222
   avg_copies: 2.0
 - name: Surgical Extraction
@@ -135,10 +135,10 @@ top_cards:
 - name: Logic Knot
   weight: 0.2222
   avg_copies: 1.0
-- name: Unholy Heat
+- name: Mishra's Bauble
   weight: 0.1111
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Unholy Heat
   weight: 0.1111
   avg_copies: 4.0
 - name: Soul-Guide Lantern
@@ -147,61 +147,61 @@ top_cards:
 - name: Marang River Regent
   weight: 0.1111
   avg_copies: 3.0
+- name: Field of Ruin
+  weight: 0.1111
+  avg_copies: 2.0
 - name: Brainsurge
-  weight: 0.1111
-  avg_copies: 2.0
-- name: Flusterstorm
-  weight: 0.1111
-  avg_copies: 2.0
-- name: Expressive Iteration
-  weight: 0.1111
-  avg_copies: 2.0
-- name: Engineered Explosives
   weight: 0.1111
   avg_copies: 2.0
 - name: Spirebluff Canal
   weight: 0.1111
   avg_copies: 2.0
-- name: Field of Ruin
+- name: Expressive Iteration
+  weight: 0.1111
+  avg_copies: 2.0
+- name: Flusterstorm
   weight: 0.1111
   avg_copies: 2.0
 - name: Den of the Bugbear
   weight: 0.1111
   avg_copies: 2.0
-- name: Mistrise Village
+- name: Engineered Explosives
   weight: 0.1111
-  avg_copies: 1.0
-- name: Arid Mesa
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Annul
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Vexing Bauble
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Ashiok, Dream Render
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Vedalken Shackles
-  weight: 0.1111
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Riverpyre Verge
   weight: 0.1111
   avg_copies: 1.0
-- name: Stern Scolding
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Vampires' Vengeance
+- name: Arid Mesa
   weight: 0.1111
   avg_copies: 1.0
 - name: Stone of Erech
   weight: 0.1111
   avg_copies: 1.0
 - name: Agna Qel'a
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Vedalken Shackles
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Mistrise Village
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Annul
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Hurkyl's Recall
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Vampires' Vengeance
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Vexing Bauble
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Stern Scolding
   weight: 0.1111
   avg_copies: 1.0
 ---

@@ -12,10 +12,10 @@ archetypes:
     weight: 0.0032
     avg_copies: 1.0
   burn:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0494
+    weight: 0.0488
     avg_copies: 1.0
   rakdos-lantern-combo:
     weight: 0.5

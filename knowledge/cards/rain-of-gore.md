@@ -11,6 +11,6 @@ type: Enchantment
 meta_presence: 0.0003
 archetypes:
   burn:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 1.0
 ---

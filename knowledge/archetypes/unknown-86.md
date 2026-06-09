@@ -6,49 +6,49 @@ name: 'Unknown #86'
 meta_share: 0.0009
 list_count: 3
 top_cards:
-- name: Boltwave
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Monastery Swiftspear
   weight: 1.0
   avg_copies: 4.0
-- name: Skewer the Critics
+- name: Barbarian Ring
   weight: 1.0
   avg_copies: 4.0
-- name: Lava Spike
+- name: Skewer the Critics
   weight: 1.0
   avg_copies: 4.0
 - name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
-- name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
 - name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
-- name: Barbarian Ring
+- name: Boltwave
   weight: 1.0
   avg_copies: 4.0
-- name: Lava Dart
+- name: Lava Spike
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lightning Bolt
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mountain
   weight: 1.0
   avg_copies: 3.33
 - name: Light Up the Stage
   weight: 1.0
   avg_copies: 3.33
-- name: Mountain
+- name: Lava Dart
   weight: 1.0
   avg_copies: 3.33
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.67
-- name: Tormod's Crypt
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 2.33
-- name: Sacred Foundry
+- name: Tormod's Crypt
   weight: 1.0
   avg_copies: 2.33
 - name: Wear
@@ -78,22 +78,22 @@ top_cards:
 - name: Scalding Tarn
   weight: 0.6667
   avg_copies: 2.5
-- name: Ragavan, Nimble Pilferer
-  weight: 0.6667
-  avg_copies: 1.0
 - name: Meltdown
   weight: 0.6667
   avg_copies: 1.0
-- name: Vexing Bauble
-  weight: 0.3333
-  avg_copies: 2.0
+- name: Ragavan, Nimble Pilferer
+  weight: 0.6667
+  avg_copies: 1.0
 - name: Pyroclasm
   weight: 0.3333
   avg_copies: 2.0
-- name: Boros Charm
+- name: Vexing Bauble
   weight: 0.3333
   avg_copies: 2.0
 - name: Path to Exile
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Boros Charm
   weight: 0.3333
   avg_copies: 2.0
 ---

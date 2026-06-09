@@ -7,7 +7,7 @@ name: Chomping Changeling
 scryfall_id: e187dcc6-19ad-4cf6-94b4-daf07f5144e5
 set: ecl
 type: Creature — Shapeshifter
-meta_presence: 0.0071
+meta_presence: 0.0073
 archetypes:
   mono-green-ramp:
     weight: 1.0
@@ -22,6 +22,9 @@ archetypes:
     weight: 0.2
     avg_copies: 1.0
   unknown-61:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-130:
     weight: 1.0
     avg_copies: 1.0
 ---

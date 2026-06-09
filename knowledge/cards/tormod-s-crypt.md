@@ -9,16 +9,16 @@ type: Artifact
 meta_presence: 0.1713
 archetypes:
   mono-blue-belcher:
-    weight: 0.2787
+    weight: 0.2903
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.9706
+    weight: 0.9712
     avg_copies: 1.0
   amulet-titan:
     weight: 0.0094
     avg_copies: 1.0
   goryo:
-    weight: 0.0167
+    weight: 0.0156
     avg_copies: 1.0
   hardened-scales:
     weight: 0.5
@@ -27,17 +27,17 @@ archetypes:
     weight: 1.0
     avg_copies: 3.11
   mono-blue-tron:
-    weight: 0.1667
+    weight: 0.1538
     avg_copies: 1.0
   hammer-time:
     weight: 0.625
     avg_copies: 1.2
   eldrazi-ramp:
-    weight: 0.284
+    weight: 0.2805
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.2711
-    avg_copies: 1.74
+    weight: 0.2754
+    avg_copies: 1.72
   dredge:
     weight: 0.0556
     avg_copies: 1.0

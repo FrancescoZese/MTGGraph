@@ -7,9 +7,12 @@ name: Ashaya, Soul of the Wild
 scryfall_id: 0a74b4e6-f6c9-4fef-a83c-a285a541e720
 set: dsc
 type: Legendary Creature — Elemental
-meta_presence: 0.0018
+meta_presence: 0.0021
 archetypes:
   mono-green-ramp:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-130:
     weight: 1.0
     avg_copies: 1.0
 ---
