@@ -4,7 +4,7 @@ archetypes:
     weight: 0.0097
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.9574
+    weight: 0.9583
     avg_copies: 3.13
   cosmogoyf-fling:
     weight: 0.8696

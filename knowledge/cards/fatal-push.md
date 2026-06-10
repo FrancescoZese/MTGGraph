@@ -7,16 +7,16 @@ name: Fatal Push
 scryfall_id: 6e9d8fe4-fd9b-4923-92bf-7dd6b8fa02e7
 set: 2xm
 type: Instant
-meta_presence: 0.1663
+meta_presence: 0.1671
 archetypes:
   dimir-control:
     weight: 1.0
     avg_copies: 3.8
   goryo:
-    weight: 0.2891
+    weight: 0.2846
     avg_copies: 1.4
   necrodominance:
-    weight: 0.9167
+    weight: 0.9189
     avg_copies: 3.97
   mill:
     weight: 0.9474
@@ -28,8 +28,8 @@ archetypes:
     weight: 0.2174
     avg_copies: 4.0
   hollow-one:
-    weight: 0.2667
-    avg_copies: 2.2
+    weight: 0.2581
+    avg_copies: 2.25
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 2.75
@@ -37,13 +37,13 @@ archetypes:
     weight: 0.0448
     avg_copies: 2.33
   izzet-prowess:
-    weight: 0.012
+    weight: 0.0117
     avg_copies: 1.5
   esper-blink:
-    weight: 0.9615
-    avg_copies: 3.5
+    weight: 0.963
+    avg_copies: 3.52
   samwise-combo:
-    weight: 0.425
+    weight: 0.4146
     avg_copies: 2.24
   indomitable-creativity:
     weight: 0.3
@@ -77,7 +77,7 @@ archetypes:
     avg_copies: 3.0
   goryo1:
     weight: 1.0
-    avg_copies: 3.94
+    avg_copies: 3.95
   goryo5:
     weight: 1.0
     avg_copies: 4.0
@@ -146,7 +146,7 @@ archetypes:
     avg_copies: 4.0
   unknown-47:
     weight: 1.0
-    avg_copies: 3.89
+    avg_copies: 3.9
   unknown-51:
     weight: 1.0
     avg_copies: 4.0
@@ -163,7 +163,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-68:
-    weight: 0.95
+    weight: 0.9524
     avg_copies: 1.9
   unknown-69:
     weight: 1.0
@@ -212,7 +212,7 @@ archetypes:
     avg_copies: 4.0
   unknown-120:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 3.0
   unknown-123:
     weight: 1.0
     avg_copies: 4.0
@@ -225,4 +225,7 @@ archetypes:
   unknown-131:
     weight: 1.0
     avg_copies: 1.0
+  unknown-132:
+    weight: 1.0
+    avg_copies: 4.0
 ---

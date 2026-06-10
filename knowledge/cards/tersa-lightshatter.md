@@ -10,6 +10,6 @@ type: Legendary Creature — Orc Wizard
 meta_presence: 0.0003
 archetypes:
   boros-energy:
-    weight: 0.0021
+    weight: 0.002
     avg_copies: 1.0
 ---

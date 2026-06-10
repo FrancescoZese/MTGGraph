@@ -10,7 +10,7 @@ type: Legendary Creature — Elemental
 meta_presence: 0.0006
 archetypes:
   amulet-titan:
-    weight: 0.0094
+    weight: 0.0093
     avg_copies: 1.0
   unknown-93:
     weight: 0.5

@@ -12,10 +12,10 @@ archetypes:
     weight: 0.0123
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.0072
+    weight: 0.0071
     avg_copies: 2.0
   goryo:
-    weight: 0.0312
+    weight: 0.0308
     avg_copies: 1.0
   mill:
     weight: 0.2632
@@ -24,10 +24,10 @@ archetypes:
     weight: 0.1739
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0714
+    weight: 0.069
     avg_copies: 1.0
   unknown-54:
     weight: 0.5

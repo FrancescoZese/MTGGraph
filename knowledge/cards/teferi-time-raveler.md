@@ -11,7 +11,7 @@ type: Legendary Planeswalker — Teferi
 meta_presence: 0.1326
 archetypes:
   boros-energy:
-    weight: 0.0021
+    weight: 0.002
     avg_copies: 2.0
   dimir-control:
     weight: 0.0494
@@ -20,7 +20,7 @@ archetypes:
     weight: 0.4574
     avg_copies: 1.2
   goryo:
-    weight: 0.7656
+    weight: 0.7615
     avg_copies: 1.22
   azorius-control:
     weight: 1.0
@@ -44,8 +44,8 @@ archetypes:
     weight: 0.5
     avg_copies: 2.67
   esper-blink:
-    weight: 0.9423
-    avg_copies: 1.69
+    weight: 0.9444
+    avg_copies: 1.7
   indomitable-creativity:
     weight: 0.7
     avg_copies: 2.25
@@ -89,7 +89,7 @@ archetypes:
     weight: 0.9375
     avg_copies: 2.22
   unknown-67:
-    weight: 0.1053
+    weight: 0.122
     avg_copies: 2.0
   unknown-70:
     weight: 0.3333

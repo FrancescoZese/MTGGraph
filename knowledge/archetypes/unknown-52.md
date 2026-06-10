@@ -3,28 +3,13 @@ colors:
 - B
 - G
 name: 'Unknown #52'
-meta_share: 0.0018
+meta_share: 0.0017
 list_count: 6
 top_cards:
-- name: Phoenix Fleet Airship
-  weight: 1.0
-  avg_copies: 4.0
-- name: Warren Soultrader
-  weight: 1.0
-  avg_copies: 4.0
-- name: Gravecrawler
-  weight: 1.0
-  avg_copies: 4.0
 - name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
-  weight: 1.0
-  avg_copies: 4.0
-- name: Shambling Ghast
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marionette Apprentice
   weight: 1.0
   avg_copies: 4.0
 - name: Verdant Catacombs
@@ -33,16 +18,31 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
+- name: Shambling Ghast
+  weight: 1.0
+  avg_copies: 4.0
 - name: Phyrexian Tower
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marionette Apprentice
+  weight: 1.0
+  avg_copies: 4.0
+- name: Phoenix Fleet Airship
+  weight: 1.0
+  avg_copies: 4.0
+- name: Gravecrawler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Warren Soultrader
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 3.67
-- name: Culling Ritual
+- name: Flare of Malice
   weight: 1.0
   avg_copies: 3.0
-- name: Flare of Malice
+- name: Culling Ritual
   weight: 1.0
   avg_copies: 3.0
 - name: Vexing Bauble
@@ -60,10 +60,10 @@ top_cards:
 - name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.33
-- name: Ashiok, Dream Render
+- name: Chthonian Nightmare
   weight: 1.0
   avg_copies: 1.17
-- name: Chthonian Nightmare
+- name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 1.17
 - name: Spymaster's Vault
@@ -75,10 +75,10 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Bloodstained Mire
+- name: Sephiroth, Fabled SOLDIER
   weight: 1.0
   avg_copies: 1.0
-- name: Sephiroth, Fabled SOLDIER
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.0
 - name: Break the Ice

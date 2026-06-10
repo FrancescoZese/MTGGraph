@@ -1,38 +1,38 @@
 # Modern Metagame
 
-Generated: 2026-06-09
-Data range: 2026-04-01 to 2026-06-09
-Total lists: 3291
+Generated: 2026-06-10
+Data range: 2026-04-01 to 2026-06-10
+Total lists: 3333
 
 ## Archetypes (by meta share)
 
-1. **Boros Energy** (14.3%, 486 lists) [WR]
+1. **Boros Energy** (14.2%, 492 lists) [WR]
    Aggressive midrange deck built around the energy package. Uses Guide of Souls, Galvanic Discharge, and Phlage for incremental value while Ragavan and Ocelot Pride provide a fast clock.
    See: `archetypes/boros-energy.md`
 
-2. **Affinity** (9.2%, 314 lists) [UR]
+2. **Affinity** (9.2%, 317 lists) [UR]
    Artifact-based aggro-combo deck leveraging Mox Opal, Mox Amber, and cheap artifacts to flip Erayo and Tamiyo early. Emry recurs key pieces while Urza's Saga finds silver bullets.
    See: `archetypes/affinity.md`
 
-3. **Izzet Prowess** (4.9%, 167 lists) [UR]
+3. **Izzet Prowess** (5.0%, 171 lists) [UR]
    Tempo-aggro deck chaining cheap cantrips and burn to power up prowess creatures like Dragon's Rage Channeler and Slickshot Show-Off.
    See: `archetypes/izzet-prowess.md`
 
-4. **Eldrazi Tron** (4.1%, 139 lists) []
+4. **Eldrazi Tron** (4.1%, 141 lists) []
    See: `archetypes/eldrazi-tron.md`
 
-5. **Jeskai Energy** (3.8%, 129 lists) [WUR]
+5. **Goryo** (3.8%, 130 lists) [WUBG]
+   See: `archetypes/goryo.md`
+
+6. **Jeskai Energy** (3.7%, 129 lists) [WUR]
    Midrange-control deck combining the energy package (Phlage, Galvanic Discharge) with Solitude and Quantum Riddler for removal and value. Phelia and Casey Jones provide blink synergies.
    See: `archetypes/jeskai-energy.md`
 
-6. **Goryo** (3.8%, 128 lists) [WUBG]
-   See: `archetypes/goryo.md`
-
-7. **Broodscale Combo** (3.5%, 121 lists) [RG]
+7. **Broodscale Combo** (3.6%, 123 lists) [RG]
    Unclassified archetype, pending review.
    See: `archetypes/broodscale-combo.md`
 
-8. **Amulet Titan** (3.1%, 106 lists) [G]
+8. **Amulet Titan** (3.1%, 107 lists) [G]
    Combo-ramp deck using Amulet of Vigor to untap bounce lands, powering out Primeval Titan to assemble lethal with Valakut or utility lands.
    See: `archetypes/amulet-titan.md`
 
@@ -48,14 +48,14 @@ Total lists: 3291
    Five-color aggro deck using Leyline of the Guildpact to power up domain cards like Scion of Draco and Leyline Binding while deploying efficient threats.
    See: `archetypes/domain-zoo.md`
 
-12. **Eldrazi Ramp** (2.4%, 82 lists) [RG]
+12. **Eldrazi Ramp** (2.5%, 85 lists) [RG]
    See: `archetypes/eldrazi-ramp.md`
 
 13. **Dimir Control** (2.4%, 81 lists) [UB]
    Draw-go control deck built on Counterspell, Fatal Push, and Orcish Bowmasters. Uses Consult the Star Charts and Wan Shi Tong for card advantage, with Subtlety as a free tempo play.
    See: `archetypes/dimir-control.md`
 
-14. **Simic Ritual** (2.0%, 67 lists) [UG]
+14. **Simic Ritual** (1.9%, 67 lists) [UG]
    Cascade deck using Shardless Agent and Birthing Ritual to cheat Abhorrent Oculus and Subtlety into play. Ice-Fang Coatl and Coiling Oracle provide value while Flare of Denial offers free countermagic.
    See: `archetypes/simic-ritual.md`
 
@@ -63,55 +63,55 @@ Total lists: 3291
    Combo deck that uses Whir of Invention to find Goblin Charbelcher and wins with a landless deck. Thundertrap Trainer and Tameshi provide backup artifact synergies.
    See: `archetypes/mono-blue-belcher.md`
 
-16. **Living End** (1.6%, 53 lists) [UBG]
-   Cascade combo deck that cycles or mills creatures into the graveyard, then cascades into Living End to reanimate them all at once.
-   See: `archetypes/living-end.md`
-
-17. **Esper Blink** (1.5%, 52 lists) [WUB]
+16. **Esper Blink** (1.6%, 54 lists) [WUB]
    Three-color blink-midrange deck using Phelia and Ephemerate to generate value from Overlord of the Balemurk and Solitude.
    See: `archetypes/esper-blink.md`
+
+17. **Living End** (1.5%, 53 lists) [UBG]
+   Cascade combo deck that cycles or mills creatures into the graveyard, then cascades into Living End to reanimate them all at once.
+   See: `archetypes/living-end.md`
 
 18. **Yawgmoth Combo** (1.5%, 51 lists) [BG]
    See: `archetypes/yawgmoth-combo.md`
 
-19. **Neoform Combo** (1.4%, 47 lists) [WUBRG]
+19. **Neoform Combo** (1.4%, 48 lists) [WUBRG]
    Combo deck using Neoform and Eldritch Evolution to sacrifice Allosaurus Rider into a game-ending threat.
    See: `archetypes/neoform-combo.md`
 
-20. **Samwise Combo** (1.2%, 40 lists) [WUBG]
-   Creature combo deck using Samwise Gamgee, Birthing Ritual, and Cauldron Familiar with Chord of Calling to assemble value loops.
-   See: `archetypes/samwise-combo.md`
-
-21. **Azorius Control** (1.1%, 39 lists) [WU]
-   Draw-go control deck with Solitude and Prismatic Ending for removal, backed by Counterspell and Teferi for countermagic and card advantage.
-   See: `archetypes/azorius-control.md`
-
-22. **Unknown #67** (1.1%, 38 lists) [UBRG]
+20. **Unknown #67** (1.2%, 41 lists) [UBRG]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-67.md`
 
-23. **Azorius Blink** (1.1%, 37 lists) [WU]
-   Creature-based blink deck using Guide of Souls, Ocelot Pride, Solitude, and Ephemerate.
-   See: `archetypes/azorius-blink.md`
+21. **Azorius Control** (1.2%, 41 lists) [WU]
+   Draw-go control deck with Solitude and Prismatic Ending for removal, backed by Counterspell and Teferi for countermagic and card advantage.
+   See: `archetypes/azorius-control.md`
 
-24. **Necrodominance** (1.1%, 36 lists) [UB]
+22. **Samwise Combo** (1.2%, 41 lists) [WUBG]
+   Creature combo deck using Samwise Gamgee, Birthing Ritual, and Cauldron Familiar with Chord of Calling to assemble value loops.
+   See: `archetypes/samwise-combo.md`
+
+23. **Necrodominance** (1.1%, 37 lists) [UB]
    Mono-black midrange deck powered by Necrodominance for massive card advantage, with Orcish Bowmasters and Soul Spike as payoffs.
    See: `archetypes/necrodominance.md`
 
-25. **Izzet Artifacts** (0.9%, 31 lists) [UR]
-   See: `archetypes/izzet-artifacts.md`
+24. **Azorius Blink** (1.1%, 37 lists) [WU]
+   Creature-based blink deck using Guide of Souls, Ocelot Pride, Solitude, and Ephemerate.
+   See: `archetypes/azorius-blink.md`
 
-26. **Hollow One** (0.9%, 30 lists) [BR]
+25. **Hollow One** (0.9%, 31 lists) [BR]
    Aggressive graveyard deck using Burning Inquiry and Faithless Looting to discard Hollow One for free casting. Dragon's Rage Channeler and Nethergoyf provide efficient threats powered by a full graveyard.
    See: `archetypes/hollow-one.md`
 
-27. **Jeskai Control** (0.9%, 29 lists) [WUR]
-   Unclassified archetype, pending review.
-   See: `archetypes/jeskai-control.md`
+26. **Izzet Artifacts** (0.9%, 31 lists) [UR]
+   See: `archetypes/izzet-artifacts.md`
 
-28. **Unknown #47** (0.8%, 28 lists) [UB]
+27. **Unknown #47** (0.8%, 29 lists) [UB]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-47.md`
+
+28. **Jeskai Control** (0.8%, 29 lists) [WUR]
+   Unclassified archetype, pending review.
+   See: `archetypes/jeskai-control.md`
 
 29. **Reanimator** (0.8%, 27 lists) [UBR]
    See: `archetypes/reanimator.md`
@@ -131,11 +131,11 @@ Total lists: 3291
    Unclassified archetype, pending review.
    See: `archetypes/unknown-65.md`
 
-34. **Unknown #68** (0.6%, 20 lists) [WBR]
+34. **Unknown #68** (0.6%, 21 lists) [WBR]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-68.md`
 
-35. **Mill** (0.6%, 19 lists) [UB]
+35. **Mill** (0.5%, 19 lists) [UB]
    Control deck that wins by milling the opponent out with Hedron Crab, Archive Trap, and other mill effects backed by Fatal Push and countermagic.
    See: `archetypes/mill.md`
 
@@ -153,7 +153,7 @@ Total lists: 3291
 39. **Rakdos Aggro** (0.4%, 15 lists) [BR]
    See: `archetypes/rakdos-aggro.md`
 
-40. **Unknown #61** (0.4%, 13 lists) [G]
+40. **Unknown #61** (0.4%, 14 lists) [G]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-61.md`
 
@@ -200,24 +200,24 @@ Total lists: 3291
    Unclassified archetype, pending review.
    See: `archetypes/unknown-42.md`
 
-52. **Mono Green Ramp** (0.2%, 6 lists) [BG]
+52. **Unknown #76** (0.2%, 6 lists) [G]
+   Unclassified archetype, pending review.
+   See: `archetypes/unknown-76.md`
+
+53. **Mono Green Ramp** (0.2%, 6 lists) [BG]
    Unclassified archetype, pending review.
    See: `archetypes/mono-green-ramp.md`
 
-53. **Unknown #52** (0.2%, 6 lists) [BG]
+54. **Unknown #52** (0.2%, 6 lists) [BG]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-52.md`
 
-54. **Unknown #30** (0.2%, 6 lists) [UB]
+55. **Unknown #30** (0.2%, 6 lists) [UB]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-30.md`
 
-55. **Scapeshift Combo** (0.2%, 6 lists) [G]
+56. **Scapeshift Combo** (0.2%, 6 lists) [G]
    See: `archetypes/scapeshift-combo.md`
-
-56. **Unknown #76** (0.1%, 5 lists) [G]
-   Unclassified archetype, pending review.
-   See: `archetypes/unknown-76.md`
 
 57. **Unknown #23** (0.1%, 5 lists) [RG]
    Unclassified archetype, pending review.
@@ -286,218 +286,218 @@ Total lists: 3291
    Unclassified archetype, pending review.
    See: `archetypes/unknown-20.md`
 
-74. **Unknown #17** (0.1%, 3 lists) [WU]
-   Unclassified archetype, pending review.
-   See: `archetypes/unknown-17.md`
-
-75. **Unknown #11** (0.1%, 3 lists) [URG]
-   Unclassified archetype, pending review.
-   See: `archetypes/unknown-11.md`
-
-76. **Unknown #9** (0.1%, 3 lists) [WRG]
-   Unclassified archetype, pending review.
-   See: `archetypes/unknown-9.md`
-
-77. **Unknown #41** (0.1%, 3 lists) [UB]
-   Unclassified archetype, pending review.
-   See: `archetypes/unknown-41.md`
-
-78. **Unknown #70** (0.1%, 3 lists) [WUR]
-   Unclassified archetype, pending review.
-   See: `archetypes/unknown-70.md`
-
-79. **Unknown #88** (0.1%, 3 lists) [WG]
-   Unclassified archetype, pending review.
-   See: `archetypes/unknown-88.md`
-
-80. **Unknown #5** (0.1%, 3 lists) [WUB]
-   Unclassified archetype, pending review.
-   See: `archetypes/unknown-5.md`
-
-81. **Unknown #35** (0.1%, 3 lists) [UR]
-   Unclassified archetype, pending review.
-   See: `archetypes/unknown-35.md`
-
-82. **Unknown #16** (0.1%, 3 lists) [WU]
-   Unclassified archetype, pending review.
-   See: `archetypes/unknown-16.md`
-
-83. **Unknown #111** (0.1%, 3 lists) [UBR]
-   Unclassified archetype, pending review.
-   See: `archetypes/unknown-111.md`
-
-84. **Jund Saga** (0.1%, 2 lists) [BRG]
-   Jund midrange deck built around Urza s Saga and efficient threats.
-   See: `archetypes/jund-saga.md`
-
-85. **Grixis Control** (0.1%, 2 lists) [UBR]
-   See: `archetypes/grixis-control.md`
-
-86. **Unknown #127** (0.1%, 2 lists) [WUBRG]
+74. **Unknown #127** (0.1%, 3 lists) [WUBRG]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-127.md`
 
-87. **Unknown #54** (0.1%, 2 lists) [WUBRG]
+75. **Unknown #17** (0.1%, 3 lists) [WU]
+   Unclassified archetype, pending review.
+   See: `archetypes/unknown-17.md`
+
+76. **Unknown #11** (0.1%, 3 lists) [URG]
+   Unclassified archetype, pending review.
+   See: `archetypes/unknown-11.md`
+
+77. **Unknown #9** (0.1%, 3 lists) [WRG]
+   Unclassified archetype, pending review.
+   See: `archetypes/unknown-9.md`
+
+78. **Unknown #41** (0.1%, 3 lists) [UB]
+   Unclassified archetype, pending review.
+   See: `archetypes/unknown-41.md`
+
+79. **Unknown #70** (0.1%, 3 lists) [WUR]
+   Unclassified archetype, pending review.
+   See: `archetypes/unknown-70.md`
+
+80. **Unknown #88** (0.1%, 3 lists) [WG]
+   Unclassified archetype, pending review.
+   See: `archetypes/unknown-88.md`
+
+81. **Unknown #5** (0.1%, 3 lists) [WUB]
+   Unclassified archetype, pending review.
+   See: `archetypes/unknown-5.md`
+
+82. **Unknown #35** (0.1%, 3 lists) [UR]
+   Unclassified archetype, pending review.
+   See: `archetypes/unknown-35.md`
+
+83. **Unknown #16** (0.1%, 3 lists) [WU]
+   Unclassified archetype, pending review.
+   See: `archetypes/unknown-16.md`
+
+84. **Unknown #111** (0.1%, 3 lists) [UBR]
+   Unclassified archetype, pending review.
+   See: `archetypes/unknown-111.md`
+
+85. **Jund Saga** (0.1%, 2 lists) [BRG]
+   Jund midrange deck built around Urza s Saga and efficient threats.
+   See: `archetypes/jund-saga.md`
+
+86. **Grixis Control** (0.1%, 2 lists) [UBR]
+   See: `archetypes/grixis-control.md`
+
+87. **Unknown #120** (0.1%, 2 lists) [WUBRG]
+   Unclassified archetype, pending review.
+   See: `archetypes/unknown-120.md`
+
+88. **Unknown #54** (0.1%, 2 lists) [WUBRG]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-54.md`
 
-88. **Unknown #93** (0.1%, 2 lists) [WURG]
+89. **Unknown #93** (0.1%, 2 lists) [WURG]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-93.md`
 
-89. **Sultai Midrange** (0.1%, 2 lists) [WUB]
+90. **Sultai Midrange** (0.1%, 2 lists) [WUB]
    See: `archetypes/sultai-midrange.md`
 
-90. **Unknown #58** (0.1%, 2 lists) [BR]
+91. **Unknown #58** (0.1%, 2 lists) [BR]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-58.md`
 
-91. **Izzet Splinter Twin** (0.1%, 2 lists) [UR]
+92. **Izzet Splinter Twin** (0.1%, 2 lists) [UR]
    Unclassified archetype, pending review.
    See: `archetypes/izzet-splinter-twin.md`
 
-92. **Unknown #8** (0.1%, 2 lists) [BRG]
+93. **Unknown #8** (0.1%, 2 lists) [BRG]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-8.md`
 
-93. **Unknown #25** (0.1%, 2 lists) [URG]
+94. **Unknown #25** (0.1%, 2 lists) [URG]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-25.md`
 
-94. **Unknown #114** (0.1%, 2 lists) [WUBRG]
+95. **Unknown #114** (0.1%, 2 lists) [WUBRG]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-114.md`
 
-95. **Unknown #80** (0.1%, 2 lists) [WG]
+96. **Unknown #80** (0.1%, 2 lists) [WG]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-80.md`
 
-96. **Rakdos Lantern Combo** (0.1%, 2 lists) [BR]
+97. **Rakdos Lantern Combo** (0.1%, 2 lists) [BR]
    Prison-combo deck using Lantern of Insight and mill rocks to control the opponent s draws behind Ensnaring Bridge.
    See: `archetypes/rakdos-lantern-combo.md`
 
-97. **Unknown #89** (0.1%, 2 lists) [WUR]
+98. **Unknown #89** (0.1%, 2 lists) [WUR]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-89.md`
 
-98. **Elves** (0.1%, 2 lists) [WG]
+99. **Elves** (0.1%, 2 lists) [WG]
    Creature combo deck using Priest of Titania, Devoted Druid, and Chord of Calling to generate explosive mana.
    See: `archetypes/elves.md`
 
-99. **Unknown #102** (0.1%, 2 lists) [BG]
+100. **Unknown #102** (0.1%, 2 lists) [BG]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-102.md`
 
-100. **Unknown #2** (0.1%, 2 lists) [URG]
+101. **Unknown #2** (0.1%, 2 lists) [URG]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-2.md`
 
-101. **Unknown #84** (0.1%, 2 lists) [WURG]
+102. **Unknown #84** (0.1%, 2 lists) [WURG]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-84.md`
 
-102. **Unknown #122** (0.1%, 2 lists) [UR]
+103. **Unknown #122** (0.1%, 2 lists) [UR]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-122.md`
 
-103. **Unknown #116** (0.1%, 2 lists) [WUBRG]
+104. **Unknown #116** (0.1%, 2 lists) [WUBRG]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-116.md`
 
-104. **The Rock** (0.1%, 2 lists) [BG]
+105. **The Rock** (0.1%, 2 lists) [BG]
    See: `archetypes/the-rock.md`
 
-105. **Unknown #126** (0.1%, 2 lists) [WBG]
+106. **Unknown #126** (0.1%, 2 lists) [WBG]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-126.md`
 
-106. **Unknown #14** (0.1%, 2 lists) [BG]
+107. **Unknown #14** (0.1%, 2 lists) [BG]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-14.md`
 
-107. **Unknown #48** (0.1%, 2 lists) [WU]
+108. **Unknown #48** (0.1%, 2 lists) [WU]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-48.md`
 
-108. **Unknown #106** (0.1%, 2 lists) [WU]
+109. **Unknown #106** (0.1%, 2 lists) [WU]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-106.md`
 
-109. **Unknown #117** (0.1%, 2 lists) [WBR]
+110. **Unknown #117** (0.1%, 2 lists) [WBR]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-117.md`
 
-110. **Unknown #128** (0.0%, 1 lists) [UG]
+111. **Unknown #128** (0.0%, 1 lists) [UG]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-128.md`
 
-111. **Esper Control** (0.0%, 1 lists) [WUB]
+112. **Esper Control** (0.0%, 1 lists) [WUB]
    Three-color control deck combining Dimir countermagic with Solitude for removal and Consult the Star Charts for card advantage.
    See: `archetypes/esper-control.md`
 
-112. **Bant Control** (0.0%, 1 lists) [WUG]
+113. **Bant Control** (0.0%, 1 lists) [WUG]
    Three-color control deck with Quantum Riddler, Wrath of the Skies, and Counterspell.
    See: `archetypes/bant-control.md`
 
-113. **Unknown #105** (0.0%, 1 lists) [UB]
+114. **Unknown #105** (0.0%, 1 lists) [UB]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-105.md`
 
-114. **Unknown #39** (0.0%, 1 lists) [UBG]
+115. **Unknown #39** (0.0%, 1 lists) [UBG]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-39.md`
 
-115. **Unknown #31** (0.0%, 1 lists) [UBR]
+116. **Unknown #31** (0.0%, 1 lists) [UBR]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-31.md`
 
-116. **Unknown #129** (0.0%, 1 lists) [WUBRG]
+117. **Unknown #129** (0.0%, 1 lists) [WUBRG]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-129.md`
 
-117. **Unknown #28** (0.0%, 1 lists) [G]
+118. **Unknown #28** (0.0%, 1 lists) [G]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-28.md`
 
-118. **Unknown #82** (0.0%, 1 lists) [UR]
+119. **Unknown #82** (0.0%, 1 lists) [UR]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-82.md`
 
-119. **Unknown #21** (0.0%, 1 lists) [W]
+120. **Unknown #21** (0.0%, 1 lists) [W]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-21.md`
 
-120. **Unknown #50** (0.0%, 1 lists) [UB]
+121. **Unknown #50** (0.0%, 1 lists) [UB]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-50.md`
 
-121. **Unknown #22** (0.0%, 1 lists) [WUR]
+122. **Unknown #22** (0.0%, 1 lists) [WUR]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-22.md`
 
-122. **Unknown #103** (0.0%, 1 lists) [U]
+123. **Unknown #103** (0.0%, 1 lists) [U]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-103.md`
 
-123. **Unknown #130** (0.0%, 1 lists) [BG]
+124. **Unknown #130** (0.0%, 1 lists) [BG]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-130.md`
 
-124. **Unknown #46** (0.0%, 1 lists) [BG]
+125. **Unknown #46** (0.0%, 1 lists) [BG]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-46.md`
 
-125. **Unknown #32** (0.0%, 1 lists) [WR]
+126. **Unknown #32** (0.0%, 1 lists) [WR]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-32.md`
 
-126. **Unknown #38** (0.0%, 1 lists) [BR]
+127. **Unknown #38** (0.0%, 1 lists) [BR]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-38.md`
-
-127. **Unknown #120** (0.0%, 1 lists) [WUBRG]
-   Unclassified archetype, pending review.
-   See: `archetypes/unknown-120.md`
 
 128. **Unknown #53** (0.0%, 1 lists) [UR]
    Unclassified archetype, pending review.
@@ -715,142 +715,150 @@ Total lists: 3291
 182. **Selesnya Midrange** (0.0%, 1 lists) [WRG]
    See: `archetypes/selesnya-midrange.md`
 
-183. **Unknown #66** (0.0%, 1 lists) [WUR]
+183. **Unknown #133** (0.0%, 1 lists) [UB]
+   Unclassified archetype, pending review.
+   See: `archetypes/unknown-133.md`
+
+184. **Unknown #66** (0.0%, 1 lists) [WUR]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-66.md`
 
-184. **Unknown #91** (0.0%, 1 lists) [UB]
+185. **Unknown #91** (0.0%, 1 lists) [UB]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-91.md`
 
-185. **Unknown #40** (0.0%, 1 lists) [RG]
+186. **Unknown #40** (0.0%, 1 lists) [RG]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-40.md`
 
-186. **Unknown #107** (0.0%, 1 lists) [UR]
+187. **Unknown #107** (0.0%, 1 lists) [UR]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-107.md`
 
-187. **Unknown #10** (0.0%, 1 lists) [WUR]
+188. **Unknown #10** (0.0%, 1 lists) [WUR]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-10.md`
 
-188. **Unknown #7** (0.0%, 1 lists) [WUBR]
+189. **Unknown #7** (0.0%, 1 lists) [WUBR]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-7.md`
 
-189. **Unknown #43** (0.0%, 1 lists) [U]
+190. **Unknown #43** (0.0%, 1 lists) [U]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-43.md`
 
-190. **Unknown #74** (0.0%, 1 lists) [WUB]
+191. **Unknown #74** (0.0%, 1 lists) [WUB]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-74.md`
 
-191. **Unknown #33** (0.0%, 1 lists) [BR]
+192. **Unknown #33** (0.0%, 1 lists) [BR]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-33.md`
 
-192. **Unknown #110** (0.0%, 1 lists) [WBR]
+193. **Unknown #110** (0.0%, 1 lists) [WBR]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-110.md`
 
-193. **Devoted Combo** (0.0%, 1 lists) [WBG]
+194. **Devoted Combo** (0.0%, 1 lists) [WBG]
    See: `archetypes/devoted-combo.md`
 
-194. **Unknown #36** (0.0%, 1 lists) [UB]
+195. **Unknown #132** (0.0%, 1 lists) [UB]
+   Unclassified archetype, pending review.
+   See: `archetypes/unknown-132.md`
+
+196. **Unknown #36** (0.0%, 1 lists) [UB]
    Unclassified archetype, pending review.
    See: `archetypes/unknown-36.md`
 
 ## Most Played Cards (by meta presence)
 
-1. **Consign to Memory** (45.7%) [U] — in: Mono Blue Belcher, Azorius Control, Jeskai Control, Mono-Blue Tron, Bant Control, Esper Control, Izzet Wizzards, Grixis Shadow, Izzet Splinter Twin, Esper Midrange, archetype:goryo7, archetype:goryo2, archetype:goryo3, Grixis Control, Izzet Murktide, archetype:4c-omnath9, Sultai Midrange, Unknown #3, Unknown #6, Unknown #9, Unknown #10, Unknown #11, Unknown #15, Unknown #16, Unknown #17, Unknown #19, Unknown #20, Unknown #22, Unknown #25, Unknown #30, Unknown #31, Unknown #27, Unknown #35, Unknown #39, Unknown #42, Unknown #44, Unknown #51, Unknown #49, Unknown #50, Unknown #53, Unknown #54, Unknown #59, Unknown #62, Unknown #63, Unknown #66, Unknown #69, Unknown #70, Unknown #74, Unknown #75, Unknown #79, Unknown #82, Unknown #83, Unknown #87, Unknown #93, Unknown #95, Unknown #91, Unknown #89, Unknown #97, Unknown #99, Unknown #100, Unknown #105, Unknown #104, Unknown #103, Unknown #106, Unknown #108, Unknown #109, Unknown #107, Unknown #111, Unknown #113, Unknown #114, Unknown #112, Unknown #116, Unknown #120, Unknown #118, Unknown #125, Unknown #124, Unknown #127, Unknown #128, Unknown #129, Unknown #131, Dimir Control, archetype:goryo1, Jeskai Energy, Goryo, Izzet Prowess, Azorius Blink, Unknown #47, Neoform Combo, Izzet Artifacts, Domain Zoo, Affinity, Esper Blink, Unknown #85, Hammer Time, Reanimator, Simic Ritual, Kethis Combo, Eldrazi Breach, Indomitable Creativity, Mill, Unknown #5, Unknown #2, Unknown #122, Unknown #41, Unknown #88, 4c Omnath, Soultrader Combo, Dredge, Eldrazi Ramp, Necrodominance, Ruby Storm, Boros Energy
+1. **Consign to Memory** (45.8%) [U] — in: Mono Blue Belcher, Azorius Control, Jeskai Control, Mono-Blue Tron, Bant Control, Esper Control, Izzet Wizzards, Grixis Shadow, Izzet Splinter Twin, Esper Midrange, archetype:goryo7, archetype:goryo2, archetype:goryo3, Grixis Control, Izzet Murktide, archetype:4c-omnath9, Sultai Midrange, Unknown #3, Unknown #6, Unknown #9, Unknown #10, Unknown #11, Unknown #15, Unknown #16, Unknown #17, Unknown #19, Unknown #20, Unknown #22, Unknown #25, Unknown #30, Unknown #31, Unknown #27, Unknown #35, Unknown #39, Unknown #42, Unknown #44, Unknown #51, Unknown #49, Unknown #50, Unknown #53, Unknown #54, Unknown #59, Unknown #62, Unknown #63, Unknown #66, Unknown #69, Unknown #70, Unknown #74, Unknown #75, Unknown #79, Unknown #82, Unknown #83, Unknown #87, Unknown #93, Unknown #95, Unknown #91, Unknown #89, Unknown #97, Unknown #99, Unknown #100, Unknown #105, Unknown #104, Unknown #103, Unknown #106, Unknown #108, Unknown #109, Unknown #107, Unknown #111, Unknown #113, Unknown #114, Unknown #112, Unknown #116, Unknown #120, Unknown #118, Unknown #125, Unknown #124, Unknown #127, Unknown #128, Unknown #129, Unknown #131, Unknown #132, Dimir Control, archetype:goryo1, Goryo, Jeskai Energy, Izzet Prowess, Azorius Blink, Unknown #47, Neoform Combo, Izzet Artifacts, Domain Zoo, Affinity, Esper Blink, Unknown #85, Hammer Time, Reanimator, Simic Ritual, Kethis Combo, Eldrazi Breach, Indomitable Creativity, Mill, Unknown #5, Unknown #2, Unknown #122, Unknown #41, Unknown #88, 4c Omnath, Soultrader Combo, Dredge, Eldrazi Ramp, Necrodominance, Ruby Storm, Boros Energy
    See: `cards/consign-to-memory.md`
 
-2. **Mystical Dispute** (40.8%) [U] — in: Dimir Control, Azorius Control, Jeskai Control, 4c Omnath, Bant Control, Esper Control, Esper Midrange, archetype:goryo2, archetype:goryo3, Grixis Control, Izzet Murktide, archetype:4c-omnath9, Sultai Midrange, Unknown #3, Unknown #16, Unknown #19, Unknown #22, Unknown #25, Unknown #31, Unknown #27, Unknown #47, Unknown #51, Unknown #53, Unknown #56, Unknown #62, Unknown #65, Unknown #67, Unknown #72, Unknown #73, Unknown #75, Unknown #82, Unknown #83, Unknown #84, Unknown #87, Unknown #93, Unknown #94, Unknown #91, Unknown #89, Unknown #99, Unknown #100, Unknown #105, Unknown #104, Unknown #103, Unknown #106, Unknown #107, Unknown #111, Unknown #114, Unknown #112, Unknown #116, Unknown #120, Unknown #125, Unknown #127, Unknown #129, Unknown #131, Jeskai Energy, Goryo, Living End, Simic Ritual, archetype:goryo1, Domain Zoo, Mono Blue Belcher, Neoform Combo, Izzet Wizzards, Esper Blink, Unknown #79, Azorius Blink, Unknown #85, Affinity, Eldrazi Breach, Reanimator, Mono-Blue Tron, Unknown #9, Unknown #20, Hammer Time, Indomitable Creativity, Grixis Shadow, Izzet Splinter Twin, Unknown #30, Unknown #5, Unknown #42, Izzet Prowess, Mill, Izzet Artifacts, Necrodominance
+2. **Mystical Dispute** (40.7%) [U] — in: Dimir Control, Azorius Control, Jeskai Control, 4c Omnath, Bant Control, Esper Control, Esper Midrange, archetype:goryo2, archetype:goryo3, Grixis Control, Izzet Murktide, archetype:4c-omnath9, Sultai Midrange, Unknown #3, Unknown #16, Unknown #19, Unknown #22, Unknown #25, Unknown #31, Unknown #27, Unknown #47, Unknown #51, Unknown #53, Unknown #56, Unknown #62, Unknown #65, Unknown #67, Unknown #72, Unknown #73, Unknown #75, Unknown #82, Unknown #83, Unknown #84, Unknown #87, Unknown #93, Unknown #94, Unknown #91, Unknown #89, Unknown #99, Unknown #100, Unknown #105, Unknown #104, Unknown #103, Unknown #106, Unknown #107, Unknown #111, Unknown #114, Unknown #112, Unknown #116, Unknown #120, Unknown #125, Unknown #127, Unknown #129, Unknown #131, Jeskai Energy, Goryo, Living End, Simic Ritual, Domain Zoo, archetype:goryo1, Mono Blue Belcher, Neoform Combo, Izzet Wizzards, Unknown #79, Esper Blink, Azorius Blink, Unknown #85, Affinity, Eldrazi Breach, Reanimator, Mono-Blue Tron, Unknown #9, Unknown #20, Hammer Time, Indomitable Creativity, Grixis Shadow, Izzet Splinter Twin, Unknown #30, Unknown #5, Unknown #42, Izzet Prowess, Mill, Izzet Artifacts, Necrodominance
    See: `cards/mystical-dispute.md`
 
-3. **Mountain** (37.9%) [] — in: Ruby Storm, Burn, Indomitable Creativity, Jund Saga, Rakdos Lantern Combo, Eldrazi Breach, Rakdos Aggro, Izzet Splinter Twin, Naya Midrange, archetype:goryo0, Selesnya Midrange, archetype:goryo4, Izzet Murktide, archetype:4c-omnath9, archetype:soultrader-combo0, Unknown #2, Unknown #4, Unknown #1, Unknown #11, Unknown #8, Unknown #13, Unknown #15, Unknown #22, Unknown #25, Unknown #23, Unknown #32, Unknown #26, Unknown #27, Unknown #29, Unknown #34, Unknown #33, Unknown #35, Unknown #38, Unknown #40, Unknown #53, Unknown #58, Unknown #64, Unknown #66, Unknown #71, Unknown #72, Unknown #81, Unknown #86, Unknown #92, Unknown #96, Unknown #98, Unknown #100, Unknown #101, Unknown #104, Unknown #110, Unknown #116, Unknown #117, Unknown #118, Unknown #121, Unknown #122, Unknown #123, Unknown #124, Unknown #127, Unknown #129, Izzet Prowess, Boros Ponza, Domain Zoo, Unknown #65, Dredge, Hollow One, Unknown #68, Mono Red Belcher, Boros Energy, Jeskai Energy, Izzet Wizzards, Unknown #85, Unknown #70, Scapeshift Combo, Grixis Control, Izzet Artifacts, Mardu Blink, Jeskai Control, Mono Blue Belcher, Reanimator, Cosmogoyf Fling, Unknown #67, archetype:goryo1, Affinity
+3. **Mountain** (37.8%) [] — in: Ruby Storm, Burn, Indomitable Creativity, Jund Saga, Rakdos Lantern Combo, Eldrazi Breach, Rakdos Aggro, Izzet Splinter Twin, Naya Midrange, archetype:goryo0, Selesnya Midrange, archetype:goryo4, Izzet Murktide, archetype:4c-omnath9, archetype:soultrader-combo0, Unknown #2, Unknown #4, Unknown #1, Unknown #11, Unknown #8, Unknown #13, Unknown #15, Unknown #22, Unknown #25, Unknown #23, Unknown #32, Unknown #26, Unknown #27, Unknown #29, Unknown #34, Unknown #33, Unknown #35, Unknown #38, Unknown #40, Unknown #53, Unknown #58, Unknown #64, Unknown #66, Unknown #71, Unknown #72, Unknown #81, Unknown #86, Unknown #92, Unknown #96, Unknown #98, Unknown #100, Unknown #101, Unknown #104, Unknown #110, Unknown #116, Unknown #117, Unknown #118, Unknown #121, Unknown #122, Unknown #123, Unknown #124, Unknown #127, Unknown #129, Izzet Prowess, Boros Ponza, Domain Zoo, Unknown #65, Dredge, Hollow One, Unknown #68, Mono Red Belcher, Boros Energy, Jeskai Energy, Izzet Wizzards, Unknown #85, Unknown #70, Scapeshift Combo, Grixis Control, Izzet Artifacts, Mardu Blink, Jeskai Control, Mono Blue Belcher, Reanimator, Cosmogoyf Fling, Unknown #67, archetype:goryo1, Affinity
    See: `cards/mountain.md`
 
-4. **Vexing Bauble** (37.6%) [] — in: Hammer Time, Kethis Combo, Elves, Jund Saga, Rakdos Lantern Combo, Grixis Shadow, Bant Ritual, Scapeshift Combo, The Rock, Unknown #4, Unknown #1, Unknown #10, Unknown #11, Unknown #21, Unknown #23, Unknown #28, Unknown #29, Unknown #34, Unknown #33, Unknown #37, Unknown #43, Unknown #50, Unknown #52, Unknown #56, Unknown #58, Unknown #64, Unknown #68, Unknown #70, Unknown #81, Unknown #90, Unknown #97, Unknown #98, Unknown #100, Unknown #105, Unknown #102, Unknown #115, Unknown #112, Unknown #120, Unknown #117, Unknown #119, Unknown #121, Unknown #123, Unknown #130, Broodscale Combo, Yawgmoth Combo, Boros Ponza, Unknown #96, Eldrazi Ramp, Unknown #76, Hardened Scales, Eldrazi Breach, Amulet Titan, Affinity, Hollow One, archetype:goryo1, archetype:goryo4, Dredge, Eldrazi Tron, Boros Energy, Samwise Combo, Unknown #54, Unknown #122, Izzet Artifacts, Orzhov Blink, Rakdos Aggro, Mono Green Stompy, Unknown #86, Unknown #26, Mono Red Belcher, Reanimator, Soultrader Combo, Unknown #79, Mono Green Ramp, Azorius Blink, Ruby Storm, Unknown #45, Izzet Wizzards, Unknown #47, Mill, Azorius Control, Burn, Mono-Blue Tron, Izzet Prowess, Domain Zoo, Esper Blink, Necrodominance, Simic Ritual, Goryo
+4. **Vexing Bauble** (37.7%) [] — in: Hammer Time, Kethis Combo, Elves, Jund Saga, Rakdos Lantern Combo, Grixis Shadow, Bant Ritual, Scapeshift Combo, The Rock, Unknown #4, Unknown #1, Unknown #10, Unknown #11, Unknown #21, Unknown #23, Unknown #28, Unknown #29, Unknown #34, Unknown #33, Unknown #37, Unknown #43, Unknown #50, Unknown #52, Unknown #56, Unknown #58, Unknown #64, Unknown #68, Unknown #70, Unknown #81, Unknown #90, Unknown #97, Unknown #98, Unknown #100, Unknown #105, Unknown #102, Unknown #115, Unknown #112, Unknown #120, Unknown #117, Unknown #119, Unknown #121, Unknown #123, Unknown #130, Unknown #132, Broodscale Combo, Yawgmoth Combo, Boros Ponza, Unknown #96, Eldrazi Ramp, Hardened Scales, Eldrazi Breach, Hollow One, Amulet Titan, Affinity, archetype:goryo1, Unknown #76, archetype:goryo4, Dredge, Eldrazi Tron, Boros Energy, Unknown #54, Unknown #122, Samwise Combo, Izzet Artifacts, Orzhov Blink, Rakdos Aggro, Mono Green Stompy, Unknown #86, Unknown #26, Mono Red Belcher, Reanimator, Soultrader Combo, Unknown #79, Mono Green Ramp, Azorius Blink, Ruby Storm, Unknown #45, Azorius Control, Izzet Wizzards, Mill, Unknown #47, Burn, Mono-Blue Tron, Izzet Prowess, Domain Zoo, Esper Blink, Necrodominance, Simic Ritual, Goryo
    See: `cards/vexing-bauble.md`
 
 5. **Arid Mesa** (36.3%) [] — in: Boros Energy, Mardu Blink, Bant Ritual, Naya Midrange, Selesnya Midrange, archetype:4c-omnath9, archetype:soultrader-combo0, Unknown #7, Unknown #9, Unknown #8, Unknown #13, Unknown #16, Unknown #19, Unknown #29, Unknown #54, Unknown #62, Unknown #66, Unknown #68, Unknown #70, Unknown #71, Unknown #72, Unknown #75, Unknown #84, Unknown #77, Unknown #88, Unknown #92, Unknown #93, Unknown #96, Unknown #89, Unknown #99, Unknown #101, Unknown #110, Unknown #116, Unknown #117, Unknown #118, Unknown #119, Unknown #122, Unknown #123, Jeskai Energy, Domain Zoo, Jeskai Control, Dredge, Azorius Control, Burn, Indomitable Creativity, Ruby Storm, Izzet Prowess, Orzhov Blink, Unknown #85, Azorius Blink, Rakdos Aggro, Unknown #86, Hammer Time, Unknown #106, Hollow One, Unknown #23, Unknown #11, Unknown #26, Scapeshift Combo, Izzet Wizzards, Boros Ponza
    See: `cards/arid-mesa.md`
 
-6. **Plains** (35.7%) [] — in: Azorius Control, Jeskai Control, Domain Zoo, Hammer Time, 4c Omnath, Orzhov Blink, Bant Control, Azorius Blink, Esper Control, Bant Ritual, Esper Midrange, Naya Midrange, Selesnya Midrange, archetype:goryo6, archetype:goryo2, archetype:goryo3, archetype:4c-omnath9, Devoted Combo, Unknown #5, Unknown #7, Unknown #9, Unknown #12, Unknown #13, Unknown #16, Unknown #17, Unknown #22, Unknown #21, Unknown #26, Unknown #48, Unknown #54, Unknown #56, Unknown #62, Unknown #66, Unknown #68, Unknown #70, Unknown #74, Unknown #75, Unknown #80, Unknown #83, Unknown #84, Unknown #77, Unknown #88, Unknown #93, Unknown #89, Unknown #99, Unknown #106, Unknown #108, Unknown #109, Unknown #110, Unknown #113, Unknown #116, Unknown #117, Unknown #118, Unknown #119, Unknown #131, Goryo, Boros Ponza, Boros Energy, Esper Blink, Jeskai Energy, Indomitable Creativity, Mardu Blink, Unknown #85, Mill, Reanimator, Eldrazi Tron
+6. **Plains** (35.6%) [] — in: Azorius Control, Jeskai Control, Domain Zoo, Hammer Time, 4c Omnath, Orzhov Blink, Bant Control, Azorius Blink, Esper Control, Bant Ritual, Esper Midrange, Naya Midrange, Selesnya Midrange, archetype:goryo6, archetype:goryo2, archetype:goryo3, archetype:4c-omnath9, Devoted Combo, Unknown #5, Unknown #7, Unknown #9, Unknown #12, Unknown #13, Unknown #16, Unknown #17, Unknown #22, Unknown #21, Unknown #26, Unknown #48, Unknown #54, Unknown #56, Unknown #62, Unknown #66, Unknown #68, Unknown #70, Unknown #74, Unknown #75, Unknown #80, Unknown #83, Unknown #84, Unknown #77, Unknown #88, Unknown #93, Unknown #89, Unknown #99, Unknown #106, Unknown #108, Unknown #109, Unknown #110, Unknown #113, Unknown #116, Unknown #117, Unknown #118, Unknown #119, Unknown #131, Goryo, Boros Ponza, Boros Energy, Esper Blink, Jeskai Energy, Indomitable Creativity, Mardu Blink, Unknown #85, Mill, Reanimator, Eldrazi Tron
    See: `cards/plains.md`
 
-7. **Flooded Strand** (35.6%) [] — in: Jeskai Energy, Azorius Control, Jeskai Control, Kethis Combo, 4c Omnath, Esper Blink, Bant Control, Esper Control, Bant Ritual, Esper Midrange, archetype:goryo2, archetype:goryo3, Izzet Murktide, archetype:4c-omnath9, Unknown #3, Unknown #5, Unknown #9, Unknown #10, Unknown #16, Unknown #17, Unknown #22, Unknown #30, Unknown #31, Unknown #35, Unknown #51, Unknown #53, Unknown #56, Unknown #62, Unknown #60, Unknown #66, Unknown #70, Unknown #74, Unknown #75, Unknown #80, Unknown #82, Unknown #83, Unknown #84, Unknown #87, Unknown #93, Unknown #89, Unknown #99, Unknown #105, Unknown #104, Unknown #106, Unknown #108, Unknown #109, Unknown #111, Unknown #113, Unknown #114, Unknown #112, Unknown #116, Unknown #118, Unknown #131, Goryo, Domain Zoo, Unknown #47, Azorius Blink, Izzet Wizzards, Unknown #85, Dimir Control, Mill, Boros Energy, Unknown #79, Hammer Time, Neoform Combo, Unknown #68, Izzet Splinter Twin, Grixis Control, Unknown #54, Orzhov Blink, Izzet Artifacts, Living End, Simic Ritual, Reanimator, Affinity, Izzet Prowess
+7. **Flooded Strand** (35.6%) [] — in: Jeskai Energy, Azorius Control, Jeskai Control, Kethis Combo, 4c Omnath, Esper Blink, Bant Control, Esper Control, Bant Ritual, Esper Midrange, archetype:goryo2, archetype:goryo3, Izzet Murktide, archetype:4c-omnath9, Unknown #3, Unknown #5, Unknown #9, Unknown #10, Unknown #16, Unknown #17, Unknown #22, Unknown #30, Unknown #31, Unknown #35, Unknown #51, Unknown #53, Unknown #56, Unknown #62, Unknown #60, Unknown #66, Unknown #70, Unknown #74, Unknown #75, Unknown #80, Unknown #82, Unknown #83, Unknown #84, Unknown #87, Unknown #93, Unknown #89, Unknown #99, Unknown #105, Unknown #104, Unknown #106, Unknown #108, Unknown #109, Unknown #111, Unknown #113, Unknown #114, Unknown #112, Unknown #116, Unknown #118, Unknown #131, Unknown #133, Goryo, Domain Zoo, Unknown #47, Azorius Blink, Izzet Wizzards, Unknown #85, Dimir Control, Mill, Boros Energy, Unknown #79, Hammer Time, Neoform Combo, Unknown #68, Izzet Splinter Twin, Grixis Control, Unknown #54, Orzhov Blink, Izzet Artifacts, Living End, Simic Ritual, Reanimator, Affinity, Izzet Prowess
    See: `cards/flooded-strand.md`
 
-8. **Wrath of the Skies** (35.6%) [W] — in: Mardu Blink, Esper Blink, Orzhov Blink, Bant Control, Bant Ritual, Naya Midrange, Selesnya Midrange, archetype:goryo2, archetype:goryo3, archetype:4c-omnath9, Unknown #3, Unknown #5, Unknown #9, Unknown #12, Unknown #13, Unknown #22, Unknown #26, Unknown #48, Unknown #62, Unknown #68, Unknown #70, Unknown #74, Unknown #75, Unknown #80, Unknown #83, Unknown #77, Unknown #87, Unknown #93, Unknown #89, Unknown #99, Unknown #106, Unknown #108, Unknown #109, Unknown #113, Unknown #114, Unknown #116, Unknown #118, Unknown #127, Unknown #129, Unknown #131, Jeskai Energy, Domain Zoo, Boros Ponza, Boros Energy, Goryo, Jeskai Control, Azorius Control, Azorius Blink, Unknown #85, Unknown #79, Unknown #88, archetype:goryo6, Unknown #16, Unknown #17, 4c Omnath, Reanimator, Eldrazi Tron
+8. **Wrath of the Skies** (35.5%) [W] — in: Mardu Blink, Esper Blink, Orzhov Blink, Bant Control, Bant Ritual, Naya Midrange, Selesnya Midrange, archetype:goryo2, archetype:goryo3, archetype:4c-omnath9, Unknown #3, Unknown #5, Unknown #9, Unknown #12, Unknown #13, Unknown #22, Unknown #26, Unknown #48, Unknown #62, Unknown #68, Unknown #70, Unknown #74, Unknown #75, Unknown #80, Unknown #83, Unknown #77, Unknown #87, Unknown #93, Unknown #89, Unknown #99, Unknown #106, Unknown #108, Unknown #109, Unknown #113, Unknown #114, Unknown #116, Unknown #118, Unknown #127, Unknown #129, Unknown #131, Jeskai Energy, Domain Zoo, Boros Ponza, Boros Energy, Jeskai Control, Goryo, Azorius Control, Azorius Blink, Unknown #85, Unknown #79, Unknown #88, archetype:goryo6, Unknown #16, Unknown #17, 4c Omnath, Reanimator, Eldrazi Tron
    See: `cards/wrath-of-the-skies.md`
 
-9. **Island** (35.2%) [] — in: Azorius Control, Living End, Mono-Blue Tron, Kethis Combo, 4c Omnath, Bant Control, Esper Control, Izzet Wizzards, Izzet Splinter Twin, Esper Midrange, archetype:goryo1, archetype:goryo7, archetype:goryo2, archetype:goryo3, Grixis Control, Izzet Murktide, Sultai Midrange, Unknown #5, Unknown #6, Unknown #10, Unknown #11, Unknown #15, Unknown #16, Unknown #17, Unknown #20, Unknown #22, Unknown #25, Unknown #30, Unknown #31, Unknown #27, Unknown #35, Unknown #39, Unknown #36, Unknown #41, Unknown #42, Unknown #44, Unknown #43, Unknown #47, Unknown #51, Unknown #48, Unknown #50, Unknown #53, Unknown #56, Unknown #59, Unknown #63, Unknown #65, Unknown #67, Unknown #73, Unknown #74, Unknown #75, Unknown #79, Unknown #82, Unknown #83, Unknown #84, Unknown #87, Unknown #94, Unknown #91, Unknown #89, Unknown #99, Unknown #100, Unknown #105, Unknown #104, Unknown #103, Unknown #106, Unknown #108, Unknown #109, Unknown #107, Unknown #113, Unknown #112, Unknown #120, Unknown #118, Unknown #125, Unknown #124, Unknown #131, Dimir Control, Goryo, Affinity, Izzet Artifacts, Jeskai Control, Reanimator, Mill, Jeskai Energy, Eldrazi Breach, Unknown #62, Unknown #70, archetype:4c-omnath9, Mono Blue Belcher, Unknown #2, Unknown #122, Esper Blink, Unknown #111, Unknown #85, Neoform Combo, Azorius Blink, Izzet Prowess, Ruby Storm, Simic Ritual
+9. **Island** (35.2%) [] — in: Azorius Control, Living End, Mono-Blue Tron, Kethis Combo, 4c Omnath, Bant Control, Esper Control, Izzet Wizzards, Izzet Splinter Twin, Esper Midrange, archetype:goryo1, archetype:goryo7, archetype:goryo2, archetype:goryo3, Grixis Control, Izzet Murktide, Sultai Midrange, Unknown #5, Unknown #6, Unknown #10, Unknown #11, Unknown #15, Unknown #16, Unknown #17, Unknown #20, Unknown #22, Unknown #25, Unknown #30, Unknown #31, Unknown #27, Unknown #35, Unknown #39, Unknown #36, Unknown #41, Unknown #42, Unknown #44, Unknown #43, Unknown #47, Unknown #51, Unknown #48, Unknown #50, Unknown #53, Unknown #56, Unknown #59, Unknown #63, Unknown #65, Unknown #67, Unknown #73, Unknown #74, Unknown #75, Unknown #79, Unknown #82, Unknown #83, Unknown #84, Unknown #87, Unknown #94, Unknown #91, Unknown #89, Unknown #99, Unknown #100, Unknown #105, Unknown #104, Unknown #103, Unknown #106, Unknown #108, Unknown #109, Unknown #107, Unknown #113, Unknown #112, Unknown #120, Unknown #118, Unknown #125, Unknown #124, Unknown #131, Unknown #133, Dimir Control, Goryo, Affinity, Izzet Artifacts, Jeskai Control, Reanimator, Mill, Jeskai Energy, Eldrazi Breach, Unknown #62, Unknown #70, archetype:4c-omnath9, Mono Blue Belcher, Unknown #2, Unknown #122, Esper Blink, Unknown #111, Unknown #85, Neoform Combo, Azorius Blink, Izzet Prowess, Ruby Storm, Simic Ritual
    See: `cards/island.md`
 
 10. **Steam Vents** (32.1%) [] — in: Jeskai Energy, Jeskai Control, Domain Zoo, Izzet Prowess, 4c Omnath, Izzet Wizzards, Grixis Shadow, Izzet Splinter Twin, archetype:goryo1, Grixis Control, Izzet Murktide, archetype:4c-omnath9, Unknown #2, Unknown #6, Unknown #10, Unknown #11, Unknown #15, Unknown #16, Unknown #19, Unknown #22, Unknown #25, Unknown #31, Unknown #27, Unknown #35, Unknown #44, Unknown #53, Unknown #54, Unknown #59, Unknown #65, Unknown #66, Unknown #67, Unknown #70, Unknown #71, Unknown #79, Unknown #82, Unknown #85, Unknown #84, Unknown #93, Unknown #94, Unknown #95, Unknown #99, Unknown #100, Unknown #104, Unknown #109, Unknown #107, Unknown #114, Unknown #112, Unknown #116, Unknown #120, Unknown #118, Unknown #122, Unknown #124, Unknown #127, Unknown #129, Affinity, Dredge, Izzet Artifacts, Indomitable Creativity, Reanimator, Eldrazi Breach, Unknown #111, Azorius Control, Dimir Control, Ruby Storm, Simic Ritual, Mill, Living End, Boros Energy
    See: `cards/steam-vents.md`
 
-11. **Surgical Extraction** (30.4%) [] — in: Mill, Naya Midrange, Izzet Murktide, Unknown #3, Unknown #4, Unknown #7, Unknown #19, Unknown #18, Unknown #22, Unknown #24, Unknown #31, Unknown #27, Unknown #29, Unknown #36, Unknown #46, Unknown #51, Unknown #50, Unknown #53, Unknown #58, Unknown #64, Unknown #66, Unknown #69, Unknown #83, Unknown #88, Unknown #95, Unknown #98, Unknown #99, Unknown #100, Unknown #101, Unknown #102, Unknown #109, Unknown #107, Unknown #116, Unknown #120, Unknown #131, Mardu Blink, Unknown #23, Boros Energy, Azorius Control, Hollow One, Jeskai Energy, Izzet Prowess, archetype:goryo1, Unknown #34, Indomitable Creativity, Necrodominance, Jeskai Control, Dredge, Izzet Splinter Twin, archetype:goryo5, Grixis Control, Sultai Midrange, Unknown #2, Unknown #54, Unknown #106, Goryo, Rakdos Aggro, Orzhov Blink, Scapeshift Combo, Unknown #30, Mono-Blue Tron, Unknown #68, Unknown #47, Domain Zoo, Reanimator, Izzet Wizzards, Unknown #85, Esper Blink, Unknown #79, Boros Ponza, Unknown #62, Burn, Samwise Combo, Unknown #96, Dimir Control, Azorius Blink, Eldrazi Ramp, Yawgmoth Combo, Mono Blue Belcher, Ruby Storm
+11. **Surgical Extraction** (30.3%) [] — in: Mill, Naya Midrange, Izzet Murktide, Unknown #3, Unknown #4, Unknown #7, Unknown #19, Unknown #18, Unknown #22, Unknown #24, Unknown #31, Unknown #27, Unknown #29, Unknown #36, Unknown #46, Unknown #51, Unknown #50, Unknown #53, Unknown #58, Unknown #64, Unknown #66, Unknown #69, Unknown #83, Unknown #88, Unknown #95, Unknown #98, Unknown #99, Unknown #100, Unknown #101, Unknown #102, Unknown #109, Unknown #107, Unknown #116, Unknown #120, Unknown #131, Mardu Blink, Unknown #23, Boros Energy, Azorius Control, Hollow One, Jeskai Energy, archetype:goryo1, Unknown #34, Izzet Prowess, Indomitable Creativity, Necrodominance, Jeskai Control, Dredge, Izzet Splinter Twin, archetype:goryo5, Grixis Control, Sultai Midrange, Unknown #2, Unknown #54, Unknown #106, Goryo, Rakdos Aggro, Orzhov Blink, Scapeshift Combo, Unknown #30, Mono-Blue Tron, Unknown #68, Unknown #47, Domain Zoo, Reanimator, Izzet Wizzards, Unknown #85, Esper Blink, Unknown #79, Boros Ponza, Unknown #62, Burn, Samwise Combo, Unknown #96, Dimir Control, Azorius Blink, Eldrazi Ramp, Yawgmoth Combo, Mono Blue Belcher, Ruby Storm
    See: `cards/surgical-extraction.md`
 
-12. **Damping Sphere** (30.1%) [] — in: Hardened Scales, Elves, Mono Green Stompy, Bant Ritual, Esper Midrange, Naya Midrange, archetype:goryo7, Devoted Combo, Unknown #4, Unknown #12, Unknown #21, Unknown #24, Unknown #23, Unknown #28, Unknown #29, Unknown #34, Unknown #38, Unknown #44, Unknown #43, Unknown #46, Unknown #49, Unknown #54, Unknown #72, Unknown #80, Unknown #82, Unknown #90, Unknown #98, Unknown #99, Unknown #100, Unknown #103, Unknown #108, Unknown #120, Unknown #119, Unknown #126, Unknown #130, Affinity, archetype:goryo1, Mardu Blink, Hollow One, Domain Zoo, Necrodominance, archetype:goryo4, Rakdos Aggro, Reanimator, Orzhov Blink, Unknown #41, Esper Blink, Unknown #79, Living End, Jund Saga, Izzet Splinter Twin, The Rock, Unknown #106, Broodscale Combo, Jeskai Energy, Hammer Time, Scapeshift Combo, archetype:goryo5, Unknown #5, Unknown #35, Boros Energy, 4c Omnath, Grixis Shadow, Jeskai Control, Unknown #68, Burn, Dimir Control, Mono Green Ramp, Yawgmoth Combo, Simic Ritual, Goryo, Unknown #96, Unknown #85, Mill, Unknown #47, Unknown #62, Dredge, Samwise Combo, Eldrazi Ramp, Boros Ponza, Eldrazi Tron
+12. **Damping Sphere** (30.1%) [] — in: Hardened Scales, Elves, Mono Green Stompy, Bant Ritual, Esper Midrange, Naya Midrange, archetype:goryo7, Devoted Combo, Unknown #4, Unknown #12, Unknown #21, Unknown #24, Unknown #23, Unknown #28, Unknown #29, Unknown #34, Unknown #38, Unknown #44, Unknown #43, Unknown #46, Unknown #49, Unknown #54, Unknown #72, Unknown #80, Unknown #82, Unknown #90, Unknown #98, Unknown #99, Unknown #100, Unknown #103, Unknown #108, Unknown #119, Unknown #126, Unknown #130, Unknown #132, Affinity, Hollow One, Mardu Blink, archetype:goryo1, Domain Zoo, Necrodominance, archetype:goryo4, Rakdos Aggro, Reanimator, Orzhov Blink, Unknown #41, Esper Blink, Unknown #79, Living End, Jund Saga, Izzet Splinter Twin, The Rock, Unknown #106, Unknown #120, Broodscale Combo, Jeskai Energy, Hammer Time, Scapeshift Combo, archetype:goryo5, Unknown #5, Unknown #35, Boros Energy, 4c Omnath, Grixis Shadow, Jeskai Control, Burn, Unknown #68, Dimir Control, Mono Green Ramp, Yawgmoth Combo, Goryo, Simic Ritual, Unknown #96, Unknown #85, Mill, Unknown #47, Unknown #62, Dredge, Samwise Combo, Eldrazi Ramp, Boros Ponza, Eldrazi Tron
    See: `cards/damping-sphere.md`
 
-13. **Sacred Foundry** (29.1%) [] — in: Boros Energy, Jeskai Energy, Mardu Blink, 4c Omnath, Naya Midrange, Selesnya Midrange, archetype:soultrader-combo0, Unknown #7, Unknown #9, Unknown #10, Unknown #13, Unknown #16, Unknown #22, Unknown #54, Unknown #66, Unknown #68, Unknown #70, Unknown #72, Unknown #86, Unknown #84, Unknown #93, Unknown #96, Unknown #99, Unknown #100, Unknown #110, Unknown #114, Unknown #112, Unknown #116, Unknown #117, Unknown #118, Unknown #119, Unknown #127, Unknown #129, Boros Ponza, Ruby Storm, Unknown #85, archetype:4c-omnath9, Unknown #79, Burn, Indomitable Creativity, Jeskai Control, Unknown #26, Orzhov Blink, Unknown #23, Scapeshift Combo, Unknown #62, Azorius Control, Domain Zoo, Azorius Blink, Izzet Prowess, Affinity
+13. **Sacred Foundry** (28.9%) [] — in: Boros Energy, Jeskai Energy, Mardu Blink, 4c Omnath, Naya Midrange, Selesnya Midrange, archetype:soultrader-combo0, Unknown #7, Unknown #9, Unknown #10, Unknown #13, Unknown #16, Unknown #22, Unknown #54, Unknown #66, Unknown #68, Unknown #70, Unknown #72, Unknown #86, Unknown #84, Unknown #93, Unknown #96, Unknown #99, Unknown #100, Unknown #110, Unknown #114, Unknown #112, Unknown #116, Unknown #117, Unknown #118, Unknown #119, Unknown #127, Unknown #129, Boros Ponza, Ruby Storm, Unknown #85, archetype:4c-omnath9, Unknown #79, Burn, Indomitable Creativity, Jeskai Control, Unknown #26, Orzhov Blink, Unknown #23, Scapeshift Combo, Unknown #62, Azorius Control, Domain Zoo, Azorius Blink, Izzet Prowess, Affinity
    See: `cards/sacred-foundry.md`
 
-14. **Marsh Flats** (26.3%) [] — in: Mardu Blink, Esper Blink, Orzhov Blink, Bant Ritual, Esper Midrange, archetype:goryo2, archetype:soultrader-combo0, Unknown #5, Unknown #7, Unknown #14, Unknown #18, Unknown #20, Unknown #24, Unknown #46, Unknown #51, Unknown #52, Unknown #56, Unknown #57, Unknown #68, Unknown #69, Unknown #73, Unknown #74, Unknown #75, Unknown #80, Unknown #77, Unknown #87, Unknown #105, Unknown #108, Unknown #110, Unknown #113, Unknown #115, Unknown #125, Unknown #127, Unknown #131, Goryo, Boros Energy, Unknown #47, Azorius Blink, archetype:goryo5, Unknown #9, Hammer Time, Soultrader Combo, The Rock, Unknown #106, Dimir Control, Azorius Control, Unknown #111, Hollow One, Necrodominance, Unknown #96, Rakdos Aggro, Jeskai Energy, Reanimator, Domain Zoo, Simic Ritual, archetype:goryo1
+14. **Marsh Flats** (26.4%) [] — in: Mardu Blink, Esper Blink, Orzhov Blink, Bant Ritual, Esper Midrange, archetype:goryo2, archetype:soultrader-combo0, Unknown #5, Unknown #7, Unknown #14, Unknown #18, Unknown #20, Unknown #24, Unknown #46, Unknown #51, Unknown #52, Unknown #56, Unknown #57, Unknown #68, Unknown #69, Unknown #73, Unknown #74, Unknown #75, Unknown #80, Unknown #77, Unknown #87, Unknown #105, Unknown #108, Unknown #110, Unknown #113, Unknown #115, Unknown #125, Unknown #127, Unknown #131, Unknown #132, Goryo, Boros Energy, Azorius Blink, Unknown #47, archetype:goryo5, Unknown #9, Hammer Time, Soultrader Combo, The Rock, Unknown #106, Dimir Control, Azorius Control, Unknown #111, Hollow One, Necrodominance, Unknown #96, Rakdos Aggro, Jeskai Energy, Reanimator, Domain Zoo, Simic Ritual, archetype:goryo1
    See: `cards/marsh-flats.md`
 
-15. **Elegant Parlor** (25.1%) [] — in: Boros Energy, Jeskai Energy, Mardu Blink, Naya Midrange, Selesnya Midrange, archetype:4c-omnath9, archetype:soultrader-combo0, Unknown #9, Unknown #13, Unknown #66, Unknown #68, Unknown #70, Unknown #72, Unknown #86, Unknown #99, Unknown #110, Unknown #114, Unknown #117, Unknown #118, Unknown #119, Unknown #127, Ruby Storm, Unknown #96, Unknown #26, Indomitable Creativity, Jeskai Control, 4c Omnath, Burn, Unknown #16, Unknown #23, Boros Ponza, Unknown #62, Azorius Blink, Domain Zoo
+15. **Wear** (26.2%) [RW] — in: archetype:goryo0, archetype:soultrader-combo0, Unknown #7, Unknown #32, Unknown #44, Unknown #68, Unknown #72, Unknown #86, Unknown #84, Unknown #99, Unknown #100, Unknown #110, Unknown #112, Unknown #116, Unknown #117, Unknown #119, Unknown #127, Unknown #129, Domain Zoo, Mardu Blink, Boros Energy, Unknown #85, Boros Ponza, Ruby Storm, Mono Red Belcher, Unknown #96, Unknown #16, 4c Omnath, Unknown #54, Jeskai Energy, Burn, Unknown #70, Unknown #79, Unknown #26, Jeskai Control, Unknown #62, Azorius Control, Jeskai Energy, Izzet Prowess, Affinity, Boros Energy
+   See: `cards/wear-tear.md`
+
+16. **Elegant Parlor** (25.0%) [] — in: Boros Energy, Jeskai Energy, Mardu Blink, Naya Midrange, Selesnya Midrange, archetype:4c-omnath9, archetype:soultrader-combo0, Unknown #9, Unknown #13, Unknown #66, Unknown #68, Unknown #70, Unknown #72, Unknown #86, Unknown #99, Unknown #110, Unknown #114, Unknown #117, Unknown #118, Unknown #119, Unknown #127, Ruby Storm, Unknown #96, Unknown #26, Indomitable Creativity, Jeskai Control, 4c Omnath, Burn, Unknown #16, Unknown #23, Boros Ponza, Unknown #62, Azorius Blink, Domain Zoo
    See: `cards/elegant-parlor.md`
 
-16. **Scalding Tarn** (24.1%) [] — in: Dredge, Eldrazi Breach, Grixis Shadow, Izzet Splinter Twin, archetype:goryo3, Grixis Control, Izzet Murktide, archetype:4c-omnath9, Sultai Midrange, Unknown #2, Unknown #6, Unknown #7, Unknown #10, Unknown #11, Unknown #15, Unknown #19, Unknown #22, Unknown #25, Unknown #31, Unknown #27, Unknown #35, Unknown #36, Unknown #53, Unknown #59, Unknown #66, Unknown #70, Unknown #71, Unknown #82, Unknown #83, Unknown #92, Unknown #94, Unknown #95, Unknown #91, Unknown #89, Unknown #99, Unknown #100, Unknown #101, Unknown #104, Unknown #109, Unknown #107, Unknown #111, Unknown #112, Unknown #120, Unknown #118, Unknown #122, Unknown #125, Unknown #124, Unknown #129, Jeskai Energy, archetype:goryo1, Azorius Control, Indomitable Creativity, Jeskai Control, Izzet Wizzards, Ruby Storm, Izzet Prowess, Unknown #65, Unknown #79, Reanimator, Burn, Unknown #16, Unknown #41, Unknown #86, Neoform Combo, Unknown #23, Izzet Artifacts, Unknown #54, Unknown #106, Mill, Rakdos Aggro, Dimir Control, Scapeshift Combo, Unknown #67, Hollow One, Affinity, Unknown #47, Simic Ritual
+17. **Scalding Tarn** (24.0%) [] — in: Dredge, Eldrazi Breach, Grixis Shadow, Izzet Splinter Twin, archetype:goryo3, Grixis Control, Izzet Murktide, archetype:4c-omnath9, Sultai Midrange, Unknown #2, Unknown #6, Unknown #7, Unknown #10, Unknown #11, Unknown #15, Unknown #19, Unknown #22, Unknown #25, Unknown #31, Unknown #27, Unknown #35, Unknown #36, Unknown #53, Unknown #59, Unknown #66, Unknown #70, Unknown #71, Unknown #82, Unknown #83, Unknown #92, Unknown #94, Unknown #95, Unknown #91, Unknown #89, Unknown #99, Unknown #100, Unknown #101, Unknown #104, Unknown #109, Unknown #107, Unknown #111, Unknown #112, Unknown #120, Unknown #118, Unknown #122, Unknown #125, Unknown #124, Unknown #129, Jeskai Energy, Azorius Control, archetype:goryo1, Indomitable Creativity, Jeskai Control, Izzet Wizzards, Ruby Storm, Izzet Prowess, Unknown #65, Unknown #79, Reanimator, Burn, Unknown #16, Unknown #41, Unknown #86, Neoform Combo, Unknown #23, Izzet Artifacts, Unknown #54, Unknown #106, Mill, Rakdos Aggro, Dimir Control, Scapeshift Combo, Unknown #67, Hollow One, Affinity, Unknown #47, Simic Ritual
    See: `cards/scalding-tarn.md`
 
-17. **High Noon** (23.7%) [W] — in: Esper Control, Elves, Selesnya Midrange, archetype:goryo6, archetype:goryo2, archetype:soultrader-combo0, Unknown #3, Unknown #9, Unknown #12, Unknown #16, Unknown #26, Unknown #70, Unknown #77, Unknown #87, Unknown #89, Unknown #108, Unknown #113, Unknown #127, Unknown #129, Boros Ponza, Jeskai Energy, Mardu Blink, Esper Blink, Azorius Control, Orzhov Blink, Unknown #68, Unknown #109, Boros Energy, Unknown #85, Jeskai Control, Unknown #30, Unknown #80, Unknown #106, Indomitable Creativity, archetype:4c-omnath9, Unknown #17, Unknown #111, Unknown #62, Samwise Combo, Domain Zoo, Unknown #79, Azorius Blink, Dimir Control, Living End, Unknown #47, Goryo, Eldrazi Tron
+18. **High Noon** (23.8%) [W] — in: Esper Control, Elves, Selesnya Midrange, archetype:goryo6, archetype:goryo2, archetype:soultrader-combo0, Unknown #3, Unknown #9, Unknown #12, Unknown #16, Unknown #26, Unknown #70, Unknown #77, Unknown #87, Unknown #89, Unknown #108, Unknown #113, Unknown #127, Unknown #129, Boros Ponza, Jeskai Energy, Mardu Blink, Esper Blink, Azorius Control, Orzhov Blink, Unknown #68, Unknown #109, Boros Energy, Unknown #85, Jeskai Control, Unknown #30, Unknown #80, Unknown #106, Indomitable Creativity, archetype:4c-omnath9, Unknown #17, Unknown #111, Unknown #62, Samwise Combo, Domain Zoo, Unknown #79, Azorius Blink, Dimir Control, Living End, Unknown #47, Goryo, Eldrazi Tron
    See: `cards/high-noon.md`
 
-18. **Arena of Glory** (23.7%) [] — in: Jeskai Energy, Mardu Blink, Naya Midrange, Selesnya Midrange, archetype:4c-omnath9, archetype:soultrader-combo0, Unknown #7, Unknown #18, Unknown #22, Unknown #38, Unknown #64, Unknown #66, Unknown #92, Unknown #90, Unknown #100, Unknown #101, Unknown #116, Unknown #118, Unknown #123, Unknown #127, Unknown #129, Boros Energy, Domain Zoo, Unknown #79, Hollow One, Rakdos Aggro, Unknown #68, Unknown #35, Unknown #70, Unknown #85, Jeskai Control, Burn, Unknown #96, Eldrazi Ramp, Boros Ponza
-   See: `cards/arena-of-glory.md`
-
-19. **Ragavan, Nimble Pilferer** (23.6%) [R] — in: Boros Energy, Jund Saga, Naya Midrange, Selesnya Midrange, Izzet Murktide, archetype:soultrader-combo0, Unknown #4, Unknown #7, Unknown #13, Unknown #18, Unknown #32, Unknown #33, Unknown #38, Unknown #66, Unknown #68, Unknown #79, Unknown #85, Unknown #98, Unknown #100, Unknown #116, Unknown #118, Unknown #123, Unknown #127, Unknown #129, Jeskai Energy, Domain Zoo, Mardu Blink, Grixis Shadow, Unknown #70, Unknown #86, Izzet Splinter Twin, Unknown #122, Rakdos Aggro, Burn, Unknown #26, Unknown #62, archetype:goryo1, Jeskai Control, Boros Ponza, Azorius Blink, Izzet Prowess
-   See: `cards/ragavan-nimble-pilferer.md`
-
-20. **Swamp** (23.6%) [] — in: Necrodominance, Reanimator, Yawgmoth Combo, Orzhov Blink, Jund Saga, Rakdos Lantern Combo, Grixis Shadow, Cosmogoyf Fling, Esper Midrange, The Rock, archetype:goryo1, archetype:goryo5, archetype:goryo2, Soultrader Combo, Grixis Control, Sultai Midrange, Unknown #4, Unknown #5, Unknown #1, Unknown #14, Unknown #18, Unknown #20, Unknown #24, Unknown #30, Unknown #31, Unknown #27, Unknown #29, Unknown #34, Unknown #33, Unknown #38, Unknown #39, Unknown #36, Unknown #45, Unknown #46, Unknown #51, Unknown #50, Unknown #52, Unknown #55, Unknown #56, Unknown #57, Unknown #58, Unknown #63, Unknown #64, Unknown #69, Unknown #73, Unknown #74, Unknown #78, Unknown #77, Unknown #87, Unknown #91, Unknown #90, Unknown #101, Unknown #105, Unknown #102, Unknown #110, Unknown #113, Unknown #115, Unknown #120, Unknown #118, Unknown #123, Unknown #125, Unknown #127, Unknown #129, Dimir Control, Goryo, Esper Blink, Rakdos Aggro, Unknown #47, Hollow One, Mill, Eldrazi Tron, Unknown #68, Unknown #54, Living End, Unknown #111, Eldrazi Breach, Mardu Blink, Samwise Combo, Indomitable Creativity, Simic Ritual
+19. **Swamp** (23.7%) [] — in: Necrodominance, Reanimator, Yawgmoth Combo, Orzhov Blink, Jund Saga, Rakdos Lantern Combo, Grixis Shadow, Cosmogoyf Fling, Esper Midrange, The Rock, archetype:goryo1, archetype:goryo5, archetype:goryo2, Soultrader Combo, Grixis Control, Sultai Midrange, Unknown #4, Unknown #5, Unknown #1, Unknown #14, Unknown #18, Unknown #20, Unknown #24, Unknown #30, Unknown #31, Unknown #27, Unknown #29, Unknown #34, Unknown #33, Unknown #38, Unknown #39, Unknown #36, Unknown #45, Unknown #46, Unknown #51, Unknown #50, Unknown #52, Unknown #55, Unknown #56, Unknown #57, Unknown #58, Unknown #63, Unknown #64, Unknown #69, Unknown #73, Unknown #74, Unknown #78, Unknown #77, Unknown #87, Unknown #91, Unknown #90, Unknown #101, Unknown #105, Unknown #102, Unknown #110, Unknown #113, Unknown #115, Unknown #120, Unknown #118, Unknown #123, Unknown #125, Unknown #127, Unknown #129, Unknown #132, Dimir Control, Goryo, Esper Blink, Rakdos Aggro, Unknown #47, Hollow One, Mill, Eldrazi Tron, Unknown #68, Unknown #54, Living End, Unknown #111, Eldrazi Breach, Mardu Blink, Samwise Combo, Indomitable Creativity, Simic Ritual
    See: `cards/swamp.md`
 
-21. **Force of Negation** (23.5%) [U] — in: Living End, Mono-Blue Tron, Esper Control, Izzet Splinter Twin, Esper Midrange, archetype:goryo7, archetype:goryo3, Grixis Control, Izzet Murktide, Sultai Midrange, Unknown #2, Unknown #3, Unknown #5, Unknown #15, Unknown #17, Unknown #19, Unknown #20, Unknown #27, Unknown #39, Unknown #36, Unknown #47, Unknown #51, Unknown #53, Unknown #56, Unknown #60, Unknown #63, Unknown #65, Unknown #67, Unknown #71, Unknown #79, Unknown #83, Unknown #84, Unknown #87, Unknown #94, Unknown #91, Unknown #104, Unknown #103, Unknown #111, Unknown #113, Unknown #120, Unknown #125, Unknown #124, Unknown #129, Dimir Control, Goryo, Simic Ritual, Mono Blue Belcher, Izzet Artifacts, Unknown #42, 4c Omnath, Unknown #35, Jeskai Control, Izzet Wizzards, Unknown #6, Unknown #25, Unknown #30, Unknown #62, Affinity, Azorius Control, Jeskai Energy, Mill, Reanimator, Izzet Prowess, Esper Blink, archetype:goryo1
+20. **Arena of Glory** (23.6%) [] — in: Jeskai Energy, Mardu Blink, Naya Midrange, Selesnya Midrange, archetype:4c-omnath9, archetype:soultrader-combo0, Unknown #7, Unknown #18, Unknown #22, Unknown #38, Unknown #64, Unknown #66, Unknown #92, Unknown #90, Unknown #100, Unknown #101, Unknown #116, Unknown #118, Unknown #123, Unknown #127, Unknown #129, Boros Energy, Domain Zoo, Unknown #79, Hollow One, Rakdos Aggro, Unknown #68, Unknown #35, Unknown #70, Unknown #85, Jeskai Control, Burn, Unknown #96, Eldrazi Ramp, Boros Ponza
+   See: `cards/arena-of-glory.md`
+
+21. **Ragavan, Nimble Pilferer** (23.5%) [R] — in: Boros Energy, Jund Saga, Naya Midrange, Selesnya Midrange, Izzet Murktide, archetype:soultrader-combo0, Unknown #4, Unknown #7, Unknown #13, Unknown #18, Unknown #32, Unknown #33, Unknown #38, Unknown #66, Unknown #68, Unknown #79, Unknown #85, Unknown #98, Unknown #100, Unknown #116, Unknown #118, Unknown #123, Unknown #127, Unknown #129, Jeskai Energy, Domain Zoo, Mardu Blink, Grixis Shadow, Unknown #70, Unknown #86, Izzet Splinter Twin, Unknown #122, Rakdos Aggro, Burn, Unknown #26, Unknown #62, archetype:goryo1, Jeskai Control, Boros Ponza, Azorius Blink, Izzet Prowess
+   See: `cards/ragavan-nimble-pilferer.md`
+
+22. **Force of Negation** (23.5%) [U] — in: Living End, Mono-Blue Tron, Esper Control, Izzet Splinter Twin, Esper Midrange, archetype:goryo7, archetype:goryo3, Grixis Control, Izzet Murktide, Sultai Midrange, Unknown #2, Unknown #3, Unknown #5, Unknown #15, Unknown #17, Unknown #19, Unknown #20, Unknown #27, Unknown #39, Unknown #36, Unknown #47, Unknown #51, Unknown #53, Unknown #56, Unknown #60, Unknown #63, Unknown #65, Unknown #67, Unknown #71, Unknown #79, Unknown #83, Unknown #84, Unknown #87, Unknown #94, Unknown #91, Unknown #104, Unknown #103, Unknown #111, Unknown #113, Unknown #120, Unknown #125, Unknown #124, Unknown #129, Dimir Control, Goryo, Simic Ritual, Mono Blue Belcher, Izzet Artifacts, Unknown #42, 4c Omnath, Unknown #35, Jeskai Control, Izzet Wizzards, Unknown #6, Unknown #25, Unknown #30, Unknown #62, Affinity, Azorius Control, Jeskai Energy, Mill, Reanimator, Izzet Prowess, Esper Blink, archetype:goryo1
    See: `cards/force-of-negation.md`
 
-22. **Galvanic Discharge** (23.1%) [R] — in: Naya Midrange, Selesnya Midrange, archetype:4c-omnath9, Unknown #22, Unknown #25, Unknown #66, Unknown #68, Unknown #70, Unknown #82, Unknown #93, Unknown #99, Unknown #104, Unknown #109, Unknown #107, Unknown #116, Boros Energy, Jeskai Control, Izzet Wizzards, Jeskai Energy, Boros Ponza, Mardu Blink, Indomitable Creativity, Unknown #16, 4c Omnath, Unknown #26, Unknown #62, Azorius Control
+23. **Galvanic Discharge** (23.0%) [R] — in: Naya Midrange, Selesnya Midrange, archetype:4c-omnath9, Unknown #22, Unknown #25, Unknown #66, Unknown #68, Unknown #70, Unknown #82, Unknown #93, Unknown #99, Unknown #104, Unknown #109, Unknown #107, Unknown #116, Boros Energy, Jeskai Control, Izzet Wizzards, Jeskai Energy, Boros Ponza, Mardu Blink, Indomitable Creativity, Unknown #16, 4c Omnath, Unknown #26, Unknown #62, Azorius Control
    See: `cards/galvanic-discharge.md`
 
-23. **Sink into Stupor** (22.1%) [] — in: Mono Blue Belcher, Living End, archetype:goryo7, Grixis Control, Izzet Murktide, Unknown #2, Unknown #3, Unknown #15, Unknown #16, Unknown #22, Unknown #36, Unknown #42, Unknown #44, Unknown #43, Unknown #47, Unknown #49, Unknown #63, Unknown #65, Unknown #67, Unknown #82, Unknown #83, Unknown #87, Unknown #104, Unknown #103, Unknown #120, Unknown #125, Unknown #124, Simic Ritual, Affinity, Unknown #30, Mono-Blue Tron, Unknown #11, Unknown #20, Reanimator, Dimir Control, Unknown #62, Izzet Wizzards, Izzet Artifacts, Eldrazi Breach, Izzet Splinter Twin, Sultai Midrange, Unknown #25, Mill, archetype:goryo1, Goryo, Azorius Control, Jeskai Control, Izzet Prowess
+24. **Sink into Stupor** (22.1%) [] — in: Mono Blue Belcher, Living End, archetype:goryo7, Grixis Control, Izzet Murktide, Unknown #2, Unknown #3, Unknown #15, Unknown #16, Unknown #22, Unknown #36, Unknown #42, Unknown #44, Unknown #43, Unknown #47, Unknown #49, Unknown #63, Unknown #65, Unknown #67, Unknown #82, Unknown #83, Unknown #87, Unknown #104, Unknown #103, Unknown #125, Unknown #124, Simic Ritual, Affinity, Unknown #30, Mono-Blue Tron, Unknown #11, Unknown #20, Reanimator, Dimir Control, Unknown #62, Izzet Wizzards, Izzet Artifacts, Eldrazi Breach, Izzet Splinter Twin, Sultai Midrange, Unknown #25, Unknown #120, Mill, archetype:goryo1, Goryo, Azorius Control, Jeskai Control, Izzet Prowess
    See: `cards/sink-into-stupor.md`
 
-24. **Orim's Chant** (21.5%) [W] — in: Azorius Control, archetype:4c-omnath9, Devoted Combo, Unknown #3, Unknown #12, Unknown #16, Unknown #22, Unknown #32, Unknown #83, Unknown #86, Unknown #93, Unknown #99, Unknown #109, Unknown #112, Unknown #118, Unknown #126, archetype:goryo0, Jeskai Control, Boros Energy, Ruby Storm, Boros Ponza, Unknown #17, Unknown #70, Unknown #48, Unknown #68, Mono Red Belcher, Unknown #88, Indomitable Creativity, Unknown #26, 4c Omnath, Unknown #23, Scapeshift Combo, Unknown #96, Orzhov Blink, Burn, Mono Blue Belcher, Unknown #62, Azorius Blink, Esper Blink, Goryo, Broodscale Combo, Jeskai Energy
+25. **Orim's Chant** (21.3%) [W] — in: Azorius Control, archetype:4c-omnath9, Devoted Combo, Unknown #3, Unknown #12, Unknown #16, Unknown #22, Unknown #32, Unknown #83, Unknown #86, Unknown #93, Unknown #99, Unknown #109, Unknown #112, Unknown #118, Unknown #126, archetype:goryo0, Jeskai Control, Boros Energy, Ruby Storm, Boros Ponza, Unknown #17, Unknown #70, Unknown #48, Unknown #68, Mono Red Belcher, Unknown #88, Indomitable Creativity, Unknown #26, 4c Omnath, Unknown #23, Scapeshift Combo, Unknown #96, Orzhov Blink, Burn, Mono Blue Belcher, Unknown #62, Azorius Blink, Esper Blink, Goryo, Broodscale Combo, Jeskai Energy
    See: `cards/orim-s-chant.md`
-
-25. **Phlage, Titan of Fire's Fury** (21.2%) [RW] — in: Mardu Blink, Naya Midrange, Selesnya Midrange, archetype:4c-omnath9, archetype:soultrader-combo0, Unknown #7, Unknown #10, Unknown #22, Jeskai Energy, Jeskai Control, Domain Zoo, Boros Energy, Boros Ponza, Mono Red Belcher, Ruby Storm
-   See: `cards/phlage-titan-of-fire-s-fury.md`
 
 26. **Wooded Foothills** (21.1%) [] — in: Domain Zoo, Burn, Elves, Jund Saga, Mono Green Stompy, Naya Midrange, Selesnya Midrange, archetype:soultrader-combo0, Unknown #2, Unknown #4, Unknown #1, Unknown #11, Unknown #8, Unknown #19, Unknown #25, Unknown #23, Unknown #29, Unknown #33, Unknown #58, Unknown #71, Unknown #72, Unknown #79, Unknown #81, Unknown #85, Unknown #84, Unknown #93, Unknown #90, Unknown #100, Unknown #116, Unknown #117, Unknown #121, Unknown #127, Unknown #130, Unknown #128, Unknown #65, Ruby Storm, Eldrazi Ramp, Izzet Prowess, Indomitable Creativity, Unknown #96, Hollow One, Unknown #97, Dredge, Unknown #86, Neoform Combo, Scapeshift Combo, Unknown #122, Rakdos Aggro, Samwise Combo, Broodscale Combo, Yawgmoth Combo, Unknown #67, Reanimator, Simic Ritual, Amulet Titan
    See: `cards/wooded-foothills.md`
 
-27. **Obsidian Charmaw** (20.9%) [R] — in: 4c Omnath, Naya Midrange, Selesnya Midrange, archetype:4c-omnath9, Unknown #1, Unknown #7, Unknown #22, Unknown #32, Unknown #27, Unknown #29, Unknown #33, Unknown #38, Unknown #64, Unknown #66, Unknown #84, Unknown #90, Unknown #101, Unknown #114, Unknown #116, Unknown #117, Unknown #123, Unknown #127, Unknown #129, Jeskai Energy, Unknown #65, Boros Energy, Rakdos Aggro, Mardu Blink, Unknown #70, Unknown #86, Unknown #68, Jund Saga, Izzet Wizzards, Burn, Domain Zoo, Hollow One, Unknown #96, Unknown #98, Unknown #67, Jeskai Control, Reanimator, Unknown #62, Izzet Prowess
+27. **Phlage, Titan of Fire's Fury** (21.0%) [RW] — in: Mardu Blink, Naya Midrange, Selesnya Midrange, archetype:4c-omnath9, archetype:soultrader-combo0, Unknown #7, Unknown #10, Unknown #22, Jeskai Energy, Jeskai Control, Domain Zoo, Boros Energy, Boros Ponza, Mono Red Belcher, Ruby Storm
+   See: `cards/phlage-titan-of-fire-s-fury.md`
+
+28. **Obsidian Charmaw** (20.8%) [R] — in: 4c Omnath, Naya Midrange, Selesnya Midrange, archetype:4c-omnath9, Unknown #1, Unknown #7, Unknown #22, Unknown #32, Unknown #27, Unknown #29, Unknown #33, Unknown #38, Unknown #64, Unknown #66, Unknown #84, Unknown #90, Unknown #101, Unknown #114, Unknown #116, Unknown #117, Unknown #123, Unknown #127, Unknown #129, Jeskai Energy, Unknown #65, Boros Energy, Rakdos Aggro, Mardu Blink, Unknown #70, Unknown #86, Unknown #68, Jund Saga, Izzet Wizzards, Burn, Domain Zoo, Hollow One, Unknown #96, Unknown #98, Unknown #67, Jeskai Control, Reanimator, Unknown #62, Izzet Prowess
    See: `cards/obsidian-charmaw.md`
 
-28. **Thundering Falls** (20.5%) [] — in: Jeskai Energy, Jeskai Control, Izzet Wizzards, Izzet Splinter Twin, Grixis Control, Izzet Murktide, archetype:4c-omnath9, Unknown #10, Unknown #11, Unknown #15, Unknown #19, Unknown #22, Unknown #25, Unknown #31, Unknown #27, Unknown #35, Unknown #53, Unknown #54, Unknown #59, Unknown #65, Unknown #66, Unknown #67, Unknown #79, Unknown #82, Unknown #84, Unknown #93, Unknown #94, Unknown #95, Unknown #89, Unknown #99, Unknown #104, Unknown #109, Unknown #107, Unknown #112, Unknown #116, Unknown #120, Unknown #118, Unknown #122, Unknown #124, Unknown #129, Izzet Prowess, Domain Zoo, Dredge, Unknown #6, Unknown #70, Unknown #111, Azorius Control, Indomitable Creativity, Unknown #85, Izzet Artifacts, 4c Omnath, Eldrazi Breach, Sultai Midrange, Unknown #2, Unknown #106, archetype:goryo1, Unknown #16, Ruby Storm, Scapeshift Combo, Reanimator, Affinity, Simic Ritual, Dimir Control, Neoform Combo, Living End
+29. **Thundering Falls** (20.6%) [] — in: Jeskai Energy, Jeskai Control, Izzet Wizzards, Izzet Splinter Twin, Grixis Control, Izzet Murktide, archetype:4c-omnath9, Unknown #10, Unknown #11, Unknown #15, Unknown #19, Unknown #22, Unknown #25, Unknown #31, Unknown #27, Unknown #35, Unknown #53, Unknown #54, Unknown #59, Unknown #65, Unknown #66, Unknown #67, Unknown #79, Unknown #82, Unknown #84, Unknown #93, Unknown #94, Unknown #95, Unknown #89, Unknown #99, Unknown #104, Unknown #109, Unknown #107, Unknown #112, Unknown #116, Unknown #120, Unknown #118, Unknown #122, Unknown #124, Unknown #129, Izzet Prowess, Domain Zoo, Dredge, Unknown #6, Unknown #70, Unknown #111, Azorius Control, Indomitable Creativity, Unknown #85, Izzet Artifacts, 4c Omnath, Eldrazi Breach, Sultai Midrange, Unknown #2, Unknown #106, archetype:goryo1, Unknown #16, Ruby Storm, Scapeshift Combo, Reanimator, Affinity, Simic Ritual, Dimir Control, Neoform Combo, Living End
    See: `cards/thundering-falls.md`
 
-29. **Solitude** (19.9%) [W] — in: Jeskai Energy, Azorius Control, Mardu Blink, Boros Ponza, 4c Omnath, Esper Blink, Orzhov Blink, Bant Control, Azorius Blink, Esper Control, Bant Ritual, Esper Midrange, Naya Midrange, archetype:goryo2, archetype:goryo3, Unknown #3, Unknown #12, Unknown #13, Unknown #16, Unknown #26, Unknown #48, Unknown #56, Unknown #62, Unknown #60, Unknown #74, Unknown #75, Unknown #80, Unknown #83, Unknown #77, Unknown #88, Unknown #93, Unknown #89, Unknown #106, Unknown #108, Unknown #110, Unknown #114, Unknown #131, Goryo, Jeskai Control, archetype:4c-omnath9, Unknown #5, archetype:goryo6, Unknown #70, Boros Energy, Unknown #68, Reanimator, Eldrazi Tron
-   See: `cards/solitude.md`
-
-30. **Forest** (19.7%) [] — in: Amulet Titan, Hardened Scales, Living End, Yawgmoth Combo, Eldrazi Ramp, 4c Omnath, Samwise Combo, Broodscale Combo, Elves, Jund Saga, Mono Green Ramp, Mono Green Stompy, Scapeshift Combo, The Rock, Devoted Combo, Unknown #4, Unknown #9, Unknown #14, Unknown #25, Unknown #23, Unknown #28, Unknown #37, Unknown #39, Unknown #61, Unknown #59, Unknown #65, Unknown #67, Unknown #72, Unknown #76, Unknown #79, Unknown #88, Unknown #93, Unknown #94, Unknown #97, Unknown #102, Unknown #121, Unknown #130, Unknown #128, Unknown #85, archetype:goryo4, Unknown #6, Cosmogoyf Fling, Sultai Midrange, Eldrazi Tron, Neoform Combo, Goryo, Simic Ritual
+30. **Forest** (19.8%) [] — in: Amulet Titan, Hardened Scales, Living End, Yawgmoth Combo, Eldrazi Ramp, 4c Omnath, Samwise Combo, Broodscale Combo, Elves, Jund Saga, Mono Green Ramp, Mono Green Stompy, Scapeshift Combo, The Rock, Devoted Combo, Unknown #4, Unknown #9, Unknown #14, Unknown #25, Unknown #23, Unknown #28, Unknown #37, Unknown #39, Unknown #61, Unknown #59, Unknown #65, Unknown #67, Unknown #72, Unknown #76, Unknown #79, Unknown #88, Unknown #93, Unknown #94, Unknown #97, Unknown #102, Unknown #121, Unknown #130, Unknown #128, Unknown #85, archetype:goryo4, Unknown #6, Cosmogoyf Fling, Sultai Midrange, Eldrazi Tron, Neoform Combo, Goryo, Simic Ritual
    See: `cards/forest.md`
 

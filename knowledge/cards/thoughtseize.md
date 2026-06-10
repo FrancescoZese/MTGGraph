@@ -7,7 +7,7 @@ name: Thoughtseize
 scryfall_id: b281a308-ab6b-47b6-bec7-632c9aaecede
 set: 2xm
 type: Sorcery
-meta_presence: 0.1939
+meta_presence: 0.1952
 archetypes:
   ruby-storm:
     weight: 0.0097
@@ -16,13 +16,13 @@ archetypes:
     weight: 0.5432
     avg_copies: 2.94
   eldrazi-tron:
-    weight: 0.0216
+    weight: 0.0213
     avg_copies: 4.0
   goryo:
-    weight: 0.9766
-    avg_copies: 2.84
+    weight: 0.9769
+    avg_copies: 2.82
   necrodominance:
-    weight: 0.8333
+    weight: 0.8378
     avg_copies: 3.94
   reanimator:
     weight: 0.8889
@@ -31,8 +31,8 @@ archetypes:
     weight: 0.7391
     avg_copies: 2.52
   hollow-one:
-    weight: 0.7333
-    avg_copies: 2.87
+    weight: 0.7419
+    avg_copies: 2.83
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 2.49
@@ -40,14 +40,14 @@ archetypes:
     weight: 0.0149
     avg_copies: 4.0
   izzet-prowess:
-    weight: 0.024
+    weight: 0.0234
     avg_copies: 3.0
   esper-blink:
-    weight: 0.9423
+    weight: 0.9444
     avg_copies: 3.49
   samwise-combo:
-    weight: 0.75
-    avg_copies: 2.4
+    weight: 0.7561
+    avg_copies: 2.42
   indomitable-creativity:
     weight: 0.3
     avg_copies: 4.0
@@ -82,8 +82,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   goryo1:
-    weight: 0.9718
-    avg_copies: 3.76
+    weight: 0.9726
+    avg_copies: 3.77
   goryo5:
     weight: 1.0
     avg_copies: 3.67
@@ -148,8 +148,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9643
-    avg_copies: 3.81
+    weight: 0.9655
+    avg_copies: 3.79
   unknown-50:
     weight: 1.0
     avg_copies: 2.0
@@ -169,8 +169,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-68:
-    weight: 0.95
-    avg_copies: 2.45
+    weight: 0.9524
+    avg_copies: 2.48
   unknown-69:
     weight: 1.0
     avg_copies: 2.0
@@ -218,7 +218,7 @@ archetypes:
     avg_copies: 2.0
   unknown-120:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 3.5
   unknown-123:
     weight: 1.0
     avg_copies: 4.0
@@ -228,4 +228,7 @@ archetypes:
   unknown-131:
     weight: 1.0
     avg_copies: 2.0
+  unknown-132:
+    weight: 1.0
+    avg_copies: 4.0
 ---

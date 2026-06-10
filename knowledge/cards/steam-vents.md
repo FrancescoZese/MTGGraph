@@ -12,7 +12,7 @@ archetypes:
     weight: 0.1262
     avg_copies: 1.23
   boros-energy:
-    weight: 0.0021
+    weight: 0.002
     avg_copies: 1.0
   dimir-control:
     weight: 0.2716
@@ -21,7 +21,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.02
   azorius-control:
-    weight: 0.4872
+    weight: 0.4634
     avg_copies: 1.0
   living-end:
     weight: 0.0377
@@ -30,8 +30,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.24
   affinity:
-    weight: 0.9777
-    avg_copies: 1.42
+    weight: 0.9779
+    avg_copies: 1.43
   domain-zoo:
     weight: 1.0
     avg_copies: 1.67
@@ -73,7 +73,7 @@ archetypes:
     avg_copies: 3.0
   goryo1:
     weight: 1.0
-    avg_copies: 1.06
+    avg_copies: 1.05
   grixis-control:
     weight: 1.0
     avg_copies: 1.5

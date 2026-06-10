@@ -10,6 +10,6 @@ type: Sorcery
 meta_presence: 0.0023
 archetypes:
   necrodominance:
-    weight: 0.2222
+    weight: 0.2162
     avg_copies: 2.12
 ---

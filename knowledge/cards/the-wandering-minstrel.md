@@ -8,9 +8,9 @@ name: The Wandering Minstrel
 scryfall_id: 77bc419d-ff69-4e7c-afe6-faca383a5ed7
 set: fin
 type: Legendary Creature — Human Bard
-meta_presence: 0.0059
+meta_presence: 0.0061
 archetypes:
   amulet-titan:
-    weight: 0.1887
+    weight: 0.1963
     avg_copies: 1.0
 ---

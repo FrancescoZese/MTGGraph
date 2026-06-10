@@ -9,7 +9,7 @@ type: Artifact — Vehicle
 meta_presence: 0.0006
 archetypes:
   boros-energy:
-    weight: 0.0021
+    weight: 0.002
     avg_copies: 2.0
   jeskai-control:
     weight: 0.0345

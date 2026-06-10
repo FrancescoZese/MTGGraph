@@ -10,7 +10,7 @@ type: Creature — Spirit Knight
 meta_presence: 0.0487
 archetypes:
   boros-energy:
-    weight: 0.0062
+    weight: 0.0061
     avg_copies: 2.0
   jeskai-energy:
     weight: 0.0078
@@ -28,8 +28,8 @@ archetypes:
     weight: 0.8835
     avg_copies: 3.82
   esper-blink:
-    weight: 0.3269
-    avg_copies: 2.0
+    weight: 0.3519
+    avg_copies: 2.05
   orzhov-blink:
     weight: 0.4444
     avg_copies: 3.75

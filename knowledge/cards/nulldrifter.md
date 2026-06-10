@@ -15,7 +15,7 @@ archetypes:
     weight: 0.1538
     avg_copies: 3.0
   eldrazi-ramp:
-    weight: 0.1463
+    weight: 0.1412
     avg_copies: 2.75
   eldrazi-breach:
     weight: 0.75

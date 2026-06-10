@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.0038
 archetypes:
   amulet-titan:
-    weight: 0.0377
+    weight: 0.0374
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 0.0196

@@ -7,10 +7,13 @@ name: 'Unknown #95'
 meta_share: 0.0003
 list_count: 1
 top_cards:
-- name: Snapcaster Mage
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Flare of Denial
+  weight: 1.0
+  avg_copies: 4.0
+- name: Snapcaster Mage
   weight: 1.0
   avg_copies: 4.0
 - name: Counterspell
@@ -19,9 +22,9 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
-- name: Lightning Bolt
+- name: Kolaghan's Command
   weight: 1.0
-  avg_copies: 4.0
+  avg_copies: 3.0
 - name: Hidetsugu Consumes All
   weight: 1.0
   avg_copies: 3.0
@@ -31,19 +34,28 @@ top_cards:
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 3.0
-- name: Kolaghan's Command
-  weight: 1.0
-  avg_copies: 3.0
-- name: Nihil Spellbomb
+- name: Surgical Extraction
   weight: 1.0
   avg_copies: 2.0
 - name: Steam Vents
   weight: 1.0
   avg_copies: 2.0
+- name: Izzet Staticaster
+  weight: 1.0
+  avg_copies: 2.0
 - name: Traumatic Critique
   weight: 1.0
   avg_copies: 2.0
-- name: Surgical Extraction
+- name: Snow-Covered Island
+  weight: 1.0
+  avg_copies: 2.0
+- name: Tishana's Tidebinder
+  weight: 1.0
+  avg_copies: 2.0
+- name: Nihil Spellbomb
+  weight: 1.0
+  avg_copies: 2.0
+- name: Inquisition of Kozilek
   weight: 1.0
   avg_copies: 2.0
 - name: Consign to Memory
@@ -58,22 +70,25 @@ top_cards:
 - name: Watery Grave
   weight: 1.0
   avg_copies: 2.0
-- name: Snow-Covered Island
+- name: Thundertrap Trainer
   weight: 1.0
-  avg_copies: 2.0
-- name: Inquisition of Kozilek
+  avg_copies: 1.0
+- name: Creeping Tar Pit
   weight: 1.0
-  avg_copies: 2.0
-- name: Izzet Staticaster
+  avg_copies: 1.0
+- name: Otawara, Soaring City
   weight: 1.0
-  avg_copies: 2.0
-- name: Tishana's Tidebinder
-  weight: 1.0
-  avg_copies: 2.0
-- name: Mistrise Village
+  avg_copies: 1.0
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Scalding Tarn
+  weight: 1.0
+  avg_copies: 1.0
+- name: Mistrise Village
+  weight: 1.0
+  avg_copies: 1.0
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
 - name: Snow-Covered Mountain
@@ -82,22 +97,7 @@ top_cards:
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Otawara, Soaring City
-  weight: 1.0
-  avg_copies: 1.0
-- name: Thundertrap Trainer
-  weight: 1.0
-  avg_copies: 1.0
 - name: Snow-Covered Swamp
-  weight: 1.0
-  avg_copies: 1.0
-- name: Creeping Tar Pit
-  weight: 1.0
-  avg_copies: 1.0
-- name: Undercity Sewers
-  weight: 1.0
-  avg_copies: 1.0
-- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 ---

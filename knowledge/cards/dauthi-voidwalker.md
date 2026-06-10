@@ -13,16 +13,16 @@ archetypes:
     weight: 0.0123
     avg_copies: 2.0
   necrodominance:
-    weight: 0.5
-    avg_copies: 3.28
+    weight: 0.5135
+    avg_copies: 3.3
   samwise-combo:
-    weight: 0.2
+    weight: 0.1951
     avg_copies: 1.0
   grixis-shadow:
     weight: 0.25
     avg_copies: 2.0
   goryo1:
-    weight: 0.0423
+    weight: 0.0411
     avg_copies: 1.33
   goryo5:
     weight: 1.0

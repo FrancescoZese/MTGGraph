@@ -9,7 +9,7 @@ type: Land — Urza's Power-Plant
 meta_presence: 0.0446
 archetypes:
   eldrazi-tron:
-    weight: 0.9928
+    weight: 0.9929
     avg_copies: 3.95
   mono-blue-tron:
     weight: 1.0

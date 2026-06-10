@@ -6,37 +6,37 @@ name: 'Unknown #1'
 meta_share: 0.0012
 list_count: 4
 top_cards:
-- name: Faithless Looting
-  weight: 1.0
-  avg_copies: 4.0
-- name: Bloodghast
-  weight: 1.0
-  avg_copies: 4.0
-- name: Stitcher's Supplier
-  weight: 1.0
-  avg_copies: 4.0
-- name: Vexing Bauble
-  weight: 1.0
-  avg_copies: 4.0
 - name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
 - name: Flare of Malice
   weight: 1.0
   avg_copies: 4.0
+- name: Faithless Looting
+  weight: 1.0
+  avg_copies: 4.0
+- name: Vexing Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Stitcher's Supplier
+  weight: 1.0
+  avg_copies: 4.0
+- name: Bloodghast
+  weight: 1.0
+  avg_copies: 4.0
 - name: Persist
   weight: 1.0
   avg_copies: 3.75
-- name: Obsidian Charmaw
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.0
-- name: Rakdos Charm
+- name: Obsidian Charmaw
   weight: 1.0
   avg_copies: 3.0
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 3.0
-- name: Orcish Bowmasters
+- name: Rakdos Charm
   weight: 1.0
   avg_copies: 3.0
 - name: Lightning Bolt
@@ -48,7 +48,10 @@ top_cards:
 - name: Spymaster's Vault
   weight: 1.0
   avg_copies: 2.0
-- name: Extract the Truth
+- name: Raucous Theater
+  weight: 1.0
+  avg_copies: 2.0
+- name: Swamp
   weight: 1.0
   avg_copies: 2.0
 - name: Village Rites
@@ -57,10 +60,7 @@ top_cards:
 - name: Corrupted Conviction
   weight: 1.0
   avg_copies: 2.0
-- name: Raucous Theater
-  weight: 1.0
-  avg_copies: 2.0
-- name: Brotherhood's End
+- name: Extract the Truth
   weight: 1.0
   avg_copies: 2.0
 - name: Fatal Push
@@ -69,19 +69,19 @@ top_cards:
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 2.0
-- name: Swamp
+- name: Brotherhood's End
   weight: 1.0
   avg_copies: 2.0
-- name: Den of the Bugbear
-  weight: 1.0
-  avg_copies: 1.0
-- name: Bloodstained Mire
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 1.0
 - name: End the Festivities
   weight: 1.0
   avg_copies: 1.0
-- name: Wooded Foothills
+- name: Den of the Bugbear
+  weight: 1.0
+  avg_copies: 1.0
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.0
 - name: Leyline of Combustion
@@ -96,10 +96,10 @@ top_cards:
 - name: Unearth
   weight: 0.25
   avg_copies: 2.0
-- name: Ob Nixilis, the Adversary
+- name: Lightning Skelemental
   weight: 0.25
   avg_copies: 1.0
-- name: Lightning Skelemental
+- name: Ob Nixilis, the Adversary
   weight: 0.25
   avg_copies: 1.0
 ---

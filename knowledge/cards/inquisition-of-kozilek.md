@@ -13,11 +13,11 @@ archetypes:
     weight: 0.0097
     avg_copies: 1.0
   goryo:
-    weight: 0.0078
+    weight: 0.0077
     avg_copies: 2.0
   necrodominance:
-    weight: 0.5278
-    avg_copies: 2.53
+    weight: 0.5405
+    avg_copies: 2.5
   indomitable-creativity:
     weight: 0.1
     avg_copies: 1.5
@@ -34,7 +34,7 @@ archetypes:
     weight: 0.8261
     avg_copies: 3.39
   goryo1:
-    weight: 0.0141
+    weight: 0.0137
     avg_copies: 2.0
   goryo5:
     weight: 0.5

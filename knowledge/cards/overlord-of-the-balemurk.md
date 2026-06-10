@@ -19,14 +19,14 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   hollow-one:
-    weight: 0.0333
+    weight: 0.0323
     avg_copies: 1.0
   simic-ritual:
     weight: 0.0149
     avg_copies: 1.0
   esper-blink:
     weight: 1.0
-    avg_copies: 3.9
+    avg_copies: 3.91
   orzhov-blink:
     weight: 1.0
     avg_copies: 4.0

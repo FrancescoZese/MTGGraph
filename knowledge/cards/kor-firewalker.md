@@ -7,10 +7,10 @@ name: Kor Firewalker
 scryfall_id: 8dcd4a52-0c8f-4fca-b7dc-c2503794e5a4
 set: a25
 type: Creature — Kor Soldier
-meta_presence: 0.0015
+meta_presence: 0.0014
 archetypes:
   boros-energy:
-    weight: 0.0021
+    weight: 0.002
     avg_copies: 2.0
   burn:
     weight: 0.0385

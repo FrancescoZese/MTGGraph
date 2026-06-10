@@ -6,19 +6,19 @@ name: Watery Grave
 scryfall_id: 5b8170dc-6a90-46fc-9989-7575f3d402b5
 set: eoe
 type: Land — Island Swamp
-meta_presence: 0.1672
+meta_presence: 0.1685
 archetypes:
   dimir-control:
     weight: 1.0
     avg_copies: 2.63
   goryo:
-    weight: 0.9844
+    weight: 0.9846
     avg_copies: 1.0
   necrodominance:
-    weight: 0.0556
+    weight: 0.0541
     avg_copies: 3.5
   azorius-control:
-    weight: 0.3333
+    weight: 0.3659
     avg_copies: 1.0
   living-end:
     weight: 0.7547
@@ -55,7 +55,7 @@ archetypes:
     avg_copies: 1.0
   goryo1:
     weight: 1.0
-    avg_copies: 1.51
+    avg_copies: 1.52
   goryo2:
     weight: 1.0
     avg_copies: 1.0
@@ -94,7 +94,7 @@ archetypes:
     avg_copies: 3.0
   unknown-47:
     weight: 1.0
-    avg_copies: 2.25
+    avg_copies: 2.24
   unknown-51:
     weight: 1.0
     avg_copies: 2.0
@@ -142,7 +142,7 @@ archetypes:
     avg_copies: 1.0
   unknown-120:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.5
   unknown-118:
     weight: 1.0
     avg_copies: 1.0
@@ -155,4 +155,10 @@ archetypes:
   unknown-131:
     weight: 1.0
     avg_copies: 1.0
+  unknown-132:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-133:
+    weight: 1.0
+    avg_copies: 2.0
 ---

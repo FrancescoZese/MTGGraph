@@ -10,6 +10,6 @@ type: Creature — Jackal Warrior
 meta_presence: 0.0003
 archetypes:
   hollow-one:
-    weight: 0.0333
+    weight: 0.0323
     avg_copies: 2.0
 ---

@@ -13,20 +13,20 @@ archetypes:
     weight: 0.0583
     avg_copies: 2.0
   boros-energy:
-    weight: 0.0453
+    weight: 0.0447
     avg_copies: 1.03
   jeskai-energy:
     weight: 0.7519
     avg_copies: 1.49
   eldrazi-tron:
-    weight: 0.0072
+    weight: 0.0071
     avg_copies: 2.0
   goryo:
-    weight: 0.4531
+    weight: 0.4615
     avg_copies: 1.07
   azorius-control:
-    weight: 0.0769
-    avg_copies: 1.5
+    weight: 0.0976
+    avg_copies: 1.4
   jeskai-control:
     weight: 0.3448
     avg_copies: 1.0
@@ -37,7 +37,7 @@ archetypes:
     weight: 0.3592
     avg_copies: 1.72
   esper-blink:
-    weight: 0.1923
+    weight: 0.2037
     avg_copies: 1.0
   orzhov-blink:
     weight: 0.2222

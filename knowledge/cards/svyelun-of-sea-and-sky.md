@@ -7,7 +7,7 @@ name: Svyelun of Sea and Sky
 scryfall_id: 01f5ab00-5305-4ac4-915d-feeb591f9389
 set: lcc
 type: Legendary Creature — Merfolk God
-meta_presence: 0.0015
+meta_presence: 0.0014
 archetypes:
   unknown-42:
     weight: 0.7143

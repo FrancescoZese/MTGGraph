@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: Azorius Blink
-meta_share: 0.0109
+meta_share: 0.0107
 list_count: 37
 top_cards:
 - name: Ocelot Pride
@@ -18,10 +18,10 @@ top_cards:
 - name: Solitude
   weight: 1.0
   avg_copies: 3.89
-- name: Hallowed Fountain
+- name: Ephemerate
   weight: 1.0
   avg_copies: 3.43
-- name: Ephemerate
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 3.43
 - name: Plains
@@ -129,13 +129,13 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.1351
   avg_copies: 1.5
-- name: Temple Garden
-  weight: 0.1351
-  avg_copies: 1.0
 - name: Gran-Gran
   weight: 0.1351
   avg_copies: 1.0
 - name: Haywire Mite
+  weight: 0.1351
+  avg_copies: 1.0
+- name: Temple Garden
   weight: 0.1351
   avg_copies: 1.0
 - name: Strix Serenade
@@ -150,43 +150,43 @@ top_cards:
 - name: Idyllic Grange
   weight: 0.0811
   avg_copies: 1.33
-- name: Island
+- name: Thraben Charm
   weight: 0.0811
   avg_copies: 1.0
-- name: Thraben Charm
+- name: Island
   weight: 0.0811
   avg_copies: 1.0
 - name: Test of Talents
   weight: 0.0541
   avg_copies: 2.0
-- name: Spell Pierce
-  weight: 0.0541
-  avg_copies: 1.5
 - name: Orim's Chant
   weight: 0.0541
   avg_copies: 1.5
-- name: Soul-Guide Lantern
+- name: Spell Pierce
   weight: 0.0541
   avg_copies: 1.5
 - name: Wan Shi Tong, Librarian
   weight: 0.0541
   avg_copies: 1.5
+- name: Soul-Guide Lantern
+  weight: 0.0541
+  avg_copies: 1.5
+- name: Elegant Parlor
+  weight: 0.0541
+  avg_copies: 1.0
 - name: Erode
   weight: 0.0541
   avg_copies: 1.0
 - name: Stony Silence
   weight: 0.0541
   avg_copies: 1.0
-- name: Elegant Parlor
-  weight: 0.0541
-  avg_copies: 1.0
 - name: Lavinia, Azorius Renegade
   weight: 0.0541
   avg_copies: 1.0
-- name: Overlord of the Balemurk
+- name: Ajani, Nacatl Pariah
   weight: 0.027
   avg_copies: 4.0
-- name: Ajani, Nacatl Pariah
+- name: Overlord of the Balemurk
   weight: 0.027
   avg_copies: 4.0
 - name: Leonardo, Cutting Edge
@@ -198,67 +198,67 @@ top_cards:
 - name: Agatha's Soul Cauldron
   weight: 0.027
   avg_copies: 3.0
-- name: Sacred Foundry
-  weight: 0.027
-  avg_copies: 2.0
-- name: Mystic Gate
-  weight: 0.027
-  avg_copies: 2.0
-- name: Flare of Fortitude
-  weight: 0.027
-  avg_copies: 2.0
 - name: Godless Shrine
   weight: 0.027
   avg_copies: 2.0
 - name: Walking Ballista
   weight: 0.027
   avg_copies: 2.0
+- name: Flare of Fortitude
+  weight: 0.027
+  avg_copies: 2.0
+- name: Mystic Gate
+  weight: 0.027
+  avg_copies: 2.0
 - name: Giant Killer
   weight: 0.027
   avg_copies: 2.0
-- name: Floodfarm Verge
+- name: Sacred Foundry
   weight: 0.027
-  avg_copies: 1.0
-- name: Heliod, Sun-Crowned
-  weight: 0.027
-  avg_copies: 1.0
-- name: Winternight Stories
-  weight: 0.027
-  avg_copies: 1.0
-- name: Polluted Delta
-  weight: 0.027
-  avg_copies: 1.0
-- name: Cryptic Command
-  weight: 0.027
-  avg_copies: 1.0
-- name: Nihil Spellbomb
-  weight: 0.027
-  avg_copies: 1.0
-- name: Mistcaller
-  weight: 0.027
-  avg_copies: 1.0
-- name: Flitterwing Nuisance
-  weight: 0.027
-  avg_copies: 1.0
-- name: Watery Grave
-  weight: 0.027
-  avg_copies: 1.0
-- name: Eiganjo, Seat of the Empire
-  weight: 0.027
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Elesh Norn, Mother of Machines
   weight: 0.027
   avg_copies: 1.0
 - name: Hurkyl's Recall
   weight: 0.027
   avg_copies: 1.0
-- name: Ragavan, Nimble Pilferer
+- name: Flitterwing Nuisance
+  weight: 0.027
+  avg_copies: 1.0
+- name: Nihil Spellbomb
+  weight: 0.027
+  avg_copies: 1.0
+- name: Winternight Stories
   weight: 0.027
   avg_copies: 1.0
 - name: Skycoach Conductor
   weight: 0.027
   avg_copies: 1.0
+- name: Mistcaller
+  weight: 0.027
+  avg_copies: 1.0
+- name: Heliod, Sun-Crowned
+  weight: 0.027
+  avg_copies: 1.0
+- name: Cryptic Command
+  weight: 0.027
+  avg_copies: 1.0
+- name: Eiganjo, Seat of the Empire
+  weight: 0.027
+  avg_copies: 1.0
 - name: Shadowy Backstreet
+  weight: 0.027
+  avg_copies: 1.0
+- name: Ragavan, Nimble Pilferer
+  weight: 0.027
+  avg_copies: 1.0
+- name: Floodfarm Verge
+  weight: 0.027
+  avg_copies: 1.0
+- name: Polluted Delta
+  weight: 0.027
+  avg_copies: 1.0
+- name: Watery Grave
   weight: 0.027
   avg_copies: 1.0
 ---

@@ -16,10 +16,10 @@ archetypes:
     weight: 0.0078
     avg_copies: 1.0
   goryo:
-    weight: 0.0703
-    avg_copies: 1.33
+    weight: 0.0769
+    avg_copies: 1.32
   azorius-control:
-    weight: 0.2051
+    weight: 0.1951
     avg_copies: 1.75
   living-end:
     weight: 1.0
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.0526
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0213
+    weight: 0.0208
     avg_copies: 1.0
   mono-blue-tron:
     weight: 0.9231
@@ -40,13 +40,13 @@ archetypes:
     weight: 0.9851
     avg_copies: 3.45
   izzet-prowess:
-    weight: 0.006
+    weight: 0.0058
     avg_copies: 2.0
   4c-omnath:
     weight: 0.75
     avg_copies: 4.0
   esper-blink:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 2.5
   izzet-artifacts:
     weight: 0.0323
@@ -95,7 +95,7 @@ archetypes:
     avg_copies: 2.33
   unknown-47:
     weight: 1.0
-    avg_copies: 2.32
+    avg_copies: 2.34
   unknown-51:
     weight: 1.0
     avg_copies: 4.0

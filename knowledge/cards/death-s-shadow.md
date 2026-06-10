@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0123
     avg_copies: 4.0
   hollow-one:
-    weight: 0.0333
+    weight: 0.0323
     avg_copies: 4.0
   grixis-shadow:
     weight: 1.0

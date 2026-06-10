@@ -7,14 +7,14 @@ name: Orcish Bowmasters
 scryfall_id: 7c024bae-5631-4e20-ac69-df392ac9e109
 set: ltr
 type: Creature — Orc Archer
-meta_presence: 0.1129
+meta_presence: 0.1132
 archetypes:
   dimir-control:
     weight: 0.963
     avg_copies: 3.58
   necrodominance:
     weight: 1.0
-    avg_copies: 3.67
+    avg_copies: 3.65
   domain-zoo:
     weight: 0.0824
     avg_copies: 2.43
@@ -25,8 +25,8 @@ archetypes:
     weight: 0.5652
     avg_copies: 1.36
   hollow-one:
-    weight: 0.6333
-    avg_copies: 3.26
+    weight: 0.6452
+    avg_copies: 3.3
   yawgmoth-combo:
     weight: 0.6471
     avg_copies: 1.88
@@ -34,11 +34,11 @@ archetypes:
     weight: 0.0746
     avg_copies: 3.2
   esper-blink:
-    weight: 0.4231
+    weight: 0.4074
     avg_copies: 2.17
   samwise-combo:
-    weight: 0.725
-    avg_copies: 2.07
+    weight: 0.7317
+    avg_copies: 2.1
   orzhov-blink:
     weight: 0.7778
     avg_copies: 3.14
@@ -49,7 +49,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   goryo1:
-    weight: 0.0141
+    weight: 0.0137
     avg_copies: 1.0
   goryo5:
     weight: 1.0
@@ -101,7 +101,7 @@ archetypes:
     avg_copies: 3.0
   unknown-47:
     weight: 1.0
-    avg_copies: 3.32
+    avg_copies: 3.34
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
@@ -115,7 +115,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-68:
-    weight: 0.95
+    weight: 0.9524
     avg_copies: 2.0
   unknown-69:
     weight: 1.0
@@ -153,4 +153,7 @@ archetypes:
   unknown-123:
     weight: 1.0
     avg_copies: 3.0
+  unknown-132:
+    weight: 1.0
+    avg_copies: 4.0
 ---

@@ -9,6 +9,9 @@ name: 'Unknown #85'
 meta_share: 0.0026
 list_count: 9
 top_cards:
+- name: Leyline Binding
+  weight: 1.0
+  avg_copies: 4.0
 - name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
@@ -16,9 +19,6 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Leyline Binding
   weight: 1.0
   avg_copies: 4.0
 - name: Wooded Foothills
@@ -75,10 +75,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.7778
   avg_copies: 2.14
-- name: Mountain
+- name: Blood Crypt
   weight: 0.7778
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Mountain
   weight: 0.7778
   avg_copies: 1.0
 - name: High Noon
@@ -132,52 +132,52 @@ top_cards:
 - name: Force of Vigor
   weight: 0.1111
   avg_copies: 3.0
-- name: Fable of the Mirror-Breaker
-  weight: 0.1111
-  avg_copies: 2.0
-- name: Doorkeeper Thrull
-  weight: 0.1111
-  avg_copies: 2.0
-- name: Damping Sphere
-  weight: 0.1111
-  avg_copies: 2.0
 - name: Pick Your Poison
-  weight: 0.1111
-  avg_copies: 2.0
-- name: Rough
   weight: 0.1111
   avg_copies: 2.0
 - name: Prismatic Ending
   weight: 0.1111
   avg_copies: 2.0
+- name: Damping Sphere
+  weight: 0.1111
+  avg_copies: 2.0
 - name: Endurance
+  weight: 0.1111
+  avg_copies: 2.0
+- name: Fable of the Mirror-Breaker
   weight: 0.1111
   avg_copies: 2.0
 - name: Laelia, the Blade Reforged
   weight: 0.1111
   avg_copies: 2.0
-- name: Hidetsugu Consumes All
+- name: Rough
   weight: 0.1111
-  avg_copies: 1.0
-- name: Chalice of the Void
+  avg_copies: 2.0
+- name: Doorkeeper Thrull
   weight: 0.1111
-  avg_copies: 1.0
-- name: Pyroclasm
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Island
+  avg_copies: 2.0
+- name: Lush Portico
   weight: 0.1111
   avg_copies: 1.0
 - name: Hedge Maze
   weight: 0.1111
   avg_copies: 1.0
-- name: Zagoth Triome
+- name: Hidetsugu Consumes All
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Pyroclasm
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Chalice of the Void
   weight: 0.1111
   avg_copies: 1.0
 - name: Xander's Lounge
   weight: 0.1111
   avg_copies: 1.0
-- name: Lush Portico
+- name: Zagoth Triome
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Island
   weight: 0.1111
   avg_copies: 1.0
 ---

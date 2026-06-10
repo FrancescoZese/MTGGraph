@@ -6,34 +6,34 @@ name: 'Unknown #17'
 meta_share: 0.0009
 list_count: 3
 top_cards:
-- name: Field of Ruin
-  weight: 1.0
-  avg_copies: 4.0
-- name: Snapcaster Mage
-  weight: 1.0
-  avg_copies: 4.0
 - name: March of Otherworldly Light
   weight: 1.0
   avg_copies: 4.0
-- name: Counterspell
-  weight: 1.0
-  avg_copies: 4.0
-- name: Wan Shi Tong, Librarian
+- name: Field of Ruin
   weight: 1.0
   avg_copies: 4.0
 - name: Erode
   weight: 1.0
   avg_copies: 4.0
-- name: Island
+- name: Wan Shi Tong, Librarian
   weight: 1.0
   avg_copies: 4.0
 - name: Path to Exile
   weight: 1.0
   avg_copies: 4.0
-- name: Celestial Colonnade
+- name: Snapcaster Mage
+  weight: 1.0
+  avg_copies: 4.0
+- name: Counterspell
+  weight: 1.0
+  avg_copies: 4.0
+- name: Island
+  weight: 1.0
+  avg_copies: 4.0
+- name: Force of Negation
   weight: 1.0
   avg_copies: 3.0
-- name: Force of Negation
+- name: Celestial Colonnade
   weight: 1.0
   avg_copies: 3.0
 - name: Consign to Memory
@@ -48,13 +48,13 @@ top_cards:
 - name: Rest in Peace
   weight: 1.0
   avg_copies: 2.0
-- name: Meticulous Archive
+- name: Stony Silence
   weight: 1.0
   avg_copies: 2.0
 - name: Plains
   weight: 1.0
   avg_copies: 2.0
-- name: Stony Silence
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 2.0
 - name: Flooded Strand
@@ -93,13 +93,13 @@ top_cards:
 - name: Hallowed Moonlight
   weight: 0.3333
   avg_copies: 2.0
-- name: Beza, the Bounding Spring
+- name: High Noon
   weight: 0.3333
   avg_copies: 2.0
 - name: Aang, Swift Savior
   weight: 0.3333
   avg_copies: 2.0
-- name: High Noon
+- name: Beza, the Bounding Spring
   weight: 0.3333
   avg_copies: 2.0
 - name: Wrath of the Skies

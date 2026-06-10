@@ -4,7 +4,7 @@ archetypes:
     weight: 0.0097
     avg_copies: 1.0
   boros-energy:
-    weight: 0.7984
+    weight: 0.7967
     avg_copies: 1.29
   dimir-control:
     weight: 0.1111
@@ -16,14 +16,14 @@ archetypes:
     weight: 0.7054
     avg_copies: 1.1
   goryo:
-    weight: 0.4766
-    avg_copies: 1.15
+    weight: 0.4846
+    avg_copies: 1.16
   necrodominance:
-    weight: 0.5278
-    avg_copies: 1.42
+    weight: 0.5405
+    avg_copies: 1.4
   azorius-control:
-    weight: 0.7949
-    avg_copies: 1.19
+    weight: 0.7805
+    avg_copies: 1.22
   jeskai-control:
     weight: 0.5172
     avg_copies: 1.2
@@ -46,8 +46,8 @@ archetypes:
     weight: 0.3077
     avg_copies: 1.75
   hollow-one:
-    weight: 0.7333
-    avg_copies: 1.91
+    weight: 0.7419
+    avg_copies: 1.96
   boros-ponza:
     weight: 0.1942
     avg_copies: 1.67
@@ -55,16 +55,16 @@ archetypes:
     weight: 0.0196
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0366
+    weight: 0.0353
     avg_copies: 1.67
   izzet-prowess:
-    weight: 0.6766
+    weight: 0.6608
     avg_copies: 1.55
   esper-blink:
-    weight: 0.2115
+    weight: 0.2037
     avg_copies: 1.09
   samwise-combo:
-    weight: 0.15
+    weight: 0.1463
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.6
@@ -94,7 +94,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.6761
+    weight: 0.6712
     avg_copies: 1.12
   goryo5:
     weight: 0.5
@@ -157,7 +157,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.2857
+    weight: 0.2759
     avg_copies: 1.75
   unknown-51:
     weight: 1.0
@@ -184,7 +184,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-68:
-    weight: 0.3
+    weight: 0.2857
     avg_copies: 1.0
   unknown-69:
     weight: 1.0
@@ -243,7 +243,7 @@ archetypes:
 cmc: 1
 colors: []
 image: https://cards.scryfall.io/normal/front/e/1/e15d76ac-1c23-4503-8225-375ac2bf2fb6.jpg?1673147668
-meta_presence: 0.3042
+meta_presence: 0.3035
 name: Surgical Extraction
 scryfall_id: e15d76ac-1c23-4503-8225-375ac2bf2fb6
 set: 2x2

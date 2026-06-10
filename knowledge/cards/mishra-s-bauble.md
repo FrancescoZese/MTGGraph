@@ -18,7 +18,7 @@ archetypes:
     weight: 0.125
     avg_copies: 4.0
   hollow-one:
-    weight: 0.7667
+    weight: 0.7419
     avg_copies: 3.83
   kethis-combo:
     weight: 1.0
@@ -27,7 +27,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.94
   broodscale-combo:
-    weight: 0.0413
+    weight: 0.0407
     avg_copies: 4.0
   izzet-artifacts:
     weight: 1.0
@@ -120,6 +120,9 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-123:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-132:
     weight: 1.0
     avg_copies: 4.0
 ---

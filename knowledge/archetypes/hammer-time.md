@@ -66,10 +66,10 @@ top_cards:
 - name: Marsh Flats
   weight: 0.625
   avg_copies: 3.2
-- name: Soulless Jailer
+- name: Mystical Dispute
   weight: 0.625
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Soulless Jailer
   weight: 0.625
   avg_copies: 2.0
 - name: Tormod's Crypt
@@ -90,13 +90,13 @@ top_cards:
 - name: Portable Hole
   weight: 0.375
   avg_copies: 2.2
+- name: Teferi, Time Raveler
+  weight: 0.375
+  avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.375
   avg_copies: 2.0
 - name: Suncleanser
-  weight: 0.375
-  avg_copies: 2.0
-- name: Teferi, Time Raveler
   weight: 0.375
   avg_copies: 2.0
 - name: Springleaf Drum
@@ -105,16 +105,16 @@ top_cards:
 - name: Kappa Cannoneer
   weight: 0.375
   avg_copies: 1.4
-- name: Cryptic Coat
+- name: Stern Scolding
   weight: 0.375
   avg_copies: 1.0
 - name: Grafdigger's Cage
   weight: 0.375
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Cryptic Coat
   weight: 0.375
   avg_copies: 1.0
-- name: Stern Scolding
+- name: Pithing Needle
   weight: 0.375
   avg_copies: 1.0
 - name: Memnite
@@ -129,19 +129,19 @@ top_cards:
 - name: Voice of Victory
   weight: 0.25
   avg_copies: 1.0
-- name: Mishra's Bauble
+- name: Flare of Fortitude
   weight: 0.125
   avg_copies: 4.0
-- name: Flare of Fortitude
+- name: Mishra's Bauble
   weight: 0.125
   avg_copies: 4.0
 - name: Containment Priest
   weight: 0.125
   avg_copies: 2.0
-- name: Skateboard
+- name: Prismatic Ending
   weight: 0.125
   avg_copies: 1.0
-- name: Prismatic Ending
+- name: Skateboard
   weight: 0.125
   avg_copies: 1.0
 - name: Paradise Mantle

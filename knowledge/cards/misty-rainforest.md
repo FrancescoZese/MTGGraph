@@ -6,7 +6,7 @@ name: Misty Rainforest
 scryfall_id: 88231c0d-0cc8-44ec-bf95-81d1710ac141
 set: mh2
 type: Land
-meta_presence: 0.1473
+meta_presence: 0.1483
 archetypes:
   ruby-storm:
     weight: 0.0194
@@ -18,16 +18,16 @@ archetypes:
     weight: 0.0078
     avg_copies: 3.0
   goryo:
-    weight: 0.0156
+    weight: 0.0154
     avg_copies: 1.5
   azorius-control:
-    weight: 0.2564
-    avg_copies: 1.1
+    weight: 0.2683
+    avg_copies: 1.09
   living-end:
     weight: 1.0
     avg_copies: 3.74
   affinity:
-    weight: 0.0701
+    weight: 0.0694
     avg_copies: 1.86
   mill:
     weight: 0.3158
@@ -36,7 +36,7 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.9787
+    weight: 0.9792
     avg_copies: 3.72
   kethis-combo:
     weight: 1.0
@@ -45,23 +45,23 @@ archetypes:
     weight: 0.2745
     avg_copies: 1.29
   eldrazi-ramp:
-    weight: 0.6707
-    avg_copies: 1.24
+    weight: 0.6588
+    avg_copies: 1.23
   simic-ritual:
     weight: 0.9851
     avg_copies: 3.7
   izzet-prowess:
-    weight: 0.024
+    weight: 0.0234
     avg_copies: 1.75
   4c-omnath:
     weight: 0.75
     avg_copies: 3.67
   samwise-combo:
-    weight: 0.675
-    avg_copies: 1.41
+    weight: 0.6829
+    avg_copies: 1.39
   broodscale-combo:
-    weight: 0.1322
-    avg_copies: 1.19
+    weight: 0.1382
+    avg_copies: 1.18
   bant-control:
     weight: 1.0
     avg_copies: 2.0
@@ -126,8 +126,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-47:
-    weight: 0.0714
-    avg_copies: 2.5
+    weight: 0.1034
+    avg_copies: 2.0
   unknown-59:
     weight: 1.0
     avg_copies: 4.0
@@ -139,12 +139,12 @@ archetypes:
     avg_copies: 3.91
   unknown-67:
     weight: 1.0
-    avg_copies: 3.89
+    avg_copies: 3.85
   unknown-73:
     weight: 1.0
     avg_copies: 4.0
   unknown-76:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 1.0
   unknown-79:
     weight: 1.0
@@ -179,4 +179,7 @@ archetypes:
   unknown-128:
     weight: 1.0
     avg_copies: 1.0
+  unknown-133:
+    weight: 1.0
+    avg_copies: 4.0
 ---

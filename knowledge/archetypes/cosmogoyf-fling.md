@@ -79,10 +79,10 @@ top_cards:
 - name: Veil of Summer
   weight: 0.4348
   avg_copies: 3.9
-- name: Disciple of Freyalise
+- name: Aloe Alchemist
   weight: 0.3478
   avg_copies: 1.0
-- name: Aloe Alchemist
+- name: Disciple of Freyalise
   weight: 0.3478
   avg_copies: 1.0
 - name: Fatal Push
@@ -100,10 +100,10 @@ top_cards:
 - name: Claim
   weight: 0.1304
   avg_copies: 3.33
-- name: Lightning Bolt
+- name: Fire Magic
   weight: 0.1304
   avg_copies: 2.33
-- name: Fire Magic
+- name: Lightning Bolt
   weight: 0.1304
   avg_copies: 2.33
 - name: Pick Your Poison
@@ -121,28 +121,28 @@ top_cards:
 - name: Mana Confluence
   weight: 0.0435
   avg_copies: 4.0
-- name: Death's Shadow
-  weight: 0.0435
-  avg_copies: 2.0
 - name: Duress
   weight: 0.0435
   avg_copies: 2.0
-- name: Mountain
+- name: Death's Shadow
   weight: 0.0435
-  avg_copies: 1.0
-- name: Chancellor of the Dross
-  weight: 0.0435
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Leyline of the Void
   weight: 0.0435
   avg_copies: 1.0
 - name: Ghor-Clan Rampager
   weight: 0.0435
   avg_copies: 1.0
-- name: Kaheera, the Orphanguard
+- name: Mountain
   weight: 0.0435
   avg_copies: 1.0
 - name: Disruptor Flute
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Kaheera, the Orphanguard
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Chancellor of the Dross
   weight: 0.0435
   avg_copies: 1.0
 ---

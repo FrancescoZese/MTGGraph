@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.1851
 archetypes:
   boros-energy:
-    weight: 0.6687
+    weight: 0.6728
     avg_copies: 1.47
   dimir-control:
     weight: 0.0741
@@ -19,14 +19,14 @@ archetypes:
     weight: 0.4961
     avg_copies: 1.16
   eldrazi-tron:
-    weight: 0.0072
+    weight: 0.0071
     avg_copies: 1.0
   goryo:
-    weight: 0.4375
+    weight: 0.4308
     avg_copies: 1.07
   azorius-control:
-    weight: 0.4615
-    avg_copies: 1.39
+    weight: 0.4634
+    avg_copies: 1.37
   jeskai-control:
     weight: 0.931
     avg_copies: 1.52
@@ -37,7 +37,7 @@ archetypes:
     weight: 0.8252
     avg_copies: 1.79
   esper-blink:
-    weight: 0.0577
+    weight: 0.0556
     avg_copies: 1.0
   azorius-blink:
     weight: 0.1622
@@ -72,6 +72,9 @@ archetypes:
   unknown-22:
     weight: 1.0
     avg_copies: 2.0
+  unknown-47:
+    weight: 0.0345
+    avg_copies: 1.0
   unknown-56:
     weight: 1.0
     avg_copies: 2.0
@@ -79,7 +82,7 @@ archetypes:
     weight: 0.0625
     avg_copies: 1.0
   unknown-68:
-    weight: 0.3
+    weight: 0.2857
     avg_copies: 1.0
   unknown-70:
     weight: 0.6667

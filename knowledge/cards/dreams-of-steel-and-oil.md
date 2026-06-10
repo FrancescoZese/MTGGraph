@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0247
     avg_copies: 1.0
   necrodominance:
-    weight: 0.1667
+    weight: 0.1622
     avg_copies: 1.88
   rakdos-aggro:
     weight: 0.1333
@@ -28,7 +28,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0357
+    weight: 0.0345
     avg_copies: 1.0
   unknown-125:
     weight: 1.0

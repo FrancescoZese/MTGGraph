@@ -9,6 +9,6 @@ type: Sorcery // Land
 meta_presence: 0.0003
 archetypes:
   eldrazi-tron:
-    weight: 0.0072
+    weight: 0.0071
     avg_copies: 3.0
 ---
