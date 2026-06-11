@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: 'Unknown #47'
-meta_share: 0.0084
+meta_share: 0.0083
 list_count: 29
 top_cards:
 - name: Psychic Frog
@@ -126,13 +126,13 @@ top_cards:
 - name: Murktide Regent
   weight: 0.1379
   avg_copies: 1.0
-- name: Damping Sphere
+- name: Misty Rainforest
   weight: 0.1034
   avg_copies: 2.0
 - name: Vexing Bauble
   weight: 0.1034
   avg_copies: 2.0
-- name: Misty Rainforest
+- name: Damping Sphere
   weight: 0.1034
   avg_copies: 2.0
 - name: Ghost Vacuum
@@ -150,16 +150,16 @@ top_cards:
 - name: The Meathook Massacre
   weight: 0.069
   avg_copies: 1.5
-- name: Hallowed Fountain
-  weight: 0.069
-  avg_copies: 1.0
-- name: Scalding Tarn
-  weight: 0.069
-  avg_copies: 1.0
 - name: Spell Pierce
   weight: 0.069
   avg_copies: 1.0
 - name: Snow-Covered Swamp
+  weight: 0.069
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 0.069
+  avg_copies: 1.0
+- name: Scalding Tarn
   weight: 0.069
   avg_copies: 1.0
 - name: Meticulous Archive
@@ -171,25 +171,25 @@ top_cards:
 - name: Void Mirror
   weight: 0.0345
   avg_copies: 2.0
-- name: Strategic Betrayal
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Dreams of Steel and Oil
-  weight: 0.0345
-  avg_copies: 1.0
 - name: Celestial Purge
   weight: 0.0345
   avg_copies: 1.0
-- name: Snapcaster Mage
-  weight: 0.0345
-  avg_copies: 1.0
-- name: River of Tears
+- name: Strategic Betrayal
   weight: 0.0345
   avg_copies: 1.0
 - name: High Noon
   weight: 0.0345
   avg_copies: 1.0
 - name: Waterlogged Teachings
+  weight: 0.0345
+  avg_copies: 1.0
+- name: River of Tears
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Snapcaster Mage
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Dreams of Steel and Oil
   weight: 0.0345
   avg_copies: 1.0
 ---

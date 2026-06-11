@@ -4,16 +4,16 @@ colors:
 - R
 - G
 name: 'Unknown #65'
-meta_share: 0.0067
+meta_share: 0.0066
 list_count: 23
 top_cards:
+- name: Crashing Footfalls
+  weight: 1.0
+  avg_copies: 4.0
 - name: Shardless Agent
   weight: 1.0
   avg_copies: 4.0
 - name: Violent Outburst
-  weight: 1.0
-  avg_copies: 4.0
-- name: Crashing Footfalls
   weight: 1.0
   avg_copies: 4.0
 - name: Misty Rainforest
@@ -46,16 +46,16 @@ top_cards:
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.74
-- name: Breeding Pool
-  weight: 1.0
-  avg_copies: 1.13
 - name: Island
   weight: 1.0
   avg_copies: 1.13
-- name: Stomping Ground
+- name: Breeding Pool
+  weight: 1.0
+  avg_copies: 1.13
+- name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
 - name: Forest
@@ -139,16 +139,16 @@ top_cards:
 - name: Mutavault
   weight: 0.0435
   avg_copies: 2.0
-- name: Fable of the Mirror-Breaker
+- name: Mine Collapse
   weight: 0.0435
   avg_copies: 1.0
 - name: Rough
   weight: 0.0435
   avg_copies: 1.0
-- name: Ketria Triome
+- name: Fable of the Mirror-Breaker
   weight: 0.0435
   avg_copies: 1.0
-- name: Mine Collapse
+- name: Ketria Triome
   weight: 0.0435
   avg_copies: 1.0
 ---

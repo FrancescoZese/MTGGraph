@@ -93,10 +93,10 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 0.375
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Suncleanser
   weight: 0.375
   avg_copies: 2.0
-- name: Suncleanser
+- name: Damping Sphere
   weight: 0.375
   avg_copies: 2.0
 - name: Springleaf Drum
@@ -105,6 +105,9 @@ top_cards:
 - name: Kappa Cannoneer
   weight: 0.375
   avg_copies: 1.4
+- name: Pithing Needle
+  weight: 0.375
+  avg_copies: 1.0
 - name: Stern Scolding
   weight: 0.375
   avg_copies: 1.0
@@ -112,9 +115,6 @@ top_cards:
   weight: 0.375
   avg_copies: 1.0
 - name: Cryptic Coat
-  weight: 0.375
-  avg_copies: 1.0
-- name: Pithing Needle
   weight: 0.375
   avg_copies: 1.0
 - name: Memnite
@@ -138,16 +138,16 @@ top_cards:
 - name: Containment Priest
   weight: 0.125
   avg_copies: 2.0
-- name: Prismatic Ending
-  weight: 0.125
-  avg_copies: 1.0
 - name: Skateboard
   weight: 0.125
   avg_copies: 1.0
-- name: Paradise Mantle
+- name: Prismatic Ending
   weight: 0.125
   avg_copies: 1.0
 - name: Soul-Guide Lantern
+  weight: 0.125
+  avg_copies: 1.0
+- name: Paradise Mantle
   weight: 0.125
   avg_copies: 1.0
 ---

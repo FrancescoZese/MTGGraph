@@ -6,22 +6,22 @@ name: Orzhov Blink
 meta_share: 0.0026
 list_count: 9
 top_cards:
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 4.0
 - name: Thoughtseize
-  weight: 1.0
-  avg_copies: 4.0
-- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Solitude
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 4.0
+- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.67
-- name: Phelia, Exuberant Shepherd
+- name: Fatal Push
   weight: 1.0
   avg_copies: 3.67
 - name: Witch Enchanter
@@ -69,10 +69,10 @@ top_cards:
 - name: Ketramose, the New Dawn
   weight: 0.6667
   avg_copies: 3.12
-- name: Damping Sphere
+- name: Clarion Conqueror
   weight: 0.6667
   avg_copies: 2.17
-- name: Clarion Conqueror
+- name: Damping Sphere
   weight: 0.6667
   avg_copies: 2.17
 - name: Bleachbone Verge
@@ -87,13 +87,13 @@ top_cards:
 - name: Flooded Strand
   weight: 0.4444
   avg_copies: 2.25
+- name: Sheoldred's Edict
+  weight: 0.3333
+  avg_copies: 2.0
 - name: Prismatic Ending
   weight: 0.3333
   avg_copies: 2.0
 - name: Dawnbringer Cleric
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Sheoldred's Edict
   weight: 0.3333
   avg_copies: 2.0
 - name: Vexing Bauble
@@ -111,55 +111,55 @@ top_cards:
 - name: Polluted Delta
   weight: 0.2222
   avg_copies: 1.5
-- name: Elesh Norn, Mother of Machines
-  weight: 0.2222
-  avg_copies: 1.0
 - name: March of Otherworldly Light
-  weight: 0.2222
-  avg_copies: 1.0
-- name: Erode
   weight: 0.2222
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.2222
   avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
+  weight: 0.2222
+  avg_copies: 1.0
+- name: Erode
+  weight: 0.2222
+  avg_copies: 1.0
 - name: Orim's Chant
   weight: 0.1111
   avg_copies: 4.0
-- name: Deafening Silence
+- name: Faerie Macabre
   weight: 0.1111
   avg_copies: 3.0
 - name: Force of Despair
   weight: 0.1111
   avg_copies: 3.0
-- name: Faerie Macabre
+- name: Deafening Silence
   weight: 0.1111
   avg_copies: 3.0
-- name: Troll of Khazad-dûm
+- name: Windswept Heath
   weight: 0.1111
   avg_copies: 2.0
-- name: Duress
+- name: Troll of Khazad-dûm
   weight: 0.1111
   avg_copies: 2.0
 - name: End of the Hunt
   weight: 0.1111
   avg_copies: 2.0
+- name: Duress
+  weight: 0.1111
+  avg_copies: 2.0
 - name: Bloodstained Mire
   weight: 0.1111
   avg_copies: 2.0
-- name: Windswept Heath
-  weight: 0.1111
-  avg_copies: 2.0
-- name: Raucous Theater
+- name: Eiganjo, Seat of the Empire
   weight: 0.1111
   avg_copies: 1.0
 - name: Emptiness
   weight: 0.1111
   avg_copies: 1.0
-- name: Eiganjo, Seat of the Empire
+- name: Vindicate
   weight: 0.1111
   avg_copies: 1.0
-- name: Vindicate
+- name: Raucous Theater
   weight: 0.1111
   avg_copies: 1.0
 - name: Drannith Magistrate

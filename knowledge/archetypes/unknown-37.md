@@ -4,7 +4,13 @@ name: 'Unknown #37'
 meta_share: 0.0003
 list_count: 1
 top_cards:
-- name: Anticausal Vestige
+- name: Sowing Mycospawn
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ugin's Labyrinth
+  weight: 1.0
+  avg_copies: 4.0
+- name: Urza's Power Plant
   weight: 1.0
   avg_copies: 4.0
 - name: Roaming Throne
@@ -13,31 +19,25 @@ top_cards:
 - name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
-- name: Devourer of Destiny
-  weight: 1.0
-  avg_copies: 4.0
-- name: Urza's Power Plant
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ugin's Labyrinth
-  weight: 1.0
-  avg_copies: 4.0
-- name: Urza's Tower
-  weight: 1.0
-  avg_copies: 4.0
-- name: Eldrazi Temple
-  weight: 1.0
-  avg_copies: 4.0
-- name: Expedition Map
+- name: Urza's Mine
   weight: 1.0
   avg_copies: 4.0
 - name: Wastescape Battlemage
   weight: 1.0
   avg_copies: 4.0
-- name: Sowing Mycospawn
+- name: Urza's Tower
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Mine
+- name: Expedition Map
+  weight: 1.0
+  avg_copies: 4.0
+- name: Eldrazi Temple
+  weight: 1.0
+  avg_copies: 4.0
+- name: Devourer of Destiny
+  weight: 1.0
+  avg_copies: 4.0
+- name: Anticausal Vestige
   weight: 1.0
   avg_copies: 4.0
 - name: Talisman of Impulse
@@ -52,25 +52,22 @@ top_cards:
 - name: The Stone Brain
   weight: 1.0
   avg_copies: 2.0
-- name: Chalice of the Void
-  weight: 1.0
-  avg_copies: 2.0
-- name: Soulless Jailer
-  weight: 1.0
-  avg_copies: 2.0
-- name: Vexing Bauble
+- name: Pithing Needle
   weight: 1.0
   avg_copies: 2.0
 - name: World Breaker
   weight: 1.0
   avg_copies: 2.0
-- name: Pithing Needle
+- name: Soulless Jailer
   weight: 1.0
   avg_copies: 2.0
-- name: Sire of Seven Deaths
+- name: Chalice of the Void
   weight: 1.0
-  avg_copies: 1.0
-- name: Ulamog, the Ceaseless Hunger
+  avg_copies: 2.0
+- name: Vexing Bauble
+  weight: 1.0
+  avg_copies: 2.0
+- name: Emrakul, the Promised End
   weight: 1.0
   avg_copies: 1.0
 - name: Ulamog, the Infinite Gyre
@@ -79,10 +76,13 @@ top_cards:
 - name: Cavern of Souls
   weight: 1.0
   avg_copies: 1.0
-- name: Emrakul, the Promised End
+- name: Ulamog, the Ceaseless Hunger
   weight: 1.0
   avg_copies: 1.0
 - name: Forest
+  weight: 1.0
+  avg_copies: 1.0
+- name: Sire of Seven Deaths
   weight: 1.0
   avg_copies: 1.0
 ---

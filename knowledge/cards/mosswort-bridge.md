@@ -6,10 +6,10 @@ name: Mosswort Bridge
 scryfall_id: 1490c0dc-06d6-45ee-af3c-2935b0ab1233
 set: tdc
 type: Land
-meta_presence: 0.0046
+meta_presence: 0.0051
 archetypes:
   cosmogoyf-fling:
-    weight: 0.087
+    weight: 0.0833
     avg_copies: 1.5
   unknown-61:
     weight: 1.0

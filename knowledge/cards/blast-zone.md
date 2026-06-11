@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.0026
 archetypes:
   eldrazi-tron:
-    weight: 0.0213
+    weight: 0.0208
     avg_copies: 1.0
   boros-ponza:
     weight: 0.0097

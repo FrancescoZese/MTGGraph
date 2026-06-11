@@ -11,6 +11,6 @@ type: Sorcery // Sorcery
 meta_presence: 0.0009
 archetypes:
   cosmogoyf-fling:
-    weight: 0.1304
+    weight: 0.125
     avg_copies: 3.33
 ---

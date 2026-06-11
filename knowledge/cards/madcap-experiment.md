@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.0009
 archetypes:
   eldrazi-ramp:
-    weight: 0.0118
+    weight: 0.0115
     avg_copies: 3.0
   goryo0:
     weight: 0.0526

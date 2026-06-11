@@ -11,7 +11,7 @@ type: Instant
 meta_presence: 0.0177
 archetypes:
   ruby-storm:
-    weight: 0.0388
+    weight: 0.0385
     avg_copies: 1.5
   dimir-control:
     weight: 0.0247
@@ -45,7 +45,7 @@ archetypes:
     avg_copies: 2.0
   unknown-11:
     weight: 1.0
-    avg_copies: 1.25
+    avg_copies: 1.17
   unknown-15:
     weight: 1.0
     avg_copies: 4.0

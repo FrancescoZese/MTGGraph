@@ -6,9 +6,9 @@ name: Herigast, Erupting Nullkite
 scryfall_id: 7baf9549-1869-4bd3-a52a-2f0b30ba0b16
 set: mh3
 type: Legendary Creature — Eldrazi Dragon
-meta_presence: 0.0012
+meta_presence: 0.0011
 archetypes:
   eldrazi-ramp:
-    weight: 0.0471
+    weight: 0.046
     avg_copies: 1.5
 ---

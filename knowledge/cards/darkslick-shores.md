@@ -12,10 +12,13 @@ archetypes:
     weight: 0.4198
     avg_copies: 1.47
   mill:
-    weight: 0.0526
+    weight: 0.05
     avg_copies: 1.0
   esper-midrange:
     weight: 1.0
+    avg_copies: 1.0
+  goryo1:
+    weight: 0.0128
     avg_copies: 1.0
   unknown-20:
     weight: 1.0

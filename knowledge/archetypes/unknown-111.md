@@ -10,16 +10,16 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Consult the Star Charts
   weight: 1.0
   avg_copies: 4.0
-- name: Consult the Star Charts
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
 - name: Counterspell
   weight: 1.0
   avg_copies: 4.0
-- name: Orcish Bowmasters
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -34,10 +34,10 @@ top_cards:
 - name: Field of Ruin
   weight: 1.0
   avg_copies: 3.33
-- name: Mystical Dispute
+- name: Spell Snare
   weight: 1.0
   avg_copies: 3.0
-- name: Spell Snare
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 3.0
 - name: Watery Grave
@@ -46,67 +46,70 @@ top_cards:
 - name: Cling to Dust
   weight: 1.0
   avg_copies: 2.67
-- name: Scalding Tarn
-  weight: 1.0
-  avg_copies: 2.0
-- name: Undercity Sewers
+- name: Force of Negation
   weight: 1.0
   avg_copies: 2.0
 - name: Sheoldred's Edict
   weight: 1.0
   avg_copies: 2.0
-- name: Flooded Strand
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 2.0
-- name: Force of Negation
+- name: Scalding Tarn
+  weight: 1.0
+  avg_copies: 2.0
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 2.0
 - name: Nihil Spellbomb
   weight: 1.0
   avg_copies: 1.0
-- name: Snow-Covered Island
+- name: Meltdown
   weight: 0.6667
   avg_copies: 4.0
-- name: Meltdown
+- name: Snow-Covered Island
   weight: 0.6667
   avg_copies: 4.0
 - name: Harbinger of the Seas
   weight: 0.6667
   avg_copies: 2.0
-- name: Fire Magic
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Steam Vents
+- name: Snow-Covered Swamp
   weight: 0.6667
   avg_copies: 1.0
 - name: Misty Rainforest
   weight: 0.6667
   avg_copies: 1.0
-- name: Snow-Covered Swamp
+- name: Steam Vents
   weight: 0.6667
   avg_copies: 1.0
 - name: Thundering Falls
   weight: 0.6667
   avg_copies: 1.0
+- name: Fire Magic
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Island
+  weight: 0.3333
+  avg_copies: 2.0
 - name: Snapcaster Mage
   weight: 0.3333
   avg_copies: 2.0
 - name: Break the Ice
   weight: 0.3333
   avg_copies: 2.0
-- name: Island
-  weight: 0.3333
-  avg_copies: 2.0
 - name: Pest Control
   weight: 0.3333
   avg_copies: 1.5
-- name: Marsh Flats
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Teferi, Time Raveler
   weight: 0.3333
   avg_copies: 1.0
+- name: High Noon
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Hallowed Fountain
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Ghost Vacuum
   weight: 0.3333
   avg_copies: 1.0
 - name: Meticulous Archive
@@ -115,16 +118,13 @@ top_cards:
 - name: Erode
   weight: 0.3333
   avg_copies: 1.0
-- name: High Noon
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Kaito, Bane of Nightmares
   weight: 0.3333
   avg_copies: 1.0
-- name: Swamp
+- name: Marsh Flats
   weight: 0.3333
   avg_copies: 1.0
-- name: Ghost Vacuum
+- name: Swamp
   weight: 0.3333
   avg_copies: 1.0
 ---

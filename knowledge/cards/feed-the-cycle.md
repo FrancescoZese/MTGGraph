@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.002
 archetypes:
   mill:
-    weight: 0.3158
+    weight: 0.3
     avg_copies: 1.0
   goryo2:
     weight: 1.0

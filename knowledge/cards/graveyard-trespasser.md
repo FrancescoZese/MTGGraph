@@ -21,10 +21,10 @@ archetypes:
     weight: 0.0435
     avg_copies: 2.0
   simic-ritual:
-    weight: 0.0149
+    weight: 0.0147
     avg_copies: 2.0
   esper-blink:
-    weight: 0.0556
+    weight: 0.0545
     avg_copies: 2.0
   jund-saga:
     weight: 0.5
@@ -36,7 +36,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.0137
+    weight: 0.0128
     avg_copies: 2.0
   goryo5:
     weight: 0.5
@@ -58,7 +58,7 @@ archetypes:
     avg_copies: 1.0
   unknown-46:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.5
   unknown-52:
     weight: 0.1667
     avg_copies: 3.0

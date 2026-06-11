@@ -2,16 +2,16 @@
 colors:
 - G
 name: Amulet Titan
-meta_share: 0.031
+meta_share: 0.0306
 list_count: 107
 top_cards:
-- name: Arboreal Grazer
-  weight: 1.0
-  avg_copies: 4.0
 - name: Amulet of Vigor
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
+  weight: 1.0
+  avg_copies: 4.0
+- name: Arboreal Grazer
   weight: 1.0
   avg_copies: 4.0
 - name: Spelunking
@@ -41,10 +41,10 @@ top_cards:
 - name: Tolaria West
   weight: 1.0
   avg_copies: 1.01
-- name: Hanweir Battlements
+- name: Mirrorpool
   weight: 1.0
   avg_copies: 1.0
-- name: Mirrorpool
+- name: Hanweir Battlements
   weight: 1.0
   avg_copies: 1.0
 - name: Force of Vigor
@@ -71,10 +71,10 @@ top_cards:
 - name: Aftermath Analyst
   weight: 0.9533
   avg_copies: 1.14
-- name: Bojuka Bog
+- name: Urza's Cave
   weight: 0.9533
   avg_copies: 1.0
-- name: Urza's Cave
+- name: Bojuka Bog
   weight: 0.9533
   avg_copies: 1.0
 - name: Otawara, Soaring City
@@ -140,19 +140,19 @@ top_cards:
 - name: Skyline Cascade
   weight: 0.1682
   avg_copies: 1.0
-- name: Azusa, Lost but Seeking
+- name: Zuran Orb
   weight: 0.1215
   avg_copies: 1.0
-- name: Zuran Orb
+- name: Azusa, Lost but Seeking
   weight: 0.1215
   avg_copies: 1.0
 - name: Explore
   weight: 0.0841
   avg_copies: 3.22
-- name: Elder Gargaroth
+- name: Cephalid Coliseum
   weight: 0.0841
   avg_copies: 1.0
-- name: Cephalid Coliseum
+- name: Elder Gargaroth
   weight: 0.0841
   avg_copies: 1.0
 - name: Keen-Eyed Curator
@@ -182,16 +182,16 @@ top_cards:
 - name: Endurance
   weight: 0.028
   avg_copies: 1.33
-- name: Kessig Wolf Run
+- name: Pyroclasm
   weight: 0.028
   avg_copies: 1.0
 - name: Windswept Heath
   weight: 0.028
   avg_copies: 1.0
-- name: Pyroclasm
+- name: Insidious Fungus
   weight: 0.028
   avg_copies: 1.0
-- name: Insidious Fungus
+- name: Kessig Wolf Run
   weight: 0.028
   avg_copies: 1.0
 - name: Heritage Reclamation
@@ -200,25 +200,28 @@ top_cards:
 - name: Dryad of the Ilysian Grove
   weight: 0.0187
   avg_copies: 3.5
-- name: Hexdrinker
-  weight: 0.0187
-  avg_copies: 1.0
-- name: Ghost Quarter
+- name: Cavern of Souls
   weight: 0.0187
   avg_copies: 1.0
 - name: Valakut, the Molten Pinnacle
   weight: 0.0187
   avg_copies: 1.0
-- name: Cavern of Souls
+- name: Ghost Quarter
+  weight: 0.0187
+  avg_copies: 1.0
+- name: Hexdrinker
   weight: 0.0187
   avg_copies: 1.0
 - name: Defense Grid
   weight: 0.0093
   avg_copies: 3.0
-- name: Formidable Speaker
+- name: Lithomantic Barrage
   weight: 0.0093
   avg_copies: 1.0
 - name: Tormod's Crypt
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Titania, Protector of Argoth
   weight: 0.0093
   avg_copies: 1.0
 - name: Carnage Tyrant
@@ -227,19 +230,16 @@ top_cards:
 - name: Northampton Farm
   weight: 0.0093
   avg_copies: 1.0
-- name: Titania, Protector of Argoth
-  weight: 0.0093
-  avg_copies: 1.0
 - name: Dosan the Falling Leaf
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Lithomantic Barrage
   weight: 0.0093
   avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.0093
   avg_copies: 1.0
 - name: card:lumra-bellow-of-the-woods
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Formidable Speaker
   weight: 0.0093
   avg_copies: 1.0
 ---

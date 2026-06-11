@@ -6,22 +6,22 @@ name: 'Unknown #16'
 meta_share: 0.0009
 list_count: 3
 top_cards:
-- name: Orim's Chant
-  weight: 1.0
-  avg_copies: 4.0
-- name: Teferi, Time Raveler
+- name: Narset, Parter of Veils
   weight: 1.0
   avg_copies: 4.0
 - name: Thundertrap Trainer
   weight: 1.0
   avg_copies: 4.0
+- name: Teferi, Time Raveler
+  weight: 1.0
+  avg_copies: 4.0
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Orim's Chant
   weight: 1.0
   avg_copies: 4.0
-- name: Narset, Parter of Veils
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
@@ -30,52 +30,52 @@ top_cards:
 - name: Solitude
   weight: 1.0
   avg_copies: 3.0
-- name: Lórien Revealed
+- name: Stock Up
   weight: 1.0
   avg_copies: 3.0
-- name: Stock Up
+- name: Lórien Revealed
   weight: 1.0
   avg_copies: 3.0
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 2.33
-- name: Day's Undoing
+- name: High Noon
   weight: 1.0
   avg_copies: 2.0
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 2.0
-- name: Plains
-  weight: 1.0
-  avg_copies: 2.0
-- name: High Noon
+- name: Island
   weight: 1.0
   avg_copies: 2.0
 - name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 2.0
-- name: Island
+- name: Day's Undoing
+  weight: 1.0
+  avg_copies: 2.0
+- name: Plains
   weight: 1.0
   avg_copies: 2.0
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.67
-- name: Supreme Verdict
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Supreme Verdict
   weight: 1.0
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Prismatic Ending
+- name: Suppression Ray
   weight: 0.6667
   avg_copies: 4.0
-- name: Suppression Ray
+- name: Prismatic Ending
   weight: 0.6667
   avg_copies: 4.0
 - name: Temporary Lockdown
@@ -84,34 +84,34 @@ top_cards:
 - name: Wear
   weight: 0.6667
   avg_copies: 2.0
-- name: Scalding Tarn
+- name: Gemstone Caverns
   weight: 0.6667
   avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Scalding Tarn
   weight: 0.6667
   avg_copies: 1.0
 - name: Galvanic Discharge
   weight: 0.3333
   avg_copies: 4.0
-- name: Wrath of the Skies
-  weight: 0.3333
-  avg_copies: 2.0
 - name: Brought Back
   weight: 0.3333
   avg_copies: 2.0
-- name: Elegant Parlor
+- name: Wrath of the Skies
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Isochron Scepter
   weight: 0.3333
   avg_copies: 1.0
 - name: Geier Reach Sanitarium
   weight: 0.3333
   avg_copies: 1.0
-- name: Isochron Scepter
+- name: Monumental Henge
   weight: 0.3333
   avg_copies: 1.0
 - name: Thundering Falls
   weight: 0.3333
   avg_copies: 1.0
-- name: Monumental Henge
+- name: Elegant Parlor
   weight: 0.3333
   avg_copies: 1.0
 ---

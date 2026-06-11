@@ -9,25 +9,25 @@ name: 'Unknown #79'
 meta_share: 0.0014
 list_count: 5
 top_cards:
-- name: Leyline of the Guildpact
-  weight: 1.0
-  avg_copies: 4.0
 - name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
-- name: Scion of Draco
-  weight: 1.0
-  avg_copies: 4.0
-- name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Psychic Frog
+- name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
 - name: Wooded Foothills
   weight: 1.0
   avg_copies: 4.0
+- name: Psychic Frog
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lightning Bolt
+  weight: 1.0
+  avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
+  weight: 1.0
+  avg_copies: 4.0
+- name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline Binding
@@ -54,10 +54,10 @@ top_cards:
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.2
-- name: Forest
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
-- name: Temple Garden
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Indatha Triome
@@ -66,15 +66,12 @@ top_cards:
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Flooded Strand
   weight: 0.8
   avg_copies: 4.0
-- name: Pick Your Poison
-  weight: 0.8
-  avg_copies: 2.0
 - name: Mystical Dispute
   weight: 0.8
   avg_copies: 2.0
@@ -84,13 +81,16 @@ top_cards:
 - name: Wrath of the Skies
   weight: 0.8
   avg_copies: 2.0
+- name: Pick Your Poison
+  weight: 0.8
+  avg_copies: 2.0
 - name: Hidetsugu Consumes All
   weight: 0.8
   avg_copies: 1.75
 - name: Teferi, Time Raveler
   weight: 0.8
   avg_copies: 1.6
-- name: Arena of Glory
+- name: Watery Grave
   weight: 0.8
   avg_copies: 1.0
 - name: Sacred Foundry
@@ -99,7 +99,7 @@ top_cards:
 - name: Breeding Pool
   weight: 0.8
   avg_copies: 1.0
-- name: Watery Grave
+- name: Arena of Glory
   weight: 0.8
   avg_copies: 1.0
 - name: Damping Sphere
@@ -108,37 +108,37 @@ top_cards:
 - name: Polluted Delta
   weight: 0.2
   avg_copies: 4.0
-- name: Vexing Bauble
-  weight: 0.2
-  avg_copies: 2.0
-- name: Stubborn Denial
-  weight: 0.2
-  avg_copies: 2.0
 - name: Ashiok, Dream Render
   weight: 0.2
   avg_copies: 2.0
-- name: Drannith Magistrate
+- name: Vexing Bauble
   weight: 0.2
   avg_copies: 2.0
 - name: Wear
   weight: 0.2
   avg_copies: 2.0
-- name: Hallowed Fountain
+- name: Drannith Magistrate
   weight: 0.2
-  avg_copies: 1.0
-- name: Blood Crypt
+  avg_copies: 2.0
+- name: Stubborn Denial
   weight: 0.2
-  avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.2
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Shatterstorm
   weight: 0.2
   avg_copies: 1.0
 - name: High Noon
   weight: 0.2
   avg_copies: 1.0
+- name: Blood Crypt
+  weight: 0.2
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 0.2
+  avg_copies: 1.0
 - name: Overgrown Tomb
+  weight: 0.2
+  avg_copies: 1.0
+- name: Surgical Extraction
   weight: 0.2
   avg_copies: 1.0
 ---

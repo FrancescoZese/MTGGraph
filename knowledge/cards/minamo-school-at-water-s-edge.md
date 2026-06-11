@@ -9,7 +9,7 @@ type: Legendary Land
 meta_presence: 0.0043
 archetypes:
   affinity:
-    weight: 0.0032
+    weight: 0.0031
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.2581

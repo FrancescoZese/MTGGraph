@@ -19,25 +19,28 @@ archetypes:
     weight: 0.027
     avg_copies: 2.0
   azorius-control:
-    weight: 0.0244
+    weight: 0.0233
     avg_copies: 1.0
   affinity:
-    weight: 0.0631
+    weight: 0.0629
     avg_copies: 1.33
   mono-blue-tron:
     weight: 0.3846
     avg_copies: 1.4
   simic-ritual:
-    weight: 0.0149
+    weight: 0.0147
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0117
+    weight: 0.0114
     avg_copies: 2.0
   azorius-blink:
-    weight: 0.027
+    weight: 0.0256
     avg_copies: 1.0
   izzet-wizards:
     weight: 0.1111
+    avg_copies: 1.0
+  goryo1:
+    weight: 0.0128
     avg_copies: 1.0
   goryo7:
     weight: 1.0

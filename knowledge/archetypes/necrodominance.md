@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: Necrodominance
-meta_share: 0.0107
+meta_share: 0.0106
 list_count: 37
 top_cards:
 - name: Swamp
@@ -105,10 +105,10 @@ top_cards:
 - name: Marsh Flats
   weight: 0.1622
   avg_copies: 1.17
-- name: Ashiok, Dream Render
+- name: Disruptor Flute
   weight: 0.1351
   avg_copies: 1.6
-- name: Disruptor Flute
+- name: Ashiok, Dream Render
   weight: 0.1351
   avg_copies: 1.6
 - name: Undercity Sewers
@@ -132,13 +132,13 @@ top_cards:
 - name: Sorin, Imperious Bloodlord
   weight: 0.0541
   avg_copies: 4.0
-- name: Psychic Frog
-  weight: 0.0541
-  avg_copies: 4.0
 - name: Requiting Hex
   weight: 0.0541
   avg_copies: 4.0
 - name: Gonti's Machinations
+  weight: 0.0541
+  avg_copies: 4.0
+- name: Psychic Frog
   weight: 0.0541
   avg_copies: 4.0
 - name: Vein Ripper
@@ -165,13 +165,13 @@ top_cards:
 - name: The Filigree Sylex
   weight: 0.0541
   avg_copies: 1.5
-- name: Legion's End
-  weight: 0.0541
-  avg_copies: 1.0
 - name: Underground Mortuary
   weight: 0.0541
   avg_copies: 1.0
 - name: Slaughter Pact
+  weight: 0.0541
+  avg_copies: 1.0
+- name: Legion's End
   weight: 0.0541
   avg_copies: 1.0
 - name: Decorum Dissertation
@@ -186,7 +186,22 @@ top_cards:
 - name: Quantum Riddler
   weight: 0.027
   avg_copies: 3.0
+- name: Pillage the Bog
+  weight: 0.027
+  avg_copies: 2.0
+- name: Vexing Bauble
+  weight: 0.027
+  avg_copies: 2.0
+- name: Culling Ritual
+  weight: 0.027
+  avg_copies: 2.0
+- name: Overgrown Tomb
+  weight: 0.027
+  avg_copies: 2.0
 - name: Hurkyl's Recall
+  weight: 0.027
+  avg_copies: 2.0
+- name: Phyrexian Crusader
   weight: 0.027
   avg_copies: 2.0
 - name: Mai, Scornful Striker
@@ -198,37 +213,22 @@ top_cards:
 - name: End of the Hunt
   weight: 0.027
   avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 0.027
-  avg_copies: 2.0
-- name: Culling Ritual
-  weight: 0.027
-  avg_copies: 2.0
-- name: Phyrexian Crusader
-  weight: 0.027
-  avg_copies: 2.0
-- name: Pillage the Bog
-  weight: 0.027
-  avg_copies: 2.0
-- name: Overgrown Tomb
-  weight: 0.027
-  avg_copies: 2.0
-- name: Nurturing Peatland
-  weight: 0.027
-  avg_copies: 1.0
 - name: Shizo, Death's Storehouse
   weight: 0.027
   avg_copies: 1.0
-- name: Kaito, Bane of Nightmares
+- name: Nurturing Peatland
   weight: 0.027
   avg_copies: 1.0
 - name: Pick Your Poison
   weight: 0.027
   avg_copies: 1.0
+- name: Path of Peril
+  weight: 0.027
+  avg_copies: 1.0
 - name: Blood Crypt
   weight: 0.027
   avg_copies: 1.0
-- name: Path of Peril
+- name: Kaito, Bane of Nightmares
   weight: 0.027
   avg_copies: 1.0
 - name: Cling to Dust

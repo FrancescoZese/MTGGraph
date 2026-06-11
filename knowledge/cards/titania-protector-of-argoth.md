@@ -7,12 +7,12 @@ name: Titania, Protector of Argoth
 scryfall_id: 732c208b-cd9e-48a9-9b9d-aba63066ba53
 set: eoc
 type: Legendary Creature — Elemental
-meta_presence: 0.0006
+meta_presence: 0.0009
 archetypes:
   amulet-titan:
     weight: 0.0093
     avg_copies: 1.0
   unknown-93:
-    weight: 0.5
+    weight: 0.6667
     avg_copies: 1.0
 ---

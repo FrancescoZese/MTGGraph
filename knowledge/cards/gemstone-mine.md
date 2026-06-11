@@ -6,12 +6,12 @@ name: Gemstone Mine
 scryfall_id: ee152618-761f-43b4-942a-f63b16c182cc
 set: dmr
 type: Land
-meta_presence: 0.007
+meta_presence: 0.0071
 archetypes:
   neoform-combo:
     weight: 0.0417
     avg_copies: 4.0
   cosmogoyf-fling:
-    weight: 0.9565
+    weight: 0.9583
     avg_copies: 3.91
 ---

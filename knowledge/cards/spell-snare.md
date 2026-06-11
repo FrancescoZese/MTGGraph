@@ -7,10 +7,10 @@ name: Spell Snare
 scryfall_id: b7551b61-656e-4f37-b9da-73174db983b7
 set: ecl
 type: Instant
-meta_presence: 0.1182
+meta_presence: 0.1181
 archetypes:
   ruby-storm:
-    weight: 0.0097
+    weight: 0.0096
     avg_copies: 2.0
   dimir-control:
     weight: 0.9877
@@ -22,11 +22,11 @@ archetypes:
     weight: 0.1783
     avg_copies: 1.07
   goryo:
-    weight: 0.1769
-    avg_copies: 1.12
+    weight: 0.1818
+    avg_copies: 1.11
   azorius-control:
-    weight: 0.8537
-    avg_copies: 1.79
+    weight: 0.8372
+    avg_copies: 1.77
   jeskai-control:
     weight: 0.4138
     avg_copies: 1.5
@@ -34,7 +34,7 @@ archetypes:
     weight: 0.0063
     avg_copies: 1.0
   mill:
-    weight: 0.0526
+    weight: 0.05
     avg_copies: 2.0
   reanimator:
     weight: 0.037
@@ -46,10 +46,10 @@ archetypes:
     weight: 0.6923
     avg_copies: 2.56
   simic-ritual:
-    weight: 0.0149
-    avg_copies: 1.0
+    weight: 0.0294
+    avg_copies: 1.5
   izzet-prowess:
-    weight: 0.3743
+    weight: 0.3636
     avg_copies: 1.48
   4c-omnath:
     weight: 0.25
@@ -73,7 +73,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   goryo1:
-    weight: 0.1233
+    weight: 0.1154
     avg_copies: 1.3
   goryo2:
     weight: 1.0
@@ -159,6 +159,9 @@ archetypes:
   unknown-111:
     weight: 1.0
     avg_copies: 3.0
+  unknown-113:
+    weight: 0.5
+    avg_copies: 2.0
   unknown-120:
     weight: 0.5
     avg_copies: 3.0

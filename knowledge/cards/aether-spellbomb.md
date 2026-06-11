@@ -6,10 +6,10 @@ name: Aether Spellbomb
 scryfall_id: a54e8ce9-edd7-4ae7-9521-6fb6727cf63b
 set: jmp
 type: Artifact
-meta_presence: 0.0246
+meta_presence: 0.0243
 archetypes:
   affinity:
-    weight: 0.1703
+    weight: 0.1698
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.7419
