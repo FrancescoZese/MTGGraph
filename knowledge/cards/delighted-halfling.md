@@ -16,11 +16,11 @@ archetypes:
     weight: 0.25
     avg_copies: 3.0
   samwise-combo:
-    weight: 0.0238
+    weight: 0.0227
     avg_copies: 3.0
   broodscale-combo:
-    weight: 0.112
-    avg_copies: 2.71
+    weight: 0.1154
+    avg_copies: 2.73
   mono-green-ramp:
     weight: 0.6667
     avg_copies: 4.0

@@ -3,7 +3,7 @@ colors:
 - B
 - G
 name: Yawgmoth Combo
-meta_share: 0.0149
+meta_share: 0.0147
 list_count: 52
 top_cards:
 - name: Verdant Catacombs
@@ -63,10 +63,10 @@ top_cards:
 - name: Endurance
   weight: 1.0
   avg_copies: 1.04
-- name: Dryad Arbor
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
 - name: Windswept Heath
@@ -156,28 +156,28 @@ top_cards:
 - name: Assassin's Trophy
   weight: 0.0385
   avg_copies: 1.0
-- name: Nurturing Peatland
-  weight: 0.0192
-  avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 0.0192
-  avg_copies: 1.0
-- name: Spore Frog
+- name: Cankerbloom
   weight: 0.0192
   avg_copies: 1.0
 - name: Sylvan Safekeeper
   weight: 0.0192
   avg_copies: 1.0
-- name: Creeping Corrosion
+- name: Collector Ouphe
+  weight: 0.0192
+  avg_copies: 1.0
+- name: Nurturing Peatland
+  weight: 0.0192
+  avg_copies: 1.0
+- name: Spore Frog
   weight: 0.0192
   avg_copies: 1.0
 - name: Vicious Rivalry
   weight: 0.0192
   avg_copies: 1.0
-- name: Cankerbloom
+- name: Shifting Woodland
   weight: 0.0192
   avg_copies: 1.0
-- name: Shifting Woodland
+- name: Creeping Corrosion
   weight: 0.0192
   avg_copies: 1.0
 - name: Surgical Extraction

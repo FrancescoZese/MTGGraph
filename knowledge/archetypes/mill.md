@@ -6,10 +6,10 @@ name: Mill
 meta_share: 0.0057
 list_count: 20
 top_cards:
-- name: Ruin Crab
+- name: Archive Trap
   weight: 1.0
   avg_copies: 4.0
-- name: Archive Trap
+- name: Ruin Crab
   weight: 1.0
   avg_copies: 4.0
 - name: Hedron Crab
@@ -168,10 +168,10 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 0.1
   avg_copies: 2.0
-- name: Force of Negation
+- name: Damping Sphere
   weight: 0.1
   avg_copies: 1.5
-- name: Damping Sphere
+- name: Force of Negation
   weight: 0.1
   avg_copies: 1.5
 - name: Ashiok, Dream Render
@@ -180,37 +180,43 @@ top_cards:
 - name: Go for the Throat
   weight: 0.1
   avg_copies: 1.0
-- name: Path to Exile
-  weight: 0.05
-  avg_copies: 4.0
-- name: Erode
+- name: Trapmaker's Snare
   weight: 0.05
   avg_copies: 4.0
 - name: White Orchid Phantom
   weight: 0.05
   avg_copies: 4.0
-- name: Trapmaker's Snare
+- name: Erode
   weight: 0.05
   avg_copies: 4.0
-- name: Meltdown
+- name: Path to Exile
   weight: 0.05
-  avg_copies: 2.0
+  avg_copies: 4.0
 - name: Flare of Denial
-  weight: 0.05
-  avg_copies: 2.0
-- name: Spell Snare
   weight: 0.05
   avg_copies: 2.0
 - name: Vendetta
   weight: 0.05
   avg_copies: 2.0
-- name: Meticulous Archive
+- name: Meltdown
   weight: 0.05
-  avg_copies: 1.0
-- name: Plains
+  avg_copies: 2.0
+- name: Spell Snare
   weight: 0.05
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Steam Vents
+  weight: 0.05
+  avg_copies: 1.0
+- name: Ravenous Trap
+  weight: 0.05
+  avg_copies: 1.0
+- name: Darkslick Shores
+  weight: 0.05
+  avg_copies: 1.0
+- name: Prismatic Vista
+  weight: 0.05
+  avg_copies: 1.0
+- name: Meticulous Archive
   weight: 0.05
   avg_copies: 1.0
 - name: Hallowed Fountain
@@ -219,22 +225,16 @@ top_cards:
 - name: Illness in the Ranks
   weight: 0.05
   avg_copies: 1.0
-- name: Prismatic Vista
-  weight: 0.05
-  avg_copies: 1.0
-- name: Requiting Hex
-  weight: 0.05
-  avg_copies: 1.0
-- name: Ravenous Trap
-  weight: 0.05
-  avg_copies: 1.0
-- name: Mindbreak Trap
+- name: Plains
   weight: 0.05
   avg_copies: 1.0
 - name: Subtlety
   weight: 0.05
   avg_copies: 1.0
-- name: Darkslick Shores
+- name: Mindbreak Trap
+  weight: 0.05
+  avg_copies: 1.0
+- name: Requiting Hex
   weight: 0.05
   avg_copies: 1.0
 ---

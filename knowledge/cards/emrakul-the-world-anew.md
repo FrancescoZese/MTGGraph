@@ -6,10 +6,10 @@ name: Emrakul, the World Anew
 scryfall_id: b914bfd9-5be3-4459-a68a-9b3ea2747bbc
 set: mh3
 type: Legendary Creature — Eldrazi
-meta_presence: 0.0009
+meta_presence: 0.0008
 archetypes:
   eldrazi-tron:
-    weight: 0.0139
+    weight: 0.0138
     avg_copies: 2.0
   unknown-134:
     weight: 1.0

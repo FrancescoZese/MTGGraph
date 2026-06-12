@@ -6,14 +6,14 @@ name: Soul-Guide Lantern
 scryfall_id: f4907e7b-d6d5-4e9b-968f-bce34ae4a577
 set: eoc
 type: Artifact
-meta_presence: 0.0958
+meta_presence: 0.0975
 archetypes:
   ruby-storm:
-    weight: 0.0192
+    weight: 0.0189
     avg_copies: 2.0
   boros-energy:
-    weight: 0.1008
-    avg_copies: 1.12
+    weight: 0.106
+    avg_copies: 1.11
   dimir-control:
     weight: 0.0247
     avg_copies: 1.0
@@ -21,16 +21,16 @@ archetypes:
     weight: 0.2248
     avg_copies: 1.55
   eldrazi-tron:
-    weight: 0.0139
+    weight: 0.0138
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.2336
+    weight: 0.2315
     avg_copies: 1.0
   goryo:
-    weight: 0.0076
+    weight: 0.0074
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0698
+    weight: 0.0682
     avg_copies: 2.67
   jeskai-control:
     weight: 0.3793
@@ -45,22 +45,22 @@ archetypes:
     weight: 0.0645
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.0777
+    weight: 0.0769
     avg_copies: 1.88
   eldrazi-ramp:
-    weight: 0.1149
+    weight: 0.1136
     avg_copies: 1.0
   simic-ritual:
     weight: 0.0147
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0795
+    weight: 0.0843
     avg_copies: 1.07
   esper-blink:
-    weight: 0.0182
+    weight: 0.0175
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.88
+    weight: 0.8846
     avg_copies: 1.09
   azorius-blink:
     weight: 0.0513
@@ -78,13 +78,13 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.0128
+    weight: 0.0122
     avg_copies: 1.0
   unknown-10:
     weight: 1.0
     avg_copies: 1.0
   unknown-11:
-    weight: 0.75
+    weight: 0.6
     avg_copies: 1.33
   unknown-15:
     weight: 1.0
@@ -104,6 +104,9 @@ archetypes:
   unknown-43:
     weight: 1.0
     avg_copies: 1.0
+  unknown-61:
+    weight: 0.0588
+    avg_copies: 2.0
   unknown-55:
     weight: 1.0
     avg_copies: 1.0

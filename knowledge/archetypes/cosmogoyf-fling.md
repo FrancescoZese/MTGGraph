@@ -4,13 +4,13 @@ colors:
 - R
 - G
 name: Cosmogoyf Fling
-meta_share: 0.0069
+meta_share: 0.0068
 list_count: 24
 top_cards:
-- name: Thud
+- name: Plunge into Darkness
   weight: 1.0
   avg_copies: 4.0
-- name: Plunge into Darkness
+- name: Thud
   weight: 1.0
   avg_copies: 4.0
 - name: Spoils of the Vault
@@ -79,10 +79,10 @@ top_cards:
 - name: Callous Sell-Sword
   weight: 0.4583
   avg_copies: 1.0
-- name: Aloe Alchemist
+- name: Disciple of Freyalise
   weight: 0.3333
   avg_copies: 1.0
-- name: Disciple of Freyalise
+- name: Aloe Alchemist
   weight: 0.3333
   avg_copies: 1.0
 - name: Fatal Push
@@ -115,31 +115,31 @@ top_cards:
 - name: Mosswort Bridge
   weight: 0.0833
   avg_copies: 1.5
-- name: Ghor-Clan Rampager
+- name: Thrun, the Last Troll
   weight: 0.0833
   avg_copies: 1.0
 - name: Leyline of the Void
   weight: 0.0833
   avg_copies: 1.0
-- name: Thrun, the Last Troll
+- name: Ghor-Clan Rampager
   weight: 0.0833
   avg_copies: 1.0
 - name: Mana Confluence
   weight: 0.0417
   avg_copies: 4.0
-- name: Duress
-  weight: 0.0417
-  avg_copies: 2.0
 - name: Death's Shadow
   weight: 0.0417
   avg_copies: 2.0
-- name: Disruptor Flute
+- name: Duress
   weight: 0.0417
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Kaheera, the Orphanguard
   weight: 0.0417
   avg_copies: 1.0
 - name: Mountain
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Disruptor Flute
   weight: 0.0417
   avg_copies: 1.0
 - name: Chancellor of the Dross

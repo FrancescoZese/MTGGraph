@@ -7,14 +7,14 @@ name: Fatal Push
 scryfall_id: 6e9d8fe4-fd9b-4923-92bf-7dd6b8fa02e7
 set: 2xm
 type: Instant
-meta_presence: 0.1681
+meta_presence: 0.1693
 archetypes:
   dimir-control:
     weight: 1.0
     avg_copies: 3.8
   goryo:
-    weight: 0.2803
-    avg_copies: 1.4
+    weight: 0.2794
+    avg_copies: 1.39
   necrodominance:
     weight: 0.9189
     avg_copies: 3.97
@@ -37,14 +37,14 @@ archetypes:
     weight: 0.0441
     avg_copies: 2.33
   izzet-prowess:
-    weight: 0.0114
+    weight: 0.0112
     avg_copies: 1.5
   esper-blink:
-    weight: 0.9636
+    weight: 0.9649
     avg_copies: 3.53
   samwise-combo:
-    weight: 0.4048
-    avg_copies: 2.24
+    weight: 0.4091
+    avg_copies: 2.22
   indomitable-creativity:
     weight: 0.3
     avg_copies: 3.33
@@ -141,6 +141,9 @@ archetypes:
   unknown-36:
     weight: 1.0
     avg_copies: 4.0
+  unknown-45:
+    weight: 0.0588
+    avg_copies: 2.0
   unknown-46:
     weight: 1.0
     avg_copies: 4.0
@@ -163,7 +166,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-68:
-    weight: 0.9545
+    weight: 0.9565
     avg_copies: 1.91
   unknown-69:
     weight: 1.0

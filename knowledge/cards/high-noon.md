@@ -10,8 +10,8 @@ type: Enchantment
 meta_presence: 0.2371
 archetypes:
   boros-energy:
-    weight: 0.7117
-    avg_copies: 1.56
+    weight: 0.714
+    avg_copies: 1.57
   dimir-control:
     weight: 0.1111
     avg_copies: 1.78
@@ -22,10 +22,10 @@ archetypes:
     weight: 0.0069
     avg_copies: 1.0
   goryo:
-    weight: 0.0076
+    weight: 0.0074
     avg_copies: 1.0
   azorius-control:
-    weight: 0.814
+    weight: 0.8182
     avg_copies: 1.94
   living-end:
     weight: 0.0377
@@ -40,13 +40,13 @@ archetypes:
     weight: 0.913
     avg_copies: 2.05
   boros-ponza:
-    weight: 0.9515
-    avg_copies: 2.32
+    weight: 0.9519
+    avg_copies: 2.33
   esper-blink:
-    weight: 0.8364
+    weight: 0.8421
     avg_copies: 2.17
   samwise-combo:
-    weight: 0.2143
+    weight: 0.2045
     avg_copies: 1.78
   indomitable-creativity:
     weight: 0.4
@@ -100,14 +100,14 @@ archetypes:
     weight: 1.0
     avg_copies: 3.91
   unknown-47:
-    weight: 0.0345
+    weight: 0.0333
     avg_copies: 1.0
   unknown-62:
     weight: 0.25
     avg_copies: 1.75
   unknown-68:
-    weight: 0.7727
-    avg_copies: 1.76
+    weight: 0.7826
+    avg_copies: 1.78
   unknown-70:
     weight: 1.0
     avg_copies: 1.67
@@ -150,4 +150,7 @@ archetypes:
   unknown-129:
     weight: 1.0
     avg_copies: 2.0
+  unknown-136:
+    weight: 1.0
+    avg_copies: 4.0
 ---

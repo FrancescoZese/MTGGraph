@@ -134,15 +134,6 @@ top_cards:
 - name: Natural State
   weight: 0.1111
   avg_copies: 1.0
-- name: Stitcher's Supplier
-  weight: 0.0556
-  avg_copies: 4.0
-- name: Vengevine
-  weight: 0.0556
-  avg_copies: 4.0
-- name: Hedron Crab
-  weight: 0.0556
-  avg_copies: 4.0
 - name: Blazing Rootwalla
   weight: 0.0556
   avg_copies: 4.0
@@ -152,24 +143,39 @@ top_cards:
 - name: Prized Amalgam
   weight: 0.0556
   avg_copies: 4.0
+- name: Hedron Crab
+  weight: 0.0556
+  avg_copies: 4.0
+- name: Stitcher's Supplier
+  weight: 0.0556
+  avg_copies: 4.0
+- name: Vengevine
+  weight: 0.0556
+  avg_copies: 4.0
 - name: Silversmote Ghoul
-  weight: 0.0556
-  avg_copies: 3.0
-- name: Gemstone Caverns
-  weight: 0.0556
-  avg_copies: 3.0
-- name: Seal of Fire
   weight: 0.0556
   avg_copies: 3.0
 - name: Darkblast
   weight: 0.0556
   avg_copies: 3.0
-- name: Narcomoeba
-  weight: 0.0556
-  avg_copies: 3.0
 - name: Snow-Covered Mountain
   weight: 0.0556
   avg_copies: 3.0
+- name: Seal of Fire
+  weight: 0.0556
+  avg_copies: 3.0
+- name: Gemstone Caverns
+  weight: 0.0556
+  avg_copies: 3.0
+- name: Narcomoeba
+  weight: 0.0556
+  avg_copies: 3.0
+- name: Damping Sphere
+  weight: 0.0556
+  avg_copies: 2.0
+- name: Timeline Culler
+  weight: 0.0556
+  avg_copies: 2.0
 - name: Molten Collapse
   weight: 0.0556
   avg_copies: 2.0
@@ -179,34 +185,28 @@ top_cards:
 - name: Leyline of the Void
   weight: 0.0556
   avg_copies: 2.0
-- name: Damping Sphere
-  weight: 0.0556
-  avg_copies: 2.0
-- name: Timeline Culler
-  weight: 0.0556
-  avg_copies: 2.0
 - name: Fire Magic
   weight: 0.0556
   avg_copies: 2.0
-- name: Cephalid Coliseum
+- name: Watery Grave
   weight: 0.0556
   avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.0556
   avg_copies: 1.0
-- name: Watery Grave
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Detective's Phoenix
+- name: Rough
   weight: 0.0556
   avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 0.0556
   avg_copies: 1.0
-- name: Shenanigans
+- name: Detective's Phoenix
   weight: 0.0556
   avg_copies: 1.0
-- name: Rough
+- name: Cephalid Coliseum
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Shenanigans
   weight: 0.0556
   avg_copies: 1.0
 - name: Illness in the Ranks

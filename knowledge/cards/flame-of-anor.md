@@ -8,10 +8,10 @@ name: Flame of Anor
 scryfall_id: 04779a7e-b453-48b9-b392-6d6fd0b8d283
 set: ltr
 type: Instant
-meta_presence: 0.0177
+meta_presence: 0.0178
 archetypes:
   ruby-storm:
-    weight: 0.0385
+    weight: 0.0377
     avg_copies: 1.5
   dimir-control:
     weight: 0.0247
@@ -45,7 +45,7 @@ archetypes:
     avg_copies: 2.0
   unknown-11:
     weight: 1.0
-    avg_copies: 1.17
+    avg_copies: 1.14
   unknown-15:
     weight: 1.0
     avg_copies: 4.0
@@ -62,7 +62,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-65:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 4.0
   unknown-82:
     weight: 1.0

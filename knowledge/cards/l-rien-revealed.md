@@ -7,14 +7,14 @@ name: Lórien Revealed
 scryfall_id: 0ce44270-a684-4489-9077-521456e6dfaa
 set: ltr
 type: Sorcery
-meta_presence: 0.0214
+meta_presence: 0.0215
 archetypes:
   dimir-control:
     weight: 0.0123
     avg_copies: 1.0
   azorius-control:
-    weight: 0.7209
-    avg_copies: 1.55
+    weight: 0.7273
+    avg_copies: 1.53
   jeskai-control:
     weight: 0.5862
     avg_copies: 1.24
@@ -52,7 +52,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-65:
-    weight: 0.1304
+    weight: 0.125
     avg_copies: 2.0
   unknown-99:
     weight: 1.0

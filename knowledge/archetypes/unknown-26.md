@@ -6,10 +6,10 @@ name: 'Unknown #26'
 meta_share: 0.0031
 list_count: 11
 top_cards:
-- name: Cleansing Wildfire
+- name: Demolition Field
   weight: 1.0
   avg_copies: 4.0
-- name: Demolition Field
+- name: Cleansing Wildfire
   weight: 1.0
   avg_copies: 4.0
 - name: Field of Ruin
@@ -18,16 +18,16 @@ top_cards:
 - name: Path to Exile
   weight: 1.0
   avg_copies: 4.0
-- name: High Noon
-  weight: 1.0
-  avg_copies: 3.91
 - name: Price of Freedom
   weight: 1.0
   avg_copies: 3.91
-- name: Solitude
+- name: High Noon
   weight: 1.0
   avg_copies: 3.91
 - name: Wrath of the Skies
+  weight: 1.0
+  avg_copies: 3.91
+- name: Solitude
   weight: 1.0
   avg_copies: 3.91
 - name: Wrath of God
@@ -78,16 +78,16 @@ top_cards:
 - name: Sacred Foundry
   weight: 0.2727
   avg_copies: 2.0
-- name: Arid Mesa
-  weight: 0.1818
-  avg_copies: 4.0
 - name: Mazemind Tome
   weight: 0.1818
   avg_copies: 4.0
-- name: Reprieve
+- name: Arid Mesa
+  weight: 0.1818
+  avg_copies: 4.0
+- name: Mishra's Research Desk
   weight: 0.1818
   avg_copies: 3.5
-- name: Mishra's Research Desk
+- name: Reprieve
   weight: 0.1818
   avg_copies: 3.5
 - name: Wear
@@ -123,9 +123,6 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 0.0909
   avg_copies: 3.0
-- name: Kor Firewalker
-  weight: 0.0909
-  avg_copies: 2.0
 - name: Hallowed Moonlight
   weight: 0.0909
   avg_copies: 2.0
@@ -133,6 +130,9 @@ top_cards:
   weight: 0.0909
   avg_copies: 2.0
 - name: Beza, the Bounding Spring
+  weight: 0.0909
+  avg_copies: 2.0
+- name: Kor Firewalker
   weight: 0.0909
   avg_copies: 2.0
 - name: Elixir of Immortality

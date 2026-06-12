@@ -10,12 +10,12 @@ type: Instant
 meta_presence: 0.0014
 archetypes:
   ruby-storm:
-    weight: 0.0288
+    weight: 0.0283
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0057
+    weight: 0.0056
     avg_copies: 1.0
   goryo1:
-    weight: 0.0128
+    weight: 0.0122
     avg_copies: 1.0
 ---

@@ -10,8 +10,8 @@ type: Sorcery
 meta_presence: 0.0415
 archetypes:
   ruby-storm:
-    weight: 0.5577
-    avg_copies: 1.43
+    weight: 0.5566
+    avg_copies: 1.42
   reanimator:
     weight: 0.1111
     avg_copies: 1.67
@@ -19,7 +19,7 @@ archetypes:
     weight: 0.75
     avg_copies: 2.56
   boros-ponza:
-    weight: 0.0874
+    weight: 0.0865
     avg_copies: 1.0
   4c-omnath:
     weight: 0.25
@@ -40,7 +40,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-11:
-    weight: 1.0
+    weight: 0.8
     avg_copies: 1.25
   unknown-8:
     weight: 0.5
@@ -49,7 +49,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-65:
-    weight: 0.9565
+    weight: 0.9167
     avg_copies: 2.18
   unknown-67:
     weight: 0.3571
@@ -63,4 +63,7 @@ archetypes:
   unknown-121:
     weight: 1.0
     avg_copies: 1.5
+  unknown-136:
+    weight: 1.0
+    avg_copies: 2.0
 ---

@@ -10,6 +10,6 @@ type: Sorcery — Lesson
 meta_presence: 0.0011
 archetypes:
   samwise-combo:
-    weight: 0.0952
+    weight: 0.0909
     avg_copies: 1.0
 ---

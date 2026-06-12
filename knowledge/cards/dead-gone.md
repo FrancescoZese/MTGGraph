@@ -7,17 +7,17 @@ name: Dead // Gone
 scryfall_id: 45b090c7-f1ba-4656-8b51-915fc1876922
 set: tsr
 type: Instant // Instant
-meta_presence: 0.0097
+meta_presence: 0.0099
 archetypes:
   boros-ponza:
-    weight: 0.0097
+    weight: 0.0096
     avg_copies: 1.0
   simic-ritual:
     weight: 0.0147
     avg_copies: 1.0
   unknown-65:
     weight: 1.0
-    avg_copies: 3.61
+    avg_copies: 3.62
   unknown-67:
     weight: 0.1905
     avg_copies: 2.12

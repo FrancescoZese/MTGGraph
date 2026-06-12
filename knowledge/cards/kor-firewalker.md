@@ -16,7 +16,7 @@ archetypes:
     weight: 0.0385
     avg_copies: 2.0
   boros-ponza:
-    weight: 0.0194
+    weight: 0.0192
     avg_copies: 2.0
   unknown-26:
     weight: 0.0909

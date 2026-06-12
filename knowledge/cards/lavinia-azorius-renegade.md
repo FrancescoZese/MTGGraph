@@ -11,7 +11,7 @@ type: Legendary Creature — Human Soldier
 meta_presence: 0.0054
 archetypes:
   samwise-combo:
-    weight: 0.2381
+    weight: 0.2273
     avg_copies: 1.0
   azorius-blink:
     weight: 0.0513
