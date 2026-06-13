@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: Hammer Time
-meta_share: 0.0023
+meta_share: 0.0022
 list_count: 8
 top_cards:
 - name: Colossus Hammer
@@ -90,10 +90,10 @@ top_cards:
 - name: Portable Hole
   weight: 0.375
   avg_copies: 2.2
-- name: Suncleanser
+- name: Damping Sphere
   weight: 0.375
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Suncleanser
   weight: 0.375
   avg_copies: 2.0
 - name: Teferi, Time Raveler
@@ -111,10 +111,10 @@ top_cards:
 - name: Cryptic Coat
   weight: 0.375
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Stern Scolding
   weight: 0.375
   avg_copies: 1.0
-- name: Stern Scolding
+- name: Grafdigger's Cage
   weight: 0.375
   avg_copies: 1.0
 - name: Memnite
@@ -138,13 +138,13 @@ top_cards:
 - name: Containment Priest
   weight: 0.125
   avg_copies: 2.0
+- name: Prismatic Ending
+  weight: 0.125
+  avg_copies: 1.0
 - name: Skateboard
   weight: 0.125
   avg_copies: 1.0
 - name: Soul-Guide Lantern
-  weight: 0.125
-  avg_copies: 1.0
-- name: Prismatic Ending
   weight: 0.125
   avg_copies: 1.0
 - name: Paradise Mantle

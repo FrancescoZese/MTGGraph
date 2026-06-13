@@ -5,7 +5,7 @@ colors:
 - B
 - G
 name: Samwise Combo
-meta_share: 0.0124
+meta_share: 0.0123
 list_count: 44
 top_cards:
 - name: Birthing Ritual
@@ -50,13 +50,13 @@ top_cards:
 - name: Forest
   weight: 1.0
   avg_copies: 1.05
-- name: Godless Shrine
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
 - name: Lush Portico
   weight: 1.0
   avg_copies: 1.0
-- name: Dryad Arbor
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
 - name: Endurance
@@ -71,10 +71,10 @@ top_cards:
 - name: Suncleanser
   weight: 0.8182
   avg_copies: 1.17
-- name: Gaddock Teeg
+- name: Haywire Mite
   weight: 0.8182
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Gaddock Teeg
   weight: 0.8182
   avg_copies: 1.0
 - name: Malevolent Rumble
@@ -152,10 +152,10 @@ top_cards:
 - name: Marionette Apprentice
   weight: 0.1818
   avg_copies: 2.0
-- name: Dauthi Voidwalker
+- name: Soulless Jailer
   weight: 0.1818
   avg_copies: 1.0
-- name: Soulless Jailer
+- name: Dauthi Voidwalker
   weight: 0.1818
   avg_copies: 1.0
 - name: Swamp
@@ -167,28 +167,28 @@ top_cards:
 - name: Wall of Roots
   weight: 0.1364
   avg_copies: 2.0
-- name: Origin of Metalbending
+- name: Sephiroth, Fabled SOLDIER
   weight: 0.1364
   avg_copies: 1.0
-- name: Decorum Dissertation
+- name: Origin of Metalbending
   weight: 0.1364
   avg_copies: 1.0
 - name: Professor of Symbology
   weight: 0.1364
   avg_copies: 1.0
+- name: Boggart Trawler
+  weight: 0.1364
+  avg_copies: 1.0
 - name: Ruinous Waterbending
+  weight: 0.1364
+  avg_copies: 1.0
+- name: Decorum Dissertation
   weight: 0.1364
   avg_copies: 1.0
 - name: True Ancestry
   weight: 0.1364
   avg_copies: 1.0
-- name: Sephiroth, Fabled SOLDIER
-  weight: 0.1364
-  avg_copies: 1.0
 - name: Surgical Extraction
-  weight: 0.1364
-  avg_copies: 1.0
-- name: Boggart Trawler
   weight: 0.1364
   avg_copies: 1.0
 - name: Abrupt Decay
@@ -218,13 +218,13 @@ top_cards:
 - name: Dawnbringer Cleric
   weight: 0.0909
   avg_copies: 1.0
-- name: Mistcaller
-  weight: 0.0909
-  avg_copies: 1.0
 - name: Dai Li Indoctrination
   weight: 0.0909
   avg_copies: 1.0
 - name: Reduce to Memory
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Mistcaller
   weight: 0.0909
   avg_copies: 1.0
 - name: Chthonian Nightmare
@@ -242,22 +242,22 @@ top_cards:
 - name: Path to Exile
   weight: 0.0455
   avg_copies: 1.5
-- name: Portable Hole
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Seam Rip
+- name: Pile On
   weight: 0.0455
   avg_copies: 1.0
 - name: Boromir, Warden of the Tower
   weight: 0.0455
   avg_copies: 1.0
+- name: Seam Rip
+  weight: 0.0455
+  avg_copies: 1.0
 - name: Renegade Rallier
   weight: 0.0455
   avg_copies: 1.0
-- name: Enter the Avatar State
+- name: Portable Hole
   weight: 0.0455
   avg_copies: 1.0
-- name: Pile On
+- name: Enter the Avatar State
   weight: 0.0455
   avg_copies: 1.0
 - name: Delighted Halfling
@@ -269,16 +269,37 @@ top_cards:
 - name: card:severance-priest
   weight: 0.0227
   avg_copies: 2.0
+- name: Professor Dellian Fel
+  weight: 0.0227
+  avg_copies: 2.0
 - name: Haliya, Guided by Light
   weight: 0.0227
   avg_copies: 2.0
 - name: Fade from History
   weight: 0.0227
   avg_copies: 2.0
-- name: Professor Dellian Fel
+- name: Heroic Intervention
   weight: 0.0227
-  avg_copies: 2.0
-- name: Icetill Explorer
+  avg_copies: 1.0
+- name: Deafening Silence
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Horizon Canopy
+  weight: 0.0227
+  avg_copies: 1.0
+- name: card:masked-vandal
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Veil of Summer
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Vraska, Golgari Queen
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Formidable Speaker
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Mai, Scornful Striker
   weight: 0.0227
   avg_copies: 1.0
 - name: Kraul Harpooner
@@ -287,34 +308,13 @@ top_cards:
 - name: Strategic Betrayal
   weight: 0.0227
   avg_copies: 1.0
+- name: Icetill Explorer
+  weight: 0.0227
+  avg_copies: 1.0
 - name: Warren Soultrader
   weight: 0.0227
   avg_copies: 1.0
-- name: card:masked-vandal
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Mai, Scornful Striker
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Veil of Summer
-  weight: 0.0227
-  avg_copies: 1.0
 - name: Harsh Annotation
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Formidable Speaker
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Vraska, Golgari Queen
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Deafening Silence
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Heroic Intervention
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Horizon Canopy
   weight: 0.0227
   avg_copies: 1.0
 ---

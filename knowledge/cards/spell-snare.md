@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.1179
 archetypes:
   ruby-storm:
-    weight: 0.0094
+    weight: 0.0093
     avg_copies: 2.0
   dimir-control:
     weight: 0.9877
@@ -22,25 +22,25 @@ archetypes:
     weight: 0.1783
     avg_copies: 1.07
   goryo:
-    weight: 0.1838
-    avg_copies: 1.11
+    weight: 0.1986
+    avg_copies: 1.16
   azorius-control:
-    weight: 0.8182
+    weight: 0.8
     avg_copies: 1.77
   jeskai-control:
     weight: 0.4138
     avg_copies: 1.5
   affinity:
-    weight: 0.0063
+    weight: 0.0062
     avg_copies: 1.0
   mill:
-    weight: 0.05
+    weight: 0.0435
     avg_copies: 2.0
   reanimator:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0625
+    weight: 0.0612
     avg_copies: 1.67
   mono-blue-tron:
     weight: 0.6923
@@ -49,7 +49,7 @@ archetypes:
     weight: 0.0294
     avg_copies: 1.5
   izzet-prowess:
-    weight: 0.3652
+    weight: 0.3631
     avg_copies: 1.49
   4c-omnath:
     weight: 0.25
@@ -152,7 +152,7 @@ archetypes:
     avg_copies: 2.0
   unknown-106:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.33
   unknown-107:
     weight: 1.0
     avg_copies: 2.0

@@ -1,0 +1,50 @@
+---
+archetype: mill
+date: '2026-06-12'
+finish: 9th
+pilot: tibalt_of_red_sub
+source: MTGO Modern Challenge 64
+---
+
+
+# Mainboard
+1 Undercity Sewers
+3 Visions of Beyond
+4 Hedron Crab
+4 Archive Trap
+4 Fatal Push
+1 Watery Grave
+1 Scalding Tarn
+4 Polluted Delta
+1 Shelldock Isle
+2 Snow-Covered Island
+4 Field of Ruin
+1 Mikokoro, Center of the Sea
+1 Snow-Covered Swamp
+1 Oboro, Palace in the Clouds
+3 Surgical Extraction
+3 Tasha's Hideous Laughter
+4 Fractured Sanity
+4 Drown in the Loch
+4 Ruin Crab
+1 Otawara, Soaring City
+1 Cephalid Coliseum
+1 Murderous Cut
+1 Jace, the Perfected Mind
+1 Swamp
+2 Island
+1 Echoing Truth
+1 Baleful Mastery
+1 Glimpse the Unthinkable
+
+# Sideboard
+3 Extirpate
+2 Ghost Quarter
+2 Soul-Guide Lantern
+2 Ensnaring Bridge
+1 The Meathook Massacre
+1 Go for the Throat
+1 Damnation
+1 Long Goodbye
+1 Crypt Incursion
+1 Ashiok, Dream Render

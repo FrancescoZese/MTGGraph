@@ -7,13 +7,13 @@ name: Deafening Silence
 scryfall_id: 6072d9b0-d3c7-46f4-bd24-095bb13c4dea
 set: eld
 type: Enchantment
-meta_presence: 0.0226
+meta_presence: 0.0224
 archetypes:
   boros-energy:
-    weight: 0.032
+    weight: 0.0319
     avg_copies: 1.75
   goryo:
-    weight: 0.0368
+    weight: 0.0355
     avg_copies: 1.6
   living-end:
     weight: 0.1698
@@ -22,13 +22,13 @@ archetypes:
     weight: 0.0385
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0175
+    weight: 0.0172
     avg_copies: 3.0
   samwise-combo:
     weight: 0.0227
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0077
+    weight: 0.0076
     avg_copies: 2.0
   orzhov-blink:
     weight: 0.1111

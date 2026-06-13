@@ -15,13 +15,13 @@ archetypes:
     weight: 0.062
     avg_copies: 1.0
   affinity:
-    weight: 0.0156
+    weight: 0.0155
     avg_copies: 1.4
   mill:
-    weight: 0.35
-    avg_copies: 2.57
+    weight: 0.3478
+    avg_copies: 2.5
   neoform-combo:
-    weight: 0.8542
+    weight: 0.8367
     avg_copies: 1.02
   mono-blue-tron:
     weight: 0.1538
@@ -30,7 +30,7 @@ archetypes:
     weight: 0.9706
     avg_copies: 1.91
   esper-blink:
-    weight: 0.0351
+    weight: 0.0345
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.0323

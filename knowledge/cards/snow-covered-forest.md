@@ -6,19 +6,19 @@ name: Snow-Covered Forest
 scryfall_id: ca17acea-f079-4e53-8176-a2f5c5c408a1
 set: khm
 type: Basic Snow Land — Forest
-meta_presence: 0.0325
+meta_presence: 0.0322
 archetypes:
   eldrazi-tron:
-    weight: 0.0069
+    weight: 0.0068
     avg_copies: 2.0
   neoform-combo:
-    weight: 0.8542
+    weight: 0.8367
     avg_copies: 1.2
   simic-ritual:
     weight: 0.9706
     avg_copies: 2.02
   broodscale-combo:
-    weight: 0.0154
+    weight: 0.0153
     avg_copies: 2.0
   unknown-60:
     weight: 1.0

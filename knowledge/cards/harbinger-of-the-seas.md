@@ -7,7 +7,7 @@ name: Harbinger of the Seas
 scryfall_id: 00212714-a410-4cbc-bf1c-f90d7d77378c
 set: mh3
 type: Creature — Merfolk Wizard
-meta_presence: 0.1057
+meta_presence: 0.105
 archetypes:
   dimir-control:
     weight: 0.679
@@ -22,8 +22,8 @@ archetypes:
     weight: 0.0345
     avg_copies: 2.0
   affinity:
-    weight: 0.3
-    avg_copies: 1.25
+    weight: 0.3012
+    avg_copies: 1.26
   reanimator:
     weight: 0.1481
     avg_copies: 1.5
@@ -91,7 +91,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-106:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 2.0
   unknown-108:
     weight: 1.0

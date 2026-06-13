@@ -7,10 +7,10 @@ name: Soul Partition
 scryfall_id: 28bb8ec0-9729-4aa1-8ce4-a3a5598b0d70
 set: bro
 type: Instant
-meta_presence: 0.0113
+meta_presence: 0.0112
 archetypes:
   boros-ponza:
-    weight: 0.3077
+    weight: 0.3048
     avg_copies: 2.31
   unknown-26:
     weight: 0.7273

@@ -9,7 +9,7 @@ type: Land — Mountain Forest
 meta_presence: 0.095
 archetypes:
   ruby-storm:
-    weight: 0.0849
+    weight: 0.0841
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.0078
@@ -21,13 +21,13 @@ archetypes:
     weight: 0.0968
     avg_copies: 1.67
   eldrazi-ramp:
-    weight: 0.9773
-    avg_copies: 1.44
+    weight: 0.9775
+    avg_copies: 1.45
   simic-ritual:
     weight: 0.0441
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.191
+    weight: 0.1899
     avg_copies: 1.06
   4c-omnath:
     weight: 0.5
@@ -36,7 +36,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.4615
+    weight: 0.458
     avg_copies: 1.13
   dredge:
     weight: 0.8889

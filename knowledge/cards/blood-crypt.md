@@ -9,7 +9,7 @@ type: Land — Swamp Mountain
 meta_presence: 0.0854
 archetypes:
   ruby-storm:
-    weight: 0.0189
+    weight: 0.0187
     avg_copies: 1.0
   necrodominance:
     weight: 0.027
@@ -30,7 +30,7 @@ archetypes:
     weight: 0.9677
     avg_copies: 2.97
   izzet-prowess:
-    weight: 0.0281
+    weight: 0.0279
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.9

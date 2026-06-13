@@ -7,10 +7,10 @@ name: Swan Song
 scryfall_id: 83d0b761-d694-4232-9f40-5bd8c82a05f1
 set: eoc
 type: Instant
-meta_presence: 0.0483
+meta_presence: 0.0482
 archetypes:
   affinity:
-    weight: 0.5125
+    weight: 0.5124
     avg_copies: 1.45
   izzet-prowess:
     weight: 0.0056

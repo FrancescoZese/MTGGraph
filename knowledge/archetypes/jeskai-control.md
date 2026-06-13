@@ -4,7 +4,7 @@ colors:
 - U
 - R
 name: Jeskai Control
-meta_share: 0.0082
+meta_share: 0.0081
 list_count: 29
 top_cards:
 - name: Flooded Strand
@@ -76,10 +76,10 @@ top_cards:
 - name: Mystic Gate
   weight: 0.6897
   avg_copies: 1.25
-- name: Elegant Parlor
+- name: Sacred Foundry
   weight: 0.6897
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Elegant Parlor
   weight: 0.6897
   avg_copies: 1.0
 - name: Narset, Parter of Veils
@@ -142,10 +142,10 @@ top_cards:
 - name: Tune the Narrative
   weight: 0.2069
   avg_copies: 1.83
-- name: Otawara, Soaring City
+- name: Ashiok, Dream Render
   weight: 0.2069
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Otawara, Soaring City
   weight: 0.2069
   avg_copies: 1.0
 - name: Flame of Anor
@@ -178,10 +178,10 @@ top_cards:
 - name: Flare of Denial
   weight: 0.1034
   avg_copies: 2.0
-- name: Kaheera, the Orphanguard
+- name: Mistrise Village
   weight: 0.1034
   avg_copies: 1.0
-- name: Mistrise Village
+- name: Kaheera, the Orphanguard
   weight: 0.1034
   avg_copies: 1.0
 - name: Lightning Bolt
@@ -196,79 +196,61 @@ top_cards:
 - name: Traumatic Critique
   weight: 0.069
   avg_copies: 1.5
-- name: Dovin's Veto
+- name: Wear
   weight: 0.069
   avg_copies: 1.0
-- name: Wear
+- name: Dovin's Veto
   weight: 0.069
   avg_copies: 1.0
 - name: Stern Scolding
   weight: 0.069
   avg_copies: 1.0
-- name: Dress Down
-  weight: 0.0345
-  avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
   weight: 0.0345
   avg_copies: 4.0
-- name: card:felidar-guardian
+- name: Dress Down
   weight: 0.0345
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Nulldrifter
   weight: 0.0345
   avg_copies: 3.0
 - name: card:saheeli-rai
   weight: 0.0345
   avg_copies: 3.0
-- name: Invert Polarity
+- name: card:felidar-guardian
+  weight: 0.0345
+  avg_copies: 3.0
+- name: Drannith Magistrate
   weight: 0.0345
   avg_copies: 2.0
 - name: Rest in Peace
   weight: 0.0345
   avg_copies: 2.0
+- name: Harbinger of the Seas
+  weight: 0.0345
+  avg_copies: 2.0
 - name: Ephemerate
   weight: 0.0345
   avg_copies: 2.0
-- name: Drannith Magistrate
-  weight: 0.0345
-  avg_copies: 2.0
-- name: Harbinger of the Seas
+- name: Invert Polarity
   weight: 0.0345
   avg_copies: 2.0
 - name: Prismari Charm
   weight: 0.0345
   avg_copies: 2.0
-- name: Raugrin Triome
-  weight: 0.0345
-  avg_copies: 1.0
 - name: Ghost Vacuum
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Hallowed Moonlight
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Kozilek, Butcher of Truth
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Thraben Charm
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Windswept Heath
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Get Lost
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Emeritus of Ideation
   weight: 0.0345
   avg_copies: 1.0
 - name: Vendilion Clique
   weight: 0.0345
   avg_copies: 1.0
-- name: Timeless Dragon
+- name: Emeritus of Ideation
   weight: 0.0345
   avg_copies: 1.0
-- name: Sink into Stupor
+- name: Raugrin Triome
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Windswept Heath
   weight: 0.0345
   avg_copies: 1.0
 - name: Unlicensed Hearse
@@ -277,7 +259,25 @@ top_cards:
 - name: Path to Exile
   weight: 0.0345
   avg_copies: 1.0
+- name: Sink into Stupor
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Hallowed Moonlight
+  weight: 0.0345
+  avg_copies: 1.0
 - name: Gemstone Caverns
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Timeless Dragon
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Kozilek, Butcher of Truth
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Thraben Charm
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Get Lost
   weight: 0.0345
   avg_copies: 1.0
 ---

@@ -3,7 +3,7 @@ colors:
 - B
 - R
 name: Hollow One
-meta_share: 0.0088
+meta_share: 0.0087
 list_count: 31
 top_cards:
 - name: Hollow One
@@ -111,10 +111,10 @@ top_cards:
 - name: Marsh Flats
   weight: 0.2258
   avg_copies: 1.71
-- name: Murderous Cut
+- name: Polluted Delta
   weight: 0.1613
   avg_copies: 1.0
-- name: Polluted Delta
+- name: Murderous Cut
   weight: 0.1613
   avg_copies: 1.0
 - name: Tarfire
@@ -156,13 +156,13 @@ top_cards:
 - name: Blood Moon
   weight: 0.0645
   avg_copies: 1.5
-- name: Soul-Guide Lantern
-  weight: 0.0645
-  avg_copies: 1.0
 - name: Commercial District
   weight: 0.0645
   avg_copies: 1.0
 - name: Violent Urge
+  weight: 0.0645
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
   weight: 0.0645
   avg_copies: 1.0
 - name: Seal of Fire
@@ -171,31 +171,31 @@ top_cards:
 - name: Death's Shadow
   weight: 0.0323
   avg_copies: 4.0
-- name: Cam and Farrik, Havoc Duo
-  weight: 0.0323
-  avg_copies: 2.0
-- name: Magebane Lizard
-  weight: 0.0323
-  avg_copies: 2.0
-- name: Ancient Grudge
-  weight: 0.0323
-  avg_copies: 2.0
-- name: Inti, Seneschal of the Sun
+- name: Magus of the Moon
   weight: 0.0323
   avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.0323
   avg_copies: 2.0
-- name: Rough
+- name: Cam and Farrik, Havoc Duo
+  weight: 0.0323
+  avg_copies: 2.0
+- name: Ancient Grudge
   weight: 0.0323
   avg_copies: 2.0
 - name: Break the Ice
   weight: 0.0323
   avg_copies: 2.0
-- name: Magus of the Moon
+- name: Magebane Lizard
   weight: 0.0323
   avg_copies: 2.0
 - name: Flameblade Adept
+  weight: 0.0323
+  avg_copies: 2.0
+- name: Inti, Seneschal of the Sun
+  weight: 0.0323
+  avg_copies: 2.0
+- name: Rough
   weight: 0.0323
   avg_copies: 2.0
 - name: Barbarian Ring

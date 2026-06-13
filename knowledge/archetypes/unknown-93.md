@@ -14,10 +14,10 @@ top_cards:
 - name: Wrenn and Six
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Consign to Memory
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Omnath, Locus of Creation
@@ -29,22 +29,22 @@ top_cards:
 - name: Wooded Foothills
   weight: 1.0
   avg_copies: 3.0
-- name: Wrath of the Skies
+- name: Windswept Heath
   weight: 1.0
   avg_copies: 3.0
-- name: Windswept Heath
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 3.0
 - name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 2.25
+- name: Spell Snare
+  weight: 1.0
+  avg_copies: 2.0
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
 - name: Prismatic Ending
-  weight: 1.0
-  avg_copies: 2.0
-- name: Spell Snare
   weight: 1.0
   avg_copies: 2.0
 - name: Orim's Chant
@@ -56,7 +56,31 @@ top_cards:
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
+- name: March of Otherworldly Light
+  weight: 1.0
+  avg_copies: 1.0
+- name: Endurance
+  weight: 1.0
+  avg_copies: 1.0
+- name: Temple Garden
+  weight: 1.0
+  avg_copies: 1.0
+- name: Breeding Pool
+  weight: 1.0
+  avg_copies: 1.0
 - name: Emeritus of Abundance
+  weight: 1.0
+  avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 1.0
+  avg_copies: 1.0
+- name: Arid Mesa
+  weight: 1.0
+  avg_copies: 1.0
+- name: Stomping Ground
+  weight: 1.0
+  avg_copies: 1.0
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
 - name: Boseiju, Who Endures
@@ -66,30 +90,6 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Lush Portico
-  weight: 1.0
-  avg_copies: 1.0
-- name: March of Otherworldly Light
-  weight: 1.0
-  avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 1.0
-  avg_copies: 1.0
-- name: Temple Garden
-  weight: 1.0
-  avg_copies: 1.0
-- name: Arid Mesa
-  weight: 1.0
-  avg_copies: 1.0
-- name: Breeding Pool
-  weight: 1.0
-  avg_copies: 1.0
-- name: Endurance
-  weight: 1.0
-  avg_copies: 1.0
-- name: Stomping Ground
-  weight: 1.0
-  avg_copies: 1.0
-- name: Plains
   weight: 1.0
   avg_copies: 1.0
 - name: Thundering Falls
@@ -104,37 +104,37 @@ top_cards:
 - name: Stock Up
   weight: 0.6667
   avg_copies: 2.0
+- name: Titania, Protector of Argoth
+  weight: 0.6667
+  avg_copies: 1.0
 - name: Raugrin Triome
   weight: 0.6667
   avg_copies: 1.0
 - name: Winternight Stories
   weight: 0.6667
   avg_copies: 1.0
-- name: Titania, Protector of Argoth
-  weight: 0.6667
-  avg_copies: 1.0
 - name: card:ashling-rekindled
   weight: 0.3333
   avg_copies: 4.0
-- name: Leyline Binding
-  weight: 0.3333
-  avg_copies: 2.0
 - name: Planar Genesis
   weight: 0.3333
   avg_copies: 2.0
-- name: Elesh Norn, Mother of Machines
+- name: Leyline Binding
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Xander's Lounge
   weight: 0.3333
   avg_copies: 1.0
 - name: Atraxa, Grand Unifier
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
   weight: 0.3333
   avg_copies: 1.0
 - name: Risen Reef
   weight: 0.3333
   avg_copies: 1.0
 - name: Nissa, Resurgent Animist
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Xander's Lounge
   weight: 0.3333
   avg_copies: 1.0
 ---

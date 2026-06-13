@@ -96,13 +96,13 @@ top_cards:
 - name: Sanctifier en-Vec
   weight: 0.1875
   avg_copies: 2.0
+- name: Deafening Silence
+  weight: 0.1875
+  avg_copies: 1.67
 - name: Rest in Peace
   weight: 0.1875
   avg_copies: 1.67
 - name: No More Lies
-  weight: 0.1875
-  avg_copies: 1.67
-- name: Deafening Silence
   weight: 0.1875
   avg_copies: 1.67
 - name: Clarion Conqueror
@@ -120,13 +120,13 @@ top_cards:
 - name: Sacred Foundry
   weight: 0.125
   avg_copies: 1.5
-- name: Ranger-Captain of Eos
-  weight: 0.125
-  avg_copies: 1.0
 - name: Drannith Magistrate
   weight: 0.125
   avg_copies: 1.0
 - name: Momo, Friendly Flier
+  weight: 0.125
+  avg_copies: 1.0
+- name: Ranger-Captain of Eos
   weight: 0.125
   avg_copies: 1.0
 - name: Aang, Swift Savior
@@ -138,10 +138,10 @@ top_cards:
 - name: Goblin Bombardment
   weight: 0.0625
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Galvanic Discharge
   weight: 0.0625
   avg_copies: 2.0
-- name: Galvanic Discharge
+- name: Damping Sphere
   weight: 0.0625
   avg_copies: 2.0
 - name: Flagstones of Trokair
@@ -156,25 +156,7 @@ top_cards:
 - name: Thraben Charm
   weight: 0.0625
   avg_copies: 1.5
-- name: Elegant Parlor
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Razorgrass Ambush
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Hydroelectric Specimen
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Meltdown
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Aven Interrupter
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Orim's Chant
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Flitterwing Nuisance
+- name: Haliya, Guided by Light
   weight: 0.0625
   avg_copies: 1.0
 - name: Wear
@@ -183,13 +165,31 @@ top_cards:
 - name: Spell Snare
   weight: 0.0625
   avg_copies: 1.0
-- name: Haliya, Guided by Light
+- name: Hydroelectric Specimen
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Orim's Chant
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Flitterwing Nuisance
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Celestial Purge
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Razorgrass Ambush
   weight: 0.0625
   avg_copies: 1.0
 - name: Ajani, Nacatl Pariah
   weight: 0.0625
   avg_copies: 1.0
-- name: Celestial Purge
+- name: Aven Interrupter
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Elegant Parlor
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Meltdown
   weight: 0.0625
   avg_copies: 1.0
 ---

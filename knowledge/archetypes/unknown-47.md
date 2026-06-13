@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: 'Unknown #47'
-meta_share: 0.0085
+meta_share: 0.0084
 list_count: 30
 top_cards:
 - name: Psychic Frog
@@ -102,10 +102,10 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 0.5333
   avg_copies: 1.24
-- name: Otawara, Soaring City
+- name: Agna Qel'a
   weight: 0.4667
   avg_copies: 1.0
-- name: Agna Qel'a
+- name: Otawara, Soaring City
   weight: 0.4667
   avg_copies: 1.0
 - name: Surgical Extraction
@@ -126,13 +126,13 @@ top_cards:
 - name: Murktide Regent
   weight: 0.1333
   avg_copies: 1.0
-- name: Damping Sphere
+- name: Misty Rainforest
   weight: 0.1
   avg_copies: 2.0
 - name: Vexing Bauble
   weight: 0.1
   avg_copies: 2.0
-- name: Misty Rainforest
+- name: Damping Sphere
   weight: 0.1
   avg_copies: 2.0
 - name: Ghost Vacuum
@@ -150,22 +150,22 @@ top_cards:
 - name: The Meathook Massacre
   weight: 0.0667
   avg_copies: 1.5
-- name: Snow-Covered Swamp
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Snow-Covered Island
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Meticulous Archive
+- name: Scalding Tarn
   weight: 0.0667
   avg_copies: 1.0
 - name: Spell Pierce
   weight: 0.0667
   avg_copies: 1.0
+- name: Snow-Covered Swamp
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Meticulous Archive
+  weight: 0.0667
+  avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 0.0667
   avg_copies: 1.0
-- name: Scalding Tarn
+- name: Snow-Covered Island
   weight: 0.0667
   avg_copies: 1.0
 - name: Void Mirror
@@ -174,22 +174,22 @@ top_cards:
 - name: Dreams of Steel and Oil
   weight: 0.0333
   avg_copies: 1.0
-- name: Strategic Betrayal
-  weight: 0.0333
-  avg_copies: 1.0
 - name: High Noon
   weight: 0.0333
   avg_copies: 1.0
 - name: River of Tears
   weight: 0.0333
   avg_copies: 1.0
-- name: Waterlogged Teachings
+- name: Celestial Purge
   weight: 0.0333
   avg_copies: 1.0
 - name: Snapcaster Mage
   weight: 0.0333
   avg_copies: 1.0
-- name: Celestial Purge
+- name: Strategic Betrayal
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Waterlogged Teachings
   weight: 0.0333
   avg_copies: 1.0
 ---

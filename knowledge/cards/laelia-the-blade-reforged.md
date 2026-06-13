@@ -7,9 +7,12 @@ name: Laelia, the Blade Reforged
 scryfall_id: 2cb16354-1211-4230-90e2-4858ba68f348
 set: soc
 type: Legendary Creature — Spirit Warrior
-meta_presence: 0.0003
+meta_presence: 0.0006
 archetypes:
   unknown-85:
     weight: 0.1111
+    avg_copies: 2.0
+  unknown-100:
+    weight: 0.5
     avg_copies: 2.0
 ---

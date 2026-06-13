@@ -5,7 +5,7 @@ colors:
 - R
 - G
 name: 'Unknown #67'
-meta_share: 0.0119
+meta_share: 0.0118
 list_count: 42
 top_cards:
 - name: Shardless Agent
@@ -14,16 +14,16 @@ top_cards:
 - name: Subtlety
   weight: 1.0
   avg_copies: 3.95
-- name: Force of Negation
-  weight: 1.0
-  avg_copies: 3.93
 - name: Violent Outburst
   weight: 1.0
   avg_copies: 3.93
-- name: Curator of Mysteries
+- name: Force of Negation
+  weight: 1.0
+  avg_copies: 3.93
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 3.86
-- name: Misty Rainforest
+- name: Curator of Mysteries
   weight: 1.0
   avg_copies: 3.86
 - name: Street Wraith
@@ -56,13 +56,13 @@ top_cards:
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Forest
-  weight: 1.0
-  avg_copies: 1.0
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
 - name: Stomping Ground
+  weight: 1.0
+  avg_copies: 1.0
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Thundering Falls
@@ -113,10 +113,10 @@ top_cards:
 - name: Brotherhood's End
   weight: 0.3571
   avg_copies: 1.67
-- name: Brazen Borrower
+- name: Scalding Tarn
   weight: 0.3095
   avg_copies: 1.0
-- name: Scalding Tarn
+- name: Brazen Borrower
   weight: 0.3095
   avg_copies: 1.0
 - name: Leyline of the Void
@@ -161,10 +161,10 @@ top_cards:
 - name: Hallowed Fountain
   weight: 0.119
   avg_copies: 1.0
-- name: Flare of Denial
+- name: Faerie Macabre
   weight: 0.0952
   avg_copies: 1.0
-- name: Faerie Macabre
+- name: Flare of Denial
   weight: 0.0952
   avg_copies: 1.0
 - name: Quantum Riddler
@@ -173,10 +173,10 @@ top_cards:
 - name: Valakut Awakening
   weight: 0.0714
   avg_copies: 1.0
-- name: Windcaller Aven
+- name: Press the Enemy
   weight: 0.0476
   avg_copies: 1.0
-- name: Press the Enemy
+- name: Windcaller Aven
   weight: 0.0476
   avg_copies: 1.0
 - name: Fulminator Mage
@@ -185,16 +185,16 @@ top_cards:
 - name: Bonecrusher Giant
   weight: 0.0238
   avg_copies: 2.0
-- name: Mountain
-  weight: 0.0238
-  avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 0.0238
-  avg_copies: 1.0
 - name: Brainsurge
   weight: 0.0238
   avg_copies: 1.0
+- name: Mountain
+  weight: 0.0238
+  avg_copies: 1.0
 - name: Meticulous Archive
+  weight: 0.0238
+  avg_copies: 1.0
+- name: Collector Ouphe
   weight: 0.0238
   avg_copies: 1.0
 ---
