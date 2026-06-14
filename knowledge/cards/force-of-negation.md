@@ -7,23 +7,23 @@ name: Force of Negation
 scryfall_id: 1825a719-1b2a-4af9-9cd2-7cb497cd0317
 set: 2x2
 type: Instant
-meta_presence: 0.2325
+meta_presence: 0.2314
 archetypes:
   dimir-control:
     weight: 0.9877
     avg_copies: 1.73
   mono-blue-belcher:
-    weight: 0.9048
-    avg_copies: 1.9
+    weight: 0.9062
+    avg_copies: 1.91
   jeskai-energy:
     weight: 0.1783
     avg_copies: 1.04
   goryo:
-    weight: 0.9858
-    avg_copies: 2.13
+    weight: 0.9863
+    avg_copies: 2.14
   azorius-control:
-    weight: 0.3333
-    avg_copies: 1.53
+    weight: 0.3478
+    avg_copies: 1.48
   living-end:
     weight: 1.0
     avg_copies: 3.91
@@ -31,10 +31,10 @@ archetypes:
     weight: 0.6552
     avg_copies: 1.05
   affinity:
-    weight: 0.4317
-    avg_copies: 1.55
+    weight: 0.4299
+    avg_copies: 1.56
   mill:
-    weight: 0.087
+    weight: 0.0833
     avg_copies: 1.5
   reanimator:
     weight: 0.0741
@@ -46,13 +46,13 @@ archetypes:
     weight: 0.9559
     avg_copies: 2.26
   izzet-prowess:
-    weight: 0.0447
+    weight: 0.0426
     avg_copies: 1.38
   4c-omnath:
     weight: 0.75
     avg_copies: 1.8
   esper-blink:
-    weight: 0.0345
+    weight: 0.0328
     avg_copies: 3.5
   izzet-artifacts:
     weight: 0.871
@@ -61,8 +61,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   izzet-wizards:
-    weight: 0.5556
-    avg_copies: 1.57
+    weight: 0.6
+    avg_copies: 1.62
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 2.0
@@ -70,7 +70,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   goryo1:
-    weight: 0.0244
+    weight: 0.023
     avg_copies: 1.33
   goryo7:
     weight: 1.0
@@ -145,7 +145,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-62:
-    weight: 0.4375
+    weight: 0.4118
     avg_copies: 1.73
   unknown-60:
     weight: 1.0
@@ -155,7 +155,7 @@ archetypes:
     avg_copies: 2.0
   unknown-65:
     weight: 1.0
-    avg_copies: 3.83
+    avg_copies: 3.84
   unknown-67:
     weight: 1.0
     avg_copies: 3.93
@@ -207,4 +207,7 @@ archetypes:
   unknown-129:
     weight: 1.0
     avg_copies: 3.0
+  unknown-139:
+    weight: 1.0
+    avg_copies: 2.0
 ---

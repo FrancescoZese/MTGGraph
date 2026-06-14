@@ -7,47 +7,47 @@ name: Mystical Dispute
 scryfall_id: fbe04cb8-a8b9-4241-baae-b398a2509a3a
 set: eld
 type: Instant
-meta_presence: 0.4045
+meta_presence: 0.4048
 archetypes:
   dimir-control:
     weight: 1.0
     avg_copies: 2.3
   mono-blue-belcher:
-    weight: 0.9206
+    weight: 0.9219
     avg_copies: 2.24
   jeskai-energy:
     weight: 0.9922
     avg_copies: 2.41
   goryo:
-    weight: 0.9858
-    avg_copies: 2.75
+    weight: 0.9863
+    avg_copies: 2.72
   necrodominance:
     weight: 0.027
     avg_copies: 3.0
   azorius-control:
     weight: 1.0
-    avg_copies: 3.02
+    avg_copies: 3.0
   living-end:
-    weight: 0.9811
-    avg_copies: 3.35
+    weight: 0.9815
+    avg_copies: 3.34
   jeskai-control:
     weight: 1.0
     avg_copies: 2.83
   affinity:
-    weight: 0.7609
+    weight: 0.7622
     avg_copies: 1.51
   domain-zoo:
     weight: 0.9529
     avg_copies: 2.68
   mill:
-    weight: 0.2174
-    avg_copies: 2.4
+    weight: 0.25
+    avg_copies: 2.33
   reanimator:
     weight: 0.7407
     avg_copies: 2.1
   neoform-combo:
-    weight: 0.9184
-    avg_copies: 3.33
+    weight: 0.92
+    avg_copies: 3.35
   mono-blue-tron:
     weight: 0.6923
     avg_copies: 2.22
@@ -58,16 +58,16 @@ archetypes:
     weight: 0.9706
     avg_copies: 2.94
   izzet-prowess:
-    weight: 0.2737
-    avg_copies: 1.59
+    weight: 0.2766
+    avg_copies: 1.58
   4c-omnath:
     weight: 1.0
     avg_copies: 2.25
   esper-blink:
-    weight: 0.7759
+    weight: 0.7869
     avg_copies: 1.96
   indomitable-creativity:
-    weight: 0.6
+    weight: 0.5455
     avg_copies: 2.0
   bant-control:
     weight: 1.0
@@ -82,8 +82,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   izzet-wizards:
-    weight: 0.8889
-    avg_copies: 2.62
+    weight: 0.9
+    avg_copies: 2.67
   eldrazi-breach:
     weight: 0.75
     avg_copies: 2.33
@@ -97,7 +97,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.939
+    weight: 0.9425
     avg_copies: 2.21
   goryo2:
     weight: 1.0
@@ -155,7 +155,7 @@ archetypes:
     avg_copies: 2.0
   unknown-47:
     weight: 1.0
-    avg_copies: 2.4
+    avg_copies: 2.42
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
@@ -167,13 +167,13 @@ archetypes:
     avg_copies: 2.0
   unknown-62:
     weight: 1.0
-    avg_copies: 2.5
+    avg_copies: 2.47
   unknown-65:
     weight: 1.0
-    avg_copies: 2.77
+    avg_copies: 2.78
   unknown-67:
     weight: 1.0
-    avg_copies: 3.1
+    avg_copies: 3.12
   unknown-72:
     weight: 1.0
     avg_copies: 1.0
@@ -202,7 +202,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-93:
-    weight: 1.0
+    weight: 0.75
     avg_copies: 2.0
   unknown-94:
     weight: 1.0
@@ -257,11 +257,14 @@ archetypes:
     avg_copies: 3.0
   unknown-127:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.2
   unknown-129:
     weight: 1.0
     avg_copies: 2.0
   unknown-131:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-139:
     weight: 1.0
     avg_copies: 2.0
 ---

@@ -7,12 +7,12 @@ name: Serra's Emissary
 scryfall_id: b6534049-3045-4546-b1e8-e5b1b0df5f56
 set: mh2
 type: Creature — Angel
-meta_presence: 0.0006
+meta_presence: 0.0005
 archetypes:
   goryo:
-    weight: 0.0071
+    weight: 0.0068
     avg_copies: 1.0
   indomitable-creativity:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 2.0
 ---

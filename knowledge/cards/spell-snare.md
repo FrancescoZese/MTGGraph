@@ -7,40 +7,40 @@ name: Spell Snare
 scryfall_id: b7551b61-656e-4f37-b9da-73174db983b7
 set: ecl
 type: Instant
-meta_presence: 0.1179
+meta_presence: 0.1189
 archetypes:
   ruby-storm:
-    weight: 0.0093
+    weight: 0.0092
     avg_copies: 2.0
   dimir-control:
     weight: 0.9877
     avg_copies: 2.46
   mono-blue-belcher:
-    weight: 0.8889
-    avg_copies: 1.86
+    weight: 0.8906
+    avg_copies: 1.87
   jeskai-energy:
     weight: 0.1783
     avg_copies: 1.07
   goryo:
-    weight: 0.1986
-    avg_copies: 1.16
+    weight: 0.2192
+    avg_copies: 1.26
   azorius-control:
-    weight: 0.8
+    weight: 0.7826
     avg_copies: 1.77
   jeskai-control:
     weight: 0.4138
     avg_copies: 1.5
   affinity:
-    weight: 0.0062
+    weight: 0.0061
     avg_copies: 1.0
   mill:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 2.0
   reanimator:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0612
+    weight: 0.06
     avg_copies: 1.67
   mono-blue-tron:
     weight: 0.6923
@@ -49,20 +49,20 @@ archetypes:
     weight: 0.0294
     avg_copies: 1.5
   izzet-prowess:
-    weight: 0.3631
-    avg_copies: 1.49
+    weight: 0.3723
+    avg_copies: 1.47
   4c-omnath:
     weight: 0.25
     avg_copies: 2.0
   indomitable-creativity:
-    weight: 0.7
+    weight: 0.6364
     avg_copies: 1.86
   esper-control:
     weight: 1.0
     avg_copies: 2.0
   izzet-wizards:
     weight: 1.0
-    avg_copies: 2.3
+    avg_copies: 2.36
   eldrazi-breach:
     weight: 0.5
     avg_copies: 1.5
@@ -73,7 +73,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   goryo1:
-    weight: 0.1098
+    weight: 0.1034
     avg_copies: 1.3
   goryo2:
     weight: 1.0
@@ -119,7 +119,7 @@ archetypes:
     avg_copies: 2.0
   unknown-47:
     weight: 1.0
-    avg_copies: 1.68
+    avg_copies: 1.71
   unknown-53:
     weight: 1.0
     avg_copies: 2.0
@@ -127,7 +127,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-62:
-    weight: 0.0625
+    weight: 0.0588
     avg_copies: 1.0
   unknown-73:
     weight: 1.0

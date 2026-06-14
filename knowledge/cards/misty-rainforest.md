@@ -6,10 +6,10 @@ name: Misty Rainforest
 scryfall_id: 88231c0d-0cc8-44ec-bf95-81d1710ac141
 set: mh2
 type: Land
-meta_presence: 0.1473
+meta_presence: 0.146
 archetypes:
   ruby-storm:
-    weight: 0.0187
+    weight: 0.0183
     avg_copies: 1.0
   dimir-control:
     weight: 0.3457
@@ -18,31 +18,31 @@ archetypes:
     weight: 0.0078
     avg_copies: 3.0
   goryo:
-    weight: 0.0142
+    weight: 0.0137
     avg_copies: 1.5
   azorius-control:
-    weight: 0.2667
+    weight: 0.2609
     avg_copies: 1.08
   living-end:
     weight: 1.0
     avg_copies: 3.74
   affinity:
-    weight: 0.0683
+    weight: 0.0671
     avg_copies: 1.86
   mill:
-    weight: 0.3043
-    avg_copies: 1.71
+    weight: 0.3333
+    avg_copies: 1.62
   reanimator:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.9796
+    weight: 0.98
     avg_copies: 3.73
   kethis-combo:
     weight: 1.0
     avg_copies: 3.2
   yawgmoth-combo:
-    weight: 0.2692
+    weight: 0.2593
     avg_copies: 1.29
   eldrazi-ramp:
     weight: 0.6404
@@ -51,16 +51,16 @@ archetypes:
     weight: 0.9853
     avg_copies: 3.7
   izzet-prowess:
-    weight: 0.0223
+    weight: 0.0213
     avg_copies: 1.75
   4c-omnath:
     weight: 0.75
     avg_copies: 3.67
   samwise-combo:
-    weight: 0.6818
+    weight: 0.6667
     avg_copies: 1.4
   broodscale-combo:
-    weight: 0.145
+    weight: 0.1418
     avg_copies: 1.16
   bant-control:
     weight: 1.0
@@ -72,7 +72,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   izzet-wizards:
-    weight: 0.6667
+    weight: 0.6
     avg_copies: 1.33
   mono-green-ramp:
     weight: 1.0
@@ -126,7 +126,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-47:
-    weight: 0.1
+    weight: 0.0968
     avg_copies: 2.0
   unknown-59:
     weight: 1.0
@@ -168,7 +168,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-122:
-    weight: 0.25
+    weight: 0.1667
     avg_copies: 2.0
   unknown-126:
     weight: 1.0
@@ -185,4 +185,7 @@ archetypes:
   unknown-133:
     weight: 1.0
     avg_copies: 4.0
+  unknown-138:
+    weight: 1.0
+    avg_copies: 1.0
 ---

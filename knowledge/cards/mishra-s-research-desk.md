@@ -6,9 +6,9 @@ name: Mishra's Research Desk
 scryfall_id: bb142d99-b210-47c8-897c-be62f90d2192
 set: bro
 type: Artifact
-meta_presence: 0.0006
+meta_presence: 0.0008
 archetypes:
   unknown-26:
-    weight: 0.1818
-    avg_copies: 3.5
+    weight: 0.2308
+    avg_copies: 3.67
 ---

@@ -6,11 +6,11 @@ name: Emrakul, the Promised End
 scryfall_id: 71911392-42b0-4b6d-baf7-918a4bd3b924
 set: inr
 type: Legendary Creature — Eldrazi
-meta_presence: 0.0751
+meta_presence: 0.075
 archetypes:
   eldrazi-tron:
-    weight: 0.0952
-    avg_copies: 1.12
+    weight: 0.1111
+    avg_copies: 1.11
   mono-blue-tron:
     weight: 0.8462
     avg_copies: 1.36
@@ -18,7 +18,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.87
   broodscale-combo:
-    weight: 0.9771
+    weight: 0.9776
     avg_copies: 2.04
   unknown-37:
     weight: 1.0

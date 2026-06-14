@@ -10,19 +10,19 @@ type: Creature — Ouphe
 meta_presence: 0.0507
 archetypes:
   amulet-titan:
-    weight: 0.5
+    weight: 0.4954
     avg_copies: 1.0
   goryo:
-    weight: 0.0071
+    weight: 0.0068
     avg_copies: 2.0
   living-end:
-    weight: 0.0189
+    weight: 0.0185
     avg_copies: 1.0
   reanimator:
     weight: 0.037
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.0192
+    weight: 0.0185
     avg_copies: 1.0
   eldrazi-ramp:
     weight: 0.0112
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.6324
     avg_copies: 1.58
   samwise-combo:
-    weight: 0.3864
+    weight: 0.4
     avg_copies: 1.0
   dredge:
     weight: 0.3333
@@ -73,7 +73,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-67:
-    weight: 0.0238
+    weight: 0.0233
     avg_copies: 1.0
   unknown-76:
     weight: 0.5
@@ -88,6 +88,12 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-130:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-138:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-137:
     weight: 1.0
     avg_copies: 1.0
 ---

@@ -13,6 +13,6 @@ archetypes:
     weight: 0.0645
     avg_copies: 2.0
   izzet-wizards:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 1.0
 ---

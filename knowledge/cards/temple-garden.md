@@ -12,13 +12,13 @@ archetypes:
     weight: 0.0078
     avg_copies: 1.0
   living-end:
-    weight: 0.2642
+    weight: 0.2593
     avg_copies: 1.0
   domain-zoo:
     weight: 0.9765
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0204
+    weight: 0.02
     avg_copies: 1.0
   kethis-combo:
     weight: 1.0
@@ -66,7 +66,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.1429
+    weight: 0.1395
     avg_copies: 1.0
   unknown-72:
     weight: 1.0
@@ -88,7 +88,7 @@ archetypes:
     avg_copies: 1.0
   unknown-88:
     weight: 1.0
-    avg_copies: 2.67
+    avg_copies: 2.75
   unknown-93:
     weight: 1.0
     avg_copies: 1.0
@@ -101,4 +101,7 @@ archetypes:
   unknown-126:
     weight: 1.0
     avg_copies: 1.0
+  unknown-138:
+    weight: 1.0
+    avg_copies: 3.0
 ---

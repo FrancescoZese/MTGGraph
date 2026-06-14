@@ -3,16 +3,16 @@ colors:
 - R
 - G
 name: Eldrazi Ramp
-meta_share: 0.0249
+meta_share: 0.0244
 list_count: 89
 top_cards:
-- name: Ugin's Labyrinth
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
-- name: Kozilek's Command
+- name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
 - name: Malevolent Rumble
@@ -123,10 +123,10 @@ top_cards:
 - name: Karn, the Great Creator
   weight: 0.2697
   avg_copies: 2.62
-- name: Ensnaring Bridge
+- name: Liquimetal Coating
   weight: 0.2697
   avg_copies: 1.0
-- name: Liquimetal Coating
+- name: Ensnaring Bridge
   weight: 0.2697
   avg_copies: 1.0
 - name: Tormod's Crypt
@@ -156,10 +156,10 @@ top_cards:
 - name: Nulldrifter
   weight: 0.1348
   avg_copies: 2.75
-- name: Boseiju, Who Endures
+- name: Pithing Needle
   weight: 0.1348
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Boseiju, Who Endures
   weight: 0.1348
   avg_copies: 1.0
 - name: Hedge Maze
@@ -204,16 +204,16 @@ top_cards:
 - name: Herigast, Erupting Nullkite
   weight: 0.0449
   avg_copies: 1.5
-- name: Origin of Metalbending
+- name: Improvisation Capstone
+  weight: 0.0449
+  avg_copies: 1.0
+- name: Iroh's Demonstration
   weight: 0.0449
   avg_copies: 1.0
 - name: Void Mirror
   weight: 0.0449
   avg_copies: 1.0
-- name: Improvisation Capstone
-  weight: 0.0449
-  avg_copies: 1.0
-- name: Iroh's Demonstration
+- name: Origin of Metalbending
   weight: 0.0449
   avg_copies: 1.0
 - name: Six
@@ -228,10 +228,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.0337
   avg_copies: 1.67
-- name: Palantír of Orthanc
+- name: Price of Freedom
   weight: 0.0337
   avg_copies: 1.0
-- name: Price of Freedom
+- name: True Ancestry
   weight: 0.0337
   avg_copies: 1.0
 - name: Damping Sphere
@@ -240,25 +240,31 @@ top_cards:
 - name: Redirect Lightning
   weight: 0.0337
   avg_copies: 1.0
-- name: True Ancestry
+- name: Palantír of Orthanc
   weight: 0.0337
   avg_copies: 1.0
 - name: Nihil Spellbomb
   weight: 0.0225
   avg_copies: 3.5
-- name: Blood Moon
+- name: Flusterstorm
   weight: 0.0225
   avg_copies: 2.0
-- name: Flusterstorm
+- name: Blood Moon
   weight: 0.0225
   avg_copies: 2.0
 - name: Stone Rain
   weight: 0.0225
   avg_copies: 1.5
-- name: Firebending Lesson
+- name: Arena of Glory
+  weight: 0.0225
+  avg_copies: 1.0
+- name: Ilharg, the Raze-Boar
   weight: 0.0225
   avg_copies: 1.0
 - name: Underground Mortuary
+  weight: 0.0225
+  avg_copies: 1.0
+- name: Firebending Lesson
   weight: 0.0225
   avg_copies: 1.0
 - name: Overgrown Tomb
@@ -267,16 +273,10 @@ top_cards:
 - name: Vibrance
   weight: 0.0225
   avg_copies: 1.0
-- name: Ilharg, the Raze-Boar
+- name: Thief of Existence
   weight: 0.0225
   avg_copies: 1.0
 - name: Wastescape Battlemage
-  weight: 0.0225
-  avg_copies: 1.0
-- name: Arena of Glory
-  weight: 0.0225
-  avg_copies: 1.0
-- name: Thief of Existence
   weight: 0.0225
   avg_copies: 1.0
 - name: Madcap Experiment
@@ -285,43 +285,43 @@ top_cards:
 - name: Abrupt Decay
   weight: 0.0112
   avg_copies: 2.0
-- name: Endurance
-  weight: 0.0112
-  avg_copies: 1.0
-- name: Seismic Sense
+- name: Untimely Malfunction
   weight: 0.0112
   avg_copies: 1.0
 - name: Ketria Triome
   weight: 0.0112
   avg_copies: 1.0
-- name: Collector Ouphe
+- name: Ratchet Bomb
   weight: 0.0112
   avg_copies: 1.0
-- name: Mutable Explorer
+- name: Walking Ballista
   weight: 0.0112
   avg_copies: 1.0
-- name: Ugin, the Spirit Dragon
+- name: Endurance
   weight: 0.0112
   avg_copies: 1.0
 - name: Culling Ritual
   weight: 0.0112
   avg_copies: 1.0
-- name: Ratchet Bomb
-  weight: 0.0112
-  avg_copies: 1.0
-- name: Untimely Malfunction
-  weight: 0.0112
-  avg_copies: 1.0
-- name: Darksteel Citadel
+- name: card:platinum-emperion
   weight: 0.0112
   avg_copies: 1.0
 - name: Hedron Archive
   weight: 0.0112
   avg_copies: 1.0
-- name: card:platinum-emperion
+- name: Mutable Explorer
   weight: 0.0112
   avg_copies: 1.0
-- name: Walking Ballista
+- name: Darksteel Citadel
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Seismic Sense
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Ugin, the Spirit Dragon
   weight: 0.0112
   avg_copies: 1.0
 ---

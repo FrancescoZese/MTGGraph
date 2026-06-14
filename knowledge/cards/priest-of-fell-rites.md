@@ -8,9 +8,9 @@ name: Priest of Fell Rites
 scryfall_id: d116329d-6de7-402c-821d-e9aeba9ad2b1
 set: mh2
 type: Creature — Human Warlock
-meta_presence: 0.0006
+meta_presence: 0.0005
 archetypes:
   goryo:
-    weight: 0.0142
+    weight: 0.0137
     avg_copies: 1.5
 ---

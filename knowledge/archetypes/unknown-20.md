@@ -6,10 +6,10 @@ name: 'Unknown #20'
 meta_share: 0.0008
 list_count: 3
 top_cards:
-- name: Pensive Professor
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
@@ -18,22 +18,22 @@ top_cards:
 - name: Abhorrent Oculus
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Unearth
+  weight: 1.0
+  avg_copies: 4.0
+- name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Unearth
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 4.0
 - name: Gran-Gran
   weight: 1.0
   avg_copies: 4.0
-- name: Agatha's Soul Cauldron
+- name: Pensive Professor
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Watery Grave
@@ -42,10 +42,10 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.33
-- name: Undercity Sewers
+- name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 2.67
-- name: Harbinger of the Seas
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 2.67
 - name: Darkslick Shores
@@ -54,10 +54,10 @@ top_cards:
 - name: Force of Negation
   weight: 1.0
   avg_copies: 2.0
-- name: Swamp
+- name: Island
   weight: 1.0
   avg_copies: 1.33
-- name: Island
+- name: Swamp
   weight: 1.0
   avg_copies: 1.33
 - name: Bloodstained Mire
@@ -72,13 +72,13 @@ top_cards:
 - name: Hurkyl's Recall
   weight: 0.6667
   avg_copies: 3.0
-- name: Tainted Indulgence
+- name: Orcish Bowmasters
   weight: 0.6667
   avg_copies: 2.0
 - name: Mystical Dispute
   weight: 0.6667
   avg_copies: 2.0
-- name: Orcish Bowmasters
+- name: Tainted Indulgence
   weight: 0.6667
   avg_copies: 2.0
 - name: Sink into Stupor
@@ -90,12 +90,6 @@ top_cards:
 - name: Pyroclasm
   weight: 0.3333
   avg_copies: 2.0
-- name: Vizier of Tumbling Sands
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Walking Ballista
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Blood Crypt
   weight: 0.3333
   avg_copies: 1.0
@@ -103,6 +97,12 @@ top_cards:
   weight: 0.3333
   avg_copies: 1.0
 - name: Engineered Explosives
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Walking Ballista
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Vizier of Tumbling Sands
   weight: 0.3333
   avg_copies: 1.0
 ---

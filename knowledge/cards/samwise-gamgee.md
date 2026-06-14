@@ -12,5 +12,5 @@ meta_presence: 0.0123
 archetypes:
   samwise-combo:
     weight: 1.0
-    avg_copies: 3.95
+    avg_copies: 3.96
 ---

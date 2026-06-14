@@ -6,13 +6,13 @@ name: Wooded Foothills
 scryfall_id: 4e11ea8a-f895-438d-a3b7-f070238e4161
 set: mh3
 type: Land
-meta_presence: 0.2129
+meta_presence: 0.2142
 archetypes:
   ruby-storm:
-    weight: 0.9533
-    avg_copies: 2.33
+    weight: 0.9541
+    avg_copies: 2.37
   amulet-titan:
-    weight: 0.0463
+    weight: 0.0459
     avg_copies: 1.0
   domain-zoo:
     weight: 1.0
@@ -21,7 +21,7 @@ archetypes:
     weight: 0.1111
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.6531
+    weight: 0.66
     avg_copies: 1.0
   burn:
     weight: 1.0
@@ -30,7 +30,7 @@ archetypes:
     weight: 0.871
     avg_copies: 2.26
   yawgmoth-combo:
-    weight: 0.3269
+    weight: 0.3148
     avg_copies: 1.35
   eldrazi-ramp:
     weight: 0.9326
@@ -39,17 +39,17 @@ archetypes:
     weight: 0.1029
     avg_copies: 3.29
   izzet-prowess:
-    weight: 0.905
-    avg_copies: 2.62
+    weight: 0.9043
+    avg_copies: 2.59
   samwise-combo:
-    weight: 0.3636
-    avg_copies: 1.38
+    weight: 0.3778
+    avg_copies: 1.41
   indomitable-creativity:
-    weight: 0.9
+    weight: 0.8182
     avg_copies: 2.67
   broodscale-combo:
-    weight: 0.3664
-    avg_copies: 1.21
+    weight: 0.3731
+    avg_copies: 1.2
   dredge:
     weight: 0.6667
     avg_copies: 3.08
@@ -58,7 +58,7 @@ archetypes:
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.67
   rakdos-aggro:
     weight: 0.4
     avg_copies: 2.0
@@ -111,10 +111,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-65:
-    weight: 0.9583
-    avg_copies: 2.91
+    weight: 0.96
+    avg_copies: 2.96
   unknown-67:
-    weight: 0.1667
+    weight: 0.1628
     avg_copies: 1.14
   unknown-71:
     weight: 1.0
@@ -162,7 +162,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-122:
-    weight: 0.75
+    weight: 0.8333
     avg_copies: 2.0
   unknown-127:
     weight: 1.0
@@ -171,6 +171,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-128:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-137:
     weight: 1.0
     avg_copies: 1.0
 ---

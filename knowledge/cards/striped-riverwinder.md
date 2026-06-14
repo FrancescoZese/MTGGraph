@@ -10,9 +10,9 @@ type: Creature — Serpent
 meta_presence: 0.0104
 archetypes:
   living-end:
-    weight: 0.1698
+    weight: 0.1667
     avg_copies: 2.0
   unknown-67:
-    weight: 0.6667
-    avg_copies: 2.0
+    weight: 0.6744
+    avg_copies: 2.07
 ---

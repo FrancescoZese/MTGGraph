@@ -10,7 +10,7 @@ type: Creature — Kor Artificer
 meta_presence: 0.0036
 archetypes:
   eldrazi-tron:
-    weight: 0.0068
+    weight: 0.0065
     avg_copies: 4.0
   hammer-time:
     weight: 1.0

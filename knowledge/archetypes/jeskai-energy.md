@@ -4,7 +4,7 @@ colors:
 - U
 - R
 name: Jeskai Energy
-meta_share: 0.0361
+meta_share: 0.0353
 list_count: 129
 top_cards:
 - name: Solitude
@@ -19,10 +19,10 @@ top_cards:
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.28
-- name: Thundering Falls
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.02
-- name: Steam Vents
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.02
 - name: Elegant Parlor
@@ -130,10 +130,10 @@ top_cards:
 - name: Snow-Covered Plains
   weight: 0.1395
   avg_copies: 1.83
-- name: The Legend of Roku
+- name: Riverpyre Verge
   weight: 0.1318
   avg_copies: 1.0
-- name: Riverpyre Verge
+- name: The Legend of Roku
   weight: 0.1318
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
@@ -181,21 +181,18 @@ top_cards:
 - name: Disruptor Flute
   weight: 0.0155
   avg_copies: 2.0
-- name: Stock Up
+- name: Mana Leak
   weight: 0.0155
   avg_copies: 1.5
-- name: Stony Silence
+- name: Stock Up
   weight: 0.0155
   avg_copies: 1.5
 - name: Containment Priest
   weight: 0.0155
   avg_copies: 1.5
-- name: Mana Leak
+- name: Stony Silence
   weight: 0.0155
   avg_copies: 1.5
-- name: Wear
-  weight: 0.0155
-  avg_copies: 1.0
 - name: Jace, the Mind Sculptor
   weight: 0.0155
   avg_copies: 1.0
@@ -205,25 +202,28 @@ top_cards:
 - name: Ajani Vengeant
   weight: 0.0155
   avg_copies: 1.0
+- name: Wear
+  weight: 0.0155
+  avg_copies: 1.0
 - name: Orim's Chant
   weight: 0.0078
   avg_copies: 4.0
-- name: Consult the Star Charts
-  weight: 0.0078
-  avg_copies: 3.0
-- name: Wrenn and Six
+- name: Misty Rainforest
   weight: 0.0078
   avg_copies: 3.0
 - name: Windswept Heath
   weight: 0.0078
   avg_copies: 3.0
-- name: Misty Rainforest
+- name: Wrenn and Six
   weight: 0.0078
   avg_copies: 3.0
-- name: White Orchid Phantom
+- name: Consult the Star Charts
+  weight: 0.0078
+  avg_copies: 3.0
+- name: Reprieve
   weight: 0.0078
   avg_copies: 2.0
-- name: Reprieve
+- name: Mana Tithe
   weight: 0.0078
   avg_copies: 2.0
 - name: Eternal Witness
@@ -232,46 +232,46 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 0.0078
   avg_copies: 2.0
-- name: Witch Enchanter
+- name: Tune the Narrative
   weight: 0.0078
   avg_copies: 2.0
-- name: Tune the Narrative
+- name: White Orchid Phantom
+  weight: 0.0078
+  avg_copies: 2.0
+- name: Witch Enchanter
   weight: 0.0078
   avg_copies: 2.0
 - name: Cryogen Relic
   weight: 0.0078
   avg_copies: 2.0
-- name: Mana Tithe
-  weight: 0.0078
-  avg_copies: 2.0
-- name: Breeding Pool
-  weight: 0.0078
-  avg_copies: 1.0
 - name: Nihil Spellbomb
-  weight: 0.0078
-  avg_copies: 1.0
-- name: Temple Garden
   weight: 0.0078
   avg_copies: 1.0
 - name: Supreme Verdict
   weight: 0.0078
   avg_copies: 1.0
+- name: Omnath, Locus of Creation
+  weight: 0.0078
+  avg_copies: 1.0
 - name: Stomping Ground
+  weight: 0.0078
+  avg_copies: 1.0
+- name: Breeding Pool
+  weight: 0.0078
+  avg_copies: 1.0
+- name: Subtlety
+  weight: 0.0078
+  avg_copies: 1.0
+- name: Temple Garden
+  weight: 0.0078
+  avg_copies: 1.0
+- name: Lush Portico
   weight: 0.0078
   avg_copies: 1.0
 - name: Hedge Maze
   weight: 0.0078
   avg_copies: 1.0
 - name: Fire Magic
-  weight: 0.0078
-  avg_copies: 1.0
-- name: Lush Portico
-  weight: 0.0078
-  avg_copies: 1.0
-- name: Omnath, Locus of Creation
-  weight: 0.0078
-  avg_copies: 1.0
-- name: Subtlety
   weight: 0.0078
   avg_copies: 1.0
 ---

@@ -10,6 +10,6 @@ type: Enchantment Creature — Spirit
 meta_presence: 0.0003
 archetypes:
   eldrazi-tron:
-    weight: 0.0068
+    weight: 0.0065
     avg_copies: 2.0
 ---

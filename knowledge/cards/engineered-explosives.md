@@ -12,16 +12,16 @@ archetypes:
     weight: 0.5185
     avg_copies: 1.69
   mono-blue-belcher:
-    weight: 0.7619
-    avg_copies: 1.83
+    weight: 0.7656
+    avg_copies: 1.84
   eldrazi-tron:
-    weight: 0.2653
+    weight: 0.2614
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.037
+    weight: 0.0367
     avg_copies: 1.25
   goryo:
-    weight: 0.0142
+    weight: 0.0137
     avg_copies: 1.0
   necrodominance:
     weight: 0.2162
@@ -30,8 +30,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.85
   mill:
-    weight: 0.3478
-    avg_copies: 1.25
+    weight: 0.375
+    avg_copies: 1.22
   mono-blue-tron:
     weight: 0.3077
     avg_copies: 1.75
@@ -42,17 +42,17 @@ archetypes:
     weight: 0.1613
     avg_copies: 1.0
   izzet-wizards:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 2.0
   jund-saga:
     weight: 1.0
-    avg_copies: 1.5
+    avg_copies: 1.33
   rakdos-aggro:
     weight: 0.0667
     avg_copies: 1.0
   goryo1:
-    weight: 0.0488
-    avg_copies: 1.25
+    weight: 0.0575
+    avg_copies: 1.2
   goryo7:
     weight: 1.0
     avg_copies: 2.0
@@ -75,7 +75,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-26:
-    weight: 0.1818
+    weight: 0.1538
     avg_copies: 2.0
   unknown-35:
     weight: 1.0
@@ -90,8 +90,8 @@ archetypes:
     weight: 0.7059
     avg_copies: 2.17
   unknown-47:
-    weight: 0.8667
-    avg_copies: 1.85
+    weight: 0.871
+    avg_copies: 1.81
   unknown-48:
     weight: 0.5
     avg_copies: 1.0
@@ -119,4 +119,7 @@ archetypes:
   unknown-125:
     weight: 1.0
     avg_copies: 2.0
+  unknown-139:
+    weight: 1.0
+    avg_copies: 3.0
 ---

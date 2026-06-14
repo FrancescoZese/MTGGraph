@@ -7,7 +7,7 @@ name: Improvisation Capstone
 scryfall_id: d01fe6e9-49ee-4708-833e-75cd5a9f167c
 set: sos
 type: Sorcery — Lesson
-meta_presence: 0.0017
+meta_presence: 0.0016
 archetypes:
   eldrazi-ramp:
     weight: 0.0449

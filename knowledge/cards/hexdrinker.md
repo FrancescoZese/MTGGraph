@@ -7,9 +7,9 @@ name: Hexdrinker
 scryfall_id: 89f5cc05-5d9d-4709-b3c5-a6249c294acc
 set: mh1
 type: Creature — Snake
-meta_presence: 0.0006
+meta_presence: 0.0005
 archetypes:
   amulet-titan:
-    weight: 0.0185
+    weight: 0.0183
     avg_copies: 1.0
 ---

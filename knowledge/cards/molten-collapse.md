@@ -14,7 +14,7 @@ archetypes:
     weight: 0.4444
     avg_copies: 1.0
   indomitable-creativity:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 1.0
   dredge:
     weight: 0.0556
@@ -26,8 +26,8 @@ archetypes:
     weight: 0.0667
     avg_copies: 1.0
   goryo1:
-    weight: 0.1707
-    avg_copies: 1.2
+    weight: 0.1724
+    avg_copies: 1.19
   unknown-33:
     weight: 1.0
     avg_copies: 2.0

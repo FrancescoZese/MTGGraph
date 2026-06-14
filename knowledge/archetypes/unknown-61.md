@@ -2,19 +2,22 @@
 colors:
 - G
 name: 'Unknown #61'
-meta_share: 0.0053
+meta_share: 0.0052
 list_count: 19
 top_cards:
-- name: Green Sun's Zenith
+- name: Slumbering Trudge
   weight: 1.0
   avg_copies: 4.0
-- name: Disciple of Freyalise
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ugin's Labyrinth
+- name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
 - name: Sowing Mycospawn
+  weight: 1.0
+  avg_copies: 4.0
+- name: Green Sun's Zenith
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
 - name: Emrakul, the Promised End
@@ -23,22 +26,19 @@ top_cards:
 - name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
-- name: Slumbering Trudge
+- name: Disciple of Freyalise
   weight: 1.0
   avg_copies: 4.0
-- name: Eldrazi Temple
-  weight: 1.0
-  avg_copies: 4.0
-- name: Fanatic of Rhonas
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 3.84
 - name: Fight Rigging
   weight: 1.0
   avg_copies: 3.84
-- name: Malevolent Rumble
+- name: Devourer of Destiny
   weight: 1.0
   avg_copies: 3.84
-- name: Devourer of Destiny
+- name: Fanatic of Rhonas
   weight: 1.0
   avg_copies: 3.84
 - name: Forest
@@ -98,16 +98,16 @@ top_cards:
 - name: Force of Vigor
   weight: 0.0526
   avg_copies: 2.0
-- name: Tajuru Preserver
+- name: Bojuka Bog
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Gemstone Caverns
   weight: 0.0526
   avg_copies: 1.0
 - name: Icetill Explorer
   weight: 0.0526
   avg_copies: 1.0
-- name: Bojuka Bog
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Tajuru Preserver
   weight: 0.0526
   avg_copies: 1.0
 ---

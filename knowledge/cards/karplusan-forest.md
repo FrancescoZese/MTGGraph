@@ -6,14 +6,14 @@ name: Karplusan Forest
 scryfall_id: 67198b97-bac2-480f-aea8-12841e8884de
 set: eoc
 type: Land
-meta_presence: 0.0014
+meta_presence: 0.0016
 archetypes:
   hardened-scales:
     weight: 0.25
     avg_copies: 4.0
   broodscale-combo:
-    weight: 0.0229
-    avg_copies: 2.33
+    weight: 0.0299
+    avg_copies: 2.25
   unknown-134:
     weight: 1.0
     avg_copies: 4.0

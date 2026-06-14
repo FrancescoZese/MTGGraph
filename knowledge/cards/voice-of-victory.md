@@ -7,25 +7,25 @@ name: Voice of Victory
 scryfall_id: ec3de5f4-bb55-4ab9-995f-f3e0dc22c1bb
 set: tdm
 type: Creature — Human Bard
-meta_presence: 0.1291
+meta_presence: 0.1287
 archetypes:
   ruby-storm:
-    weight: 0.0093
+    weight: 0.0092
     avg_copies: 1.0
   boros-energy:
-    weight: 0.8347
-    avg_copies: 2.07
+    weight: 0.8376
+    avg_copies: 2.09
   neoform-combo:
-    weight: 0.0204
+    weight: 0.02
     avg_copies: 4.0
   hammer-time:
     weight: 0.25
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.0095
+    weight: 0.0093
     avg_copies: 2.0
   samwise-combo:
-    weight: 0.0909
+    weight: 0.0889
     avg_copies: 1.17
   azorius-blink:
     weight: 0.0769

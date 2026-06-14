@@ -7,7 +7,10 @@ name: 'Unknown #5'
 meta_share: 0.0008
 list_count: 3
 top_cards:
-- name: Psychic Frog
+- name: Persist
+  weight: 1.0
+  avg_copies: 4.0
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
@@ -16,10 +19,7 @@ top_cards:
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
-- name: Archon of Cruelty
-  weight: 1.0
-  avg_copies: 4.0
-- name: Persist
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Prismatic Ending
@@ -43,19 +43,22 @@ top_cards:
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.75
-- name: Swamp
-  weight: 1.0
-  avg_copies: 1.0
 - name: Island
   weight: 1.0
   avg_copies: 1.0
-- name: Undercity Sewers
-  weight: 1.0
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 1.0
-  avg_copies: 1.0
 - name: Watery Grave
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shadowy Backstreet
+  weight: 1.0
+  avg_copies: 1.0
+- name: Swamp
+  weight: 1.0
+  avg_copies: 1.0
+- name: Godless Shrine
+  weight: 1.0
+  avg_copies: 1.0
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
 - name: Plains
@@ -64,10 +67,7 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowy Backstreet
-  weight: 1.0
-  avg_copies: 1.0
-- name: Godless Shrine
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Quantum Riddler
@@ -76,40 +76,40 @@ top_cards:
 - name: Consign to Memory
   weight: 0.6667
   avg_copies: 4.0
-- name: Solitude
-  weight: 0.6667
-  avg_copies: 4.0
 - name: Ephemerate
   weight: 0.6667
   avg_copies: 4.0
-- name: Tainted Indulgence
-  weight: 0.3333
+- name: Solitude
+  weight: 0.6667
   avg_copies: 4.0
 - name: Emeritus of Ideation
   weight: 0.3333
   avg_copies: 4.0
-- name: Damping Sphere
+- name: Tainted Indulgence
   weight: 0.3333
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Force of Despair
   weight: 0.3333
   avg_copies: 3.0
-- name: Drannith Magistrate
+- name: Damping Sphere
   weight: 0.3333
-  avg_copies: 2.0
-- name: Mystical Dispute
+  avg_copies: 3.0
+- name: Nihil Spellbomb
   weight: 0.3333
   avg_copies: 2.0
 - name: Celestial Purge
   weight: 0.3333
   avg_copies: 2.0
+- name: Drannith Magistrate
+  weight: 0.3333
+  avg_copies: 2.0
 - name: Sheoldred, the Apocalypse
   weight: 0.3333
   avg_copies: 2.0
-- name: Fatal Push
+- name: Mystical Dispute
   weight: 0.3333
   avg_copies: 2.0
-- name: Nihil Spellbomb
+- name: Fatal Push
   weight: 0.3333
   avg_copies: 2.0
 - name: Teferi, Time Raveler

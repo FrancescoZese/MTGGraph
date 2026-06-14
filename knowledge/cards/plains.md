@@ -9,20 +9,20 @@ type: Basic Land — Plains
 meta_presence: 0.3563
 archetypes:
   boros-energy:
-    weight: 0.9801
+    weight: 0.9804
     avg_copies: 1.8
   jeskai-energy:
     weight: 0.8605
     avg_copies: 1.61
   eldrazi-tron:
-    weight: 0.0068
+    weight: 0.0065
     avg_copies: 3.0
   goryo:
-    weight: 0.9858
+    weight: 0.9863
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
-    avg_copies: 1.96
+    avg_copies: 1.93
   jeskai-control:
     weight: 1.0
     avg_copies: 1.83
@@ -30,7 +30,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   mill:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 1.0
   reanimator:
     weight: 0.037
@@ -42,16 +42,16 @@ archetypes:
     weight: 1.0
     avg_copies: 2.5
   boros-ponza:
-    weight: 0.981
-    avg_copies: 3.38
+    weight: 0.9813
+    avg_copies: 3.41
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
   esper-blink:
-    weight: 0.9655
-    avg_copies: 1.57
+    weight: 0.9672
+    avg_copies: 1.56
   indomitable-creativity:
-    weight: 0.6
+    weight: 0.6364
     avg_copies: 1.0
   orzhov-blink:
     weight: 1.0
@@ -121,7 +121,7 @@ archetypes:
     avg_copies: 10.0
   unknown-26:
     weight: 1.0
-    avg_copies: 3.45
+    avg_copies: 3.31
   unknown-48:
     weight: 1.0
     avg_copies: 1.5
@@ -133,7 +133,7 @@ archetypes:
     avg_copies: 1.0
   unknown-62:
     weight: 1.0
-    avg_copies: 2.5
+    avg_copies: 2.53
   unknown-66:
     weight: 1.0
     avg_copies: 2.0
@@ -184,7 +184,7 @@ archetypes:
     avg_copies: 1.0
   unknown-109:
     weight: 1.0
-    avg_copies: 1.25
+    avg_copies: 1.4
   unknown-110:
     weight: 1.0
     avg_copies: 1.0
@@ -212,4 +212,7 @@ archetypes:
   unknown-136:
     weight: 1.0
     avg_copies: 2.0
+  unknown-138:
+    weight: 1.0
+    avg_copies: 1.0
 ---

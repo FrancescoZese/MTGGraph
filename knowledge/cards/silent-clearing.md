@@ -6,7 +6,7 @@ name: Silent Clearing
 scryfall_id: ac07e230-0297-4e1d-bdfe-119010e0ad8e
 set: mh1
 type: Land
-meta_presence: 0.0006
+meta_presence: 0.0005
 archetypes:
   devoted-combo:
     weight: 1.0

@@ -4,13 +4,13 @@ colors:
 - B
 - R
 name: 'Unknown #68'
-meta_share: 0.0067
+meta_share: 0.0066
 list_count: 24
 top_cards:
-- name: Ocelot Pride
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Guide of Souls
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
@@ -22,10 +22,10 @@ top_cards:
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 3.67
-- name: Galvanic Discharge
+- name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 3.33
-- name: Ragavan, Nimble Pilferer
+- name: Galvanic Discharge
   weight: 1.0
   avg_copies: 3.33
 - name: Goblin Bombardment
@@ -52,10 +52,10 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.04
-- name: Blood Crypt
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowy Backstreet
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Elegant Parlor
@@ -154,10 +154,10 @@ top_cards:
 - name: Blood Moon
   weight: 0.0833
   avg_copies: 2.0
-- name: Lingering Souls
+- name: Fulminator Mage
   weight: 0.0417
   avg_copies: 2.0
-- name: Fulminator Mage
+- name: Lingering Souls
   weight: 0.0417
   avg_copies: 2.0
 - name: Strategic Betrayal

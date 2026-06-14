@@ -9,25 +9,25 @@ name: 'Unknown #79'
 meta_share: 0.0014
 list_count: 5
 top_cards:
-- name: Psychic Frog
-  weight: 1.0
-  avg_copies: 4.0
-- name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
 - name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 4.0
-- name: Wooded Foothills
+- name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
 - name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline of the Guildpact
+- name: Wooded Foothills
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lightning Bolt
+  weight: 1.0
+  avg_copies: 4.0
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline Binding
@@ -57,13 +57,13 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.0
+- name: Forest
+  weight: 1.0
+  avg_copies: 1.0
 - name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 - name: Indatha Triome
-  weight: 1.0
-  avg_copies: 1.0
-- name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Thundering Falls
@@ -75,13 +75,13 @@ top_cards:
 - name: Scalding Tarn
   weight: 0.8
   avg_copies: 2.0
-- name: Pick Your Poison
+- name: Wrath of the Skies
   weight: 0.8
   avg_copies: 2.0
 - name: Mystical Dispute
   weight: 0.8
   avg_copies: 2.0
-- name: Wrath of the Skies
+- name: Pick Your Poison
   weight: 0.8
   avg_copies: 2.0
 - name: Hidetsugu Consumes All
@@ -93,13 +93,13 @@ top_cards:
 - name: Breeding Pool
   weight: 0.8
   avg_copies: 1.0
+- name: Watery Grave
+  weight: 0.8
+  avg_copies: 1.0
 - name: Arena of Glory
   weight: 0.8
   avg_copies: 1.0
 - name: Sacred Foundry
-  weight: 0.8
-  avg_copies: 1.0
-- name: Watery Grave
   weight: 0.8
   avg_copies: 1.0
 - name: Damping Sphere
@@ -108,10 +108,10 @@ top_cards:
 - name: Polluted Delta
   weight: 0.2
   avg_copies: 4.0
-- name: Ashiok, Dream Render
+- name: Wear
   weight: 0.2
   avg_copies: 2.0
-- name: Wear
+- name: Ashiok, Dream Render
   weight: 0.2
   avg_copies: 2.0
 - name: Vexing Bauble
@@ -123,22 +123,22 @@ top_cards:
 - name: Stubborn Denial
   weight: 0.2
   avg_copies: 2.0
+- name: Overgrown Tomb
+  weight: 0.2
+  avg_copies: 1.0
 - name: Shatterstorm
+  weight: 0.2
+  avg_copies: 1.0
+- name: Surgical Extraction
   weight: 0.2
   avg_copies: 1.0
 - name: Blood Crypt
   weight: 0.2
   avg_copies: 1.0
-- name: High Noon
-  weight: 0.2
-  avg_copies: 1.0
-- name: Overgrown Tomb
-  weight: 0.2
-  avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 0.2
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: High Noon
   weight: 0.2
   avg_copies: 1.0
 ---

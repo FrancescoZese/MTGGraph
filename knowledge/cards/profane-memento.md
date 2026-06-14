@@ -9,6 +9,6 @@ type: Artifact
 meta_presence: 0.0008
 archetypes:
   mill:
-    weight: 0.1304
+    weight: 0.125
     avg_copies: 2.0
 ---

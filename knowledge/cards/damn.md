@@ -7,10 +7,10 @@ name: Damn
 scryfall_id: 84056124-1a6f-4274-bee2-74cf0debddb5
 set: lcc
 type: Sorcery
-meta_presence: 0.0006
+meta_presence: 0.0005
 archetypes:
   goryo:
-    weight: 0.0071
+    weight: 0.0068
     avg_copies: 1.0
   unknown-21:
     weight: 1.0

@@ -7,11 +7,11 @@ name: Celestial Purge
 scryfall_id: cd38afd4-d7a4-493d-bdea-72be9a1d9a07
 set: mm2
 type: Instant
-meta_presence: 0.1829
+meta_presence: 0.1813
 archetypes:
   boros-energy:
-    weight: 0.6753
-    avg_copies: 1.46
+    weight: 0.6751
+    avg_copies: 1.45
   dimir-control:
     weight: 0.0741
     avg_copies: 1.0
@@ -19,13 +19,13 @@ archetypes:
     weight: 0.4961
     avg_copies: 1.16
   eldrazi-tron:
-    weight: 0.0068
+    weight: 0.0065
     avg_copies: 1.0
   goryo:
-    weight: 0.4113
+    weight: 0.3973
     avg_copies: 1.07
   azorius-control:
-    weight: 0.4444
+    weight: 0.4348
     avg_copies: 1.4
   jeskai-control:
     weight: 0.931
@@ -34,10 +34,10 @@ archetypes:
     weight: 0.1529
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.819
-    avg_copies: 1.78
+    weight: 0.8224
+    avg_copies: 1.76
   esper-blink:
-    weight: 0.0517
+    weight: 0.0492
     avg_copies: 1.0
   azorius-blink:
     weight: 0.1538
@@ -73,13 +73,13 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0333
+    weight: 0.0323
     avg_copies: 1.0
   unknown-56:
     weight: 1.0
     avg_copies: 2.0
   unknown-62:
-    weight: 0.0625
+    weight: 0.0588
     avg_copies: 1.0
   unknown-68:
     weight: 0.25
@@ -94,7 +94,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   unknown-109:
-    weight: 0.25
+    weight: 0.4
     avg_copies: 2.0
   unknown-113:
     weight: 0.5

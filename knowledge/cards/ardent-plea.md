@@ -8,10 +8,10 @@ name: Ardent Plea
 scryfall_id: 9d521737-ee07-4387-bc07-5ced53db374d
 set: arb
 type: Enchantment
-meta_presence: 0.0042
+meta_presence: 0.0041
 archetypes:
   living-end:
-    weight: 0.2642
+    weight: 0.2593
     avg_copies: 4.0
   unknown-84:
     weight: 0.5

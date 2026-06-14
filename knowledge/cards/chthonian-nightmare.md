@@ -16,7 +16,7 @@ archetypes:
     weight: 0.0147
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.0682
+    weight: 0.0667
     avg_copies: 1.0
   the-rock:
     weight: 0.5
@@ -39,6 +39,9 @@ archetypes:
   unknown-68:
     weight: 0.6667
     avg_copies: 1.88
+  unknown-77:
+    weight: 0.5
+    avg_copies: 1.0
   unknown-110:
     weight: 1.0
     avg_copies: 3.0

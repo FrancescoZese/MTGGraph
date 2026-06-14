@@ -11,12 +11,12 @@ type: Instant
 meta_presence: 0.0134
 archetypes:
   neoform-combo:
-    weight: 0.9388
+    weight: 0.94
     avg_copies: 4.0
   indomitable-creativity:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 2.0
   unknown-93:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 2.0
 ---

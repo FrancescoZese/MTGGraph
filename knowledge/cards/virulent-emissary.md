@@ -7,9 +7,9 @@ name: Virulent Emissary
 scryfall_id: 0702efed-915e-466a-96bb-ac09af06b21e
 set: ecl
 type: Creature — Elf Assassin
-meta_presence: 0.0115
+meta_presence: 0.0112
 archetypes:
   yawgmoth-combo:
-    weight: 0.7885
+    weight: 0.7593
     avg_copies: 1.0
 ---

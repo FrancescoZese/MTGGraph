@@ -10,14 +10,14 @@ type: Creature — Elf Druid
 meta_presence: 0.0345
 archetypes:
   amulet-titan:
-    weight: 0.0093
+    weight: 0.0092
     avg_copies: 1.0
   goryo:
-    weight: 0.0142
+    weight: 0.0137
     avg_copies: 4.0
   living-end:
-    weight: 0.717
-    avg_copies: 2.24
+    weight: 0.7222
+    avg_copies: 2.23
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 1.06
@@ -28,10 +28,10 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.0227
+    weight: 0.0222
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0076
+    weight: 0.0075
     avg_copies: 3.0
   elves:
     weight: 1.0

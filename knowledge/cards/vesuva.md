@@ -6,10 +6,10 @@ name: Vesuva
 scryfall_id: 0726f70a-c1c4-4edb-86fb-9be280d9ea73
 set: tsr
 type: Land
-meta_presence: 0.0317
+meta_presence: 0.0312
 archetypes:
   amulet-titan:
-    weight: 0.9907
+    weight: 0.9908
     avg_copies: 1.0
   unknown-76:
     weight: 1.0

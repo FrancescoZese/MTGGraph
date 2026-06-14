@@ -6,19 +6,16 @@ name: 'Unknown #97'
 meta_share: 0.0011
 list_count: 4
 top_cards:
-- name: Eldrazi Temple
-  weight: 1.0
-  avg_copies: 4.0
-- name: Malevolent Rumble
-  weight: 1.0
-  avg_copies: 4.0
 - name: Forest
   weight: 1.0
   avg_copies: 4.0
-- name: Ugin's Labyrinth
+- name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
 - name: Sowing Mycospawn
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
 - name: Utopia Sprawl
@@ -27,10 +24,13 @@ top_cards:
 - name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
-- name: Vexing Bauble
+- name: Malevolent Rumble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Nihil Spellbomb
   weight: 1.0
   avg_copies: 3.75
-- name: Nihil Spellbomb
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 3.75
 - name: Ancient Stirrings
@@ -45,19 +45,19 @@ top_cards:
 - name: Misty Rainforest
   weight: 1.0
   avg_copies: 2.0
+- name: Ugin, Eye of the Storms
+  weight: 1.0
+  avg_copies: 2.0
 - name: Talisman of Curiosity
-  weight: 1.0
-  avg_copies: 2.0
-- name: Verdant Catacombs
-  weight: 1.0
-  avg_copies: 2.0
-- name: Talisman of Resilience
   weight: 1.0
   avg_copies: 2.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 2.0
-- name: Ugin, Eye of the Storms
+- name: Talisman of Resilience
+  weight: 1.0
+  avg_copies: 2.0
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 2.0
 - name: Fatal Push
@@ -66,22 +66,22 @@ top_cards:
 - name: Nulldrifter
   weight: 1.0
   avg_copies: 1.25
-- name: Sire of Seven Deaths
-  weight: 1.0
-  avg_copies: 1.0
-- name: Underground Mortuary
-  weight: 1.0
-  avg_copies: 1.0
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
-- name: World Breaker
+- name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.0
 - name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
 - name: Overgrown Tomb
+  weight: 1.0
+  avg_copies: 1.0
+- name: Sire of Seven Deaths
+  weight: 1.0
+  avg_copies: 1.0
+- name: World Breaker
   weight: 1.0
   avg_copies: 1.0
 - name: Sanctum of Ugin
@@ -105,28 +105,28 @@ top_cards:
 - name: Witherbloom Charm
   weight: 0.25
   avg_copies: 2.0
+- name: Tormod's Crypt
+  weight: 0.25
+  avg_copies: 1.0
+- name: Windswept Heath
+  weight: 0.25
+  avg_copies: 1.0
+- name: Disruptor Flute
+  weight: 0.25
+  avg_copies: 1.0
 - name: Liquimetal Coating
   weight: 0.25
   avg_copies: 1.0
 - name: Haywire Mite
   weight: 0.25
   avg_copies: 1.0
-- name: Ensnaring Bridge
+- name: Chalice of the Void
   weight: 0.25
   avg_copies: 1.0
 - name: Pithing Needle
   weight: 0.25
   avg_copies: 1.0
-- name: Chalice of the Void
-  weight: 0.25
-  avg_copies: 1.0
-- name: Tormod's Crypt
-  weight: 0.25
-  avg_copies: 1.0
-- name: Disruptor Flute
-  weight: 0.25
-  avg_copies: 1.0
-- name: Windswept Heath
+- name: Ensnaring Bridge
   weight: 0.25
   avg_copies: 1.0
 ---

@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: 'Unknown #45'
-meta_share: 0.0048
+meta_share: 0.0047
 list_count: 17
 top_cards:
 - name: Swamp
@@ -12,10 +12,10 @@ top_cards:
 - name: Eyetwitch
   weight: 1.0
   avg_copies: 4.0
-- name: Stitcher's Supplier
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
-- name: Archon of Cruelty
+- name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
 - name: Crypt of Agadeem
@@ -48,10 +48,10 @@ top_cards:
 - name: Spymaster's Vault
   weight: 1.0
   avg_copies: 1.65
-- name: Decorum Dissertation
+- name: Ozai's Cruelty
   weight: 1.0
   avg_copies: 1.0
-- name: Ozai's Cruelty
+- name: Decorum Dissertation
   weight: 1.0
   avg_copies: 1.0
 - name: Ruinous Waterbending
@@ -72,10 +72,10 @@ top_cards:
 - name: Origin of Metalbending
   weight: 0.9412
   avg_copies: 1.06
-- name: Dai Li Indoctrination
+- name: Underground Mortuary
   weight: 0.9412
   avg_copies: 1.0
-- name: Underground Mortuary
+- name: Dai Li Indoctrination
   weight: 0.9412
   avg_copies: 1.0
 - name: True Ancestry
@@ -102,16 +102,16 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.7059
   avg_copies: 2.17
-- name: Poet's Quill
-  weight: 0.7059
-  avg_copies: 1.0
 - name: Inquisition of Kozilek
   weight: 0.7059
   avg_copies: 1.0
-- name: Fulminator Mage
-  weight: 0.4118
+- name: Poet's Quill
+  weight: 0.7059
   avg_copies: 1.0
 - name: Dawnhand Dissident
+  weight: 0.4118
+  avg_copies: 1.0
+- name: Fulminator Mage
   weight: 0.4118
   avg_copies: 1.0
 - name: Void Mirror
@@ -129,28 +129,34 @@ top_cards:
 - name: Bloodstained Mire
   weight: 0.0588
   avg_copies: 4.0
-- name: Blood Crypt
+- name: Nihil Spellbomb
   weight: 0.0588
   avg_copies: 2.0
 - name: Price of Freedom
   weight: 0.0588
   avg_copies: 2.0
-- name: Fatal Push
+- name: Blood Crypt
   weight: 0.0588
   avg_copies: 2.0
-- name: Nihil Spellbomb
+- name: Fatal Push
   weight: 0.0588
   avg_copies: 2.0
 - name: Ashiok, Dream Render
   weight: 0.0588
   avg_copies: 1.0
-- name: Chthonian Nightmare
+- name: Improvisation Capstone
   weight: 0.0588
   avg_copies: 1.0
-- name: Redirect Lightning
+- name: Forest
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Iroh's Demonstration
   weight: 0.0588
   avg_copies: 1.0
 - name: Raucous Theater
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Chthonian Nightmare
   weight: 0.0588
   avg_copies: 1.0
 - name: Cling to Dust
@@ -159,16 +165,10 @@ top_cards:
 - name: card:summon-bahamut
   weight: 0.0588
   avg_copies: 1.0
-- name: Forest
+- name: Redirect Lightning
   weight: 0.0588
   avg_copies: 1.0
 - name: Liliana, the Last Hope
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Improvisation Capstone
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Iroh's Demonstration
   weight: 0.0588
   avg_copies: 1.0
 ---

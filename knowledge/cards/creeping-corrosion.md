@@ -7,19 +7,22 @@ name: Creeping Corrosion
 scryfall_id: 05d5a7b3-18b6-4b1d-85cc-2253e605390c
 set: mbs
 type: Sorcery
-meta_presence: 0.0036
+meta_presence: 0.0038
 archetypes:
   amulet-titan:
-    weight: 0.037
+    weight: 0.0367
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.0192
+    weight: 0.0185
     avg_copies: 1.0
   mono-green-ramp:
     weight: 0.6667
     avg_copies: 1.25
   scapeshift-combo:
     weight: 0.5
+    avg_copies: 2.0
+  unknown-88:
+    weight: 0.25
     avg_copies: 2.0
   unknown-128:
     weight: 1.0

@@ -7,7 +7,7 @@ name: Solitude
 scryfall_id: 47a6234f-309f-4e03-9263-66da48b57153
 set: mh2
 type: Creature — Elemental Incarnation
-meta_presence: 0.2
+meta_presence: 0.2005
 archetypes:
   boros-energy:
     weight: 0.1155
@@ -16,14 +16,14 @@ archetypes:
     weight: 1.0
     avg_copies: 3.91
   eldrazi-tron:
-    weight: 0.0068
+    weight: 0.0065
     avg_copies: 4.0
   goryo:
-    weight: 0.9858
+    weight: 0.9863
     avg_copies: 3.81
   azorius-control:
     weight: 1.0
-    avg_copies: 3.24
+    avg_copies: 3.26
   jeskai-control:
     weight: 0.8276
     avg_copies: 2.96
@@ -35,7 +35,7 @@ archetypes:
     avg_copies: 4.0
   boros-ponza:
     weight: 1.0
-    avg_copies: 3.15
+    avg_copies: 3.17
   4c-omnath:
     weight: 1.0
     avg_copies: 4.0
@@ -92,7 +92,7 @@ archetypes:
     avg_copies: 3.0
   unknown-26:
     weight: 1.0
-    avg_copies: 3.91
+    avg_copies: 3.69
   unknown-48:
     weight: 1.0
     avg_copies: 4.0

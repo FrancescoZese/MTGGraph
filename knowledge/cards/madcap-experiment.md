@@ -7,8 +7,11 @@ name: Madcap Experiment
 scryfall_id: 05768b87-d2df-42fc-bf63-e471d31b32e3
 set: kld
 type: Sorcery
-meta_presence: 0.0008
+meta_presence: 0.0011
 archetypes:
+  boros-ponza:
+    weight: 0.0093
+    avg_copies: 3.0
   eldrazi-ramp:
     weight: 0.0112
     avg_copies: 3.0

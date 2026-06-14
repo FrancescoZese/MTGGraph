@@ -9,10 +9,10 @@ top_cards:
 - name: Valakut, the Molten Pinnacle
   weight: 1.0
   avg_copies: 4.0
-- name: Wrenn and Six
+- name: Dryad of the Ilysian Grove
   weight: 1.0
   avg_copies: 4.0
-- name: Dryad of the Ilysian Grove
+- name: Wrenn and Six
   weight: 1.0
   avg_copies: 4.0
 - name: Vibrance
@@ -75,16 +75,16 @@ top_cards:
 - name: Ghost Quarter
   weight: 0.8
   avg_copies: 1.25
-- name: Shifting Woodland
+- name: Bojuka Bog
   weight: 0.8
   avg_copies: 1.0
 - name: Dryad Arbor
   weight: 0.8
   avg_copies: 1.0
-- name: Bojuka Bog
+- name: Collector Ouphe
   weight: 0.8
   avg_copies: 1.0
-- name: Collector Ouphe
+- name: Shifting Woodland
   weight: 0.8
   avg_copies: 1.0
 - name: Lightning Bolt
@@ -105,28 +105,28 @@ top_cards:
 - name: Scapeshift
   weight: 0.2
   avg_copies: 3.0
+- name: Disruptor Flute
+  weight: 0.2
+  avg_copies: 2.0
 - name: Erode
   weight: 0.2
   avg_copies: 2.0
 - name: Fire Magic
   weight: 0.2
   avg_copies: 2.0
-- name: Disruptor Flute
-  weight: 0.2
-  avg_copies: 2.0
 - name: Orim's Chant
   weight: 0.2
   avg_copies: 2.0
-- name: Endurance
-  weight: 0.2
-  avg_copies: 1.0
 - name: Jetmir's Garden
   weight: 0.2
   avg_copies: 1.0
-- name: Dwarven Mine
+- name: Endurance
   weight: 0.2
   avg_copies: 1.0
 - name: Sacred Foundry
+  weight: 0.2
+  avg_copies: 1.0
+- name: Dwarven Mine
   weight: 0.2
   avg_copies: 1.0
 - name: Sakura-Tribe Elder
