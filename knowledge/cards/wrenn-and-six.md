@@ -18,7 +18,7 @@ archetypes:
     avg_copies: 3.0
   indomitable-creativity:
     weight: 1.0
-    avg_copies: 3.45
+    avg_copies: 3.5
   jund-saga:
     weight: 1.0
     avg_copies: 3.33

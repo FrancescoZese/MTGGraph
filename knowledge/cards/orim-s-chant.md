@@ -7,22 +7,22 @@ name: Orim's Chant
 scryfall_id: ee241079-1e5a-4224-b9cb-4fd3e0da687c
 set: mh3
 type: Instant
-meta_presence: 0.2093
+meta_presence: 0.2062
 archetypes:
   ruby-storm:
-    weight: 0.8257
+    weight: 0.8182
     avg_copies: 3.12
   boros-energy:
-    weight: 0.8239
+    weight: 0.8217
     avg_copies: 1.77
   mono-blue-belcher:
-    weight: 0.0625
+    weight: 0.0615
     avg_copies: 3.0
   jeskai-energy:
     weight: 0.0078
     avg_copies: 4.0
   goryo:
-    weight: 0.0205
+    weight: 0.0192
     avg_copies: 2.33
   azorius-control:
     weight: 1.0
@@ -31,31 +31,31 @@ archetypes:
     weight: 0.8621
     avg_copies: 3.67
   burn:
-    weight: 0.0769
+    weight: 0.0714
     avg_copies: 1.5
   mono-red-belcher:
     weight: 0.4167
     avg_copies: 3.56
   boros-ponza:
-    weight: 0.7757
+    weight: 0.7818
     avg_copies: 1.77
   4c-omnath:
     weight: 0.25
     avg_copies: 4.0
   esper-blink:
-    weight: 0.0328
+    weight: 0.0312
     avg_copies: 2.0
   indomitable-creativity:
-    weight: 0.2727
+    weight: 0.25
     avg_copies: 2.67
   broodscale-combo:
-    weight: 0.0075
+    weight: 0.0071
     avg_copies: 2.0
   orzhov-blink:
     weight: 0.1111
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.0769
+    weight: 0.075
     avg_copies: 1.67
   scapeshift-combo:
     weight: 0.1667
@@ -91,16 +91,16 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-26:
-    weight: 0.3077
+    weight: 0.2857
     avg_copies: 2.25
   unknown-48:
     weight: 0.5
     avg_copies: 2.0
   unknown-62:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 1.0
   unknown-68:
-    weight: 0.375
+    weight: 0.3462
     avg_copies: 1.33
   unknown-70:
     weight: 0.6667
@@ -112,7 +112,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.67
   unknown-88:
-    weight: 0.25
+    weight: 0.1667
     avg_copies: 2.0
   unknown-93:
     weight: 1.0
@@ -134,5 +134,8 @@ archetypes:
     avg_copies: 4.0
   unknown-126:
     weight: 1.0
-    avg_copies: 2.67
+    avg_copies: 2.8
+  unknown-140:
+    weight: 1.0
+    avg_copies: 4.0
 ---

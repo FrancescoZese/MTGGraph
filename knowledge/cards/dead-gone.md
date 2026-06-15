@@ -10,17 +10,17 @@ type: Instant // Instant
 meta_presence: 0.0099
 archetypes:
   boros-ponza:
-    weight: 0.0093
+    weight: 0.0091
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0147
+    weight: 0.0145
     avg_copies: 1.0
   unknown-65:
     weight: 1.0
     avg_copies: 3.64
   unknown-67:
-    weight: 0.186
-    avg_copies: 2.12
+    weight: 0.2
+    avg_copies: 2.11
   unknown-84:
     weight: 0.5
     avg_copies: 1.0

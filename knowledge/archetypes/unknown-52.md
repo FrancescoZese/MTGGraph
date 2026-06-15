@@ -3,42 +3,42 @@ colors:
 - B
 - G
 name: 'Unknown #52'
-meta_share: 0.0019
-list_count: 7
+meta_share: 0.0021
+list_count: 8
 top_cards:
-- name: Malevolent Rumble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Warren Soultrader
-  weight: 1.0
-  avg_copies: 4.0
 - name: Orcish Bowmasters
-  weight: 1.0
-  avg_copies: 4.0
-- name: Gravecrawler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 4.0
-- name: Shambling Ghast
   weight: 1.0
   avg_copies: 4.0
 - name: Phoenix Fleet Airship
   weight: 1.0
   avg_copies: 4.0
-- name: Marionette Apprentice
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
-- name: Phyrexian Tower
+- name: Marionette Apprentice
   weight: 1.0
   avg_copies: 4.0
 - name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
+- name: Shambling Ghast
+  weight: 1.0
+  avg_copies: 4.0
+- name: Warren Soultrader
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 4.0
+- name: Gravecrawler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Phyrexian Tower
+  weight: 1.0
+  avg_copies: 4.0
 - name: Thoughtseize
   weight: 1.0
-  avg_copies: 3.71
+  avg_copies: 3.75
 - name: Culling Ritual
   weight: 1.0
   avg_copies: 3.0
@@ -47,29 +47,29 @@ top_cards:
   avg_copies: 3.0
 - name: Vexing Bauble
   weight: 1.0
-  avg_copies: 2.86
+  avg_copies: 2.88
 - name: Fatal Push
   weight: 1.0
-  avg_copies: 2.71
+  avg_copies: 2.75
 - name: Nihil Spellbomb
   weight: 1.0
   avg_copies: 2.0
 - name: Overgrown Tomb
   weight: 1.0
-  avg_copies: 1.57
+  avg_copies: 1.5
 - name: Underground Mortuary
   weight: 1.0
-  avg_copies: 1.43
-- name: Ashiok, Dream Render
+  avg_copies: 1.5
+- name: Swamp
   weight: 1.0
-  avg_copies: 1.14
+  avg_copies: 1.38
 - name: Chthonian Nightmare
   weight: 1.0
-  avg_copies: 1.14
-- name: Shatter Assumptions
+  avg_copies: 1.25
+- name: Ashiok, Dream Render
   weight: 1.0
-  avg_copies: 1.0
-- name: Swamp
+  avg_copies: 1.12
+- name: Shatter Assumptions
   weight: 1.0
   avg_copies: 1.0
 - name: Spymaster's Vault
@@ -82,19 +82,19 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Break the Ice
-  weight: 0.8571
-  avg_copies: 1.83
+  weight: 0.875
+  avg_copies: 1.86
 - name: Polluted Delta
-  weight: 0.4286
+  weight: 0.5
   avg_copies: 1.0
 - name: Nurturing Peatland
-  weight: 0.4286
+  weight: 0.375
   avg_copies: 1.0
 - name: Graveyard Trespasser
-  weight: 0.1429
+  weight: 0.125
   avg_copies: 3.0
 - name: Cling to Dust
-  weight: 0.1429
+  weight: 0.125
   avg_copies: 1.0
 ---
 Unclassified archetype, pending review.

@@ -10,7 +10,7 @@ type: Sorcery — Lesson
 meta_presence: 0.0397
 archetypes:
   domain-zoo:
-    weight: 0.0118
+    weight: 0.0116
     avg_copies: 1.0
   boros-ponza:
     weight: 1.0
@@ -19,7 +19,7 @@ archetypes:
     weight: 0.0337
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0479
+    weight: 0.0462
     avg_copies: 1.0
   rakdos-aggro:
     weight: 0.1333
@@ -35,7 +35,7 @@ archetypes:
     avg_copies: 4.0
   unknown-26:
     weight: 1.0
-    avg_copies: 3.92
+    avg_copies: 3.93
   unknown-45:
     weight: 0.0588
     avg_copies: 2.0

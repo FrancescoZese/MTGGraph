@@ -7,7 +7,7 @@ name: Cling to Dust
 scryfall_id: 52c2de5f-e486-4cfe-9fb6-be0078ce5f93
 set: thb
 type: Instant
-meta_presence: 0.0359
+meta_presence: 0.0357
 archetypes:
   dimir-control:
     weight: 0.9506
@@ -16,10 +16,10 @@ archetypes:
     weight: 0.027
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0147
+    weight: 0.0145
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0164
+    weight: 0.0156
     avg_copies: 1.0
   rakdos-aggro:
     weight: 0.2
@@ -28,7 +28,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   goryo5:
-    weight: 0.1667
+    weight: 0.125
     avg_copies: 2.0
   soultrader-combo:
     weight: 0.2
@@ -55,13 +55,13 @@ archetypes:
     weight: 0.0588
     avg_copies: 1.0
   unknown-47:
-    weight: 0.871
-    avg_copies: 1.33
+    weight: 0.8529
+    avg_copies: 1.31
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
   unknown-52:
-    weight: 0.1429
+    weight: 0.125
     avg_copies: 1.0
   unknown-57:
     weight: 1.0
@@ -84,4 +84,7 @@ archetypes:
   unknown-132:
     weight: 1.0
     avg_copies: 2.0
+  unknown-146:
+    weight: 1.0
+    avg_copies: 3.0
 ---

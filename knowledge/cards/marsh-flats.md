@@ -6,10 +6,10 @@ name: Marsh Flats
 scryfall_id: 9db3ba6d-eb7f-4f5b-9a3b-c6239c3baa42
 set: mh2
 type: Land
-meta_presence: 0.2657
+meta_presence: 0.2658
 archetypes:
   boros-energy:
-    weight: 0.9667
+    weight: 0.9671
     avg_copies: 3.3
   dimir-control:
     weight: 0.3827
@@ -18,16 +18,16 @@ archetypes:
     weight: 0.0543
     avg_copies: 1.0
   goryo:
-    weight: 0.9932
-    avg_copies: 3.3
+    weight: 0.9936
+    avg_copies: 3.28
   necrodominance:
     weight: 0.1622
     avg_copies: 1.17
   azorius-control:
-    weight: 0.3261
+    weight: 0.3191
     avg_copies: 1.93
   domain-zoo:
-    weight: 0.0235
+    weight: 0.0233
     avg_copies: 4.0
   reanimator:
     weight: 0.037
@@ -39,20 +39,20 @@ archetypes:
     weight: 0.625
     avg_copies: 3.2
   hollow-one:
-    weight: 0.2258
+    weight: 0.2188
     avg_copies: 1.71
   simic-ritual:
-    weight: 0.0147
+    weight: 0.0145
     avg_copies: 4.0
   esper-blink:
     weight: 1.0
-    avg_copies: 3.79
+    avg_copies: 3.8
   orzhov-blink:
     weight: 1.0
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.8718
-    avg_copies: 2.18
+    weight: 0.875
+    avg_copies: 2.17
   rakdos-aggro:
     weight: 0.0667
     avg_copies: 4.0
@@ -66,10 +66,10 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   goryo1:
-    weight: 0.0115
+    weight: 0.0112
     avg_copies: 1.0
   goryo5:
-    weight: 0.8333
+    weight: 0.625
     avg_copies: 3.0
   goryo2:
     weight: 1.0
@@ -105,8 +105,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.871
-    avg_copies: 1.89
+    weight: 0.8529
+    avg_copies: 1.9
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
@@ -121,7 +121,7 @@ archetypes:
     avg_copies: 1.0
   unknown-68:
     weight: 1.0
-    avg_copies: 3.79
+    avg_copies: 3.81
   unknown-69:
     weight: 1.0
     avg_copies: 1.0
@@ -185,4 +185,10 @@ archetypes:
   unknown-139:
     weight: 1.0
     avg_copies: 1.0
+  unknown-142:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-146:
+    weight: 1.0
+    avg_copies: 2.0
 ---

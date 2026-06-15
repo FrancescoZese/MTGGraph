@@ -7,9 +7,12 @@ name: Sign in Blood
 scryfall_id: b89d9372-8682-4a61-a003-8bccfbb6cbb4
 set: dsc
 type: Sorcery
-meta_presence: 0.0005
+meta_presence: 0.0008
 archetypes:
   necrodominance:
     weight: 0.0541
     avg_copies: 2.5
+  goryo5:
+    weight: 0.125
+    avg_copies: 1.0
 ---

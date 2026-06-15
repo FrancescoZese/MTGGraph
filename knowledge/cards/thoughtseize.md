@@ -7,20 +7,20 @@ name: Thoughtseize
 scryfall_id: b281a308-ab6b-47b6-bec7-632c9aaecede
 set: 2xm
 type: Sorcery
-meta_presence: 0.1997
+meta_presence: 0.2022
 archetypes:
   ruby-storm:
-    weight: 0.0092
+    weight: 0.0091
     avg_copies: 2.0
   dimir-control:
     weight: 0.5432
     avg_copies: 2.94
   eldrazi-tron:
-    weight: 0.0196
+    weight: 0.0186
     avg_copies: 4.0
   goryo:
-    weight: 0.9726
-    avg_copies: 2.83
+    weight: 0.9744
+    avg_copies: 2.8
   necrodominance:
     weight: 0.8378
     avg_copies: 3.94
@@ -31,25 +31,25 @@ archetypes:
     weight: 0.7391
     avg_copies: 2.52
   hollow-one:
-    weight: 0.7419
-    avg_copies: 2.83
+    weight: 0.75
+    avg_copies: 2.88
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 2.46
+    avg_copies: 2.47
   simic-ritual:
-    weight: 0.0147
+    weight: 0.0145
     avg_copies: 4.0
   izzet-prowess:
-    weight: 0.0213
+    weight: 0.0205
     avg_copies: 3.0
   esper-blink:
-    weight: 0.9508
-    avg_copies: 3.55
+    weight: 0.9531
+    avg_copies: 3.57
   samwise-combo:
-    weight: 0.7556
-    avg_copies: 2.44
+    weight: 0.7609
+    avg_copies: 2.46
   indomitable-creativity:
-    weight: 0.2727
+    weight: 0.25
     avg_copies: 4.0
   orzhov-blink:
     weight: 1.0
@@ -82,11 +82,11 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   goryo1:
-    weight: 0.977
-    avg_copies: 3.79
+    weight: 0.9775
+    avg_copies: 3.8
   goryo5:
     weight: 1.0
-    avg_copies: 3.67
+    avg_copies: 3.75
   goryo2:
     weight: 1.0
     avg_copies: 3.0
@@ -148,14 +148,14 @@ archetypes:
     weight: 1.0
     avg_copies: 2.4
   unknown-47:
-    weight: 0.9677
-    avg_copies: 3.8
+    weight: 0.9706
+    avg_copies: 3.82
   unknown-50:
     weight: 1.0
     avg_copies: 2.0
   unknown-52:
     weight: 1.0
-    avg_copies: 3.71
+    avg_copies: 3.75
   unknown-56:
     weight: 1.0
     avg_copies: 3.0
@@ -169,8 +169,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-68:
-    weight: 0.9583
-    avg_copies: 2.54
+    weight: 0.9615
+    avg_copies: 2.52
   unknown-69:
     weight: 1.0
     avg_copies: 2.0
@@ -202,7 +202,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-101:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 4.0
   unknown-105:
     weight: 1.0
@@ -237,4 +237,10 @@ archetypes:
   unknown-139:
     weight: 1.0
     avg_copies: 3.0
+  unknown-146:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-148:
+    weight: 1.0
+    avg_copies: 1.0
 ---

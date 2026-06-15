@@ -10,7 +10,7 @@ type: Enchantment Creature — Nightmare
 meta_presence: 0.0088
 archetypes:
   hollow-one:
-    weight: 0.4516
+    weight: 0.4375
     avg_copies: 2.07
   jund-saga:
     weight: 0.3333
@@ -35,5 +35,5 @@ archetypes:
     avg_copies: 3.0
   unknown-101:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 2.5
 ---

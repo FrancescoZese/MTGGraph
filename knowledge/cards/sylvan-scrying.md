@@ -7,9 +7,12 @@ name: Sylvan Scrying
 scryfall_id: d1b93087-e6a0-4ba9-83ba-a0ed2e396dc7
 set: bfz
 type: Sorcery
-meta_presence: 0.0005
+meta_presence: 0.0008
 archetypes:
   unknown-14:
     weight: 1.0
     avg_copies: 4.0
+  unknown-145:
+    weight: 1.0
+    avg_copies: 2.0
 ---

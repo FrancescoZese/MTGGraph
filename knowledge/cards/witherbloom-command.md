@@ -11,13 +11,13 @@ type: Sorcery
 meta_presence: 0.0016
 archetypes:
   goryo:
-    weight: 0.0137
+    weight: 0.0128
     avg_copies: 1.5
   necrodominance:
     weight: 0.027
     avg_copies: 2.0
   indomitable-creativity:
-    weight: 0.0909
+    weight: 0.0833
     avg_copies: 1.0
   jund-saga:
     weight: 0.3333

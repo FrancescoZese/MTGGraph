@@ -3,25 +3,25 @@ colors:
 - W
 - B
 name: Orzhov Blink
-meta_share: 0.0025
+meta_share: 0.0024
 list_count: 9
 top_cards:
-- name: Overlord of the Balemurk
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Phelia, Exuberant Shepherd
+- name: Fatal Push
   weight: 1.0
   avg_copies: 3.67
-- name: Fatal Push
+- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.67
 - name: Witch Enchanter
@@ -36,10 +36,10 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 2.22
-- name: Shadowy Backstreet
+- name: Plains
   weight: 1.0
   avg_copies: 2.11
-- name: Plains
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 2.11
 - name: Boggart Trawler
@@ -87,13 +87,13 @@ top_cards:
 - name: Flooded Strand
   weight: 0.4444
   avg_copies: 2.25
+- name: Prismatic Ending
+  weight: 0.3333
+  avg_copies: 2.0
 - name: Dawnbringer Cleric
   weight: 0.3333
   avg_copies: 2.0
 - name: Sheoldred's Edict
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Prismatic Ending
   weight: 0.3333
   avg_copies: 2.0
 - name: Vexing Bauble
@@ -111,16 +111,16 @@ top_cards:
 - name: Polluted Delta
   weight: 0.2222
   avg_copies: 1.5
-- name: Erode
-  weight: 0.2222
-  avg_copies: 1.0
-- name: March of Otherworldly Light
-  weight: 0.2222
-  avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.2222
   avg_copies: 1.0
+- name: Erode
+  weight: 0.2222
+  avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
+  weight: 0.2222
+  avg_copies: 1.0
+- name: March of Otherworldly Light
   weight: 0.2222
   avg_copies: 1.0
 - name: Orim's Chant
@@ -129,10 +129,10 @@ top_cards:
 - name: Force of Despair
   weight: 0.1111
   avg_copies: 3.0
-- name: Deafening Silence
+- name: Faerie Macabre
   weight: 0.1111
   avg_copies: 3.0
-- name: Faerie Macabre
+- name: Deafening Silence
   weight: 0.1111
   avg_copies: 3.0
 - name: Windswept Heath
@@ -153,19 +153,19 @@ top_cards:
 - name: Drannith Magistrate
   weight: 0.1111
   avg_copies: 1.0
-- name: Emptiness
+- name: Monumental Henge
   weight: 0.1111
   avg_copies: 1.0
-- name: Monumental Henge
+- name: Emptiness
   weight: 0.1111
   avg_copies: 1.0
 - name: Raucous Theater
   weight: 0.1111
   avg_copies: 1.0
-- name: Vindicate
+- name: Eiganjo, Seat of the Empire
   weight: 0.1111
   avg_copies: 1.0
-- name: Eiganjo, Seat of the Empire
+- name: Vindicate
   weight: 0.1111
   avg_copies: 1.0
 ---

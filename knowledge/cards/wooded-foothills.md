@@ -6,13 +6,13 @@ name: Wooded Foothills
 scryfall_id: 4e11ea8a-f895-438d-a3b7-f070238e4161
 set: mh3
 type: Land
-meta_presence: 0.2142
+meta_presence: 0.2136
 archetypes:
   ruby-storm:
-    weight: 0.9541
-    avg_copies: 2.37
+    weight: 0.9545
+    avg_copies: 2.36
   amulet-titan:
-    weight: 0.0459
+    weight: 0.045
     avg_copies: 1.0
   domain-zoo:
     weight: 1.0
@@ -21,34 +21,34 @@ archetypes:
     weight: 0.1111
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.66
+    weight: 0.6731
     avg_copies: 1.0
   burn:
     weight: 1.0
-    avg_copies: 1.58
+    avg_copies: 1.61
   hollow-one:
-    weight: 0.871
-    avg_copies: 2.26
+    weight: 0.875
+    avg_copies: 2.21
   yawgmoth-combo:
-    weight: 0.3148
-    avg_copies: 1.35
+    weight: 0.3273
+    avg_copies: 1.33
   eldrazi-ramp:
     weight: 0.9326
     avg_copies: 1.4
   simic-ritual:
-    weight: 0.1029
+    weight: 0.1014
     avg_copies: 3.29
   izzet-prowess:
-    weight: 0.9043
-    avg_copies: 2.59
+    weight: 0.8974
+    avg_copies: 2.61
   samwise-combo:
-    weight: 0.3778
-    avg_copies: 1.41
+    weight: 0.3913
+    avg_copies: 1.39
   indomitable-creativity:
-    weight: 0.8182
+    weight: 0.75
     avg_copies: 2.67
   broodscale-combo:
-    weight: 0.3731
+    weight: 0.3617
     avg_copies: 1.2
   dredge:
     weight: 0.6667
@@ -92,6 +92,9 @@ archetypes:
   unknown-8:
     weight: 1.0
     avg_copies: 2.0
+  unknown-15:
+    weight: 0.3333
+    avg_copies: 1.0
   unknown-19:
     weight: 1.0
     avg_copies: 3.0
@@ -107,6 +110,9 @@ archetypes:
   unknown-33:
     weight: 1.0
     avg_copies: 4.0
+  unknown-54:
+    weight: 0.3333
+    avg_copies: 3.0
   unknown-58:
     weight: 1.0
     avg_copies: 1.0
@@ -114,7 +120,7 @@ archetypes:
     weight: 0.96
     avg_copies: 2.96
   unknown-67:
-    weight: 0.1628
+    weight: 0.1556
     avg_copies: 1.14
   unknown-71:
     weight: 1.0
@@ -130,7 +136,7 @@ archetypes:
     avg_copies: 4.0
   unknown-85:
     weight: 1.0
-    avg_copies: 3.89
+    avg_copies: 3.9
   unknown-86:
     weight: 0.6667
     avg_copies: 3.0
@@ -152,6 +158,9 @@ archetypes:
   unknown-100:
     weight: 1.0
     avg_copies: 3.5
+  unknown-101:
+    weight: 0.5
+    avg_copies: 2.0
   unknown-116:
     weight: 1.0
     avg_copies: 2.5

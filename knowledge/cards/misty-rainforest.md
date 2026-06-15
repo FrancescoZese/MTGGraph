@@ -6,10 +6,10 @@ name: Misty Rainforest
 scryfall_id: 88231c0d-0cc8-44ec-bf95-81d1710ac141
 set: mh2
 type: Land
-meta_presence: 0.146
+meta_presence: 0.1454
 archetypes:
   ruby-storm:
-    weight: 0.0183
+    weight: 0.0182
     avg_copies: 1.0
   dimir-control:
     weight: 0.3457
@@ -18,16 +18,16 @@ archetypes:
     weight: 0.0078
     avg_copies: 3.0
   goryo:
-    weight: 0.0137
+    weight: 0.0128
     avg_copies: 1.5
   azorius-control:
-    weight: 0.2609
+    weight: 0.2553
     avg_copies: 1.08
   living-end:
     weight: 1.0
     avg_copies: 3.74
   affinity:
-    weight: 0.0671
+    weight: 0.0665
     avg_copies: 1.86
   mill:
     weight: 0.3333
@@ -36,37 +36,37 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.98
-    avg_copies: 3.73
+    weight: 0.9808
+    avg_copies: 3.75
   kethis-combo:
     weight: 1.0
     avg_copies: 3.2
   yawgmoth-combo:
-    weight: 0.2593
-    avg_copies: 1.29
+    weight: 0.2727
+    avg_copies: 1.33
   eldrazi-ramp:
     weight: 0.6404
     avg_copies: 1.23
   simic-ritual:
-    weight: 0.9853
-    avg_copies: 3.7
+    weight: 0.9855
+    avg_copies: 3.71
   izzet-prowess:
-    weight: 0.0213
+    weight: 0.0205
     avg_copies: 1.75
   4c-omnath:
     weight: 0.75
     avg_copies: 3.67
   samwise-combo:
-    weight: 0.6667
+    weight: 0.6522
     avg_copies: 1.4
   broodscale-combo:
     weight: 0.1418
-    avg_copies: 1.16
+    avg_copies: 1.15
   bant-control:
     weight: 1.0
     avg_copies: 2.0
   izzet-artifacts:
-    weight: 0.0968
+    weight: 0.0938
     avg_copies: 3.0
   elves:
     weight: 1.0
@@ -126,8 +126,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-47:
-    weight: 0.0968
-    avg_copies: 2.0
+    weight: 0.1176
+    avg_copies: 2.25
   unknown-59:
     weight: 1.0
     avg_copies: 4.0
@@ -139,7 +139,7 @@ archetypes:
     avg_copies: 3.88
   unknown-67:
     weight: 1.0
-    avg_copies: 3.86
+    avg_copies: 3.8
   unknown-73:
     weight: 1.0
     avg_copies: 4.0
@@ -188,4 +188,10 @@ archetypes:
   unknown-138:
     weight: 1.0
     avg_copies: 1.0
+  unknown-144:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-145:
+    weight: 1.0
+    avg_copies: 4.0
 ---

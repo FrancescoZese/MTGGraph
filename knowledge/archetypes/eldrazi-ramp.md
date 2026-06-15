@@ -3,7 +3,7 @@ colors:
 - R
 - G
 name: Eldrazi Ramp
-meta_share: 0.0244
+meta_share: 0.0237
 list_count: 89
 top_cards:
 - name: Kozilek's Command
@@ -123,10 +123,10 @@ top_cards:
 - name: Karn, the Great Creator
   weight: 0.2697
   avg_copies: 2.62
-- name: Liquimetal Coating
+- name: Ensnaring Bridge
   weight: 0.2697
   avg_copies: 1.0
-- name: Ensnaring Bridge
+- name: Liquimetal Coating
   weight: 0.2697
   avg_copies: 1.0
 - name: Tormod's Crypt
@@ -159,10 +159,10 @@ top_cards:
 - name: Pithing Needle
   weight: 0.1348
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Hedge Maze
   weight: 0.1348
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Boseiju, Who Endures
   weight: 0.1348
   avg_copies: 1.0
 - name: Breeding Pool
@@ -204,37 +204,34 @@ top_cards:
 - name: Herigast, Erupting Nullkite
   weight: 0.0449
   avg_copies: 1.5
-- name: Improvisation Capstone
-  weight: 0.0449
-  avg_copies: 1.0
 - name: Iroh's Demonstration
-  weight: 0.0449
-  avg_copies: 1.0
-- name: Void Mirror
-  weight: 0.0449
-  avg_copies: 1.0
-- name: Origin of Metalbending
   weight: 0.0449
   avg_copies: 1.0
 - name: Six
   weight: 0.0449
   avg_copies: 1.0
+- name: Origin of Metalbending
+  weight: 0.0449
+  avg_copies: 1.0
+- name: Improvisation Capstone
+  weight: 0.0449
+  avg_copies: 1.0
+- name: Void Mirror
+  weight: 0.0449
+  avg_copies: 1.0
 - name: Talisman of Resilience
   weight: 0.0337
   avg_copies: 2.0
-- name: Blasphemous Act
-  weight: 0.0337
-  avg_copies: 1.67
 - name: Surgical Extraction
   weight: 0.0337
   avg_copies: 1.67
-- name: Price of Freedom
+- name: Blasphemous Act
+  weight: 0.0337
+  avg_copies: 1.67
+- name: Damping Sphere
   weight: 0.0337
   avg_copies: 1.0
 - name: True Ancestry
-  weight: 0.0337
-  avg_copies: 1.0
-- name: Damping Sphere
   weight: 0.0337
   avg_copies: 1.0
 - name: Redirect Lightning
@@ -243,40 +240,43 @@ top_cards:
 - name: Palantír of Orthanc
   weight: 0.0337
   avg_copies: 1.0
+- name: Price of Freedom
+  weight: 0.0337
+  avg_copies: 1.0
 - name: Nihil Spellbomb
   weight: 0.0225
   avg_copies: 3.5
-- name: Flusterstorm
+- name: Blood Moon
   weight: 0.0225
   avg_copies: 2.0
-- name: Blood Moon
+- name: Flusterstorm
   weight: 0.0225
   avg_copies: 2.0
 - name: Stone Rain
   weight: 0.0225
   avg_copies: 1.5
-- name: Arena of Glory
-  weight: 0.0225
-  avg_copies: 1.0
 - name: Ilharg, the Raze-Boar
   weight: 0.0225
   avg_copies: 1.0
-- name: Underground Mortuary
-  weight: 0.0225
-  avg_copies: 1.0
-- name: Firebending Lesson
+- name: Arena of Glory
   weight: 0.0225
   avg_copies: 1.0
 - name: Overgrown Tomb
   weight: 0.0225
   avg_copies: 1.0
+- name: Underground Mortuary
+  weight: 0.0225
+  avg_copies: 1.0
 - name: Vibrance
   weight: 0.0225
   avg_copies: 1.0
-- name: Thief of Existence
+- name: Wastescape Battlemage
   weight: 0.0225
   avg_copies: 1.0
-- name: Wastescape Battlemage
+- name: Firebending Lesson
+  weight: 0.0225
+  avg_copies: 1.0
+- name: Thief of Existence
   weight: 0.0225
   avg_copies: 1.0
 - name: Madcap Experiment
@@ -285,43 +285,43 @@ top_cards:
 - name: Abrupt Decay
   weight: 0.0112
   avg_copies: 2.0
-- name: Untimely Malfunction
-  weight: 0.0112
-  avg_copies: 1.0
-- name: Ketria Triome
-  weight: 0.0112
-  avg_copies: 1.0
-- name: Ratchet Bomb
-  weight: 0.0112
-  avg_copies: 1.0
-- name: Walking Ballista
-  weight: 0.0112
-  avg_copies: 1.0
-- name: Endurance
-  weight: 0.0112
-  avg_copies: 1.0
-- name: Culling Ritual
-  weight: 0.0112
-  avg_copies: 1.0
 - name: card:platinum-emperion
-  weight: 0.0112
-  avg_copies: 1.0
-- name: Hedron Archive
-  weight: 0.0112
-  avg_copies: 1.0
-- name: Mutable Explorer
-  weight: 0.0112
-  avg_copies: 1.0
-- name: Darksteel Citadel
-  weight: 0.0112
-  avg_copies: 1.0
-- name: Collector Ouphe
   weight: 0.0112
   avg_copies: 1.0
 - name: Seismic Sense
   weight: 0.0112
   avg_copies: 1.0
+- name: Walking Ballista
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Ketria Triome
+  weight: 0.0112
+  avg_copies: 1.0
 - name: Ugin, the Spirit Dragon
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Culling Ritual
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Darksteel Citadel
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Mutable Explorer
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Hedron Archive
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Ratchet Bomb
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Endurance
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Untimely Malfunction
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Collector Ouphe
   weight: 0.0112
   avg_copies: 1.0
 ---

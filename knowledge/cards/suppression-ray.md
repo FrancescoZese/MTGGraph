@@ -11,8 +11,11 @@ archetypes:
   mono-blue-belcher:
     weight: 1.0
     avg_copies: 3.89
+  goryo:
+    weight: 0.0064
+    avg_copies: 1.0
   azorius-control:
-    weight: 0.0435
+    weight: 0.0426
     avg_copies: 4.0
   unknown-16:
     weight: 0.6667

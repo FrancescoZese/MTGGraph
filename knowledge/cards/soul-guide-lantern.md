@@ -6,13 +6,13 @@ name: Soul-Guide Lantern
 scryfall_id: f4907e7b-d6d5-4e9b-968f-bce34ae4a577
 set: eoc
 type: Artifact
-meta_presence: 0.0964
+meta_presence: 0.0975
 archetypes:
   ruby-storm:
-    weight: 0.0183
+    weight: 0.0182
     avg_copies: 2.0
   boros-energy:
-    weight: 0.1076
+    weight: 0.1105
     avg_copies: 1.11
   dimir-control:
     weight: 0.0247
@@ -21,16 +21,16 @@ archetypes:
     weight: 0.2248
     avg_copies: 1.55
   eldrazi-tron:
-    weight: 0.0131
+    weight: 0.0124
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.2294
+    weight: 0.2432
     avg_copies: 1.0
   goryo:
-    weight: 0.0068
+    weight: 0.0064
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0652
+    weight: 0.0638
     avg_copies: 2.67
   jeskai-control:
     weight: 0.3793
@@ -42,31 +42,31 @@ archetypes:
     weight: 0.125
     avg_copies: 1.0
   hollow-one:
-    weight: 0.0645
+    weight: 0.0625
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.0748
+    weight: 0.0727
     avg_copies: 1.88
   eldrazi-ramp:
     weight: 0.1124
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0147
+    weight: 0.0145
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0798
-    avg_copies: 1.07
+    weight: 0.0872
+    avg_copies: 1.06
   esper-blink:
-    weight: 0.0164
+    weight: 0.0156
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.8881
-    avg_copies: 1.09
+    weight: 0.8936
+    avg_copies: 1.08
   azorius-blink:
-    weight: 0.0513
+    weight: 0.05
     avg_copies: 1.5
   izzet-artifacts:
-    weight: 0.5161
+    weight: 0.5
     avg_copies: 1.0
   izzet-wizards:
     weight: 0.1
@@ -78,7 +78,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.0115
+    weight: 0.0112
     avg_copies: 1.0
   unknown-10:
     weight: 1.0
@@ -87,7 +87,7 @@ archetypes:
     weight: 0.6
     avg_copies: 1.33
   unknown-15:
-    weight: 1.0
+    weight: 0.6667
     avg_copies: 1.0
   unknown-16:
     weight: 1.0
@@ -105,7 +105,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-61:
-    weight: 0.0526
+    weight: 0.05
     avg_copies: 2.0
   unknown-55:
     weight: 1.0

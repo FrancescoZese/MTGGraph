@@ -16,17 +16,17 @@ archetypes:
     weight: 0.5135
     avg_copies: 3.3
   samwise-combo:
-    weight: 0.1778
+    weight: 0.1739
     avg_copies: 1.0
   grixis-shadow:
     weight: 0.25
     avg_copies: 2.0
   goryo1:
-    weight: 0.0345
+    weight: 0.0337
     avg_copies: 1.33
   goryo5:
-    weight: 1.0
-    avg_copies: 3.43
+    weight: 0.875
+    avg_copies: 3.44
   soultrader-combo:
     weight: 0.4
     avg_copies: 2.5
@@ -60,4 +60,7 @@ archetypes:
   unknown-123:
     weight: 1.0
     avg_copies: 1.0
+  unknown-146:
+    weight: 1.0
+    avg_copies: 3.0
 ---

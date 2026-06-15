@@ -6,10 +6,10 @@ name: Razorgrass Ambush // Razorgrass Field
 scryfall_id: 57065dca-f90e-4184-bbc4-95d726a4160b
 set: mh3
 type: Instant // Land
-meta_presence: 0.0079
+meta_presence: 0.0077
 archetypes:
   mono-blue-belcher:
-    weight: 0.0625
+    weight: 0.0615
     avg_copies: 2.25
   mono-red-belcher:
     weight: 0.25
@@ -21,6 +21,6 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-62:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 1.0
 ---

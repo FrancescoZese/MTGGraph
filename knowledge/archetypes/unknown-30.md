@@ -6,13 +6,13 @@ name: 'Unknown #30'
 meta_share: 0.0016
 list_count: 6
 top_cards:
+- name: Psychic Frog
+  weight: 1.0
+  avg_copies: 4.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Moonshadow
-  weight: 1.0
-  avg_copies: 4.0
-- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Abhorrent Oculus
@@ -27,16 +27,16 @@ top_cards:
 - name: Subtlety
   weight: 1.0
   avg_copies: 3.0
-- name: Watery Grave
-  weight: 1.0
-  avg_copies: 3.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
-- name: Misty Rainforest
+- name: Watery Grave
+  weight: 1.0
+  avg_copies: 3.0
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 2.0
-- name: Flooded Strand
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 2.0
 - name: Ashiok, Dream Render
@@ -45,19 +45,19 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 1.67
-- name: Swamp
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.5
-- name: Undercity Sewers
+- name: Swamp
   weight: 1.0
   avg_copies: 1.5
 - name: Island
   weight: 1.0
   avg_copies: 1.33
-- name: Fallaji Archaeologist
+- name: Thought Scour
   weight: 0.8333
   avg_copies: 4.0
-- name: Thought Scour
+- name: Fallaji Archaeologist
   weight: 0.8333
   avg_copies: 4.0
 - name: Fatal Push
@@ -72,10 +72,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.5
   avg_copies: 3.67
-- name: Pest Control
+- name: High Noon
   weight: 0.5
   avg_copies: 2.0
-- name: High Noon
+- name: Pest Control
   weight: 0.5
   avg_copies: 2.0
 - name: Bloodstained Mire
@@ -93,13 +93,13 @@ top_cards:
 - name: Godless Shrine
   weight: 0.5
   avg_copies: 1.0
-- name: Loran of the Third Path
+- name: Otawara, Soaring City
   weight: 0.5
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.5
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Loran of the Third Path
   weight: 0.5
   avg_copies: 1.0
 - name: Gran-Gran
@@ -117,46 +117,46 @@ top_cards:
 - name: Kaito, Bane of Nightmares
   weight: 0.3333
   avg_copies: 1.0
-- name: Exhibition Tidecaller
+- name: Hedron Crab
   weight: 0.1667
   avg_copies: 4.0
 - name: Merfolk Secretkeeper
   weight: 0.1667
   avg_copies: 4.0
-- name: Hedron Crab
+- name: Exhibition Tidecaller
   weight: 0.1667
   avg_copies: 4.0
 - name: Vengevine
   weight: 0.1667
   avg_copies: 4.0
-- name: Thundertrap Trainer
+- name: Dauthi Voidwalker
   weight: 0.1667
   avg_copies: 2.0
-- name: Dauthi Voidwalker
+- name: Thundertrap Trainer
   weight: 0.1667
   avg_copies: 2.0
 - name: Cephalid Coliseum
   weight: 0.1667
   avg_copies: 1.0
-- name: Graveyard Trespasser
+- name: The Meathook Massacre
   weight: 0.1667
   avg_copies: 1.0
-- name: Requiting Hex
+- name: Verdant Catacombs
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Graveyard Trespasser
   weight: 0.1667
   avg_copies: 1.0
 - name: Lavinia, Azorius Renegade
   weight: 0.1667
   avg_copies: 1.0
-- name: The Meathook Massacre
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Toxic Deluge
+- name: Requiting Hex
   weight: 0.1667
   avg_copies: 1.0
 - name: Engineered Explosives
   weight: 0.1667
   avg_copies: 1.0
-- name: Verdant Catacombs
+- name: Toxic Deluge
   weight: 0.1667
   avg_copies: 1.0
 ---

@@ -7,11 +7,11 @@ name: Fire Magic
 scryfall_id: 415ff6a5-61ef-4b37-ae08-e44476300d4a
 set: fin
 type: Instant
-meta_presence: 0.0534
+meta_presence: 0.0538
 archetypes:
   ruby-storm:
-    weight: 0.3211
-    avg_copies: 1.77
+    weight: 0.3273
+    avg_copies: 1.75
   dimir-control:
     weight: 0.2346
     avg_copies: 1.71
@@ -19,35 +19,35 @@ archetypes:
     weight: 0.0078
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.2936
+    weight: 0.2883
     avg_copies: 2.56
   azorius-control:
-    weight: 0.0652
+    weight: 0.0638
     avg_copies: 1.67
   jeskai-control:
     weight: 0.5172
     avg_copies: 1.47
   domain-zoo:
-    weight: 0.0118
+    weight: 0.0116
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.1028
+    weight: 0.1
     avg_copies: 1.69
   simic-ritual:
-    weight: 0.0294
+    weight: 0.029
     avg_copies: 2.5
   izzet-prowess:
-    weight: 0.0213
-    avg_copies: 1.5
+    weight: 0.0256
+    avg_copies: 1.4
   broodscale-combo:
-    weight: 0.0224
-    avg_copies: 3.0
+    weight: 0.0284
+    avg_copies: 2.5
   dredge:
     weight: 0.0556
     avg_copies: 2.0
   izzet-artifacts:
-    weight: 0.7097
-    avg_copies: 2.27
+    weight: 0.7188
+    avg_copies: 2.22
   izzet-wizards:
     weight: 0.8
     avg_copies: 1.75
@@ -73,7 +73,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 4.0
   goryo1:
-    weight: 0.0345
+    weight: 0.0337
     avg_copies: 1.67
   grixis-control:
     weight: 1.0
@@ -84,6 +84,9 @@ archetypes:
   unknown-11:
     weight: 0.4
     avg_copies: 1.0
+  unknown-15:
+    weight: 0.6667
+    avg_copies: 1.5
   unknown-25:
     weight: 1.0
     avg_copies: 2.0
@@ -100,7 +103,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-54:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 2.0
   unknown-58:
     weight: 1.0
@@ -124,6 +127,9 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   unknown-112:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-147:
     weight: 1.0
     avg_copies: 2.0
 ---

@@ -12,22 +12,22 @@ archetypes:
     weight: 0.0123
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.2418
+    weight: 0.2298
     avg_copies: 1.07
   burn:
-    weight: 0.0385
+    weight: 0.0357
     avg_copies: 2.0
   mono-blue-tron:
-    weight: 0.2308
-    avg_copies: 2.33
+    weight: 0.2
+    avg_copies: 2.2
   mono-red-belcher:
     weight: 0.0833
     avg_copies: 4.0
   boros-ponza:
-    weight: 0.028
+    weight: 0.0364
     avg_copies: 3.0
   esper-blink:
-    weight: 0.0164
+    weight: 0.0156
     avg_copies: 1.0
   orzhov-blink:
     weight: 0.6667
@@ -39,7 +39,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo4:
-    weight: 0.25
+    weight: 0.2222
     avg_copies: 2.0
   goryo6:
     weight: 0.5
@@ -51,8 +51,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-26:
-    weight: 0.1538
-    avg_copies: 3.67
+    weight: 0.2143
+    avg_copies: 3.0
   unknown-48:
     weight: 1.0
     avg_copies: 1.5

@@ -7,15 +7,15 @@ name: End the Festivities
 scryfall_id: bec748e6-7245-4a71-aeee-cefed8346948
 set: vow
 type: Sorcery
-meta_presence: 0.0041
+meta_presence: 0.0043
 archetypes:
   reanimator:
     weight: 0.1111
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0372
+    weight: 0.0359
     avg_copies: 1.0
   unknown-1:
     weight: 1.0
-    avg_copies: 1.2
+    avg_copies: 1.33
 ---

@@ -4,7 +4,7 @@ colors:
 - B
 - G
 name: Living End
-meta_share: 0.0148
+meta_share: 0.0144
 list_count: 54
 top_cards:
 - name: Endurance
@@ -34,10 +34,10 @@ top_cards:
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 1.48
-- name: Breeding Pool
+- name: Hedge Maze
   weight: 1.0
   avg_copies: 1.04
-- name: Hedge Maze
+- name: Breeding Pool
   weight: 1.0
   avg_copies: 1.04
 - name: Forest
@@ -145,13 +145,13 @@ top_cards:
 - name: Kavaero, Mind-Bitten
   weight: 0.2593
   avg_copies: 1.0
+- name: Fracturing Gust
+  weight: 0.2593
+  avg_copies: 1.0
 - name: Temple Garden
   weight: 0.2593
   avg_copies: 1.0
 - name: Lush Portico
-  weight: 0.2593
-  avg_copies: 1.0
-- name: Fracturing Gust
   weight: 0.2593
   avg_copies: 1.0
 - name: Hallowed Fountain
@@ -178,10 +178,10 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 0.0926
   avg_copies: 1.33
-- name: Flooded Strand
+- name: Drannith Magistrate
   weight: 0.0926
   avg_copies: 1.2
-- name: Drannith Magistrate
+- name: Flooded Strand
   weight: 0.0926
   avg_copies: 1.2
 - name: Titanoth Rex
@@ -205,61 +205,46 @@ top_cards:
 - name: Abhorrent Oculus
   weight: 0.037
   avg_copies: 1.0
-- name: Stomping Ground
-  weight: 0.037
-  avg_copies: 1.0
 - name: High Noon
   weight: 0.037
   avg_copies: 1.0
 - name: Windcaller Aven
   weight: 0.037
   avg_copies: 1.0
-- name: Violent Outburst
+- name: Stomping Ground
+  weight: 0.037
+  avg_copies: 1.0
+- name: Rough
   weight: 0.0185
   avg_copies: 4.0
-- name: Rough
+- name: Violent Outburst
   weight: 0.0185
   avg_copies: 4.0
 - name: Atraxa, Grand Unifier
   weight: 0.0185
   avg_copies: 3.0
-- name: Ashiok, Dream Render
-  weight: 0.0185
-  avg_copies: 2.0
-- name: Soulless Jailer
-  weight: 0.0185
-  avg_copies: 2.0
 - name: Fulminator Mage
   weight: 0.0185
   avg_copies: 2.0
 - name: Fade from History
   weight: 0.0185
   avg_copies: 2.0
-- name: Kataki, War's Wage
+- name: Ashiok, Dream Render
+  weight: 0.0185
+  avg_copies: 2.0
+- name: Soulless Jailer
+  weight: 0.0185
+  avg_copies: 2.0
+- name: Press the Enemy
   weight: 0.0185
   avg_copies: 1.0
-- name: card:murderous-rider
-  weight: 0.0185
-  avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Brainsurge
   weight: 0.0185
   avg_copies: 1.0
 - name: Force of Despair
   weight: 0.0185
   avg_copies: 1.0
-- name: Murderous Cut
-  weight: 0.0185
-  avg_copies: 1.0
-- name: Brazen Borrower
-  weight: 0.0185
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.0185
-  avg_copies: 1.0
-- name: Press the Enemy
-  weight: 0.0185
-  avg_copies: 1.0
-- name: Undercity Informer
+- name: Sunken Ruins
   weight: 0.0185
   avg_copies: 1.0
 - name: Gloomlake Verge
@@ -268,13 +253,28 @@ top_cards:
 - name: Skycoach Conductor
   weight: 0.0185
   avg_copies: 1.0
-- name: Sunken Ruins
+- name: card:murderous-rider
   weight: 0.0185
   avg_copies: 1.0
 - name: card:summon-bahamut
   weight: 0.0185
   avg_copies: 1.0
-- name: Brainsurge
+- name: Brazen Borrower
+  weight: 0.0185
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.0185
+  avg_copies: 1.0
+- name: Undercity Informer
+  weight: 0.0185
+  avg_copies: 1.0
+- name: Murderous Cut
+  weight: 0.0185
+  avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.0185
+  avg_copies: 1.0
+- name: Kataki, War's Wage
   weight: 0.0185
   avg_copies: 1.0
 - name: Collector Ouphe

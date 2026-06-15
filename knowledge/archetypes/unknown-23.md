@@ -3,22 +3,22 @@ colors:
 - R
 - G
 name: 'Unknown #23'
-meta_share: 0.0014
+meta_share: 0.0013
 list_count: 5
 top_cards:
-- name: Valakut, the Molten Pinnacle
-  weight: 1.0
-  avg_copies: 4.0
-- name: Dryad of the Ilysian Grove
+- name: Vibrance
   weight: 1.0
   avg_copies: 4.0
 - name: Wrenn and Six
   weight: 1.0
   avg_copies: 4.0
-- name: Vibrance
+- name: Valakut, the Molten Pinnacle
   weight: 1.0
   avg_copies: 4.0
 - name: Arboreal Grazer
+  weight: 1.0
+  avg_copies: 4.0
+- name: Dryad of the Ilysian Grove
   weight: 1.0
   avg_copies: 4.0
 - name: Icetill Explorer
@@ -45,10 +45,10 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.8
-- name: Mountain
+- name: Fade from History
   weight: 1.0
   avg_copies: 1.6
-- name: Fade from History
+- name: Mountain
   weight: 1.0
   avg_copies: 1.6
 - name: Vexing Bauble
@@ -63,10 +63,10 @@ top_cards:
 - name: Force of Vigor
   weight: 0.8
   avg_copies: 2.75
-- name: Misty Rainforest
+- name: Surgical Extraction
   weight: 0.8
   avg_copies: 2.25
-- name: Surgical Extraction
+- name: Misty Rainforest
   weight: 0.8
   avg_copies: 2.25
 - name: Prismatic Omen
@@ -75,25 +75,25 @@ top_cards:
 - name: Ghost Quarter
   weight: 0.8
   avg_copies: 1.25
-- name: Bojuka Bog
+- name: Shifting Woodland
   weight: 0.8
   avg_copies: 1.0
-- name: Dryad Arbor
+- name: Bojuka Bog
   weight: 0.8
   avg_copies: 1.0
 - name: Collector Ouphe
   weight: 0.8
   avg_copies: 1.0
-- name: Shifting Woodland
+- name: Dryad Arbor
   weight: 0.8
   avg_copies: 1.0
 - name: Lightning Bolt
   weight: 0.6
   avg_copies: 3.0
-- name: Scalding Tarn
+- name: Meltdown
   weight: 0.6
   avg_copies: 1.0
-- name: Meltdown
+- name: Scalding Tarn
   weight: 0.6
   avg_copies: 1.0
 - name: Arid Mesa
@@ -108,25 +108,25 @@ top_cards:
 - name: Disruptor Flute
   weight: 0.2
   avg_copies: 2.0
-- name: Erode
+- name: Fire Magic
   weight: 0.2
   avg_copies: 2.0
-- name: Fire Magic
+- name: Erode
   weight: 0.2
   avg_copies: 2.0
 - name: Orim's Chant
   weight: 0.2
   avg_copies: 2.0
-- name: Jetmir's Garden
+- name: Dwarven Mine
   weight: 0.2
   avg_copies: 1.0
-- name: Endurance
+- name: Jetmir's Garden
   weight: 0.2
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.2
   avg_copies: 1.0
-- name: Dwarven Mine
+- name: Endurance
   weight: 0.2
   avg_copies: 1.0
 - name: Sakura-Tribe Elder

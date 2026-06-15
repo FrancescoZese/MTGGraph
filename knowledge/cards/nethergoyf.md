@@ -10,7 +10,7 @@ type: Creature — Lhurgoyf
 meta_presence: 0.0173
 archetypes:
   hollow-one:
-    weight: 0.871
+    weight: 0.8438
     avg_copies: 3.48
   jund-saga:
     weight: 1.0
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.5
     avg_copies: 4.0
   unknown-1:
-    weight: 0.2
+    weight: 0.3333
     avg_copies: 4.0
   unknown-24:
     weight: 1.0

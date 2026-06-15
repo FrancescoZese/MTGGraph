@@ -4,13 +4,13 @@ colors:
 - B
 - R
 name: Mardu Blink
-meta_share: 0.0063
+meta_share: 0.0061
 list_count: 23
 top_cards:
-- name: Overlord of the Balemurk
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
 - name: Phelia, Exuberant Shepherd
@@ -133,13 +133,13 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.1739
   avg_copies: 2.0
+- name: Snow-Covered Swamp
+  weight: 0.1739
+  avg_copies: 1.0
 - name: Swamp
   weight: 0.1739
   avg_copies: 1.0
 - name: Containment Priest
-  weight: 0.1739
-  avg_copies: 1.0
-- name: Snow-Covered Swamp
   weight: 0.1739
   avg_copies: 1.0
 - name: Clarion Conqueror
@@ -160,13 +160,13 @@ top_cards:
 - name: Unholy Heat
   weight: 0.0435
   avg_copies: 3.0
+- name: Seasoned Pyromancer
+  weight: 0.0435
+  avg_copies: 2.0
 - name: Magus of the Moon
   weight: 0.0435
   avg_copies: 2.0
 - name: Graveyard Trespasser
-  weight: 0.0435
-  avg_copies: 2.0
-- name: Seasoned Pyromancer
   weight: 0.0435
   avg_copies: 2.0
 - name: The Legend of Roku
@@ -175,10 +175,10 @@ top_cards:
 - name: Pest Control
   weight: 0.0435
   avg_copies: 1.0
-- name: Faerie Macabre
+- name: Emptiness
   weight: 0.0435
   avg_copies: 1.0
-- name: Emptiness
+- name: Faerie Macabre
   weight: 0.0435
   avg_copies: 1.0
 ---

@@ -6,13 +6,13 @@ name: 'Unknown #46'
 meta_share: 0.0008
 list_count: 3
 top_cards:
-- name: Swamp
-  weight: 1.0
-  avg_copies: 4.0
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Soul Spike
+  weight: 1.0
+  avg_copies: 4.0
+- name: Swamp
   weight: 1.0
   avg_copies: 4.0
 - name: Necrodominance
@@ -39,13 +39,19 @@ top_cards:
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 2.4
-- name: Culling Ritual
-  weight: 1.0
-  avg_copies: 2.33
 - name: Dauthi Voidwalker
   weight: 1.0
   avg_copies: 2.33
-- name: Ashiok, Dream Render
+- name: Culling Ritual
+  weight: 1.0
+  avg_copies: 2.33
+- name: March of Wretched Sorrow
+  weight: 1.0
+  avg_copies: 2.0
+- name: Break the Ice
+  weight: 1.0
+  avg_copies: 2.0
+- name: Overgrown Tomb
   weight: 1.0
   avg_copies: 2.0
 - name: Underground Mortuary
@@ -54,16 +60,10 @@ top_cards:
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 2.0
-- name: March of Wretched Sorrow
-  weight: 1.0
-  avg_copies: 2.0
-- name: Break the Ice
+- name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 2.0
 - name: Castle Locthwain
-  weight: 1.0
-  avg_copies: 2.0
-- name: Overgrown Tomb
   weight: 1.0
   avg_copies: 2.0
 - name: Bloodstained Mire
@@ -81,10 +81,10 @@ top_cards:
 - name: Damping Sphere
   weight: 0.6667
   avg_copies: 2.0
-- name: Graveyard Trespasser
+- name: Surgical Extraction
   weight: 0.6667
   avg_copies: 1.5
-- name: Surgical Extraction
+- name: Graveyard Trespasser
   weight: 0.6667
   avg_copies: 1.5
 - name: Illness in the Ranks
@@ -99,10 +99,10 @@ top_cards:
 - name: Pillage the Bog
   weight: 0.3333
   avg_copies: 2.0
-- name: Sheoldred, the Apocalypse
+- name: Fell the Profane
   weight: 0.3333
   avg_copies: 1.0
-- name: Fell the Profane
+- name: Sheoldred, the Apocalypse
   weight: 0.3333
   avg_copies: 1.0
 ---

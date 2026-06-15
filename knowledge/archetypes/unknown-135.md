@@ -4,16 +4,22 @@ colors:
 - B
 - R
 name: 'Unknown #135'
-meta_share: 0.0003
-list_count: 1
+meta_share: 0.0005
+list_count: 2
 top_cards:
+- name: Solitude
+  weight: 1.0
+  avg_copies: 4.0
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
-- name: Arid Mesa
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Galvanic Discharge
+  weight: 1.0
+  avg_copies: 4.0
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
@@ -22,13 +28,7 @@ top_cards:
 - name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 4.0
-- name: Overlord of the Balemurk
-  weight: 1.0
-  avg_copies: 4.0
-- name: Solitude
-  weight: 1.0
-  avg_copies: 4.0
-- name: Galvanic Discharge
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
 - name: Wear
@@ -42,17 +42,14 @@ top_cards:
   avg_copies: 3.0
 - name: Wrath of the Skies
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 2.5
 - name: Damping Sphere
   weight: 1.0
-  avg_copies: 3.0
-- name: Lightning Helix
-  weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 2.5
 - name: March of Otherworldly Light
   weight: 1.0
-  avg_copies: 3.0
-- name: Fable of the Mirror-Breaker
+  avg_copies: 2.5
+- name: Unlicensed Hearse
   weight: 1.0
   avg_copies: 2.0
 - name: Clarion Conqueror
@@ -64,13 +61,10 @@ top_cards:
 - name: White Orchid Phantom
   weight: 1.0
   avg_copies: 2.0
-- name: Unlicensed Hearse
-  weight: 1.0
-  avg_copies: 2.0
-- name: Raucous Theater
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.0
-- name: Arena of Glory
+- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
 - name: Sacred Foundry
@@ -79,32 +73,47 @@ top_cards:
 - name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
+- name: Arena of Glory
+  weight: 1.0
+  avg_copies: 1.0
 - name: Swamp
-  weight: 1.0
-  avg_copies: 1.0
-- name: Blood Crypt
-  weight: 1.0
-  avg_copies: 1.0
-- name: Plains
-  weight: 1.0
-  avg_copies: 1.0
-- name: Mountain
-  weight: 1.0
-  avg_copies: 1.0
-- name: Bloodstained Mire
-  weight: 1.0
-  avg_copies: 1.0
-- name: Elegant Parlor
-  weight: 1.0
-  avg_copies: 1.0
-- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
 - name: Prismatic Ending
   weight: 1.0
   avg_copies: 1.0
+- name: Plains
+  weight: 1.0
+  avg_copies: 1.0
+- name: Blood Crypt
+  weight: 1.0
+  avg_copies: 1.0
+- name: Godless Shrine
+  weight: 1.0
+  avg_copies: 1.0
 - name: Boggart Trawler
   weight: 1.0
   avg_copies: 1.0
+- name: Elegant Parlor
+  weight: 1.0
+  avg_copies: 1.0
+- name: Mountain
+  weight: 1.0
+  avg_copies: 1.0
+- name: Hardened Academic
+  weight: 0.5
+  avg_copies: 3.0
+- name: Emperor of Bones
+  weight: 0.5
+  avg_copies: 3.0
+- name: Lightning Helix
+  weight: 0.5
+  avg_copies: 3.0
+- name: High Noon
+  weight: 0.5
+  avg_copies: 2.0
+- name: Fable of the Mirror-Breaker
+  weight: 0.5
+  avg_copies: 2.0
 ---
 Unclassified archetype, pending review.

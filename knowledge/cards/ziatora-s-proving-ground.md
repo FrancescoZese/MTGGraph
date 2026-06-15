@@ -9,7 +9,7 @@ type: Land — Swamp Mountain Forest
 meta_presence: 0.0019
 archetypes:
   indomitable-creativity:
-    weight: 0.2727
+    weight: 0.25
     avg_copies: 1.0
   unknown-7:
     weight: 1.0

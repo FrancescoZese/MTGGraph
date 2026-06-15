@@ -7,10 +7,10 @@ name: Weapons Manufacturing
 scryfall_id: a058f1a6-318c-4bba-981e-ace079ada806
 set: eoe
 type: Enchantment
-meta_presence: 0.0896
+meta_presence: 0.0879
 archetypes:
   affinity:
-    weight: 0.9939
+    weight: 0.994
     avg_copies: 3.75
   unknown-59:
     weight: 1.0

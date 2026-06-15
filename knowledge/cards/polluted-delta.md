@@ -6,25 +6,25 @@ name: Polluted Delta
 scryfall_id: 6e288374-2b71-4ace-b1d2-a19fee6cb4af
 set: mh3
 type: Land
-meta_presence: 0.1887
+meta_presence: 0.1913
 archetypes:
   dimir-control:
     weight: 1.0
     avg_copies: 3.7
   goryo:
     weight: 1.0
-    avg_copies: 3.77
+    avg_copies: 3.78
   necrodominance:
     weight: 0.2432
     avg_copies: 1.89
   azorius-control:
-    weight: 0.2391
+    weight: 0.234
     avg_copies: 1.09
   living-end:
     weight: 0.6852
     avg_copies: 1.49
   affinity:
-    weight: 0.0274
+    weight: 0.0272
     avg_copies: 1.44
   mill:
     weight: 1.0
@@ -33,25 +33,25 @@ archetypes:
     weight: 0.963
     avg_copies: 3.62
   neoform-combo:
-    weight: 0.62
+    weight: 0.5962
     avg_copies: 1.35
   hollow-one:
-    weight: 0.1613
+    weight: 0.1562
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.2353
+    weight: 0.2319
     avg_copies: 1.19
   izzet-prowess:
-    weight: 0.0106
+    weight: 0.0103
     avg_copies: 1.0
   esper-blink:
-    weight: 0.9344
+    weight: 0.9375
     avg_copies: 1.67
   orzhov-blink:
     weight: 0.2222
     avg_copies: 1.5
   azorius-blink:
-    weight: 0.0256
+    weight: 0.025
     avg_copies: 1.0
   esper-control:
     weight: 1.0
@@ -79,10 +79,10 @@ archetypes:
     avg_copies: 1.0
   goryo1:
     weight: 1.0
-    avg_copies: 3.78
+    avg_copies: 3.79
   goryo5:
-    weight: 0.8333
-    avg_copies: 2.4
+    weight: 0.75
+    avg_copies: 2.17
   goryo2:
     weight: 1.0
     avg_copies: 2.0
@@ -139,7 +139,7 @@ archetypes:
     avg_copies: 3.25
   unknown-47:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.97
   unknown-51:
     weight: 1.0
     avg_copies: 4.0
@@ -147,7 +147,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-52:
-    weight: 0.4286
+    weight: 0.5
     avg_copies: 1.0
   unknown-53:
     weight: 1.0
@@ -242,4 +242,19 @@ archetypes:
   unknown-139:
     weight: 1.0
     avg_copies: 4.0
+  unknown-141:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-143:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-144:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-147:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-148:
+    weight: 1.0
+    avg_copies: 2.0
 ---

@@ -7,16 +7,16 @@ name: Doorkeeper Thrull
 scryfall_id: 80a1cd28-d2a5-4d1a-aa03-a6a5958ae432
 set: mkm
 type: Creature — Thrull
-meta_presence: 0.0205
+meta_presence: 0.0202
 archetypes:
   domain-zoo:
-    weight: 0.7882
+    weight: 0.7907
     avg_copies: 3.82
   unknown-72:
     weight: 1.0
     avg_copies: 2.0
   unknown-85:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 2.0
   unknown-118:
     weight: 1.0

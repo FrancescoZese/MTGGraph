@@ -7,28 +7,28 @@ name: Wrath of the Skies
 scryfall_id: 4ef1882e-b422-4f30-8a6c-bd71c2601660
 set: mh3
 type: Sorcery
-meta_presence: 0.3536
+meta_presence: 0.3522
 archetypes:
   boros-energy:
-    weight: 0.9726
+    weight: 0.9729
     avg_copies: 2.08
   jeskai-energy:
     weight: 0.9922
     avg_copies: 1.56
   eldrazi-tron:
-    weight: 0.0065
+    weight: 0.0062
     avg_copies: 2.0
   goryo:
-    weight: 0.9658
-    avg_copies: 2.28
+    weight: 0.9615
+    avg_copies: 2.3
   azorius-control:
-    weight: 0.8913
-    avg_copies: 1.74
+    weight: 0.8936
+    avg_copies: 1.75
   jeskai-control:
     weight: 0.9655
     avg_copies: 2.0
   domain-zoo:
-    weight: 0.9882
+    weight: 0.9884
     avg_copies: 2.25
   reanimator:
     weight: 0.037
@@ -37,14 +37,14 @@ archetypes:
     weight: 1.0
     avg_copies: 2.07
   boros-ponza:
-    weight: 0.9813
+    weight: 0.9818
     avg_copies: 3.51
   4c-omnath:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
     weight: 1.0
-    avg_copies: 2.55
+    avg_copies: 2.48
   orzhov-blink:
     weight: 1.0
     avg_copies: 2.7
@@ -52,8 +52,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.8718
-    avg_copies: 2.68
+    weight: 0.875
+    avg_copies: 2.69
   bant-ritual:
     weight: 1.0
     avg_copies: 2.0
@@ -101,16 +101,16 @@ archetypes:
     avg_copies: 1.5
   unknown-26:
     weight: 1.0
-    avg_copies: 3.92
+    avg_copies: 3.93
   unknown-48:
     weight: 1.0
     avg_copies: 4.0
   unknown-62:
     weight: 1.0
-    avg_copies: 2.72
+    avg_copies: 2.68
   unknown-68:
     weight: 1.0
-    avg_copies: 1.62
+    avg_copies: 1.58
   unknown-70:
     weight: 1.0
     avg_copies: 2.33
@@ -130,13 +130,13 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-85:
-    weight: 0.8889
-    avg_copies: 2.12
+    weight: 0.9
+    avg_copies: 2.11
   unknown-77:
     weight: 1.0
     avg_copies: 2.0
   unknown-88:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 2.0
   unknown-87:
     weight: 1.0
@@ -179,8 +179,11 @@ archetypes:
     avg_copies: 3.0
   unknown-131:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.5
   unknown-135:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 2.5
+  unknown-140:
+    weight: 1.0
+    avg_copies: 2.0
 ---
