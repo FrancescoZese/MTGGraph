@@ -10,6 +10,6 @@ type: Legendary Creature — Boar God
 meta_presence: 0.0005
 archetypes:
   eldrazi-ramp:
-    weight: 0.0225
+    weight: 0.0222
     avg_copies: 1.0
 ---

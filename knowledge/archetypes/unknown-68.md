@@ -4,13 +4,13 @@ colors:
 - B
 - R
 name: 'Unknown #68'
-meta_share: 0.0069
+meta_share: 0.0068
 list_count: 26
 top_cards:
-- name: Guide of Souls
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
-- name: Ocelot Pride
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
@@ -46,13 +46,13 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.04
-- name: Shadowy Backstreet
-  weight: 1.0
-  avg_copies: 1.0
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Elegant Parlor
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
@@ -121,22 +121,22 @@ top_cards:
 - name: Orim's Chant
   weight: 0.3462
   avg_copies: 1.33
-- name: Prismatic Ending
+- name: The Legend of Roku
   weight: 0.3077
   avg_copies: 1.0
-- name: The Legend of Roku
+- name: Prismatic Ending
   weight: 0.3077
   avg_copies: 1.0
 - name: Kroxa, Titan of Death's Hunger
   weight: 0.2692
   avg_copies: 2.86
-- name: Celestial Purge
-  weight: 0.2308
-  avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.2308
   avg_copies: 1.0
 - name: End of the Hunt
+  weight: 0.2308
+  avg_copies: 1.0
+- name: Celestial Purge
   weight: 0.2308
   avg_copies: 1.0
 - name: Ob Nixilis, the Adversary
@@ -145,16 +145,16 @@ top_cards:
 - name: Damping Sphere
   weight: 0.1538
   avg_copies: 1.75
-- name: Meltdown
-  weight: 0.1538
-  avg_copies: 1.0
 - name: Raucous Theater
   weight: 0.1538
   avg_copies: 1.0
-- name: Fulminator Mage
+- name: Meltdown
+  weight: 0.1538
+  avg_copies: 1.0
+- name: Blood Moon
   weight: 0.0769
   avg_copies: 2.0
-- name: Blood Moon
+- name: Fulminator Mage
   weight: 0.0769
   avg_copies: 2.0
 - name: Marionette Apprentice
@@ -163,10 +163,10 @@ top_cards:
 - name: Lingering Souls
   weight: 0.0385
   avg_copies: 2.0
-- name: Solitude
+- name: Strategic Betrayal
   weight: 0.0385
   avg_copies: 1.0
-- name: Strategic Betrayal
+- name: Solitude
   weight: 0.0385
   avg_copies: 1.0
 - name: Ghost Vacuum

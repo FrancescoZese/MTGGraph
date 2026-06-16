@@ -15,16 +15,16 @@ top_cards:
 - name: Gravecrawler
   weight: 1.0
   avg_copies: 4.0
-- name: Flare of Malice
-  weight: 1.0
-  avg_copies: 3.8
 - name: Marionette Apprentice
   weight: 1.0
   avg_copies: 3.8
-- name: Bloodstained Mire
+- name: Flare of Malice
+  weight: 1.0
+  avg_copies: 3.8
+- name: Spymaster's Vault
   weight: 1.0
   avg_copies: 2.6
-- name: Spymaster's Vault
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.6
 - name: Fatal Push
@@ -33,10 +33,10 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 2.2
-- name: Overgrown Tomb
+- name: Phyrexian Tower
   weight: 1.0
   avg_copies: 2.0
-- name: Phyrexian Tower
+- name: Overgrown Tomb
   weight: 1.0
   avg_copies: 2.0
 - name: Underground Mortuary
@@ -48,10 +48,10 @@ top_cards:
 - name: Unearth
   weight: 0.8
   avg_copies: 4.0
-- name: Boggart Trawler
+- name: Birthing Ritual
   weight: 0.8
   avg_copies: 3.5
-- name: Birthing Ritual
+- name: Boggart Trawler
   weight: 0.8
   avg_copies: 3.5
 - name: Polluted Delta
@@ -60,10 +60,10 @@ top_cards:
 - name: Thoughtseize
   weight: 0.8
   avg_copies: 2.29
-- name: Verdant Catacombs
+- name: Fulminator Mage
   weight: 0.6
   avg_copies: 2.67
-- name: Fulminator Mage
+- name: Verdant Catacombs
   weight: 0.6
   avg_copies: 2.67
 - name: Marsh Flats
@@ -87,19 +87,19 @@ top_cards:
 - name: Phoenix Fleet Airship
   weight: 0.4
   avg_copies: 2.33
-- name: Abhorrent Oculus
-  weight: 0.4
-  avg_copies: 2.0
-- name: Bloodghast
-  weight: 0.4
-  avg_copies: 2.0
-- name: Arnyn, Deathbloom Botanist
+- name: Soulless Jailer
   weight: 0.4
   avg_copies: 2.0
 - name: Collector Ouphe
   weight: 0.4
   avg_copies: 2.0
-- name: Soulless Jailer
+- name: Arnyn, Deathbloom Botanist
+  weight: 0.4
+  avg_copies: 2.0
+- name: Abhorrent Oculus
+  weight: 0.4
+  avg_copies: 2.0
+- name: Bloodghast
   weight: 0.4
   avg_copies: 2.0
 - name: Haywire Mite
@@ -111,10 +111,10 @@ top_cards:
 - name: Watery Grave
   weight: 0.4
   avg_copies: 1.0
-- name: Malevolent Rumble
+- name: Shambling Ghast
   weight: 0.2
   avg_copies: 4.0
-- name: Shambling Ghast
+- name: Malevolent Rumble
   weight: 0.2
   avg_copies: 4.0
 - name: Graveyard Trespasser
@@ -126,40 +126,40 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.2
   avg_copies: 2.0
-- name: Chomping Changeling
+- name: Cling to Dust
   weight: 0.2
   avg_copies: 1.0
 - name: Grist, the Hunger Tide
   weight: 0.2
   avg_copies: 1.0
-- name: Shatter Assumptions
-  weight: 0.2
-  avg_copies: 1.0
-- name: Urborg, Tomb of Yawgmoth
-  weight: 0.2
-  avg_copies: 1.0
-- name: Mai, Scornful Striker
-  weight: 0.2
-  avg_copies: 1.0
-- name: Cling to Dust
+- name: Break the Ice
   weight: 0.2
   avg_copies: 1.0
 - name: Nihil Spellbomb
   weight: 0.2
   avg_copies: 1.0
-- name: Overlord of the Balemurk
-  weight: 0.2
-  avg_copies: 1.0
-- name: Break the Ice
-  weight: 0.2
-  avg_copies: 1.0
 - name: Sephiroth, Fabled SOLDIER
   weight: 0.2
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Urborg, Tomb of Yawgmoth
+  weight: 0.2
+  avg_copies: 1.0
+- name: Overlord of the Balemurk
+  weight: 0.2
+  avg_copies: 1.0
+- name: Shatter Assumptions
+  weight: 0.2
+  avg_copies: 1.0
+- name: Mai, Scornful Striker
+  weight: 0.2
+  avg_copies: 1.0
+- name: Chomping Changeling
   weight: 0.2
   avg_copies: 1.0
 - name: Nurturing Peatland
+  weight: 0.2
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
   weight: 0.2
   avg_copies: 1.0
 ---

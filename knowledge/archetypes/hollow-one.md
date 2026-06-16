@@ -3,22 +3,22 @@ colors:
 - B
 - R
 name: Hollow One
-meta_share: 0.0085
+meta_share: 0.0084
 list_count: 32
 top_cards:
-- name: Street Wraith
+- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Hollow One
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
-- name: Detective's Phoenix
+- name: Burning Inquiry
   weight: 1.0
   avg_copies: 3.97
-- name: Burning Inquiry
+- name: Detective's Phoenix
   weight: 1.0
   avg_copies: 3.97
 - name: Bloodstained Mire
@@ -111,10 +111,10 @@ top_cards:
 - name: Marsh Flats
   weight: 0.2188
   avg_copies: 1.71
-- name: Murderous Cut
+- name: Polluted Delta
   weight: 0.1562
   avg_copies: 1.0
-- name: Polluted Delta
+- name: Murderous Cut
   weight: 0.1562
   avg_copies: 1.0
 - name: Tarfire
@@ -144,25 +144,25 @@ top_cards:
 - name: Blackcleave Cliffs
   weight: 0.0938
   avg_copies: 1.0
-- name: Goblin Lore
-  weight: 0.0625
-  avg_copies: 2.0
 - name: Sheoldred's Edict
   weight: 0.0625
   avg_copies: 2.0
-- name: Ox of Agonas
+- name: Goblin Lore
   weight: 0.0625
-  avg_copies: 1.5
+  avg_copies: 2.0
 - name: Blood Moon
   weight: 0.0625
   avg_copies: 1.5
-- name: Soul-Guide Lantern
+- name: Ox of Agonas
   weight: 0.0625
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Violent Urge
   weight: 0.0625
   avg_copies: 1.0
 - name: Commercial District
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
   weight: 0.0625
   avg_copies: 1.0
 - name: Seal of Fire
@@ -171,6 +171,15 @@ top_cards:
 - name: Death's Shadow
   weight: 0.0312
   avg_copies: 4.0
+- name: Magebane Lizard
+  weight: 0.0312
+  avg_copies: 2.0
+- name: Pyroclasm
+  weight: 0.0312
+  avg_copies: 2.0
+- name: Break the Ice
+  weight: 0.0312
+  avg_copies: 2.0
 - name: Magus of the Moon
   weight: 0.0312
   avg_copies: 2.0
@@ -180,31 +189,22 @@ top_cards:
 - name: Cam and Farrik, Havoc Duo
   weight: 0.0312
   avg_copies: 2.0
-- name: Inti, Seneschal of the Sun
-  weight: 0.0312
-  avg_copies: 2.0
-- name: Break the Ice
+- name: Rough
   weight: 0.0312
   avg_copies: 2.0
 - name: Flameblade Adept
   weight: 0.0312
   avg_copies: 2.0
-- name: Rough
+- name: Inti, Seneschal of the Sun
   weight: 0.0312
   avg_copies: 2.0
-- name: Magebane Lizard
-  weight: 0.0312
-  avg_copies: 2.0
-- name: Pyroclasm
-  weight: 0.0312
-  avg_copies: 2.0
-- name: Barbarian Ring
+- name: Overlord of the Balemurk
   weight: 0.0312
   avg_copies: 1.0
 - name: Shattering Spree
   weight: 0.0312
   avg_copies: 1.0
-- name: Overlord of the Balemurk
+- name: Barbarian Ring
   weight: 0.0312
   avg_copies: 1.0
 ---

@@ -9,7 +9,7 @@ type: Legendary Planeswalker — Tezzeret
 meta_presence: 0.0021
 archetypes:
   eldrazi-tron:
-    weight: 0.0373
+    weight: 0.0364
     avg_copies: 2.33
   unknown-59:
     weight: 1.0

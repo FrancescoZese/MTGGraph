@@ -11,6 +11,6 @@ type: Legendary Creature — Cyclops
 meta_presence: 0.0005
 archetypes:
   neoform-combo:
-    weight: 0.0385
+    weight: 0.0377
     avg_copies: 1.0
 ---

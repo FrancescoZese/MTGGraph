@@ -21,7 +21,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.98
   broodscale-combo:
-    weight: 0.0142
+    weight: 0.014
     avg_copies: 2.0
   azorius-blink:
     weight: 0.025

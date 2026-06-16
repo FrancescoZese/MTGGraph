@@ -7,25 +7,25 @@ name: Redirect Lightning
 scryfall_id: 2b5b14a7-1fdd-4efc-b197-cadfa7f7c860
 set: tla
 type: Instant — Lesson
-meta_presence: 0.0051
+meta_presence: 0.005
 archetypes:
   boros-energy:
-    weight: 0.0078
+    weight: 0.0077
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0116
+    weight: 0.0115
     avg_copies: 1.0
   mono-red-belcher:
     weight: 0.0833
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.0091
+    weight: 0.0089
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0337
+    weight: 0.0333
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0256
+    weight: 0.0254
     avg_copies: 1.0
   rakdos-aggro:
     weight: 0.0667

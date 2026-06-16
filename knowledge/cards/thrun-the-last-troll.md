@@ -10,7 +10,7 @@ type: Legendary Creature — Troll Shaman
 meta_presence: 0.0013
 archetypes:
   neoform-combo:
-    weight: 0.0577
+    weight: 0.0566
     avg_copies: 2.33
   cosmogoyf-fling:
     weight: 0.0833

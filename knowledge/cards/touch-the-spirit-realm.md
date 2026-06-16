@@ -10,6 +10,6 @@ type: Enchantment
 meta_presence: 0.0003
 archetypes:
   eldrazi-tron:
-    weight: 0.0062
+    weight: 0.0061
     avg_copies: 2.0
 ---

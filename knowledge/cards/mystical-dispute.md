@@ -7,19 +7,19 @@ name: Mystical Dispute
 scryfall_id: fbe04cb8-a8b9-4241-baae-b398a2509a3a
 set: eld
 type: Instant
-meta_presence: 0.4038
+meta_presence: 0.4032
 archetypes:
   dimir-control:
     weight: 1.0
     avg_copies: 2.3
   mono-blue-belcher:
-    weight: 0.9231
+    weight: 0.9242
     avg_copies: 2.23
   jeskai-energy:
     weight: 0.9922
     avg_copies: 2.41
   goryo:
-    weight: 0.9872
+    weight: 0.9873
     avg_copies: 2.69
   necrodominance:
     weight: 0.027
@@ -34,20 +34,20 @@ archetypes:
     weight: 1.0
     avg_copies: 2.83
   affinity:
-    weight: 0.7583
+    weight: 0.7507
     avg_copies: 1.51
   domain-zoo:
-    weight: 0.9535
-    avg_copies: 2.67
+    weight: 0.954
+    avg_copies: 2.66
   mill:
-    weight: 0.25
+    weight: 0.24
     avg_copies: 2.33
   reanimator:
     weight: 0.7407
     avg_copies: 2.1
   neoform-combo:
-    weight: 0.9231
-    avg_copies: 3.38
+    weight: 0.9245
+    avg_copies: 3.37
   mono-blue-tron:
     weight: 0.6
     avg_copies: 2.22
@@ -58,13 +58,13 @@ archetypes:
     weight: 0.971
     avg_copies: 2.94
   izzet-prowess:
-    weight: 0.2667
+    weight: 0.264
     avg_copies: 1.58
   4c-omnath:
     weight: 1.0
     avg_copies: 2.25
   esper-blink:
-    weight: 0.7969
+    weight: 0.7846
     avg_copies: 1.96
   indomitable-creativity:
     weight: 0.5
@@ -97,7 +97,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.9438
+    weight: 0.9444
     avg_copies: 2.2
   goryo2:
     weight: 1.0
@@ -127,8 +127,8 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.0
   unknown-15:
-    weight: 0.6667
-    avg_copies: 1.5
+    weight: 0.8
+    avg_copies: 1.75
   unknown-16:
     weight: 1.0
     avg_copies: 4.0
@@ -158,7 +158,7 @@ archetypes:
     avg_copies: 2.0
   unknown-47:
     weight: 1.0
-    avg_copies: 2.41
+    avg_copies: 2.38
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
@@ -170,7 +170,7 @@ archetypes:
     avg_copies: 2.0
   unknown-62:
     weight: 1.0
-    avg_copies: 2.44
+    avg_copies: 2.42
   unknown-65:
     weight: 1.0
     avg_copies: 2.78

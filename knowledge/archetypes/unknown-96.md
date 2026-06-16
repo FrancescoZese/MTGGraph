@@ -8,10 +8,10 @@ name: 'Unknown #96'
 meta_share: 0.0021
 list_count: 8
 top_cards:
-- name: Marauding Mako
+- name: Burning Inquiry
   weight: 1.0
   avg_copies: 4.0
-- name: Street Wraith
+- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
 - name: Hardened Academic
@@ -20,10 +20,10 @@ top_cards:
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Hollow One
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
-- name: Burning Inquiry
+- name: Marauding Mako
   weight: 1.0
   avg_copies: 4.0
 - name: Arid Mesa
@@ -62,10 +62,10 @@ top_cards:
 - name: Lightning Bolt
   weight: 0.75
   avg_copies: 3.0
-- name: Fable of the Mirror-Breaker
+- name: Wear
   weight: 0.75
   avg_copies: 2.33
-- name: Wear
+- name: Fable of the Mirror-Breaker
   weight: 0.75
   avg_copies: 2.33
 - name: Stomping Ground
@@ -80,16 +80,16 @@ top_cards:
 - name: Blood Crypt
   weight: 0.5
   avg_copies: 2.0
-- name: Seasoned Pyromancer
+- name: Lingering Souls
   weight: 0.375
   avg_copies: 2.0
 - name: The Underworld Cookbook
   weight: 0.375
   avg_copies: 2.0
-- name: Lingering Souls
+- name: Asmoranomardicadaistinaculdacar
   weight: 0.375
   avg_copies: 2.0
-- name: Asmoranomardicadaistinaculdacar
+- name: Seasoned Pyromancer
   weight: 0.375
   avg_copies: 2.0
 - name: Fear of Missing Out
@@ -110,27 +110,30 @@ top_cards:
 - name: Thoughtseize
   weight: 0.125
   avg_copies: 3.0
-- name: Orim's Chant
-  weight: 0.125
-  avg_copies: 3.0
 - name: Marsh Flats
   weight: 0.125
   avg_copies: 3.0
-- name: Prismatic Ending
+- name: Orim's Chant
   weight: 0.125
-  avg_copies: 2.0
-- name: Orcish Bowmasters
+  avg_copies: 3.0
+- name: Magebane Lizard
   weight: 0.125
   avg_copies: 2.0
 - name: Surgical Extraction
   weight: 0.125
   avg_copies: 2.0
-- name: Magebane Lizard
+- name: Orcish Bowmasters
   weight: 0.125
   avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.125
   avg_copies: 2.0
+- name: Prismatic Ending
+  weight: 0.125
+  avg_copies: 2.0
+- name: Raucous Theater
+  weight: 0.125
+  avg_copies: 1.0
 - name: Rough
   weight: 0.125
   avg_copies: 1.0
@@ -138,9 +141,6 @@ top_cards:
   weight: 0.125
   avg_copies: 1.0
 - name: Godless Shrine
-  weight: 0.125
-  avg_copies: 1.0
-- name: Raucous Theater
   weight: 0.125
   avg_copies: 1.0
 ---

@@ -12,10 +12,10 @@ top_cards:
 - name: Soul Spike
   weight: 1.0
   avg_copies: 4.0
-- name: Swamp
+- name: Necrodominance
   weight: 1.0
   avg_copies: 4.0
-- name: Necrodominance
+- name: Swamp
   weight: 1.0
   avg_copies: 4.0
 - name: Boggart Trawler
@@ -24,19 +24,19 @@ top_cards:
 - name: Sorin of House Markov
   weight: 1.0
   avg_copies: 3.33
-- name: Orcish Bowmasters
+- name: Witherbloom Charm
   weight: 1.0
   avg_copies: 3.0
-- name: Witherbloom Charm
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.0
 - name: Verdant Catacombs
   weight: 1.0
   avg_copies: 3.0
-- name: Force of Despair
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 2.4
-- name: Thoughtseize
+- name: Force of Despair
   weight: 1.0
   avg_copies: 2.4
 - name: Dauthi Voidwalker
@@ -45,25 +45,25 @@ top_cards:
 - name: Culling Ritual
   weight: 1.0
   avg_copies: 2.33
+- name: Castle Locthwain
+  weight: 1.0
+  avg_copies: 2.0
 - name: March of Wretched Sorrow
-  weight: 1.0
-  avg_copies: 2.0
-- name: Break the Ice
-  weight: 1.0
-  avg_copies: 2.0
-- name: Overgrown Tomb
-  weight: 1.0
-  avg_copies: 2.0
-- name: Underground Mortuary
   weight: 1.0
   avg_copies: 2.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 2.0
+- name: Break the Ice
+  weight: 1.0
+  avg_copies: 2.0
 - name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 2.0
-- name: Castle Locthwain
+- name: Underground Mortuary
+  weight: 1.0
+  avg_copies: 2.0
+- name: Overgrown Tomb
   weight: 1.0
   avg_copies: 2.0
 - name: Bloodstained Mire
@@ -81,10 +81,10 @@ top_cards:
 - name: Damping Sphere
   weight: 0.6667
   avg_copies: 2.0
-- name: Surgical Extraction
+- name: Graveyard Trespasser
   weight: 0.6667
   avg_copies: 1.5
-- name: Graveyard Trespasser
+- name: Surgical Extraction
   weight: 0.6667
   avg_copies: 1.5
 - name: Illness in the Ranks

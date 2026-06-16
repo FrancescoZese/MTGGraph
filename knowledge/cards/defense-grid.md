@@ -12,7 +12,7 @@ archetypes:
     weight: 0.0364
     avg_copies: 1.75
   amulet-titan:
-    weight: 0.009
+    weight: 0.0088
     avg_copies: 3.0
   mono-red-belcher:
     weight: 0.25

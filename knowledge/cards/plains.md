@@ -6,23 +6,23 @@ name: Plains
 scryfall_id: d85d0f25-a24a-4de0-9b8b-93fb5017bce9
 set: sos
 type: Basic Land — Plains
-meta_presence: 0.3562
+meta_presence: 0.3563
 archetypes:
   boros-energy:
-    weight: 0.9806
+    weight: 0.9808
     avg_copies: 1.8
   jeskai-energy:
     weight: 0.8605
     avg_copies: 1.61
   eldrazi-tron:
-    weight: 0.0062
+    weight: 0.0061
     avg_copies: 3.0
   goryo:
-    weight: 0.9872
+    weight: 0.9873
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
-    avg_copies: 1.91
+    avg_copies: 1.92
   jeskai-control:
     weight: 1.0
     avg_copies: 1.83
@@ -30,7 +30,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   mill:
-    weight: 0.0417
+    weight: 0.04
     avg_copies: 1.0
   reanimator:
     weight: 0.037
@@ -42,14 +42,14 @@ archetypes:
     weight: 1.0
     avg_copies: 2.5
   boros-ponza:
-    weight: 0.9818
-    avg_copies: 3.41
+    weight: 0.9821
+    avg_copies: 3.4
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
   esper-blink:
-    weight: 0.9688
-    avg_copies: 1.55
+    weight: 0.9692
+    avg_copies: 1.54
   indomitable-creativity:
     weight: 0.5833
     avg_copies: 1.0
@@ -121,7 +121,7 @@ archetypes:
     avg_copies: 10.0
   unknown-26:
     weight: 1.0
-    avg_copies: 3.14
+    avg_copies: 3.0
   unknown-48:
     weight: 1.0
     avg_copies: 1.5
@@ -133,7 +133,7 @@ archetypes:
     avg_copies: 1.0
   unknown-62:
     weight: 1.0
-    avg_copies: 2.56
+    avg_copies: 2.47
   unknown-66:
     weight: 1.0
     avg_copies: 2.0
@@ -184,7 +184,7 @@ archetypes:
     avg_copies: 1.0
   unknown-109:
     weight: 1.0
-    avg_copies: 1.4
+    avg_copies: 1.33
   unknown-110:
     weight: 1.0
     avg_copies: 1.0
@@ -205,7 +205,7 @@ archetypes:
     avg_copies: 3.0
   unknown-131:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.67
   unknown-135:
     weight: 1.0
     avg_copies: 1.0
@@ -223,5 +223,8 @@ archetypes:
     avg_copies: 3.0
   unknown-144:
     weight: 0.5
+    avg_copies: 1.0
+  unknown-149:
+    weight: 1.0
     avg_copies: 1.0
 ---

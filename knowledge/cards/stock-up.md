@@ -7,25 +7,25 @@ name: Stock Up
 scryfall_id: 0a786855-6eb4-42c0-a528-4842db46809d
 set: dft
 type: Sorcery
-meta_presence: 0.0314
+meta_presence: 0.0313
 archetypes:
   ruby-storm:
     weight: 0.0182
     avg_copies: 3.0
   mono-blue-belcher:
-    weight: 0.2769
+    weight: 0.2727
     avg_copies: 1.07
   jeskai-energy:
     weight: 0.0155
     avg_copies: 1.5
   amulet-titan:
-    weight: 0.3153
-    avg_copies: 1.71
+    weight: 0.3186
+    avg_copies: 1.72
   goryo:
-    weight: 0.0128
+    weight: 0.0127
     avg_copies: 1.0
   azorius-control:
-    weight: 0.383
+    weight: 0.375
     avg_copies: 1.78
   jeskai-control:
     weight: 0.3448

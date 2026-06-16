@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0005
 archetypes:
   goryo:
-    weight: 0.0064
+    weight: 0.0063
     avg_copies: 2.0
   bant-control:
     weight: 1.0

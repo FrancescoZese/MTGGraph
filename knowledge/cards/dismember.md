@@ -4,11 +4,11 @@ archetypes:
     weight: 0.0123
     avg_copies: 3.0
   eldrazi-tron:
-    weight: 0.9193
+    weight: 0.9152
     avg_copies: 1.89
   amulet-titan:
-    weight: 0.982
-    avg_copies: 2.31
+    weight: 0.9823
+    avg_copies: 2.32
   hardened-scales:
     weight: 1.0
     avg_copies: 1.75
@@ -22,7 +22,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   eldrazi-ramp:
-    weight: 0.1124
+    weight: 0.1111
     avg_copies: 1.7
   simic-ritual:
     weight: 0.4638
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.5745
+    weight: 0.5734
     avg_copies: 1.91
   rakdos-aggro:
     weight: 0.1333

@@ -6,11 +6,11 @@ name: Flooded Strand
 scryfall_id: 8f85e12c-196b-4459-b81f-0c9c854e9f57
 set: mh3
 type: Land
-meta_presence: 0.354
+meta_presence: 0.3545
 archetypes:
   boros-energy:
-    weight: 0.8353
-    avg_copies: 3.46
+    weight: 0.8369
+    avg_copies: 3.45
   dimir-control:
     weight: 0.8765
     avg_copies: 2.87
@@ -18,11 +18,11 @@ archetypes:
     weight: 1.0
     avg_copies: 3.87
   goryo:
-    weight: 0.9872
-    avg_copies: 3.34
+    weight: 0.9873
+    avg_copies: 3.33
   azorius-control:
     weight: 1.0
-    avg_copies: 3.87
+    avg_copies: 3.88
   living-end:
     weight: 0.0926
     avg_copies: 1.2
@@ -30,19 +30,19 @@ archetypes:
     weight: 1.0
     avg_copies: 3.97
   affinity:
-    weight: 0.0272
+    weight: 0.0267
     avg_copies: 1.89
   domain-zoo:
-    weight: 0.9767
+    weight: 0.977
     avg_copies: 3.89
   mill:
-    weight: 0.8333
-    avg_copies: 3.0
+    weight: 0.84
+    avg_copies: 3.05
   reanimator:
     weight: 0.037
     avg_copies: 4.0
   neoform-combo:
-    weight: 0.5962
+    weight: 0.5849
     avg_copies: 1.16
   hammer-time:
     weight: 0.75
@@ -54,7 +54,7 @@ archetypes:
     weight: 0.1014
     avg_copies: 1.43
   izzet-prowess:
-    weight: 0.0103
+    weight: 0.0102
     avg_copies: 1.0
   4c-omnath:
     weight: 1.0
@@ -117,7 +117,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-15:
-    weight: 0.3333
+    weight: 0.2
     avg_copies: 2.0
   unknown-16:
     weight: 1.0
@@ -138,8 +138,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9412
-    avg_copies: 3.12
+    weight: 0.9459
+    avg_copies: 3.11
   unknown-51:
     weight: 1.0
     avg_copies: 4.0
@@ -154,7 +154,7 @@ archetypes:
     avg_copies: 2.0
   unknown-62:
     weight: 1.0
-    avg_copies: 3.83
+    avg_copies: 3.84
   unknown-60:
     weight: 1.0
     avg_copies: 4.0
@@ -249,6 +249,9 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-140:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-149:
     weight: 1.0
     avg_copies: 4.0
 ---

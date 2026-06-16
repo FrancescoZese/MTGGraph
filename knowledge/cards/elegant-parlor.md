@@ -6,7 +6,7 @@ name: Elegant Parlor
 scryfall_id: 72c6d541-e2cb-4d6e-acac-90a8f53b7006
 set: mkm
 type: Land — Mountain Plains
-meta_presence: 0.2424
+meta_presence: 0.2416
 archetypes:
   ruby-storm:
     weight: 0.9364
@@ -21,7 +21,7 @@ archetypes:
     weight: 0.6897
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0233
+    weight: 0.023
     avg_copies: 1.0
   burn:
     weight: 0.3571
@@ -30,7 +30,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.0909
+    weight: 0.0893
     avg_copies: 1.2
   4c-omnath:
     weight: 0.5
@@ -63,13 +63,13 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   unknown-23:
-    weight: 0.2
+    weight: 0.3333
     avg_copies: 1.0
   unknown-26:
-    weight: 0.7857
-    avg_copies: 2.91
+    weight: 0.8
+    avg_copies: 2.75
   unknown-62:
-    weight: 0.0556
+    weight: 0.0526
     avg_copies: 1.0
   unknown-66:
     weight: 1.0
@@ -119,4 +119,7 @@ archetypes:
   unknown-136:
     weight: 1.0
     avg_copies: 2.0
+  unknown-149:
+    weight: 1.0
+    avg_copies: 1.0
 ---

@@ -19,10 +19,10 @@ top_cards:
 - name: Phlage, Titan of Fire's Fury
   weight: 1.0
   avg_copies: 3.09
-- name: Arid Mesa
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 2.7
-- name: Marsh Flats
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 2.7
 - name: Witch Enchanter
@@ -133,22 +133,22 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.1739
   avg_copies: 2.0
-- name: Snow-Covered Swamp
-  weight: 0.1739
-  avg_copies: 1.0
 - name: Swamp
   weight: 0.1739
   avg_copies: 1.0
 - name: Containment Priest
   weight: 0.1739
   avg_copies: 1.0
+- name: Snow-Covered Swamp
+  weight: 0.1739
+  avg_copies: 1.0
 - name: Clarion Conqueror
   weight: 0.1304
   avg_copies: 2.0
-- name: Nihil Spellbomb
+- name: March of Otherworldly Light
   weight: 0.1304
   avg_copies: 1.67
-- name: March of Otherworldly Light
+- name: Nihil Spellbomb
   weight: 0.1304
   avg_copies: 1.67
 - name: Ashiok, Dream Render
@@ -160,7 +160,7 @@ top_cards:
 - name: Unholy Heat
   weight: 0.0435
   avg_copies: 3.0
-- name: Seasoned Pyromancer
+- name: The Legend of Roku
   weight: 0.0435
   avg_copies: 2.0
 - name: Magus of the Moon
@@ -169,16 +169,16 @@ top_cards:
 - name: Graveyard Trespasser
   weight: 0.0435
   avg_copies: 2.0
-- name: The Legend of Roku
+- name: Seasoned Pyromancer
   weight: 0.0435
   avg_copies: 2.0
-- name: Pest Control
-  weight: 0.0435
-  avg_copies: 1.0
 - name: Emptiness
   weight: 0.0435
   avg_copies: 1.0
 - name: Faerie Macabre
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Pest Control
   weight: 0.0435
   avg_copies: 1.0
 ---

@@ -4,7 +4,7 @@ colors:
 - U
 - R
 name: Jeskai Control
-meta_share: 0.0077
+meta_share: 0.0076
 list_count: 29
 top_cards:
 - name: Flooded Strand
@@ -190,43 +190,37 @@ top_cards:
 - name: Reprieve
   weight: 0.069
   avg_copies: 2.0
-- name: Traumatic Critique
-  weight: 0.069
-  avg_copies: 1.5
 - name: Quantum Riddler
   weight: 0.069
   avg_copies: 1.5
-- name: Dovin's Veto
+- name: Traumatic Critique
+  weight: 0.069
+  avg_copies: 1.5
+- name: Stern Scolding
   weight: 0.069
   avg_copies: 1.0
-- name: Stern Scolding
+- name: Dovin's Veto
   weight: 0.069
   avg_copies: 1.0
 - name: Wear
   weight: 0.069
   avg_copies: 1.0
-- name: Dress Down
-  weight: 0.0345
-  avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
   weight: 0.0345
   avg_copies: 4.0
-- name: card:felidar-guardian
+- name: Dress Down
+  weight: 0.0345
+  avg_copies: 4.0
+- name: card:saheeli-rai
   weight: 0.0345
   avg_copies: 3.0
 - name: Nulldrifter
   weight: 0.0345
   avg_copies: 3.0
-- name: card:saheeli-rai
+- name: card:felidar-guardian
   weight: 0.0345
   avg_copies: 3.0
 - name: Invert Polarity
-  weight: 0.0345
-  avg_copies: 2.0
-- name: Drannith Magistrate
-  weight: 0.0345
-  avg_copies: 2.0
-- name: Rest in Peace
   weight: 0.0345
   avg_copies: 2.0
 - name: Harbinger of the Seas
@@ -238,34 +232,43 @@ top_cards:
 - name: Ephemerate
   weight: 0.0345
   avg_copies: 2.0
-- name: Sink into Stupor
+- name: Rest in Peace
   weight: 0.0345
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: Drannith Magistrate
+  weight: 0.0345
+  avg_copies: 2.0
 - name: Windswept Heath
   weight: 0.0345
   avg_copies: 1.0
-- name: Get Lost
+- name: Ghost Vacuum
   weight: 0.0345
   avg_copies: 1.0
 - name: Unlicensed Hearse
   weight: 0.0345
   avg_copies: 1.0
+- name: Emeritus of Ideation
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Vendilion Clique
+  weight: 0.0345
+  avg_copies: 1.0
 - name: Path to Exile
   weight: 0.0345
   avg_copies: 1.0
-- name: Hallowed Moonlight
+- name: Get Lost
   weight: 0.0345
   avg_copies: 1.0
-- name: Emeritus of Ideation
+- name: Sink into Stupor
   weight: 0.0345
   avg_copies: 1.0
 - name: Thraben Charm
   weight: 0.0345
   avg_copies: 1.0
-- name: Raugrin Triome
+- name: Hallowed Moonlight
   weight: 0.0345
   avg_copies: 1.0
-- name: Vendilion Clique
+- name: Timeless Dragon
   weight: 0.0345
   avg_copies: 1.0
 - name: Kozilek, Butcher of Truth
@@ -274,10 +277,7 @@ top_cards:
 - name: Gemstone Caverns
   weight: 0.0345
   avg_copies: 1.0
-- name: Ghost Vacuum
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Timeless Dragon
+- name: Raugrin Triome
   weight: 0.0345
   avg_copies: 1.0
 ---

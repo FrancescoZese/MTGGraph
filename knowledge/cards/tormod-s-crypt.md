@@ -6,26 +6,29 @@ name: Tormod's Crypt
 scryfall_id: 752bf493-5839-47e8-95f2-6d8201907428
 set: dmr
 type: Artifact
-meta_presence: 0.1739
+meta_presence: 0.1755
 archetypes:
   mono-blue-belcher:
-    weight: 0.2923
+    weight: 0.303
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.9752
+    weight: 0.9758
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.009
+    weight: 0.0088
     avg_copies: 1.0
   goryo:
-    weight: 0.0128
+    weight: 0.0127
     avg_copies: 1.0
   hardened-scales:
     weight: 0.5
     avg_copies: 1.0
   affinity:
     weight: 1.0
-    avg_copies: 3.1
+    avg_copies: 3.11
+  domain-zoo:
+    weight: 0.0115
+    avg_copies: 1.0
   mono-blue-tron:
     weight: 0.1333
     avg_copies: 1.0
@@ -33,11 +36,11 @@ archetypes:
     weight: 0.625
     avg_copies: 1.2
   eldrazi-ramp:
-    weight: 0.2584
+    weight: 0.2556
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.3487
-    avg_copies: 1.7
+    weight: 0.3503
+    avg_copies: 1.69
   dredge:
     weight: 0.0556
     avg_copies: 1.0
@@ -45,7 +48,7 @@ archetypes:
     weight: 0.4688
     avg_copies: 1.06
   goryo1:
-    weight: 0.0337
+    weight: 0.0333
     avg_copies: 1.67
   goryo7:
     weight: 1.0
@@ -54,8 +57,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-15:
-    weight: 0.6667
-    avg_copies: 1.67
+    weight: 0.6
+    avg_copies: 1.4
   unknown-21:
     weight: 1.0
     avg_copies: 1.0

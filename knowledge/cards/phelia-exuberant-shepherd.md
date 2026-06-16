@@ -10,14 +10,14 @@ type: Legendary Creature — Dog
 meta_presence: 0.0858
 archetypes:
   boros-energy:
-    weight: 0.0252
+    weight: 0.025
     avg_copies: 1.23
   jeskai-energy:
     weight: 0.9845
     avg_copies: 3.59
   domain-zoo:
-    weight: 0.1279
-    avg_copies: 2.82
+    weight: 0.1379
+    avg_copies: 2.83
   mardu-blink:
     weight: 1.0
     avg_copies: 3.26
@@ -38,7 +38,7 @@ archetypes:
     avg_copies: 4.0
   unknown-62:
     weight: 1.0
-    avg_copies: 3.78
+    avg_copies: 3.79
   unknown-70:
     weight: 1.0
     avg_copies: 3.33

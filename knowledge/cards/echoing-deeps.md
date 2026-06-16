@@ -6,13 +6,13 @@ name: Echoing Deeps
 scryfall_id: 244c06b3-532d-426e-8bee-ee9461d092a6
 set: lci
 type: Land — Cave
-meta_presence: 0.0298
+meta_presence: 0.03
 archetypes:
   amulet-titan:
-    weight: 0.982
+    weight: 0.9823
     avg_copies: 1.0
   affinity:
-    weight: 0.006
+    weight: 0.0059
     avg_copies: 1.0
   unknown-76:
     weight: 0.1667

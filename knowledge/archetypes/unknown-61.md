@@ -5,25 +5,25 @@ name: 'Unknown #61'
 meta_share: 0.0053
 list_count: 20
 top_cards:
-- name: Emrakul, the Promised End
-  weight: 1.0
-  avg_copies: 4.0
-- name: Slumbering Trudge
-  weight: 1.0
-  avg_copies: 4.0
-- name: Kozilek's Command
-  weight: 1.0
-  avg_copies: 4.0
-- name: Sowing Mycospawn
+- name: Disciple of Freyalise
   weight: 1.0
   avg_copies: 4.0
 - name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
-- name: Disciple of Freyalise
+- name: Emrakul, the Promised End
+  weight: 1.0
+  avg_copies: 4.0
+- name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
 - name: Green Sun's Zenith
+  weight: 1.0
+  avg_copies: 4.0
+- name: Kozilek's Command
+  weight: 1.0
+  avg_copies: 4.0
+- name: Slumbering Trudge
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
@@ -32,13 +32,13 @@ top_cards:
 - name: Fight Rigging
   weight: 1.0
   avg_copies: 3.85
-- name: Malevolent Rumble
+- name: Fanatic of Rhonas
   weight: 1.0
   avg_copies: 3.85
 - name: Devourer of Destiny
   weight: 1.0
   avg_copies: 3.85
-- name: Fanatic of Rhonas
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 3.85
 - name: Forest
@@ -53,10 +53,10 @@ top_cards:
 - name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.05
-- name: Mosswort Bridge
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
-- name: Dryad Arbor
+- name: Mosswort Bridge
   weight: 1.0
   avg_copies: 1.0
 - name: Thought-Knot Seer
@@ -89,25 +89,25 @@ top_cards:
 - name: Thief of Existence
   weight: 0.05
   avg_copies: 3.0
-- name: Soul-Guide Lantern
-  weight: 0.05
-  avg_copies: 2.0
 - name: Force of Vigor
   weight: 0.05
   avg_copies: 2.0
 - name: Boseiju, Who Endures
   weight: 0.05
   avg_copies: 2.0
+- name: Soul-Guide Lantern
+  weight: 0.05
+  avg_copies: 2.0
 - name: Tajuru Preserver
+  weight: 0.05
+  avg_copies: 1.0
+- name: Gemstone Caverns
   weight: 0.05
   avg_copies: 1.0
 - name: Bojuka Bog
   weight: 0.05
   avg_copies: 1.0
 - name: Icetill Explorer
-  weight: 0.05
-  avg_copies: 1.0
-- name: Gemstone Caverns
   weight: 0.05
   avg_copies: 1.0
 ---

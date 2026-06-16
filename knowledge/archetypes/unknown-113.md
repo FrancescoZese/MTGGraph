@@ -7,7 +7,7 @@ name: 'Unknown #113'
 meta_share: 0.0005
 list_count: 2
 top_cards:
-- name: Flooded Strand
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Quantum Riddler
@@ -19,7 +19,7 @@ top_cards:
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Polluted Delta
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Subtlety
@@ -43,22 +43,22 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.5
-- name: High Noon
-  weight: 1.0
-  avg_copies: 1.5
-- name: Force of Negation
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.5
 - name: Island
   weight: 1.0
   avg_copies: 1.5
-- name: Meticulous Archive
+- name: Force of Negation
+  weight: 1.0
+  avg_copies: 1.5
+- name: High Noon
   weight: 1.0
   avg_copies: 1.5
 - name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 1.33
-- name: Plains
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Godless Shrine
@@ -67,16 +67,16 @@ top_cards:
 - name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
-  weight: 1.0
-  avg_copies: 1.0
 - name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
-- name: Counterspell
+- name: Plains
+  weight: 1.0
+  avg_copies: 1.0
+- name: Solitude
   weight: 0.5
   avg_copies: 4.0
-- name: Solitude
+- name: Counterspell
   weight: 0.5
   avg_copies: 4.0
 - name: Overlord of the Balemurk
@@ -91,10 +91,7 @@ top_cards:
 - name: Practiced Offense
   weight: 0.5
   avg_copies: 2.0
-- name: Celestial Purge
-  weight: 0.5
-  avg_copies: 2.0
-- name: Spell Snare
+- name: Witch Enchanter
   weight: 0.5
   avg_copies: 2.0
 - name: Mystical Dispute
@@ -103,19 +100,19 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 0.5
   avg_copies: 2.0
-- name: Witch Enchanter
+- name: Celestial Purge
+  weight: 0.5
+  avg_copies: 2.0
+- name: Spell Snare
   weight: 0.5
   avg_copies: 2.0
 - name: Emperor of Bones
   weight: 0.5
   avg_copies: 1.5
-- name: Drannith Magistrate
+- name: March of Otherworldly Light
   weight: 0.5
   avg_copies: 1.0
-- name: Prismatic Ending
-  weight: 0.5
-  avg_copies: 1.0
-- name: Dress Down
+- name: Ghost Vacuum
   weight: 0.5
   avg_copies: 1.0
 - name: Clarion Conqueror
@@ -124,13 +121,16 @@ top_cards:
 - name: Faerie Macabre
   weight: 0.5
   avg_copies: 1.0
-- name: Ghost Vacuum
+- name: Dress Down
+  weight: 0.5
+  avg_copies: 1.0
+- name: Drannith Magistrate
+  weight: 0.5
+  avg_copies: 1.0
+- name: Prismatic Ending
   weight: 0.5
   avg_copies: 1.0
 - name: Ashiok, Dream Render
-  weight: 0.5
-  avg_copies: 1.0
-- name: March of Otherworldly Light
   weight: 0.5
   avg_copies: 1.0
 ---
