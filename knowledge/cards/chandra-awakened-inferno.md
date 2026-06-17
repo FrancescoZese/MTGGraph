@@ -10,6 +10,6 @@ type: Legendary Planeswalker — Chandra
 meta_presence: 0.0021
 archetypes:
   boros-ponza:
-    weight: 0.0714
+    weight: 0.0702
     avg_copies: 1.0
 ---

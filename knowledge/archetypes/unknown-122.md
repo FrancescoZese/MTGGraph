@@ -6,7 +6,19 @@ name: 'Unknown #122'
 meta_share: 0.0016
 list_count: 6
 top_cards:
+- name: Stormchaser's Talent
+  weight: 1.0
+  avg_copies: 4.0
+- name: Dragon's Rage Channeler
+  weight: 1.0
+  avg_copies: 4.0
 - name: Cori-Steel Cutter
+  weight: 1.0
+  avg_copies: 4.0
+- name: Academic Dispute
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Preordain
@@ -15,19 +27,7 @@ top_cards:
 - name: Lava Dart
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
 - name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Dragon's Rage Channeler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Academic Dispute
-  weight: 1.0
-  avg_copies: 4.0
-- name: Stormchaser's Talent
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
@@ -45,6 +45,9 @@ top_cards:
 - name: Boomerang Basics
   weight: 1.0
   avg_copies: 1.83
+- name: Origin of Metalbending
+  weight: 1.0
+  avg_copies: 1.0
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
@@ -54,13 +57,10 @@ top_cards:
 - name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
-- name: Origin of Metalbending
-  weight: 1.0
-  avg_copies: 1.0
-- name: Monastery Swiftspear
+- name: Unholy Heat
   weight: 0.8333
   avg_copies: 4.0
-- name: Unholy Heat
+- name: Monastery Swiftspear
   weight: 0.8333
   avg_copies: 4.0
 - name: Consign to Memory
@@ -78,10 +78,10 @@ top_cards:
 - name: Bloodstained Mire
   weight: 0.8333
   avg_copies: 1.4
-- name: Abandon Attachments
+- name: Island
   weight: 0.8333
   avg_copies: 1.0
-- name: Island
+- name: Abandon Attachments
   weight: 0.8333
   avg_copies: 1.0
 - name: It'll Quench Ya!
@@ -99,10 +99,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.1667
   avg_copies: 2.0
-- name: Misty Rainforest
+- name: Chalice of the Void
   weight: 0.1667
   avg_copies: 2.0
-- name: Chalice of the Void
+- name: Misty Rainforest
   weight: 0.1667
   avg_copies: 2.0
 - name: Price of Freedom

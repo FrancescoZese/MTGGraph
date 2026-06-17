@@ -13,7 +13,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.75
   samwise-combo:
-    weight: 0.8478
+    weight: 0.8125
     avg_copies: 2.56
   bant-ritual:
     weight: 1.0

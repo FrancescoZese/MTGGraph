@@ -7,11 +7,11 @@ name: Esper Sentinel
 scryfall_id: f3537373-ef54-4578-9d05-6216420ee349
 set: mh2
 type: Artifact Creature — Human Soldier
-meta_presence: 0.0021
+meta_presence: 0.0023
 archetypes:
   hammer-time:
-    weight: 0.875
-    avg_copies: 3.86
+    weight: 0.8889
+    avg_copies: 3.88
   unknown-21:
     weight: 1.0
     avg_copies: 4.0

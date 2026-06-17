@@ -3,7 +3,7 @@ colors:
 - U
 - R
 name: Izzet Prowess
-meta_share: 0.0518
+meta_share: 0.0513
 list_count: 197
 top_cards:
 - name: Cori-Steel Cutter
@@ -180,10 +180,10 @@ top_cards:
 - name: Accumulate Wisdom
   weight: 0.0355
   avg_copies: 1.0
-- name: Island
+- name: Rough
   weight: 0.0305
   avg_copies: 1.17
-- name: Rough
+- name: Island
   weight: 0.0305
   avg_copies: 1.17
 - name: Questing Druid
@@ -192,10 +192,10 @@ top_cards:
 - name: Fire Magic
   weight: 0.0254
   avg_copies: 1.4
-- name: Redirect Lightning
+- name: Blood Crypt
   weight: 0.0254
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Redirect Lightning
   weight: 0.0254
   avg_copies: 1.0
 - name: Arclight Phoenix
@@ -216,16 +216,16 @@ top_cards:
 - name: Snow-Covered Mountain
   weight: 0.0152
   avg_copies: 2.0
-- name: Alpine Moon
-  weight: 0.0152
-  avg_copies: 1.67
 - name: card:eddymurk-crab
   weight: 0.0152
   avg_copies: 1.67
-- name: Sacred Foundry
+- name: Alpine Moon
+  weight: 0.0152
+  avg_copies: 1.67
+- name: True Ancestry
   weight: 0.0152
   avg_copies: 1.0
-- name: True Ancestry
+- name: Sacred Foundry
   weight: 0.0152
   avg_copies: 1.0
 - name: Manamorphose
@@ -234,22 +234,22 @@ top_cards:
 - name: Hurkyl's Recall
   weight: 0.0102
   avg_copies: 2.0
-- name: Fatal Push
-  weight: 0.0102
-  avg_copies: 1.5
 - name: Brazen Borrower
   weight: 0.0102
   avg_copies: 1.5
 - name: Wear
   weight: 0.0102
   avg_copies: 1.5
-- name: Polluted Delta
+- name: Fatal Push
   weight: 0.0102
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Pithing Needle
   weight: 0.0102
   avg_copies: 1.0
 - name: Flooded Strand
+  weight: 0.0102
+  avg_copies: 1.0
+- name: Polluted Delta
   weight: 0.0102
   avg_copies: 1.0
 - name: Invasive Surgery
@@ -261,25 +261,25 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 0.0051
   avg_copies: 4.0
-- name: Thing in the Ice
-  weight: 0.0051
-  avg_copies: 3.0
 - name: Prismatic Ending
   weight: 0.0051
   avg_copies: 3.0
-- name: Thraben Charm
+- name: Thing in the Ice
   weight: 0.0051
   avg_copies: 3.0
 - name: Traumatic Critique
   weight: 0.0051
   avg_copies: 3.0
-- name: Subtlety
+- name: Thraben Charm
+  weight: 0.0051
+  avg_copies: 3.0
+- name: Disruptor Flute
   weight: 0.0051
   avg_copies: 2.0
 - name: Kaito, Bane of Nightmares
   weight: 0.0051
   avg_copies: 2.0
-- name: Disruptor Flute
+- name: Subtlety
   weight: 0.0051
   avg_copies: 2.0
 - name: Siege Smash
@@ -288,52 +288,52 @@ top_cards:
 - name: Bedlam Reveler
   weight: 0.0051
   avg_copies: 2.0
-- name: Combustion Technique
-  weight: 0.0051
-  avg_copies: 1.0
-- name: Riverpyre Verge
-  weight: 0.0051
-  avg_copies: 1.0
-- name: Stern Scolding
-  weight: 0.0051
-  avg_copies: 1.0
-- name: Abandon Attachments
-  weight: 0.0051
-  avg_copies: 1.0
-- name: Otawara, Soaring City
-  weight: 0.0051
-  avg_copies: 1.0
-- name: Ral, Crackling Wit
+- name: End of the Hunt
   weight: 0.0051
   avg_copies: 1.0
 - name: Shattering Spree
   weight: 0.0051
   avg_copies: 1.0
-- name: Swan Song
+- name: The Legend of Roku
   weight: 0.0051
   avg_copies: 1.0
-- name: Abrade
+- name: Otawara, Soaring City
   weight: 0.0051
   avg_copies: 1.0
-- name: Lightning Axe
+- name: Abandon Attachments
   weight: 0.0051
   avg_copies: 1.0
 - name: Sink into Stupor
   weight: 0.0051
   avg_copies: 1.0
-- name: The Legend of Roku
-  weight: 0.0051
-  avg_copies: 1.0
-- name: Return to Nature
-  weight: 0.0051
-  avg_copies: 1.0
-- name: End of the Hunt
+- name: Swan Song
   weight: 0.0051
   avg_copies: 1.0
 - name: Shatterstorm
   weight: 0.0051
   avg_copies: 1.0
 - name: Grafdigger's Cage
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Return to Nature
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Combustion Technique
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Ral, Crackling Wit
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Lightning Axe
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Abrade
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Riverpyre Verge
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Stern Scolding
   weight: 0.0051
   avg_copies: 1.0
 ---

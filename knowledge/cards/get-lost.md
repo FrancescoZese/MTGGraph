@@ -13,16 +13,16 @@ archetypes:
     weight: 0.0208
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.0345
+    weight: 0.0333
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.0179
+    weight: 0.0175
     avg_copies: 3.0
   goryo6:
     weight: 1.0
     avg_copies: 4.0
   unknown-26:
-    weight: 0.0667
+    weight: 0.0625
     avg_copies: 3.0
   unknown-106:
     weight: 0.3333

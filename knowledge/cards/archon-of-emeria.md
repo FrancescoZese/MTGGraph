@@ -7,9 +7,9 @@ name: Archon of Emeria
 scryfall_id: 228c1650-da3c-4099-91b6-18e3873c9cdb
 set: znr
 type: Creature — Archon
-meta_presence: 0.0011
+meta_presence: 0.001
 archetypes:
   boros-ponza:
-    weight: 0.0357
+    weight: 0.0351
     avg_copies: 1.5
 ---

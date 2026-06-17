@@ -6,22 +6,22 @@ name: 'Unknown #102'
 meta_share: 0.0005
 list_count: 2
 top_cards:
-- name: Young Wolf
-  weight: 1.0
-  avg_copies: 4.0
-- name: Yawgmoth, Thran Physician
+- name: Chord of Calling
   weight: 1.0
   avg_copies: 4.0
 - name: Birthing Ritual
   weight: 1.0
   avg_copies: 4.0
-- name: Chord of Calling
-  weight: 1.0
-  avg_copies: 4.0
 - name: Marionette Apprentice
   weight: 1.0
   avg_copies: 4.0
+- name: Yawgmoth, Thran Physician
+  weight: 1.0
+  avg_copies: 4.0
 - name: Delighted Halfling
+  weight: 1.0
+  avg_copies: 4.0
+- name: Young Wolf
   weight: 1.0
   avg_copies: 4.0
 - name: Verdant Catacombs
@@ -30,7 +30,7 @@ top_cards:
 - name: Blooming Marsh
   weight: 1.0
   avg_copies: 2.5
-- name: Thoughtseize
+- name: Twilight Mire
   weight: 1.0
   avg_copies: 2.0
 - name: Underground Mortuary
@@ -42,55 +42,58 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 2.0
-- name: Twilight Mire
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 2.0
+- name: Ignoble Hierarch
+  weight: 1.0
+  avg_copies: 1.5
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 1.5
 - name: Force of Vigor
   weight: 1.0
   avg_copies: 1.5
-- name: Forest
-  weight: 1.0
-  avg_copies: 1.5
 - name: Endurance
   weight: 1.0
   avg_copies: 1.5
-- name: Ignoble Hierarch
+- name: Forest
   weight: 1.0
   avg_copies: 1.5
-- name: Geralf's Messenger
-  weight: 1.0
-  avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 1.0
-  avg_copies: 1.0
-- name: Grist, the Hunger Tide
-  weight: 1.0
-  avg_copies: 1.0
-- name: Swamp
+- name: Sephiroth, Fabled SOLDIER
   weight: 1.0
   avg_copies: 1.0
 - name: Hapatra, Vizier of Poisons
   weight: 1.0
   avg_copies: 1.0
-- name: Sephiroth, Fabled SOLDIER
-  weight: 1.0
-  avg_copies: 1.0
-- name: Urborg, Tomb of Yawgmoth
+- name: Takenuma, Abandoned Mire
   weight: 1.0
   avg_copies: 1.0
 - name: Overgrown Tomb
   weight: 1.0
   avg_copies: 1.0
-- name: Takenuma, Abandoned Mire
+- name: Urborg, Tomb of Yawgmoth
   weight: 1.0
   avg_copies: 1.0
 - name: Mai, Scornful Striker
   weight: 1.0
   avg_copies: 1.0
 - name: Yavimaya, Cradle of Growth
+  weight: 1.0
+  avg_copies: 1.0
+- name: Spore Frog
+  weight: 1.0
+  avg_copies: 1.0
+- name: Geralf's Messenger
+  weight: 1.0
+  avg_copies: 1.0
+- name: Boseiju, Who Endures
+  weight: 1.0
+  avg_copies: 1.0
+- name: Grist, the Hunger Tide
+  weight: 1.0
+  avg_copies: 1.0
+- name: Pendelhaven
   weight: 1.0
   avg_copies: 1.0
 - name: Blood Artist
@@ -102,13 +105,10 @@ top_cards:
 - name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 1.0
-- name: Pendelhaven
+- name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
-- name: Boseiju, Who Endures
-  weight: 1.0
-  avg_copies: 1.0
-- name: Spore Frog
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Fade from History
@@ -123,10 +123,10 @@ top_cards:
 - name: Strangleroot Geist
   weight: 0.5
   avg_copies: 1.0
-- name: Spymaster's Vault
+- name: Haywire Mite
   weight: 0.5
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Spymaster's Vault
   weight: 0.5
   avg_copies: 1.0
 ---

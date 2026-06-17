@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: Azorius Control
-meta_share: 0.0126
+meta_share: 0.0125
 list_count: 48
 top_cards:
 - name: Orim's Chant
@@ -27,10 +27,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 3.0
-- name: Hallowed Fountain
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 2.0
-- name: Meticulous Archive
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.0
 - name: Island
@@ -66,10 +66,10 @@ top_cards:
 - name: Supreme Verdict
   weight: 0.8958
   avg_copies: 1.73
-- name: Hall of Storm Giants
+- name: Otawara, Soaring City
   weight: 0.8542
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Hall of Storm Giants
   weight: 0.8542
   avg_copies: 1.0
 - name: High Noon
@@ -111,10 +111,10 @@ top_cards:
 - name: Stock Up
   weight: 0.375
   avg_copies: 1.78
-- name: Geier Reach Sanitarium
+- name: Watery Grave
   weight: 0.375
   avg_copies: 1.0
-- name: Watery Grave
+- name: Geier Reach Sanitarium
   weight: 0.375
   avg_copies: 1.0
 - name: Force of Negation
@@ -159,22 +159,22 @@ top_cards:
 - name: Breeding Pool
   weight: 0.125
   avg_copies: 1.0
-- name: Beza, the Bounding Spring
+- name: Ashiok, Dream Render
   weight: 0.1042
   avg_copies: 1.4
-- name: Ashiok, Dream Render
+- name: Beza, the Bounding Spring
   weight: 0.1042
   avg_copies: 1.4
 - name: Stern Scolding
   weight: 0.0833
   avg_copies: 1.2
-- name: Disruptor Flute
+- name: Field of Ruin
   weight: 0.0833
   avg_copies: 1.0
 - name: Undercity Sewers
   weight: 0.0833
   avg_copies: 1.0
-- name: Field of Ruin
+- name: Disruptor Flute
   weight: 0.0833
   avg_copies: 1.0
 - name: Galvanic Discharge
@@ -195,10 +195,10 @@ top_cards:
 - name: Jace, the Mind Sculptor
   weight: 0.0625
   avg_copies: 1.0
-- name: Thundertrap Trainer
+- name: Suppression Ray
   weight: 0.0417
   avg_copies: 4.0
-- name: Suppression Ray
+- name: Thundertrap Trainer
   weight: 0.0417
   avg_copies: 4.0
 - name: Brainsurge
@@ -207,64 +207,64 @@ top_cards:
 - name: Erode
   weight: 0.0417
   avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 0.0417
-  avg_copies: 1.0
 - name: Mistrise Village
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Dress Down
   weight: 0.0417
   avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.0417
   avg_copies: 1.0
+- name: Dress Down
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 0.0417
+  avg_copies: 1.0
 - name: Terminus
   weight: 0.0208
   avg_copies: 3.0
-- name: Pyroclasm
-  weight: 0.0208
-  avg_copies: 2.0
 - name: Wear
   weight: 0.0208
   avg_copies: 2.0
-- name: Elesh Norn, Mother of Machines
+- name: Pyroclasm
   weight: 0.0208
-  avg_copies: 1.0
-- name: Restless Anchorage
-  weight: 0.0208
-  avg_copies: 1.0
-- name: Celestial Colonnade
-  weight: 0.0208
-  avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.0208
-  avg_copies: 1.0
-- name: Vendilion Clique
-  weight: 0.0208
-  avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.0208
-  avg_copies: 1.0
-- name: Get Lost
-  weight: 0.0208
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Petrified Hamlet
-  weight: 0.0208
-  avg_copies: 1.0
-- name: Meltdown
-  weight: 0.0208
-  avg_copies: 1.0
-- name: The Wandering Emperor
   weight: 0.0208
   avg_copies: 1.0
 - name: Strix Serenade
   weight: 0.0208
   avg_copies: 1.0
+- name: Hurkyl's Recall
+  weight: 0.0208
+  avg_copies: 1.0
+- name: The Wandering Emperor
+  weight: 0.0208
+  avg_copies: 1.0
+- name: Restless Anchorage
+  weight: 0.0208
+  avg_copies: 1.0
 - name: Commandeer
   weight: 0.0208
   avg_copies: 1.0
+- name: Tamiyo, Inquisitive Student
+  weight: 0.0208
+  avg_copies: 1.0
+- name: Celestial Colonnade
+  weight: 0.0208
+  avg_copies: 1.0
+- name: Get Lost
+  weight: 0.0208
+  avg_copies: 1.0
 - name: Wan Shi Tong, Librarian
+  weight: 0.0208
+  avg_copies: 1.0
+- name: Vendilion Clique
+  weight: 0.0208
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 0.0208
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
   weight: 0.0208
   avg_copies: 1.0
 ---

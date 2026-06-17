@@ -7,16 +7,16 @@ name: Beza, the Bounding Spring
 scryfall_id: fc310a26-b6a0-4e42-98ab-bdfd7b06cb63
 set: blb
 type: Legendary Creature — Elemental Elk
-meta_presence: 0.0045
+meta_presence: 0.0047
 archetypes:
   azorius-control:
     weight: 0.1042
     avg_copies: 1.4
   jeskai-control:
-    weight: 0.1724
+    weight: 0.2
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.0089
+    weight: 0.0088
     avg_copies: 1.0
   4c-omnath:
     weight: 0.25
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   unknown-26:
-    weight: 0.1333
+    weight: 0.125
     avg_copies: 1.5
   unknown-48:
     weight: 0.5

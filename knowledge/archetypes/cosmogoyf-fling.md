@@ -4,7 +4,7 @@ colors:
 - R
 - G
 name: Cosmogoyf Fling
-meta_share: 0.0063
+meta_share: 0.0062
 list_count: 24
 top_cards:
 - name: Thud
@@ -115,13 +115,13 @@ top_cards:
 - name: Mosswort Bridge
   weight: 0.0833
   avg_copies: 1.5
-- name: Ghor-Clan Rampager
+- name: Thrun, the Last Troll
   weight: 0.0833
   avg_copies: 1.0
 - name: Leyline of the Void
   weight: 0.0833
   avg_copies: 1.0
-- name: Thrun, the Last Troll
+- name: Ghor-Clan Rampager
   weight: 0.0833
   avg_copies: 1.0
 - name: Mana Confluence
@@ -133,16 +133,16 @@ top_cards:
 - name: Duress
   weight: 0.0417
   avg_copies: 2.0
-- name: Chancellor of the Dross
-  weight: 0.0417
-  avg_copies: 1.0
 - name: Kaheera, the Orphanguard
   weight: 0.0417
   avg_copies: 1.0
-- name: Mountain
+- name: Disruptor Flute
   weight: 0.0417
   avg_copies: 1.0
-- name: Disruptor Flute
+- name: Chancellor of the Dross
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Mountain
   weight: 0.0417
   avg_copies: 1.0
 ---

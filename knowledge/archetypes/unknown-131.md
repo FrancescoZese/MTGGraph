@@ -7,9 +7,6 @@ name: 'Unknown #131'
 meta_share: 0.0008
 list_count: 3
 top_cards:
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
 - name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 4.0
@@ -22,16 +19,19 @@ top_cards:
 - name: Starfield Shepherd
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 4.0
-- name: Psychic Frog
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Quantum Riddler
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
+  weight: 1.0
+  avg_copies: 4.0
+- name: Psychic Frog
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
@@ -49,52 +49,52 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
-- name: Deafening Silence
-  weight: 1.0
-  avg_copies: 2.0
 - name: Ephemerate
   weight: 1.0
   avg_copies: 2.0
-- name: Hallowed Fountain
+- name: Deafening Silence
   weight: 1.0
-  avg_copies: 1.67
+  avg_copies: 2.0
 - name: Plains
   weight: 1.0
   avg_copies: 1.67
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 1.67
+- name: Hallowed Fountain
+  weight: 1.0
+  avg_copies: 1.67
 - name: Fatal Push
   weight: 1.0
   avg_copies: 1.33
+- name: Mockingbird
+  weight: 1.0
+  avg_copies: 1.0
+- name: Teferi, Time Raveler
+  weight: 1.0
+  avg_copies: 1.0
+- name: Godless Shrine
+  weight: 1.0
+  avg_copies: 1.0
+- name: Island
+  weight: 1.0
+  avg_copies: 1.0
 - name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
-- name: Teferi, Time Raveler
-  weight: 1.0
-  avg_copies: 1.0
-- name: Island
-  weight: 1.0
-  avg_copies: 1.0
-- name: Mockingbird
-  weight: 1.0
-  avg_copies: 1.0
-- name: Godless Shrine
-  weight: 1.0
-  avg_copies: 1.0
 - name: Thoughtseize
   weight: 0.6667
   avg_copies: 2.0
-- name: Nihil Spellbomb
+- name: Surgical Extraction
   weight: 0.6667
   avg_copies: 1.0
 - name: Burrenton Forge-Tender
   weight: 0.6667
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Nihil Spellbomb
   weight: 0.6667
   avg_copies: 1.0
 - name: Rest in Peace

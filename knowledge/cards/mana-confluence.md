@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.0018
 archetypes:
   samwise-combo:
-    weight: 0.087
+    weight: 0.0833
     avg_copies: 1.25
   cosmogoyf-fling:
     weight: 0.0417

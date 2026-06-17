@@ -3,16 +3,16 @@ colors:
 - R
 - G
 name: Eldrazi Ramp
-meta_share: 0.0237
+meta_share: 0.0234
 list_count: 90
 top_cards:
 - name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
-- name: Kozilek's Command
+- name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
-- name: Ugin's Labyrinth
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Malevolent Rumble
@@ -156,13 +156,13 @@ top_cards:
 - name: Nulldrifter
   weight: 0.1333
   avg_copies: 2.75
-- name: Pithing Needle
-  weight: 0.1333
-  avg_copies: 1.0
 - name: Hedge Maze
   weight: 0.1333
   avg_copies: 1.0
 - name: Boseiju, Who Endures
+  weight: 0.1333
+  avg_copies: 1.0
+- name: Pithing Needle
   weight: 0.1333
   avg_copies: 1.0
 - name: Breeding Pool
@@ -207,37 +207,37 @@ top_cards:
 - name: Six
   weight: 0.0444
   avg_copies: 1.0
-- name: Origin of Metalbending
-  weight: 0.0444
-  avg_copies: 1.0
-- name: Void Mirror
-  weight: 0.0444
-  avg_copies: 1.0
 - name: Improvisation Capstone
+  weight: 0.0444
+  avg_copies: 1.0
+- name: Origin of Metalbending
   weight: 0.0444
   avg_copies: 1.0
 - name: Iroh's Demonstration
   weight: 0.0444
   avg_copies: 1.0
+- name: Void Mirror
+  weight: 0.0444
+  avg_copies: 1.0
 - name: Talisman of Resilience
   weight: 0.0333
   avg_copies: 2.0
-- name: Blasphemous Act
-  weight: 0.0333
-  avg_copies: 1.67
 - name: Surgical Extraction
   weight: 0.0333
   avg_copies: 1.67
+- name: Blasphemous Act
+  weight: 0.0333
+  avg_copies: 1.67
 - name: Redirect Lightning
+  weight: 0.0333
+  avg_copies: 1.0
+- name: True Ancestry
   weight: 0.0333
   avg_copies: 1.0
 - name: Price of Freedom
   weight: 0.0333
   avg_copies: 1.0
 - name: Palantír of Orthanc
-  weight: 0.0333
-  avg_copies: 1.0
-- name: True Ancestry
   weight: 0.0333
   avg_copies: 1.0
 - name: Damping Sphere
@@ -255,19 +255,13 @@ top_cards:
 - name: Stone Rain
   weight: 0.0222
   avg_copies: 1.5
-- name: Vibrance
-  weight: 0.0222
-  avg_copies: 1.0
-- name: Wastescape Battlemage
-  weight: 0.0222
-  avg_copies: 1.0
 - name: Thief of Existence
   weight: 0.0222
   avg_copies: 1.0
 - name: Firebending Lesson
   weight: 0.0222
   avg_copies: 1.0
-- name: Arena of Glory
+- name: Ilharg, the Raze-Boar
   weight: 0.0222
   avg_copies: 1.0
 - name: Underground Mortuary
@@ -276,7 +270,13 @@ top_cards:
 - name: Overgrown Tomb
   weight: 0.0222
   avg_copies: 1.0
-- name: Ilharg, the Raze-Boar
+- name: Arena of Glory
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Vibrance
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Wastescape Battlemage
   weight: 0.0222
   avg_copies: 1.0
 - name: Madcap Experiment
@@ -285,7 +285,16 @@ top_cards:
 - name: Abrupt Decay
   weight: 0.0111
   avg_copies: 2.0
+- name: Ketria Triome
+  weight: 0.0111
+  avg_copies: 1.0
+- name: Darksteel Citadel
+  weight: 0.0111
+  avg_copies: 1.0
 - name: Ratchet Bomb
+  weight: 0.0111
+  avg_copies: 1.0
+- name: Walking Ballista
   weight: 0.0111
   avg_copies: 1.0
 - name: Mutable Explorer
@@ -294,37 +303,28 @@ top_cards:
 - name: Seismic Sense
   weight: 0.0111
   avg_copies: 1.0
-- name: card:platinum-emperion
-  weight: 0.0111
-  avg_copies: 1.0
-- name: Culling Ritual
-  weight: 0.0111
-  avg_copies: 1.0
-- name: Darksteel Citadel
-  weight: 0.0111
-  avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 0.0111
-  avg_copies: 1.0
-- name: Ketria Triome
-  weight: 0.0111
-  avg_copies: 1.0
-- name: Hedron Archive
-  weight: 0.0111
-  avg_copies: 1.0
 - name: Ugin, the Spirit Dragon
-  weight: 0.0111
-  avg_copies: 1.0
-- name: Endurance
   weight: 0.0111
   avg_copies: 1.0
 - name: Peer Past the Veil
   weight: 0.0111
   avg_copies: 1.0
-- name: Untimely Malfunction
+- name: Hedron Archive
   weight: 0.0111
   avg_copies: 1.0
-- name: Walking Ballista
+- name: Culling Ritual
+  weight: 0.0111
+  avg_copies: 1.0
+- name: card:platinum-emperion
+  weight: 0.0111
+  avg_copies: 1.0
+- name: Endurance
+  weight: 0.0111
+  avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 0.0111
+  avg_copies: 1.0
+- name: Untimely Malfunction
   weight: 0.0111
   avg_copies: 1.0
 ---

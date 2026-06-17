@@ -10,6 +10,6 @@ type: Legendary Planeswalker — Elspeth
 meta_presence: 0.0003
 archetypes:
   boros-ponza:
-    weight: 0.0089
+    weight: 0.0088
     avg_copies: 1.0
 ---

@@ -9,13 +9,13 @@ type: Artifact
 meta_presence: 0.0416
 archetypes:
   affinity:
-    weight: 0.0178
+    weight: 0.0174
     avg_copies: 1.0
   hammer-time:
-    weight: 0.375
+    weight: 0.3333
     avg_copies: 1.67
   broodscale-combo:
-    weight: 0.979
+    weight: 0.9793
     avg_copies: 1.03
   azorius-blink:
     weight: 0.125

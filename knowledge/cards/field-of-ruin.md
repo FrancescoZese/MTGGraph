@@ -6,7 +6,7 @@ name: Field of Ruin
 scryfall_id: 143147d2-2eec-41e7-b78a-592288b38630
 set: moc
 type: Land
-meta_presence: 0.055
+meta_presence: 0.0552
 archetypes:
   dimir-control:
     weight: 0.4198
@@ -18,7 +18,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.36
   boros-ponza:
-    weight: 0.9821
+    weight: 0.9825
     avg_copies: 3.83
   izzet-wizards:
     weight: 0.1

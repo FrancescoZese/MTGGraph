@@ -3,16 +3,16 @@ colors:
 - U
 - B
 name: Mill
-meta_share: 0.0066
+meta_share: 0.0065
 list_count: 25
 top_cards:
-- name: Archive Trap
-  weight: 1.0
-  avg_copies: 4.0
 - name: Hedron Crab
   weight: 1.0
   avg_copies: 4.0
 - name: Ruin Crab
+  weight: 1.0
+  avg_copies: 4.0
+- name: Archive Trap
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -126,13 +126,13 @@ top_cards:
 - name: Echoing Truth
   weight: 0.28
   avg_copies: 1.0
+- name: Murderous Cut
+  weight: 0.28
+  avg_copies: 1.0
 - name: Cephalid Coliseum
   weight: 0.28
   avg_copies: 1.0
 - name: Damnation
-  weight: 0.28
-  avg_copies: 1.0
-- name: Murderous Cut
   weight: 0.28
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -156,10 +156,10 @@ top_cards:
 - name: Profane Memento
   weight: 0.12
   avg_copies: 2.0
-- name: Go for the Throat
+- name: Ashiok, Dream Render
   weight: 0.12
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Go for the Throat
   weight: 0.12
   avg_copies: 1.0
 - name: Chalice of the Void
@@ -183,34 +183,52 @@ top_cards:
 - name: Illness in the Ranks
   weight: 0.08
   avg_copies: 1.0
+- name: Path to Exile
+  weight: 0.04
+  avg_copies: 4.0
 - name: White Orchid Phantom
   weight: 0.04
   avg_copies: 4.0
 - name: Trapmaker's Snare
   weight: 0.04
   avg_copies: 4.0
-- name: Path to Exile
-  weight: 0.04
-  avg_copies: 4.0
 - name: Erode
   weight: 0.04
   avg_copies: 4.0
-- name: Vendetta
-  weight: 0.04
-  avg_copies: 2.0
 - name: Hurkyl's Recall
   weight: 0.04
   avg_copies: 2.0
-- name: Spell Snare
+- name: Vendetta
   weight: 0.04
   avg_copies: 2.0
 - name: Flare of Denial
   weight: 0.04
   avg_copies: 2.0
+- name: Spell Snare
+  weight: 0.04
+  avg_copies: 2.0
 - name: Meltdown
   weight: 0.04
   avg_copies: 2.0
+- name: Mindbreak Trap
+  weight: 0.04
+  avg_copies: 1.0
+- name: Bloodchief's Thirst
+  weight: 0.04
+  avg_copies: 1.0
+- name: Steam Vents
+  weight: 0.04
+  avg_copies: 1.0
+- name: Prismatic Vista
+  weight: 0.04
+  avg_copies: 1.0
 - name: Subtlety
+  weight: 0.04
+  avg_copies: 1.0
+- name: Meticulous Archive
+  weight: 0.04
+  avg_copies: 1.0
+- name: Darkslick Shores
   weight: 0.04
   avg_copies: 1.0
 - name: Requiting Hex
@@ -222,25 +240,7 @@ top_cards:
 - name: Plains
   weight: 0.04
   avg_copies: 1.0
-- name: Bloodchief's Thirst
-  weight: 0.04
-  avg_copies: 1.0
 - name: Hallowed Fountain
-  weight: 0.04
-  avg_copies: 1.0
-- name: Darkslick Shores
-  weight: 0.04
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.04
-  avg_copies: 1.0
-- name: Mindbreak Trap
-  weight: 0.04
-  avg_copies: 1.0
-- name: Steam Vents
-  weight: 0.04
-  avg_copies: 1.0
-- name: Prismatic Vista
   weight: 0.04
   avg_copies: 1.0
 ---

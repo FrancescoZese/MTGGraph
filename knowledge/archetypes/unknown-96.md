@@ -8,7 +8,13 @@ name: 'Unknown #96'
 meta_share: 0.0021
 list_count: 8
 top_cards:
-- name: Burning Inquiry
+- name: Street Wraith
+  weight: 1.0
+  avg_copies: 4.0
+- name: Faithless Looting
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marauding Mako
   weight: 1.0
   avg_copies: 4.0
 - name: Hollow One
@@ -17,13 +23,7 @@ top_cards:
 - name: Hardened Academic
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
-  weight: 1.0
-  avg_copies: 4.0
-- name: Street Wraith
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marauding Mako
+- name: Burning Inquiry
   weight: 1.0
   avg_copies: 4.0
 - name: Arid Mesa
@@ -44,10 +44,10 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.88
-- name: Blazing Rootwalla
+- name: Vengevine
   weight: 0.875
   avg_copies: 4.0
-- name: Vengevine
+- name: Blazing Rootwalla
   weight: 0.875
   avg_copies: 4.0
 - name: Vexing Bauble
@@ -83,13 +83,13 @@ top_cards:
 - name: Lingering Souls
   weight: 0.375
   avg_copies: 2.0
-- name: The Underworld Cookbook
+- name: Seasoned Pyromancer
   weight: 0.375
   avg_copies: 2.0
 - name: Asmoranomardicadaistinaculdacar
   weight: 0.375
   avg_copies: 2.0
-- name: Seasoned Pyromancer
+- name: The Underworld Cookbook
   weight: 0.375
   avg_copies: 2.0
 - name: Fear of Missing Out
@@ -107,16 +107,19 @@ top_cards:
 - name: Moonshadow
   weight: 0.125
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Orim's Chant
   weight: 0.125
   avg_copies: 3.0
 - name: Marsh Flats
   weight: 0.125
   avg_copies: 3.0
-- name: Orim's Chant
+- name: Thoughtseize
   weight: 0.125
   avg_copies: 3.0
 - name: Magebane Lizard
+  weight: 0.125
+  avg_copies: 2.0
+- name: Prismatic Ending
   weight: 0.125
   avg_copies: 2.0
 - name: Surgical Extraction
@@ -126,9 +129,6 @@ top_cards:
   weight: 0.125
   avg_copies: 2.0
 - name: Damping Sphere
-  weight: 0.125
-  avg_copies: 2.0
-- name: Prismatic Ending
   weight: 0.125
   avg_copies: 2.0
 - name: Raucous Theater

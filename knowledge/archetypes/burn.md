@@ -3,7 +3,7 @@ colors:
 - W
 - R
 name: Burn
-meta_share: 0.0074
+meta_share: 0.0073
 list_count: 28
 top_cards:
 - name: Lava Spike
@@ -150,33 +150,42 @@ top_cards:
 - name: Orim's Chant
   weight: 0.0714
   avg_copies: 1.5
+- name: Iridescent Vinelasher
+  weight: 0.0357
+  avg_copies: 4.0
 - name: Mogg Fanatic
   weight: 0.0357
   avg_copies: 4.0
 - name: Vexing Devil
   weight: 0.0357
   avg_copies: 4.0
-- name: Iridescent Vinelasher
-  weight: 0.0357
-  avg_copies: 4.0
 - name: Containment Priest
   weight: 0.0357
   avg_copies: 3.0
+- name: Relic of Progenitus
+  weight: 0.0357
+  avg_copies: 2.0
 - name: Blood Crypt
-  weight: 0.0357
-  avg_copies: 2.0
-- name: Nihil Spellbomb
-  weight: 0.0357
-  avg_copies: 2.0
-- name: Kor Firewalker
   weight: 0.0357
   avg_copies: 2.0
 - name: Tunnel Ignus
   weight: 0.0357
   avg_copies: 2.0
-- name: Relic of Progenitus
+- name: Kor Firewalker
   weight: 0.0357
   avg_copies: 2.0
+- name: Nihil Spellbomb
+  weight: 0.0357
+  avg_copies: 2.0
+- name: Erode
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Ensnaring Bridge
+  weight: 0.0357
+  avg_copies: 1.0
+- name: card:volcanic-fallout
+  weight: 0.0357
+  avg_copies: 1.0
 - name: Blood Moon
   weight: 0.0357
   avg_copies: 1.0
@@ -186,19 +195,10 @@ top_cards:
 - name: Rain of Gore
   weight: 0.0357
   avg_copies: 1.0
-- name: Void Mirror
-  weight: 0.0357
-  avg_copies: 1.0
-- name: card:volcanic-fallout
-  weight: 0.0357
-  avg_copies: 1.0
 - name: Snow-Covered Mountain
   weight: 0.0357
   avg_copies: 1.0
-- name: Ensnaring Bridge
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Erode
+- name: Void Mirror
   weight: 0.0357
   avg_copies: 1.0
 - name: Deafening Silence

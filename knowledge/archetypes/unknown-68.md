@@ -7,10 +7,10 @@ name: 'Unknown #68'
 meta_share: 0.0068
 list_count: 26
 top_cards:
-- name: Ocelot Pride
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Guide of Souls
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
@@ -130,10 +130,10 @@ top_cards:
 - name: Kroxa, Titan of Death's Hunger
   weight: 0.2692
   avg_copies: 2.86
-- name: Surgical Extraction
+- name: End of the Hunt
   weight: 0.2308
   avg_copies: 1.0
-- name: End of the Hunt
+- name: Surgical Extraction
   weight: 0.2308
   avg_copies: 1.0
 - name: Celestial Purge
@@ -163,13 +163,13 @@ top_cards:
 - name: Lingering Souls
   weight: 0.0385
   avg_copies: 2.0
-- name: Strategic Betrayal
+- name: Ghost Vacuum
   weight: 0.0385
   avg_copies: 1.0
 - name: Solitude
   weight: 0.0385
   avg_copies: 1.0
-- name: Ghost Vacuum
+- name: Strategic Betrayal
   weight: 0.0385
   avg_copies: 1.0
 ---

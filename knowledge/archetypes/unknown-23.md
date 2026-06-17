@@ -15,10 +15,10 @@ top_cards:
 - name: Arboreal Grazer
   weight: 1.0
   avg_copies: 3.83
-- name: Icetill Explorer
+- name: Valakut, the Molten Pinnacle
   weight: 1.0
   avg_copies: 3.67
-- name: Valakut, the Molten Pinnacle
+- name: Icetill Explorer
   weight: 1.0
   avg_copies: 3.67
 - name: Green Sun's Zenith
@@ -69,10 +69,10 @@ top_cards:
 - name: Ghost Quarter
   weight: 0.8333
   avg_copies: 1.2
-- name: Dryad Arbor
+- name: Shifting Woodland
   weight: 0.8333
   avg_copies: 1.0
-- name: Shifting Woodland
+- name: Dryad Arbor
   weight: 0.8333
   avg_copies: 1.0
 - name: Lightning Bolt
@@ -84,10 +84,10 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.6667
   avg_copies: 2.25
-- name: Collector Ouphe
+- name: Bojuka Bog
   weight: 0.6667
   avg_copies: 1.0
-- name: Bojuka Bog
+- name: Collector Ouphe
   weight: 0.6667
   avg_copies: 1.0
 - name: Arid Mesa
@@ -108,37 +108,37 @@ top_cards:
 - name: Jetmir's Garden
   weight: 0.3333
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Elegant Parlor
   weight: 0.3333
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Sacred Foundry
   weight: 0.3333
   avg_copies: 1.0
 - name: Scapeshift
   weight: 0.1667
   avg_copies: 3.0
-- name: Fire Magic
-  weight: 0.1667
-  avg_copies: 2.0
 - name: Ghost Vacuum
   weight: 0.1667
   avg_copies: 2.0
 - name: Disruptor Flute
   weight: 0.1667
   avg_copies: 2.0
-- name: High Noon
-  weight: 0.1667
-  avg_copies: 2.0
 - name: Orim's Chant
   weight: 0.1667
   avg_copies: 2.0
-- name: Sakura-Tribe Elder
+- name: Fire Magic
+  weight: 0.1667
+  avg_copies: 2.0
+- name: High Noon
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Endurance
   weight: 0.1667
   avg_copies: 1.0
 - name: Dwarven Mine
   weight: 0.1667
   avg_copies: 1.0
-- name: Endurance
+- name: Sakura-Tribe Elder
   weight: 0.1667
   avg_copies: 1.0
 ---

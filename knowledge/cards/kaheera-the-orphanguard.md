@@ -14,10 +14,10 @@ archetypes:
     weight: 0.9167
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.1034
+    weight: 0.1
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.1071
+    weight: 0.1053
     avg_copies: 1.0
   cosmogoyf-fling:
     weight: 0.0417
@@ -29,7 +29,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-26:
-    weight: 0.9333
+    weight: 0.9375
     avg_copies: 1.0
   unknown-48:
     weight: 1.0

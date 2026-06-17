@@ -9,7 +9,7 @@ type: Artifact
 meta_presence: 0.0247
 archetypes:
   affinity:
-    weight: 0.1721
+    weight: 0.171
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.75

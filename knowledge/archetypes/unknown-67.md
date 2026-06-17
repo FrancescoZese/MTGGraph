@@ -5,7 +5,7 @@ colors:
 - R
 - G
 name: 'Unknown #67'
-meta_share: 0.0118
+meta_share: 0.0117
 list_count: 45
 top_cards:
 - name: Shardless Agent
@@ -26,10 +26,10 @@ top_cards:
 - name: Street Wraith
   weight: 1.0
   avg_copies: 3.84
-- name: Misty Rainforest
+- name: Generous Ent
   weight: 1.0
   avg_copies: 3.8
-- name: Generous Ent
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 3.8
 - name: Endurance
@@ -53,19 +53,19 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.02
+- name: Forest
+  weight: 1.0
+  avg_copies: 1.0
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
 - name: Breeding Pool
-  weight: 1.0
-  avg_copies: 1.0
-- name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Wistfulness
@@ -137,10 +137,10 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 0.1778
   avg_copies: 2.0
-- name: Vibrance
+- name: Temple Garden
   weight: 0.1778
   avg_copies: 1.0
-- name: Temple Garden
+- name: Vibrance
   weight: 0.1778
   avg_copies: 1.0
 - name: Commandeer
@@ -161,13 +161,13 @@ top_cards:
 - name: Fade from History
   weight: 0.1111
   avg_copies: 1.2
+- name: Flare of Denial
+  weight: 0.0889
+  avg_copies: 1.0
 - name: Quantum Riddler
   weight: 0.0889
   avg_copies: 1.0
 - name: Faerie Macabre
-  weight: 0.0889
-  avg_copies: 1.0
-- name: Flare of Denial
   weight: 0.0889
   avg_copies: 1.0
 - name: Valakut Awakening
@@ -185,13 +185,13 @@ top_cards:
 - name: Bonecrusher Giant
   weight: 0.0222
   avg_copies: 2.0
-- name: Collector Ouphe
-  weight: 0.0222
-  avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.0222
   avg_copies: 1.0
 - name: Brainsurge
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Collector Ouphe
   weight: 0.0222
   avg_copies: 1.0
 - name: Mountain

@@ -6,10 +6,10 @@ name: Detect Intrusion
 scryfall_id: ''
 set: ''
 type: Unknown
-meta_presence: 0.0021
+meta_presence: 0.0023
 archetypes:
   affinity:
-    weight: 0.003
+    weight: 0.0058
     avg_copies: 2.0
   neoform-combo:
     weight: 0.0189

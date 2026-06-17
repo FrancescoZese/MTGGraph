@@ -4,28 +4,28 @@ colors:
 - B
 - R
 name: Grixis Shadow
-meta_share: 0.0011
+meta_share: 0.001
 list_count: 4
 top_cards:
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
 - name: Death's Shadow
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
-- name: Street Wraith
-  weight: 1.0
-  avg_copies: 4.0
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
+- name: Street Wraith
+  weight: 1.0
+  avg_copies: 4.0
 - name: Psychic Frog
+  weight: 1.0
+  avg_copies: 4.0
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
@@ -55,10 +55,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.75
-- name: Swamp
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
@@ -67,13 +67,13 @@ top_cards:
 - name: Expressive Iteration
   weight: 0.75
   avg_copies: 3.33
-- name: Meltdown
+- name: Flusterstorm
   weight: 0.75
   avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.75
   avg_copies: 2.0
-- name: Flusterstorm
+- name: Meltdown
   weight: 0.75
   avg_copies: 2.0
 - name: Nihil Spellbomb
@@ -82,43 +82,43 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.5
   avg_copies: 1.5
-- name: Nethergoyf
+- name: Flow State
   weight: 0.25
   avg_copies: 4.0
-- name: Flow State
+- name: Nethergoyf
   weight: 0.25
   avg_copies: 4.0
 - name: Murktide Regent
   weight: 0.25
   avg_copies: 3.0
-- name: Counterspell
+- name: End of the Hunt
   weight: 0.25
   avg_copies: 2.0
 - name: Fire Magic
   weight: 0.25
   avg_copies: 2.0
-- name: Dauthi Voidwalker
+- name: Dress Down
   weight: 0.25
   avg_copies: 2.0
 - name: Abigale, Eloquent First-Year
   weight: 0.25
   avg_copies: 2.0
-- name: End of the Hunt
-  weight: 0.25
-  avg_copies: 2.0
-- name: Dress Down
+- name: Counterspell
   weight: 0.25
   avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.25
   avg_copies: 2.0
-- name: Force of Despair
+- name: Dauthi Voidwalker
+  weight: 0.25
+  avg_copies: 2.0
+- name: Kaito, Bane of Nightmares
   weight: 0.25
   avg_copies: 1.0
 - name: Undercity Sewers
   weight: 0.25
   avg_copies: 1.0
-- name: Kaito, Bane of Nightmares
+- name: Force of Despair
   weight: 0.25
   avg_copies: 1.0
 ---

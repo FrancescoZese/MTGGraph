@@ -7,11 +7,11 @@ name: Stubborn Denial
 scryfall_id: 6f8626c4-306f-4e9d-8840-2bb73fe87e87
 set: ktk
 type: Instant
-meta_presence: 0.0287
+meta_presence: 0.0286
 archetypes:
   domain-zoo:
-    weight: 0.9885
-    avg_copies: 2.29
+    weight: 0.9886
+    avg_copies: 2.28
   grixis-shadow:
     weight: 1.0
     avg_copies: 2.6

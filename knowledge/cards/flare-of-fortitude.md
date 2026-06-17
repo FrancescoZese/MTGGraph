@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0005
 archetypes:
   hammer-time:
-    weight: 0.125
+    weight: 0.1111
     avg_copies: 4.0
   azorius-blink:
     weight: 0.025

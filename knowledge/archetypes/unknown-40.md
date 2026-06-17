@@ -6,19 +6,10 @@ name: 'Unknown #40'
 meta_share: 0.0003
 list_count: 1
 top_cards:
-- name: Vessel of Volatility
+- name: Wild Cantor
   weight: 1.0
   avg_copies: 4.0
-- name: Goblin Charbelcher
-  weight: 1.0
-  avg_copies: 4.0
-- name: Sundering Eruption
-  weight: 1.0
-  avg_copies: 4.0
-- name: Stump Stomp
-  weight: 1.0
-  avg_copies: 4.0
-- name: Madcap Experiment
+- name: Desperate Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Manamorphose
@@ -27,31 +18,40 @@ top_cards:
 - name: Strike It Rich
   weight: 1.0
   avg_copies: 4.0
+- name: Natural State
+  weight: 1.0
+  avg_copies: 4.0
+- name: Sundering Eruption
+  weight: 1.0
+  avg_copies: 4.0
 - name: Pyretic Ritual
   weight: 1.0
   avg_copies: 4.0
-- name: Stormscale Scion
-  weight: 1.0
-  avg_copies: 4.0
-- name: Desperate Ritual
-  weight: 1.0
-  avg_copies: 4.0
-- name: Veil of Summer
-  weight: 1.0
-  avg_copies: 4.0
-- name: Pinnacle Monk
-  weight: 1.0
-  avg_copies: 4.0
-- name: Wild Cantor
+- name: Madcap Experiment
   weight: 1.0
   avg_copies: 4.0
 - name: Shatterskull Smashing
   weight: 1.0
   avg_copies: 4.0
+- name: Stormscale Scion
+  weight: 1.0
+  avg_copies: 4.0
+- name: Veil of Summer
+  weight: 1.0
+  avg_copies: 4.0
+- name: Stump Stomp
+  weight: 1.0
+  avg_copies: 4.0
+- name: Goblin Charbelcher
+  weight: 1.0
+  avg_copies: 4.0
 - name: Irencrag Feat
   weight: 1.0
   avg_copies: 4.0
-- name: Natural State
+- name: Vessel of Volatility
+  weight: 1.0
+  avg_copies: 4.0
+- name: Pinnacle Monk
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline of Sanctity
@@ -66,10 +66,10 @@ top_cards:
 - name: Disciple of Freyalise
   weight: 1.0
   avg_copies: 2.0
-- name: Emrakul, the Aeons Torn
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Mountain
+- name: Emrakul, the Aeons Torn
   weight: 1.0
   avg_copies: 1.0
 ---

@@ -6,10 +6,10 @@ name: Damping Sphere
 scryfall_id: 550860b4-887d-423a-8add-816c2a8da615
 set: dmr
 type: Artifact
-meta_presence: 0.2924
+meta_presence: 0.2913
 archetypes:
   boros-energy:
-    weight: 0.2937
+    weight: 0.2914
     avg_copies: 1.43
   dimir-control:
     weight: 0.1728
@@ -18,10 +18,10 @@ archetypes:
     weight: 0.4186
     avg_copies: 1.44
   eldrazi-tron:
-    weight: 0.0121
+    weight: 0.012
     avg_copies: 1.0
   goryo:
-    weight: 0.1456
+    weight: 0.1437
     avg_copies: 1.7
   hardened-scales:
     weight: 1.0
@@ -33,13 +33,13 @@ archetypes:
     weight: 0.5556
     avg_copies: 1.03
   jeskai-control:
-    weight: 0.2414
+    weight: 0.2333
     avg_copies: 1.71
   affinity:
-    weight: 0.9407
+    weight: 0.942
     avg_copies: 2.34
   domain-zoo:
-    weight: 0.8046
+    weight: 0.7955
     avg_copies: 1.66
   mill:
     weight: 0.08
@@ -54,16 +54,16 @@ archetypes:
     weight: 0.8696
     avg_copies: 1.85
   hammer-time:
-    weight: 0.375
+    weight: 0.3333
     avg_copies: 2.0
   hollow-one:
     weight: 0.875
     avg_copies: 2.32
   boros-ponza:
-    weight: 0.0179
+    weight: 0.0175
     avg_copies: 1.5
   yawgmoth-combo:
-    weight: 0.1786
+    weight: 0.1754
     avg_copies: 1.1
   eldrazi-ramp:
     weight: 0.0333
@@ -75,13 +75,13 @@ archetypes:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.5692
+    weight: 0.5606
     avg_copies: 2.46
   samwise-combo:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 1.5
   broodscale-combo:
-    weight: 0.4545
+    weight: 0.4483
     avg_copies: 1.75
   orzhov-blink:
     weight: 0.6667
@@ -126,7 +126,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.8444
+    weight: 0.8352
     avg_copies: 1.88
   goryo4:
     weight: 0.6667
@@ -183,10 +183,10 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-46:
-    weight: 0.6667
+    weight: 0.5
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0811
+    weight: 0.0769
     avg_copies: 2.0
   unknown-49:
     weight: 1.0

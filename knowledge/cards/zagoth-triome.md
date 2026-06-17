@@ -9,7 +9,7 @@ type: Land — Swamp Forest Island
 meta_presence: 0.0029
 archetypes:
   domain-zoo:
-    weight: 0.023
+    weight: 0.0227
     avg_copies: 1.0
   4c-omnath:
     weight: 0.25

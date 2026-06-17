@@ -6,22 +6,22 @@ name: 'Unknown #15'
 meta_share: 0.0013
 list_count: 5
 top_cards:
+- name: Emry, Lurker of the Loch
+  weight: 1.0
+  avg_copies: 4.0
+- name: Urza's Saga
+  weight: 1.0
+  avg_copies: 4.0
 - name: Cori-Steel Cutter
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Tamiyo, Inquisitive Student
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mox Opal
-  weight: 1.0
-  avg_copies: 4.0
-- name: Urza's Saga
-  weight: 1.0
-  avg_copies: 4.0
-- name: Emry, Lurker of the Loch
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
@@ -48,16 +48,16 @@ top_cards:
 - name: Spirebluff Canal
   weight: 1.0
   avg_copies: 1.4
-- name: Thundering Falls
-  weight: 1.0
-  avg_copies: 1.0
-- name: Aether Spellbomb
-  weight: 1.0
-  avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
+- name: Thundering Falls
+  weight: 1.0
+  avg_copies: 1.0
 - name: Mountain
+  weight: 1.0
+  avg_copies: 1.0
+- name: Aether Spellbomb
   weight: 1.0
   avg_copies: 1.0
 - name: Metallic Rebuke
@@ -84,15 +84,6 @@ top_cards:
 - name: Tormod's Crypt
   weight: 0.6
   avg_copies: 1.4
-- name: Repeal
-  weight: 0.6
-  avg_copies: 1.0
-- name: Fiery Islet
-  weight: 0.6
-  avg_copies: 1.0
-- name: Pithing Needle
-  weight: 0.6
-  avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.6
   avg_copies: 1.0
@@ -100,6 +91,15 @@ top_cards:
   weight: 0.6
   avg_copies: 1.0
 - name: Haywire Mite
+  weight: 0.6
+  avg_copies: 1.0
+- name: Pithing Needle
+  weight: 0.6
+  avg_copies: 1.0
+- name: Repeal
+  weight: 0.6
+  avg_copies: 1.0
+- name: Fiery Islet
   weight: 0.6
   avg_copies: 1.0
 - name: Galvanic Blast
@@ -117,10 +117,10 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.4
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Shadowspear
   weight: 0.4
   avg_copies: 1.0
-- name: Shadowspear
+- name: Grafdigger's Cage
   weight: 0.4
   avg_copies: 1.0
 - name: Expressive Iteration
@@ -129,34 +129,34 @@ top_cards:
 - name: Astrologian's Planisphere
   weight: 0.2
   avg_copies: 3.0
-- name: Sink into Stupor
+- name: Vivi Ornitier
   weight: 0.2
   avg_copies: 2.0
-- name: Vivi Ornitier
+- name: Sink into Stupor
   weight: 0.2
   avg_copies: 2.0
 - name: Flooded Strand
   weight: 0.2
   avg_copies: 2.0
-- name: Snapcaster Mage
+- name: Annul
   weight: 0.2
   avg_copies: 1.0
 - name: Strix Serenade
   weight: 0.2
   avg_copies: 1.0
-- name: Lavaspur Boots
-  weight: 0.2
-  avg_copies: 1.0
-- name: Preordain
-  weight: 0.2
-  avg_copies: 1.0
 - name: Vexing Bauble
+  weight: 0.2
+  avg_copies: 1.0
+- name: Snapcaster Mage
+  weight: 0.2
+  avg_copies: 1.0
+- name: Lavaspur Boots
   weight: 0.2
   avg_copies: 1.0
 - name: Vandalblast
   weight: 0.2
   avg_copies: 1.0
-- name: Annul
+- name: Preordain
   weight: 0.2
   avg_copies: 1.0
 ---

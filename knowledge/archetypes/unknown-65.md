@@ -4,7 +4,7 @@ colors:
 - R
 - G
 name: 'Unknown #65'
-meta_share: 0.0066
+meta_share: 0.0065
 list_count: 25
 top_cards:
 - name: Violent Outburst
@@ -19,10 +19,10 @@ top_cards:
 - name: Misty Rainforest
   weight: 1.0
   avg_copies: 3.88
-- name: Force of Negation
+- name: Fire
   weight: 1.0
   avg_copies: 3.84
-- name: Fire
+- name: Force of Negation
   weight: 1.0
   avg_copies: 3.84
 - name: Dead
@@ -52,16 +52,16 @@ top_cards:
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.12
-- name: Thundering Falls
-  weight: 1.0
-  avg_copies: 1.0
-- name: Stomping Ground
-  weight: 1.0
-  avg_copies: 1.0
 - name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
 - name: Forest
+  weight: 1.0
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 1.0
+  avg_copies: 1.0
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
 - name: Wooded Foothills
@@ -142,25 +142,25 @@ top_cards:
 - name: Flooded Grove
   weight: 0.04
   avg_copies: 2.0
-- name: Mutavault
+- name: High Noon
   weight: 0.04
   avg_copies: 2.0
 - name: Commandeer
   weight: 0.04
   avg_copies: 2.0
-- name: High Noon
+- name: Mutavault
   weight: 0.04
   avg_copies: 2.0
 - name: Harbinger of the Seas
   weight: 0.04
   avg_copies: 1.5
-- name: Hallowed Fountain
+- name: Mine Collapse
   weight: 0.04
   avg_copies: 1.0
 - name: Fable of the Mirror-Breaker
   weight: 0.04
   avg_copies: 1.0
-- name: Mine Collapse
+- name: Hallowed Fountain
   weight: 0.04
   avg_copies: 1.0
 ---
