@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: 'Unknown #47'
-meta_share: 0.0102
+meta_share: 0.0101
 list_count: 39
 top_cards:
 - name: Psychic Frog
@@ -159,7 +159,7 @@ top_cards:
 - name: The Meathook Massacre
   weight: 0.0513
   avg_copies: 1.5
-- name: Snow-Covered Swamp
+- name: Scalding Tarn
   weight: 0.0513
   avg_copies: 1.0
 - name: Spell Pierce
@@ -168,16 +168,22 @@ top_cards:
 - name: Snow-Covered Island
   weight: 0.0513
   avg_copies: 1.0
-- name: Scalding Tarn
+- name: Snow-Covered Swamp
   weight: 0.0513
   avg_copies: 1.0
-- name: Verdant Catacombs
-  weight: 0.0256
-  avg_copies: 2.0
 - name: Void Mirror
   weight: 0.0256
   avg_copies: 2.0
-- name: Stony Silence
+- name: Verdant Catacombs
+  weight: 0.0256
+  avg_copies: 2.0
+- name: Teferi, Time Raveler
+  weight: 0.0256
+  avg_copies: 1.0
+- name: High Noon
+  weight: 0.0256
+  avg_copies: 1.0
+- name: Snapcaster Mage
   weight: 0.0256
   avg_copies: 1.0
 - name: River of Tears
@@ -189,19 +195,13 @@ top_cards:
 - name: Umezawa's Jitte
   weight: 0.0256
   avg_copies: 1.0
-- name: Snapcaster Mage
-  weight: 0.0256
-  avg_copies: 1.0
-- name: High Noon
+- name: Strategic Betrayal
   weight: 0.0256
   avg_copies: 1.0
 - name: Celestial Purge
   weight: 0.0256
   avg_copies: 1.0
-- name: Teferi, Time Raveler
-  weight: 0.0256
-  avg_copies: 1.0
-- name: Strategic Betrayal
+- name: Stony Silence
   weight: 0.0256
   avg_copies: 1.0
 - name: Damnation

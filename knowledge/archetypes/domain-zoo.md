@@ -6,7 +6,7 @@ colors:
 - R
 - G
 name: Domain Zoo
-meta_share: 0.0229
+meta_share: 0.0227
 list_count: 88
 top_cards:
 - name: Territorial Kavu
@@ -18,10 +18,10 @@ top_cards:
 - name: Leyline Binding
   weight: 1.0
   avg_copies: 3.97
-- name: Scion of Draco
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 3.93
-- name: Lightning Bolt
+- name: Scion of Draco
   weight: 1.0
   avg_copies: 3.93
 - name: Wooded Foothills
@@ -54,10 +54,10 @@ top_cards:
 - name: Wear
   weight: 0.9773
   avg_copies: 1.64
-- name: Indatha Triome
+- name: Temple Garden
   weight: 0.9773
   avg_copies: 1.0
-- name: Temple Garden
+- name: Indatha Triome
   weight: 0.9773
   avg_copies: 1.0
 - name: Mountain
@@ -171,7 +171,10 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.0227
   avg_copies: 1.5
-- name: Raucous Theater
+- name: Breeding Pool
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Hidetsugu Consumes All
   weight: 0.0227
   avg_copies: 1.0
 - name: Zagoth Triome
@@ -180,10 +183,10 @@ top_cards:
 - name: Elegant Parlor
   weight: 0.0227
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Containment Priest
   weight: 0.0227
   avg_copies: 1.0
-- name: Hidetsugu Consumes All
+- name: Raucous Theater
   weight: 0.0227
   avg_copies: 1.0
 - name: Overgrown Tomb
@@ -192,13 +195,16 @@ top_cards:
 - name: Does Machines
   weight: 0.0227
   avg_copies: 1.0
-- name: Containment Priest
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Professor of Symbology
+- name: Archon of Cruelty
   weight: 0.0114
   avg_copies: 4.0
 - name: Psychic Frog
+  weight: 0.0114
+  avg_copies: 4.0
+- name: Professor of Symbology
+  weight: 0.0114
+  avg_copies: 4.0
+- name: Aurora Awakener
   weight: 0.0114
   avg_copies: 4.0
 - name: Persist
@@ -207,15 +213,12 @@ top_cards:
 - name: Faithless Looting
   weight: 0.0114
   avg_copies: 4.0
-- name: Archon of Cruelty
-  weight: 0.0114
-  avg_copies: 4.0
-- name: Aurora Awakener
-  weight: 0.0114
-  avg_copies: 4.0
 - name: Summoning Trap
   weight: 0.0114
   avg_copies: 3.0
+- name: Drannith Magistrate
+  weight: 0.0114
+  avg_copies: 2.0
 - name: Mana Tithe
   weight: 0.0114
   avg_copies: 2.0
@@ -225,55 +228,52 @@ top_cards:
 - name: No More Lies
   weight: 0.0114
   avg_copies: 2.0
-- name: Drannith Magistrate
-  weight: 0.0114
-  avg_copies: 2.0
-- name: Glasspool Mimic
-  weight: 0.0114
-  avg_copies: 1.0
-- name: Ruinous Waterbending
-  weight: 0.0114
-  avg_copies: 1.0
-- name: Dai Li Indoctrination
-  weight: 0.0114
-  avg_copies: 1.0
-- name: Redirect Lightning
-  weight: 0.0114
-  avg_copies: 1.0
 - name: Boomerang Basics
-  weight: 0.0114
-  avg_copies: 1.0
-- name: Abandon Attachments
-  weight: 0.0114
-  avg_copies: 1.0
-- name: Decorum Dissertation
-  weight: 0.0114
-  avg_copies: 1.0
-- name: Boromir, Warden of the Tower
-  weight: 0.0114
-  avg_copies: 1.0
-- name: Firebending Lesson
-  weight: 0.0114
-  avg_copies: 1.0
-- name: Chthonian Nightmare
-  weight: 0.0114
-  avg_copies: 1.0
-- name: Price of Freedom
-  weight: 0.0114
-  avg_copies: 1.0
-- name: Origin of Metalbending
-  weight: 0.0114
-  avg_copies: 1.0
-- name: Fire Magic
-  weight: 0.0114
-  avg_copies: 1.0
-- name: Sacred Ground
   weight: 0.0114
   avg_copies: 1.0
 - name: Alpine Moon
   weight: 0.0114
   avg_copies: 1.0
+- name: Chthonian Nightmare
+  weight: 0.0114
+  avg_copies: 1.0
 - name: Tormod's Crypt
+  weight: 0.0114
+  avg_copies: 1.0
+- name: Price of Freedom
+  weight: 0.0114
+  avg_copies: 1.0
+- name: Boromir, Warden of the Tower
+  weight: 0.0114
+  avg_copies: 1.0
+- name: Glasspool Mimic
+  weight: 0.0114
+  avg_copies: 1.0
+- name: Abandon Attachments
+  weight: 0.0114
+  avg_copies: 1.0
+- name: Dai Li Indoctrination
+  weight: 0.0114
+  avg_copies: 1.0
+- name: Decorum Dissertation
+  weight: 0.0114
+  avg_copies: 1.0
+- name: Ruinous Waterbending
+  weight: 0.0114
+  avg_copies: 1.0
+- name: Firebending Lesson
+  weight: 0.0114
+  avg_copies: 1.0
+- name: Origin of Metalbending
+  weight: 0.0114
+  avg_copies: 1.0
+- name: Sacred Ground
+  weight: 0.0114
+  avg_copies: 1.0
+- name: Redirect Lightning
+  weight: 0.0114
+  avg_copies: 1.0
+- name: Fire Magic
   weight: 0.0114
   avg_copies: 1.0
 ---

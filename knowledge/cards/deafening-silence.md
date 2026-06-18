@@ -10,10 +10,10 @@ type: Enchantment
 meta_presence: 0.0224
 archetypes:
   boros-energy:
-    weight: 0.0305
+    weight: 0.0304
     avg_copies: 1.75
   goryo:
-    weight: 0.0312
+    weight: 0.0305
     avg_copies: 1.6
   living-end:
     weight: 0.1667
@@ -25,19 +25,19 @@ archetypes:
     weight: 0.0088
     avg_copies: 3.0
   esper-blink:
-    weight: 0.0152
+    weight: 0.0147
     avg_copies: 3.0
   samwise-combo:
     weight: 0.0208
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0069
+    weight: 0.0068
     avg_copies: 2.0
   orzhov-blink:
     weight: 0.1111
     avg_copies: 3.0
   azorius-blink:
-    weight: 0.525
+    weight: 0.5122
     avg_copies: 1.95
   selesnya-midrange:
     weight: 1.0
@@ -49,7 +49,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-62:
-    weight: 0.2105
+    weight: 0.2
     avg_copies: 1.75
   unknown-66:
     weight: 1.0

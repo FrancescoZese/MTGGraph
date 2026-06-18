@@ -5,25 +5,25 @@ name: 'Unknown #57'
 meta_share: 0.0003
 list_count: 1
 top_cards:
+- name: Warren Soultrader
+  weight: 1.0
+  avg_copies: 4.0
 - name: Overlord of the Balemurk
-  weight: 1.0
-  avg_copies: 4.0
-- name: Phyrexian Tower
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marionette Apprentice
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Warren Soultrader
+- name: Eyetwitch
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marionette Apprentice
   weight: 1.0
   avg_copies: 4.0
 - name: Gravecrawler
   weight: 1.0
   avg_copies: 4.0
-- name: Eyetwitch
+- name: Phyrexian Tower
   weight: 1.0
   avg_copies: 4.0
 - name: Unearth
@@ -35,10 +35,7 @@ top_cards:
 - name: Flare of Malice
   weight: 1.0
   avg_copies: 3.0
-- name: Sephiroth, Fabled SOLDIER
-  weight: 1.0
-  avg_copies: 2.0
-- name: Culling Ritual
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 2.0
 - name: Swamp
@@ -47,64 +44,67 @@ top_cards:
 - name: Phoenix Fleet Airship
   weight: 1.0
   avg_copies: 2.0
-- name: Verdant Catacombs
+- name: Sephiroth, Fabled SOLDIER
+  weight: 1.0
+  avg_copies: 2.0
+- name: Culling Ritual
   weight: 1.0
   avg_copies: 2.0
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 2.0
-- name: Cling to Dust
-  weight: 1.0
-  avg_copies: 1.0
-- name: Break the Ice
-  weight: 1.0
-  avg_copies: 1.0
-- name: Blood Crypt
-  weight: 1.0
-  avg_copies: 1.0
-- name: Raucous Theater
-  weight: 1.0
-  avg_copies: 1.0
-- name: Ruinous Waterbending
+- name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 1.0
 - name: Ozai's Cruelty
   weight: 1.0
   avg_copies: 1.0
-- name: Price of Freedom
-  weight: 1.0
-  avg_copies: 1.0
 - name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.0
-- name: Dai Li Indoctrination
+- name: Cling to Dust
   weight: 1.0
   avg_copies: 1.0
-- name: Firebending Lesson
+- name: Price of Freedom
   weight: 1.0
   avg_copies: 1.0
-- name: Graveyard Trespasser
+- name: Fatal Push
   weight: 1.0
   avg_copies: 1.0
-- name: Overgrown Tomb
-  weight: 1.0
-  avg_copies: 1.0
-- name: Origin of Metalbending
-  weight: 1.0
-  avg_copies: 1.0
-- name: Ashiok, Dream Render
-  weight: 1.0
-  avg_copies: 1.0
-- name: True Ancestry
-  weight: 1.0
-  avg_copies: 1.0
-- name: Marsh Flats
+- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
 - name: Decorum Dissertation
   weight: 1.0
   avg_copies: 1.0
-- name: Fatal Push
+- name: Ruinous Waterbending
+  weight: 1.0
+  avg_copies: 1.0
+- name: Break the Ice
+  weight: 1.0
+  avg_copies: 1.0
+- name: Firebending Lesson
+  weight: 1.0
+  avg_copies: 1.0
+- name: Blood Crypt
+  weight: 1.0
+  avg_copies: 1.0
+- name: Origin of Metalbending
+  weight: 1.0
+  avg_copies: 1.0
+- name: Graveyard Trespasser
+  weight: 1.0
+  avg_copies: 1.0
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 1.0
+- name: True Ancestry
+  weight: 1.0
+  avg_copies: 1.0
+- name: Dai Li Indoctrination
+  weight: 1.0
+  avg_copies: 1.0
+- name: Overgrown Tomb
   weight: 1.0
   avg_copies: 1.0
 ---

@@ -21,19 +21,19 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   affinity:
-    weight: 0.3275
+    weight: 0.3219
     avg_copies: 1.02
   hammer-time:
     weight: 0.3333
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.6222
-    avg_copies: 1.66
+    weight: 0.6304
+    avg_copies: 1.64
   izzet-prowess:
     weight: 0.0051
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.7379
+    weight: 0.7415
     avg_copies: 1.0
   orzhov-blink:
     weight: 0.3333
@@ -45,7 +45,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo4:
-    weight: 0.2222
+    weight: 0.2
     avg_copies: 2.5
   unknown-12:
     weight: 1.0

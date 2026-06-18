@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: Necrodominance
-meta_share: 0.0096
+meta_share: 0.0095
 list_count: 37
 top_cards:
 - name: Swamp
@@ -105,10 +105,10 @@ top_cards:
 - name: Marsh Flats
   weight: 0.1622
   avg_copies: 1.17
-- name: Disruptor Flute
+- name: Ashiok, Dream Render
   weight: 0.1351
   avg_copies: 1.6
-- name: Ashiok, Dream Render
+- name: Disruptor Flute
   weight: 0.1351
   avg_copies: 1.6
 - name: Undercity Sewers
@@ -138,25 +138,25 @@ top_cards:
 - name: Vein Ripper
   weight: 0.0541
   avg_copies: 4.0
-- name: Requiting Hex
-  weight: 0.0541
-  avg_copies: 4.0
 - name: Sorin, Imperious Bloodlord
   weight: 0.0541
   avg_copies: 4.0
-- name: Consign to Memory
+- name: Requiting Hex
+  weight: 0.0541
+  avg_copies: 4.0
+- name: Watery Grave
   weight: 0.0541
   avg_copies: 3.5
-- name: Watery Grave
+- name: Consign to Memory
   weight: 0.0541
   avg_copies: 3.5
 - name: Sign in Blood
   weight: 0.0541
   avg_copies: 2.5
-- name: Agadeem's Awakening
+- name: Long Goodbye
   weight: 0.0541
   avg_copies: 2.0
-- name: Long Goodbye
+- name: Agadeem's Awakening
   weight: 0.0541
   avg_copies: 2.0
 - name: The Filigree Sylex
@@ -165,31 +165,46 @@ top_cards:
 - name: Toxic Deluge
   weight: 0.0541
   avg_copies: 1.5
-- name: Decorum Dissertation
+- name: Underground Mortuary
   weight: 0.0541
   avg_copies: 1.0
-- name: Slaughter Pact
+- name: Decorum Dissertation
   weight: 0.0541
   avg_copies: 1.0
 - name: Legion's End
   weight: 0.0541
   avg_copies: 1.0
-- name: Underground Mortuary
+- name: Slaughter Pact
   weight: 0.0541
   avg_copies: 1.0
 - name: Iridescent Vinelasher
   weight: 0.027
   avg_copies: 4.0
-- name: Quantum Riddler
-  weight: 0.027
-  avg_copies: 3.0
 - name: Mystical Dispute
   weight: 0.027
   avg_copies: 3.0
-- name: End of the Hunt
+- name: Quantum Riddler
+  weight: 0.027
+  avg_copies: 3.0
+- name: Pillage the Bog
+  weight: 0.027
+  avg_copies: 2.0
+- name: Witherbloom Command
   weight: 0.027
   avg_copies: 2.0
 - name: Mai, Scornful Striker
+  weight: 0.027
+  avg_copies: 2.0
+- name: Vexing Bauble
+  weight: 0.027
+  avg_copies: 2.0
+- name: Overgrown Tomb
+  weight: 0.027
+  avg_copies: 2.0
+- name: Culling Ritual
+  weight: 0.027
+  avg_copies: 2.0
+- name: End of the Hunt
   weight: 0.027
   avg_copies: 2.0
 - name: Phyrexian Crusader
@@ -198,22 +213,7 @@ top_cards:
 - name: Hurkyl's Recall
   weight: 0.027
   avg_copies: 2.0
-- name: Pillage the Bog
-  weight: 0.027
-  avg_copies: 2.0
-- name: Witherbloom Command
-  weight: 0.027
-  avg_copies: 2.0
-- name: Culling Ritual
-  weight: 0.027
-  avg_copies: 2.0
-- name: Overgrown Tomb
-  weight: 0.027
-  avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 0.027
-  avg_copies: 2.0
-- name: Blood Crypt
+- name: Nurturing Peatland
   weight: 0.027
   avg_copies: 1.0
 - name: Path of Peril
@@ -222,16 +222,16 @@ top_cards:
 - name: Pick Your Poison
   weight: 0.027
   avg_copies: 1.0
-- name: Shizo, Death's Storehouse
-  weight: 0.027
-  avg_copies: 1.0
 - name: Cling to Dust
   weight: 0.027
   avg_copies: 1.0
 - name: Kaito, Bane of Nightmares
   weight: 0.027
   avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Blood Crypt
+  weight: 0.027
+  avg_copies: 1.0
+- name: Shizo, Death's Storehouse
   weight: 0.027
   avg_copies: 1.0
 ---

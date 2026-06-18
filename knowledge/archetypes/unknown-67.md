@@ -5,7 +5,7 @@ colors:
 - R
 - G
 name: 'Unknown #67'
-meta_share: 0.0117
+meta_share: 0.0116
 list_count: 45
 top_cards:
 - name: Shardless Agent
@@ -53,19 +53,19 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.02
-- name: Forest
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Thundering Falls
-  weight: 1.0
-  avg_copies: 1.0
-- name: Stomping Ground
-  weight: 1.0
-  avg_copies: 1.0
 - name: Breeding Pool
+  weight: 1.0
+  avg_copies: 1.0
+- name: Forest
+  weight: 1.0
+  avg_copies: 1.0
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Wistfulness
@@ -137,10 +137,10 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 0.1778
   avg_copies: 2.0
-- name: Temple Garden
+- name: Vibrance
   weight: 0.1778
   avg_copies: 1.0
-- name: Vibrance
+- name: Temple Garden
   weight: 0.1778
   avg_copies: 1.0
 - name: Commandeer
@@ -173,10 +173,10 @@ top_cards:
 - name: Valakut Awakening
   weight: 0.0667
   avg_copies: 1.0
-- name: Windcaller Aven
+- name: Press the Enemy
   weight: 0.0444
   avg_copies: 1.0
-- name: Press the Enemy
+- name: Windcaller Aven
   weight: 0.0444
   avg_copies: 1.0
 - name: Fulminator Mage
@@ -185,16 +185,16 @@ top_cards:
 - name: Bonecrusher Giant
   weight: 0.0222
   avg_copies: 2.0
-- name: Meticulous Archive
-  weight: 0.0222
-  avg_copies: 1.0
 - name: Brainsurge
   weight: 0.0222
   avg_copies: 1.0
-- name: Collector Ouphe
+- name: Meticulous Archive
   weight: 0.0222
   avg_copies: 1.0
 - name: Mountain
+  weight: 0.0222
+  avg_copies: 1.0
+- name: Collector Ouphe
   weight: 0.0222
   avg_copies: 1.0
 ---

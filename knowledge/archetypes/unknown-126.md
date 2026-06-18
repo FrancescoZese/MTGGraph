@@ -4,45 +4,45 @@ colors:
 - B
 - G
 name: 'Unknown #126'
-meta_share: 0.0013
-list_count: 5
+meta_share: 0.0015
+list_count: 6
 top_cards:
-- name: Green Sun's Zenith
-  weight: 1.0
-  avg_copies: 4.0
-- name: Devoted Druid
-  weight: 1.0
-  avg_copies: 4.0
-- name: Badgermole Cub
-  weight: 1.0
-  avg_copies: 4.0
-- name: Verdant Catacombs
-  weight: 1.0
-  avg_copies: 4.0
-- name: Windswept Heath
+- name: Tyvar, Jubilant Brawler
   weight: 1.0
   avg_copies: 4.0
 - name: Nature's Rhythm
   weight: 1.0
   avg_copies: 4.0
-- name: Tyvar, Jubilant Brawler
+- name: Badgermole Cub
+  weight: 1.0
+  avg_copies: 4.0
+- name: Windswept Heath
+  weight: 1.0
+  avg_copies: 4.0
+- name: Verdant Catacombs
+  weight: 1.0
+  avg_copies: 4.0
+- name: Devoted Druid
+  weight: 1.0
+  avg_copies: 4.0
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 4.0
 - name: Delighted Halfling
   weight: 1.0
-  avg_copies: 3.8
-- name: Vizier of Remedies
+  avg_copies: 3.83
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 3.0
-- name: Malevolent Rumble
+- name: Vizier of Remedies
   weight: 1.0
   avg_copies: 3.0
 - name: Orim's Chant
   weight: 1.0
-  avg_copies: 2.8
+  avg_copies: 2.83
 - name: Agatha's Soul Cauldron
   weight: 1.0
-  avg_copies: 2.4
+  avg_copies: 2.5
 - name: Shifting Woodland
   weight: 1.0
   avg_copies: 2.0
@@ -51,87 +51,87 @@ top_cards:
   avg_copies: 2.0
 - name: Boseiju, Who Endures
   weight: 1.0
-  avg_copies: 1.8
+  avg_copies: 1.67
 - name: Endurance
   weight: 1.0
-  avg_copies: 1.2
-- name: Ouroboroid
-  weight: 1.0
-  avg_copies: 1.0
-- name: Temple Garden
-  weight: 1.0
-  avg_copies: 1.0
-- name: card:ethersworn-canonist
-  weight: 1.0
-  avg_copies: 1.0
-- name: Eternal Witness
-  weight: 1.0
-  avg_copies: 1.0
-- name: Suncleanser
-  weight: 1.0
-  avg_copies: 1.0
+  avg_copies: 1.17
 - name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.0
-- name: Outland Liberator
-  weight: 1.0
-  avg_copies: 1.0
-- name: Overgrown Tomb
-  weight: 1.0
-  avg_copies: 1.0
-- name: Lush Portico
-  weight: 1.0
-  avg_copies: 1.0
-- name: Walking Ballista
+- name: Ouroboroid
   weight: 1.0
   avg_copies: 1.0
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
-- name: card:birds-of-paradise
-  weight: 1.0
-  avg_copies: 1.0
-- name: Kraul Harpooner
-  weight: 1.0
-  avg_copies: 1.0
 - name: Keen-Eyed Curator
+  weight: 1.0
+  avg_copies: 1.0
+- name: Lush Portico
+  weight: 1.0
+  avg_copies: 1.0
+- name: Eternal Witness
+  weight: 1.0
+  avg_copies: 1.0
+- name: Overgrown Tomb
+  weight: 1.0
+  avg_copies: 1.0
+- name: Suncleanser
+  weight: 1.0
+  avg_copies: 1.0
+- name: card:birds-of-paradise
   weight: 1.0
   avg_copies: 1.0
 - name: Grist, the Hunger Tide
   weight: 1.0
   avg_copies: 1.0
-- name: Duskwatch Recruiter
+- name: Dryad Arbor
+  weight: 1.0
+  avg_copies: 1.0
+- name: card:ethersworn-canonist
+  weight: 1.0
+  avg_copies: 1.0
+- name: Outland Liberator
+  weight: 1.0
+  avg_copies: 1.0
+- name: Walking Ballista
   weight: 1.0
   avg_copies: 1.0
 - name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
+- name: Kraul Harpooner
+  weight: 1.0
+  avg_copies: 1.0
 - name: Misty Rainforest
   weight: 1.0
   avg_copies: 1.0
-- name: Dryad Arbor
+- name: Temple Garden
+  weight: 1.0
+  avg_copies: 1.0
+- name: Duskwatch Recruiter
   weight: 1.0
   avg_copies: 1.0
 - name: Snow-Covered Forest
-  weight: 0.8
+  weight: 0.8333
   avg_copies: 2.0
 - name: Sylvan Safekeeper
-  weight: 0.8
+  weight: 0.8333
   avg_copies: 1.0
 - name: Damping Sphere
-  weight: 0.8
+  weight: 0.8333
   avg_copies: 1.0
 - name: Craterhoof Behemoth
-  weight: 0.6
+  weight: 0.5
   avg_copies: 1.0
 - name: Chord of Calling
-  weight: 0.4
+  weight: 0.3333
   avg_copies: 1.0
 - name: Forest
-  weight: 0.2
+  weight: 0.1667
   avg_copies: 3.0
 - name: Crystal Barricade
-  weight: 0.2
+  weight: 0.1667
   avg_copies: 1.0
 ---
 Unclassified archetype, pending review.

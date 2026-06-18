@@ -24,16 +24,16 @@ archetypes:
     weight: 0.463
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.9057
+    weight: 0.9074
     avg_copies: 1.0
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 1.89
+    avg_copies: 1.9
   eldrazi-ramp:
-    weight: 0.1333
+    weight: 0.1413
     avg_copies: 1.0
   simic-ritual:
     weight: 0.942
@@ -48,8 +48,8 @@ archetypes:
     weight: 0.4167
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.9931
-    avg_copies: 1.64
+    weight: 0.9932
+    avg_copies: 1.65
   dredge:
     weight: 0.8889
     avg_copies: 1.53
@@ -102,8 +102,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-61:
-    weight: 0.05
-    avg_copies: 2.0
+    weight: 0.0952
+    avg_copies: 1.5
   unknown-59:
     weight: 1.0
     avg_copies: 2.0
@@ -136,7 +136,7 @@ archetypes:
     avg_copies: 1.0
   unknown-126:
     weight: 1.0
-    avg_copies: 1.8
+    avg_copies: 1.67
   unknown-130:
     weight: 1.0
     avg_copies: 1.0

@@ -3,22 +3,22 @@ colors:
 - R
 - G
 name: 'Unknown #23'
-meta_share: 0.0016
+meta_share: 0.0015
 list_count: 6
 top_cards:
-- name: Vibrance
+- name: Dryad of the Ilysian Grove
   weight: 1.0
   avg_copies: 4.0
-- name: Dryad of the Ilysian Grove
+- name: Vibrance
   weight: 1.0
   avg_copies: 4.0
 - name: Arboreal Grazer
   weight: 1.0
   avg_copies: 3.83
-- name: Valakut, the Molten Pinnacle
+- name: Icetill Explorer
   weight: 1.0
   avg_copies: 3.67
-- name: Icetill Explorer
+- name: Valakut, the Molten Pinnacle
   weight: 1.0
   avg_copies: 3.67
 - name: Green Sun's Zenith
@@ -39,10 +39,10 @@ top_cards:
 - name: Commercial District
   weight: 1.0
   avg_copies: 2.17
-- name: Boseiju, Who Endures
+- name: Mountain
   weight: 1.0
   avg_copies: 1.67
-- name: Mountain
+- name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.67
 - name: Vexing Bauble
@@ -69,10 +69,10 @@ top_cards:
 - name: Ghost Quarter
   weight: 0.8333
   avg_copies: 1.2
-- name: Shifting Woodland
+- name: Dryad Arbor
   weight: 0.8333
   avg_copies: 1.0
-- name: Dryad Arbor
+- name: Shifting Woodland
   weight: 0.8333
   avg_copies: 1.0
 - name: Lightning Bolt
@@ -84,10 +84,10 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.6667
   avg_copies: 2.25
-- name: Bojuka Bog
+- name: Collector Ouphe
   weight: 0.6667
   avg_copies: 1.0
-- name: Collector Ouphe
+- name: Bojuka Bog
   weight: 0.6667
   avg_copies: 1.0
 - name: Arid Mesa
@@ -117,10 +117,13 @@ top_cards:
 - name: Scapeshift
   weight: 0.1667
   avg_copies: 3.0
-- name: Ghost Vacuum
+- name: Disruptor Flute
   weight: 0.1667
   avg_copies: 2.0
-- name: Disruptor Flute
+- name: High Noon
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Ghost Vacuum
   weight: 0.1667
   avg_copies: 2.0
 - name: Orim's Chant
@@ -129,13 +132,10 @@ top_cards:
 - name: Fire Magic
   weight: 0.1667
   avg_copies: 2.0
-- name: High Noon
-  weight: 0.1667
-  avg_copies: 2.0
-- name: Endurance
+- name: Dwarven Mine
   weight: 0.1667
   avg_copies: 1.0
-- name: Dwarven Mine
+- name: Endurance
   weight: 0.1667
   avg_copies: 1.0
 - name: Sakura-Tribe Elder

@@ -7,10 +7,10 @@ name: Thoughtseize
 scryfall_id: b281a308-ab6b-47b6-bec7-632c9aaecede
 set: 2xm
 type: Sorcery
-meta_presence: 0.2022
+meta_presence: 0.2028
 archetypes:
   ruby-storm:
-    weight: 0.0088
+    weight: 0.0087
     avg_copies: 2.0
   dimir-control:
     weight: 0.5432
@@ -19,8 +19,8 @@ archetypes:
     weight: 0.018
     avg_copies: 4.0
   goryo:
-    weight: 0.975
-    avg_copies: 2.8
+    weight: 0.9756
+    avg_copies: 2.77
   necrodominance:
     weight: 0.8378
     avg_copies: 3.94
@@ -35,16 +35,16 @@ archetypes:
     avg_copies: 2.88
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 2.49
+    avg_copies: 2.48
   simic-ritual:
     weight: 0.0145
     avg_copies: 4.0
   izzet-prowess:
-    weight: 0.0203
+    weight: 0.0202
     avg_copies: 3.0
   esper-blink:
-    weight: 0.9545
-    avg_copies: 3.58
+    weight: 0.9559
+    avg_copies: 3.59
   samwise-combo:
     weight: 0.75
     avg_copies: 2.44
@@ -142,8 +142,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-45:
-    weight: 0.9412
-    avg_copies: 1.74
+    weight: 0.9474
+    avg_copies: 1.79
   unknown-46:
     weight: 1.0
     avg_copies: 2.67
@@ -169,8 +169,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-68:
-    weight: 0.9615
-    avg_copies: 2.52
+    weight: 0.963
+    avg_copies: 2.45
   unknown-69:
     weight: 1.0
     avg_copies: 2.0
@@ -199,7 +199,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-97:
-    weight: 0.5
+    weight: 0.4
     avg_copies: 1.0
   unknown-101:
     weight: 0.5
@@ -226,7 +226,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-131:
-    weight: 0.6667
+    weight: 0.5
     avg_copies: 2.0
   unknown-132:
     weight: 1.0

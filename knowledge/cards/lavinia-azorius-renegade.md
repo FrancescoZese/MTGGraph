@@ -8,17 +8,17 @@ name: Lavinia, Azorius Renegade
 scryfall_id: 197bf3f4-c0df-4082-97a1-902ceabbdd3f
 set: rvr
 type: Legendary Creature — Human Soldier
-meta_presence: 0.0055
+meta_presence: 0.0059
 archetypes:
   goryo:
-    weight: 0.0063
+    weight: 0.0061
     avg_copies: 1.0
   samwise-combo:
     weight: 0.2083
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.05
-    avg_copies: 1.0
+    weight: 0.0732
+    avg_copies: 1.25
   bant-ritual:
     weight: 1.0
     avg_copies: 2.0
@@ -26,7 +26,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   unknown-62:
-    weight: 0.1053
+    weight: 0.1
     avg_copies: 2.0
   unknown-83:
     weight: 1.0

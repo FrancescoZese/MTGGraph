@@ -6,13 +6,13 @@ name: Verdant Catacombs
 scryfall_id: 94c229ea-90da-4aa0-bfda-b162fb3b5b8b
 set: mh2
 type: Land
-meta_presence: 0.1072
+meta_presence: 0.1075
 archetypes:
   dimir-control:
     weight: 0.0123
     avg_copies: 1.0
   goryo:
-    weight: 0.0125
+    weight: 0.0122
     avg_copies: 4.0
   necrodominance:
     weight: 0.1892
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.037
     avg_copies: 4.0
   neoform-combo:
-    weight: 0.2264
+    weight: 0.2222
     avg_copies: 1.5
   hollow-one:
     weight: 0.5312
@@ -33,7 +33,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   eldrazi-ramp:
-    weight: 0.7889
+    weight: 0.7826
     avg_copies: 1.04
   simic-ritual:
     weight: 0.8551
@@ -42,7 +42,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.83
   broodscale-combo:
-    weight: 0.2897
+    weight: 0.2857
     avg_copies: 1.02
   elves:
     weight: 1.0
@@ -90,8 +90,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-45:
-    weight: 0.7059
-    avg_copies: 3.75
+    weight: 0.7368
+    avg_copies: 3.79
   unknown-46:
     weight: 1.0
     avg_copies: 3.0
@@ -120,7 +120,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-97:
-    weight: 1.0
+    weight: 0.8
     avg_copies: 2.0
   unknown-102:
     weight: 1.0

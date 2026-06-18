@@ -7,7 +7,7 @@ name: Force of Despair
 scryfall_id: 8f497b0d-4448-4201-bd55-c147da1a216d
 set: mh1
 type: Instant
-meta_presence: 0.038
+meta_presence: 0.0381
 archetypes:
   dimir-control:
     weight: 0.0123
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.2174
     avg_copies: 2.0
   esper-blink:
-    weight: 0.0758
+    weight: 0.0882
     avg_copies: 2.0
   orzhov-blink:
     weight: 0.1111
@@ -52,8 +52,8 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   unknown-45:
-    weight: 0.8824
-    avg_copies: 1.73
+    weight: 0.8421
+    avg_copies: 1.69
   unknown-46:
     weight: 1.0
     avg_copies: 2.67

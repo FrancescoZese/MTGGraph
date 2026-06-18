@@ -18,14 +18,14 @@ archetypes:
     weight: 0.0086
     avg_copies: 1.0
   goryo:
-    weight: 0.0125
+    weight: 0.0122
     avg_copies: 1.0
   hardened-scales:
     weight: 0.5
     avg_copies: 1.0
   affinity:
     weight: 1.0
-    avg_copies: 3.11
+    avg_copies: 3.12
   domain-zoo:
     weight: 0.0114
     avg_copies: 1.0
@@ -36,10 +36,10 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.33
   eldrazi-ramp:
-    weight: 0.2556
+    weight: 0.25
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.3503
+    weight: 0.3535
     avg_copies: 1.69
   dredge:
     weight: 0.0556
@@ -78,7 +78,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.33
   unknown-97:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 1.0
   unknown-112:
     weight: 1.0
@@ -90,7 +90,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-122:
-    weight: 0.3333
+    weight: 0.2857
     avg_copies: 2.0
   unknown-146:
     weight: 1.0

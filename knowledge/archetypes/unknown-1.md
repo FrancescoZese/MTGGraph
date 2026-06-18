@@ -3,22 +3,22 @@ colors:
 - B
 - R
 name: 'Unknown #1'
-meta_share: 0.0016
+meta_share: 0.0015
 list_count: 6
 top_cards:
-- name: Bloodghast
-  weight: 1.0
-  avg_copies: 4.0
 - name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
 - name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
-- name: Flare of Malice
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Bloodghast
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flare of Malice
   weight: 1.0
   avg_copies: 4.0
 - name: Persist
@@ -27,37 +27,37 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 3.33
-- name: Blood Crypt
+- name: Rakdos Charm
   weight: 1.0
   avg_copies: 3.0
-- name: Rakdos Charm
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 3.0
 - name: Obsidian Charmaw
   weight: 1.0
   avg_copies: 2.67
-- name: Spymaster's Vault
-  weight: 1.0
-  avg_copies: 2.0
-- name: Brotherhood's End
-  weight: 1.0
-  avg_copies: 2.0
-- name: Extract the Truth
-  weight: 1.0
-  avg_copies: 2.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 2.0
 - name: Village Rites
   weight: 1.0
   avg_copies: 2.0
-- name: Swamp
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 2.0
+- name: Extract the Truth
   weight: 1.0
   avg_copies: 2.0
 - name: Mountain
   weight: 1.0
   avg_copies: 2.0
-- name: Fatal Push
+- name: Swamp
+  weight: 1.0
+  avg_copies: 2.0
+- name: Spymaster's Vault
+  weight: 1.0
+  avg_copies: 2.0
+- name: Brotherhood's End
   weight: 1.0
   avg_copies: 2.0
 - name: Corrupted Conviction
@@ -99,13 +99,13 @@ top_cards:
 - name: Dragon's Rage Channeler
   weight: 0.3333
   avg_copies: 3.5
-- name: Unholy Heat
-  weight: 0.3333
-  avg_copies: 2.0
 - name: Flashback
   weight: 0.3333
   avg_copies: 2.0
 - name: Blood Moon
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Unholy Heat
   weight: 0.3333
   avg_copies: 2.0
 - name: Unearth

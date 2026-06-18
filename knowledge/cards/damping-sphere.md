@@ -6,10 +6,10 @@ name: Damping Sphere
 scryfall_id: 550860b4-887d-423a-8add-816c2a8da615
 set: dmr
 type: Artifact
-meta_presence: 0.2913
+meta_presence: 0.2912
 archetypes:
   boros-energy:
-    weight: 0.2914
+    weight: 0.2903
     avg_copies: 1.43
   dimir-control:
     weight: 0.1728
@@ -21,7 +21,7 @@ archetypes:
     weight: 0.012
     avg_copies: 1.0
   goryo:
-    weight: 0.1437
+    weight: 0.1402
     avg_copies: 1.7
   hardened-scales:
     weight: 1.0
@@ -36,8 +36,8 @@ archetypes:
     weight: 0.2333
     avg_copies: 1.71
   affinity:
-    weight: 0.942
-    avg_copies: 2.34
+    weight: 0.943
+    avg_copies: 2.32
   domain-zoo:
     weight: 0.7955
     avg_copies: 1.66
@@ -63,10 +63,10 @@ archetypes:
     weight: 0.0175
     avg_copies: 1.5
   yawgmoth-combo:
-    weight: 0.1754
-    avg_copies: 1.1
+    weight: 0.1897
+    avg_copies: 1.09
   eldrazi-ramp:
-    weight: 0.0333
+    weight: 0.0326
     avg_copies: 1.0
   simic-ritual:
     weight: 0.1449
@@ -75,14 +75,14 @@ archetypes:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.5606
+    weight: 0.5441
     avg_copies: 2.46
   samwise-combo:
     weight: 0.0417
     avg_copies: 1.5
   broodscale-combo:
-    weight: 0.4483
-    avg_copies: 1.75
+    weight: 0.449
+    avg_copies: 1.76
   orzhov-blink:
     weight: 0.6667
     avg_copies: 2.17
@@ -129,8 +129,8 @@ archetypes:
     weight: 0.8352
     avg_copies: 1.88
   goryo4:
-    weight: 0.6667
-    avg_copies: 2.67
+    weight: 0.7
+    avg_copies: 2.71
   goryo5:
     weight: 0.4444
     avg_copies: 2.25
@@ -195,10 +195,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.67
   unknown-62:
-    weight: 0.0526
+    weight: 0.05
     avg_copies: 2.0
   unknown-68:
-    weight: 0.1538
+    weight: 0.1481
     avg_copies: 1.75
   unknown-72:
     weight: 1.0
@@ -223,6 +223,9 @@ archetypes:
     avg_copies: 2.0
   unknown-90:
     weight: 1.0
+    avg_copies: 2.0
+  unknown-97:
+    weight: 0.2
     avg_copies: 2.0
   unknown-98:
     weight: 1.0
@@ -252,7 +255,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-126:
-    weight: 0.8
+    weight: 0.8333
     avg_copies: 1.0
   unknown-130:
     weight: 1.0

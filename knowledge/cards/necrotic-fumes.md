@@ -7,12 +7,12 @@ name: Necrotic Fumes
 scryfall_id: 5e1b68a4-fb8d-4b59-b049-73505296f775
 set: stx
 type: Sorcery — Lesson
-meta_presence: 0.0036
+meta_presence: 0.0039
 archetypes:
   reanimator:
     weight: 0.037
     avg_copies: 1.0
   unknown-45:
-    weight: 0.7647
+    weight: 0.7368
     avg_copies: 1.0
 ---

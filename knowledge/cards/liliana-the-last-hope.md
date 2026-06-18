@@ -10,7 +10,7 @@ type: Legendary Planeswalker — Liliana
 meta_presence: 0.0005
 archetypes:
   unknown-45:
-    weight: 0.0588
+    weight: 0.0526
     avg_copies: 1.0
   unknown-137:
     weight: 1.0

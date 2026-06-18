@@ -6,22 +6,22 @@ name: 'Unknown #88'
 meta_share: 0.0018
 list_count: 7
 top_cards:
-- name: Birthing Ritual
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flagstones of Trokair
-  weight: 1.0
-  avg_copies: 4.0
 - name: Windswept Heath
   weight: 1.0
   avg_copies: 4.0
 - name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Flagstones of Trokair
+  weight: 1.0
+  avg_copies: 4.0
+- name: Birthing Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
+  weight: 1.0
+  avg_copies: 4.0
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Ranger-Captain of Eos
@@ -42,10 +42,10 @@ top_cards:
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 2.57
-- name: Plains
+- name: Ephemerate
   weight: 1.0
   avg_copies: 2.43
-- name: Ephemerate
+- name: Plains
   weight: 1.0
   avg_copies: 2.43
 - name: Skyclave Apparition
@@ -72,10 +72,10 @@ top_cards:
 - name: Boromir, Warden of the Tower
   weight: 0.8571
   avg_copies: 1.83
-- name: Starfield Shepherd
+- name: Endurance
   weight: 0.8571
   avg_copies: 1.33
-- name: Endurance
+- name: Starfield Shepherd
   weight: 0.8571
   avg_copies: 1.33
 - name: Gaddock Teeg
@@ -114,7 +114,13 @@ top_cards:
 - name: Consign to Memory
   weight: 0.1429
   avg_copies: 3.0
+- name: Quantum Riddler
+  weight: 0.1429
+  avg_copies: 2.0
 - name: Test of Talents
+  weight: 0.1429
+  avg_copies: 2.0
+- name: Veil of Summer
   weight: 0.1429
   avg_copies: 2.0
 - name: Orim's Chant
@@ -123,16 +129,10 @@ top_cards:
 - name: Hurkyl's Recall
   weight: 0.1429
   avg_copies: 2.0
-- name: Quantum Riddler
-  weight: 0.1429
-  avg_copies: 2.0
-- name: Veil of Summer
-  weight: 0.1429
-  avg_copies: 2.0
-- name: Meticulous Archive
+- name: Haywire Mite
   weight: 0.1429
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Meticulous Archive
   weight: 0.1429
   avg_copies: 1.0
 - name: Hallowed Fountain

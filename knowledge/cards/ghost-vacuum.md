@@ -6,10 +6,10 @@ name: Ghost Vacuum
 scryfall_id: 8ac39c01-127f-4471-bc74-11a90c48e306
 set: dsk
 type: Artifact
-meta_presence: 0.0195
+meta_presence: 0.0196
 archetypes:
   boros-energy:
-    weight: 0.0248
+    weight: 0.0247
     avg_copies: 1.0
   dimir-control:
     weight: 0.358
@@ -18,7 +18,7 @@ archetypes:
     weight: 0.0233
     avg_copies: 1.33
   goryo:
-    weight: 0.0125
+    weight: 0.0122
     avg_copies: 1.0
   jeskai-control:
     weight: 0.0333
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.0351
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0069
+    weight: 0.0068
     avg_copies: 1.0
   izzet-wizards:
     weight: 0.3
@@ -54,7 +54,7 @@ archetypes:
     weight: 0.1538
     avg_copies: 1.33
   unknown-68:
-    weight: 0.0385
+    weight: 0.0741
     avg_copies: 1.0
   unknown-111:
     weight: 0.3333

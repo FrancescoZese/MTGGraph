@@ -3,16 +3,16 @@ colors:
 - U
 - B
 name: Mill
-meta_share: 0.0065
+meta_share: 0.0064
 list_count: 25
 top_cards:
-- name: Hedron Crab
-  weight: 1.0
-  avg_copies: 4.0
 - name: Ruin Crab
   weight: 1.0
   avg_copies: 4.0
 - name: Archive Trap
+  weight: 1.0
+  avg_copies: 4.0
+- name: Hedron Crab
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -105,10 +105,10 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.36
   avg_copies: 1.22
-- name: Baleful Mastery
+- name: Feed the Cycle
   weight: 0.36
   avg_copies: 1.0
-- name: Feed the Cycle
+- name: Baleful Mastery
   weight: 0.36
   avg_copies: 1.0
 - name: Snow-Covered Island
@@ -123,13 +123,13 @@ top_cards:
 - name: Snow-Covered Swamp
   weight: 0.28
   avg_copies: 1.29
+- name: Cephalid Coliseum
+  weight: 0.28
+  avg_copies: 1.0
 - name: Echoing Truth
   weight: 0.28
   avg_copies: 1.0
 - name: Murderous Cut
-  weight: 0.28
-  avg_copies: 1.0
-- name: Cephalid Coliseum
   weight: 0.28
   avg_copies: 1.0
 - name: Damnation
@@ -165,82 +165,82 @@ top_cards:
 - name: Chalice of the Void
   weight: 0.08
   avg_copies: 3.0
-- name: Kitsune's Technique
+- name: Tamiyo, Inquisitive Student
   weight: 0.08
   avg_copies: 2.0
-- name: Tamiyo, Inquisitive Student
+- name: Kitsune's Technique
   weight: 0.08
   avg_copies: 2.0
 - name: Amulet of Safekeeping
   weight: 0.08
   avg_copies: 2.0
-- name: Force of Negation
+- name: Damping Sphere
   weight: 0.08
   avg_copies: 1.5
-- name: Damping Sphere
+- name: Force of Negation
   weight: 0.08
   avg_copies: 1.5
 - name: Illness in the Ranks
   weight: 0.08
   avg_copies: 1.0
-- name: Path to Exile
-  weight: 0.04
-  avg_copies: 4.0
 - name: White Orchid Phantom
   weight: 0.04
   avg_copies: 4.0
-- name: Trapmaker's Snare
+- name: Path to Exile
   weight: 0.04
   avg_copies: 4.0
 - name: Erode
   weight: 0.04
   avg_copies: 4.0
-- name: Hurkyl's Recall
+- name: Trapmaker's Snare
   weight: 0.04
-  avg_copies: 2.0
-- name: Vendetta
-  weight: 0.04
-  avg_copies: 2.0
+  avg_copies: 4.0
 - name: Flare of Denial
-  weight: 0.04
-  avg_copies: 2.0
-- name: Spell Snare
   weight: 0.04
   avg_copies: 2.0
 - name: Meltdown
   weight: 0.04
   avg_copies: 2.0
-- name: Mindbreak Trap
+- name: Vendetta
   weight: 0.04
-  avg_copies: 1.0
-- name: Bloodchief's Thirst
+  avg_copies: 2.0
+- name: Spell Snare
   weight: 0.04
-  avg_copies: 1.0
-- name: Steam Vents
+  avg_copies: 2.0
+- name: Hurkyl's Recall
   weight: 0.04
-  avg_copies: 1.0
-- name: Prismatic Vista
-  weight: 0.04
-  avg_copies: 1.0
-- name: Subtlety
-  weight: 0.04
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Meticulous Archive
-  weight: 0.04
-  avg_copies: 1.0
-- name: Darkslick Shores
-  weight: 0.04
-  avg_copies: 1.0
-- name: Requiting Hex
-  weight: 0.04
-  avg_copies: 1.0
-- name: Ravenous Trap
   weight: 0.04
   avg_copies: 1.0
 - name: Plains
   weight: 0.04
   avg_copies: 1.0
+- name: Mindbreak Trap
+  weight: 0.04
+  avg_copies: 1.0
+- name: Darkslick Shores
+  weight: 0.04
+  avg_copies: 1.0
+- name: Prismatic Vista
+  weight: 0.04
+  avg_copies: 1.0
+- name: Steam Vents
+  weight: 0.04
+  avg_copies: 1.0
+- name: Bloodchief's Thirst
+  weight: 0.04
+  avg_copies: 1.0
 - name: Hallowed Fountain
+  weight: 0.04
+  avg_copies: 1.0
+- name: Subtlety
+  weight: 0.04
+  avg_copies: 1.0
+- name: Ravenous Trap
+  weight: 0.04
+  avg_copies: 1.0
+- name: Requiting Hex
   weight: 0.04
   avg_copies: 1.0
 ---

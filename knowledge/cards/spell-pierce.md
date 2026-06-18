@@ -16,16 +16,16 @@ archetypes:
     weight: 0.2121
     avg_copies: 1.0
   affinity:
-    weight: 0.0029
+    weight: 0.0028
     avg_copies: 1.0
   reanimator:
     weight: 0.7037
     avg_copies: 1.84
   izzet-prowess:
-    weight: 0.802
+    weight: 0.803
     avg_copies: 1.6
   esper-blink:
-    weight: 0.0152
+    weight: 0.0147
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.25
@@ -34,7 +34,7 @@ archetypes:
     weight: 0.1111
     avg_copies: 1.5
   azorius-blink:
-    weight: 0.075
+    weight: 0.0732
     avg_copies: 1.5
   izzet-artifacts:
     weight: 0.0312
@@ -73,8 +73,8 @@ archetypes:
     weight: 0.0513
     avg_copies: 1.0
   unknown-62:
-    weight: 0.6316
-    avg_copies: 1.69
+    weight: 0.65
+    avg_copies: 1.64
   unknown-73:
     weight: 1.0
     avg_copies: 1.0

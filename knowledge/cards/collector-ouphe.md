@@ -13,7 +13,7 @@ archetypes:
     weight: 0.4741
     avg_copies: 1.0
   goryo:
-    weight: 0.0063
+    weight: 0.0061
     avg_copies: 2.0
   living-end:
     weight: 0.0185
@@ -22,10 +22,10 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.0175
+    weight: 0.0172
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0111
+    weight: 0.0109
     avg_copies: 1.0
   simic-ritual:
     weight: 0.6232

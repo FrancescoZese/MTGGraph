@@ -10,6 +10,6 @@ type: Creature — Elf Shaman
 meta_presence: 0.0008
 archetypes:
   yawgmoth-combo:
-    weight: 0.0526
+    weight: 0.0517
     avg_copies: 1.0
 ---

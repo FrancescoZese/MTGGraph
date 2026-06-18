@@ -4,7 +4,7 @@ colors:
 - B
 - R
 name: Mardu Blink
-meta_share: 0.006
+meta_share: 0.0059
 list_count: 23
 top_cards:
 - name: Overlord of the Balemurk
@@ -136,19 +136,19 @@ top_cards:
 - name: Containment Priest
   weight: 0.1739
   avg_copies: 1.0
-- name: Snow-Covered Swamp
+- name: Swamp
   weight: 0.1739
   avg_copies: 1.0
-- name: Swamp
+- name: Snow-Covered Swamp
   weight: 0.1739
   avg_copies: 1.0
 - name: Clarion Conqueror
   weight: 0.1304
   avg_copies: 2.0
-- name: March of Otherworldly Light
+- name: Nihil Spellbomb
   weight: 0.1304
   avg_copies: 1.67
-- name: Nihil Spellbomb
+- name: March of Otherworldly Light
   weight: 0.1304
   avg_copies: 1.67
 - name: Ashiok, Dream Render
@@ -160,25 +160,25 @@ top_cards:
 - name: Unholy Heat
   weight: 0.0435
   avg_copies: 3.0
-- name: The Legend of Roku
-  weight: 0.0435
-  avg_copies: 2.0
 - name: Seasoned Pyromancer
-  weight: 0.0435
-  avg_copies: 2.0
-- name: Graveyard Trespasser
   weight: 0.0435
   avg_copies: 2.0
 - name: Magus of the Moon
   weight: 0.0435
   avg_copies: 2.0
-- name: Emptiness
+- name: Graveyard Trespasser
   weight: 0.0435
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: The Legend of Roku
+  weight: 0.0435
+  avg_copies: 2.0
 - name: Pest Control
   weight: 0.0435
   avg_copies: 1.0
 - name: Faerie Macabre
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Emptiness
   weight: 0.0435
   avg_copies: 1.0
 ---

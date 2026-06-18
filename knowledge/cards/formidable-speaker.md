@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0086
     avg_copies: 1.0
   goryo:
-    weight: 0.0125
+    weight: 0.0122
     avg_copies: 4.0
   living-end:
     weight: 0.7222
@@ -22,7 +22,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.05
   eldrazi-ramp:
-    weight: 0.2222
+    weight: 0.2174
     avg_copies: 2.55
   4c-omnath:
     weight: 0.25
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.0208
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0069
+    weight: 0.0068
     avg_copies: 3.0
   elves:
     weight: 1.0

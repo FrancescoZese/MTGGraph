@@ -6,10 +6,13 @@ name: 'Unknown #132'
 meta_share: 0.0003
 list_count: 1
 top_cards:
-- name: Vexing Bauble
+- name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Bloodstained Mire
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
@@ -18,36 +21,36 @@ top_cards:
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodstained Mire
-  weight: 1.0
-  avg_copies: 4.0
-- name: Street Wraith
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Moonshadow
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
 - name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
-- name: Orcish Bowmasters
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Nethergoyf
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
+- name: Street Wraith
+  weight: 1.0
+  avg_copies: 4.0
+- name: Orcish Bowmasters
+  weight: 1.0
+  avg_copies: 4.0
+- name: Watery Grave
+  weight: 1.0
+  avg_copies: 3.0
 - name: End of the Hunt
   weight: 1.0
   avg_copies: 3.0
@@ -55,9 +58,6 @@ top_cards:
   weight: 1.0
   avg_copies: 3.0
 - name: Swamp
-  weight: 1.0
-  avg_copies: 3.0
-- name: Watery Grave
   weight: 1.0
   avg_copies: 3.0
 - name: Cling to Dust
@@ -69,10 +69,10 @@ top_cards:
 - name: Ghost Vacuum
   weight: 1.0
   avg_copies: 1.0
-- name: Dress Down
+- name: Nihil Spellbomb
   weight: 1.0
   avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Dress Down
   weight: 1.0
   avg_copies: 1.0
 ---

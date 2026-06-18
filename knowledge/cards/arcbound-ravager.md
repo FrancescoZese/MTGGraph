@@ -6,15 +6,15 @@ name: Arcbound Ravager
 scryfall_id: c0c33a92-5621-40b4-a3a2-b67893edbc01
 set: mma
 type: Artifact Creature — Beast
-meta_presence: 0.0791
+meta_presence: 0.0799
 archetypes:
   goryo:
-    weight: 0.0063
+    weight: 0.0061
     avg_copies: 1.0
   hardened-scales:
     weight: 1.0
     avg_copies: 4.0
   affinity:
-    weight: 0.8667
+    weight: 0.8689
     avg_copies: 1.7
 ---

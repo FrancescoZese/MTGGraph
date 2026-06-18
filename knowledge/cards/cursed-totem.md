@@ -12,13 +12,13 @@ archetypes:
     weight: 0.018
     avg_copies: 1.0
   affinity:
-    weight: 0.0029
+    weight: 0.0028
     avg_copies: 2.0
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 1.5
   goryo4:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 2.0
   unknown-41:
     weight: 0.6667

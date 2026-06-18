@@ -7,7 +7,7 @@ name: Orcish Bowmasters
 scryfall_id: 7c024bae-5631-4e20-ac69-df392ac9e109
 set: ltr
 type: Creature — Orc Archer
-meta_presence: 0.1143
+meta_presence: 0.1142
 archetypes:
   dimir-control:
     weight: 0.963
@@ -28,13 +28,13 @@ archetypes:
     weight: 0.6562
     avg_copies: 3.33
   yawgmoth-combo:
-    weight: 0.6667
-    avg_copies: 1.77
+    weight: 0.6724
+    avg_copies: 1.75
   simic-ritual:
     weight: 0.0725
     avg_copies: 3.2
   esper-blink:
-    weight: 0.3939
+    weight: 0.3971
     avg_copies: 2.1
   samwise-combo:
     weight: 0.7292
@@ -94,8 +94,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-45:
-    weight: 1.0
-    avg_copies: 2.37
+    weight: 0.9474
+    avg_copies: 2.3
   unknown-46:
     weight: 1.0
     avg_copies: 3.25
@@ -115,8 +115,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-68:
-    weight: 0.9615
-    avg_copies: 2.08
+    weight: 0.963
+    avg_copies: 2.15
   unknown-69:
     weight: 1.0
     avg_copies: 4.0

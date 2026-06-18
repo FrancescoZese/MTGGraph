@@ -6,17 +6,20 @@ name: Kozilek's Return
 scryfall_id: 72765559-0a78-4aa3-827e-cb4612720991
 set: ogw
 type: Instant
-meta_presence: 0.0239
+meta_presence: 0.0245
 archetypes:
   eldrazi-ramp:
-    weight: 0.9556
-    avg_copies: 2.12
+    weight: 0.9565
+    avg_copies: 2.1
   eldrazi-breach:
     weight: 0.75
     avg_copies: 1.67
   grixis-control:
     weight: 0.5
     avg_copies: 1.0
+  unknown-97:
+    weight: 0.2
+    avg_copies: 3.0
   unknown-128:
     weight: 1.0
     avg_copies: 3.0

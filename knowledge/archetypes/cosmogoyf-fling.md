@@ -133,9 +133,6 @@ top_cards:
 - name: Duress
   weight: 0.0417
   avg_copies: 2.0
-- name: Kaheera, the Orphanguard
-  weight: 0.0417
-  avg_copies: 1.0
 - name: Disruptor Flute
   weight: 0.0417
   avg_copies: 1.0
@@ -143,6 +140,9 @@ top_cards:
   weight: 0.0417
   avg_copies: 1.0
 - name: Mountain
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Kaheera, the Orphanguard
   weight: 0.0417
   avg_copies: 1.0
 ---

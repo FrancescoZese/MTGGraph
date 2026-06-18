@@ -8,25 +8,25 @@ name: Kethis Combo
 meta_share: 0.0013
 list_count: 5
 top_cards:
+- name: Mox Amber
+  weight: 1.0
+  avg_copies: 4.0
+- name: Tamiyo, Inquisitive Student
+  weight: 1.0
+  avg_copies: 4.0
 - name: Emry, Lurker of the Loch
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mox Opal
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Kethis, the Hidden Hand
   weight: 1.0
   avg_copies: 4.0
-- name: Mox Amber
+- name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
 - name: Plaza of Heroes
   weight: 1.0
   avg_copies: 4.0
-- name: Tamiyo, Inquisitive Student
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Misty Rainforest
@@ -41,43 +41,49 @@ top_cards:
 - name: Malevolent Rumble
   weight: 1.0
   avg_copies: 2.8
-- name: Into the Flood Maw
+- name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 2.0
-- name: Agatha's Soul Cauldron
+- name: Into the Flood Maw
   weight: 1.0
   avg_copies: 2.0
 - name: Dismember
   weight: 1.0
   avg_copies: 2.0
-- name: Jace, the Perfected Mind
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 1.6
-- name: Flooded Strand
+- name: Jace, the Perfected Mind
   weight: 1.0
   avg_copies: 1.6
 - name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 1.5
-- name: Temple Garden
+- name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
-- name: Otawara, Soaring City
-  weight: 1.0
-  avg_copies: 1.0
-- name: Gran-Gran
-  weight: 1.0
-  avg_copies: 1.0
-- name: Gemstone Caverns
-  weight: 1.0
-  avg_copies: 1.0
-- name: Lush Portico
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
 - name: Sewer-veillance Cam
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Gran-Gran
+  weight: 1.0
+  avg_copies: 1.0
+- name: Breeding Pool
+  weight: 1.0
+  avg_copies: 1.0
+- name: Lush Portico
+  weight: 1.0
+  avg_copies: 1.0
+- name: Vexing Bauble
+  weight: 1.0
+  avg_copies: 1.0
+- name: Otawara, Soaring City
+  weight: 1.0
+  avg_copies: 1.0
+- name: Gemstone Caverns
   weight: 1.0
   avg_copies: 1.0
 - name: Boseiju, Who Endures
@@ -86,16 +92,10 @@ top_cards:
 - name: Skateboard
   weight: 1.0
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
-- name: Vexing Bauble
-  weight: 1.0
-  avg_copies: 1.0
-- name: Breeding Pool
-  weight: 1.0
-  avg_copies: 1.0
-- name: Watery Grave
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Consign to Memory
@@ -116,13 +116,13 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 0.2
   avg_copies: 1.0
-- name: Urza's Ruinous Blast
-  weight: 0.2
-  avg_copies: 1.0
 - name: Phelia, Exuberant Shepherd
   weight: 0.2
   avg_copies: 1.0
 - name: Dredger's Insight
+  weight: 0.2
+  avg_copies: 1.0
+- name: Urza's Ruinous Blast
   weight: 0.2
   avg_copies: 1.0
 - name: Lluwen, Imperfect Naturalist

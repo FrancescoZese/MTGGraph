@@ -5,22 +5,22 @@ name: 'Unknown #98'
 meta_share: 0.001
 list_count: 4
 top_cards:
+- name: Darksteel Citadel
+  weight: 1.0
+  avg_copies: 4.0
+- name: Experimental Synthesizer
+  weight: 1.0
+  avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
-- name: Darksteel Citadel
+- name: Galvanic Blast
   weight: 1.0
   avg_copies: 4.0
 - name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Shrapnel Blast
-  weight: 1.0
-  avg_copies: 4.0
-- name: Galvanic Blast
-  weight: 1.0
-  avg_copies: 4.0
-- name: Experimental Synthesizer
   weight: 1.0
   avg_copies: 4.0
 - name: Mountain
@@ -38,10 +38,10 @@ top_cards:
 - name: Mox Opal
   weight: 1.0
   avg_copies: 2.5
-- name: Ragavan, Nimble Pilferer
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 2.5
-- name: Mishra's Bauble
+- name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 2.5
 - name: Surgical Extraction
@@ -53,19 +53,19 @@ top_cards:
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 1.0
-  avg_copies: 1.0
 - name: Soul-Guide Lantern
-  weight: 1.0
-  avg_copies: 1.0
-- name: Sokenzan, Crucible of Defiance
   weight: 1.0
   avg_copies: 1.0
 - name: Shinka, the Bloodsoaked Keep
   weight: 1.0
   avg_copies: 1.0
 - name: Grafdigger's Cage
+  weight: 1.0
+  avg_copies: 1.0
+- name: Vexing Bauble
+  weight: 1.0
+  avg_copies: 1.0
+- name: Sokenzan, Crucible of Defiance
   weight: 1.0
   avg_copies: 1.0
 - name: Whipflare
@@ -86,10 +86,10 @@ top_cards:
 - name: Legion Extruder
   weight: 0.5
   avg_copies: 4.0
-- name: Dragon's Rage Channeler
+- name: Obsidian Charmaw
   weight: 0.25
   avg_copies: 4.0
-- name: Obsidian Charmaw
+- name: Dragon's Rage Channeler
   weight: 0.25
   avg_copies: 4.0
 - name: Unstable Amulet

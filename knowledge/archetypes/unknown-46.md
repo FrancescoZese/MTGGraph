@@ -9,16 +9,16 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 4.25
-- name: Soul Spike
+- name: Boggart Trawler
   weight: 1.0
   avg_copies: 4.0
 - name: Necrodominance
   weight: 1.0
   avg_copies: 4.0
-- name: Boggart Trawler
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Soul Spike
   weight: 1.0
   avg_copies: 4.0
 - name: Witherbloom Charm
@@ -30,43 +30,43 @@ top_cards:
 - name: Verdant Catacombs
   weight: 1.0
   avg_copies: 3.0
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 2.67
 - name: Force of Despair
   weight: 1.0
   avg_copies: 2.67
+- name: Thoughtseize
+  weight: 1.0
+  avg_copies: 2.67
+- name: Dauthi Voidwalker
+  weight: 1.0
+  avg_copies: 2.25
 - name: Break the Ice
   weight: 1.0
   avg_copies: 2.25
 - name: Culling Ritual
   weight: 1.0
   avg_copies: 2.25
-- name: Dauthi Voidwalker
-  weight: 1.0
-  avg_copies: 2.25
-- name: Castle Locthwain
+- name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 2.0
 - name: Underground Mortuary
   weight: 1.0
   avg_copies: 2.0
-- name: Overgrown Tomb
+- name: Castle Locthwain
   weight: 1.0
   avg_copies: 2.0
 - name: March of Wretched Sorrow
   weight: 1.0
   avg_copies: 2.0
-- name: Ashiok, Dream Render
-  weight: 1.0
-  avg_copies: 2.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 2.0
-- name: Professor Dellian Fel
+- name: Overgrown Tomb
+  weight: 1.0
+  avg_copies: 2.0
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.5
-- name: Bloodstained Mire
+- name: Professor Dellian Fel
   weight: 1.0
   avg_copies: 1.5
 - name: Sorin of House Markov

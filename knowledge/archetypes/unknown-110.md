@@ -7,37 +7,37 @@ name: 'Unknown #110'
 meta_share: 0.0003
 list_count: 1
 top_cards:
-- name: Guide of Souls
-  weight: 1.0
-  avg_copies: 4.0
-- name: Aether Vial
-  weight: 1.0
-  avg_copies: 4.0
-- name: Solitude
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ajani, Nacatl Pariah
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thoughtseize
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Imperial Recruiter
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Arid Mesa
+- name: Thoughtseize
   weight: 1.0
-  avg_copies: 3.0
-- name: Emperor of Bones
+  avg_copies: 4.0
+- name: Aether Vial
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ajani, Nacatl Pariah
+  weight: 1.0
+  avg_copies: 4.0
+- name: Solitude
+  weight: 1.0
+  avg_copies: 4.0
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 3.0
 - name: Seasoned Pyromancer
   weight: 1.0
   avg_copies: 3.0
-- name: Bloodstained Mire
+- name: Emperor of Bones
+  weight: 1.0
+  avg_copies: 3.0
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 3.0
 - name: Marsh Flats
@@ -46,10 +46,13 @@ top_cards:
 - name: Chthonian Nightmare
   weight: 1.0
   avg_copies: 3.0
-- name: Fulminator Mage
+- name: Wear
   weight: 1.0
   avg_copies: 2.0
-- name: Phyrexian Tower
+- name: Godless Shrine
+  weight: 1.0
+  avg_copies: 2.0
+- name: Fulminator Mage
   weight: 1.0
   avg_copies: 2.0
 - name: Blood Crypt
@@ -58,25 +61,25 @@ top_cards:
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 2.0
-- name: Godless Shrine
-  weight: 1.0
-  avg_copies: 2.0
-- name: Wear
+- name: Phyrexian Tower
   weight: 1.0
   avg_copies: 2.0
 - name: Magus of the Moon
   weight: 1.0
   avg_copies: 1.5
-- name: Kataki, War's Wage
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
-- name: Phyrexian Revoker
+- name: Plague Engineer
+  weight: 1.0
+  avg_copies: 1.0
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
-- name: Plains
+- name: Drannith Magistrate
   weight: 1.0
   avg_copies: 1.0
 - name: Accursed Marauder
@@ -85,22 +88,19 @@ top_cards:
 - name: Soulless Jailer
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 1.0
-- name: Mountain
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
-- name: Orcish Bowmasters
+- name: Kataki, War's Wage
   weight: 1.0
   avg_copies: 1.0
-- name: Plague Engineer
-  weight: 1.0
-  avg_copies: 1.0
-- name: Drannith Magistrate
+- name: Phyrexian Revoker
   weight: 1.0
   avg_copies: 1.0
 ---
