@@ -3,7 +3,7 @@ colors:
 - R
 - G
 name: Broodscale Combo
-meta_share: 0.0379
+meta_share: 0.0377
 list_count: 147
 top_cards:
 - name: Basking Broodscale
@@ -12,10 +12,10 @@ top_cards:
 - name: Malevolent Rumble
   weight: 1.0
   avg_copies: 3.98
-- name: Glaring Fleshraker
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 3.96
-- name: Kozilek's Command
+- name: Glaring Fleshraker
   weight: 1.0
   avg_copies: 3.96
 - name: Urza's Saga
@@ -201,16 +201,16 @@ top_cards:
 - name: Revitalizing Repast
   weight: 0.0136
   avg_copies: 2.5
-- name: Agatha's Soul Cauldron
-  weight: 0.0136
-  avg_copies: 2.0
 - name: Snow-Covered Forest
   weight: 0.0136
   avg_copies: 2.0
-- name: Blasphemous Act
+- name: Agatha's Soul Cauldron
+  weight: 0.0136
+  avg_copies: 2.0
+- name: Talisman of Resilience
   weight: 0.0136
   avg_copies: 1.5
-- name: Talisman of Resilience
+- name: Blasphemous Act
   weight: 0.0136
   avg_copies: 1.5
 - name: Nurturing Peatland
@@ -222,40 +222,34 @@ top_cards:
 - name: Skateboard
   weight: 0.0136
   avg_copies: 1.0
-- name: Brushland
+- name: Eldrazi Linebreaker
   weight: 0.0068
   avg_copies: 4.0
-- name: Eldrazi Linebreaker
+- name: Brushland
   weight: 0.0068
   avg_copies: 4.0
 - name: Spire of Industry
   weight: 0.0068
   avg_copies: 4.0
-- name: Darksteel Citadel
-  weight: 0.0068
-  avg_copies: 3.0
-- name: Path to Exile
-  weight: 0.0068
-  avg_copies: 3.0
 - name: Mox Opal
-  weight: 0.0068
-  avg_copies: 3.0
-- name: Drowner of Truth
   weight: 0.0068
   avg_copies: 3.0
 - name: Formidable Speaker
   weight: 0.0068
   avg_copies: 3.0
-- name: Talisman of Impulse
+- name: Path to Exile
   weight: 0.0068
-  avg_copies: 2.0
-- name: Idol of False Gods
+  avg_copies: 3.0
+- name: Darksteel Citadel
   weight: 0.0068
-  avg_copies: 2.0
-- name: Orim's Chant
+  avg_copies: 3.0
+- name: Drowner of Truth
   weight: 0.0068
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Heroic Intervention
+  weight: 0.0068
+  avg_copies: 2.0
+- name: Talisman of Impulse
   weight: 0.0068
   avg_copies: 2.0
 - name: Snakeskin Veil
@@ -264,16 +258,19 @@ top_cards:
 - name: Deafening Silence
   weight: 0.0068
   avg_copies: 2.0
-- name: Disruptor Flute
+- name: Idol of False Gods
   weight: 0.0068
-  avg_copies: 1.0
-- name: Expedition Map
+  avg_copies: 2.0
+- name: Orim's Chant
+  weight: 0.0068
+  avg_copies: 2.0
+- name: Tunnel Ignus
   weight: 0.0068
   avg_copies: 1.0
 - name: Lightning Bolt
   weight: 0.0068
   avg_copies: 1.0
-- name: Tunnel Ignus
+- name: Disruptor Flute
   weight: 0.0068
   avg_copies: 1.0
 - name: Pawpatch Formation
@@ -283,6 +280,9 @@ top_cards:
   weight: 0.0068
   avg_copies: 1.0
 - name: Yavimaya, Cradle of Growth
+  weight: 0.0068
+  avg_copies: 1.0
+- name: Expedition Map
   weight: 0.0068
   avg_copies: 1.0
 ---

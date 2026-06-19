@@ -6,16 +6,19 @@ name: 'Unknown #86'
 meta_share: 0.0008
 list_count: 3
 top_cards:
-- name: Boltwave
-  weight: 1.0
-  avg_copies: 4.0
 - name: Lava Spike
   weight: 1.0
   avg_copies: 4.0
-- name: Barbarian Ring
+- name: Monastery Swiftspear
   weight: 1.0
   avg_copies: 4.0
-- name: Lightning Bolt
+- name: Boltwave
+  weight: 1.0
+  avg_copies: 4.0
+- name: Dragon's Rage Channeler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Barbarian Ring
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
@@ -27,16 +30,13 @@ top_cards:
 - name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
-- name: Monastery Swiftspear
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Dragon's Rage Channeler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Lava Dart
+- name: Mountain
   weight: 1.0
   avg_copies: 3.33
-- name: Mountain
+- name: Lava Dart
   weight: 1.0
   avg_copies: 3.33
 - name: Light Up the Stage
@@ -45,19 +45,19 @@ top_cards:
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.67
+- name: Sacred Foundry
+  weight: 1.0
+  avg_copies: 2.33
 - name: Wear
   weight: 1.0
   avg_copies: 2.33
 - name: Tormod's Crypt
   weight: 1.0
   avg_copies: 2.33
-- name: Sacred Foundry
-  weight: 1.0
-  avg_copies: 2.33
-- name: Deflecting Palm
+- name: Orim's Chant
   weight: 1.0
   avg_copies: 1.67
-- name: Orim's Chant
+- name: Deflecting Palm
   weight: 1.0
   avg_copies: 1.67
 - name: Elegant Parlor
@@ -84,16 +84,16 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 0.6667
   avg_copies: 1.0
-- name: Boros Charm
-  weight: 0.3333
-  avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.3333
   avg_copies: 2.0
-- name: Path to Exile
+- name: Boros Charm
   weight: 0.3333
   avg_copies: 2.0
 - name: Vexing Bauble
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Path to Exile
   weight: 0.3333
   avg_copies: 2.0
 ---

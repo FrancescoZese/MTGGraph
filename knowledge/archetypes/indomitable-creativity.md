@@ -69,7 +69,7 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.75
   avg_copies: 2.33
-- name: Xander's Lounge
+- name: Sacred Foundry
   weight: 0.75
   avg_copies: 1.0
 - name: Jetmir's Garden
@@ -78,7 +78,7 @@ top_cards:
 - name: Elegant Parlor
   weight: 0.75
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Xander's Lounge
   weight: 0.75
   avg_copies: 1.0
 - name: Reprieve
@@ -111,13 +111,13 @@ top_cards:
 - name: Veil of Summer
   weight: 0.4167
   avg_copies: 2.0
+- name: Boseiju, Who Endures
+  weight: 0.4167
+  avg_copies: 1.0
 - name: Elesh Norn, Grand Cenobite
   weight: 0.4167
   avg_copies: 1.0
 - name: Iona, Shield of Emeria
-  weight: 0.4167
-  avg_copies: 1.0
-- name: Boseiju, Who Endures
   weight: 0.4167
   avg_copies: 1.0
 - name: Valakut Awakening
@@ -129,19 +129,19 @@ top_cards:
 - name: Thoughtseize
   weight: 0.25
   avg_copies: 4.0
-- name: Persist
+- name: Faithless Looting
   weight: 0.25
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Persist
   weight: 0.25
   avg_copies: 4.0
 - name: Fatal Push
   weight: 0.25
   avg_copies: 3.33
-- name: Terastodon
+- name: Orim's Chant
   weight: 0.25
   avg_copies: 2.67
-- name: Orim's Chant
+- name: Terastodon
   weight: 0.25
   avg_copies: 2.67
 - name: Strix Serenade
@@ -162,6 +162,12 @@ top_cards:
 - name: Meltdown
   weight: 0.1667
   avg_copies: 1.5
+- name: Emrakul, the Aeons Torn
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Abrupt Decay
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Ketria Triome
   weight: 0.1667
   avg_copies: 1.0
@@ -169,12 +175,6 @@ top_cards:
   weight: 0.1667
   avg_copies: 1.0
 - name: Prismari Command
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Abrupt Decay
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Emrakul, the Aeons Torn
   weight: 0.1667
   avg_copies: 1.0
 - name: Nature's Claim
@@ -189,10 +189,16 @@ top_cards:
 - name: Inquisition of Kozilek
   weight: 0.0833
   avg_copies: 1.5
-- name: Turn the Earth
+- name: Rest in Peace
   weight: 0.0833
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Witherbloom Command
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Vampires' Vengeance
   weight: 0.0833
   avg_copies: 1.0
 - name: Swamp
@@ -201,19 +207,13 @@ top_cards:
 - name: Brainsurge
   weight: 0.0833
   avg_copies: 1.0
-- name: Vampires' Vengeance
+- name: Prismari Charm
   weight: 0.0833
   avg_copies: 1.0
 - name: Molten Collapse
   weight: 0.0833
   avg_copies: 1.0
-- name: Witherbloom Command
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Prismari Charm
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Rest in Peace
+- name: Turn the Earth
   weight: 0.0833
   avg_copies: 1.0
 ---

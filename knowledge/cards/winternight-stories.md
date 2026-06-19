@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0671
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.1705
+    weight: 0.1685
     avg_copies: 1.0
   azorius-blink:
     weight: 0.0244

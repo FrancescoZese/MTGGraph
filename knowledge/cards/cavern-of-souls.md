@@ -9,10 +9,10 @@ type: Land
 meta_presence: 0.058
 archetypes:
   eldrazi-tron:
-    weight: 0.0419
+    weight: 0.0414
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.0172
+    weight: 0.0169
     avg_copies: 1.0
   eldrazi-ramp:
     weight: 0.7391
@@ -24,8 +24,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   cosmogoyf-fling:
-    weight: 0.875
-    avg_copies: 1.83
+    weight: 0.88
+    avg_copies: 1.77
   goryo4:
     weight: 1.0
     avg_copies: 3.2

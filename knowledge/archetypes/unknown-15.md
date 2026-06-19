@@ -6,22 +6,22 @@ name: 'Unknown #15'
 meta_share: 0.0013
 list_count: 5
 top_cards:
-- name: Tamiyo, Inquisitive Student
-  weight: 1.0
-  avg_copies: 4.0
-- name: Urza's Saga
-  weight: 1.0
-  avg_copies: 4.0
-- name: Cori-Steel Cutter
+- name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
 - name: Emry, Lurker of the Loch
   weight: 1.0
   avg_copies: 4.0
-- name: Mox Opal
+- name: Cori-Steel Cutter
+  weight: 1.0
+  avg_copies: 4.0
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
@@ -42,22 +42,22 @@ top_cards:
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.8
-- name: Spirebluff Canal
-  weight: 1.0
-  avg_copies: 1.4
 - name: Island
   weight: 1.0
   avg_copies: 1.4
-- name: Aether Spellbomb
+- name: Spirebluff Canal
   weight: 1.0
-  avg_copies: 1.0
-- name: Otawara, Soaring City
-  weight: 1.0
-  avg_copies: 1.0
+  avg_copies: 1.4
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
+- name: Aether Spellbomb
+  weight: 1.0
+  avg_copies: 1.0
 - name: Thundering Falls
+  weight: 1.0
+  avg_copies: 1.0
+- name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
 - name: Metallic Rebuke
@@ -84,7 +84,7 @@ top_cards:
 - name: Tormod's Crypt
   weight: 0.6
   avg_copies: 1.4
-- name: Haywire Mite
+- name: Repeal
   weight: 0.6
   avg_copies: 1.0
 - name: Pithing Needle
@@ -93,10 +93,10 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.6
   avg_copies: 1.0
-- name: Fiery Islet
+- name: Haywire Mite
   weight: 0.6
   avg_copies: 1.0
-- name: Repeal
+- name: Fiery Islet
   weight: 0.6
   avg_copies: 1.0
 - name: Skateboard
@@ -111,16 +111,16 @@ top_cards:
 - name: Blood Moon
   weight: 0.4
   avg_copies: 1.5
-- name: Grafdigger's Cage
+- name: Engineered Explosives
   weight: 0.4
   avg_copies: 1.0
-- name: Engineered Explosives
+- name: Wooded Foothills
   weight: 0.4
   avg_copies: 1.0
 - name: Shadowspear
   weight: 0.4
   avg_copies: 1.0
-- name: Wooded Foothills
+- name: Grafdigger's Cage
   weight: 0.4
   avg_copies: 1.0
 - name: Expressive Iteration
@@ -129,25 +129,25 @@ top_cards:
 - name: Astrologian's Planisphere
   weight: 0.2
   avg_copies: 3.0
-- name: Sink into Stupor
-  weight: 0.2
-  avg_copies: 2.0
 - name: Flooded Strand
   weight: 0.2
   avg_copies: 2.0
 - name: Vivi Ornitier
   weight: 0.2
   avg_copies: 2.0
+- name: Sink into Stupor
+  weight: 0.2
+  avg_copies: 2.0
 - name: Snapcaster Mage
   weight: 0.2
   avg_copies: 1.0
-- name: Strix Serenade
+- name: Annul
   weight: 0.2
   avg_copies: 1.0
 - name: Vexing Bauble
   weight: 0.2
   avg_copies: 1.0
-- name: Vandalblast
+- name: Strix Serenade
   weight: 0.2
   avg_copies: 1.0
 - name: Preordain
@@ -156,7 +156,7 @@ top_cards:
 - name: Lavaspur Boots
   weight: 0.2
   avg_copies: 1.0
-- name: Annul
+- name: Vandalblast
   weight: 0.2
   avg_copies: 1.0
 ---

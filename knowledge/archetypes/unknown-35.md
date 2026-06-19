@@ -6,19 +6,13 @@ name: 'Unknown #35'
 meta_share: 0.0008
 list_count: 3
 top_cards:
+- name: Lórien Revealed
+  weight: 1.0
+  avg_copies: 4.0
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
-- name: Flame of Anor
-  weight: 1.0
-  avg_copies: 4.0
 - name: Subtlety
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thundertrap Trainer
-  weight: 1.0
-  avg_copies: 4.0
-- name: Lórien Revealed
   weight: 1.0
   avg_copies: 4.0
 - name: Unholy Heat
@@ -27,16 +21,22 @@ top_cards:
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
+- name: Flame of Anor
+  weight: 1.0
+  avg_copies: 4.0
+- name: Thundertrap Trainer
+  weight: 1.0
+  avg_copies: 4.0
 - name: Island
   weight: 1.0
   avg_copies: 3.33
 - name: Steam Vents
   weight: 1.0
   avg_copies: 3.0
-- name: Consign to Memory
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 3.0
-- name: Lightning Bolt
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
 - name: Fable of the Mirror-Breaker
@@ -48,9 +48,6 @@ top_cards:
 - name: Snapcaster Mage
   weight: 1.0
   avg_copies: 2.0
-- name: Flare of Denial
-  weight: 1.0
-  avg_copies: 2.0
 - name: Blood Moon
   weight: 1.0
   avg_copies: 2.0
@@ -58,6 +55,9 @@ top_cards:
   weight: 1.0
   avg_copies: 2.0
 - name: Flooded Strand
+  weight: 1.0
+  avg_copies: 2.0
+- name: Flare of Denial
   weight: 1.0
   avg_copies: 2.0
 - name: Thundering Falls
@@ -81,10 +81,10 @@ top_cards:
 - name: Ghost Vacuum
   weight: 0.6667
   avg_copies: 3.0
-- name: Bonecrusher Giant
+- name: Force of Negation
   weight: 0.6667
   avg_copies: 1.5
-- name: Force of Negation
+- name: Bonecrusher Giant
   weight: 0.6667
   avg_copies: 1.5
 - name: Riverpyre Verge
@@ -99,22 +99,22 @@ top_cards:
 - name: Spell Pierce
   weight: 0.3333
   avg_copies: 2.0
-- name: Teferi, Temporal Pilgrim
-  weight: 0.3333
-  avg_copies: 2.0
 - name: Twinflame Tyrant
   weight: 0.3333
   avg_copies: 2.0
-- name: Mistrise Village
+- name: Teferi, Temporal Pilgrim
   weight: 0.3333
-  avg_copies: 1.0
-- name: Damping Sphere
+  avg_copies: 2.0
+- name: Stern Scolding
   weight: 0.3333
   avg_copies: 1.0
 - name: Den of the Bugbear
   weight: 0.3333
   avg_copies: 1.0
-- name: Stern Scolding
+- name: Damping Sphere
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Mistrise Village
   weight: 0.3333
   avg_copies: 1.0
 ---

@@ -9,7 +9,7 @@ type: Artifact Land
 meta_presence: 0.0067
 archetypes:
   eldrazi-tron:
-    weight: 0.0838
+    weight: 0.0828
     avg_copies: 1.0
   hardened-scales:
     weight: 1.0

@@ -15,16 +15,16 @@ top_cards:
 - name: Arboreal Grazer
   weight: 1.0
   avg_copies: 3.83
-- name: Icetill Explorer
-  weight: 1.0
-  avg_copies: 3.67
 - name: Valakut, the Molten Pinnacle
   weight: 1.0
   avg_copies: 3.67
-- name: Green Sun's Zenith
+- name: Icetill Explorer
+  weight: 1.0
+  avg_copies: 3.67
+- name: Wrenn and Six
   weight: 1.0
   avg_copies: 3.5
-- name: Wrenn and Six
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 3.5
 - name: Wooded Foothills
@@ -39,10 +39,10 @@ top_cards:
 - name: Commercial District
   weight: 1.0
   avg_copies: 2.17
-- name: Mountain
+- name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.67
-- name: Boseiju, Who Endures
+- name: Mountain
   weight: 1.0
   avg_copies: 1.67
 - name: Vexing Bauble
@@ -69,10 +69,10 @@ top_cards:
 - name: Ghost Quarter
   weight: 0.8333
   avg_copies: 1.2
-- name: Dryad Arbor
+- name: Shifting Woodland
   weight: 0.8333
   avg_copies: 1.0
-- name: Shifting Woodland
+- name: Dryad Arbor
   weight: 0.8333
   avg_copies: 1.0
 - name: Lightning Bolt
@@ -96,27 +96,33 @@ top_cards:
 - name: Windswept Heath
   weight: 0.5
   avg_copies: 2.0
-- name: Meltdown
+- name: Scalding Tarn
   weight: 0.5
   avg_copies: 1.0
-- name: Scalding Tarn
+- name: Meltdown
   weight: 0.5
   avg_copies: 1.0
 - name: Erode
   weight: 0.3333
   avg_copies: 1.75
+- name: Sacred Foundry
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Jetmir's Garden
   weight: 0.3333
   avg_copies: 1.0
 - name: Elegant Parlor
   weight: 0.3333
   avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Scapeshift
   weight: 0.1667
   avg_copies: 3.0
+- name: Orim's Chant
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Fire Magic
+  weight: 0.1667
+  avg_copies: 2.0
 - name: Disruptor Flute
   weight: 0.1667
   avg_copies: 2.0
@@ -126,19 +132,13 @@ top_cards:
 - name: Ghost Vacuum
   weight: 0.1667
   avg_copies: 2.0
-- name: Orim's Chant
-  weight: 0.1667
-  avg_copies: 2.0
-- name: Fire Magic
-  weight: 0.1667
-  avg_copies: 2.0
-- name: Dwarven Mine
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Endurance
   weight: 0.1667
   avg_copies: 1.0
 - name: Sakura-Tribe Elder
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Dwarven Mine
   weight: 0.1667
   avg_copies: 1.0
 ---

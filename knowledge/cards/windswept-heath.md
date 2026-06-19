@@ -9,13 +9,13 @@ type: Land
 meta_presence: 0.1448
 archetypes:
   boros-energy:
-    weight: 0.425
-    avg_copies: 2.75
+    weight: 0.4261
+    avg_copies: 2.74
   jeskai-energy:
     weight: 0.0078
     avg_copies: 3.0
   amulet-titan:
-    weight: 0.0259
+    weight: 0.0254
     avg_copies: 1.0
   azorius-control:
     weight: 0.1224
@@ -45,7 +45,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.25
   esper-blink:
-    weight: 0.0147
+    weight: 0.0145
     avg_copies: 1.0
   samwise-combo:
     weight: 1.0

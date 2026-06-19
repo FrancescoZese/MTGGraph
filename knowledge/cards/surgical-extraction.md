@@ -1,10 +1,10 @@
 ---
 archetypes:
   ruby-storm:
-    weight: 0.0087
+    weight: 0.0086
     avg_copies: 1.0
   boros-energy:
-    weight: 0.7875
+    weight: 0.7879
     avg_copies: 1.27
   dimir-control:
     weight: 0.1111
@@ -28,7 +28,7 @@ archetypes:
     weight: 0.5333
     avg_copies: 1.19
   domain-zoo:
-    weight: 0.2614
+    weight: 0.2584
     avg_copies: 1.22
   mill:
     weight: 1.0
@@ -61,8 +61,8 @@ archetypes:
     weight: 0.596
     avg_copies: 1.55
   esper-blink:
-    weight: 0.2059
-    avg_copies: 1.21
+    weight: 0.2174
+    avg_copies: 1.27
   samwise-combo:
     weight: 0.125
     avg_copies: 1.0
@@ -97,8 +97,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.7033
-    avg_copies: 1.12
+    weight: 0.7097
+    avg_copies: 1.14
   goryo5:
     weight: 0.4444
     avg_copies: 1.5
@@ -226,7 +226,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-106:
-    weight: 0.6667
+    weight: 0.5
     avg_copies: 1.0
   unknown-109:
     weight: 1.0
@@ -241,14 +241,14 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-131:
-    weight: 0.5
+    weight: 0.4
     avg_copies: 1.0
   unknown-141:
     weight: 1.0
     avg_copies: 2.0
   unknown-149:
-    weight: 0.5
-    avg_copies: 2.0
+    weight: 0.6
+    avg_copies: 1.67
 cmc: 1
 colors: []
 image: https://cards.scryfall.io/normal/front/e/1/e15d76ac-1c23-4503-8225-375ac2bf2fb6.jpg?1673147668

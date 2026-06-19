@@ -6,22 +6,22 @@ name: 'Unknown #26'
 meta_share: 0.0041
 list_count: 16
 top_cards:
-- name: Cleansing Wildfire
-  weight: 1.0
-  avg_copies: 4.0
 - name: Field of Ruin
   weight: 1.0
   avg_copies: 4.0
-- name: Path to Exile
+- name: Cleansing Wildfire
   weight: 1.0
   avg_copies: 4.0
 - name: Demolition Field
   weight: 1.0
   avg_copies: 4.0
-- name: Wrath of the Skies
+- name: Path to Exile
+  weight: 1.0
+  avg_copies: 4.0
+- name: Price of Freedom
   weight: 1.0
   avg_copies: 3.94
-- name: Price of Freedom
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 3.94
 - name: High Noon
@@ -42,10 +42,10 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.88
-- name: Cori Mountain Monastery
+- name: Erode
   weight: 0.9375
   avg_copies: 3.8
-- name: Erode
+- name: Cori Mountain Monastery
   weight: 0.9375
   avg_copies: 3.8
 - name: Kaheera, the Orphanguard
@@ -117,46 +117,46 @@ top_cards:
 - name: Crucible of Worlds
   weight: 0.125
   avg_copies: 1.0
-- name: Lightning Helix
-  weight: 0.0625
-  avg_copies: 4.0
-- name: Ark of Hunger
+- name: Volcanic Spite
   weight: 0.0625
   avg_copies: 4.0
 - name: White Orchid Phantom
   weight: 0.0625
   avg_copies: 4.0
-- name: Volcanic Spite
+- name: Lightning Helix
   weight: 0.0625
   avg_copies: 4.0
 - name: card:kutzil-s-flanker
   weight: 0.0625
   avg_copies: 4.0
-- name: Ragavan, Nimble Pilferer
+- name: Ark of Hunger
+  weight: 0.0625
+  avg_copies: 4.0
+- name: Candy Trail
   weight: 0.0625
   avg_copies: 3.0
-- name: Candy Trail
+- name: Ragavan, Nimble Pilferer
   weight: 0.0625
   avg_copies: 3.0
 - name: Get Lost
   weight: 0.0625
   avg_copies: 3.0
-- name: Hallowed Moonlight
-  weight: 0.0625
-  avg_copies: 2.0
 - name: Flashback
   weight: 0.0625
   avg_copies: 2.0
-- name: card:vanish-into-eternity
+- name: Hallowed Moonlight
   weight: 0.0625
   avg_copies: 2.0
 - name: March of Otherworldly Light
   weight: 0.0625
   avg_copies: 2.0
-- name: Elixir of Immortality
+- name: card:vanish-into-eternity
+  weight: 0.0625
+  avg_copies: 2.0
+- name: Emrakul, the Aeons Torn
   weight: 0.0625
   avg_copies: 1.0
-- name: Emrakul, the Aeons Torn
+- name: Elixir of Immortality
   weight: 0.0625
   avg_copies: 1.0
 ---

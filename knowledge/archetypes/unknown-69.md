@@ -6,13 +6,13 @@ name: 'Unknown #69'
 meta_share: 0.0003
 list_count: 1
 top_cards:
-- name: Boggart Trawler
+- name: Soul Spike
   weight: 1.0
   avg_copies: 4.0
-- name: Necrodominance
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Fell the Profane
@@ -21,40 +21,37 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Soul Spike
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Necrodominance
   weight: 1.0
   avg_copies: 4.0
-- name: Orcish Bowmasters
+- name: Boggart Trawler
   weight: 1.0
   avg_copies: 4.0
+- name: Inquisition of Kozilek
+  weight: 1.0
+  avg_copies: 3.0
 - name: Sheoldred, the Apocalypse
   weight: 1.0
   avg_copies: 3.0
 - name: March of Wretched Sorrow
   weight: 1.0
   avg_copies: 3.0
-- name: Inquisition of Kozilek
-  weight: 1.0
-  avg_copies: 3.0
-- name: Dauthi Voidwalker
+- name: Watery Grave
   weight: 1.0
   avg_copies: 2.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 2.0
-- name: Watery Grave
-  weight: 1.0
-  avg_copies: 2.0
-- name: Bloodstained Mire
-  weight: 1.0
-  avg_copies: 2.0
-- name: Undercity Sewers
-  weight: 1.0
-  avg_copies: 2.0
 - name: Chalice of the Void
+  weight: 1.0
+  avg_copies: 2.0
+- name: Dauthi Voidwalker
+  weight: 1.0
+  avg_copies: 2.0
+- name: Break the Ice
   weight: 1.0
   avg_copies: 2.0
 - name: Thoughtseize
@@ -63,7 +60,10 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 2.0
-- name: Break the Ice
+- name: Undercity Sewers
+  weight: 1.0
+  avg_copies: 2.0
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.0
 - name: Force of Despair
@@ -72,10 +72,10 @@ top_cards:
 - name: Waterlogged Teachings
   weight: 1.0
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 1.0
-- name: Verdant Catacombs
+- name: The Meathook Massacre
   weight: 1.0
   avg_copies: 1.0
 - name: Marsh Flats
@@ -84,7 +84,7 @@ top_cards:
 - name: Toxic Deluge
   weight: 1.0
   avg_copies: 1.0
-- name: The Meathook Massacre
+- name: Surgical Extraction
   weight: 1.0
   avg_copies: 1.0
 ---

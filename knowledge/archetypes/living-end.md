@@ -76,10 +76,10 @@ top_cards:
 - name: Overgrown Tomb
   weight: 0.7407
   avg_copies: 1.12
-- name: Undercity Sewers
+- name: Halo Forager
   weight: 0.7407
   avg_copies: 1.0
-- name: Halo Forager
+- name: Undercity Sewers
   weight: 0.7407
   avg_copies: 1.0
 - name: Formidable Speaker
@@ -142,13 +142,13 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 0.2593
   avg_copies: 1.94
-- name: Fracturing Gust
-  weight: 0.2593
-  avg_copies: 1.0
 - name: Kavaero, Mind-Bitten
   weight: 0.2593
   avg_copies: 1.0
 - name: Temple Garden
+  weight: 0.2593
+  avg_copies: 1.0
+- name: Fracturing Gust
   weight: 0.2593
   avg_copies: 1.0
 - name: Lush Portico
@@ -178,10 +178,10 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 0.0926
   avg_copies: 1.33
-- name: Drannith Magistrate
+- name: Flooded Strand
   weight: 0.0926
   avg_copies: 1.2
-- name: Flooded Strand
+- name: Drannith Magistrate
   weight: 0.0926
   avg_copies: 1.2
 - name: Titanoth Rex
@@ -190,13 +190,13 @@ top_cards:
 - name: Archon of Cruelty
   weight: 0.0556
   avg_copies: 1.0
-- name: Damping Matrix
+- name: Oliphaunt
   weight: 0.037
   avg_copies: 2.0
 - name: Architects of Will
   weight: 0.037
   avg_copies: 2.0
-- name: Oliphaunt
+- name: Damping Matrix
   weight: 0.037
   avg_copies: 2.0
 - name: Steam Vents
@@ -205,10 +205,10 @@ top_cards:
 - name: Stomping Ground
   weight: 0.037
   avg_copies: 1.0
-- name: Abhorrent Oculus
+- name: Windcaller Aven
   weight: 0.037
   avg_copies: 1.0
-- name: Windcaller Aven
+- name: Abhorrent Oculus
   weight: 0.037
   avg_copies: 1.0
 - name: High Noon
@@ -229,19 +229,22 @@ top_cards:
 - name: Fade from History
   weight: 0.0185
   avg_copies: 2.0
-- name: Fulminator Mage
-  weight: 0.0185
-  avg_copies: 2.0
 - name: Soulless Jailer
   weight: 0.0185
   avg_copies: 2.0
-- name: Brazen Borrower
+- name: Fulminator Mage
   weight: 0.0185
-  avg_copies: 1.0
-- name: Press the Enemy
-  weight: 0.0185
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Skycoach Conductor
+  weight: 0.0185
+  avg_copies: 1.0
+- name: card:summon-bahamut
+  weight: 0.0185
+  avg_copies: 1.0
+- name: Gloomlake Verge
+  weight: 0.0185
+  avg_copies: 1.0
+- name: Thundering Falls
   weight: 0.0185
   avg_copies: 1.0
 - name: Force of Despair
@@ -250,34 +253,31 @@ top_cards:
 - name: card:murderous-rider
   weight: 0.0185
   avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 0.0185
-  avg_copies: 1.0
-- name: card:summon-bahamut
+- name: Press the Enemy
   weight: 0.0185
   avg_copies: 1.0
 - name: Murderous Cut
   weight: 0.0185
   avg_copies: 1.0
-- name: Gloomlake Verge
-  weight: 0.0185
-  avg_copies: 1.0
-- name: Sunken Ruins
-  weight: 0.0185
-  avg_copies: 1.0
 - name: Undercity Informer
   weight: 0.0185
   avg_copies: 1.0
-- name: Brainsurge
+- name: Brazen Borrower
   weight: 0.0185
   avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.0185
   avg_copies: 1.0
+- name: Brainsurge
+  weight: 0.0185
+  avg_copies: 1.0
+- name: Sunken Ruins
+  weight: 0.0185
+  avg_copies: 1.0
 - name: Kataki, War's Wage
   weight: 0.0185
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Collector Ouphe
   weight: 0.0185
   avg_copies: 1.0
 ---

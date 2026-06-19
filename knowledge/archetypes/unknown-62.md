@@ -3,13 +3,13 @@ colors:
 - W
 - U
 name: 'Unknown #62'
-meta_share: 0.0052
+meta_share: 0.0051
 list_count: 20
 top_cards:
-- name: Guide of Souls
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Witch Enchanter
@@ -39,10 +39,10 @@ top_cards:
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.67
-- name: Plains
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.4
-- name: Mystical Dispute
+- name: Plains
   weight: 1.0
   avg_copies: 2.4
 - name: Consign to Memory
@@ -96,10 +96,10 @@ top_cards:
 - name: White Orchid Phantom
   weight: 0.2
   avg_copies: 1.8
-- name: High Noon
+- name: Deafening Silence
   weight: 0.2
   avg_copies: 1.75
-- name: Deafening Silence
+- name: High Noon
   weight: 0.2
   avg_copies: 1.75
 - name: Clarion Conqueror
@@ -108,10 +108,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.2
   avg_copies: 1.25
-- name: Sanctifier en-Vec
+- name: Windswept Heath
   weight: 0.15
   avg_copies: 2.0
-- name: Windswept Heath
+- name: Sanctifier en-Vec
   weight: 0.15
   avg_copies: 2.0
 - name: Spell Snare
@@ -123,10 +123,10 @@ top_cards:
 - name: Springleaf Drum
   weight: 0.1
   avg_copies: 3.0
-- name: Lavinia, Azorius Renegade
+- name: Misty Rainforest
   weight: 0.1
   avg_copies: 2.0
-- name: Misty Rainforest
+- name: Lavinia, Azorius Renegade
   weight: 0.1
   avg_copies: 2.0
 - name: Haliya, Guided by Light
@@ -144,7 +144,7 @@ top_cards:
 - name: Ranger-Captain of Eos
   weight: 0.1
   avg_copies: 1.0
-- name: Drannith Magistrate
+- name: Momo, Friendly Flier
   weight: 0.1
   avg_copies: 1.0
 - name: Temple Garden
@@ -153,19 +153,16 @@ top_cards:
 - name: Haywire Mite
   weight: 0.1
   avg_copies: 1.0
-- name: Momo, Friendly Flier
+- name: Drannith Magistrate
   weight: 0.1
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
   weight: 0.05
   avg_copies: 3.0
-- name: Flagstones of Trokair
+- name: Obsidian Charmaw
   weight: 0.05
   avg_copies: 2.0
 - name: Damping Sphere
-  weight: 0.05
-  avg_copies: 2.0
-- name: Obsidian Charmaw
   weight: 0.05
   avg_copies: 2.0
 - name: Galvanic Discharge
@@ -174,16 +171,28 @@ top_cards:
 - name: Goblin Bombardment
   weight: 0.05
   avg_copies: 2.0
-- name: Recruiter of the Guard
+- name: Flagstones of Trokair
+  weight: 0.05
+  avg_copies: 2.0
+- name: Ajani, Nacatl Pariah
   weight: 0.05
   avg_copies: 1.0
 - name: Razorgrass Ambush
   weight: 0.05
   avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
+- name: Hydroelectric Specimen
+  weight: 0.05
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 0.05
+  avg_copies: 1.0
+- name: Celestial Purge
   weight: 0.05
   avg_copies: 1.0
 - name: Otawara, Soaring City
+  weight: 0.05
+  avg_copies: 1.0
+- name: Flitterwing Nuisance
   weight: 0.05
   avg_copies: 1.0
 - name: Wear
@@ -192,25 +201,16 @@ top_cards:
 - name: Elegant Parlor
   weight: 0.05
   avg_copies: 1.0
+- name: Recruiter of the Guard
+  weight: 0.05
+  avg_copies: 1.0
 - name: Orim's Chant
-  weight: 0.05
-  avg_copies: 1.0
-- name: Ajani, Nacatl Pariah
-  weight: 0.05
-  avg_copies: 1.0
-- name: Flitterwing Nuisance
-  weight: 0.05
-  avg_copies: 1.0
-- name: Meltdown
-  weight: 0.05
-  avg_copies: 1.0
-- name: Hydroelectric Specimen
   weight: 0.05
   avg_copies: 1.0
 - name: Aven Interrupter
   weight: 0.05
   avg_copies: 1.0
-- name: Celestial Purge
+- name: Tamiyo, Inquisitive Student
   weight: 0.05
   avg_copies: 1.0
 ---

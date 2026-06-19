@@ -129,19 +129,19 @@ top_cards:
 - name: Raucous Theater
   weight: 0.0811
   avg_copies: 1.0
-- name: Gonti's Machinations
-  weight: 0.0541
-  avg_copies: 4.0
-- name: Psychic Frog
-  weight: 0.0541
-  avg_copies: 4.0
 - name: Vein Ripper
+  weight: 0.0541
+  avg_copies: 4.0
+- name: Gonti's Machinations
   weight: 0.0541
   avg_copies: 4.0
 - name: Sorin, Imperious Bloodlord
   weight: 0.0541
   avg_copies: 4.0
 - name: Requiting Hex
+  weight: 0.0541
+  avg_copies: 4.0
+- name: Psychic Frog
   weight: 0.0541
   avg_copies: 4.0
 - name: Watery Grave
@@ -153,10 +153,10 @@ top_cards:
 - name: Sign in Blood
   weight: 0.0541
   avg_copies: 2.5
-- name: Long Goodbye
+- name: Agadeem's Awakening
   weight: 0.0541
   avg_copies: 2.0
-- name: Agadeem's Awakening
+- name: Long Goodbye
   weight: 0.0541
   avg_copies: 2.0
 - name: The Filigree Sylex
@@ -165,10 +165,10 @@ top_cards:
 - name: Toxic Deluge
   weight: 0.0541
   avg_copies: 1.5
-- name: Underground Mortuary
+- name: Decorum Dissertation
   weight: 0.0541
   avg_copies: 1.0
-- name: Decorum Dissertation
+- name: Underground Mortuary
   weight: 0.0541
   avg_copies: 1.0
 - name: Legion's End
@@ -186,40 +186,43 @@ top_cards:
 - name: Quantum Riddler
   weight: 0.027
   avg_copies: 3.0
-- name: Pillage the Bog
-  weight: 0.027
-  avg_copies: 2.0
-- name: Witherbloom Command
-  weight: 0.027
-  avg_copies: 2.0
-- name: Mai, Scornful Striker
+- name: End of the Hunt
   weight: 0.027
   avg_copies: 2.0
 - name: Vexing Bauble
   weight: 0.027
   avg_copies: 2.0
-- name: Overgrown Tomb
+- name: Mai, Scornful Striker
   weight: 0.027
   avg_copies: 2.0
-- name: Culling Ritual
-  weight: 0.027
-  avg_copies: 2.0
-- name: End of the Hunt
-  weight: 0.027
-  avg_copies: 2.0
-- name: Phyrexian Crusader
+- name: Witherbloom Command
   weight: 0.027
   avg_copies: 2.0
 - name: Hurkyl's Recall
   weight: 0.027
   avg_copies: 2.0
+- name: Pillage the Bog
+  weight: 0.027
+  avg_copies: 2.0
+- name: Phyrexian Crusader
+  weight: 0.027
+  avg_copies: 2.0
+- name: Culling Ritual
+  weight: 0.027
+  avg_copies: 2.0
+- name: Overgrown Tomb
+  weight: 0.027
+  avg_copies: 2.0
+- name: Blood Crypt
+  weight: 0.027
+  avg_copies: 1.0
 - name: Nurturing Peatland
   weight: 0.027
   avg_copies: 1.0
 - name: Path of Peril
   weight: 0.027
   avg_copies: 1.0
-- name: Pick Your Poison
+- name: Shizo, Death's Storehouse
   weight: 0.027
   avg_copies: 1.0
 - name: Cling to Dust
@@ -228,10 +231,7 @@ top_cards:
 - name: Kaito, Bane of Nightmares
   weight: 0.027
   avg_copies: 1.0
-- name: Blood Crypt
-  weight: 0.027
-  avg_copies: 1.0
-- name: Shizo, Death's Storehouse
+- name: Pick Your Poison
   weight: 0.027
   avg_copies: 1.0
 ---

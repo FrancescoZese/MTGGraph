@@ -6,22 +6,22 @@ name: 'Unknown #88'
 meta_share: 0.0018
 list_count: 7
 top_cards:
-- name: Windswept Heath
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
 - name: Guide of Souls
+  weight: 1.0
+  avg_copies: 4.0
+- name: Solitude
+  weight: 1.0
+  avg_copies: 4.0
+- name: Windswept Heath
   weight: 1.0
   avg_copies: 4.0
 - name: Flagstones of Trokair
   weight: 1.0
   avg_copies: 4.0
 - name: Birthing Ritual
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ocelot Pride
-  weight: 1.0
-  avg_copies: 4.0
-- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Ranger-Captain of Eos
@@ -48,10 +48,10 @@ top_cards:
 - name: Plains
   weight: 1.0
   avg_copies: 2.43
-- name: Skyclave Apparition
+- name: Drannith Magistrate
   weight: 1.0
   avg_copies: 2.0
-- name: Drannith Magistrate
+- name: Skyclave Apparition
   weight: 1.0
   avg_copies: 2.0
 - name: Lush Portico
@@ -99,10 +99,10 @@ top_cards:
 - name: Eternal Witness
   weight: 0.4286
   avg_copies: 2.33
-- name: Wrath of the Skies
+- name: Kataki, War's Wage
   weight: 0.2857
   avg_copies: 2.0
-- name: Kataki, War's Wage
+- name: Wrath of the Skies
   weight: 0.2857
   avg_copies: 2.0
 - name: Raise the Past
@@ -114,7 +114,10 @@ top_cards:
 - name: Consign to Memory
   weight: 0.1429
   avg_copies: 3.0
-- name: Quantum Riddler
+- name: Hurkyl's Recall
+  weight: 0.1429
+  avg_copies: 2.0
+- name: Orim's Chant
   weight: 0.1429
   avg_copies: 2.0
 - name: Test of Talents
@@ -123,19 +126,16 @@ top_cards:
 - name: Veil of Summer
   weight: 0.1429
   avg_copies: 2.0
-- name: Orim's Chant
+- name: Quantum Riddler
   weight: 0.1429
   avg_copies: 2.0
-- name: Hurkyl's Recall
-  weight: 0.1429
-  avg_copies: 2.0
-- name: Haywire Mite
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.1429
   avg_copies: 1.0
 - name: Hallowed Fountain
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Haywire Mite
   weight: 0.1429
   avg_copies: 1.0
 ---

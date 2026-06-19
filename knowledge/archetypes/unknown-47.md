@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: 'Unknown #47'
-meta_share: 0.0101
+meta_share: 0.01
 list_count: 39
 top_cards:
 - name: Psychic Frog
@@ -126,10 +126,10 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.1026
   avg_copies: 2.25
-- name: Bloodstained Mire
+- name: Stern Scolding
   weight: 0.1026
   avg_copies: 1.75
-- name: Stern Scolding
+- name: Bloodstained Mire
   weight: 0.1026
   avg_copies: 1.75
 - name: Murktide Regent
@@ -138,10 +138,10 @@ top_cards:
 - name: Pest Control
   weight: 0.0769
   avg_copies: 2.67
-- name: Vexing Bauble
+- name: Damping Sphere
   weight: 0.0769
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Vexing Bauble
   weight: 0.0769
   avg_copies: 2.0
 - name: Meticulous Archive
@@ -159,52 +159,52 @@ top_cards:
 - name: The Meathook Massacre
   weight: 0.0513
   avg_copies: 1.5
-- name: Scalding Tarn
-  weight: 0.0513
-  avg_copies: 1.0
-- name: Spell Pierce
+- name: Snow-Covered Swamp
   weight: 0.0513
   avg_copies: 1.0
 - name: Snow-Covered Island
   weight: 0.0513
   avg_copies: 1.0
-- name: Snow-Covered Swamp
+- name: Spell Pierce
   weight: 0.0513
   avg_copies: 1.0
-- name: Void Mirror
-  weight: 0.0256
-  avg_copies: 2.0
+- name: Scalding Tarn
+  weight: 0.0513
+  avg_copies: 1.0
 - name: Verdant Catacombs
   weight: 0.0256
   avg_copies: 2.0
-- name: Teferi, Time Raveler
+- name: Void Mirror
   weight: 0.0256
-  avg_copies: 1.0
-- name: High Noon
-  weight: 0.0256
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Snapcaster Mage
+  weight: 0.0256
+  avg_copies: 1.0
+- name: Damnation
   weight: 0.0256
   avg_copies: 1.0
 - name: River of Tears
   weight: 0.0256
   avg_copies: 1.0
-- name: Dreams of Steel and Oil
-  weight: 0.0256
-  avg_copies: 1.0
-- name: Umezawa's Jitte
+- name: Stony Silence
   weight: 0.0256
   avg_copies: 1.0
 - name: Strategic Betrayal
   weight: 0.0256
   avg_copies: 1.0
+- name: Teferi, Time Raveler
+  weight: 0.0256
+  avg_copies: 1.0
 - name: Celestial Purge
   weight: 0.0256
   avg_copies: 1.0
-- name: Stony Silence
+- name: Umezawa's Jitte
   weight: 0.0256
   avg_copies: 1.0
-- name: Damnation
+- name: High Noon
+  weight: 0.0256
+  avg_copies: 1.0
+- name: Dreams of Steel and Oil
   weight: 0.0256
   avg_copies: 1.0
 ---

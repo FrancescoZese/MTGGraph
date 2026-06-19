@@ -7,10 +7,10 @@ name: Mardu Blink
 meta_share: 0.0059
 list_count: 23
 top_cards:
-- name: Overlord of the Balemurk
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
 - name: Phelia, Exuberant Shepherd
@@ -19,10 +19,10 @@ top_cards:
 - name: Phlage, Titan of Fire's Fury
   weight: 1.0
   avg_copies: 3.09
-- name: Marsh Flats
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 2.7
-- name: Arid Mesa
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 2.7
 - name: Witch Enchanter
@@ -46,10 +46,10 @@ top_cards:
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Wear
@@ -70,10 +70,10 @@ top_cards:
 - name: Detective's Phoenix
   weight: 0.8696
   avg_copies: 1.9
-- name: Bloodstained Mire
+- name: Damping Sphere
   weight: 0.8696
   avg_copies: 1.85
-- name: Damping Sphere
+- name: Bloodstained Mire
   weight: 0.8696
   avg_copies: 1.85
 - name: Pinnacle Monk
@@ -133,10 +133,10 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.1739
   avg_copies: 2.0
-- name: Containment Priest
+- name: Swamp
   weight: 0.1739
   avg_copies: 1.0
-- name: Swamp
+- name: Containment Priest
   weight: 0.1739
   avg_copies: 1.0
 - name: Snow-Covered Swamp
@@ -160,10 +160,10 @@ top_cards:
 - name: Unholy Heat
   weight: 0.0435
   avg_copies: 3.0
-- name: Seasoned Pyromancer
+- name: Magus of the Moon
   weight: 0.0435
   avg_copies: 2.0
-- name: Magus of the Moon
+- name: Seasoned Pyromancer
   weight: 0.0435
   avg_copies: 2.0
 - name: Graveyard Trespasser

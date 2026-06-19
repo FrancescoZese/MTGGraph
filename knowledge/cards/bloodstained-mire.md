@@ -9,8 +9,8 @@ type: Land
 meta_presence: 0.1807
 archetypes:
   ruby-storm:
-    weight: 0.9478
-    avg_copies: 2.47
+    weight: 0.9483
+    avg_copies: 2.46
   boros-energy:
     weight: 0.0076
     avg_copies: 2.75
@@ -21,7 +21,7 @@ archetypes:
     weight: 0.2432
     avg_copies: 2.11
   domain-zoo:
-    weight: 0.0227
+    weight: 0.0225
     avg_copies: 4.0
   reanimator:
     weight: 0.8889
@@ -70,7 +70,7 @@ archetypes:
     avg_copies: 1.0
   goryo1:
     weight: 1.0
-    avg_copies: 3.7
+    avg_copies: 3.68
   goryo5:
     weight: 0.5556
     avg_copies: 3.2

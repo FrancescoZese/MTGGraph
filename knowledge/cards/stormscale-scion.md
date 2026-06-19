@@ -10,7 +10,7 @@ type: Creature — Dragon
 meta_presence: 0.0121
 archetypes:
   ruby-storm:
-    weight: 0.1304
+    weight: 0.1293
     avg_copies: 1.13
   mono-red-belcher:
     weight: 1.0

@@ -3,7 +3,7 @@ colors:
 - U
 - R
 name: Izzet Prowess
-meta_share: 0.051
+meta_share: 0.0508
 list_count: 198
 top_cards:
 - name: Cori-Steel Cutter
@@ -174,16 +174,16 @@ top_cards:
 - name: Iroh's Demonstration
   weight: 0.0404
   avg_copies: 1.0
-- name: End the Festivities
-  weight: 0.0354
-  avg_copies: 1.0
 - name: Accumulate Wisdom
   weight: 0.0354
   avg_copies: 1.0
-- name: Rough
+- name: End the Festivities
+  weight: 0.0354
+  avg_copies: 1.0
+- name: Island
   weight: 0.0303
   avg_copies: 1.17
-- name: Island
+- name: Rough
   weight: 0.0303
   avg_copies: 1.17
 - name: Questing Druid
@@ -198,10 +198,10 @@ top_cards:
 - name: Redirect Lightning
   weight: 0.0253
   avg_copies: 1.0
-- name: Arclight Phoenix
+- name: Faithless Looting
   weight: 0.0202
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Arclight Phoenix
   weight: 0.0202
   avg_copies: 4.0
 - name: Thoughtseize
@@ -216,10 +216,10 @@ top_cards:
 - name: Snow-Covered Mountain
   weight: 0.0152
   avg_copies: 2.0
-- name: Alpine Moon
+- name: card:eddymurk-crab
   weight: 0.0152
   avg_copies: 1.67
-- name: card:eddymurk-crab
+- name: Alpine Moon
   weight: 0.0152
   avg_copies: 1.67
 - name: True Ancestry
@@ -234,25 +234,25 @@ top_cards:
 - name: Hurkyl's Recall
   weight: 0.0101
   avg_copies: 2.0
-- name: Brazen Borrower
-  weight: 0.0101
-  avg_copies: 1.5
 - name: Fatal Push
   weight: 0.0101
   avg_copies: 1.5
 - name: Wear
   weight: 0.0101
   avg_copies: 1.5
-- name: Polluted Delta
+- name: Brazen Borrower
+  weight: 0.0101
+  avg_copies: 1.5
+- name: Invasive Surgery
   weight: 0.0101
   avg_copies: 1.0
 - name: Pithing Needle
   weight: 0.0101
   avg_copies: 1.0
-- name: Invasive Surgery
+- name: Flooded Strand
   weight: 0.0101
   avg_copies: 1.0
-- name: Flooded Strand
+- name: Polluted Delta
   weight: 0.0101
   avg_copies: 1.0
 - name: Searing Blaze
@@ -261,6 +261,9 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 0.0051
   avg_copies: 4.0
+- name: Traumatic Critique
+  weight: 0.0051
+  avg_copies: 3.0
 - name: Thraben Charm
   weight: 0.0051
   avg_copies: 3.0
@@ -270,43 +273,40 @@ top_cards:
 - name: Thing in the Ice
   weight: 0.0051
   avg_copies: 3.0
-- name: Traumatic Critique
-  weight: 0.0051
-  avg_copies: 3.0
-- name: Disruptor Flute
+- name: Subtlety
   weight: 0.0051
   avg_copies: 2.0
 - name: Siege Smash
   weight: 0.0051
   avg_copies: 2.0
-- name: Bedlam Reveler
+- name: Disruptor Flute
   weight: 0.0051
   avg_copies: 2.0
-- name: Subtlety
+- name: Bedlam Reveler
   weight: 0.0051
   avg_copies: 2.0
 - name: Kaito, Bane of Nightmares
   weight: 0.0051
   avg_copies: 2.0
-- name: Return to Nature
+- name: Abandon Attachments
   weight: 0.0051
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: End of the Hunt
   weight: 0.0051
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Riverpyre Verge
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Lightning Axe
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Ral, Crackling Wit
   weight: 0.0051
   avg_copies: 1.0
 - name: Swan Song
   weight: 0.0051
   avg_copies: 1.0
-- name: The Legend of Roku
-  weight: 0.0051
-  avg_copies: 1.0
-- name: Shattering Spree
-  weight: 0.0051
-  avg_copies: 1.0
-- name: Abandon Attachments
+- name: Otawara, Soaring City
   weight: 0.0051
   avg_copies: 1.0
 - name: Shatterstorm
@@ -315,25 +315,25 @@ top_cards:
 - name: Abrade
   weight: 0.0051
   avg_copies: 1.0
-- name: Riverpyre Verge
+- name: The Legend of Roku
   weight: 0.0051
   avg_copies: 1.0
-- name: Ral, Crackling Wit
+- name: Return to Nature
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Stern Scolding
   weight: 0.0051
   avg_copies: 1.0
 - name: Sink into Stupor
   weight: 0.0051
   avg_copies: 1.0
-- name: Lightning Axe
+- name: Shattering Spree
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Grafdigger's Cage
   weight: 0.0051
   avg_copies: 1.0
 - name: Combustion Technique
-  weight: 0.0051
-  avg_copies: 1.0
-- name: End of the Hunt
-  weight: 0.0051
-  avg_copies: 1.0
-- name: Stern Scolding
   weight: 0.0051
   avg_copies: 1.0
 ---

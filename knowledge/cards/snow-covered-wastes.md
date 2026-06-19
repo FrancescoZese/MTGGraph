@@ -9,7 +9,7 @@ type: Basic Snow Land
 meta_presence: 0.0082
 archetypes:
   eldrazi-tron:
-    weight: 0.1317
+    weight: 0.1302
     avg_copies: 1.0
   broodscale-combo:
     weight: 0.0544

@@ -12,37 +12,37 @@ top_cards:
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
+- name: Psychic Frog
+  weight: 1.0
+  avg_copies: 4.0
 - name: Goryo's Vengeance
   weight: 1.0
   avg_copies: 4.0
 - name: Atraxa, Grand Unifier
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thoughtseize
+- name: Emperor of Bones
   weight: 1.0
   avg_copies: 3.5
-- name: Emperor of Bones
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 3.5
 - name: Fatal Push
   weight: 1.0
   avg_copies: 3.0
-- name: Meltdown
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.5
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 2.5
-- name: Mystical Dispute
-  weight: 1.0
-  avg_copies: 2.5
-- name: Bloodstained Mire
+- name: Meltdown
   weight: 1.0
   avg_copies: 2.5
 - name: Faithless Looting
+  weight: 1.0
+  avg_copies: 2.5
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.5
 - name: Consign to Memory
@@ -57,34 +57,34 @@ top_cards:
 - name: Force of Negation
   weight: 1.0
   avg_copies: 2.0
-- name: Watery Grave
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.5
 - name: Swamp
   weight: 1.0
   avg_copies: 1.5
-- name: Vexing Bauble
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.5
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Raucous Theater
-  weight: 1.0
-  avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 1.0
-  avg_copies: 1.0
-- name: Undercity Sewers
-  weight: 1.0
-  avg_copies: 1.0
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Island
   weight: 1.0
   avg_copies: 1.0
+- name: Surgical Extraction
+  weight: 1.0
+  avg_copies: 1.0
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
 - name: Thundering Falls
+  weight: 1.0
+  avg_copies: 1.0
+- name: Undercity Sewers
+  weight: 1.0
+  avg_copies: 1.0
+- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
@@ -93,10 +93,10 @@ top_cards:
 - name: Traumatic Critique
   weight: 0.5
   avg_copies: 3.0
-- name: Ulamog, the Defiler
+- name: Spell Snare
   weight: 0.5
   avg_copies: 3.0
-- name: Spell Snare
+- name: Ulamog, the Defiler
   weight: 0.5
   avg_copies: 3.0
 - name: Damping Sphere
@@ -111,16 +111,16 @@ top_cards:
 - name: Kolaghan's Command
   weight: 0.5
   avg_copies: 1.0
-- name: Sink into Stupor
-  weight: 0.5
-  avg_copies: 1.0
-- name: Flame of Anor
+- name: Prismari Charm
   weight: 0.5
   avg_copies: 1.0
 - name: Bitter Triumph
   weight: 0.5
   avg_copies: 1.0
-- name: Prismari Charm
+- name: Sink into Stupor
+  weight: 0.5
+  avg_copies: 1.0
+- name: Flame of Anor
   weight: 0.5
   avg_copies: 1.0
 ---

@@ -10,7 +10,7 @@ type: Enchantment
 meta_presence: 0.001
 archetypes:
   domain-zoo:
-    weight: 0.0114
+    weight: 0.0112
     avg_copies: 1.0
   boros-ponza:
     weight: 0.0263

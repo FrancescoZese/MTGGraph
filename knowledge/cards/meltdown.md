@@ -7,13 +7,13 @@ name: Meltdown
 scryfall_id: 173369d2-dc39-4bfe-a602-b47156570365
 set: mh3
 type: Sorcery
-meta_presence: 0.1405
+meta_presence: 0.1404
 archetypes:
   ruby-storm:
-    weight: 0.1217
+    weight: 0.1207
     avg_copies: 1.36
   boros-energy:
-    weight: 0.0626
+    weight: 0.0625
     avg_copies: 1.27
   dimir-control:
     weight: 0.2716
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.1333
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0341
+    weight: 0.0337
     avg_copies: 1.0
   mill:
     weight: 0.04
@@ -88,8 +88,8 @@ archetypes:
     weight: 0.1667
     avg_copies: 2.0
   goryo1:
-    weight: 0.989
-    avg_copies: 2.0
+    weight: 0.9892
+    avg_copies: 2.01
   grixis-control:
     weight: 1.0
     avg_copies: 1.5
@@ -199,7 +199,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-149:
-    weight: 0.5
+    weight: 0.4
     avg_copies: 1.0
   unknown-147:
     weight: 1.0

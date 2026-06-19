@@ -7,7 +7,7 @@ name: Subtlety
 scryfall_id: 701256d5-1389-48b7-9581-d6037209bd06
 set: mh2
 type: Creature — Elemental Incarnation
-meta_presence: 0.1126
+meta_presence: 0.1124
 archetypes:
   dimir-control:
     weight: 0.9753
@@ -46,7 +46,7 @@ archetypes:
     weight: 0.75
     avg_copies: 4.0
   esper-blink:
-    weight: 0.0294
+    weight: 0.029
     avg_copies: 2.5
   izzet-artifacts:
     weight: 0.0312
@@ -153,6 +153,9 @@ archetypes:
   unknown-147:
     weight: 1.0
     avg_copies: 3.0
+  unknown-151:
+    weight: 1.0
+    avg_copies: 4.0
   unknown-150:
     weight: 1.0
     avg_copies: 4.0

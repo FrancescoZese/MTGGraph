@@ -7,10 +7,10 @@ name: Consign to Memory
 scryfall_id: bc95af55-d1dd-4fe6-adb0-3ad6db20d986
 set: mh3
 type: Instant
-meta_presence: 0.4639
+meta_presence: 0.4641
 archetypes:
   ruby-storm:
-    weight: 0.0087
+    weight: 0.0086
     avg_copies: 2.0
   boros-energy:
     weight: 0.0019
@@ -40,7 +40,7 @@ archetypes:
     weight: 0.9345
     avg_copies: 2.41
   domain-zoo:
-    weight: 0.9318
+    weight: 0.9326
     avg_copies: 2.05
   mill:
     weight: 0.72
@@ -73,8 +73,8 @@ archetypes:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.9265
-    avg_copies: 2.43
+    weight: 0.9275
+    avg_copies: 2.45
   indomitable-creativity:
     weight: 0.75
     avg_copies: 3.78
@@ -109,8 +109,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   goryo1:
-    weight: 0.989
-    avg_copies: 3.08
+    weight: 0.9892
+    avg_copies: 3.04
   goryo7:
     weight: 1.0
     avg_copies: 2.0
@@ -293,7 +293,7 @@ archetypes:
     avg_copies: 3.0
   unknown-106:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 3.25
   unknown-108:
     weight: 1.0
     avg_copies: 4.0
@@ -344,7 +344,7 @@ archetypes:
     avg_copies: 4.0
   unknown-131:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.11
   unknown-132:
     weight: 1.0
     avg_copies: 4.0
@@ -362,13 +362,16 @@ archetypes:
     avg_copies: 4.0
   unknown-149:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.22
   unknown-147:
     weight: 1.0
     avg_copies: 4.0
   unknown-145:
     weight: 1.0
     avg_copies: 3.0
+  unknown-151:
+    weight: 1.0
+    avg_copies: 4.0
   unknown-150:
     weight: 1.0
     avg_copies: 3.0

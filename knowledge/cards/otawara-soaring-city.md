@@ -9,13 +9,13 @@ type: Legendary Land
 meta_presence: 0.1253
 archetypes:
   ruby-storm:
-    weight: 0.0174
+    weight: 0.0172
     avg_copies: 1.0
   dimir-control:
     weight: 0.5926
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.9483
+    weight: 0.9492
     avg_copies: 1.0
   goryo:
     weight: 0.0122
@@ -138,7 +138,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-106:
-    weight: 0.6667
+    weight: 0.5
     avg_copies: 1.0
   unknown-107:
     weight: 1.0

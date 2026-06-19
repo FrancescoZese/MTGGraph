@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.0108
 archetypes:
   amulet-titan:
-    weight: 0.0776
+    weight: 0.0763
     avg_copies: 1.0
   goryo:
     weight: 0.128

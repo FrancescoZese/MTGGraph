@@ -6,10 +6,10 @@ name: Hammer Time
 meta_share: 0.0023
 list_count: 9
 top_cards:
-- name: Stoneforge Mystic
+- name: Colossus Hammer
   weight: 1.0
   avg_copies: 4.0
-- name: Colossus Hammer
+- name: Stoneforge Mystic
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
@@ -33,10 +33,10 @@ top_cards:
 - name: Mox Opal
   weight: 1.0
   avg_copies: 2.89
-- name: Hallowed Fountain
+- name: Plains
   weight: 1.0
   avg_copies: 2.33
-- name: Plains
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.33
 - name: Inkmoth Nexus
@@ -72,10 +72,10 @@ top_cards:
 - name: Tormod's Crypt
   weight: 0.6667
   avg_copies: 1.33
-- name: Soulless Jailer
+- name: Arid Mesa
   weight: 0.5556
   avg_copies: 2.0
-- name: Arid Mesa
+- name: Soulless Jailer
   weight: 0.5556
   avg_copies: 2.0
 - name: Surge of Salvation
@@ -93,13 +93,13 @@ top_cards:
 - name: Kappa Cannoneer
   weight: 0.4444
   avg_copies: 1.5
-- name: Cryptic Coat
+- name: Stern Scolding
   weight: 0.4444
   avg_copies: 1.0
 - name: Pithing Needle
   weight: 0.4444
   avg_copies: 1.0
-- name: Stern Scolding
+- name: Cryptic Coat
   weight: 0.4444
   avg_copies: 1.0
 - name: Windswept Heath
@@ -126,10 +126,10 @@ top_cards:
 - name: Sigarda's Aid
   weight: 0.2222
   avg_copies: 1.5
-- name: Paradise Mantle
+- name: Voice of Victory
   weight: 0.2222
   avg_copies: 1.0
-- name: Voice of Victory
+- name: Paradise Mantle
   weight: 0.2222
   avg_copies: 1.0
 - name: Flare of Fortitude

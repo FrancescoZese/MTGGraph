@@ -10,13 +10,13 @@ type: Sorcery
 meta_presence: 0.2028
 archetypes:
   ruby-storm:
-    weight: 0.0087
+    weight: 0.0086
     avg_copies: 2.0
   dimir-control:
     weight: 0.5432
     avg_copies: 2.94
   eldrazi-tron:
-    weight: 0.018
+    weight: 0.0178
     avg_copies: 4.0
   goryo:
     weight: 0.9756
@@ -43,8 +43,8 @@ archetypes:
     weight: 0.0202
     avg_copies: 3.0
   esper-blink:
-    weight: 0.9559
-    avg_copies: 3.59
+    weight: 0.9565
+    avg_copies: 3.57
   samwise-combo:
     weight: 0.75
     avg_copies: 2.44
@@ -82,8 +82,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   goryo1:
-    weight: 0.978
-    avg_copies: 3.8
+    weight: 0.9785
+    avg_copies: 3.81
   goryo5:
     weight: 1.0
     avg_copies: 3.78
@@ -226,7 +226,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-131:
-    weight: 0.5
+    weight: 0.4
     avg_copies: 2.0
   unknown-132:
     weight: 1.0

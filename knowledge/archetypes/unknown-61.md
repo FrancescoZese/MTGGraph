@@ -5,22 +5,19 @@ name: 'Unknown #61'
 meta_share: 0.0054
 list_count: 21
 top_cards:
-- name: Sowing Mycospawn
-  weight: 1.0
-  avg_copies: 4.0
 - name: Ugin's Labyrinth
-  weight: 1.0
-  avg_copies: 4.0
-- name: Slumbering Trudge
   weight: 1.0
   avg_copies: 4.0
 - name: Emrakul, the Promised End
   weight: 1.0
   avg_copies: 4.0
-- name: Eldrazi Temple
+- name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
-- name: Kozilek's Command
+- name: Slumbering Trudge
+  weight: 1.0
+  avg_copies: 4.0
+- name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
 - name: Green Sun's Zenith
@@ -29,13 +26,16 @@ top_cards:
 - name: Disciple of Freyalise
   weight: 1.0
   avg_copies: 4.0
+- name: Kozilek's Command
+  weight: 1.0
+  avg_copies: 4.0
 - name: Fanatic of Rhonas
   weight: 1.0
   avg_copies: 3.86
-- name: Malevolent Rumble
+- name: Devourer of Destiny
   weight: 1.0
   avg_copies: 3.86
-- name: Devourer of Destiny
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 3.86
 - name: Fight Rigging
@@ -53,10 +53,10 @@ top_cards:
 - name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.05
-- name: Dryad Arbor
+- name: Mosswort Bridge
   weight: 1.0
   avg_copies: 1.0
-- name: Mosswort Bridge
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
 - name: Trinisphere
@@ -80,10 +80,10 @@ top_cards:
 - name: card:balustrade-wurm
   weight: 0.1905
   avg_copies: 1.0
-- name: Dismember
+- name: Boseiju, Who Endures
   weight: 0.0952
   avg_copies: 1.5
-- name: Boseiju, Who Endures
+- name: Dismember
   weight: 0.0952
   avg_copies: 1.5
 - name: Grove of the Burnwillows
@@ -95,25 +95,25 @@ top_cards:
 - name: Thief of Existence
   weight: 0.0476
   avg_copies: 3.0
-- name: Soul-Guide Lantern
+- name: Hashep Oasis
   weight: 0.0476
   avg_copies: 2.0
 - name: Force of Vigor
   weight: 0.0476
   avg_copies: 2.0
-- name: Hashep Oasis
+- name: Soul-Guide Lantern
   weight: 0.0476
   avg_copies: 2.0
-- name: Tajuru Preserver
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Icetill Explorer
-  weight: 0.0476
-  avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.0476
   avg_copies: 1.0
+- name: Tajuru Preserver
+  weight: 0.0476
+  avg_copies: 1.0
 - name: Bojuka Bog
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Icetill Explorer
   weight: 0.0476
   avg_copies: 1.0
 ---

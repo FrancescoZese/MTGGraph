@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0531
 archetypes:
   ruby-storm:
-    weight: 0.3304
+    weight: 0.3276
     avg_copies: 1.74
   dimir-control:
     weight: 0.2346
@@ -19,8 +19,8 @@ archetypes:
     weight: 0.0078
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.2759
-    avg_copies: 2.56
+    weight: 0.2797
+    avg_copies: 2.52
   azorius-control:
     weight: 0.0612
     avg_copies: 1.67
@@ -28,7 +28,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.47
   domain-zoo:
-    weight: 0.0114
+    weight: 0.0112
     avg_copies: 1.0
   boros-ponza:
     weight: 0.0965
@@ -67,13 +67,13 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   cosmogoyf-fling:
-    weight: 0.125
+    weight: 0.12
     avg_copies: 2.33
   scapeshift-combo:
     weight: 0.1667
     avg_copies: 4.0
   goryo1:
-    weight: 0.033
+    weight: 0.0323
     avg_copies: 1.67
   grixis-control:
     weight: 1.0

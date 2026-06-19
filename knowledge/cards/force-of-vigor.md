@@ -7,10 +7,10 @@ name: Force of Vigor
 scryfall_id: 017c415b-d635-43c6-92b8-8c95d1c4ff8d
 set: mh1
 type: Instant
-meta_presence: 0.1144
+meta_presence: 0.115
 archetypes:
   amulet-titan:
-    weight: 0.9914
+    weight: 0.9915
     avg_copies: 1.95
   hardened-scales:
     weight: 0.5
@@ -111,4 +111,7 @@ archetypes:
   unknown-145:
     weight: 1.0
     avg_copies: 3.0
+  unknown-151:
+    weight: 1.0
+    avg_copies: 2.0
 ---

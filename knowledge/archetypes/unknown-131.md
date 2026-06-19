@@ -4,19 +4,19 @@ colors:
 - U
 - B
 name: 'Unknown #131'
-meta_share: 0.001
-list_count: 4
+meta_share: 0.0013
+list_count: 5
 top_cards:
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
-- name: Solitude
-  weight: 1.0
-  avg_copies: 4.0
 - name: Starfield Shepherd
   weight: 1.0
   avg_copies: 4.0
-- name: Quantum Riddler
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
+- name: Phelia, Exuberant Shepherd
+  weight: 1.0
+  avg_copies: 4.0
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
@@ -28,80 +28,86 @@ top_cards:
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
+- name: Solitude
+  weight: 1.0
+  avg_copies: 4.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
-  weight: 1.0
-  avg_copies: 4.0
-- name: Phelia, Exuberant Shepherd
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 4.0
 - name: Practiced Offense
   weight: 1.0
-  avg_copies: 2.5
-- name: Mystical Dispute
+  avg_copies: 2.6
+- name: Deafening Silence
   weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 2.2
 - name: Consign to Memory
   weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 2.11
 - name: Ephemerate
-  weight: 1.0
-  avg_copies: 2.0
-- name: Deafening Silence
   weight: 1.0
   avg_copies: 2.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 2.0
-- name: Hallowed Fountain
+- name: Mystical Dispute
   weight: 1.0
-  avg_copies: 1.75
+  avg_copies: 2.0
 - name: Wrath of the Skies
   weight: 1.0
-  avg_copies: 1.75
+  avg_copies: 1.8
+- name: Hallowed Fountain
+  weight: 1.0
+  avg_copies: 1.8
 - name: Plains
   weight: 1.0
-  avg_copies: 1.5
-- name: Fatal Push
+  avg_copies: 1.4
+- name: Mockingbird
   weight: 1.0
-  avg_copies: 1.5
+  avg_copies: 1.2
 - name: Watery Grave
-  weight: 1.0
-  avg_copies: 1.0
-- name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 1.0
 - name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
-- name: Godless Shrine
-  weight: 1.0
-  avg_copies: 1.0
-- name: Mockingbird
-  weight: 1.0
-  avg_copies: 1.0
 - name: Island
   weight: 1.0
   avg_copies: 1.0
+- name: Godless Shrine
+  weight: 1.0
+  avg_copies: 1.0
+- name: Fatal Push
+  weight: 0.8
+  avg_copies: 1.5
+- name: Teferi, Time Raveler
+  weight: 0.8
+  avg_copies: 1.0
 - name: Rest in Peace
-  weight: 0.5
+  weight: 0.6
   avg_copies: 3.0
-- name: Ashiok, Dream Render
-  weight: 0.5
-  avg_copies: 2.0
 - name: Thoughtseize
-  weight: 0.5
+  weight: 0.4
+  avg_copies: 2.0
+- name: Ashiok, Dream Render
+  weight: 0.4
   avg_copies: 2.0
 - name: Surgical Extraction
-  weight: 0.5
+  weight: 0.4
   avg_copies: 1.0
 - name: Nihil Spellbomb
-  weight: 0.5
+  weight: 0.4
   avg_copies: 1.0
 - name: Burrenton Forge-Tender
-  weight: 0.5
+  weight: 0.4
   avg_copies: 1.0
+- name: Voice of Victory
+  weight: 0.2
+  avg_copies: 2.0
+- name: Containment Priest
+  weight: 0.2
+  avg_copies: 2.0
 ---
 Unclassified archetype, pending review.

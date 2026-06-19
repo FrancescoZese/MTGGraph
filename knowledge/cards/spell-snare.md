@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.1206
 archetypes:
   ruby-storm:
-    weight: 0.0087
+    weight: 0.0086
     avg_copies: 2.0
   dimir-control:
     weight: 0.9877
@@ -73,7 +73,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   goryo1:
-    weight: 0.0989
+    weight: 0.0968
     avg_copies: 1.3
   goryo2:
     weight: 1.0
@@ -152,7 +152,7 @@ archetypes:
     avg_copies: 2.0
   unknown-106:
     weight: 1.0
-    avg_copies: 2.33
+    avg_copies: 2.2
   unknown-107:
     weight: 1.0
     avg_copies: 2.0
@@ -166,6 +166,9 @@ archetypes:
     weight: 0.5
     avg_copies: 3.0
   unknown-125:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-151:
     weight: 1.0
     avg_copies: 2.0
   unknown-150:

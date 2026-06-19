@@ -147,40 +147,40 @@ top_cards:
 - name: Hapatra, Vizier of Poisons
   weight: 0.069
   avg_copies: 1.0
-- name: Essence Warden
+- name: Crime
   weight: 0.0517
   avg_copies: 1.0
-- name: Crime
+- name: Essence Warden
   weight: 0.0517
   avg_copies: 1.0
 - name: Assassin's Trophy
   weight: 0.0345
   avg_copies: 1.0
-- name: Sylvan Safekeeper
-  weight: 0.0172
-  avg_copies: 1.0
-- name: Surgical Extraction
+- name: Creeping Corrosion
   weight: 0.0172
   avg_copies: 1.0
 - name: Nurturing Peatland
   weight: 0.0172
   avg_copies: 1.0
-- name: Creeping Corrosion
-  weight: 0.0172
-  avg_copies: 1.0
-- name: Cankerbloom
-  weight: 0.0172
-  avg_copies: 1.0
-- name: Spore Frog
-  weight: 0.0172
-  avg_copies: 1.0
-- name: Shifting Woodland
+- name: Vicious Rivalry
   weight: 0.0172
   avg_copies: 1.0
 - name: Collector Ouphe
   weight: 0.0172
   avg_copies: 1.0
-- name: Vicious Rivalry
+- name: Spore Frog
+  weight: 0.0172
+  avg_copies: 1.0
+- name: Cankerbloom
+  weight: 0.0172
+  avg_copies: 1.0
+- name: Sylvan Safekeeper
+  weight: 0.0172
+  avg_copies: 1.0
+- name: Shifting Woodland
+  weight: 0.0172
+  avg_copies: 1.0
+- name: Surgical Extraction
   weight: 0.0172
   avg_copies: 1.0
 ---

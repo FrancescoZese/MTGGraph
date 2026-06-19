@@ -7,7 +7,7 @@ name: Elesh Norn, Mother of Machines
 scryfall_id: 44dcab01-1d13-4dfc-ae2f-fbaa3dd35087
 set: one
 type: Legendary Creature — Phyrexian Praetor
-meta_presence: 0.0157
+meta_presence: 0.0159
 archetypes:
   dimir-control:
     weight: 0.0123
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   esper-blink:
-    weight: 0.2206
+    weight: 0.2319
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.0833
