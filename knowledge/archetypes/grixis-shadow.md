@@ -7,31 +7,31 @@ name: Grixis Shadow
 meta_share: 0.001
 list_count: 4
 top_cards:
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 4.0
-- name: Death's Shadow
-  weight: 1.0
-  avg_copies: 4.0
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Death's Shadow
+  weight: 1.0
+  avg_copies: 4.0
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
-- name: Scalding Tarn
+- name: Moonshadow
   weight: 1.0
   avg_copies: 3.75
-- name: Moonshadow
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 3.75
 - name: Fatal Push
@@ -46,10 +46,10 @@ top_cards:
 - name: Unholy Heat
   weight: 1.0
   avg_copies: 2.25
-- name: Blood Crypt
+- name: Watery Grave
   weight: 1.0
   avg_copies: 2.0
-- name: Watery Grave
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 2.0
 - name: Vexing Bauble
@@ -67,13 +67,13 @@ top_cards:
 - name: Expressive Iteration
   weight: 0.75
   avg_copies: 3.33
-- name: Flusterstorm
+- name: Pyroclasm
   weight: 0.75
   avg_copies: 2.0
 - name: Meltdown
   weight: 0.75
   avg_copies: 2.0
-- name: Pyroclasm
+- name: Flusterstorm
   weight: 0.75
   avg_copies: 2.0
 - name: Nihil Spellbomb
@@ -94,22 +94,22 @@ top_cards:
 - name: End of the Hunt
   weight: 0.25
   avg_copies: 2.0
-- name: Dress Down
+- name: Abigale, Eloquent First-Year
+  weight: 0.25
+  avg_copies: 2.0
+- name: Damping Sphere
   weight: 0.25
   avg_copies: 2.0
 - name: Fire Magic
   weight: 0.25
   avg_copies: 2.0
-- name: Dauthi Voidwalker
-  weight: 0.25
-  avg_copies: 2.0
-- name: Abigale, Eloquent First-Year
-  weight: 0.25
-  avg_copies: 2.0
 - name: Counterspell
   weight: 0.25
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Dress Down
+  weight: 0.25
+  avg_copies: 2.0
+- name: Dauthi Voidwalker
   weight: 0.25
   avg_copies: 2.0
 - name: Kaito, Bane of Nightmares

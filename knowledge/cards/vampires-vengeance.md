@@ -10,8 +10,8 @@ type: Instant
 meta_presence: 0.0133
 archetypes:
   amulet-titan:
-    weight: 0.4153
-    avg_copies: 2.29
+    weight: 0.4167
+    avg_copies: 2.28
   indomitable-creativity:
     weight: 0.0833
     avg_copies: 1.0

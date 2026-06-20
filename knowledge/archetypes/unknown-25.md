@@ -7,16 +7,13 @@ name: 'Unknown #25'
 meta_share: 0.0005
 list_count: 2
 top_cards:
-- name: Growth Spiral
-  weight: 1.0
-  avg_copies: 4.0
 - name: Wilderness Reclamation
   weight: 1.0
   avg_copies: 4.0
-- name: Consult the Star Charts
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Galvanic Discharge
+- name: Consult the Star Charts
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
@@ -25,7 +22,10 @@ top_cards:
 - name: Misty Rainforest
   weight: 1.0
   avg_copies: 4.0
-- name: Consign to Memory
+- name: Growth Spiral
+  weight: 1.0
+  avg_copies: 4.0
+- name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
 - name: Counterspell
@@ -43,16 +43,16 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 2.0
-- name: Wooded Foothills
-  weight: 1.0
-  avg_copies: 2.0
-- name: Nature's Claim
+- name: Fire
   weight: 1.0
   avg_copies: 2.0
 - name: Fire Magic
   weight: 1.0
   avg_copies: 2.0
-- name: Fire
+- name: Wooded Foothills
+  weight: 1.0
+  avg_copies: 2.0
+- name: Nature's Claim
   weight: 1.0
   avg_copies: 2.0
 - name: Flashback
@@ -61,16 +61,10 @@ top_cards:
 - name: Cryptic Command
   weight: 1.0
   avg_copies: 1.5
-- name: Cori Mountain Monastery
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
-- name: Agna Qel'a
-  weight: 1.0
-  avg_copies: 1.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Mountain
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Kaheera, the Orphanguard
@@ -79,37 +73,43 @@ top_cards:
 - name: Spell Snare
   weight: 1.0
   avg_copies: 1.0
-- name: Hedge Maze
-  weight: 1.0
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 1.0
-  avg_copies: 1.0
 - name: Commercial District
   weight: 1.0
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Cori Mountain Monastery
   weight: 1.0
   avg_copies: 1.0
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
-- name: Forest
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Agna Qel'a
+  weight: 1.0
+  avg_copies: 1.0
+- name: Otawara, Soaring City
+  weight: 1.0
+  avg_copies: 1.0
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
+- name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
 - name: Mistrise Village
   weight: 1.0
   avg_copies: 1.0
+- name: Mountain
+  weight: 1.0
+  avg_copies: 1.0
 - name: Brainsurge
   weight: 0.5
   avg_copies: 2.0
-- name: Force of Negation
+- name: Flame of Anor
   weight: 0.5
   avg_copies: 2.0
-- name: Flame of Anor
+- name: Force of Negation
   weight: 0.5
   avg_copies: 2.0
 - name: Lórien Revealed

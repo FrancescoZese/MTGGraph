@@ -12,7 +12,7 @@ archetypes:
     weight: 0.0078
     avg_copies: 2.0
   eldrazi-tron:
-    weight: 0.0828
+    weight: 0.08
     avg_copies: 1.0
   amulet-titan:
     weight: 1.0
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.463
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.9074
+    weight: 0.9091
     avg_copies: 1.0
   kethis-combo:
     weight: 1.0
@@ -33,7 +33,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.9
   eldrazi-ramp:
-    weight: 0.1413
+    weight: 0.1489
     avg_copies: 1.0
   simic-ritual:
     weight: 0.942
@@ -43,16 +43,16 @@ archetypes:
     avg_copies: 1.0
   samwise-combo:
     weight: 1.0
-    avg_copies: 1.9
+    avg_copies: 1.91
   indomitable-creativity:
     weight: 0.4167
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.9932
+    weight: 0.9935
     avg_copies: 1.65
   dredge:
-    weight: 0.8889
-    avg_copies: 1.53
+    weight: 0.8947
+    avg_copies: 1.55
   izzet-artifacts:
     weight: 0.0625
     avg_copies: 1.0
@@ -69,7 +69,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.2
+    weight: 0.1923
     avg_copies: 1.22
   scapeshift-combo:
     weight: 1.0
@@ -111,7 +111,7 @@ archetypes:
     weight: 0.96
     avg_copies: 1.0
   unknown-67:
-    weight: 0.6444
+    weight: 0.6383
     avg_copies: 1.0
   unknown-76:
     weight: 1.0
@@ -136,7 +136,7 @@ archetypes:
     avg_copies: 1.0
   unknown-126:
     weight: 1.0
-    avg_copies: 1.71
+    avg_copies: 1.78
   unknown-130:
     weight: 1.0
     avg_copies: 1.0

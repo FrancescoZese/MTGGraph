@@ -10,7 +10,7 @@ type: Sorcery — Lesson
 meta_presence: 0.0015
 archetypes:
   eldrazi-ramp:
-    weight: 0.0435
+    weight: 0.0426
     avg_copies: 1.0
   unknown-45:
     weight: 0.0526

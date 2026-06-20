@@ -6,13 +6,13 @@ name: Soul-Guide Lantern
 scryfall_id: f4907e7b-d6d5-4e9b-968f-bce34ae4a577
 set: eoc
 type: Artifact
-meta_presence: 0.0975
+meta_presence: 0.0982
 archetypes:
   ruby-storm:
-    weight: 0.0172
+    weight: 0.0171
     avg_copies: 2.0
   boros-energy:
-    weight: 0.1098
+    weight: 0.1094
     avg_copies: 1.1
   dimir-control:
     weight: 0.0247
@@ -21,16 +21,16 @@ archetypes:
     weight: 0.2248
     avg_copies: 1.55
   eldrazi-tron:
-    weight: 0.0118
+    weight: 0.0114
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.2712
+    weight: 0.275
     avg_copies: 1.0
   goryo:
-    weight: 0.0061
+    weight: 0.0059
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0612
+    weight: 0.0588
     avg_copies: 2.67
   jeskai-control:
     weight: 0.3667
@@ -45,25 +45,25 @@ archetypes:
     weight: 0.0625
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.0702
+    weight: 0.0684
     avg_copies: 1.88
   eldrazi-ramp:
-    weight: 0.1087
+    weight: 0.1064
     avg_copies: 1.0
   simic-ritual:
     weight: 0.0145
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0909
-    avg_copies: 1.06
+    weight: 0.0922
+    avg_copies: 1.05
   esper-blink:
-    weight: 0.0145
+    weight: 0.0137
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.898
+    weight: 0.902
     avg_copies: 1.08
   azorius-blink:
-    weight: 0.0488
+    weight: 0.0455
     avg_copies: 1.5
   izzet-artifacts:
     weight: 0.5
@@ -78,7 +78,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.0108
+    weight: 0.0102
     avg_copies: 1.0
   unknown-10:
     weight: 1.0
@@ -87,11 +87,11 @@ archetypes:
     weight: 0.6
     avg_copies: 1.33
   unknown-15:
-    weight: 0.6
+    weight: 0.6667
     avg_copies: 1.0
   unknown-16:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.4
   unknown-30:
     weight: 0.5
     avg_copies: 1.0
@@ -118,6 +118,9 @@ archetypes:
     avg_copies: 1.0
   unknown-63:
     weight: 1.0
+    avg_copies: 1.0
+  unknown-70:
+    weight: 0.2
     avg_copies: 1.0
   unknown-71:
     weight: 1.0

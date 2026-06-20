@@ -10,13 +10,13 @@ type: Enchantment
 meta_presence: 0.011
 archetypes:
   domain-zoo:
-    weight: 0.0112
+    weight: 0.0108
     avg_copies: 1.0
   simic-ritual:
     weight: 0.0145
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.0833
+    weight: 0.08
     avg_copies: 1.0
   the-rock:
     weight: 0.5
@@ -35,7 +35,7 @@ archetypes:
     avg_copies: 2.0
   unknown-52:
     weight: 1.0
-    avg_copies: 1.25
+    avg_copies: 1.22
   unknown-68:
     weight: 0.7037
     avg_copies: 1.89

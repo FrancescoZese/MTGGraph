@@ -11,6 +11,6 @@ type: Legendary Creature — Elf Druid
 meta_presence: 0.0003
 archetypes:
   kethis-combo:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 1.0
 ---

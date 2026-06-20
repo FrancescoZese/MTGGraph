@@ -6,7 +6,7 @@ name: Meticulous Archive
 scryfall_id: 652236c2-84ef-45e4-b5fc-ed6170bc3d6c
 set: mkm
 type: Land — Plains Island
-meta_presence: 0.1576
+meta_presence: 0.1606
 archetypes:
   dimir-control:
     weight: 0.1358
@@ -15,11 +15,11 @@ archetypes:
     weight: 0.9922
     avg_copies: 1.0
   goryo:
-    weight: 0.9878
+    weight: 0.9882
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.02
   living-end:
     weight: 0.2407
     avg_copies: 1.0
@@ -33,7 +33,7 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0556
+    weight: 0.0545
     avg_copies: 1.0
   hammer-time:
     weight: 0.7778
@@ -49,7 +49,7 @@ archetypes:
     avg_copies: 2.0
   azorius-blink:
     weight: 1.0
-    avg_copies: 1.88
+    avg_copies: 1.89
   esper-control:
     weight: 1.0
     avg_copies: 2.0
@@ -99,7 +99,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0769
+    weight: 0.0698
     avg_copies: 1.0
   unknown-54:
     weight: 0.3333
@@ -109,7 +109,7 @@ archetypes:
     avg_copies: 1.0
   unknown-62:
     weight: 1.0
-    avg_copies: 1.6
+    avg_copies: 1.59
   unknown-60:
     weight: 1.0
     avg_copies: 1.0
@@ -117,10 +117,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.0222
+    weight: 0.0213
     avg_copies: 1.0
   unknown-70:
-    weight: 0.6667
+    weight: 0.8
     avg_copies: 1.0
   unknown-74:
     weight: 1.0
@@ -132,7 +132,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-88:
-    weight: 0.1429
+    weight: 0.1111
     avg_copies: 1.0
   unknown-87:
     weight: 1.0
@@ -145,13 +145,13 @@ archetypes:
     avg_copies: 2.0
   unknown-106:
     weight: 1.0
-    avg_copies: 1.5
+    avg_copies: 1.6
   unknown-108:
     weight: 1.0
     avg_copies: 1.0
   unknown-109:
     weight: 1.0
-    avg_copies: 1.17
+    avg_copies: 1.14
   unknown-111:
     weight: 0.3333
     avg_copies: 1.0
@@ -163,7 +163,7 @@ archetypes:
     avg_copies: 1.0
   unknown-131:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.83
   unknown-140:
     weight: 1.0
     avg_copies: 2.0

@@ -6,10 +6,10 @@ name: Celestial Colonnade
 scryfall_id: 4c830a99-595b-4aed-9f6b-85a78917f498
 set: uma
 type: Land
-meta_presence: 0.0015
+meta_presence: 0.0018
 archetypes:
   azorius-control:
-    weight: 0.0204
+    weight: 0.0392
     avg_copies: 1.0
   esper-control:
     weight: 1.0

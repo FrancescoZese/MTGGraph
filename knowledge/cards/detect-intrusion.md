@@ -9,12 +9,12 @@ type: Unknown
 meta_presence: 0.0023
 archetypes:
   affinity:
-    weight: 0.0057
+    weight: 0.0056
     avg_copies: 2.0
   neoform-combo:
-    weight: 0.0185
+    weight: 0.0182
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.1463
+    weight: 0.1364
     avg_copies: 1.83
 ---

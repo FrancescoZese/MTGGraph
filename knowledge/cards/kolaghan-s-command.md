@@ -11,7 +11,7 @@ type: Instant
 meta_presence: 0.0018
 archetypes:
   rakdos-aggro:
-    weight: 0.0667
+    weight: 0.0625
     avg_copies: 1.0
   grixis-control:
     weight: 0.5
@@ -29,6 +29,6 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-120:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
 ---

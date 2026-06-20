@@ -6,10 +6,10 @@ name: Stomping Ground
 scryfall_id: 69be21b4-c613-47c6-ba57-f4785861af3e
 set: eoe
 type: Land — Mountain Forest
-meta_presence: 0.0929
+meta_presence: 0.0932
 archetypes:
   ruby-storm:
-    weight: 0.0948
+    weight: 0.094
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.0078
@@ -21,13 +21,13 @@ archetypes:
     weight: 0.0938
     avg_copies: 1.67
   eldrazi-ramp:
-    weight: 0.9783
-    avg_copies: 1.44
+    weight: 0.9787
+    avg_copies: 1.45
   simic-ritual:
     weight: 0.0435
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.1768
+    weight: 0.1748
     avg_copies: 1.06
   4c-omnath:
     weight: 0.5
@@ -36,11 +36,11 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.4422
+    weight: 0.451
     avg_copies: 1.12
   dredge:
-    weight: 0.8889
-    avg_copies: 1.75
+    weight: 0.8947
+    avg_copies: 1.76
   izzet-artifacts:
     weight: 0.0312
     avg_copies: 1.0

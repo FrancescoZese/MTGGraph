@@ -6,7 +6,7 @@ name: Nihil Spellbomb
 scryfall_id: e5892a23-efae-4731-9b8f-41c87960fe93
 set: a25
 type: Artifact
-meta_presence: 0.0865
+meta_presence: 0.0879
 archetypes:
   dimir-control:
     weight: 0.3086
@@ -15,10 +15,10 @@ archetypes:
     weight: 0.0078
     avg_copies: 1.0
   goryo:
-    weight: 0.3659
-    avg_copies: 1.38
+    weight: 0.3765
+    avg_copies: 1.37
   domain-zoo:
-    weight: 0.6292
+    weight: 0.6022
     avg_copies: 1.2
   mill:
     weight: 0.2
@@ -35,17 +35,20 @@ archetypes:
   hollow-one:
     weight: 0.25
     avg_copies: 2.12
+  kethis-combo:
+    weight: 0.1667
+    avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0217
+    weight: 0.0213
     avg_copies: 3.5
   simic-ritual:
     weight: 0.0145
     avg_copies: 1.0
   esper-blink:
-    weight: 0.2174
-    avg_copies: 1.67
+    weight: 0.2192
+    avg_copies: 1.69
   azorius-blink:
-    weight: 0.0244
+    weight: 0.0227
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
@@ -54,13 +57,13 @@ archetypes:
     weight: 0.75
     avg_copies: 1.33
   rakdos-aggro:
-    weight: 0.3333
+    weight: 0.3125
     avg_copies: 1.2
   the-rock:
     weight: 0.5
     avg_copies: 1.0
   goryo1:
-    weight: 0.2151
+    weight: 0.2041
     avg_copies: 1.1
   goryo5:
     weight: 0.1111
@@ -111,8 +114,8 @@ archetypes:
     weight: 0.0526
     avg_copies: 2.0
   unknown-47:
-    weight: 0.6923
-    avg_copies: 1.7
+    weight: 0.7209
+    avg_copies: 1.74
   unknown-52:
     weight: 1.0
     avg_copies: 2.0
@@ -150,8 +153,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-106:
-    weight: 0.5
-    avg_copies: 1.5
+    weight: 0.6
+    avg_copies: 2.0
   unknown-111:
     weight: 1.0
     avg_copies: 1.0
@@ -162,7 +165,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-120:
-    weight: 0.5
+    weight: 0.6667
     avg_copies: 1.0
   unknown-125:
     weight: 1.0
@@ -171,7 +174,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-131:
-    weight: 0.4
+    weight: 0.5
     avg_copies: 1.0
   unknown-132:
     weight: 1.0

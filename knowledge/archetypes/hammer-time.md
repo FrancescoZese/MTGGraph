@@ -6,10 +6,10 @@ name: Hammer Time
 meta_share: 0.0023
 list_count: 9
 top_cards:
-- name: Colossus Hammer
+- name: Stoneforge Mystic
   weight: 1.0
   avg_copies: 4.0
-- name: Stoneforge Mystic
+- name: Colossus Hammer
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
@@ -93,22 +93,22 @@ top_cards:
 - name: Kappa Cannoneer
   weight: 0.4444
   avg_copies: 1.5
+- name: Cryptic Coat
+  weight: 0.4444
+  avg_copies: 1.0
 - name: Stern Scolding
   weight: 0.4444
   avg_copies: 1.0
 - name: Pithing Needle
   weight: 0.4444
   avg_copies: 1.0
-- name: Cryptic Coat
-  weight: 0.4444
-  avg_copies: 1.0
 - name: Windswept Heath
   weight: 0.3333
   avg_copies: 4.0
-- name: Suncleanser
+- name: Damping Sphere
   weight: 0.3333
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Suncleanser
   weight: 0.3333
   avg_copies: 2.0
 - name: Springleaf Drum

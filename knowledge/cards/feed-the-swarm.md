@@ -10,15 +10,15 @@ type: Sorcery
 meta_presence: 0.0013
 archetypes:
   rakdos-aggro:
-    weight: 0.0667
+    weight: 0.0625
     avg_copies: 2.0
   goryo1:
-    weight: 0.0215
+    weight: 0.0204
     avg_copies: 1.0
   unknown-27:
     weight: 1.0
     avg_copies: 2.0
   unknown-120:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
 ---

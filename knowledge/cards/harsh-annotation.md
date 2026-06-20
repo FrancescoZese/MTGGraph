@@ -10,6 +10,6 @@ type: Instant
 meta_presence: 0.0003
 archetypes:
   samwise-combo:
-    weight: 0.0208
+    weight: 0.02
     avg_copies: 1.0
 ---

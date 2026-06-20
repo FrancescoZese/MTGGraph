@@ -2,16 +2,16 @@
 colors:
 - U
 name: Mono Blue Belcher
-meta_share: 0.0169
+meta_share: 0.0165
 list_count: 66
 top_cards:
-- name: Lotus Bloom
+- name: Whir of Invention
   weight: 1.0
   avg_copies: 4.0
 - name: Goblin Charbelcher
   weight: 1.0
   avg_copies: 4.0
-- name: Whir of Invention
+- name: Lotus Bloom
   weight: 1.0
   avg_copies: 4.0
 - name: Tameshi, Reality Architect
@@ -20,10 +20,10 @@ top_cards:
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 3.97
-- name: Disrupting Shoal
+- name: Hydroelectric Specimen
   weight: 1.0
   avg_copies: 3.95
-- name: Hydroelectric Specimen
+- name: Disrupting Shoal
   weight: 1.0
   avg_copies: 3.95
 - name: Sea Gate Restoration
@@ -143,28 +143,28 @@ top_cards:
 - name: Hope of Ghirapur
   weight: 0.0152
   avg_copies: 1.0
-- name: Dress Down
+- name: Erode
+  weight: 0.0152
+  avg_copies: 1.0
+- name: Witch Enchanter
   weight: 0.0152
   avg_copies: 1.0
 - name: Isochron Scepter
   weight: 0.0152
   avg_copies: 1.0
-- name: card:diary-of-dreams
-  weight: 0.0152
-  avg_copies: 1.0
-- name: Erode
-  weight: 0.0152
-  avg_copies: 1.0
 - name: Portable Hole
   weight: 0.0152
   avg_copies: 1.0
-- name: Displacement Wave
+- name: card:diary-of-dreams
   weight: 0.0152
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.0152
   avg_copies: 1.0
-- name: Witch Enchanter
+- name: Dress Down
+  weight: 0.0152
+  avg_copies: 1.0
+- name: Displacement Wave
   weight: 0.0152
   avg_copies: 1.0
 ---

@@ -6,10 +6,7 @@ name: 'Unknown #36'
 meta_share: 0.0003
 list_count: 1
 top_cards:
-- name: Subtlety
-  weight: 1.0
-  avg_copies: 4.0
-- name: Snapcaster Mage
+- name: Preordain
   weight: 1.0
   avg_copies: 4.0
 - name: Orcish Bowmasters
@@ -18,15 +15,21 @@ top_cards:
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Counterspell
+- name: Subtlety
   weight: 1.0
   avg_copies: 4.0
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Preordain
+- name: Counterspell
   weight: 1.0
   avg_copies: 4.0
+- name: Snapcaster Mage
+  weight: 1.0
+  avg_copies: 4.0
+- name: Liliana of the Veil
+  weight: 1.0
+  avg_copies: 3.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 3.0
@@ -36,43 +39,40 @@ top_cards:
 - name: Force of Negation
   weight: 1.0
   avg_copies: 3.0
-- name: Liliana of the Veil
+- name: Spell Snare
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 2.0
 - name: Watery Grave
-  weight: 1.0
-  avg_copies: 2.0
-- name: Inquisition of Kozilek
-  weight: 1.0
-  avg_copies: 2.0
-- name: Engineered Explosives
   weight: 1.0
   avg_copies: 2.0
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 2.0
-- name: Dauthi Voidwalker
-  weight: 1.0
-  avg_copies: 2.0
-- name: Cling to Dust
-  weight: 1.0
-  avg_copies: 2.0
-- name: Nihil Spellbomb
-  weight: 1.0
-  avg_copies: 2.0
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 2.0
-- name: Spell Snare
+- name: Surgical Extraction
   weight: 1.0
   avg_copies: 2.0
 - name: Undercity Sewers
   weight: 1.0
   avg_copies: 2.0
-- name: Surgical Extraction
+- name: Nihil Spellbomb
+  weight: 1.0
+  avg_copies: 2.0
+- name: Cling to Dust
+  weight: 1.0
+  avg_copies: 2.0
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 2.0
 - name: Quantum Riddler
+  weight: 1.0
+  avg_copies: 2.0
+- name: Engineered Explosives
+  weight: 1.0
+  avg_copies: 2.0
+- name: Inquisition of Kozilek
+  weight: 1.0
+  avg_copies: 2.0
+- name: Dauthi Voidwalker
   weight: 1.0
   avg_copies: 2.0
 - name: Island

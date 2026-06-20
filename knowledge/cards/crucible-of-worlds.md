@@ -6,16 +6,16 @@ name: Crucible of Worlds
 scryfall_id: 7f4893ef-f983-418b-b7a4-5f073c844545
 set: 2x2
 type: Artifact
-meta_presence: 0.0051
+meta_presence: 0.0058
 archetypes:
   eldrazi-tron:
-    weight: 0.0473
+    weight: 0.0629
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0185
+    weight: 0.0182
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.0526
+    weight: 0.0513
     avg_copies: 1.0
   unknown-12:
     weight: 1.0

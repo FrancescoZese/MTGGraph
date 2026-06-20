@@ -11,7 +11,7 @@ type: Creature — Beast
 meta_presence: 0.001
 archetypes:
   cosmogoyf-fling:
-    weight: 0.12
+    weight: 0.1154
     avg_copies: 1.0
   unknown-90:
     weight: 1.0

@@ -6,11 +6,11 @@ name: Arid Mesa
 scryfall_id: 25ac5405-df7b-4097-914a-022cb18e20d4
 set: mh2
 type: Land
-meta_presence: 0.3545
+meta_presence: 0.3532
 archetypes:
   ruby-storm:
-    weight: 0.8707
-    avg_copies: 2.49
+    weight: 0.8718
+    avg_copies: 2.48
   boros-energy:
     weight: 1.0
     avg_copies: 3.81
@@ -18,14 +18,14 @@ archetypes:
     weight: 0.9922
     avg_copies: 3.77
   azorius-control:
-    weight: 0.9388
+    weight: 0.9412
     avg_copies: 2.0
   jeskai-control:
     weight: 0.9667
     avg_copies: 3.48
   domain-zoo:
-    weight: 0.9775
-    avg_copies: 3.8
+    weight: 0.9785
+    avg_copies: 3.81
   burn:
     weight: 0.9286
     avg_copies: 1.92
@@ -39,10 +39,10 @@ archetypes:
     weight: 0.4062
     avg_copies: 1.85
   boros-ponza:
-    weight: 0.0789
-    avg_copies: 3.89
+    weight: 0.0855
+    avg_copies: 3.6
   izzet-prowess:
-    weight: 0.8081
+    weight: 0.801
     avg_copies: 2.36
   indomitable-creativity:
     weight: 0.9167
@@ -51,16 +51,16 @@ archetypes:
     weight: 0.7778
     avg_copies: 2.71
   dredge:
-    weight: 0.9444
-    avg_copies: 3.24
+    weight: 0.9474
+    avg_copies: 3.22
   azorius-blink:
-    weight: 0.7805
-    avg_copies: 2.19
+    weight: 0.7955
+    avg_copies: 2.2
   izzet-wizards:
     weight: 0.1
     avg_copies: 1.0
   rakdos-aggro:
-    weight: 0.6667
+    weight: 0.625
     avg_copies: 2.8
   bant-ritual:
     weight: 1.0
@@ -97,9 +97,12 @@ archetypes:
     avg_copies: 4.0
   unknown-16:
     weight: 1.0
-    avg_copies: 2.33
+    avg_copies: 2.6
   unknown-19:
     weight: 1.0
+    avg_copies: 2.0
+  unknown-22:
+    weight: 0.5
     avg_copies: 2.0
   unknown-23:
     weight: 0.5
@@ -114,8 +117,8 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.0
   unknown-62:
-    weight: 0.9
-    avg_copies: 3.5
+    weight: 0.8636
+    avg_copies: 3.37
   unknown-66:
     weight: 1.0
     avg_copies: 1.0
@@ -124,7 +127,7 @@ archetypes:
     avg_copies: 3.7
   unknown-70:
     weight: 1.0
-    avg_copies: 3.67
+    avg_copies: 3.8
   unknown-71:
     weight: 1.0
     avg_copies: 3.0
@@ -148,7 +151,7 @@ archetypes:
     avg_copies: 4.0
   unknown-88:
     weight: 1.0
-    avg_copies: 2.57
+    avg_copies: 2.56
   unknown-92:
     weight: 1.0
     avg_copies: 1.0
@@ -168,7 +171,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-106:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 1.0
   unknown-110:
     weight: 1.0

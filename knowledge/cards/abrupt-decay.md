@@ -11,13 +11,13 @@ type: Instant
 meta_presence: 0.0033
 archetypes:
   neoform-combo:
-    weight: 0.037
+    weight: 0.0364
     avg_copies: 3.0
   eldrazi-ramp:
-    weight: 0.0109
+    weight: 0.0106
     avg_copies: 2.0
   samwise-combo:
-    weight: 0.125
+    weight: 0.12
     avg_copies: 1.57
   indomitable-creativity:
     weight: 0.1667

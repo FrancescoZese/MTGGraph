@@ -7,8 +7,11 @@ name: Annul
 scryfall_id: 4feeebea-aa55-4599-ab5a-4e41a54d0dfd
 set: eoe
 type: Instant
-meta_presence: 0.001
+meta_presence: 0.0013
 archetypes:
+  kethis-combo:
+    weight: 0.1667
+    avg_copies: 1.0
   izzet-artifacts:
     weight: 0.0625
     avg_copies: 2.0
@@ -16,6 +19,6 @@ archetypes:
     weight: 0.1
     avg_copies: 1.0
   unknown-15:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 1.0
 ---

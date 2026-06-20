@@ -8,9 +8,12 @@ name: Architects of Will
 scryfall_id: 6f614bb4-92e3-4ae0-9f2f-294434706c48
 set: arc
 type: Artifact Creature — Human Wizard
-meta_presence: 0.0005
+meta_presence: 0.0008
 archetypes:
   living-end:
     weight: 0.037
     avg_copies: 2.0
+  unknown-67:
+    weight: 0.0213
+    avg_copies: 3.0
 ---

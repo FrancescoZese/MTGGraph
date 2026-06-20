@@ -6,28 +6,16 @@ name: 'Unknown #20'
 meta_share: 0.0008
 list_count: 3
 top_cards:
-- name: Polluted Delta
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Agatha's Soul Cauldron
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Abhorrent Oculus
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
-  weight: 1.0
-  avg_copies: 4.0
-- name: Pensive Professor
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 4.0
-- name: Gran-Gran
-  weight: 1.0
-  avg_copies: 4.0
-- name: Fatal Push
+- name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 4.0
 - name: Unearth
@@ -36,22 +24,34 @@ top_cards:
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
+- name: Gran-Gran
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 4.0
+- name: Pensive Professor
+  weight: 1.0
+  avg_copies: 4.0
 - name: Watery Grave
   weight: 1.0
   avg_copies: 3.67
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.33
-- name: Harbinger of the Seas
-  weight: 1.0
-  avg_copies: 2.67
 - name: Undercity Sewers
   weight: 1.0
   avg_copies: 2.67
-- name: Force of Negation
+- name: Harbinger of the Seas
+  weight: 1.0
+  avg_copies: 2.67
+- name: Darkslick Shores
   weight: 1.0
   avg_copies: 2.0
-- name: Darkslick Shores
+- name: Force of Negation
   weight: 1.0
   avg_copies: 2.0
 - name: Island
@@ -60,10 +60,10 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 1.33
-- name: Thassa's Oracle
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.0
-- name: Bloodstained Mire
+- name: Thassa's Oracle
   weight: 1.0
   avg_copies: 1.0
 - name: Fatestitcher
@@ -90,13 +90,13 @@ top_cards:
 - name: Pyroclasm
   weight: 0.3333
   avg_copies: 2.0
-- name: Walking Ballista
+- name: Blood Crypt
   weight: 0.3333
   avg_copies: 1.0
 - name: Vizier of Tumbling Sands
   weight: 0.3333
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Walking Ballista
   weight: 0.3333
   avg_copies: 1.0
 - name: Engineered Explosives

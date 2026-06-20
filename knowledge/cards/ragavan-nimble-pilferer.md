@@ -7,7 +7,7 @@ name: Ragavan, Nimble Pilferer
 scryfall_id: a9738cda-adb1-47fb-9f4c-ecd930228c4d
 set: mh2
 type: Legendary Creature — Monkey Pirate
-meta_presence: 0.2225
+meta_presence: 0.2197
 archetypes:
   boros-energy:
     weight: 1.0
@@ -19,7 +19,7 @@ archetypes:
     weight: 0.0333
     avg_copies: 4.0
   domain-zoo:
-    weight: 0.9888
+    weight: 0.9892
     avg_copies: 3.92
   burn:
     weight: 0.1071
@@ -28,13 +28,13 @@ archetypes:
     weight: 0.913
     avg_copies: 3.0
   boros-ponza:
-    weight: 0.0263
+    weight: 0.0256
     avg_copies: 4.0
   izzet-prowess:
-    weight: 0.0051
+    weight: 0.0049
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.0244
+    weight: 0.0227
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
@@ -43,7 +43,7 @@ archetypes:
     weight: 0.75
     avg_copies: 3.67
   rakdos-aggro:
-    weight: 0.1333
+    weight: 0.125
     avg_copies: 1.5
   izzet-splinter-twin:
     weight: 0.5
@@ -55,7 +55,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   goryo1:
-    weight: 0.043
+    weight: 0.0408
     avg_copies: 2.75
   izzet-murktide:
     weight: 1.0
@@ -88,7 +88,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-62:
-    weight: 0.05
+    weight: 0.0455
     avg_copies: 3.0
   unknown-66:
     weight: 1.0
@@ -97,8 +97,8 @@ archetypes:
     weight: 0.9259
     avg_copies: 3.36
   unknown-70:
-    weight: 0.6667
-    avg_copies: 4.0
+    weight: 0.8
+    avg_copies: 3.75
   unknown-79:
     weight: 1.0
     avg_copies: 4.0
@@ -134,5 +134,5 @@ archetypes:
     avg_copies: 4.0
   unknown-149:
     weight: 1.0
-    avg_copies: 2.6
+    avg_copies: 2.71
 ---

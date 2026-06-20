@@ -4,7 +4,7 @@ colors:
 - B
 - R
 name: 'Unknown #68'
-meta_share: 0.0069
+meta_share: 0.0068
 list_count: 27
 top_cards:
 - name: Ocelot Pride
@@ -46,13 +46,13 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.04
-- name: Blood Crypt
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Thoughtseize
@@ -121,10 +121,10 @@ top_cards:
 - name: Orim's Chant
   weight: 0.3333
   avg_copies: 1.33
-- name: The Legend of Roku
+- name: Prismatic Ending
   weight: 0.2963
   avg_copies: 1.0
-- name: Prismatic Ending
+- name: The Legend of Roku
   weight: 0.2963
   avg_copies: 1.0
 - name: Kroxa, Titan of Death's Hunger
@@ -133,10 +133,10 @@ top_cards:
 - name: End of the Hunt
   weight: 0.2222
   avg_copies: 1.0
-- name: Celestial Purge
+- name: Surgical Extraction
   weight: 0.2222
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Celestial Purge
   weight: 0.2222
   avg_copies: 1.0
 - name: Ob Nixilis, the Adversary
@@ -145,10 +145,10 @@ top_cards:
 - name: Damping Sphere
   weight: 0.1481
   avg_copies: 1.75
-- name: Meltdown
+- name: Raucous Theater
   weight: 0.1481
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Meltdown
   weight: 0.1481
   avg_copies: 1.0
 - name: Fulminator Mage

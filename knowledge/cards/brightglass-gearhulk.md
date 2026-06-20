@@ -8,14 +8,14 @@ name: Brightglass Gearhulk
 scryfall_id: 3dea5b45-925c-4732-8e9d-fa8232792736
 set: dft
 type: Artifact Creature — Construct
-meta_presence: 0.0026
+meta_presence: 0.003
 archetypes:
   unknown-80:
     weight: 1.0
     avg_copies: 2.5
   unknown-88:
     weight: 1.0
-    avg_copies: 2.57
+    avg_copies: 2.67
   unknown-142:
     weight: 1.0
     avg_copies: 2.0

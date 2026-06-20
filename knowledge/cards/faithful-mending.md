@@ -8,10 +8,10 @@ name: Faithful Mending
 scryfall_id: 50752ca9-ea85-4c4b-9bf5-4f8759a7dcec
 set: mid
 type: Instant
-meta_presence: 0.0429
+meta_presence: 0.0433
 archetypes:
   goryo:
-    weight: 0.9878
+    weight: 0.9882
     avg_copies: 2.85
   reanimator:
     weight: 0.037

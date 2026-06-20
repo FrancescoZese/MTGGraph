@@ -7,13 +7,13 @@ name: Tishana's Tidebinder
 scryfall_id: 907b3d1d-8c85-4707-80b5-c4d832df9846
 set: lci
 type: Creature — Merfolk Wizard
-meta_presence: 0.0077
+meta_presence: 0.0075
 archetypes:
   jeskai-energy:
     weight: 0.0775
     avg_copies: 1.5
   mono-blue-tron:
-    weight: 0.25
+    weight: 0.2353
     avg_copies: 1.17
   izzet-wizards:
     weight: 0.3

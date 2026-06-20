@@ -15,7 +15,7 @@ archetypes:
     weight: 0.0145
     avg_copies: 4.0
   samwise-combo:
-    weight: 0.125
+    weight: 0.12
     avg_copies: 1.0
   soultrader-combo:
     weight: 1.0

@@ -10,7 +10,7 @@ type: Artifact
 meta_presence: 0.0028
 archetypes:
   kethis-combo:
-    weight: 1.0
+    weight: 0.8333
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.125

@@ -15,10 +15,10 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   boros-ponza:
-    weight: 0.0175
+    weight: 0.0171
     avg_copies: 2.0
   rakdos-aggro:
-    weight: 0.1333
+    weight: 0.1875
     avg_copies: 1.0
   goryo0:
     weight: 1.0

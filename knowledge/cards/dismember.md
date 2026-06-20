@@ -4,11 +4,11 @@ archetypes:
     weight: 0.0123
     avg_copies: 3.0
   eldrazi-tron:
-    weight: 0.9172
-    avg_copies: 1.88
+    weight: 0.92
+    avg_copies: 1.87
   amulet-titan:
-    weight: 0.9831
-    avg_copies: 2.3
+    weight: 0.9833
+    avg_copies: 2.29
   hardened-scales:
     weight: 1.0
     avg_copies: 1.75
@@ -16,13 +16,13 @@ archetypes:
     weight: 0.7407
     avg_copies: 2.12
   mono-blue-tron:
-    weight: 0.1875
-    avg_copies: 2.5
+    weight: 0.2353
+    avg_copies: 2.57
   kethis-combo:
     weight: 1.0
     avg_copies: 2.0
   eldrazi-ramp:
-    weight: 0.1087
+    weight: 0.1064
     avg_copies: 1.7
   simic-ritual:
     weight: 0.4638
@@ -31,10 +31,10 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.5782
-    avg_copies: 1.9
+    weight: 0.5686
+    avg_copies: 1.88
   rakdos-aggro:
-    weight: 0.1333
+    weight: 0.125
     avg_copies: 1.0
   goryo4:
     weight: 1.0
@@ -58,8 +58,8 @@ archetypes:
     weight: 0.8
     avg_copies: 1.14
   unknown-67:
-    weight: 0.2222
-    avg_copies: 1.5
+    weight: 0.234
+    avg_copies: 1.45
   unknown-76:
     weight: 1.0
     avg_copies: 2.33

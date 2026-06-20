@@ -7,14 +7,14 @@ name: Meltdown
 scryfall_id: 173369d2-dc39-4bfe-a602-b47156570365
 set: mh3
 type: Sorcery
-meta_presence: 0.1404
+meta_presence: 0.142
 archetypes:
   ruby-storm:
-    weight: 0.1207
+    weight: 0.1197
     avg_copies: 1.36
   boros-energy:
-    weight: 0.0625
-    avg_copies: 1.27
+    weight: 0.066
+    avg_copies: 1.26
   dimir-control:
     weight: 0.2716
     avg_copies: 2.5
@@ -25,13 +25,13 @@ archetypes:
     weight: 0.0811
     avg_copies: 1.67
   azorius-control:
-    weight: 0.0204
+    weight: 0.0196
     avg_copies: 1.0
   jeskai-control:
     weight: 0.1333
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0337
+    weight: 0.0323
     avg_copies: 1.0
   mill:
     weight: 0.04
@@ -46,22 +46,22 @@ archetypes:
     weight: 0.875
     avg_copies: 2.18
   boros-ponza:
-    weight: 0.0351
+    weight: 0.0342
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0978
+    weight: 0.0957
     avg_copies: 1.22
   simic-ritual:
     weight: 0.058
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.9343
+    weight: 0.932
     avg_copies: 1.82
   indomitable-creativity:
     weight: 0.1667
     avg_copies: 1.5
   dredge:
-    weight: 0.6667
+    weight: 0.6842
     avg_copies: 2.0
   izzet-artifacts:
     weight: 0.0312
@@ -80,16 +80,19 @@ archetypes:
     avg_copies: 2.0
   rakdos-aggro:
     weight: 1.0
-    avg_copies: 2.87
+    avg_copies: 2.88
   izzet-splinter-twin:
     weight: 0.5
     avg_copies: 2.0
+  cosmogoyf-fling:
+    weight: 0.0385
+    avg_copies: 1.0
   scapeshift-combo:
     weight: 0.1667
     avg_copies: 2.0
   goryo1:
-    weight: 0.9892
-    avg_copies: 2.01
+    weight: 0.9898
+    avg_copies: 2.02
   grixis-control:
     weight: 1.0
     avg_copies: 1.5
@@ -139,7 +142,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.0
   unknown-62:
-    weight: 0.05
+    weight: 0.0455
     avg_copies: 1.0
   unknown-64:
     weight: 1.0
@@ -188,7 +191,7 @@ archetypes:
     avg_copies: 3.0
   unknown-120:
     weight: 1.0
-    avg_copies: 2.5
+    avg_copies: 2.67
   unknown-122:
     weight: 0.8571
     avg_copies: 2.0
@@ -199,7 +202,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-149:
-    weight: 0.4
+    weight: 0.5714
     avg_copies: 1.0
   unknown-147:
     weight: 1.0

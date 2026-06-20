@@ -6,19 +6,19 @@ name: Floodfarm Verge
 scryfall_id: d53ed0db-1199-44b3-8eda-8189dfcf53d1
 set: dsk
 type: Land
-meta_presence: 0.0064
+meta_presence: 0.0063
 archetypes:
   jeskai-energy:
     weight: 0.0155
     avg_copies: 1.0
   azorius-control:
-    weight: 0.2857
+    weight: 0.2745
     avg_copies: 1.86
   esper-blink:
-    weight: 0.029
+    weight: 0.0274
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.0244
+    weight: 0.0227
     avg_copies: 1.0
   esper-midrange:
     weight: 1.0

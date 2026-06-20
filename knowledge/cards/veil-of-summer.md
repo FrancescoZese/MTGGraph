@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0341
 archetypes:
   ruby-storm:
-    weight: 0.0431
+    weight: 0.0427
     avg_copies: 2.8
   hardened-scales:
     weight: 0.75
@@ -19,20 +19,20 @@ archetypes:
     weight: 0.037
     avg_copies: 2.0
   neoform-combo:
-    weight: 0.8704
-    avg_copies: 2.49
+    weight: 0.8727
+    avg_copies: 2.47
   samwise-combo:
-    weight: 0.0208
+    weight: 0.02
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.4167
     avg_copies: 2.0
   broodscale-combo:
-    weight: 0.2993
+    weight: 0.2876
     avg_copies: 2.07
   cosmogoyf-fling:
-    weight: 0.48
-    avg_copies: 3.92
+    weight: 0.5
+    avg_copies: 3.85
   devoted-combo:
     weight: 1.0
     avg_copies: 3.0
@@ -46,7 +46,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-88:
-    weight: 0.1429
+    weight: 0.1111
     avg_copies: 2.0
   unknown-109:
     weight: 1.0

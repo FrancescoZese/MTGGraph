@@ -10,10 +10,10 @@ type: Creature — Goblin Sorcerer
 meta_presence: 0.0028
 archetypes:
   ruby-storm:
-    weight: 0.0517
+    weight: 0.0513
     avg_copies: 1.67
   neoform-combo:
-    weight: 0.0185
+    weight: 0.0182
     avg_copies: 4.0
   mono-red-belcher:
     weight: 0.0833
