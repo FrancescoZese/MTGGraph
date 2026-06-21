@@ -8,7 +8,7 @@ name: Claim // Fame
 scryfall_id: 15b0f214-8668-4921-88ba-7ccf38c9f770
 set: hou
 type: Sorcery // Sorcery
-meta_presence: 0.0008
+meta_presence: 0.0007
 archetypes:
   cosmogoyf-fling:
     weight: 0.1154

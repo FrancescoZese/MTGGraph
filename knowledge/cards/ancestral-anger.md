@@ -7,7 +7,7 @@ name: Ancestral Anger
 scryfall_id: 6c5a93d6-d4ab-4062-bb3c-1b5330bf15ad
 set: sos
 type: Sorcery
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-92:
     weight: 1.0

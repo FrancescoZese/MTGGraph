@@ -7,13 +7,13 @@ name: Orim's Chant
 scryfall_id: ee241079-1e5a-4224-b9cb-4fd3e0da687c
 set: mh3
 type: Instant
-meta_presence: 0.2022
+meta_presence: 0.2012
 archetypes:
   ruby-storm:
-    weight: 0.812
-    avg_copies: 3.14
+    weight: 0.8067
+    avg_copies: 3.15
   boros-energy:
-    weight: 0.8094
+    weight: 0.8083
     avg_copies: 1.76
   mono-blue-belcher:
     weight: 0.0606
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.0078
     avg_copies: 4.0
   goryo:
-    weight: 0.0235
+    weight: 0.0231
     avg_copies: 2.0
   azorius-control:
     weight: 1.0
@@ -37,13 +37,13 @@ archetypes:
     weight: 0.4167
     avg_copies: 3.56
   boros-ponza:
-    weight: 0.7692
+    weight: 0.7438
     avg_copies: 1.77
   4c-omnath:
     weight: 0.25
     avg_copies: 4.0
   esper-blink:
-    weight: 0.0274
+    weight: 0.0267
     avg_copies: 2.0
   indomitable-creativity:
     weight: 0.25
@@ -61,7 +61,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 4.0
   goryo0:
-    weight: 0.9474
+    weight: 0.95
     avg_copies: 3.95
   4c-omnath9:
     weight: 1.0
@@ -91,8 +91,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-26:
-    weight: 0.25
-    avg_copies: 2.25
+    weight: 0.2941
+    avg_copies: 2.2
   unknown-48:
     weight: 0.5
     avg_copies: 2.0
@@ -103,7 +103,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.33
   unknown-70:
-    weight: 0.4
+    weight: 0.3333
     avg_copies: 2.0
   unknown-83:
     weight: 1.0
@@ -112,7 +112,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.67
   unknown-88:
-    weight: 0.1111
+    weight: 0.0909
     avg_copies: 2.0
   unknown-93:
     weight: 1.0
@@ -134,11 +134,14 @@ archetypes:
     avg_copies: 4.0
   unknown-126:
     weight: 1.0
-    avg_copies: 2.89
+    avg_copies: 2.8
   unknown-140:
     weight: 1.0
     avg_copies: 4.0
   unknown-149:
     weight: 0.5714
     avg_copies: 2.0
+  unknown-152:
+    weight: 1.0
+    avg_copies: 3.0
 ---

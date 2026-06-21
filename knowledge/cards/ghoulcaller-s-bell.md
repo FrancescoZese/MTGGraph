@@ -6,7 +6,7 @@ name: Ghoulcaller's Bell
 scryfall_id: 863e7c2a-698c-4dce-a10b-ca58e4affa57
 set: isd
 type: Artifact
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-41:
     weight: 0.3333

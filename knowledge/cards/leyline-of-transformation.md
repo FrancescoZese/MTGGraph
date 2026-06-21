@@ -7,7 +7,7 @@ name: Leyline of Transformation
 scryfall_id: 4bd941ca-f3d2-44c1-8df3-851362f6b848
 set: dsk
 type: Enchantment
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-92:
     weight: 1.0

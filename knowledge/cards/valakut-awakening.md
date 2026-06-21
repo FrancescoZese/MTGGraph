@@ -10,7 +10,7 @@ meta_presence: 0.0351
 archetypes:
   ruby-storm:
     weight: 1.0
-    avg_copies: 1.96
+    avg_copies: 1.95
   mono-red-belcher:
     weight: 0.75
     avg_copies: 2.78
@@ -18,7 +18,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   goryo0:
-    weight: 0.1053
+    weight: 0.1
     avg_copies: 1.0
   unknown-11:
     weight: 0.8
@@ -27,6 +27,6 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-67:
-    weight: 0.0638
+    weight: 0.0612
     avg_copies: 1.0
 ---

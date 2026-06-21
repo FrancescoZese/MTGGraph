@@ -7,7 +7,7 @@ name: Stalactite Stalker
 scryfall_id: 5319c0b1-de54-492a-bdea-85a5a75d693e
 set: lci
 type: Creature — Goblin Rogue
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-33:
     weight: 1.0

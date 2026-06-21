@@ -7,10 +7,10 @@ name: Spore Frog
 scryfall_id: 6d42fd52-34ea-4d1b-80dc-58fb0593bb5b
 set: mh1
 type: Creature — Frog
-meta_presence: 0.0008
+meta_presence: 0.0007
 archetypes:
   yawgmoth-combo:
-    weight: 0.0172
+    weight: 0.0167
     avg_copies: 1.0
   unknown-102:
     weight: 1.0

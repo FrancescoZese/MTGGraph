@@ -7,7 +7,7 @@ name: This Town Ain't Big Enough
 scryfall_id: bb206e27-da4d-4abe-9d8c-6d18c5f2f52a
 set: otj
 type: Instant
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-112:
     weight: 1.0

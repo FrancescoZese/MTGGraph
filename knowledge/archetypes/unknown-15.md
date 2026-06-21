@@ -6,22 +6,22 @@ name: 'Unknown #15'
 meta_share: 0.0015
 list_count: 6
 top_cards:
-- name: Mox Opal
-  weight: 1.0
-  avg_copies: 4.0
-- name: Cori-Steel Cutter
-  weight: 1.0
-  avg_copies: 4.0
-- name: Tamiyo, Inquisitive Student
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Emry, Lurker of the Loch
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Saga
+- name: Tamiyo, Inquisitive Student
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cori-Steel Cutter
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
@@ -51,10 +51,10 @@ top_cards:
 - name: Aether Spellbomb
   weight: 1.0
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Mountain
@@ -84,22 +84,22 @@ top_cards:
 - name: Tormod's Crypt
   weight: 0.6667
   avg_copies: 1.33
-- name: Repeal
+- name: Fiery Islet
   weight: 0.6667
   avg_copies: 1.0
-- name: Fiery Islet
+- name: Skateboard
   weight: 0.6667
   avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.6667
   avg_copies: 1.0
-- name: Pithing Needle
-  weight: 0.6667
-  avg_copies: 1.0
 - name: Haywire Mite
   weight: 0.6667
   avg_copies: 1.0
-- name: Skateboard
+- name: Repeal
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Pithing Needle
   weight: 0.6667
   avg_copies: 1.0
 - name: Harbinger of the Seas
@@ -117,16 +117,16 @@ top_cards:
 - name: Preordain
   weight: 0.3333
   avg_copies: 1.0
-- name: Wooded Foothills
+- name: Shadowspear
   weight: 0.3333
   avg_copies: 1.0
-- name: Shadowspear
+- name: Grafdigger's Cage
   weight: 0.3333
   avg_copies: 1.0
 - name: Strix Serenade
   weight: 0.3333
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Wooded Foothills
   weight: 0.3333
   avg_copies: 1.0
 - name: Expressive Iteration
@@ -144,10 +144,10 @@ top_cards:
 - name: Sink into Stupor
   weight: 0.1667
   avg_copies: 2.0
-- name: Snapcaster Mage
+- name: Vandalblast
   weight: 0.1667
   avg_copies: 1.0
-- name: Lavaspur Boots
+- name: Snapcaster Mage
   weight: 0.1667
   avg_copies: 1.0
 - name: Annul
@@ -156,7 +156,7 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.1667
   avg_copies: 1.0
-- name: Vandalblast
+- name: Lavaspur Boots
   weight: 0.1667
   avg_copies: 1.0
 ---

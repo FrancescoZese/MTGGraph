@@ -6,7 +6,7 @@ name: Lair of the Hydra
 scryfall_id: b670bb0f-680f-4036-bdb6-ac73e866a398
 set: afr
 type: Land
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-14:
     weight: 0.5

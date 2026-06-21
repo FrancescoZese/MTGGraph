@@ -7,7 +7,7 @@ name: Harsh Annotation
 scryfall_id: e07a8fc7-c11c-4469-a31d-0abf40e57bbf
 set: sos
 type: Instant
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   samwise-combo:
     weight: 0.02

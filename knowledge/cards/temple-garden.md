@@ -6,7 +6,7 @@ name: Temple Garden
 scryfall_id: 6cdd2a74-63b3-4ff2-9c5a-a85dee63c3c9
 set: ecl
 type: Land — Forest Plains
-meta_presence: 0.0614
+meta_presence: 0.0618
 archetypes:
   jeskai-energy:
     weight: 0.0078
@@ -15,7 +15,7 @@ archetypes:
     weight: 0.2593
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.9785
+    weight: 0.9787
     avg_copies: 1.0
   neoform-combo:
     weight: 0.0182
@@ -69,7 +69,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.1702
+    weight: 0.1837
     avg_copies: 1.0
   unknown-72:
     weight: 1.0
@@ -91,7 +91,7 @@ archetypes:
     avg_copies: 1.0
   unknown-88:
     weight: 1.0
-    avg_copies: 2.89
+    avg_copies: 2.91
   unknown-93:
     weight: 1.0
     avg_copies: 1.0

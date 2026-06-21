@@ -7,7 +7,7 @@ name: Aven Interrupter
 scryfall_id: d3ca43a4-d194-440f-8099-f1fa103a108d
 set: otj
 type: Creature — Bird Rogue
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-62:
     weight: 0.0455

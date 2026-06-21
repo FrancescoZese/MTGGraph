@@ -25,13 +25,13 @@ archetypes:
     weight: 0.5
     avg_copies: 2.05
   izzet-prowess:
-    weight: 0.932
+    weight: 0.9327
     avg_copies: 2.56
   broodscale-combo:
     weight: 0.4444
     avg_copies: 1.93
   dredge:
-    weight: 0.1053
+    weight: 0.1
     avg_copies: 2.0
   izzet-artifacts:
     weight: 0.5625
@@ -55,7 +55,7 @@ archetypes:
     weight: 0.5
     avg_copies: 3.0
   goryo1:
-    weight: 0.0408
+    weight: 0.0404
     avg_copies: 1.0
   izzet-murktide:
     weight: 1.0
@@ -64,8 +64,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.75
   unknown-1:
-    weight: 0.3333
-    avg_copies: 2.0
+    weight: 0.4286
+    avg_copies: 2.33
   unknown-15:
     weight: 0.6667
     avg_copies: 2.67
@@ -97,8 +97,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-122:
-    weight: 0.8571
-    avg_copies: 4.0
+    weight: 0.8889
+    avg_copies: 3.88
   unknown-128:
     weight: 1.0
     avg_copies: 2.0

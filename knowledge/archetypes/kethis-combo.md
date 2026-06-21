@@ -8,25 +8,25 @@ name: Kethis Combo
 meta_share: 0.0015
 list_count: 6
 top_cards:
-- name: Kethis, the Hidden Hand
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mox Opal
-  weight: 1.0
-  avg_copies: 4.0
-- name: Tamiyo, Inquisitive Student
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Plaza of Heroes
   weight: 1.0
   avg_copies: 4.0
+- name: Kethis, the Hidden Hand
+  weight: 1.0
+  avg_copies: 4.0
 - name: Emry, Lurker of the Loch
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Mox Amber
   weight: 1.0
   avg_copies: 4.0
-- name: Mox Amber
+- name: Tamiyo, Inquisitive Student
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
 - name: Misty Rainforest
@@ -50,55 +50,55 @@ top_cards:
 - name: Dismember
   weight: 1.0
   avg_copies: 2.0
-- name: Jace, the Perfected Mind
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 1.67
-- name: Flooded Strand
+- name: Jace, the Perfected Mind
   weight: 1.0
   avg_copies: 1.67
 - name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 1.5
-- name: Island
-  weight: 1.0
-  avg_copies: 1.0
-- name: Watery Grave
+- name: Skateboard
   weight: 1.0
   avg_copies: 1.0
 - name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.0
-- name: Otawara, Soaring City
-  weight: 1.0
-  avg_copies: 1.0
-- name: Haywire Mite
-  weight: 1.0
-  avg_copies: 1.0
-- name: Lush Portico
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.0
-- name: Skateboard
+- name: Lush Portico
+  weight: 1.0
+  avg_copies: 1.0
+- name: Haywire Mite
+  weight: 1.0
+  avg_copies: 1.0
+- name: Otawara, Soaring City
+  weight: 1.0
+  avg_copies: 1.0
+- name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
 - name: Rona, Herald of Invasion
   weight: 0.8333
   avg_copies: 1.2
+- name: Sewer-veillance Cam
+  weight: 0.8333
+  avg_copies: 1.0
 - name: Gran-Gran
   weight: 0.8333
   avg_copies: 1.0
 - name: Gemstone Caverns
-  weight: 0.8333
-  avg_copies: 1.0
-- name: Sewer-veillance Cam
   weight: 0.8333
   avg_copies: 1.0
 - name: Consign to Memory
@@ -116,10 +116,10 @@ top_cards:
 - name: Nature's Claim
   weight: 0.1667
   avg_copies: 2.0
-- name: Ceremonious Rejection
+- name: Urza's Ruinous Blast
   weight: 0.1667
   avg_copies: 1.0
-- name: Urza's Ruinous Blast
+- name: Ceremonious Rejection
   weight: 0.1667
   avg_copies: 1.0
 - name: Dredger's Insight
@@ -131,13 +131,13 @@ top_cards:
 - name: Lluwen, Imperfect Naturalist
   weight: 0.1667
   avg_copies: 1.0
+- name: Annul
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Phelia, Exuberant Shepherd
   weight: 0.1667
   avg_copies: 1.0
 - name: Nihil Spellbomb
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Annul
   weight: 0.1667
   avg_copies: 1.0
 ---

@@ -7,10 +7,10 @@ name: Erode
 scryfall_id: 32e670da-7563-4f6a-a7db-4c126a440eb8
 set: sos
 type: Instant
-meta_presence: 0.0498
+meta_presence: 0.0509
 archetypes:
   boros-energy:
-    weight: 0.0302
+    weight: 0.0301
     avg_copies: 1.1
   mono-blue-belcher:
     weight: 0.0152
@@ -28,10 +28,10 @@ archetypes:
     weight: 0.25
     avg_copies: 1.67
   boros-ponza:
-    weight: 0.8205
-    avg_copies: 3.7
+    weight: 0.8264
+    avg_copies: 3.71
   esper-blink:
-    weight: 0.1096
+    weight: 0.1067
     avg_copies: 1.43
   samwise-combo:
     weight: 0.18
@@ -46,8 +46,8 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   goryo0:
-    weight: 0.4211
-    avg_copies: 2.0
+    weight: 0.45
+    avg_copies: 1.89
   goryo6:
     weight: 1.0
     avg_copies: 4.0
@@ -67,8 +67,8 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.75
   unknown-26:
-    weight: 0.9375
-    avg_copies: 3.8
+    weight: 0.9412
+    avg_copies: 3.81
   unknown-41:
     weight: 0.3333
     avg_copies: 1.0
@@ -102,4 +102,7 @@ archetypes:
   unknown-136:
     weight: 1.0
     avg_copies: 3.0
+  unknown-152:
+    weight: 1.0
+    avg_copies: 4.0
 ---

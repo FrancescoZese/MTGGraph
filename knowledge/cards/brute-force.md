@@ -7,7 +7,7 @@ name: Brute Force
 scryfall_id: 89db7256-3bd0-4c1d-9c6f-de81f7d3c1a2
 set: tsr
 type: Instant
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-92:
     weight: 1.0

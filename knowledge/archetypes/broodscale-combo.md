@@ -3,7 +3,7 @@ colors:
 - R
 - G
 name: Broodscale Combo
-meta_share: 0.0383
+meta_share: 0.0378
 list_count: 153
 top_cards:
 - name: Basking Broodscale
@@ -12,10 +12,10 @@ top_cards:
 - name: Malevolent Rumble
   weight: 1.0
   avg_copies: 3.98
-- name: Kozilek's Command
+- name: Glaring Fleshraker
   weight: 1.0
   avg_copies: 3.96
-- name: Glaring Fleshraker
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 3.96
 - name: Urza's Saga
@@ -204,10 +204,10 @@ top_cards:
 - name: Revitalizing Repast
   weight: 0.0131
   avg_copies: 2.5
-- name: Agatha's Soul Cauldron
+- name: Snow-Covered Forest
   weight: 0.0131
   avg_copies: 2.0
-- name: Snow-Covered Forest
+- name: Agatha's Soul Cauldron
   weight: 0.0131
   avg_copies: 2.0
 - name: Talisman of Resilience
@@ -216,22 +216,22 @@ top_cards:
 - name: Shadowspear
   weight: 0.0131
   avg_copies: 1.0
-- name: Nurturing Peatland
-  weight: 0.0131
-  avg_copies: 1.0
 - name: Skateboard
   weight: 0.0131
   avg_copies: 1.0
-- name: Eldrazi Linebreaker
-  weight: 0.0065
-  avg_copies: 4.0
+- name: Nurturing Peatland
+  weight: 0.0131
+  avg_copies: 1.0
 - name: Brushland
   weight: 0.0065
   avg_copies: 4.0
 - name: Spire of Industry
   weight: 0.0065
   avg_copies: 4.0
-- name: Mox Opal
+- name: Eldrazi Linebreaker
+  weight: 0.0065
+  avg_copies: 4.0
+- name: Formidable Speaker
   weight: 0.0065
   avg_copies: 3.0
 - name: Path to Exile
@@ -243,13 +243,10 @@ top_cards:
 - name: Darksteel Citadel
   weight: 0.0065
   avg_copies: 3.0
-- name: Formidable Speaker
+- name: Mox Opal
   weight: 0.0065
   avg_copies: 3.0
 - name: Heroic Intervention
-  weight: 0.0065
-  avg_copies: 2.0
-- name: Deafening Silence
   weight: 0.0065
   avg_copies: 2.0
 - name: Snakeskin Veil
@@ -258,31 +255,34 @@ top_cards:
 - name: Orim's Chant
   weight: 0.0065
   avg_copies: 2.0
-- name: Idol of False Gods
-  weight: 0.0065
-  avg_copies: 2.0
 - name: Talisman of Impulse
   weight: 0.0065
   avg_copies: 2.0
-- name: Yavimaya, Cradle of Growth
+- name: Idol of False Gods
+  weight: 0.0065
+  avg_copies: 2.0
+- name: Deafening Silence
+  weight: 0.0065
+  avg_copies: 2.0
+- name: Tunnel Ignus
   weight: 0.0065
   avg_copies: 1.0
 - name: Expedition Map
   weight: 0.0065
   avg_copies: 1.0
-- name: Lightning Bolt
+- name: Yavimaya, Cradle of Growth
+  weight: 0.0065
+  avg_copies: 1.0
+- name: Pawpatch Formation
   weight: 0.0065
   avg_copies: 1.0
 - name: Ghost Vacuum
   weight: 0.0065
   avg_copies: 1.0
-- name: Tunnel Ignus
+- name: Lightning Bolt
   weight: 0.0065
   avg_copies: 1.0
 - name: Disruptor Flute
-  weight: 0.0065
-  avg_copies: 1.0
-- name: Pawpatch Formation
   weight: 0.0065
   avg_copies: 1.0
 ---

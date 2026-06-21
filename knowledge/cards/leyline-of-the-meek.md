@@ -7,7 +7,7 @@ name: Leyline of the Meek
 scryfall_id: efc58757-abcc-41c9-b4d2-e70e9f387cbb
 set: gpt
 type: Enchantment
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-92:
     weight: 1.0

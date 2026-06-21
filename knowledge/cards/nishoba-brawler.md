@@ -10,7 +10,7 @@ type: Creature — Cat Warrior
 meta_presence: 0.0025
 archetypes:
   domain-zoo:
-    weight: 0.0108
+    weight: 0.0106
     avg_copies: 2.0
   unknown-85:
     weight: 0.9

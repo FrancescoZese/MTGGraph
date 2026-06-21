@@ -7,9 +7,9 @@ name: Volcanic Spite
 scryfall_id: 69490262-afc2-4692-8fac-b771a972c8f8
 set: mom
 type: Instant
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-26:
-    weight: 0.0625
+    weight: 0.0588
     avg_copies: 4.0
 ---

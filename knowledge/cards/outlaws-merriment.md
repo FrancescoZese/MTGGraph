@@ -8,9 +8,9 @@ name: Outlaws' Merriment
 scryfall_id: 5d7585ab-a364-471c-8ef1-318e459b4020
 set: eld
 type: Enchantment
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   boros-ponza:
-    weight: 0.0085
+    weight: 0.0083
     avg_copies: 1.5
 ---

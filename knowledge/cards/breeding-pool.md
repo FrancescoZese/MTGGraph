@@ -6,13 +6,13 @@ name: Breeding Pool
 scryfall_id: 3c750d5a-f743-41ff-b5ba-02025ca0bec2
 set: eoe
 type: Land — Forest Island
-meta_presence: 0.119
+meta_presence: 0.1184
 archetypes:
   jeskai-energy:
     weight: 0.0078
     avg_copies: 1.0
   goryo:
-    weight: 0.5118
+    weight: 0.5087
     avg_copies: 1.0
   azorius-control:
     weight: 0.1176
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.0028
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0215
+    weight: 0.0213
     avg_copies: 1.0
   reanimator:
     weight: 0.037

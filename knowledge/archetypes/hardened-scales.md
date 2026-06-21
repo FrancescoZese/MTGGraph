@@ -5,13 +5,7 @@ name: Hardened Scales
 meta_share: 0.001
 list_count: 4
 top_cards:
-- name: Arcbound Ravager
-  weight: 1.0
-  avg_copies: 4.0
-- name: Walking Ballista
-  weight: 1.0
-  avg_copies: 4.0
-- name: Hardened Scales
+- name: Zabaz, the Glimmerwasp
   weight: 1.0
   avg_copies: 4.0
 - name: Inkmoth Nexus
@@ -20,7 +14,13 @@ top_cards:
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
-- name: Zabaz, the Glimmerwasp
+- name: Arcbound Ravager
+  weight: 1.0
+  avg_copies: 4.0
+- name: Walking Ballista
+  weight: 1.0
+  avg_copies: 4.0
+- name: Hardened Scales
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Opal
@@ -44,13 +44,13 @@ top_cards:
 - name: Arcbound Worker
   weight: 1.0
   avg_copies: 2.0
-- name: Welding Jar
-  weight: 1.0
-  avg_copies: 1.75
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.75
 - name: Dismember
+  weight: 1.0
+  avg_copies: 1.75
+- name: Welding Jar
   weight: 1.0
   avg_copies: 1.75
 - name: Nature's Claim
@@ -80,19 +80,19 @@ top_cards:
 - name: Pendelhaven
   weight: 0.75
   avg_copies: 1.0
-- name: Veil of Summer
+- name: Pithing Needle
   weight: 0.75
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Veil of Summer
   weight: 0.75
   avg_copies: 1.0
 - name: Strength of Will
   weight: 0.5
   avg_copies: 2.0
-- name: Tamiyo's Safekeeping
+- name: Terrasymbiosis
   weight: 0.5
   avg_copies: 1.67
-- name: Terrasymbiosis
+- name: Tamiyo's Safekeeping
   weight: 0.5
   avg_copies: 1.67
 - name: Heroic Intervention
@@ -107,28 +107,28 @@ top_cards:
 - name: Haywire Mite
   weight: 0.5
   avg_copies: 1.0
-- name: Marketback Walker
-  weight: 0.25
-  avg_copies: 4.0
 - name: Karplusan Forest
   weight: 0.25
   avg_copies: 4.0
 - name: Metallic Mimic
   weight: 0.25
   avg_copies: 4.0
+- name: Marketback Walker
+  weight: 0.25
+  avg_copies: 4.0
 - name: Ancient Stirrings
   weight: 0.25
   avg_copies: 3.0
-- name: Bridgeworks Battle
+- name: Scrapyard Recombiner
   weight: 0.25
   avg_copies: 1.0
-- name: Scrapyard Recombiner
+- name: Skateboard
   weight: 0.25
   avg_copies: 1.0
 - name: Shadowspear
   weight: 0.25
   avg_copies: 1.0
-- name: Skateboard
+- name: Bridgeworks Battle
   weight: 0.25
   avg_copies: 1.0
 ---

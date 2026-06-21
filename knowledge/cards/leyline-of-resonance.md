@@ -7,7 +7,7 @@ name: Leyline of Resonance
 scryfall_id: 92c5f0e3-345a-40a8-9cda-565a62156692
 set: dsk
 type: Enchantment
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-92:
     weight: 1.0

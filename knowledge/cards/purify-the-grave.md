@@ -7,9 +7,9 @@ name: Purify the Grave
 scryfall_id: dc396f54-8f54-4456-b473-a9bb38e88f62
 set: c19
 type: Instant
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   boros-ponza:
-    weight: 0.0085
+    weight: 0.0083
     avg_copies: 1.0
 ---

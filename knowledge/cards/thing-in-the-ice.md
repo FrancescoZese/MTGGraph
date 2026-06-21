@@ -6,9 +6,9 @@ name: Thing in the Ice // Awoken Horror
 scryfall_id: 7269d533-cb3f-498e-b97f-eb6c49e170c3
 set: inr
 type: Creature — Horror // Creature — Kraken Horror
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   izzet-prowess:
-    weight: 0.0049
+    weight: 0.0048
     avg_copies: 3.0
 ---

@@ -6,7 +6,7 @@ name: Graven Cairns
 scryfall_id: 74a13fea-4f48-428b-b42b-4ba63d4752ed
 set: dsc
 type: Land
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-18:
     weight: 1.0

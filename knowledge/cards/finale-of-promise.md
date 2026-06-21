@@ -7,7 +7,7 @@ name: Finale of Promise
 scryfall_id: 0dbbb636-96c2-472c-a51d-d527e8e97798
 set: otc
 type: Sorcery
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-71:
     weight: 1.0

@@ -7,7 +7,7 @@ name: Brought Back
 scryfall_id: aecdc315-95e5-450c-bedc-998eea46cf8c
 set: m20
 type: Instant
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-16:
     weight: 0.2

@@ -7,9 +7,9 @@ name: Doomskar
 scryfall_id: 130ee895-1e5e-4f82-bb66-e1275bac75dd
 set: khm
 type: Sorcery
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   boros-ponza:
-    weight: 0.0085
+    weight: 0.0083
     avg_copies: 2.0
 ---

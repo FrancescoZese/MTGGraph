@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: Azorius Control
-meta_share: 0.0128
+meta_share: 0.0126
 list_count: 51
 top_cards:
 - name: Orim's Chant
@@ -162,10 +162,10 @@ top_cards:
 - name: Undercity Sewers
   weight: 0.1176
   avg_copies: 1.0
-- name: Beza, the Bounding Spring
+- name: Ashiok, Dream Render
   weight: 0.098
   avg_copies: 1.4
-- name: Ashiok, Dream Render
+- name: Beza, the Bounding Spring
   weight: 0.098
   avg_copies: 1.4
 - name: Sink into Stupor
@@ -174,13 +174,13 @@ top_cards:
 - name: Stern Scolding
   weight: 0.0784
   avg_copies: 1.2
-- name: Jace, the Mind Sculptor
+- name: Field of Ruin
   weight: 0.0784
   avg_copies: 1.0
 - name: Disruptor Flute
   weight: 0.0784
   avg_copies: 1.0
-- name: Field of Ruin
+- name: Jace, the Mind Sculptor
   weight: 0.0784
   avg_copies: 1.0
 - name: Galvanic Discharge
@@ -207,13 +207,7 @@ top_cards:
 - name: Suppression Ray
   weight: 0.0392
   avg_copies: 4.0
-- name: Wan Shi Tong, Librarian
-  weight: 0.0392
-  avg_copies: 1.0
-- name: Gemstone Caverns
-  weight: 0.0392
-  avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
+- name: Dress Down
   weight: 0.0392
   avg_copies: 1.0
 - name: Vendilion Clique
@@ -222,46 +216,52 @@ top_cards:
 - name: Celestial Colonnade
   weight: 0.0392
   avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 0.0392
-  avg_copies: 1.0
 - name: Mistrise Village
   weight: 0.0392
   avg_copies: 1.0
-- name: Dress Down
+- name: Tamiyo, Inquisitive Student
+  weight: 0.0392
+  avg_copies: 1.0
+- name: Wan Shi Tong, Librarian
+  weight: 0.0392
+  avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 0.0392
+  avg_copies: 1.0
+- name: Gemstone Caverns
   weight: 0.0392
   avg_copies: 1.0
 - name: Terminus
   weight: 0.0196
   avg_copies: 3.0
-- name: Pyroclasm
-  weight: 0.0196
-  avg_copies: 2.0
 - name: Wear
   weight: 0.0196
   avg_copies: 2.0
-- name: Hurkyl's Recall
+- name: Pyroclasm
+  weight: 0.0196
+  avg_copies: 2.0
+- name: The Wandering Emperor
   weight: 0.0196
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
+- name: Commandeer
   weight: 0.0196
   avg_copies: 1.0
 - name: Petrified Hamlet
   weight: 0.0196
   avg_copies: 1.0
-- name: The Wandering Emperor
-  weight: 0.0196
-  avg_copies: 1.0
 - name: Get Lost
-  weight: 0.0196
-  avg_copies: 1.0
-- name: Strix Serenade
   weight: 0.0196
   avg_copies: 1.0
 - name: Meltdown
   weight: 0.0196
   avg_copies: 1.0
-- name: Commandeer
+- name: Strix Serenade
+  weight: 0.0196
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
+  weight: 0.0196
+  avg_copies: 1.0
+- name: Hurkyl's Recall
   weight: 0.0196
   avg_copies: 1.0
 - name: Restless Anchorage

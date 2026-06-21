@@ -10,7 +10,7 @@ type: Creature — Treefolk
 meta_presence: 0.0388
 archetypes:
   goryo:
-    weight: 0.0059
+    weight: 0.0058
     avg_copies: 1.0
   living-end:
     weight: 1.0
@@ -20,7 +20,7 @@ archetypes:
     avg_copies: 1.87
   unknown-67:
     weight: 1.0
-    avg_copies: 3.79
+    avg_copies: 3.8
   unknown-72:
     weight: 1.0
     avg_copies: 3.0

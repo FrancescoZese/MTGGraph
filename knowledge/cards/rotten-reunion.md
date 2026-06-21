@@ -7,7 +7,7 @@ name: Rotten Reunion
 scryfall_id: 97398ad2-675b-4a34-aab7-935dd6714f1c
 set: mid
 type: Instant
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-8:
     weight: 0.5

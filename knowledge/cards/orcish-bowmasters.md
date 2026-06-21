@@ -16,7 +16,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.65
   domain-zoo:
-    weight: 0.0753
+    weight: 0.0745
     avg_copies: 2.43
   reanimator:
     weight: 0.1481
@@ -28,13 +28,13 @@ archetypes:
     weight: 0.6562
     avg_copies: 3.33
   yawgmoth-combo:
-    weight: 0.6724
+    weight: 0.65
     avg_copies: 1.75
   simic-ritual:
     weight: 0.0725
     avg_copies: 3.2
   esper-blink:
-    weight: 0.3973
+    weight: 0.3867
     avg_copies: 2.09
   samwise-combo:
     weight: 0.72
@@ -49,7 +49,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   goryo1:
-    weight: 0.0102
+    weight: 0.0101
     avg_copies: 1.0
   goryo5:
     weight: 1.0
@@ -67,7 +67,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-1:
-    weight: 0.6667
+    weight: 0.5714
     avg_copies: 3.0
   unknown-18:
     weight: 1.0
@@ -98,10 +98,10 @@ archetypes:
     avg_copies: 2.3
   unknown-46:
     weight: 1.0
-    avg_copies: 3.4
+    avg_copies: 3.5
   unknown-47:
     weight: 1.0
-    avg_copies: 3.35
+    avg_copies: 3.36
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
@@ -139,7 +139,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-101:
-    weight: 0.5
+    weight: 0.6667
     avg_copies: 3.0
   unknown-105:
     weight: 1.0

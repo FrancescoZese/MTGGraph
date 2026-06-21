@@ -8,7 +8,7 @@ name: Pond Prophet
 scryfall_id: fb959e74-61ea-453d-bb9f-ad0183c0e1b1
 set: blb
 type: Creature — Frog Advisor
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   simic-ritual:
     weight: 0.0145

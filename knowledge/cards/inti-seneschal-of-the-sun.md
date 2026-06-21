@@ -7,7 +7,7 @@ name: Inti, Seneschal of the Sun
 scryfall_id: fa7a55aa-ae61-4933-b7a4-dcc55dac6fcd
 set: lci
 type: Legendary Creature — Human Knight
-meta_presence: 0.0015
+meta_presence: 0.0017
 archetypes:
   hollow-one:
     weight: 0.0312
@@ -16,7 +16,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-101:
-    weight: 0.5
+    weight: 0.6667
     avg_copies: 1.0
   unknown-117:
     weight: 1.0

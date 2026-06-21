@@ -4,7 +4,7 @@ colors:
 - B
 - R
 name: 'Unknown #68'
-meta_share: 0.0068
+meta_share: 0.0067
 list_count: 27
 top_cards:
 - name: Ocelot Pride
@@ -49,10 +49,10 @@ top_cards:
 - name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowy Backstreet
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Thoughtseize
@@ -121,22 +121,22 @@ top_cards:
 - name: Orim's Chant
   weight: 0.3333
   avg_copies: 1.33
-- name: Prismatic Ending
+- name: The Legend of Roku
   weight: 0.2963
   avg_copies: 1.0
-- name: The Legend of Roku
+- name: Prismatic Ending
   weight: 0.2963
   avg_copies: 1.0
 - name: Kroxa, Titan of Death's Hunger
   weight: 0.2593
   avg_copies: 2.86
-- name: End of the Hunt
+- name: Celestial Purge
   weight: 0.2222
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.2222
   avg_copies: 1.0
-- name: Celestial Purge
+- name: End of the Hunt
   weight: 0.2222
   avg_copies: 1.0
 - name: Ob Nixilis, the Adversary
@@ -145,10 +145,10 @@ top_cards:
 - name: Damping Sphere
   weight: 0.1481
   avg_copies: 1.75
-- name: Raucous Theater
+- name: Meltdown
   weight: 0.1481
   avg_copies: 1.0
-- name: Meltdown
+- name: Raucous Theater
   weight: 0.1481
   avg_copies: 1.0
 - name: Fulminator Mage
@@ -166,10 +166,10 @@ top_cards:
 - name: Lingering Souls
   weight: 0.037
   avg_copies: 2.0
-- name: Solitude
+- name: Strategic Betrayal
   weight: 0.037
   avg_copies: 1.0
-- name: Strategic Betrayal
+- name: Solitude
   weight: 0.037
   avg_copies: 1.0
 ---

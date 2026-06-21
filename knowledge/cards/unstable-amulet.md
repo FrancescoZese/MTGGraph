@@ -7,7 +7,7 @@ name: Unstable Amulet
 scryfall_id: 9d9949f5-8d6c-4ea9-b203-99e8a57a6c60
 set: mh3
 type: Artifact
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-98:
     weight: 0.25

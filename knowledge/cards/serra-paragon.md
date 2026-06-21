@@ -7,7 +7,7 @@ name: Serra Paragon
 scryfall_id: 8e77a410-a053-4349-950c-d59e76b17923
 set: soc
 type: Creature — Angel
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-12:
     weight: 1.0

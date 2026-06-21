@@ -8,7 +8,7 @@ name: Incubation // Incongruity
 scryfall_id: 2c1ace2e-b3eb-4e60-adfd-9f40b8cd4416
 set: clu
 type: Sorcery // Instant
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-72:
     weight: 1.0

@@ -8,7 +8,7 @@ name: Fracture
 scryfall_id: cba33bf7-0919-408c-8eb0-0bb9fe920c81
 set: soc
 type: Instant
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-78:
     weight: 1.0

@@ -8,7 +8,7 @@ name: Vraska, Golgari Queen
 scryfall_id: a36d3ea7-0f18-4865-b47b-755673db065e
 set: grn
 type: Legendary Planeswalker — Vraska
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   samwise-combo:
     weight: 0.02

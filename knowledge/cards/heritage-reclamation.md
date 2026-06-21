@@ -7,12 +7,12 @@ name: Heritage Reclamation
 scryfall_id: 4f8fee37-a050-4329-8b10-46d150e7a95e
 set: tdm
 type: Instant
-meta_presence: 0.0045
+meta_presence: 0.0044
 archetypes:
   amulet-titan:
-    weight: 0.025
+    weight: 0.0248
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0728
+    weight: 0.0721
     avg_copies: 1.6
 ---

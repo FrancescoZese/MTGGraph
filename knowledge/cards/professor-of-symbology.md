@@ -7,10 +7,10 @@ name: Professor of Symbology
 scryfall_id: f427cf73-9f5e-4ef5-bc4f-29ffbfda9d57
 set: stx
 type: Creature — Kor Cleric
-meta_presence: 0.0023
+meta_presence: 0.0022
 archetypes:
   domain-zoo:
-    weight: 0.0108
+    weight: 0.0106
     avg_copies: 4.0
   samwise-combo:
     weight: 0.16

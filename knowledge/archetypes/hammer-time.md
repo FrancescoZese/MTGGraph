@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: Hammer Time
-meta_share: 0.0023
+meta_share: 0.0022
 list_count: 9
 top_cards:
 - name: Stoneforge Mystic
@@ -15,10 +15,10 @@ top_cards:
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 3.89
-- name: Leyline Axe
+- name: Battlefield Improvisation
   weight: 1.0
   avg_copies: 3.78
-- name: Battlefield Improvisation
+- name: Leyline Axe
   weight: 1.0
   avg_copies: 3.78
 - name: Puresteel Paladin
@@ -84,19 +84,19 @@ top_cards:
 - name: Sanctifier en-Vec
   weight: 0.4444
   avg_copies: 2.75
-- name: Teferi, Time Raveler
+- name: Portable Hole
   weight: 0.4444
   avg_copies: 2.0
-- name: Portable Hole
+- name: Teferi, Time Raveler
   weight: 0.4444
   avg_copies: 2.0
 - name: Kappa Cannoneer
   weight: 0.4444
   avg_copies: 1.5
-- name: Cryptic Coat
+- name: Stern Scolding
   weight: 0.4444
   avg_copies: 1.0
-- name: Stern Scolding
+- name: Cryptic Coat
   weight: 0.4444
   avg_copies: 1.0
 - name: Pithing Needle
@@ -132,22 +132,22 @@ top_cards:
 - name: Paradise Mantle
   weight: 0.2222
   avg_copies: 1.0
-- name: Flare of Fortitude
+- name: Mishra's Bauble
   weight: 0.1111
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Flare of Fortitude
   weight: 0.1111
   avg_copies: 4.0
 - name: Containment Priest
   weight: 0.1111
   avg_copies: 2.0
+- name: Skateboard
+  weight: 0.1111
+  avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.1111
   avg_copies: 1.0
 - name: Prismatic Ending
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Skateboard
   weight: 0.1111
   avg_copies: 1.0
 ---

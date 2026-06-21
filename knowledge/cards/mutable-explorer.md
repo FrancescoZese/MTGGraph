@@ -7,7 +7,7 @@ name: Mutable Explorer
 scryfall_id: 8f35d95a-caea-4d5e-b98e-55da1ba7c92d
 set: ecl
 type: Creature — Shapeshifter
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   eldrazi-ramp:
     weight: 0.0106

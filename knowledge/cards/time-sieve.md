@@ -8,7 +8,7 @@ name: Time Sieve
 scryfall_id: c2e8b424-0cec-490e-a571-bd051f952adf
 set: 2xm
 type: Artifact
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-63:
     weight: 1.0

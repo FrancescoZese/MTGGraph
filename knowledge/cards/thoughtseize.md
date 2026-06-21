@@ -7,20 +7,20 @@ name: Thoughtseize
 scryfall_id: b281a308-ab6b-47b6-bec7-632c9aaecede
 set: 2xm
 type: Sorcery
-meta_presence: 0.2042
+meta_presence: 0.2052
 archetypes:
   ruby-storm:
-    weight: 0.0085
+    weight: 0.0084
     avg_copies: 2.0
   dimir-control:
     weight: 0.5432
     avg_copies: 2.94
   eldrazi-tron:
-    weight: 0.0171
+    weight: 0.0166
     avg_copies: 4.0
   goryo:
-    weight: 0.9706
-    avg_copies: 2.76
+    weight: 0.9653
+    avg_copies: 2.75
   necrodominance:
     weight: 0.8378
     avg_copies: 3.94
@@ -40,11 +40,11 @@ archetypes:
     weight: 0.0145
     avg_copies: 4.0
   izzet-prowess:
-    weight: 0.0194
+    weight: 0.0192
     avg_copies: 3.0
   esper-blink:
-    weight: 0.9589
-    avg_copies: 3.52
+    weight: 0.96
+    avg_copies: 3.51
   samwise-combo:
     weight: 0.76
     avg_copies: 2.45
@@ -55,8 +55,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   dredge:
-    weight: 0.6842
-    avg_copies: 3.38
+    weight: 0.7
+    avg_copies: 3.36
   jund-saga:
     weight: 1.0
     avg_copies: 4.0
@@ -82,7 +82,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   goryo1:
-    weight: 0.9796
+    weight: 0.9798
     avg_copies: 3.82
   goryo5:
     weight: 1.0
@@ -146,10 +146,10 @@ archetypes:
     avg_copies: 1.79
   unknown-46:
     weight: 1.0
-    avg_copies: 2.86
+    avg_copies: 3.0
   unknown-47:
-    weight: 0.9767
-    avg_copies: 3.83
+    weight: 0.9787
+    avg_copies: 3.8
   unknown-50:
     weight: 1.0
     avg_copies: 2.0
@@ -202,7 +202,7 @@ archetypes:
     weight: 0.4
     avg_copies: 1.0
   unknown-101:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 4.0
   unknown-105:
     weight: 1.0
@@ -226,8 +226,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-131:
-    weight: 0.5
-    avg_copies: 1.75
+    weight: 0.5714
+    avg_copies: 1.8
   unknown-132:
     weight: 1.0
     avg_copies: 4.0
@@ -240,6 +240,9 @@ archetypes:
   unknown-146:
     weight: 1.0
     avg_copies: 4.0
+  unknown-147:
+    weight: 0.5
+    avg_copies: 3.0
   unknown-148:
     weight: 1.0
     avg_copies: 1.0

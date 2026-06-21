@@ -7,7 +7,7 @@ name: Omen of the Sea
 scryfall_id: a5f30ecd-d009-4d44-aef4-c926ed55a521
 set: thb
 type: Enchantment
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   mono-blue-tron:
     weight: 0.0588

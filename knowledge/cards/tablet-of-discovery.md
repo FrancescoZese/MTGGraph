@@ -7,7 +7,7 @@ name: Tablet of Discovery
 scryfall_id: 13059664-a940-4a66-8100-0c90b884bab4
 set: sos
 type: Artifact
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-104:
     weight: 1.0

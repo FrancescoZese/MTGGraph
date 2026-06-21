@@ -7,7 +7,7 @@ name: Titania's Command
 scryfall_id: 753567c7-c484-4c0d-8128-7710e23c428f
 set: bro
 type: Sorcery
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-14:
     weight: 0.5

@@ -8,7 +8,7 @@ name: Ob Nixilis, the Adversary
 scryfall_id: 80226520-6b0a-48ea-a868-a29eb3fbd403
 set: snc
 type: Legendary Planeswalker — Nixilis
-meta_presence: 0.0023
+meta_presence: 0.0022
 archetypes:
   reanimator:
     weight: 0.0741
@@ -17,7 +17,7 @@ archetypes:
     weight: 0.0625
     avg_copies: 1.0
   unknown-1:
-    weight: 0.1667
+    weight: 0.1429
     avg_copies: 1.0
   unknown-68:
     weight: 0.1852

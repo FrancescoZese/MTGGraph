@@ -7,7 +7,7 @@ name: Cacophony Scamp
 scryfall_id: 3553dcef-7b99-49d5-b071-06b894696952
 set: one
 type: Creature — Phyrexian Goblin Warrior
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-92:
     weight: 1.0

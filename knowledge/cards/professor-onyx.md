@@ -7,7 +7,7 @@ name: Professor Onyx
 scryfall_id: b8d8e608-6de4-4b90-aeb7-d060d1f44844
 set: dsc
 type: Legendary Planeswalker — Liliana
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-14:
     weight: 0.5

@@ -7,10 +7,10 @@ name: Malevolent Rumble
 scryfall_id: a178cfe8-f9fa-4255-88d0-54a0bed079f5
 set: mh3
 type: Sorcery
-meta_presence: 0.1278
+meta_presence: 0.1276
 archetypes:
   amulet-titan:
-    weight: 0.6833
+    weight: 0.686
     avg_copies: 2.88
   hardened-scales:
     weight: 0.75
@@ -23,7 +23,7 @@ archetypes:
     avg_copies: 3.0
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 3.45
+    avg_copies: 3.47
   eldrazi-ramp:
     weight: 1.0
     avg_copies: 3.96
@@ -71,7 +71,7 @@ archetypes:
     avg_copies: 4.0
   unknown-61:
     weight: 1.0
-    avg_copies: 3.86
+    avg_copies: 3.83
   unknown-52:
     weight: 1.0
     avg_copies: 4.0

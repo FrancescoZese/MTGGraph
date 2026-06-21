@@ -7,9 +7,9 @@ name: Return to Nature
 scryfall_id: 7e99f99a-68a1-4f35-853c-794630d313fc
 set: moc
 type: Instant
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   izzet-prowess:
-    weight: 0.0049
+    weight: 0.0048
     avg_copies: 1.0
 ---

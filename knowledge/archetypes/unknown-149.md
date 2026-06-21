@@ -4,25 +4,25 @@ colors:
 - U
 - R
 name: 'Unknown #149'
-meta_share: 0.0018
+meta_share: 0.0017
 list_count: 7
 top_cards:
-- name: Ocelot Pride
-  weight: 1.0
-  avg_copies: 4.0
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Ajani, Nacatl Pariah
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 4.0
-- name: Quantum Riddler
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
 - name: Guide of Souls
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
@@ -40,10 +40,10 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 2.15
-- name: Wrath of the Skies
+- name: Ephemerate
   weight: 1.0
   avg_copies: 2.0
-- name: Ephemerate
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.0
 - name: Sacred Foundry
@@ -52,16 +52,16 @@ top_cards:
 - name: Plains
   weight: 1.0
   avg_copies: 1.14
-- name: Island
-  weight: 1.0
-  avg_copies: 1.0
-- name: Meticulous Archive
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Meticulous Archive
+  weight: 1.0
+  avg_copies: 1.0
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Hallowed Fountain
@@ -82,40 +82,40 @@ top_cards:
 - name: Flagstones of Trokair
   weight: 0.5714
   avg_copies: 3.0
-- name: Orim's Chant
-  weight: 0.5714
-  avg_copies: 2.0
 - name: Lavinia, Azorius Renegade
   weight: 0.5714
   avg_copies: 2.0
 - name: Sanctifier en-Vec
   weight: 0.5714
   avg_copies: 2.0
+- name: Orim's Chant
+  weight: 0.5714
+  avg_copies: 2.0
 - name: Spell Pierce
   weight: 0.5714
   avg_copies: 1.25
-- name: Meltdown
+- name: Vandalblast
   weight: 0.5714
   avg_copies: 1.0
-- name: Vandalblast
+- name: Meltdown
   weight: 0.5714
   avg_copies: 1.0
 - name: Phelia, Exuberant Shepherd
   weight: 0.4286
   avg_copies: 2.33
+- name: Vexing Bauble
+  weight: 0.4286
+  avg_copies: 2.0
 - name: Galvanic Discharge
   weight: 0.4286
   avg_copies: 2.0
 - name: Fable of the Mirror-Breaker
   weight: 0.4286
   avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 0.4286
-  avg_copies: 2.0
-- name: Mystical Dispute
+- name: Surgical Extraction
   weight: 0.4286
   avg_copies: 1.67
-- name: Surgical Extraction
+- name: Mystical Dispute
   weight: 0.4286
   avg_copies: 1.67
 - name: High Noon
@@ -133,16 +133,16 @@ top_cards:
 - name: Arena of Glory
   weight: 0.2857
   avg_copies: 1.0
-- name: Rest in Peace
+- name: Scalding Tarn
   weight: 0.1429
   avg_copies: 1.0
-- name: Scalding Tarn
+- name: Containment Priest
   weight: 0.1429
   avg_copies: 1.0
 - name: March of Otherworldly Light
   weight: 0.1429
   avg_copies: 1.0
-- name: Containment Priest
+- name: Rest in Peace
   weight: 0.1429
   avg_copies: 1.0
 ---

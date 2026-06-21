@@ -7,7 +7,7 @@ name: Timely Reinforcements
 scryfall_id: 6ae4669c-e526-4c24-9c25-38cb5c5ef59b
 set: m12
 type: Sorcery
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-48:
     weight: 0.5

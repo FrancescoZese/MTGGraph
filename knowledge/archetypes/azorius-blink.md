@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: Azorius Blink
-meta_share: 0.011
+meta_share: 0.0109
 list_count: 44
 top_cards:
 - name: Ocelot Pride
@@ -147,10 +147,10 @@ top_cards:
 - name: Sacred Foundry
   weight: 0.0909
   avg_copies: 1.25
-- name: Island
+- name: Strix Serenade
   weight: 0.0909
   avg_copies: 1.0
-- name: Strix Serenade
+- name: Island
   weight: 0.0909
   avg_copies: 1.0
 - name: Voice of Victory
@@ -168,10 +168,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.0682
   avg_copies: 1.33
-- name: Thraben Charm
+- name: Erode
   weight: 0.0682
   avg_copies: 1.0
-- name: Erode
+- name: Thraben Charm
   weight: 0.0682
   avg_copies: 1.0
 - name: Test of Talents
@@ -180,10 +180,10 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.0455
   avg_copies: 1.5
-- name: Stony Silence
+- name: Elegant Parlor
   weight: 0.0455
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Stony Silence
   weight: 0.0455
   avg_copies: 1.0
 - name: Wear
@@ -195,58 +195,67 @@ top_cards:
 - name: Overlord of the Balemurk
   weight: 0.0227
   avg_copies: 4.0
-- name: Agatha's Soul Cauldron
+- name: Goblin Bombardment
   weight: 0.0227
   avg_copies: 3.0
 - name: Leonardo, Cutting Edge
   weight: 0.0227
   avg_copies: 3.0
-- name: Goblin Bombardment
+- name: Agatha's Soul Cauldron
   weight: 0.0227
   avg_copies: 3.0
-- name: Walking Ballista
+- name: Godless Shrine
   weight: 0.0227
   avg_copies: 2.0
 - name: Mystic Gate
   weight: 0.0227
   avg_copies: 2.0
-- name: Flare of Fortitude
-  weight: 0.0227
-  avg_copies: 2.0
 - name: Giant Killer
   weight: 0.0227
   avg_copies: 2.0
-- name: Godless Shrine
+- name: Walking Ballista
   weight: 0.0227
   avg_copies: 2.0
-- name: Skycoach Conductor
+- name: Flare of Fortitude
+  weight: 0.0227
+  avg_copies: 2.0
+- name: Ragavan, Nimble Pilferer
   weight: 0.0227
   avg_copies: 1.0
-- name: Watery Grave
+- name: Kataki, War's Wage
   weight: 0.0227
   avg_copies: 1.0
-- name: Floodfarm Verge
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Winternight Stories
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Mistcaller
+- name: Polluted Delta
   weight: 0.0227
   avg_copies: 1.0
 - name: Shadowy Backstreet
   weight: 0.0227
   avg_copies: 1.0
-- name: Ragavan, Nimble Pilferer
-  weight: 0.0227
-  avg_copies: 1.0
 - name: Heliod, Sun-Crowned
   weight: 0.0227
   avg_copies: 1.0
-- name: Hurkyl's Recall
+- name: Flitterwing Nuisance
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Skycoach Conductor
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Cryptic Command
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Watery Grave
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Practiced Offense
   weight: 0.0227
   avg_copies: 1.0
 - name: Sink into Stupor
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Mistcaller
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Winternight Stories
   weight: 0.0227
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
@@ -258,19 +267,10 @@ top_cards:
 - name: Eiganjo, Seat of the Empire
   weight: 0.0227
   avg_copies: 1.0
-- name: Kataki, War's Wage
+- name: Floodfarm Verge
   weight: 0.0227
   avg_copies: 1.0
-- name: Cryptic Command
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Polluted Delta
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Flitterwing Nuisance
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Practiced Offense
+- name: Hurkyl's Recall
   weight: 0.0227
   avg_copies: 1.0
 ---

@@ -7,7 +7,7 @@ name: Kaervek, the Punisher
 scryfall_id: 7f3affc1-be42-48c7-89ff-b59550ff278c
 set: otj
 type: Legendary Creature — Human Warlock
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   goryo5:
     weight: 0.1111

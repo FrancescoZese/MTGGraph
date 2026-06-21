@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.265
 archetypes:
   boros-energy:
-    weight: 0.9679
+    weight: 0.9662
     avg_copies: 3.3
   dimir-control:
     weight: 0.3827
@@ -18,8 +18,8 @@ archetypes:
     weight: 0.0543
     avg_copies: 1.0
   goryo:
-    weight: 0.9941
-    avg_copies: 3.29
+    weight: 0.9942
+    avg_copies: 3.3
   necrodominance:
     weight: 0.1622
     avg_copies: 1.17
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.3137
     avg_copies: 1.88
   domain-zoo:
-    weight: 0.0215
+    weight: 0.0213
     avg_copies: 4.0
   reanimator:
     weight: 0.037
@@ -46,7 +46,7 @@ archetypes:
     avg_copies: 4.0
   esper-blink:
     weight: 1.0
-    avg_copies: 3.82
+    avg_copies: 3.83
   orzhov-blink:
     weight: 1.0
     avg_copies: 4.0
@@ -66,7 +66,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   goryo1:
-    weight: 0.0102
+    weight: 0.0101
     avg_copies: 1.0
   goryo5:
     weight: 0.5556
@@ -105,8 +105,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.8372
-    avg_copies: 1.89
+    weight: 0.8511
+    avg_copies: 1.9
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
@@ -125,6 +125,9 @@ archetypes:
   unknown-69:
     weight: 1.0
     avg_copies: 1.0
+  unknown-70:
+    weight: 0.1667
+    avg_copies: 1.0
   unknown-73:
     weight: 1.0
     avg_copies: 4.0
@@ -140,6 +143,9 @@ archetypes:
   unknown-77:
     weight: 1.0
     avg_copies: 4.0
+  unknown-88:
+    weight: 0.0909
+    avg_copies: 2.0
   unknown-87:
     weight: 1.0
     avg_copies: 1.0

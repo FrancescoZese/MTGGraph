@@ -7,7 +7,7 @@ name: Purphoros, God of the Forge
 scryfall_id: 4736a2c4-c89c-48db-a104-6303e7e2eee8
 set: cmm
 type: Legendary Enchantment Creature — God
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   boros-energy:
     weight: 0.0019

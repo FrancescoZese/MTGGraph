@@ -7,7 +7,7 @@ name: Test of Talents
 scryfall_id: 6e2b6236-b40c-430c-98b0-7940b942657a
 set: stx
 type: Instant
-meta_presence: 0.0043
+meta_presence: 0.0042
 archetypes:
   hammer-time:
     weight: 0.2222
@@ -25,7 +25,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-88:
-    weight: 0.1111
+    weight: 0.0909
     avg_copies: 2.0
   unknown-108:
     weight: 1.0

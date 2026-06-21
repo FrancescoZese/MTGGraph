@@ -7,9 +7,9 @@ name: Shenanigans
 scryfall_id: 580c6fe2-ab43-491e-a1b2-d076a5c2a74e
 set: mh1
 type: Sorcery
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   dredge:
-    weight: 0.0526
+    weight: 0.05
     avg_copies: 1.0
 ---

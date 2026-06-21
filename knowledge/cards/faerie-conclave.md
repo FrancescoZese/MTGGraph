@@ -6,7 +6,7 @@ name: Faerie Conclave
 scryfall_id: 8f4ab639-b439-462e-acc3-69b5d6bb29da
 set: cma
 type: Land
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-103:
     weight: 1.0

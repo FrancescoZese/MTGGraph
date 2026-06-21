@@ -10,8 +10,8 @@ type: Instant
 meta_presence: 0.0341
 archetypes:
   ruby-storm:
-    weight: 0.0427
-    avg_copies: 2.8
+    weight: 0.0504
+    avg_copies: 2.83
   hardened-scales:
     weight: 0.75
     avg_copies: 1.0
@@ -46,7 +46,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-88:
-    weight: 0.1111
+    weight: 0.0909
     avg_copies: 2.0
   unknown-109:
     weight: 1.0

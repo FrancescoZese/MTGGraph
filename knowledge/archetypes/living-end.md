@@ -4,16 +4,16 @@ colors:
 - B
 - G
 name: Living End
-meta_share: 0.0135
+meta_share: 0.0133
 list_count: 54
 top_cards:
 - name: Endurance
   weight: 1.0
   avg_copies: 3.96
-- name: Shardless Agent
+- name: Subtlety
   weight: 1.0
   avg_copies: 3.94
-- name: Subtlety
+- name: Shardless Agent
   weight: 1.0
   avg_copies: 3.94
 - name: Force of Negation
@@ -190,13 +190,13 @@ top_cards:
 - name: Archon of Cruelty
   weight: 0.0556
   avg_copies: 1.0
+- name: Damping Matrix
+  weight: 0.037
+  avg_copies: 2.0
 - name: Oliphaunt
   weight: 0.037
   avg_copies: 2.0
 - name: Architects of Will
-  weight: 0.037
-  avg_copies: 2.0
-- name: Damping Matrix
   weight: 0.037
   avg_copies: 2.0
 - name: Steam Vents
@@ -205,10 +205,10 @@ top_cards:
 - name: Windcaller Aven
   weight: 0.037
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Abhorrent Oculus
   weight: 0.037
   avg_copies: 1.0
-- name: Abhorrent Oculus
+- name: Stomping Ground
   weight: 0.037
   avg_copies: 1.0
 - name: High Noon
@@ -223,37 +223,19 @@ top_cards:
 - name: Atraxa, Grand Unifier
   weight: 0.0185
   avg_copies: 3.0
-- name: Fulminator Mage
-  weight: 0.0185
-  avg_copies: 2.0
-- name: Fade from History
-  weight: 0.0185
-  avg_copies: 2.0
 - name: Ashiok, Dream Render
   weight: 0.0185
   avg_copies: 2.0
 - name: Soulless Jailer
   weight: 0.0185
   avg_copies: 2.0
-- name: Skycoach Conductor
+- name: Fulminator Mage
   weight: 0.0185
-  avg_copies: 1.0
-- name: Thundering Falls
+  avg_copies: 2.0
+- name: Fade from History
   weight: 0.0185
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Sunken Ruins
-  weight: 0.0185
-  avg_copies: 1.0
-- name: card:murderous-rider
-  weight: 0.0185
-  avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 0.0185
-  avg_copies: 1.0
-- name: Gemstone Caverns
-  weight: 0.0185
-  avg_copies: 1.0
-- name: Undercity Informer
   weight: 0.0185
   avg_copies: 1.0
 - name: Brazen Borrower
@@ -262,22 +244,40 @@ top_cards:
 - name: Kataki, War's Wage
   weight: 0.0185
   avg_copies: 1.0
+- name: Press the Enemy
+  weight: 0.0185
+  avg_copies: 1.0
+- name: Undercity Informer
+  weight: 0.0185
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.0185
+  avg_copies: 1.0
+- name: Skycoach Conductor
+  weight: 0.0185
+  avg_copies: 1.0
+- name: Force of Despair
+  weight: 0.0185
+  avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 0.0185
+  avg_copies: 1.0
+- name: card:murderous-rider
+  weight: 0.0185
+  avg_copies: 1.0
+- name: Gloomlake Verge
+  weight: 0.0185
+  avg_copies: 1.0
 - name: Brainsurge
   weight: 0.0185
   avg_copies: 1.0
 - name: Murderous Cut
   weight: 0.0185
   avg_copies: 1.0
-- name: Gloomlake Verge
-  weight: 0.0185
-  avg_copies: 1.0
-- name: Force of Despair
+- name: Gemstone Caverns
   weight: 0.0185
   avg_copies: 1.0
 - name: card:summon-bahamut
-  weight: 0.0185
-  avg_copies: 1.0
-- name: Press the Enemy
   weight: 0.0185
   avg_copies: 1.0
 ---

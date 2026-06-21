@@ -7,7 +7,7 @@ name: Leyline of Lightning
 scryfall_id: 23d09839-b41e-4aab-8913-40d63052dbf3
 set: gpt
 type: Enchantment
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-92:
     weight: 1.0

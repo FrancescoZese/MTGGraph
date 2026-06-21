@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: 'Unknown #62'
-meta_share: 0.0055
+meta_share: 0.0054
 list_count: 22
 top_cards:
 - name: Solitude
@@ -21,10 +21,10 @@ top_cards:
 - name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.77
-- name: Ocelot Pride
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 3.64
-- name: Quantum Riddler
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 3.64
 - name: Starfield Shepherd
@@ -105,10 +105,10 @@ top_cards:
 - name: Windswept Heath
   weight: 0.1818
   avg_copies: 2.0
-- name: Deafening Silence
+- name: High Noon
   weight: 0.1818
   avg_copies: 1.75
-- name: High Noon
+- name: Deafening Silence
   weight: 0.1818
   avg_copies: 1.75
 - name: Clarion Conqueror
@@ -117,10 +117,10 @@ top_cards:
 - name: Springleaf Drum
   weight: 0.1364
   avg_copies: 3.0
-- name: Misty Rainforest
+- name: Sanctifier en-Vec
   weight: 0.1364
   avg_copies: 2.0
-- name: Sanctifier en-Vec
+- name: Misty Rainforest
   weight: 0.1364
   avg_copies: 2.0
 - name: No More Lies
@@ -147,13 +147,13 @@ top_cards:
 - name: Thraben Charm
   weight: 0.0909
   avg_copies: 1.25
+- name: Tamiyo, Inquisitive Student
+  weight: 0.0909
+  avg_copies: 1.0
 - name: Ranger-Captain of Eos
   weight: 0.0909
   avg_copies: 1.0
 - name: Momo, Friendly Flier
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
   weight: 0.0909
   avg_copies: 1.0
 - name: Drannith Magistrate
@@ -162,46 +162,43 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 0.0455
   avg_copies: 3.0
-- name: Flagstones of Trokair
-  weight: 0.0455
-  avg_copies: 2.0
-- name: Galvanic Discharge
-  weight: 0.0455
-  avg_copies: 2.0
-- name: Damping Sphere
-  weight: 0.0455
-  avg_copies: 2.0
 - name: Goblin Bombardment
   weight: 0.0455
   avg_copies: 2.0
 - name: Obsidian Charmaw
   weight: 0.0455
   avg_copies: 2.0
-- name: Aven Interrupter
+- name: Damping Sphere
   weight: 0.0455
-  avg_copies: 1.0
-- name: Razorgrass Ambush
+  avg_copies: 2.0
+- name: Flagstones of Trokair
+  weight: 0.0455
+  avg_copies: 2.0
+- name: Galvanic Discharge
+  weight: 0.0455
+  avg_copies: 2.0
+- name: Celestial Purge
   weight: 0.0455
   avg_copies: 1.0
 - name: Elegant Parlor
   weight: 0.0455
   avg_copies: 1.0
-- name: Ajani, Nacatl Pariah
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Hydroelectric Specimen
+- name: Razorgrass Ambush
   weight: 0.0455
   avg_copies: 1.0
 - name: Orim's Chant
   weight: 0.0455
   avg_copies: 1.0
+- name: Flitterwing Nuisance
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Ajani, Nacatl Pariah
+  weight: 0.0455
+  avg_copies: 1.0
 - name: Wear
   weight: 0.0455
   avg_copies: 1.0
-- name: Otawara, Soaring City
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Flitterwing Nuisance
+- name: Aven Interrupter
   weight: 0.0455
   avg_copies: 1.0
 - name: Meltdown
@@ -210,7 +207,10 @@ top_cards:
 - name: Recruiter of the Guard
   weight: 0.0455
   avg_copies: 1.0
-- name: Celestial Purge
+- name: Otawara, Soaring City
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Hydroelectric Specimen
   weight: 0.0455
   avg_copies: 1.0
 ---

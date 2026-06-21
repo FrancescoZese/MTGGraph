@@ -6,13 +6,13 @@ name: Mountain
 scryfall_id: a642c7b1-d4d1-4125-a66d-560438e5ee51
 set: sos
 type: Basic Land — Mountain
-meta_presence: 0.3687
+meta_presence: 0.3691
 archetypes:
   ruby-storm:
     weight: 1.0
     avg_copies: 2.99
   boros-energy:
-    weight: 0.8245
+    weight: 0.8252
     avg_copies: 1.0
   mono-blue-belcher:
     weight: 0.1818
@@ -24,10 +24,10 @@ archetypes:
     weight: 0.2333
     avg_copies: 1.0
   affinity:
-    weight: 0.0111
+    weight: 0.011
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.9677
+    weight: 0.9681
     avg_copies: 1.0
   reanimator:
     weight: 0.1111
@@ -45,17 +45,17 @@ archetypes:
     weight: 0.875
     avg_copies: 1.36
   boros-ponza:
-    weight: 0.9829
-    avg_copies: 1.16
+    weight: 0.9835
+    avg_copies: 1.17
   izzet-prowess:
-    weight: 0.9903
-    avg_copies: 2.36
+    weight: 0.9904
+    avg_copies: 2.35
   indomitable-creativity:
     weight: 1.0
     avg_copies: 1.08
   dredge:
-    weight: 0.8947
-    avg_copies: 1.82
+    weight: 0.9
+    avg_copies: 1.83
   izzet-artifacts:
     weight: 0.5
     avg_copies: 1.0
@@ -93,7 +93,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo1:
-    weight: 0.0102
+    weight: 0.0101
     avg_copies: 1.0
   goryo4:
     weight: 0.9
@@ -183,13 +183,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.0426
+    weight: 0.0408
     avg_copies: 1.0
   unknown-68:
     weight: 0.8889
     avg_copies: 1.0
   unknown-70:
-    weight: 0.8
+    weight: 0.8333
     avg_copies: 1.0
   unknown-71:
     weight: 1.0
@@ -220,7 +220,7 @@ archetypes:
     avg_copies: 1.0
   unknown-101:
     weight: 1.0
-    avg_copies: 2.5
+    avg_copies: 2.67
   unknown-104:
     weight: 1.0
     avg_copies: 1.0
@@ -241,7 +241,7 @@ archetypes:
     avg_copies: 1.0
   unknown-122:
     weight: 1.0
-    avg_copies: 2.14
+    avg_copies: 2.0
   unknown-123:
     weight: 1.0
     avg_copies: 2.0
@@ -269,4 +269,7 @@ archetypes:
   unknown-148:
     weight: 1.0
     avg_copies: 1.0
+  unknown-152:
+    weight: 1.0
+    avg_copies: 4.0
 ---

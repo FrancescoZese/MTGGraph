@@ -7,9 +7,9 @@ name: Grave Researcher // Reanimate
 scryfall_id: 8b1e10e8-ea14-4761-910b-4072e2a18456
 set: sos
 type: Creature — Troll Warlock // Sorcery
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   goryo1:
-    weight: 0.0102
+    weight: 0.0101
     avg_copies: 2.0
 ---

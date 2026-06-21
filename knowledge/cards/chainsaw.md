@@ -7,7 +7,7 @@ name: Chainsaw
 scryfall_id: 54e0c2cd-fa5f-427d-8e15-6066f002a8e3
 set: dsk
 type: Artifact — Equipment
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-119:
     weight: 1.0
