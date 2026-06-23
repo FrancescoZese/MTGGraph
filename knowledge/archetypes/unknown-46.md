@@ -6,10 +6,10 @@ name: 'Unknown #46'
 meta_share: 0.0015
 list_count: 6
 top_cards:
-- name: Necrodominance
+- name: Boggart Trawler
   weight: 1.0
   avg_copies: 4.0
-- name: Boggart Trawler
+- name: Necrodominance
   weight: 1.0
   avg_copies: 4.0
 - name: Soul Spike
@@ -27,10 +27,10 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 3.33
-- name: Thoughtseize
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 3.0
-- name: Verdant Catacombs
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 3.0
 - name: Force of Despair
@@ -48,22 +48,22 @@ top_cards:
 - name: Underground Mortuary
   weight: 1.0
   avg_copies: 2.0
-- name: Castle Locthwain
+- name: Overgrown Tomb
   weight: 1.0
   avg_copies: 2.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 2.0
-- name: March of Wretched Sorrow
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.0
-- name: Overgrown Tomb
+- name: March of Wretched Sorrow
   weight: 1.0
   avg_copies: 2.0
 - name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 2.0
-- name: Bloodstained Mire
+- name: Castle Locthwain
   weight: 1.0
   avg_copies: 2.0
 - name: Professor Dellian Fel

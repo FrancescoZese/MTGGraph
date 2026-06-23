@@ -5,22 +5,22 @@ name: 'Unknown #98'
 meta_share: 0.001
 list_count: 4
 top_cards:
+- name: Urza's Saga
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cori-Steel Cutter
+  weight: 1.0
+  avg_copies: 4.0
 - name: Shrapnel Blast
+  weight: 1.0
+  avg_copies: 4.0
+- name: Experimental Synthesizer
   weight: 1.0
   avg_copies: 4.0
 - name: Galvanic Blast
   weight: 1.0
   avg_copies: 4.0
 - name: Darksteel Citadel
-  weight: 1.0
-  avg_copies: 4.0
-- name: Urza's Saga
-  weight: 1.0
-  avg_copies: 4.0
-- name: Experimental Synthesizer
-  weight: 1.0
-  avg_copies: 4.0
-- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
@@ -53,16 +53,16 @@ top_cards:
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Grafdigger's Cage
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shinka, the Bloodsoaked Keep
   weight: 1.0
   avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 1.0
-- name: Grafdigger's Cage
-  weight: 1.0
-  avg_copies: 1.0
-- name: Shinka, the Bloodsoaked Keep
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.0
 - name: Sokenzan, Crucible of Defiance
@@ -74,13 +74,13 @@ top_cards:
 - name: Sundering Eruption
   weight: 0.75
   avg_copies: 2.0
-- name: Skateboard
+- name: Pithing Needle
   weight: 0.75
   avg_copies: 1.0
 - name: Shadowspear
   weight: 0.75
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Skateboard
   weight: 0.75
   avg_copies: 1.0
 - name: Legion Extruder

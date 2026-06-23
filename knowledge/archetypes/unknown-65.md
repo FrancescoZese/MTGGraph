@@ -4,16 +4,16 @@ colors:
 - R
 - G
 name: 'Unknown #65'
-meta_share: 0.0062
+meta_share: 0.0061
 list_count: 25
 top_cards:
-- name: Crashing Footfalls
+- name: Shardless Agent
   weight: 1.0
   avg_copies: 4.0
 - name: Violent Outburst
   weight: 1.0
   avg_copies: 4.0
-- name: Shardless Agent
+- name: Crashing Footfalls
   weight: 1.0
   avg_copies: 4.0
 - name: Misty Rainforest
@@ -52,6 +52,9 @@ top_cards:
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.12
+- name: Stomping Ground
+  weight: 1.0
+  avg_copies: 1.0
 - name: Forest
   weight: 1.0
   avg_copies: 1.0
@@ -59,9 +62,6 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Thundering Falls
-  weight: 1.0
-  avg_copies: 1.0
-- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
 - name: Wooded Foothills
@@ -139,28 +139,28 @@ top_cards:
 - name: Flame of Anor
   weight: 0.04
   avg_copies: 4.0
-- name: High Noon
-  weight: 0.04
-  avg_copies: 2.0
 - name: Flooded Grove
-  weight: 0.04
-  avg_copies: 2.0
-- name: Mutavault
   weight: 0.04
   avg_copies: 2.0
 - name: Commandeer
   weight: 0.04
   avg_copies: 2.0
+- name: Mutavault
+  weight: 0.04
+  avg_copies: 2.0
+- name: High Noon
+  weight: 0.04
+  avg_copies: 2.0
 - name: Harbinger of the Seas
   weight: 0.04
   avg_copies: 1.5
-- name: Mine Collapse
-  weight: 0.04
-  avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 0.04
   avg_copies: 1.0
 - name: Fable of the Mirror-Breaker
+  weight: 0.04
+  avg_copies: 1.0
+- name: Mine Collapse
   weight: 0.04
   avg_copies: 1.0
 ---

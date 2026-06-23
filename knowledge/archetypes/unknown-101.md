@@ -6,16 +6,7 @@ name: 'Unknown #101'
 meta_share: 0.0007
 list_count: 3
 top_cards:
-- name: Detective's Phoenix
-  weight: 1.0
-  avg_copies: 4.0
 - name: Burning Inquiry
-  weight: 1.0
-  avg_copies: 4.0
-- name: Street Wraith
-  weight: 1.0
-  avg_copies: 4.0
-- name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
 - name: Hollow One
@@ -27,13 +18,22 @@ top_cards:
 - name: Marauding Mako
   weight: 1.0
   avg_copies: 4.0
+- name: Street Wraith
+  weight: 1.0
+  avg_copies: 4.0
+- name: Nethergoyf
+  weight: 1.0
+  avg_copies: 4.0
+- name: Detective's Phoenix
+  weight: 1.0
+  avg_copies: 4.0
 - name: Meltdown
   weight: 1.0
   avg_copies: 3.33
-- name: Arena of Glory
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 3.0
-- name: Blood Crypt
+- name: Arena of Glory
   weight: 1.0
   avg_copies: 3.0
 - name: Mountain
@@ -42,6 +42,9 @@ top_cards:
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.33
+- name: Tarfire
+  weight: 1.0
+  avg_copies: 2.0
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 2.0
@@ -49,9 +52,6 @@ top_cards:
   weight: 1.0
   avg_copies: 2.0
 - name: Fear of Missing Out
-  weight: 1.0
-  avg_copies: 2.0
-- name: Tarfire
   weight: 1.0
   avg_copies: 2.0
 - name: Raucous Theater
@@ -63,22 +63,22 @@ top_cards:
 - name: Damping Sphere
   weight: 0.6667
   avg_copies: 4.0
+- name: Fatal Push
+  weight: 0.6667
+  avg_copies: 3.0
 - name: Vexing Bauble
   weight: 0.6667
   avg_copies: 3.0
 - name: Orcish Bowmasters
   weight: 0.6667
   avg_copies: 3.0
-- name: Fatal Push
+- name: Lightning Bolt
   weight: 0.6667
-  avg_copies: 3.0
+  avg_copies: 2.0
 - name: Wooded Foothills
   weight: 0.6667
   avg_copies: 2.0
 - name: Dragon's Rage Channeler
-  weight: 0.6667
-  avg_copies: 2.0
-- name: Lightning Bolt
   weight: 0.6667
   avg_copies: 2.0
 - name: Pyroclasm
@@ -87,16 +87,16 @@ top_cards:
 - name: Inti, Seneschal of the Sun
   weight: 0.6667
   avg_copies: 1.0
-- name: Moonshadow
-  weight: 0.3333
-  avg_copies: 4.0
 - name: Thoughtseize
   weight: 0.3333
   avg_copies: 4.0
-- name: Kroxa, Titan of Death's Hunger
+- name: Moonshadow
+  weight: 0.3333
+  avg_copies: 4.0
+- name: Surgical Extraction
   weight: 0.3333
   avg_copies: 3.0
-- name: Surgical Extraction
+- name: Kroxa, Titan of Death's Hunger
   weight: 0.3333
   avg_copies: 3.0
 - name: Obsidian Charmaw

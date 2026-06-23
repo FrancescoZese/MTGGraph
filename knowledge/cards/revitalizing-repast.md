@@ -9,7 +9,7 @@ type: Instant // Land
 meta_presence: 0.0007
 archetypes:
   broodscale-combo:
-    weight: 0.0131
+    weight: 0.0127
     avg_copies: 2.5
   goryo5:
     weight: 0.1111

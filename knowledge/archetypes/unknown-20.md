@@ -6,31 +6,31 @@ name: 'Unknown #20'
 meta_share: 0.0007
 list_count: 3
 top_cards:
-- name: Gran-Gran
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 4.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Pensive Professor
-  weight: 1.0
-  avg_copies: 4.0
-- name: Unearth
-  weight: 1.0
-  avg_copies: 4.0
-- name: Polluted Delta
+- name: Gran-Gran
   weight: 1.0
   avg_copies: 4.0
 - name: Abhorrent Oculus
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Unearth
   weight: 1.0
   avg_copies: 4.0
 - name: Agatha's Soul Cauldron
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 4.0
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
+- name: Pensive Professor
+  weight: 1.0
+  avg_copies: 4.0
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
@@ -42,10 +42,10 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.33
-- name: Undercity Sewers
+- name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 2.67
-- name: Harbinger of the Seas
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 2.67
 - name: Force of Negation
@@ -60,10 +60,10 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 1.33
-- name: Bloodstained Mire
+- name: Thassa's Oracle
   weight: 1.0
   avg_copies: 1.0
-- name: Thassa's Oracle
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.0
 - name: Fatestitcher
@@ -75,10 +75,10 @@ top_cards:
 - name: Tainted Indulgence
   weight: 0.6667
   avg_copies: 2.0
-- name: Orcish Bowmasters
+- name: Mystical Dispute
   weight: 0.6667
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Orcish Bowmasters
   weight: 0.6667
   avg_copies: 2.0
 - name: Sink into Stupor
@@ -90,19 +90,19 @@ top_cards:
 - name: Pyroclasm
   weight: 0.3333
   avg_copies: 2.0
-- name: Vizier of Tumbling Sands
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Engineered Explosives
+- name: Wall of Blood
   weight: 0.3333
   avg_copies: 1.0
 - name: Blood Crypt
   weight: 0.3333
   avg_copies: 1.0
-- name: Wall of Blood
+- name: Walking Ballista
   weight: 0.3333
   avg_copies: 1.0
-- name: Walking Ballista
+- name: Vizier of Tumbling Sands
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Engineered Explosives
   weight: 0.3333
   avg_copies: 1.0
 ---

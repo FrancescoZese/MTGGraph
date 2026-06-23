@@ -11,7 +11,7 @@ type: Instant
 meta_presence: 0.0059
 archetypes:
   domain-zoo:
-    weight: 0.0106
+    weight: 0.0104
     avg_copies: 2.0
   burn:
     weight: 0.7857

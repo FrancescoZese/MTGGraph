@@ -10,8 +10,8 @@ type: Legendary Planeswalker — Narset
 meta_presence: 0.0156
 archetypes:
   azorius-control:
-    weight: 0.5098
-    avg_copies: 3.35
+    weight: 0.5094
+    avg_copies: 3.26
   jeskai-control:
     weight: 0.6667
     avg_copies: 3.7

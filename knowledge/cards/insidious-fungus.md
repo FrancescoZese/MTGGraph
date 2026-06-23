@@ -10,12 +10,12 @@ type: Creature — Fungus
 meta_presence: 0.0015
 archetypes:
   amulet-titan:
-    weight: 0.0248
+    weight: 0.0246
     avg_copies: 1.0
   scapeshift-combo:
     weight: 0.1667
     avg_copies: 1.0
   unknown-88:
-    weight: 0.1818
+    weight: 0.1667
     avg_copies: 1.0
 ---

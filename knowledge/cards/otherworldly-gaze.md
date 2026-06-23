@@ -10,13 +10,13 @@ type: Instant
 meta_presence: 0.0178
 archetypes:
   goryo:
-    weight: 0.2486
-    avg_copies: 1.79
+    weight: 0.2458
+    avg_copies: 1.8
   dredge:
     weight: 0.6
     avg_copies: 4.0
   goryo1:
-    weight: 0.1515
+    weight: 0.15
     avg_copies: 2.13
   unknown-50:
     weight: 1.0

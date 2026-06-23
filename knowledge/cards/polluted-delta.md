@@ -6,25 +6,25 @@ name: Polluted Delta
 scryfall_id: 6e288374-2b71-4ace-b1d2-a19fee6cb4af
 set: mh3
 type: Land
-meta_presence: 0.1951
+meta_presence: 0.196
 archetypes:
   dimir-control:
     weight: 1.0
     avg_copies: 3.7
   goryo:
     weight: 1.0
-    avg_copies: 3.8
+    avg_copies: 3.79
   necrodominance:
     weight: 0.2432
     avg_copies: 1.89
   azorius-control:
-    weight: 0.2549
-    avg_copies: 1.08
+    weight: 0.283
+    avg_copies: 1.13
   living-end:
-    weight: 0.6852
-    avg_copies: 1.49
+    weight: 0.6909
+    avg_copies: 1.47
   affinity:
-    weight: 0.0249
+    weight: 0.0246
     avg_copies: 1.44
   mill:
     weight: 1.0
@@ -42,11 +42,11 @@ archetypes:
     weight: 0.2319
     avg_copies: 1.19
   izzet-prowess:
-    weight: 0.0096
+    weight: 0.0095
     avg_copies: 1.0
   esper-blink:
-    weight: 0.9467
-    avg_copies: 1.68
+    weight: 0.9474
+    avg_copies: 1.67
   orzhov-blink:
     weight: 0.2222
     avg_copies: 1.5
@@ -139,7 +139,7 @@ archetypes:
     avg_copies: 3.25
   unknown-47:
     weight: 1.0
-    avg_copies: 3.91
+    avg_copies: 3.92
   unknown-51:
     weight: 1.0
     avg_copies: 4.0

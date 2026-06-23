@@ -8,22 +8,22 @@ name: 'Unknown #96'
 meta_share: 0.002
 list_count: 8
 top_cards:
-- name: Burning Inquiry
-  weight: 1.0
-  avg_copies: 4.0
-- name: Street Wraith
+- name: Hardened Academic
   weight: 1.0
   avg_copies: 4.0
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Hardened Academic
+- name: Marauding Mako
+  weight: 1.0
+  avg_copies: 4.0
+- name: Street Wraith
+  weight: 1.0
+  avg_copies: 4.0
+- name: Burning Inquiry
   weight: 1.0
   avg_copies: 4.0
 - name: Hollow One
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marauding Mako
   weight: 1.0
   avg_copies: 4.0
 - name: Arid Mesa
@@ -44,10 +44,10 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.88
-- name: Vengevine
+- name: Blazing Rootwalla
   weight: 0.875
   avg_copies: 4.0
-- name: Blazing Rootwalla
+- name: Vengevine
   weight: 0.875
   avg_copies: 4.0
 - name: Vexing Bauble
@@ -62,10 +62,10 @@ top_cards:
 - name: Lightning Bolt
   weight: 0.75
   avg_copies: 3.0
-- name: Wear
+- name: Fable of the Mirror-Breaker
   weight: 0.75
   avg_copies: 2.33
-- name: Fable of the Mirror-Breaker
+- name: Wear
   weight: 0.75
   avg_copies: 2.33
 - name: Stomping Ground
@@ -110,13 +110,13 @@ top_cards:
 - name: Marsh Flats
   weight: 0.125
   avg_copies: 3.0
-- name: Orim's Chant
-  weight: 0.125
-  avg_copies: 3.0
 - name: Thoughtseize
   weight: 0.125
   avg_copies: 3.0
-- name: Damping Sphere
+- name: Orim's Chant
+  weight: 0.125
+  avg_copies: 3.0
+- name: Magebane Lizard
   weight: 0.125
   avg_copies: 2.0
 - name: Orcish Bowmasters
@@ -125,22 +125,22 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.125
   avg_copies: 2.0
-- name: Magebane Lizard
-  weight: 0.125
-  avg_copies: 2.0
 - name: Prismatic Ending
   weight: 0.125
   avg_copies: 2.0
-- name: Rough
+- name: Damping Sphere
+  weight: 0.125
+  avg_copies: 2.0
+- name: Raucous Theater
   weight: 0.125
   avg_copies: 1.0
 - name: Arena of Glory
   weight: 0.125
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Godless Shrine
   weight: 0.125
   avg_copies: 1.0
-- name: Godless Shrine
+- name: Rough
   weight: 0.125
   avg_copies: 1.0
 ---

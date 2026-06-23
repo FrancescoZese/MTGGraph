@@ -5,7 +5,7 @@ colors:
 - R
 - G
 name: 'Unknown #67'
-meta_share: 0.0121
+meta_share: 0.012
 list_count: 49
 top_cards:
 - name: Shardless Agent
@@ -14,10 +14,10 @@ top_cards:
 - name: Subtlety
   weight: 1.0
   avg_copies: 3.96
-- name: Force of Negation
+- name: Violent Outburst
   weight: 1.0
   avg_copies: 3.94
-- name: Violent Outburst
+- name: Force of Negation
   weight: 1.0
   avg_copies: 3.94
 - name: Street Wraith
@@ -50,13 +50,13 @@ top_cards:
 - name: Forest
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
 - name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Curator of Mysteries
@@ -89,10 +89,10 @@ top_cards:
 - name: Striped Riverwinder
   weight: 0.6531
   avg_copies: 2.06
-- name: Boseiju, Who Endures
+- name: Otawara, Soaring City
   weight: 0.6122
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Boseiju, Who Endures
   weight: 0.6122
   avg_copies: 1.0
 - name: Foundation Breaker
@@ -137,10 +137,10 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 0.1837
   avg_copies: 2.0
-- name: Vibrance
+- name: Temple Garden
   weight: 0.1837
   avg_copies: 1.0
-- name: Temple Garden
+- name: Vibrance
   weight: 0.1837
   avg_copies: 1.0
 - name: Magebane Lizard
@@ -161,61 +161,61 @@ top_cards:
 - name: Fade from History
   weight: 0.1224
   avg_copies: 1.17
-- name: Quantum Riddler
-  weight: 0.0816
-  avg_copies: 1.0
 - name: Faerie Macabre
   weight: 0.0816
   avg_copies: 1.0
 - name: Flare of Denial
   weight: 0.0816
   avg_copies: 1.0
+- name: Quantum Riddler
+  weight: 0.0816
+  avg_copies: 1.0
 - name: Valakut Awakening
   weight: 0.0612
   avg_copies: 1.0
-- name: Press the Enemy
+- name: Mountain
   weight: 0.0408
   avg_copies: 1.0
 - name: Windcaller Aven
   weight: 0.0408
   avg_copies: 1.0
-- name: Mountain
+- name: Press the Enemy
   weight: 0.0408
   avg_copies: 1.0
 - name: Overlord of the Balemurk
   weight: 0.0204
   avg_copies: 4.0
-- name: Polluted Delta
+- name: Fulminator Mage
   weight: 0.0204
   avg_copies: 3.0
-- name: Fulminator Mage
+- name: Polluted Delta
   weight: 0.0204
   avg_copies: 3.0
 - name: Architects of Will
   weight: 0.0204
   avg_copies: 3.0
-- name: Bonecrusher Giant
-  weight: 0.0204
-  avg_copies: 2.0
 - name: Culling Ritual
   weight: 0.0204
   avg_copies: 2.0
+- name: Bonecrusher Giant
+  weight: 0.0204
+  avg_copies: 2.0
+- name: Meticulous Archive
+  weight: 0.0204
+  avg_copies: 1.0
+- name: Brainsurge
+  weight: 0.0204
+  avg_copies: 1.0
+- name: Harvester of Misery
+  weight: 0.0204
+  avg_copies: 1.0
 - name: Underground Mortuary
   weight: 0.0204
   avg_copies: 1.0
 - name: Overgrown Tomb
   weight: 0.0204
   avg_copies: 1.0
-- name: Harvester of Misery
-  weight: 0.0204
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.0204
-  avg_copies: 1.0
 - name: Collector Ouphe
-  weight: 0.0204
-  avg_copies: 1.0
-- name: Brainsurge
   weight: 0.0204
   avg_copies: 1.0
 ---

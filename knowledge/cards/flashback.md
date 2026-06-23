@@ -10,22 +10,22 @@ type: Instant
 meta_presence: 0.0398
 archetypes:
   ruby-storm:
-    weight: 0.4454
-    avg_copies: 1.91
+    weight: 0.4508
+    avg_copies: 1.89
   reanimator:
     weight: 0.1111
     avg_copies: 1.67
   boros-ponza:
-    weight: 0.1322
+    weight: 0.128
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.3462
+    weight: 0.3429
     avg_copies: 1.51
   izzet-wizards:
     weight: 0.1
     avg_copies: 1.0
   goryo1:
-    weight: 0.0808
+    weight: 0.08
     avg_copies: 1.12
   unknown-2:
     weight: 1.0

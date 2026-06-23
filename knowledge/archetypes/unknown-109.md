@@ -7,16 +7,16 @@ name: 'Unknown #109'
 meta_share: 0.002
 list_count: 8
 top_cards:
-- name: Flooded Strand
-  weight: 1.0
-  avg_copies: 4.0
-- name: Orim's Chant
-  weight: 1.0
-  avg_copies: 4.0
 - name: Narset, Parter of Veils
   weight: 1.0
   avg_copies: 4.0
 - name: Flow State
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
+- name: Orim's Chant
   weight: 1.0
   avg_copies: 4.0
 - name: Lórien Revealed
@@ -28,13 +28,13 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 2.25
-- name: Day's Undoing
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.0
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 2.0
-- name: Hallowed Fountain
+- name: Day's Undoing
   weight: 1.0
   avg_copies: 2.0
 - name: Veil of Summer
@@ -46,10 +46,10 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 1.75
-- name: Island
+- name: Mystic Gate
   weight: 1.0
   avg_copies: 1.38
-- name: Mystic Gate
+- name: Island
   weight: 1.0
   avg_copies: 1.38
 - name: Plains
@@ -58,19 +58,19 @@ top_cards:
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.25
-- name: Hall of Storm Giants
+- name: Geier Reach Sanitarium
   weight: 1.0
   avg_copies: 1.0
 - name: Kaheera, the Orphanguard
   weight: 1.0
   avg_copies: 1.0
-- name: Geier Reach Sanitarium
-  weight: 1.0
-  avg_copies: 1.0
-- name: Monumental Henge
+- name: Hall of Storm Giants
   weight: 1.0
   avg_copies: 1.0
 - name: Breeding Pool
+  weight: 1.0
+  avg_copies: 1.0
+- name: Monumental Henge
   weight: 1.0
   avg_copies: 1.0
 - name: Galvanic Discharge
@@ -79,13 +79,13 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.875
   avg_copies: 3.14
+- name: Thundering Falls
+  weight: 0.875
+  avg_copies: 1.0
 - name: Steam Vents
   weight: 0.875
   avg_copies: 1.0
 - name: The Wandering Emperor
-  weight: 0.875
-  avg_copies: 1.0
-- name: Thundering Falls
   weight: 0.875
   avg_copies: 1.0
 - name: Counterspell
@@ -115,6 +115,9 @@ top_cards:
 - name: card:oust
   weight: 0.125
   avg_copies: 4.0
+- name: Mistrise Village
+  weight: 0.125
+  avg_copies: 1.0
 - name: card:temporal-trespass
   weight: 0.125
   avg_copies: 1.0
@@ -122,9 +125,6 @@ top_cards:
   weight: 0.125
   avg_copies: 1.0
 - name: card:glen-elendra-s-answer
-  weight: 0.125
-  avg_copies: 1.0
-- name: Mistrise Village
   weight: 0.125
   avg_copies: 1.0
 ---

@@ -6,7 +6,7 @@ colors:
 - R
 - G
 name: Neoform Combo
-meta_share: 0.0136
+meta_share: 0.0134
 list_count: 55
 top_cards:
 - name: Eldritch Evolution
@@ -150,10 +150,10 @@ top_cards:
 - name: Meticulous Archive
   weight: 0.0545
   avg_copies: 1.0
-- name: Glittering Wish
+- name: Gemstone Mine
   weight: 0.0364
   avg_copies: 4.0
-- name: Gemstone Mine
+- name: Glittering Wish
   weight: 0.0364
   avg_copies: 4.0
 - name: Invasion of Gobakhan
@@ -165,10 +165,7 @@ top_cards:
 - name: Abrupt Decay
   weight: 0.0364
   avg_copies: 3.0
-- name: Underground Mortuary
-  weight: 0.0364
-  avg_copies: 1.0
-- name: Detention Sphere
+- name: Raph & Mikey, Troublemakers
   weight: 0.0364
   avg_copies: 1.0
 - name: Borborygmos Enraged
@@ -177,25 +174,31 @@ top_cards:
 - name: Nature's Chant
   weight: 0.0364
   avg_copies: 1.0
-- name: Stump Stomp
+- name: Undercity Sewers
   weight: 0.0364
   avg_copies: 1.0
-- name: Wan Shi Tong, Librarian
+- name: Detention Sphere
   weight: 0.0364
   avg_copies: 1.0
-- name: Raph & Mikey, Troublemakers
+- name: Underground Mortuary
   weight: 0.0364
   avg_copies: 1.0
 - name: Lush Portico
   weight: 0.0364
   avg_copies: 1.0
+- name: Wan Shi Tong, Librarian
+  weight: 0.0364
+  avg_copies: 1.0
+- name: Stump Stomp
+  weight: 0.0364
+  avg_copies: 1.0
 - name: Firespout
   weight: 0.0364
   avg_copies: 1.0
-- name: Undercity Sewers
-  weight: 0.0364
-  avg_copies: 1.0
-- name: Hexing Squelcher
+- name: Summoning Trap
+  weight: 0.0182
+  avg_copies: 4.0
+- name: Geometer's Arthropod
   weight: 0.0182
   avg_copies: 4.0
 - name: Voice of Victory
@@ -204,25 +207,25 @@ top_cards:
 - name: Detect Intrusion
   weight: 0.0182
   avg_copies: 4.0
-- name: Summoning Trap
-  weight: 0.0182
-  avg_copies: 4.0
-- name: Geometer's Arthropod
+- name: Hexing Squelcher
   weight: 0.0182
   avg_copies: 4.0
 - name: Quandrix Charm
   weight: 0.0182
   avg_copies: 3.0
-- name: Subtlety
+- name: Temple Garden
   weight: 0.0182
   avg_copies: 1.0
-- name: Temple Garden
+- name: Commercial District
   weight: 0.0182
   avg_copies: 1.0
 - name: Crucible of Worlds
   weight: 0.0182
   avg_copies: 1.0
-- name: Commercial District
+- name: Subtlety
+  weight: 0.0182
+  avg_copies: 1.0
+- name: Brainsurge
   weight: 0.0182
   avg_copies: 1.0
 - name: Thundering Falls
@@ -232,9 +235,6 @@ top_cards:
   weight: 0.0182
   avg_copies: 1.0
 - name: Leatherhead, Swamp Stalker
-  weight: 0.0182
-  avg_copies: 1.0
-- name: Brainsurge
   weight: 0.0182
   avg_copies: 1.0
 - name: Hallowed Fountain

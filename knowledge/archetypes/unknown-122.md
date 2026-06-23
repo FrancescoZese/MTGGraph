@@ -6,19 +6,19 @@ name: 'Unknown #122'
 meta_share: 0.0022
 list_count: 9
 top_cards:
-- name: Preordain
-  weight: 1.0
-  avg_copies: 4.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Lava Dart
   weight: 1.0
   avg_copies: 4.0
-- name: Dragon's Rage Channeler
+- name: Preordain
   weight: 1.0
   avg_copies: 4.0
 - name: Cori-Steel Cutter
+  weight: 1.0
+  avg_copies: 4.0
+- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
@@ -72,13 +72,13 @@ top_cards:
 - name: Consign to Memory
   weight: 0.7778
   avg_copies: 3.71
+- name: Stomping Ground
+  weight: 0.7778
+  avg_copies: 1.0
 - name: Origin of Metalbending
   weight: 0.7778
   avg_copies: 1.0
 - name: Firebending Lesson
-  weight: 0.7778
-  avg_copies: 1.0
-- name: Stomping Ground
   weight: 0.7778
   avg_copies: 1.0
 - name: Abandon Attachments
@@ -102,16 +102,16 @@ top_cards:
 - name: Questing Druid
   weight: 0.1111
   avg_copies: 4.0
-- name: Misty Rainforest
-  weight: 0.1111
-  avg_copies: 2.0
 - name: Wear
   weight: 0.1111
   avg_copies: 2.0
-- name: Violent Urge
+- name: Misty Rainforest
   weight: 0.1111
   avg_copies: 2.0
 - name: Vexing Bauble
+  weight: 0.1111
+  avg_copies: 2.0
+- name: Violent Urge
   weight: 0.1111
   avg_copies: 2.0
 - name: Slickshot Show-Off
@@ -123,9 +123,6 @@ top_cards:
 - name: Price of Freedom
   weight: 0.1111
   avg_copies: 1.0
-- name: Spell Pierce
-  weight: 0.1111
-  avg_copies: 1.0
 - name: Assault Strobe
   weight: 0.1111
   avg_copies: 1.0
@@ -133,6 +130,9 @@ top_cards:
   weight: 0.1111
   avg_copies: 1.0
 - name: Sacred Foundry
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Spell Pierce
   weight: 0.1111
   avg_copies: 1.0
 - name: Octopus Form

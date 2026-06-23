@@ -7,10 +7,10 @@ name: Explore
 scryfall_id: 3976affd-8c2b-499a-a946-b629c2ba59c7
 set: otc
 type: Sorcery
-meta_presence: 0.003
+meta_presence: 0.0029
 archetypes:
   amulet-titan:
-    weight: 0.0744
+    weight: 0.0738
     avg_copies: 3.22
   unknown-76:
     weight: 0.5

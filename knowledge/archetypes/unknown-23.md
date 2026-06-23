@@ -6,19 +6,19 @@ name: 'Unknown #23'
 meta_share: 0.0015
 list_count: 6
 top_cards:
-- name: Vibrance
+- name: Dryad of the Ilysian Grove
   weight: 1.0
   avg_copies: 4.0
-- name: Dryad of the Ilysian Grove
+- name: Vibrance
   weight: 1.0
   avg_copies: 4.0
 - name: Arboreal Grazer
   weight: 1.0
   avg_copies: 3.83
-- name: Valakut, the Molten Pinnacle
+- name: Icetill Explorer
   weight: 1.0
   avg_copies: 3.67
-- name: Icetill Explorer
+- name: Valakut, the Molten Pinnacle
   weight: 1.0
   avg_copies: 3.67
 - name: Wrenn and Six
@@ -84,10 +84,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.6667
   avg_copies: 2.25
-- name: Collector Ouphe
+- name: Bojuka Bog
   weight: 0.6667
   avg_copies: 1.0
-- name: Bojuka Bog
+- name: Collector Ouphe
   weight: 0.6667
   avg_copies: 1.0
 - name: Arid Mesa
@@ -105,40 +105,40 @@ top_cards:
 - name: Erode
   weight: 0.3333
   avg_copies: 1.75
+- name: Jetmir's Garden
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Elegant Parlor
   weight: 0.3333
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.3333
   avg_copies: 1.0
-- name: Jetmir's Garden
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Scapeshift
   weight: 0.1667
   avg_copies: 3.0
-- name: High Noon
-  weight: 0.1667
-  avg_copies: 2.0
-- name: Ghost Vacuum
-  weight: 0.1667
-  avg_copies: 2.0
-- name: Orim's Chant
+- name: Fire Magic
   weight: 0.1667
   avg_copies: 2.0
 - name: Disruptor Flute
   weight: 0.1667
   avg_copies: 2.0
-- name: Fire Magic
+- name: Ghost Vacuum
   weight: 0.1667
   avg_copies: 2.0
-- name: Sakura-Tribe Elder
+- name: High Noon
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Orim's Chant
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Endurance
   weight: 0.1667
   avg_copies: 1.0
 - name: Dwarven Mine
   weight: 0.1667
   avg_copies: 1.0
-- name: Endurance
+- name: Sakura-Tribe Elder
   weight: 0.1667
   avg_copies: 1.0
 ---

@@ -64,10 +64,10 @@ top_cards:
 - name: High Noon
   weight: 0.8333
   avg_copies: 1.8
-- name: Mountain
+- name: Meticulous Archive
   weight: 0.8333
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Mountain
   weight: 0.8333
   avg_copies: 1.0
 - name: Obsidian Charmaw
@@ -115,13 +115,13 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.3333
   avg_copies: 2.5
-- name: Orim's Chant
+- name: Fable of the Mirror-Breaker
   weight: 0.3333
   avg_copies: 2.0
 - name: Ephemerate
   weight: 0.3333
   avg_copies: 2.0
-- name: Fable of the Mirror-Breaker
+- name: Orim's Chant
   weight: 0.3333
   avg_copies: 2.0
 - name: Teferi, Time Raveler
@@ -130,40 +130,40 @@ top_cards:
 - name: Island
   weight: 0.3333
   avg_copies: 1.0
-- name: Practiced Offense
-  weight: 0.1667
-  avg_copies: 2.0
 - name: Reprieve
   weight: 0.1667
   avg_copies: 2.0
 - name: Deafening Silence
   weight: 0.1667
   avg_copies: 2.0
-- name: Vandalblast
+- name: Practiced Offense
   weight: 0.1667
-  avg_copies: 1.0
-- name: The Legend of Roku
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Spell Pierce
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Boromir, Warden of the Tower
+  avg_copies: 2.0
+- name: Lightning Bolt
   weight: 0.1667
   avg_copies: 1.0
 - name: Marsh Flats
   weight: 0.1667
   avg_copies: 1.0
+- name: Boromir, Warden of the Tower
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.1667
   avg_copies: 1.0
-- name: Lightning Bolt
+- name: The Legend of Roku
   weight: 0.1667
   avg_copies: 1.0
 - name: Strix Serenade
   weight: 0.1667
   avg_copies: 1.0
 - name: Magus of the Moon
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Vandalblast
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Spell Pierce
   weight: 0.1667
   avg_copies: 1.0
 ---

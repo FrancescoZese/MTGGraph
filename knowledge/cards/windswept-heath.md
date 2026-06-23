@@ -9,16 +9,16 @@ type: Land
 meta_presence: 0.1444
 archetypes:
   boros-energy:
-    weight: 0.4305
+    weight: 0.4302
     avg_copies: 2.73
   jeskai-energy:
     weight: 0.0078
     avg_copies: 3.0
   amulet-titan:
-    weight: 0.0248
+    weight: 0.0246
     avg_copies: 1.0
   azorius-control:
-    weight: 0.1176
+    weight: 0.1132
     avg_copies: 1.33
   jeskai-control:
     weight: 0.0333
@@ -30,14 +30,14 @@ archetypes:
     weight: 0.3333
     avg_copies: 4.0
   boros-ponza:
-    weight: 0.0083
+    weight: 0.008
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.9667
-    avg_copies: 3.17
+    weight: 0.9672
+    avg_copies: 3.19
   eldrazi-ramp:
-    weight: 0.8191
-    avg_copies: 1.29
+    weight: 0.8125
+    avg_copies: 1.28
   simic-ritual:
     weight: 0.0725
     avg_copies: 1.6
@@ -45,13 +45,13 @@ archetypes:
     weight: 1.0
     avg_copies: 3.25
   esper-blink:
-    weight: 0.0133
+    weight: 0.0132
     avg_copies: 1.0
   samwise-combo:
     weight: 1.0
     avg_copies: 3.78
   broodscale-combo:
-    weight: 0.2353
+    weight: 0.2357
     avg_copies: 1.19
   orzhov-blink:
     weight: 0.1111
@@ -111,8 +111,8 @@ archetypes:
     weight: 0.3
     avg_copies: 3.67
   unknown-88:
-    weight: 0.9091
-    avg_copies: 3.7
+    weight: 0.9167
+    avg_copies: 3.73
   unknown-93:
     weight: 1.0
     avg_copies: 3.0
@@ -127,7 +127,7 @@ archetypes:
     avg_copies: 3.0
   unknown-126:
     weight: 1.0
-    avg_copies: 3.8
+    avg_copies: 3.82
   unknown-130:
     weight: 1.0
     avg_copies: 2.0

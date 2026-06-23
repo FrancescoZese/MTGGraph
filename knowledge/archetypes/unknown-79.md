@@ -9,22 +9,22 @@ name: 'Unknown #79'
 meta_share: 0.0012
 list_count: 5
 top_cards:
-- name: Ragavan, Nimble Pilferer
-  weight: 1.0
-  avg_copies: 4.0
-- name: Leyline of the Guildpact
+- name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
+- name: Wooded Foothills
+  weight: 1.0
+  avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Territorial Kavu
+- name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
-- name: Wooded Foothills
+- name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 4.0
 - name: Scion of Draco
@@ -54,16 +54,16 @@ top_cards:
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.2
-- name: Forest
-  weight: 1.0
-  avg_copies: 1.0
-- name: Indatha Triome
-  weight: 1.0
-  avg_copies: 1.0
 - name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
+- name: Forest
+  weight: 1.0
+  avg_copies: 1.0
 - name: Island
+  weight: 1.0
+  avg_copies: 1.0
+- name: Indatha Triome
   weight: 1.0
   avg_copies: 1.0
 - name: Thundering Falls
@@ -78,10 +78,10 @@ top_cards:
 - name: Pick Your Poison
   weight: 0.8
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Wrath of the Skies
   weight: 0.8
   avg_copies: 2.0
-- name: Wrath of the Skies
+- name: Mystical Dispute
   weight: 0.8
   avg_copies: 2.0
 - name: Hidetsugu Consumes All
@@ -90,16 +90,16 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 0.8
   avg_copies: 1.6
-- name: Arena of Glory
-  weight: 0.8
-  avg_copies: 1.0
 - name: Watery Grave
   weight: 0.8
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Arena of Glory
   weight: 0.8
   avg_copies: 1.0
 - name: Breeding Pool
+  weight: 0.8
+  avg_copies: 1.0
+- name: Sacred Foundry
   weight: 0.8
   avg_copies: 1.0
 - name: Damping Sphere
@@ -111,19 +111,25 @@ top_cards:
 - name: Wear
   weight: 0.2
   avg_copies: 2.0
-- name: Ashiok, Dream Render
-  weight: 0.2
-  avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 0.2
-  avg_copies: 2.0
 - name: Stubborn Denial
   weight: 0.2
   avg_copies: 2.0
 - name: Drannith Magistrate
   weight: 0.2
   avg_copies: 2.0
+- name: Vexing Bauble
+  weight: 0.2
+  avg_copies: 2.0
+- name: Ashiok, Dream Render
+  weight: 0.2
+  avg_copies: 2.0
+- name: Hallowed Fountain
+  weight: 0.2
+  avg_copies: 1.0
 - name: Shatterstorm
+  weight: 0.2
+  avg_copies: 1.0
+- name: Surgical Extraction
   weight: 0.2
   avg_copies: 1.0
 - name: Overgrown Tomb
@@ -133,12 +139,6 @@ top_cards:
   weight: 0.2
   avg_copies: 1.0
 - name: High Noon
-  weight: 0.2
-  avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.2
-  avg_copies: 1.0
-- name: Hallowed Fountain
   weight: 0.2
   avg_copies: 1.0
 ---

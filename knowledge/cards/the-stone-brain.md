@@ -9,16 +9,16 @@ type: Legendary Artifact
 meta_presence: 0.0376
 archetypes:
   eldrazi-tron:
-    weight: 0.7238
+    weight: 0.7198
     avg_copies: 1.09
   affinity:
-    weight: 0.011
+    weight: 0.0164
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.0083
+    weight: 0.008
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.1489
+    weight: 0.1458
     avg_copies: 1.07
   unknown-37:
     weight: 1.0

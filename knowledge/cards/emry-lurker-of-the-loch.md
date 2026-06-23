@@ -7,11 +7,11 @@ name: Emry, Lurker of the Loch
 scryfall_id: c977d89a-bfd1-4e98-9d95-3e41c53dd188
 set: eoc
 type: Legendary Creature — Merfolk Wizard
-meta_presence: 0.0873
+meta_presence: 0.0868
 archetypes:
   affinity:
-    weight: 0.8204
-    avg_copies: 2.13
+    weight: 0.8169
+    avg_copies: 2.14
   kethis-combo:
     weight: 1.0
     avg_copies: 4.0

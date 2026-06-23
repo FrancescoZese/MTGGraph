@@ -7,22 +7,22 @@ name: 'Unknown #149'
 meta_share: 0.0017
 list_count: 7
 top_cards:
-- name: Flooded Strand
-  weight: 1.0
-  avg_copies: 4.0
-- name: Quantum Riddler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ocelot Pride
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
-- name: Guide of Souls
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
 - name: Ajani, Nacatl Pariah
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
@@ -40,10 +40,10 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 2.15
-- name: Ephemerate
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.0
-- name: Wrath of the Skies
+- name: Ephemerate
   weight: 1.0
   avg_copies: 2.0
 - name: Sacred Foundry
@@ -52,22 +52,22 @@ top_cards:
 - name: Plains
   weight: 1.0
   avg_copies: 1.14
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Elegant Parlor
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
+- name: Elegant Parlor
+  weight: 1.0
+  avg_copies: 1.0
 - name: Island
   weight: 1.0
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Mountain
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Thraben Charm
@@ -94,22 +94,22 @@ top_cards:
 - name: Spell Pierce
   weight: 0.5714
   avg_copies: 1.25
-- name: Vandalblast
+- name: Meltdown
   weight: 0.5714
   avg_copies: 1.0
-- name: Meltdown
+- name: Vandalblast
   weight: 0.5714
   avg_copies: 1.0
 - name: Phelia, Exuberant Shepherd
   weight: 0.4286
   avg_copies: 2.33
+- name: Fable of the Mirror-Breaker
+  weight: 0.4286
+  avg_copies: 2.0
 - name: Vexing Bauble
   weight: 0.4286
   avg_copies: 2.0
 - name: Galvanic Discharge
-  weight: 0.4286
-  avg_copies: 2.0
-- name: Fable of the Mirror-Breaker
   weight: 0.4286
   avg_copies: 2.0
 - name: Surgical Extraction
@@ -133,16 +133,16 @@ top_cards:
 - name: Arena of Glory
   weight: 0.2857
   avg_copies: 1.0
-- name: Scalding Tarn
+- name: Rest in Peace
   weight: 0.1429
   avg_copies: 1.0
-- name: Containment Priest
+- name: Scalding Tarn
   weight: 0.1429
   avg_copies: 1.0
 - name: March of Otherworldly Light
   weight: 0.1429
   avg_copies: 1.0
-- name: Rest in Peace
+- name: Containment Priest
   weight: 0.1429
   avg_copies: 1.0
 ---

@@ -9,28 +9,34 @@ top_cards:
 - name: Gran-Gran
   weight: 1.0
   avg_copies: 4.0
+- name: Psychic Frog
+  weight: 1.0
+  avg_copies: 4.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
 - name: Persist
   weight: 1.0
   avg_copies: 4.0
-- name: Fallaji Archaeologist
-  weight: 1.0
-  avg_copies: 4.0
-- name: Polluted Delta
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Fallaji Archaeologist
   weight: 1.0
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Watery Grave
+  weight: 1.0
+  avg_copies: 3.0
+- name: Abhorrent Oculus
+  weight: 1.0
+  avg_copies: 3.0
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 3.0
 - name: Engineered Explosives
@@ -39,28 +45,19 @@ top_cards:
 - name: Unearth
   weight: 1.0
   avg_copies: 3.0
-- name: Abhorrent Oculus
-  weight: 1.0
-  avg_copies: 3.0
 - name: Flare of Denial
   weight: 1.0
   avg_copies: 3.0
-- name: Undercity Sewers
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 3.0
-- name: Watery Grave
-  weight: 1.0
-  avg_copies: 3.0
-- name: Snow-Covered Swamp
-  weight: 1.0
-  avg_copies: 2.0
 - name: End of the Hunt
   weight: 1.0
   avg_copies: 2.0
-- name: Force of Negation
+- name: Snow-Covered Swamp
   weight: 1.0
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Force of Negation
   weight: 1.0
   avg_copies: 2.0
 - name: Bloodstained Mire
@@ -69,25 +66,28 @@ top_cards:
 - name: Emperor of Bones
   weight: 1.0
   avg_copies: 2.0
-- name: Cephalid Coliseum
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
-- name: Bitter Triumph
+- name: Cephalid Coliseum
   weight: 1.0
   avg_copies: 2.0
 - name: Verdant Catacombs
   weight: 1.0
   avg_copies: 2.0
-- name: Into the Flood Maw
+- name: Bitter Triumph
   weight: 1.0
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 1.0
-- name: Snow-Covered Island
+- name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 1.0
-- name: Harbinger of the Seas
+- name: Into the Flood Maw
+  weight: 1.0
+  avg_copies: 1.0
+- name: Snow-Covered Island
   weight: 1.0
   avg_copies: 1.0
 ---
