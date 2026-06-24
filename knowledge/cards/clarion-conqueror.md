@@ -10,37 +10,37 @@ type: Creature — Dragon
 meta_presence: 0.0577
 archetypes:
   boros-energy:
-    weight: 0.1844
-    avg_copies: 1.45
+    weight: 0.183
+    avg_copies: 1.46
   living-end:
-    weight: 0.2
+    weight: 0.1964
     avg_copies: 2.64
   domain-zoo:
-    weight: 0.1146
+    weight: 0.1111
     avg_copies: 1.09
   mardu-blink:
     weight: 0.1304
     avg_copies: 2.0
   boros-ponza:
-    weight: 0.112
+    weight: 0.1069
     avg_copies: 2.07
   esper-blink:
-    weight: 0.5263
-    avg_copies: 1.25
+    weight: 0.5309
+    avg_copies: 1.3
   orzhov-blink:
     weight: 0.6667
     avg_copies: 2.17
   azorius-blink:
-    weight: 0.5682
-    avg_copies: 1.75
+    weight: 0.5652
+    avg_copies: 1.76
   selesnya-midrange:
     weight: 1.0
     avg_copies: 2.0
   unknown-62:
-    weight: 0.1818
+    weight: 0.1739
     avg_copies: 1.5
   unknown-67:
-    weight: 0.1429
+    weight: 0.1569
     avg_copies: 3.0
   unknown-72:
     weight: 1.0
@@ -49,8 +49,8 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-88:
-    weight: 0.75
-    avg_copies: 2.22
+    weight: 0.7857
+    avg_copies: 2.27
   unknown-113:
     weight: 0.5
     avg_copies: 1.0

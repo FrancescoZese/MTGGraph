@@ -6,22 +6,22 @@ name: Swamp
 scryfall_id: 51fe930f-2b5a-4b1e-9007-6ee74fb44715
 set: sos
 type: Basic Land — Swamp
-meta_presence: 0.2537
+meta_presence: 0.2562
 archetypes:
   dimir-control:
     weight: 0.9877
     avg_copies: 1.02
   eldrazi-tron:
-    weight: 0.7033
-    avg_copies: 1.05
+    weight: 0.7202
+    avg_copies: 1.06
   goryo:
-    weight: 0.9777
+    weight: 0.9792
     avg_copies: 1.02
   necrodominance:
     weight: 1.0
     avg_copies: 9.62
   living-end:
-    weight: 0.4182
+    weight: 0.4286
     avg_copies: 1.0
   mill:
     weight: 0.76
@@ -39,13 +39,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.029
+    weight: 0.0278
     avg_copies: 1.0
   esper-blink:
-    weight: 0.9737
+    weight: 0.9753
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.16
+    weight: 0.1538
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.0833
@@ -66,7 +66,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   rakdos-aggro:
-    weight: 0.9375
+    weight: 0.9412
     avg_copies: 1.0
   cosmogoyf-fling:
     weight: 1.0
@@ -78,11 +78,11 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo1:
-    weight: 0.99
+    weight: 0.9906
     avg_copies: 1.63
   goryo5:
     weight: 1.0
-    avg_copies: 3.56
+    avg_copies: 3.92
   goryo2:
     weight: 1.0
     avg_copies: 1.0
@@ -150,7 +150,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.33
   unknown-47:
-    weight: 0.9592
+    weight: 0.9623
     avg_copies: 1.02
   unknown-51:
     weight: 1.0
@@ -183,8 +183,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-68:
-    weight: 0.5357
-    avg_copies: 1.07
+    weight: 0.5333
+    avg_copies: 1.06
   unknown-69:
     weight: 1.0
     avg_copies: 2.0
@@ -222,7 +222,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-111:
-    weight: 0.3333
+    weight: 0.5
     avg_copies: 1.0
   unknown-110:
     weight: 1.0
@@ -275,4 +275,7 @@ archetypes:
   unknown-147:
     weight: 1.0
     avg_copies: 2.0
+  unknown-154:
+    weight: 1.0
+    avg_copies: 3.0
 ---

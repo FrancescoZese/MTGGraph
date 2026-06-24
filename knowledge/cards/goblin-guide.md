@@ -7,9 +7,12 @@ name: Goblin Guide
 scryfall_id: 3c0f5411-1940-410f-96ce-6f92513f753a
 set: 2xm
 type: Creature — Goblin Scout
-meta_presence: 0.0066
+meta_presence: 0.0071
 archetypes:
   burn:
-    weight: 0.9643
+    weight: 0.9655
     avg_copies: 4.0
+  unknown-86:
+    weight: 0.4
+    avg_copies: 2.0
 ---

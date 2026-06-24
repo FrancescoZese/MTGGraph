@@ -3,16 +3,16 @@ colors:
 - U
 - B
 name: 'Unknown #45'
-meta_share: 0.0046
+meta_share: 0.0045
 list_count: 19
 top_cards:
-- name: Stitcher's Supplier
+- name: Eyetwitch
   weight: 1.0
   avg_copies: 4.0
 - name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
-- name: Eyetwitch
+- name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
 - name: Swamp
@@ -42,13 +42,13 @@ top_cards:
 - name: Boggart Trawler
   weight: 1.0
   avg_copies: 1.84
-- name: Decorum Dissertation
-  weight: 1.0
-  avg_copies: 1.0
 - name: Ruinous Waterbending
   weight: 1.0
   avg_copies: 1.0
 - name: Ozai's Cruelty
+  weight: 1.0
+  avg_copies: 1.0
+- name: Decorum Dissertation
   weight: 1.0
   avg_copies: 1.0
 - name: Street Wraith
@@ -69,13 +69,13 @@ top_cards:
 - name: Origin of Metalbending
   weight: 0.9474
   avg_copies: 1.06
+- name: True Ancestry
+  weight: 0.9474
+  avg_copies: 1.0
 - name: Underground Mortuary
   weight: 0.9474
   avg_copies: 1.0
 - name: Dai Li Indoctrination
-  weight: 0.9474
-  avg_copies: 1.0
-- name: True Ancestry
   weight: 0.9474
   avg_copies: 1.0
 - name: Break the Ice
@@ -132,10 +132,10 @@ top_cards:
 - name: Redirect Lightning
   weight: 0.1053
   avg_copies: 1.0
-- name: Vexing Bauble
+- name: Cling to Dust
   weight: 0.1053
   avg_copies: 1.0
-- name: Cling to Dust
+- name: Vexing Bauble
   weight: 0.1053
   avg_copies: 1.0
 - name: Bloodstained Mire
@@ -150,34 +150,34 @@ top_cards:
 - name: Price of Freedom
   weight: 0.0526
   avg_copies: 2.0
+- name: card:hollow-marauder
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Takenuma, Abandoned Mire
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Improvisation Capstone
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Forest
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Faerie Macabre
+  weight: 0.0526
+  avg_copies: 1.0
 - name: card:the-terminus-of-return
   weight: 0.0526
   avg_copies: 1.0
 - name: Raucous Theater
   weight: 0.0526
   avg_copies: 1.0
-- name: Faerie Macabre
-  weight: 0.0526
-  avg_copies: 1.0
-- name: card:hollow-marauder
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Chthonian Nightmare
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Takenuma, Abandoned Mire
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Forest
+- name: card:summon-bahamut
   weight: 0.0526
   avg_copies: 1.0
 - name: Vampire Hexmage
   weight: 0.0526
   avg_copies: 1.0
-- name: card:summon-bahamut
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Improvisation Capstone
+- name: Chthonian Nightmare
   weight: 0.0526
   avg_copies: 1.0
 - name: Liliana, the Last Hope

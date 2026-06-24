@@ -2,16 +2,13 @@
 colors:
 - R
 name: 'Unknown #98'
-meta_share: 0.001
+meta_share: 0.0009
 list_count: 4
 top_cards:
-- name: Urza's Saga
-  weight: 1.0
-  avg_copies: 4.0
 - name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
-- name: Shrapnel Blast
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Experimental Synthesizer
@@ -23,10 +20,13 @@ top_cards:
 - name: Darksteel Citadel
   weight: 1.0
   avg_copies: 4.0
-- name: Lightning Bolt
+- name: Shrapnel Blast
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mountain
   weight: 1.0
   avg_copies: 3.5
-- name: Mountain
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 3.5
 - name: Ramunap Ruins
@@ -53,19 +53,19 @@ top_cards:
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 2.0
+- name: Soul-Guide Lantern
+  weight: 1.0
+  avg_copies: 1.0
 - name: Grafdigger's Cage
+  weight: 1.0
+  avg_copies: 1.0
+- name: Sokenzan, Crucible of Defiance
   weight: 1.0
   avg_copies: 1.0
 - name: Shinka, the Bloodsoaked Keep
   weight: 1.0
   avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 1.0
-  avg_copies: 1.0
 - name: Vexing Bauble
-  weight: 1.0
-  avg_copies: 1.0
-- name: Sokenzan, Crucible of Defiance
   weight: 1.0
   avg_copies: 1.0
 - name: Whipflare
@@ -74,10 +74,10 @@ top_cards:
 - name: Sundering Eruption
   weight: 0.75
   avg_copies: 2.0
-- name: Pithing Needle
+- name: Shadowspear
   weight: 0.75
   avg_copies: 1.0
-- name: Shadowspear
+- name: Pithing Needle
   weight: 0.75
   avg_copies: 1.0
 - name: Skateboard

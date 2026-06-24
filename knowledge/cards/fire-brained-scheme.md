@@ -9,10 +9,10 @@ type: Unknown
 meta_presence: 0.0054
 archetypes:
   ruby-storm:
-    weight: 0.1475
+    weight: 0.1462
     avg_copies: 1.89
   rakdos-aggro:
-    weight: 0.125
+    weight: 0.1176
     avg_copies: 2.5
   unknown-11:
     weight: 0.2

@@ -8,14 +8,14 @@ name: Pillage the Bog
 scryfall_id: fa3b415f-7901-4ab4-84fe-60b90d40ac90
 set: otj
 type: Sorcery
-meta_presence: 0.0022
+meta_presence: 0.0026
 archetypes:
   necrodominance:
     weight: 0.027
     avg_copies: 2.0
   goryo5:
-    weight: 0.4444
-    avg_copies: 1.25
+    weight: 0.5
+    avg_copies: 1.17
   unknown-14:
     weight: 1.0
     avg_copies: 4.0

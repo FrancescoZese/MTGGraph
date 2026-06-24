@@ -6,9 +6,9 @@ name: Eldrazi Obligator
 scryfall_id: dfaa8b16-7c12-44e2-8ddb-17608d491c41
 set: ogw
 type: Creature — Eldrazi
-meta_presence: 0.001
+meta_presence: 0.0009
 archetypes:
   goryo4:
-    weight: 0.4
+    weight: 0.3636
     avg_copies: 1.0
 ---

@@ -9,6 +9,6 @@ type: Creature — Eldrazi
 meta_presence: 0.0002
 archetypes:
   goryo4:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 2.0
 ---

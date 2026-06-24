@@ -7,9 +7,9 @@ name: Wish
 scryfall_id: 3ed021d2-e2bc-44b3-8934-4bd02e0a42ec
 set: afr
 type: Sorcery
-meta_presence: 0.0293
+meta_presence: 0.0301
 archetypes:
   ruby-storm:
-    weight: 0.9836
-    avg_copies: 2.1
+    weight: 0.9846
+    avg_copies: 2.09
 ---

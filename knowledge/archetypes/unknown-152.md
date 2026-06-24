@@ -10,39 +10,30 @@ top_cards:
 - name: Arboreal Grazer
   weight: 1.0
   avg_copies: 4.0
-- name: Wooded Foothills
+- name: Fire Magic
   weight: 1.0
   avg_copies: 4.0
 - name: Mountain
   weight: 1.0
   avg_copies: 4.0
-- name: Arid Mesa
-  weight: 1.0
-  avg_copies: 4.0
-- name: Erode
-  weight: 1.0
-  avg_copies: 4.0
-- name: Icetill Explorer
-  weight: 1.0
-  avg_copies: 4.0
-- name: Fire Magic
-  weight: 1.0
-  avg_copies: 4.0
-- name: Valakut, the Molten Pinnacle
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 4.0
 - name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 4.0
-- name: Orim's Chant
+- name: Erode
   weight: 1.0
-  avg_copies: 3.0
-- name: Windswept Heath
+  avg_copies: 4.0
+- name: Arid Mesa
   weight: 1.0
-  avg_copies: 3.0
-- name: Wrenn and Six
+  avg_copies: 4.0
+- name: Valakut, the Molten Pinnacle
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 4.0
+- name: Icetill Explorer
+  weight: 1.0
+  avg_copies: 4.0
 - name: Scapeshift
   weight: 1.0
   avg_copies: 3.0
@@ -52,13 +43,22 @@ top_cards:
 - name: Commercial District
   weight: 1.0
   avg_copies: 3.0
-- name: Surgical Extraction
+- name: Windswept Heath
   weight: 1.0
-  avg_copies: 2.0
-- name: Dryad of the Ilysian Grove
+  avg_copies: 3.0
+- name: Wrenn and Six
+  weight: 1.0
+  avg_copies: 3.0
+- name: Orim's Chant
+  weight: 1.0
+  avg_copies: 3.0
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 2.0
 - name: Force of Vigor
+  weight: 1.0
+  avg_copies: 2.0
+- name: Surgical Extraction
   weight: 1.0
   avg_copies: 2.0
 - name: High Noon
@@ -67,34 +67,34 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 2.0
-- name: Stomping Ground
+- name: Dryad of the Ilysian Grove
   weight: 1.0
   avg_copies: 2.0
-- name: Forest
-  weight: 1.0
-  avg_copies: 1.0
 - name: Fade from History
-  weight: 1.0
-  avg_copies: 1.0
-- name: Elegant Parlor
-  weight: 1.0
-  avg_copies: 1.0
-- name: Meltdown
-  weight: 1.0
-  avg_copies: 1.0
-- name: Jetmir's Garden
-  weight: 1.0
-  avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 1.0
-  avg_copies: 1.0
-- name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
 - name: Dwarven Mine
   weight: 1.0
   avg_copies: 1.0
+- name: Forest
+  weight: 1.0
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 1.0
+  avg_copies: 1.0
+- name: Elegant Parlor
+  weight: 1.0
+  avg_copies: 1.0
 - name: Damping Sphere
+  weight: 1.0
+  avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 1.0
+  avg_copies: 1.0
+- name: Jetmir's Garden
+  weight: 1.0
+  avg_copies: 1.0
+- name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
 ---

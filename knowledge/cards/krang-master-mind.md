@@ -10,8 +10,8 @@ type: Legendary Artifact Creature — Utrom Warrior
 meta_presence: 0.0337
 archetypes:
   affinity:
-    weight: 0.3661
-    avg_copies: 1.43
+    weight: 0.3594
+    avg_copies: 1.42
   goryo7:
     weight: 1.0
     avg_copies: 1.0

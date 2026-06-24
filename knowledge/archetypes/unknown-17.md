@@ -6,7 +6,19 @@ name: 'Unknown #17'
 meta_share: 0.0007
 list_count: 3
 top_cards:
+- name: Counterspell
+  weight: 1.0
+  avg_copies: 4.0
 - name: Snapcaster Mage
+  weight: 1.0
+  avg_copies: 4.0
+- name: Path to Exile
+  weight: 1.0
+  avg_copies: 4.0
+- name: Field of Ruin
+  weight: 1.0
+  avg_copies: 4.0
+- name: Erode
   weight: 1.0
   avg_copies: 4.0
 - name: Island
@@ -18,22 +30,10 @@ top_cards:
 - name: Wan Shi Tong, Librarian
   weight: 1.0
   avg_copies: 4.0
-- name: Erode
-  weight: 1.0
-  avg_copies: 4.0
-- name: Counterspell
-  weight: 1.0
-  avg_copies: 4.0
-- name: Path to Exile
-  weight: 1.0
-  avg_copies: 4.0
-- name: Field of Ruin
-  weight: 1.0
-  avg_copies: 4.0
-- name: Force of Negation
+- name: Celestial Colonnade
   weight: 1.0
   avg_copies: 3.0
-- name: Celestial Colonnade
+- name: Force of Negation
   weight: 1.0
   avg_copies: 3.0
 - name: Consign to Memory
@@ -45,13 +45,13 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.33
+- name: Meticulous Archive
+  weight: 1.0
+  avg_copies: 2.0
 - name: Rest in Peace
   weight: 1.0
   avg_copies: 2.0
 - name: Plains
-  weight: 1.0
-  avg_copies: 2.0
-- name: Meticulous Archive
   weight: 1.0
   avg_copies: 2.0
 - name: Stony Silence
@@ -69,13 +69,13 @@ top_cards:
 - name: Orim's Chant
   weight: 0.6667
   avg_copies: 2.5
+- name: Commandeer
+  weight: 0.6667
+  avg_copies: 2.0
 - name: Dress Down
   weight: 0.6667
   avg_copies: 2.0
 - name: Spell Snare
-  weight: 0.6667
-  avg_copies: 2.0
-- name: Commandeer
   weight: 0.6667
   avg_copies: 2.0
 - name: Elesh Norn, Mother of Machines
@@ -84,10 +84,10 @@ top_cards:
 - name: Castle Vantress
   weight: 0.6667
   avg_copies: 1.0
-- name: Supreme Verdict
+- name: Archmage's Charm
   weight: 0.3333
   avg_copies: 3.0
-- name: Archmage's Charm
+- name: Supreme Verdict
   weight: 0.3333
   avg_copies: 3.0
 - name: Beza, the Bounding Spring
@@ -96,13 +96,13 @@ top_cards:
 - name: Hallowed Moonlight
   weight: 0.3333
   avg_copies: 2.0
+- name: High Noon
+  weight: 0.3333
+  avg_copies: 2.0
 - name: Wrath of the Skies
   weight: 0.3333
   avg_copies: 2.0
 - name: Aang, Swift Savior
-  weight: 0.3333
-  avg_copies: 2.0
-- name: High Noon
   weight: 0.3333
   avg_copies: 2.0
 - name: Otawara, Soaring City

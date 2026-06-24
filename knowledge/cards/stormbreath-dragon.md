@@ -7,9 +7,9 @@ name: Stormbreath Dragon
 scryfall_id: 3637d9b8-87bb-478d-bfb1-59ddab7b5e4c
 set: tdc
 type: Creature — Dragon
-meta_presence: 0.0002
+meta_presence: 0.0005
 archetypes:
   boros-ponza:
-    weight: 0.008
+    weight: 0.0153
     avg_copies: 1.0
 ---

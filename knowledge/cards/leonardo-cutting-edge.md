@@ -7,10 +7,10 @@ name: Leonardo, Cutting Edge
 scryfall_id: 74c11ee3-19d1-4ad5-a727-1d74c565d6a5
 set: tmt
 type: Legendary Creature — Mutant Ninja Turtle
-meta_presence: 0.001
+meta_presence: 0.0009
 archetypes:
   azorius-blink:
-    weight: 0.0227
+    weight: 0.0217
     avg_copies: 3.0
   bant-ritual:
     weight: 1.0

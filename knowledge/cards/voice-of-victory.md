@@ -10,11 +10,11 @@ type: Creature — Human Bard
 meta_presence: 0.1227
 archetypes:
   ruby-storm:
-    weight: 0.0082
-    avg_copies: 1.0
+    weight: 0.0154
+    avg_copies: 1.5
   boros-energy:
-    weight: 0.8454
-    avg_copies: 2.11
+    weight: 0.8496
+    avg_copies: 2.13
   neoform-combo:
     weight: 0.0182
     avg_copies: 4.0
@@ -22,13 +22,13 @@ archetypes:
     weight: 0.2222
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.008
+    weight: 0.0076
     avg_copies: 2.0
   samwise-combo:
-    weight: 0.08
-    avg_copies: 1.17
+    weight: 0.0962
+    avg_copies: 1.14
   azorius-blink:
-    weight: 0.0682
+    weight: 0.0652
     avg_copies: 2.0
   bant-ritual:
     weight: 1.0
@@ -40,8 +40,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-68:
-    weight: 0.9286
-    avg_copies: 2.0
+    weight: 0.9
+    avg_copies: 2.04
   unknown-70:
     weight: 0.3333
     avg_copies: 2.5
@@ -52,7 +52,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-88:
-    weight: 0.1667
+    weight: 0.2143
     avg_copies: 2.0
   unknown-131:
     weight: 0.1429

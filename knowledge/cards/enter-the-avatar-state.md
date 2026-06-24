@@ -7,9 +7,9 @@ name: Enter the Avatar State
 scryfall_id: a8f3d2cb-d073-4df8-8769-49612628a377
 set: tla
 type: Instant — Lesson
-meta_presence: 0.001
+meta_presence: 0.0009
 archetypes:
   samwise-combo:
-    weight: 0.08
+    weight: 0.0769
     avg_copies: 1.0
 ---

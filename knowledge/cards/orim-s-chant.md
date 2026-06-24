@@ -7,61 +7,61 @@ name: Orim's Chant
 scryfall_id: ee241079-1e5a-4224-b9cb-4fd3e0da687c
 set: mh3
 type: Instant
-meta_presence: 0.2011
+meta_presence: 0.1978
 archetypes:
   ruby-storm:
-    weight: 0.8115
+    weight: 0.8077
     avg_copies: 3.16
   boros-energy:
-    weight: 0.8045
+    weight: 0.788
     avg_copies: 1.75
   mono-blue-belcher:
-    weight: 0.0597
+    weight: 0.0588
     avg_copies: 3.0
   jeskai-energy:
     weight: 0.0078
     avg_copies: 4.0
   goryo:
-    weight: 0.0223
+    weight: 0.0208
     avg_copies: 2.0
   azorius-control:
     weight: 1.0
-    avg_copies: 3.92
+    avg_copies: 3.93
   jeskai-control:
-    weight: 0.8667
-    avg_copies: 3.68
+    weight: 0.871
+    avg_copies: 3.69
   burn:
-    weight: 0.0714
+    weight: 0.069
     avg_copies: 1.5
   mono-red-belcher:
     weight: 0.4167
     avg_copies: 3.56
   boros-ponza:
-    weight: 0.728
-    avg_copies: 1.77
+    weight: 0.7023
+    avg_copies: 1.78
   4c-omnath:
     weight: 0.25
     avg_copies: 4.0
   esper-blink:
-    weight: 0.0263
+    weight: 0.0247
     avg_copies: 2.0
   indomitable-creativity:
     weight: 0.25
     avg_copies: 2.67
   broodscale-combo:
-    weight: 0.0064
+    weight: 0.0061
     avg_copies: 2.0
   orzhov-blink:
     weight: 0.1111
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.0682
+    weight: 0.0652
     avg_copies: 1.67
   scapeshift-combo:
     weight: 0.1667
     avg_copies: 4.0
   goryo0:
-    weight: 0.95
+    weight: 0.9524
     avg_copies: 3.95
   4c-omnath9:
     weight: 1.0
@@ -97,10 +97,10 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-62:
-    weight: 0.0455
+    weight: 0.0435
     avg_copies: 1.0
   unknown-68:
-    weight: 0.3214
+    weight: 0.3
     avg_copies: 1.33
   unknown-70:
     weight: 0.3333
@@ -109,10 +109,10 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-86:
-    weight: 1.0
+    weight: 0.6
     avg_copies: 1.67
   unknown-88:
-    weight: 0.0833
+    weight: 0.0714
     avg_copies: 2.0
   unknown-93:
     weight: 1.0
@@ -134,12 +134,12 @@ archetypes:
     avg_copies: 4.0
   unknown-126:
     weight: 1.0
-    avg_copies: 2.82
+    avg_copies: 2.75
   unknown-140:
     weight: 1.0
     avg_copies: 4.0
   unknown-149:
-    weight: 0.5714
+    weight: 0.5
     avg_copies: 2.0
   unknown-152:
     weight: 1.0

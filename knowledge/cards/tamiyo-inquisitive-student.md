@@ -6,25 +6,25 @@ name: Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
 scryfall_id: 2a717b98-cdac-416d-bf6c-f6b6638e65d1
 set: mh3
 type: Legendary Creature — Moonfolk Wizard // Legendary Planeswalker — Tamiyo
-meta_presence: 0.0496
+meta_presence: 0.0487
 archetypes:
   dimir-control:
     weight: 0.4691
     avg_copies: 2.24
   mono-blue-belcher:
-    weight: 0.1791
-    avg_copies: 1.76
+    weight: 0.1912
+    avg_copies: 1.77
   jeskai-energy:
     weight: 0.0388
     avg_copies: 1.4
   azorius-control:
-    weight: 0.0377
+    weight: 0.0357
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.1667
+    weight: 0.1613
     avg_copies: 3.0
   affinity:
-    weight: 0.0055
+    weight: 0.0052
     avg_copies: 2.0
   mill:
     weight: 0.08
@@ -36,7 +36,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   simic-ritual:
-    weight: 0.1014
+    weight: 0.0972
     avg_copies: 1.57
   izzet-artifacts:
     weight: 0.9688
@@ -51,7 +51,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.01
+    weight: 0.0094
     avg_copies: 2.0
   grixis-control:
     weight: 1.0
@@ -87,8 +87,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-47:
-    weight: 0.7755
-    avg_copies: 1.82
+    weight: 0.7547
+    avg_copies: 1.85
   unknown-51:
     weight: 1.0
     avg_copies: 4.0
@@ -99,7 +99,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-62:
-    weight: 0.0909
+    weight: 0.087
     avg_copies: 1.0
   unknown-63:
     weight: 1.0
@@ -136,5 +136,8 @@ archetypes:
     avg_copies: 3.0
   unknown-120:
     weight: 0.3333
+    avg_copies: 4.0
+  unknown-155:
+    weight: 1.0
     avg_copies: 4.0
 ---

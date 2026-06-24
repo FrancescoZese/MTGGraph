@@ -10,17 +10,17 @@ type: Creature — Angel
 meta_presence: 0.021
 archetypes:
   boros-energy:
-    weight: 0.0019
+    weight: 0.0018
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.8864
+    weight: 0.8913
     avg_copies: 2.54
   bant-ritual:
     weight: 1.0
     avg_copies: 1.0
   unknown-62:
     weight: 1.0
-    avg_copies: 3.45
+    avg_copies: 3.43
   unknown-80:
     weight: 1.0
     avg_copies: 1.0
@@ -28,7 +28,7 @@ archetypes:
     weight: 0.5
     avg_copies: 3.0
   unknown-88:
-    weight: 0.5833
+    weight: 0.5
     avg_copies: 1.29
   unknown-131:
     weight: 1.0
@@ -37,6 +37,6 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-149:
-    weight: 0.7143
+    weight: 0.625
     avg_copies: 2.0
 ---

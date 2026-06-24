@@ -10,23 +10,23 @@ type: Instant
 meta_presence: 0.0144
 archetypes:
   mono-blue-belcher:
-    weight: 0.2836
+    weight: 0.2794
     avg_copies: 1.58
   azorius-control:
-    weight: 0.0189
+    weight: 0.0179
     avg_copies: 1.0
   living-end:
-    weight: 0.4545
+    weight: 0.4643
     avg_copies: 1.12
   unknown-17:
     weight: 0.6667
     avg_copies: 2.0
   unknown-65:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 2.0
   unknown-67:
-    weight: 0.1633
-    avg_copies: 1.5
+    weight: 0.1765
+    avg_copies: 1.44
   unknown-104:
     weight: 1.0
     avg_copies: 1.0

@@ -6,16 +6,16 @@ name: Lush Portico
 scryfall_id: c17816e8-28b1-4295-a637-efb0e5c18873
 set: mkm
 type: Land — Forest Plains
-meta_presence: 0.0428
+meta_presence: 0.0433
 archetypes:
   jeskai-energy:
     weight: 0.0078
     avg_copies: 1.0
   living-end:
-    weight: 0.2545
+    weight: 0.25
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.5521
+    weight: 0.5455
     avg_copies: 1.0
   neoform-combo:
     weight: 0.0364
@@ -67,7 +67,7 @@ archetypes:
     avg_copies: 1.0
   unknown-88:
     weight: 1.0
-    avg_copies: 1.75
+    avg_copies: 1.79
   unknown-93:
     weight: 0.75
     avg_copies: 1.0
@@ -81,6 +81,12 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-142:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-153:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-157:
     weight: 1.0
     avg_copies: 1.0
 ---

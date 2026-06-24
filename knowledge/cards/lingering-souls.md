@@ -7,10 +7,10 @@ name: Lingering Souls
 scryfall_id: 2a00c585-5bbc-4622-bf5b-4ec63b669f4c
 set: tdc
 type: Sorcery
-meta_presence: 0.001
+meta_presence: 0.0009
 archetypes:
   unknown-68:
-    weight: 0.0357
+    weight: 0.0333
     avg_copies: 2.0
   unknown-96:
     weight: 0.375

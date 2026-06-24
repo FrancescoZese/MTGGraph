@@ -6,13 +6,13 @@ name: Monumental Henge
 scryfall_id: 62907e7b-e531-4f51-9a69-7e60ae525775
 set: mh3
 type: Land
-meta_presence: 0.0193
+meta_presence: 0.0195
 archetypes:
   azorius-control:
-    weight: 0.8113
+    weight: 0.8036
     avg_copies: 1.02
   jeskai-control:
-    weight: 0.6333
+    weight: 0.6129
     avg_copies: 1.0
   orzhov-blink:
     weight: 0.1111
@@ -24,7 +24,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-106:
-    weight: 0.8
+    weight: 0.8333
     avg_copies: 1.0
   unknown-109:
     weight: 1.0

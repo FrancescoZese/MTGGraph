@@ -10,6 +10,6 @@ type: Enchantment Creature — Spirit
 meta_presence: 0.0012
 archetypes:
   samwise-combo:
-    weight: 0.1
+    weight: 0.0962
     avg_copies: 1.0
 ---

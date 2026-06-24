@@ -7,22 +7,22 @@ name: Rough // Tumble
 scryfall_id: ea0cdb87-030a-4696-a16f-c971cdced3ca
 set: tsr
 type: Sorcery // Sorcery
-meta_presence: 0.0213
+meta_presence: 0.016
 archetypes:
   living-end:
-    weight: 0.0182
+    weight: 0.0179
     avg_copies: 4.0
   domain-zoo:
-    weight: 0.4896
+    weight: 0.4747
     avg_copies: 1.83
   hollow-one:
-    weight: 0.6562
-    avg_copies: 2.05
+    weight: 0.0312
+    avg_copies: 2.0
   simic-ritual:
-    weight: 0.0145
+    weight: 0.0139
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.0286
+    weight: 0.0279
     avg_copies: 1.17
   4c-omnath:
     weight: 0.75
@@ -40,8 +40,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-65:
-    weight: 0.08
-    avg_copies: 2.0
+    weight: 0.1154
+    avg_copies: 2.33
   unknown-85:
     weight: 0.1
     avg_copies: 2.0

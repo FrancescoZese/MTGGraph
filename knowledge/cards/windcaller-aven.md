@@ -7,12 +7,12 @@ name: Windcaller Aven
 scryfall_id: d4f1e538-9e68-4481-9bd6-3d37e20645f2
 set: cmm
 type: Creature — Bird Wizard
-meta_presence: 0.001
+meta_presence: 0.0009
 archetypes:
   living-end:
-    weight: 0.0364
+    weight: 0.0357
     avg_copies: 1.0
   unknown-67:
-    weight: 0.0408
+    weight: 0.0392
     avg_copies: 1.0
 ---

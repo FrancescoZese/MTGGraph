@@ -7,12 +7,15 @@ name: Primeval Titan
 scryfall_id: 6d5537da-112e-4679-a113-b5d7ce32a66b
 set: ima
 type: Creature — Giant
-meta_presence: 0.0313
+meta_presence: 0.0311
 archetypes:
   amulet-titan:
     weight: 1.0
-    avg_copies: 3.52
+    avg_copies: 3.51
   unknown-76:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-153:
     weight: 1.0
     avg_copies: 4.0
 ---

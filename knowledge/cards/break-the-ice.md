@@ -13,7 +13,7 @@ archetypes:
     weight: 0.4321
     avg_copies: 2.8
   goryo:
-    weight: 0.0056
+    weight: 0.0052
     avg_copies: 2.0
   necrodominance:
     weight: 0.9189
@@ -22,17 +22,17 @@ archetypes:
     weight: 0.0312
     avg_copies: 2.0
   simic-ritual:
-    weight: 0.0145
+    weight: 0.0139
     avg_copies: 1.0
   rakdos-aggro:
-    weight: 0.0625
+    weight: 0.0588
     avg_copies: 2.0
   the-rock:
     weight: 0.5
     avg_copies: 3.0
   goryo5:
-    weight: 0.4444
-    avg_copies: 2.75
+    weight: 0.5833
+    avg_copies: 2.43
   soultrader-combo:
     weight: 0.2
     avg_copies: 1.0
@@ -55,7 +55,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.5
   unknown-47:
-    weight: 0.0204
+    weight: 0.0189
     avg_copies: 4.0
   unknown-52:
     weight: 0.8889
@@ -79,9 +79,12 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-111:
-    weight: 0.3333
+    weight: 0.5
     avg_copies: 2.0
   unknown-147:
     weight: 0.5
     avg_copies: 3.0
+  unknown-154:
+    weight: 1.0
+    avg_copies: 4.0
 ---

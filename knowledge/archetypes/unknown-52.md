@@ -3,13 +3,19 @@ colors:
 - B
 - G
 name: 'Unknown #52'
-meta_share: 0.0022
+meta_share: 0.0021
 list_count: 9
 top_cards:
-- name: Malevolent Rumble
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
 - name: Gravecrawler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Warren Soultrader
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marionette Apprentice
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
@@ -21,16 +27,10 @@ top_cards:
 - name: Phoenix Fleet Airship
   weight: 1.0
   avg_copies: 4.0
-- name: Verdant Catacombs
-  weight: 1.0
-  avg_copies: 4.0
-- name: Warren Soultrader
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
 - name: Phyrexian Tower
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marionette Apprentice
   weight: 1.0
   avg_copies: 4.0
 - name: Orcish Bowmasters
@@ -39,10 +39,10 @@ top_cards:
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 3.78
-- name: Culling Ritual
+- name: Flare of Malice
   weight: 1.0
   avg_copies: 3.0
-- name: Flare of Malice
+- name: Culling Ritual
   weight: 1.0
   avg_copies: 3.0
 - name: Fatal Push
@@ -69,16 +69,16 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 1.11
-- name: Spymaster's Vault
+- name: Shatter Assumptions
   weight: 1.0
   avg_copies: 1.0
-- name: Bloodstained Mire
+- name: Spymaster's Vault
   weight: 1.0
   avg_copies: 1.0
 - name: Sephiroth, Fabled SOLDIER
   weight: 1.0
   avg_copies: 1.0
-- name: Shatter Assumptions
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.0
 - name: Break the Ice
@@ -93,10 +93,10 @@ top_cards:
 - name: Graveyard Trespasser
   weight: 0.1111
   avg_copies: 3.0
-- name: Haywire Mite
+- name: Cling to Dust
   weight: 0.1111
   avg_copies: 1.0
-- name: Cling to Dust
+- name: Haywire Mite
   weight: 0.1111
   avg_copies: 1.0
 ---

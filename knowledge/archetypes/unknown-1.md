@@ -3,13 +3,10 @@ colors:
 - B
 - R
 name: 'Unknown #1'
-meta_share: 0.0017
+meta_share: 0.0016
 list_count: 7
 top_cards:
-- name: Stitcher's Supplier
-  weight: 1.0
-  avg_copies: 4.0
-- name: Faithless Looting
+- name: Bloodghast
   weight: 1.0
   avg_copies: 4.0
 - name: Archon of Cruelty
@@ -18,7 +15,10 @@ top_cards:
 - name: Flare of Malice
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodghast
+- name: Stitcher's Supplier
+  weight: 1.0
+  avg_copies: 4.0
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Persist
@@ -36,10 +36,19 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 1.0
   avg_copies: 2.57
+- name: Mountain
+  weight: 1.0
+  avg_copies: 2.0
+- name: Swamp
+  weight: 1.0
+  avg_copies: 2.0
 - name: Brotherhood's End
   weight: 1.0
   avg_copies: 2.0
 - name: Fatal Push
+  weight: 1.0
+  avg_copies: 2.0
+- name: Spymaster's Vault
   weight: 1.0
   avg_copies: 2.0
 - name: Polluted Delta
@@ -48,19 +57,10 @@ top_cards:
 - name: Village Rites
   weight: 1.0
   avg_copies: 2.0
-- name: Spymaster's Vault
-  weight: 1.0
-  avg_copies: 2.0
-- name: Mountain
-  weight: 1.0
-  avg_copies: 2.0
-- name: Swamp
-  weight: 1.0
-  avg_copies: 2.0
-- name: Corrupted Conviction
+- name: Extract the Truth
   weight: 1.0
   avg_copies: 1.86
-- name: Extract the Truth
+- name: Corrupted Conviction
   weight: 1.0
   avg_copies: 1.86
 - name: Raucous Theater

@@ -10,19 +10,19 @@ type: Instant
 meta_presence: 0.0127
 archetypes:
   ruby-storm:
-    weight: 0.3443
-    avg_copies: 1.45
+    weight: 0.3385
+    avg_copies: 1.48
   mono-red-belcher:
     weight: 0.0833
     avg_copies: 3.0
   eldrazi-ramp:
-    weight: 0.0104
+    weight: 0.0103
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0048
+    weight: 0.0047
     avg_copies: 1.0
   rakdos-aggro:
-    weight: 0.0625
+    weight: 0.0588
     avg_copies: 1.0
   selesnya-midrange:
     weight: 1.0

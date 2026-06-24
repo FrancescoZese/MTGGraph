@@ -7,13 +7,13 @@ name: Warren Soultrader
 scryfall_id: b334e4c6-d316-4141-8889-f95afcc04701
 set: mh3
 type: Creature — Zombie Goblin Wizard
-meta_presence: 0.0046
+meta_presence: 0.0045
 archetypes:
   simic-ritual:
-    weight: 0.0145
+    weight: 0.0139
     avg_copies: 4.0
   samwise-combo:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 1.0
   soultrader-combo:
     weight: 1.0

@@ -6,19 +6,19 @@ name: Shadowspear
 scryfall_id: 939c6e19-4b27-4023-bb9c-ae440f91e21c
 set: thb
 type: Legendary Artifact — Equipment
-meta_presence: 0.1007
+meta_presence: 0.102
 archetypes:
   hardened-scales:
     weight: 0.25
     avg_copies: 1.0
   affinity:
-    weight: 0.9863
+    weight: 0.987
     avg_copies: 1.0
   hammer-time:
     weight: 1.0
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0127
+    weight: 0.0123
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.2812
@@ -69,6 +69,12 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-119:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-154:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-157:
     weight: 1.0
     avg_copies: 1.0
 ---

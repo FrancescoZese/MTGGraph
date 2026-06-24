@@ -6,16 +6,10 @@ name: 'Unknown #32'
 meta_share: 0.0002
 list_count: 1
 top_cards:
-- name: Witch Enchanter
-  weight: 1.0
-  avg_copies: 4.0
-- name: Shatterskull Smashing
-  weight: 1.0
-  avg_copies: 4.0
-- name: Desperate Ritual
-  weight: 1.0
-  avg_copies: 4.0
 - name: March of Reckless Joy
+  weight: 1.0
+  avg_copies: 4.0
+- name: Witch Enchanter
   weight: 1.0
   avg_copies: 4.0
 - name: Fable of the Mirror-Breaker
@@ -24,13 +18,19 @@ top_cards:
 - name: Blood Moon
   weight: 1.0
   avg_copies: 4.0
-- name: Irencrag Feat
+- name: Goblin Charbelcher
   weight: 1.0
   avg_copies: 4.0
 - name: Sundering Eruption
   weight: 1.0
   avg_copies: 4.0
-- name: Ragavan, Nimble Pilferer
+- name: Irencrag Feat
+  weight: 1.0
+  avg_copies: 4.0
+- name: Shatterskull Smashing
+  weight: 1.0
+  avg_copies: 4.0
+- name: Desperate Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Legion Leadership
@@ -39,31 +39,31 @@ top_cards:
 - name: Pyretic Ritual
   weight: 1.0
   avg_copies: 4.0
+- name: Ragavan, Nimble Pilferer
+  weight: 1.0
+  avg_copies: 4.0
 - name: Pinnacle Monk
   weight: 1.0
   avg_copies: 4.0
-- name: Goblin Charbelcher
-  weight: 1.0
-  avg_copies: 4.0
-- name: Obsidian Charmaw
-  weight: 1.0
-  avg_copies: 3.0
 - name: Hexing Squelcher
   weight: 1.0
   avg_copies: 3.0
-- name: Lightning Bolt
+- name: Obsidian Charmaw
+  weight: 1.0
+  avg_copies: 3.0
+- name: Shatterstorm
   weight: 1.0
   avg_copies: 2.0
 - name: Wear
   weight: 1.0
   avg_copies: 2.0
-- name: Shatterstorm
-  weight: 1.0
-  avg_copies: 2.0
-- name: Valakut Awakening
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 2.0
 - name: Pyroclasm
+  weight: 1.0
+  avg_copies: 2.0
+- name: Valakut Awakening
   weight: 1.0
   avg_copies: 2.0
 - name: Orim's Chant
@@ -72,10 +72,10 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Brotherhood's End
+- name: Strike It Rich
   weight: 1.0
   avg_copies: 1.0
-- name: Strike It Rich
+- name: Brotherhood's End
   weight: 1.0
   avg_copies: 1.0
 ---

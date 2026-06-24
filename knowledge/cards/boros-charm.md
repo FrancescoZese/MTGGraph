@@ -11,12 +11,12 @@ type: Instant
 meta_presence: 0.0059
 archetypes:
   domain-zoo:
-    weight: 0.0104
+    weight: 0.0101
     avg_copies: 2.0
   burn:
-    weight: 0.7857
-    avg_copies: 3.82
+    weight: 0.7931
+    avg_copies: 3.83
   unknown-86:
-    weight: 0.3333
+    weight: 0.2
     avg_copies: 2.0
 ---

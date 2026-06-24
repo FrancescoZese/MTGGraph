@@ -7,14 +7,14 @@ name: Thought Scour
 scryfall_id: 4afee6b3-55a4-44e5-b08c-85e0c813cd09
 set: 2x2
 type: Instant
-meta_presence: 0.0264
+meta_presence: 0.0268
 archetypes:
   reanimator:
     weight: 0.6667
     avg_copies: 3.28
   goryo1:
-    weight: 0.79
-    avg_copies: 3.35
+    weight: 0.8019
+    avg_copies: 3.34
   izzet-murktide:
     weight: 1.0
     avg_copies: 4.0

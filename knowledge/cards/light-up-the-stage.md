@@ -7,15 +7,15 @@ name: Light Up the Stage
 scryfall_id: 912b94c9-7200-452d-940f-df0a7cceb377
 set: dsc
 type: Sorcery
-meta_presence: 0.0012
+meta_presence: 0.0016
 archetypes:
   izzet-prowess:
-    weight: 0.0048
+    weight: 0.0047
     avg_copies: 1.0
   unknown-81:
     weight: 1.0
     avg_copies: 4.0
   unknown-86:
     weight: 1.0
-    avg_copies: 3.33
+    avg_copies: 3.6
 ---

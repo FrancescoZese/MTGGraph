@@ -7,10 +7,10 @@ name: Geomancer's Gambit
 scryfall_id: 23b67031-76b8-4511-a6dc-433d9450496e
 set: mh1
 type: Sorcery
-meta_presence: 0.0017
+meta_presence: 0.0016
 archetypes:
   boros-ponza:
-    weight: 0.008
+    weight: 0.0076
     avg_copies: 3.0
   unknown-26:
     weight: 0.3529

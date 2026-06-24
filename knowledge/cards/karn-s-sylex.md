@@ -6,9 +6,9 @@ name: Karn's Sylex
 scryfall_id: 673a8676-0a93-4ca3-a786-63f138027e8a
 set: dmu
 type: Legendary Artifact
-meta_presence: 0.0015
+meta_presence: 0.0016
 archetypes:
   eldrazi-tron:
-    weight: 0.033
+    weight: 0.0363
     avg_copies: 1.0
 ---

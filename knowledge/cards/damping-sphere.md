@@ -6,11 +6,11 @@ name: Damping Sphere
 scryfall_id: 550860b4-887d-423a-8add-816c2a8da615
 set: dmr
 type: Artifact
-meta_presence: 0.2874
+meta_presence: 0.2873
 archetypes:
   boros-energy:
-    weight: 0.2942
-    avg_copies: 1.44
+    weight: 0.288
+    avg_copies: 1.43
   dimir-control:
     weight: 0.1728
     avg_copies: 1.14
@@ -18,11 +18,11 @@ archetypes:
     weight: 0.4186
     avg_copies: 1.44
   eldrazi-tron:
-    weight: 0.011
+    weight: 0.0104
     avg_copies: 1.0
   goryo:
-    weight: 0.1453
-    avg_copies: 1.69
+    weight: 0.1562
+    avg_copies: 1.7
   hardened-scales:
     weight: 1.0
     avg_copies: 3.0
@@ -30,16 +30,16 @@ archetypes:
     weight: 0.7838
     avg_copies: 2.07
   living-end:
-    weight: 0.5455
+    weight: 0.5357
     avg_copies: 1.03
   jeskai-control:
-    weight: 0.2333
+    weight: 0.2258
     avg_copies: 1.71
   affinity:
-    weight: 0.9426
-    avg_copies: 2.29
+    weight: 0.9453
+    avg_copies: 2.27
   domain-zoo:
-    weight: 0.7292
+    weight: 0.7071
     avg_copies: 1.66
   mill:
     weight: 0.08
@@ -48,7 +48,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.94
   burn:
-    weight: 0.1786
+    weight: 0.1724
     avg_copies: 2.0
   mardu-blink:
     weight: 0.8696
@@ -60,28 +60,28 @@ archetypes:
     weight: 0.875
     avg_copies: 2.32
   boros-ponza:
-    weight: 0.016
+    weight: 0.0153
     avg_copies: 1.5
   yawgmoth-combo:
-    weight: 0.1803
+    weight: 0.1719
     avg_copies: 1.09
   eldrazi-ramp:
-    weight: 0.0312
+    weight: 0.0309
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.1449
+    weight: 0.1389
     avg_copies: 2.0
   4c-omnath:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.5263
-    avg_copies: 2.45
+    weight: 0.5185
+    avg_copies: 2.43
   samwise-combo:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 1.5
   broodscale-combo:
-    weight: 0.4586
+    weight: 0.4601
     avg_copies: 1.75
   orzhov-blink:
     weight: 0.6667
@@ -89,6 +89,9 @@ archetypes:
   dredge:
     weight: 0.05
     avg_copies: 2.0
+  azorius-blink:
+    weight: 0.0217
+    avg_copies: 1.0
   elves:
     weight: 1.0
     avg_copies: 1.0
@@ -99,8 +102,8 @@ archetypes:
     weight: 0.25
     avg_copies: 2.0
   rakdos-aggro:
-    weight: 0.75
-    avg_copies: 3.25
+    weight: 0.7647
+    avg_copies: 3.15
   mono-green-ramp:
     weight: 0.1667
     avg_copies: 3.0
@@ -126,14 +129,14 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.78
+    weight: 0.783
     avg_copies: 1.88
   goryo4:
-    weight: 0.7
-    avg_copies: 2.71
+    weight: 0.7273
+    avg_copies: 2.5
   goryo5:
-    weight: 0.4444
-    avg_copies: 2.25
+    weight: 0.4167
+    avg_copies: 2.2
   goryo7:
     weight: 1.0
     avg_copies: 2.0
@@ -186,22 +189,22 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0816
+    weight: 0.0943
     avg_copies: 2.0
   unknown-49:
     weight: 1.0
     avg_copies: 4.0
   unknown-61:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 2.0
   unknown-54:
     weight: 1.0
     avg_copies: 1.67
   unknown-62:
-    weight: 0.0455
+    weight: 0.0435
     avg_copies: 2.0
   unknown-68:
-    weight: 0.1429
+    weight: 0.1333
     avg_copies: 1.75
   unknown-72:
     weight: 1.0
@@ -210,7 +213,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-79:
-    weight: 0.6
+    weight: 0.6667
     avg_copies: 2.0
   unknown-82:
     weight: 1.0
@@ -222,7 +225,7 @@ archetypes:
     weight: 0.5
     avg_copies: 3.0
   unknown-88:
-    weight: 0.25
+    weight: 0.2857
     avg_copies: 1.0
   unknown-96:
     weight: 0.125
@@ -249,7 +252,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-106:
-    weight: 0.4
+    weight: 0.5
     avg_copies: 2.0
   unknown-108:
     weight: 1.0
@@ -261,7 +264,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-126:
-    weight: 0.9091
+    weight: 0.9167
     avg_copies: 1.0
   unknown-130:
     weight: 1.0
@@ -281,4 +284,7 @@ archetypes:
   unknown-152:
     weight: 1.0
     avg_copies: 1.0
+  unknown-154:
+    weight: 1.0
+    avg_copies: 2.0
 ---

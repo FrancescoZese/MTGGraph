@@ -7,7 +7,7 @@ name: The Meathook Massacre
 scryfall_id: 70d0540f-93c6-4af5-ab2d-65e6c03001c7
 set: inr
 type: Legendary Enchantment
-meta_presence: 0.0161
+meta_presence: 0.0158
 archetypes:
   dimir-control:
     weight: 0.1111
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   goryo5:
-    weight: 0.1111
+    weight: 0.1667
     avg_copies: 1.0
   grixis-control:
     weight: 0.5
@@ -37,7 +37,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0612
+    weight: 0.0566
     avg_copies: 1.33
   unknown-69:
     weight: 1.0

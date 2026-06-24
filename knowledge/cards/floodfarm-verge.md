@@ -12,13 +12,13 @@ archetypes:
     weight: 0.0155
     avg_copies: 1.0
   azorius-control:
-    weight: 0.3019
-    avg_copies: 1.81
+    weight: 0.3036
+    avg_copies: 1.82
   esper-blink:
-    weight: 0.0263
+    weight: 0.0247
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.0227
+    weight: 0.0217
     avg_copies: 1.0
   esper-midrange:
     weight: 1.0

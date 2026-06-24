@@ -6,10 +6,10 @@ name: Sacred Foundry
 scryfall_id: 8b4e2642-3c87-4708-b9b4-2e7f7359ac7d
 set: eoe
 type: Land — Mountain Plains
-meta_presence: 0.2761
+meta_presence: 0.275
 archetypes:
   ruby-storm:
-    weight: 0.9344
+    weight: 0.9385
     avg_copies: 1.09
   boros-energy:
     weight: 1.0
@@ -18,28 +18,28 @@ archetypes:
     weight: 1.0
     avg_copies: 1.28
   azorius-control:
-    weight: 0.0377
+    weight: 0.0357
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.6667
+    weight: 0.6452
     avg_copies: 1.0
   affinity:
-    weight: 0.0027
+    weight: 0.0026
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0417
+    weight: 0.0404
     avg_copies: 1.0
   burn:
-    weight: 0.7857
-    avg_copies: 1.86
+    weight: 0.7931
+    avg_copies: 1.83
   mardu-blink:
     weight: 1.0
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.976
-    avg_copies: 3.21
+    weight: 0.9771
+    avg_copies: 3.25
   izzet-prowess:
-    weight: 0.019
+    weight: 0.0186
     avg_copies: 1.0
   4c-omnath:
     weight: 1.0
@@ -51,8 +51,8 @@ archetypes:
     weight: 0.2222
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.0909
-    avg_copies: 1.25
+    weight: 0.1087
+    avg_copies: 1.2
   scapeshift-combo:
     weight: 0.1667
     avg_copies: 1.0
@@ -96,7 +96,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-62:
-    weight: 0.0909
+    weight: 0.087
     avg_copies: 1.5
   unknown-66:
     weight: 1.0
@@ -111,14 +111,14 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-79:
-    weight: 0.8
+    weight: 0.8333
     avg_copies: 1.0
   unknown-85:
     weight: 0.9
     avg_copies: 1.0
   unknown-86:
     weight: 1.0
-    avg_copies: 2.33
+    avg_copies: 1.8
   unknown-84:
     weight: 1.0
     avg_copies: 1.0
@@ -159,7 +159,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-122:
-    weight: 0.1111
+    weight: 0.0909
     avg_copies: 1.0
   unknown-127:
     weight: 1.0
@@ -178,8 +178,11 @@ archetypes:
     avg_copies: 1.0
   unknown-149:
     weight: 1.0
-    avg_copies: 1.71
+    avg_copies: 1.75
   unknown-152:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-157:
     weight: 1.0
     avg_copies: 1.0
 ---

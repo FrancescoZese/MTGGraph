@@ -10,6 +10,6 @@ type: Sorcery
 meta_presence: 0.0005
 archetypes:
   rakdos-aggro:
-    weight: 0.125
+    weight: 0.1176
     avg_copies: 1.0
 ---

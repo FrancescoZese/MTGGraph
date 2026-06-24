@@ -6,11 +6,11 @@ name: Valakut Awakening // Valakut Stoneforge
 scryfall_id: 228e551e-023a-4c9a-8f32-58dae6ffdf7f
 set: znr
 type: Instant // Land
-meta_presence: 0.0354
+meta_presence: 0.036
 archetypes:
   ruby-storm:
     weight: 1.0
-    avg_copies: 1.94
+    avg_copies: 1.95
   mono-red-belcher:
     weight: 0.75
     avg_copies: 2.78
@@ -18,7 +18,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   goryo0:
-    weight: 0.1
+    weight: 0.0952
     avg_copies: 1.0
   unknown-11:
     weight: 0.8
@@ -27,6 +27,6 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-67:
-    weight: 0.0612
+    weight: 0.0588
     avg_copies: 1.0
 ---
