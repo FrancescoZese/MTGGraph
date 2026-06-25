@@ -7,9 +7,9 @@ name: Cabal Therapist
 scryfall_id: eaa8f485-0f3d-4a0b-bcdf-6c27d1d2bce0
 set: mh1
 type: Creature — Horror
-meta_presence: 0.0007
+meta_presence: 0.0009
 archetypes:
   unknown-34:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.5
 ---

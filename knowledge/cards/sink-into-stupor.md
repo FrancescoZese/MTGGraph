@@ -6,10 +6,10 @@ name: Sink into Stupor // Soporific Springs
 scryfall_id: 5358b87a-1a29-426d-b165-40c97da2c14d
 set: mh3
 type: Instant // Land
-meta_presence: 0.2131
+meta_presence: 0.2116
 archetypes:
   ruby-storm:
-    weight: 0.0077
+    weight: 0.0075
     avg_copies: 1.0
   dimir-control:
     weight: 0.5679
@@ -18,7 +18,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.97
   goryo:
-    weight: 0.0677
+    weight: 0.066
     avg_copies: 1.0
   azorius-control:
     weight: 0.0714
@@ -27,13 +27,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.46
   jeskai-control:
-    weight: 0.0645
+    weight: 0.0938
     avg_copies: 1.0
   affinity:
-    weight: 0.8984
-    avg_copies: 2.03
+    weight: 0.8997
+    avg_copies: 2.02
   mill:
-    weight: 0.44
+    weight: 0.4231
     avg_copies: 1.0
   reanimator:
     weight: 0.6296
@@ -42,19 +42,19 @@ archetypes:
     weight: 0.6471
     avg_copies: 1.55
   simic-ritual:
-    weight: 0.9722
-    avg_copies: 3.77
+    weight: 0.973
+    avg_copies: 3.78
   izzet-prowess:
-    weight: 0.0047
+    weight: 0.0045
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.0217
+    weight: 0.0213
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.5312
     avg_copies: 2.06
   izzet-wizards:
-    weight: 0.6
+    weight: 0.5455
     avg_copies: 1.33
   eldrazi-breach:
     weight: 0.5
@@ -63,7 +63,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.3302
+    weight: 0.3271
     avg_copies: 1.0
   goryo7:
     weight: 1.0
@@ -87,7 +87,7 @@ archetypes:
     weight: 0.8
     avg_copies: 1.75
   unknown-15:
-    weight: 0.1667
+    weight: 0.1429
     avg_copies: 2.0
   unknown-16:
     weight: 1.0
@@ -123,7 +123,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-62:
-    weight: 0.5217
+    weight: 0.5
     avg_copies: 1.25
   unknown-63:
     weight: 1.0
@@ -133,7 +133,7 @@ archetypes:
     avg_copies: 2.19
   unknown-67:
     weight: 1.0
-    avg_copies: 1.71
+    avg_copies: 1.7
   unknown-82:
     weight: 1.0
     avg_copies: 2.0

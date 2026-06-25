@@ -6,34 +6,34 @@ name: 'Unknown #16'
 meta_share: 0.0012
 list_count: 5
 top_cards:
-- name: Teferi, Time Raveler
-  weight: 1.0
-  avg_copies: 4.0
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Narset, Parter of Veils
+- name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 4.0
-- name: Thundertrap Trainer
+- name: Narset, Parter of Veils
   weight: 1.0
   avg_copies: 4.0
 - name: Orim's Chant
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Thundertrap Trainer
   weight: 1.0
-  avg_copies: 3.4
+  avg_copies: 4.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.4
-- name: Stock Up
+- name: Solitude
+  weight: 1.0
+  avg_copies: 3.4
+- name: Lórien Revealed
   weight: 1.0
   avg_copies: 3.0
-- name: Lórien Revealed
+- name: Stock Up
   weight: 1.0
   avg_copies: 3.0
 - name: Arid Mesa
@@ -45,31 +45,31 @@ top_cards:
 - name: Plains
   weight: 1.0
   avg_copies: 2.0
-- name: Day's Undoing
-  weight: 1.0
-  avg_copies: 2.0
 - name: High Noon
-  weight: 1.0
-  avg_copies: 2.0
-- name: Sink into Stupor
   weight: 1.0
   avg_copies: 2.0
 - name: Island
   weight: 1.0
   avg_copies: 2.0
+- name: Sink into Stupor
+  weight: 1.0
+  avg_copies: 2.0
+- name: Day's Undoing
+  weight: 1.0
+  avg_copies: 2.0
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.8
-- name: Meticulous Archive
+- name: Sacred Foundry
+  weight: 1.0
+  avg_copies: 1.0
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Supreme Verdict
   weight: 1.0
   avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 1.0
-  avg_copies: 1.0
-- name: Steam Vents
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Suppression Ray
@@ -99,16 +99,16 @@ top_cards:
 - name: Wrath of the Skies
   weight: 0.2
   avg_copies: 2.0
-- name: Monumental Henge
+- name: Elegant Parlor
   weight: 0.2
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Isochron Scepter
   weight: 0.2
   avg_copies: 1.0
 - name: Geier Reach Sanitarium
   weight: 0.2
   avg_copies: 1.0
-- name: Isochron Scepter
+- name: Monumental Henge
   weight: 0.2
   avg_copies: 1.0
 - name: Thundering Falls

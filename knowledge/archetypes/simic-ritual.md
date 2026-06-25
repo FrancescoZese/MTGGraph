@@ -3,323 +3,323 @@ colors:
 - U
 - G
 name: Simic Ritual
-meta_share: 0.017
-list_count: 72
+meta_share: 0.0171
+list_count: 74
 top_cards:
 - name: Flare of Denial
-  weight: 0.9861
+  weight: 0.9865
   avg_copies: 4.0
 - name: Coiling Oracle
-  weight: 0.9861
+  weight: 0.9865
   avg_copies: 3.97
 - name: Birthing Ritual
-  weight: 0.9861
-  avg_copies: 3.94
+  weight: 0.9865
+  avg_copies: 3.95
 - name: Abhorrent Oculus
-  weight: 0.9861
+  weight: 0.9865
   avg_copies: 3.86
 - name: Misty Rainforest
-  weight: 0.9861
-  avg_copies: 3.72
+  weight: 0.9865
+  avg_copies: 3.73
 - name: Subtlety
-  weight: 0.9861
-  avg_copies: 3.46
+  weight: 0.9865
+  avg_copies: 3.48
 - name: Hedge Maze
-  weight: 0.9861
-  avg_copies: 1.73
+  weight: 0.9865
+  avg_copies: 1.74
 - name: Breeding Pool
-  weight: 0.9861
-  avg_copies: 1.23
+  weight: 0.9865
+  avg_copies: 1.22
 - name: Ice-Fang Coatl
-  weight: 0.9722
+  weight: 0.973
   avg_copies: 4.0
 - name: Sink into Stupor
-  weight: 0.9722
-  avg_copies: 3.77
+  weight: 0.973
+  avg_copies: 3.78
 - name: Mystical Dispute
-  weight: 0.9722
-  avg_copies: 2.94
+  weight: 0.973
+  avg_copies: 2.96
 - name: Harbinger of the Seas
-  weight: 0.9722
-  avg_copies: 2.08
+  weight: 0.973
+  avg_copies: 2.11
 - name: Snow-Covered Forest
-  weight: 0.9722
+  weight: 0.973
   avg_copies: 2.01
 - name: Snow-Covered Island
-  weight: 0.9722
-  avg_copies: 1.91
+  weight: 0.973
+  avg_copies: 1.92
 - name: Force of Negation
-  weight: 0.9583
+  weight: 0.9595
   avg_copies: 2.23
 - name: Fblthp, the Lost
-  weight: 0.9444
-  avg_copies: 1.96
+  weight: 0.9459
+  avg_copies: 1.97
 - name: Endurance
-  weight: 0.9444
+  weight: 0.9459
   avg_copies: 1.65
 - name: Boseiju, Who Endures
-  weight: 0.9444
-  avg_copies: 1.19
+  weight: 0.9459
+  avg_copies: 1.18
 - name: Shardless Agent
-  weight: 0.9306
-  avg_copies: 3.67
+  weight: 0.9324
+  avg_copies: 3.68
 - name: Verdant Catacombs
-  weight: 0.8611
-  avg_copies: 3.63
-- name: Consign to Memory
-  weight: 0.8194
-  avg_copies: 2.98
+  weight: 0.8649
+  avg_copies: 3.61
 - name: Culling Ritual
-  weight: 0.8194
-  avg_copies: 2.86
+  weight: 0.8243
+  avg_copies: 2.87
+- name: Consign to Memory
+  weight: 0.8108
+  avg_copies: 2.98
 - name: Force of Vigor
-  weight: 0.7778
+  weight: 0.7703
   avg_copies: 2.0
 - name: Watery Grave
-  weight: 0.7639
+  weight: 0.7703
   avg_copies: 1.02
 - name: Collector Ouphe
-  weight: 0.6389
-  avg_copies: 1.54
+  weight: 0.6486
+  avg_copies: 1.56
 - name: Otawara, Soaring City
-  weight: 0.6111
+  weight: 0.6216
   avg_copies: 1.0
 - name: Gemstone Caverns
-  weight: 0.5694
+  weight: 0.5676
   avg_copies: 1.98
 - name: Dismember
-  weight: 0.4861
+  weight: 0.473
   avg_copies: 1.69
 - name: Polluted Delta
-  weight: 0.2639
-  avg_copies: 1.16
+  weight: 0.2703
+  avg_copies: 1.2
 - name: Fade from History
-  weight: 0.1806
-  avg_copies: 1.69
+  weight: 0.1892
+  avg_copies: 1.71
 - name: Undercity Sewers
-  weight: 0.1667
+  weight: 0.1622
   avg_copies: 1.0
 - name: Damping Sphere
-  weight: 0.1389
+  weight: 0.1486
   avg_copies: 2.0
 - name: Overgrown Tomb
-  weight: 0.1389
+  weight: 0.1351
   avg_copies: 1.1
+- name: Plague Engineer
+  weight: 0.1081
+  avg_copies: 1.25
 - name: Wooded Foothills
-  weight: 0.0972
+  weight: 0.0946
   avg_copies: 3.29
 - name: Tamiyo, Inquisitive Student
-  weight: 0.0972
+  weight: 0.0946
   avg_copies: 1.57
 - name: Flooded Strand
-  weight: 0.0972
+  weight: 0.0946
   avg_copies: 1.43
-- name: Plague Engineer
-  weight: 0.0972
-  avg_copies: 1.29
 - name: Chalice of the Void
-  weight: 0.0833
+  weight: 0.0811
   avg_copies: 2.0
 - name: Underground Mortuary
-  weight: 0.0833
+  weight: 0.0811
   avg_copies: 1.0
 - name: Orcish Bowmasters
-  weight: 0.0694
+  weight: 0.0676
   avg_copies: 3.2
 - name: Stern Scolding
-  weight: 0.0694
+  weight: 0.0676
   avg_copies: 2.33
 - name: Neoform
-  weight: 0.0694
+  weight: 0.0676
   avg_copies: 1.88
 - name: Witherbloom Charm
-  weight: 0.0694
+  weight: 0.0676
   avg_copies: 1.71
 - name: Windswept Heath
-  weight: 0.0694
+  weight: 0.0676
   avg_copies: 1.6
 - name: Meltdown
-  weight: 0.0556
+  weight: 0.0541
   avg_copies: 3.0
 - name: Nature's Claim
-  weight: 0.0556
+  weight: 0.0541
   avg_copies: 1.75
 - name: Toxic Deluge
-  weight: 0.0556
+  weight: 0.0541
   avg_copies: 1.5
 - name: Steam Vents
-  weight: 0.0556
+  weight: 0.0541
   avg_copies: 1.0
 - name: Fatal Push
-  weight: 0.0417
+  weight: 0.0405
   avg_copies: 2.33
 - name: Natural State
-  weight: 0.0417
+  weight: 0.0405
   avg_copies: 2.0
 - name: Spell Snare
-  weight: 0.0417
+  weight: 0.0405
   avg_copies: 1.67
-- name: Scalding Tarn
-  weight: 0.0417
+- name: Kaito, Bane of Nightmares
+  weight: 0.0405
   avg_copies: 1.0
 - name: Stomping Ground
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Kaito, Bane of Nightmares
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Ephara's Dispersal
-  weight: 0.0417
+  weight: 0.0405
   avg_copies: 1.0
 - name: Thundering Falls
-  weight: 0.0417
+  weight: 0.0405
+  avg_copies: 1.0
+- name: Scalding Tarn
+  weight: 0.0405
+  avg_copies: 1.0
+- name: Ephara's Dispersal
+  weight: 0.0405
   avg_copies: 1.0
 - name: Psychic Frog
-  weight: 0.0278
+  weight: 0.027
   avg_copies: 3.0
 - name: Fire Magic
-  weight: 0.0278
+  weight: 0.027
   avg_copies: 2.5
 - name: Quantum Riddler
-  weight: 0.0278
+  weight: 0.027
   avg_copies: 2.0
 - name: Swamp
-  weight: 0.0278
-  avg_copies: 1.0
-- name: Grist, the Hunger Tide
-  weight: 0.0278
+  weight: 0.027
   avg_copies: 1.0
 - name: Brazen Borrower
-  weight: 0.0278
+  weight: 0.027
+  avg_copies: 1.0
+- name: Grist, the Hunger Tide
+  weight: 0.027
   avg_copies: 1.0
 - name: Pendelhaven
-  weight: 0.0278
+  weight: 0.027
   avg_copies: 1.0
-- name: Marsh Flats
-  weight: 0.0139
-  avg_copies: 4.0
 - name: Thoughtseize
-  weight: 0.0139
-  avg_copies: 4.0
-- name: Shambling Ghast
-  weight: 0.0139
-  avg_copies: 4.0
-- name: Malevolent Rumble
-  weight: 0.0139
+  weight: 0.0135
   avg_copies: 4.0
 - name: Phoenix Fleet Airship
-  weight: 0.0139
+  weight: 0.0135
+  avg_copies: 4.0
+- name: Shambling Ghast
+  weight: 0.0135
+  avg_copies: 4.0
+- name: Malevolent Rumble
+  weight: 0.0135
   avg_copies: 4.0
 - name: Gravecrawler
-  weight: 0.0139
+  weight: 0.0135
   avg_copies: 4.0
-- name: Warren Soultrader
-  weight: 0.0139
+- name: Marsh Flats
+  weight: 0.0135
   avg_copies: 4.0
 - name: Phyrexian Tower
-  weight: 0.0139
+  weight: 0.0135
   avg_copies: 4.0
-- name: Boom
-  weight: 0.0139
-  avg_copies: 3.0
+- name: Warren Soultrader
+  weight: 0.0135
+  avg_copies: 4.0
 - name: Marionette Apprentice
-  weight: 0.0139
+  weight: 0.0135
   avg_copies: 3.0
 - name: Rough
-  weight: 0.0139
-  avg_copies: 3.0
-- name: Pyroclasm
-  weight: 0.0139
+  weight: 0.0135
   avg_copies: 3.0
 - name: Flare of Malice
-  weight: 0.0139
+  weight: 0.0135
+  avg_copies: 3.0
+- name: Boom
+  weight: 0.0135
+  avg_copies: 3.0
+- name: Pyroclasm
+  weight: 0.0135
   avg_copies: 3.0
 - name: Fire
-  weight: 0.0139
-  avg_copies: 2.0
-- name: Island
-  weight: 0.0139
+  weight: 0.0135
   avg_copies: 2.0
 - name: Forest
-  weight: 0.0139
+  weight: 0.0135
   avg_copies: 2.0
 - name: Graveyard Trespasser
-  weight: 0.0139
+  weight: 0.0135
+  avg_copies: 2.0
+- name: Island
+  weight: 0.0135
   avg_copies: 2.0
 - name: Vexing Bauble
-  weight: 0.0139
+  weight: 0.0135
   avg_copies: 2.0
-- name: Nihil Spellbomb
-  weight: 0.0139
-  avg_copies: 1.0
-- name: Dress Down
-  weight: 0.0139
-  avg_copies: 1.0
-- name: Pick Your Poison
-  weight: 0.0139
+- name: Overlord of the Balemurk
+  weight: 0.0135
   avg_copies: 1.0
 - name: Sephiroth, Fabled SOLDIER
-  weight: 0.0139
-  avg_copies: 1.0
-- name: Overlord of the Balemurk
-  weight: 0.0139
+  weight: 0.0135
   avg_copies: 1.0
 - name: Boggart Trawler
-  weight: 0.0139
+  weight: 0.0135
   avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.0139
-  avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.0139
-  avg_copies: 1.0
-- name: Chthonian Nightmare
-  weight: 0.0139
-  avg_copies: 1.0
-- name: Bloodstained Mire
-  weight: 0.0139
-  avg_copies: 1.0
-- name: Reclamation Sage
-  weight: 0.0139
-  avg_copies: 1.0
-- name: Urborg, Tomb of Yawgmoth
-  weight: 0.0139
-  avg_copies: 1.0
-- name: Willowrush Verge
-  weight: 0.0139
-  avg_copies: 1.0
-- name: Nurturing Peatland
-  weight: 0.0139
-  avg_copies: 1.0
-- name: Ouroboroid
-  weight: 0.0139
-  avg_copies: 1.0
-- name: Cling to Dust
-  weight: 0.0139
-  avg_copies: 1.0
-- name: Pond Prophet
-  weight: 0.0139
-  avg_copies: 1.0
-- name: Shatter Assumptions
-  weight: 0.0139
-  avg_copies: 1.0
-- name: Soul Shatter
-  weight: 0.0139
+- name: Pick Your Poison
+  weight: 0.0135
   avg_copies: 1.0
 - name: Spymaster's Vault
-  weight: 0.0139
+  weight: 0.0135
   avg_copies: 1.0
-- name: Dead
-  weight: 0.0139
+- name: Urborg, Tomb of Yawgmoth
+  weight: 0.0135
+  avg_copies: 1.0
+- name: Willowrush Verge
+  weight: 0.0135
+  avg_copies: 1.0
+- name: Ouroboroid
+  weight: 0.0135
+  avg_copies: 1.0
+- name: Bloodstained Mire
+  weight: 0.0135
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 0.0135
+  avg_copies: 1.0
+- name: Reclamation Sage
+  weight: 0.0135
+  avg_copies: 1.0
+- name: Nihil Spellbomb
+  weight: 0.0135
+  avg_copies: 1.0
+- name: Hurkyl's Recall
+  weight: 0.0135
+  avg_copies: 1.0
+- name: Dress Down
+  weight: 0.0135
+  avg_copies: 1.0
+- name: Soul Shatter
+  weight: 0.0135
   avg_copies: 1.0
 - name: Firespout
-  weight: 0.0139
+  weight: 0.0135
+  avg_copies: 1.0
+- name: Pond Prophet
+  weight: 0.0135
   avg_copies: 1.0
 - name: Ashiok, Dream Render
-  weight: 0.0139
+  weight: 0.0135
+  avg_copies: 1.0
+- name: Chthonian Nightmare
+  weight: 0.0135
   avg_copies: 1.0
 - name: Break the Ice
-  weight: 0.0139
+  weight: 0.0135
+  avg_copies: 1.0
+- name: Dead
+  weight: 0.0135
+  avg_copies: 1.0
+- name: Nurturing Peatland
+  weight: 0.0135
+  avg_copies: 1.0
+- name: Cling to Dust
+  weight: 0.0135
+  avg_copies: 1.0
+- name: Shatter Assumptions
+  weight: 0.0135
   avg_copies: 1.0
 ---
 Cascade deck using Shardless Agent and Birthing Ritual to cheat Abhorrent Oculus and Subtlety into play. Ice-Fang Coatl and Coiling Oracle provide value while Flare of Denial offers free countermagic.

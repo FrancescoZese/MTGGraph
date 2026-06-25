@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.0028
 archetypes:
   amulet-titan:
-    weight: 0.0726
+    weight: 0.0714
     avg_copies: 3.22
   unknown-76:
     weight: 0.5

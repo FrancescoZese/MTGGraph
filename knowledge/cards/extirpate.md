@@ -7,16 +7,16 @@ name: Extirpate
 scryfall_id: 4171dbd3-96d6-4e7a-afac-5b2882bf3872
 set: tsr
 type: Instant
-meta_presence: 0.0066
+meta_presence: 0.0067
 archetypes:
   dimir-control:
     weight: 0.0123
     avg_copies: 1.0
   mill:
-    weight: 0.92
-    avg_copies: 2.3
+    weight: 0.9231
+    avg_copies: 2.29
   goryo1:
-    weight: 0.0283
+    weight: 0.028
     avg_copies: 1.0
   unknown-133:
     weight: 1.0

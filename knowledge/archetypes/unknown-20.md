@@ -6,31 +6,31 @@ name: 'Unknown #20'
 meta_share: 0.0007
 list_count: 3
 top_cards:
-- name: Agatha's Soul Cauldron
-  weight: 1.0
-  avg_copies: 4.0
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 4.0
-- name: Abhorrent Oculus
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marsh Flats
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
-- name: Gran-Gran
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
 - name: Unearth
   weight: 1.0
   avg_copies: 4.0
-- name: Polluted Delta
+- name: Gran-Gran
+  weight: 1.0
+  avg_copies: 4.0
+- name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 4.0
 - name: Pensive Professor
+  weight: 1.0
+  avg_copies: 4.0
+- name: Abhorrent Oculus
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
@@ -75,10 +75,10 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.6667
   avg_copies: 2.0
-- name: Tainted Indulgence
+- name: Mystical Dispute
   weight: 0.6667
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Tainted Indulgence
   weight: 0.6667
   avg_copies: 2.0
 - name: Sink into Stupor
@@ -93,16 +93,16 @@ top_cards:
 - name: Wall of Blood
   weight: 0.3333
   avg_copies: 1.0
-- name: Engineered Explosives
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Vizier of Tumbling Sands
+- name: Blood Crypt
   weight: 0.3333
   avg_copies: 1.0
 - name: Walking Ballista
   weight: 0.3333
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Vizier of Tumbling Sands
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Engineered Explosives
   weight: 0.3333
   avg_copies: 1.0
 ---

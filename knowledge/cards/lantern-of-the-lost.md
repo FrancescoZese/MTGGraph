@@ -9,7 +9,7 @@ type: Artifact
 meta_presence: 0.0005
 archetypes:
   mono-red-belcher:
-    weight: 0.0833
+    weight: 0.0769
     avg_copies: 2.0
   goryo6:
     weight: 0.25

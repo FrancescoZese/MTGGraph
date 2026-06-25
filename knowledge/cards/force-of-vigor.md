@@ -10,8 +10,8 @@ type: Instant
 meta_presence: 0.1147
 archetypes:
   amulet-titan:
-    weight: 0.9919
-    avg_copies: 1.93
+    weight: 0.9921
+    avg_copies: 1.94
   hardened-scales:
     weight: 0.5
     avg_copies: 1.0
@@ -19,16 +19,16 @@ archetypes:
     weight: 0.3929
     avg_copies: 2.14
   neoform-combo:
-    weight: 0.0182
+    weight: 0.0179
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.9844
+    weight: 0.9846
     avg_copies: 1.83
   eldrazi-ramp:
-    weight: 0.2887
+    weight: 0.2828
     avg_copies: 1.96
   simic-ritual:
-    weight: 0.7778
+    weight: 0.7703
     avg_copies: 2.0
   4c-omnath:
     weight: 0.5
@@ -37,7 +37,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.06
   broodscale-combo:
-    weight: 0.0491
+    weight: 0.0482
     avg_copies: 1.5
   izzet-artifacts:
     weight: 0.0312
@@ -73,14 +73,14 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-61:
-    weight: 0.125
+    weight: 0.12
     avg_copies: 2.0
   unknown-65:
     weight: 1.0
     avg_copies: 2.42
   unknown-67:
-    weight: 0.902
-    avg_copies: 2.09
+    weight: 0.8889
+    avg_copies: 2.1
   unknown-76:
     weight: 1.0
     avg_copies: 2.0
@@ -98,7 +98,7 @@ archetypes:
     avg_copies: 2.0
   unknown-126:
     weight: 1.0
-    avg_copies: 2.17
+    avg_copies: 2.13
   unknown-130:
     weight: 1.0
     avg_copies: 2.0

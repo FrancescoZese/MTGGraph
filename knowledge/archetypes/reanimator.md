@@ -4,7 +4,7 @@ colors:
 - B
 - R
 name: Reanimator
-meta_share: 0.0064
+meta_share: 0.0062
 list_count: 27
 top_cards:
 - name: Archon of Cruelty
@@ -112,10 +112,10 @@ top_cards:
 - name: Stitcher's Supplier
   weight: 0.1481
   avg_copies: 4.0
-- name: Flare of Malice
+- name: Orcish Bowmasters
   weight: 0.1481
   avg_copies: 3.25
-- name: Orcish Bowmasters
+- name: Flare of Malice
   weight: 0.1481
   avg_copies: 3.25
 - name: Spymaster's Vault
@@ -133,31 +133,31 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 0.1111
   avg_copies: 3.0
-- name: Lightning Bolt
-  weight: 0.1111
-  avg_copies: 2.33
 - name: Village Rites
   weight: 0.1111
   avg_copies: 2.33
-- name: Mountain
+- name: Lightning Bolt
   weight: 0.1111
-  avg_copies: 2.0
+  avg_copies: 2.33
 - name: Corrupted Conviction
   weight: 0.1111
   avg_copies: 2.0
 - name: Extract the Truth
   weight: 0.1111
   avg_copies: 2.0
-- name: Flashback
+- name: Mountain
   weight: 0.1111
-  avg_copies: 1.67
+  avg_copies: 2.0
 - name: Brotherhood's End
   weight: 0.1111
   avg_copies: 1.67
-- name: End the Festivities
+- name: Flashback
+  weight: 0.1111
+  avg_copies: 1.67
+- name: Wooded Foothills
   weight: 0.1111
   avg_copies: 1.0
-- name: Wooded Foothills
+- name: End the Festivities
   weight: 0.1111
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
@@ -169,10 +169,10 @@ top_cards:
 - name: Strix Serenade
   weight: 0.0741
   avg_copies: 2.0
-- name: Ob Nixilis, the Adversary
+- name: Lightning Skelemental
   weight: 0.0741
   avg_copies: 1.5
-- name: Lightning Skelemental
+- name: Ob Nixilis, the Adversary
   weight: 0.0741
   avg_copies: 1.5
 - name: Den of the Bugbear
@@ -181,22 +181,10 @@ top_cards:
 - name: Thundering Falls
   weight: 0.0741
   avg_copies: 1.0
-- name: Ephemerate
-  weight: 0.037
-  avg_copies: 4.0
-- name: Marsh Flats
-  weight: 0.037
-  avg_copies: 4.0
-- name: Crypt of Agadeem
-  weight: 0.037
-  avg_copies: 4.0
-- name: Boggart Trawler
-  weight: 0.037
-  avg_copies: 4.0
 - name: Overlord of the Balemurk
   weight: 0.037
   avg_copies: 4.0
-- name: Street Wraith
+- name: Boggart Trawler
   weight: 0.037
   avg_copies: 4.0
 - name: Flooded Strand
@@ -205,43 +193,61 @@ top_cards:
 - name: Verdant Catacombs
   weight: 0.037
   avg_copies: 4.0
-- name: Solitude
+- name: Faithful Mending
   weight: 0.037
   avg_copies: 4.0
 - name: Malevolent Rumble
   weight: 0.037
   avg_copies: 4.0
-- name: Fallaji Archaeologist
+- name: Crypt of Agadeem
   weight: 0.037
   avg_copies: 4.0
-- name: Flare of Denial
-  weight: 0.037
-  avg_copies: 4.0
-- name: Faithful Mending
-  weight: 0.037
-  avg_copies: 4.0
-- name: Eyetwitch
+- name: Street Wraith
   weight: 0.037
   avg_copies: 4.0
 - name: Prismatic Ending
   weight: 0.037
   avg_copies: 4.0
-- name: Leyline of the Void
+- name: Eyetwitch
+  weight: 0.037
+  avg_copies: 4.0
+- name: Solitude
+  weight: 0.037
+  avg_copies: 4.0
+- name: Marsh Flats
+  weight: 0.037
+  avg_copies: 4.0
+- name: Fallaji Archaeologist
+  weight: 0.037
+  avg_copies: 4.0
+- name: Ephemerate
+  weight: 0.037
+  avg_copies: 4.0
+- name: Flare of Denial
+  weight: 0.037
+  avg_copies: 4.0
+- name: Kavaero, Mind-Bitten
   weight: 0.037
   avg_copies: 3.0
-- name: Kavaero, Mind-Bitten
+- name: Leyline of the Void
   weight: 0.037
   avg_copies: 3.0
 - name: Phyrexian Tower
   weight: 0.037
   avg_copies: 3.0
-- name: Requiting Hex
-  weight: 0.037
-  avg_copies: 2.0
 - name: Dawnhand Dissident
   weight: 0.037
   avg_copies: 2.0
+- name: Veil of Summer
+  weight: 0.037
+  avg_copies: 2.0
 - name: Detective's Phoenix
+  weight: 0.037
+  avg_copies: 2.0
+- name: Graveyard Trespasser
+  weight: 0.037
+  avg_copies: 2.0
+- name: Ashiok, Dream Render
   weight: 0.037
   avg_copies: 2.0
 - name: Voldaren Epicure
@@ -250,34 +256,13 @@ top_cards:
 - name: Grist, the Hunger Tide
   weight: 0.037
   avg_copies: 2.0
-- name: Graveyard Trespasser
+- name: Requiting Hex
   weight: 0.037
   avg_copies: 2.0
-- name: Veil of Summer
-  weight: 0.037
-  avg_copies: 2.0
-- name: Ashiok, Dream Render
-  weight: 0.037
-  avg_copies: 2.0
-- name: Breeding Pool
+- name: Harvester of Misery
   weight: 0.037
   avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.037
-  avg_copies: 1.0
-- name: Plague Engineer
-  weight: 0.037
-  avg_copies: 1.0
-- name: Agatha's Soul Cauldron
-  weight: 0.037
-  avg_copies: 1.0
-- name: Misty Rainforest
-  weight: 0.037
-  avg_copies: 1.0
-- name: Necrotic Fumes
-  weight: 0.037
-  avg_copies: 1.0
-- name: Collector Ouphe
+- name: Godless Shrine
   weight: 0.037
   avg_copies: 1.0
 - name: Shadowy Backstreet
@@ -286,28 +271,28 @@ top_cards:
 - name: Mai, Scornful Striker
   weight: 0.037
   avg_copies: 1.0
-- name: Sheoldred's Edict
+- name: Bitter Triumph
+  weight: 0.037
+  avg_copies: 1.0
+- name: Plains
+  weight: 0.037
+  avg_copies: 1.0
+- name: Wrath of the Skies
+  weight: 0.037
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 0.037
+  avg_copies: 1.0
+- name: Necrotic Fumes
+  weight: 0.037
+  avg_copies: 1.0
+- name: Overgrown Tomb
   weight: 0.037
   avg_copies: 1.0
 - name: Decorum Dissertation
   weight: 0.037
   avg_copies: 1.0
-- name: White Orchid Phantom
-  weight: 0.037
-  avg_copies: 1.0
-- name: Vampire Hexmage
-  weight: 0.037
-  avg_copies: 1.0
-- name: Harvester of Misery
-  weight: 0.037
-  avg_copies: 1.0
-- name: Gran-Gran
-  weight: 0.037
-  avg_copies: 1.0
-- name: Troll of Khazad-dûm
-  weight: 0.037
-  avg_copies: 1.0
-- name: Agadeem's Awakening
+- name: Cephalid Coliseum
   weight: 0.037
   avg_copies: 1.0
 - name: Accursed Marauder
@@ -316,37 +301,52 @@ top_cards:
 - name: Underground Mortuary
   weight: 0.037
   avg_copies: 1.0
-- name: Godless Shrine
+- name: Agatha's Soul Cauldron
+  weight: 0.037
+  avg_copies: 1.0
+- name: Agadeem's Awakening
+  weight: 0.037
+  avg_copies: 1.0
+- name: Breeding Pool
+  weight: 0.037
+  avg_copies: 1.0
+- name: Plague Engineer
+  weight: 0.037
+  avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 0.037
+  avg_copies: 1.0
+- name: Vampire Hexmage
+  weight: 0.037
+  avg_copies: 1.0
+- name: Troll of Khazad-dûm
+  weight: 0.037
+  avg_copies: 1.0
+- name: White Orchid Phantom
+  weight: 0.037
+  avg_copies: 1.0
+- name: Meticulous Archive
   weight: 0.037
   avg_copies: 1.0
 - name: Dai Li Indoctrination
   weight: 0.037
   avg_copies: 1.0
-- name: Ruinous Waterbending
-  weight: 0.037
-  avg_copies: 1.0
-- name: Plains
-  weight: 0.037
-  avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 0.037
-  avg_copies: 1.0
-- name: Overgrown Tomb
-  weight: 0.037
-  avg_copies: 1.0
 - name: Spell Snare
+  weight: 0.037
+  avg_copies: 1.0
+- name: Gran-Gran
+  weight: 0.037
+  avg_copies: 1.0
+- name: Misty Rainforest
   weight: 0.037
   avg_copies: 1.0
 - name: Unholy Heat
   weight: 0.037
   avg_copies: 1.0
-- name: Bitter Triumph
+- name: Sheoldred's Edict
   weight: 0.037
   avg_copies: 1.0
-- name: Cephalid Coliseum
-  weight: 0.037
-  avg_copies: 1.0
-- name: Wrath of the Skies
+- name: Ruinous Waterbending
   weight: 0.037
   avg_copies: 1.0
 ---

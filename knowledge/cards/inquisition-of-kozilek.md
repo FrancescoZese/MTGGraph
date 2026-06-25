@@ -10,10 +10,10 @@ type: Sorcery
 meta_presence: 0.0252
 archetypes:
   ruby-storm:
-    weight: 0.0077
+    weight: 0.0075
     avg_copies: 1.0
   goryo:
-    weight: 0.0052
+    weight: 0.0051
     avg_copies: 2.0
   necrodominance:
     weight: 0.5405
@@ -34,7 +34,7 @@ archetypes:
     weight: 0.7037
     avg_copies: 3.46
   goryo1:
-    weight: 0.1226
+    weight: 0.1215
     avg_copies: 1.71
   goryo5:
     weight: 0.6667
@@ -68,7 +68,7 @@ archetypes:
     avg_copies: 1.0
   unknown-69:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 2.0
   unknown-73:
     weight: 1.0
     avg_copies: 1.0

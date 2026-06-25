@@ -5,37 +5,37 @@ name: 'Unknown #86'
 meta_share: 0.0012
 list_count: 5
 top_cards:
-- name: Boltwave
-  weight: 1.0
-  avg_copies: 4.0
-- name: Lava Spike
-  weight: 1.0
-  avg_copies: 4.0
-- name: Skewer the Critics
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Monastery Swiftspear
-  weight: 1.0
-  avg_copies: 4.0
 - name: Barbarian Ring
-  weight: 1.0
-  avg_copies: 4.0
-- name: Cori-Steel Cutter
-  weight: 1.0
-  avg_copies: 4.0
-- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
-- name: Lava Dart
+- name: Boltwave
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lava Spike
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lightning Bolt
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cori-Steel Cutter
+  weight: 1.0
+  avg_copies: 4.0
+- name: Monastery Swiftspear
+  weight: 1.0
+  avg_copies: 4.0
+- name: Skewer the Critics
+  weight: 1.0
+  avg_copies: 4.0
+- name: Light Up the Stage
   weight: 1.0
   avg_copies: 3.6
-- name: Light Up the Stage
+- name: Lava Dart
   weight: 1.0
   avg_copies: 3.6
 - name: Tormod's Crypt
@@ -65,10 +65,10 @@ top_cards:
 - name: Bloodstained Mire
   weight: 0.6
   avg_copies: 2.67
-- name: Deflecting Palm
+- name: Orim's Chant
   weight: 0.6
   avg_copies: 1.67
-- name: Orim's Chant
+- name: Deflecting Palm
   weight: 0.6
   avg_copies: 1.67
 - name: Snow-Covered Mountain
@@ -89,10 +89,10 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 0.4
   avg_copies: 2.5
-- name: Goblin Guide
+- name: Sunbaked Canyon
   weight: 0.4
   avg_copies: 2.0
-- name: Sunbaked Canyon
+- name: Goblin Guide
   weight: 0.4
   avg_copies: 2.0
 - name: Ragavan, Nimble Pilferer
@@ -101,13 +101,13 @@ top_cards:
 - name: Path to Exile
   weight: 0.2
   avg_copies: 2.0
-- name: Boros Charm
-  weight: 0.2
-  avg_copies: 2.0
 - name: Vexing Bauble
   weight: 0.2
   avg_copies: 2.0
 - name: Pyroclasm
+  weight: 0.2
+  avg_copies: 2.0
+- name: Boros Charm
   weight: 0.2
   avg_copies: 2.0
 ---

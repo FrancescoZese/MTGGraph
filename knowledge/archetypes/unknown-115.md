@@ -11,10 +11,16 @@ top_cards:
 - name: Gravecrawler
   weight: 1.0
   avg_copies: 4.0
-- name: Warren Soultrader
+- name: Orcish Bowmasters
+  weight: 1.0
+  avg_copies: 4.0
+- name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
 - name: Marionette Apprentice
+  weight: 1.0
+  avg_copies: 4.0
+- name: Boggart Trawler
   weight: 1.0
   avg_copies: 4.0
 - name: Fatal Push
@@ -23,16 +29,13 @@ top_cards:
 - name: Spymaster's Vault
   weight: 1.0
   avg_copies: 4.0
-- name: Stitcher's Supplier
-  weight: 1.0
-  avg_copies: 4.0
-- name: Orcish Bowmasters
-  weight: 1.0
-  avg_copies: 4.0
-- name: Boggart Trawler
+- name: Warren Soultrader
   weight: 1.0
   avg_copies: 4.0
 - name: Flare of Malice
+  weight: 1.0
+  avg_copies: 3.0
+- name: Chthonian Nightmare
   weight: 1.0
   avg_copies: 3.0
 - name: Meltdown
@@ -44,22 +47,19 @@ top_cards:
 - name: Unearth
   weight: 1.0
   avg_copies: 3.0
-- name: Chthonian Nightmare
-  weight: 1.0
-  avg_copies: 3.0
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 2.0
-- name: Thoughtseize
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 2.0
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 2.0
-- name: Polluted Delta
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 2.0
 - name: Vexing Bauble
+  weight: 1.0
+  avg_copies: 2.0
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 2.0
 - name: Fulminator Mage
@@ -68,16 +68,16 @@ top_cards:
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.0
-- name: Nihil Spellbomb
-  weight: 1.0
-  avg_copies: 1.0
-- name: Umezawa's Jitte
-  weight: 1.0
-  avg_copies: 1.0
 - name: Mutavault
   weight: 1.0
   avg_copies: 1.0
+- name: Nihil Spellbomb
+  weight: 1.0
+  avg_copies: 1.0
 - name: Accursed Marauder
+  weight: 1.0
+  avg_copies: 1.0
+- name: Umezawa's Jitte
   weight: 1.0
   avg_copies: 1.0
 - name: Raucous Theater

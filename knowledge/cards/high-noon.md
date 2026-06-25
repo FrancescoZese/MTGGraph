@@ -7,10 +7,10 @@ name: High Noon
 scryfall_id: 9995e0e6-7c9c-4fef-8fd2-8fb1622e6ec8
 set: otj
 type: Enchantment
-meta_presence: 0.2371
+meta_presence: 0.237
 archetypes:
   boros-energy:
-    weight: 0.7319
+    weight: 0.7362
     avg_copies: 1.61
   dimir-control:
     weight: 0.1111
@@ -19,10 +19,10 @@ archetypes:
     weight: 0.938
     avg_copies: 1.73
   eldrazi-tron:
-    weight: 0.0052
+    weight: 0.0051
     avg_copies: 1.0
   goryo:
-    weight: 0.0052
+    weight: 0.0051
     avg_copies: 1.0
   azorius-control:
     weight: 0.8571
@@ -31,22 +31,22 @@ archetypes:
     weight: 0.0357
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.5806
-    avg_copies: 1.39
+    weight: 0.5938
+    avg_copies: 1.37
   domain-zoo:
-    weight: 0.3131
-    avg_copies: 1.35
+    weight: 0.3267
+    avg_copies: 1.36
   mardu-blink:
     weight: 0.913
     avg_copies: 2.05
   boros-ponza:
-    weight: 0.9466
-    avg_copies: 2.54
+    weight: 0.9485
+    avg_copies: 2.6
   esper-blink:
     weight: 0.8889
     avg_copies: 2.06
   samwise-combo:
-    weight: 0.1923
+    weight: 0.1887
     avg_copies: 1.8
   indomitable-creativity:
     weight: 0.4167
@@ -55,7 +55,7 @@ archetypes:
     weight: 0.7778
     avg_copies: 2.29
   azorius-blink:
-    weight: 0.2174
+    weight: 0.2128
     avg_copies: 2.0
   esper-control:
     weight: 1.0
@@ -101,12 +101,12 @@ archetypes:
     avg_copies: 2.0
   unknown-26:
     weight: 1.0
-    avg_copies: 3.71
+    avg_copies: 3.72
   unknown-47:
-    weight: 0.0189
+    weight: 0.0185
     avg_copies: 1.0
   unknown-62:
-    weight: 0.1739
+    weight: 0.1667
     avg_copies: 1.75
   unknown-65:
     weight: 0.0385
@@ -139,8 +139,8 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-106:
-    weight: 0.5
-    avg_copies: 1.0
+    weight: 0.625
+    avg_copies: 1.2
   unknown-108:
     weight: 1.0
     avg_copies: 1.0
@@ -175,7 +175,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-149:
-    weight: 0.5
+    weight: 0.4444
     avg_copies: 1.5
   unknown-152:
     weight: 1.0

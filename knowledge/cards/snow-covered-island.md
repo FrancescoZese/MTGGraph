@@ -15,20 +15,20 @@ archetypes:
     weight: 0.062
     avg_copies: 1.0
   affinity:
-    weight: 0.0156
+    weight: 0.0154
     avg_copies: 1.5
   mill:
-    weight: 0.32
+    weight: 0.3077
     avg_copies: 2.5
   neoform-combo:
-    weight: 0.8
+    weight: 0.7857
     avg_copies: 1.05
   mono-blue-tron:
     weight: 0.1176
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.9722
-    avg_copies: 1.91
+    weight: 0.973
+    avg_copies: 1.92
   esper-blink:
     weight: 0.0247
     avg_copies: 1.0
@@ -36,13 +36,13 @@ archetypes:
     weight: 0.0312
     avg_copies: 1.0
   goryo1:
-    weight: 0.0094
+    weight: 0.0187
     avg_copies: 1.0
   unknown-3:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0377
+    weight: 0.037
     avg_copies: 1.0
   unknown-49:
     weight: 1.0

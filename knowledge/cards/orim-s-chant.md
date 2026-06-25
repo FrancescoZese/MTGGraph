@@ -10,11 +10,11 @@ type: Instant
 meta_presence: 0.1978
 archetypes:
   ruby-storm:
-    weight: 0.8077
-    avg_copies: 3.16
+    weight: 0.8134
+    avg_copies: 3.17
   boros-energy:
-    weight: 0.788
-    avg_copies: 1.75
+    weight: 0.7861
+    avg_copies: 1.74
   mono-blue-belcher:
     weight: 0.0588
     avg_copies: 3.0
@@ -22,22 +22,22 @@ archetypes:
     weight: 0.0078
     avg_copies: 4.0
   goryo:
-    weight: 0.0208
+    weight: 0.0203
     avg_copies: 2.0
   azorius-control:
     weight: 1.0
     avg_copies: 3.93
   jeskai-control:
-    weight: 0.871
-    avg_copies: 3.69
+    weight: 0.875
+    avg_copies: 3.7
   burn:
     weight: 0.069
     avg_copies: 1.5
   mono-red-belcher:
-    weight: 0.4167
-    avg_copies: 3.56
+    weight: 0.4615
+    avg_copies: 3.5
   boros-ponza:
-    weight: 0.7023
+    weight: 0.6765
     avg_copies: 1.78
   4c-omnath:
     weight: 0.25
@@ -49,13 +49,13 @@ archetypes:
     weight: 0.25
     avg_copies: 2.67
   broodscale-combo:
-    weight: 0.0061
+    weight: 0.006
     avg_copies: 2.0
   orzhov-blink:
     weight: 0.1111
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.0652
+    weight: 0.0638
     avg_copies: 1.67
   scapeshift-combo:
     weight: 0.1667
@@ -91,14 +91,14 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-26:
-    weight: 0.2941
+    weight: 0.2778
     avg_copies: 2.2
   unknown-48:
     weight: 0.5
     avg_copies: 2.0
   unknown-62:
-    weight: 0.0435
-    avg_copies: 1.0
+    weight: 0.0833
+    avg_copies: 1.5
   unknown-68:
     weight: 0.3
     avg_copies: 1.33
@@ -118,7 +118,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.71
   unknown-96:
-    weight: 0.125
+    weight: 0.1111
     avg_copies: 3.0
   unknown-99:
     weight: 1.0
@@ -134,12 +134,12 @@ archetypes:
     avg_copies: 4.0
   unknown-126:
     weight: 1.0
-    avg_copies: 2.75
+    avg_copies: 2.8
   unknown-140:
     weight: 1.0
     avg_copies: 4.0
   unknown-149:
-    weight: 0.5
+    weight: 0.5556
     avg_copies: 2.0
   unknown-152:
     weight: 1.0

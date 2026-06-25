@@ -6,16 +6,16 @@ name: Pinnacle Monk // Mystic Peak
 scryfall_id: 24d4f26e-7f96-4b38-867e-4fac819b2679
 set: mh3
 type: Creature — Djinn Monk // Land
-meta_presence: 0.0137
+meta_presence: 0.0136
 archetypes:
   mardu-blink:
     weight: 0.8696
     avg_copies: 1.25
   mono-red-belcher:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.92
   boros-ponza:
-    weight: 0.0153
+    weight: 0.0147
     avg_copies: 2.0
   goryo0:
     weight: 1.0

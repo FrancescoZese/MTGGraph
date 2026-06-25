@@ -16,7 +16,7 @@ archetypes:
     weight: 0.3529
     avg_copies: 1.79
   amulet-titan:
-    weight: 0.0081
+    weight: 0.0079
     avg_copies: 3.0
   necrodominance:
     weight: 0.027
@@ -25,28 +25,28 @@ archetypes:
     weight: 0.0179
     avg_copies: 1.0
   affinity:
-    weight: 0.151
-    avg_copies: 1.12
+    weight: 0.1542
+    avg_copies: 1.11
   mill:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 2.0
   mono-blue-tron:
     weight: 0.4706
     avg_copies: 1.62
   simic-ritual:
-    weight: 0.0139
+    weight: 0.0135
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0093
+    weight: 0.009
     avg_copies: 2.0
   azorius-blink:
-    weight: 0.0217
+    weight: 0.0213
     avg_copies: 1.0
   izzet-wizards:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 1.0
   goryo1:
-    weight: 0.0094
+    weight: 0.0093
     avg_copies: 1.0
   goryo7:
     weight: 1.0

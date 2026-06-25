@@ -7,41 +7,41 @@ name: Blood Moon
 scryfall_id: d072e9ca-aae7-45dc-8025-3ce590bae63f
 set: 2xm
 type: Enchantment
-meta_presence: 0.1535
+meta_presence: 0.1542
 archetypes:
   ruby-storm:
-    weight: 0.0538
+    weight: 0.0522
     avg_copies: 1.14
   boros-energy:
-    weight: 0.7373
-    avg_copies: 1.21
+    weight: 0.738
+    avg_copies: 1.22
   affinity:
-    weight: 0.3099
-    avg_copies: 1.42
+    weight: 0.3188
+    avg_copies: 1.4
   burn:
     weight: 0.0345
     avg_copies: 1.0
   mono-red-belcher:
     weight: 1.0
-    avg_copies: 2.31
+    avg_copies: 2.35
   hollow-one:
-    weight: 0.0625
+    weight: 0.0606
     avg_copies: 1.5
   boros-ponza:
-    weight: 0.0076
+    weight: 0.0074
     avg_copies: 3.0
   eldrazi-ramp:
-    weight: 0.0412
+    weight: 0.0404
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0372
+    weight: 0.036
     avg_copies: 1.38
   izzet-artifacts:
     weight: 0.4375
     avg_copies: 2.64
   izzet-wizards:
-    weight: 0.3
-    avg_copies: 1.67
+    weight: 0.3636
+    avg_copies: 1.5
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 3.5
@@ -64,8 +64,8 @@ archetypes:
     weight: 0.2857
     avg_copies: 2.0
   unknown-15:
-    weight: 0.3333
-    avg_copies: 1.5
+    weight: 0.4286
+    avg_copies: 1.67
   unknown-18:
     weight: 1.0
     avg_copies: 1.0
@@ -76,7 +76,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-34:
-    weight: 1.0
+    weight: 0.75
     avg_copies: 1.0
   unknown-35:
     weight: 1.0
@@ -88,8 +88,8 @@ archetypes:
     weight: 0.5769
     avg_copies: 1.33
   unknown-67:
-    weight: 0.1961
-    avg_copies: 1.5
+    weight: 0.2037
+    avg_copies: 1.45
   unknown-68:
     weight: 0.0667
     avg_copies: 2.0

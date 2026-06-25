@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0007
 archetypes:
   goryo:
-    weight: 0.0052
+    weight: 0.0051
     avg_copies: 2.0
   kethis-combo:
     weight: 0.1667

@@ -3,16 +3,16 @@ colors:
 - U
 - B
 name: 'Unknown #45'
-meta_share: 0.0045
+meta_share: 0.0044
 list_count: 19
 top_cards:
 - name: Eyetwitch
   weight: 1.0
   avg_copies: 4.0
-- name: Archon of Cruelty
+- name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
-- name: Stitcher's Supplier
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
 - name: Swamp
@@ -42,13 +42,13 @@ top_cards:
 - name: Boggart Trawler
   weight: 1.0
   avg_copies: 1.84
-- name: Ruinous Waterbending
+- name: Decorum Dissertation
   weight: 1.0
   avg_copies: 1.0
 - name: Ozai's Cruelty
   weight: 1.0
   avg_copies: 1.0
-- name: Decorum Dissertation
+- name: Ruinous Waterbending
   weight: 1.0
   avg_copies: 1.0
 - name: Street Wraith
@@ -69,13 +69,13 @@ top_cards:
 - name: Origin of Metalbending
   weight: 0.9474
   avg_copies: 1.06
-- name: True Ancestry
+- name: Dai Li Indoctrination
   weight: 0.9474
   avg_copies: 1.0
 - name: Underground Mortuary
   weight: 0.9474
   avg_copies: 1.0
-- name: Dai Li Indoctrination
+- name: True Ancestry
   weight: 0.9474
   avg_copies: 1.0
 - name: Break the Ice
@@ -123,19 +123,19 @@ top_cards:
 - name: Culling Ritual
   weight: 0.1579
   avg_copies: 2.33
-- name: Blood Crypt
-  weight: 0.1053
-  avg_copies: 1.5
 - name: Ashiok, Dream Render
   weight: 0.1053
   avg_copies: 1.5
+- name: Blood Crypt
+  weight: 0.1053
+  avg_copies: 1.5
+- name: Vexing Bauble
+  weight: 0.1053
+  avg_copies: 1.0
 - name: Redirect Lightning
   weight: 0.1053
   avg_copies: 1.0
 - name: Cling to Dust
-  weight: 0.1053
-  avg_copies: 1.0
-- name: Vexing Bauble
   weight: 0.1053
   avg_copies: 1.0
 - name: Bloodstained Mire
@@ -150,28 +150,10 @@ top_cards:
 - name: Price of Freedom
   weight: 0.0526
   avg_copies: 2.0
-- name: card:hollow-marauder
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Takenuma, Abandoned Mire
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Improvisation Capstone
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Forest
-  weight: 0.0526
-  avg_copies: 1.0
 - name: Faerie Macabre
   weight: 0.0526
   avg_copies: 1.0
 - name: card:the-terminus-of-return
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Raucous Theater
-  weight: 0.0526
-  avg_copies: 1.0
-- name: card:summon-bahamut
   weight: 0.0526
   avg_copies: 1.0
 - name: Vampire Hexmage
@@ -180,10 +162,28 @@ top_cards:
 - name: Chthonian Nightmare
   weight: 0.0526
   avg_copies: 1.0
+- name: card:summon-bahamut
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Forest
+  weight: 0.0526
+  avg_copies: 1.0
+- name: card:hollow-marauder
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Improvisation Capstone
+  weight: 0.0526
+  avg_copies: 1.0
 - name: Liliana, the Last Hope
   weight: 0.0526
   avg_copies: 1.0
 - name: Iroh's Demonstration
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Takenuma, Abandoned Mire
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Raucous Theater
   weight: 0.0526
   avg_copies: 1.0
 ---

@@ -7,14 +7,14 @@ name: Prismatic Ending
 scryfall_id: 825969b9-3c70-4fca-8cab-696e9ca7cdb2
 set: mh2
 type: Sorcery
-meta_presence: 0.1594
+meta_presence: 0.1602
 archetypes:
   ruby-storm:
-    weight: 0.8769
-    avg_copies: 3.39
+    weight: 0.8806
+    avg_copies: 3.41
   boros-energy:
-    weight: 0.0326
-    avg_copies: 1.25
+    weight: 0.0374
+    avg_copies: 1.22
   dimir-control:
     weight: 0.037
     avg_copies: 1.0
@@ -22,19 +22,19 @@ archetypes:
     weight: 0.5969
     avg_copies: 1.75
   eldrazi-tron:
-    weight: 0.0052
+    weight: 0.0051
     avg_copies: 2.0
   goryo:
-    weight: 0.9844
-    avg_copies: 2.27
+    weight: 0.9848
+    avg_copies: 2.26
   azorius-control:
     weight: 1.0
     avg_copies: 3.5
   jeskai-control:
-    weight: 0.9355
-    avg_copies: 1.97
+    weight: 0.9375
+    avg_copies: 2.0
   domain-zoo:
-    weight: 0.0202
+    weight: 0.0198
     avg_copies: 1.5
   reanimator:
     weight: 0.037
@@ -46,10 +46,10 @@ archetypes:
     weight: 0.1111
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.0076
+    weight: 0.0074
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0093
+    weight: 0.0135
     avg_copies: 2.0
   4c-omnath:
     weight: 0.25
@@ -67,7 +67,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.2391
+    weight: 0.234
     avg_copies: 2.08
   esper-control:
     weight: 1.0
@@ -106,7 +106,7 @@ archetypes:
     weight: 0.8
     avg_copies: 4.0
   unknown-62:
-    weight: 0.5652
+    weight: 0.5417
     avg_copies: 1.86
   unknown-68:
     weight: 0.3
@@ -139,14 +139,14 @@ archetypes:
     weight: 1.0
     avg_copies: 1.8
   unknown-96:
-    weight: 0.125
+    weight: 0.1111
     avg_copies: 2.0
   unknown-89:
     weight: 1.0
     avg_copies: 2.0
   unknown-106:
     weight: 1.0
-    avg_copies: 3.17
+    avg_copies: 3.25
   unknown-109:
     weight: 0.7778
     avg_copies: 3.14
@@ -171,6 +171,9 @@ archetypes:
   unknown-140:
     weight: 1.0
     avg_copies: 4.0
+  unknown-158:
+    weight: 1.0
+    avg_copies: 2.0
   unknown-153:
     weight: 1.0
     avg_copies: 3.0

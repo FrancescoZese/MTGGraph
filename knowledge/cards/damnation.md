@@ -7,7 +7,7 @@ name: Damnation
 scryfall_id: d3c0aac5-b9f1-4446-bfea-3e1dd1cf1f2f
 set: 2x2
 type: Sorcery
-meta_presence: 0.0104
+meta_presence: 0.0102
 archetypes:
   dimir-control:
     weight: 0.1728
@@ -16,7 +16,7 @@ archetypes:
     weight: 0.2432
     avg_copies: 1.11
   mill:
-    weight: 0.28
+    weight: 0.2692
     avg_copies: 1.0
   goryo5:
     weight: 0.25
@@ -31,7 +31,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0189
+    weight: 0.0185
     avg_copies: 1.0
   unknown-78:
     weight: 1.0

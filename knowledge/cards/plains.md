@@ -6,31 +6,31 @@ name: Plains
 scryfall_id: d85d0f25-a24a-4de0-9b8b-93fb5017bce9
 set: sos
 type: Basic Land — Plains
-meta_presence: 0.3588
+meta_presence: 0.3586
 archetypes:
   boros-energy:
-    weight: 0.9783
+    weight: 0.9786
     avg_copies: 1.82
   jeskai-energy:
     weight: 0.8605
     avg_copies: 1.61
   eldrazi-tron:
-    weight: 0.0052
+    weight: 0.0051
     avg_copies: 3.0
   goryo:
-    weight: 0.9896
+    weight: 0.9898
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
     avg_copies: 1.91
   jeskai-control:
     weight: 1.0
-    avg_copies: 1.77
+    avg_copies: 1.75
   domain-zoo:
     weight: 1.0
     avg_copies: 1.0
   mill:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 1.0
   reanimator:
     weight: 0.037
@@ -42,8 +42,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.33
   boros-ponza:
-    weight: 0.9847
-    avg_copies: 3.39
+    weight: 0.9853
+    avg_copies: 3.42
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
@@ -61,7 +61,7 @@ archetypes:
     avg_copies: 2.0
   azorius-blink:
     weight: 1.0
-    avg_copies: 2.28
+    avg_copies: 2.32
   esper-control:
     weight: 1.0
     avg_copies: 2.0
@@ -121,7 +121,7 @@ archetypes:
     avg_copies: 10.0
   unknown-26:
     weight: 1.0
-    avg_copies: 3.18
+    avg_copies: 3.22
   unknown-48:
     weight: 1.0
     avg_copies: 1.5
@@ -133,7 +133,7 @@ archetypes:
     avg_copies: 1.0
   unknown-62:
     weight: 1.0
-    avg_copies: 2.39
+    avg_copies: 2.46
   unknown-66:
     weight: 1.0
     avg_copies: 2.0
@@ -226,8 +226,14 @@ archetypes:
     avg_copies: 1.0
   unknown-149:
     weight: 1.0
-    avg_copies: 1.25
+    avg_copies: 1.33
+  unknown-158:
+    weight: 1.0
+    avg_copies: 2.0
   unknown-157:
     weight: 1.0
     avg_copies: 1.0
+  unknown-159:
+    weight: 1.0
+    avg_copies: 3.0
 ---

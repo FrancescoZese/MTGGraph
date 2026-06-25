@@ -8,7 +8,7 @@ name: Ashiok, Dream Render
 scryfall_id: f2df3258-c053-48a8-974f-d80899b2cd93
 set: war
 type: Legendary Planeswalker — Ashiok
-meta_presence: 0.0763
+meta_presence: 0.0759
 archetypes:
   dimir-control:
     weight: 0.0617
@@ -17,7 +17,7 @@ archetypes:
     weight: 0.3023
     avg_copies: 1.38
   goryo:
-    weight: 0.1979
+    weight: 0.1929
     avg_copies: 1.21
   necrodominance:
     weight: 0.1351
@@ -29,16 +29,16 @@ archetypes:
     weight: 0.0179
     avg_copies: 2.0
   jeskai-control:
-    weight: 0.1935
+    weight: 0.1875
     avg_copies: 1.0
   affinity:
-    weight: 0.1094
+    weight: 0.108
     avg_copies: 1.02
   domain-zoo:
-    weight: 0.4545
+    weight: 0.4455
     avg_copies: 1.33
   mill:
-    weight: 0.12
+    weight: 0.1154
     avg_copies: 1.0
   reanimator:
     weight: 0.037
@@ -50,10 +50,10 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.5
+    weight: 0.4923
     avg_copies: 1.12
   simic-ritual:
-    weight: 0.0139
+    weight: 0.0135
     avg_copies: 1.0
   4c-omnath:
     weight: 0.25
@@ -62,7 +62,7 @@ archetypes:
     weight: 0.1605
     avg_copies: 1.69
   samwise-combo:
-    weight: 0.0192
+    weight: 0.0189
     avg_copies: 2.0
   orzhov-blink:
     weight: 0.5556
@@ -71,7 +71,7 @@ archetypes:
     weight: 0.05
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.1087
+    weight: 0.1064
     avg_copies: 1.8
   izzet-artifacts:
     weight: 0.0312
@@ -80,7 +80,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   izzet-wizards:
-    weight: 0.1
+    weight: 0.1818
     avg_copies: 1.0
   rakdos-lantern-combo:
     weight: 1.0
@@ -138,7 +138,7 @@ archetypes:
     avg_copies: 2.0
   unknown-52:
     weight: 1.0
-    avg_copies: 1.11
+    avg_copies: 1.1
   unknown-54:
     weight: 0.3333
     avg_copies: 1.0
@@ -148,6 +148,9 @@ archetypes:
   unknown-58:
     weight: 1.0
     avg_copies: 1.0
+  unknown-69:
+    weight: 0.5
+    avg_copies: 1.0
   unknown-79:
     weight: 0.1667
     avg_copies: 2.0
@@ -155,7 +158,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-106:
-    weight: 0.1667
+    weight: 0.125
     avg_copies: 1.0
   unknown-113:
     weight: 0.5

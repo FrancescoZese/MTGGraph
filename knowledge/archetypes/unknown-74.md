@@ -7,37 +7,37 @@ name: 'Unknown #74'
 meta_share: 0.0002
 list_count: 1
 top_cards:
-- name: Solitude
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ephemerate
-  weight: 1.0
-  avg_copies: 4.0
-- name: Phelia, Exuberant Shepherd
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 4.0
-- name: Quantum Riddler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 4.0
-- name: Stoneforge Mystic
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Polluted Delta
+- name: Thoughtseize
+  weight: 1.0
+  avg_copies: 4.0
+- name: Phelia, Exuberant Shepherd
+  weight: 1.0
+  avg_copies: 4.0
+- name: Solitude
+  weight: 1.0
+  avg_copies: 4.0
+- name: Stoneforge Mystic
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 4.0
+- name: Wrath of the Skies
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ephemerate
   weight: 1.0
   avg_copies: 4.0
 - name: Prismatic Ending
   weight: 1.0
   avg_copies: 4.0
-- name: Wrath of the Skies
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
@@ -46,55 +46,55 @@ top_cards:
 - name: Leyline of the Void
   weight: 1.0
   avg_copies: 3.0
-- name: Flooded Strand
-  weight: 1.0
-  avg_copies: 2.0
-- name: Witch Enchanter
-  weight: 1.0
-  avg_copies: 2.0
-- name: Hallowed Fountain
-  weight: 1.0
-  avg_copies: 2.0
-- name: Fatal Push
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 2.0
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 2.0
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 2.0
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 2.0
+- name: Witch Enchanter
+  weight: 1.0
+  avg_copies: 2.0
 - name: Cryptic Coat
   weight: 1.0
   avg_copies: 2.0
-- name: Godless Shrine
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.0
+- name: Meteor Sword
+  weight: 1.0
+  avg_copies: 1.0
 - name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Plains
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
 - name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
-- name: Meteor Sword
+- name: Plains
+  weight: 1.0
+  avg_copies: 1.0
+- name: Meticulous Archive
+  weight: 1.0
+  avg_copies: 1.0
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Umezawa's Jitte
   weight: 1.0
   avg_copies: 1.0
 - name: Kaldra Compleat
-  weight: 1.0
-  avg_copies: 1.0
-- name: Watery Grave
-  weight: 1.0
-  avg_copies: 1.0
-- name: Swamp
-  weight: 1.0
-  avg_copies: 1.0
-- name: Island
   weight: 1.0
   avg_copies: 1.0
 ---

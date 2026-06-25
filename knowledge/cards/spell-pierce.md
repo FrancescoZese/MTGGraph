@@ -7,7 +7,7 @@ name: Spell Pierce
 scryfall_id: 8dd4374f-0301-4b2e-bc99-2cd19568cb3b
 set: dft
 type: Instant
-meta_presence: 0.0857
+meta_presence: 0.0856
 archetypes:
   dimir-control:
     weight: 0.2099
@@ -18,11 +18,14 @@ archetypes:
   affinity:
     weight: 0.0026
     avg_copies: 1.0
+  mill:
+    weight: 0.0385
+    avg_copies: 3.0
   reanimator:
     weight: 0.7037
     avg_copies: 1.84
   izzet-prowess:
-    weight: 0.8093
+    weight: 0.7973
     avg_copies: 1.61
   esper-blink:
     weight: 0.0123
@@ -34,16 +37,16 @@ archetypes:
     weight: 0.1
     avg_copies: 1.5
   azorius-blink:
-    weight: 0.0652
+    weight: 0.0638
     avg_copies: 1.5
   izzet-artifacts:
     weight: 0.0312
     avg_copies: 2.0
   izzet-wizards:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 1.0
   goryo1:
-    weight: 0.8208
+    weight: 0.8224
     avg_copies: 1.9
   grixis-control:
     weight: 0.5
@@ -70,10 +73,10 @@ archetypes:
     weight: 0.1429
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0566
+    weight: 0.0556
     avg_copies: 1.0
   unknown-62:
-    weight: 0.6957
+    weight: 0.6667
     avg_copies: 1.65
   unknown-70:
     weight: 0.1667
@@ -88,7 +91,7 @@ archetypes:
     weight: 0.25
     avg_copies: 2.0
   unknown-122:
-    weight: 0.1818
+    weight: 0.2143
     avg_copies: 1.0
   unknown-125:
     weight: 1.0
@@ -97,8 +100,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-149:
-    weight: 0.5
-    avg_copies: 1.25
+    weight: 0.5556
+    avg_copies: 1.2
   unknown-145:
     weight: 1.0
     avg_copies: 2.0

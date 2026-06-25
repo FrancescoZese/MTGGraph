@@ -6,11 +6,11 @@ name: Idyllic Grange
 scryfall_id: ca2c611c-3a6f-44b0-9daa-837a465845e0
 set: eld
 type: Land — Plains
-meta_presence: 0.0016
+meta_presence: 0.0018
 archetypes:
   azorius-blink:
-    weight: 0.087
-    avg_copies: 1.25
+    weight: 0.1064
+    avg_copies: 1.2
   bant-ritual:
     weight: 1.0
     avg_copies: 1.0

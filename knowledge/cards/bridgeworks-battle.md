@@ -12,10 +12,10 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.9273
-    avg_copies: 1.2
+    weight: 0.9286
+    avg_copies: 1.19
   samwise-combo:
-    weight: 0.0192
+    weight: 0.0189
     avg_copies: 1.0
   mono-green-stompy:
     weight: 1.0

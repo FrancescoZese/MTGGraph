@@ -10,10 +10,10 @@ type: Creature — Human Soldier
 meta_presence: 0.0035
 archetypes:
   azorius-blink:
-    weight: 0.2826
+    weight: 0.2766
     avg_copies: 1.15
   unknown-62:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 1.0
   unknown-108:
     weight: 1.0

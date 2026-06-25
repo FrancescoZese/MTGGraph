@@ -10,7 +10,7 @@ type: Legendary Creature — Phyrexian Praetor
 meta_presence: 0.0122
 archetypes:
   neoform-combo:
-    weight: 0.8545
+    weight: 0.8571
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.4167

@@ -13,10 +13,10 @@ archetypes:
     weight: 0.25
     avg_copies: 3.0
   eldrazi-ramp:
-    weight: 0.3196
-    avg_copies: 1.65
+    weight: 0.3232
+    avg_copies: 1.69
   broodscale-combo:
-    weight: 0.9816
+    weight: 0.9819
     avg_copies: 3.84
   unknown-97:
     weight: 1.0

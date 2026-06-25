@@ -4,7 +4,7 @@ colors:
 - U
 - B
 name: Esper Blink
-meta_share: 0.0191
+meta_share: 0.0187
 list_count: 81
 top_cards:
 - name: Solitude
@@ -52,10 +52,10 @@ top_cards:
 - name: Plains
   weight: 0.9753
   avg_copies: 1.54
-- name: Swamp
+- name: Boggart Trawler
   weight: 0.9753
   avg_copies: 1.0
-- name: Boggart Trawler
+- name: Swamp
   weight: 0.9753
   avg_copies: 1.0
 - name: Undercity Sewers
@@ -145,25 +145,25 @@ top_cards:
 - name: Ketramose, the New Dawn
   weight: 0.0494
   avg_copies: 2.0
-- name: Chalice of the Void
-  weight: 0.0494
-  avg_copies: 1.0
 - name: Kavaero, Mind-Bitten
   weight: 0.0494
   avg_copies: 1.0
-- name: Subtlety
-  weight: 0.037
-  avg_copies: 2.33
+- name: Chalice of the Void
+  weight: 0.0494
+  avg_copies: 1.0
 - name: Practiced Offense
   weight: 0.037
   avg_copies: 2.33
+- name: Subtlety
+  weight: 0.037
+  avg_copies: 2.33
+- name: Graveyard Trespasser
+  weight: 0.037
+  avg_copies: 2.0
 - name: Abhorrent Oculus
   weight: 0.037
   avg_copies: 2.0
 - name: Northampton Farm
-  weight: 0.037
-  avg_copies: 2.0
-- name: Graveyard Trespasser
   weight: 0.037
   avg_copies: 2.0
 - name: Strix Serenade
@@ -184,28 +184,28 @@ top_cards:
 - name: Force of Negation
   weight: 0.0247
   avg_copies: 3.5
-- name: Vexing Bauble
-  weight: 0.0247
-  avg_copies: 2.0
 - name: Orim's Chant
   weight: 0.0247
   avg_copies: 2.0
-- name: Hydroelectric Specimen
+- name: Vexing Bauble
   weight: 0.0247
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Snow-Covered Island
-  weight: 0.0247
-  avg_copies: 1.0
-- name: Pest Control
-  weight: 0.0247
-  avg_copies: 1.0
-- name: Snow-Covered Plains
   weight: 0.0247
   avg_copies: 1.0
 - name: Floodfarm Verge
   weight: 0.0247
   avg_copies: 1.0
+- name: Hydroelectric Specimen
+  weight: 0.0247
+  avg_copies: 1.0
+- name: Snow-Covered Plains
+  weight: 0.0247
+  avg_copies: 1.0
 - name: Snow-Covered Swamp
+  weight: 0.0247
+  avg_copies: 1.0
+- name: Pest Control
   weight: 0.0247
   avg_copies: 1.0
 - name: No More Lies
@@ -220,40 +220,40 @@ top_cards:
 - name: Relic of Progenitus
   weight: 0.0123
   avg_copies: 1.5
-- name: Darkblast
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Emptiness
-  weight: 0.0123
-  avg_copies: 1.0
 - name: Faerie Macabre
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Kataki, War's Wage
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Supreme Verdict
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Windswept Heath
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Stony Silence
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Sacred Ground
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Cling to Dust
   weight: 0.0123
   avg_copies: 1.0
 - name: Spell Pierce
   weight: 0.0123
   avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Darkblast
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Stony Silence
+  weight: 0.0123
+  avg_copies: 1.0
 - name: Emeritus of Ideation
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Windswept Heath
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Sacred Ground
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Supreme Verdict
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Cling to Dust
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Kataki, War's Wage
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Emptiness
   weight: 0.0123
   avg_copies: 1.0
 ---

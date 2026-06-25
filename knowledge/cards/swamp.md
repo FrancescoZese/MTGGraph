@@ -6,16 +6,16 @@ name: Swamp
 scryfall_id: 51fe930f-2b5a-4b1e-9007-6ee74fb44715
 set: sos
 type: Basic Land — Swamp
-meta_presence: 0.2562
+meta_presence: 0.2553
 archetypes:
   dimir-control:
     weight: 0.9877
     avg_copies: 1.02
   eldrazi-tron:
-    weight: 0.7202
+    weight: 0.7259
     avg_copies: 1.06
   goryo:
-    weight: 0.9792
+    weight: 0.9797
     avg_copies: 1.02
   necrodominance:
     weight: 1.0
@@ -24,8 +24,8 @@ archetypes:
     weight: 0.4286
     avg_copies: 1.0
   mill:
-    weight: 0.76
-    avg_copies: 1.15
+    weight: 0.7692
+    avg_copies: 1.14
   reanimator:
     weight: 1.0
     avg_copies: 1.7
@@ -33,19 +33,19 @@ archetypes:
     weight: 0.1739
     avg_copies: 1.0
   hollow-one:
-    weight: 0.8438
+    weight: 0.8485
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0278
+    weight: 0.027
     avg_copies: 1.0
   esper-blink:
     weight: 0.9753
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.1538
+    weight: 0.1509
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.0833
@@ -78,7 +78,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo1:
-    weight: 0.9906
+    weight: 0.9813
     avg_copies: 1.63
   goryo5:
     weight: 1.0
@@ -148,9 +148,9 @@ archetypes:
     avg_copies: 3.95
   unknown-46:
     weight: 1.0
-    avg_copies: 3.33
+    avg_copies: 3.57
   unknown-47:
-    weight: 0.9623
+    weight: 0.963
     avg_copies: 1.02
   unknown-51:
     weight: 1.0
@@ -160,7 +160,7 @@ archetypes:
     avg_copies: 2.0
   unknown-52:
     weight: 1.0
-    avg_copies: 1.33
+    avg_copies: 1.3
   unknown-54:
     weight: 0.6667
     avg_copies: 1.0
@@ -187,7 +187,7 @@ archetypes:
     avg_copies: 1.06
   unknown-69:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 3.5
   unknown-73:
     weight: 1.0
     avg_copies: 1.0
@@ -213,7 +213,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-101:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 1.0
   unknown-105:
     weight: 1.0

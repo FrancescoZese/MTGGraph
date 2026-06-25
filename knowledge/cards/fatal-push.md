@@ -7,20 +7,20 @@ name: Fatal Push
 scryfall_id: 6e9d8fe4-fd9b-4923-92bf-7dd6b8fa02e7
 set: 2xm
 type: Instant
-meta_presence: 0.1766
+meta_presence: 0.1756
 archetypes:
   dimir-control:
     weight: 1.0
     avg_copies: 3.8
   goryo:
-    weight: 0.224
+    weight: 0.2183
     avg_copies: 1.41
   necrodominance:
     weight: 0.9189
     avg_copies: 3.97
   mill:
-    weight: 0.96
-    avg_copies: 3.46
+    weight: 0.9615
+    avg_copies: 3.48
   reanimator:
     weight: 0.9259
     avg_copies: 3.76
@@ -28,28 +28,28 @@ archetypes:
     weight: 0.2174
     avg_copies: 4.0
   hollow-one:
-    weight: 0.2812
-    avg_copies: 2.24
+    weight: 0.303
+    avg_copies: 2.22
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 2.8
   simic-ritual:
-    weight: 0.0417
+    weight: 0.0405
     avg_copies: 2.33
   izzet-prowess:
-    weight: 0.0093
+    weight: 0.009
     avg_copies: 1.5
   esper-blink:
     weight: 0.9753
     avg_copies: 3.49
   samwise-combo:
-    weight: 0.4423
-    avg_copies: 2.22
+    weight: 0.4528
+    avg_copies: 2.21
   indomitable-creativity:
     weight: 0.25
     avg_copies: 3.33
   broodscale-combo:
-    weight: 0.0061
+    weight: 0.006
     avg_copies: 2.0
   orzhov-blink:
     weight: 1.0
@@ -152,13 +152,13 @@ archetypes:
     avg_copies: 4.0
   unknown-47:
     weight: 1.0
-    avg_copies: 3.92
+    avg_copies: 3.93
   unknown-51:
     weight: 1.0
     avg_copies: 4.0
   unknown-52:
     weight: 1.0
-    avg_copies: 2.78
+    avg_copies: 2.8
   unknown-57:
     weight: 1.0
     avg_copies: 1.0
@@ -202,13 +202,13 @@ archetypes:
     weight: 0.8
     avg_copies: 1.86
   unknown-101:
-    weight: 0.6667
-    avg_copies: 3.0
+    weight: 0.5
+    avg_copies: 2.67
   unknown-105:
     weight: 1.0
     avg_copies: 4.0
   unknown-106:
-    weight: 0.1667
+    weight: 0.125
     avg_copies: 2.0
   unknown-111:
     weight: 1.0
@@ -232,7 +232,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-126:
-    weight: 0.1667
+    weight: 0.1333
     avg_copies: 3.0
   unknown-127:
     weight: 1.0

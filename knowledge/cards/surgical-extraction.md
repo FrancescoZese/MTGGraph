@@ -1,11 +1,11 @@
 ---
 archetypes:
   ruby-storm:
-    weight: 0.0077
+    weight: 0.0075
     avg_copies: 1.0
   boros-energy:
-    weight: 0.7899
-    avg_copies: 1.27
+    weight: 0.7914
+    avg_copies: 1.26
   dimir-control:
     weight: 0.1111
     avg_copies: 1.44
@@ -16,7 +16,7 @@ archetypes:
     weight: 0.7054
     avg_copies: 1.1
   goryo:
-    weight: 0.5104
+    weight: 0.5025
     avg_copies: 1.13
   necrodominance:
     weight: 0.5405
@@ -25,14 +25,14 @@ archetypes:
     weight: 0.625
     avg_copies: 1.23
   jeskai-control:
-    weight: 0.5484
-    avg_copies: 1.18
+    weight: 0.5625
+    avg_copies: 1.17
   domain-zoo:
-    weight: 0.2424
+    weight: 0.2376
     avg_copies: 1.21
   mill:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 2.97
   reanimator:
     weight: 0.2222
     avg_copies: 1.33
@@ -46,25 +46,25 @@ archetypes:
     weight: 0.2353
     avg_copies: 1.75
   hollow-one:
-    weight: 0.75
-    avg_copies: 1.96
+    weight: 0.7576
+    avg_copies: 2.0
   boros-ponza:
-    weight: 0.1756
-    avg_copies: 1.71
+    weight: 0.1765
+    avg_copies: 1.72
   yawgmoth-combo:
-    weight: 0.0156
+    weight: 0.0154
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0515
+    weight: 0.0505
     avg_copies: 1.6
   izzet-prowess:
-    weight: 0.5814
-    avg_copies: 1.54
+    weight: 0.5766
+    avg_copies: 1.53
   esper-blink:
     weight: 0.2346
     avg_copies: 1.32
   samwise-combo:
-    weight: 0.1154
+    weight: 0.1132
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.6667
@@ -76,10 +76,10 @@ archetypes:
     weight: 0.45
     avg_copies: 2.0
   azorius-blink:
-    weight: 0.087
+    weight: 0.0851
     avg_copies: 1.5
   izzet-wizards:
-    weight: 0.2
+    weight: 0.1818
     avg_copies: 1.5
   jund-saga:
     weight: 0.3333
@@ -97,7 +97,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.7264
+    weight: 0.7196
     avg_copies: 1.22
   goryo5:
     weight: 0.4167
@@ -151,16 +151,16 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-34:
-    weight: 0.6667
+    weight: 0.5
     avg_copies: 1.0
   unknown-36:
     weight: 1.0
     avg_copies: 2.0
   unknown-46:
-    weight: 0.8333
-    avg_copies: 1.2
+    weight: 0.8571
+    avg_copies: 1.17
   unknown-47:
-    weight: 0.1509
+    weight: 0.1481
     avg_copies: 1.75
   unknown-51:
     weight: 1.0
@@ -169,7 +169,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-61:
-    weight: 0.0417
+    weight: 0.04
     avg_copies: 1.0
   unknown-53:
     weight: 1.0
@@ -181,7 +181,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-62:
-    weight: 0.2609
+    weight: 0.25
     avg_copies: 1.5
   unknown-64:
     weight: 1.0
@@ -193,7 +193,7 @@ archetypes:
     weight: 0.2
     avg_copies: 1.0
   unknown-69:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 1.0
   unknown-79:
     weight: 0.1667
@@ -211,7 +211,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-96:
-    weight: 0.125
+    weight: 0.1111
     avg_copies: 2.0
   unknown-98:
     weight: 1.0
@@ -223,14 +223,14 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-101:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 3.0
   unknown-102:
     weight: 1.0
     avg_copies: 2.0
   unknown-106:
-    weight: 0.3333
-    avg_copies: 1.0
+    weight: 0.375
+    avg_copies: 1.33
   unknown-109:
     weight: 1.0
     avg_copies: 1.89
@@ -244,7 +244,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   unknown-122:
-    weight: 0.2727
+    weight: 0.2857
     avg_copies: 1.0
   unknown-131:
     weight: 0.5714
@@ -253,7 +253,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-149:
-    weight: 0.375
+    weight: 0.3333
     avg_copies: 1.67
   unknown-152:
     weight: 1.0
@@ -261,7 +261,7 @@ archetypes:
 cmc: 1
 colors: []
 image: https://cards.scryfall.io/normal/front/e/1/e15d76ac-1c23-4503-8225-375ac2bf2fb6.jpg?1673147668
-meta_presence: 0.2908
+meta_presence: 0.2896
 name: Surgical Extraction
 scryfall_id: e15d76ac-1c23-4503-8225-375ac2bf2fb6
 set: 2x2

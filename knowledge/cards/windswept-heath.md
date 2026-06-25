@@ -6,40 +6,40 @@ name: Windswept Heath
 scryfall_id: bd1d13f7-fd38-4f0b-a8e0-1eac78668117
 set: mh3
 type: Land
-meta_presence: 0.1446
+meta_presence: 0.1449
 archetypes:
   boros-energy:
-    weight: 0.433
-    avg_copies: 2.74
+    weight: 0.4278
+    avg_copies: 2.75
   jeskai-energy:
     weight: 0.0078
     avg_copies: 3.0
   amulet-titan:
-    weight: 0.0242
+    weight: 0.0238
     avg_copies: 1.0
   azorius-control:
     weight: 0.1071
     avg_copies: 1.33
   jeskai-control:
-    weight: 0.0323
+    weight: 0.0312
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.1636
-    avg_copies: 1.78
+    weight: 0.1786
+    avg_copies: 1.7
   hammer-time:
     weight: 0.3333
     avg_copies: 4.0
   boros-ponza:
-    weight: 0.0076
+    weight: 0.0074
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.9688
-    avg_copies: 3.23
+    weight: 0.9692
+    avg_copies: 3.24
   eldrazi-ramp:
-    weight: 0.8144
-    avg_copies: 1.28
+    weight: 0.8182
+    avg_copies: 1.27
   simic-ritual:
-    weight: 0.0694
+    weight: 0.0676
     avg_copies: 1.6
   4c-omnath:
     weight: 1.0
@@ -51,8 +51,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.79
   broodscale-combo:
-    weight: 0.2331
-    avg_copies: 1.24
+    weight: 0.241
+    avg_copies: 1.23
   orzhov-blink:
     weight: 0.1111
     avg_copies: 2.0
@@ -60,8 +60,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.6304
-    avg_copies: 1.76
+    weight: 0.6383
+    avg_copies: 1.73
   elves:
     weight: 1.0
     avg_copies: 2.5
@@ -96,8 +96,8 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-62:
-    weight: 0.1739
-    avg_copies: 2.0
+    weight: 0.2083
+    avg_copies: 1.8
   unknown-60:
     weight: 1.0
     avg_copies: 4.0
@@ -127,7 +127,7 @@ archetypes:
     avg_copies: 3.0
   unknown-126:
     weight: 1.0
-    avg_copies: 3.83
+    avg_copies: 3.87
   unknown-130:
     weight: 1.0
     avg_copies: 2.0
@@ -152,4 +152,7 @@ archetypes:
   unknown-157:
     weight: 1.0
     avg_copies: 2.0
+  unknown-159:
+    weight: 1.0
+    avg_copies: 4.0
 ---

@@ -12,10 +12,10 @@ archetypes:
     weight: 0.0078
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.0323
+    weight: 0.0317
     avg_copies: 1.0
   goryo:
-    weight: 0.1615
+    weight: 0.1624
     avg_copies: 1.0
   azorius-control:
     weight: 0.125
@@ -24,14 +24,14 @@ archetypes:
     weight: 1.0
     avg_copies: 1.04
   neoform-combo:
-    weight: 0.9818
-    avg_copies: 2.74
+    weight: 0.9821
+    avg_copies: 2.75
   eldrazi-ramp:
-    weight: 0.1237
+    weight: 0.1212
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.9861
-    avg_copies: 1.73
+    weight: 0.9865
+    avg_copies: 1.74
   4c-omnath:
     weight: 0.75
     avg_copies: 1.0
@@ -64,7 +64,7 @@ archetypes:
     avg_copies: 1.0
   unknown-67:
     weight: 1.0
-    avg_copies: 1.08
+    avg_copies: 1.07
   unknown-85:
     weight: 0.1
     avg_copies: 1.0

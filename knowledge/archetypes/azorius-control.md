@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: Azorius Control
-meta_share: 0.0132
+meta_share: 0.0129
 list_count: 56
 top_cards:
 - name: Orim's Chant
@@ -108,10 +108,10 @@ top_cards:
 - name: Steam Vents
   weight: 0.4286
   avg_copies: 1.0
-- name: Watery Grave
+- name: Geier Reach Sanitarium
   weight: 0.3929
   avg_copies: 1.0
-- name: Geier Reach Sanitarium
+- name: Watery Grave
   weight: 0.3929
   avg_copies: 1.0
 - name: Stock Up
@@ -120,10 +120,10 @@ top_cards:
 - name: Force of Negation
   weight: 0.375
   avg_copies: 1.38
-- name: Marsh Flats
+- name: Floodfarm Verge
   weight: 0.3036
   avg_copies: 1.82
-- name: Floodfarm Verge
+- name: Marsh Flats
   weight: 0.3036
   avg_copies: 1.82
 - name: Misty Rainforest
@@ -201,13 +201,22 @@ top_cards:
 - name: Fire Magic
   weight: 0.0536
   avg_copies: 1.67
-- name: Suppression Ray
-  weight: 0.0357
-  avg_copies: 4.0
 - name: Thundertrap Trainer
   weight: 0.0357
   avg_copies: 4.0
+- name: Suppression Ray
+  weight: 0.0357
+  avg_copies: 4.0
+- name: Sacred Foundry
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Celestial Colonnade
+  weight: 0.0357
+  avg_copies: 1.0
 - name: Vendilion Clique
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Tamiyo, Inquisitive Student
   weight: 0.0357
   avg_copies: 1.0
 - name: Mistrise Village
@@ -222,15 +231,6 @@ top_cards:
 - name: Wan Shi Tong, Librarian
   weight: 0.0357
   avg_copies: 1.0
-- name: Celestial Colonnade
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.0357
-  avg_copies: 1.0
 - name: Terminus
   weight: 0.0179
   avg_copies: 3.0
@@ -240,7 +240,7 @@ top_cards:
 - name: Pyroclasm
   weight: 0.0179
   avg_copies: 2.0
-- name: Meltdown
+- name: Get Lost
   weight: 0.0179
   avg_copies: 1.0
 - name: Petrified Hamlet
@@ -252,22 +252,22 @@ top_cards:
 - name: Hurkyl's Recall
   weight: 0.0179
   avg_copies: 1.0
-- name: Restless Anchorage
-  weight: 0.0179
-  avg_copies: 1.0
-- name: Get Lost
-  weight: 0.0179
-  avg_copies: 1.0
 - name: Snow-Covered Plains
-  weight: 0.0179
-  avg_copies: 1.0
-- name: Strix Serenade
   weight: 0.0179
   avg_copies: 1.0
 - name: Commandeer
   weight: 0.0179
   avg_copies: 1.0
+- name: Meltdown
+  weight: 0.0179
+  avg_copies: 1.0
+- name: Restless Anchorage
+  weight: 0.0179
+  avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
+  weight: 0.0179
+  avg_copies: 1.0
+- name: Strix Serenade
   weight: 0.0179
   avg_copies: 1.0
 ---

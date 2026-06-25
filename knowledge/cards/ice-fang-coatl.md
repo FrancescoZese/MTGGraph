@@ -11,10 +11,10 @@ type: Snow Creature — Snake
 meta_presence: 0.0235
 archetypes:
   neoform-combo:
-    weight: 0.5091
+    weight: 0.5
     avg_copies: 3.75
   simic-ritual:
-    weight: 0.9722
+    weight: 0.973
     avg_copies: 4.0
   unknown-60:
     weight: 1.0

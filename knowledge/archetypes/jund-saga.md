@@ -19,19 +19,19 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 3.67
+- name: Orcish Bowmasters
+  weight: 1.0
+  avg_copies: 3.33
 - name: Nethergoyf
   weight: 1.0
   avg_copies: 3.33
 - name: Wrenn and Six
   weight: 1.0
   avg_copies: 3.33
-- name: Orcish Bowmasters
-  weight: 1.0
-  avg_copies: 3.33
-- name: Tarmogoyf
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 3.0
-- name: Bloodstained Mire
+- name: Tarmogoyf
   weight: 1.0
   avg_copies: 3.0
 - name: Fatal Push
@@ -49,13 +49,13 @@ top_cards:
 - name: Pithing Needle
   weight: 1.0
   avg_copies: 1.33
+- name: Overgrown Tomb
+  weight: 1.0
+  avg_copies: 1.33
 - name: Engineered Explosives
   weight: 1.0
   avg_copies: 1.33
 - name: Fable of the Mirror-Breaker
-  weight: 1.0
-  avg_copies: 1.33
-- name: Overgrown Tomb
   weight: 1.0
   avg_copies: 1.33
 - name: Vexing Bauble
@@ -64,28 +64,28 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.17
-- name: Nihil Spellbomb
-  weight: 1.0
-  avg_copies: 1.0
-- name: Stomping Ground
-  weight: 1.0
-  avg_copies: 1.0
-- name: Forest
+- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowspear
+- name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Nihil Spellbomb
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shadowspear
+  weight: 1.0
+  avg_copies: 1.0
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
 - name: Obsidian Charmaw
@@ -94,91 +94,91 @@ top_cards:
 - name: Unholy Heat
   weight: 0.6667
   avg_copies: 2.0
-- name: Pyroclasm
-  weight: 0.6667
-  avg_copies: 1.5
 - name: Inquisition of Kozilek
   weight: 0.6667
   avg_copies: 1.5
-- name: Tarfire
+- name: Pyroclasm
+  weight: 0.6667
+  avg_copies: 1.5
+- name: Skateboard
   weight: 0.6667
   avg_copies: 1.0
 - name: Meltdown
   weight: 0.6667
   avg_copies: 1.0
+- name: Tourach, Dread Cantor
+  weight: 0.6667
+  avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.6667
   avg_copies: 1.0
-- name: Shoot the Sheriff
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Tourach, Dread Cantor
+- name: Tarfire
   weight: 0.6667
   avg_copies: 1.0
 - name: Underground Mortuary
   weight: 0.6667
   avg_copies: 1.0
-- name: Skateboard
+- name: Shoot the Sheriff
   weight: 0.6667
   avg_copies: 1.0
-- name: End of the Hunt
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Fire Magic
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Arena of Glory
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Molten Rain
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Kroxa, Titan of Death's Hunger
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Dark Confidant
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Witherbloom Charm
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Brotherhood's End
   weight: 0.3333
   avg_copies: 1.0
 - name: Seasoned Pyromancer
   weight: 0.3333
   avg_copies: 1.0
-- name: Fear of Missing Out
+- name: Witherbloom Charm
   weight: 0.3333
   avg_copies: 1.0
-- name: Sheoldred's Edict
+- name: Surgical Extraction
   weight: 0.3333
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Arena of Glory
   weight: 0.3333
   avg_copies: 1.0
-- name: Graveyard Trespasser
+- name: Brotherhood's End
   weight: 0.3333
   avg_copies: 1.0
-- name: Emperor of Bones
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Questing Druid
+- name: Kroxa, Titan of Death's Hunger
   weight: 0.3333
   avg_copies: 1.0
 - name: Witherbloom Command
   weight: 0.3333
   avg_copies: 1.0
+- name: Fear of Missing Out
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Toxic Deluge
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Graveyard Trespasser
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Fire Magic
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Ghost Vacuum
   weight: 0.3333
   avg_copies: 1.0
 - name: Grist, the Hunger Tide
   weight: 0.3333
   avg_copies: 1.0
-- name: Ghost Vacuum
+- name: Emperor of Bones
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Sheoldred's Edict
+  weight: 0.3333
+  avg_copies: 1.0
+- name: End of the Hunt
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Molten Rain
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Questing Druid
   weight: 0.3333
   avg_copies: 1.0
 ---

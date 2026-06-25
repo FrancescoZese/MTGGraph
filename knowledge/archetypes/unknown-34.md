@@ -4,19 +4,10 @@ colors:
 - R
 - G
 name: 'Unknown #34'
-meta_share: 0.0007
-list_count: 3
+meta_share: 0.0009
+list_count: 4
 top_cards:
-- name: Cabal Therapist
-  weight: 1.0
-  avg_copies: 4.0
 - name: Cragganwick Cremator
-  weight: 1.0
-  avg_copies: 4.0
-- name: Verdant Catacombs
-  weight: 1.0
-  avg_copies: 4.0
-- name: Goryo's Vengeance
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
@@ -25,46 +16,43 @@ top_cards:
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodstained Mire
+- name: Goryo's Vengeance
   weight: 1.0
   avg_copies: 4.0
-- name: Emrakul, the Aeons Torn
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
 - name: Yargle and Multani
   weight: 1.0
   avg_copies: 4.0
+- name: Emrakul, the Aeons Torn
+  weight: 1.0
+  avg_copies: 4.0
+- name: Bloodstained Mire
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cabal Therapist
+  weight: 1.0
+  avg_copies: 3.5
 - name: The Underworld Cookbook
   weight: 1.0
   avg_copies: 3.0
 - name: Gorilla Shaman
   weight: 1.0
-  avg_copies: 3.0
-- name: Dauthi Voidwalker
-  weight: 1.0
-  avg_copies: 2.0
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 2.75
 - name: Blazemire Verge
   weight: 1.0
-  avg_copies: 2.0
-- name: Meltdown
-  weight: 1.0
-  avg_copies: 2.0
-- name: Blackcleave Cliffs
-  weight: 1.0
-  avg_copies: 2.0
-- name: Orcish Bowmasters
+  avg_copies: 2.5
+- name: Swamp
   weight: 1.0
   avg_copies: 2.0
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 2.0
-- name: Swamp
+- name: Meltdown
   weight: 1.0
   avg_copies: 2.0
-- name: Lightning Bolt
+- name: Fatal Push
   weight: 1.0
   avg_copies: 2.0
 - name: Raucous Theater
@@ -72,39 +60,60 @@ top_cards:
   avg_copies: 2.0
 - name: Nihil Spellbomb
   weight: 1.0
-  avg_copies: 1.33
+  avg_copies: 1.75
+- name: Lightning Bolt
+  weight: 1.0
+  avg_copies: 1.75
 - name: Illness in the Ranks
   weight: 1.0
-  avg_copies: 1.0
+  avg_copies: 1.25
+- name: Vexing Bauble
+  weight: 1.0
+  avg_copies: 1.12
 - name: Dismember
-  weight: 1.0
-  avg_copies: 1.0
-- name: Mount Doom
-  weight: 1.0
-  avg_copies: 1.0
-- name: Mountain
-  weight: 1.0
-  avg_copies: 1.0
-- name: Fable of the Mirror-Breaker
-  weight: 1.0
-  avg_copies: 1.0
-- name: Blood Moon
   weight: 1.0
   avg_copies: 1.0
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 1.0
-- name: Shattering Spree
-  weight: 1.0
-  avg_copies: 1.0
 - name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
-- name: Vexing Bauble
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.6667
+- name: Mount Doom
+  weight: 1.0
   avg_copies: 1.0
+- name: Orcish Bowmasters
+  weight: 0.75
+  avg_copies: 2.0
+- name: Dauthi Voidwalker
+  weight: 0.75
+  avg_copies: 2.0
+- name: Blackcleave Cliffs
+  weight: 0.75
+  avg_copies: 2.0
+- name: Blood Moon
+  weight: 0.75
+  avg_copies: 1.0
+- name: Shattering Spree
+  weight: 0.75
+  avg_copies: 1.0
+- name: Fable of the Mirror-Breaker
+  weight: 0.75
+  avg_copies: 1.0
+- name: Surgical Extraction
+  weight: 0.5
+  avg_copies: 1.0
+- name: card:party-thrasher
+  weight: 0.25
+  avg_copies: 4.0
+- name: Pyroclasm
+  weight: 0.25
+  avg_copies: 2.0
+- name: Emperor of Bones
+  weight: 0.25
+  avg_copies: 2.0
 ---
 Unclassified archetype, pending review.

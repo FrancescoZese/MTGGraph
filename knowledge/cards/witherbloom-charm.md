@@ -11,11 +11,11 @@ type: Instant
 meta_presence: 0.012
 archetypes:
   simic-ritual:
-    weight: 0.0694
+    weight: 0.0676
     avg_copies: 1.71
   samwise-combo:
-    weight: 0.4038
-    avg_copies: 1.7
+    weight: 0.3962
+    avg_copies: 1.68
   jund-saga:
     weight: 0.3333
     avg_copies: 1.0
@@ -30,7 +30,7 @@ archetypes:
     avg_copies: 3.0
   unknown-46:
     weight: 1.0
-    avg_copies: 3.5
+    avg_copies: 3.57
   unknown-90:
     weight: 1.0
     avg_copies: 2.0

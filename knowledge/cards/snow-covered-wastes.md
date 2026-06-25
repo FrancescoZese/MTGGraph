@@ -6,13 +6,13 @@ name: Snow-Covered Wastes
 scryfall_id: 87870792-e429-4eba-8193-cdce5c7b6c55
 set: mh3
 type: Basic Snow Land
-meta_presence: 0.0078
+meta_presence: 0.0076
 archetypes:
   eldrazi-tron:
-    weight: 0.1192
+    weight: 0.1168
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0491
+    weight: 0.0482
     avg_copies: 1.0
   goryo4:
     weight: 0.1818

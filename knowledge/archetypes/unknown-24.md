@@ -2,16 +2,19 @@
 colors:
 - B
 name: 'Unknown #24'
-meta_share: 0.0021
-list_count: 9
+meta_share: 0.0023
+list_count: 10
 top_cards:
-- name: Prismatic Vista
+- name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
-- name: Thought-Knot Seer
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
-- name: Kozilek's Command
+- name: Ifnir Deadlands
+  weight: 1.0
+  avg_copies: 4.0
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
@@ -20,64 +23,64 @@ top_cards:
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Nethergoyf
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 4.0
 - name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
 - name: Emperor of Bones
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Saga
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
-- name: Ifnir Deadlands
+- name: Thought-Knot Seer
+  weight: 1.0
+  avg_copies: 4.0
+- name: Prismatic Vista
   weight: 1.0
   avg_copies: 4.0
 - name: Orcish Bowmasters
   weight: 1.0
-  avg_copies: 2.44
+  avg_copies: 2.5
 - name: Damping Sphere
   weight: 1.0
-  avg_copies: 2.33
-- name: Urborg, Tomb of Yawgmoth
+  avg_copies: 2.3
+- name: Break the Ice
   weight: 1.0
   avg_copies: 2.0
 - name: Toxic Deluge
   weight: 1.0
   avg_copies: 2.0
+- name: Urborg, Tomb of Yawgmoth
+  weight: 1.0
+  avg_copies: 2.0
 - name: Inquisition of Kozilek
   weight: 1.0
   avg_copies: 2.0
-- name: Break the Ice
-  weight: 1.0
-  avg_copies: 2.0
-- name: Dreams of Steel and Oil
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Dismember
   weight: 1.0
   avg_copies: 1.0
-- name: Shoot the Sheriff
+- name: Nihil Spellbomb
   weight: 1.0
   avg_copies: 1.0
-- name: Marsh Flats
+- name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 1.0
 - name: Shadowspear
   weight: 1.0
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Dreams of Steel and Oil
+  weight: 1.0
+  avg_copies: 1.0
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 1.0
 - name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Surgical Extraction
   weight: 1.0
   avg_copies: 1.0
 - name: Wastes
@@ -86,17 +89,14 @@ top_cards:
 - name: Wasteland Strangler
   weight: 1.0
   avg_copies: 1.0
-- name: Ashiok, Dream Render
-  weight: 1.0
-  avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Shoot the Sheriff
   weight: 1.0
   avg_copies: 1.0
 - name: Force of Despair
-  weight: 0.6667
+  weight: 0.7
   avg_copies: 1.0
 - name: Graveyard Trespasser
-  weight: 0.3333
+  weight: 0.3
   avg_copies: 1.0
 ---
 Unclassified archetype, pending review.

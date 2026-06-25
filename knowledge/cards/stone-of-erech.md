@@ -9,6 +9,6 @@ type: Legendary Artifact
 meta_presence: 0.0002
 archetypes:
   izzet-wizards:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 1.0
 ---

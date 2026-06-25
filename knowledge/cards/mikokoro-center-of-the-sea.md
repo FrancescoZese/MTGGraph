@@ -9,6 +9,6 @@ type: Legendary Land
 meta_presence: 0.0012
 archetypes:
   mill:
-    weight: 0.2
+    weight: 0.1923
     avg_copies: 1.0
 ---

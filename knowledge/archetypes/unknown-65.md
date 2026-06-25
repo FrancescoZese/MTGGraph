@@ -4,22 +4,22 @@ colors:
 - R
 - G
 name: 'Unknown #65'
-meta_share: 0.0061
+meta_share: 0.006
 list_count: 26
 top_cards:
 - name: Violent Outburst
   weight: 1.0
   avg_copies: 4.0
-- name: Crashing Footfalls
-  weight: 1.0
-  avg_copies: 4.0
 - name: Shardless Agent
   weight: 1.0
   avg_copies: 4.0
-- name: Misty Rainforest
+- name: Crashing Footfalls
+  weight: 1.0
+  avg_copies: 4.0
+- name: Force of Negation
   weight: 1.0
   avg_copies: 3.85
-- name: Force of Negation
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 3.85
 - name: Fire
@@ -52,13 +52,13 @@ top_cards:
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.12
-- name: Stomping Ground
-  weight: 1.0
-  avg_copies: 1.0
 - name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
 - name: Forest
+  weight: 1.0
+  avg_copies: 1.0
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
 - name: Thundering Falls
@@ -118,10 +118,10 @@ top_cards:
 - name: Repudiate
   weight: 0.1538
   avg_copies: 1.0
-- name: Tishana's Tidebinder
+- name: Rough
   weight: 0.1154
   avg_copies: 2.33
-- name: Rough
+- name: Tishana's Tidebinder
   weight: 0.1154
   avg_copies: 2.33
 - name: Lórien Revealed
@@ -136,10 +136,10 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 0.0769
   avg_copies: 1.5
-- name: Fade from History
+- name: Ketria Triome
   weight: 0.0769
   avg_copies: 1.0
-- name: Ketria Triome
+- name: Fade from History
   weight: 0.0769
   avg_copies: 1.0
 - name: Flame of Anor
@@ -154,10 +154,10 @@ top_cards:
 - name: High Noon
   weight: 0.0385
   avg_copies: 2.0
-- name: Mine Collapse
+- name: Hallowed Fountain
   weight: 0.0385
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Mine Collapse
   weight: 0.0385
   avg_copies: 1.0
 - name: Fable of the Mirror-Breaker

@@ -13,9 +13,9 @@ archetypes:
     avg_copies: 1.0
   mono-red-belcher:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.92
   boros-ponza:
-    weight: 0.0153
+    weight: 0.0147
     avg_copies: 2.0
   rakdos-aggro:
     weight: 0.2353

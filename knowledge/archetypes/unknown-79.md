@@ -12,13 +12,7 @@ top_cards:
 - name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
-- name: Ragavan, Nimble Pilferer
-  weight: 1.0
-  avg_copies: 4.0
-- name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Psychic Frog
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 4.0
 - name: Scion of Draco
@@ -27,7 +21,13 @@ top_cards:
 - name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
-- name: Wooded Foothills
+- name: Psychic Frog
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lightning Bolt
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline Binding
@@ -51,10 +51,10 @@ top_cards:
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.17
-- name: Indatha Triome
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
-- name: Temple Garden
+- name: Indatha Triome
   weight: 1.0
   avg_copies: 1.0
 - name: Thundering Falls
@@ -66,16 +66,16 @@ top_cards:
 - name: Subtlety
   weight: 0.8333
   avg_copies: 1.57
-- name: Breeding Pool
+- name: Sacred Foundry
   weight: 0.8333
   avg_copies: 1.0
-- name: Forest
+- name: Breeding Pool
   weight: 0.8333
   avg_copies: 1.0
 - name: Arena of Glory
   weight: 0.8333
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Forest
   weight: 0.8333
   avg_copies: 1.0
 - name: Island
@@ -87,13 +87,13 @@ top_cards:
 - name: Scalding Tarn
   weight: 0.6667
   avg_copies: 2.0
-- name: Damping Sphere
-  weight: 0.6667
-  avg_copies: 2.0
 - name: Pick Your Poison
   weight: 0.6667
   avg_copies: 2.0
 - name: Wrath of the Skies
+  weight: 0.6667
+  avg_copies: 2.0
+- name: Damping Sphere
   weight: 0.6667
   avg_copies: 2.0
 - name: Hidetsugu Consumes All
@@ -123,16 +123,16 @@ top_cards:
 - name: Arid Mesa
   weight: 0.1667
   avg_copies: 3.0
-- name: Drannith Magistrate
-  weight: 0.1667
-  avg_copies: 2.0
-- name: Obsidian Charmaw
+- name: Ashiok, Dream Render
   weight: 0.1667
   avg_copies: 2.0
 - name: Vexing Bauble
   weight: 0.1667
   avg_copies: 2.0
-- name: Ashiok, Dream Render
+- name: Obsidian Charmaw
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Drannith Magistrate
   weight: 0.1667
   avg_copies: 2.0
 - name: Mountain
@@ -141,13 +141,13 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.1667
   avg_copies: 1.0
-- name: Shatterstorm
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 0.1667
   avg_copies: 1.0
 - name: High Noon
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Shatterstorm
   weight: 0.1667
   avg_copies: 1.0
 ---

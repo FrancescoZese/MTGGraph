@@ -9,14 +9,14 @@ type: Artifact
 meta_presence: 0.0709
 archetypes:
   boros-energy:
-    weight: 0.0199
+    weight: 0.0196
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.0155
     avg_copies: 2.0
   eldrazi-tron:
-    weight: 0.9119
-    avg_copies: 1.65
+    weight: 0.9086
+    avg_copies: 1.64
   necrodominance:
     weight: 0.1351
     avg_copies: 1.6
@@ -30,16 +30,16 @@ archetypes:
     weight: 0.1765
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.0076
-    avg_copies: 2.0
+    weight: 0.0147
+    avg_copies: 2.5
   eldrazi-ramp:
-    weight: 0.6701
-    avg_copies: 1.74
+    weight: 0.6768
+    avg_copies: 1.76
   izzet-prowess:
-    weight: 0.0047
+    weight: 0.0045
     avg_copies: 2.0
   broodscale-combo:
-    weight: 0.0061
+    weight: 0.006
     avg_copies: 1.0
   elves:
     weight: 1.0

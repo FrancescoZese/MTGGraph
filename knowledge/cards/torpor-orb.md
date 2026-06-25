@@ -9,17 +9,17 @@ type: Artifact
 meta_presence: 0.045
 archetypes:
   eldrazi-tron:
-    weight: 0.8394
+    weight: 0.8376
     avg_copies: 1.36
   affinity:
     weight: 0.0026
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0515
+    weight: 0.0505
     avg_copies: 2.0
   broodscale-combo:
-    weight: 0.0675
-    avg_copies: 1.36
+    weight: 0.0723
+    avg_copies: 1.33
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 1.33

@@ -6,7 +6,7 @@ name: Polluted Delta
 scryfall_id: 6e288374-2b71-4ace-b1d2-a19fee6cb4af
 set: mh3
 type: Land
-meta_presence: 0.1987
+meta_presence: 0.198
 archetypes:
   dimir-control:
     weight: 1.0
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.6964
     avg_copies: 1.46
   affinity:
-    weight: 0.0234
+    weight: 0.0231
     avg_copies: 1.44
   mill:
     weight: 1.0
@@ -33,16 +33,16 @@ archetypes:
     weight: 0.963
     avg_copies: 3.62
   neoform-combo:
-    weight: 0.6
+    weight: 0.5893
     avg_copies: 1.33
   hollow-one:
-    weight: 0.1562
-    avg_copies: 1.0
+    weight: 0.1818
+    avg_copies: 1.5
   simic-ritual:
-    weight: 0.2639
-    avg_copies: 1.16
+    weight: 0.2703
+    avg_copies: 1.2
   izzet-prowess:
-    weight: 0.0093
+    weight: 0.009
     avg_copies: 1.0
   esper-blink:
     weight: 0.9506
@@ -51,14 +51,14 @@ archetypes:
     weight: 0.2222
     avg_copies: 1.5
   azorius-blink:
-    weight: 0.0217
+    weight: 0.0213
     avg_copies: 1.0
   esper-control:
     weight: 1.0
     avg_copies: 4.0
   izzet-wizards:
     weight: 1.0
-    avg_copies: 1.9
+    avg_copies: 1.91
   eldrazi-breach:
     weight: 0.5
     avg_copies: 1.0
@@ -147,7 +147,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-52:
-    weight: 0.5556
+    weight: 0.6
     avg_copies: 1.0
   unknown-53:
     weight: 1.0
@@ -168,10 +168,10 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-67:
-    weight: 0.0196
+    weight: 0.0185
     avg_copies: 3.0
   unknown-69:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 2.0
   unknown-73:
     weight: 1.0
@@ -207,7 +207,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-106:
-    weight: 0.6667
+    weight: 0.75
     avg_copies: 1.0
   unknown-108:
     weight: 1.0

@@ -6,7 +6,13 @@ name: 'Unknown #139'
 meta_share: 0.0005
 list_count: 2
 top_cards:
-- name: Fallaji Archaeologist
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
+- name: Persist
+  weight: 1.0
+  avg_copies: 4.0
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
 - name: Archon of Cruelty
@@ -15,34 +21,28 @@ top_cards:
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Consign to Memory
-  weight: 1.0
-  avg_copies: 4.0
 - name: Gran-Gran
   weight: 1.0
   avg_copies: 4.0
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
-- name: Persist
+- name: Fallaji Archaeologist
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Engineered Explosives
-  weight: 1.0
-  avg_copies: 3.0
-- name: Undercity Sewers
+- name: Watery Grave
   weight: 1.0
   avg_copies: 3.0
 - name: Abhorrent Oculus
   weight: 1.0
   avg_copies: 3.0
+- name: Undercity Sewers
+  weight: 1.0
+  avg_copies: 3.0
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 3.0
-- name: Watery Grave
+- name: Engineered Explosives
   weight: 1.0
   avg_copies: 3.0
 - name: Unearth
@@ -51,22 +51,22 @@ top_cards:
 - name: Flare of Denial
   weight: 1.0
   avg_copies: 2.33
-- name: End of the Hunt
-  weight: 1.0
-  avg_copies: 2.0
 - name: Bitter Triumph
   weight: 1.0
   avg_copies: 2.0
-- name: Emperor of Bones
-  weight: 1.0
-  avg_copies: 2.0
-- name: Snow-Covered Swamp
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
 - name: Cephalid Coliseum
   weight: 1.0
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Emperor of Bones
+  weight: 1.0
+  avg_copies: 2.0
+- name: End of the Hunt
+  weight: 1.0
+  avg_copies: 2.0
+- name: Snow-Covered Swamp
   weight: 1.0
   avg_copies: 2.0
 - name: Bloodstained Mire
@@ -81,22 +81,22 @@ top_cards:
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 1.0
-- name: Into the Flood Maw
+- name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 1.0
-- name: Harbinger of the Seas
+- name: Into the Flood Maw
   weight: 1.0
   avg_copies: 1.0
 - name: Force of Negation
   weight: 0.5
   avg_copies: 2.0
+- name: Emeritus of Ideation
+  weight: 0.5
+  avg_copies: 1.0
 - name: Flooded Strand
   weight: 0.5
   avg_copies: 1.0
 - name: card:victimize
-  weight: 0.5
-  avg_copies: 1.0
-- name: Emeritus of Ideation
   weight: 0.5
   avg_copies: 1.0
 ---

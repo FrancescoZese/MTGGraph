@@ -11,6 +11,6 @@ type: Instant
 meta_presence: 0.0007
 archetypes:
   neoform-combo:
-    weight: 0.0545
+    weight: 0.0536
     avg_copies: 2.2
 ---
