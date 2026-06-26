@@ -1,10 +1,10 @@
 ---
 archetypes:
   ruby-storm:
-    weight: 0.0075
+    weight: 0.0074
     avg_copies: 1.0
   boros-energy:
-    weight: 0.7914
+    weight: 0.7922
     avg_copies: 1.26
   dimir-control:
     weight: 0.1111
@@ -28,11 +28,11 @@ archetypes:
     weight: 0.5625
     avg_copies: 1.17
   domain-zoo:
-    weight: 0.2376
+    weight: 0.2353
     avg_copies: 1.21
   mill:
     weight: 1.0
-    avg_copies: 2.97
+    avg_copies: 3.0
   reanimator:
     weight: 0.2222
     avg_copies: 1.33
@@ -52,7 +52,7 @@ archetypes:
     weight: 0.1765
     avg_copies: 1.72
   yawgmoth-combo:
-    weight: 0.0154
+    weight: 0.0149
     avg_copies: 1.0
   eldrazi-ramp:
     weight: 0.0505
@@ -64,7 +64,7 @@ archetypes:
     weight: 0.2346
     avg_copies: 1.32
   samwise-combo:
-    weight: 0.1132
+    weight: 0.1111
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.6667
@@ -160,7 +160,7 @@ archetypes:
     weight: 0.8571
     avg_copies: 1.17
   unknown-47:
-    weight: 0.1481
+    weight: 0.1455
     avg_copies: 1.75
   unknown-51:
     weight: 1.0
@@ -215,7 +215,7 @@ archetypes:
     avg_copies: 2.0
   unknown-98:
     weight: 1.0
-    avg_copies: 2.25
+    avg_copies: 2.0
   unknown-99:
     weight: 1.0
     avg_copies: 1.0
@@ -261,7 +261,7 @@ archetypes:
 cmc: 1
 colors: []
 image: https://cards.scryfall.io/normal/front/e/1/e15d76ac-1c23-4503-8225-375ac2bf2fb6.jpg?1673147668
-meta_presence: 0.2896
+meta_presence: 0.2892
 name: Surgical Extraction
 scryfall_id: e15d76ac-1c23-4503-8225-375ac2bf2fb6
 set: 2x2

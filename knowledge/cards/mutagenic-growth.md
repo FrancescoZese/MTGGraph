@@ -4,7 +4,7 @@ archetypes:
     weight: 0.8874
     avg_copies: 3.2
   broodscale-combo:
-    weight: 0.0241
+    weight: 0.0238
     avg_copies: 1.0
   rakdos-aggro:
     weight: 0.1765
@@ -21,7 +21,7 @@ archetypes:
 cmc: 1
 colors: []
 image: https://cards.scryfall.io/normal/front/2/e/2e0861a2-1858-47af-8154-20a977c2b298.jpg?1562260231
-meta_presence: 0.0478
+meta_presence: 0.0476
 name: Mutagenic Growth
 scryfall_id: 2e0861a2-1858-47af-8154-20a977c2b298
 set: mm2

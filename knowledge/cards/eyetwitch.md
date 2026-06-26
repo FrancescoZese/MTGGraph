@@ -13,7 +13,7 @@ archetypes:
     weight: 0.037
     avg_copies: 4.0
   samwise-combo:
-    weight: 0.1509
+    weight: 0.1481
     avg_copies: 4.0
   unknown-45:
     weight: 1.0

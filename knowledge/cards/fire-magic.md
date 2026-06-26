@@ -7,11 +7,11 @@ name: Fire Magic
 scryfall_id: 415ff6a5-61ef-4b37-ae08-e44476300d4a
 set: fin
 type: Instant
-meta_presence: 0.0524
+meta_presence: 0.0526
 archetypes:
   ruby-storm:
-    weight: 0.3507
-    avg_copies: 1.72
+    weight: 0.3556
+    avg_copies: 1.71
   dimir-control:
     weight: 0.2346
     avg_copies: 1.71
@@ -28,19 +28,19 @@ archetypes:
     weight: 0.4688
     avg_copies: 1.47
   domain-zoo:
-    weight: 0.0099
+    weight: 0.0098
     avg_copies: 1.0
   boros-ponza:
     weight: 0.0809
     avg_copies: 1.69
   simic-ritual:
-    weight: 0.027
+    weight: 0.0267
     avg_copies: 2.5
   izzet-prowess:
     weight: 0.036
     avg_copies: 1.25
   broodscale-combo:
-    weight: 0.0241
+    weight: 0.0238
     avg_copies: 2.5
   dredge:
     weight: 0.05
@@ -85,8 +85,8 @@ archetypes:
     weight: 0.4
     avg_copies: 1.0
   unknown-15:
-    weight: 0.7143
-    avg_copies: 1.2
+    weight: 0.75
+    avg_copies: 1.33
   unknown-25:
     weight: 1.0
     avg_copies: 2.0

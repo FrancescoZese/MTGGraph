@@ -5,7 +5,7 @@ colors:
 - R
 - G
 name: 'Unknown #67'
-meta_share: 0.0125
+meta_share: 0.0124
 list_count: 54
 top_cards:
 - name: Shardless Agent
@@ -50,13 +50,13 @@ top_cards:
 - name: Forest
   weight: 1.0
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
 - name: Oliphaunt
@@ -143,10 +143,10 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 0.1667
   avg_copies: 3.22
-- name: Commandeer
+- name: Magebane Lizard
   weight: 0.1667
   avg_copies: 1.44
-- name: Magebane Lizard
+- name: Commandeer
   weight: 0.1667
   avg_copies: 1.44
 - name: Hallowed Fountain
@@ -188,37 +188,37 @@ top_cards:
 - name: Fulminator Mage
   weight: 0.0185
   avg_copies: 3.0
-- name: Architects of Will
-  weight: 0.0185
-  avg_copies: 3.0
 - name: Polluted Delta
   weight: 0.0185
   avg_copies: 3.0
-- name: Culling Ritual
+- name: Architects of Will
   weight: 0.0185
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Bonecrusher Giant
   weight: 0.0185
   avg_copies: 2.0
-- name: Harvester of Misery
+- name: Culling Ritual
   weight: 0.0185
-  avg_copies: 1.0
-- name: Overgrown Tomb
-  weight: 0.0185
-  avg_copies: 1.0
-- name: Underground Mortuary
-  weight: 0.0185
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Collector Ouphe
-  weight: 0.0185
-  avg_copies: 1.0
-- name: Flooded Grove
   weight: 0.0185
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.0185
   avg_copies: 1.0
+- name: Overgrown Tomb
+  weight: 0.0185
+  avg_copies: 1.0
 - name: Brainsurge
+  weight: 0.0185
+  avg_copies: 1.0
+- name: Harvester of Misery
+  weight: 0.0185
+  avg_copies: 1.0
+- name: Flooded Grove
+  weight: 0.0185
+  avg_copies: 1.0
+- name: Underground Mortuary
   weight: 0.0185
   avg_copies: 1.0
 ---

@@ -6,7 +6,7 @@ name: Karn, the Great Creator
 scryfall_id: deb3721d-fba1-444f-8b31-1cd10c94c4a0
 set: rvr
 type: Legendary Planeswalker — Karn
-meta_presence: 0.057
+meta_presence: 0.0572
 archetypes:
   eldrazi-tron:
     weight: 0.9949
@@ -37,5 +37,8 @@ archetypes:
     avg_copies: 4.0
   unknown-146:
     weight: 1.0
+    avg_copies: 4.0
+  unknown-160:
+    weight: 0.5
     avg_copies: 4.0
 ---

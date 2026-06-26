@@ -2,13 +2,13 @@
 colors:
 - G
 name: Amulet Titan
-meta_share: 0.0291
+meta_share: 0.0289
 list_count: 126
 top_cards:
-- name: Amulet of Vigor
+- name: Arboreal Grazer
   weight: 1.0
   avg_copies: 4.0
-- name: Arboreal Grazer
+- name: Amulet of Vigor
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
@@ -41,10 +41,10 @@ top_cards:
 - name: Tolaria West
   weight: 1.0
   avg_copies: 1.01
-- name: Hanweir Battlements
+- name: Mirrorpool
   weight: 1.0
   avg_copies: 1.0
-- name: Mirrorpool
+- name: Hanweir Battlements
   weight: 1.0
   avg_copies: 1.0
 - name: Force of Vigor
@@ -188,34 +188,34 @@ top_cards:
 - name: Dryad of the Ilysian Grove
   weight: 0.0238
   avg_copies: 2.67
-- name: Kessig Wolf Run
-  weight: 0.0238
-  avg_copies: 1.0
-- name: Valakut, the Molten Pinnacle
+- name: Pyroclasm
   weight: 0.0238
   avg_copies: 1.0
 - name: Windswept Heath
   weight: 0.0238
   avg_copies: 1.0
-- name: Heritage Reclamation
-  weight: 0.0238
-  avg_copies: 1.0
-- name: Pyroclasm
-  weight: 0.0238
-  avg_copies: 1.0
 - name: Insidious Fungus
   weight: 0.0238
   avg_copies: 1.0
-- name: Ghost Quarter
-  weight: 0.0159
+- name: Heritage Reclamation
+  weight: 0.0238
+  avg_copies: 1.0
+- name: Valakut, the Molten Pinnacle
+  weight: 0.0238
+  avg_copies: 1.0
+- name: Kessig Wolf Run
+  weight: 0.0238
   avg_copies: 1.0
 - name: Cavern of Souls
   weight: 0.0159
   avg_copies: 1.0
-- name: Hexdrinker
+- name: Ghost Quarter
   weight: 0.0159
   avg_copies: 1.0
 - name: Northampton Farm
+  weight: 0.0159
+  avg_copies: 1.0
+- name: Hexdrinker
   weight: 0.0159
   avg_copies: 1.0
 - name: Defense Grid
@@ -227,34 +227,34 @@ top_cards:
 - name: Snow-Covered Forest
   weight: 0.0079
   avg_copies: 2.0
-- name: Titania, Protector of Argoth
+- name: Lithomantic Barrage
   weight: 0.0079
   avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 0.0079
   avg_copies: 1.0
-- name: Dosan the Falling Leaf
-  weight: 0.0079
-  avg_copies: 1.0
-- name: Formidable Speaker
-  weight: 0.0079
-  avg_copies: 1.0
-- name: Lithomantic Barrage
-  weight: 0.0079
-  avg_copies: 1.0
 - name: Carnage Tyrant
-  weight: 0.0079
-  avg_copies: 1.0
-- name: card:gretchen-titchwillow
   weight: 0.0079
   avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.0079
   avg_copies: 1.0
+- name: card:lumra-bellow-of-the-woods
+  weight: 0.0079
+  avg_copies: 1.0
 - name: Misty Rainforest
   weight: 0.0079
   avg_copies: 1.0
-- name: card:lumra-bellow-of-the-woods
+- name: Formidable Speaker
+  weight: 0.0079
+  avg_copies: 1.0
+- name: Dosan the Falling Leaf
+  weight: 0.0079
+  avg_copies: 1.0
+- name: card:gretchen-titchwillow
+  weight: 0.0079
+  avg_copies: 1.0
+- name: Titania, Protector of Argoth
   weight: 0.0079
   avg_copies: 1.0
 ---

@@ -5,7 +5,7 @@ colors:
 - B
 - G
 name: Goryo
-meta_share: 0.0455
+meta_share: 0.0453
 list_count: 197
 top_cards:
 - name: Goryo's Vengeance
@@ -41,25 +41,25 @@ top_cards:
 - name: Force of Negation
   weight: 0.9898
   avg_copies: 2.09
-- name: Godless Shrine
-  weight: 0.9898
-  avg_copies: 1.0
-- name: Plains
-  weight: 0.9898
-  avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 0.9898
-  avg_copies: 1.0
-- name: Island
+- name: Meticulous Archive
   weight: 0.9898
   avg_copies: 1.0
 - name: Watery Grave
   weight: 0.9898
   avg_copies: 1.0
+- name: Island
+  weight: 0.9898
+  avg_copies: 1.0
+- name: Godless Shrine
+  weight: 0.9898
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 0.9898
+  avg_copies: 1.0
 - name: Undercity Sewers
   weight: 0.9898
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Plains
   weight: 0.9898
   avg_copies: 1.0
 - name: Solitude
@@ -179,13 +179,13 @@ top_cards:
 - name: Ketramose, the New Dawn
   weight: 0.0203
   avg_copies: 1.4
-- name: Ghost Vacuum
-  weight: 0.0203
-  avg_copies: 1.0
 - name: Engineered Explosives
   weight: 0.0203
   avg_copies: 1.0
 - name: Snow-Covered Swamp
+  weight: 0.0203
+  avg_copies: 1.0
+- name: Ghost Vacuum
   weight: 0.0203
   avg_copies: 1.0
 - name: Jace, Vryn's Prodigy
@@ -194,22 +194,22 @@ top_cards:
 - name: Unburial Rites
   weight: 0.0152
   avg_copies: 1.0
-- name: Verdant Catacombs
-  weight: 0.0102
-  avg_copies: 4.0
-- name: Dina's Guidance
+- name: Unmarked Grave
   weight: 0.0102
   avg_copies: 4.0
 - name: Formidable Speaker
   weight: 0.0102
   avg_copies: 4.0
-- name: Unmarked Grave
+- name: Dina's Guidance
   weight: 0.0102
   avg_copies: 4.0
-- name: Leyline of the Void
+- name: Verdant Catacombs
+  weight: 0.0102
+  avg_copies: 4.0
+- name: Shifting Woodland
   weight: 0.0102
   avg_copies: 3.5
-- name: Shifting Woodland
+- name: Leyline of the Void
   weight: 0.0102
   avg_copies: 3.5
 - name: Archon of Cruelty
@@ -233,19 +233,22 @@ top_cards:
 - name: Endurance
   weight: 0.0102
   avg_copies: 1.25
-- name: Otawara, Soaring City
+- name: Tormod's Crypt
   weight: 0.0102
   avg_copies: 1.0
-- name: Tormod's Crypt
+- name: Nature's Claim
+  weight: 0.0102
+  avg_copies: 1.0
+- name: card:superior-spider-man
   weight: 0.0102
   avg_copies: 1.0
 - name: Geier Reach Sanitarium
   weight: 0.0102
   avg_copies: 1.0
-- name: Persist
+- name: Lavinia, Azorius Renegade
   weight: 0.0102
   avg_copies: 1.0
-- name: Lavinia, Azorius Renegade
+- name: Kiora, the Rising Tide
   weight: 0.0102
   avg_copies: 1.0
 - name: Culling Ritual
@@ -254,88 +257,70 @@ top_cards:
 - name: Stock Up
   weight: 0.0102
   avg_copies: 1.0
-- name: card:superior-spider-man
+- name: Otawara, Soaring City
   weight: 0.0102
   avg_copies: 1.0
-- name: Kiora, the Rising Tide
-  weight: 0.0102
-  avg_copies: 1.0
-- name: Nature's Claim
+- name: Persist
   weight: 0.0102
   avg_copies: 1.0
 - name: Utopia Sprawl
   weight: 0.0051
   avg_copies: 4.0
+- name: Strix Serenade
+  weight: 0.0051
+  avg_copies: 2.0
+- name: Collector Ouphe
+  weight: 0.0051
+  avg_copies: 2.0
+- name: Vexing Bauble
+  weight: 0.0051
+  avg_copies: 2.0
+- name: Inquisition of Kozilek
+  weight: 0.0051
+  avg_copies: 2.0
 - name: No More Lies
   weight: 0.0051
   avg_copies: 2.0
 - name: Ceremonious Rejection
   weight: 0.0051
   avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 0.0051
-  avg_copies: 2.0
-- name: Collector Ouphe
-  weight: 0.0051
-  avg_copies: 2.0
-- name: Inquisition of Kozilek
-  weight: 0.0051
-  avg_copies: 2.0
 - name: Break the Ice
   weight: 0.0051
   avg_copies: 2.0
-- name: Strix Serenade
-  weight: 0.0051
-  avg_copies: 2.0
-- name: Faerie Macabre
-  weight: 0.0051
-  avg_copies: 1.0
-- name: Duress
-  weight: 0.0051
-  avg_copies: 1.0
 - name: Dovin's Veto
   weight: 0.0051
   avg_copies: 1.0
-- name: Haywire Mite
-  weight: 0.0051
-  avg_copies: 1.0
-- name: Generous Ent
-  weight: 0.0051
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.0051
-  avg_copies: 1.0
-- name: Ghalta, Stampede Tyrant
+- name: Gloomlake Verge
   weight: 0.0051
   avg_copies: 1.0
 - name: Damn
   weight: 0.0051
   avg_copies: 1.0
-- name: Massacre Wurm
+- name: Generous Ent
   weight: 0.0051
   avg_copies: 1.0
-- name: Omniscience
+- name: Duress
   weight: 0.0051
   avg_copies: 1.0
-- name: Sunscour
+- name: card:footsteps-of-the-goryo
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Haywire Mite
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Suppression Ray
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Grist, the Hunger Tide
   weight: 0.0051
   avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.0051
   avg_copies: 1.0
-- name: Chalice of the Void
+- name: Omniscience
   weight: 0.0051
   avg_copies: 1.0
-- name: Arcbound Ravager
-  weight: 0.0051
-  avg_copies: 1.0
-- name: Vanishing Verse
-  weight: 0.0051
-  avg_copies: 1.0
-- name: Flusterstorm
-  weight: 0.0051
-  avg_copies: 1.0
-- name: High Noon
+- name: Massacre Wurm
   weight: 0.0051
   avg_copies: 1.0
 - name: Toxic Deluge
@@ -344,22 +329,37 @@ top_cards:
 - name: Troll of Khazad-dûm
   weight: 0.0051
   avg_copies: 1.0
-- name: Gloomlake Verge
-  weight: 0.0051
-  avg_copies: 1.0
-- name: card:footsteps-of-the-goryo
-  weight: 0.0051
-  avg_copies: 1.0
-- name: Grist, the Hunger Tide
-  weight: 0.0051
-  avg_copies: 1.0
 - name: Serra's Emissary
   weight: 0.0051
   avg_copies: 1.0
 - name: End of the Hunt
   weight: 0.0051
   avg_copies: 1.0
-- name: Suppression Ray
+- name: Arcbound Ravager
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Sunscour
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Ghalta, Stampede Tyrant
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Chalice of the Void
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Vanishing Verse
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Flusterstorm
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Faerie Macabre
+  weight: 0.0051
+  avg_copies: 1.0
+- name: High Noon
   weight: 0.0051
   avg_copies: 1.0
 ---

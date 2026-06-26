@@ -7,11 +7,11 @@ name: Mindspring Merfolk
 scryfall_id: b6250b8b-1943-445f-ada9-30b41eb6d29b
 set: dft
 type: Creature — Merfolk Wizard
-meta_presence: 0.0016
+meta_presence: 0.0018
 archetypes:
   unknown-42:
-    weight: 0.8571
-    avg_copies: 2.67
+    weight: 0.875
+    avg_copies: 2.86
   unknown-124:
     weight: 1.0
     avg_copies: 4.0

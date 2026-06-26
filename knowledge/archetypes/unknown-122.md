@@ -6,16 +6,16 @@ name: 'Unknown #122'
 meta_share: 0.0032
 list_count: 14
 top_cards:
-- name: Dragon's Rage Channeler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Lava Dart
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Preordain
   weight: 1.0
   avg_copies: 4.0
-- name: Lightning Bolt
+- name: Lava Dart
+  weight: 1.0
+  avg_copies: 4.0
+- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Cori-Steel Cutter
@@ -72,13 +72,13 @@ top_cards:
 - name: Academic Dispute
   weight: 0.5714
   avg_copies: 4.0
-- name: Origin of Metalbending
+- name: Stomping Ground
   weight: 0.5714
   avg_copies: 1.0
 - name: Firebending Lesson
   weight: 0.5714
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Origin of Metalbending
   weight: 0.5714
   avg_copies: 1.0
 - name: Abandon Attachments
@@ -126,7 +126,13 @@ top_cards:
 - name: Questing Druid
   weight: 0.0714
   avg_copies: 4.0
+- name: Misty Rainforest
+  weight: 0.0714
+  avg_copies: 2.0
 - name: Mystical Dispute
+  weight: 0.0714
+  avg_copies: 2.0
+- name: Wear
   weight: 0.0714
   avg_copies: 2.0
 - name: Vexing Bauble
@@ -135,22 +141,16 @@ top_cards:
 - name: Mutagenic Growth
   weight: 0.0714
   avg_copies: 2.0
-- name: Wear
-  weight: 0.0714
-  avg_copies: 2.0
-- name: Misty Rainforest
-  weight: 0.0714
-  avg_copies: 2.0
 - name: Sacred Foundry
   weight: 0.0714
   avg_copies: 1.0
-- name: Octopus Form
+- name: Iroh's Demonstration
   weight: 0.0714
   avg_copies: 1.0
 - name: Fire Magic
   weight: 0.0714
   avg_copies: 1.0
-- name: Iroh's Demonstration
+- name: Octopus Form
   weight: 0.0714
   avg_copies: 1.0
 - name: Price of Freedom

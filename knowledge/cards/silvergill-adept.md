@@ -7,11 +7,11 @@ name: Silvergill Adept
 scryfall_id: 45ea8ca1-612d-4984-8572-06710d38bfa6
 set: rix
 type: Creature — Merfolk Wizard
-meta_presence: 0.0012
+meta_presence: 0.0014
 archetypes:
   unknown-42:
-    weight: 0.5714
-    avg_copies: 2.5
+    weight: 0.625
+    avg_copies: 2.4
   unknown-124:
     weight: 1.0
     avg_copies: 4.0

@@ -9,7 +9,7 @@ type: Artifact
 meta_presence: 0.006
 archetypes:
   eldrazi-tron:
-    weight: 0.066
+    weight: 0.0657
     avg_copies: 1.0
   neoform-combo:
     weight: 0.0179

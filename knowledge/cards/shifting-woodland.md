@@ -15,13 +15,13 @@ archetypes:
     weight: 0.0102
     avg_copies: 3.5
   yawgmoth-combo:
-    weight: 0.0154
+    weight: 0.0149
     avg_copies: 1.0
   eldrazi-ramp:
     weight: 0.5758
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.1506
+    weight: 0.1548
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.0625

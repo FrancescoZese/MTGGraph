@@ -10,19 +10,19 @@ top_cards:
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Ocelot Pride
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Quantum Riddler
   weight: 1.0
   avg_copies: 4.0
-- name: Ajani, Nacatl Pariah
-  weight: 1.0
-  avg_copies: 4.0
-- name: Guide of Souls
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
 - name: Arid Mesa
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
@@ -55,16 +55,16 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.11
-- name: Elegant Parlor
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Meticulous Archive
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Island
@@ -82,25 +82,25 @@ top_cards:
 - name: Flagstones of Trokair
   weight: 0.5556
   avg_copies: 3.0
+- name: Fable of the Mirror-Breaker
+  weight: 0.5556
+  avg_copies: 2.0
+- name: Orim's Chant
+  weight: 0.5556
+  avg_copies: 2.0
 - name: Sanctifier en-Vec
   weight: 0.5556
   avg_copies: 2.0
 - name: Lavinia, Azorius Renegade
   weight: 0.5556
   avg_copies: 2.0
-- name: Orim's Chant
-  weight: 0.5556
-  avg_copies: 2.0
-- name: Fable of the Mirror-Breaker
-  weight: 0.5556
-  avg_copies: 2.0
 - name: Spell Pierce
   weight: 0.5556
   avg_copies: 1.2
-- name: Meltdown
+- name: Vandalblast
   weight: 0.5556
   avg_copies: 1.0
-- name: Vandalblast
+- name: Meltdown
   weight: 0.5556
   avg_copies: 1.0
 - name: Phelia, Exuberant Shepherd
@@ -121,10 +121,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.3333
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Surgical Extraction
   weight: 0.3333
   avg_copies: 1.67
-- name: Surgical Extraction
+- name: Mystical Dispute
   weight: 0.3333
   avg_copies: 1.67
 - name: Wear
@@ -139,13 +139,13 @@ top_cards:
 - name: Marsh Flats
   weight: 0.1111
   avg_copies: 2.0
-- name: Scalding Tarn
+- name: Containment Priest
   weight: 0.1111
   avg_copies: 1.0
 - name: March of Otherworldly Light
   weight: 0.1111
   avg_copies: 1.0
-- name: Containment Priest
+- name: Scalding Tarn
   weight: 0.1111
   avg_copies: 1.0
 ---

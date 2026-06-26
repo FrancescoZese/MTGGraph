@@ -10,7 +10,7 @@ type: Creature — Human Soldier Ranger
 meta_presence: 0.0822
 archetypes:
   boros-energy:
-    weight: 0.5383
+    weight: 0.54
     avg_copies: 1.8
   azorius-blink:
     weight: 0.2766

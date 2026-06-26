@@ -6,9 +6,9 @@ name: Profane Memento
 scryfall_id: f2c97632-3cf1-4b79-9d18-d8991654dcca
 set: m15
 type: Artifact
-meta_presence: 0.0007
+meta_presence: 0.0009
 archetypes:
   mill:
-    weight: 0.1154
+    weight: 0.1481
     avg_copies: 2.0
 ---

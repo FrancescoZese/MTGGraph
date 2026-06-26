@@ -10,7 +10,7 @@ type: Creature — Djinn Wizard
 meta_presence: 0.0076
 archetypes:
   mill:
-    weight: 0.4231
+    weight: 0.4074
     avg_copies: 2.18
   dredge:
     weight: 0.85

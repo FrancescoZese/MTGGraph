@@ -10,7 +10,7 @@ type: Creature — Human Wizard
 meta_presence: 0.0427
 archetypes:
   boros-energy:
-    weight: 0.0695
+    weight: 0.0693
     avg_copies: 1.05
   jeskai-energy:
     weight: 0.0698
@@ -28,7 +28,7 @@ archetypes:
     weight: 0.0312
     avg_copies: 2.0
   domain-zoo:
-    weight: 0.0099
+    weight: 0.0098
     avg_copies: 2.0
   boros-ponza:
     weight: 0.0515
@@ -40,8 +40,8 @@ archetypes:
     weight: 0.1975
     avg_copies: 1.56
   samwise-combo:
-    weight: 0.4717
-    avg_copies: 1.12
+    weight: 0.4815
+    avg_copies: 1.11
   orzhov-blink:
     weight: 0.1111
     avg_copies: 1.0

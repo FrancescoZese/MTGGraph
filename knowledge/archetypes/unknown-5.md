@@ -7,19 +7,19 @@ name: 'Unknown #5'
 meta_share: 0.0007
 list_count: 3
 top_cards:
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 4.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Archon of Cruelty
+  weight: 1.0
+  avg_copies: 4.0
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
 - name: Persist
   weight: 1.0
   avg_copies: 4.0
-- name: Archon of Cruelty
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Prismatic Ending
@@ -31,31 +31,25 @@ top_cards:
 - name: Faithful Mending
   weight: 1.0
   avg_copies: 3.33
-- name: Polluted Delta
+- name: Emperor of Bones
   weight: 1.0
   avg_copies: 3.0
 - name: Force of Negation
   weight: 1.0
   avg_copies: 3.0
-- name: Emperor of Bones
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 3.0
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.75
-- name: Godless Shrine
-  weight: 1.0
-  avg_copies: 1.0
-- name: Shadowy Backstreet
-  weight: 1.0
-  avg_copies: 1.0
-- name: Plains
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Watery Grave
@@ -64,22 +58,28 @@ top_cards:
 - name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 1.0
-  avg_copies: 1.0
 - name: Island
   weight: 1.0
   avg_copies: 1.0
-- name: Consign to Memory
-  weight: 0.6667
-  avg_copies: 4.0
+- name: Shadowy Backstreet
+  weight: 1.0
+  avg_copies: 1.0
+- name: Godless Shrine
+  weight: 1.0
+  avg_copies: 1.0
+- name: Plains
+  weight: 1.0
+  avg_copies: 1.0
 - name: Solitude
   weight: 0.6667
   avg_copies: 4.0
-- name: Quantum Riddler
+- name: Ephemerate
   weight: 0.6667
   avg_copies: 4.0
-- name: Ephemerate
+- name: Consign to Memory
+  weight: 0.6667
+  avg_copies: 4.0
+- name: Quantum Riddler
   weight: 0.6667
   avg_copies: 4.0
 - name: Emeritus of Ideation
@@ -88,31 +88,31 @@ top_cards:
 - name: Tainted Indulgence
   weight: 0.3333
   avg_copies: 4.0
-- name: Force of Despair
-  weight: 0.3333
-  avg_copies: 3.0
 - name: Damping Sphere
   weight: 0.3333
   avg_copies: 3.0
-- name: Mystical Dispute
+- name: Force of Despair
   weight: 0.3333
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Celestial Purge
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Teferi, Time Raveler
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Sheoldred, the Apocalypse
   weight: 0.3333
   avg_copies: 2.0
 - name: Nihil Spellbomb
   weight: 0.3333
   avg_copies: 2.0
+- name: Drannith Magistrate
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Mystical Dispute
+  weight: 0.3333
+  avg_copies: 2.0
 - name: Fatal Push
   weight: 0.3333
   avg_copies: 2.0
-- name: Drannith Magistrate
+- name: Sheoldred, the Apocalypse
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Teferi, Time Raveler
   weight: 0.3333
   avg_copies: 2.0
 - name: Inquisition of Kozilek

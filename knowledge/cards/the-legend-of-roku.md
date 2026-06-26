@@ -9,13 +9,13 @@ type: Enchantment — Saga // Legendary Creature — Avatar
 meta_presence: 0.1165
 archetypes:
   boros-energy:
-    weight: 0.6417
+    weight: 0.643
     avg_copies: 1.4
   jeskai-energy:
     weight: 0.1318
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.2574
+    weight: 0.2549
     avg_copies: 1.17
   mardu-blink:
     weight: 0.0435

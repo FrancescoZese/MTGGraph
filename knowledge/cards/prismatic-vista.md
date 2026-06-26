@@ -9,10 +9,10 @@ type: Land
 meta_presence: 0.0067
 archetypes:
   mill:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0663
+    weight: 0.0655
     avg_copies: 3.82
   scapeshift-combo:
     weight: 0.5

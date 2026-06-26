@@ -18,10 +18,10 @@ archetypes:
     weight: 0.4416
     avg_copies: 1.34
   domain-zoo:
-    weight: 0.5842
-    avg_copies: 1.19
+    weight: 0.5882
+    avg_copies: 1.18
   mill:
-    weight: 0.1923
+    weight: 0.1852
     avg_copies: 1.4
   reanimator:
     weight: 0.1852
@@ -42,7 +42,7 @@ archetypes:
     weight: 0.0202
     avg_copies: 3.5
   simic-ritual:
-    weight: 0.0135
+    weight: 0.0133
     avg_copies: 1.0
   esper-blink:
     weight: 0.2593
@@ -114,8 +114,8 @@ archetypes:
     weight: 0.0526
     avg_copies: 2.0
   unknown-47:
-    weight: 0.7778
-    avg_copies: 1.76
+    weight: 0.7818
+    avg_copies: 1.77
   unknown-52:
     weight: 1.0
     avg_copies: 2.0

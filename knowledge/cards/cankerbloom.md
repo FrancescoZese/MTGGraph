@@ -10,6 +10,6 @@ type: Creature — Phyrexian Fungus
 meta_presence: 0.0005
 archetypes:
   yawgmoth-combo:
-    weight: 0.0308
+    weight: 0.0299
     avg_copies: 1.0
 ---

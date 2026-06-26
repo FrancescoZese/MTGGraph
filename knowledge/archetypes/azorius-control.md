@@ -69,10 +69,10 @@ top_cards:
 - name: High Noon
   weight: 0.8571
   avg_copies: 1.94
-- name: Otawara, Soaring City
+- name: Hall of Storm Giants
   weight: 0.8571
   avg_copies: 1.0
-- name: Hall of Storm Giants
+- name: Otawara, Soaring City
   weight: 0.8571
   avg_copies: 1.0
 - name: Monumental Henge
@@ -108,10 +108,10 @@ top_cards:
 - name: Steam Vents
   weight: 0.4286
   avg_copies: 1.0
-- name: Geier Reach Sanitarium
+- name: Watery Grave
   weight: 0.3929
   avg_copies: 1.0
-- name: Watery Grave
+- name: Geier Reach Sanitarium
   weight: 0.3929
   avg_copies: 1.0
 - name: Stock Up
@@ -120,10 +120,10 @@ top_cards:
 - name: Force of Negation
   weight: 0.375
   avg_copies: 1.38
-- name: Floodfarm Verge
+- name: Marsh Flats
   weight: 0.3036
   avg_copies: 1.82
-- name: Marsh Flats
+- name: Floodfarm Verge
   weight: 0.3036
   avg_copies: 1.82
 - name: Misty Rainforest
@@ -150,10 +150,10 @@ top_cards:
 - name: Subtlety
   weight: 0.1429
   avg_copies: 1.75
-- name: Breeding Pool
+- name: Hedge Maze
   weight: 0.125
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Breeding Pool
   weight: 0.125
   avg_copies: 1.0
 - name: Beza, the Bounding Spring
@@ -183,10 +183,10 @@ top_cards:
 - name: Disruptor Flute
   weight: 0.0714
   avg_copies: 1.0
-- name: Erode
+- name: Field of Ruin
   weight: 0.0714
   avg_copies: 1.0
-- name: Field of Ruin
+- name: Erode
   weight: 0.0714
   avg_copies: 1.0
 - name: Galvanic Discharge
@@ -201,73 +201,73 @@ top_cards:
 - name: Fire Magic
   weight: 0.0536
   avg_copies: 1.67
-- name: Thundertrap Trainer
-  weight: 0.0357
-  avg_copies: 4.0
 - name: Suppression Ray
   weight: 0.0357
   avg_copies: 4.0
-- name: Sacred Foundry
+- name: Thundertrap Trainer
   weight: 0.0357
-  avg_copies: 1.0
-- name: Celestial Colonnade
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Vendilion Clique
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Mistrise Village
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Dress Down
+  avg_copies: 4.0
+- name: Wan Shi Tong, Librarian
   weight: 0.0357
   avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.0357
   avg_copies: 1.0
-- name: Wan Shi Tong, Librarian
+- name: Vendilion Clique
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Dress Down
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Mistrise Village
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Tamiyo, Inquisitive Student
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Celestial Colonnade
   weight: 0.0357
   avg_copies: 1.0
 - name: Terminus
   weight: 0.0179
   avg_copies: 3.0
-- name: Wear
-  weight: 0.0179
-  avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.0179
   avg_copies: 2.0
-- name: Get Lost
+- name: Wear
+  weight: 0.0179
+  avg_copies: 2.0
+- name: Strix Serenade
   weight: 0.0179
   avg_copies: 1.0
 - name: Petrified Hamlet
   weight: 0.0179
   avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
+  weight: 0.0179
+  avg_copies: 1.0
 - name: The Wandering Emperor
   weight: 0.0179
   avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.0179
-  avg_copies: 1.0
-- name: Snow-Covered Plains
+- name: Get Lost
   weight: 0.0179
   avg_copies: 1.0
 - name: Commandeer
   weight: 0.0179
   avg_copies: 1.0
-- name: Meltdown
+- name: Hurkyl's Recall
   weight: 0.0179
   avg_copies: 1.0
 - name: Restless Anchorage
   weight: 0.0179
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
+- name: Snow-Covered Plains
   weight: 0.0179
   avg_copies: 1.0
-- name: Strix Serenade
+- name: Meltdown
   weight: 0.0179
   avg_copies: 1.0
 ---

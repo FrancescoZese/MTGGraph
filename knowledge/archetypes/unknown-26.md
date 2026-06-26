@@ -3,16 +3,16 @@ colors:
 - W
 - R
 name: 'Unknown #26'
-meta_share: 0.0042
+meta_share: 0.0041
 list_count: 18
 top_cards:
-- name: Cleansing Wildfire
+- name: Demolition Field
   weight: 1.0
   avg_copies: 4.0
 - name: Field of Ruin
   weight: 1.0
   avg_copies: 4.0
-- name: Demolition Field
+- name: Cleansing Wildfire
   weight: 1.0
   avg_copies: 4.0
 - name: Wrath of the Skies
@@ -42,10 +42,10 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.89
-- name: Erode
+- name: Cori Mountain Monastery
   weight: 0.9444
   avg_copies: 3.82
-- name: Cori Mountain Monastery
+- name: Erode
   weight: 0.9444
   avg_copies: 3.82
 - name: Kaheera, the Orphanguard
@@ -120,7 +120,13 @@ top_cards:
 - name: Crucible of Worlds
   weight: 0.1111
   avg_copies: 1.0
+- name: Volcanic Spite
+  weight: 0.0556
+  avg_copies: 4.0
 - name: Ark of Hunger
+  weight: 0.0556
+  avg_copies: 4.0
+- name: White Orchid Phantom
   weight: 0.0556
   avg_copies: 4.0
 - name: Lightning Helix
@@ -129,28 +135,22 @@ top_cards:
 - name: card:kutzil-s-flanker
   weight: 0.0556
   avg_copies: 4.0
-- name: White Orchid Phantom
-  weight: 0.0556
-  avg_copies: 4.0
-- name: Volcanic Spite
-  weight: 0.0556
-  avg_copies: 4.0
-- name: Candy Trail
-  weight: 0.0556
-  avg_copies: 3.0
 - name: Ragavan, Nimble Pilferer
   weight: 0.0556
   avg_copies: 3.0
-- name: March of Otherworldly Light
+- name: Candy Trail
+  weight: 0.0556
+  avg_copies: 3.0
+- name: Flashback
+  weight: 0.0556
+  avg_copies: 2.0
+- name: card:vanish-into-eternity
   weight: 0.0556
   avg_copies: 2.0
 - name: Hallowed Moonlight
   weight: 0.0556
   avg_copies: 2.0
-- name: Flashback
-  weight: 0.0556
-  avg_copies: 2.0
-- name: card:vanish-into-eternity
+- name: March of Otherworldly Light
   weight: 0.0556
   avg_copies: 2.0
 - name: Elixir of Immortality

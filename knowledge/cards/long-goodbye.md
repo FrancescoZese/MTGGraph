@@ -13,6 +13,6 @@ archetypes:
     weight: 0.0541
     avg_copies: 2.0
   mill:
-    weight: 0.1538
+    weight: 0.1481
     avg_copies: 1.0
 ---

@@ -6,7 +6,16 @@ name: 'Unknown #51'
 meta_share: 0.0002
 list_count: 1
 top_cards:
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
 - name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
+- name: Moonshadow
+  weight: 1.0
+  avg_copies: 4.0
+- name: Counterspell
   weight: 1.0
   avg_copies: 4.0
 - name: Force of Negation
@@ -15,49 +24,40 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Moonshadow
-  weight: 1.0
-  avg_copies: 4.0
-- name: Subtlety
-  weight: 1.0
-  avg_copies: 4.0
-- name: Counterspell
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Orcish Bowmasters
+- name: Subtlety
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cling to Dust
   weight: 1.0
   avg_copies: 3.0
 - name: Undercity Sewers
   weight: 1.0
   avg_copies: 3.0
+- name: Orcish Bowmasters
+  weight: 1.0
+  avg_copies: 3.0
 - name: Mystical Dispute
-  weight: 1.0
-  avg_copies: 3.0
-- name: Consign to Memory
-  weight: 1.0
-  avg_copies: 3.0
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 3.0
-- name: Cling to Dust
   weight: 1.0
   avg_copies: 3.0
 - name: Dress Down
   weight: 1.0
   avg_copies: 3.0
 - name: Street Wraith
+  weight: 1.0
+  avg_copies: 3.0
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 3.0
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
 - name: Watery Grave

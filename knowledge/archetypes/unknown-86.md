@@ -2,34 +2,34 @@
 colors:
 - R
 name: 'Unknown #86'
-meta_share: 0.0012
+meta_share: 0.0011
 list_count: 5
 top_cards:
-- name: Barbarian Ring
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Dragon's Rage Channeler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Boltwave
+- name: Skewer the Critics
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
+- name: Dragon's Rage Channeler
+  weight: 1.0
+  avg_copies: 4.0
 - name: Lava Spike
   weight: 1.0
   avg_copies: 4.0
-- name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Cori-Steel Cutter
+- name: Barbarian Ring
   weight: 1.0
   avg_copies: 4.0
 - name: Monastery Swiftspear
   weight: 1.0
   avg_copies: 4.0
-- name: Skewer the Critics
+- name: Boltwave
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Light Up the Stage
@@ -71,19 +71,19 @@ top_cards:
 - name: Deflecting Palm
   weight: 0.6
   avg_copies: 1.67
-- name: Snow-Covered Mountain
+- name: Molten Rain
   weight: 0.4
   avg_copies: 4.0
-- name: Molten Rain
+- name: Snow-Covered Mountain
   weight: 0.4
   avg_copies: 4.0
 - name: Searing Blaze
   weight: 0.4
   avg_copies: 3.67
-- name: Wooded Foothills
+- name: Unholy Heat
   weight: 0.4
   avg_copies: 3.0
-- name: Unholy Heat
+- name: Wooded Foothills
   weight: 0.4
   avg_copies: 3.0
 - name: Obsidian Charmaw
@@ -98,13 +98,13 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 0.4
   avg_copies: 1.0
-- name: Path to Exile
-  weight: 0.2
-  avg_copies: 2.0
 - name: Vexing Bauble
   weight: 0.2
   avg_copies: 2.0
 - name: Pyroclasm
+  weight: 0.2
+  avg_copies: 2.0
+- name: Path to Exile
   weight: 0.2
   avg_copies: 2.0
 - name: Boros Charm

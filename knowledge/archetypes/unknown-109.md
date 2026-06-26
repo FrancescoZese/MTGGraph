@@ -7,16 +7,16 @@ name: 'Unknown #109'
 meta_share: 0.0021
 list_count: 9
 top_cards:
-- name: Flooded Strand
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flow State
-  weight: 1.0
-  avg_copies: 4.0
 - name: Narset, Parter of Veils
   weight: 1.0
   avg_copies: 4.0
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
 - name: Orim's Chant
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flow State
   weight: 1.0
   avg_copies: 4.0
 - name: Lórien Revealed
@@ -28,13 +28,13 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 2.44
-- name: Consign to Memory
+- name: Day's Undoing
   weight: 1.0
   avg_copies: 2.0
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.0
-- name: Day's Undoing
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 2.0
 - name: Surgical Extraction
@@ -52,13 +52,13 @@ top_cards:
 - name: Plains
   weight: 1.0
   avg_copies: 1.22
+- name: Monumental Henge
+  weight: 1.0
+  avg_copies: 1.0
 - name: Hall of Storm Giants
   weight: 1.0
   avg_copies: 1.0
 - name: Geier Reach Sanitarium
-  weight: 1.0
-  avg_copies: 1.0
-- name: Monumental Henge
   weight: 1.0
   avg_copies: 1.0
 - name: Galvanic Discharge
@@ -73,19 +73,19 @@ top_cards:
 - name: Steam Vents
   weight: 0.8889
   avg_copies: 1.12
-- name: Breeding Pool
+- name: Kaheera, the Orphanguard
   weight: 0.8889
   avg_copies: 1.0
-- name: Kaheera, the Orphanguard
+- name: Breeding Pool
   weight: 0.8889
   avg_copies: 1.0
 - name: Prismatic Ending
   weight: 0.7778
   avg_copies: 3.14
-- name: The Wandering Emperor
+- name: Thundering Falls
   weight: 0.7778
   avg_copies: 1.0
-- name: Thundering Falls
+- name: The Wandering Emperor
   weight: 0.7778
   avg_copies: 1.0
 - name: Counterspell
@@ -97,10 +97,10 @@ top_cards:
 - name: Tune the Narrative
   weight: 0.5556
   avg_copies: 3.4
-- name: Jace, the Mind Sculptor
+- name: Teferi, Hero of Dominaria
   weight: 0.5556
   avg_copies: 1.0
-- name: Teferi, Hero of Dominaria
+- name: Jace, the Mind Sculptor
   weight: 0.5556
   avg_copies: 1.0
 - name: Dovin's Veto
@@ -121,6 +121,12 @@ top_cards:
 - name: Arid Mesa
   weight: 0.1111
   avg_copies: 2.0
+- name: Beza, the Bounding Spring
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Mistrise Village
+  weight: 0.1111
+  avg_copies: 1.0
 - name: card:glen-elendra-s-answer
   weight: 0.1111
   avg_copies: 1.0
@@ -131,12 +137,6 @@ top_cards:
   weight: 0.1111
   avg_copies: 1.0
 - name: card:temporal-trespass
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Mistrise Village
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Beza, the Bounding Spring
   weight: 0.1111
   avg_copies: 1.0
 ---

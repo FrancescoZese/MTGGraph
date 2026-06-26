@@ -6,17 +6,17 @@ name: Mox Opal
 scryfall_id: 56001a36-126b-4c08-af98-a6cc4d84210e
 set: 2xm
 type: Legendary Artifact
-meta_presence: 0.1112
+meta_presence: 0.1116
 archetypes:
   eldrazi-tron:
-    weight: 0.0102
+    weight: 0.0101
     avg_copies: 1.0
   hardened-scales:
     weight: 1.0
     avg_copies: 3.75
   affinity:
     weight: 1.0
-    avg_copies: 3.84
+    avg_copies: 3.83
   hammer-time:
     weight: 1.0
     avg_copies: 2.89
@@ -73,7 +73,7 @@ archetypes:
     avg_copies: 4.0
   unknown-98:
     weight: 1.0
-    avg_copies: 2.5
+    avg_copies: 2.6
   unknown-112:
     weight: 1.0
     avg_copies: 1.0

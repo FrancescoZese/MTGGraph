@@ -9,7 +9,7 @@ type: Land — Island Swamp Mountain
 meta_presence: 0.0046
 archetypes:
   domain-zoo:
-    weight: 0.0198
+    weight: 0.0196
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.75

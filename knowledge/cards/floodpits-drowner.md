@@ -7,9 +7,9 @@ name: Floodpits Drowner
 scryfall_id: a6a62aa3-8edb-4000-8ebd-15ec4b00eed7
 set: dsk
 type: Creature — Merfolk
-meta_presence: 0.0002
+meta_presence: 0.0005
 archetypes:
   unknown-42:
-    weight: 0.1429
+    weight: 0.25
     avg_copies: 4.0
 ---

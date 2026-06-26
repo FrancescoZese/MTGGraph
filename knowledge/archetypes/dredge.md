@@ -8,10 +8,10 @@ name: Dredge
 meta_share: 0.0046
 list_count: 20
 top_cards:
-- name: Stinkweed Imp
+- name: Creeping Chill
   weight: 1.0
   avg_copies: 4.0
-- name: Creeping Chill
+- name: Stinkweed Imp
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
@@ -119,49 +119,46 @@ top_cards:
 - name: Ox of Agonas
   weight: 0.1
   avg_copies: 3.5
-- name: Cathartic Reunion
+- name: Unholy Heat
   weight: 0.1
   avg_copies: 2.0
-- name: Unholy Heat
+- name: Cathartic Reunion
   weight: 0.1
   avg_copies: 2.0
 - name: Spell Pierce
   weight: 0.1
   avg_copies: 1.5
-- name: Wonder
-  weight: 0.1
-  avg_copies: 1.0
 - name: Natural State
   weight: 0.1
   avg_copies: 1.0
-- name: Hedron Crab
+- name: Wonder
+  weight: 0.1
+  avg_copies: 1.0
+- name: Prized Amalgam
   weight: 0.05
   avg_copies: 4.0
 - name: Manamorphose
   weight: 0.05
   avg_copies: 4.0
-- name: Prized Amalgam
-  weight: 0.05
-  avg_copies: 4.0
 - name: Stitcher's Supplier
   weight: 0.05
   avg_copies: 4.0
-- name: Vengevine
+- name: Hedron Crab
   weight: 0.05
   avg_copies: 4.0
 - name: Blazing Rootwalla
   weight: 0.05
   avg_copies: 4.0
-- name: Narcomoeba
+- name: Vengevine
+  weight: 0.05
+  avg_copies: 4.0
+- name: Snow-Covered Mountain
   weight: 0.05
   avg_copies: 3.0
 - name: Seal of Fire
   weight: 0.05
   avg_copies: 3.0
-- name: Snow-Covered Mountain
-  weight: 0.05
-  avg_copies: 3.0
-- name: Darkblast
+- name: Narcomoeba
   weight: 0.05
   avg_copies: 3.0
 - name: Silversmote Ghoul
@@ -170,31 +167,37 @@ top_cards:
 - name: Gemstone Caverns
   weight: 0.05
   avg_copies: 3.0
+- name: Darkblast
+  weight: 0.05
+  avg_copies: 3.0
 - name: Molten Collapse
-  weight: 0.05
-  avg_copies: 2.0
-- name: Leyline of the Void
-  weight: 0.05
-  avg_copies: 2.0
-- name: Fire Magic
   weight: 0.05
   avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.05
   avg_copies: 2.0
-- name: Timeline Culler
+- name: Fire Magic
   weight: 0.05
   avg_copies: 2.0
 - name: Into the Flood Maw
   weight: 0.05
   avg_copies: 2.0
-- name: Shenanigans
+- name: Timeline Culler
+  weight: 0.05
+  avg_copies: 2.0
+- name: Leyline of the Void
+  weight: 0.05
+  avg_copies: 2.0
+- name: Ashiok, Dream Render
   weight: 0.05
   avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 0.05
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Cephalid Coliseum
+  weight: 0.05
+  avg_copies: 1.0
+- name: Shenanigans
   weight: 0.05
   avg_copies: 1.0
 - name: Detective's Phoenix
@@ -203,13 +206,10 @@ top_cards:
 - name: Rough
   weight: 0.05
   avg_copies: 1.0
-- name: Illness in the Ranks
-  weight: 0.05
-  avg_copies: 1.0
 - name: Watery Grave
   weight: 0.05
   avg_copies: 1.0
-- name: Cephalid Coliseum
+- name: Illness in the Ranks
   weight: 0.05
   avg_copies: 1.0
 ---

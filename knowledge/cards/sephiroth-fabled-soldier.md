@@ -10,13 +10,13 @@ type: Legendary Creature — Human Avatar Soldier // Legendary Creature — Ange
 meta_presence: 0.0138
 archetypes:
   yawgmoth-combo:
-    weight: 0.2615
+    weight: 0.2537
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0135
+    weight: 0.0133
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.1321
+    weight: 0.1296
     avg_copies: 1.0
   broodscale-combo:
     weight: 0.006

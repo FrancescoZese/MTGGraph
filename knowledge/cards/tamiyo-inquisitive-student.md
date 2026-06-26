@@ -6,7 +6,7 @@ name: Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
 scryfall_id: 2a717b98-cdac-416d-bf6c-f6b6638e65d1
 set: mh3
 type: Legendary Creature — Moonfolk Wizard // Legendary Planeswalker — Tamiyo
-meta_presence: 0.0485
+meta_presence: 0.0487
 archetypes:
   dimir-control:
     weight: 0.4691
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.0051
     avg_copies: 2.0
   mill:
-    weight: 0.0769
+    weight: 0.0741
     avg_copies: 2.0
   reanimator:
     weight: 0.0741
@@ -36,7 +36,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   simic-ritual:
-    weight: 0.0946
+    weight: 0.0933
     avg_copies: 1.57
   izzet-artifacts:
     weight: 0.9688
@@ -87,7 +87,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-47:
-    weight: 0.7593
+    weight: 0.7636
     avg_copies: 1.88
   unknown-51:
     weight: 1.0

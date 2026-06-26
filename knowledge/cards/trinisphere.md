@@ -9,8 +9,8 @@ type: Artifact
 meta_presence: 0.093
 archetypes:
   eldrazi-tron:
-    weight: 0.9289
-    avg_copies: 1.27
+    weight: 0.9293
+    avg_copies: 1.26
   amulet-titan:
     weight: 0.5714
     avg_copies: 2.61
@@ -27,8 +27,8 @@ archetypes:
     weight: 0.7374
     avg_copies: 2.39
   broodscale-combo:
-    weight: 0.0723
-    avg_copies: 2.0
+    weight: 0.0774
+    avg_copies: 1.92
   eldrazi-breach:
     weight: 0.25
     avg_copies: 3.0
