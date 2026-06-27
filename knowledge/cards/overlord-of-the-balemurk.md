@@ -10,10 +10,10 @@ type: Enchantment Creature — Avatar Horror
 meta_presence: 0.0443
 archetypes:
   living-end:
-    weight: 0.75
+    weight: 0.7544
     avg_copies: 4.0
   domain-zoo:
-    weight: 0.0196
+    weight: 0.0192
     avg_copies: 1.0
   reanimator:
     weight: 0.037
@@ -34,7 +34,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.0213
+    weight: 0.0208
     avg_copies: 4.0
   the-rock:
     weight: 0.5
@@ -55,7 +55,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-67:
-    weight: 0.0185
+    weight: 0.0179
     avg_copies: 4.0
   unknown-72:
     weight: 1.0

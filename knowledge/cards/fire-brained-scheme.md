@@ -6,13 +6,13 @@ name: Fire-Brained Scheme
 scryfall_id: ''
 set: ''
 type: Unknown
-meta_presence: 0.0055
+meta_presence: 0.0054
 archetypes:
   ruby-storm:
-    weight: 0.1407
+    weight: 0.1377
     avg_copies: 1.89
   izzet-prowess:
-    weight: 0.0045
+    weight: 0.0044
     avg_copies: 4.0
   rakdos-aggro:
     weight: 0.1176

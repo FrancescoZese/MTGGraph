@@ -9,10 +9,10 @@ type: Land — Forest Island Mountain
 meta_presence: 0.0014
 archetypes:
   eldrazi-ramp:
-    weight: 0.0101
+    weight: 0.01
     avg_copies: 1.0
   indomitable-creativity:
-    weight: 0.1667
+    weight: 0.1429
     avg_copies: 1.0
   unknown-65:
     weight: 0.0769

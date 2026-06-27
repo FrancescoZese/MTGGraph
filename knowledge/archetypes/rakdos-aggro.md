@@ -3,7 +3,7 @@ colors:
 - B
 - R
 name: Rakdos Aggro
-meta_share: 0.0039
+meta_share: 0.0038
 list_count: 17
 top_cards:
 - name: Mishra's Bauble
@@ -135,10 +135,13 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 0.1176
   avg_copies: 1.5
+- name: Tarfire
+  weight: 0.1176
+  avg_copies: 1.0
 - name: Whispers of Emrakul
   weight: 0.1176
   avg_copies: 1.0
-- name: Tarfire
+- name: Dai Li Indoctrination
   weight: 0.1176
   avg_copies: 1.0
 - name: Decorum Dissertation
@@ -150,19 +153,19 @@ top_cards:
 - name: Dismember
   weight: 0.1176
   avg_copies: 1.0
-- name: Firebending Lesson
-  weight: 0.1176
-  avg_copies: 1.0
-- name: Dai Li Indoctrination
-  weight: 0.1176
-  avg_copies: 1.0
 - name: Price of Freedom
   weight: 0.1176
   avg_copies: 1.0
-- name: Magebane Lizard
+- name: Firebending Lesson
+  weight: 0.1176
+  avg_copies: 1.0
+- name: Leyline of the Void
   weight: 0.0588
   avg_copies: 4.0
 - name: Super Shredder
+  weight: 0.0588
+  avg_copies: 4.0
+- name: Magebane Lizard
   weight: 0.0588
   avg_copies: 4.0
 - name: Marsh Flats
@@ -171,79 +174,76 @@ top_cards:
 - name: Bloodbraid Marauder
   weight: 0.0588
   avg_copies: 4.0
-- name: Leyline of the Void
-  weight: 0.0588
-  avg_copies: 4.0
 - name: Force of Despair
   weight: 0.0588
   avg_copies: 3.0
-- name: Fable of the Mirror-Breaker
+- name: Feed the Swarm
   weight: 0.0588
   avg_copies: 2.0
 - name: Unearth
   weight: 0.0588
   avg_copies: 2.0
-- name: Sheoldred's Edict
-  weight: 0.0588
-  avg_copies: 2.0
-- name: Abigale, Eloquent First-Year
-  weight: 0.0588
-  avg_copies: 2.0
-- name: Torpor Orb
-  weight: 0.0588
-  avg_copies: 2.0
-- name: Feed the Swarm
-  weight: 0.0588
-  avg_copies: 2.0
-- name: Inquisition of Kozilek
-  weight: 0.0588
-  avg_copies: 2.0
 - name: Blackcleave Cliffs
+  weight: 0.0588
+  avg_copies: 2.0
+- name: Fable of the Mirror-Breaker
   weight: 0.0588
   avg_copies: 2.0
 - name: Break the Ice
   weight: 0.0588
   avg_copies: 2.0
-- name: Molten Collapse
+- name: Torpor Orb
   weight: 0.0588
-  avg_copies: 1.0
-- name: Duress
+  avg_copies: 2.0
+- name: Inquisition of Kozilek
   weight: 0.0588
-  avg_copies: 1.0
-- name: Engineered Explosives
+  avg_copies: 2.0
+- name: Abigale, Eloquent First-Year
   weight: 0.0588
-  avg_copies: 1.0
-- name: Troll of Khazad-dûm
+  avg_copies: 2.0
+- name: Sheoldred's Edict
   weight: 0.0588
-  avg_copies: 1.0
-- name: Graveyard Trespasser
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Cecil, Dark Knight
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Untimely Malfunction
-  weight: 0.0588
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Kolaghan's Command
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Ob Nixilis, the Adversary
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Redirect Lightning
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Fire Magic
   weight: 0.0588
   avg_copies: 1.0
 - name: Ruinous Waterbending
   weight: 0.0588
   avg_copies: 1.0
-- name: Abandon Attachments
+- name: Untimely Malfunction
   weight: 0.0588
   avg_copies: 1.0
 - name: Boggart Trawler
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Molten Collapse
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Cecil, Dark Knight
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Graveyard Trespasser
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Redirect Lightning
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Ob Nixilis, the Adversary
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Troll of Khazad-dûm
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Abandon Attachments
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Fire Magic
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Engineered Explosives
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Duress
   weight: 0.0588
   avg_copies: 1.0
 ---

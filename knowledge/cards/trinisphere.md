@@ -6,29 +6,29 @@ name: Trinisphere
 scryfall_id: 316caa4e-a53a-460b-978c-5f0fba7bc549
 set: 2xm
 type: Artifact
-meta_presence: 0.093
+meta_presence: 0.0945
 archetypes:
   eldrazi-tron:
-    weight: 0.9293
-    avg_copies: 1.26
+    weight: 0.9212
+    avg_copies: 1.27
   amulet-titan:
-    weight: 0.5714
-    avg_copies: 2.61
+    weight: 0.5814
+    avg_copies: 2.6
   mono-blue-tron:
-    weight: 0.6471
+    weight: 0.6111
     avg_copies: 2.18
   mono-red-belcher:
     weight: 0.0769
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.0294
+    weight: 0.0292
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.7374
+    weight: 0.74
     avg_copies: 2.39
   broodscale-combo:
-    weight: 0.0774
-    avg_copies: 1.92
+    weight: 0.104
+    avg_copies: 1.78
   eldrazi-breach:
     weight: 0.25
     avg_copies: 3.0
@@ -65,4 +65,7 @@ archetypes:
   unknown-150:
     weight: 1.0
     avg_copies: 3.0
+  unknown-160:
+    weight: 0.1667
+    avg_copies: 1.0
 ---

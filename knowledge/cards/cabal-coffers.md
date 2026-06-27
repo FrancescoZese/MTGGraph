@@ -6,7 +6,7 @@ name: Cabal Coffers
 scryfall_id: e1efb0d3-2c72-46ff-bdc1-1069967365a0
 set: mh2
 type: Land
-meta_presence: 0.0007
+meta_presence: 0.0009
 archetypes:
   unknown-14:
     weight: 1.0
@@ -14,4 +14,7 @@ archetypes:
   unknown-146:
     weight: 1.0
     avg_copies: 3.0
+  unknown-162:
+    weight: 1.0
+    avg_copies: 4.0
 ---

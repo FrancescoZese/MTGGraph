@@ -10,16 +10,16 @@ type: Instant
 meta_presence: 0.0163
 archetypes:
   boros-energy:
-    weight: 0.0817
+    weight: 0.0807
     avg_copies: 1.96
   jeskai-energy:
     weight: 0.0078
     avg_copies: 2.0
   domain-zoo:
-    weight: 0.0098
+    weight: 0.0096
     avg_copies: 2.0
   boros-ponza:
-    weight: 0.1176
+    weight: 0.1168
     avg_copies: 2.12
   elves:
     weight: 0.5
@@ -35,5 +35,8 @@ archetypes:
     avg_copies: 2.0
   unknown-119:
     weight: 1.0
+    avg_copies: 2.0
+  unknown-160:
+    weight: 0.1667
     avg_copies: 2.0
 ---

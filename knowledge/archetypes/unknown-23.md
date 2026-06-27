@@ -6,10 +6,10 @@ name: 'Unknown #23'
 meta_share: 0.0014
 list_count: 6
 top_cards:
-- name: Dryad of the Ilysian Grove
+- name: Vibrance
   weight: 1.0
   avg_copies: 4.0
-- name: Vibrance
+- name: Dryad of the Ilysian Grove
   weight: 1.0
   avg_copies: 4.0
 - name: Arboreal Grazer
@@ -21,10 +21,10 @@ top_cards:
 - name: Valakut, the Molten Pinnacle
   weight: 1.0
   avg_copies: 3.67
-- name: Wrenn and Six
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 3.5
-- name: Green Sun's Zenith
+- name: Wrenn and Six
   weight: 1.0
   avg_copies: 3.5
 - name: Wooded Foothills
@@ -39,10 +39,10 @@ top_cards:
 - name: Commercial District
   weight: 1.0
   avg_copies: 2.17
-- name: Boseiju, Who Endures
+- name: Mountain
   weight: 1.0
   avg_copies: 1.67
-- name: Mountain
+- name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.67
 - name: Vexing Bauble
@@ -84,10 +84,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.6667
   avg_copies: 2.25
-- name: Collector Ouphe
+- name: Bojuka Bog
   weight: 0.6667
   avg_copies: 1.0
-- name: Bojuka Bog
+- name: Collector Ouphe
   weight: 0.6667
   avg_copies: 1.0
 - name: Arid Mesa
@@ -117,28 +117,28 @@ top_cards:
 - name: Scapeshift
   weight: 0.1667
   avg_copies: 3.0
-- name: Ghost Vacuum
+- name: High Noon
   weight: 0.1667
   avg_copies: 2.0
 - name: Disruptor Flute
   weight: 0.1667
   avg_copies: 2.0
-- name: Orim's Chant
-  weight: 0.1667
-  avg_copies: 2.0
 - name: Fire Magic
   weight: 0.1667
   avg_copies: 2.0
-- name: High Noon
+- name: Orim's Chant
   weight: 0.1667
   avg_copies: 2.0
-- name: Endurance
+- name: Ghost Vacuum
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Dwarven Mine
   weight: 0.1667
   avg_copies: 1.0
 - name: Sakura-Tribe Elder
   weight: 0.1667
   avg_copies: 1.0
-- name: Dwarven Mine
+- name: Endurance
   weight: 0.1667
   avg_copies: 1.0
 ---

@@ -7,10 +7,10 @@ name: Vandalblast
 scryfall_id: e781b55f-6388-4ab8-be74-7c56eaba1c4d
 set: otc
 type: Sorcery
-meta_presence: 0.0103
+meta_presence: 0.0102
 archetypes:
   affinity:
-    weight: 0.0563
+    weight: 0.0556
     avg_copies: 1.05
   izzet-artifacts:
     weight: 0.4375

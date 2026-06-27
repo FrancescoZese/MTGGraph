@@ -9,16 +9,16 @@ type: Land
 meta_presence: 0.0255
 archetypes:
   azorius-control:
-    weight: 0.0357
+    weight: 0.0345
     avg_copies: 1.0
   living-end:
-    weight: 0.5893
+    weight: 0.5965
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.0938
+    weight: 0.0882
     avg_copies: 1.0
   mono-blue-tron:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 1.0
   bant-control:
     weight: 1.0
@@ -36,7 +36,7 @@ archetypes:
     weight: 0.7692
     avg_copies: 1.0
   unknown-67:
-    weight: 0.7963
+    weight: 0.7857
     avg_copies: 1.0
   unknown-84:
     weight: 1.0

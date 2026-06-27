@@ -20,13 +20,13 @@ top_cards:
 - name: Mutavault
   weight: 1.0
   avg_copies: 3.5
-- name: Sink into Stupor
-  weight: 1.0
-  avg_copies: 3.5
 - name: Vodalian Hexcatcher
   weight: 1.0
   avg_copies: 3.5
 - name: Aether Vial
+  weight: 1.0
+  avg_copies: 3.5
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 3.5
 - name: Harbinger of the Seas
@@ -92,10 +92,10 @@ top_cards:
 - name: Mistcaller
   weight: 0.125
   avg_copies: 3.0
-- name: Hurkyl's Recall
+- name: Spell Pierce
   weight: 0.125
   avg_copies: 2.0
-- name: Spell Pierce
+- name: Hurkyl's Recall
   weight: 0.125
   avg_copies: 2.0
 - name: Glasspool Mimic

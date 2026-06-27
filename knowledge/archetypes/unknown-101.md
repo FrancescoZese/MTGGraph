@@ -9,22 +9,22 @@ top_cards:
 - name: Detective's Phoenix
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
-  weight: 1.0
-  avg_copies: 4.0
 - name: Street Wraith
-  weight: 1.0
-  avg_copies: 4.0
-- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
 - name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
-- name: Blood Crypt
+- name: Faithless Looting
+  weight: 1.0
+  avg_copies: 4.0
+- name: Hollow One
+  weight: 1.0
+  avg_copies: 4.0
+- name: Arena of Glory
   weight: 1.0
   avg_copies: 3.0
-- name: Arena of Glory
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 3.0
 - name: Meltdown
@@ -33,10 +33,10 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 2.75
-- name: Bloodstained Mire
+- name: Fear of Missing Out
   weight: 1.0
   avg_copies: 2.25
-- name: Fear of Missing Out
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.25
 - name: Tarfire
@@ -48,25 +48,25 @@ top_cards:
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.25
+- name: Leyline of the Void
+  weight: 0.75
+  avg_copies: 4.0
 - name: Burning Inquiry
   weight: 0.75
   avg_copies: 4.0
 - name: Marauding Mako
   weight: 0.75
   avg_copies: 4.0
-- name: Leyline of the Void
-  weight: 0.75
-  avg_copies: 4.0
 - name: Damping Sphere
   weight: 0.75
   avg_copies: 3.67
-- name: Lightning Bolt
-  weight: 0.75
-  avg_copies: 2.67
 - name: Dragon's Rage Channeler
   weight: 0.75
   avg_copies: 2.67
 - name: Vexing Bauble
+  weight: 0.75
+  avg_copies: 2.67
+- name: Lightning Bolt
   weight: 0.75
   avg_copies: 2.67
 - name: Arid Mesa
@@ -90,34 +90,34 @@ top_cards:
 - name: Pyroclasm
   weight: 0.5
   avg_copies: 1.5
-- name: Mishra's Bauble
-  weight: 0.25
-  avg_copies: 4.0
 - name: Thoughtseize
   weight: 0.25
   avg_copies: 4.0
-- name: Surgical Extraction
+- name: Mishra's Bauble
   weight: 0.25
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Kroxa, Titan of Death's Hunger
   weight: 0.25
   avg_copies: 3.0
-- name: Wear
+- name: Surgical Extraction
   weight: 0.25
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Obsidian Charmaw
   weight: 0.25
   avg_copies: 2.0
-- name: Swamp
+- name: Wear
   weight: 0.25
-  avg_copies: 1.0
-- name: Sheoldred's Edict
+  avg_copies: 2.0
+- name: Swamp
   weight: 0.25
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.25
   avg_copies: 1.0
 - name: Seal of Fire
+  weight: 0.25
+  avg_copies: 1.0
+- name: Sheoldred's Edict
   weight: 0.25
   avg_copies: 1.0
 ---

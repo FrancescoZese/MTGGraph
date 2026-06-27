@@ -6,22 +6,22 @@ name: Boseiju, Who Endures
 scryfall_id: 2135ac5a-187b-4dc9-8f82-34e8d1603416
 set: neo
 type: Legendary Land
-meta_presence: 0.1769
+meta_presence: 0.1773
 archetypes:
   jeskai-energy:
     weight: 0.0078
     avg_copies: 2.0
   eldrazi-tron:
-    weight: 0.0707
+    weight: 0.0739
     avg_copies: 1.0
   amulet-titan:
     weight: 1.0
-    avg_copies: 2.26
+    avg_copies: 2.27
   hardened-scales:
     weight: 1.0
     avg_copies: 1.75
   living-end:
-    weight: 0.4464
+    weight: 0.4386
     avg_copies: 1.0
   neoform-combo:
     weight: 0.9107
@@ -33,7 +33,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.88
   eldrazi-ramp:
-    weight: 0.1616
+    weight: 0.16
     avg_copies: 1.0
   simic-ritual:
     weight: 0.9467
@@ -45,14 +45,14 @@ archetypes:
     weight: 1.0
     avg_copies: 1.88
   indomitable-creativity:
-    weight: 0.4167
+    weight: 0.5
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.994
-    avg_copies: 1.65
+    weight: 0.9942
+    avg_copies: 1.66
   dredge:
-    weight: 0.9
-    avg_copies: 1.57
+    weight: 0.9048
+    avg_copies: 1.59
   izzet-artifacts:
     weight: 0.0625
     avg_copies: 1.0
@@ -111,7 +111,7 @@ archetypes:
     weight: 0.9615
     avg_copies: 1.0
   unknown-67:
-    weight: 0.6111
+    weight: 0.6071
     avg_copies: 1.0
   unknown-76:
     weight: 1.0

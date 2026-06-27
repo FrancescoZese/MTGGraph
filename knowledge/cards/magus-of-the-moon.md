@@ -7,22 +7,22 @@ name: Magus of the Moon
 scryfall_id: 7c9bd75c-9606-4607-bfa6-d6acdee12820
 set: tsr
 type: Creature — Human Wizard
-meta_presence: 0.0101
+meta_presence: 0.0104
 archetypes:
   boros-energy:
-    weight: 0.0036
+    weight: 0.0035
     avg_copies: 1.0
   affinity:
-    weight: 0.0332
+    weight: 0.0328
     avg_copies: 1.0
   mardu-blink:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 2.0
   hollow-one:
     weight: 0.0303
     avg_copies: 2.0
   eldrazi-ramp:
-    weight: 0.1616
+    weight: 0.17
     avg_copies: 2.06
   rakdos-lantern-combo:
     weight: 0.5
@@ -38,7 +38,7 @@ archetypes:
     avg_copies: 1.0
   unknown-98:
     weight: 1.0
-    avg_copies: 2.6
+    avg_copies: 2.5
   unknown-110:
     weight: 1.0
     avg_copies: 1.5

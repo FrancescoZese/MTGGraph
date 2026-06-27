@@ -7,16 +7,16 @@ name: Haliya, Guided by Light
 scryfall_id: 6f7c63ae-5df3-410f-8643-b8c69133ca9d
 set: eoe
 type: Legendary Creature — Human Soldier
-meta_presence: 0.0202
+meta_presence: 0.021
 archetypes:
   boros-energy:
-    weight: 0.0941
-    avg_copies: 1.11
+    weight: 0.1018
+    avg_copies: 1.1
   samwise-combo:
-    weight: 0.0556
+    weight: 0.0545
     avg_copies: 1.33
   azorius-blink:
-    weight: 0.2766
+    weight: 0.2708
     avg_copies: 1.85
   unknown-62:
     weight: 0.125

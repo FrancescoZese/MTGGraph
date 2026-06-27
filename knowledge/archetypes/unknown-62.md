@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: 'Unknown #62'
-meta_share: 0.0055
+meta_share: 0.0054
 list_count: 24
 top_cards:
 - name: Solitude
@@ -75,10 +75,10 @@ top_cards:
 - name: Subtlety
   weight: 0.5
   avg_copies: 1.72
-- name: Sink into Stupor
+- name: Skycoach Conductor
   weight: 0.5
   avg_copies: 1.25
-- name: Skycoach Conductor
+- name: Sink into Stupor
   weight: 0.5
   avg_copies: 1.25
 - name: Force of Negation
@@ -129,94 +129,94 @@ top_cards:
 - name: No More Lies
   weight: 0.125
   avg_copies: 1.67
-- name: Momo, Friendly Flier
-  weight: 0.125
-  avg_copies: 1.33
 - name: Haliya, Guided by Light
   weight: 0.125
   avg_copies: 1.33
-- name: Haywire Mite
+- name: Momo, Friendly Flier
+  weight: 0.125
+  avg_copies: 1.33
+- name: Temple Garden
   weight: 0.125
   avg_copies: 1.0
-- name: Temple Garden
+- name: Haywire Mite
   weight: 0.125
   avg_copies: 1.0
 - name: Lavinia, Azorius Renegade
   weight: 0.0833
   avg_copies: 2.0
-- name: Orim's Chant
+- name: Sacred Foundry
   weight: 0.0833
   avg_copies: 1.5
-- name: Sacred Foundry
+- name: Orim's Chant
   weight: 0.0833
   avg_copies: 1.5
 - name: Thraben Charm
   weight: 0.0833
   avg_copies: 1.25
+- name: Tamiyo, Inquisitive Student
+  weight: 0.0833
+  avg_copies: 1.0
 - name: Drannith Magistrate
   weight: 0.0833
   avg_copies: 1.0
 - name: Ranger-Captain of Eos
   weight: 0.0833
   avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.0833
-  avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
   weight: 0.0417
   avg_copies: 3.0
+- name: card:geist-of-saint-traft
+  weight: 0.0417
+  avg_copies: 2.0
+- name: Obsidian Charmaw
+  weight: 0.0417
+  avg_copies: 2.0
+- name: Galvanic Discharge
+  weight: 0.0417
+  avg_copies: 2.0
+- name: Damping Sphere
+  weight: 0.0417
+  avg_copies: 2.0
 - name: Flagstones of Trokair
   weight: 0.0417
   avg_copies: 2.0
 - name: Goblin Bombardment
   weight: 0.0417
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Recruiter of the Guard
   weight: 0.0417
-  avg_copies: 2.0
-- name: Obsidian Charmaw
+  avg_copies: 1.0
+- name: Razorgrass Ambush
   weight: 0.0417
-  avg_copies: 2.0
-- name: card:geist-of-saint-traft
+  avg_copies: 1.0
+- name: Otawara, Soaring City
   weight: 0.0417
-  avg_copies: 2.0
-- name: Galvanic Discharge
+  avg_copies: 1.0
+- name: card:exalted-sunborn
   weight: 0.0417
-  avg_copies: 2.0
+  avg_copies: 1.0
+- name: Flitterwing Nuisance
+  weight: 0.0417
+  avg_copies: 1.0
 - name: Aven Interrupter
   weight: 0.0417
   avg_copies: 1.0
 - name: Celestial Purge
   weight: 0.0417
   avg_copies: 1.0
-- name: Flitterwing Nuisance
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Razorgrass Ambush
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Recruiter of the Guard
+- name: Hydroelectric Specimen
   weight: 0.0417
   avg_copies: 1.0
 - name: Ajani, Nacatl Pariah
   weight: 0.0417
   avg_copies: 1.0
-- name: Elegant Parlor
-  weight: 0.0417
-  avg_copies: 1.0
-- name: card:exalted-sunborn
+- name: Meltdown
   weight: 0.0417
   avg_copies: 1.0
 - name: Wear
   weight: 0.0417
   avg_copies: 1.0
-- name: Otawara, Soaring City
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Meltdown
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Hydroelectric Specimen
+- name: Elegant Parlor
   weight: 0.0417
   avg_copies: 1.0
 ---

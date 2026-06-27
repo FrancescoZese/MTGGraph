@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: Hammer Time
-meta_share: 0.0021
+meta_share: 0.002
 list_count: 9
 top_cards:
 - name: Colossus Hammer
@@ -15,10 +15,10 @@ top_cards:
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 3.89
-- name: Battlefield Improvisation
+- name: Leyline Axe
   weight: 1.0
   avg_copies: 3.78
-- name: Leyline Axe
+- name: Battlefield Improvisation
   weight: 1.0
   avg_copies: 3.78
 - name: Puresteel Paladin
@@ -33,10 +33,10 @@ top_cards:
 - name: Mox Opal
   weight: 1.0
   avg_copies: 2.89
-- name: Hallowed Fountain
+- name: Plains
   weight: 1.0
   avg_copies: 2.33
-- name: Plains
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.33
 - name: Inkmoth Nexus
@@ -72,10 +72,10 @@ top_cards:
 - name: Tormod's Crypt
   weight: 0.6667
   avg_copies: 1.33
-- name: Arid Mesa
+- name: Soulless Jailer
   weight: 0.5556
   avg_copies: 2.0
-- name: Soulless Jailer
+- name: Arid Mesa
   weight: 0.5556
   avg_copies: 2.0
 - name: Surge of Salvation
@@ -93,10 +93,10 @@ top_cards:
 - name: Kappa Cannoneer
   weight: 0.4444
   avg_copies: 1.5
-- name: Cryptic Coat
+- name: Stern Scolding
   weight: 0.4444
   avg_copies: 1.0
-- name: Stern Scolding
+- name: Cryptic Coat
   weight: 0.4444
   avg_copies: 1.0
 - name: Pithing Needle
@@ -126,10 +126,10 @@ top_cards:
 - name: Sigarda's Aid
   weight: 0.2222
   avg_copies: 1.5
-- name: Voice of Victory
+- name: Paradise Mantle
   weight: 0.2222
   avg_copies: 1.0
-- name: Paradise Mantle
+- name: Voice of Victory
   weight: 0.2222
   avg_copies: 1.0
 - name: Flare of Fortitude
@@ -144,10 +144,10 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.1111
   avg_copies: 1.0
-- name: Skateboard
+- name: Soul-Guide Lantern
   weight: 0.1111
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Skateboard
   weight: 0.1111
   avg_copies: 1.0
 ---

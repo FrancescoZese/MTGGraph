@@ -10,10 +10,10 @@ type: Enchantment
 meta_presence: 0.0099
 archetypes:
   goryo:
-    weight: 0.0102
+    weight: 0.0101
     avg_copies: 3.5
   mill:
-    weight: 0.037
+    weight: 0.0345
     avg_copies: 3.0
   reanimator:
     weight: 0.037
@@ -22,10 +22,10 @@ archetypes:
     weight: 0.0909
     avg_copies: 3.67
   indomitable-creativity:
-    weight: 0.1667
+    weight: 0.1429
     avg_copies: 4.0
   dredge:
-    weight: 0.05
+    weight: 0.0476
     avg_copies: 2.0
   rakdos-aggro:
     weight: 0.0588
@@ -37,13 +37,13 @@ archetypes:
     weight: 0.0476
     avg_copies: 3.0
   goryo1:
-    weight: 0.0093
+    weight: 0.0088
     avg_copies: 3.0
   unknown-40:
     weight: 1.0
     avg_copies: 2.0
   unknown-67:
-    weight: 0.2037
+    weight: 0.1964
     avg_copies: 3.0
   unknown-74:
     weight: 1.0
@@ -63,4 +63,7 @@ archetypes:
   unknown-144:
     weight: 1.0
     avg_copies: 1.0
+  unknown-161:
+    weight: 1.0
+    avg_copies: 4.0
 ---

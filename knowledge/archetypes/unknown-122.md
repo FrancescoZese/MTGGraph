@@ -6,19 +6,19 @@ name: 'Unknown #122'
 meta_share: 0.0032
 list_count: 14
 top_cards:
-- name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Preordain
-  weight: 1.0
-  avg_copies: 4.0
-- name: Lava Dart
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
-- name: Cori-Steel Cutter
+- name: Preordain
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lightning Bolt
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lava Dart
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
@@ -75,10 +75,10 @@ top_cards:
 - name: Stomping Ground
   weight: 0.5714
   avg_copies: 1.0
-- name: Firebending Lesson
+- name: Origin of Metalbending
   weight: 0.5714
   avg_copies: 1.0
-- name: Origin of Metalbending
+- name: Firebending Lesson
   weight: 0.5714
   avg_copies: 1.0
 - name: Abandon Attachments
@@ -120,10 +120,10 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.2143
   avg_copies: 1.0
-- name: Experimental Synthesizer
+- name: Questing Druid
   weight: 0.0714
   avg_copies: 4.0
-- name: Questing Druid
+- name: Experimental Synthesizer
   weight: 0.0714
   avg_copies: 4.0
 - name: Misty Rainforest
@@ -141,19 +141,19 @@ top_cards:
 - name: Mutagenic Growth
   weight: 0.0714
   avg_copies: 2.0
-- name: Sacred Foundry
+- name: Iroh's Demonstration
   weight: 0.0714
   avg_copies: 1.0
-- name: Iroh's Demonstration
+- name: Sacred Foundry
   weight: 0.0714
   avg_copies: 1.0
 - name: Fire Magic
   weight: 0.0714
   avg_copies: 1.0
-- name: Octopus Form
+- name: Price of Freedom
   weight: 0.0714
   avg_copies: 1.0
-- name: Price of Freedom
+- name: Octopus Form
   weight: 0.0714
   avg_copies: 1.0
 ---

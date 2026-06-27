@@ -4,25 +4,25 @@ colors:
 - U
 - R
 name: 'Unknown #149'
-meta_share: 0.0021
+meta_share: 0.002
 list_count: 9
 top_cards:
-- name: Flooded Strand
-  weight: 1.0
-  avg_copies: 4.0
-- name: Guide of Souls
-  weight: 1.0
-  avg_copies: 4.0
 - name: Quantum Riddler
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
-- name: Arid Mesa
+- name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 4.0
-- name: Ajani, Nacatl Pariah
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
+- name: Guide of Souls
+  weight: 1.0
+  avg_copies: 4.0
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
@@ -58,10 +58,10 @@ top_cards:
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Mountain
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Elegant Parlor
@@ -82,16 +82,16 @@ top_cards:
 - name: Flagstones of Trokair
   weight: 0.5556
   avg_copies: 3.0
-- name: Fable of the Mirror-Breaker
+- name: Lavinia, Azorius Renegade
   weight: 0.5556
   avg_copies: 2.0
-- name: Orim's Chant
+- name: Fable of the Mirror-Breaker
   weight: 0.5556
   avg_copies: 2.0
 - name: Sanctifier en-Vec
   weight: 0.5556
   avg_copies: 2.0
-- name: Lavinia, Azorius Renegade
+- name: Orim's Chant
   weight: 0.5556
   avg_copies: 2.0
 - name: Spell Pierce
@@ -121,13 +121,13 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.3333
   avg_copies: 2.0
-- name: Surgical Extraction
-  weight: 0.3333
-  avg_copies: 1.67
 - name: Mystical Dispute
   weight: 0.3333
   avg_copies: 1.67
 - name: Wear
+  weight: 0.3333
+  avg_copies: 1.67
+- name: Surgical Extraction
   weight: 0.3333
   avg_copies: 1.67
 - name: Rest in Peace

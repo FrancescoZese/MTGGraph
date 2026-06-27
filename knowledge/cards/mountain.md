@@ -12,7 +12,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.93
   boros-energy:
-    weight: 0.833
+    weight: 0.8351
     avg_copies: 1.0
   mono-blue-belcher:
     weight: 0.1912
@@ -21,13 +21,13 @@ archetypes:
     weight: 0.7907
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.2188
+    weight: 0.2059
     avg_copies: 1.0
   affinity:
-    weight: 0.0102
+    weight: 0.0101
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.9608
+    weight: 0.9615
     avg_copies: 1.0
   reanimator:
     weight: 0.1111
@@ -36,7 +36,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.31
   mardu-blink:
-    weight: 0.3478
+    weight: 0.3333
     avg_copies: 1.0
   mono-red-belcher:
     weight: 0.8462
@@ -45,17 +45,17 @@ archetypes:
     weight: 0.8788
     avg_copies: 1.38
   boros-ponza:
-    weight: 0.9853
-    avg_copies: 1.23
+    weight: 0.9854
+    avg_copies: 1.24
   izzet-prowess:
-    weight: 0.991
-    avg_copies: 2.33
+    weight: 0.9911
+    avg_copies: 2.34
   indomitable-creativity:
     weight: 1.0
-    avg_copies: 1.08
+    avg_copies: 1.07
   dredge:
-    weight: 0.9
-    avg_copies: 1.83
+    weight: 0.9048
+    avg_copies: 1.84
   izzet-artifacts:
     weight: 0.5
     avg_copies: 1.0
@@ -93,7 +93,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo1:
-    weight: 0.0093
+    weight: 0.0088
     avg_copies: 1.0
   goryo4:
     weight: 0.9091
@@ -183,7 +183,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.0556
+    weight: 0.0536
     avg_copies: 1.0
   unknown-68:
     weight: 0.9
@@ -217,7 +217,7 @@ archetypes:
     avg_copies: 1.89
   unknown-98:
     weight: 1.0
-    avg_copies: 3.6
+    avg_copies: 3.17
   unknown-100:
     weight: 1.0
     avg_copies: 1.0
@@ -283,5 +283,8 @@ archetypes:
     avg_copies: 1.0
   unknown-160:
     weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 1.33
+  unknown-161:
+    weight: 1.0
+    avg_copies: 2.0
 ---

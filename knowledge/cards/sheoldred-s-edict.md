@@ -7,7 +7,7 @@ name: Sheoldred's Edict
 scryfall_id: a9225cc3-90f0-448f-a8d9-7c6c2796d077
 set: one
 type: Instant
-meta_presence: 0.0386
+meta_presence: 0.0382
 archetypes:
   dimir-control:
     weight: 0.9012
@@ -16,13 +16,13 @@ archetypes:
     weight: 0.3243
     avg_copies: 1.92
   mill:
-    weight: 0.2963
+    weight: 0.2759
     avg_copies: 1.2
   reanimator:
     weight: 0.037
     avg_copies: 1.0
   mardu-blink:
-    weight: 0.3478
+    weight: 0.3333
     avg_copies: 1.25
   hollow-one:
     weight: 0.0606
@@ -64,8 +64,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.5636
-    avg_copies: 1.2
+    weight: 0.5439
+    avg_copies: 1.23
   unknown-56:
     weight: 1.0
     avg_copies: 2.0
@@ -94,6 +94,9 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-154:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-162:
     weight: 1.0
     avg_copies: 2.0
 ---

@@ -3,13 +3,13 @@ colors:
 - W
 - R
 name: Burn
-meta_share: 0.0067
+meta_share: 0.0066
 list_count: 29
 top_cards:
-- name: Lava Spike
+- name: Boltwave
   weight: 1.0
   avg_copies: 4.0
-- name: Boltwave
+- name: Lava Spike
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
@@ -162,34 +162,25 @@ top_cards:
 - name: Containment Priest
   weight: 0.0345
   avg_copies: 3.0
-- name: Blood Crypt
-  weight: 0.0345
-  avg_copies: 2.0
 - name: Nihil Spellbomb
-  weight: 0.0345
-  avg_copies: 2.0
-- name: Tunnel Ignus
   weight: 0.0345
   avg_copies: 2.0
 - name: Relic of Progenitus
   weight: 0.0345
   avg_copies: 2.0
+- name: Blood Crypt
+  weight: 0.0345
+  avg_copies: 2.0
+- name: Tunnel Ignus
+  weight: 0.0345
+  avg_copies: 2.0
 - name: Kor Firewalker
   weight: 0.0345
   avg_copies: 2.0
-- name: Erode
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Blood Moon
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Void Mirror
-  weight: 0.0345
-  avg_copies: 1.0
 - name: Deafening Silence
   weight: 0.0345
   avg_copies: 1.0
-- name: card:volcanic-fallout
+- name: Void Mirror
   weight: 0.0345
   avg_copies: 1.0
 - name: Rain of Gore
@@ -198,10 +189,19 @@ top_cards:
 - name: Snow-Covered Mountain
   weight: 0.0345
   avg_copies: 1.0
-- name: Ensnaring Bridge
+- name: Erode
   weight: 0.0345
   avg_copies: 1.0
 - name: Rakdos Charm
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Blood Moon
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Ensnaring Bridge
+  weight: 0.0345
+  avg_copies: 1.0
+- name: card:volcanic-fallout
   weight: 0.0345
   avg_copies: 1.0
 ---

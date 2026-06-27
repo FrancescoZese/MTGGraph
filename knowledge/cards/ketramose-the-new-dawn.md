@@ -11,10 +11,10 @@ type: Legendary Creature — God
 meta_presence: 0.009
 archetypes:
   goryo:
-    weight: 0.0203
+    weight: 0.0201
     avg_copies: 1.4
   mardu-blink:
-    weight: 0.8261
+    weight: 0.8333
     avg_copies: 2.0
   esper-blink:
     weight: 0.0494

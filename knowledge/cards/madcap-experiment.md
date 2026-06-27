@@ -10,10 +10,10 @@ type: Sorcery
 meta_presence: 0.0011
 archetypes:
   boros-ponza:
-    weight: 0.0147
+    weight: 0.0146
     avg_copies: 3.0
   eldrazi-ramp:
-    weight: 0.0101
+    weight: 0.01
     avg_copies: 3.0
   goryo0:
     weight: 0.0476

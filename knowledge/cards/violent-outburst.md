@@ -8,17 +8,17 @@ name: Violent Outburst
 scryfall_id: 1b58856a-f88e-4625-8636-62b5c717b956
 set: arb
 type: Instant
-meta_presence: 0.0193
+meta_presence: 0.0194
 archetypes:
   living-end:
-    weight: 0.0179
+    weight: 0.0175
     avg_copies: 4.0
   unknown-65:
     weight: 1.0
     avg_copies: 4.0
   unknown-67:
     weight: 1.0
-    avg_copies: 3.94
+    avg_copies: 3.95
   unknown-84:
     weight: 1.0
     avg_copies: 4.0

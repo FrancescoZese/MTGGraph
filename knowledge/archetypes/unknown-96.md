@@ -5,22 +5,22 @@ colors:
 - R
 - G
 name: 'Unknown #96'
-meta_share: 0.0021
+meta_share: 0.002
 list_count: 9
 top_cards:
-- name: Hardened Academic
-  weight: 1.0
-  avg_copies: 4.0
-- name: Faithless Looting
+- name: Marauding Mako
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
-- name: Hollow One
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Marauding Mako
+- name: Hardened Academic
+  weight: 1.0
+  avg_copies: 4.0
+- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
 - name: Arid Mesa
@@ -41,13 +41,13 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.89
-- name: Blazing Rootwalla
-  weight: 0.8889
-  avg_copies: 4.0
 - name: Burning Inquiry
   weight: 0.8889
   avg_copies: 4.0
 - name: Vengevine
+  weight: 0.8889
+  avg_copies: 4.0
+- name: Blazing Rootwalla
   weight: 0.8889
   avg_copies: 4.0
 - name: Vexing Bauble
@@ -71,10 +71,10 @@ top_cards:
 - name: Stomping Ground
   weight: 0.6667
   avg_copies: 2.0
-- name: Stony Silence
+- name: Leyline of the Void
   weight: 0.5556
   avg_copies: 3.2
-- name: Leyline of the Void
+- name: Stony Silence
   weight: 0.5556
   avg_copies: 3.2
 - name: Blood Crypt
@@ -86,13 +86,13 @@ top_cards:
 - name: The Underworld Cookbook
   weight: 0.3333
   avg_copies: 2.0
-- name: Seasoned Pyromancer
-  weight: 0.3333
-  avg_copies: 2.0
 - name: Lingering Souls
   weight: 0.3333
   avg_copies: 2.0
 - name: Asmoranomardicadaistinaculdacar
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Seasoned Pyromancer
   weight: 0.3333
   avg_copies: 2.0
 - name: Fear of Missing Out
@@ -104,34 +104,28 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 0.2222
   avg_copies: 3.0
-- name: Raucous Theater
+- name: Fire Magic
   weight: 0.2222
   avg_copies: 1.0
-- name: Fire Magic
+- name: Raucous Theater
   weight: 0.2222
   avg_copies: 1.0
 - name: Goblin Lore
   weight: 0.1111
   avg_copies: 4.0
-- name: Marsh Flats
-  weight: 0.1111
-  avg_copies: 3.0
-- name: Orim's Chant
-  weight: 0.1111
-  avg_copies: 3.0
 - name: Thoughtseize
+  weight: 0.1111
+  avg_copies: 3.0
+- name: Marsh Flats
   weight: 0.1111
   avg_copies: 3.0
 - name: Price of Freedom
   weight: 0.1111
   avg_copies: 3.0
+- name: Orim's Chant
+  weight: 0.1111
+  avg_copies: 3.0
 - name: Prismatic Ending
-  weight: 0.1111
-  avg_copies: 2.0
-- name: Magebane Lizard
-  weight: 0.1111
-  avg_copies: 2.0
-- name: Surgical Extraction
   weight: 0.1111
   avg_copies: 2.0
 - name: Deafening Silence
@@ -140,19 +134,25 @@ top_cards:
 - name: Damping Sphere
   weight: 0.1111
   avg_copies: 2.0
-- name: Lava Dart
+- name: Magebane Lizard
   weight: 0.1111
   avg_copies: 2.0
 - name: Orcish Bowmasters
   weight: 0.1111
   avg_copies: 2.0
+- name: Surgical Extraction
+  weight: 0.1111
+  avg_copies: 2.0
+- name: Lava Dart
+  weight: 0.1111
+  avg_copies: 2.0
 - name: Arena of Glory
   weight: 0.1111
   avg_copies: 1.0
-- name: Rough
+- name: Godless Shrine
   weight: 0.1111
   avg_copies: 1.0
-- name: Godless Shrine
+- name: Rough
   weight: 0.1111
   avg_copies: 1.0
 ---

@@ -10,12 +10,12 @@ type: Creature — Bird Wizard
 meta_presence: 0.0025
 archetypes:
   boros-energy:
-    weight: 0.0071
+    weight: 0.007
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.0051
+    weight: 0.0049
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.0441
+    weight: 0.0438
     avg_copies: 1.75
 ---

@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.0005
 archetypes:
   mono-blue-tron:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 1.0
   unknown-104:
     weight: 1.0

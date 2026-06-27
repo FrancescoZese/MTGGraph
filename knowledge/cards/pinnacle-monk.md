@@ -9,13 +9,13 @@ type: Creature — Djinn Monk // Land
 meta_presence: 0.0136
 archetypes:
   mardu-blink:
-    weight: 0.8696
-    avg_copies: 1.25
+    weight: 0.875
+    avg_copies: 1.29
   mono-red-belcher:
     weight: 1.0
     avg_copies: 3.92
   boros-ponza:
-    weight: 0.0147
+    weight: 0.0146
     avg_copies: 2.0
   goryo0:
     weight: 1.0

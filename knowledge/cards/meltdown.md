@@ -7,14 +7,14 @@ name: Meltdown
 scryfall_id: 173369d2-dc39-4bfe-a602-b47156570365
 set: mh3
 type: Sorcery
-meta_presence: 0.1429
+meta_presence: 0.144
 archetypes:
   ruby-storm:
-    weight: 0.1111
+    weight: 0.1087
     avg_copies: 1.33
   boros-energy:
-    weight: 0.0693
-    avg_copies: 1.23
+    weight: 0.0702
+    avg_copies: 1.25
   dimir-control:
     weight: 0.2716
     avg_copies: 2.5
@@ -25,16 +25,16 @@ archetypes:
     weight: 0.0811
     avg_copies: 1.67
   azorius-control:
-    weight: 0.0179
+    weight: 0.0172
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.125
+    weight: 0.1176
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.049
+    weight: 0.0481
     avg_copies: 1.0
   mill:
-    weight: 0.037
+    weight: 0.0345
     avg_copies: 2.0
   reanimator:
     weight: 0.7778
@@ -46,25 +46,25 @@ archetypes:
     weight: 0.8788
     avg_copies: 2.17
   boros-ponza:
-    weight: 0.0368
+    weight: 0.0365
     avg_copies: 1.4
   eldrazi-ramp:
-    weight: 0.0909
+    weight: 0.09
     avg_copies: 1.22
   simic-ritual:
     weight: 0.0533
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.9369
+    weight: 0.9378
     avg_copies: 1.83
   indomitable-creativity:
-    weight: 0.1667
-    avg_copies: 1.5
+    weight: 0.2857
+    avg_copies: 1.25
   broodscale-combo:
-    weight: 0.006
+    weight: 0.0058
     avg_copies: 1.0
   dredge:
-    weight: 0.7
+    weight: 0.7143
     avg_copies: 2.0
   izzet-artifacts:
     weight: 0.0312
@@ -94,7 +94,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 2.0
   goryo1:
-    weight: 0.9907
+    weight: 0.9912
     avg_copies: 2.01
   grixis-control:
     weight: 1.0
@@ -175,8 +175,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-98:
-    weight: 0.4
-    avg_copies: 1.5
+    weight: 0.5
+    avg_copies: 1.67
   unknown-101:
     weight: 1.0
     avg_copies: 3.0
@@ -217,6 +217,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-156:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-161:
     weight: 1.0
     avg_copies: 2.0
 ---

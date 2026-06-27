@@ -6,9 +6,9 @@ name: Amulet of Safekeeping
 scryfall_id: d45ac8dc-281f-4257-9658-80af65a0295b
 set: m19
 type: Artifact
-meta_presence: 0.0005
+meta_presence: 0.0007
 archetypes:
   mill:
-    weight: 0.0741
-    avg_copies: 2.0
+    weight: 0.1034
+    avg_copies: 1.67
 ---

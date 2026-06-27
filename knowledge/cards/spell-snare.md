@@ -7,10 +7,10 @@ name: Spell Snare
 scryfall_id: b7551b61-656e-4f37-b9da-73174db983b7
 set: ecl
 type: Instant
-meta_presence: 0.1215
+meta_presence: 0.1212
 archetypes:
   ruby-storm:
-    weight: 0.0074
+    weight: 0.0072
     avg_copies: 2.0
   dimir-control:
     weight: 0.9877
@@ -22,19 +22,19 @@ archetypes:
     weight: 0.1783
     avg_copies: 1.07
   goryo:
-    weight: 0.2843
-    avg_copies: 1.4
+    weight: 0.2864
+    avg_copies: 1.39
   azorius-control:
-    weight: 0.7679
-    avg_copies: 1.81
+    weight: 0.7586
+    avg_copies: 1.82
   jeskai-control:
-    weight: 0.4688
-    avg_copies: 1.42
+    weight: 0.5
+    avg_copies: 1.35
   affinity:
     weight: 0.0051
     avg_copies: 1.0
   mill:
-    weight: 0.037
+    weight: 0.0345
     avg_copies: 2.0
   reanimator:
     weight: 0.037
@@ -43,19 +43,19 @@ archetypes:
     weight: 0.0536
     avg_copies: 1.67
   mono-blue-tron:
-    weight: 0.5294
+    weight: 0.5
     avg_copies: 2.56
   simic-ritual:
     weight: 0.04
     avg_copies: 1.67
   izzet-prowess:
-    weight: 0.3739
+    weight: 0.3689
     avg_copies: 1.45
   4c-omnath:
     weight: 0.25
     avg_copies: 2.0
   indomitable-creativity:
-    weight: 0.5833
+    weight: 0.5
     avg_copies: 1.86
   esper-control:
     weight: 1.0
@@ -73,8 +73,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   goryo1:
-    weight: 0.0935
-    avg_copies: 1.27
+    weight: 0.0973
+    avg_copies: 1.33
   goryo2:
     weight: 1.0
     avg_copies: 1.0
@@ -119,7 +119,7 @@ archetypes:
     avg_copies: 2.0
   unknown-47:
     weight: 1.0
-    avg_copies: 1.97
+    avg_copies: 1.99
   unknown-53:
     weight: 1.0
     avg_copies: 2.0

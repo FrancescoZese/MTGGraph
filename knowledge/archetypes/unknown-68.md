@@ -4,13 +4,13 @@ colors:
 - B
 - R
 name: 'Unknown #68'
-meta_share: 0.0069
+meta_share: 0.0068
 list_count: 30
 top_cards:
-- name: Guide of Souls
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
-- name: Ocelot Pride
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
@@ -43,10 +43,10 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.03
-- name: Blood Crypt
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowy Backstreet
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Elegant Parlor
@@ -124,19 +124,19 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.3
   avg_copies: 1.0
-- name: End of the Hunt
+- name: The Legend of Roku
   weight: 0.2667
   avg_copies: 1.0
-- name: The Legend of Roku
+- name: End of the Hunt
   weight: 0.2667
   avg_copies: 1.0
 - name: Kroxa, Titan of Death's Hunger
   weight: 0.2333
   avg_copies: 2.86
-- name: Surgical Extraction
+- name: Celestial Purge
   weight: 0.2
   avg_copies: 1.0
-- name: Celestial Purge
+- name: Surgical Extraction
   weight: 0.2
   avg_copies: 1.0
 - name: Ob Nixilis, the Adversary
@@ -166,16 +166,16 @@ top_cards:
 - name: Lingering Souls
   weight: 0.0333
   avg_copies: 2.0
-- name: Solitude
+- name: Strategic Betrayal
   weight: 0.0333
   avg_copies: 1.0
-- name: Strategic Betrayal
+- name: Faerie Macabre
   weight: 0.0333
   avg_copies: 1.0
 - name: Haliya, Guided by Light
   weight: 0.0333
   avg_copies: 1.0
-- name: Faerie Macabre
+- name: Solitude
   weight: 0.0333
   avg_copies: 1.0
 ---

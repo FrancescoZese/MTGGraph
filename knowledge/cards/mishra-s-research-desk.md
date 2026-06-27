@@ -9,7 +9,7 @@ type: Artifact
 meta_presence: 0.0016
 archetypes:
   broodscale-combo:
-    weight: 0.006
+    weight: 0.0058
     avg_copies: 1.0
   unknown-26:
     weight: 0.3333

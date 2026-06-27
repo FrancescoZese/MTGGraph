@@ -6,11 +6,11 @@ name: Damping Sphere
 scryfall_id: 550860b4-887d-423a-8add-816c2a8da615
 set: dmr
 type: Artifact
-meta_presence: 0.2858
+meta_presence: 0.2851
 archetypes:
   boros-energy:
-    weight: 0.286
-    avg_copies: 1.43
+    weight: 0.2895
+    avg_copies: 1.42
   dimir-control:
     weight: 0.1728
     avg_copies: 1.14
@@ -18,10 +18,10 @@ archetypes:
     weight: 0.4186
     avg_copies: 1.44
   eldrazi-tron:
-    weight: 0.0101
+    weight: 0.0099
     avg_copies: 1.0
   goryo:
-    weight: 0.1523
+    weight: 0.1508
     avg_copies: 1.7
   hardened-scales:
     weight: 1.0
@@ -30,19 +30,19 @@ archetypes:
     weight: 0.7838
     avg_copies: 2.07
   living-end:
-    weight: 0.5357
+    weight: 0.5263
     avg_copies: 1.03
   jeskai-control:
-    weight: 0.2188
+    weight: 0.2059
     avg_copies: 1.71
   affinity:
-    weight: 0.9463
+    weight: 0.947
     avg_copies: 2.25
   domain-zoo:
-    weight: 0.6863
-    avg_copies: 1.66
+    weight: 0.6827
+    avg_copies: 1.65
   mill:
-    weight: 0.0741
+    weight: 0.069
     avg_copies: 1.5
   reanimator:
     weight: 0.6667
@@ -51,7 +51,7 @@ archetypes:
     weight: 0.1724
     avg_copies: 2.0
   mardu-blink:
-    weight: 0.8696
+    weight: 0.8333
     avg_copies: 1.85
   hammer-time:
     weight: 0.3333
@@ -60,13 +60,13 @@ archetypes:
     weight: 0.8788
     avg_copies: 2.31
   boros-ponza:
-    weight: 0.0147
+    weight: 0.0146
     avg_copies: 1.5
   yawgmoth-combo:
     weight: 0.1642
     avg_copies: 1.09
   eldrazi-ramp:
-    weight: 0.0303
+    weight: 0.03
     avg_copies: 1.0
   simic-ritual:
     weight: 0.1467
@@ -78,19 +78,19 @@ archetypes:
     weight: 0.5185
     avg_copies: 2.43
   samwise-combo:
-    weight: 0.037
+    weight: 0.0364
     avg_copies: 1.5
   broodscale-combo:
-    weight: 0.4583
+    weight: 0.4451
     avg_copies: 1.74
   orzhov-blink:
     weight: 0.6667
     avg_copies: 2.17
   dredge:
-    weight: 0.05
+    weight: 0.0476
     avg_copies: 2.0
   azorius-blink:
-    weight: 0.0213
+    weight: 0.0208
     avg_copies: 1.0
   elves:
     weight: 1.0
@@ -129,7 +129,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.785
+    weight: 0.7788
     avg_copies: 1.88
   goryo4:
     weight: 0.7273
@@ -192,7 +192,7 @@ archetypes:
     weight: 0.2857
     avg_copies: 2.0
   unknown-47:
-    weight: 0.1091
+    weight: 0.1053
     avg_copies: 2.0
   unknown-49:
     weight: 1.0
@@ -280,7 +280,7 @@ archetypes:
     avg_copies: 4.0
   unknown-135:
     weight: 1.0
-    avg_copies: 2.5
+    avg_copies: 2.33
   unknown-138:
     weight: 1.0
     avg_copies: 2.0
@@ -293,4 +293,7 @@ archetypes:
   unknown-154:
     weight: 1.0
     avg_copies: 2.0
+  unknown-162:
+    weight: 1.0
+    avg_copies: 1.0
 ---

@@ -6,7 +6,7 @@ name: 'Unknown #15'
 meta_share: 0.0018
 list_count: 8
 top_cards:
-- name: Mox Opal
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Tamiyo, Inquisitive Student
@@ -15,7 +15,7 @@ top_cards:
 - name: Emry, Lurker of the Loch
   weight: 1.0
   avg_copies: 4.0
-- name: Cori-Steel Cutter
+- name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
@@ -39,13 +39,13 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.38
-- name: Thundering Falls
+- name: Aether Spellbomb
   weight: 1.0
   avg_copies: 1.0
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Aether Spellbomb
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Metallic Rebuke
@@ -57,10 +57,10 @@ top_cards:
 - name: Flame of Anor
   weight: 0.875
   avg_copies: 2.0
-- name: Spirebluff Canal
+- name: Mystical Dispute
   weight: 0.875
   avg_copies: 1.71
-- name: Mystical Dispute
+- name: Spirebluff Canal
   weight: 0.875
   avg_copies: 1.71
 - name: Otawara, Soaring City
@@ -87,13 +87,13 @@ top_cards:
 - name: Tormod's Crypt
   weight: 0.625
   avg_copies: 1.29
-- name: Fiery Islet
-  weight: 0.625
-  avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.625
   avg_copies: 1.0
 - name: Haywire Mite
+  weight: 0.625
+  avg_copies: 1.0
+- name: Fiery Islet
   weight: 0.625
   avg_copies: 1.0
 - name: Quantum Riddler
@@ -126,13 +126,13 @@ top_cards:
 - name: Flooded Strand
   weight: 0.25
   avg_copies: 2.0
-- name: Strix Serenade
+- name: Preordain
   weight: 0.25
   avg_copies: 1.0
 - name: Vandalblast
   weight: 0.25
   avg_copies: 1.0
-- name: Preordain
+- name: Strix Serenade
   weight: 0.25
   avg_copies: 1.0
 - name: Wooded Foothills
@@ -150,34 +150,34 @@ top_cards:
 - name: Portable Hole
   weight: 0.125
   avg_copies: 3.0
-- name: Hallowed Fountain
+- name: Whipflare
   weight: 0.125
   avg_copies: 2.0
 - name: Vivi Ornitier
   weight: 0.125
   avg_copies: 2.0
-- name: Whipflare
-  weight: 0.125
-  avg_copies: 2.0
-- name: Teferi, Time Raveler
+- name: Hallowed Fountain
   weight: 0.125
   avg_copies: 2.0
 - name: Sink into Stupor
   weight: 0.125
   avg_copies: 2.0
-- name: Snapcaster Mage
+- name: Teferi, Time Raveler
+  weight: 0.125
+  avg_copies: 2.0
+- name: Minamo, School at Water's Edge
   weight: 0.125
   avg_copies: 1.0
-- name: Annul
+- name: Lavaspur Boots
   weight: 0.125
   avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.125
   avg_copies: 1.0
-- name: Minamo, School at Water's Edge
+- name: Annul
   weight: 0.125
   avg_copies: 1.0
-- name: Lavaspur Boots
+- name: Snapcaster Mage
   weight: 0.125
   avg_copies: 1.0
 - name: Vexing Bauble

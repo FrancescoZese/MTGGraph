@@ -6,20 +6,20 @@ name: Sire of Seven Deaths
 scryfall_id: 8d8432a7-1c8a-4cfb-947c-ecf9791063eb
 set: fdn
 type: Creature — Eldrazi
-meta_presence: 0.0671
+meta_presence: 0.0678
 archetypes:
   eldrazi-tron:
-    weight: 0.7525
-    avg_copies: 1.67
+    weight: 0.7537
+    avg_copies: 1.66
   mono-blue-tron:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 2.0
   eldrazi-ramp:
-    weight: 0.8687
+    weight: 0.87
     avg_copies: 1.84
   broodscale-combo:
-    weight: 0.2143
-    avg_copies: 1.17
+    weight: 0.2254
+    avg_copies: 1.15
   goryo4:
     weight: 1.0
     avg_copies: 3.82

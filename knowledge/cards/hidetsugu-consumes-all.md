@@ -6,10 +6,10 @@ name: Hidetsugu Consumes All // Vessel of the All-Consuming
 scryfall_id: 8e910464-329a-4de1-930a-be85b1956676
 set: neo
 type: Enchantment — Saga // Enchantment Creature — Ogre Shaman
-meta_presence: 0.0028
+meta_presence: 0.0027
 archetypes:
   domain-zoo:
-    weight: 0.049
+    weight: 0.0481
     avg_copies: 1.0
   unknown-79:
     weight: 0.6667

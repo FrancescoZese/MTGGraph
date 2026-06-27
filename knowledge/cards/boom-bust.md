@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0018
     avg_copies: 4.0
   boros-ponza:
-    weight: 0.0147
+    weight: 0.0146
     avg_copies: 4.0
   simic-ritual:
     weight: 0.0133

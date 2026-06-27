@@ -9,10 +9,10 @@ top_cards:
 - name: Counterspell
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Consult the Star Charts
   weight: 1.0
   avg_copies: 3.75
-- name: Consult the Star Charts
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 3.75
 - name: Consign to Memory
@@ -24,10 +24,10 @@ top_cards:
 - name: Prismatic Ending
   weight: 1.0
   avg_copies: 3.25
-- name: Solitude
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 3.25
-- name: Mystical Dispute
+- name: Solitude
   weight: 1.0
   avg_copies: 3.25
 - name: Teferi, Time Raveler
@@ -39,13 +39,13 @@ top_cards:
 - name: Spell Snare
   weight: 1.0
   avg_copies: 2.17
-- name: Hallowed Fountain
-  weight: 1.0
-  avg_copies: 2.0
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.0
 - name: Plains
+  weight: 1.0
+  avg_copies: 2.0
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.0
 - name: Meticulous Archive
@@ -69,19 +69,19 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.75
   avg_copies: 1.83
-- name: Monumental Henge
+- name: Watery Grave
+  weight: 0.75
+  avg_copies: 1.0
+- name: Polluted Delta
   weight: 0.75
   avg_copies: 1.0
 - name: Misty Rainforest
   weight: 0.75
   avg_copies: 1.0
-- name: Watery Grave
+- name: Monumental Henge
   weight: 0.75
   avg_copies: 1.0
 - name: Undercity Sewers
-  weight: 0.75
-  avg_copies: 1.0
-- name: Polluted Delta
   weight: 0.75
   avg_copies: 1.0
 - name: Brainsurge
@@ -135,28 +135,28 @@ top_cards:
 - name: Narset, Parter of Veils
   weight: 0.125
   avg_copies: 4.0
-- name: Day's Undoing
+- name: Path to Exile
   weight: 0.125
   avg_copies: 2.0
 - name: Lórien Revealed
   weight: 0.125
   avg_copies: 2.0
-- name: Terminus
+- name: Fatal Push
   weight: 0.125
   avg_copies: 2.0
 - name: No More Lies
   weight: 0.125
   avg_copies: 2.0
-- name: Path to Exile
+- name: Terminus
   weight: 0.125
   avg_copies: 2.0
 - name: Harbinger of the Seas
   weight: 0.125
   avg_copies: 2.0
-- name: Fatal Push
+- name: Day's Undoing
   weight: 0.125
   avg_copies: 2.0
-- name: Get Lost
+- name: Kaito, Bane of Nightmares
   weight: 0.125
   avg_copies: 1.0
 - name: Dovin's Veto
@@ -165,10 +165,7 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 0.125
   avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.125
-  avg_copies: 1.0
-- name: Rest in Peace
+- name: Get Lost
   weight: 0.125
   avg_copies: 1.0
 - name: Agna Qel'a
@@ -177,7 +174,10 @@ top_cards:
 - name: Geier Reach Sanitarium
   weight: 0.125
   avg_copies: 1.0
-- name: Kaito, Bane of Nightmares
+- name: Rest in Peace
+  weight: 0.125
+  avg_copies: 1.0
+- name: Thundering Falls
   weight: 0.125
   avg_copies: 1.0
 - name: Memory Deluge
