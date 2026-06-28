@@ -6,16 +6,16 @@ name: Snow-Covered Island
 scryfall_id: 3bfa5ebc-5623-4eec-89ea-dc187489ee4a
 set: khm
 type: Basic Snow Land — Island
-meta_presence: 0.0362
+meta_presence: 0.0363
 archetypes:
   dimir-control:
     weight: 0.0123
     avg_copies: 4.0
   jeskai-energy:
-    weight: 0.062
+    weight: 0.0615
     avg_copies: 1.0
   affinity:
-    weight: 0.0152
+    weight: 0.0151
     avg_copies: 1.5
   mill:
     weight: 0.3103

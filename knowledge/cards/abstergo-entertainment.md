@@ -9,7 +9,7 @@ type: Legendary Land
 meta_presence: 0.0081
 archetypes:
   eldrazi-tron:
-    weight: 0.1281
+    weight: 0.1268
     avg_copies: 1.0
   mono-blue-tron:
     weight: 0.5556

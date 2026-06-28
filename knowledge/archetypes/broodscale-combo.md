@@ -3,7 +3,7 @@ colors:
 - R
 - G
 name: Broodscale Combo
-meta_share: 0.0391
+meta_share: 0.039
 list_count: 173
 top_cards:
 - name: Basking Broodscale
@@ -15,10 +15,10 @@ top_cards:
 - name: Glaring Fleshraker
   weight: 1.0
   avg_copies: 3.96
-- name: Urza's Saga
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 3.95
-- name: Kozilek's Command
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 3.95
 - name: Eldrazi Temple
@@ -222,52 +222,43 @@ top_cards:
 - name: Skateboard
   weight: 0.0116
   avg_copies: 1.0
-- name: Eldrazi Linebreaker
-  weight: 0.0058
-  avg_copies: 4.0
-- name: card:llanowar-wastes
-  weight: 0.0058
-  avg_copies: 4.0
 - name: Spire of Industry
   weight: 0.0058
   avg_copies: 4.0
 - name: Brushland
   weight: 0.0058
   avg_copies: 4.0
-- name: Sephiroth, Fabled SOLDIER
+- name: Eldrazi Linebreaker
   weight: 0.0058
-  avg_copies: 3.0
+  avg_copies: 4.0
+- name: card:llanowar-wastes
+  weight: 0.0058
+  avg_copies: 4.0
 - name: Path to Exile
-  weight: 0.0058
-  avg_copies: 3.0
-- name: Drowner of Truth
-  weight: 0.0058
-  avg_copies: 3.0
-- name: Formidable Speaker
-  weight: 0.0058
-  avg_copies: 3.0
-- name: Mox Opal
   weight: 0.0058
   avg_copies: 3.0
 - name: Thoughtseize
   weight: 0.0058
   avg_copies: 3.0
+- name: Formidable Speaker
+  weight: 0.0058
+  avg_copies: 3.0
+- name: Drowner of Truth
+  weight: 0.0058
+  avg_copies: 3.0
 - name: Darksteel Citadel
   weight: 0.0058
   avg_copies: 3.0
-- name: Culling Ritual
+- name: Sephiroth, Fabled SOLDIER
   weight: 0.0058
-  avg_copies: 2.0
-- name: Defense Grid
+  avg_copies: 3.0
+- name: Mox Opal
   weight: 0.0058
-  avg_copies: 2.0
-- name: Idol of False Gods
-  weight: 0.0058
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Heroic Intervention
   weight: 0.0058
   avg_copies: 2.0
-- name: Deafening Silence
+- name: Idol of False Gods
   weight: 0.0058
   avg_copies: 2.0
 - name: Fatal Push
@@ -276,46 +267,55 @@ top_cards:
 - name: Snakeskin Veil
   weight: 0.0058
   avg_copies: 2.0
-- name: Talisman of Impulse
+- name: Culling Ritual
+  weight: 0.0058
+  avg_copies: 2.0
+- name: Deafening Silence
   weight: 0.0058
   avg_copies: 2.0
 - name: Orim's Chant
   weight: 0.0058
   avg_copies: 2.0
-- name: The Mycosynth Gardens
+- name: Defense Grid
   weight: 0.0058
-  avg_copies: 1.0
-- name: Underground Mortuary
+  avg_copies: 2.0
+- name: Talisman of Impulse
   weight: 0.0058
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Mishra's Research Desk
-  weight: 0.0058
-  avg_copies: 1.0
-- name: Pawpatch Formation
-  weight: 0.0058
-  avg_copies: 1.0
-- name: Expedition Map
-  weight: 0.0058
-  avg_copies: 1.0
-- name: Disruptor Flute
-  weight: 0.0058
-  avg_copies: 1.0
-- name: Tunnel Ignus
-  weight: 0.0058
-  avg_copies: 1.0
-- name: Meltdown
-  weight: 0.0058
-  avg_copies: 1.0
-- name: Overgrown Tomb
   weight: 0.0058
   avg_copies: 1.0
 - name: Ghost Vacuum
   weight: 0.0058
   avg_copies: 1.0
-- name: Lightning Bolt
+- name: Yavimaya, Cradle of Growth
   weight: 0.0058
   avg_copies: 1.0
-- name: Yavimaya, Cradle of Growth
+- name: Overgrown Tomb
+  weight: 0.0058
+  avg_copies: 1.0
+- name: Tunnel Ignus
+  weight: 0.0058
+  avg_copies: 1.0
+- name: Pawpatch Formation
+  weight: 0.0058
+  avg_copies: 1.0
+- name: Underground Mortuary
+  weight: 0.0058
+  avg_copies: 1.0
+- name: Expedition Map
+  weight: 0.0058
+  avg_copies: 1.0
+- name: The Mycosynth Gardens
+  weight: 0.0058
+  avg_copies: 1.0
+- name: Disruptor Flute
+  weight: 0.0058
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 0.0058
+  avg_copies: 1.0
+- name: Lightning Bolt
   weight: 0.0058
   avg_copies: 1.0
 ---

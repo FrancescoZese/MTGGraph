@@ -11,8 +11,8 @@ type: Instant
 meta_presence: 0.0097
 archetypes:
   jeskai-energy:
-    weight: 0.2558
-    avg_copies: 1.29
+    weight: 0.2538
+    avg_copies: 1.28
   goryo:
     weight: 0.005
     avg_copies: 2.0

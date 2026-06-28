@@ -10,7 +10,7 @@ type: Creature — Merfolk Wizard
 meta_presence: 0.007
 archetypes:
   jeskai-energy:
-    weight: 0.0775
+    weight: 0.0769
     avg_copies: 1.5
   mono-blue-tron:
     weight: 0.2222
@@ -22,7 +22,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.62
   unknown-65:
-    weight: 0.1154
+    weight: 0.1111
     avg_copies: 2.33
   unknown-94:
     weight: 1.0

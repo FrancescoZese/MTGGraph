@@ -9,7 +9,7 @@ type: Artifact Creature — Insect
 meta_presence: 0.0809
 archetypes:
   eldrazi-tron:
-    weight: 0.1182
+    weight: 0.1171
     avg_copies: 1.0
   goryo:
     weight: 0.005

@@ -63,10 +63,10 @@ top_cards:
 - name: Formidable Speaker
   weight: 1.0
   avg_copies: 1.04
-- name: Swamp
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
-- name: Dryad Arbor
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Force of Vigor
@@ -111,10 +111,10 @@ top_cards:
 - name: Culling Ritual
   weight: 0.3731
   avg_copies: 1.04
-- name: Pile On
+- name: Scavenging Ooze
   weight: 0.2985
   avg_copies: 1.0
-- name: Scavenging Ooze
+- name: Pile On
   weight: 0.2985
   avg_copies: 1.0
 - name: Wooded Foothills
@@ -138,10 +138,10 @@ top_cards:
 - name: Kraul Harpooner
   weight: 0.1194
   avg_copies: 1.0
-- name: Murderous Cut
+- name: Essence Warden
   weight: 0.0896
   avg_copies: 1.0
-- name: Essence Warden
+- name: Murderous Cut
   weight: 0.0896
   avg_copies: 1.0
 - name: Chalice of the Void
@@ -153,19 +153,16 @@ top_cards:
 - name: Crime
   weight: 0.0448
   avg_copies: 1.0
-- name: Assassin's Trophy
+- name: Cankerbloom
   weight: 0.0299
   avg_copies: 1.0
-- name: Cankerbloom
+- name: Assassin's Trophy
   weight: 0.0299
   avg_copies: 1.0
 - name: card:wastewood-verge
   weight: 0.0149
   avg_copies: 2.0
-- name: Vicious Rivalry
-  weight: 0.0149
-  avg_copies: 1.0
-- name: Spore Frog
+- name: Collector Ouphe
   weight: 0.0149
   avg_copies: 1.0
 - name: card:mole-man-moloid-master
@@ -174,16 +171,19 @@ top_cards:
 - name: Sylvan Safekeeper
   weight: 0.0149
   avg_copies: 1.0
-- name: Shifting Woodland
+- name: Surgical Extraction
   weight: 0.0149
   avg_copies: 1.0
 - name: Nurturing Peatland
   weight: 0.0149
   avg_copies: 1.0
-- name: Collector Ouphe
+- name: Shifting Woodland
   weight: 0.0149
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Vicious Rivalry
+  weight: 0.0149
+  avg_copies: 1.0
+- name: Spore Frog
   weight: 0.0149
   avg_copies: 1.0
 - name: Creeping Corrosion

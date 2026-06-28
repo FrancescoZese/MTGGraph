@@ -5,19 +5,19 @@ name: 'Unknown #98'
 meta_share: 0.0014
 list_count: 6
 top_cards:
+- name: Shrapnel Blast
+  weight: 1.0
+  avg_copies: 4.0
 - name: Cori-Steel Cutter
+  weight: 1.0
+  avg_copies: 4.0
+- name: Galvanic Blast
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Experimental Synthesizer
-  weight: 1.0
-  avg_copies: 4.0
-- name: Galvanic Blast
-  weight: 1.0
-  avg_copies: 4.0
-- name: Shrapnel Blast
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
@@ -50,9 +50,6 @@ top_cards:
 - name: Shattering Spree
   weight: 1.0
   avg_copies: 1.67
-- name: Soul-Guide Lantern
-  weight: 1.0
-  avg_copies: 1.0
 - name: Sokenzan, Crucible of Defiance
   weight: 1.0
   avg_copies: 1.0
@@ -63,6 +60,9 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Grafdigger's Cage
+  weight: 1.0
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 1.0
 - name: Sundering Eruption
@@ -86,25 +86,25 @@ top_cards:
 - name: Pithing Needle
   weight: 0.5
   avg_copies: 1.0
-- name: Barbarian Ring
+- name: Legion Extruder
   weight: 0.3333
   avg_copies: 4.0
-- name: Legion Extruder
+- name: Barbarian Ring
   weight: 0.3333
   avg_copies: 4.0
 - name: Monastery Swiftspear
   weight: 0.3333
   avg_copies: 3.0
-- name: Tormod's Crypt
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Pyroclasm
   weight: 0.3333
   avg_copies: 1.0
-- name: Dragon's Rage Channeler
+- name: Tormod's Crypt
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Obsidian Charmaw
   weight: 0.1667
   avg_copies: 4.0
-- name: Obsidian Charmaw
+- name: Dragon's Rage Channeler
   weight: 0.1667
   avg_copies: 4.0
 - name: Unstable Amulet

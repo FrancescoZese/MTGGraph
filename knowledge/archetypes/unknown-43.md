@@ -8,7 +8,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 5.0
-- name: Emry, Lurker of the Loch
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mox Amber
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Opal
@@ -17,16 +20,10 @@ top_cards:
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
-- name: Mox Amber
+- name: Emry, Lurker of the Loch
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Agatha's Soul Cauldron
-  weight: 1.0
-  avg_copies: 3.0
-- name: Rona, Herald of Invasion
+- name: Sewer-veillance Cam
   weight: 1.0
   avg_copies: 3.0
 - name: Retraction Helix
@@ -35,22 +32,22 @@ top_cards:
 - name: Gran-Gran
   weight: 1.0
   avg_copies: 3.0
-- name: Sewer-veillance Cam
-  weight: 1.0
-  avg_copies: 3.0
 - name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 3.0
-- name: Metallic Rebuke
+- name: Agatha's Soul Cauldron
   weight: 1.0
-  avg_copies: 2.0
-- name: Otawara, Soaring City
+  avg_copies: 3.0
+- name: Rona, Herald of Invasion
   weight: 1.0
-  avg_copies: 2.0
-- name: Harbinger of the Seas
+  avg_copies: 3.0
+- name: Engineered Explosives
   weight: 1.0
   avg_copies: 2.0
 - name: Damping Sphere
+  weight: 1.0
+  avg_copies: 2.0
+- name: Kappa Cannoneer
   weight: 1.0
   avg_copies: 2.0
 - name: Erayo, Soratami Ascendant
@@ -59,7 +56,13 @@ top_cards:
 - name: Sai, Master Thopterist
   weight: 1.0
   avg_copies: 2.0
-- name: Kappa Cannoneer
+- name: Otawara, Soaring City
+  weight: 1.0
+  avg_copies: 2.0
+- name: Harbinger of the Seas
+  weight: 1.0
+  avg_copies: 2.0
+- name: Cephalid Coliseum
   weight: 1.0
   avg_copies: 2.0
 - name: Grinding Station
@@ -68,10 +71,7 @@ top_cards:
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 2.0
-- name: Cephalid Coliseum
-  weight: 1.0
-  avg_copies: 2.0
-- name: Engineered Explosives
+- name: Metallic Rebuke
   weight: 1.0
   avg_copies: 2.0
 - name: Krang, Master Mind
@@ -80,28 +80,28 @@ top_cards:
 - name: Welding Jar
   weight: 1.0
   avg_copies: 1.0
-- name: Aether Spellbomb
-  weight: 1.0
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 1.0
-  avg_copies: 1.0
-- name: Minamo, School at Water's Edge
-  weight: 1.0
-  avg_copies: 1.0
-- name: Lavaspur Boots
-  weight: 1.0
-  avg_copies: 1.0
-- name: Oboro, Palace in the Clouds
-  weight: 1.0
-  avg_copies: 1.0
-- name: Vexing Bauble
+- name: Springleaf Drum
   weight: 1.0
   avg_copies: 1.0
 - name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
-- name: Springleaf Drum
+- name: Aether Spellbomb
+  weight: 1.0
+  avg_copies: 1.0
+- name: Oboro, Palace in the Clouds
+  weight: 1.0
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 1.0
+  avg_copies: 1.0
+- name: Lavaspur Boots
+  weight: 1.0
+  avg_copies: 1.0
+- name: Vexing Bauble
+  weight: 1.0
+  avg_copies: 1.0
+- name: Minamo, School at Water's Edge
   weight: 1.0
   avg_copies: 1.0
 ---

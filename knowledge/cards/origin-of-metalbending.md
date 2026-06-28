@@ -7,7 +7,7 @@ name: Origin of Metalbending
 scryfall_id: 25749f9a-260d-4bdc-bd28-429c12faa4a5
 set: tla
 type: Instant — Lesson
-meta_presence: 0.0109
+meta_presence: 0.0108
 archetypes:
   domain-zoo:
     weight: 0.0096

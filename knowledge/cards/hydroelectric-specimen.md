@@ -6,7 +6,7 @@ name: Hydroelectric Specimen // Hydroelectric Laboratory
 scryfall_id: 8689ecd7-e9a6-458b-99d2-6dbaca527f00
 set: mh3
 type: Creature — Weird // Land
-meta_presence: 0.0163
+meta_presence: 0.0164
 archetypes:
   mono-blue-belcher:
     weight: 1.0
@@ -20,4 +20,7 @@ archetypes:
   unknown-113:
     weight: 0.5
     avg_copies: 3.0
+  unknown-164:
+    weight: 1.0
+    avg_copies: 2.0
 ---

@@ -10,7 +10,7 @@ type: Enchantment
 meta_presence: 0.0099
 archetypes:
   goryo:
-    weight: 0.0101
+    weight: 0.01
     avg_copies: 3.5
   mill:
     weight: 0.0345
@@ -43,7 +43,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-67:
-    weight: 0.1964
+    weight: 0.193
     avg_copies: 3.0
   unknown-74:
     weight: 1.0
@@ -52,7 +52,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.5556
+    weight: 0.5
     avg_copies: 3.2
   unknown-101:
     weight: 0.75

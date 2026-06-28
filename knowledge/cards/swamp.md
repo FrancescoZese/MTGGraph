@@ -6,16 +6,16 @@ name: Swamp
 scryfall_id: 51fe930f-2b5a-4b1e-9007-6ee74fb44715
 set: sos
 type: Basic Land — Swamp
-meta_presence: 0.2555
+meta_presence: 0.2559
 archetypes:
   dimir-control:
     weight: 0.9877
     avg_copies: 1.02
   eldrazi-tron:
-    weight: 0.7291
+    weight: 0.7317
     avg_copies: 1.06
   goryo:
-    weight: 0.9799
+    weight: 0.9801
     avg_copies: 1.02
   necrodominance:
     weight: 1.0
@@ -82,7 +82,7 @@ archetypes:
     avg_copies: 1.66
   goryo5:
     weight: 1.0
-    avg_copies: 3.92
+    avg_copies: 4.0
   goryo2:
     weight: 1.0
     avg_copies: 1.0
@@ -281,4 +281,7 @@ archetypes:
   unknown-162:
     weight: 1.0
     avg_copies: 9.0
+  unknown-165:
+    weight: 1.0
+    avg_copies: 1.0
 ---

@@ -27,10 +27,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.98
-- name: Hallowed Fountain
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 2.0
-- name: Meticulous Archive
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.0
 - name: Island
@@ -108,10 +108,10 @@ top_cards:
 - name: Steam Vents
   weight: 0.4138
   avg_copies: 1.0
-- name: Watery Grave
+- name: Geier Reach Sanitarium
   weight: 0.3966
   avg_copies: 1.0
-- name: Geier Reach Sanitarium
+- name: Watery Grave
   weight: 0.3966
   avg_copies: 1.0
 - name: Stock Up
@@ -201,55 +201,64 @@ top_cards:
 - name: Fire Magic
   weight: 0.0517
   avg_copies: 1.67
-- name: Suppression Ray
-  weight: 0.0345
-  avg_copies: 4.0
 - name: Thundertrap Trainer
   weight: 0.0345
   avg_copies: 4.0
-- name: Sacred Foundry
+- name: Suppression Ray
   weight: 0.0345
-  avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Vendilion Clique
-  weight: 0.0345
-  avg_copies: 1.0
+  avg_copies: 4.0
 - name: Mistrise Village
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Dress Down
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Wan Shi Tong, Librarian
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Celestial Colonnade
   weight: 0.0345
   avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.0345
   avg_copies: 1.0
+- name: Celestial Colonnade
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Dress Down
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Tamiyo, Inquisitive Student
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Wan Shi Tong, Librarian
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Vendilion Clique
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 0.0345
+  avg_copies: 1.0
 - name: Terminus
   weight: 0.0172
   avg_copies: 3.0
-- name: Pyroclasm
-  weight: 0.0172
-  avg_copies: 2.0
 - name: Wear
   weight: 0.0172
   avg_copies: 2.0
+- name: Pyroclasm
+  weight: 0.0172
+  avg_copies: 2.0
+- name: The Wandering Emperor
+  weight: 0.0172
+  avg_copies: 1.0
+- name: Get Lost
+  weight: 0.0172
+  avg_copies: 1.0
 - name: Commandeer
+  weight: 0.0172
+  avg_copies: 1.0
+- name: Strix Serenade
   weight: 0.0172
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
   weight: 0.0172
   avg_copies: 1.0
-- name: Hurkyl's Recall
+- name: Petrified Hamlet
   weight: 0.0172
   avg_copies: 1.0
-- name: Petrified Hamlet
+- name: Hurkyl's Recall
   weight: 0.0172
   avg_copies: 1.0
 - name: Snow-Covered Plains
@@ -258,16 +267,7 @@ top_cards:
 - name: Restless Anchorage
   weight: 0.0172
   avg_copies: 1.0
-- name: Get Lost
-  weight: 0.0172
-  avg_copies: 1.0
 - name: Meltdown
-  weight: 0.0172
-  avg_copies: 1.0
-- name: Strix Serenade
-  weight: 0.0172
-  avg_copies: 1.0
-- name: The Wandering Emperor
   weight: 0.0172
   avg_copies: 1.0
 ---

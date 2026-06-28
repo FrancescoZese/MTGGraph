@@ -7,10 +7,10 @@ name: Mardu Blink
 meta_share: 0.0054
 list_count: 24
 top_cards:
-- name: Overlord of the Balemurk
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
 - name: Phelia, Exuberant Shepherd
@@ -37,10 +37,10 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.08
-- name: Sacred Foundry
+- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
 - name: Elegant Parlor
@@ -49,10 +49,10 @@ top_cards:
 - name: Phlage, Titan of Fire's Fury
   weight: 0.9583
   avg_copies: 3.09
-- name: Arena of Glory
+- name: Wear
   weight: 0.9583
   avg_copies: 2.0
-- name: Wear
+- name: Arena of Glory
   weight: 0.9583
   avg_copies: 2.0
 - name: Shadowy Backstreet
@@ -136,13 +136,13 @@ top_cards:
 - name: Containment Priest
   weight: 0.1667
   avg_copies: 1.0
+- name: Snow-Covered Swamp
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Swamp
   weight: 0.1667
   avg_copies: 1.0
 - name: Ashiok, Dream Render
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Snow-Covered Swamp
   weight: 0.1667
   avg_copies: 1.0
 - name: Clarion Conqueror
@@ -160,25 +160,25 @@ top_cards:
 - name: Unholy Heat
   weight: 0.0417
   avg_copies: 3.0
+- name: Graveyard Trespasser
+  weight: 0.0417
+  avg_copies: 2.0
 - name: Magus of the Moon
   weight: 0.0417
   avg_copies: 2.0
 - name: The Legend of Roku
   weight: 0.0417
   avg_copies: 2.0
-- name: Graveyard Trespasser
-  weight: 0.0417
-  avg_copies: 2.0
 - name: Seasoned Pyromancer
   weight: 0.0417
   avg_copies: 2.0
+- name: Pest Control
+  weight: 0.0417
+  avg_copies: 1.0
 - name: Emptiness
   weight: 0.0417
   avg_copies: 1.0
 - name: Faerie Macabre
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Pest Control
   weight: 0.0417
   avg_copies: 1.0
 ---

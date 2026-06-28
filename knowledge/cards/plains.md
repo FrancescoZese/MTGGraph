@@ -12,13 +12,13 @@ archetypes:
     weight: 0.9789
     avg_copies: 1.82
   jeskai-energy:
-    weight: 0.8605
-    avg_copies: 1.61
+    weight: 0.8615
+    avg_copies: 1.62
   eldrazi-tron:
     weight: 0.0049
     avg_copies: 3.0
   goryo:
-    weight: 0.9899
+    weight: 0.99
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
@@ -235,8 +235,11 @@ archetypes:
     avg_copies: 1.0
   unknown-160:
     weight: 1.0
-    avg_copies: 1.83
+    avg_copies: 1.71
   unknown-159:
     weight: 1.0
     avg_copies: 3.0
+  unknown-163:
+    weight: 1.0
+    avg_copies: 2.0
 ---

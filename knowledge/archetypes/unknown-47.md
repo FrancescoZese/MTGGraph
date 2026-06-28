@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: 'Unknown #47'
-meta_share: 0.0129
+meta_share: 0.0128
 list_count: 57
 top_cards:
 - name: Psychic Frog
@@ -129,16 +129,16 @@ top_cards:
 - name: Damping Sphere
   weight: 0.1053
   avg_copies: 2.0
-- name: Murktide Regent
-  weight: 0.1053
-  avg_copies: 1.33
 - name: Ghost Vacuum
   weight: 0.1053
   avg_copies: 1.33
-- name: Hallowed Fountain
+- name: Murktide Regent
+  weight: 0.1053
+  avg_copies: 1.33
+- name: Meticulous Archive
   weight: 0.1053
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Hallowed Fountain
   weight: 0.1053
   avg_copies: 1.0
 - name: Pest Control
@@ -159,10 +159,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.0526
   avg_copies: 2.0
-- name: Spell Pierce
+- name: Requiting Hex
   weight: 0.0526
   avg_copies: 1.0
-- name: Requiting Hex
+- name: Spell Pierce
   weight: 0.0526
   avg_copies: 1.0
 - name: Flow State
@@ -174,10 +174,10 @@ top_cards:
 - name: Verdant Catacombs
   weight: 0.0351
   avg_copies: 1.5
-- name: Damnation
+- name: Snow-Covered Swamp
   weight: 0.0351
   avg_copies: 1.0
-- name: Snow-Covered Swamp
+- name: Damnation
   weight: 0.0351
   avg_copies: 1.0
 - name: Snow-Covered Island
@@ -192,28 +192,28 @@ top_cards:
 - name: Void Mirror
   weight: 0.0175
   avg_copies: 2.0
+- name: Fallen Shinobi
+  weight: 0.0175
+  avg_copies: 1.0
+- name: High Noon
+  weight: 0.0175
+  avg_copies: 1.0
+- name: River of Tears
+  weight: 0.0175
+  avg_copies: 1.0
+- name: Dreams of Steel and Oil
+  weight: 0.0175
+  avg_copies: 1.0
+- name: Snapcaster Mage
+  weight: 0.0175
+  avg_copies: 1.0
 - name: Strategic Betrayal
   weight: 0.0175
   avg_copies: 1.0
 - name: Umezawa's Jitte
   weight: 0.0175
   avg_copies: 1.0
-- name: Snapcaster Mage
-  weight: 0.0175
-  avg_copies: 1.0
-- name: Dreams of Steel and Oil
-  weight: 0.0175
-  avg_copies: 1.0
-- name: High Noon
-  weight: 0.0175
-  avg_copies: 1.0
 - name: Celestial Purge
-  weight: 0.0175
-  avg_copies: 1.0
-- name: Fallen Shinobi
-  weight: 0.0175
-  avg_copies: 1.0
-- name: River of Tears
   weight: 0.0175
   avg_copies: 1.0
 ---

@@ -7,22 +7,22 @@ name: 'Unknown #149'
 meta_share: 0.002
 list_count: 9
 top_cards:
+- name: Guide of Souls
+  weight: 1.0
+  avg_copies: 4.0
 - name: Quantum Riddler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
-- name: Ajani, Nacatl Pariah
-  weight: 1.0
-  avg_copies: 4.0
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Guide of Souls
-  weight: 1.0
-  avg_copies: 4.0
-- name: Arid Mesa
+- name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
@@ -55,16 +55,16 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.11
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Mountain
-  weight: 1.0
-  avg_copies: 1.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
 - name: Elegant Parlor
+  weight: 1.0
+  avg_copies: 1.0
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
 - name: Island
@@ -85,22 +85,22 @@ top_cards:
 - name: Lavinia, Azorius Renegade
   weight: 0.5556
   avg_copies: 2.0
-- name: Fable of the Mirror-Breaker
+- name: Orim's Chant
   weight: 0.5556
   avg_copies: 2.0
 - name: Sanctifier en-Vec
   weight: 0.5556
   avg_copies: 2.0
-- name: Orim's Chant
+- name: Fable of the Mirror-Breaker
   weight: 0.5556
   avg_copies: 2.0
 - name: Spell Pierce
   weight: 0.5556
   avg_copies: 1.2
-- name: Vandalblast
+- name: Meltdown
   weight: 0.5556
   avg_copies: 1.0
-- name: Meltdown
+- name: Vandalblast
   weight: 0.5556
   avg_copies: 1.0
 - name: Phelia, Exuberant Shepherd
@@ -121,13 +121,13 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.3333
   avg_copies: 2.0
-- name: Mystical Dispute
-  weight: 0.3333
-  avg_copies: 1.67
 - name: Wear
   weight: 0.3333
   avg_copies: 1.67
 - name: Surgical Extraction
+  weight: 0.3333
+  avg_copies: 1.67
+- name: Mystical Dispute
   weight: 0.3333
   avg_copies: 1.67
 - name: Rest in Peace

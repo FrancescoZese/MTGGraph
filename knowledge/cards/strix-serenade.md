@@ -16,7 +16,7 @@ archetypes:
     weight: 0.3971
     avg_copies: 1.12
   jeskai-energy:
-    weight: 0.7442
+    weight: 0.7385
     avg_copies: 1.5
   goryo:
     weight: 0.005
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.0172
     avg_copies: 1.0
   affinity:
-    weight: 0.1768
+    weight: 0.1788
     avg_copies: 1.14
   domain-zoo:
     weight: 0.0385

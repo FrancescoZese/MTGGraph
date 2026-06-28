@@ -7,7 +7,7 @@ name: Abhorrent Oculus
 scryfall_id: d2705b43-a94a-44c0-8740-82e0b296820c
 set: dsk
 type: Creature — Eye
-meta_presence: 0.0683
+meta_presence: 0.0682
 archetypes:
   living-end:
     weight: 0.0351
@@ -62,5 +62,5 @@ archetypes:
     avg_copies: 4.0
   unknown-139:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 3.33
 ---

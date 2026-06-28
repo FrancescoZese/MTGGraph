@@ -13,7 +13,7 @@ archetypes:
     weight: 0.8333
     avg_copies: 2.4
   jeskai-energy:
-    weight: 0.9767
+    weight: 0.9769
     avg_copies: 2.72
   jeskai-control:
     weight: 0.1471
@@ -88,13 +88,13 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-65:
-    weight: 0.7692
-    avg_copies: 3.1
+    weight: 0.7778
+    avg_copies: 3.05
   unknown-66:
     weight: 1.0
     avg_copies: 3.0
   unknown-67:
-    weight: 0.1607
+    weight: 0.1579
     avg_copies: 3.22
   unknown-68:
     weight: 0.5
@@ -112,8 +112,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-96:
-    weight: 0.2222
-    avg_copies: 3.0
+    weight: 0.3
+    avg_copies: 2.67
   unknown-90:
     weight: 1.0
     avg_copies: 2.0

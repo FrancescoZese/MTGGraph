@@ -6,7 +6,7 @@ colors:
 - R
 - G
 name: Domain Zoo
-meta_share: 0.0235
+meta_share: 0.0234
 list_count: 104
 top_cards:
 - name: Territorial Kavu
@@ -162,64 +162,61 @@ top_cards:
 - name: Strix Serenade
   weight: 0.0385
   avg_copies: 1.25
-- name: Sacred Foundry
-  weight: 0.0385
-  avg_copies: 1.0
 - name: Breeding Pool
   weight: 0.0385
   avg_copies: 1.0
 - name: Raucous Theater
   weight: 0.0385
   avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 0.0385
+  avg_copies: 1.0
 - name: Psychic Frog
   weight: 0.0288
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Bloodstained Mire
   weight: 0.0192
   avg_copies: 4.0
 - name: Tribal Flames
   weight: 0.0192
   avg_copies: 4.0
-- name: Bloodstained Mire
+- name: Marsh Flats
   weight: 0.0192
   avg_copies: 4.0
-- name: Practiced Offense
+- name: Nishoba Brawler
   weight: 0.0192
   avg_copies: 2.0
-- name: Nishoba Brawler
+- name: Practiced Offense
   weight: 0.0192
   avg_copies: 2.0
 - name: Prismatic Ending
   weight: 0.0192
   avg_copies: 1.5
-- name: Zagoth Triome
-  weight: 0.0192
-  avg_copies: 1.0
 - name: Does Machines
-  weight: 0.0192
-  avg_copies: 1.0
-- name: Kaito, Bane of Nightmares
   weight: 0.0192
   avg_copies: 1.0
 - name: Containment Priest
   weight: 0.0192
   avg_copies: 1.0
-- name: Overgrown Tomb
+- name: Xander's Lounge
   weight: 0.0192
   avg_copies: 1.0
-- name: Overlord of the Balemurk
+- name: Zagoth Triome
   weight: 0.0192
   avg_copies: 1.0
 - name: Elegant Parlor
   weight: 0.0192
   avg_copies: 1.0
-- name: Xander's Lounge
+- name: Overlord of the Balemurk
+  weight: 0.0192
+  avg_copies: 1.0
+- name: Overgrown Tomb
+  weight: 0.0192
+  avg_copies: 1.0
+- name: Kaito, Bane of Nightmares
   weight: 0.0192
   avg_copies: 1.0
 - name: Professor of Symbology
-  weight: 0.0096
-  avg_copies: 4.0
-- name: Archon of Cruelty
   weight: 0.0096
   avg_copies: 4.0
 - name: Persist
@@ -231,73 +228,76 @@ top_cards:
 - name: Aurora Awakener
   weight: 0.0096
   avg_copies: 4.0
+- name: Archon of Cruelty
+  weight: 0.0096
+  avg_copies: 4.0
 - name: Summoning Trap
   weight: 0.0096
   avg_copies: 3.0
-- name: Boros Charm
-  weight: 0.0096
-  avg_copies: 2.0
 - name: Drannith Magistrate
   weight: 0.0096
   avg_copies: 2.0
 - name: Mana Tithe
   weight: 0.0096
   avg_copies: 2.0
+- name: Boros Charm
+  weight: 0.0096
+  avg_copies: 2.0
 - name: No More Lies
   weight: 0.0096
   avg_copies: 2.0
-- name: Tormod's Crypt
-  weight: 0.0096
-  avg_copies: 1.0
-- name: Sacred Ground
-  weight: 0.0096
-  avg_copies: 1.0
-- name: Ruinous Waterbending
-  weight: 0.0096
-  avg_copies: 1.0
-- name: Dai Li Indoctrination
-  weight: 0.0096
-  avg_copies: 1.0
-- name: Glasspool Mimic
-  weight: 0.0096
-  avg_copies: 1.0
-- name: Decorum Dissertation
-  weight: 0.0096
-  avg_copies: 1.0
-- name: Origin of Metalbending
-  weight: 0.0096
-  avg_copies: 1.0
-- name: Chthonian Nightmare
-  weight: 0.0096
-  avg_copies: 1.0
-- name: Alpine Moon
-  weight: 0.0096
-  avg_copies: 1.0
-- name: Price of Freedom
-  weight: 0.0096
-  avg_copies: 1.0
-- name: Pest Control
-  weight: 0.0096
-  avg_copies: 1.0
 - name: Redirect Lightning
-  weight: 0.0096
-  avg_copies: 1.0
-- name: Boomerang Basics
-  weight: 0.0096
-  avg_copies: 1.0
-- name: Island
   weight: 0.0096
   avg_copies: 1.0
 - name: Abandon Attachments
   weight: 0.0096
   avg_copies: 1.0
-- name: Fire Magic
+- name: Island
+  weight: 0.0096
+  avg_copies: 1.0
+- name: Dai Li Indoctrination
+  weight: 0.0096
+  avg_copies: 1.0
+- name: Price of Freedom
+  weight: 0.0096
+  avg_copies: 1.0
+- name: Decorum Dissertation
+  weight: 0.0096
+  avg_copies: 1.0
+- name: Sacred Ground
+  weight: 0.0096
+  avg_copies: 1.0
+- name: Alpine Moon
   weight: 0.0096
   avg_copies: 1.0
 - name: Boromir, Warden of the Tower
   weight: 0.0096
   avg_copies: 1.0
+- name: Chthonian Nightmare
+  weight: 0.0096
+  avg_copies: 1.0
+- name: Ruinous Waterbending
+  weight: 0.0096
+  avg_copies: 1.0
 - name: Firebending Lesson
+  weight: 0.0096
+  avg_copies: 1.0
+- name: Pest Control
+  weight: 0.0096
+  avg_copies: 1.0
+- name: Origin of Metalbending
+  weight: 0.0096
+  avg_copies: 1.0
+- name: Fire Magic
+  weight: 0.0096
+  avg_copies: 1.0
+- name: Glasspool Mimic
+  weight: 0.0096
+  avg_copies: 1.0
+- name: Boomerang Basics
+  weight: 0.0096
+  avg_copies: 1.0
+- name: Tormod's Crypt
   weight: 0.0096
   avg_copies: 1.0
 ---

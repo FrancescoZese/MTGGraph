@@ -9,13 +9,13 @@ type: Land
 meta_presence: 0.2363
 archetypes:
   ruby-storm:
-    weight: 0.8768
+    weight: 0.8777
     avg_copies: 2.26
   dimir-control:
     weight: 0.358
     avg_copies: 1.34
   jeskai-energy:
-    weight: 0.9922
+    weight: 0.9923
     avg_copies: 3.04
   azorius-control:
     weight: 0.9483
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.9118
     avg_copies: 3.0
   affinity:
-    weight: 0.0631
+    weight: 0.063
     avg_copies: 2.04
   mill:
     weight: 0.4138
@@ -153,13 +153,13 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-65:
-    weight: 0.8462
-    avg_copies: 3.32
+    weight: 0.8519
+    avg_copies: 3.3
   unknown-66:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.3571
+    weight: 0.3509
     avg_copies: 1.0
   unknown-70:
     weight: 0.8333
@@ -254,4 +254,7 @@ archetypes:
   unknown-156:
     weight: 1.0
     avg_copies: 4.0
+  unknown-163:
+    weight: 1.0
+    avg_copies: 2.0
 ---

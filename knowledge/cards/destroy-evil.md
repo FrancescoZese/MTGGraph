@@ -13,6 +13,6 @@ archetypes:
     weight: 0.0193
     avg_copies: 1.18
   jeskai-energy:
-    weight: 0.0233
+    weight: 0.0231
     avg_copies: 1.0
 ---

@@ -8,25 +8,25 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 6.12
-- name: Master of the Pearl Trident
+- name: Lord of Atlantis
   weight: 1.0
   avg_copies: 4.0
-- name: Lord of Atlantis
+- name: Master of the Pearl Trident
   weight: 1.0
   avg_copies: 4.0
 - name: Tide Shaper
   weight: 1.0
   avg_copies: 3.88
-- name: Mutavault
+- name: Aether Vial
+  weight: 1.0
+  avg_copies: 3.5
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 3.5
 - name: Vodalian Hexcatcher
   weight: 1.0
   avg_copies: 3.5
-- name: Aether Vial
-  weight: 1.0
-  avg_copies: 3.5
-- name: Sink into Stupor
+- name: Mutavault
   weight: 1.0
   avg_copies: 3.5
 - name: Harbinger of the Seas
@@ -92,13 +92,13 @@ top_cards:
 - name: Mistcaller
   weight: 0.125
   avg_copies: 3.0
-- name: Spell Pierce
+- name: Glasspool Mimic
   weight: 0.125
   avg_copies: 2.0
 - name: Hurkyl's Recall
   weight: 0.125
   avg_copies: 2.0
-- name: Glasspool Mimic
+- name: Spell Pierce
   weight: 0.125
   avg_copies: 2.0
 - name: Gloomlake Verge

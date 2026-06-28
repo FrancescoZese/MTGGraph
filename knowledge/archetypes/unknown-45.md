@@ -6,13 +6,13 @@ name: 'Unknown #45'
 meta_share: 0.0043
 list_count: 19
 top_cards:
-- name: Eyetwitch
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
 - name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
-- name: Archon of Cruelty
+- name: Eyetwitch
   weight: 1.0
   avg_copies: 4.0
 - name: Swamp
@@ -42,13 +42,13 @@ top_cards:
 - name: Boggart Trawler
   weight: 1.0
   avg_copies: 1.84
+- name: Decorum Dissertation
+  weight: 1.0
+  avg_copies: 1.0
 - name: Ozai's Cruelty
   weight: 1.0
   avg_copies: 1.0
 - name: Ruinous Waterbending
-  weight: 1.0
-  avg_copies: 1.0
-- name: Decorum Dissertation
   weight: 1.0
   avg_copies: 1.0
 - name: Street Wraith
@@ -132,43 +132,43 @@ top_cards:
 - name: Redirect Lightning
   weight: 0.1053
   avg_copies: 1.0
-- name: Cling to Dust
+- name: Vexing Bauble
   weight: 0.1053
   avg_copies: 1.0
-- name: Vexing Bauble
+- name: Cling to Dust
   weight: 0.1053
   avg_copies: 1.0
 - name: Bloodstained Mire
   weight: 0.0526
   avg_copies: 4.0
-- name: Fatal Push
-  weight: 0.0526
-  avg_copies: 2.0
 - name: Nihil Spellbomb
   weight: 0.0526
   avg_copies: 2.0
 - name: Price of Freedom
   weight: 0.0526
   avg_copies: 2.0
+- name: Fatal Push
+  weight: 0.0526
+  avg_copies: 2.0
+- name: card:summon-bahamut
+  weight: 0.0526
+  avg_copies: 1.0
 - name: Improvisation Capstone
   weight: 0.0526
   avg_copies: 1.0
-- name: card:the-terminus-of-return
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Iroh's Demonstration
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Takenuma, Abandoned Mire
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Vampire Hexmage
+- name: Raucous Theater
   weight: 0.0526
   avg_copies: 1.0
 - name: card:hollow-marauder
   weight: 0.0526
   avg_copies: 1.0
 - name: Faerie Macabre
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Vampire Hexmage
+  weight: 0.0526
+  avg_copies: 1.0
+- name: card:the-terminus-of-return
   weight: 0.0526
   avg_copies: 1.0
 - name: Liliana, the Last Hope
@@ -180,10 +180,10 @@ top_cards:
 - name: Chthonian Nightmare
   weight: 0.0526
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Takenuma, Abandoned Mire
   weight: 0.0526
   avg_copies: 1.0
-- name: card:summon-bahamut
+- name: Iroh's Demonstration
   weight: 0.0526
   avg_copies: 1.0
 ---

@@ -66,16 +66,16 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.7857
   avg_copies: 2.27
-- name: Sacred Foundry
+- name: Jetmir's Garden
   weight: 0.7857
   avg_copies: 1.0
 - name: Xander's Lounge
   weight: 0.7857
   avg_copies: 1.0
-- name: Jetmir's Garden
+- name: Elegant Parlor
   weight: 0.7857
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Sacred Foundry
   weight: 0.7857
   avg_copies: 1.0
 - name: Surgical Extraction
@@ -102,10 +102,10 @@ top_cards:
 - name: Spell Snare
   weight: 0.5
   avg_copies: 1.86
-- name: Boseiju, Who Endures
+- name: Plains
   weight: 0.5
   avg_copies: 1.0
-- name: Plains
+- name: Boseiju, Who Endures
   weight: 0.5
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -153,10 +153,10 @@ top_cards:
 - name: Spell Pierce
   weight: 0.2143
   avg_copies: 1.4
-- name: Ziatora's Proving Ground
+- name: Valgavoth, Terror Eater
   weight: 0.2143
   avg_copies: 1.0
-- name: Valgavoth, Terror Eater
+- name: Ziatora's Proving Ground
   weight: 0.2143
   avg_copies: 1.0
 - name: Prismari Charm
@@ -165,19 +165,19 @@ top_cards:
 - name: Leyline of the Void
   weight: 0.1429
   avg_copies: 4.0
-- name: Abrupt Decay
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Prismari Command
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Emrakul, the Aeons Torn
   weight: 0.1429
   avg_copies: 1.0
 - name: Ketria Triome
   weight: 0.1429
   avg_copies: 1.0
+- name: Abrupt Decay
+  weight: 0.1429
+  avg_copies: 1.0
 - name: Commercial District
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Prismari Command
   weight: 0.1429
   avg_copies: 1.0
 - name: Nature's Claim
@@ -195,25 +195,25 @@ top_cards:
 - name: Brainsurge
   weight: 0.0714
   avg_copies: 1.0
-- name: Witherbloom Command
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Vampires' Vengeance
+- name: Rest in Peace
   weight: 0.0714
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Swamp
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Rest in Peace
   weight: 0.0714
   avg_copies: 1.0
 - name: Molten Collapse
   weight: 0.0714
   avg_copies: 1.0
 - name: Turn the Earth
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Witherbloom Command
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Vampires' Vengeance
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Swamp
   weight: 0.0714
   avg_copies: 1.0
 ---

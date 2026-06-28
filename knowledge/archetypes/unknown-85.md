@@ -9,13 +9,13 @@ name: 'Unknown #85'
 meta_share: 0.0023
 list_count: 10
 top_cards:
+- name: Territorial Kavu
+  weight: 1.0
+  avg_copies: 4.0
 - name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline Binding
-  weight: 1.0
-  avg_copies: 4.0
-- name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
@@ -60,10 +60,10 @@ top_cards:
 - name: Wear
   weight: 0.9
   avg_copies: 2.0
-- name: Sacred Foundry
+- name: Breeding Pool
   weight: 0.9
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Sacred Foundry
   weight: 0.9
   avg_copies: 1.0
 - name: Arid Mesa
@@ -72,10 +72,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.8
   avg_copies: 2.0
-- name: Mountain
+- name: Blood Crypt
   weight: 0.8
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Mountain
   weight: 0.8
   avg_copies: 1.0
 - name: Forest
@@ -84,10 +84,10 @@ top_cards:
 - name: Indatha Triome
   weight: 0.7
   avg_copies: 1.0
-- name: High Noon
+- name: Nihil Spellbomb
   weight: 0.6
   avg_copies: 2.0
-- name: Nihil Spellbomb
+- name: High Noon
   weight: 0.6
   avg_copies: 2.0
 - name: Thundering Falls
@@ -108,25 +108,25 @@ top_cards:
 - name: Plains
   weight: 0.3
   avg_copies: 1.0
+- name: Mana Tithe
+  weight: 0.2
+  avg_copies: 2.0
 - name: Quantum Riddler
   weight: 0.2
   avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.2
   avg_copies: 2.0
-- name: Mana Tithe
-  weight: 0.2
-  avg_copies: 2.0
 - name: Rest in Peace
   weight: 0.2
   avg_copies: 1.5
+- name: Savai Triome
+  weight: 0.2
+  avg_copies: 1.0
 - name: Overgrown Tomb
   weight: 0.2
   avg_copies: 1.0
 - name: Surgical Extraction
-  weight: 0.2
-  avg_copies: 1.0
-- name: Savai Triome
   weight: 0.2
   avg_copies: 1.0
 - name: Spell Queller
@@ -135,40 +135,43 @@ top_cards:
 - name: Force of Vigor
   weight: 0.1
   avg_copies: 3.0
-- name: Doorkeeper Thrull
+- name: Endurance
   weight: 0.1
   avg_copies: 2.0
-- name: Prismatic Ending
+- name: Doorkeeper Thrull
   weight: 0.1
   avg_copies: 2.0
 - name: Laelia, the Blade Reforged
   weight: 0.1
   avg_copies: 2.0
-- name: Fable of the Mirror-Breaker
+- name: Vexing Bauble
+  weight: 0.1
+  avg_copies: 2.0
+- name: Prismatic Ending
   weight: 0.1
   avg_copies: 2.0
 - name: Pick Your Poison
   weight: 0.1
   avg_copies: 2.0
-- name: Endurance
-  weight: 0.1
-  avg_copies: 2.0
-- name: Vexing Bauble
+- name: Fable of the Mirror-Breaker
   weight: 0.1
   avg_copies: 2.0
 - name: Rough
   weight: 0.1
   avg_copies: 2.0
-- name: Zagoth Triome
+- name: Hedge Maze
   weight: 0.1
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Xander's Lounge
   weight: 0.1
   avg_copies: 1.0
 - name: Island
   weight: 0.1
   avg_copies: 1.0
-- name: Lush Portico
+- name: Zagoth Triome
+  weight: 0.1
+  avg_copies: 1.0
+- name: Hidetsugu Consumes All
   weight: 0.1
   avg_copies: 1.0
 - name: Chalice of the Void
@@ -177,10 +180,7 @@ top_cards:
 - name: Pyroclasm
   weight: 0.1
   avg_copies: 1.0
-- name: Hidetsugu Consumes All
-  weight: 0.1
-  avg_copies: 1.0
-- name: Xander's Lounge
+- name: Lush Portico
   weight: 0.1
   avg_copies: 1.0
 ---

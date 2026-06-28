@@ -8,10 +8,13 @@ top_cards:
 - name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
-- name: Dragon's Rage Channeler
+- name: Boltwave
   weight: 1.0
   avg_copies: 4.0
-- name: Boltwave
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Monastery Swiftspear
   weight: 1.0
   avg_copies: 4.0
 - name: Lava Spike
@@ -20,22 +23,19 @@ top_cards:
 - name: Skewer the Critics
   weight: 1.0
   avg_copies: 4.0
-- name: Monastery Swiftspear
+- name: Lightning Bolt
+  weight: 1.0
+  avg_copies: 4.0
+- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Barbarian Ring
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Light Up the Stage
+- name: Lava Dart
   weight: 1.0
   avg_copies: 3.6
-- name: Lava Dart
+- name: Light Up the Stage
   weight: 1.0
   avg_copies: 3.6
 - name: Tormod's Crypt
@@ -71,43 +71,43 @@ top_cards:
 - name: Deflecting Palm
   weight: 0.6
   avg_copies: 1.67
-- name: Molten Rain
+- name: Snow-Covered Mountain
   weight: 0.4
   avg_copies: 4.0
-- name: Snow-Covered Mountain
+- name: Molten Rain
   weight: 0.4
   avg_copies: 4.0
 - name: Searing Blaze
   weight: 0.4
   avg_copies: 3.67
-- name: Wooded Foothills
+- name: Unholy Heat
   weight: 0.4
   avg_copies: 3.0
-- name: Unholy Heat
+- name: Wooded Foothills
   weight: 0.4
   avg_copies: 3.0
 - name: Obsidian Charmaw
   weight: 0.4
   avg_copies: 2.5
-- name: Sunbaked Canyon
+- name: Goblin Guide
   weight: 0.4
   avg_copies: 2.0
-- name: Goblin Guide
+- name: Sunbaked Canyon
   weight: 0.4
   avg_copies: 2.0
 - name: Ragavan, Nimble Pilferer
   weight: 0.4
   avg_copies: 1.0
-- name: Path to Exile
+- name: Boros Charm
   weight: 0.2
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Path to Exile
   weight: 0.2
   avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.2
   avg_copies: 2.0
-- name: Boros Charm
+- name: Vexing Bauble
   weight: 0.2
   avg_copies: 2.0
 ---

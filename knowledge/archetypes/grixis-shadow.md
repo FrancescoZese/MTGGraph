@@ -7,6 +7,15 @@ name: Grixis Shadow
 meta_share: 0.0009
 list_count: 4
 top_cards:
+- name: Bloodstained Mire
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
@@ -19,19 +28,10 @@ top_cards:
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
-- name: Bloodstained Mire
-  weight: 1.0
-  avg_copies: 4.0
-- name: Moonshadow
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 3.75
-- name: Scalding Tarn
+- name: Moonshadow
   weight: 1.0
   avg_copies: 3.75
 - name: Fatal Push
@@ -67,10 +67,10 @@ top_cards:
 - name: Expressive Iteration
   weight: 0.75
   avg_copies: 3.33
-- name: Meltdown
+- name: Pyroclasm
   weight: 0.75
   avg_copies: 2.0
-- name: Pyroclasm
+- name: Meltdown
   weight: 0.75
   avg_copies: 2.0
 - name: Flusterstorm
@@ -82,19 +82,19 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.5
   avg_copies: 1.5
-- name: Nethergoyf
+- name: Flow State
   weight: 0.25
   avg_copies: 4.0
-- name: Flow State
+- name: Nethergoyf
   weight: 0.25
   avg_copies: 4.0
 - name: Murktide Regent
   weight: 0.25
   avg_copies: 3.0
-- name: Damping Sphere
+- name: Fire Magic
   weight: 0.25
   avg_copies: 2.0
-- name: End of the Hunt
+- name: Dress Down
   weight: 0.25
   avg_copies: 2.0
 - name: Dauthi Voidwalker
@@ -103,22 +103,22 @@ top_cards:
 - name: Counterspell
   weight: 0.25
   avg_copies: 2.0
-- name: Fire Magic
+- name: Damping Sphere
   weight: 0.25
   avg_copies: 2.0
 - name: Abigale, Eloquent First-Year
   weight: 0.25
   avg_copies: 2.0
-- name: Dress Down
+- name: End of the Hunt
   weight: 0.25
   avg_copies: 2.0
-- name: Kaito, Bane of Nightmares
+- name: Undercity Sewers
   weight: 0.25
   avg_copies: 1.0
 - name: Force of Despair
   weight: 0.25
   avg_copies: 1.0
-- name: Undercity Sewers
+- name: Kaito, Bane of Nightmares
   weight: 0.25
   avg_copies: 1.0
 ---

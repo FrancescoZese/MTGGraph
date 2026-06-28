@@ -3,7 +3,7 @@ colors:
 - U
 - R
 name: Izzet Prowess
-meta_share: 0.0509
+meta_share: 0.0507
 list_count: 225
 top_cards:
 - name: Cori-Steel Cutter
@@ -180,10 +180,10 @@ top_cards:
 - name: Island
   weight: 0.0311
   avg_copies: 1.14
-- name: Accumulate Wisdom
+- name: End the Festivities
   weight: 0.0311
   avg_copies: 1.0
-- name: End the Festivities
+- name: Accumulate Wisdom
   weight: 0.0311
   avg_copies: 1.0
 - name: card:eddymurk-crab
@@ -195,19 +195,19 @@ top_cards:
 - name: Questing Druid
   weight: 0.0222
   avg_copies: 3.0
-- name: Blood Crypt
+- name: Redirect Lightning
   weight: 0.0222
   avg_copies: 1.0
-- name: Redirect Lightning
+- name: Blood Crypt
   weight: 0.0222
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.0222
   avg_copies: 1.0
-- name: Arclight Phoenix
+- name: Faithless Looting
   weight: 0.0178
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Arclight Phoenix
   weight: 0.0178
   avg_copies: 4.0
 - name: Thoughtseize
@@ -231,19 +231,19 @@ top_cards:
 - name: Alpine Moon
   weight: 0.0133
   avg_copies: 1.67
-- name: Invasive Surgery
+- name: True Ancestry
   weight: 0.0133
   avg_copies: 1.0
-- name: True Ancestry
+- name: Invasive Surgery
   weight: 0.0133
   avg_copies: 1.0
 - name: Manamorphose
   weight: 0.0089
   avg_copies: 4.0
-- name: Hurkyl's Recall
+- name: Legion Leadership
   weight: 0.0089
   avg_copies: 2.0
-- name: Legion Leadership
+- name: Hurkyl's Recall
   weight: 0.0089
   avg_copies: 2.0
 - name: Fatal Push
@@ -255,10 +255,10 @@ top_cards:
 - name: Jeskai Ascendancy
   weight: 0.0089
   avg_copies: 1.0
-- name: Teferi, Time Raveler
+- name: Light Up the Stage
   weight: 0.0089
   avg_copies: 1.0
-- name: Light Up the Stage
+- name: Flooded Strand
   weight: 0.0089
   avg_copies: 1.0
 - name: Celestial Purge
@@ -270,31 +270,37 @@ top_cards:
 - name: Polluted Delta
   weight: 0.0089
   avg_copies: 1.0
-- name: Flooded Strand
+- name: Teferi, Time Raveler
   weight: 0.0089
   avg_copies: 1.0
-- name: Fire-Brained Scheme
+- name: Searing Blaze
   weight: 0.0044
   avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
   weight: 0.0044
   avg_copies: 4.0
-- name: Searing Blaze
+- name: Fire-Brained Scheme
   weight: 0.0044
   avg_copies: 4.0
+- name: Traumatic Critique
+  weight: 0.0044
+  avg_copies: 3.0
 - name: Thraben Charm
   weight: 0.0044
   avg_copies: 3.0
 - name: Thing in the Ice
   weight: 0.0044
   avg_copies: 3.0
-- name: Traumatic Critique
-  weight: 0.0044
-  avg_copies: 3.0
 - name: Subtlety
   weight: 0.0044
   avg_copies: 2.0
+- name: Bedlam Reveler
+  weight: 0.0044
+  avg_copies: 2.0
 - name: card:aether-gust
+  weight: 0.0044
+  avg_copies: 2.0
+- name: Siege Smash
   weight: 0.0044
   avg_copies: 2.0
 - name: Disruptor Flute
@@ -303,40 +309,13 @@ top_cards:
 - name: Kaito, Bane of Nightmares
   weight: 0.0044
   avg_copies: 2.0
-- name: Siege Smash
-  weight: 0.0044
-  avg_copies: 2.0
-- name: Bedlam Reveler
-  weight: 0.0044
-  avg_copies: 2.0
-- name: Shatterstorm
-  weight: 0.0044
-  avg_copies: 1.0
-- name: Shattering Spree
-  weight: 0.0044
-  avg_copies: 1.0
-- name: card:shore-up
-  weight: 0.0044
-  avg_copies: 1.0
-- name: Combustion Technique
-  weight: 0.0044
-  avg_copies: 1.0
-- name: The Legend of Roku
-  weight: 0.0044
-  avg_copies: 1.0
-- name: End of the Hunt
-  weight: 0.0044
-  avg_copies: 1.0
-- name: card:claim-the-firstborn
+- name: Return to Nature
   weight: 0.0044
   avg_copies: 1.0
 - name: Abandon Attachments
   weight: 0.0044
   avg_copies: 1.0
-- name: Lightning Axe
-  weight: 0.0044
-  avg_copies: 1.0
-- name: card:serum-visions
+- name: Shatterstorm
   weight: 0.0044
   avg_copies: 1.0
 - name: Grafdigger's Cage
@@ -345,34 +324,55 @@ top_cards:
 - name: card:seal-of-removal
   weight: 0.0044
   avg_copies: 1.0
-- name: Swan Song
+- name: card:claim-the-firstborn
   weight: 0.0044
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: card:serum-visions
   weight: 0.0044
   avg_copies: 1.0
-- name: Untimely Malfunction
-  weight: 0.0044
-  avg_copies: 1.0
-- name: Stern Scolding
-  weight: 0.0044
-  avg_copies: 1.0
-- name: Ral, Crackling Wit
+- name: Shattering Spree
   weight: 0.0044
   avg_copies: 1.0
 - name: Abrade
   weight: 0.0044
   avg_copies: 1.0
-- name: Return to Nature
+- name: Stern Scolding
   weight: 0.0044
   avg_copies: 1.0
-- name: Riverpyre Verge
+- name: Sink into Stupor
+  weight: 0.0044
+  avg_copies: 1.0
+- name: Swan Song
+  weight: 0.0044
+  avg_copies: 1.0
+- name: Lightning Axe
   weight: 0.0044
   avg_copies: 1.0
 - name: Natural State
   weight: 0.0044
   avg_copies: 1.0
-- name: Sink into Stupor
+- name: card:shore-up
+  weight: 0.0044
+  avg_copies: 1.0
+- name: The Legend of Roku
+  weight: 0.0044
+  avg_copies: 1.0
+- name: End of the Hunt
+  weight: 0.0044
+  avg_copies: 1.0
+- name: Untimely Malfunction
+  weight: 0.0044
+  avg_copies: 1.0
+- name: Ral, Crackling Wit
+  weight: 0.0044
+  avg_copies: 1.0
+- name: Combustion Technique
+  weight: 0.0044
+  avg_copies: 1.0
+- name: Otawara, Soaring City
+  weight: 0.0044
+  avg_copies: 1.0
+- name: Riverpyre Verge
   weight: 0.0044
   avg_copies: 1.0
 ---

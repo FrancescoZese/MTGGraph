@@ -7,7 +7,7 @@ name: Consign to Memory
 scryfall_id: bc95af55-d1dd-4fe6-adb0-3ad6db20d986
 set: mh3
 type: Instant
-meta_presence: 0.4633
+meta_presence: 0.4631
 archetypes:
   ruby-storm:
     weight: 0.0072
@@ -22,10 +22,10 @@ archetypes:
     weight: 1.0
     avg_copies: 3.17
   jeskai-energy:
-    weight: 0.9845
+    weight: 0.9846
     avg_copies: 3.79
   goryo:
-    weight: 0.9899
+    weight: 0.99
     avg_copies: 2.96
   necrodominance:
     weight: 0.0541
@@ -37,7 +37,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.5
   affinity:
-    weight: 0.9343
+    weight: 0.9345
     avg_copies: 2.46
   domain-zoo:
     weight: 0.9231
@@ -382,6 +382,12 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-156:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-163:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-164:
     weight: 1.0
     avg_copies: 4.0
 ---

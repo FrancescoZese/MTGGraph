@@ -10,13 +10,13 @@ type: Instant
 meta_presence: 0.0525
 archetypes:
   ruby-storm:
-    weight: 0.3623
+    weight: 0.3597
     avg_copies: 1.72
   dimir-control:
     weight: 0.2346
     avg_copies: 1.71
   jeskai-energy:
-    weight: 0.0078
+    weight: 0.0077
     avg_copies: 1.0
   amulet-titan:
     weight: 0.2791
@@ -115,8 +115,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-96:
-    weight: 0.2222
-    avg_copies: 1.0
+    weight: 0.3
+    avg_copies: 1.33
   unknown-100:
     weight: 0.5
     avg_copies: 1.0

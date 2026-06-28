@@ -17,7 +17,7 @@ archetypes:
     weight: 0.0364
     avg_copies: 2.0
   goryo5:
-    weight: 0.8333
+    weight: 0.7692
     avg_copies: 2.4
   unknown-4:
     weight: 1.0
