@@ -7,7 +7,7 @@ name: Temporal Mastery
 scryfall_id: 0f46a800-b443-461d-87e0-5587249a42d8
 set: inr
 type: Sorcery
-meta_presence: 0.0005
+meta_presence: 0.0004
 archetypes:
   mono-blue-tron:
     weight: 0.0556

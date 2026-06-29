@@ -6,16 +6,16 @@ name: Eldrazi Breach
 meta_share: 0.0009
 list_count: 4
 top_cards:
-- name: Emrakul, the Aeons Torn
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ugin's Labyrinth
+- name: Through the Breach
   weight: 1.0
   avg_copies: 4.0
 - name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
-- name: Through the Breach
+- name: Ugin's Labyrinth
+  weight: 1.0
+  avg_copies: 4.0
+- name: Emrakul, the Aeons Torn
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
@@ -45,10 +45,10 @@ top_cards:
 - name: Preordain
   weight: 0.75
   avg_copies: 2.67
-- name: Mystical Dispute
+- name: Disruptor Flute
   weight: 0.75
   avg_copies: 2.33
-- name: Disruptor Flute
+- name: Mystical Dispute
   weight: 0.75
   avg_copies: 2.33
 - name: Island
@@ -84,22 +84,22 @@ top_cards:
 - name: Spell Snare
   weight: 0.5
   avg_copies: 1.5
-- name: Thundering Falls
-  weight: 0.5
-  avg_copies: 1.0
 - name: Polluted Delta
-  weight: 0.5
-  avg_copies: 1.0
-- name: Dress Down
   weight: 0.5
   avg_copies: 1.0
 - name: Sink into Stupor
   weight: 0.5
   avg_copies: 1.0
-- name: Bloodstained Mire
+- name: Thundering Falls
+  weight: 0.5
+  avg_copies: 1.0
+- name: Dress Down
+  weight: 0.5
+  avg_copies: 1.0
+- name: Goryo's Vengeance
   weight: 0.25
   avg_copies: 4.0
-- name: Goryo's Vengeance
+- name: Bloodstained Mire
   weight: 0.25
   avg_copies: 4.0
 - name: Thoughtseize
@@ -111,25 +111,19 @@ top_cards:
 - name: Faithless Looting
   weight: 0.25
   avg_copies: 4.0
-- name: Fire Magic
+- name: Trinisphere
   weight: 0.25
   avg_copies: 3.0
-- name: Trinisphere
+- name: Fire Magic
   weight: 0.25
   avg_copies: 3.0
 - name: Void Mirror
   weight: 0.25
   avg_copies: 2.0
-- name: Talisman of Curiosity
-  weight: 0.25
-  avg_copies: 2.0
-- name: Unholy Heat
-  weight: 0.25
-  avg_copies: 2.0
-- name: Raucous Theater
-  weight: 0.25
-  avg_copies: 2.0
 - name: Remand
+  weight: 0.25
+  avg_copies: 2.0
+- name: Ashiok, Dream Render
   weight: 0.25
   avg_copies: 2.0
 - name: Blood Crypt
@@ -138,19 +132,25 @@ top_cards:
 - name: Meltdown
   weight: 0.25
   avg_copies: 2.0
+- name: Unholy Heat
+  weight: 0.25
+  avg_copies: 2.0
 - name: Fable of the Mirror-Breaker
   weight: 0.25
   avg_copies: 2.0
-- name: Ashiok, Dream Render
+- name: Raucous Theater
+  weight: 0.25
+  avg_copies: 2.0
+- name: Talisman of Curiosity
   weight: 0.25
   avg_copies: 2.0
 - name: Boseiju, Who Shelters All
   weight: 0.25
   avg_copies: 1.5
-- name: Swamp
+- name: Lórien Revealed
   weight: 0.25
   avg_copies: 1.0
-- name: Lórien Revealed
+- name: Swamp
   weight: 0.25
   avg_copies: 1.0
 ---

@@ -6,13 +6,13 @@ name: Steam Vents
 scryfall_id: b66daa94-d367-4812-9f18-f35378c1febb
 set: ecl
 type: Land — Island Mountain
-meta_presence: 0.3167
+meta_presence: 0.3169
 archetypes:
   ruby-storm:
-    weight: 0.1367
-    avg_copies: 1.21
+    weight: 0.1351
+    avg_copies: 1.2
   boros-energy:
-    weight: 0.0018
+    weight: 0.0017
     avg_copies: 1.0
   dimir-control:
     weight: 0.2716
@@ -21,20 +21,20 @@ archetypes:
     weight: 1.0
     avg_copies: 1.02
   azorius-control:
-    weight: 0.4138
+    weight: 0.4068
     avg_copies: 1.0
   living-end:
-    weight: 0.0351
+    weight: 0.0345
     avg_copies: 1.5
   jeskai-control:
     weight: 1.0
-    avg_copies: 1.21
+    avg_copies: 1.2
   affinity:
-    weight: 0.9773
-    avg_copies: 1.37
+    weight: 0.9781
+    avg_copies: 1.36
   domain-zoo:
     weight: 1.0
-    avg_copies: 1.7
+    avg_copies: 1.71
   mill:
     weight: 0.0345
     avg_copies: 1.0
@@ -42,7 +42,7 @@ archetypes:
     weight: 0.7778
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0533
+    weight: 0.0519
     avg_copies: 1.0
   izzet-prowess:
     weight: 1.0
@@ -54,7 +54,7 @@ archetypes:
     weight: 0.9286
     avg_copies: 1.0
   dredge:
-    weight: 0.9524
+    weight: 0.9545
     avg_copies: 1.95
   izzet-artifacts:
     weight: 0.9375
@@ -73,7 +73,7 @@ archetypes:
     avg_copies: 3.0
   goryo1:
     weight: 1.0
-    avg_copies: 1.04
+    avg_copies: 1.03
   grixis-control:
     weight: 1.0
     avg_copies: 1.5
@@ -97,7 +97,7 @@ archetypes:
     avg_copies: 2.8
   unknown-15:
     weight: 1.0
-    avg_copies: 1.88
+    avg_copies: 2.0
   unknown-16:
     weight: 1.0
     avg_copies: 1.0
@@ -177,7 +177,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-106:
-    weight: 0.25
+    weight: 0.2222
     avg_copies: 1.0
   unknown-109:
     weight: 0.8889
@@ -205,7 +205,7 @@ archetypes:
     avg_copies: 1.0
   unknown-122:
     weight: 1.0
-    avg_copies: 2.71
+    avg_copies: 2.8
   unknown-124:
     weight: 1.0
     avg_copies: 3.0
@@ -236,4 +236,7 @@ archetypes:
   unknown-156:
     weight: 1.0
     avg_copies: 4.0
+  unknown-166:
+    weight: 1.0
+    avg_copies: 2.0
 ---

@@ -5,22 +5,22 @@ colors:
 - R
 - G
 name: 'Unknown #96'
-meta_share: 0.0023
+meta_share: 0.0022
 list_count: 10
 top_cards:
-- name: Hollow One
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marauding Mako
-  weight: 1.0
-  avg_copies: 4.0
-- name: Faithless Looting
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Hardened Academic
   weight: 1.0
   avg_copies: 4.0
-- name: Street Wraith
+- name: Marauding Mako
+  weight: 1.0
+  avg_copies: 4.0
+- name: Hollow One
+  weight: 1.0
+  avg_copies: 4.0
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Bloodstained Mire
@@ -41,13 +41,13 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.8
+- name: Burning Inquiry
+  weight: 0.9
+  avg_copies: 4.0
 - name: Blazing Rootwalla
   weight: 0.9
   avg_copies: 4.0
 - name: Vengevine
-  weight: 0.9
-  avg_copies: 4.0
-- name: Burning Inquiry
   weight: 0.9
   avg_copies: 4.0
 - name: Wooded Foothills
@@ -71,10 +71,10 @@ top_cards:
 - name: Stomping Ground
   weight: 0.6
   avg_copies: 2.0
-- name: Leyline of the Void
+- name: Stony Silence
   weight: 0.5
   avg_copies: 3.2
-- name: Stony Silence
+- name: Leyline of the Void
   weight: 0.5
   avg_copies: 3.2
 - name: Blood Crypt
@@ -86,9 +86,6 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 0.3
   avg_copies: 2.67
-- name: Asmoranomardicadaistinaculdacar
-  weight: 0.3
-  avg_copies: 2.0
 - name: Lingering Souls
   weight: 0.3
   avg_copies: 2.0
@@ -96,6 +93,9 @@ top_cards:
   weight: 0.3
   avg_copies: 2.0
 - name: Seasoned Pyromancer
+  weight: 0.3
+  avg_copies: 2.0
+- name: Asmoranomardicadaistinaculdacar
   weight: 0.3
   avg_copies: 2.0
 - name: Fire Magic
@@ -119,31 +119,31 @@ top_cards:
 - name: Goblin Lore
   weight: 0.1
   avg_copies: 4.0
-- name: Thoughtseize
-  weight: 0.1
-  avg_copies: 3.0
-- name: Price of Freedom
+- name: Orim's Chant
   weight: 0.1
   avg_copies: 3.0
 - name: Marsh Flats
   weight: 0.1
   avg_copies: 3.0
-- name: Orim's Chant
+- name: Price of Freedom
   weight: 0.1
   avg_copies: 3.0
-- name: Magebane Lizard
+- name: Thoughtseize
   weight: 0.1
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Orcish Bowmasters
-  weight: 0.1
-  avg_copies: 2.0
-- name: Prismatic Ending
   weight: 0.1
   avg_copies: 2.0
 - name: Lava Dart
   weight: 0.1
   avg_copies: 2.0
+- name: Prismatic Ending
+  weight: 0.1
+  avg_copies: 2.0
 - name: Deafening Silence
+  weight: 0.1
+  avg_copies: 2.0
+- name: Magebane Lizard
   weight: 0.1
   avg_copies: 2.0
 - name: Arena of Glory

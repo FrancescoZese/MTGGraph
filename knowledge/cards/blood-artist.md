@@ -7,7 +7,7 @@ name: Blood Artist
 scryfall_id: b5275d76-2947-4219-be21-614c7421614a
 set: soc
 type: Creature — Vampire
-meta_presence: 0.0005
+meta_presence: 0.0004
 archetypes:
   unknown-102:
     weight: 1.0

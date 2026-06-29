@@ -5,7 +5,7 @@ colors:
 - R
 - G
 name: 'Unknown #67'
-meta_share: 0.0128
+meta_share: 0.0126
 list_count: 57
 top_cards:
 - name: Shardless Agent
@@ -14,10 +14,10 @@ top_cards:
 - name: Subtlety
   weight: 1.0
   avg_copies: 3.96
-- name: Force of Negation
+- name: Violent Outburst
   weight: 1.0
   avg_copies: 3.95
-- name: Violent Outburst
+- name: Force of Negation
   weight: 1.0
   avg_copies: 3.95
 - name: Street Wraith
@@ -50,13 +50,13 @@ top_cards:
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
 - name: Forest
   weight: 1.0
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Oliphaunt
@@ -137,16 +137,16 @@ top_cards:
 - name: Temple Garden
   weight: 0.193
   avg_copies: 1.0
-- name: Commandeer
-  weight: 0.1754
-  avg_copies: 1.4
 - name: Magebane Lizard
   weight: 0.1754
   avg_copies: 1.4
-- name: Vibrance
+- name: Commandeer
+  weight: 0.1754
+  avg_copies: 1.4
+- name: Hallowed Fountain
   weight: 0.1754
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Vibrance
   weight: 0.1754
   avg_copies: 1.0
 - name: Obsidian Charmaw
@@ -170,16 +170,16 @@ top_cards:
 - name: Flare of Denial
   weight: 0.0702
   avg_copies: 1.0
-- name: Mountain
-  weight: 0.0526
-  avg_copies: 1.0
 - name: Valakut Awakening
   weight: 0.0526
   avg_copies: 1.0
-- name: Press the Enemy
-  weight: 0.0351
+- name: Mountain
+  weight: 0.0526
   avg_copies: 1.0
 - name: Windcaller Aven
+  weight: 0.0351
+  avg_copies: 1.0
+- name: Press the Enemy
   weight: 0.0351
   avg_copies: 1.0
 - name: Flooded Grove
@@ -188,43 +188,43 @@ top_cards:
 - name: Overlord of the Balemurk
   weight: 0.0175
   avg_copies: 4.0
-- name: Architects of Will
-  weight: 0.0175
-  avg_copies: 3.0
 - name: Polluted Delta
   weight: 0.0175
   avg_copies: 3.0
 - name: Fulminator Mage
   weight: 0.0175
   avg_copies: 3.0
+- name: Architects of Will
+  weight: 0.0175
+  avg_copies: 3.0
+- name: Vendilion Clique
+  weight: 0.0175
+  avg_copies: 2.0
+- name: Culling Ritual
+  weight: 0.0175
+  avg_copies: 2.0
 - name: card:anger-of-the-gods
   weight: 0.0175
   avg_copies: 2.0
 - name: Bonecrusher Giant
   weight: 0.0175
   avg_copies: 2.0
-- name: Culling Ritual
-  weight: 0.0175
-  avg_copies: 2.0
-- name: Vendilion Clique
-  weight: 0.0175
-  avg_copies: 2.0
-- name: Collector Ouphe
+- name: Meticulous Archive
   weight: 0.0175
   avg_copies: 1.0
 - name: Brainsurge
   weight: 0.0175
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Collector Ouphe
   weight: 0.0175
   avg_copies: 1.0
-- name: Overgrown Tomb
+- name: Underground Mortuary
   weight: 0.0175
   avg_copies: 1.0
 - name: Harvester of Misery
   weight: 0.0175
   avg_copies: 1.0
-- name: Underground Mortuary
+- name: Overgrown Tomb
   weight: 0.0175
   avg_copies: 1.0
 ---

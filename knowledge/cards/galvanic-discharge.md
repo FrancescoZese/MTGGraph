@@ -7,7 +7,7 @@ name: Galvanic Discharge
 scryfall_id: 32aa6e33-221f-414c-9b51-850d97a7e051
 set: mh3
 type: Instant
-meta_presence: 0.2151
+meta_presence: 0.2142
 archetypes:
   boros-energy:
     weight: 0.9965
@@ -16,11 +16,11 @@ archetypes:
     weight: 0.8615
     avg_copies: 3.79
   azorius-control:
-    weight: 0.0517
+    weight: 0.0508
     avg_copies: 3.0
   jeskai-control:
-    weight: 0.9706
-    avg_copies: 3.76
+    weight: 0.9714
+    avg_copies: 3.74
   mardu-blink:
     weight: 0.75
     avg_copies: 4.0
@@ -97,12 +97,18 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-149:
-    weight: 0.4444
-    avg_copies: 2.25
+    weight: 0.5
+    avg_copies: 2.2
   unknown-157:
     weight: 1.0
     avg_copies: 3.0
   unknown-160:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-166:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-168:
     weight: 1.0
     avg_copies: 4.0
 ---

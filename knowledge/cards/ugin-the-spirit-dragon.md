@@ -6,12 +6,12 @@ name: Ugin, the Spirit Dragon
 scryfall_id: 9c017fa9-7021-417a-9c2e-3df409644fcf
 set: m21
 type: Legendary Planeswalker — Ugin
-meta_presence: 0.002
+meta_presence: 0.0022
 archetypes:
   eldrazi-tron:
-    weight: 0.039
+    weight: 0.0427
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.01
+    weight: 0.0099
     avg_copies: 1.0
 ---

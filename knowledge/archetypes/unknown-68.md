@@ -4,7 +4,7 @@ colors:
 - B
 - R
 name: 'Unknown #68'
-meta_share: 0.0068
+meta_share: 0.0066
 list_count: 30
 top_cards:
 - name: Guide of Souls
@@ -13,10 +13,10 @@ top_cards:
 - name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 3.8
-- name: Ajani, Nacatl Pariah
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 3.8
 - name: Arid Mesa
@@ -43,10 +43,10 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.03
-- name: Blood Crypt
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Shadowy Backstreet
@@ -55,10 +55,10 @@ top_cards:
 - name: Thoughtseize
   weight: 0.9667
   avg_copies: 2.44
-- name: Bloodstained Mire
+- name: Orcish Bowmasters
   weight: 0.9667
   avg_copies: 2.17
-- name: Orcish Bowmasters
+- name: Bloodstained Mire
   weight: 0.9667
   avg_copies: 2.17
 - name: Fatal Push

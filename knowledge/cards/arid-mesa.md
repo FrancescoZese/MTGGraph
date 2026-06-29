@@ -6,26 +6,26 @@ name: Arid Mesa
 scryfall_id: 25ac5405-df7b-4097-914a-022cb18e20d4
 set: mh2
 type: Land
-meta_presence: 0.3507
+meta_presence: 0.3503
 archetypes:
   ruby-storm:
-    weight: 0.8849
-    avg_copies: 2.5
+    weight: 0.8919
+    avg_copies: 2.51
   boros-energy:
     weight: 1.0
-    avg_copies: 3.82
+    avg_copies: 3.83
   jeskai-energy:
     weight: 0.9923
     avg_copies: 3.78
   azorius-control:
-    weight: 0.9483
+    weight: 0.9492
     avg_copies: 2.02
   jeskai-control:
-    weight: 0.9706
-    avg_copies: 3.55
+    weight: 0.9714
+    avg_copies: 3.56
   domain-zoo:
-    weight: 0.9808
-    avg_copies: 3.83
+    weight: 0.9813
+    avg_copies: 3.84
   burn:
     weight: 0.931
     avg_copies: 1.89
@@ -42,8 +42,8 @@ archetypes:
     weight: 0.0949
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.8178
-    avg_copies: 2.36
+    weight: 0.8194
+    avg_copies: 2.35
   indomitable-creativity:
     weight: 0.9286
     avg_copies: 3.77
@@ -51,11 +51,11 @@ archetypes:
     weight: 0.7778
     avg_copies: 2.71
   dredge:
-    weight: 0.9524
-    avg_copies: 3.2
+    weight: 0.9545
+    avg_copies: 3.19
   azorius-blink:
-    weight: 0.8125
-    avg_copies: 2.21
+    weight: 0.82
+    avg_copies: 2.22
   izzet-wizards:
     weight: 0.0909
     avg_copies: 1.0
@@ -174,7 +174,7 @@ archetypes:
     weight: 0.75
     avg_copies: 2.0
   unknown-106:
-    weight: 0.25
+    weight: 0.2222
     avg_copies: 1.0
   unknown-109:
     weight: 0.1111
@@ -195,8 +195,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-122:
-    weight: 0.7857
-    avg_copies: 2.18
+    weight: 0.8
+    avg_copies: 2.17
   unknown-123:
     weight: 1.0
     avg_copies: 2.0
@@ -225,11 +225,17 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-160:
-    weight: 0.1429
+    weight: 0.2143
     avg_copies: 1.0
   unknown-161:
     weight: 1.0
     avg_copies: 2.0
+  unknown-166:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-168:
+    weight: 1.0
+    avg_copies: 4.0
   unknown-163:
     weight: 1.0
     avg_copies: 1.0

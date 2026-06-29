@@ -6,6 +6,12 @@ name: 'Unknown #101'
 meta_share: 0.0009
 list_count: 4
 top_cards:
+- name: Detective's Phoenix
+  weight: 1.0
+  avg_copies: 4.0
+- name: Street Wraith
+  weight: 1.0
+  avg_copies: 4.0
 - name: Hollow One
   weight: 1.0
   avg_copies: 4.0
@@ -13,12 +19,6 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Faithless Looting
-  weight: 1.0
-  avg_copies: 4.0
-- name: Street Wraith
-  weight: 1.0
-  avg_copies: 4.0
-- name: Detective's Phoenix
   weight: 1.0
   avg_copies: 4.0
 - name: Arena of Glory
@@ -33,46 +33,46 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 2.75
-- name: Fear of Missing Out
-  weight: 1.0
-  avg_copies: 2.25
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.25
-- name: Scalding Tarn
+- name: Fear of Missing Out
+  weight: 1.0
+  avg_copies: 2.25
+- name: Tarfire
   weight: 1.0
   avg_copies: 2.0
-- name: Tarfire
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 2.0
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.25
+- name: Burning Inquiry
+  weight: 0.75
+  avg_copies: 4.0
 - name: Marauding Mako
   weight: 0.75
   avg_copies: 4.0
 - name: Leyline of the Void
   weight: 0.75
   avg_copies: 4.0
-- name: Burning Inquiry
-  weight: 0.75
-  avg_copies: 4.0
 - name: Damping Sphere
   weight: 0.75
   avg_copies: 3.67
-- name: Vexing Bauble
+- name: Dragon's Rage Channeler
   weight: 0.75
   avg_copies: 2.67
 - name: Lightning Bolt
   weight: 0.75
   avg_copies: 2.67
-- name: Dragon's Rage Channeler
+- name: Vexing Bauble
   weight: 0.75
   avg_copies: 2.67
-- name: Wooded Foothills
+- name: Arid Mesa
   weight: 0.75
   avg_copies: 2.0
-- name: Arid Mesa
+- name: Wooded Foothills
   weight: 0.75
   avg_copies: 2.0
 - name: Inti, Seneschal of the Sun
@@ -96,21 +96,18 @@ top_cards:
 - name: Thoughtseize
   weight: 0.25
   avg_copies: 4.0
-- name: Kroxa, Titan of Death's Hunger
-  weight: 0.25
-  avg_copies: 3.0
 - name: Surgical Extraction
   weight: 0.25
   avg_copies: 3.0
-- name: Wear
+- name: Kroxa, Titan of Death's Hunger
   weight: 0.25
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Obsidian Charmaw
   weight: 0.25
   avg_copies: 2.0
-- name: Sheoldred's Edict
+- name: Wear
   weight: 0.25
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Seal of Fire
   weight: 0.25
   avg_copies: 1.0
@@ -118,6 +115,9 @@ top_cards:
   weight: 0.25
   avg_copies: 1.0
 - name: Swamp
+  weight: 0.25
+  avg_copies: 1.0
+- name: Sheoldred's Edict
   weight: 0.25
   avg_copies: 1.0
 ---

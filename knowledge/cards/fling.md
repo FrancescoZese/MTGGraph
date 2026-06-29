@@ -10,6 +10,6 @@ type: Instant
 meta_presence: 0.0011
 archetypes:
   cosmogoyf-fling:
-    weight: 0.1852
+    weight: 0.1786
     avg_copies: 1.0
 ---

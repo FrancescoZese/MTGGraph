@@ -10,7 +10,7 @@ type: Creature — Bird Wizard
 meta_presence: 0.0009
 archetypes:
   living-end:
-    weight: 0.0351
+    weight: 0.0345
     avg_copies: 1.0
   unknown-67:
     weight: 0.0351

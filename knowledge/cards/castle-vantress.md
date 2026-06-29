@@ -6,7 +6,7 @@ name: Castle Vantress
 scryfall_id: dead85f7-865c-4f7d-ad6c-014d4e90f8be
 set: dsc
 type: Land
-meta_presence: 0.0005
+meta_presence: 0.0004
 archetypes:
   unknown-17:
     weight: 0.6667

@@ -6,22 +6,22 @@ name: Vexing Bauble
 scryfall_id: 29f11089-658f-42e6-aeb0-09b512ad2479
 set: mh3
 type: Artifact
-meta_presence: 0.3903
+meta_presence: 0.3911
 archetypes:
   ruby-storm:
-    weight: 0.1439
+    weight: 0.1351
     avg_copies: 1.81
   boros-energy:
-    weight: 0.5737
+    weight: 0.5767
     avg_copies: 1.65
   eldrazi-tron:
-    weight: 0.5805
+    weight: 0.5877
     avg_copies: 1.3
   amulet-titan:
-    weight: 0.7597
+    weight: 0.7615
     avg_copies: 1.3
   goryo:
-    weight: 0.005
+    weight: 0.0048
     avg_copies: 2.0
   hardened-scales:
     weight: 0.75
@@ -30,13 +30,13 @@ archetypes:
     weight: 0.027
     avg_copies: 2.0
   azorius-control:
-    weight: 0.1552
-    avg_copies: 1.89
+    weight: 0.1695
+    avg_copies: 1.9
   affinity:
-    weight: 0.7456
-    avg_copies: 1.09
+    weight: 0.7372
+    avg_copies: 1.08
   domain-zoo:
-    weight: 0.1058
+    weight: 0.1028
     avg_copies: 1.36
   mill:
     weight: 0.2069
@@ -66,35 +66,35 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.9403
-    avg_copies: 1.39
+    weight: 0.9412
+    avg_copies: 1.4
   eldrazi-ramp:
-    weight: 0.76
+    weight: 0.7525
     avg_copies: 1.86
   simic-ritual:
-    weight: 0.0133
+    weight: 0.013
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0533
+    weight: 0.0529
     avg_copies: 2.08
   esper-blink:
-    weight: 0.0247
+    weight: 0.0238
     avg_copies: 2.0
   samwise-combo:
     weight: 0.4545
     avg_copies: 1.84
   broodscale-combo:
-    weight: 0.9942
-    avg_copies: 1.75
+    weight: 0.9944
+    avg_copies: 1.74
   orzhov-blink:
     weight: 0.3333
     avg_copies: 1.33
   dredge:
-    weight: 0.619
-    avg_copies: 3.15
+    weight: 0.6364
+    avg_copies: 3.21
   azorius-blink:
-    weight: 0.1458
-    avg_copies: 1.57
+    weight: 0.16
+    avg_copies: 1.62
   izzet-artifacts:
     weight: 0.3438
     avg_copies: 1.0
@@ -114,7 +114,7 @@ archetypes:
     weight: 0.75
     avg_copies: 1.4
   grixis-shadow:
-    weight: 1.0
+    weight: 0.8
     avg_copies: 1.75
   rakdos-aggro:
     weight: 0.4118
@@ -135,8 +135,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.67
   goryo1:
-    weight: 0.7699
-    avg_copies: 1.8
+    weight: 0.7739
+    avg_copies: 1.81
   goryo4:
     weight: 0.7273
     avg_copies: 2.1
@@ -156,7 +156,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.4
   unknown-15:
-    weight: 0.125
+    weight: 0.2222
     avg_copies: 1.0
   unknown-21:
     weight: 1.0
@@ -189,7 +189,7 @@ archetypes:
     weight: 0.1053
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0526
+    weight: 0.0517
     avg_copies: 2.0
   unknown-50:
     weight: 1.0
@@ -279,7 +279,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-122:
-    weight: 0.0714
+    weight: 0.0667
     avg_copies: 2.0
   unknown-123:
     weight: 1.0
@@ -297,7 +297,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-149:
-    weight: 0.3333
+    weight: 0.3
     avg_copies: 2.0
   unknown-146:
     weight: 1.0
@@ -322,8 +322,14 @@ archetypes:
     avg_copies: 2.0
   unknown-160:
     weight: 0.7143
-    avg_copies: 1.2
+    avg_copies: 1.1
   unknown-159:
     weight: 1.0
     avg_copies: 3.0
+  unknown-167:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-168:
+    weight: 1.0
+    avg_copies: 2.0
 ---

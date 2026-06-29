@@ -6,10 +6,10 @@ name: Marsh Flats
 scryfall_id: 9db3ba6d-eb7f-4f5b-9a3b-c6239c3baa42
 set: mh2
 type: Land
-meta_presence: 0.2655
+meta_presence: 0.2639
 archetypes:
   boros-energy:
-    weight: 0.9684
+    weight: 0.9669
     avg_copies: 3.29
   dimir-control:
     weight: 0.3827
@@ -18,16 +18,16 @@ archetypes:
     weight: 0.0538
     avg_copies: 1.0
   goryo:
-    weight: 0.995
-    avg_copies: 3.33
+    weight: 0.9952
+    avg_copies: 3.34
   necrodominance:
     weight: 0.1622
     avg_copies: 1.17
   azorius-control:
-    weight: 0.2931
+    weight: 0.2881
     avg_copies: 1.82
   domain-zoo:
-    weight: 0.0192
+    weight: 0.0187
     avg_copies: 4.0
   reanimator:
     weight: 0.037
@@ -42,16 +42,16 @@ archetypes:
     weight: 0.2121
     avg_copies: 1.71
   simic-ritual:
-    weight: 0.0133
+    weight: 0.013
     avg_copies: 4.0
   esper-blink:
     weight: 1.0
-    avg_copies: 3.83
+    avg_copies: 3.82
   orzhov-blink:
     weight: 1.0
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.875
+    weight: 0.86
     avg_copies: 2.12
   rakdos-aggro:
     weight: 0.0588
@@ -66,11 +66,11 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   goryo1:
-    weight: 0.0088
+    weight: 0.0087
     avg_copies: 1.0
   goryo5:
-    weight: 0.6154
-    avg_copies: 2.38
+    weight: 0.6429
+    avg_copies: 2.33
   goryo2:
     weight: 1.0
     avg_copies: 4.0
@@ -105,8 +105,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.8772
-    avg_copies: 1.8
+    weight: 0.8793
+    avg_copies: 1.78
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
@@ -156,7 +156,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-106:
-    weight: 0.875
+    weight: 0.7778
     avg_copies: 1.43
   unknown-108:
     weight: 1.0
@@ -195,7 +195,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-149:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 2.0
   unknown-146:
     weight: 1.0
@@ -203,4 +203,7 @@ archetypes:
   unknown-154:
     weight: 1.0
     avg_copies: 2.0
+  unknown-168:
+    weight: 1.0
+    avg_copies: 3.0
 ---

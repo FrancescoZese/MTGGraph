@@ -7,16 +7,16 @@ name: Emeritus of Ideation // Ancestral Recall
 scryfall_id: 75961d36-acf6-425f-9698-0bf52af74f31
 set: sos
 type: Creature — Human Wizard // Instant
-meta_presence: 0.0023
+meta_presence: 0.0022
 archetypes:
   jeskai-control:
-    weight: 0.0294
+    weight: 0.0286
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0123
+    weight: 0.0119
     avg_copies: 1.0
   goryo1:
-    weight: 0.0531
+    weight: 0.0522
     avg_copies: 2.0
   unknown-5:
     weight: 0.3333

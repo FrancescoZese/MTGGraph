@@ -6,28 +6,28 @@ colors:
 - R
 - G
 name: 'Unknown #79'
-meta_share: 0.0014
+meta_share: 0.0013
 list_count: 6
 top_cards:
-- name: Wooded Foothills
-  weight: 1.0
-  avg_copies: 4.0
-- name: Leyline of the Guildpact
-  weight: 1.0
-  avg_copies: 4.0
 - name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
-- name: Scion of Draco
+- name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
+- name: Leyline of the Guildpact
+  weight: 1.0
+  avg_copies: 4.0
+- name: Scion of Draco
+  weight: 1.0
+  avg_copies: 4.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Ragavan, Nimble Pilferer
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline Binding
@@ -51,13 +51,13 @@ top_cards:
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.17
-- name: Indatha Triome
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
-- name: Temple Garden
+- name: Indatha Triome
   weight: 1.0
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -66,10 +66,10 @@ top_cards:
 - name: Subtlety
   weight: 0.8333
   avg_copies: 1.57
-- name: Breeding Pool
+- name: Arena of Glory
   weight: 0.8333
   avg_copies: 1.0
-- name: Arena of Glory
+- name: Breeding Pool
   weight: 0.8333
   avg_copies: 1.0
 - name: Island
@@ -84,16 +84,16 @@ top_cards:
 - name: Flooded Strand
   weight: 0.6667
   avg_copies: 4.0
-- name: Wrath of the Skies
+- name: Pick Your Poison
   weight: 0.6667
   avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.6667
   avg_copies: 2.0
-- name: Scalding Tarn
+- name: Wrath of the Skies
   weight: 0.6667
   avg_copies: 2.0
-- name: Pick Your Poison
+- name: Scalding Tarn
   weight: 0.6667
   avg_copies: 2.0
 - name: Hidetsugu Consumes All
@@ -114,16 +114,16 @@ top_cards:
 - name: Stubborn Denial
   weight: 0.3333
   avg_copies: 1.75
-- name: Overgrown Tomb
+- name: Blood Crypt
   weight: 0.3333
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Overgrown Tomb
   weight: 0.3333
   avg_copies: 1.0
 - name: Arid Mesa
   weight: 0.1667
   avg_copies: 3.0
-- name: Obsidian Charmaw
+- name: Drannith Magistrate
   weight: 0.1667
   avg_copies: 2.0
 - name: Vexing Bauble
@@ -132,22 +132,22 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 0.1667
   avg_copies: 2.0
-- name: Drannith Magistrate
+- name: Obsidian Charmaw
   weight: 0.1667
   avg_copies: 2.0
 - name: Surgical Extraction
+  weight: 0.1667
+  avg_copies: 1.0
+- name: High Noon
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Hallowed Fountain
   weight: 0.1667
   avg_copies: 1.0
 - name: Shatterstorm
   weight: 0.1667
   avg_copies: 1.0
 - name: Mountain
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 0.1667
-  avg_copies: 1.0
-- name: High Noon
   weight: 0.1667
   avg_copies: 1.0
 ---

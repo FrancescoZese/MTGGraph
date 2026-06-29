@@ -6,10 +6,10 @@ name: Hallowed Fountain
 scryfall_id: e056b55f-82ed-4fe0-ab0c-bb20fa4a218a
 set: ecl
 type: Land — Plains Island
-meta_presence: 0.166
+meta_presence: 0.1667
 archetypes:
   boros-energy:
-    weight: 0.0018
+    weight: 0.0017
     avg_copies: 2.0
   dimir-control:
     weight: 0.1605
@@ -18,19 +18,19 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo:
-    weight: 0.99
+    weight: 0.9903
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
     avg_copies: 2.0
   living-end:
-    weight: 0.2281
+    weight: 0.2241
     avg_copies: 1.0
   jeskai-control:
     weight: 1.0
-    avg_copies: 1.53
+    avg_copies: 1.54
   affinity:
-    weight: 0.005
+    weight: 0.0049
     avg_copies: 1.0
   mill:
     weight: 0.0345
@@ -39,7 +39,7 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0179
+    weight: 0.0175
     avg_copies: 1.0
   hammer-time:
     weight: 1.0
@@ -49,13 +49,13 @@ archetypes:
     avg_copies: 1.0
   esper-blink:
     weight: 1.0
-    avg_copies: 1.09
+    avg_copies: 1.1
   bant-control:
     weight: 1.0
     avg_copies: 1.0
   azorius-blink:
     weight: 1.0
-    avg_copies: 3.38
+    avg_copies: 3.36
   esper-control:
     weight: 1.0
     avg_copies: 2.0
@@ -93,7 +93,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-15:
-    weight: 0.125
+    weight: 0.1111
     avg_copies: 2.0
   unknown-16:
     weight: 1.0
@@ -105,7 +105,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.1053
+    weight: 0.1034
     avg_copies: 1.0
   unknown-56:
     weight: 1.0
@@ -193,8 +193,14 @@ archetypes:
     avg_copies: 1.0
   unknown-149:
     weight: 1.0
-    avg_copies: 1.11
+    avg_copies: 1.1
   unknown-158:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-166:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-169:
     weight: 1.0
     avg_copies: 2.0
   unknown-165:
@@ -203,4 +209,7 @@ archetypes:
   unknown-163:
     weight: 1.0
     avg_copies: 2.0
+  unknown-170:
+    weight: 1.0
+    avg_copies: 3.0
 ---

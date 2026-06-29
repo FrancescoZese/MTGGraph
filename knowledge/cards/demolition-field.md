@@ -6,7 +6,7 @@ name: Demolition Field
 scryfall_id: 0c7e51b6-4898-4632-b39c-3ce438caa882
 set: fdn
 type: Land
-meta_presence: 0.0381
+meta_presence: 0.0391
 archetypes:
   boros-ponza:
     weight: 0.9854
@@ -28,8 +28,11 @@ archetypes:
     avg_copies: 3.0
   unknown-160:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.64
   unknown-162:
     weight: 1.0
     avg_copies: 2.0
+  unknown-169:
+    weight: 1.0
+    avg_copies: 1.0
 ---

@@ -3,22 +3,22 @@ colors:
 - B
 - R
 name: Hollow One
-meta_share: 0.0074
+meta_share: 0.0073
 list_count: 33
 top_cards:
+- name: Street Wraith
+  weight: 1.0
+  avg_copies: 4.0
 - name: Hollow One
   weight: 1.0
   avg_copies: 4.0
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Street Wraith
-  weight: 1.0
-  avg_copies: 4.0
-- name: Detective's Phoenix
+- name: Burning Inquiry
   weight: 1.0
   avg_copies: 3.97
-- name: Burning Inquiry
+- name: Detective's Phoenix
   weight: 1.0
   avg_copies: 3.97
 - name: Bloodstained Mire
@@ -144,10 +144,10 @@ top_cards:
 - name: Blackcleave Cliffs
   weight: 0.0909
   avg_copies: 1.0
-- name: Sheoldred's Edict
+- name: Goblin Lore
   weight: 0.0606
   avg_copies: 2.0
-- name: Goblin Lore
+- name: Sheoldred's Edict
   weight: 0.0606
   avg_copies: 2.0
 - name: Blood Moon
@@ -156,22 +156,31 @@ top_cards:
 - name: Ox of Agonas
   weight: 0.0606
   avg_copies: 1.5
-- name: Violent Urge
+- name: Soul-Guide Lantern
   weight: 0.0606
   avg_copies: 1.0
 - name: Seal of Fire
   weight: 0.0606
   avg_copies: 1.0
-- name: Commercial District
+- name: Violent Urge
   weight: 0.0606
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Commercial District
   weight: 0.0606
   avg_copies: 1.0
 - name: Death's Shadow
   weight: 0.0303
   avg_copies: 4.0
+- name: Break the Ice
+  weight: 0.0303
+  avg_copies: 2.0
 - name: Cam and Farrik, Havoc Duo
+  weight: 0.0303
+  avg_copies: 2.0
+- name: Magus of the Moon
+  weight: 0.0303
+  avg_copies: 2.0
+- name: Ancient Grudge
   weight: 0.0303
   avg_copies: 2.0
 - name: Flameblade Adept
@@ -180,28 +189,19 @@ top_cards:
 - name: Rough
   weight: 0.0303
   avg_copies: 2.0
-- name: Magebane Lizard
-  weight: 0.0303
-  avg_copies: 2.0
 - name: Inti, Seneschal of the Sun
   weight: 0.0303
   avg_copies: 2.0
-- name: Magus of the Moon
-  weight: 0.0303
-  avg_copies: 2.0
-- name: Break the Ice
+- name: Magebane Lizard
   weight: 0.0303
   avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.0303
   avg_copies: 2.0
-- name: Ancient Grudge
-  weight: 0.0303
-  avg_copies: 2.0
-- name: Shattering Spree
+- name: Overlord of the Balemurk
   weight: 0.0303
   avg_copies: 1.0
-- name: Overlord of the Balemurk
+- name: Shattering Spree
   weight: 0.0303
   avg_copies: 1.0
 - name: Barbarian Ring

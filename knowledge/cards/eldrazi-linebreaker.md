@@ -9,7 +9,7 @@ type: Creature — Eldrazi
 meta_presence: 0.0027
 archetypes:
   broodscale-combo:
-    weight: 0.0058
+    weight: 0.0056
     avg_copies: 4.0
   goryo4:
     weight: 1.0

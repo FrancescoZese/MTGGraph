@@ -10,25 +10,25 @@ type: Sorcery
 meta_presence: 0.3529
 archetypes:
   boros-energy:
-    weight: 0.9737
+    weight: 0.9739
     avg_copies: 2.09
   jeskai-energy:
     weight: 0.9923
     avg_copies: 1.56
   eldrazi-tron:
-    weight: 0.0049
+    weight: 0.0047
     avg_copies: 2.0
   goryo:
-    weight: 0.9701
-    avg_copies: 2.31
+    weight: 0.9662
+    avg_copies: 2.33
   azorius-control:
-    weight: 0.9138
-    avg_copies: 1.8
+    weight: 0.9153
+    avg_copies: 1.81
   jeskai-control:
-    weight: 0.9706
-    avg_copies: 2.02
+    weight: 0.9714
+    avg_copies: 2.0
   domain-zoo:
-    weight: 0.9904
+    weight: 0.9907
     avg_copies: 2.18
   reanimator:
     weight: 0.037
@@ -44,7 +44,7 @@ archetypes:
     avg_copies: 2.0
   esper-blink:
     weight: 1.0
-    avg_copies: 2.45
+    avg_copies: 2.42
   orzhov-blink:
     weight: 1.0
     avg_copies: 2.7
@@ -52,8 +52,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.875
-    avg_copies: 2.64
+    weight: 0.88
+    avg_copies: 2.66
   bant-ritual:
     weight: 1.0
     avg_copies: 2.0
@@ -152,7 +152,7 @@ archetypes:
     avg_copies: 3.0
   unknown-106:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.93
   unknown-108:
     weight: 1.0
     avg_copies: 1.0
@@ -188,7 +188,7 @@ archetypes:
     avg_copies: 2.0
   unknown-149:
     weight: 1.0
-    avg_copies: 1.89
+    avg_copies: 1.9
   unknown-158:
     weight: 1.0
     avg_copies: 3.0
@@ -197,7 +197,16 @@ archetypes:
     avg_copies: 2.0
   unknown-160:
     weight: 1.0
-    avg_copies: 3.5
+    avg_copies: 3.73
+  unknown-166:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-169:
+    weight: 1.0
+    avg_copies: 1.5
+  unknown-168:
+    weight: 1.0
+    avg_copies: 2.0
   unknown-163:
     weight: 1.0
     avg_copies: 3.0

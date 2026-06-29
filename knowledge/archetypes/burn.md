@@ -3,13 +3,13 @@ colors:
 - W
 - R
 name: Burn
-meta_share: 0.0065
+meta_share: 0.0064
 list_count: 29
 top_cards:
-- name: Lava Spike
+- name: Boltwave
   weight: 1.0
   avg_copies: 4.0
-- name: Boltwave
+- name: Lava Spike
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
@@ -147,16 +147,16 @@ top_cards:
 - name: Magebane Lizard
   weight: 0.069
   avg_copies: 2.5
-- name: Path to Exile
-  weight: 0.069
-  avg_copies: 1.5
 - name: Orim's Chant
   weight: 0.069
   avg_copies: 1.5
-- name: Vexing Devil
+- name: Path to Exile
+  weight: 0.069
+  avg_copies: 1.5
+- name: Iridescent Vinelasher
   weight: 0.0345
   avg_copies: 4.0
-- name: Iridescent Vinelasher
+- name: Vexing Devil
   weight: 0.0345
   avg_copies: 4.0
 - name: Containment Priest
@@ -168,40 +168,40 @@ top_cards:
 - name: Relic of Progenitus
   weight: 0.0345
   avg_copies: 2.0
-- name: Nihil Spellbomb
+- name: Kor Firewalker
   weight: 0.0345
   avg_copies: 2.0
 - name: Blood Crypt
   weight: 0.0345
   avg_copies: 2.0
-- name: Kor Firewalker
+- name: Nihil Spellbomb
   weight: 0.0345
   avg_copies: 2.0
 - name: Void Mirror
   weight: 0.0345
   avg_copies: 1.0
+- name: Rain of Gore
+  weight: 0.0345
+  avg_copies: 1.0
 - name: Snow-Covered Mountain
+  weight: 0.0345
+  avg_copies: 1.0
+- name: card:volcanic-fallout
   weight: 0.0345
   avg_copies: 1.0
 - name: Blood Moon
   weight: 0.0345
   avg_copies: 1.0
-- name: Rain of Gore
+- name: Erode
   weight: 0.0345
   avg_copies: 1.0
 - name: Ensnaring Bridge
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Erode
   weight: 0.0345
   avg_copies: 1.0
 - name: Rakdos Charm
   weight: 0.0345
   avg_copies: 1.0
 - name: Deafening Silence
-  weight: 0.0345
-  avg_copies: 1.0
-- name: card:volcanic-fallout
   weight: 0.0345
   avg_copies: 1.0
 ---

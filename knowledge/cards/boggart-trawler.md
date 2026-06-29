@@ -18,10 +18,10 @@ archetypes:
     weight: 0.5833
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0133
+    weight: 0.013
     avg_copies: 1.0
   esper-blink:
-    weight: 0.9753
+    weight: 0.9762
     avg_copies: 1.0
   samwise-combo:
     weight: 0.1455
@@ -33,7 +33,7 @@ archetypes:
     weight: 0.0588
     avg_copies: 1.0
   goryo1:
-    weight: 0.0088
+    weight: 0.0087
     avg_copies: 1.0
   goryo5:
     weight: 1.0

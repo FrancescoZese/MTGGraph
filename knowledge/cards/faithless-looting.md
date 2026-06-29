@@ -7,10 +7,10 @@ name: Faithless Looting
 scryfall_id: fc019ffa-4461-4f3d-ab8d-e4d20e77ca0c
 set: soc
 type: Sorcery
-meta_presence: 0.0568
+meta_presence: 0.0563
 archetypes:
   domain-zoo:
-    weight: 0.0096
+    weight: 0.0093
     avg_copies: 4.0
   reanimator:
     weight: 0.8889
@@ -19,13 +19,13 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   izzet-prowess:
-    weight: 0.0178
+    weight: 0.0176
     avg_copies: 4.0
   indomitable-creativity:
     weight: 0.2143
     avg_copies: 4.0
   dredge:
-    weight: 0.9524
+    weight: 0.9545
     avg_copies: 4.0
   eldrazi-breach:
     weight: 0.25
@@ -34,7 +34,7 @@ archetypes:
     weight: 0.4706
     avg_copies: 2.38
   cosmogoyf-fling:
-    weight: 0.1111
+    weight: 0.1071
     avg_copies: 3.67
   naya-midrange:
     weight: 1.0

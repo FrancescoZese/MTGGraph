@@ -6,19 +6,19 @@ name: Tormod's Crypt
 scryfall_id: 752bf493-5839-47e8-95f2-6d8201907428
 set: dmr
 type: Artifact
-meta_presence: 0.1876
+meta_presence: 0.191
 archetypes:
   mono-blue-belcher:
     weight: 0.3235
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.9805
+    weight: 0.981
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.0078
+    weight: 0.0077
     avg_copies: 1.0
   goryo:
-    weight: 0.01
+    weight: 0.0097
     avg_copies: 1.0
   hardened-scales:
     weight: 0.5
@@ -27,7 +27,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.16
   domain-zoo:
-    weight: 0.0096
+    weight: 0.0093
     avg_copies: 1.0
   mono-blue-tron:
     weight: 0.1111
@@ -39,19 +39,19 @@ archetypes:
     weight: 0.1241
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.23
+    weight: 0.2277
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.4089
+    weight: 0.4097
     avg_copies: 1.66
   dredge:
-    weight: 0.0476
+    weight: 0.0455
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.4688
     avg_copies: 1.06
   goryo1:
-    weight: 0.0442
+    weight: 0.0435
     avg_copies: 1.4
   goryo7:
     weight: 1.0
@@ -60,8 +60,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-15:
-    weight: 0.625
-    avg_copies: 1.29
+    weight: 0.6667
+    avg_copies: 1.25
   unknown-21:
     weight: 1.0
     avg_copies: 1.0
@@ -96,8 +96,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-122:
-    weight: 0.4286
-    avg_copies: 1.83
+    weight: 0.4667
+    avg_copies: 1.86
   unknown-146:
     weight: 1.0
     avg_copies: 1.0
@@ -108,7 +108,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.8571
+    weight: 0.9286
     avg_copies: 1.0
   unknown-159:
     weight: 1.0
@@ -116,4 +116,10 @@ archetypes:
   unknown-162:
     weight: 1.0
     avg_copies: 1.0
+  unknown-167:
+    weight: 0.5
+    avg_copies: 1.0
+  unknown-168:
+    weight: 1.0
+    avg_copies: 3.0
 ---

@@ -7,7 +7,7 @@ name: Prosperous Innkeeper
 scryfall_id: 096d3c0c-98e2-4cfc-a6e1-fddb0359c63f
 set: afr
 type: Creature — Halfling Citizen
-meta_presence: 0.0005
+meta_presence: 0.0004
 archetypes:
   unknown-102:
     weight: 1.0

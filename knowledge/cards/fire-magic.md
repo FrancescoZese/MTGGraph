@@ -7,11 +7,11 @@ name: Fire Magic
 scryfall_id: 415ff6a5-61ef-4b37-ae08-e44476300d4a
 set: fin
 type: Instant
-meta_presence: 0.0525
+meta_presence: 0.0532
 archetypes:
   ruby-storm:
-    weight: 0.3597
-    avg_copies: 1.72
+    weight: 0.3784
+    avg_copies: 1.68
   dimir-control:
     weight: 0.2346
     avg_copies: 1.71
@@ -19,31 +19,31 @@ archetypes:
     weight: 0.0077
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.2791
+    weight: 0.2769
     avg_copies: 2.39
   azorius-control:
-    weight: 0.0517
+    weight: 0.0508
     avg_copies: 1.67
   jeskai-control:
-    weight: 0.4412
+    weight: 0.4286
     avg_copies: 1.47
   domain-zoo:
-    weight: 0.0096
+    weight: 0.0093
     avg_copies: 1.0
   boros-ponza:
     weight: 0.0803
     avg_copies: 1.69
   simic-ritual:
-    weight: 0.0267
+    weight: 0.026
     avg_copies: 2.5
   izzet-prowess:
-    weight: 0.04
+    weight: 0.0396
     avg_copies: 1.22
   broodscale-combo:
-    weight: 0.0231
+    weight: 0.0223
     avg_copies: 2.5
   dredge:
-    weight: 0.0476
+    weight: 0.0455
     avg_copies: 2.0
   izzet-artifacts:
     weight: 0.7188
@@ -58,7 +58,7 @@ archetypes:
     weight: 0.25
     avg_copies: 3.0
   grixis-shadow:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 2.0
   rakdos-aggro:
     weight: 0.0588
@@ -67,14 +67,14 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   cosmogoyf-fling:
-    weight: 0.1111
+    weight: 0.1071
     avg_copies: 2.33
   scapeshift-combo:
     weight: 0.1667
     avg_copies: 4.0
   goryo1:
-    weight: 0.0265
-    avg_copies: 1.67
+    weight: 0.0348
+    avg_copies: 1.5
   grixis-control:
     weight: 1.0
     avg_copies: 2.0
@@ -85,8 +85,8 @@ archetypes:
     weight: 0.4
     avg_copies: 1.0
   unknown-15:
-    weight: 0.75
-    avg_copies: 1.33
+    weight: 0.7778
+    avg_copies: 1.29
   unknown-25:
     weight: 1.0
     avg_copies: 2.0
@@ -130,7 +130,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-122:
-    weight: 0.0714
+    weight: 0.0667
     avg_copies: 1.0
   unknown-147:
     weight: 1.0

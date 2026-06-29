@@ -10,12 +10,12 @@ type: Enchantment
 meta_presence: 0.0011
 archetypes:
   boros-energy:
-    weight: 0.0018
+    weight: 0.0017
     avg_copies: 3.0
   domain-zoo:
-    weight: 0.0096
+    weight: 0.0093
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0133
+    weight: 0.0132
     avg_copies: 1.67
 ---

@@ -7,10 +7,10 @@ name: Foundation Breaker
 scryfall_id: d990b59f-2ad1-4224-9f1e-2574eadce1a3
 set: ecc
 type: Creature — Elemental
-meta_presence: 0.0164
+meta_presence: 0.0161
 archetypes:
   living-end:
-    weight: 0.7544
+    weight: 0.7414
     avg_copies: 1.74
   unknown-67:
     weight: 0.5263

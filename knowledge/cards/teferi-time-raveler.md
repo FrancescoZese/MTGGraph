@@ -8,10 +8,10 @@ name: Teferi, Time Raveler
 scryfall_id: 662fe50f-d75c-422c-8c6c-1f9b5c4ba21f
 set: rvr
 type: Legendary Planeswalker — Teferi
-meta_presence: 0.1437
+meta_presence: 0.1433
 archetypes:
   boros-energy:
-    weight: 0.0018
+    weight: 0.0017
     avg_copies: 2.0
   dimir-control:
     weight: 0.0494
@@ -20,19 +20,19 @@ archetypes:
     weight: 0.4615
     avg_copies: 1.22
   goryo:
-    weight: 0.7711
+    weight: 0.7585
     avg_copies: 1.23
   azorius-control:
     weight: 1.0
-    avg_copies: 3.42
+    avg_copies: 3.43
   living-end:
-    weight: 0.2456
+    weight: 0.2414
     avg_copies: 1.94
   jeskai-control:
-    weight: 0.7941
+    weight: 0.8
     avg_copies: 2.93
   domain-zoo:
-    weight: 0.6635
+    weight: 0.6542
     avg_copies: 1.09
   hammer-time:
     weight: 0.4444
@@ -41,20 +41,20 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   izzet-prowess:
-    weight: 0.0089
+    weight: 0.0088
     avg_copies: 1.0
   4c-omnath:
     weight: 0.5
     avg_copies: 2.67
   esper-blink:
-    weight: 0.9259
-    avg_copies: 1.71
+    weight: 0.9167
+    avg_copies: 1.68
   indomitable-creativity:
     weight: 0.7857
     avg_copies: 2.67
   azorius-blink:
-    weight: 0.6667
-    avg_copies: 1.67
+    weight: 0.66
+    avg_copies: 1.64
   esper-control:
     weight: 1.0
     avg_copies: 4.0
@@ -83,7 +83,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-15:
-    weight: 0.125
+    weight: 0.1111
     avg_copies: 2.0
   unknown-16:
     weight: 1.0
@@ -92,7 +92,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.5
   unknown-47:
-    weight: 0.0702
+    weight: 0.069
     avg_copies: 1.0
   unknown-48:
     weight: 1.0
@@ -144,7 +144,7 @@ archetypes:
     avg_copies: 2.0
   unknown-106:
     weight: 1.0
-    avg_copies: 2.88
+    avg_copies: 2.89
   unknown-108:
     weight: 1.0
     avg_copies: 1.0
@@ -181,6 +181,12 @@ archetypes:
   unknown-158:
     weight: 1.0
     avg_copies: 1.5
+  unknown-166:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-169:
+    weight: 1.0
+    avg_copies: 2.0
   unknown-163:
     weight: 1.0
     avg_copies: 4.0

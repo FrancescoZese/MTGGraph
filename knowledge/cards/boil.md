@@ -7,7 +7,7 @@ name: Boil
 scryfall_id: 15a0087c-4e0f-4547-b441-b5a517c00b91
 set: 8ed
 type: Instant
-meta_presence: 0.0005
+meta_presence: 0.0004
 archetypes:
   boros-ponza:
     weight: 0.0146

@@ -6,8 +6,8 @@ colors:
 - R
 - G
 name: Domain Zoo
-meta_share: 0.0234
-list_count: 104
+meta_share: 0.0236
+list_count: 107
 top_cards:
 - name: Territorial Kavu
   weight: 1.0
@@ -20,285 +20,285 @@ top_cards:
   avg_copies: 3.94
 - name: Lightning Bolt
   weight: 1.0
-  avg_copies: 3.9
+  avg_copies: 3.91
 - name: Wooded Foothills
   weight: 1.0
-  avg_copies: 3.72
+  avg_copies: 3.73
 - name: Steam Vents
   weight: 1.0
-  avg_copies: 1.7
+  avg_copies: 1.71
 - name: Plains
   weight: 1.0
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
-  weight: 0.9904
+  weight: 0.9907
   avg_copies: 3.93
 - name: Stubborn Denial
-  weight: 0.9904
-  avg_copies: 2.36
+  weight: 0.9907
+  avg_copies: 2.37
 - name: Wrath of the Skies
-  weight: 0.9904
+  weight: 0.9907
   avg_copies: 2.18
 - name: Leyline of the Guildpact
-  weight: 0.9808
+  weight: 0.9813
   avg_copies: 3.99
 - name: Flooded Strand
-  weight: 0.9808
+  weight: 0.9813
   avg_copies: 3.91
 - name: Arid Mesa
-  weight: 0.9808
-  avg_copies: 3.83
+  weight: 0.9813
+  avg_copies: 3.84
 - name: Wear
-  weight: 0.9808
+  weight: 0.9813
   avg_copies: 1.56
 - name: Temple Garden
-  weight: 0.9808
+  weight: 0.9813
   avg_copies: 1.0
 - name: Indatha Triome
-  weight: 0.9808
+  weight: 0.9813
   avg_copies: 1.0
 - name: Mystical Dispute
-  weight: 0.9615
-  avg_copies: 2.68
+  weight: 0.9626
+  avg_copies: 2.69
 - name: Arena of Glory
-  weight: 0.9615
+  weight: 0.9626
   avg_copies: 1.88
 - name: Mountain
-  weight: 0.9615
+  weight: 0.9626
   avg_copies: 1.0
 - name: Thundering Falls
-  weight: 0.9519
+  weight: 0.9533
   avg_copies: 1.0
 - name: Consign to Memory
-  weight: 0.9231
+  weight: 0.9159
   avg_copies: 2.06
 - name: Godless Shrine
-  weight: 0.8462
+  weight: 0.8411
   avg_copies: 1.0
 - name: Doorkeeper Thrull
-  weight: 0.6827
+  weight: 0.6822
   avg_copies: 3.79
 - name: Damping Sphere
-  weight: 0.6827
+  weight: 0.6636
   avg_copies: 1.65
 - name: Phlage, Titan of Fire's Fury
-  weight: 0.6731
+  weight: 0.6542
   avg_copies: 3.9
 - name: Teferi, Time Raveler
-  weight: 0.6635
+  weight: 0.6542
   avg_copies: 1.09
 - name: Nihil Spellbomb
-  weight: 0.5769
+  weight: 0.5607
   avg_copies: 1.18
 - name: Lush Portico
-  weight: 0.5577
+  weight: 0.5514
   avg_copies: 1.0
 - name: Obsidian Charmaw
-  weight: 0.5096
+  weight: 0.5234
   avg_copies: 1.98
 - name: Rough
-  weight: 0.4519
+  weight: 0.4393
   avg_copies: 1.83
 - name: Ashiok, Dream Render
-  weight: 0.4423
+  weight: 0.4299
   avg_copies: 1.33
 - name: High Noon
-  weight: 0.3462
-  avg_copies: 1.39
+  weight: 0.3645
+  avg_copies: 1.44
 - name: Path to Exile
-  weight: 0.3462
+  weight: 0.3364
   avg_copies: 1.0
 - name: Blood Crypt
-  weight: 0.2596
+  weight: 0.2617
   avg_copies: 1.0
 - name: Quantum Riddler
-  weight: 0.25
-  avg_copies: 3.7
+  weight: 0.2523
+  avg_copies: 3.71
+- name: Surgical Extraction
+  weight: 0.243
+  avg_copies: 1.23
 - name: The Legend of Roku
-  weight: 0.25
+  weight: 0.243
   avg_copies: 1.17
 - name: Phelia, Exuberant Shepherd
-  weight: 0.2308
+  weight: 0.2336
   avg_copies: 2.92
-- name: Surgical Extraction
-  weight: 0.2308
-  avg_copies: 1.21
 - name: Pyroclasm
-  weight: 0.1731
-  avg_copies: 1.06
-- name: Rest in Peace
-  weight: 0.1635
-  avg_copies: 1.24
+  weight: 0.1869
+  avg_copies: 1.05
 - name: Fable of the Mirror-Breaker
-  weight: 0.1538
-  avg_copies: 1.81
+  weight: 0.1682
+  avg_copies: 1.83
+- name: Rest in Peace
+  weight: 0.1682
+  avg_copies: 1.22
 - name: Winternight Stories
-  weight: 0.1538
+  weight: 0.1495
   avg_copies: 1.06
 - name: Celestial Purge
-  weight: 0.1346
+  weight: 0.1308
   avg_copies: 1.0
 - name: Vexing Bauble
-  weight: 0.1058
+  weight: 0.1028
   avg_copies: 1.36
 - name: Clarion Conqueror
-  weight: 0.1058
+  weight: 0.1028
   avg_copies: 1.09
 - name: Brotherhood's End
-  weight: 0.0865
+  weight: 0.0935
   avg_copies: 1.0
-- name: Orcish Bowmasters
-  weight: 0.0673
-  avg_copies: 2.43
 - name: Kroxa, Titan of Death's Hunger
-  weight: 0.0577
-  avg_copies: 2.67
-- name: Hidetsugu Consumes All
-  weight: 0.0481
+  weight: 0.0748
+  avg_copies: 2.75
+- name: Orcish Bowmasters
+  weight: 0.0654
+  avg_copies: 2.43
+- name: Raucous Theater
+  weight: 0.0561
   avg_copies: 1.0
 - name: Meltdown
-  weight: 0.0481
+  weight: 0.0467
+  avg_copies: 1.0
+- name: Hidetsugu Consumes All
+  weight: 0.0467
   avg_copies: 1.0
 - name: Strix Serenade
-  weight: 0.0385
+  weight: 0.0374
   avg_copies: 1.25
 - name: Breeding Pool
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Raucous Theater
-  weight: 0.0385
+  weight: 0.0374
   avg_copies: 1.0
 - name: Sacred Foundry
-  weight: 0.0385
+  weight: 0.0374
   avg_copies: 1.0
 - name: Psychic Frog
-  weight: 0.0288
+  weight: 0.028
+  avg_copies: 4.0
+- name: Pest Control
+  weight: 0.028
+  avg_copies: 1.0
+- name: Tribal Flames
+  weight: 0.0187
   avg_copies: 4.0
 - name: Bloodstained Mire
-  weight: 0.0192
-  avg_copies: 4.0
-- name: Tribal Flames
-  weight: 0.0192
+  weight: 0.0187
   avg_copies: 4.0
 - name: Marsh Flats
-  weight: 0.0192
+  weight: 0.0187
   avg_copies: 4.0
 - name: Nishoba Brawler
-  weight: 0.0192
+  weight: 0.0187
   avg_copies: 2.0
 - name: Practiced Offense
-  weight: 0.0192
+  weight: 0.0187
   avg_copies: 2.0
 - name: Prismatic Ending
-  weight: 0.0192
+  weight: 0.0187
   avg_copies: 1.5
-- name: Does Machines
-  weight: 0.0192
-  avg_copies: 1.0
-- name: Containment Priest
-  weight: 0.0192
-  avg_copies: 1.0
-- name: Xander's Lounge
-  weight: 0.0192
-  avg_copies: 1.0
-- name: Zagoth Triome
-  weight: 0.0192
-  avg_copies: 1.0
 - name: Elegant Parlor
-  weight: 0.0192
-  avg_copies: 1.0
-- name: Overlord of the Balemurk
-  weight: 0.0192
-  avg_copies: 1.0
-- name: Overgrown Tomb
-  weight: 0.0192
+  weight: 0.0187
   avg_copies: 1.0
 - name: Kaito, Bane of Nightmares
-  weight: 0.0192
+  weight: 0.0187
+  avg_copies: 1.0
+- name: Does Machines
+  weight: 0.0187
+  avg_copies: 1.0
+- name: Xander's Lounge
+  weight: 0.0187
+  avg_copies: 1.0
+- name: Overlord of the Balemurk
+  weight: 0.0187
+  avg_copies: 1.0
+- name: Containment Priest
+  weight: 0.0187
+  avg_copies: 1.0
+- name: Zagoth Triome
+  weight: 0.0187
+  avg_copies: 1.0
+- name: Overgrown Tomb
+  weight: 0.0187
   avg_copies: 1.0
 - name: Professor of Symbology
-  weight: 0.0096
-  avg_copies: 4.0
-- name: Persist
-  weight: 0.0096
-  avg_copies: 4.0
-- name: Faithless Looting
-  weight: 0.0096
-  avg_copies: 4.0
-- name: Aurora Awakener
-  weight: 0.0096
+  weight: 0.0093
   avg_copies: 4.0
 - name: Archon of Cruelty
-  weight: 0.0096
+  weight: 0.0093
+  avg_copies: 4.0
+- name: Faithless Looting
+  weight: 0.0093
+  avg_copies: 4.0
+- name: Aurora Awakener
+  weight: 0.0093
+  avg_copies: 4.0
+- name: Persist
+  weight: 0.0093
   avg_copies: 4.0
 - name: Summoning Trap
-  weight: 0.0096
+  weight: 0.0093
   avg_copies: 3.0
 - name: Drannith Magistrate
-  weight: 0.0096
+  weight: 0.0093
   avg_copies: 2.0
 - name: Mana Tithe
-  weight: 0.0096
+  weight: 0.0093
   avg_copies: 2.0
 - name: Boros Charm
-  weight: 0.0096
+  weight: 0.0093
   avg_copies: 2.0
 - name: No More Lies
-  weight: 0.0096
+  weight: 0.0093
   avg_copies: 2.0
-- name: Redirect Lightning
-  weight: 0.0096
-  avg_copies: 1.0
 - name: Abandon Attachments
-  weight: 0.0096
-  avg_copies: 1.0
-- name: Island
-  weight: 0.0096
-  avg_copies: 1.0
-- name: Dai Li Indoctrination
-  weight: 0.0096
-  avg_copies: 1.0
-- name: Price of Freedom
-  weight: 0.0096
-  avg_copies: 1.0
-- name: Decorum Dissertation
-  weight: 0.0096
-  avg_copies: 1.0
-- name: Sacred Ground
-  weight: 0.0096
-  avg_copies: 1.0
-- name: Alpine Moon
-  weight: 0.0096
-  avg_copies: 1.0
-- name: Boromir, Warden of the Tower
-  weight: 0.0096
-  avg_copies: 1.0
-- name: Chthonian Nightmare
-  weight: 0.0096
-  avg_copies: 1.0
-- name: Ruinous Waterbending
-  weight: 0.0096
-  avg_copies: 1.0
-- name: Firebending Lesson
-  weight: 0.0096
-  avg_copies: 1.0
-- name: Pest Control
-  weight: 0.0096
+  weight: 0.0093
   avg_copies: 1.0
 - name: Origin of Metalbending
-  weight: 0.0096
+  weight: 0.0093
   avg_copies: 1.0
 - name: Fire Magic
-  weight: 0.0096
+  weight: 0.0093
   avg_copies: 1.0
 - name: Glasspool Mimic
-  weight: 0.0096
+  weight: 0.0093
   avg_copies: 1.0
-- name: Boomerang Basics
-  weight: 0.0096
+- name: Sacred Ground
+  weight: 0.0093
   avg_copies: 1.0
 - name: Tormod's Crypt
-  weight: 0.0096
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Chthonian Nightmare
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Dai Li Indoctrination
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Island
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Redirect Lightning
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Decorum Dissertation
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Boomerang Basics
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Price of Freedom
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Boromir, Warden of the Tower
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Ruinous Waterbending
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Alpine Moon
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Firebending Lesson
+  weight: 0.0093
   avg_copies: 1.0
 ---
 Five-color aggro deck using Leyline of the Guildpact to power up domain cards like Scion of Draco and Leyline Binding while deploying efficient threats.

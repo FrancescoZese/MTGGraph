@@ -7,12 +7,12 @@ name: Jolted Awake
 scryfall_id: f773a79f-ad0f-45c9-bcf5-44ba5e992729
 set: mh3
 type: Sorcery
-meta_presence: 0.0005
+meta_presence: 0.0004
 archetypes:
   ruby-storm:
-    weight: 0.0072
+    weight: 0.0068
     avg_copies: 1.0
   boros-energy:
-    weight: 0.0018
+    weight: 0.0017
     avg_copies: 2.0
 ---

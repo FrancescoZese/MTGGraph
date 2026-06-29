@@ -4,16 +4,16 @@ colors:
 - U
 - R
 name: 'Unknown #70'
-meta_share: 0.0014
+meta_share: 0.0013
 list_count: 6
 top_cards:
-- name: Guide of Souls
+- name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 4.0
 - name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
-- name: Ajani, Nacatl Pariah
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
@@ -115,10 +115,10 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.3333
   avg_copies: 2.5
-- name: Ephemerate
+- name: Orim's Chant
   weight: 0.3333
   avg_copies: 2.0
-- name: Orim's Chant
+- name: Ephemerate
   weight: 0.3333
   avg_copies: 2.0
 - name: Fable of the Mirror-Breaker
@@ -133,13 +133,13 @@ top_cards:
 - name: Reprieve
   weight: 0.1667
   avg_copies: 2.0
-- name: Deafening Silence
-  weight: 0.1667
-  avg_copies: 2.0
 - name: Practiced Offense
   weight: 0.1667
   avg_copies: 2.0
-- name: Spell Pierce
+- name: Deafening Silence
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Soul-Guide Lantern
   weight: 0.1667
   avg_copies: 1.0
 - name: Strix Serenade
@@ -148,22 +148,22 @@ top_cards:
 - name: Magus of the Moon
   weight: 0.1667
   avg_copies: 1.0
-- name: Marsh Flats
+- name: Vandalblast
   weight: 0.1667
   avg_copies: 1.0
 - name: The Legend of Roku
   weight: 0.1667
   avg_copies: 1.0
+- name: Marsh Flats
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Boromir, Warden of the Tower
   weight: 0.1667
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Spell Pierce
   weight: 0.1667
   avg_copies: 1.0
 - name: Lightning Bolt
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Vandalblast
   weight: 0.1667
   avg_copies: 1.0
 ---

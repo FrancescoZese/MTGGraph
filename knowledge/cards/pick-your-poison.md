@@ -7,25 +7,25 @@ name: Pick Your Poison
 scryfall_id: f58cfb23-4d99-4133-bf4b-d7e7c7d17cea
 set: mkm
 type: Sorcery
-meta_presence: 0.0185
+meta_presence: 0.0183
 archetypes:
   necrodominance:
     weight: 0.027
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0133
+    weight: 0.013
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.1067
+    weight: 0.1057
     avg_copies: 1.92
   broodscale-combo:
-    weight: 0.2081
+    weight: 0.2011
     avg_copies: 1.86
   dredge:
-    weight: 0.2857
+    weight: 0.3182
     avg_copies: 2.0
   cosmogoyf-fling:
-    weight: 0.0741
+    weight: 0.0714
     avg_copies: 3.0
   the-rock:
     weight: 0.5

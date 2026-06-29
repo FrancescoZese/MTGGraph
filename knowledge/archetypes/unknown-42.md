@@ -17,9 +17,6 @@ top_cards:
 - name: Tide Shaper
   weight: 1.0
   avg_copies: 3.88
-- name: Aether Vial
-  weight: 1.0
-  avg_copies: 3.5
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 3.5
@@ -27,6 +24,9 @@ top_cards:
   weight: 1.0
   avg_copies: 3.5
 - name: Mutavault
+  weight: 1.0
+  avg_copies: 3.5
+- name: Aether Vial
   weight: 1.0
   avg_copies: 3.5
 - name: Harbinger of the Seas
@@ -92,10 +92,10 @@ top_cards:
 - name: Mistcaller
   weight: 0.125
   avg_copies: 3.0
-- name: Glasspool Mimic
+- name: Hurkyl's Recall
   weight: 0.125
   avg_copies: 2.0
-- name: Hurkyl's Recall
+- name: Glasspool Mimic
   weight: 0.125
   avg_copies: 2.0
 - name: Spell Pierce

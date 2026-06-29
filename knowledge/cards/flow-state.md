@@ -7,22 +7,22 @@ name: Flow State
 scryfall_id: 47d6093b-b1b6-4956-8bfd-02cce899f832
 set: sos
 type: Sorcery
-meta_presence: 0.0133
+meta_presence: 0.013
 archetypes:
   ruby-storm:
-    weight: 0.0288
+    weight: 0.027
     avg_copies: 3.75
   dimir-control:
     weight: 0.0617
     avg_copies: 3.6
   azorius-control:
-    weight: 0.1897
+    weight: 0.1864
     avg_copies: 1.91
   izzet-prowess:
-    weight: 0.0533
+    weight: 0.0529
     avg_copies: 2.17
   grixis-shadow:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 4.0
   izzet-splinter-twin:
     weight: 0.5
@@ -37,7 +37,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.67
   unknown-47:
-    weight: 0.0351
+    weight: 0.0345
     avg_copies: 3.0
   unknown-53:
     weight: 1.0
