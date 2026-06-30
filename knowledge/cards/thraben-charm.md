@@ -7,10 +7,10 @@ name: Thraben Charm
 scryfall_id: dd28a646-f38f-4cdf-948c-969cd979e5e6
 set: mh3
 type: Instant
-meta_presence: 0.1385
+meta_presence: 0.1378
 archetypes:
   boros-energy:
-    weight: 0.993
+    weight: 0.9931
     avg_copies: 2.34
   dimir-control:
     weight: 0.037
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.0044
     avg_copies: 3.0
   azorius-blink:
-    weight: 0.06
+    weight: 0.0588
     avg_copies: 1.0
   selesnya-midrange:
     weight: 1.0

@@ -10,6 +10,6 @@ type: Enchantment — Saga
 meta_presence: 0.0018
 archetypes:
   izzet-prowess:
-    weight: 0.0352
+    weight: 0.0349
     avg_copies: 1.88
 ---

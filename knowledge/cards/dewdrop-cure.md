@@ -10,6 +10,6 @@ type: Sorcery
 meta_presence: 0.0013
 archetypes:
   samwise-combo:
-    weight: 0.1091
+    weight: 0.1071
     avg_copies: 1.12
 ---

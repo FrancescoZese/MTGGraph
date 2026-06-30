@@ -10,6 +10,6 @@ type: Creature — Troll Warlock // Sorcery
 meta_presence: 0.0002
 archetypes:
   goryo1:
-    weight: 0.0087
+    weight: 0.0085
     avg_copies: 2.0
 ---

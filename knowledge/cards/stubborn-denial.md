@@ -11,7 +11,7 @@ meta_presence: 0.0289
 archetypes:
   domain-zoo:
     weight: 0.9907
-    avg_copies: 2.37
+    avg_copies: 2.38
   grixis-shadow:
     weight: 1.0
     avg_copies: 2.67

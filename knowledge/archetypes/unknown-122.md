@@ -6,19 +6,19 @@ name: 'Unknown #122'
 meta_share: 0.0033
 list_count: 15
 top_cards:
+- name: Dragon's Rage Channeler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lightning Bolt
+  weight: 1.0
+  avg_copies: 4.0
 - name: Preordain
   weight: 1.0
   avg_copies: 4.0
 - name: Lava Dart
   weight: 1.0
   avg_copies: 4.0
-- name: Dragon's Rage Channeler
-  weight: 1.0
-  avg_copies: 4.0
 - name: Cori-Steel Cutter
-  weight: 1.0
-  avg_copies: 4.0
-- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
@@ -72,10 +72,10 @@ top_cards:
 - name: Academic Dispute
   weight: 0.5333
   avg_copies: 4.0
-- name: Origin of Metalbending
+- name: Stomping Ground
   weight: 0.5333
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Origin of Metalbending
   weight: 0.5333
   avg_copies: 1.0
 - name: Firebending Lesson
@@ -114,10 +114,10 @@ top_cards:
 - name: Assault Strobe
   weight: 0.2
   avg_copies: 1.33
-- name: Soul-Guide Lantern
+- name: Spell Pierce
   weight: 0.2
   avg_copies: 1.0
-- name: Spell Pierce
+- name: Soul-Guide Lantern
   weight: 0.2
   avg_copies: 1.0
 - name: Experimental Synthesizer
@@ -141,19 +141,19 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.0667
   avg_copies: 2.0
-- name: Fire Magic
+- name: Price of Freedom
   weight: 0.0667
   avg_copies: 1.0
-- name: Iroh's Demonstration
+- name: Sacred Foundry
   weight: 0.0667
   avg_copies: 1.0
 - name: Octopus Form
   weight: 0.0667
   avg_copies: 1.0
-- name: Price of Freedom
+- name: Iroh's Demonstration
   weight: 0.0667
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Fire Magic
   weight: 0.0667
   avg_copies: 1.0
 ---

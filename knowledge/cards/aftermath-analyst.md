@@ -10,6 +10,6 @@ type: Creature — Elf Detective
 meta_presence: 0.0274
 archetypes:
   amulet-titan:
-    weight: 0.9538
+    weight: 0.9542
     avg_copies: 1.11
 ---

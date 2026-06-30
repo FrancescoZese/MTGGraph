@@ -13,13 +13,13 @@ archetypes:
     weight: 0.0172
     avg_copies: 2.0
   eldrazi-ramp:
-    weight: 0.7426
+    weight: 0.7451
     avg_copies: 2.0
   simic-ritual:
     weight: 0.1948
     avg_copies: 1.73
   samwise-combo:
-    weight: 0.0182
+    weight: 0.0179
     avg_copies: 2.0
   mono-green-ramp:
     weight: 0.1667
@@ -43,7 +43,7 @@ archetypes:
     weight: 0.1404
     avg_copies: 1.25
   unknown-88:
-    weight: 0.2143
+    weight: 0.2
     avg_copies: 2.0
   unknown-102:
     weight: 1.0

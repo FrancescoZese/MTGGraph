@@ -6,10 +6,16 @@ name: 'Unknown #80'
 meta_share: 0.0007
 list_count: 3
 top_cards:
-- name: Windswept Heath
+- name: Birthing Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Leonardo, Cutting Edge
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
@@ -21,60 +27,51 @@ top_cards:
 - name: White Orchid Phantom
   weight: 1.0
   avg_copies: 4.0
+- name: Windswept Heath
+  weight: 1.0
+  avg_copies: 4.0
 - name: Temple Garden
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ocelot Pride
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 4.0
-- name: Birthing Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Ranger-Captain of Eos
   weight: 1.0
   avg_copies: 3.67
-- name: Haliya, Guided by Light
-  weight: 1.0
-  avg_copies: 3.0
 - name: Plains
-  weight: 1.0
-  avg_copies: 3.0
-- name: Solitude
   weight: 1.0
   avg_copies: 3.0
 - name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 3.0
-- name: Boromir, Warden of the Tower
+- name: Solitude
   weight: 1.0
-  avg_copies: 2.67
+  avg_copies: 3.0
+- name: Haliya, Guided by Light
+  weight: 1.0
+  avg_copies: 3.0
 - name: Brightglass Gearhulk
   weight: 1.0
   avg_copies: 2.67
-- name: Gaddock Teeg
+- name: Boromir, Warden of the Tower
+  weight: 1.0
+  avg_copies: 2.67
+- name: Walking Ballista
   weight: 1.0
   avg_copies: 2.0
 - name: Lush Portico
   weight: 1.0
   avg_copies: 2.0
-- name: Walking Ballista
+- name: Idyllic Grange
+  weight: 1.0
+  avg_copies: 2.0
+- name: Gaddock Teeg
   weight: 1.0
   avg_copies: 2.0
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 2.0
-- name: Idyllic Grange
-  weight: 1.0
-  avg_copies: 2.0
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.0
-- name: Haywire Mite
-  weight: 1.0
-  avg_copies: 1.0
 - name: Heliod, Sun-Crowned
   weight: 1.0
   avg_copies: 1.0
@@ -85,6 +82,9 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Pithing Needle
+  weight: 1.0
+  avg_copies: 1.0
+- name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
 - name: Starfield Shepherd

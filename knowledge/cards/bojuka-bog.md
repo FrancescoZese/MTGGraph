@@ -12,13 +12,13 @@ archetypes:
     weight: 0.0047
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.9077
+    weight: 0.9084
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.8614
+    weight: 0.8627
     avg_copies: 1.03
   broodscale-combo:
-    weight: 0.0726
+    weight: 0.0722
     avg_copies: 1.0
   scapeshift-combo:
     weight: 0.3333

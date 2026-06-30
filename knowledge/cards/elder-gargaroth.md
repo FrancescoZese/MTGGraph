@@ -10,7 +10,7 @@ type: Creature — Beast
 meta_presence: 0.0031
 archetypes:
   amulet-titan:
-    weight: 0.0769
+    weight: 0.0763
     avg_copies: 1.1
   unknown-61:
     weight: 0.04

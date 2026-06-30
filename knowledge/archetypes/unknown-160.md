@@ -6,28 +6,28 @@ name: 'Unknown #160'
 meta_share: 0.0031
 list_count: 14
 top_cards:
-- name: Erode
-  weight: 1.0
-  avg_copies: 4.0
-- name: Field of Ruin
-  weight: 1.0
-  avg_copies: 4.0
 - name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
 - name: Price of Freedom
   weight: 1.0
   avg_copies: 4.0
+- name: Erode
+  weight: 1.0
+  avg_copies: 4.0
 - name: Cleansing Wildfire
+  weight: 1.0
+  avg_copies: 4.0
+- name: Field of Ruin
   weight: 1.0
   avg_copies: 4.0
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 3.73
-- name: Solitude
+- name: Demolition Field
   weight: 1.0
   avg_copies: 3.64
-- name: Demolition Field
+- name: Solitude
   weight: 1.0
   avg_copies: 3.64
 - name: Path to Exile
@@ -57,10 +57,10 @@ top_cards:
 - name: Reprieve
   weight: 0.9286
   avg_copies: 2.15
-- name: Liquimetal Coating
+- name: Ensnaring Bridge
   weight: 0.9286
   avg_copies: 1.0
-- name: Ensnaring Bridge
+- name: Liquimetal Coating
   weight: 0.9286
   avg_copies: 1.0
 - name: Tormod's Crypt
@@ -99,10 +99,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.2857
   avg_copies: 1.75
-- name: Trinisphere
+- name: Portable Hole
   weight: 0.2857
   avg_copies: 1.0
-- name: Portable Hole
+- name: Trinisphere
   weight: 0.2857
   avg_copies: 1.0
 - name: Relic of Progenitus
@@ -129,28 +129,28 @@ top_cards:
 - name: Disruptor Flute
   weight: 0.0714
   avg_copies: 1.0
-- name: Stormbreath Dragon
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Sacred Ground
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Wrath of God
-  weight: 0.0714
-  avg_copies: 1.0
 - name: Flashback
   weight: 0.0714
   avg_copies: 1.0
 - name: Crucible of Worlds
   weight: 0.0714
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Sacred Ground
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Ark of Hunger
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Stormbreath Dragon
   weight: 0.0714
   avg_copies: 1.0
 - name: Wear
   weight: 0.0714
   avg_copies: 1.0
-- name: Ark of Hunger
+- name: Grafdigger's Cage
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Wrath of God
   weight: 0.0714
   avg_copies: 1.0
 ---

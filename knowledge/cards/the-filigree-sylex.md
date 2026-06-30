@@ -6,10 +6,10 @@ name: The Filigree Sylex
 scryfall_id: 6e0958a1-1bac-48be-888d-f7573f409a9b
 set: one
 type: Legendary Artifact
-meta_presence: 0.0311
+meta_presence: 0.0309
 archetypes:
   eldrazi-tron:
-    weight: 0.6588
+    weight: 0.6557
     avg_copies: 1.0
   necrodominance:
     weight: 0.0541

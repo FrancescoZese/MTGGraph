@@ -6,11 +6,11 @@ name: Steam Vents
 scryfall_id: b66daa94-d367-4812-9f18-f35378c1febb
 set: ecl
 type: Land — Island Mountain
-meta_presence: 0.3169
+meta_presence: 0.3172
 archetypes:
   ruby-storm:
-    weight: 0.1351
-    avg_copies: 1.2
+    weight: 0.14
+    avg_copies: 1.19
   boros-energy:
     weight: 0.0017
     avg_copies: 1.0
@@ -21,7 +21,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.02
   azorius-control:
-    weight: 0.4068
+    weight: 0.4262
     avg_copies: 1.0
   living-end:
     weight: 0.0345
@@ -30,7 +30,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.2
   affinity:
-    weight: 0.9781
+    weight: 0.9783
     avg_copies: 1.36
   domain-zoo:
     weight: 1.0
@@ -239,4 +239,7 @@ archetypes:
   unknown-166:
     weight: 1.0
     avg_copies: 2.0
+  unknown-171:
+    weight: 1.0
+    avg_copies: 3.0
 ---

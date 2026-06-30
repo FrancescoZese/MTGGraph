@@ -8,10 +8,10 @@ name: Gaddock Teeg
 scryfall_id: f40cfba1-08b5-4241-bd36-8ae18e584557
 set: uma
 type: Legendary Creature — Kithkin Advisor
-meta_presence: 0.0144
+meta_presence: 0.0147
 archetypes:
   samwise-combo:
-    weight: 0.8182
+    weight: 0.8214
     avg_copies: 1.0
   selesnya-midrange:
     weight: 1.0
@@ -20,8 +20,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-88:
-    weight: 0.9286
-    avg_copies: 1.0
+    weight: 0.9333
+    avg_copies: 1.07
   unknown-138:
     weight: 1.0
     avg_copies: 3.0

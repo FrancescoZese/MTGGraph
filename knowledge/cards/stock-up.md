@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.0322
 archetypes:
   ruby-storm:
-    weight: 0.0135
+    weight: 0.0133
     avg_copies: 3.0
   mono-blue-belcher:
     weight: 0.2941
@@ -19,13 +19,13 @@ archetypes:
     weight: 0.0154
     avg_copies: 1.5
   amulet-titan:
-    weight: 0.3615
-    avg_copies: 1.88
+    weight: 0.3664
+    avg_copies: 1.9
   goryo:
-    weight: 0.0097
+    weight: 0.0094
     avg_copies: 1.0
   azorius-control:
-    weight: 0.3898
+    weight: 0.377
     avg_copies: 1.61
   jeskai-control:
     weight: 0.3429

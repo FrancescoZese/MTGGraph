@@ -7,28 +7,28 @@ name: 'Unknown #2'
 meta_share: 0.0004
 list_count: 2
 top_cards:
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 4.0
+- name: Faithless Looting
+  weight: 1.0
+  avg_copies: 4.0
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
-- name: Demilich
+- name: Exhibition Tidecaller
   weight: 1.0
   avg_copies: 4.0
-- name: Exhibition Tidecaller
+- name: Manamorphose
+  weight: 1.0
+  avg_copies: 4.0
+- name: Demilich
   weight: 1.0
   avg_copies: 4.0
 - name: Arclight Phoenix
   weight: 1.0
   avg_copies: 4.0
 - name: Consider
-  weight: 1.0
-  avg_copies: 4.0
-- name: Faithless Looting
-  weight: 1.0
-  avg_copies: 4.0
-- name: Manamorphose
-  weight: 1.0
-  avg_copies: 4.0
-- name: Steam Vents
   weight: 1.0
   avg_copies: 4.0
 - name: Thought Scour
@@ -46,28 +46,28 @@ top_cards:
 - name: Force of Negation
   weight: 1.0
   avg_copies: 2.67
-- name: Wooded Foothills
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 2.0
 - name: Flashback
   weight: 1.0
   avg_copies: 2.0
-- name: Sink into Stupor
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 2.0
-- name: Lightning Bolt
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 2.0
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
+- name: Consign to Memory
+  weight: 0.5
+  avg_copies: 4.0
 - name: Price of Freedom
   weight: 0.5
   avg_copies: 4.0
 - name: Bloodstained Mire
-  weight: 0.5
-  avg_copies: 4.0
-- name: Consign to Memory
   weight: 0.5
   avg_copies: 4.0
 - name: Surgical Extraction
@@ -91,10 +91,10 @@ top_cards:
 - name: Flame of Anor
   weight: 0.5
   avg_copies: 1.5
-- name: Thundering Falls
+- name: Into the Flood Maw
   weight: 0.5
   avg_copies: 1.0
-- name: Into the Flood Maw
+- name: Thundering Falls
   weight: 0.5
   avg_copies: 1.0
 ---

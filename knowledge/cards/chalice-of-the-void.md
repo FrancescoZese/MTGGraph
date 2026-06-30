@@ -6,19 +6,19 @@ name: Chalice of the Void
 scryfall_id: 1f0d2e8e-c8f2-4b31-a6ba-6283fc8740d4
 set: a25
 type: Artifact
-meta_presence: 0.0501
+meta_presence: 0.0499
 archetypes:
   eldrazi-tron:
-    weight: 0.6019
+    weight: 0.6038
     avg_copies: 1.66
   goryo:
-    weight: 0.0048
+    weight: 0.0047
     avg_copies: 1.0
   necrodominance:
     weight: 0.1081
     avg_copies: 2.25
   azorius-control:
-    weight: 0.1864
+    weight: 0.1803
     avg_copies: 1.73
   mill:
     weight: 0.069
@@ -27,13 +27,13 @@ archetypes:
     weight: 0.0556
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.0073
+    weight: 0.0072
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.0735
+    weight: 0.0714
     avg_copies: 2.4
   eldrazi-ramp:
-    weight: 0.2178
+    weight: 0.2157
     avg_copies: 1.23
   simic-ritual:
     weight: 0.0779

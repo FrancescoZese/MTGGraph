@@ -19,7 +19,7 @@ archetypes:
     weight: 0.9923
     avg_copies: 2.41
   goryo:
-    weight: 0.9903
+    weight: 0.9906
     avg_copies: 2.67
   necrodominance:
     weight: 0.027
@@ -34,10 +34,10 @@ archetypes:
     weight: 1.0
     avg_copies: 2.86
   affinity:
-    weight: 0.7226
+    weight: 0.7246
     avg_copies: 1.49
   domain-zoo:
-    weight: 0.9626
+    weight: 0.963
     avg_copies: 2.69
   mill:
     weight: 0.2069
@@ -58,7 +58,7 @@ archetypes:
     weight: 0.974
     avg_copies: 2.97
   izzet-prowess:
-    weight: 0.2599
+    weight: 0.2576
     avg_copies: 1.54
   4c-omnath:
     weight: 1.0
@@ -73,8 +73,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   azorius-blink:
-    weight: 0.8
-    avg_copies: 2.27
+    weight: 0.8039
+    avg_copies: 2.29
   izzet-artifacts:
     weight: 0.25
     avg_copies: 1.5
@@ -97,8 +97,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.9565
-    avg_copies: 2.15
+    weight: 0.9573
+    avg_copies: 2.14
   goryo7:
     weight: 0.3333
     avg_copies: 2.0

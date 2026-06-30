@@ -13,13 +13,13 @@ top_cards:
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
-- name: Guide of Souls
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Ocelot Pride
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Quantum Riddler
@@ -31,10 +31,10 @@ top_cards:
 - name: Goblin Bombardment
   weight: 1.0
   avg_copies: 2.9
-- name: Witch Enchanter
+- name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 2.7
-- name: Ragavan, Nimble Pilferer
+- name: Witch Enchanter
   weight: 1.0
   avg_copies: 2.7
 - name: Consign to Memory
@@ -55,16 +55,16 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.1
-- name: Elegant Parlor
+- name: Mountain
+  weight: 1.0
+  avg_copies: 1.0
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Mountain
-  weight: 1.0
-  avg_copies: 1.0
-- name: Steam Vents
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Island
@@ -82,10 +82,10 @@ top_cards:
 - name: Starfield Shepherd
   weight: 0.6
   avg_copies: 2.0
-- name: Sanctifier en-Vec
+- name: Fable of the Mirror-Breaker
   weight: 0.6
   avg_copies: 1.83
-- name: Fable of the Mirror-Breaker
+- name: Sanctifier en-Vec
   weight: 0.6
   avg_copies: 1.83
 - name: Phelia, Exuberant Shepherd
@@ -94,10 +94,10 @@ top_cards:
 - name: Galvanic Discharge
   weight: 0.5
   avg_copies: 2.2
-- name: Orim's Chant
+- name: Lavinia, Azorius Renegade
   weight: 0.5
   avg_copies: 2.0
-- name: Lavinia, Azorius Renegade
+- name: Orim's Chant
   weight: 0.5
   avg_copies: 2.0
 - name: High Noon
@@ -106,10 +106,10 @@ top_cards:
 - name: Spell Pierce
   weight: 0.5
   avg_copies: 1.2
-- name: Vandalblast
+- name: Meltdown
   weight: 0.5
   avg_copies: 1.0
-- name: Meltdown
+- name: Vandalblast
   weight: 0.5
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -124,10 +124,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.3
   avg_copies: 2.0
-- name: Surgical Extraction
+- name: Wear
   weight: 0.3
   avg_copies: 1.67
-- name: Wear
+- name: Surgical Extraction
   weight: 0.3
   avg_copies: 1.67
 - name: Rest in Peace
@@ -142,22 +142,22 @@ top_cards:
 - name: Voice of Victory
   weight: 0.1
   avg_copies: 2.0
-- name: Marsh Flats
-  weight: 0.1
-  avg_copies: 2.0
 - name: Clarion Conqueror
   weight: 0.1
   avg_copies: 2.0
+- name: Marsh Flats
+  weight: 0.1
+  avg_copies: 2.0
 - name: Detect Intrusion
+  weight: 0.1
+  avg_copies: 1.0
+- name: Deafening Silence
   weight: 0.1
   avg_copies: 1.0
 - name: Containment Priest
   weight: 0.1
   avg_copies: 1.0
 - name: March of Otherworldly Light
-  weight: 0.1
-  avg_copies: 1.0
-- name: Deafening Silence
   weight: 0.1
   avg_copies: 1.0
 ---

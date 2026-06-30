@@ -15,10 +15,10 @@ top_cards:
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 3.89
-- name: Leyline Axe
+- name: Battlefield Improvisation
   weight: 1.0
   avg_copies: 3.78
-- name: Battlefield Improvisation
+- name: Leyline Axe
   weight: 1.0
   avg_copies: 3.78
 - name: Puresteel Paladin
@@ -33,10 +33,10 @@ top_cards:
 - name: Mox Opal
   weight: 1.0
   avg_copies: 2.89
-- name: Plains
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.33
-- name: Hallowed Fountain
+- name: Plains
   weight: 1.0
   avg_copies: 2.33
 - name: Inkmoth Nexus
@@ -84,10 +84,10 @@ top_cards:
 - name: Sanctifier en-Vec
   weight: 0.4444
   avg_copies: 2.75
-- name: Portable Hole
+- name: Teferi, Time Raveler
   weight: 0.4444
   avg_copies: 2.0
-- name: Teferi, Time Raveler
+- name: Portable Hole
   weight: 0.4444
   avg_copies: 2.0
 - name: Kappa Cannoneer
@@ -96,19 +96,19 @@ top_cards:
 - name: Pithing Needle
   weight: 0.4444
   avg_copies: 1.0
-- name: Cryptic Coat
+- name: Stern Scolding
   weight: 0.4444
   avg_copies: 1.0
-- name: Stern Scolding
+- name: Cryptic Coat
   weight: 0.4444
   avg_copies: 1.0
 - name: Windswept Heath
   weight: 0.3333
   avg_copies: 4.0
-- name: Suncleanser
+- name: Damping Sphere
   weight: 0.3333
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Suncleanser
   weight: 0.3333
   avg_copies: 2.0
 - name: Springleaf Drum
@@ -132,10 +132,10 @@ top_cards:
 - name: Paradise Mantle
   weight: 0.2222
   avg_copies: 1.0
-- name: Flare of Fortitude
+- name: Mishra's Bauble
   weight: 0.1111
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Flare of Fortitude
   weight: 0.1111
   avg_copies: 4.0
 - name: Containment Priest
@@ -144,10 +144,10 @@ top_cards:
 - name: Skateboard
   weight: 0.1111
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Prismatic Ending
   weight: 0.1111
   avg_copies: 1.0
-- name: Prismatic Ending
+- name: Soul-Guide Lantern
   weight: 0.1111
   avg_copies: 1.0
 ---

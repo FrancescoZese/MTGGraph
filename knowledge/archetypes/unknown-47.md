@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: 'Unknown #47'
-meta_share: 0.0128
+meta_share: 0.0127
 list_count: 58
 top_cards:
 - name: Psychic Frog
@@ -15,10 +15,10 @@ top_cards:
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 3.9
-- name: Orcish Bowmasters
+- name: Counterspell
   weight: 1.0
   avg_copies: 3.28
-- name: Counterspell
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.28
 - name: Quantum Riddler
@@ -135,10 +135,10 @@ top_cards:
 - name: Ghost Vacuum
   weight: 0.1034
   avg_copies: 1.33
-- name: Meticulous Archive
+- name: Hallowed Fountain
   weight: 0.1034
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Meticulous Archive
   weight: 0.1034
   avg_copies: 1.0
 - name: Pest Control
@@ -153,10 +153,10 @@ top_cards:
 - name: The Meathook Massacre
   weight: 0.069
   avg_copies: 1.25
-- name: Requiting Hex
+- name: Teferi, Time Raveler
   weight: 0.069
   avg_copies: 1.0
-- name: Teferi, Time Raveler
+- name: Requiting Hex
   weight: 0.069
   avg_copies: 1.0
 - name: Vexing Bauble
@@ -177,13 +177,13 @@ top_cards:
 - name: Stony Silence
   weight: 0.0345
   avg_copies: 1.0
-- name: Snow-Covered Island
+- name: Damnation
   weight: 0.0345
   avg_copies: 1.0
 - name: Snow-Covered Swamp
   weight: 0.0345
   avg_copies: 1.0
-- name: Damnation
+- name: Snow-Covered Island
   weight: 0.0345
   avg_copies: 1.0
 - name: Break the Ice
@@ -198,22 +198,22 @@ top_cards:
 - name: River of Tears
   weight: 0.0172
   avg_copies: 1.0
-- name: High Noon
+- name: Snapcaster Mage
   weight: 0.0172
   avg_copies: 1.0
 - name: Fallen Shinobi
   weight: 0.0172
   avg_copies: 1.0
-- name: Umezawa's Jitte
+- name: Strategic Betrayal
+  weight: 0.0172
+  avg_copies: 1.0
+- name: High Noon
   weight: 0.0172
   avg_copies: 1.0
 - name: Celestial Purge
   weight: 0.0172
   avg_copies: 1.0
-- name: Snapcaster Mage
-  weight: 0.0172
-  avg_copies: 1.0
-- name: Strategic Betrayal
+- name: Umezawa's Jitte
   weight: 0.0172
   avg_copies: 1.0
 ---

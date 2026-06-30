@@ -11,13 +11,13 @@ type: Legendary Creature — Cat Beast
 meta_presence: 0.0309
 archetypes:
   azorius-control:
-    weight: 0.9153
+    weight: 0.9016
     avg_copies: 1.0
   jeskai-control:
     weight: 0.2286
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.2336
+    weight: 0.2319
     avg_copies: 1.0
   cosmogoyf-fling:
     weight: 0.0357

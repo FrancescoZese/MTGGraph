@@ -7,7 +7,7 @@ name: Springheart Nantuko
 scryfall_id: 54a3ea87-005e-4985-b2a5-21711d0b71c0
 set: mh3
 type: Enchantment Creature — Insect Monk
-meta_presence: 0.0029
+meta_presence: 0.0031
 archetypes:
   mono-green-ramp:
     weight: 1.0
@@ -25,6 +25,9 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   unknown-130:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-172:
     weight: 1.0
     avg_copies: 4.0
 ---

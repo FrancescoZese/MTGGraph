@@ -7,13 +7,13 @@ name: 'Unknown #70'
 meta_share: 0.0013
 list_count: 6
 top_cards:
-- name: Ajani, Nacatl Pariah
-  weight: 1.0
-  avg_copies: 4.0
 - name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
 - name: Guide of Souls
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
@@ -64,10 +64,10 @@ top_cards:
 - name: High Noon
   weight: 0.8333
   avg_copies: 1.8
-- name: Meticulous Archive
+- name: Mountain
   weight: 0.8333
   avg_copies: 1.0
-- name: Mountain
+- name: Meticulous Archive
   weight: 0.8333
   avg_copies: 1.0
 - name: Obsidian Charmaw
@@ -85,64 +85,61 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.5
   avg_copies: 2.0
-- name: Arena of Glory
+- name: Seasoned Pyromancer
   weight: 0.5
   avg_copies: 1.67
 - name: Rest in Peace
   weight: 0.5
   avg_copies: 1.67
-- name: Mystical Dispute
+- name: Arena of Glory
   weight: 0.5
   avg_copies: 1.67
-- name: Seasoned Pyromancer
+- name: Mystical Dispute
   weight: 0.5
   avg_copies: 1.67
 - name: Thraben Charm
   weight: 0.5
   avg_copies: 1.5
-- name: Wear
+- name: Mockingbird
   weight: 0.5
   avg_copies: 1.33
-- name: Mockingbird
+- name: Wear
   weight: 0.5
   avg_copies: 1.33
 - name: Thundering Falls
   weight: 0.5
   avg_copies: 1.0
-- name: Voice of Victory
-  weight: 0.3333
-  avg_copies: 2.5
 - name: Prismatic Ending
   weight: 0.3333
   avg_copies: 2.5
-- name: Orim's Chant
+- name: Voice of Victory
+  weight: 0.3333
+  avg_copies: 2.5
+- name: Fable of the Mirror-Breaker
   weight: 0.3333
   avg_copies: 2.0
 - name: Ephemerate
   weight: 0.3333
   avg_copies: 2.0
-- name: Fable of the Mirror-Breaker
+- name: Orim's Chant
   weight: 0.3333
   avg_copies: 2.0
-- name: Island
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Teferi, Time Raveler
   weight: 0.3333
   avg_copies: 1.0
-- name: Reprieve
-  weight: 0.1667
-  avg_copies: 2.0
+- name: Island
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Practiced Offense
   weight: 0.1667
   avg_copies: 2.0
 - name: Deafening Silence
   weight: 0.1667
   avg_copies: 2.0
-- name: Soul-Guide Lantern
+- name: Reprieve
   weight: 0.1667
-  avg_copies: 1.0
-- name: Strix Serenade
+  avg_copies: 2.0
+- name: Lightning Bolt
   weight: 0.1667
   avg_copies: 1.0
 - name: Magus of the Moon
@@ -151,19 +148,22 @@ top_cards:
 - name: Vandalblast
   weight: 0.1667
   avg_copies: 1.0
-- name: The Legend of Roku
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Marsh Flats
   weight: 0.1667
   avg_copies: 1.0
 - name: Boromir, Warden of the Tower
   weight: 0.1667
   avg_copies: 1.0
+- name: Strix Serenade
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Spell Pierce
   weight: 0.1667
   avg_copies: 1.0
-- name: Lightning Bolt
+- name: Soul-Guide Lantern
+  weight: 0.1667
+  avg_copies: 1.0
+- name: The Legend of Roku
   weight: 0.1667
   avg_copies: 1.0
 ---

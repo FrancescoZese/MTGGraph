@@ -8,11 +8,11 @@ name: Kroxa, Titan of Death's Hunger
 scryfall_id: cee0459b-9aac-4d2f-abe4-4d5fedde7eb8
 set: thb
 type: Legendary Creature — Elder Giant
-meta_presence: 0.0071
+meta_presence: 0.0072
 archetypes:
   domain-zoo:
-    weight: 0.0748
-    avg_copies: 2.75
+    weight: 0.0833
+    avg_copies: 2.78
   jund-saga:
     weight: 0.3333
     avg_copies: 1.0

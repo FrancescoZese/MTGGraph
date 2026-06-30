@@ -12,13 +12,13 @@ archetypes:
     weight: 1.0
     avg_copies: 2.63
   goryo:
-    weight: 0.9903
+    weight: 0.9906
     avg_copies: 1.0
   necrodominance:
     weight: 0.0541
     avg_copies: 3.5
   azorius-control:
-    weight: 0.4068
+    weight: 0.3934
     avg_copies: 1.0
   living-end:
     weight: 0.7759
@@ -42,7 +42,7 @@ archetypes:
     weight: 0.0455
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.02
+    weight: 0.0196
     avg_copies: 1.0
   esper-control:
     weight: 1.0
