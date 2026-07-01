@@ -3,7 +3,7 @@ colors:
 - R
 - G
 name: Ruby Storm
-meta_share: 0.0329
+meta_share: 0.0327
 list_count: 150
 top_cards:
 - name: Pyretic Ritual
@@ -15,10 +15,10 @@ top_cards:
 - name: Wrenn's Resolve
   weight: 1.0
   avg_copies: 3.99
-- name: Manamorphose
+- name: Reckless Impulse
   weight: 1.0
   avg_copies: 3.98
-- name: Reckless Impulse
+- name: Manamorphose
   weight: 1.0
   avg_copies: 3.98
 - name: Ral, Monsoon Mage
@@ -186,10 +186,10 @@ top_cards:
 - name: Pyroclasm
   weight: 0.0267
   avg_copies: 1.25
-- name: Mine Collapse
+- name: Fiery Islet
   weight: 0.0267
   avg_copies: 1.0
-- name: Fiery Islet
+- name: Mine Collapse
   weight: 0.0267
   avg_copies: 1.0
 - name: Questing Druid
@@ -198,19 +198,19 @@ top_cards:
 - name: Abrade
   weight: 0.02
   avg_copies: 1.0
+- name: Shatterskull Smashing
+  weight: 0.02
+  avg_copies: 1.0
 - name: Blood Crypt
   weight: 0.02
   avg_copies: 1.0
 - name: Alchemist's Gambit
   weight: 0.02
   avg_copies: 1.0
-- name: Shatterskull Smashing
-  weight: 0.02
-  avg_copies: 1.0
-- name: Nature's Claim
+- name: Stormcatch Mentor
   weight: 0.0133
   avg_copies: 4.0
-- name: Stormcatch Mentor
+- name: Nature's Claim
   weight: 0.0133
   avg_copies: 4.0
 - name: Spirebluff Canal
@@ -231,13 +231,28 @@ top_cards:
 - name: Voice of Victory
   weight: 0.0133
   avg_copies: 1.5
+- name: Misty Rainforest
+  weight: 0.0133
+  avg_copies: 1.0
 - name: Pyromancer Ascension
   weight: 0.0133
   avg_copies: 1.0
 - name: Rip Apart
   weight: 0.0133
   avg_copies: 1.0
+- name: Island
+  weight: 0.0133
+  avg_copies: 1.0
 - name: card:out-of-time
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Lorehold Charm
+  weight: 0.0133
+  avg_copies: 1.0
+- name: card:wheel-of-potential
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Flame Slash
   weight: 0.0133
   avg_copies: 1.0
 - name: Blast Zone
@@ -249,70 +264,55 @@ top_cards:
 - name: Otawara, Soaring City
   weight: 0.0133
   avg_copies: 1.0
-- name: Island
-  weight: 0.0133
-  avg_copies: 1.0
-- name: card:wheel-of-potential
-  weight: 0.0133
-  avg_copies: 1.0
-- name: Lorehold Charm
-  weight: 0.0133
-  avg_copies: 1.0
-- name: Misty Rainforest
-  weight: 0.0133
-  avg_copies: 1.0
-- name: Flame Slash
-  weight: 0.0133
-  avg_copies: 1.0
-- name: Remand
-  weight: 0.0067
-  avg_copies: 2.0
-- name: Consider
+- name: Spell Snare
   weight: 0.0067
   avg_copies: 2.0
 - name: Great Hall of the Biblioplex
   weight: 0.0067
   avg_copies: 2.0
-- name: Spell Snare
+- name: Remand
   weight: 0.0067
   avg_copies: 2.0
 - name: Consign to Memory
   weight: 0.0067
   avg_copies: 2.0
+- name: Consider
+  weight: 0.0067
+  avg_copies: 2.0
 - name: Goblin Anarchomancer
   weight: 0.0067
   avg_copies: 2.0
-- name: Goblin Lore
-  weight: 0.0067
-  avg_copies: 1.0
-- name: card:return-the-favor
-  weight: 0.0067
-  avg_copies: 1.0
-- name: card:weather-the-storm
-  weight: 0.0067
-  avg_copies: 1.0
 - name: Jolted Awake
   weight: 0.0067
   avg_copies: 1.0
-- name: Fire
-  weight: 0.0067
-  avg_copies: 1.0
-- name: Surgical Extraction
+- name: Blazing Firesinger
   weight: 0.0067
   avg_copies: 1.0
 - name: Inquisition of Kozilek
   weight: 0.0067
   avg_copies: 1.0
-- name: card:lindblum-industrial-regency
-  weight: 0.0067
-  avg_copies: 1.0
 - name: card:collective-resistance
   weight: 0.0067
   avg_copies: 1.0
-- name: Sink into Stupor
+- name: card:weather-the-storm
   weight: 0.0067
   avg_copies: 1.0
-- name: Blazing Firesinger
+- name: card:return-the-favor
+  weight: 0.0067
+  avg_copies: 1.0
+- name: Goblin Lore
+  weight: 0.0067
+  avg_copies: 1.0
+- name: Fire
+  weight: 0.0067
+  avg_copies: 1.0
+- name: card:lindblum-industrial-regency
+  weight: 0.0067
+  avg_copies: 1.0
+- name: Surgical Extraction
+  weight: 0.0067
+  avg_copies: 1.0
+- name: Sink into Stupor
   weight: 0.0067
   avg_copies: 1.0
 - name: Urabrask

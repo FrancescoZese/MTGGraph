@@ -12,10 +12,10 @@ archetypes:
     weight: 1.0
     avg_copies: 2.98
   boros-energy:
-    weight: 0.8368
+    weight: 0.8382
     avg_copies: 1.0
   mono-blue-belcher:
-    weight: 0.1912
+    weight: 0.1884
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.7923
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.2
     avg_copies: 1.0
   affinity:
-    weight: 0.0121
+    weight: 0.012
     avg_copies: 1.0
   domain-zoo:
     weight: 0.963
@@ -214,7 +214,7 @@ archetypes:
     avg_copies: 10.0
   unknown-96:
     weight: 1.0
-    avg_copies: 1.8
+    avg_copies: 1.73
   unknown-98:
     weight: 1.0
     avg_copies: 3.17
@@ -244,7 +244,7 @@ archetypes:
     avg_copies: 1.0
   unknown-122:
     weight: 1.0
-    avg_copies: 1.87
+    avg_copies: 1.81
   unknown-123:
     weight: 1.0
     avg_copies: 2.0

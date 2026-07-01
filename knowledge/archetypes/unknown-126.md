@@ -7,13 +7,13 @@ name: 'Unknown #126'
 meta_share: 0.0033
 list_count: 15
 top_cards:
+- name: Badgermole Cub
+  weight: 1.0
+  avg_copies: 4.0
 - name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
 - name: Nature's Rhythm
-  weight: 1.0
-  avg_copies: 4.0
-- name: Badgermole Cub
   weight: 1.0
   avg_copies: 4.0
 - name: Devoted Druid
@@ -31,10 +31,10 @@ top_cards:
 - name: Delighted Halfling
   weight: 1.0
   avg_copies: 3.73
-- name: Malevolent Rumble
+- name: Vizier of Remedies
   weight: 1.0
   avg_copies: 3.0
-- name: Vizier of Remedies
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 3.0
 - name: Orim's Chant
@@ -55,37 +55,10 @@ top_cards:
 - name: Endurance
   weight: 1.0
   avg_copies: 1.07
-- name: Walking Ballista
-  weight: 1.0
-  avg_copies: 1.0
-- name: Keen-Eyed Curator
-  weight: 1.0
-  avg_copies: 1.0
-- name: card:birds-of-paradise
-  weight: 1.0
-  avg_copies: 1.0
-- name: Grist, the Hunger Tide
-  weight: 1.0
-  avg_copies: 1.0
-- name: Godless Shrine
-  weight: 1.0
-  avg_copies: 1.0
-- name: Overgrown Tomb
-  weight: 1.0
-  avg_copies: 1.0
 - name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
-- name: Suncleanser
-  weight: 1.0
-  avg_copies: 1.0
-- name: Underground Mortuary
-  weight: 1.0
-  avg_copies: 1.0
-- name: Misty Rainforest
-  weight: 1.0
-  avg_copies: 1.0
-- name: card:ethersworn-canonist
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
 - name: Lush Portico
@@ -94,19 +67,46 @@ top_cards:
 - name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
-- name: Eternal Witness
+- name: Keen-Eyed Curator
+  weight: 1.0
+  avg_copies: 1.0
+- name: Misty Rainforest
+  weight: 1.0
+  avg_copies: 1.0
+- name: Suncleanser
+  weight: 1.0
+  avg_copies: 1.0
+- name: card:ethersworn-canonist
+  weight: 1.0
+  avg_copies: 1.0
+- name: Overgrown Tomb
+  weight: 1.0
+  avg_copies: 1.0
+- name: Godless Shrine
+  weight: 1.0
+  avg_copies: 1.0
+- name: card:birds-of-paradise
   weight: 1.0
   avg_copies: 1.0
 - name: Duskwatch Recruiter
   weight: 1.0
   avg_copies: 1.0
-- name: Dryad Arbor
+- name: Walking Ballista
   weight: 1.0
   avg_copies: 1.0
-- name: Damping Sphere
-  weight: 0.9333
+- name: Eternal Witness
+  weight: 1.0
+  avg_copies: 1.0
+- name: Underground Mortuary
+  weight: 1.0
+  avg_copies: 1.0
+- name: Grist, the Hunger Tide
+  weight: 1.0
   avg_copies: 1.0
 - name: Sylvan Safekeeper
+  weight: 0.9333
+  avg_copies: 1.0
+- name: Damping Sphere
   weight: 0.9333
   avg_copies: 1.0
 - name: Ouroboroid
@@ -115,10 +115,10 @@ top_cards:
 - name: Snow-Covered Forest
   weight: 0.8667
   avg_copies: 2.0
-- name: Outland Liberator
+- name: Kraul Harpooner
   weight: 0.8667
   avg_copies: 1.0
-- name: Kraul Harpooner
+- name: Outland Liberator
   weight: 0.8667
   avg_copies: 1.0
 - name: Craterhoof Behemoth
@@ -133,10 +133,10 @@ top_cards:
 - name: Forest
   weight: 0.1333
   avg_copies: 2.0
-- name: Crystal Barricade
+- name: Formidable Speaker
   weight: 0.0667
   avg_copies: 1.0
-- name: Formidable Speaker
+- name: Crystal Barricade
   weight: 0.0667
   avg_copies: 1.0
 ---

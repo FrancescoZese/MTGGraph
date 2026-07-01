@@ -16,10 +16,10 @@ archetypes:
     weight: 0.8333
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.098
+    weight: 0.0962
     avg_copies: 1.0
   goryo1:
-    weight: 0.0513
+    weight: 0.0508
     avg_copies: 2.17
   unknown-20:
     weight: 1.0

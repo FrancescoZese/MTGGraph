@@ -6,13 +6,10 @@ name: 'Unknown #77'
 meta_share: 0.0004
 list_count: 2
 top_cards:
-- name: Arid Mesa
-  weight: 1.0
-  avg_copies: 4.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Overlord of the Balemurk
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
@@ -21,25 +18,28 @@ top_cards:
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Witch Enchanter
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
-- name: Guide of Souls
+- name: Arid Mesa
+  weight: 1.0
+  avg_copies: 4.0
+- name: Witch Enchanter
   weight: 1.0
   avg_copies: 4.0
 - name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.5
-- name: Fatal Push
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 3.0
-- name: Godless Shrine
+- name: Fatal Push
   weight: 1.0
   avg_copies: 3.0
 - name: Emperor of Bones
   weight: 1.0
   avg_copies: 2.0
-- name: Shadowy Backstreet
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.0
 - name: High Noon
@@ -48,7 +48,7 @@ top_cards:
 - name: Plains
   weight: 1.0
   avg_copies: 2.0
-- name: Wrath of the Skies
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 2.0
 - name: Thoughtseize
@@ -57,34 +57,40 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 1.5
-- name: Flickerwisp
-  weight: 1.0
-  avg_copies: 1.5
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.5
-- name: Elesh Norn, Mother of Machines
+- name: Flickerwisp
+  weight: 1.0
+  avg_copies: 1.5
+- name: Boggart Trawler
   weight: 1.0
   avg_copies: 1.0
-- name: Boggart Trawler
+- name: Elesh Norn, Mother of Machines
   weight: 1.0
   avg_copies: 1.0
 - name: White Orchid Phantom
   weight: 0.5
   avg_copies: 4.0
-- name: Starfield Shepherd
+- name: Damping Sphere
   weight: 0.5
   avg_copies: 3.0
-- name: Damping Sphere
+- name: Starfield Shepherd
   weight: 0.5
   avg_copies: 3.0
 - name: Ketramose, the New Dawn
   weight: 0.5
   avg_copies: 3.0
-- name: Relic of Progenitus
+- name: Ephemerate
+  weight: 0.5
+  avg_copies: 2.0
+- name: Boromir, Warden of the Tower
   weight: 0.5
   avg_copies: 2.0
 - name: Dauthi Voidwalker
+  weight: 0.5
+  avg_copies: 2.0
+- name: Relic of Progenitus
   weight: 0.5
   avg_copies: 2.0
 - name: Decorum Dissertation
@@ -93,31 +99,25 @@ top_cards:
 - name: Clarion Conqueror
   weight: 0.5
   avg_copies: 2.0
-- name: Ephemerate
-  weight: 0.5
-  avg_copies: 2.0
 - name: Orcish Bowmasters
-  weight: 0.5
-  avg_copies: 2.0
-- name: Boromir, Warden of the Tower
   weight: 0.5
   avg_copies: 2.0
 - name: Prismatic Ending
   weight: 0.5
   avg_copies: 1.5
-- name: Ashiok, Dream Render
+- name: Static Prison
   weight: 0.5
   avg_copies: 1.0
-- name: Erode
+- name: Chthonian Nightmare
   weight: 0.5
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.5
   avg_copies: 1.0
-- name: Static Prison
+- name: Ashiok, Dream Render
   weight: 0.5
   avg_copies: 1.0
-- name: Chthonian Nightmare
+- name: Erode
   weight: 0.5
   avg_copies: 1.0
 ---

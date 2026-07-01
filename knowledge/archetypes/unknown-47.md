@@ -15,10 +15,10 @@ top_cards:
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 3.9
-- name: Counterspell
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.28
-- name: Orcish Bowmasters
+- name: Counterspell
   weight: 1.0
   avg_copies: 3.28
 - name: Quantum Riddler
@@ -177,13 +177,13 @@ top_cards:
 - name: Stony Silence
   weight: 0.0345
   avg_copies: 1.0
+- name: Snow-Covered Island
+  weight: 0.0345
+  avg_copies: 1.0
 - name: Damnation
   weight: 0.0345
   avg_copies: 1.0
 - name: Snow-Covered Swamp
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Snow-Covered Island
   weight: 0.0345
   avg_copies: 1.0
 - name: Break the Ice
@@ -192,28 +192,28 @@ top_cards:
 - name: Void Mirror
   weight: 0.0172
   avg_copies: 2.0
+- name: Fallen Shinobi
+  weight: 0.0172
+  avg_copies: 1.0
 - name: Dreams of Steel and Oil
   weight: 0.0172
   avg_copies: 1.0
 - name: River of Tears
   weight: 0.0172
   avg_copies: 1.0
-- name: Snapcaster Mage
+- name: High Noon
   weight: 0.0172
   avg_copies: 1.0
-- name: Fallen Shinobi
+- name: Umezawa's Jitte
   weight: 0.0172
   avg_copies: 1.0
 - name: Strategic Betrayal
   weight: 0.0172
   avg_copies: 1.0
-- name: High Noon
-  weight: 0.0172
-  avg_copies: 1.0
 - name: Celestial Purge
   weight: 0.0172
   avg_copies: 1.0
-- name: Umezawa's Jitte
+- name: Snapcaster Mage
   weight: 0.0172
   avg_copies: 1.0
 ---

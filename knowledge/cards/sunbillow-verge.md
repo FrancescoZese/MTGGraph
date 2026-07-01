@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.0116
 archetypes:
   boros-energy:
-    weight: 0.0208
+    weight: 0.0207
     avg_copies: 1.0
   boros-ponza:
     weight: 0.2971

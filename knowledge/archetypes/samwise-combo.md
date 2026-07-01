@@ -5,7 +5,7 @@ colors:
 - B
 - G
 name: Samwise Combo
-meta_share: 0.0123
+meta_share: 0.0122
 list_count: 56
 top_cards:
 - name: Birthing Ritual
@@ -23,19 +23,19 @@ top_cards:
 - name: Verdant Catacombs
   weight: 1.0
   avg_copies: 3.86
-- name: Windswept Heath
+- name: Chord of Calling
   weight: 1.0
   avg_copies: 3.8
-- name: Chord of Calling
+- name: Windswept Heath
   weight: 1.0
   avg_copies: 3.8
 - name: Force of Vigor
   weight: 1.0
   avg_copies: 2.05
-- name: Overgrown Tomb
+- name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.88
-- name: Boseiju, Who Endures
+- name: Overgrown Tomb
   weight: 1.0
   avg_copies: 1.88
 - name: Viscera Seer
@@ -47,13 +47,13 @@ top_cards:
 - name: Forest
   weight: 1.0
   avg_copies: 1.05
-- name: Godless Shrine
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
 - name: Lush Portico
   weight: 1.0
   avg_copies: 1.0
-- name: Dryad Arbor
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
 - name: Carrion Feeder
@@ -140,10 +140,10 @@ top_cards:
 - name: Scout for Survivors
   weight: 0.1964
   avg_copies: 1.33
-- name: Lavinia, Azorius Renegade
+- name: Ruthless Lawbringer
   weight: 0.1964
   avg_copies: 1.0
-- name: Ruthless Lawbringer
+- name: Lavinia, Azorius Renegade
   weight: 0.1964
   avg_copies: 1.0
 - name: Erode
@@ -164,13 +164,19 @@ top_cards:
 - name: Swamp
   weight: 0.1429
   avg_copies: 1.0
-- name: Ruinous Waterbending
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Dauthi Voidwalker
   weight: 0.1429
   avg_copies: 1.0
 - name: True Ancestry
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Decorum Dissertation
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Ruinous Waterbending
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Professor of Symbology
   weight: 0.1429
   avg_copies: 1.0
 - name: Boggart Trawler
@@ -179,16 +185,10 @@ top_cards:
 - name: Origin of Metalbending
   weight: 0.1429
   avg_copies: 1.0
-- name: Decorum Dissertation
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Professor of Symbology
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Renegade Rallier
+- name: Sephiroth, Fabled SOLDIER
   weight: 0.125
   avg_copies: 1.0
-- name: Sephiroth, Fabled SOLDIER
+- name: Renegade Rallier
   weight: 0.125
   avg_copies: 1.0
 - name: Wall of Roots
@@ -197,13 +197,13 @@ top_cards:
 - name: Dewdrop Cure
   weight: 0.1071
   avg_copies: 1.12
+- name: Phyrexian Tower
+  weight: 0.1071
+  avg_copies: 1.0
 - name: Warren Soultrader
   weight: 0.1071
   avg_copies: 1.0
 - name: Surgical Extraction
-  weight: 0.1071
-  avg_copies: 1.0
-- name: Phyrexian Tower
   weight: 0.1071
   avg_copies: 1.0
 - name: City of Brass
@@ -224,22 +224,22 @@ top_cards:
 - name: Mana Confluence
   weight: 0.0714
   avg_copies: 1.25
-- name: Mistcaller
-  weight: 0.0714
-  avg_copies: 1.0
 - name: Dai Li Indoctrination
   weight: 0.0714
   avg_copies: 1.0
-- name: Chthonian Nightmare
+- name: Mistcaller
   weight: 0.0714
   avg_copies: 1.0
 - name: Enter the Avatar State
   weight: 0.0714
   avg_copies: 1.0
-- name: Dawnbringer Cleric
+- name: Chthonian Nightmare
   weight: 0.0714
   avg_copies: 1.0
 - name: Boromir, Warden of the Tower
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Dawnbringer Cleric
   weight: 0.0714
   avg_copies: 1.0
 - name: Reduce to Memory
@@ -248,22 +248,22 @@ top_cards:
 - name: Haliya, Guided by Light
   weight: 0.0536
   avg_copies: 1.33
-- name: Portable Hole
-  weight: 0.0536
-  avg_copies: 1.0
 - name: Bridgeworks Battle
   weight: 0.0536
   avg_copies: 1.0
-- name: card:severance-priest
-  weight: 0.0357
-  avg_copies: 2.0
+- name: Portable Hole
+  weight: 0.0536
+  avg_copies: 1.0
 - name: Assassin's Trophy
   weight: 0.0357
   avg_copies: 2.0
-- name: Moseo, Vein's New Dean
+- name: card:severance-priest
+  weight: 0.0357
+  avg_copies: 2.0
+- name: Damping Sphere
   weight: 0.0357
   avg_copies: 1.5
-- name: Damping Sphere
+- name: Moseo, Vein's New Dean
   weight: 0.0357
   avg_copies: 1.5
 - name: Path to Exile
@@ -272,16 +272,16 @@ top_cards:
 - name: Mai, Scornful Striker
   weight: 0.0357
   avg_copies: 1.0
-- name: Kraul Harpooner
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Pile On
-  weight: 0.0357
-  avg_copies: 1.0
 - name: card:masked-vandal
   weight: 0.0357
   avg_copies: 1.0
 - name: Seam Rip
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Kraul Harpooner
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Pile On
   weight: 0.0357
   avg_copies: 1.0
 - name: Delighted Halfling
@@ -290,37 +290,31 @@ top_cards:
 - name: card:rubblebelt-maverick
   weight: 0.0179
   avg_copies: 3.0
-- name: Fade from History
-  weight: 0.0179
-  avg_copies: 2.0
 - name: Green Sun's Zenith
-  weight: 0.0179
-  avg_copies: 2.0
-- name: Professor Dellian Fel
-  weight: 0.0179
-  avg_copies: 2.0
-- name: Ashiok, Dream Render
-  weight: 0.0179
-  avg_copies: 2.0
-- name: Enduring Innocence
   weight: 0.0179
   avg_copies: 2.0
 - name: card:extraction-specialist
   weight: 0.0179
   avg_copies: 2.0
+- name: Professor Dellian Fel
+  weight: 0.0179
+  avg_copies: 2.0
+- name: Enduring Innocence
+  weight: 0.0179
+  avg_copies: 2.0
+- name: Fade from History
+  weight: 0.0179
+  avg_copies: 2.0
+- name: Ashiok, Dream Render
+  weight: 0.0179
+  avg_copies: 2.0
+- name: card:cloak-and-dagger-entwined
+  weight: 0.0179
+  avg_copies: 1.0
+- name: Skyclave Apparition
+  weight: 0.0179
+  avg_copies: 1.0
 - name: Vraska, Golgari Queen
-  weight: 0.0179
-  avg_copies: 1.0
-- name: Gravecrawler
-  weight: 0.0179
-  avg_copies: 1.0
-- name: Void Mirror
-  weight: 0.0179
-  avg_copies: 1.0
-- name: Deafening Silence
-  weight: 0.0179
-  avg_copies: 1.0
-- name: Arboreal Grazer
   weight: 0.0179
   avg_copies: 1.0
 - name: Icetill Explorer
@@ -329,22 +323,28 @@ top_cards:
 - name: Harsh Annotation
   weight: 0.0179
   avg_copies: 1.0
-- name: Strategic Betrayal
+- name: Formidable Speaker
   weight: 0.0179
   avg_copies: 1.0
-- name: Formidable Speaker
+- name: Arboreal Grazer
+  weight: 0.0179
+  avg_copies: 1.0
+- name: Deafening Silence
+  weight: 0.0179
+  avg_copies: 1.0
+- name: Heroic Intervention
+  weight: 0.0179
+  avg_copies: 1.0
+- name: Void Mirror
+  weight: 0.0179
+  avg_copies: 1.0
+- name: Strategic Betrayal
   weight: 0.0179
   avg_copies: 1.0
 - name: Veil of Summer
   weight: 0.0179
   avg_copies: 1.0
-- name: Skyclave Apparition
-  weight: 0.0179
-  avg_copies: 1.0
-- name: card:cloak-and-dagger-entwined
-  weight: 0.0179
-  avg_copies: 1.0
-- name: Heroic Intervention
+- name: Gravecrawler
   weight: 0.0179
   avg_copies: 1.0
 ---

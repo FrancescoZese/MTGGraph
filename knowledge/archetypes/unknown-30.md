@@ -24,10 +24,10 @@ top_cards:
 - name: Flare of Denial
   weight: 1.0
   avg_copies: 3.33
-- name: Consign to Memory
+- name: Watery Grave
   weight: 1.0
   avg_copies: 3.0
-- name: Watery Grave
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
 - name: Subtlety
@@ -54,10 +54,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.33
-- name: Fallaji Archaeologist
+- name: Thought Scour
   weight: 0.8333
   avg_copies: 4.0
-- name: Thought Scour
+- name: Fallaji Archaeologist
   weight: 0.8333
   avg_copies: 4.0
 - name: Fatal Push
@@ -87,19 +87,19 @@ top_cards:
 - name: Force of Negation
   weight: 0.5
   avg_copies: 1.2
+- name: Loran of the Third Path
+  weight: 0.5
+  avg_copies: 1.0
 - name: Godless Shrine
+  weight: 0.5
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
   weight: 0.5
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.5
   avg_copies: 1.0
 - name: Otawara, Soaring City
-  weight: 0.5
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.5
-  avg_copies: 1.0
-- name: Loran of the Third Path
   weight: 0.5
   avg_copies: 1.0
 - name: Gran-Gran
@@ -120,19 +120,19 @@ top_cards:
 - name: Vengevine
   weight: 0.1667
   avg_copies: 4.0
-- name: Merfolk Secretkeeper
+- name: Hedron Crab
   weight: 0.1667
   avg_copies: 4.0
 - name: Exhibition Tidecaller
   weight: 0.1667
   avg_copies: 4.0
-- name: Hedron Crab
+- name: Merfolk Secretkeeper
   weight: 0.1667
   avg_copies: 4.0
-- name: Dauthi Voidwalker
+- name: Thundertrap Trainer
   weight: 0.1667
   avg_copies: 2.0
-- name: Thundertrap Trainer
+- name: Dauthi Voidwalker
   weight: 0.1667
   avg_copies: 2.0
 - name: Cephalid Coliseum
@@ -141,22 +141,22 @@ top_cards:
 - name: Lavinia, Azorius Renegade
   weight: 0.1667
   avg_copies: 1.0
+- name: Requiting Hex
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Verdant Catacombs
   weight: 0.1667
   avg_copies: 1.0
 - name: Engineered Explosives
   weight: 0.1667
   avg_copies: 1.0
-- name: Graveyard Trespasser
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Requiting Hex
+- name: Toxic Deluge
   weight: 0.1667
   avg_copies: 1.0
 - name: The Meathook Massacre
   weight: 0.1667
   avg_copies: 1.0
-- name: Toxic Deluge
+- name: Graveyard Trespasser
   weight: 0.1667
   avg_copies: 1.0
 ---

@@ -7,13 +7,10 @@ name: 'Unknown #147'
 meta_share: 0.0004
 list_count: 2
 top_cards:
-- name: Kroxa, Titan of Death's Hunger
-  weight: 1.0
-  avg_copies: 4.0
-- name: Dress Down
-  weight: 1.0
-  avg_copies: 4.0
 - name: Force of Negation
+  weight: 1.0
+  avg_copies: 4.0
+- name: Kroxa, Titan of Death's Hunger
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
@@ -22,10 +19,10 @@ top_cards:
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Traumatic Critique
+- name: Dress Down
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Traumatic Critique
   weight: 1.0
   avg_copies: 4.0
 - name: Consult the Star Charts
@@ -34,10 +31,13 @@ top_cards:
 - name: Nulldrifter
   weight: 1.0
   avg_copies: 4.0
-- name: Scalding Tarn
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 3.0
-- name: Mystical Dispute
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 3.0
 - name: Bloodstained Mire
@@ -49,7 +49,7 @@ top_cards:
 - name: Subtlety
   weight: 1.0
   avg_copies: 2.5
-- name: Swamp
+- name: Kozilek's Return
   weight: 1.0
   avg_copies: 2.0
 - name: Watery Grave
@@ -58,16 +58,16 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 1.0
   avg_copies: 2.0
-- name: Kozilek's Return
+- name: Swamp
   weight: 1.0
   avg_copies: 2.0
 - name: Arena of Glory
   weight: 1.0
   avg_copies: 2.0
-- name: Steam Vents
+- name: Fire Magic
   weight: 1.0
   avg_copies: 1.5
-- name: Fire Magic
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.5
 - name: Meltdown
@@ -79,9 +79,6 @@ top_cards:
 - name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
-- name: Island
-  weight: 1.0
-  avg_copies: 1.0
 - name: Gloomlake Verge
   weight: 1.0
   avg_copies: 1.0
@@ -89,6 +86,9 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Thundering Falls
+  weight: 1.0
+  avg_copies: 1.0
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Thoughtseize

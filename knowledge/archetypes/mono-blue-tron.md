@@ -11,10 +11,10 @@ top_cards:
 - name: Urza's Tower
   weight: 1.0
   avg_copies: 4.0
-- name: Kozilek's Command
+- name: Urza's Power Plant
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Power Plant
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Mine
@@ -71,10 +71,10 @@ top_cards:
 - name: Spell Snare
   weight: 0.5
   avg_copies: 2.56
-- name: Engineered Explosives
+- name: Mystical Dispute
   weight: 0.5
   avg_copies: 2.22
-- name: Mystical Dispute
+- name: Engineered Explosives
   weight: 0.5
   avg_copies: 2.22
 - name: Talisman of Dominance
@@ -140,34 +140,34 @@ top_cards:
 - name: Ugin's Binding
   weight: 0.1111
   avg_copies: 1.5
-- name: Walking Ballista
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Cityscape Leveler
-  weight: 0.1111
-  avg_copies: 1.0
 - name: Sundering Titan
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Oblivion Stone
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Ensnaring Bridge
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Oboro, Palace in the Clouds
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Liquimetal Coating
   weight: 0.1111
   avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 0.1111
   avg_copies: 1.0
-- name: Soulless Jailer
+- name: Oboro, Palace in the Clouds
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Oblivion Stone
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Walking Ballista
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Ensnaring Bridge
   weight: 0.1111
   avg_copies: 1.0
 - name: Snow-Covered Island
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Soulless Jailer
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Cityscape Leveler
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Liquimetal Coating
   weight: 0.1111
   avg_copies: 1.0
 - name: Wurmcoil Engine
@@ -179,46 +179,46 @@ top_cards:
 - name: Omen of the Sea
   weight: 0.0556
   avg_copies: 3.0
-- name: Sire of Seven Deaths
+- name: Mindbreak Trap
   weight: 0.0556
   avg_copies: 2.0
 - name: Change the Equation
   weight: 0.0556
   avg_copies: 2.0
-- name: All Is Dust
-  weight: 0.0556
-  avg_copies: 2.0
 - name: Spell Pierce
-  weight: 0.0556
-  avg_copies: 2.0
-- name: Mindbreak Trap
   weight: 0.0556
   avg_copies: 2.0
 - name: Propaganda
   weight: 0.0556
   avg_copies: 2.0
-- name: card:aether-gust
+- name: All Is Dust
+  weight: 0.0556
+  avg_copies: 2.0
+- name: Sire of Seven Deaths
+  weight: 0.0556
+  avg_copies: 2.0
+- name: Mistrise Village
   weight: 0.0556
   avg_copies: 1.0
 - name: Talisman of Progress
   weight: 0.0556
   avg_copies: 1.0
-- name: Temporal Mastery
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Vexing Bauble
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Mistrise Village
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Commandeer
+- name: card:aether-gust
   weight: 0.0556
   avg_copies: 1.0
 - name: Chalice of the Void
   weight: 0.0556
   avg_copies: 1.0
+- name: Vexing Bauble
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Commandeer
+  weight: 0.0556
+  avg_copies: 1.0
 - name: Boseiju, Who Shelters All
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Temporal Mastery
   weight: 0.0556
   avg_copies: 1.0
 ---

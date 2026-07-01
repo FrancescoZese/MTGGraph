@@ -4,19 +4,19 @@ colors:
 - B
 - R
 name: 'Unknown #68'
-meta_share: 0.0066
+meta_share: 0.0065
 list_count: 30
 top_cards:
-- name: Ocelot Pride
-  weight: 1.0
-  avg_copies: 4.0
 - name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Ajani, Nacatl Pariah
+- name: Ocelot Pride
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 3.8
-- name: Marsh Flats
+- name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 3.8
 - name: Arid Mesa
@@ -46,10 +46,10 @@ top_cards:
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowy Backstreet
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Thoughtseize
@@ -133,10 +133,10 @@ top_cards:
 - name: Kroxa, Titan of Death's Hunger
   weight: 0.2333
   avg_copies: 2.86
-- name: Celestial Purge
+- name: Surgical Extraction
   weight: 0.2
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Celestial Purge
   weight: 0.2
   avg_copies: 1.0
 - name: Ob Nixilis, the Adversary
@@ -166,16 +166,16 @@ top_cards:
 - name: Lingering Souls
   weight: 0.0333
   avg_copies: 2.0
-- name: Faerie Macabre
+- name: Strategic Betrayal
   weight: 0.0333
   avg_copies: 1.0
 - name: Haliya, Guided by Light
   weight: 0.0333
   avg_copies: 1.0
-- name: Solitude
+- name: Faerie Macabre
   weight: 0.0333
   avg_copies: 1.0
-- name: Strategic Betrayal
+- name: Solitude
   weight: 0.0333
   avg_copies: 1.0
 ---

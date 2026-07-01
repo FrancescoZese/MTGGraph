@@ -12,28 +12,28 @@ archetypes:
     weight: 0.0017
     avg_copies: 1.0
   mono-blue-belcher:
-    weight: 0.2353
+    weight: 0.2464
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.5236
+    weight: 0.5187
     avg_copies: 1.02
   hardened-scales:
     weight: 1.0
     avg_copies: 1.0
   affinity:
-    weight: 0.2971
+    weight: 0.2964
     avg_copies: 1.02
   hammer-time:
     weight: 0.3333
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.6471
+    weight: 0.6408
     avg_copies: 1.56
   izzet-prowess:
     weight: 0.0044
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.7778
+    weight: 0.779
     avg_copies: 1.0
   orzhov-blink:
     weight: 0.3333
@@ -60,7 +60,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-42:
-    weight: 0.375
+    weight: 0.3333
     avg_copies: 2.0
   unknown-49:
     weight: 1.0

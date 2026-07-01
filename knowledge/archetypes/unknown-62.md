@@ -3,16 +3,16 @@ colors:
 - W
 - U
 name: 'Unknown #62'
-meta_share: 0.0053
+meta_share: 0.0052
 list_count: 24
 top_cards:
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Witch Enchanter
   weight: 1.0
   avg_copies: 3.88
-- name: Witch Enchanter
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 3.88
 - name: Phelia, Exuberant Shepherd
@@ -135,70 +135,61 @@ top_cards:
 - name: Momo, Friendly Flier
   weight: 0.125
   avg_copies: 1.33
-- name: Haywire Mite
+- name: Temple Garden
   weight: 0.125
   avg_copies: 1.0
-- name: Temple Garden
+- name: Haywire Mite
   weight: 0.125
   avg_copies: 1.0
 - name: Lavinia, Azorius Renegade
   weight: 0.0833
   avg_copies: 2.0
-- name: Sacred Foundry
+- name: Orim's Chant
   weight: 0.0833
   avg_copies: 1.5
-- name: Orim's Chant
+- name: Sacred Foundry
   weight: 0.0833
   avg_copies: 1.5
 - name: Thraben Charm
   weight: 0.0833
   avg_copies: 1.25
+- name: Ranger-Captain of Eos
+  weight: 0.0833
+  avg_copies: 1.0
 - name: Drannith Magistrate
   weight: 0.0833
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.0833
   avg_copies: 1.0
-- name: Ranger-Captain of Eos
-  weight: 0.0833
-  avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
   weight: 0.0417
   avg_copies: 3.0
-- name: Galvanic Discharge
-  weight: 0.0417
-  avg_copies: 2.0
-- name: Obsidian Charmaw
-  weight: 0.0417
-  avg_copies: 2.0
 - name: Damping Sphere
-  weight: 0.0417
-  avg_copies: 2.0
-- name: Flagstones of Trokair
   weight: 0.0417
   avg_copies: 2.0
 - name: card:geist-of-saint-traft
   weight: 0.0417
   avg_copies: 2.0
+- name: Galvanic Discharge
+  weight: 0.0417
+  avg_copies: 2.0
 - name: Goblin Bombardment
   weight: 0.0417
   avg_copies: 2.0
-- name: Aven Interrupter
+- name: Flagstones of Trokair
   weight: 0.0417
-  avg_copies: 1.0
-- name: Flitterwing Nuisance
+  avg_copies: 2.0
+- name: Obsidian Charmaw
   weight: 0.0417
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Recruiter of the Guard
   weight: 0.0417
   avg_copies: 1.0
-- name: Meltdown
+- name: Hydroelectric Specimen
   weight: 0.0417
   avg_copies: 1.0
-- name: Wear
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Elegant Parlor
   weight: 0.0417
   avg_copies: 1.0
 - name: Razorgrass Ambush
@@ -207,16 +198,25 @@ top_cards:
 - name: Ajani, Nacatl Pariah
   weight: 0.0417
   avg_copies: 1.0
-- name: Celestial Purge
-  weight: 0.0417
-  avg_copies: 1.0
 - name: card:exalted-sunborn
   weight: 0.0417
   avg_copies: 1.0
-- name: Hydroelectric Specimen
+- name: Meltdown
   weight: 0.0417
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Flitterwing Nuisance
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Aven Interrupter
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Celestial Purge
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Wear
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Otawara, Soaring City
   weight: 0.0417
   avg_copies: 1.0
 ---

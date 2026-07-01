@@ -33,7 +33,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   eldrazi-ramp:
-    weight: 0.7941
+    weight: 0.7961
     avg_copies: 1.04
   simic-ritual:
     weight: 0.8701
@@ -42,7 +42,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.86
   broodscale-combo:
-    weight: 0.2889
+    weight: 0.2873
     avg_copies: 1.08
   elves:
     weight: 1.0
@@ -60,7 +60,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   goryo1:
-    weight: 0.0769
+    weight: 0.0763
     avg_copies: 1.0
   goryo5:
     weight: 0.7857
@@ -153,6 +153,9 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-172:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-173:
     weight: 1.0
     avg_copies: 4.0
 ---

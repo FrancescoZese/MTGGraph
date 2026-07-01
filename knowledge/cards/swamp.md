@@ -12,10 +12,10 @@ archetypes:
     weight: 0.9877
     avg_copies: 1.02
   eldrazi-tron:
-    weight: 0.7311
+    weight: 0.7336
     avg_copies: 1.06
   goryo:
-    weight: 0.9811
+    weight: 0.9812
     avg_copies: 1.02
   necrodominance:
     weight: 1.0
@@ -78,7 +78,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo1:
-    weight: 0.9829
+    weight: 0.9831
     avg_copies: 1.67
   goryo5:
     weight: 1.0
@@ -282,6 +282,9 @@ archetypes:
     weight: 1.0
     avg_copies: 9.0
   unknown-165:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-173:
     weight: 1.0
     avg_copies: 1.0
 ---

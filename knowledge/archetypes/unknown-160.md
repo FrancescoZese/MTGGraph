@@ -6,19 +6,19 @@ name: 'Unknown #160'
 meta_share: 0.0031
 list_count: 14
 top_cards:
-- name: Galvanic Discharge
+- name: Cleansing Wildfire
+  weight: 1.0
+  avg_copies: 4.0
+- name: Field of Ruin
   weight: 1.0
   avg_copies: 4.0
 - name: Price of Freedom
   weight: 1.0
   avg_copies: 4.0
+- name: Galvanic Discharge
+  weight: 1.0
+  avg_copies: 4.0
 - name: Erode
-  weight: 1.0
-  avg_copies: 4.0
-- name: Cleansing Wildfire
-  weight: 1.0
-  avg_copies: 4.0
-- name: Field of Ruin
   weight: 1.0
   avg_copies: 4.0
 - name: Wrath of the Skies
@@ -60,16 +60,16 @@ top_cards:
 - name: Ensnaring Bridge
   weight: 0.9286
   avg_copies: 1.0
-- name: Liquimetal Coating
-  weight: 0.9286
-  avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 0.9286
   avg_copies: 1.0
-- name: Pithing Needle
-  weight: 0.8571
+- name: Liquimetal Coating
+  weight: 0.9286
   avg_copies: 1.0
 - name: Kaheera, the Orphanguard
+  weight: 0.8571
+  avg_copies: 1.0
+- name: Pithing Needle
   weight: 0.8571
   avg_copies: 1.0
 - name: Soulless Jailer
@@ -126,10 +126,10 @@ top_cards:
 - name: Chandra, Awakened Inferno
   weight: 0.0714
   avg_copies: 2.0
-- name: Disruptor Flute
+- name: Ark of Hunger
   weight: 0.0714
   avg_copies: 1.0
-- name: Flashback
+- name: Stormbreath Dragon
   weight: 0.0714
   avg_copies: 1.0
 - name: Crucible of Worlds
@@ -138,19 +138,19 @@ top_cards:
 - name: Sacred Ground
   weight: 0.0714
   avg_copies: 1.0
-- name: Ark of Hunger
+- name: Wrath of God
   weight: 0.0714
   avg_copies: 1.0
-- name: Stormbreath Dragon
+- name: Flashback
   weight: 0.0714
   avg_copies: 1.0
-- name: Wear
+- name: Disruptor Flute
   weight: 0.0714
   avg_copies: 1.0
 - name: Grafdigger's Cage
   weight: 0.0714
   avg_copies: 1.0
-- name: Wrath of God
+- name: Wear
   weight: 0.0714
   avg_copies: 1.0
 ---

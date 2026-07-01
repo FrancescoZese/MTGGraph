@@ -13,10 +13,10 @@ archetypes:
     weight: 0.06
     avg_copies: 1.11
   boros-energy:
-    weight: 0.7396
+    weight: 0.7384
     avg_copies: 1.21
   affinity:
-    weight: 0.3406
+    weight: 0.3398
     avg_copies: 1.36
   burn:
     weight: 0.0345
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.0072
     avg_copies: 3.0
   eldrazi-ramp:
-    weight: 0.0392
+    weight: 0.0388
     avg_copies: 2.0
   izzet-prowess:
     weight: 0.0349

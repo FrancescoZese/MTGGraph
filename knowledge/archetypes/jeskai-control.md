@@ -4,7 +4,7 @@ colors:
 - U
 - R
 name: Jeskai Control
-meta_share: 0.0077
+meta_share: 0.0076
 list_count: 35
 top_cards:
 - name: Flooded Strand
@@ -127,19 +127,19 @@ top_cards:
 - name: March of Otherworldly Light
   weight: 0.2857
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Kaheera, the Orphanguard
   weight: 0.2286
   avg_copies: 1.0
-- name: Kaheera, the Orphanguard
+- name: Otawara, Soaring City
   weight: 0.2286
   avg_copies: 1.0
 - name: Arena of Glory
   weight: 0.2
   avg_copies: 1.75
-- name: Subtlety
+- name: Damping Sphere
   weight: 0.2
   avg_copies: 1.71
-- name: Damping Sphere
+- name: Subtlety
   weight: 0.2
   avg_copies: 1.71
 - name: Beza, the Bounding Spring
@@ -172,10 +172,10 @@ top_cards:
 - name: Fable of the Mirror-Breaker
   weight: 0.1143
   avg_copies: 3.25
-- name: Meltdown
+- name: Stern Scolding
   weight: 0.1143
   avg_copies: 1.0
-- name: Stern Scolding
+- name: Meltdown
   weight: 0.1143
   avg_copies: 1.0
 - name: Thundertrap Trainer
@@ -202,10 +202,10 @@ top_cards:
 - name: Traumatic Critique
   weight: 0.0571
   avg_copies: 1.5
-- name: Wear
+- name: Dovin's Veto
   weight: 0.0571
   avg_copies: 1.0
-- name: Dovin's Veto
+- name: Wear
   weight: 0.0571
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
@@ -223,10 +223,7 @@ top_cards:
 - name: Nulldrifter
   weight: 0.0286
   avg_copies: 3.0
-- name: Erode
-  weight: 0.0286
-  avg_copies: 2.0
-- name: Invert Polarity
+- name: Ephemerate
   weight: 0.0286
   avg_copies: 2.0
 - name: Rest in Peace
@@ -235,43 +232,19 @@ top_cards:
 - name: Drannith Magistrate
   weight: 0.0286
   avg_copies: 2.0
-- name: Prismari Charm
+- name: Invert Polarity
   weight: 0.0286
   avg_copies: 2.0
-- name: Ephemerate
+- name: Erode
+  weight: 0.0286
+  avg_copies: 2.0
+- name: Prismari Charm
   weight: 0.0286
   avg_copies: 2.0
 - name: Harbinger of the Seas
   weight: 0.0286
   avg_copies: 2.0
-- name: Gemstone Caverns
-  weight: 0.0286
-  avg_copies: 1.0
-- name: Emeritus of Ideation
-  weight: 0.0286
-  avg_copies: 1.0
-- name: Windswept Heath
-  weight: 0.0286
-  avg_copies: 1.0
-- name: Timeless Dragon
-  weight: 0.0286
-  avg_copies: 1.0
-- name: Thraben Charm
-  weight: 0.0286
-  avg_copies: 1.0
-- name: Hallowed Moonlight
-  weight: 0.0286
-  avg_copies: 1.0
-- name: Vendilion Clique
-  weight: 0.0286
-  avg_copies: 1.0
-- name: Unlicensed Hearse
-  weight: 0.0286
-  avg_copies: 1.0
-- name: Ghost Vacuum
-  weight: 0.0286
-  avg_copies: 1.0
-- name: Kozilek, Butcher of Truth
+- name: Raugrin Triome
   weight: 0.0286
   avg_copies: 1.0
 - name: Get Lost
@@ -280,7 +253,34 @@ top_cards:
 - name: Path to Exile
   weight: 0.0286
   avg_copies: 1.0
-- name: Raugrin Triome
+- name: Ghost Vacuum
+  weight: 0.0286
+  avg_copies: 1.0
+- name: Unlicensed Hearse
+  weight: 0.0286
+  avg_copies: 1.0
+- name: Emeritus of Ideation
+  weight: 0.0286
+  avg_copies: 1.0
+- name: Thraben Charm
+  weight: 0.0286
+  avg_copies: 1.0
+- name: Windswept Heath
+  weight: 0.0286
+  avg_copies: 1.0
+- name: Vendilion Clique
+  weight: 0.0286
+  avg_copies: 1.0
+- name: Hallowed Moonlight
+  weight: 0.0286
+  avg_copies: 1.0
+- name: Kozilek, Butcher of Truth
+  weight: 0.0286
+  avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.0286
+  avg_copies: 1.0
+- name: Timeless Dragon
   weight: 0.0286
   avg_copies: 1.0
 ---

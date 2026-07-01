@@ -2,13 +2,13 @@
 colors:
 - G
 name: Amulet Titan
-meta_share: 0.0287
+meta_share: 0.0286
 list_count: 131
 top_cards:
-- name: Amulet of Vigor
+- name: Arboreal Grazer
   weight: 1.0
   avg_copies: 4.0
-- name: Arboreal Grazer
+- name: Amulet of Vigor
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
@@ -41,10 +41,10 @@ top_cards:
 - name: Tolaria West
   weight: 1.0
   avg_copies: 1.01
-- name: Mirrorpool
+- name: Hanweir Battlements
   weight: 1.0
   avg_copies: 1.0
-- name: Hanweir Battlements
+- name: Mirrorpool
   weight: 1.0
   avg_copies: 1.0
 - name: Force of Vigor
@@ -152,10 +152,10 @@ top_cards:
 - name: Elder Gargaroth
   weight: 0.0763
   avg_copies: 1.1
-- name: Cephalid Coliseum
+- name: Keen-Eyed Curator
   weight: 0.0687
   avg_copies: 1.0
-- name: Keen-Eyed Curator
+- name: Cephalid Coliseum
   weight: 0.0687
   avg_copies: 1.0
 - name: Relic of Progenitus
@@ -188,26 +188,23 @@ top_cards:
 - name: Dryad of the Ilysian Grove
   weight: 0.0229
   avg_copies: 2.67
-- name: Insidious Fungus
-  weight: 0.0229
-  avg_copies: 1.0
-- name: Kessig Wolf Run
+- name: Valakut, the Molten Pinnacle
   weight: 0.0229
   avg_copies: 1.0
 - name: Heritage Reclamation
   weight: 0.0229
   avg_copies: 1.0
-- name: Windswept Heath
+- name: Insidious Fungus
   weight: 0.0229
   avg_copies: 1.0
-- name: Valakut, the Molten Pinnacle
+- name: Windswept Heath
   weight: 0.0229
   avg_copies: 1.0
 - name: Pyroclasm
   weight: 0.0229
   avg_copies: 1.0
-- name: Cavern of Souls
-  weight: 0.0153
+- name: Kessig Wolf Run
+  weight: 0.0229
   avg_copies: 1.0
 - name: Northampton Farm
   weight: 0.0153
@@ -215,49 +212,52 @@ top_cards:
 - name: Ghost Quarter
   weight: 0.0153
   avg_copies: 1.0
-- name: card:mj-lnir-hammer-of-thor
-  weight: 0.0153
-  avg_copies: 1.0
 - name: Hexdrinker
   weight: 0.0153
   avg_copies: 1.0
-- name: Hurkyl's Recall
+- name: Cavern of Souls
+  weight: 0.0153
+  avg_copies: 1.0
+- name: card:mj-lnir-hammer-of-thor
+  weight: 0.0153
+  avg_copies: 1.0
+- name: Defense Grid
   weight: 0.0076
   avg_copies: 3.0
-- name: Defense Grid
+- name: Hurkyl's Recall
   weight: 0.0076
   avg_copies: 3.0
 - name: Snow-Covered Forest
   weight: 0.0076
   avg_copies: 2.0
-- name: Gemstone Caverns
-  weight: 0.0076
-  avg_copies: 1.0
-- name: Lithomantic Barrage
-  weight: 0.0076
-  avg_copies: 1.0
-- name: card:lumra-bellow-of-the-woods
-  weight: 0.0076
-  avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 0.0076
   avg_copies: 1.0
-- name: Formidable Speaker
-  weight: 0.0076
-  avg_copies: 1.0
-- name: card:gretchen-titchwillow
-  weight: 0.0076
-  avg_copies: 1.0
-- name: Dosan the Falling Leaf
-  weight: 0.0076
-  avg_copies: 1.0
-- name: Carnage Tyrant
+- name: Titania, Protector of Argoth
   weight: 0.0076
   avg_copies: 1.0
 - name: Misty Rainforest
   weight: 0.0076
   avg_copies: 1.0
-- name: Titania, Protector of Argoth
+- name: Formidable Speaker
+  weight: 0.0076
+  avg_copies: 1.0
+- name: Lithomantic Barrage
+  weight: 0.0076
+  avg_copies: 1.0
+- name: card:gretchen-titchwillow
+  weight: 0.0076
+  avg_copies: 1.0
+- name: Carnage Tyrant
+  weight: 0.0076
+  avg_copies: 1.0
+- name: Dosan the Falling Leaf
+  weight: 0.0076
+  avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.0076
+  avg_copies: 1.0
+- name: card:lumra-bellow-of-the-woods
   weight: 0.0076
   avg_copies: 1.0
 ---

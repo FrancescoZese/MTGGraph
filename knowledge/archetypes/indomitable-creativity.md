@@ -9,10 +9,10 @@ name: Indomitable Creativity
 meta_share: 0.0031
 list_count: 14
 top_cards:
-- name: Indomitable Creativity
+- name: Fable of the Mirror-Breaker
   weight: 1.0
   avg_copies: 4.0
-- name: Fable of the Mirror-Breaker
+- name: Indomitable Creativity
   weight: 1.0
   avg_copies: 4.0
 - name: Wrenn and Six
@@ -66,7 +66,7 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.7857
   avg_copies: 2.27
-- name: Xander's Lounge
+- name: Elegant Parlor
   weight: 0.7857
   avg_copies: 1.0
 - name: Sacred Foundry
@@ -75,7 +75,7 @@ top_cards:
 - name: Jetmir's Garden
   weight: 0.7857
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Xander's Lounge
   weight: 0.7857
   avg_copies: 1.0
 - name: Surgical Extraction
@@ -84,10 +84,10 @@ top_cards:
 - name: Wooded Foothills
   weight: 0.6429
   avg_copies: 2.67
-- name: Raph & Mikey, Troublemakers
+- name: Thundering Falls
   weight: 0.6429
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Raph & Mikey, Troublemakers
   weight: 0.6429
   avg_copies: 1.0
 - name: Galvanic Discharge
@@ -117,10 +117,10 @@ top_cards:
 - name: High Noon
   weight: 0.3571
   avg_copies: 2.75
-- name: Iona, Shield of Emeria
+- name: Elesh Norn, Grand Cenobite
   weight: 0.3571
   avg_copies: 1.0
-- name: Elesh Norn, Grand Cenobite
+- name: Iona, Shield of Emeria
   weight: 0.3571
   avg_copies: 1.0
 - name: Meltdown
@@ -129,22 +129,22 @@ top_cards:
 - name: Raucous Theater
   weight: 0.2857
   avg_copies: 1.0
+- name: Faithless Looting
+  weight: 0.2143
+  avg_copies: 4.0
 - name: Persist
   weight: 0.2143
   avg_copies: 4.0
 - name: Thoughtseize
   weight: 0.2143
   avg_copies: 4.0
-- name: Faithless Looting
-  weight: 0.2143
-  avg_copies: 4.0
 - name: Fatal Push
   weight: 0.2143
   avg_copies: 3.33
-- name: Terastodon
+- name: Orim's Chant
   weight: 0.2143
   avg_copies: 2.67
-- name: Orim's Chant
+- name: Terastodon
   weight: 0.2143
   avg_copies: 2.67
 - name: Strix Serenade
@@ -153,22 +153,22 @@ top_cards:
 - name: Spell Pierce
   weight: 0.2143
   avg_copies: 1.4
-- name: Valgavoth, Terror Eater
-  weight: 0.2143
-  avg_copies: 1.0
 - name: Ziatora's Proving Ground
   weight: 0.2143
   avg_copies: 1.0
 - name: Prismari Charm
   weight: 0.2143
   avg_copies: 1.0
+- name: Valgavoth, Terror Eater
+  weight: 0.2143
+  avg_copies: 1.0
 - name: Leyline of the Void
   weight: 0.1429
   avg_copies: 4.0
-- name: Commercial District
+- name: Abrupt Decay
   weight: 0.1429
   avg_copies: 1.0
-- name: Abrupt Decay
+- name: Commercial District
   weight: 0.1429
   avg_copies: 1.0
 - name: Ketria Triome
@@ -192,28 +192,28 @@ top_cards:
 - name: Inquisition of Kozilek
   weight: 0.0714
   avg_copies: 1.5
-- name: Swamp
-  weight: 0.0714
-  avg_copies: 1.0
 - name: Witherbloom Command
   weight: 0.0714
   avg_copies: 1.0
 - name: Rest in Peace
   weight: 0.0714
   avg_copies: 1.0
+- name: Swamp
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Brainsurge
+  weight: 0.0714
+  avg_copies: 1.0
 - name: Turn the Earth
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Molten Collapse
   weight: 0.0714
   avg_copies: 1.0
 - name: Vampires' Vengeance
   weight: 0.0714
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Molten Collapse
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Brainsurge
   weight: 0.0714
   avg_copies: 1.0
 ---

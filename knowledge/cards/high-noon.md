@@ -7,11 +7,11 @@ name: High Noon
 scryfall_id: 9995e0e6-7c9c-4fef-8fd2-8fb1622e6ec8
 set: otj
 type: Enchantment
-meta_presence: 0.2379
+meta_presence: 0.2378
 archetypes:
   boros-energy:
-    weight: 0.7431
-    avg_copies: 1.61
+    weight: 0.7435
+    avg_copies: 1.62
   dimir-control:
     weight: 0.1111
     avg_copies: 1.78
@@ -55,7 +55,7 @@ archetypes:
     weight: 0.7778
     avg_copies: 2.29
   azorius-blink:
-    weight: 0.2745
+    weight: 0.2692
     avg_copies: 2.0
   esper-control:
     weight: 1.0

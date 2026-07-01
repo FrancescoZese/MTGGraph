@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0467
     avg_copies: 1.0
   boros-energy:
-    weight: 0.158
+    weight: 0.1601
     avg_copies: 1.27
   dimir-control:
     weight: 0.0123
@@ -37,7 +37,7 @@ archetypes:
     weight: 0.8485
     avg_copies: 3.31
   eldrazi-ramp:
-    weight: 0.1569
+    weight: 0.1553
     avg_copies: 1.26
   izzet-prowess:
     weight: 1.0
@@ -46,7 +46,7 @@ archetypes:
     weight: 0.8571
     avg_copies: 2.0
   broodscale-combo:
-    weight: 0.0056
+    weight: 0.0055
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.125
@@ -169,8 +169,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-96:
-    weight: 0.7
-    avg_copies: 2.8
+    weight: 0.6364
+    avg_copies: 2.73
   unknown-98:
     weight: 1.0
     avg_copies: 3.67

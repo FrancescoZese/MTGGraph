@@ -25,7 +25,7 @@ archetypes:
     weight: 0.2222
     avg_copies: 2.0
   azorius-blink:
-    weight: 0.2157
+    weight: 0.2115
     avg_copies: 2.58
   elves:
     weight: 1.0

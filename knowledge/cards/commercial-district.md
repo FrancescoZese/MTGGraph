@@ -21,13 +21,13 @@ archetypes:
     weight: 0.0606
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.9412
+    weight: 0.9417
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.1429
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.3833
+    weight: 0.3812
     avg_copies: 1.0
   dredge:
     weight: 0.3636

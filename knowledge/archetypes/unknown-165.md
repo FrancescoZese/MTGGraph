@@ -6,22 +6,22 @@ name: 'Unknown #165'
 meta_share: 0.0002
 list_count: 1
 top_cards:
-- name: Misty Rainforest
-  weight: 1.0
-  avg_copies: 4.0
-- name: Field of Ruin
-  weight: 1.0
-  avg_copies: 4.0
 - name: Wan Shi Tong, Librarian
-  weight: 1.0
-  avg_copies: 4.0
-- name: Subtlety
   weight: 1.0
   avg_copies: 4.0
 - name: Counterspell
   weight: 1.0
   avg_copies: 4.0
+- name: Field of Ruin
+  weight: 1.0
+  avg_copies: 4.0
 - name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
+- name: Misty Rainforest
+  weight: 1.0
+  avg_copies: 4.0
+- name: Subtlety
   weight: 1.0
   avg_copies: 4.0
 - name: Fatal Push
@@ -30,61 +30,58 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 3.0
-- name: Drown in the Loch
-  weight: 1.0
-  avg_copies: 2.0
-- name: Cling to Dust
-  weight: 1.0
-  avg_copies: 2.0
-- name: Spell Snare
-  weight: 1.0
-  avg_copies: 2.0
 - name: Force of Negation
-  weight: 1.0
-  avg_copies: 2.0
-- name: Dress Down
   weight: 1.0
   avg_copies: 2.0
 - name: Nihil Spellbomb
   weight: 1.0
   avg_copies: 2.0
-- name: Stern Scolding
-  weight: 1.0
-  avg_copies: 2.0
-- name: Watery Grave
-  weight: 1.0
-  avg_copies: 2.0
-- name: Undercity Sewers
-  weight: 1.0
-  avg_copies: 2.0
-- name: card:enduring-curiosity
+- name: Spell Snare
   weight: 1.0
   avg_copies: 2.0
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
-- name: Brazen Borrower
+- name: Spell Pierce
+  weight: 1.0
+  avg_copies: 2.0
+- name: Stern Scolding
   weight: 1.0
   avg_copies: 2.0
 - name: Pest Control
   weight: 1.0
   avg_copies: 2.0
-- name: Spell Pierce
+- name: Watery Grave
   weight: 1.0
   avg_copies: 2.0
-- name: Force of Despair
+- name: Drown in the Loch
   weight: 1.0
   avg_copies: 2.0
-- name: Consult the Star Charts
+- name: card:enduring-curiosity
+  weight: 1.0
+  avg_copies: 2.0
+- name: Cling to Dust
+  weight: 1.0
+  avg_copies: 2.0
+- name: Brazen Borrower
   weight: 1.0
   avg_copies: 2.0
 - name: Sheoldred's Edict
   weight: 1.0
   avg_copies: 2.0
-- name: Sink into Stupor
+- name: Dress Down
   weight: 1.0
-  avg_copies: 1.0
-- name: Swamp
+  avg_copies: 2.0
+- name: Consult the Star Charts
+  weight: 1.0
+  avg_copies: 2.0
+- name: Force of Despair
+  weight: 1.0
+  avg_copies: 2.0
+- name: Undercity Sewers
+  weight: 1.0
+  avg_copies: 2.0
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 1.0
 - name: Emperor of Bones
@@ -94,6 +91,9 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Hallowed Fountain
+  weight: 1.0
+  avg_copies: 1.0
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 ---

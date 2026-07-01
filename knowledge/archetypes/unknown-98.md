@@ -8,10 +8,10 @@ top_cards:
 - name: Experimental Synthesizer
   weight: 1.0
   avg_copies: 4.0
-- name: Shrapnel Blast
+- name: Galvanic Blast
   weight: 1.0
   avg_copies: 4.0
-- name: Galvanic Blast
+- name: Shrapnel Blast
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
@@ -29,10 +29,10 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 3.17
-- name: Mishra's Bauble
+- name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 3.0
-- name: Ragavan, Nimble Pilferer
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 3.0
 - name: Mox Opal
@@ -56,13 +56,13 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 1.0
+  avg_copies: 1.0
 - name: Sokenzan, Crucible of Defiance
   weight: 1.0
   avg_copies: 1.0
 - name: Grafdigger's Cage
-  weight: 1.0
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 1.0
 - name: Sundering Eruption
@@ -101,10 +101,10 @@ top_cards:
 - name: Pyroclasm
   weight: 0.3333
   avg_copies: 1.0
-- name: Dragon's Rage Channeler
+- name: Obsidian Charmaw
   weight: 0.1667
   avg_copies: 4.0
-- name: Obsidian Charmaw
+- name: Dragon's Rage Channeler
   weight: 0.1667
   avg_copies: 4.0
 - name: Unstable Amulet

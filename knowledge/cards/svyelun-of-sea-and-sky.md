@@ -10,8 +10,8 @@ type: Legendary Creature — Merfolk God
 meta_presence: 0.0013
 archetypes:
   unknown-42:
-    weight: 0.625
-    avg_copies: 2.43
+    weight: 0.5556
+    avg_copies: 2.5
   unknown-164:
     weight: 1.0
     avg_copies: 3.0

@@ -13,11 +13,14 @@ archetypes:
   dimir-control:
     weight: 0.0617
     avg_copies: 1.0
+  mono-blue-belcher:
+    weight: 0.0145
+    avg_copies: 1.0
   jeskai-energy:
     weight: 0.3
     avg_copies: 1.38
   goryo:
-    weight: 0.1792
+    weight: 0.1784
     avg_copies: 1.21
   necrodominance:
     weight: 0.1351
@@ -32,7 +35,7 @@ archetypes:
     weight: 0.1714
     avg_copies: 1.0
   affinity:
-    weight: 0.1014
+    weight: 0.1012
     avg_copies: 1.02
   domain-zoo:
     weight: 0.4259
@@ -71,7 +74,7 @@ archetypes:
     weight: 0.0455
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.098
+    weight: 0.0962
     avg_copies: 1.8
   izzet-artifacts:
     weight: 0.0312

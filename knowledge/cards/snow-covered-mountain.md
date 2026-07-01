@@ -9,7 +9,7 @@ type: Basic Snow Land — Mountain
 meta_presence: 0.012
 archetypes:
   boros-energy:
-    weight: 0.0278
+    weight: 0.0275
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.1077

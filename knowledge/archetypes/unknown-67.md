@@ -5,7 +5,7 @@ colors:
 - R
 - G
 name: 'Unknown #67'
-meta_share: 0.0125
+meta_share: 0.0124
 list_count: 57
 top_cards:
 - name: Shardless Agent
@@ -47,13 +47,13 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.02
-- name: Stomping Ground
-  weight: 1.0
-  avg_copies: 1.0
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Forest
+  weight: 1.0
+  avg_copies: 1.0
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
 - name: Breeding Pool
@@ -143,10 +143,10 @@ top_cards:
 - name: Commandeer
   weight: 0.1754
   avg_copies: 1.4
-- name: Vibrance
+- name: Hallowed Fountain
   weight: 0.1754
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Vibrance
   weight: 0.1754
   avg_copies: 1.0
 - name: Obsidian Charmaw
@@ -179,10 +179,10 @@ top_cards:
 - name: Windcaller Aven
   weight: 0.0351
   avg_copies: 1.0
-- name: Flooded Grove
+- name: Press the Enemy
   weight: 0.0351
   avg_copies: 1.0
-- name: Press the Enemy
+- name: Flooded Grove
   weight: 0.0351
   avg_copies: 1.0
 - name: Overlord of the Balemurk
@@ -191,40 +191,40 @@ top_cards:
 - name: Fulminator Mage
   weight: 0.0175
   avg_copies: 3.0
-- name: Architects of Will
-  weight: 0.0175
-  avg_copies: 3.0
 - name: Polluted Delta
   weight: 0.0175
   avg_copies: 3.0
-- name: card:anger-of-the-gods
+- name: Architects of Will
   weight: 0.0175
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Bonecrusher Giant
-  weight: 0.0175
-  avg_copies: 2.0
-- name: Vendilion Clique
   weight: 0.0175
   avg_copies: 2.0
 - name: Culling Ritual
   weight: 0.0175
   avg_copies: 2.0
-- name: Harvester of Misery
+- name: Vendilion Clique
   weight: 0.0175
-  avg_copies: 1.0
-- name: Overgrown Tomb
+  avg_copies: 2.0
+- name: card:anger-of-the-gods
   weight: 0.0175
-  avg_copies: 1.0
-- name: Underground Mortuary
-  weight: 0.0175
-  avg_copies: 1.0
-- name: Collector Ouphe
+  avg_copies: 2.0
+- name: Brainsurge
   weight: 0.0175
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.0175
   avg_copies: 1.0
-- name: Brainsurge
+- name: Collector Ouphe
+  weight: 0.0175
+  avg_copies: 1.0
+- name: Overgrown Tomb
+  weight: 0.0175
+  avg_copies: 1.0
+- name: Harvester of Misery
+  weight: 0.0175
+  avg_copies: 1.0
+- name: Underground Mortuary
   weight: 0.0175
   avg_copies: 1.0
 ---

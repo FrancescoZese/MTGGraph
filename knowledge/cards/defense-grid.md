@@ -18,7 +18,7 @@ archetypes:
     weight: 0.2308
     avg_copies: 3.33
   broodscale-combo:
-    weight: 0.0056
+    weight: 0.0055
     avg_copies: 2.0
   unknown-11:
     weight: 0.6

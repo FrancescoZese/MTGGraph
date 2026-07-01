@@ -14,6 +14,6 @@ archetypes:
     weight: 0.0133
     avg_copies: 1.0
   boros-energy:
-    weight: 0.0122
+    weight: 0.012
     avg_copies: 1.14
 ---

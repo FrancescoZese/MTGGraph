@@ -7,10 +7,7 @@ name: 'Unknown #149'
 meta_share: 0.0022
 list_count: 10
 top_cards:
-- name: Ajani, Nacatl Pariah
-  weight: 1.0
-  avg_copies: 4.0
-- name: Arid Mesa
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
@@ -19,7 +16,10 @@ top_cards:
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Guide of Souls
+- name: Arid Mesa
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 4.0
 - name: Quantum Riddler
@@ -55,16 +55,16 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.1
-- name: Mountain
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Island
@@ -139,25 +139,25 @@ top_cards:
 - name: Arena of Glory
   weight: 0.2
   avg_copies: 1.0
+- name: Marsh Flats
+  weight: 0.1
+  avg_copies: 2.0
 - name: Voice of Victory
   weight: 0.1
   avg_copies: 2.0
 - name: Clarion Conqueror
   weight: 0.1
   avg_copies: 2.0
-- name: Marsh Flats
-  weight: 0.1
-  avg_copies: 2.0
-- name: Detect Intrusion
-  weight: 0.1
-  avg_copies: 1.0
-- name: Deafening Silence
+- name: March of Otherworldly Light
   weight: 0.1
   avg_copies: 1.0
 - name: Containment Priest
   weight: 0.1
   avg_copies: 1.0
-- name: March of Otherworldly Light
+- name: Detect Intrusion
+  weight: 0.1
+  avg_copies: 1.0
+- name: Deafening Silence
   weight: 0.1
   avg_copies: 1.0
 ---

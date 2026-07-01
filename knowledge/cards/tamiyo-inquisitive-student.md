@@ -12,8 +12,8 @@ archetypes:
     weight: 0.4691
     avg_copies: 2.24
   mono-blue-belcher:
-    weight: 0.1912
-    avg_copies: 1.77
+    weight: 0.2029
+    avg_copies: 1.75
   jeskai-energy:
     weight: 0.0385
     avg_copies: 1.4
