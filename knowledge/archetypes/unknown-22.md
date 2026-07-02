@@ -7,31 +7,31 @@ name: 'Unknown #22'
 meta_share: 0.0004
 list_count: 2
 top_cards:
-- name: Galvanic Discharge
+- name: Counterspell
   weight: 1.0
   avg_copies: 4.0
 - name: Flame of Anor
   weight: 1.0
   avg_copies: 4.0
-- name: Counterspell
+- name: Snapcaster Mage
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Snapcaster Mage
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Consign to Memory
+- name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 3.5
-- name: Consult the Star Charts
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 3.0
-- name: Mystical Dispute
+- name: Consult the Star Charts
   weight: 1.0
   avg_copies: 3.0
 - name: Island
@@ -52,10 +52,10 @@ top_cards:
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 1.75
-- name: Mystic Gate
+- name: Plains
   weight: 1.0
   avg_copies: 1.5
-- name: Plains
+- name: Mystic Gate
   weight: 1.0
   avg_copies: 1.5
 - name: Celestial Purge
@@ -64,16 +64,16 @@ top_cards:
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.5
-- name: Sacred Foundry
-  weight: 1.0
-  avg_copies: 1.0
-- name: Mountain
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Sacred Foundry
+  weight: 1.0
+  avg_copies: 1.0
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
 - name: Lightning Bolt
@@ -85,7 +85,10 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 0.5
   avg_copies: 3.0
-- name: Thundertrap Trainer
+- name: Traumatic Critique
+  weight: 0.5
+  avg_copies: 2.0
+- name: Arid Mesa
   weight: 0.5
   avg_copies: 2.0
 - name: Phlage, Titan of Fire's Fury
@@ -94,40 +97,37 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 0.5
   avg_copies: 2.0
-- name: Traumatic Critique
-  weight: 0.5
-  avg_copies: 2.0
-- name: Arid Mesa
+- name: Thundertrap Trainer
   weight: 0.5
   avg_copies: 2.0
 - name: Teferi, Time Raveler
   weight: 0.5
   avg_copies: 1.5
+- name: Sink into Stupor
+  weight: 0.5
+  avg_copies: 1.0
 - name: Isochron Scepter
   weight: 0.5
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.5
   avg_copies: 1.0
-- name: Sink into Stupor
-  weight: 0.5
-  avg_copies: 1.0
-- name: Riverpyre Verge
-  weight: 0.5
-  avg_copies: 1.0
-- name: Wan Shi Tong, Librarian
+- name: Arena of Glory
   weight: 0.5
   avg_copies: 1.0
 - name: Beza, the Bounding Spring
   weight: 0.5
   avg_copies: 1.0
-- name: Teferi, Hero of Dominaria
+- name: Riverpyre Verge
   weight: 0.5
   avg_copies: 1.0
 - name: Supreme Verdict
   weight: 0.5
   avg_copies: 1.0
-- name: Arena of Glory
+- name: Teferi, Hero of Dominaria
+  weight: 0.5
+  avg_copies: 1.0
+- name: Wan Shi Tong, Librarian
   weight: 0.5
   avg_copies: 1.0
 ---

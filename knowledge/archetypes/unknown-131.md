@@ -7,28 +7,28 @@ name: 'Unknown #131'
 meta_share: 0.0017
 list_count: 8
 top_cards:
-- name: Quantum Riddler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 4.0
-- name: Psychic Frog
-  weight: 1.0
-  avg_copies: 4.0
-- name: Guide of Souls
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ocelot Pride
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flooded Strand
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Polluted Delta
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
+- name: Guide of Souls
+  weight: 1.0
+  avg_copies: 4.0
+- name: Psychic Frog
+  weight: 1.0
+  avg_copies: 4.0
+- name: Quantum Riddler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ocelot Pride
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
 - name: Starfield Shepherd
@@ -43,31 +43,31 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 2.14
-- name: Ephemerate
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Ephemerate
   weight: 1.0
   avg_copies: 2.0
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 1.88
+- name: Meticulous Archive
+  weight: 1.0
+  avg_copies: 1.75
 - name: Plains
   weight: 1.0
   avg_copies: 1.75
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.75
-- name: Meticulous Archive
-  weight: 1.0
-  avg_copies: 1.75
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.12
-- name: Watery Grave
+- name: Island
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
 - name: Shadowy Backstreet
@@ -88,10 +88,10 @@ top_cards:
 - name: Thoughtseize
   weight: 0.625
   avg_copies: 1.83
-- name: Surgical Extraction
+- name: Nihil Spellbomb
   weight: 0.625
   avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Surgical Extraction
   weight: 0.625
   avg_copies: 1.0
 - name: Burrenton Forge-Tender
@@ -106,28 +106,28 @@ top_cards:
 - name: Undercity Sewers
   weight: 0.25
   avg_copies: 1.0
-- name: Prismatic Ending
-  weight: 0.125
-  avg_copies: 3.0
 - name: Orcish Bowmasters
   weight: 0.125
   avg_copies: 3.0
+- name: Prismatic Ending
+  weight: 0.125
+  avg_copies: 3.0
+- name: High Noon
+  weight: 0.125
+  avg_copies: 2.0
 - name: Voice of Victory
   weight: 0.125
   avg_copies: 2.0
 - name: Containment Priest
   weight: 0.125
   avg_copies: 2.0
-- name: High Noon
-  weight: 0.125
-  avg_copies: 2.0
-- name: Swamp
+- name: Elesh Norn, Mother of Machines
   weight: 0.125
   avg_copies: 1.0
 - name: Clarion Conqueror
   weight: 0.125
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
+- name: Swamp
   weight: 0.125
   avg_copies: 1.0
 ---

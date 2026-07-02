@@ -10,16 +10,16 @@ top_cards:
 - name: Badgermole Cub
   weight: 1.0
   avg_copies: 4.0
-- name: Verdant Catacombs
-  weight: 1.0
-  avg_copies: 4.0
 - name: Nature's Rhythm
   weight: 1.0
   avg_copies: 4.0
-- name: Devoted Druid
+- name: Verdant Catacombs
+  weight: 1.0
+  avg_copies: 4.0
+- name: Tyvar, Jubilant Brawler
   weight: 1.0
   avg_copies: 3.93
-- name: Tyvar, Jubilant Brawler
+- name: Devoted Druid
   weight: 1.0
   avg_copies: 3.93
 - name: Windswept Heath
@@ -55,22 +55,34 @@ top_cards:
 - name: Endurance
   weight: 1.0
   avg_copies: 1.07
-- name: Temple Garden
-  weight: 1.0
-  avg_copies: 1.0
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
-- name: Lush Portico
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 1.0
 - name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
+- name: Underground Mortuary
+  weight: 1.0
+  avg_copies: 1.0
+- name: Godless Shrine
+  weight: 1.0
+  avg_copies: 1.0
 - name: Keen-Eyed Curator
   weight: 1.0
   avg_copies: 1.0
-- name: Misty Rainforest
+- name: Walking Ballista
+  weight: 1.0
+  avg_copies: 1.0
+- name: card:birds-of-paradise
+  weight: 1.0
+  avg_copies: 1.0
+- name: Temple Garden
+  weight: 1.0
+  avg_copies: 1.0
+- name: Lush Portico
   weight: 1.0
   avg_copies: 1.0
 - name: Suncleanser
@@ -79,28 +91,16 @@ top_cards:
 - name: card:ethersworn-canonist
   weight: 1.0
   avg_copies: 1.0
-- name: Overgrown Tomb
-  weight: 1.0
-  avg_copies: 1.0
-- name: Godless Shrine
-  weight: 1.0
-  avg_copies: 1.0
-- name: card:birds-of-paradise
-  weight: 1.0
-  avg_copies: 1.0
-- name: Duskwatch Recruiter
-  weight: 1.0
-  avg_copies: 1.0
-- name: Walking Ballista
+- name: Grist, the Hunger Tide
   weight: 1.0
   avg_copies: 1.0
 - name: Eternal Witness
   weight: 1.0
   avg_copies: 1.0
-- name: Underground Mortuary
+- name: Overgrown Tomb
   weight: 1.0
   avg_copies: 1.0
-- name: Grist, the Hunger Tide
+- name: Duskwatch Recruiter
   weight: 1.0
   avg_copies: 1.0
 - name: Sylvan Safekeeper
@@ -133,10 +133,10 @@ top_cards:
 - name: Forest
   weight: 0.1333
   avg_copies: 2.0
-- name: Formidable Speaker
+- name: Crystal Barricade
   weight: 0.0667
   avg_copies: 1.0
-- name: Crystal Barricade
+- name: Formidable Speaker
   weight: 0.0667
   avg_copies: 1.0
 ---

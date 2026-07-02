@@ -19,8 +19,8 @@ archetypes:
     weight: 0.9344
     avg_copies: 3.35
   jeskai-control:
-    weight: 0.8571
-    avg_copies: 3.33
+    weight: 0.8611
+    avg_copies: 3.32
   esper-control:
     weight: 1.0
     avg_copies: 4.0

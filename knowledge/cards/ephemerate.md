@@ -10,16 +10,16 @@ type: Instant
 meta_presence: 0.1272
 archetypes:
   boros-energy:
-    weight: 0.0052
+    weight: 0.0051
     avg_copies: 1.67
   jeskai-energy:
     weight: 0.9462
     avg_copies: 1.8
   goryo:
-    weight: 0.9906
-    avg_copies: 3.89
+    weight: 0.9907
+    avg_copies: 3.88
   jeskai-control:
-    weight: 0.0286
+    weight: 0.0278
     avg_copies: 2.0
   reanimator:
     weight: 0.037
@@ -28,7 +28,7 @@ archetypes:
     weight: 0.8333
     avg_copies: 2.1
   boros-ponza:
-    weight: 0.0217
+    weight: 0.0216
     avg_copies: 1.0
   4c-omnath:
     weight: 0.25
@@ -64,7 +64,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-70:
-    weight: 0.3333
+    weight: 0.4286
     avg_copies: 2.0
   unknown-74:
     weight: 1.0

@@ -3,7 +3,7 @@ colors:
 - U
 - R
 name: Izzet Artifacts
-meta_share: 0.007
+meta_share: 0.0069
 list_count: 32
 top_cards:
 - name: Mishra's Bauble
@@ -84,13 +84,13 @@ top_cards:
 - name: Pithing Needle
   weight: 0.5
   avg_copies: 1.0
-- name: Skateboard
+- name: Soul-Guide Lantern
   weight: 0.5
   avg_copies: 1.0
 - name: Mountain
   weight: 0.5
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Skateboard
   weight: 0.5
   avg_copies: 1.0
 - name: Quantum Riddler
@@ -168,39 +168,45 @@ top_cards:
 - name: Malevolent Rumble
   weight: 0.0625
   avg_copies: 4.0
+- name: Six
+  weight: 0.0625
+  avg_copies: 2.0
 - name: Annul
   weight: 0.0625
   avg_copies: 2.0
 - name: Endurance
   weight: 0.0625
   avg_copies: 2.0
-- name: Six
-  weight: 0.0625
-  avg_copies: 2.0
-- name: Boseiju, Who Endures
+- name: Hedge Maze
   weight: 0.0625
   avg_copies: 1.0
 - name: Shifting Woodland
   weight: 0.0625
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Grafdigger's Cage
   weight: 0.0625
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Boseiju, Who Endures
   weight: 0.0625
   avg_copies: 1.0
 - name: Stormchaser's Talent
   weight: 0.0312
   avg_copies: 4.0
-- name: Experimental Synthesizer
-  weight: 0.0312
-  avg_copies: 3.0
 - name: Vivi Ornitier
   weight: 0.0312
   avg_copies: 3.0
 - name: Retraction Helix
   weight: 0.0312
   avg_copies: 3.0
+- name: Experimental Synthesizer
+  weight: 0.0312
+  avg_copies: 3.0
+- name: Botanical Sanctum
+  weight: 0.0312
+  avg_copies: 2.0
+- name: The Reality Chip
+  weight: 0.0312
+  avg_copies: 2.0
 - name: card:ledger-shredder
   weight: 0.0312
   avg_copies: 2.0
@@ -210,46 +216,40 @@ top_cards:
 - name: Spell Pierce
   weight: 0.0312
   avg_copies: 2.0
-- name: Botanical Sanctum
-  weight: 0.0312
-  avg_copies: 2.0
 - name: Invasive Surgery
   weight: 0.0312
   avg_copies: 2.0
-- name: The Reality Chip
-  weight: 0.0312
-  avg_copies: 2.0
-- name: Snow-Covered Mountain
-  weight: 0.0312
-  avg_copies: 1.0
-- name: Shivan Reef
+- name: Stomping Ground
   weight: 0.0312
   avg_copies: 1.0
 - name: Swan Song
   weight: 0.0312
   avg_copies: 1.0
-- name: An Offer You Can't Refuse
-  weight: 0.0312
-  avg_copies: 1.0
-- name: Subtlety
-  weight: 0.0312
-  avg_copies: 1.0
-- name: Force of Vigor
+- name: Shivan Reef
   weight: 0.0312
   avg_copies: 1.0
 - name: Snow-Covered Island
   weight: 0.0312
   avg_copies: 1.0
-- name: Nature's Claim
+- name: Ashiok, Dream Render
+  weight: 0.0312
+  avg_copies: 1.0
+- name: Subtlety
   weight: 0.0312
   avg_copies: 1.0
 - name: Meltdown
   weight: 0.0312
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Snow-Covered Mountain
   weight: 0.0312
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Force of Vigor
+  weight: 0.0312
+  avg_copies: 1.0
+- name: Nature's Claim
+  weight: 0.0312
+  avg_copies: 1.0
+- name: An Offer You Can't Refuse
   weight: 0.0312
   avg_copies: 1.0
 ---

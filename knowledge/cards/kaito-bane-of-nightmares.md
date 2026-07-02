@@ -23,13 +23,13 @@ archetypes:
     weight: 0.039
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0044
+    weight: 0.0043
     avg_copies: 2.0
   grixis-shadow:
     weight: 0.2
     avg_copies: 1.0
   goryo1:
-    weight: 0.0169
+    weight: 0.0168
     avg_copies: 1.0
   grixis-control:
     weight: 0.5
@@ -41,8 +41,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.8966
-    avg_copies: 1.41
+    weight: 0.8833
+    avg_copies: 1.42
   unknown-51:
     weight: 1.0
     avg_copies: 1.0

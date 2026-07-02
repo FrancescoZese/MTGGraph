@@ -9,7 +9,7 @@ type: Artifact
 meta_presence: 0.0072
 archetypes:
   amulet-titan:
-    weight: 0.2443
+    weight: 0.2424
     avg_copies: 1.0
   affinity:
     weight: 0.0024

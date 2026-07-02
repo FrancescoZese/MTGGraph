@@ -6,7 +6,7 @@ name: Nihil Spellbomb
 scryfall_id: e5892a23-efae-4731-9b8f-41c87960fe93
 set: a25
 type: Artifact
-meta_presence: 0.094
+meta_presence: 0.0943
 archetypes:
   dimir-control:
     weight: 0.3086
@@ -15,8 +15,8 @@ archetypes:
     weight: 0.0077
     avg_copies: 1.0
   goryo:
-    weight: 0.4601
-    avg_copies: 1.32
+    weight: 0.463
+    avg_copies: 1.31
   domain-zoo:
     weight: 0.5556
     avg_copies: 1.18
@@ -39,7 +39,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0194
+    weight: 0.0192
     avg_copies: 3.5
   simic-ritual:
     weight: 0.013
@@ -63,7 +63,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   goryo1:
-    weight: 0.2034
+    weight: 0.2017
     avg_copies: 1.08
   goryo5:
     weight: 0.1429
@@ -114,8 +114,8 @@ archetypes:
     weight: 0.05
     avg_copies: 2.0
   unknown-47:
-    weight: 0.7931
-    avg_copies: 1.76
+    weight: 0.8
+    avg_copies: 1.75
   unknown-52:
     weight: 1.0
     avg_copies: 2.0

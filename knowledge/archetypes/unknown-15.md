@@ -6,25 +6,25 @@ name: 'Unknown #15'
 meta_share: 0.002
 list_count: 9
 top_cards:
-- name: Mox Opal
-  weight: 1.0
-  avg_copies: 4.0
-- name: Tamiyo, Inquisitive Student
-  weight: 1.0
-  avg_copies: 4.0
 - name: Emry, Lurker of the Loch
   weight: 1.0
   avg_copies: 4.0
 - name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
+- name: Tamiyo, Inquisitive Student
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mox Opal
+  weight: 1.0
+  avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 3.89
-- name: Scalding Tarn
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 3.78
-- name: Mishra's Bauble
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 3.78
 - name: Consign to Memory
@@ -39,10 +39,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.33
-- name: Mountain
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
 - name: Metallic Rebuke
@@ -69,13 +69,13 @@ top_cards:
 - name: Fire Magic
   weight: 0.7778
   avg_copies: 1.29
-- name: Skateboard
+- name: Breeding Pool
   weight: 0.7778
   avg_copies: 1.0
 - name: Pithing Needle
   weight: 0.7778
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Skateboard
   weight: 0.7778
   avg_copies: 1.0
 - name: Unholy Heat
@@ -84,10 +84,10 @@ top_cards:
 - name: Tormod's Crypt
   weight: 0.6667
   avg_copies: 1.25
-- name: Fiery Islet
+- name: Soul-Guide Lantern
   weight: 0.6667
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Fiery Islet
   weight: 0.6667
   avg_copies: 1.0
 - name: Haywire Mite
@@ -111,16 +111,16 @@ top_cards:
 - name: Flooded Strand
   weight: 0.3333
   avg_copies: 1.67
-- name: Shadowspear
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Strix Serenade
+- name: Grafdigger's Cage
   weight: 0.3333
   avg_copies: 1.0
 - name: Engineered Explosives
   weight: 0.3333
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Shadowspear
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Strix Serenade
   weight: 0.3333
   avg_copies: 1.0
 - name: Expressive Iteration
@@ -135,10 +135,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.2222
   avg_copies: 1.0
-- name: Vandalblast
+- name: Wooded Foothills
   weight: 0.2222
   avg_copies: 1.0
-- name: Wooded Foothills
+- name: Vandalblast
   weight: 0.2222
   avg_copies: 1.0
 - name: Relic of Progenitus
@@ -153,34 +153,34 @@ top_cards:
 - name: Portable Hole
   weight: 0.1111
   avg_copies: 3.0
-- name: Teferi, Time Raveler
-  weight: 0.1111
-  avg_copies: 2.0
 - name: Vivi Ornitier
-  weight: 0.1111
-  avg_copies: 2.0
-- name: Whipflare
   weight: 0.1111
   avg_copies: 2.0
 - name: Sink into Stupor
   weight: 0.1111
   avg_copies: 2.0
+- name: Whipflare
+  weight: 0.1111
+  avg_copies: 2.0
 - name: Hallowed Fountain
   weight: 0.1111
   avg_copies: 2.0
+- name: Teferi, Time Raveler
+  weight: 0.1111
+  avg_copies: 2.0
+- name: Annul
+  weight: 0.1111
+  avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.1111
   avg_copies: 1.0
-- name: Annul
+- name: Minamo, School at Water's Edge
   weight: 0.1111
   avg_copies: 1.0
 - name: Snapcaster Mage
   weight: 0.1111
   avg_copies: 1.0
 - name: Lavaspur Boots
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Minamo, School at Water's Edge
   weight: 0.1111
   avg_copies: 1.0
 ---

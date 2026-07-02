@@ -9,6 +9,6 @@ type: Land — Desert
 meta_presence: 0.0009
 archetypes:
   unknown-98:
-    weight: 0.6667
+    weight: 0.5
     avg_copies: 3.0
 ---

@@ -9,7 +9,7 @@ type: Artifact
 meta_presence: 0.0026
 archetypes:
   ruby-storm:
-    weight: 0.0267
+    weight: 0.0261
     avg_copies: 1.75
   amulet-titan:
     weight: 0.0076
@@ -18,7 +18,7 @@ archetypes:
     weight: 0.2308
     avg_copies: 3.33
   broodscale-combo:
-    weight: 0.0055
+    weight: 0.0054
     avg_copies: 2.0
   unknown-11:
     weight: 0.6

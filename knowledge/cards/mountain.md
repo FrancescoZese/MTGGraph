@@ -6,13 +6,13 @@ name: Mountain
 scryfall_id: a642c7b1-d4d1-4125-a66d-560438e5ee51
 set: sos
 type: Basic Land — Mountain
-meta_presence: 0.3674
+meta_presence: 0.368
 archetypes:
   ruby-storm:
     weight: 1.0
-    avg_copies: 2.98
+    avg_copies: 2.97
   boros-energy:
-    weight: 0.8382
+    weight: 0.839
     avg_copies: 1.0
   mono-blue-belcher:
     weight: 0.1884
@@ -21,7 +21,7 @@ archetypes:
     weight: 0.7923
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.2
+    weight: 0.1944
     avg_copies: 1.0
   affinity:
     weight: 0.012
@@ -45,8 +45,8 @@ archetypes:
     weight: 0.8788
     avg_copies: 1.38
   boros-ponza:
-    weight: 0.9855
-    avg_copies: 1.24
+    weight: 0.9856
+    avg_copies: 1.25
   izzet-prowess:
     weight: 0.9913
     avg_copies: 2.33
@@ -93,7 +93,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo1:
-    weight: 0.0085
+    weight: 0.0084
     avg_copies: 1.0
   goryo4:
     weight: 0.9091
@@ -189,7 +189,7 @@ archetypes:
     weight: 0.9
     avg_copies: 1.0
   unknown-70:
-    weight: 0.8333
+    weight: 0.8571
     avg_copies: 1.0
   unknown-71:
     weight: 1.0
@@ -217,7 +217,7 @@ archetypes:
     avg_copies: 1.73
   unknown-98:
     weight: 1.0
-    avg_copies: 3.17
+    avg_copies: 3.38
   unknown-100:
     weight: 1.0
     avg_copies: 1.0
@@ -244,7 +244,7 @@ archetypes:
     avg_copies: 1.0
   unknown-122:
     weight: 1.0
-    avg_copies: 1.81
+    avg_copies: 1.76
   unknown-123:
     weight: 1.0
     avg_copies: 2.0
@@ -290,4 +290,7 @@ archetypes:
   unknown-168:
     weight: 1.0
     avg_copies: 1.0
+  unknown-174:
+    weight: 1.0
+    avg_copies: 5.0
 ---

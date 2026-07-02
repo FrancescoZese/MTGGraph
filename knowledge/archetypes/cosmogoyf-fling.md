@@ -7,10 +7,10 @@ name: Cosmogoyf Fling
 meta_share: 0.0061
 list_count: 28
 top_cards:
-- name: Plunge into Darkness
+- name: Thud
   weight: 1.0
   avg_copies: 4.0
-- name: Thud
+- name: Plunge into Darkness
   weight: 1.0
   avg_copies: 4.0
 - name: Spoils of the Vault
@@ -130,9 +130,6 @@ top_cards:
 - name: Mana Confluence
   weight: 0.0357
   avg_copies: 4.0
-- name: Duress
-  weight: 0.0357
-  avg_copies: 2.0
 - name: Death's Shadow
   weight: 0.0357
   avg_copies: 2.0
@@ -142,19 +139,22 @@ top_cards:
 - name: card:noxious-revival
   weight: 0.0357
   avg_copies: 2.0
-- name: Kaheera, the Orphanguard
+- name: Duress
   weight: 0.0357
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Chancellor of the Dross
   weight: 0.0357
   avg_copies: 1.0
 - name: Meltdown
   weight: 0.0357
   avg_copies: 1.0
-- name: Mountain
+- name: Kaheera, the Orphanguard
   weight: 0.0357
   avg_copies: 1.0
 - name: Disruptor Flute
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Mountain
   weight: 0.0357
   avg_copies: 1.0
 ---

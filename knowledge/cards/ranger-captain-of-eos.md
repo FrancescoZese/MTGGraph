@@ -7,10 +7,10 @@ name: Ranger-Captain of Eos
 scryfall_id: af3928b4-813a-4120-8799-de34235d60ac
 set: mh1
 type: Creature — Human Soldier Ranger
-meta_presence: 0.0827
+meta_presence: 0.0828
 archetypes:
   boros-energy:
-    weight: 0.5491
+    weight: 0.5514
     avg_copies: 1.81
   azorius-blink:
     weight: 0.3269
@@ -28,7 +28,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-70:
-    weight: 0.6667
+    weight: 0.5714
     avg_copies: 1.75
   unknown-75:
     weight: 1.0

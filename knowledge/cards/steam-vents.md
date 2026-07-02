@@ -9,8 +9,8 @@ type: Land — Island Mountain
 meta_presence: 0.3166
 archetypes:
   ruby-storm:
-    weight: 0.14
-    avg_copies: 1.19
+    weight: 0.1503
+    avg_copies: 1.17
   boros-energy:
     weight: 0.0017
     avg_copies: 1.0
@@ -28,9 +28,9 @@ archetypes:
     avg_copies: 1.5
   jeskai-control:
     weight: 1.0
-    avg_copies: 1.2
+    avg_copies: 1.19
   affinity:
-    weight: 0.9783
+    weight: 0.9784
     avg_copies: 1.36
   domain-zoo:
     weight: 1.0
@@ -142,7 +142,7 @@ archetypes:
     avg_copies: 1.0
   unknown-70:
     weight: 1.0
-    avg_copies: 1.33
+    avg_copies: 1.29
   unknown-71:
     weight: 1.0
     avg_copies: 4.0

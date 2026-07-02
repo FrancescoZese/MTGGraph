@@ -9,25 +9,25 @@ top_cards:
 - name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
-- name: Sowing Mycospawn
-  weight: 1.0
-  avg_copies: 4.0
 - name: Utopia Sprawl
   weight: 1.0
   avg_copies: 4.0
-- name: Malevolent Rumble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Eldrazi Temple
+- name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
 - name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
-- name: Ancient Stirrings
+- name: Eldrazi Temple
+  weight: 1.0
+  avg_copies: 4.0
+- name: Malevolent Rumble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 3.4
-- name: Vexing Bauble
+- name: Ancient Stirrings
   weight: 1.0
   avg_copies: 3.4
 - name: Forest
@@ -36,16 +36,16 @@ top_cards:
 - name: Emrakul, the Promised End
   weight: 1.0
   avg_copies: 3.0
-- name: Consign to Memory
-  weight: 1.0
-  avg_copies: 2.2
 - name: Misty Rainforest
   weight: 1.0
   avg_copies: 2.2
-- name: Talisman of Curiosity
+- name: Consign to Memory
+  weight: 1.0
+  avg_copies: 2.2
+- name: Ugin, Eye of the Storms
   weight: 1.0
   avg_copies: 2.0
-- name: Ugin, Eye of the Storms
+- name: Talisman of Curiosity
   weight: 1.0
   avg_copies: 2.0
 - name: Nulldrifter
@@ -54,13 +54,13 @@ top_cards:
 - name: Sire of Seven Deaths
   weight: 1.0
   avg_copies: 1.2
-- name: Hedge Maze
+- name: World Breaker
   weight: 1.0
   avg_copies: 1.0
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
-- name: World Breaker
+- name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
 - name: Sanctum of Ugin
@@ -87,10 +87,10 @@ top_cards:
 - name: Wooded Foothills
   weight: 0.8
   avg_copies: 1.25
-- name: Overgrown Tomb
+- name: Underground Mortuary
   weight: 0.8
   avg_copies: 1.0
-- name: Underground Mortuary
+- name: Overgrown Tomb
   weight: 0.8
   avg_copies: 1.0
 - name: Inquisition of Kozilek
@@ -99,31 +99,28 @@ top_cards:
 - name: Thoughtseize
   weight: 0.4
   avg_copies: 1.0
-- name: Kozilek's Return
+- name: Wastescape Battlemage
   weight: 0.2
   avg_copies: 3.0
 - name: Karn, the Great Creator
   weight: 0.2
   avg_copies: 3.0
-- name: Wastescape Battlemage
+- name: Kozilek's Return
   weight: 0.2
   avg_copies: 3.0
-- name: Talisman of Impulse
-  weight: 0.2
-  avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.2
   avg_copies: 2.0
 - name: Witherbloom Charm
   weight: 0.2
   avg_copies: 2.0
+- name: Talisman of Impulse
+  weight: 0.2
+  avg_copies: 2.0
 - name: Vandalblast
   weight: 0.2
   avg_copies: 2.0
-- name: Ensnaring Bridge
-  weight: 0.2
-  avg_copies: 1.0
-- name: Tormod's Crypt
+- name: Stomping Ground
   weight: 0.2
   avg_copies: 1.0
 - name: Windswept Heath
@@ -135,16 +132,19 @@ top_cards:
 - name: Chalice of the Void
   weight: 0.2
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Disruptor Flute
   weight: 0.2
   avg_copies: 1.0
 - name: Pithing Needle
   weight: 0.2
   avg_copies: 1.0
-- name: Disruptor Flute
+- name: Tormod's Crypt
   weight: 0.2
   avg_copies: 1.0
 - name: Liquimetal Coating
+  weight: 0.2
+  avg_copies: 1.0
+- name: Ensnaring Bridge
   weight: 0.2
   avg_copies: 1.0
 - name: Haywire Mite

@@ -6,13 +6,13 @@ name: Mill
 meta_share: 0.0063
 list_count: 29
 top_cards:
-- name: Archive Trap
+- name: Ruin Crab
   weight: 1.0
   avg_copies: 4.0
 - name: Hedron Crab
   weight: 1.0
   avg_copies: 4.0
-- name: Ruin Crab
+- name: Archive Trap
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -117,10 +117,10 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.3103
   avg_copies: 1.22
-- name: Murderous Cut
+- name: Echoing Truth
   weight: 0.3103
   avg_copies: 1.0
-- name: Echoing Truth
+- name: Murderous Cut
   weight: 0.3103
   avg_copies: 1.0
 - name: Snow-Covered Swamp
@@ -129,10 +129,10 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 0.2759
   avg_copies: 1.2
-- name: Cephalid Coliseum
+- name: Damnation
   weight: 0.2759
   avg_copies: 1.0
-- name: Damnation
+- name: Cephalid Coliseum
   weight: 0.2759
   avg_copies: 1.0
 - name: Ghost Quarter
@@ -156,10 +156,10 @@ top_cards:
 - name: Profane Memento
   weight: 0.1379
   avg_copies: 2.0
-- name: Go for the Throat
+- name: Ashiok, Dream Render
   weight: 0.1379
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Go for the Throat
   weight: 0.1379
   avg_copies: 1.0
 - name: Amulet of Safekeeping
@@ -168,10 +168,10 @@ top_cards:
 - name: Chalice of the Void
   weight: 0.069
   avg_copies: 3.0
-- name: Tamiyo, Inquisitive Student
+- name: Kitsune's Technique
   weight: 0.069
   avg_copies: 2.0
-- name: Kitsune's Technique
+- name: Tamiyo, Inquisitive Student
   weight: 0.069
   avg_copies: 2.0
 - name: Force of Negation
@@ -183,16 +183,16 @@ top_cards:
 - name: Illness in the Ranks
   weight: 0.069
   avg_copies: 1.0
-- name: White Orchid Phantom
+- name: Erode
   weight: 0.0345
   avg_copies: 4.0
 - name: Path to Exile
   weight: 0.0345
   avg_copies: 4.0
-- name: Erode
+- name: Trapmaker's Snare
   weight: 0.0345
   avg_copies: 4.0
-- name: Trapmaker's Snare
+- name: White Orchid Phantom
   weight: 0.0345
   avg_copies: 4.0
 - name: Leyline of the Void
@@ -204,34 +204,28 @@ top_cards:
 - name: Spell Snare
   weight: 0.0345
   avg_copies: 2.0
-- name: Hurkyl's Recall
-  weight: 0.0345
-  avg_copies: 2.0
 - name: Flare of Denial
-  weight: 0.0345
-  avg_copies: 2.0
-- name: Meltdown
   weight: 0.0345
   avg_copies: 2.0
 - name: Vendetta
   weight: 0.0345
   avg_copies: 2.0
-- name: Ravenous Trap
+- name: Hurkyl's Recall
+  weight: 0.0345
+  avg_copies: 2.0
+- name: Meltdown
+  weight: 0.0345
+  avg_copies: 2.0
+- name: Prismatic Vista
   weight: 0.0345
   avg_copies: 1.0
 - name: Mindbreak Trap
   weight: 0.0345
   avg_copies: 1.0
-- name: Steam Vents
-  weight: 0.0345
-  avg_copies: 1.0
-- name: card:loki-god-of-mischief
+- name: Bloodchief's Thirst
   weight: 0.0345
   avg_copies: 1.0
 - name: Darkslick Shores
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Hallowed Fountain
   weight: 0.0345
   avg_copies: 1.0
 - name: Meticulous Archive
@@ -240,16 +234,22 @@ top_cards:
 - name: Subtlety
   weight: 0.0345
   avg_copies: 1.0
-- name: Bloodchief's Thirst
+- name: Ravenous Trap
   weight: 0.0345
   avg_copies: 1.0
-- name: Requiting Hex
+- name: card:loki-god-of-mischief
   weight: 0.0345
   avg_copies: 1.0
 - name: Plains
   weight: 0.0345
   avg_copies: 1.0
-- name: Prismatic Vista
+- name: Requiting Hex
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Steam Vents
   weight: 0.0345
   avg_copies: 1.0
 ---

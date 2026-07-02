@@ -6,7 +6,7 @@ name: Mono Green Ramp
 meta_share: 0.0013
 list_count: 6
 top_cards:
-- name: Green Sun's Zenith
+- name: Quirion Ranger
   weight: 1.0
   avg_copies: 4.0
 - name: Badgermole Cub
@@ -15,7 +15,7 @@ top_cards:
 - name: Springheart Nantuko
   weight: 1.0
   avg_copies: 4.0
-- name: Quirion Ranger
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 4.0
 - name: Windswept Heath
@@ -45,13 +45,13 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.17
-- name: Ashaya, Soul of the Wild
+- name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
 - name: Craterhoof Behemoth
   weight: 1.0
   avg_copies: 1.0
-- name: Collector Ouphe
+- name: Ashaya, Soul of the Wild
   weight: 1.0
   avg_copies: 1.0
 - name: Chomping Changeling
@@ -81,10 +81,10 @@ top_cards:
 - name: Mai, Scornful Striker
   weight: 0.6667
   avg_copies: 2.75
-- name: Ashiok, Dream Render
+- name: Nissa, Who Shakes the World
   weight: 0.6667
   avg_copies: 2.0
-- name: Nissa, Who Shakes the World
+- name: Ashiok, Dream Render
   weight: 0.6667
   avg_copies: 2.0
 - name: Overgrown Tomb
@@ -96,16 +96,16 @@ top_cards:
 - name: Nissa, Resurgent Animist
   weight: 0.6667
   avg_copies: 1.0
-- name: Formidable Speaker
-  weight: 0.6667
-  avg_copies: 1.0
 - name: Underground Mortuary
   weight: 0.6667
   avg_copies: 1.0
-- name: Slumbering Trudge
+- name: Formidable Speaker
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Fanatic of Rhonas
   weight: 0.3333
   avg_copies: 4.0
-- name: Fanatic of Rhonas
+- name: Slumbering Trudge
   weight: 0.3333
   avg_copies: 4.0
 - name: The Great Henge
@@ -123,10 +123,10 @@ top_cards:
 - name: Fade from History
   weight: 0.1667
   avg_copies: 3.0
-- name: Vexing Bauble
+- name: Force of Vigor
   weight: 0.1667
   avg_copies: 3.0
-- name: Force of Vigor
+- name: Vexing Bauble
   weight: 0.1667
   avg_copies: 3.0
 - name: Soulless Jailer

@@ -6,13 +6,7 @@ name: 'Unknown #165'
 meta_share: 0.0002
 list_count: 1
 top_cards:
-- name: Wan Shi Tong, Librarian
-  weight: 1.0
-  avg_copies: 4.0
-- name: Counterspell
-  weight: 1.0
-  avg_copies: 4.0
-- name: Field of Ruin
+- name: Subtlety
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -21,31 +15,34 @@ top_cards:
 - name: Misty Rainforest
   weight: 1.0
   avg_copies: 4.0
-- name: Subtlety
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Counterspell
+  weight: 1.0
+  avg_copies: 4.0
+- name: Wan Shi Tong, Librarian
+  weight: 1.0
+  avg_copies: 4.0
+- name: Field of Ruin
   weight: 1.0
   avg_copies: 4.0
 - name: Island
   weight: 1.0
   avg_copies: 3.0
-- name: Force of Negation
+- name: Spell Snare
+  weight: 1.0
+  avg_copies: 2.0
+- name: card:enduring-curiosity
   weight: 1.0
   avg_copies: 2.0
 - name: Nihil Spellbomb
   weight: 1.0
   avg_copies: 2.0
-- name: Spell Snare
+- name: Cling to Dust
   weight: 1.0
   avg_copies: 2.0
 - name: Mystical Dispute
-  weight: 1.0
-  avg_copies: 2.0
-- name: Spell Pierce
-  weight: 1.0
-  avg_copies: 2.0
-- name: Stern Scolding
   weight: 1.0
   avg_copies: 2.0
 - name: Pest Control
@@ -54,37 +51,40 @@ top_cards:
 - name: Watery Grave
   weight: 1.0
   avg_copies: 2.0
-- name: Drown in the Loch
-  weight: 1.0
-  avg_copies: 2.0
-- name: card:enduring-curiosity
-  weight: 1.0
-  avg_copies: 2.0
-- name: Cling to Dust
-  weight: 1.0
-  avg_copies: 2.0
-- name: Brazen Borrower
-  weight: 1.0
-  avg_copies: 2.0
-- name: Sheoldred's Edict
-  weight: 1.0
-  avg_copies: 2.0
-- name: Dress Down
+- name: Force of Despair
   weight: 1.0
   avg_copies: 2.0
 - name: Consult the Star Charts
   weight: 1.0
   avg_copies: 2.0
-- name: Force of Despair
+- name: Spell Pierce
+  weight: 1.0
+  avg_copies: 2.0
+- name: Dress Down
+  weight: 1.0
+  avg_copies: 2.0
+- name: Drown in the Loch
+  weight: 1.0
+  avg_copies: 2.0
+- name: Brazen Borrower
+  weight: 1.0
+  avg_copies: 2.0
+- name: Force of Negation
   weight: 1.0
   avg_copies: 2.0
 - name: Undercity Sewers
   weight: 1.0
   avg_copies: 2.0
+- name: Sheoldred's Edict
+  weight: 1.0
+  avg_copies: 2.0
+- name: Stern Scolding
+  weight: 1.0
+  avg_copies: 2.0
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 1.0
-- name: Emperor of Bones
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Orcish Bowmasters
@@ -93,7 +93,7 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Emperor of Bones
   weight: 1.0
   avg_copies: 1.0
 ---

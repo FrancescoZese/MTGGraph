@@ -13,10 +13,10 @@ top_cards:
 - name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 3.8
-- name: Ajani, Nacatl Pariah
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 3.8
 - name: Arid Mesa
@@ -43,10 +43,10 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.03
-- name: Blood Crypt
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Shadowy Backstreet
@@ -55,10 +55,10 @@ top_cards:
 - name: Thoughtseize
   weight: 0.9667
   avg_copies: 2.44
-- name: Bloodstained Mire
+- name: Orcish Bowmasters
   weight: 0.9667
   avg_copies: 2.17
-- name: Orcish Bowmasters
+- name: Bloodstained Mire
   weight: 0.9667
   avg_copies: 2.17
 - name: Fatal Push
@@ -166,7 +166,7 @@ top_cards:
 - name: Lingering Souls
   weight: 0.0333
   avg_copies: 2.0
-- name: Strategic Betrayal
+- name: Solitude
   weight: 0.0333
   avg_copies: 1.0
 - name: Haliya, Guided by Light
@@ -175,7 +175,7 @@ top_cards:
 - name: Faerie Macabre
   weight: 0.0333
   avg_copies: 1.0
-- name: Solitude
+- name: Strategic Betrayal
   weight: 0.0333
   avg_copies: 1.0
 ---

@@ -2,28 +2,28 @@
 colors:
 - G
 name: 'Unknown #61'
-meta_share: 0.0055
+meta_share: 0.0054
 list_count: 25
 top_cards:
 - name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
-- name: Sowing Mycospawn
-  weight: 1.0
-  avg_copies: 4.0
 - name: Slumbering Trudge
   weight: 1.0
   avg_copies: 4.0
-- name: Eldrazi Temple
+- name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
 - name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
-- name: Green Sun's Zenith
+- name: Eldrazi Temple
+  weight: 1.0
+  avg_copies: 4.0
+- name: Disciple of Freyalise
   weight: 1.0
   avg_copies: 3.92
-- name: Disciple of Freyalise
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 3.92
 - name: Emrakul, the Promised End
@@ -113,52 +113,52 @@ top_cards:
 - name: Thief of Existence
   weight: 0.04
   avg_copies: 3.0
-- name: Hashep Oasis
-  weight: 0.04
-  avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.04
   avg_copies: 2.0
-- name: Soul-Guide Lantern
-  weight: 0.04
-  avg_copies: 2.0
-- name: Emrakul, the Aeons Torn
+- name: Hashep Oasis
   weight: 0.04
   avg_copies: 2.0
 - name: Ghost Vacuum
   weight: 0.04
   avg_copies: 2.0
-- name: Bojuka Bog
+- name: Emrakul, the Aeons Torn
   weight: 0.04
-  avg_copies: 1.0
-- name: Insidious Fungus
+  avg_copies: 2.0
+- name: Soul-Guide Lantern
+  weight: 0.04
+  avg_copies: 2.0
+- name: Ghalta, Stampede Tyrant
   weight: 0.04
   avg_copies: 1.0
 - name: Elder Gargaroth
   weight: 0.04
   avg_copies: 1.0
-- name: Shifting Woodland
-  weight: 0.04
-  avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.04
   avg_copies: 1.0
-- name: Icetill Explorer
+- name: Insidious Fungus
   weight: 0.04
   avg_copies: 1.0
-- name: Ghalta, Stampede Tyrant
+- name: Ouroboroid
   weight: 0.04
   avg_copies: 1.0
-- name: Tajuru Preserver
+- name: Bojuka Bog
+  weight: 0.04
+  avg_copies: 1.0
+- name: Shifting Woodland
   weight: 0.04
   avg_copies: 1.0
 - name: Outland Liberator
   weight: 0.04
   avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Icetill Explorer
   weight: 0.04
   avg_copies: 1.0
-- name: Ouroboroid
+- name: Tajuru Preserver
+  weight: 0.04
+  avg_copies: 1.0
+- name: Gemstone Caverns
   weight: 0.04
   avg_copies: 1.0
 ---

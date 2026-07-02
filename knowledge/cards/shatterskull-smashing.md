@@ -9,7 +9,7 @@ type: Sorcery // Land
 meta_presence: 0.0087
 archetypes:
   ruby-storm:
-    weight: 0.02
+    weight: 0.0196
     avg_copies: 1.0
   mono-red-belcher:
     weight: 1.0

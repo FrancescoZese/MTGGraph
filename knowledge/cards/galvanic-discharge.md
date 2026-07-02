@@ -19,14 +19,14 @@ archetypes:
     weight: 0.0656
     avg_copies: 3.25
   jeskai-control:
-    weight: 0.9714
-    avg_copies: 3.74
+    weight: 0.9722
+    avg_copies: 3.71
   mardu-blink:
     weight: 0.75
     avg_copies: 4.0
   boros-ponza:
-    weight: 0.8478
-    avg_copies: 3.79
+    weight: 0.8489
+    avg_copies: 3.78
   4c-omnath:
     weight: 0.25
     avg_copies: 2.0

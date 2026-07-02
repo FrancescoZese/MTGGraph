@@ -4,7 +4,7 @@ colors:
 - U
 - B
 name: Esper Blink
-meta_share: 0.0183
+meta_share: 0.0182
 list_count: 84
 top_cards:
 - name: Solitude
@@ -58,10 +58,10 @@ top_cards:
 - name: Fatal Push
   weight: 0.9643
   avg_copies: 3.47
-- name: Shadowy Backstreet
+- name: Undercity Sewers
   weight: 0.9643
   avg_copies: 1.0
-- name: Undercity Sewers
+- name: Shadowy Backstreet
   weight: 0.9643
   avg_copies: 1.0
 - name: Thoughtseize
@@ -154,19 +154,19 @@ top_cards:
 - name: Force of Negation
   weight: 0.0357
   avg_copies: 2.67
-- name: Practiced Offense
-  weight: 0.0357
-  avg_copies: 2.33
 - name: Subtlety
   weight: 0.0357
   avg_copies: 2.33
+- name: Practiced Offense
+  weight: 0.0357
+  avg_copies: 2.33
+- name: Graveyard Trespasser
+  weight: 0.0357
+  avg_copies: 2.0
 - name: Abhorrent Oculus
   weight: 0.0357
   avg_copies: 2.0
 - name: Northampton Farm
-  weight: 0.0357
-  avg_copies: 2.0
-- name: Graveyard Trespasser
   weight: 0.0357
   avg_copies: 2.0
 - name: Strix Serenade
@@ -193,16 +193,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.0238
   avg_copies: 2.0
-- name: Hydroelectric Specimen
-  weight: 0.0238
-  avg_copies: 1.0
-- name: Pest Control
+- name: Snow-Covered Island
   weight: 0.0238
   avg_copies: 1.0
 - name: Floodfarm Verge
-  weight: 0.0238
-  avg_copies: 1.0
-- name: Snow-Covered Island
   weight: 0.0238
   avg_copies: 1.0
 - name: Snow-Covered Swamp
@@ -211,13 +205,19 @@ top_cards:
 - name: Snow-Covered Plains
   weight: 0.0238
   avg_copies: 1.0
+- name: Hydroelectric Specimen
+  weight: 0.0238
+  avg_copies: 1.0
+- name: Pest Control
+  weight: 0.0238
+  avg_copies: 1.0
 - name: No More Lies
   weight: 0.0119
   avg_copies: 4.0
-- name: card:loki-god-of-mischief
+- name: Deafening Silence
   weight: 0.0119
   avg_copies: 3.0
-- name: Deafening Silence
+- name: card:loki-god-of-mischief
   weight: 0.0119
   avg_copies: 3.0
 - name: Vindicate
@@ -226,34 +226,22 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 0.0119
   avg_copies: 2.0
-- name: Sacred Ground
-  weight: 0.0119
-  avg_copies: 1.0
 - name: Cling to Dust
   weight: 0.0119
   avg_copies: 1.0
 - name: Path to Exile
   weight: 0.0119
   avg_copies: 1.0
-- name: Ghost Vacuum
+- name: Sacred Ground
   weight: 0.0119
   avg_copies: 1.0
-- name: Supreme Verdict
+- name: Emrakul, the Aeons Torn
   weight: 0.0119
   avg_copies: 1.0
-- name: Exorcise
-  weight: 0.0119
-  avg_copies: 1.0
-- name: Stony Silence
+- name: Soul-Guide Lantern
   weight: 0.0119
   avg_copies: 1.0
 - name: Emptiness
-  weight: 0.0119
-  avg_copies: 1.0
-- name: Spell Pierce
-  weight: 0.0119
-  avg_copies: 1.0
-- name: Emeritus of Ideation
   weight: 0.0119
   avg_copies: 1.0
 - name: Darkblast
@@ -262,16 +250,28 @@ top_cards:
 - name: Windswept Heath
   weight: 0.0119
   avg_copies: 1.0
-- name: Faerie Macabre
+- name: Supreme Verdict
+  weight: 0.0119
+  avg_copies: 1.0
+- name: Stony Silence
   weight: 0.0119
   avg_copies: 1.0
 - name: Kataki, War's Wage
   weight: 0.0119
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Ghost Vacuum
   weight: 0.0119
   avg_copies: 1.0
-- name: Emrakul, the Aeons Torn
+- name: Spell Pierce
+  weight: 0.0119
+  avg_copies: 1.0
+- name: Exorcise
+  weight: 0.0119
+  avg_copies: 1.0
+- name: Emeritus of Ideation
+  weight: 0.0119
+  avg_copies: 1.0
+- name: Faerie Macabre
   weight: 0.0119
   avg_copies: 1.0
 ---

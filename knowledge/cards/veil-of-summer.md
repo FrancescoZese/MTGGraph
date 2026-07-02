@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0325
 archetypes:
   ruby-storm:
-    weight: 0.04
+    weight: 0.0392
     avg_copies: 2.83
   hardened-scales:
     weight: 0.75
@@ -28,7 +28,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   broodscale-combo:
-    weight: 0.2597
+    weight: 0.2554
     avg_copies: 2.09
   cosmogoyf-fling:
     weight: 0.5

@@ -7,11 +7,11 @@ name: Ignoble Hierarch
 scryfall_id: e802cfe1-45e0-47cd-8745-363ccc0f2af8
 set: ecc
 type: Creature — Goblin Shaman
-meta_presence: 0.0044
+meta_presence: 0.0046
 archetypes:
   yawgmoth-combo:
-    weight: 0.1857
-    avg_copies: 1.31
+    weight: 0.1944
+    avg_copies: 1.29
   mono-green-stompy:
     weight: 1.0
     avg_copies: 4.0

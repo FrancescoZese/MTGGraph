@@ -9,16 +9,16 @@ top_cards:
 - name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
-- name: Through the Breach
+- name: Emrakul, the Aeons Torn
+  weight: 1.0
+  avg_copies: 4.0
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
-- name: Emrakul, the Aeons Torn
-  weight: 1.0
-  avg_copies: 4.0
-- name: Kozilek's Command
+- name: Through the Breach
   weight: 1.0
   avg_copies: 4.0
 - name: Devourer of Destiny
@@ -30,10 +30,10 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Stock Up
+- name: Talisman of Creativity
   weight: 0.75
   avg_copies: 4.0
-- name: Talisman of Creativity
+- name: Stock Up
   weight: 0.75
   avg_copies: 4.0
 - name: Consign to Memory
@@ -51,10 +51,10 @@ top_cards:
 - name: Disruptor Flute
   weight: 0.75
   avg_copies: 2.33
-- name: Shivan Reef
+- name: Island
   weight: 0.75
   avg_copies: 2.0
-- name: Island
+- name: Shivan Reef
   weight: 0.75
   avg_copies: 2.0
 - name: Steam Vents
@@ -96,10 +96,10 @@ top_cards:
 - name: Thundering Falls
   weight: 0.5
   avg_copies: 1.0
-- name: Faithless Looting
+- name: Goryo's Vengeance
   weight: 0.25
   avg_copies: 4.0
-- name: Goryo's Vengeance
+- name: Thoughtseize
   weight: 0.25
   avg_copies: 4.0
 - name: Talisman of Indulgence
@@ -108,40 +108,40 @@ top_cards:
 - name: Bloodstained Mire
   weight: 0.25
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Faithless Looting
   weight: 0.25
   avg_copies: 4.0
-- name: Trinisphere
-  weight: 0.25
-  avg_copies: 3.0
 - name: Fire Magic
   weight: 0.25
   avg_copies: 3.0
+- name: Trinisphere
+  weight: 0.25
+  avg_copies: 3.0
 - name: Void Mirror
+  weight: 0.25
+  avg_copies: 2.0
+- name: Meltdown
+  weight: 0.25
+  avg_copies: 2.0
+- name: Raucous Theater
+  weight: 0.25
+  avg_copies: 2.0
+- name: Remand
+  weight: 0.25
+  avg_copies: 2.0
+- name: Fable of the Mirror-Breaker
+  weight: 0.25
+  avg_copies: 2.0
+- name: Blood Crypt
+  weight: 0.25
+  avg_copies: 2.0
+- name: Ashiok, Dream Render
   weight: 0.25
   avg_copies: 2.0
 - name: Talisman of Curiosity
   weight: 0.25
   avg_copies: 2.0
 - name: Unholy Heat
-  weight: 0.25
-  avg_copies: 2.0
-- name: Blood Crypt
-  weight: 0.25
-  avg_copies: 2.0
-- name: Raucous Theater
-  weight: 0.25
-  avg_copies: 2.0
-- name: Fable of the Mirror-Breaker
-  weight: 0.25
-  avg_copies: 2.0
-- name: Meltdown
-  weight: 0.25
-  avg_copies: 2.0
-- name: Ashiok, Dream Render
-  weight: 0.25
-  avg_copies: 2.0
-- name: Remand
   weight: 0.25
   avg_copies: 2.0
 - name: Boseiju, Who Shelters All

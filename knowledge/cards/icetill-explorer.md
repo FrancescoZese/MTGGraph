@@ -10,16 +10,16 @@ type: Creature — Insect Scout
 meta_presence: 0.0316
 archetypes:
   amulet-titan:
-    weight: 0.2443
+    weight: 0.2424
     avg_copies: 1.02
   eldrazi-ramp:
-    weight: 0.7767
+    weight: 0.7788
     avg_copies: 2.38
   samwise-combo:
     weight: 0.0179
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0552
+    weight: 0.0543
     avg_copies: 1.43
   scapeshift-combo:
     weight: 1.0

@@ -9,13 +9,13 @@ name: 'Unknown #85'
 meta_share: 0.0022
 list_count: 10
 top_cards:
-- name: Lightning Bolt
+- name: Leyline Binding
   weight: 1.0
   avg_copies: 4.0
 - name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline Binding
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Scion of Draco
@@ -60,10 +60,10 @@ top_cards:
 - name: Wear
   weight: 0.9
   avg_copies: 2.0
-- name: Sacred Foundry
+- name: Breeding Pool
   weight: 0.9
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Sacred Foundry
   weight: 0.9
   avg_copies: 1.0
 - name: Arid Mesa
@@ -108,25 +108,25 @@ top_cards:
 - name: Plains
   weight: 0.3
   avg_copies: 1.0
-- name: Quantum Riddler
+- name: Mana Tithe
   weight: 0.2
   avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.2
   avg_copies: 2.0
-- name: Mana Tithe
+- name: Quantum Riddler
   weight: 0.2
   avg_copies: 2.0
 - name: Rest in Peace
   weight: 0.2
   avg_copies: 1.5
+- name: Surgical Extraction
+  weight: 0.2
+  avg_copies: 1.0
 - name: Savai Triome
   weight: 0.2
   avg_copies: 1.0
 - name: Overgrown Tomb
-  weight: 0.2
-  avg_copies: 1.0
-- name: Surgical Extraction
   weight: 0.2
   avg_copies: 1.0
 - name: Spell Queller
@@ -138,16 +138,7 @@ top_cards:
 - name: Pick Your Poison
   weight: 0.1
   avg_copies: 2.0
-- name: Fable of the Mirror-Breaker
-  weight: 0.1
-  avg_copies: 2.0
 - name: Endurance
-  weight: 0.1
-  avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 0.1
-  avg_copies: 2.0
-- name: Laelia, the Blade Reforged
   weight: 0.1
   avg_copies: 2.0
 - name: Doorkeeper Thrull
@@ -156,13 +147,19 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.1
   avg_copies: 2.0
+- name: Vexing Bauble
+  weight: 0.1
+  avg_copies: 2.0
+- name: Fable of the Mirror-Breaker
+  weight: 0.1
+  avg_copies: 2.0
+- name: Laelia, the Blade Reforged
+  weight: 0.1
+  avg_copies: 2.0
 - name: Rough
   weight: 0.1
   avg_copies: 2.0
-- name: Hidetsugu Consumes All
-  weight: 0.1
-  avg_copies: 1.0
-- name: Lush Portico
+- name: Zagoth Triome
   weight: 0.1
   avg_copies: 1.0
 - name: Pyroclasm
@@ -171,16 +168,19 @@ top_cards:
 - name: Chalice of the Void
   weight: 0.1
   avg_copies: 1.0
-- name: Hedge Maze
-  weight: 0.1
-  avg_copies: 1.0
 - name: Island
   weight: 0.1
   avg_copies: 1.0
-- name: Zagoth Triome
+- name: Hedge Maze
   weight: 0.1
   avg_copies: 1.0
 - name: Xander's Lounge
+  weight: 0.1
+  avg_copies: 1.0
+- name: Lush Portico
+  weight: 0.1
+  avg_copies: 1.0
+- name: Hidetsugu Consumes All
   weight: 0.1
   avg_copies: 1.0
 ---
