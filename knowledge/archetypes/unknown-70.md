@@ -7,13 +7,13 @@ name: 'Unknown #70'
 meta_share: 0.0015
 list_count: 7
 top_cards:
-- name: Guide of Souls
+- name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
 - name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 4.0
-- name: Galvanic Discharge
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
@@ -52,10 +52,10 @@ top_cards:
 - name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.14
-- name: Ragavan, Nimble Pilferer
+- name: Scalding Tarn
   weight: 0.8571
   avg_copies: 3.33
-- name: Scalding Tarn
+- name: Ragavan, Nimble Pilferer
   weight: 0.8571
   avg_copies: 3.33
 - name: Goblin Bombardment
@@ -64,10 +64,10 @@ top_cards:
 - name: High Noon
   weight: 0.8571
   avg_copies: 1.67
-- name: Meticulous Archive
+- name: Mountain
   weight: 0.8571
   avg_copies: 1.0
-- name: Mountain
+- name: Meticulous Archive
   weight: 0.8571
   avg_copies: 1.0
 - name: Obsidian Charmaw
@@ -100,10 +100,10 @@ top_cards:
 - name: Voice of Victory
   weight: 0.4286
   avg_copies: 2.33
-- name: Ephemerate
+- name: Fable of the Mirror-Breaker
   weight: 0.4286
   avg_copies: 2.0
-- name: Fable of the Mirror-Breaker
+- name: Ephemerate
   weight: 0.4286
   avg_copies: 2.0
 - name: Seasoned Pyromancer
@@ -139,25 +139,28 @@ top_cards:
 - name: Deafening Silence
   weight: 0.1429
   avg_copies: 2.0
-- name: Surgical Extraction
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Witch Enchanter
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Lightning Bolt
   weight: 0.1429
   avg_copies: 1.0
 - name: Magus of the Moon
   weight: 0.1429
   avg_copies: 1.0
-- name: The Legend of Roku
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Boromir, Warden of the Tower
   weight: 0.1429
   avg_copies: 1.0
+- name: Strix Serenade
+  weight: 0.1429
+  avg_copies: 1.0
 - name: Spell Pierce
+  weight: 0.1429
+  avg_copies: 1.0
+- name: The Legend of Roku
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Lightning Bolt
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Marsh Flats
   weight: 0.1429
   avg_copies: 1.0
 - name: Soul-Guide Lantern
@@ -166,10 +169,7 @@ top_cards:
 - name: Vandalblast
   weight: 0.1429
   avg_copies: 1.0
-- name: Strix Serenade
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Marsh Flats
+- name: Surgical Extraction
   weight: 0.1429
   avg_copies: 1.0
 ---

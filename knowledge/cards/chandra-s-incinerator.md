@@ -10,6 +10,6 @@ type: Creature — Elemental
 meta_presence: 0.0009
 archetypes:
   burn:
-    weight: 0.1379
+    weight: 0.1333
     avg_copies: 3.25
 ---

@@ -4,7 +4,7 @@ colors:
 - R
 - G
 name: Cosmogoyf Fling
-meta_share: 0.0061
+meta_share: 0.006
 list_count: 28
 top_cards:
 - name: Thud
@@ -13,10 +13,10 @@ top_cards:
 - name: Plunge into Darkness
   weight: 1.0
   avg_copies: 4.0
-- name: Spoils of the Vault
+- name: Gemstone Caverns
   weight: 1.0
   avg_copies: 3.89
-- name: Gemstone Caverns
+- name: Spoils of the Vault
   weight: 1.0
   avg_copies: 3.89
 - name: Blackcleave Cliffs
@@ -100,10 +100,10 @@ top_cards:
 - name: Fling
   weight: 0.1786
   avg_copies: 1.0
-- name: Leyline of the Void
+- name: Ghor-Clan Rampager
   weight: 0.1429
   avg_copies: 1.0
-- name: Ghor-Clan Rampager
+- name: Leyline of the Void
   weight: 0.1429
   avg_copies: 1.0
 - name: Faithless Looting
@@ -130,7 +130,7 @@ top_cards:
 - name: Mana Confluence
   weight: 0.0357
   avg_copies: 4.0
-- name: Death's Shadow
+- name: Duress
   weight: 0.0357
   avg_copies: 2.0
 - name: Pyroclasm
@@ -139,22 +139,22 @@ top_cards:
 - name: card:noxious-revival
   weight: 0.0357
   avg_copies: 2.0
-- name: Duress
+- name: Death's Shadow
   weight: 0.0357
   avg_copies: 2.0
-- name: Chancellor of the Dross
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Meltdown
-  weight: 0.0357
-  avg_copies: 1.0
 - name: Kaheera, the Orphanguard
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Mountain
   weight: 0.0357
   avg_copies: 1.0
 - name: Disruptor Flute
   weight: 0.0357
   avg_copies: 1.0
-- name: Mountain
+- name: Chancellor of the Dross
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Meltdown
   weight: 0.0357
   avg_copies: 1.0
 ---

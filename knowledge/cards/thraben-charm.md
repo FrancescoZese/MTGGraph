@@ -19,7 +19,7 @@ archetypes:
     weight: 0.0308
     avg_copies: 1.25
   jeskai-control:
-    weight: 0.0278
+    weight: 0.027
     avg_copies: 1.0
   izzet-prowess:
     weight: 0.0043
@@ -46,8 +46,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-68:
-    weight: 0.8333
-    avg_copies: 1.84
+    weight: 0.8387
+    avg_copies: 1.85
   unknown-70:
     weight: 0.4286
     avg_copies: 1.5

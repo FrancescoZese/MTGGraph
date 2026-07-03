@@ -9,7 +9,7 @@ type: Land — Swamp Mountain
 meta_presence: 0.0867
 archetypes:
   ruby-storm:
-    weight: 0.0196
+    weight: 0.0195
     avg_copies: 1.0
   boros-energy:
     weight: 0.0017
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.8889
     avg_copies: 1.25
   burn:
-    weight: 0.0345
+    weight: 0.0333
     avg_copies: 2.0
   mardu-blink:
     weight: 1.0
@@ -60,7 +60,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   grixis-control:
-    weight: 0.5
+    weight: 0.2
     avg_copies: 1.0
   soultrader-combo0:
     weight: 1.0

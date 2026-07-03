@@ -7,10 +7,10 @@ name: Dryad of the Ilysian Grove
 scryfall_id: 43be1363-7e73-4862-b45f-07f490ab46be
 set: cmm
 type: Enchantment Creature — Nymph Dryad
-meta_presence: 0.0048
+meta_presence: 0.0047
 archetypes:
   amulet-titan:
-    weight: 0.0303
+    weight: 0.0299
     avg_copies: 2.25
   scapeshift-combo:
     weight: 0.5

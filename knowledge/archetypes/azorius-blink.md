@@ -3,13 +3,13 @@ colors:
 - W
 - U
 name: Azorius Blink
-meta_share: 0.0113
+meta_share: 0.0112
 list_count: 52
 top_cards:
-- name: Guide of Souls
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 3.94
-- name: Ocelot Pride
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 3.94
 - name: Solitude
@@ -126,10 +126,10 @@ top_cards:
 - name: Strix Serenade
   weight: 0.1154
   avg_copies: 1.25
-- name: Celestial Purge
+- name: Sacred Foundry
   weight: 0.1154
   avg_copies: 1.17
-- name: Sacred Foundry
+- name: Celestial Purge
   weight: 0.1154
   avg_copies: 1.17
 - name: Springleaf Drum
@@ -162,13 +162,13 @@ top_cards:
 - name: Voice of Victory
   weight: 0.0577
   avg_copies: 2.0
+- name: card:overlord-of-the-mistmoors
+  weight: 0.0577
+  avg_copies: 1.67
 - name: Floodfarm Verge
   weight: 0.0577
   avg_copies: 1.67
 - name: Orim's Chant
-  weight: 0.0577
-  avg_copies: 1.67
-- name: card:overlord-of-the-mistmoors
   weight: 0.0577
   avg_copies: 1.67
 - name: Spell Pierce
@@ -192,52 +192,61 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.0385
   avg_copies: 1.5
-- name: Elesh Norn, Mother of Machines
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Elegant Parlor
+- name: Practiced Offense
   weight: 0.0385
   avg_copies: 1.0
 - name: Stony Silence
   weight: 0.0385
   avg_copies: 1.0
-- name: Practiced Offense
+- name: Elegant Parlor
   weight: 0.0385
   avg_copies: 1.0
-- name: Ajani, Nacatl Pariah
-  weight: 0.0192
-  avg_copies: 4.0
+- name: Elesh Norn, Mother of Machines
+  weight: 0.0385
+  avg_copies: 1.0
 - name: Snow-Covered Plains
   weight: 0.0192
   avg_copies: 4.0
 - name: Overlord of the Balemurk
   weight: 0.0192
   avg_copies: 4.0
+- name: Ajani, Nacatl Pariah
+  weight: 0.0192
+  avg_copies: 4.0
+- name: Agatha's Soul Cauldron
+  weight: 0.0192
+  avg_copies: 3.0
 - name: Goblin Bombardment
   weight: 0.0192
   avg_copies: 3.0
 - name: Leonardo, Cutting Edge
   weight: 0.0192
   avg_copies: 3.0
-- name: Agatha's Soul Cauldron
-  weight: 0.0192
-  avg_copies: 3.0
-- name: Godless Shrine
-  weight: 0.0192
-  avg_copies: 2.0
-- name: Walking Ballista
-  weight: 0.0192
-  avg_copies: 2.0
-- name: Giant Killer
-  weight: 0.0192
-  avg_copies: 2.0
 - name: Mystic Gate
   weight: 0.0192
   avg_copies: 2.0
 - name: Flare of Fortitude
   weight: 0.0192
   avg_copies: 2.0
-- name: Cryptic Command
+- name: Walking Ballista
+  weight: 0.0192
+  avg_copies: 2.0
+- name: Godless Shrine
+  weight: 0.0192
+  avg_copies: 2.0
+- name: Giant Killer
+  weight: 0.0192
+  avg_copies: 2.0
+- name: Winternight Stories
+  weight: 0.0192
+  avg_copies: 1.0
+- name: Snow-Covered Island
+  weight: 0.0192
+  avg_copies: 1.0
+- name: Mistcaller
+  weight: 0.0192
+  avg_copies: 1.0
+- name: Flitterwing Nuisance
   weight: 0.0192
   avg_copies: 1.0
 - name: Sink into Stupor
@@ -246,49 +255,40 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.0192
   avg_copies: 1.0
-- name: Eiganjo, Seat of the Empire
-  weight: 0.0192
-  avg_copies: 1.0
-- name: Winternight Stories
-  weight: 0.0192
-  avg_copies: 1.0
 - name: Skycoach Conductor
-  weight: 0.0192
-  avg_copies: 1.0
-- name: Flitterwing Nuisance
-  weight: 0.0192
-  avg_copies: 1.0
-- name: Snow-Covered Island
-  weight: 0.0192
-  avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.0192
-  avg_copies: 1.0
-- name: Shadowy Backstreet
-  weight: 0.0192
-  avg_copies: 1.0
-- name: Heliod, Sun-Crowned
-  weight: 0.0192
-  avg_copies: 1.0
-- name: Polluted Delta
-  weight: 0.0192
-  avg_copies: 1.0
-- name: Mistcaller
-  weight: 0.0192
-  avg_copies: 1.0
-- name: Damping Sphere
   weight: 0.0192
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
   weight: 0.0192
   avg_copies: 1.0
-- name: Kataki, War's Wage
+- name: Eiganjo, Seat of the Empire
+  weight: 0.0192
+  avg_copies: 1.0
+- name: Shadowy Backstreet
   weight: 0.0192
   avg_copies: 1.0
 - name: Enduring Innocence
   weight: 0.0192
   avg_copies: 1.0
+- name: Heliod, Sun-Crowned
+  weight: 0.0192
+  avg_copies: 1.0
+- name: Cryptic Command
+  weight: 0.0192
+  avg_copies: 1.0
+- name: Polluted Delta
+  weight: 0.0192
+  avg_copies: 1.0
+- name: Hurkyl's Recall
+  weight: 0.0192
+  avg_copies: 1.0
 - name: Watery Grave
+  weight: 0.0192
+  avg_copies: 1.0
+- name: Kataki, War's Wage
+  weight: 0.0192
+  avg_copies: 1.0
+- name: Damping Sphere
   weight: 0.0192
   avg_copies: 1.0
 ---

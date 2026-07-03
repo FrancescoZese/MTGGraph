@@ -6,25 +6,25 @@ name: Soultrader Combo
 meta_share: 0.0011
 list_count: 5
 top_cards:
-- name: Orcish Bowmasters
+- name: Warren Soultrader
   weight: 1.0
   avg_copies: 4.0
-- name: Warren Soultrader
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
 - name: Gravecrawler
   weight: 1.0
   avg_copies: 4.0
-- name: Flare of Malice
-  weight: 1.0
-  avg_copies: 3.8
 - name: Marionette Apprentice
   weight: 1.0
   avg_copies: 3.8
-- name: Spymaster's Vault
+- name: Flare of Malice
+  weight: 1.0
+  avg_copies: 3.8
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.6
-- name: Bloodstained Mire
+- name: Spymaster's Vault
   weight: 1.0
   avg_copies: 2.6
 - name: Fatal Push
@@ -33,10 +33,10 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 2.2
-- name: Overgrown Tomb
+- name: Phyrexian Tower
   weight: 1.0
   avg_copies: 2.0
-- name: Phyrexian Tower
+- name: Overgrown Tomb
   weight: 1.0
   avg_copies: 2.0
 - name: Underground Mortuary
@@ -63,10 +63,10 @@ top_cards:
 - name: Fulminator Mage
   weight: 0.6
   avg_copies: 2.67
-- name: Verdant Catacombs
+- name: Marsh Flats
   weight: 0.6
   avg_copies: 2.67
-- name: Marsh Flats
+- name: Verdant Catacombs
   weight: 0.6
   avg_copies: 2.67
 - name: Culling Ritual
@@ -87,6 +87,9 @@ top_cards:
 - name: Phoenix Fleet Airship
   weight: 0.4
   avg_copies: 2.33
+- name: Bloodghast
+  weight: 0.4
+  avg_copies: 2.0
 - name: Abhorrent Oculus
   weight: 0.4
   avg_copies: 2.0
@@ -94,9 +97,6 @@ top_cards:
   weight: 0.4
   avg_copies: 2.0
 - name: Arnyn, Deathbloom Botanist
-  weight: 0.4
-  avg_copies: 2.0
-- name: Bloodghast
   weight: 0.4
   avg_copies: 2.0
 - name: Soulless Jailer
@@ -126,13 +126,19 @@ top_cards:
 - name: Consign to Memory
   weight: 0.2
   avg_copies: 2.0
+- name: Shatter Assumptions
+  weight: 0.2
+  avg_copies: 1.0
 - name: Nurturing Peatland
   weight: 0.2
   avg_copies: 1.0
-- name: Urborg, Tomb of Yawgmoth
+- name: Sephiroth, Fabled SOLDIER
   weight: 0.2
   avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Overlord of the Balemurk
+  weight: 0.2
+  avg_copies: 1.0
+- name: Urborg, Tomb of Yawgmoth
   weight: 0.2
   avg_copies: 1.0
 - name: Cling to Dust
@@ -144,22 +150,16 @@ top_cards:
 - name: Break the Ice
   weight: 0.2
   avg_copies: 1.0
-- name: Sephiroth, Fabled SOLDIER
-  weight: 0.2
-  avg_copies: 1.0
-- name: Shatter Assumptions
-  weight: 0.2
-  avg_copies: 1.0
-- name: Chomping Changeling
-  weight: 0.2
-  avg_copies: 1.0
 - name: Grist, the Hunger Tide
   weight: 0.2
   avg_copies: 1.0
-- name: Overlord of the Balemurk
+- name: Nihil Spellbomb
   weight: 0.2
   avg_copies: 1.0
 - name: Ashiok, Dream Render
+  weight: 0.2
+  avg_copies: 1.0
+- name: Chomping Changeling
   weight: 0.2
   avg_copies: 1.0
 ---

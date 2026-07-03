@@ -9,6 +9,6 @@ type: Legendary Creature — Elder Wizard // Legendary Creature — Avatar
 meta_presence: 0.0002
 archetypes:
   grixis-control:
-    weight: 0.5
+    weight: 0.2
     avg_copies: 1.0
 ---

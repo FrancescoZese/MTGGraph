@@ -6,19 +6,19 @@ colors:
 - R
 - G
 name: 'Unknown #120'
-meta_share: 0.0007
+meta_share: 0.0006
 list_count: 3
 top_cards:
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
-- name: Goryo's Vengeance
+- name: Atraxa, Grand Unifier
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Atraxa, Grand Unifier
+- name: Goryo's Vengeance
+  weight: 1.0
+  avg_copies: 4.0
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
@@ -36,25 +36,25 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 2.75
+- name: Scalding Tarn
+  weight: 1.0
+  avg_copies: 2.67
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.67
 - name: Meltdown
   weight: 1.0
   avg_copies: 2.67
-- name: Scalding Tarn
-  weight: 1.0
-  avg_copies: 2.67
-- name: Pyroclasm
-  weight: 1.0
-  avg_copies: 2.0
 - name: Force of Negation
   weight: 1.0
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Pyroclasm
+  weight: 1.0
+  avg_copies: 2.0
+- name: Griselbrand
   weight: 1.0
   avg_copies: 1.67
-- name: Griselbrand
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.67
 - name: Swamp
@@ -63,22 +63,22 @@ top_cards:
 - name: Watery Grave
   weight: 1.0
   avg_copies: 1.33
+- name: Island
+  weight: 1.0
+  avg_copies: 1.0
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
 - name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Emperor of Bones
@@ -102,34 +102,34 @@ top_cards:
 - name: Quantum Riddler
   weight: 0.3333
   avg_copies: 4.0
-- name: Traumatic Critique
-  weight: 0.3333
-  avg_copies: 3.0
 - name: Subtlety
   weight: 0.3333
   avg_copies: 3.0
 - name: Ulamog, the Defiler
   weight: 0.3333
   avg_copies: 3.0
+- name: Traumatic Critique
+  weight: 0.3333
+  avg_copies: 3.0
 - name: Damping Sphere
   weight: 0.3333
   avg_copies: 2.0
-- name: Flame of Anor
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Kavaero, Mind-Bitten
+- name: Bitter Triumph
   weight: 0.3333
   avg_copies: 1.0
 - name: Kolaghan's Command
   weight: 0.3333
   avg_copies: 1.0
-- name: Bitter Triumph
+- name: Flame of Anor
   weight: 0.3333
   avg_copies: 1.0
 - name: Prismari Charm
   weight: 0.3333
   avg_copies: 1.0
 - name: Feed the Swarm
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Kavaero, Mind-Bitten
   weight: 0.3333
   avg_copies: 1.0
 ---

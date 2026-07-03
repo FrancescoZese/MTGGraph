@@ -6,16 +6,16 @@ name: 'Unknown #1'
 meta_share: 0.0015
 list_count: 7
 top_cards:
-- name: Flare of Malice
+- name: Stitcher's Supplier
+  weight: 1.0
+  avg_copies: 4.0
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Bloodghast
   weight: 1.0
   avg_copies: 4.0
-- name: Stitcher's Supplier
-  weight: 1.0
-  avg_copies: 4.0
-- name: Faithless Looting
+- name: Flare of Malice
   weight: 1.0
   avg_copies: 4.0
 - name: Archon of Cruelty
@@ -27,40 +27,40 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 3.14
-- name: Rakdos Charm
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 3.0
-- name: Blood Crypt
+- name: Rakdos Charm
   weight: 1.0
   avg_copies: 3.0
 - name: Obsidian Charmaw
   weight: 1.0
   avg_copies: 2.57
-- name: Village Rites
-  weight: 1.0
-  avg_copies: 2.0
-- name: Spymaster's Vault
-  weight: 1.0
-  avg_copies: 2.0
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 2.0
 - name: Fatal Push
   weight: 1.0
   avg_copies: 2.0
 - name: Swamp
   weight: 1.0
   avg_copies: 2.0
-- name: Brotherhood's End
+- name: Village Rites
+  weight: 1.0
+  avg_copies: 2.0
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 2.0
+- name: Spymaster's Vault
   weight: 1.0
   avg_copies: 2.0
 - name: Mountain
   weight: 1.0
   avg_copies: 2.0
-- name: Extract the Truth
+- name: Brotherhood's End
+  weight: 1.0
+  avg_copies: 2.0
+- name: Corrupted Conviction
   weight: 1.0
   avg_copies: 1.86
-- name: Corrupted Conviction
+- name: Extract the Truth
   weight: 1.0
   avg_copies: 1.86
 - name: Raucous Theater
@@ -102,25 +102,25 @@ top_cards:
 - name: Detective's Phoenix
   weight: 0.4286
   avg_copies: 2.0
-- name: Flashback
+- name: Blood Moon
   weight: 0.2857
   avg_copies: 2.0
-- name: Blood Moon
+- name: Flashback
   weight: 0.2857
   avg_copies: 2.0
 - name: Magus of the Moon
   weight: 0.1429
   avg_copies: 2.0
-- name: Engineered Explosives
-  weight: 0.1429
-  avg_copies: 2.0
 - name: Unearth
   weight: 0.1429
   avg_copies: 2.0
-- name: Ob Nixilis, the Adversary
+- name: Engineered Explosives
+  weight: 0.1429
+  avg_copies: 2.0
+- name: Lightning Skelemental
   weight: 0.1429
   avg_copies: 1.0
-- name: Lightning Skelemental
+- name: Ob Nixilis, the Adversary
   weight: 0.1429
   avg_copies: 1.0
 ---

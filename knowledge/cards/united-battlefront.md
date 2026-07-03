@@ -7,7 +7,7 @@ name: United Battlefront
 scryfall_id: dff398be-4ba4-4976-9acc-be99d2e07a61
 set: tdm
 type: Sorcery
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   unknown-9:
     weight: 1.0

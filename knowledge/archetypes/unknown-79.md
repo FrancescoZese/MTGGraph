@@ -9,25 +9,25 @@ name: 'Unknown #79'
 meta_share: 0.0013
 list_count: 6
 top_cards:
-- name: Territorial Kavu
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Ragavan, Nimble Pilferer
-  weight: 1.0
-  avg_copies: 4.0
-- name: Psychic Frog
-  weight: 1.0
-  avg_copies: 4.0
-- name: Leyline of the Guildpact
+- name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
 - name: Wooded Foothills
   weight: 1.0
   avg_copies: 4.0
+- name: Leyline of the Guildpact
+  weight: 1.0
+  avg_copies: 4.0
 - name: Scion of Draco
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline Binding
@@ -51,13 +51,13 @@ top_cards:
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.17
-- name: Indatha Triome
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
-- name: Temple Garden
+- name: Indatha Triome
   weight: 1.0
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -66,34 +66,34 @@ top_cards:
 - name: Subtlety
   weight: 0.8333
   avg_copies: 1.57
-- name: Arena of Glory
-  weight: 0.8333
-  avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.8333
-  avg_copies: 1.0
 - name: Island
-  weight: 0.8333
-  avg_copies: 1.0
-- name: Sacred Foundry
   weight: 0.8333
   avg_copies: 1.0
 - name: Forest
   weight: 0.8333
   avg_copies: 1.0
+- name: Arena of Glory
+  weight: 0.8333
+  avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 0.8333
+  avg_copies: 1.0
+- name: Breeding Pool
+  weight: 0.8333
+  avg_copies: 1.0
 - name: Flooded Strand
   weight: 0.6667
   avg_copies: 4.0
-- name: Pick Your Poison
+- name: Wrath of the Skies
   weight: 0.6667
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Pick Your Poison
   weight: 0.6667
   avg_copies: 2.0
 - name: Scalding Tarn
   weight: 0.6667
   avg_copies: 2.0
-- name: Wrath of the Skies
+- name: Damping Sphere
   weight: 0.6667
   avg_copies: 2.0
 - name: Hidetsugu Consumes All
@@ -135,19 +135,19 @@ top_cards:
 - name: Drannith Magistrate
   weight: 0.1667
   avg_copies: 2.0
-- name: High Noon
+- name: Shatterstorm
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Mountain
   weight: 0.1667
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.1667
   avg_copies: 1.0
-- name: Shatterstorm
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 0.1667
   avg_copies: 1.0
-- name: Mountain
+- name: High Noon
   weight: 0.1667
   avg_copies: 1.0
 ---

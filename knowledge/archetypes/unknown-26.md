@@ -6,19 +6,19 @@ name: 'Unknown #26'
 meta_share: 0.0039
 list_count: 18
 top_cards:
+- name: Cleansing Wildfire
+  weight: 1.0
+  avg_copies: 4.0
 - name: Field of Ruin
   weight: 1.0
   avg_copies: 4.0
 - name: Demolition Field
   weight: 1.0
   avg_copies: 4.0
-- name: Cleansing Wildfire
-  weight: 1.0
-  avg_copies: 4.0
-- name: Price of Freedom
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 3.94
-- name: Wrath of the Skies
+- name: Price of Freedom
   weight: 1.0
   avg_copies: 3.94
 - name: Path to Exile
@@ -42,10 +42,10 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.89
-- name: Erode
+- name: Cori Mountain Monastery
   weight: 0.9444
   avg_copies: 3.82
-- name: Cori Mountain Monastery
+- name: Erode
   weight: 0.9444
   avg_copies: 3.82
 - name: Kaheera, the Orphanguard
@@ -93,10 +93,10 @@ top_cards:
 - name: card:restless-bivouac
   weight: 0.2222
   avg_copies: 1.5
-- name: Arid Mesa
+- name: Mazemind Tome
   weight: 0.1111
   avg_copies: 4.0
-- name: Mazemind Tome
+- name: Arid Mesa
   weight: 0.1111
   avg_copies: 4.0
 - name: Reprieve
@@ -108,10 +108,10 @@ top_cards:
 - name: Kor Firewalker
   weight: 0.1111
   avg_copies: 2.5
-- name: Celestial Purge
+- name: Engineered Explosives
   weight: 0.1111
   avg_copies: 2.0
-- name: Engineered Explosives
+- name: Celestial Purge
   weight: 0.1111
   avg_copies: 2.0
 - name: Beza, the Bounding Spring
@@ -120,34 +120,34 @@ top_cards:
 - name: Crucible of Worlds
   weight: 0.1111
   avg_copies: 1.0
-- name: card:kutzil-s-flanker
-  weight: 0.0556
-  avg_copies: 4.0
-- name: Volcanic Spite
+- name: Lightning Helix
   weight: 0.0556
   avg_copies: 4.0
 - name: White Orchid Phantom
   weight: 0.0556
   avg_copies: 4.0
-- name: Lightning Helix
+- name: card:kutzil-s-flanker
   weight: 0.0556
   avg_copies: 4.0
 - name: Ark of Hunger
   weight: 0.0556
   avg_copies: 4.0
-- name: Ragavan, Nimble Pilferer
+- name: Volcanic Spite
   weight: 0.0556
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Candy Trail
   weight: 0.0556
   avg_copies: 3.0
+- name: Ragavan, Nimble Pilferer
+  weight: 0.0556
+  avg_copies: 3.0
+- name: March of Otherworldly Light
+  weight: 0.0556
+  avg_copies: 2.0
 - name: Flashback
   weight: 0.0556
   avg_copies: 2.0
 - name: Hallowed Moonlight
-  weight: 0.0556
-  avg_copies: 2.0
-- name: March of Otherworldly Light
   weight: 0.0556
   avg_copies: 2.0
 - name: card:vanish-into-eternity

@@ -6,10 +6,10 @@ name: Raugrin Triome
 scryfall_id: 02138fbb-3962-4348-8d31-faaefba0b8b2
 set: iko
 type: Land — Island Mountain Plains
-meta_presence: 0.002
+meta_presence: 0.0019
 archetypes:
   jeskai-control:
-    weight: 0.0278
+    weight: 0.027
     avg_copies: 1.0
   esper-control:
     weight: 1.0

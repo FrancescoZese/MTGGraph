@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0034
     avg_copies: 1.0
   affinity:
-    weight: 0.0312
+    weight: 0.0309
     avg_copies: 1.0
   mardu-blink:
     weight: 0.0417
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.0303
     avg_copies: 2.0
   eldrazi-ramp:
-    weight: 0.1923
+    weight: 0.1905
     avg_copies: 2.05
   rakdos-lantern-combo:
     weight: 0.5

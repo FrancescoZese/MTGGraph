@@ -10,13 +10,13 @@ type: Sorcery
 meta_presence: 0.0082
 archetypes:
   boros-energy:
-    weight: 0.012
+    weight: 0.0119
     avg_copies: 2.14
   domain-zoo:
     weight: 0.0185
     avg_copies: 2.0
   esper-blink:
-    weight: 0.0357
+    weight: 0.0349
     avg_copies: 2.33
   azorius-blink:
     weight: 0.0385

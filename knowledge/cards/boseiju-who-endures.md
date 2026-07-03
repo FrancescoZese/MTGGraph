@@ -12,7 +12,7 @@ archetypes:
     weight: 0.0077
     avg_copies: 2.0
   eldrazi-tron:
-    weight: 0.0698
+    weight: 0.0691
     avg_copies: 1.0
   amulet-titan:
     weight: 1.0
@@ -33,7 +33,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.89
   eldrazi-ramp:
-    weight: 0.1635
+    weight: 0.1714
     avg_copies: 1.0
   simic-ritual:
     weight: 0.9481
@@ -43,13 +43,13 @@ archetypes:
     avg_copies: 1.0
   samwise-combo:
     weight: 1.0
-    avg_copies: 1.88
+    avg_copies: 1.87
   indomitable-creativity:
     weight: 0.5
     avg_copies: 1.0
   broodscale-combo:
     weight: 0.9946
-    avg_copies: 1.66
+    avg_copies: 1.67
   dredge:
     weight: 0.9091
     avg_copies: 1.61
@@ -156,6 +156,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-172:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-175:
     weight: 1.0
     avg_copies: 1.0
 ---

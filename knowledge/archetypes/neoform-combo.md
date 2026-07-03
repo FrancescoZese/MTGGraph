@@ -6,7 +6,7 @@ colors:
 - R
 - G
 name: Neoform Combo
-meta_share: 0.0124
+meta_share: 0.0123
 list_count: 57
 top_cards:
 - name: Eldritch Evolution
@@ -135,10 +135,10 @@ top_cards:
 - name: Island
   weight: 0.1754
   avg_copies: 1.1
-- name: Thrun, the Last Troll
+- name: Preordain
   weight: 0.0526
   avg_copies: 2.33
-- name: Preordain
+- name: Thrun, the Last Troll
   weight: 0.0526
   avg_copies: 2.33
 - name: Eladamri's Call
@@ -159,43 +159,43 @@ top_cards:
 - name: Glittering Wish
   weight: 0.0351
   avg_copies: 4.0
-- name: Rakshasa's Bargain
+- name: Abrupt Decay
   weight: 0.0351
   avg_copies: 3.0
-- name: Abrupt Decay
+- name: Rakshasa's Bargain
   weight: 0.0351
   avg_copies: 3.0
 - name: Thundertrap Trainer
   weight: 0.0351
   avg_copies: 3.0
-- name: Underground Mortuary
-  weight: 0.0351
-  avg_copies: 1.0
-- name: Undercity Sewers
-  weight: 0.0351
-  avg_copies: 1.0
-- name: Detention Sphere
-  weight: 0.0351
-  avg_copies: 1.0
-- name: Lush Portico
+- name: Firespout
   weight: 0.0351
   avg_copies: 1.0
 - name: Wan Shi Tong, Librarian
   weight: 0.0351
   avg_copies: 1.0
-- name: Nature's Chant
+- name: Borborygmos Enraged
+  weight: 0.0351
+  avg_copies: 1.0
+- name: Detention Sphere
+  weight: 0.0351
+  avg_copies: 1.0
+- name: Underground Mortuary
+  weight: 0.0351
+  avg_copies: 1.0
+- name: Lush Portico
+  weight: 0.0351
+  avg_copies: 1.0
+- name: Undercity Sewers
+  weight: 0.0351
+  avg_copies: 1.0
+- name: Stump Stomp
   weight: 0.0351
   avg_copies: 1.0
 - name: Raph & Mikey, Troublemakers
   weight: 0.0351
   avg_copies: 1.0
-- name: Firespout
-  weight: 0.0351
-  avg_copies: 1.0
-- name: Borborygmos Enraged
-  weight: 0.0351
-  avg_copies: 1.0
-- name: Stump Stomp
+- name: Nature's Chant
   weight: 0.0351
   avg_copies: 1.0
 - name: Hexing Squelcher
@@ -216,25 +216,7 @@ top_cards:
 - name: Quandrix Charm
   weight: 0.0175
   avg_copies: 3.0
-- name: Commercial District
-  weight: 0.0175
-  avg_copies: 1.0
-- name: Crucible of Worlds
-  weight: 0.0175
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.0175
-  avg_copies: 1.0
 - name: Temple Garden
-  weight: 0.0175
-  avg_copies: 1.0
-- name: Subtlety
-  weight: 0.0175
-  avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 0.0175
-  avg_copies: 1.0
-- name: Force of Vigor
   weight: 0.0175
   avg_copies: 1.0
 - name: Stormkeld Vanguard
@@ -243,7 +225,25 @@ top_cards:
 - name: Brainsurge
   weight: 0.0175
   avg_copies: 1.0
+- name: Force of Vigor
+  weight: 0.0175
+  avg_copies: 1.0
+- name: Commercial District
+  weight: 0.0175
+  avg_copies: 1.0
 - name: Leatherhead, Swamp Stalker
+  weight: 0.0175
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.0175
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 0.0175
+  avg_copies: 1.0
+- name: Subtlety
+  weight: 0.0175
+  avg_copies: 1.0
+- name: Crucible of Worlds
   weight: 0.0175
   avg_copies: 1.0
 ---

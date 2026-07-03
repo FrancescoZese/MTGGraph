@@ -28,7 +28,7 @@ archetypes:
     avg_copies: 1.0
   samwise-combo:
     weight: 1.0
-    avg_copies: 1.14
+    avg_copies: 1.16
   bant-control:
     weight: 1.0
     avg_copies: 1.0
@@ -117,6 +117,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-172:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-175:
     weight: 1.0
     avg_copies: 1.0
 ---

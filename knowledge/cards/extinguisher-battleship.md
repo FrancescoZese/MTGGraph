@@ -9,6 +9,6 @@ type: Artifact — Spacecraft
 meta_presence: 0.0381
 archetypes:
   eldrazi-tron:
-    weight: 0.8186
+    weight: 0.8157
     avg_copies: 1.0
 ---

@@ -2,7 +2,7 @@
 archetypes:
   amulet-titan:
     weight: 1.0
-    avg_copies: 2.02
+    avg_copies: 2.03
   neoform-combo:
     weight: 0.9825
     avg_copies: 3.89

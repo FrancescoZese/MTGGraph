@@ -5,19 +5,19 @@ name: 'Unknown #86'
 meta_share: 0.0013
 list_count: 6
 top_cards:
-- name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Dragon's Rage Channeler
+- name: Barbarian Ring
   weight: 1.0
   avg_copies: 4.0
 - name: Lava Spike
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
-- name: Barbarian Ring
+- name: Lightning Bolt
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Cori-Steel Cutter
@@ -77,10 +77,10 @@ top_cards:
 - name: Sunbaked Canyon
   weight: 0.5
   avg_copies: 2.0
-- name: Ragavan, Nimble Pilferer
+- name: Deflecting Palm
   weight: 0.5
   avg_copies: 1.67
-- name: Deflecting Palm
+- name: Ragavan, Nimble Pilferer
   weight: 0.5
   avg_copies: 1.67
 - name: Orim's Chant
@@ -98,16 +98,16 @@ top_cards:
 - name: Goblin Guide
   weight: 0.3333
   avg_copies: 2.0
-- name: Path to Exile
+- name: Vexing Bauble
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Boros Charm
   weight: 0.1667
   avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.1667
   avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 0.1667
-  avg_copies: 2.0
-- name: Boros Charm
+- name: Path to Exile
   weight: 0.1667
   avg_copies: 2.0
 - name: Sokenzan, Crucible of Defiance

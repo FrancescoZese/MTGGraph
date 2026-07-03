@@ -7,13 +7,13 @@ name: Path to Exile
 scryfall_id: 90b690f4-9647-4e67-b7cb-b2692ea149b1
 set: soc
 type: Instant
-meta_presence: 0.0594
+meta_presence: 0.0592
 archetypes:
   boros-energy:
-    weight: 0.0342
+    weight: 0.034
     avg_copies: 1.28
   jeskai-control:
-    weight: 0.0278
+    weight: 0.027
     avg_copies: 1.0
   domain-zoo:
     weight: 0.3333
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.0345
     avg_copies: 4.0
   burn:
-    weight: 0.069
+    weight: 0.0667
     avg_copies: 1.5
   mono-red-belcher:
     weight: 0.0769
@@ -31,10 +31,10 @@ archetypes:
     weight: 1.0
     avg_copies: 3.82
   esper-blink:
-    weight: 0.0119
+    weight: 0.0116
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.0357
+    weight: 0.0351
     avg_copies: 1.5
   broodscale-combo:
     weight: 0.0054
@@ -83,7 +83,7 @@ archetypes:
     avg_copies: 4.0
   unknown-160:
     weight: 1.0
-    avg_copies: 3.36
+    avg_copies: 3.33
   unknown-169:
     weight: 1.0
     avg_copies: 4.0

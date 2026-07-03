@@ -9,10 +9,10 @@ type: Instant
 meta_presence: 0.0247
 archetypes:
   eldrazi-tron:
-    weight: 0.2372
-    avg_copies: 1.73
+    weight: 0.2396
+    avg_copies: 1.74
   broodscale-combo:
-    weight: 0.3261
+    weight: 0.3243
     avg_copies: 1.3
   goryo4:
     weight: 0.2727

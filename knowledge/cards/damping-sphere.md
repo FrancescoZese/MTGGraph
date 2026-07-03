@@ -9,7 +9,7 @@ type: Artifact
 meta_presence: 0.2839
 archetypes:
   boros-energy:
-    weight: 0.2928
+    weight: 0.2959
     avg_copies: 1.41
   dimir-control:
     weight: 0.1728
@@ -18,10 +18,10 @@ archetypes:
     weight: 0.4154
     avg_copies: 1.44
   eldrazi-tron:
-    weight: 0.0093
+    weight: 0.0092
     avg_copies: 1.0
   goryo:
-    weight: 0.1528
+    weight: 0.15
     avg_copies: 1.73
   hardened-scales:
     weight: 1.0
@@ -36,10 +36,10 @@ archetypes:
     weight: 0.5172
     avg_copies: 1.03
   jeskai-control:
-    weight: 0.1944
+    weight: 0.1892
     avg_copies: 1.71
   affinity:
-    weight: 0.9495
+    weight: 0.9501
     avg_copies: 2.23
   domain-zoo:
     weight: 0.6574
@@ -51,7 +51,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.94
   burn:
-    weight: 0.1724
+    weight: 0.1667
     avg_copies: 2.0
   mardu-blink:
     weight: 0.8333
@@ -69,7 +69,7 @@ archetypes:
     weight: 0.1528
     avg_copies: 1.09
   eldrazi-ramp:
-    weight: 0.0288
+    weight: 0.0286
     avg_copies: 1.0
   simic-ritual:
     weight: 0.1429
@@ -78,13 +78,13 @@ archetypes:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.5119
-    avg_copies: 2.4
+    weight: 0.5233
+    avg_copies: 2.33
   samwise-combo:
-    weight: 0.0357
+    weight: 0.0351
     avg_copies: 1.5
   broodscale-combo:
-    weight: 0.4348
+    weight: 0.4324
     avg_copies: 1.75
   orzhov-blink:
     weight: 0.6667
@@ -132,7 +132,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.7815
+    weight: 0.7686
     avg_copies: 1.87
   goryo4:
     weight: 0.7273
@@ -195,7 +195,7 @@ archetypes:
     weight: 0.2857
     avg_copies: 2.0
   unknown-47:
-    weight: 0.1
+    weight: 0.0984
     avg_copies: 2.0
   unknown-49:
     weight: 1.0
@@ -210,7 +210,7 @@ archetypes:
     weight: 0.0417
     avg_copies: 2.0
   unknown-68:
-    weight: 0.1333
+    weight: 0.129
     avg_copies: 1.75
   unknown-69:
     weight: 0.5

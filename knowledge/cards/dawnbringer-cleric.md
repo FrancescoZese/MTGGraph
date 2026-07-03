@@ -10,7 +10,7 @@ type: Creature — Human Cleric
 meta_presence: 0.0015
 archetypes:
   samwise-combo:
-    weight: 0.0714
+    weight: 0.0702
     avg_copies: 1.0
   orzhov-blink:
     weight: 0.3333

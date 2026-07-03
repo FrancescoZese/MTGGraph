@@ -21,10 +21,10 @@ archetypes:
     weight: 0.013
     avg_copies: 1.0
   esper-blink:
-    weight: 0.9762
+    weight: 0.9767
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.1429
+    weight: 0.1404
     avg_copies: 1.0
   orzhov-blink:
     weight: 1.0
@@ -33,7 +33,7 @@ archetypes:
     weight: 0.0588
     avg_copies: 1.0
   goryo1:
-    weight: 0.0084
+    weight: 0.0083
     avg_copies: 1.0
   goryo5:
     weight: 1.0

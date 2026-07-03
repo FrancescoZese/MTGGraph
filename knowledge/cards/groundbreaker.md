@@ -7,7 +7,7 @@ name: Groundbreaker
 scryfall_id: f467cdea-6166-4289-918b-18f5038c94ed
 set: plc
 type: Creature — Elemental
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   mono-green-stompy:
     weight: 1.0

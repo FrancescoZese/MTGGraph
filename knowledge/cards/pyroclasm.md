@@ -10,10 +10,10 @@ type: Sorcery
 meta_presence: 0.0579
 archetypes:
   ruby-storm:
-    weight: 0.0261
+    weight: 0.026
     avg_copies: 1.25
   amulet-titan:
-    weight: 0.0227
+    weight: 0.0224
     avg_copies: 1.0
   azorius-control:
     weight: 0.0164
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.7778
     avg_copies: 1.86
   burn:
-    weight: 0.1379
+    weight: 0.1333
     avg_copies: 2.25
   hollow-one:
     weight: 0.0303
@@ -34,10 +34,10 @@ archetypes:
     weight: 0.013
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.0476
+    weight: 0.0474
     avg_copies: 1.45
   broodscale-combo:
-    weight: 0.1685
+    weight: 0.1676
     avg_copies: 1.71
   izzet-artifacts:
     weight: 0.0938
@@ -64,8 +64,8 @@ archetypes:
     weight: 0.1905
     avg_copies: 2.0
   goryo1:
-    weight: 0.8824
-    avg_copies: 1.79
+    weight: 0.8843
+    avg_copies: 1.8
   unknown-4:
     weight: 1.0
     avg_copies: 1.0

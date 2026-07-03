@@ -6,16 +6,16 @@ name: Darksteel Citadel
 scryfall_id: 2ba7597d-6d76-45b8-b172-342999e401bd
 set: c21
 type: Artifact Land
-meta_presence: 0.0082
+meta_presence: 0.0084
 archetypes:
   eldrazi-tron:
-    weight: 0.0977
+    weight: 0.1014
     avg_copies: 1.0
   hardened-scales:
     weight: 1.0
     avg_copies: 3.25
   eldrazi-ramp:
-    weight: 0.0096
+    weight: 0.0095
     avg_copies: 1.0
   broodscale-combo:
     weight: 0.0054

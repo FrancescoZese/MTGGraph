@@ -22,4 +22,7 @@ archetypes:
   unknown-151:
     weight: 1.0
     avg_copies: 4.0
+  unknown-175:
+    weight: 1.0
+    avg_copies: 3.0
 ---

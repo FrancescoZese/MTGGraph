@@ -7,7 +7,7 @@ name: Consign to Memory
 scryfall_id: bc95af55-d1dd-4fe6-adb0-3ad6db20d986
 set: mh3
 type: Instant
-meta_presence: 0.4642
+meta_presence: 0.465
 archetypes:
   ruby-storm:
     weight: 0.0065
@@ -25,8 +25,8 @@ archetypes:
     weight: 0.9846
     avg_copies: 3.79
   goryo:
-    weight: 0.9907
-    avg_copies: 2.9
+    weight: 0.9909
+    avg_copies: 2.89
   necrodominance:
     weight: 0.0541
     avg_copies: 3.5
@@ -35,10 +35,10 @@ archetypes:
     avg_copies: 3.84
   jeskai-control:
     weight: 1.0
-    avg_copies: 3.45
+    avg_copies: 3.38
   affinity:
-    weight: 0.9375
-    avg_copies: 2.48
+    weight: 0.9382
+    avg_copies: 2.49
   domain-zoo:
     weight: 0.9167
     avg_copies: 2.06
@@ -61,20 +61,20 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.75
   eldrazi-ramp:
-    weight: 0.0673
+    weight: 0.0667
     avg_copies: 2.43
   simic-ritual:
     weight: 0.8182
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.9697
-    avg_copies: 3.33
+    weight: 0.9698
+    avg_copies: 3.34
   4c-omnath:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.9048
-    avg_copies: 2.43
+    weight: 0.907
+    avg_copies: 2.42
   indomitable-creativity:
     weight: 0.7857
     avg_copies: 3.73
@@ -109,8 +109,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   goryo1:
-    weight: 0.9916
-    avg_copies: 3.16
+    weight: 0.9917
+    avg_copies: 3.17
   goryo7:
     weight: 1.0
     avg_copies: 2.0
@@ -125,7 +125,7 @@ archetypes:
     avg_copies: 2.0
   grixis-control:
     weight: 1.0
-    avg_copies: 3.5
+    avg_copies: 3.8
   izzet-murktide:
     weight: 1.0
     avg_copies: 4.0
@@ -202,8 +202,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9833
-    avg_copies: 2.99
+    weight: 0.9836
+    avg_copies: 3.0
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
@@ -405,4 +405,7 @@ archetypes:
   unknown-170:
     weight: 1.0
     avg_copies: 3.0
+  unknown-175:
+    weight: 1.0
+    avg_copies: 2.0
 ---

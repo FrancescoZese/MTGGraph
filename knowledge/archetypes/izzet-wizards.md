@@ -9,10 +9,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 4.55
-- name: Counterspell
+- name: Flame of Anor
   weight: 1.0
   avg_copies: 3.91
-- name: Flame of Anor
+- name: Counterspell
   weight: 1.0
   avg_copies: 3.91
 - name: Snapcaster Mage
@@ -45,10 +45,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.9091
   avg_copies: 2.7
-- name: Meltdown
+- name: Flooded Strand
   weight: 0.9091
   avg_copies: 2.0
-- name: Flooded Strand
+- name: Meltdown
   weight: 0.9091
   avg_copies: 2.0
 - name: Fire Magic
@@ -114,10 +114,10 @@ top_cards:
 - name: Logic Knot
   weight: 0.2727
   avg_copies: 1.0
-- name: Preordain
+- name: Thundertrap Trainer
   weight: 0.1818
   avg_copies: 3.0
-- name: Thundertrap Trainer
+- name: Preordain
   weight: 0.1818
   avg_copies: 3.0
 - name: Flare of Denial
@@ -129,10 +129,10 @@ top_cards:
 - name: Test of Talents
   weight: 0.1818
   avg_copies: 2.0
-- name: Surgical Extraction
+- name: Flusterstorm
   weight: 0.1818
   avg_copies: 1.5
-- name: Flusterstorm
+- name: Surgical Extraction
   weight: 0.1818
   avg_copies: 1.5
 - name: Dress Down
@@ -153,34 +153,34 @@ top_cards:
 - name: Marang River Regent
   weight: 0.0909
   avg_copies: 3.0
+- name: Brainsurge
+  weight: 0.0909
+  avg_copies: 2.0
+- name: Spirebluff Canal
+  weight: 0.0909
+  avg_copies: 2.0
 - name: Field of Ruin
   weight: 0.0909
   avg_copies: 2.0
 - name: Expressive Iteration
   weight: 0.0909
   avg_copies: 2.0
-- name: Engineered Explosives
-  weight: 0.0909
-  avg_copies: 2.0
 - name: Den of the Bugbear
   weight: 0.0909
   avg_copies: 2.0
-- name: Spirebluff Canal
+- name: Engineered Explosives
   weight: 0.0909
   avg_copies: 2.0
-- name: Brainsurge
+- name: Vexing Bauble
   weight: 0.0909
-  avg_copies: 2.0
-- name: Annul
+  avg_copies: 1.0
+- name: Spell Pierce
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Riverpyre Verge
   weight: 0.0909
   avg_copies: 1.0
 - name: Vampires' Vengeance
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Stone of Erech
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Arid Mesa
   weight: 0.0909
   avg_copies: 1.0
 - name: Vedalken Shackles
@@ -189,22 +189,22 @@ top_cards:
 - name: Agna Qel'a
   weight: 0.0909
   avg_copies: 1.0
-- name: Riverpyre Verge
-  weight: 0.0909
-  avg_copies: 1.0
 - name: Flashback
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Vexing Bauble
   weight: 0.0909
   avg_copies: 1.0
 - name: Mistrise Village
   weight: 0.0909
   avg_copies: 1.0
-- name: Spell Pierce
+- name: Annul
   weight: 0.0909
   avg_copies: 1.0
 - name: Hurkyl's Recall
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Arid Mesa
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Stone of Erech
   weight: 0.0909
   avg_copies: 1.0
 - name: Stern Scolding

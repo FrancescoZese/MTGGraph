@@ -6,19 +6,19 @@ name: 'Unknown #122'
 meta_share: 0.0037
 list_count: 17
 top_cards:
-- name: Lightning Bolt
+- name: Dragon's Rage Channeler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Preordain
   weight: 1.0
   avg_copies: 4.0
 - name: Lava Dart
   weight: 1.0
   avg_copies: 4.0
-- name: Dragon's Rage Channeler
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Cori-Steel Cutter
-  weight: 1.0
-  avg_copies: 4.0
-- name: Preordain
   weight: 1.0
   avg_copies: 4.0
 - name: Stormchaser's Talent
@@ -90,10 +90,10 @@ top_cards:
 - name: Abandon Attachments
   weight: 0.4118
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: It'll Quench Ya!
   weight: 0.2941
   avg_copies: 1.0
-- name: It'll Quench Ya!
+- name: Surgical Extraction
   weight: 0.2941
   avg_copies: 1.0
 - name: Violent Urge
@@ -105,10 +105,10 @@ top_cards:
 - name: Spirebluff Canal
   weight: 0.1765
   avg_copies: 3.0
-- name: Mystical Dispute
+- name: Chalice of the Void
   weight: 0.1765
   avg_copies: 2.0
-- name: Chalice of the Void
+- name: Mystical Dispute
   weight: 0.1765
   avg_copies: 2.0
 - name: Ragavan, Nimble Pilferer
@@ -144,19 +144,19 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.0588
   avg_copies: 2.0
-- name: Wear
+- name: Vexing Bauble
   weight: 0.0588
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Wear
   weight: 0.0588
   avg_copies: 2.0
 - name: Monstrous Rage
   weight: 0.0588
   avg_copies: 1.5
-- name: Spell Snare
+- name: Fire Magic
   weight: 0.0588
   avg_copies: 1.0
-- name: Fire Magic
+- name: Spell Snare
   weight: 0.0588
   avg_copies: 1.0
 - name: Sacred Foundry

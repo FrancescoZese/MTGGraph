@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0068
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.0278
+    weight: 0.027
     avg_copies: 1.0
   goryo7:
     weight: 1.0

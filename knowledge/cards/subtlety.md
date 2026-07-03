@@ -16,7 +16,7 @@ archetypes:
     weight: 0.0077
     avg_copies: 1.0
   goryo:
-    weight: 0.0926
+    weight: 0.0909
     avg_copies: 1.31
   azorius-control:
     weight: 0.1311
@@ -25,7 +25,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.95
   jeskai-control:
-    weight: 0.1944
+    weight: 0.1892
     avg_copies: 1.71
   mill:
     weight: 0.0345
@@ -46,7 +46,7 @@ archetypes:
     weight: 0.75
     avg_copies: 4.0
   esper-blink:
-    weight: 0.0357
+    weight: 0.0349
     avg_copies: 2.33
   izzet-artifacts:
     weight: 0.0312
@@ -61,8 +61,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   grixis-control:
-    weight: 0.5
-    avg_copies: 3.0
+    weight: 0.8
+    avg_copies: 2.25
   izzet-murktide:
     weight: 1.0
     avg_copies: 1.0
@@ -95,7 +95,7 @@ archetypes:
     avg_copies: 2.33
   unknown-47:
     weight: 1.0
-    avg_copies: 2.48
+    avg_copies: 2.49
   unknown-51:
     weight: 1.0
     avg_copies: 4.0

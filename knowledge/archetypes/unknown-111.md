@@ -7,22 +7,22 @@ name: 'Unknown #111'
 meta_share: 0.0009
 list_count: 4
 top_cards:
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
-- name: Consult the Star Charts
-  weight: 1.0
-  avg_copies: 4.0
-- name: Counterspell
-  weight: 1.0
-  avg_copies: 4.0
-- name: Orcish Bowmasters
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Consult the Star Charts
+  weight: 1.0
+  avg_copies: 4.0
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
+- name: Orcish Bowmasters
+  weight: 1.0
+  avg_copies: 4.0
+- name: Counterspell
   weight: 1.0
   avg_copies: 4.0
 - name: Wan Shi Tong, Librarian
@@ -64,37 +64,40 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.75
   avg_copies: 1.0
-- name: Meltdown
+- name: Snow-Covered Island
   weight: 0.5
   avg_copies: 4.0
-- name: Snow-Covered Island
+- name: Meltdown
   weight: 0.5
   avg_copies: 4.0
 - name: Island
   weight: 0.5
   avg_copies: 3.0
-- name: Snapcaster Mage
+- name: Harbinger of the Seas
   weight: 0.5
   avg_copies: 2.0
 - name: Break the Ice
   weight: 0.5
   avg_copies: 2.0
-- name: Harbinger of the Seas
+- name: Snapcaster Mage
   weight: 0.5
   avg_copies: 2.0
-- name: Kaito, Bane of Nightmares
+- name: Ghost Vacuum
   weight: 0.5
   avg_copies: 1.0
 - name: Misty Rainforest
   weight: 0.5
   avg_copies: 1.0
-- name: Snow-Covered Swamp
+- name: Swamp
   weight: 0.5
   avg_copies: 1.0
 - name: Fire Magic
   weight: 0.5
   avg_copies: 1.0
-- name: Ghost Vacuum
+- name: Snow-Covered Swamp
+  weight: 0.5
+  avg_copies: 1.0
+- name: Kaito, Bane of Nightmares
   weight: 0.5
   avg_copies: 1.0
 - name: Thundering Falls
@@ -103,34 +106,19 @@ top_cards:
 - name: Steam Vents
   weight: 0.5
   avg_copies: 1.0
-- name: Swamp
-  weight: 0.5
-  avg_copies: 1.0
 - name: Requiting Hex
-  weight: 0.25
-  avg_copies: 2.0
-- name: Damnation
   weight: 0.25
   avg_copies: 2.0
 - name: Spell Pierce
   weight: 0.25
   avg_copies: 2.0
+- name: Damnation
+  weight: 0.25
+  avg_copies: 2.0
 - name: Pest Control
   weight: 0.25
   avg_copies: 1.5
-- name: Meticulous Archive
-  weight: 0.25
-  avg_copies: 1.0
-- name: High Noon
-  weight: 0.25
-  avg_copies: 1.0
-- name: Erode
-  weight: 0.25
-  avg_copies: 1.0
 - name: Flusterstorm
-  weight: 0.25
-  avg_copies: 1.0
-- name: Hallowed Fountain
   weight: 0.25
   avg_copies: 1.0
 - name: Drown in the Loch
@@ -140,6 +128,18 @@ top_cards:
   weight: 0.25
   avg_copies: 1.0
 - name: Marsh Flats
+  weight: 0.25
+  avg_copies: 1.0
+- name: Erode
+  weight: 0.25
+  avg_copies: 1.0
+- name: Meticulous Archive
+  weight: 0.25
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 0.25
+  avg_copies: 1.0
+- name: High Noon
   weight: 0.25
   avg_copies: 1.0
 ---

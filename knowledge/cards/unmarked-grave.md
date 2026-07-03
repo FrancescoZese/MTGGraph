@@ -7,12 +7,12 @@ name: Unmarked Grave
 scryfall_id: 492b368b-de32-45c1-8459-238aae54f9fc
 set: mh2
 type: Sorcery
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   goryo:
-    weight: 0.0093
+    weight: 0.0091
     avg_copies: 4.0
   goryo1:
-    weight: 0.0084
+    weight: 0.0083
     avg_copies: 1.0
 ---

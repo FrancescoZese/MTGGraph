@@ -14,10 +14,10 @@ archetypes:
     weight: 0.0351
     avg_copies: 3.0
   eldrazi-ramp:
-    weight: 0.0096
+    weight: 0.0095
     avg_copies: 2.0
   samwise-combo:
-    weight: 0.1786
+    weight: 0.1754
     avg_copies: 1.45
   indomitable-creativity:
     weight: 0.1429

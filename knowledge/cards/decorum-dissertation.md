@@ -19,7 +19,7 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.1429
+    weight: 0.1404
     avg_copies: 1.0
   rakdos-aggro:
     weight: 0.1176
