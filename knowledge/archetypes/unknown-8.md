@@ -10,7 +10,7 @@ top_cards:
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Arid Mesa
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Indomitable Creativity
@@ -19,16 +19,16 @@ top_cards:
 - name: Wrenn and Six
   weight: 1.0
   avg_copies: 4.0
-- name: Fable of the Mirror-Breaker
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
-- name: Lightning Bolt
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
 - name: Dwarven Mine
   weight: 1.0
   avg_copies: 4.0
-- name: Archon of Cruelty
+- name: Fable of the Mirror-Breaker
   weight: 1.0
   avg_copies: 4.0
 - name: Bloodstained Mire
@@ -37,19 +37,13 @@ top_cards:
 - name: Persist
   weight: 1.0
   avg_copies: 3.0
-- name: Mountain
-  weight: 1.0
-  avg_copies: 2.5
 - name: Stomping Ground
   weight: 1.0
   avg_copies: 2.5
-- name: Veil of Summer
+- name: Mountain
   weight: 1.0
-  avg_copies: 2.0
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 2.0
-- name: Blood Crypt
+  avg_copies: 2.5
+- name: Meltdown
   weight: 1.0
   avg_copies: 2.0
 - name: Fatal Push
@@ -58,22 +52,25 @@ top_cards:
 - name: Wooded Foothills
   weight: 1.0
   avg_copies: 2.0
-- name: Pyroclasm
+- name: Untimely Malfunction
   weight: 1.0
   avg_copies: 2.0
-- name: Untimely Malfunction
+- name: Veil of Summer
+  weight: 1.0
+  avg_copies: 2.0
+- name: Blood Crypt
+  weight: 1.0
+  avg_copies: 2.0
+- name: Thoughtseize
+  weight: 1.0
+  avg_copies: 2.0
+- name: Pyroclasm
   weight: 1.0
   avg_copies: 2.0
 - name: Pawpatch Formation
   weight: 1.0
   avg_copies: 2.0
-- name: Meltdown
-  weight: 1.0
-  avg_copies: 2.0
-- name: Commercial District
-  weight: 1.0
-  avg_copies: 1.0
-- name: Turn the Earth
+- name: Strategic Betrayal
   weight: 1.0
   avg_copies: 1.0
 - name: Inquisition of Kozilek
@@ -82,28 +79,31 @@ top_cards:
 - name: Sokenzan, Crucible of Defiance
   weight: 1.0
   avg_copies: 1.0
+- name: Raph & Mikey, Troublemakers
+  weight: 1.0
+  avg_copies: 1.0
 - name: Assassin's Trophy
+  weight: 1.0
+  avg_copies: 1.0
+- name: Turn the Earth
+  weight: 1.0
+  avg_copies: 1.0
+- name: Commercial District
   weight: 1.0
   avg_copies: 1.0
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
-- name: Raph & Mikey, Troublemakers
-  weight: 1.0
-  avg_copies: 1.0
-- name: Strategic Betrayal
-  weight: 1.0
-  avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.5
   avg_copies: 2.0
-- name: Brotherhood's End
+- name: Terastodon
   weight: 0.5
   avg_copies: 2.0
 - name: Culling Ritual
   weight: 0.5
   avg_copies: 2.0
-- name: Terastodon
+- name: Brotherhood's End
   weight: 0.5
   avg_copies: 2.0
 - name: Rotten Reunion

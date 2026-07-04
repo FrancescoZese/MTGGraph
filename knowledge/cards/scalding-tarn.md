@@ -9,8 +9,8 @@ type: Land
 meta_presence: 0.2375
 archetypes:
   ruby-storm:
-    weight: 0.8896
-    avg_copies: 2.27
+    weight: 0.8861
+    avg_copies: 2.26
   dimir-control:
     weight: 0.358
     avg_copies: 1.34
@@ -75,7 +75,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   goryo1:
-    weight: 0.9174
+    weight: 0.9194
     avg_copies: 1.22
   goryo3:
     weight: 1.0
@@ -228,7 +228,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-122:
-    weight: 0.9412
+    weight: 0.9444
     avg_copies: 3.94
   unknown-125:
     weight: 1.0

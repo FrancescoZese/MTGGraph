@@ -10,10 +10,10 @@ top_cards:
 - name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
-- name: Ajani, Nacatl Pariah
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Guide of Souls
+- name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
@@ -52,10 +52,10 @@ top_cards:
 - name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.14
-- name: Scalding Tarn
+- name: Ragavan, Nimble Pilferer
   weight: 0.8571
   avg_copies: 3.33
-- name: Ragavan, Nimble Pilferer
+- name: Scalding Tarn
   weight: 0.8571
   avg_copies: 3.33
 - name: Goblin Bombardment
@@ -64,10 +64,10 @@ top_cards:
 - name: High Noon
   weight: 0.8571
   avg_copies: 1.67
-- name: Mountain
+- name: Meticulous Archive
   weight: 0.8571
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Mountain
   weight: 0.8571
   avg_copies: 1.0
 - name: Obsidian Charmaw
@@ -79,10 +79,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.5714
   avg_copies: 2.0
-- name: Arena of Glory
+- name: Ranger-Captain of Eos
   weight: 0.5714
   avg_copies: 1.75
-- name: Ranger-Captain of Eos
+- name: Arena of Glory
   weight: 0.5714
   avg_copies: 1.75
 - name: Rest in Peace
@@ -91,19 +91,19 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.5714
   avg_copies: 1.5
-- name: Wear
+- name: Celestial Purge
   weight: 0.5714
   avg_copies: 1.25
-- name: Celestial Purge
+- name: Wear
   weight: 0.5714
   avg_copies: 1.25
 - name: Voice of Victory
   weight: 0.4286
   avg_copies: 2.33
-- name: Fable of the Mirror-Breaker
+- name: Ephemerate
   weight: 0.4286
   avg_copies: 2.0
-- name: Ephemerate
+- name: Fable of the Mirror-Breaker
   weight: 0.4286
   avg_copies: 2.0
 - name: Seasoned Pyromancer
@@ -130,43 +130,43 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 0.2857
   avg_copies: 1.0
+- name: Deafening Silence
+  weight: 0.1429
+  avg_copies: 2.0
 - name: Practiced Offense
   weight: 0.1429
   avg_copies: 2.0
 - name: Reprieve
   weight: 0.1429
   avg_copies: 2.0
-- name: Deafening Silence
-  weight: 0.1429
-  avg_copies: 2.0
-- name: Witch Enchanter
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Magus of the Moon
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Boromir, Warden of the Tower
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Strix Serenade
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Spell Pierce
+- name: Vandalblast
   weight: 0.1429
   avg_copies: 1.0
 - name: The Legend of Roku
   weight: 0.1429
   avg_copies: 1.0
-- name: Lightning Bolt
+- name: Marsh Flats
   weight: 0.1429
   avg_copies: 1.0
-- name: Marsh Flats
+- name: Boromir, Warden of the Tower
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Spell Pierce
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Strix Serenade
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Magus of the Moon
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Lightning Bolt
   weight: 0.1429
   avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.1429
   avg_copies: 1.0
-- name: Vandalblast
+- name: Witch Enchanter
   weight: 0.1429
   avg_copies: 1.0
 - name: Surgical Extraction

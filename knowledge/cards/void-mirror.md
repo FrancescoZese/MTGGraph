@@ -6,7 +6,7 @@ name: Void Mirror
 scryfall_id: 6f906219-7a6a-427b-93c4-4d958cbd171c
 set: mh2
 type: Artifact
-meta_presence: 0.0045
+meta_presence: 0.0047
 archetypes:
   affinity:
     weight: 0.0024
@@ -33,7 +33,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.33
   unknown-45:
-    weight: 0.3
+    weight: 0.2857
     avg_copies: 1.0
   unknown-47:
     weight: 0.0164
@@ -41,4 +41,7 @@ archetypes:
   unknown-143:
     weight: 1.0
     avg_copies: 4.0
+  unknown-176:
+    weight: 1.0
+    avg_copies: 1.0
 ---

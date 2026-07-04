@@ -9,19 +9,19 @@ type: Basic Land — Island
 meta_presence: 0.3652
 archetypes:
   ruby-storm:
-    weight: 0.013
+    weight: 0.0127
     avg_copies: 1.0
   dimir-control:
     weight: 0.9877
     avg_copies: 2.48
   mono-blue-belcher:
-    weight: 0.6232
-    avg_copies: 1.07
+    weight: 0.6338
+    avg_copies: 1.09
   jeskai-energy:
     weight: 0.8154
     avg_copies: 1.0
   goryo:
-    weight: 0.9909
+    weight: 0.991
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
@@ -36,7 +36,7 @@ archetypes:
     weight: 0.9857
     avg_copies: 1.43
   domain-zoo:
-    weight: 0.0093
+    weight: 0.0091
     avg_copies: 1.0
   mill:
     weight: 0.8966
@@ -63,8 +63,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   esper-blink:
-    weight: 0.5349
-    avg_copies: 1.0
+    weight: 0.5455
+    avg_copies: 1.02
   bant-control:
     weight: 1.0
     avg_copies: 2.0
@@ -90,7 +90,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo1:
-    weight: 0.9752
+    weight: 0.9758
     avg_copies: 1.0
   goryo7:
     weight: 1.0
@@ -198,7 +198,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-62:
-    weight: 0.75
+    weight: 0.76
     avg_copies: 1.0
   unknown-63:
     weight: 1.0
@@ -291,7 +291,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-122:
-    weight: 0.8824
+    weight: 0.8889
     avg_copies: 1.0
   unknown-125:
     weight: 1.0

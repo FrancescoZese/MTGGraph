@@ -7,13 +7,13 @@ name: 'Unknown #109'
 meta_share: 0.0019
 list_count: 9
 top_cards:
-- name: Flow State
+- name: Narset, Parter of Veils
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Narset, Parter of Veils
+- name: Flow State
   weight: 1.0
   avg_copies: 4.0
 - name: Orim's Chant
@@ -103,10 +103,10 @@ top_cards:
 - name: Teferi, Hero of Dominaria
   weight: 0.5556
   avg_copies: 1.0
-- name: Dovin's Veto
+- name: Supreme Verdict
   weight: 0.4444
   avg_copies: 2.0
-- name: Supreme Verdict
+- name: Dovin's Veto
   weight: 0.4444
   avg_copies: 2.0
 - name: High Noon
@@ -121,22 +121,22 @@ top_cards:
 - name: Arid Mesa
   weight: 0.1111
   avg_copies: 2.0
-- name: card:temporal-trespass
-  weight: 0.1111
-  avg_copies: 1.0
-- name: card:glen-elendra-s-answer
+- name: Zirda, the Dawnwaker
   weight: 0.1111
   avg_copies: 1.0
 - name: Beza, the Bounding Spring
   weight: 0.1111
   avg_copies: 1.0
-- name: Relic of Progenitus
+- name: card:glen-elendra-s-answer
   weight: 0.1111
   avg_copies: 1.0
 - name: Mistrise Village
   weight: 0.1111
   avg_copies: 1.0
-- name: Zirda, the Dawnwaker
+- name: card:temporal-trespass
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Relic of Progenitus
   weight: 0.1111
   avg_copies: 1.0
 ---

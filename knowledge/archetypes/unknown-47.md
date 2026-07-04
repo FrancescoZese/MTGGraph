@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: 'Unknown #47'
-meta_share: 0.0131
+meta_share: 0.013
 list_count: 61
 top_cards:
 - name: Psychic Frog
@@ -138,10 +138,10 @@ top_cards:
 - name: Ghost Vacuum
   weight: 0.0984
   avg_copies: 1.33
-- name: Meticulous Archive
+- name: Hallowed Fountain
   weight: 0.0984
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Meticulous Archive
   weight: 0.0984
   avg_copies: 1.0
 - name: Pest Control
@@ -174,16 +174,16 @@ top_cards:
 - name: Verdant Catacombs
   weight: 0.0328
   avg_copies: 1.5
-- name: Stony Silence
+- name: Damnation
   weight: 0.0328
   avg_copies: 1.0
 - name: Snow-Covered Island
   weight: 0.0328
   avg_copies: 1.0
-- name: Snow-Covered Swamp
+- name: Stony Silence
   weight: 0.0328
   avg_copies: 1.0
-- name: Damnation
+- name: Snow-Covered Swamp
   weight: 0.0328
   avg_copies: 1.0
 - name: Break the Ice
@@ -192,15 +192,6 @@ top_cards:
 - name: Void Mirror
   weight: 0.0164
   avg_copies: 2.0
-- name: Fallen Shinobi
-  weight: 0.0164
-  avg_copies: 1.0
-- name: Strategic Betrayal
-  weight: 0.0164
-  avg_copies: 1.0
-- name: Umezawa's Jitte
-  weight: 0.0164
-  avg_copies: 1.0
 - name: High Noon
   weight: 0.0164
   avg_copies: 1.0
@@ -210,10 +201,19 @@ top_cards:
 - name: Snapcaster Mage
   weight: 0.0164
   avg_copies: 1.0
+- name: Fallen Shinobi
+  weight: 0.0164
+  avg_copies: 1.0
+- name: Strategic Betrayal
+  weight: 0.0164
+  avg_copies: 1.0
 - name: Dreams of Steel and Oil
   weight: 0.0164
   avg_copies: 1.0
 - name: River of Tears
+  weight: 0.0164
+  avg_copies: 1.0
+- name: Umezawa's Jitte
   weight: 0.0164
   avg_copies: 1.0
 ---

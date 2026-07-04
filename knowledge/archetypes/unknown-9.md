@@ -7,16 +7,16 @@ name: 'Unknown #9'
 meta_share: 0.0006
 list_count: 3
 top_cards:
-- name: Nine Lives
-  weight: 1.0
-  avg_copies: 4.0
-- name: Windswept Heath
+- name: Solemnity
   weight: 1.0
   avg_copies: 4.0
 - name: United Battlefront
   weight: 1.0
   avg_copies: 4.0
-- name: Solemnity
+- name: Nine Lives
+  weight: 1.0
+  avg_copies: 4.0
+- name: Windswept Heath
   weight: 1.0
   avg_copies: 4.0
 - name: Phyrexian Unlife
@@ -55,40 +55,40 @@ top_cards:
 - name: Pyroclasm
   weight: 1.0
   avg_copies: 1.33
-- name: Temple Garden
-  weight: 1.0
-  avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 1.0
-  avg_copies: 1.0
-- name: Solitary Confinement
-  weight: 1.0
-  avg_copies: 1.0
 - name: Case of the Crimson Pulse
-  weight: 1.0
-  avg_copies: 1.0
-- name: Stony Silence
-  weight: 1.0
-  avg_copies: 1.0
-- name: Lush Portico
-  weight: 1.0
-  avg_copies: 1.0
-- name: Plains
-  weight: 1.0
-  avg_copies: 1.0
-- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Forest
   weight: 1.0
   avg_copies: 1.0
+- name: Temple Garden
+  weight: 1.0
+  avg_copies: 1.0
+- name: Stony Silence
+  weight: 1.0
+  avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 1.0
+  avg_copies: 1.0
+- name: Greater Auramancy
+  weight: 1.0
+  avg_copies: 1.0
+- name: Plains
+  weight: 1.0
+  avg_copies: 1.0
+- name: Lush Portico
+  weight: 1.0
+  avg_copies: 1.0
 - name: Meticulous Archive
+  weight: 1.0
+  avg_copies: 1.0
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
-- name: Greater Auramancy
+- name: Solitary Confinement
   weight: 1.0
   avg_copies: 1.0
 - name: Mystical Dispute

@@ -7,10 +7,10 @@ name: Price of Freedom
 scryfall_id: 9fbe94e9-a71d-4a31-9210-c599abe08e3f
 set: tla
 type: Sorcery — Lesson
-meta_presence: 0.0428
+meta_presence: 0.0431
 archetypes:
   domain-zoo:
-    weight: 0.0093
+    weight: 0.0091
     avg_copies: 1.0
   boros-ponza:
     weight: 1.0
@@ -37,7 +37,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.94
   unknown-45:
-    weight: 0.05
+    weight: 0.0476
     avg_copies: 2.0
   unknown-57:
     weight: 1.0
@@ -46,7 +46,7 @@ archetypes:
     weight: 0.0909
     avg_copies: 3.0
   unknown-122:
-    weight: 0.1176
+    weight: 0.1111
     avg_copies: 1.0
   unknown-134:
     weight: 1.0

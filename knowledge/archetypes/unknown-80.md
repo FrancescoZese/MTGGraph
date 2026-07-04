@@ -6,13 +6,16 @@ name: 'Unknown #80'
 meta_share: 0.0006
 list_count: 3
 top_cards:
+- name: White Orchid Phantom
+  weight: 1.0
+  avg_copies: 4.0
 - name: Temple Garden
   weight: 1.0
   avg_copies: 4.0
-- name: Guide of Souls
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Windswept Heath
@@ -24,40 +27,37 @@ top_cards:
 - name: Birthing Ritual
   weight: 1.0
   avg_copies: 4.0
-- name: White Orchid Phantom
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Leonardo, Cutting Edge
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
-  weight: 1.0
-  avg_copies: 4.0
 - name: Ranger-Captain of Eos
   weight: 1.0
   avg_copies: 3.67
-- name: Haliya, Guided by Light
-  weight: 1.0
-  avg_copies: 3.0
 - name: Agatha's Soul Cauldron
-  weight: 1.0
-  avg_copies: 3.0
-- name: Plains
   weight: 1.0
   avg_copies: 3.0
 - name: Solitude
   weight: 1.0
   avg_copies: 3.0
-- name: Brightglass Gearhulk
+- name: Haliya, Guided by Light
   weight: 1.0
-  avg_copies: 2.67
+  avg_copies: 3.0
+- name: Plains
+  weight: 1.0
+  avg_copies: 3.0
 - name: Boromir, Warden of the Tower
   weight: 1.0
   avg_copies: 2.67
-- name: Idyllic Grange
+- name: Brightglass Gearhulk
+  weight: 1.0
+  avg_copies: 2.67
+- name: Damping Sphere
   weight: 1.0
   avg_copies: 2.0
-- name: Gaddock Teeg
+- name: Walking Ballista
   weight: 1.0
   avg_copies: 2.0
 - name: Wrath of the Skies
@@ -66,13 +66,13 @@ top_cards:
 - name: Lush Portico
   weight: 1.0
   avg_copies: 2.0
-- name: Walking Ballista
+- name: Idyllic Grange
   weight: 1.0
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Gaddock Teeg
   weight: 1.0
   avg_copies: 2.0
-- name: Soul-Guide Lantern
+- name: Heliod, Sun-Crowned
   weight: 1.0
   avg_copies: 1.0
 - name: Haywire Mite
@@ -81,10 +81,10 @@ top_cards:
 - name: Young Wolf
   weight: 1.0
   avg_copies: 1.0
-- name: Heliod, Sun-Crowned
+- name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 1.0
 - name: Starfield Shepherd

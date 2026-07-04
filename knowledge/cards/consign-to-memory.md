@@ -7,10 +7,10 @@ name: Consign to Memory
 scryfall_id: bc95af55-d1dd-4fe6-adb0-3ad6db20d986
 set: mh3
 type: Instant
-meta_presence: 0.465
+meta_presence: 0.4644
 archetypes:
   ruby-storm:
-    weight: 0.0065
+    weight: 0.0063
     avg_copies: 2.0
   boros-energy:
     weight: 0.0017
@@ -20,15 +20,15 @@ archetypes:
     avg_copies: 3.48
   mono-blue-belcher:
     weight: 1.0
-    avg_copies: 3.17
+    avg_copies: 3.19
   jeskai-energy:
     weight: 0.9846
     avg_copies: 3.79
   goryo:
-    weight: 0.9909
+    weight: 0.991
     avg_copies: 2.89
   necrodominance:
-    weight: 0.0541
+    weight: 0.0526
     avg_copies: 3.5
   azorius-control:
     weight: 1.0
@@ -40,8 +40,8 @@ archetypes:
     weight: 0.9382
     avg_copies: 2.49
   domain-zoo:
-    weight: 0.9167
-    avg_copies: 2.06
+    weight: 0.9182
+    avg_copies: 2.07
   mill:
     weight: 0.7241
     avg_copies: 3.29
@@ -73,8 +73,8 @@ archetypes:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.907
-    avg_copies: 2.42
+    weight: 0.9091
+    avg_copies: 2.4
   indomitable-creativity:
     weight: 0.7857
     avg_copies: 3.73
@@ -109,7 +109,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   goryo1:
-    weight: 0.9917
+    weight: 0.9919
     avg_copies: 3.17
   goryo7:
     weight: 1.0
@@ -224,7 +224,7 @@ archetypes:
     avg_copies: 2.0
   unknown-62:
     weight: 1.0
-    avg_copies: 1.89
+    avg_copies: 1.9
   unknown-63:
     weight: 1.0
     avg_copies: 3.0
@@ -274,7 +274,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-97:
-    weight: 1.0
+    weight: 0.8333
     avg_copies: 2.2
   unknown-99:
     weight: 1.0
@@ -325,8 +325,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-122:
-    weight: 0.8235
-    avg_copies: 3.43
+    weight: 0.8333
+    avg_copies: 3.4
   unknown-125:
     weight: 1.0
     avg_copies: 2.0
@@ -358,7 +358,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-144:
-    weight: 0.6667
+    weight: 0.5
     avg_copies: 4.0
   unknown-149:
     weight: 1.0

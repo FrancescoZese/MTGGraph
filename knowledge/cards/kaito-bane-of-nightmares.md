@@ -14,10 +14,10 @@ archetypes:
     weight: 0.7778
     avg_copies: 1.29
   necrodominance:
-    weight: 0.027
+    weight: 0.0263
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0185
+    weight: 0.0182
     avg_copies: 1.0
   simic-ritual:
     weight: 0.039
@@ -29,7 +29,7 @@ archetypes:
     weight: 0.2
     avg_copies: 1.0
   goryo1:
-    weight: 0.0165
+    weight: 0.0161
     avg_copies: 1.0
   grixis-control:
     weight: 0.2
@@ -39,7 +39,7 @@ archetypes:
     avg_copies: 1.0
   unknown-27:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.5
   unknown-47:
     weight: 0.8852
     avg_copies: 1.43

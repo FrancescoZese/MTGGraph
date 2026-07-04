@@ -6,10 +6,10 @@ name: 'Unknown #30'
 meta_share: 0.0013
 list_count: 6
 top_cards:
-- name: Moonshadow
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -90,7 +90,7 @@ top_cards:
 - name: Otawara, Soaring City
   weight: 0.5
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Meticulous Archive
   weight: 0.5
   avg_copies: 1.0
 - name: Loran of the Third Path
@@ -99,7 +99,7 @@ top_cards:
 - name: Godless Shrine
   weight: 0.5
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Soul-Guide Lantern
   weight: 0.5
   avg_copies: 1.0
 - name: Gran-Gran
@@ -117,46 +117,46 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.3333
   avg_copies: 1.0
-- name: Exhibition Tidecaller
-  weight: 0.1667
-  avg_copies: 4.0
-- name: Hedron Crab
-  weight: 0.1667
-  avg_copies: 4.0
 - name: Merfolk Secretkeeper
+  weight: 0.1667
+  avg_copies: 4.0
+- name: Exhibition Tidecaller
   weight: 0.1667
   avg_copies: 4.0
 - name: Vengevine
   weight: 0.1667
   avg_copies: 4.0
-- name: Thundertrap Trainer
+- name: Hedron Crab
   weight: 0.1667
-  avg_copies: 2.0
+  avg_copies: 4.0
 - name: Dauthi Voidwalker
   weight: 0.1667
   avg_copies: 2.0
-- name: Requiting Hex
+- name: Thundertrap Trainer
   weight: 0.1667
-  avg_copies: 1.0
-- name: Lavinia, Azorius Renegade
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Cephalid Coliseum
-  weight: 0.1667
-  avg_copies: 1.0
-- name: The Meathook Massacre
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Toxic Deluge
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Graveyard Trespasser
+  avg_copies: 2.0
+- name: Verdant Catacombs
   weight: 0.1667
   avg_copies: 1.0
 - name: Engineered Explosives
   weight: 0.1667
   avg_copies: 1.0
-- name: Verdant Catacombs
+- name: Graveyard Trespasser
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Cephalid Coliseum
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Lavinia, Azorius Renegade
+  weight: 0.1667
+  avg_copies: 1.0
+- name: The Meathook Massacre
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Requiting Hex
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Toxic Deluge
   weight: 0.1667
   avg_copies: 1.0
 ---

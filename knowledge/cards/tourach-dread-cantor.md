@@ -10,7 +10,7 @@ type: Legendary Creature — Human Cleric
 meta_presence: 0.0049
 archetypes:
   necrodominance:
-    weight: 0.4595
+    weight: 0.4474
     avg_copies: 1.71
   jund-saga:
     weight: 0.6667

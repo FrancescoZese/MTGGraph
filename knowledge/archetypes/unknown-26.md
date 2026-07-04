@@ -3,7 +3,7 @@ colors:
 - W
 - R
 name: 'Unknown #26'
-meta_share: 0.0039
+meta_share: 0.0038
 list_count: 18
 top_cards:
 - name: Cleansing Wildfire
@@ -15,10 +15,10 @@ top_cards:
 - name: Demolition Field
   weight: 1.0
   avg_copies: 4.0
-- name: Wrath of the Skies
+- name: Price of Freedom
   weight: 1.0
   avg_copies: 3.94
-- name: Price of Freedom
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 3.94
 - name: Path to Exile
@@ -42,10 +42,10 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.89
-- name: Cori Mountain Monastery
+- name: Erode
   weight: 0.9444
   avg_copies: 3.82
-- name: Erode
+- name: Cori Mountain Monastery
   weight: 0.9444
   avg_copies: 3.82
 - name: Kaheera, the Orphanguard
@@ -93,16 +93,16 @@ top_cards:
 - name: card:restless-bivouac
   weight: 0.2222
   avg_copies: 1.5
-- name: Mazemind Tome
-  weight: 0.1111
-  avg_copies: 4.0
 - name: Arid Mesa
   weight: 0.1111
   avg_copies: 4.0
-- name: Reprieve
+- name: Mazemind Tome
+  weight: 0.1111
+  avg_copies: 4.0
+- name: Get Lost
   weight: 0.1111
   avg_copies: 3.5
-- name: Get Lost
+- name: Reprieve
   weight: 0.1111
   avg_copies: 3.5
 - name: Kor Firewalker
@@ -123,9 +123,6 @@ top_cards:
 - name: Lightning Helix
   weight: 0.0556
   avg_copies: 4.0
-- name: White Orchid Phantom
-  weight: 0.0556
-  avg_copies: 4.0
 - name: card:kutzil-s-flanker
   weight: 0.0556
   avg_copies: 4.0
@@ -135,28 +132,31 @@ top_cards:
 - name: Volcanic Spite
   weight: 0.0556
   avg_copies: 4.0
-- name: Candy Trail
+- name: White Orchid Phantom
   weight: 0.0556
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
   weight: 0.0556
   avg_copies: 3.0
-- name: March of Otherworldly Light
+- name: Candy Trail
   weight: 0.0556
-  avg_copies: 2.0
-- name: Flashback
-  weight: 0.0556
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Hallowed Moonlight
   weight: 0.0556
   avg_copies: 2.0
 - name: card:vanish-into-eternity
   weight: 0.0556
   avg_copies: 2.0
-- name: Elixir of Immortality
+- name: Flashback
+  weight: 0.0556
+  avg_copies: 2.0
+- name: March of Otherworldly Light
+  weight: 0.0556
+  avg_copies: 2.0
+- name: Emrakul, the Aeons Torn
   weight: 0.0556
   avg_copies: 1.0
-- name: Emrakul, the Aeons Torn
+- name: Elixir of Immortality
   weight: 0.0556
   avg_copies: 1.0
 ---

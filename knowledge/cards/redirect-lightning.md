@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0068
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0093
+    weight: 0.0091
     avg_copies: 1.0
   mono-red-belcher:
     weight: 0.1538
@@ -37,6 +37,6 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-45:
-    weight: 0.1
+    weight: 0.0952
     avg_copies: 1.0
 ---

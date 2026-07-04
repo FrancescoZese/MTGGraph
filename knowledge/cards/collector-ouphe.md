@@ -10,7 +10,7 @@ type: Creature — Ouphe
 meta_presence: 0.0508
 archetypes:
   amulet-titan:
-    weight: 0.5224
+    weight: 0.5294
     avg_copies: 1.0
   goryo:
     weight: 0.0045

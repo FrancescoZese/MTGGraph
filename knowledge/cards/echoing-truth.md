@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0026
 archetypes:
   mono-blue-belcher:
-    weight: 0.029
+    weight: 0.0282
     avg_copies: 1.0
   mill:
     weight: 0.3103

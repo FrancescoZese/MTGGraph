@@ -7,25 +7,25 @@ name: 'Unknown #131'
 meta_share: 0.0017
 list_count: 8
 top_cards:
-- name: Ocelot Pride
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 4.0
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Guide of Souls
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 4.0
-- name: Solitude
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
 - name: Quantum Riddler
@@ -52,10 +52,10 @@ top_cards:
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 1.88
-- name: Plains
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.75
-- name: Meticulous Archive
+- name: Plains
   weight: 1.0
   avg_copies: 1.75
 - name: Hallowed Fountain
@@ -64,13 +64,13 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.12
-- name: Shadowy Backstreet
-  weight: 1.0
-  avg_copies: 1.0
 - name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Watery Grave
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Deafening Silence
@@ -106,25 +106,25 @@ top_cards:
 - name: Undercity Sewers
   weight: 0.25
   avg_copies: 1.0
-- name: Prismatic Ending
-  weight: 0.125
-  avg_copies: 3.0
 - name: Orcish Bowmasters
   weight: 0.125
   avg_copies: 3.0
-- name: Voice of Victory
+- name: Prismatic Ending
+  weight: 0.125
+  avg_copies: 3.0
+- name: High Noon
   weight: 0.125
   avg_copies: 2.0
 - name: Containment Priest
   weight: 0.125
   avg_copies: 2.0
-- name: High Noon
+- name: Voice of Victory
   weight: 0.125
   avg_copies: 2.0
-- name: Swamp
+- name: Clarion Conqueror
   weight: 0.125
   avg_copies: 1.0
-- name: Clarion Conqueror
+- name: Swamp
   weight: 0.125
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines

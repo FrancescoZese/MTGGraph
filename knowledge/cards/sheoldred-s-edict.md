@@ -13,7 +13,7 @@ archetypes:
     weight: 0.9012
     avg_copies: 2.07
   necrodominance:
-    weight: 0.3243
+    weight: 0.3158
     avg_copies: 1.92
   mill:
     weight: 0.2759
@@ -28,7 +28,7 @@ archetypes:
     weight: 0.0606
     avg_copies: 2.0
   esper-blink:
-    weight: 0.0116
+    weight: 0.0114
     avg_copies: 2.0
   orzhov-blink:
     weight: 0.3333

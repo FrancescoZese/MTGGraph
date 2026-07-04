@@ -6,20 +6,20 @@ name: Vexing Bauble
 scryfall_id: 29f11089-658f-42e6-aeb0-09b512ad2479
 set: mh3
 type: Artifact
-meta_presence: 0.3919
+meta_presence: 0.3912
 archetypes:
   ruby-storm:
-    weight: 0.1299
+    weight: 0.1266
     avg_copies: 1.81
   boros-energy:
-    weight: 0.5833
+    weight: 0.5845
     avg_copies: 1.65
   eldrazi-tron:
-    weight: 0.5806
+    weight: 0.5773
     avg_copies: 1.31
   amulet-titan:
-    weight: 0.7612
-    avg_copies: 1.3
+    weight: 0.7647
+    avg_copies: 1.29
   goryo:
     weight: 0.0045
     avg_copies: 2.0
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.75
     avg_copies: 1.25
   necrodominance:
-    weight: 0.027
+    weight: 0.0263
     avg_copies: 2.0
   azorius-control:
     weight: 0.1639
@@ -36,7 +36,7 @@ archetypes:
     weight: 0.7411
     avg_copies: 1.08
   domain-zoo:
-    weight: 0.1019
+    weight: 0.1
     avg_copies: 1.36
   mill:
     weight: 0.2069
@@ -78,7 +78,7 @@ archetypes:
     weight: 0.0517
     avg_copies: 2.08
   esper-blink:
-    weight: 0.0233
+    weight: 0.0227
     avg_copies: 2.0
   samwise-combo:
     weight: 0.4386
@@ -135,7 +135,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.67
   goryo1:
-    weight: 0.7769
+    weight: 0.7581
     avg_copies: 1.8
   goryo4:
     weight: 0.7273
@@ -186,7 +186,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-45:
-    weight: 0.15
+    weight: 0.1905
     avg_copies: 1.0
   unknown-47:
     weight: 0.0492
@@ -243,7 +243,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-97:
-    weight: 1.0
+    weight: 0.8333
     avg_copies: 3.4
   unknown-98:
     weight: 0.875
@@ -279,7 +279,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-122:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 2.0
   unknown-123:
     weight: 1.0
@@ -322,7 +322,7 @@ archetypes:
     avg_copies: 2.0
   unknown-160:
     weight: 0.6667
-    avg_copies: 1.1
+    avg_copies: 1.08
   unknown-159:
     weight: 1.0
     avg_copies: 3.0
@@ -336,6 +336,9 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-173:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-176:
     weight: 1.0
     avg_copies: 2.0
 ---

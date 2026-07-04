@@ -10,7 +10,7 @@ type: Legendary Creature — Human Noble Ally
 meta_presence: 0.009
 archetypes:
   necrodominance:
-    weight: 0.027
+    weight: 0.0263
     avg_copies: 2.0
   living-end:
     weight: 0.4828
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.75
   goryo1:
-    weight: 0.0165
+    weight: 0.0161
     avg_copies: 2.0
   soultrader-combo:
     weight: 0.2

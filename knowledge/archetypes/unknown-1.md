@@ -6,10 +6,13 @@ name: 'Unknown #1'
 meta_share: 0.0015
 list_count: 7
 top_cards:
+- name: Faithless Looting
+  weight: 1.0
+  avg_copies: 4.0
 - name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
 - name: Bloodghast
@@ -18,31 +21,28 @@ top_cards:
 - name: Flare of Malice
   weight: 1.0
   avg_copies: 4.0
-- name: Archon of Cruelty
-  weight: 1.0
-  avg_copies: 4.0
 - name: Persist
   weight: 1.0
   avg_copies: 3.86
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 3.14
-- name: Blood Crypt
+- name: Rakdos Charm
   weight: 1.0
   avg_copies: 3.0
-- name: Rakdos Charm
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 3.0
 - name: Obsidian Charmaw
   weight: 1.0
   avg_copies: 2.57
-- name: Fatal Push
+- name: Village Rites
   weight: 1.0
   avg_copies: 2.0
 - name: Swamp
   weight: 1.0
   avg_copies: 2.0
-- name: Village Rites
+- name: Fatal Push
   weight: 1.0
   avg_copies: 2.0
 - name: Polluted Delta
@@ -51,10 +51,10 @@ top_cards:
 - name: Spymaster's Vault
   weight: 1.0
   avg_copies: 2.0
-- name: Mountain
+- name: Brotherhood's End
   weight: 1.0
   avg_copies: 2.0
-- name: Brotherhood's End
+- name: Mountain
   weight: 1.0
   avg_copies: 2.0
 - name: Corrupted Conviction
@@ -84,10 +84,10 @@ top_cards:
 - name: Den of the Bugbear
   weight: 0.5714
   avg_copies: 1.0
-- name: Mishra's Bauble
+- name: Leyline of Combustion
   weight: 0.4286
   avg_copies: 4.0
-- name: Leyline of Combustion
+- name: Mishra's Bauble
   weight: 0.4286
   avg_copies: 4.0
 - name: Nethergoyf
@@ -108,19 +108,19 @@ top_cards:
 - name: Flashback
   weight: 0.2857
   avg_copies: 2.0
-- name: Magus of the Moon
+- name: Engineered Explosives
   weight: 0.1429
   avg_copies: 2.0
 - name: Unearth
   weight: 0.1429
   avg_copies: 2.0
-- name: Engineered Explosives
+- name: Magus of the Moon
   weight: 0.1429
   avg_copies: 2.0
-- name: Lightning Skelemental
+- name: Ob Nixilis, the Adversary
   weight: 0.1429
   avg_copies: 1.0
-- name: Ob Nixilis, the Adversary
+- name: Lightning Skelemental
   weight: 0.1429
   avg_copies: 1.0
 ---

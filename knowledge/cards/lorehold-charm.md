@@ -11,9 +11,9 @@ type: Instant
 meta_presence: 0.0019
 archetypes:
   ruby-storm:
-    weight: 0.013
+    weight: 0.0127
     avg_copies: 1.0
   boros-energy:
-    weight: 0.0119
+    weight: 0.0118
     avg_copies: 1.14
 ---

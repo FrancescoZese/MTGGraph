@@ -7,13 +7,13 @@ name: 'Unknown #65'
 meta_share: 0.0058
 list_count: 27
 top_cards:
+- name: Violent Outburst
+  weight: 1.0
+  avg_copies: 4.0
 - name: Crashing Footfalls
   weight: 1.0
   avg_copies: 4.0
 - name: Shardless Agent
-  weight: 1.0
-  avg_copies: 4.0
-- name: Violent Outburst
   weight: 1.0
   avg_copies: 4.0
 - name: Misty Rainforest
@@ -25,10 +25,10 @@ top_cards:
 - name: Fire
   weight: 1.0
   avg_copies: 3.78
-- name: Subtlety
+- name: Dead
   weight: 1.0
   avg_copies: 3.63
-- name: Dead
+- name: Subtlety
   weight: 1.0
   avg_copies: 3.63
 - name: Mystical Dispute
@@ -52,16 +52,16 @@ top_cards:
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.11
-- name: Stomping Ground
-  weight: 1.0
-  avg_copies: 1.0
 - name: Forest
   weight: 1.0
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Stomping Ground
+  weight: 1.0
+  avg_copies: 1.0
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Wooded Foothills
@@ -121,10 +121,10 @@ top_cards:
 - name: Repudiate
   weight: 0.1481
   avg_copies: 1.0
-- name: Tishana's Tidebinder
+- name: Rough
   weight: 0.1111
   avg_copies: 2.33
-- name: Rough
+- name: Tishana's Tidebinder
   weight: 0.1111
   avg_copies: 2.33
 - name: Lórien Revealed
@@ -139,34 +139,34 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 0.0741
   avg_copies: 1.5
-- name: Fade from History
+- name: Hallowed Fountain
   weight: 0.0741
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Fade from History
   weight: 0.0741
   avg_copies: 1.0
 - name: Flame of Anor
   weight: 0.037
   avg_copies: 4.0
-- name: Mutavault
-  weight: 0.037
-  avg_copies: 2.0
-- name: Teferi, Time Raveler
+- name: High Noon
   weight: 0.037
   avg_copies: 2.0
 - name: card:avengers-disassembled
   weight: 0.037
   avg_copies: 2.0
-- name: High Noon
+- name: Mutavault
   weight: 0.037
   avg_copies: 2.0
 - name: Commandeer
   weight: 0.037
   avg_copies: 2.0
-- name: Fable of the Mirror-Breaker
+- name: Teferi, Time Raveler
+  weight: 0.037
+  avg_copies: 2.0
+- name: Mine Collapse
   weight: 0.037
   avg_copies: 1.0
-- name: Mine Collapse
+- name: Fable of the Mirror-Breaker
   weight: 0.037
   avg_copies: 1.0
 ---

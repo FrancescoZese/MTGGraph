@@ -13,7 +13,7 @@ top_cards:
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Arclight Phoenix
+- name: Consider
   weight: 1.0
   avg_copies: 4.0
 - name: Thought Scour
@@ -22,16 +22,16 @@ top_cards:
 - name: Manamorphose
   weight: 1.0
   avg_copies: 4.0
-- name: Scalding Tarn
+- name: Demilich
   weight: 1.0
   avg_copies: 4.0
-- name: Demilich
+- name: Arclight Phoenix
   weight: 1.0
   avg_copies: 4.0
 - name: Exhibition Tidecaller
   weight: 1.0
   avg_copies: 4.0
-- name: Consider
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
 - name: Lava Dart
@@ -46,16 +46,16 @@ top_cards:
 - name: Force of Negation
   weight: 1.0
   avg_copies: 2.67
-- name: Wooded Foothills
-  weight: 1.0
-  avg_copies: 2.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 2.0
-- name: Sink into Stupor
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 2.0
 - name: Flashback
+  weight: 1.0
+  avg_copies: 2.0
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 2.0
 - name: Mountain
@@ -73,10 +73,10 @@ top_cards:
 - name: Rough
   weight: 0.5
   avg_copies: 3.0
-- name: Preordain
+- name: Surgical Extraction
   weight: 0.5
   avg_copies: 3.0
-- name: Surgical Extraction
+- name: Preordain
   weight: 0.5
   avg_copies: 3.0
 - name: Misty Rainforest

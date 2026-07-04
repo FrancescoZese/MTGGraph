@@ -6,10 +6,10 @@ name: Damping Sphere
 scryfall_id: 550860b4-887d-423a-8add-816c2a8da615
 set: dmr
 type: Artifact
-meta_presence: 0.2839
+meta_presence: 0.2838
 archetypes:
   boros-energy:
-    weight: 0.2959
+    weight: 0.2973
     avg_copies: 1.41
   dimir-control:
     weight: 0.1728
@@ -18,17 +18,17 @@ archetypes:
     weight: 0.4154
     avg_copies: 1.44
   eldrazi-tron:
-    weight: 0.0092
+    weight: 0.0091
     avg_copies: 1.0
   goryo:
-    weight: 0.15
+    weight: 0.1493
     avg_copies: 1.73
   hardened-scales:
     weight: 1.0
     avg_copies: 3.0
   necrodominance:
-    weight: 0.7838
-    avg_copies: 2.07
+    weight: 0.7895
+    avg_copies: 2.03
   azorius-control:
     weight: 0.0164
     avg_copies: 1.0
@@ -42,8 +42,8 @@ archetypes:
     weight: 0.9501
     avg_copies: 2.23
   domain-zoo:
-    weight: 0.6574
-    avg_copies: 1.65
+    weight: 0.6545
+    avg_copies: 1.64
   mill:
     weight: 0.069
     avg_copies: 1.5
@@ -78,7 +78,7 @@ archetypes:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.5233
+    weight: 0.5114
     avg_copies: 2.33
   samwise-combo:
     weight: 0.0351
@@ -132,8 +132,8 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.7686
-    avg_copies: 1.87
+    weight: 0.7661
+    avg_copies: 1.86
   goryo4:
     weight: 0.7273
     avg_copies: 2.5
@@ -207,7 +207,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.67
   unknown-62:
-    weight: 0.0417
+    weight: 0.08
     avg_copies: 2.0
   unknown-68:
     weight: 0.129
@@ -243,7 +243,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-97:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 2.0
   unknown-98:
     weight: 0.875
@@ -290,6 +290,9 @@ archetypes:
   unknown-137:
     weight: 1.0
     avg_copies: 2.0
+  unknown-144:
+    weight: 0.25
+    avg_copies: 1.0
   unknown-152:
     weight: 1.0
     avg_copies: 1.0
@@ -305,4 +308,7 @@ archetypes:
   unknown-170:
     weight: 1.0
     avg_copies: 3.0
+  unknown-176:
+    weight: 1.0
+    avg_copies: 1.0
 ---

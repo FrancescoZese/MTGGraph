@@ -3,22 +3,22 @@ colors:
 - B
 - R
 name: Hollow One
-meta_share: 0.0071
+meta_share: 0.007
 list_count: 33
 top_cards:
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Hollow One
-  weight: 1.0
-  avg_copies: 4.0
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
-- name: Burning Inquiry
+- name: Hollow One
+  weight: 1.0
+  avg_copies: 4.0
+- name: Detective's Phoenix
   weight: 1.0
   avg_copies: 3.97
-- name: Detective's Phoenix
+- name: Burning Inquiry
   weight: 1.0
   avg_copies: 3.97
 - name: Bloodstained Mire
@@ -150,31 +150,34 @@ top_cards:
 - name: Goblin Lore
   weight: 0.0606
   avg_copies: 2.0
-- name: Ox of Agonas
-  weight: 0.0606
-  avg_copies: 1.5
 - name: Blood Moon
   weight: 0.0606
   avg_copies: 1.5
-- name: Violent Urge
+- name: Ox of Agonas
   weight: 0.0606
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.0606
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Commercial District
+  weight: 0.0606
+  avg_copies: 1.0
+- name: Violent Urge
   weight: 0.0606
   avg_copies: 1.0
 - name: Seal of Fire
   weight: 0.0606
   avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 0.0606
+  avg_copies: 1.0
 - name: Death's Shadow
   weight: 0.0303
   avg_copies: 4.0
-- name: Magus of the Moon
+- name: Magebane Lizard
   weight: 0.0303
   avg_copies: 2.0
-- name: Flameblade Adept
+- name: Rough
+  weight: 0.0303
+  avg_copies: 2.0
+- name: Pyroclasm
   weight: 0.0303
   avg_copies: 2.0
 - name: Inti, Seneschal of the Sun
@@ -183,28 +186,25 @@ top_cards:
 - name: Break the Ice
   weight: 0.0303
   avg_copies: 2.0
-- name: Cam and Farrik, Havoc Duo
+- name: Magus of the Moon
   weight: 0.0303
   avg_copies: 2.0
-- name: Pyroclasm
+- name: Flameblade Adept
   weight: 0.0303
   avg_copies: 2.0
 - name: Ancient Grudge
   weight: 0.0303
   avg_copies: 2.0
-- name: Magebane Lizard
+- name: Cam and Farrik, Havoc Duo
   weight: 0.0303
   avg_copies: 2.0
-- name: Rough
+- name: Shattering Spree
   weight: 0.0303
-  avg_copies: 2.0
+  avg_copies: 1.0
 - name: Barbarian Ring
   weight: 0.0303
   avg_copies: 1.0
 - name: Overlord of the Balemurk
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Shattering Spree
   weight: 0.0303
   avg_copies: 1.0
 ---

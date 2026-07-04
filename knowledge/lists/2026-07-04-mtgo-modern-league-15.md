@@ -1,0 +1,38 @@
+---
+archetype: mono-blue-belcher
+date: '2026-07-04'
+finish: 5-0
+pilot: bugzbugs
+source: MTGO Modern League
+---
+
+
+# Mainboard
+3 Force of Negation
+4 Goblin Charbelcher
+4 Hydroelectric Specimen
+2 Into the Flood Maw
+4 Jwari Disruption
+4 Sea Gate Restoration
+4 Sink into Stupor
+2 Spell Snare
+2 Stern Scolding
+1 Beyeen Veil
+4 Suppression Ray
+4 Tameshi, Reality Architect
+4 Waterlogged Teachings
+4 Whir of Invention
+4 Disrupting Shoal
+4 Lotus Bloom
+3 Counterspell
+4 Impulse
+
+# Sideboard
+4 Consign to Memory
+2 Mystical Dispute
+2 Flusterstorm
+2 Engineered Explosives
+1 Island
+2 Tamiyo, Inquisitive Student
+1 Hurkyl's Recall
+1 Tormod's Crypt

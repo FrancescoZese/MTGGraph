@@ -6,25 +6,25 @@ colors:
 - R
 - G
 name: 'Unknown #85'
-meta_share: 0.0022
+meta_share: 0.0021
 list_count: 10
 top_cards:
-- name: Leyline Binding
-  weight: 1.0
-  avg_copies: 4.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Territorial Kavu
+- name: Leyline Binding
   weight: 1.0
   avg_copies: 4.0
 - name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
-- name: Wooded Foothills
+- name: Territorial Kavu
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 3.9
-- name: Ragavan, Nimble Pilferer
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 3.9
 - name: Tribal Flames
@@ -84,10 +84,10 @@ top_cards:
 - name: Indatha Triome
   weight: 0.7
   avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: High Noon
   weight: 0.6
   avg_copies: 2.0
-- name: High Noon
+- name: Nihil Spellbomb
   weight: 0.6
   avg_copies: 2.0
 - name: Thundering Falls
@@ -108,10 +108,10 @@ top_cards:
 - name: Plains
   weight: 0.3
   avg_copies: 1.0
-- name: Mana Tithe
+- name: Damping Sphere
   weight: 0.2
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Mana Tithe
   weight: 0.2
   avg_copies: 2.0
 - name: Quantum Riddler
@@ -135,13 +135,13 @@ top_cards:
 - name: Force of Vigor
   weight: 0.1
   avg_copies: 3.0
-- name: Vexing Bauble
+- name: Rough
   weight: 0.1
   avg_copies: 2.0
 - name: Doorkeeper Thrull
   weight: 0.1
   avg_copies: 2.0
-- name: Fable of the Mirror-Breaker
+- name: Pick Your Poison
   weight: 0.1
   avg_copies: 2.0
 - name: Laelia, the Blade Reforged
@@ -150,37 +150,37 @@ top_cards:
 - name: Endurance
   weight: 0.1
   avg_copies: 2.0
-- name: Pick Your Poison
+- name: Vexing Bauble
   weight: 0.1
   avg_copies: 2.0
 - name: Prismatic Ending
   weight: 0.1
   avg_copies: 2.0
-- name: Rough
+- name: Fable of the Mirror-Breaker
   weight: 0.1
   avg_copies: 2.0
+- name: Zagoth Triome
+  weight: 0.1
+  avg_copies: 1.0
 - name: Hidetsugu Consumes All
   weight: 0.1
   avg_copies: 1.0
-- name: Xander's Lounge
-  weight: 0.1
-  avg_copies: 1.0
 - name: Island
-  weight: 0.1
-  avg_copies: 1.0
-- name: Lush Portico
-  weight: 0.1
-  avg_copies: 1.0
-- name: Pyroclasm
-  weight: 0.1
-  avg_copies: 1.0
-- name: Zagoth Triome
   weight: 0.1
   avg_copies: 1.0
 - name: Hedge Maze
   weight: 0.1
   avg_copies: 1.0
 - name: Chalice of the Void
+  weight: 0.1
+  avg_copies: 1.0
+- name: Pyroclasm
+  weight: 0.1
+  avg_copies: 1.0
+- name: Xander's Lounge
+  weight: 0.1
+  avg_copies: 1.0
+- name: Lush Portico
   weight: 0.1
   avg_copies: 1.0
 ---

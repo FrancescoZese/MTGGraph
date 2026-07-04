@@ -10,7 +10,7 @@ type: Enchantment
 meta_presence: 0.0075
 archetypes:
   necrodominance:
-    weight: 0.2162
+    weight: 0.2105
     avg_copies: 1.25
   mill:
     weight: 0.069

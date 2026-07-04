@@ -7,13 +7,13 @@ name: Nature's Claim
 scryfall_id: d24b6640-ef2f-4c92-beb3-afdf78f9c2d5
 set: ima
 type: Instant
-meta_presence: 0.0551
+meta_presence: 0.0549
 archetypes:
   ruby-storm:
-    weight: 0.013
+    weight: 0.0127
     avg_copies: 4.0
   goryo:
-    weight: 0.0091
+    weight: 0.009
     avg_copies: 1.0
   hardened-scales:
     weight: 1.0
@@ -48,6 +48,9 @@ archetypes:
   unknown-38:
     weight: 1.0
     avg_copies: 4.0
+  unknown-97:
+    weight: 0.1667
+    avg_copies: 2.0
   unknown-167:
     weight: 1.0
     avg_copies: 2.0

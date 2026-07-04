@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.3502
 archetypes:
   ruby-storm:
-    weight: 0.8961
+    weight: 0.8987
     avg_copies: 2.51
   boros-energy:
     weight: 1.0
@@ -24,8 +24,8 @@ archetypes:
     weight: 0.973
     avg_copies: 3.58
   domain-zoo:
-    weight: 0.9815
-    avg_copies: 3.84
+    weight: 0.9818
+    avg_copies: 3.82
   burn:
     weight: 0.9333
     avg_copies: 1.86
@@ -117,8 +117,8 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.0
   unknown-62:
-    weight: 0.875
-    avg_copies: 3.24
+    weight: 0.88
+    avg_copies: 3.23
   unknown-66:
     weight: 1.0
     avg_copies: 1.0
@@ -195,8 +195,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-122:
-    weight: 0.8235
-    avg_copies: 2.14
+    weight: 0.8333
+    avg_copies: 2.13
   unknown-123:
     weight: 1.0
     avg_copies: 2.0
@@ -225,7 +225,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-160:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 1.0
   unknown-161:
     weight: 1.0

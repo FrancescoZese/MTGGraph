@@ -3,7 +3,7 @@ colors:
 - W
 - R
 name: Burn
-meta_share: 0.0065
+meta_share: 0.0064
 list_count: 30
 top_cards:
 - name: Lava Spike
@@ -153,10 +153,10 @@ top_cards:
 - name: Orim's Chant
   weight: 0.0667
   avg_copies: 1.5
-- name: Iridescent Vinelasher
+- name: Vexing Devil
   weight: 0.0333
   avg_copies: 4.0
-- name: Vexing Devil
+- name: Iridescent Vinelasher
   weight: 0.0333
   avg_copies: 4.0
 - name: Faerie Macabre
@@ -165,34 +165,34 @@ top_cards:
 - name: Containment Priest
   weight: 0.0333
   avg_copies: 3.0
-- name: Relic of Progenitus
+- name: Kor Firewalker
   weight: 0.0333
   avg_copies: 2.0
 - name: Nihil Spellbomb
   weight: 0.0333
   avg_copies: 2.0
-- name: Tunnel Ignus
+- name: Relic of Progenitus
   weight: 0.0333
   avg_copies: 2.0
 - name: Blood Crypt
   weight: 0.0333
   avg_copies: 2.0
-- name: Kor Firewalker
+- name: Tunnel Ignus
   weight: 0.0333
   avg_copies: 2.0
-- name: card:volcanic-fallout
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Blood Moon
-  weight: 0.0333
-  avg_copies: 1.0
 - name: Void Mirror
+  weight: 0.0333
+  avg_copies: 1.0
+- name: card:volcanic-fallout
   weight: 0.0333
   avg_copies: 1.0
 - name: Deafening Silence
   weight: 0.0333
   avg_copies: 1.0
-- name: Ensnaring Bridge
+- name: Blood Moon
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Rakdos Charm
   weight: 0.0333
   avg_copies: 1.0
 - name: Snow-Covered Mountain
@@ -201,7 +201,7 @@ top_cards:
 - name: Erode
   weight: 0.0333
   avg_copies: 1.0
-- name: Rakdos Charm
+- name: Ensnaring Bridge
   weight: 0.0333
   avg_copies: 1.0
 - name: Rain of Gore

@@ -6,19 +6,19 @@ name: Blood Crypt
 scryfall_id: 6da63cc5-4624-4491-abd9-9b600c3fefe2
 set: ecl
 type: Land — Swamp Mountain
-meta_presence: 0.0867
+meta_presence: 0.0871
 archetypes:
   ruby-storm:
-    weight: 0.0195
+    weight: 0.019
     avg_copies: 1.0
   boros-energy:
     weight: 0.0017
     avg_copies: 1.0
   necrodominance:
-    weight: 0.027
+    weight: 0.0263
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.2593
+    weight: 0.2636
     avg_copies: 1.0
   reanimator:
     weight: 0.8889
@@ -105,7 +105,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-45:
-    weight: 0.1
+    weight: 0.0952
     avg_copies: 1.5
   unknown-54:
     weight: 0.6667

@@ -136,16 +136,16 @@ top_cards:
 - name: Pyroclasm
   weight: 0.0357
   avg_copies: 2.0
-- name: card:noxious-revival
-  weight: 0.0357
-  avg_copies: 2.0
 - name: Death's Shadow
   weight: 0.0357
   avg_copies: 2.0
-- name: Kaheera, the Orphanguard
+- name: card:noxious-revival
+  weight: 0.0357
+  avg_copies: 2.0
+- name: Meltdown
   weight: 0.0357
   avg_copies: 1.0
-- name: Mountain
+- name: Kaheera, the Orphanguard
   weight: 0.0357
   avg_copies: 1.0
 - name: Disruptor Flute
@@ -154,7 +154,7 @@ top_cards:
 - name: Chancellor of the Dross
   weight: 0.0357
   avg_copies: 1.0
-- name: Meltdown
+- name: Mountain
   weight: 0.0357
   avg_copies: 1.0
 ---

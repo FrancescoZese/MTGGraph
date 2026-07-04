@@ -9,10 +9,10 @@ type: Artifact Creature — Phyrexian Golem
 meta_presence: 0.0873
 archetypes:
   eldrazi-tron:
-    weight: 0.2949
+    weight: 0.2909
     avg_copies: 1.03
   amulet-titan:
-    weight: 0.1866
+    weight: 0.1838
     avg_copies: 2.24
   living-end:
     weight: 0.0172
@@ -48,7 +48,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 2.0
   goryo1:
-    weight: 0.0165
+    weight: 0.0161
     avg_copies: 1.0
   goryo4:
     weight: 0.5455
@@ -74,13 +74,19 @@ archetypes:
   unknown-88:
     weight: 0.1333
     avg_copies: 1.0
+  unknown-97:
+    weight: 0.1667
+    avg_copies: 2.0
   unknown-110:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.7333
+    weight: 0.6667
     avg_copies: 1.0
   unknown-173:
     weight: 1.0
     avg_copies: 3.0
+  unknown-176:
+    weight: 1.0
+    avg_copies: 1.0
 ---

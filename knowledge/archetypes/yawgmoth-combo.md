@@ -3,7 +3,7 @@ colors:
 - B
 - G
 name: Yawgmoth Combo
-meta_share: 0.0155
+meta_share: 0.0154
 list_count: 72
 top_cards:
 - name: Verdant Catacombs
@@ -15,10 +15,10 @@ top_cards:
 - name: Delighted Halfling
   weight: 1.0
   avg_copies: 3.89
-- name: Badgermole Cub
+- name: Young Wolf
   weight: 1.0
   avg_copies: 3.81
-- name: Young Wolf
+- name: Badgermole Cub
   weight: 1.0
   avg_copies: 3.81
 - name: Malevolent Rumble
@@ -57,16 +57,16 @@ top_cards:
 - name: Grist, the Hunger Tide
   weight: 1.0
   avg_copies: 1.13
-- name: Endurance
-  weight: 1.0
-  avg_copies: 1.04
 - name: Formidable Speaker
   weight: 1.0
   avg_copies: 1.04
-- name: Swamp
+- name: Endurance
+  weight: 1.0
+  avg_copies: 1.04
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
-- name: Dryad Arbor
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Force of Vigor
@@ -156,13 +156,13 @@ top_cards:
 - name: Witherbloom Charm
   weight: 0.0417
   avg_copies: 1.0
-- name: Assassin's Trophy
+- name: Cankerbloom
   weight: 0.0278
   avg_copies: 1.0
 - name: card:guerrilla-gorilla
   weight: 0.0278
   avg_copies: 1.0
-- name: Cankerbloom
+- name: Assassin's Trophy
   weight: 0.0278
   avg_copies: 1.0
 - name: card:wastewood-verge
@@ -171,10 +171,10 @@ top_cards:
 - name: Shifting Woodland
   weight: 0.0139
   avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Collector Ouphe
   weight: 0.0139
   avg_copies: 1.0
-- name: Creeping Corrosion
+- name: Nurturing Peatland
   weight: 0.0139
   avg_copies: 1.0
 - name: card:mole-man-moloid-master
@@ -186,13 +186,13 @@ top_cards:
 - name: Sylvan Safekeeper
   weight: 0.0139
   avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 0.0139
-  avg_copies: 1.0
-- name: Spore Frog
+- name: Creeping Corrosion
   weight: 0.0139
   avg_copies: 1.0
 - name: Surgical Extraction
+  weight: 0.0139
+  avg_copies: 1.0
+- name: Spore Frog
   weight: 0.0139
   avg_copies: 1.0
 ---

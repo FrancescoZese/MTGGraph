@@ -5,19 +5,7 @@ name: 'Unknown #86'
 meta_share: 0.0013
 list_count: 6
 top_cards:
-- name: Barbarian Ring
-  weight: 1.0
-  avg_copies: 4.0
-- name: Lava Spike
-  weight: 1.0
-  avg_copies: 4.0
 - name: Dragon's Rage Channeler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Cori-Steel Cutter
@@ -26,7 +14,19 @@ top_cards:
 - name: Monastery Swiftspear
   weight: 1.0
   avg_copies: 4.0
+- name: Lava Spike
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lightning Bolt
+  weight: 1.0
+  avg_copies: 4.0
 - name: Boltwave
+  weight: 1.0
+  avg_copies: 4.0
+- name: Barbarian Ring
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Skewer the Critics
@@ -53,10 +53,10 @@ top_cards:
 - name: Scalding Tarn
   weight: 0.8333
   avg_copies: 2.8
-- name: Arid Mesa
+- name: Meltdown
   weight: 0.8333
   avg_copies: 2.2
-- name: Meltdown
+- name: Arid Mesa
   weight: 0.8333
   avg_copies: 2.2
 - name: Snow-Covered Mountain
@@ -77,10 +77,10 @@ top_cards:
 - name: Sunbaked Canyon
   weight: 0.5
   avg_copies: 2.0
-- name: Deflecting Palm
+- name: Ragavan, Nimble Pilferer
   weight: 0.5
   avg_copies: 1.67
-- name: Ragavan, Nimble Pilferer
+- name: Deflecting Palm
   weight: 0.5
   avg_copies: 1.67
 - name: Orim's Chant
@@ -98,9 +98,6 @@ top_cards:
 - name: Goblin Guide
   weight: 0.3333
   avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 0.1667
-  avg_copies: 2.0
 - name: Boros Charm
   weight: 0.1667
   avg_copies: 2.0
@@ -110,13 +107,16 @@ top_cards:
 - name: Path to Exile
   weight: 0.1667
   avg_copies: 2.0
+- name: Vexing Bauble
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Engineered Explosives
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Sokenzan, Crucible of Defiance
   weight: 0.1667
   avg_copies: 1.0
 - name: Prismatic Ending
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Engineered Explosives
   weight: 0.1667
   avg_copies: 1.0
 ---

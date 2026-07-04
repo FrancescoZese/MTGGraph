@@ -13,13 +13,13 @@ archetypes:
     weight: 0.9506
     avg_copies: 1.79
   necrodominance:
-    weight: 0.027
+    weight: 0.0263
     avg_copies: 1.0
   simic-ritual:
     weight: 0.013
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0116
+    weight: 0.0114
     avg_copies: 1.0
   rakdos-aggro:
     weight: 0.1765
@@ -52,7 +52,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-45:
-    weight: 0.1
+    weight: 0.0952
     avg_copies: 1.0
   unknown-47:
     weight: 0.7869

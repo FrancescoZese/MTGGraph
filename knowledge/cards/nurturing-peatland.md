@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.009
 archetypes:
   necrodominance:
-    weight: 0.027
+    weight: 0.0263
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 0.0139

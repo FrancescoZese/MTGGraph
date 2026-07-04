@@ -6,28 +6,28 @@ name: 'Unknown #101'
 meta_share: 0.0009
 list_count: 4
 top_cards:
-- name: Nethergoyf
-  weight: 1.0
-  avg_copies: 4.0
 - name: Faithless Looting
-  weight: 1.0
-  avg_copies: 4.0
-- name: Hollow One
-  weight: 1.0
-  avg_copies: 4.0
-- name: Detective's Phoenix
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
+- name: Hollow One
+  weight: 1.0
+  avg_copies: 4.0
+- name: Nethergoyf
+  weight: 1.0
+  avg_copies: 4.0
+- name: Detective's Phoenix
+  weight: 1.0
+  avg_copies: 4.0
+- name: Meltdown
+  weight: 1.0
+  avg_copies: 3.0
 - name: Arena of Glory
   weight: 1.0
   avg_copies: 3.0
 - name: Blood Crypt
-  weight: 1.0
-  avg_copies: 3.0
-- name: Meltdown
   weight: 1.0
   avg_copies: 3.0
 - name: Mountain
@@ -48,10 +48,10 @@ top_cards:
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.25
-- name: Leyline of the Void
+- name: Marauding Mako
   weight: 0.75
   avg_copies: 4.0
-- name: Marauding Mako
+- name: Leyline of the Void
   weight: 0.75
   avg_copies: 4.0
 - name: Burning Inquiry
@@ -60,13 +60,13 @@ top_cards:
 - name: Damping Sphere
   weight: 0.75
   avg_copies: 3.67
-- name: Vexing Bauble
-  weight: 0.75
-  avg_copies: 2.67
 - name: Dragon's Rage Channeler
   weight: 0.75
   avg_copies: 2.67
 - name: Lightning Bolt
+  weight: 0.75
+  avg_copies: 2.67
+- name: Vexing Bauble
   weight: 0.75
   avg_copies: 2.67
 - name: Arid Mesa
@@ -90,16 +90,16 @@ top_cards:
 - name: Pyroclasm
   weight: 0.5
   avg_copies: 1.5
-- name: Thoughtseize
-  weight: 0.25
-  avg_copies: 4.0
 - name: Mishra's Bauble
   weight: 0.25
   avg_copies: 4.0
-- name: Surgical Extraction
+- name: Thoughtseize
+  weight: 0.25
+  avg_copies: 4.0
+- name: Kroxa, Titan of Death's Hunger
   weight: 0.25
   avg_copies: 3.0
-- name: Kroxa, Titan of Death's Hunger
+- name: Surgical Extraction
   weight: 0.25
   avg_copies: 3.0
 - name: Obsidian Charmaw
@@ -108,13 +108,13 @@ top_cards:
 - name: Wear
   weight: 0.25
   avg_copies: 2.0
-- name: Swamp
-  weight: 0.25
-  avg_copies: 1.0
 - name: Sheoldred's Edict
   weight: 0.25
   avg_copies: 1.0
 - name: Sacred Foundry
+  weight: 0.25
+  avg_copies: 1.0
+- name: Swamp
   weight: 0.25
   avg_copies: 1.0
 - name: Seal of Fire

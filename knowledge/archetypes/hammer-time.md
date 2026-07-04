@@ -6,19 +6,19 @@ name: Hammer Time
 meta_share: 0.0019
 list_count: 9
 top_cards:
-- name: Colossus Hammer
+- name: Stoneforge Mystic
   weight: 1.0
   avg_copies: 4.0
-- name: Stoneforge Mystic
+- name: Colossus Hammer
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 3.89
-- name: Leyline Axe
+- name: Battlefield Improvisation
   weight: 1.0
   avg_copies: 3.78
-- name: Battlefield Improvisation
+- name: Leyline Axe
   weight: 1.0
   avg_copies: 3.78
 - name: Puresteel Paladin
@@ -84,10 +84,10 @@ top_cards:
 - name: Sanctifier en-Vec
   weight: 0.4444
   avg_copies: 2.75
-- name: Teferi, Time Raveler
+- name: Portable Hole
   weight: 0.4444
   avg_copies: 2.0
-- name: Portable Hole
+- name: Teferi, Time Raveler
   weight: 0.4444
   avg_copies: 2.0
 - name: Kappa Cannoneer
@@ -96,19 +96,19 @@ top_cards:
 - name: Cryptic Coat
   weight: 0.4444
   avg_copies: 1.0
-- name: Stern Scolding
+- name: Pithing Needle
   weight: 0.4444
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Stern Scolding
   weight: 0.4444
   avg_copies: 1.0
 - name: Windswept Heath
   weight: 0.3333
   avg_copies: 4.0
-- name: Suncleanser
+- name: Damping Sphere
   weight: 0.3333
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Suncleanser
   weight: 0.3333
   avg_copies: 2.0
 - name: Springleaf Drum
@@ -132,10 +132,10 @@ top_cards:
 - name: Voice of Victory
   weight: 0.2222
   avg_copies: 1.0
-- name: Mishra's Bauble
+- name: Flare of Fortitude
   weight: 0.1111
   avg_copies: 4.0
-- name: Flare of Fortitude
+- name: Mishra's Bauble
   weight: 0.1111
   avg_copies: 4.0
 - name: Containment Priest
@@ -144,10 +144,10 @@ top_cards:
 - name: Skateboard
   weight: 0.1111
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Prismatic Ending
   weight: 0.1111
   avg_copies: 1.0
-- name: Prismatic Ending
+- name: Soul-Guide Lantern
   weight: 0.1111
   avg_copies: 1.0
 ---

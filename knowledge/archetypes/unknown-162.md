@@ -14,6 +14,9 @@ top_cards:
 - name: Inquisition of Kozilek
   weight: 1.0
   avg_copies: 4.0
+- name: Karn, the Great Creator
+  weight: 1.0
+  avg_copies: 4.0
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
@@ -26,37 +29,34 @@ top_cards:
 - name: Cabal Coffers
   weight: 1.0
   avg_copies: 4.0
-- name: Karn, the Great Creator
-  weight: 1.0
-  avg_copies: 4.0
-- name: Relic of Progenitus
-  weight: 1.0
-  avg_copies: 3.0
 - name: Field of Ruin
   weight: 1.0
   avg_copies: 3.0
-- name: Demolition Field
+- name: Relic of Progenitus
   weight: 1.0
-  avg_copies: 2.0
-- name: Profane Tutor
-  weight: 1.0
-  avg_copies: 2.0
-- name: Mazemind Tome
-  weight: 1.0
-  avg_copies: 2.0
-- name: Sheoldred, the Apocalypse
-  weight: 1.0
-  avg_copies: 2.0
-- name: Cling to Dust
+  avg_copies: 3.0
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 2.0
 - name: Sheoldred's Edict
   weight: 1.0
   avg_copies: 2.0
+- name: Cling to Dust
+  weight: 1.0
+  avg_copies: 2.0
 - name: Engineered Explosives
   weight: 1.0
   avg_copies: 2.0
-- name: Verdant Catacombs
+- name: Profane Tutor
+  weight: 1.0
+  avg_copies: 2.0
+- name: Sheoldred, the Apocalypse
+  weight: 1.0
+  avg_copies: 2.0
+- name: Mazemind Tome
+  weight: 1.0
+  avg_copies: 2.0
+- name: Demolition Field
   weight: 1.0
   avg_copies: 2.0
 - name: Damnation
@@ -65,31 +65,31 @@ top_cards:
 - name: Sundering Titan
   weight: 1.0
   avg_copies: 1.0
+- name: Break the Ice
+  weight: 1.0
+  avg_copies: 1.0
+- name: Tormod's Crypt
+  weight: 1.0
+  avg_copies: 1.0
+- name: Damping Sphere
+  weight: 1.0
+  avg_copies: 1.0
 - name: Elixir of Immortality
   weight: 1.0
   avg_copies: 1.0
 - name: Liquimetal Coating
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowy Backstreet
+- name: Walking Ballista
   weight: 1.0
   avg_copies: 1.0
 - name: card:thought-distortion
   weight: 1.0
   avg_copies: 1.0
-- name: Ensnaring Bridge
-  weight: 1.0
-  avg_copies: 1.0
-- name: Walking Ballista
-  weight: 1.0
-  avg_copies: 1.0
-- name: Break the Ice
-  weight: 1.0
-  avg_copies: 1.0
 - name: The Stone Brain
   weight: 1.0
   avg_copies: 1.0
-- name: Damping Sphere
+- name: Ensnaring Bridge
   weight: 1.0
   avg_copies: 1.0
 - name: Oblivion Stone
@@ -98,7 +98,7 @@ top_cards:
 - name: Cityscape Leveler
   weight: 1.0
   avg_copies: 1.0
-- name: Tormod's Crypt
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 ---

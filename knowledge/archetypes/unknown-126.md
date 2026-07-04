@@ -7,19 +7,19 @@ name: 'Unknown #126'
 meta_share: 0.0032
 list_count: 15
 top_cards:
-- name: Badgermole Cub
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
 - name: Nature's Rhythm
   weight: 1.0
   avg_copies: 4.0
-- name: Verdant Catacombs
+- name: Badgermole Cub
   weight: 1.0
   avg_copies: 4.0
-- name: Tyvar, Jubilant Brawler
+- name: Devoted Druid
   weight: 1.0
   avg_copies: 3.93
-- name: Devoted Druid
+- name: Tyvar, Jubilant Brawler
   weight: 1.0
   avg_copies: 3.93
 - name: Green Sun's Zenith
@@ -55,61 +55,61 @@ top_cards:
 - name: Endurance
   weight: 1.0
   avg_copies: 1.07
-- name: Temple Garden
-  weight: 1.0
-  avg_copies: 1.0
-- name: Suncleanser
-  weight: 1.0
-  avg_copies: 1.0
-- name: Misty Rainforest
-  weight: 1.0
-  avg_copies: 1.0
-- name: Underground Mortuary
-  weight: 1.0
-  avg_copies: 1.0
-- name: Lush Portico
-  weight: 1.0
-  avg_copies: 1.0
-- name: Keen-Eyed Curator
-  weight: 1.0
-  avg_copies: 1.0
 - name: card:birds-of-paradise
   weight: 1.0
   avg_copies: 1.0
-- name: Grist, the Hunger Tide
-  weight: 1.0
-  avg_copies: 1.0
-- name: Eternal Witness
-  weight: 1.0
-  avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 1.0
-  avg_copies: 1.0
-- name: Overgrown Tomb
-  weight: 1.0
-  avg_copies: 1.0
-- name: card:ethersworn-canonist
-  weight: 1.0
-  avg_copies: 1.0
-- name: Godless Shrine
-  weight: 1.0
-  avg_copies: 1.0
-- name: Walking Ballista
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
+- name: Misty Rainforest
+  weight: 1.0
+  avg_copies: 1.0
+- name: Suncleanser
+  weight: 1.0
+  avg_copies: 1.0
+- name: card:ethersworn-canonist
+  weight: 1.0
+  avg_copies: 1.0
+- name: Underground Mortuary
+  weight: 1.0
+  avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 1.0
+  avg_copies: 1.0
+- name: Walking Ballista
+  weight: 1.0
+  avg_copies: 1.0
+- name: Eternal Witness
+  weight: 1.0
+  avg_copies: 1.0
+- name: Grist, the Hunger Tide
+  weight: 1.0
+  avg_copies: 1.0
+- name: Godless Shrine
+  weight: 1.0
+  avg_copies: 1.0
 - name: Duskwatch Recruiter
   weight: 1.0
   avg_copies: 1.0
-- name: Sylvan Safekeeper
-  weight: 0.9333
+- name: Keen-Eyed Curator
+  weight: 1.0
+  avg_copies: 1.0
+- name: Lush Portico
+  weight: 1.0
+  avg_copies: 1.0
+- name: Overgrown Tomb
+  weight: 1.0
   avg_copies: 1.0
 - name: Ouroboroid
   weight: 0.9333
   avg_copies: 1.0
 - name: Damping Sphere
+  weight: 0.9333
+  avg_copies: 1.0
+- name: Sylvan Safekeeper
   weight: 0.9333
   avg_copies: 1.0
 - name: Snow-Covered Forest

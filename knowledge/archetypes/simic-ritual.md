@@ -3,7 +3,7 @@ colors:
 - U
 - G
 name: Simic Ritual
-meta_share: 0.0166
+meta_share: 0.0164
 list_count: 77
 top_cards:
 - name: Flare of Denial
@@ -159,22 +159,22 @@ top_cards:
 - name: Spell Snare
   weight: 0.039
   avg_copies: 1.67
-- name: Stomping Ground
-  weight: 0.039
-  avg_copies: 1.0
 - name: Grist, the Hunger Tide
-  weight: 0.039
-  avg_copies: 1.0
-- name: Thundering Falls
   weight: 0.039
   avg_copies: 1.0
 - name: Scalding Tarn
   weight: 0.039
   avg_copies: 1.0
+- name: Ephara's Dispersal
+  weight: 0.039
+  avg_copies: 1.0
 - name: Kaito, Bane of Nightmares
   weight: 0.039
   avg_copies: 1.0
-- name: Ephara's Dispersal
+- name: Stomping Ground
+  weight: 0.039
+  avg_copies: 1.0
+- name: Thundering Falls
   weight: 0.039
   avg_copies: 1.0
 - name: Psychic Frog
@@ -186,31 +186,22 @@ top_cards:
 - name: Quantum Riddler
   weight: 0.026
   avg_copies: 2.0
-- name: Pendelhaven
+- name: Swamp
   weight: 0.026
   avg_copies: 1.0
-- name: Swamp
+- name: Pendelhaven
   weight: 0.026
   avg_copies: 1.0
 - name: Brazen Borrower
   weight: 0.026
   avg_copies: 1.0
-- name: Thoughtseize
-  weight: 0.013
-  avg_copies: 4.0
-- name: Phyrexian Tower
-  weight: 0.013
-  avg_copies: 4.0
-- name: Warren Soultrader
-  weight: 0.013
-  avg_copies: 4.0
 - name: Shambling Ghast
   weight: 0.013
   avg_copies: 4.0
-- name: Phoenix Fleet Airship
+- name: Marsh Flats
   weight: 0.013
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Phyrexian Tower
   weight: 0.013
   avg_copies: 4.0
 - name: Malevolent Rumble
@@ -219,10 +210,19 @@ top_cards:
 - name: Gravecrawler
   weight: 0.013
   avg_copies: 4.0
-- name: Pyroclasm
+- name: Phoenix Fleet Airship
+  weight: 0.013
+  avg_copies: 4.0
+- name: Warren Soultrader
+  weight: 0.013
+  avg_copies: 4.0
+- name: Thoughtseize
+  weight: 0.013
+  avg_copies: 4.0
+- name: Boom
   weight: 0.013
   avg_copies: 3.0
-- name: Boom
+- name: Rough
   weight: 0.013
   avg_copies: 3.0
 - name: Marionette Apprentice
@@ -231,34 +231,43 @@ top_cards:
 - name: Flare of Malice
   weight: 0.013
   avg_copies: 3.0
-- name: Rough
+- name: Pyroclasm
   weight: 0.013
   avg_copies: 3.0
-- name: Forest
+- name: Graveyard Trespasser
   weight: 0.013
   avg_copies: 2.0
 - name: Fire
   weight: 0.013
   avg_copies: 2.0
-- name: Graveyard Trespasser
-  weight: 0.013
-  avg_copies: 2.0
-- name: Vexing Bauble
+- name: Forest
   weight: 0.013
   avg_copies: 2.0
 - name: Island
   weight: 0.013
   avg_copies: 2.0
+- name: Vexing Bauble
+  weight: 0.013
+  avg_copies: 2.0
+- name: Ouroboroid
+  weight: 0.013
+  avg_copies: 1.0
 - name: Firespout
   weight: 0.013
   avg_copies: 1.0
+- name: Boggart Trawler
+  weight: 0.013
+  avg_copies: 1.0
+- name: Mistrise Village
+  weight: 0.013
+  avg_copies: 1.0
+- name: Nurturing Peatland
+  weight: 0.013
+  avg_copies: 1.0
+- name: Willowrush Verge
+  weight: 0.013
+  avg_copies: 1.0
 - name: Bloodstained Mire
-  weight: 0.013
-  avg_copies: 1.0
-- name: Sephiroth, Fabled SOLDIER
-  weight: 0.013
-  avg_copies: 1.0
-- name: Chthonian Nightmare
   weight: 0.013
   avg_copies: 1.0
 - name: Break the Ice
@@ -267,49 +276,37 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.013
   avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.013
-  avg_copies: 1.0
-- name: Mistrise Village
-  weight: 0.013
-  avg_copies: 1.0
-- name: Spymaster's Vault
-  weight: 0.013
-  avg_copies: 1.0
-- name: Ouroboroid
-  weight: 0.013
-  avg_copies: 1.0
-- name: Willowrush Verge
+- name: Chthonian Nightmare
   weight: 0.013
   avg_copies: 1.0
 - name: Shatter Assumptions
   weight: 0.013
   avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Soul Shatter
   weight: 0.013
   avg_copies: 1.0
 - name: Pond Prophet
   weight: 0.013
   avg_copies: 1.0
-- name: Overlord of the Balemurk
-  weight: 0.013
-  avg_copies: 1.0
 - name: Urborg, Tomb of Yawgmoth
   weight: 0.013
   avg_copies: 1.0
-- name: Cling to Dust
+- name: Hurkyl's Recall
   weight: 0.013
   avg_copies: 1.0
-- name: Reclamation Sage
+- name: Sephiroth, Fabled SOLDIER
   weight: 0.013
   avg_copies: 1.0
-- name: Boggart Trawler
+- name: Dress Down
   weight: 0.013
   avg_copies: 1.0
 - name: Pick Your Poison
   weight: 0.013
   avg_copies: 1.0
-- name: Hurkyl's Recall
+- name: Reclamation Sage
+  weight: 0.013
+  avg_copies: 1.0
+- name: Cling to Dust
   weight: 0.013
   avg_copies: 1.0
 - name: Ashiok, Dream Render
@@ -318,10 +315,13 @@ top_cards:
 - name: Dead
   weight: 0.013
   avg_copies: 1.0
-- name: Soul Shatter
+- name: Overlord of the Balemurk
   weight: 0.013
   avg_copies: 1.0
-- name: Dress Down
+- name: Spymaster's Vault
+  weight: 0.013
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
   weight: 0.013
   avg_copies: 1.0
 ---

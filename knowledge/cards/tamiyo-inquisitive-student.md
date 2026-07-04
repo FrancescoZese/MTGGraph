@@ -12,8 +12,8 @@ archetypes:
     weight: 0.4691
     avg_copies: 2.24
   mono-blue-belcher:
-    weight: 0.2029
-    avg_copies: 1.75
+    weight: 0.2254
+    avg_copies: 1.77
   jeskai-energy:
     weight: 0.0385
     avg_copies: 1.4
@@ -51,7 +51,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.0083
+    weight: 0.0081
     avg_copies: 2.0
   grixis-control:
     weight: 1.0
@@ -81,7 +81,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-27:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 1.0
   unknown-43:
     weight: 1.0
@@ -99,7 +99,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-62:
-    weight: 0.0833
+    weight: 0.08
     avg_copies: 1.0
   unknown-63:
     weight: 1.0
