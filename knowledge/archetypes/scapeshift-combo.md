@@ -2,7 +2,7 @@
 colors:
 - G
 name: Scapeshift Combo
-meta_share: 0.0013
+meta_share: 0.0012
 list_count: 6
 top_cards:
 - name: Green Sun's Zenith
@@ -41,10 +41,10 @@ top_cards:
 - name: Vibrance
   weight: 0.5
   avg_copies: 4.0
-- name: Ouroboroid
+- name: Eldrazi Temple
   weight: 0.5
   avg_copies: 4.0
-- name: Eldrazi Temple
+- name: Prismatic Vista
   weight: 0.5
   avg_copies: 4.0
 - name: Hashep Oasis
@@ -53,31 +53,31 @@ top_cards:
 - name: Delighted Halfling
   weight: 0.5
   avg_copies: 4.0
-- name: Thought-Knot Seer
-  weight: 0.5
-  avg_copies: 4.0
-- name: Springheart Nantuko
+- name: Dryad of the Ilysian Grove
   weight: 0.5
   avg_copies: 4.0
 - name: Sowing Mycospawn
   weight: 0.5
   avg_copies: 4.0
-- name: Wooded Foothills
-  weight: 0.5
-  avg_copies: 4.0
-- name: Dryad of the Ilysian Grove
-  weight: 0.5
-  avg_copies: 4.0
-- name: Prismatic Vista
-  weight: 0.5
-  avg_copies: 4.0
-- name: Kozilek's Command
+- name: Ouroboroid
   weight: 0.5
   avg_copies: 4.0
 - name: Valakut, the Molten Pinnacle
   weight: 0.5
   avg_copies: 4.0
+- name: Thought-Knot Seer
+  weight: 0.5
+  avg_copies: 4.0
 - name: Badgermole Cub
+  weight: 0.5
+  avg_copies: 4.0
+- name: Wooded Foothills
+  weight: 0.5
+  avg_copies: 4.0
+- name: Springheart Nantuko
+  weight: 0.5
+  avg_copies: 4.0
+- name: Kozilek's Command
   weight: 0.5
   avg_copies: 4.0
 - name: Misty Rainforest
@@ -89,100 +89,97 @@ top_cards:
 - name: Wrenn and Six
   weight: 0.5
   avg_copies: 3.0
-- name: Trinisphere
-  weight: 0.5
-  avg_copies: 3.0
 - name: Commercial District
   weight: 0.5
   avg_copies: 3.0
-- name: Stomping Ground
+- name: Trinisphere
+  weight: 0.5
+  avg_copies: 3.0
+- name: Creeping Corrosion
   weight: 0.5
   avg_copies: 2.0
-- name: Creeping Corrosion
+- name: Stomping Ground
   weight: 0.5
   avg_copies: 2.0
 - name: Mountain
   weight: 0.5
   avg_copies: 1.67
-- name: Wastes
-  weight: 0.5
-  avg_copies: 1.0
-- name: Endurance
-  weight: 0.5
-  avg_copies: 1.0
-- name: Tajuru Preserver
+- name: Blast Zone
   weight: 0.5
   avg_copies: 1.0
 - name: Chomping Changeling
   weight: 0.5
   avg_copies: 1.0
-- name: Blast Zone
+- name: Wastes
+  weight: 0.5
+  avg_copies: 1.0
+- name: Tajuru Preserver
+  weight: 0.5
+  avg_copies: 1.0
+- name: Endurance
   weight: 0.5
   avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.3333
   avg_copies: 4.0
-- name: Pyroclasm
-  weight: 0.3333
-  avg_copies: 3.0
 - name: Lightning Bolt
   weight: 0.3333
   avg_copies: 3.0
 - name: Fade from History
   weight: 0.3333
   avg_copies: 3.0
-- name: Scalding Tarn
+- name: Pyroclasm
   weight: 0.3333
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Prismatic Omen
   weight: 0.3333
   avg_copies: 2.0
-- name: Six
+- name: Scalding Tarn
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Surgical Extraction
   weight: 0.3333
   avg_copies: 1.0
-- name: Fuel the Flames
+- name: Six
   weight: 0.3333
   avg_copies: 1.0
 - name: Bojuka Bog
   weight: 0.3333
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Fuel the Flames
   weight: 0.3333
   avg_copies: 1.0
-- name: Fire Magic
-  weight: 0.1667
-  avg_copies: 4.0
 - name: Orim's Chant
   weight: 0.1667
   avg_copies: 4.0
-- name: Arid Mesa
+- name: Fire Magic
+  weight: 0.1667
+  avg_copies: 4.0
+- name: Farseek
   weight: 0.1667
   avg_copies: 3.0
-- name: Farseek
+- name: Arid Mesa
   weight: 0.1667
   avg_copies: 3.0
 - name: Bring to Light
   weight: 0.1667
   avg_copies: 3.0
-- name: Meltdown
+- name: Celestial Purge
   weight: 0.1667
   avg_copies: 2.0
-- name: Celestial Purge
+- name: Meltdown
   weight: 0.1667
   avg_copies: 2.0
 - name: Scapeshift
   weight: 0.1667
   avg_copies: 2.0
-- name: Sacred Foundry
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Dwarven Mine
   weight: 0.1667
   avg_copies: 1.0
-- name: Sakura-Tribe Elder
+- name: Sacred Foundry
   weight: 0.1667
   avg_copies: 1.0
-- name: Keen-Eyed Curator
+- name: Insidious Fungus
   weight: 0.1667
   avg_copies: 1.0
 - name: Jetmir's Garden
@@ -191,7 +188,10 @@ top_cards:
 - name: Thundering Falls
   weight: 0.1667
   avg_copies: 1.0
-- name: Insidious Fungus
+- name: Sakura-Tribe Elder
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Keen-Eyed Curator
   weight: 0.1667
   avg_copies: 1.0
 ---

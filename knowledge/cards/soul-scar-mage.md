@@ -7,9 +7,12 @@ name: Soul-Scar Mage
 scryfall_id: a8003786-6e2a-4e2d-a915-f23293c7273a
 set: akh
 type: Creature — Human Wizard
-meta_presence: 0.0002
+meta_presence: 0.0004
 archetypes:
   unknown-81:
     weight: 1.0
     avg_copies: 2.0
+  unknown-174:
+    weight: 0.5
+    avg_copies: 4.0
 ---

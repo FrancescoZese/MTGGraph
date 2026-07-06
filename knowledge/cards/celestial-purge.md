@@ -7,43 +7,43 @@ name: Celestial Purge
 scryfall_id: cd38afd4-d7a4-493d-bdea-72be9a1d9a07
 set: mm2
 type: Instant
-meta_presence: 0.1663
+meta_presence: 0.1654
 archetypes:
   boros-energy:
-    weight: 0.6841
-    avg_copies: 1.41
+    weight: 0.6818
+    avg_copies: 1.4
   dimir-control:
     weight: 0.0741
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.5
+    weight: 0.4962
     avg_copies: 1.17
   eldrazi-tron:
-    weight: 0.0045
+    weight: 0.0043
     avg_copies: 1.0
   goryo:
-    weight: 0.3213
+    weight: 0.3144
     avg_copies: 1.07
   azorius-control:
-    weight: 0.4426
-    avg_copies: 1.37
+    weight: 0.4545
+    avg_copies: 1.33
   jeskai-control:
-    weight: 0.8919
-    avg_copies: 1.42
+    weight: 0.8947
+    avg_copies: 1.41
   domain-zoo:
-    weight: 0.1273
+    weight: 0.125
     avg_copies: 1.0
   boros-ponza:
     weight: 0.6763
     avg_copies: 1.75
   izzet-prowess:
-    weight: 0.0086
+    weight: 0.0083
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0341
+    weight: 0.033
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.1154
+    weight: 0.1091
     avg_copies: 1.17
   esper-midrange:
     weight: 1.0
@@ -74,12 +74,12 @@ archetypes:
     avg_copies: 2.0
   unknown-22:
     weight: 1.0
-    avg_copies: 1.5
+    avg_copies: 1.33
   unknown-26:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0164
+    weight: 0.0154
     avg_copies: 1.0
   unknown-56:
     weight: 1.0
@@ -91,14 +91,14 @@ archetypes:
     weight: 0.1935
     avg_copies: 1.0
   unknown-70:
-    weight: 0.5714
+    weight: 0.4
     avg_copies: 1.25
   unknown-99:
     weight: 1.0
     avg_copies: 1.0
   unknown-106:
-    weight: 0.8889
-    avg_copies: 1.12
+    weight: 0.9
+    avg_copies: 1.11
   unknown-109:
     weight: 0.6667
     avg_copies: 2.0
@@ -109,8 +109,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0556
-    avg_copies: 1.0
+    weight: 0.1786
+    avg_copies: 1.4
   unknown-166:
     weight: 1.0
     avg_copies: 1.0

@@ -6,11 +6,11 @@ name: Dalkovan Encampment
 scryfall_id: 98ad5f0c-8775-4e89-8e92-84a6ade93e35
 set: tdm
 type: Land
-meta_presence: 0.0752
+meta_presence: 0.0773
 archetypes:
   boros-energy:
-    weight: 0.5591
-    avg_copies: 1.22
+    weight: 0.5763
+    avg_copies: 1.23
   unknown-68:
     weight: 0.6774
     avg_copies: 1.43

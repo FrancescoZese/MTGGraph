@@ -6,28 +6,28 @@ name: Mountain
 scryfall_id: a642c7b1-d4d1-4125-a66d-560438e5ee51
 set: sos
 type: Basic Land — Mountain
-meta_presence: 0.3679
+meta_presence: 0.37
 archetypes:
   ruby-storm:
     weight: 1.0
-    avg_copies: 2.96
+    avg_copies: 3.01
   boros-energy:
-    weight: 0.8412
+    weight: 0.8474
     avg_copies: 1.0
   mono-blue-belcher:
-    weight: 0.1972
+    weight: 0.2133
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.7923
+    weight: 0.7939
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.1892
+    weight: 0.1842
     avg_copies: 1.0
   affinity:
-    weight: 0.0119
+    weight: 0.0115
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.9636
+    weight: 0.9643
     avg_copies: 1.0
   reanimator:
     weight: 0.1111
@@ -48,8 +48,8 @@ archetypes:
     weight: 0.9856
     avg_copies: 1.25
   izzet-prowess:
-    weight: 0.9914
-    avg_copies: 2.33
+    weight: 0.9917
+    avg_copies: 2.36
   indomitable-creativity:
     weight: 1.0
     avg_copies: 1.07
@@ -78,7 +78,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.0357
+    weight: 0.0323
     avg_copies: 1.0
   scapeshift-combo:
     weight: 0.5
@@ -93,13 +93,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo1:
-    weight: 0.0081
+    weight: 0.0076
     avg_copies: 1.0
   goryo4:
     weight: 0.9091
     avg_copies: 1.1
   grixis-control:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 1.0
   izzet-murktide:
     weight: 1.0
@@ -145,7 +145,7 @@ archetypes:
     avg_copies: 1.0
   unknown-26:
     weight: 1.0
-    avg_copies: 1.89
+    avg_copies: 1.9
   unknown-27:
     weight: 1.0
     avg_copies: 1.0
@@ -183,13 +183,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.0526
+    weight: 0.0667
     avg_copies: 1.0
   unknown-68:
     weight: 0.9032
     avg_copies: 1.04
   unknown-70:
-    weight: 0.8571
+    weight: 0.9
     avg_copies: 1.0
   unknown-71:
     weight: 1.0
@@ -203,18 +203,21 @@ archetypes:
   unknown-81:
     weight: 1.0
     avg_copies: 9.0
+  unknown-82:
+    weight: 0.6667
+    avg_copies: 1.0
   unknown-85:
     weight: 0.8
     avg_copies: 1.0
   unknown-86:
-    weight: 0.5
-    avg_copies: 3.33
+    weight: 0.5714
+    avg_copies: 4.0
   unknown-92:
     weight: 1.0
     avg_copies: 10.0
   unknown-96:
     weight: 1.0
-    avg_copies: 1.73
+    avg_copies: 1.67
   unknown-98:
     weight: 1.0
     avg_copies: 3.38
@@ -244,7 +247,7 @@ archetypes:
     avg_copies: 1.0
   unknown-122:
     weight: 1.0
-    avg_copies: 1.78
+    avg_copies: 1.8
   unknown-123:
     weight: 1.0
     avg_copies: 2.0
@@ -283,7 +286,7 @@ archetypes:
     avg_copies: 1.0
   unknown-160:
     weight: 1.0
-    avg_copies: 1.67
+    avg_copies: 1.68
   unknown-161:
     weight: 1.0
     avg_copies: 2.0
@@ -293,4 +296,10 @@ archetypes:
   unknown-174:
     weight: 1.0
     avg_copies: 5.0
+  unknown-177:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-178:
+    weight: 1.0
+    avg_copies: 1.0
 ---

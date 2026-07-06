@@ -9,8 +9,8 @@ type: Land — Island Mountain
 meta_presence: 0.1999
 archetypes:
   ruby-storm:
-    weight: 0.2215
-    avg_copies: 1.17
+    weight: 0.2262
+    avg_copies: 1.18
   dimir-control:
     weight: 0.037
     avg_copies: 1.0
@@ -18,31 +18,31 @@ archetypes:
     weight: 1.0
     avg_copies: 1.02
   azorius-control:
-    weight: 0.6885
+    weight: 0.7121
     avg_copies: 1.0
   living-end:
-    weight: 0.0172
+    weight: 0.0167
     avg_copies: 1.0
   jeskai-control:
     weight: 1.0
     avg_copies: 1.0
   affinity:
-    weight: 0.0523
+    weight: 0.0508
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.9545
+    weight: 0.9554
     avg_copies: 1.0
   reanimator:
     weight: 0.0741
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0175
+    weight: 0.0169
     avg_copies: 1.0
   simic-ritual:
     weight: 0.039
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.9784
+    weight: 0.9793
     avg_copies: 1.0
   4c-omnath:
     weight: 0.5
@@ -69,7 +69,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   goryo1:
-    weight: 0.4758
+    weight: 0.4848
     avg_copies: 1.0
   grixis-control:
     weight: 1.0
@@ -87,7 +87,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-6:
-    weight: 0.75
+    weight: 0.6
     avg_copies: 1.0
   unknown-10:
     weight: 1.0
@@ -106,7 +106,7 @@ archetypes:
     avg_copies: 1.0
   unknown-22:
     weight: 1.0
-    avg_copies: 1.5
+    avg_copies: 1.33
   unknown-25:
     weight: 1.0
     avg_copies: 1.0
@@ -119,6 +119,9 @@ archetypes:
   unknown-35:
     weight: 1.0
     avg_copies: 2.0
+  unknown-47:
+    weight: 0.0154
+    avg_copies: 1.0
   unknown-53:
     weight: 1.0
     avg_copies: 1.0
@@ -135,10 +138,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.9825
+    weight: 0.9833
     avg_copies: 1.0
   unknown-70:
-    weight: 0.4286
+    weight: 0.3
     avg_copies: 1.0
   unknown-79:
     weight: 1.0
@@ -174,7 +177,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-106:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 1.0
   unknown-109:
     weight: 0.7778

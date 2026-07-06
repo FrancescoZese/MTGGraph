@@ -3,7 +3,7 @@ colors:
 - R
 - G
 name: 'Unknown #23'
-meta_share: 0.0013
+meta_share: 0.0012
 list_count: 6
 top_cards:
 - name: Vibrance
@@ -105,10 +105,10 @@ top_cards:
 - name: Erode
   weight: 0.3333
   avg_copies: 1.75
-- name: Sacred Foundry
+- name: Elegant Parlor
   weight: 0.3333
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Sacred Foundry
   weight: 0.3333
   avg_copies: 1.0
 - name: Jetmir's Garden
@@ -117,19 +117,19 @@ top_cards:
 - name: Scapeshift
   weight: 0.1667
   avg_copies: 3.0
-- name: High Noon
-  weight: 0.1667
-  avg_copies: 2.0
-- name: Ghost Vacuum
-  weight: 0.1667
-  avg_copies: 2.0
-- name: Fire Magic
+- name: Orim's Chant
   weight: 0.1667
   avg_copies: 2.0
 - name: Disruptor Flute
   weight: 0.1667
   avg_copies: 2.0
-- name: Orim's Chant
+- name: Fire Magic
+  weight: 0.1667
+  avg_copies: 2.0
+- name: High Noon
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Ghost Vacuum
   weight: 0.1667
   avg_copies: 2.0
 - name: Dwarven Mine

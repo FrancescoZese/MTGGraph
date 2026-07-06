@@ -7,21 +7,21 @@ name: Harvester of Misery
 scryfall_id: a3012af9-621d-4fae-b00d-079a89ae35fe
 set: big
 type: Creature — Spirit
-meta_presence: 0.0122
+meta_presence: 0.0121
 archetypes:
   living-end:
-    weight: 0.6034
+    weight: 0.6
     avg_copies: 1.06
   reanimator:
     weight: 0.037
     avg_copies: 1.0
   goryo1:
-    weight: 0.1532
+    weight: 0.1439
     avg_copies: 1.0
   unknown-45:
-    weight: 0.0476
+    weight: 0.0909
     avg_copies: 1.0
   unknown-67:
-    weight: 0.0175
+    weight: 0.0167
     avg_copies: 1.0
 ---

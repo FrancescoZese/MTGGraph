@@ -6,19 +6,19 @@ name: Nulldrifter
 scryfall_id: 4d9f1bb8-c91b-40cd-a416-abbff0d65306
 set: mh3
 type: Creature — Eldrazi Elemental
-meta_presence: 0.006
+meta_presence: 0.0058
 archetypes:
   jeskai-control:
-    weight: 0.027
+    weight: 0.0263
     avg_copies: 3.0
   domain-zoo:
-    weight: 0.0091
+    weight: 0.0089
     avg_copies: 1.0
   mono-blue-tron:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 3.0
   eldrazi-ramp:
-    weight: 0.1143
+    weight: 0.1111
     avg_copies: 2.75
   eldrazi-breach:
     weight: 0.75

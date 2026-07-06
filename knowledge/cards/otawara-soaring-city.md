@@ -6,38 +6,38 @@ name: Otawara, Soaring City
 scryfall_id: 486d7edc-d983-41f0-8b78-c99aecd72996
 set: neo
 type: Legendary Land
-meta_presence: 0.1226
+meta_presence: 0.1225
 archetypes:
   ruby-storm:
-    weight: 0.0127
+    weight: 0.0119
     avg_copies: 1.0
   dimir-control:
     weight: 0.5926
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.9559
+    weight: 0.9568
     avg_copies: 1.0
   goryo:
-    weight: 0.009
+    weight: 0.0087
     avg_copies: 1.0
   azorius-control:
-    weight: 0.8525
+    weight: 0.8333
     avg_copies: 1.0
   living-end:
-    weight: 0.7759
+    weight: 0.7833
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.2703
+    weight: 0.2632
     avg_copies: 1.0
   affinity:
-    weight: 0.0618
+    weight: 0.0647
     avg_copies: 1.0
   mill:
-    weight: 0.8966
+    weight: 0.9032
     avg_copies: 1.0
   mono-blue-tron:
     weight: 1.0
-    avg_copies: 1.67
+    avg_copies: 1.65
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
@@ -45,7 +45,7 @@ archetypes:
     weight: 0.6104
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0043
+    weight: 0.0041
     avg_copies: 1.0
   4c-omnath:
     weight: 0.25
@@ -69,13 +69,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   grixis-control:
-    weight: 0.4
+    weight: 0.3333
     avg_copies: 1.0
   izzet-murktide:
     weight: 1.0
     avg_copies: 1.0
   unknown-6:
-    weight: 1.0
+    weight: 0.8
     avg_copies: 1.0
   unknown-10:
     weight: 1.0
@@ -84,7 +84,7 @@ archetypes:
     weight: 0.6
     avg_copies: 1.0
   unknown-15:
-    weight: 0.8889
+    weight: 0.9
     avg_copies: 1.0
   unknown-17:
     weight: 0.3333
@@ -105,7 +105,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.4754
+    weight: 0.4923
     avg_copies: 1.0
   unknown-62:
     weight: 0.04
@@ -117,7 +117,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   unknown-67:
-    weight: 0.5439
+    weight: 0.5167
     avg_copies: 1.0
   unknown-73:
     weight: 1.0
@@ -138,7 +138,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-106:
-    weight: 0.3333
+    weight: 0.4
     avg_copies: 1.0
   unknown-107:
     weight: 1.0

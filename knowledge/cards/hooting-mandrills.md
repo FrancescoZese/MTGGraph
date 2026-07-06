@@ -10,6 +10,6 @@ type: Creature — Ape
 meta_presence: 0.0115
 archetypes:
   neoform-combo:
-    weight: 0.9474
-    avg_copies: 1.18
+    weight: 0.9492
+    avg_copies: 1.19
 ---

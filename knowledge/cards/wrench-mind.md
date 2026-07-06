@@ -7,9 +7,9 @@ name: Wrench Mind
 scryfall_id: 360a6ada-b257-44b8-b830-aaa122474bce
 set: ima
 type: Sorcery
-meta_presence: 0.0017
+meta_presence: 0.0018
 archetypes:
   necrodominance:
-    weight: 0.2105
-    avg_copies: 2.12
+    weight: 0.2308
+    avg_copies: 2.0
 ---

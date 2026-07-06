@@ -7,34 +7,34 @@ name: Meltdown
 scryfall_id: 173369d2-dc39-4bfe-a602-b47156570365
 set: mh3
 type: Sorcery
-meta_presence: 0.1444
+meta_presence: 0.1455
 archetypes:
   ruby-storm:
-    weight: 0.1013
+    weight: 0.0952
     avg_copies: 1.31
   boros-energy:
-    weight: 0.0709
-    avg_copies: 1.24
+    weight: 0.0763
+    avg_copies: 1.21
   dimir-control:
     weight: 0.2716
     avg_copies: 2.5
   jeskai-energy:
-    weight: 0.0308
+    weight: 0.0305
     avg_copies: 1.0
   necrodominance:
-    weight: 0.0789
+    weight: 0.0769
     avg_copies: 1.67
   azorius-control:
-    weight: 0.0164
+    weight: 0.0152
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.1081
+    weight: 0.1053
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0455
+    weight: 0.0446
     avg_copies: 1.0
   mill:
-    weight: 0.0345
+    weight: 0.0323
     avg_copies: 2.0
   reanimator:
     weight: 0.7778
@@ -49,19 +49,19 @@ archetypes:
     weight: 0.036
     avg_copies: 1.4
   eldrazi-ramp:
-    weight: 0.0857
+    weight: 0.0833
     avg_copies: 1.22
   simic-ritual:
     weight: 0.0519
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.9353
-    avg_copies: 1.84
+    weight: 0.9378
+    avg_copies: 1.85
   indomitable-creativity:
     weight: 0.2857
     avg_copies: 1.25
   broodscale-combo:
-    weight: 0.0054
+    weight: 0.0051
     avg_copies: 1.0
   dredge:
     weight: 0.7273
@@ -88,17 +88,17 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   cosmogoyf-fling:
-    weight: 0.0357
+    weight: 0.0323
     avg_copies: 1.0
   scapeshift-combo:
     weight: 0.1667
     avg_copies: 2.0
   goryo1:
-    weight: 0.9919
-    avg_copies: 2.02
+    weight: 0.9924
+    avg_copies: 2.01
   grixis-control:
     weight: 1.0
-    avg_copies: 2.4
+    avg_copies: 2.5
   soultrader-combo0:
     weight: 1.0
     avg_copies: 3.0
@@ -138,6 +138,9 @@ archetypes:
   unknown-33:
     weight: 1.0
     avg_copies: 3.0
+  unknown-47:
+    weight: 0.0154
+    avg_copies: 2.0
   unknown-53:
     weight: 1.0
     avg_copies: 2.0
@@ -166,11 +169,11 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-86:
-    weight: 0.8333
-    avg_copies: 2.2
+    weight: 0.8571
+    avg_copies: 2.5
   unknown-96:
-    weight: 0.4545
-    avg_copies: 2.6
+    weight: 0.5
+    avg_copies: 2.67
   unknown-90:
     weight: 1.0
     avg_copies: 1.0
@@ -196,8 +199,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.67
   unknown-122:
-    weight: 0.8333
-    avg_copies: 2.33
+    weight: 0.85
+    avg_copies: 2.41
   unknown-124:
     weight: 1.0
     avg_copies: 3.0

@@ -6,40 +6,40 @@ name: Gemstone Caverns
 scryfall_id: 7f273641-c5f3-48bc-b89e-3cff52d26a0b
 set: tsr
 type: Legendary Land
-meta_presence: 0.0826
+meta_presence: 0.0836
 archetypes:
   ruby-storm:
-    weight: 0.9367
+    weight: 0.9345
     avg_copies: 1.03
   eldrazi-tron:
-    weight: 0.0182
-    avg_copies: 1.0
-  amulet-titan:
-    weight: 0.0074
-    avg_copies: 1.0
-  goryo:
-    weight: 0.009
-    avg_copies: 1.0
-  azorius-control:
-    weight: 0.0328
-    avg_copies: 1.0
-  living-end:
     weight: 0.0172
     avg_copies: 1.0
+  amulet-titan:
+    weight: 0.0072
+    avg_copies: 1.0
+  goryo:
+    weight: 0.0087
+    avg_copies: 1.0
+  azorius-control:
+    weight: 0.0303
+    avg_copies: 1.0
+  living-end:
+    weight: 0.0167
+    avg_copies: 1.0
   jeskai-control:
-    weight: 0.027
+    weight: 0.0263
     avg_copies: 1.0
   affinity:
-    weight: 0.0048
+    weight: 0.0046
     avg_copies: 1.0
   mono-blue-tron:
-    weight: 0.2222
+    weight: 0.2
     avg_copies: 1.5
   kethis-combo:
-    weight: 0.8333
+    weight: 0.8571
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.1048
+    weight: 0.1019
     avg_copies: 1.0
   simic-ritual:
     weight: 0.5584
@@ -48,7 +48,7 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.4865
+    weight: 0.4949
     avg_copies: 1.01
   dredge:
     weight: 0.0455
@@ -58,7 +58,7 @@ archetypes:
     avg_copies: 1.0
   cosmogoyf-fling:
     weight: 1.0
-    avg_copies: 3.89
+    avg_copies: 3.9
   goryo4:
     weight: 0.6364
     avg_copies: 1.0

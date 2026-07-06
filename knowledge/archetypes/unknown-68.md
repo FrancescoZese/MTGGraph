@@ -4,7 +4,7 @@ colors:
 - B
 - R
 name: 'Unknown #68'
-meta_share: 0.0066
+meta_share: 0.0064
 list_count: 31
 top_cards:
 - name: Guide of Souls
@@ -166,10 +166,10 @@ top_cards:
 - name: Haliya, Guided by Light
   weight: 0.0645
   avg_copies: 1.0
-- name: Deafening Silence
+- name: Witch Enchanter
   weight: 0.0323
   avg_copies: 2.0
-- name: Witch Enchanter
+- name: Deafening Silence
   weight: 0.0323
   avg_copies: 2.0
 - name: Lingering Souls
@@ -181,13 +181,13 @@ top_cards:
 - name: Strategic Betrayal
   weight: 0.0323
   avg_copies: 1.0
-- name: Faerie Macabre
-  weight: 0.0323
-  avg_copies: 1.0
 - name: Containment Priest
   weight: 0.0323
   avg_copies: 1.0
 - name: Sanctifier en-Vec
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Faerie Macabre
   weight: 0.0323
   avg_copies: 1.0
 ---

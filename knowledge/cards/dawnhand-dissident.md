@@ -7,12 +7,12 @@ name: Dawnhand Dissident
 scryfall_id: 6ac1f765-f348-4813-88dc-26376e0f3f33
 set: ecl
 type: Creature — Elf Warlock
-meta_presence: 0.0017
+meta_presence: 0.0016
 archetypes:
   reanimator:
     weight: 0.037
     avg_copies: 2.0
   unknown-45:
-    weight: 0.3333
+    weight: 0.3182
     avg_copies: 1.0
 ---

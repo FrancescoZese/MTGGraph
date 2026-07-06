@@ -10,7 +10,7 @@ type: Creature — Snake Shaman
 meta_presence: 0.0006
 archetypes:
   amulet-titan:
-    weight: 0.0074
+    weight: 0.0072
     avg_copies: 1.0
   scapeshift-combo:
     weight: 0.1667

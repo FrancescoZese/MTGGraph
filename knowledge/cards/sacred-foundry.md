@@ -6,28 +6,28 @@ name: Sacred Foundry
 scryfall_id: 8b4e2642-3c87-4708-b9b4-2e7f7359ac7d
 set: eoe
 type: Land — Mountain Plains
-meta_presence: 0.2744
+meta_presence: 0.2749
 archetypes:
   ruby-storm:
-    weight: 0.9494
-    avg_copies: 1.07
+    weight: 0.9464
+    avg_copies: 1.08
   boros-energy:
     weight: 1.0
     avg_copies: 2.8
   jeskai-energy:
     weight: 1.0
-    avg_copies: 1.28
+    avg_copies: 1.29
   azorius-control:
-    weight: 0.0328
+    weight: 0.0303
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.5405
+    weight: 0.5263
     avg_copies: 1.0
   affinity:
-    weight: 0.0024
+    weight: 0.0023
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0364
+    weight: 0.0357
     avg_copies: 1.0
   burn:
     weight: 0.8
@@ -39,13 +39,13 @@ archetypes:
     weight: 0.9784
     avg_copies: 3.24
   izzet-prowess:
-    weight: 0.0216
+    weight: 0.0207
     avg_copies: 1.0
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.0175
+    weight: 0.0172
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.7857
@@ -54,8 +54,8 @@ archetypes:
     weight: 0.2222
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.1154
-    avg_copies: 1.17
+    weight: 0.1273
+    avg_copies: 1.14
   scapeshift-combo:
     weight: 0.1667
     avg_copies: 1.0
@@ -93,8 +93,8 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   unknown-26:
-    weight: 0.4444
-    avg_copies: 1.88
+    weight: 0.45
+    avg_copies: 1.89
   unknown-54:
     weight: 1.0
     avg_copies: 1.0
@@ -109,7 +109,7 @@ archetypes:
     avg_copies: 1.94
   unknown-70:
     weight: 1.0
-    avg_copies: 1.86
+    avg_copies: 1.9
   unknown-72:
     weight: 1.0
     avg_copies: 1.0
@@ -120,7 +120,7 @@ archetypes:
     weight: 0.9
     avg_copies: 1.0
   unknown-86:
-    weight: 1.0
+    weight: 0.8571
     avg_copies: 1.67
   unknown-84:
     weight: 1.0
@@ -133,7 +133,7 @@ archetypes:
     avg_copies: 1.0
   unknown-96:
     weight: 1.0
-    avg_copies: 2.55
+    avg_copies: 2.58
   unknown-99:
     weight: 1.0
     avg_copies: 1.0
@@ -165,7 +165,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-122:
-    weight: 0.0556
+    weight: 0.05
     avg_copies: 1.0
   unknown-127:
     weight: 1.0
@@ -193,11 +193,14 @@ archetypes:
     avg_copies: 1.0
   unknown-160:
     weight: 1.0
-    avg_copies: 3.17
+    avg_copies: 3.18
   unknown-159:
     weight: 1.0
     avg_copies: 2.0
   unknown-168:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-177:
     weight: 1.0
     avg_copies: 3.0
 ---

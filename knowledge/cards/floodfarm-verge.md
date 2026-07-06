@@ -9,16 +9,16 @@ type: Land
 meta_presence: 0.007
 archetypes:
   jeskai-energy:
-    weight: 0.0154
+    weight: 0.0153
     avg_copies: 1.0
   azorius-control:
-    weight: 0.3115
-    avg_copies: 1.74
+    weight: 0.303
+    avg_copies: 1.75
   esper-blink:
-    weight: 0.0227
+    weight: 0.022
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.0577
+    weight: 0.0545
     avg_copies: 1.67
   esper-midrange:
     weight: 1.0

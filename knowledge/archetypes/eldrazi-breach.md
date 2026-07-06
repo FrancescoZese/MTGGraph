@@ -3,10 +3,13 @@ colors:
 - U
 - R
 name: Eldrazi Breach
-meta_share: 0.0009
+meta_share: 0.0008
 list_count: 4
 top_cards:
-- name: Through the Breach
+- name: Kozilek's Command
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
@@ -15,10 +18,7 @@ top_cards:
 - name: Emrakul, the Aeons Torn
   weight: 1.0
   avg_copies: 4.0
-- name: Ugin's Labyrinth
-  weight: 1.0
-  avg_copies: 4.0
-- name: Kozilek's Command
+- name: Through the Breach
   weight: 1.0
   avg_copies: 4.0
 - name: Devourer of Destiny
@@ -30,10 +30,10 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Stock Up
+- name: Talisman of Creativity
   weight: 0.75
   avg_copies: 4.0
-- name: Talisman of Creativity
+- name: Stock Up
   weight: 0.75
   avg_copies: 4.0
 - name: Consign to Memory
@@ -51,10 +51,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.75
   avg_copies: 2.33
-- name: Island
+- name: Shivan Reef
   weight: 0.75
   avg_copies: 2.0
-- name: Shivan Reef
+- name: Island
   weight: 0.75
   avg_copies: 2.0
 - name: Steam Vents
@@ -75,16 +75,16 @@ top_cards:
 - name: Yggdrasil, Rebirth Engine
   weight: 0.5
   avg_copies: 3.0
-- name: Soulless Jailer
+- name: Lightning Bolt
   weight: 0.5
   avg_copies: 2.0
-- name: Lightning Bolt
+- name: Soulless Jailer
   weight: 0.5
   avg_copies: 2.0
 - name: Spell Snare
   weight: 0.5
   avg_copies: 1.5
-- name: Dress Down
+- name: Sink into Stupor
   weight: 0.5
   avg_copies: 1.0
 - name: Polluted Delta
@@ -93,7 +93,7 @@ top_cards:
 - name: Thundering Falls
   weight: 0.5
   avg_copies: 1.0
-- name: Sink into Stupor
+- name: Dress Down
   weight: 0.5
   avg_copies: 1.0
 - name: Faithless Looting
@@ -111,37 +111,37 @@ top_cards:
 - name: Thoughtseize
   weight: 0.25
   avg_copies: 4.0
-- name: Trinisphere
-  weight: 0.25
-  avg_copies: 3.0
 - name: Fire Magic
   weight: 0.25
   avg_copies: 3.0
-- name: Void Mirror
+- name: Trinisphere
   weight: 0.25
-  avg_copies: 2.0
-- name: Meltdown
-  weight: 0.25
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Remand
   weight: 0.25
   avg_copies: 2.0
-- name: Raucous Theater
-  weight: 0.25
-  avg_copies: 2.0
-- name: Ashiok, Dream Render
-  weight: 0.25
-  avg_copies: 2.0
-- name: Talisman of Curiosity
-  weight: 0.25
-  avg_copies: 2.0
-- name: Unholy Heat
+- name: Fable of the Mirror-Breaker
   weight: 0.25
   avg_copies: 2.0
 - name: Blood Crypt
   weight: 0.25
   avg_copies: 2.0
-- name: Fable of the Mirror-Breaker
+- name: Void Mirror
+  weight: 0.25
+  avg_copies: 2.0
+- name: Unholy Heat
+  weight: 0.25
+  avg_copies: 2.0
+- name: Talisman of Curiosity
+  weight: 0.25
+  avg_copies: 2.0
+- name: Ashiok, Dream Render
+  weight: 0.25
+  avg_copies: 2.0
+- name: Meltdown
+  weight: 0.25
+  avg_copies: 2.0
+- name: Raucous Theater
   weight: 0.25
   avg_copies: 2.0
 - name: Boseiju, Who Shelters All

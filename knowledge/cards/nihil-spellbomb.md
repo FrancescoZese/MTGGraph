@@ -12,16 +12,16 @@ archetypes:
     weight: 0.3086
     avg_copies: 1.21
   jeskai-energy:
-    weight: 0.0077
+    weight: 0.0076
     avg_copies: 1.0
   goryo:
-    weight: 0.4706
-    avg_copies: 1.3
+    weight: 0.4803
+    avg_copies: 1.29
   domain-zoo:
-    weight: 0.5455
+    weight: 0.5357
     avg_copies: 1.18
   mill:
-    weight: 0.1724
+    weight: 0.1613
     avg_copies: 1.4
   reanimator:
     weight: 0.1852
@@ -36,19 +36,19 @@ archetypes:
     weight: 0.2424
     avg_copies: 2.12
   kethis-combo:
-    weight: 0.1667
+    weight: 0.1429
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.019
+    weight: 0.0185
     avg_copies: 3.5
   simic-ritual:
     weight: 0.013
     avg_copies: 1.0
   esper-blink:
-    weight: 0.2614
+    weight: 0.2527
     avg_copies: 1.74
   azorius-blink:
-    weight: 0.0192
+    weight: 0.0182
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
@@ -63,17 +63,17 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   goryo1:
-    weight: 0.2016
-    avg_copies: 1.12
+    weight: 0.2121
+    avg_copies: 1.18
   goryo5:
-    weight: 0.1429
+    weight: 0.1333
     avg_copies: 1.0
   soultrader-combo:
     weight: 0.2
     avg_copies: 1.0
   grixis-control:
-    weight: 0.6
-    avg_copies: 1.25
+    weight: 0.6667
+    avg_copies: 1.2
   soultrader-combo0:
     weight: 1.0
     avg_copies: 1.0
@@ -114,11 +114,11 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-45:
-    weight: 0.0476
+    weight: 0.0455
     avg_copies: 2.0
   unknown-47:
-    weight: 0.8033
-    avg_copies: 1.76
+    weight: 0.8154
+    avg_copies: 1.79
   unknown-52:
     weight: 1.0
     avg_copies: 2.0
@@ -156,7 +156,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-106:
-    weight: 0.6667
+    weight: 0.6
     avg_copies: 1.83
   unknown-111:
     weight: 0.75
@@ -181,7 +181,7 @@ archetypes:
     avg_copies: 1.0
   unknown-132:
     weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 1.5
   unknown-133:
     weight: 1.0
     avg_copies: 4.0

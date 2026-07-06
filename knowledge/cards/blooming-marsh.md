@@ -6,14 +6,14 @@ name: Blooming Marsh
 scryfall_id: 861caabb-0573-4e94-8b03-342f90465064
 set: otj
 type: Land
-meta_presence: 0.0088
+meta_presence: 0.0092
 archetypes:
   cosmogoyf-fling:
     weight: 1.0
-    avg_copies: 3.46
+    avg_copies: 3.52
   goryo5:
-    weight: 0.7857
-    avg_copies: 2.36
+    weight: 0.8
+    avg_copies: 2.33
   unknown-102:
     weight: 1.0
     avg_copies: 2.5

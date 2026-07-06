@@ -6,11 +6,11 @@ name: Talisman of Dominance
 scryfall_id: f6c8e0b5-218e-41dd-8b09-2d4aaec2c979
 set: mkc
 type: Artifact
-meta_presence: 0.0021
+meta_presence: 0.0025
 archetypes:
   mono-blue-tron:
-    weight: 0.4444
-    avg_copies: 2.75
+    weight: 0.5
+    avg_copies: 3.0
   unknown-150:
     weight: 1.0
     avg_copies: 3.0

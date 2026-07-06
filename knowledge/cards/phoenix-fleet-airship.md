@@ -7,7 +7,7 @@ name: Phoenix Fleet Airship
 scryfall_id: b51d3259-c41c-4f64-9666-0a9e676c812f
 set: tla
 type: Artifact — Vehicle
-meta_presence: 0.003
+meta_presence: 0.0029
 archetypes:
   simic-ritual:
     weight: 0.013

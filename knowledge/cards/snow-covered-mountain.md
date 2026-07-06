@@ -6,13 +6,13 @@ name: Snow-Covered Mountain
 scryfall_id: 5474e67c-628f-41b0-aa31-3d85a267265a
 set: khm
 type: Basic Snow Land — Mountain
-meta_presence: 0.0117
+meta_presence: 0.0113
 archetypes:
   boros-energy:
-    weight: 0.027
+    weight: 0.026
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.1077
+    weight: 0.1069
     avg_copies: 1.0
   burn:
     weight: 0.0333
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.0216
     avg_copies: 1.67
   izzet-prowess:
-    weight: 0.0129
+    weight: 0.0124
     avg_copies: 2.0
   dredge:
     weight: 0.0455
@@ -36,7 +36,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-86:
-    weight: 0.5
+    weight: 0.4286
     avg_copies: 4.0
   unknown-95:
     weight: 1.0

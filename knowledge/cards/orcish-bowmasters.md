@@ -7,16 +7,19 @@ name: Orcish Bowmasters
 scryfall_id: 7c024bae-5631-4e20-ac69-df392ac9e109
 set: ltr
 type: Creature — Orc Archer
-meta_presence: 0.1091
+meta_presence: 0.1085
 archetypes:
   dimir-control:
     weight: 0.963
     avg_copies: 3.58
+  goryo:
+    weight: 0.0044
+    avg_copies: 1.5
   necrodominance:
     weight: 1.0
-    avg_copies: 3.66
+    avg_copies: 3.67
   domain-zoo:
-    weight: 0.0636
+    weight: 0.0625
     avg_copies: 2.43
   reanimator:
     weight: 0.1481
@@ -28,16 +31,16 @@ archetypes:
     weight: 0.6667
     avg_copies: 3.36
   yawgmoth-combo:
-    weight: 0.625
-    avg_copies: 1.65
+    weight: 0.6216
+    avg_copies: 1.66
   simic-ritual:
     weight: 0.0649
     avg_copies: 3.2
   esper-blink:
-    weight: 0.3523
-    avg_copies: 2.03
+    weight: 0.3516
+    avg_copies: 2.0
   samwise-combo:
-    weight: 0.7193
+    weight: 0.7241
     avg_copies: 2.05
   orzhov-blink:
     weight: 0.7778
@@ -49,16 +52,16 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   goryo1:
-    weight: 0.0081
+    weight: 0.0076
     avg_copies: 1.0
   goryo5:
     weight: 1.0
-    avg_copies: 3.33
+    avg_copies: 3.38
   soultrader-combo:
     weight: 1.0
     avg_copies: 4.0
   grixis-control:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 2.0
   sultai-midrange:
     weight: 1.0
@@ -67,7 +70,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-1:
-    weight: 0.5714
+    weight: 0.5
     avg_copies: 3.0
   unknown-18:
     weight: 1.0
@@ -77,7 +80,7 @@ archetypes:
     avg_copies: 2.0
   unknown-24:
     weight: 1.0
-    avg_copies: 2.55
+    avg_copies: 2.62
   unknown-27:
     weight: 1.0
     avg_copies: 4.0
@@ -94,14 +97,14 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-45:
-    weight: 0.9524
-    avg_copies: 2.18
+    weight: 0.9545
+    avg_copies: 2.13
   unknown-46:
     weight: 1.0
-    avg_copies: 3.57
+    avg_copies: 3.5
   unknown-47:
     weight: 1.0
-    avg_copies: 3.25
+    avg_copies: 3.26
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
@@ -133,7 +136,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-96:
-    weight: 0.0909
+    weight: 0.0833
     avg_copies: 2.0
   unknown-100:
     weight: 1.0
@@ -180,6 +183,9 @@ archetypes:
   unknown-154:
     weight: 1.0
     avg_copies: 4.0
+  unknown-161:
+    weight: 0.5
+    avg_copies: 2.0
   unknown-162:
     weight: 1.0
     avg_copies: 4.0

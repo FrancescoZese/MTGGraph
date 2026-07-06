@@ -7,10 +7,10 @@ name: Elspeth, Storm Slayer
 scryfall_id: 73a065e3-b530-4e62-ab3c-4f6f908184ec
 set: tdm
 type: Legendary Planeswalker — Elspeth
-meta_presence: 0.0011
+meta_presence: 0.001
 archetypes:
   boros-energy:
-    weight: 0.0017
+    weight: 0.0016
     avg_copies: 1.0
   boros-ponza:
     weight: 0.0288

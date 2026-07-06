@@ -2,25 +2,19 @@
 colors:
 - R
 name: 'Unknown #86'
-meta_share: 0.0013
-list_count: 6
+meta_share: 0.0014
+list_count: 7
 top_cards:
-- name: Dragon's Rage Channeler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Cori-Steel Cutter
-  weight: 1.0
-  avg_copies: 4.0
-- name: Monastery Swiftspear
-  weight: 1.0
-  avg_copies: 4.0
 - name: Lava Spike
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Boltwave
+- name: Monastery Swiftspear
+  weight: 1.0
+  avg_copies: 4.0
+- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Barbarian Ring
@@ -29,95 +23,107 @@ top_cards:
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
+- name: Cori-Steel Cutter
+  weight: 1.0
+  avg_copies: 4.0
+- name: Boltwave
+  weight: 1.0
+  avg_copies: 4.0
 - name: Skewer the Critics
   weight: 1.0
-  avg_copies: 3.83
+  avg_copies: 3.86
 - name: Lava Dart
   weight: 1.0
-  avg_copies: 3.67
+  avg_copies: 3.71
 - name: Light Up the Stage
   weight: 1.0
-  avg_copies: 3.5
+  avg_copies: 3.57
 - name: Tormod's Crypt
   weight: 1.0
-  avg_copies: 2.67
+  avg_copies: 2.86
+- name: Meltdown
+  weight: 0.8571
+  avg_copies: 2.5
 - name: Wear
-  weight: 1.0
+  weight: 0.8571
   avg_copies: 2.0
 - name: Sacred Foundry
-  weight: 1.0
+  weight: 0.8571
   avg_copies: 1.67
 - name: Elegant Parlor
-  weight: 1.0
+  weight: 0.8571
   avg_copies: 1.0
 - name: Scalding Tarn
-  weight: 0.8333
+  weight: 0.7143
   avg_copies: 2.8
-- name: Meltdown
-  weight: 0.8333
-  avg_copies: 2.2
 - name: Arid Mesa
-  weight: 0.8333
+  weight: 0.7143
   avg_copies: 2.2
+- name: Mountain
+  weight: 0.5714
+  avg_copies: 4.0
+- name: Unholy Heat
+  weight: 0.5714
+  avg_copies: 3.25
+- name: Bloodstained Mire
+  weight: 0.5714
+  avg_copies: 3.0
 - name: Snow-Covered Mountain
-  weight: 0.5
+  weight: 0.4286
   avg_copies: 4.0
 - name: Molten Rain
-  weight: 0.5
-  avg_copies: 3.67
-- name: Mountain
-  weight: 0.5
-  avg_copies: 3.33
-- name: Unholy Heat
-  weight: 0.5
-  avg_copies: 3.0
-- name: Bloodstained Mire
-  weight: 0.5
-  avg_copies: 2.67
-- name: Sunbaked Canyon
-  weight: 0.5
-  avg_copies: 2.0
-- name: Ragavan, Nimble Pilferer
-  weight: 0.5
-  avg_copies: 1.67
-- name: Deflecting Palm
-  weight: 0.5
-  avg_copies: 1.67
-- name: Orim's Chant
-  weight: 0.5
-  avg_copies: 1.67
-- name: Searing Blaze
-  weight: 0.3333
+  weight: 0.4286
   avg_copies: 3.67
 - name: Wooded Foothills
-  weight: 0.3333
-  avg_copies: 3.0
+  weight: 0.4286
+  avg_copies: 3.33
+- name: Sunbaked Canyon
+  weight: 0.4286
+  avg_copies: 2.0
+- name: Orim's Chant
+  weight: 0.4286
+  avg_copies: 1.67
+- name: Ragavan, Nimble Pilferer
+  weight: 0.4286
+  avg_copies: 1.67
+- name: Deflecting Palm
+  weight: 0.4286
+  avg_copies: 1.67
+- name: Searing Blaze
+  weight: 0.2857
+  avg_copies: 3.67
 - name: Obsidian Charmaw
-  weight: 0.3333
+  weight: 0.2857
   avg_copies: 2.5
 - name: Goblin Guide
-  weight: 0.3333
+  weight: 0.2857
   avg_copies: 2.0
-- name: Boros Charm
-  weight: 0.1667
-  avg_copies: 2.0
-- name: Pyroclasm
-  weight: 0.1667
+- name: Damping Sphere
+  weight: 0.1429
+  avg_copies: 3.0
+- name: Vexing Bauble
+  weight: 0.1429
   avg_copies: 2.0
 - name: Path to Exile
-  weight: 0.1667
+  weight: 0.1429
   avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 0.1667
+- name: card:reinforced-ronin
+  weight: 0.1429
   avg_copies: 2.0
-- name: Engineered Explosives
-  weight: 0.1667
-  avg_copies: 1.0
+- name: Boros Charm
+  weight: 0.1429
+  avg_copies: 2.0
+- name: Pyroclasm
+  weight: 0.1429
+  avg_copies: 2.0
 - name: Sokenzan, Crucible of Defiance
-  weight: 0.1667
+  weight: 0.1429
   avg_copies: 1.0
 - name: Prismatic Ending
-  weight: 0.1667
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Engineered Explosives
+  weight: 0.1429
   avg_copies: 1.0
 ---
 Unclassified archetype, pending review.

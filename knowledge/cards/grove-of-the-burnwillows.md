@@ -6,14 +6,14 @@ name: Grove of the Burnwillows
 scryfall_id: de4b75ad-7539-4184-a940-6014a0327b3a
 set: ima
 type: Land
-meta_presence: 0.038
+meta_presence: 0.0388
 archetypes:
   hardened-scales:
     weight: 0.75
     avg_copies: 3.67
   broodscale-combo:
-    weight: 0.9297
-    avg_copies: 3.93
+    weight: 0.9337
+    avg_copies: 3.9
   unknown-61:
     weight: 0.08
     avg_copies: 2.5

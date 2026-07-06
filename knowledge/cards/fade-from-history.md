@@ -10,16 +10,19 @@ type: Sorcery
 meta_presence: 0.031
 archetypes:
   living-end:
-    weight: 0.0172
+    weight: 0.0333
     avg_copies: 2.0
+  yawgmoth-combo:
+    weight: 0.0135
+    avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.7429
-    avg_copies: 2.0
+    weight: 0.75
+    avg_copies: 2.02
   simic-ritual:
     weight: 0.1948
     avg_copies: 1.73
   samwise-combo:
-    weight: 0.0175
+    weight: 0.0172
     avg_copies: 2.0
   mono-green-ramp:
     weight: 0.1667
@@ -40,7 +43,7 @@ archetypes:
     weight: 0.0741
     avg_copies: 1.0
   unknown-67:
-    weight: 0.1404
+    weight: 0.1333
     avg_copies: 1.25
   unknown-88:
     weight: 0.2
@@ -48,6 +51,9 @@ archetypes:
   unknown-102:
     weight: 1.0
     avg_copies: 1.0
+  unknown-126:
+    weight: 0.0625
+    avg_copies: 2.0
   unknown-152:
     weight: 1.0
     avg_copies: 1.0

@@ -6,16 +6,16 @@ name: Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
 scryfall_id: 0d16e8e0-31b2-4389-afd6-783c501f6fa0
 set: mh3
 type: Legendary Creature — Cat Warrior // Legendary Planeswalker — Ajani
-meta_presence: 0.1386
+meta_presence: 0.1389
 archetypes:
   boros-energy:
-    weight: 0.9983
-    avg_copies: 3.98
+    weight: 0.9984
+    avg_copies: 3.97
   samwise-combo:
-    weight: 0.0175
+    weight: 0.0172
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.0192
+    weight: 0.0182
     avg_copies: 4.0
   selesnya-midrange:
     weight: 1.0

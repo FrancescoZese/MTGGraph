@@ -6,14 +6,14 @@ name: Spymaster's Vault
 scryfall_id: 3d5fbb30-abfc-4e79-8ce5-bbb04a241c9f
 set: mh3
 type: Land
-meta_presence: 0.0258
+meta_presence: 0.0257
 archetypes:
   reanimator:
     weight: 0.1481
     avg_copies: 1.75
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 2.88
+    avg_copies: 2.86
   simic-ritual:
     weight: 0.013
     avg_copies: 1.0
@@ -24,8 +24,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-45:
-    weight: 0.9524
-    avg_copies: 1.55
+    weight: 0.9545
+    avg_copies: 1.52
   unknown-52:
     weight: 1.0
     avg_copies: 1.0

@@ -6,7 +6,7 @@ name: Ramunap Ruins
 scryfall_id: 727beb1f-1445-4398-970c-e31819d54bc6
 set: otc
 type: Land — Desert
-meta_presence: 0.0009
+meta_presence: 0.0008
 archetypes:
   unknown-98:
     weight: 0.5

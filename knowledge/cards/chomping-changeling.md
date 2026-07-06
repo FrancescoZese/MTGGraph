@@ -9,6 +9,9 @@ set: ecl
 type: Creature — Shapeshifter
 meta_presence: 0.007
 archetypes:
+  yawgmoth-combo:
+    weight: 0.0135
+    avg_copies: 1.0
   mono-green-ramp:
     weight: 1.0
     avg_copies: 1.0

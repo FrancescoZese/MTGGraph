@@ -7,13 +7,13 @@ name: Vampire Hexmage
 scryfall_id: 97ec2e55-fa60-4ee1-b9c0-e6b84939697b
 set: 2xm
 type: Creature — Vampire Shaman
-meta_presence: 0.0006
+meta_presence: 0.0008
 archetypes:
   reanimator:
     weight: 0.037
     avg_copies: 1.0
   unknown-45:
-    weight: 0.0476
+    weight: 0.0455
     avg_copies: 1.0
   unknown-154:
     weight: 1.0

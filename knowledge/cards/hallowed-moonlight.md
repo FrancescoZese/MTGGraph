@@ -10,10 +10,10 @@ type: Instant
 meta_presence: 0.0023
 archetypes:
   boros-energy:
-    weight: 0.0068
+    weight: 0.0065
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.027
+    weight: 0.0263
     avg_copies: 1.0
   goryo7:
     weight: 1.0
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   unknown-26:
-    weight: 0.0556
+    weight: 0.05
     avg_copies: 2.0
   unknown-83:
     weight: 1.0

@@ -6,13 +6,13 @@ name: Mazemind Tome
 scryfall_id: f45072cd-e3f2-4090-b984-50ec8d360bf2
 set: fdn
 type: Artifact — Book
-meta_presence: 0.0015
+meta_presence: 0.0014
 archetypes:
   goryo6:
     weight: 1.0
     avg_copies: 4.0
   unknown-26:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 4.0
   unknown-162:
     weight: 1.0

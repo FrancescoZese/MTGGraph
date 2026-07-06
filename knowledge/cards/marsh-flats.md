@@ -6,28 +6,28 @@ name: Marsh Flats
 scryfall_id: 9db3ba6d-eb7f-4f5b-9a3b-c6239c3baa42
 set: mh2
 type: Land
-meta_presence: 0.2648
+meta_presence: 0.264
 archetypes:
   boros-energy:
-    weight: 0.9679
-    avg_copies: 3.28
+    weight: 0.9675
+    avg_copies: 3.27
   dimir-control:
     weight: 0.3827
     avg_copies: 1.52
   jeskai-energy:
-    weight: 0.0538
+    weight: 0.0534
     avg_copies: 1.0
   goryo:
-    weight: 0.9955
-    avg_copies: 3.35
+    weight: 0.9956
+    avg_copies: 3.34
   necrodominance:
-    weight: 0.1842
+    weight: 0.1795
     avg_copies: 1.14
   azorius-control:
-    weight: 0.2951
+    weight: 0.2727
     avg_copies: 1.78
   domain-zoo:
-    weight: 0.0182
+    weight: 0.0179
     avg_copies: 4.0
   reanimator:
     weight: 0.037
@@ -46,13 +46,13 @@ archetypes:
     avg_copies: 4.0
   esper-blink:
     weight: 1.0
-    avg_copies: 3.81
+    avg_copies: 3.79
   orzhov-blink:
     weight: 1.0
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.8654
-    avg_copies: 2.11
+    weight: 0.8545
+    avg_copies: 2.09
   rakdos-aggro:
     weight: 0.0588
     avg_copies: 4.0
@@ -66,11 +66,11 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   goryo1:
-    weight: 0.0081
+    weight: 0.0076
     avg_copies: 1.0
   goryo5:
-    weight: 0.6429
-    avg_copies: 2.33
+    weight: 0.6667
+    avg_copies: 2.3
   goryo2:
     weight: 1.0
     avg_copies: 4.0
@@ -105,8 +105,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.8852
-    avg_copies: 1.78
+    weight: 0.8769
+    avg_copies: 1.75
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
@@ -126,7 +126,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-70:
-    weight: 0.1429
+    weight: 0.1
     avg_copies: 1.0
   unknown-73:
     weight: 1.0
@@ -150,13 +150,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.0909
+    weight: 0.0833
     avg_copies: 3.0
   unknown-105:
     weight: 1.0
     avg_copies: 1.0
   unknown-106:
-    weight: 0.7778
+    weight: 0.7
     avg_copies: 1.43
   unknown-108:
     weight: 1.0
@@ -184,7 +184,7 @@ archetypes:
     avg_copies: 4.0
   unknown-132:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.5
   unknown-135:
     weight: 1.0
     avg_copies: 4.0

@@ -6,11 +6,11 @@ name: Elegant Parlor
 scryfall_id: 72c6d541-e2cb-4d6e-acac-90a8f53b7006
 set: mkm
 type: Land — Mountain Plains
-meta_presence: 0.2298
+meta_presence: 0.2295
 archetypes:
   ruby-storm:
-    weight: 0.9494
-    avg_copies: 1.33
+    weight: 0.9464
+    avg_copies: 1.32
   boros-energy:
     weight: 1.0
     avg_copies: 2.02
@@ -18,13 +18,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.01
   azorius-control:
-    weight: 0.0164
+    weight: 0.0152
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.6486
+    weight: 0.6316
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0182
+    weight: 0.0179
     avg_copies: 1.0
   burn:
     weight: 0.3667
@@ -42,7 +42,7 @@ archetypes:
     weight: 0.7857
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.0385
+    weight: 0.0364
     avg_copies: 1.0
   naya-midrange:
     weight: 1.0
@@ -69,8 +69,8 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   unknown-26:
-    weight: 0.6667
-    avg_copies: 2.75
+    weight: 0.65
+    avg_copies: 2.69
   unknown-62:
     weight: 0.04
     avg_copies: 1.0
@@ -82,19 +82,19 @@ archetypes:
     avg_copies: 1.0
   unknown-70:
     weight: 1.0
-    avg_copies: 1.14
+    avg_copies: 1.1
   unknown-72:
     weight: 1.0
     avg_copies: 1.0
   unknown-86:
-    weight: 1.0
+    weight: 0.8571
     avg_copies: 1.0
   unknown-93:
     weight: 0.25
     avg_copies: 1.0
   unknown-96:
-    weight: 0.9091
-    avg_copies: 1.1
+    weight: 0.9167
+    avg_copies: 1.09
   unknown-99:
     weight: 1.0
     avg_copies: 1.0
@@ -135,6 +135,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-168:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-177:
     weight: 1.0
     avg_copies: 1.0
 ---

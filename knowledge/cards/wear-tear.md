@@ -8,28 +8,28 @@ name: Wear // Tear
 scryfall_id: e01cc65a-0e38-4f41-b9ed-796ef0355d0b
 set: moc
 type: Instant // Instant
-meta_presence: 0.1185
+meta_presence: 0.1179
 archetypes:
   ruby-storm:
-    weight: 0.8987
-    avg_copies: 2.24
+    weight: 0.8988
+    avg_copies: 2.22
   boros-energy:
-    weight: 0.0034
+    weight: 0.0032
     avg_copies: 2.0
   jeskai-energy:
-    weight: 0.0154
+    weight: 0.0153
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0164
+    weight: 0.0152
     avg_copies: 2.0
   jeskai-control:
-    weight: 0.0541
+    weight: 0.0526
     avg_copies: 1.0
   affinity:
-    weight: 0.0048
+    weight: 0.0046
     avg_copies: 2.0
   domain-zoo:
-    weight: 0.9818
+    weight: 0.9821
     avg_copies: 1.56
   burn:
     weight: 0.4
@@ -44,13 +44,13 @@ archetypes:
     weight: 0.7626
     avg_copies: 1.75
   izzet-prowess:
-    weight: 0.0172
+    weight: 0.0166
     avg_copies: 1.75
   4c-omnath:
     weight: 0.5
     avg_copies: 2.5
   azorius-blink:
-    weight: 0.0769
+    weight: 0.0909
     avg_copies: 1.0
   goryo0:
     weight: 1.0
@@ -68,7 +68,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-26:
-    weight: 0.2222
+    weight: 0.2
     avg_copies: 2.75
   unknown-44:
     weight: 1.0
@@ -83,7 +83,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.74
   unknown-70:
-    weight: 0.5714
+    weight: 0.4
     avg_copies: 1.25
   unknown-72:
     weight: 1.0
@@ -95,14 +95,14 @@ archetypes:
     weight: 0.9
     avg_copies: 2.0
   unknown-86:
-    weight: 1.0
+    weight: 0.8571
     avg_copies: 2.0
   unknown-84:
     weight: 1.0
     avg_copies: 2.0
   unknown-96:
-    weight: 0.7273
-    avg_copies: 2.25
+    weight: 0.75
+    avg_copies: 2.22
   unknown-99:
     weight: 1.0
     avg_copies: 1.0
@@ -128,7 +128,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-122:
-    weight: 0.0556
+    weight: 0.05
     avg_copies: 2.0
   unknown-127:
     weight: 1.0
@@ -152,12 +152,15 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.2222
-    avg_copies: 1.5
+    weight: 0.2857
+    avg_copies: 1.75
   unknown-159:
     weight: 1.0
     avg_copies: 2.0
   unknown-168:
     weight: 1.0
     avg_copies: 2.0
+  unknown-177:
+    weight: 1.0
+    avg_copies: 1.0
 ---

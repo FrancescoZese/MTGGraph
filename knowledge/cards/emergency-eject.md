@@ -7,12 +7,15 @@ name: Emergency Eject
 scryfall_id: fc98b2d4-86fc-4c47-b2a7-1f3c89463607
 set: eoe
 type: Instant
-meta_presence: 0.0021
+meta_presence: 0.0029
 archetypes:
   goryo6:
     weight: 0.5
     avg_copies: 4.0
   unknown-26:
-    weight: 0.4444
-    avg_copies: 3.82
+    weight: 0.5
+    avg_copies: 3.54
+  unknown-160:
+    weight: 0.0714
+    avg_copies: 2.0
 ---

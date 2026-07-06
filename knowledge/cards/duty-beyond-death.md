@@ -10,6 +10,6 @@ type: Instant
 meta_presence: 0.0002
 archetypes:
   boros-energy:
-    weight: 0.0017
+    weight: 0.0016
     avg_copies: 1.0
 ---

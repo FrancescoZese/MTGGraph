@@ -6,7 +6,7 @@ name: Polluted Delta
 scryfall_id: 6e288374-2b71-4ace-b1d2-a19fee6cb4af
 set: mh3
 type: Land
-meta_presence: 0.2001
+meta_presence: 0.1995
 archetypes:
   dimir-control:
     weight: 1.0
@@ -15,16 +15,16 @@ archetypes:
     weight: 1.0
     avg_copies: 3.81
   necrodominance:
-    weight: 0.2632
+    weight: 0.2564
     avg_copies: 1.8
   azorius-control:
-    weight: 0.2951
+    weight: 0.2727
     avg_copies: 1.11
   living-end:
-    weight: 0.7069
+    weight: 0.7167
     avg_copies: 1.44
   affinity:
-    weight: 0.0214
+    weight: 0.0208
     avg_copies: 1.44
   mill:
     weight: 1.0
@@ -33,8 +33,8 @@ archetypes:
     weight: 0.963
     avg_copies: 3.62
   neoform-combo:
-    weight: 0.5789
-    avg_copies: 1.33
+    weight: 0.5932
+    avg_copies: 1.31
   hollow-one:
     weight: 0.1818
     avg_copies: 1.5
@@ -42,16 +42,16 @@ archetypes:
     weight: 0.2597
     avg_copies: 1.2
   izzet-prowess:
-    weight: 0.0086
+    weight: 0.0083
     avg_copies: 1.0
   esper-blink:
-    weight: 0.9545
-    avg_copies: 1.67
+    weight: 0.956
+    avg_copies: 1.66
   orzhov-blink:
     weight: 0.2222
     avg_copies: 1.5
   azorius-blink:
-    weight: 0.0192
+    weight: 0.0182
     avg_copies: 1.0
   esper-control:
     weight: 1.0
@@ -79,10 +79,10 @@ archetypes:
     avg_copies: 1.0
   goryo1:
     weight: 1.0
-    avg_copies: 3.81
+    avg_copies: 3.83
   goryo5:
-    weight: 0.6429
-    avg_copies: 1.78
+    weight: 0.6667
+    avg_copies: 1.7
   goryo2:
     weight: 1.0
     avg_copies: 2.0
@@ -135,11 +135,11 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-45:
-    weight: 0.2381
+    weight: 0.2273
     avg_copies: 3.0
   unknown-47:
     weight: 1.0
-    avg_copies: 3.9
+    avg_copies: 3.89
   unknown-51:
     weight: 1.0
     avg_copies: 4.0
@@ -168,7 +168,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-67:
-    weight: 0.0175
+    weight: 0.0167
     avg_copies: 3.0
   unknown-69:
     weight: 0.5
@@ -207,7 +207,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-106:
-    weight: 0.6667
+    weight: 0.6
     avg_copies: 1.0
   unknown-108:
     weight: 1.0
@@ -238,6 +238,9 @@ archetypes:
     avg_copies: 4.0
   unknown-131:
     weight: 1.0
+    avg_copies: 4.0
+  unknown-132:
+    weight: 0.5
     avg_copies: 4.0
   unknown-133:
     weight: 1.0

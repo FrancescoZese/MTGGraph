@@ -1,0 +1,47 @@
+---
+archetype: unknown-24
+date: '2026-07-05'
+finish: 11th
+pilot: Selfeisek
+source: MTGO Modern Challenge 64
+---
+
+
+# Mainboard
+1 Pithing Needle
+4 Urza's Saga
+1 Wastes
+4 Thought-Knot Seer
+4 Ifnir Deadlands
+4 Kozilek's Command
+1 Shadowspear
+1 Nihil Spellbomb
+1 Swamp
+1 Swamp
+1 Marsh Flats
+1 Swamp
+2 Urborg, Tomb of Yawgmoth
+1 Swamp
+4 Eldrazi Temple
+4 Prismatic Vista
+4 Fatal Push
+3 Orcish Bowmasters
+4 Emperor of Bones
+4 Nethergoyf
+2 Inquisition of Kozilek
+4 Thoughtseize
+4 Mishra's Bauble
+
+# Sideboard
+2 Break the Ice
+1 Surgical Extraction
+1 Shoot the Sheriff
+2 Damping Sphere
+1 Dreams of Steel and Oil
+1 Pithing Needle
+1 Pithing Needle
+1 Wasteland Strangler
+1 Ashiok, Dream Render
+1 Dismember
+2 Toxic Deluge
+1 Force of Despair

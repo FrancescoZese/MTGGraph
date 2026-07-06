@@ -8,13 +8,13 @@ name: Fracturing Gust
 scryfall_id: ffd726ce-85f8-4570-96e8-e0cfbd05045a
 set: shm
 type: Instant
-meta_presence: 0.0045
+meta_presence: 0.0043
 archetypes:
   boros-energy:
-    weight: 0.0101
+    weight: 0.0097
     avg_copies: 1.0
   living-end:
-    weight: 0.2414
+    weight: 0.2333
     avg_copies: 1.0
   elves:
     weight: 0.5

@@ -6,19 +6,19 @@ name: Takenuma, Abandoned Mire
 scryfall_id: 499037cc-a577-41cb-8ca2-5e117945634f
 set: neo
 type: Legendary Land
-meta_presence: 0.0038
+meta_presence: 0.0039
 archetypes:
   dimir-control:
     weight: 0.0123
     avg_copies: 1.0
   necrodominance:
-    weight: 0.2368
+    weight: 0.2308
     avg_copies: 1.0
   goryo5:
-    weight: 0.0714
+    weight: 0.0667
     avg_copies: 1.0
   unknown-45:
-    weight: 0.1429
+    weight: 0.1818
     avg_copies: 1.0
   unknown-78:
     weight: 1.0

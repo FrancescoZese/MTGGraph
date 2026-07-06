@@ -6,25 +6,25 @@ name: Verdant Catacombs
 scryfall_id: 94c229ea-90da-4aa0-bfda-b162fb3b5b8b
 set: mh2
 type: Land
-meta_presence: 0.1078
+meta_presence: 0.1073
 archetypes:
   dimir-control:
     weight: 0.0123
     avg_copies: 1.0
   goryo:
-    weight: 0.009
+    weight: 0.0087
     avg_copies: 4.0
   necrodominance:
-    weight: 0.1842
+    weight: 0.1795
     avg_copies: 1.43
   living-end:
-    weight: 0.1034
+    weight: 0.1
     avg_copies: 2.0
   reanimator:
     weight: 0.037
     avg_copies: 4.0
   neoform-combo:
-    weight: 0.2105
+    weight: 0.2034
     avg_copies: 1.5
   hollow-one:
     weight: 0.5152
@@ -33,8 +33,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   eldrazi-ramp:
-    weight: 0.7905
-    avg_copies: 1.04
+    weight: 0.787
+    avg_copies: 1.05
   simic-ritual:
     weight: 0.8701
     avg_copies: 3.61
@@ -42,7 +42,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.86
   broodscale-combo:
-    weight: 0.2919
+    weight: 0.2959
     avg_copies: 1.07
   elves:
     weight: 1.0
@@ -60,11 +60,11 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   goryo1:
-    weight: 0.0726
+    weight: 0.0682
     avg_copies: 1.0
   goryo5:
-    weight: 0.7857
-    avg_copies: 1.91
+    weight: 0.8
+    avg_copies: 1.83
   soultrader-combo:
     weight: 0.6
     avg_copies: 2.67
@@ -90,14 +90,14 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-45:
-    weight: 0.7143
-    avg_copies: 3.8
+    weight: 0.7273
+    avg_copies: 3.81
   unknown-46:
     weight: 1.0
     avg_copies: 3.0
   unknown-47:
-    weight: 0.0328
-    avg_copies: 1.5
+    weight: 0.0462
+    avg_copies: 1.33
   unknown-52:
     weight: 1.0
     avg_copies: 4.0
@@ -133,7 +133,7 @@ archetypes:
     avg_copies: 3.0
   unknown-132:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.0
   unknown-139:
     weight: 1.0
     avg_copies: 1.33

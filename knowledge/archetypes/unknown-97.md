@@ -3,31 +3,31 @@ colors:
 - B
 - G
 name: 'Unknown #97'
-meta_share: 0.0013
+meta_share: 0.0012
 list_count: 6
 top_cards:
+- name: Ugin's Labyrinth
+  weight: 1.0
+  avg_copies: 4.0
 - name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
-- name: Sowing Mycospawn
-  weight: 1.0
-  avg_copies: 4.0
 - name: Utopia Sprawl
   weight: 1.0
   avg_copies: 4.0
-- name: Ugin's Labyrinth
+- name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
 - name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
-- name: Forest
+- name: Ancient Stirrings
   weight: 1.0
   avg_copies: 3.5
-- name: Ancient Stirrings
+- name: Forest
   weight: 1.0
   avg_copies: 3.5
 - name: Emrakul, the Promised End
@@ -57,10 +57,10 @@ top_cards:
 - name: Devourer of Destiny
   weight: 0.8333
   avg_copies: 3.0
-- name: Talisman of Resilience
+- name: Consign to Memory
   weight: 0.8333
   avg_copies: 2.2
-- name: Consign to Memory
+- name: Talisman of Resilience
   weight: 0.8333
   avg_copies: 2.2
 - name: Talisman of Curiosity
@@ -72,16 +72,16 @@ top_cards:
 - name: Nulldrifter
   weight: 0.8333
   avg_copies: 1.6
-- name: Wooded Foothills
-  weight: 0.8333
-  avg_copies: 1.4
 - name: Overgrown Tomb
   weight: 0.8333
   avg_copies: 1.4
-- name: Underground Mortuary
+- name: Wooded Foothills
+  weight: 0.8333
+  avg_copies: 1.4
+- name: Breeding Pool
   weight: 0.8333
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Underground Mortuary
   weight: 0.8333
   avg_copies: 1.0
 - name: Hedge Maze
@@ -102,34 +102,34 @@ top_cards:
 - name: Windswept Heath
   weight: 0.3333
   avg_copies: 1.0
-- name: Wastescape Battlemage
-  weight: 0.1667
-  avg_copies: 3.0
 - name: Karn, the Great Creator
   weight: 0.1667
   avg_copies: 3.0
 - name: Kozilek's Return
   weight: 0.1667
   avg_copies: 3.0
-- name: Vandalblast
+- name: Wastescape Battlemage
   weight: 0.1667
-  avg_copies: 2.0
-- name: Culling Ritual
-  weight: 0.1667
-  avg_copies: 2.0
-- name: Damping Sphere
+  avg_copies: 3.0
+- name: Witherbloom Charm
   weight: 0.1667
   avg_copies: 2.0
 - name: Nature's Claim
   weight: 0.1667
   avg_copies: 2.0
-- name: Soulless Jailer
-  weight: 0.1667
-  avg_copies: 2.0
 - name: Damnation
   weight: 0.1667
   avg_copies: 2.0
-- name: Witherbloom Charm
+- name: Vandalblast
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Damping Sphere
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Culling Ritual
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Soulless Jailer
   weight: 0.1667
   avg_copies: 2.0
 - name: Talisman of Impulse
@@ -138,22 +138,22 @@ top_cards:
 - name: Kishla Village
   weight: 0.1667
   avg_copies: 1.0
-- name: Disruptor Flute
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Commercial District
+- name: Tormod's Crypt
   weight: 0.1667
   avg_copies: 1.0
 - name: Pithing Needle
   weight: 0.1667
   avg_copies: 1.0
-- name: Chalice of the Void
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Tormod's Crypt
+- name: Haywire Mite
   weight: 0.1667
   avg_copies: 1.0
 - name: Stomping Ground
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Disruptor Flute
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Chalice of the Void
   weight: 0.1667
   avg_copies: 1.0
 - name: Liquimetal Coating
@@ -162,7 +162,7 @@ top_cards:
 - name: Ensnaring Bridge
   weight: 0.1667
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Commercial District
   weight: 0.1667
   avg_copies: 1.0
 ---

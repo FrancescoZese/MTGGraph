@@ -7,14 +7,17 @@ name: Suncleanser
 scryfall_id: 3644df41-b690-4581-ac7d-c85cec75411f
 set: m19
 type: Creature — Human Cleric
-meta_presence: 0.0145
+meta_presence: 0.0144
 archetypes:
+  jeskai-energy:
+    weight: 0.0076
+    avg_copies: 1.0
   hammer-time:
     weight: 0.3333
     avg_copies: 2.0
   samwise-combo:
-    weight: 0.8246
-    avg_copies: 1.13
+    weight: 0.8276
+    avg_copies: 1.12
   elves:
     weight: 1.0
     avg_copies: 1.0
@@ -22,6 +25,6 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-126:
-    weight: 1.0
+    weight: 0.9375
     avg_copies: 1.0
 ---

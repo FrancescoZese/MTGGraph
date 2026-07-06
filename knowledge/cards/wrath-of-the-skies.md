@@ -10,25 +10,25 @@ type: Sorcery
 meta_presence: 0.3532
 archetypes:
   boros-energy:
-    weight: 0.973
+    weight: 0.9724
     avg_copies: 2.09
   jeskai-energy:
-    weight: 0.9923
+    weight: 0.9924
     avg_copies: 1.56
   eldrazi-tron:
-    weight: 0.0045
+    weight: 0.0043
     avg_copies: 2.0
   goryo:
-    weight: 0.9683
-    avg_copies: 2.33
+    weight: 0.9694
+    avg_copies: 2.32
   azorius-control:
-    weight: 0.918
-    avg_copies: 1.83
+    weight: 0.9242
+    avg_copies: 1.86
   jeskai-control:
-    weight: 0.973
+    weight: 0.9737
     avg_copies: 2.0
   domain-zoo:
-    weight: 0.9909
+    weight: 0.9911
     avg_copies: 2.17
   reanimator:
     weight: 0.037
@@ -44,7 +44,7 @@ archetypes:
     avg_copies: 2.0
   esper-blink:
     weight: 1.0
-    avg_copies: 2.38
+    avg_copies: 2.35
   orzhov-blink:
     weight: 1.0
     avg_copies: 2.7
@@ -52,8 +52,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.8846
-    avg_copies: 2.7
+    weight: 0.8909
+    avg_copies: 2.71
   bant-ritual:
     weight: 1.0
     avg_copies: 2.0
@@ -98,10 +98,10 @@ archetypes:
     avg_copies: 2.0
   unknown-22:
     weight: 1.0
-    avg_copies: 1.75
+    avg_copies: 1.83
   unknown-26:
     weight: 1.0
-    avg_copies: 3.94
+    avg_copies: 3.95
   unknown-48:
     weight: 1.0
     avg_copies: 4.0
@@ -113,7 +113,7 @@ archetypes:
     avg_copies: 1.58
   unknown-70:
     weight: 1.0
-    avg_copies: 2.29
+    avg_copies: 2.2
   unknown-74:
     weight: 1.0
     avg_copies: 4.0
@@ -152,7 +152,7 @@ archetypes:
     avg_copies: 3.0
   unknown-106:
     weight: 1.0
-    avg_copies: 1.93
+    avg_copies: 2.06
   unknown-108:
     weight: 1.0
     avg_copies: 1.0
@@ -200,7 +200,7 @@ archetypes:
     avg_copies: 2.0
   unknown-160:
     weight: 1.0
-    avg_copies: 3.74
+    avg_copies: 3.76
   unknown-166:
     weight: 1.0
     avg_copies: 4.0
@@ -216,4 +216,7 @@ archetypes:
   unknown-175:
     weight: 1.0
     avg_copies: 3.0
+  unknown-177:
+    weight: 1.0
+    avg_copies: 2.0
 ---

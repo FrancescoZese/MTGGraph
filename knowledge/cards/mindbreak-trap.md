@@ -10,9 +10,9 @@ type: Instant — Trap
 meta_presence: 0.0004
 archetypes:
   mill:
-    weight: 0.0345
+    weight: 0.0323
     avg_copies: 1.0
   mono-blue-tron:
-    weight: 0.0556
+    weight: 0.05
     avg_copies: 2.0
 ---

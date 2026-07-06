@@ -7,10 +7,10 @@ name: Chandra, Torch of Defiance
 scryfall_id: 40cb22c8-cb03-45c9-bb0e-b8cabdcc43cd
 set: fra
 type: Legendary Planeswalker — Chandra
-meta_presence: 0.003
+meta_presence: 0.0029
 archetypes:
   boros-energy:
-    weight: 0.0017
+    weight: 0.0016
     avg_copies: 1.0
   boros-ponza:
     weight: 0.0935

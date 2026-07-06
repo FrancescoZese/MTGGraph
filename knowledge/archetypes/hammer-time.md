@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: Hammer Time
-meta_share: 0.0019
+meta_share: 0.0018
 list_count: 9
 top_cards:
 - name: Stoneforge Mystic
@@ -93,10 +93,10 @@ top_cards:
 - name: Kappa Cannoneer
   weight: 0.4444
   avg_copies: 1.5
-- name: Cryptic Coat
+- name: Pithing Needle
   weight: 0.4444
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Cryptic Coat
   weight: 0.4444
   avg_copies: 1.0
 - name: Stern Scolding
@@ -126,16 +126,16 @@ top_cards:
 - name: Sigarda's Aid
   weight: 0.2222
   avg_copies: 1.5
-- name: Paradise Mantle
-  weight: 0.2222
-  avg_copies: 1.0
 - name: Voice of Victory
   weight: 0.2222
   avg_copies: 1.0
-- name: Flare of Fortitude
+- name: Paradise Mantle
+  weight: 0.2222
+  avg_copies: 1.0
+- name: Mishra's Bauble
   weight: 0.1111
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Flare of Fortitude
   weight: 0.1111
   avg_copies: 4.0
 - name: Containment Priest
