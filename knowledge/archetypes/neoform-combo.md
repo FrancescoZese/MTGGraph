@@ -6,7 +6,7 @@ colors:
 - R
 - G
 name: Neoform Combo
-meta_share: 0.0121
+meta_share: 0.012
 list_count: 59
 top_cards:
 - name: Eldritch Evolution
@@ -135,10 +135,10 @@ top_cards:
 - name: Island
   weight: 0.1695
   avg_copies: 1.1
-- name: Preordain
+- name: Thrun, the Last Troll
   weight: 0.0508
   avg_copies: 2.33
-- name: Thrun, the Last Troll
+- name: Preordain
   weight: 0.0508
   avg_copies: 2.33
 - name: Eladamri's Call
@@ -150,22 +150,22 @@ top_cards:
 - name: Meticulous Archive
   weight: 0.0508
   avg_copies: 1.0
+- name: Gemstone Mine
+  weight: 0.0339
+  avg_copies: 4.0
 - name: Invasion of Gobakhan
   weight: 0.0339
   avg_copies: 4.0
 - name: Glittering Wish
   weight: 0.0339
   avg_copies: 4.0
-- name: Gemstone Mine
-  weight: 0.0339
-  avg_copies: 4.0
-- name: Rakshasa's Bargain
+- name: Abrupt Decay
   weight: 0.0339
   avg_copies: 3.0
 - name: Thundertrap Trainer
   weight: 0.0339
   avg_copies: 3.0
-- name: Abrupt Decay
+- name: Rakshasa's Bargain
   weight: 0.0339
   avg_copies: 3.0
 - name: Nature's Chant
@@ -174,7 +174,22 @@ top_cards:
 - name: Stump Stomp
   weight: 0.0339
   avg_copies: 1.0
+- name: Firespout
+  weight: 0.0339
+  avg_copies: 1.0
+- name: Detention Sphere
+  weight: 0.0339
+  avg_copies: 1.0
+- name: Undercity Sewers
+  weight: 0.0339
+  avg_copies: 1.0
 - name: Raph & Mikey, Troublemakers
+  weight: 0.0339
+  avg_copies: 1.0
+- name: Lush Portico
+  weight: 0.0339
+  avg_copies: 1.0
+- name: Wan Shi Tong, Librarian
   weight: 0.0339
   avg_copies: 1.0
 - name: Underground Mortuary
@@ -183,25 +198,13 @@ top_cards:
 - name: Borborygmos Enraged
   weight: 0.0339
   avg_copies: 1.0
-- name: Wan Shi Tong, Librarian
-  weight: 0.0339
-  avg_copies: 1.0
-- name: Detention Sphere
-  weight: 0.0339
-  avg_copies: 1.0
-- name: Lush Portico
-  weight: 0.0339
-  avg_copies: 1.0
-- name: Firespout
-  weight: 0.0339
-  avg_copies: 1.0
-- name: Undercity Sewers
-  weight: 0.0339
-  avg_copies: 1.0
 - name: Detect Intrusion
   weight: 0.0169
   avg_copies: 4.0
 - name: Geometer's Arthropod
+  weight: 0.0169
+  avg_copies: 4.0
+- name: Voice of Victory
   weight: 0.0169
   avg_copies: 4.0
 - name: Hexing Squelcher
@@ -210,16 +213,22 @@ top_cards:
 - name: Summoning Trap
   weight: 0.0169
   avg_copies: 4.0
-- name: Voice of Victory
-  weight: 0.0169
-  avg_copies: 4.0
 - name: Quandrix Charm
   weight: 0.0169
   avg_copies: 3.0
-- name: Dismember
+- name: Crucible of Worlds
   weight: 0.0169
   avg_copies: 1.0
-- name: Brainsurge
+- name: Force of Vigor
+  weight: 0.0169
+  avg_copies: 1.0
+- name: Temple Garden
+  weight: 0.0169
+  avg_copies: 1.0
+- name: Subtlety
+  weight: 0.0169
+  avg_copies: 1.0
+- name: Commercial District
   weight: 0.0169
   avg_copies: 1.0
 - name: Leatherhead, Swamp Stalker
@@ -228,25 +237,16 @@ top_cards:
 - name: Hallowed Fountain
   weight: 0.0169
   avg_copies: 1.0
-- name: Commercial District
-  weight: 0.0169
-  avg_copies: 1.0
-- name: Subtlety
-  weight: 0.0169
-  avg_copies: 1.0
 - name: Thundering Falls
-  weight: 0.0169
-  avg_copies: 1.0
-- name: Force of Vigor
   weight: 0.0169
   avg_copies: 1.0
 - name: Stormkeld Vanguard
   weight: 0.0169
   avg_copies: 1.0
-- name: Crucible of Worlds
+- name: Brainsurge
   weight: 0.0169
   avg_copies: 1.0
-- name: Temple Garden
+- name: Dismember
   weight: 0.0169
   avg_copies: 1.0
 ---

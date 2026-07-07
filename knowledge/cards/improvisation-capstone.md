@@ -13,7 +13,7 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   unknown-45:
-    weight: 0.0455
+    weight: 0.0435
     avg_copies: 1.0
   unknown-104:
     weight: 1.0

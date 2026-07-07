@@ -7,10 +7,10 @@ name: Stormscale Scion
 scryfall_id: 0ac43386-bd32-425c-8776-cec00b064cbc
 set: tdm
 type: Creature — Dragon
-meta_presence: 0.0127
+meta_presence: 0.0128
 archetypes:
   ruby-storm:
-    weight: 0.1607
+    weight: 0.1637
     avg_copies: 1.07
   mono-red-belcher:
     weight: 1.0

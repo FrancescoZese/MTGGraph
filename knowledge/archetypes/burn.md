@@ -3,13 +3,13 @@ colors:
 - W
 - R
 name: Burn
-meta_share: 0.0062
+meta_share: 0.0061
 list_count: 30
 top_cards:
-- name: Lava Spike
+- name: Boltwave
   weight: 1.0
   avg_copies: 4.0
-- name: Boltwave
+- name: Lava Spike
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
@@ -24,10 +24,10 @@ top_cards:
 - name: Wooded Foothills
   weight: 1.0
   avg_copies: 1.57
-- name: Goblin Guide
+- name: Monastery Swiftspear
   weight: 0.9667
   avg_copies: 4.0
-- name: Monastery Swiftspear
+- name: Goblin Guide
   weight: 0.9667
   avg_copies: 4.0
 - name: Arid Mesa
@@ -147,16 +147,16 @@ top_cards:
 - name: Magebane Lizard
   weight: 0.0667
   avg_copies: 2.5
-- name: Orim's Chant
-  weight: 0.0667
-  avg_copies: 1.5
 - name: Path to Exile
   weight: 0.0667
   avg_copies: 1.5
-- name: Vexing Devil
+- name: Orim's Chant
+  weight: 0.0667
+  avg_copies: 1.5
+- name: Iridescent Vinelasher
   weight: 0.0333
   avg_copies: 4.0
-- name: Iridescent Vinelasher
+- name: Vexing Devil
   weight: 0.0333
   avg_copies: 4.0
 - name: Containment Priest
@@ -165,6 +165,9 @@ top_cards:
 - name: Faerie Macabre
   weight: 0.0333
   avg_copies: 3.0
+- name: Relic of Progenitus
+  weight: 0.0333
+  avg_copies: 2.0
 - name: Tunnel Ignus
   weight: 0.0333
   avg_copies: 2.0
@@ -177,34 +180,31 @@ top_cards:
 - name: Kor Firewalker
   weight: 0.0333
   avg_copies: 2.0
-- name: Relic of Progenitus
-  weight: 0.0333
-  avg_copies: 2.0
-- name: Snow-Covered Mountain
-  weight: 0.0333
-  avg_copies: 1.0
-- name: card:volcanic-fallout
-  weight: 0.0333
-  avg_copies: 1.0
 - name: Rain of Gore
   weight: 0.0333
   avg_copies: 1.0
 - name: Void Mirror
   weight: 0.0333
   avg_copies: 1.0
-- name: Erode
+- name: Deafening Silence
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Snow-Covered Mountain
+  weight: 0.0333
+  avg_copies: 1.0
+- name: card:volcanic-fallout
   weight: 0.0333
   avg_copies: 1.0
 - name: Rakdos Charm
   weight: 0.0333
   avg_copies: 1.0
-- name: Deafening Silence
+- name: Blood Moon
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Erode
   weight: 0.0333
   avg_copies: 1.0
 - name: Ensnaring Bridge
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Blood Moon
   weight: 0.0333
   avg_copies: 1.0
 ---

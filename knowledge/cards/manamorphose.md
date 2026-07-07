@@ -8,7 +8,7 @@ name: Manamorphose
 scryfall_id: faf9070e-14be-4ce5-a19a-6addc79359c1
 set: 2xm
 type: Instant
-meta_presence: 0.0438
+meta_presence: 0.0442
 archetypes:
   ruby-storm:
     weight: 1.0
@@ -17,7 +17,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   izzet-prowess:
-    weight: 0.0083
+    weight: 0.0082
     avg_copies: 4.0
   dredge:
     weight: 0.0455
@@ -32,6 +32,9 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-40:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-180:
     weight: 1.0
     avg_copies: 4.0
 ---

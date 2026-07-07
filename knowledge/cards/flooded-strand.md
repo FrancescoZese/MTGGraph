@@ -6,10 +6,10 @@ name: Flooded Strand
 scryfall_id: 8f85e12c-196b-4459-b81f-0c9c854e9f57
 set: mh3
 type: Land
-meta_presence: 0.3501
+meta_presence: 0.3505
 archetypes:
   boros-energy:
-    weight: 0.8458
+    weight: 0.8473
     avg_copies: 3.44
   dimir-control:
     weight: 0.8765
@@ -30,7 +30,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.89
   affinity:
-    weight: 0.0208
+    weight: 0.0206
     avg_copies: 1.89
   domain-zoo:
     weight: 0.9821
@@ -54,14 +54,14 @@ archetypes:
     weight: 0.0909
     avg_copies: 1.43
   izzet-prowess:
-    weight: 0.0083
+    weight: 0.0082
     avg_copies: 1.0
   4c-omnath:
     weight: 1.0
     avg_copies: 4.0
   esper-blink:
     weight: 1.0
-    avg_copies: 3.82
+    avg_copies: 3.83
   orzhov-blink:
     weight: 0.4444
     avg_copies: 2.25
@@ -109,7 +109,7 @@ archetypes:
     avg_copies: 4.0
   unknown-5:
     weight: 1.0
-    avg_copies: 3.33
+    avg_copies: 3.5
   unknown-9:
     weight: 1.0
     avg_copies: 3.0
@@ -166,7 +166,7 @@ archetypes:
     avg_copies: 2.0
   unknown-70:
     weight: 1.0
-    avg_copies: 3.7
+    avg_copies: 3.73
   unknown-74:
     weight: 1.0
     avg_copies: 2.0
@@ -186,7 +186,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-85:
-    weight: 0.9
+    weight: 0.9091
     avg_copies: 4.0
   unknown-84:
     weight: 1.0
@@ -285,6 +285,9 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-175:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-179:
     weight: 1.0
     avg_copies: 4.0
 ---

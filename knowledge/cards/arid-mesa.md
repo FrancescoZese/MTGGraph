@@ -6,20 +6,20 @@ name: Arid Mesa
 scryfall_id: 25ac5405-df7b-4097-914a-022cb18e20d4
 set: mh2
 type: Land
-meta_presence: 0.3509
+meta_presence: 0.3513
 archetypes:
   ruby-storm:
-    weight: 0.8988
-    avg_copies: 2.5
+    weight: 0.8947
+    avg_copies: 2.52
   boros-energy:
     weight: 1.0
-    avg_copies: 3.83
+    avg_copies: 3.82
   jeskai-energy:
     weight: 0.9924
     avg_copies: 3.78
   azorius-control:
-    weight: 0.9545
-    avg_copies: 2.02
+    weight: 0.9552
+    avg_copies: 2.03
   jeskai-control:
     weight: 0.9737
     avg_copies: 3.59
@@ -42,8 +42,8 @@ archetypes:
     weight: 0.0935
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.8299
-    avg_copies: 2.37
+    weight: 0.8313
+    avg_copies: 2.38
   indomitable-creativity:
     weight: 0.9286
     avg_copies: 3.77
@@ -102,8 +102,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-22:
-    weight: 0.6667
-    avg_copies: 1.5
+    weight: 0.75
+    avg_copies: 1.67
   unknown-23:
     weight: 0.5
     avg_copies: 2.33
@@ -123,14 +123,14 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.0167
+    weight: 0.0164
     avg_copies: 1.0
   unknown-68:
     weight: 1.0
     avg_copies: 3.74
   unknown-70:
     weight: 1.0
-    avg_copies: 3.6
+    avg_copies: 3.64
   unknown-71:
     weight: 1.0
     avg_copies: 3.0
@@ -144,7 +144,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 3.0
   unknown-85:
-    weight: 0.8
+    weight: 0.8182
     avg_copies: 4.0
   unknown-86:
     weight: 0.7143
@@ -198,8 +198,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-122:
-    weight: 0.85
-    avg_copies: 2.12
+    weight: 0.8571
+    avg_copies: 2.17
   unknown-123:
     weight: 1.0
     avg_copies: 2.0
@@ -228,7 +228,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-160:
-    weight: 0.25
+    weight: 0.2333
     avg_copies: 1.0
   unknown-161:
     weight: 1.0
@@ -248,4 +248,7 @@ archetypes:
   unknown-178:
     weight: 1.0
     avg_copies: 2.0
+  unknown-179:
+    weight: 1.0
+    avg_copies: 4.0
 ---

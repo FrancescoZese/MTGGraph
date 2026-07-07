@@ -16,11 +16,11 @@ archetypes:
     weight: 0.013
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0996
+    weight: 0.0988
     avg_copies: 1.92
   broodscale-combo:
-    weight: 0.199
-    avg_copies: 1.79
+    weight: 0.201
+    avg_copies: 1.77
   dredge:
     weight: 0.3182
     avg_copies: 2.0
@@ -43,7 +43,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.0
   unknown-85:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 2.0
   unknown-121:
     weight: 1.0

@@ -19,7 +19,7 @@ archetypes:
     weight: 0.9924
     avg_copies: 3.82
   goryo:
-    weight: 0.738
+    weight: 0.7403
     avg_copies: 3.35
   necrodominance:
     weight: 0.0256
@@ -40,7 +40,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.5
   esper-blink:
-    weight: 0.978
+    weight: 0.9783
     avg_copies: 3.58
   bant-control:
     weight: 1.0
@@ -58,7 +58,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.1894
+    weight: 0.188
     avg_copies: 1.37
   goryo2:
     weight: 1.0
@@ -76,7 +76,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-5:
-    weight: 0.6667
+    weight: 0.75
     avg_copies: 4.0
   unknown-7:
     weight: 1.0
@@ -84,6 +84,9 @@ archetypes:
   unknown-15:
     weight: 0.6
     avg_copies: 2.5
+  unknown-22:
+    weight: 0.25
+    avg_copies: 2.0
   unknown-39:
     weight: 1.0
     avg_copies: 4.0
@@ -103,11 +106,11 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-67:
-    weight: 0.0833
+    weight: 0.082
     avg_copies: 1.12
   unknown-70:
     weight: 1.0
-    avg_copies: 3.8
+    avg_copies: 3.82
   unknown-74:
     weight: 1.0
     avg_copies: 4.0
@@ -121,7 +124,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-85:
-    weight: 0.2
+    weight: 0.1818
     avg_copies: 2.0
   unknown-84:
     weight: 1.0

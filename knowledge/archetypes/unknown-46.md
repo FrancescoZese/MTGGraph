@@ -12,10 +12,10 @@ top_cards:
 - name: Soul Spike
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Boggart Trawler
   weight: 1.0
   avg_copies: 4.0
-- name: Boggart Trawler
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Swamp
@@ -45,22 +45,22 @@ top_cards:
 - name: Culling Ritual
   weight: 1.0
   avg_copies: 2.12
+- name: Underground Mortuary
+  weight: 1.0
+  avg_copies: 2.0
+- name: Overgrown Tomb
+  weight: 1.0
+  avg_copies: 2.0
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 2.0
 - name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 2.0
 - name: Castle Locthwain
   weight: 1.0
   avg_copies: 2.0
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 2.0
-- name: Overgrown Tomb
-  weight: 1.0
-  avg_copies: 2.0
 - name: March of Wretched Sorrow
-  weight: 1.0
-  avg_copies: 2.0
-- name: Underground Mortuary
   weight: 1.0
   avg_copies: 2.0
 - name: Professor Dellian Fel

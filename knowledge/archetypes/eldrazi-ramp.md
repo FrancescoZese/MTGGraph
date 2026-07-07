@@ -2,25 +2,25 @@
 colors:
 - G
 name: Eldrazi Ramp
-meta_share: 0.0222
+meta_share: 0.022
 list_count: 108
 top_cards:
 - name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
-- name: Ugin's Labyrinth
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
-- name: Kozilek's Command
+- name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
   weight: 1.0
   avg_copies: 3.95
-- name: Malevolent Rumble
+- name: Utopia Sprawl
   weight: 1.0
   avg_copies: 3.94
-- name: Utopia Sprawl
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 3.94
 - name: Emrakul, the Promised End
@@ -194,10 +194,10 @@ top_cards:
 - name: Torpor Orb
   weight: 0.0463
   avg_copies: 2.0
-- name: Surgical Extraction
+- name: Strix Serenade
   weight: 0.0463
   avg_copies: 1.6
-- name: Strix Serenade
+- name: Surgical Extraction
   weight: 0.0463
   avg_copies: 1.6
 - name: Field Trip
@@ -209,28 +209,28 @@ top_cards:
 - name: Blood Moon
   weight: 0.037
   avg_copies: 2.0
-- name: Ilharg, the Raze-Boar
+- name: Void Mirror
   weight: 0.037
   avg_copies: 1.0
 - name: Six
   weight: 0.037
   avg_copies: 1.0
-- name: Iroh's Demonstration
-  weight: 0.037
-  avg_copies: 1.0
 - name: Origin of Metalbending
   weight: 0.037
   avg_copies: 1.0
-- name: Void Mirror
+- name: Palantír of Orthanc
   weight: 0.037
   avg_copies: 1.0
 - name: Arena of Glory
   weight: 0.037
   avg_copies: 1.0
+- name: Iroh's Demonstration
+  weight: 0.037
+  avg_copies: 1.0
 - name: Improvisation Capstone
   weight: 0.037
   avg_copies: 1.0
-- name: Palantír of Orthanc
+- name: Ilharg, the Raze-Boar
   weight: 0.037
   avg_copies: 1.0
 - name: Talisman of Resilience
@@ -239,16 +239,16 @@ top_cards:
 - name: Blasphemous Act
   weight: 0.0278
   avg_copies: 1.67
-- name: Price of Freedom
+- name: Vibrance
   weight: 0.0278
   avg_copies: 1.0
 - name: True Ancestry
   weight: 0.0278
   avg_copies: 1.0
-- name: Damping Sphere
+- name: Price of Freedom
   weight: 0.0278
   avg_copies: 1.0
-- name: Vibrance
+- name: Damping Sphere
   weight: 0.0278
   avg_copies: 1.0
 - name: Redirect Lightning
@@ -263,6 +263,9 @@ top_cards:
 - name: Stone Rain
   weight: 0.0185
   avg_copies: 1.5
+- name: Wastescape Battlemage
+  weight: 0.0185
+  avg_copies: 1.0
 - name: Firebending Lesson
   weight: 0.0185
   avg_copies: 1.0
@@ -270,9 +273,6 @@ top_cards:
   weight: 0.0185
   avg_copies: 1.0
 - name: Underground Mortuary
-  weight: 0.0185
-  avg_copies: 1.0
-- name: Wastescape Battlemage
   weight: 0.0185
   avg_copies: 1.0
 - name: Thief of Existence
@@ -287,52 +287,52 @@ top_cards:
 - name: Relic of Progenitus
   weight: 0.0093
   avg_copies: 2.0
-- name: Ratchet Bomb
+- name: Ugin, the Spirit Dragon
   weight: 0.0093
   avg_copies: 1.0
 - name: Walking Ballista
   weight: 0.0093
   avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 0.0093
-  avg_copies: 1.0
-- name: card:platinum-emperion
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Hedron Archive
-  weight: 0.0093
-  avg_copies: 1.0
-- name: card:the-ten-rings
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Endurance
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Untimely Malfunction
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Peer Past the Veil
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Darksteel Citadel
-  weight: 0.0093
-  avg_copies: 1.0
 - name: Ketria Triome
   weight: 0.0093
   avg_copies: 1.0
-- name: card:esper-origins
+- name: Collector Ouphe
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Culling Ritual
   weight: 0.0093
   avg_copies: 1.0
 - name: Mutable Explorer
   weight: 0.0093
   avg_copies: 1.0
-- name: Ugin, the Spirit Dragon
+- name: card:platinum-emperion
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Endurance
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Darksteel Citadel
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Peer Past the Veil
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Ratchet Bomb
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Untimely Malfunction
   weight: 0.0093
   avg_copies: 1.0
 - name: Seismic Sense
   weight: 0.0093
   avg_copies: 1.0
-- name: Culling Ritual
+- name: card:the-ten-rings
+  weight: 0.0093
+  avg_copies: 1.0
+- name: card:esper-origins
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Hedron Archive
   weight: 0.0093
   avg_copies: 1.0
 ---

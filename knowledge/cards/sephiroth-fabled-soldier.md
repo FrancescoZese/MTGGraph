@@ -7,7 +7,7 @@ scryfall_id: 85eaf5e7-77dc-4842-a70c-ce4ac7f724df
 set: fin
 type: Legendary Creature — Human Avatar Soldier // Legendary Creature — Angel Nightmare
   Avatar
-meta_presence: 0.0131
+meta_presence: 0.013
 archetypes:
   boros-energy:
     weight: 0.0016
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.1207
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0051
+    weight: 0.005
     avg_copies: 3.0
   soultrader-combo:
     weight: 0.2

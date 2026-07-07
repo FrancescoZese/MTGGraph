@@ -7,13 +7,13 @@ name: 'Unknown #109'
 meta_share: 0.0018
 list_count: 9
 top_cards:
-- name: Flooded Strand
+- name: Orim's Chant
   weight: 1.0
   avg_copies: 4.0
 - name: Narset, Parter of Veils
   weight: 1.0
   avg_copies: 4.0
-- name: Orim's Chant
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Flow State
@@ -31,10 +31,10 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 2.0
-- name: Day's Undoing
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.0
-- name: Hallowed Fountain
+- name: Day's Undoing
   weight: 1.0
   avg_copies: 2.0
 - name: Surgical Extraction
@@ -55,10 +55,10 @@ top_cards:
 - name: Hall of Storm Giants
   weight: 1.0
   avg_copies: 1.0
-- name: Monumental Henge
+- name: Geier Reach Sanitarium
   weight: 1.0
   avg_copies: 1.0
-- name: Geier Reach Sanitarium
+- name: Monumental Henge
   weight: 1.0
   avg_copies: 1.0
 - name: Galvanic Discharge
@@ -82,10 +82,10 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.7778
   avg_copies: 3.14
-- name: The Wandering Emperor
+- name: Thundering Falls
   weight: 0.7778
   avg_copies: 1.0
-- name: Thundering Falls
+- name: The Wandering Emperor
   weight: 0.7778
   avg_copies: 1.0
 - name: Counterspell
@@ -97,16 +97,16 @@ top_cards:
 - name: Tune the Narrative
   weight: 0.5556
   avg_copies: 3.4
-- name: Teferi, Hero of Dominaria
-  weight: 0.5556
-  avg_copies: 1.0
 - name: Jace, the Mind Sculptor
   weight: 0.5556
   avg_copies: 1.0
-- name: Supreme Verdict
+- name: Teferi, Hero of Dominaria
+  weight: 0.5556
+  avg_copies: 1.0
+- name: Dovin's Veto
   weight: 0.4444
   avg_copies: 2.0
-- name: Dovin's Veto
+- name: Supreme Verdict
   weight: 0.4444
   avg_copies: 2.0
 - name: High Noon
@@ -121,13 +121,10 @@ top_cards:
 - name: Arid Mesa
   weight: 0.1111
   avg_copies: 2.0
-- name: Beza, the Bounding Spring
-  weight: 0.1111
-  avg_copies: 1.0
-- name: card:glen-elendra-s-answer
-  weight: 0.1111
-  avg_copies: 1.0
 - name: Mistrise Village
+  weight: 0.1111
+  avg_copies: 1.0
+- name: card:temporal-trespass
   weight: 0.1111
   avg_copies: 1.0
 - name: Zirda, the Dawnwaker
@@ -136,7 +133,10 @@ top_cards:
 - name: Relic of Progenitus
   weight: 0.1111
   avg_copies: 1.0
-- name: card:temporal-trespass
+- name: card:glen-elendra-s-answer
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Beza, the Bounding Spring
   weight: 0.1111
   avg_copies: 1.0
 ---

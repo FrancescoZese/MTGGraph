@@ -3,13 +3,13 @@ colors:
 - W
 - U
 name: Azorius Blink
-meta_share: 0.0113
+meta_share: 0.0112
 list_count: 55
 top_cards:
-- name: Ocelot Pride
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 3.95
-- name: Guide of Souls
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 3.95
 - name: Solitude
@@ -147,7 +147,7 @@ top_cards:
 - name: Idyllic Grange
   weight: 0.0909
   avg_copies: 1.2
-- name: Wear
+- name: Temple Garden
   weight: 0.0909
   avg_copies: 1.0
 - name: Gran-Gran
@@ -156,16 +156,16 @@ top_cards:
 - name: Haywire Mite
   weight: 0.0909
   avg_copies: 1.0
-- name: Temple Garden
+- name: Wear
   weight: 0.0909
   avg_copies: 1.0
 - name: Voice of Victory
   weight: 0.0545
   avg_copies: 2.0
-- name: Floodfarm Verge
+- name: Orim's Chant
   weight: 0.0545
   avg_copies: 1.67
-- name: Orim's Chant
+- name: Floodfarm Verge
   weight: 0.0545
   avg_copies: 1.67
 - name: card:overlord-of-the-mistmoors
@@ -180,13 +180,13 @@ top_cards:
 - name: Thraben Charm
   weight: 0.0545
   avg_copies: 1.0
-- name: card:the-mind-stone
-  weight: 0.0545
-  avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
   weight: 0.0545
   avg_copies: 1.0
 - name: Erode
+  weight: 0.0545
+  avg_copies: 1.0
+- name: card:the-mind-stone
   weight: 0.0545
   avg_copies: 1.0
 - name: Test of Talents
@@ -195,37 +195,40 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.0364
   avg_copies: 1.5
-- name: Elegant Parlor
-  weight: 0.0364
-  avg_copies: 1.0
 - name: Stony Silence
   weight: 0.0364
   avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.0364
   avg_copies: 1.0
+- name: Elegant Parlor
+  weight: 0.0364
+  avg_copies: 1.0
 - name: Practiced Offense
   weight: 0.0364
   avg_copies: 1.0
-- name: Overlord of the Balemurk
+- name: Snow-Covered Plains
   weight: 0.0182
   avg_copies: 4.0
-- name: Snow-Covered Plains
+- name: Overlord of the Balemurk
   weight: 0.0182
   avg_copies: 4.0
 - name: Ajani, Nacatl Pariah
   weight: 0.0182
   avg_copies: 4.0
-- name: Leonardo, Cutting Edge
-  weight: 0.0182
-  avg_copies: 3.0
 - name: Agatha's Soul Cauldron
   weight: 0.0182
   avg_copies: 3.0
 - name: Goblin Bombardment
   weight: 0.0182
   avg_copies: 3.0
+- name: Leonardo, Cutting Edge
+  weight: 0.0182
+  avg_copies: 3.0
 - name: Walking Ballista
+  weight: 0.0182
+  avg_copies: 2.0
+- name: Flare of Fortitude
   weight: 0.0182
   avg_copies: 2.0
 - name: Mystic Gate
@@ -240,16 +243,34 @@ top_cards:
 - name: Godless Shrine
   weight: 0.0182
   avg_copies: 2.0
-- name: Flare of Fortitude
+- name: Snow-Covered Island
   weight: 0.0182
-  avg_copies: 2.0
-- name: Skycoach Conductor
+  avg_copies: 1.0
+- name: Flitterwing Nuisance
+  weight: 0.0182
+  avg_copies: 1.0
+- name: Cryptic Command
+  weight: 0.0182
+  avg_copies: 1.0
+- name: Nihil Spellbomb
+  weight: 0.0182
+  avg_copies: 1.0
+- name: Heliod, Sun-Crowned
+  weight: 0.0182
+  avg_copies: 1.0
+- name: Kataki, War's Wage
+  weight: 0.0182
+  avg_copies: 1.0
+- name: Polluted Delta
   weight: 0.0182
   avg_copies: 1.0
 - name: Hurkyl's Recall
   weight: 0.0182
   avg_copies: 1.0
-- name: Cryptic Command
+- name: Shadowy Backstreet
+  weight: 0.0182
+  avg_copies: 1.0
+- name: Sink into Stupor
   weight: 0.0182
   avg_copies: 1.0
 - name: Watery Grave
@@ -258,40 +279,19 @@ top_cards:
 - name: Mistcaller
   weight: 0.0182
   avg_copies: 1.0
-- name: Kataki, War's Wage
-  weight: 0.0182
-  avg_copies: 1.0
-- name: Sink into Stupor
-  weight: 0.0182
-  avg_copies: 1.0
-- name: Flitterwing Nuisance
+- name: Winternight Stories
   weight: 0.0182
   avg_copies: 1.0
 - name: Enduring Innocence
   weight: 0.0182
   avg_copies: 1.0
-- name: Polluted Delta
-  weight: 0.0182
-  avg_copies: 1.0
-- name: Nihil Spellbomb
-  weight: 0.0182
-  avg_copies: 1.0
-- name: Winternight Stories
-  weight: 0.0182
-  avg_copies: 1.0
-- name: Heliod, Sun-Crowned
-  weight: 0.0182
-  avg_copies: 1.0
-- name: Shadowy Backstreet
+- name: Ragavan, Nimble Pilferer
   weight: 0.0182
   avg_copies: 1.0
 - name: Eiganjo, Seat of the Empire
   weight: 0.0182
   avg_copies: 1.0
-- name: Snow-Covered Island
-  weight: 0.0182
-  avg_copies: 1.0
-- name: Ragavan, Nimble Pilferer
+- name: Skycoach Conductor
   weight: 0.0182
   avg_copies: 1.0
 ---

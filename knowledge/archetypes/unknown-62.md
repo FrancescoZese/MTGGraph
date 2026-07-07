@@ -129,22 +129,22 @@ top_cards:
 - name: No More Lies
   weight: 0.12
   avg_copies: 1.67
+- name: Ranger-Captain of Eos
+  weight: 0.12
+  avg_copies: 1.33
+- name: Momo, Friendly Flier
+  weight: 0.12
+  avg_copies: 1.33
 - name: Sacred Foundry
   weight: 0.12
   avg_copies: 1.33
 - name: Haliya, Guided by Light
   weight: 0.12
   avg_copies: 1.33
-- name: Momo, Friendly Flier
-  weight: 0.12
-  avg_copies: 1.33
-- name: Ranger-Captain of Eos
-  weight: 0.12
-  avg_copies: 1.33
-- name: Haywire Mite
+- name: Temple Garden
   weight: 0.12
   avg_copies: 1.0
-- name: Temple Garden
+- name: Haywire Mite
   weight: 0.12
   avg_copies: 1.0
 - name: Damping Sphere
@@ -159,28 +159,25 @@ top_cards:
 - name: Thraben Charm
   weight: 0.08
   avg_copies: 1.25
-- name: Wear
-  weight: 0.08
-  avg_copies: 1.0
 - name: Drannith Magistrate
   weight: 0.08
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.08
   avg_copies: 1.0
+- name: Wear
+  weight: 0.08
+  avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
   weight: 0.04
   avg_copies: 3.0
-- name: Obsidian Charmaw
-  weight: 0.04
-  avg_copies: 2.0
 - name: Floodfarm Verge
   weight: 0.04
   avg_copies: 2.0
-- name: Galvanic Discharge
+- name: Obsidian Charmaw
   weight: 0.04
   avg_copies: 2.0
-- name: card:geist-of-saint-traft
+- name: Galvanic Discharge
   weight: 0.04
   avg_copies: 2.0
 - name: Flagstones of Trokair
@@ -189,28 +186,16 @@ top_cards:
 - name: Goblin Bombardment
   weight: 0.04
   avg_copies: 2.0
-- name: Elegant Parlor
+- name: card:geist-of-saint-traft
+  weight: 0.04
+  avg_copies: 2.0
+- name: Flitterwing Nuisance
   weight: 0.04
   avg_copies: 1.0
 - name: card:exalted-sunborn
   weight: 0.04
   avg_copies: 1.0
-- name: Otawara, Soaring City
-  weight: 0.04
-  avg_copies: 1.0
-- name: Hydroelectric Specimen
-  weight: 0.04
-  avg_copies: 1.0
-- name: Recruiter of the Guard
-  weight: 0.04
-  avg_copies: 1.0
 - name: Celestial Purge
-  weight: 0.04
-  avg_copies: 1.0
-- name: Ajani, Nacatl Pariah
-  weight: 0.04
-  avg_copies: 1.0
-- name: Flitterwing Nuisance
   weight: 0.04
   avg_copies: 1.0
 - name: Meltdown
@@ -220,6 +205,21 @@ top_cards:
   weight: 0.04
   avg_copies: 1.0
 - name: Aven Interrupter
+  weight: 0.04
+  avg_copies: 1.0
+- name: Elegant Parlor
+  weight: 0.04
+  avg_copies: 1.0
+- name: Recruiter of the Guard
+  weight: 0.04
+  avg_copies: 1.0
+- name: Hydroelectric Specimen
+  weight: 0.04
+  avg_copies: 1.0
+- name: Otawara, Soaring City
+  weight: 0.04
+  avg_copies: 1.0
+- name: Ajani, Nacatl Pariah
   weight: 0.04
   avg_copies: 1.0
 ---

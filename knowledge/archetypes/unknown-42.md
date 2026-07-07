@@ -17,13 +17,13 @@ top_cards:
 - name: Master of the Pearl Trident
   weight: 1.0
   avg_copies: 3.67
+- name: Aether Vial
+  weight: 1.0
+  avg_copies: 3.56
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 3.56
 - name: Vodalian Hexcatcher
-  weight: 1.0
-  avg_copies: 3.56
-- name: Aether Vial
   weight: 1.0
   avg_copies: 3.56
 - name: Harbinger of the Seas
@@ -35,10 +35,10 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.11
-- name: Flare of Denial
+- name: Cavern of Souls
   weight: 1.0
   avg_copies: 3.11
-- name: Cavern of Souls
+- name: Flare of Denial
   weight: 1.0
   avg_copies: 3.11
 - name: Tishana's Tidebinder
@@ -95,16 +95,16 @@ top_cards:
 - name: Hurkyl's Recall
   weight: 0.1111
   avg_copies: 2.0
-- name: Glasspool Mimic
-  weight: 0.1111
-  avg_copies: 2.0
 - name: Spell Pierce
   weight: 0.1111
   avg_copies: 2.0
-- name: Oboro, Palace in the Clouds
+- name: Glasspool Mimic
+  weight: 0.1111
+  avg_copies: 2.0
+- name: Gloomlake Verge
   weight: 0.1111
   avg_copies: 1.0
-- name: Gloomlake Verge
+- name: Oboro, Palace in the Clouds
   weight: 0.1111
   avg_copies: 1.0
 ---

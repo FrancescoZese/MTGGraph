@@ -10,10 +10,10 @@ top_cards:
 - name: Counterspell
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Polluted Delta
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
@@ -37,13 +37,13 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 2.17
+- name: Fire Magic
+  weight: 1.0
+  avg_copies: 2.0
 - name: Watery Grave
   weight: 1.0
   avg_copies: 2.0
 - name: Force of Negation
-  weight: 1.0
-  avg_copies: 2.0
-- name: Fire Magic
   weight: 1.0
   avg_copies: 2.0
 - name: Sink into Stupor
@@ -58,10 +58,10 @@ top_cards:
 - name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.17
-- name: Thundering Falls
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Psychic Frog
@@ -79,10 +79,10 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.8333
   avg_copies: 1.2
-- name: Flooded Strand
+- name: Cling to Dust
   weight: 0.8333
   avg_copies: 1.2
-- name: Cling to Dust
+- name: Flooded Strand
   weight: 0.8333
   avg_copies: 1.2
 - name: Thoughtseize
@@ -109,58 +109,58 @@ top_cards:
 - name: Otawara, Soaring City
   weight: 0.3333
   avg_copies: 1.0
+- name: Bloodstained Mire
+  weight: 0.1667
+  avg_copies: 3.0
 - name: Break the Ice
   weight: 0.1667
   avg_copies: 3.0
 - name: Traumatic Critique
   weight: 0.1667
   avg_copies: 3.0
-- name: Bloodstained Mire
-  weight: 0.1667
-  avg_copies: 3.0
-- name: Orcish Bowmasters
+- name: Rakdos Charm
   weight: 0.1667
   avg_copies: 2.0
 - name: Kolaghan's Command
   weight: 0.1667
   avg_copies: 2.0
-- name: Rakdos Charm
+- name: Orcish Bowmasters
   weight: 0.1667
   avg_copies: 2.0
-- name: Hall of Storm Giants
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Blood Crypt
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.1667
-  avg_copies: 1.0
-- name: The Meathook Massacre
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Logic Knot
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Emet-Selch, Unsundered
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Kozilek's Return
+- name: Raucous Theater
   weight: 0.1667
   avg_copies: 1.0
 - name: Consider
   weight: 0.1667
   avg_copies: 1.0
+- name: Spell Pierce
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Blood Crypt
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Kaito, Bane of Nightmares
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Surgical Extraction
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Emet-Selch, Unsundered
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Hall of Storm Giants
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Logic Knot
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Kozilek's Return
   weight: 0.1667
   avg_copies: 1.0
 - name: Mountain
   weight: 0.1667
   avg_copies: 1.0
-- name: Spell Pierce
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Raucous Theater
+- name: The Meathook Massacre
   weight: 0.1667
   avg_copies: 1.0
 ---

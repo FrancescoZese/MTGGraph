@@ -9,13 +9,13 @@ type: Artifact Creature — Beast
 meta_presence: 0.0717
 archetypes:
   goryo:
-    weight: 0.0044
+    weight: 0.0043
     avg_copies: 1.0
   hardened-scales:
     weight: 1.0
     avg_copies: 4.0
   affinity:
-    weight: 0.7921
+    weight: 0.7936
     avg_copies: 1.67
   unknown-98:
     weight: 0.125

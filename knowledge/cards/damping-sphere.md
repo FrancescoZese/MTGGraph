@@ -6,11 +6,11 @@ name: Damping Sphere
 scryfall_id: 550860b4-887d-423a-8add-816c2a8da615
 set: dmr
 type: Artifact
-meta_presence: 0.2825
+meta_presence: 0.2829
 archetypes:
   boros-energy:
-    weight: 0.2955
-    avg_copies: 1.4
+    weight: 0.3006
+    avg_copies: 1.41
   dimir-control:
     weight: 0.1728
     avg_copies: 1.14
@@ -18,10 +18,10 @@ archetypes:
     weight: 0.4122
     avg_copies: 1.44
   eldrazi-tron:
-    weight: 0.0086
+    weight: 0.0085
     avg_copies: 1.0
   goryo:
-    weight: 0.1485
+    weight: 0.1472
     avg_copies: 1.71
   hardened-scales:
     weight: 1.0
@@ -30,7 +30,7 @@ archetypes:
     weight: 0.7692
     avg_copies: 2.03
   azorius-control:
-    weight: 0.0152
+    weight: 0.0149
     avg_copies: 1.0
   living-end:
     weight: 0.5167
@@ -39,7 +39,7 @@ archetypes:
     weight: 0.1842
     avg_copies: 1.71
   affinity:
-    weight: 0.9515
+    weight: 0.9518
     avg_copies: 2.21
   domain-zoo:
     weight: 0.6429
@@ -78,13 +78,13 @@ archetypes:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.5275
-    avg_copies: 2.29
+    weight: 0.5326
+    avg_copies: 2.27
   samwise-combo:
     weight: 0.0345
     avg_copies: 1.5
   broodscale-combo:
-    weight: 0.4286
+    weight: 0.4221
     avg_copies: 1.74
   orzhov-blink:
     weight: 0.6667
@@ -132,14 +132,14 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.7727
+    weight: 0.7744
     avg_copies: 1.83
   goryo4:
     weight: 0.7273
     avg_copies: 2.5
   goryo5:
-    weight: 0.4667
-    avg_copies: 2.14
+    weight: 0.5
+    avg_copies: 2.12
   goryo7:
     weight: 1.0
     avg_copies: 2.0
@@ -150,7 +150,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-5:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 3.0
   unknown-12:
     weight: 1.0
@@ -228,7 +228,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   unknown-85:
-    weight: 0.2
+    weight: 0.1818
     avg_copies: 2.0
   unknown-86:
     weight: 0.1429
@@ -276,8 +276,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-126:
-    weight: 0.875
-    avg_copies: 1.0
+    weight: 0.8824
+    avg_copies: 1.07
   unknown-130:
     weight: 1.0
     avg_copies: 2.0
@@ -317,4 +317,7 @@ archetypes:
   unknown-178:
     weight: 1.0
     avg_copies: 2.0
+  unknown-181:
+    weight: 1.0
+    avg_copies: 1.0
 ---

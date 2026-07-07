@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: 'Unknown #47'
-meta_share: 0.0134
+meta_share: 0.0132
 list_count: 65
 top_cards:
 - name: Fatal Push
@@ -39,10 +39,10 @@ top_cards:
 - name: Spell Snare
   weight: 1.0
   avg_copies: 1.97
-- name: Sink into Stupor
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.94
-- name: Undercity Sewers
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 1.94
 - name: Island
@@ -138,10 +138,10 @@ top_cards:
 - name: Ghost Vacuum
   weight: 0.0923
   avg_copies: 1.33
-- name: Hallowed Fountain
+- name: Meticulous Archive
   weight: 0.0923
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Hallowed Fountain
   weight: 0.0923
   avg_copies: 1.0
 - name: Pest Control
@@ -168,10 +168,10 @@ top_cards:
 - name: Verdant Catacombs
   weight: 0.0462
   avg_copies: 1.33
-- name: Damnation
+- name: Spell Pierce
   weight: 0.0462
   avg_copies: 1.0
-- name: Spell Pierce
+- name: Damnation
   weight: 0.0462
   avg_copies: 1.0
 - name: Flow State
@@ -180,13 +180,13 @@ top_cards:
 - name: Stony Silence
   weight: 0.0308
   avg_copies: 1.0
+- name: Snow-Covered Island
+  weight: 0.0308
+  avg_copies: 1.0
 - name: Snow-Covered Swamp
   weight: 0.0308
   avg_copies: 1.0
 - name: Umezawa's Jitte
-  weight: 0.0308
-  avg_copies: 1.0
-- name: Snow-Covered Island
   weight: 0.0308
   avg_copies: 1.0
 - name: Break the Ice
@@ -201,19 +201,13 @@ top_cards:
 - name: Meltdown
   weight: 0.0154
   avg_copies: 2.0
-- name: River of Tears
-  weight: 0.0154
-  avg_copies: 1.0
 - name: Celestial Purge
   weight: 0.0154
   avg_copies: 1.0
-- name: Fallen Shinobi
-  weight: 0.0154
-  avg_copies: 1.0
-- name: Steam Vents
-  weight: 0.0154
-  avg_copies: 1.0
 - name: Dreams of Steel and Oil
+  weight: 0.0154
+  avg_copies: 1.0
+- name: Snapcaster Mage
   weight: 0.0154
   avg_copies: 1.0
 - name: Strategic Betrayal
@@ -225,7 +219,13 @@ top_cards:
 - name: Thundering Falls
   weight: 0.0154
   avg_copies: 1.0
-- name: Snapcaster Mage
+- name: River of Tears
+  weight: 0.0154
+  avg_copies: 1.0
+- name: Steam Vents
+  weight: 0.0154
+  avg_copies: 1.0
+- name: Fallen Shinobi
   weight: 0.0154
   avg_copies: 1.0
 ---

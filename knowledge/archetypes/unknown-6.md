@@ -10,16 +10,16 @@ top_cards:
 - name: Song of Creation
   weight: 1.0
   avg_copies: 4.0
-- name: Tamiyo, Inquisitive Student
-  weight: 1.0
-  avg_copies: 4.0
-- name: Malevolent Rumble
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Tamiyo, Inquisitive Student
+  weight: 1.0
+  avg_copies: 4.0
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
 - name: Misty Rainforest
@@ -76,22 +76,22 @@ top_cards:
 - name: Unholy Heat
   weight: 0.8
   avg_copies: 1.75
-- name: Tormod's Crypt
-  weight: 0.8
-  avg_copies: 1.0
 - name: Haywire Mite
-  weight: 0.8
-  avg_copies: 1.0
-- name: Otawara, Soaring City
-  weight: 0.8
-  avg_copies: 1.0
-- name: Grapeshot
   weight: 0.8
   avg_copies: 1.0
 - name: Spire of Industry
   weight: 0.8
   avg_copies: 1.0
 - name: Forest
+  weight: 0.8
+  avg_copies: 1.0
+- name: Grapeshot
+  weight: 0.8
+  avg_copies: 1.0
+- name: Otawara, Soaring City
+  weight: 0.8
+  avg_copies: 1.0
+- name: Tormod's Crypt
   weight: 0.8
   avg_copies: 1.0
 - name: Fire Magic
@@ -112,24 +112,21 @@ top_cards:
 - name: Thundering Falls
   weight: 0.6
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Strix Serenade
   weight: 0.6
   avg_copies: 1.0
-- name: Strix Serenade
+- name: Ashiok, Dream Render
   weight: 0.6
   avg_copies: 1.0
 - name: Preordain
   weight: 0.4
   avg_copies: 2.5
-- name: Force of Negation
-  weight: 0.4
-  avg_copies: 1.5
 - name: Swan Song
   weight: 0.4
   avg_copies: 1.5
-- name: Pithing Needle
+- name: Force of Negation
   weight: 0.4
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Boseiju, Who Endures
   weight: 0.4
   avg_copies: 1.0
@@ -137,6 +134,9 @@ top_cards:
   weight: 0.4
   avg_copies: 1.0
 - name: Nature's Claim
+  weight: 0.4
+  avg_copies: 1.0
+- name: Pithing Needle
   weight: 0.4
   avg_copies: 1.0
 - name: Cori-Steel Cutter
@@ -148,19 +148,19 @@ top_cards:
 - name: Galvanic Blast
   weight: 0.2
   avg_copies: 1.0
-- name: Wrenn and Six
-  weight: 0.2
-  avg_copies: 1.0
 - name: Lightning Bolt
   weight: 0.2
   avg_copies: 1.0
 - name: Life from the Loam
   weight: 0.2
   avg_copies: 1.0
-- name: Aether Spellbomb
+- name: Peer Past the Veil
   weight: 0.2
   avg_copies: 1.0
-- name: Peer Past the Veil
+- name: Wrenn and Six
+  weight: 0.2
+  avg_copies: 1.0
+- name: Aether Spellbomb
   weight: 0.2
   avg_copies: 1.0
 ---

@@ -7,22 +7,13 @@ name: 'Unknown #2'
 meta_share: 0.0004
 list_count: 2
 top_cards:
-- name: Thought Scour
-  weight: 1.0
-  avg_copies: 4.0
 - name: Steam Vents
   weight: 1.0
   avg_copies: 4.0
-- name: Consider
-  weight: 1.0
-  avg_copies: 4.0
-- name: Exhibition Tidecaller
-  weight: 1.0
-  avg_copies: 4.0
-- name: Faithless Looting
-  weight: 1.0
-  avg_copies: 4.0
 - name: Demilich
+  weight: 1.0
+  avg_copies: 4.0
+- name: Consider
   weight: 1.0
   avg_copies: 4.0
 - name: Manamorphose
@@ -31,22 +22,31 @@ top_cards:
 - name: Arclight Phoenix
   weight: 1.0
   avg_copies: 4.0
+- name: Exhibition Tidecaller
+  weight: 1.0
+  avg_copies: 4.0
 - name: Scalding Tarn
+  weight: 1.0
+  avg_copies: 4.0
+- name: Thought Scour
+  weight: 1.0
+  avg_copies: 4.0
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Lava Dart
   weight: 1.0
   avg_copies: 3.0
-- name: Meltdown
+- name: Gut Shot
   weight: 1.0
   avg_copies: 3.0
-- name: Gut Shot
+- name: Meltdown
   weight: 1.0
   avg_copies: 3.0
 - name: Force of Negation
   weight: 1.0
   avg_copies: 2.67
-- name: Flashback
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 2.0
 - name: Sink into Stupor
@@ -55,46 +55,46 @@ top_cards:
 - name: Wooded Foothills
   weight: 1.0
   avg_copies: 2.0
-- name: Lightning Bolt
+- name: Flashback
   weight: 1.0
   avg_copies: 2.0
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Consign to Memory
-  weight: 0.5
-  avg_copies: 4.0
 - name: Bloodstained Mire
   weight: 0.5
   avg_copies: 4.0
 - name: Price of Freedom
   weight: 0.5
   avg_copies: 4.0
-- name: Rough
+- name: Consign to Memory
   weight: 0.5
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Preordain
   weight: 0.5
   avg_copies: 3.0
 - name: Surgical Extraction
   weight: 0.5
   avg_copies: 3.0
-- name: Tamiyo, Inquisitive Student
+- name: Rough
   weight: 0.5
-  avg_copies: 2.0
-- name: Island
+  avg_copies: 3.0
+- name: Tamiyo, Inquisitive Student
   weight: 0.5
   avg_copies: 2.0
 - name: Misty Rainforest
   weight: 0.5
   avg_copies: 2.0
+- name: Island
+  weight: 0.5
+  avg_copies: 2.0
 - name: Flame of Anor
   weight: 0.5
   avg_copies: 1.5
-- name: Thundering Falls
+- name: Into the Flood Maw
   weight: 0.5
   avg_copies: 1.0
-- name: Into the Flood Maw
+- name: Thundering Falls
   weight: 0.5
   avg_copies: 1.0
 ---

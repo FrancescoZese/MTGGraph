@@ -12,7 +12,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.75
   affinity:
-    weight: 0.9122
+    weight: 0.9128
     avg_copies: 1.27
   goryo7:
     weight: 1.0

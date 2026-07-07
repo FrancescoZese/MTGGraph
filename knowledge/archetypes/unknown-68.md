@@ -4,7 +4,7 @@ colors:
 - B
 - R
 name: 'Unknown #68'
-meta_share: 0.0064
+meta_share: 0.0063
 list_count: 31
 top_cards:
 - name: Guide of Souls
@@ -13,10 +13,10 @@ top_cards:
 - name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 3.81
-- name: Ajani, Nacatl Pariah
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 3.81
 - name: Arid Mesa
@@ -43,10 +43,10 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.03
-- name: Elegant Parlor
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Thoughtseize
@@ -136,10 +136,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.2258
   avg_copies: 1.14
-- name: Celestial Purge
+- name: Raucous Theater
   weight: 0.1935
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Celestial Purge
   weight: 0.1935
   avg_copies: 1.0
 - name: Ob Nixilis, the Adversary
@@ -166,25 +166,25 @@ top_cards:
 - name: Haliya, Guided by Light
   weight: 0.0645
   avg_copies: 1.0
-- name: Witch Enchanter
-  weight: 0.0323
-  avg_copies: 2.0
 - name: Deafening Silence
   weight: 0.0323
   avg_copies: 2.0
 - name: Lingering Souls
   weight: 0.0323
   avg_copies: 2.0
+- name: Witch Enchanter
+  weight: 0.0323
+  avg_copies: 2.0
 - name: Solitude
   weight: 0.0323
   avg_copies: 1.5
-- name: Strategic Betrayal
+- name: Sanctifier en-Vec
   weight: 0.0323
   avg_copies: 1.0
 - name: Containment Priest
   weight: 0.0323
   avg_copies: 1.0
-- name: Sanctifier en-Vec
+- name: Strategic Betrayal
   weight: 0.0323
   avg_copies: 1.0
 - name: Faerie Macabre

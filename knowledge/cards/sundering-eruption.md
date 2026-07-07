@@ -6,7 +6,7 @@ name: Sundering Eruption // Volcanic Fissure
 scryfall_id: 50686ac7-346c-43d1-bdaa-28d46a12ad93
 set: mh3
 type: Sorcery // Land
-meta_presence: 0.0101
+meta_presence: 0.0102
 archetypes:
   boros-energy:
     weight: 0.0016
@@ -32,4 +32,7 @@ archetypes:
   unknown-98:
     weight: 0.75
     avg_copies: 2.0
+  unknown-180:
+    weight: 1.0
+    avg_copies: 3.0
 ---

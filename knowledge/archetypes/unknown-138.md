@@ -9,13 +9,16 @@ top_cards:
 - name: card:kor-spiritdancer
   weight: 1.0
   avg_copies: 4.0
-- name: card:sheltered-by-ghosts
+- name: card:rancor
   weight: 1.0
   avg_copies: 4.0
-- name: card:ethereal-armor
+- name: card:spider-umbra
   weight: 1.0
   avg_copies: 4.0
-- name: Horizon Canopy
+- name: card:slippery-bogle
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:daybreak-coronet
   weight: 1.0
   avg_copies: 4.0
 - name: card:gladecover-scout
@@ -24,19 +27,16 @@ top_cards:
 - name: card:razorverge-thicket
   weight: 1.0
   avg_copies: 4.0
-- name: card:spider-umbra
+- name: card:ethereal-armor
   weight: 1.0
   avg_copies: 4.0
-- name: card:rancor
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:slippery-bogle
+- name: Horizon Canopy
   weight: 1.0
   avg_copies: 4.0
 - name: Windswept Heath
   weight: 1.0
   avg_copies: 4.0
-- name: card:daybreak-coronet
+- name: card:sheltered-by-ghosts
   weight: 1.0
   avg_copies: 4.0
 - name: Reprieve
@@ -63,10 +63,10 @@ top_cards:
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 2.0
-- name: card:hyena-umbra
+- name: Collector Ouphe
   weight: 1.0
   avg_copies: 2.0
-- name: Collector Ouphe
+- name: card:hyena-umbra
   weight: 1.0
   avg_copies: 2.0
 - name: Dryad Arbor
@@ -75,10 +75,10 @@ top_cards:
 - name: Misty Rainforest
   weight: 1.0
   avg_copies: 1.0
-- name: Plains
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
-- name: Forest
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
 ---

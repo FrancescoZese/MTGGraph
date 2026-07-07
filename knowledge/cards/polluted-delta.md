@@ -18,13 +18,13 @@ archetypes:
     weight: 0.2564
     avg_copies: 1.8
   azorius-control:
-    weight: 0.2727
+    weight: 0.2687
     avg_copies: 1.11
   living-end:
     weight: 0.7167
     avg_copies: 1.44
   affinity:
-    weight: 0.0208
+    weight: 0.0206
     avg_copies: 1.44
   mill:
     weight: 1.0
@@ -42,11 +42,11 @@ archetypes:
     weight: 0.2597
     avg_copies: 1.2
   izzet-prowess:
-    weight: 0.0083
+    weight: 0.0082
     avg_copies: 1.0
   esper-blink:
-    weight: 0.956
-    avg_copies: 1.66
+    weight: 0.9565
+    avg_copies: 1.65
   orzhov-blink:
     weight: 0.2222
     avg_copies: 1.5
@@ -81,7 +81,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.83
   goryo5:
-    weight: 0.6667
+    weight: 0.625
     avg_copies: 1.7
   goryo2:
     weight: 1.0
@@ -103,7 +103,7 @@ archetypes:
     avg_copies: 4.0
   unknown-5:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 3.25
   unknown-1:
     weight: 1.0
     avg_copies: 2.0
@@ -135,7 +135,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-45:
-    weight: 0.2273
+    weight: 0.2174
     avg_copies: 3.0
   unknown-47:
     weight: 1.0
@@ -168,7 +168,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-67:
-    weight: 0.0167
+    weight: 0.0164
     avg_copies: 3.0
   unknown-69:
     weight: 0.5
@@ -273,7 +273,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-167:
-    weight: 0.5
+    weight: 0.6667
     avg_copies: 1.0
   unknown-169:
     weight: 1.0
@@ -287,4 +287,7 @@ archetypes:
   unknown-171:
     weight: 1.0
     avg_copies: 1.0
+  unknown-181:
+    weight: 1.0
+    avg_copies: 4.0
 ---

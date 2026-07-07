@@ -7,7 +7,7 @@ name: Archmage's Charm
 scryfall_id: 57b852b6-4388-4a41-a5c0-bba37a5c1451
 set: mh1
 type: Instant
-meta_presence: 0.0004
+meta_presence: 0.0006
 archetypes:
   dimir-control:
     weight: 0.0123
@@ -15,4 +15,7 @@ archetypes:
   unknown-17:
     weight: 0.3333
     avg_copies: 3.0
+  unknown-182:
+    weight: 1.0
+    avg_copies: 4.0
 ---

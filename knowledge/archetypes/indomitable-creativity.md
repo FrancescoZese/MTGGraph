@@ -9,10 +9,10 @@ name: Indomitable Creativity
 meta_share: 0.0029
 list_count: 14
 top_cards:
-- name: Indomitable Creativity
+- name: Fable of the Mirror-Breaker
   weight: 1.0
   avg_copies: 4.0
-- name: Fable of the Mirror-Breaker
+- name: Indomitable Creativity
   weight: 1.0
   avg_copies: 4.0
 - name: Wrenn and Six
@@ -72,10 +72,10 @@ top_cards:
 - name: Sacred Foundry
   weight: 0.7857
   avg_copies: 1.0
-- name: Xander's Lounge
+- name: Jetmir's Garden
   weight: 0.7857
   avg_copies: 1.0
-- name: Jetmir's Garden
+- name: Xander's Lounge
   weight: 0.7857
   avg_copies: 1.0
 - name: Surgical Extraction
@@ -132,19 +132,19 @@ top_cards:
 - name: Faithless Looting
   weight: 0.2143
   avg_copies: 4.0
-- name: Persist
+- name: Thoughtseize
   weight: 0.2143
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Persist
   weight: 0.2143
   avg_copies: 4.0
 - name: Fatal Push
   weight: 0.2143
   avg_copies: 3.33
-- name: Terastodon
+- name: Orim's Chant
   weight: 0.2143
   avg_copies: 2.67
-- name: Orim's Chant
+- name: Terastodon
   weight: 0.2143
   avg_copies: 2.67
 - name: Strix Serenade
@@ -153,31 +153,31 @@ top_cards:
 - name: Spell Pierce
   weight: 0.2143
   avg_copies: 1.4
-- name: Prismari Charm
+- name: Valgavoth, Terror Eater
   weight: 0.2143
   avg_copies: 1.0
 - name: Ziatora's Proving Ground
   weight: 0.2143
   avg_copies: 1.0
-- name: Valgavoth, Terror Eater
+- name: Prismari Charm
   weight: 0.2143
   avg_copies: 1.0
 - name: Leyline of the Void
   weight: 0.1429
   avg_copies: 4.0
-- name: Commercial District
+- name: Abrupt Decay
   weight: 0.1429
   avg_copies: 1.0
 - name: Ketria Triome
   weight: 0.1429
   avg_copies: 1.0
-- name: Prismari Command
+- name: Commercial District
   weight: 0.1429
   avg_copies: 1.0
 - name: Emrakul, the Aeons Torn
   weight: 0.1429
   avg_copies: 1.0
-- name: Abrupt Decay
+- name: Prismari Command
   weight: 0.1429
   avg_copies: 1.0
 - name: Nature's Claim
@@ -192,10 +192,19 @@ top_cards:
 - name: Inquisition of Kozilek
   weight: 0.0714
   avg_copies: 1.5
-- name: Brainsurge
+- name: Rest in Peace
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Witherbloom Command
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Vampires' Vengeance
   weight: 0.0714
   avg_copies: 1.0
 - name: Molten Collapse
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
   weight: 0.0714
   avg_copies: 1.0
 - name: Swamp
@@ -204,16 +213,7 @@ top_cards:
 - name: Turn the Earth
   weight: 0.0714
   avg_copies: 1.0
-- name: Rest in Peace
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Witherbloom Command
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Vampires' Vengeance
+- name: Brainsurge
   weight: 0.0714
   avg_copies: 1.0
 ---

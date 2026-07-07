@@ -6,10 +6,10 @@ name: 'Unknown #26'
 meta_share: 0.0041
 list_count: 20
 top_cards:
-- name: Field of Ruin
+- name: Cleansing Wildfire
   weight: 1.0
   avg_copies: 4.0
-- name: Cleansing Wildfire
+- name: Field of Ruin
   weight: 1.0
   avg_copies: 4.0
 - name: Demolition Field
@@ -96,7 +96,7 @@ top_cards:
 - name: Galvanic Discharge
   weight: 0.2
   avg_copies: 2.5
-- name: Arid Mesa
+- name: card:avengers-disassembled
   weight: 0.1
   avg_copies: 4.0
 - name: Mazemind Tome
@@ -105,7 +105,7 @@ top_cards:
 - name: Calamity's Wake
   weight: 0.1
   avg_copies: 4.0
-- name: card:avengers-disassembled
+- name: Arid Mesa
   weight: 0.1
   avg_copies: 4.0
 - name: Reprieve
@@ -126,19 +126,19 @@ top_cards:
 - name: Crucible of Worlds
   weight: 0.1
   avg_copies: 1.0
-- name: Volcanic Spite
-  weight: 0.05
-  avg_copies: 4.0
-- name: Ark of Hunger
-  weight: 0.05
-  avg_copies: 4.0
 - name: White Orchid Phantom
+  weight: 0.05
+  avg_copies: 4.0
+- name: Lightning Helix
+  weight: 0.05
+  avg_copies: 4.0
+- name: Volcanic Spite
   weight: 0.05
   avg_copies: 4.0
 - name: card:kutzil-s-flanker
   weight: 0.05
   avg_copies: 4.0
-- name: Lightning Helix
+- name: Ark of Hunger
   weight: 0.05
   avg_copies: 4.0
 - name: Candy Trail
@@ -147,16 +147,16 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 0.05
   avg_copies: 3.0
-- name: March of Otherworldly Light
+- name: Hallowed Moonlight
   weight: 0.05
   avg_copies: 2.0
-- name: card:vanish-into-eternity
+- name: March of Otherworldly Light
   weight: 0.05
   avg_copies: 2.0
 - name: Flashback
   weight: 0.05
   avg_copies: 2.0
-- name: Hallowed Moonlight
+- name: card:vanish-into-eternity
   weight: 0.05
   avg_copies: 2.0
 - name: Elixir of Immortality

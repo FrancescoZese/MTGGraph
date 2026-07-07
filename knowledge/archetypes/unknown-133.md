@@ -9,46 +9,46 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 6.0
-- name: Nihil Spellbomb
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thought Scour
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:scheming-symmetry
-  weight: 1.0
-  avg_copies: 4.0
-- name: Misty Rainforest
-  weight: 1.0
-  avg_copies: 4.0
 - name: Flooded Strand
-  weight: 1.0
-  avg_copies: 4.0
-- name: Extirpate
-  weight: 1.0
-  avg_copies: 4.0
-- name: Exhibition Tidecaller
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ruin Crab
   weight: 1.0
   avg_copies: 4.0
 - name: Fractured Sanity
   weight: 1.0
   avg_copies: 4.0
-- name: Hedron Crab
-  weight: 1.0
-  avg_copies: 4.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Archive Trap
+- name: card:scheming-symmetry
+  weight: 1.0
+  avg_copies: 4.0
+- name: Tasha's Hideous Laughter
+  weight: 1.0
+  avg_copies: 4.0
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 4.0
 - name: Requiting Hex
   weight: 1.0
   avg_copies: 4.0
-- name: Tasha's Hideous Laughter
+- name: Ruin Crab
+  weight: 1.0
+  avg_copies: 4.0
+- name: Exhibition Tidecaller
+  weight: 1.0
+  avg_copies: 4.0
+- name: Archive Trap
+  weight: 1.0
+  avg_copies: 4.0
+- name: Thought Scour
+  weight: 1.0
+  avg_copies: 4.0
+- name: Extirpate
+  weight: 1.0
+  avg_copies: 4.0
+- name: Hedron Crab
+  weight: 1.0
+  avg_copies: 4.0
+- name: Nihil Spellbomb
   weight: 1.0
   avg_copies: 4.0
 - name: Visions of Beyond

@@ -6,11 +6,11 @@ name: Ornithopter
 scryfall_id: 305078a5-ac18-4721-bba2-3434eba5b1cf
 set: dmr
 type: Artifact Creature — Thopter
-meta_presence: 0.0029
+meta_presence: 0.0031
 archetypes:
   affinity:
-    weight: 0.0046
-    avg_copies: 1.0
+    weight: 0.0069
+    avg_copies: 1.33
   hammer-time:
     weight: 1.0
     avg_copies: 3.56

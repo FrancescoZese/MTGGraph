@@ -7,7 +7,7 @@ name: Wrenn's Resolve
 scryfall_id: 9a47999c-12d5-4e1a-a9c1-40a1757007f1
 set: mom
 type: Sorcery
-meta_presence: 0.0349
+meta_presence: 0.0355
 archetypes:
   ruby-storm:
     weight: 1.0
@@ -15,4 +15,7 @@ archetypes:
   unknown-11:
     weight: 0.4
     avg_copies: 2.5
+  unknown-180:
+    weight: 1.0
+    avg_copies: 4.0
 ---

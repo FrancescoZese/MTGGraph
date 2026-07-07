@@ -4,19 +4,19 @@ colors:
 - R
 - G
 name: Cosmogoyf Fling
-meta_share: 0.0064
+meta_share: 0.0063
 list_count: 31
 top_cards:
-- name: Plunge into Darkness
-  weight: 1.0
-  avg_copies: 4.0
 - name: Thud
   weight: 1.0
   avg_copies: 4.0
-- name: Gemstone Caverns
+- name: Plunge into Darkness
+  weight: 1.0
+  avg_copies: 4.0
+- name: Spoils of the Vault
   weight: 1.0
   avg_copies: 3.9
-- name: Spoils of the Vault
+- name: Gemstone Caverns
   weight: 1.0
   avg_copies: 3.9
 - name: Blackcleave Cliffs
@@ -103,10 +103,10 @@ top_cards:
 - name: Chancellor of the Dross
   weight: 0.129
   avg_copies: 1.75
-- name: Leyline of the Void
+- name: Ghor-Clan Rampager
   weight: 0.129
   avg_copies: 1.0
-- name: Ghor-Clan Rampager
+- name: Leyline of the Void
   weight: 0.129
   avg_copies: 1.0
 - name: Faithless Looting
@@ -121,10 +121,10 @@ top_cards:
 - name: card:providence
   weight: 0.0968
   avg_copies: 2.0
-- name: Scion of Draco
+- name: Leyline of the Guildpact
   weight: 0.0645
   avg_copies: 4.0
-- name: Leyline of the Guildpact
+- name: Scion of Draco
   weight: 0.0645
   avg_copies: 4.0
 - name: Pick Your Poison
@@ -145,22 +145,22 @@ top_cards:
 - name: Mana Confluence
   weight: 0.0323
   avg_copies: 4.0
-- name: card:cragcrown-pathway
+- name: Pyroclasm
   weight: 0.0323
   avg_copies: 2.0
 - name: Death's Shadow
   weight: 0.0323
   avg_copies: 2.0
-- name: Pyroclasm
+- name: card:cragcrown-pathway
   weight: 0.0323
   avg_copies: 2.0
-- name: Kaheera, the Orphanguard
-  weight: 0.0323
-  avg_copies: 1.0
 - name: Disruptor Flute
   weight: 0.0323
   avg_copies: 1.0
 - name: Meltdown
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Kaheera, the Orphanguard
   weight: 0.0323
   avg_copies: 1.0
 - name: Mountain

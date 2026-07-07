@@ -5,34 +5,34 @@ name: 'Unknown #61'
 meta_share: 0.0051
 list_count: 25
 top_cards:
+- name: Slumbering Trudge
+  weight: 1.0
+  avg_copies: 4.0
+- name: Sowing Mycospawn
+  weight: 1.0
+  avg_copies: 4.0
 - name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
-- name: Sowing Mycospawn
-  weight: 1.0
-  avg_copies: 4.0
-- name: Slumbering Trudge
-  weight: 1.0
-  avg_copies: 4.0
 - name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
-- name: Disciple of Freyalise
-  weight: 1.0
-  avg_copies: 3.92
 - name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 3.92
-- name: Fight Rigging
+- name: Disciple of Freyalise
+  weight: 1.0
+  avg_copies: 3.92
+- name: Emrakul, the Promised End
   weight: 1.0
   avg_copies: 3.88
 - name: Fanatic of Rhonas
   weight: 1.0
   avg_copies: 3.88
-- name: Emrakul, the Promised End
+- name: Fight Rigging
   weight: 1.0
   avg_copies: 3.88
 - name: Malevolent Rumble
@@ -41,10 +41,10 @@ top_cards:
 - name: Forest
   weight: 1.0
   avg_copies: 3.12
-- name: Dryad Arbor
+- name: Mosswort Bridge
   weight: 1.0
   avg_copies: 1.0
-- name: Mosswort Bridge
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
 - name: Devourer of Destiny
@@ -98,10 +98,10 @@ top_cards:
 - name: Ulamog, the Ceaseless Hunger
   weight: 0.08
   avg_copies: 1.5
-- name: Cavern of Souls
+- name: Keen-Eyed Curator
   weight: 0.08
   avg_copies: 1.0
-- name: Keen-Eyed Curator
+- name: Cavern of Souls
   weight: 0.08
   avg_copies: 1.0
 - name: Vexing Bauble
@@ -113,52 +113,52 @@ top_cards:
 - name: Thief of Existence
   weight: 0.04
   avg_copies: 3.0
-- name: Hashep Oasis
+- name: Ghost Vacuum
   weight: 0.04
   avg_copies: 2.0
 - name: Emrakul, the Aeons Torn
   weight: 0.04
   avg_copies: 2.0
-- name: Ghost Vacuum
+- name: Soul-Guide Lantern
+  weight: 0.04
+  avg_copies: 2.0
+- name: Hashep Oasis
   weight: 0.04
   avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.04
   avg_copies: 2.0
-- name: Soul-Guide Lantern
-  weight: 0.04
-  avg_copies: 2.0
-- name: Ghalta, Stampede Tyrant
-  weight: 0.04
-  avg_copies: 1.0
-- name: Outland Liberator
-  weight: 0.04
-  avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Elder Gargaroth
   weight: 0.04
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.04
   avg_copies: 1.0
-- name: Insidious Fungus
-  weight: 0.04
-  avg_copies: 1.0
 - name: Ouroboroid
-  weight: 0.04
-  avg_copies: 1.0
-- name: Icetill Explorer
-  weight: 0.04
-  avg_copies: 1.0
-- name: Bojuka Bog
   weight: 0.04
   avg_copies: 1.0
 - name: Shifting Woodland
   weight: 0.04
   avg_copies: 1.0
+- name: Outland Liberator
+  weight: 0.04
+  avg_copies: 1.0
+- name: Ghalta, Stampede Tyrant
+  weight: 0.04
+  avg_copies: 1.0
+- name: Insidious Fungus
+  weight: 0.04
+  avg_copies: 1.0
 - name: Tajuru Preserver
   weight: 0.04
   avg_copies: 1.0
-- name: Elder Gargaroth
+- name: Bojuka Bog
+  weight: 0.04
+  avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.04
+  avg_copies: 1.0
+- name: Icetill Explorer
   weight: 0.04
   avg_copies: 1.0
 ---

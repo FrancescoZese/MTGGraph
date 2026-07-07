@@ -10,10 +10,10 @@ type: Instant
 meta_presence: 0.0838
 archetypes:
   ruby-storm:
-    weight: 0.0357
+    weight: 0.0351
     avg_copies: 2.0
   boros-energy:
-    weight: 0.0373
+    weight: 0.037
     avg_copies: 1.03
   jeskai-energy:
     weight: 0.7557
@@ -22,11 +22,11 @@ archetypes:
     weight: 0.0043
     avg_copies: 2.0
   goryo:
-    weight: 0.5153
+    weight: 0.5195
     avg_copies: 1.06
   azorius-control:
-    weight: 0.2121
-    avg_copies: 1.19
+    weight: 0.2239
+    avg_copies: 1.18
   jeskai-control:
     weight: 0.2632
     avg_copies: 1.0
@@ -37,7 +37,7 @@ archetypes:
     weight: 0.2878
     avg_copies: 1.74
   esper-blink:
-    weight: 0.2088
+    weight: 0.2065
     avg_copies: 1.0
   orzhov-blink:
     weight: 0.2222
