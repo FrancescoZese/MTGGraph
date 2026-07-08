@@ -10,6 +10,6 @@ type: Creature — Snake
 meta_presence: 0.0004
 archetypes:
   amulet-titan:
-    weight: 0.0144
+    weight: 0.0142
     avg_copies: 1.0
 ---

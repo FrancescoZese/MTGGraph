@@ -10,10 +10,10 @@ top_cards:
 - name: Song of Creation
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
-- name: Mox Opal
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Tamiyo, Inquisitive Student
@@ -55,19 +55,19 @@ top_cards:
 - name: Six
   weight: 1.0
   avg_copies: 1.2
-- name: Steam Vents
+- name: Hedge Maze
+  weight: 1.0
+  avg_copies: 1.0
+- name: Endurance
   weight: 1.0
   avg_copies: 1.0
 - name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
 - name: Island
-  weight: 1.0
-  avg_copies: 1.0
-- name: Hedge Maze
-  weight: 1.0
-  avg_copies: 1.0
-- name: Endurance
   weight: 1.0
   avg_copies: 1.0
 - name: Boomerang Basics
@@ -76,6 +76,12 @@ top_cards:
 - name: Unholy Heat
   weight: 0.8
   avg_copies: 1.75
+- name: Tormod's Crypt
+  weight: 0.8
+  avg_copies: 1.0
+- name: Grapeshot
+  weight: 0.8
+  avg_copies: 1.0
 - name: Haywire Mite
   weight: 0.8
   avg_copies: 1.0
@@ -85,19 +91,13 @@ top_cards:
 - name: Forest
   weight: 0.8
   avg_copies: 1.0
-- name: Grapeshot
-  weight: 0.8
-  avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 0.8
   avg_copies: 1.0
-- name: Tormod's Crypt
-  weight: 0.8
-  avg_copies: 1.0
-- name: Fire Magic
+- name: Soulless Jailer
   weight: 0.6
   avg_copies: 1.67
-- name: Soulless Jailer
+- name: Fire Magic
   weight: 0.6
   avg_copies: 1.67
 - name: Veil of Summer
@@ -106,16 +106,16 @@ top_cards:
 - name: Pyroclasm
   weight: 0.6
   avg_copies: 1.33
-- name: Jace, Wielder of Mysteries
+- name: Ashiok, Dream Render
   weight: 0.6
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Jace, Wielder of Mysteries
   weight: 0.6
   avg_copies: 1.0
 - name: Strix Serenade
   weight: 0.6
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Thundering Falls
   weight: 0.6
   avg_copies: 1.0
 - name: Preordain
@@ -127,16 +127,16 @@ top_cards:
 - name: Force of Negation
   weight: 0.4
   avg_copies: 1.5
-- name: Boseiju, Who Endures
-  weight: 0.4
-  avg_copies: 1.0
-- name: Flame of Anor
+- name: Pithing Needle
   weight: 0.4
   avg_copies: 1.0
 - name: Nature's Claim
   weight: 0.4
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Boseiju, Who Endures
+  weight: 0.4
+  avg_copies: 1.0
+- name: Flame of Anor
   weight: 0.4
   avg_copies: 1.0
 - name: Cori-Steel Cutter
@@ -145,7 +145,13 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.2
   avg_copies: 2.0
-- name: Galvanic Blast
+- name: Peer Past the Veil
+  weight: 0.2
+  avg_copies: 1.0
+- name: Aether Spellbomb
+  weight: 0.2
+  avg_copies: 1.0
+- name: Wrenn and Six
   weight: 0.2
   avg_copies: 1.0
 - name: Lightning Bolt
@@ -154,13 +160,7 @@ top_cards:
 - name: Life from the Loam
   weight: 0.2
   avg_copies: 1.0
-- name: Peer Past the Veil
-  weight: 0.2
-  avg_copies: 1.0
-- name: Wrenn and Six
-  weight: 0.2
-  avg_copies: 1.0
-- name: Aether Spellbomb
+- name: Galvanic Blast
   weight: 0.2
   avg_copies: 1.0
 ---

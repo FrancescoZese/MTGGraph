@@ -6,7 +6,7 @@ name: 'Unknown #101'
 meta_share: 0.0008
 list_count: 4
 top_cards:
-- name: Hollow One
+- name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
@@ -18,13 +18,13 @@ top_cards:
 - name: Detective's Phoenix
   weight: 1.0
   avg_copies: 4.0
-- name: Nethergoyf
+- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
-- name: Arena of Glory
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 3.0
-- name: Blood Crypt
+- name: Arena of Glory
   weight: 1.0
   avg_copies: 3.0
 - name: Meltdown
@@ -39,22 +39,22 @@ top_cards:
 - name: Fear of Missing Out
   weight: 1.0
   avg_copies: 2.25
-- name: Tarfire
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 2.0
-- name: Scalding Tarn
+- name: Tarfire
   weight: 1.0
   avg_copies: 2.0
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.25
+- name: Burning Inquiry
+  weight: 0.75
+  avg_copies: 4.0
 - name: Leyline of the Void
   weight: 0.75
   avg_copies: 4.0
 - name: Marauding Mako
-  weight: 0.75
-  avg_copies: 4.0
-- name: Burning Inquiry
   weight: 0.75
   avg_copies: 4.0
 - name: Damping Sphere
@@ -69,10 +69,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.75
   avg_copies: 2.67
-- name: Wooded Foothills
+- name: Arid Mesa
   weight: 0.75
   avg_copies: 2.0
-- name: Arid Mesa
+- name: Wooded Foothills
   weight: 0.75
   avg_copies: 2.0
 - name: Inti, Seneschal of the Sun
@@ -96,10 +96,10 @@ top_cards:
 - name: Thoughtseize
   weight: 0.25
   avg_copies: 4.0
-- name: Surgical Extraction
+- name: Kroxa, Titan of Death's Hunger
   weight: 0.25
   avg_copies: 3.0
-- name: Kroxa, Titan of Death's Hunger
+- name: Surgical Extraction
   weight: 0.25
   avg_copies: 3.0
 - name: Wear
@@ -114,10 +114,10 @@ top_cards:
 - name: Sacred Foundry
   weight: 0.25
   avg_copies: 1.0
-- name: Swamp
+- name: Sheoldred's Edict
   weight: 0.25
   avg_copies: 1.0
-- name: Sheoldred's Edict
+- name: Swamp
   weight: 0.25
   avg_copies: 1.0
 ---

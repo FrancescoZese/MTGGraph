@@ -10,8 +10,8 @@ type: Sorcery
 meta_presence: 0.0157
 archetypes:
   azorius-control:
-    weight: 0.4776
-    avg_copies: 1.44
+    weight: 0.4853
+    avg_copies: 1.43
   jeskai-control:
     weight: 0.7368
     avg_copies: 1.34

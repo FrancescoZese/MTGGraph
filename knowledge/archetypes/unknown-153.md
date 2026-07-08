@@ -12,16 +12,16 @@ top_cards:
 - name: Amulet of Vigor
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline of the Guildpact
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 4.0
 - name: Selesnya Sanctuary
   weight: 1.0
   avg_copies: 4.0
-- name: Green Sun's Zenith
+- name: Primeval Titan
   weight: 1.0
   avg_copies: 4.0
-- name: Primeval Titan
+- name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
 - name: Arboreal Grazer
@@ -30,10 +30,13 @@ top_cards:
 - name: Spelunking
   weight: 1.0
   avg_copies: 4.0
-- name: Force of Vigor
+- name: Dryad of the Ilysian Grove
   weight: 1.0
   avg_copies: 3.0
 - name: card:nykthos-shrine-to-nyx
+  weight: 1.0
+  avg_copies: 3.0
+- name: Force of Vigor
   weight: 1.0
   avg_copies: 3.0
 - name: Prismatic Ending
@@ -42,25 +45,22 @@ top_cards:
 - name: Forest
   weight: 1.0
   avg_copies: 3.0
-- name: Dryad of the Ilysian Grove
+- name: Simic Growth Chamber
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 2.0
+- name: Endurance
+  weight: 1.0
+  avg_copies: 2.0
 - name: Rest in Peace
   weight: 1.0
   avg_copies: 2.0
-- name: High Noon
+- name: Windswept Heath
   weight: 1.0
   avg_copies: 2.0
 - name: Valakut, the Molten Pinnacle
   weight: 1.0
   avg_copies: 2.0
-- name: Boseiju, Who Endures
-  weight: 1.0
-  avg_copies: 2.0
-- name: Crumbling Vestige
-  weight: 1.0
-  avg_copies: 2.0
-- name: Simic Growth Chamber
+- name: High Noon
   weight: 1.0
   avg_copies: 2.0
 - name: card:castle-garenbrig
@@ -69,10 +69,10 @@ top_cards:
 - name: Summoner's Pact
   weight: 1.0
   avg_copies: 2.0
-- name: Endurance
+- name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 2.0
-- name: Windswept Heath
+- name: Crumbling Vestige
   weight: 1.0
   avg_copies: 2.0
 - name: Dryad Arbor
@@ -81,28 +81,28 @@ top_cards:
 - name: Vesuva
   weight: 1.0
   avg_copies: 1.0
-- name: Hanweir Battlements
-  weight: 1.0
-  avg_copies: 1.0
-- name: Tolaria West
+- name: Lush Portico
   weight: 1.0
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
   weight: 1.0
   avg_copies: 1.0
-- name: Lush Portico
-  weight: 1.0
-  avg_copies: 1.0
-- name: Bojuka Bog
+- name: Tolaria West
   weight: 1.0
   avg_copies: 1.0
 - name: Formidable Speaker
   weight: 1.0
   avg_copies: 1.0
-- name: Temple Garden
+- name: Hanweir Battlements
+  weight: 1.0
+  avg_copies: 1.0
+- name: Bojuka Bog
   weight: 1.0
   avg_copies: 1.0
 - name: Otawara, Soaring City
+  weight: 1.0
+  avg_copies: 1.0
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 ---

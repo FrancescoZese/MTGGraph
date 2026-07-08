@@ -9,7 +9,7 @@ type: Creature — Eldrazi // Land
 meta_presence: 0.0006
 archetypes:
   broodscale-combo:
-    weight: 0.0101
+    weight: 0.0099
     avg_copies: 2.5
   unknown-151:
     weight: 1.0

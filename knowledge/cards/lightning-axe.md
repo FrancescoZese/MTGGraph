@@ -7,12 +7,12 @@ name: Lightning Axe
 scryfall_id: 90911c79-24c3-4566-b72c-02ccde083f1b
 set: inr
 type: Instant
-meta_presence: 0.0035
+meta_presence: 0.0036
 archetypes:
   izzet-prowess:
     weight: 0.0041
     avg_copies: 1.0
   dredge:
-    weight: 0.7273
-    avg_copies: 2.19
+    weight: 0.7391
+    avg_copies: 2.18
 ---

@@ -9,22 +9,22 @@ name: 'Unknown #85'
 meta_share: 0.0022
 list_count: 11
 top_cards:
-- name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Leyline Binding
-  weight: 1.0
-  avg_copies: 4.0
 - name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
 - name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
-- name: Wooded Foothills
+- name: Lightning Bolt
+  weight: 1.0
+  avg_copies: 4.0
+- name: Leyline Binding
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 3.91
-- name: Ragavan, Nimble Pilferer
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 3.91
 - name: Tribal Flames
@@ -69,19 +69,19 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.8182
   avg_copies: 2.0
-- name: Breeding Pool
+- name: Blood Crypt
   weight: 0.8182
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Breeding Pool
   weight: 0.8182
   avg_copies: 1.0
 - name: Mountain
   weight: 0.8182
   avg_copies: 1.0
-- name: Forest
+- name: Indatha Triome
   weight: 0.7273
   avg_copies: 1.0
-- name: Indatha Triome
+- name: Forest
   weight: 0.7273
   avg_copies: 1.0
 - name: High Noon
@@ -93,10 +93,10 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.5455
   avg_copies: 2.0
-- name: Arena of Glory
+- name: Teferi, Time Raveler
   weight: 0.3636
   avg_copies: 1.5
-- name: Teferi, Time Raveler
+- name: Arena of Glory
   weight: 0.3636
   avg_copies: 1.5
 - name: Plains
@@ -114,19 +114,19 @@ top_cards:
 - name: Rest in Peace
   weight: 0.2727
   avg_copies: 1.67
-- name: Quantum Riddler
-  weight: 0.1818
-  avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.1818
   avg_copies: 2.0
+- name: Quantum Riddler
+  weight: 0.1818
+  avg_copies: 2.0
+- name: Savai Triome
+  weight: 0.1818
+  avg_copies: 1.0
 - name: Overgrown Tomb
   weight: 0.1818
   avg_copies: 1.0
 - name: Surgical Extraction
-  weight: 0.1818
-  avg_copies: 1.0
-- name: Savai Triome
   weight: 0.1818
   avg_copies: 1.0
 - name: Spell Queller
@@ -135,16 +135,22 @@ top_cards:
 - name: Force of Vigor
   weight: 0.0909
   avg_copies: 3.0
-- name: Prismatic Ending
+- name: Laelia, the Blade Reforged
   weight: 0.0909
   avg_copies: 2.0
-- name: Doorkeeper Thrull
+- name: Ashiok, Dream Render
+  weight: 0.0909
+  avg_copies: 2.0
+- name: Prismatic Ending
   weight: 0.0909
   avg_copies: 2.0
 - name: Rough
   weight: 0.0909
   avg_copies: 2.0
-- name: Pick Your Poison
+- name: Doorkeeper Thrull
+  weight: 0.0909
+  avg_copies: 2.0
+- name: Endurance
   weight: 0.0909
   avg_copies: 2.0
 - name: Fable of the Mirror-Breaker
@@ -153,16 +159,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.0909
   avg_copies: 2.0
-- name: Endurance
+- name: Pick Your Poison
   weight: 0.0909
   avg_copies: 2.0
-- name: Ashiok, Dream Render
-  weight: 0.0909
-  avg_copies: 2.0
-- name: Laelia, the Blade Reforged
-  weight: 0.0909
-  avg_copies: 2.0
-- name: Hidetsugu Consumes All
+- name: Hedge Maze
   weight: 0.0909
   avg_copies: 1.0
 - name: Lush Portico
@@ -171,19 +171,19 @@ top_cards:
 - name: Pyroclasm
   weight: 0.0909
   avg_copies: 1.0
-- name: Island
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Chalice of the Void
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Hedge Maze
+- name: Xander's Lounge
   weight: 0.0909
   avg_copies: 1.0
 - name: Zagoth Triome
   weight: 0.0909
   avg_copies: 1.0
-- name: Xander's Lounge
+- name: Chalice of the Void
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Hidetsugu Consumes All
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Island
   weight: 0.0909
   avg_copies: 1.0
 ---

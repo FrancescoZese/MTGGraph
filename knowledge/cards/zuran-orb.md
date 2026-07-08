@@ -6,10 +6,10 @@ name: Zuran Orb
 scryfall_id: 618c8ecc-686d-41de-b9b1-1a7ee9cc7c14
 set: mh2
 type: Artifact
-meta_presence: 0.0069
+meta_presence: 0.0068
 archetypes:
   amulet-titan:
-    weight: 0.2374
+    weight: 0.234
     avg_copies: 1.0
   affinity:
     weight: 0.0023

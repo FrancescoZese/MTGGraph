@@ -15,13 +15,13 @@ archetypes:
     weight: 0.76
     avg_copies: 1.89
   eldrazi-tron:
-    weight: 0.1966
+    weight: 0.1925
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.0288
+    weight: 0.0284
     avg_copies: 1.25
   goryo:
-    weight: 0.0173
+    weight: 0.0172
     avg_copies: 1.0
   necrodominance:
     weight: 0.2308
@@ -39,7 +39,7 @@ archetypes:
     weight: 0.1007
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.1296
+    weight: 0.1284
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.1875
@@ -57,8 +57,8 @@ archetypes:
     weight: 0.0588
     avg_copies: 1.0
   goryo1:
-    weight: 0.0827
-    avg_copies: 1.09
+    weight: 0.0882
+    avg_copies: 1.08
   goryo7:
     weight: 1.0
     avg_copies: 2.0
@@ -120,7 +120,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-86:
-    weight: 0.1429
+    weight: 0.125
     avg_copies: 1.0
   unknown-90:
     weight: 1.0
@@ -150,7 +150,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.4
+    weight: 0.2927
     avg_copies: 1.0
   unknown-162:
     weight: 1.0

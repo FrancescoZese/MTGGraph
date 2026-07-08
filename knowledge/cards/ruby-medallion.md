@@ -9,7 +9,7 @@ type: Artifact
 meta_presence: 0.0365
 archetypes:
   ruby-storm:
-    weight: 0.9883
+    weight: 0.9884
     avg_copies: 3.96
   mono-red-belcher:
     weight: 0.6154

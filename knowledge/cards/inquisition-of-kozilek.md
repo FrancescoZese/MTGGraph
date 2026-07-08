@@ -7,7 +7,7 @@ name: Inquisition of Kozilek
 scryfall_id: 17f38740-20fd-4097-90f8-f0c2c2ff7281
 set: 2x2
 type: Sorcery
-meta_presence: 0.0269
+meta_presence: 0.0272
 archetypes:
   ruby-storm:
     weight: 0.0058
@@ -34,8 +34,8 @@ archetypes:
     weight: 0.6129
     avg_copies: 3.53
   goryo1:
-    weight: 0.188
-    avg_copies: 1.73
+    weight: 0.1985
+    avg_copies: 1.68
   goryo5:
     weight: 0.625
     avg_copies: 1.82
@@ -43,7 +43,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-5:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 1.5
   unknown-8:
     weight: 1.0
@@ -76,8 +76,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-97:
-    weight: 0.6667
-    avg_copies: 1.4
+    weight: 0.7143
+    avg_copies: 1.5
   unknown-162:
     weight: 1.0
     avg_copies: 4.0

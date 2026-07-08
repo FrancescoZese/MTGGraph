@@ -10,16 +10,16 @@ type: Sorcery
 meta_presence: 0.2087
 archetypes:
   ruby-storm:
-    weight: 0.0117
+    weight: 0.0116
     avg_copies: 2.5
   dimir-control:
     weight: 0.5432
     avg_copies: 2.94
   eldrazi-tron:
-    weight: 0.0128
+    weight: 0.0126
     avg_copies: 4.0
   goryo:
-    weight: 0.9524
+    weight: 0.9528
     avg_copies: 2.62
   necrodominance:
     weight: 0.8462
@@ -43,7 +43,7 @@ archetypes:
     weight: 0.013
     avg_copies: 4.0
   izzet-prowess:
-    weight: 0.0165
+    weight: 0.0163
     avg_copies: 3.0
   esper-blink:
     weight: 0.9565
@@ -55,14 +55,14 @@ archetypes:
     weight: 0.2143
     avg_copies: 4.0
   broodscale-combo:
-    weight: 0.005
+    weight: 0.0148
     avg_copies: 3.0
   orzhov-blink:
     weight: 1.0
     avg_copies: 4.0
   dredge:
-    weight: 0.7273
-    avg_copies: 3.31
+    weight: 0.7391
+    avg_copies: 3.29
   jund-saga:
     weight: 1.0
     avg_copies: 4.0
@@ -88,8 +88,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   goryo1:
-    weight: 0.985
-    avg_copies: 3.86
+    weight: 0.9853
+    avg_copies: 3.87
   goryo5:
     weight: 1.0
     avg_copies: 3.75
@@ -178,8 +178,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-68:
-    weight: 0.9677
-    avg_copies: 2.48
+    weight: 0.9394
+    avg_copies: 2.57
   unknown-69:
     weight: 1.0
     avg_copies: 2.67
@@ -208,8 +208,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-97:
-    weight: 0.5
-    avg_copies: 1.25
+    weight: 0.5714
+    avg_copies: 1.8
   unknown-101:
     weight: 0.25
     avg_copies: 4.0

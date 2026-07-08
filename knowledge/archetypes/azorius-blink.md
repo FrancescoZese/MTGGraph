@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: Azorius Blink
-meta_share: 0.0112
+meta_share: 0.0111
 list_count: 55
 top_cards:
 - name: Guide of Souls
@@ -147,16 +147,16 @@ top_cards:
 - name: Idyllic Grange
   weight: 0.0909
   avg_copies: 1.2
-- name: Temple Garden
+- name: Haywire Mite
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Wear
   weight: 0.0909
   avg_copies: 1.0
 - name: Gran-Gran
   weight: 0.0909
   avg_copies: 1.0
-- name: Haywire Mite
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Wear
+- name: Temple Garden
   weight: 0.0909
   avg_copies: 1.0
 - name: Voice of Victory
@@ -180,10 +180,10 @@ top_cards:
 - name: Thraben Charm
   weight: 0.0545
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
+- name: Erode
   weight: 0.0545
   avg_copies: 1.0
-- name: Erode
+- name: Elesh Norn, Mother of Machines
   weight: 0.0545
   avg_copies: 1.0
 - name: card:the-mind-stone
@@ -198,100 +198,100 @@ top_cards:
 - name: Stony Silence
   weight: 0.0364
   avg_copies: 1.0
-- name: Damping Sphere
-  weight: 0.0364
-  avg_copies: 1.0
 - name: Elegant Parlor
   weight: 0.0364
   avg_copies: 1.0
 - name: Practiced Offense
   weight: 0.0364
   avg_copies: 1.0
-- name: Snow-Covered Plains
+- name: Damping Sphere
+  weight: 0.0364
+  avg_copies: 1.0
+- name: Ajani, Nacatl Pariah
   weight: 0.0182
   avg_copies: 4.0
 - name: Overlord of the Balemurk
   weight: 0.0182
   avg_copies: 4.0
-- name: Ajani, Nacatl Pariah
+- name: Snow-Covered Plains
   weight: 0.0182
   avg_copies: 4.0
-- name: Agatha's Soul Cauldron
+- name: Leonardo, Cutting Edge
   weight: 0.0182
   avg_copies: 3.0
 - name: Goblin Bombardment
   weight: 0.0182
   avg_copies: 3.0
-- name: Leonardo, Cutting Edge
+- name: Agatha's Soul Cauldron
   weight: 0.0182
   avg_copies: 3.0
-- name: Walking Ballista
-  weight: 0.0182
-  avg_copies: 2.0
 - name: Flare of Fortitude
-  weight: 0.0182
-  avg_copies: 2.0
-- name: Mystic Gate
-  weight: 0.0182
-  avg_copies: 2.0
-- name: Giant Killer
-  weight: 0.0182
-  avg_copies: 2.0
-- name: Spell Snare
   weight: 0.0182
   avg_copies: 2.0
 - name: Godless Shrine
   weight: 0.0182
   avg_copies: 2.0
-- name: Snow-Covered Island
+- name: Walking Ballista
   weight: 0.0182
-  avg_copies: 1.0
-- name: Flitterwing Nuisance
+  avg_copies: 2.0
+- name: Spell Snare
   weight: 0.0182
-  avg_copies: 1.0
-- name: Cryptic Command
+  avg_copies: 2.0
+- name: Giant Killer
   weight: 0.0182
-  avg_copies: 1.0
-- name: Nihil Spellbomb
+  avg_copies: 2.0
+- name: Mystic Gate
   weight: 0.0182
-  avg_copies: 1.0
-- name: Heliod, Sun-Crowned
-  weight: 0.0182
-  avg_copies: 1.0
-- name: Kataki, War's Wage
-  weight: 0.0182
-  avg_copies: 1.0
-- name: Polluted Delta
-  weight: 0.0182
-  avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.0182
-  avg_copies: 1.0
-- name: Shadowy Backstreet
-  weight: 0.0182
-  avg_copies: 1.0
-- name: Sink into Stupor
-  weight: 0.0182
-  avg_copies: 1.0
-- name: Watery Grave
-  weight: 0.0182
-  avg_copies: 1.0
-- name: Mistcaller
+  avg_copies: 2.0
+- name: Ragavan, Nimble Pilferer
   weight: 0.0182
   avg_copies: 1.0
 - name: Winternight Stories
   weight: 0.0182
   avg_copies: 1.0
-- name: Enduring Innocence
-  weight: 0.0182
-  avg_copies: 1.0
-- name: Ragavan, Nimble Pilferer
-  weight: 0.0182
-  avg_copies: 1.0
-- name: Eiganjo, Seat of the Empire
+- name: Polluted Delta
   weight: 0.0182
   avg_copies: 1.0
 - name: Skycoach Conductor
+  weight: 0.0182
+  avg_copies: 1.0
+- name: Kataki, War's Wage
+  weight: 0.0182
+  avg_copies: 1.0
+- name: Sink into Stupor
+  weight: 0.0182
+  avg_copies: 1.0
+- name: Nihil Spellbomb
+  weight: 0.0182
+  avg_copies: 1.0
+- name: Hurkyl's Recall
+  weight: 0.0182
+  avg_copies: 1.0
+- name: Mistcaller
+  weight: 0.0182
+  avg_copies: 1.0
+- name: Snow-Covered Island
+  weight: 0.0182
+  avg_copies: 1.0
+- name: Shadowy Backstreet
+  weight: 0.0182
+  avg_copies: 1.0
+- name: Heliod, Sun-Crowned
+  weight: 0.0182
+  avg_copies: 1.0
+- name: Cryptic Command
+  weight: 0.0182
+  avg_copies: 1.0
+- name: Watery Grave
+  weight: 0.0182
+  avg_copies: 1.0
+- name: Flitterwing Nuisance
+  weight: 0.0182
+  avg_copies: 1.0
+- name: Enduring Innocence
+  weight: 0.0182
+  avg_copies: 1.0
+- name: Eiganjo, Seat of the Empire
   weight: 0.0182
   avg_copies: 1.0
 ---

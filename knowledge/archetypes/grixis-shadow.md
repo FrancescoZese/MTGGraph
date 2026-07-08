@@ -7,19 +7,19 @@ name: Grixis Shadow
 meta_share: 0.001
 list_count: 5
 top_cards:
+- name: Death's Shadow
+  weight: 1.0
+  avg_copies: 4.0
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Street Wraith
-  weight: 1.0
-  avg_copies: 4.0
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
-- name: Death's Shadow
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
@@ -52,10 +52,10 @@ top_cards:
 - name: Watery Grave
   weight: 1.0
   avg_copies: 2.0
-- name: Swamp
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
@@ -91,10 +91,10 @@ top_cards:
 - name: Undercity Sewers
   weight: 0.4
   avg_copies: 1.0
-- name: Flow State
+- name: Nethergoyf
   weight: 0.2
   avg_copies: 4.0
-- name: Nethergoyf
+- name: Flow State
   weight: 0.2
   avg_copies: 4.0
 - name: Quantum Riddler
@@ -103,10 +103,16 @@ top_cards:
 - name: Murktide Regent
   weight: 0.2
   avg_copies: 3.0
-- name: Counterspell
+- name: Damping Sphere
   weight: 0.2
   avg_copies: 2.0
 - name: Fire Magic
+  weight: 0.2
+  avg_copies: 2.0
+- name: Dauthi Voidwalker
+  weight: 0.2
+  avg_copies: 2.0
+- name: Counterspell
   weight: 0.2
   avg_copies: 2.0
 - name: End of the Hunt
@@ -115,19 +121,13 @@ top_cards:
 - name: Spell Snare
   weight: 0.2
   avg_copies: 2.0
-- name: Damping Sphere
-  weight: 0.2
-  avg_copies: 2.0
-- name: Dauthi Voidwalker
-  weight: 0.2
-  avg_copies: 2.0
-- name: Surgical Extraction
+- name: Engineered Explosives
   weight: 0.2
   avg_copies: 1.0
 - name: Kaito, Bane of Nightmares
   weight: 0.2
   avg_copies: 1.0
-- name: Engineered Explosives
+- name: Surgical Extraction
   weight: 0.2
   avg_copies: 1.0
 - name: Force of Despair

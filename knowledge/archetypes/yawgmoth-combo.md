@@ -3,7 +3,7 @@ colors:
 - B
 - G
 name: Yawgmoth Combo
-meta_share: 0.0151
+meta_share: 0.0149
 list_count: 74
 top_cards:
 - name: Verdant Catacombs
@@ -63,10 +63,10 @@ top_cards:
 - name: Endurance
   weight: 1.0
   avg_copies: 1.04
-- name: Swamp
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
-- name: Dryad Arbor
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Windswept Heath
@@ -111,13 +111,13 @@ top_cards:
 - name: Culling Ritual
   weight: 0.4324
   avg_copies: 1.03
-- name: Scavenging Ooze
-  weight: 0.2703
-  avg_copies: 1.0
 - name: Pile On
   weight: 0.2703
   avg_copies: 1.0
 - name: Sephiroth, Fabled SOLDIER
+  weight: 0.2703
+  avg_copies: 1.0
+- name: Scavenging Ooze
   weight: 0.2703
   avg_copies: 1.0
 - name: Wooded Foothills
@@ -159,10 +159,10 @@ top_cards:
 - name: Shifting Woodland
   weight: 0.027
   avg_copies: 1.5
-- name: card:guerrilla-gorilla
+- name: Cankerbloom
   weight: 0.027
   avg_copies: 1.0
-- name: Cankerbloom
+- name: card:guerrilla-gorilla
   weight: 0.027
   avg_copies: 1.0
 - name: Assassin's Trophy
@@ -171,43 +171,43 @@ top_cards:
 - name: card:wastewood-verge
   weight: 0.0135
   avg_copies: 2.0
-- name: Sylvan Safekeeper
-  weight: 0.0135
-  avg_copies: 1.0
-- name: Fade from History
-  weight: 0.0135
-  avg_copies: 1.0
-- name: card:mole-man-moloid-master
-  weight: 0.0135
-  avg_copies: 1.0
-- name: Creeping Corrosion
-  weight: 0.0135
-  avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.0135
-  avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 0.0135
-  avg_copies: 1.0
 - name: Disciple of Freyalise
+  weight: 0.0135
+  avg_copies: 1.0
+- name: Sylvan Safekeeper
   weight: 0.0135
   avg_copies: 1.0
 - name: Chomping Changeling
   weight: 0.0135
   avg_copies: 1.0
-- name: Spore Frog
+- name: Nurturing Peatland
   weight: 0.0135
   avg_copies: 1.0
 - name: Ghost Quarter
   weight: 0.0135
   avg_copies: 1.0
+- name: Icetill Explorer
+  weight: 0.0135
+  avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 0.0135
+  avg_copies: 1.0
+- name: Creeping Corrosion
+  weight: 0.0135
+  avg_copies: 1.0
 - name: Vicious Rivalry
   weight: 0.0135
   avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Surgical Extraction
   weight: 0.0135
   avg_copies: 1.0
-- name: Icetill Explorer
+- name: Spore Frog
+  weight: 0.0135
+  avg_copies: 1.0
+- name: card:mole-man-moloid-master
+  weight: 0.0135
+  avg_copies: 1.0
+- name: Fade from History
   weight: 0.0135
   avg_copies: 1.0
 ---

@@ -139,25 +139,25 @@ top_cards:
 - name: Arena of Glory
   weight: 0.1842
   avg_copies: 1.75
-- name: Damping Sphere
-  weight: 0.1842
-  avg_copies: 1.71
 - name: Subtlety
   weight: 0.1842
   avg_copies: 1.71
-- name: Hall of Storm Giants
+- name: Damping Sphere
+  weight: 0.1842
+  avg_copies: 1.71
+- name: Mountain
   weight: 0.1842
   avg_copies: 1.0
-- name: Mountain
+- name: Hall of Storm Giants
   weight: 0.1842
   avg_copies: 1.0
 - name: Tune the Narrative
   weight: 0.1579
   avg_copies: 1.83
-- name: Ashiok, Dream Render
+- name: Sink into Stupor
   weight: 0.1579
   avg_copies: 1.0
-- name: Sink into Stupor
+- name: Ashiok, Dream Render
   weight: 0.1579
   avg_copies: 1.0
 - name: Flame of Anor
@@ -199,88 +199,88 @@ top_cards:
 - name: Reprieve
   weight: 0.0526
   avg_copies: 2.0
-- name: Quantum Riddler
-  weight: 0.0526
-  avg_copies: 1.5
 - name: Traumatic Critique
   weight: 0.0526
   avg_copies: 1.5
-- name: Dovin's Veto
+- name: Quantum Riddler
   weight: 0.0526
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Wear
   weight: 0.0526
   avg_copies: 1.0
-- name: Dress Down
-  weight: 0.0263
-  avg_copies: 4.0
+- name: Dovin's Veto
+  weight: 0.0526
+  avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
   weight: 0.0263
   avg_copies: 4.0
-- name: card:felidar-guardian
+- name: Dress Down
   weight: 0.0263
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Nulldrifter
   weight: 0.0263
   avg_copies: 3.0
 - name: card:saheeli-rai
   weight: 0.0263
   avg_copies: 3.0
-- name: Drannith Magistrate
+- name: card:felidar-guardian
   weight: 0.0263
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Ephemerate
-  weight: 0.0263
-  avg_copies: 2.0
-- name: Prismari Charm
-  weight: 0.0263
-  avg_copies: 2.0
-- name: Invert Polarity
   weight: 0.0263
   avg_copies: 2.0
 - name: Harbinger of the Seas
   weight: 0.0263
   avg_copies: 2.0
+- name: Invert Polarity
+  weight: 0.0263
+  avg_copies: 2.0
+- name: Prismari Charm
+  weight: 0.0263
+  avg_copies: 2.0
 - name: Erode
   weight: 0.0263
   avg_copies: 2.0
-- name: Hallowed Moonlight
+- name: Drannith Magistrate
   weight: 0.0263
-  avg_copies: 1.0
-- name: Path to Exile
-  weight: 0.0263
-  avg_copies: 1.0
-- name: Kozilek, Butcher of Truth
-  weight: 0.0263
-  avg_copies: 1.0
-- name: Get Lost
-  weight: 0.0263
-  avg_copies: 1.0
-- name: Ghost Vacuum
-  weight: 0.0263
-  avg_copies: 1.0
-- name: Unlicensed Hearse
-  weight: 0.0263
-  avg_copies: 1.0
-- name: Emeritus of Ideation
+  avg_copies: 2.0
+- name: Vendilion Clique
   weight: 0.0263
   avg_copies: 1.0
 - name: Thraben Charm
   weight: 0.0263
   avg_copies: 1.0
-- name: Vendilion Clique
-  weight: 0.0263
-  avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Kozilek, Butcher of Truth
   weight: 0.0263
   avg_copies: 1.0
 - name: Windswept Heath
   weight: 0.0263
   avg_copies: 1.0
+- name: Path to Exile
+  weight: 0.0263
+  avg_copies: 1.0
 - name: Timeless Dragon
   weight: 0.0263
   avg_copies: 1.0
+- name: Emeritus of Ideation
+  weight: 0.0263
+  avg_copies: 1.0
+- name: Unlicensed Hearse
+  weight: 0.0263
+  avg_copies: 1.0
 - name: Raugrin Triome
+  weight: 0.0263
+  avg_copies: 1.0
+- name: Ghost Vacuum
+  weight: 0.0263
+  avg_copies: 1.0
+- name: Get Lost
+  weight: 0.0263
+  avg_copies: 1.0
+- name: Hallowed Moonlight
+  weight: 0.0263
+  avg_copies: 1.0
+- name: Gemstone Caverns
   weight: 0.0263
   avg_copies: 1.0
 ---

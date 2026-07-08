@@ -10,7 +10,7 @@ type: Creature — Drix Warlock
 meta_presence: 0.0004
 archetypes:
   dredge:
-    weight: 0.0455
+    weight: 0.0435
     avg_copies: 2.0
   unknown-148:
     weight: 1.0

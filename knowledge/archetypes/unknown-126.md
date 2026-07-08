@@ -4,16 +4,16 @@ colors:
 - B
 - G
 name: 'Unknown #126'
-meta_share: 0.0035
+meta_share: 0.0034
 list_count: 17
 top_cards:
-- name: Verdant Catacombs
+- name: Nature's Rhythm
   weight: 1.0
   avg_copies: 4.0
 - name: Badgermole Cub
   weight: 1.0
   avg_copies: 4.0
-- name: Nature's Rhythm
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
 - name: Devoted Druid
@@ -49,6 +49,9 @@ top_cards:
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.06
+- name: Underground Mortuary
+  weight: 1.0
+  avg_copies: 1.0
 - name: Walking Ballista
   weight: 1.0
   avg_copies: 1.0
@@ -56,9 +59,6 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Duskwatch Recruiter
-  weight: 1.0
-  avg_copies: 1.0
-- name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.0
 - name: Temple Garden
@@ -94,28 +94,28 @@ top_cards:
 - name: Damping Sphere
   weight: 0.8824
   avg_copies: 1.07
-- name: Sylvan Safekeeper
-  weight: 0.8824
-  avg_copies: 1.0
-- name: Misty Rainforest
+- name: Keen-Eyed Curator
   weight: 0.8824
   avg_copies: 1.0
 - name: Lush Portico
   weight: 0.8824
   avg_copies: 1.0
-- name: Keen-Eyed Curator
-  weight: 0.8824
-  avg_copies: 1.0
-- name: card:ethersworn-canonist
+- name: Sylvan Safekeeper
   weight: 0.8824
   avg_copies: 1.0
 - name: Eternal Witness
   weight: 0.8824
   avg_copies: 1.0
-- name: Kraul Harpooner
-  weight: 0.8235
+- name: card:ethersworn-canonist
+  weight: 0.8824
+  avg_copies: 1.0
+- name: Misty Rainforest
+  weight: 0.8824
   avg_copies: 1.0
 - name: Outland Liberator
+  weight: 0.8235
+  avg_copies: 1.0
+- name: Kraul Harpooner
   weight: 0.8235
   avg_copies: 1.0
 - name: Snow-Covered Forest
@@ -142,9 +142,6 @@ top_cards:
 - name: Leyline of Abundance
   weight: 0.0588
   avg_copies: 4.0
-- name: Fade from History
-  weight: 0.0588
-  avg_copies: 2.0
 - name: Wooded Foothills
   weight: 0.0588
   avg_copies: 2.0
@@ -154,22 +151,25 @@ top_cards:
 - name: Thoughtseize
   weight: 0.0588
   avg_copies: 2.0
-- name: card:fiend-artisan
+- name: Fade from History
   weight: 0.0588
-  avg_copies: 1.0
-- name: card:guerrilla-gorilla
+  avg_copies: 2.0
+- name: Crystal Barricade
   weight: 0.0588
   avg_copies: 1.0
 - name: Formidable Speaker
   weight: 0.0588
   avg_copies: 1.0
-- name: Crystal Barricade
+- name: Nurturing Peatland
+  weight: 0.0588
+  avg_copies: 1.0
+- name: card:guerrilla-gorilla
   weight: 0.0588
   avg_copies: 1.0
 - name: Drannith Magistrate
   weight: 0.0588
   avg_copies: 1.0
-- name: Nurturing Peatland
+- name: card:fiend-artisan
   weight: 0.0588
   avg_copies: 1.0
 ---

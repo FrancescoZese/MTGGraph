@@ -14,7 +14,7 @@ archetypes:
     weight: 0.5802
     avg_copies: 3.55
   goryo:
-    weight: 0.9913
+    weight: 0.9914
     avg_copies: 3.95
   necrodominance:
     weight: 0.0513
@@ -32,7 +32,7 @@ archetypes:
     weight: 0.2826
     avg_copies: 3.27
   dredge:
-    weight: 0.1818
+    weight: 0.1739
     avg_copies: 3.83
   grixis-shadow:
     weight: 1.0

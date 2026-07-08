@@ -42,10 +42,10 @@ top_cards:
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.06
-- name: Hallowed Fountain
+- name: Plains
   weight: 1.0
   avg_copies: 2.0
-- name: Plains
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.0
 - name: Meticulous Archive
@@ -57,10 +57,10 @@ top_cards:
 - name: Celestial Purge
   weight: 0.9
   avg_copies: 1.11
-- name: Watery Grave
+- name: Monumental Henge
   weight: 0.8
   avg_copies: 1.0
-- name: Monumental Henge
+- name: Watery Grave
   weight: 0.8
   avg_copies: 1.0
 - name: Wan Shi Tong, Librarian
@@ -84,13 +84,13 @@ top_cards:
 - name: Polluted Delta
   weight: 0.6
   avg_copies: 1.0
+- name: Hall of Storm Giants
+  weight: 0.6
+  avg_copies: 1.0
 - name: Undercity Sewers
   weight: 0.6
   avg_copies: 1.0
 - name: Misty Rainforest
-  weight: 0.6
-  avg_copies: 1.0
-- name: Hall of Storm Giants
   weight: 0.6
   avg_copies: 1.0
 - name: Brainsurge
@@ -102,10 +102,10 @@ top_cards:
 - name: Beza, the Bounding Spring
   weight: 0.5
   avg_copies: 1.6
-- name: Surgical Extraction
+- name: High Noon
   weight: 0.5
   avg_copies: 1.2
-- name: High Noon
+- name: Surgical Extraction
   weight: 0.5
   avg_copies: 1.2
 - name: Logic Knot
@@ -120,25 +120,25 @@ top_cards:
 - name: Path to Exile
   weight: 0.3
   avg_copies: 2.0
-- name: Lórien Revealed
+- name: Day's Undoing
   weight: 0.3
   avg_copies: 2.0
-- name: Day's Undoing
+- name: Lórien Revealed
   weight: 0.3
   avg_copies: 2.0
 - name: Tune the Narrative
   weight: 0.3
   avg_copies: 1.67
-- name: Get Lost
-  weight: 0.3
-  avg_copies: 1.0
-- name: Force of Negation
+- name: Ashiok, Dream Render
   weight: 0.3
   avg_copies: 1.0
 - name: Geier Reach Sanitarium
   weight: 0.3
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Force of Negation
+  weight: 0.3
+  avg_copies: 1.0
+- name: Get Lost
   weight: 0.3
   avg_copies: 1.0
 - name: Erode
@@ -147,40 +147,40 @@ top_cards:
 - name: Dress Down
   weight: 0.2
   avg_copies: 1.5
-- name: Steam Vents
-  weight: 0.2
-  avg_copies: 1.0
 - name: Arid Mesa
   weight: 0.2
   avg_copies: 1.0
-- name: No More Lies
+- name: Steam Vents
+  weight: 0.2
+  avg_copies: 1.0
+- name: Terminus
   weight: 0.1
   avg_copies: 2.0
 - name: Harbinger of the Seas
   weight: 0.1
   avg_copies: 2.0
-- name: Terminus
-  weight: 0.1
-  avg_copies: 2.0
 - name: Fatal Push
   weight: 0.1
   avg_copies: 2.0
-- name: Kaito, Bane of Nightmares
+- name: No More Lies
   weight: 0.1
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Thundering Falls
   weight: 0.1
   avg_copies: 1.0
 - name: Dovin's Veto
   weight: 0.1
   avg_copies: 1.0
+- name: Kaito, Bane of Nightmares
+  weight: 0.1
+  avg_copies: 1.0
+- name: Agna Qel'a
+  weight: 0.1
+  avg_copies: 1.0
 - name: Memory Deluge
   weight: 0.1
   avg_copies: 1.0
 - name: Rest in Peace
-  weight: 0.1
-  avg_copies: 1.0
-- name: Agna Qel'a
   weight: 0.1
   avg_copies: 1.0
 ---

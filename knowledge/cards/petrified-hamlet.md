@@ -9,10 +9,10 @@ type: Land
 meta_presence: 0.0008
 archetypes:
   azorius-control:
-    weight: 0.0149
+    weight: 0.0147
     avg_copies: 1.0
   goryo4:
-    weight: 0.1818
+    weight: 0.1667
     avg_copies: 2.5
   unknown-99:
     weight: 1.0

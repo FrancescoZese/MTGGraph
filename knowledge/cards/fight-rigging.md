@@ -7,7 +7,7 @@ name: Fight Rigging
 scryfall_id: 86fd3454-efe7-4feb-a6ad-069ae2fdbd18
 set: snc
 type: Enchantment
-meta_presence: 0.0051
+meta_presence: 0.005
 archetypes:
   unknown-61:
     weight: 1.0

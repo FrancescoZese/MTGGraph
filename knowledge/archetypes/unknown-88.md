@@ -3,13 +3,13 @@ colors:
 - W
 - G
 name: 'Unknown #88'
-meta_share: 0.0031
+meta_share: 0.003
 list_count: 15
 top_cards:
-- name: Birthing Ritual
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Guide of Souls
+- name: Birthing Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
@@ -30,10 +30,10 @@ top_cards:
 - name: Temple Garden
   weight: 1.0
   avg_copies: 2.93
-- name: Ranger-Captain of Eos
+- name: Brightglass Gearhulk
   weight: 1.0
   avg_copies: 2.8
-- name: Brightglass Gearhulk
+- name: Ranger-Captain of Eos
   weight: 1.0
   avg_copies: 2.8
 - name: Arid Mesa
@@ -84,10 +84,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.6
   avg_copies: 1.11
-- name: Creeping Corrosion
+- name: Wrath of the Skies
   weight: 0.5333
   avg_copies: 2.0
-- name: Wrath of the Skies
+- name: Creeping Corrosion
   weight: 0.5333
   avg_copies: 2.0
 - name: Starfield Shepherd
@@ -108,25 +108,25 @@ top_cards:
 - name: Eternal Witness
   weight: 0.2
   avg_copies: 2.33
-- name: Fade from History
-  weight: 0.2
-  avg_copies: 2.0
 - name: Voice of Victory
   weight: 0.2
   avg_copies: 2.0
-- name: Kataki, War's Wage
-  weight: 0.1333
+- name: Fade from History
+  weight: 0.2
   avg_copies: 2.0
 - name: Phelia, Exuberant Shepherd
   weight: 0.1333
   avg_copies: 2.0
-- name: Wooded Bastion
+- name: Kataki, War's Wage
   weight: 0.1333
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Insidious Fungus
   weight: 0.1333
   avg_copies: 1.0
 - name: Soulless Jailer
+  weight: 0.1333
+  avg_copies: 1.0
+- name: Wooded Bastion
   weight: 0.1333
   avg_copies: 1.0
 - name: Raise the Past
@@ -135,40 +135,40 @@ top_cards:
 - name: Consign to Memory
   weight: 0.0667
   avg_copies: 3.0
-- name: Orim's Chant
-  weight: 0.0667
-  avg_copies: 2.0
-- name: Hurkyl's Recall
-  weight: 0.0667
-  avg_copies: 2.0
-- name: Quantum Riddler
-  weight: 0.0667
-  avg_copies: 2.0
 - name: Veil of Summer
   weight: 0.0667
   avg_copies: 2.0
-- name: Flooded Strand
-  weight: 0.0667
-  avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 0.0667
-  avg_copies: 2.0
-- name: Test of Talents
+- name: Orim's Chant
   weight: 0.0667
   avg_copies: 2.0
 - name: Marsh Flats
   weight: 0.0667
   avg_copies: 2.0
-- name: Elesh Norn, Mother of Machines
+- name: Flooded Strand
   weight: 0.0667
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: Quantum Riddler
+  weight: 0.0667
+  avg_copies: 2.0
+- name: Test of Talents
+  weight: 0.0667
+  avg_copies: 2.0
+- name: Vexing Bauble
+  weight: 0.0667
+  avg_copies: 2.0
+- name: Hurkyl's Recall
+  weight: 0.0667
+  avg_copies: 2.0
 - name: Hallowed Fountain
   weight: 0.0667
   avg_copies: 1.0
-- name: Horizon Canopy
+- name: Elesh Norn, Mother of Machines
   weight: 0.0667
   avg_copies: 1.0
 - name: Collector Ouphe
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Horizon Canopy
   weight: 0.0667
   avg_copies: 1.0
 - name: Meticulous Archive

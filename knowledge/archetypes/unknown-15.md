@@ -6,25 +6,25 @@ name: 'Unknown #15'
 meta_share: 0.002
 list_count: 10
 top_cards:
-- name: Cori-Steel Cutter
-  weight: 1.0
-  avg_copies: 4.0
 - name: Mox Opal
-  weight: 1.0
-  avg_copies: 4.0
-- name: Emry, Lurker of the Loch
   weight: 1.0
   avg_copies: 4.0
 - name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
+- name: Emry, Lurker of the Loch
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cori-Steel Cutter
+  weight: 1.0
+  avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 3.9
-- name: Mishra's Bauble
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 3.8
-- name: Scalding Tarn
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 3.8
 - name: Consign to Memory
@@ -39,10 +39,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.4
-- name: Thundering Falls
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Mountain
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Metallic Rebuke
@@ -57,10 +57,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.9
   avg_copies: 1.78
-- name: Otawara, Soaring City
+- name: Aether Spellbomb
   weight: 0.9
   avg_copies: 1.0
-- name: Aether Spellbomb
+- name: Otawara, Soaring City
   weight: 0.9
   avg_copies: 1.0
 - name: Spirebluff Canal
@@ -81,16 +81,16 @@ top_cards:
 - name: Tormod's Crypt
   weight: 0.7
   avg_copies: 1.22
-- name: Haywire Mite
+- name: Pithing Needle
   weight: 0.7
   avg_copies: 1.0
-- name: Fiery Islet
+- name: Haywire Mite
   weight: 0.7
   avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.7
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Fiery Islet
   weight: 0.7
   avg_copies: 1.0
 - name: Quantum Riddler
@@ -111,6 +111,9 @@ top_cards:
 - name: Flooded Strand
   weight: 0.3
   avg_copies: 1.67
+- name: Engineered Explosives
+  weight: 0.3
+  avg_copies: 1.0
 - name: Vandalblast
   weight: 0.3
   avg_copies: 1.0
@@ -118,9 +121,6 @@ top_cards:
   weight: 0.3
   avg_copies: 1.0
 - name: Preordain
-  weight: 0.3
-  avg_copies: 1.0
-- name: Engineered Explosives
   weight: 0.3
   avg_copies: 1.0
 - name: Strix Serenade
@@ -156,31 +156,31 @@ top_cards:
 - name: Portable Hole
   weight: 0.1
   avg_copies: 3.0
-- name: Vivi Ornitier
-  weight: 0.1
-  avg_copies: 2.0
-- name: Sink into Stupor
-  weight: 0.1
-  avg_copies: 2.0
-- name: Hallowed Fountain
-  weight: 0.1
-  avg_copies: 2.0
 - name: Whipflare
   weight: 0.1
   avg_copies: 2.0
 - name: Teferi, Time Raveler
   weight: 0.1
   avg_copies: 2.0
+- name: Hallowed Fountain
+  weight: 0.1
+  avg_copies: 2.0
+- name: Vivi Ornitier
+  weight: 0.1
+  avg_copies: 2.0
+- name: Sink into Stupor
+  weight: 0.1
+  avg_copies: 2.0
 - name: Snapcaster Mage
   weight: 0.1
   avg_copies: 1.0
-- name: Lavaspur Boots
+- name: Annul
   weight: 0.1
   avg_copies: 1.0
 - name: Minamo, School at Water's Edge
   weight: 0.1
   avg_copies: 1.0
-- name: Annul
+- name: Lavaspur Boots
   weight: 0.1
   avg_copies: 1.0
 ---

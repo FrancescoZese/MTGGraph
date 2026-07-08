@@ -4,7 +4,7 @@ archetypes:
     weight: 0.0058
     avg_copies: 1.0
   boros-energy:
-    weight: 0.7862
+    weight: 0.7856
     avg_copies: 1.25
   dimir-control:
     weight: 0.1111
@@ -16,16 +16,16 @@ archetypes:
     weight: 0.6947
     avg_copies: 1.1
   amulet-titan:
-    weight: 0.0144
+    weight: 0.0142
     avg_copies: 2.0
   goryo:
-    weight: 0.5238
+    weight: 0.5236
     avg_copies: 1.11
   necrodominance:
     weight: 0.5641
     avg_copies: 1.41
   azorius-control:
-    weight: 0.5522
+    weight: 0.5441
     avg_copies: 1.24
   jeskai-control:
     weight: 0.5789
@@ -58,11 +58,11 @@ archetypes:
     weight: 0.0135
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0463
+    weight: 0.0459
     avg_copies: 1.6
   izzet-prowess:
-    weight: 0.5432
-    avg_copies: 1.51
+    weight: 0.5407
+    avg_copies: 1.52
   esper-blink:
     weight: 0.2174
     avg_copies: 1.35
@@ -76,7 +76,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   dredge:
-    weight: 0.4091
+    weight: 0.3913
     avg_copies: 2.0
   azorius-blink:
     weight: 0.1091
@@ -103,8 +103,11 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.7293
-    avg_copies: 1.23
+    weight: 0.7353
+    avg_copies: 1.25
+  goryo4:
+    weight: 0.0833
+    avg_copies: 1.0
   goryo5:
     weight: 0.375
     avg_copies: 1.67
@@ -196,8 +199,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-68:
-    weight: 0.2258
-    avg_copies: 1.14
+    weight: 0.2424
+    avg_copies: 1.25
   unknown-69:
     weight: 0.5
     avg_copies: 1.0
@@ -253,7 +256,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   unknown-122:
-    weight: 0.3333
+    weight: 0.3636
     avg_copies: 1.0
   unknown-131:
     weight: 0.625
@@ -271,8 +274,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-160:
-    weight: 0.1667
-    avg_copies: 1.8
+    weight: 0.1463
+    avg_copies: 1.67
   unknown-161:
     weight: 0.5
     avg_copies: 3.0
@@ -291,7 +294,7 @@ archetypes:
 cmc: 1
 colors: []
 image: https://cards.scryfall.io/normal/front/e/1/e15d76ac-1c23-4503-8225-375ac2bf2fb6.jpg?1673147668
-meta_presence: 0.2886
+meta_presence: 0.2875
 name: Surgical Extraction
 scryfall_id: e15d76ac-1c23-4503-8225-375ac2bf2fb6
 set: 2x2

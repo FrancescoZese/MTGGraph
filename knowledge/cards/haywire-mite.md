@@ -6,10 +6,10 @@ name: Haywire Mite
 scryfall_id: 6f813bc3-6d81-4555-8e4b-6ecd9a6757b7
 set: soc
 type: Artifact Creature — Insect
-meta_presence: 0.0803
+meta_presence: 0.0804
 archetypes:
   eldrazi-tron:
-    weight: 0.1026
+    weight: 0.1004
     avg_copies: 1.0
   goryo:
     weight: 0.0043
@@ -18,7 +18,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   affinity:
-    weight: 0.0206
+    weight: 0.0203
     avg_copies: 1.08
   kethis-combo:
     weight: 1.0
@@ -27,13 +27,13 @@ archetypes:
     weight: 0.2162
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.2315
+    weight: 0.2294
     avg_copies: 1.04
   samwise-combo:
     weight: 0.8276
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.9548
+    weight: 0.9557
     avg_copies: 1.0
   azorius-blink:
     weight: 0.0909
@@ -93,7 +93,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   unknown-97:
-    weight: 0.1667
+    weight: 0.1429
     avg_copies: 1.0
   unknown-102:
     weight: 0.5
@@ -111,6 +111,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-176:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-183:
     weight: 1.0
     avg_copies: 1.0
 ---

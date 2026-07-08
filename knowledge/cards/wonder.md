@@ -10,7 +10,7 @@ type: Creature — Incarnation
 meta_presence: 0.0006
 archetypes:
   dredge:
-    weight: 0.0909
+    weight: 0.087
     avg_copies: 1.0
   unknown-148:
     weight: 1.0

@@ -7,7 +7,7 @@ name: Calamity's Wake
 scryfall_id: 013bed2b-25db-4dfc-9283-e80c9ac6c841
 set: bro
 type: Instant
-meta_presence: 0.0014
+meta_presence: 0.0026
 archetypes:
   boros-ponza:
     weight: 0.0144
@@ -19,6 +19,6 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-160:
-    weight: 0.0667
+    weight: 0.1951
     avg_copies: 1.0
 ---
