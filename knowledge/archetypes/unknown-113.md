@@ -13,13 +13,13 @@ top_cards:
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Quantum Riddler
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
@@ -40,13 +40,13 @@ top_cards:
 - name: Ephemerate
   weight: 1.0
   avg_copies: 2.0
-- name: Force of Negation
+- name: High Noon
   weight: 1.0
   avg_copies: 1.5
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.5
-- name: High Noon
+- name: Force of Negation
   weight: 1.0
   avg_copies: 1.5
 - name: Meticulous Archive
@@ -61,6 +61,9 @@ top_cards:
 - name: Plains
   weight: 1.0
   avg_copies: 1.0
+- name: Swamp
+  weight: 1.0
+  avg_copies: 1.0
 - name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
@@ -70,16 +73,13 @@ top_cards:
 - name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
-  weight: 1.0
-  avg_copies: 1.0
+- name: Solitude
+  weight: 0.5
+  avg_copies: 4.0
 - name: Overlord of the Balemurk
   weight: 0.5
   avg_copies: 4.0
 - name: Counterspell
-  weight: 0.5
-  avg_copies: 4.0
-- name: Solitude
   weight: 0.5
   avg_copies: 4.0
 - name: Hydroelectric Specimen
@@ -88,49 +88,49 @@ top_cards:
 - name: White Orchid Phantom
   weight: 0.5
   avg_copies: 3.0
-- name: Witch Enchanter
-  weight: 0.5
-  avg_copies: 2.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.5
-  avg_copies: 2.0
-- name: Mystical Dispute
+- name: Spell Snare
   weight: 0.5
   avg_copies: 2.0
 - name: Practiced Offense
   weight: 0.5
   avg_copies: 2.0
+- name: Mystical Dispute
+  weight: 0.5
+  avg_copies: 2.0
+- name: Witch Enchanter
+  weight: 0.5
+  avg_copies: 2.0
 - name: Celestial Purge
   weight: 0.5
   avg_copies: 2.0
-- name: Spell Snare
+- name: Tamiyo, Inquisitive Student
   weight: 0.5
   avg_copies: 2.0
 - name: Emperor of Bones
   weight: 0.5
   avg_copies: 1.5
-- name: Ashiok, Dream Render
-  weight: 0.5
-  avg_copies: 1.0
-- name: Prismatic Ending
-  weight: 0.5
-  avg_copies: 1.0
-- name: Faerie Macabre
-  weight: 0.5
-  avg_copies: 1.0
-- name: Clarion Conqueror
+- name: Dress Down
   weight: 0.5
   avg_copies: 1.0
 - name: March of Otherworldly Light
   weight: 0.5
   avg_copies: 1.0
-- name: Dress Down
-  weight: 0.5
-  avg_copies: 1.0
-- name: Ghost Vacuum
+- name: Prismatic Ending
   weight: 0.5
   avg_copies: 1.0
 - name: Drannith Magistrate
+  weight: 0.5
+  avg_copies: 1.0
+- name: Clarion Conqueror
+  weight: 0.5
+  avg_copies: 1.0
+- name: Faerie Macabre
+  weight: 0.5
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
+  weight: 0.5
+  avg_copies: 1.0
+- name: Ghost Vacuum
   weight: 0.5
   avg_copies: 1.0
 ---

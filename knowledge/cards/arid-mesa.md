@@ -9,8 +9,8 @@ type: Land
 meta_presence: 0.3505
 archetypes:
   ruby-storm:
-    weight: 0.896
-    avg_copies: 2.52
+    weight: 0.8971
+    avg_copies: 2.51
   boros-energy:
     weight: 1.0
     avg_copies: 3.83
@@ -18,11 +18,11 @@ archetypes:
     weight: 0.9924
     avg_copies: 3.78
   azorius-control:
-    weight: 0.9559
-    avg_copies: 2.05
+    weight: 0.9565
+    avg_copies: 2.08
   jeskai-control:
-    weight: 0.9737
-    avg_copies: 3.59
+    weight: 0.9744
+    avg_copies: 3.61
   domain-zoo:
     weight: 0.9821
     avg_copies: 3.83
@@ -42,7 +42,7 @@ archetypes:
     weight: 0.0935
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.8333
+    weight: 0.834
     avg_copies: 2.38
   indomitable-creativity:
     weight: 0.9286
@@ -54,7 +54,7 @@ archetypes:
     weight: 0.9565
     avg_copies: 3.18
   azorius-blink:
-    weight: 0.8
+    weight: 0.7857
     avg_copies: 2.18
   izzet-wizards:
     weight: 0.0909
@@ -117,8 +117,8 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.0
   unknown-62:
-    weight: 0.88
-    avg_copies: 3.23
+    weight: 0.8846
+    avg_copies: 3.22
   unknown-66:
     weight: 1.0
     avg_copies: 1.0
@@ -127,7 +127,7 @@ archetypes:
     avg_copies: 1.0
   unknown-68:
     weight: 1.0
-    avg_copies: 3.7
+    avg_copies: 3.71
   unknown-70:
     weight: 1.0
     avg_copies: 3.64
@@ -228,7 +228,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-160:
-    weight: 0.1951
+    weight: 0.186
     avg_copies: 1.25
   unknown-161:
     weight: 1.0

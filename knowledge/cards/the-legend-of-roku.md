@@ -9,7 +9,7 @@ type: Enchantment — Saga // Legendary Creature — Avatar
 meta_presence: 0.11
 archetypes:
   boros-energy:
-    weight: 0.6192
+    weight: 0.6175
     avg_copies: 1.39
   jeskai-energy:
     weight: 0.1298
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.6331
     avg_copies: 1.31
   izzet-prowess:
-    weight: 0.0041
+    weight: 0.004
     avg_copies: 1.0
   naya-midrange:
     weight: 1.0
@@ -36,12 +36,12 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-68:
-    weight: 0.303
-    avg_copies: 1.07
+    weight: 0.2941
+    avg_copies: 1.06
   unknown-70:
     weight: 0.0909
     avg_copies: 1.0
   unknown-160:
-    weight: 0.2927
-    avg_copies: 1.25
+    weight: 0.3256
+    avg_copies: 1.21
 ---

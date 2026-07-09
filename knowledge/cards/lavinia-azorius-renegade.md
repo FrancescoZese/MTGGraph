@@ -11,13 +11,13 @@ type: Legendary Creature — Human Soldier
 meta_presence: 0.0064
 archetypes:
   goryo:
-    weight: 0.0086
+    weight: 0.0085
     avg_copies: 1.0
   samwise-combo:
     weight: 0.1897
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.1273
+    weight: 0.125
     avg_copies: 1.25
   bant-ritual:
     weight: 1.0
@@ -26,7 +26,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   unknown-62:
-    weight: 0.08
+    weight: 0.0769
     avg_copies: 2.0
   unknown-83:
     weight: 1.0

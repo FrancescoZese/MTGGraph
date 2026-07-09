@@ -8,7 +8,7 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 9.0
-- name: Urborg, Tomb of Yawgmoth
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: March of Wretched Sorrow
@@ -17,28 +17,31 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
-- name: Cabal Coffers
+- name: Inquisition of Kozilek
   weight: 1.0
   avg_copies: 4.0
-- name: Inquisition of Kozilek
+- name: Urborg, Tomb of Yawgmoth
   weight: 1.0
   avg_copies: 4.0
 - name: Karn, the Great Creator
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Cabal Coffers
   weight: 1.0
   avg_copies: 4.0
-- name: Field of Ruin
+- name: Relic of Progenitus
   weight: 1.0
   avg_copies: 3.0
-- name: Relic of Progenitus
+- name: Field of Ruin
   weight: 1.0
   avg_copies: 3.0
 - name: Sheoldred's Edict
   weight: 1.0
   avg_copies: 2.0
-- name: Demolition Field
+- name: Profane Tutor
+  weight: 1.0
+  avg_copies: 2.0
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 2.0
 - name: Mazemind Tome
@@ -47,37 +50,25 @@ top_cards:
 - name: Sheoldred, the Apocalypse
   weight: 1.0
   avg_copies: 2.0
-- name: Profane Tutor
-  weight: 1.0
-  avg_copies: 2.0
 - name: Cling to Dust
   weight: 1.0
   avg_copies: 2.0
 - name: Engineered Explosives
   weight: 1.0
   avg_copies: 2.0
-- name: Verdant Catacombs
+- name: Demolition Field
   weight: 1.0
   avg_copies: 2.0
 - name: Damnation
   weight: 1.0
   avg_copies: 1.5
-- name: Liquimetal Coating
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
-- name: Walking Ballista
+- name: The Stone Brain
   weight: 1.0
   avg_copies: 1.0
-- name: Oblivion Stone
-  weight: 1.0
-  avg_copies: 1.0
-- name: Cityscape Leveler
-  weight: 1.0
-  avg_copies: 1.0
-- name: card:thought-distortion
-  weight: 1.0
-  avg_copies: 1.0
-- name: Sundering Titan
+- name: Break the Ice
   weight: 1.0
   avg_copies: 1.0
 - name: Tormod's Crypt
@@ -86,19 +77,28 @@ top_cards:
 - name: Elixir of Immortality
   weight: 1.0
   avg_copies: 1.0
-- name: Break the Ice
+- name: Cityscape Leveler
   weight: 1.0
   avg_copies: 1.0
-- name: Damping Sphere
+- name: Liquimetal Coating
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowy Backstreet
+- name: Oblivion Stone
+  weight: 1.0
+  avg_copies: 1.0
+- name: Walking Ballista
+  weight: 1.0
+  avg_copies: 1.0
+- name: card:thought-distortion
+  weight: 1.0
+  avg_copies: 1.0
+- name: Sundering Titan
   weight: 1.0
   avg_copies: 1.0
 - name: Ensnaring Bridge
   weight: 1.0
   avg_copies: 1.0
-- name: The Stone Brain
+- name: Damping Sphere
   weight: 1.0
   avg_copies: 1.0
 ---

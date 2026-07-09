@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.0006
 archetypes:
   ruby-storm:
-    weight: 0.0058
+    weight: 0.0057
     avg_copies: 2.0
   unknown-41:
     weight: 0.3333

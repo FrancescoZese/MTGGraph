@@ -10,22 +10,10 @@ top_cards:
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
-- name: Fire Magic
-  weight: 1.0
-  avg_copies: 4.0
-- name: Green Sun's Zenith
-  weight: 1.0
-  avg_copies: 4.0
-- name: Icetill Explorer
-  weight: 1.0
-  avg_copies: 4.0
 - name: Erode
   weight: 1.0
   avg_copies: 4.0
-- name: Valakut, the Molten Pinnacle
-  weight: 1.0
-  avg_copies: 4.0
-- name: Arboreal Grazer
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 4.0
 - name: Wooded Foothills
@@ -34,7 +22,25 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 4.0
-- name: Windswept Heath
+- name: Arboreal Grazer
+  weight: 1.0
+  avg_copies: 4.0
+- name: Valakut, the Molten Pinnacle
+  weight: 1.0
+  avg_copies: 4.0
+- name: Icetill Explorer
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fire Magic
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:valakut-exploration
+  weight: 1.0
+  avg_copies: 3.0
+- name: Scapeshift
+  weight: 1.0
+  avg_copies: 3.0
+- name: Commercial District
   weight: 1.0
   avg_copies: 3.0
 - name: Wrenn and Six
@@ -43,22 +49,13 @@ top_cards:
 - name: Orim's Chant
   weight: 1.0
   avg_copies: 3.0
-- name: Commercial District
+- name: Windswept Heath
   weight: 1.0
   avg_copies: 3.0
-- name: card:valakut-exploration
-  weight: 1.0
-  avg_copies: 3.0
-- name: Scapeshift
-  weight: 1.0
-  avg_copies: 3.0
-- name: Dryad of the Ilysian Grove
-  weight: 1.0
-  avg_copies: 2.0
 - name: Stomping Ground
   weight: 1.0
   avg_copies: 2.0
-- name: Force of Vigor
+- name: Dryad of the Ilysian Grove
   weight: 1.0
   avg_copies: 2.0
 - name: High Noon
@@ -70,7 +67,25 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 2.0
+- name: Force of Vigor
+  weight: 1.0
+  avg_copies: 2.0
+- name: Forest
+  weight: 1.0
+  avg_copies: 1.0
+- name: Jetmir's Garden
+  weight: 1.0
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 1.0
+  avg_copies: 1.0
+- name: Fade from History
+  weight: 1.0
+  avg_copies: 1.0
 - name: Dwarven Mine
+  weight: 1.0
+  avg_copies: 1.0
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Collector Ouphe
@@ -79,22 +94,7 @@ top_cards:
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
-- name: Meltdown
-  weight: 1.0
-  avg_copies: 1.0
-- name: Forest
-  weight: 1.0
-  avg_copies: 1.0
 - name: Damping Sphere
-  weight: 1.0
-  avg_copies: 1.0
-- name: Fade from History
-  weight: 1.0
-  avg_copies: 1.0
-- name: Elegant Parlor
-  weight: 1.0
-  avg_copies: 1.0
-- name: Jetmir's Garden
   weight: 1.0
   avg_copies: 1.0
 ---

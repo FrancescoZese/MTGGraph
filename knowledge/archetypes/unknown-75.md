@@ -6,34 +6,34 @@ name: 'Unknown #75'
 meta_share: 0.0002
 list_count: 1
 top_cards:
-- name: Quantum Riddler
-  weight: 1.0
-  avg_copies: 4.0
 - name: Arid Mesa
-  weight: 1.0
-  avg_copies: 4.0
-- name: Guide of Souls
-  weight: 1.0
-  avg_copies: 4.0
-- name: Prismatic Ending
-  weight: 1.0
-  avg_copies: 4.0
-- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Hallowed Fountain
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Solitude
+  weight: 1.0
+  avg_copies: 4.0
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Phelia, Exuberant Shepherd
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
+- name: Hallowed Fountain
+  weight: 1.0
+  avg_copies: 4.0
+- name: Prismatic Ending
   weight: 1.0
   avg_copies: 4.0
 - name: Ranger-Captain of Eos

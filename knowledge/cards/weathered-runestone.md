@@ -9,6 +9,6 @@ type: Artifact
 meta_presence: 0.0004
 archetypes:
   eldrazi-tron:
-    weight: 0.0084
+    weight: 0.0083
     avg_copies: 1.0
 ---

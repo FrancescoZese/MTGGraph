@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: Necrodominance
-meta_share: 0.0079
+meta_share: 0.0078
 list_count: 39
 top_cards:
 - name: Swamp
@@ -18,10 +18,10 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.67
-- name: Sheoldred, the Apocalypse
+- name: Castle Locthwain
   weight: 0.9744
   avg_copies: 3.18
-- name: Castle Locthwain
+- name: Sheoldred, the Apocalypse
   weight: 0.9744
   avg_copies: 3.18
 - name: Soul Spike
@@ -72,10 +72,10 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 0.3077
   avg_copies: 1.92
-- name: Sorin of House Markov
+- name: Bloodstained Mire
   weight: 0.2564
   avg_copies: 2.0
-- name: Bloodstained Mire
+- name: Sorin of House Markov
   weight: 0.2564
   avg_copies: 2.0
 - name: Polluted Delta
@@ -105,10 +105,10 @@ top_cards:
 - name: Dreams of Steel and Oil
   weight: 0.1538
   avg_copies: 1.88
-- name: Ashiok, Dream Render
+- name: Disruptor Flute
   weight: 0.1538
   avg_copies: 1.67
-- name: Disruptor Flute
+- name: Ashiok, Dream Render
   weight: 0.1538
   avg_copies: 1.67
 - name: Necromentia
@@ -138,13 +138,13 @@ top_cards:
 - name: Underground Mortuary
   weight: 0.0769
   avg_copies: 1.0
-- name: Vein Ripper
-  weight: 0.0513
-  avg_copies: 4.0
 - name: Sorin, Imperious Bloodlord
   weight: 0.0513
   avg_copies: 4.0
 - name: Gonti's Machinations
+  weight: 0.0513
+  avg_copies: 4.0
+- name: Vein Ripper
   weight: 0.0513
   avg_copies: 4.0
 - name: Psychic Frog
@@ -156,16 +156,16 @@ top_cards:
 - name: Watery Grave
   weight: 0.0513
   avg_copies: 3.5
-- name: Agadeem's Awakening
-  weight: 0.0513
-  avg_copies: 2.0
 - name: Long Goodbye
   weight: 0.0513
   avg_copies: 2.0
-- name: Toxic Deluge
+- name: Agadeem's Awakening
+  weight: 0.0513
+  avg_copies: 2.0
+- name: The Filigree Sylex
   weight: 0.0513
   avg_copies: 1.5
-- name: The Filigree Sylex
+- name: Toxic Deluge
   weight: 0.0513
   avg_copies: 1.5
 - name: Shizo, Death's Storehouse
@@ -189,25 +189,22 @@ top_cards:
 - name: Quantum Riddler
   weight: 0.0256
   avg_copies: 3.0
-- name: Phyrexian Crusader
-  weight: 0.0256
-  avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 0.0256
-  avg_copies: 2.0
-- name: Hurkyl's Recall
-  weight: 0.0256
-  avg_copies: 2.0
-- name: End of the Hunt
+- name: Witherbloom Command
   weight: 0.0256
   avg_copies: 2.0
 - name: Culling Ritual
   weight: 0.0256
   avg_copies: 2.0
+- name: Vexing Bauble
+  weight: 0.0256
+  avg_copies: 2.0
 - name: card:trespasser-s-curse
   weight: 0.0256
   avg_copies: 2.0
-- name: Witherbloom Command
+- name: Phyrexian Crusader
+  weight: 0.0256
+  avg_copies: 2.0
+- name: Pillage the Bog
   weight: 0.0256
   avg_copies: 2.0
 - name: Overgrown Tomb
@@ -216,16 +213,22 @@ top_cards:
 - name: Mai, Scornful Striker
   weight: 0.0256
   avg_copies: 2.0
-- name: Pillage the Bog
+- name: End of the Hunt
   weight: 0.0256
   avg_copies: 2.0
-- name: Pithing Needle
+- name: Hurkyl's Recall
   weight: 0.0256
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Pick Your Poison
   weight: 0.0256
   avg_copies: 1.0
-- name: Stone of Erech
+- name: Kaito, Bane of Nightmares
+  weight: 0.0256
+  avg_copies: 1.0
+- name: Pithing Needle
+  weight: 0.0256
+  avg_copies: 1.0
+- name: Path of Peril
   weight: 0.0256
   avg_copies: 1.0
 - name: Blood Crypt
@@ -234,16 +237,13 @@ top_cards:
 - name: Cling to Dust
   weight: 0.0256
   avg_copies: 1.0
-- name: Nurturing Peatland
-  weight: 0.0256
-  avg_copies: 1.0
-- name: Kaito, Bane of Nightmares
-  weight: 0.0256
-  avg_copies: 1.0
 - name: Ratchet Bomb
   weight: 0.0256
   avg_copies: 1.0
-- name: Path of Peril
+- name: Nurturing Peatland
+  weight: 0.0256
+  avg_copies: 1.0
+- name: Stone of Erech
   weight: 0.0256
   avg_copies: 1.0
 ---

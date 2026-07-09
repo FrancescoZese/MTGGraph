@@ -9,25 +9,25 @@ type: Legendary Land
 meta_presence: 0.0842
 archetypes:
   ruby-storm:
-    weight: 0.9364
+    weight: 0.9314
     avg_copies: 1.02
   eldrazi-tron:
-    weight: 0.0167
+    weight: 0.0165
     avg_copies: 1.0
   amulet-titan:
     weight: 0.0071
     avg_copies: 1.0
   goryo:
-    weight: 0.0086
+    weight: 0.0085
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0294
+    weight: 0.029
     avg_copies: 1.0
   living-end:
     weight: 0.0167
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.0263
+    weight: 0.0256
     avg_copies: 1.0
   affinity:
     weight: 0.0045
@@ -39,7 +39,7 @@ archetypes:
     weight: 0.8571
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.1009
+    weight: 0.1
     avg_copies: 1.0
   simic-ritual:
     weight: 0.5584
@@ -48,7 +48,7 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.4975
+    weight: 0.4951
     avg_copies: 1.01
   dredge:
     weight: 0.0435
@@ -60,7 +60,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.9
   goryo4:
-    weight: 0.5833
+    weight: 0.6154
     avg_copies: 1.0
   unknown-16:
     weight: 0.8

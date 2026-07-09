@@ -6,22 +6,22 @@ name: Mono Green Ramp
 meta_share: 0.0012
 list_count: 6
 top_cards:
-- name: Badgermole Cub
-  weight: 1.0
-  avg_copies: 4.0
-- name: Green Sun's Zenith
+- name: Quirion Ranger
   weight: 1.0
   avg_copies: 4.0
 - name: Springheart Nantuko
   weight: 1.0
   avg_copies: 4.0
-- name: Quirion Ranger
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 4.0
-- name: Windswept Heath
+- name: Badgermole Cub
+  weight: 1.0
+  avg_copies: 4.0
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 3.33
-- name: Misty Rainforest
+- name: Windswept Heath
   weight: 1.0
   avg_copies: 3.33
 - name: Summoner's Pact
@@ -45,16 +45,16 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.17
-- name: Craterhoof Behemoth
-  weight: 1.0
-  avg_copies: 1.0
-- name: Chomping Changeling
+- name: Ashaya, Soul of the Wild
   weight: 1.0
   avg_copies: 1.0
 - name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
-- name: Ashaya, Soul of the Wild
+- name: Craterhoof Behemoth
+  weight: 1.0
+  avg_copies: 1.0
+- name: Chomping Changeling
   weight: 1.0
   avg_copies: 1.0
 - name: Disciple of Freyalise
@@ -72,19 +72,19 @@ top_cards:
 - name: Lotus Cobra
   weight: 0.6667
   avg_copies: 3.0
-- name: Tyvar, Jubilant Brawler
+- name: Thoughtseize
   weight: 0.6667
   avg_copies: 3.0
-- name: Thoughtseize
+- name: Tyvar, Jubilant Brawler
   weight: 0.6667
   avg_copies: 3.0
 - name: Mai, Scornful Striker
   weight: 0.6667
   avg_copies: 2.75
-- name: Ashiok, Dream Render
+- name: Nissa, Who Shakes the World
   weight: 0.6667
   avg_copies: 2.0
-- name: Nissa, Who Shakes the World
+- name: Ashiok, Dream Render
   weight: 0.6667
   avg_copies: 2.0
 - name: Overgrown Tomb
@@ -93,19 +93,19 @@ top_cards:
 - name: Creeping Corrosion
   weight: 0.6667
   avg_copies: 1.25
+- name: Nissa, Resurgent Animist
+  weight: 0.6667
+  avg_copies: 1.0
 - name: Formidable Speaker
   weight: 0.6667
   avg_copies: 1.0
 - name: Underground Mortuary
   weight: 0.6667
   avg_copies: 1.0
-- name: Nissa, Resurgent Animist
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Slumbering Trudge
+- name: The Great Henge
   weight: 0.3333
   avg_copies: 4.0
-- name: The Great Henge
+- name: Slumbering Trudge
   weight: 0.3333
   avg_copies: 4.0
 - name: Fanatic of Rhonas
@@ -117,13 +117,13 @@ top_cards:
 - name: Trinisphere
   weight: 0.3333
   avg_copies: 2.0
+- name: Vexing Bauble
+  weight: 0.1667
+  avg_copies: 3.0
 - name: Damping Sphere
   weight: 0.1667
   avg_copies: 3.0
 - name: Force of Vigor
-  weight: 0.1667
-  avg_copies: 3.0
-- name: Vexing Bauble
   weight: 0.1667
   avg_copies: 3.0
 - name: Fade from History

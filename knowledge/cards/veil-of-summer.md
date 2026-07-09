@@ -7,10 +7,10 @@ name: Veil of Summer
 scryfall_id: aa686c34-1c11-469f-93c2-f9891aea521f
 set: m20
 type: Instant
-meta_presence: 0.0318
+meta_presence: 0.032
 archetypes:
   ruby-storm:
-    weight: 0.0405
+    weight: 0.04
     avg_copies: 2.86
   hardened-scales:
     weight: 0.75
@@ -28,8 +28,8 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   broodscale-combo:
-    weight: 0.2414
-    avg_copies: 2.08
+    weight: 0.2427
+    avg_copies: 2.1
   cosmogoyf-fling:
     weight: 0.4839
     avg_copies: 3.73
@@ -37,8 +37,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-6:
-    weight: 0.6
-    avg_copies: 1.33
+    weight: 0.6667
+    avg_copies: 1.5
   unknown-8:
     weight: 1.0
     avg_copies: 2.0

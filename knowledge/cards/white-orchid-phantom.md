@@ -34,8 +34,8 @@ archetypes:
     weight: 0.4444
     avg_copies: 3.75
   azorius-blink:
-    weight: 0.7636
-    avg_copies: 3.41
+    weight: 0.7679
+    avg_copies: 3.42
   bant-ritual:
     weight: 1.0
     avg_copies: 2.0
@@ -55,8 +55,8 @@ archetypes:
     weight: 0.05
     avg_copies: 4.0
   unknown-62:
-    weight: 0.28
-    avg_copies: 2.12
+    weight: 0.3077
+    avg_copies: 2.22
   unknown-60:
     weight: 1.0
     avg_copies: 3.0

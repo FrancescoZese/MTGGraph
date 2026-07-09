@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.0598
 archetypes:
   affinity:
-    weight: 0.6599
+    weight: 0.6614
     avg_copies: 1.32
   izzet-artifacts:
     weight: 0.0312

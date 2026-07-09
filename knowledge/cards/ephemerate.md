@@ -16,10 +16,10 @@ archetypes:
     weight: 0.9466
     avg_copies: 1.8
   goryo:
-    weight: 0.9914
+    weight: 0.9915
     avg_copies: 3.87
   jeskai-control:
-    weight: 0.0263
+    weight: 0.0256
     avg_copies: 2.0
   reanimator:
     weight: 0.037
@@ -44,7 +44,7 @@ archetypes:
     avg_copies: 4.0
   azorius-blink:
     weight: 1.0
-    avg_copies: 3.51
+    avg_copies: 3.5
   goryo2:
     weight: 1.0
     avg_copies: 3.0
@@ -59,7 +59,7 @@ archetypes:
     avg_copies: 3.0
   unknown-62:
     weight: 1.0
-    avg_copies: 3.52
+    avg_copies: 3.54
   unknown-60:
     weight: 1.0
     avg_copies: 4.0

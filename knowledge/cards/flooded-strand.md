@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.3483
 archetypes:
   boros-energy:
-    weight: 0.848
+    weight: 0.8476
     avg_copies: 3.45
   dimir-control:
     weight: 0.8765
@@ -18,7 +18,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.87
   goryo:
-    weight: 0.9914
+    weight: 0.9915
     avg_copies: 3.39
   azorius-control:
     weight: 1.0
@@ -28,9 +28,9 @@ archetypes:
     avg_copies: 1.2
   jeskai-control:
     weight: 1.0
-    avg_copies: 3.89
+    avg_copies: 3.9
   affinity:
-    weight: 0.0203
+    weight: 0.0202
     avg_copies: 1.89
   domain-zoo:
     weight: 0.9821
@@ -69,8 +69,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.9455
-    avg_copies: 2.87
+    weight: 0.9464
+    avg_copies: 2.89
   izzet-artifacts:
     weight: 0.25
     avg_copies: 1.0
@@ -138,8 +138,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9077
-    avg_copies: 2.86
+    weight: 0.9104
+    avg_copies: 2.84
   unknown-51:
     weight: 1.0
     avg_copies: 4.0
@@ -162,7 +162,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-68:
-    weight: 0.6061
+    weight: 0.5882
     avg_copies: 1.95
   unknown-70:
     weight: 1.0

@@ -9,10 +9,10 @@ top_cards:
 - name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
-- name: Street Wraith
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Detective's Phoenix
@@ -21,22 +21,22 @@ top_cards:
 - name: Hollow One
   weight: 1.0
   avg_copies: 4.0
-- name: Blood Crypt
+- name: Meltdown
   weight: 1.0
   avg_copies: 3.0
 - name: Arena of Glory
   weight: 1.0
   avg_copies: 3.0
-- name: Meltdown
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 3.0
 - name: Mountain
   weight: 1.0
   avg_copies: 2.75
-- name: Bloodstained Mire
+- name: Fear of Missing Out
   weight: 1.0
   avg_copies: 2.25
-- name: Fear of Missing Out
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.25
 - name: Scalding Tarn
@@ -48,13 +48,13 @@ top_cards:
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.25
-- name: Burning Inquiry
+- name: Marauding Mako
   weight: 0.75
   avg_copies: 4.0
 - name: Leyline of the Void
   weight: 0.75
   avg_copies: 4.0
-- name: Marauding Mako
+- name: Burning Inquiry
   weight: 0.75
   avg_copies: 4.0
 - name: Damping Sphere
@@ -90,10 +90,10 @@ top_cards:
 - name: Pyroclasm
   weight: 0.5
   avg_copies: 1.5
-- name: Mishra's Bauble
+- name: Thoughtseize
   weight: 0.25
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Mishra's Bauble
   weight: 0.25
   avg_copies: 4.0
 - name: Kroxa, Titan of Death's Hunger
@@ -108,13 +108,13 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 0.25
   avg_copies: 2.0
+- name: Sheoldred's Edict
+  weight: 0.25
+  avg_copies: 1.0
 - name: Seal of Fire
   weight: 0.25
   avg_copies: 1.0
 - name: Sacred Foundry
-  weight: 0.25
-  avg_copies: 1.0
-- name: Sheoldred's Edict
   weight: 0.25
   avg_copies: 1.0
 - name: Swamp

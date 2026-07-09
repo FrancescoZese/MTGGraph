@@ -8,7 +8,7 @@ name: 'Unknown #96'
 meta_share: 0.0024
 list_count: 12
 top_cards:
-- name: Street Wraith
+- name: Marauding Mako
   weight: 1.0
   avg_copies: 4.0
 - name: Hardened Academic
@@ -17,7 +17,7 @@ top_cards:
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Marauding Mako
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Hollow One
@@ -74,10 +74,10 @@ top_cards:
 - name: Stomping Ground
   weight: 0.5
   avg_copies: 2.0
-- name: Stony Silence
+- name: Leyline of the Void
   weight: 0.4167
   avg_copies: 3.2
-- name: Leyline of the Void
+- name: Stony Silence
   weight: 0.4167
   avg_copies: 3.2
 - name: Obsidian Charmaw
@@ -89,22 +89,22 @@ top_cards:
 - name: Fire Magic
   weight: 0.3333
   avg_copies: 1.5
-- name: Lingering Souls
-  weight: 0.25
-  avg_copies: 2.0
-- name: Seasoned Pyromancer
+- name: Asmoranomardicadaistinaculdacar
   weight: 0.25
   avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.25
   avg_copies: 2.0
-- name: Asmoranomardicadaistinaculdacar
+- name: The Underworld Cookbook
   weight: 0.25
   avg_copies: 2.0
 - name: Surgical Extraction
   weight: 0.25
   avg_copies: 2.0
-- name: The Underworld Cookbook
+- name: Lingering Souls
+  weight: 0.25
+  avg_copies: 2.0
+- name: Seasoned Pyromancer
   weight: 0.25
   avg_copies: 2.0
 - name: Fear of Missing Out
@@ -131,40 +131,40 @@ top_cards:
 - name: Marsh Flats
   weight: 0.0833
   avg_copies: 3.0
-- name: Ghost Vacuum
-  weight: 0.0833
-  avg_copies: 3.0
 - name: Thoughtseize
   weight: 0.0833
   avg_copies: 3.0
 - name: Price of Freedom
   weight: 0.0833
   avg_copies: 3.0
-- name: Magebane Lizard
+- name: Ghost Vacuum
   weight: 0.0833
-  avg_copies: 2.0
-- name: Orcish Bowmasters
-  weight: 0.0833
-  avg_copies: 2.0
-- name: Deafening Silence
+  avg_copies: 3.0
+- name: Relic of Progenitus
   weight: 0.0833
   avg_copies: 2.0
 - name: Lava Dart
   weight: 0.0833
   avg_copies: 2.0
-- name: Prismatic Ending
+- name: Magebane Lizard
   weight: 0.0833
   avg_copies: 2.0
-- name: Relic of Progenitus
+- name: Prismatic Ending
   weight: 0.0833
   avg_copies: 2.0
 - name: Erode
   weight: 0.0833
   avg_copies: 2.0
-- name: Godless Shrine
+- name: Deafening Silence
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Orcish Bowmasters
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Arena of Glory
   weight: 0.0833
   avg_copies: 1.0
-- name: Arena of Glory
+- name: Godless Shrine
   weight: 0.0833
   avg_copies: 1.0
 ---

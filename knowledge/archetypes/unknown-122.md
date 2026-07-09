@@ -6,19 +6,19 @@ name: 'Unknown #122'
 meta_share: 0.0044
 list_count: 22
 top_cards:
-- name: Lava Dart
-  weight: 1.0
-  avg_copies: 4.0
 - name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
+- name: Lava Dart
+  weight: 1.0
+  avg_copies: 4.0
 - name: Preordain
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Stormchaser's Talent
@@ -78,10 +78,10 @@ top_cards:
 - name: Firebending Lesson
   weight: 0.5
   avg_copies: 1.0
-- name: Origin of Metalbending
+- name: Stomping Ground
   weight: 0.4091
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Origin of Metalbending
   weight: 0.4091
   avg_copies: 1.0
 - name: Fiery Islet
@@ -126,10 +126,10 @@ top_cards:
 - name: Assault Strobe
   weight: 0.1364
   avg_copies: 1.33
-- name: Iroh's Demonstration
+- name: Octopus Form
   weight: 0.1364
   avg_copies: 1.0
-- name: Octopus Form
+- name: Iroh's Demonstration
   weight: 0.1364
   avg_copies: 1.0
 - name: Soul-Guide Lantern
@@ -144,15 +144,18 @@ top_cards:
 - name: Questing Druid
   weight: 0.0455
   avg_copies: 4.0
-- name: Wear
+- name: Misty Rainforest
   weight: 0.0455
   avg_copies: 2.0
 - name: Vexing Bauble
   weight: 0.0455
   avg_copies: 2.0
-- name: Misty Rainforest
+- name: Wear
   weight: 0.0455
   avg_copies: 2.0
+- name: Accumulate Wisdom
+  weight: 0.0455
+  avg_copies: 1.0
 - name: Spell Snare
   weight: 0.0455
   avg_copies: 1.0
@@ -163,9 +166,6 @@ top_cards:
   weight: 0.0455
   avg_copies: 1.0
 - name: Fire Magic
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Accumulate Wisdom
   weight: 0.0455
   avg_copies: 1.0
 - name: Hurkyl's Recall

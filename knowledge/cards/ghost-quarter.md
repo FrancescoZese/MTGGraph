@@ -18,13 +18,13 @@ archetypes:
     weight: 0.0144
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.0135
+    weight: 0.0133
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.8532
-    avg_copies: 1.1
+    weight: 0.8545
+    avg_copies: 1.11
   broodscale-combo:
-    weight: 0.069
+    weight: 0.068
     avg_copies: 1.07
   scapeshift-combo:
     weight: 0.8333
@@ -33,7 +33,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo4:
-    weight: 0.25
+    weight: 0.2308
     avg_copies: 1.0
   unknown-4:
     weight: 1.0

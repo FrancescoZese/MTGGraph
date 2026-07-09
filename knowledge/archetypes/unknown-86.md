@@ -5,19 +5,19 @@ name: 'Unknown #86'
 meta_share: 0.0016
 list_count: 8
 top_cards:
-- name: Lava Spike
-  weight: 1.0
-  avg_copies: 4.0
 - name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
+- name: Lava Spike
+  weight: 1.0
+  avg_copies: 4.0
 - name: Monastery Swiftspear
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Boltwave
@@ -47,10 +47,10 @@ top_cards:
 - name: Elegant Parlor
   weight: 0.875
   avg_copies: 1.0
-- name: Arid Mesa
+- name: Scalding Tarn
   weight: 0.75
   avg_copies: 2.5
-- name: Scalding Tarn
+- name: Arid Mesa
   weight: 0.75
   avg_copies: 2.5
 - name: Wear
@@ -65,10 +65,10 @@ top_cards:
 - name: Unholy Heat
   weight: 0.625
   avg_copies: 3.4
-- name: Bloodstained Mire
+- name: Wooded Foothills
   weight: 0.5
   avg_copies: 3.0
-- name: Wooded Foothills
+- name: Bloodstained Mire
   weight: 0.5
   avg_copies: 3.0
 - name: Ragavan, Nimble Pilferer
@@ -83,10 +83,10 @@ top_cards:
 - name: Sunbaked Canyon
   weight: 0.375
   avg_copies: 2.0
-- name: Orim's Chant
+- name: Deflecting Palm
   weight: 0.375
   avg_copies: 1.67
-- name: Deflecting Palm
+- name: Orim's Chant
   weight: 0.375
   avg_copies: 1.67
 - name: Searing Blaze
@@ -107,19 +107,19 @@ top_cards:
 - name: Pyroclasm
   weight: 0.125
   avg_copies: 2.0
-- name: Path to Exile
-  weight: 0.125
-  avg_copies: 2.0
 - name: Boros Charm
   weight: 0.125
   avg_copies: 2.0
 - name: Vexing Bauble
   weight: 0.125
   avg_copies: 2.0
-- name: Engineered Explosives
+- name: Path to Exile
+  weight: 0.125
+  avg_copies: 2.0
+- name: Prismatic Ending
   weight: 0.125
   avg_copies: 1.0
-- name: Prismatic Ending
+- name: Engineered Explosives
   weight: 0.125
   avg_copies: 1.0
 - name: Sokenzan, Crucible of Defiance

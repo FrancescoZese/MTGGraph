@@ -2,13 +2,13 @@
 colors:
 - G
 name: Amulet Titan
-meta_share: 0.0284
+meta_share: 0.0282
 list_count: 141
 top_cards:
-- name: Amulet of Vigor
+- name: Arboreal Grazer
   weight: 1.0
   avg_copies: 4.0
-- name: Arboreal Grazer
+- name: Amulet of Vigor
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
@@ -182,20 +182,14 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.0284
   avg_copies: 1.25
-- name: Valakut, the Molten Pinnacle
+- name: Hedge Maze
   weight: 0.0284
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Valakut, the Molten Pinnacle
   weight: 0.0284
   avg_copies: 1.0
 - name: Creeping Corrosion
   weight: 0.0284
-  avg_copies: 1.0
-- name: Scavenger Grounds
-  weight: 0.0213
-  avg_copies: 1.0
-- name: Insidious Fungus
-  weight: 0.0213
   avg_copies: 1.0
 - name: card:mj-lnir-hammer-of-thor
   weight: 0.0213
@@ -203,13 +197,19 @@ top_cards:
 - name: Windswept Heath
   weight: 0.0213
   avg_copies: 1.0
-- name: Heritage Reclamation
-  weight: 0.0213
-  avg_copies: 1.0
 - name: Pyroclasm
   weight: 0.0213
   avg_copies: 1.0
+- name: Scavenger Grounds
+  weight: 0.0213
+  avg_copies: 1.0
+- name: Insidious Fungus
+  weight: 0.0213
+  avg_copies: 1.0
 - name: Kessig Wolf Run
+  weight: 0.0213
+  avg_copies: 1.0
+- name: Heritage Reclamation
   weight: 0.0213
   avg_copies: 1.0
 - name: card:lessons-from-life
@@ -218,67 +218,67 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.0142
   avg_copies: 2.0
-- name: Cavern of Souls
-  weight: 0.0142
-  avg_copies: 1.0
 - name: Emeritus of Abundance
-  weight: 0.0142
-  avg_copies: 1.0
-- name: Ureni, the Song Unending
   weight: 0.0142
   avg_copies: 1.0
 - name: Ghost Quarter
   weight: 0.0142
   avg_copies: 1.0
-- name: Hexdrinker
+- name: Ureni, the Song Unending
+  weight: 0.0142
+  avg_copies: 1.0
+- name: Cavern of Souls
   weight: 0.0142
   avg_copies: 1.0
 - name: Northampton Farm
   weight: 0.0142
   avg_copies: 1.0
-- name: Hurkyl's Recall
+- name: Hexdrinker
+  weight: 0.0142
+  avg_copies: 1.0
+- name: Defense Grid
   weight: 0.0071
   avg_copies: 3.0
-- name: Defense Grid
+- name: Hurkyl's Recall
   weight: 0.0071
   avg_copies: 3.0
 - name: Snow-Covered Forest
   weight: 0.0071
   avg_copies: 2.0
-- name: Carnage Tyrant
-  weight: 0.0071
-  avg_copies: 1.0
-- name: Formidable Speaker
-  weight: 0.0071
-  avg_copies: 1.0
-- name: Tormod's Crypt
-  weight: 0.0071
-  avg_copies: 1.0
-- name: Waterlogged Grove
-  weight: 0.0071
-  avg_copies: 1.0
-- name: card:lumra-bellow-of-the-woods
-  weight: 0.0071
-  avg_copies: 1.0
 - name: Misty Rainforest
   weight: 0.0071
   avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.0071
   avg_copies: 1.0
-- name: Titania, Protector of Argoth
-  weight: 0.0071
-  avg_copies: 1.0
-- name: Sakura-Tribe Elder
+- name: Carnage Tyrant
   weight: 0.0071
   avg_copies: 1.0
 - name: Dosan the Falling Leaf
   weight: 0.0071
   avg_copies: 1.0
-- name: card:gretchen-titchwillow
+- name: Lithomantic Barrage
   weight: 0.0071
   avg_copies: 1.0
-- name: Lithomantic Barrage
+- name: Sakura-Tribe Elder
+  weight: 0.0071
+  avg_copies: 1.0
+- name: Tormod's Crypt
+  weight: 0.0071
+  avg_copies: 1.0
+- name: Formidable Speaker
+  weight: 0.0071
+  avg_copies: 1.0
+- name: Titania, Protector of Argoth
+  weight: 0.0071
+  avg_copies: 1.0
+- name: card:lumra-bellow-of-the-woods
+  weight: 0.0071
+  avg_copies: 1.0
+- name: Waterlogged Grove
+  weight: 0.0071
+  avg_copies: 1.0
+- name: card:gretchen-titchwillow
   weight: 0.0071
   avg_copies: 1.0
 ---

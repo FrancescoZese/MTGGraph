@@ -18,7 +18,7 @@ archetypes:
     avg_copies: 2.0
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 1.13
+    avg_copies: 1.12
   simic-ritual:
     weight: 0.039
     avg_copies: 1.0

@@ -21,10 +21,10 @@ archetypes:
     weight: 1.0
     avg_copies: 3.96
   broodscale-combo:
-    weight: 0.0148
+    weight: 0.0146
     avg_copies: 2.0
   azorius-blink:
-    weight: 0.0182
+    weight: 0.0179
     avg_copies: 3.0
   elves:
     weight: 1.0

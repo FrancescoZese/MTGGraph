@@ -29,7 +29,7 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 1.0
   avg_copies: 2.25
-- name: Breeding Pool
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Plains
@@ -38,13 +38,13 @@ top_cards:
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Forest
+- name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
 - name: Island
+  weight: 1.0
+  avg_copies: 1.0
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Leyline Binding
@@ -95,13 +95,13 @@ top_cards:
 - name: Endurance
   weight: 0.5
   avg_copies: 1.5
+- name: Stomping Ground
+  weight: 0.5
+  avg_copies: 1.0
 - name: Kavaero, Mind-Bitten
   weight: 0.5
   avg_copies: 1.0
-- name: Elegant Parlor
-  weight: 0.5
-  avg_copies: 1.0
-- name: Stomping Ground
+- name: Thundering Falls
   weight: 0.5
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
@@ -110,97 +110,97 @@ top_cards:
 - name: Indatha Triome
   weight: 0.5
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Elegant Parlor
   weight: 0.5
   avg_copies: 1.0
-- name: Prismatic Ending
-  weight: 0.25
-  avg_copies: 4.0
-- name: Scion of Draco
+- name: Leyline of the Guildpact
   weight: 0.25
   avg_copies: 4.0
 - name: Orim's Chant
   weight: 0.25
   avg_copies: 4.0
-- name: Helga, Skittish Seer
+- name: Prismatic Ending
   weight: 0.25
   avg_copies: 4.0
 - name: Lórien Revealed
   weight: 0.25
   avg_copies: 4.0
-- name: Leyline of the Guildpact
+- name: Scion of Draco
+  weight: 0.25
+  avg_copies: 4.0
+- name: Helga, Skittish Seer
   weight: 0.25
   avg_copies: 4.0
 - name: Ephemerate
   weight: 0.25
   avg_copies: 3.0
-- name: Wrenn and Six
+- name: Fable of the Mirror-Breaker
   weight: 0.25
   avg_copies: 3.0
 - name: Delighted Halfling
   weight: 0.25
   avg_copies: 3.0
-- name: Fable of the Mirror-Breaker
+- name: Wrenn and Six
   weight: 0.25
   avg_copies: 3.0
-- name: Galvanic Discharge
+- name: Wrath of the Skies
   weight: 0.25
   avg_copies: 2.0
 - name: Spell Snare
   weight: 0.25
   avg_copies: 2.0
-- name: Wrath of the Skies
-  weight: 0.25
-  avg_copies: 2.0
-- name: Shatterstorm
-  weight: 0.25
-  avg_copies: 2.0
-- name: Ashiok, Dream Render
-  weight: 0.25
-  avg_copies: 2.0
-- name: Eternal Witness
+- name: Consign to Memory
   weight: 0.25
   avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.25
   avg_copies: 2.0
+- name: Shatterstorm
+  weight: 0.25
+  avg_copies: 2.0
 - name: Stock Up
   weight: 0.25
   avg_copies: 2.0
-- name: Consign to Memory
+- name: Galvanic Discharge
+  weight: 0.25
+  avg_copies: 2.0
+- name: Eternal Witness
   weight: 0.25
   avg_copies: 2.0
 - name: Brotherhood's End
   weight: 0.25
   avg_copies: 2.0
-- name: Risen Reef
+- name: Ashiok, Dream Render
   weight: 0.25
-  avg_copies: 1.0
-- name: Formidable Speaker
-  weight: 0.25
-  avg_copies: 1.0
-- name: Otawara, Soaring City
-  weight: 0.25
-  avg_copies: 1.0
-- name: Keruga, the Macrosage
+  avg_copies: 2.0
+- name: Zagoth Triome
   weight: 0.25
   avg_copies: 1.0
 - name: Boseiju, Who Endures
   weight: 0.25
   avg_copies: 1.0
-- name: Dismember
+- name: Gemstone Caverns
   weight: 0.25
   avg_copies: 1.0
-- name: Zagoth Triome
+- name: Otawara, Soaring City
   weight: 0.25
   avg_copies: 1.0
-- name: Beza, the Bounding Spring
+- name: Formidable Speaker
   weight: 0.25
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.25
   avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Keruga, the Macrosage
+  weight: 0.25
+  avg_copies: 1.0
+- name: Beza, the Bounding Spring
+  weight: 0.25
+  avg_copies: 1.0
+- name: Dismember
+  weight: 0.25
+  avg_copies: 1.0
+- name: Risen Reef
   weight: 0.25
   avg_copies: 1.0
 ---

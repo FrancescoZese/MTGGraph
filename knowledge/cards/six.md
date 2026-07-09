@@ -7,13 +7,13 @@ name: Six
 scryfall_id: f9246b68-580f-4f53-883d-7900880e4b0d
 set: mh3
 type: Legendary Creature — Treefolk
-meta_presence: 0.03
+meta_presence: 0.0298
 archetypes:
   amulet-titan:
     weight: 0.8936
     avg_copies: 1.03
   eldrazi-ramp:
-    weight: 0.0367
+    weight: 0.0364
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.0625
@@ -28,7 +28,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-6:
-    weight: 1.0
+    weight: 0.8333
     avg_copies: 1.2
   unknown-76:
     weight: 0.6667

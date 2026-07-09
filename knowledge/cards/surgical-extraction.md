@@ -1,10 +1,10 @@
 ---
 archetypes:
   ruby-storm:
-    weight: 0.0058
+    weight: 0.0057
     avg_copies: 1.0
   boros-energy:
-    weight: 0.7856
+    weight: 0.7841
     avg_copies: 1.25
   dimir-control:
     weight: 0.1111
@@ -19,16 +19,16 @@ archetypes:
     weight: 0.0142
     avg_copies: 2.0
   goryo:
-    weight: 0.5236
+    weight: 0.5234
     avg_copies: 1.11
   necrodominance:
     weight: 0.5641
     avg_copies: 1.41
   azorius-control:
-    weight: 0.5441
+    weight: 0.5507
     avg_copies: 1.24
   jeskai-control:
-    weight: 0.5789
+    weight: 0.5641
     avg_copies: 1.14
   domain-zoo:
     weight: 0.2589
@@ -55,14 +55,14 @@ archetypes:
     weight: 0.1942
     avg_copies: 1.71
   yawgmoth-combo:
-    weight: 0.0135
+    weight: 0.0133
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0459
+    weight: 0.0455
     avg_copies: 1.6
   izzet-prowess:
-    weight: 0.5407
-    avg_copies: 1.52
+    weight: 0.5425
+    avg_copies: 1.51
   esper-blink:
     weight: 0.2174
     avg_copies: 1.35
@@ -79,7 +79,7 @@ archetypes:
     weight: 0.3913
     avg_copies: 2.0
   azorius-blink:
-    weight: 0.1091
+    weight: 0.1071
     avg_copies: 1.5
   izzet-wizards:
     weight: 0.1818
@@ -106,7 +106,7 @@ archetypes:
     weight: 0.7353
     avg_copies: 1.25
   goryo4:
-    weight: 0.0833
+    weight: 0.0769
     avg_copies: 1.0
   goryo5:
     weight: 0.375
@@ -169,7 +169,7 @@ archetypes:
     weight: 0.875
     avg_copies: 1.14
   unknown-47:
-    weight: 0.1692
+    weight: 0.1642
     avg_copies: 1.55
   unknown-51:
     weight: 1.0
@@ -190,8 +190,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-62:
-    weight: 0.28
-    avg_copies: 1.57
+    weight: 0.3077
+    avg_copies: 1.62
   unknown-64:
     weight: 1.0
     avg_copies: 3.0
@@ -199,7 +199,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-68:
-    weight: 0.2424
+    weight: 0.2353
     avg_copies: 1.25
   unknown-69:
     weight: 0.5
@@ -274,7 +274,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-160:
-    weight: 0.1463
+    weight: 0.1395
     avg_copies: 1.67
   unknown-161:
     weight: 0.5
@@ -294,7 +294,7 @@ archetypes:
 cmc: 1
 colors: []
 image: https://cards.scryfall.io/normal/front/e/1/e15d76ac-1c23-4503-8225-375ac2bf2fb6.jpg?1673147668
-meta_presence: 0.2875
+meta_presence: 0.2869
 name: Surgical Extraction
 scryfall_id: e15d76ac-1c23-4503-8225-375ac2bf2fb6
 set: 2x2

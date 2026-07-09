@@ -8,7 +8,7 @@ name: Kaito, Bane of Nightmares
 scryfall_id: 55a14f30-4ff9-4472-90a6-c3139f1c18e5
 set: dsk
 type: Legendary Planeswalker — Kaito
-meta_presence: 0.0294
+meta_presence: 0.0296
 archetypes:
   dimir-control:
     weight: 0.7778
@@ -23,7 +23,7 @@ archetypes:
     weight: 0.039
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0041
+    weight: 0.004
     avg_copies: 2.0
   grixis-shadow:
     weight: 0.2
@@ -41,7 +41,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-47:
-    weight: 0.8923
+    weight: 0.8955
     avg_copies: 1.44
   unknown-51:
     weight: 1.0

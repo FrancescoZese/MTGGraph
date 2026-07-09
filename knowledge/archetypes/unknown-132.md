@@ -6,10 +6,13 @@ name: 'Unknown #132'
 meta_share: 0.0004
 list_count: 2
 top_cards:
-- name: Orcish Bowmasters
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
-- name: Nethergoyf
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 4.0
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
@@ -18,28 +21,25 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 4.0
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Street Wraith
-  weight: 1.0
-  avg_copies: 4.0
 - name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodstained Mire
+- name: Nethergoyf
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 3.5
-- name: Marsh Flats
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 3.5
 - name: Watery Grave
@@ -57,16 +57,16 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 2.5
-- name: Undercity Sewers
-  weight: 1.0
-  avg_copies: 2.0
 - name: Kaito, Bane of Nightmares
   weight: 1.0
   avg_copies: 2.0
-- name: Cling to Dust
+- name: Undercity Sewers
+  weight: 1.0
+  avg_copies: 2.0
+- name: Nihil Spellbomb
   weight: 1.0
   avg_copies: 1.5
-- name: Nihil Spellbomb
+- name: Cling to Dust
   weight: 1.0
   avg_copies: 1.5
 - name: Polluted Delta
@@ -81,13 +81,13 @@ top_cards:
 - name: Dress Down
   weight: 0.5
   avg_copies: 1.0
-- name: Ghost Vacuum
-  weight: 0.5
-  avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.5
   avg_copies: 1.0
 - name: Island
+  weight: 0.5
+  avg_copies: 1.0
+- name: Ghost Vacuum
   weight: 0.5
   avg_copies: 1.0
 ---

@@ -9,28 +9,28 @@ name: 'Unknown #144'
 meta_share: 0.0008
 list_count: 4
 top_cards:
-- name: Scion of Draco
-  weight: 1.0
-  avg_copies: 4.0
-- name: Force of Negation
-  weight: 1.0
-  avg_copies: 4.0
-- name: Shardless Agent
-  weight: 1.0
-  avg_copies: 4.0
 - name: Misty Rainforest
-  weight: 1.0
-  avg_copies: 4.0
-- name: Leyline Binding
-  weight: 1.0
-  avg_copies: 4.0
-- name: Subtlety
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
+  weight: 1.0
+  avg_copies: 4.0
+- name: Force of Negation
+  weight: 1.0
+  avg_copies: 4.0
+- name: Leyline Binding
+  weight: 1.0
+  avg_copies: 4.0
+- name: Scion of Draco
+  weight: 1.0
+  avg_copies: 4.0
+- name: Shardless Agent
+  weight: 1.0
+  avg_copies: 4.0
+- name: Subtlety
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -45,10 +45,13 @@ top_cards:
 - name: Practiced Offense
   weight: 1.0
   avg_copies: 3.0
-- name: Breeding Pool
+- name: Overgrown Tomb
   weight: 1.0
   avg_copies: 1.0
 - name: Teferi, Time Raveler
+  weight: 1.0
+  avg_copies: 1.0
+- name: Raugrin Triome
   weight: 1.0
   avg_copies: 1.0
 - name: Leyline of the Void
@@ -57,19 +60,10 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
+- name: Breeding Pool
+  weight: 1.0
+  avg_copies: 1.0
 - name: Godless Shrine
-  weight: 1.0
-  avg_copies: 1.0
-- name: Underground Mortuary
-  weight: 1.0
-  avg_copies: 1.0
-- name: Raugrin Triome
-  weight: 1.0
-  avg_copies: 1.0
-- name: Overgrown Tomb
-  weight: 1.0
-  avg_copies: 1.0
-- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Watery Grave
@@ -79,6 +73,12 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Island
+  weight: 1.0
+  avg_copies: 1.0
+- name: Underground Mortuary
+  weight: 1.0
+  avg_copies: 1.0
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -105,7 +105,13 @@ top_cards:
 - name: Inevitable Betrayal
   weight: 0.25
   avg_copies: 2.0
+- name: Toxic Deluge
+  weight: 0.25
+  avg_copies: 2.0
 - name: White Orchid Phantom
+  weight: 0.25
+  avg_copies: 2.0
+- name: Drannith Magistrate
   weight: 0.25
   avg_copies: 2.0
 - name: Sink into Stupor
@@ -114,19 +120,10 @@ top_cards:
 - name: Creeping Corrosion
   weight: 0.25
   avg_copies: 2.0
-- name: Toxic Deluge
+- name: Forest
   weight: 0.25
-  avg_copies: 2.0
-- name: Drannith Magistrate
-  weight: 0.25
-  avg_copies: 2.0
+  avg_copies: 1.0
 - name: Wrath of the Skies
-  weight: 0.25
-  avg_copies: 1.0
-- name: Damping Sphere
-  weight: 0.25
-  avg_copies: 1.0
-- name: Dismember
   weight: 0.25
   avg_copies: 1.0
 - name: High Noon
@@ -135,7 +132,10 @@ top_cards:
 - name: Commandeer
   weight: 0.25
   avg_copies: 1.0
-- name: Forest
+- name: Damping Sphere
+  weight: 0.25
+  avg_copies: 1.0
+- name: Dismember
   weight: 0.25
   avg_copies: 1.0
 ---

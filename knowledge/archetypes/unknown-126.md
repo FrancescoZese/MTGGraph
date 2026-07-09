@@ -7,13 +7,13 @@ name: 'Unknown #126'
 meta_share: 0.0034
 list_count: 17
 top_cards:
+- name: Verdant Catacombs
+  weight: 1.0
+  avg_copies: 4.0
 - name: Nature's Rhythm
   weight: 1.0
   avg_copies: 4.0
 - name: Badgermole Cub
-  weight: 1.0
-  avg_copies: 4.0
-- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
 - name: Devoted Druid
@@ -49,19 +49,19 @@ top_cards:
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.06
-- name: Underground Mortuary
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 - name: Walking Ballista
   weight: 1.0
   avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 1.0
-  avg_copies: 1.0
 - name: Duskwatch Recruiter
   weight: 1.0
   avg_copies: 1.0
-- name: Temple Garden
+- name: Collector Ouphe
+  weight: 1.0
+  avg_copies: 1.0
+- name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.0
 - name: Malevolent Rumble
@@ -79,13 +79,13 @@ top_cards:
 - name: Ouroboroid
   weight: 0.9412
   avg_copies: 1.04
-- name: Suncleanser
+- name: Godless Shrine
   weight: 0.9412
   avg_copies: 1.0
 - name: Grist, the Hunger Tide
   weight: 0.9412
   avg_copies: 1.0
-- name: Godless Shrine
+- name: Suncleanser
   weight: 0.9412
   avg_copies: 1.0
 - name: Orim's Chant
@@ -94,6 +94,9 @@ top_cards:
 - name: Damping Sphere
   weight: 0.8824
   avg_copies: 1.07
+- name: Misty Rainforest
+  weight: 0.8824
+  avg_copies: 1.0
 - name: Keen-Eyed Curator
   weight: 0.8824
   avg_copies: 1.0
@@ -107,9 +110,6 @@ top_cards:
   weight: 0.8824
   avg_copies: 1.0
 - name: card:ethersworn-canonist
-  weight: 0.8824
-  avg_copies: 1.0
-- name: Misty Rainforest
   weight: 0.8824
   avg_copies: 1.0
 - name: Outland Liberator
@@ -142,34 +142,34 @@ top_cards:
 - name: Leyline of Abundance
   weight: 0.0588
   avg_copies: 4.0
-- name: Wooded Foothills
-  weight: 0.0588
-  avg_copies: 2.0
-- name: Postmortem Lunge
-  weight: 0.0588
-  avg_copies: 2.0
 - name: Thoughtseize
+  weight: 0.0588
+  avg_copies: 2.0
+- name: Wooded Foothills
   weight: 0.0588
   avg_copies: 2.0
 - name: Fade from History
   weight: 0.0588
   avg_copies: 2.0
-- name: Crystal Barricade
+- name: Postmortem Lunge
   weight: 0.0588
-  avg_copies: 1.0
-- name: Formidable Speaker
-  weight: 0.0588
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Nurturing Peatland
-  weight: 0.0588
-  avg_copies: 1.0
-- name: card:guerrilla-gorilla
   weight: 0.0588
   avg_copies: 1.0
 - name: Drannith Magistrate
   weight: 0.0588
   avg_copies: 1.0
 - name: card:fiend-artisan
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Formidable Speaker
+  weight: 0.0588
+  avg_copies: 1.0
+- name: card:guerrilla-gorilla
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Crystal Barricade
   weight: 0.0588
   avg_copies: 1.0
 ---

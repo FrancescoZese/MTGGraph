@@ -9,10 +9,10 @@ top_cards:
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
-- name: Moonshadow
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Abhorrent Oculus
@@ -24,10 +24,10 @@ top_cards:
 - name: Flare of Denial
   weight: 1.0
   avg_copies: 3.33
-- name: Watery Grave
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
-- name: Consign to Memory
+- name: Watery Grave
   weight: 1.0
   avg_copies: 3.0
 - name: Subtlety
@@ -45,19 +45,19 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 1.67
-- name: Undercity Sewers
+- name: Swamp
   weight: 1.0
   avg_copies: 1.5
-- name: Swamp
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.5
 - name: Island
   weight: 1.0
   avg_copies: 1.33
-- name: Thought Scour
+- name: Fallaji Archaeologist
   weight: 0.8333
   avg_copies: 4.0
-- name: Fallaji Archaeologist
+- name: Thought Scour
   weight: 0.8333
   avg_copies: 4.0
 - name: Fatal Push
@@ -90,6 +90,9 @@ top_cards:
 - name: Loran of the Third Path
   weight: 0.5
   avg_copies: 1.0
+- name: Otawara, Soaring City
+  weight: 0.5
+  avg_copies: 1.0
 - name: Godless Shrine
   weight: 0.5
   avg_copies: 1.0
@@ -97,9 +100,6 @@ top_cards:
   weight: 0.5
   avg_copies: 1.0
 - name: Meticulous Archive
-  weight: 0.5
-  avg_copies: 1.0
-- name: Otawara, Soaring City
   weight: 0.5
   avg_copies: 1.0
 - name: Gran-Gran
@@ -117,10 +117,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.3333
   avg_copies: 1.0
-- name: Hedron Crab
+- name: Merfolk Secretkeeper
   weight: 0.1667
   avg_copies: 4.0
-- name: Merfolk Secretkeeper
+- name: Hedron Crab
   weight: 0.1667
   avg_copies: 4.0
 - name: Exhibition Tidecaller
@@ -138,22 +138,22 @@ top_cards:
 - name: The Meathook Massacre
   weight: 0.1667
   avg_copies: 1.0
-- name: Cephalid Coliseum
+- name: Lavinia, Azorius Renegade
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Toxic Deluge
   weight: 0.1667
   avg_copies: 1.0
 - name: Requiting Hex
   weight: 0.1667
   avg_copies: 1.0
-- name: Engineered Explosives
+- name: Cephalid Coliseum
   weight: 0.1667
   avg_copies: 1.0
 - name: Verdant Catacombs
   weight: 0.1667
   avg_copies: 1.0
-- name: Lavinia, Azorius Renegade
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Toxic Deluge
+- name: Engineered Explosives
   weight: 0.1667
   avg_copies: 1.0
 - name: Graveyard Trespasser
