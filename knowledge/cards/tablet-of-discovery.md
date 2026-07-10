@@ -10,7 +10,7 @@ type: Artifact
 meta_presence: 0.001
 archetypes:
   boros-ponza:
-    weight: 0.0216
+    weight: 0.0214
     avg_copies: 1.33
   unknown-104:
     weight: 1.0

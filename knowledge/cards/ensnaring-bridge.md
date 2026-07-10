@@ -15,16 +15,16 @@ archetypes:
     weight: 0.4516
     avg_copies: 1.75
   burn:
-    weight: 0.0333
+    weight: 0.0323
     avg_copies: 1.0
   mono-blue-tron:
     weight: 0.1
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.1223
+    weight: 0.1214
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.2182
+    weight: 0.2162
     avg_copies: 1.0
   rakdos-lantern-combo:
     weight: 1.0

@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0769
     avg_copies: 4.0
   boros-ponza:
-    weight: 0.0072
+    weight: 0.0071
     avg_copies: 4.0
   cosmogoyf-fling:
     weight: 0.5161

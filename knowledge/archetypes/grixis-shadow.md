@@ -13,7 +13,10 @@ top_cards:
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Bloodstained Mire
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
@@ -22,10 +25,7 @@ top_cards:
 - name: Death's Shadow
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodstained Mire
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
 - name: Moonshadow
@@ -46,16 +46,16 @@ top_cards:
 - name: Unholy Heat
   weight: 1.0
   avg_copies: 2.6
-- name: Watery Grave
-  weight: 1.0
-  avg_copies: 2.0
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 2.0
-- name: Swamp
+- name: Watery Grave
+  weight: 1.0
+  avg_copies: 2.0
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
@@ -64,19 +64,19 @@ top_cards:
 - name: Pyroclasm
   weight: 0.8
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Meltdown
   weight: 0.8
   avg_copies: 1.75
-- name: Meltdown
+- name: Vexing Bauble
   weight: 0.8
   avg_copies: 1.75
 - name: Expressive Iteration
   weight: 0.6
   avg_copies: 3.33
-- name: Mystical Dispute
+- name: Flusterstorm
   weight: 0.6
   avg_copies: 2.0
-- name: Flusterstorm
+- name: Mystical Dispute
   weight: 0.6
   avg_copies: 2.0
 - name: Nihil Spellbomb
@@ -91,19 +91,19 @@ top_cards:
 - name: Undercity Sewers
   weight: 0.4
   avg_copies: 1.0
-- name: Nethergoyf
-  weight: 0.2
-  avg_copies: 4.0
 - name: Flow State
   weight: 0.2
   avg_copies: 4.0
-- name: Murktide Regent
+- name: Nethergoyf
   weight: 0.2
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Quantum Riddler
   weight: 0.2
   avg_copies: 3.0
-- name: Spell Snare
+- name: Murktide Regent
+  weight: 0.2
+  avg_copies: 3.0
+- name: Damping Sphere
   weight: 0.2
   avg_copies: 2.0
 - name: End of the Hunt
@@ -115,22 +115,22 @@ top_cards:
 - name: Fire Magic
   weight: 0.2
   avg_copies: 2.0
-- name: Damping Sphere
-  weight: 0.2
-  avg_copies: 2.0
 - name: Counterspell
   weight: 0.2
   avg_copies: 2.0
-- name: Kaito, Bane of Nightmares
+- name: Spell Snare
+  weight: 0.2
+  avg_copies: 2.0
+- name: Engineered Explosives
   weight: 0.2
   avg_copies: 1.0
 - name: Force of Despair
   weight: 0.2
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Kaito, Bane of Nightmares
   weight: 0.2
   avg_copies: 1.0
-- name: Engineered Explosives
+- name: Surgical Extraction
   weight: 0.2
   avg_copies: 1.0
 ---

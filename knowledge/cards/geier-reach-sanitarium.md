@@ -6,19 +6,19 @@ name: Geier Reach Sanitarium
 scryfall_id: 4b9c92f0-4242-4a3e-9ede-6a4935f5c75d
 set: lcc
 type: Legendary Land
-meta_presence: 0.0152
+meta_presence: 0.0153
 archetypes:
   eldrazi-tron:
     weight: 0.0041
     avg_copies: 1.0
   goryo:
-    weight: 0.0085
+    weight: 0.0084
     avg_copies: 1.0
   azorius-control:
-    weight: 0.4348
+    weight: 0.4286
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.7436
+    weight: 0.75
     avg_copies: 1.0
   unknown-16:
     weight: 0.2

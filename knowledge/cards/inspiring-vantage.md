@@ -6,12 +6,12 @@ name: Inspiring Vantage
 scryfall_id: 85df6b6a-2dcf-4828-a4a8-e07d52e1fddd
 set: otj
 type: Land
-meta_presence: 0.0046
+meta_presence: 0.0048
 archetypes:
   boros-energy:
     weight: 0.0016
     avg_copies: 4.0
   burn:
-    weight: 0.7333
-    avg_copies: 3.14
+    weight: 0.7419
+    avg_copies: 3.17
 ---

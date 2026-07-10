@@ -14,7 +14,7 @@ archetypes:
     weight: 0.1481
     avg_copies: 1.52
   goryo:
-    weight: 0.3787
+    weight: 0.3739
     avg_copies: 1.15
   domain-zoo:
     weight: 0.0536
@@ -44,7 +44,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0746
+    weight: 0.0735
     avg_copies: 2.67
   unknown-78:
     weight: 1.0
@@ -53,8 +53,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-100:
-    weight: 0.5
-    avg_copies: 2.0
+    weight: 0.6667
+    avg_copies: 1.5
   unknown-111:
     weight: 0.25
     avg_copies: 1.5

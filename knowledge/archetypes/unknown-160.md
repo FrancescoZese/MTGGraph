@@ -3,7 +3,7 @@ colors:
 - W
 - R
 name: 'Unknown #160'
-meta_share: 0.0086
+meta_share: 0.0085
 list_count: 43
 top_cards:
 - name: Price of Freedom
@@ -72,13 +72,13 @@ top_cards:
 - name: Karn, the Great Creator
   weight: 0.4884
   avg_copies: 3.86
-- name: Liquimetal Coating
+- name: Ensnaring Bridge
   weight: 0.4884
   avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 0.4884
   avg_copies: 1.0
-- name: Ensnaring Bridge
+- name: Liquimetal Coating
   weight: 0.4884
   avg_copies: 1.0
 - name: Pithing Needle
@@ -108,16 +108,16 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.2791
   avg_copies: 1.0
-- name: The Stone Brain
-  weight: 0.2558
-  avg_copies: 1.0
 - name: Kataki, War's Wage
   weight: 0.2558
   avg_copies: 1.0
-- name: Calamity's Wake
-  weight: 0.2326
+- name: The Stone Brain
+  weight: 0.2558
   avg_copies: 1.0
 - name: Trinisphere
+  weight: 0.2326
+  avg_copies: 1.0
+- name: Calamity's Wake
   weight: 0.2326
   avg_copies: 1.0
 - name: Relic of Progenitus
@@ -135,13 +135,13 @@ top_cards:
 - name: card:restless-bivouac
   weight: 0.1395
   avg_copies: 1.17
-- name: Elixir of Immortality
-  weight: 0.1395
-  avg_copies: 1.0
 - name: Portable Hole
   weight: 0.1395
   avg_copies: 1.0
 - name: Sunbillow Verge
+  weight: 0.1395
+  avg_copies: 1.0
+- name: Elixir of Immortality
   weight: 0.1395
   avg_copies: 1.0
 - name: Leyline of Sanctity
@@ -168,37 +168,37 @@ top_cards:
 - name: Isochron Scepter
   weight: 0.0233
   avg_copies: 3.0
-- name: Meltdown
-  weight: 0.0233
-  avg_copies: 2.0
 - name: Elegant Parlor
   weight: 0.0233
   avg_copies: 2.0
 - name: Kor Firewalker
   weight: 0.0233
   avg_copies: 2.0
+- name: Meltdown
+  weight: 0.0233
+  avg_copies: 2.0
 - name: Flashback
-  weight: 0.0233
-  avg_copies: 1.0
-- name: card:chandra-hope-s-beacon
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Grafdigger's Cage
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Disruptor Flute
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Fire Magic
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Ark of Hunger
   weight: 0.0233
   avg_copies: 1.0
 - name: Crucible of Worlds
   weight: 0.0233
   avg_copies: 1.0
+- name: Disruptor Flute
+  weight: 0.0233
+  avg_copies: 1.0
+- name: Ark of Hunger
+  weight: 0.0233
+  avg_copies: 1.0
+- name: Grafdigger's Cage
+  weight: 0.0233
+  avg_copies: 1.0
+- name: Fire Magic
+  weight: 0.0233
+  avg_copies: 1.0
 - name: Cityscape Leveler
+  weight: 0.0233
+  avg_copies: 1.0
+- name: card:chandra-hope-s-beacon
   weight: 0.0233
   avg_copies: 1.0
 ---

@@ -11,10 +11,10 @@ type: Instant
 meta_presence: 0.0022
 archetypes:
   burn:
-    weight: 0.2333
+    weight: 0.2258
     avg_copies: 2.71
   boros-ponza:
-    weight: 0.0072
+    weight: 0.0071
     avg_copies: 4.0
   unknown-26:
     weight: 0.05

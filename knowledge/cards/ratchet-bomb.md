@@ -9,13 +9,13 @@ type: Artifact
 meta_presence: 0.0042
 archetypes:
   eldrazi-tron:
-    weight: 0.0661
+    weight: 0.0656
     avg_copies: 1.06
   necrodominance:
     weight: 0.0256
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0091
+    weight: 0.009
     avg_copies: 1.0
   goryo4:
     weight: 0.0769

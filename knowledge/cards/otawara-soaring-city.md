@@ -9,28 +9,28 @@ type: Legendary Land
 meta_presence: 0.1222
 archetypes:
   ruby-storm:
-    weight: 0.0114
+    weight: 0.0113
     avg_copies: 1.0
   dimir-control:
     weight: 0.5926
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.9574
+    weight: 0.9577
     avg_copies: 1.0
   goryo:
-    weight: 0.0085
+    weight: 0.0084
     avg_copies: 1.0
   azorius-control:
-    weight: 0.8116
+    weight: 0.8143
     avg_copies: 1.0
   living-end:
     weight: 0.7833
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.2564
+    weight: 0.25
     avg_copies: 1.0
   affinity:
-    weight: 0.0717
+    weight: 0.0716
     avg_copies: 1.0
   mill:
     weight: 0.9032
@@ -75,7 +75,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-6:
-    weight: 0.6667
+    weight: 0.5714
     avg_copies: 1.0
   unknown-10:
     weight: 1.0
@@ -84,7 +84,7 @@ archetypes:
     weight: 0.6
     avg_copies: 1.0
   unknown-15:
-    weight: 0.9
+    weight: 0.9091
     avg_copies: 1.0
   unknown-17:
     weight: 0.3333
@@ -105,7 +105,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.5075
+    weight: 0.5147
     avg_copies: 1.0
   unknown-62:
     weight: 0.0385

@@ -11,7 +11,7 @@ type: Legendary Creature — Human Soldier
 meta_presence: 0.0064
 archetypes:
   goryo:
-    weight: 0.0085
+    weight: 0.0084
     avg_copies: 1.0
   samwise-combo:
     weight: 0.1897

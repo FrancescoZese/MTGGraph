@@ -9,10 +9,13 @@ name: 'Unknown #153'
 meta_share: 0.0006
 list_count: 3
 top_cards:
-- name: Leyline of the Guildpact
+- name: Arboreal Grazer
   weight: 1.0
   avg_copies: 4.0
-- name: Arboreal Grazer
+- name: Spelunking
+  weight: 1.0
+  avg_copies: 4.0
+- name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
 - name: Green Sun's Zenith
@@ -21,22 +24,19 @@ top_cards:
 - name: Primeval Titan
   weight: 1.0
   avg_copies: 4.0
-- name: Spelunking
-  weight: 1.0
-  avg_copies: 4.0
-- name: Forest
-  weight: 1.0
-  avg_copies: 3.0
 - name: card:nykthos-shrine-to-nyx
   weight: 1.0
   avg_copies: 3.0
 - name: Force of Vigor
   weight: 1.0
   avg_copies: 3.0
-- name: Dryad of the Ilysian Grove
+- name: Forest
+  weight: 1.0
+  avg_copies: 3.0
+- name: Summoner's Pact
   weight: 1.0
   avg_copies: 2.67
-- name: Summoner's Pact
+- name: Dryad of the Ilysian Grove
   weight: 1.0
   avg_copies: 2.67
 - name: card:castle-garenbrig
@@ -45,13 +45,13 @@ top_cards:
 - name: Endurance
   weight: 1.0
   avg_copies: 2.33
-- name: Simic Growth Chamber
+- name: Valakut, the Molten Pinnacle
   weight: 1.0
   avg_copies: 2.0
 - name: Crumbling Vestige
   weight: 1.0
   avg_copies: 2.0
-- name: Valakut, the Molten Pinnacle
+- name: Simic Growth Chamber
   weight: 1.0
   avg_copies: 2.0
 - name: Windswept Heath
@@ -60,22 +60,22 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.83
-- name: Hanweir Battlements
+- name: Formidable Speaker
+  weight: 1.0
+  avg_copies: 1.0
+- name: Tolaria West
   weight: 1.0
   avg_copies: 1.0
 - name: Vesuva
   weight: 1.0
   avg_copies: 1.0
-- name: Otawara, Soaring City
-  weight: 1.0
-  avg_copies: 1.0
-- name: Formidable Speaker
+- name: Hanweir Battlements
   weight: 1.0
   avg_copies: 1.0
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
-- name: Tolaria West
+- name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
 - name: Selesnya Sanctuary
@@ -93,16 +93,16 @@ top_cards:
 - name: Rest in Peace
   weight: 0.6667
   avg_copies: 2.0
-- name: Temple Garden
+- name: Bojuka Bog
   weight: 0.6667
   avg_copies: 1.0
 - name: Lush Portico
   weight: 0.6667
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
+- name: Temple Garden
   weight: 0.6667
   avg_copies: 1.0
-- name: Bojuka Bog
+- name: Elesh Norn, Mother of Machines
   weight: 0.6667
   avg_copies: 1.0
 - name: Planar Genesis
@@ -117,16 +117,16 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.3333
   avg_copies: 2.0
-- name: Hedge Maze
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Insidious Fungus
   weight: 0.3333
   avg_copies: 1.0
-- name: Collector Ouphe
+- name: Hedge Maze
   weight: 0.3333
   avg_copies: 1.0
 - name: Breeding Pool
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Collector Ouphe
   weight: 0.3333
   avg_copies: 1.0
 ---

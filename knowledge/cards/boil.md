@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0006
 archetypes:
   boros-ponza:
-    weight: 0.0144
+    weight: 0.0143
     avg_copies: 1.0
   unknown-180:
     weight: 1.0

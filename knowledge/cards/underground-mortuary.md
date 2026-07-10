@@ -9,7 +9,7 @@ type: Land — Swamp Forest
 meta_presence: 0.062
 archetypes:
   goryo:
-    weight: 0.0255
+    weight: 0.0252
     avg_copies: 1.33
   necrodominance:
     weight: 0.0769
@@ -25,9 +25,9 @@ archetypes:
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 1.33
+    avg_copies: 1.34
   eldrazi-ramp:
-    weight: 0.0182
+    weight: 0.018
     avg_copies: 1.0
   simic-ritual:
     weight: 0.0779
@@ -36,7 +36,7 @@ archetypes:
     weight: 0.8966
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0146
+    weight: 0.0145
     avg_copies: 1.0
   jund-saga:
     weight: 0.6667

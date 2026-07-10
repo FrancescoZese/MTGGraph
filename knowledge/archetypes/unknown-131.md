@@ -7,28 +7,28 @@ name: 'Unknown #131'
 meta_share: 0.0016
 list_count: 8
 top_cards:
+- name: Quantum Riddler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ocelot Pride
+  weight: 1.0
+  avg_copies: 4.0
 - name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 4.0
-- name: Guide of Souls
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Quantum Riddler
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Ocelot Pride
+- name: Guide of Souls
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
 - name: Starfield Shepherd
@@ -43,34 +43,34 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 2.14
-- name: Ephemerate
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Ephemerate
   weight: 1.0
   avg_copies: 2.0
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 1.88
-- name: Plains
-  weight: 1.0
-  avg_copies: 1.75
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.75
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.75
+- name: Plains
+  weight: 1.0
+  avg_copies: 1.75
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.12
+- name: Island
+  weight: 1.0
+  avg_copies: 1.0
 - name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Watery Grave
-  weight: 1.0
-  avg_copies: 1.0
-- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Deafening Silence
@@ -106,28 +106,28 @@ top_cards:
 - name: Undercity Sewers
   weight: 0.25
   avg_copies: 1.0
-- name: Prismatic Ending
-  weight: 0.125
-  avg_copies: 3.0
 - name: Orcish Bowmasters
   weight: 0.125
   avg_copies: 3.0
+- name: Prismatic Ending
+  weight: 0.125
+  avg_copies: 3.0
+- name: Containment Priest
+  weight: 0.125
+  avg_copies: 2.0
 - name: Voice of Victory
   weight: 0.125
   avg_copies: 2.0
 - name: High Noon
   weight: 0.125
   avg_copies: 2.0
-- name: Containment Priest
-  weight: 0.125
-  avg_copies: 2.0
-- name: Elesh Norn, Mother of Machines
+- name: Clarion Conqueror
   weight: 0.125
   avg_copies: 1.0
 - name: Swamp
   weight: 0.125
   avg_copies: 1.0
-- name: Clarion Conqueror
+- name: Elesh Norn, Mother of Machines
   weight: 0.125
   avg_copies: 1.0
 ---

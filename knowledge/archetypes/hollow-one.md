@@ -159,10 +159,10 @@ top_cards:
 - name: Seal of Fire
   weight: 0.0606
   avg_copies: 1.0
-- name: Commercial District
+- name: Soul-Guide Lantern
   weight: 0.0606
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Commercial District
   weight: 0.0606
   avg_copies: 1.0
 - name: Violent Urge
@@ -171,19 +171,7 @@ top_cards:
 - name: Death's Shadow
   weight: 0.0303
   avg_copies: 4.0
-- name: Inti, Seneschal of the Sun
-  weight: 0.0303
-  avg_copies: 2.0
-- name: Flameblade Adept
-  weight: 0.0303
-  avg_copies: 2.0
 - name: Pyroclasm
-  weight: 0.0303
-  avg_copies: 2.0
-- name: Rough
-  weight: 0.0303
-  avg_copies: 2.0
-- name: Ancient Grudge
   weight: 0.0303
   avg_copies: 2.0
 - name: Magebane Lizard
@@ -192,19 +180,31 @@ top_cards:
 - name: Break the Ice
   weight: 0.0303
   avg_copies: 2.0
-- name: Cam and Farrik, Havoc Duo
-  weight: 0.0303
-  avg_copies: 2.0
 - name: Magus of the Moon
   weight: 0.0303
   avg_copies: 2.0
+- name: Inti, Seneschal of the Sun
+  weight: 0.0303
+  avg_copies: 2.0
+- name: Ancient Grudge
+  weight: 0.0303
+  avg_copies: 2.0
+- name: Cam and Farrik, Havoc Duo
+  weight: 0.0303
+  avg_copies: 2.0
+- name: Rough
+  weight: 0.0303
+  avg_copies: 2.0
+- name: Flameblade Adept
+  weight: 0.0303
+  avg_copies: 2.0
+- name: Overlord of the Balemurk
+  weight: 0.0303
+  avg_copies: 1.0
 - name: Shattering Spree
   weight: 0.0303
   avg_copies: 1.0
 - name: Barbarian Ring
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Overlord of the Balemurk
   weight: 0.0303
   avg_copies: 1.0
 ---

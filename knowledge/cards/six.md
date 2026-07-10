@@ -10,10 +10,10 @@ type: Legendary Creature — Treefolk
 meta_presence: 0.0298
 archetypes:
   amulet-titan:
-    weight: 0.8936
+    weight: 0.8944
     avg_copies: 1.03
   eldrazi-ramp:
-    weight: 0.0364
+    weight: 0.036
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.0625
@@ -28,7 +28,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-6:
-    weight: 0.8333
+    weight: 0.7143
     avg_copies: 1.2
   unknown-76:
     weight: 0.6667

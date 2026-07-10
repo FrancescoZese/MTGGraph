@@ -5,7 +5,7 @@ colors:
 - R
 - G
 name: 'Unknown #67'
-meta_share: 0.0122
+meta_share: 0.0121
 list_count: 61
 top_cards:
 - name: Subtlety
@@ -14,10 +14,10 @@ top_cards:
 - name: Force of Negation
   weight: 1.0
   avg_copies: 3.95
-- name: Shardless Agent
+- name: Violent Outburst
   weight: 1.0
   avg_copies: 3.95
-- name: Violent Outburst
+- name: Shardless Agent
   weight: 1.0
   avg_copies: 3.95
 - name: Misty Rainforest
@@ -44,16 +44,16 @@ top_cards:
 - name: Hedge Maze
   weight: 1.0
   avg_copies: 1.07
-- name: Stomping Ground
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
+- name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
 - name: Forest
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Breeding Pool
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
 - name: Oliphaunt
@@ -137,19 +137,19 @@ top_cards:
 - name: Hallowed Fountain
   weight: 0.1967
   avg_copies: 1.0
-- name: Leyline of the Void
+- name: Clarion Conqueror
   weight: 0.1803
   avg_copies: 3.0
-- name: Clarion Conqueror
+- name: Leyline of the Void
   weight: 0.1803
   avg_copies: 3.0
 - name: Vibrance
   weight: 0.1803
   avg_copies: 1.0
-- name: Magebane Lizard
+- name: Commandeer
   weight: 0.1639
   avg_copies: 1.4
-- name: Commandeer
+- name: Magebane Lizard
   weight: 0.1639
   avg_copies: 1.4
 - name: Obsidian Charmaw
@@ -164,16 +164,16 @@ top_cards:
 - name: Quantum Riddler
   weight: 0.082
   avg_copies: 1.12
-- name: Faerie Macabre
-  weight: 0.082
-  avg_copies: 1.0
 - name: Flare of Denial
   weight: 0.082
   avg_copies: 1.0
-- name: Valakut Awakening
-  weight: 0.0656
+- name: Faerie Macabre
+  weight: 0.082
   avg_copies: 1.0
 - name: Mountain
+  weight: 0.0656
+  avg_copies: 1.0
+- name: Valakut Awakening
   weight: 0.0656
   avg_copies: 1.0
 - name: Windcaller Aven
@@ -188,16 +188,19 @@ top_cards:
 - name: Overlord of the Balemurk
   weight: 0.0164
   avg_copies: 4.0
+- name: Fulminator Mage
+  weight: 0.0164
+  avg_copies: 3.0
 - name: Polluted Delta
   weight: 0.0164
   avg_copies: 3.0
 - name: Architects of Will
   weight: 0.0164
   avg_copies: 3.0
-- name: Fulminator Mage
-  weight: 0.0164
-  avg_copies: 3.0
 - name: Culling Ritual
+  weight: 0.0164
+  avg_copies: 2.0
+- name: card:anger-of-the-gods
   weight: 0.0164
   avg_copies: 2.0
 - name: Vendilion Clique
@@ -206,13 +209,13 @@ top_cards:
 - name: Bonecrusher Giant
   weight: 0.0164
   avg_copies: 2.0
-- name: card:anger-of-the-gods
+- name: Overgrown Tomb
   weight: 0.0164
-  avg_copies: 2.0
+  avg_copies: 1.0
 - name: Brainsurge
   weight: 0.0164
   avg_copies: 1.0
-- name: Arid Mesa
+- name: Harvester of Misery
   weight: 0.0164
   avg_copies: 1.0
 - name: Meticulous Archive
@@ -221,13 +224,10 @@ top_cards:
 - name: Underground Mortuary
   weight: 0.0164
   avg_copies: 1.0
-- name: Overgrown Tomb
-  weight: 0.0164
-  avg_copies: 1.0
-- name: Harvester of Misery
-  weight: 0.0164
-  avg_copies: 1.0
 - name: Collector Ouphe
+  weight: 0.0164
+  avg_copies: 1.0
+- name: Arid Mesa
   weight: 0.0164
   avg_copies: 1.0
 ---

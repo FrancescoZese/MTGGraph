@@ -10,10 +10,10 @@ type: Instant
 meta_presence: 0.0568
 archetypes:
   ruby-storm:
-    weight: 0.0171
+    weight: 0.0169
     avg_copies: 3.0
   goryo:
-    weight: 0.0085
+    weight: 0.0084
     avg_copies: 1.0
   hardened-scales:
     weight: 1.0
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.1429
     avg_copies: 2.0
   eldrazi-ramp:
-    weight: 0.3182
+    weight: 0.3153
     avg_copies: 1.83
   simic-ritual:
     weight: 0.0519
@@ -34,13 +34,13 @@ archetypes:
     weight: 0.0714
     avg_copies: 3.0
   broodscale-combo:
-    weight: 0.8155
+    weight: 0.8164
     avg_copies: 2.1
   izzet-artifacts:
     weight: 0.0312
     avg_copies: 1.0
   unknown-6:
-    weight: 0.5
+    weight: 0.5714
     avg_copies: 1.0
   unknown-25:
     weight: 1.0

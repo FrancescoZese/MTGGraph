@@ -17,10 +17,10 @@ top_cards:
 - name: Master of the Pearl Trident
   weight: 1.0
   avg_copies: 3.7
-- name: Sink into Stupor
+- name: Vodalian Hexcatcher
   weight: 1.0
   avg_copies: 3.6
-- name: Vodalian Hexcatcher
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 3.6
 - name: Aether Vial
@@ -38,10 +38,10 @@ top_cards:
 - name: Cavern of Souls
   weight: 1.0
   avg_copies: 2.9
-- name: Flare of Denial
+- name: Tishana's Tidebinder
   weight: 1.0
   avg_copies: 2.9
-- name: Tishana's Tidebinder
+- name: Flare of Denial
   weight: 1.0
   avg_copies: 2.9
 - name: Otawara, Soaring City
@@ -95,16 +95,16 @@ top_cards:
 - name: Spell Pierce
   weight: 0.1
   avg_copies: 2.0
-- name: Glasspool Mimic
-  weight: 0.1
-  avg_copies: 2.0
 - name: Hurkyl's Recall
   weight: 0.1
   avg_copies: 2.0
-- name: Oboro, Palace in the Clouds
+- name: Glasspool Mimic
+  weight: 0.1
+  avg_copies: 2.0
+- name: Gloomlake Verge
   weight: 0.1
   avg_copies: 1.0
-- name: Gloomlake Verge
+- name: Oboro, Palace in the Clouds
   weight: 0.1
   avg_copies: 1.0
 ---

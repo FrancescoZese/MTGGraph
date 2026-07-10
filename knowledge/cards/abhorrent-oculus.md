@@ -22,7 +22,7 @@ archetypes:
     weight: 0.987
     avg_copies: 3.87
   izzet-prowess:
-    weight: 0.0526
+    weight: 0.0518
     avg_copies: 1.31
   esper-blink:
     weight: 0.0326
@@ -34,7 +34,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.9853
+    weight: 0.9855
     avg_copies: 3.99
   soultrader-combo:
     weight: 0.4

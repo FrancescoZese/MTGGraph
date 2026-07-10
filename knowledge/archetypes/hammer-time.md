@@ -6,19 +6,19 @@ name: Hammer Time
 meta_share: 0.0018
 list_count: 9
 top_cards:
-- name: Colossus Hammer
+- name: Stoneforge Mystic
   weight: 1.0
   avg_copies: 4.0
-- name: Stoneforge Mystic
+- name: Colossus Hammer
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 3.89
-- name: Leyline Axe
+- name: Battlefield Improvisation
   weight: 1.0
   avg_copies: 3.78
-- name: Battlefield Improvisation
+- name: Leyline Axe
   weight: 1.0
   avg_copies: 3.78
 - name: Puresteel Paladin
@@ -33,10 +33,10 @@ top_cards:
 - name: Mox Opal
   weight: 1.0
   avg_copies: 2.89
-- name: Plains
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.33
-- name: Hallowed Fountain
+- name: Plains
   weight: 1.0
   avg_copies: 2.33
 - name: Inkmoth Nexus
@@ -72,10 +72,10 @@ top_cards:
 - name: Tormod's Crypt
   weight: 0.6667
   avg_copies: 1.33
-- name: Arid Mesa
+- name: Soulless Jailer
   weight: 0.5556
   avg_copies: 2.0
-- name: Soulless Jailer
+- name: Arid Mesa
   weight: 0.5556
   avg_copies: 2.0
 - name: Surge of Salvation
@@ -93,13 +93,13 @@ top_cards:
 - name: Kappa Cannoneer
   weight: 0.4444
   avg_copies: 1.5
-- name: Pithing Needle
-  weight: 0.4444
-  avg_copies: 1.0
 - name: Stern Scolding
   weight: 0.4444
   avg_copies: 1.0
 - name: Cryptic Coat
+  weight: 0.4444
+  avg_copies: 1.0
+- name: Pithing Needle
   weight: 0.4444
   avg_copies: 1.0
 - name: Windswept Heath
@@ -126,28 +126,28 @@ top_cards:
 - name: Sigarda's Aid
   weight: 0.2222
   avg_copies: 1.5
-- name: Voice of Victory
-  weight: 0.2222
-  avg_copies: 1.0
 - name: Paradise Mantle
   weight: 0.2222
   avg_copies: 1.0
-- name: Flare of Fortitude
+- name: Voice of Victory
+  weight: 0.2222
+  avg_copies: 1.0
+- name: Mishra's Bauble
   weight: 0.1111
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Flare of Fortitude
   weight: 0.1111
   avg_copies: 4.0
 - name: Containment Priest
   weight: 0.1111
   avg_copies: 2.0
+- name: Soul-Guide Lantern
+  weight: 0.1111
+  avg_copies: 1.0
 - name: Prismatic Ending
   weight: 0.1111
   avg_copies: 1.0
 - name: Skateboard
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
   weight: 0.1111
   avg_copies: 1.0
 ---

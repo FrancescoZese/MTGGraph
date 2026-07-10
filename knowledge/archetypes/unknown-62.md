@@ -105,10 +105,10 @@ top_cards:
 - name: Windswept Heath
   weight: 0.1923
   avg_copies: 1.8
-- name: Aang, Swift Savior
+- name: Deafening Silence
   weight: 0.1923
   avg_copies: 1.6
-- name: Deafening Silence
+- name: Aang, Swift Savior
   weight: 0.1923
   avg_copies: 1.6
 - name: Erode
@@ -123,13 +123,13 @@ top_cards:
 - name: Springleaf Drum
   weight: 0.1154
   avg_copies: 3.0
-- name: Misty Rainforest
+- name: Damping Sphere
   weight: 0.1154
   avg_copies: 2.0
 - name: Sanctifier en-Vec
   weight: 0.1154
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Misty Rainforest
   weight: 0.1154
   avg_copies: 2.0
 - name: No More Lies
@@ -159,28 +159,19 @@ top_cards:
 - name: Thraben Charm
   weight: 0.0769
   avg_copies: 1.25
-- name: Drannith Magistrate
-  weight: 0.0769
-  avg_copies: 1.0
 - name: Wear
   weight: 0.0769
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.0769
   avg_copies: 1.0
+- name: Drannith Magistrate
+  weight: 0.0769
+  avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
   weight: 0.0385
   avg_copies: 3.0
-- name: Floodfarm Verge
-  weight: 0.0385
-  avg_copies: 2.0
 - name: Obsidian Charmaw
-  weight: 0.0385
-  avg_copies: 2.0
-- name: Goblin Bombardment
-  weight: 0.0385
-  avg_copies: 2.0
-- name: card:geist-of-saint-traft
   weight: 0.0385
   avg_copies: 2.0
 - name: Galvanic Discharge
@@ -189,37 +180,46 @@ top_cards:
 - name: Flagstones of Trokair
   weight: 0.0385
   avg_copies: 2.0
-- name: Recruiter of the Guard
+- name: card:geist-of-saint-traft
   weight: 0.0385
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: Floodfarm Verge
+  weight: 0.0385
+  avg_copies: 2.0
+- name: Goblin Bombardment
+  weight: 0.0385
+  avg_copies: 2.0
 - name: card:exalted-sunborn
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Meltdown
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Otawara, Soaring City
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Elegant Parlor
   weight: 0.0385
   avg_copies: 1.0
 - name: Flitterwing Nuisance
   weight: 0.0385
   avg_copies: 1.0
-- name: Ajani, Nacatl Pariah
+- name: Elegant Parlor
   weight: 0.0385
   avg_copies: 1.0
-- name: Aven Interrupter
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Hydroelectric Specimen
+- name: Meltdown
   weight: 0.0385
   avg_copies: 1.0
 - name: Razorgrass Ambush
   weight: 0.0385
   avg_copies: 1.0
+- name: Aven Interrupter
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Otawara, Soaring City
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Recruiter of the Guard
+  weight: 0.0385
+  avg_copies: 1.0
 - name: Celestial Purge
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Ajani, Nacatl Pariah
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Hydroelectric Specimen
   weight: 0.0385
   avg_copies: 1.0
 ---

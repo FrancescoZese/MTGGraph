@@ -7,9 +7,12 @@ name: Seam Rip
 scryfall_id: 9d298847-2d02-4593-b4d3-c5b722edac1e
 set: eoe
 type: Enchantment
-meta_presence: 0.0004
+meta_presence: 0.0006
 archetypes:
   samwise-combo:
     weight: 0.0345
     avg_copies: 1.0
+  unknown-185:
+    weight: 1.0
+    avg_copies: 2.0
 ---

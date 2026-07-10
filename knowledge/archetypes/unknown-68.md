@@ -154,10 +154,10 @@ top_cards:
 - name: Damping Sphere
   weight: 0.1176
   avg_copies: 1.75
-- name: Meltdown
+- name: Haliya, Guided by Light
   weight: 0.1176
   avg_copies: 1.0
-- name: Haliya, Guided by Light
+- name: Meltdown
   weight: 0.1176
   avg_copies: 1.0
 - name: Ghost Vacuum
@@ -175,10 +175,10 @@ top_cards:
 - name: Solitude
   weight: 0.0588
   avg_copies: 1.67
-- name: Strategic Betrayal
+- name: Containment Priest
   weight: 0.0588
   avg_copies: 1.0
-- name: Containment Priest
+- name: Strategic Betrayal
   weight: 0.0588
   avg_copies: 1.0
 - name: Sanctifier en-Vec

@@ -10,7 +10,7 @@ type: Creature — Insect Warrior
 meta_presence: 0.005
 archetypes:
   yawgmoth-combo:
-    weight: 0.12
+    weight: 0.1169
     avg_copies: 1.0
   samwise-combo:
     weight: 0.0345

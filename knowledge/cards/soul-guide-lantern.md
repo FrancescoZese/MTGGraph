@@ -9,10 +9,10 @@ type: Artifact
 meta_presence: 0.0992
 archetypes:
   ruby-storm:
-    weight: 0.0114
+    weight: 0.0113
     avg_copies: 2.0
   boros-energy:
-    weight: 0.1286
+    weight: 0.1282
     avg_copies: 1.07
   dimir-control:
     weight: 0.0247
@@ -21,19 +21,19 @@ archetypes:
     weight: 0.2214
     avg_copies: 1.55
   eldrazi-tron:
-    weight: 0.0083
+    weight: 0.0082
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.2553
+    weight: 0.2535
     avg_copies: 1.0
   goryo:
-    weight: 0.0043
+    weight: 0.0042
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0435
+    weight: 0.0429
     avg_copies: 2.67
   jeskai-control:
-    weight: 0.2821
+    weight: 0.275
     avg_copies: 1.82
   mill:
     weight: 0.4194
@@ -45,22 +45,22 @@ archetypes:
     weight: 0.0606
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.0576
+    weight: 0.0571
     avg_copies: 1.88
   eldrazi-ramp:
-    weight: 0.0909
+    weight: 0.0901
     avg_copies: 1.0
   simic-ritual:
     weight: 0.013
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0891
+    weight: 0.0876
     avg_copies: 1.05
   esper-blink:
     weight: 0.0109
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.9126
+    weight: 0.913
     avg_copies: 1.06
   azorius-blink:
     weight: 0.0357
@@ -78,7 +78,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.0294
+    weight: 0.029
     avg_copies: 1.5
   goryo4:
     weight: 0.2308
@@ -90,7 +90,7 @@ archetypes:
     weight: 0.6
     avg_copies: 1.33
   unknown-15:
-    weight: 0.7
+    weight: 0.7273
     avg_copies: 1.0
   unknown-16:
     weight: 1.0
@@ -164,4 +164,7 @@ archetypes:
   unknown-174:
     weight: 1.0
     avg_copies: 1.5
+  unknown-186:
+    weight: 1.0
+    avg_copies: 2.0
 ---

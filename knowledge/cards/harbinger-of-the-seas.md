@@ -19,10 +19,10 @@ archetypes:
     weight: 0.0833
     avg_copies: 1.33
   jeskai-control:
-    weight: 0.0256
+    weight: 0.025
     avg_copies: 2.0
   affinity:
-    weight: 0.2422
+    weight: 0.2416
     avg_copies: 1.28
   reanimator:
     weight: 0.1481
@@ -37,8 +37,8 @@ archetypes:
     weight: 0.4375
     avg_copies: 2.57
   goryo1:
-    weight: 0.2353
-    avg_copies: 1.41
+    weight: 0.2391
+    avg_copies: 1.39
   goryo3:
     weight: 1.0
     avg_copies: 2.0
@@ -49,8 +49,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-15:
-    weight: 0.4
-    avg_copies: 2.25
+    weight: 0.4545
+    avg_copies: 2.2
   unknown-20:
     weight: 1.0
     avg_copies: 2.67
@@ -70,8 +70,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9552
-    avg_copies: 2.58
+    weight: 0.9559
+    avg_copies: 2.57
   unknown-49:
     weight: 1.0
     avg_copies: 2.0

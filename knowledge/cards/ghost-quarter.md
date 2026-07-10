@@ -9,22 +9,22 @@ type: Land
 meta_presence: 0.0332
 archetypes:
   amulet-titan:
-    weight: 0.0142
+    weight: 0.0141
     avg_copies: 1.0
   mill:
     weight: 0.2258
     avg_copies: 2.0
   boros-ponza:
-    weight: 0.0144
+    weight: 0.0143
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.0133
+    weight: 0.013
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.8545
-    avg_copies: 1.11
+    weight: 0.8559
+    avg_copies: 1.12
   broodscale-combo:
-    weight: 0.068
+    weight: 0.0676
     avg_copies: 1.07
   scapeshift-combo:
     weight: 0.8333

@@ -10,7 +10,7 @@ type: Creature — Lizard
 meta_presence: 0.004
 archetypes:
   burn:
-    weight: 0.0667
+    weight: 0.0645
     avg_copies: 2.5
   hollow-one:
     weight: 0.0303
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.1639
     avg_copies: 1.4
   unknown-96:
-    weight: 0.0833
+    weight: 0.0769
     avg_copies: 2.0
   unknown-90:
     weight: 1.0

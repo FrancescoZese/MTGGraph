@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.001
 archetypes:
   amulet-titan:
-    weight: 0.0142
+    weight: 0.0141
     avg_copies: 1.0
   esper-blink:
     weight: 0.0326

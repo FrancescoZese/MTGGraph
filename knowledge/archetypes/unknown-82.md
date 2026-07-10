@@ -6,16 +6,7 @@ name: 'Unknown #82'
 meta_share: 0.0006
 list_count: 3
 top_cards:
-- name: Consign to Memory
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flame of Anor
-  weight: 1.0
-  avg_copies: 4.0
 - name: Galvanic Discharge
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thundertrap Trainer
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
@@ -27,31 +18,40 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
+- name: Consign to Memory
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flame of Anor
+  weight: 1.0
+  avg_copies: 4.0
+- name: Thundertrap Trainer
+  weight: 1.0
+  avg_copies: 4.0
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 3.33
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 2.67
-- name: Flare of Denial
-  weight: 1.0
-  avg_copies: 2.33
 - name: Snapcaster Mage
   weight: 1.0
   avg_copies: 2.33
 - name: Steam Vents
   weight: 1.0
   avg_copies: 2.33
-- name: Soul-Guide Lantern
+- name: Flare of Denial
+  weight: 1.0
+  avg_copies: 2.33
+- name: Island
   weight: 1.0
   avg_copies: 2.0
 - name: Spell Snare
   weight: 1.0
   avg_copies: 2.0
-- name: Island
+- name: Meltdown
   weight: 1.0
   avg_copies: 2.0
-- name: Meltdown
+- name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 2.0
 - name: Mystical Dispute
@@ -72,13 +72,13 @@ top_cards:
 - name: Force of Negation
   weight: 0.6667
   avg_copies: 4.0
+- name: Harbinger of the Seas
+  weight: 0.6667
+  avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.6667
   avg_copies: 2.0
 - name: Spirebluff Canal
-  weight: 0.6667
-  avg_copies: 2.0
-- name: Harbinger of the Seas
   weight: 0.6667
   avg_copies: 2.0
 - name: Stern Scolding
@@ -90,22 +90,22 @@ top_cards:
 - name: Traumatic Critique
   weight: 0.3333
   avg_copies: 3.0
-- name: Lightning Bolt
+- name: Fire Magic
   weight: 0.3333
   avg_copies: 2.0
 - name: Prismari Charm
   weight: 0.3333
   avg_copies: 2.0
-- name: Fire Magic
+- name: Lightning Bolt
   weight: 0.3333
   avg_copies: 2.0
 - name: Great Hall of the Biblioplex
   weight: 0.3333
   avg_copies: 2.0
-- name: Murktide Regent
+- name: Damping Sphere
   weight: 0.3333
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Murktide Regent
   weight: 0.3333
   avg_copies: 2.0
 - name: Blood Moon

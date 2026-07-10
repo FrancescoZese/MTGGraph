@@ -10,10 +10,10 @@ type: Creature — Elemental Incarnation
 meta_presence: 0.1038
 archetypes:
   amulet-titan:
-    weight: 0.0426
+    weight: 0.0423
     avg_copies: 1.17
   goryo:
-    weight: 0.0085
+    weight: 0.0084
     avg_copies: 1.25
   living-end:
     weight: 1.0
@@ -22,10 +22,10 @@ archetypes:
     weight: 0.7966
     avg_copies: 1.05
   yawgmoth-combo:
-    weight: 0.9867
+    weight: 0.987
     avg_copies: 1.04
   eldrazi-ramp:
-    weight: 0.0091
+    weight: 0.009
     avg_copies: 1.0
   simic-ritual:
     weight: 0.9481

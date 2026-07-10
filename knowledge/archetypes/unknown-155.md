@@ -5,34 +5,37 @@ name: 'Unknown #155'
 meta_share: 0.0002
 list_count: 1
 top_cards:
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mox Opal
-  weight: 1.0
-  avg_copies: 4.0
-- name: Consign to Memory
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:shuko
-  weight: 1.0
-  avg_copies: 4.0
-- name: Island
-  weight: 1.0
-  avg_copies: 4.0
-- name: Urza's Saga
-  weight: 1.0
-  avg_copies: 4.0
-- name: Sink into Stupor
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mystical Dispute
+- name: Subtlety
   weight: 1.0
   avg_copies: 4.0
 - name: Emry, Lurker of the Loch
   weight: 1.0
   avg_copies: 4.0
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Urza's Saga
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mox Opal
+  weight: 1.0
+  avg_copies: 4.0
+- name: Island
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:shuko
+  weight: 1.0
+  avg_copies: 4.0
 - name: Tamiyo, Inquisitive Student
+  weight: 1.0
+  avg_copies: 4.0
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
+- name: Sink into Stupor
+  weight: 1.0
+  avg_copies: 4.0
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
 - name: card:loki-god-of-mischief
@@ -41,10 +44,7 @@ top_cards:
 - name: Force of Negation
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Subtlety
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Amber
@@ -56,16 +56,7 @@ top_cards:
 - name: Quantum Riddler
   weight: 1.0
   avg_copies: 2.0
-- name: Tormod's Crypt
-  weight: 1.0
-  avg_copies: 1.0
 - name: Aether Spellbomb
-  weight: 1.0
-  avg_copies: 1.0
-- name: Thassa's Oracle
-  weight: 1.0
-  avg_copies: 1.0
-- name: Minamo, School at Water's Edge
   weight: 1.0
   avg_copies: 1.0
 - name: Hedge Maze
@@ -77,10 +68,19 @@ top_cards:
 - name: Engineered Explosives
   weight: 1.0
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Thassa's Oracle
+  weight: 1.0
+  avg_copies: 1.0
+- name: Tormod's Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Pithing Needle
+  weight: 1.0
+  avg_copies: 1.0
+- name: Minamo, School at Water's Edge
+  weight: 1.0
+  avg_copies: 1.0
+- name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
 ---

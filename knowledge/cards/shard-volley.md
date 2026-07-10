@@ -10,6 +10,6 @@ type: Instant
 meta_presence: 0.001
 archetypes:
   burn:
-    weight: 0.1667
+    weight: 0.1613
     avg_copies: 1.67
 ---

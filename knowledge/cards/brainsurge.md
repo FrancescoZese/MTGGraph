@@ -7,10 +7,10 @@ name: Brainsurge
 scryfall_id: ed48f805-b57c-4d7f-a3c2-d16ae71bce2d
 set: mh3
 type: Instant
-meta_presence: 0.0036
+meta_presence: 0.0038
 archetypes:
   azorius-control:
-    weight: 0.0725
+    weight: 0.0714
     avg_copies: 2.2
   living-end:
     weight: 0.0167
@@ -39,4 +39,7 @@ archetypes:
   unknown-106:
     weight: 0.5
     avg_copies: 2.8
+  unknown-186:
+    weight: 1.0
+    avg_copies: 1.0
 ---
