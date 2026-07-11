@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.1401
 archetypes:
   boros-energy:
-    weight: 0.4114
+    weight: 0.4107
     avg_copies: 2.71
   jeskai-energy:
     weight: 0.0076
@@ -96,8 +96,8 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-62:
-    weight: 0.1923
-    avg_copies: 1.8
+    weight: 0.2222
+    avg_copies: 1.83
   unknown-60:
     weight: 1.0
     avg_copies: 4.0
@@ -127,7 +127,7 @@ archetypes:
     avg_copies: 3.0
   unknown-126:
     weight: 1.0
-    avg_copies: 3.82
+    avg_copies: 3.83
   unknown-130:
     weight: 1.0
     avg_copies: 2.0

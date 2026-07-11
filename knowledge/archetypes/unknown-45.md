@@ -42,13 +42,13 @@ top_cards:
 - name: Troll of Khazad-dûm
   weight: 1.0
   avg_copies: 1.74
-- name: Ozai's Cruelty
+- name: Decorum Dissertation
   weight: 1.0
   avg_copies: 1.0
 - name: Ruinous Waterbending
   weight: 1.0
   avg_copies: 1.0
-- name: Decorum Dissertation
+- name: Ozai's Cruelty
   weight: 1.0
   avg_copies: 1.0
 - name: Street Wraith
@@ -141,16 +141,16 @@ top_cards:
 - name: Bloodstained Mire
   weight: 0.087
   avg_copies: 3.0
-- name: Blood Crypt
-  weight: 0.087
-  avg_copies: 1.5
 - name: Ashiok, Dream Render
   weight: 0.087
   avg_copies: 1.5
-- name: Cling to Dust
+- name: Blood Crypt
+  weight: 0.087
+  avg_copies: 1.5
+- name: Redirect Lightning
   weight: 0.087
   avg_copies: 1.0
-- name: Redirect Lightning
+- name: Cling to Dust
   weight: 0.087
   avg_copies: 1.0
 - name: Harvester of Misery
@@ -159,37 +159,37 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.0435
   avg_copies: 2.0
-- name: Price of Freedom
-  weight: 0.0435
-  avg_copies: 2.0
 - name: Fatal Push
   weight: 0.0435
   avg_copies: 2.0
-- name: card:summon-bahamut
+- name: Price of Freedom
   weight: 0.0435
-  avg_copies: 1.0
-- name: Liliana, the Last Hope
-  weight: 0.0435
-  avg_copies: 1.0
-- name: Chthonian Nightmare
-  weight: 0.0435
-  avg_copies: 1.0
-- name: card:the-terminus-of-return
-  weight: 0.0435
-  avg_copies: 1.0
-- name: Vampire Hexmage
-  weight: 0.0435
-  avg_copies: 1.0
-- name: Iroh's Demonstration
+  avg_copies: 2.0
+- name: Raucous Theater
   weight: 0.0435
   avg_copies: 1.0
 - name: Improvisation Capstone
   weight: 0.0435
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Liliana, the Last Hope
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Iroh's Demonstration
+  weight: 0.0435
+  avg_copies: 1.0
+- name: card:the-terminus-of-return
   weight: 0.0435
   avg_copies: 1.0
 - name: Forest
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Chthonian Nightmare
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Vampire Hexmage
+  weight: 0.0435
+  avg_copies: 1.0
+- name: card:summon-bahamut
   weight: 0.0435
   avg_copies: 1.0
 ---

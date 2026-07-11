@@ -3,7 +3,7 @@ colors:
 - W
 - R
 name: Burn
-meta_share: 0.0062
+meta_share: 0.0061
 list_count: 31
 top_cards:
 - name: Lava Spike
@@ -150,10 +150,10 @@ top_cards:
 - name: Magebane Lizard
   weight: 0.0645
   avg_copies: 2.5
-- name: Path to Exile
+- name: Orim's Chant
   weight: 0.0645
   avg_copies: 1.5
-- name: Orim's Chant
+- name: Path to Exile
   weight: 0.0645
   avg_copies: 1.5
 - name: Vexing Devil
@@ -165,34 +165,28 @@ top_cards:
 - name: Containment Priest
   weight: 0.0323
   avg_copies: 3.0
-- name: Nihil Spellbomb
-  weight: 0.0323
-  avg_copies: 2.0
-- name: Relic of Progenitus
-  weight: 0.0323
-  avg_copies: 2.0
 - name: Kor Firewalker
-  weight: 0.0323
-  avg_copies: 2.0
-- name: Blood Crypt
   weight: 0.0323
   avg_copies: 2.0
 - name: Tunnel Ignus
   weight: 0.0323
   avg_copies: 2.0
-- name: Deafening Silence
+- name: Nihil Spellbomb
   weight: 0.0323
-  avg_copies: 1.0
-- name: Snow-Covered Mountain
+  avg_copies: 2.0
+- name: Blood Crypt
+  weight: 0.0323
+  avg_copies: 2.0
+- name: Relic of Progenitus
+  weight: 0.0323
+  avg_copies: 2.0
+- name: Deafening Silence
   weight: 0.0323
   avg_copies: 1.0
 - name: Ensnaring Bridge
   weight: 0.0323
   avg_copies: 1.0
-- name: Erode
-  weight: 0.0323
-  avg_copies: 1.0
-- name: Rain of Gore
+- name: card:volcanic-fallout
   weight: 0.0323
   avg_copies: 1.0
 - name: Rakdos Charm
@@ -201,10 +195,16 @@ top_cards:
 - name: Void Mirror
   weight: 0.0323
   avg_copies: 1.0
-- name: card:volcanic-fallout
+- name: Snow-Covered Mountain
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Erode
   weight: 0.0323
   avg_copies: 1.0
 - name: Blood Moon
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Rain of Gore
   weight: 0.0323
   avg_copies: 1.0
 ---

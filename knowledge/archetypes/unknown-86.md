@@ -5,22 +5,22 @@ name: 'Unknown #86'
 meta_share: 0.0016
 list_count: 8
 top_cards:
-- name: Cori-Steel Cutter
-  weight: 1.0
-  avg_copies: 4.0
-- name: Monastery Swiftspear
+- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Lava Spike
   weight: 1.0
   avg_copies: 4.0
-- name: Boltwave
-  weight: 1.0
-  avg_copies: 4.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Dragon's Rage Channeler
+- name: Boltwave
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cori-Steel Cutter
+  weight: 1.0
+  avg_copies: 4.0
+- name: Monastery Swiftspear
   weight: 1.0
   avg_copies: 4.0
 - name: Skewer the Critics
@@ -32,10 +32,10 @@ top_cards:
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 3.75
-- name: Light Up the Stage
+- name: Barbarian Ring
   weight: 1.0
   avg_copies: 3.62
-- name: Barbarian Ring
+- name: Light Up the Stage
   weight: 1.0
   avg_copies: 3.62
 - name: Tormod's Crypt
@@ -47,10 +47,10 @@ top_cards:
 - name: Elegant Parlor
   weight: 0.875
   avg_copies: 1.0
-- name: Scalding Tarn
+- name: Arid Mesa
   weight: 0.75
   avg_copies: 2.5
-- name: Arid Mesa
+- name: Scalding Tarn
   weight: 0.75
   avg_copies: 2.5
 - name: Wear
@@ -104,25 +104,25 @@ top_cards:
 - name: card:reinforced-ronin
   weight: 0.25
   avg_copies: 1.5
-- name: Boros Charm
+- name: Vexing Bauble
   weight: 0.125
   avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.125
   avg_copies: 2.0
-- name: Path to Exile
+- name: Boros Charm
   weight: 0.125
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Path to Exile
   weight: 0.125
   avg_copies: 2.0
 - name: Engineered Explosives
   weight: 0.125
   avg_copies: 1.0
-- name: Prismatic Ending
+- name: Sokenzan, Crucible of Defiance
   weight: 0.125
   avg_copies: 1.0
-- name: Sokenzan, Crucible of Defiance
+- name: Prismatic Ending
   weight: 0.125
   avg_copies: 1.0
 ---

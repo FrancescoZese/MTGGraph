@@ -6,19 +6,19 @@ name: Azorius Control
 meta_share: 0.0139
 list_count: 70
 top_cards:
-- name: Flooded Strand
+- name: Orim's Chant
   weight: 1.0
   avg_copies: 3.91
-- name: Orim's Chant
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 3.91
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.83
-- name: Teferi, Time Raveler
+- name: Prismatic Ending
   weight: 1.0
   avg_copies: 3.36
-- name: Prismatic Ending
+- name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 3.36
 - name: Solitude
@@ -30,10 +30,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.99
-- name: Meticulous Archive
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.97
-- name: Hallowed Fountain
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.97
 - name: Plains
@@ -177,10 +177,10 @@ top_cards:
 - name: Brainsurge
   weight: 0.0714
   avg_copies: 2.2
-- name: Ashiok, Dream Render
+- name: Sink into Stupor
   weight: 0.0714
   avg_copies: 1.4
-- name: Sink into Stupor
+- name: Ashiok, Dream Render
   weight: 0.0714
   avg_copies: 1.4
 - name: Disruptor Flute
@@ -204,52 +204,52 @@ top_cards:
 - name: Wan Shi Tong, Librarian
   weight: 0.0429
   avg_copies: 1.33
-- name: Suppression Ray
-  weight: 0.0286
-  avg_copies: 4.0
 - name: Thundertrap Trainer
   weight: 0.0286
   avg_copies: 4.0
-- name: Elegant Parlor
+- name: Suppression Ray
   weight: 0.0286
-  avg_copies: 1.0
-- name: Mistrise Village
-  weight: 0.0286
-  avg_copies: 1.0
-- name: Vendilion Clique
-  weight: 0.0286
-  avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.0286
-  avg_copies: 1.0
+  avg_copies: 4.0
 - name: Snow-Covered Plains
   weight: 0.0286
   avg_copies: 1.0
-- name: Dress Down
-  weight: 0.0286
-  avg_copies: 1.0
-- name: Gemstone Caverns
-  weight: 0.0286
-  avg_copies: 1.0
-- name: Sacred Foundry
+- name: Elegant Parlor
   weight: 0.0286
   avg_copies: 1.0
 - name: Celestial Colonnade
   weight: 0.0286
   avg_copies: 1.0
+- name: Tamiyo, Inquisitive Student
+  weight: 0.0286
+  avg_copies: 1.0
+- name: Mistrise Village
+  weight: 0.0286
+  avg_copies: 1.0
+- name: Dress Down
+  weight: 0.0286
+  avg_copies: 1.0
+- name: Vendilion Clique
+  weight: 0.0286
+  avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 0.0286
+  avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.0286
+  avg_copies: 1.0
 - name: Terminus
   weight: 0.0143
   avg_copies: 3.0
-- name: Pyroclasm
+- name: Wear
   weight: 0.0143
   avg_copies: 2.0
 - name: Obsidian Charmaw
   weight: 0.0143
   avg_copies: 2.0
-- name: Wear
+- name: Pyroclasm
   weight: 0.0143
   avg_copies: 2.0
-- name: Strix Serenade
+- name: Flashback
   weight: 0.0143
   avg_copies: 1.0
 - name: Commandeer
@@ -261,25 +261,25 @@ top_cards:
 - name: Meltdown
   weight: 0.0143
   avg_copies: 1.0
+- name: The Wandering Emperor
+  weight: 0.0143
+  avg_copies: 1.0
 - name: Restless Anchorage
-  weight: 0.0143
-  avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
-  weight: 0.0143
-  avg_copies: 1.0
-- name: Flashback
-  weight: 0.0143
-  avg_copies: 1.0
-- name: Petrified Hamlet
   weight: 0.0143
   avg_copies: 1.0
 - name: Get Lost
   weight: 0.0143
   avg_copies: 1.0
-- name: Damping Sphere
+- name: Strix Serenade
   weight: 0.0143
   avg_copies: 1.0
-- name: The Wandering Emperor
+- name: Elesh Norn, Mother of Machines
+  weight: 0.0143
+  avg_copies: 1.0
+- name: Petrified Hamlet
+  weight: 0.0143
+  avg_copies: 1.0
+- name: Damping Sphere
   weight: 0.0143
   avg_copies: 1.0
 ---

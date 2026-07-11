@@ -6,10 +6,10 @@ name: Trinisphere
 scryfall_id: 316caa4e-a53a-460b-978c-5f0fba7bc549
 set: 2xm
 type: Artifact
-meta_presence: 0.101
+meta_presence: 0.1009
 archetypes:
   eldrazi-tron:
-    weight: 0.9262
+    weight: 0.9265
     avg_copies: 1.31
   amulet-titan:
     weight: 0.6197

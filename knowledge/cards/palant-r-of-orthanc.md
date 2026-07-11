@@ -9,7 +9,7 @@ type: Legendary Artifact
 meta_presence: 0.0042
 archetypes:
   eldrazi-tron:
-    weight: 0.0697
+    weight: 0.0694
     avg_copies: 1.17
   eldrazi-ramp:
     weight: 0.036

@@ -10,7 +10,7 @@ type: Enchantment
 meta_presence: 0.0089
 archetypes:
   goryo:
-    weight: 0.0084
+    weight: 0.0083
     avg_copies: 3.5
   mill:
     weight: 0.0323
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.0588
     avg_copies: 4.0
   cosmogoyf-fling:
-    weight: 0.129
+    weight: 0.125
     avg_copies: 1.0
   goryo0:
     weight: 0.0476

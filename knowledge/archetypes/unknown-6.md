@@ -7,16 +7,16 @@ name: 'Unknown #6'
 meta_share: 0.0014
 list_count: 7
 top_cards:
-- name: Mox Opal
-  weight: 1.0
-  avg_copies: 4.0
 - name: Song of Creation
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
 - name: Tamiyo, Inquisitive Student
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Misty Rainforest
@@ -58,10 +58,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Endurance
   weight: 1.0
   avg_copies: 1.0
-- name: Endurance
+- name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
 - name: Unholy Heat
@@ -82,10 +82,10 @@ top_cards:
 - name: Six
   weight: 0.7143
   avg_copies: 1.2
-- name: Stomping Ground
+- name: Jace, Wielder of Mysteries
   weight: 0.7143
   avg_copies: 1.0
-- name: Jace, Wielder of Mysteries
+- name: Stomping Ground
   weight: 0.7143
   avg_copies: 1.0
 - name: Boomerang Basics
@@ -103,10 +103,10 @@ top_cards:
 - name: Spire of Industry
   weight: 0.5714
   avg_copies: 1.0
-- name: Nature's Claim
+- name: Forest
   weight: 0.5714
   avg_copies: 1.0
-- name: Forest
+- name: Nature's Claim
   weight: 0.5714
   avg_copies: 1.0
 - name: Otawara, Soaring City
@@ -118,13 +118,13 @@ top_cards:
 - name: Pyroclasm
   weight: 0.4286
   avg_copies: 1.33
-- name: Strix Serenade
-  weight: 0.4286
-  avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.4286
   avg_copies: 1.0
 - name: Thundering Falls
+  weight: 0.4286
+  avg_copies: 1.0
+- name: Strix Serenade
   weight: 0.4286
   avg_copies: 1.0
 - name: Quantum Riddler
@@ -157,19 +157,19 @@ top_cards:
 - name: Peer Past the Veil
   weight: 0.1429
   avg_copies: 1.0
-- name: Life from the Loam
+- name: Lightning Bolt
   weight: 0.1429
   avg_copies: 1.0
-- name: Galvanic Blast
+- name: Life from the Loam
   weight: 0.1429
   avg_copies: 1.0
 - name: Aether Spellbomb
   weight: 0.1429
   avg_copies: 1.0
-- name: Wrenn and Six
+- name: Galvanic Blast
   weight: 0.1429
   avg_copies: 1.0
-- name: Lightning Bolt
+- name: Wrenn and Six
   weight: 0.1429
   avg_copies: 1.0
 ---

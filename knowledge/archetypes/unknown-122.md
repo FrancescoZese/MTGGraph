@@ -6,10 +6,7 @@ name: 'Unknown #122'
 meta_share: 0.0044
 list_count: 22
 top_cards:
-- name: Cori-Steel Cutter
-  weight: 1.0
-  avg_copies: 4.0
-- name: Lava Dart
+- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Preordain
@@ -18,7 +15,10 @@ top_cards:
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Dragon's Rage Channeler
+- name: Lava Dart
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Stormchaser's Talent
@@ -78,10 +78,10 @@ top_cards:
 - name: Firebending Lesson
   weight: 0.5
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Origin of Metalbending
   weight: 0.4091
   avg_copies: 1.0
-- name: Origin of Metalbending
+- name: Stomping Ground
   weight: 0.4091
   avg_copies: 1.0
 - name: Fiery Islet
@@ -111,10 +111,10 @@ top_cards:
 - name: Violent Urge
   weight: 0.1818
   avg_copies: 1.6
-- name: Chalice of the Void
+- name: Mystical Dispute
   weight: 0.1364
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Chalice of the Void
   weight: 0.1364
   avg_copies: 2.0
 - name: Ragavan, Nimble Pilferer
@@ -126,7 +126,7 @@ top_cards:
 - name: Assault Strobe
   weight: 0.1364
   avg_copies: 1.33
-- name: Price of Freedom
+- name: Octopus Form
   weight: 0.1364
   avg_copies: 1.0
 - name: Soul-Guide Lantern
@@ -135,7 +135,7 @@ top_cards:
 - name: Iroh's Demonstration
   weight: 0.1364
   avg_copies: 1.0
-- name: Octopus Form
+- name: Price of Freedom
   weight: 0.1364
   avg_copies: 1.0
 - name: Monstrous Rage
@@ -153,22 +153,22 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.0455
   avg_copies: 2.0
+- name: Redirect Lightning
+  weight: 0.0455
+  avg_copies: 1.0
 - name: Hurkyl's Recall
   weight: 0.0455
   avg_copies: 1.0
-- name: Accumulate Wisdom
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Redirect Lightning
+- name: Sacred Foundry
   weight: 0.0455
   avg_copies: 1.0
 - name: Fire Magic
   weight: 0.0455
   avg_copies: 1.0
-- name: Spell Snare
+- name: Accumulate Wisdom
   weight: 0.0455
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Spell Snare
   weight: 0.0455
   avg_copies: 1.0
 ---

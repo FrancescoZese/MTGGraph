@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0111
     avg_copies: 2.14
   domain-zoo:
-    weight: 0.0179
+    weight: 0.0177
     avg_copies: 2.0
   esper-blink:
     weight: 0.0326
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.0357
     avg_copies: 1.0
   unknown-70:
-    weight: 0.0909
+    weight: 0.0833
     avg_copies: 2.0
   unknown-96:
     weight: 1.0

@@ -10,7 +10,7 @@ type: Creature — Troll
 meta_presence: 0.0131
 archetypes:
   goryo:
-    weight: 0.0042
+    weight: 0.0041
     avg_copies: 1.0
   living-end:
     weight: 0.5667
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.0588
     avg_copies: 1.0
   goryo1:
-    weight: 0.029
+    weight: 0.0288
     avg_copies: 1.0
   unknown-45:
     weight: 1.0

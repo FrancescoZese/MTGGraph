@@ -75,10 +75,10 @@ top_cards:
 - name: Ensnaring Bridge
   weight: 0.4884
   avg_copies: 1.0
-- name: Tormod's Crypt
+- name: Liquimetal Coating
   weight: 0.4884
   avg_copies: 1.0
-- name: Liquimetal Coating
+- name: Tormod's Crypt
   weight: 0.4884
   avg_copies: 1.0
 - name: Pithing Needle
@@ -138,10 +138,10 @@ top_cards:
 - name: Portable Hole
   weight: 0.1395
   avg_copies: 1.0
-- name: Sunbillow Verge
+- name: Elixir of Immortality
   weight: 0.1395
   avg_copies: 1.0
-- name: Elixir of Immortality
+- name: Sunbillow Verge
   weight: 0.1395
   avg_copies: 1.0
 - name: Leyline of Sanctity
@@ -168,37 +168,37 @@ top_cards:
 - name: Isochron Scepter
   weight: 0.0233
   avg_copies: 3.0
-- name: Elegant Parlor
+- name: Kor Firewalker
   weight: 0.0233
   avg_copies: 2.0
-- name: Kor Firewalker
+- name: Elegant Parlor
   weight: 0.0233
   avg_copies: 2.0
 - name: Meltdown
   weight: 0.0233
   avg_copies: 2.0
+- name: card:chandra-hope-s-beacon
+  weight: 0.0233
+  avg_copies: 1.0
 - name: Flashback
+  weight: 0.0233
+  avg_copies: 1.0
+- name: Cityscape Leveler
+  weight: 0.0233
+  avg_copies: 1.0
+- name: Disruptor Flute
   weight: 0.0233
   avg_copies: 1.0
 - name: Crucible of Worlds
   weight: 0.0233
   avg_copies: 1.0
-- name: Disruptor Flute
+- name: Fire Magic
   weight: 0.0233
   avg_copies: 1.0
 - name: Ark of Hunger
   weight: 0.0233
   avg_copies: 1.0
 - name: Grafdigger's Cage
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Fire Magic
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Cityscape Leveler
-  weight: 0.0233
-  avg_copies: 1.0
-- name: card:chandra-hope-s-beacon
   weight: 0.0233
   avg_copies: 1.0
 ---

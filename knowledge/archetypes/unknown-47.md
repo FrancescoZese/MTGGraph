@@ -138,10 +138,10 @@ top_cards:
 - name: Ghost Vacuum
   weight: 0.0882
   avg_copies: 1.33
-- name: Meticulous Archive
+- name: Hallowed Fountain
   weight: 0.0882
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Meticulous Archive
   weight: 0.0882
   avg_copies: 1.0
 - name: Pest Control
@@ -177,13 +177,13 @@ top_cards:
 - name: Flow State
   weight: 0.0294
   avg_copies: 3.0
-- name: Snow-Covered Island
+- name: Umezawa's Jitte
   weight: 0.0294
   avg_copies: 1.0
 - name: Snow-Covered Swamp
   weight: 0.0294
   avg_copies: 1.0
-- name: Umezawa's Jitte
+- name: Snow-Covered Island
   weight: 0.0294
   avg_copies: 1.0
 - name: Stony Silence
@@ -192,40 +192,40 @@ top_cards:
 - name: Break the Ice
   weight: 0.0147
   avg_copies: 4.0
+- name: Void Mirror
+  weight: 0.0147
+  avg_copies: 2.0
 - name: Meltdown
   weight: 0.0147
   avg_copies: 2.0
 - name: Fire Magic
   weight: 0.0147
   avg_copies: 2.0
-- name: Void Mirror
-  weight: 0.0147
-  avg_copies: 2.0
-- name: Steam Vents
-  weight: 0.0147
-  avg_copies: 1.0
-- name: High Noon
-  weight: 0.0147
-  avg_copies: 1.0
 - name: Snapcaster Mage
-  weight: 0.0147
-  avg_copies: 1.0
-- name: River of Tears
   weight: 0.0147
   avg_copies: 1.0
 - name: Thundering Falls
   weight: 0.0147
   avg_copies: 1.0
-- name: Dreams of Steel and Oil
-  weight: 0.0147
-  avg_copies: 1.0
 - name: Strategic Betrayal
   weight: 0.0147
   avg_copies: 1.0
-- name: Fallen Shinobi
+- name: Steam Vents
+  weight: 0.0147
+  avg_copies: 1.0
+- name: River of Tears
+  weight: 0.0147
+  avg_copies: 1.0
+- name: Dreams of Steel and Oil
+  weight: 0.0147
+  avg_copies: 1.0
+- name: High Noon
   weight: 0.0147
   avg_copies: 1.0
 - name: Celestial Purge
+  weight: 0.0147
+  avg_copies: 1.0
+- name: Fallen Shinobi
   weight: 0.0147
   avg_copies: 1.0
 ---

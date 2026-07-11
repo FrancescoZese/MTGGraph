@@ -12,16 +12,16 @@ archetypes:
     weight: 0.0123
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.1844
+    weight: 0.1837
     avg_copies: 1.06
   amulet-titan:
     weight: 0.0634
     avg_copies: 1.89
   goryo:
-    weight: 0.0084
+    weight: 0.0083
     avg_copies: 1.0
   affinity:
-    weight: 0.0246
+    weight: 0.0245
     avg_copies: 1.0
   burn:
     weight: 0.0323

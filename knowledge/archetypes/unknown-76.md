@@ -8,19 +8,19 @@ top_cards:
 - name: Arboreal Grazer
   weight: 1.0
   avg_copies: 4.0
+- name: Primeval Titan
+  weight: 1.0
+  avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Amulet of Vigor
   weight: 1.0
   avg_copies: 4.0
-- name: Primeval Titan
-  weight: 1.0
-  avg_copies: 4.0
-- name: Simic Growth Chamber
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 3.83
-- name: Green Sun's Zenith
+- name: Simic Growth Chamber
   weight: 1.0
   avg_copies: 3.83
 - name: Dryad of the Ilysian Grove
@@ -32,34 +32,34 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 2.71
-- name: Dismember
-  weight: 1.0
-  avg_copies: 2.33
 - name: Forest
   weight: 1.0
   avg_copies: 2.33
-- name: Summoner's Pact
+- name: Dismember
+  weight: 1.0
+  avg_copies: 2.33
+- name: Force of Vigor
   weight: 1.0
   avg_copies: 2.0
-- name: Force of Vigor
+- name: Summoner's Pact
   weight: 1.0
   avg_copies: 2.0
 - name: Valakut, the Molten Pinnacle
   weight: 1.0
   avg_copies: 1.67
+- name: Hanweir Battlements
+  weight: 1.0
+  avg_copies: 1.0
 - name: Tolaria West
   weight: 1.0
   avg_copies: 1.0
-- name: Vesuva
+- name: Mirrorpool
   weight: 1.0
   avg_copies: 1.0
 - name: Cultivator Colossus
   weight: 1.0
   avg_copies: 1.0
-- name: Hanweir Battlements
-  weight: 1.0
-  avg_copies: 1.0
-- name: Mirrorpool
+- name: Vesuva
   weight: 1.0
   avg_copies: 1.0
 - name: Spelunking
@@ -86,10 +86,10 @@ top_cards:
 - name: Explore
   weight: 0.5
   avg_copies: 2.67
-- name: Pyroclasm
+- name: Soulless Jailer
   weight: 0.5
   avg_copies: 1.67
-- name: Soulless Jailer
+- name: Pyroclasm
   weight: 0.5
   avg_copies: 1.67
 - name: Bojuka Bog
@@ -98,10 +98,10 @@ top_cards:
 - name: Elder Gargaroth
   weight: 0.5
   avg_copies: 1.0
-- name: Dryad Arbor
+- name: Collector Ouphe
   weight: 0.5
   avg_copies: 1.0
-- name: Collector Ouphe
+- name: Dryad Arbor
   weight: 0.5
   avg_copies: 1.0
 - name: Otawara, Soaring City
@@ -116,22 +116,22 @@ top_cards:
 - name: Icetill Explorer
   weight: 0.3333
   avg_copies: 1.0
-- name: Shifting Woodland
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Gemstone Caverns
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Azusa, Lost but Seeking
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Ghost Quarter
+- name: Endurance
   weight: 0.3333
   avg_copies: 1.0
 - name: Cavern of Souls
   weight: 0.3333
   avg_copies: 1.0
-- name: Endurance
+- name: Azusa, Lost but Seeking
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Shifting Woodland
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Ghost Quarter
   weight: 0.3333
   avg_copies: 1.0
 - name: Trinisphere
@@ -143,28 +143,40 @@ top_cards:
 - name: Vampires' Vengeance
   weight: 0.1667
   avg_copies: 2.0
-- name: Elvish Reclaimer
-  weight: 0.1667
-  avg_copies: 2.0
 - name: Temple Garden
   weight: 0.1667
   avg_copies: 2.0
-- name: Kessig Wolf Run
+- name: Elvish Reclaimer
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Echoing Deeps
   weight: 0.1667
   avg_copies: 1.0
-- name: Relic of Progenitus
+- name: Kessig Wolf Run
   weight: 0.1667
   avg_copies: 1.0
 - name: Formidable Speaker
   weight: 0.1667
   avg_copies: 1.0
-- name: Storm's Wrath
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Oran-Rief, the Vastwood
   weight: 0.1667
   avg_copies: 1.0
+- name: Storm's Wrath
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Flagstones of Trokair
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Misty Rainforest
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Springheart Nantuko
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Outland Liberator
   weight: 0.1667
   avg_copies: 1.0
 - name: Aether Spellbomb
@@ -173,19 +185,7 @@ top_cards:
 - name: Expedition Map
   weight: 0.1667
   avg_copies: 1.0
-- name: Flagstones of Trokair
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Echoing Deeps
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Misty Rainforest
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Outland Liberator
+- name: Relic of Progenitus
   weight: 0.1667
   avg_copies: 1.0
 ---

@@ -21,10 +21,10 @@ top_cards:
 - name: Valakut, the Molten Pinnacle
   weight: 1.0
   avg_copies: 3.67
-- name: Wrenn and Six
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 3.5
-- name: Green Sun's Zenith
+- name: Wrenn and Six
   weight: 1.0
   avg_copies: 3.5
 - name: Wooded Foothills
@@ -78,10 +78,10 @@ top_cards:
 - name: Lightning Bolt
   weight: 0.6667
   avg_copies: 3.0
-- name: Misty Rainforest
+- name: Surgical Extraction
   weight: 0.6667
   avg_copies: 2.25
-- name: Surgical Extraction
+- name: Misty Rainforest
   weight: 0.6667
   avg_copies: 2.25
 - name: Bojuka Bog
@@ -96,10 +96,10 @@ top_cards:
 - name: Windswept Heath
   weight: 0.5
   avg_copies: 2.0
-- name: Scalding Tarn
+- name: Meltdown
   weight: 0.5
   avg_copies: 1.0
-- name: Meltdown
+- name: Scalding Tarn
   weight: 0.5
   avg_copies: 1.0
 - name: Erode
@@ -108,34 +108,34 @@ top_cards:
 - name: Elegant Parlor
   weight: 0.3333
   avg_copies: 1.0
-- name: Jetmir's Garden
+- name: Sacred Foundry
   weight: 0.3333
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Jetmir's Garden
   weight: 0.3333
   avg_copies: 1.0
 - name: Scapeshift
   weight: 0.1667
   avg_copies: 3.0
-- name: Disruptor Flute
-  weight: 0.1667
-  avg_copies: 2.0
 - name: High Noon
-  weight: 0.1667
-  avg_copies: 2.0
-- name: Fire Magic
   weight: 0.1667
   avg_copies: 2.0
 - name: Orim's Chant
   weight: 0.1667
   avg_copies: 2.0
+- name: Disruptor Flute
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Fire Magic
+  weight: 0.1667
+  avg_copies: 2.0
 - name: Ghost Vacuum
   weight: 0.1667
   avg_copies: 2.0
-- name: Sakura-Tribe Elder
+- name: Endurance
   weight: 0.1667
   avg_copies: 1.0
-- name: Endurance
+- name: Sakura-Tribe Elder
   weight: 0.1667
   avg_copies: 1.0
 - name: Dwarven Mine

@@ -10,10 +10,10 @@ type: Enchantment
 meta_presence: 0.026
 archetypes:
   boros-energy:
-    weight: 0.038
+    weight: 0.0379
     avg_copies: 1.5
   goryo:
-    weight: 0.021
+    weight: 0.0207
     avg_copies: 1.6
   living-end:
     weight: 0.15
@@ -49,7 +49,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-62:
-    weight: 0.1923
+    weight: 0.1852
     avg_copies: 1.6
   unknown-66:
     weight: 1.0
@@ -61,7 +61,7 @@ archetypes:
     weight: 0.0882
     avg_copies: 1.67
   unknown-70:
-    weight: 0.0909
+    weight: 0.0833
     avg_copies: 2.0
   unknown-96:
     weight: 0.0769

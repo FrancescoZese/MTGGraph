@@ -10,9 +10,9 @@ meta_presence: 0.3723
 archetypes:
   ruby-storm:
     weight: 1.0
-    avg_copies: 2.97
+    avg_copies: 2.96
   boros-energy:
-    weight: 0.8513
+    weight: 0.8515
     avg_copies: 1.0
   mono-blue-belcher:
     weight: 0.2133
@@ -24,10 +24,10 @@ archetypes:
     weight: 0.175
     avg_copies: 1.0
   affinity:
-    weight: 0.0112
+    weight: 0.0111
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.9643
+    weight: 0.9646
     avg_copies: 1.0
   reanimator:
     weight: 0.1111
@@ -48,8 +48,8 @@ archetypes:
     weight: 0.9857
     avg_copies: 1.25
   izzet-prowess:
-    weight: 0.992
-    avg_copies: 2.37
+    weight: 0.9921
+    avg_copies: 2.38
   indomitable-creativity:
     weight: 1.0
     avg_copies: 1.07
@@ -78,7 +78,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.0323
+    weight: 0.0312
     avg_copies: 1.0
   scapeshift-combo:
     weight: 0.5
@@ -192,7 +192,7 @@ archetypes:
     weight: 0.9118
     avg_copies: 1.03
   unknown-70:
-    weight: 0.9091
+    weight: 0.9167
     avg_copies: 1.0
   unknown-71:
     weight: 1.0

@@ -6,9 +6,9 @@ name: Copperline Gorge
 scryfall_id: 78b0f36b-7d8c-4e77-adc2-a4dad93a81d5
 set: one
 type: Land
-meta_presence: 0.006
+meta_presence: 0.0059
 archetypes:
   cosmogoyf-fling:
-    weight: 0.9677
+    weight: 0.9375
     avg_copies: 3.0
 ---

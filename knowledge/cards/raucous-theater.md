@@ -9,13 +9,13 @@ type: Land — Swamp Mountain
 meta_presence: 0.0656
 archetypes:
   ruby-storm:
-    weight: 0.0565
+    weight: 0.0559
     avg_copies: 1.0
   necrodominance:
     weight: 0.0769
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0893
+    weight: 0.0885
     avg_copies: 1.0
   reanimator:
     weight: 0.8889
@@ -45,7 +45,7 @@ archetypes:
     weight: 0.9412
     avg_copies: 1.12
   goryo1:
-    weight: 0.9855
+    weight: 0.9856
     avg_copies: 1.0
   grixis-control:
     weight: 0.1667

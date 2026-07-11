@@ -15,7 +15,7 @@ archetypes:
     weight: 0.0153
     avg_copies: 2.0
   eldrazi-tron:
-    weight: 0.8934
+    weight: 0.8939
     avg_copies: 1.66
   necrodominance:
     weight: 0.1538
@@ -51,7 +51,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   cosmogoyf-fling:
-    weight: 0.0323
+    weight: 0.0312
     avg_copies: 1.0
   goryo4:
     weight: 1.0

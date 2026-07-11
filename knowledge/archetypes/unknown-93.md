@@ -8,10 +8,10 @@ name: 'Unknown #93'
 meta_share: 0.0008
 list_count: 4
 top_cards:
-- name: Consign to Memory
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
@@ -26,10 +26,10 @@ top_cards:
 - name: Delighted Halfling
   weight: 1.0
   avg_copies: 3.25
-- name: Wrath of the Skies
+- name: Windswept Heath
   weight: 1.0
   avg_copies: 3.0
-- name: Windswept Heath
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 3.0
 - name: Wooded Foothills
@@ -56,7 +56,7 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.17
-- name: Steam Vents
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 - name: Emeritus of Abundance
@@ -68,7 +68,10 @@ top_cards:
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
-- name: Temple Garden
+- name: Arid Mesa
+  weight: 1.0
+  avg_copies: 1.0
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Forest
@@ -77,34 +80,31 @@ top_cards:
 - name: Plains
   weight: 1.0
   avg_copies: 1.0
-- name: Arid Mesa
-  weight: 1.0
-  avg_copies: 1.0
 - name: Mystical Dispute
   weight: 0.75
   avg_copies: 2.0
 - name: Winternight Stories
   weight: 0.75
   avg_copies: 1.33
+- name: Thundering Falls
+  weight: 0.75
+  avg_copies: 1.0
+- name: March of Otherworldly Light
+  weight: 0.75
+  avg_copies: 1.0
 - name: Lush Portico
   weight: 0.75
   avg_copies: 1.0
 - name: Stomping Ground
   weight: 0.75
   avg_copies: 1.0
-- name: March of Otherworldly Light
-  weight: 0.75
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.75
-  avg_copies: 1.0
 - name: Galvanic Discharge
   weight: 0.5
   avg_copies: 4.0
-- name: Static Prison
+- name: Leyline Binding
   weight: 0.5
   avg_copies: 3.0
-- name: Leyline Binding
+- name: Static Prison
   weight: 0.5
   avg_copies: 3.0
 - name: Stock Up
@@ -113,10 +113,10 @@ top_cards:
 - name: Raugrin Triome
   weight: 0.5
   avg_copies: 1.0
-- name: Titania, Protector of Argoth
+- name: Xander's Lounge
   weight: 0.5
   avg_copies: 1.0
-- name: Xander's Lounge
+- name: Titania, Protector of Argoth
   weight: 0.5
   avg_copies: 1.0
 - name: card:ashling-rekindled
@@ -134,28 +134,28 @@ top_cards:
 - name: Icetill Explorer
   weight: 0.25
   avg_copies: 1.0
-- name: Risen Reef
-  weight: 0.25
-  avg_copies: 1.0
-- name: Quantum Riddler
-  weight: 0.25
-  avg_copies: 1.0
-- name: Elegant Parlor
-  weight: 0.25
-  avg_copies: 1.0
 - name: card:dispel
-  weight: 0.25
-  avg_copies: 1.0
-- name: Nissa, Resurgent Animist
-  weight: 0.25
-  avg_copies: 1.0
-- name: Hedge Maze
   weight: 0.25
   avg_copies: 1.0
 - name: Eternal Witness
   weight: 0.25
   avg_copies: 1.0
+- name: Nissa, Resurgent Animist
+  weight: 0.25
+  avg_copies: 1.0
+- name: Elegant Parlor
+  weight: 0.25
+  avg_copies: 1.0
+- name: Hedge Maze
+  weight: 0.25
+  avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
+  weight: 0.25
+  avg_copies: 1.0
+- name: Quantum Riddler
+  weight: 0.25
+  avg_copies: 1.0
+- name: Risen Reef
   weight: 0.25
   avg_copies: 1.0
 - name: Atraxa, Grand Unifier

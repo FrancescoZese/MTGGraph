@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.0028
 archetypes:
   domain-zoo:
-    weight: 0.0179
+    weight: 0.0177
     avg_copies: 4.0
   soultrader-combo0:
     weight: 1.0

@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0032
     avg_copies: 1.0
   affinity:
-    weight: 0.0291
+    weight: 0.029
     avg_copies: 1.0
   mardu-blink:
     weight: 0.0417
@@ -34,7 +34,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-70:
-    weight: 0.0909
+    weight: 0.0833
     avg_copies: 1.0
   unknown-98:
     weight: 0.875

@@ -7,19 +7,19 @@ name: 'Unknown #149'
 meta_share: 0.002
 list_count: 10
 top_cards:
-- name: Ocelot Pride
-  weight: 1.0
-  avg_copies: 4.0
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Ajani, Nacatl Pariah
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
 - name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Arid Mesa
+- name: Ocelot Pride
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 4.0
 - name: Quantum Riddler
@@ -58,10 +58,10 @@ top_cards:
 - name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Mountain
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Meticulous Archive
@@ -94,10 +94,10 @@ top_cards:
 - name: Galvanic Discharge
   weight: 0.5
   avg_copies: 2.2
-- name: Lavinia, Azorius Renegade
+- name: Orim's Chant
   weight: 0.5
   avg_copies: 2.0
-- name: Orim's Chant
+- name: Lavinia, Azorius Renegade
   weight: 0.5
   avg_copies: 2.0
 - name: High Noon
@@ -148,10 +148,10 @@ top_cards:
 - name: Marsh Flats
   weight: 0.1
   avg_copies: 2.0
-- name: Containment Priest
+- name: Deafening Silence
   weight: 0.1
   avg_copies: 1.0
-- name: Deafening Silence
+- name: Containment Priest
   weight: 0.1
   avg_copies: 1.0
 - name: March of Otherworldly Light

@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.0026
 archetypes:
   goryo:
-    weight: 0.0042
+    weight: 0.0041
     avg_copies: 1.0
   necrodominance:
     weight: 0.0769
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.0588
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.0645
+    weight: 0.0625
     avg_copies: 1.67
   unknown-14:
     weight: 1.0

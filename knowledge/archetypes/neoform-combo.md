@@ -150,64 +150,64 @@ top_cards:
 - name: Meticulous Archive
   weight: 0.0508
   avg_copies: 1.0
-- name: Gemstone Mine
+- name: Invasion of Gobakhan
   weight: 0.0339
   avg_copies: 4.0
-- name: Invasion of Gobakhan
+- name: Gemstone Mine
   weight: 0.0339
   avg_copies: 4.0
 - name: Glittering Wish
   weight: 0.0339
   avg_copies: 4.0
+- name: Thundertrap Trainer
+  weight: 0.0339
+  avg_copies: 3.0
 - name: Rakshasa's Bargain
   weight: 0.0339
   avg_copies: 3.0
 - name: Abrupt Decay
   weight: 0.0339
   avg_copies: 3.0
-- name: Thundertrap Trainer
-  weight: 0.0339
-  avg_copies: 3.0
-- name: Detention Sphere
-  weight: 0.0339
-  avg_copies: 1.0
-- name: Nature's Chant
-  weight: 0.0339
-  avg_copies: 1.0
-- name: Stump Stomp
+- name: Underground Mortuary
   weight: 0.0339
   avg_copies: 1.0
 - name: Borborygmos Enraged
   weight: 0.0339
   avg_copies: 1.0
-- name: Lush Portico
+- name: Firespout
   weight: 0.0339
   avg_copies: 1.0
-- name: Wan Shi Tong, Librarian
+- name: Stump Stomp
   weight: 0.0339
   avg_copies: 1.0
-- name: Undercity Sewers
+- name: Detention Sphere
   weight: 0.0339
   avg_copies: 1.0
 - name: Raph & Mikey, Troublemakers
   weight: 0.0339
   avg_copies: 1.0
-- name: Underground Mortuary
+- name: Lush Portico
   weight: 0.0339
   avg_copies: 1.0
-- name: Firespout
+- name: Undercity Sewers
+  weight: 0.0339
+  avg_copies: 1.0
+- name: Wan Shi Tong, Librarian
+  weight: 0.0339
+  avg_copies: 1.0
+- name: Nature's Chant
   weight: 0.0339
   avg_copies: 1.0
 - name: Summoning Trap
   weight: 0.0169
   avg_copies: 4.0
-- name: Hexing Squelcher
+- name: Geometer's Arthropod
   weight: 0.0169
   avg_copies: 4.0
 - name: Voice of Victory
   weight: 0.0169
   avg_copies: 4.0
-- name: Geometer's Arthropod
+- name: Hexing Squelcher
   weight: 0.0169
   avg_copies: 4.0
 - name: Detect Intrusion
@@ -216,19 +216,19 @@ top_cards:
 - name: Quandrix Charm
   weight: 0.0169
   avg_copies: 3.0
-- name: Stormkeld Vanguard
+- name: Temple Garden
+  weight: 0.0169
+  avg_copies: 1.0
+- name: Force of Vigor
   weight: 0.0169
   avg_copies: 1.0
 - name: Brainsurge
   weight: 0.0169
   avg_copies: 1.0
-- name: Subtlety
+- name: Stormkeld Vanguard
   weight: 0.0169
   avg_copies: 1.0
-- name: Commercial District
-  weight: 0.0169
-  avg_copies: 1.0
-- name: Temple Garden
+- name: Crucible of Worlds
   weight: 0.0169
   avg_copies: 1.0
 - name: Thundering Falls
@@ -237,16 +237,16 @@ top_cards:
 - name: Hallowed Fountain
   weight: 0.0169
   avg_copies: 1.0
-- name: Crucible of Worlds
-  weight: 0.0169
-  avg_copies: 1.0
-- name: Leatherhead, Swamp Stalker
-  weight: 0.0169
-  avg_copies: 1.0
-- name: Force of Vigor
+- name: Commercial District
   weight: 0.0169
   avg_copies: 1.0
 - name: Dismember
+  weight: 0.0169
+  avg_copies: 1.0
+- name: Subtlety
+  weight: 0.0169
+  avg_copies: 1.0
+- name: Leatherhead, Swamp Stalker
   weight: 0.0169
   avg_copies: 1.0
 ---

@@ -7,16 +7,16 @@ name: 'Unknown #109'
 meta_share: 0.0018
 list_count: 9
 top_cards:
-- name: Narset, Parter of Veils
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flow State
+- name: Orim's Chant
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Orim's Chant
+- name: Narset, Parter of Veils
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flow State
   weight: 1.0
   avg_copies: 4.0
 - name: Lórien Revealed
@@ -28,10 +28,10 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 2.44
-- name: Hallowed Fountain
+- name: Day's Undoing
   weight: 1.0
   avg_copies: 2.0
-- name: Day's Undoing
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.0
 - name: Consign to Memory
@@ -52,22 +52,22 @@ top_cards:
 - name: Plains
   weight: 1.0
   avg_copies: 1.22
-- name: Hall of Storm Giants
+- name: Geier Reach Sanitarium
   weight: 1.0
   avg_copies: 1.0
 - name: Monumental Henge
   weight: 1.0
   avg_copies: 1.0
-- name: Geier Reach Sanitarium
+- name: Hall of Storm Giants
   weight: 1.0
   avg_copies: 1.0
 - name: Galvanic Discharge
   weight: 0.8889
   avg_copies: 4.0
-- name: Scalding Tarn
+- name: Veil of Summer
   weight: 0.8889
   avg_copies: 2.0
-- name: Veil of Summer
+- name: Scalding Tarn
   weight: 0.8889
   avg_copies: 2.0
 - name: Steam Vents
@@ -121,22 +121,22 @@ top_cards:
 - name: Arid Mesa
   weight: 0.1111
   avg_copies: 2.0
-- name: card:glen-elendra-s-answer
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Relic of Progenitus
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Beza, the Bounding Spring
+- name: card:temporal-trespass
   weight: 0.1111
   avg_copies: 1.0
 - name: Zirda, the Dawnwaker
   weight: 0.1111
   avg_copies: 1.0
+- name: card:glen-elendra-s-answer
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Beza, the Bounding Spring
+  weight: 0.1111
+  avg_copies: 1.0
 - name: Mistrise Village
   weight: 0.1111
   avg_copies: 1.0
-- name: card:temporal-trespass
+- name: Relic of Progenitus
   weight: 0.1111
   avg_copies: 1.0
 ---

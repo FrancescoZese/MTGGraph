@@ -7,7 +7,7 @@ name: Kraul Harpooner
 scryfall_id: eab7414e-9e36-4420-a50a-61cb8061f349
 set: clu
 type: Creature — Insect Warrior
-meta_presence: 0.005
+meta_presence: 0.0052
 archetypes:
   yawgmoth-combo:
     weight: 0.1169
@@ -16,6 +16,6 @@ archetypes:
     weight: 0.0345
     avg_copies: 1.0
   unknown-126:
-    weight: 0.8235
+    weight: 0.8333
     avg_copies: 1.0
 ---

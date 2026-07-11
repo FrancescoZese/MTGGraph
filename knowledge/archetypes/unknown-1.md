@@ -9,9 +9,6 @@ top_cards:
 - name: Flare of Malice
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodghast
-  weight: 1.0
-  avg_copies: 4.0
 - name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
@@ -21,22 +18,31 @@ top_cards:
 - name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
+- name: Bloodghast
+  weight: 1.0
+  avg_copies: 4.0
 - name: Persist
   weight: 1.0
   avg_copies: 3.88
-- name: Blood Crypt
-  weight: 1.0
-  avg_copies: 3.0
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 3.0
 - name: Rakdos Charm
   weight: 1.0
   avg_copies: 3.0
+- name: Blood Crypt
+  weight: 1.0
+  avg_copies: 3.0
 - name: Obsidian Charmaw
   weight: 1.0
   avg_copies: 2.5
-- name: Village Rites
+- name: Mountain
+  weight: 1.0
+  avg_copies: 2.0
+- name: Brotherhood's End
+  weight: 1.0
+  avg_copies: 2.0
+- name: Fatal Push
   weight: 1.0
   avg_copies: 2.0
 - name: Spymaster's Vault
@@ -45,16 +51,10 @@ top_cards:
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 2.0
-- name: Mountain
-  weight: 1.0
-  avg_copies: 2.0
-- name: Brotherhood's End
-  weight: 1.0
-  avg_copies: 2.0
 - name: Swamp
   weight: 1.0
   avg_copies: 2.0
-- name: Fatal Push
+- name: Village Rites
   weight: 1.0
   avg_copies: 2.0
 - name: Corrupted Conviction

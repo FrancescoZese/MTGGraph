@@ -1,7 +1,7 @@
 ---
 archetypes:
   izzet-prowess:
-    weight: 0.9004
+    weight: 0.9008
     avg_copies: 3.22
   broodscale-combo:
     weight: 0.0193

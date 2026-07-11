@@ -4,13 +4,13 @@ colors:
 - R
 - G
 name: 'Unknown #65'
-meta_share: 0.0054
+meta_share: 0.0053
 list_count: 27
 top_cards:
-- name: Shardless Agent
+- name: Crashing Footfalls
   weight: 1.0
   avg_copies: 4.0
-- name: Crashing Footfalls
+- name: Shardless Agent
   weight: 1.0
   avg_copies: 4.0
 - name: Violent Outburst
@@ -25,10 +25,10 @@ top_cards:
 - name: Fire
   weight: 1.0
   avg_copies: 3.78
-- name: Subtlety
+- name: Dead
   weight: 1.0
   avg_copies: 3.63
-- name: Dead
+- name: Subtlety
   weight: 1.0
   avg_copies: 3.63
 - name: Mystical Dispute
@@ -52,16 +52,16 @@ top_cards:
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.11
-- name: Stomping Ground
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
-- name: Forest
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
 - name: Wooded Foothills
@@ -148,25 +148,25 @@ top_cards:
 - name: Flame of Anor
   weight: 0.037
   avg_copies: 4.0
-- name: Commandeer
-  weight: 0.037
-  avg_copies: 2.0
 - name: High Noon
-  weight: 0.037
-  avg_copies: 2.0
-- name: Mutavault
   weight: 0.037
   avg_copies: 2.0
 - name: Teferi, Time Raveler
   weight: 0.037
   avg_copies: 2.0
+- name: Commandeer
+  weight: 0.037
+  avg_copies: 2.0
 - name: card:avengers-disassembled
   weight: 0.037
   avg_copies: 2.0
-- name: Mine Collapse
+- name: Mutavault
+  weight: 0.037
+  avg_copies: 2.0
+- name: Fable of the Mirror-Breaker
   weight: 0.037
   avg_copies: 1.0
-- name: Fable of the Mirror-Breaker
+- name: Mine Collapse
   weight: 0.037
   avg_copies: 1.0
 ---

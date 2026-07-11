@@ -10,13 +10,13 @@ type: Instant
 meta_presence: 0.0048
 archetypes:
   goryo:
-    weight: 0.0084
+    weight: 0.0083
     avg_copies: 2.0
   reanimator:
     weight: 0.037
     avg_copies: 1.0
   goryo1:
-    weight: 0.087
+    weight: 0.0863
     avg_copies: 1.0
   unknown-19:
     weight: 1.0

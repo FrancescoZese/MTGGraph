@@ -11,13 +11,13 @@ top_cards:
 - name: Subtlety
   weight: 1.0
   avg_copies: 3.97
-- name: Force of Negation
+- name: Shardless Agent
   weight: 1.0
   avg_copies: 3.95
 - name: Violent Outburst
   weight: 1.0
   avg_copies: 3.95
-- name: Shardless Agent
+- name: Force of Negation
   weight: 1.0
   avg_copies: 3.95
 - name: Misty Rainforest
@@ -44,10 +44,10 @@ top_cards:
 - name: Hedge Maze
   weight: 1.0
   avg_copies: 1.07
-- name: Steam Vents
+- name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Forest
@@ -176,40 +176,40 @@ top_cards:
 - name: Valakut Awakening
   weight: 0.0656
   avg_copies: 1.0
+- name: Press the Enemy
+  weight: 0.0328
+  avg_copies: 1.0
 - name: Windcaller Aven
   weight: 0.0328
   avg_copies: 1.0
 - name: Flooded Grove
   weight: 0.0328
   avg_copies: 1.0
-- name: Press the Enemy
-  weight: 0.0328
-  avg_copies: 1.0
 - name: Overlord of the Balemurk
   weight: 0.0164
   avg_copies: 4.0
-- name: Fulminator Mage
+- name: Architects of Will
   weight: 0.0164
   avg_copies: 3.0
 - name: Polluted Delta
   weight: 0.0164
   avg_copies: 3.0
-- name: Architects of Will
+- name: Fulminator Mage
   weight: 0.0164
   avg_copies: 3.0
-- name: Culling Ritual
-  weight: 0.0164
-  avg_copies: 2.0
 - name: card:anger-of-the-gods
   weight: 0.0164
   avg_copies: 2.0
 - name: Vendilion Clique
   weight: 0.0164
   avg_copies: 2.0
+- name: Culling Ritual
+  weight: 0.0164
+  avg_copies: 2.0
 - name: Bonecrusher Giant
   weight: 0.0164
   avg_copies: 2.0
-- name: Overgrown Tomb
+- name: Underground Mortuary
   weight: 0.0164
   avg_copies: 1.0
 - name: Brainsurge
@@ -218,16 +218,16 @@ top_cards:
 - name: Harvester of Misery
   weight: 0.0164
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Overgrown Tomb
   weight: 0.0164
   avg_copies: 1.0
-- name: Underground Mortuary
+- name: Arid Mesa
   weight: 0.0164
   avg_copies: 1.0
 - name: Collector Ouphe
   weight: 0.0164
   avg_copies: 1.0
-- name: Arid Mesa
+- name: Meticulous Archive
   weight: 0.0164
   avg_copies: 1.0
 ---

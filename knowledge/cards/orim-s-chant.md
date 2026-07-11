@@ -10,10 +10,10 @@ type: Instant
 meta_presence: 0.1892
 archetypes:
   ruby-storm:
-    weight: 0.8079
+    weight: 0.8101
     avg_copies: 3.25
   boros-energy:
-    weight: 0.7358
+    weight: 0.7362
     avg_copies: 1.74
   mono-blue-belcher:
     weight: 0.0533
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.0076
     avg_copies: 4.0
   goryo:
-    weight: 0.0168
+    weight: 0.0166
     avg_copies: 2.0
   azorius-control:
     weight: 1.0
@@ -97,13 +97,13 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-62:
-    weight: 0.0769
+    weight: 0.0741
     avg_copies: 1.5
   unknown-68:
     weight: 0.2941
     avg_copies: 1.3
   unknown-70:
-    weight: 0.1818
+    weight: 0.1667
     avg_copies: 2.0
   unknown-83:
     weight: 1.0
@@ -133,7 +133,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-126:
-    weight: 0.8824
+    weight: 0.8333
     avg_copies: 2.8
   unknown-140:
     weight: 1.0

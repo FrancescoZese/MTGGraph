@@ -12,7 +12,7 @@ archetypes:
     weight: 0.0076
     avg_copies: 1.0
   goryo:
-    weight: 0.5252
+    weight: 0.527
     avg_copies: 1.0
   azorius-control:
     weight: 0.1429
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.0022
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0446
+    weight: 0.0442
     avg_copies: 1.0
   reanimator:
     weight: 0.037

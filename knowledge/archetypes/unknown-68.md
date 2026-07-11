@@ -4,7 +4,7 @@ colors:
 - B
 - R
 name: 'Unknown #68'
-meta_share: 0.0068
+meta_share: 0.0067
 list_count: 34
 top_cards:
 - name: Guide of Souls
@@ -157,10 +157,10 @@ top_cards:
 - name: Haliya, Guided by Light
   weight: 0.1176
   avg_copies: 1.0
-- name: Meltdown
+- name: Ghost Vacuum
   weight: 0.1176
   avg_copies: 1.0
-- name: Ghost Vacuum
+- name: Meltdown
   weight: 0.1176
   avg_copies: 1.0
 - name: Deafening Silence
@@ -184,10 +184,10 @@ top_cards:
 - name: Sanctifier en-Vec
   weight: 0.0588
   avg_copies: 1.0
-- name: Path to Exile
+- name: Lingering Souls
   weight: 0.0294
   avg_copies: 2.0
-- name: Lingering Souls
+- name: Path to Exile
   weight: 0.0294
   avg_copies: 2.0
 - name: Faerie Macabre

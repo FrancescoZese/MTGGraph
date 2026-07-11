@@ -9,7 +9,7 @@ type: Artifact Creature — Golem
 meta_presence: 0.0042
 archetypes:
   eldrazi-tron:
-    weight: 0.0738
+    weight: 0.0735
     avg_copies: 1.0
   mono-blue-tron:
     weight: 0.1

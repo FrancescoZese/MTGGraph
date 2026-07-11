@@ -162,10 +162,10 @@ top_cards:
 - name: Shifting Woodland
   weight: 0.026
   avg_copies: 1.5
-- name: Cankerbloom
+- name: Assassin's Trophy
   weight: 0.026
   avg_copies: 1.0
-- name: Assassin's Trophy
+- name: Cankerbloom
   weight: 0.026
   avg_copies: 1.0
 - name: card:wastewood-verge
@@ -174,31 +174,28 @@ top_cards:
 - name: Icetill Explorer
   weight: 0.013
   avg_copies: 1.0
-- name: Chomping Changeling
+- name: Disciple of Freyalise
+  weight: 0.013
+  avg_copies: 1.0
+- name: Surgical Extraction
   weight: 0.013
   avg_copies: 1.0
 - name: Fade from History
   weight: 0.013
   avg_copies: 1.0
-- name: Ghost Quarter
-  weight: 0.013
-  avg_copies: 1.0
-- name: Vicious Rivalry
-  weight: 0.013
-  avg_copies: 1.0
-- name: Nurturing Peatland
-  weight: 0.013
-  avg_copies: 1.0
-- name: Disciple of Freyalise
-  weight: 0.013
-  avg_copies: 1.0
 - name: Spore Frog
+  weight: 0.013
+  avg_copies: 1.0
+- name: Creeping Corrosion
+  weight: 0.013
+  avg_copies: 1.0
+- name: Ghost Quarter
   weight: 0.013
   avg_copies: 1.0
 - name: Sylvan Safekeeper
   weight: 0.013
   avg_copies: 1.0
-- name: Creeping Corrosion
+- name: Chomping Changeling
   weight: 0.013
   avg_copies: 1.0
 - name: card:mole-man-moloid-master
@@ -207,7 +204,10 @@ top_cards:
 - name: Collector Ouphe
   weight: 0.013
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Vicious Rivalry
+  weight: 0.013
+  avg_copies: 1.0
+- name: Nurturing Peatland
   weight: 0.013
   avg_copies: 1.0
 ---

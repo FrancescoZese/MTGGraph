@@ -9,19 +9,19 @@ name: 'Unknown #100'
 meta_share: 0.0006
 list_count: 3
 top_cards:
+- name: Leyline of the Guildpact
+  weight: 1.0
+  avg_copies: 4.0
 - name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
 - name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
-- name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Leyline of the Guildpact
-  weight: 1.0
-  avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline Binding
@@ -42,55 +42,49 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Arena of Glory
-  weight: 1.0
-  avg_copies: 1.0
-- name: Mountain
-  weight: 1.0
-  avg_copies: 1.0
-- name: Blood Crypt
-  weight: 1.0
-  avg_copies: 1.0
 - name: Wear
   weight: 1.0
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 1.0
   avg_copies: 1.0
+- name: Mountain
+  weight: 1.0
+  avg_copies: 1.0
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
+- name: Blood Crypt
+  weight: 1.0
+  avg_copies: 1.0
+- name: Arena of Glory
+  weight: 1.0
+  avg_copies: 1.0
 - name: Polluted Delta
   weight: 0.6667
   avg_copies: 4.0
-- name: Quantum Riddler
+- name: Obsidian Charmaw
   weight: 0.6667
   avg_copies: 2.0
 - name: Orcish Bowmasters
   weight: 0.6667
   avg_copies: 2.0
-- name: Obsidian Charmaw
+- name: Quantum Riddler
   weight: 0.6667
   avg_copies: 2.0
 - name: High Noon
   weight: 0.6667
   avg_copies: 1.5
-- name: Fire Magic
+- name: Vexing Bauble
   weight: 0.6667
   avg_copies: 1.5
-- name: Vexing Bauble
+- name: Fire Magic
   weight: 0.6667
   avg_copies: 1.5
 - name: Pest Control
   weight: 0.6667
   avg_copies: 1.5
-- name: Nihil Spellbomb
-  weight: 0.6667
-  avg_copies: 1.0
 - name: Spara's Headquarters
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Breeding Pool
   weight: 0.6667
   avg_copies: 1.0
 - name: Raucous Theater
@@ -99,9 +93,12 @@ top_cards:
 - name: Godless Shrine
   weight: 0.6667
   avg_copies: 1.0
-- name: Scalding Tarn
-  weight: 0.3333
-  avg_copies: 4.0
+- name: Nihil Spellbomb
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Breeding Pool
+  weight: 0.6667
+  avg_copies: 1.0
 - name: Bloodstained Mire
   weight: 0.3333
   avg_copies: 4.0
@@ -114,16 +111,10 @@ top_cards:
 - name: Arid Mesa
   weight: 0.3333
   avg_copies: 4.0
-- name: Laelia, the Blade Reforged
+- name: Scalding Tarn
   weight: 0.3333
-  avg_copies: 2.0
+  avg_copies: 4.0
 - name: Kroxa, Titan of Death's Hunger
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Surge of Salvation
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Damping Sphere
   weight: 0.3333
   avg_copies: 2.0
 - name: Practiced Offense
@@ -132,10 +123,16 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 0.3333
   avg_copies: 2.0
-- name: Overgrown Tomb
+- name: Surge of Salvation
   weight: 0.3333
-  avg_copies: 1.0
-- name: Hallowed Fountain
+  avg_copies: 2.0
+- name: Laelia, the Blade Reforged
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Damping Sphere
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Temple Garden
   weight: 0.3333
   avg_copies: 1.0
 - name: Island
@@ -144,28 +141,31 @@ top_cards:
 - name: Indatha Triome
   weight: 0.3333
   avg_copies: 1.0
-- name: Rest in Peace
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Watery Grave
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Swamp
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Temple Garden
+- name: Overgrown Tomb
   weight: 0.3333
   avg_copies: 1.0
 - name: Thundering Falls
   weight: 0.3333
   avg_copies: 1.0
-- name: Plains
+- name: Watery Grave
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Swamp
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Rest in Peace
   weight: 0.3333
   avg_copies: 1.0
 - name: Hidetsugu Consumes All
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Plains
   weight: 0.3333
   avg_copies: 1.0
 ---

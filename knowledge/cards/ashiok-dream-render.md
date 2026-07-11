@@ -8,7 +8,7 @@ name: Ashiok, Dream Render
 scryfall_id: f2df3258-c053-48a8-974f-d80899b2cd93
 set: war
 type: Legendary Planeswalker — Ashiok
-meta_presence: 0.0698
+meta_presence: 0.0695
 archetypes:
   dimir-control:
     weight: 0.0617
@@ -20,7 +20,7 @@ archetypes:
     weight: 0.2977
     avg_copies: 1.38
   goryo:
-    weight: 0.1597
+    weight: 0.1577
     avg_copies: 1.21
   necrodominance:
     weight: 0.1538
@@ -35,10 +35,10 @@ archetypes:
     weight: 0.15
     avg_copies: 1.0
   affinity:
-    weight: 0.094
+    weight: 0.0935
     avg_copies: 1.02
   domain-zoo:
-    weight: 0.4107
+    weight: 0.4071
     avg_copies: 1.33
   mill:
     weight: 0.129

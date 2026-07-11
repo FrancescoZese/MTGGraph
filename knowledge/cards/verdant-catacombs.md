@@ -6,13 +6,13 @@ name: Verdant Catacombs
 scryfall_id: 94c229ea-90da-4aa0-bfda-b162fb3b5b8b
 set: mh2
 type: Land
-meta_presence: 0.1065
+meta_presence: 0.1064
 archetypes:
   dimir-control:
     weight: 0.0123
     avg_copies: 1.0
   goryo:
-    weight: 0.0084
+    weight: 0.0083
     avg_copies: 4.0
   necrodominance:
     weight: 0.1795
@@ -60,7 +60,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   goryo1:
-    weight: 0.0652
+    weight: 0.0647
     avg_copies: 1.0
   goryo5:
     weight: 0.8125
@@ -127,7 +127,7 @@ archetypes:
     avg_copies: 3.0
   unknown-126:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.89
   unknown-130:
     weight: 1.0
     avg_copies: 3.0

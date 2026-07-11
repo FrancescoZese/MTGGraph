@@ -8,16 +8,16 @@ name: Pest Control
 scryfall_id: a4a01b92-dafb-4ea6-8eff-29f881f6be24
 set: big
 type: Sorcery
-meta_presence: 0.0264
+meta_presence: 0.0266
 archetypes:
   dimir-control:
     weight: 0.1481
     avg_copies: 1.52
   goryo:
-    weight: 0.3739
+    weight: 0.3693
     avg_copies: 1.15
   domain-zoo:
-    weight: 0.0536
+    weight: 0.0619
     avg_copies: 1.0
   mardu-blink:
     weight: 0.0417
