@@ -4,19 +4,19 @@ archetypes:
     weight: 0.0123
     avg_copies: 3.0
   eldrazi-tron:
-    weight: 0.9347
+    weight: 0.9382
     avg_copies: 1.84
   amulet-titan:
-    weight: 0.9859
+    weight: 0.9861
     avg_copies: 2.24
   hardened-scales:
     weight: 1.0
     avg_copies: 1.75
   living-end:
-    weight: 0.7667
-    avg_copies: 2.0
+    weight: 0.7742
+    avg_copies: 1.98
   neoform-combo:
-    weight: 0.0169
+    weight: 0.0476
     avg_copies: 1.0
   mono-blue-tron:
     weight: 0.3
@@ -25,23 +25,23 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   eldrazi-ramp:
-    weight: 0.1351
+    weight: 0.1304
     avg_copies: 1.73
   simic-ritual:
-    weight: 0.4935
+    weight: 0.5
     avg_copies: 1.67
   4c-omnath:
     weight: 0.25
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.5507
-    avg_copies: 1.72
+    weight: 0.5525
+    avg_copies: 1.71
   rakdos-aggro:
-    weight: 0.1176
+    weight: 0.1111
     avg_copies: 1.0
   goryo4:
     weight: 1.0
-    avg_copies: 2.14
+    avg_copies: 2.17
   unknown-24:
     weight: 1.0
     avg_copies: 1.0
@@ -58,16 +58,16 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-65:
-    weight: 0.7407
+    weight: 0.7143
     avg_copies: 1.14
   unknown-67:
-    weight: 0.2459
+    weight: 0.2381
     avg_copies: 1.4
   unknown-76:
     weight: 1.0
     avg_copies: 2.33
   unknown-84:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
   unknown-103:
     weight: 1.0
@@ -84,7 +84,7 @@ archetypes:
 cmc: 3
 colors: []
 image: https://cards.scryfall.io/normal/front/3/d/3d286cf6-3e16-4941-9326-1818b1e06d69.jpg?1562261132
-meta_presence: 0.1371
+meta_presence: 0.138
 name: Dismember
 scryfall_id: 3d286cf6-3e16-4941-9326-1818b1e06d69
 set: mm2

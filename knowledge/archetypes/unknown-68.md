@@ -4,7 +4,7 @@ colors:
 - B
 - R
 name: 'Unknown #68'
-meta_share: 0.0067
+meta_share: 0.0065
 list_count: 34
 top_cards:
 - name: Guide of Souls
@@ -154,31 +154,31 @@ top_cards:
 - name: Damping Sphere
   weight: 0.1176
   avg_copies: 1.75
-- name: Haliya, Guided by Light
+- name: Meltdown
   weight: 0.1176
   avg_copies: 1.0
 - name: Ghost Vacuum
   weight: 0.1176
   avg_copies: 1.0
-- name: Meltdown
+- name: Haliya, Guided by Light
   weight: 0.1176
   avg_copies: 1.0
 - name: Deafening Silence
   weight: 0.0882
   avg_copies: 1.67
-- name: Witch Enchanter
+- name: Blood Moon
   weight: 0.0588
   avg_copies: 2.0
-- name: Blood Moon
+- name: Witch Enchanter
   weight: 0.0588
   avg_copies: 2.0
 - name: Solitude
   weight: 0.0588
   avg_copies: 1.67
-- name: Containment Priest
+- name: Strategic Betrayal
   weight: 0.0588
   avg_copies: 1.0
-- name: Strategic Betrayal
+- name: Containment Priest
   weight: 0.0588
   avg_copies: 1.0
 - name: Sanctifier en-Vec

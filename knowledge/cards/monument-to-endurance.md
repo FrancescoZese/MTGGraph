@@ -9,7 +9,7 @@ type: Artifact
 meta_presence: 0.0008
 archetypes:
   unknown-58:
-    weight: 1.0
+    weight: 0.6667
     avg_copies: 4.0
   unknown-117:
     weight: 1.0

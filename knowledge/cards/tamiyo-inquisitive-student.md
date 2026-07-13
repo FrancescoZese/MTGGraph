@@ -6,25 +6,25 @@ name: Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
 scryfall_id: 2a717b98-cdac-416d-bf6c-f6b6638e65d1
 set: mh3
 type: Legendary Creature — Moonfolk Wizard // Legendary Planeswalker — Tamiyo
-meta_presence: 0.0501
+meta_presence: 0.0497
 archetypes:
   dimir-control:
     weight: 0.4691
     avg_copies: 2.24
   mono-blue-belcher:
-    weight: 0.24
-    avg_copies: 1.79
+    weight: 0.25
+    avg_copies: 1.8
   jeskai-energy:
     weight: 0.0382
     avg_copies: 1.4
   azorius-control:
-    weight: 0.0286
+    weight: 0.0274
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.125
+    weight: 0.119
     avg_copies: 3.0
   affinity:
-    weight: 0.0045
+    weight: 0.0043
     avg_copies: 2.0
   mill:
     weight: 0.0645
@@ -36,7 +36,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   simic-ritual:
-    weight: 0.0909
+    weight: 0.0897
     avg_copies: 1.57
   izzet-artifacts:
     weight: 0.9688
@@ -51,7 +51,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.0072
+    weight: 0.0069
     avg_copies: 2.0
   grixis-control:
     weight: 1.0
@@ -63,7 +63,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.2
   sultai-midrange:
-    weight: 1.0
+    weight: 0.6667
     avg_copies: 2.0
   unknown-2:
     weight: 0.5
@@ -87,8 +87,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-47:
-    weight: 0.7941
-    avg_copies: 2.09
+    weight: 0.8108
+    avg_copies: 2.17
   unknown-51:
     weight: 1.0
     avg_copies: 4.0
@@ -99,7 +99,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-62:
-    weight: 0.0741
+    weight: 0.069
     avg_copies: 1.0
   unknown-63:
     weight: 1.0
@@ -117,7 +117,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-100:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 2.0
   unknown-105:
     weight: 1.0
@@ -135,7 +135,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-120:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 4.0
   unknown-155:
     weight: 1.0

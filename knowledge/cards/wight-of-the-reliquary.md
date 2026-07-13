@@ -11,7 +11,7 @@ type: Creature — Zombie Knight
 meta_presence: 0.0006
 archetypes:
   soultrader-combo:
-    weight: 0.4
+    weight: 0.3333
     avg_copies: 3.0
   unknown-173:
     weight: 1.0

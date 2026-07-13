@@ -3,19 +3,19 @@ colors:
 - B
 - G
 name: 'Unknown #46'
-meta_share: 0.0016
+meta_share: 0.0015
 list_count: 8
 top_cards:
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 4.0
 - name: Necrodominance
   weight: 1.0
   avg_copies: 4.0
-- name: Boggart Trawler
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Soul Spike
+  weight: 1.0
+  avg_copies: 4.0
+- name: Boggart Trawler
   weight: 1.0
   avg_copies: 4.0
 - name: Swamp
@@ -39,19 +39,19 @@ top_cards:
 - name: Dauthi Voidwalker
   weight: 1.0
   avg_copies: 2.38
-- name: Bloodstained Mire
-  weight: 1.0
-  avg_copies: 2.12
 - name: Culling Ritual
   weight: 1.0
   avg_copies: 2.12
-- name: Castle Locthwain
+- name: Bloodstained Mire
   weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 2.12
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 2.0
 - name: Underground Mortuary
+  weight: 1.0
+  avg_copies: 2.0
+- name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 2.0
 - name: Overgrown Tomb
@@ -60,7 +60,7 @@ top_cards:
 - name: March of Wretched Sorrow
   weight: 1.0
   avg_copies: 2.0
-- name: Ashiok, Dream Render
+- name: Castle Locthwain
   weight: 1.0
   avg_copies: 2.0
 - name: Professor Dellian Fel

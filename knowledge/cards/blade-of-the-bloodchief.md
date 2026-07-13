@@ -6,12 +6,12 @@ name: Blade of the Bloodchief
 scryfall_id: 34e7bebf-1844-476c-a947-978393908fa2
 set: lcc
 type: Artifact — Equipment
-meta_presence: 0.0412
+meta_presence: 0.0421
 archetypes:
   broodscale-combo:
     weight: 1.0
-    avg_copies: 3.62
+    avg_copies: 3.59
   unknown-176:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.75
 ---

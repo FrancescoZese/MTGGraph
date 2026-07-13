@@ -10,6 +10,6 @@ type: Creature — Human Warrior
 meta_presence: 0.0044
 archetypes:
   dredge:
-    weight: 0.9565
-    avg_copies: 3.05
+    weight: 0.9583
+    avg_copies: 3.04
 ---

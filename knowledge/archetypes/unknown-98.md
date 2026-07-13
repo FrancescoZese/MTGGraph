@@ -2,22 +2,22 @@
 colors:
 - R
 name: 'Unknown #98'
-meta_share: 0.0016
+meta_share: 0.0015
 list_count: 8
 top_cards:
+- name: Experimental Synthesizer
+  weight: 1.0
+  avg_copies: 4.0
 - name: Shrapnel Blast
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
-- name: Experimental Synthesizer
+- name: Galvanic Blast
   weight: 1.0
   avg_copies: 4.0
 - name: Cori-Steel Cutter
-  weight: 1.0
-  avg_copies: 4.0
-- name: Galvanic Blast
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
@@ -38,10 +38,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 1.0
   avg_copies: 1.75
-- name: Shinka, the Bloodsoaked Keep
+- name: Sokenzan, Crucible of Defiance
   weight: 1.0
   avg_copies: 1.0
-- name: Sokenzan, Crucible of Defiance
+- name: Shinka, the Bloodsoaked Keep
   weight: 1.0
   avg_copies: 1.0
 - name: Darksteel Citadel
@@ -59,10 +59,10 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.875
   avg_copies: 1.12
-- name: Vexing Bauble
+- name: Skateboard
   weight: 0.875
   avg_copies: 1.0
-- name: Skateboard
+- name: Vexing Bauble
   weight: 0.875
   avg_copies: 1.0
 - name: Grafdigger's Cage
@@ -83,10 +83,10 @@ top_cards:
 - name: Whipflare
   weight: 0.5
   avg_copies: 2.25
-- name: Shadowspear
+- name: Pithing Needle
   weight: 0.5
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Shadowspear
   weight: 0.5
   avg_copies: 1.0
 - name: Monastery Swiftspear
@@ -101,22 +101,22 @@ top_cards:
 - name: Legion Extruder
   weight: 0.25
   avg_copies: 4.0
+- name: Weapons Manufacturing
+  weight: 0.125
+  avg_copies: 4.0
 - name: Dragon's Rage Channeler
   weight: 0.125
   avg_copies: 4.0
 - name: Obsidian Charmaw
   weight: 0.125
   avg_copies: 4.0
-- name: Weapons Manufacturing
-  weight: 0.125
-  avg_copies: 4.0
 - name: Claws of Gix
   weight: 0.125
   avg_copies: 3.0
-- name: Unstable Amulet
+- name: Blood Moon
   weight: 0.125
   avg_copies: 3.0
-- name: Blood Moon
+- name: Unstable Amulet
   weight: 0.125
   avg_copies: 3.0
 - name: Magebane Lizard
@@ -128,13 +128,13 @@ top_cards:
 - name: Sunbaked Canyon
   weight: 0.125
   avg_copies: 2.0
+- name: card:pyrite-spellbomb
+  weight: 0.125
+  avg_copies: 1.0
 - name: card:castle-doom
   weight: 0.125
   avg_copies: 1.0
 - name: Lavaspur Boots
-  weight: 0.125
-  avg_copies: 1.0
-- name: card:pyrite-spellbomb
   weight: 0.125
   avg_copies: 1.0
 ---

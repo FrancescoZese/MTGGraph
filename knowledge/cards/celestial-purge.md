@@ -7,10 +7,10 @@ name: Celestial Purge
 scryfall_id: cd38afd4-d7a4-493d-bdea-72be9a1d9a07
 set: mm2
 type: Instant
-meta_presence: 0.1656
+meta_presence: 0.1654
 archetypes:
   boros-energy:
-    weight: 0.6761
+    weight: 0.6773
     avg_copies: 1.39
   dimir-control:
     weight: 0.0741
@@ -19,31 +19,31 @@ archetypes:
     weight: 0.4962
     avg_copies: 1.17
   eldrazi-tron:
-    weight: 0.0041
+    weight: 0.0039
     avg_copies: 1.0
   goryo:
-    weight: 0.3154
+    weight: 0.3059
     avg_copies: 1.08
   azorius-control:
-    weight: 0.4714
-    avg_copies: 1.33
+    weight: 0.4795
+    avg_copies: 1.34
   jeskai-control:
-    weight: 0.9
-    avg_copies: 1.39
+    weight: 0.881
+    avg_copies: 1.38
   domain-zoo:
-    weight: 0.1239
+    weight: 0.1316
     avg_copies: 1.0
   boros-ponza:
     weight: 0.6786
     avg_copies: 1.74
   izzet-prowess:
-    weight: 0.0079
+    weight: 0.0076
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0326
+    weight: 0.0309
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.1071
+    weight: 0.1034
     avg_copies: 1.17
   esper-midrange:
     weight: 1.0
@@ -52,8 +52,8 @@ archetypes:
     weight: 0.1667
     avg_copies: 2.0
   goryo2:
-    weight: 1.0
-    avg_copies: 2.0
+    weight: 0.5
+    avg_copies: 1.5
   goryo3:
     weight: 1.0
     avg_copies: 2.0
@@ -64,7 +64,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   sultai-midrange:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
   unknown-3:
     weight: 1.0
@@ -79,19 +79,19 @@ archetypes:
     weight: 0.1
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0147
+    weight: 0.0135
     avg_copies: 1.0
   unknown-56:
     weight: 1.0
     avg_copies: 2.0
   unknown-62:
-    weight: 0.037
+    weight: 0.0345
     avg_copies: 1.0
   unknown-68:
     weight: 0.1765
     avg_copies: 1.0
   unknown-70:
-    weight: 0.3333
+    weight: 0.2857
     avg_copies: 1.25
   unknown-99:
     weight: 1.0
@@ -109,8 +109,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.3953
-    avg_copies: 1.71
+    weight: 0.4231
+    avg_copies: 1.73
   unknown-166:
     weight: 1.0
     avg_copies: 1.0
@@ -121,6 +121,12 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-186:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-189:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-191:
     weight: 1.0
     avg_copies: 1.0
 ---

@@ -6,10 +6,10 @@ name: Hallowed Fountain
 scryfall_id: e056b55f-82ed-4fe0-ab0c-bb20fa4a218a
 set: ecl
 type: Land — Plains Island
-meta_presence: 0.1672
+meta_presence: 0.1696
 archetypes:
   boros-energy:
-    weight: 0.0016
+    weight: 0.0015
     avg_copies: 2.0
   dimir-control:
     weight: 0.1605
@@ -18,19 +18,19 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo:
-    weight: 0.9917
+    weight: 0.9922
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
     avg_copies: 1.97
   living-end:
-    weight: 0.2167
+    weight: 0.2097
     avg_copies: 1.0
   jeskai-control:
     weight: 1.0
-    avg_copies: 1.6
+    avg_copies: 1.62
   affinity:
-    weight: 0.0045
+    weight: 0.0043
     avg_copies: 1.0
   mill:
     weight: 0.0323
@@ -39,23 +39,23 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0169
+    weight: 0.0159
     avg_copies: 1.0
   hammer-time:
     weight: 1.0
-    avg_copies: 2.33
+    avg_copies: 2.36
   4c-omnath:
     weight: 0.75
     avg_copies: 1.0
   esper-blink:
     weight: 1.0
-    avg_copies: 1.09
+    avg_copies: 1.08
   bant-control:
     weight: 1.0
     avg_copies: 1.0
   azorius-blink:
     weight: 1.0
-    avg_copies: 3.39
+    avg_copies: 3.38
   esper-control:
     weight: 1.0
     avg_copies: 2.0
@@ -67,7 +67,7 @@ archetypes:
     avg_copies: 1.0
   goryo2:
     weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 1.5
   goryo3:
     weight: 1.0
     avg_copies: 2.0
@@ -75,7 +75,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.6
   sultai-midrange:
-    weight: 0.5
+    weight: 0.6667
     avg_copies: 1.0
   unknown-3:
     weight: 1.0
@@ -104,30 +104,33 @@ archetypes:
   unknown-22:
     weight: 1.0
     avg_copies: 1.25
+  unknown-30:
+    weight: 0.1429
+    avg_copies: 1.0
   unknown-47:
-    weight: 0.0882
+    weight: 0.0811
     avg_copies: 1.0
   unknown-56:
     weight: 1.0
     avg_copies: 1.0
   unknown-62:
     weight: 1.0
-    avg_copies: 3.22
+    avg_copies: 3.24
   unknown-60:
     weight: 1.0
     avg_copies: 1.0
   unknown-65:
-    weight: 0.0741
+    weight: 0.1071
     avg_copies: 1.0
   unknown-66:
     weight: 1.0
     avg_copies: 2.0
   unknown-67:
-    weight: 0.1967
+    weight: 0.2063
     avg_copies: 1.0
   unknown-70:
     weight: 1.0
-    avg_copies: 1.25
+    avg_copies: 1.21
   unknown-74:
     weight: 1.0
     avg_copies: 2.0
@@ -141,7 +144,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-84:
-    weight: 1.0
+    weight: 0.6667
     avg_copies: 1.0
   unknown-88:
     weight: 0.0667
@@ -159,7 +162,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-100:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 1.0
   unknown-106:
     weight: 1.0
@@ -220,11 +223,26 @@ archetypes:
     avg_copies: 2.0
   unknown-183:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.5
   unknown-184:
     weight: 1.0
     avg_copies: 3.0
   unknown-186:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-188:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-189:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-190:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-191:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-192:
     weight: 1.0
     avg_copies: 1.0
 ---

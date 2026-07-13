@@ -2,16 +2,16 @@
 archetypes:
   amulet-titan:
     weight: 1.0
-    avg_copies: 2.04
+    avg_copies: 2.03
   neoform-combo:
-    weight: 0.9831
+    weight: 0.9841
     avg_copies: 3.9
   mono-green-ramp:
     weight: 1.0
     avg_copies: 3.0
   cosmogoyf-fling:
     weight: 1.0
-    avg_copies: 2.56
+    avg_copies: 2.55
   unknown-76:
     weight: 1.0
     avg_copies: 2.0
@@ -21,10 +21,13 @@ archetypes:
   unknown-172:
     weight: 1.0
     avg_copies: 3.0
+  unknown-193:
+    weight: 1.0
+    avg_copies: 4.0
 cmc: 0
 colors: []
 image: https://cards.scryfall.io/normal/front/e/e/ee0f88ac-8a90-4057-b0e6-c15fbd02da38.jpg?1619398774
-meta_presence: 0.0493
+meta_presence: 0.0489
 name: Summoner's Pact
 scryfall_id: ee0f88ac-8a90-4057-b0e6-c15fbd02da38
 set: tsr

@@ -6,53 +6,53 @@ name: Windswept Heath
 scryfall_id: bd1d13f7-fd38-4f0b-a8e0-1eac78668117
 set: mh3
 type: Land
-meta_presence: 0.1401
+meta_presence: 0.1382
 archetypes:
   boros-energy:
-    weight: 0.4107
+    weight: 0.4033
     avg_copies: 2.71
   jeskai-energy:
     weight: 0.0076
     avg_copies: 3.0
   amulet-titan:
-    weight: 0.0211
+    weight: 0.0208
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0857
+    weight: 0.0822
     avg_copies: 1.33
   jeskai-control:
-    weight: 0.025
+    weight: 0.0238
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.1864
-    avg_copies: 1.64
+    weight: 0.1905
+    avg_copies: 1.58
   hammer-time:
-    weight: 0.3333
+    weight: 0.3636
     avg_copies: 4.0
   boros-ponza:
     weight: 0.0071
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.974
-    avg_copies: 3.12
+    weight: 0.9744
+    avg_copies: 3.09
   eldrazi-ramp:
-    weight: 0.8108
+    weight: 0.7913
     avg_copies: 1.33
   simic-ritual:
-    weight: 0.0649
+    weight: 0.0641
     avg_copies: 1.6
   4c-omnath:
     weight: 1.0
     avg_copies: 3.25
   esper-blink:
-    weight: 0.0109
+    weight: 0.0103
     avg_copies: 1.0
   samwise-combo:
     weight: 1.0
-    avg_copies: 3.81
+    avg_copies: 3.82
   broodscale-combo:
-    weight: 0.256
-    avg_copies: 1.17
+    weight: 0.2603
+    avg_copies: 1.16
   orzhov-blink:
     weight: 0.1111
     avg_copies: 2.0
@@ -60,8 +60,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.6071
-    avg_copies: 1.68
+    weight: 0.6034
+    avg_copies: 1.69
   elves:
     weight: 1.0
     avg_copies: 2.5
@@ -96,7 +96,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-62:
-    weight: 0.2222
+    weight: 0.2069
     avg_copies: 1.83
   unknown-60:
     weight: 1.0
@@ -108,7 +108,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-85:
-    weight: 0.2727
+    weight: 0.25
     avg_copies: 3.67
   unknown-88:
     weight: 0.9333
@@ -127,7 +127,7 @@ archetypes:
     avg_copies: 3.0
   unknown-126:
     weight: 1.0
-    avg_copies: 3.83
+    avg_copies: 3.74
   unknown-130:
     weight: 1.0
     avg_copies: 2.0
@@ -164,4 +164,10 @@ archetypes:
   unknown-175:
     weight: 1.0
     avg_copies: 2.0
+  unknown-191:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-193:
+    weight: 1.0
+    avg_copies: 1.0
 ---

@@ -7,10 +7,13 @@ name: Liliana of the Veil
 scryfall_id: efbb7256-9337-4183-8bda-a419f3f2c501
 set: inr
 type: Legendary Planeswalker — Liliana
-meta_presence: 0.0012
+meta_presence: 0.0013
 archetypes:
   hollow-one:
     weight: 0.1212
+    avg_copies: 1.0
+  jund-saga:
+    weight: 0.25
     avg_copies: 1.0
   unknown-4:
     weight: 1.0

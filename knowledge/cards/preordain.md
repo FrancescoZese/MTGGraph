@@ -7,31 +7,31 @@ name: Preordain
 scryfall_id: dd29a0e5-c1de-4e8a-8866-715e9f9cde1f
 set: tdc
 type: Sorcery
-meta_presence: 0.1094
+meta_presence: 0.1119
 archetypes:
   ruby-storm:
-    weight: 0.0223
+    weight: 0.0215
     avg_copies: 2.0
   dimir-control:
     weight: 0.1605
     avg_copies: 2.31
   mono-blue-belcher:
-    weight: 0.44
-    avg_copies: 2.91
+    weight: 0.4474
+    avg_copies: 2.88
   goryo:
-    weight: 0.0207
-    avg_copies: 1.8
+    weight: 0.0235
+    avg_copies: 1.67
   affinity:
-    weight: 0.3318
-    avg_copies: 3.01
+    weight: 0.3504
+    avg_copies: 2.97
   mill:
     weight: 0.4516
     avg_copies: 3.0
   neoform-combo:
-    weight: 0.0508
+    weight: 0.0476
     avg_copies: 2.33
   izzet-prowess:
-    weight: 0.996
+    weight: 0.9962
     avg_copies: 3.94
   izzet-artifacts:
     weight: 0.375
@@ -49,16 +49,22 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.0432
+    weight: 0.0417
     avg_copies: 1.0
   goryo7:
     weight: 1.0
     avg_copies: 2.0
+  goryo2:
+    weight: 0.25
+    avg_copies: 2.0
+  sultai-midrange:
+    weight: 0.3333
+    avg_copies: 3.0
   unknown-2:
     weight: 0.5
     avg_copies: 3.0
   unknown-6:
-    weight: 0.5714
+    weight: 0.5
     avg_copies: 3.25
   unknown-11:
     weight: 0.6
@@ -76,8 +82,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-47:
-    weight: 0.1471
-    avg_copies: 2.2
+    weight: 0.1892
+    avg_copies: 2.14
   unknown-53:
     weight: 1.0
     avg_copies: 4.0
@@ -99,4 +105,7 @@ archetypes:
   unknown-182:
     weight: 0.5
     avg_copies: 2.0
+  unknown-189:
+    weight: 1.0
+    avg_copies: 4.0
 ---

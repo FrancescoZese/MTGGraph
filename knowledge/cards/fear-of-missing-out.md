@@ -7,17 +7,17 @@ name: Fear of Missing Out
 scryfall_id: 9d48aaff-46ab-411b-9456-171d4709f951
 set: dsk
 type: Enchantment Creature — Nightmare
-meta_presence: 0.0083
+meta_presence: 0.0084
 archetypes:
   hollow-one:
     weight: 0.4242
     avg_copies: 2.07
   jund-saga:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 1.0
   rakdos-aggro:
-    weight: 0.6471
-    avg_copies: 3.73
+    weight: 0.6667
+    avg_copies: 3.75
   izzet-splinter-twin:
     weight: 0.5
     avg_copies: 4.0
@@ -28,7 +28,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-96:
-    weight: 0.2308
+    weight: 0.2143
     avg_copies: 1.0
   unknown-90:
     weight: 1.0

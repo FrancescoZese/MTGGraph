@@ -6,13 +6,13 @@ colors:
 - R
 - G
 name: Indomitable Creativity
-meta_share: 0.0028
+meta_share: 0.0027
 list_count: 14
 top_cards:
-- name: Indomitable Creativity
+- name: Fable of the Mirror-Breaker
   weight: 1.0
   avg_copies: 4.0
-- name: Fable of the Mirror-Breaker
+- name: Indomitable Creativity
   weight: 1.0
   avg_copies: 4.0
 - name: Wrenn and Six
@@ -69,13 +69,13 @@ top_cards:
 - name: Elegant Parlor
   weight: 0.7857
   avg_copies: 1.0
-- name: Xander's Lounge
+- name: Sacred Foundry
   weight: 0.7857
   avg_copies: 1.0
 - name: Jetmir's Garden
   weight: 0.7857
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Xander's Lounge
   weight: 0.7857
   avg_copies: 1.0
 - name: Surgical Extraction
@@ -84,10 +84,10 @@ top_cards:
 - name: Wooded Foothills
   weight: 0.6429
   avg_copies: 2.67
-- name: Thundering Falls
+- name: Raph & Mikey, Troublemakers
   weight: 0.6429
   avg_copies: 1.0
-- name: Raph & Mikey, Troublemakers
+- name: Thundering Falls
   weight: 0.6429
   avg_copies: 1.0
 - name: Galvanic Discharge
@@ -129,13 +129,13 @@ top_cards:
 - name: Raucous Theater
   weight: 0.2857
   avg_copies: 1.0
-- name: Faithless Looting
+- name: Thoughtseize
   weight: 0.2143
   avg_copies: 4.0
 - name: Persist
   weight: 0.2143
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Faithless Looting
   weight: 0.2143
   avg_copies: 4.0
 - name: Fatal Push
@@ -153,31 +153,31 @@ top_cards:
 - name: Spell Pierce
   weight: 0.2143
   avg_copies: 1.4
+- name: Valgavoth, Terror Eater
+  weight: 0.2143
+  avg_copies: 1.0
 - name: Prismari Charm
   weight: 0.2143
   avg_copies: 1.0
 - name: Ziatora's Proving Ground
   weight: 0.2143
   avg_copies: 1.0
-- name: Valgavoth, Terror Eater
-  weight: 0.2143
-  avg_copies: 1.0
 - name: Leyline of the Void
   weight: 0.1429
   avg_copies: 4.0
+- name: Prismari Command
+  weight: 0.1429
+  avg_copies: 1.0
 - name: Commercial District
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Ketria Triome
   weight: 0.1429
   avg_copies: 1.0
 - name: Emrakul, the Aeons Torn
   weight: 0.1429
   avg_copies: 1.0
-- name: Prismari Command
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Abrupt Decay
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Ketria Triome
   weight: 0.1429
   avg_copies: 1.0
 - name: Nature's Claim
@@ -192,16 +192,16 @@ top_cards:
 - name: Inquisition of Kozilek
   weight: 0.0714
   avg_copies: 1.5
+- name: Rest in Peace
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
+  weight: 0.0714
+  avg_copies: 1.0
 - name: Vampires' Vengeance
   weight: 0.0714
   avg_copies: 1.0
-- name: Molten Collapse
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Brainsurge
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Rest in Peace
+- name: Turn the Earth
   weight: 0.0714
   avg_copies: 1.0
 - name: Swamp
@@ -210,10 +210,10 @@ top_cards:
 - name: Witherbloom Command
   weight: 0.0714
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
+- name: Brainsurge
   weight: 0.0714
   avg_copies: 1.0
-- name: Turn the Earth
+- name: Molten Collapse
   weight: 0.0714
   avg_copies: 1.0
 ---

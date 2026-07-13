@@ -10,9 +10,9 @@ type: Creature — Whale
 meta_presence: 0.0065
 archetypes:
   living-end:
-    weight: 0.15
+    weight: 0.1452
     avg_copies: 2.44
   unknown-67:
-    weight: 0.3934
+    weight: 0.3968
     avg_copies: 1.88
 ---

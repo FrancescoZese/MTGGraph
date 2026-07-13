@@ -13,41 +13,41 @@ archetypes:
     weight: 0.4691
     avg_copies: 1.31
   goryo:
-    weight: 0.0041
+    weight: 0.0039
     avg_copies: 1.0
   necrodominance:
-    weight: 0.0513
+    weight: 0.05
     avg_copies: 1.5
   mill:
     weight: 0.5806
     avg_copies: 1.11
   simic-ritual:
-    weight: 0.0649
+    weight: 0.0641
     avg_copies: 1.4
   jund-saga:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 1.0
   the-rock:
     weight: 0.5
     avg_copies: 1.0
   goryo1:
-    weight: 0.0432
+    weight: 0.0417
     avg_copies: 1.0
   goryo5:
     weight: 0.1875
     avg_copies: 1.67
   sultai-midrange:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
   unknown-24:
     weight: 1.0
     avg_copies: 2.0
   unknown-30:
-    weight: 0.1667
+    weight: 0.1429
     avg_copies: 1.0
   unknown-47:
-    weight: 0.6471
-    avg_copies: 1.2
+    weight: 0.6622
+    avg_copies: 1.18
   unknown-63:
     weight: 1.0
     avg_copies: 2.0

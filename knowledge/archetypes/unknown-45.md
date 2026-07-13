@@ -3,16 +3,16 @@ colors:
 - U
 - B
 name: 'Unknown #45'
-meta_share: 0.0046
+meta_share: 0.0044
 list_count: 23
 top_cards:
 - name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
-- name: Eyetwitch
+- name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
-- name: Stitcher's Supplier
+- name: Eyetwitch
   weight: 1.0
   avg_copies: 4.0
 - name: Crypt of Agadeem
@@ -45,10 +45,10 @@ top_cards:
 - name: Decorum Dissertation
   weight: 1.0
   avg_copies: 1.0
-- name: Ruinous Waterbending
+- name: Ozai's Cruelty
   weight: 1.0
   avg_copies: 1.0
-- name: Ozai's Cruelty
+- name: Ruinous Waterbending
   weight: 1.0
   avg_copies: 1.0
 - name: Street Wraith
@@ -69,10 +69,10 @@ top_cards:
 - name: Origin of Metalbending
   weight: 0.9565
   avg_copies: 1.05
-- name: Dai Li Indoctrination
+- name: Underground Mortuary
   weight: 0.9565
   avg_copies: 1.0
-- name: Underground Mortuary
+- name: Dai Li Indoctrination
   weight: 0.9565
   avg_copies: 1.0
 - name: True Ancestry
@@ -108,10 +108,10 @@ top_cards:
 - name: Poet's Quill
   weight: 0.5217
   avg_copies: 1.0
-- name: Dawnhand Dissident
+- name: Fulminator Mage
   weight: 0.3043
   avg_copies: 1.0
-- name: Fulminator Mage
+- name: Dawnhand Dissident
   weight: 0.3043
   avg_copies: 1.0
 - name: Vexing Bauble
@@ -123,10 +123,10 @@ top_cards:
 - name: Polluted Delta
   weight: 0.2174
   avg_copies: 3.0
-- name: Takenuma, Abandoned Mire
+- name: Faerie Macabre
   weight: 0.2174
   avg_copies: 1.0
-- name: Faerie Macabre
+- name: Takenuma, Abandoned Mire
   weight: 0.2174
   avg_copies: 1.0
 - name: card:baron-helmut-zemo
@@ -141,55 +141,55 @@ top_cards:
 - name: Bloodstained Mire
   weight: 0.087
   avg_copies: 3.0
-- name: Ashiok, Dream Render
-  weight: 0.087
-  avg_copies: 1.5
 - name: Blood Crypt
   weight: 0.087
   avg_copies: 1.5
-- name: Redirect Lightning
+- name: Ashiok, Dream Render
+  weight: 0.087
+  avg_copies: 1.5
+- name: Cling to Dust
   weight: 0.087
   avg_copies: 1.0
-- name: Cling to Dust
+- name: Redirect Lightning
   weight: 0.087
   avg_copies: 1.0
 - name: Harvester of Misery
   weight: 0.087
   avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Fatal Push
   weight: 0.0435
   avg_copies: 2.0
-- name: Fatal Push
+- name: Nihil Spellbomb
   weight: 0.0435
   avg_copies: 2.0
 - name: Price of Freedom
   weight: 0.0435
   avg_copies: 2.0
-- name: Raucous Theater
-  weight: 0.0435
-  avg_copies: 1.0
-- name: Improvisation Capstone
-  weight: 0.0435
-  avg_copies: 1.0
-- name: Liliana, the Last Hope
+- name: Forest
   weight: 0.0435
   avg_copies: 1.0
 - name: Iroh's Demonstration
   weight: 0.0435
   avg_copies: 1.0
-- name: card:the-terminus-of-return
-  weight: 0.0435
-  avg_copies: 1.0
-- name: Forest
-  weight: 0.0435
-  avg_copies: 1.0
 - name: Chthonian Nightmare
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Improvisation Capstone
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Raucous Theater
+  weight: 0.0435
+  avg_copies: 1.0
+- name: card:summon-bahamut
   weight: 0.0435
   avg_copies: 1.0
 - name: Vampire Hexmage
   weight: 0.0435
   avg_copies: 1.0
-- name: card:summon-bahamut
+- name: card:the-terminus-of-return
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Liliana, the Last Hope
   weight: 0.0435
   avg_copies: 1.0
 ---

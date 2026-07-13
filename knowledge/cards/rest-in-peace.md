@@ -7,11 +7,11 @@ name: Rest in Peace
 scryfall_id: d108c2b1-236e-4b8d-8445-d9749ccc4fea
 set: big
 type: Enchantment
-meta_presence: 0.085
+meta_presence: 0.0889
 archetypes:
   boros-energy:
-    weight: 0.1659
-    avg_copies: 1.57
+    weight: 0.1857
+    avg_copies: 1.62
   dimir-control:
     weight: 0.0123
     avg_copies: 1.0
@@ -19,17 +19,17 @@ archetypes:
     weight: 0.0153
     avg_copies: 2.0
   azorius-control:
-    weight: 0.7143
-    avg_copies: 1.5
+    weight: 0.726
+    avg_copies: 1.49
   jeskai-control:
-    weight: 0.125
+    weight: 0.119
     avg_copies: 1.6
   domain-zoo:
-    weight: 0.177
-    avg_copies: 1.25
+    weight: 0.1842
+    avg_copies: 1.29
   burn:
-    weight: 0.3226
-    avg_copies: 2.3
+    weight: 0.3235
+    avg_copies: 2.18
   boros-ponza:
     weight: 0.8286
     avg_copies: 2.6
@@ -37,8 +37,8 @@ archetypes:
     weight: 0.0714
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.5893
-    avg_copies: 1.65
+    weight: 0.6034
+    avg_copies: 1.67
   esper-control:
     weight: 1.0
     avg_copies: 2.0
@@ -49,22 +49,22 @@ archetypes:
     weight: 0.55
     avg_copies: 3.45
   unknown-62:
-    weight: 0.3333
-    avg_copies: 1.89
+    weight: 0.3448
+    avg_copies: 1.9
   unknown-70:
-    weight: 0.4167
+    weight: 0.3571
     avg_copies: 1.8
   unknown-75:
     weight: 1.0
     avg_copies: 2.0
   unknown-85:
-    weight: 0.2727
-    avg_copies: 1.67
+    weight: 0.3333
+    avg_copies: 1.75
   unknown-89:
     weight: 1.0
     avg_copies: 2.0
   unknown-100:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 1.0
   unknown-106:
     weight: 0.1
@@ -91,8 +91,8 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.0
   unknown-160:
-    weight: 0.7907
-    avg_copies: 2.22
+    weight: 0.8269
+    avg_copies: 2.23
   unknown-163:
     weight: 1.0
     avg_copies: 2.0
@@ -102,4 +102,13 @@ archetypes:
   unknown-184:
     weight: 1.0
     avg_copies: 1.0
+  unknown-188:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-190:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-191:
+    weight: 1.0
+    avg_copies: 2.0
 ---

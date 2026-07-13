@@ -11,10 +11,10 @@ type: Instant // Instant
 meta_presence: 0.0069
 archetypes:
   ruby-storm:
-    weight: 0.0056
+    weight: 0.0054
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.013
+    weight: 0.0128
     avg_copies: 2.0
   unknown-11:
     weight: 0.2
@@ -24,9 +24,9 @@ archetypes:
     avg_copies: 2.0
   unknown-65:
     weight: 1.0
-    avg_copies: 3.78
+    avg_copies: 3.75
   unknown-84:
-    weight: 1.0
+    weight: 0.6667
     avg_copies: 4.0
   unknown-94:
     weight: 1.0

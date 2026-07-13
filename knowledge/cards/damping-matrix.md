@@ -9,9 +9,9 @@ type: Artifact
 meta_presence: 0.0046
 archetypes:
   living-end:
-    weight: 0.1167
-    avg_copies: 1.86
+    weight: 0.129
+    avg_copies: 1.75
   unknown-67:
-    weight: 0.2623
+    weight: 0.254
     avg_copies: 2.62
 ---

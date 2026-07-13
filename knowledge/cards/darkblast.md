@@ -10,9 +10,9 @@ type: Instant
 meta_presence: 0.0004
 archetypes:
   esper-blink:
-    weight: 0.0109
+    weight: 0.0103
     avg_copies: 1.0
   dredge:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 3.0
 ---

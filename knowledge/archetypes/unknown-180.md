@@ -9,25 +9,13 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 8.0
-- name: Price of Freedom
-  weight: 1.0
-  avg_copies: 4.0
-- name: Dead
-  weight: 1.0
-  avg_copies: 4.0
-- name: Field of Ruin
-  weight: 1.0
-  avg_copies: 4.0
 - name: Wrenn's Resolve
   weight: 1.0
   avg_copies: 4.0
-- name: Ruby Medallion
-  weight: 1.0
-  avg_copies: 4.0
-- name: Tablet of Discovery
-  weight: 1.0
-  avg_copies: 4.0
 - name: Cleansing Wildfire
+  weight: 1.0
+  avg_copies: 4.0
+- name: Manamorphose
   weight: 1.0
   avg_copies: 4.0
 - name: Pinnacle Monk
@@ -36,10 +24,22 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 4.0
-- name: Manamorphose
+- name: Ruby Medallion
+  weight: 1.0
+  avg_copies: 4.0
+- name: Tablet of Discovery
+  weight: 1.0
+  avg_copies: 4.0
+- name: Price of Freedom
   weight: 1.0
   avg_copies: 4.0
 - name: Wish
+  weight: 1.0
+  avg_copies: 4.0
+- name: Field of Ruin
+  weight: 1.0
+  avg_copies: 4.0
+- name: Dead
   weight: 1.0
   avg_copies: 4.0
 - name: Flashback
@@ -54,7 +54,7 @@ top_cards:
 - name: Gemstone Caverns
   weight: 1.0
   avg_copies: 2.0
-- name: card:chandra-hope-s-beacon
+- name: Lithomantic Barrage
   weight: 1.0
   avg_copies: 1.0
 - name: Trinisphere
@@ -63,7 +63,13 @@ top_cards:
 - name: card:wildfire
   weight: 1.0
   avg_copies: 1.0
-- name: Ensnaring Bridge
+- name: Vexing Bauble
+  weight: 1.0
+  avg_copies: 1.0
+- name: card:flashfires
+  weight: 1.0
+  avg_copies: 1.0
+- name: card:chandra-hope-s-beacon
   weight: 1.0
   avg_copies: 1.0
 - name: Boil
@@ -72,19 +78,13 @@ top_cards:
 - name: Meltdown
   weight: 1.0
   avg_copies: 1.0
-- name: Vexing Bauble
-  weight: 1.0
-  avg_copies: 1.0
-- name: Lithomantic Barrage
-  weight: 1.0
-  avg_copies: 1.0
-- name: card:flashfires
-  weight: 1.0
-  avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Sokenzan, Crucible of Defiance
+  weight: 1.0
+  avg_copies: 1.0
+- name: Ensnaring Bridge
   weight: 1.0
   avg_copies: 1.0
 ---

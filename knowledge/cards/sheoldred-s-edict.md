@@ -13,7 +13,7 @@ archetypes:
     weight: 0.9012
     avg_copies: 2.07
   necrodominance:
-    weight: 0.3077
+    weight: 0.3
     avg_copies: 1.92
   mill:
     weight: 0.2581
@@ -28,16 +28,16 @@ archetypes:
     weight: 0.0606
     avg_copies: 2.0
   esper-blink:
-    weight: 0.0109
+    weight: 0.0103
     avg_copies: 2.0
   orzhov-blink:
     weight: 0.3333
     avg_copies: 2.0
   jund-saga:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 1.0
   rakdos-aggro:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 2.0
   esper-midrange:
     weight: 1.0
@@ -53,9 +53,12 @@ archetypes:
     avg_copies: 1.33
   sultai-midrange:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.5
   unknown-14:
     weight: 0.5
+    avg_copies: 1.0
+  unknown-30:
+    weight: 0.1429
     avg_copies: 1.0
   unknown-31:
     weight: 1.0
@@ -64,8 +67,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.5147
-    avg_copies: 1.27
+    weight: 0.5405
+    avg_copies: 1.24
   unknown-56:
     weight: 1.0
     avg_copies: 2.0

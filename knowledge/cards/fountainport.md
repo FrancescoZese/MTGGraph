@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.001
 archetypes:
   boros-energy:
-    weight: 0.0016
+    weight: 0.0015
     avg_copies: 1.0
   goryo6:
     weight: 1.0

@@ -9,16 +9,16 @@ type: Artifact
 meta_presence: 0.0044
 archetypes:
   affinity:
-    weight: 0.0022
+    weight: 0.0021
     avg_copies: 1.0
   burn:
-    weight: 0.0323
+    weight: 0.0294
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.036
+    weight: 0.0348
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.0172
+    weight: 0.0167
     avg_copies: 1.0
   rakdos-lantern-combo:
     weight: 0.5
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.25
     avg_copies: 2.0
   goryo4:
-    weight: 0.0769
+    weight: 0.0588
     avg_copies: 2.0
   unknown-41:
     weight: 1.0
@@ -36,7 +36,7 @@ archetypes:
     weight: 0.2609
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0147
+    weight: 0.0135
     avg_copies: 2.0
   unknown-143:
     weight: 1.0

@@ -7,25 +7,25 @@ name: 'Unknown #177'
 meta_share: 0.0004
 list_count: 2
 top_cards:
-- name: Marauding Mako
-  weight: 1.0
-  avg_copies: 4.0
-- name: Hollow One
-  weight: 1.0
-  avg_copies: 4.0
 - name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Burning Inquiry
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodstained Mire
+- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
+  weight: 1.0
+  avg_copies: 4.0
+- name: Bloodstained Mire
+  weight: 1.0
+  avg_copies: 4.0
+- name: Hollow One
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marauding Mako
   weight: 1.0
   avg_copies: 4.0
 - name: Faithless Looting
@@ -40,46 +40,49 @@ top_cards:
 - name: Detective's Phoenix
   weight: 1.0
   avg_copies: 3.0
-- name: Ox of Agonas
+- name: Cool but Rude
   weight: 1.0
   avg_copies: 3.0
-- name: Cool but Rude
+- name: Ox of Agonas
   weight: 1.0
   avg_copies: 3.0
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 3.0
-- name: Wrath of the Skies
-  weight: 1.0
-  avg_copies: 2.0
-- name: Surgical Extraction
+- name: Arena of Glory
   weight: 1.0
   avg_copies: 2.0
 - name: Blazing Rootwalla
   weight: 1.0
   avg_copies: 2.0
-- name: Arena of Glory
+- name: Blood Moon
   weight: 1.0
   avg_copies: 2.0
-- name: Fear of Missing Out
+- name: Surgical Extraction
   weight: 1.0
   avg_copies: 2.0
 - name: card:sheltered-by-ghosts
   weight: 1.0
   avg_copies: 2.0
-- name: Blood Moon
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.0
-- name: Thraben Charm
+- name: Fear of Missing Out
+  weight: 1.0
+  avg_copies: 2.0
+- name: Orim's Chant
+  weight: 1.0
+  avg_copies: 1.0
+- name: Elegant Parlor
+  weight: 1.0
+  avg_copies: 1.0
+- name: Mana Tithe
   weight: 1.0
   avg_copies: 1.0
 - name: Unholy Heat
   weight: 1.0
   avg_copies: 1.0
-- name: Disruptor Flute
-  weight: 1.0
-  avg_copies: 1.0
-- name: Orim's Chant
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.0
 - name: Wear
@@ -88,13 +91,10 @@ top_cards:
 - name: Practiced Offense
   weight: 1.0
   avg_copies: 1.0
-- name: Vexing Bauble
+- name: Disruptor Flute
   weight: 1.0
   avg_copies: 1.0
-- name: Elegant Parlor
-  weight: 1.0
-  avg_copies: 1.0
-- name: Mana Tithe
+- name: Thraben Charm
   weight: 1.0
   avg_copies: 1.0
 ---

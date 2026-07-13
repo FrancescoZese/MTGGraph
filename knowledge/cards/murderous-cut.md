@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0042
 archetypes:
   living-end:
-    weight: 0.0167
+    weight: 0.0161
     avg_copies: 1.0
   mill:
     weight: 0.2903
@@ -19,6 +19,9 @@ archetypes:
     weight: 0.1515
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.0779
+    weight: 0.0769
+    avg_copies: 1.0
+  unknown-47:
+    weight: 0.0135
     avg_copies: 1.0
 ---

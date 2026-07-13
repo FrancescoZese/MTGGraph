@@ -6,19 +6,19 @@ name: 'Unknown #101'
 meta_share: 0.0008
 list_count: 4
 top_cards:
-- name: Hollow One
+- name: Detective's Phoenix
+  weight: 1.0
+  avg_copies: 4.0
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Detective's Phoenix
-  weight: 1.0
-  avg_copies: 4.0
 - name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
-- name: Street Wraith
+- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
 - name: Meltdown
@@ -33,10 +33,10 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 2.75
-- name: Bloodstained Mire
+- name: Fear of Missing Out
   weight: 1.0
   avg_copies: 2.25
-- name: Fear of Missing Out
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.25
 - name: Tarfire
@@ -48,25 +48,25 @@ top_cards:
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.25
-- name: Marauding Mako
-  weight: 0.75
-  avg_copies: 4.0
 - name: Burning Inquiry
   weight: 0.75
   avg_copies: 4.0
 - name: Leyline of the Void
   weight: 0.75
   avg_copies: 4.0
+- name: Marauding Mako
+  weight: 0.75
+  avg_copies: 4.0
 - name: Damping Sphere
   weight: 0.75
   avg_copies: 3.67
+- name: Lightning Bolt
+  weight: 0.75
+  avg_copies: 2.67
 - name: Dragon's Rage Channeler
   weight: 0.75
   avg_copies: 2.67
 - name: Vexing Bauble
-  weight: 0.75
-  avg_copies: 2.67
-- name: Lightning Bolt
   weight: 0.75
   avg_copies: 2.67
 - name: Arid Mesa
@@ -90,10 +90,10 @@ top_cards:
 - name: Pyroclasm
   weight: 0.5
   avg_copies: 1.5
-- name: Thoughtseize
+- name: Mishra's Bauble
   weight: 0.25
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Thoughtseize
   weight: 0.25
   avg_copies: 4.0
 - name: Kroxa, Titan of Death's Hunger
@@ -108,9 +108,6 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 0.25
   avg_copies: 2.0
-- name: Sacred Foundry
-  weight: 0.25
-  avg_copies: 1.0
 - name: Swamp
   weight: 0.25
   avg_copies: 1.0
@@ -118,6 +115,9 @@ top_cards:
   weight: 0.25
   avg_copies: 1.0
 - name: Sheoldred's Edict
+  weight: 0.25
+  avg_copies: 1.0
+- name: Sacred Foundry
   weight: 0.25
   avg_copies: 1.0
 ---

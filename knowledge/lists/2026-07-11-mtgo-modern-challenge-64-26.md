@@ -1,0 +1,45 @@
+---
+archetype: living-end
+date: '2026-07-11'
+finish: 13th
+pilot: Lord_Beerus
+source: MTGO Modern Challenge 64
+---
+
+
+# Mainboard
+3 Living End
+4 Shardless Agent
+4 Force of Negation
+4 Overlord of the Balemurk
+1 Undercity Sewers
+2 Underground Mortuary
+1 Hedge Maze
+1 Boseiju, Who Endures
+1 Watery Grave
+1 Island
+1 Forest
+1 Breeding Pool
+1 Otawara, Soaring City
+4 Misty Rainforest
+2 Polluted Delta
+1 Overgrown Tomb
+4 Generous Ent
+4 Subtlety
+4 Curator of Mysteries
+4 Endurance
+2 Colossal Skyturtle
+4 Wistfulness
+3 Formidable Speaker
+1 Halo Forager
+2 Sink into Stupor
+
+# Sideboard
+2 Dismember
+3 Inevitable Betrayal
+4 Mystical Dispute
+2 Commandeer
+1 Foundation Breaker
+1 Mai, Scornful Striker
+1 Damping Sphere
+1 Awaken the Honored Dead

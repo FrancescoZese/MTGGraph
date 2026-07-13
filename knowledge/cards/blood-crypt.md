@@ -9,22 +9,22 @@ type: Land — Swamp Mountain
 meta_presence: 0.0864
 archetypes:
   ruby-storm:
-    weight: 0.0168
+    weight: 0.0161
     avg_copies: 1.0
   boros-energy:
-    weight: 0.0016
+    weight: 0.0015
     avg_copies: 1.0
   necrodominance:
-    weight: 0.0256
+    weight: 0.025
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.2743
+    weight: 0.2807
     avg_copies: 1.0
   reanimator:
     weight: 0.8889
     avg_copies: 1.25
   burn:
-    weight: 0.0323
+    weight: 0.0294
     avg_copies: 2.0
   mardu-blink:
     weight: 1.0
@@ -33,17 +33,17 @@ archetypes:
     weight: 0.9697
     avg_copies: 2.97
   izzet-prowess:
-    weight: 0.0198
+    weight: 0.0191
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.9286
     avg_copies: 1.23
   dredge:
-    weight: 0.913
-    avg_copies: 1.19
+    weight: 0.9167
+    avg_copies: 1.18
   jund-saga:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.75
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 1.0
@@ -55,7 +55,7 @@ archetypes:
     avg_copies: 2.0
   rakdos-aggro:
     weight: 1.0
-    avg_copies: 3.76
+    avg_copies: 3.78
   goryo1:
     weight: 1.0
     avg_copies: 1.0
@@ -126,7 +126,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   unknown-85:
-    weight: 0.8182
+    weight: 0.8333
     avg_copies: 1.0
   unknown-92:
     weight: 1.0
@@ -135,7 +135,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.3846
+    weight: 0.4286
     avg_copies: 2.0
   unknown-90:
     weight: 1.0
@@ -157,6 +157,9 @@ archetypes:
     avg_copies: 1.0
   unknown-118:
     weight: 1.0
+    avg_copies: 1.0
+  unknown-122:
+    weight: 0.0435
     avg_copies: 1.0
   unknown-123:
     weight: 1.0
@@ -182,4 +185,7 @@ archetypes:
   unknown-181:
     weight: 1.0
     avg_copies: 1.0
+  unknown-187:
+    weight: 1.0
+    avg_copies: 4.0
 ---

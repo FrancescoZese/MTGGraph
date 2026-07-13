@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: 'Unknown #106'
-meta_share: 0.002
+meta_share: 0.0019
 list_count: 10
 top_cards:
 - name: Counterspell
@@ -42,10 +42,10 @@ top_cards:
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.06
-- name: Hallowed Fountain
+- name: Plains
   weight: 1.0
   avg_copies: 2.0
-- name: Plains
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.0
 - name: Meticulous Archive
@@ -81,16 +81,16 @@ top_cards:
 - name: Teferi, Hero of Dominaria
   weight: 0.6
   avg_copies: 1.33
-- name: Misty Rainforest
+- name: Undercity Sewers
   weight: 0.6
   avg_copies: 1.0
 - name: Hall of Storm Giants
   weight: 0.6
   avg_copies: 1.0
-- name: Polluted Delta
+- name: Misty Rainforest
   weight: 0.6
   avg_copies: 1.0
-- name: Undercity Sewers
+- name: Polluted Delta
   weight: 0.6
   avg_copies: 1.0
 - name: Brainsurge
@@ -102,10 +102,10 @@ top_cards:
 - name: Beza, the Bounding Spring
   weight: 0.5
   avg_copies: 1.6
-- name: High Noon
+- name: Surgical Extraction
   weight: 0.5
   avg_copies: 1.2
-- name: Surgical Extraction
+- name: High Noon
   weight: 0.5
   avg_copies: 1.2
 - name: Logic Knot
@@ -129,16 +129,16 @@ top_cards:
 - name: Tune the Narrative
   weight: 0.3
   avg_copies: 1.67
-- name: Geier Reach Sanitarium
-  weight: 0.3
-  avg_copies: 1.0
-- name: Ashiok, Dream Render
-  weight: 0.3
-  avg_copies: 1.0
 - name: Get Lost
   weight: 0.3
   avg_copies: 1.0
+- name: Geier Reach Sanitarium
+  weight: 0.3
+  avg_copies: 1.0
 - name: Force of Negation
+  weight: 0.3
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
   weight: 0.3
   avg_copies: 1.0
 - name: Erode
@@ -153,7 +153,7 @@ top_cards:
 - name: Steam Vents
   weight: 0.2
   avg_copies: 1.0
-- name: No More Lies
+- name: Terminus
   weight: 0.1
   avg_copies: 2.0
 - name: Fatal Push
@@ -162,25 +162,25 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 0.1
   avg_copies: 2.0
-- name: Terminus
+- name: No More Lies
   weight: 0.1
   avg_copies: 2.0
-- name: Agna Qel'a
-  weight: 0.1
-  avg_copies: 1.0
-- name: Thundering Falls
+- name: Rest in Peace
   weight: 0.1
   avg_copies: 1.0
 - name: Kaito, Bane of Nightmares
   weight: 0.1
   avg_copies: 1.0
-- name: Dovin's Veto
-  weight: 0.1
-  avg_copies: 1.0
-- name: Rest in Peace
+- name: Agna Qel'a
   weight: 0.1
   avg_copies: 1.0
 - name: Memory Deluge
+  weight: 0.1
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.1
+  avg_copies: 1.0
+- name: Dovin's Veto
   weight: 0.1
   avg_copies: 1.0
 ---

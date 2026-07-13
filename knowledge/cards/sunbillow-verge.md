@@ -6,15 +6,15 @@ name: Sunbillow Verge
 scryfall_id: 94ed132f-b818-4dbf-9b4a-e5acb067e0a4
 set: dft
 type: Land
-meta_presence: 0.0117
+meta_presence: 0.0114
 archetypes:
   boros-energy:
-    weight: 0.019
+    weight: 0.0183
     avg_copies: 1.0
   boros-ponza:
     weight: 0.2929
     avg_copies: 1.12
   unknown-160:
-    weight: 0.1395
+    weight: 0.1346
     avg_copies: 1.0
 ---

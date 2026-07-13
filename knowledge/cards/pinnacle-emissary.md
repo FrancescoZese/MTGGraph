@@ -12,7 +12,7 @@ meta_presence: 0.09
 archetypes:
   affinity:
     weight: 1.0
-    avg_copies: 3.89
+    avg_copies: 3.9
   goryo7:
     weight: 1.0
     avg_copies: 4.0

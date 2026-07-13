@@ -7,14 +7,14 @@ name: Lightning Bolt
 scryfall_id: 77c6fa74-5543-42ac-9ead-0e890b188e99
 set: clu
 type: Instant
-meta_presence: 0.1561
+meta_presence: 0.1571
 archetypes:
   ruby-storm:
-    weight: 0.0391
+    weight: 0.0376
     avg_copies: 1.0
   boros-energy:
-    weight: 0.188
-    avg_copies: 1.23
+    weight: 0.2009
+    avg_copies: 1.21
   dimir-control:
     weight: 0.0123
     avg_copies: 2.0
@@ -22,31 +22,31 @@ archetypes:
     weight: 0.0611
     avg_copies: 2.88
   jeskai-control:
-    weight: 0.05
+    weight: 0.0476
     avg_copies: 2.5
   domain-zoo:
     weight: 1.0
-    avg_copies: 3.89
+    avg_copies: 3.88
   reanimator:
     weight: 0.1111
     avg_copies: 2.33
   burn:
     weight: 1.0
-    avg_copies: 3.81
+    avg_copies: 3.82
   hollow-one:
     weight: 0.8485
     avg_copies: 3.31
   eldrazi-ramp:
-    weight: 0.1441
+    weight: 0.1391
     avg_copies: 1.29
   izzet-prowess:
     weight: 1.0
-    avg_copies: 3.88
+    avg_copies: 3.87
   indomitable-creativity:
     weight: 0.8571
     avg_copies: 2.0
   broodscale-combo:
-    weight: 0.0048
+    weight: 0.0046
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.125
@@ -55,25 +55,25 @@ archetypes:
     weight: 1.0
     avg_copies: 2.17
   jund-saga:
-    weight: 1.0
+    weight: 0.75
     avg_copies: 2.0
   eldrazi-breach:
     weight: 0.5
     avg_copies: 2.0
   rakdos-aggro:
-    weight: 0.9412
+    weight: 0.9444
     avg_copies: 3.88
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 2.5
   cosmogoyf-fling:
-    weight: 0.2188
+    weight: 0.2121
     avg_copies: 2.29
   scapeshift-combo:
     weight: 0.3333
     avg_copies: 3.0
   goryo1:
-    weight: 0.0072
+    weight: 0.0069
     avg_copies: 1.0
   grixis-control:
     weight: 0.3333
@@ -91,11 +91,11 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-6:
-    weight: 0.1429
+    weight: 0.125
     avg_copies: 1.0
   unknown-1:
-    weight: 0.625
-    avg_copies: 2.2
+    weight: 0.6667
+    avg_copies: 2.17
   unknown-7:
     weight: 1.0
     avg_copies: 3.0
@@ -148,7 +148,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-70:
-    weight: 0.0833
+    weight: 0.0714
     avg_copies: 1.0
   unknown-71:
     weight: 1.0
@@ -172,8 +172,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-96:
-    weight: 0.5385
-    avg_copies: 2.77
+    weight: 0.5714
+    avg_copies: 2.71
   unknown-98:
     weight: 1.0
     avg_copies: 3.75
@@ -226,6 +226,9 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-181:
-    weight: 0.5
+    weight: 0.6667
     avg_copies: 1.0
+  unknown-187:
+    weight: 1.0
+    avg_copies: 4.0
 ---

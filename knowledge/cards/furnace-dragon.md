@@ -7,9 +7,9 @@ name: Furnace Dragon
 scryfall_id: 62f5c675-b629-45ec-907c-36594f5fe54a
 set: dst
 type: Creature — Dragon
-meta_presence: 0.0024
+meta_presence: 0.0023
 archetypes:
   affinity:
-    weight: 0.0267
+    weight: 0.0256
     avg_copies: 1.83
 ---

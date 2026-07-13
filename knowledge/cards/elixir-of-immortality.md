@@ -6,7 +6,7 @@ name: Elixir of Immortality
 scryfall_id: 6741ab27-9e1f-4aa5-96b9-b450eda7c5c2
 set: c21
 type: Artifact
-meta_presence: 0.002
+meta_presence: 0.0021
 archetypes:
   boros-ponza:
     weight: 0.0071
@@ -18,7 +18,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-160:
-    weight: 0.1395
+    weight: 0.1154
     avg_copies: 1.0
   unknown-162:
     weight: 1.0

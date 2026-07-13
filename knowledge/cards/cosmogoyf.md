@@ -12,5 +12,5 @@ meta_presence: 0.0063
 archetypes:
   cosmogoyf-fling:
     weight: 1.0
-    avg_copies: 3.72
+    avg_copies: 3.73
 ---

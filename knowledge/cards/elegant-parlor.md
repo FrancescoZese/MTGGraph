@@ -6,11 +6,11 @@ name: Elegant Parlor
 scryfall_id: 72c6d541-e2cb-4d6e-acac-90a8f53b7006
 set: mkm
 type: Land — Mountain Plains
-meta_presence: 0.2288
+meta_presence: 0.2279
 archetypes:
   ruby-storm:
-    weight: 0.9497
-    avg_copies: 1.31
+    weight: 0.9516
+    avg_copies: 1.3
   boros-energy:
     weight: 1.0
     avg_copies: 2.01
@@ -18,16 +18,16 @@ archetypes:
     weight: 1.0
     avg_copies: 1.01
   azorius-control:
-    weight: 0.0286
+    weight: 0.0274
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.6
+    weight: 0.619
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0177
+    weight: 0.0175
     avg_copies: 1.0
   burn:
-    weight: 0.3548
+    weight: 0.3529
     avg_copies: 1.0
   mardu-blink:
     weight: 1.0
@@ -42,7 +42,7 @@ archetypes:
     weight: 0.7857
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.0357
+    weight: 0.0345
     avg_copies: 1.0
   naya-midrange:
     weight: 1.0
@@ -72,7 +72,7 @@ archetypes:
     weight: 0.65
     avg_copies: 2.69
   unknown-62:
-    weight: 0.037
+    weight: 0.0345
     avg_copies: 1.0
   unknown-66:
     weight: 1.0
@@ -82,18 +82,18 @@ archetypes:
     avg_copies: 1.0
   unknown-70:
     weight: 1.0
-    avg_copies: 1.08
+    avg_copies: 1.07
   unknown-72:
     weight: 1.0
     avg_copies: 1.0
   unknown-86:
-    weight: 0.875
+    weight: 0.8889
     avg_copies: 1.0
   unknown-93:
     weight: 0.25
     avg_copies: 1.0
   unknown-96:
-    weight: 0.9231
+    weight: 0.9286
     avg_copies: 1.08
   unknown-99:
     weight: 1.0
@@ -132,7 +132,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0233
+    weight: 0.0192
     avg_copies: 2.0
   unknown-159:
     weight: 1.0
@@ -140,10 +140,22 @@ archetypes:
   unknown-168:
     weight: 1.0
     avg_copies: 1.0
+  unknown-174:
+    weight: 0.3333
+    avg_copies: 1.0
   unknown-177:
     weight: 1.0
+    avg_copies: 1.0
+  unknown-183:
+    weight: 0.5
     avg_copies: 1.0
   unknown-179:
     weight: 1.0
     avg_copies: 2.0
+  unknown-190:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-191:
+    weight: 1.0
+    avg_copies: 1.0
 ---

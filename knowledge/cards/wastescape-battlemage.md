@@ -9,14 +9,14 @@ type: Creature — Eldrazi Wizard
 meta_presence: 0.0038
 archetypes:
   eldrazi-ramp:
-    weight: 0.018
+    weight: 0.0174
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0145
+    weight: 0.0137
     avg_copies: 1.67
   goryo4:
-    weight: 0.9231
-    avg_copies: 2.45
+    weight: 0.7647
+    avg_copies: 2.46
   unknown-37:
     weight: 1.0
     avg_copies: 4.0

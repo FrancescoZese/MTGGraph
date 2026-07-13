@@ -9,9 +9,9 @@ type: Land
 meta_presence: 0.0065
 archetypes:
   neoform-combo:
-    weight: 0.0339
+    weight: 0.0317
     avg_copies: 4.0
   cosmogoyf-fling:
-    weight: 0.9688
+    weight: 0.9697
     avg_copies: 3.84
 ---

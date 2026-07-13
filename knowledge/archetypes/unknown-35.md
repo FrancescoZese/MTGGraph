@@ -9,22 +9,22 @@ top_cards:
 - name: Unholy Heat
   weight: 1.0
   avg_copies: 4.0
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
 - name: Thundertrap Trainer
   weight: 1.0
   avg_copies: 4.0
 - name: Lórien Revealed
   weight: 1.0
   avg_copies: 4.0
-- name: Flame of Anor
-  weight: 1.0
-  avg_copies: 4.0
 - name: Subtlety
   weight: 1.0
   avg_copies: 4.0
-- name: Scalding Tarn
+- name: Flame of Anor
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
 - name: Island
@@ -45,22 +45,22 @@ top_cards:
 - name: Fable of the Mirror-Breaker
   weight: 1.0
   avg_copies: 2.67
+- name: Dress Down
+  weight: 1.0
+  avg_copies: 2.0
+- name: Blood Moon
+  weight: 1.0
+  avg_copies: 2.0
 - name: Snapcaster Mage
   weight: 1.0
   avg_copies: 2.0
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 2.0
-- name: Flooded Strand
-  weight: 1.0
-  avg_copies: 2.0
 - name: Flare of Denial
   weight: 1.0
   avg_copies: 2.0
-- name: Dress Down
-  weight: 1.0
-  avg_copies: 2.0
-- name: Blood Moon
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 2.0
 - name: Spell Snare
@@ -69,13 +69,13 @@ top_cards:
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 1.33
-- name: Engineered Explosives
-  weight: 1.0
-  avg_copies: 1.0
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
 - name: Flusterstorm
+  weight: 1.0
+  avg_copies: 1.0
+- name: Engineered Explosives
   weight: 1.0
   avg_copies: 1.0
 - name: Ghost Vacuum
@@ -96,25 +96,25 @@ top_cards:
 - name: Twinflame Tyrant
   weight: 0.3333
   avg_copies: 2.0
-- name: Teferi, Temporal Pilgrim
+- name: Arena of Glory
   weight: 0.3333
   avg_copies: 2.0
 - name: Spell Pierce
   weight: 0.3333
   avg_copies: 2.0
-- name: Arena of Glory
+- name: Teferi, Temporal Pilgrim
   weight: 0.3333
   avg_copies: 2.0
-- name: Stern Scolding
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Den of the Bugbear
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Mistrise Village
   weight: 0.3333
   avg_copies: 1.0
+- name: Stern Scolding
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Damping Sphere
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Den of the Bugbear
   weight: 0.3333
   avg_copies: 1.0
 ---

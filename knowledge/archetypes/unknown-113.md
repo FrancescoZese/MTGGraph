@@ -7,16 +7,16 @@ name: 'Unknown #113'
 meta_share: 0.0004
 list_count: 2
 top_cards:
-- name: Psychic Frog
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flooded Strand
-  weight: 1.0
-  avg_copies: 4.0
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Quantum Riddler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Psychic Frog
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -25,10 +25,10 @@ top_cards:
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 3.5
-- name: Consign to Memory
+- name: Subtlety
   weight: 1.0
   avg_copies: 3.5
-- name: Subtlety
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.5
 - name: Phelia, Exuberant Shepherd
@@ -40,10 +40,7 @@ top_cards:
 - name: Ephemerate
   weight: 1.0
   avg_copies: 2.0
-- name: Island
-  weight: 1.0
-  avg_copies: 1.5
-- name: High Noon
+- name: Force of Negation
   weight: 1.0
   avg_copies: 1.5
 - name: Hallowed Fountain
@@ -52,13 +49,22 @@ top_cards:
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.5
-- name: Force of Negation
+- name: High Noon
+  weight: 1.0
+  avg_copies: 1.5
+- name: Island
   weight: 1.0
   avg_copies: 1.5
 - name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 1.33
+- name: Swamp
+  weight: 1.0
+  avg_copies: 1.0
 - name: Godless Shrine
+  weight: 1.0
+  avg_copies: 1.0
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
 - name: Shadowy Backstreet
@@ -67,25 +73,19 @@ top_cards:
 - name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
-  weight: 1.0
-  avg_copies: 1.0
-- name: Plains
-  weight: 1.0
-  avg_copies: 1.0
-- name: Counterspell
+- name: Solitude
   weight: 0.5
   avg_copies: 4.0
 - name: Overlord of the Balemurk
   weight: 0.5
   avg_copies: 4.0
-- name: Solitude
+- name: Counterspell
   weight: 0.5
   avg_copies: 4.0
-- name: White Orchid Phantom
+- name: Hydroelectric Specimen
   weight: 0.5
   avg_copies: 3.0
-- name: Hydroelectric Specimen
+- name: White Orchid Phantom
   weight: 0.5
   avg_copies: 3.0
 - name: Witch Enchanter
@@ -97,25 +97,31 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.5
   avg_copies: 2.0
-- name: Practiced Offense
+- name: Spell Snare
   weight: 0.5
   avg_copies: 2.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.5
   avg_copies: 2.0
-- name: Spell Snare
+- name: Practiced Offense
   weight: 0.5
   avg_copies: 2.0
 - name: Emperor of Bones
   weight: 0.5
   avg_copies: 1.5
+- name: Dress Down
+  weight: 0.5
+  avg_copies: 1.0
+- name: Faerie Macabre
+  weight: 0.5
+  avg_copies: 1.0
+- name: Ghost Vacuum
+  weight: 0.5
+  avg_copies: 1.0
 - name: Clarion Conqueror
   weight: 0.5
   avg_copies: 1.0
 - name: Ashiok, Dream Render
-  weight: 0.5
-  avg_copies: 1.0
-- name: Drannith Magistrate
   weight: 0.5
   avg_copies: 1.0
 - name: March of Otherworldly Light
@@ -124,13 +130,7 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.5
   avg_copies: 1.0
-- name: Ghost Vacuum
-  weight: 0.5
-  avg_copies: 1.0
-- name: Dress Down
-  weight: 0.5
-  avg_copies: 1.0
-- name: Faerie Macabre
+- name: Drannith Magistrate
   weight: 0.5
   avg_copies: 1.0
 ---

@@ -14,35 +14,35 @@ archetypes:
     weight: 0.7778
     avg_copies: 1.29
   necrodominance:
-    weight: 0.0256
+    weight: 0.025
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0177
+    weight: 0.0175
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.039
+    weight: 0.0385
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.004
+    weight: 0.0038
     avg_copies: 2.0
   grixis-shadow:
     weight: 0.2
     avg_copies: 1.0
   goryo1:
-    weight: 0.0144
+    weight: 0.0139
     avg_copies: 1.0
   grixis-control:
     weight: 0.1667
     avg_copies: 1.0
   unknown-30:
-    weight: 0.3333
+    weight: 0.4286
     avg_copies: 1.0
   unknown-27:
     weight: 1.0
     avg_copies: 1.5
   unknown-47:
-    weight: 0.8971
-    avg_copies: 1.43
+    weight: 0.8919
+    avg_copies: 1.46
   unknown-51:
     weight: 1.0
     avg_copies: 1.0

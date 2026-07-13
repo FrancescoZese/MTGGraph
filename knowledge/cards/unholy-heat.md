@@ -7,7 +7,7 @@ name: Unholy Heat
 scryfall_id: 4e879386-b1f8-4f2a-9820-6e1291746f88
 set: otc
 type: Instant
-meta_presence: 0.1005
+meta_presence: 0.1011
 archetypes:
   jeskai-energy:
     weight: 0.0763
@@ -22,16 +22,16 @@ archetypes:
     weight: 0.2121
     avg_copies: 1.88
   eldrazi-ramp:
-    weight: 0.5405
-    avg_copies: 2.07
+    weight: 0.5565
+    avg_copies: 2.04
   izzet-prowess:
-    weight: 0.9405
-    avg_copies: 2.57
+    weight: 0.9427
+    avg_copies: 2.56
   broodscale-combo:
-    weight: 0.4444
-    avg_copies: 2.02
+    weight: 0.4429
+    avg_copies: 2.03
   dredge:
-    weight: 0.087
+    weight: 0.0833
     avg_copies: 2.0
   izzet-artifacts:
     weight: 0.5625
@@ -40,7 +40,7 @@ archetypes:
     weight: 0.0909
     avg_copies: 4.0
   jund-saga:
-    weight: 0.6667
+    weight: 0.5
     avg_copies: 2.0
   eldrazi-breach:
     weight: 0.25
@@ -49,22 +49,22 @@ archetypes:
     weight: 1.0
     avg_copies: 2.6
   rakdos-aggro:
-    weight: 0.2353
+    weight: 0.2222
     avg_copies: 2.0
   izzet-splinter-twin:
     weight: 0.5
     avg_copies: 3.0
   goryo1:
-    weight: 0.0288
+    weight: 0.0278
     avg_copies: 1.0
   izzet-murktide:
     weight: 1.0
     avg_copies: 4.0
   unknown-6:
-    weight: 0.8571
-    avg_copies: 1.83
+    weight: 0.875
+    avg_copies: 2.0
   unknown-1:
-    weight: 0.375
+    weight: 0.3333
     avg_copies: 2.33
   unknown-15:
     weight: 0.7273
@@ -82,7 +82,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-58:
-    weight: 1.0
+    weight: 0.6667
     avg_copies: 1.0
   unknown-71:
     weight: 1.0
@@ -91,7 +91,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-86:
-    weight: 0.625
+    weight: 0.5556
     avg_copies: 3.4
   unknown-90:
     weight: 1.0
@@ -100,15 +100,21 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-122:
-    weight: 0.9545
-    avg_copies: 3.17
+    weight: 0.9565
+    avg_copies: 3.04
   unknown-128:
     weight: 1.0
     avg_copies: 2.0
   unknown-156:
     weight: 1.0
     avg_copies: 4.0
+  unknown-174:
+    weight: 0.3333
+    avg_copies: 2.0
   unknown-177:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-187:
     weight: 1.0
     avg_copies: 1.0
 ---

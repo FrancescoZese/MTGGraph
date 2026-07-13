@@ -7,43 +7,43 @@ name: Pyroclasm
 scryfall_id: 4391b0af-2f26-4a45-9e2a-5bd8e9838107
 set: dsk
 type: Sorcery
-meta_presence: 0.0586
+meta_presence: 0.0581
 archetypes:
   ruby-storm:
-    weight: 0.0279
+    weight: 0.0269
     avg_copies: 1.2
   amulet-titan:
-    weight: 0.0211
+    weight: 0.0208
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0143
+    weight: 0.0137
     avg_copies: 2.0
   domain-zoo:
-    weight: 0.2035
+    weight: 0.2018
     avg_copies: 1.04
   reanimator:
     weight: 0.7778
     avg_copies: 1.86
   burn:
-    weight: 0.129
+    weight: 0.1176
     avg_copies: 2.25
   hollow-one:
     weight: 0.0303
     avg_copies: 2.0
   simic-ritual:
-    weight: 0.013
+    weight: 0.0128
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.0437
+    weight: 0.042
     avg_copies: 1.45
   broodscale-combo:
-    weight: 0.1594
+    weight: 0.1507
     avg_copies: 1.7
   izzet-artifacts:
     weight: 0.0938
     avg_copies: 1.67
   jund-saga:
-    weight: 0.6667
+    weight: 0.5
     avg_copies: 1.5
   rakdos-lantern-combo:
     weight: 1.0
@@ -52,10 +52,10 @@ archetypes:
     weight: 0.8
     avg_copies: 2.0
   rakdos-aggro:
-    weight: 0.2941
+    weight: 0.2778
     avg_copies: 1.6
   cosmogoyf-fling:
-    weight: 0.0312
+    weight: 0.0303
     avg_copies: 2.0
   scapeshift-combo:
     weight: 0.3333
@@ -64,13 +64,13 @@ archetypes:
     weight: 0.1905
     avg_copies: 2.0
   goryo1:
-    weight: 0.8993
+    weight: 0.9028
     avg_copies: 1.81
   unknown-4:
     weight: 1.0
     avg_copies: 1.0
   unknown-6:
-    weight: 0.4286
+    weight: 0.375
     avg_copies: 1.33
   unknown-9:
     weight: 1.0
@@ -109,11 +109,14 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.0
   unknown-85:
-    weight: 0.0909
+    weight: 0.0833
     avg_copies: 1.0
   unknown-86:
-    weight: 0.125
+    weight: 0.1111
     avg_copies: 2.0
+  unknown-96:
+    weight: 0.0714
+    avg_copies: 1.0
   unknown-90:
     weight: 1.0
     avg_copies: 2.0
@@ -143,5 +146,8 @@ archetypes:
     avg_copies: 2.0
   unknown-178:
     weight: 1.0
+    avg_copies: 1.0
+  unknown-181:
+    weight: 0.3333
     avg_copies: 1.0
 ---

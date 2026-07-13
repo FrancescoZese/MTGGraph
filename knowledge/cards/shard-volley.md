@@ -7,9 +7,9 @@ name: Shard Volley
 scryfall_id: 43db4810-078e-487a-afef-57cbc1db0cc7
 set: mor
 type: Instant
-meta_presence: 0.001
+meta_presence: 0.0011
 archetypes:
   burn:
-    weight: 0.1613
-    avg_copies: 1.67
+    weight: 0.1765
+    avg_copies: 1.71
 ---

@@ -6,15 +6,15 @@ name: Flooded Grove
 scryfall_id: df797e0d-8ae2-4fdb-a33d-4ba7852b0172
 set: soc
 type: Land
-meta_presence: 0.0075
+meta_presence: 0.0074
 archetypes:
   living-end:
-    weight: 0.5667
+    weight: 0.5645
     avg_copies: 1.0
   unknown-65:
-    weight: 0.0741
+    weight: 0.0714
     avg_copies: 2.0
   unknown-67:
-    weight: 0.0328
+    weight: 0.0317
     avg_copies: 1.0
 ---

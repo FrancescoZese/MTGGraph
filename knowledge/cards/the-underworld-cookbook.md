@@ -6,11 +6,11 @@ name: The Underworld Cookbook
 scryfall_id: 039d62b0-3309-4424-a2ea-5a0d88d4bd72
 set: mh2
 type: Artifact
-meta_presence: 0.0044
+meta_presence: 0.0048
 archetypes:
   eldrazi-tron:
-    weight: 0.0082
-    avg_copies: 1.0
+    weight: 0.0116
+    avg_copies: 1.33
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 1.0
@@ -27,7 +27,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-96:
-    weight: 0.2308
+    weight: 0.2143
     avg_copies: 2.0
   unknown-117:
     weight: 1.0
@@ -37,5 +37,5 @@ archetypes:
     avg_copies: 4.0
   unknown-181:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.33
 ---

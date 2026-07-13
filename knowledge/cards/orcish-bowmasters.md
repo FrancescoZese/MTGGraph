@@ -7,19 +7,19 @@ name: Orcish Bowmasters
 scryfall_id: 7c024bae-5631-4e20-ac69-df392ac9e109
 set: ltr
 type: Creature — Orc Archer
-meta_presence: 0.1064
+meta_presence: 0.1053
 archetypes:
   dimir-control:
     weight: 0.963
     avg_copies: 3.58
   goryo:
-    weight: 0.0041
+    weight: 0.0039
     avg_copies: 1.5
   necrodominance:
     weight: 1.0
     avg_copies: 3.67
   domain-zoo:
-    weight: 0.0619
+    weight: 0.0614
     avg_copies: 2.43
   reanimator:
     weight: 0.1481
@@ -31,28 +31,28 @@ archetypes:
     weight: 0.6667
     avg_copies: 3.36
   yawgmoth-combo:
-    weight: 0.6104
+    weight: 0.6026
     avg_copies: 1.65
   simic-ritual:
-    weight: 0.0649
+    weight: 0.0641
     avg_copies: 3.2
   esper-blink:
-    weight: 0.3478
+    weight: 0.3402
     avg_copies: 2.0
   samwise-combo:
-    weight: 0.7241
-    avg_copies: 2.05
+    weight: 0.7167
+    avg_copies: 2.02
   orzhov-blink:
     weight: 0.7778
     avg_copies: 3.14
   jund-saga:
     weight: 1.0
-    avg_copies: 3.33
+    avg_copies: 3.25
   the-rock:
     weight: 1.0
     avg_copies: 3.0
   goryo1:
-    weight: 0.0072
+    weight: 0.0069
     avg_copies: 1.0
   goryo5:
     weight: 1.0
@@ -65,12 +65,12 @@ archetypes:
     avg_copies: 2.0
   sultai-midrange:
     weight: 1.0
-    avg_copies: 2.5
+    avg_copies: 2.67
   unknown-4:
     weight: 1.0
     avg_copies: 3.0
   unknown-1:
-    weight: 0.5
+    weight: 0.4444
     avg_copies: 3.0
   unknown-18:
     weight: 1.0
@@ -80,7 +80,7 @@ archetypes:
     avg_copies: 2.0
   unknown-24:
     weight: 1.0
-    avg_copies: 2.62
+    avg_copies: 2.64
   unknown-27:
     weight: 1.0
     avg_copies: 4.0
@@ -104,7 +104,7 @@ archetypes:
     avg_copies: 3.5
   unknown-47:
     weight: 1.0
-    avg_copies: 3.26
+    avg_copies: 3.23
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
@@ -127,7 +127,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-85:
-    weight: 0.2727
+    weight: 0.25
     avg_copies: 2.0
   unknown-78:
     weight: 1.0
@@ -136,10 +136,10 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-96:
-    weight: 0.0769
+    weight: 0.1429
     avg_copies: 2.0
   unknown-100:
-    weight: 0.6667
+    weight: 0.5
     avg_copies: 2.0
   unknown-101:
     weight: 0.5

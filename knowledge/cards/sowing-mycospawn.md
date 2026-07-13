@@ -6,23 +6,23 @@ name: Sowing Mycospawn
 scryfall_id: cdfadb17-76ad-4d4d-9fa7-33c4b88b4c0a
 set: mh3
 type: Creature — Eldrazi Fungus
-meta_presence: 0.0523
+meta_presence: 0.0535
 archetypes:
   eldrazi-tron:
-    weight: 0.1347
-    avg_copies: 3.79
+    weight: 0.1351
+    avg_copies: 3.8
   eldrazi-ramp:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.97
   broodscale-combo:
-    weight: 0.343
-    avg_copies: 2.55
+    weight: 0.3607
+    avg_copies: 2.49
   scapeshift-combo:
     weight: 0.5
     avg_copies: 4.0
   goryo4:
-    weight: 0.8462
-    avg_copies: 3.73
+    weight: 0.8235
+    avg_copies: 3.36
   unknown-28:
     weight: 1.0
     avg_copies: 4.0

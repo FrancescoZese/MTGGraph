@@ -7,15 +7,15 @@ name: Assault Strobe
 scryfall_id: 9b505c78-5dbd-483d-92bb-5144060e962f
 set: som
 type: Sorcery
-meta_presence: 0.0109
+meta_presence: 0.011
 archetypes:
   izzet-prowess:
-    weight: 0.2024
-    avg_copies: 1.49
+    weight: 0.2061
+    avg_copies: 1.46
   unknown-122:
-    weight: 0.1364
+    weight: 0.1304
     avg_copies: 1.33
   unknown-174:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
 ---

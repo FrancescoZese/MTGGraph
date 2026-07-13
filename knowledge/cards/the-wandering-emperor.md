@@ -7,16 +7,16 @@ name: The Wandering Emperor
 scryfall_id: fab2d8a9-ab4c-4225-a570-22636293c17d
 set: neo
 type: Legendary Planeswalker
-meta_presence: 0.003
+meta_presence: 0.0029
 archetypes:
   boros-energy:
-    weight: 0.0016
+    weight: 0.0015
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.0076
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0143
+    weight: 0.0137
     avg_copies: 1.0
   boros-ponza:
     weight: 0.0214

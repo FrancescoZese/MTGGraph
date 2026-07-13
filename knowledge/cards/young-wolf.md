@@ -7,14 +7,14 @@ name: Young Wolf
 scryfall_id: ed2ca825-b029-495f-83fc-54366229d417
 set: inr
 type: Creature — Wolf
-meta_presence: 0.026
+meta_presence: 0.0253
 archetypes:
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 3.81
   samwise-combo:
-    weight: 0.8276
-    avg_copies: 2.6
+    weight: 0.8167
+    avg_copies: 2.59
   bant-ritual:
     weight: 1.0
     avg_copies: 2.0

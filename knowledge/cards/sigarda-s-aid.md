@@ -10,6 +10,6 @@ type: Enchantment
 meta_presence: 0.0004
 archetypes:
   hammer-time:
-    weight: 0.2222
+    weight: 0.1818
     avg_copies: 1.5
 ---

@@ -13,8 +13,8 @@ archetypes:
     weight: 0.1728
     avg_copies: 1.0
   necrodominance:
-    weight: 0.2564
-    avg_copies: 1.1
+    weight: 0.275
+    avg_copies: 1.09
   mill:
     weight: 0.2581
     avg_copies: 1.0
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.1875
     avg_copies: 1.0
   sultai-midrange:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
   unknown-14:
     weight: 1.0
@@ -31,7 +31,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0441
+    weight: 0.0405
     avg_copies: 1.0
   unknown-78:
     weight: 1.0

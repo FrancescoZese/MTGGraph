@@ -7,12 +7,12 @@ name: Corrupted Conviction
 scryfall_id: 8046f892-3317-4ef7-9cf7-97b9060540c8
 set: otj
 type: Instant
-meta_presence: 0.0022
+meta_presence: 0.0023
 archetypes:
   reanimator:
     weight: 0.1111
     avg_copies: 2.0
   unknown-1:
     weight: 1.0
-    avg_copies: 1.88
+    avg_copies: 1.89
 ---

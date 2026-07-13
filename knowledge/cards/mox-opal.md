@@ -9,7 +9,7 @@ type: Legendary Artifact
 meta_presence: 0.1112
 archetypes:
   eldrazi-tron:
-    weight: 0.0082
+    weight: 0.0077
     avg_copies: 1.0
   hardened-scales:
     weight: 1.0
@@ -19,12 +19,12 @@ archetypes:
     avg_copies: 3.83
   hammer-time:
     weight: 1.0
-    avg_copies: 2.89
+    avg_copies: 3.09
   kethis-combo:
     weight: 1.0
     avg_copies: 4.0
   broodscale-combo:
-    weight: 0.0048
+    weight: 0.0046
     avg_copies: 3.0
   izzet-artifacts:
     weight: 1.0
@@ -63,7 +63,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-58:
-    weight: 1.0
+    weight: 0.6667
     avg_copies: 3.0
   unknown-59:
     weight: 1.0

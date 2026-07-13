@@ -7,12 +7,12 @@ scryfall_id: 82866a0e-485a-4f7e-8c49-f7d9ff3f4ad4
 set: tla
 type: Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Spirit
   Ally
-meta_presence: 0.0012
+meta_presence: 0.0015
 archetypes:
   unknown-17:
     weight: 0.3333
     avg_copies: 2.0
   unknown-62:
-    weight: 0.1852
-    avg_copies: 1.6
+    weight: 0.2414
+    avg_copies: 1.57
 ---

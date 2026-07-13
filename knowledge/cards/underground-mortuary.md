@@ -6,40 +6,40 @@ name: Underground Mortuary
 scryfall_id: f6ca59cd-8779-4a84-a54b-e863b79c61f0
 set: mkm
 type: Land — Swamp Forest
-meta_presence: 0.062
+meta_presence: 0.0611
 archetypes:
   goryo:
-    weight: 0.0249
+    weight: 0.0235
     avg_copies: 1.33
   necrodominance:
-    weight: 0.0769
+    weight: 0.075
     avg_copies: 1.0
   living-end:
-    weight: 0.75
-    avg_copies: 1.27
+    weight: 0.7581
+    avg_copies: 1.28
   reanimator:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0339
+    weight: 0.0317
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 1.34
+    avg_copies: 1.33
   eldrazi-ramp:
-    weight: 0.018
+    weight: 0.0174
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0779
+    weight: 0.0769
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.8966
+    weight: 0.9
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0145
+    weight: 0.0137
     avg_copies: 1.0
   jund-saga:
-    weight: 0.6667
+    weight: 0.75
     avg_copies: 1.0
   mono-green-ramp:
     weight: 0.6667
@@ -54,7 +54,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.62
   soultrader-combo:
-    weight: 1.0
+    weight: 0.8333
     avg_copies: 1.0
   devoted-combo:
     weight: 1.0
@@ -76,7 +76,7 @@ archetypes:
     avg_copies: 2.0
   unknown-52:
     weight: 1.0
-    avg_copies: 1.6
+    avg_copies: 1.64
   unknown-54:
     weight: 0.6667
     avg_copies: 1.0
@@ -84,7 +84,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.0164
+    weight: 0.0159
     avg_copies: 1.0
   unknown-97:
     weight: 0.875

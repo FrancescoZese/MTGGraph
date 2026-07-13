@@ -10,9 +10,9 @@ type: Creature — Faerie Rogue
 meta_presence: 0.0004
 archetypes:
   azorius-blink:
-    weight: 0.0179
+    weight: 0.0172
     avg_copies: 1.0
   unknown-62:
-    weight: 0.037
+    weight: 0.0345
     avg_copies: 1.0
 ---

@@ -3,152 +3,170 @@ colors:
 - W
 - U
 name: Hammer Time
-meta_share: 0.0018
-list_count: 9
+meta_share: 0.0021
+list_count: 11
 top_cards:
-- name: Stoneforge Mystic
+- name: Colossus Hammer
   weight: 1.0
   avg_copies: 4.0
-- name: Colossus Hammer
+- name: Stoneforge Mystic
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
-  avg_copies: 3.89
+  avg_copies: 3.91
 - name: Leyline Axe
   weight: 1.0
-  avg_copies: 3.78
-- name: Battlefield Improvisation
-  weight: 1.0
-  avg_copies: 3.78
+  avg_copies: 3.82
 - name: Puresteel Paladin
   weight: 1.0
-  avg_copies: 3.67
-- name: Ornithopter
-  weight: 1.0
-  avg_copies: 3.56
+  avg_copies: 3.73
 - name: Metallic Rebuke
   weight: 1.0
-  avg_copies: 3.44
+  avg_copies: 3.55
 - name: Mox Opal
   weight: 1.0
-  avg_copies: 2.89
-- name: Hallowed Fountain
-  weight: 1.0
-  avg_copies: 2.33
+  avg_copies: 3.09
 - name: Plains
   weight: 1.0
-  avg_copies: 2.33
+  avg_copies: 2.45
+- name: Hallowed Fountain
+  weight: 1.0
+  avg_copies: 2.36
 - name: Inkmoth Nexus
   weight: 1.0
-  avg_copies: 2.22
-- name: Vexing Bauble
-  weight: 1.0
-  avg_copies: 1.5
+  avg_copies: 2.18
 - name: Shadowspear
   weight: 1.0
   avg_copies: 1.0
 - name: Esper Sentinel
-  weight: 0.8889
-  avg_copies: 3.88
+  weight: 0.9091
+  avg_copies: 3.9
 - name: Consign to Memory
-  weight: 0.8889
-  avg_copies: 2.62
+  weight: 0.9091
+  avg_copies: 2.7
+- name: Vexing Bauble
+  weight: 0.9091
+  avg_copies: 1.64
 - name: Lavaspur Boots
-  weight: 0.8889
+  weight: 0.9091
   avg_copies: 1.0
+- name: Battlefield Improvisation
+  weight: 0.8182
+  avg_copies: 3.78
+- name: Ornithopter
+  weight: 0.8182
+  avg_copies: 3.56
 - name: Flooded Strand
-  weight: 0.7778
-  avg_copies: 2.43
+  weight: 0.8182
+  avg_copies: 2.67
 - name: Meticulous Archive
-  weight: 0.7778
-  avg_copies: 1.43
-- name: Marsh Flats
-  weight: 0.6667
-  avg_copies: 3.0
-- name: Mystical Dispute
-  weight: 0.6667
-  avg_copies: 1.83
-- name: Tormod's Crypt
-  weight: 0.6667
+  weight: 0.8182
   avg_copies: 1.33
-- name: Soulless Jailer
-  weight: 0.5556
-  avg_copies: 2.0
+- name: Tormod's Crypt
+  weight: 0.7273
+  avg_copies: 1.25
+- name: Marsh Flats
+  weight: 0.6364
+  avg_copies: 2.86
 - name: Arid Mesa
-  weight: 0.5556
+  weight: 0.5455
   avg_copies: 2.0
-- name: Surge of Salvation
-  weight: 0.5556
-  avg_copies: 1.56
-- name: Sanctifier en-Vec
-  weight: 0.4444
-  avg_copies: 2.75
 - name: Teferi, Time Raveler
-  weight: 0.4444
+  weight: 0.5455
   avg_copies: 2.0
-- name: Portable Hole
-  weight: 0.4444
-  avg_copies: 2.0
-- name: Kappa Cannoneer
-  weight: 0.4444
+- name: Mystical Dispute
+  weight: 0.5455
+  avg_copies: 1.83
+- name: Surge of Salvation
+  weight: 0.5455
   avg_copies: 1.5
-- name: Stern Scolding
-  weight: 0.4444
-  avg_copies: 1.0
+- name: Kappa Cannoneer
+  weight: 0.5455
+  avg_copies: 1.38
 - name: Cryptic Coat
-  weight: 0.4444
+  weight: 0.5455
   avg_copies: 1.0
+- name: Soulless Jailer
+  weight: 0.4545
+  avg_copies: 2.0
 - name: Pithing Needle
-  weight: 0.4444
+  weight: 0.4545
   avg_copies: 1.0
 - name: Windswept Heath
-  weight: 0.3333
+  weight: 0.3636
   avg_copies: 4.0
-- name: Suncleanser
-  weight: 0.3333
+- name: Memnite
+  weight: 0.3636
+  avg_copies: 3.25
+- name: Sanctifier en-Vec
+  weight: 0.3636
+  avg_copies: 2.75
+- name: Portable Hole
+  weight: 0.3636
   avg_copies: 2.0
 - name: Damping Sphere
-  weight: 0.3333
+  weight: 0.3636
+  avg_copies: 2.0
+- name: Stern Scolding
+  weight: 0.3636
+  avg_copies: 1.0
+- name: Suncleanser
+  weight: 0.2727
   avg_copies: 2.0
 - name: Springleaf Drum
-  weight: 0.3333
+  weight: 0.2727
   avg_copies: 1.67
-- name: Grafdigger's Cage
-  weight: 0.3333
+- name: Paradise Mantle
+  weight: 0.2727
   avg_copies: 1.0
-- name: Memnite
-  weight: 0.2222
-  avg_copies: 2.5
+- name: Grafdigger's Cage
+  weight: 0.2727
+  avg_copies: 1.0
+- name: card:super-soldier-serum
+  weight: 0.1818
+  avg_copies: 4.0
 - name: Test of Talents
-  weight: 0.2222
+  weight: 0.1818
   avg_copies: 2.0
 - name: Sigarda's Aid
-  weight: 0.2222
+  weight: 0.1818
+  avg_copies: 1.5
+- name: Prismatic Ending
+  weight: 0.1818
   avg_copies: 1.5
 - name: Voice of Victory
-  weight: 0.2222
+  weight: 0.1818
   avg_copies: 1.0
-- name: Paradise Mantle
-  weight: 0.2222
-  avg_copies: 1.0
-- name: Flare of Fortitude
-  weight: 0.1111
-  avg_copies: 4.0
 - name: Mishra's Bauble
-  weight: 0.1111
+  weight: 0.0909
+  avg_copies: 4.0
+- name: Flare of Fortitude
+  weight: 0.0909
   avg_copies: 4.0
 - name: Containment Priest
-  weight: 0.1111
+  weight: 0.0909
   avg_copies: 2.0
-- name: Skateboard
-  weight: 0.1111
-  avg_copies: 1.0
+- name: Erode
+  weight: 0.0909
+  avg_copies: 2.0
+- name: Detect Intrusion
+  weight: 0.0909
+  avg_copies: 2.0
 - name: Soul-Guide Lantern
-  weight: 0.1111
+  weight: 0.0909
   avg_copies: 1.0
-- name: Prismatic Ending
-  weight: 0.1111
+- name: Skateboard
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Spell Snare
+  weight: 0.0909
+  avg_copies: 1.0
+- name: card:spider-sense
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Umezawa's Jitte
+  weight: 0.0909
   avg_copies: 1.0
 ---
 Equipment combo deck using Puresteel Paladin and Sigarda s Aid to equip Colossus Hammer for free.

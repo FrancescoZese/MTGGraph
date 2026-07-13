@@ -3,203 +3,224 @@ colors:
 - W
 - R
 name: 'Unknown #160'
-meta_share: 0.0085
-list_count: 43
+meta_share: 0.0099
+list_count: 52
 top_cards:
 - name: Price of Freedom
   weight: 1.0
   avg_copies: 4.0
 - name: Field of Ruin
   weight: 1.0
-  avg_copies: 3.95
+  avg_copies: 3.96
 - name: Erode
   weight: 1.0
-  avg_copies: 3.91
+  avg_copies: 3.92
 - name: Wrath of the Skies
   weight: 1.0
-  avg_copies: 3.82
+  avg_copies: 3.85
 - name: Solitude
   weight: 1.0
-  avg_copies: 3.77
+  avg_copies: 3.79
 - name: Demolition Field
   weight: 1.0
-  avg_copies: 3.7
+  avg_copies: 3.75
 - name: Galvanic Discharge
   weight: 1.0
-  avg_copies: 3.63
-- name: Cleansing Wildfire
-  weight: 1.0
-  avg_copies: 3.44
+  avg_copies: 3.6
 - name: Cori Mountain Monastery
   weight: 1.0
-  avg_copies: 3.4
+  avg_copies: 3.46
+- name: Cleansing Wildfire
+  weight: 1.0
+  avg_copies: 3.42
 - name: Path to Exile
   weight: 1.0
-  avg_copies: 3.33
+  avg_copies: 3.27
 - name: Plains
   weight: 1.0
-  avg_copies: 3.28
+  avg_copies: 3.19
 - name: Sacred Foundry
   weight: 1.0
-  avg_copies: 3.09
+  avg_copies: 3.08
 - name: Mountain
   weight: 1.0
   avg_copies: 1.81
 - name: Sunken Citadel
-  weight: 0.9535
+  weight: 0.9615
   avg_copies: 3.0
 - name: card:avengers-disassembled
-  weight: 0.907
-  avg_copies: 2.09
+  weight: 0.9038
+  avg_copies: 2.1
 - name: Kaheera, the Orphanguard
-  weight: 0.8837
+  weight: 0.8846
   avg_copies: 1.0
 - name: Rest in Peace
-  weight: 0.7907
-  avg_copies: 2.22
+  weight: 0.8269
+  avg_copies: 2.23
 - name: Vexing Bauble
-  weight: 0.6977
-  avg_copies: 1.33
+  weight: 0.6731
+  avg_copies: 1.37
+- name: Wear
+  weight: 0.5577
+  avg_copies: 1.9
 - name: High Noon
-  weight: 0.5581
+  weight: 0.5385
   avg_copies: 3.41
 - name: Reprieve
-  weight: 0.5349
-  avg_copies: 2.02
-- name: Wear
-  weight: 0.5116
-  avg_copies: 1.91
+  weight: 0.5
+  avg_copies: 2.04
+- name: Wrath of God
+  weight: 0.4423
+  avg_copies: 1.09
+- name: Celestial Purge
+  weight: 0.4231
+  avg_copies: 1.73
+- name: Deafening Silence
+  weight: 0.4231
+  avg_copies: 1.36
 - name: Karn, the Great Creator
-  weight: 0.4884
+  weight: 0.4038
   avg_copies: 3.86
-- name: Ensnaring Bridge
-  weight: 0.4884
+- name: Castle Ardenvale
+  weight: 0.4038
+  avg_copies: 1.05
+- name: Tormod's Crypt
+  weight: 0.4038
   avg_copies: 1.0
 - name: Liquimetal Coating
-  weight: 0.4884
+  weight: 0.4038
   avg_copies: 1.0
-- name: Tormod's Crypt
-  weight: 0.4884
+- name: Ensnaring Bridge
+  weight: 0.4038
   avg_copies: 1.0
 - name: Pithing Needle
-  weight: 0.4651
+  weight: 0.3846
   avg_copies: 1.0
-- name: Deafening Silence
-  weight: 0.4186
-  avg_copies: 1.39
-- name: Celestial Purge
-  weight: 0.3953
-  avg_copies: 1.71
-- name: Castle Ardenvale
-  weight: 0.3721
-  avg_copies: 1.06
-- name: Wrath of God
-  weight: 0.3721
-  avg_copies: 1.03
-- name: Valakut Awakening
-  weight: 0.3256
-  avg_copies: 1.5
 - name: The Legend of Roku
-  weight: 0.3256
-  avg_copies: 1.21
+  weight: 0.3269
+  avg_copies: 1.24
+- name: Valakut Awakening
+  weight: 0.3077
+  avg_copies: 1.5
+- name: Calamity's Wake
+  weight: 0.3077
+  avg_copies: 1.25
 - name: Soulless Jailer
-  weight: 0.3256
+  weight: 0.2692
   avg_copies: 1.0
 - name: Engineered Explosives
-  weight: 0.2791
+  weight: 0.2308
   avg_copies: 1.0
 - name: Kataki, War's Wage
-  weight: 0.2558
+  weight: 0.2115
   avg_copies: 1.0
 - name: The Stone Brain
-  weight: 0.2558
+  weight: 0.2115
   avg_copies: 1.0
+- name: Chandra, Awakened Inferno
+  weight: 0.1923
+  avg_copies: 1.8
 - name: Trinisphere
-  weight: 0.2326
-  avg_copies: 1.0
-- name: Calamity's Wake
-  weight: 0.2326
+  weight: 0.1923
   avg_copies: 1.0
 - name: Relic of Progenitus
-  weight: 0.2093
+  weight: 0.1731
   avg_copies: 1.56
 - name: Arid Mesa
-  weight: 0.186
+  weight: 0.1538
   avg_copies: 1.25
-- name: Chandra, Awakened Inferno
-  weight: 0.1395
-  avg_copies: 2.0
+- name: Sunbillow Verge
+  weight: 0.1346
+  avg_copies: 1.0
+- name: Lithomantic Barrage
+  weight: 0.1154
+  avg_copies: 1.83
 - name: Surgical Extraction
-  weight: 0.1395
+  weight: 0.1154
   avg_copies: 1.67
 - name: card:restless-bivouac
-  weight: 0.1395
+  weight: 0.1154
   avg_copies: 1.17
-- name: Portable Hole
-  weight: 0.1395
-  avg_copies: 1.0
 - name: Elixir of Immortality
-  weight: 0.1395
+  weight: 0.1154
   avg_copies: 1.0
-- name: Sunbillow Verge
-  weight: 0.1395
+- name: Portable Hole
+  weight: 0.1154
   avg_copies: 1.0
 - name: Leyline of Sanctity
-  weight: 0.1163
+  weight: 0.0962
   avg_copies: 4.0
-- name: Lithomantic Barrage
-  weight: 0.093
-  avg_copies: 2.0
 - name: Emergency Eject
-  weight: 0.093
-  avg_copies: 1.8
-- name: Mana Tithe
-  weight: 0.0698
-  avg_copies: 1.33
+  weight: 0.0962
+  avg_copies: 1.67
 - name: Sacred Ground
-  weight: 0.0465
-  avg_copies: 1.5
-- name: Stormbreath Dragon
-  weight: 0.0465
-  avg_copies: 1.0
-- name: Orim's Chant
-  weight: 0.0233
-  avg_copies: 4.0
-- name: Isochron Scepter
-  weight: 0.0233
-  avg_copies: 3.0
-- name: Kor Firewalker
-  weight: 0.0233
+  weight: 0.0577
+  avg_copies: 1.67
+- name: Mana Tithe
+  weight: 0.0577
+  avg_copies: 1.33
+- name: Flashback
+  weight: 0.0385
   avg_copies: 2.0
+- name: Stormbreath Dragon
+  weight: 0.0385
+  avg_copies: 1.0
+- name: March of Otherworldly Light
+  weight: 0.0385
+  avg_copies: 1.0
+- name: White Orchid Phantom
+  weight: 0.0192
+  avg_copies: 4.0
+- name: Orim's Chant
+  weight: 0.0192
+  avg_copies: 3.0
+- name: Isochron Scepter
+  weight: 0.0192
+  avg_copies: 3.0
 - name: Elegant Parlor
-  weight: 0.0233
+  weight: 0.0192
+  avg_copies: 2.0
+- name: Kor Firewalker
+  weight: 0.0192
   avg_copies: 2.0
 - name: Meltdown
-  weight: 0.0233
+  weight: 0.0192
+  avg_copies: 2.0
+- name: Boil
+  weight: 0.0192
   avg_copies: 2.0
 - name: card:chandra-hope-s-beacon
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Flashback
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Cityscape Leveler
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Disruptor Flute
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Crucible of Worlds
-  weight: 0.0233
+  weight: 0.0192
   avg_copies: 1.0
 - name: Fire Magic
-  weight: 0.0233
+  weight: 0.0192
   avg_copies: 1.0
-- name: Ark of Hunger
-  weight: 0.0233
+- name: Chandra, Torch of Defiance
+  weight: 0.0192
+  avg_copies: 1.0
+- name: Crucible of Worlds
+  weight: 0.0192
+  avg_copies: 1.0
+- name: Hallowed Moonlight
+  weight: 0.0192
+  avg_copies: 1.0
+- name: card:fry
+  weight: 0.0192
+  avg_copies: 1.0
+- name: card:the-mind-stone
+  weight: 0.0192
   avg_copies: 1.0
 - name: Grafdigger's Cage
-  weight: 0.0233
+  weight: 0.0192
+  avg_copies: 1.0
+- name: Disruptor Flute
+  weight: 0.0192
+  avg_copies: 1.0
+- name: Cityscape Leveler
+  weight: 0.0192
+  avg_copies: 1.0
+- name: Ark of Hunger
+  weight: 0.0192
   avg_copies: 1.0
 ---
 Unclassified archetype, pending review.
