@@ -10,7 +10,7 @@ meta_presence: 0.079
 archetypes:
   eldrazi-tron:
     weight: 0.9923
-    avg_copies: 3.46
+    avg_copies: 3.47
   mono-blue-tron:
     weight: 1.0
     avg_copies: 3.25
@@ -18,7 +18,7 @@ archetypes:
     weight: 0.9304
     avg_copies: 2.23
   broodscale-combo:
-    weight: 0.0548
+    weight: 0.0543
     avg_copies: 1.23
   unknown-37:
     weight: 1.0

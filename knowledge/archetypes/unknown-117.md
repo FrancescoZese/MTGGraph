@@ -7,49 +7,49 @@ name: 'Unknown #117'
 meta_share: 0.0004
 list_count: 2
 top_cards:
-- name: Hardened Academic
-  weight: 1.0
-  avg_copies: 4.0
-- name: Urza's Saga
-  weight: 1.0
-  avg_copies: 4.0
 - name: Galvanic Blast
-  weight: 1.0
-  avg_copies: 4.0
-- name: The Underworld Cookbook
-  weight: 1.0
-  avg_copies: 4.0
-- name: Asmoranomardicadaistinaculdacar
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ovalchase Daredevil
-  weight: 1.0
-  avg_copies: 4.0
-- name: Monument to Endurance
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
 - name: Inti, Seneschal of the Sun
   weight: 1.0
   avg_copies: 4.0
+- name: Ovalchase Daredevil
+  weight: 1.0
+  avg_copies: 4.0
+- name: Hardened Academic
+  weight: 1.0
+  avg_copies: 4.0
+- name: The Underworld Cookbook
+  weight: 1.0
+  avg_copies: 4.0
+- name: Monument to Endurance
+  weight: 1.0
+  avg_copies: 4.0
+- name: Urza's Saga
+  weight: 1.0
+  avg_copies: 4.0
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
-- name: Pyroclasm
+- name: Mox Opal
   weight: 1.0
-  avg_copies: 2.0
-- name: Elegant Parlor
+  avg_copies: 4.0
+- name: Asmoranomardicadaistinaculdacar
   weight: 1.0
-  avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 4.0
 - name: Wear
   weight: 1.0
   avg_copies: 2.0
-- name: Artist's Talent
+- name: Pyroclasm
+  weight: 1.0
+  avg_copies: 2.0
+- name: Drannith Magistrate
+  weight: 1.0
+  avg_copies: 2.0
+- name: Mountain
+  weight: 1.0
+  avg_copies: 2.0
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 2.0
 - name: Obsidian Charmaw
@@ -61,19 +61,19 @@ top_cards:
 - name: Relic of Progenitus
   weight: 1.0
   avg_copies: 2.0
-- name: Drannith Magistrate
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 2.0
-- name: Mountain
+- name: Artist's Talent
   weight: 1.0
   avg_copies: 2.0
-- name: Bloodstained Mire
-  weight: 1.0
-  avg_copies: 1.5
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 1.5
 - name: Wooded Foothills
+  weight: 1.0
+  avg_copies: 1.5
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.5
 - name: Sacred Foundry
@@ -82,10 +82,10 @@ top_cards:
 - name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
-- name: Plains
+- name: Sokenzan, Crucible of Defiance
   weight: 1.0
   avg_copies: 1.0
-- name: Sokenzan, Crucible of Defiance
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
 - name: Cool but Rude

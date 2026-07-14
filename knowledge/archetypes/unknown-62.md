@@ -111,10 +111,10 @@ top_cards:
 - name: Damping Sphere
   weight: 0.1724
   avg_copies: 2.0
-- name: Deafening Silence
+- name: High Noon
   weight: 0.1724
   avg_copies: 1.6
-- name: High Noon
+- name: Deafening Silence
   weight: 0.1724
   avg_copies: 1.6
 - name: Ranger-Captain of Eos
@@ -162,16 +162,16 @@ top_cards:
 - name: Orim's Chant
   weight: 0.069
   avg_copies: 1.5
-- name: Tamiyo, Inquisitive Student
+- name: Drannith Magistrate
   weight: 0.069
   avg_copies: 1.0
-- name: Drannith Magistrate
+- name: Tamiyo, Inquisitive Student
   weight: 0.069
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
   weight: 0.0345
   avg_copies: 3.0
-- name: Flagstones of Trokair
+- name: Obsidian Charmaw
   weight: 0.0345
   avg_copies: 2.0
 - name: Floodfarm Verge
@@ -183,12 +183,21 @@ top_cards:
 - name: Goblin Bombardment
   weight: 0.0345
   avg_copies: 2.0
+- name: Flagstones of Trokair
+  weight: 0.0345
+  avg_copies: 2.0
 - name: Galvanic Discharge
   weight: 0.0345
   avg_copies: 2.0
-- name: Obsidian Charmaw
+- name: Flitterwing Nuisance
   weight: 0.0345
-  avg_copies: 2.0
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Razorgrass Ambush
+  weight: 0.0345
+  avg_copies: 1.0
 - name: Elegant Parlor
   weight: 0.0345
   avg_copies: 1.0
@@ -198,31 +207,22 @@ top_cards:
 - name: Marsh Flats
   weight: 0.0345
   avg_copies: 1.0
-- name: Flitterwing Nuisance
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Hydroelectric Specimen
+- name: Aven Interrupter
   weight: 0.0345
   avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 0.0345
   avg_copies: 1.0
-- name: Recruiter of the Guard
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Razorgrass Ambush
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Celestial Purge
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Meltdown
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Aven Interrupter
+- name: Hydroelectric Specimen
   weight: 0.0345
   avg_copies: 1.0
 - name: Ajani, Nacatl Pariah
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Recruiter of the Guard
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Celestial Purge
   weight: 0.0345
   avg_copies: 1.0
 ---

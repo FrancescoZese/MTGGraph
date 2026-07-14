@@ -5,31 +5,31 @@ name: 'Unknown #155'
 meta_share: 0.0002
 list_count: 1
 top_cards:
-- name: Urza's Saga
+- name: card:shuko
   weight: 1.0
   avg_copies: 4.0
 - name: Force of Negation
   weight: 1.0
   avg_copies: 4.0
-- name: Consign to Memory
-  weight: 1.0
-  avg_copies: 4.0
 - name: Subtlety
   weight: 1.0
   avg_copies: 4.0
-- name: card:shuko
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Tamiyo, Inquisitive Student
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mystical Dispute
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mox Opal
+- name: Emry, Lurker of the Loch
   weight: 1.0
   avg_copies: 4.0
 - name: Sink into Stupor
+  weight: 1.0
+  avg_copies: 4.0
+- name: Urza's Saga
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
 - name: card:loki-god-of-mischief
@@ -41,10 +41,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 4.0
-- name: Emry, Lurker of the Loch
+- name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 4.0
 - name: Harbinger of the Seas
@@ -56,13 +56,19 @@ top_cards:
 - name: Quantum Riddler
   weight: 1.0
   avg_copies: 2.0
-- name: Pithing Needle
+- name: Hedge Maze
+  weight: 1.0
+  avg_copies: 1.0
+- name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
 - name: Engineered Explosives
   weight: 1.0
   avg_copies: 1.0
-- name: Thassa's Oracle
+- name: Pithing Needle
+  weight: 1.0
+  avg_copies: 1.0
+- name: Minamo, School at Water's Edge
   weight: 1.0
   avg_copies: 1.0
 - name: Haywire Mite
@@ -71,16 +77,10 @@ top_cards:
 - name: Aether Spellbomb
   weight: 1.0
   avg_copies: 1.0
-- name: Minamo, School at Water's Edge
-  weight: 1.0
-  avg_copies: 1.0
-- name: Hedge Maze
-  weight: 1.0
-  avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Thassa's Oracle
   weight: 1.0
   avg_copies: 1.0
 ---

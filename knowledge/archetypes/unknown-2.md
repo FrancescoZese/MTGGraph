@@ -7,6 +7,15 @@ name: 'Unknown #2'
 meta_share: 0.0004
 list_count: 2
 top_cards:
+- name: Faithless Looting
+  weight: 1.0
+  avg_copies: 4.0
+- name: Exhibition Tidecaller
+  weight: 1.0
+  avg_copies: 4.0
+- name: Thought Scour
+  weight: 1.0
+  avg_copies: 4.0
 - name: Consider
   weight: 1.0
   avg_copies: 4.0
@@ -16,7 +25,7 @@ top_cards:
 - name: Manamorphose
   weight: 1.0
   avg_copies: 4.0
-- name: Thought Scour
+- name: Steam Vents
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
@@ -25,22 +34,13 @@ top_cards:
 - name: Arclight Phoenix
   weight: 1.0
   avg_copies: 4.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 4.0
-- name: Faithless Looting
-  weight: 1.0
-  avg_copies: 4.0
-- name: Exhibition Tidecaller
-  weight: 1.0
-  avg_copies: 4.0
 - name: Lava Dart
   weight: 1.0
   avg_copies: 3.0
-- name: Meltdown
+- name: Gut Shot
   weight: 1.0
   avg_copies: 3.0
-- name: Gut Shot
+- name: Meltdown
   weight: 1.0
   avg_copies: 3.0
 - name: Force of Negation
@@ -52,10 +52,10 @@ top_cards:
 - name: Flashback
   weight: 1.0
   avg_copies: 2.0
-- name: Sink into Stupor
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 2.0
-- name: Wooded Foothills
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 2.0
 - name: Mountain
@@ -73,19 +73,19 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.5
   avg_copies: 3.0
-- name: Preordain
-  weight: 0.5
-  avg_copies: 3.0
 - name: Rough
   weight: 0.5
   avg_copies: 3.0
-- name: Tamiyo, Inquisitive Student
+- name: Preordain
   weight: 0.5
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Misty Rainforest
   weight: 0.5
   avg_copies: 2.0
 - name: Island
+  weight: 0.5
+  avg_copies: 2.0
+- name: Tamiyo, Inquisitive Student
   weight: 0.5
   avg_copies: 2.0
 - name: Flame of Anor

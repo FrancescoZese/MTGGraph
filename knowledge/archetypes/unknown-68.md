@@ -40,10 +40,10 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.03
-- name: Elegant Parlor
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Bloodstained Mire
@@ -154,13 +154,13 @@ top_cards:
 - name: Damping Sphere
   weight: 0.1176
   avg_copies: 1.75
+- name: Haliya, Guided by Light
+  weight: 0.1176
+  avg_copies: 1.0
 - name: Meltdown
   weight: 0.1176
   avg_copies: 1.0
 - name: Ghost Vacuum
-  weight: 0.1176
-  avg_copies: 1.0
-- name: Haliya, Guided by Light
   weight: 0.1176
   avg_copies: 1.0
 - name: Deafening Silence
@@ -175,13 +175,13 @@ top_cards:
 - name: Solitude
   weight: 0.0588
   avg_copies: 1.67
-- name: Strategic Betrayal
-  weight: 0.0588
-  avg_copies: 1.0
 - name: Containment Priest
   weight: 0.0588
   avg_copies: 1.0
 - name: Sanctifier en-Vec
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Strategic Betrayal
   weight: 0.0588
   avg_copies: 1.0
 - name: Lingering Souls

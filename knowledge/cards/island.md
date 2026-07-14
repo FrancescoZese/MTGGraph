@@ -9,7 +9,7 @@ type: Basic Land — Island
 meta_presence: 0.3659
 archetypes:
   ruby-storm:
-    weight: 0.0108
+    weight: 0.0107
     avg_copies: 1.0
   dimir-control:
     weight: 0.9877
@@ -21,7 +21,7 @@ archetypes:
     weight: 0.8168
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.0039
+    weight: 0.0038
     avg_copies: 1.0
   goryo:
     weight: 0.9922
@@ -60,7 +60,7 @@ archetypes:
     weight: 0.0128
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0305
+    weight: 0.0304
     avg_copies: 1.12
   4c-omnath:
     weight: 1.0
@@ -93,7 +93,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo1:
-    weight: 0.9653
+    weight: 0.9655
     avg_copies: 1.0
   goryo7:
     weight: 1.0

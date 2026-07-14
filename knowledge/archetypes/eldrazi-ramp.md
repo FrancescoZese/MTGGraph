@@ -2,13 +2,13 @@
 colors:
 - G
 name: Eldrazi Ramp
-meta_share: 0.0219
+meta_share: 0.0218
 list_count: 115
 top_cards:
-- name: Kozilek's Command
+- name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
-- name: Ugin's Labyrinth
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Sowing Mycospawn
@@ -125,10 +125,10 @@ top_cards:
 - name: Haywire Mite
   weight: 0.2174
   avg_copies: 1.04
-- name: Liquimetal Coating
+- name: Ensnaring Bridge
   weight: 0.2174
   avg_copies: 1.0
-- name: Ensnaring Bridge
+- name: Liquimetal Coating
   weight: 0.2174
   avg_copies: 1.0
 - name: Chalice of the Void
@@ -164,16 +164,16 @@ top_cards:
 - name: Nulldrifter
   weight: 0.1043
   avg_copies: 2.75
-- name: Hedge Maze
-  weight: 0.1043
-  avg_copies: 1.0
 - name: Keen-Eyed Curator
   weight: 0.1043
   avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.0957
+- name: Hedge Maze
+  weight: 0.1043
   avg_copies: 1.0
 - name: Gemstone Caverns
+  weight: 0.0957
+  avg_copies: 1.0
+- name: Breeding Pool
   weight: 0.0957
   avg_copies: 1.0
 - name: Soul-Guide Lantern
@@ -194,10 +194,10 @@ top_cards:
 - name: Torpor Orb
   weight: 0.0522
   avg_copies: 1.83
-- name: Surgical Extraction
+- name: Strix Serenade
   weight: 0.0435
   avg_copies: 1.6
-- name: Strix Serenade
+- name: Surgical Extraction
   weight: 0.0435
   avg_copies: 1.6
 - name: Field Trip
@@ -209,28 +209,28 @@ top_cards:
 - name: Blood Moon
   weight: 0.0348
   avg_copies: 2.0
-- name: Six
-  weight: 0.0348
-  avg_copies: 1.0
-- name: Improvisation Capstone
-  weight: 0.0348
-  avg_copies: 1.0
-- name: Origin of Metalbending
-  weight: 0.0348
-  avg_copies: 1.0
-- name: Ilharg, the Raze-Boar
+- name: Arena of Glory
   weight: 0.0348
   avg_copies: 1.0
 - name: Iroh's Demonstration
   weight: 0.0348
   avg_copies: 1.0
-- name: Arena of Glory
+- name: Improvisation Capstone
   weight: 0.0348
   avg_copies: 1.0
-- name: Palantír of Orthanc
+- name: Ilharg, the Raze-Boar
+  weight: 0.0348
+  avg_copies: 1.0
+- name: Origin of Metalbending
   weight: 0.0348
   avg_copies: 1.0
 - name: Void Mirror
+  weight: 0.0348
+  avg_copies: 1.0
+- name: Six
+  weight: 0.0348
+  avg_copies: 1.0
+- name: Palantír of Orthanc
   weight: 0.0348
   avg_copies: 1.0
 - name: Talisman of Resilience
@@ -239,10 +239,10 @@ top_cards:
 - name: Blasphemous Act
   weight: 0.0261
   avg_copies: 1.67
-- name: Price of Freedom
+- name: Vibrance
   weight: 0.0261
   avg_copies: 1.0
-- name: Vibrance
+- name: Price of Freedom
   weight: 0.0261
   avg_copies: 1.0
 - name: True Ancestry
@@ -263,6 +263,12 @@ top_cards:
 - name: Stone Rain
   weight: 0.0174
   avg_copies: 1.5
+- name: Firebending Lesson
+  weight: 0.0174
+  avg_copies: 1.0
+- name: Overgrown Tomb
+  weight: 0.0174
+  avg_copies: 1.0
 - name: Thief of Existence
   weight: 0.0174
   avg_copies: 1.0
@@ -275,25 +281,52 @@ top_cards:
 - name: All Is Dust
   weight: 0.0174
   avg_copies: 1.0
-- name: Firebending Lesson
-  weight: 0.0174
-  avg_copies: 1.0
-- name: Overgrown Tomb
-  weight: 0.0174
-  avg_copies: 1.0
 - name: Madcap Experiment
   weight: 0.0087
   avg_copies: 3.0
-- name: Relic of Progenitus
-  weight: 0.0087
-  avg_copies: 2.0
 - name: Abrupt Decay
   weight: 0.0087
   avg_copies: 2.0
-- name: Collector Ouphe
+- name: Relic of Progenitus
+  weight: 0.0087
+  avg_copies: 2.0
+- name: Mutable Explorer
+  weight: 0.0087
+  avg_copies: 1.0
+- name: Seismic Sense
+  weight: 0.0087
+  avg_copies: 1.0
+- name: Ratchet Bomb
+  weight: 0.0087
+  avg_copies: 1.0
+- name: Untimely Malfunction
+  weight: 0.0087
+  avg_copies: 1.0
+- name: card:esper-origins
+  weight: 0.0087
+  avg_copies: 1.0
+- name: Ugin, the Spirit Dragon
+  weight: 0.0087
+  avg_copies: 1.0
+- name: The Endstone
   weight: 0.0087
   avg_copies: 1.0
 - name: Culling Ritual
+  weight: 0.0087
+  avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 0.0087
+  avg_copies: 1.0
+- name: Endurance
+  weight: 0.0087
+  avg_copies: 1.0
+- name: Peer Past the Veil
+  weight: 0.0087
+  avg_copies: 1.0
+- name: Walking Ballista
+  weight: 0.0087
+  avg_copies: 1.0
+- name: Darksteel Citadel
   weight: 0.0087
   avg_copies: 1.0
 - name: Ketria Triome
@@ -302,43 +335,10 @@ top_cards:
 - name: card:the-ten-rings
   weight: 0.0087
   avg_copies: 1.0
-- name: Peer Past the Veil
-  weight: 0.0087
-  avg_copies: 1.0
-- name: Endurance
-  weight: 0.0087
-  avg_copies: 1.0
-- name: Seismic Sense
-  weight: 0.0087
-  avg_copies: 1.0
-- name: card:esper-origins
-  weight: 0.0087
-  avg_copies: 1.0
-- name: Ratchet Bomb
-  weight: 0.0087
-  avg_copies: 1.0
-- name: Mutable Explorer
-  weight: 0.0087
-  avg_copies: 1.0
-- name: Untimely Malfunction
+- name: card:platinum-emperion
   weight: 0.0087
   avg_copies: 1.0
 - name: Hedron Archive
-  weight: 0.0087
-  avg_copies: 1.0
-- name: The Endstone
-  weight: 0.0087
-  avg_copies: 1.0
-- name: Ugin, the Spirit Dragon
-  weight: 0.0087
-  avg_copies: 1.0
-- name: Darksteel Citadel
-  weight: 0.0087
-  avg_copies: 1.0
-- name: Walking Ballista
-  weight: 0.0087
-  avg_copies: 1.0
-- name: card:platinum-emperion
   weight: 0.0087
   avg_copies: 1.0
 ---

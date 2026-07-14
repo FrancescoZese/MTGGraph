@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0562
 archetypes:
   boros-energy:
-    weight: 0.0259
+    weight: 0.0258
     avg_copies: 1.08
   mono-blue-belcher:
     weight: 0.0132

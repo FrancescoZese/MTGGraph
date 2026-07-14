@@ -6,22 +6,22 @@ name: 'Unknown #97'
 meta_share: 0.0015
 list_count: 8
 top_cards:
-- name: Kozilek's Command
+- name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
-- name: Malevolent Rumble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ugin's Labyrinth
+- name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
 - name: Utopia Sprawl
   weight: 1.0
   avg_copies: 4.0
-- name: Sowing Mycospawn
+- name: Malevolent Rumble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Ancient Stirrings
@@ -42,10 +42,10 @@ top_cards:
 - name: Sire of Seven Deaths
   weight: 1.0
   avg_copies: 1.5
-- name: World Breaker
+- name: Sanctum of Ugin
   weight: 1.0
   avg_copies: 1.0
-- name: Sanctum of Ugin
+- name: World Breaker
   weight: 1.0
   avg_copies: 1.0
 - name: Nihil Spellbomb
@@ -90,10 +90,10 @@ top_cards:
 - name: Nulldrifter
   weight: 0.625
   avg_copies: 1.6
-- name: Hedge Maze
+- name: Breeding Pool
   weight: 0.625
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Hedge Maze
   weight: 0.625
   avg_copies: 1.0
 - name: Strix Serenade
@@ -120,6 +120,9 @@ top_cards:
 - name: Karn, the Great Creator
   weight: 0.125
   avg_copies: 3.0
+- name: Vandalblast
+  weight: 0.125
+  avg_copies: 2.0
 - name: Nature's Claim
   weight: 0.125
   avg_copies: 2.0
@@ -129,7 +132,7 @@ top_cards:
 - name: Damnation
   weight: 0.125
   avg_copies: 2.0
-- name: Vandalblast
+- name: Talisman of Impulse
   weight: 0.125
   avg_copies: 2.0
 - name: Damping Sphere
@@ -138,31 +141,28 @@ top_cards:
 - name: Soulless Jailer
   weight: 0.125
   avg_copies: 2.0
-- name: Talisman of Impulse
-  weight: 0.125
-  avg_copies: 2.0
-- name: Pithing Needle
-  weight: 0.125
-  avg_copies: 1.0
-- name: Liquimetal Coating
+- name: Ensnaring Bridge
   weight: 0.125
   avg_copies: 1.0
 - name: Stomping Ground
   weight: 0.125
   avg_copies: 1.0
-- name: Chalice of the Void
+- name: Commercial District
   weight: 0.125
   avg_copies: 1.0
-- name: Commercial District
+- name: Liquimetal Coating
+  weight: 0.125
+  avg_copies: 1.0
+- name: Pithing Needle
+  weight: 0.125
+  avg_copies: 1.0
+- name: Haywire Mite
   weight: 0.125
   avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 0.125
   avg_copies: 1.0
-- name: Ensnaring Bridge
-  weight: 0.125
-  avg_copies: 1.0
-- name: Haywire Mite
+- name: Chalice of the Void
   weight: 0.125
   avg_copies: 1.0
 ---

@@ -12,7 +12,7 @@ archetypes:
     weight: 0.4444
     avg_copies: 1.73
   broodscale-combo:
-    weight: 0.0091
+    weight: 0.009
     avg_copies: 1.0
   rakdos-lantern-combo:
     weight: 1.0

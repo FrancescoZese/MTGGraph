@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.007
 archetypes:
   ruby-storm:
-    weight: 0.043
+    weight: 0.0428
     avg_copies: 2.5
   mono-red-belcher:
     weight: 0.6923

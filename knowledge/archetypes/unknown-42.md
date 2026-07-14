@@ -17,13 +17,13 @@ top_cards:
 - name: Master of the Pearl Trident
   weight: 1.0
   avg_copies: 3.7
-- name: Vodalian Hexcatcher
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 3.6
 - name: Aether Vial
   weight: 1.0
   avg_copies: 3.6
-- name: Sink into Stupor
+- name: Vodalian Hexcatcher
   weight: 1.0
   avg_copies: 3.6
 - name: Harbinger of the Seas
@@ -35,13 +35,13 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.1
-- name: Cavern of Souls
-  weight: 1.0
-  avg_copies: 2.9
 - name: Flare of Denial
   weight: 1.0
   avg_copies: 2.9
 - name: Tishana's Tidebinder
+  weight: 1.0
+  avg_copies: 2.9
+- name: Cavern of Souls
   weight: 1.0
   avg_copies: 2.9
 - name: Otawara, Soaring City

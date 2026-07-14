@@ -6,7 +6,7 @@ name: Marsh Flats
 scryfall_id: 9db3ba6d-eb7f-4f5b-9a3b-c6239c3baa42
 set: mh2
 type: Land
-meta_presence: 0.2637
+meta_presence: 0.2636
 archetypes:
   boros-energy:
     weight: 0.9696
@@ -19,7 +19,7 @@ archetypes:
     avg_copies: 1.0
   goryo:
     weight: 0.9961
-    avg_copies: 3.35
+    avg_copies: 3.36
   necrodominance:
     weight: 0.175
     avg_copies: 1.14

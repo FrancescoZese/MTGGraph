@@ -78,10 +78,10 @@ top_cards:
 - name: Lightning Bolt
   weight: 0.6667
   avg_copies: 3.0
-- name: Surgical Extraction
+- name: Misty Rainforest
   weight: 0.6667
   avg_copies: 2.25
-- name: Misty Rainforest
+- name: Surgical Extraction
   weight: 0.6667
   avg_copies: 2.25
 - name: Collector Ouphe
@@ -117,25 +117,25 @@ top_cards:
 - name: Scapeshift
   weight: 0.1667
   avg_copies: 3.0
-- name: Orim's Chant
-  weight: 0.1667
-  avg_copies: 2.0
-- name: Ghost Vacuum
-  weight: 0.1667
-  avg_copies: 2.0
 - name: Fire Magic
   weight: 0.1667
   avg_copies: 2.0
 - name: High Noon
   weight: 0.1667
   avg_copies: 2.0
+- name: Orim's Chant
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Ghost Vacuum
+  weight: 0.1667
+  avg_copies: 2.0
 - name: Disruptor Flute
   weight: 0.1667
   avg_copies: 2.0
-- name: Dwarven Mine
+- name: Sakura-Tribe Elder
   weight: 0.1667
   avg_copies: 1.0
-- name: Sakura-Tribe Elder
+- name: Dwarven Mine
   weight: 0.1667
   avg_copies: 1.0
 - name: Endurance

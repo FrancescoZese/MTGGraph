@@ -9,7 +9,7 @@ type: Land — Urza's Tower
 meta_presence: 0.0537
 archetypes:
   eldrazi-tron:
-    weight: 0.9961
+    weight: 0.9962
     avg_copies: 3.89
   mono-blue-tron:
     weight: 1.0

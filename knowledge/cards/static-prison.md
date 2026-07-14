@@ -10,10 +10,10 @@ type: Enchantment
 meta_presence: 0.0459
 archetypes:
   ruby-storm:
-    weight: 0.0269
+    weight: 0.0267
     avg_copies: 2.8
   boros-energy:
-    weight: 0.309
+    weight: 0.31
     avg_copies: 1.11
   mono-red-belcher:
     weight: 0.3077

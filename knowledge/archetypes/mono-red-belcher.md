@@ -12,6 +12,9 @@ top_cards:
 - name: Manamorphose
   weight: 1.0
   avg_copies: 4.0
+- name: Stormscale Scion
+  weight: 1.0
+  avg_copies: 4.0
 - name: Shatterskull Smashing
   weight: 1.0
   avg_copies: 4.0
@@ -21,19 +24,16 @@ top_cards:
 - name: Pyretic Ritual
   weight: 1.0
   avg_copies: 4.0
-- name: Stormscale Scion
-  weight: 1.0
-  avg_copies: 4.0
-- name: Sundering Eruption
+- name: Irencrag Feat
   weight: 1.0
   avg_copies: 3.92
-- name: Pinnacle Monk
+- name: Sundering Eruption
   weight: 1.0
   avg_copies: 3.92
 - name: Strike It Rich
   weight: 1.0
   avg_copies: 3.92
-- name: Irencrag Feat
+- name: Pinnacle Monk
   weight: 1.0
   avg_copies: 3.92
 - name: Blood Moon
@@ -105,24 +105,18 @@ top_cards:
 - name: Redirect Lightning
   weight: 0.1538
   avg_copies: 1.0
-- name: Leyline of Sanctity
+- name: Hexing Squelcher
   weight: 0.0769
   avg_copies: 4.0
 - name: Relic of Progenitus
   weight: 0.0769
   avg_copies: 4.0
-- name: Hexing Squelcher
+- name: Leyline of Sanctity
   weight: 0.0769
   avg_copies: 4.0
 - name: Untimely Malfunction
   weight: 0.0769
   avg_copies: 3.0
-- name: Serum Powder
-  weight: 0.0769
-  avg_copies: 2.0
-- name: Kraza, the Swarm as One
-  weight: 0.0769
-  avg_copies: 2.0
 - name: Lantern of the Lost
   weight: 0.0769
   avg_copies: 2.0
@@ -132,13 +126,19 @@ top_cards:
 - name: Phlage, Titan of Fire's Fury
   weight: 0.0769
   avg_copies: 2.0
-- name: Trinisphere
+- name: Serum Powder
   weight: 0.0769
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: Kraza, the Swarm as One
+  weight: 0.0769
+  avg_copies: 2.0
 - name: The Legend of Roku
   weight: 0.0769
   avg_copies: 1.0
 - name: Rush of Inspiration
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Trinisphere
   weight: 0.0769
   avg_copies: 1.0
 ---

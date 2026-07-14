@@ -7,16 +7,16 @@ name: Cosmogoyf Fling
 meta_share: 0.0063
 list_count: 33
 top_cards:
-- name: Plunge into Darkness
-  weight: 1.0
-  avg_copies: 4.0
 - name: Thud
   weight: 1.0
   avg_copies: 4.0
-- name: Spoils of the Vault
+- name: Plunge into Darkness
+  weight: 1.0
+  avg_copies: 4.0
+- name: Gemstone Caverns
   weight: 1.0
   avg_copies: 3.91
-- name: Gemstone Caverns
+- name: Spoils of the Vault
   weight: 1.0
   avg_copies: 3.91
 - name: Blackcleave Cliffs
@@ -109,16 +109,16 @@ top_cards:
 - name: card:providence
   weight: 0.1212
   avg_copies: 1.75
-- name: Ghor-Clan Rampager
-  weight: 0.1212
-  avg_copies: 1.0
 - name: Leyline of the Void
   weight: 0.1212
   avg_copies: 1.0
-- name: Scion of Draco
+- name: Ghor-Clan Rampager
+  weight: 0.1212
+  avg_copies: 1.0
+- name: Leyline of the Guildpact
   weight: 0.0909
   avg_copies: 4.0
-- name: Leyline of the Guildpact
+- name: Scion of Draco
   weight: 0.0909
   avg_copies: 4.0
 - name: Claim
@@ -148,16 +148,16 @@ top_cards:
 - name: Mana Confluence
   weight: 0.0303
   avg_copies: 4.0
-- name: Death's Shadow
-  weight: 0.0303
-  avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.0303
   avg_copies: 2.0
-- name: Kaheera, the Orphanguard
+- name: Death's Shadow
+  weight: 0.0303
+  avg_copies: 2.0
+- name: Meltdown
   weight: 0.0303
   avg_copies: 1.0
-- name: Meltdown
+- name: Kaheera, the Orphanguard
   weight: 0.0303
   avg_copies: 1.0
 - name: Mountain

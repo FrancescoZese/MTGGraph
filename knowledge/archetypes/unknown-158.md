@@ -6,28 +6,28 @@ name: 'Unknown #158'
 meta_share: 0.0002
 list_count: 1
 top_cards:
-- name: Solitude
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
 - name: Consult the Star Charts
   weight: 1.0
   avg_copies: 4.0
-- name: Consign to Memory
+- name: Wan Shi Tong, Librarian
   weight: 1.0
   avg_copies: 4.0
 - name: Counterspell
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
-  weight: 1.0
-  avg_copies: 4.0
 - name: Quantum Riddler
   weight: 1.0
   avg_copies: 4.0
-- name: Field of Ruin
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Wan Shi Tong, Librarian
+- name: Solitude
+  weight: 1.0
+  avg_copies: 4.0
+- name: Field of Ruin
   weight: 1.0
   avg_copies: 4.0
 - name: Spell Snare
@@ -39,6 +39,9 @@ top_cards:
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 3.0
+- name: Dovin's Veto
+  weight: 1.0
+  avg_copies: 2.0
 - name: Subtlety
   weight: 1.0
   avg_copies: 2.0
@@ -48,10 +51,10 @@ top_cards:
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Prismatic Ending
   weight: 1.0
   avg_copies: 2.0
-- name: Dovin's Veto
+- name: Relic of Progenitus
   weight: 1.0
   avg_copies: 2.0
 - name: Plains
@@ -63,25 +66,22 @@ top_cards:
 - name: Supreme Verdict
   weight: 1.0
   avg_copies: 2.0
-- name: Prismatic Ending
-  weight: 1.0
-  avg_copies: 2.0
-- name: Relic of Progenitus
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
 - name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 1.5
-- name: Thundering Falls
+- name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
 - name: Wear
   weight: 1.0
   avg_copies: 1.0
-- name: Celestial Purge
+- name: Mystic Gate
   weight: 1.0
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Celestial Purge
   weight: 1.0
   avg_copies: 1.0
 - name: Steam Vents
@@ -90,7 +90,7 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.0
-- name: Mystic Gate
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 ---

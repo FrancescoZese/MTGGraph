@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0059
 archetypes:
   izzet-prowess:
-    weight: 0.0687
+    weight: 0.0684
     avg_copies: 3.72
   rakdos-aggro:
     weight: 0.1111

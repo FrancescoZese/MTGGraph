@@ -6,13 +6,7 @@ name: 'Unknown #173'
 meta_share: 0.0002
 list_count: 1
 top_cards:
-- name: Verdant Catacombs
-  weight: 1.0
-  avg_copies: 4.0
-- name: Badgermole Cub
-  weight: 1.0
-  avg_copies: 4.0
-- name: Wight of the Reliquary
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
 - name: Green Sun's Zenith
@@ -21,28 +15,40 @@ top_cards:
 - name: Windswept Heath
   weight: 1.0
   avg_copies: 4.0
-- name: Orcish Bowmasters
+- name: Wight of the Reliquary
   weight: 1.0
   avg_copies: 4.0
-- name: Springheart Nantuko
+- name: Badgermole Cub
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
-- name: Forest
+- name: Springheart Nantuko
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 4.0
+- name: Verdant Catacombs
+  weight: 1.0
+  avg_copies: 4.0
 - name: Break the Ice
   weight: 1.0
   avg_copies: 3.0
 - name: Overgrown Tomb
   weight: 1.0
   avg_copies: 3.0
+- name: Forest
+  weight: 1.0
+  avg_copies: 3.0
 - name: Soulless Jailer
   weight: 1.0
   avg_copies: 3.0
-- name: Vexing Bauble
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 2.0
+- name: Fade from History
+  weight: 1.0
+  avg_copies: 2.0
+- name: Ignoble Hierarch
   weight: 1.0
   avg_copies: 2.0
 - name: Underground Mortuary
@@ -51,46 +57,40 @@ top_cards:
 - name: Culling Ritual
   weight: 1.0
   avg_copies: 2.0
-- name: Ignoble Hierarch
-  weight: 1.0
-  avg_copies: 2.0
-- name: Fade from History
-  weight: 1.0
-  avg_copies: 2.0
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 2.0
 - name: Icetill Explorer
   weight: 1.0
   avg_copies: 2.0
-- name: Swamp
+- name: Vexing Bauble
+  weight: 1.0
+  avg_copies: 2.0
+- name: Titania, Protector of Argoth
   weight: 1.0
   avg_copies: 1.0
 - name: Grist, the Hunger Tide
   weight: 1.0
   avg_copies: 1.0
-- name: Dryad Arbor
+- name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
 - name: card:fiend-artisan
   weight: 1.0
   avg_copies: 1.0
-- name: Ba Sing Se
-  weight: 1.0
-  avg_copies: 1.0
-- name: Endurance
-  weight: 1.0
-  avg_copies: 1.0
-- name: Titania, Protector of Argoth
+- name: card:sejiri-steppe
   weight: 1.0
   avg_copies: 1.0
 - name: Ouroboroid
   weight: 1.0
   avg_copies: 1.0
-- name: Collector Ouphe
+- name: Sylvan Safekeeper
   weight: 1.0
   avg_copies: 1.0
-- name: Bojuka Bog
+- name: Chomping Changeling
+  weight: 1.0
+  avg_copies: 1.0
+- name: Swamp
+  weight: 1.0
+  avg_copies: 1.0
+- name: Ba Sing Se
   weight: 1.0
   avg_copies: 1.0
 - name: Shifting Woodland
@@ -99,13 +99,13 @@ top_cards:
 - name: Ghost Quarter
   weight: 1.0
   avg_copies: 1.0
-- name: card:sejiri-steppe
+- name: Bojuka Bog
   weight: 1.0
   avg_copies: 1.0
-- name: Sylvan Safekeeper
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
-- name: Chomping Changeling
+- name: Endurance
   weight: 1.0
   avg_copies: 1.0
 ---

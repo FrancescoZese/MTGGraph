@@ -8,10 +8,10 @@ name: 'Unknown #96'
 meta_share: 0.0027
 list_count: 14
 top_cards:
-- name: Street Wraith
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Marauding Mako
   weight: 1.0
   avg_copies: 4.0
 - name: Hardened Academic
@@ -20,13 +20,13 @@ top_cards:
 - name: Hollow One
   weight: 1.0
   avg_copies: 4.0
-- name: Marauding Mako
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
-- name: Arid Mesa
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 3.71
-- name: Bloodstained Mire
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 3.71
 - name: Detective's Phoenix
@@ -41,13 +41,13 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.86
-- name: Burning Inquiry
-  weight: 0.9286
-  avg_copies: 4.0
 - name: Vengevine
   weight: 0.9286
   avg_copies: 4.0
 - name: Blazing Rootwalla
+  weight: 0.9286
+  avg_copies: 4.0
+- name: Burning Inquiry
   weight: 0.9286
   avg_copies: 4.0
 - name: Elegant Parlor
@@ -101,16 +101,16 @@ top_cards:
 - name: The Underworld Cookbook
   weight: 0.2143
   avg_copies: 2.0
-- name: Asmoranomardicadaistinaculdacar
-  weight: 0.2143
-  avg_copies: 2.0
 - name: Seasoned Pyromancer
   weight: 0.2143
   avg_copies: 2.0
-- name: Fear of Missing Out
+- name: Asmoranomardicadaistinaculdacar
+  weight: 0.2143
+  avg_copies: 2.0
+- name: Ox of Agonas
   weight: 0.2143
   avg_copies: 1.0
-- name: Ox of Agonas
+- name: Fear of Missing Out
   weight: 0.2143
   avg_copies: 1.0
 - name: Moonshadow
@@ -140,19 +140,22 @@ top_cards:
 - name: Marsh Flats
   weight: 0.0714
   avg_copies: 3.0
-- name: Price of Freedom
-  weight: 0.0714
-  avg_copies: 3.0
 - name: Thoughtseize
   weight: 0.0714
   avg_copies: 3.0
-- name: Lava Dart
+- name: Price of Freedom
   weight: 0.0714
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Magebane Lizard
   weight: 0.0714
   avg_copies: 2.0
+- name: Lava Dart
+  weight: 0.0714
+  avg_copies: 2.0
 - name: Erode
+  weight: 0.0714
+  avg_copies: 2.0
+- name: Prismatic Ending
   weight: 0.0714
   avg_copies: 2.0
 - name: Relic of Progenitus
@@ -161,16 +164,13 @@ top_cards:
 - name: Deafening Silence
   weight: 0.0714
   avg_copies: 2.0
-- name: Prismatic Ending
-  weight: 0.0714
-  avg_copies: 2.0
-- name: Godless Shrine
+- name: Pyroclasm
   weight: 0.0714
   avg_copies: 1.0
 - name: Arena of Glory
   weight: 0.0714
   avg_copies: 1.0
-- name: Pyroclasm
+- name: Godless Shrine
   weight: 0.0714
   avg_copies: 1.0
 ---

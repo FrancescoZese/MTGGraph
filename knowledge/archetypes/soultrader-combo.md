@@ -15,10 +15,10 @@ top_cards:
 - name: Warren Soultrader
   weight: 1.0
   avg_copies: 4.0
-- name: Flare of Malice
+- name: Marionette Apprentice
   weight: 1.0
   avg_copies: 3.83
-- name: Marionette Apprentice
+- name: Flare of Malice
   weight: 1.0
   avg_copies: 3.83
 - name: Bloodstained Mire
@@ -72,10 +72,10 @@ top_cards:
 - name: Fulminator Mage
   weight: 0.5
   avg_copies: 2.67
-- name: Dauthi Voidwalker
+- name: Abhorrent Oculus
   weight: 0.5
   avg_copies: 2.33
-- name: Abhorrent Oculus
+- name: Dauthi Voidwalker
   weight: 0.5
   avg_copies: 2.33
 - name: Culling Ritual
@@ -99,9 +99,6 @@ top_cards:
 - name: Phoenix Fleet Airship
   weight: 0.3333
   avg_copies: 2.5
-- name: Collector Ouphe
-  weight: 0.3333
-  avg_copies: 2.0
 - name: Arnyn, Deathbloom Botanist
   weight: 0.3333
   avg_copies: 2.0
@@ -112,6 +109,9 @@ top_cards:
   weight: 0.3333
   avg_copies: 2.0
 - name: Soulless Jailer
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Collector Ouphe
   weight: 0.3333
   avg_copies: 2.0
 - name: Abrupt Decay
@@ -129,7 +129,31 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.1667
   avg_copies: 2.0
+- name: Overlord of the Balemurk
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Nurturing Peatland
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Break the Ice
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Mai, Scornful Striker
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Shatter Assumptions
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Nihil Spellbomb
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Grist, the Hunger Tide
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Urborg, Tomb of Yawgmoth
   weight: 0.1667
   avg_copies: 1.0
 - name: Undercity Sewers
@@ -138,31 +162,7 @@ top_cards:
 - name: Cling to Dust
   weight: 0.1667
   avg_copies: 1.0
-- name: Nihil Spellbomb
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Nurturing Peatland
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Mai, Scornful Striker
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Urborg, Tomb of Yawgmoth
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Overlord of the Balemurk
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Sephiroth, Fabled SOLDIER
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Ashiok, Dream Render
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Break the Ice
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Shatter Assumptions
   weight: 0.1667
   avg_copies: 1.0
 ---

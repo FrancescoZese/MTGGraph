@@ -5,7 +5,7 @@ name: 'Unknown #86'
 meta_share: 0.0017
 list_count: 9
 top_cards:
-- name: Lightning Bolt
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Monastery Swiftspear
@@ -14,28 +14,28 @@ top_cards:
 - name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
-- name: Lava Spike
-  weight: 1.0
-  avg_copies: 4.0
 - name: Boltwave
   weight: 1.0
   avg_copies: 4.0
-- name: Cori-Steel Cutter
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Lava Dart
+- name: Lava Spike
   weight: 1.0
-  avg_copies: 3.78
+  avg_copies: 4.0
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 3.78
+- name: Lava Dart
+  weight: 1.0
+  avg_copies: 3.78
+- name: Light Up the Stage
+  weight: 1.0
+  avg_copies: 3.67
 - name: Skewer the Critics
   weight: 1.0
   avg_copies: 3.67
 - name: Barbarian Ring
-  weight: 1.0
-  avg_copies: 3.67
-- name: Light Up the Stage
   weight: 1.0
   avg_copies: 3.67
 - name: Tormod's Crypt
@@ -71,10 +71,10 @@ top_cards:
 - name: Snow-Covered Mountain
   weight: 0.4444
   avg_copies: 4.0
-- name: Wooded Foothills
+- name: Bloodstained Mire
   weight: 0.4444
   avg_copies: 3.0
-- name: Bloodstained Mire
+- name: Wooded Foothills
   weight: 0.4444
   avg_copies: 3.0
 - name: Orim's Chant
@@ -107,16 +107,16 @@ top_cards:
 - name: Pyroclasm
   weight: 0.1111
   avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 0.1111
-  avg_copies: 2.0
-- name: Boros Charm
+- name: Path to Exile
   weight: 0.1111
   avg_copies: 2.0
 - name: Gut Shot
   weight: 0.1111
   avg_copies: 2.0
-- name: Path to Exile
+- name: Vexing Bauble
+  weight: 0.1111
+  avg_copies: 2.0
+- name: Boros Charm
   weight: 0.1111
   avg_copies: 2.0
 - name: Engineered Explosives

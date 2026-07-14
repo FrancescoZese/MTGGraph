@@ -162,31 +162,31 @@ top_cards:
 - name: Brainsurge
   weight: 0.0959
   avg_copies: 1.86
-- name: Undercity Sewers
+- name: Hedge Maze
   weight: 0.0959
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Undercity Sewers
   weight: 0.0959
   avg_copies: 1.0
 - name: Windswept Heath
   weight: 0.0822
   avg_copies: 1.33
-- name: Field of Ruin
-  weight: 0.0822
-  avg_copies: 1.17
 - name: Erode
   weight: 0.0822
   avg_copies: 1.17
-- name: Sink into Stupor
-  weight: 0.0685
-  avg_copies: 1.4
+- name: Field of Ruin
+  weight: 0.0822
+  avg_copies: 1.17
 - name: Ashiok, Dream Render
   weight: 0.0685
   avg_copies: 1.4
-- name: Jace, the Mind Sculptor
+- name: Sink into Stupor
+  weight: 0.0685
+  avg_copies: 1.4
+- name: Disruptor Flute
   weight: 0.0685
   avg_copies: 1.0
-- name: Disruptor Flute
+- name: Jace, the Mind Sculptor
   weight: 0.0685
   avg_copies: 1.0
 - name: Temporary Lockdown
@@ -207,31 +207,31 @@ top_cards:
 - name: Snow-Covered Plains
   weight: 0.0411
   avg_copies: 1.0
-- name: Thundertrap Trainer
-  weight: 0.0274
-  avg_copies: 4.0
 - name: Suppression Ray
   weight: 0.0274
   avg_copies: 4.0
-- name: Elegant Parlor
+- name: Thundertrap Trainer
   weight: 0.0274
-  avg_copies: 1.0
-- name: Mistrise Village
-  weight: 0.0274
-  avg_copies: 1.0
-- name: Dress Down
-  weight: 0.0274
-  avg_copies: 1.0
+  avg_copies: 4.0
 - name: Vendilion Clique
-  weight: 0.0274
-  avg_copies: 1.0
-- name: Sacred Foundry
   weight: 0.0274
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.0274
   avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 0.0274
+  avg_copies: 1.0
 - name: Gemstone Caverns
+  weight: 0.0274
+  avg_copies: 1.0
+- name: Mistrise Village
+  weight: 0.0274
+  avg_copies: 1.0
+- name: Elegant Parlor
+  weight: 0.0274
+  avg_copies: 1.0
+- name: Dress Down
   weight: 0.0274
   avg_copies: 1.0
 - name: Celestial Colonnade
@@ -240,19 +240,16 @@ top_cards:
 - name: Terminus
   weight: 0.0137
   avg_copies: 3.0
-- name: Wear
-  weight: 0.0137
-  avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.0137
   avg_copies: 2.0
 - name: Obsidian Charmaw
   weight: 0.0137
   avg_copies: 2.0
-- name: Flashback
+- name: Wear
   weight: 0.0137
-  avg_copies: 1.0
-- name: Hurkyl's Recall
+  avg_copies: 2.0
+- name: Flashback
   weight: 0.0137
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
@@ -264,22 +261,25 @@ top_cards:
 - name: Petrified Hamlet
   weight: 0.0137
   avg_copies: 1.0
-- name: Commandeer
+- name: Meltdown
   weight: 0.0137
   avg_copies: 1.0
-- name: Get Lost
+- name: Hurkyl's Recall
   weight: 0.0137
   avg_copies: 1.0
 - name: Strix Serenade
   weight: 0.0137
   avg_copies: 1.0
-- name: Meltdown
+- name: The Wandering Emperor
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Get Lost
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Commandeer
   weight: 0.0137
   avg_copies: 1.0
 - name: Damping Sphere
-  weight: 0.0137
-  avg_copies: 1.0
-- name: The Wandering Emperor
   weight: 0.0137
   avg_copies: 1.0
 ---

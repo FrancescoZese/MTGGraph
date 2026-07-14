@@ -6,10 +6,10 @@ name: Walking Ballista
 scryfall_id: 5272436e-74f0-44c4-a291-ea8ebc3f1525
 set: 2xm
 type: Artifact Creature — Construct
-meta_presence: 0.0939
+meta_presence: 0.0941
 archetypes:
   eldrazi-tron:
-    weight: 0.8687
+    weight: 0.8692
     avg_copies: 1.0
   hardened-scales:
     weight: 1.0
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.0087
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.6667
+    weight: 0.6606
     avg_copies: 1.73
   azorius-blink:
     weight: 0.0172

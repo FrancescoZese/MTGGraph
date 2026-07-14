@@ -11,13 +11,13 @@ top_cards:
 - name: Subtlety
   weight: 1.0
   avg_copies: 3.97
-- name: Violent Outburst
-  weight: 1.0
-  avg_copies: 3.95
 - name: Force of Negation
   weight: 1.0
   avg_copies: 3.95
 - name: Shardless Agent
+  weight: 1.0
+  avg_copies: 3.95
+- name: Violent Outburst
   weight: 1.0
   avg_copies: 3.95
 - name: Misty Rainforest
@@ -47,13 +47,13 @@ top_cards:
 - name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
 - name: Forest
-  weight: 1.0
-  avg_copies: 1.0
-- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Oliphaunt
@@ -146,10 +146,10 @@ top_cards:
 - name: Leyline of the Void
   weight: 0.1746
   avg_copies: 3.0
-- name: Commandeer
+- name: Magebane Lizard
   weight: 0.1587
   avg_copies: 1.4
-- name: Magebane Lizard
+- name: Commandeer
   weight: 0.1587
   avg_copies: 1.4
 - name: Obsidian Charmaw
@@ -176,58 +176,58 @@ top_cards:
 - name: Mountain
   weight: 0.0794
   avg_copies: 1.0
-- name: Press the Enemy
-  weight: 0.0317
-  avg_copies: 1.0
 - name: Windcaller Aven
   weight: 0.0317
   avg_copies: 1.0
 - name: Flooded Grove
   weight: 0.0317
   avg_copies: 1.0
+- name: Press the Enemy
+  weight: 0.0317
+  avg_copies: 1.0
 - name: Overlord of the Balemurk
   weight: 0.0159
   avg_copies: 4.0
-- name: Architects of Will
+- name: Polluted Delta
   weight: 0.0159
   avg_copies: 3.0
 - name: Fulminator Mage
   weight: 0.0159
   avg_copies: 3.0
-- name: Polluted Delta
+- name: Architects of Will
   weight: 0.0159
   avg_copies: 3.0
-- name: Bonecrusher Giant
-  weight: 0.0159
-  avg_copies: 2.0
-- name: Culling Ritual
-  weight: 0.0159
-  avg_copies: 2.0
 - name: Vendilion Clique
+  weight: 0.0159
+  avg_copies: 2.0
+- name: Bonecrusher Giant
   weight: 0.0159
   avg_copies: 2.0
 - name: card:anger-of-the-gods
   weight: 0.0159
   avg_copies: 2.0
-- name: Collector Ouphe
+- name: Culling Ritual
+  weight: 0.0159
+  avg_copies: 2.0
+- name: Harvester of Misery
   weight: 0.0159
   avg_copies: 1.0
-- name: Arid Mesa
-  weight: 0.0159
-  avg_copies: 1.0
-- name: Underground Mortuary
+- name: Overgrown Tomb
   weight: 0.0159
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.0159
   avg_copies: 1.0
-- name: Harvester of Misery
-  weight: 0.0159
-  avg_copies: 1.0
 - name: Brainsurge
   weight: 0.0159
   avg_copies: 1.0
-- name: Overgrown Tomb
+- name: Underground Mortuary
+  weight: 0.0159
+  avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 0.0159
+  avg_copies: 1.0
+- name: Arid Mesa
   weight: 0.0159
   avg_copies: 1.0
 ---

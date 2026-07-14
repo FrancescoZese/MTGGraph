@@ -73,10 +73,10 @@ top_cards:
 - name: Overgrown Tomb
   weight: 0.7742
   avg_copies: 1.1
-- name: Undercity Sewers
+- name: Halo Forager
   weight: 0.7742
   avg_copies: 1.0
-- name: Halo Forager
+- name: Undercity Sewers
   weight: 0.7742
   avg_copies: 1.0
 - name: Formidable Speaker
@@ -148,10 +148,10 @@ top_cards:
 - name: Lush Portico
   weight: 0.2258
   avg_copies: 1.0
-- name: Fracturing Gust
+- name: Temple Garden
   weight: 0.2258
   avg_copies: 1.0
-- name: Temple Garden
+- name: Fracturing Gust
   weight: 0.2258
   avg_copies: 1.0
 - name: Hallowed Fountain
@@ -175,10 +175,10 @@ top_cards:
 - name: Damping Matrix
   weight: 0.129
   avg_copies: 1.75
-- name: card:summon-bahamut
+- name: card:murderous-rider
   weight: 0.1129
   avg_copies: 1.0
-- name: card:murderous-rider
+- name: card:summon-bahamut
   weight: 0.1129
   avg_copies: 1.0
 - name: Verdant Catacombs
@@ -214,22 +214,22 @@ top_cards:
 - name: Stomping Ground
   weight: 0.0323
   avg_copies: 1.0
-- name: Abhorrent Oculus
+- name: High Noon
   weight: 0.0323
   avg_copies: 1.0
 - name: card:superior-spider-man
   weight: 0.0323
   avg_copies: 1.0
+- name: Abhorrent Oculus
+  weight: 0.0323
+  avg_copies: 1.0
 - name: Windcaller Aven
   weight: 0.0323
   avg_copies: 1.0
-- name: High Noon
-  weight: 0.0323
-  avg_copies: 1.0
-- name: Violent Outburst
+- name: Rough
   weight: 0.0161
   avg_copies: 4.0
-- name: Rough
+- name: Violent Outburst
   weight: 0.0161
   avg_copies: 4.0
 - name: Atraxa, Grand Unifier
@@ -238,52 +238,52 @@ top_cards:
 - name: Fulminator Mage
   weight: 0.0161
   avg_copies: 2.0
-- name: Ashiok, Dream Render
-  weight: 0.0161
-  avg_copies: 2.0
 - name: Soulless Jailer
   weight: 0.0161
   avg_copies: 2.0
-- name: Sunken Ruins
+- name: Ashiok, Dream Render
   weight: 0.0161
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: card:awaken-the-honored-dead
-  weight: 0.0161
-  avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 0.0161
-  avg_copies: 1.0
-- name: Murderous Cut
-  weight: 0.0161
-  avg_copies: 1.0
-- name: Skycoach Conductor
-  weight: 0.0161
-  avg_copies: 1.0
-- name: Press the Enemy
-  weight: 0.0161
-  avg_copies: 1.0
-- name: Kataki, War's Wage
-  weight: 0.0161
-  avg_copies: 1.0
-- name: Gemstone Caverns
-  weight: 0.0161
-  avg_copies: 1.0
-- name: Force of Despair
-  weight: 0.0161
-  avg_copies: 1.0
-- name: Undercity Informer
-  weight: 0.0161
-  avg_copies: 1.0
-- name: Brazen Borrower
   weight: 0.0161
   avg_copies: 1.0
 - name: Brainsurge
   weight: 0.0161
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Force of Despair
+  weight: 0.0161
+  avg_copies: 1.0
+- name: Skycoach Conductor
   weight: 0.0161
   avg_copies: 1.0
 - name: Gloomlake Verge
+  weight: 0.0161
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.0161
+  avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 0.0161
+  avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.0161
+  avg_copies: 1.0
+- name: Kataki, War's Wage
+  weight: 0.0161
+  avg_copies: 1.0
+- name: Brazen Borrower
+  weight: 0.0161
+  avg_copies: 1.0
+- name: Sunken Ruins
+  weight: 0.0161
+  avg_copies: 1.0
+- name: Murderous Cut
+  weight: 0.0161
+  avg_copies: 1.0
+- name: Undercity Informer
+  weight: 0.0161
+  avg_copies: 1.0
+- name: Press the Enemy
   weight: 0.0161
   avg_copies: 1.0
 ---

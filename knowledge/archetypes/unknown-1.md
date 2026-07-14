@@ -6,16 +6,16 @@ name: 'Unknown #1'
 meta_share: 0.0017
 list_count: 9
 top_cards:
-- name: Flare of Malice
-  weight: 1.0
-  avg_copies: 4.0
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodghast
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
-- name: Archon of Cruelty
+- name: Flare of Malice
+  weight: 1.0
+  avg_copies: 4.0
+- name: Bloodghast
   weight: 1.0
   avg_copies: 4.0
 - name: Stitcher's Supplier
@@ -36,22 +36,22 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 1.0
   avg_copies: 2.44
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 2.0
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 2.0
+- name: Brotherhood's End
+  weight: 1.0
+  avg_copies: 2.0
 - name: Swamp
   weight: 1.0
   avg_copies: 2.0
 - name: Village Rites
   weight: 1.0
   avg_copies: 2.0
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 2.0
-- name: Brotherhood's End
-  weight: 1.0
-  avg_copies: 2.0
 - name: Mountain
-  weight: 1.0
-  avg_copies: 2.0
-- name: Polluted Delta
   weight: 1.0
   avg_copies: 2.0
 - name: Corrupted Conviction
@@ -63,10 +63,10 @@ top_cards:
 - name: End the Festivities
   weight: 1.0
   avg_copies: 1.22
-- name: Wooded Foothills
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.0
-- name: Bloodstained Mire
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 1.0
 - name: Spymaster's Vault
@@ -99,19 +99,19 @@ top_cards:
 - name: Unholy Heat
   weight: 0.3333
   avg_copies: 2.33
-- name: Detective's Phoenix
+- name: Engineered Explosives
   weight: 0.3333
   avg_copies: 2.0
 - name: Magus of the Moon
   weight: 0.3333
   avg_copies: 2.0
-- name: Engineered Explosives
+- name: Detective's Phoenix
   weight: 0.3333
   avg_copies: 2.0
-- name: Blood Moon
+- name: Flashback
   weight: 0.2222
   avg_copies: 2.0
-- name: Flashback
+- name: Blood Moon
   weight: 0.2222
   avg_copies: 2.0
 - name: Lightning Skelemental
@@ -120,16 +120,13 @@ top_cards:
 - name: card:electrodominance
   weight: 0.1111
   avg_copies: 4.0
-- name: Living End
-  weight: 0.1111
-  avg_copies: 3.0
 - name: card:thunderkin-awakener
   weight: 0.1111
   avg_copies: 3.0
-- name: Veil of Summer
+- name: Living End
   weight: 0.1111
-  avg_copies: 2.0
-- name: Unearth
+  avg_copies: 3.0
+- name: Veil of Summer
   weight: 0.1111
   avg_copies: 2.0
 - name: Overgrown Tomb
@@ -138,10 +135,13 @@ top_cards:
 - name: Oliphaunt
   weight: 0.1111
   avg_copies: 2.0
-- name: Troll of Khazad-dûm
+- name: Unearth
+  weight: 0.1111
+  avg_copies: 2.0
+- name: Ob Nixilis, the Adversary
   weight: 0.1111
   avg_copies: 1.0
-- name: Ob Nixilis, the Adversary
+- name: Troll of Khazad-dûm
   weight: 0.1111
   avg_copies: 1.0
 ---

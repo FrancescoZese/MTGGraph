@@ -6,37 +6,37 @@ name: 'Unknown #69'
 meta_share: 0.0004
 list_count: 2
 top_cards:
-- name: Necrodominance
-  weight: 1.0
-  avg_copies: 4.0
 - name: Psychic Frog
-  weight: 1.0
-  avg_copies: 4.0
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 4.0
-- name: Soul Spike
-  weight: 1.0
-  avg_copies: 4.0
-- name: Boggart Trawler
   weight: 1.0
   avg_copies: 4.0
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 4.0
+- name: Boggart Trawler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Necrodominance
+  weight: 1.0
+  avg_copies: 4.0
+- name: Soul Spike
+  weight: 1.0
+  avg_copies: 4.0
 - name: Swamp
   weight: 1.0
   avg_copies: 3.5
-- name: Sheoldred, the Apocalypse
+- name: Break the Ice
+  weight: 1.0
+  avg_copies: 3.0
+- name: March of Wretched Sorrow
   weight: 1.0
   avg_copies: 3.0
 - name: Fell the Profane
   weight: 1.0
   avg_copies: 3.0
-- name: Break the Ice
-  weight: 1.0
-  avg_copies: 3.0
-- name: March of Wretched Sorrow
+- name: Sheoldred, the Apocalypse
   weight: 1.0
   avg_copies: 3.0
 - name: Dauthi Voidwalker
@@ -48,25 +48,25 @@ top_cards:
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.5
-- name: Inquisition of Kozilek
+- name: Force of Despair
   weight: 1.0
   avg_copies: 2.0
-- name: Verdant Catacombs
+- name: Inquisition of Kozilek
   weight: 1.0
   avg_copies: 2.0
 - name: Chalice of the Void
   weight: 1.0
   avg_copies: 2.0
-- name: Force of Despair
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 2.0
 - name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.5
-- name: Marsh Flats
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.5
-- name: Watery Grave
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 1.5
 - name: Waterlogged Teachings
@@ -75,7 +75,7 @@ top_cards:
 - name: Consign to Memory
   weight: 0.5
   avg_copies: 4.0
-- name: Sheoldred's Edict
+- name: Tourach, Dread Cantor
   weight: 0.5
   avg_copies: 2.0
 - name: Damping Sphere
@@ -84,22 +84,22 @@ top_cards:
 - name: Polluted Delta
   weight: 0.5
   avg_copies: 2.0
-- name: Tourach, Dread Cantor
+- name: Sheoldred's Edict
   weight: 0.5
   avg_copies: 2.0
+- name: Toxic Deluge
+  weight: 0.5
+  avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.5
   avg_copies: 1.0
-- name: Toxic Deluge
+- name: Castle Locthwain
   weight: 0.5
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.5
   avg_copies: 1.0
 - name: The Meathook Massacre
-  weight: 0.5
-  avg_copies: 1.0
-- name: Castle Locthwain
   weight: 0.5
   avg_copies: 1.0
 ---

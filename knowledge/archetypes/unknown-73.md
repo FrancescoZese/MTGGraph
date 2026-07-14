@@ -6,7 +6,25 @@ name: 'Unknown #73'
 meta_share: 0.0002
 list_count: 1
 top_cards:
-- name: Marsh Flats
+- name: Psychic Frog
+  weight: 1.0
+  avg_copies: 4.0
+- name: Death's Shadow
+  weight: 1.0
+  avg_copies: 4.0
+- name: Thoughtseize
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 4.0
+- name: Counterspell
+  weight: 1.0
+  avg_copies: 4.0
+- name: Watery Grave
+  weight: 1.0
+  avg_copies: 4.0
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
@@ -15,28 +33,10 @@ top_cards:
 - name: Preordain
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
-  weight: 1.0
-  avg_copies: 4.0
-- name: Counterspell
-  weight: 1.0
-  avg_copies: 4.0
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 4.0
-- name: Misty Rainforest
-  weight: 1.0
-  avg_copies: 4.0
-- name: Death's Shadow
-  weight: 1.0
-  avg_copies: 4.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Watery Grave
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thoughtseize
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
 - name: Murktide Regent
@@ -48,10 +48,7 @@ top_cards:
 - name: Flow State
   weight: 1.0
   avg_copies: 3.0
-- name: Spell Snare
-  weight: 1.0
-  avg_copies: 2.0
-- name: Consider
+- name: Nihil Spellbomb
   weight: 1.0
   avg_copies: 2.0
 - name: Stern Scolding
@@ -60,19 +57,25 @@ top_cards:
 - name: Toxic Deluge
   weight: 1.0
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Spell Snare
   weight: 1.0
   avg_copies: 2.0
-- name: Nihil Spellbomb
+- name: Consider
   weight: 1.0
   avg_copies: 2.0
 - name: Hurkyl's Recall
   weight: 1.0
   avg_copies: 2.0
+- name: Mystical Dispute
+  weight: 1.0
+  avg_copies: 2.0
+- name: Otawara, Soaring City
+  weight: 1.0
+  avg_copies: 1.0
 - name: Flusterstorm
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Spell Pierce
   weight: 1.0
   avg_copies: 1.0
 - name: Inquisition of Kozilek
@@ -81,10 +84,7 @@ top_cards:
 - name: Cling to Dust
   weight: 1.0
   avg_copies: 1.0
-- name: Spell Pierce
-  weight: 1.0
-  avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Island

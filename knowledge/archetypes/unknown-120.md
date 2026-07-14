@@ -6,16 +6,16 @@ colors:
 - R
 - G
 name: 'Unknown #120'
-meta_share: 0.0008
-list_count: 4
+meta_share: 0.0009
+list_count: 5
 top_cards:
-- name: Goryo's Vengeance
-  weight: 1.0
-  avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
+- name: Goryo's Vengeance
   weight: 1.0
   avg_copies: 4.0
 - name: Atraxa, Grand Unifier
@@ -23,114 +23,117 @@ top_cards:
   avg_copies: 4.0
 - name: Thoughtseize
   weight: 1.0
-  avg_copies: 3.75
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 3.5
+  avg_copies: 3.8
 - name: Faithless Looting
   weight: 1.0
-  avg_copies: 3.25
+  avg_copies: 3.4
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 3.4
 - name: Bloodstained Mire
   weight: 1.0
-  avg_copies: 3.25
+  avg_copies: 3.4
 - name: Consign to Memory
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 3.17
 - name: Meltdown
   weight: 1.0
-  avg_copies: 2.75
+  avg_copies: 2.8
 - name: Scalding Tarn
   weight: 1.0
-  avg_copies: 2.75
+  avg_copies: 2.8
 - name: Mystical Dispute
   weight: 1.0
-  avg_copies: 2.5
-- name: Pyroclasm
-  weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 2.4
 - name: Force of Negation
   weight: 1.0
   avg_copies: 2.0
-- name: Swamp
+- name: Pyroclasm
   weight: 1.0
-  avg_copies: 1.75
+  avg_copies: 2.0
 - name: Griselbrand
   weight: 1.0
-  avg_copies: 1.75
+  avg_copies: 1.8
+- name: Swamp
+  weight: 1.0
+  avg_copies: 1.6
 - name: Vexing Bauble
   weight: 1.0
-  avg_copies: 1.5
+  avg_copies: 1.4
 - name: Watery Grave
   weight: 1.0
-  avg_copies: 1.25
-- name: Undercity Sewers
-  weight: 1.0
-  avg_copies: 1.0
+  avg_copies: 1.2
 - name: Blood Crypt
-  weight: 1.0
-  avg_copies: 1.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Raucous Theater
-  weight: 1.0
-  avg_copies: 1.0
-- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Island
   weight: 1.0
   avg_copies: 1.0
+- name: Raucous Theater
+  weight: 1.0
+  avg_copies: 1.0
+- name: Undercity Sewers
+  weight: 1.0
+  avg_copies: 1.0
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 1.0
+  avg_copies: 1.0
 - name: Emperor of Bones
-  weight: 0.75
-  avg_copies: 3.67
+  weight: 0.8
+  avg_copies: 3.75
 - name: Spell Snare
-  weight: 0.75
-  avg_copies: 2.33
+  weight: 0.8
+  avg_copies: 2.5
 - name: Nihil Spellbomb
-  weight: 0.75
+  weight: 0.8
   avg_copies: 1.0
 - name: Surgical Extraction
-  weight: 0.75
+  weight: 0.8
   avg_copies: 1.0
 - name: Ulamog, the Defiler
-  weight: 0.5
+  weight: 0.6
   avg_copies: 3.0
 - name: Feed the Swarm
-  weight: 0.5
-  avg_copies: 1.5
-- name: Sink into Stupor
-  weight: 0.5
-  avg_copies: 1.0
+  weight: 0.6
+  avg_copies: 1.67
 - name: Prismari Charm
-  weight: 0.5
+  weight: 0.4
+  avg_copies: 1.0
+- name: Sink into Stupor
+  weight: 0.4
+  avg_copies: 1.0
+- name: Bitter Triumph
+  weight: 0.4
   avg_copies: 1.0
 - name: Quantum Riddler
-  weight: 0.25
+  weight: 0.2
   avg_copies: 4.0
 - name: Tamiyo, Inquisitive Student
-  weight: 0.25
+  weight: 0.2
   avg_copies: 4.0
-- name: Traumatic Critique
-  weight: 0.25
-  avg_copies: 3.0
 - name: Subtlety
-  weight: 0.25
+  weight: 0.2
+  avg_copies: 3.0
+- name: Traumatic Critique
+  weight: 0.2
   avg_copies: 3.0
 - name: Damping Sphere
-  weight: 0.25
+  weight: 0.2
   avg_copies: 2.0
-- name: Bitter Triumph
-  weight: 0.25
-  avg_copies: 1.0
-- name: Kavaero, Mind-Bitten
-  weight: 0.25
+- name: Kolaghan's Command
+  weight: 0.2
   avg_copies: 1.0
 - name: Flame of Anor
-  weight: 0.25
+  weight: 0.2
   avg_copies: 1.0
-- name: Kolaghan's Command
-  weight: 0.25
+- name: Kavaero, Mind-Bitten
+  weight: 0.2
+  avg_copies: 1.0
+- name: card:izzet-charm
+  weight: 0.2
   avg_copies: 1.0
 ---
 Unclassified archetype, pending review.

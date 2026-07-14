@@ -11,6 +11,6 @@ type: Sorcery
 meta_presence: 0.0008
 archetypes:
   ruby-storm:
-    weight: 0.0215
+    weight: 0.0214
     avg_copies: 1.0
 ---

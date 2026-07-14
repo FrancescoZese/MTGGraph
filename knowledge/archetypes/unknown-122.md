@@ -6,6 +6,12 @@ name: 'Unknown #122'
 meta_share: 0.0044
 list_count: 23
 top_cards:
+- name: Cori-Steel Cutter
+  weight: 1.0
+  avg_copies: 4.0
+- name: Dragon's Rage Channeler
+  weight: 1.0
+  avg_copies: 4.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
@@ -13,12 +19,6 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Preordain
-  weight: 1.0
-  avg_copies: 4.0
-- name: Dragon's Rage Channeler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Stormchaser's Talent
@@ -111,10 +111,10 @@ top_cards:
 - name: Violent Urge
   weight: 0.1739
   avg_copies: 1.6
-- name: Mystical Dispute
+- name: Chalice of the Void
   weight: 0.1304
   avg_copies: 2.0
-- name: Chalice of the Void
+- name: Mystical Dispute
   weight: 0.1304
   avg_copies: 2.0
 - name: Ragavan, Nimble Pilferer
@@ -141,46 +141,46 @@ top_cards:
 - name: Monstrous Rage
   weight: 0.087
   avg_copies: 1.67
-- name: Thoughtseize
-  weight: 0.0435
-  avg_copies: 4.0
 - name: Questing Druid
   weight: 0.0435
   avg_copies: 4.0
-- name: Wear
+- name: Thoughtseize
+  weight: 0.0435
+  avg_copies: 4.0
+- name: Misty Rainforest
   weight: 0.0435
   avg_copies: 2.0
 - name: Nihil Spellbomb
   weight: 0.0435
   avg_copies: 2.0
+- name: Wear
+  weight: 0.0435
+  avg_copies: 2.0
 - name: Vexing Bauble
   weight: 0.0435
   avg_copies: 2.0
-- name: Misty Rainforest
+- name: Blood Crypt
   weight: 0.0435
-  avg_copies: 2.0
+  avg_copies: 1.0
+- name: End of the Hunt
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Fire Magic
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Spell Snare
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Hurkyl's Recall
+  weight: 0.0435
+  avg_copies: 1.0
 - name: Accumulate Wisdom
   weight: 0.0435
   avg_copies: 1.0
 - name: Redirect Lightning
   weight: 0.0435
   avg_copies: 1.0
-- name: Blood Crypt
-  weight: 0.0435
-  avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.0435
-  avg_copies: 1.0
 - name: Sacred Foundry
-  weight: 0.0435
-  avg_copies: 1.0
-- name: Spell Snare
-  weight: 0.0435
-  avg_copies: 1.0
-- name: Fire Magic
-  weight: 0.0435
-  avg_copies: 1.0
-- name: End of the Hunt
   weight: 0.0435
   avg_copies: 1.0
 ---

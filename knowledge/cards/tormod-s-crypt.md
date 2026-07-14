@@ -45,7 +45,7 @@ archetypes:
     weight: 0.2087
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.4695
+    weight: 0.4715
     avg_copies: 1.69
   dredge:
     weight: 0.0417
@@ -54,7 +54,7 @@ archetypes:
     weight: 0.4688
     avg_copies: 1.06
   goryo1:
-    weight: 0.0347
+    weight: 0.0345
     avg_copies: 1.4
   goryo7:
     weight: 1.0
@@ -111,7 +111,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.4038
+    weight: 0.3962
     avg_copies: 1.0
   unknown-159:
     weight: 1.0

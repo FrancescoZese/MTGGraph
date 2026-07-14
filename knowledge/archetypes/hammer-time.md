@@ -6,10 +6,10 @@ name: Hammer Time
 meta_share: 0.0021
 list_count: 11
 top_cards:
-- name: Colossus Hammer
+- name: Stoneforge Mystic
   weight: 1.0
   avg_copies: 4.0
-- name: Stoneforge Mystic
+- name: Colossus Hammer
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
@@ -156,16 +156,16 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.0909
   avg_copies: 1.0
-- name: Skateboard
+- name: Spell Snare
   weight: 0.0909
   avg_copies: 1.0
-- name: Spell Snare
+- name: Umezawa's Jitte
   weight: 0.0909
   avg_copies: 1.0
 - name: card:spider-sense
   weight: 0.0909
   avg_copies: 1.0
-- name: Umezawa's Jitte
+- name: Skateboard
   weight: 0.0909
   avg_copies: 1.0
 ---

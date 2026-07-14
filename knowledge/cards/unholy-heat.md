@@ -7,7 +7,7 @@ name: Unholy Heat
 scryfall_id: 4e879386-b1f8-4f2a-9820-6e1291746f88
 set: otc
 type: Instant
-meta_presence: 0.1011
+meta_presence: 0.1012
 archetypes:
   jeskai-energy:
     weight: 0.0763
@@ -25,10 +25,10 @@ archetypes:
     weight: 0.5565
     avg_copies: 2.04
   izzet-prowess:
-    weight: 0.9427
-    avg_copies: 2.56
+    weight: 0.943
+    avg_copies: 2.55
   broodscale-combo:
-    weight: 0.4429
+    weight: 0.4434
     avg_copies: 2.03
   dredge:
     weight: 0.0833
@@ -55,7 +55,7 @@ archetypes:
     weight: 0.5
     avg_copies: 3.0
   goryo1:
-    weight: 0.0278
+    weight: 0.0276
     avg_copies: 1.0
   izzet-murktide:
     weight: 1.0

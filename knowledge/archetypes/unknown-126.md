@@ -7,16 +7,16 @@ name: 'Unknown #126'
 meta_share: 0.0036
 list_count: 19
 top_cards:
-- name: Badgermole Cub
-  weight: 1.0
-  avg_copies: 4.0
 - name: Nature's Rhythm
   weight: 1.0
   avg_copies: 4.0
-- name: Devoted Druid
+- name: Badgermole Cub
+  weight: 1.0
+  avg_copies: 4.0
+- name: Tyvar, Jubilant Brawler
   weight: 1.0
   avg_copies: 3.95
-- name: Tyvar, Jubilant Brawler
+- name: Devoted Druid
   weight: 1.0
   avg_copies: 3.95
 - name: Green Sun's Zenith
@@ -49,19 +49,19 @@ top_cards:
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.11
-- name: Collector Ouphe
-  weight: 1.0
-  avg_copies: 1.0
 - name: Duskwatch Recruiter
   weight: 1.0
   avg_copies: 1.0
-- name: Underground Mortuary
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 - name: Walking Ballista
   weight: 1.0
   avg_copies: 1.0
-- name: Temple Garden
+- name: Underground Mortuary
+  weight: 1.0
+  avg_copies: 1.0
+- name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
 - name: card:birds-of-paradise
@@ -85,28 +85,28 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.8947
   avg_copies: 1.06
-- name: Godless Shrine
+- name: Suncleanser
   weight: 0.8947
   avg_copies: 1.0
-- name: Suncleanser
+- name: Godless Shrine
   weight: 0.8947
   avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.8421
   avg_copies: 1.12
-- name: Lush Portico
+- name: Keen-Eyed Curator
   weight: 0.8421
   avg_copies: 1.0
-- name: Kraul Harpooner
+- name: Lush Portico
   weight: 0.8421
   avg_copies: 1.0
 - name: Outland Liberator
   weight: 0.8421
   avg_copies: 1.0
-- name: Eternal Witness
+- name: Kraul Harpooner
   weight: 0.8421
   avg_copies: 1.0
-- name: Keen-Eyed Curator
+- name: Eternal Witness
   weight: 0.8421
   avg_copies: 1.0
 - name: Orim's Chant
@@ -145,10 +145,10 @@ top_cards:
 - name: Leyline of Abundance
   weight: 0.1053
   avg_copies: 4.0
-- name: Wooded Foothills
+- name: Fade from History
   weight: 0.1053
   avg_copies: 2.0
-- name: Fade from History
+- name: Wooded Foothills
   weight: 0.1053
   avg_copies: 2.0
 - name: Nurturing Peatland
@@ -157,25 +157,25 @@ top_cards:
 - name: card:fiend-artisan
   weight: 0.1053
   avg_copies: 1.0
-- name: Thoughtseize
-  weight: 0.0526
-  avg_copies: 2.0
 - name: Postmortem Lunge
   weight: 0.0526
   avg_copies: 2.0
-- name: Six
+- name: Thoughtseize
   weight: 0.0526
-  avg_copies: 1.0
-- name: card:guerrilla-gorilla
-  weight: 0.0526
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Formidable Speaker
   weight: 0.0526
   avg_copies: 1.0
 - name: Reclamation Sage
   weight: 0.0526
   avg_copies: 1.0
+- name: card:guerrilla-gorilla
+  weight: 0.0526
+  avg_copies: 1.0
 - name: Crystal Barricade
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Six
   weight: 0.0526
   avg_copies: 1.0
 ---
