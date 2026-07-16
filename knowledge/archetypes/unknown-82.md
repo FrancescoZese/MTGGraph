@@ -6,16 +6,7 @@ name: 'Unknown #82'
 meta_share: 0.0006
 list_count: 3
 top_cards:
-- name: Consign to Memory
-  weight: 1.0
-  avg_copies: 4.0
-- name: Galvanic Discharge
-  weight: 1.0
-  avg_copies: 4.0
-- name: Counterspell
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flame of Anor
+- name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
 - name: Thundertrap Trainer
@@ -24,7 +15,16 @@ top_cards:
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
-- name: Tamiyo, Inquisitive Student
+- name: Consign to Memory
+  weight: 1.0
+  avg_copies: 4.0
+- name: Counterspell
+  weight: 1.0
+  avg_copies: 4.0
+- name: Galvanic Discharge
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flame of Anor
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
@@ -45,9 +45,6 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 2.0
-- name: Spell Snare
-  weight: 1.0
-  avg_copies: 2.0
 - name: Meltdown
   weight: 1.0
   avg_copies: 2.0
@@ -57,10 +54,13 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
-- name: Otawara, Soaring City
+- name: Spell Snare
+  weight: 1.0
+  avg_copies: 2.0
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
 - name: Force of Negation
@@ -72,19 +72,19 @@ top_cards:
 - name: Tune the Narrative
   weight: 0.6667
   avg_copies: 4.0
-- name: Harbinger of the Seas
+- name: Pyroclasm
   weight: 0.6667
   avg_copies: 2.0
-- name: Pyroclasm
+- name: Harbinger of the Seas
   weight: 0.6667
   avg_copies: 2.0
 - name: Spirebluff Canal
   weight: 0.6667
   avg_copies: 2.0
-- name: Stern Scolding
+- name: Mountain
   weight: 0.6667
   avg_copies: 1.0
-- name: Mountain
+- name: Stern Scolding
   weight: 0.6667
   avg_copies: 1.0
 - name: Traumatic Critique
@@ -93,16 +93,16 @@ top_cards:
 - name: Lightning Bolt
   weight: 0.3333
   avg_copies: 2.0
-- name: Murktide Regent
+- name: Great Hall of the Biblioplex
   weight: 0.3333
   avg_copies: 2.0
 - name: Fire Magic
   weight: 0.3333
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Murktide Regent
   weight: 0.3333
   avg_copies: 2.0
-- name: Great Hall of the Biblioplex
+- name: Damping Sphere
   weight: 0.3333
   avg_copies: 2.0
 - name: Prismari Charm

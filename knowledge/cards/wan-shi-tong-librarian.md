@@ -7,25 +7,25 @@ name: Wan Shi Tong, Librarian
 scryfall_id: e20da6b5-1057-4a28-9e85-07de714e262f
 set: tla
 type: Legendary Creature — Bird Spirit
-meta_presence: 0.0199
+meta_presence: 0.0193
 archetypes:
   dimir-control:
     weight: 0.716
     avg_copies: 2.48
   azorius-control:
-    weight: 0.0411
+    weight: 0.0395
     avg_copies: 1.33
   neoform-combo:
     weight: 0.0317
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.0517
+    weight: 0.05
     avg_copies: 1.33
   esper-control:
     weight: 1.0
     avg_copies: 2.0
   izzet-wizards:
-    weight: 0.4545
+    weight: 0.4167
     avg_copies: 2.4
   unknown-17:
     weight: 1.0
@@ -37,7 +37,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-47:
-    weight: 0.0541
+    weight: 0.0494
     avg_copies: 1.5
   unknown-87:
     weight: 1.0

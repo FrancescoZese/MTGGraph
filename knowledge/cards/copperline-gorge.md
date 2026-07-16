@@ -9,6 +9,6 @@ type: Land
 meta_presence: 0.0059
 archetypes:
   cosmogoyf-fling:
-    weight: 0.9394
-    avg_copies: 2.97
+    weight: 0.9412
+    avg_copies: 3.0
 ---

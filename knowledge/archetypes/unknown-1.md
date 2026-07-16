@@ -6,16 +6,16 @@ name: 'Unknown #1'
 meta_share: 0.0017
 list_count: 9
 top_cards:
-- name: Faithless Looting
+- name: Bloodghast
   weight: 1.0
   avg_copies: 4.0
-- name: Archon of Cruelty
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Flare of Malice
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodghast
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
 - name: Stitcher's Supplier
@@ -39,19 +39,19 @@ top_cards:
 - name: Fatal Push
   weight: 1.0
   avg_copies: 2.0
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 2.0
-- name: Brotherhood's End
+- name: Village Rites
   weight: 1.0
   avg_copies: 2.0
 - name: Swamp
   weight: 1.0
   avg_copies: 2.0
-- name: Village Rites
+- name: Mountain
   weight: 1.0
   avg_copies: 2.0
-- name: Mountain
+- name: Brotherhood's End
+  weight: 1.0
+  avg_copies: 2.0
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 2.0
 - name: Corrupted Conviction
@@ -108,10 +108,10 @@ top_cards:
 - name: Detective's Phoenix
   weight: 0.3333
   avg_copies: 2.0
-- name: Flashback
+- name: Blood Moon
   weight: 0.2222
   avg_copies: 2.0
-- name: Blood Moon
+- name: Flashback
   weight: 0.2222
   avg_copies: 2.0
 - name: Lightning Skelemental
@@ -120,22 +120,22 @@ top_cards:
 - name: card:electrodominance
   weight: 0.1111
   avg_copies: 4.0
-- name: card:thunderkin-awakener
-  weight: 0.1111
-  avg_copies: 3.0
 - name: Living End
   weight: 0.1111
   avg_copies: 3.0
-- name: Veil of Summer
+- name: card:thunderkin-awakener
+  weight: 0.1111
+  avg_copies: 3.0
+- name: Oliphaunt
+  weight: 0.1111
+  avg_copies: 2.0
+- name: Unearth
   weight: 0.1111
   avg_copies: 2.0
 - name: Overgrown Tomb
   weight: 0.1111
   avg_copies: 2.0
-- name: Oliphaunt
-  weight: 0.1111
-  avg_copies: 2.0
-- name: Unearth
+- name: Veil of Summer
   weight: 0.1111
   avg_copies: 2.0
 - name: Ob Nixilis, the Adversary

@@ -7,10 +7,10 @@ name: Portent of Calamity
 scryfall_id: 8599e2dd-9164-4da3-814f-adccef3b9497
 set: blb
 type: Sorcery
-meta_presence: 0.0042
+meta_presence: 0.004
 archetypes:
   eldrazi-tron:
-    weight: 0.0038
+    weight: 0.0037
     avg_copies: 4.0
   mono-blue-tron:
     weight: 0.85

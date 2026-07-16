@@ -3,22 +3,22 @@ colors:
 - U
 - R
 name: 'Unknown #122'
-meta_share: 0.0044
+meta_share: 0.0042
 list_count: 23
 top_cards:
-- name: Cori-Steel Cutter
-  weight: 1.0
-  avg_copies: 4.0
 - name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
-- name: Lightning Bolt
+- name: Preordain
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Lava Dart
   weight: 1.0
   avg_copies: 4.0
-- name: Preordain
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Stormchaser's Talent
@@ -78,10 +78,10 @@ top_cards:
 - name: Firebending Lesson
   weight: 0.4783
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Origin of Metalbending
   weight: 0.3913
   avg_copies: 1.0
-- name: Origin of Metalbending
+- name: Stomping Ground
   weight: 0.3913
   avg_copies: 1.0
 - name: Experimental Synthesizer
@@ -90,10 +90,10 @@ top_cards:
 - name: Fiery Islet
   weight: 0.3478
   avg_copies: 1.38
-- name: Abandon Attachments
+- name: Surgical Extraction
   weight: 0.3478
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Abandon Attachments
   weight: 0.3478
   avg_copies: 1.0
 - name: Spirebluff Canal
@@ -111,10 +111,10 @@ top_cards:
 - name: Violent Urge
   weight: 0.1739
   avg_copies: 1.6
-- name: Chalice of the Void
+- name: Mystical Dispute
   weight: 0.1304
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Chalice of the Void
   weight: 0.1304
   avg_copies: 2.0
 - name: Ragavan, Nimble Pilferer
@@ -129,13 +129,13 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.1304
   avg_copies: 1.0
-- name: Iroh's Demonstration
-  weight: 0.1304
-  avg_copies: 1.0
 - name: Price of Freedom
   weight: 0.1304
   avg_copies: 1.0
 - name: Octopus Form
+  weight: 0.1304
+  avg_copies: 1.0
+- name: Iroh's Demonstration
   weight: 0.1304
   avg_copies: 1.0
 - name: Monstrous Rage
@@ -147,28 +147,25 @@ top_cards:
 - name: Thoughtseize
   weight: 0.0435
   avg_copies: 4.0
-- name: Misty Rainforest
-  weight: 0.0435
-  avg_copies: 2.0
 - name: Nihil Spellbomb
-  weight: 0.0435
-  avg_copies: 2.0
-- name: Wear
   weight: 0.0435
   avg_copies: 2.0
 - name: Vexing Bauble
   weight: 0.0435
   avg_copies: 2.0
-- name: Blood Crypt
+- name: Wear
+  weight: 0.0435
+  avg_copies: 2.0
+- name: Misty Rainforest
+  weight: 0.0435
+  avg_copies: 2.0
+- name: Redirect Lightning
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Sacred Foundry
   weight: 0.0435
   avg_copies: 1.0
 - name: End of the Hunt
-  weight: 0.0435
-  avg_copies: 1.0
-- name: Fire Magic
-  weight: 0.0435
-  avg_copies: 1.0
-- name: Spell Snare
   weight: 0.0435
   avg_copies: 1.0
 - name: Hurkyl's Recall
@@ -177,10 +174,13 @@ top_cards:
 - name: Accumulate Wisdom
   weight: 0.0435
   avg_copies: 1.0
-- name: Redirect Lightning
+- name: Blood Crypt
   weight: 0.0435
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Fire Magic
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Spell Snare
   weight: 0.0435
   avg_copies: 1.0
 ---

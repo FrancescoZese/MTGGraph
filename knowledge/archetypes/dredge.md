@@ -5,7 +5,7 @@ colors:
 - R
 - G
 name: Dredge
-meta_share: 0.0046
+meta_share: 0.0044
 list_count: 24
 top_cards:
 - name: Stinkweed Imp
@@ -44,10 +44,10 @@ top_cards:
 - name: Artist's Talent
   weight: 0.9167
   avg_copies: 2.7
-- name: Stomping Ground
+- name: Mountain
   weight: 0.9167
   avg_copies: 1.82
-- name: Mountain
+- name: Stomping Ground
   weight: 0.9167
   avg_copies: 1.82
 - name: Boseiju, Who Endures
@@ -113,10 +113,10 @@ top_cards:
 - name: Ray of Revelation
   weight: 0.1667
   avg_copies: 1.75
-- name: Ox of Agonas
+- name: Consign to Memory
   weight: 0.0833
   avg_copies: 3.5
-- name: Consign to Memory
+- name: Ox of Agonas
   weight: 0.0833
   avg_copies: 3.5
 - name: Unholy Heat
@@ -137,10 +137,10 @@ top_cards:
 - name: Vengevine
   weight: 0.0417
   avg_copies: 4.0
-- name: Manamorphose
+- name: Hedron Crab
   weight: 0.0417
   avg_copies: 4.0
-- name: Hedron Crab
+- name: Manamorphose
   weight: 0.0417
   avg_copies: 4.0
 - name: Blazing Rootwalla
@@ -152,34 +152,25 @@ top_cards:
 - name: Stitcher's Supplier
   weight: 0.0417
   avg_copies: 4.0
-- name: Gemstone Caverns
-  weight: 0.0417
-  avg_copies: 3.0
-- name: Narcomoeba
-  weight: 0.0417
-  avg_copies: 3.0
-- name: Darkblast
+- name: Snow-Covered Mountain
   weight: 0.0417
   avg_copies: 3.0
 - name: Silversmote Ghoul
   weight: 0.0417
   avg_copies: 3.0
+- name: Darkblast
+  weight: 0.0417
+  avg_copies: 3.0
+- name: Narcomoeba
+  weight: 0.0417
+  avg_copies: 3.0
+- name: Gemstone Caverns
+  weight: 0.0417
+  avg_copies: 3.0
 - name: Seal of Fire
   weight: 0.0417
   avg_copies: 3.0
-- name: Snow-Covered Mountain
-  weight: 0.0417
-  avg_copies: 3.0
-- name: Fire Magic
-  weight: 0.0417
-  avg_copies: 2.0
-- name: Leyline of the Void
-  weight: 0.0417
-  avg_copies: 2.0
 - name: Into the Flood Maw
-  weight: 0.0417
-  avg_copies: 2.0
-- name: Molten Collapse
   weight: 0.0417
   avg_copies: 2.0
 - name: Damping Sphere
@@ -188,28 +179,37 @@ top_cards:
 - name: Timeline Culler
   weight: 0.0417
   avg_copies: 2.0
+- name: Molten Collapse
+  weight: 0.0417
+  avg_copies: 2.0
+- name: Fire Magic
+  weight: 0.0417
+  avg_copies: 2.0
+- name: Leyline of the Void
+  weight: 0.0417
+  avg_copies: 2.0
 - name: Illness in the Ranks
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Cephalid Coliseum
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Detective's Phoenix
   weight: 0.0417
   avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.0417
   avg_copies: 1.0
-- name: Watery Grave
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Shenanigans
+- name: Cephalid Coliseum
   weight: 0.0417
   avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 0.0417
   avg_copies: 1.0
+- name: Shenanigans
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Detective's Phoenix
+  weight: 0.0417
+  avg_copies: 1.0
 - name: Rough
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Watery Grave
   weight: 0.0417
   avg_copies: 1.0
 ---

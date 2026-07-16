@@ -7,7 +7,7 @@ name: Kataki, War's Wage
 scryfall_id: 4d84ac44-01d8-415e-af69-7c608ac8ae20
 set: mma
 type: Legendary Creature — Spirit
-meta_presence: 0.018
+meta_presence: 0.0176
 archetypes:
   boros-energy:
     weight: 0.0015
@@ -16,16 +16,16 @@ archetypes:
     weight: 0.0305
     avg_copies: 1.0
   living-end:
-    weight: 0.0161
+    weight: 0.0154
     avg_copies: 1.0
   boros-ponza:
     weight: 0.4786
     avg_copies: 1.94
   esper-blink:
-    weight: 0.0103
+    weight: 0.0101
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.0345
+    weight: 0.0333
     avg_copies: 1.0
   devoted-combo:
     weight: 1.0
@@ -36,6 +36,9 @@ archetypes:
   unknown-65:
     weight: 0.0357
     avg_copies: 2.0
+  unknown-67:
+    weight: 0.0154
+    avg_copies: 1.0
   unknown-83:
     weight: 1.0
     avg_copies: 2.0
@@ -49,6 +52,6 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-160:
-    weight: 0.2075
+    weight: 0.193
     avg_copies: 1.0
 ---

@@ -7,12 +7,12 @@ name: Chandra, Awakened Inferno
 scryfall_id: 0d4fb926-fe8c-4640-ac8d-ef418b8945d5
 set: cmm
 type: Legendary Planeswalker — Chandra
-meta_presence: 0.0036
+meta_presence: 0.004
 archetypes:
   boros-ponza:
     weight: 0.0571
     avg_copies: 1.0
   unknown-160:
-    weight: 0.2075
-    avg_copies: 1.73
+    weight: 0.2456
+    avg_copies: 1.64
 ---

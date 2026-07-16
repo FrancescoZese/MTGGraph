@@ -6,7 +6,7 @@ name: Kozilek's Command
 scryfall_id: 92585587-cfdc-406a-9114-4f6dd8802c37
 set: mh3
 type: Kindred Instant — Eldrazi
-meta_presence: 0.1329
+meta_presence: 0.1353
 archetypes:
   eldrazi-tron:
     weight: 1.0
@@ -16,7 +16,7 @@ archetypes:
     avg_copies: 4.0
   eldrazi-ramp:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.97
   broodscale-combo:
     weight: 1.0
     avg_copies: 3.95
@@ -60,6 +60,9 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-189:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-194:
     weight: 1.0
     avg_copies: 4.0
 ---

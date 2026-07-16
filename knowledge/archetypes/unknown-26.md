@@ -3,22 +3,22 @@ colors:
 - W
 - R
 name: 'Unknown #26'
-meta_share: 0.0038
+meta_share: 0.0037
 list_count: 20
 top_cards:
-- name: Cleansing Wildfire
-  weight: 1.0
-  avg_copies: 4.0
 - name: Demolition Field
   weight: 1.0
   avg_copies: 4.0
 - name: Field of Ruin
   weight: 1.0
   avg_copies: 4.0
-- name: Price of Freedom
+- name: Cleansing Wildfire
+  weight: 1.0
+  avg_copies: 4.0
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 3.95
-- name: Wrath of the Skies
+- name: Price of Freedom
   weight: 1.0
   avg_copies: 3.95
 - name: Path to Exile
@@ -42,10 +42,10 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.9
-- name: Erode
+- name: Cori Mountain Monastery
   weight: 0.95
   avg_copies: 3.84
-- name: Cori Mountain Monastery
+- name: Erode
   weight: 0.95
   avg_copies: 3.84
 - name: Kaheera, the Orphanguard
@@ -96,16 +96,16 @@ top_cards:
 - name: Galvanic Discharge
   weight: 0.2
   avg_copies: 2.5
-- name: Calamity's Wake
-  weight: 0.1
-  avg_copies: 4.0
 - name: Arid Mesa
   weight: 0.1
   avg_copies: 4.0
-- name: Mazemind Tome
+- name: Calamity's Wake
   weight: 0.1
   avg_copies: 4.0
 - name: card:avengers-disassembled
+  weight: 0.1
+  avg_copies: 4.0
+- name: Mazemind Tome
   weight: 0.1
   avg_copies: 4.0
 - name: Reprieve
@@ -126,27 +126,30 @@ top_cards:
 - name: Crucible of Worlds
   weight: 0.1
   avg_copies: 1.0
+- name: Volcanic Spite
+  weight: 0.05
+  avg_copies: 4.0
+- name: White Orchid Phantom
+  weight: 0.05
+  avg_copies: 4.0
 - name: card:kutzil-s-flanker
   weight: 0.05
   avg_copies: 4.0
 - name: Lightning Helix
   weight: 0.05
   avg_copies: 4.0
-- name: White Orchid Phantom
-  weight: 0.05
-  avg_copies: 4.0
-- name: Volcanic Spite
-  weight: 0.05
-  avg_copies: 4.0
 - name: Ark of Hunger
   weight: 0.05
   avg_copies: 4.0
-- name: Candy Trail
-  weight: 0.05
-  avg_copies: 3.0
 - name: Ragavan, Nimble Pilferer
   weight: 0.05
   avg_copies: 3.0
+- name: Candy Trail
+  weight: 0.05
+  avg_copies: 3.0
+- name: Hallowed Moonlight
+  weight: 0.05
+  avg_copies: 2.0
 - name: Flashback
   weight: 0.05
   avg_copies: 2.0
@@ -156,13 +159,10 @@ top_cards:
 - name: card:vanish-into-eternity
   weight: 0.05
   avg_copies: 2.0
-- name: Hallowed Moonlight
-  weight: 0.05
-  avg_copies: 2.0
-- name: Elixir of Immortality
+- name: Emrakul, the Aeons Torn
   weight: 0.05
   avg_copies: 1.0
-- name: Emrakul, the Aeons Torn
+- name: Elixir of Immortality
   weight: 0.05
   avg_copies: 1.0
 ---

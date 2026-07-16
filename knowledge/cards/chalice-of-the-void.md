@@ -6,19 +6,19 @@ name: Chalice of the Void
 scryfall_id: 1f0d2e8e-c8f2-4b31-a6ba-6283fc8740d4
 set: a25
 type: Artifact
-meta_presence: 0.053
+meta_presence: 0.0551
 archetypes:
   eldrazi-tron:
-    weight: 0.5769
+    weight: 0.5852
     avg_copies: 1.72
   goryo:
-    weight: 0.0039
+    weight: 0.0037
     avg_copies: 1.0
   necrodominance:
-    weight: 0.1
-    avg_copies: 2.25
+    weight: 0.119
+    avg_copies: 2.0
   azorius-control:
-    weight: 0.1507
+    weight: 0.1447
     avg_copies: 1.73
   mill:
     weight: 0.0645
@@ -30,31 +30,31 @@ archetypes:
     weight: 0.0071
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.0625
+    weight: 0.0617
     avg_copies: 2.4
   eldrazi-ramp:
-    weight: 0.2087
-    avg_copies: 1.25
+    weight: 0.2119
+    avg_copies: 1.27
   simic-ritual:
-    weight: 0.0769
+    weight: 0.0875
     avg_copies: 2.0
   esper-blink:
-    weight: 0.0412
+    weight: 0.0404
     avg_copies: 1.0
   naya-midrange:
     weight: 1.0
     avg_copies: 1.0
   goryo4:
-    weight: 0.8333
-    avg_copies: 2.76
+    weight: 0.85
+    avg_copies: 2.64
   goryo5:
-    weight: 0.4375
+    weight: 0.4118
     avg_copies: 1.86
   sultai-midrange:
     weight: 0.3333
     avg_copies: 2.0
   unknown-27:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
   unknown-37:
     weight: 1.0
@@ -63,22 +63,25 @@ archetypes:
     weight: 0.8
     avg_copies: 2.88
   unknown-47:
-    weight: 0.2162
-    avg_copies: 1.94
+    weight: 0.2346
+    avg_copies: 1.95
+  unknown-61:
+    weight: 0.0357
+    avg_copies: 4.0
   unknown-55:
     weight: 1.0
     avg_copies: 4.0
   unknown-69:
-    weight: 1.0
-    avg_copies: 2.0
+    weight: 0.75
+    avg_copies: 1.67
   unknown-75:
     weight: 1.0
     avg_copies: 2.0
   unknown-85:
-    weight: 0.0833
+    weight: 0.0667
     avg_copies: 1.0
   unknown-97:
-    weight: 0.125
+    weight: 0.1
     avg_copies: 1.0
   unknown-103:
     weight: 1.0
@@ -89,6 +92,9 @@ archetypes:
   unknown-122:
     weight: 0.1304
     avg_copies: 2.0
+  unknown-139:
+    weight: 0.2
+    avg_copies: 1.0
   unknown-143:
     weight: 1.0
     avg_copies: 4.0

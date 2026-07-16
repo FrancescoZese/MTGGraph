@@ -7,14 +7,14 @@ name: Prismatic Ending
 scryfall_id: 825969b9-3c70-4fca-8cab-696e9ca7cdb2
 set: mh2
 type: Sorcery
-meta_presence: 0.1682
+meta_presence: 0.1696
 archetypes:
   ruby-storm:
-    weight: 0.9091
-    avg_copies: 3.29
+    weight: 0.9133
+    avg_copies: 3.28
   boros-energy:
-    weight: 0.038
-    avg_copies: 1.17
+    weight: 0.042
+    avg_copies: 1.16
   dimir-control:
     weight: 0.037
     avg_copies: 1.0
@@ -22,20 +22,20 @@ archetypes:
     weight: 0.5954
     avg_copies: 1.73
   eldrazi-tron:
-    weight: 0.0038
+    weight: 0.0037
     avg_copies: 2.0
   goryo:
-    weight: 0.9845
-    avg_copies: 2.24
+    weight: 0.9853
+    avg_copies: 2.23
   azorius-control:
     weight: 1.0
-    avg_copies: 3.34
+    avg_copies: 3.3
   jeskai-control:
-    weight: 0.9524
-    avg_copies: 2.08
+    weight: 0.9556
+    avg_copies: 2.07
   domain-zoo:
-    weight: 0.0175
-    avg_copies: 1.5
+    weight: 0.025
+    avg_copies: 1.33
   reanimator:
     weight: 0.037
     avg_copies: 4.0
@@ -43,19 +43,19 @@ archetypes:
     weight: 0.1667
     avg_copies: 2.0
   hammer-time:
-    weight: 0.1818
+    weight: 0.1667
     avg_copies: 1.5
   boros-ponza:
     weight: 0.0071
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0114
+    weight: 0.0111
     avg_copies: 2.0
   4c-omnath:
     weight: 0.25
     avg_copies: 4.0
   esper-blink:
-    weight: 0.8557
+    weight: 0.8384
     avg_copies: 1.29
   indomitable-creativity:
     weight: 0.7857
@@ -67,7 +67,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.3103
+    weight: 0.3
     avg_copies: 2.32
   esper-control:
     weight: 1.0
@@ -83,7 +83,7 @@ archetypes:
     avg_copies: 2.0
   goryo2:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 3.44
   goryo3:
     weight: 1.0
     avg_copies: 4.0
@@ -115,10 +115,10 @@ archetypes:
     weight: 0.4483
     avg_copies: 1.92
   unknown-68:
-    weight: 0.2941
+    weight: 0.2857
     avg_copies: 1.0
   unknown-70:
-    weight: 0.1429
+    weight: 0.125
     avg_copies: 2.5
   unknown-74:
     weight: 1.0
@@ -130,7 +130,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-85:
-    weight: 0.0833
+    weight: 0.0667
     avg_copies: 2.0
   unknown-86:
     weight: 0.1111
@@ -148,7 +148,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.8
   unknown-96:
-    weight: 0.0714
+    weight: 0.0667
     avg_copies: 2.0
   unknown-89:
     weight: 1.0
@@ -187,7 +187,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-153:
-    weight: 0.6667
+    weight: 0.5
     avg_copies: 3.0
   unknown-166:
     weight: 1.0

@@ -7,11 +7,11 @@ name: High Noon
 scryfall_id: 9995e0e6-7c9c-4fef-8fd2-8fb1622e6ec8
 set: otj
 type: Enchantment
-meta_presence: 0.2378
+meta_presence: 0.2364
 archetypes:
   boros-energy:
-    weight: 0.766
-    avg_copies: 1.65
+    weight: 0.7691
+    avg_copies: 1.66
   dimir-control:
     weight: 0.1111
     avg_copies: 1.78
@@ -19,22 +19,22 @@ archetypes:
     weight: 0.9389
     avg_copies: 1.73
   eldrazi-tron:
-    weight: 0.0038
+    weight: 0.0037
     avg_copies: 1.0
   goryo:
-    weight: 0.0155
-    avg_copies: 1.75
+    weight: 0.0183
+    avg_copies: 1.6
   azorius-control:
-    weight: 0.8904
-    avg_copies: 1.95
+    weight: 0.8947
+    avg_copies: 1.97
   living-end:
-    weight: 0.0323
+    weight: 0.0308
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.6905
-    avg_copies: 1.48
+    weight: 0.7111
+    avg_copies: 1.5
   domain-zoo:
-    weight: 0.4035
+    weight: 0.4333
     avg_copies: 1.54
   mardu-blink:
     weight: 0.9167
@@ -43,8 +43,8 @@ archetypes:
     weight: 0.95
     avg_copies: 2.62
   esper-blink:
-    weight: 0.8866
-    avg_copies: 2.12
+    weight: 0.8889
+    avg_copies: 2.11
   samwise-combo:
     weight: 0.1667
     avg_copies: 1.8
@@ -55,7 +55,7 @@ archetypes:
     weight: 0.7778
     avg_copies: 2.29
   azorius-blink:
-    weight: 0.2759
+    weight: 0.2667
     avg_copies: 2.0
   esper-control:
     weight: 1.0
@@ -70,8 +70,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   goryo2:
-    weight: 0.75
-    avg_copies: 2.33
+    weight: 0.625
+    avg_copies: 2.2
   4c-omnath9:
     weight: 0.4
     avg_copies: 2.0
@@ -106,7 +106,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.75
   unknown-47:
-    weight: 0.0135
+    weight: 0.0123
     avg_copies: 1.0
   unknown-62:
     weight: 0.1724
@@ -114,12 +114,15 @@ archetypes:
   unknown-65:
     weight: 0.0714
     avg_copies: 2.0
+  unknown-67:
+    weight: 0.0154
+    avg_copies: 1.0
   unknown-68:
-    weight: 0.8235
-    avg_copies: 1.68
+    weight: 0.8286
+    avg_copies: 1.69
   unknown-70:
-    weight: 0.9286
-    avg_copies: 2.23
+    weight: 0.9375
+    avg_copies: 2.33
   unknown-80:
     weight: 0.3333
     avg_copies: 1.0
@@ -127,7 +130,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   unknown-85:
-    weight: 0.6667
+    weight: 0.6
     avg_copies: 2.0
   unknown-77:
     weight: 1.0
@@ -187,14 +190,14 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-153:
-    weight: 0.6667
+    weight: 0.5
     avg_copies: 2.0
   unknown-157:
     weight: 1.0
     avg_copies: 3.0
   unknown-160:
-    weight: 0.5472
-    avg_copies: 3.42
+    weight: 0.5789
+    avg_copies: 3.46
   unknown-166:
     weight: 1.0
     avg_copies: 3.0

@@ -7,16 +7,16 @@ name: Otherworldly Gaze
 scryfall_id: 40bafd2b-acd4-46f0-abb2-139e2918ae99
 set: dsc
 type: Instant
-meta_presence: 0.0192
+meta_presence: 0.0196
 archetypes:
   goryo:
-    weight: 0.2636
-    avg_copies: 1.88
+    weight: 0.2711
+    avg_copies: 1.89
   dredge:
     weight: 0.6667
     avg_copies: 4.0
   goryo1:
-    weight: 0.1034
+    weight: 0.1007
     avg_copies: 2.13
   unknown-50:
     weight: 1.0

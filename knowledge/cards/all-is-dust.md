@@ -6,24 +6,27 @@ name: All Is Dust
 scryfall_id: 4210c54e-89fd-4971-ab6a-ca8f4e7fe97a
 set: cmm
 type: Kindred Sorcery — Eldrazi
-meta_presence: 0.0349
+meta_presence: 0.0356
 archetypes:
   eldrazi-tron:
-    weight: 0.6077
+    weight: 0.6111
     avg_copies: 1.13
   mono-blue-tron:
     weight: 0.05
     avg_copies: 2.0
   eldrazi-ramp:
-    weight: 0.0174
+    weight: 0.0169
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0271
+    weight: 0.0256
     avg_copies: 1.17
   goryo4:
-    weight: 0.8889
-    avg_copies: 1.12
+    weight: 0.9
+    avg_copies: 1.11
   unknown-55:
     weight: 1.0
+    avg_copies: 1.0
+  unknown-162:
+    weight: 0.3333
     avg_copies: 1.0
 ---

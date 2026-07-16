@@ -6,22 +6,22 @@ name: Watery Grave
 scryfall_id: 5b8170dc-6a90-46fc-9989-7575f3d402b5
 set: eoe
 type: Land — Island Swamp
-meta_presence: 0.1841
+meta_presence: 0.1865
 archetypes:
   dimir-control:
     weight: 1.0
     avg_copies: 2.63
   goryo:
-    weight: 0.9922
+    weight: 0.9927
     avg_copies: 1.0
   necrodominance:
-    weight: 0.05
+    weight: 0.0476
     avg_copies: 3.5
   azorius-control:
-    weight: 0.3973
+    weight: 0.3947
     avg_copies: 1.0
   living-end:
-    weight: 0.7903
+    weight: 0.8
     avg_copies: 1.1
   mill:
     weight: 0.9677
@@ -33,7 +33,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.7564
+    weight: 0.75
     avg_copies: 1.02
   esper-blink:
     weight: 1.0
@@ -42,7 +42,7 @@ archetypes:
     weight: 0.0417
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.0172
+    weight: 0.0167
     avg_copies: 1.0
   esper-control:
     weight: 1.0
@@ -55,10 +55,10 @@ archetypes:
     avg_copies: 1.0
   goryo1:
     weight: 1.0
-    avg_copies: 1.53
+    avg_copies: 1.54
   goryo2:
     weight: 1.0
-    avg_copies: 1.25
+    avg_copies: 1.12
   soultrader-combo:
     weight: 0.5
     avg_copies: 1.0
@@ -85,7 +85,7 @@ archetypes:
     avg_copies: 2.0
   unknown-39:
     weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 1.5
   unknown-36:
     weight: 1.0
     avg_copies: 2.0
@@ -94,7 +94,7 @@ archetypes:
     avg_copies: 3.0
   unknown-47:
     weight: 1.0
-    avg_copies: 2.2
+    avg_copies: 2.22
   unknown-51:
     weight: 1.0
     avg_copies: 2.0
@@ -108,7 +108,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-69:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 1.5
   unknown-73:
     weight: 1.0
@@ -148,7 +148,7 @@ archetypes:
     avg_copies: 1.0
   unknown-120:
     weight: 1.0
-    avg_copies: 1.2
+    avg_copies: 1.12
   unknown-118:
     weight: 1.0
     avg_copies: 1.0
@@ -169,7 +169,7 @@ archetypes:
     avg_copies: 2.0
   unknown-139:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 2.8
   unknown-141:
     weight: 1.0
     avg_copies: 3.0
@@ -197,4 +197,7 @@ archetypes:
   unknown-191:
     weight: 1.0
     avg_copies: 1.0
+  unknown-198:
+    weight: 1.0
+    avg_copies: 4.0
 ---

@@ -7,13 +7,13 @@ name: Ouroboroid
 scryfall_id: 209c591a-4ab2-4e89-9523-a7b766cf4e51
 set: eoe
 type: Creature — Plant Wurm
-meta_presence: 0.0169
+meta_presence: 0.0167
 archetypes:
   yawgmoth-combo:
-    weight: 0.625
+    weight: 0.6296
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0128
+    weight: 0.0125
     avg_copies: 1.0
   mono-green-ramp:
     weight: 1.0
@@ -31,10 +31,10 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-61:
-    weight: 0.04
+    weight: 0.0357
     avg_copies: 1.0
   unknown-126:
-    weight: 0.9474
+    weight: 0.9048
     avg_copies: 1.06
   unknown-130:
     weight: 1.0

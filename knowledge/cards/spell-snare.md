@@ -7,31 +7,31 @@ name: Spell Snare
 scryfall_id: b7551b61-656e-4f37-b9da-73174db983b7
 set: ecl
 type: Instant
-meta_presence: 0.1292
+meta_presence: 0.1316
 archetypes:
   ruby-storm:
-    weight: 0.0053
+    weight: 0.0051
     avg_copies: 2.0
   dimir-control:
     weight: 0.9877
     avg_copies: 2.46
   mono-blue-belcher:
-    weight: 0.9079
+    weight: 0.9091
     avg_copies: 1.88
   jeskai-energy:
     weight: 0.1832
     avg_copies: 1.13
   goryo:
-    weight: 0.3488
-    avg_copies: 1.42
+    weight: 0.3626
+    avg_copies: 1.39
   azorius-control:
-    weight: 0.7534
-    avg_copies: 1.82
+    weight: 0.75
+    avg_copies: 1.81
   jeskai-control:
-    weight: 0.5952
+    weight: 0.6222
     avg_copies: 1.24
   affinity:
-    weight: 0.0043
+    weight: 0.0042
     avg_copies: 1.0
   mill:
     weight: 0.0323
@@ -46,14 +46,14 @@ archetypes:
     weight: 0.45
     avg_copies: 2.56
   hammer-time:
-    weight: 0.0909
+    weight: 0.0833
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0385
-    avg_copies: 1.67
+    weight: 0.05
+    avg_copies: 1.75
   izzet-prowess:
-    weight: 0.3916
-    avg_copies: 1.42
+    weight: 0.3985
+    avg_copies: 1.41
   4c-omnath:
     weight: 0.25
     avg_copies: 2.0
@@ -61,14 +61,14 @@ archetypes:
     weight: 0.5
     avg_copies: 1.86
   azorius-blink:
-    weight: 0.0345
+    weight: 0.0333
     avg_copies: 2.0
   esper-control:
     weight: 1.0
     avg_copies: 2.0
   izzet-wizards:
     weight: 1.0
-    avg_copies: 2.42
+    avg_copies: 2.46
   eldrazi-breach:
     weight: 0.5
     avg_copies: 1.5
@@ -82,11 +82,11 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   goryo1:
-    weight: 0.131
-    avg_copies: 1.33
+    weight: 0.1342
+    avg_copies: 1.3
   goryo2:
-    weight: 0.5
-    avg_copies: 1.5
+    weight: 0.375
+    avg_copies: 1.67
   goryo3:
     weight: 1.0
     avg_copies: 2.0
@@ -131,7 +131,7 @@ archetypes:
     avg_copies: 2.0
   unknown-47:
     weight: 1.0
-    avg_copies: 1.92
+    avg_copies: 1.91
   unknown-53:
     weight: 1.0
     avg_copies: 2.0
@@ -175,8 +175,8 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-120:
-    weight: 0.8
-    avg_copies: 2.5
+    weight: 0.875
+    avg_copies: 2.71
   unknown-122:
     weight: 0.0435
     avg_copies: 1.0

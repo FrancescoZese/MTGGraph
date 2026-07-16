@@ -6,19 +6,16 @@ name: 'Unknown #48'
 meta_share: 0.0004
 list_count: 2
 top_cards:
-- name: Demolition Field
-  weight: 1.0
-  avg_copies: 4.0
-- name: Stock Up
+- name: Erode
   weight: 1.0
   avg_copies: 4.0
 - name: Reprieve
   weight: 1.0
   avg_copies: 4.0
-- name: Erode
+- name: Demolition Field
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Stock Up
   weight: 1.0
   avg_copies: 4.0
 - name: Wrath of the Skies
@@ -27,9 +24,9 @@ top_cards:
 - name: Field of Ruin
   weight: 1.0
   avg_copies: 4.0
-- name: Sunken Citadel
+- name: Solitude
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: March of Otherworldly Light
   weight: 1.0
   avg_copies: 3.0
@@ -39,79 +36,82 @@ top_cards:
 - name: Path to Exile
   weight: 1.0
   avg_copies: 3.0
-- name: Razorgrass Ambush
+- name: Sunken Citadel
   weight: 1.0
-  avg_copies: 2.0
-- name: Teferi, Time Raveler
-  weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Ghost Quarter
-  weight: 1.0
-  avg_copies: 2.0
-- name: Island
   weight: 1.0
   avg_copies: 2.0
 - name: Floodfarm Verge
   weight: 1.0
   avg_copies: 2.0
-- name: Relic of Progenitus
+- name: Island
   weight: 1.0
-  avg_copies: 1.5
-- name: Plains
+  avg_copies: 2.0
+- name: Teferi, Time Raveler
+  weight: 1.0
+  avg_copies: 2.0
+- name: Razorgrass Ambush
+  weight: 1.0
+  avg_copies: 2.0
+- name: Relic of Progenitus
   weight: 1.0
   avg_copies: 1.5
 - name: Supreme Verdict
   weight: 1.0
   avg_copies: 1.5
-- name: Ensnaring Bridge
+- name: Plains
   weight: 1.0
-  avg_copies: 1.0
-- name: Consult the Star Charts
-  weight: 1.0
-  avg_copies: 1.0
-- name: Kaheera, the Orphanguard
-  weight: 1.0
-  avg_copies: 1.0
-- name: Cityscape Leveler
-  weight: 1.0
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Liquimetal Coating
+  weight: 1.0
+  avg_copies: 1.0
+- name: Ensnaring Bridge
   weight: 1.0
   avg_copies: 1.0
 - name: Crucible of Worlds
   weight: 1.0
   avg_copies: 1.0
+- name: Kaheera, the Orphanguard
+  weight: 1.0
+  avg_copies: 1.0
+- name: Consult the Star Charts
+  weight: 1.0
+  avg_copies: 1.0
+- name: Cityscape Leveler
+  weight: 1.0
+  avg_copies: 1.0
 - name: Mana Tithe
   weight: 1.0
   avg_copies: 1.0
+- name: Timely Reinforcements
+  weight: 0.5
+  avg_copies: 2.0
 - name: Kataki, War's Wage
   weight: 0.5
   avg_copies: 2.0
 - name: Orim's Chant
   weight: 0.5
   avg_copies: 2.0
-- name: Timely Reinforcements
-  weight: 0.5
-  avg_copies: 2.0
-- name: Trinisphere
-  weight: 0.5
-  avg_copies: 1.0
-- name: Engineered Explosives
-  weight: 0.5
-  avg_copies: 1.0
-- name: Pithing Needle
+- name: Elixir of Immortality
   weight: 0.5
   avg_copies: 1.0
 - name: Wurmcoil Engine
   weight: 0.5
   avg_copies: 1.0
+- name: Trinisphere
+  weight: 0.5
+  avg_copies: 1.0
 - name: Portable Hole
   weight: 0.5
   avg_copies: 1.0
-- name: Elixir of Immortality
+- name: Pithing Needle
   weight: 0.5
   avg_copies: 1.0
 - name: Beza, the Bounding Spring
+  weight: 0.5
+  avg_copies: 1.0
+- name: Engineered Explosives
   weight: 0.5
   avg_copies: 1.0
 ---

@@ -6,11 +6,11 @@ name: Thundering Falls
 scryfall_id: 17260fff-b239-4af4-9306-3236ae3fa5a5
 set: mkm
 type: Land — Island Mountain
-meta_presence: 0.1978
+meta_presence: 0.1984
 archetypes:
   ruby-storm:
-    weight: 0.2139
-    avg_copies: 1.18
+    weight: 0.2296
+    avg_copies: 1.16
   dimir-control:
     weight: 0.037
     avg_copies: 1.0
@@ -18,19 +18,19 @@ archetypes:
     weight: 1.0
     avg_copies: 1.02
   azorius-control:
-    weight: 0.7397
+    weight: 0.7368
     avg_copies: 1.0
   living-end:
-    weight: 0.0161
+    weight: 0.0154
     avg_copies: 1.0
   jeskai-control:
     weight: 1.0
     avg_copies: 1.0
   affinity:
-    weight: 0.0469
+    weight: 0.0457
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.9561
+    weight: 0.9583
     avg_copies: 1.0
   reanimator:
     weight: 0.0741
@@ -39,10 +39,10 @@ archetypes:
     weight: 0.0159
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0385
+    weight: 0.0375
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.981
+    weight: 0.9815
     avg_copies: 1.0
   4c-omnath:
     weight: 0.5
@@ -58,7 +58,7 @@ archetypes:
     avg_copies: 1.0
   izzet-wizards:
     weight: 1.0
-    avg_copies: 2.27
+    avg_copies: 2.33
   eldrazi-breach:
     weight: 0.5
     avg_copies: 1.0
@@ -69,7 +69,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   goryo1:
-    weight: 0.4966
+    weight: 0.5034
     avg_copies: 1.0
   grixis-control:
     weight: 1.0
@@ -120,7 +120,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0135
+    weight: 0.0123
     avg_copies: 1.0
   unknown-53:
     weight: 1.0
@@ -138,10 +138,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.9841
+    weight: 0.9846
     avg_copies: 1.0
   unknown-70:
-    weight: 0.2143
+    weight: 0.1875
     avg_copies: 1.0
   unknown-79:
     weight: 1.0
@@ -150,7 +150,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-85:
-    weight: 0.6667
+    weight: 0.7333
     avg_copies: 1.0
   unknown-84:
     weight: 1.0

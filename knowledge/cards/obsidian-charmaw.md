@@ -7,28 +7,28 @@ name: Obsidian Charmaw
 scryfall_id: ee6d08be-a6fc-44a5-932d-b6a8705534c0
 set: mh2
 type: Creature — Dragon
-meta_presence: 0.179
+meta_presence: 0.1756
 archetypes:
   boros-energy:
-    weight: 0.8313
-    avg_copies: 2.41
+    weight: 0.8291
+    avg_copies: 2.42
   jeskai-energy:
     weight: 0.9771
     avg_copies: 2.73
   azorius-control:
-    weight: 0.0137
+    weight: 0.0132
     avg_copies: 2.0
   jeskai-control:
-    weight: 0.119
+    weight: 0.1111
     avg_copies: 2.8
   domain-zoo:
-    weight: 0.5439
-    avg_copies: 1.97
+    weight: 0.55
+    avg_copies: 1.98
   reanimator:
     weight: 0.1111
     avg_copies: 3.0
   burn:
-    weight: 0.3529
+    weight: 0.3429
     avg_copies: 2.0
   mardu-blink:
     weight: 0.7083
@@ -37,19 +37,19 @@ archetypes:
     weight: 0.4242
     avg_copies: 2.5
   izzet-prowess:
-    weight: 0.038
+    weight: 0.0369
     avg_copies: 1.9
   4c-omnath:
     weight: 1.0
     avg_copies: 2.25
   izzet-wizards:
-    weight: 0.4545
-    avg_copies: 2.6
+    weight: 0.5
+    avg_copies: 2.67
   jund-saga:
     weight: 0.5
     avg_copies: 2.0
   rakdos-aggro:
-    weight: 0.7222
+    weight: 0.6842
     avg_copies: 3.0
   naya-midrange:
     weight: 1.0
@@ -73,7 +73,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-27:
-    weight: 1.0
+    weight: 0.6667
     avg_copies: 2.0
   unknown-29:
     weight: 1.0
@@ -97,19 +97,19 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-67:
-    weight: 0.1429
+    weight: 0.1385
     avg_copies: 3.22
   unknown-68:
-    weight: 0.5
-    avg_copies: 2.18
+    weight: 0.5143
+    avg_copies: 2.22
   unknown-70:
-    weight: 0.4286
+    weight: 0.375
     avg_copies: 2.17
   unknown-79:
     weight: 0.1667
     avg_copies: 2.0
   unknown-85:
-    weight: 0.0833
+    weight: 0.0667
     avg_copies: 3.0
   unknown-86:
     weight: 0.2222
@@ -118,8 +118,8 @@ archetypes:
     weight: 0.6667
     avg_copies: 3.0
   unknown-96:
-    weight: 0.4286
-    avg_copies: 2.33
+    weight: 0.4667
+    avg_copies: 2.29
   unknown-90:
     weight: 1.0
     avg_copies: 2.0
@@ -130,7 +130,7 @@ archetypes:
     weight: 0.75
     avg_copies: 2.0
   unknown-101:
-    weight: 0.25
+    weight: 0.4
     avg_copies: 2.0
   unknown-114:
     weight: 1.0

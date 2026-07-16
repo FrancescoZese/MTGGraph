@@ -7,16 +7,16 @@ name: Natural State
 scryfall_id: fdd4bdd5-1673-4f22-b593-41df8ce95a97
 set: ogw
 type: Instant
-meta_presence: 0.0059
+meta_presence: 0.0057
 archetypes:
   neoform-combo:
     weight: 0.3492
     avg_copies: 1.82
   simic-ritual:
-    weight: 0.0385
+    weight: 0.0375
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0076
+    weight: 0.0074
     avg_copies: 1.0
   dredge:
     weight: 0.0833

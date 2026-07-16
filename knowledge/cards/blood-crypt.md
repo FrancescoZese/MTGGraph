@@ -6,25 +6,25 @@ name: Blood Crypt
 scryfall_id: 6da63cc5-4624-4491-abd9-9b600c3fefe2
 set: ecl
 type: Land — Swamp Mountain
-meta_presence: 0.0867
+meta_presence: 0.0881
 archetypes:
   ruby-storm:
-    weight: 0.016
+    weight: 0.0204
     avg_copies: 1.0
   boros-energy:
     weight: 0.0015
     avg_copies: 1.0
   necrodominance:
-    weight: 0.025
+    weight: 0.0238
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.2807
+    weight: 0.3083
     avg_copies: 1.0
   reanimator:
     weight: 0.8889
     avg_copies: 1.25
   burn:
-    weight: 0.0294
+    weight: 0.0286
     avg_copies: 2.0
   mardu-blink:
     weight: 1.0
@@ -33,7 +33,7 @@ archetypes:
     weight: 0.9697
     avg_copies: 2.97
   izzet-prowess:
-    weight: 0.0228
+    weight: 0.0258
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.9286
@@ -55,7 +55,7 @@ archetypes:
     avg_copies: 2.0
   rakdos-aggro:
     weight: 1.0
-    avg_copies: 3.78
+    avg_copies: 3.79
   goryo1:
     weight: 1.0
     avg_copies: 1.0
@@ -105,7 +105,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-45:
-    weight: 0.087
+    weight: 0.0769
     avg_copies: 1.5
   unknown-54:
     weight: 0.6667
@@ -126,7 +126,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   unknown-85:
-    weight: 0.8333
+    weight: 0.8
     avg_copies: 1.0
   unknown-92:
     weight: 1.0
@@ -135,7 +135,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.4286
+    weight: 0.4
     avg_copies: 2.0
   unknown-90:
     weight: 1.0
@@ -169,6 +169,9 @@ archetypes:
     avg_copies: 1.0
   unknown-135:
     weight: 1.0
+    avg_copies: 1.0
+  unknown-139:
+    weight: 0.2
     avg_copies: 1.0
   unknown-147:
     weight: 0.5

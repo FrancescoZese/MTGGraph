@@ -8,10 +8,10 @@ name: Rain of Gore
 scryfall_id: 9dd62003-e345-48b6-9f93-fc111924c318
 set: dis
 type: Enchantment
-meta_presence: 0.0004
+meta_presence: 0.0006
 archetypes:
   burn:
-    weight: 0.0294
+    weight: 0.0286
     avg_copies: 1.0
   unknown-178:
     weight: 1.0

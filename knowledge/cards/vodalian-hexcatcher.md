@@ -7,7 +7,7 @@ name: Vodalian Hexcatcher
 scryfall_id: 4ec464dc-b1dd-4e45-b093-c3ad65a74050
 set: dmu
 type: Creature — Merfolk Wizard
-meta_presence: 0.0027
+meta_presence: 0.0026
 archetypes:
   unknown-42:
     weight: 1.0
@@ -19,6 +19,6 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-182:
-    weight: 1.0
+    weight: 0.6667
     avg_copies: 4.0
 ---

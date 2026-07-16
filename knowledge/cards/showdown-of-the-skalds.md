@@ -11,6 +11,6 @@ type: Enchantment — Saga
 meta_presence: 0.0013
 archetypes:
   boros-energy:
-    weight: 0.0106
+    weight: 0.0105
     avg_copies: 1.14
 ---

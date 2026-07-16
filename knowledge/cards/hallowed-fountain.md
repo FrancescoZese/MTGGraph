@@ -6,7 +6,7 @@ name: Hallowed Fountain
 scryfall_id: e056b55f-82ed-4fe0-ab0c-bb20fa4a218a
 set: ecl
 type: Land — Plains Island
-meta_presence: 0.1697
+meta_presence: 0.1705
 archetypes:
   boros-energy:
     weight: 0.0015
@@ -18,19 +18,19 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo:
-    weight: 0.9922
+    weight: 0.9927
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
     avg_copies: 1.97
   living-end:
-    weight: 0.2097
+    weight: 0.2
     avg_copies: 1.0
   jeskai-control:
     weight: 1.0
-    avg_copies: 1.62
+    avg_copies: 1.64
   affinity:
-    weight: 0.0043
+    weight: 0.0042
     avg_copies: 1.0
   mill:
     weight: 0.0323
@@ -43,7 +43,7 @@ archetypes:
     avg_copies: 1.0
   hammer-time:
     weight: 1.0
-    avg_copies: 2.36
+    avg_copies: 2.42
   4c-omnath:
     weight: 0.75
     avg_copies: 1.0
@@ -55,7 +55,7 @@ archetypes:
     avg_copies: 1.0
   azorius-blink:
     weight: 1.0
-    avg_copies: 3.38
+    avg_copies: 3.4
   esper-control:
     weight: 1.0
     avg_copies: 2.0
@@ -67,7 +67,7 @@ archetypes:
     avg_copies: 1.0
   goryo2:
     weight: 1.0
-    avg_copies: 1.5
+    avg_copies: 1.75
   goryo3:
     weight: 1.0
     avg_copies: 2.0
@@ -108,7 +108,7 @@ archetypes:
     weight: 0.1429
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0811
+    weight: 0.0864
     avg_copies: 1.0
   unknown-56:
     weight: 1.0
@@ -126,11 +126,11 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-67:
-    weight: 0.2063
+    weight: 0.2
     avg_copies: 1.0
   unknown-70:
     weight: 1.0
-    avg_copies: 1.21
+    avg_copies: 1.19
   unknown-74:
     weight: 1.0
     avg_copies: 2.0
@@ -245,4 +245,7 @@ archetypes:
   unknown-192:
     weight: 1.0
     avg_copies: 1.0
+  unknown-195:
+    weight: 1.0
+    avg_copies: 2.0
 ---

@@ -7,13 +7,13 @@ name: Decorum Dissertation
 scryfall_id: f4ab2d9b-c73d-478d-aac7-4d3bb24296d2
 set: sos
 type: Sorcery — Lesson
-meta_presence: 0.0078
+meta_presence: 0.0083
 archetypes:
   necrodominance:
-    weight: 0.05
+    weight: 0.0714
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0088
+    weight: 0.0083
     avg_copies: 1.0
   reanimator:
     weight: 0.037
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.15
     avg_copies: 1.0
   rakdos-aggro:
-    weight: 0.1111
+    weight: 0.1053
     avg_copies: 1.0
   unknown-45:
     weight: 1.0

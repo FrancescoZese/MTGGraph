@@ -6,7 +6,7 @@ name: Mount Doom
 scryfall_id: b5bc71a1-2344-4bc6-aa60-658cec19d0d6
 set: ltr
 type: Legendary Land
-meta_presence: 0.0008
+meta_presence: 0.0007
 archetypes:
   unknown-34:
     weight: 1.0

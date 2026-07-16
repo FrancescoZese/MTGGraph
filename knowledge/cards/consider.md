@@ -10,13 +10,13 @@ type: Instant
 meta_presence: 0.0015
 archetypes:
   ruby-storm:
-    weight: 0.0053
+    weight: 0.0051
     avg_copies: 2.0
   dimir-control:
     weight: 0.0247
     avg_copies: 4.0
   goryo1:
-    weight: 0.0069
+    weight: 0.0067
     avg_copies: 3.0
   grixis-control:
     weight: 0.1667

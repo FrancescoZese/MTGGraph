@@ -7,9 +7,9 @@ name: Wild Nacatl
 scryfall_id: 5a3bb291-11d1-45e0-a60a-e75c7dc94b94
 set: ddh
 type: Creature — Cat Warrior
-meta_presence: 0.0021
+meta_presence: 0.0024
 archetypes:
   unknown-85:
-    weight: 0.9167
-    avg_copies: 3.27
+    weight: 0.8667
+    avg_copies: 3.15
 ---

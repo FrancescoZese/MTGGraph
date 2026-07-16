@@ -6,14 +6,14 @@ name: Sorin of House Markov // Sorin, Ravenous Neonate
 scryfall_id: 1d7474fc-0042-4be9-81f3-5f66f4b16740
 set: mh3
 type: Legendary Creature — Human Noble // Legendary Planeswalker — Sorin
-meta_presence: 0.0032
+meta_presence: 0.0033
 archetypes:
   necrodominance:
-    weight: 0.25
+    weight: 0.2381
     avg_copies: 2.0
   goryo5:
-    weight: 0.1875
-    avg_copies: 2.0
+    weight: 0.2353
+    avg_copies: 1.75
   unknown-46:
     weight: 0.5
     avg_copies: 3.5

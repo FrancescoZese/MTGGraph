@@ -7,28 +7,28 @@ name: Wrath of the Skies
 scryfall_id: 4ef1882e-b422-4f30-8a6c-bd71c2601660
 set: mh3
 type: Sorcery
-meta_presence: 0.3541
+meta_presence: 0.352
 archetypes:
   boros-energy:
-    weight: 0.9711
+    weight: 0.9715
     avg_copies: 2.1
   jeskai-energy:
     weight: 0.9924
     avg_copies: 1.56
   eldrazi-tron:
-    weight: 0.0038
+    weight: 0.0037
     avg_copies: 2.0
   goryo:
-    weight: 0.9729
-    avg_copies: 2.34
+    weight: 0.9744
+    avg_copies: 2.33
   azorius-control:
-    weight: 0.9315
-    avg_copies: 1.89
+    weight: 0.9342
+    avg_copies: 1.9
   jeskai-control:
-    weight: 0.9762
+    weight: 0.9778
     avg_copies: 2.0
   domain-zoo:
-    weight: 0.9912
+    weight: 0.9917
     avg_copies: 2.17
   reanimator:
     weight: 0.037
@@ -44,7 +44,7 @@ archetypes:
     avg_copies: 2.0
   esper-blink:
     weight: 1.0
-    avg_copies: 2.36
+    avg_copies: 2.38
   orzhov-blink:
     weight: 1.0
     avg_copies: 2.7
@@ -52,7 +52,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.8966
+    weight: 0.8667
     avg_copies: 2.67
   bant-ritual:
     weight: 1.0
@@ -68,7 +68,7 @@ archetypes:
     avg_copies: 4.0
   goryo2:
     weight: 1.0
-    avg_copies: 1.8
+    avg_copies: 1.89
   goryo3:
     weight: 1.0
     avg_copies: 4.0
@@ -110,10 +110,10 @@ archetypes:
     avg_copies: 2.5
   unknown-68:
     weight: 1.0
-    avg_copies: 1.62
+    avg_copies: 1.63
   unknown-70:
     weight: 1.0
-    avg_copies: 2.14
+    avg_copies: 2.12
   unknown-74:
     weight: 1.0
     avg_copies: 4.0
@@ -130,8 +130,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-85:
-    weight: 0.9167
-    avg_copies: 2.0
+    weight: 0.8667
+    avg_copies: 2.14
   unknown-77:
     weight: 1.0
     avg_copies: 2.0
@@ -200,7 +200,7 @@ archetypes:
     avg_copies: 2.0
   unknown-160:
     weight: 1.0
-    avg_copies: 3.85
+    avg_copies: 3.86
   unknown-166:
     weight: 1.0
     avg_copies: 4.0
@@ -246,4 +246,7 @@ archetypes:
   unknown-192:
     weight: 1.0
     avg_copies: 1.0
+  unknown-197:
+    weight: 1.0
+    avg_copies: 2.0
 ---

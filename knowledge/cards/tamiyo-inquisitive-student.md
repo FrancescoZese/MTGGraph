@@ -6,25 +6,25 @@ name: Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
 scryfall_id: 2a717b98-cdac-416d-bf6c-f6b6638e65d1
 set: mh3
 type: Legendary Creature — Moonfolk Wizard // Legendary Planeswalker — Tamiyo
-meta_presence: 0.0495
+meta_presence: 0.0494
 archetypes:
   dimir-control:
     weight: 0.4691
     avg_copies: 2.24
   mono-blue-belcher:
-    weight: 0.25
+    weight: 0.2468
     avg_copies: 1.8
   jeskai-energy:
     weight: 0.0382
     avg_copies: 1.4
   azorius-control:
-    weight: 0.0274
+    weight: 0.0263
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.119
+    weight: 0.1111
     avg_copies: 3.0
   affinity:
-    weight: 0.0043
+    weight: 0.0042
     avg_copies: 2.0
   mill:
     weight: 0.0645
@@ -36,14 +36,14 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   simic-ritual:
-    weight: 0.0897
+    weight: 0.0875
     avg_copies: 1.57
   izzet-artifacts:
     weight: 0.9688
     avg_copies: 4.0
   izzet-wizards:
-    weight: 0.6364
-    avg_copies: 3.71
+    weight: 0.6667
+    avg_copies: 3.75
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 4.0
@@ -51,7 +51,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.0069
+    weight: 0.0067
     avg_copies: 2.0
   grixis-control:
     weight: 1.0
@@ -81,14 +81,14 @@ archetypes:
     weight: 0.75
     avg_copies: 2.75
   unknown-27:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
   unknown-43:
     weight: 1.0
     avg_copies: 3.0
   unknown-47:
-    weight: 0.8108
-    avg_copies: 2.17
+    weight: 0.7901
+    avg_copies: 2.22
   unknown-51:
     weight: 1.0
     avg_copies: 4.0
@@ -135,8 +135,11 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-120:
-    weight: 0.2
+    weight: 0.125
     avg_copies: 4.0
+  unknown-139:
+    weight: 0.2
+    avg_copies: 1.0
   unknown-155:
     weight: 1.0
     avg_copies: 4.0
@@ -149,6 +152,9 @@ archetypes:
   unknown-170:
     weight: 1.0
     avg_copies: 3.0
+  unknown-182:
+    weight: 0.3333
+    avg_copies: 2.0
   unknown-184:
     weight: 1.0
     avg_copies: 2.0

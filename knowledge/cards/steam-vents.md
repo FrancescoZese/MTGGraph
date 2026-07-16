@@ -6,11 +6,11 @@ name: Steam Vents
 scryfall_id: b66daa94-d367-4812-9f18-f35378c1febb
 set: ecl
 type: Land — Island Mountain
-meta_presence: 0.3124
+meta_presence: 0.3114
 archetypes:
   ruby-storm:
-    weight: 0.1444
-    avg_copies: 1.15
+    weight: 0.1429
+    avg_copies: 1.14
   boros-energy:
     weight: 0.0015
     avg_copies: 1.0
@@ -21,20 +21,20 @@ archetypes:
     weight: 1.0
     avg_copies: 1.02
   azorius-control:
-    weight: 0.4247
+    weight: 0.4342
     avg_copies: 1.03
   living-end:
-    weight: 0.0323
+    weight: 0.0308
     avg_copies: 1.5
   jeskai-control:
     weight: 1.0
-    avg_copies: 1.17
+    avg_copies: 1.16
   affinity:
-    weight: 0.9723
+    weight: 0.9709
     avg_copies: 1.33
   domain-zoo:
     weight: 1.0
-    avg_copies: 1.71
+    avg_copies: 1.69
   mill:
     weight: 0.0323
     avg_copies: 1.0
@@ -42,11 +42,11 @@ archetypes:
     weight: 0.7778
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0513
+    weight: 0.05
     avg_copies: 1.0
   izzet-prowess:
     weight: 1.0
-    avg_copies: 2.91
+    avg_copies: 2.92
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
@@ -61,7 +61,7 @@ archetypes:
     avg_copies: 1.9
   izzet-wizards:
     weight: 1.0
-    avg_copies: 3.09
+    avg_copies: 3.17
   eldrazi-breach:
     weight: 0.75
     avg_copies: 1.67
@@ -123,7 +123,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0135
+    weight: 0.0123
     avg_copies: 1.0
   unknown-53:
     weight: 1.0
@@ -145,7 +145,7 @@ archetypes:
     avg_copies: 1.0
   unknown-70:
     weight: 1.0
-    avg_copies: 1.14
+    avg_copies: 1.12
   unknown-71:
     weight: 1.0
     avg_copies: 4.0
@@ -157,7 +157,7 @@ archetypes:
     avg_copies: 2.33
   unknown-85:
     weight: 1.0
-    avg_copies: 1.08
+    avg_copies: 1.07
   unknown-84:
     weight: 1.0
     avg_copies: 1.0
@@ -218,6 +218,9 @@ archetypes:
   unknown-129:
     weight: 1.0
     avg_copies: 2.0
+  unknown-139:
+    weight: 0.2
+    avg_copies: 1.0
   unknown-140:
     weight: 1.0
     avg_copies: 1.0
@@ -247,6 +250,9 @@ archetypes:
     avg_copies: 3.0
   unknown-181:
     weight: 1.0
+    avg_copies: 1.0
+  unknown-182:
+    weight: 0.3333
     avg_copies: 1.0
   unknown-184:
     weight: 1.0

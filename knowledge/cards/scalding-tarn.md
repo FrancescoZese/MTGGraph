@@ -6,10 +6,10 @@ name: Scalding Tarn
 scryfall_id: 71e491c5-8c07-449b-b2f1-ffa052e6d311
 set: mh2
 type: Land
-meta_presence: 0.2407
+meta_presence: 0.2404
 archetypes:
   ruby-storm:
-    weight: 0.8877
+    weight: 0.8929
     avg_copies: 2.28
   dimir-control:
     weight: 0.358
@@ -18,13 +18,13 @@ archetypes:
     weight: 0.9924
     avg_copies: 3.03
   azorius-control:
-    weight: 0.9315
-    avg_copies: 1.78
+    weight: 0.9342
+    avg_copies: 1.82
   jeskai-control:
-    weight: 0.9286
-    avg_copies: 2.82
+    weight: 0.9333
+    avg_copies: 2.79
   affinity:
-    weight: 0.0533
+    weight: 0.052
     avg_copies: 2.04
   mill:
     weight: 0.3871
@@ -36,17 +36,17 @@ archetypes:
     weight: 0.6984
     avg_copies: 1.2
   burn:
-    weight: 0.7059
-    avg_copies: 1.25
+    weight: 0.7143
+    avg_copies: 1.24
   hollow-one:
     weight: 0.1212
     avg_copies: 1.5
   simic-ritual:
-    weight: 0.0513
+    weight: 0.05
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.8517
-    avg_copies: 2.56
+    weight: 0.8524
+    avg_copies: 2.57
   indomitable-creativity:
     weight: 0.9286
     avg_copies: 2.92
@@ -57,8 +57,8 @@ archetypes:
     weight: 0.5625
     avg_copies: 3.78
   izzet-wizards:
-    weight: 0.9091
-    avg_copies: 3.9
+    weight: 0.9167
+    avg_copies: 3.91
   eldrazi-breach:
     weight: 1.0
     avg_copies: 3.5
@@ -66,8 +66,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.6
   rakdos-aggro:
-    weight: 0.4444
-    avg_copies: 3.25
+    weight: 0.4737
+    avg_copies: 3.11
   izzet-splinter-twin:
     weight: 1.0
     avg_copies: 4.0
@@ -75,7 +75,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   goryo1:
-    weight: 0.9241
+    weight: 0.9262
     avg_copies: 1.28
   goryo3:
     weight: 1.0
@@ -103,7 +103,7 @@ archetypes:
     avg_copies: 4.0
   unknown-10:
     weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 2.5
   unknown-11:
     weight: 1.0
     avg_copies: 4.0
@@ -141,7 +141,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   unknown-47:
-    weight: 0.2027
+    weight: 0.2099
     avg_copies: 1.0
   unknown-53:
     weight: 1.0
@@ -159,11 +159,11 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.3651
+    weight: 0.3538
     avg_copies: 1.0
   unknown-70:
-    weight: 0.9286
-    avg_copies: 3.54
+    weight: 0.9375
+    avg_copies: 3.6
   unknown-71:
     weight: 1.0
     avg_copies: 4.0
@@ -189,7 +189,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.0714
+    weight: 0.0667
     avg_copies: 4.0
   unknown-91:
     weight: 1.0
@@ -205,7 +205,7 @@ archetypes:
     avg_copies: 4.0
   unknown-101:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.2
   unknown-104:
     weight: 1.0
     avg_copies: 4.0
@@ -226,7 +226,7 @@ archetypes:
     avg_copies: 4.0
   unknown-120:
     weight: 1.0
-    avg_copies: 2.8
+    avg_copies: 2.62
   unknown-118:
     weight: 1.0
     avg_copies: 2.0
@@ -241,6 +241,9 @@ archetypes:
     avg_copies: 3.0
   unknown-129:
     weight: 1.0
+    avg_copies: 4.0
+  unknown-139:
+    weight: 0.2
     avg_copies: 4.0
   unknown-149:
     weight: 0.2
@@ -291,6 +294,9 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-192:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-198:
     weight: 1.0
     avg_copies: 1.0
 ---

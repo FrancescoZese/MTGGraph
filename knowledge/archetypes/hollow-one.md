@@ -3,16 +3,16 @@ colors:
 - B
 - R
 name: Hollow One
-meta_share: 0.0063
+meta_share: 0.0061
 list_count: 33
 top_cards:
-- name: Faithless Looting
-  weight: 1.0
-  avg_copies: 4.0
 - name: Hollow One
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
+  weight: 1.0
+  avg_copies: 4.0
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Detective's Phoenix
@@ -150,10 +150,10 @@ top_cards:
 - name: Goblin Lore
   weight: 0.0606
   avg_copies: 2.0
-- name: Ox of Agonas
+- name: Blood Moon
   weight: 0.0606
   avg_copies: 1.5
-- name: Blood Moon
+- name: Ox of Agonas
   weight: 0.0606
   avg_copies: 1.5
 - name: Soul-Guide Lantern
@@ -162,25 +162,31 @@ top_cards:
 - name: Commercial District
   weight: 0.0606
   avg_copies: 1.0
-- name: Seal of Fire
+- name: Violent Urge
   weight: 0.0606
   avg_copies: 1.0
-- name: Violent Urge
+- name: Seal of Fire
   weight: 0.0606
   avg_copies: 1.0
 - name: Death's Shadow
   weight: 0.0303
   avg_copies: 4.0
-- name: Magus of the Moon
+- name: Flameblade Adept
+  weight: 0.0303
+  avg_copies: 2.0
+- name: Rough
   weight: 0.0303
   avg_copies: 2.0
 - name: Cam and Farrik, Havoc Duo
   weight: 0.0303
   avg_copies: 2.0
-- name: Pyroclasm
+- name: Break the Ice
   weight: 0.0303
   avg_copies: 2.0
-- name: Break the Ice
+- name: Magus of the Moon
+  weight: 0.0303
+  avg_copies: 2.0
+- name: Pyroclasm
   weight: 0.0303
   avg_copies: 2.0
 - name: Ancient Grudge
@@ -192,19 +198,13 @@ top_cards:
 - name: Inti, Seneschal of the Sun
   weight: 0.0303
   avg_copies: 2.0
-- name: Flameblade Adept
+- name: Shattering Spree
   weight: 0.0303
-  avg_copies: 2.0
-- name: Rough
-  weight: 0.0303
-  avg_copies: 2.0
+  avg_copies: 1.0
 - name: Overlord of the Balemurk
   weight: 0.0303
   avg_copies: 1.0
 - name: Barbarian Ring
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Shattering Spree
   weight: 0.0303
   avg_copies: 1.0
 ---

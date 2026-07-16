@@ -6,11 +6,11 @@ name: Golgari Rot Farm
 scryfall_id: 42486edd-24b7-4299-84fa-50559917b2a8
 set: ecc
 type: Land
-meta_presence: 0.0017
+meta_presence: 0.0018
 archetypes:
   amulet-titan:
-    weight: 0.0347
-    avg_copies: 1.8
+    weight: 0.04
+    avg_copies: 2.0
   unknown-76:
     weight: 0.6667
     avg_copies: 1.25

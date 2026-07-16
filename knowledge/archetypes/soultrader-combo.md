@@ -6,13 +6,13 @@ name: Soultrader Combo
 meta_share: 0.0011
 list_count: 6
 top_cards:
-- name: Gravecrawler
-  weight: 1.0
-  avg_copies: 4.0
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
 - name: Warren Soultrader
+  weight: 1.0
+  avg_copies: 4.0
+- name: Gravecrawler
   weight: 1.0
   avg_copies: 4.0
 - name: Marionette Apprentice
@@ -63,13 +63,13 @@ top_cards:
 - name: Chthonian Nightmare
   weight: 0.6667
   avg_copies: 1.0
+- name: Fulminator Mage
+  weight: 0.5
+  avg_copies: 2.67
 - name: Marsh Flats
   weight: 0.5
   avg_copies: 2.67
 - name: Verdant Catacombs
-  weight: 0.5
-  avg_copies: 2.67
-- name: Fulminator Mage
   weight: 0.5
   avg_copies: 2.67
 - name: Abhorrent Oculus
@@ -99,25 +99,25 @@ top_cards:
 - name: Phoenix Fleet Airship
   weight: 0.3333
   avg_copies: 2.5
-- name: Arnyn, Deathbloom Botanist
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Bloodghast
-  weight: 0.3333
-  avg_copies: 2.0
 - name: Consign to Memory
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Soulless Jailer
   weight: 0.3333
   avg_copies: 2.0
 - name: Collector Ouphe
   weight: 0.3333
   avg_copies: 2.0
-- name: Abrupt Decay
+- name: Bloodghast
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Soulless Jailer
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Arnyn, Deathbloom Botanist
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Chomping Changeling
   weight: 0.3333
   avg_copies: 1.0
-- name: Chomping Changeling
+- name: Abrupt Decay
   weight: 0.3333
   avg_copies: 1.0
 - name: Malevolent Rumble
@@ -129,37 +129,37 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.1667
   avg_copies: 2.0
-- name: Overlord of the Balemurk
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Nurturing Peatland
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Break the Ice
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Ashiok, Dream Render
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Mai, Scornful Striker
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Shatter Assumptions
   weight: 0.1667
   avg_copies: 1.0
 - name: Nihil Spellbomb
   weight: 0.1667
   avg_copies: 1.0
+- name: Overlord of the Balemurk
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Cling to Dust
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Grist, the Hunger Tide
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Break the Ice
   weight: 0.1667
   avg_copies: 1.0
 - name: Urborg, Tomb of Yawgmoth
   weight: 0.1667
   avg_copies: 1.0
+- name: Shatter Assumptions
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Nurturing Peatland
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Undercity Sewers
   weight: 0.1667
   avg_copies: 1.0
-- name: Cling to Dust
+- name: Mai, Scornful Striker
   weight: 0.1667
   avg_copies: 1.0
 - name: Sephiroth, Fabled SOLDIER

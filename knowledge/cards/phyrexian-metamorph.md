@@ -1,7 +1,7 @@
 ---
 archetypes:
   eldrazi-tron:
-    weight: 0.0077
+    weight: 0.0074
     avg_copies: 1.0
   unknown-55:
     weight: 1.0
@@ -10,7 +10,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-162:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
 cmc: 4
 colors: []

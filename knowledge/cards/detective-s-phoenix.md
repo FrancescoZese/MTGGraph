@@ -25,7 +25,7 @@ archetypes:
     weight: 0.0417
     avg_copies: 1.0
   rakdos-aggro:
-    weight: 0.8889
+    weight: 0.8947
     avg_copies: 3.12
   izzet-murktide:
     weight: 1.0
@@ -44,7 +44,7 @@ archetypes:
     avg_copies: 4.0
   unknown-96:
     weight: 1.0
-    avg_copies: 3.57
+    avg_copies: 3.6
   unknown-101:
     weight: 1.0
     avg_copies: 4.0

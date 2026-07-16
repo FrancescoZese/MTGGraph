@@ -13,7 +13,7 @@ archetypes:
     weight: 0.8889
     avg_copies: 3.12
   rakdos-aggro:
-    weight: 0.0556
+    weight: 0.0526
     avg_copies: 2.0
   goryo1:
     weight: 1.0
@@ -32,7 +32,7 @@ archetypes:
     avg_copies: 3.71
   unknown-39:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 3.5
   unknown-50:
     weight: 1.0
     avg_copies: 4.0
@@ -50,7 +50,7 @@ archetypes:
     avg_copies: 4.0
   unknown-139:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 3.4
   unknown-137:
     weight: 1.0
     avg_copies: 2.0

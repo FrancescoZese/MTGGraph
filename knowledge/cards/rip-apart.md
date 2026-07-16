@@ -8,9 +8,9 @@ name: Rip Apart
 scryfall_id: ab3443be-ab7f-4ab1-bc31-0ace68773f2d
 set: soc
 type: Sorcery
-meta_presence: 0.0008
+meta_presence: 0.0007
 archetypes:
   ruby-storm:
-    weight: 0.0214
+    weight: 0.0204
     avg_copies: 1.0
 ---

@@ -6,38 +6,38 @@ name: Soulless Jailer
 scryfall_id: bf9991fd-ea6a-4ed7-b5f1-46a95f8d0634
 set: one
 type: Artifact Creature — Phyrexian Golem
-meta_presence: 0.0871
+meta_presence: 0.0883
 archetypes:
   eldrazi-tron:
-    weight: 0.2654
+    weight: 0.2556
     avg_copies: 1.04
   amulet-titan:
-    weight: 0.1736
+    weight: 0.1667
     avg_copies: 2.24
   living-end:
-    weight: 0.0161
+    weight: 0.0154
     avg_copies: 2.0
   mono-blue-tron:
     weight: 0.1
     avg_copies: 1.0
   hammer-time:
-    weight: 0.4545
+    weight: 0.4167
     avg_copies: 2.0
   boros-ponza:
     weight: 0.1143
     avg_copies: 1.06
   yawgmoth-combo:
-    weight: 0.925
+    weight: 0.9259
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.487
-    avg_copies: 1.54
+    weight: 0.5
+    avg_copies: 1.51
   samwise-combo:
     weight: 0.2
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.6697
-    avg_copies: 1.47
+    weight: 0.6838
+    avg_copies: 1.44
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 2.5
@@ -48,13 +48,13 @@ archetypes:
     weight: 0.1667
     avg_copies: 2.0
   goryo1:
-    weight: 0.0207
+    weight: 0.0268
     avg_copies: 1.0
   goryo4:
-    weight: 0.3889
+    weight: 0.35
     avg_copies: 1.14
   goryo5:
-    weight: 0.125
+    weight: 0.1176
     avg_copies: 1.0
   soultrader-combo:
     weight: 0.3333
@@ -68,6 +68,9 @@ archetypes:
   unknown-41:
     weight: 1.0
     avg_copies: 1.0
+  unknown-61:
+    weight: 0.0714
+    avg_copies: 1.0
   unknown-76:
     weight: 0.5
     avg_copies: 1.67
@@ -75,7 +78,7 @@ archetypes:
     weight: 0.1333
     avg_copies: 1.0
   unknown-97:
-    weight: 0.125
+    weight: 0.1
     avg_copies: 2.0
   unknown-110:
     weight: 1.0
@@ -84,7 +87,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 3.0
   unknown-160:
-    weight: 0.2642
+    weight: 0.2456
     avg_copies: 1.0
   unknown-173:
     weight: 1.0
@@ -92,4 +95,7 @@ archetypes:
   unknown-176:
     weight: 1.0
     avg_copies: 1.0
+  unknown-194:
+    weight: 1.0
+    avg_copies: 1.5
 ---

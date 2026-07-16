@@ -7,9 +7,12 @@ name: Seismic Sense
 scryfall_id: a7b93c2a-c478-4734-8aca-03f3e9c11b20
 set: tla
 type: Sorcery — Lesson
-meta_presence: 0.0002
+meta_presence: 0.0004
 archetypes:
   eldrazi-ramp:
-    weight: 0.0087
+    weight: 0.0085
+    avg_copies: 1.0
+  unknown-196:
+    weight: 1.0
     avg_copies: 1.0
 ---
