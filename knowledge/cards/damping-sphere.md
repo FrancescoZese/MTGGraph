@@ -6,11 +6,11 @@ name: Damping Sphere
 scryfall_id: 550860b4-887d-423a-8add-816c2a8da615
 set: dmr
 type: Artifact
-meta_presence: 0.2802
+meta_presence: 0.2807
 archetypes:
   boros-energy:
-    weight: 0.2999
-    avg_copies: 1.39
+    weight: 0.3
+    avg_copies: 1.38
   dimir-control:
     weight: 0.1728
     avg_copies: 1.14
@@ -18,19 +18,19 @@ archetypes:
     weight: 0.4122
     avg_copies: 1.44
   eldrazi-tron:
-    weight: 0.0111
+    weight: 0.011
     avg_copies: 1.0
   goryo:
-    weight: 0.1355
+    weight: 0.135
     avg_copies: 1.73
   hardened-scales:
     weight: 1.0
     avg_copies: 3.0
   necrodominance:
-    weight: 0.7381
+    weight: 0.7442
     avg_copies: 2.03
   azorius-control:
-    weight: 0.0132
+    weight: 0.0127
     avg_copies: 1.0
   living-end:
     weight: 0.5538
@@ -39,8 +39,8 @@ archetypes:
     weight: 0.1556
     avg_copies: 1.71
   affinity:
-    weight: 0.9522
-    avg_copies: 2.19
+    weight: 0.9525
+    avg_copies: 2.18
   domain-zoo:
     weight: 0.6083
     avg_copies: 1.63
@@ -66,8 +66,8 @@ archetypes:
     weight: 0.0143
     avg_copies: 1.5
   yawgmoth-combo:
-    weight: 0.1358
-    avg_copies: 1.09
+    weight: 0.1463
+    avg_copies: 1.08
   eldrazi-ramp:
     weight: 0.0254
     avg_copies: 1.0
@@ -84,16 +84,16 @@ archetypes:
     weight: 0.0333
     avg_copies: 1.5
   broodscale-combo:
-    weight: 0.4359
-    avg_copies: 1.69
+    weight: 0.4351
+    avg_copies: 1.67
   orzhov-blink:
     weight: 0.6667
     avg_copies: 2.17
   dredge:
-    weight: 0.0417
+    weight: 0.04
     avg_copies: 2.0
   azorius-blink:
-    weight: 0.0333
+    weight: 0.0328
     avg_copies: 1.0
   elves:
     weight: 1.0
@@ -132,8 +132,8 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.7852
-    avg_copies: 1.79
+    weight: 0.7867
+    avg_copies: 1.8
   goryo4:
     weight: 0.45
     avg_copies: 2.33
@@ -166,7 +166,7 @@ archetypes:
     avg_copies: 2.0
   unknown-24:
     weight: 1.0
-    avg_copies: 2.2
+    avg_copies: 2.18
   unknown-23:
     weight: 1.0
     avg_copies: 2.5
@@ -222,7 +222,7 @@ archetypes:
     weight: 0.1143
     avg_copies: 1.75
   unknown-69:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 2.0
   unknown-72:
     weight: 1.0
@@ -344,4 +344,10 @@ archetypes:
   unknown-197:
     weight: 1.0
     avg_copies: 3.0
+  unknown-199:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-200:
+    weight: 1.0
+    avg_copies: 2.0
 ---

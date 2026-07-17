@@ -17,10 +17,10 @@ archetypes:
     weight: 0.1852
     avg_copies: 2.6
   yawgmoth-combo:
-    weight: 0.8889
-    avg_copies: 1.43
+    weight: 0.8902
+    avg_copies: 1.42
   goryo1:
-    weight: 0.0268
+    weight: 0.0267
     avg_copies: 2.0
   soultrader-combo:
     weight: 0.5
@@ -29,7 +29,7 @@ archetypes:
     weight: 0.2692
     avg_copies: 1.0
   unknown-67:
-    weight: 0.0154
+    weight: 0.0152
     avg_copies: 3.0
   unknown-68:
     weight: 0.1143
@@ -38,7 +38,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-115:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 2.0
   unknown-137:
     weight: 1.0

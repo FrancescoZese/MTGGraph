@@ -13,13 +13,13 @@ archetypes:
     weight: 0.0969
     avg_copies: 2.79
   mono-blue-belcher:
-    weight: 0.5974
-    avg_copies: 1.76
+    weight: 0.6026
+    avg_copies: 1.77
   goryo:
-    weight: 0.0037
+    weight: 0.0036
     avg_copies: 1.0
   affinity:
-    weight: 0.106
+    weight: 0.1054
     avg_copies: 1.0
   mono-blue-tron:
     weight: 0.35
@@ -28,7 +28,7 @@ archetypes:
     weight: 0.0169
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0443
+    weight: 0.0436
     avg_copies: 1.25
   izzet-wizards:
     weight: 0.1667

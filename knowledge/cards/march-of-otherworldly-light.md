@@ -7,13 +7,13 @@ name: March of Otherworldly Light
 scryfall_id: 553fb946-2706-475b-89f9-e4355ec9ea2b
 set: neo
 type: Instant
-meta_presence: 0.0853
+meta_presence: 0.0855
 archetypes:
   ruby-storm:
     weight: 0.0306
     avg_copies: 2.0
   boros-energy:
-    weight: 0.0345
+    weight: 0.0343
     avg_copies: 1.03
   jeskai-energy:
     weight: 0.7557
@@ -22,11 +22,11 @@ archetypes:
     weight: 0.0037
     avg_copies: 2.0
   goryo:
-    weight: 0.5604
+    weight: 0.562
     avg_copies: 1.05
   azorius-control:
-    weight: 0.2368
-    avg_copies: 1.15
+    weight: 0.2532
+    avg_copies: 1.14
   jeskai-control:
     weight: 0.2222
     avg_copies: 1.0
@@ -43,8 +43,8 @@ archetypes:
     weight: 0.2222
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.7167
-    avg_copies: 1.88
+    weight: 0.7213
+    avg_copies: 1.89
   goryo6:
     weight: 0.75
     avg_copies: 4.0
@@ -94,7 +94,7 @@ archetypes:
     weight: 0.1
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0351
+    weight: 0.0339
     avg_copies: 1.0
   unknown-186:
     weight: 1.0

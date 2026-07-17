@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0596
 archetypes:
   boros-energy:
-    weight: 0.0315
+    weight: 0.0313
     avg_copies: 1.27
   jeskai-control:
     weight: 0.0222
@@ -37,10 +37,10 @@ archetypes:
     weight: 0.0333
     avg_copies: 1.5
   broodscale-combo:
-    weight: 0.0043
+    weight: 0.0042
     avg_copies: 3.0
   azorius-blink:
-    weight: 0.2
+    weight: 0.1967
     avg_copies: 1.0
   elves:
     weight: 1.0
@@ -86,7 +86,7 @@ archetypes:
     avg_copies: 4.0
   unknown-160:
     weight: 1.0
-    avg_copies: 3.28
+    avg_copies: 3.29
   unknown-169:
     weight: 1.0
     avg_copies: 4.0

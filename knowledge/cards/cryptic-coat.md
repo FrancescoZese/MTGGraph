@@ -7,7 +7,7 @@ name: Cryptic Coat
 scryfall_id: 0c3d7e2c-a104-4757-9984-fb31088f92c4
 set: mkm
 type: Artifact — Equipment
-meta_presence: 0.0017
+meta_presence: 0.0016
 archetypes:
   hammer-time:
     weight: 0.5833

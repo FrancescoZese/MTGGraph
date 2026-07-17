@@ -12,7 +12,7 @@ archetypes:
     weight: 0.0123
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.1778
+    weight: 0.1765
     avg_copies: 1.06
   amulet-titan:
     weight: 0.0733
@@ -21,7 +21,7 @@ archetypes:
     weight: 0.0073
     avg_copies: 1.0
   affinity:
-    weight: 0.027
+    weight: 0.0269
     avg_copies: 1.0
   burn:
     weight: 0.0286
@@ -111,7 +111,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-160:
-    weight: 0.1579
+    weight: 0.1525
     avg_copies: 1.56
   unknown-162:
     weight: 1.0
@@ -125,4 +125,7 @@ archetypes:
   unknown-170:
     weight: 1.0
     avg_copies: 1.5
+  unknown-200:
+    weight: 1.0
+    avg_copies: 2.0
 ---

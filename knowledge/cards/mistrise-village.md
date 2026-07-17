@@ -9,13 +9,16 @@ type: Land
 meta_presence: 0.0233
 archetypes:
   azorius-control:
-    weight: 0.0263
+    weight: 0.0253
     avg_copies: 1.0
   living-end:
     weight: 0.6154
     avg_copies: 1.0
   jeskai-control:
     weight: 0.1111
+    avg_copies: 1.0
+  neoform-combo:
+    weight: 0.0154
     avg_copies: 1.0
   mono-blue-tron:
     weight: 0.05
@@ -42,7 +45,7 @@ archetypes:
     weight: 0.7143
     avg_copies: 1.0
   unknown-67:
-    weight: 0.7385
+    weight: 0.7273
     avg_copies: 1.0
   unknown-84:
     weight: 0.6667

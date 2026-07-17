@@ -16,7 +16,7 @@ archetypes:
     weight: 0.02
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0132
+    weight: 0.0127
     avg_copies: 2.0
   domain-zoo:
     weight: 0.2
@@ -34,11 +34,11 @@ archetypes:
     weight: 0.0125
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.0406
+    weight: 0.04
     avg_copies: 1.45
   broodscale-combo:
-    weight: 0.1453
-    avg_copies: 1.68
+    weight: 0.1464
+    avg_copies: 1.69
   izzet-artifacts:
     weight: 0.0938
     avg_copies: 1.67
@@ -64,7 +64,7 @@ archetypes:
     weight: 0.1905
     avg_copies: 2.0
   goryo1:
-    weight: 0.8993
+    weight: 0.9
     avg_copies: 1.81
   unknown-4:
     weight: 1.0

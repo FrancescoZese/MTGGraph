@@ -9,10 +9,10 @@ type: Land
 meta_presence: 0.0084
 archetypes:
   necrodominance:
-    weight: 0.0238
+    weight: 0.0233
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.0123
+    weight: 0.0122
     avg_copies: 1.0
   simic-ritual:
     weight: 0.0125
@@ -21,7 +21,7 @@ archetypes:
     weight: 0.4833
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0128
+    weight: 0.0126
     avg_copies: 1.0
   goryo5:
     weight: 0.0588

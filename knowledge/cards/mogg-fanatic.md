@@ -7,7 +7,7 @@ name: Mogg Fanatic
 scryfall_id: d479ca28-bdc2-4b87-abf7-5aeb229a3f1e
 set: ema
 type: Creature — Goblin
-meta_presence: 0.0006
+meta_presence: 0.0005
 archetypes:
   burn:
     weight: 0.0857

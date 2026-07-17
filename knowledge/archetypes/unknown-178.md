@@ -5,10 +5,16 @@ name: 'Unknown #178'
 meta_share: 0.0004
 list_count: 2
 top_cards:
-- name: Lightning Bolt
+- name: Goblin Guide
   weight: 1.0
   avg_copies: 4.0
 - name: Monastery Swiftspear
+  weight: 1.0
+  avg_copies: 4.0
+- name: Seal of Fire
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: card:bump-in-the-night
@@ -17,37 +23,31 @@ top_cards:
 - name: Lava Spike
   weight: 1.0
   avg_copies: 4.0
-- name: Seal of Fire
+- name: Rift Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Boltwave
   weight: 1.0
   avg_copies: 4.0
-- name: Goblin Guide
-  weight: 1.0
-  avg_copies: 4.0
-- name: Rift Bolt
-  weight: 1.0
-  avg_copies: 4.0
 - name: Barbarian Ring
-  weight: 1.0
-  avg_copies: 3.0
-- name: Chandra's Incinerator
   weight: 1.0
   avg_copies: 3.0
 - name: Arena of Glory
   weight: 1.0
   avg_copies: 3.0
-- name: Arid Mesa
+- name: Chandra's Incinerator
+  weight: 1.0
+  avg_copies: 3.0
+- name: Skewer the Critics
   weight: 1.0
   avg_copies: 2.0
-- name: Skewer the Critics
+- name: Smash to Smithereens
   weight: 1.0
   avg_copies: 2.0
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 2.0
-- name: Smash to Smithereens
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 2.0
 - name: Searing Blaze
@@ -62,16 +62,13 @@ top_cards:
 - name: Skullcrack
   weight: 1.0
   avg_copies: 1.5
-- name: Eidolon of the Great Revel
-  weight: 1.0
-  avg_copies: 1.0
-- name: Mountain
+- name: Molten Rain
   weight: 1.0
   avg_copies: 1.0
 - name: Pyroclasm
   weight: 1.0
   avg_copies: 1.0
-- name: Exquisite Firecraft
+- name: Rain of Gore
   weight: 1.0
   avg_copies: 1.0
 - name: Bloodstained Mire
@@ -80,16 +77,19 @@ top_cards:
 - name: Wooded Foothills
   weight: 1.0
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Exquisite Firecraft
   weight: 1.0
   avg_copies: 1.0
-- name: Molten Rain
+- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 1.0
-- name: Rain of Gore
+- name: Eidolon of the Great Revel
+  weight: 1.0
+  avg_copies: 1.0
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
 - name: Surgical Extraction

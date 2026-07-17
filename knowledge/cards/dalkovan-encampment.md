@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.0782
 archetypes:
   boros-energy:
-    weight: 0.6057
+    weight: 0.6075
     avg_copies: 1.25
   unknown-68:
     weight: 0.6286

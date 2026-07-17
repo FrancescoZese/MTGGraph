@@ -15,13 +15,13 @@ archetypes:
     weight: 0.0067
     avg_copies: 2.0
   neoform-combo:
-    weight: 0.7778
+    weight: 0.7692
     avg_copies: 1.19
   simic-ritual:
     weight: 0.975
     avg_copies: 2.01
   broodscale-combo:
-    weight: 0.0085
+    weight: 0.0084
     avg_copies: 2.0
   unknown-60:
     weight: 1.0

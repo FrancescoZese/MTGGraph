@@ -11,7 +11,7 @@ meta_presence: 0.0295
 archetypes:
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 3.86
+    avg_copies: 3.84
   4c-omnath:
     weight: 0.25
     avg_copies: 3.0
@@ -19,7 +19,7 @@ archetypes:
     weight: 0.0167
     avg_copies: 3.0
   broodscale-combo:
-    weight: 0.1538
+    weight: 0.1506
     avg_copies: 2.64
   mono-green-ramp:
     weight: 0.6667

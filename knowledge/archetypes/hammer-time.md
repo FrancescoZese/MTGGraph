@@ -6,10 +6,10 @@ name: Hammer Time
 meta_share: 0.0022
 list_count: 12
 top_cards:
-- name: Colossus Hammer
+- name: Stoneforge Mystic
   weight: 1.0
   avg_copies: 4.0
-- name: Stoneforge Mystic
+- name: Colossus Hammer
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
@@ -108,10 +108,10 @@ top_cards:
 - name: Portable Hole
   weight: 0.3333
   avg_copies: 2.0
-- name: Stern Scolding
+- name: Paradise Mantle
   weight: 0.3333
   avg_copies: 1.0
-- name: Paradise Mantle
+- name: Stern Scolding
   weight: 0.3333
   avg_copies: 1.0
 - name: card:super-soldier-serum
@@ -129,13 +129,13 @@ top_cards:
 - name: Test of Talents
   weight: 0.1667
   avg_copies: 2.0
-- name: Detect Intrusion
+- name: Sigarda's Aid
   weight: 0.1667
   avg_copies: 1.5
 - name: Prismatic Ending
   weight: 0.1667
   avg_copies: 1.5
-- name: Sigarda's Aid
+- name: Detect Intrusion
   weight: 0.1667
   avg_copies: 1.5
 - name: Voice of Victory
@@ -150,31 +150,31 @@ top_cards:
 - name: Flare of Fortitude
   weight: 0.0833
   avg_copies: 4.0
-- name: Containment Priest
-  weight: 0.0833
-  avg_copies: 2.0
 - name: Erode
   weight: 0.0833
   avg_copies: 2.0
-- name: Skateboard
+- name: Containment Priest
+  weight: 0.0833
+  avg_copies: 2.0
+- name: card:spider-sense
   weight: 0.0833
   avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.0833
   avg_copies: 1.0
+- name: Spell Snare
+  weight: 0.0833
+  avg_copies: 1.0
 - name: Forge Anew
   weight: 0.0833
   avg_copies: 1.0
-- name: Umezawa's Jitte
-  weight: 0.0833
-  avg_copies: 1.0
-- name: card:spider-sense
+- name: Skateboard
   weight: 0.0833
   avg_copies: 1.0
 - name: Kaldra Compleat
   weight: 0.0833
   avg_copies: 1.0
-- name: Spell Snare
+- name: Umezawa's Jitte
   weight: 0.0833
   avg_copies: 1.0
 ---

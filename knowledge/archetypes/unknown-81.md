@@ -8,16 +8,7 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 9.0
-- name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Tarfire
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mutagenic Growth
-  weight: 1.0
-  avg_copies: 4.0
-- name: Dragon's Rage Channeler
+- name: Fire-Brained Scheme
   weight: 1.0
   avg_copies: 4.0
 - name: Wooded Foothills
@@ -29,10 +20,13 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 4.0
-- name: Lava Spike
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Fire-Brained Scheme
+- name: Lava Dart
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lava Spike
   weight: 1.0
   avg_copies: 4.0
 - name: Slickshot Show-Off
@@ -41,25 +35,31 @@ top_cards:
 - name: Light Up the Stage
   weight: 1.0
   avg_copies: 4.0
-- name: Lava Dart
+- name: Mutagenic Growth
   weight: 1.0
   avg_copies: 4.0
-- name: Blood Moon
+- name: Dragon's Rage Channeler
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 4.0
+- name: Tarfire
+  weight: 1.0
+  avg_copies: 4.0
 - name: Soul-Guide Lantern
-  weight: 1.0
-  avg_copies: 3.0
-- name: Sunbaked Canyon
   weight: 1.0
   avg_copies: 3.0
 - name: Unholy Heat
   weight: 1.0
   avg_copies: 3.0
-- name: Bloodstained Mire
+- name: Blood Moon
+  weight: 1.0
+  avg_copies: 3.0
+- name: Sunbaked Canyon
+  weight: 1.0
+  avg_copies: 3.0
+- name: Meltdown
   weight: 1.0
   avg_copies: 2.0
-- name: Meltdown
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.0
 - name: Soul-Scar Mage

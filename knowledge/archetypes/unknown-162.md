@@ -2,7 +2,7 @@
 colors:
 - B
 name: 'Unknown #162'
-meta_share: 0.0006
+meta_share: 0.0005
 list_count: 3
 top_cards:
 - name: Swamp
@@ -14,13 +14,13 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
+- name: March of Wretched Sorrow
+  weight: 1.0
+  avg_copies: 4.0
 - name: Karn, the Great Creator
   weight: 1.0
   avg_copies: 4.0
 - name: Inquisition of Kozilek
-  weight: 1.0
-  avg_copies: 4.0
-- name: March of Wretched Sorrow
   weight: 1.0
   avg_copies: 4.0
 - name: Cabal Coffers
@@ -38,16 +38,16 @@ top_cards:
 - name: Relic of Progenitus
   weight: 1.0
   avg_copies: 2.33
-- name: Sheoldred, the Apocalypse
-  weight: 1.0
-  avg_copies: 2.0
-- name: Engineered Explosives
+- name: Mazemind Tome
   weight: 1.0
   avg_copies: 2.0
 - name: Sheoldred's Edict
   weight: 1.0
   avg_copies: 2.0
-- name: Mazemind Tome
+- name: Sheoldred, the Apocalypse
+  weight: 1.0
+  avg_copies: 2.0
+- name: Engineered Explosives
   weight: 1.0
   avg_copies: 2.0
 - name: Profane Tutor
@@ -59,31 +59,31 @@ top_cards:
 - name: Cling to Dust
   weight: 1.0
   avg_copies: 1.33
-- name: Liquimetal Coating
-  weight: 1.0
-  avg_copies: 1.0
-- name: Ensnaring Bridge
-  weight: 1.0
-  avg_copies: 1.0
 - name: Walking Ballista
-  weight: 1.0
-  avg_copies: 1.0
-- name: Oblivion Stone
-  weight: 1.0
-  avg_copies: 1.0
-- name: Sundering Titan
   weight: 1.0
   avg_copies: 1.0
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 1.0
-- name: Tormod's Crypt
+- name: Ensnaring Bridge
   weight: 1.0
   avg_copies: 1.0
 - name: Cityscape Leveler
   weight: 1.0
   avg_copies: 1.0
+- name: Liquimetal Coating
+  weight: 1.0
+  avg_copies: 1.0
+- name: Oblivion Stone
+  weight: 1.0
+  avg_copies: 1.0
 - name: card:thought-distortion
+  weight: 1.0
+  avg_copies: 1.0
+- name: Tormod's Crypt
+  weight: 1.0
+  avg_copies: 1.0
+- name: Sundering Titan
   weight: 1.0
   avg_copies: 1.0
 - name: Break the Ice
@@ -92,19 +92,19 @@ top_cards:
 - name: Expedition Map
   weight: 0.6667
   avg_copies: 2.0
-- name: The Stone Brain
-  weight: 0.6667
-  avg_copies: 1.0
 - name: Elixir of Immortality
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Undercity Sewers
   weight: 0.6667
   avg_copies: 1.0
 - name: Castle Locthwain
   weight: 0.6667
   avg_copies: 1.0
 - name: Polluted Delta
+  weight: 0.6667
+  avg_copies: 1.0
+- name: The Stone Brain
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Undercity Sewers
   weight: 0.6667
   avg_copies: 1.0
 - name: Verdant Catacombs

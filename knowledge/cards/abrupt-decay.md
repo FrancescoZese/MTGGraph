@@ -11,7 +11,7 @@ type: Instant
 meta_presence: 0.0035
 archetypes:
   neoform-combo:
-    weight: 0.0317
+    weight: 0.0308
     avg_copies: 3.0
   eldrazi-ramp:
     weight: 0.0085

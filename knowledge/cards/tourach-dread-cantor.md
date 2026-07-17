@@ -7,11 +7,11 @@ name: Tourach, Dread Cantor
 scryfall_id: f3526751-0101-4d91-a496-c53cd92326e0
 set: mh2
 type: Legendary Creature — Human Cleric
-meta_presence: 0.0046
+meta_presence: 0.0047
 archetypes:
   necrodominance:
-    weight: 0.4524
-    avg_copies: 1.63
+    weight: 0.4651
+    avg_copies: 1.65
   jund-saga:
     weight: 0.5
     avg_copies: 1.0
@@ -22,6 +22,6 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-69:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 2.0
 ---

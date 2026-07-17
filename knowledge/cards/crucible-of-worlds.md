@@ -9,10 +9,10 @@ type: Artifact
 meta_presence: 0.0086
 archetypes:
   eldrazi-tron:
-    weight: 0.1222
+    weight: 0.1213
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0159
+    weight: 0.0154
     avg_copies: 1.0
   boros-ponza:
     weight: 0.05
@@ -27,6 +27,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0175
+    weight: 0.0169
     avg_copies: 1.0
 ---

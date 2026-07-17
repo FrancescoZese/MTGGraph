@@ -4,7 +4,7 @@ colors:
 - B
 - G
 name: 'Unknown #126'
-meta_share: 0.0039
+meta_share: 0.0038
 list_count: 21
 top_cards:
 - name: Nature's Rhythm
@@ -19,10 +19,10 @@ top_cards:
 - name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 3.9
-- name: Badgermole Cub
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 3.86
-- name: Verdant Catacombs
+- name: Badgermole Cub
   weight: 1.0
   avg_copies: 3.86
 - name: Delighted Halfling
@@ -49,7 +49,7 @@ top_cards:
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.1
-- name: Collector Ouphe
+- name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.0
 - name: Temple Garden
@@ -61,7 +61,7 @@ top_cards:
 - name: Duskwatch Recruiter
   weight: 1.0
   avg_copies: 1.0
-- name: Underground Mortuary
+- name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
 - name: card:birds-of-paradise
@@ -82,16 +82,16 @@ top_cards:
 - name: Force of Vigor
   weight: 0.8571
   avg_copies: 2.11
-- name: Lush Portico
-  weight: 0.8571
-  avg_copies: 1.0
-- name: Grist, the Hunger Tide
+- name: Outland Liberator
   weight: 0.8571
   avg_copies: 1.0
 - name: Kraul Harpooner
   weight: 0.8571
   avg_copies: 1.0
-- name: Outland Liberator
+- name: Grist, the Hunger Tide
+  weight: 0.8571
+  avg_copies: 1.0
+- name: Lush Portico
   weight: 0.8571
   avg_copies: 1.0
 - name: Damping Sphere
@@ -100,22 +100,22 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.8095
   avg_copies: 1.06
-- name: Keen-Eyed Curator
-  weight: 0.8095
-  avg_copies: 1.0
 - name: Suncleanser
   weight: 0.8095
   avg_copies: 1.0
 - name: Eternal Witness
   weight: 0.8095
   avg_copies: 1.0
+- name: Keen-Eyed Curator
+  weight: 0.8095
+  avg_copies: 1.0
 - name: Orim's Chant
   weight: 0.7619
   avg_copies: 2.88
-- name: Sylvan Safekeeper
+- name: card:ethersworn-canonist
   weight: 0.7143
   avg_copies: 1.0
-- name: card:ethersworn-canonist
+- name: Sylvan Safekeeper
   weight: 0.7143
   avg_copies: 1.0
 - name: Snow-Covered Forest
@@ -136,10 +136,10 @@ top_cards:
 - name: card:shang-chi-master-of-kung-fu
   weight: 0.1905
   avg_copies: 1.0
-- name: Chord of Calling
+- name: Drannith Magistrate
   weight: 0.1905
   avg_copies: 1.0
-- name: Drannith Magistrate
+- name: Chord of Calling
   weight: 0.1905
   avg_copies: 1.0
 - name: Leyline of Abundance
@@ -163,16 +163,13 @@ top_cards:
 - name: Thoughtseize
   weight: 0.0476
   avg_copies: 2.0
-- name: Horizon Canopy
+- name: Six
+  weight: 0.0476
+  avg_copies: 1.0
+- name: card:dauntless-escort
   weight: 0.0476
   avg_copies: 1.0
 - name: Formidable Speaker
-  weight: 0.0476
-  avg_copies: 1.0
-- name: card:guerrilla-gorilla
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Six
   weight: 0.0476
   avg_copies: 1.0
 - name: Deafening Silence
@@ -181,13 +178,16 @@ top_cards:
 - name: Crystal Barricade
   weight: 0.0476
   avg_copies: 1.0
-- name: card:dauntless-escort
+- name: Horizon Canopy
   weight: 0.0476
   avg_copies: 1.0
 - name: Pithing Needle
   weight: 0.0476
   avg_copies: 1.0
 - name: Reclamation Sage
+  weight: 0.0476
+  avg_copies: 1.0
+- name: card:guerrilla-gorilla
   weight: 0.0476
   avg_copies: 1.0
 ---

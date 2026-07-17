@@ -10,16 +10,16 @@ top_cards:
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Persist
   weight: 1.0
   avg_copies: 4.0
-- name: Persist
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
-- name: Archon of Cruelty
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
 - name: Prismatic Ending
@@ -28,10 +28,10 @@ top_cards:
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 3.6
-- name: Faithful Mending
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 3.4
-- name: Polluted Delta
+- name: Faithful Mending
   weight: 1.0
   avg_copies: 3.4
 - name: Wrath of the Skies
@@ -43,19 +43,13 @@ top_cards:
 - name: Force of Negation
   weight: 1.0
   avg_copies: 2.2
-- name: Meticulous Archive
-  weight: 1.0
-  avg_copies: 1.0
-- name: Swamp
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
-- name: Plains
-  weight: 1.0
-  avg_copies: 1.0
-- name: Undercity Sewers
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Hallowed Fountain
@@ -67,34 +61,40 @@ top_cards:
 - name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Consign to Memory
+- name: Plains
+  weight: 1.0
+  avg_copies: 1.0
+- name: Undercity Sewers
+  weight: 1.0
+  avg_copies: 1.0
+- name: Solitude
   weight: 0.8
   avg_copies: 4.0
 - name: Quantum Riddler
   weight: 0.8
   avg_copies: 4.0
-- name: Solitude
+- name: Consign to Memory
   weight: 0.8
   avg_copies: 4.0
 - name: Ephemerate
   weight: 0.8
   avg_copies: 3.75
-- name: Teferi, Time Raveler
+- name: Mystical Dispute
   weight: 0.6
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Teferi, Time Raveler
   weight: 0.6
   avg_copies: 2.0
 - name: Pest Control
   weight: 0.4
   avg_copies: 1.0
-- name: Emeritus of Ideation
+- name: Tainted Indulgence
   weight: 0.2
   avg_copies: 4.0
-- name: Tainted Indulgence
+- name: Emeritus of Ideation
   weight: 0.2
   avg_copies: 4.0
 - name: Force of Despair
@@ -103,13 +103,13 @@ top_cards:
 - name: Damping Sphere
   weight: 0.2
   avg_copies: 3.0
-- name: Nihil Spellbomb
-  weight: 0.2
-  avg_copies: 2.0
 - name: Fatal Push
   weight: 0.2
   avg_copies: 2.0
 - name: Sheoldred, the Apocalypse
+  weight: 0.2
+  avg_copies: 2.0
+- name: Nihil Spellbomb
   weight: 0.2
   avg_copies: 2.0
 - name: Drannith Magistrate
@@ -121,10 +121,10 @@ top_cards:
 - name: Inquisition of Kozilek
   weight: 0.2
   avg_copies: 1.5
-- name: card:momentary-blink
+- name: Winternight Stories
   weight: 0.2
   avg_copies: 1.0
-- name: Winternight Stories
+- name: card:momentary-blink
   weight: 0.2
   avg_copies: 1.0
 ---

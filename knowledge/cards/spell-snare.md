@@ -16,22 +16,22 @@ archetypes:
     weight: 0.9877
     avg_copies: 2.46
   mono-blue-belcher:
-    weight: 0.9091
+    weight: 0.9103
     avg_copies: 1.88
   jeskai-energy:
     weight: 0.1832
     avg_copies: 1.13
   goryo:
-    weight: 0.3626
+    weight: 0.3613
     avg_copies: 1.39
   azorius-control:
-    weight: 0.75
-    avg_copies: 1.81
+    weight: 0.7342
+    avg_copies: 1.79
   jeskai-control:
     weight: 0.6222
     avg_copies: 1.24
   affinity:
-    weight: 0.0042
+    weight: 0.0041
     avg_copies: 1.0
   mill:
     weight: 0.0323
@@ -40,7 +40,7 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0476
+    weight: 0.0462
     avg_copies: 1.67
   mono-blue-tron:
     weight: 0.45
@@ -52,7 +52,7 @@ archetypes:
     weight: 0.05
     avg_copies: 1.75
   izzet-prowess:
-    weight: 0.3985
+    weight: 0.4
     avg_copies: 1.41
   4c-omnath:
     weight: 0.25
@@ -61,7 +61,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.86
   azorius-blink:
-    weight: 0.0333
+    weight: 0.0328
     avg_copies: 2.0
   esper-control:
     weight: 1.0
@@ -82,7 +82,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   goryo1:
-    weight: 0.1342
+    weight: 0.1333
     avg_copies: 1.3
   goryo2:
     weight: 0.375
@@ -219,4 +219,7 @@ archetypes:
   unknown-192:
     weight: 1.0
     avg_copies: 2.0
+  unknown-200:
+    weight: 1.0
+    avg_copies: 3.0
 ---

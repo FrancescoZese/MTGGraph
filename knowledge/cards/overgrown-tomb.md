@@ -9,10 +9,10 @@ type: Land — Swamp Forest
 meta_presence: 0.08
 archetypes:
   goryo:
-    weight: 0.2857
+    weight: 0.2883
     avg_copies: 1.03
   necrodominance:
-    weight: 0.0238
+    weight: 0.0233
     avg_copies: 2.0
   living-end:
     weight: 0.7846
@@ -36,7 +36,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.83
   broodscale-combo:
-    weight: 0.0128
+    weight: 0.0126
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
@@ -90,7 +90,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   unknown-67:
-    weight: 0.0154
+    weight: 0.0152
     avg_copies: 1.0
   unknown-79:
     weight: 0.3333
@@ -112,6 +112,9 @@ archetypes:
     avg_copies: 1.0
   unknown-114:
     weight: 1.0
+    avg_copies: 1.0
+  unknown-115:
+    weight: 0.5
     avg_copies: 1.0
   unknown-126:
     weight: 1.0

@@ -6,16 +6,16 @@ name: 'Unknown #101'
 meta_share: 0.0009
 list_count: 5
 top_cards:
-- name: Hollow One
+- name: Detective's Phoenix
+  weight: 1.0
+  avg_copies: 4.0
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
-- name: Detective's Phoenix
-  weight: 1.0
-  avg_copies: 4.0
-- name: Faithless Looting
+- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
 - name: Nethergoyf
@@ -24,31 +24,31 @@ top_cards:
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 3.0
-- name: Mountain
+- name: Meltdown
   weight: 1.0
   avg_copies: 2.8
-- name: Meltdown
+- name: Mountain
   weight: 1.0
   avg_copies: 2.8
 - name: Arena of Glory
   weight: 1.0
   avg_copies: 2.6
-- name: Fear of Missing Out
-  weight: 1.0
-  avg_copies: 2.2
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 2.2
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.2
+- name: Fear of Missing Out
+  weight: 1.0
+  avg_copies: 2.2
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.2
-- name: Marauding Mako
+- name: Burning Inquiry
   weight: 0.8
   avg_copies: 4.0
-- name: Burning Inquiry
+- name: Marauding Mako
   weight: 0.8
   avg_copies: 4.0
 - name: Lightning Bolt
@@ -99,16 +99,16 @@ top_cards:
 - name: Mishra's Bauble
   weight: 0.2
   avg_copies: 4.0
-- name: Surgical Extraction
+- name: Magebane Lizard
   weight: 0.2
   avg_copies: 3.0
 - name: Faerie Macabre
   weight: 0.2
   avg_copies: 3.0
-- name: Kroxa, Titan of Death's Hunger
+- name: Surgical Extraction
   weight: 0.2
   avg_copies: 3.0
-- name: Magebane Lizard
+- name: Kroxa, Titan of Death's Hunger
   weight: 0.2
   avg_copies: 3.0
 - name: Wear
@@ -117,7 +117,7 @@ top_cards:
 - name: Rough
   weight: 0.2
   avg_copies: 2.0
-- name: Cool but Rude
+- name: Seal of Fire
   weight: 0.2
   avg_copies: 1.0
 - name: Sacred Foundry
@@ -129,10 +129,10 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 0.2
   avg_copies: 1.0
-- name: Seal of Fire
+- name: Ox of Agonas
   weight: 0.2
   avg_copies: 1.0
-- name: Ox of Agonas
+- name: Cool but Rude
   weight: 0.2
   avg_copies: 1.0
 ---

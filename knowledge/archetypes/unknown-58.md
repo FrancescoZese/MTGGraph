@@ -3,10 +3,10 @@ colors:
 - B
 - R
 name: 'Unknown #58'
-meta_share: 0.0006
+meta_share: 0.0005
 list_count: 3
 top_cards:
-- name: The Underworld Cookbook
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
@@ -18,13 +18,13 @@ top_cards:
 - name: Persist
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
-  weight: 1.0
-  avg_copies: 4.0
 - name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
 - name: Asmoranomardicadaistinaculdacar
+  weight: 1.0
+  avg_copies: 4.0
+- name: The Underworld Cookbook
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
@@ -51,10 +51,10 @@ top_cards:
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.33
-- name: Nihil Spellbomb
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Mountain
+- name: Nihil Spellbomb
   weight: 1.0
   avg_copies: 1.0
 - name: Monument to Endurance
@@ -69,16 +69,16 @@ top_cards:
 - name: Fatal Push
   weight: 0.6667
   avg_copies: 1.67
-- name: Fire Magic
-  weight: 0.6667
-  avg_copies: 1.5
 - name: Inti, Seneschal of the Sun
   weight: 0.6667
   avg_copies: 1.5
-- name: Ashiok, Dream Render
+- name: Fire Magic
+  weight: 0.6667
+  avg_copies: 1.5
+- name: Magus of the Moon
   weight: 0.6667
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Verdant Catacombs
   weight: 0.6667
   avg_copies: 1.0
 - name: Soul-Guide Lantern
@@ -87,31 +87,31 @@ top_cards:
 - name: Unholy Heat
   weight: 0.6667
   avg_copies: 1.0
-- name: Magus of the Moon
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Surgical Extraction
+- name: Haywire Mite
   weight: 0.6667
   avg_copies: 1.0
 - name: Wooded Foothills
   weight: 0.6667
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Surgical Extraction
   weight: 0.6667
   avg_copies: 1.0
 - name: Overgrown Tomb
   weight: 0.6667
   avg_copies: 1.0
-- name: Verdant Catacombs
+- name: Pithing Needle
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
   weight: 0.6667
   avg_copies: 1.0
 - name: Leyline of the Void
   weight: 0.3333
   avg_copies: 4.0
-- name: Break the Ice
+- name: Fable of the Mirror-Breaker
   weight: 0.3333
   avg_copies: 3.0
-- name: Fable of the Mirror-Breaker
+- name: Break the Ice
   weight: 0.3333
   avg_copies: 3.0
 - name: Detective's Phoenix
@@ -120,19 +120,19 @@ top_cards:
 - name: Overlord of the Balemurk
   weight: 0.3333
   avg_copies: 1.0
-- name: Skateboard
-  weight: 0.3333
-  avg_copies: 1.0
-- name: card:archfiend-of-ifnir
-  weight: 0.3333
-  avg_copies: 1.0
 - name: card:vaultborn-tyrant
   weight: 0.3333
   avg_copies: 1.0
 - name: Castle Locthwain
   weight: 0.3333
   avg_copies: 1.0
+- name: card:archfiend-of-ifnir
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Polluted Delta
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Skateboard
   weight: 0.3333
   avg_copies: 1.0
 ---

@@ -6,13 +6,16 @@ name: 'Unknown #75'
 meta_share: 0.0002
 list_count: 1
 top_cards:
-- name: Arid Mesa
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
+- name: Phelia, Exuberant Shepherd
+  weight: 1.0
+  avg_copies: 4.0
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Quantum Riddler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Hallowed Fountain
@@ -21,43 +24,34 @@ top_cards:
 - name: Ranger-Captain of Eos
   weight: 1.0
   avg_copies: 4.0
-- name: Phelia, Exuberant Shepherd
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
-  weight: 1.0
-  avg_copies: 4.0
-- name: Solitude
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
 - name: Prismatic Ending
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 4.0
 - name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
-- name: Ephemerate
+- name: Guide of Souls
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 3.0
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 3.0
-- name: Mystical Dispute
+- name: Ephemerate
   weight: 1.0
   avg_copies: 3.0
-- name: Meticulous Archive
-  weight: 1.0
-  avg_copies: 2.0
 - name: March of Otherworldly Light
   weight: 1.0
   avg_copies: 2.0
-- name: Chalice of the Void
-  weight: 1.0
-  avg_copies: 2.0
-- name: Plains
+- name: Voice of Victory
   weight: 1.0
   avg_copies: 2.0
 - name: Rest in Peace
@@ -66,7 +60,13 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 2.0
-- name: Voice of Victory
+- name: Meticulous Archive
+  weight: 1.0
+  avg_copies: 2.0
+- name: Plains
+  weight: 1.0
+  avg_copies: 2.0
+- name: Chalice of the Void
   weight: 1.0
   avg_copies: 2.0
 - name: Consign to Memory

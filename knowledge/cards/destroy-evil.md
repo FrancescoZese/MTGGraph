@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0026
 archetypes:
   boros-energy:
-    weight: 0.0165
+    weight: 0.0164
     avg_copies: 1.18
   jeskai-energy:
     weight: 0.0229

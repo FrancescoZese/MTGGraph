@@ -2,7 +2,7 @@
 colors:
 - G
 name: Amulet Titan
-meta_share: 0.0275
+meta_share: 0.0273
 list_count: 150
 top_cards:
 - name: Arboreal Grazer
@@ -41,10 +41,10 @@ top_cards:
 - name: Tolaria West
   weight: 1.0
   avg_copies: 1.01
-- name: Mirrorpool
+- name: Hanweir Battlements
   weight: 1.0
   avg_copies: 1.0
-- name: Hanweir Battlements
+- name: Mirrorpool
   weight: 1.0
   avg_copies: 1.0
 - name: Force of Vigor
@@ -173,10 +173,10 @@ top_cards:
 - name: Outland Liberator
   weight: 0.04
   avg_copies: 1.0
-- name: Commercial District
+- name: Wooded Foothills
   weight: 0.0333
   avg_copies: 1.0
-- name: Wooded Foothills
+- name: Commercial District
   weight: 0.0333
   avg_copies: 1.0
 - name: Dryad of the Ilysian Grove
@@ -188,28 +188,28 @@ top_cards:
 - name: Valakut, the Molten Pinnacle
   weight: 0.0267
   avg_copies: 1.0
+- name: Hedge Maze
+  weight: 0.0267
+  avg_copies: 1.0
 - name: Creeping Corrosion
   weight: 0.0267
   avg_copies: 1.0
-- name: Hedge Maze
-  weight: 0.0267
+- name: Windswept Heath
+  weight: 0.02
+  avg_copies: 1.0
+- name: Pyroclasm
+  weight: 0.02
   avg_copies: 1.0
 - name: Heritage Reclamation
   weight: 0.02
   avg_copies: 1.0
-- name: Windswept Heath
+- name: Kessig Wolf Run
   weight: 0.02
   avg_copies: 1.0
 - name: card:mj-lnir-hammer-of-thor
   weight: 0.02
   avg_copies: 1.0
 - name: Insidious Fungus
-  weight: 0.02
-  avg_copies: 1.0
-- name: Kessig Wolf Run
-  weight: 0.02
-  avg_copies: 1.0
-- name: Pyroclasm
   weight: 0.02
   avg_copies: 1.0
 - name: card:lessons-from-life
@@ -224,19 +224,19 @@ top_cards:
 - name: Northampton Farm
   weight: 0.0133
   avg_copies: 1.0
-- name: Ureni, the Song Unending
-  weight: 0.0133
-  avg_copies: 1.0
-- name: Emeritus of Abundance
-  weight: 0.0133
-  avg_copies: 1.0
 - name: Hexdrinker
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Ureni, the Song Unending
   weight: 0.0133
   avg_copies: 1.0
 - name: Cavern of Souls
   weight: 0.0133
   avg_copies: 1.0
 - name: Ghost Quarter
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Emeritus of Abundance
   weight: 0.0133
   avg_copies: 1.0
 - name: Hurkyl's Recall
@@ -248,28 +248,13 @@ top_cards:
 - name: Snow-Covered Forest
   weight: 0.0067
   avg_copies: 2.0
-- name: card:lumra-bellow-of-the-woods
-  weight: 0.0067
-  avg_copies: 1.0
-- name: Formidable Speaker
-  weight: 0.0067
-  avg_copies: 1.0
-- name: Misty Rainforest
-  weight: 0.0067
-  avg_copies: 1.0
-- name: Waterlogged Grove
-  weight: 0.0067
-  avg_copies: 1.0
-- name: Dosan the Falling Leaf
-  weight: 0.0067
-  avg_copies: 1.0
 - name: Lithomantic Barrage
   weight: 0.0067
   avg_copies: 1.0
-- name: Sakura-Tribe Elder
+- name: card:gretchen-titchwillow
   weight: 0.0067
   avg_copies: 1.0
-- name: card:gretchen-titchwillow
+- name: Waterlogged Grove
   weight: 0.0067
   avg_copies: 1.0
 - name: Tormod's Crypt
@@ -278,7 +263,22 @@ top_cards:
 - name: Carnage Tyrant
   weight: 0.0067
   avg_copies: 1.0
+- name: Dosan the Falling Leaf
+  weight: 0.0067
+  avg_copies: 1.0
+- name: Misty Rainforest
+  weight: 0.0067
+  avg_copies: 1.0
 - name: Gemstone Caverns
+  weight: 0.0067
+  avg_copies: 1.0
+- name: Formidable Speaker
+  weight: 0.0067
+  avg_copies: 1.0
+- name: card:lumra-bellow-of-the-woods
+  weight: 0.0067
+  avg_copies: 1.0
+- name: Sakura-Tribe Elder
   weight: 0.0067
   avg_copies: 1.0
 - name: Titania, Protector of Argoth

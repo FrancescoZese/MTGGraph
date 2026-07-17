@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: 'Unknown #47'
-meta_share: 0.0149
+meta_share: 0.0148
 list_count: 81
 top_cards:
 - name: Fatal Push
@@ -159,10 +159,10 @@ top_cards:
 - name: Wan Shi Tong, Librarian
   weight: 0.0494
   avg_copies: 1.5
-- name: Damnation
+- name: Teferi, Time Raveler
   weight: 0.0494
   avg_copies: 1.0
-- name: Teferi, Time Raveler
+- name: Damnation
   weight: 0.0494
   avg_copies: 1.0
 - name: Vexing Bauble
@@ -195,34 +195,19 @@ top_cards:
 - name: Break the Ice
   weight: 0.0123
   avg_copies: 4.0
-- name: Void Mirror
+- name: Meltdown
   weight: 0.0123
   avg_copies: 2.0
-- name: Fire Magic
+- name: Void Mirror
   weight: 0.0123
   avg_copies: 2.0
 - name: card:the-wondrous-wasp
   weight: 0.0123
   avg_copies: 2.0
-- name: Meltdown
+- name: Fire Magic
   weight: 0.0123
   avg_copies: 2.0
-- name: River of Tears
-  weight: 0.0123
-  avg_copies: 1.0
-- name: High Noon
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Dreams of Steel and Oil
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Fallen Shinobi
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Snapcaster Mage
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Strategic Betrayal
+- name: Steam Vents
   weight: 0.0123
   avg_copies: 1.0
 - name: Thundering Falls
@@ -231,10 +216,25 @@ top_cards:
 - name: Murderous Cut
   weight: 0.0123
   avg_copies: 1.0
+- name: Fallen Shinobi
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Dreams of Steel and Oil
+  weight: 0.0123
+  avg_copies: 1.0
+- name: High Noon
+  weight: 0.0123
+  avg_copies: 1.0
+- name: River of Tears
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Strategic Betrayal
+  weight: 0.0123
+  avg_copies: 1.0
 - name: Celestial Purge
   weight: 0.0123
   avg_copies: 1.0
-- name: Steam Vents
+- name: Snapcaster Mage
   weight: 0.0123
   avg_copies: 1.0
 ---

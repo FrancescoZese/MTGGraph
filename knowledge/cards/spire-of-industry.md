@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.0011
 archetypes:
   broodscale-combo:
-    weight: 0.0043
+    weight: 0.0042
     avg_copies: 4.0
   unknown-6:
     weight: 0.5

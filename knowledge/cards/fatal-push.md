@@ -13,10 +13,10 @@ archetypes:
     weight: 1.0
     avg_copies: 3.8
   goryo:
-    weight: 0.2234
+    weight: 0.2226
     avg_copies: 1.29
   necrodominance:
-    weight: 0.881
+    weight: 0.8605
     avg_copies: 3.97
   domain-zoo:
     weight: 0.0333
@@ -35,12 +35,12 @@ archetypes:
     avg_copies: 2.22
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 2.8
+    avg_copies: 2.79
   simic-ritual:
     weight: 0.0375
     avg_copies: 2.33
   izzet-prowess:
-    weight: 0.0074
+    weight: 0.0073
     avg_copies: 1.5
   esper-blink:
     weight: 0.9495
@@ -52,7 +52,7 @@ archetypes:
     weight: 0.2143
     avg_copies: 3.33
   broodscale-combo:
-    weight: 0.0128
+    weight: 0.0126
     avg_copies: 2.0
   orzhov-blink:
     weight: 1.0
@@ -224,7 +224,7 @@ archetypes:
     avg_copies: 4.0
   unknown-115:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 2.33
   unknown-120:
     weight: 1.0
     avg_copies: 3.38
@@ -286,6 +286,9 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-197:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-199:
     weight: 1.0
     avg_copies: 4.0
 ---

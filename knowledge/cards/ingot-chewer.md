@@ -10,6 +10,6 @@ type: Creature — Elemental
 meta_presence: 0.0046
 archetypes:
   unknown-67:
-    weight: 0.3846
+    weight: 0.3788
     avg_copies: 1.2
 ---

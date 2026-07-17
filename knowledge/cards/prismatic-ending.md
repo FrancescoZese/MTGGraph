@@ -7,14 +7,14 @@ name: Prismatic Ending
 scryfall_id: 825969b9-3c70-4fca-8cab-696e9ca7cdb2
 set: mh2
 type: Sorcery
-meta_presence: 0.1696
+meta_presence: 0.1695
 archetypes:
   ruby-storm:
     weight: 0.9133
     avg_copies: 3.28
   boros-energy:
-    weight: 0.042
-    avg_copies: 1.16
+    weight: 0.0433
+    avg_copies: 1.15
   dimir-control:
     weight: 0.037
     avg_copies: 1.0
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.0037
     avg_copies: 2.0
   goryo:
-    weight: 0.9853
+    weight: 0.9854
     avg_copies: 2.23
   azorius-control:
     weight: 1.0
@@ -49,7 +49,7 @@ archetypes:
     weight: 0.0071
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0111
+    weight: 0.0109
     avg_copies: 2.0
   4c-omnath:
     weight: 0.25
@@ -67,7 +67,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.3
+    weight: 0.2951
     avg_copies: 2.32
   esper-control:
     weight: 1.0
@@ -211,6 +211,9 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-192:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-200:
     weight: 1.0
     avg_copies: 4.0
 ---

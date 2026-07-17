@@ -7,13 +7,13 @@ name: 'Unknown #70'
 meta_share: 0.0029
 list_count: 16
 top_cards:
+- name: Ajani, Nacatl Pariah
+  weight: 1.0
+  avg_copies: 4.0
 - name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Galvanic Discharge
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
@@ -64,10 +64,10 @@ top_cards:
 - name: Goblin Bombardment
   weight: 0.9375
   avg_copies: 2.27
-- name: Meticulous Archive
+- name: Mountain
   weight: 0.9375
   avg_copies: 1.0
-- name: Mountain
+- name: Meticulous Archive
   weight: 0.9375
   avg_copies: 1.0
 - name: Solitude
@@ -133,46 +133,46 @@ top_cards:
 - name: Orim's Chant
   weight: 0.125
   avg_copies: 2.0
-- name: Witch Enchanter
-  weight: 0.125
-  avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.125
   avg_copies: 1.0
-- name: Reprieve
+- name: Witch Enchanter
+  weight: 0.125
+  avg_copies: 1.0
+- name: Deafening Silence
   weight: 0.0625
   avg_copies: 2.0
-- name: Deafening Silence
+- name: Reprieve
   weight: 0.0625
   avg_copies: 2.0
 - name: Practiced Offense
   weight: 0.0625
   avg_copies: 2.0
-- name: The Legend of Roku
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Boromir, Warden of the Tower
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Strix Serenade
   weight: 0.0625
   avg_copies: 1.0
 - name: Magus of the Moon
   weight: 0.0625
   avg_copies: 1.0
-- name: Lightning Bolt
+- name: Soul-Guide Lantern
   weight: 0.0625
   avg_copies: 1.0
-- name: Marsh Flats
+- name: The Legend of Roku
   weight: 0.0625
   avg_copies: 1.0
 - name: Spell Pierce
   weight: 0.0625
   avg_copies: 1.0
+- name: Boromir, Warden of the Tower
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Lightning Bolt
+  weight: 0.0625
+  avg_copies: 1.0
 - name: Vandalblast
   weight: 0.0625
   avg_copies: 1.0
-- name: Strix Serenade
+- name: Marsh Flats
   weight: 0.0625
   avg_copies: 1.0
 ---

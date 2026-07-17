@@ -15,17 +15,17 @@ archetypes:
     weight: 0.0267
     avg_copies: 1.0
   goryo:
-    weight: 0.1648
+    weight: 0.1642
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0921
+    weight: 0.0886
     avg_copies: 1.0
   living-end:
     weight: 1.0
     avg_copies: 1.03
   neoform-combo:
-    weight: 0.9841
-    avg_copies: 2.77
+    weight: 0.9846
+    avg_copies: 2.78
   eldrazi-ramp:
     weight: 0.1017
     avg_copies: 1.0

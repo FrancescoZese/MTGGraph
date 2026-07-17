@@ -24,13 +24,13 @@ archetypes:
     weight: 0.0073
     avg_copies: 1.5
   azorius-control:
-    weight: 0.3026
+    weight: 0.2911
     avg_copies: 1.04
   living-end:
     weight: 1.0
     avg_copies: 3.78
   affinity:
-    weight: 0.0457
+    weight: 0.0455
     avg_copies: 1.86
   domain-zoo:
     weight: 0.0083
@@ -42,13 +42,13 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.9841
-    avg_copies: 3.79
+    weight: 0.9846
+    avg_copies: 3.8
   kethis-combo:
     weight: 1.0
     avg_copies: 3.14
   yawgmoth-combo:
-    weight: 0.2099
+    weight: 0.2073
     avg_copies: 1.47
   eldrazi-ramp:
     weight: 0.5678
@@ -57,7 +57,7 @@ archetypes:
     weight: 0.9875
     avg_copies: 3.75
   izzet-prowess:
-    weight: 0.0148
+    weight: 0.0145
     avg_copies: 1.75
   4c-omnath:
     weight: 0.75
@@ -66,7 +66,7 @@ archetypes:
     weight: 0.5833
     avg_copies: 1.43
   broodscale-combo:
-    weight: 0.1197
+    weight: 0.1213
     avg_copies: 1.14
   bant-control:
     weight: 1.0
@@ -236,4 +236,7 @@ archetypes:
   unknown-193:
     weight: 1.0
     avg_copies: 1.0
+  unknown-200:
+    weight: 1.0
+    avg_copies: 4.0
 ---

@@ -7,10 +7,10 @@ name: Cosmogoyf Fling
 meta_share: 0.0062
 list_count: 34
 top_cards:
-- name: Thud
+- name: Plunge into Darkness
   weight: 1.0
   avg_copies: 4.0
-- name: Plunge into Darkness
+- name: Thud
   weight: 1.0
   avg_copies: 4.0
 - name: Gemstone Caverns
@@ -115,10 +115,10 @@ top_cards:
 - name: Leyline of the Void
   weight: 0.1176
   avg_copies: 1.0
-- name: Leyline of the Guildpact
+- name: Scion of Draco
   weight: 0.0882
   avg_copies: 4.0
-- name: Scion of Draco
+- name: Leyline of the Guildpact
   weight: 0.0882
   avg_copies: 4.0
 - name: Claim
@@ -154,13 +154,13 @@ top_cards:
 - name: Death's Shadow
   weight: 0.0294
   avg_copies: 2.0
+- name: Meltdown
+  weight: 0.0294
+  avg_copies: 1.0
 - name: Kaheera, the Orphanguard
   weight: 0.0294
   avg_copies: 1.0
 - name: Mountain
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Meltdown
   weight: 0.0294
   avg_copies: 1.0
 - name: Disruptor Flute

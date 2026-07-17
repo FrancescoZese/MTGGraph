@@ -6,19 +6,19 @@ name: 'Unknown #122'
 meta_share: 0.0042
 list_count: 23
 top_cards:
-- name: Dragon's Rage Channeler
-  weight: 1.0
-  avg_copies: 4.0
 - name: Preordain
   weight: 1.0
   avg_copies: 4.0
-- name: Cori-Steel Cutter
+- name: Dragon's Rage Channeler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Lava Dart
   weight: 1.0
   avg_copies: 4.0
-- name: Lightning Bolt
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Stormchaser's Talent
@@ -126,16 +126,16 @@ top_cards:
 - name: Assault Strobe
   weight: 0.1304
   avg_copies: 1.33
-- name: Soul-Guide Lantern
-  weight: 0.1304
-  avg_copies: 1.0
-- name: Price of Freedom
-  weight: 0.1304
-  avg_copies: 1.0
 - name: Octopus Form
   weight: 0.1304
   avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 0.1304
+  avg_copies: 1.0
 - name: Iroh's Demonstration
+  weight: 0.1304
+  avg_copies: 1.0
+- name: Price of Freedom
   weight: 0.1304
   avg_copies: 1.0
 - name: Monstrous Rage
@@ -147,7 +147,7 @@ top_cards:
 - name: Thoughtseize
   weight: 0.0435
   avg_copies: 4.0
-- name: Nihil Spellbomb
+- name: Misty Rainforest
   weight: 0.0435
   avg_copies: 2.0
 - name: Vexing Bauble
@@ -156,31 +156,31 @@ top_cards:
 - name: Wear
   weight: 0.0435
   avg_copies: 2.0
-- name: Misty Rainforest
+- name: Nihil Spellbomb
   weight: 0.0435
   avg_copies: 2.0
-- name: Redirect Lightning
+- name: End of the Hunt
   weight: 0.0435
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.0435
   avg_copies: 1.0
-- name: End of the Hunt
-  weight: 0.0435
-  avg_copies: 1.0
 - name: Hurkyl's Recall
-  weight: 0.0435
-  avg_copies: 1.0
-- name: Accumulate Wisdom
   weight: 0.0435
   avg_copies: 1.0
 - name: Blood Crypt
   weight: 0.0435
   avg_copies: 1.0
-- name: Fire Magic
+- name: Redirect Lightning
   weight: 0.0435
   avg_copies: 1.0
 - name: Spell Snare
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Fire Magic
+  weight: 0.0435
+  avg_copies: 1.0
+- name: Accumulate Wisdom
   weight: 0.0435
   avg_copies: 1.0
 ---

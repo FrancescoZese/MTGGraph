@@ -13,7 +13,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.25
   affinity:
-    weight: 0.948
+    weight: 0.9483
     avg_copies: 1.83
   izzet-artifacts:
     weight: 0.25

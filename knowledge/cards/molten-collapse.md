@@ -14,13 +14,13 @@ archetypes:
     weight: 0.4444
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0037
+    weight: 0.0036
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.0714
     avg_copies: 1.0
   dredge:
-    weight: 0.0417
+    weight: 0.04
     avg_copies: 2.0
   rakdos-lantern-combo:
     weight: 1.0
@@ -29,7 +29,7 @@ archetypes:
     weight: 0.0526
     avg_copies: 1.0
   goryo1:
-    weight: 0.1007
+    weight: 0.1
     avg_copies: 1.19
   unknown-27:
     weight: 0.6667

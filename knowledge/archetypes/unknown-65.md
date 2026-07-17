@@ -10,10 +10,10 @@ top_cards:
 - name: Shardless Agent
   weight: 1.0
   avg_copies: 4.0
-- name: Violent Outburst
+- name: Crashing Footfalls
   weight: 1.0
   avg_copies: 4.0
-- name: Crashing Footfalls
+- name: Violent Outburst
   weight: 1.0
   avg_copies: 4.0
 - name: Misty Rainforest
@@ -43,10 +43,10 @@ top_cards:
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.11
-- name: Thundering Falls
+- name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Stomping Ground
@@ -64,10 +64,10 @@ top_cards:
 - name: Island
   weight: 0.9643
   avg_copies: 1.19
-- name: Boseiju, Who Endures
+- name: Forest
   weight: 0.9643
   avg_copies: 1.0
-- name: Forest
+- name: Boseiju, Who Endures
   weight: 0.9643
   avg_copies: 1.0
 - name: Mountain
@@ -121,25 +121,25 @@ top_cards:
 - name: Lórien Revealed
   weight: 0.1429
   avg_copies: 2.25
-- name: Ketria Triome
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Repudiate
   weight: 0.1429
   avg_copies: 1.0
-- name: Rough
+- name: Ketria Triome
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Tishana's Tidebinder
   weight: 0.1071
   avg_copies: 2.33
-- name: Tishana's Tidebinder
+- name: Rough
   weight: 0.1071
   avg_copies: 2.33
 - name: Hallowed Fountain
   weight: 0.1071
   avg_copies: 1.0
-- name: Flooded Grove
+- name: High Noon
   weight: 0.0714
   avg_copies: 2.0
-- name: High Noon
+- name: Flooded Grove
   weight: 0.0714
   avg_copies: 2.0
 - name: Harbinger of the Seas
@@ -151,31 +151,31 @@ top_cards:
 - name: Flame of Anor
   weight: 0.0357
   avg_copies: 4.0
-- name: Mutavault
+- name: card:avengers-disassembled
   weight: 0.0357
   avg_copies: 2.0
 - name: Commandeer
   weight: 0.0357
   avg_copies: 2.0
-- name: Kataki, War's Wage
+- name: Teferi, Time Raveler
   weight: 0.0357
   avg_copies: 2.0
-- name: Teferi, Time Raveler
+- name: Mutavault
+  weight: 0.0357
+  avg_copies: 2.0
+- name: Kataki, War's Wage
   weight: 0.0357
   avg_copies: 2.0
 - name: Snow-Covered Island
   weight: 0.0357
   avg_copies: 2.0
-- name: card:avengers-disassembled
-  weight: 0.0357
-  avg_copies: 2.0
-- name: Mine Collapse
-  weight: 0.0357
-  avg_copies: 1.0
 - name: Fable of the Mirror-Breaker
   weight: 0.0357
   avg_copies: 1.0
 - name: Snow-Covered Forest
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Mine Collapse
   weight: 0.0357
   avg_copies: 1.0
 ---

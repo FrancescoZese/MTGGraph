@@ -15,7 +15,7 @@ archetypes:
     weight: 0.9924
     avg_copies: 1.0
   goryo:
-    weight: 0.989
+    weight: 0.9891
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
@@ -33,7 +33,7 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0476
+    weight: 0.0462
     avg_copies: 1.0
   hammer-time:
     weight: 0.8333
@@ -49,7 +49,7 @@ archetypes:
     avg_copies: 2.0
   azorius-blink:
     weight: 1.0
-    avg_copies: 1.88
+    avg_copies: 1.89
   esper-control:
     weight: 1.0
     avg_copies: 2.0
@@ -117,7 +117,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.0154
+    weight: 0.0152
     avg_copies: 1.0
   unknown-70:
     weight: 0.9375
@@ -215,4 +215,7 @@ archetypes:
   unknown-195:
     weight: 1.0
     avg_copies: 1.0
+  unknown-200:
+    weight: 1.0
+    avg_copies: 2.0
 ---

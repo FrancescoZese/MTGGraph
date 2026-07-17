@@ -3,7 +3,7 @@ colors:
 - R
 - G
 name: Ruby Storm
-meta_share: 0.036
+meta_share: 0.0357
 list_count: 196
 top_cards:
 - name: Pyretic Ritual
@@ -150,10 +150,10 @@ top_cards:
 - name: Pact of Negation
   weight: 0.0408
   avg_copies: 1.0
-- name: Into the Flood Maw
+- name: Veil of Summer
   weight: 0.0357
   avg_copies: 2.86
-- name: Veil of Summer
+- name: Into the Flood Maw
   weight: 0.0357
   avg_copies: 2.86
 - name: Lightning Bolt
@@ -189,19 +189,19 @@ top_cards:
 - name: Defense Grid
   weight: 0.0204
   avg_copies: 1.75
-- name: Blood Crypt
+- name: Alchemist's Gambit
   weight: 0.0204
   avg_copies: 1.0
 - name: Rip Apart
   weight: 0.0204
   avg_copies: 1.0
-- name: Alchemist's Gambit
-  weight: 0.0204
-  avg_copies: 1.0
-- name: Mine Collapse
+- name: Blood Crypt
   weight: 0.0204
   avg_copies: 1.0
 - name: Fiery Islet
+  weight: 0.0204
+  avg_copies: 1.0
+- name: Mine Collapse
   weight: 0.0204
   avg_copies: 1.0
 - name: Questing Druid
@@ -216,10 +216,10 @@ top_cards:
 - name: card:tempest-of-light
   weight: 0.0153
   avg_copies: 1.33
-- name: Abrade
+- name: Shatterskull Smashing
   weight: 0.0153
   avg_copies: 1.0
-- name: Shatterskull Smashing
+- name: Abrade
   weight: 0.0153
   avg_copies: 1.0
 - name: Stormcatch Mentor
@@ -234,22 +234,25 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.0102
   avg_copies: 2.0
-- name: Goblin Anarchomancer
+- name: Escape to the Wilds
   weight: 0.0102
   avg_copies: 2.0
-- name: Escape to the Wilds
+- name: Goblin Anarchomancer
   weight: 0.0102
   avg_copies: 2.0
 - name: Voice of Victory
   weight: 0.0102
   avg_copies: 1.5
-- name: card:out-of-time
-  weight: 0.0102
-  avg_copies: 1.0
 - name: Blast Zone
   weight: 0.0102
   avg_copies: 1.0
-- name: card:wheel-of-potential
+- name: Otawara, Soaring City
+  weight: 0.0102
+  avg_copies: 1.0
+- name: Blasphemous Act
+  weight: 0.0102
+  avg_copies: 1.0
+- name: Lorehold Charm
   weight: 0.0102
   avg_copies: 1.0
 - name: Flame Slash
@@ -258,31 +261,25 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.0102
   avg_copies: 1.0
-- name: Lorehold Charm
-  weight: 0.0102
-  avg_copies: 1.0
-- name: Blasphemous Act
-  weight: 0.0102
-  avg_copies: 1.0
-- name: Baral, Chief of Compliance
+- name: Island
   weight: 0.0102
   avg_copies: 1.0
 - name: Pyromancer Ascension
   weight: 0.0102
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: card:out-of-time
   weight: 0.0102
   avg_copies: 1.0
-- name: Island
+- name: Baral, Chief of Compliance
   weight: 0.0102
   avg_copies: 1.0
-- name: Consign to Memory
-  weight: 0.0051
-  avg_copies: 2.0
+- name: card:wheel-of-potential
+  weight: 0.0102
+  avg_copies: 1.0
 - name: Consider
   weight: 0.0051
   avg_copies: 2.0
-- name: Spell Snare
+- name: Consign to Memory
   weight: 0.0051
   avg_copies: 2.0
 - name: Remand
@@ -291,10 +288,31 @@ top_cards:
 - name: Great Hall of the Biblioplex
   weight: 0.0051
   avg_copies: 2.0
-- name: Blazing Firesinger
+- name: Spell Snare
+  weight: 0.0051
+  avg_copies: 2.0
+- name: card:electrickery
   weight: 0.0051
   avg_copies: 1.0
-- name: Jolted Awake
+- name: Sink into Stupor
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Fire
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Urabrask
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Surgical Extraction
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Drannith Magistrate
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Galvanic Discharge
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Inquisition of Kozilek
   weight: 0.0051
   avg_copies: 1.0
 - name: card:weather-the-storm
@@ -303,40 +321,22 @@ top_cards:
 - name: card:return-the-favor
   weight: 0.0051
   avg_copies: 1.0
-- name: Urabrask
-  weight: 0.0051
-  avg_copies: 1.0
-- name: Galvanic Discharge
-  weight: 0.0051
-  avg_copies: 1.0
-- name: Fire
-  weight: 0.0051
-  avg_copies: 1.0
-- name: Drannith Magistrate
-  weight: 0.0051
-  avg_copies: 1.0
-- name: card:electrickery
+- name: Goblin Lore
   weight: 0.0051
   avg_copies: 1.0
 - name: card:opera-love-song
   weight: 0.0051
   avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.0051
-  avg_copies: 1.0
 - name: card:collective-resistance
   weight: 0.0051
   avg_copies: 1.0
-- name: Goblin Lore
-  weight: 0.0051
-  avg_copies: 1.0
-- name: Sink into Stupor
-  weight: 0.0051
-  avg_copies: 1.0
-- name: Inquisition of Kozilek
+- name: Jolted Awake
   weight: 0.0051
   avg_copies: 1.0
 - name: card:lindblum-industrial-regency
+  weight: 0.0051
+  avg_copies: 1.0
+- name: Blazing Firesinger
   weight: 0.0051
   avg_copies: 1.0
 ---

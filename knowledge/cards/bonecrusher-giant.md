@@ -7,12 +7,12 @@ name: Bonecrusher Giant // Stomp
 scryfall_id: b5b71cd2-de35-451f-b16e-2e3936169407
 set: clb
 type: Creature — Giant // Instant — Adventure
-meta_presence: 0.0006
+meta_presence: 0.0005
 archetypes:
   unknown-35:
     weight: 0.6667
     avg_copies: 1.5
   unknown-67:
-    weight: 0.0154
+    weight: 0.0152
     avg_copies: 2.0
 ---

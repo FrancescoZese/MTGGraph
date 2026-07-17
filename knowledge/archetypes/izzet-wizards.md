@@ -66,10 +66,10 @@ top_cards:
 - name: Force of Negation
   weight: 0.6667
   avg_copies: 1.64
-- name: Sink into Stupor
+- name: Misty Rainforest
   weight: 0.5833
   avg_copies: 1.29
-- name: Misty Rainforest
+- name: Sink into Stupor
   weight: 0.5833
   avg_copies: 1.29
 - name: Mountain
@@ -114,10 +114,10 @@ top_cards:
 - name: Ghost Vacuum
   weight: 0.25
   avg_copies: 1.67
-- name: Thundertrap Trainer
+- name: Preordain
   weight: 0.1667
   avg_copies: 3.0
-- name: Preordain
+- name: Thundertrap Trainer
   weight: 0.1667
   avg_copies: 3.0
 - name: Flare of Denial
@@ -129,22 +129,22 @@ top_cards:
 - name: Test of Talents
   weight: 0.1667
   avg_copies: 2.0
-- name: Surgical Extraction
+- name: Flusterstorm
   weight: 0.1667
   avg_copies: 1.5
-- name: Flusterstorm
+- name: Surgical Extraction
   weight: 0.1667
   avg_copies: 1.5
 - name: Dress Down
   weight: 0.1667
   avg_copies: 1.33
-- name: Ashiok, Dream Render
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Flashback
   weight: 0.1667
   avg_copies: 1.0
 - name: Spell Pierce
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
   weight: 0.1667
   avg_copies: 1.0
 - name: Unholy Heat
@@ -159,55 +159,55 @@ top_cards:
 - name: Marang River Regent
   weight: 0.0833
   avg_copies: 3.0
-- name: Expressive Iteration
+- name: Den of the Bugbear
   weight: 0.0833
   avg_copies: 2.0
 - name: Brainsurge
   weight: 0.0833
   avg_copies: 2.0
-- name: Spirebluff Canal
-  weight: 0.0833
-  avg_copies: 2.0
 - name: Engineered Explosives
   weight: 0.0833
   avg_copies: 2.0
-- name: Den of the Bugbear
+- name: Expressive Iteration
   weight: 0.0833
   avg_copies: 2.0
 - name: Field of Ruin
   weight: 0.0833
   avg_copies: 2.0
-- name: Arid Mesa
+- name: Spirebluff Canal
   weight: 0.0833
-  avg_copies: 1.0
-- name: Stone of Erech
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Vexing Bauble
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Stern Scolding
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Annul
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Agna Qel'a
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Vampires' Vengeance
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Riverpyre Verge
+  avg_copies: 2.0
+- name: Vedalken Shackles
   weight: 0.0833
   avg_copies: 1.0
 - name: Mistrise Village
   weight: 0.0833
   avg_copies: 1.0
-- name: Vedalken Shackles
+- name: Hurkyl's Recall
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Vampires' Vengeance
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Agna Qel'a
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Vexing Bauble
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Annul
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Stern Scolding
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Riverpyre Verge
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Stone of Erech
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Arid Mesa
   weight: 0.0833
   avg_copies: 1.0
 ---

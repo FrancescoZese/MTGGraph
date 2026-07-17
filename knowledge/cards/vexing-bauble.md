@@ -6,34 +6,34 @@ name: Vexing Bauble
 scryfall_id: 29f11089-658f-42e6-aeb0-09b512ad2479
 set: mh3
 type: Artifact
-meta_presence: 0.3885
+meta_presence: 0.3884
 archetypes:
   ruby-storm:
     weight: 0.102
     avg_copies: 1.81
   boros-energy:
-    weight: 0.5967
+    weight: 0.5985
     avg_copies: 1.61
   eldrazi-tron:
-    weight: 0.5667
+    weight: 0.5625
     avg_copies: 1.28
   amulet-titan:
     weight: 0.7533
     avg_copies: 1.3
   goryo:
-    weight: 0.0037
+    weight: 0.0036
     avg_copies: 2.0
   hardened-scales:
     weight: 0.75
     avg_copies: 1.25
   necrodominance:
-    weight: 0.0238
+    weight: 0.0233
     avg_copies: 2.0
   azorius-control:
-    weight: 0.1316
+    weight: 0.1266
     avg_copies: 1.9
   affinity:
-    weight: 0.7297
+    weight: 0.7293
     avg_copies: 1.08
   domain-zoo:
     weight: 0.0917
@@ -66,7 +66,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.9506
+    weight: 0.9512
     avg_copies: 1.38
   eldrazi-ramp:
     weight: 0.7458
@@ -75,7 +75,7 @@ archetypes:
     weight: 0.0125
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0443
+    weight: 0.0436
     avg_copies: 2.08
   esper-blink:
     weight: 0.0202
@@ -84,16 +84,16 @@ archetypes:
     weight: 0.4333
     avg_copies: 1.81
   broodscale-combo:
-    weight: 0.9915
+    weight: 0.9916
     avg_copies: 1.69
   orzhov-blink:
     weight: 0.3333
     avg_copies: 1.33
   dredge:
-    weight: 0.6667
-    avg_copies: 3.25
+    weight: 0.68
+    avg_copies: 3.24
   azorius-blink:
-    weight: 0.15
+    weight: 0.1475
     avg_copies: 1.56
   izzet-artifacts:
     weight: 0.3438
@@ -135,7 +135,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.67
   goryo1:
-    weight: 0.7584
+    weight: 0.76
     avg_copies: 1.76
   goryo4:
     weight: 0.5
@@ -264,7 +264,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-115:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 2.0
   unknown-112:
     weight: 1.0
@@ -333,7 +333,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-160:
-    weight: 0.614
+    weight: 0.5932
     avg_copies: 1.37
   unknown-159:
     weight: 1.0
@@ -375,6 +375,9 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-197:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-199:
     weight: 1.0
     avg_copies: 2.0
 ---
