@@ -7,19 +7,19 @@ name: Blood Moon
 scryfall_id: d072e9ca-aae7-45dc-8025-3ce590bae63f
 set: 2xm
 type: Enchantment
-meta_presence: 0.152
+meta_presence: 0.1512
 archetypes:
   ruby-storm:
-    weight: 0.0816
+    weight: 0.0842
     avg_copies: 1.06
   boros-energy:
-    weight: 0.7343
+    weight: 0.733
     avg_copies: 1.22
   affinity:
-    weight: 0.3781
-    avg_copies: 1.33
+    weight: 0.3804
+    avg_copies: 1.32
   burn:
-    weight: 0.0286
+    weight: 0.0278
     avg_copies: 1.0
   mono-red-belcher:
     weight: 1.0
@@ -31,10 +31,10 @@ archetypes:
     weight: 0.0071
     avg_copies: 3.0
   eldrazi-ramp:
-    weight: 0.0339
+    weight: 0.0333
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0327
+    weight: 0.032
     avg_copies: 1.44
   izzet-artifacts:
     weight: 0.4375
@@ -85,16 +85,16 @@ archetypes:
     weight: 1.0
     avg_copies: 1.33
   unknown-65:
-    weight: 0.5714
+    weight: 0.5517
     avg_copies: 1.29
   unknown-67:
-    weight: 0.1818
+    weight: 0.1714
     avg_copies: 1.42
   unknown-68:
     weight: 0.0571
     avg_copies: 2.0
   unknown-70:
-    weight: 0.5
+    weight: 0.5294
     avg_copies: 2.0
   unknown-81:
     weight: 1.0

@@ -6,13 +6,13 @@ name: 'Unknown #26'
 meta_share: 0.0036
 list_count: 20
 top_cards:
-- name: Demolition Field
+- name: Cleansing Wildfire
   weight: 1.0
   avg_copies: 4.0
 - name: Field of Ruin
   weight: 1.0
   avg_copies: 4.0
-- name: Cleansing Wildfire
+- name: Demolition Field
   weight: 1.0
   avg_copies: 4.0
 - name: Wrath of the Skies
@@ -42,10 +42,10 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.9
-- name: Erode
+- name: Cori Mountain Monastery
   weight: 0.95
   avg_copies: 3.84
-- name: Cori Mountain Monastery
+- name: Erode
   weight: 0.95
   avg_copies: 3.84
 - name: Kaheera, the Orphanguard
@@ -96,16 +96,16 @@ top_cards:
 - name: Galvanic Discharge
   weight: 0.2
   avg_copies: 2.5
-- name: Mazemind Tome
-  weight: 0.1
-  avg_copies: 4.0
-- name: card:avengers-disassembled
+- name: Calamity's Wake
   weight: 0.1
   avg_copies: 4.0
 - name: Arid Mesa
   weight: 0.1
   avg_copies: 4.0
-- name: Calamity's Wake
+- name: card:avengers-disassembled
+  weight: 0.1
+  avg_copies: 4.0
+- name: Mazemind Tome
   weight: 0.1
   avg_copies: 4.0
 - name: Reprieve
@@ -126,9 +126,6 @@ top_cards:
 - name: Crucible of Worlds
   weight: 0.1
   avg_copies: 1.0
-- name: card:kutzil-s-flanker
-  weight: 0.05
-  avg_copies: 4.0
 - name: Ark of Hunger
   weight: 0.05
   avg_copies: 4.0
@@ -136,6 +133,9 @@ top_cards:
   weight: 0.05
   avg_copies: 4.0
 - name: Lightning Helix
+  weight: 0.05
+  avg_copies: 4.0
+- name: card:kutzil-s-flanker
   weight: 0.05
   avg_copies: 4.0
 - name: White Orchid Phantom
@@ -147,16 +147,16 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 0.05
   avg_copies: 3.0
-- name: March of Otherworldly Light
-  weight: 0.05
-  avg_copies: 2.0
 - name: Flashback
   weight: 0.05
   avg_copies: 2.0
-- name: card:vanish-into-eternity
+- name: Hallowed Moonlight
   weight: 0.05
   avg_copies: 2.0
-- name: Hallowed Moonlight
+- name: March of Otherworldly Light
+  weight: 0.05
+  avg_copies: 2.0
+- name: card:vanish-into-eternity
   weight: 0.05
   avg_copies: 2.0
 - name: Elixir of Immortality

@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: Necrodominance
-meta_share: 0.0078
+meta_share: 0.0077
 list_count: 43
 top_cards:
 - name: Swamp
@@ -141,16 +141,16 @@ top_cards:
 - name: Decorum Dissertation
   weight: 0.0698
   avg_copies: 1.0
-- name: Gonti's Machinations
-  weight: 0.0465
-  avg_copies: 4.0
 - name: Vein Ripper
   weight: 0.0465
   avg_copies: 4.0
-- name: Sorin, Imperious Bloodlord
+- name: Psychic Frog
   weight: 0.0465
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Gonti's Machinations
+  weight: 0.0465
+  avg_copies: 4.0
+- name: Sorin, Imperious Bloodlord
   weight: 0.0465
   avg_copies: 4.0
 - name: Watery Grave
@@ -162,13 +162,13 @@ top_cards:
 - name: card:baron-helmut-zemo
   weight: 0.0465
   avg_copies: 3.0
+- name: Long Goodbye
+  weight: 0.0465
+  avg_copies: 2.0
 - name: card:trespasser-s-curse
   weight: 0.0465
   avg_copies: 2.0
 - name: Agadeem's Awakening
-  weight: 0.0465
-  avg_copies: 2.0
-- name: Long Goodbye
   weight: 0.0465
   avg_copies: 2.0
 - name: The Filigree Sylex
@@ -177,13 +177,13 @@ top_cards:
 - name: Toxic Deluge
   weight: 0.0465
   avg_copies: 1.5
-- name: Slaughter Pact
+- name: Legion's End
   weight: 0.0465
   avg_copies: 1.0
 - name: Shizo, Death's Storehouse
   weight: 0.0465
   avg_copies: 1.0
-- name: Legion's End
+- name: Slaughter Pact
   weight: 0.0465
   avg_copies: 1.0
 - name: Iridescent Vinelasher
@@ -195,22 +195,22 @@ top_cards:
 - name: Quantum Riddler
   weight: 0.0233
   avg_copies: 3.0
-- name: Hurkyl's Recall
-  weight: 0.0233
-  avg_copies: 2.0
 - name: Phyrexian Crusader
   weight: 0.0233
   avg_copies: 2.0
 - name: Vexing Bauble
   weight: 0.0233
   avg_copies: 2.0
-- name: End of the Hunt
+- name: Pillage the Bog
   weight: 0.0233
   avg_copies: 2.0
 - name: Culling Ritual
   weight: 0.0233
   avg_copies: 2.0
-- name: Pillage the Bog
+- name: End of the Hunt
+  weight: 0.0233
+  avg_copies: 2.0
+- name: Hurkyl's Recall
   weight: 0.0233
   avg_copies: 2.0
 - name: Witherbloom Command
@@ -222,10 +222,28 @@ top_cards:
 - name: Mai, Scornful Striker
   weight: 0.0233
   avg_copies: 2.0
+- name: Grafdigger's Cage
+  weight: 0.0233
+  avg_copies: 1.0
 - name: Cling to Dust
   weight: 0.0233
   avg_copies: 1.0
-- name: Pick Your Poison
+- name: Ratchet Bomb
+  weight: 0.0233
+  avg_copies: 1.0
+- name: card:hagra-mauling
+  weight: 0.0233
+  avg_copies: 1.0
+- name: Blood Crypt
+  weight: 0.0233
+  avg_copies: 1.0
+- name: Revitalizing Repast
+  weight: 0.0233
+  avg_copies: 1.0
+- name: Kaito, Bane of Nightmares
+  weight: 0.0233
+  avg_copies: 1.0
+- name: Path of Peril
   weight: 0.0233
   avg_copies: 1.0
 - name: Pithing Needle
@@ -234,28 +252,10 @@ top_cards:
 - name: Nurturing Peatland
   weight: 0.0233
   avg_copies: 1.0
-- name: card:hagra-mauling
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Revitalizing Repast
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Blood Crypt
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Kaito, Bane of Nightmares
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Grafdigger's Cage
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Path of Peril
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Ratchet Bomb
-  weight: 0.0233
-  avg_copies: 1.0
 - name: Stone of Erech
+  weight: 0.0233
+  avg_copies: 1.0
+- name: Pick Your Poison
   weight: 0.0233
   avg_copies: 1.0
 ---

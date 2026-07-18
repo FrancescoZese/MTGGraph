@@ -10,7 +10,7 @@ type: Creature — Merfolk Wizard
 meta_presence: 0.0018
 archetypes:
   unknown-42:
-    weight: 0.9
+    weight: 0.8182
     avg_copies: 3.56
   unknown-124:
     weight: 1.0

@@ -7,25 +7,25 @@ name: Practiced Offense
 scryfall_id: 79c7cf94-c0a1-432d-90d7-7f0599c2e7a8
 set: sos
 type: Sorcery
-meta_presence: 0.0087
+meta_presence: 0.009
 archetypes:
   boros-energy:
-    weight: 0.0104
+    weight: 0.0103
     avg_copies: 2.14
   domain-zoo:
-    weight: 0.0167
-    avg_copies: 2.0
+    weight: 0.024
+    avg_copies: 2.33
   esper-blink:
-    weight: 0.0303
+    weight: 0.03
     avg_copies: 2.33
   azorius-blink:
     weight: 0.0328
     avg_copies: 1.0
   goryo2:
-    weight: 0.125
+    weight: 0.0909
     avg_copies: 2.0
   unknown-70:
-    weight: 0.0625
+    weight: 0.0588
     avg_copies: 2.0
   unknown-96:
     weight: 1.0

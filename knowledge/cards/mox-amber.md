@@ -9,7 +9,7 @@ type: Legendary Artifact
 meta_presence: 0.0149
 archetypes:
   affinity:
-    weight: 0.0269
+    weight: 0.0266
     avg_copies: 1.0
   kethis-combo:
     weight: 1.0
@@ -19,7 +19,7 @@ archetypes:
     avg_copies: 3.41
   unknown-6:
     weight: 1.0
-    avg_copies: 3.75
+    avg_copies: 3.78
   unknown-10:
     weight: 1.0
     avg_copies: 3.0

@@ -7,19 +7,22 @@ name: Sacred Ground
 scryfall_id: d72dc68a-d6f9-4a18-8282-0f104999591f
 set: 9ed
 type: Enchantment
-meta_presence: 0.0026
+meta_presence: 0.0027
 archetypes:
   boros-energy:
-    weight: 0.003
+    weight: 0.0029
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0083
+    weight: 0.008
     avg_copies: 1.0
   boros-ponza:
     weight: 0.0214
     avg_copies: 2.67
   esper-blink:
-    weight: 0.0101
+    weight: 0.01
+    avg_copies: 1.0
+  goryo2:
+    weight: 0.0909
     avg_copies: 1.0
   sultai-midrange:
     weight: 0.3333
@@ -28,7 +31,7 @@ archetypes:
     weight: 0.0667
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0508
+    weight: 0.0469
     avg_copies: 1.67
   unknown-167:
     weight: 0.3333

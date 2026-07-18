@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.002
 archetypes:
   hammer-time:
-    weight: 0.75
+    weight: 0.6923
     avg_copies: 3.78
   unknown-21:
     weight: 1.0

@@ -7,7 +7,7 @@ name: Orcish Bowmasters
 scryfall_id: 7c024bae-5631-4e20-ac69-df392ac9e109
 set: ltr
 type: Creature — Orc Archer
-meta_presence: 0.1059
+meta_presence: 0.1066
 archetypes:
   dimir-control:
     weight: 0.963
@@ -19,7 +19,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.7
   domain-zoo:
-    weight: 0.0583
+    weight: 0.056
     avg_copies: 2.43
   reanimator:
     weight: 0.1481
@@ -34,17 +34,17 @@ archetypes:
     weight: 0.5732
     avg_copies: 1.65
   simic-ritual:
-    weight: 0.0625
+    weight: 0.0617
     avg_copies: 3.2
   esper-blink:
-    weight: 0.3535
+    weight: 0.36
     avg_copies: 2.0
   samwise-combo:
     weight: 0.7167
     avg_copies: 2.02
   orzhov-blink:
-    weight: 0.7778
-    avg_copies: 3.14
+    weight: 0.8
+    avg_copies: 3.0
   jund-saga:
     weight: 1.0
     avg_copies: 3.25
@@ -52,17 +52,17 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   goryo1:
-    weight: 0.0067
+    weight: 0.0066
     avg_copies: 1.0
   goryo5:
     weight: 1.0
-    avg_copies: 3.28
+    avg_copies: 3.26
   soultrader-combo:
     weight: 1.0
     avg_copies: 4.0
   grixis-control:
-    weight: 0.1667
-    avg_copies: 2.0
+    weight: 0.2857
+    avg_copies: 3.0
   sultai-midrange:
     weight: 1.0
     avg_copies: 2.67
@@ -162,6 +162,9 @@ archetypes:
   unknown-123:
     weight: 1.0
     avg_copies: 3.0
+  unknown-125:
+    weight: 0.5
+    avg_copies: 3.0
   unknown-131:
     weight: 0.125
     avg_copies: 3.0
@@ -195,7 +198,16 @@ archetypes:
   unknown-173:
     weight: 1.0
     avg_copies: 4.0
+  unknown-201:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-203:
+    weight: 1.0
+    avg_copies: 4.0
   unknown-197:
     weight: 1.0
     avg_copies: 4.0
+  unknown-204:
+    weight: 1.0
+    avg_copies: 3.0
 ---

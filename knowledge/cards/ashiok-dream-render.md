@@ -8,25 +8,25 @@ name: Ashiok, Dream Render
 scryfall_id: f2df3258-c053-48a8-974f-d80899b2cd93
 set: war
 type: Legendary Planeswalker — Ashiok
-meta_presence: 0.0672
+meta_presence: 0.0667
 archetypes:
   dimir-control:
     weight: 0.0617
     avg_copies: 1.0
   mono-blue-belcher:
-    weight: 0.0128
+    weight: 0.0125
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.2977
+    weight: 0.2955
     avg_copies: 1.38
   goryo:
-    weight: 0.146
+    weight: 0.1429
     avg_copies: 1.2
   necrodominance:
     weight: 0.186
     avg_copies: 1.5
   azorius-control:
-    weight: 0.0633
+    weight: 0.0625
     avg_copies: 1.4
   living-end:
     weight: 0.0154
@@ -35,10 +35,10 @@ archetypes:
     weight: 0.1333
     avg_copies: 1.0
   affinity:
-    weight: 0.0868
+    weight: 0.0859
     avg_copies: 1.02
   domain-zoo:
-    weight: 0.3833
+    weight: 0.368
     avg_copies: 1.33
   mill:
     weight: 0.129
@@ -56,20 +56,20 @@ archetypes:
     weight: 0.4146
     avg_copies: 1.12
   simic-ritual:
-    weight: 0.0125
+    weight: 0.0123
     avg_copies: 1.0
   4c-omnath:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.1818
+    weight: 0.18
     avg_copies: 1.78
   samwise-combo:
     weight: 0.0167
     avg_copies: 2.0
   orzhov-blink:
-    weight: 0.5556
-    avg_copies: 1.6
+    weight: 0.6
+    avg_copies: 1.67
   dredge:
     weight: 0.04
     avg_copies: 1.0
@@ -98,8 +98,8 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo5:
-    weight: 0.2941
-    avg_copies: 1.6
+    weight: 0.3333
+    avg_copies: 1.5
   goryo3:
     weight: 1.0
     avg_copies: 2.0
@@ -113,7 +113,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-6:
-    weight: 0.375
+    weight: 0.3333
     avg_copies: 1.0
   unknown-8:
     weight: 0.5
@@ -151,8 +151,11 @@ archetypes:
   unknown-58:
     weight: 0.6667
     avg_copies: 1.0
+  unknown-67:
+    weight: 0.0143
+    avg_copies: 1.0
   unknown-69:
-    weight: 0.8
+    weight: 0.6667
     avg_copies: 1.25
   unknown-79:
     weight: 0.1667

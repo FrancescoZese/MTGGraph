@@ -8,19 +8,19 @@ name: 'Unknown #96'
 meta_share: 0.0027
 list_count: 15
 top_cards:
-- name: Faithless Looting
+- name: Street Wraith
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marauding Mako
   weight: 1.0
   avg_copies: 4.0
 - name: Hardened Academic
   weight: 1.0
   avg_copies: 4.0
-- name: Street Wraith
-  weight: 1.0
-  avg_copies: 4.0
 - name: Hollow One
   weight: 1.0
   avg_copies: 4.0
-- name: Marauding Mako
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Arid Mesa
@@ -41,13 +41,13 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.93
-- name: Burning Inquiry
-  weight: 0.9333
-  avg_copies: 4.0
 - name: Vengevine
   weight: 0.9333
   avg_copies: 4.0
 - name: Blazing Rootwalla
+  weight: 0.9333
+  avg_copies: 4.0
+- name: Burning Inquiry
   weight: 0.9333
   avg_copies: 4.0
 - name: Elegant Parlor
@@ -128,10 +128,10 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.1333
   avg_copies: 2.0
-- name: Deafening Silence
+- name: Magebane Lizard
   weight: 0.1333
   avg_copies: 2.0
-- name: Magebane Lizard
+- name: Deafening Silence
   weight: 0.1333
   avg_copies: 2.0
 - name: Raucous Theater
@@ -146,37 +146,37 @@ top_cards:
 - name: Thoughtseize
   weight: 0.0667
   avg_copies: 3.0
-- name: Marsh Flats
-  weight: 0.0667
-  avg_copies: 3.0
 - name: Price of Freedom
   weight: 0.0667
   avg_copies: 3.0
+- name: Marsh Flats
+  weight: 0.0667
+  avg_copies: 3.0
+- name: Tormod's Crypt
+  weight: 0.0667
+  avg_copies: 2.0
 - name: Relic of Progenitus
   weight: 0.0667
   avg_copies: 2.0
 - name: Erode
   weight: 0.0667
   avg_copies: 2.0
-- name: Lava Dart
-  weight: 0.0667
-  avg_copies: 2.0
-- name: Tormod's Crypt
-  weight: 0.0667
-  avg_copies: 2.0
 - name: Prismatic Ending
   weight: 0.0667
   avg_copies: 2.0
-- name: Godless Shrine
+- name: Lava Dart
+  weight: 0.0667
+  avg_copies: 2.0
+- name: Arena of Glory
   weight: 0.0667
   avg_copies: 1.0
 - name: Pyroclasm
   weight: 0.0667
   avg_copies: 1.0
-- name: Arena of Glory
+- name: Plains
   weight: 0.0667
   avg_copies: 1.0
-- name: Plains
+- name: Godless Shrine
   weight: 0.0667
   avg_copies: 1.0
 ---

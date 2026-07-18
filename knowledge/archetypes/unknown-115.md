@@ -12,25 +12,25 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
-- name: Warren Soultrader
-  weight: 1.0
-  avg_copies: 4.0
 - name: Marionette Apprentice
-  weight: 1.0
-  avg_copies: 4.0
-- name: Spymaster's Vault
-  weight: 1.0
-  avg_copies: 4.0
-- name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
 - name: Gravecrawler
   weight: 1.0
   avg_copies: 4.0
-- name: Boggart Trawler
+- name: Stitcher's Supplier
+  weight: 1.0
+  avg_copies: 4.0
+- name: Spymaster's Vault
+  weight: 1.0
+  avg_copies: 4.0
+- name: Warren Soultrader
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flare of Malice
   weight: 1.0
   avg_copies: 3.0
-- name: Flare of Malice
+- name: Boggart Trawler
   weight: 1.0
   avg_copies: 3.0
 - name: Unearth
@@ -42,25 +42,25 @@ top_cards:
 - name: Fatal Push
   weight: 1.0
   avg_copies: 2.33
-- name: Polluted Delta
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 2.0
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.0
-- name: Thoughtseize
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 2.0
-- name: Marsh Flats
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 2.0
 - name: Nihil Spellbomb
   weight: 1.0
   avg_copies: 1.5
-- name: Accursed Marauder
+- name: Mutavault
   weight: 1.0
   avg_copies: 1.0
-- name: Mutavault
+- name: Accursed Marauder
   weight: 1.0
   avg_copies: 1.0
 - name: Break the Ice
@@ -69,16 +69,16 @@ top_cards:
 - name: Malevolent Rumble
   weight: 0.5
   avg_copies: 4.0
-- name: Meltdown
-  weight: 0.5
-  avg_copies: 3.0
 - name: Magebane Lizard
   weight: 0.5
   avg_copies: 3.0
-- name: Underground Mortuary
+- name: Meltdown
+  weight: 0.5
+  avg_copies: 3.0
+- name: Chomping Changeling
   weight: 0.5
   avg_copies: 2.0
-- name: Verdant Catacombs
+- name: Mai, Scornful Striker
   weight: 0.5
   avg_copies: 2.0
 - name: Fulminator Mage
@@ -87,28 +87,28 @@ top_cards:
 - name: Blood Crypt
   weight: 0.5
   avg_copies: 2.0
-- name: Culling Ritual
-  weight: 0.5
-  avg_copies: 2.0
 - name: Vexing Bauble
   weight: 0.5
   avg_copies: 2.0
-- name: Chomping Changeling
+- name: Verdant Catacombs
   weight: 0.5
   avg_copies: 2.0
-- name: Mai, Scornful Striker
+- name: Culling Ritual
   weight: 0.5
   avg_copies: 2.0
-- name: Dauthi Voidwalker
+- name: Underground Mortuary
   weight: 0.5
-  avg_copies: 1.0
-- name: Grist, the Hunger Tide
+  avg_copies: 2.0
+- name: Raucous Theater
   weight: 0.5
   avg_copies: 1.0
 - name: Overgrown Tomb
   weight: 0.5
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Dauthi Voidwalker
+  weight: 0.5
+  avg_copies: 1.0
+- name: Grist, the Hunger Tide
   weight: 0.5
   avg_copies: 1.0
 - name: Umezawa's Jitte

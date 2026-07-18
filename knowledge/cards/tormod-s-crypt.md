@@ -6,19 +6,19 @@ name: Tormod's Crypt
 scryfall_id: 752bf493-5839-47e8-95f2-6d8201907428
 set: dmr
 type: Artifact
-meta_presence: 0.199
+meta_presence: 0.1989
 archetypes:
   mono-blue-belcher:
-    weight: 0.3846
-    avg_copies: 1.07
+    weight: 0.4
+    avg_copies: 1.06
   eldrazi-tron:
-    weight: 0.9853
+    weight: 0.9855
     avg_copies: 1.0
   amulet-titan:
     weight: 0.0067
     avg_copies: 1.0
   goryo:
-    weight: 0.0073
+    weight: 0.0071
     avg_copies: 1.0
   hardened-scales:
     weight: 0.5
@@ -27,25 +27,25 @@ archetypes:
     weight: 1.0
     avg_copies: 3.17
   domain-zoo:
-    weight: 0.0083
+    weight: 0.008
     avg_copies: 1.0
   burn:
-    weight: 0.0286
+    weight: 0.0278
     avg_copies: 1.0
   mono-blue-tron:
     weight: 0.1
     avg_copies: 1.0
   hammer-time:
-    weight: 0.6667
+    weight: 0.6154
     avg_copies: 1.25
   boros-ponza:
     weight: 0.1214
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.2119
+    weight: 0.2083
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.4873
+    weight: 0.4911
     avg_copies: 1.68
   dredge:
     weight: 0.04
@@ -54,7 +54,7 @@ archetypes:
     weight: 0.4688
     avg_copies: 1.06
   goryo1:
-    weight: 0.0333
+    weight: 0.0329
     avg_copies: 1.4
   goryo4:
     weight: 0.05
@@ -63,8 +63,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-6:
-    weight: 0.875
-    avg_copies: 1.27
+    weight: 0.8889
+    avg_copies: 1.33
   unknown-15:
     weight: 0.7273
     avg_copies: 1.2
@@ -108,8 +108,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-122:
-    weight: 0.6087
-    avg_copies: 1.71
+    weight: 0.625
+    avg_copies: 1.73
   unknown-146:
     weight: 1.0
     avg_copies: 1.0
@@ -120,7 +120,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.3559
+    weight: 0.3281
     avg_copies: 1.0
   unknown-159:
     weight: 1.0
@@ -145,5 +145,8 @@ archetypes:
     avg_copies: 1.0
   unknown-193:
     weight: 1.0
+    avg_copies: 1.0
+  unknown-195:
+    weight: 0.5
     avg_copies: 1.0
 ---

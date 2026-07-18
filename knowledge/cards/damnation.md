@@ -19,7 +19,7 @@ archetypes:
     weight: 0.2581
     avg_copies: 1.0
   goryo5:
-    weight: 0.1765
+    weight: 0.1667
     avg_copies: 1.0
   sultai-midrange:
     weight: 0.3333
@@ -31,10 +31,10 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0494
+    weight: 0.0465
     avg_copies: 1.0
   unknown-69:
-    weight: 0.4
+    weight: 0.5
     avg_copies: 1.0
   unknown-78:
     weight: 1.0

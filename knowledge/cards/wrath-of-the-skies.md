@@ -7,29 +7,29 @@ name: Wrath of the Skies
 scryfall_id: 4ef1882e-b422-4f30-8a6c-bd71c2601660
 set: mh3
 type: Sorcery
-meta_presence: 0.3512
+meta_presence: 0.3508
 archetypes:
   boros-energy:
-    weight: 0.9716
+    weight: 0.9705
     avg_copies: 2.1
   jeskai-energy:
     weight: 0.9924
     avg_copies: 1.56
   eldrazi-tron:
-    weight: 0.0037
+    weight: 0.0036
     avg_copies: 2.0
   goryo:
-    weight: 0.9745
+    weight: 0.975
     avg_copies: 2.33
   azorius-control:
-    weight: 0.9367
-    avg_copies: 1.92
+    weight: 0.9375
+    avg_copies: 1.91
   jeskai-control:
     weight: 0.9778
     avg_copies: 2.0
   domain-zoo:
-    weight: 0.9917
-    avg_copies: 2.17
+    weight: 0.984
+    avg_copies: 2.16
   reanimator:
     weight: 0.037
     avg_copies: 1.0
@@ -47,7 +47,7 @@ archetypes:
     avg_copies: 2.38
   orzhov-blink:
     weight: 1.0
-    avg_copies: 2.7
+    avg_copies: 2.73
   bant-control:
     weight: 1.0
     avg_copies: 4.0
@@ -68,7 +68,7 @@ archetypes:
     avg_copies: 4.0
   goryo2:
     weight: 1.0
-    avg_copies: 1.89
+    avg_copies: 2.0
   goryo3:
     weight: 1.0
     avg_copies: 4.0
@@ -91,7 +91,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-16:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 2.0
   unknown-17:
     weight: 0.3333
@@ -187,8 +187,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-144:
-    weight: 0.25
-    avg_copies: 1.0
+    weight: 0.4
+    avg_copies: 2.0
   unknown-149:
     weight: 1.0
     avg_copies: 1.9
@@ -200,7 +200,7 @@ archetypes:
     avg_copies: 2.0
   unknown-160:
     weight: 1.0
-    avg_copies: 3.87
+    avg_copies: 3.88
   unknown-166:
     weight: 1.0
     avg_copies: 4.0

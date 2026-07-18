@@ -7,17 +7,17 @@ name: Temporary Lockdown
 scryfall_id: 82b3088f-7b49-45e9-b447-129a597ceb75
 set: dmu
 type: Enchantment
-meta_presence: 0.0018
+meta_presence: 0.002
 archetypes:
   azorius-control:
-    weight: 0.0506
+    weight: 0.05
     avg_copies: 1.67
   unknown-12:
     weight: 1.0
     avg_copies: 1.0
   unknown-16:
-    weight: 0.8
-    avg_copies: 2.14
+    weight: 0.8333
+    avg_copies: 2.11
   unknown-163:
     weight: 1.0
     avg_copies: 2.0

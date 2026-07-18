@@ -10,7 +10,7 @@ type: Creature — Merfolk
 meta_presence: 0.0005
 archetypes:
   unknown-42:
-    weight: 0.2
+    weight: 0.1818
     avg_copies: 4.0
   unknown-182:
     weight: 0.3333

@@ -4,16 +4,16 @@ colors:
 - U
 - R
 name: 'Unknown #70'
-meta_share: 0.0029
-list_count: 16
+meta_share: 0.003
+list_count: 17
 top_cards:
 - name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 4.0
-- name: Guide of Souls
+- name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
-- name: Galvanic Discharge
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
@@ -24,16 +24,16 @@ top_cards:
   avg_copies: 3.88
 - name: Flooded Strand
   weight: 1.0
-  avg_copies: 3.81
+  avg_copies: 3.82
 - name: Arid Mesa
   weight: 1.0
-  avg_copies: 3.75
+  avg_copies: 3.76
 - name: Phelia, Exuberant Shepherd
   weight: 1.0
-  avg_copies: 3.25
+  avg_copies: 3.29
 - name: Consign to Memory
   weight: 1.0
-  avg_copies: 2.31
+  avg_copies: 2.29
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.12
@@ -42,10 +42,10 @@ top_cards:
   avg_copies: 1.94
 - name: Plains
   weight: 1.0
-  avg_copies: 1.69
+  avg_copies: 1.65
 - name: Hallowed Fountain
   weight: 1.0
-  avg_copies: 1.19
+  avg_copies: 1.18
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.12
@@ -53,127 +53,127 @@ top_cards:
   weight: 1.0
   avg_copies: 1.06
 - name: Scalding Tarn
-  weight: 0.9375
-  avg_copies: 3.6
+  weight: 0.9412
+  avg_copies: 3.62
 - name: Ragavan, Nimble Pilferer
-  weight: 0.9375
-  avg_copies: 3.13
+  weight: 0.9412
+  avg_copies: 3.12
 - name: High Noon
-  weight: 0.9375
-  avg_copies: 2.33
+  weight: 0.9412
+  avg_copies: 2.38
 - name: Goblin Bombardment
-  weight: 0.9375
-  avg_copies: 2.27
+  weight: 0.9412
+  avg_copies: 2.25
 - name: Mountain
-  weight: 0.9375
+  weight: 0.9412
   avg_copies: 1.0
 - name: Meticulous Archive
-  weight: 0.9375
+  weight: 0.9412
   avg_copies: 1.0
 - name: Solitude
-  weight: 0.8125
-  avg_copies: 3.62
+  weight: 0.8235
+  avg_copies: 3.64
 - name: Arena of Glory
-  weight: 0.8125
-  avg_copies: 1.31
+  weight: 0.8235
+  avg_copies: 1.29
 - name: Mystical Dispute
-  weight: 0.75
-  avg_copies: 3.17
+  weight: 0.7647
+  avg_copies: 3.23
 - name: Fable of the Mirror-Breaker
-  weight: 0.75
+  weight: 0.7647
   avg_copies: 2.0
 - name: Island
-  weight: 0.75
+  weight: 0.7647
   avg_copies: 1.0
 - name: Teferi, Time Raveler
-  weight: 0.625
+  weight: 0.6471
   avg_copies: 1.0
 - name: Blood Moon
-  weight: 0.5
+  weight: 0.5294
   avg_copies: 2.0
 - name: Obsidian Charmaw
-  weight: 0.375
+  weight: 0.3529
   avg_copies: 2.17
 - name: Vexing Bauble
-  weight: 0.3125
+  weight: 0.2941
   avg_copies: 2.0
 - name: Rest in Peace
-  weight: 0.3125
+  weight: 0.2941
   avg_copies: 1.8
 - name: Wear
-  weight: 0.3125
+  weight: 0.2941
   avg_copies: 1.2
 - name: Voice of Victory
-  weight: 0.25
+  weight: 0.2353
   avg_copies: 2.25
 - name: Ephemerate
-  weight: 0.25
+  weight: 0.2353
   avg_copies: 2.0
 - name: Ranger-Captain of Eos
-  weight: 0.25
+  weight: 0.2353
   avg_copies: 1.75
 - name: Celestial Purge
-  weight: 0.25
+  weight: 0.2353
   avg_copies: 1.25
 - name: Seasoned Pyromancer
-  weight: 0.1875
+  weight: 0.1765
   avg_copies: 1.67
 - name: Thraben Charm
-  weight: 0.1875
+  weight: 0.1765
   avg_copies: 1.5
 - name: Mockingbird
-  weight: 0.1875
+  weight: 0.1765
   avg_copies: 1.33
 - name: Thundering Falls
-  weight: 0.1875
+  weight: 0.1765
   avg_copies: 1.0
 - name: Prismatic Ending
-  weight: 0.125
+  weight: 0.1176
   avg_copies: 2.5
 - name: Orim's Chant
-  weight: 0.125
+  weight: 0.1176
   avg_copies: 2.0
-- name: Surgical Extraction
-  weight: 0.125
-  avg_copies: 1.0
 - name: Witch Enchanter
-  weight: 0.125
+  weight: 0.1176
   avg_copies: 1.0
-- name: Deafening Silence
-  weight: 0.0625
-  avg_copies: 2.0
+- name: Surgical Extraction
+  weight: 0.1176
+  avg_copies: 1.0
 - name: Reprieve
-  weight: 0.0625
+  weight: 0.0588
   avg_copies: 2.0
 - name: Practiced Offense
-  weight: 0.0625
+  weight: 0.0588
   avg_copies: 2.0
-- name: Strix Serenade
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Magus of the Moon
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.0625
-  avg_copies: 1.0
-- name: The Legend of Roku
-  weight: 0.0625
+- name: Deafening Silence
+  weight: 0.0588
+  avg_copies: 2.0
+- name: Lightning Bolt
+  weight: 0.0588
   avg_copies: 1.0
 - name: Spell Pierce
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Boromir, Warden of the Tower
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Lightning Bolt
-  weight: 0.0625
+  weight: 0.0588
   avg_copies: 1.0
 - name: Vandalblast
-  weight: 0.0625
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Magus of the Moon
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Boromir, Warden of the Tower
+  weight: 0.0588
+  avg_copies: 1.0
+- name: The Legend of Roku
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Strix Serenade
+  weight: 0.0588
   avg_copies: 1.0
 - name: Marsh Flats
-  weight: 0.0625
+  weight: 0.0588
   avg_copies: 1.0
 ---
 Unclassified archetype, pending review.

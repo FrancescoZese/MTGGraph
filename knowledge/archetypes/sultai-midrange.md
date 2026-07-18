@@ -7,13 +7,7 @@ name: Sultai Midrange
 meta_share: 0.0005
 list_count: 3
 top_cards:
-- name: Misty Rainforest
-  weight: 1.0
-  avg_copies: 4.0
 - name: Fatal Push
-  weight: 1.0
-  avg_copies: 4.0
-- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
@@ -22,22 +16,28 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
+- name: Misty Rainforest
+  weight: 1.0
+  avg_copies: 4.0
 - name: Counterspell
   weight: 1.0
   avg_copies: 3.67
 - name: Watery Grave
   weight: 1.0
   avg_copies: 3.0
-- name: Island
-  weight: 1.0
-  avg_copies: 2.67
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 2.67
-- name: Quantum Riddler
+- name: Island
   weight: 1.0
   avg_copies: 2.67
 - name: Scalding Tarn
+  weight: 1.0
+  avg_copies: 2.67
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 2.67
 - name: Subtlety
@@ -64,16 +64,16 @@ top_cards:
 - name: Thoughtseize
   weight: 0.6667
   avg_copies: 2.5
-- name: Tamiyo, Inquisitive Student
-  weight: 0.6667
-  avg_copies: 2.0
 - name: Murktide Regent
   weight: 0.6667
   avg_copies: 2.0
-- name: Pest Control
+- name: Tamiyo, Inquisitive Student
+  weight: 0.6667
+  avg_copies: 2.0
+- name: Harbinger of the Seas
   weight: 0.6667
   avg_copies: 1.5
-- name: Harbinger of the Seas
+- name: Pest Control
   weight: 0.6667
   avg_copies: 1.5
 - name: Stern Scolding
@@ -82,16 +82,16 @@ top_cards:
 - name: Hallowed Fountain
   weight: 0.6667
   avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.6667
-  avg_copies: 1.0
 - name: Ghost Vacuum
   weight: 0.6667
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Surgical Extraction
   weight: 0.6667
   avg_copies: 1.0
 - name: Prismatic Ending
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Meticulous Archive
   weight: 0.6667
   avg_copies: 1.0
 - name: Flow State
@@ -124,22 +124,13 @@ top_cards:
 - name: Sink into Stupor
   weight: 0.3333
   avg_copies: 1.0
-- name: Zagoth Triome
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Culling Ritual
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Teferi, Time Raveler
   weight: 0.3333
   avg_copies: 1.0
-- name: Damnation
+- name: Forest
   weight: 0.3333
   avg_copies: 1.0
-- name: Forest
+- name: Zagoth Triome
   weight: 0.3333
   avg_copies: 1.0
 - name: Hall of Storm Giants
@@ -148,16 +139,25 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.3333
   avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Cling to Dust
   weight: 0.3333
   avg_copies: 1.0
-- name: Cling to Dust
+- name: Nihil Spellbomb
   weight: 0.3333
   avg_copies: 1.0
 - name: Celestial Purge
   weight: 0.3333
   avg_copies: 1.0
 - name: Toxic Deluge
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Damnation
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Culling Ritual
   weight: 0.3333
   avg_copies: 1.0
 ---

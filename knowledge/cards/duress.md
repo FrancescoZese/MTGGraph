@@ -16,7 +16,7 @@ archetypes:
     weight: 0.0698
     avg_copies: 1.33
   orzhov-blink:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 2.0
   rakdos-aggro:
     weight: 0.0526

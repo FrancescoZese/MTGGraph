@@ -8,19 +8,19 @@ name: Wear // Tear
 scryfall_id: e01cc65a-0e38-4f41-b9ed-796ef0355d0b
 set: moc
 type: Instant // Instant
-meta_presence: 0.2438
+meta_presence: 0.1292
 archetypes:
   ruby-storm:
-    weight: 0.9082
-    avg_copies: 2.23
+    weight: 0.9109
+    avg_copies: 2.24
   boros-energy:
-    weight: 0.9493
-    avg_copies: 1.6
+    weight: 0.0029
+    avg_copies: 2.0
   jeskai-energy:
-    weight: 0.3511
+    weight: 0.3485
     avg_copies: 1.2
   azorius-control:
-    weight: 0.0127
+    weight: 0.0125
     avg_copies: 2.0
   jeskai-control:
     weight: 0.0444
@@ -29,10 +29,10 @@ archetypes:
     weight: 0.0041
     avg_copies: 2.0
   domain-zoo:
-    weight: 0.9833
-    avg_copies: 1.53
+    weight: 0.984
+    avg_copies: 1.52
   burn:
-    weight: 0.4571
+    weight: 0.4722
     avg_copies: 2.12
   mardu-blink:
     weight: 0.9583
@@ -44,7 +44,7 @@ archetypes:
     weight: 0.7643
     avg_copies: 1.76
   izzet-prowess:
-    weight: 0.0145
+    weight: 0.0142
     avg_copies: 1.75
   4c-omnath:
     weight: 0.5
@@ -65,7 +65,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-16:
-    weight: 0.8
+    weight: 0.6667
     avg_copies: 1.75
   unknown-32:
     weight: 1.0
@@ -86,7 +86,7 @@ archetypes:
     weight: 0.9714
     avg_copies: 1.74
   unknown-70:
-    weight: 0.3125
+    weight: 0.2941
     avg_copies: 1.2
   unknown-72:
     weight: 1.0
@@ -131,7 +131,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-122:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 2.0
   unknown-127:
     weight: 1.0
@@ -146,7 +146,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-144:
-    weight: 0.75
+    weight: 0.6
     avg_copies: 2.0
   unknown-149:
     weight: 0.3
@@ -155,8 +155,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.6102
-    avg_copies: 1.92
+    weight: 0.625
+    avg_copies: 1.95
   unknown-159:
     weight: 1.0
     avg_copies: 2.0
@@ -169,4 +169,7 @@ archetypes:
   unknown-177:
     weight: 1.0
     avg_copies: 1.0
+  unknown-201:
+    weight: 1.0
+    avg_copies: 3.0
 ---

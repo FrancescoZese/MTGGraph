@@ -3,19 +3,16 @@ colors:
 - U
 - B
 name: 'Unknown #69'
-meta_share: 0.0009
-list_count: 5
+meta_share: 0.0011
+list_count: 6
 top_cards:
-- name: Fatal Push
+- name: Soul Spike
   weight: 1.0
   avg_copies: 4.0
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
-- name: Swamp
-  weight: 1.0
-  avg_copies: 4.0
-- name: Soul Spike
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Boggart Trawler
@@ -24,107 +21,122 @@ top_cards:
 - name: Necrodominance
   weight: 1.0
   avg_copies: 4.0
+- name: Swamp
+  weight: 1.0
+  avg_copies: 4.0
 - name: Break the Ice
   weight: 1.0
-  avg_copies: 3.6
+  avg_copies: 3.67
 - name: Fell the Profane
   weight: 1.0
-  avg_copies: 3.4
-- name: Dauthi Voidwalker
-  weight: 1.0
-  avg_copies: 3.0
-- name: March of Wretched Sorrow
-  weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 3.5
 - name: Sheoldred, the Apocalypse
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 3.17
 - name: Thoughtseize
+  weight: 1.0
+  avg_copies: 3.14
+- name: Dauthi Voidwalker
+  weight: 1.0
+  avg_copies: 3.14
+- name: March of Wretched Sorrow
   weight: 1.0
   avg_copies: 3.0
 - name: Force of Despair
   weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 2.2
 - name: Inquisition of Kozilek
   weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 1.83
+- name: Castle Locthwain
+  weight: 0.8333
+  avg_copies: 2.6
 - name: Bloodstained Mire
-  weight: 1.0
+  weight: 0.8333
   avg_copies: 1.6
 - name: Verdant Catacombs
-  weight: 1.0
+  weight: 0.8333
   avg_copies: 1.4
 - name: Marsh Flats
-  weight: 1.0
+  weight: 0.8333
   avg_copies: 1.2
-- name: Castle Locthwain
-  weight: 0.8
-  avg_copies: 2.5
-- name: Chalice of the Void
-  weight: 0.8
-  avg_copies: 1.5
-- name: Polluted Delta
-  weight: 0.8
-  avg_copies: 1.25
-- name: Ashiok, Dream Render
-  weight: 0.8
-  avg_copies: 1.25
-- name: The Meathook Massacre
-  weight: 0.8
-  avg_copies: 1.0
 - name: Surgical Extraction
-  weight: 0.8
+  weight: 0.8333
+  avg_copies: 1.0
+- name: The Meathook Massacre
+  weight: 0.8333
   avg_copies: 1.0
 - name: card:baron-helmut-zemo
-  weight: 0.6
-  avg_copies: 3.67
-- name: Sheoldred's Edict
-  weight: 0.6
+  weight: 0.6667
+  avg_copies: 3.5
+- name: Chalice of the Void
+  weight: 0.6667
   avg_copies: 1.5
-- name: Shadow of Doubt
-  weight: 0.6
+- name: Ashiok, Dream Render
+  weight: 0.6667
+  avg_copies: 1.25
+- name: Polluted Delta
+  weight: 0.6667
+  avg_copies: 1.25
+- name: Sheoldred's Edict
+  weight: 0.5
+  avg_copies: 1.5
+- name: Illness in the Ranks
+  weight: 0.5
   avg_copies: 1.33
 - name: Undercity Sewers
-  weight: 0.6
+  weight: 0.5
   avg_copies: 1.33
-- name: Psychic Frog
-  weight: 0.4
-  avg_copies: 4.0
-- name: Watery Grave
-  weight: 0.4
-  avg_copies: 1.5
-- name: Underground Mortuary
-  weight: 0.4
-  avg_copies: 1.0
-- name: Illness in the Ranks
-  weight: 0.4
-  avg_copies: 1.0
-- name: Revitalizing Repast
-  weight: 0.4
-  avg_copies: 1.0
-- name: Waterlogged Teachings
-  weight: 0.4
-  avg_copies: 1.0
+- name: Shadow of Doubt
+  weight: 0.5
+  avg_copies: 1.33
 - name: Damnation
-  weight: 0.4
+  weight: 0.5
   avg_copies: 1.0
-- name: Necromentia
-  weight: 0.4
-  avg_copies: 1.0
-- name: Consign to Memory
-  weight: 0.2
+- name: Psychic Frog
+  weight: 0.3333
   avg_copies: 4.0
 - name: Damping Sphere
-  weight: 0.2
+  weight: 0.3333
   avg_copies: 2.0
+- name: Watery Grave
+  weight: 0.3333
+  avg_copies: 1.5
+- name: Waterlogged Teachings
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Necromentia
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Revitalizing Repast
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Underground Mortuary
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Consign to Memory
+  weight: 0.1667
+  avg_copies: 4.0
 - name: Tourach, Dread Cantor
-  weight: 0.2
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Sign in Blood
+  weight: 0.1667
   avg_copies: 2.0
 - name: Cling to Dust
-  weight: 0.2
+  weight: 0.1667
   avg_copies: 1.0
 - name: Toxic Deluge
-  weight: 0.2
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Takenuma, Abandoned Mire
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Agadeem's Awakening
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Shizo, Death's Storehouse
+  weight: 0.1667
   avg_copies: 1.0
 ---
 Unclassified archetype, pending review.

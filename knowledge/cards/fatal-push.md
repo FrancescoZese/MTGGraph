@@ -7,19 +7,19 @@ name: Fatal Push
 scryfall_id: 6e9d8fe4-fd9b-4923-92bf-7dd6b8fa02e7
 set: 2xm
 type: Instant
-meta_presence: 0.1773
+meta_presence: 0.1776
 archetypes:
   dimir-control:
     weight: 1.0
     avg_copies: 3.8
   goryo:
-    weight: 0.2226
-    avg_copies: 1.29
+    weight: 0.2214
+    avg_copies: 1.28
   necrodominance:
     weight: 0.8605
     avg_copies: 3.97
   domain-zoo:
-    weight: 0.0333
+    weight: 0.032
     avg_copies: 2.75
   mill:
     weight: 0.9677
@@ -37,14 +37,14 @@ archetypes:
     weight: 1.0
     avg_copies: 2.79
   simic-ritual:
-    weight: 0.0375
+    weight: 0.037
     avg_copies: 2.33
   izzet-prowess:
-    weight: 0.0073
+    weight: 0.0071
     avg_copies: 1.5
   esper-blink:
-    weight: 0.9495
-    avg_copies: 3.47
+    weight: 0.95
+    avg_copies: 3.46
   samwise-combo:
     weight: 0.5
     avg_copies: 2.17
@@ -52,11 +52,11 @@ archetypes:
     weight: 0.2143
     avg_copies: 3.33
   broodscale-combo:
-    weight: 0.0126
+    weight: 0.0124
     avg_copies: 2.0
   orzhov-blink:
     weight: 1.0
-    avg_copies: 3.67
+    avg_copies: 3.7
   esper-control:
     weight: 1.0
     avg_copies: 3.0
@@ -88,14 +88,14 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   goryo2:
-    weight: 0.125
+    weight: 0.1818
     avg_copies: 4.0
   soultrader-combo:
     weight: 1.0
     avg_copies: 2.5
   grixis-control:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.86
   sultai-midrange:
     weight: 1.0
     avg_copies: 4.0
@@ -235,7 +235,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-126:
-    weight: 0.2857
+    weight: 0.3182
     avg_copies: 3.0
   unknown-127:
     weight: 1.0
@@ -255,6 +255,9 @@ archetypes:
   unknown-141:
     weight: 1.0
     avg_copies: 2.0
+  unknown-144:
+    weight: 0.2
+    avg_copies: 4.0
   unknown-146:
     weight: 1.0
     avg_copies: 4.0
@@ -289,6 +292,9 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-199:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-204:
     weight: 1.0
     avg_copies: 4.0
 ---

@@ -7,25 +7,25 @@ name: Prismatic Ending
 scryfall_id: 825969b9-3c70-4fca-8cab-696e9ca7cdb2
 set: mh2
 type: Sorcery
-meta_presence: 0.1695
+meta_presence: 0.17
 archetypes:
   ruby-storm:
-    weight: 0.9133
-    avg_copies: 3.28
+    weight: 0.9158
+    avg_copies: 3.24
   boros-energy:
-    weight: 0.0433
+    weight: 0.0442
     avg_copies: 1.15
   dimir-control:
     weight: 0.037
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.5954
+    weight: 0.5909
     avg_copies: 1.73
   eldrazi-tron:
-    weight: 0.0037
+    weight: 0.0036
     avg_copies: 2.0
   goryo:
-    weight: 0.9854
+    weight: 0.9857
     avg_copies: 2.23
   azorius-control:
     weight: 1.0
@@ -34,8 +34,8 @@ archetypes:
     weight: 0.9556
     avg_copies: 2.07
   domain-zoo:
-    weight: 0.025
-    avg_copies: 1.33
+    weight: 0.032
+    avg_copies: 1.4
   reanimator:
     weight: 0.037
     avg_copies: 4.0
@@ -43,25 +43,25 @@ archetypes:
     weight: 0.1667
     avg_copies: 2.0
   hammer-time:
-    weight: 0.1667
+    weight: 0.1538
     avg_copies: 1.5
   boros-ponza:
     weight: 0.0071
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0109
+    weight: 0.0107
     avg_copies: 2.0
   4c-omnath:
     weight: 0.25
     avg_copies: 4.0
   esper-blink:
-    weight: 0.8384
-    avg_copies: 1.29
+    weight: 0.84
+    avg_copies: 1.3
   indomitable-creativity:
     weight: 0.7857
     avg_copies: 2.27
   orzhov-blink:
-    weight: 0.3333
+    weight: 0.3
     avg_copies: 2.0
   bant-control:
     weight: 1.0
@@ -82,8 +82,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo2:
-    weight: 1.0
-    avg_copies: 3.44
+    weight: 0.9091
+    avg_copies: 3.55
   goryo3:
     weight: 1.0
     avg_copies: 4.0
@@ -103,7 +103,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.8
   unknown-16:
-    weight: 0.8
+    weight: 0.8333
     avg_copies: 4.0
   unknown-22:
     weight: 0.25
@@ -118,7 +118,7 @@ archetypes:
     weight: 0.2857
     avg_copies: 1.0
   unknown-70:
-    weight: 0.125
+    weight: 0.1176
     avg_copies: 2.5
   unknown-74:
     weight: 1.0

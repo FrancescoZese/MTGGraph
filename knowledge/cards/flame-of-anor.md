@@ -11,7 +11,7 @@ type: Instant
 meta_presence: 0.0177
 archetypes:
   ruby-storm:
-    weight: 0.0255
+    weight: 0.0248
     avg_copies: 1.6
   dimir-control:
     weight: 0.0247
@@ -30,7 +30,7 @@ archetypes:
     avg_copies: 4.0
   grixis-control:
     weight: 1.0
-    avg_copies: 3.83
+    avg_copies: 3.71
   4c-omnath9:
     weight: 1.0
     avg_copies: 3.6
@@ -38,8 +38,8 @@ archetypes:
     weight: 0.5
     avg_copies: 1.5
   unknown-6:
-    weight: 0.5
-    avg_copies: 1.0
+    weight: 0.5556
+    avg_copies: 1.2
   unknown-10:
     weight: 1.0
     avg_copies: 1.33
@@ -62,7 +62,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-65:
-    weight: 0.0357
+    weight: 0.0345
     avg_copies: 4.0
   unknown-82:
     weight: 1.0

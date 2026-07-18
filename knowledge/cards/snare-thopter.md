@@ -9,6 +9,6 @@ type: Artifact Creature — Thopter
 meta_presence: 0.0002
 archetypes:
   eldrazi-tron:
-    weight: 0.0037
+    weight: 0.0036
     avg_copies: 1.0
 ---

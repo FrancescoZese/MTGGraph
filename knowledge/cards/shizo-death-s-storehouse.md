@@ -6,12 +6,15 @@ name: Shizo, Death's Storehouse
 scryfall_id: 099352e2-38c8-4fb4-a25f-6d928aa20f9e
 set: dmc
 type: Legendary Land
-meta_presence: 0.0005
+meta_presence: 0.0007
 archetypes:
   necrodominance:
     weight: 0.0465
     avg_copies: 1.0
   unknown-18:
     weight: 1.0
+    avg_copies: 1.0
+  unknown-69:
+    weight: 0.1667
     avg_copies: 1.0
 ---

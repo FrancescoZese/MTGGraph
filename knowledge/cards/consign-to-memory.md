@@ -7,10 +7,10 @@ name: Consign to Memory
 scryfall_id: bc95af55-d1dd-4fe6-adb0-3ad6db20d986
 set: mh3
 type: Instant
-meta_presence: 0.464
+meta_presence: 0.4648
 archetypes:
   ruby-storm:
-    weight: 0.0051
+    weight: 0.005
     avg_copies: 2.0
   boros-energy:
     weight: 0.0015
@@ -22,26 +22,26 @@ archetypes:
     weight: 1.0
     avg_copies: 3.23
   jeskai-energy:
-    weight: 0.9847
+    weight: 0.9848
     avg_copies: 3.79
   goryo:
-    weight: 0.9927
+    weight: 0.9929
     avg_copies: 2.89
   necrodominance:
     weight: 0.0465
     avg_copies: 3.5
   azorius-control:
     weight: 1.0
-    avg_copies: 3.81
+    avg_copies: 3.77
   jeskai-control:
     weight: 1.0
     avg_copies: 3.26
   affinity:
-    weight: 0.9463
+    weight: 0.9468
     avg_copies: 2.53
   domain-zoo:
-    weight: 0.925
-    avg_copies: 2.05
+    weight: 0.928
+    avg_copies: 2.04
   mill:
     weight: 0.7419
     avg_copies: 3.3
@@ -49,31 +49,31 @@ archetypes:
     weight: 0.8519
     avg_copies: 2.87
   neoform-combo:
-    weight: 0.9538
+    weight: 0.9545
     avg_copies: 3.68
   mono-blue-tron:
     weight: 1.0
     avg_copies: 3.17
   hammer-time:
-    weight: 0.9167
+    weight: 0.8462
     avg_copies: 2.55
   kethis-combo:
     weight: 0.7143
     avg_copies: 2.8
   eldrazi-ramp:
-    weight: 0.0593
+    weight: 0.0583
     avg_copies: 2.43
   simic-ritual:
-    weight: 0.825
+    weight: 0.8148
     avg_copies: 2.95
   izzet-prowess:
-    weight: 0.9745
-    avg_copies: 3.32
+    weight: 0.9751
+    avg_copies: 3.33
   4c-omnath:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.899
+    weight: 0.9
     avg_copies: 2.39
   indomitable-creativity:
     weight: 0.7857
@@ -109,14 +109,14 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   goryo1:
-    weight: 0.9933
+    weight: 0.9934
     avg_copies: 3.23
   goryo7:
     weight: 1.0
     avg_copies: 2.0
   goryo2:
     weight: 1.0
-    avg_copies: 3.44
+    avg_copies: 3.07
   goryo3:
     weight: 1.0
     avg_copies: 4.0
@@ -125,7 +125,7 @@ archetypes:
     avg_copies: 2.0
   grixis-control:
     weight: 1.0
-    avg_copies: 3.83
+    avg_copies: 3.86
   izzet-murktide:
     weight: 1.0
     avg_copies: 4.0
@@ -146,7 +146,7 @@ archetypes:
     avg_copies: 4.0
   unknown-6:
     weight: 1.0
-    avg_copies: 2.88
+    avg_copies: 3.0
   unknown-9:
     weight: 1.0
     avg_copies: 4.0
@@ -161,7 +161,7 @@ archetypes:
     avg_copies: 3.09
   unknown-16:
     weight: 1.0
-    avg_copies: 3.4
+    avg_copies: 3.5
   unknown-17:
     weight: 1.0
     avg_copies: 2.67
@@ -197,13 +197,13 @@ archetypes:
     avg_copies: 3.0
   unknown-42:
     weight: 1.0
-    avg_copies: 3.1
+    avg_copies: 3.09
   unknown-44:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9877
-    avg_copies: 3.15
+    weight: 0.9884
+    avg_copies: 3.13
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
@@ -232,11 +232,11 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-69:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 4.0
   unknown-70:
     weight: 1.0
-    avg_copies: 2.31
+    avg_copies: 2.29
   unknown-74:
     weight: 1.0
     avg_copies: 4.0
@@ -325,11 +325,11 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-122:
-    weight: 0.8696
-    avg_copies: 3.45
+    weight: 0.875
+    avg_copies: 3.48
   unknown-125:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.67
   unknown-124:
     weight: 1.0
     avg_copies: 3.0
@@ -358,8 +358,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-144:
-    weight: 0.5
-    avg_copies: 4.0
+    weight: 0.6
+    avg_copies: 3.33
   unknown-149:
     weight: 1.0
     avg_copies: 2.35
@@ -442,6 +442,9 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-200:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-204:
     weight: 1.0
     avg_copies: 4.0
 ---

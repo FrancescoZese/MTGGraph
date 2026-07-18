@@ -7,25 +7,25 @@ name: 'Unknown #166'
 meta_share: 0.0004
 list_count: 2
 top_cards:
-- name: Flooded Strand
+- name: Thundertrap Trainer
   weight: 1.0
   avg_copies: 4.0
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 4.0
-- name: Thundertrap Trainer
-  weight: 1.0
-  avg_copies: 4.0
-- name: Consign to Memory
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Flame of Anor
   weight: 1.0
   avg_copies: 4.0
-- name: Mystical Dispute
+- name: Consign to Memory
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lórien Revealed
   weight: 1.0
   avg_copies: 3.0
-- name: High Noon
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 3.0
 - name: Galvanic Discharge
@@ -37,7 +37,7 @@ top_cards:
 - name: Prismatic Ending
   weight: 1.0
   avg_copies: 3.0
-- name: Lórien Revealed
+- name: High Noon
   weight: 1.0
   avg_copies: 3.0
 - name: Flare of Denial
@@ -46,25 +46,16 @@ top_cards:
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 2.5
-- name: Counterspell
+- name: Snapcaster Mage
   weight: 1.0
   avg_copies: 2.0
 - name: Island
   weight: 1.0
   avg_copies: 2.0
-- name: Surgical Extraction
-  weight: 1.0
-  avg_copies: 2.0
 - name: Solitude
   weight: 1.0
   avg_copies: 2.0
-- name: Snapcaster Mage
-  weight: 1.0
-  avg_copies: 2.0
 - name: Steam Vents
-  weight: 1.0
-  avg_copies: 2.0
-- name: Meticulous Archive
   weight: 1.0
   avg_copies: 2.0
 - name: Plains
@@ -73,13 +64,28 @@ top_cards:
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 2.0
+- name: Meticulous Archive
+  weight: 1.0
+  avg_copies: 2.0
+- name: Surgical Extraction
+  weight: 1.0
+  avg_copies: 2.0
 - name: Mystic Gate
   weight: 1.0
   avg_copies: 2.0
 - name: Murktide Regent
   weight: 1.0
   avg_copies: 2.0
-- name: Meltdown
+- name: Counterspell
+  weight: 1.0
+  avg_copies: 2.0
+- name: Thundering Falls
+  weight: 1.0
+  avg_copies: 1.0
+- name: Beza, the Bounding Spring
+  weight: 1.0
+  avg_copies: 1.0
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
 - name: Teferi, Hero of Dominaria
@@ -88,13 +94,7 @@ top_cards:
 - name: Celestial Purge
   weight: 1.0
   avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 1.0
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 1.0
-  avg_copies: 1.0
-- name: Beza, the Bounding Spring
+- name: Meltdown
   weight: 1.0
   avg_copies: 1.0
 - name: Hall of Storm Giants

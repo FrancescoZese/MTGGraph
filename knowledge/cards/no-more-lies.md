@@ -11,23 +11,23 @@ type: Instant
 meta_presence: 0.0082
 archetypes:
   jeskai-energy:
-    weight: 0.2519
-    avg_copies: 1.29
+    weight: 0.25
+    avg_copies: 1.3
   goryo:
     weight: 0.0036
     avg_copies: 2.0
   domain-zoo:
-    weight: 0.0083
+    weight: 0.008
     avg_copies: 2.0
   esper-blink:
-    weight: 0.0101
+    weight: 0.01
     avg_copies: 4.0
   esper-midrange:
     weight: 1.0
     avg_copies: 4.0
   goryo2:
-    weight: 0.375
-    avg_copies: 2.33
+    weight: 0.3636
+    avg_copies: 2.5
   unknown-3:
     weight: 1.0
     avg_copies: 2.0

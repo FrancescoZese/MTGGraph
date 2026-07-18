@@ -9,8 +9,8 @@ type: Land
 meta_presence: 0.0084
 archetypes:
   burn:
-    weight: 0.8571
-    avg_copies: 3.1
+    weight: 0.8611
+    avg_copies: 3.03
   hollow-one:
     weight: 0.0303
     avg_copies: 1.0

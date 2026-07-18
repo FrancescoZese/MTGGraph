@@ -6,31 +6,31 @@ name: 'Unknown #97'
 meta_share: 0.0018
 list_count: 10
 top_cards:
+- name: Kozilek's Command
+  weight: 1.0
+  avg_copies: 4.0
+- name: Eldrazi Temple
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ugin's Labyrinth
+  weight: 1.0
+  avg_copies: 4.0
+- name: Malevolent Rumble
+  weight: 1.0
+  avg_copies: 4.0
 - name: Utopia Sprawl
   weight: 1.0
   avg_copies: 4.0
 - name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
-- name: Kozilek's Command
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ugin's Labyrinth
-  weight: 1.0
-  avg_copies: 4.0
-- name: Eldrazi Temple
-  weight: 1.0
-  avg_copies: 4.0
-- name: Malevolent Rumble
-  weight: 1.0
-  avg_copies: 4.0
 - name: Ancient Stirrings
   weight: 1.0
   avg_copies: 3.7
-- name: Emrakul, the Promised End
+- name: Forest
   weight: 1.0
   avg_copies: 3.0
-- name: Forest
+- name: Emrakul, the Promised End
   weight: 1.0
   avg_copies: 3.0
 - name: Ugin, Eye of the Storms
@@ -84,10 +84,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.5
   avg_copies: 3.4
-- name: Culling Ritual
+- name: Consign to Memory
   weight: 0.5
   avg_copies: 2.2
-- name: Consign to Memory
+- name: Culling Ritual
   weight: 0.5
   avg_copies: 2.2
 - name: Talisman of Curiosity
@@ -96,13 +96,13 @@ top_cards:
 - name: Nulldrifter
   weight: 0.5
   avg_copies: 1.6
+- name: Kishla Village
+  weight: 0.5
+  avg_copies: 1.0
 - name: Breeding Pool
   weight: 0.5
   avg_copies: 1.0
 - name: Hedge Maze
-  weight: 0.5
-  avg_copies: 1.0
-- name: Kishla Village
   weight: 0.5
   avg_copies: 1.0
 - name: Strix Serenade
@@ -126,58 +126,58 @@ top_cards:
 - name: Force of Vigor
   weight: 0.2
   avg_copies: 1.0
-- name: Kozilek's Return
+- name: Karn, the Great Creator
   weight: 0.1
   avg_copies: 3.0
 - name: Wastescape Battlemage
   weight: 0.1
   avg_copies: 3.0
-- name: Karn, the Great Creator
+- name: Kozilek's Return
   weight: 0.1
   avg_copies: 3.0
+- name: Vandalblast
+  weight: 0.1
+  avg_copies: 2.0
+- name: Damping Sphere
+  weight: 0.1
+  avg_copies: 2.0
+- name: Damnation
+  weight: 0.1
+  avg_copies: 2.0
+- name: Soulless Jailer
+  weight: 0.1
+  avg_copies: 2.0
+- name: Witherbloom Charm
+  weight: 0.1
+  avg_copies: 2.0
 - name: Talisman of Impulse
   weight: 0.1
   avg_copies: 2.0
 - name: Nature's Claim
   weight: 0.1
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Tormod's Crypt
   weight: 0.1
-  avg_copies: 2.0
-- name: Soulless Jailer
-  weight: 0.1
-  avg_copies: 2.0
-- name: Damnation
-  weight: 0.1
-  avg_copies: 2.0
-- name: Witherbloom Charm
-  weight: 0.1
-  avg_copies: 2.0
-- name: Vandalblast
-  weight: 0.1
-  avg_copies: 2.0
+  avg_copies: 1.0
 - name: Haywire Mite
-  weight: 0.1
-  avg_copies: 1.0
-- name: Commercial District
-  weight: 0.1
-  avg_copies: 1.0
-- name: Ensnaring Bridge
   weight: 0.1
   avg_copies: 1.0
 - name: Liquimetal Coating
   weight: 0.1
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Ensnaring Bridge
   weight: 0.1
   avg_copies: 1.0
-- name: Tormod's Crypt
+- name: Pithing Needle
   weight: 0.1
   avg_copies: 1.0
 - name: Stomping Ground
   weight: 0.1
   avg_copies: 1.0
 - name: Chalice of the Void
+  weight: 0.1
+  avg_copies: 1.0
+- name: Commercial District
   weight: 0.1
   avg_copies: 1.0
 ---

@@ -6,25 +6,13 @@ name: Rakdos Lantern Combo
 meta_share: 0.0004
 list_count: 2
 top_cards:
-- name: Blackcleave Cliffs
-  weight: 1.0
-  avg_copies: 4.0
 - name: Profane Tutor
   weight: 1.0
   avg_copies: 4.0
-- name: Swamp
-  weight: 1.0
-  avg_copies: 4.0
-- name: Codex Shredder
+- name: Lantern of Insight
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 4.0
-- name: Lantern of Insight
   weight: 1.0
   avg_copies: 4.0
 - name: Bloodstained Mire
@@ -33,10 +21,22 @@ top_cards:
 - name: Ensnaring Bridge
   weight: 1.0
   avg_copies: 4.0
-- name: Blood Moon
+- name: Thoughtseize
+  weight: 1.0
+  avg_copies: 4.0
+- name: Swamp
+  weight: 1.0
+  avg_copies: 4.0
+- name: Codex Shredder
+  weight: 1.0
+  avg_copies: 4.0
+- name: Blackcleave Cliffs
+  weight: 1.0
+  avg_copies: 4.0
+- name: Inquisition of Kozilek
   weight: 1.0
   avg_copies: 3.5
-- name: Inquisition of Kozilek
+- name: Blood Moon
   weight: 1.0
   avg_copies: 3.5
 - name: Pyroclasm
@@ -45,40 +45,37 @@ top_cards:
 - name: Pithing Needle
   weight: 1.0
   avg_copies: 3.0
-- name: Mox Opal
-  weight: 1.0
-  avg_copies: 2.5
 - name: Soulless Jailer
   weight: 1.0
   avg_copies: 2.5
-- name: Fatal Push
+- name: Mox Opal
+  weight: 1.0
+  avg_copies: 2.5
+- name: The Mycosynth Gardens
   weight: 1.0
   avg_copies: 2.0
-- name: The Mycosynth Gardens
+- name: Fatal Push
   weight: 1.0
   avg_copies: 2.0
 - name: Pyxis of Pandemonium
   weight: 1.0
   avg_copies: 2.0
-- name: Cursed Totem
+- name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 1.5
-- name: Ashiok, Dream Render
+- name: Cursed Totem
   weight: 1.0
   avg_copies: 1.5
 - name: Torpor Orb
   weight: 1.0
   avg_copies: 1.33
+- name: Blood Crypt
+  weight: 1.0
+  avg_copies: 1.0
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.0
-- name: Molten Collapse
-  weight: 1.0
-  avg_copies: 1.0
-- name: Emrakul, the Aeons Torn
-  weight: 1.0
-  avg_copies: 1.0
-- name: Blood Crypt
+- name: Grafdigger's Cage
   weight: 1.0
   avg_copies: 1.0
 - name: Mountain
@@ -87,8 +84,17 @@ top_cards:
 - name: The Underworld Cookbook
   weight: 1.0
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Emrakul, the Aeons Torn
   weight: 1.0
+  avg_copies: 1.0
+- name: Molten Collapse
+  weight: 1.0
+  avg_copies: 1.0
+- name: Tokka & Rahzar, Terrible Twos
+  weight: 0.5
+  avg_copies: 1.0
+- name: Necromentia
+  weight: 0.5
   avg_copies: 1.0
 - name: Magus of the Moon
   weight: 0.5
@@ -96,16 +102,10 @@ top_cards:
 - name: Void Mirror
   weight: 0.5
   avg_copies: 1.0
-- name: Blazemire Verge
-  weight: 0.5
-  avg_copies: 1.0
 - name: The Meathook Massacre
   weight: 0.5
   avg_copies: 1.0
-- name: Necromentia
-  weight: 0.5
-  avg_copies: 1.0
-- name: Tokka & Rahzar, Terrible Twos
+- name: Blazemire Verge
   weight: 0.5
   avg_copies: 1.0
 ---

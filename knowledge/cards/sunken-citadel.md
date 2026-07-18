@@ -6,7 +6,7 @@ name: Sunken Citadel
 scryfall_id: 3e1c9b1a-e306-47bb-9f68-2083660319c0
 set: lci
 type: Land — Cave
-meta_presence: 0.0366
+meta_presence: 0.0367
 archetypes:
   boros-ponza:
     weight: 0.9571
@@ -24,6 +24,6 @@ archetypes:
     weight: 0.5
     avg_copies: 3.0
   unknown-160:
-    weight: 0.9661
-    avg_copies: 2.91
+    weight: 0.9531
+    avg_copies: 2.92
 ---

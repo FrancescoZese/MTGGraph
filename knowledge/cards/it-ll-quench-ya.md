@@ -7,15 +7,15 @@ name: It'll Quench Ya!
 scryfall_id: 47c25e41-f43c-4447-81b5-b9631448bd29
 set: tla
 type: Instant — Lesson
-meta_presence: 0.0042
+meta_presence: 0.0041
 archetypes:
   izzet-prowess:
-    weight: 0.0582
+    weight: 0.0569
     avg_copies: 1.0
   unknown-50:
     weight: 1.0
     avg_copies: 1.0
   unknown-122:
-    weight: 0.2609
+    weight: 0.25
     avg_copies: 1.0
 ---

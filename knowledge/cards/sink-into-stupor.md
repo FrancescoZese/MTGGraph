@@ -9,19 +9,19 @@ type: Instant // Land
 meta_presence: 0.1994
 archetypes:
   ruby-storm:
-    weight: 0.0051
+    weight: 0.005
     avg_copies: 1.0
   dimir-control:
     weight: 0.5679
     avg_copies: 1.85
   mono-blue-belcher:
     weight: 1.0
-    avg_copies: 3.97
+    avg_copies: 3.98
   goryo:
-    weight: 0.0547
+    weight: 0.0536
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0633
+    weight: 0.0625
     avg_copies: 1.4
   living-end:
     weight: 1.0
@@ -30,8 +30,8 @@ archetypes:
     weight: 0.1333
     avg_copies: 1.0
   affinity:
-    weight: 0.8616
-    avg_copies: 1.92
+    weight: 0.8589
+    avg_copies: 1.91
   mill:
     weight: 0.4839
     avg_copies: 1.0
@@ -42,7 +42,7 @@ archetypes:
     weight: 0.65
     avg_copies: 1.54
   simic-ritual:
-    weight: 0.975
+    weight: 0.9753
     avg_copies: 3.78
   izzet-prowess:
     weight: 0.0036
@@ -63,13 +63,13 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.26
+    weight: 0.2566
     avg_copies: 1.0
   goryo7:
     weight: 1.0
     avg_copies: 3.0
   grixis-control:
-    weight: 1.0
+    weight: 0.8571
     avg_copies: 1.83
   izzet-murktide:
     weight: 1.0
@@ -109,7 +109,7 @@ archetypes:
     avg_copies: 2.0
   unknown-42:
     weight: 1.0
-    avg_copies: 3.6
+    avg_copies: 3.64
   unknown-44:
     weight: 1.0
     avg_copies: 2.0
@@ -129,11 +129,11 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-65:
-    weight: 0.9643
-    avg_copies: 2.19
+    weight: 0.9655
+    avg_copies: 2.18
   unknown-67:
     weight: 1.0
-    avg_copies: 1.67
+    avg_copies: 1.66
   unknown-82:
     weight: 1.0
     avg_copies: 2.67
@@ -157,7 +157,7 @@ archetypes:
     avg_copies: 1.0
   unknown-125:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.5
   unknown-124:
     weight: 1.0
     avg_copies: 2.0
@@ -168,7 +168,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-144:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 2.0
   unknown-150:
     weight: 1.0

@@ -7,10 +7,10 @@ name: Leyline of the Void
 scryfall_id: aeaa3aff-608d-4723-bb7c-8daedebe9f36
 set: dsk
 type: Enchantment
-meta_presence: 0.0087
+meta_presence: 0.0088
 archetypes:
   goryo:
-    weight: 0.0073
+    weight: 0.0071
     avg_copies: 3.5
   mill:
     weight: 0.0323
@@ -37,7 +37,7 @@ archetypes:
     weight: 0.0476
     avg_copies: 3.0
   goryo1:
-    weight: 0.0067
+    weight: 0.0066
     avg_copies: 3.0
   unknown-40:
     weight: 1.0
@@ -46,7 +46,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 4.0
   unknown-67:
-    weight: 0.1667
+    weight: 0.1571
     avg_copies: 3.0
   unknown-74:
     weight: 1.0
@@ -65,7 +65,7 @@ archetypes:
     avg_copies: 4.0
   unknown-144:
     weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 1.4
   unknown-161:
     weight: 0.5
     avg_copies: 4.0

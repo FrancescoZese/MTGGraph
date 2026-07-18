@@ -9,16 +9,16 @@ top_cards:
 - name: Detective's Phoenix
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
-- name: Street Wraith
+- name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
 - name: Hollow One
   weight: 1.0
   avg_copies: 4.0
-- name: Nethergoyf
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Blood Crypt
@@ -45,10 +45,10 @@ top_cards:
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.2
-- name: Burning Inquiry
+- name: Marauding Mako
   weight: 0.8
   avg_copies: 4.0
-- name: Marauding Mako
+- name: Burning Inquiry
   weight: 0.8
   avg_copies: 4.0
 - name: Lightning Bolt
@@ -57,10 +57,10 @@ top_cards:
 - name: Arid Mesa
   weight: 0.8
   avg_copies: 2.25
-- name: Tarfire
+- name: Wooded Foothills
   weight: 0.8
   avg_copies: 2.0
-- name: Wooded Foothills
+- name: Tarfire
   weight: 0.8
   avg_copies: 2.0
 - name: Leyline of the Void
@@ -99,16 +99,16 @@ top_cards:
 - name: Mishra's Bauble
   weight: 0.2
   avg_copies: 4.0
-- name: Magebane Lizard
+- name: Kroxa, Titan of Death's Hunger
   weight: 0.2
   avg_copies: 3.0
-- name: Faerie Macabre
+- name: Magebane Lizard
   weight: 0.2
   avg_copies: 3.0
 - name: Surgical Extraction
   weight: 0.2
   avg_copies: 3.0
-- name: Kroxa, Titan of Death's Hunger
+- name: Faerie Macabre
   weight: 0.2
   avg_copies: 3.0
 - name: Wear
@@ -117,10 +117,13 @@ top_cards:
 - name: Rough
   weight: 0.2
   avg_copies: 2.0
-- name: Seal of Fire
+- name: Sacred Foundry
   weight: 0.2
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Cool but Rude
+  weight: 0.2
+  avg_copies: 1.0
+- name: Seal of Fire
   weight: 0.2
   avg_copies: 1.0
 - name: Swamp
@@ -130,9 +133,6 @@ top_cards:
   weight: 0.2
   avg_copies: 1.0
 - name: Ox of Agonas
-  weight: 0.2
-  avg_copies: 1.0
-- name: Cool but Rude
   weight: 0.2
   avg_copies: 1.0
 ---

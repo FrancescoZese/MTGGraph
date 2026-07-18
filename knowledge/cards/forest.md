@@ -6,16 +6,16 @@ name: Forest
 scryfall_id: f169dfb2-e4c8-46e9-8591-e51bb82da082
 set: sos
 type: Basic Land — Forest
-meta_presence: 0.1959
+meta_presence: 0.1955
 archetypes:
   eldrazi-tron:
-    weight: 0.1287
+    weight: 0.1268
     avg_copies: 1.22
   amulet-titan:
     weight: 1.0
     avg_copies: 2.87
   goryo:
-    weight: 0.0073
+    weight: 0.0071
     avg_copies: 1.5
   hardened-scales:
     weight: 1.0
@@ -24,19 +24,19 @@ archetypes:
     weight: 1.0
     avg_copies: 1.02
   domain-zoo:
-    weight: 0.0083
+    weight: 0.008
     avg_copies: 2.0
   neoform-combo:
-    weight: 0.2154
+    weight: 0.2121
     avg_copies: 1.36
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 1.77
   eldrazi-ramp:
     weight: 1.0
-    avg_copies: 2.78
+    avg_copies: 2.77
   simic-ritual:
-    weight: 0.0125
+    weight: 0.0123
     avg_copies: 2.0
   4c-omnath:
     weight: 1.0
@@ -46,7 +46,7 @@ archetypes:
     avg_copies: 1.05
   broodscale-combo:
     weight: 1.0
-    avg_copies: 3.08
+    avg_copies: 3.1
   elves:
     weight: 1.0
     avg_copies: 3.0
@@ -81,7 +81,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-6:
-    weight: 0.625
+    weight: 0.5556
     avg_copies: 1.0
   unknown-9:
     weight: 1.0
@@ -109,12 +109,12 @@ archetypes:
     avg_copies: 1.0
   unknown-61:
     weight: 1.0
-    avg_copies: 3.25
+    avg_copies: 3.09
   unknown-59:
     weight: 1.0
     avg_copies: 1.0
   unknown-65:
-    weight: 0.9643
+    weight: 0.9655
     avg_copies: 1.0
   unknown-67:
     weight: 1.0
@@ -150,8 +150,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-126:
-    weight: 0.3333
-    avg_copies: 2.86
+    weight: 0.3636
+    avg_copies: 2.88
   unknown-130:
     weight: 1.0
     avg_copies: 6.0
@@ -168,7 +168,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-144:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 1.0
   unknown-146:
     weight: 1.0
@@ -200,6 +200,12 @@ archetypes:
   unknown-193:
     weight: 1.0
     avg_copies: 2.0
+  unknown-202:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-203:
+    weight: 1.0
+    avg_copies: 1.0
   unknown-194:
     weight: 1.0
     avg_copies: 2.0

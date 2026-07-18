@@ -11,7 +11,7 @@ meta_presence: 0.0693
 archetypes:
   izzet-prowess:
     weight: 1.0
-    avg_copies: 3.97
+    avg_copies: 3.98
   izzet-artifacts:
     weight: 0.9375
     avg_copies: 3.83
@@ -19,7 +19,7 @@ archetypes:
     weight: 0.5789
     avg_copies: 4.0
   unknown-6:
-    weight: 0.125
+    weight: 0.1111
     avg_copies: 4.0
   unknown-10:
     weight: 1.0

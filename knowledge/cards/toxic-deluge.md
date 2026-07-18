@@ -7,7 +7,7 @@ name: Toxic Deluge
 scryfall_id: 5aa02b7d-db31-4924-b75e-eb02f332ca3a
 set: mh3
 type: Sorcery
-meta_presence: 0.0297
+meta_presence: 0.0299
 archetypes:
   dimir-control:
     weight: 0.4691
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.5806
     avg_copies: 1.11
   simic-ritual:
-    weight: 0.0625
+    weight: 0.0617
     avg_copies: 1.4
   jund-saga:
     weight: 0.25
@@ -31,10 +31,10 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   goryo1:
-    weight: 0.0533
+    weight: 0.0526
     avg_copies: 1.0
   goryo5:
-    weight: 0.1765
+    weight: 0.1667
     avg_copies: 1.67
   sultai-midrange:
     weight: 0.3333
@@ -46,13 +46,13 @@ archetypes:
     weight: 0.1429
     avg_copies: 1.0
   unknown-47:
-    weight: 0.679
+    weight: 0.686
     avg_copies: 1.16
   unknown-63:
     weight: 1.0
     avg_copies: 2.0
   unknown-69:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 1.0
   unknown-73:
     weight: 1.0
@@ -61,13 +61,13 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-125:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 1.0
   unknown-141:
     weight: 1.0
     avg_copies: 2.0
   unknown-144:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 2.0
   unknown-151:
     weight: 1.0

@@ -10,6 +10,6 @@ type: Legendary Planeswalker — Jace
 meta_presence: 0.0009
 archetypes:
   unknown-6:
-    weight: 0.625
+    weight: 0.5556
     avg_copies: 1.0
 ---

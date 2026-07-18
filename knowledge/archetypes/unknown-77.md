@@ -12,19 +12,19 @@ top_cards:
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Arid Mesa
+- name: Witch Enchanter
   weight: 1.0
   avg_copies: 4.0
-- name: Ocelot Pride
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Witch Enchanter
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Guide of Souls
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
 - name: Phelia, Exuberant Shepherd
@@ -36,19 +36,19 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 3.0
-- name: Shadowy Backstreet
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.0
 - name: Emperor of Bones
   weight: 1.0
   avg_copies: 2.0
-- name: Wrath of the Skies
+- name: Plains
+  weight: 1.0
+  avg_copies: 2.0
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 2.0
 - name: High Noon
-  weight: 1.0
-  avg_copies: 2.0
-- name: Plains
   weight: 1.0
   avg_copies: 2.0
 - name: Thoughtseize
@@ -57,10 +57,10 @@ top_cards:
 - name: Flickerwisp
   weight: 1.0
   avg_copies: 1.5
-- name: Swamp
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.5
-- name: Bloodstained Mire
+- name: Swamp
   weight: 1.0
   avg_copies: 1.5
 - name: Boggart Trawler
@@ -81,16 +81,16 @@ top_cards:
 - name: Damping Sphere
   weight: 0.5
   avg_copies: 3.0
-- name: Dauthi Voidwalker
-  weight: 0.5
-  avg_copies: 2.0
 - name: Orcish Bowmasters
   weight: 0.5
   avg_copies: 2.0
 - name: Relic of Progenitus
   weight: 0.5
   avg_copies: 2.0
-- name: Clarion Conqueror
+- name: Dauthi Voidwalker
+  weight: 0.5
+  avg_copies: 2.0
+- name: Decorum Dissertation
   weight: 0.5
   avg_copies: 2.0
 - name: Boromir, Warden of the Tower
@@ -99,7 +99,7 @@ top_cards:
 - name: Ephemerate
   weight: 0.5
   avg_copies: 2.0
-- name: Decorum Dissertation
+- name: Clarion Conqueror
   weight: 0.5
   avg_copies: 2.0
 - name: Prismatic Ending
@@ -108,16 +108,16 @@ top_cards:
 - name: Sacred Foundry
   weight: 0.5
   avg_copies: 1.0
-- name: Static Prison
-  weight: 0.5
-  avg_copies: 1.0
-- name: Erode
+- name: Ashiok, Dream Render
   weight: 0.5
   avg_copies: 1.0
 - name: Chthonian Nightmare
   weight: 0.5
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Static Prison
+  weight: 0.5
+  avg_copies: 1.0
+- name: Erode
   weight: 0.5
   avg_copies: 1.0
 ---

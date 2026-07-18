@@ -6,23 +6,23 @@ name: Damping Sphere
 scryfall_id: 550860b4-887d-423a-8add-816c2a8da615
 set: dmr
 type: Artifact
-meta_presence: 0.2807
+meta_presence: 0.2799
 archetypes:
   boros-energy:
-    weight: 0.3
+    weight: 0.3024
     avg_copies: 1.38
   dimir-control:
     weight: 0.1728
     avg_copies: 1.14
   jeskai-energy:
-    weight: 0.4122
+    weight: 0.4091
     avg_copies: 1.44
   eldrazi-tron:
-    weight: 0.011
+    weight: 0.0109
     avg_copies: 1.0
   goryo:
-    weight: 0.135
-    avg_copies: 1.73
+    weight: 0.1357
+    avg_copies: 1.74
   hardened-scales:
     weight: 1.0
     avg_copies: 3.0
@@ -30,7 +30,7 @@ archetypes:
     weight: 0.7442
     avg_copies: 2.03
   azorius-control:
-    weight: 0.0127
+    weight: 0.0125
     avg_copies: 1.0
   living-end:
     weight: 0.5538
@@ -39,11 +39,11 @@ archetypes:
     weight: 0.1556
     avg_copies: 1.71
   affinity:
-    weight: 0.9525
+    weight: 0.953
     avg_copies: 2.18
   domain-zoo:
-    weight: 0.6083
-    avg_copies: 1.63
+    weight: 0.592
+    avg_copies: 1.64
   mill:
     weight: 0.0645
     avg_copies: 1.5
@@ -51,13 +51,13 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.94
   burn:
-    weight: 0.1429
+    weight: 0.1389
     avg_copies: 2.0
   mardu-blink:
     weight: 0.8333
     avg_copies: 1.85
   hammer-time:
-    weight: 0.3333
+    weight: 0.3077
     avg_copies: 2.0
   hollow-one:
     weight: 0.8788
@@ -69,25 +69,25 @@ archetypes:
     weight: 0.1463
     avg_copies: 1.08
   eldrazi-ramp:
-    weight: 0.0254
+    weight: 0.025
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.1625
-    avg_copies: 1.92
+    weight: 0.1728
+    avg_copies: 1.93
   4c-omnath:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.5253
-    avg_copies: 2.29
+    weight: 0.53
+    avg_copies: 2.3
   samwise-combo:
     weight: 0.0333
     avg_copies: 1.5
   broodscale-combo:
-    weight: 0.4351
+    weight: 0.4315
     avg_copies: 1.67
   orzhov-blink:
-    weight: 0.6667
+    weight: 0.6
     avg_copies: 2.17
   dredge:
     weight: 0.04
@@ -132,20 +132,23 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.7867
+    weight: 0.7763
     avg_copies: 1.8
   goryo4:
     weight: 0.45
     avg_copies: 2.33
   goryo5:
-    weight: 0.5294
-    avg_copies: 2.11
+    weight: 0.5556
+    avg_copies: 2.1
   goryo7:
     weight: 1.0
     avg_copies: 2.0
   goryo2:
-    weight: 0.75
+    weight: 0.6364
     avg_copies: 2.0
+  grixis-control:
+    weight: 0.1429
+    avg_copies: 3.0
   devoted-combo:
     weight: 1.0
     avg_copies: 3.0
@@ -204,13 +207,13 @@ archetypes:
     weight: 0.375
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0741
-    avg_copies: 2.0
+    weight: 0.0814
+    avg_copies: 1.86
   unknown-49:
     weight: 1.0
     avg_copies: 4.0
   unknown-61:
-    weight: 0.0357
+    weight: 0.0625
     avg_copies: 2.0
   unknown-54:
     weight: 1.0
@@ -222,7 +225,7 @@ archetypes:
     weight: 0.1143
     avg_copies: 1.75
   unknown-69:
-    weight: 0.2
+    weight: 0.3333
     avg_copies: 2.0
   unknown-72:
     weight: 1.0
@@ -285,8 +288,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-126:
-    weight: 0.8095
-    avg_copies: 1.18
+    weight: 0.8182
+    avg_copies: 1.22
   unknown-130:
     weight: 1.0
     avg_copies: 2.0
@@ -306,13 +309,16 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-144:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 1.0
   unknown-152:
     weight: 1.0
     avg_copies: 1.0
   unknown-154:
     weight: 1.0
+    avg_copies: 2.0
+  unknown-160:
+    weight: 0.0156
     avg_copies: 2.0
   unknown-162:
     weight: 1.0

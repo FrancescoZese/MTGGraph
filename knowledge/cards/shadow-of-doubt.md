@@ -8,22 +8,22 @@ name: Shadow of Doubt
 scryfall_id: 7dbd0e3c-b26d-4080-b7cf-1c64fce09668
 set: rav
 type: Instant
-meta_presence: 0.0053
+meta_presence: 0.0052
 archetypes:
   dimir-control:
     weight: 0.0123
     avg_copies: 3.0
   mono-blue-belcher:
-    weight: 0.0128
+    weight: 0.0125
     avg_copies: 1.0
   necrodominance:
     weight: 0.4419
     avg_copies: 3.47
   goryo5:
-    weight: 0.1765
+    weight: 0.1667
     avg_copies: 2.0
   unknown-69:
-    weight: 0.6
+    weight: 0.5
     avg_copies: 1.33
   unknown-146:
     weight: 1.0

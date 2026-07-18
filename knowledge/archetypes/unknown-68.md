@@ -4,7 +4,7 @@ colors:
 - B
 - R
 name: 'Unknown #68'
-meta_share: 0.0064
+meta_share: 0.0063
 list_count: 35
 top_cards:
 - name: Guide of Souls
@@ -40,10 +40,10 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.03
-- name: Blood Crypt
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Bloodstained Mire
@@ -154,43 +154,43 @@ top_cards:
 - name: Damping Sphere
   weight: 0.1143
   avg_copies: 1.75
+- name: Ghost Vacuum
+  weight: 0.1143
+  avg_copies: 1.0
 - name: Meltdown
   weight: 0.1143
   avg_copies: 1.0
 - name: Haliya, Guided by Light
   weight: 0.1143
   avg_copies: 1.0
-- name: Ghost Vacuum
-  weight: 0.1143
-  avg_copies: 1.0
 - name: Deafening Silence
   weight: 0.0857
   avg_copies: 1.67
-- name: Blood Moon
+- name: Witch Enchanter
   weight: 0.0571
   avg_copies: 2.0
-- name: Witch Enchanter
+- name: Blood Moon
   weight: 0.0571
   avg_copies: 2.0
 - name: Solitude
   weight: 0.0571
   avg_copies: 1.67
+- name: Strategic Betrayal
+  weight: 0.0571
+  avg_copies: 1.0
 - name: Containment Priest
   weight: 0.0571
   avg_copies: 1.0
 - name: Sanctifier en-Vec
   weight: 0.0571
   avg_copies: 1.0
-- name: Strategic Betrayal
-  weight: 0.0571
-  avg_copies: 1.0
+- name: Lingering Souls
+  weight: 0.0286
+  avg_copies: 2.0
 - name: Path to Exile
   weight: 0.0286
   avg_copies: 2.0
 - name: Windswept Heath
-  weight: 0.0286
-  avg_copies: 2.0
-- name: Lingering Souls
   weight: 0.0286
   avg_copies: 2.0
 - name: Faerie Macabre

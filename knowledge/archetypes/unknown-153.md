@@ -12,13 +12,13 @@ top_cards:
 - name: Primeval Titan
   weight: 1.0
   avg_copies: 4.0
-- name: Arboreal Grazer
-  weight: 1.0
-  avg_copies: 4.0
 - name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
 - name: Green Sun's Zenith
+  weight: 1.0
+  avg_copies: 4.0
+- name: Arboreal Grazer
   weight: 1.0
   avg_copies: 4.0
 - name: Spelunking
@@ -27,10 +27,10 @@ top_cards:
 - name: Forest
   weight: 1.0
   avg_copies: 3.25
-- name: card:nykthos-shrine-to-nyx
+- name: Summoner's Pact
   weight: 1.0
   avg_copies: 3.0
-- name: Summoner's Pact
+- name: card:nykthos-shrine-to-nyx
   weight: 1.0
   avg_copies: 3.0
 - name: Simic Growth Chamber
@@ -39,13 +39,13 @@ top_cards:
 - name: Force of Vigor
   weight: 1.0
   avg_copies: 2.5
-- name: Dryad of the Ilysian Grove
-  weight: 1.0
-  avg_copies: 2.25
 - name: card:castle-garenbrig
   weight: 1.0
   avg_copies: 2.25
 - name: Endurance
+  weight: 1.0
+  avg_copies: 2.25
+- name: Dryad of the Ilysian Grove
   weight: 1.0
   avg_copies: 2.25
 - name: Crumbling Vestige
@@ -57,19 +57,19 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.75
-- name: Dryad Arbor
+- name: Vesuva
   weight: 1.0
   avg_copies: 1.0
 - name: Formidable Speaker
   weight: 1.0
   avg_copies: 1.0
-- name: Vesuva
-  weight: 1.0
-  avg_copies: 1.0
-- name: Hanweir Battlements
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
 - name: Otawara, Soaring City
+  weight: 1.0
+  avg_copies: 1.0
+- name: Hanweir Battlements
   weight: 1.0
   avg_copies: 1.0
 - name: Tolaria West
@@ -87,25 +87,28 @@ top_cards:
 - name: Stock Up
   weight: 0.5
   avg_copies: 3.0
-- name: Sunken Citadel
+- name: Prismatic Ending
   weight: 0.5
   avg_copies: 3.0
-- name: Prismatic Ending
+- name: Sunken Citadel
   weight: 0.5
   avg_copies: 3.0
 - name: Rest in Peace
   weight: 0.5
   avg_copies: 2.0
-- name: High Noon
-  weight: 0.5
-  avg_copies: 2.0
 - name: Vexing Bauble
   weight: 0.5
   avg_copies: 2.0
-- name: Temple Garden
+- name: High Noon
+  weight: 0.5
+  avg_copies: 2.0
+- name: Lush Portico
   weight: 0.5
   avg_copies: 1.0
-- name: Lush Portico
+- name: Bojuka Bog
+  weight: 0.5
+  avg_copies: 1.0
+- name: Insidious Fungus
   weight: 0.5
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
@@ -114,10 +117,7 @@ top_cards:
 - name: Collector Ouphe
   weight: 0.5
   avg_copies: 1.0
-- name: Bojuka Bog
-  weight: 0.5
-  avg_copies: 1.0
-- name: Insidious Fungus
+- name: Temple Garden
   weight: 0.5
   avg_copies: 1.0
 - name: Urza's Saga

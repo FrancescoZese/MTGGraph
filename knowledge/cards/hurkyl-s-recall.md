@@ -7,13 +7,13 @@ name: Hurkyl's Recall
 scryfall_id: 73edeaaa-6a87-4cf1-b013-bab9a7bb94d9
 set: mm2
 type: Instant
-meta_presence: 0.035
+meta_presence: 0.0349
 archetypes:
   dimir-control:
     weight: 0.0123
     avg_copies: 2.0
   mono-blue-belcher:
-    weight: 0.3974
+    weight: 0.3875
     avg_copies: 1.68
   amulet-titan:
     weight: 0.0067
@@ -22,11 +22,14 @@ archetypes:
     weight: 0.0233
     avg_copies: 2.0
   azorius-control:
-    weight: 0.0127
+    weight: 0.0125
     avg_copies: 1.0
   affinity:
-    weight: 0.2417
+    weight: 0.2434
     avg_copies: 1.1
+  domain-zoo:
+    weight: 0.008
+    avg_copies: 2.0
   mill:
     weight: 0.0323
     avg_copies: 2.0
@@ -34,10 +37,10 @@ archetypes:
     weight: 0.45
     avg_copies: 1.67
   simic-ritual:
-    weight: 0.0125
+    weight: 0.0123
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0073
+    weight: 0.0071
     avg_copies: 2.0
   azorius-blink:
     weight: 0.0164
@@ -46,13 +49,13 @@ archetypes:
     weight: 0.0833
     avg_copies: 1.0
   goryo1:
-    weight: 0.0067
+    weight: 0.0066
     avg_copies: 1.0
   goryo7:
     weight: 1.0
     avg_copies: 1.0
   unknown-6:
-    weight: 0.125
+    weight: 0.1111
     avg_copies: 2.0
   unknown-10:
     weight: 0.5
@@ -61,7 +64,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 3.0
   unknown-42:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 2.0
   unknown-53:
     weight: 1.0
@@ -82,7 +85,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-122:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 1.0
   unknown-150:
     weight: 0.6667

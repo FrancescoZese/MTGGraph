@@ -10,7 +10,7 @@ type: Artifact — Vehicle
 meta_presence: 0.0027
 archetypes:
   simic-ritual:
-    weight: 0.0125
+    weight: 0.0123
     avg_copies: 4.0
   soultrader-combo:
     weight: 0.3333

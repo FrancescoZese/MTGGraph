@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0056
 archetypes:
   azorius-control:
-    weight: 0.1139
+    weight: 0.1125
     avg_copies: 2.0
   living-end:
     weight: 0.0154
@@ -19,7 +19,7 @@ archetypes:
     weight: 0.0444
     avg_copies: 2.0
   neoform-combo:
-    weight: 0.0154
+    weight: 0.0152
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.0714
@@ -34,7 +34,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-67:
-    weight: 0.0152
+    weight: 0.0143
     avg_copies: 1.0
   unknown-104:
     weight: 1.0

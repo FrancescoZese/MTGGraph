@@ -9,8 +9,8 @@ type: Unknown
 meta_presence: 0.0253
 archetypes:
   goryo:
-    weight: 0.4088
-    avg_copies: 1.42
+    weight: 0.4036
+    avg_copies: 1.41
   living-end:
     weight: 0.2769
     avg_copies: 1.0
@@ -21,7 +21,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0404
+    weight: 0.04
     avg_copies: 1.0
   unknown-120:
     weight: 0.125
@@ -29,4 +29,7 @@ archetypes:
   unknown-143:
     weight: 1.0
     avg_copies: 4.0
+  unknown-204:
+    weight: 1.0
+    avg_copies: 3.0
 ---
