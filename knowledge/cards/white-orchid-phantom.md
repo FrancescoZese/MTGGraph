@@ -7,16 +7,16 @@ name: White Orchid Phantom
 scryfall_id: e6cebc57-d7b0-4e86-bc9e-ebb1de58f932
 set: soc
 type: Creature — Spirit Knight
-meta_presence: 0.0473
+meta_presence: 0.047
 archetypes:
   boros-energy:
     weight: 0.0044
     avg_copies: 2.0
   jeskai-energy:
-    weight: 0.0076
+    weight: 0.0075
     avg_copies: 2.0
   mill:
-    weight: 0.0323
+    weight: 0.0312
     avg_copies: 4.0
   reanimator:
     weight: 0.037
@@ -28,8 +28,8 @@ archetypes:
     weight: 0.7357
     avg_copies: 3.83
   esper-blink:
-    weight: 0.47
-    avg_copies: 2.02
+    weight: 0.466
+    avg_copies: 2.0
   orzhov-blink:
     weight: 0.5
     avg_copies: 3.17
@@ -40,7 +40,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo2:
-    weight: 0.0909
+    weight: 0.1538
     avg_copies: 3.0
   unknown-3:
     weight: 1.0
@@ -74,7 +74,7 @@ archetypes:
     avg_copies: 4.0
   unknown-88:
     weight: 1.0
-    avg_copies: 3.06
+    avg_copies: 3.11
   unknown-113:
     weight: 0.5
     avg_copies: 3.0
@@ -88,7 +88,7 @@ archetypes:
     weight: 0.6
     avg_copies: 3.0
   unknown-160:
-    weight: 0.0156
+    weight: 0.0154
     avg_copies: 4.0
   unknown-175:
     weight: 1.0

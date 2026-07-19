@@ -6,25 +6,25 @@ name: Marsh Flats
 scryfall_id: 9db3ba6d-eb7f-4f5b-9a3b-c6239c3baa42
 set: mh2
 type: Land
-meta_presence: 0.2646
+meta_presence: 0.2648
 archetypes:
   boros-energy:
-    weight: 0.969
+    weight: 0.9693
     avg_copies: 3.27
   dimir-control:
     weight: 0.3827
     avg_copies: 1.52
   jeskai-energy:
-    weight: 0.053
+    weight: 0.0526
     avg_copies: 1.0
   goryo:
-    weight: 0.9964
-    avg_copies: 3.37
+    weight: 0.9965
+    avg_copies: 3.36
   necrodominance:
     weight: 0.2093
     avg_copies: 1.11
   azorius-control:
-    weight: 0.2625
+    weight: 0.2593
     avg_copies: 1.81
   domain-zoo:
     weight: 0.016
@@ -39,14 +39,14 @@ archetypes:
     weight: 0.5385
     avg_copies: 2.86
   hollow-one:
-    weight: 0.2121
-    avg_copies: 1.71
+    weight: 0.2353
+    avg_copies: 1.62
   simic-ritual:
     weight: 0.0123
     avg_copies: 4.0
   esper-blink:
     weight: 1.0
-    avg_copies: 3.79
+    avg_copies: 3.8
   orzhov-blink:
     weight: 1.0
     avg_copies: 4.0
@@ -66,14 +66,14 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   goryo1:
-    weight: 0.0132
+    weight: 0.013
     avg_copies: 1.0
   goryo5:
-    weight: 0.6667
-    avg_copies: 2.42
+    weight: 0.619
+    avg_copies: 2.46
   goryo2:
     weight: 1.0
-    avg_copies: 3.18
+    avg_copies: 3.23
   soultrader-combo:
     weight: 0.5
     avg_copies: 2.67
@@ -105,8 +105,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.8953
-    avg_copies: 1.75
+    weight: 0.8889
+    avg_copies: 1.76
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
@@ -124,10 +124,10 @@ archetypes:
     avg_copies: 1.0
   unknown-68:
     weight: 1.0
-    avg_copies: 3.8
+    avg_copies: 3.74
   unknown-69:
-    weight: 0.8333
-    avg_copies: 1.2
+    weight: 0.8571
+    avg_copies: 1.17
   unknown-70:
     weight: 0.0588
     avg_copies: 1.0
@@ -147,7 +147,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-88:
-    weight: 0.0667
+    weight: 0.0625
     avg_copies: 2.0
   unknown-87:
     weight: 1.0

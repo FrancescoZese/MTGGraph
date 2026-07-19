@@ -6,52 +6,52 @@ name: Chalice of the Void
 scryfall_id: 1f0d2e8e-c8f2-4b31-a6ba-6283fc8740d4
 set: a25
 type: Artifact
-meta_presence: 0.0563
+meta_presence: 0.0576
 archetypes:
   eldrazi-tron:
-    weight: 0.5906
-    avg_copies: 1.72
+    weight: 0.5993
+    avg_copies: 1.73
   goryo:
-    weight: 0.0036
+    weight: 0.0035
     avg_copies: 1.0
   necrodominance:
     weight: 0.1395
     avg_copies: 2.0
   azorius-control:
-    weight: 0.1375
+    weight: 0.1358
     avg_copies: 1.73
   mill:
-    weight: 0.0645
+    weight: 0.0625
     avg_copies: 3.0
   mono-blue-tron:
-    weight: 0.1
+    weight: 0.0952
     avg_copies: 2.0
   boros-ponza:
     weight: 0.0071
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.061
+    weight: 0.0588
     avg_copies: 2.4
   eldrazi-ramp:
-    weight: 0.2083
+    weight: 0.2066
     avg_copies: 1.27
   simic-ritual:
     weight: 0.0864
     avg_copies: 2.0
   esper-blink:
-    weight: 0.04
+    weight: 0.0388
     avg_copies: 1.0
   naya-midrange:
     weight: 1.0
     avg_copies: 1.0
   goryo4:
-    weight: 0.85
-    avg_copies: 2.64
+    weight: 0.8571
+    avg_copies: 2.69
   goryo5:
-    weight: 0.4444
+    weight: 0.381
     avg_copies: 1.75
   sultai-midrange:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 2.0
   unknown-27:
     weight: 0.3333
@@ -63,16 +63,16 @@ archetypes:
     weight: 0.8182
     avg_copies: 2.89
   unknown-47:
-    weight: 0.2674
+    weight: 0.2889
     avg_copies: 1.96
   unknown-61:
-    weight: 0.0625
-    avg_copies: 3.33
+    weight: 0.1176
+    avg_copies: 3.2
   unknown-55:
     weight: 1.0
     avg_copies: 4.0
   unknown-69:
-    weight: 0.6667
+    weight: 0.5714
     avg_copies: 1.5
   unknown-75:
     weight: 1.0
@@ -81,7 +81,7 @@ archetypes:
     weight: 0.0667
     avg_copies: 1.0
   unknown-97:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 1.0
   unknown-103:
     weight: 1.0
@@ -90,7 +90,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-122:
-    weight: 0.125
+    weight: 0.12
     avg_copies: 2.0
   unknown-139:
     weight: 0.2
@@ -110,4 +110,7 @@ archetypes:
   unknown-182:
     weight: 1.0
     avg_copies: 2.0
+  unknown-205:
+    weight: 1.0
+    avg_copies: 3.0
 ---

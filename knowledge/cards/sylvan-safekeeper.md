@@ -10,16 +10,16 @@ type: Creature — Human Wizard
 meta_presence: 0.01
 archetypes:
   yawgmoth-combo:
-    weight: 0.0122
+    weight: 0.0118
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.6
+    weight: 0.5968
     avg_copies: 1.0
   elves:
     weight: 1.0
     avg_copies: 1.0
   unknown-126:
-    weight: 0.6818
+    weight: 0.6522
     avg_copies: 1.0
   unknown-173:
     weight: 1.0

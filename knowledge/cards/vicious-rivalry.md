@@ -11,12 +11,12 @@ type: Sorcery
 meta_presence: 0.0007
 archetypes:
   yawgmoth-combo:
-    weight: 0.0122
+    weight: 0.0118
     avg_copies: 1.0
   the-rock:
     weight: 0.5
     avg_copies: 2.0
   goryo5:
-    weight: 0.1111
+    weight: 0.0952
     avg_copies: 1.0
 ---

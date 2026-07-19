@@ -9,16 +9,16 @@ type: Land
 meta_presence: 0.0079
 archetypes:
   mill:
-    weight: 0.0645
+    weight: 0.0625
     avg_copies: 1.5
   broodscale-combo:
-    weight: 0.0747
+    weight: 0.0729
     avg_copies: 3.67
   scapeshift-combo:
     weight: 0.5
     avg_copies: 4.0
   goryo4:
-    weight: 0.05
+    weight: 0.0476
     avg_copies: 2.0
   unknown-24:
     weight: 1.0

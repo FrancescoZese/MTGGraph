@@ -7,7 +7,7 @@ name: Ruinous Waterbending
 scryfall_id: 53161747-c82b-41e8-90ea-7791ea262a85
 set: tla
 type: Sorcery — Lesson
-meta_presence: 0.0072
+meta_presence: 0.007
 archetypes:
   domain-zoo:
     weight: 0.008
@@ -16,7 +16,7 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.15
+    weight: 0.1452
     avg_copies: 1.0
   rakdos-aggro:
     weight: 0.0526

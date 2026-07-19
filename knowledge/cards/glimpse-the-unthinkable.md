@@ -8,9 +8,9 @@ name: Glimpse the Unthinkable
 scryfall_id: c54a2256-673d-4d93-9e1d-7790bf254881
 set: 2x2
 type: Sorcery
-meta_presence: 0.0022
+meta_presence: 0.0023
 archetypes:
   mill:
-    weight: 0.3871
+    weight: 0.4062
     avg_copies: 2.0
 ---

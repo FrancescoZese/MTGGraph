@@ -9,10 +9,10 @@ top_cards:
 - name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Fatal Push
@@ -117,16 +117,16 @@ top_cards:
 - name: Polluted Delta
   weight: 0.2
   avg_copies: 1.5
-- name: Sacred Foundry
+- name: Elesh Norn, Mother of Machines
+  weight: 0.2
+  avg_copies: 1.0
+- name: Erode
   weight: 0.2
   avg_copies: 1.0
 - name: March of Otherworldly Light
   weight: 0.2
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
-  weight: 0.2
-  avg_copies: 1.0
-- name: Erode
+- name: Sacred Foundry
   weight: 0.2
   avg_copies: 1.0
 - name: Orim's Chant
@@ -144,10 +144,10 @@ top_cards:
 - name: Bloodstained Mire
   weight: 0.1
   avg_copies: 2.0
-- name: Duress
+- name: Windswept Heath
   weight: 0.1
   avg_copies: 2.0
-- name: Windswept Heath
+- name: Duress
   weight: 0.1
   avg_copies: 2.0
 - name: Troll of Khazad-dûm
@@ -156,25 +156,25 @@ top_cards:
 - name: End of the Hunt
   weight: 0.1
   avg_copies: 2.0
-- name: Aven Interrupter
-  weight: 0.1
-  avg_copies: 1.0
-- name: card:cloak-and-dagger-entwined
-  weight: 0.1
-  avg_copies: 1.0
-- name: Raucous Theater
-  weight: 0.1
-  avg_copies: 1.0
 - name: Vindicate
   weight: 0.1
   avg_copies: 1.0
-- name: Emptiness
+- name: Aven Interrupter
   weight: 0.1
   avg_copies: 1.0
 - name: Eiganjo, Seat of the Empire
   weight: 0.1
   avg_copies: 1.0
+- name: card:cloak-and-dagger-entwined
+  weight: 0.1
+  avg_copies: 1.0
+- name: Emptiness
+  weight: 0.1
+  avg_copies: 1.0
 - name: Monumental Henge
+  weight: 0.1
+  avg_copies: 1.0
+- name: Raucous Theater
   weight: 0.1
   avg_copies: 1.0
 ---

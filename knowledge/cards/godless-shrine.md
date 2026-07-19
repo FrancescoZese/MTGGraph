@@ -6,10 +6,10 @@ name: Godless Shrine
 scryfall_id: 8c542ea4-98c3-4c2d-9066-205ab7aa697a
 set: eoe
 type: Land — Plains Swamp
-meta_presence: 0.1244
+meta_presence: 0.1251
 archetypes:
   goryo:
-    weight: 0.9929
+    weight: 0.993
     avg_copies: 1.0
   domain-zoo:
     weight: 0.808
@@ -22,7 +22,7 @@ archetypes:
     avg_copies: 1.08
   esper-blink:
     weight: 1.0
-    avg_copies: 1.67
+    avg_copies: 1.66
   samwise-combo:
     weight: 1.0
     avg_copies: 1.0
@@ -37,7 +37,7 @@ archetypes:
     avg_copies: 1.0
   goryo2:
     weight: 1.0
-    avg_copies: 1.73
+    avg_copies: 1.77
   devoted-combo:
     weight: 1.0
     avg_copies: 1.0
@@ -55,7 +55,7 @@ archetypes:
     avg_copies: 1.0
   unknown-68:
     weight: 1.0
-    avg_copies: 1.03
+    avg_copies: 1.05
   unknown-74:
     weight: 1.0
     avg_copies: 2.0
@@ -84,7 +84,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-126:
-    weight: 0.9091
+    weight: 0.8696
     avg_copies: 1.0
   unknown-127:
     weight: 1.0

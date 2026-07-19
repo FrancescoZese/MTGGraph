@@ -7,9 +7,9 @@ name: Lotus Cobra
 scryfall_id: a4b759f0-901f-4be3-93fa-224609b08d48
 set: znr
 type: Creature — Snake
-meta_presence: 0.0007
+meta_presence: 0.0009
 archetypes:
   mono-green-ramp:
-    weight: 0.6667
-    avg_copies: 3.0
+    weight: 0.7143
+    avg_copies: 2.6
 ---

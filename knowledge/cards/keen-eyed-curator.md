@@ -7,13 +7,13 @@ name: Keen-Eyed Curator
 scryfall_id: 8cf33d80-0704-4dc4-8e8d-1dcbcbc35add
 set: blb
 type: Creature — Raccoon Scout
-meta_presence: 0.0088
+meta_presence: 0.0086
 archetypes:
   amulet-titan:
-    weight: 0.08
+    weight: 0.0789
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.1
+    weight: 0.0992
     avg_copies: 1.0
   simic-ritual:
     weight: 0.0123
@@ -25,10 +25,10 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   unknown-61:
-    weight: 0.0625
+    weight: 0.0588
     avg_copies: 1.0
   unknown-126:
-    weight: 0.7727
+    weight: 0.7391
     avg_copies: 1.0
   unknown-202:
     weight: 1.0

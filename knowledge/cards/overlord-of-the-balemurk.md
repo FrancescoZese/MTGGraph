@@ -10,7 +10,7 @@ type: Enchantment Creature — Avatar Horror
 meta_presence: 0.0416
 archetypes:
   living-end:
-    weight: 0.7846
+    weight: 0.7879
     avg_copies: 4.0
   domain-zoo:
     weight: 0.016
@@ -22,7 +22,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   hollow-one:
-    weight: 0.0303
+    weight: 0.0294
     avg_copies: 1.0
   simic-ritual:
     weight: 0.0123
@@ -55,7 +55,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   unknown-67:
-    weight: 0.0143
+    weight: 0.0139
     avg_copies: 4.0
   unknown-72:
     weight: 1.0

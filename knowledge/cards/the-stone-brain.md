@@ -6,19 +6,19 @@ name: The Stone Brain
 scryfall_id: 3570ebf2-a94c-4621-8808-b06e6e830c06
 set: bro
 type: Legendary Artifact
-meta_presence: 0.045
+meta_presence: 0.0447
 archetypes:
   eldrazi-tron:
-    weight: 0.7138
-    avg_copies: 1.08
+    weight: 0.7092
+    avg_copies: 1.07
   affinity:
-    weight: 0.0389
+    weight: 0.0387
     avg_copies: 1.0
   boros-ponza:
     weight: 0.0357
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.125
+    weight: 0.124
     avg_copies: 1.07
   unknown-37:
     weight: 1.0
@@ -27,7 +27,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.1719
+    weight: 0.1692
     avg_copies: 1.0
   unknown-162:
     weight: 0.6667

@@ -6,10 +6,10 @@ name: Urza's Mine
 scryfall_id: 396bbb7d-ae61-4d8d-b931-9ed2f712832e
 set: cmm
 type: Land — Urza's Mine
-meta_presence: 0.0536
+meta_presence: 0.0539
 archetypes:
   eldrazi-tron:
-    weight: 0.9964
+    weight: 0.9965
     avg_copies: 3.89
   mono-blue-tron:
     weight: 1.0

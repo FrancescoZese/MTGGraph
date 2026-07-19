@@ -6,16 +6,16 @@ name: Forest
 scryfall_id: f169dfb2-e4c8-46e9-8591-e51bb82da082
 set: sos
 type: Basic Land — Forest
-meta_presence: 0.1955
+meta_presence: 0.1968
 archetypes:
   eldrazi-tron:
-    weight: 0.1268
+    weight: 0.1241
     avg_copies: 1.22
   amulet-titan:
     weight: 1.0
-    avg_copies: 2.87
+    avg_copies: 2.86
   goryo:
-    weight: 0.0071
+    weight: 0.007
     avg_copies: 1.5
   hardened-scales:
     weight: 1.0
@@ -27,14 +27,14 @@ archetypes:
     weight: 0.008
     avg_copies: 2.0
   neoform-combo:
-    weight: 0.2121
-    avg_copies: 1.36
+    weight: 0.2319
+    avg_copies: 1.44
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 1.77
+    avg_copies: 1.78
   eldrazi-ramp:
     weight: 1.0
-    avg_copies: 2.77
+    avg_copies: 2.79
   simic-ritual:
     weight: 0.0123
     avg_copies: 2.0
@@ -46,7 +46,7 @@ archetypes:
     avg_copies: 1.05
   broodscale-combo:
     weight: 1.0
-    avg_copies: 3.1
+    avg_copies: 3.09
   elves:
     weight: 1.0
     avg_copies: 3.0
@@ -55,7 +55,7 @@ archetypes:
     avg_copies: 1.0
   mono-green-ramp:
     weight: 1.0
-    avg_copies: 2.33
+    avg_copies: 2.29
   mono-green-stompy:
     weight: 1.0
     avg_copies: 6.0
@@ -69,10 +69,10 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo4:
-    weight: 0.95
+    weight: 0.9524
     avg_copies: 1.05
   sultai-midrange:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 1.0
   devoted-combo:
     weight: 1.0
@@ -109,7 +109,7 @@ archetypes:
     avg_copies: 1.0
   unknown-61:
     weight: 1.0
-    avg_copies: 3.09
+    avg_copies: 3.12
   unknown-59:
     weight: 1.0
     avg_copies: 1.0
@@ -133,7 +133,7 @@ archetypes:
     avg_copies: 1.0
   unknown-88:
     weight: 1.0
-    avg_copies: 1.07
+    avg_copies: 1.06
   unknown-93:
     weight: 1.0
     avg_copies: 1.0
@@ -142,7 +142,7 @@ archetypes:
     avg_copies: 1.0
   unknown-97:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 3.09
   unknown-102:
     weight: 1.0
     avg_copies: 1.5
@@ -150,8 +150,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-126:
-    weight: 0.3636
-    avg_copies: 2.88
+    weight: 0.3913
+    avg_copies: 2.89
   unknown-130:
     weight: 1.0
     avg_copies: 6.0

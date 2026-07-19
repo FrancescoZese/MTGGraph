@@ -9,10 +9,10 @@ type: Artifact Creature — Phyrexian Wurm
 meta_presence: 0.0009
 archetypes:
   eldrazi-tron:
-    weight: 0.0036
+    weight: 0.0035
     avg_copies: 1.0
   mono-blue-tron:
-    weight: 0.1
+    weight: 0.0952
     avg_copies: 1.0
   unknown-48:
     weight: 0.5

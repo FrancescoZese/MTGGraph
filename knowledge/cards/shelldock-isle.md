@@ -9,6 +9,6 @@ type: Land
 meta_presence: 0.0048
 archetypes:
   mill:
-    weight: 0.871
+    weight: 0.8438
     avg_copies: 1.0
 ---

@@ -6,13 +6,13 @@ name: The Mycosynth Gardens
 scryfall_id: 0a6f0408-6758-495f-9d6c-7686a1542fbd
 set: eoc
 type: Land — Sphere
-meta_presence: 0.014
+meta_presence: 0.0141
 archetypes:
   amulet-titan:
-    weight: 0.4667
-    avg_copies: 1.74
+    weight: 0.4737
+    avg_copies: 1.78
   broodscale-combo:
-    weight: 0.0083
+    weight: 0.0081
     avg_copies: 1.0
   rakdos-lantern-combo:
     weight: 1.0

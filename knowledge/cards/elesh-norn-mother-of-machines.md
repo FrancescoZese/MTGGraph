@@ -13,13 +13,13 @@ archetypes:
     weight: 0.0123
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.1136
+    weight: 0.1128
     avg_copies: 1.0
   goryo:
-    weight: 0.0464
+    weight: 0.0455
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0125
+    weight: 0.0123
     avg_copies: 1.0
   mardu-blink:
     weight: 0.0833
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   esper-blink:
-    weight: 0.2
+    weight: 0.1942
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.0714
@@ -61,7 +61,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-88:
-    weight: 0.0667
+    weight: 0.125
     avg_copies: 1.0
   unknown-93:
     weight: 0.25

@@ -6,16 +6,16 @@ name: Overgrown Tomb
 scryfall_id: 45b92924-baa1-4c9b-9932-9a5eda8f3446
 set: ecl
 type: Land — Swamp Forest
-meta_presence: 0.0801
+meta_presence: 0.0809
 archetypes:
   goryo:
-    weight: 0.2929
+    weight: 0.2902
     avg_copies: 1.02
   necrodominance:
     weight: 0.0233
     avg_copies: 2.0
   living-end:
-    weight: 0.7846
+    weight: 0.7879
     avg_copies: 1.1
   domain-zoo:
     weight: 0.016
@@ -25,24 +25,24 @@ archetypes:
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 2.38
+    avg_copies: 2.4
   eldrazi-ramp:
-    weight: 0.0167
+    weight: 0.0165
     avg_copies: 1.0
   simic-ritual:
     weight: 0.1235
     avg_copies: 1.1
   samwise-combo:
     weight: 1.0
-    avg_copies: 1.83
+    avg_copies: 1.84
   broodscale-combo:
-    weight: 0.0124
+    weight: 0.0121
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
     avg_copies: 1.25
   mono-green-ramp:
-    weight: 0.6667
+    weight: 0.5714
     avg_copies: 1.75
   mono-green-stompy:
     weight: 1.0
@@ -63,7 +63,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-1:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 2.0
   unknown-14:
     weight: 1.0
@@ -90,7 +90,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   unknown-67:
-    weight: 0.0143
+    weight: 0.0139
     avg_copies: 1.0
   unknown-79:
     weight: 0.3333
@@ -102,8 +102,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-97:
-    weight: 0.9
-    avg_copies: 1.89
+    weight: 0.9091
+    avg_copies: 2.0
   unknown-100:
     weight: 0.25
     avg_copies: 1.0
@@ -118,7 +118,7 @@ archetypes:
     avg_copies: 1.0
   unknown-126:
     weight: 1.0
-    avg_copies: 1.23
+    avg_copies: 1.26
   unknown-127:
     weight: 1.0
     avg_copies: 1.0

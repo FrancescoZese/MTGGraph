@@ -7,7 +7,7 @@ name: Quantum Riddler
 scryfall_id: 120be808-ff3b-4fca-96a1-4db6b9825856
 set: eoe
 type: Creature — Sphinx
-meta_presence: 0.1613
+meta_presence: 0.1617
 archetypes:
   boros-energy:
     weight: 0.0015
@@ -16,10 +16,10 @@ archetypes:
     weight: 0.4815
     avg_copies: 2.88
   jeskai-energy:
-    weight: 0.9924
+    weight: 0.9925
     avg_copies: 3.82
   goryo:
-    weight: 0.7393
+    weight: 0.7413
     avg_copies: 3.27
   necrodominance:
     weight: 0.0233
@@ -34,7 +34,7 @@ archetypes:
     weight: 0.5556
     avg_copies: 1.53
   neoform-combo:
-    weight: 0.0152
+    weight: 0.0145
     avg_copies: 2.0
   simic-ritual:
     weight: 0.0247
@@ -43,8 +43,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.5
   esper-blink:
-    weight: 0.98
-    avg_copies: 3.6
+    weight: 0.9806
+    avg_copies: 3.61
   bant-control:
     weight: 1.0
     avg_copies: 4.0
@@ -61,11 +61,11 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.1842
-    avg_copies: 1.5
+    weight: 0.1883
+    avg_copies: 1.55
   goryo2:
     weight: 1.0
-    avg_copies: 3.82
+    avg_copies: 3.85
   goryo3:
     weight: 1.0
     avg_copies: 3.0
@@ -74,7 +74,7 @@ archetypes:
     avg_copies: 2.0
   sultai-midrange:
     weight: 1.0
-    avg_copies: 2.67
+    avg_copies: 2.75
   unknown-3:
     weight: 1.0
     avg_copies: 4.0
@@ -103,8 +103,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9884
-    avg_copies: 3.12
+    weight: 0.9889
+    avg_copies: 3.09
   unknown-62:
     weight: 1.0
     avg_copies: 3.66
@@ -115,7 +115,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-67:
-    weight: 0.0714
+    weight: 0.0694
     avg_copies: 1.12
   unknown-70:
     weight: 1.0
@@ -139,7 +139,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.33
   unknown-88:
-    weight: 0.0667
+    weight: 0.0625
     avg_copies: 2.0
   unknown-87:
     weight: 1.0
@@ -189,6 +189,9 @@ archetypes:
   unknown-156:
     weight: 1.0
     avg_copies: 2.67
+  unknown-167:
+    weight: 0.2
+    avg_copies: 1.0
   unknown-175:
     weight: 1.0
     avg_copies: 4.0

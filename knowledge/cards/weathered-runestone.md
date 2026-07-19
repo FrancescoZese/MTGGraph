@@ -6,9 +6,12 @@ name: Weathered Runestone
 scryfall_id: 0fc2478f-e624-46fb-85af-1254564cd4d2
 set: khm
 type: Artifact
-meta_presence: 0.0004
+meta_presence: 0.0005
 archetypes:
   eldrazi-tron:
-    weight: 0.0072
+    weight: 0.0071
     avg_copies: 1.0
+  goryo4:
+    weight: 0.0476
+    avg_copies: 3.0
 ---

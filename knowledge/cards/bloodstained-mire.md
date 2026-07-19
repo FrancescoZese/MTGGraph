@@ -6,11 +6,11 @@ name: Bloodstained Mire
 scryfall_id: 579743fe-f71e-4cb2-8629-d6b02ed1591d
 set: mh3
 type: Land
-meta_presence: 0.1924
+meta_presence: 0.194
 archetypes:
   ruby-storm:
-    weight: 0.9703
-    avg_copies: 2.37
+    weight: 0.9712
+    avg_copies: 2.38
   boros-energy:
     weight: 0.0088
     avg_copies: 2.5
@@ -27,19 +27,19 @@ archetypes:
     weight: 0.8889
     avg_copies: 3.62
   burn:
-    weight: 0.9444
-    avg_copies: 1.68
+    weight: 0.9459
+    avg_copies: 1.66
   mardu-blink:
     weight: 0.875
     avg_copies: 1.86
   hollow-one:
     weight: 1.0
-    avg_copies: 3.55
+    avg_copies: 3.56
   simic-ritual:
     weight: 0.0123
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.9395
+    weight: 0.941
     avg_copies: 2.88
   indomitable-creativity:
     weight: 1.0
@@ -72,8 +72,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.74
   goryo5:
-    weight: 0.7778
-    avg_copies: 2.29
+    weight: 0.7619
+    avg_copies: 2.31
   soultrader-combo:
     weight: 1.0
     avg_copies: 2.83
@@ -129,8 +129,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.12
   unknown-47:
-    weight: 0.2209
-    avg_copies: 1.32
+    weight: 0.2222
+    avg_copies: 1.3
   unknown-50:
     weight: 1.0
     avg_copies: 2.0
@@ -150,11 +150,11 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-68:
-    weight: 0.9714
-    avg_copies: 2.21
+    weight: 0.9474
+    avg_copies: 2.19
   unknown-69:
-    weight: 0.8333
-    avg_copies: 1.6
+    weight: 0.8571
+    avg_copies: 1.5
   unknown-71:
     weight: 1.0
     avg_copies: 2.0
@@ -162,8 +162,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-86:
-    weight: 0.4444
-    avg_copies: 3.0
+    weight: 0.5
+    avg_copies: 3.2
   unknown-78:
     weight: 1.0
     avg_copies: 2.0
@@ -184,7 +184,7 @@ archetypes:
     avg_copies: 4.0
   unknown-101:
     weight: 1.0
-    avg_copies: 2.2
+    avg_copies: 2.0
   unknown-105:
     weight: 1.0
     avg_copies: 1.0
@@ -201,7 +201,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-122:
-    weight: 0.9583
+    weight: 0.96
     avg_copies: 2.0
   unknown-123:
     weight: 1.0

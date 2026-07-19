@@ -6,22 +6,22 @@ name: Engineered Explosives
 scryfall_id: 420bf1e9-f2ec-4dff-b540-e64de71e58be
 set: 2xm
 type: Artifact
-meta_presence: 0.1593
+meta_presence: 0.1584
 archetypes:
   dimir-control:
     weight: 0.5185
     avg_copies: 1.69
   mono-blue-belcher:
-    weight: 0.775
+    weight: 0.7778
     avg_copies: 1.94
   eldrazi-tron:
-    weight: 0.1667
+    weight: 0.1631
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.0267
+    weight: 0.0263
     avg_copies: 1.25
   goryo:
-    weight: 0.0143
+    weight: 0.014
     avg_copies: 1.0
   necrodominance:
     weight: 0.2093
@@ -30,16 +30,16 @@ archetypes:
     weight: 1.0
     avg_copies: 3.87
   mill:
-    weight: 0.2903
+    weight: 0.2812
     avg_copies: 1.22
   mono-blue-tron:
-    weight: 0.5
-    avg_copies: 2.2
+    weight: 0.5238
+    avg_copies: 2.18
   boros-ponza:
     weight: 0.1
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.1167
+    weight: 0.1157
     avg_copies: 1.0
   simic-ritual:
     weight: 0.0123
@@ -60,7 +60,7 @@ archetypes:
     weight: 0.0526
     avg_copies: 1.0
   goryo1:
-    weight: 0.0789
+    weight: 0.0779
     avg_copies: 1.08
   goryo7:
     weight: 1.0
@@ -69,13 +69,13 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   sultai-midrange:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 1.0
   unknown-6:
     weight: 0.8889
     avg_copies: 1.5
   unknown-1:
-    weight: 0.3333
+    weight: 0.4
     avg_copies: 2.0
   unknown-15:
     weight: 0.3636
@@ -111,8 +111,8 @@ archetypes:
     weight: 0.6538
     avg_copies: 2.12
   unknown-47:
-    weight: 0.8721
-    avg_copies: 2.0
+    weight: 0.8778
+    avg_copies: 1.99
   unknown-48:
     weight: 0.5
     avg_copies: 1.0
@@ -126,7 +126,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-86:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 1.0
   unknown-90:
     weight: 1.0
@@ -156,7 +156,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.1875
+    weight: 0.1846
     avg_copies: 1.0
   unknown-162:
     weight: 1.0
@@ -167,4 +167,7 @@ archetypes:
   unknown-198:
     weight: 1.0
     avg_copies: 2.0
+  unknown-205:
+    weight: 1.0
+    avg_copies: 1.0
 ---

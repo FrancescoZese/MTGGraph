@@ -6,7 +6,7 @@ name: Mishra's Bauble
 scryfall_id: 45bbbf9b-8fee-4c32-a513-02dac6ac8a39
 set: 2xm
 type: Artifact
-meta_presence: 0.1794
+meta_presence: 0.179
 archetypes:
   dimir-control:
     weight: 0.0247
@@ -18,7 +18,7 @@ archetypes:
     weight: 0.0769
     avg_copies: 4.0
   hollow-one:
-    weight: 0.7576
+    weight: 0.7353
     avg_copies: 3.84
   kethis-combo:
     weight: 1.0
@@ -27,7 +27,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.95
   broodscale-combo:
-    weight: 0.0539
+    weight: 0.0526
     avg_copies: 2.92
   izzet-artifacts:
     weight: 1.0
@@ -51,7 +51,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-1:
-    weight: 0.3333
+    weight: 0.3
     avg_copies: 4.0
   unknown-10:
     weight: 1.0
@@ -106,7 +106,7 @@ archetypes:
     avg_copies: 4.0
   unknown-86:
     weight: 1.0
-    avg_copies: 3.78
+    avg_copies: 3.8
   unknown-90:
     weight: 1.0
     avg_copies: 4.0
@@ -114,7 +114,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.25
   unknown-101:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 4.0
   unknown-105:
     weight: 1.0
@@ -124,7 +124,7 @@ archetypes:
     avg_copies: 4.0
   unknown-122:
     weight: 1.0
-    avg_copies: 3.83
+    avg_copies: 3.84
   unknown-123:
     weight: 1.0
     avg_copies: 4.0
@@ -155,4 +155,7 @@ archetypes:
   unknown-198:
     weight: 1.0
     avg_copies: 3.0
+  unknown-206:
+    weight: 1.0
+    avg_copies: 4.0
 ---

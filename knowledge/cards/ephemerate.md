@@ -13,10 +13,10 @@ archetypes:
     weight: 0.0044
     avg_copies: 1.67
   jeskai-energy:
-    weight: 0.947
+    weight: 0.9474
     avg_copies: 1.8
   goryo:
-    weight: 0.9929
+    weight: 0.993
     avg_copies: 3.85
   jeskai-control:
     weight: 0.0222
@@ -34,7 +34,7 @@ archetypes:
     weight: 0.25
     avg_copies: 3.0
   esper-blink:
-    weight: 0.99
+    weight: 0.9903
     avg_copies: 2.9
   orzhov-blink:
     weight: 0.9
@@ -46,8 +46,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.52
   goryo2:
-    weight: 0.9091
-    avg_copies: 2.3
+    weight: 0.8462
+    avg_copies: 2.36
   unknown-3:
     weight: 1.0
     avg_copies: 3.0
@@ -79,8 +79,8 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-88:
-    weight: 0.9333
-    avg_copies: 2.36
+    weight: 0.9375
+    avg_copies: 2.27
   unknown-89:
     weight: 1.0
     avg_copies: 2.0

@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.0088
 archetypes:
   hollow-one:
-    weight: 0.0909
+    weight: 0.0882
     avg_copies: 1.0
   rakdos-lantern-combo:
     weight: 1.0
@@ -21,11 +21,14 @@ archetypes:
     weight: 1.0
     avg_copies: 3.88
   goryo1:
-    weight: 0.0066
+    weight: 0.0065
     avg_copies: 1.0
   unknown-34:
     weight: 0.75
     avg_copies: 2.0
+  unknown-101:
+    weight: 0.1667
+    avg_copies: 1.0
   unknown-181:
     weight: 1.0
     avg_copies: 1.75

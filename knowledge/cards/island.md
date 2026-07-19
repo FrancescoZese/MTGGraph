@@ -6,25 +6,25 @@ name: Island
 scryfall_id: 77b88bb8-6bd9-4632-b937-89468fcb5e6a
 set: sos
 type: Basic Land — Island
-meta_presence: 0.3664
+meta_presence: 0.3663
 archetypes:
   ruby-storm:
-    weight: 0.0099
+    weight: 0.0096
     avg_copies: 1.0
   dimir-control:
     weight: 0.9877
     avg_copies: 2.48
   mono-blue-belcher:
-    weight: 0.6625
+    weight: 0.6667
     avg_copies: 1.09
   jeskai-energy:
-    weight: 0.8182
+    weight: 0.8195
     avg_copies: 1.01
   eldrazi-tron:
-    weight: 0.0036
+    weight: 0.0035
     avg_copies: 1.0
   goryo:
-    weight: 0.9929
+    weight: 0.993
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
@@ -36,23 +36,23 @@ archetypes:
     weight: 0.9333
     avg_copies: 1.64
   affinity:
-    weight: 0.9877
+    weight: 0.9857
     avg_copies: 1.49
   domain-zoo:
     weight: 0.008
     avg_copies: 1.0
   mill:
-    weight: 0.9032
-    avg_copies: 2.18
+    weight: 0.9062
+    avg_copies: 2.24
   reanimator:
     weight: 0.8519
     avg_copies: 1.04
   neoform-combo:
-    weight: 0.1818
-    avg_copies: 1.08
+    weight: 0.2029
+    avg_copies: 1.07
   mono-blue-tron:
     weight: 1.0
-    avg_copies: 3.55
+    avg_copies: 3.57
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
@@ -60,13 +60,13 @@ archetypes:
     weight: 0.0123
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.032
-    avg_copies: 1.11
+    weight: 0.0347
+    avg_copies: 1.1
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
   esper-blink:
-    weight: 0.51
+    weight: 0.5146
     avg_copies: 1.02
   bant-control:
     weight: 1.0
@@ -93,14 +93,14 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo1:
-    weight: 0.9671
+    weight: 0.9675
     avg_copies: 1.0
   goryo7:
     weight: 1.0
     avg_copies: 1.0
   goryo2:
     weight: 1.0
-    avg_copies: 1.45
+    avg_copies: 1.46
   goryo3:
     weight: 1.0
     avg_copies: 2.0
@@ -115,7 +115,7 @@ archetypes:
     avg_copies: 1.0
   sultai-midrange:
     weight: 1.0
-    avg_copies: 2.67
+    avg_copies: 2.75
   unknown-2:
     weight: 0.5
     avg_copies: 2.0
@@ -181,7 +181,7 @@ archetypes:
     avg_copies: 5.0
   unknown-47:
     weight: 1.0
-    avg_copies: 1.8
+    avg_copies: 1.82
   unknown-51:
     weight: 1.0
     avg_copies: 2.0
@@ -210,7 +210,7 @@ archetypes:
     weight: 0.9655
     avg_copies: 1.18
   unknown-67:
-    weight: 0.9857
+    weight: 0.9861
     avg_copies: 1.01
   unknown-70:
     weight: 0.7647
@@ -294,7 +294,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-122:
-    weight: 0.875
+    weight: 0.88
     avg_copies: 1.0
   unknown-125:
     weight: 1.0
@@ -342,14 +342,14 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-160:
-    weight: 0.0156
+    weight: 0.0154
     avg_copies: 1.0
   unknown-166:
     weight: 1.0
     avg_copies: 2.0
   unknown-167:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.8
   unknown-169:
     weight: 1.0
     avg_copies: 2.0
@@ -395,6 +395,12 @@ archetypes:
   unknown-200:
     weight: 1.0
     avg_copies: 3.0
+  unknown-206:
+    weight: 1.0
+    avg_copies: 8.0
+  unknown-205:
+    weight: 1.0
+    avg_copies: 4.0
   unknown-204:
     weight: 1.0
     avg_copies: 2.0

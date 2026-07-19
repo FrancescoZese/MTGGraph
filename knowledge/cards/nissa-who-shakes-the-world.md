@@ -7,9 +7,9 @@ name: Nissa, Who Shakes the World
 scryfall_id: f857bbe4-5619-4733-a0c7-69700f2ef4f3
 set: war
 type: Legendary Planeswalker — Nissa
-meta_presence: 0.0007
+meta_presence: 0.0009
 archetypes:
   mono-green-ramp:
-    weight: 0.6667
-    avg_copies: 2.0
+    weight: 0.7143
+    avg_copies: 2.2
 ---

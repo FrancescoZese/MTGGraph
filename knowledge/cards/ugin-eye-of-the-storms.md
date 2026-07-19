@@ -6,32 +6,32 @@ name: Ugin, Eye of the Storms
 scryfall_id: 64a5d494-efa1-446b-bebe-2ad36e154376
 set: tdm
 type: Legendary Planeswalker — Ugin
-meta_presence: 0.0788
+meta_presence: 0.0795
 archetypes:
   eldrazi-tron:
-    weight: 0.9891
+    weight: 0.9894
     avg_copies: 3.47
   mono-blue-tron:
     weight: 1.0
-    avg_copies: 3.25
+    avg_copies: 3.29
   eldrazi-ramp:
-    weight: 0.9333
+    weight: 0.9339
     avg_copies: 2.23
   broodscale-combo:
-    weight: 0.0498
-    avg_copies: 1.23
+    weight: 0.0486
+    avg_copies: 1.29
   unknown-37:
     weight: 1.0
     avg_copies: 3.0
   unknown-61:
-    weight: 0.2812
-    avg_copies: 1.44
+    weight: 0.3235
+    avg_copies: 1.55
   unknown-55:
     weight: 1.0
     avg_copies: 2.0
   unknown-97:
     weight: 1.0
-    avg_copies: 1.9
+    avg_copies: 1.91
   unknown-150:
     weight: 0.6667
     avg_copies: 2.0

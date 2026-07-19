@@ -6,28 +6,28 @@ colors:
 - R
 - G
 name: 'Unknown #85'
-meta_share: 0.0027
+meta_share: 0.0026
 list_count: 15
 top_cards:
-- name: Lightning Bolt
+- name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
 - name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
-- name: Territorial Kavu
+- name: Leyline Binding
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline Binding
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Tribal Flames
   weight: 1.0
   avg_copies: 3.87
-- name: Wooded Foothills
+- name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 3.8
-- name: Leyline of the Guildpact
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 3.8
 - name: Ragavan, Nimble Pilferer
@@ -84,10 +84,10 @@ top_cards:
 - name: High Noon
   weight: 0.6
   avg_copies: 2.0
-- name: Forest
+- name: Breeding Pool
   weight: 0.6
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Forest
   weight: 0.6
   avg_copies: 1.0
 - name: Plains
@@ -138,16 +138,16 @@ top_cards:
 - name: Overgrown Tomb
   weight: 0.1333
   avg_copies: 1.0
-- name: Savai Triome
-  weight: 0.1333
-  avg_copies: 1.0
 - name: Xander's Lounge
   weight: 0.1333
   avg_copies: 1.0
-- name: Psychic Frog
+- name: Savai Triome
+  weight: 0.1333
+  avg_copies: 1.0
+- name: Spell Queller
   weight: 0.0667
   avg_copies: 4.0
-- name: Spell Queller
+- name: Psychic Frog
   weight: 0.0667
   avg_copies: 4.0
 - name: Obsidian Charmaw
@@ -156,10 +156,13 @@ top_cards:
 - name: Force of Vigor
   weight: 0.0667
   avg_copies: 3.0
-- name: Fire Magic
+- name: Rough
   weight: 0.0667
   avg_copies: 2.0
-- name: Laelia, the Blade Reforged
+- name: Pick Your Poison
+  weight: 0.0667
+  avg_copies: 2.0
+- name: Prismatic Ending
   weight: 0.0667
   avg_copies: 2.0
 - name: Endurance
@@ -168,19 +171,19 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.0667
   avg_copies: 2.0
-- name: Prismatic Ending
+- name: Laelia, the Blade Reforged
   weight: 0.0667
   avg_copies: 2.0
-- name: Pick Your Poison
+- name: Fire Magic
   weight: 0.0667
   avg_copies: 2.0
-- name: Rough
+- name: Hedge Maze
   weight: 0.0667
-  avg_copies: 2.0
+  avg_copies: 1.0
 - name: Island
   weight: 0.0667
   avg_copies: 1.0
-- name: Hidetsugu Consumes All
+- name: Brotherhood's End
   weight: 0.0667
   avg_copies: 1.0
 - name: Sacred Ground
@@ -189,19 +192,16 @@ top_cards:
 - name: Zagoth Triome
   weight: 0.0667
   avg_copies: 1.0
-- name: Pyroclasm
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Brotherhood's End
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Chalice of the Void
+- name: Hidetsugu Consumes All
   weight: 0.0667
   avg_copies: 1.0
 - name: The Legend of Roku
   weight: 0.0667
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Chalice of the Void
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Pyroclasm
   weight: 0.0667
   avg_copies: 1.0
 ---

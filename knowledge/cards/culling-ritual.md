@@ -8,19 +8,19 @@ name: Culling Ritual
 scryfall_id: abaad8c5-763d-4276-9b19-623cd19f59b9
 set: soc
 type: Sorcery
-meta_presence: 0.0389
+meta_presence: 0.0393
 archetypes:
   goryo:
-    weight: 0.0071
+    weight: 0.007
     avg_copies: 1.0
   necrodominance:
     weight: 0.0233
     avg_copies: 2.0
   living-end:
-    weight: 0.6154
+    weight: 0.6061
     avg_copies: 1.93
   yawgmoth-combo:
-    weight: 0.4878
+    weight: 0.4941
     avg_copies: 1.02
   eldrazi-ramp:
     weight: 0.0083
@@ -29,22 +29,22 @@ archetypes:
     weight: 0.8025
     avg_copies: 2.86
   samwise-combo:
-    weight: 0.0667
+    weight: 0.0645
     avg_copies: 2.0
   broodscale-combo:
-    weight: 0.0124
+    weight: 0.0121
     avg_copies: 2.0
   jund-saga:
     weight: 0.25
     avg_copies: 2.0
   goryo5:
-    weight: 0.8333
-    avg_copies: 1.87
+    weight: 0.8571
+    avg_copies: 1.89
   soultrader-combo:
     weight: 0.5
     avg_copies: 1.67
   sultai-midrange:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 1.0
   unknown-8:
     weight: 0.5
@@ -68,11 +68,11 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-67:
-    weight: 0.0143
+    weight: 0.0139
     avg_copies: 2.0
   unknown-97:
-    weight: 0.5
-    avg_copies: 2.2
+    weight: 0.5455
+    avg_copies: 2.0
   unknown-115:
     weight: 0.5
     avg_copies: 2.0

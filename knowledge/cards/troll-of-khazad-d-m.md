@@ -7,13 +7,13 @@ name: Troll of Khazad-dûm
 scryfall_id: a6539e26-b63b-4725-9407-caaf451de084
 set: ltr
 type: Creature — Troll
-meta_presence: 0.0133
+meta_presence: 0.0132
 archetypes:
   goryo:
-    weight: 0.0036
+    weight: 0.0035
     avg_copies: 1.0
   living-end:
-    weight: 0.5846
+    weight: 0.5758
     avg_copies: 1.82
   reanimator:
     weight: 0.037
@@ -25,10 +25,10 @@ archetypes:
     weight: 0.0526
     avg_copies: 1.0
   goryo1:
-    weight: 0.0329
+    weight: 0.0325
     avg_copies: 1.0
   unknown-1:
-    weight: 0.1111
+    weight: 0.2
     avg_copies: 1.0
   unknown-45:
     weight: 0.9615

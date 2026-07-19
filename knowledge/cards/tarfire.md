@@ -10,7 +10,7 @@ type: Kindred Instant — Goblin
 meta_presence: 0.0032
 archetypes:
   hollow-one:
-    weight: 0.1212
+    weight: 0.1176
     avg_copies: 2.0
   jund-saga:
     weight: 0.5
@@ -31,7 +31,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-101:
-    weight: 0.8
+    weight: 0.6667
     avg_copies: 2.0
   unknown-174:
     weight: 0.3333

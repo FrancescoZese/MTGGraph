@@ -7,9 +7,9 @@ name: Reckless Pyrosurfer
 scryfall_id: 2d1bb8ac-7125-4537-b2da-e23a8c28df79
 set: mh3
 type: Creature — Human Scout
-meta_presence: 0.002
+meta_presence: 0.0021
 archetypes:
   boros-energy:
-    weight: 0.0162
-    avg_copies: 2.18
+    weight: 0.0176
+    avg_copies: 2.17
 ---

@@ -7,13 +7,13 @@ name: Orcish Bowmasters
 scryfall_id: 7c024bae-5631-4e20-ac69-df392ac9e109
 set: ltr
 type: Creature — Orc Archer
-meta_presence: 0.1066
+meta_presence: 0.1076
 archetypes:
   dimir-control:
     weight: 0.963
     avg_copies: 3.58
   goryo:
-    weight: 0.0036
+    weight: 0.0035
     avg_copies: 1.5
   necrodominance:
     weight: 1.0
@@ -28,20 +28,20 @@ archetypes:
     weight: 0.5417
     avg_copies: 1.35
   hollow-one:
-    weight: 0.6667
-    avg_copies: 3.36
+    weight: 0.6765
+    avg_copies: 3.26
   yawgmoth-combo:
-    weight: 0.5732
+    weight: 0.5529
     avg_copies: 1.65
   simic-ritual:
     weight: 0.0617
     avg_copies: 3.2
   esper-blink:
-    weight: 0.36
+    weight: 0.3592
     avg_copies: 2.0
   samwise-combo:
-    weight: 0.7167
-    avg_copies: 2.02
+    weight: 0.7097
+    avg_copies: 2.0
   orzhov-blink:
     weight: 0.8
     avg_copies: 3.0
@@ -52,11 +52,11 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   goryo1:
-    weight: 0.0066
+    weight: 0.0065
     avg_copies: 1.0
   goryo5:
     weight: 1.0
-    avg_copies: 3.26
+    avg_copies: 3.36
   soultrader-combo:
     weight: 1.0
     avg_copies: 4.0
@@ -65,12 +65,12 @@ archetypes:
     avg_copies: 3.0
   sultai-midrange:
     weight: 1.0
-    avg_copies: 2.67
+    avg_copies: 2.75
   unknown-4:
     weight: 1.0
     avg_copies: 3.0
   unknown-1:
-    weight: 0.4444
+    weight: 0.4
     avg_copies: 3.0
   unknown-18:
     weight: 1.0
@@ -80,7 +80,7 @@ archetypes:
     avg_copies: 2.0
   unknown-24:
     weight: 1.0
-    avg_copies: 2.71
+    avg_copies: 2.72
   unknown-27:
     weight: 1.0
     avg_copies: 4.0
@@ -118,8 +118,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-68:
-    weight: 0.8857
-    avg_copies: 2.23
+    weight: 0.8684
+    avg_copies: 2.21
   unknown-69:
     weight: 1.0
     avg_copies: 4.0
@@ -142,8 +142,8 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-101:
-    weight: 0.6
-    avg_copies: 3.0
+    weight: 0.6667
+    avg_copies: 3.25
   unknown-105:
     weight: 1.0
     avg_copies: 1.5

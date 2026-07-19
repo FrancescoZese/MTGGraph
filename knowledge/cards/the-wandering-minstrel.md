@@ -11,6 +11,6 @@ type: Legendary Creature — Human Bard
 meta_presence: 0.0041
 archetypes:
   amulet-titan:
-    weight: 0.1533
+    weight: 0.1513
     avg_copies: 1.04
 ---

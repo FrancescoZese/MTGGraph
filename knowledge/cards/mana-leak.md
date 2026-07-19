@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0005
 archetypes:
   jeskai-energy:
-    weight: 0.0152
+    weight: 0.015
     avg_copies: 1.5
   unknown-7:
     weight: 1.0

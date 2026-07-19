@@ -10,10 +10,10 @@ type: Creature — Goblin Scout
 meta_presence: 0.007
 archetypes:
   burn:
-    weight: 0.9722
+    weight: 0.973
     avg_copies: 4.0
   unknown-86:
-    weight: 0.2222
+    weight: 0.2
     avg_copies: 2.0
   unknown-178:
     weight: 1.0

@@ -7,20 +7,20 @@ name: Thoughtseize
 scryfall_id: b281a308-ab6b-47b6-bec7-632c9aaecede
 set: 2xm
 type: Sorcery
-meta_presence: 0.2147
+meta_presence: 0.2169
 archetypes:
   ruby-storm:
-    weight: 0.0149
+    weight: 0.0144
     avg_copies: 2.67
   dimir-control:
     weight: 0.5432
     avg_copies: 2.94
   eldrazi-tron:
-    weight: 0.0109
+    weight: 0.0106
     avg_copies: 4.0
   goryo:
-    weight: 0.95
-    avg_copies: 2.56
+    weight: 0.951
+    avg_copies: 2.55
   necrodominance:
     weight: 0.8605
     avg_copies: 3.95
@@ -34,28 +34,28 @@ archetypes:
     weight: 0.75
     avg_copies: 2.56
   hollow-one:
-    weight: 0.7576
-    avg_copies: 2.85
+    weight: 0.7647
+    avg_copies: 2.75
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 2.59
+    avg_copies: 2.58
   simic-ritual:
     weight: 0.0123
     avg_copies: 4.0
   izzet-prowess:
-    weight: 0.0285
+    weight: 0.0278
     avg_copies: 3.38
   esper-blink:
-    weight: 0.96
-    avg_copies: 3.44
+    weight: 0.9612
+    avg_copies: 3.45
   samwise-combo:
-    weight: 0.7667
-    avg_copies: 2.43
+    weight: 0.7742
+    avg_copies: 2.44
   indomitable-creativity:
     weight: 0.2143
     avg_copies: 4.0
   broodscale-combo:
-    weight: 0.0124
+    weight: 0.0121
     avg_copies: 3.0
   orzhov-blink:
     weight: 0.9
@@ -79,7 +79,7 @@ archetypes:
     weight: 0.5263
     avg_copies: 4.0
   mono-green-ramp:
-    weight: 0.6667
+    weight: 0.5714
     avg_copies: 3.0
   esper-midrange:
     weight: 1.0
@@ -88,14 +88,14 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   goryo1:
-    weight: 0.9737
-    avg_copies: 3.86
+    weight: 0.9675
+    avg_copies: 3.84
   goryo5:
     weight: 1.0
-    avg_copies: 3.78
+    avg_copies: 3.67
   goryo2:
     weight: 1.0
-    avg_copies: 3.23
+    avg_copies: 3.33
   soultrader-combo:
     weight: 0.8333
     avg_copies: 2.0
@@ -106,8 +106,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   sultai-midrange:
-    weight: 0.6667
-    avg_copies: 2.5
+    weight: 0.75
+    avg_copies: 2.67
   unknown-4:
     weight: 1.0
     avg_copies: 4.0
@@ -157,8 +157,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.2
   unknown-47:
-    weight: 0.9884
-    avg_copies: 3.68
+    weight: 0.9889
+    avg_copies: 3.67
   unknown-50:
     weight: 1.0
     avg_copies: 2.0
@@ -178,11 +178,11 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-68:
-    weight: 0.8857
-    avg_copies: 2.58
+    weight: 0.8684
+    avg_copies: 2.64
   unknown-69:
     weight: 1.0
-    avg_copies: 3.14
+    avg_copies: 3.25
   unknown-73:
     weight: 1.0
     avg_copies: 4.0
@@ -208,11 +208,11 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-97:
-    weight: 0.7
-    avg_copies: 2.62
+    weight: 0.7273
+    avg_copies: 2.78
   unknown-101:
-    weight: 0.4
-    avg_copies: 3.5
+    weight: 0.5
+    avg_copies: 2.5
   unknown-105:
     weight: 1.0
     avg_copies: 4.0
@@ -229,7 +229,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.88
   unknown-122:
-    weight: 0.0417
+    weight: 0.08
     avg_copies: 4.0
   unknown-123:
     weight: 1.0
@@ -238,7 +238,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.5
   unknown-126:
-    weight: 0.0455
+    weight: 0.0435
     avg_copies: 2.0
   unknown-131:
     weight: 0.625

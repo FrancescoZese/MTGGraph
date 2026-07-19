@@ -9,7 +9,7 @@ type: Unknown
 meta_presence: 0.0005
 archetypes:
   hollow-one:
-    weight: 0.0303
+    weight: 0.0294
     avg_copies: 2.0
   unknown-161:
     weight: 1.0

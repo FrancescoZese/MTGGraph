@@ -9,7 +9,7 @@ type: Legendary Artifact — Equipment
 meta_presence: 0.0011
 archetypes:
   eldrazi-tron:
-    weight: 0.0036
+    weight: 0.0035
     avg_copies: 1.0
   hammer-time:
     weight: 0.1538

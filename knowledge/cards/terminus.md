@@ -7,11 +7,11 @@ name: Terminus
 scryfall_id: 4c53c684-37f9-4b95-88be-a42b9600c47c
 set: dsc
 type: Sorcery
-meta_presence: 0.0013
+meta_presence: 0.0014
 archetypes:
   azorius-control:
-    weight: 0.025
-    avg_copies: 3.5
+    weight: 0.037
+    avg_copies: 3.67
   unknown-106:
     weight: 0.1
     avg_copies: 2.0

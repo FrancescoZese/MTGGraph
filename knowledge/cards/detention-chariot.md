@@ -10,6 +10,6 @@ type: Artifact — Vehicle
 meta_presence: 0.0002
 archetypes:
   eldrazi-tron:
-    weight: 0.0036
+    weight: 0.0035
     avg_copies: 2.0
 ---

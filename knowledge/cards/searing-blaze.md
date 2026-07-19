@@ -7,19 +7,19 @@ name: Searing Blaze
 scryfall_id: f659d464-13dd-49e2-a842-098dcba49659
 set: ddi
 type: Instant
-meta_presence: 0.0066
+meta_presence: 0.0067
 archetypes:
   burn:
-    weight: 0.8333
-    avg_copies: 3.05
+    weight: 0.8378
+    avg_copies: 3.07
   izzet-prowess:
-    weight: 0.0036
+    weight: 0.0035
     avg_copies: 4.0
   unknown-71:
     weight: 1.0
     avg_copies: 2.0
   unknown-86:
-    weight: 0.3333
+    weight: 0.3
     avg_copies: 3.75
   unknown-178:
     weight: 1.0

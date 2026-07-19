@@ -7,8 +7,11 @@ name: Elspeth, Sun's Nemesis
 scryfall_id: 81aec42f-abb7-42f9-96f5-f1ee2f94db52
 set: thb
 type: Legendary Planeswalker — Elspeth
-meta_presence: 0.0002
+meta_presence: 0.0004
 archetypes:
+  jeskai-energy:
+    weight: 0.0075
+    avg_copies: 1.0
   boros-ponza:
     weight: 0.0071
     avg_copies: 1.0

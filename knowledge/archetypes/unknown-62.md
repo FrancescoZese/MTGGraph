@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: 'Unknown #62'
-meta_share: 0.0052
+meta_share: 0.0051
 list_count: 29
 top_cards:
 - name: Solitude
@@ -117,10 +117,10 @@ top_cards:
 - name: High Noon
   weight: 0.1724
   avg_copies: 1.6
-- name: Ranger-Captain of Eos
+- name: Haliya, Guided by Light
   weight: 0.1724
   avg_copies: 1.2
-- name: Haliya, Guided by Light
+- name: Ranger-Captain of Eos
   weight: 0.1724
   avg_copies: 1.2
 - name: Erode
@@ -171,58 +171,58 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 0.0345
   avg_copies: 3.0
-- name: card:geist-of-saint-traft
-  weight: 0.0345
-  avg_copies: 2.0
-- name: Floodfarm Verge
+- name: Obsidian Charmaw
   weight: 0.0345
   avg_copies: 2.0
 - name: Goblin Bombardment
   weight: 0.0345
   avg_copies: 2.0
-- name: Obsidian Charmaw
+- name: Galvanic Discharge
   weight: 0.0345
   avg_copies: 2.0
-- name: Galvanic Discharge
+- name: Floodfarm Verge
   weight: 0.0345
   avg_copies: 2.0
 - name: Flagstones of Trokair
   weight: 0.0345
   avg_copies: 2.0
-- name: Elegant Parlor
+- name: card:geist-of-saint-traft
   weight: 0.0345
-  avg_copies: 1.0
-- name: Otawara, Soaring City
-  weight: 0.0345
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Flitterwing Nuisance
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Aven Interrupter
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Ajani, Nacatl Pariah
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Hydroelectric Specimen
   weight: 0.0345
   avg_copies: 1.0
 - name: Celestial Purge
   weight: 0.0345
   avg_copies: 1.0
-- name: Meltdown
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Recruiter of the Guard
-  weight: 0.0345
-  avg_copies: 1.0
-- name: card:exalted-sunborn
+- name: Otawara, Soaring City
   weight: 0.0345
   avg_copies: 1.0
 - name: Marsh Flats
   weight: 0.0345
   avg_copies: 1.0
+- name: Aven Interrupter
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Elegant Parlor
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Ajani, Nacatl Pariah
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 0.0345
+  avg_copies: 1.0
 - name: Razorgrass Ambush
+  weight: 0.0345
+  avg_copies: 1.0
+- name: card:exalted-sunborn
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Recruiter of the Guard
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Hydroelectric Specimen
   weight: 0.0345
   avg_copies: 1.0
 ---
