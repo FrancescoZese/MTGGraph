@@ -7,22 +7,22 @@ name: 'Unknown #6'
 meta_share: 0.0016
 list_count: 9
 top_cards:
-- name: Mox Opal
-  weight: 1.0
-  avg_copies: 4.0
 - name: Song of Creation
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
+- name: Mox Opal
+  weight: 1.0
+  avg_copies: 4.0
 - name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
-- name: Misty Rainforest
+- name: Mox Amber
   weight: 1.0
   avg_copies: 3.78
-- name: Mox Amber
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 3.78
 - name: Emry, Lurker of the Loch
@@ -49,10 +49,10 @@ top_cards:
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.33
-- name: Hedge Maze
+- name: Island
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
 - name: Endurance
@@ -82,13 +82,13 @@ top_cards:
 - name: Six
   weight: 0.6667
   avg_copies: 1.17
+- name: Stomping Ground
+  weight: 0.6667
+  avg_copies: 1.0
 - name: Nature's Claim
   weight: 0.6667
   avg_copies: 1.0
 - name: Haywire Mite
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Stomping Ground
   weight: 0.6667
   avg_copies: 1.0
 - name: Boomerang Basics
@@ -100,19 +100,19 @@ top_cards:
 - name: Otawara, Soaring City
   weight: 0.5556
   avg_copies: 1.0
-- name: Jace, Wielder of Mysteries
+- name: Forest
   weight: 0.5556
   avg_copies: 1.0
-- name: Forest
+- name: Jace, Wielder of Mysteries
   weight: 0.5556
   avg_copies: 1.0
 - name: Preordain
   weight: 0.4444
   avg_copies: 3.25
-- name: Spire of Industry
+- name: Mountain
   weight: 0.4444
   avg_copies: 1.0
-- name: Mountain
+- name: Spire of Industry
   weight: 0.4444
   avg_copies: 1.0
 - name: Soulless Jailer
@@ -121,16 +121,16 @@ top_cards:
 - name: Pyroclasm
   weight: 0.3333
   avg_copies: 1.33
-- name: Ashiok, Dream Render
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Pithing Needle
+- name: Boseiju, Who Endures
   weight: 0.3333
   avg_copies: 1.0
 - name: Strix Serenade
   weight: 0.3333
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Pithing Needle
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
   weight: 0.3333
   avg_copies: 1.0
 - name: Thundering Falls
@@ -148,40 +148,40 @@ top_cards:
 - name: Force of Negation
   weight: 0.2222
   avg_copies: 1.5
-- name: Wrenn and Six
+- name: Commercial District
   weight: 0.2222
   avg_copies: 1.0
-- name: Commercial District
+- name: Wrenn and Six
   weight: 0.2222
   avg_copies: 1.0
 - name: Cori-Steel Cutter
   weight: 0.1111
   avg_copies: 4.0
-- name: Grinding Station
+- name: Sewer-veillance Cam
   weight: 0.1111
   avg_copies: 3.0
-- name: Sewer-veillance Cam
+- name: Grinding Station
   weight: 0.1111
   avg_copies: 3.0
 - name: Hurkyl's Recall
   weight: 0.1111
   avg_copies: 2.0
-- name: Lavaspur Boots
+- name: Vexing Bauble
   weight: 0.1111
   avg_copies: 1.0
-- name: Life from the Loam
+- name: Lavaspur Boots
   weight: 0.1111
   avg_copies: 1.0
 - name: Peer Past the Veil
   weight: 0.1111
   avg_copies: 1.0
+- name: Galvanic Blast
+  weight: 0.1111
+  avg_copies: 1.0
 - name: Aether Spellbomb
   weight: 0.1111
   avg_copies: 1.0
-- name: Vexing Bauble
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Galvanic Blast
+- name: Life from the Loam
   weight: 0.1111
   avg_copies: 1.0
 - name: Thassa's Oracle

@@ -6,37 +6,37 @@ name: 'Unknown #41'
 meta_share: 0.0005
 list_count: 3
 top_cards:
-- name: Inquisition of Kozilek
-  weight: 1.0
-  avg_copies: 4.0
 - name: Whir of Invention
-  weight: 1.0
-  avg_copies: 4.0
-- name: Darkslick Shores
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
+- name: Darkslick Shores
+  weight: 1.0
+  avg_copies: 4.0
 - name: Urza's Saga
+  weight: 1.0
+  avg_copies: 4.0
+- name: Inquisition of Kozilek
   weight: 1.0
   avg_copies: 4.0
 - name: Ensnaring Bridge
   weight: 1.0
   avg_copies: 3.67
-- name: Mox Opal
-  weight: 1.0
-  avg_copies: 3.33
 - name: Codex Shredder
   weight: 1.0
   avg_copies: 3.33
-- name: Island
+- name: Mox Opal
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 3.33
 - name: Lantern of Insight
   weight: 1.0
   avg_copies: 3.0
 - name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 3.0
+- name: Island
   weight: 1.0
   avg_copies: 3.0
 - name: River of Tears
@@ -57,22 +57,22 @@ top_cards:
 - name: Void Mirror
   weight: 1.0
   avg_copies: 1.33
-- name: The Underworld Cookbook
+- name: Torpor Orb
   weight: 1.0
   avg_copies: 1.0
 - name: Soulless Jailer
   weight: 1.0
   avg_copies: 1.0
-- name: Torpor Orb
+- name: The Underworld Cookbook
   weight: 1.0
   avg_copies: 1.0
 - name: Grafdigger's Cage
   weight: 1.0
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Narset, Parter of Veils
   weight: 0.6667
   avg_copies: 3.0
-- name: Narset, Parter of Veils
+- name: Ashiok, Dream Render
   weight: 0.6667
   avg_copies: 3.0
 - name: Watery Grave
@@ -87,10 +87,10 @@ top_cards:
 - name: Damping Sphere
   weight: 0.6667
   avg_copies: 1.0
-- name: Academy Ruins
+- name: Scalding Tarn
   weight: 0.6667
   avg_copies: 1.0
-- name: Scalding Tarn
+- name: Academy Ruins
   weight: 0.6667
   avg_copies: 1.0
 - name: Great Hall of the Biblioplex
@@ -102,10 +102,10 @@ top_cards:
 - name: Consign to Memory
   weight: 0.3333
   avg_copies: 3.0
-- name: Tear Asunder
+- name: Bloodchief's Thirst
   weight: 0.3333
   avg_copies: 2.0
-- name: Bloodchief's Thirst
+- name: Tear Asunder
   weight: 0.3333
   avg_copies: 2.0
 - name: Glimmervoid
@@ -114,10 +114,10 @@ top_cards:
 - name: Disruptor Flute
   weight: 0.3333
   avg_copies: 1.0
-- name: Erode
+- name: Ghoulcaller's Bell
   weight: 0.3333
   avg_copies: 1.0
-- name: Ghoulcaller's Bell
+- name: Erode
   weight: 0.3333
   avg_copies: 1.0
 ---

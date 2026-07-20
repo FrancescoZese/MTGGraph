@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.132
 archetypes:
   ruby-storm:
-    weight: 0.0096
+    weight: 0.0095
     avg_copies: 1.0
   dimir-control:
     weight: 0.3457
@@ -18,31 +18,31 @@ archetypes:
     weight: 0.0075
     avg_copies: 3.0
   amulet-titan:
-    weight: 0.0066
+    weight: 0.0065
     avg_copies: 1.0
   goryo:
-    weight: 0.007
+    weight: 0.0068
     avg_copies: 1.5
   azorius-control:
-    weight: 0.284
+    weight: 0.2805
     avg_copies: 1.04
   living-end:
     weight: 1.0
     avg_copies: 3.79
   affinity:
-    weight: 0.0448
+    weight: 0.0446
     avg_copies: 1.86
   domain-zoo:
     weight: 0.008
     avg_copies: 1.0
   mill:
-    weight: 0.3125
+    weight: 0.303
     avg_copies: 1.6
   reanimator:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.9855
+    weight: 0.9859
     avg_copies: 3.81
   kethis-combo:
     weight: 1.0
@@ -57,7 +57,7 @@ archetypes:
     weight: 0.9877
     avg_copies: 3.75
   izzet-prowess:
-    weight: 0.0139
+    weight: 0.0137
     avg_copies: 1.75
   4c-omnath:
     weight: 0.75
@@ -66,7 +66,7 @@ archetypes:
     weight: 0.5806
     avg_copies: 1.42
   broodscale-combo:
-    weight: 0.1255
+    weight: 0.125
     avg_copies: 1.13
   bant-control:
     weight: 1.0
@@ -132,13 +132,13 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-47:
-    weight: 0.2556
-    avg_copies: 1.7
+    weight: 0.266
+    avg_copies: 1.64
   unknown-59:
     weight: 1.0
     avg_copies: 4.0
   unknown-62:
-    weight: 0.1379
+    weight: 0.1667
     avg_copies: 2.0
   unknown-60:
     weight: 1.0
@@ -148,7 +148,7 @@ archetypes:
     avg_copies: 3.86
   unknown-67:
     weight: 1.0
-    avg_copies: 3.85
+    avg_copies: 3.84
   unknown-73:
     weight: 1.0
     avg_copies: 4.0
@@ -174,7 +174,7 @@ archetypes:
     weight: 0.6
     avg_copies: 1.0
   unknown-111:
-    weight: 0.5
+    weight: 0.4
     avg_copies: 1.0
   unknown-114:
     weight: 1.0
@@ -186,8 +186,8 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-126:
-    weight: 0.7826
-    avg_copies: 1.11
+    weight: 0.7917
+    avg_copies: 1.16
   unknown-124:
     weight: 1.0
     avg_copies: 4.0

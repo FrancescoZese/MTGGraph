@@ -12,10 +12,10 @@ top_cards:
 - name: Atraxa, Grand Unifier
   weight: 1.0
   avg_copies: 4.0
-- name: Goryo's Vengeance
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Goryo's Vengeance
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -24,10 +24,10 @@ top_cards:
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 3.88
-- name: Bloodstained Mire
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 3.62
-- name: Faithless Looting
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 3.62
 - name: Consign to Memory
@@ -36,19 +36,19 @@ top_cards:
 - name: Fatal Push
   weight: 1.0
   avg_copies: 3.38
-- name: Scalding Tarn
+- name: Meltdown
   weight: 1.0
   avg_copies: 2.62
-- name: Meltdown
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 2.62
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.12
-- name: Pyroclasm
+- name: Force of Negation
   weight: 1.0
   avg_copies: 2.0
-- name: Force of Negation
+- name: Pyroclasm
   weight: 1.0
   avg_copies: 2.0
 - name: Griselbrand
@@ -63,22 +63,22 @@ top_cards:
 - name: Watery Grave
   weight: 1.0
   avg_copies: 1.12
-- name: Blood Crypt
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Raucous Theater
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Thundering Falls
+  weight: 1.0
+  avg_copies: 1.0
+- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
 - name: Emperor of Bones
@@ -111,22 +111,22 @@ top_cards:
 - name: Sink into Stupor
   weight: 0.25
   avg_copies: 1.0
-- name: Quantum Riddler
-  weight: 0.125
-  avg_copies: 4.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.125
   avg_copies: 4.0
-- name: Traumatic Critique
+- name: Quantum Riddler
   weight: 0.125
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Subtlety
   weight: 0.125
   avg_copies: 3.0
-- name: Damping Sphere
+- name: Traumatic Critique
+  weight: 0.125
+  avg_copies: 3.0
+- name: Pithing Needle
   weight: 0.125
   avg_copies: 2.0
-- name: Pithing Needle
+- name: Damping Sphere
   weight: 0.125
   avg_copies: 2.0
 - name: Kolaghan's Command

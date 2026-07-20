@@ -8,7 +8,7 @@ name: Wrenn and Six
 scryfall_id: 5bd498cc-a609-4457-9325-6888d59ca36f
 set: 2x2
 type: Legendary Planeswalker — Wrenn
-meta_presence: 0.0085
+meta_presence: 0.0087
 archetypes:
   jeskai-energy:
     weight: 0.0075
@@ -21,7 +21,7 @@ archetypes:
     avg_copies: 3.0
   indomitable-creativity:
     weight: 1.0
-    avg_copies: 3.43
+    avg_copies: 3.25
   jund-saga:
     weight: 1.0
     avg_copies: 3.25
@@ -54,7 +54,7 @@ archetypes:
     avg_copies: 3.0
   unknown-152:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 3.5
   unknown-157:
     weight: 1.0
     avg_copies: 4.0

@@ -7,10 +7,10 @@ name: Faerie Macabre
 scryfall_id: 62103ceb-b16d-48ea-af42-d3df88d1ee4c
 set: gvl
 type: Creature — Faerie Rogue
-meta_presence: 0.0042
+meta_presence: 0.0044
 archetypes:
   goryo:
-    weight: 0.0035
+    weight: 0.0034
     avg_copies: 1.0
   burn:
     weight: 0.1081
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.1923
     avg_copies: 1.0
   unknown-67:
-    weight: 0.0694
+    weight: 0.0685
     avg_copies: 1.0
   unknown-68:
     weight: 0.0263
@@ -42,4 +42,7 @@ archetypes:
   unknown-113:
     weight: 0.5
     avg_copies: 1.0
+  unknown-177:
+    weight: 0.3333
+    avg_copies: 2.0
 ---

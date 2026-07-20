@@ -13,10 +13,10 @@ archetypes:
     weight: 0.2963
     avg_copies: 1.46
   azorius-control:
-    weight: 0.0123
+    weight: 0.0122
     avg_copies: 1.0
   living-end:
-    weight: 0.5303
+    weight: 0.5373
     avg_copies: 1.16
   mono-blue-tron:
     weight: 0.0952
@@ -28,7 +28,7 @@ archetypes:
     weight: 0.0345
     avg_copies: 2.0
   unknown-67:
-    weight: 0.1806
+    weight: 0.1781
     avg_copies: 1.38
   unknown-104:
     weight: 1.0

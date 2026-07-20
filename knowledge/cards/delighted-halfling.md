@@ -19,8 +19,8 @@ archetypes:
     weight: 0.0161
     avg_copies: 3.0
   broodscale-combo:
-    weight: 0.1538
-    avg_copies: 2.61
+    weight: 0.1573
+    avg_copies: 2.56
   mono-green-ramp:
     weight: 0.7143
     avg_copies: 4.0

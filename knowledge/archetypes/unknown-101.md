@@ -3,7 +3,7 @@ colors:
 - B
 - R
 name: 'Unknown #101'
-meta_share: 0.0011
+meta_share: 0.001
 list_count: 6
 top_cards:
 - name: Faithless Looting
@@ -12,13 +12,13 @@ top_cards:
 - name: Hollow One
   weight: 1.0
   avg_copies: 4.0
-- name: Street Wraith
-  weight: 1.0
-  avg_copies: 4.0
 - name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
 - name: Detective's Phoenix
+  weight: 1.0
+  avg_copies: 4.0
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Blood Crypt
@@ -51,10 +51,10 @@ top_cards:
 - name: Arid Mesa
   weight: 0.8333
   avg_copies: 2.4
-- name: Scalding Tarn
+- name: Fear of Missing Out
   weight: 0.8333
   avg_copies: 2.2
-- name: Fear of Missing Out
+- name: Scalding Tarn
   weight: 0.8333
   avg_copies: 2.2
 - name: Wooded Foothills
@@ -75,16 +75,16 @@ top_cards:
 - name: Damping Sphere
   weight: 0.5
   avg_copies: 3.67
-- name: Dragon's Rage Channeler
-  weight: 0.5
-  avg_copies: 2.67
 - name: Vexing Bauble
   weight: 0.5
   avg_copies: 2.67
-- name: Thoughtseize
+- name: Dragon's Rage Channeler
+  weight: 0.5
+  avg_copies: 2.67
+- name: Fatal Push
   weight: 0.5
   avg_copies: 2.5
-- name: Fatal Push
+- name: Thoughtseize
   weight: 0.5
   avg_copies: 2.5
 - name: Obsidian Charmaw
@@ -114,31 +114,31 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.1667
   avg_copies: 3.0
-- name: Rough
-  weight: 0.1667
-  avg_copies: 2.0
 - name: Wear
   weight: 0.1667
   avg_copies: 2.0
-- name: Nihil Spellbomb
+- name: Rough
   weight: 0.1667
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Seal of Fire
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Ox of Agonas
   weight: 0.1667
   avg_copies: 1.0
 - name: Blackcleave Cliffs
   weight: 0.1667
   avg_copies: 1.0
+- name: Ox of Agonas
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Nihil Spellbomb
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Sheoldred's Edict
   weight: 0.1667
   avg_copies: 1.0
-- name: Cool but Rude
+- name: Sacred Foundry
   weight: 0.1667
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Cool but Rude
   weight: 0.1667
   avg_copies: 1.0
 ---

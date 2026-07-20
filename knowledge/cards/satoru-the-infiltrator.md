@@ -8,7 +8,7 @@ name: Satoru, the Infiltrator
 scryfall_id: acc9a5cc-2b3c-4c2f-8176-4a2d86265cc5
 set: otj
 type: Legendary Creature — Human Ninja Rogue
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   unknown-39:
     weight: 1.0

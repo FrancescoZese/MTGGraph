@@ -17,16 +17,16 @@ archetypes:
     weight: 0.002
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.1146
+    weight: 0.1164
     avg_copies: 1.09
   indomitable-creativity:
-    weight: 0.2143
+    weight: 0.2
     avg_copies: 1.0
   izzet-wizards:
     weight: 0.4167
     avg_copies: 1.8
   goryo1:
-    weight: 0.0714
+    weight: 0.0705
     avg_copies: 1.5
   unknown-27:
     weight: 0.3333

@@ -7,10 +7,10 @@ name: Collective Brutality
 scryfall_id: ae35b6c5-3bfd-483e-9c85-58629b717d7f
 set: inr
 type: Sorcery
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   goryo1:
-    weight: 0.0065
+    weight: 0.0064
     avg_copies: 2.0
   unknown-133:
     weight: 1.0

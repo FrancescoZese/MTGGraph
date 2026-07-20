@@ -4,28 +4,28 @@ colors:
 - U
 - R
 name: 'Unknown #149'
-meta_share: 0.0018
+meta_share: 0.0017
 list_count: 10
 top_cards:
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Ocelot Pride
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
 - name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Arid Mesa
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
 - name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 4.0
-- name: Quantum Riddler
+- name: Solitude
   weight: 1.0
   avg_copies: 3.9
-- name: Solitude
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 3.9
 - name: Goblin Bombardment
@@ -55,10 +55,10 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.1
-- name: Elegant Parlor
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Meticulous Archive
@@ -82,10 +82,10 @@ top_cards:
 - name: Starfield Shepherd
   weight: 0.6
   avg_copies: 2.0
-- name: Sanctifier en-Vec
+- name: Fable of the Mirror-Breaker
   weight: 0.6
   avg_copies: 1.83
-- name: Fable of the Mirror-Breaker
+- name: Sanctifier en-Vec
   weight: 0.6
   avg_copies: 1.83
 - name: Phelia, Exuberant Shepherd
@@ -106,10 +106,10 @@ top_cards:
 - name: Spell Pierce
   weight: 0.5
   avg_copies: 1.2
-- name: Meltdown
+- name: Vandalblast
   weight: 0.5
   avg_copies: 1.0
-- name: Vandalblast
+- name: Meltdown
   weight: 0.5
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -139,22 +139,22 @@ top_cards:
 - name: Arena of Glory
   weight: 0.2
   avg_copies: 1.0
-- name: Marsh Flats
+- name: Voice of Victory
   weight: 0.1
   avg_copies: 2.0
-- name: Voice of Victory
+- name: Marsh Flats
   weight: 0.1
   avg_copies: 2.0
 - name: Clarion Conqueror
   weight: 0.1
   avg_copies: 2.0
+- name: Detect Intrusion
+  weight: 0.1
+  avg_copies: 1.0
 - name: Containment Priest
   weight: 0.1
   avg_copies: 1.0
 - name: Deafening Silence
-  weight: 0.1
-  avg_copies: 1.0
-- name: Detect Intrusion
   weight: 0.1
   avg_copies: 1.0
 - name: March of Otherworldly Light

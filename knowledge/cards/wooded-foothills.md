@@ -9,10 +9,10 @@ type: Land
 meta_presence: 0.2093
 archetypes:
   ruby-storm:
-    weight: 0.9375
+    weight: 0.9381
     avg_copies: 2.35
   amulet-titan:
-    weight: 0.0329
+    weight: 0.0325
     avg_copies: 1.0
   domain-zoo:
     weight: 1.0
@@ -21,7 +21,7 @@ archetypes:
     weight: 0.1111
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.6522
+    weight: 0.6338
     avg_copies: 1.02
   burn:
     weight: 0.9459
@@ -39,19 +39,19 @@ archetypes:
     weight: 0.0864
     avg_copies: 3.29
   izzet-prowess:
-    weight: 0.8611
-    avg_copies: 2.49
+    weight: 0.863
+    avg_copies: 2.5
   samwise-combo:
     weight: 0.4516
     avg_copies: 1.39
   indomitable-creativity:
-    weight: 0.6429
+    weight: 0.6
     avg_copies: 2.67
   broodscale-combo:
-    weight: 0.3522
+    weight: 0.3508
     avg_copies: 1.2
   dredge:
-    weight: 0.76
+    weight: 0.7692
     avg_copies: 3.05
   elves:
     weight: 1.0
@@ -120,8 +120,8 @@ archetypes:
     weight: 0.9655
     avg_copies: 3.07
   unknown-67:
-    weight: 0.1389
-    avg_copies: 1.1
+    weight: 0.1507
+    avg_copies: 1.09
   unknown-71:
     weight: 1.0
     avg_copies: 3.0
@@ -138,8 +138,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.8
   unknown-86:
-    weight: 0.5
-    avg_copies: 3.2
+    weight: 0.5455
+    avg_copies: 3.33
   unknown-84:
     weight: 1.0
     avg_copies: 4.0
@@ -174,7 +174,7 @@ archetypes:
     weight: 0.92
     avg_copies: 1.87
   unknown-126:
-    weight: 0.1304
+    weight: 0.1667
     avg_copies: 2.0
   unknown-127:
     weight: 1.0

@@ -6,19 +6,19 @@ name: 'Unknown #69'
 meta_share: 0.0012
 list_count: 7
 top_cards:
-- name: Necrodominance
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
-- name: Soul Spike
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Boggart Trawler
   weight: 1.0
   avg_copies: 4.0
-- name: Orcish Bowmasters
+- name: Soul Spike
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Necrodominance
   weight: 1.0
   avg_copies: 4.0
 - name: Break the Ice
@@ -60,10 +60,10 @@ top_cards:
 - name: Marsh Flats
   weight: 0.8571
   avg_copies: 1.17
-- name: Surgical Extraction
+- name: The Meathook Massacre
   weight: 0.8571
   avg_copies: 1.0
-- name: The Meathook Massacre
+- name: Surgical Extraction
   weight: 0.8571
   avg_copies: 1.0
 - name: card:baron-helmut-zemo
@@ -75,10 +75,10 @@ top_cards:
 - name: Polluted Delta
   weight: 0.7143
   avg_copies: 1.2
-- name: Chalice of the Void
+- name: Shadow of Doubt
   weight: 0.5714
   avg_copies: 1.5
-- name: Shadow of Doubt
+- name: Chalice of the Void
   weight: 0.5714
   avg_copies: 1.5
 - name: Undercity Sewers
@@ -102,28 +102,28 @@ top_cards:
 - name: Watery Grave
   weight: 0.2857
   avg_copies: 1.5
+- name: Waterlogged Teachings
+  weight: 0.2857
+  avg_copies: 1.0
+- name: Revitalizing Repast
+  weight: 0.2857
+  avg_copies: 1.0
+- name: Cling to Dust
+  weight: 0.2857
+  avg_copies: 1.0
 - name: Underground Mortuary
   weight: 0.2857
   avg_copies: 1.0
 - name: Necromentia
   weight: 0.2857
   avg_copies: 1.0
-- name: Revitalizing Repast
-  weight: 0.2857
-  avg_copies: 1.0
-- name: Waterlogged Teachings
-  weight: 0.2857
-  avg_copies: 1.0
-- name: Cling to Dust
-  weight: 0.2857
-  avg_copies: 1.0
 - name: Consign to Memory
   weight: 0.1429
   avg_copies: 4.0
-- name: Sign in Blood
+- name: Tourach, Dread Cantor
   weight: 0.1429
   avg_copies: 2.0
-- name: Tourach, Dread Cantor
+- name: Sign in Blood
   weight: 0.1429
   avg_copies: 2.0
 - name: Toxic Deluge
@@ -132,10 +132,10 @@ top_cards:
 - name: Takenuma, Abandoned Mire
   weight: 0.1429
   avg_copies: 1.0
-- name: Shizo, Death's Storehouse
+- name: Agadeem's Awakening
   weight: 0.1429
   avg_copies: 1.0
-- name: Agadeem's Awakening
+- name: Shizo, Death's Storehouse
   weight: 0.1429
   avg_copies: 1.0
 ---

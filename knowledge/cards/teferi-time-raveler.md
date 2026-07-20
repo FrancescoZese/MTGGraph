@@ -20,13 +20,13 @@ archetypes:
     weight: 0.4737
     avg_copies: 1.25
   goryo:
-    weight: 0.7797
+    weight: 0.7842
     avg_copies: 1.23
   azorius-control:
     weight: 1.0
-    avg_copies: 3.28
+    avg_copies: 3.26
   living-end:
-    weight: 0.2121
+    weight: 0.209
     avg_copies: 1.94
   jeskai-control:
     weight: 0.8444
@@ -41,7 +41,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   izzet-prowess:
-    weight: 0.0069
+    weight: 0.0068
     avg_copies: 1.0
   4c-omnath:
     weight: 0.5
@@ -50,8 +50,8 @@ archetypes:
     weight: 0.9223
     avg_copies: 1.63
   indomitable-creativity:
-    weight: 0.7857
-    avg_copies: 2.67
+    weight: 0.8
+    avg_copies: 2.5
   azorius-blink:
     weight: 0.5902
     avg_copies: 1.66
@@ -62,7 +62,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo2:
-    weight: 0.3846
+    weight: 0.3571
     avg_copies: 1.44
   goryo3:
     weight: 1.0
@@ -92,7 +92,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.75
   unknown-47:
-    weight: 0.0444
+    weight: 0.0426
     avg_copies: 1.0
   unknown-48:
     weight: 1.0
@@ -101,13 +101,13 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   unknown-62:
-    weight: 0.8276
-    avg_copies: 2.03
+    weight: 0.8333
+    avg_copies: 1.97
   unknown-65:
     weight: 0.0345
     avg_copies: 2.0
   unknown-67:
-    weight: 0.25
+    weight: 0.2466
     avg_copies: 1.94
   unknown-70:
     weight: 0.6471
@@ -155,7 +155,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.44
   unknown-111:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 1.0
   unknown-113:
     weight: 1.0

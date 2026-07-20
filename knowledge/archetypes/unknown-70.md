@@ -7,10 +7,10 @@ name: 'Unknown #70'
 meta_share: 0.003
 list_count: 17
 top_cards:
-- name: Galvanic Discharge
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Guide of Souls
+- name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
 - name: Ajani, Nacatl Pariah
@@ -139,40 +139,40 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.1176
   avg_copies: 1.0
-- name: Reprieve
-  weight: 0.0588
-  avg_copies: 2.0
 - name: Deafening Silence
   weight: 0.0588
   avg_copies: 2.0
 - name: Practiced Offense
   weight: 0.0588
   avg_copies: 2.0
-- name: Magus of the Moon
+- name: Reprieve
   weight: 0.0588
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Spell Pierce
   weight: 0.0588
   avg_copies: 1.0
-- name: Marsh Flats
-  weight: 0.0588
-  avg_copies: 1.0
-- name: The Legend of Roku
+- name: Vandalblast
   weight: 0.0588
   avg_copies: 1.0
 - name: Strix Serenade
   weight: 0.0588
   avg_copies: 1.0
-- name: Boromir, Warden of the Tower
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Lightning Bolt
-  weight: 0.0588
-  avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.0588
   avg_copies: 1.0
-- name: Vandalblast
+- name: The Legend of Roku
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Boromir, Warden of the Tower
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Marsh Flats
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Magus of the Moon
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Lightning Bolt
   weight: 0.0588
   avg_copies: 1.0
 ---

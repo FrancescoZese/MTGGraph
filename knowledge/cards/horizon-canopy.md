@@ -6,7 +6,7 @@ name: Horizon Canopy
 scryfall_id: 93f7c880-9bae-4d29-b7b6-b6be6b2ffa89
 set: ima
 type: Land
-meta_presence: 0.0018
+meta_presence: 0.0017
 archetypes:
   samwise-combo:
     weight: 0.0968
@@ -18,7 +18,7 @@ archetypes:
     weight: 0.0625
     avg_copies: 1.0
   unknown-126:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 1.0
   unknown-138:
     weight: 1.0

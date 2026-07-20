@@ -4,7 +4,7 @@ colors:
 - B
 - R
 name: 'Unknown #68'
-meta_share: 0.0067
+meta_share: 0.0066
 list_count: 38
 top_cards:
 - name: Guide of Souls
@@ -16,10 +16,10 @@ top_cards:
 - name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 3.84
-- name: Marsh Flats
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 3.74
-- name: Arid Mesa
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 3.74
 - name: Galvanic Discharge
@@ -187,19 +187,16 @@ top_cards:
 - name: Strategic Betrayal
   weight: 0.0526
   avg_copies: 1.0
-- name: Lingering Souls
-  weight: 0.0263
-  avg_copies: 2.0
 - name: Duress
   weight: 0.0263
   avg_copies: 2.0
 - name: Path to Exile
   weight: 0.0263
   avg_copies: 2.0
-- name: Faerie Macabre
+- name: Lingering Souls
   weight: 0.0263
-  avg_copies: 1.0
-- name: Static Prison
+  avg_copies: 2.0
+- name: Sunbaked Canyon
   weight: 0.0263
   avg_copies: 1.0
 - name: Stony Silence
@@ -208,10 +205,13 @@ top_cards:
 - name: Rest in Peace
   weight: 0.0263
   avg_copies: 1.0
+- name: Static Prison
+  weight: 0.0263
+  avg_copies: 1.0
 - name: Clarion Conqueror
   weight: 0.0263
   avg_copies: 1.0
-- name: Sunbaked Canyon
+- name: Faerie Macabre
   weight: 0.0263
   avg_copies: 1.0
 ---

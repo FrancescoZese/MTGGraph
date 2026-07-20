@@ -2,13 +2,13 @@
 colors:
 - U
 name: Mono Blue Belcher
-meta_share: 0.0143
+meta_share: 0.0141
 list_count: 81
 top_cards:
-- name: Goblin Charbelcher
+- name: Whir of Invention
   weight: 1.0
   avg_copies: 4.0
-- name: Whir of Invention
+- name: Goblin Charbelcher
   weight: 1.0
   avg_copies: 4.0
 - name: Lotus Bloom
@@ -110,10 +110,10 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 0.2469
   avg_copies: 1.81
-- name: Grafdigger's Cage
+- name: Mountain
   weight: 0.2099
   avg_copies: 1.0
-- name: Mountain
+- name: Grafdigger's Cage
   weight: 0.2099
   avg_copies: 1.0
 - name: Spell Pierce
@@ -143,40 +143,40 @@ top_cards:
 - name: Pact of Negation
   weight: 0.0123
   avg_copies: 3.0
-- name: Dress Down
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Ashiok, Dream Render
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Isochron Scepter
-  weight: 0.0123
-  avg_copies: 1.0
-- name: card:threads-of-disloyalty
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Witch Enchanter
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.0123
-  avg_copies: 1.0
 - name: Shadow of Doubt
   weight: 0.0123
   avg_copies: 1.0
 - name: Portable Hole
   weight: 0.0123
   avg_copies: 1.0
-- name: Erode
+- name: card:diary-of-dreams
   weight: 0.0123
   avg_copies: 1.0
-- name: card:diary-of-dreams
+- name: Isochron Scepter
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Witch Enchanter
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Dress Down
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
+  weight: 0.0123
+  avg_copies: 1.0
+- name: card:threads-of-disloyalty
   weight: 0.0123
   avg_copies: 1.0
 - name: Hope of Ghirapur
   weight: 0.0123
   avg_copies: 1.0
+- name: Erode
+  weight: 0.0123
+  avg_copies: 1.0
 - name: Displacement Wave
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Surgical Extraction
   weight: 0.0123
   avg_copies: 1.0
 ---

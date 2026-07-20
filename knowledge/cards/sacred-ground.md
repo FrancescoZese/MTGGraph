@@ -22,7 +22,7 @@ archetypes:
     weight: 0.0097
     avg_copies: 1.0
   goryo2:
-    weight: 0.0769
+    weight: 0.0714
     avg_copies: 1.0
   sultai-midrange:
     weight: 0.25

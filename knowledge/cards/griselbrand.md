@@ -7,13 +7,13 @@ name: Griselbrand
 scryfall_id: 4069e510-f3f3-4668-9f13-3546fa9bc7c3
 set: inr
 type: Legendary Creature — Demon
-meta_presence: 0.0625
+meta_presence: 0.0633
 archetypes:
   goryo:
-    weight: 0.9685
+    weight: 0.9692
     avg_copies: 1.29
   neoform-combo:
-    weight: 0.9855
+    weight: 0.9859
     avg_copies: 1.01
   unknown-19:
     weight: 1.0

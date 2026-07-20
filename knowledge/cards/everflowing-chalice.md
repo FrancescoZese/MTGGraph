@@ -6,7 +6,7 @@ name: Everflowing Chalice
 scryfall_id: e4ed0052-d6dd-4f69-8313-10863baefac9
 set: eoc
 type: Artifact
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   eldrazi-tron:
     weight: 0.0035

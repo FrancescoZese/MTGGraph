@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.003
 archetypes:
   azorius-control:
-    weight: 0.0123
+    weight: 0.0122
     avg_copies: 1.0
   jeskai-control:
     weight: 0.0222

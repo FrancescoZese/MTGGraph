@@ -6,10 +6,10 @@ name: Thundering Falls
 scryfall_id: 17260fff-b239-4af4-9306-3236ae3fa5a5
 set: mkm
 type: Land — Island Mountain
-meta_presence: 0.1984
+meta_presence: 0.1985
 archetypes:
   ruby-storm:
-    weight: 0.2308
+    weight: 0.2286
     avg_copies: 1.15
   dimir-control:
     weight: 0.037
@@ -18,16 +18,16 @@ archetypes:
     weight: 1.0
     avg_copies: 1.02
   azorius-control:
-    weight: 0.7284
+    weight: 0.7317
     avg_copies: 1.0
   living-end:
-    weight: 0.0152
+    weight: 0.0149
     avg_copies: 1.0
   jeskai-control:
     weight: 1.0
     avg_copies: 1.0
   affinity:
-    weight: 0.0448
+    weight: 0.0446
     avg_copies: 1.0
   domain-zoo:
     weight: 0.96
@@ -36,22 +36,22 @@ archetypes:
     weight: 0.0741
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.029
+    weight: 0.0282
     avg_copies: 1.0
   simic-ritual:
     weight: 0.037
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.9826
+    weight: 0.9829
     avg_copies: 1.0
   4c-omnath:
     weight: 0.5
     avg_copies: 1.0
   indomitable-creativity:
-    weight: 0.6429
+    weight: 0.6
     avg_copies: 1.0
   dredge:
-    weight: 0.84
+    weight: 0.8462
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.5312
@@ -69,7 +69,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   goryo1:
-    weight: 0.4935
+    weight: 0.4936
     avg_copies: 1.0
   grixis-control:
     weight: 1.0
@@ -120,7 +120,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0222
+    weight: 0.0213
     avg_copies: 1.0
   unknown-53:
     weight: 1.0
@@ -138,7 +138,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.9861
+    weight: 0.9863
     avg_copies: 1.0
   unknown-70:
     weight: 0.1765
@@ -186,7 +186,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-111:
-    weight: 0.5
+    weight: 0.6
     avg_copies: 1.0
   unknown-112:
     weight: 1.0
@@ -237,6 +237,12 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-190:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-207:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-208:
     weight: 1.0
     avg_copies: 1.0
 ---

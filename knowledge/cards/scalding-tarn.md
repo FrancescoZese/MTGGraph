@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.2405
 archetypes:
   ruby-storm:
-    weight: 0.875
+    weight: 0.8714
     avg_copies: 2.3
   dimir-control:
     weight: 0.358
@@ -18,22 +18,22 @@ archetypes:
     weight: 0.9925
     avg_copies: 3.02
   azorius-control:
-    weight: 0.9383
-    avg_copies: 1.8
+    weight: 0.939
+    avg_copies: 1.81
   jeskai-control:
     weight: 0.9333
     avg_copies: 2.79
   affinity:
-    weight: 0.0509
+    weight: 0.0507
     avg_copies: 2.04
   mill:
-    weight: 0.4062
+    weight: 0.3939
     avg_copies: 1.23
   reanimator:
     weight: 0.7778
     avg_copies: 1.05
   neoform-combo:
-    weight: 0.7101
+    weight: 0.7183
     avg_copies: 1.2
   burn:
     weight: 0.7027
@@ -45,11 +45,11 @@ archetypes:
     weight: 0.0494
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.8576
-    avg_copies: 2.57
+    weight: 0.8562
+    avg_copies: 2.58
   indomitable-creativity:
-    weight: 0.9286
-    avg_copies: 2.92
+    weight: 0.9333
+    avg_copies: 3.0
   dredge:
     weight: 1.0
     avg_copies: 2.92
@@ -75,7 +75,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   goryo1:
-    weight: 0.9221
+    weight: 0.9231
     avg_copies: 1.28
   goryo3:
     weight: 1.0
@@ -141,7 +141,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   unknown-47:
-    weight: 0.2111
+    weight: 0.234
     avg_copies: 1.0
   unknown-53:
     weight: 1.0
@@ -159,7 +159,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.3333
+    weight: 0.3288
     avg_copies: 1.0
   unknown-70:
     weight: 0.9412
@@ -177,7 +177,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-86:
-    weight: 0.7
+    weight: 0.6364
     avg_copies: 2.57
   unknown-92:
     weight: 1.0
@@ -219,7 +219,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-111:
-    weight: 1.0
+    weight: 0.8
     avg_copies: 1.75
   unknown-112:
     weight: 1.0
@@ -302,4 +302,7 @@ archetypes:
   unknown-205:
     weight: 1.0
     avg_copies: 1.0
+  unknown-208:
+    weight: 1.0
+    avg_copies: 4.0
 ---

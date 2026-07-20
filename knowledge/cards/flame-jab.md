@@ -10,6 +10,6 @@ type: Sorcery
 meta_presence: 0.0012
 archetypes:
   dredge:
-    weight: 0.28
+    weight: 0.2692
     avg_copies: 1.0
 ---

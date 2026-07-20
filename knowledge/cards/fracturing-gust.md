@@ -11,10 +11,10 @@ type: Instant
 meta_presence: 0.0037
 archetypes:
   boros-energy:
-    weight: 0.0088
+    weight: 0.0087
     avg_copies: 1.0
   living-end:
-    weight: 0.2121
+    weight: 0.209
     avg_copies: 1.0
   elves:
     weight: 0.5

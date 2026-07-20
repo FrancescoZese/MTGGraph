@@ -7,10 +7,10 @@ name: Utopia Sprawl
 scryfall_id: 5ea568df-04a1-4012-98ec-ba75e189e0ca
 set: rvr
 type: Enchantment — Aura
-meta_presence: 0.0238
+meta_presence: 0.0235
 archetypes:
   goryo:
-    weight: 0.0035
+    weight: 0.0034
     avg_copies: 4.0
   eldrazi-ramp:
     weight: 0.9917

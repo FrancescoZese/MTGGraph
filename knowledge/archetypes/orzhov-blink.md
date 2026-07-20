@@ -3,16 +3,16 @@ colors:
 - W
 - B
 name: Orzhov Blink
-meta_share: 0.0018
+meta_share: 0.0017
 list_count: 10
 top_cards:
 - name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
 - name: Fatal Push
@@ -99,16 +99,16 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.3
   avg_copies: 1.33
-- name: Grafdigger's Cage
-  weight: 0.3
-  avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.3
   avg_copies: 1.0
-- name: Faerie Macabre
+- name: Grafdigger's Cage
+  weight: 0.3
+  avg_copies: 1.0
+- name: Sanctifier en-Vec
   weight: 0.2
   avg_copies: 2.0
-- name: Sanctifier en-Vec
+- name: Faerie Macabre
   weight: 0.2
   avg_copies: 2.0
 - name: Drannith Magistrate
@@ -141,12 +141,6 @@ top_cards:
 - name: Deafening Silence
   weight: 0.1
   avg_copies: 3.0
-- name: Bloodstained Mire
-  weight: 0.1
-  avg_copies: 2.0
-- name: Windswept Heath
-  weight: 0.1
-  avg_copies: 2.0
 - name: Duress
   weight: 0.1
   avg_copies: 2.0
@@ -156,22 +150,28 @@ top_cards:
 - name: End of the Hunt
   weight: 0.1
   avg_copies: 2.0
-- name: Vindicate
+- name: Windswept Heath
   weight: 0.1
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: Bloodstained Mire
+  weight: 0.1
+  avg_copies: 2.0
 - name: Aven Interrupter
   weight: 0.1
   avg_copies: 1.0
 - name: Eiganjo, Seat of the Empire
   weight: 0.1
   avg_copies: 1.0
+- name: Vindicate
+  weight: 0.1
+  avg_copies: 1.0
 - name: card:cloak-and-dagger-entwined
   weight: 0.1
   avg_copies: 1.0
-- name: Emptiness
+- name: Monumental Henge
   weight: 0.1
   avg_copies: 1.0
-- name: Monumental Henge
+- name: Emptiness
   weight: 0.1
   avg_copies: 1.0
 - name: Raucous Theater

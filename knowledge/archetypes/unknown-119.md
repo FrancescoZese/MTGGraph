@@ -3,28 +3,22 @@ colors:
 - W
 - R
 name: 'Unknown #119'
-meta_share: 0.0004
+meta_share: 0.0003
 list_count: 2
 top_cards:
-- name: Mox Opal
+- name: Sunbaked Canyon
   weight: 1.0
   avg_copies: 4.0
 - name: Memnite
   weight: 1.0
   avg_copies: 4.0
-- name: Puresteel Paladin
-  weight: 1.0
-  avg_copies: 4.0
-- name: Arid Mesa
+- name: Leyline Axe
   weight: 1.0
   avg_copies: 4.0
 - name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
-- name: Steelshaper's Gift
-  weight: 1.0
-  avg_copies: 4.0
-- name: Leyline Axe
+- name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
@@ -33,7 +27,13 @@ top_cards:
 - name: Colossus Hammer
   weight: 1.0
   avg_copies: 4.0
-- name: Sunbaked Canyon
+- name: Arid Mesa
+  weight: 1.0
+  avg_copies: 4.0
+- name: Steelshaper's Gift
+  weight: 1.0
+  avg_copies: 4.0
+- name: Puresteel Paladin
   weight: 1.0
   avg_copies: 4.0
 - name: Plains
@@ -48,19 +48,19 @@ top_cards:
 - name: Mana Tithe
   weight: 1.0
   avg_copies: 2.5
+- name: Wear
+  weight: 1.0
+  avg_copies: 2.0
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 2.0
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 2.0
-- name: Wear
-  weight: 1.0
-  avg_copies: 2.0
-- name: Paradise Mantle
+- name: Forge Anew
   weight: 1.0
   avg_copies: 1.5
-- name: Forge Anew
+- name: Paradise Mantle
   weight: 1.0
   avg_copies: 1.5
 - name: Elegant Parlor
@@ -69,37 +69,37 @@ top_cards:
 - name: Shadowspear
   weight: 1.0
   avg_copies: 1.0
-- name: Pithing Needle
-  weight: 1.0
-  avg_copies: 1.0
 - name: Umezawa's Jitte
   weight: 1.0
   avg_copies: 1.0
-- name: Tormod's Crypt
+- name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
 - name: Tezzeret, Cruel Captain
   weight: 1.0
   avg_copies: 1.0
-- name: Stoneforge Mystic
+- name: Tormod's Crypt
+  weight: 1.0
+  avg_copies: 1.0
+- name: Battlefield Improvisation
   weight: 0.5
   avg_copies: 4.0
 - name: card:kellan-the-fae-blooded
   weight: 0.5
   avg_copies: 4.0
-- name: Battlefield Improvisation
+- name: Stoneforge Mystic
   weight: 0.5
   avg_copies: 4.0
 - name: card:super-soldier-serum
   weight: 0.5
   avg_copies: 4.0
-- name: card:mj-lnir-hammer-of-thor
-  weight: 0.5
-  avg_copies: 1.0
 - name: Chainsaw
   weight: 0.5
   avg_copies: 1.0
 - name: Vexing Bauble
+  weight: 0.5
+  avg_copies: 1.0
+- name: card:mj-lnir-hammer-of-thor
   weight: 0.5
   avg_copies: 1.0
 ---

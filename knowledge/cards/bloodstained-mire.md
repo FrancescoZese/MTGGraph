@@ -6,13 +6,13 @@ name: Bloodstained Mire
 scryfall_id: 579743fe-f71e-4cb2-8629-d6b02ed1591d
 set: mh3
 type: Land
-meta_presence: 0.194
+meta_presence: 0.1947
 archetypes:
   ruby-storm:
-    weight: 0.9712
-    avg_copies: 2.38
+    weight: 0.9667
+    avg_copies: 2.39
   boros-energy:
-    weight: 0.0088
+    weight: 0.0087
     avg_copies: 2.5
   dimir-control:
     weight: 0.0864
@@ -39,17 +39,17 @@ archetypes:
     weight: 0.0123
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.941
-    avg_copies: 2.88
+    weight: 0.9418
+    avg_copies: 2.87
   indomitable-creativity:
     weight: 1.0
-    avg_copies: 2.79
+    avg_copies: 2.73
   orzhov-blink:
     weight: 0.1
     avg_copies: 2.0
   dredge:
-    weight: 0.96
-    avg_copies: 2.58
+    weight: 0.9615
+    avg_copies: 2.56
   jund-saga:
     weight: 1.0
     avg_copies: 2.75
@@ -72,8 +72,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.74
   goryo5:
-    weight: 0.7619
-    avg_copies: 2.31
+    weight: 0.7727
+    avg_copies: 2.35
   soultrader-combo:
     weight: 1.0
     avg_copies: 2.83
@@ -129,8 +129,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.12
   unknown-47:
-    weight: 0.2222
-    avg_copies: 1.3
+    weight: 0.234
+    avg_copies: 1.32
   unknown-50:
     weight: 1.0
     avg_copies: 2.0
@@ -162,8 +162,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-86:
-    weight: 0.5
-    avg_copies: 3.2
+    weight: 0.5455
+    avg_copies: 3.33
   unknown-78:
     weight: 1.0
     avg_copies: 2.0
@@ -244,7 +244,7 @@ archetypes:
     avg_copies: 2.0
   unknown-177:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.67
   unknown-178:
     weight: 1.0
     avg_copies: 1.0

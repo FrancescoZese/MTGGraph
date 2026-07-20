@@ -6,10 +6,10 @@ name: Emrakul, the Aeons Torn
 scryfall_id: 249db4d4-2542-47ee-a216-e13ffbc2319c
 set: 2x2
 type: Legendary Creature — Eldrazi
-meta_presence: 0.0097
+meta_presence: 0.0096
 archetypes:
   eldrazi-tron:
-    weight: 0.0142
+    weight: 0.014
     avg_copies: 1.4
   mono-blue-tron:
     weight: 0.8571
@@ -21,7 +21,7 @@ archetypes:
     weight: 0.0291
     avg_copies: 1.0
   indomitable-creativity:
-    weight: 0.1429
+    weight: 0.1333
     avg_copies: 1.0
   rakdos-lantern-combo:
     weight: 1.0
@@ -45,7 +45,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-61:
-    weight: 0.0588
+    weight: 0.0526
     avg_copies: 2.0
   unknown-128:
     weight: 1.0

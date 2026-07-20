@@ -8,7 +8,7 @@ name: Professor Dellian Fel
 scryfall_id: 6ff3b4d8-1271-4c5d-8834-7662244f173d
 set: sos
 type: Legendary Planeswalker — Dellian
-meta_presence: 0.0056
+meta_presence: 0.0058
 archetypes:
   samwise-combo:
     weight: 0.0161
@@ -17,8 +17,8 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   goryo5:
-    weight: 0.9524
-    avg_copies: 1.86
+    weight: 0.9545
+    avg_copies: 1.82
   unknown-46:
     weight: 1.0
     avg_copies: 1.62

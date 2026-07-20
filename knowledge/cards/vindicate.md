@@ -8,7 +8,7 @@ name: Vindicate
 scryfall_id: 683c4e13-525c-45c9-8832-bfe67965c34e
 set: mh2
 type: Sorcery
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   esper-blink:
     weight: 0.0097

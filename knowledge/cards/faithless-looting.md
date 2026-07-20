@@ -19,13 +19,13 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   izzet-prowess:
-    weight: 0.0139
+    weight: 0.0137
     avg_copies: 4.0
   indomitable-creativity:
-    weight: 0.2143
+    weight: 0.2
     avg_copies: 4.0
   dredge:
-    weight: 0.96
+    weight: 0.9615
     avg_copies: 4.0
   eldrazi-breach:
     weight: 0.25
@@ -34,7 +34,7 @@ archetypes:
     weight: 0.4737
     avg_copies: 2.56
   cosmogoyf-fling:
-    weight: 0.1176
+    weight: 0.1143
     avg_copies: 3.0
   naya-midrange:
     weight: 1.0

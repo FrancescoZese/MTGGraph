@@ -7,13 +7,13 @@ name: Tasigur, the Golden Fang
 scryfall_id: 175ad810-3cdd-43c7-99a9-8a2e8ad6dbae
 set: tdc
 type: Legendary Creature — Human Shaman
-meta_presence: 0.0058
+meta_presence: 0.0059
 archetypes:
   dimir-control:
     weight: 0.0247
     avg_copies: 2.0
   unknown-47:
-    weight: 0.3333
+    weight: 0.3298
     avg_copies: 1.87
   unknown-51:
     weight: 1.0

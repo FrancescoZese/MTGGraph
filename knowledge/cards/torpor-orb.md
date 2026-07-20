@@ -6,11 +6,11 @@ name: Torpor Orb
 scryfall_id: dbf02a38-d10d-463e-ab99-e7fd848a1bd3
 set: big
 type: Artifact
-meta_presence: 0.0502
+meta_presence: 0.0504
 archetypes:
   eldrazi-tron:
-    weight: 0.8511
-    avg_copies: 1.43
+    weight: 0.8531
+    avg_copies: 1.42
   affinity:
     weight: 0.002
     avg_copies: 1.0
@@ -18,7 +18,7 @@ archetypes:
     weight: 0.0496
     avg_copies: 1.83
   broodscale-combo:
-    weight: 0.0729
+    weight: 0.0726
     avg_copies: 1.39
   rakdos-lantern-combo:
     weight: 1.0
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.0526
     avg_copies: 2.0
   goryo4:
-    weight: 0.5714
+    weight: 0.5455
     avg_copies: 1.92
   unknown-10:
     weight: 0.5

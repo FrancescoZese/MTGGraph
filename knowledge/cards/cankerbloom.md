@@ -7,7 +7,7 @@ name: Cankerbloom
 scryfall_id: 89b39293-6f57-4294-85fc-c718bdbb4d40
 set: one
 type: Creature — Phyrexian Fungus
-meta_presence: 0.0004
+meta_presence: 0.0003
 archetypes:
   yawgmoth-combo:
     weight: 0.0235

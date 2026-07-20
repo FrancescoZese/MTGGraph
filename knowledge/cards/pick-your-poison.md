@@ -16,19 +16,19 @@ archetypes:
     weight: 0.0123
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0868
+    weight: 0.0856
     avg_copies: 1.88
   broodscale-combo:
-    weight: 0.1781
+    weight: 0.1774
     avg_copies: 1.7
   dredge:
-    weight: 0.36
+    weight: 0.3846
     avg_copies: 2.0
   jund-saga:
     weight: 0.25
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.0588
+    weight: 0.0571
     avg_copies: 3.0
   the-rock:
     weight: 0.5

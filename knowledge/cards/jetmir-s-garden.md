@@ -6,10 +6,10 @@ name: Jetmir's Garden
 scryfall_id: 26d40e03-6de4-4373-9fbf-04c1dd79e995
 set: snc
 type: Land — Mountain Forest Plains
-meta_presence: 0.0028
+meta_presence: 0.003
 archetypes:
   indomitable-creativity:
-    weight: 0.7857
+    weight: 0.7333
     avg_copies: 1.0
   scapeshift-combo:
     weight: 0.1667

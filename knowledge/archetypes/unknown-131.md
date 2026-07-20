@@ -7,28 +7,28 @@ name: 'Unknown #131'
 meta_share: 0.0014
 list_count: 8
 top_cards:
-- name: Ocelot Pride
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Polluted Delta
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
 - name: Quantum Riddler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Starfield Shepherd
@@ -106,10 +106,10 @@ top_cards:
 - name: Undercity Sewers
   weight: 0.25
   avg_copies: 1.0
-- name: Prismatic Ending
+- name: Orcish Bowmasters
   weight: 0.125
   avg_copies: 3.0
-- name: Orcish Bowmasters
+- name: Prismatic Ending
   weight: 0.125
   avg_copies: 3.0
 - name: Containment Priest

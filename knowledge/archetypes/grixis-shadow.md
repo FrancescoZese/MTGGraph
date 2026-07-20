@@ -7,25 +7,25 @@ name: Grixis Shadow
 meta_share: 0.0009
 list_count: 5
 top_cards:
-- name: Bloodstained Mire
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Death's Shadow
-  weight: 1.0
-  avg_copies: 4.0
-- name: Street Wraith
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Death's Shadow
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Bloodstained Mire
+  weight: 1.0
+  avg_copies: 4.0
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Moonshadow
@@ -73,10 +73,10 @@ top_cards:
 - name: Expressive Iteration
   weight: 0.6
   avg_copies: 3.33
-- name: Mystical Dispute
+- name: Flusterstorm
   weight: 0.6
   avg_copies: 2.0
-- name: Flusterstorm
+- name: Mystical Dispute
   weight: 0.6
   avg_copies: 2.0
 - name: Nihil Spellbomb
@@ -103,16 +103,16 @@ top_cards:
 - name: Quantum Riddler
   weight: 0.2
   avg_copies: 3.0
-- name: Dauthi Voidwalker
-  weight: 0.2
-  avg_copies: 2.0
-- name: Damping Sphere
-  weight: 0.2
-  avg_copies: 2.0
 - name: Spell Snare
   weight: 0.2
   avg_copies: 2.0
+- name: Dauthi Voidwalker
+  weight: 0.2
+  avg_copies: 2.0
 - name: End of the Hunt
+  weight: 0.2
+  avg_copies: 2.0
+- name: Damping Sphere
   weight: 0.2
   avg_copies: 2.0
 - name: Counterspell

@@ -8,7 +8,7 @@ name: Kethis Combo
 meta_share: 0.0012
 list_count: 7
 top_cards:
-- name: Mox Opal
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Kethis, the Hidden Hand
@@ -23,16 +23,16 @@ top_cards:
 - name: Plaza of Heroes
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
 - name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
-- name: Misty Rainforest
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 3.14
-- name: Malevolent Rumble
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 3.14
 - name: Grinding Station
@@ -44,10 +44,10 @@ top_cards:
 - name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 2.14
-- name: Dismember
+- name: Into the Flood Maw
   weight: 1.0
   avg_copies: 2.0
-- name: Into the Flood Maw
+- name: Dismember
   weight: 1.0
   avg_copies: 2.0
 - name: Flooded Strand
@@ -62,31 +62,31 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.08
-- name: Breeding Pool
-  weight: 1.0
-  avg_copies: 1.0
-- name: Lush Portico
-  weight: 1.0
-  avg_copies: 1.0
-- name: Island
-  weight: 1.0
-  avg_copies: 1.0
 - name: Otawara, Soaring City
-  weight: 1.0
-  avg_copies: 1.0
-- name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.0
-- name: Watery Grave
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 - name: Skateboard
+  weight: 1.0
+  avg_copies: 1.0
+- name: Breeding Pool
+  weight: 1.0
+  avg_copies: 1.0
+- name: Watery Grave
+  weight: 1.0
+  avg_copies: 1.0
+- name: Lush Portico
+  weight: 1.0
+  avg_copies: 1.0
+- name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
 - name: Rona, Herald of Invasion
@@ -113,34 +113,34 @@ top_cards:
 - name: Strix Serenade
   weight: 0.2857
   avg_copies: 1.0
-- name: Nature's Claim
-  weight: 0.1429
-  avg_copies: 2.0
 - name: card:loki-god-of-mischief
   weight: 0.1429
   avg_copies: 2.0
-- name: Nihil Spellbomb
+- name: Nature's Claim
   weight: 0.1429
-  avg_copies: 1.0
-- name: Ashiok, Dream Render
-  weight: 0.1429
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Urza's Ruinous Blast
   weight: 0.1429
   avg_copies: 1.0
 - name: Annul
   weight: 0.1429
   avg_copies: 1.0
-- name: Lluwen, Imperfect Naturalist
+- name: Ashiok, Dream Render
   weight: 0.1429
   avg_copies: 1.0
-- name: Dredger's Insight
+- name: Nihil Spellbomb
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Phelia, Exuberant Shepherd
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Lluwen, Imperfect Naturalist
   weight: 0.1429
   avg_copies: 1.0
 - name: Shadowspear
   weight: 0.1429
   avg_copies: 1.0
-- name: Phelia, Exuberant Shepherd
+- name: Dredger's Insight
   weight: 0.1429
   avg_copies: 1.0
 - name: Ceremonious Rejection

@@ -6,11 +6,11 @@ name: Sacred Foundry
 scryfall_id: 8b4e2642-3c87-4708-b9b4-2e7f7359ac7d
 set: eoe
 type: Land — Mountain Plains
-meta_presence: 0.2694
+meta_presence: 0.2684
 archetypes:
   ruby-storm:
-    weight: 0.9567
-    avg_copies: 1.1
+    weight: 0.9571
+    avg_copies: 1.09
   boros-energy:
     weight: 1.0
     avg_copies: 2.83
@@ -18,7 +18,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.29
   azorius-control:
-    weight: 0.0247
+    weight: 0.0244
     avg_copies: 1.0
   jeskai-control:
     weight: 0.5111
@@ -39,7 +39,7 @@ archetypes:
     weight: 0.9786
     avg_copies: 3.24
   izzet-prowess:
-    weight: 0.0174
+    weight: 0.0171
     avg_copies: 1.0
   4c-omnath:
     weight: 1.0
@@ -48,7 +48,7 @@ archetypes:
     weight: 0.0323
     avg_copies: 1.0
   indomitable-creativity:
-    weight: 0.7857
+    weight: 0.8
     avg_copies: 1.0
   orzhov-blink:
     weight: 0.2
@@ -99,13 +99,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-62:
-    weight: 0.1379
+    weight: 0.1333
     avg_copies: 1.25
   unknown-66:
     weight: 1.0
     avg_copies: 2.0
   unknown-67:
-    weight: 0.0139
+    weight: 0.0137
     avg_copies: 1.0
   unknown-68:
     weight: 1.0
@@ -123,7 +123,7 @@ archetypes:
     weight: 0.8667
     avg_copies: 1.0
   unknown-86:
-    weight: 0.7
+    weight: 0.6364
     avg_copies: 1.57
   unknown-84:
     weight: 0.6667
@@ -208,7 +208,7 @@ archetypes:
     avg_copies: 4.0
   unknown-177:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 3.33
   unknown-183:
     weight: 0.5
     avg_copies: 1.0

@@ -11,7 +11,7 @@ type: Instant
 meta_presence: 0.0035
 archetypes:
   neoform-combo:
-    weight: 0.029
+    weight: 0.0282
     avg_copies: 3.0
   eldrazi-ramp:
     weight: 0.0083
@@ -20,10 +20,10 @@ archetypes:
     weight: 0.1774
     avg_copies: 1.5
   indomitable-creativity:
-    weight: 0.1429
+    weight: 0.1333
     avg_copies: 1.0
   goryo5:
-    weight: 0.0476
+    weight: 0.0455
     avg_copies: 1.0
   soultrader-combo:
     weight: 0.3333

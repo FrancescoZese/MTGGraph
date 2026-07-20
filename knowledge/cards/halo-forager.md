@@ -11,6 +11,6 @@ type: Creature — Faerie Rogue
 meta_presence: 0.0092
 archetypes:
   living-end:
-    weight: 0.7879
+    weight: 0.791
     avg_copies: 1.0
 ---

@@ -7,7 +7,7 @@ name: Life from the Loam
 scryfall_id: cdb6432f-3f56-4c92-b09a-2a5b64620c04
 set: tdc
 type: Sorcery
-meta_presence: 0.0046
+meta_presence: 0.0047
 archetypes:
   eldrazi-tron:
     weight: 0.0035
@@ -16,7 +16,7 @@ archetypes:
     weight: 0.004
     avg_copies: 1.0
   dredge:
-    weight: 0.92
+    weight: 0.9231
     avg_copies: 4.0
   unknown-6:
     weight: 0.1111
