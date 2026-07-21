@@ -4,8 +4,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.03
   neoform-combo:
-    weight: 0.9859
-    avg_copies: 3.91
+    weight: 0.9861
+    avg_copies: 3.92
   mono-green-ramp:
     weight: 1.0
     avg_copies: 3.14

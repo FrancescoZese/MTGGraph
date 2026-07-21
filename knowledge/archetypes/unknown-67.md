@@ -11,10 +11,10 @@ top_cards:
 - name: Subtlety
   weight: 1.0
   avg_copies: 3.97
-- name: Shardless Agent
+- name: Violent Outburst
   weight: 1.0
   avg_copies: 3.96
-- name: Violent Outburst
+- name: Shardless Agent
   weight: 1.0
   avg_copies: 3.96
 - name: Force of Negation
@@ -44,16 +44,16 @@ top_cards:
 - name: Hedge Maze
   weight: 1.0
   avg_copies: 1.05
-- name: Stomping Ground
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
-- name: Forest
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
 - name: Oliphaunt
@@ -179,10 +179,10 @@ top_cards:
 - name: Flooded Grove
   weight: 0.0411
   avg_copies: 1.0
-- name: Windcaller Aven
+- name: Press the Enemy
   weight: 0.0274
   avg_copies: 1.0
-- name: Press the Enemy
+- name: Windcaller Aven
   weight: 0.0274
   avg_copies: 1.0
 - name: Overlord of the Balemurk
@@ -191,61 +191,61 @@ top_cards:
 - name: Architects of Will
   weight: 0.0137
   avg_copies: 3.0
-- name: Fulminator Mage
-  weight: 0.0137
-  avg_copies: 3.0
 - name: Polluted Delta
   weight: 0.0137
   avg_copies: 3.0
-- name: card:anger-of-the-gods
+- name: Fulminator Mage
   weight: 0.0137
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Culling Ritual
   weight: 0.0137
   avg_copies: 2.0
 - name: Bonecrusher Giant
   weight: 0.0137
   avg_copies: 2.0
+- name: card:anger-of-the-gods
+  weight: 0.0137
+  avg_copies: 2.0
 - name: Vendilion Clique
   weight: 0.0137
   avg_copies: 2.0
-- name: Harvester of Misery
-  weight: 0.0137
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.0137
-  avg_copies: 1.0
-- name: Arid Mesa
-  weight: 0.0137
-  avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 0.0137
-  avg_copies: 1.0
-- name: Underground Mortuary
-  weight: 0.0137
-  avg_copies: 1.0
-- name: Overgrown Tomb
+- name: High Noon
   weight: 0.0137
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.0137
   avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Underground Mortuary
   weight: 0.0137
   avg_copies: 1.0
-- name: Ashiok, Dream Render
-  weight: 0.0137
-  avg_copies: 1.0
-- name: High Noon
+- name: Collector Ouphe
   weight: 0.0137
   avg_copies: 1.0
 - name: Tokka & Rahzar, Terrible Twos
   weight: 0.0137
   avg_copies: 1.0
-- name: Brainsurge
+- name: Ashiok, Dream Render
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Arid Mesa
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Gemstone Caverns
   weight: 0.0137
   avg_copies: 1.0
 - name: Kataki, War's Wage
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Meticulous Archive
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Brainsurge
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Overgrown Tomb
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Harvester of Misery
   weight: 0.0137
   avg_copies: 1.0
 ---

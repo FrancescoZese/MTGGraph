@@ -9,10 +9,13 @@ name: 'Unknown #100'
 meta_share: 0.0007
 list_count: 4
 top_cards:
-- name: Leyline of the Guildpact
+- name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
-- name: Scion of Draco
+- name: Lightning Bolt
+  weight: 1.0
+  avg_copies: 4.0
+- name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
@@ -21,16 +24,13 @@ top_cards:
 - name: Leyline Binding
   weight: 1.0
   avg_copies: 4.0
-- name: Territorial Kavu
+- name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
-- name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Wooded Foothills
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 3.75
-- name: Psychic Frog
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 3.75
 - name: Consign to Memory
@@ -45,19 +45,19 @@ top_cards:
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Surgical Extraction
   weight: 1.0
   avg_copies: 1.0
-- name: Wear
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Arena of Glory
+- name: Wear
   weight: 1.0
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Arena of Glory
   weight: 1.0
   avg_copies: 1.0
 - name: Obsidian Charmaw
@@ -66,55 +66,55 @@ top_cards:
 - name: Quantum Riddler
   weight: 0.75
   avg_copies: 2.0
-- name: Fire Magic
+- name: High Noon
   weight: 0.75
   avg_copies: 1.67
-- name: High Noon
+- name: Fire Magic
   weight: 0.75
   avg_copies: 1.67
 - name: Pest Control
   weight: 0.75
   avg_copies: 1.33
-- name: Godless Shrine
+- name: Raucous Theater
   weight: 0.75
   avg_copies: 1.0
 - name: Spara's Headquarters
   weight: 0.75
   avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.75
-  avg_copies: 1.0
 - name: Nihil Spellbomb
   weight: 0.75
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Breeding Pool
   weight: 0.75
   avg_copies: 1.0
-- name: Moonshadow
-  weight: 0.5
-  avg_copies: 4.0
-- name: Arid Mesa
+- name: Godless Shrine
+  weight: 0.75
+  avg_copies: 1.0
+- name: Marsh Flats
   weight: 0.5
   avg_copies: 4.0
 - name: Polluted Delta
   weight: 0.5
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Arid Mesa
   weight: 0.5
   avg_copies: 4.0
-- name: Orcish Bowmasters
+- name: Moonshadow
+  weight: 0.5
+  avg_copies: 4.0
+- name: Practiced Offense
   weight: 0.5
   avg_copies: 2.0
-- name: Practiced Offense
+- name: Orcish Bowmasters
   weight: 0.5
   avg_copies: 2.0
 - name: Vexing Bauble
   weight: 0.5
   avg_copies: 1.5
-- name: Plains
+- name: Temple Garden
   weight: 0.5
   avg_copies: 1.0
-- name: Temple Garden
+- name: Plains
   weight: 0.5
   avg_copies: 1.0
 - name: Bloodstained Mire
@@ -123,49 +123,49 @@ top_cards:
 - name: Scalding Tarn
   weight: 0.25
   avg_copies: 4.0
-- name: Kroxa, Titan of Death's Hunger
-  weight: 0.25
-  avg_copies: 2.0
-- name: Laelia, the Blade Reforged
-  weight: 0.25
-  avg_copies: 2.0
 - name: Damping Sphere
-  weight: 0.25
-  avg_copies: 2.0
-- name: Surge of Salvation
   weight: 0.25
   avg_copies: 2.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.25
   avg_copies: 2.0
-- name: Indatha Triome
+- name: Kroxa, Titan of Death's Hunger
   weight: 0.25
-  avg_copies: 1.0
-- name: Island
+  avg_copies: 2.0
+- name: Surge of Salvation
   weight: 0.25
-  avg_copies: 1.0
-- name: Swamp
+  avg_copies: 2.0
+- name: Laelia, the Blade Reforged
   weight: 0.25
-  avg_copies: 1.0
-- name: Rest in Peace
+  avg_copies: 2.0
+- name: Thundering Falls
   weight: 0.25
   avg_copies: 1.0
 - name: Hidetsugu Consumes All
   weight: 0.25
   avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 0.25
+  avg_copies: 1.0
+- name: Island
+  weight: 0.25
+  avg_copies: 1.0
+- name: Indatha Triome
+  weight: 0.25
+  avg_copies: 1.0
 - name: Hallowed Fountain
-  weight: 0.25
-  avg_copies: 1.0
-- name: Watery Grave
-  weight: 0.25
-  avg_copies: 1.0
-- name: Thundering Falls
   weight: 0.25
   avg_copies: 1.0
 - name: Overgrown Tomb
   weight: 0.25
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Rest in Peace
+  weight: 0.25
+  avg_copies: 1.0
+- name: Watery Grave
+  weight: 0.25
+  avg_copies: 1.0
+- name: Swamp
   weight: 0.25
   avg_copies: 1.0
 ---

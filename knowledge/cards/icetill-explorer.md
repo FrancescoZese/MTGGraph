@@ -16,8 +16,8 @@ archetypes:
     weight: 0.0235
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.7934
-    avg_copies: 2.42
+    weight: 0.7869
+    avg_copies: 2.41
   samwise-combo:
     weight: 0.0161
     avg_copies: 1.0
@@ -37,7 +37,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-61:
-    weight: 0.0263
+    weight: 0.025
     avg_copies: 1.0
   unknown-76:
     weight: 0.3333
@@ -46,7 +46,7 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   unknown-97:
-    weight: 0.2727
+    weight: 0.3333
     avg_copies: 2.0
   unknown-130:
     weight: 1.0

@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: 'Unknown #47'
-meta_share: 0.0164
+meta_share: 0.0163
 list_count: 94
 top_cards:
 - name: Psychic Frog
@@ -27,10 +27,10 @@ top_cards:
 - name: Subtlety
   weight: 1.0
   avg_copies: 2.57
-- name: Watery Grave
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.26
-- name: Mystical Dispute
+- name: Watery Grave
   weight: 1.0
   avg_copies: 2.26
 - name: Spell Snare
@@ -138,10 +138,10 @@ top_cards:
 - name: The Meathook Massacre
   weight: 0.0745
   avg_copies: 1.14
-- name: Meticulous Archive
+- name: Hallowed Fountain
   weight: 0.0745
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Meticulous Archive
   weight: 0.0745
   avg_copies: 1.0
 - name: Pest Control
@@ -162,10 +162,10 @@ top_cards:
 - name: Verdant Catacombs
   weight: 0.0426
   avg_copies: 1.25
-- name: Teferi, Time Raveler
+- name: Damnation
   weight: 0.0426
   avg_copies: 1.0
-- name: Damnation
+- name: Teferi, Time Raveler
   weight: 0.0426
   avg_copies: 1.0
 - name: Flow State
@@ -180,13 +180,13 @@ top_cards:
 - name: Dress Down
   weight: 0.0319
   avg_copies: 1.2
-- name: Stony Silence
+- name: Snow-Covered Swamp
   weight: 0.0319
   avg_copies: 1.0
 - name: Spell Pierce
   weight: 0.0319
   avg_copies: 1.0
-- name: Snow-Covered Swamp
+- name: Stony Silence
   weight: 0.0319
   avg_copies: 1.0
 - name: Break the Ice
@@ -195,49 +195,49 @@ top_cards:
 - name: card:the-wondrous-wasp
   weight: 0.0213
   avg_copies: 2.0
+- name: Thundering Falls
+  weight: 0.0213
+  avg_copies: 1.0
 - name: Steam Vents
   weight: 0.0213
   avg_copies: 1.0
 - name: Umezawa's Jitte
   weight: 0.0213
   avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.0213
-  avg_copies: 1.0
-- name: Fire Magic
-  weight: 0.0106
-  avg_copies: 2.0
 - name: Meltdown
   weight: 0.0106
   avg_copies: 2.0
 - name: Void Mirror
   weight: 0.0106
   avg_copies: 2.0
-- name: Murderous Cut
+- name: Fire Magic
   weight: 0.0106
-  avg_copies: 1.0
-- name: Snapcaster Mage
-  weight: 0.0106
-  avg_copies: 1.0
-- name: Brazen Borrower
-  weight: 0.0106
-  avg_copies: 1.0
-- name: Celestial Purge
+  avg_copies: 2.0
+- name: High Noon
   weight: 0.0106
   avg_copies: 1.0
 - name: Dreams of Steel and Oil
   weight: 0.0106
   avg_copies: 1.0
+- name: Snapcaster Mage
+  weight: 0.0106
+  avg_copies: 1.0
+- name: Strategic Betrayal
+  weight: 0.0106
+  avg_copies: 1.0
 - name: Fallen Shinobi
   weight: 0.0106
   avg_copies: 1.0
-- name: High Noon
+- name: Brazen Borrower
   weight: 0.0106
   avg_copies: 1.0
 - name: River of Tears
   weight: 0.0106
   avg_copies: 1.0
-- name: Strategic Betrayal
+- name: Celestial Purge
+  weight: 0.0106
+  avg_copies: 1.0
+- name: Murderous Cut
   weight: 0.0106
   avg_copies: 1.0
 ---

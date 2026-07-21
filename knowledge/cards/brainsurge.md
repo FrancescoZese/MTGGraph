@@ -16,10 +16,10 @@ archetypes:
     weight: 0.0149
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.0444
+    weight: 0.0426
     avg_copies: 2.0
   neoform-combo:
-    weight: 0.0141
+    weight: 0.0139
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.0667

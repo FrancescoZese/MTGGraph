@@ -6,7 +6,7 @@ name: Flooded Strand
 scryfall_id: 8f85e12c-196b-4459-b81f-0c9c854e9f57
 set: mh3
 type: Land
-meta_presence: 0.3498
+meta_presence: 0.3497
 archetypes:
   boros-energy:
     weight: 0.8578
@@ -19,7 +19,7 @@ archetypes:
     avg_copies: 3.87
   goryo:
     weight: 0.9932
-    avg_copies: 3.42
+    avg_copies: 3.43
   azorius-control:
     weight: 1.0
     avg_copies: 3.93
@@ -30,7 +30,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.91
   affinity:
-    weight: 0.0183
+    weight: 0.0182
     avg_copies: 1.89
   domain-zoo:
     weight: 0.984
@@ -42,7 +42,7 @@ archetypes:
     weight: 0.037
     avg_copies: 4.0
   neoform-combo:
-    weight: 0.6479
+    weight: 0.6528
     avg_copies: 1.17
   hammer-time:
     weight: 0.8462
@@ -51,7 +51,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.86
   simic-ritual:
-    weight: 0.0988
+    weight: 0.0976
     avg_copies: 1.5
   izzet-prowess:
     weight: 0.0068
@@ -69,8 +69,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.9508
-    avg_copies: 2.97
+    weight: 0.9516
+    avg_copies: 2.98
   izzet-artifacts:
     weight: 0.25
     avg_copies: 1.0
@@ -117,7 +117,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.5
   unknown-15:
-    weight: 0.2727
+    weight: 0.25
     avg_copies: 1.67
   unknown-16:
     weight: 1.0

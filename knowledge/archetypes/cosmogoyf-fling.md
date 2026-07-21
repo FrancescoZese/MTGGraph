@@ -13,10 +13,10 @@ top_cards:
 - name: Plunge into Darkness
   weight: 1.0
   avg_copies: 3.94
-- name: Gemstone Caverns
+- name: Spoils of the Vault
   weight: 1.0
   avg_copies: 3.91
-- name: Spoils of the Vault
+- name: Gemstone Caverns
   weight: 1.0
   avg_copies: 3.91
 - name: Blackcleave Cliffs
@@ -151,22 +151,22 @@ top_cards:
 - name: Sorin, Imperious Bloodlord
   weight: 0.0286
   avg_copies: 3.0
-- name: Death's Shadow
-  weight: 0.0286
-  avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.0286
   avg_copies: 2.0
-- name: Disruptor Flute
+- name: Death's Shadow
+  weight: 0.0286
+  avg_copies: 2.0
+- name: Meltdown
   weight: 0.0286
   avg_copies: 1.0
-- name: Kaheera, the Orphanguard
+- name: Disruptor Flute
   weight: 0.0286
   avg_copies: 1.0
 - name: Mountain
   weight: 0.0286
   avg_copies: 1.0
-- name: Meltdown
+- name: Kaheera, the Orphanguard
   weight: 0.0286
   avg_copies: 1.0
 ---

@@ -6,22 +6,22 @@ name: 'Unknown #16'
 meta_share: 0.001
 list_count: 6
 top_cards:
-- name: Orim's Chant
+- name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 4.0
-- name: Narset, Parter of Veils
+- name: Orim's Chant
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Teferi, Time Raveler
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 4.0
 - name: Thundertrap Trainer
   weight: 1.0
   avg_copies: 4.0
-- name: Mystical Dispute
+- name: Narset, Parter of Veils
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
@@ -42,19 +42,19 @@ top_cards:
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 2.67
-- name: Plains
-  weight: 1.0
-  avg_copies: 2.0
-- name: Island
+- name: High Noon
   weight: 1.0
   avg_copies: 2.0
 - name: Day's Undoing
   weight: 1.0
   avg_copies: 2.0
-- name: High Noon
+- name: Plains
   weight: 1.0
   avg_copies: 2.0
 - name: Sink into Stupor
+  weight: 1.0
+  avg_copies: 2.0
+- name: Island
   weight: 1.0
   avg_copies: 2.0
 - name: Hallowed Fountain
@@ -66,10 +66,10 @@ top_cards:
 - name: Supreme Verdict
   weight: 1.0
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Prismatic Ending
@@ -99,10 +99,10 @@ top_cards:
 - name: Wrath of the Skies
   weight: 0.1667
   avg_copies: 2.0
-- name: Elegant Parlor
+- name: Monumental Henge
   weight: 0.1667
   avg_copies: 1.0
-- name: Monumental Henge
+- name: Thundering Falls
   weight: 0.1667
   avg_copies: 1.0
 - name: Isochron Scepter
@@ -111,7 +111,7 @@ top_cards:
 - name: Geier Reach Sanitarium
   weight: 0.1667
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Elegant Parlor
   weight: 0.1667
   avg_copies: 1.0
 ---

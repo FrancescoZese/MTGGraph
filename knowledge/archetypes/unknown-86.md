@@ -5,13 +5,7 @@ name: 'Unknown #86'
 meta_share: 0.0019
 list_count: 11
 top_cards:
-- name: Dragon's Rage Channeler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Lava Spike
-  weight: 1.0
-  avg_copies: 4.0
-- name: Cori-Steel Cutter
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Boltwave
@@ -20,7 +14,13 @@ top_cards:
 - name: Monastery Swiftspear
   weight: 1.0
   avg_copies: 4.0
-- name: Lightning Bolt
+- name: Dragon's Rage Channeler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lava Spike
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
@@ -32,10 +32,10 @@ top_cards:
 - name: Barbarian Ring
   weight: 1.0
   avg_copies: 3.73
-- name: Light Up the Stage
+- name: Skewer the Critics
   weight: 1.0
   avg_copies: 3.64
-- name: Skewer the Critics
+- name: Light Up the Stage
   weight: 1.0
   avg_copies: 3.64
 - name: Tormod's Crypt
@@ -53,10 +53,10 @@ top_cards:
 - name: Unholy Heat
   weight: 0.6364
   avg_copies: 3.57
-- name: Arid Mesa
+- name: Scalding Tarn
   weight: 0.6364
   avg_copies: 2.57
-- name: Scalding Tarn
+- name: Arid Mesa
   weight: 0.6364
   avg_copies: 2.57
 - name: Wear
@@ -65,10 +65,10 @@ top_cards:
 - name: Sacred Foundry
   weight: 0.6364
   avg_copies: 1.57
-- name: Wooded Foothills
+- name: Bloodstained Mire
   weight: 0.5455
   avg_copies: 3.33
-- name: Bloodstained Mire
+- name: Wooded Foothills
   weight: 0.5455
   avg_copies: 3.33
 - name: Ragavan, Nimble Pilferer
@@ -116,28 +116,28 @@ top_cards:
 - name: Smash to Smithereens
   weight: 0.0909
   avg_copies: 3.0
-- name: Vexing Bauble
+- name: Magebane Lizard
   weight: 0.0909
   avg_copies: 2.0
 - name: Path to Exile
   weight: 0.0909
   avg_copies: 2.0
-- name: Gut Shot
-  weight: 0.0909
-  avg_copies: 2.0
-- name: Magebane Lizard
+- name: Vexing Bauble
   weight: 0.0909
   avg_copies: 2.0
 - name: Boros Charm
   weight: 0.0909
   avg_copies: 2.0
+- name: Gut Shot
+  weight: 0.0909
+  avg_copies: 2.0
+- name: Engineered Explosives
+  weight: 0.0909
+  avg_copies: 1.0
 - name: Prismatic Ending
   weight: 0.0909
   avg_copies: 1.0
 - name: Sokenzan, Crucible of Defiance
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Engineered Explosives
   weight: 0.0909
   avg_copies: 1.0
 ---

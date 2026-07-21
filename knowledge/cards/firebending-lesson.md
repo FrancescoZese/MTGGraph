@@ -13,7 +13,7 @@ archetypes:
     weight: 0.008
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0165
+    weight: 0.0164
     avg_copies: 1.0
   izzet-prowess:
     weight: 0.0616

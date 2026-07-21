@@ -6,16 +6,16 @@ name: 'Unknown #1'
 meta_share: 0.0017
 list_count: 10
 top_cards:
-- name: Faithless Looting
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
-- name: Archon of Cruelty
+- name: Bloodghast
   weight: 1.0
   avg_copies: 4.0
 - name: Flare of Malice
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodghast
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Stitcher's Supplier
@@ -24,10 +24,10 @@ top_cards:
 - name: Persist
   weight: 1.0
   avg_copies: 3.8
-- name: Blood Crypt
+- name: Rakdos Charm
   weight: 1.0
   avg_copies: 3.0
-- name: Rakdos Charm
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 3.0
 - name: Vexing Bauble
@@ -39,16 +39,16 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 2.1
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 2.0
-- name: Swamp
-  weight: 1.0
-  avg_copies: 2.0
 - name: Brotherhood's End
   weight: 1.0
   avg_copies: 2.0
 - name: Village Rites
+  weight: 1.0
+  avg_copies: 2.0
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 2.0
+- name: Swamp
   weight: 1.0
   avg_copies: 2.0
 - name: Corrupted Conviction
@@ -63,10 +63,10 @@ top_cards:
 - name: End the Festivities
   weight: 1.0
   avg_copies: 1.2
-- name: Wooded Foothills
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.0
-- name: Bloodstained Mire
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 1.0
 - name: Spymaster's Vault
@@ -114,10 +114,10 @@ top_cards:
 - name: Living End
   weight: 0.2
   avg_copies: 3.5
-- name: Flashback
+- name: Blood Moon
   weight: 0.2
   avg_copies: 2.0
-- name: Blood Moon
+- name: Flashback
   weight: 0.2
   avg_copies: 2.0
 - name: Lightning Skelemental
@@ -132,7 +132,7 @@ top_cards:
 - name: card:thunderkin-awakener
   weight: 0.1
   avg_copies: 3.0
-- name: Veil of Summer
+- name: Unearth
   weight: 0.1
   avg_copies: 2.0
 - name: Seasoned Pyromancer
@@ -141,7 +141,7 @@ top_cards:
 - name: Overgrown Tomb
   weight: 0.1
   avg_copies: 2.0
-- name: Unearth
+- name: Veil of Summer
   weight: 0.1
   avg_copies: 2.0
 - name: Ob Nixilis, the Adversary

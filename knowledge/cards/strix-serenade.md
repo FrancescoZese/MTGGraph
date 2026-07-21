@@ -25,7 +25,7 @@ archetypes:
     weight: 0.0122
     avg_copies: 1.0
   affinity:
-    weight: 0.2272
+    weight: 0.2287
     avg_copies: 1.11
   domain-zoo:
     weight: 0.04
@@ -40,7 +40,7 @@ archetypes:
     weight: 0.2857
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0413
+    weight: 0.041
     avg_copies: 1.6
   esper-blink:
     weight: 0.0485
@@ -49,7 +49,7 @@ archetypes:
     weight: 0.2
     avg_copies: 1.67
   azorius-blink:
-    weight: 0.0984
+    weight: 0.0968
     avg_copies: 1.25
   izzet-artifacts:
     weight: 0.6562
@@ -70,7 +70,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-15:
-    weight: 0.3636
+    weight: 0.3333
     avg_copies: 1.0
   unknown-70:
     weight: 0.0588
@@ -79,7 +79,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-97:
-    weight: 0.3636
+    weight: 0.3333
     avg_copies: 2.25
   unknown-167:
     weight: 0.4

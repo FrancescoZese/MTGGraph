@@ -92,19 +92,19 @@ top_cards:
 - name: Mistcaller
   weight: 0.0909
   avg_copies: 3.0
+- name: Glasspool Mimic
+  weight: 0.0909
+  avg_copies: 2.0
 - name: Spell Pierce
   weight: 0.0909
   avg_copies: 2.0
 - name: Hurkyl's Recall
   weight: 0.0909
   avg_copies: 2.0
-- name: Glasspool Mimic
-  weight: 0.0909
-  avg_copies: 2.0
-- name: Gloomlake Verge
+- name: Oboro, Palace in the Clouds
   weight: 0.0909
   avg_copies: 1.0
-- name: Oboro, Palace in the Clouds
+- name: Gloomlake Verge
   weight: 0.0909
   avg_copies: 1.0
 ---

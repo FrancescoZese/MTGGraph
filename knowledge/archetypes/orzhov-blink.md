@@ -6,13 +6,13 @@ name: Orzhov Blink
 meta_share: 0.0017
 list_count: 10
 top_cards:
-- name: Overlord of the Balemurk
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
 - name: Fatal Push
@@ -87,10 +87,10 @@ top_cards:
 - name: Flooded Strand
   weight: 0.5
   avg_copies: 2.6
-- name: Dawnbringer Cleric
+- name: Prismatic Ending
   weight: 0.3
   avg_copies: 2.0
-- name: Prismatic Ending
+- name: Dawnbringer Cleric
   weight: 0.3
   avg_copies: 2.0
 - name: Sheoldred's Edict
@@ -117,6 +117,9 @@ top_cards:
 - name: Polluted Delta
   weight: 0.2
   avg_copies: 1.5
+- name: Sacred Foundry
+  weight: 0.2
+  avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
   weight: 0.2
   avg_copies: 1.0
@@ -126,55 +129,52 @@ top_cards:
 - name: March of Otherworldly Light
   weight: 0.2
   avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 0.2
-  avg_copies: 1.0
 - name: Orim's Chant
   weight: 0.1
   avg_copies: 4.0
 - name: Aether Vial
   weight: 0.1
   avg_copies: 4.0
-- name: Force of Despair
-  weight: 0.1
-  avg_copies: 3.0
 - name: Deafening Silence
   weight: 0.1
   avg_copies: 3.0
+- name: Force of Despair
+  weight: 0.1
+  avg_copies: 3.0
+- name: End of the Hunt
+  weight: 0.1
+  avg_copies: 2.0
+- name: Bloodstained Mire
+  weight: 0.1
+  avg_copies: 2.0
 - name: Duress
   weight: 0.1
   avg_copies: 2.0
 - name: Troll of Khazad-dûm
   weight: 0.1
   avg_copies: 2.0
-- name: End of the Hunt
-  weight: 0.1
-  avg_copies: 2.0
 - name: Windswept Heath
   weight: 0.1
   avg_copies: 2.0
-- name: Bloodstained Mire
+- name: Monumental Henge
   weight: 0.1
-  avg_copies: 2.0
+  avg_copies: 1.0
+- name: Raucous Theater
+  weight: 0.1
+  avg_copies: 1.0
 - name: Aven Interrupter
-  weight: 0.1
-  avg_copies: 1.0
-- name: Eiganjo, Seat of the Empire
-  weight: 0.1
-  avg_copies: 1.0
-- name: Vindicate
   weight: 0.1
   avg_copies: 1.0
 - name: card:cloak-and-dagger-entwined
   weight: 0.1
   avg_copies: 1.0
-- name: Monumental Henge
+- name: Vindicate
   weight: 0.1
   avg_copies: 1.0
 - name: Emptiness
   weight: 0.1
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Eiganjo, Seat of the Empire
   weight: 0.1
   avg_copies: 1.0
 ---

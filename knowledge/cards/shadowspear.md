@@ -12,7 +12,7 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   affinity:
-    weight: 0.9878
+    weight: 0.9879
     avg_copies: 1.0
   hammer-time:
     weight: 1.0
@@ -42,7 +42,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-15:
-    weight: 0.2727
+    weight: 0.3333
     avg_copies: 1.0
   unknown-21:
     weight: 1.0

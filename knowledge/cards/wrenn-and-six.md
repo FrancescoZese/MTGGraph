@@ -14,7 +14,7 @@ archetypes:
     weight: 0.0075
     avg_copies: 3.0
   eldrazi-ramp:
-    weight: 0.0083
+    weight: 0.0082
     avg_copies: 2.0
   4c-omnath:
     weight: 0.25

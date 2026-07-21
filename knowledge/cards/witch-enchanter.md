@@ -6,7 +6,7 @@ name: Witch Enchanter // Witch-Blessed Meadow
 scryfall_id: 62061e7c-cf19-4f03-b8fa-2bdba62d6b0b
 set: mh3
 type: Creature — Human Warlock // Land
-meta_presence: 0.0593
+meta_presence: 0.0592
 archetypes:
   boros-energy:
     weight: 0.045
@@ -39,8 +39,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.4
   azorius-blink:
-    weight: 0.8852
-    avg_copies: 3.58
+    weight: 0.8871
+    avg_copies: 3.59
   goryo0:
     weight: 1.0
     avg_copies: 3.71

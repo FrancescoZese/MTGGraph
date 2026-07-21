@@ -60,10 +60,10 @@ top_cards:
 - name: Formidable Speaker
   weight: 1.0
   avg_copies: 1.04
-- name: Dryad Arbor
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
 - name: Force of Vigor
@@ -135,10 +135,10 @@ top_cards:
 - name: Damping Sphere
   weight: 0.1647
   avg_copies: 1.07
-- name: Kraul Harpooner
+- name: Murderous Cut
   weight: 0.1176
   avg_copies: 1.0
-- name: Murderous Cut
+- name: Kraul Harpooner
   weight: 0.1176
   avg_copies: 1.0
 - name: Witherbloom Charm
@@ -162,13 +162,7 @@ top_cards:
 - name: Crime
   weight: 0.0353
   avg_copies: 1.0
-- name: Icetill Explorer
-  weight: 0.0235
-  avg_copies: 1.0
 - name: card:mole-man-moloid-master
-  weight: 0.0235
-  avg_copies: 1.0
-- name: Cankerbloom
   weight: 0.0235
   avg_copies: 1.0
 - name: Ghost Quarter
@@ -177,13 +171,22 @@ top_cards:
 - name: Assassin's Trophy
   weight: 0.0235
   avg_copies: 1.0
-- name: card:wastewood-verge
-  weight: 0.0118
-  avg_copies: 2.0
+- name: Cankerbloom
+  weight: 0.0235
+  avg_copies: 1.0
+- name: Icetill Explorer
+  weight: 0.0235
+  avg_copies: 1.0
 - name: Tourach, Dread Cantor
   weight: 0.0118
   avg_copies: 2.0
-- name: Nurturing Peatland
+- name: card:wastewood-verge
+  weight: 0.0118
+  avg_copies: 2.0
+- name: Creeping Corrosion
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Disciple of Freyalise
   weight: 0.0118
   avg_copies: 1.0
 - name: Collector Ouphe
@@ -192,25 +195,22 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.0118
   avg_copies: 1.0
-- name: Vicious Rivalry
-  weight: 0.0118
-  avg_copies: 1.0
-- name: Creeping Corrosion
-  weight: 0.0118
-  avg_copies: 1.0
-- name: Fade from History
-  weight: 0.0118
-  avg_copies: 1.0
-- name: Disciple of Freyalise
-  weight: 0.0118
-  avg_copies: 1.0
-- name: Chomping Changeling
+- name: Sylvan Safekeeper
   weight: 0.0118
   avg_copies: 1.0
 - name: Spore Frog
   weight: 0.0118
   avg_copies: 1.0
-- name: Sylvan Safekeeper
+- name: Vicious Rivalry
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Nurturing Peatland
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Fade from History
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Chomping Changeling
   weight: 0.0118
   avg_copies: 1.0
 ---

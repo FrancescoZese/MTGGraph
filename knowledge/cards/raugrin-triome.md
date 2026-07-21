@@ -9,7 +9,7 @@ type: Land — Island Mountain Plains
 meta_presence: 0.0023
 archetypes:
   jeskai-control:
-    weight: 0.0222
+    weight: 0.0213
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.0667

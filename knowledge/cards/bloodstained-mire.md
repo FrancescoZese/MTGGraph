@@ -36,7 +36,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.56
   simic-ritual:
-    weight: 0.0123
+    weight: 0.0122
     avg_copies: 1.0
   izzet-prowess:
     weight: 0.9418
@@ -72,7 +72,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.74
   goryo5:
-    weight: 0.7727
+    weight: 0.7391
     avg_copies: 2.35
   soultrader-combo:
     weight: 1.0
@@ -153,8 +153,8 @@ archetypes:
     weight: 0.9474
     avg_copies: 2.19
   unknown-69:
-    weight: 0.8571
-    avg_copies: 1.5
+    weight: 0.875
+    avg_copies: 1.43
   unknown-71:
     weight: 1.0
     avg_copies: 2.0
@@ -172,7 +172,7 @@ archetypes:
     avg_copies: 1.5
   unknown-96:
     weight: 1.0
-    avg_copies: 3.67
+    avg_copies: 3.59
   unknown-91:
     weight: 1.0
     avg_copies: 2.0
@@ -184,7 +184,7 @@ archetypes:
     avg_copies: 4.0
   unknown-101:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.29
   unknown-105:
     weight: 1.0
     avg_copies: 1.0

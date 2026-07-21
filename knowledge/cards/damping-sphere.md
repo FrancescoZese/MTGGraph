@@ -21,7 +21,7 @@ archetypes:
     weight: 0.021
     avg_copies: 1.0
   goryo:
-    weight: 0.1301
+    weight: 0.1288
     avg_copies: 1.74
   hardened-scales:
     weight: 1.0
@@ -36,10 +36,10 @@ archetypes:
     weight: 0.5672
     avg_copies: 1.03
   jeskai-control:
-    weight: 0.1556
+    weight: 0.1489
     avg_copies: 1.71
   affinity:
-    weight: 0.9533
+    weight: 0.9534
     avg_copies: 2.19
   domain-zoo:
     weight: 0.592
@@ -69,10 +69,10 @@ archetypes:
     weight: 0.1647
     avg_copies: 1.07
   eldrazi-ramp:
-    weight: 0.0248
+    weight: 0.0246
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.1728
+    weight: 0.1707
     avg_copies: 1.93
   4c-omnath:
     weight: 0.25
@@ -93,7 +93,7 @@ archetypes:
     weight: 0.0385
     avg_copies: 2.0
   azorius-blink:
-    weight: 0.0328
+    weight: 0.0323
     avg_copies: 1.0
   elves:
     weight: 1.0
@@ -138,7 +138,7 @@ archetypes:
     weight: 0.4091
     avg_copies: 2.33
   goryo5:
-    weight: 0.6364
+    weight: 0.6522
     avg_copies: 1.93
   goryo7:
     weight: 1.0
@@ -162,7 +162,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-15:
-    weight: 0.1818
+    weight: 0.25
     avg_copies: 1.0
   unknown-21:
     weight: 1.0
@@ -213,7 +213,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-61:
-    weight: 0.0526
+    weight: 0.05
     avg_copies: 2.0
   unknown-54:
     weight: 1.0
@@ -225,7 +225,7 @@ archetypes:
     weight: 0.1316
     avg_copies: 2.0
   unknown-69:
-    weight: 0.2857
+    weight: 0.375
     avg_copies: 2.0
   unknown-72:
     weight: 1.0
@@ -252,13 +252,13 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   unknown-96:
-    weight: 0.2667
+    weight: 0.3529
     avg_copies: 2.0
   unknown-90:
     weight: 1.0
     avg_copies: 2.0
   unknown-97:
-    weight: 0.0909
+    weight: 0.0833
     avg_copies: 2.0
   unknown-98:
     weight: 0.875
@@ -270,7 +270,7 @@ archetypes:
     weight: 0.25
     avg_copies: 2.0
   unknown-101:
-    weight: 0.5
+    weight: 0.4286
     avg_copies: 3.67
   unknown-103:
     weight: 1.0
@@ -288,7 +288,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-126:
-    weight: 0.75
+    weight: 0.72
     avg_copies: 1.22
   unknown-130:
     weight: 1.0

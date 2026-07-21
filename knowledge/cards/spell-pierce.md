@@ -15,6 +15,9 @@ archetypes:
   mono-blue-belcher:
     weight: 0.1728
     avg_copies: 1.0
+  goryo:
+    weight: 0.0034
+    avg_copies: 1.0
   affinity:
     weight: 0.002
     avg_copies: 1.0
@@ -40,8 +43,8 @@ archetypes:
     weight: 0.0769
     avg_copies: 1.5
   azorius-blink:
-    weight: 0.082
-    avg_copies: 1.5
+    weight: 0.0968
+    avg_copies: 1.56
   izzet-artifacts:
     weight: 0.0312
     avg_copies: 2.0

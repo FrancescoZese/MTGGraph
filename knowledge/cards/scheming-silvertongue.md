@@ -10,6 +10,6 @@ type: Creature — Vampire Warlock // Sorcery
 meta_presence: 0.0002
 archetypes:
   goryo5:
-    weight: 0.0455
+    weight: 0.0435
     avg_copies: 1.0
 ---

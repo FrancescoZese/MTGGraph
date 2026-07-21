@@ -28,7 +28,7 @@ archetypes:
     weight: 0.0122
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.0889
+    weight: 0.0851
     avg_copies: 1.0
   domain-zoo:
     weight: 0.04
@@ -49,10 +49,10 @@ archetypes:
     weight: 0.0357
     avg_copies: 1.4
   eldrazi-ramp:
-    weight: 0.0744
+    weight: 0.0738
     avg_copies: 1.22
   simic-ritual:
-    weight: 0.0494
+    weight: 0.0488
     avg_copies: 3.0
   izzet-prowess:
     weight: 0.9349
@@ -172,8 +172,8 @@ archetypes:
     weight: 0.8182
     avg_copies: 2.56
   unknown-96:
-    weight: 0.6
-    avg_copies: 2.67
+    weight: 0.6471
+    avg_copies: 2.73
   unknown-90:
     weight: 1.0
     avg_copies: 1.0
@@ -182,7 +182,7 @@ archetypes:
     avg_copies: 1.8
   unknown-101:
     weight: 1.0
-    avg_copies: 2.5
+    avg_copies: 2.57
   unknown-104:
     weight: 1.0
     avg_copies: 1.0

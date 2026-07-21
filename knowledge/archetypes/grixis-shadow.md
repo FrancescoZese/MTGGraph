@@ -10,22 +10,22 @@ top_cards:
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
-- name: Death's Shadow
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodstained Mire
-  weight: 1.0
-  avg_copies: 4.0
-- name: Street Wraith
+- name: Death's Shadow
   weight: 1.0
   avg_copies: 4.0
 - name: Moonshadow
@@ -64,10 +64,10 @@ top_cards:
 - name: Pyroclasm
   weight: 0.8
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Meltdown
   weight: 0.8
   avg_copies: 1.75
-- name: Meltdown
+- name: Vexing Bauble
   weight: 0.8
   avg_copies: 1.75
 - name: Expressive Iteration
@@ -91,25 +91,25 @@ top_cards:
 - name: Undercity Sewers
   weight: 0.4
   avg_copies: 1.0
-- name: Nethergoyf
-  weight: 0.2
-  avg_copies: 4.0
 - name: Flow State
   weight: 0.2
   avg_copies: 4.0
-- name: Murktide Regent
+- name: Nethergoyf
+  weight: 0.2
+  avg_copies: 4.0
+- name: Quantum Riddler
   weight: 0.2
   avg_copies: 3.0
-- name: Quantum Riddler
+- name: Murktide Regent
   weight: 0.2
   avg_copies: 3.0
 - name: Spell Snare
   weight: 0.2
   avg_copies: 2.0
-- name: Dauthi Voidwalker
+- name: End of the Hunt
   weight: 0.2
   avg_copies: 2.0
-- name: End of the Hunt
+- name: Dauthi Voidwalker
   weight: 0.2
   avg_copies: 2.0
 - name: Damping Sphere
@@ -124,13 +124,13 @@ top_cards:
 - name: Force of Despair
   weight: 0.2
   avg_copies: 1.0
-- name: Kaito, Bane of Nightmares
+- name: Engineered Explosives
   weight: 0.2
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.2
   avg_copies: 1.0
-- name: Engineered Explosives
+- name: Kaito, Bane of Nightmares
   weight: 0.2
   avg_copies: 1.0
 ---

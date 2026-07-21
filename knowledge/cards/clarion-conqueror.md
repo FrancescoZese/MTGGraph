@@ -31,8 +31,8 @@ archetypes:
     weight: 0.6
     avg_copies: 2.17
   azorius-blink:
-    weight: 0.5082
-    avg_copies: 1.83
+    weight: 0.5161
+    avg_copies: 1.86
   selesnya-midrange:
     weight: 1.0
     avg_copies: 2.0

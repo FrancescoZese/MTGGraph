@@ -2,7 +2,7 @@
 colors:
 - G
 name: Broodscale Combo
-meta_share: 0.0432
+meta_share: 0.0431
 list_count: 248
 top_cards:
 - name: Malevolent Rumble
@@ -179,10 +179,10 @@ top_cards:
 - name: Force of Vigor
   weight: 0.0363
   avg_copies: 1.44
-- name: Karplusan Forest
+- name: Fire Magic
   weight: 0.0282
   avg_copies: 2.14
-- name: Fire Magic
+- name: Karplusan Forest
   weight: 0.0282
   avg_copies: 2.14
 - name: Blasphemous Act
@@ -203,10 +203,10 @@ top_cards:
 - name: card:llanowar-wastes
   weight: 0.0121
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Sephiroth, Fabled SOLDIER
   weight: 0.0121
   avg_copies: 3.0
-- name: Sephiroth, Fabled SOLDIER
+- name: Thoughtseize
   weight: 0.0121
   avg_copies: 3.0
 - name: Drowner of Truth
@@ -224,28 +224,28 @@ top_cards:
 - name: Talisman of Impulse
   weight: 0.0121
   avg_copies: 1.33
-- name: Nurturing Peatland
-  weight: 0.0121
-  avg_copies: 1.0
 - name: Underground Mortuary
-  weight: 0.0121
-  avg_copies: 1.0
-- name: Overgrown Tomb
   weight: 0.0121
   avg_copies: 1.0
 - name: Shadowspear
   weight: 0.0121
   avg_copies: 1.0
+- name: Nurturing Peatland
+  weight: 0.0121
+  avg_copies: 1.0
+- name: Overgrown Tomb
+  weight: 0.0121
+  avg_copies: 1.0
 - name: Revitalizing Repast
   weight: 0.0081
   avg_copies: 2.5
-- name: Snow-Covered Forest
-  weight: 0.0081
-  avg_copies: 2.0
 - name: card:llanowar-reborn
   weight: 0.0081
   avg_copies: 2.0
 - name: card:mj-lnir-hammer-of-thor
+  weight: 0.0081
+  avg_copies: 2.0
+- name: Snow-Covered Forest
   weight: 0.0081
   avg_copies: 2.0
 - name: Talisman of Resilience
@@ -254,36 +254,33 @@ top_cards:
 - name: Defense Grid
   weight: 0.0081
   avg_copies: 1.5
-- name: Disruptor Flute
-  weight: 0.0081
-  avg_copies: 1.0
-- name: Ghost Vacuum
-  weight: 0.0081
-  avg_copies: 1.0
-- name: Swamp
+- name: Meltdown
   weight: 0.0081
   avg_copies: 1.0
 - name: Skateboard
   weight: 0.0081
   avg_copies: 1.0
-- name: The Mycosynth Gardens
+- name: Swamp
   weight: 0.0081
   avg_copies: 1.0
-- name: Meltdown
+- name: Ghost Vacuum
+  weight: 0.0081
+  avg_copies: 1.0
+- name: Disruptor Flute
+  weight: 0.0081
+  avg_copies: 1.0
+- name: The Mycosynth Gardens
   weight: 0.0081
   avg_copies: 1.0
 - name: Spire of Industry
   weight: 0.004
   avg_copies: 4.0
-- name: Brushland
-  weight: 0.004
-  avg_copies: 4.0
 - name: Eldrazi Linebreaker
   weight: 0.004
   avg_copies: 4.0
-- name: Darksteel Citadel
+- name: Brushland
   weight: 0.004
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Path to Exile
   weight: 0.004
   avg_copies: 3.0
@@ -293,43 +290,46 @@ top_cards:
 - name: Formidable Speaker
   weight: 0.004
   avg_copies: 3.0
-- name: Snakeskin Veil
+- name: Darksteel Citadel
   weight: 0.004
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Deafening Silence
-  weight: 0.004
-  avg_copies: 2.0
-- name: Heroic Intervention
-  weight: 0.004
-  avg_copies: 2.0
-- name: Orim's Chant
   weight: 0.004
   avg_copies: 2.0
 - name: Idol of False Gods
   weight: 0.004
   avg_copies: 2.0
-- name: Whipflare
+- name: Orim's Chant
   weight: 0.004
-  avg_copies: 1.0
-- name: Expedition Map
+  avg_copies: 2.0
+- name: Heroic Intervention
   weight: 0.004
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: Snakeskin Veil
+  weight: 0.004
+  avg_copies: 2.0
 - name: Yavimaya, Cradle of Growth
-  weight: 0.004
-  avg_copies: 1.0
-- name: Mishra's Research Desk
   weight: 0.004
   avg_copies: 1.0
 - name: Life from the Loam
   weight: 0.004
   avg_copies: 1.0
-- name: Tunnel Ignus
+- name: Mishra's Research Desk
+  weight: 0.004
+  avg_copies: 1.0
+- name: Pawpatch Formation
   weight: 0.004
   avg_copies: 1.0
 - name: Lightning Bolt
   weight: 0.004
   avg_copies: 1.0
-- name: Pawpatch Formation
+- name: Tunnel Ignus
+  weight: 0.004
+  avg_copies: 1.0
+- name: Expedition Map
+  weight: 0.004
+  avg_copies: 1.0
+- name: Whipflare
   weight: 0.004
   avg_copies: 1.0
 ---

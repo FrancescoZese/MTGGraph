@@ -7,28 +7,28 @@ name: 'Unknown #156'
 meta_share: 0.0003
 list_count: 2
 top_cards:
-- name: Street Wraith
-  weight: 1.0
-  avg_copies: 4.0
-- name: Faithless Looting
-  weight: 1.0
-  avg_copies: 4.0
 - name: Vivi Ornitier
   weight: 1.0
   avg_copies: 4.0
 - name: Marauding Mako
   weight: 1.0
   avg_copies: 4.0
-- name: Unholy Heat
+- name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 4.0
-- name: Agatha's Soul Cauldron
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Scalding Tarn
+- name: Street Wraith
+  weight: 1.0
+  avg_copies: 4.0
+- name: Faithless Looting
+  weight: 1.0
+  avg_copies: 4.0
+- name: Unholy Heat
   weight: 1.0
   avg_copies: 4.0
 - name: Steam Vents
@@ -46,15 +46,6 @@ top_cards:
 - name: Quantum Riddler
   weight: 1.0
   avg_copies: 2.67
-- name: Arena of Glory
-  weight: 1.0
-  avg_copies: 2.0
-- name: Walking Ballista
-  weight: 1.0
-  avg_copies: 2.0
-- name: Flooded Strand
-  weight: 1.0
-  avg_copies: 2.0
 - name: Winternight Stories
   weight: 1.0
   avg_copies: 2.0
@@ -64,10 +55,19 @@ top_cards:
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.0
+- name: Pyroclasm
+  weight: 1.0
+  avg_copies: 2.0
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
-- name: Pyroclasm
+- name: Arena of Glory
+  weight: 1.0
+  avg_copies: 2.0
+- name: Walking Ballista
+  weight: 1.0
+  avg_copies: 2.0
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 2.0
 - name: Thundering Falls
@@ -79,22 +79,22 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.5
-- name: Chalice of the Void
+- name: Blood Moon
   weight: 0.5
   avg_copies: 2.0
 - name: Vexing Bauble
   weight: 0.5
   avg_copies: 2.0
-- name: Blood Moon
+- name: Chalice of the Void
   weight: 0.5
   avg_copies: 2.0
 - name: Harbinger of the Seas
   weight: 0.5
   avg_copies: 2.0
-- name: Otawara, Soaring City
+- name: Surgical Extraction
   weight: 0.5
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Otawara, Soaring City
   weight: 0.5
   avg_copies: 1.0
 - name: Fiery Islet

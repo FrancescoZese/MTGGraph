@@ -6,28 +6,28 @@ name: 'Unknown #161'
 meta_share: 0.0003
 list_count: 2
 top_cards:
-- name: Faithless Looting
+- name: Marauding Mako
   weight: 1.0
   avg_copies: 4.0
 - name: Wooded Foothills
   weight: 1.0
   avg_copies: 4.0
-- name: Moonshadow
-  weight: 1.0
-  avg_copies: 4.0
-- name: Detective's Phoenix
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marauding Mako
-  weight: 1.0
-  avg_copies: 4.0
-- name: Burning Inquiry
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
 - name: Hollow One
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodstained Mire
+- name: Detective's Phoenix
+  weight: 1.0
+  avg_copies: 4.0
+- name: Faithless Looting
+  weight: 1.0
+  avg_copies: 4.0
+- name: Moonshadow
+  weight: 1.0
+  avg_copies: 4.0
+- name: Burning Inquiry
   weight: 1.0
   avg_copies: 4.0
 - name: Fear of Missing Out
@@ -48,9 +48,6 @@ top_cards:
 - name: Ox of Agonas
   weight: 1.0
   avg_copies: 2.0
-- name: Arena of Glory
-  weight: 1.0
-  avg_copies: 2.0
 - name: Meltdown
   weight: 1.0
   avg_copies: 2.0
@@ -60,16 +57,19 @@ top_cards:
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 2.0
+- name: Arena of Glory
+  weight: 1.0
+  avg_copies: 2.0
 - name: Cam and Farrik, Havoc Duo
   weight: 1.0
   avg_copies: 1.5
 - name: card:scourge-of-the-skyclaves
   weight: 1.0
   avg_copies: 1.0
-- name: Claim
+- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Claim
   weight: 1.0
   avg_copies: 1.0
 - name: Leyline of the Void

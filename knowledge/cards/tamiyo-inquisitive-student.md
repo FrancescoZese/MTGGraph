@@ -21,10 +21,10 @@ archetypes:
     weight: 0.0244
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.1111
+    weight: 0.1064
     avg_copies: 3.0
   affinity:
-    weight: 0.0041
+    weight: 0.004
     avg_copies: 2.0
   mill:
     weight: 0.0606
@@ -36,7 +36,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   simic-ritual:
-    weight: 0.0864
+    weight: 0.0854
     avg_copies: 1.57
   izzet-artifacts:
     weight: 0.9688

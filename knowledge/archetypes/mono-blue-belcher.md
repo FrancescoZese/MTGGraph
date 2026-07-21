@@ -5,10 +5,10 @@ name: Mono Blue Belcher
 meta_share: 0.0141
 list_count: 81
 top_cards:
-- name: Whir of Invention
+- name: Goblin Charbelcher
   weight: 1.0
   avg_copies: 4.0
-- name: Goblin Charbelcher
+- name: Whir of Invention
   weight: 1.0
   avg_copies: 4.0
 - name: Lotus Bloom
@@ -20,10 +20,10 @@ top_cards:
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 3.98
-- name: Disrupting Shoal
+- name: Hydroelectric Specimen
   weight: 1.0
   avg_copies: 3.96
-- name: Hydroelectric Specimen
+- name: Disrupting Shoal
   weight: 1.0
   avg_copies: 3.96
 - name: Sea Gate Restoration
@@ -143,22 +143,19 @@ top_cards:
 - name: Pact of Negation
   weight: 0.0123
   avg_copies: 3.0
+- name: Dress Down
+  weight: 0.0123
+  avg_copies: 1.0
 - name: Shadow of Doubt
-  weight: 0.0123
-  avg_copies: 1.0
-- name: Portable Hole
-  weight: 0.0123
-  avg_copies: 1.0
-- name: card:diary-of-dreams
   weight: 0.0123
   avg_copies: 1.0
 - name: Isochron Scepter
   weight: 0.0123
   avg_copies: 1.0
-- name: Witch Enchanter
+- name: Surgical Extraction
   weight: 0.0123
   avg_copies: 1.0
-- name: Dress Down
+- name: Erode
   weight: 0.0123
   avg_copies: 1.0
 - name: Ashiok, Dream Render
@@ -170,13 +167,16 @@ top_cards:
 - name: Hope of Ghirapur
   weight: 0.0123
   avg_copies: 1.0
-- name: Erode
+- name: Witch Enchanter
   weight: 0.0123
   avg_copies: 1.0
 - name: Displacement Wave
   weight: 0.0123
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: card:diary-of-dreams
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Portable Hole
   weight: 0.0123
   avg_copies: 1.0
 ---

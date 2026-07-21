@@ -16,7 +16,7 @@ archetypes:
     weight: 0.1128
     avg_copies: 1.0
   goryo:
-    weight: 0.0445
+    weight: 0.0441
     avg_copies: 1.0
   azorius-control:
     weight: 0.0122
@@ -43,7 +43,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.0492
+    weight: 0.0484
     avg_copies: 1.0
   naya-midrange:
     weight: 1.0

@@ -19,7 +19,7 @@ archetypes:
     weight: 0.0195
     avg_copies: 2.0
   goryo:
-    weight: 0.4932
+    weight: 0.4915
     avg_copies: 1.1
   necrodominance:
     weight: 0.5814
@@ -28,7 +28,7 @@ archetypes:
     weight: 0.5244
     avg_copies: 1.21
   jeskai-control:
-    weight: 0.5778
+    weight: 0.5532
     avg_copies: 1.19
   domain-zoo:
     weight: 0.256
@@ -58,8 +58,8 @@ archetypes:
     weight: 0.0118
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0579
-    avg_copies: 1.71
+    weight: 0.0656
+    avg_copies: 1.62
   izzet-prowess:
     weight: 0.4897
     avg_copies: 1.48
@@ -79,7 +79,7 @@ archetypes:
     weight: 0.3846
     avg_copies: 2.0
   azorius-blink:
-    weight: 0.0984
+    weight: 0.0968
     avg_copies: 1.5
   izzet-wizards:
     weight: 0.1667
@@ -109,8 +109,8 @@ archetypes:
     weight: 0.0455
     avg_copies: 1.0
   goryo5:
-    weight: 0.4091
-    avg_copies: 1.44
+    weight: 0.4348
+    avg_copies: 1.4
   grixis-control:
     weight: 0.1429
     avg_copies: 1.0
@@ -178,7 +178,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-61:
-    weight: 0.0263
+    weight: 0.025
     avg_copies: 1.0
   unknown-53:
     weight: 1.0
@@ -202,7 +202,7 @@ archetypes:
     weight: 0.2368
     avg_copies: 1.33
   unknown-69:
-    weight: 0.8571
+    weight: 0.875
     avg_copies: 1.0
   unknown-70:
     weight: 0.1176
@@ -223,8 +223,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-96:
-    weight: 0.2667
-    avg_copies: 1.75
+    weight: 0.2941
+    avg_copies: 1.8
   unknown-98:
     weight: 1.0
     avg_copies: 1.75
@@ -235,8 +235,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-101:
-    weight: 0.1667
-    avg_copies: 3.0
+    weight: 0.2857
+    avg_copies: 2.0
   unknown-102:
     weight: 1.0
     avg_copies: 2.0

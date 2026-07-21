@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: Azorius Control
-meta_share: 0.0143
+meta_share: 0.0142
 list_count: 82
 top_cards:
 - name: Flooded Strand
@@ -18,10 +18,10 @@ top_cards:
 - name: Prismatic Ending
   weight: 1.0
   avg_copies: 3.28
-- name: Teferi, Time Raveler
+- name: Solitude
   weight: 1.0
   avg_copies: 3.26
-- name: Solitude
+- name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 3.26
 - name: Mystical Dispute
@@ -186,10 +186,10 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 0.061
   avg_copies: 1.4
-- name: Disruptor Flute
+- name: The Wandering Emperor
   weight: 0.061
   avg_copies: 1.0
-- name: The Wandering Emperor
+- name: Disruptor Flute
   weight: 0.061
   avg_copies: 1.0
 - name: Temporary Lockdown
@@ -216,13 +216,13 @@ top_cards:
 - name: Snow-Covered Plains
   weight: 0.0366
   avg_copies: 1.0
-- name: Thundertrap Trainer
-  weight: 0.0244
-  avg_copies: 4.0
 - name: Suppression Ray
   weight: 0.0244
   avg_copies: 4.0
-- name: Elegant Parlor
+- name: Thundertrap Trainer
+  weight: 0.0244
+  avg_copies: 4.0
+- name: Dress Down
   weight: 0.0244
   avg_copies: 1.0
 - name: Sacred Foundry
@@ -231,43 +231,43 @@ top_cards:
 - name: Gemstone Caverns
   weight: 0.0244
   avg_copies: 1.0
+- name: Tamiyo, Inquisitive Student
+  weight: 0.0244
+  avg_copies: 1.0
 - name: Mistrise Village
   weight: 0.0244
   avg_copies: 1.0
-- name: Dress Down
+- name: Elegant Parlor
   weight: 0.0244
   avg_copies: 1.0
 - name: Vendilion Clique
   weight: 0.0244
   avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.0244
-  avg_copies: 1.0
-- name: Wear
+- name: Pyroclasm
   weight: 0.0122
   avg_copies: 2.0
 - name: Obsidian Charmaw
   weight: 0.0122
   avg_copies: 2.0
-- name: Pyroclasm
+- name: Wear
   weight: 0.0122
   avg_copies: 2.0
-- name: Hurkyl's Recall
+- name: Get Lost
+  weight: 0.0122
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 0.0122
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
   weight: 0.0122
   avg_copies: 1.0
 - name: Strix Serenade
   weight: 0.0122
   avg_copies: 1.0
-- name: Get Lost
+- name: Restless Anchorage
   weight: 0.0122
   avg_copies: 1.0
 - name: Commandeer
-  weight: 0.0122
-  avg_copies: 1.0
-- name: Flashback
-  weight: 0.0122
-  avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
   weight: 0.0122
   avg_copies: 1.0
 - name: Damping Sphere
@@ -276,10 +276,10 @@ top_cards:
 - name: Petrified Hamlet
   weight: 0.0122
   avg_copies: 1.0
-- name: Restless Anchorage
+- name: Flashback
   weight: 0.0122
   avg_copies: 1.0
-- name: Meltdown
+- name: Hurkyl's Recall
   weight: 0.0122
   avg_copies: 1.0
 ---

@@ -6,7 +6,7 @@ name: Crumbling Vestige
 scryfall_id: d491c13c-43e3-4ca3-b888-4edd34dfe14a
 set: ogw
 type: Land
-meta_presence: 0.0286
+meta_presence: 0.0285
 archetypes:
   amulet-titan:
     weight: 1.0

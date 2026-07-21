@@ -19,7 +19,7 @@ archetypes:
     weight: 0.002
     avg_copies: 2.0
   neoform-combo:
-    weight: 0.7746
+    weight: 0.7778
     avg_copies: 1.02
   kethis-combo:
     weight: 1.0

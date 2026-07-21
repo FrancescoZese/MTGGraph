@@ -16,8 +16,8 @@ archetypes:
     weight: 0.0075
     avg_copies: 1.0
   goryo:
-    weight: 0.0719
-    avg_copies: 1.3
+    weight: 0.0746
+    avg_copies: 1.29
   azorius-control:
     weight: 0.0976
     avg_copies: 1.75
@@ -25,20 +25,20 @@ archetypes:
     weight: 1.0
     avg_copies: 3.96
   jeskai-control:
-    weight: 0.1556
+    weight: 0.1489
     avg_copies: 1.71
   mill:
     weight: 0.0303
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0141
+    weight: 0.0139
     avg_copies: 1.0
   mono-blue-tron:
     weight: 0.7619
     avg_copies: 2.58
   simic-ritual:
-    weight: 0.9877
-    avg_copies: 3.51
+    weight: 0.9878
+    avg_copies: 3.52
   izzet-prowess:
     weight: 0.0034
     avg_copies: 2.0

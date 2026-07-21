@@ -22,13 +22,13 @@ archetypes:
     weight: 0.0035
     avg_copies: 1.0
   goryo:
-    weight: 0.113
+    weight: 0.1119
     avg_copies: 1.3
   living-end:
     weight: 0.0746
     avg_copies: 1.2
   jeskai-control:
-    weight: 0.0222
+    weight: 0.0213
     avg_copies: 2.0
   domain-zoo:
     weight: 0.008
@@ -49,7 +49,7 @@ archetypes:
     weight: 0.2
     avg_copies: 1.5
   azorius-blink:
-    weight: 0.1148
+    weight: 0.1129
     avg_copies: 1.43
   elves:
     weight: 1.0
@@ -91,7 +91,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-126:
-    weight: 0.2917
+    weight: 0.32
     avg_copies: 1.0
   unknown-144:
     weight: 0.2

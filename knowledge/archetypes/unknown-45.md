@@ -6,10 +6,10 @@ name: 'Unknown #45'
 meta_share: 0.0045
 list_count: 26
 top_cards:
-- name: Eyetwitch
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
-- name: Archon of Cruelty
+- name: Eyetwitch
   weight: 1.0
   avg_copies: 4.0
 - name: Stitcher's Supplier
@@ -60,13 +60,13 @@ top_cards:
 - name: Origin of Metalbending
   weight: 0.9615
   avg_copies: 1.04
-- name: Ozai's Cruelty
-  weight: 0.9615
-  avg_copies: 1.0
 - name: True Ancestry
   weight: 0.9615
   avg_copies: 1.0
 - name: Underground Mortuary
+  weight: 0.9615
+  avg_copies: 1.0
+- name: Ozai's Cruelty
   weight: 0.9615
   avg_copies: 1.0
 - name: Thoughtseize
@@ -108,10 +108,10 @@ top_cards:
 - name: Poet's Quill
   weight: 0.4615
   avg_copies: 1.0
-- name: Dawnhand Dissident
+- name: Fulminator Mage
   weight: 0.2692
   avg_copies: 1.0
-- name: Fulminator Mage
+- name: Dawnhand Dissident
   weight: 0.2692
   avg_copies: 1.0
 - name: Polluted Delta
@@ -129,10 +129,10 @@ top_cards:
 - name: Culling Ritual
   weight: 0.1923
   avg_copies: 2.2
-- name: Takenuma, Abandoned Mire
+- name: Faerie Macabre
   weight: 0.1923
   avg_copies: 1.0
-- name: Faerie Macabre
+- name: Takenuma, Abandoned Mire
   weight: 0.1923
   avg_copies: 1.0
 - name: card:hollow-marauder
@@ -147,12 +147,18 @@ top_cards:
 - name: Blood Crypt
   weight: 0.0769
   avg_copies: 1.5
-- name: Mai, Scornful Striker
-  weight: 0.0769
-  avg_copies: 1.5
 - name: Ashiok, Dream Render
   weight: 0.0769
   avg_copies: 1.5
+- name: Mai, Scornful Striker
+  weight: 0.0769
+  avg_copies: 1.5
+- name: Revitalizing Repast
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Cling to Dust
+  weight: 0.0769
+  avg_copies: 1.0
 - name: Redirect Lightning
   weight: 0.0769
   avg_copies: 1.0
@@ -162,22 +168,25 @@ top_cards:
 - name: Harvester of Misery
   weight: 0.0769
   avg_copies: 1.0
-- name: Revitalizing Repast
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Cling to Dust
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Nihil Spellbomb
-  weight: 0.0385
-  avg_copies: 2.0
 - name: Price of Freedom
   weight: 0.0385
   avg_copies: 2.0
-- name: card:the-terminus-of-return
+- name: Nihil Spellbomb
+  weight: 0.0385
+  avg_copies: 2.0
+- name: Raucous Theater
   weight: 0.0385
   avg_copies: 1.0
-- name: Chthonian Nightmare
+- name: Improvisation Capstone
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Damping Sphere
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Vampire Hexmage
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Tormod's Crypt
   weight: 0.0385
   avg_copies: 1.0
 - name: Liliana, the Last Hope
@@ -186,22 +195,13 @@ top_cards:
 - name: Iroh's Demonstration
   weight: 0.0385
   avg_copies: 1.0
+- name: Chthonian Nightmare
+  weight: 0.0385
+  avg_copies: 1.0
 - name: Forest
   weight: 0.0385
   avg_copies: 1.0
-- name: Damping Sphere
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Tormod's Crypt
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Vampire Hexmage
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Improvisation Capstone
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Raucous Theater
+- name: card:the-terminus-of-return
   weight: 0.0385
   avg_copies: 1.0
 ---
