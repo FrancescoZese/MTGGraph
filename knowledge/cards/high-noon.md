@@ -10,7 +10,7 @@ type: Enchantment
 meta_presence: 0.2339
 archetypes:
   boros-energy:
-    weight: 0.775
+    weight: 0.7752
     avg_copies: 1.67
   dimir-control:
     weight: 0.1111
@@ -22,20 +22,20 @@ archetypes:
     weight: 0.0035
     avg_copies: 1.0
   goryo:
-    weight: 0.0169
+    weight: 0.0167
     avg_copies: 1.6
   azorius-control:
-    weight: 0.9024
+    weight: 0.9036
     avg_copies: 1.97
   living-end:
-    weight: 0.0299
+    weight: 0.0294
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.7234
-    avg_copies: 1.53
+    weight: 0.7292
+    avg_copies: 1.54
   domain-zoo:
-    weight: 0.44
-    avg_copies: 1.56
+    weight: 0.4488
+    avg_copies: 1.58
   mill:
     weight: 0.0303
     avg_copies: 3.0
@@ -58,7 +58,7 @@ archetypes:
     weight: 0.8
     avg_copies: 2.25
   azorius-blink:
-    weight: 0.2581
+    weight: 0.254
     avg_copies: 2.0
   esper-control:
     weight: 1.0
@@ -73,7 +73,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   goryo2:
-    weight: 0.5714
+    weight: 0.5333
     avg_copies: 2.38
   4c-omnath9:
     weight: 0.4
@@ -109,7 +109,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.75
   unknown-47:
-    weight: 0.0106
+    weight: 0.0104
     avg_copies: 1.0
   unknown-62:
     weight: 0.1667
@@ -118,14 +118,14 @@ archetypes:
     weight: 0.069
     avg_copies: 2.0
   unknown-67:
-    weight: 0.0137
+    weight: 0.0133
     avg_copies: 1.0
   unknown-68:
     weight: 0.7895
     avg_copies: 1.7
   unknown-70:
-    weight: 0.9412
-    avg_copies: 2.38
+    weight: 0.9444
+    avg_copies: 2.41
   unknown-80:
     weight: 0.3333
     avg_copies: 1.0
@@ -162,6 +162,9 @@ archetypes:
   unknown-113:
     weight: 1.0
     avg_copies: 1.5
+  unknown-126:
+    weight: 0.0385
+    avg_copies: 2.0
   unknown-127:
     weight: 1.0
     avg_copies: 1.2
@@ -191,7 +194,7 @@ archetypes:
     avg_copies: 1.4
   unknown-152:
     weight: 1.0
-    avg_copies: 2.5
+    avg_copies: 2.67
   unknown-153:
     weight: 0.5
     avg_copies: 2.0
@@ -199,8 +202,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-160:
-    weight: 0.6154
-    avg_copies: 3.51
+    weight: 0.6212
+    avg_copies: 3.46
   unknown-166:
     weight: 1.0
     avg_copies: 3.0

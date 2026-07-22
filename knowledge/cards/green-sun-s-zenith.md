@@ -7,14 +7,14 @@ name: Green Sun's Zenith
 scryfall_id: 70291c7b-a86f-4466-8502-c28765a89b2a
 set: 2x2
 type: Sorcery
-meta_presence: 0.0613
+meta_presence: 0.0621
 archetypes:
   amulet-titan:
-    weight: 0.9675
-    avg_copies: 3.27
+    weight: 0.9677
+    avg_copies: 3.26
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 2.96
+    avg_copies: 2.97
   samwise-combo:
     weight: 0.0161
     avg_copies: 2.0
@@ -41,7 +41,7 @@ archetypes:
     avg_copies: 4.0
   unknown-61:
     weight: 1.0
-    avg_copies: 3.9
+    avg_copies: 3.91
   unknown-76:
     weight: 1.0
     avg_copies: 3.83

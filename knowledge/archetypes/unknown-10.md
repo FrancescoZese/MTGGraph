@@ -7,19 +7,19 @@ name: 'Unknown #10'
 meta_share: 0.0003
 list_count: 2
 top_cards:
-- name: Tamiyo, Inquisitive Student
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mox Opal
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Emry, Lurker of the Loch
   weight: 1.0
   avg_copies: 4.0
-- name: Cori-Steel Cutter
+- name: Mox Opal
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
 - name: Repeal
@@ -28,19 +28,19 @@ top_cards:
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 3.5
-- name: Mox Amber
-  weight: 1.0
-  avg_copies: 3.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
+- name: Mox Amber
+  weight: 1.0
+  avg_copies: 3.0
+- name: Scalding Tarn
+  weight: 1.0
+  avg_copies: 2.5
 - name: Jeskai Ascendancy
   weight: 1.0
   avg_copies: 2.5
 - name: Flooded Strand
-  weight: 1.0
-  avg_copies: 2.5
-- name: Scalding Tarn
   weight: 1.0
   avg_copies: 2.5
 - name: Portable Hole
@@ -55,91 +55,91 @@ top_cards:
 - name: Flame of Anor
   weight: 1.0
   avg_copies: 1.33
+- name: Pithing Needle
+  weight: 1.0
+  avg_copies: 1.0
 - name: Thundering Falls
-  weight: 1.0
-  avg_copies: 1.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 1.0
-  avg_copies: 1.0
-- name: Vexing Bauble
-  weight: 1.0
-  avg_copies: 1.0
-- name: Aether Spellbomb
   weight: 1.0
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Aether Spellbomb
+  weight: 1.0
+  avg_copies: 1.0
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 1.0
+  avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 1.0
-- name: Metallic Rebuke
+- name: Arid Mesa
   weight: 0.5
   avg_copies: 3.0
-- name: Arid Mesa
+- name: Metallic Rebuke
   weight: 0.5
   avg_copies: 3.0
 - name: Erayo, Soratami Ascendant
   weight: 0.5
   avg_copies: 3.0
-- name: Narset, Jeskai Waymaster
-  weight: 0.5
-  avg_copies: 2.0
 - name: Swan Song
   weight: 0.5
   avg_copies: 2.0
-- name: Unholy Heat
-  weight: 0.5
-  avg_copies: 2.0
-- name: Wear
-  weight: 0.5
-  avg_copies: 2.0
-- name: Phlage, Titan of Fire's Fury
+- name: Narset, Jeskai Waymaster
   weight: 0.5
   avg_copies: 2.0
 - name: Expressive Iteration
   weight: 0.5
   avg_copies: 2.0
-- name: Otawara, Soaring City
+- name: Unholy Heat
   weight: 0.5
-  avg_copies: 1.0
-- name: Sevinne's Reclamation
+  avg_copies: 2.0
+- name: Phlage, Titan of Fire's Fury
   weight: 0.5
-  avg_copies: 1.0
-- name: Lavaspur Boots
+  avg_copies: 2.0
+- name: Wear
   weight: 0.5
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Torpor Orb
-  weight: 0.5
-  avg_copies: 1.0
-- name: Island
   weight: 0.5
   avg_copies: 1.0
 - name: Skateboard
   weight: 0.5
   avg_copies: 1.0
+- name: Lavaspur Boots
+  weight: 0.5
+  avg_copies: 1.0
 - name: Haywire Mite
-  weight: 0.5
-  avg_copies: 1.0
-- name: Shadowspear
-  weight: 0.5
-  avg_copies: 1.0
-- name: Snow-Covered Island
   weight: 0.5
   avg_copies: 1.0
 - name: Snow-Covered Mountain
   weight: 0.5
   avg_copies: 1.0
+- name: Sevinne's Reclamation
+  weight: 0.5
+  avg_copies: 1.0
+- name: Island
+  weight: 0.5
+  avg_copies: 1.0
+- name: Otawara, Soaring City
+  weight: 0.5
+  avg_copies: 1.0
 - name: Hurkyl's Recall
+  weight: 0.5
+  avg_copies: 1.0
+- name: Snow-Covered Island
+  weight: 0.5
+  avg_copies: 1.0
+- name: Shadowspear
   weight: 0.5
   avg_copies: 1.0
 ---

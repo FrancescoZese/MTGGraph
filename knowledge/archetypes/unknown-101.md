@@ -6,9 +6,6 @@ name: 'Unknown #101'
 meta_share: 0.0012
 list_count: 7
 top_cards:
-- name: Detective's Phoenix
-  weight: 1.0
-  avg_copies: 4.0
 - name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
@@ -18,16 +15,19 @@ top_cards:
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
+- name: Detective's Phoenix
+  weight: 1.0
+  avg_copies: 4.0
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 2.86
-- name: Meltdown
+- name: Mountain
   weight: 1.0
   avg_copies: 2.57
-- name: Mountain
+- name: Meltdown
   weight: 1.0
   avg_copies: 2.57
 - name: Bloodstained Mire
@@ -60,10 +60,10 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.7143
   avg_copies: 3.4
-- name: Fear of Missing Out
+- name: Scalding Tarn
   weight: 0.7143
   avg_copies: 2.2
-- name: Scalding Tarn
+- name: Fear of Missing Out
   weight: 0.7143
   avg_copies: 2.2
 - name: Fatal Push
@@ -72,10 +72,10 @@ top_cards:
 - name: Thoughtseize
   weight: 0.5714
   avg_copies: 2.17
-- name: Obsidian Charmaw
+- name: Tarfire
   weight: 0.5714
   avg_copies: 2.0
-- name: Tarfire
+- name: Obsidian Charmaw
   weight: 0.5714
   avg_copies: 2.0
 - name: Leyline of the Void
@@ -105,13 +105,13 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.2857
   avg_copies: 2.0
-- name: Rough
+- name: Pyroclasm
   weight: 0.2857
   avg_copies: 1.5
 - name: Nihil Spellbomb
   weight: 0.2857
   avg_copies: 1.5
-- name: Pyroclasm
+- name: Rough
   weight: 0.2857
   avg_copies: 1.5
 - name: Mishra's Bauble
@@ -126,10 +126,7 @@ top_cards:
 - name: Wear
   weight: 0.1429
   avg_copies: 2.0
-- name: Ox of Agonas
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Sacred Foundry
+- name: Sheoldred's Edict
   weight: 0.1429
   avg_copies: 1.0
 - name: Blackcleave Cliffs
@@ -141,7 +138,10 @@ top_cards:
 - name: Cool but Rude
   weight: 0.1429
   avg_copies: 1.0
-- name: Sheoldred's Edict
+- name: Sacred Foundry
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Ox of Agonas
   weight: 0.1429
   avg_copies: 1.0
 ---

@@ -4,7 +4,7 @@ colors:
 - R
 - G
 name: Cosmogoyf Fling
-meta_share: 0.0061
+meta_share: 0.006
 list_count: 35
 top_cards:
 - name: Thud
@@ -118,10 +118,10 @@ top_cards:
 - name: Leyline of the Void
   weight: 0.1143
   avg_copies: 1.0
-- name: Leyline of the Guildpact
+- name: Scion of Draco
   weight: 0.0857
   avg_copies: 4.0
-- name: Scion of Draco
+- name: Leyline of the Guildpact
   weight: 0.0857
   avg_copies: 4.0
 - name: Claim
@@ -157,16 +157,16 @@ top_cards:
 - name: Death's Shadow
   weight: 0.0286
   avg_copies: 2.0
-- name: Meltdown
-  weight: 0.0286
-  avg_copies: 1.0
-- name: Disruptor Flute
+- name: Kaheera, the Orphanguard
   weight: 0.0286
   avg_copies: 1.0
 - name: Mountain
   weight: 0.0286
   avg_copies: 1.0
-- name: Kaheera, the Orphanguard
+- name: Meltdown
+  weight: 0.0286
+  avg_copies: 1.0
+- name: Disruptor Flute
   weight: 0.0286
   avg_copies: 1.0
 ---

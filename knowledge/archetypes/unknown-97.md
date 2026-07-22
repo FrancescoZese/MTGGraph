@@ -6,22 +6,22 @@ name: 'Unknown #97'
 meta_share: 0.0021
 list_count: 12
 top_cards:
-- name: Eldrazi Temple
-  weight: 1.0
-  avg_copies: 4.0
 - name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
-- name: Malevolent Rumble
+- name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
-- name: Ugin's Labyrinth
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
 - name: Utopia Sprawl
   weight: 1.0
   avg_copies: 4.0
 - name: Kozilek's Command
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
 - name: Ancient Stirrings
@@ -129,67 +129,67 @@ top_cards:
 - name: Karn, the Great Creator
   weight: 0.0833
   avg_copies: 3.0
-- name: Trinisphere
+- name: Kozilek's Return
   weight: 0.0833
   avg_copies: 3.0
 - name: Wastescape Battlemage
   weight: 0.0833
   avg_copies: 3.0
-- name: Kozilek's Return
+- name: Trinisphere
   weight: 0.0833
   avg_copies: 3.0
-- name: Damnation
-  weight: 0.0833
-  avg_copies: 2.0
-- name: Damping Sphere
-  weight: 0.0833
-  avg_copies: 2.0
-- name: Soulless Jailer
-  weight: 0.0833
-  avg_copies: 2.0
-- name: Vandalblast
-  weight: 0.0833
-  avg_copies: 2.0
 - name: Fade from History
-  weight: 0.0833
-  avg_copies: 2.0
-- name: Nature's Claim
-  weight: 0.0833
-  avg_copies: 2.0
-- name: Witherbloom Charm
   weight: 0.0833
   avg_copies: 2.0
 - name: Talisman of Impulse
   weight: 0.0833
   avg_copies: 2.0
-- name: Ensnaring Bridge
+- name: Nature's Claim
   weight: 0.0833
-  avg_copies: 1.0
-- name: Stomping Ground
+  avg_copies: 2.0
+- name: Damping Sphere
   weight: 0.0833
-  avg_copies: 1.0
-- name: Bojuka Bog
+  avg_copies: 2.0
+- name: Vandalblast
   weight: 0.0833
-  avg_copies: 1.0
-- name: Chalice of the Void
+  avg_copies: 2.0
+- name: Witherbloom Charm
   weight: 0.0833
-  avg_copies: 1.0
-- name: Liquimetal Coating
+  avg_copies: 2.0
+- name: Damnation
   weight: 0.0833
-  avg_copies: 1.0
-- name: Commercial District
+  avg_copies: 2.0
+- name: Soulless Jailer
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Shifting Woodland
   weight: 0.0833
   avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 0.0833
   avg_copies: 1.0
+- name: Liquimetal Coating
+  weight: 0.0833
+  avg_copies: 1.0
 - name: Pithing Needle
   weight: 0.0833
   avg_copies: 1.0
-- name: Shifting Woodland
+- name: Chalice of the Void
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Stomping Ground
   weight: 0.0833
   avg_copies: 1.0
 - name: Haywire Mite
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Commercial District
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Bojuka Bog
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Ensnaring Bridge
   weight: 0.0833
   avg_copies: 1.0
 ---

@@ -7,13 +7,13 @@ name: Devoted Combo
 meta_share: 0.0002
 list_count: 1
 top_cards:
-- name: Inquisition of Kozilek
-  weight: 1.0
-  avg_copies: 4.0
-- name: Nature's Rhythm
-  weight: 1.0
-  avg_copies: 4.0
 - name: Tyvar, Jubilant Brawler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Devoted Druid
+  weight: 1.0
+  avg_copies: 4.0
+- name: Vizier of Remedies
   weight: 1.0
   avg_copies: 4.0
 - name: Malevolent Rumble
@@ -25,13 +25,13 @@ top_cards:
 - name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 4.0
+- name: Inquisition of Kozilek
+  weight: 1.0
+  avg_copies: 4.0
 - name: Windswept Heath
   weight: 1.0
   avg_copies: 4.0
-- name: Devoted Druid
-  weight: 1.0
-  avg_copies: 4.0
-- name: Vizier of Remedies
+- name: Nature's Rhythm
   weight: 1.0
   avg_copies: 4.0
 - name: Veil of Summer
@@ -40,7 +40,7 @@ top_cards:
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 3.0
-- name: Postmortem Lunge
+- name: Prismatic Ending
   weight: 1.0
   avg_copies: 2.0
 - name: Orim's Chant
@@ -49,16 +49,28 @@ top_cards:
 - name: Endurance
   weight: 1.0
   avg_copies: 2.0
-- name: Prismatic Ending
+- name: Postmortem Lunge
   weight: 1.0
   avg_copies: 2.0
 - name: Force of Vigor
   weight: 1.0
   avg_copies: 2.0
-- name: Lush Portico
+- name: Silent Clearing
   weight: 1.0
   avg_copies: 1.0
 - name: Boseiju, Who Endures
+  weight: 1.0
+  avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 1.0
+  avg_copies: 1.0
+- name: Eternal Witness
+  weight: 1.0
+  avg_copies: 1.0
+- name: Horizon Canopy
+  weight: 1.0
+  avg_copies: 1.0
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Kataki, War's Wage
@@ -67,25 +79,22 @@ top_cards:
 - name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.0
-- name: Temple Garden
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
-- name: Collector Ouphe
+- name: Shadowy Backstreet
+  weight: 1.0
+  avg_copies: 1.0
+- name: Lush Portico
+  weight: 1.0
+  avg_copies: 1.0
+- name: Nurturing Peatland
   weight: 1.0
   avg_copies: 1.0
 - name: Walking Ballista
   weight: 1.0
   avg_copies: 1.0
-- name: Dryad Arbor
-  weight: 1.0
-  avg_copies: 1.0
-- name: Eternal Witness
-  weight: 1.0
-  avg_copies: 1.0
-- name: Plains
-  weight: 1.0
-  avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
 - name: Outland Liberator
@@ -94,19 +103,10 @@ top_cards:
 - name: Scavenging Ooze
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowy Backstreet
-  weight: 1.0
-  avg_copies: 1.0
 - name: Overgrown Tomb
   weight: 1.0
   avg_copies: 1.0
-- name: Godless Shrine
-  weight: 1.0
-  avg_copies: 1.0
-- name: Silent Clearing
-  weight: 1.0
-  avg_copies: 1.0
-- name: Forest
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
 - name: Rhonas the Indomitable
@@ -115,7 +115,7 @@ top_cards:
 - name: Duskwatch Recruiter
   weight: 1.0
   avg_copies: 1.0
-- name: Horizon Canopy
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 ---

@@ -10,7 +10,7 @@ type: Creature — Frog
 meta_presence: 0.0005
 archetypes:
   yawgmoth-combo:
-    weight: 0.0118
+    weight: 0.0116
     avg_copies: 1.0
   unknown-102:
     weight: 1.0

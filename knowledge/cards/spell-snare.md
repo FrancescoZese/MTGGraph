@@ -7,10 +7,10 @@ name: Spell Snare
 scryfall_id: b7551b61-656e-4f37-b9da-73174db983b7
 set: ecl
 type: Instant
-meta_presence: 0.137
+meta_presence: 0.1377
 archetypes:
   ruby-storm:
-    weight: 0.0048
+    weight: 0.0047
     avg_copies: 2.0
   dimir-control:
     weight: 0.9877
@@ -22,14 +22,14 @@ archetypes:
     weight: 0.188
     avg_copies: 1.15
   goryo:
-    weight: 0.3932
+    weight: 0.4013
     avg_copies: 1.38
   azorius-control:
-    weight: 0.7317
-    avg_copies: 1.77
+    weight: 0.7349
+    avg_copies: 1.76
   jeskai-control:
-    weight: 0.617
-    avg_copies: 1.22
+    weight: 0.625
+    avg_copies: 1.24
   affinity:
     weight: 0.004
     avg_copies: 1.0
@@ -40,7 +40,7 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0417
+    weight: 0.0411
     avg_copies: 1.67
   mono-blue-tron:
     weight: 0.4286
@@ -52,7 +52,7 @@ archetypes:
     weight: 0.0488
     avg_copies: 1.75
   izzet-prowess:
-    weight: 0.4281
+    weight: 0.43
     avg_copies: 1.44
   4c-omnath:
     weight: 0.25
@@ -61,7 +61,7 @@ archetypes:
     weight: 0.5333
     avg_copies: 1.75
   azorius-blink:
-    weight: 0.0323
+    weight: 0.0317
     avg_copies: 2.0
   esper-control:
     weight: 1.0
@@ -82,10 +82,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   goryo1:
-    weight: 0.1346
-    avg_copies: 1.28
+    weight: 0.1384
+    avg_copies: 1.26
   goryo2:
-    weight: 0.3571
+    weight: 0.3333
     avg_copies: 2.0
   goryo3:
     weight: 1.0
@@ -130,8 +130,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 1.0
-    avg_copies: 1.94
+    weight: 0.9896
+    avg_copies: 1.93
   unknown-53:
     weight: 1.0
     avg_copies: 2.0
@@ -175,8 +175,8 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-120:
-    weight: 0.875
-    avg_copies: 2.71
+    weight: 0.8889
+    avg_copies: 2.75
   unknown-122:
     weight: 0.04
     avg_copies: 1.0
@@ -226,8 +226,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-207:
-    weight: 1.0
-    avg_copies: 2.0
+    weight: 0.8
+    avg_copies: 1.75
   unknown-208:
     weight: 1.0
     avg_copies: 3.0

@@ -6,12 +6,12 @@ name: Damping Matrix
 scryfall_id: d7c89492-ef45-460e-9c78-83c8c8c80fe2
 set: mm3
 type: Artifact
-meta_presence: 0.005
+meta_presence: 0.0052
 archetypes:
   living-end:
-    weight: 0.1642
-    avg_copies: 1.55
+    weight: 0.1765
+    avg_copies: 1.5
   unknown-67:
-    weight: 0.2466
+    weight: 0.24
     avg_copies: 2.5
 ---

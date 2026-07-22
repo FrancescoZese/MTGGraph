@@ -7,10 +7,10 @@ name: Surge of Salvation
 scryfall_id: 41d25ee5-0348-4206-bb6a-ccb0a599ac87
 set: mom
 type: Instant
-meta_presence: 0.0016
+meta_presence: 0.0015
 archetypes:
   domain-zoo:
-    weight: 0.008
+    weight: 0.0079
     avg_copies: 2.0
   hammer-time:
     weight: 0.4615

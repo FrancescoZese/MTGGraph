@@ -4,12 +4,9 @@ colors:
 - U
 - R
 name: 'Unknown #109'
-meta_share: 0.0016
+meta_share: 0.0015
 list_count: 9
 top_cards:
-- name: Flow State
-  weight: 1.0
-  avg_copies: 4.0
 - name: Orim's Chant
   weight: 1.0
   avg_copies: 4.0
@@ -17,6 +14,9 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Narset, Parter of Veils
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flow State
   weight: 1.0
   avg_copies: 4.0
 - name: Lórien Revealed
@@ -52,13 +52,13 @@ top_cards:
 - name: Plains
   weight: 1.0
   avg_copies: 1.22
-- name: Monumental Henge
+- name: Geier Reach Sanitarium
   weight: 1.0
   avg_copies: 1.0
 - name: Hall of Storm Giants
   weight: 1.0
   avg_copies: 1.0
-- name: Geier Reach Sanitarium
+- name: Monumental Henge
   weight: 1.0
   avg_copies: 1.0
 - name: Galvanic Discharge
@@ -73,10 +73,10 @@ top_cards:
 - name: Steam Vents
   weight: 0.8889
   avg_copies: 1.12
-- name: Breeding Pool
+- name: Kaheera, the Orphanguard
   weight: 0.8889
   avg_copies: 1.0
-- name: Kaheera, the Orphanguard
+- name: Breeding Pool
   weight: 0.8889
   avg_copies: 1.0
 - name: Prismatic Ending
@@ -103,10 +103,10 @@ top_cards:
 - name: Teferi, Hero of Dominaria
   weight: 0.5556
   avg_copies: 1.0
-- name: Supreme Verdict
+- name: Dovin's Veto
   weight: 0.4444
   avg_copies: 2.0
-- name: Dovin's Veto
+- name: Supreme Verdict
   weight: 0.4444
   avg_copies: 2.0
 - name: High Noon
@@ -121,22 +121,22 @@ top_cards:
 - name: Arid Mesa
   weight: 0.1111
   avg_copies: 2.0
-- name: Relic of Progenitus
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Zirda, the Dawnwaker
-  weight: 0.1111
-  avg_copies: 1.0
-- name: card:glen-elendra-s-answer
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Mistrise Village
+- name: card:temporal-trespass
   weight: 0.1111
   avg_copies: 1.0
 - name: Beza, the Bounding Spring
   weight: 0.1111
   avg_copies: 1.0
-- name: card:temporal-trespass
+- name: Relic of Progenitus
+  weight: 0.1111
+  avg_copies: 1.0
+- name: card:glen-elendra-s-answer
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Zirda, the Dawnwaker
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Mistrise Village
   weight: 0.1111
   avg_copies: 1.0
 ---

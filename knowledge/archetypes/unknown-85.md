@@ -9,16 +9,16 @@ name: 'Unknown #85'
 meta_share: 0.0026
 list_count: 15
 top_cards:
-- name: Territorial Kavu
-  weight: 1.0
-  avg_copies: 4.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline Binding
+- name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
-- name: Scion of Draco
+- name: Territorial Kavu
+  weight: 1.0
+  avg_copies: 4.0
+- name: Leyline Binding
   weight: 1.0
   avg_copies: 4.0
 - name: Tribal Flames
@@ -60,10 +60,10 @@ top_cards:
 - name: Wrath of the Skies
   weight: 0.8667
   avg_copies: 2.14
-- name: Sacred Foundry
+- name: Mountain
   weight: 0.8667
   avg_copies: 1.0
-- name: Mountain
+- name: Sacred Foundry
   weight: 0.8667
   avg_copies: 1.0
 - name: Nishoba Brawler
@@ -84,10 +84,10 @@ top_cards:
 - name: High Noon
   weight: 0.6
   avg_copies: 2.0
-- name: Breeding Pool
+- name: Forest
   weight: 0.6
   avg_copies: 1.0
-- name: Forest
+- name: Breeding Pool
   weight: 0.6
   avg_copies: 1.0
 - name: Plains
@@ -120,88 +120,88 @@ top_cards:
 - name: Doorkeeper Thrull
   weight: 0.1333
   avg_copies: 2.33
-- name: Quantum Riddler
-  weight: 0.1333
-  avg_copies: 2.0
 - name: Fable of the Mirror-Breaker
   weight: 0.1333
   avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.1333
   avg_copies: 2.0
+- name: Quantum Riddler
+  weight: 0.1333
+  avg_copies: 2.0
 - name: Ashiok, Dream Render
   weight: 0.1333
   avg_copies: 1.5
-- name: Lush Portico
-  weight: 0.1333
-  avg_copies: 1.0
 - name: Savai Triome
   weight: 0.1333
   avg_copies: 1.0
-- name: Overgrown Tomb
+- name: Lush Portico
   weight: 0.1333
   avg_copies: 1.0
 - name: Xander's Lounge
   weight: 0.1333
   avg_copies: 1.0
-- name: Psychic Frog
-  weight: 0.0667
-  avg_copies: 4.0
+- name: Overgrown Tomb
+  weight: 0.1333
+  avg_copies: 1.0
 - name: Spell Queller
   weight: 0.0667
   avg_copies: 4.0
-- name: Obsidian Charmaw
+- name: Psychic Frog
   weight: 0.0667
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Force of Vigor
   weight: 0.0667
   avg_copies: 3.0
-- name: Vexing Bauble
+- name: Obsidian Charmaw
   weight: 0.0667
-  avg_copies: 2.0
-- name: Rough
-  weight: 0.0667
-  avg_copies: 2.0
-- name: Endurance
-  weight: 0.0667
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Prismatic Ending
   weight: 0.0667
   avg_copies: 2.0
 - name: Pick Your Poison
   weight: 0.0667
   avg_copies: 2.0
-- name: Laelia, the Blade Reforged
+- name: Endurance
   weight: 0.0667
   avg_copies: 2.0
 - name: Fire Magic
   weight: 0.0667
   avg_copies: 2.0
-- name: Hidetsugu Consumes All
+- name: Vexing Bauble
   weight: 0.0667
-  avg_copies: 1.0
-- name: Brotherhood's End
+  avg_copies: 2.0
+- name: Laelia, the Blade Reforged
   weight: 0.0667
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: Rough
+  weight: 0.0667
+  avg_copies: 2.0
 - name: Zagoth Triome
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Pyroclasm
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Hidetsugu Consumes All
   weight: 0.0667
   avg_copies: 1.0
 - name: Chalice of the Void
   weight: 0.0667
   avg_copies: 1.0
-- name: Sacred Ground
+- name: Hedge Maze
   weight: 0.0667
   avg_copies: 1.0
 - name: The Legend of Roku
   weight: 0.0667
   avg_copies: 1.0
+- name: Brotherhood's End
+  weight: 0.0667
+  avg_copies: 1.0
 - name: Island
   weight: 0.0667
   avg_copies: 1.0
-- name: Hedge Maze
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Pyroclasm
+- name: Sacred Ground
   weight: 0.0667
   avg_copies: 1.0
 ---

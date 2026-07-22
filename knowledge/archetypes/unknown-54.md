@@ -12,16 +12,19 @@ top_cards:
 - name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
-- name: Territorial Kavu
-  weight: 1.0
-  avg_copies: 4.0
-- name: Leyline of the Guildpact
+- name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
 - name: Persist
   weight: 1.0
   avg_copies: 4.0
-- name: Aurora Awakener
+- name: Leyline of the Guildpact
+  weight: 1.0
+  avg_copies: 4.0
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
+- name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline Binding
@@ -30,10 +33,7 @@ top_cards:
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
-- name: Scion of Draco
+- name: Aurora Awakener
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
@@ -54,22 +54,19 @@ top_cards:
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
+- name: Godless Shrine
+  weight: 1.0
+  avg_copies: 1.0
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
 - name: Overgrown Tomb
   weight: 1.0
   avg_copies: 1.0
-- name: Godless Shrine
-  weight: 1.0
-  avg_copies: 1.0
 - name: Psychic Frog
   weight: 0.6667
   avg_copies: 4.0
-- name: Meltdown
-  weight: 0.6667
-  avg_copies: 2.0
-- name: Vexing Bauble
+- name: Arid Mesa
   weight: 0.6667
   avg_copies: 2.0
 - name: Surgical Extraction
@@ -78,7 +75,10 @@ top_cards:
 - name: Pyroclasm
   weight: 0.6667
   avg_copies: 2.0
-- name: Arid Mesa
+- name: Meltdown
+  weight: 0.6667
+  avg_copies: 2.0
+- name: Vexing Bauble
   weight: 0.6667
   avg_copies: 2.0
 - name: Summoning Trap
@@ -93,28 +93,34 @@ top_cards:
 - name: Blood Crypt
   weight: 0.6667
   avg_copies: 1.0
-- name: Plains
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Breeding Pool
+- name: Swamp
   weight: 0.6667
   avg_copies: 1.0
 - name: Indatha Triome
   weight: 0.6667
   avg_copies: 1.0
-- name: Swamp
+- name: Breeding Pool
   weight: 0.6667
   avg_copies: 1.0
-- name: Faithful Mending
-  weight: 0.3333
-  avg_copies: 3.0
+- name: Plains
+  weight: 0.6667
+  avg_copies: 1.0
 - name: Flooded Strand
   weight: 0.3333
   avg_copies: 3.0
 - name: Wooded Foothills
   weight: 0.3333
   avg_copies: 3.0
+- name: Faithful Mending
+  weight: 0.3333
+  avg_copies: 3.0
+- name: Scalding Tarn
+  weight: 0.3333
+  avg_copies: 2.0
 - name: Bloodstained Mire
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Fire Magic
   weight: 0.3333
   avg_copies: 2.0
 - name: Force of Despair
@@ -123,34 +129,28 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.3333
   avg_copies: 2.0
-- name: Scalding Tarn
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Fire Magic
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Undercity Sewers
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Teferi, Time Raveler
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Temple Garden
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Snow-Covered Swamp
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Glasspool Mimic
   weight: 0.3333
   avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.3333
   avg_copies: 1.0
+- name: Meticulous Archive
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Raugrin Triome
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Teferi, Time Raveler
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Undercity Sewers
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Snow-Covered Swamp
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Temple Garden
   weight: 0.3333
   avg_copies: 1.0
 ---

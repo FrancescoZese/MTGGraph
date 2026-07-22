@@ -2,55 +2,55 @@
 colors:
 - R
 name: 'Unknown #178'
-meta_share: 0.0005
-list_count: 3
+meta_share: 0.0007
+list_count: 4
 top_cards:
 - name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Rift Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Seal of Fire
   weight: 1.0
   avg_copies: 4.0
 - name: Goblin Guide
   weight: 1.0
   avg_copies: 4.0
-- name: Lava Spike
+- name: Monastery Swiftspear
+  weight: 1.0
+  avg_copies: 4.0
+- name: Seal of Fire
   weight: 1.0
   avg_copies: 4.0
 - name: Boltwave
   weight: 1.0
   avg_copies: 4.0
-- name: Monastery Swiftspear
+- name: Rift Bolt
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lava Spike
   weight: 1.0
   avg_copies: 4.0
 - name: card:bump-in-the-night
   weight: 1.0
   avg_copies: 4.0
-- name: Chandra's Incinerator
-  weight: 1.0
-  avg_copies: 3.0
 - name: Arena of Glory
   weight: 1.0
   avg_copies: 3.0
 - name: Barbarian Ring
   weight: 1.0
   avg_copies: 3.0
-- name: Blood Crypt
+- name: Chandra's Incinerator
+  weight: 1.0
+  avg_copies: 3.0
+- name: Smash to Smithereens
   weight: 1.0
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 2.0
 - name: Rakdos Charm
   weight: 1.0
   avg_copies: 2.0
-- name: Smash to Smithereens
+- name: Damping Sphere
   weight: 1.0
   avg_copies: 2.0
-- name: Arid Mesa
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 2.0
 - name: Searing Blaze
@@ -58,32 +58,17 @@ top_cards:
   avg_copies: 2.0
 - name: Skewer the Critics
   weight: 1.0
-  avg_copies: 1.67
+  avg_copies: 1.5
 - name: Skullcrack
   weight: 1.0
-  avg_copies: 1.33
-- name: Wooded Foothills
-  weight: 1.0
-  avg_copies: 1.0
-- name: Ragavan, Nimble Pilferer
-  weight: 1.0
-  avg_copies: 1.0
-- name: Rain of Gore
+  avg_copies: 1.25
+- name: Eidolon of the Great Revel
   weight: 1.0
   avg_copies: 1.0
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.0
-- name: Raucous Theater
-  weight: 1.0
-  avg_copies: 1.0
-- name: Eidolon of the Great Revel
-  weight: 1.0
-  avg_copies: 1.0
-- name: Mountain
-  weight: 1.0
-  avg_copies: 1.0
-- name: Exquisite Firecraft
+- name: Rain of Gore
   weight: 1.0
   avg_copies: 1.0
 - name: Pyroclasm
@@ -92,11 +77,26 @@ top_cards:
 - name: Molten Rain
   weight: 1.0
   avg_copies: 1.0
+- name: Mountain
+  weight: 1.0
+  avg_copies: 1.0
+- name: Ragavan, Nimble Pilferer
+  weight: 1.0
+  avg_copies: 1.0
+- name: Exquisite Firecraft
+  weight: 1.0
+  avg_copies: 1.0
+- name: Wooded Foothills
+  weight: 1.0
+  avg_copies: 1.0
+- name: Raucous Theater
+  weight: 1.0
+  avg_copies: 1.0
 - name: Surgical Extraction
-  weight: 0.6667
+  weight: 0.75
   avg_copies: 2.0
 - name: Searing Blood
-  weight: 0.3333
+  weight: 0.25
   avg_copies: 1.0
 ---
 Unclassified archetype, pending review.

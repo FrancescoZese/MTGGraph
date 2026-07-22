@@ -9,19 +9,19 @@ type: Land
 meta_presence: 0.0589
 archetypes:
   amulet-titan:
-    weight: 0.9675
+    weight: 0.9677
     avg_copies: 1.0
   goryo:
-    weight: 0.0068
+    weight: 0.0067
     avg_copies: 3.5
   yawgmoth-combo:
-    weight: 0.0353
+    weight: 0.0349
     avg_copies: 1.33
   eldrazi-ramp:
-    weight: 0.6475
+    weight: 0.6452
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.2258
+    weight: 0.2249
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.0625
@@ -39,7 +39,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-61:
-    weight: 0.025
+    weight: 0.0233
     avg_copies: 1.0
   unknown-76:
     weight: 0.3333
@@ -48,8 +48,8 @@ archetypes:
     weight: 0.0833
     avg_copies: 1.0
   unknown-126:
-    weight: 0.8
-    avg_copies: 1.8
+    weight: 0.8077
+    avg_copies: 1.76
   unknown-130:
     weight: 1.0
     avg_copies: 1.0

@@ -7,34 +7,34 @@ name: 'Unknown #131'
 meta_share: 0.0014
 list_count: 8
 top_cards:
-- name: Psychic Frog
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 4.0
-- name: Quantum Riddler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Guide of Souls
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flooded Strand
-  weight: 1.0
-  avg_copies: 4.0
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
+- name: Guide of Souls
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Starfield Shepherd
+- name: Quantum Riddler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Psychic Frog
+  weight: 1.0
+  avg_copies: 4.0
+- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.75
-- name: Phelia, Exuberant Shepherd
+- name: Starfield Shepherd
   weight: 1.0
   avg_copies: 3.75
 - name: Practiced Offense
@@ -55,19 +55,19 @@ top_cards:
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.75
-- name: Plains
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.75
-- name: Hallowed Fountain
+- name: Plains
   weight: 1.0
   avg_copies: 1.75
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.12
-- name: Island
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowy Backstreet
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Watery Grave
@@ -88,10 +88,10 @@ top_cards:
 - name: Thoughtseize
   weight: 0.625
   avg_copies: 1.83
-- name: Nihil Spellbomb
+- name: Surgical Extraction
   weight: 0.625
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Nihil Spellbomb
   weight: 0.625
   avg_copies: 1.0
 - name: Burrenton Forge-Tender
@@ -115,19 +115,19 @@ top_cards:
 - name: High Noon
   weight: 0.125
   avg_copies: 2.0
-- name: Voice of Victory
-  weight: 0.125
-  avg_copies: 2.0
 - name: Containment Priest
   weight: 0.125
   avg_copies: 2.0
-- name: Elesh Norn, Mother of Machines
+- name: Voice of Victory
+  weight: 0.125
+  avg_copies: 2.0
+- name: Swamp
   weight: 0.125
   avg_copies: 1.0
 - name: Clarion Conqueror
   weight: 0.125
   avg_copies: 1.0
-- name: Swamp
+- name: Elesh Norn, Mother of Machines
   weight: 0.125
   avg_copies: 1.0
 ---

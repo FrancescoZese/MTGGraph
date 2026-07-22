@@ -8,28 +8,28 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 4.67
+- name: Expedition Map
+  weight: 1.0
+  avg_copies: 4.0
+- name: Kozilek's Command
+  weight: 1.0
+  avg_copies: 4.0
 - name: Stock Up
   weight: 1.0
   avg_copies: 4.0
 - name: Force of Negation
   weight: 1.0
   avg_copies: 4.0
-- name: Kozilek's Command
-  weight: 1.0
-  avg_copies: 4.0
-- name: Expedition Map
-  weight: 1.0
-  avg_copies: 4.0
-- name: Subtlety
-  weight: 1.0
-  avg_copies: 3.33
 - name: Portent of Calamity
   weight: 1.0
   avg_copies: 3.33
-- name: Urza's Mine
+- name: Subtlety
+  weight: 1.0
+  avg_copies: 3.33
+- name: Urza's Power Plant
   weight: 1.0
   avg_copies: 3.0
-- name: Urza's Power Plant
+- name: Urza's Mine
   weight: 1.0
   avg_copies: 3.0
 - name: Urza's Tower
@@ -44,10 +44,10 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 2.25
-- name: Spell Snare
+- name: Dress Down
   weight: 1.0
   avg_copies: 2.0
-- name: Dress Down
+- name: Spell Snare
   weight: 1.0
   avg_copies: 2.0
 - name: Sink into Stupor
@@ -68,9 +68,6 @@ top_cards:
 - name: Emrakul, the Aeons Torn
   weight: 0.6667
   avg_copies: 2.5
-- name: Stern Scolding
-  weight: 0.6667
-  avg_copies: 2.0
 - name: Flusterstorm
   weight: 0.6667
   avg_copies: 2.0
@@ -83,6 +80,9 @@ top_cards:
 - name: Hurkyl's Recall
   weight: 0.6667
   avg_copies: 2.0
+- name: Stern Scolding
+  weight: 0.6667
+  avg_copies: 2.0
 - name: card:confounding-conundrum
   weight: 0.3333
   avg_copies: 3.0
@@ -92,7 +92,7 @@ top_cards:
 - name: card:one-with-the-multiverse
   weight: 0.3333
   avg_copies: 2.0
-- name: Talisman of Progress
+- name: Talisman of Curiosity
   weight: 0.3333
   avg_copies: 1.0
 - name: Relic of Progenitus
@@ -104,7 +104,7 @@ top_cards:
 - name: Snow-Covered Island
   weight: 0.3333
   avg_copies: 1.0
-- name: Talisman of Curiosity
+- name: Talisman of Progress
   weight: 0.3333
   avg_copies: 1.0
 ---

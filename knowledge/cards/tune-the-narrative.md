@@ -7,16 +7,16 @@ name: Tune the Narrative
 scryfall_id: 40b13321-98f1-4e8c-802d-65498e43ec24
 set: mh3
 type: Instant
-meta_presence: 0.009
+meta_presence: 0.0091
 archetypes:
   jeskai-energy:
     weight: 0.0075
     avg_copies: 2.0
   azorius-control:
-    weight: 0.3049
-    avg_copies: 2.8
+    weight: 0.3133
+    avg_copies: 2.81
   jeskai-control:
-    weight: 0.1277
+    weight: 0.125
     avg_copies: 1.83
   bant-control:
     weight: 1.0

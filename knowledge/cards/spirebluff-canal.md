@@ -6,16 +6,16 @@ name: Spirebluff Canal
 scryfall_id: 59a04e16-a767-4112-ab01-6ca1b09c286c
 set: otj
 type: Land
-meta_presence: 0.0955
+meta_presence: 0.0948
 archetypes:
   ruby-storm:
-    weight: 0.0095
+    weight: 0.0094
     avg_copies: 3.0
   affinity:
     weight: 0.9899
     avg_copies: 3.74
   izzet-prowess:
-    weight: 0.0445
+    weight: 0.0444
     avg_copies: 2.0
   izzet-artifacts:
     weight: 0.6562

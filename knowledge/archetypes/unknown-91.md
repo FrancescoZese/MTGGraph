@@ -6,55 +6,61 @@ name: 'Unknown #91'
 meta_share: 0.0003
 list_count: 2
 top_cards:
-- name: Psychic Frog
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
 - name: Abhorrent Oculus
   weight: 1.0
   avg_copies: 4.0
-- name: Flare of Denial
-  weight: 1.0
-  avg_copies: 4.0
-- name: Scalding Tarn
-  weight: 1.0
-  avg_copies: 4.0
-- name: Fatal Push
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Unearth
   weight: 1.0
   avg_copies: 4.0
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
 - name: Fallaji Archaeologist
   weight: 1.0
   avg_copies: 4.0
+- name: Flare of Denial
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 4.0
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
+- name: Consign to Memory
+  weight: 1.0
+  avg_copies: 3.0
 - name: Undercity Sewers
   weight: 1.0
   avg_copies: 3.0
 - name: Counterspell
   weight: 1.0
   avg_copies: 3.0
-- name: Consign to Memory
-  weight: 1.0
-  avg_copies: 3.0
-- name: Graveyard Trespasser
-  weight: 1.0
-  avg_copies: 2.0
-- name: Toxic Deluge
-  weight: 1.0
-  avg_copies: 2.0
-- name: Island
+- name: Kaito, Bane of Nightmares
   weight: 1.0
   avg_copies: 2.0
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.0
-- name: Force of Negation
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Graveyard Trespasser
+  weight: 1.0
+  avg_copies: 2.0
+- name: Island
+  weight: 1.0
+  avg_copies: 2.0
+- name: Sheoldred's Edict
+  weight: 1.0
+  avg_copies: 2.0
+- name: Tamiyo, Inquisitive Student
+  weight: 1.0
+  avg_copies: 2.0
+- name: Toxic Deluge
   weight: 1.0
   avg_copies: 2.0
 - name: Boggart Trawler
@@ -63,31 +69,25 @@ top_cards:
 - name: Watery Grave
   weight: 1.0
   avg_copies: 2.0
-- name: Kaito, Bane of Nightmares
+- name: Force of Negation
   weight: 1.0
   avg_copies: 2.0
-- name: Tamiyo, Inquisitive Student
-  weight: 1.0
-  avg_copies: 2.0
-- name: Sheoldred's Edict
-  weight: 1.0
-  avg_copies: 2.0
-- name: Spell Snare
+- name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 1.5
-- name: Harbinger of the Seas
+- name: Spell Snare
   weight: 1.0
   avg_copies: 1.5
 - name: Hurkyl's Recall
   weight: 1.0
   avg_copies: 1.5
-- name: Cling to Dust
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: No One Left Behind
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Cling to Dust
   weight: 1.0
   avg_copies: 1.0
 - name: Vexing Bauble

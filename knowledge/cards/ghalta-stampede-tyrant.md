@@ -10,12 +10,12 @@ type: Legendary Creature — Elder Dinosaur
 meta_presence: 0.0127
 archetypes:
   goryo:
-    weight: 0.0034
+    weight: 0.0033
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.9861
-    avg_copies: 2.23
+    weight: 0.9863
+    avg_copies: 2.22
   unknown-61:
-    weight: 0.025
+    weight: 0.0233
     avg_copies: 1.0
 ---

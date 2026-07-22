@@ -11,6 +11,6 @@ type: Enchantment
 meta_presence: 0.0003
 archetypes:
   neoform-combo:
-    weight: 0.0278
+    weight: 0.0274
     avg_copies: 1.0
 ---

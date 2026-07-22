@@ -10,19 +10,19 @@ type: Creature — Dragon
 meta_presence: 0.1723
 archetypes:
   boros-energy:
-    weight: 0.8258
+    weight: 0.8256
     avg_copies: 2.42
   jeskai-energy:
     weight: 0.9774
     avg_copies: 2.74
   azorius-control:
-    weight: 0.0122
+    weight: 0.012
     avg_copies: 2.0
   jeskai-control:
-    weight: 0.1064
+    weight: 0.1042
     avg_copies: 2.8
   domain-zoo:
-    weight: 0.56
+    weight: 0.5669
     avg_copies: 1.99
   reanimator:
     weight: 0.1111
@@ -37,7 +37,7 @@ archetypes:
     weight: 0.4118
     avg_copies: 2.5
   izzet-prowess:
-    weight: 0.0342
+    weight: 0.0341
     avg_copies: 1.9
   4c-omnath:
     weight: 1.0
@@ -100,13 +100,13 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-67:
-    weight: 0.1233
+    weight: 0.12
     avg_copies: 3.22
   unknown-68:
     weight: 0.5
     avg_copies: 2.26
   unknown-70:
-    weight: 0.3529
+    weight: 0.3333
     avg_copies: 2.17
   unknown-79:
     weight: 0.1667
@@ -121,8 +121,8 @@ archetypes:
     weight: 0.6667
     avg_copies: 3.0
   unknown-96:
-    weight: 0.5294
-    avg_copies: 2.22
+    weight: 0.5556
+    avg_copies: 2.2
   unknown-90:
     weight: 1.0
     avg_copies: 2.0
@@ -160,8 +160,8 @@ archetypes:
     weight: 0.3
     avg_copies: 3.0
   unknown-152:
-    weight: 0.5
-    avg_copies: 2.0
+    weight: 0.6667
+    avg_copies: 2.5
   unknown-157:
     weight: 1.0
     avg_copies: 3.0
@@ -175,7 +175,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-207:
-    weight: 0.3333
+    weight: 0.4
     avg_copies: 2.0
   unknown-208:
     weight: 1.0

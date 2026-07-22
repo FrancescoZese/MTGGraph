@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.2648
 archetypes:
   boros-energy:
-    weight: 0.9695
+    weight: 0.9697
     avg_copies: 3.28
   dimir-control:
     weight: 0.3827
@@ -18,16 +18,16 @@ archetypes:
     weight: 0.0526
     avg_copies: 1.0
   goryo:
-    weight: 0.9966
-    avg_copies: 3.36
+    weight: 0.9967
+    avg_copies: 3.37
   necrodominance:
     weight: 0.2093
     avg_copies: 1.11
   azorius-control:
-    weight: 0.2561
+    weight: 0.253
     avg_copies: 1.81
   domain-zoo:
-    weight: 0.016
+    weight: 0.0157
     avg_copies: 4.0
   reanimator:
     weight: 0.037
@@ -51,7 +51,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.8226
+    weight: 0.8254
     avg_copies: 2.06
   rakdos-aggro:
     weight: 0.0526
@@ -66,14 +66,14 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   goryo1:
-    weight: 0.0128
+    weight: 0.0126
     avg_copies: 1.0
   goryo5:
     weight: 0.6087
     avg_copies: 2.57
   goryo2:
     weight: 1.0
-    avg_copies: 3.21
+    avg_copies: 3.27
   soultrader-combo:
     weight: 0.5
     avg_copies: 2.67
@@ -105,7 +105,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.8723
+    weight: 0.875
     avg_copies: 1.76
   unknown-51:
     weight: 1.0
@@ -129,7 +129,7 @@ archetypes:
     weight: 0.875
     avg_copies: 1.14
   unknown-70:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 1.0
   unknown-73:
     weight: 1.0
@@ -153,7 +153,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 3.0
   unknown-100:
     weight: 0.5

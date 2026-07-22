@@ -7,12 +7,12 @@ name: Bone Shards
 scryfall_id: 1ee98955-4c47-4d45-9377-608dfa755337
 set: mh2
 type: Sorcery
-meta_presence: 0.0042
+meta_presence: 0.0043
 archetypes:
   unknown-45:
-    weight: 0.8846
+    weight: 0.8889
     avg_copies: 1.0
   unknown-181:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 1.0
 ---

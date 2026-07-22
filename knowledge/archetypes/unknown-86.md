@@ -8,34 +8,34 @@ top_cards:
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Boltwave
-  weight: 1.0
-  avg_copies: 4.0
-- name: Monastery Swiftspear
-  weight: 1.0
-  avg_copies: 4.0
-- name: Dragon's Rage Channeler
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Lava Spike
   weight: 1.0
   avg_copies: 4.0
-- name: Cori-Steel Cutter
+- name: Monastery Swiftspear
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Boltwave
+  weight: 1.0
+  avg_copies: 4.0
+- name: Dragon's Rage Channeler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lava Dart
   weight: 1.0
   avg_copies: 3.82
-- name: Lava Dart
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 3.82
 - name: Barbarian Ring
   weight: 1.0
   avg_copies: 3.73
-- name: Skewer the Critics
+- name: Light Up the Stage
   weight: 1.0
   avg_copies: 3.64
-- name: Light Up the Stage
+- name: Skewer the Critics
   weight: 1.0
   avg_copies: 3.64
 - name: Tormod's Crypt
@@ -95,10 +95,10 @@ top_cards:
 - name: Damping Sphere
   weight: 0.1818
   avg_copies: 3.0
-- name: Obsidian Charmaw
+- name: Pyroclasm
   weight: 0.1818
   avg_copies: 2.5
-- name: Pyroclasm
+- name: Obsidian Charmaw
   weight: 0.1818
   avg_copies: 2.5
 - name: Goblin Guide
@@ -116,10 +116,10 @@ top_cards:
 - name: Smash to Smithereens
   weight: 0.0909
   avg_copies: 3.0
-- name: Magebane Lizard
+- name: Path to Exile
   weight: 0.0909
   avg_copies: 2.0
-- name: Path to Exile
+- name: Magebane Lizard
   weight: 0.0909
   avg_copies: 2.0
 - name: Vexing Bauble
@@ -131,10 +131,10 @@ top_cards:
 - name: Gut Shot
   weight: 0.0909
   avg_copies: 2.0
-- name: Engineered Explosives
+- name: Prismatic Ending
   weight: 0.0909
   avg_copies: 1.0
-- name: Prismatic Ending
+- name: Engineered Explosives
   weight: 0.0909
   avg_copies: 1.0
 - name: Sokenzan, Crucible of Defiance

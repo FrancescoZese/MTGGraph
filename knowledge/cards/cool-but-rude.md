@@ -10,7 +10,7 @@ type: Enchantment — Class
 meta_presence: 0.0017
 archetypes:
   boros-energy:
-    weight: 0.0015
+    weight: 0.0014
     avg_copies: 1.0
   hollow-one:
     weight: 0.0882

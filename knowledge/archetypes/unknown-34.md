@@ -7,10 +7,19 @@ name: 'Unknown #34'
 meta_share: 0.0007
 list_count: 4
 top_cards:
-- name: Bloodstained Mire
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
+  weight: 1.0
+  avg_copies: 4.0
+- name: Bloodstained Mire
+  weight: 1.0
+  avg_copies: 4.0
+- name: Goryo's Vengeance
+  weight: 1.0
+  avg_copies: 4.0
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Emrakul, the Aeons Torn
@@ -19,16 +28,7 @@ top_cards:
 - name: Cragganwick Cremator
   weight: 1.0
   avg_copies: 4.0
-- name: Verdant Catacombs
-  weight: 1.0
-  avg_copies: 4.0
 - name: Yargle and Multani
-  weight: 1.0
-  avg_copies: 4.0
-- name: Goryo's Vengeance
-  weight: 1.0
-  avg_copies: 4.0
-- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Cabal Therapist
@@ -43,19 +43,19 @@ top_cards:
 - name: Blazemire Verge
   weight: 1.0
   avg_copies: 2.5
+- name: Swamp
+  weight: 1.0
+  avg_copies: 2.0
+- name: Raucous Theater
+  weight: 1.0
+  avg_copies: 2.0
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 2.0
 - name: Meltdown
   weight: 1.0
   avg_copies: 2.0
-- name: Raucous Theater
-  weight: 1.0
-  avg_copies: 2.0
 - name: Fatal Push
-  weight: 1.0
-  avg_copies: 2.0
-- name: Swamp
   weight: 1.0
   avg_copies: 2.0
 - name: Lightning Bolt
@@ -70,7 +70,7 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.12
-- name: Dismember
+- name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
 - name: Mount Doom
@@ -82,25 +82,25 @@ top_cards:
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Dismember
   weight: 1.0
   avg_copies: 1.0
-- name: Dauthi Voidwalker
+- name: Blackcleave Cliffs
   weight: 0.75
   avg_copies: 2.0
 - name: Orcish Bowmasters
   weight: 0.75
   avg_copies: 2.0
-- name: Blackcleave Cliffs
+- name: Dauthi Voidwalker
   weight: 0.75
   avg_copies: 2.0
+- name: Shattering Spree
+  weight: 0.75
+  avg_copies: 1.0
 - name: Fable of the Mirror-Breaker
   weight: 0.75
   avg_copies: 1.0
 - name: Blood Moon
-  weight: 0.75
-  avg_copies: 1.0
-- name: Shattering Spree
   weight: 0.75
   avg_copies: 1.0
 - name: Surgical Extraction
@@ -109,10 +109,10 @@ top_cards:
 - name: card:party-thrasher
   weight: 0.25
   avg_copies: 4.0
-- name: Pyroclasm
+- name: Emperor of Bones
   weight: 0.25
   avg_copies: 2.0
-- name: Emperor of Bones
+- name: Pyroclasm
   weight: 0.25
   avg_copies: 2.0
 ---

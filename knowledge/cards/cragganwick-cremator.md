@@ -7,7 +7,7 @@ name: Cragganwick Cremator
 scryfall_id: 4b13d612-f5d4-4423-99bc-359c47a8aa99
 set: 2xm
 type: Creature — Giant Shaman
-meta_presence: 0.0014
+meta_presence: 0.0015
 archetypes:
   unknown-34:
     weight: 1.0

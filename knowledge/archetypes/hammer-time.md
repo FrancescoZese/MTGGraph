@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: Hammer Time
-meta_share: 0.0023
+meta_share: 0.0022
 list_count: 13
 top_cards:
 - name: Colossus Hammer
@@ -135,22 +135,22 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.1538
   avg_copies: 1.5
-- name: Sigarda's Aid
-  weight: 0.1538
-  avg_copies: 1.5
 - name: Detect Intrusion
   weight: 0.1538
   avg_copies: 1.5
-- name: Voice of Victory
+- name: Sigarda's Aid
   weight: 0.1538
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Kaldra Compleat
   weight: 0.1538
   avg_copies: 1.0
-- name: Mishra's Bauble
+- name: Voice of Victory
+  weight: 0.1538
+  avg_copies: 1.0
+- name: Flare of Fortitude
   weight: 0.0769
   avg_copies: 4.0
-- name: Flare of Fortitude
+- name: Mishra's Bauble
   weight: 0.0769
   avg_copies: 4.0
 - name: Solitude
@@ -162,25 +162,25 @@ top_cards:
 - name: Erode
   weight: 0.0769
   avg_copies: 2.0
+- name: Umezawa's Jitte
+  weight: 0.0769
+  avg_copies: 1.0
+- name: card:spider-sense
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Skateboard
+  weight: 0.0769
+  avg_copies: 1.0
 - name: Forge Anew
   weight: 0.0769
   avg_copies: 1.0
 - name: Spell Snare
   weight: 0.0769
   avg_copies: 1.0
-- name: Stubborn Denial
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Umezawa's Jitte
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Skateboard
-  weight: 0.0769
-  avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.0769
   avg_copies: 1.0
-- name: card:spider-sense
+- name: Stubborn Denial
   weight: 0.0769
   avg_copies: 1.0
 ---

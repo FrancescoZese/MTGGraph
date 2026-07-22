@@ -8,9 +8,9 @@ name: Halo Forager
 scryfall_id: edb5f0cc-c826-4e7b-882c-63f6e51fa932
 set: mom
 type: Creature — Faerie Rogue
-meta_presence: 0.0092
+meta_presence: 0.0093
 archetypes:
   living-end:
-    weight: 0.791
+    weight: 0.7941
     avg_copies: 1.0
 ---

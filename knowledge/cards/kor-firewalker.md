@@ -10,7 +10,7 @@ type: Creature — Kor Soldier
 meta_presence: 0.0014
 archetypes:
   boros-energy:
-    weight: 0.0015
+    weight: 0.0014
     avg_copies: 2.0
   burn:
     weight: 0.0541
@@ -22,6 +22,6 @@ archetypes:
     weight: 0.1
     avg_copies: 2.5
   unknown-160:
-    weight: 0.0154
+    weight: 0.0152
     avg_copies: 2.0
 ---

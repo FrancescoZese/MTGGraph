@@ -87,10 +87,10 @@ top_cards:
 - name: Reprieve
   weight: 0.6
   avg_copies: 2.58
-- name: Thundering Falls
+- name: Raph & Mikey, Troublemakers
   weight: 0.6
   avg_copies: 1.0
-- name: Raph & Mikey, Troublemakers
+- name: Thundering Falls
   weight: 0.6
   avg_copies: 1.0
 - name: Galvanic Discharge
@@ -105,10 +105,10 @@ top_cards:
 - name: Plains
   weight: 0.5333
   avg_copies: 1.0
-- name: Valakut Awakening
+- name: Boseiju, Who Endures
   weight: 0.4667
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Valakut Awakening
   weight: 0.4667
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -135,10 +135,10 @@ top_cards:
 - name: Ziatora's Proving Ground
   weight: 0.2667
   avg_copies: 1.0
-- name: Thoughtseize
+- name: Persist
   weight: 0.2
   avg_copies: 4.0
-- name: Persist
+- name: Thoughtseize
   weight: 0.2
   avg_copies: 4.0
 - name: Faithless Looting
@@ -156,13 +156,13 @@ top_cards:
 - name: Spell Pierce
   weight: 0.2
   avg_copies: 1.4
+- name: Valgavoth, Terror Eater
+  weight: 0.2
+  avg_copies: 1.0
 - name: Commercial District
   weight: 0.2
   avg_copies: 1.0
 - name: Prismari Charm
-  weight: 0.2
-  avg_copies: 1.0
-- name: Valgavoth, Terror Eater
   weight: 0.2
   avg_copies: 1.0
 - name: Leyline of the Void
@@ -171,13 +171,13 @@ top_cards:
 - name: Emrakul, the Aeons Torn
   weight: 0.1333
   avg_copies: 1.0
+- name: Abrupt Decay
+  weight: 0.1333
+  avg_copies: 1.0
 - name: Ketria Triome
   weight: 0.1333
   avg_copies: 1.0
 - name: Prismari Command
-  weight: 0.1333
-  avg_copies: 1.0
-- name: Abrupt Decay
   weight: 0.1333
   avg_copies: 1.0
 - name: Nature's Claim
@@ -192,22 +192,13 @@ top_cards:
 - name: Inquisition of Kozilek
   weight: 0.0667
   avg_copies: 1.5
-- name: Elesh Norn, Mother of Machines
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Witherbloom Command
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Vampires' Vengeance
+- name: Raugrin Triome
   weight: 0.0667
   avg_copies: 1.0
 - name: Rest in Peace
   weight: 0.0667
   avg_copies: 1.0
-- name: Swamp
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Raugrin Triome
+- name: Witherbloom Command
   weight: 0.0667
   avg_copies: 1.0
 - name: Molten Collapse
@@ -217,6 +208,15 @@ top_cards:
   weight: 0.0667
   avg_copies: 1.0
 - name: Turn the Earth
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Vampires' Vengeance
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Swamp
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
   weight: 0.0667
   avg_copies: 1.0
 ---

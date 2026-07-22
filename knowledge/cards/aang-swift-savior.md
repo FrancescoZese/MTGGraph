@@ -10,7 +10,7 @@ type: Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar 
 meta_presence: 0.0019
 archetypes:
   azorius-blink:
-    weight: 0.0484
+    weight: 0.0476
     avg_copies: 2.67
   unknown-17:
     weight: 0.3333

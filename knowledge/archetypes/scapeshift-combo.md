@@ -29,25 +29,22 @@ top_cards:
 - name: Ghost Quarter
   weight: 0.8333
   avg_copies: 1.2
-- name: Dryad Arbor
+- name: Shifting Woodland
   weight: 0.8333
   avg_copies: 1.0
-- name: Shifting Woodland
+- name: Dryad Arbor
   weight: 0.8333
   avg_copies: 1.0
 - name: Collector Ouphe
   weight: 0.6667
   avg_copies: 1.0
-- name: Prismatic Vista
-  weight: 0.5
-  avg_copies: 4.0
-- name: Hashep Oasis
-  weight: 0.5
-  avg_copies: 4.0
-- name: Eldrazi Temple
+- name: Springheart Nantuko
   weight: 0.5
   avg_copies: 4.0
 - name: Dryad of the Ilysian Grove
+  weight: 0.5
+  avg_copies: 4.0
+- name: Vibrance
   weight: 0.5
   avg_copies: 4.0
 - name: Badgermole Cub
@@ -56,28 +53,31 @@ top_cards:
 - name: Sowing Mycospawn
   weight: 0.5
   avg_copies: 4.0
-- name: Wooded Foothills
-  weight: 0.5
-  avg_copies: 4.0
-- name: Vibrance
-  weight: 0.5
-  avg_copies: 4.0
-- name: Springheart Nantuko
-  weight: 0.5
-  avg_copies: 4.0
 - name: Thought-Knot Seer
   weight: 0.5
   avg_copies: 4.0
-- name: Kozilek's Command
-  weight: 0.5
-  avg_copies: 4.0
-- name: Valakut, the Molten Pinnacle
+- name: Eldrazi Temple
   weight: 0.5
   avg_copies: 4.0
 - name: Ouroboroid
   weight: 0.5
   avg_copies: 4.0
+- name: Wooded Foothills
+  weight: 0.5
+  avg_copies: 4.0
+- name: Hashep Oasis
+  weight: 0.5
+  avg_copies: 4.0
+- name: Kozilek's Command
+  weight: 0.5
+  avg_copies: 4.0
 - name: Delighted Halfling
+  weight: 0.5
+  avg_copies: 4.0
+- name: Prismatic Vista
+  weight: 0.5
+  avg_copies: 4.0
+- name: Valakut, the Molten Pinnacle
   weight: 0.5
   avg_copies: 4.0
 - name: Arboreal Grazer
@@ -86,28 +86,31 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.5
   avg_copies: 3.33
-- name: Trinisphere
+- name: Wrenn and Six
   weight: 0.5
   avg_copies: 3.0
 - name: Commercial District
   weight: 0.5
   avg_copies: 3.0
-- name: Wrenn and Six
+- name: Trinisphere
   weight: 0.5
   avg_copies: 3.0
-- name: Creeping Corrosion
+- name: Stomping Ground
   weight: 0.5
   avg_copies: 2.0
-- name: Stomping Ground
+- name: Creeping Corrosion
   weight: 0.5
   avg_copies: 2.0
 - name: Mountain
   weight: 0.5
   avg_copies: 1.67
+- name: Tajuru Preserver
+  weight: 0.5
+  avg_copies: 1.0
 - name: Endurance
   weight: 0.5
   avg_copies: 1.0
-- name: Tajuru Preserver
+- name: Blast Zone
   weight: 0.5
   avg_copies: 1.0
 - name: Wastes
@@ -116,19 +119,16 @@ top_cards:
 - name: Chomping Changeling
   weight: 0.5
   avg_copies: 1.0
-- name: Blast Zone
-  weight: 0.5
-  avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.3333
   avg_copies: 4.0
 - name: Lightning Bolt
   weight: 0.3333
   avg_copies: 3.0
-- name: Fade from History
+- name: Pyroclasm
   weight: 0.3333
   avg_copies: 3.0
-- name: Pyroclasm
+- name: Fade from History
   weight: 0.3333
   avg_copies: 3.0
 - name: Scalding Tarn
@@ -137,6 +137,9 @@ top_cards:
 - name: Prismatic Omen
   weight: 0.3333
   avg_copies: 2.0
+- name: Surgical Extraction
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Six
   weight: 0.3333
   avg_copies: 1.0
@@ -146,34 +149,40 @@ top_cards:
 - name: Fuel the Flames
   weight: 0.3333
   avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Orim's Chant
   weight: 0.1667
   avg_copies: 4.0
 - name: Fire Magic
   weight: 0.1667
   avg_copies: 4.0
-- name: Farseek
+- name: Arid Mesa
   weight: 0.1667
   avg_copies: 3.0
 - name: Bring to Light
   weight: 0.1667
   avg_copies: 3.0
-- name: Arid Mesa
+- name: Farseek
   weight: 0.1667
   avg_copies: 3.0
-- name: Meltdown
+- name: Celestial Purge
   weight: 0.1667
   avg_copies: 2.0
-- name: Celestial Purge
+- name: Meltdown
   weight: 0.1667
   avg_copies: 2.0
 - name: Scapeshift
   weight: 0.1667
   avg_copies: 2.0
+- name: Insidious Fungus
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Thundering Falls
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Keen-Eyed Curator
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Dwarven Mine
   weight: 0.1667
   avg_copies: 1.0
 - name: Sacred Foundry
@@ -182,16 +191,7 @@ top_cards:
 - name: Sakura-Tribe Elder
   weight: 0.1667
   avg_copies: 1.0
-- name: Dwarven Mine
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Jetmir's Garden
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Insidious Fungus
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Keen-Eyed Curator
   weight: 0.1667
   avg_copies: 1.0
 ---

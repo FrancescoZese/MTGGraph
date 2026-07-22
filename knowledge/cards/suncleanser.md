@@ -10,7 +10,7 @@ type: Creature — Human Cleric
 meta_presence: 0.0134
 archetypes:
   boros-energy:
-    weight: 0.0015
+    weight: 0.0014
     avg_copies: 2.0
   jeskai-energy:
     weight: 0.0075
@@ -28,6 +28,6 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-126:
-    weight: 0.72
+    weight: 0.7308
     avg_copies: 1.0
 ---

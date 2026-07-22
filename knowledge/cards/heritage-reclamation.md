@@ -10,10 +10,10 @@ type: Instant
 meta_presence: 0.0036
 archetypes:
   amulet-titan:
-    weight: 0.0195
+    weight: 0.0194
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0514
+    weight: 0.0512
     avg_copies: 1.6
   unknown-97:
     weight: 0.25

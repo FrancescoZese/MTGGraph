@@ -10,7 +10,7 @@ type: Enchantment Creature — Phoenix
 meta_presence: 0.0194
 archetypes:
   boros-energy:
-    weight: 0.0015
+    weight: 0.0014
     avg_copies: 2.0
   reanimator:
     weight: 0.037
@@ -44,7 +44,7 @@ archetypes:
     avg_copies: 4.0
   unknown-96:
     weight: 1.0
-    avg_copies: 3.65
+    avg_copies: 3.67
   unknown-101:
     weight: 1.0
     avg_copies: 4.0

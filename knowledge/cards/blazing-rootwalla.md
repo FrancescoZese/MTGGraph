@@ -7,7 +7,7 @@ name: Blazing Rootwalla
 scryfall_id: 4404fc9c-ef02-479c-9638-0cc163f0b48f
 set: mh2
 type: Creature — Lizard
-meta_presence: 0.0042
+meta_presence: 0.0043
 archetypes:
   hollow-one:
     weight: 0.0882
@@ -19,7 +19,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-96:
-    weight: 0.9412
+    weight: 0.9444
     avg_copies: 4.0
   unknown-148:
     weight: 1.0

@@ -9,6 +9,9 @@ top_cards:
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
 - name: Counterspell
   weight: 1.0
   avg_copies: 4.0
@@ -18,19 +21,16 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
 - name: Consult the Star Charts
   weight: 1.0
   avg_copies: 4.0
 - name: Wan Shi Tong, Librarian
   weight: 1.0
   avg_copies: 3.8
-- name: Field of Ruin
+- name: Subtlety
   weight: 1.0
   avg_copies: 3.2
-- name: Subtlety
+- name: Field of Ruin
   weight: 1.0
   avg_copies: 3.2
 - name: Spell Snare
@@ -42,10 +42,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.8
-- name: Cling to Dust
+- name: Watery Grave
   weight: 1.0
   avg_copies: 2.4
-- name: Watery Grave
+- name: Cling to Dust
   weight: 1.0
   avg_copies: 2.4
 - name: Undercity Sewers
@@ -78,16 +78,16 @@ top_cards:
 - name: Thundering Falls
   weight: 0.6
   avg_copies: 1.0
-- name: Steam Vents
-  weight: 0.6
-  avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Swamp
   weight: 0.6
   avg_copies: 1.0
 - name: Kaito, Bane of Nightmares
   weight: 0.6
   avg_copies: 1.0
-- name: Swamp
+- name: Steam Vents
+  weight: 0.6
+  avg_copies: 1.0
+- name: Nihil Spellbomb
   weight: 0.6
   avg_copies: 1.0
 - name: Snow-Covered Island
@@ -99,49 +99,49 @@ top_cards:
 - name: Spell Pierce
   weight: 0.4
   avg_copies: 1.5
-- name: Snow-Covered Swamp
+- name: Ghost Vacuum
   weight: 0.4
   avg_copies: 1.0
 - name: Misty Rainforest
   weight: 0.4
   avg_copies: 1.0
-- name: Ghost Vacuum
+- name: Snow-Covered Swamp
   weight: 0.4
   avg_copies: 1.0
-- name: Requiting Hex
+- name: Damnation
   weight: 0.2
   avg_copies: 2.0
-- name: Damnation
+- name: Requiting Hex
   weight: 0.2
   avg_copies: 2.0
 - name: Pest Control
   weight: 0.2
   avg_copies: 1.5
-- name: Marsh Flats
-  weight: 0.2
-  avg_copies: 1.0
-- name: Teferi, Time Raveler
-  weight: 0.2
-  avg_copies: 1.0
 - name: High Noon
-  weight: 0.2
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.2
-  avg_copies: 1.0
-- name: Erode
-  weight: 0.2
-  avg_copies: 1.0
-- name: Sink into Stupor
   weight: 0.2
   avg_copies: 1.0
 - name: Flusterstorm
   weight: 0.2
   avg_copies: 1.0
+- name: Meticulous Archive
+  weight: 0.2
+  avg_copies: 1.0
+- name: Teferi, Time Raveler
+  weight: 0.2
+  avg_copies: 1.0
+- name: Marsh Flats
+  weight: 0.2
+  avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 0.2
   avg_copies: 1.0
+- name: Erode
+  weight: 0.2
+  avg_copies: 1.0
 - name: Drown in the Loch
+  weight: 0.2
+  avg_copies: 1.0
+- name: Sink into Stupor
   weight: 0.2
   avg_copies: 1.0
 ---

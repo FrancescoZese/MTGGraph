@@ -7,10 +7,10 @@ name: Preordain
 scryfall_id: dd29a0e5-c1de-4e8a-8866-715e9f9cde1f
 set: tdc
 type: Sorcery
-meta_presence: 0.1153
+meta_presence: 0.1151
 archetypes:
   ruby-storm:
-    weight: 0.019
+    weight: 0.0188
     avg_copies: 2.0
   dimir-control:
     weight: 0.1605
@@ -19,16 +19,16 @@ archetypes:
     weight: 0.4815
     avg_copies: 2.85
   goryo:
-    weight: 0.0237
+    weight: 0.0234
     avg_copies: 1.57
   affinity:
-    weight: 0.3684
+    weight: 0.3697
     avg_copies: 2.97
   mill:
     weight: 0.4545
     avg_copies: 3.0
   neoform-combo:
-    weight: 0.0972
+    weight: 0.0959
     avg_copies: 1.57
   izzet-prowess:
     weight: 0.9966
@@ -49,13 +49,13 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.0449
+    weight: 0.0503
     avg_copies: 1.0
   goryo7:
     weight: 1.0
     avg_copies: 2.0
   goryo2:
-    weight: 0.1429
+    weight: 0.1333
     avg_copies: 2.0
   sultai-midrange:
     weight: 0.5
@@ -82,8 +82,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-47:
-    weight: 0.2553
-    avg_copies: 2.12
+    weight: 0.2708
+    avg_copies: 2.19
   unknown-53:
     weight: 1.0
     avg_copies: 4.0

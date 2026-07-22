@@ -8,7 +8,7 @@ name: Tyvar, Jubilant Brawler
 scryfall_id: 66605fe1-9a20-4c95-b53e-1249cedb978b
 set: one
 type: Legendary Planeswalker — Tyvar
-meta_presence: 0.0052
+meta_presence: 0.0053
 archetypes:
   mono-green-ramp:
     weight: 0.5714
@@ -18,5 +18,5 @@ archetypes:
     avg_copies: 4.0
   unknown-126:
     weight: 1.0
-    avg_copies: 3.88
+    avg_copies: 3.85
 ---

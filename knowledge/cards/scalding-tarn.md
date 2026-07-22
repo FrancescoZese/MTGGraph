@@ -6,11 +6,11 @@ name: Scalding Tarn
 scryfall_id: 71e491c5-8c07-449b-b2f1-ffa052e6d311
 set: mh2
 type: Land
-meta_presence: 0.2403
+meta_presence: 0.2406
 archetypes:
   ruby-storm:
-    weight: 0.8714
-    avg_copies: 2.3
+    weight: 0.8732
+    avg_copies: 2.31
   dimir-control:
     weight: 0.358
     avg_copies: 1.34
@@ -18,13 +18,13 @@ archetypes:
     weight: 0.9925
     avg_copies: 3.02
   azorius-control:
-    weight: 0.939
+    weight: 0.9398
     avg_copies: 1.81
   jeskai-control:
-    weight: 0.9362
-    avg_copies: 2.77
+    weight: 0.9375
+    avg_copies: 2.76
   affinity:
-    weight: 0.0506
+    weight: 0.0505
     avg_copies: 2.04
   mill:
     weight: 0.3939
@@ -33,8 +33,8 @@ archetypes:
     weight: 0.7778
     avg_copies: 1.05
   neoform-combo:
-    weight: 0.7222
-    avg_copies: 1.21
+    weight: 0.726
+    avg_copies: 1.23
   burn:
     weight: 0.7027
     avg_copies: 1.35
@@ -45,7 +45,7 @@ archetypes:
     weight: 0.0488
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.8562
+    weight: 0.8567
     avg_copies: 2.58
   indomitable-creativity:
     weight: 0.9333
@@ -75,7 +75,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   goryo1:
-    weight: 0.9231
+    weight: 0.9245
     avg_copies: 1.28
   goryo3:
     weight: 1.0
@@ -141,7 +141,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   unknown-47:
-    weight: 0.234
+    weight: 0.2292
     avg_copies: 1.0
   unknown-53:
     weight: 1.0
@@ -159,11 +159,11 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.3288
+    weight: 0.32
     avg_copies: 1.0
   unknown-70:
-    weight: 0.9412
-    avg_copies: 3.62
+    weight: 0.9444
+    avg_copies: 3.65
   unknown-71:
     weight: 1.0
     avg_copies: 4.0
@@ -189,7 +189,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.0588
+    weight: 0.1111
     avg_copies: 4.0
   unknown-91:
     weight: 1.0
@@ -226,7 +226,7 @@ archetypes:
     avg_copies: 4.0
   unknown-120:
     weight: 1.0
-    avg_copies: 2.62
+    avg_copies: 2.67
   unknown-118:
     weight: 1.0
     avg_copies: 2.0
