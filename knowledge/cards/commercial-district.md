@@ -6,16 +6,16 @@ name: Commercial District
 scryfall_id: bf220c06-3cce-4bdd-aa58-83940c223e9c
 set: mkm
 type: Land — Mountain Forest
-meta_presence: 0.0745
+meta_presence: 0.0748
 archetypes:
   ruby-storm:
-    weight: 0.5305
-    avg_copies: 1.04
+    weight: 0.5349
+    avg_copies: 1.03
   amulet-titan:
-    weight: 0.0323
+    weight: 0.0321
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0137
+    weight: 0.0133
     avg_copies: 1.0
   hollow-one:
     weight: 0.0588
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.2
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.3133
+    weight: 0.316
     avg_copies: 1.0
   dredge:
     weight: 0.3462
@@ -57,7 +57,7 @@ archetypes:
     weight: 0.2069
     avg_copies: 1.0
   unknown-67:
-    weight: 0.9333
+    weight: 0.9342
     avg_copies: 1.0
   unknown-97:
     weight: 0.0833

@@ -10,10 +10,10 @@ type: Enchantment
 meta_presence: 0.0305
 archetypes:
   neoform-combo:
-    weight: 0.0137
+    weight: 0.0133
     avg_copies: 3.0
   simic-ritual:
-    weight: 0.9878
+    weight: 0.988
     avg_copies: 3.95
   4c-omnath:
     weight: 0.5

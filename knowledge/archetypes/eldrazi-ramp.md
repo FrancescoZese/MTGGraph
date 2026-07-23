@@ -2,7 +2,7 @@
 colors:
 - G
 name: Eldrazi Ramp
-meta_share: 0.0213
+meta_share: 0.0212
 list_count: 124
 top_cards:
 - name: Ugin's Labyrinth
@@ -128,10 +128,10 @@ top_cards:
 - name: Magus of the Moon
   weight: 0.2097
   avg_copies: 1.96
-- name: Liquimetal Coating
+- name: Ensnaring Bridge
   weight: 0.2097
   avg_copies: 1.0
-- name: Ensnaring Bridge
+- name: Liquimetal Coating
   weight: 0.2097
   avg_copies: 1.0
 - name: Haywire Mite
@@ -167,10 +167,10 @@ top_cards:
 - name: Nulldrifter
   weight: 0.0968
   avg_copies: 2.75
-- name: Hedge Maze
+- name: Keen-Eyed Curator
   weight: 0.0968
   avg_copies: 1.0
-- name: Keen-Eyed Curator
+- name: Hedge Maze
   weight: 0.0968
   avg_copies: 1.0
 - name: Breeding Pool
@@ -209,6 +209,12 @@ top_cards:
 - name: Blood Moon
   weight: 0.0323
   avg_copies: 2.0
+- name: Six
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Arena of Glory
+  weight: 0.0323
+  avg_copies: 1.0
 - name: Ilharg, the Raze-Boar
   weight: 0.0323
   avg_copies: 1.0
@@ -218,28 +224,22 @@ top_cards:
 - name: Origin of Metalbending
   weight: 0.0323
   avg_copies: 1.0
-- name: Arena of Glory
-  weight: 0.0323
-  avg_copies: 1.0
-- name: Improvisation Capstone
-  weight: 0.0323
-  avg_copies: 1.0
 - name: Palantír of Orthanc
-  weight: 0.0323
-  avg_copies: 1.0
-- name: Six
   weight: 0.0323
   avg_copies: 1.0
 - name: Iroh's Demonstration
   weight: 0.0323
   avg_copies: 1.0
+- name: Improvisation Capstone
+  weight: 0.0323
+  avg_copies: 1.0
 - name: Talisman of Resilience
   weight: 0.0242
   avg_copies: 2.0
-- name: Stone Rain
+- name: Blasphemous Act
   weight: 0.0242
   avg_copies: 1.67
-- name: Blasphemous Act
+- name: Stone Rain
   weight: 0.0242
   avg_copies: 1.67
 - name: Vibrance
@@ -248,13 +248,13 @@ top_cards:
 - name: Damping Sphere
   weight: 0.0242
   avg_copies: 1.0
+- name: Redirect Lightning
+  weight: 0.0242
+  avg_copies: 1.0
 - name: True Ancestry
   weight: 0.0242
   avg_copies: 1.0
 - name: Price of Freedom
-  weight: 0.0242
-  avg_copies: 1.0
-- name: Redirect Lightning
   weight: 0.0242
   avg_copies: 1.0
 - name: Nihil Spellbomb
@@ -266,13 +266,13 @@ top_cards:
 - name: Firebending Lesson
   weight: 0.0161
   avg_copies: 1.0
-- name: Wastescape Battlemage
+- name: Thief of Existence
   weight: 0.0161
   avg_copies: 1.0
 - name: Overgrown Tomb
   weight: 0.0161
   avg_copies: 1.0
-- name: Thief of Existence
+- name: Wastescape Battlemage
   weight: 0.0161
   avg_copies: 1.0
 - name: Underground Mortuary
@@ -284,31 +284,31 @@ top_cards:
 - name: Madcap Experiment
   weight: 0.0081
   avg_copies: 3.0
+- name: Wrenn and Six
+  weight: 0.0081
+  avg_copies: 2.0
 - name: Abrupt Decay
   weight: 0.0081
   avg_copies: 2.0
 - name: Relic of Progenitus
   weight: 0.0081
   avg_copies: 2.0
-- name: Wrenn and Six
-  weight: 0.0081
-  avg_copies: 2.0
 - name: Collector Ouphe
-  weight: 0.0081
-  avg_copies: 1.0
-- name: Endurance
-  weight: 0.0081
-  avg_copies: 1.0
-- name: Seismic Sense
   weight: 0.0081
   avg_copies: 1.0
 - name: Untimely Malfunction
   weight: 0.0081
   avg_copies: 1.0
-- name: Hedron Archive
+- name: Mutable Explorer
   weight: 0.0081
   avg_copies: 1.0
-- name: Ugin, the Spirit Dragon
+- name: Culling Ritual
+  weight: 0.0081
+  avg_copies: 1.0
+- name: Seismic Sense
+  weight: 0.0081
+  avg_copies: 1.0
+- name: Walking Ballista
   weight: 0.0081
   avg_copies: 1.0
 - name: card:platinum-emperion
@@ -317,7 +317,7 @@ top_cards:
 - name: Peer Past the Veil
   weight: 0.0081
   avg_copies: 1.0
-- name: card:esper-origins
+- name: Hedron Archive
   weight: 0.0081
   avg_copies: 1.0
 - name: Darksteel Citadel
@@ -326,22 +326,22 @@ top_cards:
 - name: The Endstone
   weight: 0.0081
   avg_copies: 1.0
-- name: Ketria Triome
+- name: Endurance
   weight: 0.0081
   avg_copies: 1.0
-- name: card:the-ten-rings
+- name: card:esper-origins
+  weight: 0.0081
+  avg_copies: 1.0
+- name: Ketria Triome
   weight: 0.0081
   avg_copies: 1.0
 - name: Ratchet Bomb
   weight: 0.0081
   avg_copies: 1.0
-- name: Walking Ballista
+- name: card:the-ten-rings
   weight: 0.0081
   avg_copies: 1.0
-- name: Culling Ritual
-  weight: 0.0081
-  avg_copies: 1.0
-- name: Mutable Explorer
+- name: Ugin, the Spirit Dragon
   weight: 0.0081
   avg_copies: 1.0
 ---

@@ -10,7 +10,7 @@ type: Creature — Elf Warrior
 meta_presence: 0.0065
 archetypes:
   amulet-titan:
-    weight: 0.2194
+    weight: 0.2179
     avg_copies: 1.0
   the-rock:
     weight: 0.5

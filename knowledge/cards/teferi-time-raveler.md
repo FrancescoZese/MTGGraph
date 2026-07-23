@@ -20,8 +20,8 @@ archetypes:
     weight: 0.4737
     avg_copies: 1.25
   goryo:
-    weight: 0.786
-    avg_copies: 1.23
+    weight: 0.7874
+    avg_copies: 1.22
   azorius-control:
     weight: 1.0
     avg_copies: 3.25
@@ -29,8 +29,8 @@ archetypes:
     weight: 0.2059
     avg_copies: 1.94
   jeskai-control:
-    weight: 0.8542
-    avg_copies: 2.83
+    weight: 0.8571
+    avg_copies: 2.86
   domain-zoo:
     weight: 0.5827
     avg_copies: 1.1
@@ -62,7 +62,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo2:
-    weight: 0.3333
+    weight: 0.3125
     avg_copies: 1.44
   goryo3:
     weight: 1.0
@@ -92,7 +92,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.75
   unknown-47:
-    weight: 0.0417
+    weight: 0.0412
     avg_copies: 1.0
   unknown-48:
     weight: 1.0
@@ -107,7 +107,7 @@ archetypes:
     weight: 0.0345
     avg_copies: 2.0
   unknown-67:
-    weight: 0.2667
+    weight: 0.2632
     avg_copies: 1.95
   unknown-70:
     weight: 0.6667
@@ -125,7 +125,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-85:
-    weight: 0.4667
+    weight: 0.4375
     avg_copies: 1.64
   unknown-84:
     weight: 0.3333
@@ -185,7 +185,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-160:
-    weight: 0.0152
+    weight: 0.0149
     avg_copies: 4.0
   unknown-166:
     weight: 1.0
@@ -230,6 +230,9 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-207:
-    weight: 0.2
+    weight: 0.1667
+    avg_copies: 1.0
+  unknown-213:
+    weight: 1.0
     avg_copies: 1.0
 ---

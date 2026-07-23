@@ -9,7 +9,7 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 4.12
-- name: Soul Spike
+- name: Boggart Trawler
   weight: 1.0
   avg_copies: 4.0
 - name: Fatal Push
@@ -18,7 +18,7 @@ top_cards:
 - name: Necrodominance
   weight: 1.0
   avg_copies: 4.0
-- name: Boggart Trawler
+- name: Soul Spike
   weight: 1.0
   avg_copies: 4.0
 - name: Orcish Bowmasters
@@ -57,19 +57,19 @@ top_cards:
 - name: Marsh Flats
   weight: 0.875
   avg_copies: 1.14
-- name: The Meathook Massacre
+- name: Surgical Extraction
   weight: 0.875
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: The Meathook Massacre
   weight: 0.875
   avg_copies: 1.0
 - name: card:baron-helmut-zemo
   weight: 0.75
   avg_copies: 3.33
-- name: Ashiok, Dream Render
+- name: Verdant Catacombs
   weight: 0.75
   avg_copies: 1.33
-- name: Verdant Catacombs
+- name: Ashiok, Dream Render
   weight: 0.75
   avg_copies: 1.33
 - name: Polluted Delta
@@ -111,9 +111,6 @@ top_cards:
 - name: Waterlogged Teachings
   weight: 0.25
   avg_copies: 1.0
-- name: Agadeem's Awakening
-  weight: 0.25
-  avg_copies: 1.0
 - name: Revitalizing Repast
   weight: 0.25
   avg_copies: 1.0
@@ -123,19 +120,22 @@ top_cards:
 - name: Cling to Dust
   weight: 0.25
   avg_copies: 1.0
+- name: Agadeem's Awakening
+  weight: 0.25
+  avg_copies: 1.0
 - name: Consign to Memory
   weight: 0.125
   avg_copies: 4.0
 - name: Tourach, Dread Cantor
   weight: 0.125
   avg_copies: 2.0
-- name: Shizo, Death's Storehouse
-  weight: 0.125
-  avg_copies: 1.0
 - name: Takenuma, Abandoned Mire
   weight: 0.125
   avg_copies: 1.0
 - name: Toxic Deluge
+  weight: 0.125
+  avg_copies: 1.0
+- name: Shizo, Death's Storehouse
   weight: 0.125
   avg_copies: 1.0
 ---

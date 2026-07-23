@@ -12,7 +12,7 @@ archetypes:
     weight: 0.0123
     avg_copies: 1.0
   goryo:
-    weight: 0.0067
+    weight: 0.0066
     avg_copies: 4.0
   necrodominance:
     weight: 0.2093
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.037
     avg_copies: 4.0
   neoform-combo:
-    weight: 0.1644
+    weight: 0.16
     avg_copies: 1.5
   hollow-one:
     weight: 0.5
@@ -36,13 +36,13 @@ archetypes:
     weight: 0.75
     avg_copies: 1.05
   simic-ritual:
-    weight: 0.8537
+    weight: 0.8554
     avg_copies: 3.61
   samwise-combo:
     weight: 1.0
     avg_copies: 3.82
   broodscale-combo:
-    weight: 0.2892
+    weight: 0.292
     avg_copies: 1.11
   elves:
     weight: 1.0
@@ -96,7 +96,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-47:
-    weight: 0.0417
+    weight: 0.0412
     avg_copies: 1.25
   unknown-52:
     weight: 1.0

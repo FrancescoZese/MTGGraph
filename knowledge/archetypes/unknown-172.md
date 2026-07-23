@@ -11,16 +11,19 @@ top_cards:
 - name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline of Abundance
-  weight: 1.0
-  avg_copies: 4.0
 - name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
-- name: Springheart Nantuko
+- name: Delighted Halfling
   weight: 1.0
   avg_copies: 4.0
-- name: Delighted Halfling
+- name: Windswept Heath
+  weight: 1.0
+  avg_copies: 4.0
+- name: Leyline of Abundance
+  weight: 1.0
+  avg_copies: 4.0
+- name: Badgermole Cub
   weight: 1.0
   avg_copies: 4.0
 - name: Orim's Chant
@@ -29,22 +32,19 @@ top_cards:
 - name: Quirion Ranger
   weight: 1.0
   avg_copies: 4.0
-- name: Badgermole Cub
-  weight: 1.0
-  avg_copies: 4.0
-- name: Windswept Heath
+- name: Springheart Nantuko
   weight: 1.0
   avg_copies: 4.0
 - name: Ouroboroid
   weight: 1.0
   avg_copies: 4.0
-- name: card:shang-chi-master-of-kung-fu
+- name: Summoner's Pact
   weight: 1.0
   avg_copies: 3.0
 - name: Force of Vigor
   weight: 1.0
   avg_copies: 3.0
-- name: Summoner's Pact
+- name: card:shang-chi-master-of-kung-fu
   weight: 1.0
   avg_copies: 3.0
 - name: Veil of Summer
@@ -53,6 +53,9 @@ top_cards:
 - name: Heroic Intervention
   weight: 1.0
   avg_copies: 2.33
+- name: Misty Rainforest
+  weight: 1.0
+  avg_copies: 2.0
 - name: Ashaya, Soul of the Wild
   weight: 1.0
   avg_copies: 2.0
@@ -62,19 +65,16 @@ top_cards:
 - name: Lush Portico
   weight: 1.0
   avg_copies: 2.0
-- name: Misty Rainforest
-  weight: 1.0
-  avg_copies: 2.0
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.0
 - name: Nissa, Resurgent Animist
   weight: 1.0
   avg_copies: 1.0
-- name: Craterhoof Behemoth
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
-- name: Temple Garden
+- name: Craterhoof Behemoth
   weight: 1.0
   avg_copies: 1.0
 - name: Collector Ouphe

@@ -7,10 +7,10 @@ name: Containment Priest
 scryfall_id: a24e8dba-5c86-4e32-8a52-61402f7fe9f0
 set: m21
 type: Creature — Human Cleric
-meta_presence: 0.0133
+meta_presence: 0.0132
 archetypes:
   boros-energy:
-    weight: 0.0893
+    weight: 0.0892
     avg_copies: 1.34
   jeskai-energy:
     weight: 0.015
@@ -28,7 +28,7 @@ archetypes:
     weight: 0.0769
     avg_copies: 2.0
   unknown-68:
-    weight: 0.0526
+    weight: 0.0513
     avg_copies: 1.0
   unknown-108:
     weight: 1.0

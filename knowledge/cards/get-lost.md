@@ -13,7 +13,7 @@ archetypes:
     weight: 0.012
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.0208
+    weight: 0.0204
     avg_copies: 1.0
   boros-ponza:
     weight: 0.0214

@@ -7,7 +7,7 @@ name: Mystical Dispute
 scryfall_id: fbe04cb8-a8b9-4241-baae-b398a2509a3a
 set: eld
 type: Instant
-meta_presence: 0.3973
+meta_presence: 0.3978
 archetypes:
   dimir-control:
     weight: 1.0
@@ -19,7 +19,7 @@ archetypes:
     weight: 0.985
     avg_copies: 2.41
   goryo:
-    weight: 0.9866
+    weight: 0.9867
     avg_copies: 2.69
   necrodominance:
     weight: 0.0233
@@ -32,9 +32,9 @@ archetypes:
     avg_copies: 3.31
   jeskai-control:
     weight: 1.0
-    avg_copies: 2.9
+    avg_copies: 2.88
   affinity:
-    weight: 0.7232
+    weight: 0.7238
     avg_copies: 1.44
   domain-zoo:
     weight: 0.9606
@@ -46,8 +46,8 @@ archetypes:
     weight: 0.7407
     avg_copies: 2.1
   neoform-combo:
-    weight: 0.9315
-    avg_copies: 3.38
+    weight: 0.9333
+    avg_copies: 3.4
   mono-blue-tron:
     weight: 0.5238
     avg_copies: 2.27
@@ -55,10 +55,10 @@ archetypes:
     weight: 0.4615
     avg_copies: 1.83
   simic-ritual:
-    weight: 0.9756
+    weight: 0.9759
     avg_copies: 2.98
   izzet-prowess:
-    weight: 0.2457
+    weight: 0.2449
     avg_copies: 1.49
   4c-omnath:
     weight: 1.0
@@ -104,7 +104,7 @@ archetypes:
     avg_copies: 2.0
   goryo2:
     weight: 1.0
-    avg_copies: 2.53
+    avg_copies: 2.5
   goryo3:
     weight: 1.0
     avg_copies: 3.0
@@ -164,7 +164,7 @@ archetypes:
     avg_copies: 2.0
   unknown-47:
     weight: 1.0
-    avg_copies: 2.25
+    avg_copies: 2.26
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
@@ -182,7 +182,7 @@ archetypes:
     avg_copies: 2.77
   unknown-67:
     weight: 1.0
-    avg_copies: 3.31
+    avg_copies: 3.3
   unknown-70:
     weight: 0.7778
     avg_copies: 3.29
@@ -205,8 +205,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-85:
-    weight: 0.8
-    avg_copies: 2.0
+    weight: 0.8125
+    avg_copies: 2.08
   unknown-84:
     weight: 1.0
     avg_copies: 3.0
@@ -360,4 +360,10 @@ archetypes:
   unknown-208:
     weight: 1.0
     avg_copies: 3.0
+  unknown-212:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-213:
+    weight: 1.0
+    avg_copies: 1.0
 ---

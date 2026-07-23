@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.1151
 archetypes:
   ruby-storm:
-    weight: 0.0188
+    weight: 0.0186
     avg_copies: 2.0
   dimir-control:
     weight: 0.1605
@@ -19,17 +19,17 @@ archetypes:
     weight: 0.4815
     avg_copies: 2.85
   goryo:
-    weight: 0.0234
+    weight: 0.0233
     avg_copies: 1.57
   affinity:
-    weight: 0.3697
+    weight: 0.369
     avg_copies: 2.97
   mill:
     weight: 0.4545
     avg_copies: 3.0
   neoform-combo:
-    weight: 0.0959
-    avg_copies: 1.57
+    weight: 0.1067
+    avg_copies: 1.5
   izzet-prowess:
     weight: 0.9966
     avg_copies: 3.95
@@ -55,7 +55,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo2:
-    weight: 0.1333
+    weight: 0.125
     avg_copies: 2.0
   sultai-midrange:
     weight: 0.5
@@ -82,7 +82,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-47:
-    weight: 0.2708
+    weight: 0.2784
     avg_copies: 2.19
   unknown-53:
     weight: 1.0

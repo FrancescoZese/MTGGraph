@@ -6,10 +6,10 @@ name: 'Unknown #46'
 meta_share: 0.0014
 list_count: 8
 top_cards:
-- name: Necrodominance
+- name: Boggart Trawler
   weight: 1.0
   avg_copies: 4.0
-- name: Boggart Trawler
+- name: Necrodominance
   weight: 1.0
   avg_copies: 4.0
 - name: Soul Spike
@@ -21,10 +21,10 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 3.62
-- name: Witherbloom Charm
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.5
-- name: Orcish Bowmasters
+- name: Witherbloom Charm
   weight: 1.0
   avg_copies: 3.5
 - name: Thoughtseize
@@ -45,22 +45,22 @@ top_cards:
 - name: Culling Ritual
   weight: 1.0
   avg_copies: 2.12
-- name: Ashiok, Dream Render
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 2.0
+- name: Overgrown Tomb
   weight: 1.0
   avg_copies: 2.0
 - name: Castle Locthwain
   weight: 1.0
   avg_copies: 2.0
-- name: March of Wretched Sorrow
-  weight: 1.0
-  avg_copies: 2.0
 - name: Underground Mortuary
   weight: 1.0
   avg_copies: 2.0
-- name: Marsh Flats
+- name: March of Wretched Sorrow
   weight: 1.0
   avg_copies: 2.0
-- name: Overgrown Tomb
+- name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 2.0
 - name: Professor Dellian Fel

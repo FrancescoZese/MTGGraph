@@ -6,13 +6,13 @@ name: 'Unknown #26'
 meta_share: 0.0034
 list_count: 20
 top_cards:
-- name: Cleansing Wildfire
-  weight: 1.0
-  avg_copies: 4.0
 - name: Demolition Field
   weight: 1.0
   avg_copies: 4.0
 - name: Field of Ruin
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cleansing Wildfire
   weight: 1.0
   avg_copies: 4.0
 - name: Wrath of the Skies
@@ -96,13 +96,13 @@ top_cards:
 - name: Galvanic Discharge
   weight: 0.2
   avg_copies: 2.5
+- name: Mazemind Tome
+  weight: 0.1
+  avg_copies: 4.0
 - name: Arid Mesa
   weight: 0.1
   avg_copies: 4.0
 - name: Calamity's Wake
-  weight: 0.1
-  avg_copies: 4.0
-- name: Mazemind Tome
   weight: 0.1
   avg_copies: 4.0
 - name: card:avengers-disassembled
@@ -114,10 +114,10 @@ top_cards:
 - name: Kor Firewalker
   weight: 0.1
   avg_copies: 2.5
-- name: Celestial Purge
+- name: Engineered Explosives
   weight: 0.1
   avg_copies: 2.0
-- name: Engineered Explosives
+- name: Celestial Purge
   weight: 0.1
   avg_copies: 2.0
 - name: Beza, the Bounding Spring
@@ -126,16 +126,16 @@ top_cards:
 - name: Crucible of Worlds
   weight: 0.1
   avg_copies: 1.0
-- name: White Orchid Phantom
-  weight: 0.05
-  avg_copies: 4.0
 - name: Lightning Helix
   weight: 0.05
   avg_copies: 4.0
-- name: Ark of Hunger
+- name: Volcanic Spite
   weight: 0.05
   avg_copies: 4.0
-- name: Volcanic Spite
+- name: White Orchid Phantom
+  weight: 0.05
+  avg_copies: 4.0
+- name: Ark of Hunger
   weight: 0.05
   avg_copies: 4.0
 - name: card:kutzil-s-flanker
@@ -147,6 +147,9 @@ top_cards:
 - name: Candy Trail
   weight: 0.05
   avg_copies: 3.0
+- name: card:vanish-into-eternity
+  weight: 0.05
+  avg_copies: 2.0
 - name: Flashback
   weight: 0.05
   avg_copies: 2.0
@@ -156,13 +159,10 @@ top_cards:
 - name: Hallowed Moonlight
   weight: 0.05
   avg_copies: 2.0
-- name: card:vanish-into-eternity
-  weight: 0.05
-  avg_copies: 2.0
-- name: Emrakul, the Aeons Torn
+- name: Elixir of Immortality
   weight: 0.05
   avg_copies: 1.0
-- name: Elixir of Immortality
+- name: Emrakul, the Aeons Torn
   weight: 0.05
   avg_copies: 1.0
 ---

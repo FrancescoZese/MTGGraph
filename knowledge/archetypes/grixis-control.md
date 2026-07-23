@@ -13,10 +13,10 @@ top_cards:
 - name: Counterspell
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.86
-- name: Consign to Memory
+- name: Fatal Push
   weight: 1.0
   avg_copies: 3.86
 - name: Flame of Anor
@@ -70,10 +70,10 @@ top_cards:
 - name: Sink into Stupor
   weight: 0.8571
   avg_copies: 1.83
-- name: Flooded Strand
+- name: Misty Rainforest
   weight: 0.8571
   avg_copies: 1.17
-- name: Misty Rainforest
+- name: Flooded Strand
   weight: 0.8571
   avg_copies: 1.17
 - name: Subtlety
@@ -115,61 +115,61 @@ top_cards:
 - name: Otawara, Soaring City
   weight: 0.2857
   avg_copies: 1.0
-- name: Break the Ice
-  weight: 0.1429
-  avg_copies: 3.0
-- name: Bloodstained Mire
+- name: Traumatic Critique
   weight: 0.1429
   avg_copies: 3.0
 - name: Damping Sphere
   weight: 0.1429
   avg_copies: 3.0
-- name: Traumatic Critique
+- name: Bloodstained Mire
   weight: 0.1429
   avg_copies: 3.0
+- name: Break the Ice
+  weight: 0.1429
+  avg_copies: 3.0
+- name: Kolaghan's Command
+  weight: 0.1429
+  avg_copies: 2.0
 - name: Darkslick Shores
   weight: 0.1429
   avg_copies: 2.0
 - name: Rakdos Charm
   weight: 0.1429
   avg_copies: 2.0
-- name: Kolaghan's Command
-  weight: 0.1429
-  avg_copies: 2.0
-- name: The Meathook Massacre
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Consider
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Emet-Selch, Unsundered
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Spell Pierce
+- name: Raucous Theater
   weight: 0.1429
   avg_copies: 1.0
 - name: Mountain
   weight: 0.1429
   avg_copies: 1.0
-- name: Blood Crypt
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Hall of Storm Giants
   weight: 0.1429
   avg_copies: 1.0
-- name: Kozilek's Return
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Logic Knot
+- name: Surgical Extraction
   weight: 0.1429
   avg_copies: 1.0
 - name: Spirebluff Canal
   weight: 0.1429
   avg_copies: 1.0
-- name: Raucous Theater
+- name: The Meathook Massacre
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Blood Crypt
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Kozilek's Return
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Spell Pierce
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Emet-Selch, Unsundered
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Consider
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Logic Knot
   weight: 0.1429
   avg_copies: 1.0
 ---

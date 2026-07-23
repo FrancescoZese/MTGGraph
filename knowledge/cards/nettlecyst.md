@@ -6,9 +6,12 @@ name: Nettlecyst
 scryfall_id: 0a7cb0f8-2946-4b00-a192-0b31c8e1ec5c
 set: mkc
 type: Artifact — Equipment
-meta_presence: 0.0002
+meta_presence: 0.0003
 archetypes:
   unknown-21:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-213:
     weight: 1.0
     avg_copies: 1.0
 ---

@@ -7,13 +7,13 @@ name: 'Unknown #70'
 meta_share: 0.0031
 list_count: 18
 top_cards:
+- name: Galvanic Discharge
+  weight: 1.0
+  avg_copies: 4.0
 - name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Ajani, Nacatl Pariah
-  weight: 1.0
-  avg_copies: 4.0
-- name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
@@ -64,10 +64,10 @@ top_cards:
 - name: Goblin Bombardment
   weight: 0.9444
   avg_copies: 2.24
-- name: Meticulous Archive
+- name: Mountain
   weight: 0.9444
   avg_copies: 1.0
-- name: Mountain
+- name: Meticulous Archive
   weight: 0.9444
   avg_copies: 1.0
 - name: Solitude
@@ -142,19 +142,13 @@ top_cards:
 - name: Practiced Offense
   weight: 0.0556
   avg_copies: 2.0
-- name: Reprieve
-  weight: 0.0556
-  avg_copies: 2.0
 - name: Deafening Silence
   weight: 0.0556
   avg_copies: 2.0
-- name: Lightning Bolt
+- name: Reprieve
   weight: 0.0556
-  avg_copies: 1.0
-- name: Spell Pierce
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Marsh Flats
+  avg_copies: 2.0
+- name: Boromir, Warden of the Tower
   weight: 0.0556
   avg_copies: 1.0
 - name: Strix Serenade
@@ -163,16 +157,22 @@ top_cards:
 - name: Vandalblast
   weight: 0.0556
   avg_copies: 1.0
-- name: The Legend of Roku
+- name: Lightning Bolt
   weight: 0.0556
   avg_copies: 1.0
 - name: Magus of the Moon
   weight: 0.0556
   avg_copies: 1.0
+- name: Marsh Flats
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Spell Pierce
+  weight: 0.0556
+  avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.0556
   avg_copies: 1.0
-- name: Boromir, Warden of the Tower
+- name: The Legend of Roku
   weight: 0.0556
   avg_copies: 1.0
 ---

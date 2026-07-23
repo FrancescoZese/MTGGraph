@@ -6,19 +6,19 @@ name: 'Unknown #1'
 meta_share: 0.0017
 list_count: 10
 top_cards:
-- name: Archon of Cruelty
-  weight: 1.0
-  avg_copies: 4.0
-- name: Bloodghast
+- name: Flare of Malice
   weight: 1.0
   avg_copies: 4.0
 - name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Bloodghast
   weight: 1.0
   avg_copies: 4.0
-- name: Flare of Malice
+- name: Archon of Cruelty
+  weight: 1.0
+  avg_copies: 4.0
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Persist
@@ -42,19 +42,19 @@ top_cards:
 - name: Fatal Push
   weight: 1.0
   avg_copies: 2.0
-- name: Village Rites
+- name: Brotherhood's End
   weight: 1.0
   avg_copies: 2.0
 - name: Swamp
   weight: 1.0
   avg_copies: 2.0
-- name: Brotherhood's End
+- name: Village Rites
   weight: 1.0
   avg_copies: 2.0
-- name: Corrupted Conviction
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 1.9
-- name: Polluted Delta
+- name: Corrupted Conviction
   weight: 1.0
   avg_copies: 1.9
 - name: Extract the Truth
@@ -114,16 +114,16 @@ top_cards:
 - name: Living End
   weight: 0.2
   avg_copies: 3.5
-- name: Flashback
-  weight: 0.2
-  avg_copies: 2.0
 - name: Blood Moon
   weight: 0.2
   avg_copies: 2.0
-- name: Lightning Skelemental
+- name: Flashback
+  weight: 0.2
+  avg_copies: 2.0
+- name: Oliphaunt
   weight: 0.2
   avg_copies: 1.5
-- name: Oliphaunt
+- name: Lightning Skelemental
   weight: 0.2
   avg_copies: 1.5
 - name: Troll of Khazad-dûm
@@ -132,13 +132,13 @@ top_cards:
 - name: card:thunderkin-awakener
   weight: 0.1
   avg_copies: 3.0
+- name: Unearth
+  weight: 0.1
+  avg_copies: 2.0
 - name: Veil of Summer
   weight: 0.1
   avg_copies: 2.0
 - name: Seasoned Pyromancer
-  weight: 0.1
-  avg_copies: 2.0
-- name: Unearth
   weight: 0.1
   avg_copies: 2.0
 - name: Overgrown Tomb

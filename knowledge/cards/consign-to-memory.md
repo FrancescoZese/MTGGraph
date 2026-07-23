@@ -7,7 +7,7 @@ name: Consign to Memory
 scryfall_id: bc95af55-d1dd-4fe6-adb0-3ad6db20d986
 set: mh3
 type: Instant
-meta_presence: 0.4639
+meta_presence: 0.464
 archetypes:
   ruby-storm:
     weight: 0.0047
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.985
     avg_copies: 3.79
   goryo:
-    weight: 0.9933
+    weight: 0.9934
     avg_copies: 2.92
   necrodominance:
     weight: 0.0465
@@ -35,9 +35,9 @@ archetypes:
     avg_copies: 3.78
   jeskai-control:
     weight: 1.0
-    avg_copies: 3.22
+    avg_copies: 3.24
   affinity:
-    weight: 0.9475
+    weight: 0.9476
     avg_copies: 2.54
   domain-zoo:
     weight: 0.9291
@@ -49,8 +49,8 @@ archetypes:
     weight: 0.8519
     avg_copies: 2.87
   neoform-combo:
-    weight: 0.9589
-    avg_copies: 3.7
+    weight: 0.96
+    avg_copies: 3.71
   mono-blue-tron:
     weight: 1.0
     avg_copies: 3.16
@@ -64,10 +64,10 @@ archetypes:
     weight: 0.0565
     avg_copies: 2.43
   simic-ritual:
-    weight: 0.8171
+    weight: 0.8193
     avg_copies: 2.94
   izzet-prowess:
-    weight: 0.9761
+    weight: 0.9762
     avg_copies: 3.33
   4c-omnath:
     weight: 0.25
@@ -116,7 +116,7 @@ archetypes:
     avg_copies: 2.0
   goryo2:
     weight: 1.0
-    avg_copies: 3.05
+    avg_copies: 3.1
   goryo3:
     weight: 1.0
     avg_copies: 4.0
@@ -202,8 +202,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9896
-    avg_copies: 3.17
+    weight: 0.9897
+    avg_copies: 3.18
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
@@ -253,8 +253,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-85:
-    weight: 0.9333
-    avg_copies: 3.19
+    weight: 0.9375
+    avg_copies: 3.06
   unknown-88:
     weight: 0.0625
     avg_copies: 3.0
@@ -452,8 +452,14 @@ archetypes:
     avg_copies: 4.0
   unknown-207:
     weight: 1.0
-    avg_copies: 3.8
+    avg_copies: 3.83
   unknown-208:
     weight: 1.0
     avg_copies: 3.0
+  unknown-212:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-213:
+    weight: 1.0
+    avg_copies: 2.0
 ---

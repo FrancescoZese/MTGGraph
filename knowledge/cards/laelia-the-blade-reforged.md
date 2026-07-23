@@ -10,7 +10,7 @@ type: Legendary Creature — Spirit Warrior
 meta_presence: 0.0003
 archetypes:
   unknown-85:
-    weight: 0.0667
+    weight: 0.0625
     avg_copies: 2.0
   unknown-100:
     weight: 0.25

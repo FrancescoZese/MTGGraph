@@ -12,7 +12,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.16
   goryo:
-    weight: 0.9933
+    weight: 0.9934
     avg_copies: 1.0
   necrodominance:
     weight: 0.1163
@@ -30,10 +30,10 @@ archetypes:
     weight: 0.8519
     avg_copies: 1.52
   neoform-combo:
-    weight: 0.0274
+    weight: 0.0267
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.1585
+    weight: 0.1566
     avg_copies: 1.0
   esper-blink:
     weight: 0.9612
@@ -180,6 +180,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-204:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-212:
     weight: 1.0
     avg_copies: 2.0
 ---

@@ -10,7 +10,7 @@ type: Enchantment Creature — Nymph Dryad
 meta_presence: 0.0048
 archetypes:
   amulet-titan:
-    weight: 0.0258
+    weight: 0.0256
     avg_copies: 2.25
   scapeshift-combo:
     weight: 0.5

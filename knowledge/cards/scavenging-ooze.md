@@ -10,7 +10,7 @@ type: Creature — Ooze
 meta_presence: 0.0045
 archetypes:
   yawgmoth-combo:
-    weight: 0.2326
+    weight: 0.2299
     avg_copies: 1.0
   mono-green-ramp:
     weight: 0.1429
@@ -19,7 +19,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-61:
-    weight: 0.0465
+    weight: 0.0426
     avg_copies: 1.0
   unknown-130:
     weight: 1.0

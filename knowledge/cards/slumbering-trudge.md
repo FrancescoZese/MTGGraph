@@ -7,12 +7,12 @@ name: Slumbering Trudge
 scryfall_id: 3a925370-58ac-4181-9acc-db7b0e0abf17
 set: sos
 type: Creature — Plant Beast
-meta_presence: 0.0077
+meta_presence: 0.0084
 archetypes:
   mono-green-ramp:
     weight: 0.2857
     avg_copies: 4.0
   unknown-61:
     weight: 1.0
-    avg_copies: 3.93
+    avg_copies: 3.89
 ---

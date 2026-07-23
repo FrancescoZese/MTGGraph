@@ -6,13 +6,13 @@ name: 'Unknown #45'
 meta_share: 0.0046
 list_count: 27
 top_cards:
-- name: Archon of Cruelty
-  weight: 1.0
-  avg_copies: 4.0
 - name: Eyetwitch
   weight: 1.0
   avg_copies: 4.0
 - name: Stitcher's Supplier
+  weight: 1.0
+  avg_copies: 4.0
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
 - name: Swamp
@@ -39,10 +39,10 @@ top_cards:
 - name: Boggart Trawler
   weight: 1.0
   avg_copies: 2.04
-- name: Ruinous Waterbending
+- name: Decorum Dissertation
   weight: 1.0
   avg_copies: 1.0
-- name: Decorum Dissertation
+- name: Ruinous Waterbending
   weight: 1.0
   avg_copies: 1.0
 - name: Orcish Bowmasters
@@ -60,10 +60,10 @@ top_cards:
 - name: Origin of Metalbending
   weight: 0.963
   avg_copies: 1.04
-- name: Underground Mortuary
+- name: Ozai's Cruelty
   weight: 0.963
   avg_copies: 1.0
-- name: Ozai's Cruelty
+- name: Underground Mortuary
   weight: 0.963
   avg_copies: 1.0
 - name: True Ancestry
@@ -99,10 +99,10 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.6667
   avg_copies: 2.11
-- name: Necrotic Fumes
+- name: Inquisition of Kozilek
   weight: 0.5926
   avg_copies: 1.0
-- name: Inquisition of Kozilek
+- name: Necrotic Fumes
   weight: 0.5926
   avg_copies: 1.0
 - name: Poet's Quill
@@ -120,7 +120,7 @@ top_cards:
 - name: Polluted Delta
   weight: 0.2222
   avg_copies: 3.17
-- name: Void Mirror
+- name: Faerie Macabre
   weight: 0.2222
   avg_copies: 1.0
 - name: Takenuma, Abandoned Mire
@@ -129,7 +129,7 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.2222
   avg_copies: 1.0
-- name: Faerie Macabre
+- name: Void Mirror
   weight: 0.2222
   avg_copies: 1.0
 - name: Culling Ritual
@@ -144,13 +144,13 @@ top_cards:
 - name: Fatal Push
   weight: 0.1111
   avg_copies: 1.67
-- name: Ashiok, Dream Render
+- name: Blood Crypt
   weight: 0.0741
   avg_copies: 1.5
 - name: Mai, Scornful Striker
   weight: 0.0741
   avg_copies: 1.5
-- name: Blood Crypt
+- name: Ashiok, Dream Render
   weight: 0.0741
   avg_copies: 1.5
 - name: Revitalizing Repast
@@ -159,13 +159,13 @@ top_cards:
 - name: Redirect Lightning
   weight: 0.0741
   avg_copies: 1.0
-- name: Harvester of Misery
-  weight: 0.0741
-  avg_copies: 1.0
 - name: card:summon-bahamut
   weight: 0.0741
   avg_copies: 1.0
 - name: Cling to Dust
+  weight: 0.0741
+  avg_copies: 1.0
+- name: Harvester of Misery
   weight: 0.0741
   avg_copies: 1.0
 - name: Nihil Spellbomb
@@ -174,34 +174,34 @@ top_cards:
 - name: Price of Freedom
   weight: 0.037
   avg_copies: 2.0
-- name: Tormod's Crypt
-  weight: 0.037
-  avg_copies: 1.0
-- name: Forest
-  weight: 0.037
-  avg_copies: 1.0
-- name: Improvisation Capstone
-  weight: 0.037
-  avg_copies: 1.0
-- name: Chthonian Nightmare
-  weight: 0.037
-  avg_copies: 1.0
 - name: Raucous Theater
-  weight: 0.037
-  avg_copies: 1.0
-- name: Damping Sphere
-  weight: 0.037
-  avg_copies: 1.0
-- name: Iroh's Demonstration
   weight: 0.037
   avg_copies: 1.0
 - name: card:the-terminus-of-return
   weight: 0.037
   avg_copies: 1.0
-- name: Vampire Hexmage
+- name: Damping Sphere
+  weight: 0.037
+  avg_copies: 1.0
+- name: Forest
+  weight: 0.037
+  avg_copies: 1.0
+- name: Chthonian Nightmare
+  weight: 0.037
+  avg_copies: 1.0
+- name: Tormod's Crypt
   weight: 0.037
   avg_copies: 1.0
 - name: Liliana, the Last Hope
+  weight: 0.037
+  avg_copies: 1.0
+- name: Iroh's Demonstration
+  weight: 0.037
+  avg_copies: 1.0
+- name: Vampire Hexmage
+  weight: 0.037
+  avg_copies: 1.0
+- name: Improvisation Capstone
   weight: 0.037
   avg_copies: 1.0
 ---

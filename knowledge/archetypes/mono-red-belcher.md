@@ -6,10 +6,10 @@ name: Mono Red Belcher
 meta_share: 0.0022
 list_count: 13
 top_cards:
-- name: Stormscale Scion
+- name: Manamorphose
   weight: 1.0
   avg_copies: 4.0
-- name: Pyretic Ritual
+- name: Goblin Charbelcher
   weight: 1.0
   avg_copies: 4.0
 - name: Desperate Ritual
@@ -18,22 +18,22 @@ top_cards:
 - name: Shatterskull Smashing
   weight: 1.0
   avg_copies: 4.0
-- name: Manamorphose
+- name: Stormscale Scion
   weight: 1.0
   avg_copies: 4.0
-- name: Goblin Charbelcher
+- name: Pyretic Ritual
   weight: 1.0
   avg_copies: 4.0
-- name: Sundering Eruption
-  weight: 1.0
-  avg_copies: 3.92
-- name: Strike It Rich
+- name: Irencrag Feat
   weight: 1.0
   avg_copies: 3.92
 - name: Pinnacle Monk
   weight: 1.0
   avg_copies: 3.92
-- name: Irencrag Feat
+- name: Sundering Eruption
+  weight: 1.0
+  avg_copies: 3.92
+- name: Strike It Rich
   weight: 1.0
   avg_copies: 3.92
 - name: Blood Moon
@@ -105,13 +105,13 @@ top_cards:
 - name: Redirect Lightning
   weight: 0.1538
   avg_copies: 1.0
+- name: Hexing Squelcher
+  weight: 0.0769
+  avg_copies: 4.0
 - name: Relic of Progenitus
   weight: 0.0769
   avg_copies: 4.0
 - name: Leyline of Sanctity
-  weight: 0.0769
-  avg_copies: 4.0
-- name: Hexing Squelcher
   weight: 0.0769
   avg_copies: 4.0
 - name: Untimely Malfunction
@@ -120,22 +120,22 @@ top_cards:
 - name: Kraza, the Swarm as One
   weight: 0.0769
   avg_copies: 2.0
+- name: Serum Powder
+  weight: 0.0769
+  avg_copies: 2.0
 - name: Path to Exile
   weight: 0.0769
   avg_copies: 2.0
 - name: Lantern of the Lost
   weight: 0.0769
   avg_copies: 2.0
-- name: Serum Powder
-  weight: 0.0769
-  avg_copies: 2.0
 - name: Phlage, Titan of Fire's Fury
   weight: 0.0769
   avg_copies: 2.0
-- name: Rush of Inspiration
+- name: The Legend of Roku
   weight: 0.0769
   avg_copies: 1.0
-- name: The Legend of Roku
+- name: Rush of Inspiration
   weight: 0.0769
   avg_copies: 1.0
 - name: Trinisphere

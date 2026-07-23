@@ -7,10 +7,10 @@ name: Glimpse the Impossible
 scryfall_id: 133ad0dd-5b61-4c38-9264-0b0e75b95d95
 set: mh3
 type: Sorcery
-meta_presence: 0.0217
+meta_presence: 0.0216
 archetypes:
   ruby-storm:
-    weight: 0.5822
+    weight: 0.5767
     avg_copies: 2.3
   mono-red-belcher:
     weight: 0.1538

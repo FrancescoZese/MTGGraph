@@ -7,7 +7,7 @@ name: Cryogen Relic
 scryfall_id: 7bfb33b6-e2bf-498f-8c58-ae21a840cf75
 set: eoe
 type: Artifact
-meta_presence: 0.0005
+meta_presence: 0.0007
 archetypes:
   jeskai-energy:
     weight: 0.0075
@@ -15,4 +15,7 @@ archetypes:
   unknown-89:
     weight: 1.0
     avg_copies: 2.0
+  unknown-213:
+    weight: 1.0
+    avg_copies: 1.0
 ---

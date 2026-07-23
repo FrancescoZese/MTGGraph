@@ -11,7 +11,7 @@ type: Instant
 meta_presence: 0.0017
 archetypes:
   jeskai-control:
-    weight: 0.0208
+    weight: 0.0204
     avg_copies: 2.0
   izzet-wizards:
     weight: 0.3333

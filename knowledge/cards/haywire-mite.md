@@ -9,7 +9,7 @@ type: Artifact Creature — Insect
 meta_presence: 0.0798
 archetypes:
   eldrazi-tron:
-    weight: 0.0871
+    weight: 0.0865
     avg_copies: 1.0
   goryo:
     weight: 0.0033
@@ -18,13 +18,13 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   affinity:
-    weight: 0.0182
+    weight: 0.0181
     avg_copies: 1.08
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.186
+    weight: 0.1839
     avg_copies: 1.0
   eldrazi-ramp:
     weight: 0.2016
@@ -33,7 +33,7 @@ archetypes:
     weight: 0.8226
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.9598
+    weight: 0.96
     avg_copies: 1.0
   azorius-blink:
     weight: 0.0952
@@ -117,6 +117,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-194:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-213:
     weight: 1.0
     avg_copies: 1.0
 ---

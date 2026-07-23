@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0403
     avg_copies: 1.54
   goryo:
-    weight: 0.0201
+    weight: 0.0199
     avg_copies: 1.67
   living-end:
     weight: 0.1324
@@ -55,10 +55,10 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-67:
-    weight: 0.2667
+    weight: 0.2632
     avg_copies: 1.1
   unknown-68:
-    weight: 0.1053
+    weight: 0.1026
     avg_copies: 1.75
   unknown-70:
     weight: 0.0556
@@ -76,7 +76,7 @@ archetypes:
     weight: 0.1
     avg_copies: 1.0
   unknown-160:
-    weight: 0.3333
+    weight: 0.3284
     avg_copies: 1.36
   unknown-201:
     weight: 1.0

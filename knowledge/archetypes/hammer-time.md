@@ -6,10 +6,10 @@ name: Hammer Time
 meta_share: 0.0022
 list_count: 13
 top_cards:
-- name: Colossus Hammer
+- name: Stoneforge Mystic
   weight: 1.0
   avg_copies: 4.0
-- name: Stoneforge Mystic
+- name: Colossus Hammer
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
@@ -132,13 +132,13 @@ top_cards:
 - name: Test of Talents
   weight: 0.1538
   avg_copies: 2.0
-- name: Prismatic Ending
-  weight: 0.1538
-  avg_copies: 1.5
 - name: Detect Intrusion
   weight: 0.1538
   avg_copies: 1.5
 - name: Sigarda's Aid
+  weight: 0.1538
+  avg_copies: 1.5
+- name: Prismatic Ending
   weight: 0.1538
   avg_copies: 1.5
 - name: Kaldra Compleat
@@ -147,40 +147,40 @@ top_cards:
 - name: Voice of Victory
   weight: 0.1538
   avg_copies: 1.0
-- name: Flare of Fortitude
-  weight: 0.0769
-  avg_copies: 4.0
 - name: Mishra's Bauble
   weight: 0.0769
   avg_copies: 4.0
-- name: Solitude
+- name: Flare of Fortitude
+  weight: 0.0769
+  avg_copies: 4.0
+- name: Containment Priest
   weight: 0.0769
   avg_copies: 2.0
-- name: Containment Priest
+- name: Solitude
   weight: 0.0769
   avg_copies: 2.0
 - name: Erode
   weight: 0.0769
   avg_copies: 2.0
-- name: Umezawa's Jitte
-  weight: 0.0769
-  avg_copies: 1.0
-- name: card:spider-sense
+- name: Spell Snare
   weight: 0.0769
   avg_copies: 1.0
 - name: Skateboard
   weight: 0.0769
   avg_copies: 1.0
-- name: Forge Anew
+- name: Stubborn Denial
   weight: 0.0769
   avg_copies: 1.0
-- name: Spell Snare
+- name: Umezawa's Jitte
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Forge Anew
   weight: 0.0769
   avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.0769
   avg_copies: 1.0
-- name: Stubborn Denial
+- name: card:spider-sense
   weight: 0.0769
   avg_copies: 1.0
 ---

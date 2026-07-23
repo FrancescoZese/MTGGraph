@@ -19,17 +19,17 @@ archetypes:
     weight: 0.0735
     avg_copies: 1.33
   jeskai-control:
-    weight: 0.0208
+    weight: 0.0204
     avg_copies: 2.0
   affinity:
-    weight: 0.2384
+    weight: 0.2379
     avg_copies: 1.27
   reanimator:
     weight: 0.1481
     avg_copies: 1.5
   simic-ritual:
-    weight: 0.9756
-    avg_copies: 2.08
+    weight: 0.9639
+    avg_copies: 2.09
   bant-control:
     weight: 1.0
     avg_copies: 3.0
@@ -73,8 +73,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9688
-    avg_copies: 2.41
+    weight: 0.9691
+    avg_copies: 2.42
   unknown-49:
     weight: 1.0
     avg_copies: 2.0
@@ -87,6 +87,9 @@ archetypes:
   unknown-65:
     weight: 0.069
     avg_copies: 1.5
+  unknown-67:
+    weight: 0.0132
+    avg_copies: 2.0
   unknown-75:
     weight: 1.0
     avg_copies: 2.0
@@ -139,6 +142,9 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-204:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-212:
     weight: 1.0
     avg_copies: 2.0
 ---

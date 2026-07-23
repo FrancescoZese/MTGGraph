@@ -15,10 +15,10 @@ top_cards:
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Detective's Phoenix
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
-- name: Street Wraith
+- name: Detective's Phoenix
   weight: 1.0
   avg_copies: 4.0
 - name: Blood Crypt
@@ -93,10 +93,10 @@ top_cards:
 - name: Dragon's Rage Channeler
   weight: 0.4286
   avg_copies: 2.67
-- name: Inti, Seneschal of the Sun
+- name: Swamp
   weight: 0.4286
   avg_copies: 1.0
-- name: Swamp
+- name: Inti, Seneschal of the Sun
   weight: 0.4286
   avg_copies: 1.0
 - name: Faerie Macabre
@@ -132,16 +132,16 @@ top_cards:
 - name: Blackcleave Cliffs
   weight: 0.1429
   avg_copies: 1.0
-- name: Seal of Fire
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Cool but Rude
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.1429
   avg_copies: 1.0
 - name: Ox of Agonas
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Seal of Fire
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Cool but Rude
   weight: 0.1429
   avg_copies: 1.0
 ---

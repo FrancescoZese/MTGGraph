@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: Azorius Control
-meta_share: 0.0143
+meta_share: 0.0142
 list_count: 83
 top_cards:
 - name: Flooded Strand
@@ -18,10 +18,10 @@ top_cards:
 - name: Prismatic Ending
   weight: 1.0
   avg_copies: 3.28
-- name: Teferi, Time Raveler
+- name: Solitude
   weight: 1.0
   avg_copies: 3.25
-- name: Solitude
+- name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 3.25
 - name: Mystical Dispute
@@ -222,64 +222,64 @@ top_cards:
 - name: Suppression Ray
   weight: 0.0241
   avg_copies: 4.0
+- name: Elegant Parlor
+  weight: 0.0241
+  avg_copies: 1.0
 - name: Mistrise Village
-  weight: 0.0241
-  avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 0.0241
-  avg_copies: 1.0
-- name: Dress Down
   weight: 0.0241
   avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.0241
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Dress Down
   weight: 0.0241
   avg_copies: 1.0
-- name: Vendilion Clique
+- name: Sacred Foundry
   weight: 0.0241
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.0241
   avg_copies: 1.0
-- name: Wear
-  weight: 0.012
-  avg_copies: 2.0
+- name: Vendilion Clique
+  weight: 0.0241
+  avg_copies: 1.0
 - name: Pyroclasm
   weight: 0.012
   avg_copies: 2.0
 - name: Obsidian Charmaw
   weight: 0.012
   avg_copies: 2.0
-- name: Flashback
+- name: Wear
   weight: 0.012
-  avg_copies: 1.0
-- name: Damping Sphere
-  weight: 0.012
-  avg_copies: 1.0
-- name: Strix Serenade
-  weight: 0.012
-  avg_copies: 1.0
-- name: Commandeer
-  weight: 0.012
-  avg_copies: 1.0
-- name: Get Lost
-  weight: 0.012
-  avg_copies: 1.0
-- name: Meltdown
-  weight: 0.012
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Restless Anchorage
   weight: 0.012
   avg_copies: 1.0
-- name: Petrified Hamlet
+- name: Elesh Norn, Mother of Machines
+  weight: 0.012
+  avg_copies: 1.0
+- name: Flashback
   weight: 0.012
   avg_copies: 1.0
 - name: Hurkyl's Recall
   weight: 0.012
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
+- name: Petrified Hamlet
+  weight: 0.012
+  avg_copies: 1.0
+- name: Strix Serenade
+  weight: 0.012
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 0.012
+  avg_copies: 1.0
+- name: Damping Sphere
+  weight: 0.012
+  avg_copies: 1.0
+- name: Get Lost
+  weight: 0.012
+  avg_copies: 1.0
+- name: Commandeer
   weight: 0.012
   avg_copies: 1.0
 ---

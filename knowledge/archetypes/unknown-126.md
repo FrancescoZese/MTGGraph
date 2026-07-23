@@ -52,13 +52,13 @@ top_cards:
 - name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
+- name: Duskwatch Recruiter
+  weight: 1.0
+  avg_copies: 1.0
 - name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.0
 - name: Walking Ballista
-  weight: 1.0
-  avg_copies: 1.0
-- name: Duskwatch Recruiter
   weight: 1.0
   avg_copies: 1.0
 - name: Temple Garden
@@ -76,10 +76,10 @@ top_cards:
 - name: Shifting Woodland
   weight: 0.8077
   avg_copies: 1.76
-- name: Grist, the Hunger Tide
+- name: Kraul Harpooner
   weight: 0.8077
   avg_copies: 1.0
-- name: Kraul Harpooner
+- name: Grist, the Hunger Tide
   weight: 0.8077
   avg_copies: 1.0
 - name: Godless Shrine
@@ -133,10 +133,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.3462
   avg_copies: 2.0
-- name: Drannith Magistrate
+- name: card:shang-chi-master-of-kung-fu
   weight: 0.3077
   avg_copies: 1.0
-- name: card:shang-chi-master-of-kung-fu
+- name: Drannith Magistrate
   weight: 0.3077
   avg_copies: 1.0
 - name: Leyline of Abundance
@@ -166,34 +166,34 @@ top_cards:
 - name: High Noon
   weight: 0.0385
   avg_copies: 2.0
-- name: Thoughtseize
+- name: Postmortem Lunge
   weight: 0.0385
   avg_copies: 2.0
-- name: Postmortem Lunge
+- name: Thoughtseize
   weight: 0.0385
   avg_copies: 2.0
 - name: Burrenton Forge-Tender
   weight: 0.0385
   avg_copies: 2.0
+- name: Six
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Reclamation Sage
+  weight: 0.0385
+  avg_copies: 1.0
+- name: card:dauntless-escort
+  weight: 0.0385
+  avg_copies: 1.0
 - name: Formidable Speaker
   weight: 0.0385
   avg_copies: 1.0
 - name: Horizon Canopy
   weight: 0.0385
   avg_copies: 1.0
-- name: Six
-  weight: 0.0385
-  avg_copies: 1.0
 - name: Deafening Silence
   weight: 0.0385
   avg_copies: 1.0
 - name: Crystal Barricade
-  weight: 0.0385
-  avg_copies: 1.0
-- name: card:dauntless-escort
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Reclamation Sage
   weight: 0.0385
   avg_copies: 1.0
 ---

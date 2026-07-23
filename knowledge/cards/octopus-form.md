@@ -10,7 +10,7 @@ type: Instant — Lesson
 meta_presence: 0.0036
 archetypes:
   izzet-prowess:
-    weight: 0.058
+    weight: 0.0578
     avg_copies: 1.0
   unknown-50:
     weight: 1.0

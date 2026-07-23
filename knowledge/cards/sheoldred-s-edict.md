@@ -7,13 +7,13 @@ name: Sheoldred's Edict
 scryfall_id: a9225cc3-90f0-448f-a8d9-7c6c2796d077
 set: one
 type: Instant
-meta_presence: 0.0392
+meta_presence: 0.0394
 archetypes:
   dimir-control:
     weight: 0.9012
     avg_copies: 2.07
   amulet-titan:
-    weight: 0.0065
+    weight: 0.0064
     avg_copies: 2.0
   goryo:
     weight: 0.0033
@@ -73,7 +73,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.6146
+    weight: 0.6186
     avg_copies: 1.22
   unknown-56:
     weight: 1.0
@@ -111,4 +111,7 @@ archetypes:
   unknown-165:
     weight: 1.0
     avg_copies: 2.0
+  unknown-212:
+    weight: 1.0
+    avg_copies: 1.0
 ---

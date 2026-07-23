@@ -7,13 +7,13 @@ name: 'Unknown #65'
 meta_share: 0.005
 list_count: 29
 top_cards:
-- name: Violent Outburst
-  weight: 1.0
-  avg_copies: 4.0
 - name: Shardless Agent
   weight: 1.0
   avg_copies: 4.0
 - name: Crashing Footfalls
+  weight: 1.0
+  avg_copies: 4.0
+- name: Violent Outburst
   weight: 1.0
   avg_copies: 4.0
 - name: Misty Rainforest
@@ -46,10 +46,10 @@ top_cards:
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
 - name: Wooded Foothills
@@ -64,10 +64,10 @@ top_cards:
 - name: Island
   weight: 0.9655
   avg_copies: 1.18
-- name: Boseiju, Who Endures
+- name: Forest
   weight: 0.9655
   avg_copies: 1.0
-- name: Forest
+- name: Boseiju, Who Endures
   weight: 0.9655
   avg_copies: 1.0
 - name: Mountain
@@ -151,28 +151,28 @@ top_cards:
 - name: Flame of Anor
   weight: 0.0345
   avg_copies: 4.0
-- name: Commandeer
+- name: Snow-Covered Island
   weight: 0.0345
   avg_copies: 2.0
 - name: Kataki, War's Wage
   weight: 0.0345
   avg_copies: 2.0
-- name: Teferi, Time Raveler
+- name: Commandeer
   weight: 0.0345
   avg_copies: 2.0
 - name: Mutavault
   weight: 0.0345
   avg_copies: 2.0
-- name: Snow-Covered Island
+- name: Teferi, Time Raveler
   weight: 0.0345
   avg_copies: 2.0
 - name: card:avengers-disassembled
   weight: 0.0345
   avg_copies: 2.0
-- name: Fable of the Mirror-Breaker
+- name: Mine Collapse
   weight: 0.0345
   avg_copies: 1.0
-- name: Mine Collapse
+- name: Fable of the Mirror-Breaker
   weight: 0.0345
   avg_copies: 1.0
 - name: Snow-Covered Forest

@@ -15,8 +15,8 @@ archetypes:
     weight: 0.2099
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.5331
-    avg_copies: 1.05
+    weight: 0.5363
+    avg_copies: 1.06
   hardened-scales:
     weight: 1.0
     avg_copies: 1.0
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.0233
     avg_copies: 1.0
   affinity:
-    weight: 0.2707
+    weight: 0.2702
     avg_copies: 1.01
   burn:
     weight: 0.027
@@ -39,7 +39,7 @@ archetypes:
     weight: 0.0034
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.8112
+    weight: 0.808
     avg_copies: 1.0
   orzhov-blink:
     weight: 0.3
@@ -71,6 +71,9 @@ archetypes:
   unknown-49:
     weight: 1.0
     avg_copies: 3.0
+  unknown-61:
+    weight: 0.0213
+    avg_copies: 1.0
   unknown-53:
     weight: 1.0
     avg_copies: 1.0
@@ -87,7 +90,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0152
+    weight: 0.0149
     avg_copies: 1.0
   unknown-159:
     weight: 1.0

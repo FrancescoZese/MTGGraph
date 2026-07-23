@@ -22,16 +22,16 @@ archetypes:
     weight: 0.0097
     avg_copies: 1.0
   goryo2:
-    weight: 0.0667
+    weight: 0.0625
     avg_copies: 1.0
   sultai-midrange:
     weight: 0.25
     avg_copies: 2.0
   unknown-85:
-    weight: 0.0667
+    weight: 0.0625
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0455
+    weight: 0.0448
     avg_copies: 1.67
   unknown-167:
     weight: 0.2

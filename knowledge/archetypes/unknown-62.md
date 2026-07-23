@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: 'Unknown #62'
-meta_share: 0.0052
+meta_share: 0.0051
 list_count: 30
 top_cards:
 - name: Solitude
@@ -114,16 +114,16 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.1667
   avg_copies: 2.0
-- name: Deafening Silence
-  weight: 0.1667
-  avg_copies: 1.6
 - name: High Noon
   weight: 0.1667
   avg_copies: 1.6
-- name: Ranger-Captain of Eos
+- name: Deafening Silence
+  weight: 0.1667
+  avg_copies: 1.6
+- name: Haliya, Guided by Light
   weight: 0.1667
   avg_copies: 1.2
-- name: Haliya, Guided by Light
+- name: Ranger-Captain of Eos
   weight: 0.1667
   avg_copies: 1.2
 - name: Haywire Mite
@@ -171,13 +171,10 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 0.0333
   avg_copies: 3.0
-- name: card:geist-of-saint-traft
-  weight: 0.0333
-  avg_copies: 2.0
-- name: Flagstones of Trokair
-  weight: 0.0333
-  avg_copies: 2.0
 - name: Galvanic Discharge
+  weight: 0.0333
+  avg_copies: 2.0
+- name: card:geist-of-saint-traft
   weight: 0.0333
   avg_copies: 2.0
 - name: Floodfarm Verge
@@ -186,10 +183,22 @@ top_cards:
 - name: Goblin Bombardment
   weight: 0.0333
   avg_copies: 2.0
+- name: Flagstones of Trokair
+  weight: 0.0333
+  avg_copies: 2.0
 - name: Obsidian Charmaw
   weight: 0.0333
   avg_copies: 2.0
-- name: Recruiter of the Guard
+- name: Elegant Parlor
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Ajani, Nacatl Pariah
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Hydroelectric Specimen
+  weight: 0.0333
+  avg_copies: 1.0
+- name: card:exalted-sunborn
   weight: 0.0333
   avg_copies: 1.0
 - name: Marsh Flats
@@ -198,10 +207,10 @@ top_cards:
 - name: Flitterwing Nuisance
   weight: 0.0333
   avg_copies: 1.0
-- name: Ajani, Nacatl Pariah
+- name: Razorgrass Ambush
   weight: 0.0333
   avg_copies: 1.0
-- name: Celestial Purge
+- name: Recruiter of the Guard
   weight: 0.0333
   avg_copies: 1.0
 - name: Aven Interrupter
@@ -210,19 +219,10 @@ top_cards:
 - name: Meltdown
   weight: 0.0333
   avg_copies: 1.0
-- name: Razorgrass Ambush
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Elegant Parlor
-  weight: 0.0333
-  avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 0.0333
   avg_copies: 1.0
-- name: Hydroelectric Specimen
-  weight: 0.0333
-  avg_copies: 1.0
-- name: card:exalted-sunborn
+- name: Celestial Purge
   weight: 0.0333
   avg_copies: 1.0
 ---

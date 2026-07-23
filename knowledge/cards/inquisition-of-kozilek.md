@@ -40,8 +40,8 @@ archetypes:
     weight: 0.4783
     avg_copies: 1.85
   goryo2:
-    weight: 0.6
-    avg_copies: 1.89
+    weight: 0.625
+    avg_copies: 1.9
   devoted-combo:
     weight: 1.0
     avg_copies: 4.0

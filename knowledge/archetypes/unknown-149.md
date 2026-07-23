@@ -10,16 +10,16 @@ top_cards:
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
-- name: Ocelot Pride
-  weight: 1.0
-  avg_copies: 4.0
 - name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 4.0
-- name: Ajani, Nacatl Pariah
+- name: Ocelot Pride
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
@@ -55,16 +55,16 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.1
-- name: Meticulous Archive
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Island
@@ -82,10 +82,10 @@ top_cards:
 - name: Starfield Shepherd
   weight: 0.6
   avg_copies: 2.0
-- name: Sanctifier en-Vec
+- name: Fable of the Mirror-Breaker
   weight: 0.6
   avg_copies: 1.83
-- name: Fable of the Mirror-Breaker
+- name: Sanctifier en-Vec
   weight: 0.6
   avg_copies: 1.83
 - name: Phelia, Exuberant Shepherd
@@ -139,25 +139,25 @@ top_cards:
 - name: Arena of Glory
   weight: 0.2
   avg_copies: 1.0
+- name: Clarion Conqueror
+  weight: 0.1
+  avg_copies: 2.0
 - name: Marsh Flats
   weight: 0.1
   avg_copies: 2.0
 - name: Voice of Victory
   weight: 0.1
   avg_copies: 2.0
-- name: Clarion Conqueror
-  weight: 0.1
-  avg_copies: 2.0
-- name: March of Otherworldly Light
-  weight: 0.1
-  avg_copies: 1.0
 - name: Containment Priest
   weight: 0.1
   avg_copies: 1.0
-- name: Detect Intrusion
+- name: March of Otherworldly Light
   weight: 0.1
   avg_copies: 1.0
 - name: Deafening Silence
+  weight: 0.1
+  avg_copies: 1.0
+- name: Detect Intrusion
   weight: 0.1
   avg_copies: 1.0
 ---

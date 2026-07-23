@@ -17,13 +17,13 @@ top_cards:
 - name: Master of the Pearl Trident
   weight: 1.0
   avg_copies: 3.73
-- name: Vodalian Hexcatcher
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 3.64
 - name: Aether Vial
   weight: 1.0
   avg_copies: 3.64
-- name: Sink into Stupor
+- name: Vodalian Hexcatcher
   weight: 1.0
   avg_copies: 3.64
 - name: Harbinger of the Seas
@@ -92,13 +92,13 @@ top_cards:
 - name: Mistcaller
   weight: 0.0909
   avg_copies: 3.0
+- name: Hurkyl's Recall
+  weight: 0.0909
+  avg_copies: 2.0
 - name: Glasspool Mimic
   weight: 0.0909
   avg_copies: 2.0
 - name: Spell Pierce
-  weight: 0.0909
-  avg_copies: 2.0
-- name: Hurkyl's Recall
   weight: 0.0909
   avg_copies: 2.0
 - name: Gloomlake Verge

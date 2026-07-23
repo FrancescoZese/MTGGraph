@@ -6,34 +6,34 @@ name: 'Unknown #139'
 meta_share: 0.0009
 list_count: 5
 top_cards:
-- name: Archon of Cruelty
-  weight: 1.0
-  avg_copies: 4.0
-- name: Persist
-  weight: 1.0
-  avg_copies: 4.0
-- name: Fallaji Archaeologist
-  weight: 1.0
-  avg_copies: 4.0
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 4.0
 - name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
-- name: Gran-Gran
-  weight: 1.0
-  avg_copies: 4.0
-- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Abhorrent Oculus
+- name: Persist
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 4.0
+- name: Gran-Gran
+  weight: 1.0
+  avg_copies: 4.0
+- name: Archon of Cruelty
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fallaji Archaeologist
+  weight: 1.0
+  avg_copies: 4.0
+- name: Psychic Frog
+  weight: 1.0
+  avg_copies: 4.0
+- name: Unearth
   weight: 1.0
   avg_copies: 3.4
-- name: Unearth
+- name: Abhorrent Oculus
   weight: 1.0
   avg_copies: 3.4
 - name: Undercity Sewers
@@ -48,25 +48,25 @@ top_cards:
 - name: Engineered Explosives
   weight: 1.0
   avg_copies: 2.4
-- name: Mystical Dispute
-  weight: 1.0
-  avg_copies: 1.8
 - name: Snow-Covered Swamp
   weight: 1.0
   avg_copies: 1.8
-- name: Bloodstained Mire
+- name: Mystical Dispute
+  weight: 1.0
+  avg_copies: 1.8
+- name: Snow-Covered Island
   weight: 1.0
   avg_copies: 1.4
-- name: Snow-Covered Island
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.4
 - name: Thoughtseize
   weight: 0.8
   avg_copies: 3.0
-- name: Bitter Triumph
+- name: Cephalid Coliseum
   weight: 0.8
   avg_copies: 2.0
-- name: Cephalid Coliseum
+- name: Bitter Triumph
   weight: 0.8
   avg_copies: 2.0
 - name: End of the Hunt
@@ -87,10 +87,10 @@ top_cards:
 - name: Force of Negation
   weight: 0.6
   avg_copies: 2.0
-- name: Flooded Strand
+- name: Into the Flood Maw
   weight: 0.6
   avg_copies: 1.0
-- name: Into the Flood Maw
+- name: Flooded Strand
   weight: 0.6
   avg_copies: 1.0
 - name: card:victimize
@@ -114,31 +114,31 @@ top_cards:
 - name: Emeritus of Ideation
   weight: 0.2
   avg_copies: 1.0
-- name: Ashiok, Dream Render
-  weight: 0.2
-  avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.2
-  avg_copies: 1.0
-- name: Chalice of the Void
-  weight: 0.2
-  avg_copies: 1.0
 - name: Damping Sphere
-  weight: 0.2
-  avg_copies: 1.0
-- name: Blood Crypt
   weight: 0.2
   avg_copies: 1.0
 - name: Meltdown
   weight: 0.2
   avg_copies: 1.0
-- name: Steam Vents
+- name: Surgical Extraction
   weight: 0.2
   avg_copies: 1.0
 - name: Vexing Bauble
   weight: 0.2
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
+  weight: 0.2
+  avg_copies: 1.0
+- name: Blood Crypt
+  weight: 0.2
+  avg_copies: 1.0
+- name: Steam Vents
+  weight: 0.2
+  avg_copies: 1.0
+- name: Chalice of the Void
+  weight: 0.2
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
   weight: 0.2
   avg_copies: 1.0
 ---

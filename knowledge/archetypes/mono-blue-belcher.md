@@ -5,13 +5,13 @@ name: Mono Blue Belcher
 meta_share: 0.0139
 list_count: 81
 top_cards:
-- name: Whir of Invention
-  weight: 1.0
-  avg_copies: 4.0
 - name: Lotus Bloom
   weight: 1.0
   avg_copies: 4.0
 - name: Goblin Charbelcher
+  weight: 1.0
+  avg_copies: 4.0
+- name: Whir of Invention
   weight: 1.0
   avg_copies: 4.0
 - name: Tameshi, Reality Architect
@@ -20,10 +20,10 @@ top_cards:
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 3.98
-- name: Hydroelectric Specimen
+- name: Disrupting Shoal
   weight: 1.0
   avg_copies: 3.96
-- name: Disrupting Shoal
+- name: Hydroelectric Specimen
   weight: 1.0
   avg_copies: 3.96
 - name: Suppression Ray
@@ -143,25 +143,25 @@ top_cards:
 - name: Pact of Negation
   weight: 0.0123
   avg_copies: 3.0
-- name: Ashiok, Dream Render
+- name: card:threads-of-disloyalty
   weight: 0.0123
   avg_copies: 1.0
-- name: card:threads-of-disloyalty
+- name: Displacement Wave
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Isochron Scepter
   weight: 0.0123
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.0123
   avg_copies: 1.0
-- name: Shadow of Doubt
-  weight: 0.0123
-  avg_copies: 1.0
 - name: Hope of Ghirapur
   weight: 0.0123
   avg_copies: 1.0
-- name: Portable Hole
+- name: Shadow of Doubt
   weight: 0.0123
   avg_copies: 1.0
-- name: Dress Down
+- name: Erode
   weight: 0.0123
   avg_copies: 1.0
 - name: card:diary-of-dreams
@@ -170,13 +170,13 @@ top_cards:
 - name: Witch Enchanter
   weight: 0.0123
   avg_copies: 1.0
-- name: Erode
+- name: Dress Down
   weight: 0.0123
   avg_copies: 1.0
-- name: Displacement Wave
+- name: Ashiok, Dream Render
   weight: 0.0123
   avg_copies: 1.0
-- name: Isochron Scepter
+- name: Portable Hole
   weight: 0.0123
   avg_copies: 1.0
 ---

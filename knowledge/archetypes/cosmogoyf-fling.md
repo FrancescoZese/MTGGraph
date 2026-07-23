@@ -13,10 +13,10 @@ top_cards:
 - name: Plunge into Darkness
   weight: 1.0
   avg_copies: 3.94
-- name: Spoils of the Vault
+- name: Gemstone Caverns
   weight: 1.0
   avg_copies: 3.91
-- name: Gemstone Caverns
+- name: Spoils of the Vault
   weight: 1.0
   avg_copies: 3.91
 - name: Blackcleave Cliffs
@@ -76,10 +76,10 @@ top_cards:
 - name: Chancellor of the Annex
   weight: 0.4571
   avg_copies: 3.94
-- name: Callous Sell-Sword
+- name: Aloe Alchemist
   weight: 0.3714
   avg_copies: 1.0
-- name: Aloe Alchemist
+- name: Callous Sell-Sword
   weight: 0.3714
   avg_copies: 1.0
 - name: Disciple of Freyalise
@@ -157,9 +157,6 @@ top_cards:
 - name: Death's Shadow
   weight: 0.0286
   avg_copies: 2.0
-- name: Kaheera, the Orphanguard
-  weight: 0.0286
-  avg_copies: 1.0
 - name: Mountain
   weight: 0.0286
   avg_copies: 1.0
@@ -167,6 +164,9 @@ top_cards:
   weight: 0.0286
   avg_copies: 1.0
 - name: Disruptor Flute
+  weight: 0.0286
+  avg_copies: 1.0
+- name: Kaheera, the Orphanguard
   weight: 0.0286
   avg_copies: 1.0
 ---

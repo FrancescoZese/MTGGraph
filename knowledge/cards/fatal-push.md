@@ -13,7 +13,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.8
   goryo:
-    weight: 0.2074
+    weight: 0.206
     avg_copies: 1.27
   necrodominance:
     weight: 0.8605
@@ -35,9 +35,9 @@ archetypes:
     avg_copies: 2.21
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 2.77
+    avg_copies: 2.76
   simic-ritual:
-    weight: 0.0366
+    weight: 0.0361
     avg_copies: 2.33
   izzet-prowess:
     weight: 0.0068
@@ -88,7 +88,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   goryo2:
-    weight: 0.2
+    weight: 0.1875
     avg_copies: 2.8
   soultrader-combo:
     weight: 1.0
@@ -172,8 +172,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-68:
-    weight: 0.8421
-    avg_copies: 1.94
+    weight: 0.8462
+    avg_copies: 2.0
   unknown-69:
     weight: 1.0
     avg_copies: 4.0
@@ -298,8 +298,11 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-207:
-    weight: 0.8
+    weight: 0.8333
     avg_copies: 3.0
+  unknown-212:
+    weight: 1.0
+    avg_copies: 4.0
   unknown-211:
     weight: 1.0
     avg_copies: 2.0

@@ -7,14 +7,14 @@ name: Fanatic of Rhonas
 scryfall_id: 1f9fb33a-3b39-4aff-93b8-aedafe0ea694
 set: mh3
 type: Creature — Snake Druid
-meta_presence: 0.0081
+meta_presence: 0.0087
 archetypes:
   mono-green-ramp:
     weight: 0.2857
     avg_copies: 4.0
   unknown-61:
     weight: 1.0
-    avg_copies: 3.86
+    avg_copies: 3.85
   unknown-121:
     weight: 1.0
     avg_copies: 4.0

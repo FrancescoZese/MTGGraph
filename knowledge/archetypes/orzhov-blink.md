@@ -87,10 +87,10 @@ top_cards:
 - name: Flooded Strand
   weight: 0.5
   avg_copies: 2.6
-- name: Prismatic Ending
+- name: Dawnbringer Cleric
   weight: 0.3
   avg_copies: 2.0
-- name: Dawnbringer Cleric
+- name: Prismatic Ending
   weight: 0.3
   avg_copies: 2.0
 - name: Sheoldred's Edict
@@ -105,10 +105,10 @@ top_cards:
 - name: Grafdigger's Cage
   weight: 0.3
   avg_copies: 1.0
-- name: Sanctifier en-Vec
+- name: Faerie Macabre
   weight: 0.2
   avg_copies: 2.0
-- name: Faerie Macabre
+- name: Sanctifier en-Vec
   weight: 0.2
   avg_copies: 2.0
 - name: Polluted Delta
@@ -117,16 +117,16 @@ top_cards:
 - name: Drannith Magistrate
   weight: 0.2
   avg_copies: 1.5
-- name: March of Otherworldly Light
+- name: Elesh Norn, Mother of Machines
   weight: 0.2
   avg_copies: 1.0
-- name: Erode
+- name: March of Otherworldly Light
   weight: 0.2
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.2
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
+- name: Erode
   weight: 0.2
   avg_copies: 1.0
 - name: Orim's Chant
@@ -135,46 +135,46 @@ top_cards:
 - name: Aether Vial
   weight: 0.1
   avg_copies: 4.0
-- name: Deafening Silence
-  weight: 0.1
-  avg_copies: 3.0
 - name: Force of Despair
   weight: 0.1
   avg_copies: 3.0
-- name: Bloodstained Mire
+- name: Deafening Silence
   weight: 0.1
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Duress
-  weight: 0.1
-  avg_copies: 2.0
-- name: Troll of Khazad-dûm
   weight: 0.1
   avg_copies: 2.0
 - name: Windswept Heath
   weight: 0.1
   avg_copies: 2.0
+- name: Bloodstained Mire
+  weight: 0.1
+  avg_copies: 2.0
 - name: End of the Hunt
   weight: 0.1
   avg_copies: 2.0
-- name: Emptiness
+- name: Troll of Khazad-dûm
   weight: 0.1
-  avg_copies: 1.0
-- name: Aven Interrupter
+  avg_copies: 2.0
+- name: Raucous Theater
   weight: 0.1
   avg_copies: 1.0
 - name: Monumental Henge
   weight: 0.1
   avg_copies: 1.0
+- name: Eiganjo, Seat of the Empire
+  weight: 0.1
+  avg_copies: 1.0
 - name: Vindicate
+  weight: 0.1
+  avg_copies: 1.0
+- name: Aven Interrupter
   weight: 0.1
   avg_copies: 1.0
 - name: card:cloak-and-dagger-entwined
   weight: 0.1
   avg_copies: 1.0
-- name: Eiganjo, Seat of the Empire
-  weight: 0.1
-  avg_copies: 1.0
-- name: Raucous Theater
+- name: Emptiness
   weight: 0.1
   avg_copies: 1.0
 ---
