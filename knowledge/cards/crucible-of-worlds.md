@@ -12,7 +12,7 @@ archetypes:
     weight: 0.1315
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0133
+    weight: 0.0132
     avg_copies: 1.0
   boros-ponza:
     weight: 0.05

@@ -7,7 +7,7 @@ name: Portable Hole
 scryfall_id: 80fca8c0-ae3e-439e-b202-228b9f360e9a
 set: afr
 type: Artifact
-meta_presence: 0.007
+meta_presence: 0.0072
 archetypes:
   mono-blue-belcher:
     weight: 0.0123
@@ -43,8 +43,8 @@ archetypes:
     weight: 0.0896
     avg_copies: 1.0
   unknown-167:
-    weight: 0.4
-    avg_copies: 3.5
+    weight: 0.5
+    avg_copies: 3.67
   unknown-170:
     weight: 1.0
     avg_copies: 4.0

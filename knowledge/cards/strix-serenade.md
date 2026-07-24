@@ -25,16 +25,16 @@ archetypes:
     weight: 0.012
     avg_copies: 1.0
   affinity:
-    weight: 0.2319
+    weight: 0.2334
     avg_copies: 1.1
   domain-zoo:
-    weight: 0.0394
+    weight: 0.0391
     avg_copies: 1.17
   reanimator:
     weight: 0.0741
     avg_copies: 2.0
   mono-blue-tron:
-    weight: 0.0476
+    weight: 0.0455
     avg_copies: 4.0
   kethis-combo:
     weight: 0.2857
@@ -43,13 +43,13 @@ archetypes:
     weight: 0.0403
     avg_copies: 1.6
   esper-blink:
-    weight: 0.0485
+    weight: 0.0476
     avg_copies: 1.5
   indomitable-creativity:
     weight: 0.2
     avg_copies: 1.67
   azorius-blink:
-    weight: 0.0952
+    weight: 0.0938
     avg_copies: 1.25
   izzet-artifacts:
     weight: 0.6562
@@ -64,7 +64,7 @@ archetypes:
     weight: 0.125
     avg_copies: 1.0
   unknown-6:
-    weight: 0.3333
+    weight: 0.4
     avg_copies: 1.0
   unknown-7:
     weight: 1.0
@@ -82,7 +82,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.25
   unknown-167:
-    weight: 0.4
+    weight: 0.3333
     avg_copies: 2.0
   unknown-182:
     weight: 0.3333

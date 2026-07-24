@@ -3,7 +3,7 @@ colors:
 - U
 - R
 name: Izzet Artifacts
-meta_share: 0.0055
+meta_share: 0.0054
 list_count: 32
 top_cards:
 - name: Mishra's Bauble
@@ -81,13 +81,13 @@ top_cards:
 - name: Haywire Mite
   weight: 0.5
   avg_copies: 1.2
-- name: Pithing Needle
+- name: Skateboard
   weight: 0.5
   avg_copies: 1.0
 - name: Mountain
   weight: 0.5
   avg_copies: 1.0
-- name: Skateboard
+- name: Pithing Needle
   weight: 0.5
   avg_copies: 1.0
 - name: Soul-Guide Lantern
@@ -150,13 +150,13 @@ top_cards:
 - name: Lightning Bolt
   weight: 0.125
   avg_copies: 2.17
-- name: Grinding Station
+- name: Misty Rainforest
   weight: 0.0938
   avg_copies: 3.0
 - name: Emeritus of Conflict
   weight: 0.0938
   avg_copies: 3.0
-- name: Misty Rainforest
+- name: Grinding Station
   weight: 0.0938
   avg_copies: 3.0
 - name: Pyroclasm
@@ -177,6 +177,9 @@ top_cards:
 - name: Annul
   weight: 0.0625
   avg_copies: 2.0
+- name: Hedge Maze
+  weight: 0.0625
+  avg_copies: 1.0
 - name: Shifting Woodland
   weight: 0.0625
   avg_copies: 1.0
@@ -184,9 +187,6 @@ top_cards:
   weight: 0.0625
   avg_copies: 1.0
 - name: Grafdigger's Cage
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Hedge Maze
   weight: 0.0625
   avg_copies: 1.0
 - name: Stormchaser's Talent
@@ -201,16 +201,7 @@ top_cards:
 - name: Vivi Ornitier
   weight: 0.0312
   avg_copies: 3.0
-- name: Kappa Cannoneer
-  weight: 0.0312
-  avg_copies: 2.0
 - name: Botanical Sanctum
-  weight: 0.0312
-  avg_copies: 2.0
-- name: Spell Pierce
-  weight: 0.0312
-  avg_copies: 2.0
-- name: card:ledger-shredder
   weight: 0.0312
   avg_copies: 2.0
 - name: The Reality Chip
@@ -219,34 +210,43 @@ top_cards:
 - name: Invasive Surgery
   weight: 0.0312
   avg_copies: 2.0
-- name: Snow-Covered Mountain
+- name: Spell Pierce
+  weight: 0.0312
+  avg_copies: 2.0
+- name: Kappa Cannoneer
+  weight: 0.0312
+  avg_copies: 2.0
+- name: card:ledger-shredder
+  weight: 0.0312
+  avg_copies: 2.0
+- name: Swan Song
   weight: 0.0312
   avg_copies: 1.0
 - name: Stomping Ground
   weight: 0.0312
   avg_copies: 1.0
-- name: Subtlety
-  weight: 0.0312
-  avg_copies: 1.0
 - name: Snow-Covered Island
-  weight: 0.0312
-  avg_copies: 1.0
-- name: Nature's Claim
-  weight: 0.0312
-  avg_copies: 1.0
-- name: Swan Song
-  weight: 0.0312
-  avg_copies: 1.0
-- name: Meltdown
-  weight: 0.0312
-  avg_copies: 1.0
-- name: Shivan Reef
   weight: 0.0312
   avg_copies: 1.0
 - name: An Offer You Can't Refuse
   weight: 0.0312
   avg_copies: 1.0
+- name: Nature's Claim
+  weight: 0.0312
+  avg_copies: 1.0
 - name: Force of Vigor
+  weight: 0.0312
+  avg_copies: 1.0
+- name: Snow-Covered Mountain
+  weight: 0.0312
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 0.0312
+  avg_copies: 1.0
+- name: Subtlety
+  weight: 0.0312
+  avg_copies: 1.0
+- name: Shivan Reef
   weight: 0.0312
   avg_copies: 1.0
 - name: Ashiok, Dream Render

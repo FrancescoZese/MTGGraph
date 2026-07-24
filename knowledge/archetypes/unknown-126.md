@@ -4,7 +4,7 @@ colors:
 - B
 - G
 name: 'Unknown #126'
-meta_share: 0.0045
+meta_share: 0.0044
 list_count: 26
 top_cards:
 - name: Nature's Rhythm
@@ -22,19 +22,19 @@ top_cards:
 - name: Tyvar, Jubilant Brawler
   weight: 1.0
   avg_copies: 3.85
-- name: Verdant Catacombs
+- name: Delighted Halfling
   weight: 1.0
   avg_copies: 3.77
-- name: Delighted Halfling
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 3.77
 - name: Windswept Heath
   weight: 1.0
   avg_copies: 3.54
-- name: Vizier of Remedies
+- name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 2.5
-- name: Agatha's Soul Cauldron
+- name: Vizier of Remedies
   weight: 1.0
   avg_copies: 2.5
 - name: Boseiju, Who Endures
@@ -52,16 +52,16 @@ top_cards:
 - name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
-- name: Duskwatch Recruiter
-  weight: 1.0
-  avg_copies: 1.0
-- name: Underground Mortuary
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 - name: Walking Ballista
   weight: 1.0
   avg_copies: 1.0
-- name: Temple Garden
+- name: Duskwatch Recruiter
+  weight: 1.0
+  avg_copies: 1.0
+- name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.0
 - name: card:birds-of-paradise
@@ -76,13 +76,13 @@ top_cards:
 - name: Shifting Woodland
   weight: 0.8077
   avg_copies: 1.76
-- name: Kraul Harpooner
-  weight: 0.8077
-  avg_copies: 1.0
 - name: Grist, the Hunger Tide
   weight: 0.8077
   avg_copies: 1.0
 - name: Godless Shrine
+  weight: 0.8077
+  avg_copies: 1.0
+- name: Kraul Harpooner
   weight: 0.8077
   avg_copies: 1.0
 - name: Misty Rainforest
@@ -97,10 +97,10 @@ top_cards:
 - name: Force of Vigor
   weight: 0.7308
   avg_copies: 2.11
-- name: Eternal Witness
+- name: Suncleanser
   weight: 0.7308
   avg_copies: 1.0
-- name: Suncleanser
+- name: Eternal Witness
   weight: 0.7308
   avg_copies: 1.0
 - name: Damping Sphere
@@ -163,6 +163,9 @@ top_cards:
 - name: card:guerrilla-gorilla
   weight: 0.0769
   avg_copies: 1.0
+- name: Burrenton Forge-Tender
+  weight: 0.0385
+  avg_copies: 2.0
 - name: High Noon
   weight: 0.0385
   avg_copies: 2.0
@@ -172,28 +175,25 @@ top_cards:
 - name: Thoughtseize
   weight: 0.0385
   avg_copies: 2.0
-- name: Burrenton Forge-Tender
+- name: Horizon Canopy
   weight: 0.0385
-  avg_copies: 2.0
+  avg_copies: 1.0
 - name: Six
   weight: 0.0385
   avg_copies: 1.0
-- name: Reclamation Sage
+- name: Crystal Barricade
   weight: 0.0385
   avg_copies: 1.0
 - name: card:dauntless-escort
   weight: 0.0385
   avg_copies: 1.0
-- name: Formidable Speaker
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Horizon Canopy
-  weight: 0.0385
-  avg_copies: 1.0
 - name: Deafening Silence
   weight: 0.0385
   avg_copies: 1.0
-- name: Crystal Barricade
+- name: Reclamation Sage
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Formidable Speaker
   weight: 0.0385
   avg_copies: 1.0
 ---

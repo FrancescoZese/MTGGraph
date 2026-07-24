@@ -6,25 +6,25 @@ name: 'Unknown #125'
 meta_share: 0.0003
 list_count: 2
 top_cards:
-- name: Unearth
-  weight: 1.0
-  avg_copies: 4.0
-- name: Polluted Delta
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Thought Scour
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 4.0
 - name: Counterspell
   weight: 1.0
   avg_copies: 4.0
-- name: Abhorrent Oculus
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
+- name: Unearth
+  weight: 1.0
+  avg_copies: 4.0
+- name: Abhorrent Oculus
   weight: 1.0
   avg_copies: 4.0
 - name: Force of Negation
@@ -33,18 +33,24 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 2.67
-- name: Mystical Dispute
-  weight: 1.0
-  avg_copies: 2.5
-- name: Harbinger of the Seas
-  weight: 1.0
-  avg_copies: 2.5
 - name: Island
   weight: 1.0
   avg_copies: 2.5
 - name: Watery Grave
   weight: 1.0
   avg_copies: 2.5
+- name: Harbinger of the Seas
+  weight: 1.0
+  avg_copies: 2.5
+- name: Mystical Dispute
+  weight: 1.0
+  avg_copies: 2.5
+- name: Murktide Regent
+  weight: 1.0
+  avg_copies: 2.0
+- name: Nihil Spellbomb
+  weight: 1.0
+  avg_copies: 2.0
 - name: Undercity Sewers
   weight: 1.0
   avg_copies: 2.0
@@ -54,46 +60,40 @@ top_cards:
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 2.0
-- name: Nihil Spellbomb
-  weight: 1.0
-  avg_copies: 2.0
-- name: Murktide Regent
-  weight: 1.0
-  avg_copies: 2.0
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 1.5
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Orcish Bowmasters
+- name: Consider
   weight: 0.5
   avg_copies: 3.0
 - name: Quantum Riddler
   weight: 0.5
   avg_copies: 3.0
-- name: Consider
+- name: Orcish Bowmasters
   weight: 0.5
   avg_copies: 3.0
 - name: Thoughtseize
   weight: 0.5
   avg_copies: 2.5
-- name: Subtlety
-  weight: 0.5
-  avg_copies: 2.0
-- name: Engineered Explosives
+- name: Scalding Tarn
   weight: 0.5
   avg_copies: 2.0
 - name: Darkslick Shores
   weight: 0.5
   avg_copies: 2.0
+- name: Engineered Explosives
+  weight: 0.5
+  avg_copies: 2.0
+- name: Subtlety
+  weight: 0.5
+  avg_copies: 2.0
 - name: Gloomlake Verge
   weight: 0.5
   avg_copies: 2.0
-- name: Scalding Tarn
-  weight: 0.5
-  avg_copies: 2.0
-- name: Boggart Trawler
+- name: Go for the Throat
   weight: 0.5
   avg_copies: 1.0
 - name: Dreams of Steel and Oil
@@ -102,10 +102,7 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.5
   avg_copies: 1.0
-- name: Shoot the Sheriff
-  weight: 0.5
-  avg_copies: 1.0
-- name: The Meathook Massacre
+- name: Toxic Deluge
   weight: 0.5
   avg_copies: 1.0
 - name: Snapcaster Mage
@@ -114,13 +111,16 @@ top_cards:
 - name: Spell Pierce
   weight: 0.5
   avg_copies: 1.0
-- name: Toxic Deluge
-  weight: 0.5
-  avg_copies: 1.0
 - name: Flooded Strand
   weight: 0.5
   avg_copies: 1.0
-- name: Go for the Throat
+- name: The Meathook Massacre
+  weight: 0.5
+  avg_copies: 1.0
+- name: Boggart Trawler
+  weight: 0.5
+  avg_copies: 1.0
+- name: Shoot the Sheriff
   weight: 0.5
   avg_copies: 1.0
 ---

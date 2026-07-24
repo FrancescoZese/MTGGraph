@@ -6,22 +6,22 @@ name: Mono Green Ramp
 meta_share: 0.0012
 list_count: 7
 top_cards:
-- name: Green Sun's Zenith
-  weight: 1.0
-  avg_copies: 4.0
 - name: Badgermole Cub
-  weight: 1.0
-  avg_copies: 4.0
-- name: Quirion Ranger
   weight: 1.0
   avg_copies: 4.0
 - name: Springheart Nantuko
   weight: 1.0
   avg_copies: 4.0
-- name: Windswept Heath
+- name: Green Sun's Zenith
+  weight: 1.0
+  avg_copies: 4.0
+- name: Quirion Ranger
+  weight: 1.0
+  avg_copies: 4.0
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 3.43
-- name: Misty Rainforest
+- name: Windswept Heath
   weight: 1.0
   avg_copies: 3.43
 - name: Summoner's Pact
@@ -45,13 +45,13 @@ top_cards:
 - name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
+- name: Craterhoof Behemoth
+  weight: 1.0
+  avg_copies: 1.0
 - name: Chomping Changeling
   weight: 1.0
   avg_copies: 1.0
 - name: Ashaya, Soul of the Wild
-  weight: 1.0
-  avg_copies: 1.0
-- name: Craterhoof Behemoth
   weight: 1.0
   avg_copies: 1.0
 - name: Boseiju, Who Endures
@@ -72,19 +72,19 @@ top_cards:
 - name: Nissa, Who Shakes the World
   weight: 0.7143
   avg_copies: 2.2
-- name: Nissa, Resurgent Animist
+- name: Pithing Needle
   weight: 0.7143
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Nissa, Resurgent Animist
   weight: 0.7143
   avg_copies: 1.0
 - name: Formidable Speaker
   weight: 0.7143
   avg_copies: 1.0
-- name: Tyvar, Jubilant Brawler
+- name: Thoughtseize
   weight: 0.5714
   avg_copies: 3.0
-- name: Thoughtseize
+- name: Tyvar, Jubilant Brawler
   weight: 0.5714
   avg_copies: 3.0
 - name: Mai, Scornful Striker
@@ -108,10 +108,10 @@ top_cards:
 - name: Fanatic of Rhonas
   weight: 0.2857
   avg_copies: 4.0
-- name: Slumbering Trudge
+- name: The Great Henge
   weight: 0.2857
   avg_copies: 4.0
-- name: The Great Henge
+- name: Slumbering Trudge
   weight: 0.2857
   avg_copies: 4.0
 - name: Life's Legacy
@@ -123,34 +123,34 @@ top_cards:
 - name: Tajuru Preserver
   weight: 0.2857
   avg_copies: 1.0
-- name: Fade from History
-  weight: 0.1429
-  avg_copies: 3.0
-- name: card:shang-chi-master-of-kung-fu
-  weight: 0.1429
-  avg_copies: 3.0
 - name: Damping Sphere
   weight: 0.1429
   avg_copies: 3.0
 - name: Vexing Bauble
   weight: 0.1429
   avg_copies: 3.0
+- name: card:shang-chi-master-of-kung-fu
+  weight: 0.1429
+  avg_copies: 3.0
 - name: Force of Vigor
   weight: 0.1429
   avg_copies: 3.0
+- name: Fade from History
+  weight: 0.1429
+  avg_copies: 3.0
+- name: Gaddock Teeg
+  weight: 0.1429
+  avg_copies: 1.0
 - name: card:enduring-vitality
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Ghost Vacuum
   weight: 0.1429
   avg_copies: 1.0
 - name: card:ruric-thar-the-unbowed
   weight: 0.1429
   avg_copies: 1.0
 - name: Scavenging Ooze
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Gaddock Teeg
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Ghost Vacuum
   weight: 0.1429
   avg_copies: 1.0
 ---

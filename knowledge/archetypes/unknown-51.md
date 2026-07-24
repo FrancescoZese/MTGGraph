@@ -6,19 +6,10 @@ name: 'Unknown #51'
 meta_share: 0.0002
 list_count: 1
 top_cards:
-- name: Subtlety
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Tamiyo, Inquisitive Student
-  weight: 1.0
-  avg_copies: 4.0
-- name: Counterspell
-  weight: 1.0
-  avg_copies: 4.0
-- name: Force of Negation
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -30,13 +21,25 @@ top_cards:
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Subtlety
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Counterspell
   weight: 1.0
   avg_copies: 4.0
-- name: Orcish Bowmasters
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Tamiyo, Inquisitive Student
+  weight: 1.0
+  avg_copies: 4.0
+- name: Force of Negation
+  weight: 1.0
+  avg_copies: 4.0
+- name: Dress Down
+  weight: 1.0
+  avg_copies: 3.0
+- name: Street Wraith
   weight: 1.0
   avg_copies: 3.0
 - name: Marsh Flats
@@ -45,31 +48,28 @@ top_cards:
 - name: Cling to Dust
   weight: 1.0
   avg_copies: 3.0
-- name: Consign to Memory
-  weight: 1.0
-  avg_copies: 3.0
-- name: Undercity Sewers
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.0
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 3.0
-- name: Dress Down
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 3.0
-- name: Street Wraith
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
-- name: Stern Scolding
+- name: Surgical Extraction
+  weight: 1.0
+  avg_copies: 2.0
+- name: Island
   weight: 1.0
   avg_copies: 2.0
 - name: Watery Grave
   weight: 1.0
   avg_copies: 2.0
-- name: Surgical Extraction
-  weight: 1.0
-  avg_copies: 2.0
-- name: Island
+- name: Stern Scolding
   weight: 1.0
   avg_copies: 2.0
 - name: Kaito, Bane of Nightmares

@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: Mill
-meta_share: 0.0057
+meta_share: 0.0056
 list_count: 33
 top_cards:
 - name: Ruin Crab
@@ -132,10 +132,10 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 0.2424
   avg_copies: 1.2
-- name: Damnation
+- name: Cephalid Coliseum
   weight: 0.2424
   avg_copies: 1.0
-- name: Cephalid Coliseum
+- name: Damnation
   weight: 0.2424
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -174,27 +174,24 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 0.0606
   avg_copies: 2.0
-- name: Prismatic Vista
-  weight: 0.0606
-  avg_copies: 1.5
-- name: Force of Negation
+- name: Spell Snare
   weight: 0.0606
   avg_copies: 1.5
 - name: Damping Sphere
   weight: 0.0606
   avg_copies: 1.5
-- name: Spell Snare
+- name: Force of Negation
   weight: 0.0606
   avg_copies: 1.5
-- name: Hallowed Fountain
+- name: Prismatic Vista
   weight: 0.0606
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Illness in the Ranks
   weight: 0.0606
   avg_copies: 1.0
-- name: Trapmaker's Snare
-  weight: 0.0303
-  avg_copies: 4.0
+- name: Hallowed Fountain
+  weight: 0.0606
+  avg_copies: 1.0
 - name: White Orchid Phantom
   weight: 0.0303
   avg_copies: 4.0
@@ -204,49 +201,49 @@ top_cards:
 - name: Erode
   weight: 0.0303
   avg_copies: 4.0
-- name: High Noon
+- name: Trapmaker's Snare
+  weight: 0.0303
+  avg_copies: 4.0
+- name: Spell Pierce
   weight: 0.0303
   avg_copies: 3.0
-- name: Spell Pierce
+- name: High Noon
   weight: 0.0303
   avg_copies: 3.0
 - name: Leyline of the Void
   weight: 0.0303
   avg_copies: 3.0
-- name: Vendetta
-  weight: 0.0303
-  avg_copies: 2.0
 - name: Hurkyl's Recall
-  weight: 0.0303
-  avg_copies: 2.0
-- name: Meltdown
   weight: 0.0303
   avg_copies: 2.0
 - name: Flare of Denial
   weight: 0.0303
   avg_copies: 2.0
-- name: card:loki-god-of-mischief
+- name: Meltdown
   weight: 0.0303
-  avg_copies: 1.0
-- name: Bloodchief's Thirst
+  avg_copies: 2.0
+- name: Vendetta
   weight: 0.0303
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Ravenous Trap
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Mindbreak Trap
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Subtlety
+  avg_copies: 2.0
+- name: Plains
   weight: 0.0303
   avg_copies: 1.0
 - name: Darkslick Shores
   weight: 0.0303
   avg_copies: 1.0
-- name: Gloomlake Verge
+- name: Meticulous Archive
+  weight: 0.0303
+  avg_copies: 1.0
+- name: card:loki-god-of-mischief
+  weight: 0.0303
+  avg_copies: 1.0
+- name: Subtlety
+  weight: 0.0303
+  avg_copies: 1.0
+- name: Mindbreak Trap
+  weight: 0.0303
+  avg_copies: 1.0
+- name: Ravenous Trap
   weight: 0.0303
   avg_copies: 1.0
 - name: Steam Vents
@@ -255,7 +252,10 @@ top_cards:
 - name: Requiting Hex
   weight: 0.0303
   avg_copies: 1.0
-- name: Plains
+- name: Gloomlake Verge
+  weight: 0.0303
+  avg_copies: 1.0
+- name: Bloodchief's Thirst
   weight: 0.0303
   avg_copies: 1.0
 ---

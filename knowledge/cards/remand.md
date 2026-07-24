@@ -10,10 +10,10 @@ type: Instant
 meta_presence: 0.001
 archetypes:
   ruby-storm:
-    weight: 0.0047
+    weight: 0.0046
     avg_copies: 2.0
   mono-blue-tron:
-    weight: 0.0952
+    weight: 0.0909
     avg_copies: 4.0
   eldrazi-breach:
     weight: 0.25

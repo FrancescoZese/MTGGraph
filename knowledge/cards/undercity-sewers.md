@@ -21,7 +21,7 @@ archetypes:
     weight: 0.0964
     avg_copies: 1.0
   living-end:
-    weight: 0.7941
+    weight: 0.7971
     avg_copies: 1.0
   mill:
     weight: 0.9697
@@ -30,13 +30,13 @@ archetypes:
     weight: 0.8519
     avg_copies: 1.52
   neoform-combo:
-    weight: 0.0267
+    weight: 0.0263
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.1566
+    weight: 0.1548
     avg_copies: 1.0
   esper-blink:
-    weight: 0.9612
+    weight: 0.9619
     avg_copies: 1.0
   esper-control:
     weight: 1.0

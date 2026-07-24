@@ -7,7 +7,7 @@ name: Cori-Steel Cutter
 scryfall_id: 490eb213-9ae2-4b45-abec-6f1dfc83792a
 set: tdm
 type: Artifact — Equipment
-meta_presence: 0.0692
+meta_presence: 0.0691
 archetypes:
   izzet-prowess:
     weight: 1.0
@@ -19,7 +19,7 @@ archetypes:
     weight: 0.5789
     avg_copies: 4.0
   unknown-6:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 4.0
   unknown-10:
     weight: 1.0

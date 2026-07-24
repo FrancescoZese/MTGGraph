@@ -12,7 +12,7 @@ type: Sorcery // Sorcery
 meta_presence: 0.0012
 archetypes:
   yawgmoth-combo:
-    weight: 0.0345
+    weight: 0.0341
     avg_copies: 1.0
   unknown-14:
     weight: 1.0

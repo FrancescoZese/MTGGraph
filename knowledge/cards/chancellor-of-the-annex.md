@@ -10,6 +10,6 @@ type: Creature — Phyrexian Angel
 meta_presence: 0.0027
 archetypes:
   cosmogoyf-fling:
-    weight: 0.4571
+    weight: 0.4444
     avg_copies: 3.94
 ---

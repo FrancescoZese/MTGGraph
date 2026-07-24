@@ -12,7 +12,7 @@ archetypes:
     weight: 0.0128
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0291
+    weight: 0.0286
     avg_copies: 2.0
   unknown-193:
     weight: 1.0

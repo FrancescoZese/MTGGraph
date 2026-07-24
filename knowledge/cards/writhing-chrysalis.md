@@ -12,8 +12,8 @@ archetypes:
     weight: 0.2661
     avg_copies: 2.03
   broodscale-combo:
-    weight: 0.288
-    avg_copies: 2.68
+    weight: 0.2885
+    avg_copies: 2.7
   goryo4:
     weight: 0.0455
     avg_copies: 3.0

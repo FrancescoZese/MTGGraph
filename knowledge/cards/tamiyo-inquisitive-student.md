@@ -36,7 +36,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   simic-ritual:
-    weight: 0.0843
+    weight: 0.0833
     avg_copies: 1.57
   izzet-artifacts:
     weight: 0.9688

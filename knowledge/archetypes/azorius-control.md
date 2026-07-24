@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: Azorius Control
-meta_share: 0.0142
+meta_share: 0.0141
 list_count: 83
 top_cards:
 - name: Flooded Strand
@@ -165,19 +165,19 @@ top_cards:
 - name: Undercity Sewers
   weight: 0.0964
   avg_copies: 1.0
-- name: Jace, the Mind Sculptor
+- name: Hedge Maze
   weight: 0.0843
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Jace, the Mind Sculptor
   weight: 0.0843
   avg_copies: 1.0
 - name: Windswept Heath
   weight: 0.0723
   avg_copies: 1.33
-- name: Field of Ruin
+- name: Erode
   weight: 0.0723
   avg_copies: 1.17
-- name: Erode
+- name: Field of Ruin
   weight: 0.0723
   avg_copies: 1.17
 - name: The Wandering Emperor
@@ -216,70 +216,70 @@ top_cards:
 - name: Snow-Covered Plains
   weight: 0.0361
   avg_copies: 1.0
-- name: Thundertrap Trainer
+- name: Suppression Ray
   weight: 0.0241
   avg_copies: 4.0
-- name: Suppression Ray
+- name: Thundertrap Trainer
   weight: 0.0241
   avg_copies: 4.0
 - name: Elegant Parlor
   weight: 0.0241
   avg_copies: 1.0
-- name: Mistrise Village
-  weight: 0.0241
-  avg_copies: 1.0
-- name: Gemstone Caverns
-  weight: 0.0241
-  avg_copies: 1.0
-- name: Dress Down
-  weight: 0.0241
-  avg_copies: 1.0
 - name: Sacred Foundry
-  weight: 0.0241
-  avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
   weight: 0.0241
   avg_copies: 1.0
 - name: Vendilion Clique
   weight: 0.0241
   avg_copies: 1.0
+- name: Mistrise Village
+  weight: 0.0241
+  avg_copies: 1.0
+- name: Tamiyo, Inquisitive Student
+  weight: 0.0241
+  avg_copies: 1.0
+- name: Dress Down
+  weight: 0.0241
+  avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.0241
+  avg_copies: 1.0
+- name: Wear
+  weight: 0.012
+  avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.012
   avg_copies: 2.0
 - name: Obsidian Charmaw
   weight: 0.012
   avg_copies: 2.0
-- name: Wear
+- name: Strix Serenade
   weight: 0.012
-  avg_copies: 2.0
+  avg_copies: 1.0
+- name: Get Lost
+  weight: 0.012
+  avg_copies: 1.0
+- name: Petrified Hamlet
+  weight: 0.012
+  avg_copies: 1.0
+- name: Hurkyl's Recall
+  weight: 0.012
+  avg_copies: 1.0
+- name: Commandeer
+  weight: 0.012
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 0.012
+  avg_copies: 1.0
 - name: Restless Anchorage
+  weight: 0.012
+  avg_copies: 1.0
+- name: Damping Sphere
   weight: 0.012
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
   weight: 0.012
   avg_copies: 1.0
 - name: Flashback
-  weight: 0.012
-  avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.012
-  avg_copies: 1.0
-- name: Petrified Hamlet
-  weight: 0.012
-  avg_copies: 1.0
-- name: Strix Serenade
-  weight: 0.012
-  avg_copies: 1.0
-- name: Meltdown
-  weight: 0.012
-  avg_copies: 1.0
-- name: Damping Sphere
-  weight: 0.012
-  avg_copies: 1.0
-- name: Get Lost
-  weight: 0.012
-  avg_copies: 1.0
-- name: Commandeer
   weight: 0.012
   avg_copies: 1.0
 ---

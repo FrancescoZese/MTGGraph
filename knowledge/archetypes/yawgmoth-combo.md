@@ -3,8 +3,8 @@ colors:
 - B
 - G
 name: Yawgmoth Combo
-meta_share: 0.0149
-list_count: 87
+meta_share: 0.015
+list_count: 88
 top_cards:
 - name: Verdant Catacombs
   weight: 1.0
@@ -12,10 +12,10 @@ top_cards:
 - name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 3.97
-- name: Young Wolf
+- name: Delighted Halfling
   weight: 1.0
   avg_copies: 3.83
-- name: Delighted Halfling
+- name: Young Wolf
   weight: 1.0
   avg_copies: 3.83
 - name: Badgermole Cub
@@ -38,13 +38,13 @@ top_cards:
   avg_copies: 2.82
 - name: Fatal Push
   weight: 1.0
-  avg_copies: 2.76
+  avg_copies: 2.75
 - name: Thoughtseize
   weight: 1.0
-  avg_copies: 2.57
+  avg_copies: 2.58
 - name: Overgrown Tomb
   weight: 1.0
-  avg_copies: 2.4
+  avg_copies: 2.41
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.89
@@ -60,157 +60,157 @@ top_cards:
 - name: Formidable Speaker
   weight: 1.0
   avg_copies: 1.03
-- name: Swamp
-  weight: 1.0
-  avg_copies: 1.0
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
+- name: Swamp
+  weight: 1.0
+  avg_copies: 1.0
 - name: Force of Vigor
-  weight: 0.977
+  weight: 0.9773
   avg_copies: 1.85
 - name: Windswept Heath
-  weight: 0.9655
-  avg_copies: 3.04
+  weight: 0.9659
+  avg_copies: 3.01
 - name: Vexing Bauble
-  weight: 0.954
-  avg_copies: 1.37
+  weight: 0.9545
+  avg_copies: 1.36
 - name: Endurance
-  weight: 0.954
+  weight: 0.9545
   avg_copies: 1.04
 - name: Strangleroot Geist
-  weight: 0.954
+  weight: 0.9545
   avg_copies: 1.0
 - name: Soulless Jailer
-  weight: 0.9195
+  weight: 0.9205
   avg_copies: 1.0
 - name: Dredger's Insight
-  weight: 0.8966
-  avg_copies: 1.88
+  weight: 0.8977
+  avg_copies: 1.89
 - name: Fulminator Mage
-  weight: 0.8851
+  weight: 0.8864
   avg_copies: 1.4
 - name: Ouroboroid
-  weight: 0.6552
+  weight: 0.6591
   avg_copies: 1.0
 - name: Virulent Emissary
-  weight: 0.6322
+  weight: 0.625
   avg_copies: 1.0
 - name: Chord of Calling
-  weight: 0.6092
+  weight: 0.6023
   avg_copies: 1.83
 - name: Outland Liberator
-  weight: 0.5862
+  weight: 0.5795
   avg_copies: 1.0
 - name: Orcish Bowmasters
-  weight: 0.5402
+  weight: 0.5341
   avg_copies: 1.65
 - name: Culling Ritual
-  weight: 0.5057
+  weight: 0.5114
   avg_copies: 1.02
 - name: Ashiok, Dream Render
-  weight: 0.4023
+  weight: 0.4091
   avg_copies: 1.11
-- name: Sephiroth, Fabled SOLDIER
-  weight: 0.2644
-  avg_copies: 1.0
 - name: Ignoble Hierarch
-  weight: 0.2529
-  avg_copies: 1.18
+  weight: 0.2614
+  avg_copies: 1.17
+- name: Sephiroth, Fabled SOLDIER
+  weight: 0.2614
+  avg_copies: 1.0
 - name: Pile On
-  weight: 0.2414
+  weight: 0.2386
   avg_copies: 1.0
 - name: Wooded Foothills
-  weight: 0.2299
+  weight: 0.2273
   avg_copies: 1.45
 - name: Scavenging Ooze
-  weight: 0.2299
+  weight: 0.2273
   avg_copies: 1.0
 - name: Misty Rainforest
-  weight: 0.1954
+  weight: 0.1932
   avg_copies: 1.47
 - name: Haywire Mite
-  weight: 0.1839
+  weight: 0.1818
   avg_copies: 1.0
 - name: Damping Sphere
-  weight: 0.1724
+  weight: 0.1705
   avg_copies: 1.07
 - name: Murderous Cut
-  weight: 0.1264
+  weight: 0.1364
   avg_copies: 1.0
 - name: Kraul Harpooner
-  weight: 0.1149
+  weight: 0.1136
   avg_copies: 1.0
 - name: Witherbloom Charm
-  weight: 0.092
-  avg_copies: 1.09
+  weight: 0.1023
+  avg_copies: 1.08
 - name: Essence Warden
-  weight: 0.0805
+  weight: 0.0795
   avg_copies: 1.0
 - name: Chalice of the Void
-  weight: 0.0575
+  weight: 0.0568
   avg_copies: 2.4
 - name: Hapatra, Vizier of Poisons
-  weight: 0.0575
+  weight: 0.0568
   avg_copies: 1.0
 - name: card:guerrilla-gorilla
-  weight: 0.046
+  weight: 0.0455
   avg_copies: 1.0
 - name: Shifting Woodland
-  weight: 0.0345
+  weight: 0.0341
   avg_copies: 1.33
 - name: Crime
-  weight: 0.0345
-  avg_copies: 1.0
-- name: card:mole-man-moloid-master
-  weight: 0.023
+  weight: 0.0341
   avg_copies: 1.0
 - name: Assassin's Trophy
-  weight: 0.023
+  weight: 0.0227
   avg_copies: 1.0
-- name: Ghost Quarter
-  weight: 0.023
+- name: card:mole-man-moloid-master
+  weight: 0.0227
   avg_copies: 1.0
 - name: Icetill Explorer
-  weight: 0.023
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Ghost Quarter
+  weight: 0.0227
   avg_copies: 1.0
 - name: Cankerbloom
-  weight: 0.023
+  weight: 0.0227
   avg_copies: 1.0
-- name: Tourach, Dread Cantor
-  weight: 0.0115
-  avg_copies: 2.0
 - name: card:wastewood-verge
-  weight: 0.0115
+  weight: 0.0114
   avg_copies: 2.0
-- name: Collector Ouphe
-  weight: 0.0115
-  avg_copies: 1.0
-- name: Chomping Changeling
-  weight: 0.0115
-  avg_copies: 1.0
-- name: Nurturing Peatland
-  weight: 0.0115
-  avg_copies: 1.0
+- name: Tourach, Dread Cantor
+  weight: 0.0114
+  avg_copies: 2.0
 - name: Creeping Corrosion
-  weight: 0.0115
+  weight: 0.0114
   avg_copies: 1.0
-- name: Vicious Rivalry
-  weight: 0.0115
+- name: Collector Ouphe
+  weight: 0.0114
   avg_copies: 1.0
 - name: Sylvan Safekeeper
-  weight: 0.0115
-  avg_copies: 1.0
-- name: Spore Frog
-  weight: 0.0115
+  weight: 0.0114
   avg_copies: 1.0
 - name: Fade from History
-  weight: 0.0115
+  weight: 0.0114
+  avg_copies: 1.0
+- name: Chomping Changeling
+  weight: 0.0114
+  avg_copies: 1.0
+- name: Spore Frog
+  weight: 0.0114
+  avg_copies: 1.0
+- name: Nurturing Peatland
+  weight: 0.0114
   avg_copies: 1.0
 - name: Surgical Extraction
-  weight: 0.0115
+  weight: 0.0114
   avg_copies: 1.0
 - name: Disciple of Freyalise
-  weight: 0.0115
+  weight: 0.0114
+  avg_copies: 1.0
+- name: Vicious Rivalry
+  weight: 0.0114
   avg_copies: 1.0
 ---

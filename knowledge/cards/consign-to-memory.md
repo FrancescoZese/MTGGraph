@@ -7,10 +7,10 @@ name: Consign to Memory
 scryfall_id: bc95af55-d1dd-4fe6-adb0-3ad6db20d986
 set: mh3
 type: Instant
-meta_presence: 0.464
+meta_presence: 0.4641
 archetypes:
   ruby-storm:
-    weight: 0.0047
+    weight: 0.0046
     avg_copies: 2.0
   boros-energy:
     weight: 0.0014
@@ -26,7 +26,7 @@ archetypes:
     avg_copies: 3.79
   goryo:
     weight: 0.9934
-    avg_copies: 2.92
+    avg_copies: 2.93
   necrodominance:
     weight: 0.0465
     avg_copies: 3.5
@@ -37,10 +37,10 @@ archetypes:
     weight: 1.0
     avg_copies: 3.24
   affinity:
-    weight: 0.9476
+    weight: 0.9477
     avg_copies: 2.54
   domain-zoo:
-    weight: 0.9291
+    weight: 0.9297
     avg_copies: 2.04
   mill:
     weight: 0.7576
@@ -49,11 +49,11 @@ archetypes:
     weight: 0.8519
     avg_copies: 2.87
   neoform-combo:
-    weight: 0.96
+    weight: 0.9605
     avg_copies: 3.71
   mono-blue-tron:
     weight: 1.0
-    avg_copies: 3.16
+    avg_copies: 3.07
   hammer-time:
     weight: 0.8462
     avg_copies: 2.55
@@ -64,17 +64,17 @@ archetypes:
     weight: 0.0565
     avg_copies: 2.43
   simic-ritual:
-    weight: 0.8193
+    weight: 0.8095
     avg_copies: 2.94
   izzet-prowess:
-    weight: 0.9762
-    avg_copies: 3.33
+    weight: 0.9764
+    avg_copies: 3.34
   4c-omnath:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.9029
-    avg_copies: 2.41
+    weight: 0.9048
+    avg_copies: 2.42
   indomitable-creativity:
     weight: 0.8
     avg_copies: 3.75
@@ -85,8 +85,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   azorius-blink:
-    weight: 0.9683
-    avg_copies: 2.05
+    weight: 0.9688
+    avg_copies: 2.04
   izzet-artifacts:
     weight: 0.9375
     avg_copies: 2.73
@@ -389,7 +389,7 @@ archetypes:
     avg_copies: 4.0
   unknown-167:
     weight: 1.0
-    avg_copies: 3.6
+    avg_copies: 3.5
   unknown-169:
     weight: 1.0
     avg_copies: 4.0
@@ -452,7 +452,7 @@ archetypes:
     avg_copies: 4.0
   unknown-207:
     weight: 1.0
-    avg_copies: 3.83
+    avg_copies: 3.44
   unknown-208:
     weight: 1.0
     avg_copies: 3.0

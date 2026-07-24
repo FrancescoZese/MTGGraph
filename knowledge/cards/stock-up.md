@@ -22,7 +22,7 @@ archetypes:
     weight: 0.4231
     avg_copies: 2.04
   goryo:
-    weight: 0.01
+    weight: 0.0099
     avg_copies: 1.0
   azorius-control:
     weight: 0.2892
@@ -31,8 +31,8 @@ archetypes:
     weight: 0.2653
     avg_copies: 1.69
   mono-blue-tron:
-    weight: 0.9524
-    avg_copies: 3.8
+    weight: 0.9545
+    avg_copies: 3.81
   4c-omnath:
     weight: 0.25
     avg_copies: 2.0

@@ -15,13 +15,13 @@ archetypes:
     weight: 0.7785
     avg_copies: 1.08
   goryo:
-    weight: 0.9867
+    weight: 0.9868
     avg_copies: 1.01
   necrodominance:
     weight: 1.0
     avg_copies: 9.47
   living-end:
-    weight: 0.4853
+    weight: 0.4928
     avg_copies: 1.0
   mill:
     weight: 0.8182
@@ -39,10 +39,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0241
+    weight: 0.0238
     avg_copies: 1.0
   esper-blink:
-    weight: 0.9806
+    weight: 0.981
     avg_copies: 1.02
   samwise-combo:
     weight: 0.1452
@@ -51,11 +51,11 @@ archetypes:
     weight: 0.0667
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.008
+    weight: 0.0119
     avg_copies: 1.0
   orzhov-blink:
     weight: 1.0
-    avg_copies: 1.3
+    avg_copies: 1.27
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
@@ -72,7 +72,7 @@ archetypes:
     weight: 0.9474
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.9714
+    weight: 0.9444
     avg_copies: 1.0
   esper-midrange:
     weight: 1.0

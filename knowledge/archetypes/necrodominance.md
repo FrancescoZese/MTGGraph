@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: Necrodominance
-meta_share: 0.0074
+meta_share: 0.0073
 list_count: 43
 top_cards:
 - name: Swamp
@@ -18,10 +18,10 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.7
-- name: Sheoldred, the Apocalypse
+- name: Castle Locthwain
   weight: 0.9767
   avg_copies: 3.17
-- name: Castle Locthwain
+- name: Sheoldred, the Apocalypse
   weight: 0.9767
   avg_copies: 3.17
 - name: Soul Spike
@@ -81,10 +81,10 @@ top_cards:
 - name: Polluted Delta
   weight: 0.2558
   avg_copies: 1.73
-- name: Wrench Mind
+- name: Sorin of House Markov
   weight: 0.2326
   avg_copies: 2.0
-- name: Sorin of House Markov
+- name: Wrench Mind
   weight: 0.2326
   avg_copies: 2.0
 - name: Illness in the Ranks
@@ -123,10 +123,10 @@ top_cards:
 - name: Undercity Sewers
   weight: 0.1163
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Underground Mortuary
   weight: 0.093
   avg_copies: 1.0
-- name: Underground Mortuary
+- name: Raucous Theater
   weight: 0.093
   avg_copies: 1.0
 - name: Sign in Blood
@@ -144,46 +144,46 @@ top_cards:
 - name: Gonti's Machinations
   weight: 0.0465
   avg_copies: 4.0
-- name: Sorin, Imperious Bloodlord
-  weight: 0.0465
-  avg_copies: 4.0
 - name: Vein Ripper
   weight: 0.0465
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 0.0465
   avg_copies: 4.0
-- name: Consign to Memory
+- name: Sorin, Imperious Bloodlord
+  weight: 0.0465
+  avg_copies: 4.0
+- name: Watery Grave
   weight: 0.0465
   avg_copies: 3.5
-- name: Watery Grave
+- name: Consign to Memory
   weight: 0.0465
   avg_copies: 3.5
 - name: card:baron-helmut-zemo
   weight: 0.0465
   avg_copies: 3.0
-- name: Long Goodbye
-  weight: 0.0465
-  avg_copies: 2.0
 - name: card:trespasser-s-curse
   weight: 0.0465
   avg_copies: 2.0
 - name: Agadeem's Awakening
   weight: 0.0465
   avg_copies: 2.0
-- name: The Filigree Sylex
+- name: Long Goodbye
   weight: 0.0465
-  avg_copies: 1.5
+  avg_copies: 2.0
 - name: Toxic Deluge
   weight: 0.0465
   avg_copies: 1.5
-- name: Shizo, Death's Storehouse
+- name: The Filigree Sylex
   weight: 0.0465
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Slaughter Pact
   weight: 0.0465
   avg_copies: 1.0
 - name: Legion's End
+  weight: 0.0465
+  avg_copies: 1.0
+- name: Shizo, Death's Storehouse
   weight: 0.0465
   avg_copies: 1.0
 - name: Iridescent Vinelasher
@@ -195,67 +195,67 @@ top_cards:
 - name: Quantum Riddler
   weight: 0.0233
   avg_copies: 3.0
-- name: Hurkyl's Recall
-  weight: 0.0233
-  avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 0.0233
-  avg_copies: 2.0
-- name: Culling Ritual
+- name: Mai, Scornful Striker
   weight: 0.0233
   avg_copies: 2.0
 - name: Phyrexian Crusader
   weight: 0.0233
   avg_copies: 2.0
-- name: Overgrown Tomb
+- name: Vexing Bauble
+  weight: 0.0233
+  avg_copies: 2.0
+- name: Hurkyl's Recall
   weight: 0.0233
   avg_copies: 2.0
 - name: End of the Hunt
   weight: 0.0233
   avg_copies: 2.0
-- name: Pillage the Bog
+- name: Culling Ritual
   weight: 0.0233
   avg_copies: 2.0
 - name: Witherbloom Command
   weight: 0.0233
   avg_copies: 2.0
-- name: Mai, Scornful Striker
+- name: Overgrown Tomb
   weight: 0.0233
   avg_copies: 2.0
-- name: Pithing Needle
+- name: Pillage the Bog
   weight: 0.0233
-  avg_copies: 1.0
-- name: card:hagra-mauling
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Revitalizing Repast
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Nurturing Peatland
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Stone of Erech
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Grafdigger's Cage
-  weight: 0.0233
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Kaito, Bane of Nightmares
   weight: 0.0233
   avg_copies: 1.0
 - name: Path of Peril
   weight: 0.0233
   avg_copies: 1.0
-- name: Blood Crypt
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Cling to Dust
+- name: Ratchet Bomb
   weight: 0.0233
   avg_copies: 1.0
 - name: Pick Your Poison
   weight: 0.0233
   avg_copies: 1.0
-- name: Ratchet Bomb
+- name: Blood Crypt
+  weight: 0.0233
+  avg_copies: 1.0
+- name: Stone of Erech
+  weight: 0.0233
+  avg_copies: 1.0
+- name: Cling to Dust
+  weight: 0.0233
+  avg_copies: 1.0
+- name: Pithing Needle
+  weight: 0.0233
+  avg_copies: 1.0
+- name: Revitalizing Repast
+  weight: 0.0233
+  avg_copies: 1.0
+- name: card:hagra-mauling
+  weight: 0.0233
+  avg_copies: 1.0
+- name: Grafdigger's Cage
+  weight: 0.0233
+  avg_copies: 1.0
+- name: Nurturing Peatland
   weight: 0.0233
   avg_copies: 1.0
 ---

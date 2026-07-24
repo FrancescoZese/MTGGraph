@@ -5,13 +5,13 @@ colors:
 - R
 - G
 name: Dredge
-meta_share: 0.0045
+meta_share: 0.0044
 list_count: 26
 top_cards:
-- name: Creeping Chill
+- name: Stinkweed Imp
   weight: 1.0
   avg_copies: 4.0
-- name: Stinkweed Imp
+- name: Creeping Chill
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
@@ -32,13 +32,13 @@ top_cards:
 - name: Steam Vents
   weight: 0.9615
   avg_copies: 1.92
-- name: Arclight Phoenix
-  weight: 0.9231
-  avg_copies: 4.0
 - name: Lava Dart
   weight: 0.9231
   avg_copies: 4.0
 - name: Life from the Loam
+  weight: 0.9231
+  avg_copies: 4.0
+- name: Arclight Phoenix
   weight: 0.9231
   avg_copies: 4.0
 - name: Artist's Talent
@@ -86,10 +86,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.6923
   avg_copies: 3.22
-- name: Surgical Extraction
+- name: Pick Your Poison
   weight: 0.3846
   avg_copies: 2.0
-- name: Pick Your Poison
+- name: Surgical Extraction
   weight: 0.3846
   avg_copies: 2.0
 - name: Commercial District
@@ -113,10 +113,10 @@ top_cards:
 - name: Ray of Revelation
   weight: 0.1538
   avg_copies: 1.75
-- name: Consign to Memory
+- name: Ox of Agonas
   weight: 0.0769
   avg_copies: 3.5
-- name: Ox of Agonas
+- name: Consign to Memory
   weight: 0.0769
   avg_copies: 3.5
 - name: Unholy Heat
@@ -128,19 +128,16 @@ top_cards:
 - name: Spell Pierce
   weight: 0.0769
   avg_copies: 1.5
-- name: Natural State
-  weight: 0.0769
-  avg_copies: 1.0
 - name: Wonder
   weight: 0.0769
   avg_copies: 1.0
-- name: Blazing Rootwalla
-  weight: 0.0385
-  avg_copies: 4.0
-- name: Manamorphose
-  weight: 0.0385
-  avg_copies: 4.0
+- name: Natural State
+  weight: 0.0769
+  avg_copies: 1.0
 - name: Stitcher's Supplier
+  weight: 0.0385
+  avg_copies: 4.0
+- name: Blazing Rootwalla
   weight: 0.0385
   avg_copies: 4.0
 - name: Vengevine
@@ -152,34 +149,37 @@ top_cards:
 - name: Hedron Crab
   weight: 0.0385
   avg_copies: 4.0
-- name: Gemstone Caverns
+- name: Manamorphose
+  weight: 0.0385
+  avg_copies: 4.0
+- name: Silversmote Ghoul
   weight: 0.0385
   avg_copies: 3.0
 - name: Snow-Covered Mountain
   weight: 0.0385
   avg_copies: 3.0
-- name: Narcomoeba
-  weight: 0.0385
-  avg_copies: 3.0
-- name: Silversmote Ghoul
-  weight: 0.0385
-  avg_copies: 3.0
 - name: Darkblast
+  weight: 0.0385
+  avg_copies: 3.0
+- name: Gemstone Caverns
+  weight: 0.0385
+  avg_copies: 3.0
+- name: Narcomoeba
   weight: 0.0385
   avg_copies: 3.0
 - name: Seal of Fire
   weight: 0.0385
   avg_copies: 3.0
-- name: Fire Magic
+- name: Leyline of the Void
   weight: 0.0385
   avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.0385
   avg_copies: 2.0
-- name: Timeline Culler
+- name: Fire Magic
   weight: 0.0385
   avg_copies: 2.0
-- name: Leyline of the Void
+- name: Timeline Culler
   weight: 0.0385
   avg_copies: 2.0
 - name: Into the Flood Maw
@@ -188,10 +188,19 @@ top_cards:
 - name: Molten Collapse
   weight: 0.0385
   avg_copies: 2.0
+- name: Detective's Phoenix
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Rough
+  weight: 0.0385
+  avg_copies: 1.0
 - name: Cephalid Coliseum
   weight: 0.0385
   avg_copies: 1.0
-- name: Illness in the Ranks
+- name: Watery Grave
   weight: 0.0385
   avg_copies: 1.0
 - name: Tormod's Crypt
@@ -200,16 +209,7 @@ top_cards:
 - name: Shenanigans
   weight: 0.0385
   avg_copies: 1.0
-- name: Watery Grave
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Rough
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Ashiok, Dream Render
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Detective's Phoenix
+- name: Illness in the Ranks
   weight: 0.0385
   avg_copies: 1.0
 ---

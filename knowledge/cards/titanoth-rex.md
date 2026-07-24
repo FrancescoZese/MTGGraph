@@ -10,6 +10,6 @@ type: Creature — Dinosaur Beast
 meta_presence: 0.0005
 archetypes:
   living-end:
-    weight: 0.0441
+    weight: 0.0435
     avg_copies: 1.33
 ---

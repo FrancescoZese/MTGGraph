@@ -10,7 +10,7 @@ type: Sorcery — Lesson
 meta_presence: 0.0058
 archetypes:
   domain-zoo:
-    weight: 0.0079
+    weight: 0.0078
     avg_copies: 1.0
   reanimator:
     weight: 0.037

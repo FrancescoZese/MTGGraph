@@ -7,7 +7,7 @@ name: End of the Hunt
 scryfall_id: 0809b51a-6a05-4f18-9bf4-1b8382da648f
 set: sos
 type: Sorcery
-meta_presence: 0.0098
+meta_presence: 0.0097
 archetypes:
   dimir-control:
     weight: 0.0123
@@ -19,13 +19,13 @@ archetypes:
     weight: 0.0233
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0136
+    weight: 0.0135
     avg_copies: 1.0
   esper-blink:
-    weight: 0.165
+    weight: 0.1619
     avg_copies: 1.12
   orzhov-blink:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 2.0
   jund-saga:
     weight: 0.5

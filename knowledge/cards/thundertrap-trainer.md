@@ -19,10 +19,10 @@ archetypes:
     weight: 0.0612
     avg_copies: 3.0
   neoform-combo:
-    weight: 0.1067
+    weight: 0.1053
     avg_copies: 2.25
   simic-ritual:
-    weight: 0.012
+    weight: 0.0119
     avg_copies: 2.0
   izzet-wizards:
     weight: 0.1667

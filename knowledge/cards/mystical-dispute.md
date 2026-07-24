@@ -7,7 +7,7 @@ name: Mystical Dispute
 scryfall_id: fbe04cb8-a8b9-4241-baae-b398a2509a3a
 set: eld
 type: Instant
-meta_presence: 0.3978
+meta_presence: 0.3982
 archetypes:
   dimir-control:
     weight: 1.0
@@ -19,7 +19,7 @@ archetypes:
     weight: 0.985
     avg_copies: 2.41
   goryo:
-    weight: 0.9867
+    weight: 0.9868
     avg_copies: 2.69
   necrodominance:
     weight: 0.0233
@@ -28,16 +28,16 @@ archetypes:
     weight: 1.0
     avg_copies: 2.99
   living-end:
-    weight: 0.9853
+    weight: 0.9855
     avg_copies: 3.31
   jeskai-control:
     weight: 1.0
     avg_copies: 2.88
   affinity:
-    weight: 0.7238
+    weight: 0.7223
     avg_copies: 1.44
   domain-zoo:
-    weight: 0.9606
+    weight: 0.9609
     avg_copies: 2.68
   mill:
     weight: 0.2121
@@ -46,25 +46,25 @@ archetypes:
     weight: 0.7407
     avg_copies: 2.1
   neoform-combo:
-    weight: 0.9333
-    avg_copies: 3.4
+    weight: 0.9342
+    avg_copies: 3.41
   mono-blue-tron:
-    weight: 0.5238
-    avg_copies: 2.27
+    weight: 0.5455
+    avg_copies: 2.33
   hammer-time:
     weight: 0.4615
     avg_copies: 1.83
   simic-ritual:
-    weight: 0.9759
-    avg_copies: 2.98
+    weight: 0.9762
+    avg_copies: 2.99
   izzet-prowess:
-    weight: 0.2449
+    weight: 0.2432
     avg_copies: 1.49
   4c-omnath:
     weight: 1.0
     avg_copies: 2.25
   esper-blink:
-    weight: 0.7767
+    weight: 0.781
     avg_copies: 1.95
   indomitable-creativity:
     weight: 0.4
@@ -73,8 +73,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   azorius-blink:
-    weight: 0.7937
-    avg_copies: 2.28
+    weight: 0.7969
+    avg_copies: 2.29
   izzet-artifacts:
     weight: 0.25
     avg_copies: 1.5
@@ -127,7 +127,7 @@ archetypes:
     weight: 0.6
     avg_copies: 2.0
   unknown-6:
-    weight: 0.2222
+    weight: 0.3
     avg_copies: 2.0
   unknown-9:
     weight: 0.6667
@@ -182,7 +182,7 @@ archetypes:
     avg_copies: 2.77
   unknown-67:
     weight: 1.0
-    avg_copies: 3.3
+    avg_copies: 3.31
   unknown-70:
     weight: 0.7778
     avg_copies: 3.29
@@ -313,8 +313,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-167:
-    weight: 0.8
-    avg_copies: 1.25
+    weight: 0.8333
+    avg_copies: 1.2
   unknown-169:
     weight: 1.0
     avg_copies: 3.0
@@ -356,7 +356,7 @@ archetypes:
     avg_copies: 2.0
   unknown-207:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.12
   unknown-208:
     weight: 1.0
     avg_copies: 3.0

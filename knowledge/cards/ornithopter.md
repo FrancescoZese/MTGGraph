@@ -9,7 +9,7 @@ type: Artifact Creature — Thopter
 meta_presence: 0.0034
 archetypes:
   affinity:
-    weight: 0.0081
+    weight: 0.008
     avg_copies: 1.5
   hammer-time:
     weight: 0.8462

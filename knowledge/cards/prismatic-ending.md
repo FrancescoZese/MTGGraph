@@ -7,14 +7,14 @@ name: Prismatic Ending
 scryfall_id: 825969b9-3c70-4fca-8cab-696e9ca7cdb2
 set: mh2
 type: Sorcery
-meta_presence: 0.1719
+meta_presence: 0.1723
 archetypes:
   ruby-storm:
-    weight: 0.9209
-    avg_copies: 3.22
+    weight: 0.9213
+    avg_copies: 3.21
   boros-energy:
-    weight: 0.0475
-    avg_copies: 1.14
+    weight: 0.0487
+    avg_copies: 1.13
   dimir-control:
     weight: 0.037
     avg_copies: 1.0
@@ -25,8 +25,8 @@ archetypes:
     weight: 0.0035
     avg_copies: 2.0
   goryo:
-    weight: 0.9867
-    avg_copies: 2.22
+    weight: 0.9868
+    avg_copies: 2.23
   azorius-control:
     weight: 1.0
     avg_copies: 3.28
@@ -34,7 +34,7 @@ archetypes:
     weight: 0.9592
     avg_copies: 2.06
   domain-zoo:
-    weight: 0.0315
+    weight: 0.0312
     avg_copies: 1.4
   reanimator:
     weight: 0.037
@@ -49,26 +49,26 @@ archetypes:
     weight: 0.0071
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0102
+    weight: 0.0101
     avg_copies: 2.0
   4c-omnath:
     weight: 0.25
     avg_copies: 4.0
   esper-blink:
-    weight: 0.835
-    avg_copies: 1.3
+    weight: 0.8381
+    avg_copies: 1.31
   indomitable-creativity:
     weight: 0.8
     avg_copies: 2.33
   orzhov-blink:
-    weight: 0.3
+    weight: 0.2727
     avg_copies: 2.0
   bant-control:
     weight: 1.0
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.3016
-    avg_copies: 2.3
+    weight: 0.3125
+    avg_copies: 2.33
   esper-control:
     weight: 1.0
     avg_copies: 3.0
@@ -148,7 +148,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.8
   unknown-96:
-    weight: 0.0556
+    weight: 0.05
     avg_copies: 2.0
   unknown-89:
     weight: 1.0

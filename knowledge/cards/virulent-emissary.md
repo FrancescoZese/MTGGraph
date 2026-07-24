@@ -10,6 +10,6 @@ type: Creature — Elf Assassin
 meta_presence: 0.0094
 archetypes:
   yawgmoth-combo:
-    weight: 0.6322
+    weight: 0.625
     avg_copies: 1.0
 ---

@@ -5,19 +5,19 @@ name: Hardened Scales
 meta_share: 0.0007
 list_count: 4
 top_cards:
-- name: Hardened Scales
+- name: Arcbound Ravager
   weight: 1.0
   avg_copies: 4.0
 - name: Inkmoth Nexus
   weight: 1.0
   avg_copies: 4.0
-- name: Walking Ballista
-  weight: 1.0
-  avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
-- name: Arcbound Ravager
+- name: Walking Ballista
+  weight: 1.0
+  avg_copies: 4.0
+- name: Hardened Scales
   weight: 1.0
   avg_copies: 4.0
 - name: Zabaz, the Glimmerwasp
@@ -35,22 +35,22 @@ top_cards:
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 3.0
-- name: Whipflare
+- name: Forest
   weight: 1.0
   avg_copies: 2.25
-- name: Forest
+- name: Whipflare
   weight: 1.0
   avg_copies: 2.25
 - name: Arcbound Worker
   weight: 1.0
   avg_copies: 2.0
-- name: Dismember
-  weight: 1.0
-  avg_copies: 1.75
 - name: Welding Jar
   weight: 1.0
   avg_copies: 1.75
 - name: Boseiju, Who Endures
+  weight: 1.0
+  avg_copies: 1.75
+- name: Dismember
   weight: 1.0
   avg_copies: 1.75
 - name: Nature's Claim
@@ -80,10 +80,10 @@ top_cards:
 - name: Pithing Needle
   weight: 0.75
   avg_copies: 1.0
-- name: Veil of Summer
+- name: Pendelhaven
   weight: 0.75
   avg_copies: 1.0
-- name: Pendelhaven
+- name: Veil of Summer
   weight: 0.75
   avg_copies: 1.0
 - name: Strength of Will
@@ -98,22 +98,22 @@ top_cards:
 - name: Heroic Intervention
   weight: 0.5
   avg_copies: 1.5
-- name: Tormod's Crypt
+- name: Force of Vigor
   weight: 0.5
   avg_copies: 1.0
-- name: Force of Vigor
+- name: Tormod's Crypt
   weight: 0.5
   avg_copies: 1.0
 - name: Haywire Mite
   weight: 0.5
   avg_copies: 1.0
-- name: Marketback Walker
+- name: Karplusan Forest
   weight: 0.25
   avg_copies: 4.0
 - name: Metallic Mimic
   weight: 0.25
   avg_copies: 4.0
-- name: Karplusan Forest
+- name: Marketback Walker
   weight: 0.25
   avg_copies: 4.0
 - name: Ancient Stirrings
@@ -122,10 +122,10 @@ top_cards:
 - name: Skateboard
   weight: 0.25
   avg_copies: 1.0
-- name: Bridgeworks Battle
+- name: Scrapyard Recombiner
   weight: 0.25
   avg_copies: 1.0
-- name: Scrapyard Recombiner
+- name: Bridgeworks Battle
   weight: 0.25
   avg_copies: 1.0
 - name: Shadowspear

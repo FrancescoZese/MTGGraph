@@ -11,13 +11,13 @@ type: Creature — Elemental Shaman
 meta_presence: 0.0182
 archetypes:
   living-end:
-    weight: 0.0147
+    weight: 0.0145
     avg_copies: 2.0
   reanimator:
     weight: 0.1852
     avg_copies: 2.6
   yawgmoth-combo:
-    weight: 0.8851
+    weight: 0.8864
     avg_copies: 1.4
   goryo1:
     weight: 0.0252
@@ -29,7 +29,7 @@ archetypes:
     weight: 0.2963
     avg_copies: 1.0
   unknown-67:
-    weight: 0.0132
+    weight: 0.013
     avg_copies: 3.0
   unknown-68:
     weight: 0.1026

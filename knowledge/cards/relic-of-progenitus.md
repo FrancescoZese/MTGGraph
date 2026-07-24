@@ -27,7 +27,7 @@ archetypes:
     weight: 0.027
     avg_copies: 2.0
   mono-blue-tron:
-    weight: 0.1429
+    weight: 0.1364
     avg_copies: 2.2
   mono-red-belcher:
     weight: 0.0769
@@ -39,10 +39,10 @@ archetypes:
     weight: 0.0081
     avg_copies: 2.0
   esper-blink:
-    weight: 0.0194
+    weight: 0.019
     avg_copies: 2.33
   orzhov-blink:
-    weight: 0.6
+    weight: 0.5455
     avg_copies: 3.14
   bant-control:
     weight: 1.0
@@ -84,7 +84,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-96:
-    weight: 0.0556
+    weight: 0.05
     avg_copies: 2.0
   unknown-108:
     weight: 1.0
@@ -117,7 +117,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.33
   unknown-167:
-    weight: 0.4
+    weight: 0.5
     avg_copies: 1.0
   unknown-169:
     weight: 1.0

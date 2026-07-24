@@ -4,7 +4,7 @@ colors:
 - B
 - R
 name: 'Unknown #68'
-meta_share: 0.0067
+meta_share: 0.0066
 list_count: 39
 top_cards:
 - name: Guide of Souls
@@ -16,10 +16,10 @@ top_cards:
 - name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 3.85
-- name: Arid Mesa
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 3.74
-- name: Marsh Flats
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 3.74
 - name: Galvanic Discharge
@@ -160,51 +160,45 @@ top_cards:
 - name: Deafening Silence
   weight: 0.1026
   avg_copies: 1.75
-- name: Meltdown
+- name: Ghost Vacuum
   weight: 0.1026
   avg_copies: 1.0
-- name: Ghost Vacuum
+- name: Meltdown
   weight: 0.1026
   avg_copies: 1.0
 - name: Windswept Heath
   weight: 0.0769
   avg_copies: 2.67
-- name: Blood Moon
+- name: Witch Enchanter
   weight: 0.0769
   avg_copies: 2.0
-- name: Witch Enchanter
+- name: Blood Moon
   weight: 0.0769
   avg_copies: 2.0
 - name: Solitude
   weight: 0.0769
   avg_copies: 1.75
-- name: Containment Priest
+- name: Sanctifier en-Vec
   weight: 0.0513
   avg_copies: 1.0
 - name: Rest in Peace
   weight: 0.0513
   avg_copies: 1.0
-- name: Sanctifier en-Vec
-  weight: 0.0513
-  avg_copies: 1.0
 - name: Strategic Betrayal
   weight: 0.0513
   avg_copies: 1.0
-- name: Lingering Souls
+- name: Containment Priest
+  weight: 0.0513
+  avg_copies: 1.0
+- name: Duress
   weight: 0.0256
   avg_copies: 2.0
-- name: Duress
+- name: Lingering Souls
   weight: 0.0256
   avg_copies: 2.0
 - name: Path to Exile
   weight: 0.0256
   avg_copies: 2.0
-- name: Faerie Macabre
-  weight: 0.0256
-  avg_copies: 1.0
-- name: Sunbaked Canyon
-  weight: 0.0256
-  avg_copies: 1.0
 - name: Stony Silence
   weight: 0.0256
   avg_copies: 1.0
@@ -212,6 +206,12 @@ top_cards:
   weight: 0.0256
   avg_copies: 1.0
 - name: Static Prison
+  weight: 0.0256
+  avg_copies: 1.0
+- name: Sunbaked Canyon
+  weight: 0.0256
+  avg_copies: 1.0
+- name: Faerie Macabre
   weight: 0.0256
   avg_copies: 1.0
 ---

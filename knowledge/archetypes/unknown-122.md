@@ -6,19 +6,19 @@ name: 'Unknown #122'
 meta_share: 0.0043
 list_count: 25
 top_cards:
-- name: Preordain
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Cori-Steel Cutter
-  weight: 1.0
-  avg_copies: 4.0
-- name: Dragon's Rage Channeler
+- name: Preordain
   weight: 1.0
   avg_copies: 4.0
 - name: Lava Dart
+  weight: 1.0
+  avg_copies: 4.0
+- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Stormchaser's Talent
@@ -81,13 +81,13 @@ top_cards:
 - name: Experimental Synthesizer
   weight: 0.4
   avg_copies: 3.9
+- name: Stomping Ground
+  weight: 0.36
+  avg_copies: 1.0
 - name: Origin of Metalbending
   weight: 0.36
   avg_copies: 1.0
 - name: Surgical Extraction
-  weight: 0.36
-  avg_copies: 1.0
-- name: Stomping Ground
   weight: 0.36
   avg_copies: 1.0
 - name: Fiery Islet
@@ -111,10 +111,10 @@ top_cards:
 - name: Violent Urge
   weight: 0.16
   avg_copies: 1.6
-- name: Mystical Dispute
+- name: Chalice of the Void
   weight: 0.12
   avg_copies: 2.0
-- name: Chalice of the Void
+- name: Mystical Dispute
   weight: 0.12
   avg_copies: 2.0
 - name: Ragavan, Nimble Pilferer
@@ -129,10 +129,10 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.12
   avg_copies: 1.0
-- name: Octopus Form
+- name: Iroh's Demonstration
   weight: 0.12
   avg_copies: 1.0
-- name: Iroh's Demonstration
+- name: Octopus Form
   weight: 0.12
   avg_copies: 1.0
 - name: Price of Freedom
@@ -168,6 +168,12 @@ top_cards:
 - name: Fire Magic
   weight: 0.04
   avg_copies: 1.0
+- name: Hurkyl's Recall
+  weight: 0.04
+  avg_copies: 1.0
+- name: Accumulate Wisdom
+  weight: 0.04
+  avg_copies: 1.0
 - name: Spell Snare
   weight: 0.04
   avg_copies: 1.0
@@ -175,12 +181,6 @@ top_cards:
   weight: 0.04
   avg_copies: 1.0
 - name: Sacred Foundry
-  weight: 0.04
-  avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.04
-  avg_copies: 1.0
-- name: Accumulate Wisdom
   weight: 0.04
   avg_copies: 1.0
 ---

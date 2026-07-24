@@ -18,13 +18,13 @@ archetypes:
     weight: 0.2093
     avg_copies: 1.33
   living-end:
-    weight: 0.0882
+    weight: 0.087
     avg_copies: 2.0
   reanimator:
     weight: 0.037
     avg_copies: 4.0
   neoform-combo:
-    weight: 0.16
+    weight: 0.1579
     avg_copies: 1.5
   hollow-one:
     weight: 0.5
@@ -36,14 +36,14 @@ archetypes:
     weight: 0.75
     avg_copies: 1.05
   simic-ritual:
-    weight: 0.8554
+    weight: 0.8571
     avg_copies: 3.61
   samwise-combo:
     weight: 1.0
     avg_copies: 3.82
   broodscale-combo:
-    weight: 0.292
-    avg_copies: 1.11
+    weight: 0.2964
+    avg_copies: 1.12
   elves:
     weight: 1.0
     avg_copies: 1.0

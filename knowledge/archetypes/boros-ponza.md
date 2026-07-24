@@ -3,7 +3,7 @@ colors:
 - W
 - R
 name: Boros Ponza
-meta_share: 0.024
+meta_share: 0.0238
 list_count: 140
 top_cards:
 - name: Price of Freedom
@@ -108,13 +108,13 @@ top_cards:
 - name: Flashback
   weight: 0.1214
   avg_copies: 1.06
+- name: Liquimetal Coating
+  weight: 0.1214
+  avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 0.1214
   avg_copies: 1.0
 - name: Ensnaring Bridge
-  weight: 0.1214
-  avg_copies: 1.0
-- name: Liquimetal Coating
   weight: 0.1214
   avg_copies: 1.0
 - name: Clarion Conqueror
@@ -195,10 +195,10 @@ top_cards:
 - name: Archon of Emeria
   weight: 0.0286
   avg_copies: 1.5
-- name: Elspeth, Storm Slayer
+- name: Ghost Vacuum
   weight: 0.0286
   avg_copies: 1.0
-- name: Ghost Vacuum
+- name: Elspeth, Storm Slayer
   weight: 0.0286
   avg_copies: 1.0
 - name: Trinisphere
@@ -225,37 +225,43 @@ top_cards:
 - name: The Wandering Emperor
   weight: 0.0214
   avg_copies: 1.25
-- name: Emrakul, the Aeons Torn
-  weight: 0.0214
-  avg_copies: 1.0
 - name: Ephemerate
   weight: 0.0214
   avg_copies: 1.0
-- name: Boom
-  weight: 0.0143
-  avg_copies: 4.0
+- name: Emrakul, the Aeons Torn
+  weight: 0.0214
+  avg_copies: 1.0
 - name: Snow-Covered Plains
   weight: 0.0143
   avg_copies: 4.0
-- name: Rustvale Bridge
+- name: Boom
+  weight: 0.0143
+  avg_copies: 4.0
+- name: Sanctifier en-Vec
   weight: 0.0143
   avg_copies: 3.0
 - name: Deafening Silence
   weight: 0.0143
   avg_copies: 3.0
-- name: Sanctifier en-Vec
+- name: Rustvale Bridge
   weight: 0.0143
   avg_copies: 3.0
-- name: Fable of the Mirror-Breaker
+- name: Disruptor Flute
   weight: 0.0143
   avg_copies: 2.5
-- name: Disruptor Flute
+- name: Fable of the Mirror-Breaker
   weight: 0.0143
   avg_copies: 2.5
 - name: card:restless-bivouac
   weight: 0.0143
   avg_copies: 2.0
-- name: Elesh Norn, Mother of Machines
+- name: Leonin Arbiter
+  weight: 0.0143
+  avg_copies: 2.0
+- name: Day of Judgment
+  weight: 0.0143
+  avg_copies: 2.0
+- name: Calamity's Wake
   weight: 0.0143
   avg_copies: 2.0
 - name: Kor Firewalker
@@ -264,33 +270,24 @@ top_cards:
 - name: Pinnacle Monk
   weight: 0.0143
   avg_copies: 2.0
-- name: Sundering Eruption
-  weight: 0.0143
-  avg_copies: 2.0
-- name: Calamity's Wake
-  weight: 0.0143
-  avg_copies: 2.0
 - name: Witch Enchanter
   weight: 0.0143
   avg_copies: 2.0
-- name: Day of Judgment
+- name: Sundering Eruption
   weight: 0.0143
   avg_copies: 2.0
-- name: Leonin Arbiter
+- name: Elesh Norn, Mother of Machines
   weight: 0.0143
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Ajani Vengeant
   weight: 0.0143
   avg_copies: 1.5
-- name: Ajani Vengeant
+- name: Damping Sphere
   weight: 0.0143
   avg_copies: 1.5
 - name: card:avengers-disassembled
   weight: 0.0143
   avg_copies: 1.33
-- name: Arena of Glory
-  weight: 0.0143
-  avg_copies: 1.0
 - name: Ark of Hunger
   weight: 0.0143
   avg_copies: 1.0
@@ -300,79 +297,73 @@ top_cards:
 - name: Boil
   weight: 0.0143
   avg_copies: 1.0
+- name: Arena of Glory
+  weight: 0.0143
+  avg_copies: 1.0
 - name: Stormbreath Dragon
   weight: 0.0143
   avg_copies: 1.0
-- name: Lightning Helix
-  weight: 0.0071
-  avg_copies: 4.0
 - name: Leyline of Sanctity
   weight: 0.0071
   avg_copies: 4.0
-- name: Blood Moon
+- name: Lightning Helix
   weight: 0.0071
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Geomancer's Gambit
   weight: 0.0071
   avg_copies: 3.0
+- name: Blood Moon
+  weight: 0.0071
+  avg_copies: 3.0
+- name: Voice of Victory
+  weight: 0.0071
+  avg_copies: 2.0
 - name: Doomskar
-  weight: 0.0071
-  avg_copies: 2.0
-- name: Stony Silence
-  weight: 0.0071
-  avg_copies: 2.0
-- name: Prismatic Ending
-  weight: 0.0071
-  avg_copies: 2.0
-- name: Raze to the Ground
-  weight: 0.0071
-  avg_copies: 2.0
-- name: Talisman of Conviction
   weight: 0.0071
   avg_copies: 2.0
 - name: Settle the Wreckage
   weight: 0.0071
   avg_copies: 2.0
+- name: Stony Silence
+  weight: 0.0071
+  avg_copies: 2.0
+- name: Talisman of Conviction
+  weight: 0.0071
+  avg_copies: 2.0
 - name: Gideon, Ally of Zendikar
   weight: 0.0071
   avg_copies: 2.0
-- name: Stone Rain
+- name: Raze to the Ground
   weight: 0.0071
   avg_copies: 2.0
 - name: Quintorius Kand
   weight: 0.0071
   avg_copies: 2.0
-- name: Voice of Victory
+- name: Stone Rain
+  weight: 0.0071
+  avg_copies: 2.0
+- name: Prismatic Ending
   weight: 0.0071
   avg_copies: 2.0
 - name: Outlaws' Merriment
   weight: 0.0071
   avg_copies: 1.5
-- name: Elixir of Immortality
-  weight: 0.0071
-  avg_copies: 1.0
-- name: Windswept Heath
-  weight: 0.0071
-  avg_copies: 1.0
-- name: Walking Ballista
-  weight: 0.0071
-  avg_copies: 1.0
-- name: Purify the Grave
-  weight: 0.0071
-  avg_copies: 1.0
-- name: Elspeth, Sun's Nemesis
-  weight: 0.0071
-  avg_copies: 1.0
 - name: Chalice of the Void
+  weight: 0.0071
+  avg_copies: 1.0
+- name: card:reckoner-bankbuster
+  weight: 0.0071
+  avg_copies: 1.0
+- name: Suspend Aggression
+  weight: 0.0071
+  avg_copies: 1.0
+- name: Elixir of Immortality
   weight: 0.0071
   avg_copies: 1.0
 - name: card:the-mind-stone
   weight: 0.0071
   avg_copies: 1.0
-- name: Dead
-  weight: 0.0071
-  avg_copies: 1.0
-- name: Suspend Aggression
+- name: Walking Ballista
   weight: 0.0071
   avg_copies: 1.0
 - name: Kozilek, Butcher of Truth
@@ -381,16 +372,25 @@ top_cards:
 - name: Redirect Lightning
   weight: 0.0071
   avg_copies: 1.0
-- name: card:reckoner-bankbuster
+- name: Elspeth, Sun's Nemesis
   weight: 0.0071
   avg_copies: 1.0
 - name: The Restoration of Eiganjo
   weight: 0.0071
   avg_copies: 1.0
+- name: Dead
+  weight: 0.0071
+  avg_copies: 1.0
 - name: Forked Bolt
   weight: 0.0071
   avg_copies: 1.0
+- name: Windswept Heath
+  weight: 0.0071
+  avg_copies: 1.0
 - name: Rugged Prairie
+  weight: 0.0071
+  avg_copies: 1.0
+- name: Purify the Grave
   weight: 0.0071
   avg_copies: 1.0
 - name: Storm's Wrath

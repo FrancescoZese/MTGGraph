@@ -12,6 +12,6 @@ archetypes:
     weight: 0.0123
     avg_copies: 1.0
   living-end:
-    weight: 0.0147
+    weight: 0.0145
     avg_copies: 1.0
 ---

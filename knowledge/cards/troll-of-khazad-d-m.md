@@ -13,13 +13,13 @@ archetypes:
     weight: 0.0033
     avg_copies: 1.0
   living-end:
-    weight: 0.5882
-    avg_copies: 1.82
+    weight: 0.5942
+    avg_copies: 1.83
   reanimator:
     weight: 0.037
     avg_copies: 1.0
   orzhov-blink:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 2.0
   rakdos-aggro:
     weight: 0.0526

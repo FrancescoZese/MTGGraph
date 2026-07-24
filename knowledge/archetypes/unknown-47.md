@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: 'Unknown #47'
-meta_share: 0.0166
+meta_share: 0.0165
 list_count: 97
 top_cards:
 - name: Psychic Frog
@@ -141,10 +141,10 @@ top_cards:
 - name: The Meathook Massacre
   weight: 0.0722
   avg_copies: 1.14
-- name: Hallowed Fountain
+- name: Meticulous Archive
   weight: 0.0722
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Hallowed Fountain
   weight: 0.0722
   avg_copies: 1.0
 - name: Pest Control
@@ -180,13 +180,13 @@ top_cards:
 - name: Dress Down
   weight: 0.0309
   avg_copies: 1.2
-- name: Snow-Covered Swamp
-  weight: 0.0309
-  avg_copies: 1.0
 - name: Stony Silence
   weight: 0.0309
   avg_copies: 1.0
 - name: Spell Pierce
+  weight: 0.0309
+  avg_copies: 1.0
+- name: Snow-Covered Swamp
   weight: 0.0309
   avg_copies: 1.0
 - name: Break the Ice
@@ -195,10 +195,10 @@ top_cards:
 - name: card:the-wondrous-wasp
   weight: 0.0206
   avg_copies: 2.0
-- name: Thundering Falls
+- name: Umezawa's Jitte
   weight: 0.0206
   avg_copies: 1.0
-- name: Umezawa's Jitte
+- name: Thundering Falls
   weight: 0.0206
   avg_copies: 1.0
 - name: Steam Vents
@@ -207,22 +207,28 @@ top_cards:
 - name: Fire Magic
   weight: 0.0103
   avg_copies: 2.0
-- name: Void Mirror
-  weight: 0.0103
-  avg_copies: 2.0
 - name: Meltdown
   weight: 0.0103
   avg_copies: 2.0
-- name: High Noon
+- name: Void Mirror
+  weight: 0.0103
+  avg_copies: 2.0
+- name: Dreams of Steel and Oil
   weight: 0.0103
   avg_copies: 1.0
-- name: Snapcaster Mage
+- name: River of Tears
+  weight: 0.0103
+  avg_copies: 1.0
+- name: Fallen Shinobi
   weight: 0.0103
   avg_copies: 1.0
 - name: Murderous Cut
   weight: 0.0103
   avg_copies: 1.0
-- name: Dreams of Steel and Oil
+- name: High Noon
+  weight: 0.0103
+  avg_copies: 1.0
+- name: Snapcaster Mage
   weight: 0.0103
   avg_copies: 1.0
 - name: Strategic Betrayal
@@ -232,12 +238,6 @@ top_cards:
   weight: 0.0103
   avg_copies: 1.0
 - name: Celestial Purge
-  weight: 0.0103
-  avg_copies: 1.0
-- name: River of Tears
-  weight: 0.0103
-  avg_copies: 1.0
-- name: Fallen Shinobi
   weight: 0.0103
   avg_copies: 1.0
 ---

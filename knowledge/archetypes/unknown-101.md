@@ -6,7 +6,10 @@ name: 'Unknown #101'
 meta_share: 0.0012
 list_count: 7
 top_cards:
-- name: Nethergoyf
+- name: Detective's Phoenix
+  weight: 1.0
+  avg_copies: 4.0
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Hollow One
@@ -15,10 +18,7 @@ top_cards:
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Street Wraith
-  weight: 1.0
-  avg_copies: 4.0
-- name: Detective's Phoenix
+- name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
 - name: Blood Crypt
@@ -93,10 +93,10 @@ top_cards:
 - name: Dragon's Rage Channeler
   weight: 0.4286
   avg_copies: 2.67
-- name: Swamp
+- name: Inti, Seneschal of the Sun
   weight: 0.4286
   avg_copies: 1.0
-- name: Inti, Seneschal of the Sun
+- name: Swamp
   weight: 0.4286
   avg_copies: 1.0
 - name: Faerie Macabre
@@ -105,13 +105,13 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.2857
   avg_copies: 2.0
-- name: Pyroclasm
-  weight: 0.2857
-  avg_copies: 1.5
 - name: Nihil Spellbomb
   weight: 0.2857
   avg_copies: 1.5
 - name: Rough
+  weight: 0.2857
+  avg_copies: 1.5
+- name: Pyroclasm
   weight: 0.2857
   avg_copies: 1.5
 - name: Mishra's Bauble
@@ -120,12 +120,18 @@ top_cards:
 - name: Kroxa, Titan of Death's Hunger
   weight: 0.1429
   avg_copies: 3.0
-- name: Blood Moon
-  weight: 0.1429
-  avg_copies: 2.0
 - name: Wear
   weight: 0.1429
   avg_copies: 2.0
+- name: Blood Moon
+  weight: 0.1429
+  avg_copies: 2.0
+- name: Ox of Agonas
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Cool but Rude
+  weight: 0.1429
+  avg_copies: 1.0
 - name: Sheoldred's Edict
   weight: 0.1429
   avg_copies: 1.0
@@ -135,13 +141,7 @@ top_cards:
 - name: Sacred Foundry
   weight: 0.1429
   avg_copies: 1.0
-- name: Ox of Agonas
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Seal of Fire
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Cool but Rude
   weight: 0.1429
   avg_copies: 1.0
 ---

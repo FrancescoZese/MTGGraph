@@ -108,10 +108,10 @@ top_cards:
 - name: Memnite
   weight: 0.3077
   avg_copies: 3.25
-- name: Damping Sphere
+- name: Portable Hole
   weight: 0.3077
   avg_copies: 2.0
-- name: Portable Hole
+- name: Damping Sphere
   weight: 0.3077
   avg_copies: 2.0
 - name: Stern Scolding
@@ -132,19 +132,19 @@ top_cards:
 - name: Test of Talents
   weight: 0.1538
   avg_copies: 2.0
-- name: Detect Intrusion
+- name: Prismatic Ending
   weight: 0.1538
   avg_copies: 1.5
 - name: Sigarda's Aid
   weight: 0.1538
   avg_copies: 1.5
-- name: Prismatic Ending
+- name: Detect Intrusion
   weight: 0.1538
   avg_copies: 1.5
-- name: Kaldra Compleat
+- name: Voice of Victory
   weight: 0.1538
   avg_copies: 1.0
-- name: Voice of Victory
+- name: Kaldra Compleat
   weight: 0.1538
   avg_copies: 1.0
 - name: Mishra's Bauble
@@ -153,31 +153,31 @@ top_cards:
 - name: Flare of Fortitude
   weight: 0.0769
   avg_copies: 4.0
-- name: Containment Priest
+- name: Solitude
   weight: 0.0769
   avg_copies: 2.0
-- name: Solitude
+- name: Containment Priest
   weight: 0.0769
   avg_copies: 2.0
 - name: Erode
   weight: 0.0769
   avg_copies: 2.0
-- name: Spell Snare
+- name: Umezawa's Jitte
   weight: 0.0769
   avg_copies: 1.0
 - name: Skateboard
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Stubborn Denial
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Umezawa's Jitte
   weight: 0.0769
   avg_copies: 1.0
 - name: Forge Anew
   weight: 0.0769
   avg_copies: 1.0
 - name: Soul-Guide Lantern
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Stubborn Denial
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Spell Snare
   weight: 0.0769
   avg_copies: 1.0
 - name: card:spider-sense

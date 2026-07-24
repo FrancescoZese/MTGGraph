@@ -2,7 +2,7 @@
 colors:
 - G
 name: Amulet Titan
-meta_share: 0.0267
+meta_share: 0.0266
 list_count: 156
 top_cards:
 - name: Arboreal Grazer
@@ -41,10 +41,10 @@ top_cards:
 - name: Tolaria West
   weight: 1.0
   avg_copies: 1.01
-- name: Mirrorpool
+- name: Hanweir Battlements
   weight: 1.0
   avg_copies: 1.0
-- name: Hanweir Battlements
+- name: Mirrorpool
   weight: 1.0
   avg_copies: 1.0
 - name: Force of Vigor
@@ -128,10 +128,10 @@ top_cards:
 - name: Icetill Explorer
   weight: 0.2179
   avg_copies: 1.02
-- name: Elvish Reclaimer
+- name: Zuran Orb
   weight: 0.2179
   avg_copies: 1.0
-- name: Zuran Orb
+- name: Elvish Reclaimer
   weight: 0.2179
   avg_copies: 1.0
 - name: Firespout
@@ -188,9 +188,6 @@ top_cards:
 - name: Creeping Corrosion
   weight: 0.0256
   avg_copies: 1.0
-- name: card:mj-lnir-hammer-of-thor
-  weight: 0.0256
-  avg_copies: 1.0
 - name: Hedge Maze
   weight: 0.0256
   avg_copies: 1.0
@@ -200,10 +197,16 @@ top_cards:
 - name: Valakut, the Molten Pinnacle
   weight: 0.0256
   avg_copies: 1.0
+- name: card:mj-lnir-hammer-of-thor
+  weight: 0.0256
+  avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.0192
   avg_copies: 2.0
 - name: Kessig Wolf Run
+  weight: 0.0192
+  avg_copies: 1.0
+- name: Pyroclasm
   weight: 0.0192
   avg_copies: 1.0
 - name: Windswept Heath
@@ -212,19 +215,13 @@ top_cards:
 - name: Heritage Reclamation
   weight: 0.0192
   avg_copies: 1.0
-- name: Pyroclasm
-  weight: 0.0192
-  avg_copies: 1.0
 - name: card:lessons-from-life
   weight: 0.0128
   avg_copies: 3.5
 - name: Defense Grid
   weight: 0.0128
   avg_copies: 2.0
-- name: Ureni, the Song Unending
-  weight: 0.0128
-  avg_copies: 1.0
-- name: Hexdrinker
+- name: Northampton Farm
   weight: 0.0128
   avg_copies: 1.0
 - name: Ghost Quarter
@@ -233,13 +230,16 @@ top_cards:
 - name: card:lumra-bellow-of-the-woods
   weight: 0.0128
   avg_copies: 1.0
-- name: Northampton Farm
+- name: Emeritus of Abundance
   weight: 0.0128
   avg_copies: 1.0
 - name: Cavern of Souls
   weight: 0.0128
   avg_copies: 1.0
-- name: Emeritus of Abundance
+- name: Ureni, the Song Unending
+  weight: 0.0128
+  avg_copies: 1.0
+- name: Hexdrinker
   weight: 0.0128
   avg_copies: 1.0
 - name: card:mind-into-matter
@@ -251,52 +251,52 @@ top_cards:
 - name: Botanical Sanctum
   weight: 0.0064
   avg_copies: 2.0
-- name: Snow-Covered Forest
-  weight: 0.0064
-  avg_copies: 2.0
 - name: Sheoldred's Edict
   weight: 0.0064
   avg_copies: 2.0
+- name: Snow-Covered Forest
+  weight: 0.0064
+  avg_copies: 2.0
+- name: Misty Rainforest
+  weight: 0.0064
+  avg_copies: 1.0
+- name: Titania, Protector of Argoth
+  weight: 0.0064
+  avg_copies: 1.0
+- name: Waterlogged Grove
+  weight: 0.0064
+  avg_copies: 1.0
+- name: Carnage Tyrant
+  weight: 0.0064
+  avg_copies: 1.0
+- name: Fade from History
+  weight: 0.0064
+  avg_copies: 1.0
 - name: Lithomantic Barrage
   weight: 0.0064
   avg_copies: 1.0
-- name: Misty Rainforest
+- name: card:gretchen-titchwillow
+  weight: 0.0064
+  avg_copies: 1.0
+- name: card:sakura-tribe-scout
+  weight: 0.0064
+  avg_copies: 1.0
+- name: Turn the Earth
+  weight: 0.0064
+  avg_copies: 1.0
+- name: Sakura-Tribe Elder
+  weight: 0.0064
+  avg_copies: 1.0
+- name: Dosan the Falling Leaf
+  weight: 0.0064
+  avg_copies: 1.0
+- name: Tormod's Crypt
   weight: 0.0064
   avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.0064
   avg_copies: 1.0
 - name: Formidable Speaker
-  weight: 0.0064
-  avg_copies: 1.0
-- name: Dosan the Falling Leaf
-  weight: 0.0064
-  avg_copies: 1.0
-- name: Sakura-Tribe Elder
-  weight: 0.0064
-  avg_copies: 1.0
-- name: Carnage Tyrant
-  weight: 0.0064
-  avg_copies: 1.0
-- name: Tormod's Crypt
-  weight: 0.0064
-  avg_copies: 1.0
-- name: card:sakura-tribe-scout
-  weight: 0.0064
-  avg_copies: 1.0
-- name: Fade from History
-  weight: 0.0064
-  avg_copies: 1.0
-- name: card:gretchen-titchwillow
-  weight: 0.0064
-  avg_copies: 1.0
-- name: Waterlogged Grove
-  weight: 0.0064
-  avg_copies: 1.0
-- name: Titania, Protector of Argoth
-  weight: 0.0064
-  avg_copies: 1.0
-- name: Turn the Earth
   weight: 0.0064
   avg_copies: 1.0
 ---

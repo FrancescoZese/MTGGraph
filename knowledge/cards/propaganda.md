@@ -10,7 +10,7 @@ type: Enchantment
 meta_presence: 0.0003
 archetypes:
   mono-blue-tron:
-    weight: 0.0476
+    weight: 0.0455
     avg_copies: 2.0
   unknown-182:
     weight: 0.3333

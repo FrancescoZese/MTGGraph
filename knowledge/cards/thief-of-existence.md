@@ -6,16 +6,16 @@ name: Thief of Existence
 scryfall_id: 328b02ca-d8eb-401d-9c41-93f8eb909312
 set: mh3
 type: Creature — Eldrazi
-meta_presence: 0.0384
+meta_presence: 0.0386
 archetypes:
   eldrazi-ramp:
     weight: 0.0161
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.876
-    avg_copies: 2.04
+    weight: 0.8775
+    avg_copies: 2.03
   unknown-61:
-    weight: 0.0213
+    weight: 0.02
     avg_copies: 3.0
   unknown-194:
     weight: 1.0

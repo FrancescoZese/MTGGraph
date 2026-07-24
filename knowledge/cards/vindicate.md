@@ -11,9 +11,9 @@ type: Sorcery
 meta_presence: 0.0003
 archetypes:
   esper-blink:
-    weight: 0.0097
+    weight: 0.0095
     avg_copies: 2.0
   orzhov-blink:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 1.0
 ---

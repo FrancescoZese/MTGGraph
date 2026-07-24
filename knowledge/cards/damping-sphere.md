@@ -9,7 +9,7 @@ type: Artifact
 meta_presence: 0.2777
 archetypes:
   boros-energy:
-    weight: 0.3022
+    weight: 0.3023
     avg_copies: 1.37
   dimir-control:
     weight: 0.1728
@@ -21,7 +21,7 @@ archetypes:
     weight: 0.0208
     avg_copies: 1.0
   goryo:
-    weight: 0.1262
+    weight: 0.125
     avg_copies: 1.74
   hardened-scales:
     weight: 1.0
@@ -33,16 +33,16 @@ archetypes:
     weight: 0.012
     avg_copies: 1.0
   living-end:
-    weight: 0.5735
-    avg_copies: 1.03
+    weight: 0.5797
+    avg_copies: 1.02
   jeskai-control:
     weight: 0.1429
     avg_copies: 1.71
   affinity:
-    weight: 0.9536
+    weight: 0.9537
     avg_copies: 2.19
   domain-zoo:
-    weight: 0.5827
+    weight: 0.5781
     avg_copies: 1.64
   mill:
     weight: 0.0606
@@ -66,34 +66,34 @@ archetypes:
     weight: 0.0143
     avg_copies: 1.5
   yawgmoth-combo:
-    weight: 0.1724
+    weight: 0.1705
     avg_copies: 1.07
   eldrazi-ramp:
     weight: 0.0242
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.1687
+    weight: 0.1786
     avg_copies: 1.93
   4c-omnath:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.534
-    avg_copies: 2.31
+    weight: 0.5333
+    avg_copies: 2.3
   samwise-combo:
     weight: 0.0323
     avg_copies: 1.5
   broodscale-combo:
-    weight: 0.432
+    weight: 0.4308
     avg_copies: 1.69
   orzhov-blink:
-    weight: 0.6
+    weight: 0.5455
     avg_copies: 2.17
   dredge:
     weight: 0.0385
     avg_copies: 2.0
   azorius-blink:
-    weight: 0.0317
+    weight: 0.0312
     avg_copies: 1.0
   elves:
     weight: 1.0
@@ -213,7 +213,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-61:
-    weight: 0.0426
+    weight: 0.04
     avg_copies: 2.0
   unknown-54:
     weight: 1.0
@@ -252,7 +252,7 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   unknown-96:
-    weight: 0.3889
+    weight: 0.45
     avg_copies: 2.0
   unknown-90:
     weight: 1.0
@@ -324,7 +324,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-167:
-    weight: 0.2
+    weight: 0.3333
     avg_copies: 1.0
   unknown-169:
     weight: 1.0

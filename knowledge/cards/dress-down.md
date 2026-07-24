@@ -22,10 +22,10 @@ archetypes:
     weight: 0.0204
     avg_copies: 4.0
   mono-blue-tron:
-    weight: 0.619
+    weight: 0.5909
     avg_copies: 2.12
   simic-ritual:
-    weight: 0.012
+    weight: 0.0119
     avg_copies: 1.0
   izzet-wizards:
     weight: 0.1667

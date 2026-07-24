@@ -114,25 +114,25 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.1667
   avg_copies: 2.0
-- name: High Noon
-  weight: 0.1667
-  avg_copies: 1.6
 - name: Deafening Silence
   weight: 0.1667
   avg_copies: 1.6
-- name: Haliya, Guided by Light
+- name: High Noon
   weight: 0.1667
-  avg_copies: 1.2
+  avg_copies: 1.6
 - name: Ranger-Captain of Eos
   weight: 0.1667
   avg_copies: 1.2
-- name: Haywire Mite
+- name: Haliya, Guided by Light
+  weight: 0.1667
+  avg_copies: 1.2
+- name: Temple Garden
   weight: 0.1667
   avg_copies: 1.0
 - name: Erode
   weight: 0.1667
   avg_copies: 1.0
-- name: Temple Garden
+- name: Haywire Mite
   weight: 0.1667
   avg_copies: 1.0
 - name: Sanctifier en-Vec
@@ -171,19 +171,19 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 0.0333
   avg_copies: 3.0
-- name: Galvanic Discharge
+- name: Goblin Bombardment
   weight: 0.0333
   avg_copies: 2.0
 - name: card:geist-of-saint-traft
   weight: 0.0333
   avg_copies: 2.0
-- name: Floodfarm Verge
-  weight: 0.0333
-  avg_copies: 2.0
-- name: Goblin Bombardment
+- name: Galvanic Discharge
   weight: 0.0333
   avg_copies: 2.0
 - name: Flagstones of Trokair
+  weight: 0.0333
+  avg_copies: 2.0
+- name: Floodfarm Verge
   weight: 0.0333
   avg_copies: 2.0
 - name: Obsidian Charmaw
@@ -192,16 +192,22 @@ top_cards:
 - name: Elegant Parlor
   weight: 0.0333
   avg_copies: 1.0
-- name: Ajani, Nacatl Pariah
+- name: Recruiter of the Guard
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Marsh Flats
   weight: 0.0333
   avg_copies: 1.0
 - name: Hydroelectric Specimen
   weight: 0.0333
   avg_copies: 1.0
-- name: card:exalted-sunborn
+- name: Otawara, Soaring City
   weight: 0.0333
   avg_copies: 1.0
-- name: Marsh Flats
+- name: Aven Interrupter
   weight: 0.0333
   avg_copies: 1.0
 - name: Flitterwing Nuisance
@@ -210,19 +216,13 @@ top_cards:
 - name: Razorgrass Ambush
   weight: 0.0333
   avg_copies: 1.0
-- name: Recruiter of the Guard
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Aven Interrupter
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Meltdown
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Ajani, Nacatl Pariah
   weight: 0.0333
   avg_copies: 1.0
 - name: Celestial Purge
+  weight: 0.0333
+  avg_copies: 1.0
+- name: card:exalted-sunborn
   weight: 0.0333
   avg_copies: 1.0
 ---

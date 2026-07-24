@@ -9,6 +9,9 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 4.33
+- name: Stitcher's Supplier
+  weight: 1.0
+  avg_copies: 4.0
 - name: Warren Soultrader
   weight: 1.0
   avg_copies: 4.0
@@ -16,9 +19,6 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Marionette Apprentice
-  weight: 1.0
-  avg_copies: 4.0
-- name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
 - name: Orcish Bowmasters
@@ -39,19 +39,19 @@ top_cards:
 - name: Chthonian Nightmare
   weight: 1.0
   avg_copies: 2.33
-- name: Polluted Delta
+- name: Fatal Push
   weight: 1.0
   avg_copies: 2.0
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 2.0
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 2.0
-- name: Bloodstained Mire
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 2.0
 - name: Marsh Flats
+  weight: 1.0
+  avg_copies: 2.0
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.0
 - name: Nihil Spellbomb
@@ -69,19 +69,19 @@ top_cards:
 - name: Malevolent Rumble
   weight: 0.6667
   avg_copies: 4.0
-- name: Chomping Changeling
-  weight: 0.6667
-  avg_copies: 2.0
-- name: Verdant Catacombs
-  weight: 0.6667
-  avg_copies: 2.0
-- name: Underground Mortuary
+- name: Mai, Scornful Striker
   weight: 0.6667
   avg_copies: 2.0
 - name: Culling Ritual
   weight: 0.6667
   avg_copies: 2.0
-- name: Mai, Scornful Striker
+- name: Verdant Catacombs
+  weight: 0.6667
+  avg_copies: 2.0
+- name: Chomping Changeling
+  weight: 0.6667
+  avg_copies: 2.0
+- name: Underground Mortuary
   weight: 0.6667
   avg_copies: 2.0
 - name: Grist, the Hunger Tide
@@ -99,10 +99,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.3333
   avg_copies: 2.0
-- name: Blood Crypt
+- name: Fulminator Mage
   weight: 0.3333
   avg_copies: 2.0
-- name: Fulminator Mage
+- name: Blood Crypt
   weight: 0.3333
   avg_copies: 2.0
 - name: Raucous Theater
@@ -111,10 +111,10 @@ top_cards:
 - name: Umezawa's Jitte
   weight: 0.3333
   avg_copies: 1.0
-- name: Dauthi Voidwalker
+- name: Ashiok, Dream Render
   weight: 0.3333
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Dauthi Voidwalker
   weight: 0.3333
   avg_copies: 1.0
 ---
