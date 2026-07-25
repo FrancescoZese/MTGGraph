@@ -2,13 +2,13 @@
 colors:
 - G
 name: Amulet Titan
-meta_share: 0.0266
+meta_share: 0.0264
 list_count: 156
 top_cards:
-- name: Arboreal Grazer
+- name: Amulet of Vigor
   weight: 1.0
   avg_copies: 4.0
-- name: Amulet of Vigor
+- name: Arboreal Grazer
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
@@ -41,10 +41,10 @@ top_cards:
 - name: Tolaria West
   weight: 1.0
   avg_copies: 1.01
-- name: Hanweir Battlements
+- name: Mirrorpool
   weight: 1.0
   avg_copies: 1.0
-- name: Mirrorpool
+- name: Hanweir Battlements
   weight: 1.0
   avg_copies: 1.0
 - name: Force of Vigor
@@ -185,34 +185,34 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.0256
   avg_copies: 1.25
-- name: Creeping Corrosion
-  weight: 0.0256
-  avg_copies: 1.0
-- name: Hedge Maze
-  weight: 0.0256
-  avg_copies: 1.0
 - name: Insidious Fungus
   weight: 0.0256
   avg_copies: 1.0
-- name: Valakut, the Molten Pinnacle
+- name: Creeping Corrosion
   weight: 0.0256
   avg_copies: 1.0
 - name: card:mj-lnir-hammer-of-thor
   weight: 0.0256
   avg_copies: 1.0
+- name: Hedge Maze
+  weight: 0.0256
+  avg_copies: 1.0
+- name: Valakut, the Molten Pinnacle
+  weight: 0.0256
+  avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.0192
   avg_copies: 2.0
-- name: Kessig Wolf Run
-  weight: 0.0192
-  avg_copies: 1.0
-- name: Pyroclasm
-  weight: 0.0192
-  avg_copies: 1.0
 - name: Windswept Heath
   weight: 0.0192
   avg_copies: 1.0
+- name: Kessig Wolf Run
+  weight: 0.0192
+  avg_copies: 1.0
 - name: Heritage Reclamation
+  weight: 0.0192
+  avg_copies: 1.0
+- name: Pyroclasm
   weight: 0.0192
   avg_copies: 1.0
 - name: card:lessons-from-life
@@ -221,25 +221,25 @@ top_cards:
 - name: Defense Grid
   weight: 0.0128
   avg_copies: 2.0
-- name: Northampton Farm
-  weight: 0.0128
-  avg_copies: 1.0
-- name: Ghost Quarter
-  weight: 0.0128
-  avg_copies: 1.0
-- name: card:lumra-bellow-of-the-woods
+- name: Ureni, the Song Unending
   weight: 0.0128
   avg_copies: 1.0
 - name: Emeritus of Abundance
   weight: 0.0128
   avg_copies: 1.0
+- name: card:lumra-bellow-of-the-woods
+  weight: 0.0128
+  avg_copies: 1.0
 - name: Cavern of Souls
   weight: 0.0128
   avg_copies: 1.0
-- name: Ureni, the Song Unending
+- name: Northampton Farm
   weight: 0.0128
   avg_copies: 1.0
 - name: Hexdrinker
+  weight: 0.0128
+  avg_copies: 1.0
+- name: Ghost Quarter
   weight: 0.0128
   avg_copies: 1.0
 - name: card:mind-into-matter
@@ -248,55 +248,55 @@ top_cards:
 - name: Hurkyl's Recall
   weight: 0.0064
   avg_copies: 3.0
+- name: Snow-Covered Forest
+  weight: 0.0064
+  avg_copies: 2.0
 - name: Botanical Sanctum
   weight: 0.0064
   avg_copies: 2.0
 - name: Sheoldred's Edict
   weight: 0.0064
   avg_copies: 2.0
-- name: Snow-Covered Forest
-  weight: 0.0064
-  avg_copies: 2.0
-- name: Misty Rainforest
+- name: Fade from History
   weight: 0.0064
   avg_copies: 1.0
 - name: Titania, Protector of Argoth
   weight: 0.0064
   avg_copies: 1.0
-- name: Waterlogged Grove
+- name: Dosan the Falling Leaf
   weight: 0.0064
   avg_copies: 1.0
-- name: Carnage Tyrant
-  weight: 0.0064
-  avg_copies: 1.0
-- name: Fade from History
-  weight: 0.0064
-  avg_copies: 1.0
-- name: Lithomantic Barrage
-  weight: 0.0064
-  avg_copies: 1.0
-- name: card:gretchen-titchwillow
+- name: Formidable Speaker
   weight: 0.0064
   avg_copies: 1.0
 - name: card:sakura-tribe-scout
   weight: 0.0064
   avg_copies: 1.0
-- name: Turn the Earth
-  weight: 0.0064
-  avg_copies: 1.0
-- name: Sakura-Tribe Elder
-  weight: 0.0064
-  avg_copies: 1.0
-- name: Dosan the Falling Leaf
+- name: Gemstone Caverns
   weight: 0.0064
   avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 0.0064
   avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Carnage Tyrant
   weight: 0.0064
   avg_copies: 1.0
-- name: Formidable Speaker
+- name: Sakura-Tribe Elder
+  weight: 0.0064
+  avg_copies: 1.0
+- name: card:gretchen-titchwillow
+  weight: 0.0064
+  avg_copies: 1.0
+- name: Turn the Earth
+  weight: 0.0064
+  avg_copies: 1.0
+- name: Waterlogged Grove
+  weight: 0.0064
+  avg_copies: 1.0
+- name: Misty Rainforest
+  weight: 0.0064
+  avg_copies: 1.0
+- name: Lithomantic Barrage
   weight: 0.0064
   avg_copies: 1.0
 ---

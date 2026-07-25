@@ -19,7 +19,7 @@ archetypes:
     weight: 0.0723
     avg_copies: 1.0
   boros-ponza:
-    weight: 0.0214
+    weight: 0.0213
     avg_copies: 1.25
   esper-control:
     weight: 1.0

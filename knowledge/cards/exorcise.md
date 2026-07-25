@@ -10,13 +10,13 @@ type: Sorcery
 meta_presence: 0.0066
 archetypes:
   boros-energy:
-    weight: 0.0516
+    weight: 0.0515
     avg_copies: 1.0
   dimir-control:
     weight: 0.0123
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0095
+    weight: 0.0093
     avg_copies: 1.0
   naya-midrange:
     weight: 1.0

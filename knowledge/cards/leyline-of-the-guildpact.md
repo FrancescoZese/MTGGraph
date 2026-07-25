@@ -14,13 +14,13 @@ type: Enchantment
 meta_presence: 0.0323
 archetypes:
   domain-zoo:
-    weight: 0.9844
+    weight: 0.9845
     avg_copies: 3.99
   4c-omnath:
     weight: 0.25
     avg_copies: 4.0
   cosmogoyf-fling:
-    weight: 0.0833
+    weight: 0.0789
     avg_copies: 4.0
   soultrader-combo0:
     weight: 1.0

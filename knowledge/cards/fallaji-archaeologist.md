@@ -10,8 +10,8 @@ type: Creature — Human Scout
 meta_presence: 0.0259
 archetypes:
   mono-blue-belcher:
-    weight: 0.4198
-    avg_copies: 3.47
+    weight: 0.4268
+    avg_copies: 3.46
   goryo:
     weight: 0.3224
     avg_copies: 3.58

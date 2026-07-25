@@ -9,22 +9,22 @@ name: 'Unknown #85'
 meta_share: 0.0027
 list_count: 16
 top_cards:
-- name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Leyline Binding
-  weight: 1.0
-  avg_copies: 4.0
 - name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
 - name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
-- name: Wooded Foothills
+- name: Leyline Binding
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lightning Bolt
+  weight: 1.0
+  avg_copies: 4.0
+- name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 3.81
-- name: Leyline of the Guildpact
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 3.81
 - name: Ragavan, Nimble Pilferer
@@ -135,19 +135,19 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 0.125
   avg_copies: 1.5
-- name: Zagoth Triome
-  weight: 0.125
-  avg_copies: 1.0
-- name: Lush Portico
+- name: Xander's Lounge
   weight: 0.125
   avg_copies: 1.0
 - name: Overgrown Tomb
   weight: 0.125
   avg_copies: 1.0
-- name: Xander's Lounge
+- name: Savai Triome
   weight: 0.125
   avg_copies: 1.0
-- name: Savai Triome
+- name: Zagoth Triome
+  weight: 0.125
+  avg_copies: 1.0
+- name: Lush Portico
   weight: 0.125
   avg_copies: 1.0
 - name: Spell Queller
@@ -162,10 +162,19 @@ top_cards:
 - name: Practiced Offense
   weight: 0.0625
   avg_copies: 3.0
-- name: Endurance
+- name: Prismatic Ending
   weight: 0.0625
   avg_copies: 2.0
 - name: Rough
+  weight: 0.0625
+  avg_copies: 2.0
+- name: Pick Your Poison
+  weight: 0.0625
+  avg_copies: 2.0
+- name: Endurance
+  weight: 0.0625
+  avg_copies: 2.0
+- name: Laelia, the Blade Reforged
   weight: 0.0625
   avg_copies: 2.0
 - name: Fire Magic
@@ -174,40 +183,31 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.0625
   avg_copies: 2.0
-- name: Pick Your Poison
-  weight: 0.0625
-  avg_copies: 2.0
-- name: Prismatic Ending
-  weight: 0.0625
-  avg_copies: 2.0
-- name: Laelia, the Blade Reforged
-  weight: 0.0625
-  avg_copies: 2.0
-- name: Chalice of the Void
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Island
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Orim's Chant
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Elegant Parlor
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Hedge Maze
+- name: Brotherhood's End
   weight: 0.0625
   avg_copies: 1.0
 - name: Hidetsugu Consumes All
   weight: 0.0625
   avg_copies: 1.0
-- name: Sacred Ground
+- name: Clarion Conqueror
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Hedge Maze
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Elegant Parlor
+  weight: 0.0625
+  avg_copies: 1.0
+- name: The Legend of Roku
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Chalice of the Void
   weight: 0.0625
   avg_copies: 1.0
 - name: Pyroclasm
   weight: 0.0625
   avg_copies: 1.0
-- name: The Legend of Roku
+- name: Orim's Chant
   weight: 0.0625
   avg_copies: 1.0
 - name: Lavinia, Azorius Renegade
@@ -216,10 +216,10 @@ top_cards:
 - name: Godless Shrine
   weight: 0.0625
   avg_copies: 1.0
-- name: Brotherhood's End
+- name: Sacred Ground
   weight: 0.0625
   avg_copies: 1.0
-- name: Clarion Conqueror
+- name: Island
   weight: 0.0625
   avg_copies: 1.0
 ---

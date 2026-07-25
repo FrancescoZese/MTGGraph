@@ -15,10 +15,10 @@ archetypes:
     weight: 0.8636
     avg_copies: 2.0
   boros-ponza:
-    weight: 0.0214
+    weight: 0.0213
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0286
+    weight: 0.028
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.1333
@@ -45,7 +45,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-61:
-    weight: 0.04
+    weight: 0.0392
     avg_copies: 2.0
   unknown-128:
     weight: 1.0

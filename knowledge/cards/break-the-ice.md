@@ -22,7 +22,7 @@ archetypes:
     weight: 0.0294
     avg_copies: 2.0
   simic-ritual:
-    weight: 0.0119
+    weight: 0.0116
     avg_copies: 1.0
   rakdos-aggro:
     weight: 0.0526
@@ -49,13 +49,13 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-45:
-    weight: 0.8519
-    avg_copies: 1.61
+    weight: 0.8571
+    avg_copies: 1.58
   unknown-46:
     weight: 0.875
     avg_copies: 2.57
   unknown-47:
-    weight: 0.0206
+    weight: 0.0204
     avg_copies: 2.5
   unknown-52:
     weight: 0.9091

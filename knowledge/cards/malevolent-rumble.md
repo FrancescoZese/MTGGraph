@@ -23,12 +23,12 @@ archetypes:
     avg_copies: 3.14
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 3.53
+    avg_copies: 3.54
   eldrazi-ramp:
     weight: 1.0
     avg_copies: 3.94
   simic-ritual:
-    weight: 0.0119
+    weight: 0.0116
     avg_copies: 4.0
   samwise-combo:
     weight: 0.6935
@@ -103,8 +103,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-167:
-    weight: 0.3333
-    avg_copies: 4.0
+    weight: 0.4286
+    avg_copies: 3.33
   unknown-176:
     weight: 1.0
     avg_copies: 4.0

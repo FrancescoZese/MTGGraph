@@ -11,7 +11,7 @@ meta_presence: 0.0288
 archetypes:
   domain-zoo:
     weight: 0.9922
-    avg_copies: 2.46
+    avg_copies: 2.47
   hammer-time:
     weight: 0.0769
     avg_copies: 1.0

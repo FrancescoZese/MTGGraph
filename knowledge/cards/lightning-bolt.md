@@ -10,10 +10,10 @@ type: Instant
 meta_presence: 0.159
 archetypes:
   ruby-storm:
-    weight: 0.0324
+    weight: 0.0321
     avg_copies: 1.0
   boros-energy:
-    weight: 0.2264
+    weight: 0.226
     avg_copies: 1.22
   dimir-control:
     weight: 0.0123
@@ -26,7 +26,7 @@ archetypes:
     avg_copies: 2.5
   domain-zoo:
     weight: 1.0
-    avg_copies: 3.85
+    avg_copies: 3.84
   reanimator:
     weight: 0.1111
     avg_copies: 2.33
@@ -41,12 +41,12 @@ archetypes:
     avg_copies: 1.29
   izzet-prowess:
     weight: 1.0
-    avg_copies: 3.87
+    avg_copies: 3.86
   indomitable-creativity:
     weight: 0.8667
     avg_copies: 2.08
   broodscale-combo:
-    weight: 0.004
+    weight: 0.0039
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.125
@@ -67,7 +67,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.5
   cosmogoyf-fling:
-    weight: 0.1944
+    weight: 0.1842
     avg_copies: 2.29
   scapeshift-combo:
     weight: 0.3333

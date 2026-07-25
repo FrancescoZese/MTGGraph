@@ -9,20 +9,23 @@ type: Artifact
 meta_presence: 0.0752
 archetypes:
   boros-energy:
-    weight: 0.0158
+    weight: 0.0157
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.015
     avg_copies: 2.0
   eldrazi-tron:
-    weight: 0.9031
-    avg_copies: 1.65
+    weight: 0.9034
+    avg_copies: 1.66
   necrodominance:
     weight: 0.1628
     avg_copies: 1.71
   azorius-control:
     weight: 0.0602
     avg_copies: 1.0
+  affinity:
+    weight: 0.002
+    avg_copies: 2.0
   burn:
     weight: 0.1081
     avg_copies: 1.0
@@ -30,13 +33,13 @@ archetypes:
     weight: 0.2273
     avg_copies: 1.4
   boros-ponza:
-    weight: 0.0143
+    weight: 0.0142
     avg_copies: 2.5
   eldrazi-ramp:
     weight: 0.7177
     avg_copies: 1.82
   izzet-prowess:
-    weight: 0.0034
+    weight: 0.0033
     avg_copies: 2.0
   broodscale-combo:
     weight: 0.0079
@@ -54,7 +57,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   cosmogoyf-fling:
-    weight: 0.0278
+    weight: 0.0263
     avg_copies: 1.0
   goryo4:
     weight: 1.0
@@ -84,10 +87,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0149
+    weight: 0.0147
     avg_copies: 1.0
   unknown-167:
-    weight: 0.3333
+    weight: 0.2857
     avg_copies: 1.0
   unknown-177:
     weight: 0.6667

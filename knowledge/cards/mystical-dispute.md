@@ -7,14 +7,14 @@ name: Mystical Dispute
 scryfall_id: fbe04cb8-a8b9-4241-baae-b398a2509a3a
 set: eld
 type: Instant
-meta_presence: 0.3982
+meta_presence: 0.3986
 archetypes:
   dimir-control:
     weight: 1.0
     avg_copies: 2.3
   mono-blue-belcher:
-    weight: 0.9136
-    avg_copies: 2.2
+    weight: 0.9146
+    avg_copies: 2.19
   jeskai-energy:
     weight: 0.985
     avg_copies: 2.41
@@ -34,10 +34,10 @@ archetypes:
     weight: 1.0
     avg_copies: 2.88
   affinity:
-    weight: 0.7223
+    weight: 0.7214
     avg_copies: 1.44
   domain-zoo:
-    weight: 0.9609
+    weight: 0.9612
     avg_copies: 2.68
   mill:
     weight: 0.2121
@@ -46,8 +46,8 @@ archetypes:
     weight: 0.7407
     avg_copies: 2.1
   neoform-combo:
-    weight: 0.9342
-    avg_copies: 3.41
+    weight: 0.9367
+    avg_copies: 3.43
   mono-blue-tron:
     weight: 0.5455
     avg_copies: 2.33
@@ -55,16 +55,16 @@ archetypes:
     weight: 0.4615
     avg_copies: 1.83
   simic-ritual:
-    weight: 0.9762
-    avg_copies: 2.99
+    weight: 0.9767
+    avg_copies: 3.0
   izzet-prowess:
-    weight: 0.2432
-    avg_copies: 1.49
+    weight: 0.2433
+    avg_copies: 1.48
   4c-omnath:
     weight: 1.0
     avg_copies: 2.25
   esper-blink:
-    weight: 0.781
+    weight: 0.785
     avg_copies: 1.95
   indomitable-creativity:
     weight: 0.4
@@ -124,7 +124,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-5:
-    weight: 0.6
+    weight: 0.6667
     avg_copies: 2.0
   unknown-6:
     weight: 0.3
@@ -164,7 +164,7 @@ archetypes:
     avg_copies: 2.0
   unknown-47:
     weight: 1.0
-    avg_copies: 2.26
+    avg_copies: 2.27
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
@@ -308,13 +308,13 @@ archetypes:
     avg_copies: 4.0
   unknown-156:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.67
   unknown-166:
     weight: 1.0
     avg_copies: 3.0
   unknown-167:
-    weight: 0.8333
-    avg_copies: 1.2
+    weight: 0.8571
+    avg_copies: 1.17
   unknown-169:
     weight: 1.0
     avg_copies: 3.0

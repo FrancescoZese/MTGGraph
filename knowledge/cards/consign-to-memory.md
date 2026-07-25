@@ -7,7 +7,7 @@ name: Consign to Memory
 scryfall_id: bc95af55-d1dd-4fe6-adb0-3ad6db20d986
 set: mh3
 type: Instant
-meta_presence: 0.4641
+meta_presence: 0.4646
 archetypes:
   ruby-storm:
     weight: 0.0046
@@ -20,7 +20,7 @@ archetypes:
     avg_copies: 3.48
   mono-blue-belcher:
     weight: 1.0
-    avg_copies: 3.2
+    avg_copies: 3.19
   jeskai-energy:
     weight: 0.985
     avg_copies: 3.79
@@ -37,11 +37,11 @@ archetypes:
     weight: 1.0
     avg_copies: 3.24
   affinity:
-    weight: 0.9477
+    weight: 0.9479
     avg_copies: 2.54
   domain-zoo:
-    weight: 0.9297
-    avg_copies: 2.04
+    weight: 0.9302
+    avg_copies: 2.05
   mill:
     weight: 0.7576
     avg_copies: 3.36
@@ -49,8 +49,8 @@ archetypes:
     weight: 0.8519
     avg_copies: 2.87
   neoform-combo:
-    weight: 0.9605
-    avg_copies: 3.71
+    weight: 0.962
+    avg_copies: 3.72
   mono-blue-tron:
     weight: 1.0
     avg_copies: 3.07
@@ -64,16 +64,16 @@ archetypes:
     weight: 0.0565
     avg_copies: 2.43
   simic-ritual:
-    weight: 0.8095
+    weight: 0.8023
     avg_copies: 2.94
   izzet-prowess:
-    weight: 0.9764
-    avg_copies: 3.34
+    weight: 0.9767
+    avg_copies: 3.33
   4c-omnath:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.9048
+    weight: 0.9065
     avg_copies: 2.42
   indomitable-creativity:
     weight: 0.8
@@ -142,8 +142,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-5:
-    weight: 0.8
-    avg_copies: 4.0
+    weight: 0.8333
+    avg_copies: 3.17
   unknown-6:
     weight: 1.0
     avg_copies: 3.0
@@ -202,7 +202,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9897
+    weight: 0.9898
     avg_copies: 3.18
   unknown-51:
     weight: 1.0
@@ -383,13 +383,13 @@ archetypes:
     avg_copies: 4.0
   unknown-156:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.67
   unknown-166:
     weight: 1.0
     avg_copies: 4.0
   unknown-167:
     weight: 1.0
-    avg_copies: 3.5
+    avg_copies: 3.29
   unknown-169:
     weight: 1.0
     avg_copies: 4.0

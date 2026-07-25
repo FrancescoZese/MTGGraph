@@ -19,13 +19,13 @@ archetypes:
     weight: 0.0233
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0135
+    weight: 0.0133
     avg_copies: 1.0
   esper-blink:
-    weight: 0.1619
+    weight: 0.1589
     avg_copies: 1.12
   orzhov-blink:
-    weight: 0.0909
+    weight: 0.0833
     avg_copies: 2.0
   jund-saga:
     weight: 0.5

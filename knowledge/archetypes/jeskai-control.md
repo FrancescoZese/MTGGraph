@@ -148,10 +148,10 @@ top_cards:
 - name: Arena of Glory
   weight: 0.1429
   avg_copies: 1.75
-- name: Subtlety
+- name: Damping Sphere
   weight: 0.1429
   avg_copies: 1.71
-- name: Damping Sphere
+- name: Subtlety
   weight: 0.1429
   avg_copies: 1.71
 - name: Hall of Storm Giants
@@ -229,61 +229,61 @@ top_cards:
 - name: Nulldrifter
   weight: 0.0204
   avg_copies: 3.0
-- name: Prismari Charm
-  weight: 0.0204
-  avg_copies: 2.0
-- name: Ephemerate
-  weight: 0.0204
-  avg_copies: 2.0
-- name: Erode
-  weight: 0.0204
-  avg_copies: 2.0
 - name: Drannith Magistrate
-  weight: 0.0204
-  avg_copies: 2.0
-- name: Invert Polarity
   weight: 0.0204
   avg_copies: 2.0
 - name: Harbinger of the Seas
   weight: 0.0204
   avg_copies: 2.0
+- name: Invert Polarity
+  weight: 0.0204
+  avg_copies: 2.0
+- name: Ephemerate
+  weight: 0.0204
+  avg_copies: 2.0
+- name: Prismari Charm
+  weight: 0.0204
+  avg_copies: 2.0
+- name: Erode
+  weight: 0.0204
+  avg_copies: 2.0
 - name: Get Lost
-  weight: 0.0204
-  avg_copies: 1.0
-- name: Hallowed Moonlight
-  weight: 0.0204
-  avg_copies: 1.0
-- name: Path to Exile
-  weight: 0.0204
-  avg_copies: 1.0
-- name: Ghost Vacuum
   weight: 0.0204
   avg_copies: 1.0
 - name: Kozilek, Butcher of Truth
   weight: 0.0204
   avg_copies: 1.0
-- name: Timeless Dragon
-  weight: 0.0204
-  avg_copies: 1.0
-- name: Thraben Charm
-  weight: 0.0204
-  avg_copies: 1.0
-- name: Vendilion Clique
-  weight: 0.0204
-  avg_copies: 1.0
-- name: Unlicensed Hearse
-  weight: 0.0204
-  avg_copies: 1.0
-- name: Raugrin Triome
-  weight: 0.0204
-  avg_copies: 1.0
-- name: Emeritus of Ideation
+- name: Windswept Heath
   weight: 0.0204
   avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.0204
   avg_copies: 1.0
-- name: Windswept Heath
+- name: Raugrin Triome
+  weight: 0.0204
+  avg_copies: 1.0
+- name: Ghost Vacuum
+  weight: 0.0204
+  avg_copies: 1.0
+- name: Timeless Dragon
+  weight: 0.0204
+  avg_copies: 1.0
+- name: Emeritus of Ideation
+  weight: 0.0204
+  avg_copies: 1.0
+- name: Path to Exile
+  weight: 0.0204
+  avg_copies: 1.0
+- name: Hallowed Moonlight
+  weight: 0.0204
+  avg_copies: 1.0
+- name: Unlicensed Hearse
+  weight: 0.0204
+  avg_copies: 1.0
+- name: Vendilion Clique
+  weight: 0.0204
+  avg_copies: 1.0
+- name: Thraben Charm
   weight: 0.0204
   avg_copies: 1.0
 ---

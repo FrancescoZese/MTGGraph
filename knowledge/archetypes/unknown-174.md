@@ -8,25 +8,25 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 4.33
+- name: Lava Dart
+  weight: 1.0
+  avg_copies: 4.0
 - name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Fire-Brained Scheme
   weight: 1.0
   avg_copies: 4.0
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
 - name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Lava Dart
-  weight: 1.0
-  avg_copies: 4.0
-- name: Monastery Swiftspear
   weight: 1.0
   avg_copies: 4.0
 - name: Slickshot Show-Off
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Monastery Swiftspear
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
@@ -44,13 +44,13 @@ top_cards:
 - name: Dragon's Rage Channeler
   weight: 0.6667
   avg_copies: 4.0
-- name: Soul-Scar Mage
+- name: card:crash-through
   weight: 0.6667
   avg_copies: 3.0
 - name: Meltdown
   weight: 0.6667
   avg_copies: 3.0
-- name: card:crash-through
+- name: Soul-Scar Mage
   weight: 0.6667
   avg_copies: 3.0
 - name: Magebane Lizard
@@ -59,13 +59,13 @@ top_cards:
 - name: Pick Your Poison
   weight: 0.6667
   avg_copies: 2.0
+- name: Soul-Guide Lantern
+  weight: 0.6667
+  avg_copies: 1.5
 - name: Stomping Ground
   weight: 0.6667
   avg_copies: 1.5
 - name: Arid Mesa
-  weight: 0.6667
-  avg_copies: 1.5
-- name: Soul-Guide Lantern
   weight: 0.6667
   avg_copies: 1.5
 - name: Tormod's Crypt
@@ -80,22 +80,16 @@ top_cards:
 - name: Rough
   weight: 0.3333
   avg_copies: 3.0
-- name: Seasoned Pyromancer
+- name: Wear
   weight: 0.3333
   avg_copies: 3.0
-- name: Wear
+- name: Seasoned Pyromancer
   weight: 0.3333
   avg_copies: 3.0
 - name: Surgical Extraction
   weight: 0.3333
   avg_copies: 3.0
 - name: Unholy Heat
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Orim's Chant
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Light Up the Stage
   weight: 0.3333
   avg_copies: 2.0
 - name: Natural State
@@ -107,13 +101,19 @@ top_cards:
 - name: Molten Rain
   weight: 0.3333
   avg_copies: 2.0
+- name: Bloodstained Mire
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Light Up the Stage
+  weight: 0.3333
+  avg_copies: 2.0
 - name: Flashback
   weight: 0.3333
   avg_copies: 2.0
-- name: Sunbaked Canyon
+- name: Orim's Chant
   weight: 0.3333
   avg_copies: 2.0
-- name: Bloodstained Mire
+- name: Sunbaked Canyon
   weight: 0.3333
   avg_copies: 2.0
 - name: Tarfire

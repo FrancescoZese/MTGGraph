@@ -6,19 +6,13 @@ name: 'Unknown #132'
 meta_share: 0.0003
 list_count: 2
 top_cards:
-- name: Psychic Frog
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
-  weight: 1.0
-  avg_copies: 4.0
-- name: Vexing Bauble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
 - name: Nethergoyf
@@ -30,10 +24,16 @@ top_cards:
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
-- name: Orcish Bowmasters
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
-- name: Consign to Memory
+- name: Psychic Frog
+  weight: 1.0
+  avg_copies: 4.0
+- name: Vexing Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
@@ -45,22 +45,22 @@ top_cards:
 - name: Verdant Catacombs
   weight: 1.0
   avg_copies: 3.0
+- name: End of the Hunt
+  weight: 1.0
+  avg_copies: 3.0
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 3.0
 - name: Watery Grave
   weight: 1.0
   avg_copies: 3.0
-- name: End of the Hunt
-  weight: 1.0
-  avg_copies: 3.0
 - name: Swamp
   weight: 1.0
   avg_copies: 2.5
-- name: Kaito, Bane of Nightmares
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 2.0
-- name: Undercity Sewers
+- name: Kaito, Bane of Nightmares
   weight: 1.0
   avg_copies: 2.0
 - name: Nihil Spellbomb
@@ -81,10 +81,10 @@ top_cards:
 - name: Dress Down
   weight: 0.5
   avg_copies: 1.0
-- name: Ghost Vacuum
+- name: Surgical Extraction
   weight: 0.5
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Ghost Vacuum
   weight: 0.5
   avg_copies: 1.0
 - name: Island

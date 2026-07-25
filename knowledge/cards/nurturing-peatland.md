@@ -12,16 +12,16 @@ archetypes:
     weight: 0.0233
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.0114
+    weight: 0.0112
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0119
+    weight: 0.0116
     avg_copies: 1.0
   samwise-combo:
     weight: 0.4677
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0119
+    weight: 0.0118
     avg_copies: 1.0
   goryo5:
     weight: 0.0435

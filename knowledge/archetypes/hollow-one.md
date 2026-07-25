@@ -9,10 +9,10 @@ top_cards:
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
-- name: Hollow One
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
 - name: Detective's Phoenix
@@ -153,49 +153,49 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 0.0588
   avg_copies: 2.0
-- name: Ox of Agonas
+- name: Pyroclasm
   weight: 0.0588
   avg_copies: 1.5
-- name: Pyroclasm
+- name: Ox of Agonas
   weight: 0.0588
   avg_copies: 1.5
 - name: Magebane Lizard
   weight: 0.0588
   avg_copies: 1.5
-- name: Violent Urge
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Commercial District
-  weight: 0.0588
-  avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.0588
   avg_copies: 1.0
 - name: Seal of Fire
   weight: 0.0588
   avg_copies: 1.0
+- name: Commercial District
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Violent Urge
+  weight: 0.0588
+  avg_copies: 1.0
 - name: Death's Shadow
   weight: 0.0294
   avg_copies: 4.0
-- name: Flameblade Adept
-  weight: 0.0294
-  avg_copies: 2.0
 - name: Ancient Grudge
   weight: 0.0294
   avg_copies: 2.0
-- name: Break the Ice
+- name: Flameblade Adept
   weight: 0.0294
   avg_copies: 2.0
-- name: Cam and Farrik, Havoc Duo
-  weight: 0.0294
-  avg_copies: 2.0
-- name: Inti, Seneschal of the Sun
+- name: Rough
   weight: 0.0294
   avg_copies: 2.0
 - name: Magus of the Moon
   weight: 0.0294
   avg_copies: 2.0
-- name: Rough
+- name: Break the Ice
+  weight: 0.0294
+  avg_copies: 2.0
+- name: Inti, Seneschal of the Sun
+  weight: 0.0294
+  avg_copies: 2.0
+- name: Cam and Farrik, Havoc Duo
   weight: 0.0294
   avg_copies: 2.0
 - name: Overlord of the Balemurk

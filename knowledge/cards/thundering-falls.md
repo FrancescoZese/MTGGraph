@@ -9,7 +9,7 @@ type: Land — Island Mountain
 meta_presence: 0.1983
 archetypes:
   ruby-storm:
-    weight: 0.2269
+    weight: 0.2248
     avg_copies: 1.14
   dimir-control:
     weight: 0.037
@@ -27,22 +27,22 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   affinity:
-    weight: 0.0443
+    weight: 0.0441
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.9609
+    weight: 0.9612
     avg_copies: 1.0
   reanimator:
     weight: 0.0741
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0263
+    weight: 0.0253
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0357
+    weight: 0.0349
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.9831
+    weight: 0.9833
     avg_copies: 1.0
   4c-omnath:
     weight: 0.5
@@ -120,7 +120,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0206
+    weight: 0.0204
     avg_copies: 1.0
   unknown-53:
     weight: 1.0
@@ -220,7 +220,7 @@ archetypes:
     avg_copies: 1.0
   unknown-156:
     weight: 1.0
-    avg_copies: 1.5
+    avg_copies: 1.67
   unknown-166:
     weight: 1.0
     avg_copies: 1.0

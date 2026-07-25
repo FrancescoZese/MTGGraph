@@ -7,7 +7,7 @@ name: Stone Rain
 scryfall_id: d2334c10-fa96-4f8e-8187-c7ecc00cbac8
 set: 9ed
 type: Sorcery
-meta_presence: 0.0009
+meta_presence: 0.0008
 archetypes:
   boros-ponza:
     weight: 0.0071

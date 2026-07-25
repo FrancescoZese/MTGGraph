@@ -10,8 +10,8 @@ type: Enchantment
 meta_presence: 0.2332
 archetypes:
   boros-energy:
-    weight: 0.7751
-    avg_copies: 1.67
+    weight: 0.7754
+    avg_copies: 1.68
   dimir-control:
     weight: 0.1111
     avg_copies: 1.78
@@ -19,7 +19,7 @@ archetypes:
     weight: 0.9398
     avg_copies: 1.72
   eldrazi-tron:
-    weight: 0.0035
+    weight: 0.0034
     avg_copies: 1.0
   goryo:
     weight: 0.0164
@@ -34,7 +34,7 @@ archetypes:
     weight: 0.7347
     avg_copies: 1.56
   domain-zoo:
-    weight: 0.4531
+    weight: 0.4574
     avg_copies: 1.59
   mill:
     weight: 0.0303
@@ -43,11 +43,11 @@ archetypes:
     weight: 0.9167
     avg_copies: 2.09
   boros-ponza:
-    weight: 0.95
-    avg_copies: 2.62
+    weight: 0.9504
+    avg_copies: 2.63
   esper-blink:
-    weight: 0.8952
-    avg_copies: 2.16
+    weight: 0.8972
+    avg_copies: 2.18
   samwise-combo:
     weight: 0.1774
     avg_copies: 1.73
@@ -55,8 +55,8 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.67
   orzhov-blink:
-    weight: 0.8182
-    avg_copies: 2.22
+    weight: 0.8333
+    avg_copies: 2.3
   azorius-blink:
     weight: 0.25
     avg_copies: 2.0
@@ -109,7 +109,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.75
   unknown-47:
-    weight: 0.0103
+    weight: 0.0102
     avg_copies: 1.0
   unknown-62:
     weight: 0.1667
@@ -202,8 +202,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-160:
-    weight: 0.6269
-    avg_copies: 3.42
+    weight: 0.6324
+    avg_copies: 3.39
   unknown-166:
     weight: 1.0
     avg_copies: 3.0

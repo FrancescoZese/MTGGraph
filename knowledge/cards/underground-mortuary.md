@@ -21,22 +21,22 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0263
+    weight: 0.0253
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 1.31
+    avg_copies: 1.3
   eldrazi-ramp:
     weight: 0.0161
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0714
+    weight: 0.0698
     avg_copies: 1.0
   samwise-combo:
     weight: 0.8871
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0158
+    weight: 0.0157
     avg_copies: 1.0
   jund-saga:
     weight: 0.75
@@ -69,7 +69,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-45:
-    weight: 0.963
+    weight: 0.9643
     avg_copies: 1.0
   unknown-46:
     weight: 1.0

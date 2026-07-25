@@ -6,10 +6,10 @@ name: 'Unknown #15'
 meta_share: 0.002
 list_count: 12
 top_cards:
-- name: Cori-Steel Cutter
+- name: Emry, Lurker of the Loch
   weight: 1.0
   avg_copies: 4.0
-- name: Emry, Lurker of the Loch
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Opal
@@ -54,10 +54,10 @@ top_cards:
 - name: Mountain
   weight: 0.9167
   avg_copies: 1.0
-- name: Aether Spellbomb
+- name: Otawara, Soaring City
   weight: 0.9167
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Aether Spellbomb
   weight: 0.9167
   avg_copies: 1.0
 - name: Force of Negation
@@ -78,13 +78,13 @@ top_cards:
 - name: Tormod's Crypt
   weight: 0.75
   avg_copies: 1.18
-- name: Fiery Islet
+- name: Haywire Mite
   weight: 0.75
   avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.75
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Fiery Islet
   weight: 0.75
   avg_copies: 1.0
 - name: Quantum Riddler
@@ -93,10 +93,10 @@ top_cards:
 - name: Lightning Bolt
   weight: 0.6667
   avg_copies: 2.3
-- name: Pithing Needle
+- name: Skateboard
   weight: 0.6667
   avg_copies: 1.0
-- name: Skateboard
+- name: Pithing Needle
   weight: 0.6667
   avg_copies: 1.0
 - name: Repeal
@@ -108,13 +108,13 @@ top_cards:
 - name: Blood Moon
   weight: 0.4167
   avg_copies: 2.0
+- name: Vandalblast
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Strix Serenade
   weight: 0.3333
   avg_copies: 1.0
 - name: Engineered Explosives
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Vandalblast
   weight: 0.3333
   avg_copies: 1.0
 - name: Shadowspear
@@ -123,16 +123,16 @@ top_cards:
 - name: Flooded Strand
   weight: 0.25
   avg_copies: 1.67
-- name: Damping Sphere
-  weight: 0.25
-  avg_copies: 1.0
-- name: Preordain
+- name: Grafdigger's Cage
   weight: 0.25
   avg_copies: 1.0
 - name: Lavaspur Boots
   weight: 0.25
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Damping Sphere
+  weight: 0.25
+  avg_copies: 1.0
+- name: Preordain
   weight: 0.25
   avg_copies: 1.0
 - name: Expressive Iteration
@@ -141,46 +141,46 @@ top_cards:
 - name: Galvanic Blast
   weight: 0.1667
   avg_copies: 3.0
+- name: Wooded Foothills
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Minamo, School at Water's Edge
   weight: 0.1667
   avg_copies: 1.0
 - name: Vexing Bauble
   weight: 0.1667
   avg_copies: 1.0
-- name: Wooded Foothills
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Relic of Progenitus
-  weight: 0.0833
-  avg_copies: 4.0
 - name: card:loki-god-of-mischief
   weight: 0.0833
   avg_copies: 4.0
-- name: Portable Hole
+- name: Relic of Progenitus
   weight: 0.0833
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Astrologian's Planisphere
   weight: 0.0833
   avg_copies: 3.0
+- name: Portable Hole
+  weight: 0.0833
+  avg_copies: 3.0
 - name: Sink into Stupor
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Obsidian Charmaw
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Vivi Ornitier
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Hallowed Fountain
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Whipflare
   weight: 0.0833
   avg_copies: 2.0
 - name: Teferi, Time Raveler
   weight: 0.0833
   avg_copies: 2.0
 - name: Snow-Covered Island
-  weight: 0.0833
-  avg_copies: 2.0
-- name: Vivi Ornitier
-  weight: 0.0833
-  avg_copies: 2.0
-- name: Whipflare
-  weight: 0.0833
-  avg_copies: 2.0
-- name: Hallowed Fountain
-  weight: 0.0833
-  avg_copies: 2.0
-- name: Obsidian Charmaw
   weight: 0.0833
   avg_copies: 2.0
 - name: Snapcaster Mage

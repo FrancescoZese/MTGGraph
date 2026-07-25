@@ -7,11 +7,11 @@ name: Nishoba Brawler
 scryfall_id: 2ef6cb5f-0ab3-4652-9b39-c2cbf6d693d5
 set: dmu
 type: Creature — Cat Warrior
-meta_presence: 0.0034
+meta_presence: 0.0036
 archetypes:
   domain-zoo:
-    weight: 0.0547
-    avg_copies: 1.86
+    weight: 0.062
+    avg_copies: 1.88
   unknown-85:
     weight: 0.8125
     avg_copies: 2.46

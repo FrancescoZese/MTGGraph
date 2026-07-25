@@ -3,22 +3,22 @@ colors:
 - U
 - R
 name: 'Unknown #122'
-meta_share: 0.0043
+meta_share: 0.0042
 list_count: 25
 top_cards:
-- name: Cori-Steel Cutter
+- name: Lava Dart
   weight: 1.0
   avg_copies: 4.0
-- name: Lightning Bolt
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Preordain
   weight: 1.0
   avg_copies: 4.0
-- name: Lava Dart
+- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
-- name: Dragon's Rage Channeler
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Stormchaser's Talent
@@ -81,13 +81,13 @@ top_cards:
 - name: Experimental Synthesizer
   weight: 0.4
   avg_copies: 3.9
-- name: Stomping Ground
+- name: Surgical Extraction
   weight: 0.36
   avg_copies: 1.0
 - name: Origin of Metalbending
   weight: 0.36
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Stomping Ground
   weight: 0.36
   avg_copies: 1.0
 - name: Fiery Islet
@@ -156,31 +156,31 @@ top_cards:
 - name: Questing Druid
   weight: 0.04
   avg_copies: 4.0
+- name: Wear
+  weight: 0.04
+  avg_copies: 2.0
 - name: Misty Rainforest
   weight: 0.04
   avg_copies: 2.0
 - name: Vexing Bauble
   weight: 0.04
   avg_copies: 2.0
-- name: Wear
-  weight: 0.04
-  avg_copies: 2.0
-- name: Fire Magic
+- name: Accumulate Wisdom
   weight: 0.04
   avg_copies: 1.0
 - name: Hurkyl's Recall
   weight: 0.04
   avg_copies: 1.0
-- name: Accumulate Wisdom
+- name: Fire Magic
+  weight: 0.04
+  avg_copies: 1.0
+- name: Sacred Foundry
   weight: 0.04
   avg_copies: 1.0
 - name: Spell Snare
   weight: 0.04
   avg_copies: 1.0
 - name: Redirect Lightning
-  weight: 0.04
-  avg_copies: 1.0
-- name: Sacred Foundry
   weight: 0.04
   avg_copies: 1.0
 ---

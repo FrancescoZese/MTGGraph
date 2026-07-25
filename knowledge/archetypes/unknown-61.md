@@ -2,8 +2,8 @@
 colors:
 - G
 name: 'Unknown #61'
-meta_share: 0.0085
-list_count: 50
+meta_share: 0.0086
+list_count: 51
 top_cards:
 - name: Kozilek's Command
   weight: 1.0
@@ -40,7 +40,7 @@ top_cards:
   avg_copies: 3.78
 - name: Forest
   weight: 1.0
-  avg_copies: 3.2
+  avg_copies: 3.24
 - name: Mosswort Bridge
   weight: 1.0
   avg_copies: 1.02
@@ -48,136 +48,136 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Trinisphere
-  weight: 0.96
-  avg_copies: 2.52
+  weight: 0.9608
+  avg_copies: 2.51
 - name: Thought-Knot Seer
-  weight: 0.94
-  avg_copies: 2.75
+  weight: 0.9412
+  avg_copies: 2.73
 - name: Endurance
-  weight: 0.92
-  avg_copies: 2.37
+  weight: 0.9216
+  avg_copies: 2.36
 - name: Collector Ouphe
-  weight: 0.68
+  weight: 0.6667
   avg_copies: 1.03
 - name: Devourer of Destiny
-  weight: 0.66
+  weight: 0.6471
   avg_copies: 3.45
 - name: Turntimber Symbiosis
-  weight: 0.62
+  weight: 0.6078
   avg_copies: 3.29
 - name: Ghost Quarter
-  weight: 0.62
+  weight: 0.6078
   avg_copies: 1.0
 - name: Chomping Changeling
-  weight: 0.6
+  weight: 0.5882
   avg_copies: 1.0
 - name: Fade from History
-  weight: 0.58
+  weight: 0.5686
   avg_copies: 2.76
 - name: Boseiju, Who Endures
-  weight: 0.54
+  weight: 0.549
   avg_copies: 1.11
 - name: Ugin, Eye of the Storms
-  weight: 0.52
-  avg_copies: 1.69
+  weight: 0.5294
+  avg_copies: 1.7
 - name: Ulamog, the Ceaseless Hunger
-  weight: 0.44
-  avg_copies: 1.95
+  weight: 0.451
+  avg_copies: 1.96
 - name: Gemstone Caverns
-  weight: 0.44
+  weight: 0.451
   avg_copies: 1.03
 - name: Dismember
-  weight: 0.42
-  avg_copies: 1.24
+  weight: 0.4314
+  avg_copies: 1.23
 - name: Chalice of the Void
-  weight: 0.4
+  weight: 0.4118
   avg_copies: 3.05
 - name: Force of Vigor
-  weight: 0.4
-  avg_copies: 2.55
+  weight: 0.4118
+  avg_copies: 2.57
 - name: Elder Gargaroth
-  weight: 0.34
+  weight: 0.3529
   avg_copies: 1.0
 - name: Drowner of Truth
-  weight: 0.32
+  weight: 0.3333
   avg_copies: 2.0
 - name: Cavern of Souls
-  weight: 0.26
+  weight: 0.2745
   avg_copies: 1.0
 - name: Sire of Seven Deaths
-  weight: 0.14
+  weight: 0.1373
   avg_copies: 1.31
 - name: Keen-Eyed Curator
-  weight: 0.14
+  weight: 0.1373
   avg_copies: 1.0
 - name: Ghost Vacuum
-  weight: 0.1
+  weight: 0.098
   avg_copies: 2.0
 - name: card:balustrade-wurm
-  weight: 0.08
-  avg_copies: 1.0
-- name: Soulless Jailer
-  weight: 0.06
+  weight: 0.0784
   avg_copies: 1.0
 - name: Scavenging Ooze
-  weight: 0.06
+  weight: 0.0588
   avg_copies: 1.0
-- name: Vexing Bauble
-  weight: 0.04
-  avg_copies: 2.5
+- name: Soulless Jailer
+  weight: 0.0588
+  avg_copies: 1.0
 - name: Grove of the Burnwillows
-  weight: 0.04
+  weight: 0.0392
+  avg_copies: 2.5
+- name: Vexing Bauble
+  weight: 0.0392
   avg_copies: 2.5
 - name: Emrakul, the Aeons Torn
-  weight: 0.04
+  weight: 0.0392
   avg_copies: 2.0
 - name: Damping Sphere
-  weight: 0.04
+  weight: 0.0392
   avg_copies: 2.0
 - name: Icetill Explorer
-  weight: 0.04
+  weight: 0.0392
   avg_copies: 1.5
 - name: Bojuka Bog
-  weight: 0.04
+  weight: 0.0392
   avg_copies: 1.0
 - name: Creeping Corrosion
-  weight: 0.02
+  weight: 0.0196
   avg_copies: 3.0
 - name: Thief of Existence
-  weight: 0.02
+  weight: 0.0196
   avg_copies: 3.0
 - name: Hashep Oasis
-  weight: 0.02
-  avg_copies: 2.0
-- name: card:null-elemental-blast
-  weight: 0.02
+  weight: 0.0196
   avg_copies: 2.0
 - name: Soul-Guide Lantern
-  weight: 0.02
+  weight: 0.0196
   avg_copies: 2.0
+- name: card:null-elemental-blast
+  weight: 0.0196
+  avg_copies: 2.0
+- name: Surgical Extraction
+  weight: 0.0196
+  avg_copies: 1.0
 - name: Shifting Woodland
-  weight: 0.02
-  avg_copies: 1.0
-- name: Tajuru Preserver
-  weight: 0.02
-  avg_copies: 1.0
-- name: Outland Liberator
-  weight: 0.02
+  weight: 0.0196
   avg_copies: 1.0
 - name: Grafdigger's Cage
-  weight: 0.02
+  weight: 0.0196
   avg_copies: 1.0
-- name: Ouroboroid
-  weight: 0.02
-  avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.02
+- name: Tajuru Preserver
+  weight: 0.0196
   avg_copies: 1.0
 - name: Insidious Fungus
-  weight: 0.02
+  weight: 0.0196
+  avg_copies: 1.0
+- name: Ouroboroid
+  weight: 0.0196
+  avg_copies: 1.0
+- name: Outland Liberator
+  weight: 0.0196
   avg_copies: 1.0
 - name: Ghalta, Stampede Tyrant
-  weight: 0.02
+  weight: 0.0196
   avg_copies: 1.0
 ---
 Unclassified archetype, pending review.

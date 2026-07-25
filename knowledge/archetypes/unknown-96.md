@@ -8,19 +8,19 @@ name: 'Unknown #96'
 meta_share: 0.0034
 list_count: 20
 top_cards:
-- name: Hardened Academic
+- name: Marauding Mako
   weight: 1.0
   avg_copies: 4.0
-- name: Marauding Mako
+- name: Hardened Academic
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
-- name: Hollow One
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
 - name: Detective's Phoenix
@@ -41,13 +41,13 @@ top_cards:
 - name: Practiced Offense
   weight: 1.0
   avg_copies: 2.3
+- name: Burning Inquiry
+  weight: 0.95
+  avg_copies: 4.0
 - name: Blazing Rootwalla
   weight: 0.95
   avg_copies: 4.0
 - name: Vengevine
-  weight: 0.95
-  avg_copies: 4.0
-- name: Burning Inquiry
   weight: 0.95
   avg_copies: 4.0
 - name: Elegant Parlor
@@ -104,10 +104,10 @@ top_cards:
 - name: Scalding Tarn
   weight: 0.15
   avg_copies: 4.0
-- name: Seasoned Pyromancer
+- name: The Underworld Cookbook
   weight: 0.15
   avg_copies: 2.0
-- name: The Underworld Cookbook
+- name: Seasoned Pyromancer
   weight: 0.15
   avg_copies: 2.0
 - name: Asmoranomardicadaistinaculdacar
@@ -134,37 +134,37 @@ top_cards:
 - name: Deafening Silence
   weight: 0.1
   avg_copies: 2.0
-- name: Magebane Lizard
-  weight: 0.1
-  avg_copies: 2.0
 - name: Orcish Bowmasters
   weight: 0.1
   avg_copies: 2.0
-- name: Raucous Theater
+- name: Magebane Lizard
+  weight: 0.1
+  avg_copies: 2.0
+- name: Soul-Guide Lantern
   weight: 0.1
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Raucous Theater
   weight: 0.1
   avg_copies: 1.0
 - name: Goblin Lore
   weight: 0.05
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Marsh Flats
   weight: 0.05
   avg_copies: 3.0
-- name: Marsh Flats
+- name: Thoughtseize
   weight: 0.05
   avg_copies: 3.0
 - name: Price of Freedom
   weight: 0.05
   avg_copies: 3.0
-- name: Relic of Progenitus
+- name: Lava Dart
   weight: 0.05
   avg_copies: 2.0
 - name: Prismatic Ending
   weight: 0.05
   avg_copies: 2.0
-- name: Lava Dart
+- name: Relic of Progenitus
   weight: 0.05
   avg_copies: 2.0
 - name: Erode
@@ -173,16 +173,16 @@ top_cards:
 - name: Plains
   weight: 0.05
   avg_copies: 1.0
-- name: Snow-Covered Mountain
-  weight: 0.05
-  avg_copies: 1.0
 - name: Pyroclasm
   weight: 0.05
   avg_copies: 1.0
-- name: Arena of Glory
+- name: Godless Shrine
   weight: 0.05
   avg_copies: 1.0
-- name: Godless Shrine
+- name: Snow-Covered Mountain
+  weight: 0.05
+  avg_copies: 1.0
+- name: Arena of Glory
   weight: 0.05
   avg_copies: 1.0
 ---

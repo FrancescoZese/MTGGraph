@@ -7,22 +7,22 @@ name: 'Unknown #6'
 meta_share: 0.0017
 list_count: 10
 top_cards:
+- name: Song of Creation
+  weight: 1.0
+  avg_copies: 4.0
 - name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
 - name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
-- name: Song of Creation
-  weight: 1.0
-  avg_copies: 4.0
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
-- name: Misty Rainforest
+- name: Mox Amber
   weight: 1.0
   avg_copies: 3.8
-- name: Mox Amber
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 3.8
 - name: Emry, Lurker of the Loch
@@ -52,10 +52,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.1
-- name: Endurance
+- name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Endurance
   weight: 1.0
   avg_copies: 1.0
 - name: Malevolent Rumble
@@ -82,10 +82,10 @@ top_cards:
 - name: Six
   weight: 0.7
   avg_copies: 1.14
-- name: Nature's Claim
+- name: Haywire Mite
   weight: 0.7
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Nature's Claim
   weight: 0.7
   avg_copies: 1.0
 - name: Boomerang Basics
@@ -94,21 +94,24 @@ top_cards:
 - name: Flame of Anor
   weight: 0.6
   avg_copies: 1.17
-- name: Stomping Ground
+- name: Otawara, Soaring City
   weight: 0.6
   avg_copies: 1.0
-- name: Forest
+- name: Stomping Ground
   weight: 0.6
   avg_copies: 1.0
 - name: Jace, Wielder of Mysteries
   weight: 0.6
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Forest
   weight: 0.6
   avg_copies: 1.0
 - name: Preordain
   weight: 0.5
   avg_copies: 3.0
+- name: Spire of Industry
+  weight: 0.4
+  avg_copies: 1.0
 - name: Mountain
   weight: 0.4
   avg_copies: 1.0
@@ -116,9 +119,6 @@ top_cards:
   weight: 0.4
   avg_copies: 1.0
 - name: Pithing Needle
-  weight: 0.4
-  avg_copies: 1.0
-- name: Spire of Industry
   weight: 0.4
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -130,16 +130,16 @@ top_cards:
 - name: Pyroclasm
   weight: 0.3
   avg_copies: 1.33
-- name: Ashiok, Dream Render
+- name: Thundering Falls
   weight: 0.3
   avg_copies: 1.0
 - name: Commercial District
   weight: 0.3
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Ashiok, Dream Render
   weight: 0.3
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Boseiju, Who Endures
   weight: 0.3
   avg_copies: 1.0
 - name: Quantum Riddler
@@ -157,28 +157,25 @@ top_cards:
 - name: Cori-Steel Cutter
   weight: 0.1
   avg_copies: 4.0
-- name: Sewer-veillance Cam
+- name: Grinding Station
   weight: 0.1
   avg_copies: 3.0
-- name: Grinding Station
+- name: Sewer-veillance Cam
   weight: 0.1
   avg_copies: 3.0
 - name: Hurkyl's Recall
   weight: 0.1
   avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 0.1
-  avg_copies: 1.0
-- name: Lightning Bolt
+- name: Lavaspur Boots
   weight: 0.1
   avg_copies: 1.0
 - name: Peer Past the Veil
   weight: 0.1
   avg_copies: 1.0
-- name: Galvanic Blast
+- name: Life from the Loam
   weight: 0.1
   avg_copies: 1.0
-- name: Lavaspur Boots
+- name: Vexing Bauble
   weight: 0.1
   avg_copies: 1.0
 - name: Thassa's Oracle
@@ -187,7 +184,10 @@ top_cards:
 - name: Aether Spellbomb
   weight: 0.1
   avg_copies: 1.0
-- name: Life from the Loam
+- name: Galvanic Blast
+  weight: 0.1
+  avg_copies: 1.0
+- name: Lightning Bolt
   weight: 0.1
   avg_copies: 1.0
 ---

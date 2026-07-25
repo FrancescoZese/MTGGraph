@@ -31,7 +31,7 @@ archetypes:
     weight: 0.1053
     avg_copies: 4.0
   cosmogoyf-fling:
-    weight: 0.1111
+    weight: 0.1053
     avg_copies: 1.0
   goryo0:
     weight: 0.0476

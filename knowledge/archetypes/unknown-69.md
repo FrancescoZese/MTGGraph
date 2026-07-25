@@ -9,16 +9,16 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 4.12
-- name: Soul Spike
-  weight: 1.0
-  avg_copies: 4.0
-- name: Necrodominance
-  weight: 1.0
-  avg_copies: 4.0
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Boggart Trawler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Soul Spike
+  weight: 1.0
+  avg_copies: 4.0
+- name: Necrodominance
   weight: 1.0
   avg_copies: 4.0
 - name: Orcish Bowmasters
@@ -36,10 +36,10 @@ top_cards:
 - name: Sheoldred, the Apocalypse
   weight: 1.0
   avg_copies: 3.12
-- name: Dauthi Voidwalker
+- name: March of Wretched Sorrow
   weight: 1.0
   avg_copies: 3.0
-- name: March of Wretched Sorrow
+- name: Dauthi Voidwalker
   weight: 1.0
   avg_copies: 3.0
 - name: Force of Despair
@@ -111,16 +111,16 @@ top_cards:
 - name: Revitalizing Repast
   weight: 0.25
   avg_copies: 1.0
-- name: Necromentia
-  weight: 0.25
-  avg_copies: 1.0
-- name: Waterlogged Teachings
-  weight: 0.25
-  avg_copies: 1.0
 - name: Agadeem's Awakening
   weight: 0.25
   avg_copies: 1.0
+- name: Necromentia
+  weight: 0.25
+  avg_copies: 1.0
 - name: Cling to Dust
+  weight: 0.25
+  avg_copies: 1.0
+- name: Waterlogged Teachings
   weight: 0.25
   avg_copies: 1.0
 - name: Consign to Memory

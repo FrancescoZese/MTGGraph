@@ -25,10 +25,10 @@ archetypes:
     weight: 0.2083
     avg_copies: 2.0
   esper-blink:
-    weight: 0.0857
+    weight: 0.0841
     avg_copies: 1.67
   orzhov-blink:
-    weight: 0.0909
+    weight: 0.0833
     avg_copies: 3.0
   grixis-shadow:
     weight: 0.2
@@ -43,7 +43,7 @@ archetypes:
     weight: 0.913
     avg_copies: 2.57
   unknown-5:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 3.0
   unknown-24:
     weight: 0.8333
@@ -52,13 +52,13 @@ archetypes:
     weight: 0.2857
     avg_copies: 2.0
   unknown-45:
-    weight: 0.8889
-    avg_copies: 1.54
+    weight: 0.8929
+    avg_copies: 1.52
   unknown-46:
     weight: 1.0
     avg_copies: 2.82
   unknown-47:
-    weight: 0.433
+    weight: 0.4286
     avg_copies: 2.0
   unknown-54:
     weight: 0.3333

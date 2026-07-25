@@ -30,13 +30,13 @@ archetypes:
     weight: 0.8519
     avg_copies: 1.52
   neoform-combo:
-    weight: 0.0263
+    weight: 0.0253
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.1548
+    weight: 0.1628
     avg_copies: 1.0
   esper-blink:
-    weight: 0.9619
+    weight: 0.9626
     avg_copies: 1.0
   esper-control:
     weight: 1.0

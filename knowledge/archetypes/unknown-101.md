@@ -12,13 +12,13 @@ top_cards:
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
-- name: Hollow One
+- name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Nethergoyf
+- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
 - name: Blood Crypt
@@ -60,10 +60,10 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.7143
   avg_copies: 3.4
-- name: Scalding Tarn
+- name: Fear of Missing Out
   weight: 0.7143
   avg_copies: 2.2
-- name: Fear of Missing Out
+- name: Scalding Tarn
   weight: 0.7143
   avg_copies: 2.2
 - name: Fatal Push
@@ -87,10 +87,10 @@ top_cards:
 - name: Magebane Lizard
   weight: 0.4286
   avg_copies: 3.33
-- name: Vexing Bauble
+- name: Dragon's Rage Channeler
   weight: 0.4286
   avg_copies: 2.67
-- name: Dragon's Rage Channeler
+- name: Vexing Bauble
   weight: 0.4286
   avg_copies: 2.67
 - name: Inti, Seneschal of the Sun
@@ -126,22 +126,22 @@ top_cards:
 - name: Blood Moon
   weight: 0.1429
   avg_copies: 2.0
-- name: Ox of Agonas
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Cool but Rude
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Sheoldred's Edict
   weight: 0.1429
   avg_copies: 1.0
 - name: Blackcleave Cliffs
   weight: 0.1429
   avg_copies: 1.0
+- name: Seal of Fire
+  weight: 0.1429
+  avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.1429
   avg_copies: 1.0
-- name: Seal of Fire
+- name: Sheoldred's Edict
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Ox of Agonas
   weight: 0.1429
   avg_copies: 1.0
 ---

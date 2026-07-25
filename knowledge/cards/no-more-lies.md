@@ -20,7 +20,7 @@ archetypes:
     weight: 0.0078
     avg_copies: 2.0
   esper-blink:
-    weight: 0.0095
+    weight: 0.0093
     avg_copies: 4.0
   esper-midrange:
     weight: 1.0

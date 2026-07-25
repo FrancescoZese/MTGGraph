@@ -31,22 +31,22 @@ archetypes:
     weight: 0.0303
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0132
+    weight: 0.0127
     avg_copies: 1.0
   mono-blue-tron:
     weight: 0.7727
     avg_copies: 2.55
   simic-ritual:
-    weight: 0.9881
-    avg_copies: 3.53
+    weight: 0.9884
+    avg_copies: 3.54
   izzet-prowess:
-    weight: 0.0034
+    weight: 0.0033
     avg_copies: 2.0
   4c-omnath:
     weight: 0.75
     avg_copies: 4.0
   esper-blink:
-    weight: 0.0286
+    weight: 0.028
     avg_copies: 2.33
   izzet-artifacts:
     weight: 0.0312

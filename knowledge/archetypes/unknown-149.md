@@ -7,19 +7,19 @@ name: 'Unknown #149'
 meta_share: 0.0017
 list_count: 10
 top_cards:
-- name: Guide of Souls
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Arid Mesa
+- name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
-- name: Ajani, Nacatl Pariah
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
@@ -61,10 +61,10 @@ top_cards:
 - name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Island
@@ -124,10 +124,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.3
   avg_copies: 2.0
-- name: Wear
+- name: Surgical Extraction
   weight: 0.3
   avg_copies: 1.67
-- name: Surgical Extraction
+- name: Wear
   weight: 0.3
   avg_copies: 1.67
 - name: Rest in Peace
@@ -139,25 +139,25 @@ top_cards:
 - name: Arena of Glory
   weight: 0.2
   avg_copies: 1.0
-- name: Voice of Victory
-  weight: 0.1
-  avg_copies: 2.0
 - name: Marsh Flats
   weight: 0.1
   avg_copies: 2.0
 - name: Clarion Conqueror
   weight: 0.1
   avg_copies: 2.0
-- name: March of Otherworldly Light
+- name: Voice of Victory
+  weight: 0.1
+  avg_copies: 2.0
+- name: Containment Priest
   weight: 0.1
   avg_copies: 1.0
 - name: Deafening Silence
   weight: 0.1
   avg_copies: 1.0
-- name: Containment Priest
+- name: Detect Intrusion
   weight: 0.1
   avg_copies: 1.0
-- name: Detect Intrusion
+- name: March of Otherworldly Light
   weight: 0.1
   avg_copies: 1.0
 ---

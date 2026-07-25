@@ -16,7 +16,7 @@ archetypes:
     weight: 0.0968
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0119
+    weight: 0.0116
     avg_copies: 2.0
   mono-green-stompy:
     weight: 1.0
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   unknown-61:
-    weight: 0.14
+    weight: 0.1373
     avg_copies: 1.0
   unknown-126:
     weight: 0.6923

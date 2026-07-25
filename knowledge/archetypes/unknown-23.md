@@ -39,10 +39,10 @@ top_cards:
 - name: Commercial District
   weight: 1.0
   avg_copies: 2.17
-- name: Mountain
+- name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.67
-- name: Boseiju, Who Endures
+- name: Mountain
   weight: 1.0
   avg_copies: 1.67
 - name: Vexing Bauble
@@ -108,37 +108,37 @@ top_cards:
 - name: Elegant Parlor
   weight: 0.3333
   avg_copies: 1.0
-- name: Jetmir's Garden
+- name: Sacred Foundry
   weight: 0.3333
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Jetmir's Garden
   weight: 0.3333
   avg_copies: 1.0
 - name: Scapeshift
   weight: 0.1667
   avg_copies: 3.0
-- name: High Noon
-  weight: 0.1667
-  avg_copies: 2.0
 - name: Disruptor Flute
   weight: 0.1667
   avg_copies: 2.0
 - name: Orim's Chant
   weight: 0.1667
   avg_copies: 2.0
-- name: Fire Magic
+- name: High Noon
   weight: 0.1667
   avg_copies: 2.0
 - name: Ghost Vacuum
   weight: 0.1667
   avg_copies: 2.0
-- name: Endurance
+- name: Fire Magic
   weight: 0.1667
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Sakura-Tribe Elder
   weight: 0.1667
   avg_copies: 1.0
 - name: Dwarven Mine
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Endurance
   weight: 0.1667
   avg_copies: 1.0
 ---

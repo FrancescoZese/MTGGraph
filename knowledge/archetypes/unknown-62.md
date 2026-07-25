@@ -126,13 +126,13 @@ top_cards:
 - name: Haliya, Guided by Light
   weight: 0.1667
   avg_copies: 1.2
+- name: Haywire Mite
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Temple Garden
   weight: 0.1667
   avg_copies: 1.0
 - name: Erode
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Haywire Mite
   weight: 0.1667
   avg_copies: 1.0
 - name: Sanctifier en-Vec
@@ -171,10 +171,10 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 0.0333
   avg_copies: 3.0
-- name: Goblin Bombardment
+- name: Obsidian Charmaw
   weight: 0.0333
   avg_copies: 2.0
-- name: card:geist-of-saint-traft
+- name: Goblin Bombardment
   weight: 0.0333
   avg_copies: 2.0
 - name: Galvanic Discharge
@@ -186,40 +186,40 @@ top_cards:
 - name: Floodfarm Verge
   weight: 0.0333
   avg_copies: 2.0
-- name: Obsidian Charmaw
+- name: card:geist-of-saint-traft
   weight: 0.0333
   avg_copies: 2.0
+- name: Marsh Flats
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Celestial Purge
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Ajani, Nacatl Pariah
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Otawara, Soaring City
+  weight: 0.0333
+  avg_copies: 1.0
 - name: Elegant Parlor
   weight: 0.0333
   avg_copies: 1.0
 - name: Recruiter of the Guard
   weight: 0.0333
   avg_copies: 1.0
-- name: Meltdown
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Marsh Flats
+- name: Aven Interrupter
   weight: 0.0333
   avg_copies: 1.0
 - name: Hydroelectric Specimen
   weight: 0.0333
   avg_copies: 1.0
-- name: Otawara, Soaring City
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Aven Interrupter
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Flitterwing Nuisance
+- name: Meltdown
   weight: 0.0333
   avg_copies: 1.0
 - name: Razorgrass Ambush
   weight: 0.0333
   avg_copies: 1.0
-- name: Ajani, Nacatl Pariah
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Celestial Purge
+- name: Flitterwing Nuisance
   weight: 0.0333
   avg_copies: 1.0
 - name: card:exalted-sunborn

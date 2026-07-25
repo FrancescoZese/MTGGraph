@@ -19,8 +19,8 @@ archetypes:
     weight: 0.8605
     avg_copies: 3.97
   domain-zoo:
-    weight: 0.0312
-    avg_copies: 2.75
+    weight: 0.0388
+    avg_copies: 2.6
   mill:
     weight: 0.9697
     avg_copies: 3.47
@@ -37,13 +37,13 @@ archetypes:
     weight: 1.0
     avg_copies: 2.75
   simic-ritual:
-    weight: 0.0357
+    weight: 0.0349
     avg_copies: 2.33
   izzet-prowess:
-    weight: 0.0068
+    weight: 0.0067
     avg_copies: 1.5
   esper-blink:
-    weight: 0.9524
+    weight: 0.9533
     avg_copies: 3.45
   samwise-combo:
     weight: 0.5161
@@ -52,10 +52,10 @@ archetypes:
     weight: 0.2
     avg_copies: 3.33
   broodscale-combo:
-    weight: 0.0158
+    weight: 0.0157
     avg_copies: 2.0
   orzhov-blink:
-    weight: 0.9091
+    weight: 0.8333
     avg_copies: 3.45
   esper-control:
     weight: 1.0
@@ -73,7 +73,7 @@ archetypes:
     weight: 0.2632
     avg_copies: 1.67
   cosmogoyf-fling:
-    weight: 0.1944
+    weight: 0.1842
     avg_copies: 3.14
   esper-midrange:
     weight: 1.0
@@ -103,7 +103,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-5:
-    weight: 0.2
+    weight: 0.3333
     avg_copies: 2.0
   unknown-1:
     weight: 1.0
@@ -148,7 +148,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-45:
-    weight: 0.1111
+    weight: 0.1071
     avg_copies: 1.67
   unknown-46:
     weight: 1.0

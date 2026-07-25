@@ -6,10 +6,10 @@ name: Aether Vial
 scryfall_id: 11e8d2fd-b132-4807-9410-8edeffa519ed
 set: 2x2
 type: Artifact
-meta_presence: 0.0029
+meta_presence: 0.003
 archetypes:
   orzhov-blink:
-    weight: 0.1818
+    weight: 0.25
     avg_copies: 4.0
   unknown-42:
     weight: 1.0

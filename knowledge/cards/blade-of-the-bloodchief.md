@@ -10,7 +10,7 @@ meta_presence: 0.0439
 archetypes:
   broodscale-combo:
     weight: 1.0
-    avg_copies: 3.52
+    avg_copies: 3.51
   unknown-176:
     weight: 1.0
     avg_copies: 1.67

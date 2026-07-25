@@ -12,7 +12,7 @@ archetypes:
     weight: 0.0204
     avg_copies: 3.0
   domain-zoo:
-    weight: 0.0391
+    weight: 0.0388
     avg_copies: 2.2
   mono-blue-tron:
     weight: 0.0909

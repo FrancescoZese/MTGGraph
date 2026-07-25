@@ -6,13 +6,13 @@ name: Eiganjo, Seat of the Empire
 scryfall_id: c375a022-5b57-496d-a802-e4ea8376e9e4
 set: neo
 type: Legendary Land
-meta_presence: 0.0009
+meta_presence: 0.0008
 archetypes:
   boros-energy:
     weight: 0.0014
     avg_copies: 1.0
   orzhov-blink:
-    weight: 0.0909
+    weight: 0.0833
     avg_copies: 1.0
   azorius-blink:
     weight: 0.0156

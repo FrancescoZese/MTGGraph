@@ -9,16 +9,16 @@ name: 'Unknown #120'
 meta_share: 0.0015
 list_count: 9
 top_cards:
-- name: Atraxa, Grand Unifier
-  weight: 1.0
-  avg_copies: 4.0
-- name: Psychic Frog
+- name: Goryo's Vengeance
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Goryo's Vengeance
+- name: Psychic Frog
+  weight: 1.0
+  avg_copies: 4.0
+- name: Atraxa, Grand Unifier
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
@@ -63,10 +63,7 @@ top_cards:
 - name: Watery Grave
   weight: 1.0
   avg_copies: 1.11
-- name: Raucous Theater
-  weight: 1.0
-  avg_copies: 1.0
-- name: Island
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Undercity Sewers
@@ -75,10 +72,13 @@ top_cards:
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
+- name: Raucous Theater
+  weight: 1.0
+  avg_copies: 1.0
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Emperor of Bones
@@ -87,10 +87,10 @@ top_cards:
 - name: Spell Snare
   weight: 0.8889
   avg_copies: 2.75
-- name: Nihil Spellbomb
+- name: Surgical Extraction
   weight: 0.8889
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Nihil Spellbomb
   weight: 0.8889
   avg_copies: 1.0
 - name: Ulamog, the Defiler
@@ -123,19 +123,19 @@ top_cards:
 - name: Traumatic Critique
   weight: 0.1111
   avg_copies: 3.0
-- name: Pithing Needle
-  weight: 0.1111
-  avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.1111
   avg_copies: 2.0
-- name: Flame of Anor
+- name: Pithing Needle
   weight: 0.1111
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Kolaghan's Command
   weight: 0.1111
   avg_copies: 1.0
 - name: Kavaero, Mind-Bitten
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Flame of Anor
   weight: 0.1111
   avg_copies: 1.0
 ---

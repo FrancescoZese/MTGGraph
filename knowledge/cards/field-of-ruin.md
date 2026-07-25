@@ -18,8 +18,8 @@ archetypes:
     weight: 0.9697
     avg_copies: 3.38
   boros-ponza:
-    weight: 0.9857
-    avg_copies: 3.86
+    weight: 0.9858
+    avg_copies: 3.85
   izzet-wizards:
     weight: 0.0833
     avg_copies: 2.0

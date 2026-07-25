@@ -1,16 +1,16 @@
 ---
 archetypes:
   ruby-storm:
-    weight: 0.0093
-    avg_copies: 1.5
+    weight: 0.0138
+    avg_copies: 1.33
   boros-energy:
-    weight: 0.7536
+    weight: 0.7525
     avg_copies: 1.25
   dimir-control:
     weight: 0.1111
     avg_copies: 1.44
   mono-blue-belcher:
-    weight: 0.0123
+    weight: 0.0122
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.6917
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.551
     avg_copies: 1.22
   domain-zoo:
-    weight: 0.25
+    weight: 0.2481
     avg_copies: 1.19
   mill:
     weight: 1.0
@@ -52,19 +52,19 @@ archetypes:
     weight: 0.7647
     avg_copies: 2.0
   boros-ponza:
-    weight: 0.1929
+    weight: 0.1915
     avg_copies: 1.71
   yawgmoth-combo:
-    weight: 0.0114
+    weight: 0.0112
     avg_copies: 1.0
   eldrazi-ramp:
     weight: 0.0726
     avg_copies: 1.56
   izzet-prowess:
-    weight: 0.4865
+    weight: 0.48
     avg_copies: 1.49
   esper-blink:
-    weight: 0.1905
+    weight: 0.1869
     avg_copies: 1.35
   samwise-combo:
     weight: 0.1129
@@ -73,7 +73,7 @@ archetypes:
     weight: 0.7333
     avg_copies: 1.91
   orzhov-blink:
-    weight: 0.2727
+    weight: 0.25
     avg_copies: 1.0
   dredge:
     weight: 0.3846
@@ -169,7 +169,7 @@ archetypes:
     weight: 0.875
     avg_copies: 1.14
   unknown-47:
-    weight: 0.1649
+    weight: 0.1633
     avg_copies: 1.44
   unknown-51:
     weight: 1.0
@@ -178,7 +178,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-61:
-    weight: 0.02
+    weight: 0.0196
     avg_copies: 1.0
   unknown-53:
     weight: 1.0
@@ -277,10 +277,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.33
   unknown-156:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
   unknown-160:
-    weight: 0.1343
+    weight: 0.1324
     avg_copies: 1.67
   unknown-161:
     weight: 0.5
@@ -324,7 +324,7 @@ archetypes:
 cmc: 1
 colors: []
 image: https://cards.scryfall.io/normal/front/e/1/e15d76ac-1c23-4503-8225-375ac2bf2fb6.jpg?1673147668
-meta_presence: 0.2737
+meta_presence: 0.2724
 name: Surgical Extraction
 scryfall_id: e15d76ac-1c23-4503-8225-375ac2bf2fb6
 set: 2x2
