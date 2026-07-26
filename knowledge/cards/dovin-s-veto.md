@@ -8,10 +8,10 @@ name: Dovin's Veto
 scryfall_id: 5d6b5054-2224-4f68-9d82-3ed17c5dacc4
 set: war
 type: Instant
-meta_presence: 0.0024
+meta_presence: 0.0023
 archetypes:
   goryo:
-    weight: 0.0033
+    weight: 0.0032
     avg_copies: 1.0
   jeskai-control:
     weight: 0.0408

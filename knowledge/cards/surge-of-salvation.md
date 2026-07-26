@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0015
 archetypes:
   domain-zoo:
-    weight: 0.0078
+    weight: 0.0076
     avg_copies: 2.0
   hammer-time:
     weight: 0.4615

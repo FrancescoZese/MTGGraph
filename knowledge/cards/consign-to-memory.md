@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.4646
 archetypes:
   ruby-storm:
-    weight: 0.0046
+    weight: 0.0045
     avg_copies: 2.0
   boros-energy:
     weight: 0.0014
@@ -25,23 +25,23 @@ archetypes:
     weight: 0.985
     avg_copies: 3.79
   goryo:
-    weight: 0.9934
-    avg_copies: 2.93
+    weight: 0.9936
+    avg_copies: 2.94
   necrodominance:
     weight: 0.0465
     avg_copies: 3.5
   azorius-control:
     weight: 1.0
-    avg_copies: 3.78
+    avg_copies: 3.79
   jeskai-control:
     weight: 1.0
     avg_copies: 3.24
   affinity:
-    weight: 0.9479
+    weight: 0.948
     avg_copies: 2.54
   domain-zoo:
-    weight: 0.9302
-    avg_copies: 2.05
+    weight: 0.9313
+    avg_copies: 2.06
   mill:
     weight: 0.7576
     avg_copies: 3.36
@@ -49,8 +49,8 @@ archetypes:
     weight: 0.8519
     avg_copies: 2.87
   neoform-combo:
-    weight: 0.962
-    avg_copies: 3.72
+    weight: 0.9634
+    avg_copies: 3.7
   mono-blue-tron:
     weight: 1.0
     avg_copies: 3.07
@@ -64,17 +64,17 @@ archetypes:
     weight: 0.0565
     avg_copies: 2.43
   simic-ritual:
-    weight: 0.8023
+    weight: 0.8046
     avg_copies: 2.94
   izzet-prowess:
-    weight: 0.9767
-    avg_copies: 3.33
+    weight: 0.9769
+    avg_copies: 3.34
   4c-omnath:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.9065
-    avg_copies: 2.42
+    weight: 0.9074
+    avg_copies: 2.44
   indomitable-creativity:
     weight: 0.8
     avg_copies: 3.75
@@ -202,8 +202,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9898
-    avg_copies: 3.18
+    weight: 0.9902
+    avg_copies: 3.2
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
@@ -274,7 +274,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-97:
-    weight: 0.4167
+    weight: 0.3846
     avg_copies: 2.2
   unknown-99:
     weight: 1.0
@@ -389,7 +389,7 @@ archetypes:
     avg_copies: 4.0
   unknown-167:
     weight: 1.0
-    avg_copies: 3.29
+    avg_copies: 3.25
   unknown-169:
     weight: 1.0
     avg_copies: 4.0

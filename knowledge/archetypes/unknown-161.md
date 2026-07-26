@@ -6,13 +6,16 @@ name: 'Unknown #161'
 meta_share: 0.0003
 list_count: 2
 top_cards:
+- name: Bloodstained Mire
+  weight: 1.0
+  avg_copies: 4.0
 - name: Marauding Mako
   weight: 1.0
   avg_copies: 4.0
-- name: Detective's Phoenix
+- name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
-- name: Burning Inquiry
+- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
 - name: Wooded Foothills
@@ -21,25 +24,22 @@ top_cards:
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Hollow One
+- name: Detective's Phoenix
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodstained Mire
-  weight: 1.0
-  avg_copies: 4.0
-- name: Moonshadow
+- name: Burning Inquiry
   weight: 1.0
   avg_copies: 4.0
 - name: Fear of Missing Out
   weight: 1.0
   avg_copies: 3.5
-- name: Obsidian Charmaw
-  weight: 1.0
-  avg_copies: 3.0
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 3.0
 - name: Thoughtseize
+  weight: 1.0
+  avg_copies: 3.0
+- name: Obsidian Charmaw
   weight: 1.0
   avg_copies: 3.0
 - name: Street Wraith
@@ -48,13 +48,13 @@ top_cards:
 - name: Meltdown
   weight: 1.0
   avg_copies: 2.0
+- name: Arid Mesa
+  weight: 1.0
+  avg_copies: 2.0
 - name: Mountain
   weight: 1.0
   avg_copies: 2.0
 - name: Arena of Glory
-  weight: 1.0
-  avg_copies: 2.0
-- name: Arid Mesa
   weight: 1.0
   avg_copies: 2.0
 - name: Ox of Agonas
@@ -63,10 +63,10 @@ top_cards:
 - name: Cam and Farrik, Havoc Duo
   weight: 1.0
   avg_copies: 1.5
-- name: card:scourge-of-the-skyclaves
+- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
-- name: Raucous Theater
+- name: card:scourge-of-the-skyclaves
   weight: 1.0
   avg_copies: 1.0
 - name: Claim
@@ -87,16 +87,16 @@ top_cards:
 - name: card:claim-the-firstborn
   weight: 0.5
   avg_copies: 2.0
-- name: Cool but Rude
-  weight: 0.5
-  avg_copies: 1.5
 - name: Lightning Bolt
   weight: 0.5
   avg_copies: 1.5
-- name: card:thunderous-wrath
+- name: Cool but Rude
+  weight: 0.5
+  avg_copies: 1.5
+- name: card:fiery-temper
   weight: 0.5
   avg_copies: 1.0
-- name: card:fiery-temper
+- name: card:thunderous-wrath
   weight: 0.5
   avg_copies: 1.0
 ---

@@ -6,10 +6,10 @@ name: Ruby Medallion
 scryfall_id: 630febf5-58ff-4dab-a5a8-575ebc5435a6
 set: mh3
 type: Artifact
-meta_presence: 0.0383
+meta_presence: 0.0384
 archetypes:
   ruby-storm:
-    weight: 0.9908
+    weight: 0.991
     avg_copies: 3.97
   mono-red-belcher:
     weight: 0.6154

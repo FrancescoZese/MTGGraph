@@ -9,7 +9,7 @@ type: Creature — Eldrazi
 meta_presence: 0.0193
 archetypes:
   eldrazi-tron:
-    weight: 0.0103
+    weight: 0.0102
     avg_copies: 1.0
   eldrazi-ramp:
     weight: 0.7903

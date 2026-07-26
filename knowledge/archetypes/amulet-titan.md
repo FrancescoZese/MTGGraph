@@ -2,8 +2,8 @@
 colors:
 - G
 name: Amulet Titan
-meta_share: 0.0264
-list_count: 156
+meta_share: 0.0263
+list_count: 157
 top_cards:
 - name: Amulet of Vigor
   weight: 1.0
@@ -25,222 +25,222 @@ top_cards:
   avg_copies: 3.44
 - name: Gruul Turf
   weight: 1.0
-  avg_copies: 3.33
+  avg_copies: 3.34
 - name: Forest
   weight: 1.0
   avg_copies: 2.87
 - name: Simic Growth Chamber
   weight: 1.0
-  avg_copies: 2.79
+  avg_copies: 2.8
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 2.31
 - name: Summoner's Pact
   weight: 1.0
-  avg_copies: 2.03
+  avg_copies: 2.04
 - name: Tolaria West
   weight: 1.0
   avg_copies: 1.01
-- name: Mirrorpool
+- name: Hanweir Battlements
   weight: 1.0
   avg_copies: 1.0
-- name: Hanweir Battlements
+- name: Mirrorpool
   weight: 1.0
   avg_copies: 1.0
 - name: Force of Vigor
   weight: 0.9936
-  avg_copies: 1.98
+  avg_copies: 1.97
 - name: Scapeshift
-  weight: 0.9872
+  weight: 0.9873
   avg_copies: 3.58
 - name: Dismember
-  weight: 0.9872
-  avg_copies: 2.23
+  weight: 0.9873
+  avg_copies: 2.24
 - name: Echoing Deeps
-  weight: 0.9872
+  weight: 0.9873
   avg_copies: 1.0
 - name: Green Sun's Zenith
-  weight: 0.9679
-  avg_copies: 3.27
+  weight: 0.9682
+  avg_copies: 3.25
 - name: Shifting Woodland
-  weight: 0.9679
+  weight: 0.9682
   avg_copies: 1.0
 - name: Otawara, Soaring City
-  weight: 0.9615
+  weight: 0.9618
   avg_copies: 1.0
 - name: Aftermath Analyst
-  weight: 0.9551
+  weight: 0.949
   avg_copies: 1.09
 - name: Cultivator Colossus
-  weight: 0.9359
+  weight: 0.9363
   avg_copies: 1.03
 - name: Six
-  weight: 0.891
+  weight: 0.8917
   avg_copies: 1.03
 - name: Bojuka Bog
-  weight: 0.8205
+  weight: 0.8217
   avg_copies: 1.0
 - name: Urza's Cave
-  weight: 0.7564
+  weight: 0.7516
   avg_copies: 1.0
 - name: Vesuva
-  weight: 0.7436
+  weight: 0.7389
   avg_copies: 1.0
 - name: Vexing Bauble
-  weight: 0.7308
+  weight: 0.7325
   avg_copies: 1.3
 - name: Malevolent Rumble
-  weight: 0.7179
+  weight: 0.7134
   avg_copies: 2.9
 - name: Trinisphere
-  weight: 0.6538
-  avg_copies: 2.65
+  weight: 0.6561
+  avg_copies: 2.64
 - name: Dryad Arbor
-  weight: 0.6154
+  weight: 0.6115
+  avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 0.5732
   avg_copies: 1.0
 - name: Lotus Field
-  weight: 0.5705
+  weight: 0.5669
   avg_copies: 2.0
-- name: Collector Ouphe
-  weight: 0.5705
-  avg_copies: 1.0
 - name: The Mycosynth Gardens
-  weight: 0.4872
-  avg_copies: 1.78
+  weight: 0.4904
+  avg_copies: 1.79
 - name: Stock Up
-  weight: 0.4231
+  weight: 0.4268
   avg_copies: 2.04
 - name: Vampires' Vengeance
-  weight: 0.3269
+  weight: 0.3248
   avg_copies: 2.27
 - name: Tireless Tracker
-  weight: 0.2564
+  weight: 0.2548
   avg_copies: 1.0
 - name: Skyline Cascade
-  weight: 0.2436
+  weight: 0.242
   avg_copies: 1.0
 - name: Soul-Guide Lantern
-  weight: 0.2372
+  weight: 0.2357
   avg_copies: 1.0
 - name: Fire Magic
-  weight: 0.2308
+  weight: 0.2293
   avg_copies: 2.39
 - name: Icetill Explorer
-  weight: 0.2179
+  weight: 0.2166
   avg_copies: 1.02
-- name: Zuran Orb
-  weight: 0.2179
-  avg_copies: 1.0
 - name: Elvish Reclaimer
-  weight: 0.2179
+  weight: 0.2166
+  avg_copies: 1.0
+- name: Zuran Orb
+  weight: 0.2166
   avg_copies: 1.0
 - name: Firespout
-  weight: 0.2051
-  avg_copies: 1.81
+  weight: 0.2102
+  avg_copies: 1.79
 - name: Soulless Jailer
-  weight: 0.1603
+  weight: 0.1592
   avg_copies: 2.24
 - name: The Wandering Minstrel
-  weight: 0.1474
+  weight: 0.1465
   avg_copies: 1.04
 - name: Explore
-  weight: 0.1026
-  avg_copies: 2.44
+  weight: 0.1083
+  avg_copies: 2.53
 - name: Keen-Eyed Curator
-  weight: 0.0897
+  weight: 0.0892
   avg_copies: 1.07
 - name: Azusa, Lost but Seeking
-  weight: 0.0833
+  weight: 0.0828
   avg_copies: 1.0
 - name: Relic of Progenitus
-  weight: 0.0705
+  weight: 0.0701
   avg_copies: 1.82
 - name: Elder Gargaroth
-  weight: 0.0641
+  weight: 0.0637
   avg_copies: 1.1
 - name: Cephalid Coliseum
-  weight: 0.0577
+  weight: 0.0573
   avg_copies: 1.0
 - name: Scavenger Grounds
-  weight: 0.0513
+  weight: 0.051
   avg_copies: 1.0
 - name: Golgari Rot Farm
-  weight: 0.0385
+  weight: 0.0382
   avg_copies: 2.0
 - name: Endurance
-  weight: 0.0385
+  weight: 0.0382
   avg_copies: 1.17
 - name: Outland Liberator
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Commercial District
-  weight: 0.0321
+  weight: 0.0382
   avg_copies: 1.0
 - name: Wooded Foothills
-  weight: 0.0321
+  weight: 0.0318
+  avg_copies: 1.0
+- name: Commercial District
+  weight: 0.0318
   avg_copies: 1.0
 - name: Dryad of the Ilysian Grove
-  weight: 0.0256
+  weight: 0.0255
   avg_copies: 2.25
 - name: Engineered Explosives
-  weight: 0.0256
+  weight: 0.0255
   avg_copies: 1.25
-- name: Insidious Fungus
-  weight: 0.0256
-  avg_copies: 1.0
-- name: Creeping Corrosion
-  weight: 0.0256
-  avg_copies: 1.0
-- name: card:mj-lnir-hammer-of-thor
-  weight: 0.0256
-  avg_copies: 1.0
 - name: Hedge Maze
-  weight: 0.0256
+  weight: 0.0255
+  avg_copies: 1.0
+- name: Insidious Fungus
+  weight: 0.0255
   avg_copies: 1.0
 - name: Valakut, the Molten Pinnacle
-  weight: 0.0256
+  weight: 0.0255
+  avg_copies: 1.0
+- name: card:mj-lnir-hammer-of-thor
+  weight: 0.0255
+  avg_copies: 1.0
+- name: Creeping Corrosion
+  weight: 0.0255
   avg_copies: 1.0
 - name: Surgical Extraction
-  weight: 0.0192
+  weight: 0.0191
   avg_copies: 2.0
-- name: Windswept Heath
-  weight: 0.0192
-  avg_copies: 1.0
 - name: Kessig Wolf Run
-  weight: 0.0192
-  avg_copies: 1.0
-- name: Heritage Reclamation
-  weight: 0.0192
+  weight: 0.0191
   avg_copies: 1.0
 - name: Pyroclasm
-  weight: 0.0192
-  avg_copies: 1.0
-- name: card:lessons-from-life
-  weight: 0.0128
-  avg_copies: 3.5
-- name: Defense Grid
-  weight: 0.0128
-  avg_copies: 2.0
-- name: Ureni, the Song Unending
-  weight: 0.0128
-  avg_copies: 1.0
-- name: Emeritus of Abundance
-  weight: 0.0128
+  weight: 0.0191
   avg_copies: 1.0
 - name: card:lumra-bellow-of-the-woods
-  weight: 0.0128
+  weight: 0.0191
   avg_copies: 1.0
+- name: Heritage Reclamation
+  weight: 0.0191
+  avg_copies: 1.0
+- name: Windswept Heath
+  weight: 0.0191
+  avg_copies: 1.0
+- name: card:lessons-from-life
+  weight: 0.0127
+  avg_copies: 3.5
+- name: Defense Grid
+  weight: 0.0127
+  avg_copies: 2.0
 - name: Cavern of Souls
-  weight: 0.0128
-  avg_copies: 1.0
-- name: Northampton Farm
-  weight: 0.0128
-  avg_copies: 1.0
-- name: Hexdrinker
-  weight: 0.0128
+  weight: 0.0127
   avg_copies: 1.0
 - name: Ghost Quarter
-  weight: 0.0128
+  weight: 0.0127
+  avg_copies: 1.0
+- name: Ureni, the Song Unending
+  weight: 0.0127
+  avg_copies: 1.0
+- name: Hexdrinker
+  weight: 0.0127
+  avg_copies: 1.0
+- name: Emeritus of Abundance
+  weight: 0.0127
+  avg_copies: 1.0
+- name: Northampton Farm
+  weight: 0.0127
   avg_copies: 1.0
 - name: card:mind-into-matter
   weight: 0.0064
@@ -248,55 +248,61 @@ top_cards:
 - name: Hurkyl's Recall
   weight: 0.0064
   avg_copies: 3.0
-- name: Snow-Covered Forest
+- name: Sheoldred's Edict
   weight: 0.0064
   avg_copies: 2.0
 - name: Botanical Sanctum
   weight: 0.0064
   avg_copies: 2.0
-- name: Sheoldred's Edict
+- name: Snow-Covered Forest
   weight: 0.0064
   avg_copies: 2.0
-- name: Fade from History
+- name: Misty Rainforest
   weight: 0.0064
   avg_copies: 1.0
-- name: Titania, Protector of Argoth
+- name: Ghost Vacuum
   weight: 0.0064
   avg_copies: 1.0
 - name: Dosan the Falling Leaf
   weight: 0.0064
   avg_copies: 1.0
-- name: Formidable Speaker
-  weight: 0.0064
-  avg_copies: 1.0
-- name: card:sakura-tribe-scout
-  weight: 0.0064
-  avg_copies: 1.0
-- name: Gemstone Caverns
-  weight: 0.0064
-  avg_copies: 1.0
-- name: Tormod's Crypt
-  weight: 0.0064
-  avg_copies: 1.0
-- name: Carnage Tyrant
-  weight: 0.0064
-  avg_copies: 1.0
-- name: Sakura-Tribe Elder
+- name: card:captain-marvel-earth-s-protector
   weight: 0.0064
   avg_copies: 1.0
 - name: card:gretchen-titchwillow
   weight: 0.0064
   avg_copies: 1.0
-- name: Turn the Earth
+- name: card:sakura-tribe-scout
+  weight: 0.0064
+  avg_copies: 1.0
+- name: Titania, Protector of Argoth
+  weight: 0.0064
+  avg_copies: 1.0
+- name: Tormod's Crypt
+  weight: 0.0064
+  avg_copies: 1.0
+- name: Fade from History
+  weight: 0.0064
+  avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.0064
+  avg_copies: 1.0
+- name: Lithomantic Barrage
+  weight: 0.0064
+  avg_copies: 1.0
+- name: Formidable Speaker
+  weight: 0.0064
+  avg_copies: 1.0
+- name: Sakura-Tribe Elder
   weight: 0.0064
   avg_copies: 1.0
 - name: Waterlogged Grove
   weight: 0.0064
   avg_copies: 1.0
-- name: Misty Rainforest
+- name: Carnage Tyrant
   weight: 0.0064
   avg_copies: 1.0
-- name: Lithomantic Barrage
+- name: Turn the Earth
   weight: 0.0064
   avg_copies: 1.0
 ---

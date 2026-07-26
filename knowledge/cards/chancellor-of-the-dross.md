@@ -7,11 +7,11 @@ name: Chancellor of the Dross
 scryfall_id: eec6d85e-6263-44b4-a91f-d51585c561c2
 set: nph
 type: Creature — Phyrexian Vampire
-meta_presence: 0.0014
+meta_presence: 0.0015
 archetypes:
   cosmogoyf-fling:
-    weight: 0.1842
-    avg_copies: 1.67
+    weight: 0.2051
+    avg_copies: 1.73
   unknown-211:
     weight: 1.0
     avg_copies: 4.0

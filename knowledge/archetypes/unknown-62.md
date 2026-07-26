@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: 'Unknown #62'
-meta_share: 0.0051
+meta_share: 0.005
 list_count: 30
 top_cards:
 - name: Solitude
@@ -114,10 +114,10 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.1667
   avg_copies: 2.0
-- name: Deafening Silence
+- name: High Noon
   weight: 0.1667
   avg_copies: 1.6
-- name: High Noon
+- name: Deafening Silence
   weight: 0.1667
   avg_copies: 1.6
 - name: Ranger-Captain of Eos
@@ -126,10 +126,10 @@ top_cards:
 - name: Haliya, Guided by Light
   weight: 0.1667
   avg_copies: 1.2
-- name: Haywire Mite
+- name: Temple Garden
   weight: 0.1667
   avg_copies: 1.0
-- name: Temple Garden
+- name: Haywire Mite
   weight: 0.1667
   avg_copies: 1.0
 - name: Erode
@@ -171,7 +171,13 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 0.0333
   avg_copies: 3.0
-- name: Obsidian Charmaw
+- name: card:geist-of-saint-traft
+  weight: 0.0333
+  avg_copies: 2.0
+- name: Floodfarm Verge
+  weight: 0.0333
+  avg_copies: 2.0
+- name: Flagstones of Trokair
   weight: 0.0333
   avg_copies: 2.0
 - name: Goblin Bombardment
@@ -180,49 +186,43 @@ top_cards:
 - name: Galvanic Discharge
   weight: 0.0333
   avg_copies: 2.0
-- name: Flagstones of Trokair
+- name: Obsidian Charmaw
   weight: 0.0333
   avg_copies: 2.0
-- name: Floodfarm Verge
-  weight: 0.0333
-  avg_copies: 2.0
-- name: card:geist-of-saint-traft
-  weight: 0.0333
-  avg_copies: 2.0
-- name: Marsh Flats
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Celestial Purge
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Ajani, Nacatl Pariah
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Otawara, Soaring City
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Elegant Parlor
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Recruiter of the Guard
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Aven Interrupter
-  weight: 0.0333
-  avg_copies: 1.0
 - name: Hydroelectric Specimen
   weight: 0.0333
   avg_copies: 1.0
 - name: Meltdown
   weight: 0.0333
   avg_copies: 1.0
-- name: Razorgrass Ambush
+- name: Aven Interrupter
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Elegant Parlor
   weight: 0.0333
   avg_copies: 1.0
 - name: Flitterwing Nuisance
   weight: 0.0333
   avg_copies: 1.0
+- name: Celestial Purge
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Otawara, Soaring City
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Ajani, Nacatl Pariah
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Recruiter of the Guard
+  weight: 0.0333
+  avg_copies: 1.0
 - name: card:exalted-sunborn
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Marsh Flats
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Razorgrass Ambush
   weight: 0.0333
   avg_copies: 1.0
 ---

@@ -108,10 +108,10 @@ top_cards:
 - name: Memnite
   weight: 0.3077
   avg_copies: 3.25
-- name: Damping Sphere
+- name: Portable Hole
   weight: 0.3077
   avg_copies: 2.0
-- name: Portable Hole
+- name: Damping Sphere
   weight: 0.3077
   avg_copies: 2.0
 - name: Stern Scolding
@@ -153,34 +153,34 @@ top_cards:
 - name: Mishra's Bauble
   weight: 0.0769
   avg_copies: 4.0
-- name: Containment Priest
+- name: Erode
   weight: 0.0769
   avg_copies: 2.0
-- name: Erode
+- name: Containment Priest
   weight: 0.0769
   avg_copies: 2.0
 - name: Solitude
   weight: 0.0769
   avg_copies: 2.0
-- name: Skateboard
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.0769
-  avg_copies: 1.0
-- name: card:spider-sense
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Forge Anew
+- name: Umezawa's Jitte
   weight: 0.0769
   avg_copies: 1.0
 - name: Spell Snare
   weight: 0.0769
   avg_copies: 1.0
-- name: Umezawa's Jitte
+- name: card:spider-sense
   weight: 0.0769
   avg_copies: 1.0
 - name: Stubborn Denial
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Forge Anew
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Skateboard
   weight: 0.0769
   avg_copies: 1.0
 ---

@@ -8,13 +8,13 @@ name: Phlage, Titan of Fire's Fury
 scryfall_id: e419cd0b-2449-4cc5-9ead-b9e45e271700
 set: mh3
 type: Legendary Creature — Elder Giant
-meta_presence: 0.1226
+meta_presence: 0.1213
 archetypes:
   ruby-storm:
-    weight: 0.0275
+    weight: 0.0271
     avg_copies: 1.0
   boros-energy:
-    weight: 0.5494
+    weight: 0.5424
     avg_copies: 3.82
   jeskai-energy:
     weight: 0.9624
@@ -23,7 +23,7 @@ archetypes:
     weight: 0.5306
     avg_copies: 1.59
   domain-zoo:
-    weight: 0.5426
+    weight: 0.5344
     avg_copies: 3.9
   mardu-blink:
     weight: 0.9583

@@ -7,13 +7,13 @@ name: Persist
 scryfall_id: b7a56356-91bf-42f5-ab21-af2c48e78fc3
 set: ecc
 type: Sorcery
-meta_presence: 0.0427
+meta_presence: 0.0424
 archetypes:
   goryo:
-    weight: 0.0099
+    weight: 0.0096
     avg_copies: 1.67
   domain-zoo:
-    weight: 0.0078
+    weight: 0.0076
     avg_copies: 4.0
   reanimator:
     weight: 1.0
@@ -35,7 +35,7 @@ archetypes:
     avg_copies: 3.0
   unknown-45:
     weight: 1.0
-    avg_copies: 3.71
+    avg_copies: 3.72
   unknown-50:
     weight: 1.0
     avg_copies: 4.0

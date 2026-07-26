@@ -7,14 +7,14 @@ name: Meltdown
 scryfall_id: 173369d2-dc39-4bfe-a602-b47156570365
 set: mh3
 type: Sorcery
-meta_presence: 0.1454
+meta_presence: 0.1446
 archetypes:
   ruby-storm:
-    weight: 0.1101
+    weight: 0.1086
     avg_copies: 1.33
   boros-energy:
-    weight: 0.0873
-    avg_copies: 1.23
+    weight: 0.0876
+    avg_copies: 1.24
   dimir-control:
     weight: 0.2716
     avg_copies: 2.5
@@ -25,13 +25,13 @@ archetypes:
     weight: 0.0698
     avg_copies: 1.67
   azorius-control:
-    weight: 0.012
+    weight: 0.0118
     avg_copies: 1.0
   jeskai-control:
     weight: 0.0816
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0388
+    weight: 0.0382
     avg_copies: 1.0
   mill:
     weight: 0.0303
@@ -52,16 +52,16 @@ archetypes:
     weight: 0.0806
     avg_copies: 1.2
   simic-ritual:
-    weight: 0.0465
+    weight: 0.046
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.9333
+    weight: 0.9307
     avg_copies: 1.83
   indomitable-creativity:
     weight: 0.2667
     avg_copies: 1.25
   broodscale-combo:
-    weight: 0.0079
+    weight: 0.0077
     avg_copies: 1.0
   dredge:
     weight: 0.7692
@@ -88,7 +88,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   cosmogoyf-fling:
-    weight: 0.0263
+    weight: 0.0256
     avg_copies: 1.0
   scapeshift-combo:
     weight: 0.1667
@@ -139,7 +139,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-47:
-    weight: 0.0102
+    weight: 0.0098
     avg_copies: 2.0
   unknown-53:
     weight: 1.0
@@ -172,8 +172,8 @@ archetypes:
     weight: 0.8182
     avg_copies: 2.56
   unknown-96:
-    weight: 0.7
-    avg_copies: 2.79
+    weight: 0.7143
+    avg_copies: 2.8
   unknown-90:
     weight: 1.0
     avg_copies: 1.0
@@ -226,7 +226,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-160:
-    weight: 0.0147
+    weight: 0.0143
     avg_copies: 2.0
   unknown-161:
     weight: 1.0

@@ -6,32 +6,32 @@ name: Hedge Maze
 scryfall_id: 5260f8ae-805b-4eae-badf-62de0f768867
 set: mkm
 type: Land — Forest Island
-meta_presence: 0.0765
+meta_presence: 0.0766
 archetypes:
   jeskai-energy:
     weight: 0.0075
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.0256
+    weight: 0.0255
     avg_copies: 1.0
   goryo:
-    weight: 0.1612
+    weight: 0.1576
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0843
+    weight: 0.0824
     avg_copies: 1.0
   living-end:
     weight: 1.0
     avg_copies: 1.03
   neoform-combo:
-    weight: 0.9873
-    avg_copies: 2.77
+    weight: 0.9878
+    avg_copies: 2.78
   eldrazi-ramp:
     weight: 0.0968
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.9884
-    avg_copies: 1.76
+    weight: 0.9885
+    avg_copies: 1.77
   4c-omnath:
     weight: 0.75
     avg_copies: 1.0
@@ -75,7 +75,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-97:
-    weight: 0.4167
+    weight: 0.3846
     avg_copies: 1.0
   unknown-128:
     weight: 1.0
@@ -90,7 +90,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-167:
-    weight: 0.4286
+    weight: 0.375
     avg_copies: 1.0
   unknown-171:
     weight: 1.0

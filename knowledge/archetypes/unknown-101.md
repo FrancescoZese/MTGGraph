@@ -6,28 +6,28 @@ name: 'Unknown #101'
 meta_share: 0.0012
 list_count: 7
 top_cards:
-- name: Detective's Phoenix
-  weight: 1.0
-  avg_copies: 4.0
-- name: Street Wraith
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
-- name: Hollow One
+- name: Street Wraith
+  weight: 1.0
+  avg_copies: 4.0
+- name: Detective's Phoenix
   weight: 1.0
   avg_copies: 4.0
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 2.86
-- name: Mountain
+- name: Meltdown
   weight: 1.0
   avg_copies: 2.57
-- name: Meltdown
+- name: Mountain
   weight: 1.0
   avg_copies: 2.57
 - name: Bloodstained Mire
@@ -60,10 +60,10 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.7143
   avg_copies: 3.4
-- name: Fear of Missing Out
+- name: Scalding Tarn
   weight: 0.7143
   avg_copies: 2.2
-- name: Scalding Tarn
+- name: Fear of Missing Out
   weight: 0.7143
   avg_copies: 2.2
 - name: Fatal Push
@@ -87,10 +87,10 @@ top_cards:
 - name: Magebane Lizard
   weight: 0.4286
   avg_copies: 3.33
-- name: Dragon's Rage Channeler
+- name: Vexing Bauble
   weight: 0.4286
   avg_copies: 2.67
-- name: Vexing Bauble
+- name: Dragon's Rage Channeler
   weight: 0.4286
   avg_copies: 2.67
 - name: Inti, Seneschal of the Sun
@@ -105,10 +105,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.2857
   avg_copies: 2.0
-- name: Nihil Spellbomb
+- name: Rough
   weight: 0.2857
   avg_copies: 1.5
-- name: Rough
+- name: Nihil Spellbomb
   weight: 0.2857
   avg_copies: 1.5
 - name: Pyroclasm
@@ -120,28 +120,28 @@ top_cards:
 - name: Kroxa, Titan of Death's Hunger
   weight: 0.1429
   avg_copies: 3.0
-- name: Wear
-  weight: 0.1429
-  avg_copies: 2.0
 - name: Blood Moon
   weight: 0.1429
   avg_copies: 2.0
-- name: Cool but Rude
+- name: Wear
   weight: 0.1429
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Blackcleave Cliffs
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Seal of Fire
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Sacred Foundry
   weight: 0.1429
   avg_copies: 1.0
 - name: Sheoldred's Edict
   weight: 0.1429
   avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 0.1429
+  avg_copies: 1.0
 - name: Ox of Agonas
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Seal of Fire
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Cool but Rude
   weight: 0.1429
   avg_copies: 1.0
 ---

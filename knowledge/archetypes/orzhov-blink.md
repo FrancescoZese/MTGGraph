@@ -6,13 +6,13 @@ name: Orzhov Blink
 meta_share: 0.002
 list_count: 12
 top_cards:
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 4.0
 - name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
 - name: Phelia, Exuberant Shepherd
@@ -99,10 +99,10 @@ top_cards:
 - name: Aether Vial
   weight: 0.25
   avg_copies: 4.0
-- name: Prismatic Ending
+- name: Sheoldred's Edict
   weight: 0.25
   avg_copies: 2.0
-- name: Sheoldred's Edict
+- name: Prismatic Ending
   weight: 0.25
   avg_copies: 2.0
 - name: Dawnbringer Cleric
@@ -114,16 +114,16 @@ top_cards:
 - name: Erode
   weight: 0.25
   avg_copies: 1.25
-- name: Surgical Extraction
+- name: Grafdigger's Cage
   weight: 0.25
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: card:cloak-and-dagger-entwined
   weight: 0.25
   avg_copies: 1.0
 - name: Aven Interrupter
   weight: 0.25
   avg_copies: 1.0
-- name: card:cloak-and-dagger-entwined
+- name: Surgical Extraction
   weight: 0.25
   avg_copies: 1.0
 - name: Sanctifier en-Vec
@@ -135,10 +135,10 @@ top_cards:
 - name: Polluted Delta
   weight: 0.1667
   avg_copies: 1.5
-- name: March of Otherworldly Light
+- name: Sacred Foundry
   weight: 0.1667
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: March of Otherworldly Light
   weight: 0.1667
   avg_copies: 1.0
 - name: Orim's Chant
@@ -150,12 +150,6 @@ top_cards:
 - name: Force of Despair
   weight: 0.0833
   avg_copies: 3.0
-- name: Duress
-  weight: 0.0833
-  avg_copies: 2.0
-- name: Troll of Khazad-dûm
-  weight: 0.0833
-  avg_copies: 2.0
 - name: Bloodstained Mire
   weight: 0.0833
   avg_copies: 2.0
@@ -165,28 +159,34 @@ top_cards:
 - name: End of the Hunt
   weight: 0.0833
   avg_copies: 2.0
+- name: Duress
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Troll of Khazad-dûm
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Lush Portico
+  weight: 0.0833
+  avg_copies: 1.0
 - name: Overgrown Tomb
   weight: 0.0833
   avg_copies: 1.0
 - name: Monumental Henge
   weight: 0.0833
   avg_copies: 1.0
-- name: Emptiness
+- name: Vindicate
   weight: 0.0833
   avg_copies: 1.0
 - name: Gaddock Teeg
   weight: 0.0833
   avg_copies: 1.0
-- name: Vindicate
+- name: Raucous Theater
   weight: 0.0833
   avg_copies: 1.0
 - name: Eiganjo, Seat of the Empire
   weight: 0.0833
   avg_copies: 1.0
-- name: Raucous Theater
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Lush Portico
+- name: Emptiness
   weight: 0.0833
   avg_copies: 1.0
 ---

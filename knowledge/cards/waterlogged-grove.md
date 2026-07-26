@@ -6,7 +6,7 @@ name: Waterlogged Grove
 scryfall_id: 0ab6bfbd-d2e1-4c4c-9f91-6f69c5b8e3bb
 set: mh1
 type: Land
-meta_presence: 0.0012
+meta_presence: 0.0013
 archetypes:
   amulet-titan:
     weight: 0.0064
@@ -18,6 +18,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-167:
-    weight: 0.5714
+    weight: 0.625
     avg_copies: 1.0
 ---

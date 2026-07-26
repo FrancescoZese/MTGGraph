@@ -6,16 +6,16 @@ name: Forest
 scryfall_id: f169dfb2-e4c8-46e9-8591-e51bb82da082
 set: sos
 type: Basic Land — Forest
-meta_presence: 0.1991
+meta_presence: 0.1993
 archetypes:
   eldrazi-tron:
-    weight: 0.1207
+    weight: 0.119
     avg_copies: 1.22
   amulet-titan:
     weight: 1.0
     avg_copies: 2.87
   goryo:
-    weight: 0.0066
+    weight: 0.0064
     avg_copies: 1.5
   hardened-scales:
     weight: 1.0
@@ -24,11 +24,11 @@ archetypes:
     weight: 1.0
     avg_copies: 1.01
   domain-zoo:
-    weight: 0.0078
+    weight: 0.0076
     avg_copies: 2.0
   neoform-combo:
-    weight: 0.2785
-    avg_copies: 1.5
+    weight: 0.2805
+    avg_copies: 1.52
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 1.79
@@ -36,7 +36,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.81
   simic-ritual:
-    weight: 0.0116
+    weight: 0.0115
     avg_copies: 2.0
   4c-omnath:
     weight: 1.0
@@ -46,7 +46,7 @@ archetypes:
     avg_copies: 1.05
   broodscale-combo:
     weight: 1.0
-    avg_copies: 3.09
+    avg_copies: 3.08
   elves:
     weight: 1.0
     avg_copies: 3.0
@@ -60,7 +60,7 @@ archetypes:
     weight: 1.0
     avg_copies: 6.0
   cosmogoyf-fling:
-    weight: 0.6053
+    weight: 0.5897
     avg_copies: 1.0
   scapeshift-combo:
     weight: 1.0
@@ -81,7 +81,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-6:
-    weight: 0.6
+    weight: 0.6364
     avg_copies: 1.0
   unknown-9:
     weight: 1.0
@@ -105,11 +105,11 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-45:
-    weight: 0.0357
+    weight: 0.0345
     avg_copies: 1.0
   unknown-61:
     weight: 1.0
-    avg_copies: 3.24
+    avg_copies: 3.3
   unknown-59:
     weight: 1.0
     avg_copies: 1.0
@@ -142,7 +142,7 @@ archetypes:
     avg_copies: 1.0
   unknown-97:
     weight: 1.0
-    avg_copies: 2.92
+    avg_copies: 2.77
   unknown-102:
     weight: 1.0
     avg_copies: 1.5
@@ -150,7 +150,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-126:
-    weight: 0.4615
+    weight: 0.4815
     avg_copies: 2.92
   unknown-130:
     weight: 1.0

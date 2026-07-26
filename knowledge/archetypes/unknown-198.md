@@ -6,16 +6,13 @@ name: 'Unknown #198'
 meta_share: 0.0002
 list_count: 1
 top_cards:
-- name: Consign to Memory
-  weight: 1.0
-  avg_copies: 4.0
-- name: Death's Shadow
-  weight: 1.0
-  avg_copies: 4.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Street Wraith
+- name: Flow State
+  weight: 1.0
+  avg_copies: 4.0
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
 - name: Watery Grave
@@ -24,10 +21,7 @@ top_cards:
 - name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
-- name: Flow State
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thoughtseize
+- name: Death's Shadow
   weight: 1.0
   avg_copies: 4.0
 - name: Stubborn Denial
@@ -36,10 +30,19 @@ top_cards:
 - name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
-- name: Counterspell
+- name: Thoughtseize
+  weight: 1.0
+  avg_copies: 4.0
+- name: Street Wraith
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fatal Push
   weight: 1.0
   avg_copies: 3.0
-- name: Fatal Push
+- name: Bloodstained Mire
+  weight: 1.0
+  avg_copies: 3.0
+- name: Counterspell
   weight: 1.0
   avg_copies: 3.0
 - name: Mishra's Bauble
@@ -48,13 +51,13 @@ top_cards:
 - name: Preordain
   weight: 1.0
   avg_copies: 3.0
-- name: Bloodstained Mire
-  weight: 1.0
-  avg_copies: 3.0
-- name: Toxic Deluge
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 2.0
-- name: Sink into Stupor
+- name: Harbinger of the Seas
+  weight: 1.0
+  avg_copies: 2.0
+- name: Engineered Explosives
   weight: 1.0
   avg_copies: 2.0
 - name: Nihil Spellbomb
@@ -63,34 +66,31 @@ top_cards:
 - name: Force of Negation
   weight: 1.0
   avg_copies: 2.0
-- name: Engineered Explosives
+- name: Toxic Deluge
   weight: 1.0
   avg_copies: 2.0
-- name: Harbinger of the Seas
-  weight: 1.0
-  avg_copies: 2.0
-- name: Murktide Regent
-  weight: 1.0
-  avg_copies: 1.0
-- name: Thought Scour
-  weight: 1.0
-  avg_copies: 1.0
-- name: Undercity Sewers
-  weight: 1.0
-  avg_copies: 1.0
-- name: Island
+- name: Drown in the Loch
   weight: 1.0
   avg_copies: 1.0
 - name: Kaito, Bane of Nightmares
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
-  weight: 1.0
-  avg_copies: 1.0
-- name: Drown in the Loch
-  weight: 1.0
-  avg_copies: 1.0
 - name: Scalding Tarn
+  weight: 1.0
+  avg_copies: 1.0
+- name: Thought Scour
+  weight: 1.0
+  avg_copies: 1.0
+- name: Murktide Regent
+  weight: 1.0
+  avg_copies: 1.0
+- name: Island
+  weight: 1.0
+  avg_copies: 1.0
+- name: Undercity Sewers
+  weight: 1.0
+  avg_copies: 1.0
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 ---

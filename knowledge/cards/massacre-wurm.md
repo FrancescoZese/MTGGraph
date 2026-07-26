@@ -10,6 +10,6 @@ type: Creature — Phyrexian Wurm
 meta_presence: 0.0002
 archetypes:
   goryo:
-    weight: 0.0033
+    weight: 0.0032
     avg_copies: 1.0
 ---

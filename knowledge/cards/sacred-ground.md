@@ -10,10 +10,10 @@ type: Enchantment
 meta_presence: 0.0025
 archetypes:
   boros-energy:
-    weight: 0.0029
+    weight: 0.0028
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0078
+    weight: 0.0076
     avg_copies: 1.0
   boros-ponza:
     weight: 0.0213
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.0093
     avg_copies: 1.0
   goryo2:
-    weight: 0.0625
+    weight: 0.0588
     avg_copies: 1.0
   sultai-midrange:
     weight: 0.25
@@ -31,10 +31,10 @@ archetypes:
     weight: 0.0625
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0441
+    weight: 0.0429
     avg_copies: 1.67
   unknown-167:
-    weight: 0.1429
+    weight: 0.125
     avg_copies: 3.0
   unknown-190:
     weight: 1.0

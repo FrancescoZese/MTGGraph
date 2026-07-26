@@ -16,7 +16,7 @@ archetypes:
     weight: 0.9634
     avg_copies: 1.97
   azorius-control:
-    weight: 0.0482
+    weight: 0.0471
     avg_copies: 1.2
   jeskai-control:
     weight: 0.102
@@ -28,7 +28,7 @@ archetypes:
     weight: 0.3077
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0698
+    weight: 0.069
     avg_copies: 2.5
   izzet-prowess:
     weight: 0.0033
@@ -49,8 +49,8 @@ archetypes:
     weight: 0.1818
     avg_copies: 1.5
   unknown-47:
-    weight: 0.0714
-    avg_copies: 2.0
+    weight: 0.0784
+    avg_copies: 2.12
   unknown-51:
     weight: 1.0
     avg_copies: 2.0

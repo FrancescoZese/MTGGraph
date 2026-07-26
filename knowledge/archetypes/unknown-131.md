@@ -4,37 +4,37 @@ colors:
 - U
 - B
 name: 'Unknown #131'
-meta_share: 0.0014
+meta_share: 0.0013
 list_count: 8
 top_cards:
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flooded Strand
-  weight: 1.0
-  avg_copies: 4.0
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
-- name: Solitude
-  weight: 1.0
-  avg_copies: 4.0
 - name: Ocelot Pride
-  weight: 1.0
-  avg_copies: 4.0
-- name: Quantum Riddler
   weight: 1.0
   avg_copies: 4.0
 - name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
+- name: Quantum Riddler
+  weight: 1.0
+  avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Phelia, Exuberant Shepherd
+- name: Solitude
+  weight: 1.0
+  avg_copies: 4.0
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 4.0
+- name: Starfield Shepherd
   weight: 1.0
   avg_copies: 3.75
-- name: Starfield Shepherd
+- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.75
 - name: Practiced Offense
@@ -43,10 +43,10 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 2.14
-- name: Ephemerate
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Ephemerate
   weight: 1.0
   avg_copies: 2.0
 - name: Wrath of the Skies
@@ -88,10 +88,10 @@ top_cards:
 - name: Thoughtseize
   weight: 0.625
   avg_copies: 1.83
-- name: Surgical Extraction
+- name: Nihil Spellbomb
   weight: 0.625
   avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Surgical Extraction
   weight: 0.625
   avg_copies: 1.0
 - name: Burrenton Forge-Tender

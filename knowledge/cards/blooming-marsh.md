@@ -10,7 +10,7 @@ meta_presence: 0.0097
 archetypes:
   cosmogoyf-fling:
     weight: 1.0
-    avg_copies: 3.45
+    avg_copies: 3.46
   goryo5:
     weight: 0.6957
     avg_copies: 2.12

@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.0022
 archetypes:
   ruby-storm:
-    weight: 0.0092
+    weight: 0.009
     avg_copies: 1.0
   boros-energy:
     weight: 0.0014
@@ -19,6 +19,6 @@ archetypes:
     weight: 0.0242
     avg_copies: 1.67
   broodscale-combo:
-    weight: 0.0276
+    weight: 0.027
     avg_copies: 1.86
 ---

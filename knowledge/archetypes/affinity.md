@@ -3,8 +3,8 @@ colors:
 - U
 - R
 name: Affinity
-meta_share: 0.0845
-list_count: 499
+meta_share: 0.0838
+list_count: 500
 top_cards:
 - name: Kappa Cannoneer
   weight: 1.0
@@ -49,127 +49,127 @@ top_cards:
   weight: 0.982
   avg_copies: 1.0
 - name: Galvanic Blast
-  weight: 0.9739
+  weight: 0.974
   avg_copies: 2.25
 - name: Steam Vents
-  weight: 0.9699
+  weight: 0.97
   avg_copies: 1.32
 - name: Damping Sphere
-  weight: 0.9539
-  avg_copies: 2.18
+  weight: 0.954
+  avg_copies: 2.19
 - name: Consign to Memory
-  weight: 0.9479
+  weight: 0.948
   avg_copies: 2.54
 - name: Whipflare
-  weight: 0.9479
+  weight: 0.946
   avg_copies: 1.82
 - name: Pithing Needle
-  weight: 0.9399
+  weight: 0.94
   avg_copies: 1.0
 - name: Welding Jar
-  weight: 0.9238
+  weight: 0.924
   avg_copies: 1.24
 - name: Metallic Rebuke
-  weight: 0.8537
+  weight: 0.854
   avg_copies: 2.6
 - name: Sink into Stupor
-  weight: 0.8537
+  weight: 0.854
   avg_copies: 1.9
 - name: Emry, Lurker of the Loch
-  weight: 0.7856
+  weight: 0.784
   avg_copies: 2.16
 - name: Arcbound Ravager
-  weight: 0.7575
+  weight: 0.758
   avg_copies: 1.64
 - name: Mystical Dispute
-  weight: 0.7214
+  weight: 0.722
   avg_copies: 1.44
 - name: Vexing Bauble
-  weight: 0.7214
+  weight: 0.722
   avg_copies: 1.08
 - name: Shivan Reef
-  weight: 0.6974
+  weight: 0.698
   avg_copies: 1.36
 - name: Swan Song
-  weight: 0.4609
+  weight: 0.462
   avg_copies: 1.5
 - name: Blood Moon
-  weight: 0.3848
+  weight: 0.384
   avg_copies: 1.32
 - name: Preordain
-  weight: 0.3687
-  avg_copies: 2.97
+  weight: 0.37
+  avg_copies: 2.96
 - name: Force of Negation
-  weight: 0.3547
+  weight: 0.356
   avg_copies: 1.59
 - name: Krang, Master Mind
-  weight: 0.2926
+  weight: 0.292
   avg_copies: 1.41
 - name: Grafdigger's Cage
-  weight: 0.2685
+  weight: 0.268
   avg_copies: 1.01
 - name: Hurkyl's Recall
-  weight: 0.2445
+  weight: 0.244
   avg_copies: 1.1
 - name: Harbinger of the Seas
-  weight: 0.2365
+  weight: 0.236
   avg_copies: 1.27
 - name: Strix Serenade
-  weight: 0.2325
+  weight: 0.232
   avg_copies: 1.1
 - name: Thoughtcast
-  weight: 0.2144
+  weight: 0.214
   avg_copies: 2.0
 - name: Aether Spellbomb
-  weight: 0.1503
+  weight: 0.15
   avg_copies: 1.0
 - name: Ravenous Robots
-  weight: 0.1343
+  weight: 0.134
   avg_copies: 1.44
 - name: Flusterstorm
-  weight: 0.1042
+  weight: 0.104
   avg_copies: 1.02
 - name: Ashiok, Dream Render
-  weight: 0.0842
+  weight: 0.084
   avg_copies: 1.02
 - name: Otawara, Soaring City
-  weight: 0.0721
+  weight: 0.072
   avg_copies: 1.0
 - name: Vandalblast
-  weight: 0.0581
+  weight: 0.058
   avg_copies: 1.03
 - name: Memnite
-  weight: 0.0501
+  weight: 0.05
   avg_copies: 3.04
 - name: Scalding Tarn
-  weight: 0.0501
+  weight: 0.05
   avg_copies: 2.04
 - name: Misty Rainforest
-  weight: 0.0441
+  weight: 0.044
   avg_copies: 1.86
 - name: Shattering Spree
-  weight: 0.0441
+  weight: 0.044
   avg_copies: 1.68
 - name: Thundering Falls
-  weight: 0.0441
+  weight: 0.044
   avg_copies: 1.0
 - name: The Stone Brain
-  weight: 0.0381
+  weight: 0.038
   avg_copies: 1.0
 - name: card:loki-god-of-mischief
-  weight: 0.0261
+  weight: 0.026
   avg_copies: 2.85
 - name: card:castle-doom
-  weight: 0.0261
+  weight: 0.026
   avg_copies: 1.0
 - name: Magus of the Moon
-  weight: 0.0261
+  weight: 0.026
   avg_copies: 1.0
 - name: Mox Amber
-  weight: 0.0261
+  weight: 0.026
   avg_copies: 1.0
 - name: Relic of Progenitus
-  weight: 0.0261
+  weight: 0.026
   avg_copies: 1.0
 - name: Furnace Dragon
   weight: 0.024
@@ -192,10 +192,10 @@ top_cards:
 - name: Haywire Mite
   weight: 0.018
   avg_copies: 1.08
-- name: Mountain
+- name: Lavaspur Boots
   weight: 0.018
   avg_copies: 1.0
-- name: Lavaspur Boots
+- name: Mountain
   weight: 0.018
   avg_copies: 1.0
 - name: card:curse-of-shaken-faith
@@ -205,8 +205,8 @@ top_cards:
   weight: 0.014
   avg_copies: 3.29
 - name: Abrade
-  weight: 0.01
-  avg_copies: 1.4
+  weight: 0.012
+  avg_copies: 1.33
 - name: card:twinshot-sniper
   weight: 0.01
   avg_copies: 1.0
@@ -222,25 +222,28 @@ top_cards:
 - name: Thought Monitor
   weight: 0.008
   avg_copies: 1.25
-- name: Detect Intrusion
+- name: Wear
   weight: 0.004
   avg_copies: 2.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.004
   avg_copies: 2.0
-- name: Wear
+- name: Detect Intrusion
   weight: 0.004
   avg_copies: 2.0
-- name: Gemstone Caverns
+- name: Umezawa's Jitte
   weight: 0.004
   avg_copies: 1.0
-- name: Umezawa's Jitte
+- name: Spell Snare
+  weight: 0.004
+  avg_copies: 1.0
+- name: Echoing Deeps
   weight: 0.004
   avg_copies: 1.0
 - name: Void Mirror
   weight: 0.004
   avg_copies: 1.0
-- name: Echoing Deeps
+- name: Gemstone Caverns
   weight: 0.004
   avg_copies: 1.0
 - name: card:pyrite-spellbomb
@@ -249,46 +252,52 @@ top_cards:
 - name: Hallowed Fountain
   weight: 0.004
   avg_copies: 1.0
-- name: Spell Snare
-  weight: 0.004
-  avg_copies: 1.0
 - name: Portable Hole
   weight: 0.002
   avg_copies: 3.0
-- name: Glimmervoid
-  weight: 0.002
-  avg_copies: 2.0
-- name: Disruptor Flute
+- name: Magebane Lizard
   weight: 0.002
   avg_copies: 2.0
 - name: Into the Flood Maw
   weight: 0.002
   avg_copies: 2.0
-- name: Cursed Totem
-  weight: 0.002
-  avg_copies: 2.0
-- name: Magebane Lizard
+- name: Prismari Charm
   weight: 0.002
   avg_copies: 2.0
 - name: Invasive Surgery
   weight: 0.002
   avg_copies: 2.0
-- name: Patchwork Automaton
+- name: Glimmervoid
   weight: 0.002
   avg_copies: 2.0
 - name: Dispatch
   weight: 0.002
   avg_copies: 2.0
-- name: Prismari Charm
+- name: Disruptor Flute
   weight: 0.002
   avg_copies: 2.0
-- name: Breeding Pool
+- name: Patchwork Automaton
+  weight: 0.002
+  avg_copies: 2.0
+- name: Cursed Totem
+  weight: 0.002
+  avg_copies: 2.0
+- name: Minamo, School at Water's Edge
   weight: 0.002
   avg_copies: 1.0
-- name: Zuran Orb
+- name: Ghirapur Aether Grid
+  weight: 0.002
+  avg_copies: 1.0
+- name: Chandra, Spark Hunter
   weight: 0.002
   avg_copies: 1.0
 - name: Torpor Orb
+  weight: 0.002
+  avg_copies: 1.0
+- name: Jokulmorder
+  weight: 0.002
+  avg_copies: 1.0
+- name: Zuran Orb
   weight: 0.002
   avg_copies: 1.0
 - name: Sacred Foundry
@@ -297,25 +306,16 @@ top_cards:
 - name: Lithomantic Barrage
   weight: 0.002
   avg_copies: 1.0
-- name: Jokulmorder
-  weight: 0.002
-  avg_copies: 1.0
-- name: Spell Pierce
-  weight: 0.002
-  avg_copies: 1.0
-- name: Minamo, School at Water's Edge
-  weight: 0.002
-  avg_copies: 1.0
-- name: Ghirapur Aether Grid
+- name: Waterlogged Grove
   weight: 0.002
   avg_copies: 1.0
 - name: Cranial Plating
   weight: 0.002
   avg_copies: 1.0
-- name: Chandra, Spark Hunter
+- name: Spell Pierce
   weight: 0.002
   avg_copies: 1.0
-- name: Waterlogged Grove
+- name: Breeding Pool
   weight: 0.002
   avg_copies: 1.0
 ---

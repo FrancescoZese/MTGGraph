@@ -6,13 +6,13 @@ name: Mountain
 scryfall_id: a642c7b1-d4d1-4125-a66d-560438e5ee51
 set: sos
 type: Basic Land — Mountain
-meta_presence: 0.3659
+meta_presence: 0.3655
 archetypes:
   ruby-storm:
-    weight: 0.9862
-    avg_copies: 3.0
+    weight: 0.9864
+    avg_copies: 3.01
   boros-energy:
-    weight: 0.8627
+    weight: 0.8644
     avg_copies: 1.01
   mono-blue-belcher:
     weight: 0.2073
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.018
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.9612
+    weight: 0.9618
     avg_copies: 1.0
   reanimator:
     weight: 0.1111
@@ -48,7 +48,7 @@ archetypes:
     weight: 0.9858
     avg_copies: 1.24
   izzet-prowess:
-    weight: 0.9933
+    weight: 0.9934
     avg_copies: 2.39
   indomitable-creativity:
     weight: 1.0
@@ -78,7 +78,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.0263
+    weight: 0.0256
     avg_copies: 1.0
   scapeshift-combo:
     weight: 0.5
@@ -117,7 +117,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-6:
-    weight: 0.4
+    weight: 0.3636
     avg_copies: 1.0
   unknown-1:
     weight: 1.0
@@ -220,7 +220,7 @@ archetypes:
     avg_copies: 10.0
   unknown-96:
     weight: 1.0
-    avg_copies: 2.45
+    avg_copies: 2.52
   unknown-98:
     weight: 1.0
     avg_copies: 3.38
@@ -289,7 +289,7 @@ archetypes:
     avg_copies: 1.67
   unknown-160:
     weight: 1.0
-    avg_copies: 1.82
+    avg_copies: 1.83
   unknown-161:
     weight: 1.0
     avg_copies: 2.0

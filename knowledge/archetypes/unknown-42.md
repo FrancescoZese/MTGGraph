@@ -2,7 +2,7 @@
 colors:
 - U
 name: 'Unknown #42'
-meta_share: 0.0019
+meta_share: 0.0018
 list_count: 11
 top_cards:
 - name: Island
@@ -17,13 +17,13 @@ top_cards:
 - name: Master of the Pearl Trident
   weight: 1.0
   avg_copies: 3.73
-- name: Sink into Stupor
-  weight: 1.0
-  avg_copies: 3.64
 - name: Vodalian Hexcatcher
   weight: 1.0
   avg_copies: 3.64
 - name: Aether Vial
+  weight: 1.0
+  avg_copies: 3.64
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 3.64
 - name: Harbinger of the Seas
@@ -92,19 +92,19 @@ top_cards:
 - name: Mistcaller
   weight: 0.0909
   avg_copies: 3.0
-- name: Glasspool Mimic
+- name: Hurkyl's Recall
   weight: 0.0909
   avg_copies: 2.0
-- name: Hurkyl's Recall
+- name: Glasspool Mimic
   weight: 0.0909
   avg_copies: 2.0
 - name: Spell Pierce
   weight: 0.0909
   avg_copies: 2.0
-- name: Oboro, Palace in the Clouds
+- name: Gloomlake Verge
   weight: 0.0909
   avg_copies: 1.0
-- name: Gloomlake Verge
+- name: Oboro, Palace in the Clouds
   weight: 0.0909
   avg_copies: 1.0
 ---

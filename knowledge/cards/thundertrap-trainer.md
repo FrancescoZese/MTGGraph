@@ -13,16 +13,16 @@ archetypes:
     weight: 0.4878
     avg_copies: 3.92
   azorius-control:
-    weight: 0.0241
+    weight: 0.0235
     avg_copies: 4.0
   jeskai-control:
     weight: 0.0612
     avg_copies: 3.0
   neoform-combo:
-    weight: 0.1139
-    avg_copies: 2.22
+    weight: 0.122
+    avg_copies: 2.2
   simic-ritual:
-    weight: 0.0116
+    weight: 0.0115
     avg_copies: 2.0
   izzet-wizards:
     weight: 0.1667

@@ -6,10 +6,7 @@ name: 'Unknown #195'
 meta_share: 0.0003
 list_count: 2
 top_cards:
-- name: Urza's Saga
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:super-soldier-serum
+- name: Kappa Cannoneer
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline Axe
@@ -18,22 +15,25 @@ top_cards:
 - name: Memnite
   weight: 1.0
   avg_copies: 4.0
-- name: Kappa Cannoneer
+- name: Ornithopter
   weight: 1.0
   avg_copies: 4.0
 - name: card:slippery-bogle
   weight: 1.0
   avg_copies: 4.0
-- name: Mox Opal
+- name: card:super-soldier-serum
   weight: 1.0
   avg_copies: 4.0
-- name: Welding Jar
+- name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
 - name: Colossus Hammer
   weight: 1.0
   avg_copies: 4.0
-- name: Ornithopter
+- name: Urza's Saga
+  weight: 1.0
+  avg_copies: 4.0
+- name: Welding Jar
   weight: 1.0
   avg_copies: 4.0
 - name: card:doc-ock-s-tentacles
@@ -42,25 +42,25 @@ top_cards:
 - name: Puresteel Paladin
   weight: 1.0
   avg_copies: 3.5
-- name: Consign to Memory
+- name: Metallic Rebuke
   weight: 1.0
   avg_copies: 3.0
-- name: Seachrome Coast
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 3.0
-- name: Metallic Rebuke
+- name: Seachrome Coast
   weight: 1.0
   avg_copies: 3.0
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 2.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 2.0
 - name: Hallowed Fountain
-  weight: 1.0
-  avg_copies: 2.0
-- name: Flooded Strand
   weight: 1.0
   avg_copies: 2.0
 - name: Plains
@@ -72,19 +72,19 @@ top_cards:
 - name: Rest in Peace
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowspear
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Shadowspear
   weight: 1.0
   avg_copies: 1.0
 - name: card:all-that-glitters
   weight: 0.5
   avg_copies: 4.0
-- name: Tormod's Crypt
+- name: Pithing Needle
   weight: 0.5
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Tormod's Crypt
   weight: 0.5
   avg_copies: 1.0
 ---

@@ -5,7 +5,7 @@ colors:
 - B
 name: Esper Blink
 meta_share: 0.0181
-list_count: 107
+list_count: 108
 top_cards:
 - name: Solitude
   weight: 1.0
@@ -18,19 +18,19 @@ top_cards:
   avg_copies: 3.81
 - name: Marsh Flats
   weight: 1.0
-  avg_copies: 3.8
+  avg_copies: 3.81
 - name: Phelia, Exuberant Shepherd
   weight: 1.0
-  avg_copies: 3.79
+  avg_copies: 3.8
 - name: Witch Enchanter
   weight: 1.0
   avg_copies: 3.03
 - name: Wrath of the Skies
   weight: 1.0
-  avg_copies: 2.37
+  avg_copies: 2.36
 - name: Godless Shrine
   weight: 1.0
-  avg_copies: 1.67
+  avg_copies: 1.68
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.07
@@ -44,187 +44,187 @@ top_cards:
   weight: 0.9907
   avg_copies: 2.91
 - name: Quantum Riddler
-  weight: 0.9813
-  avg_copies: 3.59
+  weight: 0.9815
+  avg_copies: 3.6
 - name: Plains
-  weight: 0.9813
-  avg_copies: 1.54
+  weight: 0.9815
+  avg_copies: 1.55
 - name: Swamp
-  weight: 0.9813
+  weight: 0.9815
   avg_copies: 1.02
 - name: Shadowy Backstreet
-  weight: 0.972
+  weight: 0.9722
   avg_copies: 1.0
 - name: Thoughtseize
-  weight: 0.9626
-  avg_copies: 3.45
+  weight: 0.963
+  avg_copies: 3.46
 - name: Polluted Delta
-  weight: 0.9626
+  weight: 0.963
   avg_copies: 1.62
 - name: Boggart Trawler
-  weight: 0.9626
+  weight: 0.963
   avg_copies: 1.01
-- name: Undercity Sewers
-  weight: 0.9626
-  avg_copies: 1.0
 - name: Fatal Push
-  weight: 0.9533
+  weight: 0.9537
   avg_copies: 3.45
 - name: Flickerwisp
-  weight: 0.9533
-  avg_copies: 2.21
-- name: Emperor of Bones
-  weight: 0.9533
+  weight: 0.9537
   avg_copies: 2.2
+- name: Emperor of Bones
+  weight: 0.9537
+  avg_copies: 2.18
+- name: Undercity Sewers
+  weight: 0.9537
+  avg_copies: 1.0
 - name: Teferi, Time Raveler
-  weight: 0.9252
+  weight: 0.9259
   avg_copies: 1.63
 - name: Consign to Memory
-  weight: 0.9065
-  avg_copies: 2.42
+  weight: 0.9074
+  avg_copies: 2.44
 - name: High Noon
-  weight: 0.8972
+  weight: 0.8889
   avg_copies: 2.18
 - name: Prismatic Ending
-  weight: 0.8411
+  weight: 0.8333
   avg_copies: 1.32
 - name: Mystical Dispute
-  weight: 0.785
-  avg_copies: 1.95
+  weight: 0.787
+  avg_copies: 1.96
 - name: Damping Sphere
-  weight: 0.5421
+  weight: 0.5463
   avg_copies: 2.29
-- name: Clarion Conqueror
-  weight: 0.5234
-  avg_copies: 1.36
 - name: Island
-  weight: 0.5234
+  weight: 0.5278
   avg_copies: 1.02
+- name: Clarion Conqueror
+  weight: 0.5185
+  avg_copies: 1.36
 - name: White Orchid Phantom
-  weight: 0.4486
+  weight: 0.4444
   avg_copies: 2.0
 - name: Orcish Bowmasters
-  weight: 0.3551
+  weight: 0.3611
   avg_copies: 2.05
 - name: Psychic Frog
-  weight: 0.271
+  weight: 0.2685
   avg_copies: 3.21
 - name: Nihil Spellbomb
-  weight: 0.271
+  weight: 0.2685
   avg_copies: 1.66
-- name: Bleachbone Verge
-  weight: 0.2336
-  avg_copies: 1.12
 - name: March of Otherworldly Light
-  weight: 0.2336
+  weight: 0.2407
   avg_copies: 1.06
+- name: Bleachbone Verge
+  weight: 0.2315
+  avg_copies: 1.12
+- name: Ashiok, Dream Render
+  weight: 0.1852
+  avg_copies: 1.75
 - name: Surgical Extraction
-  weight: 0.1869
+  weight: 0.1852
   avg_copies: 1.35
 - name: Elesh Norn, Mother of Machines
-  weight: 0.1869
+  weight: 0.1852
   avg_copies: 1.0
-- name: Ashiok, Dream Render
-  weight: 0.1776
-  avg_copies: 1.79
 - name: End of the Hunt
-  weight: 0.1589
+  weight: 0.1574
   avg_copies: 1.12
 - name: Drannith Magistrate
-  weight: 0.1495
+  weight: 0.1481
   avg_copies: 1.56
 - name: Force of Despair
-  weight: 0.0841
+  weight: 0.0833
   avg_copies: 1.67
 - name: Erode
-  weight: 0.0748
-  avg_copies: 1.43
+  weight: 0.0833
+  avg_copies: 1.47
 - name: Skycoach Conductor
-  weight: 0.0561
+  weight: 0.0556
   avg_copies: 1.0
 - name: Ketramose, the New Dawn
-  weight: 0.0467
+  weight: 0.0463
   avg_copies: 2.2
 - name: Force of Negation
-  weight: 0.0467
+  weight: 0.0463
   avg_copies: 2.0
 - name: Strix Serenade
-  weight: 0.0467
+  weight: 0.0463
   avg_copies: 1.5
 - name: Kavaero, Mind-Bitten
-  weight: 0.0374
+  weight: 0.037
   avg_copies: 1.0
 - name: Chalice of the Void
-  weight: 0.0374
+  weight: 0.037
   avg_copies: 1.0
-- name: Deafening Silence
-  weight: 0.028
+- name: Subtlety
+  weight: 0.0278
   avg_copies: 2.33
 - name: Practiced Offense
-  weight: 0.028
+  weight: 0.0278
   avg_copies: 2.33
-- name: Subtlety
-  weight: 0.028
+- name: Deafening Silence
+  weight: 0.0278
   avg_copies: 2.33
+- name: Abhorrent Oculus
+  weight: 0.0278
+  avg_copies: 2.0
 - name: Graveyard Trespasser
-  weight: 0.028
+  weight: 0.0278
   avg_copies: 2.0
 - name: Northampton Farm
-  weight: 0.028
-  avg_copies: 2.0
-- name: Abhorrent Oculus
-  weight: 0.028
+  weight: 0.0278
   avg_copies: 2.0
 - name: Orim's Chant
-  weight: 0.028
+  weight: 0.0278
   avg_copies: 1.67
-- name: Celestial Purge
-  weight: 0.028
+- name: Emrakul, the Aeons Torn
+  weight: 0.0278
   avg_copies: 1.0
 - name: Ghost Vacuum
-  weight: 0.028
-  avg_copies: 1.0
-- name: Emrakul, the Aeons Torn
-  weight: 0.028
+  weight: 0.0278
   avg_copies: 1.0
 - name: Boromir, Warden of the Tower
-  weight: 0.028
+  weight: 0.0278
   avg_copies: 1.0
-- name: Guide of Souls
-  weight: 0.0187
-  avg_copies: 4.0
+- name: Celestial Purge
+  weight: 0.0278
+  avg_copies: 1.0
 - name: Ocelot Pride
-  weight: 0.0187
+  weight: 0.0185
+  avg_copies: 4.0
+- name: Guide of Souls
+  weight: 0.0185
   avg_copies: 4.0
 - name: Relic of Progenitus
-  weight: 0.0187
+  weight: 0.0185
   avg_copies: 2.33
 - name: Vexing Bauble
-  weight: 0.0187
+  weight: 0.0185
   avg_copies: 2.0
-- name: Sanctifier en-Vec
-  weight: 0.0187
+- name: Floodfarm Verge
+  weight: 0.0185
   avg_copies: 1.0
 - name: Hydroelectric Specimen
-  weight: 0.0187
-  avg_copies: 1.0
-- name: Snow-Covered Swamp
-  weight: 0.0187
+  weight: 0.0185
   avg_copies: 1.0
 - name: Damn
-  weight: 0.0187
+  weight: 0.0185
   avg_copies: 1.0
 - name: Snow-Covered Island
-  weight: 0.0187
+  weight: 0.0185
+  avg_copies: 1.0
+- name: Snow-Covered Swamp
+  weight: 0.0185
+  avg_copies: 1.0
+- name: Sanctifier en-Vec
+  weight: 0.0185
   avg_copies: 1.0
 - name: Snow-Covered Plains
-  weight: 0.0187
+  weight: 0.0185
   avg_copies: 1.0
 - name: Pest Control
-  weight: 0.0187
-  avg_copies: 1.0
-- name: Floodfarm Verge
-  weight: 0.0187
+  weight: 0.0185
   avg_copies: 1.0
 - name: No More Lies
   weight: 0.0093
@@ -238,52 +238,52 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 0.0093
   avg_copies: 2.0
-- name: Supreme Verdict
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Faerie Macabre
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Rest in Peace
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Exorcise
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Windswept Heath
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Wonder
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Spell Pierce
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Sacred Ground
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Emeritus of Ideation
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Path to Exile
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Emptiness
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Stony Silence
+- name: Cling to Dust
   weight: 0.0093
   avg_copies: 1.0
 - name: Kataki, War's Wage
   weight: 0.0093
   avg_copies: 1.0
-- name: Cling to Dust
+- name: Emeritus of Ideation
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Stony Silence
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Wonder
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Emptiness
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Sacred Ground
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Path to Exile
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Faerie Macabre
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Windswept Heath
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
   weight: 0.0093
   avg_copies: 1.0
 - name: Darkblast
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Exorcise
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Rest in Peace
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Spell Pierce
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Supreme Verdict
   weight: 0.0093
   avg_copies: 1.0
 ---
