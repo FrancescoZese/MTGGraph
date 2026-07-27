@@ -6,31 +6,31 @@ name: 'Unknown #52'
 meta_share: 0.0018
 list_count: 11
 top_cards:
-- name: Orcish Bowmasters
-  weight: 1.0
-  avg_copies: 4.0
-- name: Warren Soultrader
-  weight: 1.0
-  avg_copies: 4.0
-- name: Phyrexian Tower
-  weight: 1.0
-  avg_copies: 4.0
 - name: Shambling Ghast
   weight: 1.0
   avg_copies: 4.0
 - name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
-- name: Gravecrawler
-  weight: 1.0
-  avg_copies: 4.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Verdant Catacombs
+- name: Marionette Apprentice
   weight: 1.0
   avg_copies: 4.0
-- name: Marionette Apprentice
+- name: Orcish Bowmasters
+  weight: 1.0
+  avg_copies: 4.0
+- name: Phyrexian Tower
+  weight: 1.0
+  avg_copies: 4.0
+- name: Warren Soultrader
+  weight: 1.0
+  avg_copies: 4.0
+- name: Gravecrawler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
 - name: Phoenix Fleet Airship
@@ -72,13 +72,13 @@ top_cards:
 - name: Sephiroth, Fabled SOLDIER
   weight: 1.0
   avg_copies: 1.0
-- name: Bloodstained Mire
+- name: Shatter Assumptions
   weight: 1.0
   avg_copies: 1.0
 - name: Spymaster's Vault
   weight: 1.0
   avg_copies: 1.0
-- name: Shatter Assumptions
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.0
 - name: Break the Ice
@@ -87,10 +87,10 @@ top_cards:
 - name: Polluted Delta
   weight: 0.6364
   avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Haywire Mite
   weight: 0.2727
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Nurturing Peatland
   weight: 0.2727
   avg_copies: 1.0
 - name: Graveyard Trespasser

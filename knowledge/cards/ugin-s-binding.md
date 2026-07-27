@@ -6,11 +6,11 @@ name: Ugin's Binding
 scryfall_id: be13786a-f967-456b-bbc6-f4312467a827
 set: mh3
 type: Instant
-meta_presence: 0.0005
+meta_presence: 0.0007
 archetypes:
   mono-blue-tron:
-    weight: 0.0909
-    avg_copies: 1.5
+    weight: 0.1304
+    avg_copies: 1.33
   unknown-194:
     weight: 0.5
     avg_copies: 2.0

@@ -11,7 +11,7 @@ meta_presence: 0.0283
 archetypes:
   amulet-titan:
     weight: 1.0
-    avg_copies: 3.44
+    avg_copies: 3.43
   unknown-76:
     weight: 1.0
     avg_copies: 4.0

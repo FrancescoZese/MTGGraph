@@ -6,10 +6,10 @@ name: Shadowy Backstreet
 scryfall_id: 69c1b656-1d67-499c-bf0f-417682a86c7d
 set: mkm
 type: Land — Plains Swamp
-meta_presence: 0.0888
+meta_presence: 0.0886
 archetypes:
   goryo:
-    weight: 0.9839
+    weight: 0.9841
     avg_copies: 1.0
   domain-zoo:
     weight: 0.0076
@@ -21,7 +21,7 @@ archetypes:
     weight: 0.9583
     avg_copies: 1.0
   esper-blink:
-    weight: 0.9722
+    weight: 0.9725
     avg_copies: 1.0
   orzhov-blink:
     weight: 1.0
@@ -45,7 +45,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-68:
-    weight: 0.9231
+    weight: 0.925
     avg_copies: 1.0
   unknown-74:
     weight: 1.0

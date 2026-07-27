@@ -7,10 +7,10 @@ name: Smash to Smithereens
 scryfall_id: 655c489f-bffb-45a4-8e7c-2d1a35220197
 set: ori
 type: Instant
-meta_presence: 0.0044
+meta_presence: 0.0043
 archetypes:
   burn:
-    weight: 0.5405
+    weight: 0.5263
     avg_copies: 2.35
   izzet-prowess:
     weight: 0.0033

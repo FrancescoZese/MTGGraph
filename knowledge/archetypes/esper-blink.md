@@ -4,8 +4,8 @@ colors:
 - U
 - B
 name: Esper Blink
-meta_share: 0.0181
-list_count: 108
+meta_share: 0.018
+list_count: 109
 top_cards:
 - name: Solitude
   weight: 1.0
@@ -15,7 +15,7 @@ top_cards:
   avg_copies: 3.93
 - name: Flooded Strand
   weight: 1.0
-  avg_copies: 3.81
+  avg_copies: 3.82
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 3.81
@@ -27,7 +27,7 @@ top_cards:
   avg_copies: 3.03
 - name: Wrath of the Skies
   weight: 1.0
-  avg_copies: 2.36
+  avg_copies: 2.37
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.68
@@ -41,250 +41,250 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Ephemerate
-  weight: 0.9907
+  weight: 0.9908
   avg_copies: 2.91
 - name: Quantum Riddler
-  weight: 0.9815
+  weight: 0.9817
   avg_copies: 3.6
 - name: Plains
-  weight: 0.9815
+  weight: 0.9817
   avg_copies: 1.55
 - name: Swamp
-  weight: 0.9815
+  weight: 0.9817
   avg_copies: 1.02
 - name: Shadowy Backstreet
-  weight: 0.9722
+  weight: 0.9725
   avg_copies: 1.0
 - name: Thoughtseize
-  weight: 0.963
+  weight: 0.9633
   avg_copies: 3.46
 - name: Polluted Delta
-  weight: 0.963
-  avg_copies: 1.62
+  weight: 0.9633
+  avg_copies: 1.63
 - name: Boggart Trawler
-  weight: 0.963
+  weight: 0.9633
   avg_copies: 1.01
 - name: Fatal Push
-  weight: 0.9537
+  weight: 0.9541
   avg_copies: 3.45
 - name: Flickerwisp
-  weight: 0.9537
+  weight: 0.9541
   avg_copies: 2.2
 - name: Emperor of Bones
-  weight: 0.9537
+  weight: 0.9541
   avg_copies: 2.18
 - name: Undercity Sewers
-  weight: 0.9537
+  weight: 0.9541
   avg_copies: 1.0
 - name: Teferi, Time Raveler
-  weight: 0.9259
+  weight: 0.9266
   avg_copies: 1.63
 - name: Consign to Memory
-  weight: 0.9074
-  avg_copies: 2.44
+  weight: 0.9083
+  avg_copies: 2.42
 - name: High Noon
-  weight: 0.8889
+  weight: 0.8899
   avg_copies: 2.18
 - name: Prismatic Ending
-  weight: 0.8333
-  avg_copies: 1.32
+  weight: 0.8349
+  avg_copies: 1.31
 - name: Mystical Dispute
-  weight: 0.787
-  avg_copies: 1.96
+  weight: 0.789
+  avg_copies: 1.98
 - name: Damping Sphere
-  weight: 0.5463
+  weight: 0.5413
   avg_copies: 2.29
 - name: Island
-  weight: 0.5278
+  weight: 0.5229
   avg_copies: 1.02
 - name: Clarion Conqueror
-  weight: 0.5185
+  weight: 0.5138
   avg_copies: 1.36
 - name: White Orchid Phantom
-  weight: 0.4444
-  avg_copies: 2.0
+  weight: 0.4495
+  avg_copies: 2.02
 - name: Orcish Bowmasters
-  weight: 0.3611
+  weight: 0.3578
   avg_copies: 2.05
 - name: Psychic Frog
-  weight: 0.2685
+  weight: 0.2661
   avg_copies: 3.21
 - name: Nihil Spellbomb
-  weight: 0.2685
+  weight: 0.2661
   avg_copies: 1.66
 - name: March of Otherworldly Light
-  weight: 0.2407
+  weight: 0.2385
   avg_copies: 1.06
 - name: Bleachbone Verge
-  weight: 0.2315
+  weight: 0.2294
   avg_copies: 1.12
 - name: Ashiok, Dream Render
-  weight: 0.1852
+  weight: 0.1835
   avg_copies: 1.75
 - name: Surgical Extraction
-  weight: 0.1852
+  weight: 0.1835
   avg_copies: 1.35
 - name: Elesh Norn, Mother of Machines
-  weight: 0.1852
+  weight: 0.1835
   avg_copies: 1.0
 - name: End of the Hunt
-  weight: 0.1574
+  weight: 0.156
   avg_copies: 1.12
 - name: Drannith Magistrate
-  weight: 0.1481
+  weight: 0.1468
   avg_copies: 1.56
 - name: Force of Despair
-  weight: 0.0833
+  weight: 0.0826
   avg_copies: 1.67
 - name: Erode
-  weight: 0.0833
+  weight: 0.0826
   avg_copies: 1.47
 - name: Skycoach Conductor
-  weight: 0.0556
+  weight: 0.055
   avg_copies: 1.0
 - name: Ketramose, the New Dawn
-  weight: 0.0463
+  weight: 0.0459
   avg_copies: 2.2
 - name: Force of Negation
-  weight: 0.0463
+  weight: 0.0459
   avg_copies: 2.0
 - name: Strix Serenade
-  weight: 0.0463
+  weight: 0.0459
   avg_copies: 1.5
 - name: Kavaero, Mind-Bitten
-  weight: 0.037
+  weight: 0.0367
   avg_copies: 1.0
 - name: Chalice of the Void
-  weight: 0.037
+  weight: 0.0367
   avg_copies: 1.0
+- name: Deafening Silence
+  weight: 0.0275
+  avg_copies: 2.33
 - name: Subtlety
-  weight: 0.0278
+  weight: 0.0275
   avg_copies: 2.33
 - name: Practiced Offense
-  weight: 0.0278
+  weight: 0.0275
   avg_copies: 2.33
-- name: Deafening Silence
-  weight: 0.0278
-  avg_copies: 2.33
-- name: Abhorrent Oculus
-  weight: 0.0278
+- name: Northampton Farm
+  weight: 0.0275
   avg_copies: 2.0
 - name: Graveyard Trespasser
-  weight: 0.0278
+  weight: 0.0275
   avg_copies: 2.0
-- name: Northampton Farm
-  weight: 0.0278
+- name: Abhorrent Oculus
+  weight: 0.0275
   avg_copies: 2.0
 - name: Orim's Chant
-  weight: 0.0278
+  weight: 0.0275
   avg_copies: 1.67
-- name: Emrakul, the Aeons Torn
-  weight: 0.0278
+- name: Celestial Purge
+  weight: 0.0275
   avg_copies: 1.0
-- name: Ghost Vacuum
-  weight: 0.0278
+- name: Emrakul, the Aeons Torn
+  weight: 0.0275
   avg_copies: 1.0
 - name: Boromir, Warden of the Tower
-  weight: 0.0278
+  weight: 0.0275
   avg_copies: 1.0
-- name: Celestial Purge
-  weight: 0.0278
+- name: Ghost Vacuum
+  weight: 0.0275
   avg_copies: 1.0
-- name: Ocelot Pride
-  weight: 0.0185
-  avg_copies: 4.0
 - name: Guide of Souls
-  weight: 0.0185
+  weight: 0.0183
+  avg_copies: 4.0
+- name: Ocelot Pride
+  weight: 0.0183
   avg_copies: 4.0
 - name: Relic of Progenitus
-  weight: 0.0185
+  weight: 0.0183
   avg_copies: 2.33
 - name: Vexing Bauble
-  weight: 0.0185
+  weight: 0.0183
   avg_copies: 2.0
-- name: Floodfarm Verge
-  weight: 0.0185
-  avg_copies: 1.0
 - name: Hydroelectric Specimen
-  weight: 0.0185
-  avg_copies: 1.0
-- name: Damn
-  weight: 0.0185
+  weight: 0.0183
   avg_copies: 1.0
 - name: Snow-Covered Island
-  weight: 0.0185
-  avg_copies: 1.0
-- name: Snow-Covered Swamp
-  weight: 0.0185
-  avg_copies: 1.0
-- name: Sanctifier en-Vec
-  weight: 0.0185
+  weight: 0.0183
   avg_copies: 1.0
 - name: Snow-Covered Plains
-  weight: 0.0185
+  weight: 0.0183
+  avg_copies: 1.0
+- name: Floodfarm Verge
+  weight: 0.0183
   avg_copies: 1.0
 - name: Pest Control
-  weight: 0.0185
+  weight: 0.0183
+  avg_copies: 1.0
+- name: Damn
+  weight: 0.0183
+  avg_copies: 1.0
+- name: Sanctifier en-Vec
+  weight: 0.0183
+  avg_copies: 1.0
+- name: Snow-Covered Swamp
+  weight: 0.0183
   avg_copies: 1.0
 - name: No More Lies
-  weight: 0.0093
+  weight: 0.0092
   avg_copies: 4.0
 - name: card:loki-god-of-mischief
-  weight: 0.0093
+  weight: 0.0092
   avg_copies: 3.0
-- name: Vindicate
-  weight: 0.0093
-  avg_copies: 2.0
 - name: Sheoldred's Edict
-  weight: 0.0093
+  weight: 0.0092
+  avg_copies: 2.0
+- name: Vindicate
+  weight: 0.0092
   avg_copies: 2.0
 - name: Cling to Dust
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Kataki, War's Wage
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Emeritus of Ideation
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Stony Silence
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Wonder
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Emptiness
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Sacred Ground
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Path to Exile
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Faerie Macabre
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Windswept Heath
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Darkblast
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Exorcise
-  weight: 0.0093
+  weight: 0.0092
   avg_copies: 1.0
 - name: Rest in Peace
-  weight: 0.0093
+  weight: 0.0092
   avg_copies: 1.0
-- name: Spell Pierce
-  weight: 0.0093
+- name: Darkblast
+  weight: 0.0092
+  avg_copies: 1.0
+- name: Emptiness
+  weight: 0.0092
+  avg_copies: 1.0
+- name: Windswept Heath
+  weight: 0.0092
+  avg_copies: 1.0
+- name: Path to Exile
+  weight: 0.0092
   avg_copies: 1.0
 - name: Supreme Verdict
-  weight: 0.0093
+  weight: 0.0092
+  avg_copies: 1.0
+- name: Sacred Ground
+  weight: 0.0092
+  avg_copies: 1.0
+- name: Faerie Macabre
+  weight: 0.0092
+  avg_copies: 1.0
+- name: Spell Pierce
+  weight: 0.0092
+  avg_copies: 1.0
+- name: Stony Silence
+  weight: 0.0092
+  avg_copies: 1.0
+- name: Kataki, War's Wage
+  weight: 0.0092
+  avg_copies: 1.0
+- name: Wonder
+  weight: 0.0092
+  avg_copies: 1.0
+- name: Exorcise
+  weight: 0.0092
+  avg_copies: 1.0
+- name: Emeritus of Ideation
+  weight: 0.0092
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 0.0092
   avg_copies: 1.0
 ---
 Three-color blink-midrange deck using Phelia and Ephemerate to generate value from Overlord of the Balemurk and Solitude.

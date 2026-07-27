@@ -7,10 +7,10 @@ name: Necromentia
 scryfall_id: 32c5252e-ff15-4f86-ad63-d8286427e70f
 set: m21
 type: Sorcery
-meta_presence: 0.0022
+meta_presence: 0.0021
 archetypes:
   necrodominance:
-    weight: 0.1628
+    weight: 0.1591
     avg_copies: 1.57
   rakdos-lantern-combo:
     weight: 0.5

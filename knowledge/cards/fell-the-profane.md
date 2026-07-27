@@ -9,7 +9,7 @@ type: Instant // Land
 meta_presence: 0.0126
 archetypes:
   necrodominance:
-    weight: 0.9535
+    weight: 0.9545
     avg_copies: 3.95
   goryo5:
     weight: 1.0

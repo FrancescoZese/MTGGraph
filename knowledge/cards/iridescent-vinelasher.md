@@ -10,9 +10,9 @@ type: Creature — Lizard Assassin
 meta_presence: 0.0003
 archetypes:
   necrodominance:
-    weight: 0.0233
+    weight: 0.0227
     avg_copies: 4.0
   burn:
-    weight: 0.027
+    weight: 0.0263
     avg_copies: 4.0
 ---

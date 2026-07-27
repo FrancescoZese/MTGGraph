@@ -10,7 +10,7 @@ type: Legendary Creature — Human Noble Ally
 meta_presence: 0.0094
 archetypes:
   necrodominance:
-    weight: 0.0233
+    weight: 0.0227
     avg_copies: 2.0
   living-end:
     weight: 0.5362
@@ -45,4 +45,7 @@ archetypes:
   unknown-115:
     weight: 0.6667
     avg_copies: 2.0
+  unknown-215:
+    weight: 1.0
+    avg_copies: 3.0
 ---

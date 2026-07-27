@@ -6,7 +6,7 @@ name: Island
 scryfall_id: 77b88bb8-6bd9-4632-b937-89468fcb5e6a
 set: sos
 type: Basic Land — Island
-meta_presence: 0.3652
+meta_presence: 0.364
 archetypes:
   ruby-storm:
     weight: 0.009
@@ -15,7 +15,7 @@ archetypes:
     weight: 0.9877
     avg_copies: 2.48
   mono-blue-belcher:
-    weight: 0.6707
+    weight: 0.6747
     avg_copies: 1.09
   jeskai-energy:
     weight: 0.8195
@@ -33,7 +33,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.9388
+    weight: 0.9423
     avg_copies: 1.65
   affinity:
     weight: 0.984
@@ -48,11 +48,11 @@ archetypes:
     weight: 0.8519
     avg_copies: 1.04
   neoform-combo:
-    weight: 0.2561
+    weight: 0.253
     avg_copies: 1.05
   mono-blue-tron:
     weight: 1.0
-    avg_copies: 3.5
+    avg_copies: 3.61
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
@@ -60,13 +60,13 @@ archetypes:
     weight: 0.0115
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0396
+    weight: 0.0395
     avg_copies: 1.08
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
   esper-blink:
-    weight: 0.5278
+    weight: 0.5229
     avg_copies: 1.02
   bant-control:
     weight: 1.0
@@ -169,7 +169,7 @@ archetypes:
     avg_copies: 1.0
   unknown-41:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 2.5
   unknown-42:
     weight: 1.0
     avg_copies: 6.45
@@ -180,7 +180,7 @@ archetypes:
     weight: 1.0
     avg_copies: 5.0
   unknown-47:
-    weight: 0.9902
+    weight: 0.9907
     avg_copies: 1.83
   unknown-51:
     weight: 1.0
@@ -188,6 +188,9 @@ archetypes:
   unknown-48:
     weight: 1.0
     avg_copies: 2.0
+  unknown-49:
+    weight: 0.6667
+    avg_copies: 1.5
   unknown-50:
     weight: 1.0
     avg_copies: 1.0
@@ -298,7 +301,7 @@ archetypes:
     avg_copies: 1.0
   unknown-125:
     weight: 1.0
-    avg_copies: 2.5
+    avg_copies: 2.75
   unknown-124:
     weight: 1.0
     avg_copies: 3.0
@@ -413,4 +416,7 @@ archetypes:
   unknown-213:
     weight: 1.0
     avg_copies: 1.0
+  unknown-216:
+    weight: 1.0
+    avg_copies: 2.0
 ---

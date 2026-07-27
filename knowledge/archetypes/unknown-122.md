@@ -3,16 +3,16 @@ colors:
 - U
 - R
 name: 'Unknown #122'
-meta_share: 0.0042
+meta_share: 0.0041
 list_count: 25
 top_cards:
-- name: Cori-Steel Cutter
-  weight: 1.0
-  avg_copies: 4.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Preordain
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Lava Dart
@@ -81,13 +81,13 @@ top_cards:
 - name: Experimental Synthesizer
   weight: 0.4
   avg_copies: 3.9
-- name: Stomping Ground
-  weight: 0.36
-  avg_copies: 1.0
 - name: Origin of Metalbending
   weight: 0.36
   avg_copies: 1.0
 - name: Surgical Extraction
+  weight: 0.36
+  avg_copies: 1.0
+- name: Stomping Ground
   weight: 0.36
   avg_copies: 1.0
 - name: Fiery Islet
@@ -129,13 +129,13 @@ top_cards:
 - name: Octopus Form
   weight: 0.12
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Price of Freedom
   weight: 0.12
   avg_copies: 1.0
 - name: Iroh's Demonstration
   weight: 0.12
   avg_copies: 1.0
-- name: Price of Freedom
+- name: Soul-Guide Lantern
   weight: 0.12
   avg_copies: 1.0
 - name: Thoughtseize
@@ -147,19 +147,19 @@ top_cards:
 - name: Monstrous Rage
   weight: 0.08
   avg_copies: 1.67
-- name: Blood Crypt
+- name: End of the Hunt
   weight: 0.08
   avg_copies: 1.0
-- name: End of the Hunt
+- name: Blood Crypt
   weight: 0.08
   avg_copies: 1.0
 - name: Questing Druid
   weight: 0.04
   avg_copies: 4.0
-- name: Vexing Bauble
+- name: Misty Rainforest
   weight: 0.04
   avg_copies: 2.0
-- name: Misty Rainforest
+- name: Vexing Bauble
   weight: 0.04
   avg_copies: 2.0
 - name: Wear
@@ -177,10 +177,10 @@ top_cards:
 - name: Sacred Foundry
   weight: 0.04
   avg_copies: 1.0
-- name: Redirect Lightning
+- name: Accumulate Wisdom
   weight: 0.04
   avg_copies: 1.0
-- name: Accumulate Wisdom
+- name: Redirect Lightning
   weight: 0.04
   avg_copies: 1.0
 ---

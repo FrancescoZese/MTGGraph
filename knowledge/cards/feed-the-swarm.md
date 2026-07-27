@@ -7,7 +7,7 @@ name: Feed the Swarm
 scryfall_id: a776f96b-01bf-430a-b1ad-9f4651070610
 set: tdc
 type: Sorcery
-meta_presence: 0.0034
+meta_presence: 0.0033
 archetypes:
   izzet-prowess:
     weight: 0.0099

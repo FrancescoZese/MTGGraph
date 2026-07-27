@@ -6,22 +6,22 @@ name: Raucous Theater
 scryfall_id: b598c93e-dae1-4d71-a9e4-917abf76d2d0
 set: mkm
 type: Land — Swamp Mountain
-meta_presence: 0.065
+meta_presence: 0.0646
 archetypes:
   ruby-storm:
-    weight: 0.0633
+    weight: 0.0628
     avg_copies: 1.0
   necrodominance:
-    weight: 0.093
+    weight: 0.0909
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.1069
+    weight: 0.1061
     avg_copies: 1.0
   reanimator:
     weight: 0.8889
     avg_copies: 1.12
   burn:
-    weight: 0.1351
+    weight: 0.1316
     avg_copies: 1.6
   mardu-blink:
     weight: 1.0
@@ -99,17 +99,17 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-68:
-    weight: 0.2308
+    weight: 0.225
     avg_copies: 1.0
   unknown-96:
-    weight: 0.0952
+    weight: 0.08
     avg_copies: 1.0
   unknown-100:
     weight: 0.75
     avg_copies: 1.0
   unknown-101:
     weight: 1.0
-    avg_copies: 1.14
+    avg_copies: 1.1
   unknown-110:
     weight: 1.0
     avg_copies: 1.0
@@ -150,6 +150,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-207:
-    weight: 0.375
+    weight: 0.3333
     avg_copies: 1.0
 ---

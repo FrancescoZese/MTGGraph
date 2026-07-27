@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0032
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0122
+    weight: 0.012
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.0667

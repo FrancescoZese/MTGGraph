@@ -9,7 +9,7 @@ type: Land — Cave
 meta_presence: 0.0265
 archetypes:
   amulet-titan:
-    weight: 0.9873
+    weight: 0.9874
     avg_copies: 1.0
   affinity:
     weight: 0.004

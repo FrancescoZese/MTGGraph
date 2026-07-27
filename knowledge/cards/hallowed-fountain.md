@@ -6,11 +6,11 @@ name: Hallowed Fountain
 scryfall_id: e056b55f-82ed-4fe0-ab0c-bb20fa4a218a
 set: ecl
 type: Land — Plains Island
-meta_presence: 0.1721
+meta_presence: 0.1719
 archetypes:
   boros-energy:
-    weight: 0.0014
-    avg_copies: 2.0
+    weight: 0.0028
+    avg_copies: 1.5
   dimir-control:
     weight: 0.1605
     avg_copies: 1.0
@@ -28,7 +28,7 @@ archetypes:
     avg_copies: 1.0
   jeskai-control:
     weight: 1.0
-    avg_copies: 1.63
+    avg_copies: 1.65
   affinity:
     weight: 0.004
     avg_copies: 1.0
@@ -39,11 +39,11 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0122
+    weight: 0.012
     avg_copies: 1.0
   hammer-time:
     weight: 1.0
-    avg_copies: 2.46
+    avg_copies: 2.43
   4c-omnath:
     weight: 0.75
     avg_copies: 1.0
@@ -108,7 +108,7 @@ archetypes:
     weight: 0.1429
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0686
+    weight: 0.0648
     avg_copies: 1.0
   unknown-56:
     weight: 1.0
@@ -258,7 +258,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-207:
-    weight: 0.5
+    weight: 0.5556
     avg_copies: 1.0
   unknown-208:
     weight: 1.0
@@ -266,4 +266,7 @@ archetypes:
   unknown-213:
     weight: 1.0
     avg_copies: 2.0
+  unknown-216:
+    weight: 1.0
+    avg_copies: 1.0
 ---

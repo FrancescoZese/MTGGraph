@@ -10,8 +10,8 @@ type: Instant
 meta_presence: 0.0137
 archetypes:
   necrodominance:
-    weight: 0.9535
-    avg_copies: 2.34
+    weight: 0.9545
+    avg_copies: 2.36
   goryo5:
     weight: 0.913
     avg_copies: 2.71

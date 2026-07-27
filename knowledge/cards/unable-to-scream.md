@@ -10,10 +10,10 @@ type: Enchantment — Aura
 meta_presence: 0.005
 archetypes:
   mono-blue-belcher:
-    weight: 0.2805
+    weight: 0.2771
     avg_copies: 1.35
   mono-blue-tron:
-    weight: 0.1364
+    weight: 0.1304
     avg_copies: 2.33
   unknown-150:
     weight: 0.6667

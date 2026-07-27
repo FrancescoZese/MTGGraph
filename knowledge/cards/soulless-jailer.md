@@ -9,19 +9,19 @@ type: Artifact Creature — Phyrexian Golem
 meta_presence: 0.0875
 archetypes:
   eldrazi-tron:
-    weight: 0.2381
+    weight: 0.2373
     avg_copies: 1.04
   amulet-titan:
-    weight: 0.1592
+    weight: 0.1572
     avg_copies: 2.24
   living-end:
     weight: 0.0145
     avg_copies: 2.0
   mono-blue-tron:
-    weight: 0.0909
+    weight: 0.087
     avg_copies: 1.0
   hammer-time:
-    weight: 0.3846
+    weight: 0.3571
     avg_copies: 2.0
   boros-ponza:
     weight: 0.1135
@@ -36,7 +36,7 @@ archetypes:
     weight: 0.2097
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.6988
+    weight: 0.703
     avg_copies: 1.44
   rakdos-lantern-combo:
     weight: 1.0
@@ -67,9 +67,9 @@ archetypes:
     avg_copies: 2.0
   unknown-41:
     weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 1.5
   unknown-61:
-    weight: 0.0566
+    weight: 0.0484
     avg_copies: 1.0
   unknown-76:
     weight: 0.5

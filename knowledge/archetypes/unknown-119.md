@@ -9,16 +9,16 @@ top_cards:
 - name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
+- name: Steelshaper's Gift
+  weight: 1.0
+  avg_copies: 4.0
+- name: Sunbaked Canyon
+  weight: 1.0
+  avg_copies: 4.0
 - name: Leyline Axe
   weight: 1.0
   avg_copies: 4.0
-- name: Memnite
-  weight: 1.0
-  avg_copies: 4.0
 - name: Arid Mesa
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
 - name: Colossus Hammer
@@ -27,22 +27,22 @@ top_cards:
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
-- name: Steelshaper's Gift
+- name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
 - name: Puresteel Paladin
   weight: 1.0
   avg_copies: 4.0
-- name: Sunbaked Canyon
+- name: Memnite
   weight: 1.0
   avg_copies: 4.0
 - name: Plains
   weight: 1.0
   avg_copies: 3.0
-- name: Disruptor Flute
+- name: Mana Tithe
   weight: 1.0
   avg_copies: 2.5
-- name: Mana Tithe
+- name: Disruptor Flute
   weight: 1.0
   avg_copies: 2.5
 - name: Inkmoth Nexus
@@ -57,16 +57,13 @@ top_cards:
 - name: Wear
   weight: 1.0
   avg_copies: 2.0
-- name: Forge Anew
-  weight: 1.0
-  avg_copies: 1.5
 - name: Paradise Mantle
   weight: 1.0
   avg_copies: 1.5
-- name: Umezawa's Jitte
+- name: Forge Anew
   weight: 1.0
-  avg_copies: 1.0
-- name: Pithing Needle
+  avg_copies: 1.5
+- name: Umezawa's Jitte
   weight: 1.0
   avg_copies: 1.0
 - name: Tezzeret, Cruel Captain
@@ -75,15 +72,15 @@ top_cards:
 - name: Tormod's Crypt
   weight: 1.0
   avg_copies: 1.0
+- name: Pithing Needle
+  weight: 1.0
+  avg_copies: 1.0
 - name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Shadowspear
   weight: 1.0
   avg_copies: 1.0
-- name: Battlefield Improvisation
-  weight: 0.5
-  avg_copies: 4.0
 - name: card:kellan-the-fae-blooded
   weight: 0.5
   avg_copies: 4.0
@@ -93,13 +90,16 @@ top_cards:
 - name: Stoneforge Mystic
   weight: 0.5
   avg_copies: 4.0
+- name: Battlefield Improvisation
+  weight: 0.5
+  avg_copies: 4.0
+- name: Chainsaw
+  weight: 0.5
+  avg_copies: 1.0
 - name: Vexing Bauble
   weight: 0.5
   avg_copies: 1.0
 - name: card:mj-lnir-hammer-of-thor
-  weight: 0.5
-  avg_copies: 1.0
-- name: Chainsaw
   weight: 0.5
   avg_copies: 1.0
 ---

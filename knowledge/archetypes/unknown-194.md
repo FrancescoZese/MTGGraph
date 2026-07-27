@@ -5,34 +5,34 @@ name: 'Unknown #194'
 meta_share: 0.0003
 list_count: 2
 top_cards:
-- name: Basking Broodscale
-  weight: 1.0
-  avg_copies: 4.0
-- name: Sowing Mycospawn
-  weight: 1.0
-  avg_copies: 4.0
-- name: Devourer of Destiny
-  weight: 1.0
-  avg_copies: 4.0
-- name: Drowner of Truth
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ugin's Labyrinth
-  weight: 1.0
-  avg_copies: 4.0
 - name: Kozilek's Command
-  weight: 1.0
-  avg_copies: 4.0
-- name: Malevolent Rumble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
+- name: Basking Broodscale
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ugin's Labyrinth
+  weight: 1.0
+  avg_copies: 4.0
+- name: Malevolent Rumble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Sowing Mycospawn
+  weight: 1.0
+  avg_copies: 4.0
 - name: Ancient Stirrings
+  weight: 1.0
+  avg_copies: 4.0
+- name: Drowner of Truth
+  weight: 1.0
+  avg_copies: 4.0
+- name: Urza's Saga
+  weight: 1.0
+  avg_copies: 4.0
+- name: Devourer of Destiny
   weight: 1.0
   avg_copies: 4.0
 - name: Talisman of Curiosity
@@ -47,10 +47,10 @@ top_cards:
 - name: Emrakul, the Promised End
   weight: 1.0
   avg_copies: 2.5
-- name: Forest
+- name: Wastescape Battlemage
   weight: 1.0
   avg_copies: 2.0
-- name: Wastescape Battlemage
+- name: Forest
   weight: 1.0
   avg_copies: 2.0
 - name: Warping Wail
@@ -62,10 +62,7 @@ top_cards:
 - name: Skateboard
   weight: 1.0
   avg_copies: 1.0
-- name: Cavern of Souls
-  weight: 1.0
-  avg_copies: 1.0
-- name: Springleaf Drum
+- name: Grafdigger's Cage
   weight: 1.0
   avg_copies: 1.0
 - name: Boseiju, Who Endures
@@ -74,13 +71,16 @@ top_cards:
 - name: Thief of Existence
   weight: 1.0
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Cavern of Souls
   weight: 1.0
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Springleaf Drum
   weight: 1.0
   avg_copies: 1.0
 - name: Haywire Mite
+  weight: 1.0
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 1.0
 - name: Ugin's Binding
@@ -95,19 +95,19 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.5
   avg_copies: 1.0
+- name: Nulldrifter
+  weight: 0.5
+  avg_copies: 1.0
 - name: Pithing Needle
   weight: 0.5
   avg_copies: 1.0
-- name: Sanctum of Ugin
-  weight: 0.5
-  avg_copies: 1.0
-- name: Nulldrifter
+- name: Breeding Pool
   weight: 0.5
   avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.5
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Sanctum of Ugin
   weight: 0.5
   avg_copies: 1.0
 ---

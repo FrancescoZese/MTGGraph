@@ -8,7 +8,7 @@ name: Teferi, Time Raveler
 scryfall_id: 662fe50f-d75c-422c-8c6c-1f9b5c4ba21f
 set: rvr
 type: Legendary Planeswalker — Teferi
-meta_presence: 0.1463
+meta_presence: 0.1458
 archetypes:
   boros-energy:
     weight: 0.0014
@@ -20,22 +20,22 @@ archetypes:
     weight: 0.4737
     avg_copies: 1.25
   goryo:
-    weight: 0.7814
+    weight: 0.7834
     avg_copies: 1.22
   azorius-control:
     weight: 1.0
-    avg_copies: 3.22
+    avg_copies: 3.2
   living-end:
     weight: 0.2029
     avg_copies: 1.94
   jeskai-control:
-    weight: 0.8571
-    avg_copies: 2.86
+    weight: 0.8654
+    avg_copies: 2.85
   domain-zoo:
-    weight: 0.5649
+    weight: 0.5606
     avg_copies: 1.1
   hammer-time:
-    weight: 0.6154
+    weight: 0.5714
     avg_copies: 2.25
   kethis-combo:
     weight: 1.0
@@ -47,7 +47,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.67
   esper-blink:
-    weight: 0.9259
+    weight: 0.9266
     avg_copies: 1.63
   indomitable-creativity:
     weight: 0.8
@@ -77,8 +77,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-5:
-    weight: 0.6667
-    avg_copies: 1.75
+    weight: 0.5714
+    avg_copies: 1.8
   unknown-10:
     weight: 1.0
     avg_copies: 1.33
@@ -92,7 +92,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.75
   unknown-47:
-    weight: 0.0392
+    weight: 0.037
     avg_copies: 1.0
   unknown-48:
     weight: 1.0
@@ -230,9 +230,12 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-207:
-    weight: 0.125
+    weight: 0.1111
     avg_copies: 1.0
   unknown-213:
     weight: 1.0
     avg_copies: 1.0
+  unknown-216:
+    weight: 1.0
+    avg_copies: 2.0
 ---

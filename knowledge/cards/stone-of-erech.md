@@ -9,7 +9,7 @@ type: Legendary Artifact
 meta_presence: 0.0003
 archetypes:
   necrodominance:
-    weight: 0.0233
+    weight: 0.0227
     avg_copies: 1.0
   izzet-wizards:
     weight: 0.0833

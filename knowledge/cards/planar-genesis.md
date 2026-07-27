@@ -8,10 +8,10 @@ name: Planar Genesis
 scryfall_id: 7fc9a10b-c9f9-4129-a671-ced0917ce78b
 set: mh3
 type: Instant
-meta_presence: 0.0139
+meta_presence: 0.0141
 archetypes:
   neoform-combo:
-    weight: 0.9634
+    weight: 0.9639
     avg_copies: 4.0
   indomitable-creativity:
     weight: 0.0667
@@ -24,5 +24,8 @@ archetypes:
     avg_copies: 4.0
   unknown-153:
     weight: 0.25
+    avg_copies: 4.0
+  unknown-216:
+    weight: 1.0
     avg_copies: 4.0
 ---

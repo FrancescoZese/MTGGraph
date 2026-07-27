@@ -7,7 +7,7 @@ name: Blasphemous Act
 scryfall_id: 175eb155-7262-4c2e-85c3-e0cc9be855e5
 set: soc
 type: Sorcery
-meta_presence: 0.0022
+meta_presence: 0.0021
 archetypes:
   ruby-storm:
     weight: 0.009
@@ -19,6 +19,6 @@ archetypes:
     weight: 0.0242
     avg_copies: 1.67
   broodscale-combo:
-    weight: 0.027
+    weight: 0.0263
     avg_copies: 1.86
 ---

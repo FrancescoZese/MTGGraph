@@ -7,10 +7,13 @@ name: 'Unknown #8'
 meta_share: 0.0003
 list_count: 2
 top_cards:
-- name: Archon of Cruelty
+- name: Dwarven Mine
   weight: 1.0
   avg_copies: 4.0
-- name: Arid Mesa
+- name: Wrenn and Six
+  weight: 1.0
+  avg_copies: 4.0
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
 - name: Fable of the Mirror-Breaker
@@ -19,16 +22,13 @@ top_cards:
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Dwarven Mine
-  weight: 1.0
-  avg_copies: 4.0
-- name: Wrenn and Six
-  weight: 1.0
-  avg_copies: 4.0
-- name: Lightning Bolt
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
 - name: Indomitable Creativity
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Persist
@@ -46,10 +46,22 @@ top_cards:
 - name: Fatal Push
   weight: 1.0
   avg_copies: 2.0
+- name: Blood Crypt
+  weight: 1.0
+  avg_copies: 2.0
+- name: Wooded Foothills
+  weight: 1.0
+  avg_copies: 2.0
 - name: Meltdown
   weight: 1.0
   avg_copies: 2.0
+- name: Thoughtseize
+  weight: 1.0
+  avg_copies: 2.0
 - name: Veil of Summer
+  weight: 1.0
+  avg_copies: 2.0
+- name: Untimely Malfunction
   weight: 1.0
   avg_copies: 2.0
 - name: Pyroclasm
@@ -58,43 +70,31 @@ top_cards:
 - name: Pawpatch Formation
   weight: 1.0
   avg_copies: 2.0
-- name: Untimely Malfunction
-  weight: 1.0
-  avg_copies: 2.0
-- name: Blood Crypt
-  weight: 1.0
-  avg_copies: 2.0
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 2.0
-- name: Wooded Foothills
-  weight: 1.0
-  avg_copies: 2.0
-- name: Inquisition of Kozilek
-  weight: 1.0
-  avg_copies: 1.0
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
-- name: Turn the Earth
-  weight: 1.0
-  avg_copies: 1.0
-- name: Strategic Betrayal
-  weight: 1.0
-  avg_copies: 1.0
-- name: Assassin's Trophy
+- name: Inquisition of Kozilek
   weight: 1.0
   avg_copies: 1.0
 - name: Sokenzan, Crucible of Defiance
   weight: 1.0
   avg_copies: 1.0
+- name: Strategic Betrayal
+  weight: 1.0
+  avg_copies: 1.0
+- name: Turn the Earth
+  weight: 1.0
+  avg_copies: 1.0
 - name: Raph & Mikey, Troublemakers
+  weight: 1.0
+  avg_copies: 1.0
+- name: Assassin's Trophy
   weight: 1.0
   avg_copies: 1.0
 - name: Commercial District
   weight: 1.0
   avg_copies: 1.0
-- name: Brotherhood's End
+- name: Terastodon
   weight: 0.5
   avg_copies: 2.0
 - name: Culling Ritual
@@ -103,13 +103,13 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 0.5
   avg_copies: 2.0
-- name: Terastodon
+- name: Brotherhood's End
   weight: 0.5
   avg_copies: 2.0
-- name: Rotten Reunion
+- name: Boseiju, Who Endures
   weight: 0.5
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Rotten Reunion
   weight: 0.5
   avg_copies: 1.0
 ---

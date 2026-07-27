@@ -10,6 +10,6 @@ type: Creature — Spirit
 meta_presence: 0.002
 archetypes:
   boros-energy:
-    weight: 0.0169
+    weight: 0.0167
     avg_copies: 1.87
 ---

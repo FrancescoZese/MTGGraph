@@ -3,7 +3,7 @@ colors:
 - B
 - G
 name: Yawgmoth Combo
-meta_share: 0.0149
+meta_share: 0.0147
 list_count: 89
 top_cards:
 - name: Verdant Catacombs
@@ -12,10 +12,10 @@ top_cards:
 - name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 3.97
-- name: Young Wolf
+- name: Delighted Halfling
   weight: 1.0
   avg_copies: 3.83
-- name: Delighted Halfling
+- name: Young Wolf
   weight: 1.0
   avg_copies: 3.83
 - name: Badgermole Cub
@@ -60,10 +60,10 @@ top_cards:
 - name: Formidable Speaker
   weight: 1.0
   avg_copies: 1.03
-- name: Dryad Arbor
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
 - name: Force of Vigor
@@ -165,34 +165,25 @@ top_cards:
 - name: Cankerbloom
   weight: 0.0225
   avg_copies: 1.0
-- name: Assassin's Trophy
+- name: Icetill Explorer
   weight: 0.0225
   avg_copies: 1.0
-- name: Ghost Quarter
+- name: Assassin's Trophy
   weight: 0.0225
   avg_copies: 1.0
 - name: card:mole-man-moloid-master
   weight: 0.0225
   avg_copies: 1.0
-- name: Icetill Explorer
+- name: Ghost Quarter
   weight: 0.0225
   avg_copies: 1.0
-- name: Tourach, Dread Cantor
-  weight: 0.0112
-  avg_copies: 2.0
 - name: card:wastewood-verge
   weight: 0.0112
   avg_copies: 2.0
-- name: Spore Frog
+- name: Tourach, Dread Cantor
   weight: 0.0112
-  avg_copies: 1.0
-- name: Disciple of Freyalise
-  weight: 0.0112
-  avg_copies: 1.0
-- name: Vicious Rivalry
-  weight: 0.0112
-  avg_copies: 1.0
-- name: Surgical Extraction
+  avg_copies: 2.0
+- name: Fade from History
   weight: 0.0112
   avg_copies: 1.0
 - name: Sylvan Safekeeper
@@ -201,16 +192,25 @@ top_cards:
 - name: Nurturing Peatland
   weight: 0.0112
   avg_copies: 1.0
-- name: Fade from History
+- name: Surgical Extraction
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Vicious Rivalry
   weight: 0.0112
   avg_copies: 1.0
 - name: Collector Ouphe
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Spore Frog
   weight: 0.0112
   avg_copies: 1.0
 - name: Creeping Corrosion
   weight: 0.0112
   avg_copies: 1.0
 - name: Chomping Changeling
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Disciple of Freyalise
   weight: 0.0112
   avg_copies: 1.0
 ---

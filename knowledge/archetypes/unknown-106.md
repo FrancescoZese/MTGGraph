@@ -42,10 +42,10 @@ top_cards:
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.06
-- name: Plains
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.0
-- name: Hallowed Fountain
+- name: Plains
   weight: 1.0
   avg_copies: 2.0
 - name: Meticulous Archive
@@ -84,10 +84,10 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.6
   avg_copies: 1.0
-- name: Hall of Storm Giants
+- name: Undercity Sewers
   weight: 0.6
   avg_copies: 1.0
-- name: Undercity Sewers
+- name: Hall of Storm Giants
   weight: 0.6
   avg_copies: 1.0
 - name: Polluted Delta
@@ -117,25 +117,25 @@ top_cards:
 - name: Narset, Parter of Veils
   weight: 0.3
   avg_copies: 4.0
-- name: Path to Exile
+- name: Day's Undoing
   weight: 0.3
   avg_copies: 2.0
 - name: Lórien Revealed
   weight: 0.3
   avg_copies: 2.0
-- name: Day's Undoing
+- name: Path to Exile
   weight: 0.3
   avg_copies: 2.0
 - name: Tune the Narrative
   weight: 0.3
   avg_copies: 1.67
-- name: Geier Reach Sanitarium
+- name: Get Lost
   weight: 0.3
   avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.3
   avg_copies: 1.0
-- name: Get Lost
+- name: Geier Reach Sanitarium
   weight: 0.3
   avg_copies: 1.0
 - name: Force of Negation
@@ -153,19 +153,19 @@ top_cards:
 - name: Steam Vents
   weight: 0.2
   avg_copies: 1.0
-- name: Terminus
+- name: Harbinger of the Seas
   weight: 0.1
   avg_copies: 2.0
 - name: No More Lies
   weight: 0.1
   avg_copies: 2.0
+- name: Terminus
+  weight: 0.1
+  avg_copies: 2.0
 - name: Fatal Push
   weight: 0.1
   avg_copies: 2.0
-- name: Harbinger of the Seas
-  weight: 0.1
-  avg_copies: 2.0
-- name: Thundering Falls
+- name: Dovin's Veto
   weight: 0.1
   avg_copies: 1.0
 - name: Agna Qel'a
@@ -174,10 +174,10 @@ top_cards:
 - name: Kaito, Bane of Nightmares
   weight: 0.1
   avg_copies: 1.0
-- name: Dovin's Veto
+- name: Rest in Peace
   weight: 0.1
   avg_copies: 1.0
-- name: Rest in Peace
+- name: Thundering Falls
   weight: 0.1
   avg_copies: 1.0
 - name: Memory Deluge

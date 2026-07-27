@@ -14,7 +14,7 @@ archetypes:
     weight: 0.0064
     avg_copies: 1.5
   necrodominance:
-    weight: 0.0233
+    weight: 0.0227
     avg_copies: 2.0
   indomitable-creativity:
     weight: 0.0667

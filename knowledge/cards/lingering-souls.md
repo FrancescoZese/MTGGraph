@@ -10,9 +10,9 @@ type: Sorcery
 meta_presence: 0.0008
 archetypes:
   unknown-68:
-    weight: 0.0256
+    weight: 0.025
     avg_copies: 2.0
   unknown-96:
-    weight: 0.1905
+    weight: 0.16
     avg_copies: 2.0
 ---

@@ -16,7 +16,7 @@ archetypes:
     weight: 0.0075
     avg_copies: 1.0
   hammer-time:
-    weight: 0.2308
+    weight: 0.2143
     avg_copies: 2.0
   samwise-combo:
     weight: 0.8226
@@ -28,6 +28,6 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-126:
-    weight: 0.7037
+    weight: 0.6667
     avg_copies: 1.0
 ---

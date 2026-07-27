@@ -9,7 +9,7 @@ type: Land — Mountain Plains
 meta_presence: 0.2194
 archetypes:
   ruby-storm:
-    weight: 0.9548
+    weight: 0.9552
     avg_copies: 1.31
   boros-energy:
     weight: 1.0
@@ -18,16 +18,16 @@ archetypes:
     weight: 1.0
     avg_copies: 1.01
   azorius-control:
-    weight: 0.0235
+    weight: 0.0233
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.6122
+    weight: 0.5962
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0153
+    weight: 0.0152
     avg_copies: 1.0
   burn:
-    weight: 0.3243
+    weight: 0.3421
     avg_copies: 1.0
   mardu-blink:
     weight: 1.0
@@ -69,7 +69,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   unknown-26:
-    weight: 0.65
+    weight: 0.619
     avg_copies: 2.69
   unknown-62:
     weight: 0.0333
@@ -96,8 +96,8 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   unknown-96:
-    weight: 0.9524
-    avg_copies: 1.05
+    weight: 0.96
+    avg_copies: 1.04
   unknown-99:
     weight: 1.0
     avg_copies: 1.0

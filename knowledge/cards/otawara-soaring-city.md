@@ -15,32 +15,32 @@ archetypes:
     weight: 0.5926
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.9618
+    weight: 0.9623
     avg_copies: 1.0
   goryo:
     weight: 0.0064
     avg_copies: 1.0
   azorius-control:
-    weight: 0.7647
+    weight: 0.7558
     avg_copies: 1.0
   living-end:
     weight: 0.8116
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.3469
+    weight: 0.3654
     avg_copies: 1.0
   affinity:
-    weight: 0.072
+    weight: 0.0719
     avg_copies: 1.0
   mill:
     weight: 0.8788
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0244
+    weight: 0.0241
     avg_copies: 1.0
   mono-blue-tron:
     weight: 1.0
-    avg_copies: 1.64
+    avg_copies: 1.61
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
@@ -108,7 +108,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.6275
+    weight: 0.6389
     avg_copies: 1.0
   unknown-62:
     weight: 0.0333

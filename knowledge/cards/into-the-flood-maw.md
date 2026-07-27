@@ -10,23 +10,23 @@ type: Instant
 meta_presence: 0.0375
 archetypes:
   ruby-storm:
-    weight: 0.0317
+    weight: 0.0314
     avg_copies: 2.86
   mono-blue-belcher:
-    weight: 0.7561
-    avg_copies: 1.87
+    weight: 0.759
+    avg_copies: 1.89
   affinity:
     weight: 0.002
     avg_copies: 2.0
   neoform-combo:
-    weight: 0.7927
+    weight: 0.7952
     avg_copies: 1.02
   kethis-combo:
     weight: 1.0
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.2145
-    avg_copies: 1.23
+    weight: 0.2171
+    avg_copies: 1.24
   dredge:
     weight: 0.0385
     avg_copies: 2.0

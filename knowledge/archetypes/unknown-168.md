@@ -9,16 +9,13 @@ top_cards:
 - name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
-- name: Ocelot Pride
-  weight: 1.0
-  avg_copies: 4.0
 - name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Arid Mesa
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
-- name: Ajani, Nacatl Pariah
+- name: card:hex-magic
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
@@ -27,16 +24,19 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 4.0
+- name: Ajani, Nacatl Pariah
+  weight: 1.0
+  avg_copies: 4.0
+- name: Arid Mesa
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ocelot Pride
+  weight: 1.0
+  avg_copies: 4.0
 - name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:hex-magic
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Orim's Chant
@@ -45,37 +45,37 @@ top_cards:
 - name: Goblin Bombardment
   weight: 1.0
   avg_copies: 3.0
-- name: Sacred Foundry
-  weight: 1.0
-  avg_copies: 3.0
-- name: Tormod's Crypt
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 3.0
 - name: Blood Moon
   weight: 1.0
   avg_copies: 3.0
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 3.0
 - name: Sunbaked Canyon
   weight: 1.0
   avg_copies: 3.0
-- name: Vexing Bauble
+- name: Tormod's Crypt
   weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 3.0
+- name: Sacred Foundry
+  weight: 1.0
+  avg_copies: 3.0
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.0
-- name: Wear
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 2.0
 - name: Plains
   weight: 1.0
   avg_copies: 2.0
-- name: Mountain
+- name: Wear
+  weight: 1.0
+  avg_copies: 2.0
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
 ---

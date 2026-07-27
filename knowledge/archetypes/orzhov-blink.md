@@ -6,13 +6,13 @@ name: Orzhov Blink
 meta_share: 0.002
 list_count: 12
 top_cards:
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 4.0
 - name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
 - name: Phelia, Exuberant Shepherd
@@ -114,22 +114,22 @@ top_cards:
 - name: Erode
   weight: 0.25
   avg_copies: 1.25
+- name: Aven Interrupter
+  weight: 0.25
+  avg_copies: 1.0
 - name: Grafdigger's Cage
   weight: 0.25
   avg_copies: 1.0
 - name: card:cloak-and-dagger-entwined
   weight: 0.25
   avg_copies: 1.0
-- name: Aven Interrupter
-  weight: 0.25
-  avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.25
   avg_copies: 1.0
-- name: Sanctifier en-Vec
+- name: Recruiter of the Guard
   weight: 0.1667
   avg_copies: 2.0
-- name: Recruiter of the Guard
+- name: Sanctifier en-Vec
   weight: 0.1667
   avg_copies: 2.0
 - name: Polluted Delta
@@ -144,22 +144,22 @@ top_cards:
 - name: Orim's Chant
   weight: 0.0833
   avg_copies: 4.0
-- name: Deafening Silence
-  weight: 0.0833
-  avg_copies: 3.0
 - name: Force of Despair
   weight: 0.0833
   avg_copies: 3.0
-- name: Bloodstained Mire
+- name: Deafening Silence
   weight: 0.0833
-  avg_copies: 2.0
-- name: Windswept Heath
-  weight: 0.0833
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: End of the Hunt
   weight: 0.0833
   avg_copies: 2.0
 - name: Duress
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Bloodstained Mire
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Windswept Heath
   weight: 0.0833
   avg_copies: 2.0
 - name: Troll of Khazad-dûm
@@ -168,16 +168,10 @@ top_cards:
 - name: Lush Portico
   weight: 0.0833
   avg_copies: 1.0
-- name: Overgrown Tomb
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Monumental Henge
-  weight: 0.0833
-  avg_copies: 1.0
 - name: Vindicate
   weight: 0.0833
   avg_copies: 1.0
-- name: Gaddock Teeg
+- name: Emptiness
   weight: 0.0833
   avg_copies: 1.0
 - name: Raucous Theater
@@ -186,7 +180,13 @@ top_cards:
 - name: Eiganjo, Seat of the Empire
   weight: 0.0833
   avg_copies: 1.0
-- name: Emptiness
+- name: Gaddock Teeg
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Monumental Henge
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Overgrown Tomb
   weight: 0.0833
   avg_copies: 1.0
 ---

@@ -12,7 +12,7 @@ archetypes:
     weight: 0.0034
     avg_copies: 1.0
   hammer-time:
-    weight: 0.1538
+    weight: 0.1429
     avg_copies: 1.0
   unknown-21:
     weight: 1.0

@@ -7,10 +7,10 @@ name: Callous Sell-Sword // Burn Together
 scryfall_id: 770ee3da-d33e-466f-9a2e-ad2d08ef5012
 set: woe
 type: Creature — Human Soldier // Sorcery — Adventure
-meta_presence: 0.0027
+meta_presence: 0.0026
 archetypes:
   cosmogoyf-fling:
-    weight: 0.3846
+    weight: 0.3659
     avg_copies: 1.13
   unknown-92:
     weight: 1.0

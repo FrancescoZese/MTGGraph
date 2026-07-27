@@ -9,7 +9,7 @@ type: Artifact
 meta_presence: 0.0023
 archetypes:
   mono-blue-tron:
-    weight: 0.5455
+    weight: 0.5217
     avg_copies: 3.08
   unknown-150:
     weight: 0.6667

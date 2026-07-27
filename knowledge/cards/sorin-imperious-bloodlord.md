@@ -10,9 +10,9 @@ type: Legendary Planeswalker — Sorin
 meta_presence: 0.0008
 archetypes:
   necrodominance:
-    weight: 0.0465
+    weight: 0.0455
     avg_copies: 4.0
   cosmogoyf-fling:
-    weight: 0.0769
+    weight: 0.0732
     avg_copies: 3.67
 ---

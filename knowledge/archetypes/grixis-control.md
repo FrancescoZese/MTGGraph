@@ -19,10 +19,10 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.86
-- name: Flame of Anor
+- name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 3.71
-- name: Tamiyo, Inquisitive Student
+- name: Flame of Anor
   weight: 1.0
   avg_copies: 3.71
 - name: Scalding Tarn
@@ -118,49 +118,49 @@ top_cards:
 - name: Damping Sphere
   weight: 0.1429
   avg_copies: 3.0
-- name: Bloodstained Mire
+- name: Traumatic Critique
   weight: 0.1429
   avg_copies: 3.0
-- name: Traumatic Critique
+- name: Bloodstained Mire
   weight: 0.1429
   avg_copies: 3.0
 - name: Break the Ice
   weight: 0.1429
   avg_copies: 3.0
-- name: Kolaghan's Command
-  weight: 0.1429
-  avg_copies: 2.0
 - name: Rakdos Charm
   weight: 0.1429
   avg_copies: 2.0
 - name: Darkslick Shores
   weight: 0.1429
   avg_copies: 2.0
-- name: The Meathook Massacre
+- name: Kolaghan's Command
+  weight: 0.1429
+  avg_copies: 2.0
+- name: Kozilek's Return
   weight: 0.1429
   avg_copies: 1.0
 - name: Spirebluff Canal
   weight: 0.1429
   avg_copies: 1.0
-- name: Kozilek's Return
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Hall of Storm Giants
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Blood Crypt
   weight: 0.1429
   avg_copies: 1.0
 - name: Consider
   weight: 0.1429
   avg_copies: 1.0
-- name: Mountain
+- name: Spell Pierce
   weight: 0.1429
   avg_copies: 1.0
 - name: Logic Knot
   weight: 0.1429
   avg_copies: 1.0
+- name: Blood Crypt
+  weight: 0.1429
+  avg_copies: 1.0
 - name: Raucous Theater
+  weight: 0.1429
+  avg_copies: 1.0
+- name: The Meathook Massacre
   weight: 0.1429
   avg_copies: 1.0
 - name: Surgical Extraction
@@ -169,7 +169,7 @@ top_cards:
 - name: Emet-Selch, Unsundered
   weight: 0.1429
   avg_copies: 1.0
-- name: Spell Pierce
+- name: Mountain
   weight: 0.1429
   avg_copies: 1.0
 ---

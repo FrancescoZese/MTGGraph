@@ -7,8 +7,11 @@ name: Nimble Obstructionist
 scryfall_id: 832426d7-be22-4092-b614-7fa417af03bd
 set: c20
 type: Creature — Bird Wizard
-meta_presence: 0.0007
+meta_presence: 0.0008
 archetypes:
+  mono-blue-tron:
+    weight: 0.0435
+    avg_copies: 2.0
   unknown-17:
     weight: 0.6667
     avg_copies: 3.0

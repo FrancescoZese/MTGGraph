@@ -6,7 +6,7 @@ name: Misty Rainforest
 scryfall_id: 88231c0d-0cc8-44ec-bf95-81d1710ac141
 set: mh2
 type: Land
-meta_presence: 0.1336
+meta_presence: 0.1342
 archetypes:
   ruby-storm:
     weight: 0.009
@@ -18,19 +18,19 @@ archetypes:
     weight: 0.0075
     avg_copies: 3.0
   amulet-titan:
-    weight: 0.0064
+    weight: 0.0063
     avg_copies: 1.0
   goryo:
     weight: 0.0064
     avg_copies: 1.5
   azorius-control:
-    weight: 0.2706
+    weight: 0.2674
     avg_copies: 1.04
   living-end:
     weight: 1.0
     avg_copies: 3.8
   affinity:
-    weight: 0.044
+    weight: 0.0439
     avg_copies: 1.86
   domain-zoo:
     weight: 0.0076
@@ -42,7 +42,7 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.9878
+    weight: 0.988
     avg_copies: 3.84
   kethis-combo:
     weight: 1.0
@@ -66,8 +66,8 @@ archetypes:
     weight: 0.5806
     avg_copies: 1.42
   broodscale-combo:
-    weight: 0.1467
-    avg_copies: 1.16
+    weight: 0.1617
+    avg_copies: 1.14
   bant-control:
     weight: 1.0
     avg_copies: 2.0
@@ -131,9 +131,12 @@ archetypes:
   unknown-39:
     weight: 1.0
     avg_copies: 3.0
+  unknown-41:
+    weight: 0.25
+    avg_copies: 1.0
   unknown-47:
-    weight: 0.2549
-    avg_copies: 1.62
+    weight: 0.2685
+    avg_copies: 1.55
   unknown-59:
     weight: 1.0
     avg_copies: 4.0
@@ -183,11 +186,11 @@ archetypes:
     weight: 0.04
     avg_copies: 2.0
   unknown-125:
-    weight: 0.5
+    weight: 0.75
     avg_copies: 1.0
   unknown-126:
-    weight: 0.7778
-    avg_copies: 1.14
+    weight: 0.7667
+    avg_copies: 1.13
   unknown-124:
     weight: 1.0
     avg_copies: 4.0
@@ -245,4 +248,7 @@ archetypes:
   unknown-213:
     weight: 1.0
     avg_copies: 1.0
+  unknown-216:
+    weight: 1.0
+    avg_copies: 2.0
 ---

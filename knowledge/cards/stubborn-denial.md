@@ -11,9 +11,9 @@ meta_presence: 0.0288
 archetypes:
   domain-zoo:
     weight: 0.9924
-    avg_copies: 2.49
+    avg_copies: 2.5
   hammer-time:
-    weight: 0.0769
+    weight: 0.0714
     avg_copies: 1.0
   grixis-shadow:
     weight: 1.0
@@ -37,6 +37,6 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-207:
-    weight: 0.875
-    avg_copies: 3.29
+    weight: 0.8889
+    avg_copies: 3.38
 ---

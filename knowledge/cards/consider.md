@@ -7,7 +7,7 @@ name: Consider
 scryfall_id: ff6f3824-3670-46e1-af43-0db405726084
 set: tdc
 type: Instant
-meta_presence: 0.0015
+meta_presence: 0.0018
 archetypes:
   ruby-storm:
     weight: 0.0045
@@ -28,6 +28,6 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-125:
-    weight: 0.5
+    weight: 0.75
     avg_copies: 3.0
 ---
