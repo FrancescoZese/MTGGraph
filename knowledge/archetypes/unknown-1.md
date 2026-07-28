@@ -3,22 +3,22 @@ colors:
 - B
 - R
 name: 'Unknown #1'
-meta_share: 0.0017
+meta_share: 0.0016
 list_count: 10
 top_cards:
-- name: Bloodghast
-  weight: 1.0
-  avg_copies: 4.0
-- name: Archon of Cruelty
-  weight: 1.0
-  avg_copies: 4.0
 - name: Stitcher's Supplier
+  weight: 1.0
+  avg_copies: 4.0
+- name: Bloodghast
   weight: 1.0
   avg_copies: 4.0
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Flare of Malice
+  weight: 1.0
+  avg_copies: 4.0
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
 - name: Persist
@@ -39,16 +39,16 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 2.1
-- name: Village Rites
-  weight: 1.0
-  avg_copies: 2.0
-- name: Fatal Push
+- name: Brotherhood's End
   weight: 1.0
   avg_copies: 2.0
 - name: Swamp
   weight: 1.0
   avg_copies: 2.0
-- name: Brotherhood's End
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 2.0
+- name: Village Rites
   weight: 1.0
   avg_copies: 2.0
 - name: Corrupted Conviction
@@ -63,10 +63,10 @@ top_cards:
 - name: End the Festivities
   weight: 1.0
   avg_copies: 1.2
-- name: Wooded Foothills
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.0
-- name: Bloodstained Mire
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 1.0
 - name: Spymaster's Vault
@@ -84,10 +84,10 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.4
   avg_copies: 3.0
-- name: Engineered Explosives
+- name: Magus of the Moon
   weight: 0.4
   avg_copies: 2.0
-- name: Magus of the Moon
+- name: Engineered Explosives
   weight: 0.4
   avg_copies: 2.0
 - name: Den of the Bugbear
@@ -114,16 +114,16 @@ top_cards:
 - name: Living End
   weight: 0.2
   avg_copies: 3.5
-- name: Blood Moon
-  weight: 0.2
-  avg_copies: 2.0
 - name: Flashback
   weight: 0.2
   avg_copies: 2.0
-- name: Lightning Skelemental
+- name: Blood Moon
+  weight: 0.2
+  avg_copies: 2.0
+- name: Oliphaunt
   weight: 0.2
   avg_copies: 1.5
-- name: Oliphaunt
+- name: Lightning Skelemental
   weight: 0.2
   avg_copies: 1.5
 - name: Troll of Khazad-dûm
@@ -135,10 +135,10 @@ top_cards:
 - name: Veil of Summer
   weight: 0.1
   avg_copies: 2.0
-- name: Unearth
+- name: Seasoned Pyromancer
   weight: 0.1
   avg_copies: 2.0
-- name: Seasoned Pyromancer
+- name: Unearth
   weight: 0.1
   avg_copies: 2.0
 - name: Overgrown Tomb

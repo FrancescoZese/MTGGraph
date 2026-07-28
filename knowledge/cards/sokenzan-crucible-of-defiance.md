@@ -9,7 +9,7 @@ type: Legendary Land
 meta_presence: 0.0036
 archetypes:
   boros-energy:
-    weight: 0.0112
+    weight: 0.0111
     avg_copies: 1.0
   unknown-8:
     weight: 1.0

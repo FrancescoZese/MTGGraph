@@ -22,8 +22,8 @@ archetypes:
     weight: 0.0161
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0451
-    avg_copies: 1.41
+    weight: 0.0474
+    avg_copies: 1.39
   scapeshift-combo:
     weight: 1.0
     avg_copies: 2.5
@@ -37,7 +37,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-61:
-    weight: 0.0323
+    weight: 0.0299
     avg_copies: 1.5
   unknown-76:
     weight: 0.3333
@@ -46,7 +46,7 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   unknown-97:
-    weight: 0.3077
+    weight: 0.2857
     avg_copies: 2.0
   unknown-130:
     weight: 1.0

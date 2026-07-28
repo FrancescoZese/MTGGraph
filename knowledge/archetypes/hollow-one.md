@@ -6,19 +6,19 @@ name: Hollow One
 meta_share: 0.0056
 list_count: 34
 top_cards:
-- name: Street Wraith
-  weight: 1.0
-  avg_copies: 4.0
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Hollow One
   weight: 1.0
   avg_copies: 4.0
-- name: Burning Inquiry
+- name: Street Wraith
+  weight: 1.0
+  avg_copies: 4.0
+- name: Detective's Phoenix
   weight: 1.0
   avg_copies: 3.97
-- name: Detective's Phoenix
+- name: Burning Inquiry
   weight: 1.0
   avg_copies: 3.97
 - name: Bloodstained Mire
@@ -138,10 +138,10 @@ top_cards:
 - name: Cool but Rude
   weight: 0.0882
   avg_copies: 2.0
-- name: Blood Moon
+- name: Stomping Ground
   weight: 0.0882
   avg_copies: 1.67
-- name: Stomping Ground
+- name: Blood Moon
   weight: 0.0882
   avg_copies: 1.67
 - name: Blackcleave Cliffs
@@ -162,10 +162,10 @@ top_cards:
 - name: Magebane Lizard
   weight: 0.0588
   avg_copies: 1.5
-- name: Violent Urge
+- name: Commercial District
   weight: 0.0588
   avg_copies: 1.0
-- name: Commercial District
+- name: Violent Urge
   weight: 0.0588
   avg_copies: 1.0
 - name: Soul-Guide Lantern
@@ -177,13 +177,13 @@ top_cards:
 - name: Death's Shadow
   weight: 0.0294
   avg_copies: 4.0
+- name: Cam and Farrik, Havoc Duo
+  weight: 0.0294
+  avg_copies: 2.0
+- name: Magus of the Moon
+  weight: 0.0294
+  avg_copies: 2.0
 - name: Ancient Grudge
-  weight: 0.0294
-  avg_copies: 2.0
-- name: Rough
-  weight: 0.0294
-  avg_copies: 2.0
-- name: Inti, Seneschal of the Sun
   weight: 0.0294
   avg_copies: 2.0
 - name: Flameblade Adept
@@ -192,19 +192,19 @@ top_cards:
 - name: Break the Ice
   weight: 0.0294
   avg_copies: 2.0
-- name: Cam and Farrik, Havoc Duo
+- name: Rough
   weight: 0.0294
   avg_copies: 2.0
-- name: Magus of the Moon
+- name: Inti, Seneschal of the Sun
   weight: 0.0294
   avg_copies: 2.0
+- name: Barbarian Ring
+  weight: 0.0294
+  avg_copies: 1.0
 - name: Shattering Spree
   weight: 0.0294
   avg_copies: 1.0
 - name: Overlord of the Balemurk
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Barbarian Ring
   weight: 0.0294
   avg_copies: 1.0
 ---

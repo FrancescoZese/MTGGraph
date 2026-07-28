@@ -18,10 +18,10 @@ archetypes:
     weight: 0.0376
     avg_copies: 1.4
   azorius-control:
-    weight: 0.0233
+    weight: 0.023
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.0962
+    weight: 0.0943
     avg_copies: 3.0
   affinity:
     weight: 0.004
@@ -51,7 +51,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.0063
+    weight: 0.0062
     avg_copies: 2.0
   grixis-control:
     weight: 1.0
@@ -90,8 +90,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-47:
-    weight: 0.7593
-    avg_copies: 2.26
+    weight: 0.7615
+    avg_copies: 2.25
   unknown-51:
     weight: 1.0
     avg_copies: 4.0
@@ -102,7 +102,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-62:
-    weight: 0.0667
+    weight: 0.0645
     avg_copies: 1.0
   unknown-63:
     weight: 1.0

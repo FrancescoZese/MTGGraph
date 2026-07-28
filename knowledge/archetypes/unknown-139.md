@@ -6,25 +6,25 @@ name: 'Unknown #139'
 meta_share: 0.0008
 list_count: 5
 top_cards:
-- name: Archon of Cruelty
+- name: Persist
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Persist
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 4.0
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
 - name: Fallaji Archaeologist
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 4.0
 - name: Gran-Gran
-  weight: 1.0
-  avg_copies: 4.0
-- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
@@ -36,10 +36,10 @@ top_cards:
 - name: Unearth
   weight: 1.0
   avg_copies: 3.4
-- name: Undercity Sewers
+- name: Watery Grave
   weight: 1.0
   avg_copies: 2.8
-- name: Watery Grave
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 2.8
 - name: Flare of Denial
@@ -75,10 +75,10 @@ top_cards:
 - name: Verdant Catacombs
   weight: 0.8
   avg_copies: 1.25
-- name: Harbinger of the Seas
+- name: Marsh Flats
   weight: 0.8
   avg_copies: 1.0
-- name: Marsh Flats
+- name: Harbinger of the Seas
   weight: 0.8
   avg_copies: 1.0
 - name: Emperor of Bones
@@ -102,43 +102,43 @@ top_cards:
 - name: Scalding Tarn
   weight: 0.2
   avg_copies: 4.0
-- name: Nihil Spellbomb
-  weight: 0.2
-  avg_copies: 2.0
 - name: card:shredder-s-technique
   weight: 0.2
   avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.2
   avg_copies: 2.0
-- name: Meltdown
+- name: Nihil Spellbomb
   weight: 0.2
-  avg_copies: 1.0
-- name: Damping Sphere
-  weight: 0.2
-  avg_copies: 1.0
-- name: Ashiok, Dream Render
-  weight: 0.2
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Chalice of the Void
-  weight: 0.2
-  avg_copies: 1.0
-- name: Steam Vents
-  weight: 0.2
-  avg_copies: 1.0
-- name: Blood Crypt
-  weight: 0.2
-  avg_copies: 1.0
-- name: Vexing Bauble
   weight: 0.2
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.2
   avg_copies: 1.0
+- name: Meltdown
+  weight: 0.2
+  avg_copies: 1.0
+- name: Steam Vents
+  weight: 0.2
+  avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.2
   avg_copies: 1.0
+- name: Ashiok, Dream Render
+  weight: 0.2
+  avg_copies: 1.0
+- name: Vexing Bauble
+  weight: 0.2
+  avg_copies: 1.0
 - name: Emeritus of Ideation
+  weight: 0.2
+  avg_copies: 1.0
+- name: Damping Sphere
+  weight: 0.2
+  avg_copies: 1.0
+- name: Blood Crypt
   weight: 0.2
   avg_copies: 1.0
 ---

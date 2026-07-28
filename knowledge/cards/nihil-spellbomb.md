@@ -15,7 +15,7 @@ archetypes:
     weight: 0.0075
     avg_copies: 1.0
   goryo:
-    weight: 0.4841
+    weight: 0.4826
     avg_copies: 1.26
   domain-zoo:
     weight: 0.5606
@@ -48,7 +48,7 @@ archetypes:
     weight: 0.0132
     avg_copies: 1.25
   esper-blink:
-    weight: 0.2661
+    weight: 0.2636
     avg_copies: 1.66
   azorius-blink:
     weight: 0.0156
@@ -66,13 +66,13 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   goryo1:
-    weight: 0.2201
+    weight: 0.2174
     avg_copies: 1.2
   goryo5:
     weight: 0.087
     avg_copies: 1.0
   goryo2:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 1.0
   soultrader-combo:
     weight: 0.1667
@@ -126,7 +126,7 @@ archetypes:
     weight: 0.0345
     avg_copies: 2.0
   unknown-47:
-    weight: 0.8704
+    weight: 0.8716
     avg_copies: 1.87
   unknown-52:
     weight: 1.0
@@ -156,8 +156,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-97:
-    weight: 0.8462
-    avg_copies: 3.45
+    weight: 0.8571
+    avg_copies: 3.42
   unknown-100:
     weight: 0.75
     avg_copies: 1.0
@@ -237,6 +237,9 @@ archetypes:
     weight: 0.1111
     avg_copies: 1.0
   unknown-215:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-218:
     weight: 1.0
     avg_copies: 1.0
 ---

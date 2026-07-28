@@ -3,22 +3,22 @@ colors:
 - B
 - R
 name: 'Unknown #101'
-meta_share: 0.0017
+meta_share: 0.0016
 list_count: 10
 top_cards:
-- name: Detective's Phoenix
-  weight: 1.0
-  avg_copies: 4.0
 - name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
-- name: Street Wraith
+- name: Detective's Phoenix
   weight: 1.0
   avg_copies: 4.0
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Hollow One
+  weight: 1.0
+  avg_copies: 4.0
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Blood Crypt
@@ -36,10 +36,10 @@ top_cards:
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.1
-- name: Marauding Mako
+- name: Burning Inquiry
   weight: 0.9
   avg_copies: 4.0
-- name: Burning Inquiry
+- name: Marauding Mako
   weight: 0.9
   avg_copies: 4.0
 - name: Lightning Bolt
@@ -75,10 +75,10 @@ top_cards:
 - name: Magebane Lizard
   weight: 0.5
   avg_copies: 3.6
-- name: Obsidian Charmaw
+- name: Tarfire
   weight: 0.5
   avg_copies: 2.0
-- name: Tarfire
+- name: Obsidian Charmaw
   weight: 0.5
   avg_copies: 2.0
 - name: Swamp
@@ -87,10 +87,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.4
   avg_copies: 1.5
-- name: Nihil Spellbomb
+- name: Pyroclasm
   weight: 0.4
   avg_copies: 1.25
-- name: Pyroclasm
+- name: Nihil Spellbomb
   weight: 0.4
   avg_copies: 1.25
 - name: Rough
@@ -108,22 +108,22 @@ top_cards:
 - name: Faerie Macabre
   weight: 0.3
   avg_copies: 2.67
-- name: Vexing Bauble
+- name: Dragon's Rage Channeler
   weight: 0.3
   avg_copies: 2.67
-- name: Dragon's Rage Channeler
+- name: Vexing Bauble
   weight: 0.3
   avg_copies: 2.67
 - name: Blood Moon
   weight: 0.3
   avg_copies: 2.0
-- name: Mount Doom
-  weight: 0.2
-  avg_copies: 1.0
 - name: Marsh Flats
   weight: 0.2
   avg_copies: 1.0
 - name: Polluted Delta
+  weight: 0.2
+  avg_copies: 1.0
+- name: Mount Doom
   weight: 0.2
   avg_copies: 1.0
 - name: Mishra's Bauble
@@ -135,25 +135,25 @@ top_cards:
 - name: Wear
   weight: 0.1
   avg_copies: 2.0
+- name: Blackcleave Cliffs
+  weight: 0.1
+  avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 0.1
+  avg_copies: 1.0
+- name: Abrade
+  weight: 0.1
+  avg_copies: 1.0
 - name: Cool but Rude
   weight: 0.1
   avg_copies: 1.0
 - name: Molten Collapse
   weight: 0.1
   avg_copies: 1.0
-- name: Abrade
-  weight: 0.1
-  avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 0.1
-  avg_copies: 1.0
 - name: Ox of Agonas
   weight: 0.1
   avg_copies: 1.0
 - name: Sheoldred's Edict
-  weight: 0.1
-  avg_copies: 1.0
-- name: Blackcleave Cliffs
   weight: 0.1
   avg_copies: 1.0
 - name: Seal of Fire

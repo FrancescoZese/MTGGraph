@@ -8,10 +8,10 @@ top_cards:
 - name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Power Plant
+- name: Urza's Tower
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Tower
+- name: Urza's Power Plant
   weight: 1.0
   avg_copies: 4.0
 - name: Expedition Map
@@ -119,10 +119,10 @@ top_cards:
 - name: Nulldrifter
   weight: 0.1304
   avg_copies: 2.67
-- name: Unable to Scream
+- name: Marrow Shards
   weight: 0.1304
   avg_copies: 2.33
-- name: Marrow Shards
+- name: Unable to Scream
   weight: 0.1304
   avg_copies: 2.33
 - name: Chalice of the Void
@@ -131,10 +131,10 @@ top_cards:
 - name: Ugin's Binding
   weight: 0.1304
   avg_copies: 1.33
-- name: Hall of Storm Giants
+- name: Walking Ballista
   weight: 0.1304
   avg_copies: 1.0
-- name: Walking Ballista
+- name: Hall of Storm Giants
   weight: 0.1304
   avg_copies: 1.0
 - name: Talisman of Curiosity
@@ -158,40 +158,40 @@ top_cards:
 - name: All Is Dust
   weight: 0.087
   avg_copies: 1.5
+- name: Sundering Titan
+  weight: 0.087
+  avg_copies: 1.0
+- name: Ensnaring Bridge
+  weight: 0.087
+  avg_copies: 1.0
+- name: Wurmcoil Engine
+  weight: 0.087
+  avg_copies: 1.0
+- name: Cityscape Leveler
+  weight: 0.087
+  avg_copies: 1.0
+- name: Liquimetal Coating
+  weight: 0.087
+  avg_copies: 1.0
+- name: Oblivion Stone
+  weight: 0.087
+  avg_copies: 1.0
 - name: Commandeer
   weight: 0.087
   avg_copies: 1.0
 - name: Oboro, Palace in the Clouds
   weight: 0.087
   avg_copies: 1.0
-- name: Liquimetal Coating
+- name: Ugin, the Spirit Dragon
+  weight: 0.087
+  avg_copies: 1.0
+- name: Soulless Jailer
   weight: 0.087
   avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 0.087
   avg_copies: 1.0
 - name: Snow-Covered Island
-  weight: 0.087
-  avg_copies: 1.0
-- name: Sundering Titan
-  weight: 0.087
-  avg_copies: 1.0
-- name: Ugin, the Spirit Dragon
-  weight: 0.087
-  avg_copies: 1.0
-- name: Cityscape Leveler
-  weight: 0.087
-  avg_copies: 1.0
-- name: Ensnaring Bridge
-  weight: 0.087
-  avg_copies: 1.0
-- name: Oblivion Stone
-  weight: 0.087
-  avg_copies: 1.0
-- name: Wurmcoil Engine
-  weight: 0.087
-  avg_copies: 1.0
-- name: Soulless Jailer
   weight: 0.087
   avg_copies: 1.0
 - name: Strix Serenade
@@ -203,31 +203,31 @@ top_cards:
 - name: Mindbreak Trap
   weight: 0.0435
   avg_copies: 2.0
-- name: Sire of Seven Deaths
+- name: Nimble Obstructionist
   weight: 0.0435
   avg_copies: 2.0
 - name: Change the Equation
   weight: 0.0435
   avg_copies: 2.0
-- name: Nimble Obstructionist
+- name: Sire of Seven Deaths
   weight: 0.0435
   avg_copies: 2.0
 - name: Talisman of Progress
   weight: 0.0435
   avg_copies: 1.0
-- name: Temporal Mastery
-  weight: 0.0435
-  avg_copies: 1.0
-- name: card:aether-gust
+- name: Boseiju, Who Shelters All
   weight: 0.0435
   avg_copies: 1.0
 - name: Vexing Bauble
   weight: 0.0435
   avg_copies: 1.0
+- name: card:aether-gust
+  weight: 0.0435
+  avg_copies: 1.0
 - name: Mistrise Village
   weight: 0.0435
   avg_copies: 1.0
-- name: Boseiju, Who Shelters All
+- name: Temporal Mastery
   weight: 0.0435
   avg_copies: 1.0
 ---

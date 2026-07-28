@@ -19,10 +19,10 @@ archetypes:
     weight: 0.0213
     avg_copies: 2.67
   esper-blink:
-    weight: 0.0092
+    weight: 0.0091
     avg_copies: 1.0
   goryo2:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 1.0
   sultai-midrange:
     weight: 0.25
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.0625
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0429
+    weight: 0.0423
     avg_copies: 1.67
   unknown-167:
     weight: 0.125

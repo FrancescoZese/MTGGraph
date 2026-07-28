@@ -12,7 +12,7 @@ archetypes:
     weight: 0.009
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.0136
+    weight: 0.0135
     avg_copies: 1.0
   boros-ponza:
     weight: 0.0355
@@ -33,6 +33,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0143
+    weight: 0.0141
     avg_copies: 1.0
 ---

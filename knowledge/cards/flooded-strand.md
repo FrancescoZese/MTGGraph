@@ -9,8 +9,8 @@ type: Land
 meta_presence: 0.3525
 archetypes:
   boros-energy:
-    weight: 0.8605
-    avg_copies: 3.43
+    weight: 0.8609
+    avg_copies: 3.42
   dimir-control:
     weight: 0.8765
     avg_copies: 2.87
@@ -18,19 +18,19 @@ archetypes:
     weight: 1.0
     avg_copies: 3.87
   goryo:
-    weight: 0.9936
+    weight: 0.9937
     avg_copies: 3.43
   azorius-control:
     weight: 1.0
-    avg_copies: 3.93
+    avg_copies: 3.91
   living-end:
     weight: 0.0725
     avg_copies: 1.2
   jeskai-control:
     weight: 1.0
-    avg_copies: 3.9
+    avg_copies: 3.91
   affinity:
-    weight: 0.018
+    weight: 0.0179
     avg_copies: 1.89
   domain-zoo:
     weight: 0.9848
@@ -42,8 +42,8 @@ archetypes:
     weight: 0.037
     avg_copies: 4.0
   neoform-combo:
-    weight: 0.6988
-    avg_copies: 1.16
+    weight: 0.7059
+    avg_copies: 1.15
   hammer-time:
     weight: 0.8571
     avg_copies: 2.83
@@ -91,7 +91,7 @@ archetypes:
     avg_copies: 4.0
   goryo2:
     weight: 1.0
-    avg_copies: 3.41
+    avg_copies: 3.39
   goryo3:
     weight: 1.0
     avg_copies: 4.0
@@ -110,6 +110,9 @@ archetypes:
   unknown-5:
     weight: 1.0
     avg_copies: 3.71
+  unknown-6:
+    weight: 0.0833
+    avg_copies: 2.0
   unknown-9:
     weight: 1.0
     avg_copies: 3.0
@@ -141,8 +144,8 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   unknown-47:
-    weight: 0.9167
-    avg_copies: 2.65
+    weight: 0.9174
+    avg_copies: 2.64
   unknown-51:
     weight: 1.0
     avg_copies: 4.0
@@ -157,7 +160,7 @@ archetypes:
     avg_copies: 2.0
   unknown-62:
     weight: 1.0
-    avg_copies: 3.9
+    avg_copies: 3.81
   unknown-60:
     weight: 1.0
     avg_copies: 4.0

@@ -7,7 +7,7 @@ name: Spell Snare
 scryfall_id: b7551b61-656e-4f37-b9da-73174db983b7
 set: ecl
 type: Instant
-meta_presence: 0.1412
+meta_presence: 0.1418
 archetypes:
   ruby-storm:
     weight: 0.0045
@@ -22,14 +22,14 @@ archetypes:
     weight: 0.188
     avg_copies: 1.15
   goryo:
-    weight: 0.4236
-    avg_copies: 1.35
+    weight: 0.4259
+    avg_copies: 1.34
   azorius-control:
-    weight: 0.7442
-    avg_copies: 1.73
+    weight: 0.7471
+    avg_copies: 1.74
   jeskai-control:
-    weight: 0.6538
-    avg_copies: 1.26
+    weight: 0.6604
+    avg_copies: 1.25
   affinity:
     weight: 0.004
     avg_copies: 1.0
@@ -40,7 +40,7 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0723
+    weight: 0.0706
     avg_copies: 1.67
   mono-blue-tron:
     weight: 0.4348
@@ -82,11 +82,11 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   goryo1:
-    weight: 0.1384
-    avg_copies: 1.26
+    weight: 0.1491
+    avg_copies: 1.31
   goryo2:
-    weight: 0.2941
-    avg_copies: 2.11
+    weight: 0.2778
+    avg_copies: 2.1
   goryo3:
     weight: 1.0
     avg_copies: 2.0
@@ -130,7 +130,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9815
+    weight: 0.9817
     avg_copies: 2.0
   unknown-53:
     weight: 1.0
@@ -139,7 +139,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-62:
-    weight: 0.3667
+    weight: 0.3548
     avg_copies: 1.79
   unknown-73:
     weight: 1.0
@@ -240,4 +240,10 @@ archetypes:
   unknown-216:
     weight: 1.0
     avg_copies: 1.5
+  unknown-219:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-218:
+    weight: 1.0
+    avg_copies: 3.0
 ---

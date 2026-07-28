@@ -6,9 +6,12 @@ name: Marrow Shards
 scryfall_id: 53ca60ee-e54b-4a28-b6a6-7bf3503c35b4
 set: nph
 type: Instant
-meta_presence: 0.0005
+meta_presence: 0.0007
 archetypes:
   mono-blue-tron:
     weight: 0.1304
     avg_copies: 2.33
+  unknown-219:
+    weight: 1.0
+    avg_copies: 2.0
 ---

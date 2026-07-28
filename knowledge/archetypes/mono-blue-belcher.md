@@ -2,7 +2,7 @@
 colors:
 - U
 name: Mono Blue Belcher
-meta_share: 0.0137
+meta_share: 0.0136
 list_count: 83
 top_cards:
 - name: Goblin Charbelcher
@@ -26,10 +26,10 @@ top_cards:
 - name: Disrupting Shoal
   weight: 1.0
   avg_copies: 3.96
-- name: Suppression Ray
+- name: Sea Gate Restoration
   weight: 1.0
   avg_copies: 3.92
-- name: Sea Gate Restoration
+- name: Suppression Ray
   weight: 1.0
   avg_copies: 3.92
 - name: Jwari Disruption
@@ -149,34 +149,34 @@ top_cards:
 - name: Hope of Ghirapur
   weight: 0.012
   avg_copies: 1.0
+- name: card:threads-of-disloyalty
+  weight: 0.012
+  avg_copies: 1.0
+- name: Isochron Scepter
+  weight: 0.012
+  avg_copies: 1.0
+- name: card:diary-of-dreams
+  weight: 0.012
+  avg_copies: 1.0
+- name: Witch Enchanter
+  weight: 0.012
+  avg_copies: 1.0
+- name: Dress Down
+  weight: 0.012
+  avg_copies: 1.0
+- name: Erode
+  weight: 0.012
+  avg_copies: 1.0
 - name: Displacement Wave
+  weight: 0.012
+  avg_copies: 1.0
+- name: Surgical Extraction
   weight: 0.012
   avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.012
   avg_copies: 1.0
 - name: Shadow of Doubt
-  weight: 0.012
-  avg_copies: 1.0
-- name: Witch Enchanter
-  weight: 0.012
-  avg_copies: 1.0
-- name: card:threads-of-disloyalty
-  weight: 0.012
-  avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.012
-  avg_copies: 1.0
-- name: Dress Down
-  weight: 0.012
-  avg_copies: 1.0
-- name: Isochron Scepter
-  weight: 0.012
-  avg_copies: 1.0
-- name: Erode
-  weight: 0.012
-  avg_copies: 1.0
-- name: card:diary-of-dreams
   weight: 0.012
   avg_copies: 1.0
 ---

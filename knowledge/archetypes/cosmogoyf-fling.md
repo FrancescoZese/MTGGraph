@@ -4,16 +4,16 @@ colors:
 - R
 - G
 name: Cosmogoyf Fling
-meta_share: 0.0068
+meta_share: 0.0067
 list_count: 41
 top_cards:
 - name: Thud
   weight: 1.0
   avg_copies: 4.0
-- name: Gemstone Caverns
+- name: Spoils of the Vault
   weight: 1.0
   avg_copies: 3.93
-- name: Spoils of the Vault
+- name: Gemstone Caverns
   weight: 1.0
   avg_copies: 3.93
 - name: Plunge into Darkness
@@ -118,10 +118,10 @@ top_cards:
 - name: Leyline of the Void
   weight: 0.0976
   avg_copies: 1.0
-- name: Leyline of the Guildpact
+- name: Scion of Draco
   weight: 0.0732
   avg_copies: 4.0
-- name: Scion of Draco
+- name: Leyline of the Guildpact
   weight: 0.0732
   avg_copies: 4.0
 - name: Sorin, Imperious Bloodlord
@@ -139,10 +139,10 @@ top_cards:
 - name: card:noxious-revival
   weight: 0.0488
   avg_copies: 2.5
-- name: Vexing Bauble
+- name: Natural State
   weight: 0.0488
   avg_copies: 2.0
-- name: Natural State
+- name: Vexing Bauble
   weight: 0.0488
   avg_copies: 2.0
 - name: card:cragcrown-pathway
@@ -157,10 +157,10 @@ top_cards:
 - name: Mana Confluence
   weight: 0.0244
   avg_copies: 4.0
-- name: Pyroclasm
+- name: Death's Shadow
   weight: 0.0244
   avg_copies: 2.0
-- name: Death's Shadow
+- name: Pyroclasm
   weight: 0.0244
   avg_copies: 2.0
 - name: Meltdown

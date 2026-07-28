@@ -4,7 +4,7 @@ colors:
 - B
 - G
 name: 'Unknown #126'
-meta_share: 0.005
+meta_share: 0.0049
 list_count: 30
 top_cards:
 - name: Nature's Rhythm
@@ -22,10 +22,10 @@ top_cards:
 - name: Delighted Halfling
   weight: 1.0
   avg_copies: 3.8
-- name: Verdant Catacombs
+- name: Tyvar, Jubilant Brawler
   weight: 1.0
   avg_copies: 3.8
-- name: Tyvar, Jubilant Brawler
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 3.8
 - name: Windswept Heath
@@ -49,16 +49,16 @@ top_cards:
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.2
-- name: Walking Ballista
-  weight: 1.0
-  avg_copies: 1.0
-- name: Duskwatch Recruiter
+- name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
 - name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
-- name: Collector Ouphe
+- name: Duskwatch Recruiter
+  weight: 1.0
+  avg_copies: 1.0
+- name: Walking Ballista
   weight: 1.0
   avg_copies: 1.0
 - name: card:birds-of-paradise
@@ -70,10 +70,10 @@ top_cards:
 - name: Ouroboroid
   weight: 0.9
   avg_copies: 1.07
-- name: Kraul Harpooner
+- name: Outland Liberator
   weight: 0.8333
   avg_copies: 1.0
-- name: Outland Liberator
+- name: Kraul Harpooner
   weight: 0.8333
   avg_copies: 1.0
 - name: Misty Rainforest
@@ -82,16 +82,16 @@ top_cards:
 - name: Shifting Woodland
   weight: 0.7333
   avg_copies: 1.77
-- name: Grist, the Hunger Tide
-  weight: 0.7333
-  avg_copies: 1.0
 - name: Keen-Eyed Curator
   weight: 0.7333
   avg_copies: 1.0
-- name: Eternal Witness
+- name: Grist, the Hunger Tide
   weight: 0.7333
   avg_copies: 1.0
 - name: Godless Shrine
+  weight: 0.7333
+  avg_copies: 1.0
+- name: Eternal Witness
   weight: 0.7333
   avg_copies: 1.0
 - name: Lush Portico
@@ -133,10 +133,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.4333
   avg_copies: 1.85
-- name: card:shang-chi-master-of-kung-fu
+- name: Drannith Magistrate
   weight: 0.3667
   avg_copies: 1.0
-- name: Drannith Magistrate
+- name: card:shang-chi-master-of-kung-fu
   weight: 0.3667
   avg_copies: 1.0
 - name: Leyline of Abundance
@@ -169,37 +169,37 @@ top_cards:
 - name: Postmortem Lunge
   weight: 0.0333
   avg_copies: 2.0
+- name: High Noon
+  weight: 0.0333
+  avg_copies: 2.0
 - name: Burrenton Forge-Tender
   weight: 0.0333
   avg_copies: 2.0
 - name: Thoughtseize
   weight: 0.0333
   avg_copies: 2.0
-- name: High Noon
-  weight: 0.0333
-  avg_copies: 2.0
 - name: Formidable Speaker
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Crystal Barricade
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Horizon Canopy
-  weight: 0.0333
-  avg_copies: 1.0
-- name: card:mark-of-asylum
   weight: 0.0333
   avg_copies: 1.0
 - name: Six
   weight: 0.0333
   avg_copies: 1.0
-- name: card:dauntless-escort
+- name: Crystal Barricade
+  weight: 0.0333
+  avg_copies: 1.0
+- name: card:mark-of-asylum
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Horizon Canopy
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Reclamation Sage
   weight: 0.0333
   avg_copies: 1.0
 - name: Rhonas the Indomitable
   weight: 0.0333
   avg_copies: 1.0
-- name: Reclamation Sage
+- name: card:dauntless-escort
   weight: 0.0333
   avg_copies: 1.0
 ---

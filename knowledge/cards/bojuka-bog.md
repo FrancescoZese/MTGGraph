@@ -6,7 +6,7 @@ name: Bojuka Bog
 scryfall_id: 55b5b094-9d2d-4d96-b90c-78fecdae725a
 set: soc
 type: Land
-meta_presence: 0.0465
+meta_presence: 0.0462
 archetypes:
   eldrazi-tron:
     weight: 0.0034
@@ -18,7 +18,7 @@ archetypes:
     weight: 0.871
     avg_copies: 1.03
   broodscale-combo:
-    weight: 0.0489
+    weight: 0.0474
     avg_copies: 1.0
   scapeshift-combo:
     weight: 0.3333
@@ -33,13 +33,13 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   unknown-61:
-    weight: 0.0323
+    weight: 0.0299
     avg_copies: 1.0
   unknown-76:
     weight: 0.5
     avg_copies: 1.0
   unknown-97:
-    weight: 0.1538
+    weight: 0.1429
     avg_copies: 1.0
   unknown-137:
     weight: 1.0

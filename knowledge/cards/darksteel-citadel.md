@@ -9,7 +9,7 @@ type: Artifact Land
 meta_presence: 0.0069
 archetypes:
   eldrazi-tron:
-    weight: 0.0847
+    weight: 0.0845
     avg_copies: 1.0
   hardened-scales:
     weight: 1.0
@@ -18,7 +18,7 @@ archetypes:
     weight: 0.0081
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0038
+    weight: 0.0036
     avg_copies: 3.0
   unknown-44:
     weight: 1.0

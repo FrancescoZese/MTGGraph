@@ -6,25 +6,25 @@ name: 'Unknown #125'
 meta_share: 0.0007
 list_count: 4
 top_cards:
-- name: Psychic Frog
+- name: Counterspell
   weight: 1.0
   avg_copies: 4.0
 - name: Abhorrent Oculus
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Unearth
   weight: 1.0
   avg_copies: 4.0
-- name: Thought Scour
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Counterspell
+- name: Thought Scour
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
@@ -33,10 +33,10 @@ top_cards:
 - name: Force of Negation
   weight: 1.0
   avg_copies: 3.0
-- name: Harbinger of the Seas
+- name: Watery Grave
   weight: 1.0
   avg_copies: 2.75
-- name: Watery Grave
+- name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 2.75
 - name: Island
@@ -45,19 +45,19 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.25
-- name: Nihil Spellbomb
-  weight: 1.0
-  avg_copies: 2.0
-- name: Spell Snare
-  weight: 1.0
-  avg_copies: 2.0
-- name: Undercity Sewers
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 2.0
 - name: Murktide Regent
   weight: 1.0
   avg_copies: 2.0
-- name: Marsh Flats
+- name: Undercity Sewers
+  weight: 1.0
+  avg_copies: 2.0
+- name: Nihil Spellbomb
+  weight: 1.0
+  avg_copies: 2.0
+- name: Spell Snare
   weight: 1.0
   avg_copies: 2.0
 - name: Sink into Stupor
@@ -78,19 +78,19 @@ top_cards:
 - name: Gloomlake Verge
   weight: 0.75
   avg_copies: 2.0
-- name: Misty Rainforest
+- name: Flooded Strand
   weight: 0.75
   avg_copies: 1.0
-- name: Toxic Deluge
+- name: Shoot the Sheriff
+  weight: 0.75
+  avg_copies: 1.0
+- name: Misty Rainforest
   weight: 0.75
   avg_copies: 1.0
 - name: The Meathook Massacre
   weight: 0.75
   avg_copies: 1.0
-- name: Flooded Strand
-  weight: 0.75
-  avg_copies: 1.0
-- name: Shoot the Sheriff
+- name: Toxic Deluge
   weight: 0.75
   avg_copies: 1.0
 - name: Go for the Throat
@@ -102,25 +102,25 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.25
   avg_copies: 2.0
-- name: Subtlety
-  weight: 0.25
-  avg_copies: 2.0
 - name: Scalding Tarn
   weight: 0.25
   avg_copies: 2.0
 - name: Darkslick Shores
   weight: 0.25
   avg_copies: 2.0
-- name: Boggart Trawler
+- name: Subtlety
   weight: 0.25
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Snapcaster Mage
   weight: 0.25
   avg_copies: 1.0
-- name: Spell Pierce
+- name: Boggart Trawler
   weight: 0.25
   avg_copies: 1.0
 - name: Dreams of Steel and Oil
+  weight: 0.25
+  avg_copies: 1.0
+- name: Spell Pierce
   weight: 0.25
   avg_copies: 1.0
 ---

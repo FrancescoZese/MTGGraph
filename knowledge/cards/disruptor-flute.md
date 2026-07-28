@@ -15,13 +15,13 @@ archetypes:
     weight: 0.015
     avg_copies: 2.0
   eldrazi-tron:
-    weight: 0.9051
+    weight: 0.9054
     avg_copies: 1.66
   necrodominance:
     weight: 0.1818
     avg_copies: 1.62
   azorius-control:
-    weight: 0.0581
+    weight: 0.0575
     avg_copies: 1.0
   affinity:
     weight: 0.002
@@ -42,8 +42,8 @@ archetypes:
     weight: 0.0033
     avg_copies: 2.0
   broodscale-combo:
-    weight: 0.0075
-    avg_copies: 1.0
+    weight: 0.0109
+    avg_copies: 1.33
   azorius-blink:
     weight: 0.0156
     avg_copies: 1.0
@@ -75,8 +75,8 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-97:
-    weight: 0.3077
-    avg_copies: 1.5
+    weight: 0.3571
+    avg_copies: 1.6
   unknown-119:
     weight: 1.0
     avg_copies: 2.5
@@ -87,7 +87,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0143
+    weight: 0.0141
     avg_copies: 1.0
   unknown-167:
     weight: 0.25

@@ -6,10 +6,10 @@ name: Memnite
 scryfall_id: 975459ba-e1c2-4800-a3fa-5c0cf8ce728f
 set: td2
 type: Artifact Creature — Construct
-meta_presence: 0.006
+meta_presence: 0.0061
 archetypes:
   affinity:
-    weight: 0.0499
+    weight: 0.0497
     avg_copies: 3.04
   hammer-time:
     weight: 0.2857
@@ -18,8 +18,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-49:
-    weight: 0.6667
-    avg_copies: 3.5
+    weight: 0.75
+    avg_copies: 2.67
   unknown-119:
     weight: 1.0
     avg_copies: 4.0

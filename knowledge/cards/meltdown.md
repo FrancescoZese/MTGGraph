@@ -13,8 +13,8 @@ archetypes:
     weight: 0.1076
     avg_copies: 1.33
   boros-energy:
-    weight: 0.0879
-    avg_copies: 1.24
+    weight: 0.089
+    avg_copies: 1.27
   dimir-control:
     weight: 0.2716
     avg_copies: 2.5
@@ -25,10 +25,10 @@ archetypes:
     weight: 0.0682
     avg_copies: 1.67
   azorius-control:
-    weight: 0.0116
+    weight: 0.0115
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.0769
+    weight: 0.0755
     avg_copies: 1.0
   domain-zoo:
     weight: 0.0379
@@ -61,7 +61,7 @@ archetypes:
     weight: 0.2667
     avg_copies: 1.25
   broodscale-combo:
-    weight: 0.0075
+    weight: 0.0073
     avg_copies: 1.0
   dredge:
     weight: 0.7692
@@ -94,7 +94,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 2.0
   goryo1:
-    weight: 0.9686
+    weight: 0.9689
     avg_copies: 1.99
   grixis-control:
     weight: 1.0
@@ -139,7 +139,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-47:
-    weight: 0.0093
+    weight: 0.0092
     avg_copies: 2.0
   unknown-53:
     weight: 1.0
@@ -148,7 +148,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.0
   unknown-62:
-    weight: 0.0333
+    weight: 0.0323
     avg_copies: 1.0
   unknown-64:
     weight: 1.0
@@ -172,8 +172,8 @@ archetypes:
     weight: 0.8182
     avg_copies: 2.56
   unknown-96:
-    weight: 0.76
-    avg_copies: 2.84
+    weight: 0.7692
+    avg_copies: 2.85
   unknown-90:
     weight: 1.0
     avg_copies: 1.0
@@ -226,7 +226,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-160:
-    weight: 0.0143
+    weight: 0.0141
     avg_copies: 2.0
   unknown-161:
     weight: 1.0
@@ -253,6 +253,12 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-212:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-217:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-218:
     weight: 1.0
     avg_copies: 2.0
 ---

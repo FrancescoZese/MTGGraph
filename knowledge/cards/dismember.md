@@ -4,7 +4,7 @@ archetypes:
     weight: 0.0123
     avg_copies: 3.0
   eldrazi-tron:
-    weight: 0.9424
+    weight: 0.9426
     avg_copies: 1.84
   amulet-titan:
     weight: 0.9874
@@ -16,7 +16,7 @@ archetypes:
     weight: 0.7971
     avg_copies: 1.89
   neoform-combo:
-    weight: 0.0843
+    weight: 0.0824
     avg_copies: 1.0
   mono-blue-tron:
     weight: 0.3478
@@ -34,8 +34,8 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.5602
-    avg_copies: 1.7
+    weight: 0.5547
+    avg_copies: 1.69
   rakdos-aggro:
     weight: 0.1579
     avg_copies: 1.0
@@ -52,8 +52,8 @@ archetypes:
     weight: 0.8182
     avg_copies: 2.44
   unknown-61:
-    weight: 0.4839
-    avg_copies: 1.27
+    weight: 0.4776
+    avg_copies: 1.24
   unknown-55:
     weight: 1.0
     avg_copies: 1.0
@@ -70,7 +70,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   unknown-97:
-    weight: 0.0769
+    weight: 0.0714
     avg_copies: 2.0
   unknown-103:
     weight: 1.0

@@ -4,16 +4,16 @@ colors:
 - U
 - R
 name: 'Unknown #149'
-meta_share: 0.0017
+meta_share: 0.0016
 list_count: 10
 top_cards:
-- name: Arid Mesa
-  weight: 1.0
-  avg_copies: 4.0
 - name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
 - name: Ajani, Nacatl Pariah
@@ -55,16 +55,16 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.1
-- name: Elegant Parlor
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Mountain
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Island
@@ -124,10 +124,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.3
   avg_copies: 2.0
-- name: Surgical Extraction
+- name: Wear
   weight: 0.3
   avg_copies: 1.67
-- name: Wear
+- name: Surgical Extraction
   weight: 0.3
   avg_copies: 1.67
 - name: Rest in Peace
@@ -139,10 +139,10 @@ top_cards:
 - name: Arena of Glory
   weight: 0.2
   avg_copies: 1.0
-- name: Voice of Victory
+- name: Marsh Flats
   weight: 0.1
   avg_copies: 2.0
-- name: Marsh Flats
+- name: Voice of Victory
   weight: 0.1
   avg_copies: 2.0
 - name: Clarion Conqueror
@@ -151,10 +151,10 @@ top_cards:
 - name: Detect Intrusion
   weight: 0.1
   avg_copies: 1.0
-- name: Deafening Silence
+- name: March of Otherworldly Light
   weight: 0.1
   avg_copies: 1.0
-- name: March of Otherworldly Light
+- name: Deafening Silence
   weight: 0.1
   avg_copies: 1.0
 - name: Containment Priest

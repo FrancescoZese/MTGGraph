@@ -7,7 +7,7 @@ name: Consign to Memory
 scryfall_id: bc95af55-d1dd-4fe6-adb0-3ad6db20d986
 set: mh3
 type: Instant
-meta_presence: 0.4632
+meta_presence: 0.4634
 archetypes:
   ruby-storm:
     weight: 0.0045
@@ -25,8 +25,8 @@ archetypes:
     weight: 0.985
     avg_copies: 3.79
   goryo:
-    weight: 0.9936
-    avg_copies: 2.93
+    weight: 0.9937
+    avg_copies: 2.94
   necrodominance:
     weight: 0.0455
     avg_copies: 3.5
@@ -35,9 +35,9 @@ archetypes:
     avg_copies: 3.79
   jeskai-control:
     weight: 1.0
-    avg_copies: 3.19
+    avg_copies: 3.2
   affinity:
-    weight: 0.9481
+    weight: 0.9483
     avg_copies: 2.54
   domain-zoo:
     weight: 0.9318
@@ -49,8 +49,8 @@ archetypes:
     weight: 0.8519
     avg_copies: 2.87
   neoform-combo:
-    weight: 0.9639
-    avg_copies: 3.7
+    weight: 0.9647
+    avg_copies: 3.71
   mono-blue-tron:
     weight: 1.0
     avg_copies: 3.07
@@ -73,8 +73,8 @@ archetypes:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.9083
-    avg_copies: 2.42
+    weight: 0.9091
+    avg_copies: 2.43
   indomitable-creativity:
     weight: 0.8
     avg_copies: 3.75
@@ -109,14 +109,14 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   goryo1:
-    weight: 0.9937
-    avg_copies: 3.22
+    weight: 0.9938
+    avg_copies: 3.23
   goryo7:
     weight: 1.0
     avg_copies: 2.0
   goryo2:
     weight: 1.0
-    avg_copies: 3.1
+    avg_copies: 3.09
   goryo3:
     weight: 1.0
     avg_copies: 4.0
@@ -202,14 +202,14 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9907
-    avg_copies: 3.17
+    weight: 0.9908
+    avg_copies: 3.15
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
   unknown-49:
-    weight: 0.6667
-    avg_copies: 3.0
+    weight: 0.75
+    avg_copies: 2.33
   unknown-50:
     weight: 1.0
     avg_copies: 2.0
@@ -274,7 +274,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-97:
-    weight: 0.3846
+    weight: 0.3571
     avg_copies: 2.2
   unknown-99:
     weight: 1.0
@@ -471,4 +471,10 @@ archetypes:
   unknown-216:
     weight: 1.0
     avg_copies: 4.0
+  unknown-219:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-218:
+    weight: 1.0
+    avg_copies: 2.0
 ---

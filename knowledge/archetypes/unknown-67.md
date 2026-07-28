@@ -5,7 +5,7 @@ colors:
 - R
 - G
 name: 'Unknown #67'
-meta_share: 0.0127
+meta_share: 0.0126
 list_count: 77
 top_cards:
 - name: Violent Outburst
@@ -35,6 +35,9 @@ top_cards:
 - name: Hedge Maze
   weight: 1.0
   avg_copies: 1.05
+- name: Stomping Ground
+  weight: 1.0
+  avg_copies: 1.0
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
@@ -42,9 +45,6 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Forest
-  weight: 1.0
-  avg_copies: 1.0
-- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
 - name: Misty Rainforest
@@ -200,7 +200,7 @@ top_cards:
 - name: Polluted Delta
   weight: 0.013
   avg_copies: 3.0
-- name: Harbinger of the Seas
+- name: Culling Ritual
   weight: 0.013
   avg_copies: 2.0
 - name: Vendilion Clique
@@ -215,19 +215,22 @@ top_cards:
 - name: Bonecrusher Giant
   weight: 0.013
   avg_copies: 2.0
+- name: Harbinger of the Seas
+  weight: 0.013
+  avg_copies: 2.0
 - name: card:runescale-stormbrood
   weight: 0.013
   avg_copies: 2.0
-- name: Culling Ritual
+- name: Arid Mesa
   weight: 0.013
-  avg_copies: 2.0
+  avg_copies: 1.0
+- name: Meticulous Archive
+  weight: 0.013
+  avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.013
   avg_copies: 1.0
-- name: Harvester of Misery
-  weight: 0.013
-  avg_copies: 1.0
-- name: Overgrown Tomb
+- name: card:cascade-bluffs
   weight: 0.013
   avg_copies: 1.0
 - name: Collector Ouphe
@@ -236,28 +239,25 @@ top_cards:
 - name: Brainsurge
   weight: 0.013
   avg_copies: 1.0
-- name: Arid Mesa
-  weight: 0.013
-  avg_copies: 1.0
-- name: Gemstone Caverns
-  weight: 0.013
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.013
-  avg_copies: 1.0
 - name: High Noon
-  weight: 0.013
-  avg_copies: 1.0
-- name: Underground Mortuary
-  weight: 0.013
-  avg_copies: 1.0
-- name: Kataki, War's Wage
   weight: 0.013
   avg_copies: 1.0
 - name: Tokka & Rahzar, Terrible Twos
   weight: 0.013
   avg_copies: 1.0
-- name: card:cascade-bluffs
+- name: Underground Mortuary
+  weight: 0.013
+  avg_copies: 1.0
+- name: Harvester of Misery
+  weight: 0.013
+  avg_copies: 1.0
+- name: Overgrown Tomb
+  weight: 0.013
+  avg_copies: 1.0
+- name: Kataki, War's Wage
+  weight: 0.013
+  avg_copies: 1.0
+- name: Gemstone Caverns
   weight: 0.013
   avg_copies: 1.0
 ---

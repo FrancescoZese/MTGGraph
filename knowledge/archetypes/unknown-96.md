@@ -5,16 +5,16 @@ colors:
 - R
 - G
 name: 'Unknown #96'
-meta_share: 0.0041
-list_count: 25
+meta_share: 0.0043
+list_count: 26
 top_cards:
-- name: Hardened Academic
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Marauding Mako
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Hardened Academic
   weight: 1.0
   avg_copies: 4.0
 - name: Hollow One
@@ -25,165 +25,168 @@ top_cards:
   avg_copies: 3.88
 - name: Detective's Phoenix
   weight: 1.0
-  avg_copies: 3.76
+  avg_copies: 3.77
 - name: Arid Mesa
   weight: 1.0
-  avg_copies: 3.44
+  avg_copies: 3.46
 - name: Bloodstained Mire
   weight: 1.0
-  avg_copies: 3.4
+  avg_copies: 3.42
 - name: Sacred Foundry
   weight: 1.0
-  avg_copies: 2.76
+  avg_copies: 2.77
 - name: Mountain
   weight: 1.0
-  avg_copies: 2.68
+  avg_copies: 2.73
 - name: Practiced Offense
   weight: 1.0
-  avg_copies: 2.24
-- name: Vengevine
-  weight: 0.96
-  avg_copies: 4.0
+  avg_copies: 2.23
 - name: Burning Inquiry
-  weight: 0.96
+  weight: 0.9615
+  avg_copies: 4.0
+- name: Vengevine
+  weight: 0.9615
   avg_copies: 4.0
 - name: Blazing Rootwalla
-  weight: 0.96
+  weight: 0.9615
   avg_copies: 4.0
 - name: Elegant Parlor
-  weight: 0.96
+  weight: 0.9615
   avg_copies: 1.04
 - name: Wear
-  weight: 0.88
+  weight: 0.8846
   avg_copies: 2.09
 - name: Meltdown
-  weight: 0.76
-  avg_copies: 2.84
+  weight: 0.7692
+  avg_copies: 2.85
 - name: Wooded Foothills
-  weight: 0.76
+  weight: 0.7308
   avg_copies: 2.37
 - name: Lightning Bolt
-  weight: 0.72
-  avg_copies: 2.31
+  weight: 0.7308
+  avg_copies: 2.3
 - name: Obsidian Charmaw
-  weight: 0.68
-  avg_copies: 2.12
+  weight: 0.6923
+  avg_copies: 2.11
 - name: Fire Magic
-  weight: 0.56
-  avg_copies: 1.86
+  weight: 0.5769
+  avg_copies: 1.87
 - name: Damping Sphere
-  weight: 0.56
-  avg_copies: 1.86
+  weight: 0.5769
+  avg_copies: 1.87
 - name: Ox of Agonas
-  weight: 0.56
+  weight: 0.5769
   avg_copies: 1.0
 - name: Surgical Extraction
-  weight: 0.52
+  weight: 0.5
   avg_copies: 2.23
 - name: Vexing Bauble
-  weight: 0.32
+  weight: 0.3077
   avg_copies: 2.25
+- name: Scalding Tarn
+  weight: 0.2692
+  avg_copies: 3.71
 - name: Fable of the Mirror-Breaker
-  weight: 0.28
+  weight: 0.2692
   avg_copies: 2.43
 - name: Stomping Ground
-  weight: 0.28
+  weight: 0.2692
   avg_copies: 2.0
-- name: Scalding Tarn
-  weight: 0.24
-  avg_copies: 4.0
 - name: Leyline of the Void
-  weight: 0.24
+  weight: 0.2308
   avg_copies: 3.33
 - name: Stony Silence
-  weight: 0.24
+  weight: 0.2308
   avg_copies: 3.0
 - name: Blood Crypt
-  weight: 0.24
+  weight: 0.2308
   avg_copies: 2.0
 - name: Lingering Souls
-  weight: 0.16
+  weight: 0.1538
   avg_copies: 2.0
 - name: Rough
-  weight: 0.16
+  weight: 0.1538
   avg_copies: 1.75
 - name: Soul-Guide Lantern
-  weight: 0.16
+  weight: 0.1538
   avg_copies: 1.0
 - name: Orim's Chant
-  weight: 0.12
+  weight: 0.1154
   avg_copies: 2.33
 - name: Asmoranomardicadaistinaculdacar
-  weight: 0.12
-  avg_copies: 2.0
-- name: The Underworld Cookbook
-  weight: 0.12
+  weight: 0.1154
   avg_copies: 2.0
 - name: Seasoned Pyromancer
-  weight: 0.12
+  weight: 0.1154
+  avg_copies: 2.0
+- name: The Underworld Cookbook
+  weight: 0.1154
   avg_copies: 2.0
 - name: Fear of Missing Out
-  weight: 0.12
+  weight: 0.1154
   avg_copies: 1.0
 - name: Moonshadow
-  weight: 0.08
+  weight: 0.0769
   avg_copies: 4.0
 - name: Ghost Vacuum
-  weight: 0.08
+  weight: 0.0769
   avg_copies: 3.0
 - name: Tormod's Crypt
-  weight: 0.08
+  weight: 0.0769
   avg_copies: 2.5
 - name: Deafening Silence
-  weight: 0.08
-  avg_copies: 2.0
-- name: Orcish Bowmasters
-  weight: 0.08
+  weight: 0.0769
   avg_copies: 2.0
 - name: Magebane Lizard
-  weight: 0.08
+  weight: 0.0769
+  avg_copies: 2.0
+- name: Orcish Bowmasters
+  weight: 0.0769
   avg_copies: 2.0
 - name: Raucous Theater
-  weight: 0.08
+  weight: 0.0769
   avg_copies: 1.0
 - name: Goblin Lore
-  weight: 0.04
+  weight: 0.0385
   avg_copies: 4.0
+- name: Marsh Flats
+  weight: 0.0385
+  avg_copies: 3.0
+- name: Faerie Macabre
+  weight: 0.0385
+  avg_copies: 3.0
 - name: Price of Freedom
-  weight: 0.04
+  weight: 0.0385
   avg_copies: 3.0
 - name: Thoughtseize
-  weight: 0.04
+  weight: 0.0385
   avg_copies: 3.0
-- name: Marsh Flats
-  weight: 0.04
-  avg_copies: 3.0
-- name: Relic of Progenitus
-  weight: 0.04
+- name: Prismatic Ending
+  weight: 0.0385
   avg_copies: 2.0
-- name: Lava Dart
-  weight: 0.04
+- name: Relic of Progenitus
+  weight: 0.0385
   avg_copies: 2.0
 - name: Erode
-  weight: 0.04
+  weight: 0.0385
   avg_copies: 2.0
-- name: Prismatic Ending
-  weight: 0.04
+- name: Lava Dart
+  weight: 0.0385
   avg_copies: 2.0
 - name: Plains
-  weight: 0.04
-  avg_copies: 1.0
-- name: Pyroclasm
-  weight: 0.04
-  avg_copies: 1.0
-- name: Arena of Glory
-  weight: 0.04
+  weight: 0.0385
   avg_copies: 1.0
 - name: Godless Shrine
-  weight: 0.04
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Arena of Glory
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Pyroclasm
+  weight: 0.0385
   avg_copies: 1.0
 - name: Snow-Covered Mountain
-  weight: 0.04
+  weight: 0.0385
   avg_copies: 1.0
 ---
 Unclassified archetype, pending review.

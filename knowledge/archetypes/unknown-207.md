@@ -9,6 +9,9 @@ name: 'Unknown #207'
 meta_share: 0.0015
 list_count: 9
 top_cards:
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
@@ -18,13 +21,10 @@ top_cards:
 - name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline Binding
-  weight: 1.0
-  avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Leyline Binding
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -39,25 +39,25 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.11
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
 - name: Indatha Triome
   weight: 1.0
   avg_copies: 1.0
 - name: Plains
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Thundering Falls
-  weight: 1.0
-  avg_copies: 1.0
-- name: Psychic Frog
+- name: Territorial Kavu
   weight: 0.8889
   avg_copies: 4.0
-- name: Territorial Kavu
+- name: Psychic Frog
   weight: 0.8889
   avg_copies: 4.0
 - name: Stubborn Denial
@@ -93,22 +93,22 @@ top_cards:
 - name: Hallowed Fountain
   weight: 0.5556
   avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.5556
-  avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.5556
   avg_copies: 1.0
-- name: Practiced Offense
+- name: Breeding Pool
+  weight: 0.5556
+  avg_copies: 1.0
+- name: Arena of Glory
   weight: 0.4444
   avg_copies: 2.0
-- name: Obsidian Charmaw
+- name: Practiced Offense
   weight: 0.4444
   avg_copies: 2.0
 - name: Thoughtseize
   weight: 0.4444
   avg_copies: 2.0
-- name: Arena of Glory
+- name: Obsidian Charmaw
   weight: 0.4444
   avg_copies: 2.0
 - name: Mountain
@@ -138,13 +138,13 @@ top_cards:
 - name: Clarion Conqueror
   weight: 0.1111
   avg_copies: 2.0
-- name: Lush Portico
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Brotherhood's End
   weight: 0.1111
   avg_copies: 1.0
 - name: Sacred Foundry
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Teferi, Time Raveler
   weight: 0.1111
   avg_copies: 1.0
 - name: Ephemerate
@@ -153,16 +153,16 @@ top_cards:
 - name: Watery Grave
   weight: 0.1111
   avg_copies: 1.0
-- name: Vexing Bauble
+- name: Nihil Spellbomb
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Lush Portico
   weight: 0.1111
   avg_copies: 1.0
 - name: Solitude
   weight: 0.1111
   avg_copies: 1.0
-- name: Teferi, Time Raveler
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Brotherhood's End
+- name: Vexing Bauble
   weight: 0.1111
   avg_copies: 1.0
 ---

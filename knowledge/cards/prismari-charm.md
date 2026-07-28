@@ -11,7 +11,7 @@ type: Instant
 meta_presence: 0.0102
 archetypes:
   jeskai-control:
-    weight: 0.0192
+    weight: 0.0189
     avg_copies: 2.0
   affinity:
     weight: 0.002
@@ -26,7 +26,7 @@ archetypes:
     weight: 0.4167
     avg_copies: 1.8
   goryo1:
-    weight: 0.0692
+    weight: 0.0683
     avg_copies: 1.5
   unknown-27:
     weight: 0.3333

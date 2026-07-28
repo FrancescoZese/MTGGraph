@@ -99,13 +99,13 @@ top_cards:
 - name: Aether Vial
   weight: 0.25
   avg_copies: 4.0
-- name: Sheoldred's Edict
-  weight: 0.25
-  avg_copies: 2.0
 - name: Prismatic Ending
   weight: 0.25
   avg_copies: 2.0
 - name: Dawnbringer Cleric
+  weight: 0.25
+  avg_copies: 2.0
+- name: Sheoldred's Edict
   weight: 0.25
   avg_copies: 2.0
 - name: Vexing Bauble
@@ -117,10 +117,10 @@ top_cards:
 - name: Aven Interrupter
   weight: 0.25
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: card:cloak-and-dagger-entwined
   weight: 0.25
   avg_copies: 1.0
-- name: card:cloak-and-dagger-entwined
+- name: Grafdigger's Cage
   weight: 0.25
   avg_copies: 1.0
 - name: Surgical Extraction
@@ -135,19 +135,19 @@ top_cards:
 - name: Polluted Delta
   weight: 0.1667
   avg_copies: 1.5
-- name: Sacred Foundry
+- name: March of Otherworldly Light
   weight: 0.1667
   avg_copies: 1.0
-- name: March of Otherworldly Light
+- name: Sacred Foundry
   weight: 0.1667
   avg_copies: 1.0
 - name: Orim's Chant
   weight: 0.0833
   avg_copies: 4.0
-- name: Force of Despair
+- name: Deafening Silence
   weight: 0.0833
   avg_copies: 3.0
-- name: Deafening Silence
+- name: Force of Despair
   weight: 0.0833
   avg_copies: 3.0
 - name: End of the Hunt
@@ -156,37 +156,37 @@ top_cards:
 - name: Duress
   weight: 0.0833
   avg_copies: 2.0
-- name: Bloodstained Mire
+- name: Windswept Heath
   weight: 0.0833
   avg_copies: 2.0
-- name: Windswept Heath
+- name: Bloodstained Mire
   weight: 0.0833
   avg_copies: 2.0
 - name: Troll of Khazad-dûm
   weight: 0.0833
   avg_copies: 2.0
-- name: Lush Portico
+- name: Monumental Henge
   weight: 0.0833
   avg_copies: 1.0
 - name: Vindicate
   weight: 0.0833
   avg_copies: 1.0
+- name: Lush Portico
+  weight: 0.0833
+  avg_copies: 1.0
 - name: Emptiness
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Gaddock Teeg
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Overgrown Tomb
   weight: 0.0833
   avg_copies: 1.0
 - name: Raucous Theater
   weight: 0.0833
   avg_copies: 1.0
 - name: Eiganjo, Seat of the Empire
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Gaddock Teeg
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Monumental Henge
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Overgrown Tomb
   weight: 0.0833
   avg_copies: 1.0
 ---

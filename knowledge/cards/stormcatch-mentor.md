@@ -8,7 +8,7 @@ name: Stormcatch Mentor
 scryfall_id: f1bbb5ad-a293-48f3-a3d0-7ac85a7b8467
 set: soc
 type: Creature — Otter Wizard
-meta_presence: 0.0012
+meta_presence: 0.0011
 archetypes:
   ruby-storm:
     weight: 0.009

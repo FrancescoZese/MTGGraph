@@ -10,7 +10,7 @@ type: Creature — Archon
 meta_presence: 0.0445
 archetypes:
   goryo:
-    weight: 0.0096
+    weight: 0.0095
     avg_copies: 2.67
   living-end:
     weight: 0.0435
