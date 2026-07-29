@@ -9,7 +9,7 @@ type: Land — Plains Swamp Forest
 meta_presence: 0.0271
 archetypes:
   domain-zoo:
-    weight: 0.9848
+    weight: 0.985
     avg_copies: 1.0
   4c-omnath:
     weight: 0.5

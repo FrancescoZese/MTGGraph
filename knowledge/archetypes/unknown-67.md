@@ -35,6 +35,9 @@ top_cards:
 - name: Hedge Maze
   weight: 1.0
   avg_copies: 1.05
+- name: Forest
+  weight: 1.0
+  avg_copies: 1.0
 - name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
@@ -42,9 +45,6 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Misty Rainforest
@@ -191,22 +191,19 @@ top_cards:
 - name: Overlord of the Balemurk
   weight: 0.013
   avg_copies: 4.0
-- name: Architects of Will
-  weight: 0.013
-  avg_copies: 3.0
 - name: Fulminator Mage
   weight: 0.013
   avg_copies: 3.0
 - name: Polluted Delta
   weight: 0.013
   avg_copies: 3.0
-- name: Culling Ritual
+- name: Architects of Will
+  weight: 0.013
+  avg_copies: 3.0
+- name: Harbinger of the Seas
   weight: 0.013
   avg_copies: 2.0
 - name: Vendilion Clique
-  weight: 0.013
-  avg_copies: 2.0
-- name: Stormkeld Vanguard
   weight: 0.013
   avg_copies: 2.0
 - name: card:anger-of-the-gods
@@ -215,19 +212,28 @@ top_cards:
 - name: Bonecrusher Giant
   weight: 0.013
   avg_copies: 2.0
-- name: Harbinger of the Seas
+- name: Stormkeld Vanguard
+  weight: 0.013
+  avg_copies: 2.0
+- name: Culling Ritual
   weight: 0.013
   avg_copies: 2.0
 - name: card:runescale-stormbrood
   weight: 0.013
   avg_copies: 2.0
-- name: Arid Mesa
+- name: Underground Mortuary
   weight: 0.013
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.013
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Kataki, War's Wage
+  weight: 0.013
+  avg_copies: 1.0
+- name: Arid Mesa
+  weight: 0.013
+  avg_copies: 1.0
+- name: Tokka & Rahzar, Terrible Twos
   weight: 0.013
   avg_copies: 1.0
 - name: card:cascade-bluffs
@@ -236,28 +242,22 @@ top_cards:
 - name: Collector Ouphe
   weight: 0.013
   avg_copies: 1.0
-- name: Brainsurge
-  weight: 0.013
-  avg_copies: 1.0
-- name: High Noon
-  weight: 0.013
-  avg_copies: 1.0
-- name: Tokka & Rahzar, Terrible Twos
-  weight: 0.013
-  avg_copies: 1.0
-- name: Underground Mortuary
-  weight: 0.013
-  avg_copies: 1.0
-- name: Harvester of Misery
+- name: Ashiok, Dream Render
   weight: 0.013
   avg_copies: 1.0
 - name: Overgrown Tomb
   weight: 0.013
   avg_copies: 1.0
-- name: Kataki, War's Wage
+- name: Brainsurge
+  weight: 0.013
+  avg_copies: 1.0
+- name: Harvester of Misery
   weight: 0.013
   avg_copies: 1.0
 - name: Gemstone Caverns
+  weight: 0.013
+  avg_copies: 1.0
+- name: High Noon
   weight: 0.013
   avg_copies: 1.0
 ---

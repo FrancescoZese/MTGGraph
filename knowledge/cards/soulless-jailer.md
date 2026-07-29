@@ -15,7 +15,7 @@ archetypes:
     weight: 0.1572
     avg_copies: 2.24
   living-end:
-    weight: 0.0145
+    weight: 0.0143
     avg_copies: 2.0
   mono-blue-tron:
     weight: 0.087
@@ -27,16 +27,16 @@ archetypes:
     weight: 0.1135
     avg_copies: 1.06
   yawgmoth-combo:
-    weight: 0.9213
+    weight: 0.9222
     avg_copies: 1.0
   eldrazi-ramp:
     weight: 0.5161
     avg_copies: 1.5
   samwise-combo:
-    weight: 0.2097
+    weight: 0.2063
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.7044
+    weight: 0.7055
     avg_copies: 1.45
   rakdos-lantern-combo:
     weight: 1.0
@@ -51,8 +51,8 @@ archetypes:
     weight: 0.0373
     avg_copies: 1.0
   goryo4:
-    weight: 0.3636
-    avg_copies: 1.12
+    weight: 0.3913
+    avg_copies: 1.11
   goryo5:
     weight: 0.087
     avg_copies: 1.0
@@ -69,7 +69,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-61:
-    weight: 0.0448
+    weight: 0.0435
     avg_copies: 1.0
   unknown-76:
     weight: 0.5

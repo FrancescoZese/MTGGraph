@@ -9,7 +9,7 @@ type: Enchantment — Saga // Enchantment Creature — Ogre Shaman
 meta_presence: 0.002
 archetypes:
   domain-zoo:
-    weight: 0.0379
+    weight: 0.0376
     avg_copies: 1.0
   unknown-79:
     weight: 0.6667

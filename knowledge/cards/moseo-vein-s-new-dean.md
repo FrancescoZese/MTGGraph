@@ -10,6 +10,6 @@ type: Legendary Creature — Bird Skeleton Warlock
 meta_presence: 0.0003
 archetypes:
   samwise-combo:
-    weight: 0.0323
+    weight: 0.0317
     avg_copies: 1.5
 ---

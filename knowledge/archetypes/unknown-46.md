@@ -6,25 +6,25 @@ name: 'Unknown #46'
 meta_share: 0.0013
 list_count: 8
 top_cards:
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 4.0
 - name: Soul Spike
-  weight: 1.0
-  avg_copies: 4.0
-- name: Boggart Trawler
   weight: 1.0
   avg_copies: 4.0
 - name: Necrodominance
   weight: 1.0
   avg_copies: 4.0
+- name: Boggart Trawler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 4.0
 - name: Swamp
   weight: 1.0
   avg_copies: 3.62
-- name: Orcish Bowmasters
+- name: Witherbloom Charm
   weight: 1.0
   avg_copies: 3.5
-- name: Witherbloom Charm
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.5
 - name: Thoughtseize
@@ -45,16 +45,16 @@ top_cards:
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.12
-- name: Underground Mortuary
-  weight: 1.0
-  avg_copies: 2.0
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 2.0
 - name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 2.0
+- name: Underground Mortuary
+  weight: 1.0
+  avg_copies: 2.0
 - name: Overgrown Tomb
+  weight: 1.0
+  avg_copies: 2.0
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 2.0
 - name: Castle Locthwain
@@ -99,10 +99,10 @@ top_cards:
 - name: Graveyard Trespasser
   weight: 0.25
   avg_copies: 1.5
-- name: Fell the Profane
+- name: Nurturing Peatland
   weight: 0.25
   avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Fell the Profane
   weight: 0.25
   avg_copies: 1.0
 ---

@@ -9,10 +9,10 @@ type: Land
 meta_presence: 0.0013
 archetypes:
   samwise-combo:
-    weight: 0.0645
+    weight: 0.0635
     avg_copies: 1.25
   cosmogoyf-fling:
-    weight: 0.0244
+    weight: 0.0238
     avg_copies: 4.0
   goryo7:
     weight: 1.0

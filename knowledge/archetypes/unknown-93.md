@@ -56,7 +56,10 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.17
-- name: Steam Vents
+- name: Plains
+  weight: 1.0
+  avg_copies: 1.0
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 - name: Sacred Foundry
@@ -65,16 +68,13 @@ top_cards:
 - name: Emeritus of Abundance
   weight: 1.0
   avg_copies: 1.0
-- name: Plains
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
-- name: Temple Garden
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Arid Mesa
-  weight: 1.0
-  avg_copies: 1.0
-- name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Breeding Pool
@@ -89,22 +89,22 @@ top_cards:
 - name: March of Otherworldly Light
   weight: 0.75
   avg_copies: 1.0
-- name: Lush Portico
-  weight: 0.75
-  avg_copies: 1.0
 - name: Stomping Ground
   weight: 0.75
   avg_copies: 1.0
 - name: Thundering Falls
   weight: 0.75
   avg_copies: 1.0
+- name: Lush Portico
+  weight: 0.75
+  avg_copies: 1.0
 - name: Galvanic Discharge
   weight: 0.5
   avg_copies: 4.0
-- name: Static Prison
+- name: Leyline Binding
   weight: 0.5
   avg_copies: 3.0
-- name: Leyline Binding
+- name: Static Prison
   weight: 0.5
   avg_copies: 3.0
 - name: Stock Up
@@ -113,10 +113,10 @@ top_cards:
 - name: Xander's Lounge
   weight: 0.5
   avg_copies: 1.0
-- name: Raugrin Triome
+- name: Titania, Protector of Argoth
   weight: 0.5
   avg_copies: 1.0
-- name: Titania, Protector of Argoth
+- name: Raugrin Triome
   weight: 0.5
   avg_copies: 1.0
 - name: card:ashling-rekindled
@@ -131,22 +131,16 @@ top_cards:
 - name: Planar Genesis
   weight: 0.25
   avg_copies: 2.0
-- name: Quantum Riddler
-  weight: 0.25
-  avg_copies: 1.0
 - name: card:dispel
-  weight: 0.25
-  avg_copies: 1.0
-- name: Hedge Maze
-  weight: 0.25
-  avg_copies: 1.0
-- name: Risen Reef
   weight: 0.25
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
   weight: 0.25
   avg_copies: 1.0
-- name: Nissa, Resurgent Animist
+- name: Icetill Explorer
+  weight: 0.25
+  avg_copies: 1.0
+- name: Hedge Maze
   weight: 0.25
   avg_copies: 1.0
 - name: Eternal Witness
@@ -158,7 +152,13 @@ top_cards:
 - name: Elegant Parlor
   weight: 0.25
   avg_copies: 1.0
-- name: Icetill Explorer
+- name: Nissa, Resurgent Animist
+  weight: 0.25
+  avg_copies: 1.0
+- name: Risen Reef
+  weight: 0.25
+  avg_copies: 1.0
+- name: Quantum Riddler
   weight: 0.25
   avg_copies: 1.0
 ---

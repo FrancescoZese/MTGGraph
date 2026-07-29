@@ -14,7 +14,7 @@ archetypes:
     weight: 0.0083
     avg_copies: 1.0
   living-end:
-    weight: 0.2029
+    weight: 0.2
     avg_copies: 1.0
   elves:
     weight: 0.5

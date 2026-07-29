@@ -13,10 +13,10 @@ archetypes:
     weight: 0.0242
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0099
+    weight: 0.0098
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.1452
+    weight: 0.1429
     avg_copies: 1.0
   unknown-45:
     weight: 0.9655

@@ -7,10 +7,10 @@ name: Thoughtseize
 scryfall_id: b281a308-ab6b-47b6-bec7-632c9aaecede
 set: 2xm
 type: Sorcery
-meta_presence: 0.2201
+meta_presence: 0.2208
 archetypes:
   ruby-storm:
-    weight: 0.0135
+    weight: 0.0134
     avg_copies: 2.67
   dimir-control:
     weight: 0.5432
@@ -19,13 +19,13 @@ archetypes:
     weight: 0.0101
     avg_copies: 4.0
   goryo:
-    weight: 0.9558
+    weight: 0.9561
     avg_copies: 2.55
   necrodominance:
     weight: 0.8636
     avg_copies: 3.95
   domain-zoo:
-    weight: 0.0227
+    weight: 0.0226
     avg_copies: 2.0
   reanimator:
     weight: 0.8889
@@ -38,28 +38,28 @@ archetypes:
     avg_copies: 2.75
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 2.57
+    avg_copies: 2.58
   simic-ritual:
     weight: 0.0115
     avg_copies: 4.0
   izzet-prowess:
-    weight: 0.0263
+    weight: 0.0261
     avg_copies: 3.38
   esper-blink:
-    weight: 0.9636
-    avg_copies: 3.46
+    weight: 0.964
+    avg_copies: 3.45
   samwise-combo:
-    weight: 0.7742
-    avg_copies: 2.44
+    weight: 0.7778
+    avg_copies: 2.43
   indomitable-creativity:
     weight: 0.2
     avg_copies: 4.0
   broodscale-combo:
-    weight: 0.0146
+    weight: 0.0145
     avg_copies: 3.0
   orzhov-blink:
-    weight: 0.9167
-    avg_copies: 3.69
+    weight: 0.9231
+    avg_copies: 3.71
   dredge:
     weight: 0.7692
     avg_copies: 3.3
@@ -95,7 +95,7 @@ archetypes:
     avg_copies: 3.7
   goryo2:
     weight: 1.0
-    avg_copies: 3.5
+    avg_copies: 3.55
   soultrader-combo:
     weight: 0.8333
     avg_copies: 2.0
@@ -157,7 +157,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.2
   unknown-47:
-    weight: 0.9908
+    weight: 0.9909
     avg_copies: 3.68
   unknown-50:
     weight: 1.0
@@ -202,7 +202,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-96:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 3.0
   unknown-90:
     weight: 1.0
@@ -238,7 +238,7 @@ archetypes:
     weight: 0.75
     avg_copies: 2.25
   unknown-126:
-    weight: 0.0333
+    weight: 0.0323
     avg_copies: 2.0
   unknown-131:
     weight: 0.625

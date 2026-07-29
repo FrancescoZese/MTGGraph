@@ -6,7 +6,7 @@ name: 'Unknown #41'
 meta_share: 0.0007
 list_count: 4
 top_cards:
-- name: Inquisition of Kozilek
+- name: Darkslick Shores
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
@@ -15,7 +15,7 @@ top_cards:
 - name: Whir of Invention
   weight: 1.0
   avg_copies: 4.0
-- name: Darkslick Shores
+- name: Inquisition of Kozilek
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
@@ -51,22 +51,22 @@ top_cards:
 - name: Void Mirror
   weight: 1.0
   avg_copies: 1.25
+- name: Grafdigger's Cage
+  weight: 1.0
+  avg_copies: 1.0
 - name: Torpor Orb
   weight: 1.0
   avg_copies: 1.0
 - name: The Underworld Cookbook
   weight: 1.0
   avg_copies: 1.0
-- name: Grafdigger's Cage
-  weight: 1.0
-  avg_copies: 1.0
-- name: Narset, Parter of Veils
+- name: Ashiok, Dream Render
   weight: 0.75
   avg_copies: 3.0
 - name: Mishra's Bauble
   weight: 0.75
   avg_copies: 3.0
-- name: Ashiok, Dream Render
+- name: Narset, Parter of Veils
   weight: 0.75
   avg_copies: 3.0
 - name: Watery Grave
@@ -78,16 +78,16 @@ top_cards:
 - name: Welding Jar
   weight: 0.75
   avg_copies: 1.67
-- name: Academy Ruins
-  weight: 0.75
-  avg_copies: 1.0
-- name: Cursed Totem
-  weight: 0.75
-  avg_copies: 1.0
 - name: Scalding Tarn
   weight: 0.75
   avg_copies: 1.0
 - name: Damping Sphere
+  weight: 0.75
+  avg_copies: 1.0
+- name: Academy Ruins
+  weight: 0.75
+  avg_copies: 1.0
+- name: Cursed Totem
   weight: 0.75
   avg_copies: 1.0
 - name: Drown in the Loch
@@ -117,13 +117,13 @@ top_cards:
 - name: Ghoulcaller's Bell
   weight: 0.25
   avg_copies: 1.0
-- name: Amulet of Safekeeping
+- name: Erode
   weight: 0.25
   avg_copies: 1.0
 - name: Flooded Strand
   weight: 0.25
   avg_copies: 1.0
-- name: Erode
+- name: Misty Rainforest
   weight: 0.25
   avg_copies: 1.0
 - name: Emrakul, the Aeons Torn
@@ -132,10 +132,10 @@ top_cards:
 - name: Glimmervoid
   weight: 0.25
   avg_copies: 1.0
-- name: Vexing Bauble
+- name: Amulet of Safekeeping
   weight: 0.25
   avg_copies: 1.0
-- name: Misty Rainforest
+- name: Vexing Bauble
   weight: 0.25
   avg_copies: 1.0
 ---

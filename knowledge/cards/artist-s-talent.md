@@ -10,7 +10,7 @@ type: Enchantment — Class
 meta_presence: 0.0384
 archetypes:
   ruby-storm:
-    weight: 0.9193
+    weight: 0.9196
     avg_copies: 1.77
   dredge:
     weight: 0.9231

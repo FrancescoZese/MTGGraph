@@ -7,11 +7,11 @@ name: Stormchaser's Talent
 scryfall_id: a36e682d-b43d-4e08-bf5b-70d7e924dbe5
 set: blb
 type: Enchantment — Class
-meta_presence: 0.0123
+meta_presence: 0.0124
 archetypes:
   izzet-prowess:
-    weight: 0.1546
-    avg_copies: 2.89
+    weight: 0.1564
+    avg_copies: 2.88
   izzet-artifacts:
     weight: 0.0312
     avg_copies: 4.0

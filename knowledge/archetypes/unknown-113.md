@@ -7,16 +7,16 @@ name: 'Unknown #113'
 meta_share: 0.0003
 list_count: 2
 top_cards:
-- name: Quantum Riddler
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -34,25 +34,25 @@ top_cards:
 - name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.0
-- name: Ephemerate
-  weight: 1.0
-  avg_copies: 2.0
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.0
-- name: Hallowed Fountain
+- name: Ephemerate
   weight: 1.0
-  avg_copies: 1.5
-- name: High Noon
-  weight: 1.0
-  avg_copies: 1.5
-- name: Meticulous Archive
+  avg_copies: 2.0
+- name: Island
   weight: 1.0
   avg_copies: 1.5
 - name: Force of Negation
   weight: 1.0
   avg_copies: 1.5
-- name: Island
+- name: Meticulous Archive
+  weight: 1.0
+  avg_copies: 1.5
+- name: Hallowed Fountain
+  weight: 1.0
+  avg_copies: 1.5
+- name: High Noon
   weight: 1.0
   avg_copies: 1.5
 - name: Teferi, Time Raveler
@@ -61,16 +61,16 @@ top_cards:
 - name: Plains
   weight: 1.0
   avg_copies: 1.0
-- name: Watery Grave
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowy Backstreet
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
 - name: Counterspell
@@ -91,19 +91,19 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 0.5
   avg_copies: 2.0
-- name: Witch Enchanter
-  weight: 0.5
-  avg_copies: 2.0
-- name: Practiced Offense
-  weight: 0.5
-  avg_copies: 2.0
-- name: Spell Snare
+- name: Celestial Purge
   weight: 0.5
   avg_copies: 2.0
 - name: Mystical Dispute
   weight: 0.5
   avg_copies: 2.0
-- name: Celestial Purge
+- name: Witch Enchanter
+  weight: 0.5
+  avg_copies: 2.0
+- name: Spell Snare
+  weight: 0.5
+  avg_copies: 2.0
+- name: Practiced Offense
   weight: 0.5
   avg_copies: 2.0
 - name: Emperor of Bones
@@ -112,25 +112,25 @@ top_cards:
 - name: Faerie Macabre
   weight: 0.5
   avg_copies: 1.0
+- name: Ashiok, Dream Render
+  weight: 0.5
+  avg_copies: 1.0
 - name: March of Otherworldly Light
   weight: 0.5
   avg_copies: 1.0
-- name: Prismatic Ending
-  weight: 0.5
-  avg_copies: 1.0
-- name: Drannith Magistrate
-  weight: 0.5
-  avg_copies: 1.0
-- name: Dress Down
-  weight: 0.5
-  avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Clarion Conqueror
   weight: 0.5
   avg_copies: 1.0
 - name: Ghost Vacuum
   weight: 0.5
   avg_copies: 1.0
-- name: Clarion Conqueror
+- name: Drannith Magistrate
+  weight: 0.5
+  avg_copies: 1.0
+- name: Prismatic Ending
+  weight: 0.5
+  avg_copies: 1.0
+- name: Dress Down
   weight: 0.5
   avg_copies: 1.0
 ---

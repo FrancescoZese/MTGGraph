@@ -13,10 +13,10 @@ archetypes:
     weight: 0.0063
     avg_copies: 1.0
   living-end:
-    weight: 0.029
+    weight: 0.0286
     avg_copies: 2.0
   yawgmoth-combo:
-    weight: 0.0112
+    weight: 0.0111
     avg_copies: 1.0
   eldrazi-ramp:
     weight: 0.7823
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.2069
     avg_copies: 1.72
   samwise-combo:
-    weight: 0.0161
+    weight: 0.0159
     avg_copies: 2.0
   mono-green-ramp:
     weight: 0.1429
@@ -40,7 +40,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-61:
-    weight: 0.4478
+    weight: 0.4348
     avg_copies: 2.7
   unknown-65:
     weight: 0.069
@@ -58,7 +58,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-126:
-    weight: 0.3333
+    weight: 0.3548
     avg_copies: 2.0
   unknown-152:
     weight: 0.3333

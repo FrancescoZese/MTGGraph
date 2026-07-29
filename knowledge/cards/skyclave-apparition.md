@@ -10,7 +10,7 @@ type: Creature — Kor Spirit
 meta_presence: 0.0038
 archetypes:
   samwise-combo:
-    weight: 0.0161
+    weight: 0.0159
     avg_copies: 1.0
   elves:
     weight: 1.0

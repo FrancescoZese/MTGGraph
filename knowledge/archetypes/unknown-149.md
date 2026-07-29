@@ -7,7 +7,13 @@ name: 'Unknown #149'
 meta_share: 0.0016
 list_count: 10
 top_cards:
+- name: Ocelot Pride
+  weight: 1.0
+  avg_copies: 4.0
 - name: Guide of Souls
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
@@ -16,16 +22,10 @@ top_cards:
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
-- name: Ajani, Nacatl Pariah
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ocelot Pride
-  weight: 1.0
-  avg_copies: 4.0
-- name: Quantum Riddler
+- name: Solitude
   weight: 1.0
   avg_copies: 3.9
-- name: Solitude
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 3.9
 - name: Goblin Bombardment
@@ -55,16 +55,16 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.1
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Mountain
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Elegant Parlor
+  weight: 1.0
+  avg_copies: 1.0
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
 - name: Island
@@ -82,10 +82,10 @@ top_cards:
 - name: Starfield Shepherd
   weight: 0.6
   avg_copies: 2.0
-- name: Fable of the Mirror-Breaker
+- name: Sanctifier en-Vec
   weight: 0.6
   avg_copies: 1.83
-- name: Sanctifier en-Vec
+- name: Fable of the Mirror-Breaker
   weight: 0.6
   avg_copies: 1.83
 - name: Phelia, Exuberant Shepherd
@@ -94,10 +94,10 @@ top_cards:
 - name: Galvanic Discharge
   weight: 0.5
   avg_copies: 2.2
-- name: Orim's Chant
+- name: Lavinia, Azorius Renegade
   weight: 0.5
   avg_copies: 2.0
-- name: Lavinia, Azorius Renegade
+- name: Orim's Chant
   weight: 0.5
   avg_copies: 2.0
 - name: High Noon
@@ -106,10 +106,10 @@ top_cards:
 - name: Spell Pierce
   weight: 0.5
   avg_copies: 1.2
-- name: Meltdown
+- name: Vandalblast
   weight: 0.5
   avg_copies: 1.0
-- name: Vandalblast
+- name: Meltdown
   weight: 0.5
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -139,25 +139,25 @@ top_cards:
 - name: Arena of Glory
   weight: 0.2
   avg_copies: 1.0
-- name: Marsh Flats
-  weight: 0.1
-  avg_copies: 2.0
 - name: Voice of Victory
   weight: 0.1
   avg_copies: 2.0
 - name: Clarion Conqueror
   weight: 0.1
   avg_copies: 2.0
-- name: Detect Intrusion
+- name: Marsh Flats
   weight: 0.1
-  avg_copies: 1.0
-- name: March of Otherworldly Light
+  avg_copies: 2.0
+- name: Containment Priest
   weight: 0.1
   avg_copies: 1.0
 - name: Deafening Silence
   weight: 0.1
   avg_copies: 1.0
-- name: Containment Priest
+- name: Detect Intrusion
+  weight: 0.1
+  avg_copies: 1.0
+- name: March of Otherworldly Light
   weight: 0.1
   avg_copies: 1.0
 ---

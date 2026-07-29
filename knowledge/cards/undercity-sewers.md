@@ -6,7 +6,7 @@ name: Undercity Sewers
 scryfall_id: 2b5801fb-2026-4f25-98bc-ebb2f99684b9
 set: mkm
 type: Land — Island Swamp
-meta_presence: 0.171
+meta_presence: 0.1714
 archetypes:
   dimir-control:
     weight: 1.0
@@ -18,10 +18,10 @@ archetypes:
     weight: 0.1136
     avg_copies: 1.0
   azorius-control:
-    weight: 0.092
+    weight: 0.0909
     avg_copies: 1.0
   living-end:
-    weight: 0.7971
+    weight: 0.8
     avg_copies: 1.0
   mill:
     weight: 0.9697
@@ -30,13 +30,13 @@ archetypes:
     weight: 0.8519
     avg_copies: 1.52
   neoform-combo:
-    weight: 0.0235
+    weight: 0.0233
     avg_copies: 1.0
   simic-ritual:
     weight: 0.1609
     avg_copies: 1.0
   esper-blink:
-    weight: 0.9545
+    weight: 0.955
     avg_copies: 1.0
   esper-control:
     weight: 1.0

@@ -6,28 +6,28 @@ name: 'Unknown #161'
 meta_share: 0.0003
 list_count: 2
 top_cards:
-- name: Faithless Looting
+- name: Detective's Phoenix
+  weight: 1.0
+  avg_copies: 4.0
+- name: Burning Inquiry
   weight: 1.0
   avg_copies: 4.0
 - name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
+- name: Wooded Foothills
+  weight: 1.0
+  avg_copies: 4.0
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
-- name: Marauding Mako
-  weight: 1.0
-  avg_copies: 4.0
-- name: Wooded Foothills
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Hollow One
   weight: 1.0
   avg_copies: 4.0
-- name: Detective's Phoenix
-  weight: 1.0
-  avg_copies: 4.0
-- name: Burning Inquiry
+- name: Marauding Mako
   weight: 1.0
   avg_copies: 4.0
 - name: Fear of Missing Out
@@ -48,10 +48,10 @@ top_cards:
 - name: Meltdown
   weight: 1.0
   avg_copies: 2.0
-- name: Ox of Agonas
+- name: Mountain
   weight: 1.0
   avg_copies: 2.0
-- name: Mountain
+- name: Ox of Agonas
   weight: 1.0
   avg_copies: 2.0
 - name: Arid Mesa
@@ -63,13 +63,13 @@ top_cards:
 - name: Cam and Farrik, Havoc Duo
   weight: 1.0
   avg_copies: 1.5
+- name: Raucous Theater
+  weight: 1.0
+  avg_copies: 1.0
 - name: card:scourge-of-the-skyclaves
   weight: 1.0
   avg_copies: 1.0
 - name: Claim
-  weight: 1.0
-  avg_copies: 1.0
-- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
 - name: Leyline of the Void
@@ -81,10 +81,10 @@ top_cards:
 - name: card:corpse-explosion
   weight: 0.5
   avg_copies: 2.5
-- name: card:claim-the-firstborn
+- name: Orcish Bowmasters
   weight: 0.5
   avg_copies: 2.0
-- name: Orcish Bowmasters
+- name: card:claim-the-firstborn
   weight: 0.5
   avg_copies: 2.0
 - name: Lightning Bolt

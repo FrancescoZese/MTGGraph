@@ -27,7 +27,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.93
   broodscale-combo:
-    weight: 0.0474
+    weight: 0.0473
     avg_copies: 2.92
   izzet-artifacts:
     weight: 1.0
@@ -51,7 +51,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-1:
-    weight: 0.3
+    weight: 0.2727
     avg_copies: 4.0
   unknown-10:
     weight: 1.0

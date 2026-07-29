@@ -6,16 +6,16 @@ name: 'Unknown #101'
 meta_share: 0.0016
 list_count: 10
 top_cards:
-- name: Nethergoyf
+- name: Faithless Looting
+  weight: 1.0
+  avg_copies: 4.0
+- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
 - name: Detective's Phoenix
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
-  weight: 1.0
-  avg_copies: 4.0
-- name: Hollow One
+- name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
@@ -117,13 +117,13 @@ top_cards:
 - name: Blood Moon
   weight: 0.3
   avg_copies: 2.0
+- name: Mount Doom
+  weight: 0.2
+  avg_copies: 1.0
 - name: Marsh Flats
   weight: 0.2
   avg_copies: 1.0
 - name: Polluted Delta
-  weight: 0.2
-  avg_copies: 1.0
-- name: Mount Doom
   weight: 0.2
   avg_copies: 1.0
 - name: Mishra's Bauble
@@ -135,28 +135,28 @@ top_cards:
 - name: Wear
   weight: 0.1
   avg_copies: 2.0
-- name: Blackcleave Cliffs
+- name: Seal of Fire
+  weight: 0.1
+  avg_copies: 1.0
+- name: Sheoldred's Edict
+  weight: 0.1
+  avg_copies: 1.0
+- name: Ox of Agonas
   weight: 0.1
   avg_copies: 1.0
 - name: Sacred Foundry
+  weight: 0.1
+  avg_copies: 1.0
+- name: Molten Collapse
+  weight: 0.1
+  avg_copies: 1.0
+- name: Blackcleave Cliffs
   weight: 0.1
   avg_copies: 1.0
 - name: Abrade
   weight: 0.1
   avg_copies: 1.0
 - name: Cool but Rude
-  weight: 0.1
-  avg_copies: 1.0
-- name: Molten Collapse
-  weight: 0.1
-  avg_copies: 1.0
-- name: Ox of Agonas
-  weight: 0.1
-  avg_copies: 1.0
-- name: Sheoldred's Edict
-  weight: 0.1
-  avg_copies: 1.0
-- name: Seal of Fire
   weight: 0.1
   avg_copies: 1.0
 ---

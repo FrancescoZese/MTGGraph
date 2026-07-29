@@ -13,16 +13,16 @@ archetypes:
     weight: 0.0028
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0076
+    weight: 0.0075
     avg_copies: 1.0
   boros-ponza:
     weight: 0.0213
     avg_copies: 2.67
   esper-blink:
-    weight: 0.0091
+    weight: 0.009
     avg_copies: 1.0
   goryo2:
-    weight: 0.0556
+    weight: 0.05
     avg_copies: 1.0
   sultai-midrange:
     weight: 0.25
@@ -34,7 +34,7 @@ archetypes:
     weight: 0.0423
     avg_copies: 1.67
   unknown-167:
-    weight: 0.125
+    weight: 0.1111
     avg_copies: 3.0
   unknown-190:
     weight: 1.0

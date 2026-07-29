@@ -10,19 +10,19 @@ type: Instant
 meta_presence: 0.0064
 archetypes:
   neoform-combo:
-    weight: 0.3294
+    weight: 0.3256
     avg_copies: 1.89
   simic-ritual:
     weight: 0.0345
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0066
+    weight: 0.0065
     avg_copies: 1.0
   dredge:
     weight: 0.0769
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.0488
+    weight: 0.0476
     avg_copies: 2.0
   unknown-40:
     weight: 1.0

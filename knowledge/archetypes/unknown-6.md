@@ -7,13 +7,13 @@ name: 'Unknown #6'
 meta_share: 0.002
 list_count: 12
 top_cards:
-- name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
 - name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Opal
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Amber
@@ -46,10 +46,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.33
-- name: Hedge Maze
+- name: Endurance
   weight: 1.0
   avg_copies: 1.0
-- name: Endurance
+- name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
 - name: Misty Rainforest
@@ -82,28 +82,28 @@ top_cards:
 - name: Six
   weight: 0.6667
   avg_copies: 1.12
-- name: Otawara, Soaring City
+- name: Grapeshot
   weight: 0.6667
   avg_copies: 1.0
 - name: Haywire Mite
   weight: 0.6667
   avg_copies: 1.0
-- name: Grapeshot
+- name: Nature's Claim
   weight: 0.6667
   avg_copies: 1.0
-- name: Nature's Claim
+- name: Otawara, Soaring City
   weight: 0.6667
   avg_copies: 1.0
 - name: Fire Magic
   weight: 0.5833
   avg_copies: 1.29
-- name: Stomping Ground
-  weight: 0.5833
-  avg_copies: 1.0
 - name: Jace, Wielder of Mysteries
   weight: 0.5833
   avg_copies: 1.0
 - name: Forest
+  weight: 0.5833
+  avg_copies: 1.0
+- name: Stomping Ground
   weight: 0.5833
   avg_copies: 1.0
 - name: Preordain
@@ -118,10 +118,10 @@ top_cards:
 - name: Strix Serenade
   weight: 0.4167
   avg_copies: 1.0
-- name: Spire of Industry
+- name: Boseiju, Who Endures
   weight: 0.3333
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Spire of Industry
   weight: 0.3333
   avg_copies: 1.0
 - name: Mountain
@@ -133,10 +133,10 @@ top_cards:
 - name: Pyroclasm
   weight: 0.25
   avg_copies: 1.33
-- name: Commercial District
+- name: Wrenn and Six
   weight: 0.25
   avg_copies: 1.0
-- name: Wrenn and Six
+- name: Commercial District
   weight: 0.25
   avg_copies: 1.0
 - name: Ashiok, Dream Render
@@ -163,55 +163,55 @@ top_cards:
 - name: Cori-Steel Cutter
   weight: 0.0833
   avg_copies: 4.0
-- name: Hurkyl's Recall
-  weight: 0.0833
-  avg_copies: 2.0
 - name: Flooded Strand
   weight: 0.0833
   avg_copies: 2.0
 - name: Polluted Delta
   weight: 0.0833
   avg_copies: 2.0
-- name: Lavaspur Boots
+- name: Hurkyl's Recall
   weight: 0.0833
-  avg_copies: 1.0
-- name: Aether Spellbomb
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Life from the Loam
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Thassa's Oracle
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Vexing Bauble
-  weight: 0.0833
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: card:noxious-revival
   weight: 0.0833
   avg_copies: 1.0
 - name: Galvanic Blast
   weight: 0.0833
   avg_copies: 1.0
-- name: Snapcaster Mage
-  weight: 0.0833
-  avg_copies: 1.0
-- name: card:mj-lnir-hammer-of-thor
+- name: Peer Past the Veil
   weight: 0.0833
   avg_copies: 1.0
 - name: card:bruce-banner
   weight: 0.0833
   avg_copies: 1.0
-- name: card:laboratory-maniac
+- name: Snapcaster Mage
   weight: 0.0833
   avg_copies: 1.0
-- name: Peer Past the Veil
+- name: Thassa's Oracle
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Life from the Loam
   weight: 0.0833
   avg_copies: 1.0
 - name: Lightning Bolt
   weight: 0.0833
   avg_copies: 1.0
+- name: Lavaspur Boots
+  weight: 0.0833
+  avg_copies: 1.0
+- name: card:mj-lnir-hammer-of-thor
+  weight: 0.0833
+  avg_copies: 1.0
 - name: Skateboard
+  weight: 0.0833
+  avg_copies: 1.0
+- name: card:laboratory-maniac
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Aether Spellbomb
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Vexing Bauble
   weight: 0.0833
   avg_copies: 1.0
 ---

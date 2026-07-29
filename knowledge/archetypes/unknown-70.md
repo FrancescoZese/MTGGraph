@@ -4,7 +4,7 @@ colors:
 - U
 - R
 name: 'Unknown #70'
-meta_share: 0.003
+meta_share: 0.0029
 list_count: 18
 top_cards:
 - name: Guide of Souls
@@ -142,19 +142,13 @@ top_cards:
 - name: Deafening Silence
   weight: 0.0556
   avg_copies: 2.0
-- name: Practiced Offense
-  weight: 0.0556
-  avg_copies: 2.0
 - name: Reprieve
   weight: 0.0556
   avg_copies: 2.0
-- name: Marsh Flats
+- name: Practiced Offense
   weight: 0.0556
-  avg_copies: 1.0
-- name: Magus of the Moon
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
+  avg_copies: 2.0
+- name: Strix Serenade
   weight: 0.0556
   avg_copies: 1.0
 - name: Lightning Bolt
@@ -163,13 +157,19 @@ top_cards:
 - name: Vandalblast
   weight: 0.0556
   avg_copies: 1.0
-- name: Strix Serenade
+- name: Magus of the Moon
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Boromir, Warden of the Tower
   weight: 0.0556
   avg_copies: 1.0
 - name: The Legend of Roku
   weight: 0.0556
   avg_copies: 1.0
-- name: Boromir, Warden of the Tower
+- name: Marsh Flats
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
   weight: 0.0556
   avg_copies: 1.0
 - name: Spell Pierce

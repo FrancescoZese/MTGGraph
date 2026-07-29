@@ -9,7 +9,7 @@ type: Basic Land — Island
 meta_presence: 0.3642
 archetypes:
   ruby-storm:
-    weight: 0.009
+    weight: 0.0089
     avg_copies: 1.0
   dimir-control:
     weight: 0.9877
@@ -39,7 +39,7 @@ archetypes:
     weight: 0.9841
     avg_copies: 1.49
   domain-zoo:
-    weight: 0.0076
+    weight: 0.0075
     avg_copies: 1.0
   mill:
     weight: 0.9091
@@ -48,8 +48,8 @@ archetypes:
     weight: 0.8519
     avg_copies: 1.04
   neoform-combo:
-    weight: 0.2588
-    avg_copies: 1.05
+    weight: 0.2674
+    avg_copies: 1.04
   mono-blue-tron:
     weight: 1.0
     avg_copies: 3.61
@@ -60,13 +60,13 @@ archetypes:
     weight: 0.0115
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0395
+    weight: 0.0423
     avg_copies: 1.08
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
   esper-blink:
-    weight: 0.5182
+    weight: 0.5135
     avg_copies: 1.02
   bant-control:
     weight: 1.0
@@ -100,7 +100,7 @@ archetypes:
     avg_copies: 1.0
   goryo2:
     weight: 1.0
-    avg_copies: 1.39
+    avg_copies: 1.35
   goryo3:
     weight: 1.0
     avg_copies: 2.0
@@ -180,7 +180,7 @@ archetypes:
     weight: 1.0
     avg_copies: 5.0
   unknown-47:
-    weight: 0.9908
+    weight: 0.9909
     avg_copies: 1.82
   unknown-51:
     weight: 1.0
@@ -189,8 +189,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-49:
-    weight: 0.75
-    avg_copies: 1.67
+    weight: 0.8
+    avg_copies: 1.75
   unknown-50:
     weight: 1.0
     avg_copies: 1.0
@@ -352,7 +352,7 @@ archetypes:
     avg_copies: 2.0
   unknown-167:
     weight: 1.0
-    avg_copies: 1.75
+    avg_copies: 1.78
   unknown-169:
     weight: 1.0
     avg_copies: 2.0
@@ -419,10 +419,10 @@ archetypes:
   unknown-216:
     weight: 1.0
     avg_copies: 2.0
-  unknown-219:
-    weight: 1.0
-    avg_copies: 5.0
   unknown-218:
     weight: 1.0
     avg_copies: 2.0
+  unknown-219:
+    weight: 1.0
+    avg_copies: 5.0
 ---

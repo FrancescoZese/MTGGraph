@@ -6,16 +6,16 @@ name: The Legend of Roku // Avatar Roku
 scryfall_id: 95f2f5af-d405-4534-8683-5a9001f997b4
 set: tla
 type: Enchantment — Saga // Legendary Creature — Avatar
-meta_presence: 0.1005
+meta_presence: 0.1003
 archetypes:
   boros-energy:
-    weight: 0.5911
+    weight: 0.5914
     avg_copies: 1.38
   jeskai-energy:
     weight: 0.1278
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.2045
+    weight: 0.203
     avg_copies: 1.17
   mardu-blink:
     weight: 0.0417

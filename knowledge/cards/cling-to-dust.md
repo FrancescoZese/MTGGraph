@@ -19,7 +19,7 @@ archetypes:
     weight: 0.0115
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0091
+    weight: 0.009
     avg_copies: 1.0
   rakdos-aggro:
     weight: 0.1579
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.0435
     avg_copies: 2.0
   goryo2:
-    weight: 0.1667
+    weight: 0.15
     avg_copies: 1.0
   soultrader-combo:
     weight: 0.1667
@@ -58,7 +58,7 @@ archetypes:
     weight: 0.069
     avg_copies: 1.0
   unknown-47:
-    weight: 0.7339
+    weight: 0.7364
     avg_copies: 1.14
   unknown-51:
     weight: 1.0

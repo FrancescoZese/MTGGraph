@@ -22,13 +22,13 @@ archetypes:
     weight: 0.0227
     avg_copies: 2.0
   azorius-control:
-    weight: 0.0115
+    weight: 0.0114
     avg_copies: 1.0
   affinity:
     weight: 0.2445
     avg_copies: 1.1
   domain-zoo:
-    weight: 0.0076
+    weight: 0.0075
     avg_copies: 2.0
   mill:
     weight: 0.0303
@@ -40,7 +40,7 @@ archetypes:
     weight: 0.0115
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0099
+    weight: 0.0098
     avg_copies: 1.67
   azorius-blink:
     weight: 0.0156
@@ -67,8 +67,8 @@ archetypes:
     weight: 0.0909
     avg_copies: 2.0
   unknown-49:
-    weight: 0.5
-    avg_copies: 1.5
+    weight: 0.6
+    avg_copies: 1.67
   unknown-53:
     weight: 1.0
     avg_copies: 1.0

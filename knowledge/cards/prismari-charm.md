@@ -8,7 +8,7 @@ name: Prismari Charm
 scryfall_id: 8f6c2a5e-fe13-407c-aadd-c9caf2884ff1
 set: sos
 type: Instant
-meta_presence: 0.0102
+meta_presence: 0.0103
 archetypes:
   jeskai-control:
     weight: 0.0189
@@ -17,8 +17,8 @@ archetypes:
     weight: 0.002
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.1151
-    avg_copies: 1.09
+    weight: 0.1173
+    avg_copies: 1.08
   indomitable-creativity:
     weight: 0.2
     avg_copies: 1.0

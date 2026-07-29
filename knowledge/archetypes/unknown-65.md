@@ -4,16 +4,16 @@ colors:
 - R
 - G
 name: 'Unknown #65'
-meta_share: 0.0048
+meta_share: 0.0047
 list_count: 29
 top_cards:
-- name: Violent Outburst
+- name: Shardless Agent
   weight: 1.0
   avg_copies: 4.0
 - name: Crashing Footfalls
   weight: 1.0
   avg_copies: 4.0
-- name: Shardless Agent
+- name: Violent Outburst
   weight: 1.0
   avg_copies: 4.0
 - name: Misty Rainforest
@@ -121,16 +121,16 @@ top_cards:
 - name: Lórien Revealed
   weight: 0.1379
   avg_copies: 2.25
-- name: Repudiate
-  weight: 0.1379
-  avg_copies: 1.0
 - name: Ketria Triome
   weight: 0.1379
   avg_copies: 1.0
-- name: Tishana's Tidebinder
+- name: Repudiate
+  weight: 0.1379
+  avg_copies: 1.0
+- name: Rough
   weight: 0.1034
   avg_copies: 2.33
-- name: Rough
+- name: Tishana's Tidebinder
   weight: 0.1034
   avg_copies: 2.33
 - name: Hallowed Fountain
@@ -151,31 +151,31 @@ top_cards:
 - name: Flame of Anor
   weight: 0.0345
   avg_copies: 4.0
-- name: Mutavault
-  weight: 0.0345
-  avg_copies: 2.0
 - name: Teferi, Time Raveler
   weight: 0.0345
   avg_copies: 2.0
 - name: Commandeer
   weight: 0.0345
   avg_copies: 2.0
+- name: Kataki, War's Wage
+  weight: 0.0345
+  avg_copies: 2.0
 - name: card:avengers-disassembled
   weight: 0.0345
   avg_copies: 2.0
-- name: Kataki, War's Wage
+- name: Mutavault
   weight: 0.0345
   avg_copies: 2.0
 - name: Snow-Covered Island
   weight: 0.0345
   avg_copies: 2.0
-- name: Snow-Covered Forest
-  weight: 0.0345
-  avg_copies: 1.0
 - name: Fable of the Mirror-Breaker
   weight: 0.0345
   avg_copies: 1.0
 - name: Mine Collapse
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Snow-Covered Forest
   weight: 0.0345
   avg_copies: 1.0
 ---

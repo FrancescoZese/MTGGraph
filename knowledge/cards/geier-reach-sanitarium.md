@@ -15,7 +15,7 @@ archetypes:
     weight: 0.0063
     avg_copies: 1.0
   azorius-control:
-    weight: 0.4713
+    weight: 0.4773
     avg_copies: 1.0
   jeskai-control:
     weight: 0.7547

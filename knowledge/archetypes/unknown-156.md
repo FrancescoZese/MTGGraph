@@ -7,16 +7,16 @@ name: 'Unknown #156'
 meta_share: 0.0005
 list_count: 3
 top_cards:
-- name: Vivi Ornitier
-  weight: 1.0
-  avg_copies: 4.0
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Marauding Mako
+- name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
+  weight: 1.0
+  avg_copies: 4.0
+- name: Vivi Ornitier
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
@@ -25,16 +25,16 @@ top_cards:
 - name: Unholy Heat
   weight: 1.0
   avg_copies: 4.0
-- name: Agatha's Soul Cauldron
+- name: Marauding Mako
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.67
-- name: Steam Vents
+- name: Fear of Missing Out
   weight: 1.0
   avg_copies: 3.33
-- name: Fear of Missing Out
+- name: Steam Vents
   weight: 1.0
   avg_copies: 3.33
 - name: card:kid-loki
@@ -46,28 +46,28 @@ top_cards:
 - name: Quantum Riddler
   weight: 1.0
   avg_copies: 2.75
+- name: Walking Ballista
+  weight: 1.0
+  avg_copies: 2.0
+- name: Arena of Glory
+  weight: 1.0
+  avg_copies: 2.0
 - name: Meltdown
   weight: 1.0
   avg_copies: 2.0
 - name: Winternight Stories
   weight: 1.0
   avg_copies: 2.0
-- name: Arena of Glory
-  weight: 1.0
-  avg_copies: 2.0
-- name: Walking Ballista
-  weight: 1.0
-  avg_copies: 2.0
-- name: Bloodstained Mire
-  weight: 1.0
-  avg_copies: 1.67
-- name: Mountain
-  weight: 1.0
-  avg_copies: 1.67
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 1.67
 - name: Thundering Falls
+  weight: 1.0
+  avg_copies: 1.67
+- name: Bloodstained Mire
+  weight: 1.0
+  avg_copies: 1.67
+- name: Mountain
   weight: 1.0
   avg_copies: 1.67
 - name: Island
@@ -85,40 +85,40 @@ top_cards:
 - name: Otawara, Soaring City
   weight: 0.6667
   avg_copies: 1.0
-- name: Chalice of the Void
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Fire Magic
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Engineered Explosives
+- name: Harbinger of the Seas
   weight: 0.3333
   avg_copies: 2.0
 - name: Blood Moon
   weight: 0.3333
   avg_copies: 2.0
-- name: Harbinger of the Seas
+- name: Chalice of the Void
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Engineered Explosives
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Fire Magic
   weight: 0.3333
   avg_copies: 2.0
 - name: Spell Pierce
   weight: 0.3333
   avg_copies: 2.0
-- name: Arid Mesa
+- name: Fiery Islet
   weight: 0.3333
   avg_copies: 1.0
 - name: Into the Flood Maw
   weight: 0.3333
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Wooded Foothills
   weight: 0.3333
   avg_copies: 1.0
-- name: Wooded Foothills
+- name: Arid Mesa
   weight: 0.3333
   avg_copies: 1.0
 - name: Polluted Delta
   weight: 0.3333
   avg_copies: 1.0
-- name: Fiery Islet
+- name: Surgical Extraction
   weight: 0.3333
   avg_copies: 1.0
 ---

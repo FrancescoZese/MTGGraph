@@ -13,10 +13,10 @@ top_cards:
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Consign to Memory
+- name: Fatal Push
   weight: 1.0
   avg_copies: 3.86
-- name: Fatal Push
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.86
 - name: Tamiyo, Inquisitive Student
@@ -34,10 +34,10 @@ top_cards:
 - name: Force of Negation
   weight: 1.0
   avg_copies: 2.29
-- name: Watery Grave
+- name: Island
   weight: 1.0
   avg_copies: 2.0
-- name: Island
+- name: Watery Grave
   weight: 1.0
   avg_copies: 2.0
 - name: Steam Vents
@@ -115,7 +115,7 @@ top_cards:
 - name: Otawara, Soaring City
   weight: 0.2857
   avg_copies: 1.0
-- name: Bloodstained Mire
+- name: Traumatic Critique
   weight: 0.1429
   avg_copies: 3.0
 - name: Break the Ice
@@ -124,25 +124,43 @@ top_cards:
 - name: Damping Sphere
   weight: 0.1429
   avg_copies: 3.0
-- name: Traumatic Critique
+- name: Bloodstained Mire
   weight: 0.1429
   avg_copies: 3.0
+- name: Darkslick Shores
+  weight: 0.1429
+  avg_copies: 2.0
 - name: Kolaghan's Command
   weight: 0.1429
   avg_copies: 2.0
 - name: Rakdos Charm
   weight: 0.1429
   avg_copies: 2.0
-- name: Darkslick Shores
+- name: Emet-Selch, Unsundered
   weight: 0.1429
-  avg_copies: 2.0
+  avg_copies: 1.0
+- name: Raucous Theater
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Logic Knot
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Blood Crypt
+  weight: 0.1429
+  avg_copies: 1.0
+- name: The Meathook Massacre
+  weight: 0.1429
+  avg_copies: 1.0
 - name: Spirebluff Canal
   weight: 0.1429
   avg_copies: 1.0
-- name: Hall of Storm Giants
+- name: Kozilek's Return
   weight: 0.1429
   avg_copies: 1.0
-- name: Kozilek's Return
+- name: Surgical Extraction
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Hall of Storm Giants
   weight: 0.1429
   avg_copies: 1.0
 - name: Consider
@@ -151,25 +169,7 @@ top_cards:
 - name: Mountain
   weight: 0.1429
   avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Logic Knot
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Spell Pierce
-  weight: 0.1429
-  avg_copies: 1.0
-- name: The Meathook Massacre
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Raucous Theater
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Blood Crypt
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Emet-Selch, Unsundered
   weight: 0.1429
   avg_copies: 1.0
 ---

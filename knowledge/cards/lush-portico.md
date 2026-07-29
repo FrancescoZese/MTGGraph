@@ -12,22 +12,22 @@ archetypes:
     weight: 0.0075
     avg_copies: 1.0
   living-end:
-    weight: 0.2029
+    weight: 0.2
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.5227
+    weight: 0.5188
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0235
+    weight: 0.0233
     avg_copies: 1.0
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.9677
+    weight: 0.9683
     avg_copies: 1.0
   orzhov-blink:
-    weight: 0.0833
+    weight: 0.0769
     avg_copies: 1.0
   bant-control:
     weight: 1.0
@@ -81,7 +81,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-126:
-    weight: 0.7
+    weight: 0.6774
     avg_copies: 1.0
   unknown-142:
     weight: 1.0

@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.3459
 archetypes:
   boros-energy:
-    weight: 0.9666
+    weight: 0.9668
     avg_copies: 2.11
   jeskai-energy:
     weight: 0.9925
@@ -19,16 +19,16 @@ archetypes:
     weight: 0.0034
     avg_copies: 2.0
   goryo:
-    weight: 0.9779
+    weight: 0.9781
     avg_copies: 2.39
   azorius-control:
-    weight: 0.9425
-    avg_copies: 1.97
+    weight: 0.9432
+    avg_copies: 1.99
   jeskai-control:
     weight: 0.9811
     avg_copies: 2.05
   domain-zoo:
-    weight: 0.9848
+    weight: 0.985
     avg_copies: 2.16
   reanimator:
     weight: 0.037
@@ -44,10 +44,10 @@ archetypes:
     avg_copies: 2.0
   esper-blink:
     weight: 1.0
-    avg_copies: 2.38
+    avg_copies: 2.37
   orzhov-blink:
     weight: 1.0
-    avg_copies: 2.85
+    avg_copies: 2.86
   bant-control:
     weight: 1.0
     avg_copies: 4.0

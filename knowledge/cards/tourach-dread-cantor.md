@@ -13,7 +13,7 @@ archetypes:
     weight: 0.4545
     avg_copies: 1.65
   yawgmoth-combo:
-    weight: 0.0112
+    weight: 0.0111
     avg_copies: 2.0
   jund-saga:
     weight: 0.5

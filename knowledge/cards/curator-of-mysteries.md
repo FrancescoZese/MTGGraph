@@ -10,8 +10,8 @@ type: Creature — Sphinx
 meta_presence: 0.0191
 archetypes:
   living-end:
-    weight: 0.6812
-    avg_copies: 2.32
+    weight: 0.6857
+    avg_copies: 2.29
   unknown-67:
     weight: 0.8961
     avg_copies: 3.72

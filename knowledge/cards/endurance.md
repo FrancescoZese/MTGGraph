@@ -7,7 +7,7 @@ name: Endurance
 scryfall_id: b770471c-1bf7-4179-8418-dcd790ca5405
 set: ecc
 type: Creature — Elemental Incarnation
-meta_presence: 0.1084
+meta_presence: 0.109
 archetypes:
   amulet-titan:
     weight: 0.0377
@@ -19,10 +19,10 @@ archetypes:
     weight: 1.0
     avg_copies: 3.97
   neoform-combo:
-    weight: 0.8471
+    weight: 0.8488
     avg_copies: 1.04
   yawgmoth-combo:
-    weight: 0.9551
+    weight: 0.9556
     avg_copies: 1.04
   eldrazi-ramp:
     weight: 0.0081
@@ -34,7 +34,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.5
   samwise-combo:
-    weight: 0.9194
+    weight: 0.9206
     avg_copies: 1.29
   izzet-artifacts:
     weight: 0.0625
@@ -79,8 +79,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-61:
-    weight: 0.8806
-    avg_copies: 2.32
+    weight: 0.8841
+    avg_copies: 2.31
   unknown-60:
     weight: 1.0
     avg_copies: 1.5
@@ -122,7 +122,7 @@ archetypes:
     avg_copies: 4.0
   unknown-126:
     weight: 1.0
-    avg_copies: 1.58
+    avg_copies: 1.59
   unknown-130:
     weight: 1.0
     avg_copies: 2.0

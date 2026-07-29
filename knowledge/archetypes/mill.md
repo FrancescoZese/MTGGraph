@@ -21,10 +21,10 @@ top_cards:
 - name: Visions of Beyond
   weight: 1.0
   avg_copies: 2.18
-- name: Fractured Sanity
+- name: Archive Trap
   weight: 0.9697
   avg_copies: 4.0
-- name: Archive Trap
+- name: Fractured Sanity
   weight: 0.9697
   avg_copies: 4.0
 - name: Fatal Push
@@ -132,10 +132,10 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 0.2424
   avg_copies: 1.2
-- name: Cephalid Coliseum
+- name: Damnation
   weight: 0.2424
   avg_copies: 1.0
-- name: Damnation
+- name: Cephalid Coliseum
   weight: 0.2424
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -177,28 +177,28 @@ top_cards:
 - name: Force of Negation
   weight: 0.0606
   avg_copies: 1.5
-- name: Damping Sphere
-  weight: 0.0606
-  avg_copies: 1.5
 - name: Prismatic Vista
   weight: 0.0606
   avg_copies: 1.5
 - name: Spell Snare
   weight: 0.0606
   avg_copies: 1.5
-- name: Hallowed Fountain
+- name: Damping Sphere
   weight: 0.0606
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Illness in the Ranks
   weight: 0.0606
   avg_copies: 1.0
-- name: White Orchid Phantom
+- name: Hallowed Fountain
+  weight: 0.0606
+  avg_copies: 1.0
+- name: Erode
   weight: 0.0303
   avg_copies: 4.0
 - name: Path to Exile
   weight: 0.0303
   avg_copies: 4.0
-- name: Erode
+- name: White Orchid Phantom
   weight: 0.0303
   avg_copies: 4.0
 - name: Trapmaker's Snare
@@ -213,7 +213,7 @@ top_cards:
 - name: Spell Pierce
   weight: 0.0303
   avg_copies: 3.0
-- name: Hurkyl's Recall
+- name: Vendetta
   weight: 0.0303
   avg_copies: 2.0
 - name: Meltdown
@@ -222,19 +222,13 @@ top_cards:
 - name: Flare of Denial
   weight: 0.0303
   avg_copies: 2.0
-- name: Vendetta
+- name: Hurkyl's Recall
   weight: 0.0303
   avg_copies: 2.0
-- name: card:loki-god-of-mischief
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Plains
-  weight: 0.0303
-  avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.0303
   avg_copies: 1.0
-- name: Darkslick Shores
+- name: card:loki-god-of-mischief
   weight: 0.0303
   avg_copies: 1.0
 - name: Mindbreak Trap
@@ -243,16 +237,22 @@ top_cards:
 - name: Subtlety
   weight: 0.0303
   avg_copies: 1.0
-- name: Steam Vents
+- name: Requiting Hex
   weight: 0.0303
   avg_copies: 1.0
 - name: Gloomlake Verge
   weight: 0.0303
   avg_copies: 1.0
-- name: Ravenous Trap
+- name: Plains
   weight: 0.0303
   avg_copies: 1.0
-- name: Requiting Hex
+- name: Darkslick Shores
+  weight: 0.0303
+  avg_copies: 1.0
+- name: Steam Vents
+  weight: 0.0303
+  avg_copies: 1.0
+- name: Ravenous Trap
   weight: 0.0303
   avg_copies: 1.0
 - name: Bloodchief's Thirst

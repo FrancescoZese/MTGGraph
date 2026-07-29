@@ -11,7 +11,7 @@ type: Legendary Planeswalker — Dellian
 meta_presence: 0.0059
 archetypes:
   samwise-combo:
-    weight: 0.0161
+    weight: 0.0159
     avg_copies: 2.0
   jund-saga:
     weight: 0.25

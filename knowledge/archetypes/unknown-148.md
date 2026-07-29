@@ -8,10 +8,10 @@ name: 'Unknown #148'
 meta_share: 0.0002
 list_count: 1
 top_cards:
-- name: Stinkweed Imp
+- name: Seal of Fire
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Creeping Chill
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
@@ -20,46 +20,34 @@ top_cards:
 - name: Blazing Rootwalla
   weight: 1.0
   avg_copies: 4.0
-- name: Scalding Tarn
-  weight: 1.0
-  avg_copies: 4.0
 - name: Ox of Agonas
   weight: 1.0
   avg_copies: 4.0
-- name: Creeping Chill
-  weight: 1.0
-  avg_copies: 4.0
-- name: Seal of Fire
-  weight: 1.0
-  avg_copies: 4.0
-- name: Hedron Crab
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Vengevine
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodstained Mire
+- name: Stinkweed Imp
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 4.0
+- name: Scalding Tarn
+  weight: 1.0
+  avg_copies: 4.0
+- name: Hedron Crab
+  weight: 1.0
+  avg_copies: 4.0
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 3.0
-- name: Steam Vents
+- name: Bloodstained Mire
   weight: 1.0
-  avg_copies: 2.0
-- name: Pithing Needle
+  avg_copies: 3.0
+- name: Otherworldly Gaze
   weight: 1.0
   avg_copies: 2.0
 - name: Stitcher's Supplier
-  weight: 1.0
-  avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 1.0
-  avg_copies: 2.0
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 2.0
-- name: Otherworldly Gaze
   weight: 1.0
   avg_copies: 2.0
 - name: Tormod's Crypt
@@ -68,16 +56,22 @@ top_cards:
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 2.0
+- name: Pithing Needle
+  weight: 1.0
+  avg_copies: 2.0
 - name: Timeline Culler
   weight: 1.0
   avg_copies: 2.0
-- name: Meltdown
+- name: Polluted Delta
   weight: 1.0
-  avg_copies: 1.0
-- name: Mountain
+  avg_copies: 2.0
+- name: Steam Vents
   weight: 1.0
-  avg_copies: 1.0
-- name: Wonder
+  avg_copies: 2.0
+- name: Vexing Bauble
+  weight: 1.0
+  avg_copies: 2.0
+- name: Detective's Phoenix
   weight: 1.0
   avg_copies: 1.0
 - name: Watery Grave
@@ -86,10 +80,16 @@ top_cards:
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
-- name: Detective's Phoenix
+- name: Wonder
+  weight: 1.0
+  avg_copies: 1.0
+- name: Meltdown
   weight: 1.0
   avg_copies: 1.0
 - name: Thoughtseize
+  weight: 1.0
+  avg_copies: 1.0
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
 ---

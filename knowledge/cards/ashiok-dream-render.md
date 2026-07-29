@@ -20,16 +20,16 @@ archetypes:
     weight: 0.3008
     avg_copies: 1.38
   goryo:
-    weight: 0.1356
+    weight: 0.1348
     avg_copies: 1.19
   necrodominance:
     weight: 0.1818
     avg_copies: 1.5
   azorius-control:
-    weight: 0.0575
+    weight: 0.0568
     avg_copies: 1.4
   living-end:
-    weight: 0.0145
+    weight: 0.0143
     avg_copies: 2.0
   jeskai-control:
     weight: 0.1509
@@ -38,7 +38,7 @@ archetypes:
     weight: 0.0835
     avg_copies: 1.02
   domain-zoo:
-    weight: 0.3485
+    weight: 0.3459
     avg_copies: 1.33
   mill:
     weight: 0.1212
@@ -53,7 +53,7 @@ archetypes:
     weight: 0.1429
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.4045
+    weight: 0.4111
     avg_copies: 1.11
   simic-ritual:
     weight: 0.0115
@@ -62,14 +62,14 @@ archetypes:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.1818
+    weight: 0.1802
     avg_copies: 1.75
   samwise-combo:
-    weight: 0.0161
+    weight: 0.0159
     avg_copies: 2.0
   orzhov-blink:
-    weight: 0.6667
-    avg_copies: 1.75
+    weight: 0.6923
+    avg_copies: 1.78
   dredge:
     weight: 0.0385
     avg_copies: 1.0
@@ -191,7 +191,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-167:
-    weight: 0.125
+    weight: 0.1111
     avg_copies: 1.0
   unknown-175:
     weight: 1.0

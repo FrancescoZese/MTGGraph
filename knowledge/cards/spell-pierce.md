@@ -34,10 +34,10 @@ archetypes:
     weight: 0.0714
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.8059
+    weight: 0.8078
     avg_copies: 1.63
   esper-blink:
-    weight: 0.0091
+    weight: 0.009
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.2
@@ -58,7 +58,7 @@ archetypes:
     weight: 0.8323
     avg_copies: 1.75
   goryo2:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 2.33
   grixis-control:
     weight: 0.1429
@@ -88,7 +88,7 @@ archetypes:
     weight: 0.0909
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0275
+    weight: 0.0273
     avg_copies: 1.0
   unknown-62:
     weight: 0.6452

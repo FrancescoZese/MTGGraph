@@ -10,13 +10,13 @@ type: Instant
 meta_presence: 0.0276
 archetypes:
   ruby-storm:
-    weight: 0.0987
+    weight: 0.0982
     avg_copies: 2.82
   mono-blue-belcher:
     weight: 0.6265
     avg_copies: 1.73
   goryo:
-    weight: 0.0032
+    weight: 0.0031
     avg_copies: 1.0
   affinity:
     weight: 0.1034
@@ -28,8 +28,8 @@ archetypes:
     weight: 0.0161
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0461
-    avg_copies: 1.21
+    weight: 0.0489
+    avg_copies: 1.2
   izzet-wizards:
     weight: 0.1667
     avg_copies: 1.5

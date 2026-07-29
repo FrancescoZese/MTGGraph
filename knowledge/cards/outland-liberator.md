@@ -6,13 +6,13 @@ name: Outland Liberator // Frenzied Trapbreaker
 scryfall_id: 60e53d61-fcc3-4def-8206-052b46f62deb
 set: mid
 type: Creature — Human Werewolf // Creature — Werewolf
-meta_presence: 0.0143
+meta_presence: 0.0144
 archetypes:
   amulet-titan:
     weight: 0.0377
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.573
+    weight: 0.5667
     avg_copies: 1.0
   devoted-combo:
     weight: 1.0
@@ -21,13 +21,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-61:
-    weight: 0.0149
+    weight: 0.0145
     avg_copies: 1.0
   unknown-76:
     weight: 0.1667
     avg_copies: 1.0
   unknown-126:
-    weight: 0.8333
+    weight: 0.8387
     avg_copies: 1.0
   unknown-196:
     weight: 1.0

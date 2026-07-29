@@ -4,14 +4,14 @@ archetypes:
     weight: 1.0
     avg_copies: 2.04
   neoform-combo:
-    weight: 0.9882
+    weight: 0.9884
     avg_copies: 3.93
   mono-green-ramp:
     weight: 1.0
     avg_copies: 3.14
   cosmogoyf-fling:
     weight: 1.0
-    avg_copies: 2.56
+    avg_copies: 2.57
   unknown-76:
     weight: 1.0
     avg_copies: 2.0

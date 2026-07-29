@@ -19,8 +19,8 @@ archetypes:
     weight: 0.9925
     avg_copies: 3.82
   goryo:
-    weight: 0.7224
-    avg_copies: 3.2
+    weight: 0.7179
+    avg_copies: 3.19
   necrodominance:
     weight: 0.0227
     avg_copies: 3.0
@@ -28,13 +28,13 @@ archetypes:
     weight: 0.0377
     avg_copies: 1.5
   domain-zoo:
-    weight: 0.2879
+    weight: 0.2857
     avg_copies: 3.72
   reanimator:
     weight: 0.5556
     avg_copies: 1.53
   neoform-combo:
-    weight: 0.0118
+    weight: 0.0116
     avg_copies: 2.0
   simic-ritual:
     weight: 0.0345
@@ -46,7 +46,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.5
   esper-blink:
-    weight: 0.9818
+    weight: 0.982
     avg_copies: 3.61
   bant-control:
     weight: 1.0
@@ -68,7 +68,7 @@ archetypes:
     avg_copies: 1.58
   goryo2:
     weight: 1.0
-    avg_copies: 3.56
+    avg_copies: 3.4
   goryo3:
     weight: 1.0
     avg_copies: 3.0
@@ -106,8 +106,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9908
-    avg_copies: 3.08
+    weight: 0.9909
+    avg_copies: 3.09
   unknown-62:
     weight: 1.0
     avg_copies: 3.68
@@ -193,7 +193,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.75
   unknown-167:
-    weight: 0.25
+    weight: 0.2222
     avg_copies: 1.0
   unknown-175:
     weight: 1.0
