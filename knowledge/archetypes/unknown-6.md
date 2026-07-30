@@ -7,13 +7,13 @@ name: 'Unknown #6'
 meta_share: 0.002
 list_count: 12
 top_cards:
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
 - name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Opal
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Amber
@@ -82,16 +82,16 @@ top_cards:
 - name: Six
   weight: 0.6667
   avg_copies: 1.12
-- name: Grapeshot
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Haywire Mite
-  weight: 0.6667
-  avg_copies: 1.0
 - name: Nature's Claim
   weight: 0.6667
   avg_copies: 1.0
 - name: Otawara, Soaring City
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Grapeshot
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Haywire Mite
   weight: 0.6667
   avg_copies: 1.0
 - name: Fire Magic
@@ -100,10 +100,10 @@ top_cards:
 - name: Jace, Wielder of Mysteries
   weight: 0.5833
   avg_copies: 1.0
-- name: Forest
+- name: Stomping Ground
   weight: 0.5833
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Forest
   weight: 0.5833
   avg_copies: 1.0
 - name: Preordain
@@ -118,13 +118,13 @@ top_cards:
 - name: Strix Serenade
   weight: 0.4167
   avg_copies: 1.0
+- name: Mountain
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Boseiju, Who Endures
   weight: 0.3333
   avg_copies: 1.0
 - name: Spire of Industry
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Mountain
   weight: 0.3333
   avg_copies: 1.0
 - name: Soulless Jailer
@@ -133,16 +133,16 @@ top_cards:
 - name: Pyroclasm
   weight: 0.25
   avg_copies: 1.33
-- name: Wrenn and Six
-  weight: 0.25
-  avg_copies: 1.0
-- name: Commercial District
+- name: Thundering Falls
   weight: 0.25
   avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.25
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Wrenn and Six
+  weight: 0.25
+  avg_copies: 1.0
+- name: Commercial District
   weight: 0.25
   avg_copies: 1.0
 - name: Sewer-veillance Cam
@@ -154,37 +154,52 @@ top_cards:
 - name: Quantum Riddler
   weight: 0.1667
   avg_copies: 2.0
-- name: Force of Negation
+- name: Swan Song
   weight: 0.1667
   avg_copies: 1.5
-- name: Swan Song
+- name: Force of Negation
   weight: 0.1667
   avg_copies: 1.5
 - name: Cori-Steel Cutter
   weight: 0.0833
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Polluted Delta
   weight: 0.0833
   avg_copies: 2.0
-- name: Polluted Delta
+- name: Flooded Strand
   weight: 0.0833
   avg_copies: 2.0
 - name: Hurkyl's Recall
   weight: 0.0833
   avg_copies: 2.0
-- name: card:noxious-revival
+- name: Vexing Bauble
   weight: 0.0833
   avg_copies: 1.0
 - name: Galvanic Blast
   weight: 0.0833
   avg_copies: 1.0
-- name: Peer Past the Veil
-  weight: 0.0833
-  avg_copies: 1.0
 - name: card:bruce-banner
   weight: 0.0833
   avg_copies: 1.0
+- name: Lightning Bolt
+  weight: 0.0833
+  avg_copies: 1.0
 - name: Snapcaster Mage
+  weight: 0.0833
+  avg_copies: 1.0
+- name: card:mj-lnir-hammer-of-thor
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Aether Spellbomb
+  weight: 0.0833
+  avg_copies: 1.0
+- name: card:laboratory-maniac
+  weight: 0.0833
+  avg_copies: 1.0
+- name: card:noxious-revival
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Lavaspur Boots
   weight: 0.0833
   avg_copies: 1.0
 - name: Thassa's Oracle
@@ -193,25 +208,10 @@ top_cards:
 - name: Life from the Loam
   weight: 0.0833
   avg_copies: 1.0
-- name: Lightning Bolt
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Lavaspur Boots
-  weight: 0.0833
-  avg_copies: 1.0
-- name: card:mj-lnir-hammer-of-thor
+- name: Peer Past the Veil
   weight: 0.0833
   avg_copies: 1.0
 - name: Skateboard
-  weight: 0.0833
-  avg_copies: 1.0
-- name: card:laboratory-maniac
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Aether Spellbomb
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Vexing Bauble
   weight: 0.0833
   avg_copies: 1.0
 ---

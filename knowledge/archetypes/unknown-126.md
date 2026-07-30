@@ -49,16 +49,16 @@ top_cards:
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.23
-- name: Duskwatch Recruiter
-  weight: 1.0
-  avg_copies: 1.0
 - name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
-- name: Temple Garden
+- name: Duskwatch Recruiter
   weight: 1.0
   avg_copies: 1.0
 - name: Walking Ballista
+  weight: 1.0
+  avg_copies: 1.0
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 - name: card:birds-of-paradise
@@ -79,19 +79,19 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.7742
   avg_copies: 1.17
-- name: Eternal Witness
+- name: Grist, the Hunger Tide
   weight: 0.7419
   avg_copies: 1.0
-- name: Grist, the Hunger Tide
+- name: Eternal Witness
   weight: 0.7419
   avg_copies: 1.0
 - name: Shifting Woodland
   weight: 0.7097
   avg_copies: 1.77
-- name: Godless Shrine
+- name: Keen-Eyed Curator
   weight: 0.7097
   avg_copies: 1.0
-- name: Keen-Eyed Curator
+- name: Godless Shrine
   weight: 0.7097
   avg_copies: 1.0
 - name: Suncleanser
@@ -133,10 +133,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.4516
   avg_copies: 1.86
-- name: Drannith Magistrate
+- name: card:shang-chi-master-of-kung-fu
   weight: 0.3871
   avg_copies: 1.0
-- name: card:shang-chi-master-of-kung-fu
+- name: Drannith Magistrate
   weight: 0.3871
   avg_copies: 1.0
 - name: Leyline of Abundance
@@ -166,40 +166,40 @@ top_cards:
 - name: Deafening Silence
   weight: 0.0645
   avg_copies: 1.5
+- name: Postmortem Lunge
+  weight: 0.0323
+  avg_copies: 2.0
+- name: High Noon
+  weight: 0.0323
+  avg_copies: 2.0
 - name: Burrenton Forge-Tender
   weight: 0.0323
   avg_copies: 2.0
 - name: Thoughtseize
   weight: 0.0323
   avg_copies: 2.0
-- name: High Noon
-  weight: 0.0323
-  avg_copies: 2.0
-- name: Postmortem Lunge
-  weight: 0.0323
-  avg_copies: 2.0
-- name: Horizon Canopy
+- name: card:mark-of-asylum
   weight: 0.0323
   avg_copies: 1.0
 - name: Rhonas the Indomitable
   weight: 0.0323
   avg_copies: 1.0
+- name: Horizon Canopy
+  weight: 0.0323
+  avg_copies: 1.0
 - name: Crystal Barricade
   weight: 0.0323
   avg_copies: 1.0
-- name: Formidable Speaker
-  weight: 0.0323
-  avg_copies: 1.0
-- name: Six
+- name: card:dauntless-escort
   weight: 0.0323
   avg_copies: 1.0
 - name: Reclamation Sage
   weight: 0.0323
   avg_copies: 1.0
-- name: card:mark-of-asylum
+- name: Six
   weight: 0.0323
   avg_copies: 1.0
-- name: card:dauntless-escort
+- name: Formidable Speaker
   weight: 0.0323
   avg_copies: 1.0
 ---

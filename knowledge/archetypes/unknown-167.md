@@ -5,28 +5,28 @@ name: 'Unknown #167'
 meta_share: 0.0015
 list_count: 9
 top_cards:
-- name: Mox Opal
-  weight: 1.0
-  avg_copies: 4.0
 - name: Urza's Saga
-  weight: 1.0
-  avg_copies: 4.0
-- name: Emry, Lurker of the Loch
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
-- name: Metallic Rebuke
+- name: Mox Opal
   weight: 1.0
-  avg_copies: 3.67
+  avg_copies: 4.0
+- name: Emry, Lurker of the Loch
+  weight: 1.0
+  avg_copies: 4.0
 - name: Mox Amber
   weight: 1.0
   avg_copies: 3.67
-- name: Tamiyo, Inquisitive Student
+- name: Metallic Rebuke
+  weight: 1.0
+  avg_copies: 3.67
+- name: Sewer-veillance Cam
   weight: 1.0
   avg_copies: 3.33
-- name: Sewer-veillance Cam
+- name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 3.33
 - name: Consign to Memory
@@ -44,13 +44,13 @@ top_cards:
 - name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.22
+- name: Minamo, School at Water's Edge
+  weight: 1.0
+  avg_copies: 1.0
 - name: Skateboard
   weight: 1.0
   avg_copies: 1.0
 - name: Aether Spellbomb
-  weight: 1.0
-  avg_copies: 1.0
-- name: Minamo, School at Water's Edge
   weight: 1.0
   avg_copies: 1.0
 - name: Breeding Pool
@@ -62,25 +62,25 @@ top_cards:
 - name: Agatha's Soul Cauldron
   weight: 0.7778
   avg_copies: 1.0
-- name: Flooded Strand
-  weight: 0.6667
-  avg_copies: 2.0
 - name: Nature's Claim
   weight: 0.6667
   avg_copies: 2.0
-- name: Sink into Stupor
+- name: Flooded Strand
   weight: 0.6667
-  avg_copies: 1.17
+  avg_copies: 2.0
 - name: Swan Song
   weight: 0.6667
   avg_copies: 1.17
-- name: Haywire Mite
+- name: Sink into Stupor
   weight: 0.6667
-  avg_copies: 1.0
+  avg_copies: 1.17
 - name: Pithing Needle
   weight: 0.6667
   avg_copies: 1.0
 - name: Waterlogged Grove
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Haywire Mite
   weight: 0.6667
   avg_copies: 1.0
 - name: Malevolent Rumble
@@ -101,13 +101,13 @@ top_cards:
 - name: Damping Sphere
   weight: 0.4444
   avg_copies: 1.25
+- name: Vexing Bauble
+  weight: 0.4444
+  avg_copies: 1.0
 - name: Hedge Maze
   weight: 0.4444
   avg_copies: 1.0
 - name: Six
-  weight: 0.4444
-  avg_copies: 1.0
-- name: Vexing Bauble
   weight: 0.4444
   avg_copies: 1.0
 - name: Portable Hole
@@ -122,22 +122,22 @@ top_cards:
 - name: Meticulous Archive
   weight: 0.3333
   avg_copies: 1.0
+- name: Relic of Progenitus
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Boseiju, Who Endures
   weight: 0.3333
   avg_copies: 1.0
 - name: Polluted Delta
   weight: 0.3333
   avg_copies: 1.0
-- name: Relic of Progenitus
-  weight: 0.3333
-  avg_copies: 1.0
+- name: Seachrome Coast
+  weight: 0.2222
+  avg_copies: 4.0
 - name: Botanical Sanctum
   weight: 0.2222
   avg_copies: 4.0
 - name: card:oswald-fiddlebender
-  weight: 0.2222
-  avg_copies: 4.0
-- name: Seachrome Coast
   weight: 0.2222
   avg_copies: 4.0
 - name: card:yavimaya-coast
@@ -152,10 +152,10 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 0.2222
   avg_copies: 1.33
-- name: Grafdigger's Cage
+- name: Disruptor Flute
   weight: 0.2222
   avg_copies: 1.0
-- name: Dusk Rose Reliquary
+- name: Grafdigger's Cage
   weight: 0.2222
   avg_copies: 1.0
 - name: Unable to Scream
@@ -167,10 +167,10 @@ top_cards:
 - name: Quantum Riddler
   weight: 0.2222
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Dusk Rose Reliquary
   weight: 0.2222
   avg_copies: 1.0
-- name: Disruptor Flute
+- name: Soul-Guide Lantern
   weight: 0.2222
   avg_copies: 1.0
 - name: Sacred Ground
@@ -179,22 +179,22 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 0.1111
   avg_copies: 2.0
-- name: Orim's Chant
-  weight: 0.1111
-  avg_copies: 2.0
 - name: Dismember
   weight: 0.1111
   avg_copies: 2.0
-- name: Ashiok, Dream Render
+- name: Orim's Chant
   weight: 0.1111
-  avg_copies: 1.0
-- name: Does Machines
-  weight: 0.1111
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Spell Snare
   weight: 0.1111
   avg_copies: 1.0
+- name: Ashiok, Dream Render
+  weight: 0.1111
+  avg_copies: 1.0
 - name: Thief of Existence
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Does Machines
   weight: 0.1111
   avg_copies: 1.0
 ---

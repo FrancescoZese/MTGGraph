@@ -42,10 +42,10 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.9
-- name: Cori Mountain Monastery
+- name: Erode
   weight: 0.9524
   avg_copies: 3.85
-- name: Erode
+- name: Cori Mountain Monastery
   weight: 0.9524
   avg_copies: 3.85
 - name: Kaheera, the Orphanguard
@@ -99,10 +99,10 @@ top_cards:
 - name: Calamity's Wake
   weight: 0.1429
   avg_copies: 4.0
-- name: card:avengers-disassembled
+- name: Mazemind Tome
   weight: 0.0952
   avg_copies: 4.0
-- name: Mazemind Tome
+- name: card:avengers-disassembled
   weight: 0.0952
   avg_copies: 4.0
 - name: Arid Mesa
@@ -126,46 +126,46 @@ top_cards:
 - name: Crucible of Worlds
   weight: 0.0952
   avg_copies: 1.0
-- name: card:kutzil-s-flanker
-  weight: 0.0476
-  avg_copies: 4.0
 - name: Ark of Hunger
-  weight: 0.0476
-  avg_copies: 4.0
-- name: White Orchid Phantom
   weight: 0.0476
   avg_copies: 4.0
 - name: Lightning Helix
   weight: 0.0476
   avg_copies: 4.0
+- name: card:kutzil-s-flanker
+  weight: 0.0476
+  avg_copies: 4.0
+- name: White Orchid Phantom
+  weight: 0.0476
+  avg_copies: 4.0
 - name: Volcanic Spite
   weight: 0.0476
   avg_copies: 4.0
-- name: Candy Trail
-  weight: 0.0476
-  avg_copies: 3.0
 - name: Ragavan, Nimble Pilferer
   weight: 0.0476
   avg_copies: 3.0
+- name: Candy Trail
+  weight: 0.0476
+  avg_copies: 3.0
+- name: March of Otherworldly Light
+  weight: 0.0476
+  avg_copies: 2.0
 - name: Blast Zone
   weight: 0.0476
   avg_copies: 2.0
 - name: card:vanish-into-eternity
   weight: 0.0476
   avg_copies: 2.0
-- name: March of Otherworldly Light
+- name: Flashback
   weight: 0.0476
   avg_copies: 2.0
 - name: Hallowed Moonlight
   weight: 0.0476
   avg_copies: 2.0
-- name: Flashback
-  weight: 0.0476
-  avg_copies: 2.0
-- name: Elixir of Immortality
+- name: Emrakul, the Aeons Torn
   weight: 0.0476
   avg_copies: 1.0
-- name: Emrakul, the Aeons Torn
+- name: Elixir of Immortality
   weight: 0.0476
   avg_copies: 1.0
 ---

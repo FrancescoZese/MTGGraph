@@ -6,19 +6,19 @@ name: 'Unknown #101'
 meta_share: 0.0016
 list_count: 10
 top_cards:
-- name: Faithless Looting
+- name: Detective's Phoenix
+  weight: 1.0
+  avg_copies: 4.0
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Hollow One
   weight: 1.0
   avg_copies: 4.0
-- name: Detective's Phoenix
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Nethergoyf
-  weight: 1.0
-  avg_copies: 4.0
-- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Blood Crypt
@@ -87,13 +87,13 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.4
   avg_copies: 1.5
-- name: Pyroclasm
+- name: Rough
   weight: 0.4
   avg_copies: 1.25
 - name: Nihil Spellbomb
   weight: 0.4
   avg_copies: 1.25
-- name: Rough
+- name: Pyroclasm
   weight: 0.4
   avg_copies: 1.25
 - name: Inti, Seneschal of the Sun
@@ -105,25 +105,25 @@ top_cards:
 - name: Damping Sphere
   weight: 0.3
   avg_copies: 3.67
-- name: Faerie Macabre
+- name: Vexing Bauble
   weight: 0.3
   avg_copies: 2.67
 - name: Dragon's Rage Channeler
   weight: 0.3
   avg_copies: 2.67
-- name: Vexing Bauble
+- name: Faerie Macabre
   weight: 0.3
   avg_copies: 2.67
 - name: Blood Moon
   weight: 0.3
   avg_copies: 2.0
-- name: Mount Doom
+- name: Polluted Delta
   weight: 0.2
   avg_copies: 1.0
 - name: Marsh Flats
   weight: 0.2
   avg_copies: 1.0
-- name: Polluted Delta
+- name: Mount Doom
   weight: 0.2
   avg_copies: 1.0
 - name: Mishra's Bauble
@@ -135,10 +135,16 @@ top_cards:
 - name: Wear
   weight: 0.1
   avg_copies: 2.0
-- name: Seal of Fire
+- name: Sheoldred's Edict
   weight: 0.1
   avg_copies: 1.0
-- name: Sheoldred's Edict
+- name: Blackcleave Cliffs
+  weight: 0.1
+  avg_copies: 1.0
+- name: Cool but Rude
+  weight: 0.1
+  avg_copies: 1.0
+- name: Molten Collapse
   weight: 0.1
   avg_copies: 1.0
 - name: Ox of Agonas
@@ -147,16 +153,10 @@ top_cards:
 - name: Sacred Foundry
   weight: 0.1
   avg_copies: 1.0
-- name: Molten Collapse
-  weight: 0.1
-  avg_copies: 1.0
-- name: Blackcleave Cliffs
-  weight: 0.1
-  avg_copies: 1.0
 - name: Abrade
   weight: 0.1
   avg_copies: 1.0
-- name: Cool but Rude
+- name: Seal of Fire
   weight: 0.1
   avg_copies: 1.0
 ---

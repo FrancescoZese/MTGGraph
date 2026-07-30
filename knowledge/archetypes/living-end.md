@@ -148,22 +148,22 @@ top_cards:
 - name: Damping Matrix
   weight: 0.2
   avg_copies: 1.43
-- name: Fracturing Gust
+- name: Lush Portico
   weight: 0.2
   avg_copies: 1.0
-- name: Lush Portico
+- name: Fracturing Gust
   weight: 0.2
   avg_copies: 1.0
 - name: Temple Garden
   weight: 0.2
   avg_copies: 1.0
+- name: card:murderous-rider
+  weight: 0.1857
+  avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.1857
   avg_copies: 1.0
 - name: Hallowed Fountain
-  weight: 0.1857
-  avg_copies: 1.0
-- name: card:murderous-rider
   weight: 0.1857
   avg_copies: 1.0
 - name: Clarion Conqueror
@@ -193,10 +193,10 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 0.0714
   avg_copies: 1.33
-- name: Flooded Strand
+- name: Drannith Magistrate
   weight: 0.0714
   avg_copies: 1.2
-- name: Drannith Magistrate
+- name: Flooded Strand
   weight: 0.0714
   avg_copies: 1.2
 - name: Titanoth Rex
@@ -205,10 +205,10 @@ top_cards:
 - name: Archon of Cruelty
   weight: 0.0429
   avg_copies: 1.0
-- name: Fade from History
+- name: Oliphaunt
   weight: 0.0286
   avg_copies: 2.0
-- name: Oliphaunt
+- name: Fade from History
   weight: 0.0286
   avg_copies: 2.0
 - name: Steam Vents
@@ -226,28 +226,34 @@ top_cards:
 - name: High Noon
   weight: 0.0286
   avg_copies: 1.0
-- name: Violent Outburst
+- name: Rough
   weight: 0.0143
   avg_copies: 4.0
-- name: Rough
+- name: Violent Outburst
   weight: 0.0143
   avg_copies: 4.0
 - name: Atraxa, Grand Unifier
   weight: 0.0143
   avg_copies: 3.0
+- name: Ashiok, Dream Render
+  weight: 0.0143
+  avg_copies: 2.0
 - name: Fulminator Mage
   weight: 0.0143
   avg_copies: 2.0
 - name: Soulless Jailer
   weight: 0.0143
   avg_copies: 2.0
-- name: Ashiok, Dream Render
-  weight: 0.0143
-  avg_copies: 2.0
-- name: Press the Enemy
+- name: Sunken Ruins
   weight: 0.0143
   avg_copies: 1.0
-- name: Kataki, War's Wage
+- name: Brazen Borrower
+  weight: 0.0143
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.0143
+  avg_copies: 1.0
+- name: Brainsurge
   weight: 0.0143
   avg_copies: 1.0
 - name: Force of Despair
@@ -256,34 +262,28 @@ top_cards:
 - name: Skycoach Conductor
   weight: 0.0143
   avg_copies: 1.0
+- name: Murderous Cut
+  weight: 0.0143
+  avg_copies: 1.0
 - name: Undercity Informer
   weight: 0.0143
   avg_copies: 1.0
-- name: Gloomlake Verge
+- name: Press the Enemy
+  weight: 0.0143
+  avg_copies: 1.0
+- name: Gemstone Caverns
   weight: 0.0143
   avg_copies: 1.0
 - name: Collector Ouphe
   weight: 0.0143
   avg_copies: 1.0
-- name: Murderous Cut
-  weight: 0.0143
-  avg_copies: 1.0
-- name: Brazen Borrower
+- name: Gloomlake Verge
   weight: 0.0143
   avg_copies: 1.0
 - name: card:awaken-the-honored-dead
   weight: 0.0143
   avg_copies: 1.0
-- name: Brainsurge
-  weight: 0.0143
-  avg_copies: 1.0
-- name: Sunken Ruins
-  weight: 0.0143
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.0143
-  avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Kataki, War's Wage
   weight: 0.0143
   avg_copies: 1.0
 ---

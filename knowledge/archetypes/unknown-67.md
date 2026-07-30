@@ -35,13 +35,13 @@ top_cards:
 - name: Hedge Maze
   weight: 1.0
   avg_copies: 1.05
-- name: Forest
+- name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
 - name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Steam Vents
@@ -200,64 +200,64 @@ top_cards:
 - name: Architects of Will
   weight: 0.013
   avg_copies: 3.0
-- name: Harbinger of the Seas
-  weight: 0.013
-  avg_copies: 2.0
-- name: Vendilion Clique
-  weight: 0.013
-  avg_copies: 2.0
-- name: card:anger-of-the-gods
-  weight: 0.013
-  avg_copies: 2.0
-- name: Bonecrusher Giant
-  weight: 0.013
-  avg_copies: 2.0
-- name: Stormkeld Vanguard
+- name: card:runescale-stormbrood
   weight: 0.013
   avg_copies: 2.0
 - name: Culling Ritual
   weight: 0.013
   avg_copies: 2.0
-- name: card:runescale-stormbrood
+- name: Harbinger of the Seas
   weight: 0.013
   avg_copies: 2.0
-- name: Underground Mortuary
+- name: Stormkeld Vanguard
   weight: 0.013
-  avg_copies: 1.0
-- name: Meticulous Archive
+  avg_copies: 2.0
+- name: card:anger-of-the-gods
   weight: 0.013
-  avg_copies: 1.0
-- name: Kataki, War's Wage
+  avg_copies: 2.0
+- name: Vendilion Clique
   weight: 0.013
-  avg_copies: 1.0
-- name: Arid Mesa
+  avg_copies: 2.0
+- name: Bonecrusher Giant
+  weight: 0.013
+  avg_copies: 2.0
+- name: Brainsurge
   weight: 0.013
   avg_copies: 1.0
 - name: Tokka & Rahzar, Terrible Twos
   weight: 0.013
   avg_copies: 1.0
-- name: card:cascade-bluffs
-  weight: 0.013
-  avg_copies: 1.0
-- name: Collector Ouphe
+- name: Harvester of Misery
   weight: 0.013
   avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.013
   avg_copies: 1.0
-- name: Overgrown Tomb
-  weight: 0.013
-  avg_copies: 1.0
-- name: Brainsurge
-  weight: 0.013
-  avg_copies: 1.0
-- name: Harvester of Misery
-  weight: 0.013
-  avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.013
   avg_copies: 1.0
+- name: Arid Mesa
+  weight: 0.013
+  avg_copies: 1.0
+- name: Meticulous Archive
+  weight: 0.013
+  avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 0.013
+  avg_copies: 1.0
 - name: High Noon
+  weight: 0.013
+  avg_copies: 1.0
+- name: Overgrown Tomb
+  weight: 0.013
+  avg_copies: 1.0
+- name: Underground Mortuary
+  weight: 0.013
+  avg_copies: 1.0
+- name: card:cascade-bluffs
+  weight: 0.013
+  avg_copies: 1.0
+- name: Kataki, War's Wage
   weight: 0.013
   avg_copies: 1.0
 ---

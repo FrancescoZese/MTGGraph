@@ -41,10 +41,10 @@ top_cards:
 - name: Tolaria West
   weight: 1.0
   avg_copies: 1.01
-- name: Mirrorpool
+- name: Hanweir Battlements
   weight: 1.0
   avg_copies: 1.0
-- name: Hanweir Battlements
+- name: Mirrorpool
   weight: 1.0
   avg_copies: 1.0
 - name: Force of Vigor
@@ -128,10 +128,10 @@ top_cards:
 - name: Icetill Explorer
   weight: 0.2138
   avg_copies: 1.02
-- name: Zuran Orb
+- name: Elvish Reclaimer
   weight: 0.2138
   avg_copies: 1.0
-- name: Elvish Reclaimer
+- name: Zuran Orb
   weight: 0.2138
   avg_copies: 1.0
 - name: Firespout
@@ -185,37 +185,37 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.0252
   avg_copies: 1.25
-- name: Insidious Fungus
-  weight: 0.0252
-  avg_copies: 1.0
-- name: Valakut, the Molten Pinnacle
+- name: card:mj-lnir-hammer-of-thor
   weight: 0.0252
   avg_copies: 1.0
 - name: Creeping Corrosion
   weight: 0.0252
   avg_copies: 1.0
+- name: Insidious Fungus
+  weight: 0.0252
+  avg_copies: 1.0
 - name: Hedge Maze
   weight: 0.0252
   avg_copies: 1.0
-- name: card:mj-lnir-hammer-of-thor
+- name: Valakut, the Molten Pinnacle
   weight: 0.0252
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.0189
   avg_copies: 2.0
-- name: Windswept Heath
+- name: Heritage Reclamation
   weight: 0.0189
   avg_copies: 1.0
 - name: card:lumra-bellow-of-the-woods
   weight: 0.0189
   avg_copies: 1.0
-- name: Heritage Reclamation
-  weight: 0.0189
-  avg_copies: 1.0
-- name: Pyroclasm
+- name: Windswept Heath
   weight: 0.0189
   avg_copies: 1.0
 - name: Kessig Wolf Run
+  weight: 0.0189
+  avg_copies: 1.0
+- name: Pyroclasm
   weight: 0.0189
   avg_copies: 1.0
 - name: card:lessons-from-life
@@ -224,10 +224,7 @@ top_cards:
 - name: Defense Grid
   weight: 0.0126
   avg_copies: 2.0
-- name: Cavern of Souls
-  weight: 0.0126
-  avg_copies: 1.0
-- name: Northampton Farm
+- name: Ureni, the Song Unending
   weight: 0.0126
   avg_copies: 1.0
 - name: Ghost Quarter
@@ -236,10 +233,13 @@ top_cards:
 - name: Emeritus of Abundance
   weight: 0.0126
   avg_copies: 1.0
+- name: Cavern of Souls
+  weight: 0.0126
+  avg_copies: 1.0
 - name: Hexdrinker
   weight: 0.0126
   avg_copies: 1.0
-- name: Ureni, the Song Unending
+- name: Northampton Farm
   weight: 0.0126
   avg_copies: 1.0
 - name: card:mind-into-matter
@@ -248,16 +248,25 @@ top_cards:
 - name: Hurkyl's Recall
   weight: 0.0063
   avg_copies: 3.0
-- name: Botanical Sanctum
+- name: Sheoldred's Edict
   weight: 0.0063
   avg_copies: 2.0
-- name: Sheoldred's Edict
+- name: Botanical Sanctum
   weight: 0.0063
   avg_copies: 2.0
 - name: Snow-Covered Forest
   weight: 0.0063
   avg_copies: 2.0
-- name: Carnage Tyrant
+- name: card:sakura-tribe-scout
+  weight: 0.0063
+  avg_copies: 1.0
+- name: Turn the Earth
+  weight: 0.0063
+  avg_copies: 1.0
+- name: Waterlogged Grove
+  weight: 0.0063
+  avg_copies: 1.0
+- name: Gemstone Caverns
   weight: 0.0063
   avg_copies: 1.0
 - name: Misty Rainforest
@@ -266,43 +275,34 @@ top_cards:
 - name: card:gretchen-titchwillow
   weight: 0.0063
   avg_copies: 1.0
-- name: Turn the Earth
-  weight: 0.0063
-  avg_copies: 1.0
-- name: Titania, Protector of Argoth
-  weight: 0.0063
-  avg_copies: 1.0
-- name: card:captain-marvel-earth-s-protector
-  weight: 0.0063
-  avg_copies: 1.0
-- name: card:sakura-tribe-scout
-  weight: 0.0063
-  avg_copies: 1.0
-- name: Lithomantic Barrage
-  weight: 0.0063
-  avg_copies: 1.0
-- name: Formidable Speaker
-  weight: 0.0063
-  avg_copies: 1.0
-- name: Ghost Vacuum
-  weight: 0.0063
-  avg_copies: 1.0
-- name: Dosan the Falling Leaf
-  weight: 0.0063
-  avg_copies: 1.0
 - name: Tormod's Crypt
+  weight: 0.0063
+  avg_copies: 1.0
+- name: Carnage Tyrant
   weight: 0.0063
   avg_copies: 1.0
 - name: Sakura-Tribe Elder
   weight: 0.0063
   avg_copies: 1.0
-- name: Gemstone Caverns
-  weight: 0.0063
-  avg_copies: 1.0
-- name: Waterlogged Grove
-  weight: 0.0063
-  avg_copies: 1.0
 - name: Fade from History
+  weight: 0.0063
+  avg_copies: 1.0
+- name: Ghost Vacuum
+  weight: 0.0063
+  avg_copies: 1.0
+- name: card:captain-marvel-earth-s-protector
+  weight: 0.0063
+  avg_copies: 1.0
+- name: Dosan the Falling Leaf
+  weight: 0.0063
+  avg_copies: 1.0
+- name: Lithomantic Barrage
+  weight: 0.0063
+  avg_copies: 1.0
+- name: Titania, Protector of Argoth
+  weight: 0.0063
+  avg_copies: 1.0
+- name: Formidable Speaker
   weight: 0.0063
   avg_copies: 1.0
 ---

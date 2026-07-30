@@ -5,37 +5,37 @@ name: 'Unknown #86'
 meta_share: 0.0018
 list_count: 11
 top_cards:
-- name: Lava Spike
-  weight: 1.0
-  avg_copies: 4.0
-- name: Lightning Bolt
+- name: Boltwave
   weight: 1.0
   avg_copies: 4.0
 - name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
-- name: Cori-Steel Cutter
+- name: Lightning Bolt
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lava Spike
   weight: 1.0
   avg_copies: 4.0
 - name: Monastery Swiftspear
   weight: 1.0
   avg_copies: 4.0
-- name: Boltwave
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
-- name: Lava Dart
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 3.82
-- name: Mishra's Bauble
+- name: Lava Dart
   weight: 1.0
   avg_copies: 3.82
 - name: Barbarian Ring
   weight: 1.0
   avg_copies: 3.73
-- name: Skewer the Critics
+- name: Light Up the Stage
   weight: 1.0
   avg_copies: 3.64
-- name: Light Up the Stage
+- name: Skewer the Critics
   weight: 1.0
   avg_copies: 3.64
 - name: Tormod's Crypt
@@ -53,10 +53,10 @@ top_cards:
 - name: Unholy Heat
   weight: 0.6364
   avg_copies: 3.57
-- name: Scalding Tarn
+- name: Arid Mesa
   weight: 0.6364
   avg_copies: 2.57
-- name: Arid Mesa
+- name: Scalding Tarn
   weight: 0.6364
   avg_copies: 2.57
 - name: Wear
@@ -95,10 +95,10 @@ top_cards:
 - name: Damping Sphere
   weight: 0.1818
   avg_copies: 3.0
-- name: Pyroclasm
+- name: Obsidian Charmaw
   weight: 0.1818
   avg_copies: 2.5
-- name: Obsidian Charmaw
+- name: Pyroclasm
   weight: 0.1818
   avg_copies: 2.5
 - name: Goblin Guide
@@ -107,16 +107,16 @@ top_cards:
 - name: card:reinforced-ronin
   weight: 0.1818
   avg_copies: 1.5
-- name: Mogg Fanatic
+- name: Slickshot Show-Off
   weight: 0.0909
   avg_copies: 4.0
-- name: Slickshot Show-Off
+- name: Mogg Fanatic
   weight: 0.0909
   avg_copies: 4.0
 - name: Smash to Smithereens
   weight: 0.0909
   avg_copies: 3.0
-- name: Gut Shot
+- name: Vexing Bauble
   weight: 0.0909
   avg_copies: 2.0
 - name: Magebane Lizard
@@ -125,19 +125,19 @@ top_cards:
 - name: Boros Charm
   weight: 0.0909
   avg_copies: 2.0
+- name: Gut Shot
+  weight: 0.0909
+  avg_copies: 2.0
 - name: Path to Exile
   weight: 0.0909
   avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 0.0909
-  avg_copies: 2.0
-- name: Sokenzan, Crucible of Defiance
+- name: Engineered Explosives
   weight: 0.0909
   avg_copies: 1.0
 - name: Prismatic Ending
   weight: 0.0909
   avg_copies: 1.0
-- name: Engineered Explosives
+- name: Sokenzan, Crucible of Defiance
   weight: 0.0909
   avg_copies: 1.0
 ---

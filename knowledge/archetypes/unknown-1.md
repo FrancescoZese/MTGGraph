@@ -6,19 +6,19 @@ name: 'Unknown #1'
 meta_share: 0.0018
 list_count: 11
 top_cards:
-- name: Archon of Cruelty
+- name: Flare of Malice
+  weight: 1.0
+  avg_copies: 4.0
+- name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
 - name: Bloodghast
   weight: 1.0
   avg_copies: 4.0
+- name: Archon of Cruelty
+  weight: 1.0
+  avg_copies: 4.0
 - name: Faithless Looting
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flare of Malice
-  weight: 1.0
-  avg_copies: 4.0
-- name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
 - name: Rakdos Charm
@@ -36,10 +36,10 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 2.09
-- name: Fatal Push
+- name: Village Rites
   weight: 1.0
   avg_copies: 2.0
-- name: Village Rites
+- name: Fatal Push
   weight: 1.0
   avg_copies: 2.0
 - name: Brotherhood's End
@@ -81,10 +81,10 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.4545
   avg_copies: 2.8
-- name: Magus of the Moon
+- name: Engineered Explosives
   weight: 0.4545
   avg_copies: 2.0
-- name: Engineered Explosives
+- name: Magus of the Moon
   weight: 0.4545
   avg_copies: 2.0
 - name: Leyline of Combustion
@@ -93,10 +93,10 @@ top_cards:
 - name: Den of the Bugbear
   weight: 0.3636
   avg_copies: 1.0
-- name: card:electrodominance
+- name: Mishra's Bauble
   weight: 0.2727
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: card:electrodominance
   weight: 0.2727
   avg_copies: 4.0
 - name: Living End
@@ -132,7 +132,7 @@ top_cards:
 - name: card:thunderkin-awakener
   weight: 0.0909
   avg_copies: 3.0
-- name: Overgrown Tomb
+- name: Unearth
   weight: 0.0909
   avg_copies: 2.0
 - name: Veil of Summer
@@ -141,16 +141,16 @@ top_cards:
 - name: card:archfiend-s-vessel
   weight: 0.0909
   avg_copies: 2.0
-- name: Emperor of Bones
-  weight: 0.0909
-  avg_copies: 2.0
-- name: Seasoned Pyromancer
+- name: Overgrown Tomb
   weight: 0.0909
   avg_copies: 2.0
 - name: Dauthi Voidwalker
   weight: 0.0909
   avg_copies: 2.0
-- name: Unearth
+- name: Emperor of Bones
+  weight: 0.0909
+  avg_copies: 2.0
+- name: Seasoned Pyromancer
   weight: 0.0909
   avg_copies: 2.0
 - name: Ob Nixilis, the Adversary

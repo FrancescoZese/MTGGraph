@@ -22,10 +22,10 @@ top_cards:
 - name: Blackcleave Cliffs
   weight: 1.0
   avg_copies: 3.76
-- name: Serum Powder
+- name: Cosmogoyf
   weight: 1.0
   avg_copies: 3.64
-- name: Cosmogoyf
+- name: Serum Powder
   weight: 1.0
   avg_copies: 3.64
 - name: Blooming Marsh
@@ -139,13 +139,13 @@ top_cards:
 - name: card:noxious-revival
   weight: 0.0476
   avg_copies: 2.5
-- name: Natural State
+- name: Vexing Bauble
   weight: 0.0476
   avg_copies: 2.0
 - name: card:cragcrown-pathway
   weight: 0.0476
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Natural State
   weight: 0.0476
   avg_copies: 2.0
 - name: Mosswort Bridge
@@ -163,13 +163,13 @@ top_cards:
 - name: Pyroclasm
   weight: 0.0238
   avg_copies: 2.0
-- name: Meltdown
+- name: Disruptor Flute
   weight: 0.0238
   avg_copies: 1.0
 - name: Kaheera, the Orphanguard
   weight: 0.0238
   avg_copies: 1.0
-- name: Disruptor Flute
+- name: Meltdown
   weight: 0.0238
   avg_copies: 1.0
 - name: Mountain

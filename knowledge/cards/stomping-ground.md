@@ -6,7 +6,7 @@ name: Stomping Ground
 scryfall_id: 69be21b4-c613-47c6-ba57-f4785861af3e
 set: eoe
 type: Land — Mountain Forest
-meta_presence: 0.0886
+meta_presence: 0.0885
 archetypes:
   ruby-storm:
     weight: 0.0982

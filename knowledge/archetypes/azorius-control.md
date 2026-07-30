@@ -165,13 +165,13 @@ top_cards:
 - name: Subtlety
   weight: 0.0909
   avg_copies: 1.75
-- name: Undercity Sewers
-  weight: 0.0909
-  avg_copies: 1.0
 - name: Jace, the Mind Sculptor
   weight: 0.0909
   avg_copies: 1.0
 - name: Hedge Maze
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Undercity Sewers
   weight: 0.0909
   avg_copies: 1.0
 - name: Windswept Heath
@@ -183,10 +183,10 @@ top_cards:
 - name: Field of Ruin
   weight: 0.0682
   avg_copies: 1.17
-- name: Sink into Stupor
+- name: Ashiok, Dream Render
   weight: 0.0568
   avg_copies: 1.4
-- name: Ashiok, Dream Render
+- name: Sink into Stupor
   weight: 0.0568
   avg_copies: 1.4
 - name: Disruptor Flute
@@ -213,10 +213,10 @@ top_cards:
 - name: Fire Magic
   weight: 0.0341
   avg_copies: 1.67
-- name: Vendilion Clique
+- name: Snow-Covered Plains
   weight: 0.0341
   avg_copies: 1.0
-- name: Snow-Covered Plains
+- name: Vendilion Clique
   weight: 0.0341
   avg_copies: 1.0
 - name: Suppression Ray
@@ -228,16 +228,10 @@ top_cards:
 - name: Pyroclasm
   weight: 0.0227
   avg_copies: 1.5
-- name: Tamiyo, Inquisitive Student
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Sacred Foundry
+- name: Dress Down
   weight: 0.0227
   avg_copies: 1.0
 - name: Elegant Parlor
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Mistrise Village
   weight: 0.0227
   avg_copies: 1.0
 - name: Hallowed Moonlight
@@ -246,7 +240,13 @@ top_cards:
 - name: Gemstone Caverns
   weight: 0.0227
   avg_copies: 1.0
-- name: Dress Down
+- name: Tamiyo, Inquisitive Student
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Mistrise Village
   weight: 0.0227
   avg_copies: 1.0
 - name: Wear
@@ -255,40 +255,40 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 0.0114
   avg_copies: 2.0
-- name: Logic Knot
-  weight: 0.0114
-  avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
-  weight: 0.0114
-  avg_copies: 1.0
-- name: Commandeer
-  weight: 0.0114
-  avg_copies: 1.0
-- name: Damping Sphere
-  weight: 0.0114
-  avg_copies: 1.0
-- name: Flashback
-  weight: 0.0114
-  avg_copies: 1.0
-- name: Strix Serenade
-  weight: 0.0114
-  avg_copies: 1.0
-- name: card:bribery
-  weight: 0.0114
-  avg_copies: 1.0
-- name: Restless Anchorage
-  weight: 0.0114
-  avg_copies: 1.0
-- name: Meltdown
-  weight: 0.0114
-  avg_copies: 1.0
-- name: Petrified Hamlet
   weight: 0.0114
   avg_copies: 1.0
 - name: Get Lost
   weight: 0.0114
   avg_copies: 1.0
+- name: Strix Serenade
+  weight: 0.0114
+  avg_copies: 1.0
+- name: Commandeer
+  weight: 0.0114
+  avg_copies: 1.0
+- name: Restless Anchorage
+  weight: 0.0114
+  avg_copies: 1.0
+- name: card:bribery
+  weight: 0.0114
+  avg_copies: 1.0
+- name: Petrified Hamlet
+  weight: 0.0114
+  avg_copies: 1.0
 - name: Hurkyl's Recall
+  weight: 0.0114
+  avg_copies: 1.0
+- name: Damping Sphere
+  weight: 0.0114
+  avg_copies: 1.0
+- name: Logic Knot
+  weight: 0.0114
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 0.0114
+  avg_copies: 1.0
+- name: Flashback
   weight: 0.0114
   avg_copies: 1.0
 ---

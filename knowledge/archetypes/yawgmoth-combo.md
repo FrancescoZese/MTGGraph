@@ -60,10 +60,10 @@ top_cards:
 - name: Formidable Speaker
   weight: 1.0
   avg_copies: 1.03
-- name: Dryad Arbor
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
 - name: Force of Vigor
@@ -162,7 +162,13 @@ top_cards:
 - name: Crime
   weight: 0.0333
   avg_copies: 1.0
+- name: Icetill Explorer
+  weight: 0.0222
+  avg_copies: 1.0
 - name: Ghost Quarter
+  weight: 0.0222
+  avg_copies: 1.0
+- name: card:mole-man-moloid-master
   weight: 0.0222
   avg_copies: 1.0
 - name: Cankerbloom
@@ -171,46 +177,40 @@ top_cards:
 - name: Assassin's Trophy
   weight: 0.0222
   avg_copies: 1.0
-- name: card:mole-man-moloid-master
-  weight: 0.0222
-  avg_copies: 1.0
-- name: Icetill Explorer
-  weight: 0.0222
-  avg_copies: 1.0
-- name: Tourach, Dread Cantor
-  weight: 0.0111
-  avg_copies: 2.0
 - name: card:wastewood-verge
   weight: 0.0111
   avg_copies: 2.0
-- name: Nurturing Peatland
+- name: Tourach, Dread Cantor
+  weight: 0.0111
+  avg_copies: 2.0
+- name: Surgical Extraction
   weight: 0.0111
   avg_copies: 1.0
-- name: Disciple of Freyalise
-  weight: 0.0111
-  avg_copies: 1.0
-- name: Spore Frog
-  weight: 0.0111
-  avg_copies: 1.0
-- name: Collector Ouphe
+- name: Sylvan Safekeeper
   weight: 0.0111
   avg_copies: 1.0
 - name: Vicious Rivalry
   weight: 0.0111
   avg_copies: 1.0
+- name: Nurturing Peatland
+  weight: 0.0111
+  avg_copies: 1.0
+- name: Spore Frog
+  weight: 0.0111
+  avg_copies: 1.0
 - name: Creeping Corrosion
   weight: 0.0111
   avg_copies: 1.0
-- name: Chomping Changeling
-  weight: 0.0111
-  avg_copies: 1.0
-- name: Surgical Extraction
+- name: Collector Ouphe
   weight: 0.0111
   avg_copies: 1.0
 - name: Fade from History
   weight: 0.0111
   avg_copies: 1.0
-- name: Sylvan Safekeeper
+- name: Disciple of Freyalise
+  weight: 0.0111
+  avg_copies: 1.0
+- name: Chomping Changeling
   weight: 0.0111
   avg_copies: 1.0
 ---

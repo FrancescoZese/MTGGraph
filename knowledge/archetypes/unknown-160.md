@@ -93,10 +93,10 @@ top_cards:
 - name: Liquimetal Coating
   weight: 0.2958
   avg_copies: 1.0
-- name: Ensnaring Bridge
+- name: Tormod's Crypt
   weight: 0.2958
   avg_copies: 1.0
-- name: Tormod's Crypt
+- name: Ensnaring Bridge
   weight: 0.2958
   avg_copies: 1.0
 - name: Chandra, Awakened Inferno
@@ -117,10 +117,10 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.169
   avg_copies: 1.0
-- name: Kataki, War's Wage
+- name: The Stone Brain
   weight: 0.1549
   avg_copies: 1.0
-- name: The Stone Brain
+- name: Kataki, War's Wage
   weight: 0.1549
   avg_copies: 1.0
 - name: Lithomantic Barrage
@@ -183,10 +183,10 @@ top_cards:
 - name: Stormbreath Dragon
   weight: 0.0282
   avg_copies: 1.0
-- name: White Orchid Phantom
+- name: Teferi, Time Raveler
   weight: 0.0141
   avg_copies: 4.0
-- name: Teferi, Time Raveler
+- name: White Orchid Phantom
   weight: 0.0141
   avg_copies: 4.0
 - name: Madcap Experiment
@@ -198,6 +198,9 @@ top_cards:
 - name: Elegant Parlor
   weight: 0.0141
   avg_copies: 2.0
+- name: card:platinum-emperion
+  weight: 0.0141
+  avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.0141
   avg_copies: 2.0
@@ -207,52 +210,49 @@ top_cards:
 - name: Meltdown
   weight: 0.0141
   avg_copies: 2.0
-- name: card:platinum-emperion
-  weight: 0.0141
-  avg_copies: 2.0
-- name: Island
+- name: card:the-mind-stone
   weight: 0.0141
   avg_copies: 1.0
-- name: Blast Zone
-  weight: 0.0141
-  avg_copies: 1.0
-- name: Ark of Hunger
-  weight: 0.0141
-  avg_copies: 1.0
-- name: Crucible of Worlds
-  weight: 0.0141
-  avg_copies: 1.0
-- name: card:fry
-  weight: 0.0141
-  avg_copies: 1.0
-- name: Chandra, Torch of Defiance
-  weight: 0.0141
-  avg_copies: 1.0
-- name: Fracturing Gust
-  weight: 0.0141
-  avg_copies: 1.0
-- name: Hallowed Moonlight
-  weight: 0.0141
-  avg_copies: 1.0
-- name: Fire Magic
-  weight: 0.0141
-  avg_copies: 1.0
-- name: Grafdigger's Cage
-  weight: 0.0141
-  avg_copies: 1.0
-- name: card:chandra-hope-s-beacon
+- name: Disruptor Flute
   weight: 0.0141
   avg_copies: 1.0
 - name: Cityscape Leveler
   weight: 0.0141
   avg_copies: 1.0
+- name: card:fry
+  weight: 0.0141
+  avg_copies: 1.0
 - name: Brotherhood's End
   weight: 0.0141
   avg_copies: 1.0
-- name: card:the-mind-stone
+- name: Chandra, Torch of Defiance
   weight: 0.0141
   avg_copies: 1.0
-- name: Disruptor Flute
+- name: Hallowed Moonlight
+  weight: 0.0141
+  avg_copies: 1.0
+- name: card:chandra-hope-s-beacon
+  weight: 0.0141
+  avg_copies: 1.0
+- name: Ark of Hunger
+  weight: 0.0141
+  avg_copies: 1.0
+- name: Grafdigger's Cage
+  weight: 0.0141
+  avg_copies: 1.0
+- name: Island
+  weight: 0.0141
+  avg_copies: 1.0
+- name: Crucible of Worlds
+  weight: 0.0141
+  avg_copies: 1.0
+- name: Blast Zone
+  weight: 0.0141
+  avg_copies: 1.0
+- name: Fracturing Gust
+  weight: 0.0141
+  avg_copies: 1.0
+- name: Fire Magic
   weight: 0.0141
   avg_copies: 1.0
 ---

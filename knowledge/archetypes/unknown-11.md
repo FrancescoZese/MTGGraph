@@ -7,25 +7,25 @@ name: 'Unknown #11'
 meta_share: 0.0008
 list_count: 5
 top_cards:
-- name: Desperate Ritual
-  weight: 1.0
-  avg_copies: 4.0
-- name: Stormcatch Mentor
+- name: Ral, Monsoon Mage
   weight: 1.0
   avg_copies: 4.0
 - name: Pyretic Ritual
   weight: 1.0
   avg_copies: 4.0
-- name: Scalding Tarn
-  weight: 1.0
-  avg_copies: 4.0
 - name: Manamorphose
   weight: 1.0
   avg_copies: 4.0
-- name: Ral, Monsoon Mage
+- name: Stormcatch Mentor
   weight: 1.0
   avg_copies: 4.0
 - name: Flow State
+  weight: 1.0
+  avg_copies: 4.0
+- name: Scalding Tarn
+  weight: 1.0
+  avg_copies: 4.0
+- name: Desperate Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Stock Up
@@ -58,13 +58,13 @@ top_cards:
 - name: Flame of Anor
   weight: 1.0
   avg_copies: 1.14
-- name: Misty Rainforest
-  weight: 1.0
-  avg_copies: 1.0
 - name: Grapeshot
   weight: 1.0
   avg_copies: 1.0
 - name: Wooded Foothills
+  weight: 1.0
+  avg_copies: 1.0
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 1.0
 - name: Lightning Bolt
@@ -82,10 +82,10 @@ top_cards:
 - name: Valakut Awakening
   weight: 0.8
   avg_copies: 1.0
-- name: Meltdown
+- name: Fiery Islet
   weight: 0.8
   avg_copies: 1.0
-- name: Fiery Islet
+- name: Meltdown
   weight: 0.8
   avg_copies: 1.0
 - name: Preordain
@@ -94,22 +94,22 @@ top_cards:
 - name: Defense Grid
   weight: 0.6
   avg_copies: 2.0
-- name: Soul-Guide Lantern
-  weight: 0.6
-  avg_copies: 1.33
 - name: Strike It Rich
   weight: 0.6
   avg_copies: 1.33
-- name: Artist's Talent
+- name: Soul-Guide Lantern
   weight: 0.6
-  avg_copies: 1.0
-- name: Polluted Delta
+  avg_copies: 1.33
+- name: Untimely Malfunction
   weight: 0.6
   avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 0.6
   avg_copies: 1.0
-- name: Untimely Malfunction
+- name: Polluted Delta
+  weight: 0.6
+  avg_copies: 1.0
+- name: Artist's Talent
   weight: 0.6
   avg_copies: 1.0
 - name: Wrenn's Resolve
@@ -130,10 +130,10 @@ top_cards:
 - name: Fire Magic
   weight: 0.4
   avg_copies: 1.0
-- name: Spirebluff Canal
+- name: Murktide Regent
   weight: 0.2
   avg_copies: 3.0
-- name: Murktide Regent
+- name: Spirebluff Canal
   weight: 0.2
   avg_copies: 3.0
 - name: Mox Amber
@@ -145,10 +145,10 @@ top_cards:
 - name: Repeal
   weight: 0.2
   avg_copies: 1.5
-- name: Fire
+- name: Baral, Chief of Compliance
   weight: 0.2
   avg_copies: 1.0
-- name: Baral, Chief of Compliance
+- name: Fire
   weight: 0.2
   avg_copies: 1.0
 - name: Shatterskull Smashing

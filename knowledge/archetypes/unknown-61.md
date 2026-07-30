@@ -140,10 +140,10 @@ top_cards:
 - name: Bojuka Bog
   weight: 0.029
   avg_copies: 1.0
-- name: Creeping Corrosion
+- name: Thief of Existence
   weight: 0.0145
   avg_copies: 3.0
-- name: Thief of Existence
+- name: Creeping Corrosion
   weight: 0.0145
   avg_copies: 3.0
 - name: Hashep Oasis
@@ -158,19 +158,13 @@ top_cards:
 - name: Grafdigger's Cage
   weight: 0.0145
   avg_copies: 1.0
-- name: Insidious Fungus
+- name: Ghalta, Stampede Tyrant
+  weight: 0.0145
+  avg_copies: 1.0
+- name: Surgical Extraction
   weight: 0.0145
   avg_copies: 1.0
 - name: Tajuru Preserver
-  weight: 0.0145
-  avg_copies: 1.0
-- name: Six
-  weight: 0.0145
-  avg_copies: 1.0
-- name: Shifting Woodland
-  weight: 0.0145
-  avg_copies: 1.0
-- name: Ghalta, Stampede Tyrant
   weight: 0.0145
   avg_copies: 1.0
 - name: Ouroboroid
@@ -179,7 +173,13 @@ top_cards:
 - name: Outland Liberator
   weight: 0.0145
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Shifting Woodland
+  weight: 0.0145
+  avg_copies: 1.0
+- name: Insidious Fungus
+  weight: 0.0145
+  avg_copies: 1.0
+- name: Six
   weight: 0.0145
   avg_copies: 1.0
 ---

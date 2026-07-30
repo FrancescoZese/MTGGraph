@@ -154,25 +154,25 @@ top_cards:
 - name: Arena of Glory
   weight: 0.1321
   avg_copies: 1.75
-- name: Damping Sphere
-  weight: 0.1321
-  avg_copies: 1.71
 - name: Subtlety
   weight: 0.1321
   avg_copies: 1.71
-- name: Hall of Storm Giants
+- name: Damping Sphere
+  weight: 0.1321
+  avg_copies: 1.71
+- name: Sink into Stupor
   weight: 0.1321
   avg_copies: 1.0
-- name: Sink into Stupor
+- name: Hall of Storm Giants
   weight: 0.1321
   avg_copies: 1.0
 - name: Flame of Anor
   weight: 0.0943
   avg_copies: 4.0
-- name: Tamiyo, Inquisitive Student
+- name: Fable of the Mirror-Breaker
   weight: 0.0943
   avg_copies: 3.0
-- name: Fable of the Mirror-Breaker
+- name: Tamiyo, Inquisitive Student
   weight: 0.0943
   avg_copies: 3.0
 - name: Obsidian Charmaw
@@ -196,10 +196,10 @@ top_cards:
 - name: Flare of Denial
   weight: 0.0566
   avg_copies: 2.0
-- name: card:saheeli-rai
+- name: card:felidar-guardian
   weight: 0.0377
   avg_copies: 3.0
-- name: card:felidar-guardian
+- name: card:saheeli-rai
   weight: 0.0377
   avg_copies: 3.0
 - name: Lightning Bolt
@@ -223,10 +223,10 @@ top_cards:
 - name: Dovin's Veto
   weight: 0.0377
   avg_copies: 1.0
-- name: Ragavan, Nimble Pilferer
+- name: Dress Down
   weight: 0.0189
   avg_copies: 4.0
-- name: Dress Down
+- name: Ragavan, Nimble Pilferer
   weight: 0.0189
   avg_copies: 4.0
 - name: Nulldrifter
@@ -235,10 +235,13 @@ top_cards:
 - name: Wan Shi Tong, Librarian
   weight: 0.0189
   avg_copies: 2.0
-- name: Harbinger of the Seas
+- name: Prismari Charm
   weight: 0.0189
   avg_copies: 2.0
-- name: Prismari Charm
+- name: Drannith Magistrate
+  weight: 0.0189
+  avg_copies: 2.0
+- name: Harbinger of the Seas
   weight: 0.0189
   avg_copies: 2.0
 - name: Invert Polarity
@@ -247,55 +250,52 @@ top_cards:
 - name: Ephemerate
   weight: 0.0189
   avg_copies: 2.0
-- name: Drannith Magistrate
-  weight: 0.0189
-  avg_copies: 2.0
-- name: Emeritus of Ideation
-  weight: 0.0189
-  avg_copies: 1.0
 - name: Timeless Dragon
-  weight: 0.0189
-  avg_copies: 1.0
-- name: Path to Exile
-  weight: 0.0189
-  avg_copies: 1.0
-- name: Windswept Heath
-  weight: 0.0189
-  avg_copies: 1.0
-- name: Vendilion Clique
-  weight: 0.0189
-  avg_copies: 1.0
-- name: Kozilek, Butcher of Truth
-  weight: 0.0189
-  avg_copies: 1.0
-- name: Floodfarm Verge
-  weight: 0.0189
-  avg_copies: 1.0
-- name: Hallowed Moonlight
-  weight: 0.0189
-  avg_copies: 1.0
-- name: Raugrin Triome
-  weight: 0.0189
-  avg_copies: 1.0
-- name: Thraben Charm
-  weight: 0.0189
-  avg_copies: 1.0
-- name: Flashback
-  weight: 0.0189
-  avg_copies: 1.0
-- name: Ghost Vacuum
-  weight: 0.0189
-  avg_copies: 1.0
-- name: card:bribery
   weight: 0.0189
   avg_copies: 1.0
 - name: Unlicensed Hearse
   weight: 0.0189
   avg_copies: 1.0
+- name: Windswept Heath
+  weight: 0.0189
+  avg_copies: 1.0
+- name: Thraben Charm
+  weight: 0.0189
+  avg_copies: 1.0
 - name: Get Lost
   weight: 0.0189
   avg_copies: 1.0
+- name: Path to Exile
+  weight: 0.0189
+  avg_copies: 1.0
+- name: Hallowed Moonlight
+  weight: 0.0189
+  avg_copies: 1.0
 - name: Gemstone Caverns
+  weight: 0.0189
+  avg_copies: 1.0
+- name: Emeritus of Ideation
+  weight: 0.0189
+  avg_copies: 1.0
+- name: card:bribery
+  weight: 0.0189
+  avg_copies: 1.0
+- name: Ghost Vacuum
+  weight: 0.0189
+  avg_copies: 1.0
+- name: Kozilek, Butcher of Truth
+  weight: 0.0189
+  avg_copies: 1.0
+- name: Raugrin Triome
+  weight: 0.0189
+  avg_copies: 1.0
+- name: Vendilion Clique
+  weight: 0.0189
+  avg_copies: 1.0
+- name: Floodfarm Verge
+  weight: 0.0189
+  avg_copies: 1.0
+- name: Flashback
   weight: 0.0189
   avg_copies: 1.0
 ---

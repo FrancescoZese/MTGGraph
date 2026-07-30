@@ -6,7 +6,16 @@ name: 'Unknown #13'
 meta_share: 0.0002
 list_count: 1
 top_cards:
-- name: Sanctifier en-Vec
+- name: Price of Freedom
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ragavan, Nimble Pilferer
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flagstones of Trokair
+  weight: 1.0
+  avg_copies: 4.0
+- name: Boom
   weight: 1.0
   avg_copies: 4.0
 - name: Magmatic Hellkite
@@ -15,19 +24,10 @@ top_cards:
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
-- name: Price of Freedom
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flagstones of Trokair
+- name: White Orchid Phantom
   weight: 1.0
   avg_copies: 4.0
 - name: Wrath of the Skies
-  weight: 1.0
-  avg_copies: 4.0
-- name: Boom
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 4.0
 - name: Path to Exile
@@ -36,22 +36,22 @@ top_cards:
 - name: Cleansing Wildfire
   weight: 1.0
   avg_copies: 4.0
-- name: White Orchid Phantom
+- name: Sanctifier en-Vec
   weight: 1.0
   avg_copies: 4.0
-- name: Erode
+- name: Drannith Magistrate
   weight: 1.0
   avg_copies: 3.0
-- name: Drannith Magistrate
+- name: Erode
   weight: 1.0
   avg_copies: 3.0
 - name: Rustvale Bridge
   weight: 1.0
   avg_copies: 3.0
-- name: Solitude
+- name: Reprieve
   weight: 1.0
   avg_copies: 2.0
-- name: Reprieve
+- name: Leonin Arbiter
   weight: 1.0
   avg_copies: 2.0
 - name: Sacred Foundry
@@ -60,19 +60,19 @@ top_cards:
 - name: Pinnacle Monk
   weight: 1.0
   avg_copies: 2.0
-- name: Leonin Arbiter
+- name: Thalia, Heretic Cathar
   weight: 1.0
   avg_copies: 2.0
-- name: Thalia, Heretic Cathar
+- name: Solitude
   weight: 1.0
   avg_copies: 2.0
 - name: Witch Enchanter
   weight: 1.0
   avg_copies: 2.0
-- name: Plains
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
 - name: Mountain

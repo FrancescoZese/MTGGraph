@@ -8,7 +8,7 @@ name: 'Unknown #96'
 meta_share: 0.0044
 list_count: 27
 top_cards:
-- name: Faithless Looting
+- name: Marauding Mako
   weight: 1.0
   avg_copies: 4.0
 - name: Hollow One
@@ -17,7 +17,7 @@ top_cards:
 - name: Hardened Academic
   weight: 1.0
   avg_copies: 4.0
-- name: Marauding Mako
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
@@ -41,13 +41,13 @@ top_cards:
 - name: Practiced Offense
   weight: 1.0
   avg_copies: 2.22
-- name: Blazing Rootwalla
-  weight: 0.963
-  avg_copies: 4.0
 - name: Vengevine
   weight: 0.963
   avg_copies: 4.0
 - name: Burning Inquiry
+  weight: 0.963
+  avg_copies: 4.0
+- name: Blazing Rootwalla
   weight: 0.963
   avg_copies: 4.0
 - name: Elegant Parlor
@@ -113,13 +113,13 @@ top_cards:
 - name: Orim's Chant
   weight: 0.1111
   avg_copies: 2.33
-- name: Seasoned Pyromancer
-  weight: 0.1111
-  avg_copies: 2.0
 - name: Asmoranomardicadaistinaculdacar
   weight: 0.1111
   avg_copies: 2.0
 - name: The Underworld Cookbook
+  weight: 0.1111
+  avg_copies: 2.0
+- name: Seasoned Pyromancer
   weight: 0.1111
   avg_copies: 2.0
 - name: Fear of Missing Out
@@ -134,13 +134,13 @@ top_cards:
 - name: Tormod's Crypt
   weight: 0.0741
   avg_copies: 2.5
+- name: Magebane Lizard
+  weight: 0.0741
+  avg_copies: 2.0
 - name: Orcish Bowmasters
   weight: 0.0741
   avg_copies: 2.0
 - name: Deafening Silence
-  weight: 0.0741
-  avg_copies: 2.0
-- name: Magebane Lizard
   weight: 0.0741
   avg_copies: 2.0
 - name: Raucous Theater
@@ -149,43 +149,43 @@ top_cards:
 - name: Goblin Lore
   weight: 0.037
   avg_copies: 4.0
-- name: Faerie Macabre
-  weight: 0.037
-  avg_copies: 3.0
 - name: Price of Freedom
-  weight: 0.037
-  avg_copies: 3.0
-- name: Marsh Flats
   weight: 0.037
   avg_copies: 3.0
 - name: Thoughtseize
   weight: 0.037
   avg_copies: 3.0
-- name: Erode
+- name: Marsh Flats
   weight: 0.037
-  avg_copies: 2.0
-- name: Lava Dart
+  avg_copies: 3.0
+- name: Faerie Macabre
   weight: 0.037
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Relic of Progenitus
+  weight: 0.037
+  avg_copies: 2.0
+- name: Erode
   weight: 0.037
   avg_copies: 2.0
 - name: Prismatic Ending
   weight: 0.037
   avg_copies: 2.0
-- name: Plains
+- name: Lava Dart
   weight: 0.037
-  avg_copies: 1.0
-- name: Godless Shrine
-  weight: 0.037
-  avg_copies: 1.0
-- name: Pyroclasm
+  avg_copies: 2.0
+- name: Snow-Covered Mountain
   weight: 0.037
   avg_copies: 1.0
 - name: Arena of Glory
   weight: 0.037
   avg_copies: 1.0
-- name: Snow-Covered Mountain
+- name: Plains
+  weight: 0.037
+  avg_copies: 1.0
+- name: Pyroclasm
+  weight: 0.037
+  avg_copies: 1.0
+- name: Godless Shrine
   weight: 0.037
   avg_copies: 1.0
 ---

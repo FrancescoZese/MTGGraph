@@ -12,34 +12,34 @@ top_cards:
 - name: Darkbore Pathway
   weight: 1.0
   avg_copies: 4.0
-- name: Blooming Marsh
-  weight: 1.0
-  avg_copies: 4.0
-- name: Break the Ice
-  weight: 1.0
-  avg_copies: 4.0
-- name: Soul Spike
+- name: Cosmogoyf
   weight: 1.0
   avg_copies: 4.0
 - name: Plunge into Darkness
   weight: 1.0
   avg_copies: 4.0
-- name: Serum Powder
-  weight: 1.0
-  avg_copies: 4.0
 - name: Necrodominance
   weight: 1.0
   avg_copies: 4.0
-- name: Cosmogoyf
+- name: Soul Spike
+  weight: 1.0
+  avg_copies: 4.0
+- name: Blooming Marsh
+  weight: 1.0
+  avg_copies: 4.0
+- name: Serum Powder
+  weight: 1.0
+  avg_copies: 4.0
+- name: Break the Ice
   weight: 1.0
   avg_copies: 4.0
 - name: Inquisition of Kozilek
   weight: 1.0
   avg_copies: 3.5
-- name: card:rite-of-consumption
+- name: Force of Despair
   weight: 1.0
   avg_copies: 3.0
-- name: Force of Despair
+- name: card:rite-of-consumption
   weight: 1.0
   avg_copies: 3.0
 - name: Surgical Extraction
@@ -57,34 +57,34 @@ top_cards:
 - name: Takenuma, Abandoned Mire
   weight: 1.0
   avg_copies: 1.0
-- name: Requiting Hex
-  weight: 0.5
-  avg_copies: 4.0
 - name: Verdant Catacombs
   weight: 0.5
   avg_copies: 4.0
 - name: Chancellor of the Dross
   weight: 0.5
   avg_copies: 4.0
-- name: Culling Ritual
+- name: Requiting Hex
   weight: 0.5
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Twilight Mire
   weight: 0.5
   avg_copies: 3.0
-- name: Witherbloom Charm
+- name: Culling Ritual
+  weight: 0.5
+  avg_copies: 3.0
+- name: Revitalizing Repast
   weight: 0.5
   avg_copies: 2.0
-- name: Revitalizing Repast
+- name: Witherbloom Charm
   weight: 0.5
   avg_copies: 2.0
 - name: Underground Mortuary
   weight: 0.5
   avg_copies: 1.0
-- name: Overgrown Tomb
+- name: Professor Dellian Fel
   weight: 0.5
   avg_copies: 1.0
-- name: Professor Dellian Fel
+- name: Overgrown Tomb
   weight: 0.5
   avg_copies: 1.0
 ---

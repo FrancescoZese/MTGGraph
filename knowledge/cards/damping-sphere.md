@@ -6,7 +6,7 @@ name: Damping Sphere
 scryfall_id: 550860b4-887d-423a-8add-816c2a8da615
 set: dmr
 type: Artifact
-meta_presence: 0.276
+meta_presence: 0.2759
 archetypes:
   boros-energy:
     weight: 0.2978

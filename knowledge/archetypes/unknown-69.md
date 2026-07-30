@@ -9,10 +9,10 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 4.12
-- name: Necrodominance
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Necrodominance
   weight: 1.0
   avg_copies: 4.0
 - name: Soul Spike
@@ -36,10 +36,10 @@ top_cards:
 - name: Sheoldred, the Apocalypse
   weight: 1.0
   avg_copies: 3.12
-- name: March of Wretched Sorrow
+- name: Dauthi Voidwalker
   weight: 1.0
   avg_copies: 3.0
-- name: Dauthi Voidwalker
+- name: March of Wretched Sorrow
   weight: 1.0
   avg_copies: 3.0
 - name: Force of Despair
@@ -57,10 +57,10 @@ top_cards:
 - name: Marsh Flats
   weight: 0.875
   avg_copies: 1.14
-- name: The Meathook Massacre
+- name: Surgical Extraction
   weight: 0.875
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: The Meathook Massacre
   weight: 0.875
   avg_copies: 1.0
 - name: card:baron-helmut-zemo
@@ -108,13 +108,10 @@ top_cards:
 - name: Watery Grave
   weight: 0.25
   avg_copies: 1.5
-- name: Waterlogged Teachings
-  weight: 0.25
-  avg_copies: 1.0
-- name: Cling to Dust
-  weight: 0.25
-  avg_copies: 1.0
 - name: Necromentia
+  weight: 0.25
+  avg_copies: 1.0
+- name: Waterlogged Teachings
   weight: 0.25
   avg_copies: 1.0
 - name: Agadeem's Awakening
@@ -123,19 +120,22 @@ top_cards:
 - name: Revitalizing Repast
   weight: 0.25
   avg_copies: 1.0
+- name: Cling to Dust
+  weight: 0.25
+  avg_copies: 1.0
 - name: Consign to Memory
   weight: 0.125
   avg_copies: 4.0
 - name: Tourach, Dread Cantor
   weight: 0.125
   avg_copies: 2.0
+- name: Takenuma, Abandoned Mire
+  weight: 0.125
+  avg_copies: 1.0
 - name: Toxic Deluge
   weight: 0.125
   avg_copies: 1.0
 - name: Shizo, Death's Storehouse
-  weight: 0.125
-  avg_copies: 1.0
-- name: Takenuma, Abandoned Mire
   weight: 0.125
   avg_copies: 1.0
 ---

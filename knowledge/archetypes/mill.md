@@ -21,10 +21,10 @@ top_cards:
 - name: Visions of Beyond
   weight: 1.0
   avg_copies: 2.18
-- name: Archive Trap
+- name: Fractured Sanity
   weight: 0.9697
   avg_copies: 4.0
-- name: Fractured Sanity
+- name: Archive Trap
   weight: 0.9697
   avg_copies: 4.0
 - name: Fatal Push
@@ -174,9 +174,6 @@ top_cards:
 - name: Kitsune's Technique
   weight: 0.0606
   avg_copies: 2.0
-- name: Force of Negation
-  weight: 0.0606
-  avg_copies: 1.5
 - name: Prismatic Vista
   weight: 0.0606
   avg_copies: 1.5
@@ -184,6 +181,9 @@ top_cards:
   weight: 0.0606
   avg_copies: 1.5
 - name: Damping Sphere
+  weight: 0.0606
+  avg_copies: 1.5
+- name: Force of Negation
   weight: 0.0606
   avg_copies: 1.5
 - name: Illness in the Ranks
@@ -195,13 +195,13 @@ top_cards:
 - name: Erode
   weight: 0.0303
   avg_copies: 4.0
+- name: Trapmaker's Snare
+  weight: 0.0303
+  avg_copies: 4.0
 - name: Path to Exile
   weight: 0.0303
   avg_copies: 4.0
 - name: White Orchid Phantom
-  weight: 0.0303
-  avg_copies: 4.0
-- name: Trapmaker's Snare
   weight: 0.0303
   avg_copies: 4.0
 - name: Leyline of the Void
@@ -213,49 +213,49 @@ top_cards:
 - name: Spell Pierce
   weight: 0.0303
   avg_copies: 3.0
-- name: Vendetta
-  weight: 0.0303
-  avg_copies: 2.0
-- name: Meltdown
+- name: Hurkyl's Recall
   weight: 0.0303
   avg_copies: 2.0
 - name: Flare of Denial
   weight: 0.0303
   avg_copies: 2.0
-- name: Hurkyl's Recall
+- name: Meltdown
   weight: 0.0303
   avg_copies: 2.0
-- name: Meticulous Archive
+- name: Vendetta
   weight: 0.0303
-  avg_copies: 1.0
-- name: card:loki-god-of-mischief
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Mindbreak Trap
+  avg_copies: 2.0
+- name: Requiting Hex
   weight: 0.0303
   avg_copies: 1.0
 - name: Subtlety
   weight: 0.0303
   avg_copies: 1.0
-- name: Requiting Hex
+- name: Mindbreak Trap
   weight: 0.0303
   avg_copies: 1.0
-- name: Gloomlake Verge
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Plains
+- name: Meticulous Archive
   weight: 0.0303
   avg_copies: 1.0
 - name: Darkslick Shores
   weight: 0.0303
   avg_copies: 1.0
+- name: Bloodchief's Thirst
+  weight: 0.0303
+  avg_copies: 1.0
+- name: card:loki-god-of-mischief
+  weight: 0.0303
+  avg_copies: 1.0
+- name: Gloomlake Verge
+  weight: 0.0303
+  avg_copies: 1.0
 - name: Steam Vents
   weight: 0.0303
   avg_copies: 1.0
-- name: Ravenous Trap
+- name: Plains
   weight: 0.0303
   avg_copies: 1.0
-- name: Bloodchief's Thirst
+- name: Ravenous Trap
   weight: 0.0303
   avg_copies: 1.0
 ---

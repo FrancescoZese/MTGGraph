@@ -6,10 +6,13 @@ name: 'Unknown #49'
 meta_share: 0.0008
 list_count: 5
 top_cards:
-- name: Tormod's Crypt
+- name: Spirebluff Canal
   weight: 1.0
   avg_copies: 4.0
 - name: Fiery Islet
+  weight: 1.0
+  avg_copies: 4.0
+- name: Welding Jar
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
@@ -18,16 +21,13 @@ top_cards:
 - name: Kappa Cannoneer
   weight: 1.0
   avg_copies: 4.0
-- name: Engineered Explosives
+- name: Tormod's Crypt
   weight: 1.0
   avg_copies: 4.0
 - name: Pinnacle Emissary
   weight: 1.0
   avg_copies: 4.0
-- name: Spirebluff Canal
-  weight: 1.0
-  avg_copies: 4.0
-- name: Welding Jar
+- name: Engineered Explosives
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
@@ -63,16 +63,16 @@ top_cards:
 - name: Island
   weight: 0.8
   avg_copies: 1.75
-- name: Skateboard
+- name: Shivan Reef
   weight: 0.8
   avg_copies: 1.0
 - name: Vexing Bauble
   weight: 0.8
   avg_copies: 1.0
-- name: Shivan Reef
+- name: Steam Vents
   weight: 0.8
   avg_copies: 1.0
-- name: Steam Vents
+- name: Skateboard
   weight: 0.8
   avg_copies: 1.0
 - name: Memnite
@@ -81,10 +81,10 @@ top_cards:
 - name: Consign to Memory
   weight: 0.6
   avg_copies: 2.33
-- name: Whipflare
+- name: Hurkyl's Recall
   weight: 0.6
   avg_copies: 1.67
-- name: Hurkyl's Recall
+- name: Whipflare
   weight: 0.6
   avg_copies: 1.67
 - name: Blood Moon
