@@ -6,16 +6,16 @@ name: Swamp
 scryfall_id: 51fe930f-2b5a-4b1e-9007-6ee74fb44715
 set: sos
 type: Basic Land — Swamp
-meta_presence: 0.2694
+meta_presence: 0.2698
 archetypes:
   dimir-control:
     weight: 0.9877
     avg_copies: 1.02
   eldrazi-tron:
-    weight: 0.7838
+    weight: 0.786
     avg_copies: 1.08
   goryo:
-    weight: 0.9875
+    weight: 0.9876
     avg_copies: 1.01
   necrodominance:
     weight: 1.0
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   mill:
-    weight: 0.8182
+    weight: 0.8235
     avg_copies: 1.14
   reanimator:
     weight: 1.0
@@ -39,13 +39,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.023
+    weight: 0.0222
     avg_copies: 1.0
   esper-blink:
-    weight: 0.982
+    weight: 0.9823
     avg_copies: 1.02
   samwise-combo:
-    weight: 0.1429
+    weight: 0.1385
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.0667
@@ -55,7 +55,7 @@ archetypes:
     avg_copies: 1.0
   orzhov-blink:
     weight: 1.0
-    avg_copies: 1.31
+    avg_copies: 1.25
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
@@ -72,7 +72,7 @@ archetypes:
     weight: 0.9474
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.881
+    weight: 0.8837
     avg_copies: 1.0
   esper-midrange:
     weight: 1.0
@@ -81,7 +81,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo1:
-    weight: 0.9503
+    weight: 0.9509
     avg_copies: 1.75
   goryo5:
     weight: 1.0
@@ -153,7 +153,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.62
   unknown-47:
-    weight: 0.9727
+    weight: 0.9737
     avg_copies: 1.01
   unknown-51:
     weight: 1.0
@@ -216,7 +216,7 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   unknown-101:
-    weight: 0.5
+    weight: 0.5833
     avg_copies: 1.0
   unknown-105:
     weight: 1.0
@@ -310,7 +310,7 @@ archetypes:
     avg_copies: 2.0
   unknown-211:
     weight: 1.0
-    avg_copies: 4.75
+    avg_copies: 5.4
   unknown-215:
     weight: 1.0
     avg_copies: 3.0

@@ -7,12 +7,12 @@ name: Sorin, Imperious Bloodlord
 scryfall_id: 219d3e48-e0b1-472d-ac45-11c14b292c9e
 set: inr
 type: Legendary Planeswalker — Sorin
-meta_presence: 0.0008
+meta_presence: 0.001
 archetypes:
   necrodominance:
     weight: 0.0455
     avg_copies: 4.0
   cosmogoyf-fling:
-    weight: 0.0714
-    avg_copies: 3.67
+    weight: 0.093
+    avg_copies: 3.25
 ---

@@ -1,0 +1,50 @@
+---
+archetype: broodscale-combo
+date: '2026-07-30'
+finish: 16th
+pilot: giraffesarentreal
+source: MTGO Modern Challenge 64
+---
+
+
+# Mainboard
+2 Forest
+1 Gemstone Caverns
+4 Blade of the Bloodchief
+4 Ancient Stirrings
+4 Sowing Mycospawn
+4 Eldrazi Temple
+1 Glaring Fleshraker
+1 Walking Ballista
+1 Soul-Guide Lantern
+4 Urza's Saga
+1 Stomping Ground
+1 Boseiju, Who Endures
+1 Haywire Mite
+4 Basking Broodscale
+4 Malevolent Rumble
+1 Vexing Bauble
+4 Misty Rainforest
+3 Emrakul, the Promised End
+4 Kozilek's Command
+1 Writhing Chrysalis
+4 Grove of the Burnwillows
+1 Springleaf Drum
+2 Traverse the Ulvenwald
+1 Commercial District
+2 Delighted Halfling
+
+# Sideboard
+1 Pithing Needle
+2 Nature's Claim
+1 Gemstone Caverns
+1 Grafdigger's Cage
+1 Cavern of Souls
+1 Thought-Knot Seer
+1 Soulless Jailer
+1 Vexing Bauble
+1 Bojuka Bog
+1 Kozilek's Return
+1 Writhing Chrysalis
+2 Unholy Heat
+1 Firespout

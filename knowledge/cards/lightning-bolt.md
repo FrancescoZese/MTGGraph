@@ -7,14 +7,14 @@ name: Lightning Bolt
 scryfall_id: 77c6fa74-5543-42ac-9ead-0e890b188e99
 set: clu
 type: Instant
-meta_presence: 0.1596
+meta_presence: 0.1603
 archetypes:
   ruby-storm:
-    weight: 0.0312
+    weight: 0.031
     avg_copies: 1.0
   boros-energy:
-    weight: 0.2368
-    avg_copies: 1.22
+    weight: 0.2383
+    avg_copies: 1.21
   dimir-control:
     weight: 0.0123
     avg_copies: 2.0
@@ -22,11 +22,11 @@ archetypes:
     weight: 0.0602
     avg_copies: 2.88
   jeskai-control:
-    weight: 0.0377
+    weight: 0.037
     avg_copies: 2.5
   domain-zoo:
     weight: 1.0
-    avg_copies: 3.82
+    avg_copies: 3.8
   reanimator:
     weight: 0.1111
     avg_copies: 2.33
@@ -46,7 +46,7 @@ archetypes:
     weight: 0.8667
     avg_copies: 2.08
   broodscale-combo:
-    weight: 0.0073
+    weight: 0.0072
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.125
@@ -67,13 +67,13 @@ archetypes:
     weight: 1.0
     avg_copies: 2.5
   cosmogoyf-fling:
-    weight: 0.1667
+    weight: 0.1628
     avg_copies: 2.29
   scapeshift-combo:
     weight: 0.3333
     avg_copies: 3.0
   goryo1:
-    weight: 0.0062
+    weight: 0.0061
     avg_copies: 1.0
   grixis-control:
     weight: 0.4286
@@ -91,7 +91,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-6:
-    weight: 0.0833
+    weight: 0.0769
     avg_copies: 1.0
   unknown-1:
     weight: 0.7273
@@ -106,7 +106,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-15:
-    weight: 0.6667
+    weight: 0.6154
     avg_copies: 2.3
   unknown-19:
     weight: 1.0
@@ -172,8 +172,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-96:
-    weight: 0.7407
-    avg_copies: 2.28
+    weight: 0.7576
+    avg_copies: 2.22
   unknown-98:
     weight: 1.0
     avg_copies: 3.75
@@ -184,8 +184,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-101:
-    weight: 0.9
-    avg_copies: 3.44
+    weight: 0.9167
+    avg_copies: 3.45
   unknown-104:
     weight: 1.0
     avg_copies: 1.0
@@ -240,4 +240,7 @@ archetypes:
   unknown-217:
     weight: 1.0
     avg_copies: 2.0
+  unknown-222:
+    weight: 1.0
+    avg_copies: 3.0
 ---

@@ -7,7 +7,7 @@ name: Forge Anew
 scryfall_id: 56274b88-6e3f-4538-bb0c-eb5e52a58ef3
 set: ltr
 type: Enchantment
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   hammer-time:
     weight: 0.0714

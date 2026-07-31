@@ -11,7 +11,7 @@ type: Sorcery
 meta_presence: 0.04
 archetypes:
   goryo:
-    weight: 0.0063
+    weight: 0.0062
     avg_copies: 1.0
   necrodominance:
     weight: 0.0227
@@ -26,10 +26,10 @@ archetypes:
     weight: 0.0081
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.7816
+    weight: 0.7778
     avg_copies: 2.87
   samwise-combo:
-    weight: 0.0635
+    weight: 0.0615
     avg_copies: 2.0
   broodscale-combo:
     weight: 0.0145
@@ -68,11 +68,11 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-67:
-    weight: 0.013
+    weight: 0.0127
     avg_copies: 2.0
   unknown-97:
-    weight: 0.5714
-    avg_copies: 2.0
+    weight: 0.6
+    avg_copies: 2.11
   unknown-115:
     weight: 0.6667
     avg_copies: 2.0
@@ -89,6 +89,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-211:
-    weight: 0.5
+    weight: 0.4
     avg_copies: 3.0
 ---

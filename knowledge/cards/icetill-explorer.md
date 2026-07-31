@@ -10,8 +10,8 @@ type: Creature — Insect Scout
 meta_presence: 0.0289
 archetypes:
   amulet-titan:
-    weight: 0.2138
-    avg_copies: 1.02
+    weight: 0.216
+    avg_copies: 1.05
   yawgmoth-combo:
     weight: 0.0222
     avg_copies: 1.0
@@ -19,10 +19,10 @@ archetypes:
     weight: 0.7823
     avg_copies: 2.4
   samwise-combo:
-    weight: 0.0159
+    weight: 0.0154
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0473
+    weight: 0.0471
     avg_copies: 1.39
   scapeshift-combo:
     weight: 1.0
@@ -37,7 +37,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-61:
-    weight: 0.029
+    weight: 0.0274
     avg_copies: 1.5
   unknown-76:
     weight: 0.3333
@@ -46,7 +46,7 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   unknown-97:
-    weight: 0.2857
+    weight: 0.3333
     avg_copies: 2.0
   unknown-130:
     weight: 1.0

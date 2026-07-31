@@ -3,33 +3,33 @@ colors:
 - U
 - B
 name: 'Unknown #47'
-meta_share: 0.018
-list_count: 110
+meta_share: 0.0184
+list_count: 114
 top_cards:
 - name: Psychic Frog
   weight: 1.0
-  avg_copies: 3.95
+  avg_copies: 3.96
 - name: Fatal Push
   weight: 1.0
   avg_copies: 3.92
 - name: Polluted Delta
   weight: 1.0
-  avg_copies: 3.88
+  avg_copies: 3.89
 - name: Counterspell
   weight: 1.0
-  avg_copies: 3.41
+  avg_copies: 3.42
 - name: Orcish Bowmasters
   weight: 1.0
-  avg_copies: 3.21
+  avg_copies: 3.22
 - name: Force of Negation
   weight: 1.0
   avg_copies: 2.68
 - name: Subtlety
   weight: 1.0
-  avg_copies: 2.61
+  avg_copies: 2.62
 - name: Watery Grave
   weight: 1.0
-  avg_copies: 2.3
+  avg_copies: 2.33
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.25
@@ -37,211 +37,214 @@ top_cards:
   weight: 1.0
   avg_copies: 1.92
 - name: Thoughtseize
-  weight: 0.9909
+  weight: 0.9912
   avg_copies: 3.68
 - name: Consign to Memory
-  weight: 0.9909
-  avg_copies: 3.13
+  weight: 0.9912
+  avg_copies: 3.12
 - name: Quantum Riddler
-  weight: 0.9909
-  avg_copies: 3.09
-- name: Sink into Stupor
-  weight: 0.9909
-  avg_copies: 1.95
+  weight: 0.9912
+  avg_copies: 3.1
 - name: Island
-  weight: 0.9909
-  avg_copies: 1.82
+  weight: 0.9912
+  avg_copies: 1.81
 - name: Spell Snare
-  weight: 0.9818
-  avg_copies: 1.99
+  weight: 0.9825
+  avg_copies: 2.02
+- name: Sink into Stupor
+  weight: 0.9825
+  avg_copies: 1.96
 - name: Swamp
-  weight: 0.9727
+  weight: 0.9737
   avg_copies: 1.01
 - name: Harbinger of the Seas
-  weight: 0.9636
-  avg_copies: 2.39
+  weight: 0.9649
+  avg_copies: 2.4
 - name: Flooded Strand
-  weight: 0.9091
-  avg_copies: 2.64
+  weight: 0.9123
+  avg_copies: 2.62
 - name: Kaito, Bane of Nightmares
-  weight: 0.9091
-  avg_copies: 1.45
+  weight: 0.9123
+  avg_copies: 1.44
 - name: Engineered Explosives
-  weight: 0.8727
-  avg_copies: 2.06
+  weight: 0.8772
+  avg_copies: 2.08
 - name: Nihil Spellbomb
-  weight: 0.8727
+  weight: 0.8772
   avg_copies: 1.88
 - name: Marsh Flats
-  weight: 0.8727
-  avg_copies: 1.8
+  weight: 0.8596
+  avg_copies: 1.82
 - name: Darkslick Shores
-  weight: 0.8273
-  avg_copies: 1.31
+  weight: 0.8246
+  avg_copies: 1.32
 - name: Tamiyo, Inquisitive Student
-  weight: 0.7636
-  avg_copies: 2.25
+  weight: 0.7632
+  avg_copies: 2.24
 - name: Cling to Dust
-  weight: 0.7364
-  avg_copies: 1.14
+  weight: 0.7456
+  avg_copies: 1.13
 - name: Toxic Deluge
-  weight: 0.6818
+  weight: 0.6754
   avg_copies: 1.18
-- name: Sheoldred's Edict
-  weight: 0.6364
-  avg_copies: 1.2
 - name: Otawara, Soaring City
-  weight: 0.6364
+  weight: 0.6491
   avg_copies: 1.0
-- name: Gloomlake Verge
-  weight: 0.5364
-  avg_copies: 1.14
-- name: Drown in the Loch
-  weight: 0.5273
-  avg_copies: 1.76
-- name: Force of Despair
-  weight: 0.4
-  avg_copies: 2.0
-- name: Murktide Regent
-  weight: 0.3727
+- name: Sheoldred's Edict
+  weight: 0.6404
   avg_copies: 1.2
+- name: Gloomlake Verge
+  weight: 0.5351
+  avg_copies: 1.13
+- name: Drown in the Loch
+  weight: 0.5175
+  avg_copies: 1.75
+- name: Murktide Regent
+  weight: 0.3947
+  avg_copies: 1.18
+- name: Force of Despair
+  weight: 0.386
+  avg_copies: 1.96
 - name: Preordain
-  weight: 0.3364
-  avg_copies: 2.16
+  weight: 0.3509
+  avg_copies: 2.12
 - name: Tasigur, the Golden Fang
-  weight: 0.2909
+  weight: 0.2807
   avg_copies: 1.88
-- name: Chalice of the Void
-  weight: 0.2727
-  avg_copies: 1.97
 - name: Misty Rainforest
-  weight: 0.2727
-  avg_copies: 1.53
+  weight: 0.2719
+  avg_copies: 1.52
+- name: Chalice of the Void
+  weight: 0.2632
+  avg_copies: 1.97
 - name: Bloodstained Mire
-  weight: 0.2364
-  avg_copies: 1.42
+  weight: 0.2456
+  avg_copies: 1.39
 - name: Scalding Tarn
-  weight: 0.2273
-  avg_copies: 1.04
+  weight: 0.2368
+  avg_copies: 1.07
 - name: Agna Qel'a
-  weight: 0.2273
+  weight: 0.2193
   avg_copies: 1.0
 - name: Surgical Extraction
-  weight: 0.1455
+  weight: 0.1404
   avg_copies: 1.44
 - name: Waterlogged Teachings
-  weight: 0.1091
+  weight: 0.1053
   avg_copies: 1.0
 - name: Ghost Vacuum
-  weight: 0.0909
-  avg_copies: 1.2
-- name: Stern Scolding
-  weight: 0.0727
-  avg_copies: 2.12
+  weight: 0.0965
+  avg_copies: 1.18
 - name: Break the Ice
-  weight: 0.0727
-  avg_copies: 1.88
+  weight: 0.0789
+  avg_copies: 1.78
+- name: Stern Scolding
+  weight: 0.0702
+  avg_copies: 2.12
 - name: Damping Sphere
-  weight: 0.0727
+  weight: 0.0702
   avg_copies: 1.75
 - name: The Meathook Massacre
-  weight: 0.0636
+  weight: 0.0614
   avg_copies: 1.14
 - name: Requiting Hex
-  weight: 0.0636
+  weight: 0.0614
   avg_copies: 1.0
 - name: Meticulous Archive
-  weight: 0.0636
+  weight: 0.0614
   avg_copies: 1.0
 - name: Hallowed Fountain
-  weight: 0.0636
+  weight: 0.0614
   avg_copies: 1.0
+- name: Flow State
+  weight: 0.0526
+  avg_copies: 2.83
 - name: Pest Control
-  weight: 0.0545
+  weight: 0.0526
   avg_copies: 2.71
 - name: Wan Shi Tong, Librarian
-  weight: 0.0545
+  weight: 0.0526
   avg_copies: 1.33
-- name: Flow State
-  weight: 0.0455
-  avg_copies: 3.0
-- name: Verdant Catacombs
-  weight: 0.0455
-  avg_copies: 1.2
 - name: Dress Down
-  weight: 0.0364
-  avg_copies: 1.33
-- name: Teferi, Time Raveler
-  weight: 0.0364
-  avg_copies: 1.0
+  weight: 0.0439
+  avg_copies: 1.43
+- name: Verdant Catacombs
+  weight: 0.0439
+  avg_copies: 1.2
 - name: Damnation
-  weight: 0.0364
+  weight: 0.0351
+  avg_copies: 1.0
+- name: Teferi, Time Raveler
+  weight: 0.0351
   avg_copies: 1.0
 - name: Vexing Bauble
-  weight: 0.0273
+  weight: 0.0263
   avg_copies: 2.0
 - name: Snow-Covered Island
-  weight: 0.0273
+  weight: 0.0263
   avg_copies: 1.33
 - name: Snow-Covered Swamp
-  weight: 0.0273
+  weight: 0.0263
   avg_copies: 1.0
 - name: Spell Pierce
-  weight: 0.0273
+  weight: 0.0263
   avg_copies: 1.0
 - name: Stony Silence
-  weight: 0.0273
+  weight: 0.0263
   avg_copies: 1.0
 - name: card:the-wondrous-wasp
-  weight: 0.0182
+  weight: 0.0175
   avg_copies: 2.0
-- name: Thundering Falls
-  weight: 0.0182
-  avg_copies: 1.0
 - name: Umezawa's Jitte
-  weight: 0.0182
+  weight: 0.0175
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.0175
   avg_copies: 1.0
 - name: Steam Vents
-  weight: 0.0182
+  weight: 0.0175
   avg_copies: 1.0
+- name: Fire Magic
+  weight: 0.0088
+  avg_copies: 2.0
 - name: Void Mirror
-  weight: 0.0091
+  weight: 0.0088
   avg_copies: 2.0
 - name: Meltdown
-  weight: 0.0091
+  weight: 0.0088
   avg_copies: 2.0
-- name: Fire Magic
-  weight: 0.0091
-  avg_copies: 2.0
-- name: Shadow of Doubt
-  weight: 0.0091
-  avg_copies: 1.0
-- name: Brazen Borrower
-  weight: 0.0091
-  avg_copies: 1.0
 - name: Snapcaster Mage
-  weight: 0.0091
+  weight: 0.0088
   avg_copies: 1.0
-- name: Murderous Cut
-  weight: 0.0091
-  avg_copies: 1.0
-- name: Fallen Shinobi
-  weight: 0.0091
-  avg_copies: 1.0
-- name: Celestial Purge
-  weight: 0.0091
+- name: Shadow of Doubt
+  weight: 0.0088
   avg_copies: 1.0
 - name: River of Tears
-  weight: 0.0091
+  weight: 0.0088
   avg_copies: 1.0
-- name: High Noon
-  weight: 0.0091
-  avg_copies: 1.0
-- name: Strategic Betrayal
-  weight: 0.0091
+- name: Brazen Borrower
+  weight: 0.0088
   avg_copies: 1.0
 - name: Dreams of Steel and Oil
-  weight: 0.0091
+  weight: 0.0088
+  avg_copies: 1.0
+- name: High Noon
+  weight: 0.0088
+  avg_copies: 1.0
+- name: Murderous Cut
+  weight: 0.0088
+  avg_copies: 1.0
+- name: Celestial Purge
+  weight: 0.0088
+  avg_copies: 1.0
+- name: Dismember
+  weight: 0.0088
+  avg_copies: 1.0
+- name: Strategic Betrayal
+  weight: 0.0088
+  avg_copies: 1.0
+- name: Fallen Shinobi
+  weight: 0.0088
   avg_copies: 1.0
 ---
 Unclassified archetype, pending review.

@@ -6,10 +6,10 @@ name: 'Unknown #58'
 meta_share: 0.0005
 list_count: 3
 top_cards:
-- name: Persist
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
-- name: Street Wraith
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
 - name: Asmoranomardicadaistinaculdacar
@@ -18,10 +18,10 @@ top_cards:
 - name: The Underworld Cookbook
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodstained Mire
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
-- name: Archon of Cruelty
+- name: Persist
   weight: 1.0
   avg_copies: 4.0
 - name: Faithless Looting
@@ -30,10 +30,10 @@ top_cards:
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 3.67
-- name: Ovalchase Daredevil
+- name: Emperor of Bones
   weight: 1.0
   avg_copies: 3.33
-- name: Emperor of Bones
+- name: Ovalchase Daredevil
   weight: 1.0
   avg_copies: 3.33
 - name: Blood Crypt
@@ -45,10 +45,10 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 2.0
-- name: Blood Moon
+- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.33
-- name: Raucous Theater
+- name: Blood Moon
   weight: 1.0
   avg_copies: 1.33
 - name: Nihil Spellbomb
@@ -75,28 +75,22 @@ top_cards:
 - name: Fire Magic
   weight: 0.6667
   avg_copies: 1.5
+- name: Overgrown Tomb
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
+  weight: 0.6667
+  avg_copies: 1.0
 - name: Pithing Needle
   weight: 0.6667
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.6667
   avg_copies: 1.0
-- name: Overgrown Tomb
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Magus of the Moon
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Ashiok, Dream Render
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Haywire Mite
+- name: Wooded Foothills
   weight: 0.6667
   avg_copies: 1.0
 - name: Verdant Catacombs
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Wooded Foothills
   weight: 0.6667
   avg_copies: 1.0
 - name: Soul-Guide Lantern
@@ -105,31 +99,37 @@ top_cards:
 - name: Unholy Heat
   weight: 0.6667
   avg_copies: 1.0
+- name: Haywire Mite
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Magus of the Moon
+  weight: 0.6667
+  avg_copies: 1.0
 - name: Leyline of the Void
   weight: 0.3333
   avg_copies: 4.0
-- name: Fable of the Mirror-Breaker
+- name: Break the Ice
   weight: 0.3333
   avg_copies: 3.0
-- name: Break the Ice
+- name: Fable of the Mirror-Breaker
   weight: 0.3333
   avg_copies: 3.0
 - name: Detective's Phoenix
   weight: 0.3333
   avg_copies: 2.0
-- name: card:vaultborn-tyrant
+- name: Polluted Delta
   weight: 0.3333
   avg_copies: 1.0
 - name: Castle Locthwain
   weight: 0.3333
   avg_copies: 1.0
-- name: Polluted Delta
+- name: Skateboard
   weight: 0.3333
   avg_copies: 1.0
 - name: Overlord of the Balemurk
   weight: 0.3333
   avg_copies: 1.0
-- name: Skateboard
+- name: card:vaultborn-tyrant
   weight: 0.3333
   avg_copies: 1.0
 - name: card:archfiend-of-ifnir

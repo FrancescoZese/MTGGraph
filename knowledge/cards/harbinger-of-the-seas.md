@@ -7,40 +7,40 @@ name: Harbinger of the Seas
 scryfall_id: 00212714-a410-4cbc-bf1c-f90d7d77378c
 set: mh3
 type: Creature — Merfolk Wizard
-meta_presence: 0.0941
+meta_presence: 0.0942
 archetypes:
   dimir-control:
     weight: 0.679
     avg_copies: 1.82
   mono-blue-belcher:
-    weight: 0.6506
+    weight: 0.6429
     avg_copies: 1.8
   living-end:
     weight: 0.0714
     avg_copies: 1.33
   jeskai-control:
-    weight: 0.0189
+    weight: 0.0185
     avg_copies: 2.0
   affinity:
-    weight: 0.2346
+    weight: 0.2337
     avg_copies: 1.27
   reanimator:
     weight: 0.1481
     avg_copies: 1.5
   simic-ritual:
-    weight: 0.9655
+    weight: 0.9556
     avg_copies: 2.09
   bant-control:
     weight: 1.0
     avg_copies: 3.0
   azorius-blink:
-    weight: 0.0156
+    weight: 0.0154
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.4375
     avg_copies: 2.57
   goryo1:
-    weight: 0.2671
+    weight: 0.2638
     avg_copies: 1.33
   goryo3:
     weight: 1.0
@@ -55,8 +55,8 @@ archetypes:
     weight: 0.1429
     avg_copies: 1.0
   unknown-15:
-    weight: 0.4167
-    avg_copies: 2.2
+    weight: 0.4615
+    avg_copies: 2.17
   unknown-20:
     weight: 1.0
     avg_copies: 2.67
@@ -79,22 +79,22 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9636
-    avg_copies: 2.39
+    weight: 0.9649
+    avg_copies: 2.4
   unknown-49:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 2.0
   unknown-50:
     weight: 1.0
     avg_copies: 2.0
   unknown-62:
-    weight: 0.4516
+    weight: 0.4242
     avg_copies: 2.21
   unknown-65:
     weight: 0.069
     avg_copies: 1.5
   unknown-67:
-    weight: 0.013
+    weight: 0.0127
     avg_copies: 2.0
   unknown-75:
     weight: 1.0
@@ -118,8 +118,8 @@ archetypes:
     weight: 0.4
     avg_copies: 2.0
   unknown-125:
-    weight: 1.0
-    avg_copies: 2.75
+    weight: 0.6667
+    avg_copies: 2.33
   unknown-139:
     weight: 0.8
     avg_copies: 1.0
@@ -133,7 +133,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   unknown-167:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 2.0
   unknown-164:
     weight: 1.0
@@ -154,6 +154,9 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-218:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-223:
     weight: 1.0
     avg_copies: 2.0
 ---

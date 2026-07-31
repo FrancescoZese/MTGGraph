@@ -8,19 +8,19 @@ name: Kaheera, the Orphanguard
 scryfall_id: d4ebed0b-8060-4a7b-a060-5cfcd2172b16
 set: iko
 type: Legendary Creature — Cat Beast
-meta_presence: 0.0397
+meta_presence: 0.04
 archetypes:
   azorius-control:
-    weight: 0.9205
+    weight: 0.9213
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.4717
+    weight: 0.4815
     avg_copies: 1.0
   boros-ponza:
     weight: 0.227
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.0238
+    weight: 0.0233
     avg_copies: 1.0
   goryo6:
     weight: 0.75
@@ -41,7 +41,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.9014
+    weight: 0.9054
     avg_copies: 1.0
   unknown-188:
     weight: 1.0

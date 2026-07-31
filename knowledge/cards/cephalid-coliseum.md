@@ -6,16 +6,16 @@ name: Cephalid Coliseum
 scryfall_id: 03b9c9ed-fb6f-4f8d-bb1d-7999dec4245c
 set: tdc
 type: Land
-meta_presence: 0.008
+meta_presence: 0.0081
 archetypes:
   amulet-titan:
-    weight: 0.0566
+    weight: 0.0556
     avg_copies: 1.0
   goryo:
-    weight: 0.0752
+    weight: 0.0745
     avg_copies: 1.0
   mill:
-    weight: 0.2424
+    weight: 0.2647
     avg_copies: 1.0
   reanimator:
     weight: 0.037

@@ -6,22 +6,22 @@ name: Engineered Explosives
 scryfall_id: 420bf1e9-f2ec-4dff-b540-e64de71e58be
 set: 2xm
 type: Artifact
-meta_presence: 0.1553
+meta_presence: 0.1552
 archetypes:
   dimir-control:
     weight: 0.5185
     avg_copies: 1.69
   mono-blue-belcher:
-    weight: 0.7831
+    weight: 0.7857
     avg_copies: 1.92
   eldrazi-tron:
-    weight: 0.1554
+    weight: 0.1538
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.0252
+    weight: 0.0247
     avg_copies: 1.25
   goryo:
-    weight: 0.0125
+    weight: 0.0124
     avg_copies: 1.0
   necrodominance:
     weight: 0.2273
@@ -30,8 +30,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.88
   mill:
-    weight: 0.2727
-    avg_copies: 1.22
+    weight: 0.2941
+    avg_copies: 1.2
   mono-blue-tron:
     weight: 0.5217
     avg_copies: 2.08
@@ -42,7 +42,7 @@ archetypes:
     weight: 0.1129
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0115
+    weight: 0.0111
     avg_copies: 3.0
   izzet-artifacts:
     weight: 0.1875
@@ -60,7 +60,7 @@ archetypes:
     weight: 0.0526
     avg_copies: 1.0
   goryo1:
-    weight: 0.087
+    weight: 0.0859
     avg_copies: 1.07
   goryo7:
     weight: 1.0
@@ -72,13 +72,13 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   unknown-6:
-    weight: 0.9167
-    avg_copies: 1.46
+    weight: 0.9231
+    avg_copies: 1.43
   unknown-1:
     weight: 0.4545
     avg_copies: 2.0
   unknown-15:
-    weight: 0.3333
+    weight: 0.3846
     avg_copies: 1.0
   unknown-20:
     weight: 0.3333
@@ -111,14 +111,14 @@ archetypes:
     weight: 0.6897
     avg_copies: 2.0
   unknown-47:
-    weight: 0.8727
-    avg_copies: 2.06
+    weight: 0.8772
+    avg_copies: 2.08
   unknown-48:
     weight: 0.5
     avg_copies: 1.0
   unknown-49:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.67
   unknown-56:
     weight: 1.0
     avg_copies: 2.0
@@ -141,7 +141,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-125:
-    weight: 0.25
+    weight: 0.1667
     avg_copies: 2.0
   unknown-139:
     weight: 1.0
@@ -159,13 +159,13 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   unknown-160:
-    weight: 0.169
+    weight: 0.1622
     avg_copies: 1.0
   unknown-162:
     weight: 1.0
     avg_copies: 2.0
   unknown-167:
-    weight: 0.2222
+    weight: 0.2
     avg_copies: 1.5
   unknown-182:
     weight: 0.25

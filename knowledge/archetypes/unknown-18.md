@@ -6,31 +6,31 @@ name: 'Unknown #18'
 meta_share: 0.0002
 list_count: 1
 top_cards:
-- name: Inquisition of Kozilek
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
-- name: Ragavan, Nimble Pilferer
+- name: Inquisition of Kozilek
   weight: 1.0
   avg_copies: 4.0
 - name: Arena of Glory
   weight: 1.0
   avg_copies: 4.0
+- name: Graveyard Trespasser
+  weight: 1.0
+  avg_copies: 4.0
 - name: Unholy Heat
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodstained Mire
+- name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 4.0
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
-- name: Graveyard Trespasser
-  weight: 1.0
-  avg_copies: 4.0
-- name: Tourach, Dread Cantor
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 3.0
-- name: Marsh Flats
+- name: Tourach, Dread Cantor
   weight: 1.0
   avg_copies: 3.0
 - name: Graven Cairns
@@ -42,22 +42,22 @@ top_cards:
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 2.0
-- name: Blood Crypt
-  weight: 1.0
-  avg_copies: 2.0
-- name: Pyroclasm
+- name: Phyrexian Crusader
   weight: 1.0
   avg_copies: 2.0
 - name: Swamp
   weight: 1.0
   avg_copies: 2.0
+- name: Lightning Bolt
+  weight: 1.0
+  avg_copies: 2.0
 - name: Meltdown
   weight: 1.0
   avg_copies: 2.0
-- name: Phyrexian Crusader
+- name: Pyroclasm
   weight: 1.0
   avg_copies: 2.0
-- name: Lightning Bolt
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 2.0
 - name: Terminate
@@ -66,16 +66,10 @@ top_cards:
 - name: Kolaghan's Command
   weight: 1.0
   avg_copies: 1.0
-- name: Kroxa, Titan of Death's Hunger
+- name: Urborg, Tomb of Yawgmoth
   weight: 1.0
   avg_copies: 1.0
 - name: Shizo, Death's Storehouse
-  weight: 1.0
-  avg_copies: 1.0
-- name: Shinka, the Bloodsoaked Keep
-  weight: 1.0
-  avg_copies: 1.0
-- name: Surgical Extraction
   weight: 1.0
   avg_copies: 1.0
 - name: Raucous Theater
@@ -84,7 +78,13 @@ top_cards:
 - name: Blood Moon
   weight: 1.0
   avg_copies: 1.0
-- name: Urborg, Tomb of Yawgmoth
+- name: Surgical Extraction
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shinka, the Bloodsoaked Keep
+  weight: 1.0
+  avg_copies: 1.0
+- name: Kroxa, Titan of Death's Hunger
   weight: 1.0
   avg_copies: 1.0
 ---

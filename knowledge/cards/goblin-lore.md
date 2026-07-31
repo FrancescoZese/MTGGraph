@@ -7,15 +7,15 @@ name: Goblin Lore
 scryfall_id: 660e7067-9f1d-4e2c-bd12-0ad752a3cec8
 set: jmp
 type: Sorcery
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   ruby-storm:
-    weight: 0.0045
+    weight: 0.0044
     avg_copies: 1.0
   hollow-one:
     weight: 0.0588
     avg_copies: 2.0
   unknown-96:
-    weight: 0.037
+    weight: 0.0303
     avg_copies: 4.0
 ---

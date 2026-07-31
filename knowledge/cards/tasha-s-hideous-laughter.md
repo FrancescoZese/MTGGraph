@@ -7,10 +7,10 @@ name: Tasha's Hideous Laughter
 scryfall_id: c4932113-904f-427a-9566-509cc008f3ef
 set: afr
 type: Sorcery
-meta_presence: 0.0051
+meta_presence: 0.0052
 archetypes:
   mill:
-    weight: 0.9091
+    weight: 0.9118
     avg_copies: 3.21
   unknown-133:
     weight: 1.0

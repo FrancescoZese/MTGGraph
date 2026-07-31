@@ -6,7 +6,7 @@ name: Hallowed Fountain
 scryfall_id: e056b55f-82ed-4fe0-ab0c-bb20fa4a218a
 set: ecl
 type: Land — Plains Island
-meta_presence: 0.1723
+meta_presence: 0.1724
 archetypes:
   boros-energy:
     weight: 0.0028
@@ -18,7 +18,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.01
   goryo:
-    weight: 0.9937
+    weight: 0.9938
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
@@ -28,18 +28,18 @@ archetypes:
     avg_copies: 1.0
   jeskai-control:
     weight: 1.0
-    avg_copies: 1.64
+    avg_copies: 1.65
   affinity:
     weight: 0.004
     avg_copies: 1.0
   mill:
-    weight: 0.0606
+    weight: 0.0588
     avg_copies: 1.0
   reanimator:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0116
+    weight: 0.0115
     avg_copies: 1.0
   hammer-time:
     weight: 1.0
@@ -55,7 +55,7 @@ archetypes:
     avg_copies: 1.0
   azorius-blink:
     weight: 1.0
-    avg_copies: 3.44
+    avg_copies: 3.45
   esper-control:
     weight: 1.0
     avg_copies: 2.0
@@ -93,7 +93,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-15:
-    weight: 0.0833
+    weight: 0.0769
     avg_copies: 2.0
   unknown-16:
     weight: 1.0
@@ -108,14 +108,14 @@ archetypes:
     weight: 0.1429
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0636
+    weight: 0.0614
     avg_copies: 1.0
   unknown-56:
     weight: 1.0
     avg_copies: 1.0
   unknown-62:
     weight: 1.0
-    avg_copies: 3.23
+    avg_copies: 3.21
   unknown-60:
     weight: 1.0
     avg_copies: 1.0
@@ -126,7 +126,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-67:
-    weight: 0.1818
+    weight: 0.1899
     avg_copies: 1.0
   unknown-70:
     weight: 1.0
@@ -204,8 +204,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-167:
-    weight: 0.4444
-    avg_copies: 1.75
+    weight: 0.5
+    avg_copies: 1.8
   unknown-169:
     weight: 1.0
     avg_copies: 2.0
@@ -265,11 +265,14 @@ archetypes:
     avg_copies: 1.0
   unknown-213:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.5
   unknown-216:
     weight: 1.0
     avg_copies: 1.0
   unknown-219:
     weight: 1.0
     avg_copies: 1.0
+  unknown-223:
+    weight: 1.0
+    avg_copies: 2.0
 ---

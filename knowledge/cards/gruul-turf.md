@@ -6,11 +6,11 @@ name: Gruul Turf
 scryfall_id: f19d2b68-1415-4a0c-bb68-cfacb611c4d2
 set: ecc
 type: Land
-meta_presence: 0.0271
+meta_presence: 0.0273
 archetypes:
   amulet-titan:
     weight: 1.0
-    avg_copies: 3.33
+    avg_copies: 3.32
   unknown-76:
     weight: 1.0
     avg_copies: 3.17

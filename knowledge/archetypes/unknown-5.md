@@ -19,10 +19,10 @@ top_cards:
 - name: Archon of Cruelty
   weight: 1.0
   avg_copies: 3.86
-- name: Flooded Strand
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 3.71
-- name: Marsh Flats
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 3.71
 - name: Polluted Delta
@@ -40,13 +40,19 @@ top_cards:
 - name: Force of Negation
   weight: 1.0
   avg_copies: 2.0
+- name: Undercity Sewers
+  weight: 1.0
+  avg_copies: 1.0
+- name: Plains
+  weight: 1.0
+  avg_copies: 1.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowy Backstreet
+- name: Island
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
 - name: Swamp
@@ -55,16 +61,10 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
-- name: Plains
-  weight: 1.0
-  avg_copies: 1.0
-- name: Watery Grave
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Godless Shrine
-  weight: 1.0
-  avg_copies: 1.0
-- name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
 - name: Quantum Riddler
@@ -103,10 +103,10 @@ top_cards:
 - name: Celestial Purge
   weight: 0.2857
   avg_copies: 1.5
-- name: Emeritus of Ideation
+- name: Tainted Indulgence
   weight: 0.1429
   avg_copies: 4.0
-- name: Tainted Indulgence
+- name: Emeritus of Ideation
   weight: 0.1429
   avg_copies: 4.0
 - name: Force of Despair
@@ -115,13 +115,13 @@ top_cards:
 - name: Abhorrent Oculus
   weight: 0.1429
   avg_copies: 3.0
+- name: Sheoldred, the Apocalypse
+  weight: 0.1429
+  avg_copies: 2.0
 - name: Unearth
   weight: 0.1429
   avg_copies: 2.0
 - name: River of Tears
-  weight: 0.1429
-  avg_copies: 2.0
-- name: Sheoldred, the Apocalypse
   weight: 0.1429
   avg_copies: 2.0
 - name: Drannith Magistrate
@@ -136,7 +136,16 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 0.1429
   avg_copies: 1.5
+- name: Winternight Stories
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Graveyard Trespasser
+  weight: 0.1429
+  avg_copies: 1.0
 - name: Harbinger of the Seas
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Ketramose, the New Dawn
   weight: 0.1429
   avg_copies: 1.0
 - name: March of Otherworldly Light
@@ -146,15 +155,6 @@ top_cards:
   weight: 0.1429
   avg_copies: 1.0
 - name: Sink into Stupor
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Ketramose, the New Dawn
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Winternight Stories
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Graveyard Trespasser
   weight: 0.1429
   avg_copies: 1.0
 ---

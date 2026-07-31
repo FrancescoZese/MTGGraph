@@ -9,6 +9,9 @@ set: tla
 type: Legendary Creature — Human Peasant Ally
 meta_presence: 0.0056
 archetypes:
+  goryo:
+    weight: 0.0031
+    avg_copies: 4.0
   reanimator:
     weight: 0.037
     avg_copies: 1.0
@@ -16,10 +19,10 @@ archetypes:
     weight: 0.7143
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.0781
+    weight: 0.0769
     avg_copies: 1.0
   goryo1:
-    weight: 0.0621
+    weight: 0.0613
     avg_copies: 2.9
   unknown-20:
     weight: 1.0

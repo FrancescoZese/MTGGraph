@@ -10,6 +10,6 @@ type: Creature — Devil Horror
 meta_presence: 0.0002
 archetypes:
   izzet-prowess:
-    weight: 0.0033
+    weight: 0.0032
     avg_copies: 2.0
 ---

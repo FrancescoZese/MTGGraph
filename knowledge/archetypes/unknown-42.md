@@ -20,10 +20,10 @@ top_cards:
 - name: Vodalian Hexcatcher
   weight: 1.0
   avg_copies: 3.64
-- name: Sink into Stupor
+- name: Aether Vial
   weight: 1.0
   avg_copies: 3.64
-- name: Aether Vial
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 3.64
 - name: Harbinger of the Seas

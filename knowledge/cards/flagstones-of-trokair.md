@@ -14,14 +14,17 @@ archetypes:
   boros-ponza:
     weight: 0.0213
     avg_copies: 3.33
+  orzhov-blink:
+    weight: 0.0625
+    avg_copies: 3.0
   azorius-blink:
-    weight: 0.7031
+    weight: 0.6923
     avg_copies: 2.96
   unknown-13:
     weight: 1.0
     avg_copies: 4.0
   unknown-62:
-    weight: 0.0323
+    weight: 0.0303
     avg_copies: 2.0
   unknown-76:
     weight: 0.1667

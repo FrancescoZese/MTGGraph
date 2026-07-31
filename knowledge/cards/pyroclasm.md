@@ -7,19 +7,19 @@ name: Pyroclasm
 scryfall_id: 4391b0af-2f26-4a45-9e2a-5bd8e9838107
 set: dsk
 type: Sorcery
-meta_presence: 0.0567
+meta_presence: 0.0566
 archetypes:
   ruby-storm:
-    weight: 0.0223
+    weight: 0.0221
     avg_copies: 1.2
   amulet-titan:
-    weight: 0.0189
+    weight: 0.0185
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0227
+    weight: 0.0225
     avg_copies: 1.5
   domain-zoo:
-    weight: 0.1955
+    weight: 0.2
     avg_copies: 1.04
   reanimator:
     weight: 0.7778
@@ -31,13 +31,13 @@ archetypes:
     weight: 0.0588
     avg_copies: 1.5
   simic-ritual:
-    weight: 0.023
+    weight: 0.0222
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.0358
+    weight: 0.0354
     avg_copies: 1.45
   broodscale-combo:
-    weight: 0.1309
+    weight: 0.1304
     avg_copies: 1.69
   izzet-artifacts:
     weight: 0.0938
@@ -55,7 +55,7 @@ archetypes:
     weight: 0.3158
     avg_copies: 1.83
   cosmogoyf-fling:
-    weight: 0.0238
+    weight: 0.0233
     avg_copies: 2.0
   scapeshift-combo:
     weight: 0.3333
@@ -64,13 +64,13 @@ archetypes:
     weight: 0.1905
     avg_copies: 2.0
   goryo1:
-    weight: 0.9068
+    weight: 0.908
     avg_copies: 1.81
   unknown-4:
     weight: 1.0
     avg_copies: 1.0
   unknown-6:
-    weight: 0.25
+    weight: 0.2308
     avg_copies: 1.33
   unknown-9:
     weight: 1.0
@@ -115,7 +115,7 @@ archetypes:
     weight: 0.1818
     avg_copies: 2.5
   unknown-96:
-    weight: 0.037
+    weight: 0.0303
     avg_copies: 1.0
   unknown-90:
     weight: 1.0
@@ -124,8 +124,8 @@ archetypes:
     weight: 0.375
     avg_copies: 1.0
   unknown-101:
-    weight: 0.4
-    avg_copies: 1.25
+    weight: 0.4167
+    avg_copies: 1.2
   unknown-104:
     weight: 1.0
     avg_copies: 2.0

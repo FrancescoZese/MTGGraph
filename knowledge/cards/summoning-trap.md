@@ -7,13 +7,13 @@ name: Summoning Trap
 scryfall_id: 55b71fb4-27ea-4846-87e4-efd2190faf36
 set: mm3
 type: Instant — Trap
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   domain-zoo:
-    weight: 0.0075
+    weight: 0.0074
     avg_copies: 3.0
   neoform-combo:
-    weight: 0.0116
+    weight: 0.0115
     avg_copies: 4.0
   unknown-54:
     weight: 0.6667

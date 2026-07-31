@@ -12,10 +12,10 @@ top_cards:
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Necrodominance
+- name: Soul Spike
   weight: 1.0
   avg_copies: 4.0
-- name: Soul Spike
+- name: Necrodominance
   weight: 1.0
   avg_copies: 4.0
 - name: Boggart Trawler
@@ -108,6 +108,12 @@ top_cards:
 - name: Watery Grave
   weight: 0.25
   avg_copies: 1.5
+- name: Revitalizing Repast
+  weight: 0.25
+  avg_copies: 1.0
+- name: Cling to Dust
+  weight: 0.25
+  avg_copies: 1.0
 - name: Necromentia
   weight: 0.25
   avg_copies: 1.0
@@ -117,25 +123,19 @@ top_cards:
 - name: Agadeem's Awakening
   weight: 0.25
   avg_copies: 1.0
-- name: Revitalizing Repast
-  weight: 0.25
-  avg_copies: 1.0
-- name: Cling to Dust
-  weight: 0.25
-  avg_copies: 1.0
 - name: Consign to Memory
   weight: 0.125
   avg_copies: 4.0
 - name: Tourach, Dread Cantor
   weight: 0.125
   avg_copies: 2.0
-- name: Takenuma, Abandoned Mire
+- name: Shizo, Death's Storehouse
   weight: 0.125
   avg_copies: 1.0
 - name: Toxic Deluge
   weight: 0.125
   avg_copies: 1.0
-- name: Shizo, Death's Storehouse
+- name: Takenuma, Abandoned Mire
   weight: 0.125
   avg_copies: 1.0
 ---

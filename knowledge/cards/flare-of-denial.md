@@ -10,22 +10,22 @@ type: Instant
 meta_presence: 0.035
 archetypes:
   mono-blue-belcher:
-    weight: 0.4458
+    weight: 0.4405
     avg_copies: 2.95
   living-end:
     weight: 0.4286
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.0566
+    weight: 0.0556
     avg_copies: 2.0
   mill:
-    weight: 0.0303
+    weight: 0.0294
     avg_copies: 2.0
   reanimator:
     weight: 0.037
     avg_copies: 4.0
   simic-ritual:
-    weight: 0.9885
+    weight: 0.9889
     avg_copies: 4.0
   izzet-wizards:
     weight: 0.1667
@@ -34,7 +34,7 @@ archetypes:
     weight: 0.5
     avg_copies: 3.0
   goryo1:
-    weight: 0.0248
+    weight: 0.0245
     avg_copies: 4.0
   4c-omnath9:
     weight: 0.8
@@ -58,7 +58,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-67:
-    weight: 0.0649
+    weight: 0.0633
     avg_copies: 1.0
   unknown-82:
     weight: 1.0

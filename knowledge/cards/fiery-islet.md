@@ -6,17 +6,17 @@ name: Fiery Islet
 scryfall_id: a3aab13c-9d9d-4507-ae5d-da979990ae1b
 set: mh1
 type: Land
-meta_presence: 0.1398
+meta_presence: 0.1395
 archetypes:
   ruby-storm:
-    weight: 0.0179
+    weight: 0.0177
     avg_copies: 1.0
   affinity:
-    weight: 0.992
+    weight: 0.9921
     avg_copies: 3.53
   izzet-prowess:
-    weight: 0.9316
-    avg_copies: 1.75
+    weight: 0.9325
+    avg_copies: 1.74
   izzet-artifacts:
     weight: 0.9375
     avg_copies: 2.53
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.8
     avg_copies: 1.0
   unknown-15:
-    weight: 0.75
+    weight: 0.7692
     avg_copies: 1.0
   unknown-44:
     weight: 1.0
@@ -39,8 +39,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-122:
-    weight: 0.32
-    avg_copies: 1.38
+    weight: 0.3462
+    avg_copies: 1.33
   unknown-124:
     weight: 1.0
     avg_copies: 1.0

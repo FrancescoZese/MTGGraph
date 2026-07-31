@@ -8,40 +8,40 @@ name: Ashiok, Dream Render
 scryfall_id: f2df3258-c053-48a8-974f-d80899b2cd93
 set: war
 type: Legendary Planeswalker — Ashiok
-meta_presence: 0.0647
+meta_presence: 0.0642
 archetypes:
   dimir-control:
     weight: 0.0617
     avg_copies: 1.0
   mono-blue-belcher:
-    weight: 0.012
+    weight: 0.0119
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.3008
     avg_copies: 1.38
   goryo:
-    weight: 0.1348
+    weight: 0.1335
     avg_copies: 1.19
   necrodominance:
     weight: 0.1818
     avg_copies: 1.5
   azorius-control:
-    weight: 0.0568
+    weight: 0.0562
     avg_copies: 1.4
   living-end:
     weight: 0.0143
     avg_copies: 2.0
   jeskai-control:
-    weight: 0.1509
+    weight: 0.1481
     avg_copies: 1.0
   affinity:
-    weight: 0.0835
+    weight: 0.0832
     avg_copies: 1.02
   domain-zoo:
-    weight: 0.3459
+    weight: 0.3407
     avg_copies: 1.33
   mill:
-    weight: 0.1212
+    weight: 0.1176
     avg_copies: 1.0
   reanimator:
     weight: 0.037
@@ -56,25 +56,25 @@ archetypes:
     weight: 0.4111
     avg_copies: 1.11
   simic-ritual:
-    weight: 0.0115
+    weight: 0.0111
     avg_copies: 1.0
   4c-omnath:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.1802
+    weight: 0.177
     avg_copies: 1.75
   samwise-combo:
-    weight: 0.0159
+    weight: 0.0154
     avg_copies: 2.0
   orzhov-blink:
-    weight: 0.6923
-    avg_copies: 1.78
+    weight: 0.6875
+    avg_copies: 1.82
   dredge:
     weight: 0.0385
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.0938
+    weight: 0.0923
     avg_copies: 1.67
   izzet-artifacts:
     weight: 0.0312
@@ -113,7 +113,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-6:
-    weight: 0.25
+    weight: 0.2308
     avg_copies: 1.0
   unknown-8:
     weight: 0.5
@@ -152,7 +152,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   unknown-67:
-    weight: 0.013
+    weight: 0.0127
     avg_copies: 1.0
   unknown-69:
     weight: 0.75
@@ -191,7 +191,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-167:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 1.0
   unknown-175:
     weight: 1.0

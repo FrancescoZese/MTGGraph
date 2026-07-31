@@ -14,7 +14,7 @@ archetypes:
     avg_copies: 1.83
   samwise-combo:
     weight: 1.0
-    avg_copies: 3.81
+    avg_copies: 3.82
   elves:
     weight: 1.0
     avg_copies: 3.0

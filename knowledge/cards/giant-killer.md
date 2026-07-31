@@ -7,13 +7,13 @@ name: Giant Killer // Chop Down
 scryfall_id: 75754468-2850-42e6-ab22-61ff7b9d1214
 set: eld
 type: Creature — Human Peasant // Instant — Adventure
-meta_presence: 0.0007
+meta_presence: 0.0006
 archetypes:
   boros-energy:
     weight: 0.0014
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.0156
+    weight: 0.0154
     avg_copies: 2.0
   unknown-179:
     weight: 1.0

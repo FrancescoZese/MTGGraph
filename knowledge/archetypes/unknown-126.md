@@ -4,7 +4,7 @@ colors:
 - B
 - G
 name: 'Unknown #126'
-meta_share: 0.0051
+meta_share: 0.005
 list_count: 31
 top_cards:
 - name: Nature's Rhythm
@@ -19,10 +19,10 @@ top_cards:
 - name: Badgermole Cub
   weight: 1.0
   avg_copies: 3.9
-- name: Tyvar, Jubilant Brawler
+- name: Delighted Halfling
   weight: 1.0
   avg_copies: 3.81
-- name: Delighted Halfling
+- name: Tyvar, Jubilant Brawler
   weight: 1.0
   avg_copies: 3.81
 - name: Verdant Catacombs
@@ -49,13 +49,13 @@ top_cards:
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.23
+- name: Walking Ballista
+  weight: 1.0
+  avg_copies: 1.0
 - name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
 - name: Duskwatch Recruiter
-  weight: 1.0
-  avg_copies: 1.0
-- name: Walking Ballista
   weight: 1.0
   avg_copies: 1.0
 - name: Temple Garden
@@ -70,10 +70,10 @@ top_cards:
 - name: Ouroboroid
   weight: 0.9032
   avg_copies: 1.07
-- name: Kraul Harpooner
+- name: Outland Liberator
   weight: 0.8387
   avg_copies: 1.0
-- name: Outland Liberator
+- name: Kraul Harpooner
   weight: 0.8387
   avg_copies: 1.0
 - name: Misty Rainforest
@@ -94,10 +94,10 @@ top_cards:
 - name: Godless Shrine
   weight: 0.7097
   avg_copies: 1.0
-- name: Suncleanser
+- name: Lush Portico
   weight: 0.6774
   avg_copies: 1.0
-- name: Lush Portico
+- name: Suncleanser
   weight: 0.6774
   avg_copies: 1.0
 - name: Malevolent Rumble
@@ -133,10 +133,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.4516
   avg_copies: 1.86
-- name: card:shang-chi-master-of-kung-fu
+- name: Drannith Magistrate
   weight: 0.3871
   avg_copies: 1.0
-- name: Drannith Magistrate
+- name: card:shang-chi-master-of-kung-fu
   weight: 0.3871
   avg_copies: 1.0
 - name: Leyline of Abundance
@@ -166,19 +166,22 @@ top_cards:
 - name: Deafening Silence
   weight: 0.0645
   avg_copies: 1.5
-- name: Postmortem Lunge
-  weight: 0.0323
-  avg_copies: 2.0
 - name: High Noon
-  weight: 0.0323
-  avg_copies: 2.0
-- name: Burrenton Forge-Tender
   weight: 0.0323
   avg_copies: 2.0
 - name: Thoughtseize
   weight: 0.0323
   avg_copies: 2.0
-- name: card:mark-of-asylum
+- name: Postmortem Lunge
+  weight: 0.0323
+  avg_copies: 2.0
+- name: Burrenton Forge-Tender
+  weight: 0.0323
+  avg_copies: 2.0
+- name: Reclamation Sage
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Six
   weight: 0.0323
   avg_copies: 1.0
 - name: Rhonas the Indomitable
@@ -187,19 +190,16 @@ top_cards:
 - name: Horizon Canopy
   weight: 0.0323
   avg_copies: 1.0
-- name: Crystal Barricade
+- name: card:mark-of-asylum
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Formidable Speaker
   weight: 0.0323
   avg_copies: 1.0
 - name: card:dauntless-escort
   weight: 0.0323
   avg_copies: 1.0
-- name: Reclamation Sage
-  weight: 0.0323
-  avg_copies: 1.0
-- name: Six
-  weight: 0.0323
-  avg_copies: 1.0
-- name: Formidable Speaker
+- name: Crystal Barricade
   weight: 0.0323
   avg_copies: 1.0
 ---

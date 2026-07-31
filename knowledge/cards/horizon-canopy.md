@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.0018
 archetypes:
   samwise-combo:
-    weight: 0.0952
+    weight: 0.0923
     avg_copies: 1.0
   devoted-combo:
     weight: 1.0

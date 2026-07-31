@@ -15,19 +15,19 @@ archetypes:
     weight: 0.2
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.5188
+    weight: 0.5185
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0233
+    weight: 0.023
     avg_copies: 1.0
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.9683
+    weight: 0.9692
     avg_copies: 1.0
   orzhov-blink:
-    weight: 0.0769
+    weight: 0.0625
     avg_copies: 1.0
   bant-control:
     weight: 1.0
