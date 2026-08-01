@@ -6,25 +6,25 @@ name: 'Unknown #125'
 meta_share: 0.001
 list_count: 6
 top_cards:
+- name: Thought Scour
+  weight: 1.0
+  avg_copies: 4.0
 - name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 4.0
-- name: Unearth
-  weight: 1.0
-  avg_copies: 4.0
-- name: Counterspell
   weight: 1.0
   avg_copies: 4.0
 - name: Abhorrent Oculus
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Thought Scour
+- name: Counterspell
+  weight: 1.0
+  avg_copies: 4.0
+- name: Unearth
+  weight: 1.0
+  avg_copies: 4.0
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
@@ -42,10 +42,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.17
-- name: Spell Snare
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 2.0
-- name: Undercity Sewers
+- name: Spell Snare
   weight: 1.0
   avg_copies: 2.0
 - name: Nihil Spellbomb
@@ -78,46 +78,40 @@ top_cards:
 - name: Thoughtseize
   weight: 0.5
   avg_copies: 2.83
-- name: Gloomlake Verge
+- name: Darkslick Shores
   weight: 0.5
   avg_copies: 2.0
-- name: Darkslick Shores
+- name: Gloomlake Verge
   weight: 0.5
   avg_copies: 2.0
 - name: Shoot the Sheriff
   weight: 0.5
   avg_copies: 1.0
-- name: Go for the Throat
-  weight: 0.5
-  avg_copies: 1.0
 - name: Toxic Deluge
-  weight: 0.5
-  avg_copies: 1.0
-- name: The Meathook Massacre
   weight: 0.5
   avg_copies: 1.0
 - name: Flooded Strand
   weight: 0.5
   avg_copies: 1.0
-- name: Damnation
+- name: The Meathook Massacre
+  weight: 0.5
+  avg_copies: 1.0
+- name: Go for the Throat
+  weight: 0.5
+  avg_copies: 1.0
+- name: Stern Scolding
   weight: 0.3333
   avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.3333
   avg_copies: 2.0
-- name: Stern Scolding
+- name: Damnation
   weight: 0.3333
   avg_copies: 2.0
 - name: Quantum Riddler
   weight: 0.1667
   avg_copies: 3.0
-- name: Dress Down
-  weight: 0.1667
-  avg_copies: 2.0
 - name: Sheoldred's Edict
-  weight: 0.1667
-  avg_copies: 2.0
-- name: Subtlety
   weight: 0.1667
   avg_copies: 2.0
 - name: Engineered Explosives
@@ -126,7 +120,13 @@ top_cards:
 - name: Scalding Tarn
   weight: 0.1667
   avg_copies: 2.0
-- name: Snapcaster Mage
+- name: Dress Down
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Subtlety
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Dreams of Steel and Oil
   weight: 0.1667
   avg_copies: 1.0
 - name: Boggart Trawler
@@ -135,7 +135,7 @@ top_cards:
 - name: Spell Pierce
   weight: 0.1667
   avg_copies: 1.0
-- name: Dreams of Steel and Oil
+- name: Snapcaster Mage
   weight: 0.1667
   avg_copies: 1.0
 ---

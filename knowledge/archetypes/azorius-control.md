@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: Azorius Control
-meta_share: 0.0144
+meta_share: 0.0143
 list_count: 89
 top_cards:
 - name: Flooded Strand
@@ -15,10 +15,10 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.76
-- name: Solitude
+- name: Prismatic Ending
   weight: 1.0
   avg_copies: 3.26
-- name: Prismatic Ending
+- name: Solitude
   weight: 1.0
   avg_copies: 3.26
 - name: Teferi, Time Raveler
@@ -228,67 +228,67 @@ top_cards:
 - name: Pyroclasm
   weight: 0.0225
   avg_copies: 1.5
-- name: Mistrise Village
+- name: Sacred Foundry
   weight: 0.0225
   avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.0225
   avg_copies: 1.0
-- name: Dress Down
+- name: Elegant Parlor
   weight: 0.0225
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.0225
   avg_copies: 1.0
+- name: Mistrise Village
+  weight: 0.0225
+  avg_copies: 1.0
+- name: Dress Down
+  weight: 0.0225
+  avg_copies: 1.0
 - name: Hallowed Moonlight
   weight: 0.0225
   avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 0.0225
-  avg_copies: 1.0
-- name: Elegant Parlor
-  weight: 0.0225
-  avg_copies: 1.0
-- name: Wear
-  weight: 0.0112
-  avg_copies: 2.0
 - name: Obsidian Charmaw
   weight: 0.0112
   avg_copies: 2.0
-- name: card:bribery
+- name: Wear
   weight: 0.0112
-  avg_copies: 1.0
-- name: Damping Sphere
+  avg_copies: 2.0
+- name: Petrified Hamlet
   weight: 0.0112
   avg_copies: 1.0
 - name: Restless Anchorage
   weight: 0.0112
   avg_copies: 1.0
-- name: Strix Serenade
+- name: Hurkyl's Recall
   weight: 0.0112
   avg_copies: 1.0
-- name: Logic Knot
-  weight: 0.0112
-  avg_copies: 1.0
-- name: Flashback
+- name: Damping Sphere
   weight: 0.0112
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
   weight: 0.0112
   avg_copies: 1.0
-- name: Commandeer
+- name: Strix Serenade
   weight: 0.0112
   avg_copies: 1.0
 - name: Meltdown
   weight: 0.0112
   avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.0112
-  avg_copies: 1.0
 - name: Get Lost
   weight: 0.0112
   avg_copies: 1.0
-- name: Petrified Hamlet
+- name: Logic Knot
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Commandeer
+  weight: 0.0112
+  avg_copies: 1.0
+- name: card:bribery
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Flashback
   weight: 0.0112
   avg_copies: 1.0
 ---

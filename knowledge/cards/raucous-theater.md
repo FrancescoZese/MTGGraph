@@ -45,7 +45,7 @@ archetypes:
     weight: 0.9474
     avg_copies: 1.17
   goryo1:
-    weight: 0.9755
+    weight: 0.9756
     avg_copies: 1.0
   grixis-control:
     weight: 0.1429
@@ -102,7 +102,7 @@ archetypes:
     weight: 0.225
     avg_copies: 1.0
   unknown-96:
-    weight: 0.0606
+    weight: 0.0588
     avg_copies: 1.0
   unknown-100:
     weight: 0.75

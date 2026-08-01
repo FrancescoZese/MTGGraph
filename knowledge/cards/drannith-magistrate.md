@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0088
     avg_copies: 1.0
   boros-energy:
-    weight: 0.0744
+    weight: 0.0743
     avg_copies: 1.04
   jeskai-energy:
     weight: 0.0677
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.0033
     avg_copies: 1.0
   goryo:
-    weight: 0.1056
+    weight: 0.104
     avg_copies: 1.29
   living-end:
     weight: 0.0714
@@ -55,7 +55,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-5:
-    weight: 0.1429
+    weight: 0.1111
     avg_copies: 2.0
   unknown-13:
     weight: 1.0
@@ -102,4 +102,7 @@ archetypes:
   unknown-185:
     weight: 1.0
     avg_copies: 3.0
+  unknown-224:
+    weight: 1.0
+    avg_copies: 1.0
 ---

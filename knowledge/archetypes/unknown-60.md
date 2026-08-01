@@ -10,7 +10,7 @@ top_cards:
 - name: Ephemerate
   weight: 1.0
   avg_copies: 4.0
-- name: Flare of Denial
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Birthing Ritual
@@ -22,7 +22,7 @@ top_cards:
 - name: Windswept Heath
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Flare of Denial
   weight: 1.0
   avg_copies: 4.0
 - name: Watcher for Tomorrow
@@ -46,10 +46,7 @@ top_cards:
 - name: White Orchid Phantom
   weight: 1.0
   avg_copies: 3.0
-- name: Snow-Covered Forest
-  weight: 1.0
-  avg_copies: 2.0
-- name: Force of Negation
+- name: Skyclave Apparition
   weight: 1.0
   avg_copies: 2.0
 - name: Suncleanser
@@ -58,22 +55,37 @@ top_cards:
 - name: Sanctifier en-Vec
   weight: 1.0
   avg_copies: 2.0
-- name: Skyclave Apparition
+- name: Collector Ouphe
   weight: 1.0
   avg_copies: 2.0
-- name: Collector Ouphe
+- name: Force of Negation
+  weight: 1.0
+  avg_copies: 2.0
+- name: Snow-Covered Forest
   weight: 1.0
   avg_copies: 2.0
 - name: Endurance
   weight: 1.0
   avg_copies: 1.5
-- name: Knight of Autumn
+- name: Witch Enchanter
   weight: 1.0
   avg_copies: 1.0
 - name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
+- name: Meticulous Archive
+  weight: 1.0
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 1.0
+  avg_copies: 1.0
+- name: Eternal Witness
+  weight: 1.0
+  avg_copies: 1.0
 - name: Snow-Covered Plains
+  weight: 1.0
+  avg_copies: 1.0
+- name: Lush Portico
   weight: 1.0
   avg_copies: 1.0
 - name: Breeding Pool
@@ -82,25 +94,13 @@ top_cards:
 - name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 1.0
-  avg_copies: 1.0
-- name: Snow-Covered Island
-  weight: 1.0
-  avg_copies: 1.0
 - name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Knight of Autumn
   weight: 1.0
   avg_copies: 1.0
-- name: Lush Portico
-  weight: 1.0
-  avg_copies: 1.0
-- name: Witch Enchanter
-  weight: 1.0
-  avg_copies: 1.0
-- name: Eternal Witness
+- name: Snow-Covered Island
   weight: 1.0
   avg_copies: 1.0
 ---

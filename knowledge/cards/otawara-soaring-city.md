@@ -15,10 +15,10 @@ archetypes:
     weight: 0.5926
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.963
+    weight: 0.9632
     avg_copies: 1.0
   goryo:
-    weight: 0.0062
+    weight: 0.0061
     avg_copies: 1.0
   azorius-control:
     weight: 0.7416
@@ -108,7 +108,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.6491
+    weight: 0.6522
     avg_copies: 1.0
   unknown-62:
     weight: 0.0303

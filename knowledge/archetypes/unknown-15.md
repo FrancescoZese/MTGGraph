@@ -51,13 +51,13 @@ top_cards:
 - name: Island
   weight: 0.9231
   avg_copies: 1.33
-- name: Aether Spellbomb
+- name: Otawara, Soaring City
   weight: 0.9231
   avg_copies: 1.0
 - name: Mountain
   weight: 0.9231
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Aether Spellbomb
   weight: 0.9231
   avg_copies: 1.0
 - name: Force of Negation
@@ -78,22 +78,22 @@ top_cards:
 - name: Tormod's Crypt
   weight: 0.7692
   avg_copies: 1.17
-- name: Fiery Islet
+- name: Haywire Mite
   weight: 0.7692
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Fiery Islet
   weight: 0.7692
   avg_copies: 1.0
 - name: Quantum Riddler
   weight: 0.6923
   avg_copies: 2.44
-- name: Pithing Needle
+- name: Soul-Guide Lantern
   weight: 0.6923
   avg_copies: 1.0
 - name: Skateboard
   weight: 0.6923
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Pithing Needle
   weight: 0.6923
   avg_copies: 1.0
 - name: Lightning Bolt
@@ -114,13 +114,13 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.3846
   avg_copies: 1.0
-- name: Vandalblast
+- name: Strix Serenade
   weight: 0.3077
   avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.3077
   avg_copies: 1.0
-- name: Strix Serenade
+- name: Vandalblast
   weight: 0.3077
   avg_copies: 1.0
 - name: Flooded Strand
@@ -147,52 +147,52 @@ top_cards:
 - name: Galvanic Blast
   weight: 0.1538
   avg_copies: 3.0
-- name: Wooded Foothills
+- name: Vexing Bauble
   weight: 0.1538
   avg_copies: 1.0
-- name: Vexing Bauble
+- name: Wooded Foothills
   weight: 0.1538
   avg_copies: 1.0
 - name: Relic of Progenitus
   weight: 0.0769
   avg_copies: 4.0
-- name: Astrologian's Planisphere
+- name: Portable Hole
   weight: 0.0769
   avg_copies: 3.0
-- name: Portable Hole
+- name: Astrologian's Planisphere
   weight: 0.0769
   avg_copies: 3.0
 - name: Whipflare
   weight: 0.0769
   avg_copies: 2.0
-- name: Snow-Covered Island
-  weight: 0.0769
-  avg_copies: 2.0
-- name: Vivi Ornitier
+- name: Hallowed Fountain
   weight: 0.0769
   avg_copies: 2.0
 - name: Teferi, Time Raveler
   weight: 0.0769
   avg_copies: 2.0
-- name: Obsidian Charmaw
-  weight: 0.0769
-  avg_copies: 2.0
-- name: Hallowed Fountain
+- name: Snow-Covered Island
   weight: 0.0769
   avg_copies: 2.0
 - name: Sink into Stupor
   weight: 0.0769
   avg_copies: 2.0
+- name: Obsidian Charmaw
+  weight: 0.0769
+  avg_copies: 2.0
+- name: Vivi Ornitier
+  weight: 0.0769
+  avg_copies: 2.0
 - name: Snow-Covered Mountain
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Ghost Vacuum
   weight: 0.0769
   avg_copies: 1.0
 - name: Annul
   weight: 0.0769
   avg_copies: 1.0
 - name: Snapcaster Mage
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Ghost Vacuum
   weight: 0.0769
   avg_copies: 1.0
 ---

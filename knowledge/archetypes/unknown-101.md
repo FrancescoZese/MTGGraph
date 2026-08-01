@@ -12,10 +12,10 @@ top_cards:
 - name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
-- name: Street Wraith
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Detective's Phoenix
@@ -36,10 +36,10 @@ top_cards:
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.08
-- name: Burning Inquiry
+- name: Marauding Mako
   weight: 0.9167
   avg_copies: 4.0
-- name: Marauding Mako
+- name: Burning Inquiry
   weight: 0.9167
   avg_copies: 4.0
 - name: Lightning Bolt
@@ -105,13 +105,13 @@ top_cards:
 - name: Marsh Flats
   weight: 0.3333
   avg_copies: 1.0
-- name: Inti, Seneschal of the Sun
+- name: Mount Doom
   weight: 0.3333
   avg_copies: 1.0
 - name: Polluted Delta
   weight: 0.3333
   avg_copies: 1.0
-- name: Mount Doom
+- name: Inti, Seneschal of the Sun
   weight: 0.3333
   avg_copies: 1.0
 - name: Damping Sphere
@@ -138,25 +138,25 @@ top_cards:
 - name: Wear
   weight: 0.0833
   avg_copies: 2.0
-- name: Abrade
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Molten Collapse
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Blackcleave Cliffs
+- name: Sacred Foundry
   weight: 0.0833
   avg_copies: 1.0
 - name: Sheoldred's Edict
   weight: 0.0833
   avg_copies: 1.0
+- name: Blackcleave Cliffs
+  weight: 0.0833
+  avg_copies: 1.0
 - name: Cool but Rude
   weight: 0.0833
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Seal of Fire
   weight: 0.0833
   avg_copies: 1.0
-- name: Seal of Fire
+- name: Molten Collapse
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Abrade
   weight: 0.0833
   avg_copies: 1.0
 ---

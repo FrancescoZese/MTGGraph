@@ -10,10 +10,10 @@ type: Creature — Elemental Incarnation
 meta_presence: 0.1097
 archetypes:
   amulet-titan:
-    weight: 0.0432
+    weight: 0.0429
     avg_copies: 1.29
   goryo:
-    weight: 0.0062
+    weight: 0.0061
     avg_copies: 1.25
   living-end:
     weight: 1.0
@@ -79,7 +79,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-61:
-    weight: 0.8904
+    weight: 0.8784
     avg_copies: 2.29
   unknown-60:
     weight: 1.0
@@ -148,8 +148,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.25
   unknown-172:
-    weight: 0.6667
-    avg_copies: 1.0
+    weight: 0.75
+    avg_copies: 2.0
   unknown-173:
     weight: 1.0
     avg_copies: 1.0
@@ -169,6 +169,9 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-216:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-224:
     weight: 1.0
     avg_copies: 1.0
 ---

@@ -8,16 +8,16 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 4.67
-- name: Kozilek's Command
+- name: Force of Negation
   weight: 1.0
   avg_copies: 4.0
 - name: Stock Up
   weight: 1.0
   avg_copies: 4.0
-- name: Expedition Map
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
-- name: Force of Negation
+- name: Expedition Map
   weight: 1.0
   avg_copies: 4.0
 - name: Portent of Calamity
@@ -26,13 +26,13 @@ top_cards:
 - name: Subtlety
   weight: 1.0
   avg_copies: 3.33
-- name: Urza's Mine
-  weight: 1.0
-  avg_copies: 3.0
 - name: Urza's Tower
   weight: 1.0
   avg_copies: 3.0
 - name: Urza's Power Plant
+  weight: 1.0
+  avg_copies: 3.0
+- name: Urza's Mine
   weight: 1.0
   avg_copies: 3.0
 - name: Lórien Revealed
@@ -68,10 +68,7 @@ top_cards:
 - name: Emrakul, the Aeons Torn
   weight: 0.6667
   avg_copies: 2.5
-- name: Stern Scolding
-  weight: 0.6667
-  avg_copies: 2.0
-- name: Ugin, Eye of the Storms
+- name: Flusterstorm
   weight: 0.6667
   avg_copies: 2.0
 - name: Unable to Scream
@@ -80,7 +77,10 @@ top_cards:
 - name: Hurkyl's Recall
   weight: 0.6667
   avg_copies: 2.0
-- name: Flusterstorm
+- name: Ugin, Eye of the Storms
+  weight: 0.6667
+  avg_copies: 2.0
+- name: Stern Scolding
   weight: 0.6667
   avg_copies: 2.0
 - name: Soulless Jailer
@@ -98,13 +98,13 @@ top_cards:
 - name: Talisman of Curiosity
   weight: 0.3333
   avg_copies: 1.0
-- name: Snow-Covered Island
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Agna Qel'a
   weight: 0.3333
   avg_copies: 1.0
 - name: Talisman of Progress
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Snow-Covered Island
   weight: 0.3333
   avg_copies: 1.0
 ---

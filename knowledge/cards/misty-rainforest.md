@@ -18,10 +18,10 @@ archetypes:
     weight: 0.0075
     avg_copies: 3.0
   amulet-titan:
-    weight: 0.0062
+    weight: 0.0061
     avg_copies: 1.0
   goryo:
-    weight: 0.0062
+    weight: 0.0061
     avg_copies: 1.5
   azorius-control:
     weight: 0.2809
@@ -57,7 +57,7 @@ archetypes:
     weight: 0.9889
     avg_copies: 3.78
   izzet-prowess:
-    weight: 0.0129
+    weight: 0.0128
     avg_copies: 1.75
   4c-omnath:
     weight: 0.75
@@ -66,7 +66,7 @@ archetypes:
     weight: 0.5692
     avg_copies: 1.41
   broodscale-combo:
-    weight: 0.1703
+    weight: 0.1697
     avg_copies: 1.19
   bant-control:
     weight: 1.0
@@ -135,7 +135,7 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   unknown-47:
-    weight: 0.2719
+    weight: 0.2696
     avg_copies: 1.52
   unknown-59:
     weight: 1.0
@@ -226,7 +226,7 @@ archetypes:
     avg_copies: 4.0
   unknown-172:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.75
   unknown-175:
     weight: 1.0
     avg_copies: 3.0
@@ -254,4 +254,7 @@ archetypes:
   unknown-223:
     weight: 1.0
     avg_copies: 1.0
+  unknown-224:
+    weight: 1.0
+    avg_copies: 4.0
 ---

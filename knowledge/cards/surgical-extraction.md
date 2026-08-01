@@ -4,7 +4,7 @@ archetypes:
     weight: 0.0133
     avg_copies: 1.33
   boros-energy:
-    weight: 0.7493
+    weight: 0.7483
     avg_copies: 1.26
   dimir-control:
     weight: 0.1111
@@ -16,10 +16,10 @@ archetypes:
     weight: 0.6917
     avg_copies: 1.1
   amulet-titan:
-    weight: 0.0185
+    weight: 0.0184
     avg_copies: 2.0
   goryo:
-    weight: 0.4907
+    weight: 0.4985
     avg_copies: 1.09
   necrodominance:
     weight: 0.5909
@@ -61,7 +61,7 @@ archetypes:
     weight: 0.0726
     avg_copies: 1.56
   izzet-prowess:
-    weight: 0.4759
+    weight: 0.4744
     avg_copies: 1.47
   esper-blink:
     weight: 0.1947
@@ -106,7 +106,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.7117
+    weight: 0.7073
     avg_copies: 1.29
   goryo4:
     weight: 0.0435
@@ -131,6 +131,9 @@ archetypes:
     avg_copies: 1.0
   unknown-4:
     weight: 1.0
+    avg_copies: 1.0
+  unknown-5:
+    weight: 0.1111
     avg_copies: 1.0
   unknown-7:
     weight: 1.0
@@ -172,7 +175,7 @@ archetypes:
     weight: 0.875
     avg_copies: 1.14
   unknown-47:
-    weight: 0.1404
+    weight: 0.1391
     avg_copies: 1.44
   unknown-51:
     weight: 1.0
@@ -181,7 +184,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-61:
-    weight: 0.0137
+    weight: 0.0135
     avg_copies: 1.0
   unknown-53:
     weight: 1.0
@@ -226,7 +229,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-96:
-    weight: 0.5455
+    weight: 0.5294
     avg_copies: 2.33
   unknown-98:
     weight: 1.0
@@ -342,7 +345,7 @@ archetypes:
 cmc: 1
 colors: []
 image: https://cards.scryfall.io/normal/front/e/1/e15d76ac-1c23-4503-8225-375ac2bf2fb6.jpg?1673147668
-meta_presence: 0.271
+meta_presence: 0.2711
 name: Surgical Extraction
 scryfall_id: e15d76ac-1c23-4503-8225-375ac2bf2fb6
 set: 2x2

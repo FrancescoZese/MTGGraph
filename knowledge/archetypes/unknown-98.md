@@ -5,16 +5,16 @@ name: 'Unknown #98'
 meta_share: 0.0013
 list_count: 8
 top_cards:
-- name: Experimental Synthesizer
-  weight: 1.0
-  avg_copies: 4.0
 - name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
-- name: Shrapnel Blast
+- name: Galvanic Blast
   weight: 1.0
   avg_copies: 4.0
-- name: Galvanic Blast
+- name: Experimental Synthesizer
+  weight: 1.0
+  avg_copies: 4.0
+- name: Shrapnel Blast
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
@@ -38,10 +38,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 1.0
   avg_copies: 1.75
-- name: Shinka, the Bloodsoaked Keep
+- name: Sokenzan, Crucible of Defiance
   weight: 1.0
   avg_copies: 1.0
-- name: Sokenzan, Crucible of Defiance
+- name: Shinka, the Bloodsoaked Keep
   weight: 1.0
   avg_copies: 1.0
 - name: Darksteel Citadel
@@ -92,22 +92,22 @@ top_cards:
 - name: Monastery Swiftspear
   weight: 0.375
   avg_copies: 3.0
-- name: Pyroclasm
+- name: Tormod's Crypt
   weight: 0.375
   avg_copies: 1.0
-- name: Tormod's Crypt
+- name: Pyroclasm
   weight: 0.375
   avg_copies: 1.0
 - name: Legion Extruder
   weight: 0.25
   avg_copies: 4.0
-- name: Weapons Manufacturing
-  weight: 0.125
-  avg_copies: 4.0
 - name: Dragon's Rage Channeler
   weight: 0.125
   avg_copies: 4.0
 - name: Obsidian Charmaw
+  weight: 0.125
+  avg_copies: 4.0
+- name: Weapons Manufacturing
   weight: 0.125
   avg_copies: 4.0
 - name: Blood Moon
@@ -119,22 +119,22 @@ top_cards:
 - name: Unstable Amulet
   weight: 0.125
   avg_copies: 3.0
-- name: Sunbaked Canyon
-  weight: 0.125
-  avg_copies: 2.0
 - name: Arcbound Ravager
   weight: 0.125
   avg_copies: 2.0
 - name: Magebane Lizard
   weight: 0.125
   avg_copies: 2.0
+- name: Sunbaked Canyon
+  weight: 0.125
+  avg_copies: 2.0
+- name: card:pyrite-spellbomb
+  weight: 0.125
+  avg_copies: 1.0
 - name: card:castle-doom
   weight: 0.125
   avg_copies: 1.0
 - name: Lavaspur Boots
-  weight: 0.125
-  avg_copies: 1.0
-- name: card:pyrite-spellbomb
   weight: 0.125
   avg_copies: 1.0
 ---

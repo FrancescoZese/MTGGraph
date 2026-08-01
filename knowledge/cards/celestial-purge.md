@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.1537
 archetypes:
   boros-energy:
-    weight: 0.6667
+    weight: 0.6657
     avg_copies: 1.39
   dimir-control:
     weight: 0.0741
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.0033
     avg_copies: 1.0
   goryo:
-    weight: 0.2702
+    weight: 0.2752
     avg_copies: 1.07
   azorius-control:
     weight: 0.4831
@@ -70,7 +70,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-5:
-    weight: 0.2857
+    weight: 0.2222
     avg_copies: 1.5
   unknown-22:
     weight: 0.75
@@ -79,7 +79,7 @@ archetypes:
     weight: 0.0952
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0088
+    weight: 0.0087
     avg_copies: 1.0
   unknown-56:
     weight: 1.0

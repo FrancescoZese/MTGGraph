@@ -5,13 +5,13 @@ name: Mono-Blue Tron
 meta_share: 0.0037
 list_count: 23
 top_cards:
+- name: Urza's Tower
+  weight: 1.0
+  avg_copies: 4.0
 - name: Urza's Power Plant
   weight: 1.0
   avg_copies: 4.0
 - name: Kozilek's Command
-  weight: 1.0
-  avg_copies: 4.0
-- name: Urza's Tower
   weight: 1.0
   avg_copies: 4.0
 - name: Expedition Map
@@ -122,28 +122,28 @@ top_cards:
 - name: Unable to Scream
   weight: 0.1304
   avg_copies: 2.33
-- name: Marrow Shards
+- name: Chalice of the Void
   weight: 0.1304
   avg_copies: 2.33
-- name: Chalice of the Void
+- name: Marrow Shards
   weight: 0.1304
   avg_copies: 2.33
 - name: Ugin's Binding
   weight: 0.1304
   avg_copies: 1.33
-- name: Hall of Storm Giants
-  weight: 0.1304
-  avg_copies: 1.0
 - name: Walking Ballista
   weight: 0.1304
   avg_copies: 1.0
 - name: Talisman of Curiosity
   weight: 0.1304
   avg_copies: 1.0
-- name: Karn, the Great Creator
+- name: Hall of Storm Giants
+  weight: 0.1304
+  avg_copies: 1.0
+- name: Remand
   weight: 0.087
   avg_copies: 4.0
-- name: Remand
+- name: Karn, the Great Creator
   weight: 0.087
   avg_copies: 4.0
 - name: card:one-with-the-multiverse
@@ -152,13 +152,25 @@ top_cards:
 - name: Spell Pierce
   weight: 0.087
   avg_copies: 2.0
-- name: Propaganda
-  weight: 0.087
-  avg_copies: 1.5
 - name: All Is Dust
   weight: 0.087
   avg_copies: 1.5
-- name: Soulless Jailer
+- name: Propaganda
+  weight: 0.087
+  avg_copies: 1.5
+- name: Cityscape Leveler
+  weight: 0.087
+  avg_copies: 1.0
+- name: Ensnaring Bridge
+  weight: 0.087
+  avg_copies: 1.0
+- name: Oboro, Palace in the Clouds
+  weight: 0.087
+  avg_copies: 1.0
+- name: Tormod's Crypt
+  weight: 0.087
+  avg_copies: 1.0
+- name: Wurmcoil Engine
   weight: 0.087
   avg_copies: 1.0
 - name: Liquimetal Coating
@@ -167,31 +179,19 @@ top_cards:
 - name: Oblivion Stone
   weight: 0.087
   avg_copies: 1.0
-- name: Sundering Titan
-  weight: 0.087
-  avg_copies: 1.0
-- name: Cityscape Leveler
+- name: Snow-Covered Island
   weight: 0.087
   avg_copies: 1.0
 - name: Ugin, the Spirit Dragon
   weight: 0.087
   avg_copies: 1.0
-- name: Snow-Covered Island
+- name: Sundering Titan
   weight: 0.087
   avg_copies: 1.0
-- name: Oboro, Palace in the Clouds
-  weight: 0.087
-  avg_copies: 1.0
-- name: Ensnaring Bridge
+- name: Soulless Jailer
   weight: 0.087
   avg_copies: 1.0
 - name: Commandeer
-  weight: 0.087
-  avg_copies: 1.0
-- name: Wurmcoil Engine
-  weight: 0.087
-  avg_copies: 1.0
-- name: Tormod's Crypt
   weight: 0.087
   avg_copies: 1.0
 - name: Strix Serenade
@@ -200,34 +200,34 @@ top_cards:
 - name: Omen of the Sea
   weight: 0.0435
   avg_copies: 3.0
-- name: Nimble Obstructionist
-  weight: 0.0435
-  avg_copies: 2.0
-- name: Mindbreak Trap
+- name: Sire of Seven Deaths
   weight: 0.0435
   avg_copies: 2.0
 - name: Change the Equation
   weight: 0.0435
   avg_copies: 2.0
-- name: Sire of Seven Deaths
+- name: Mindbreak Trap
+  weight: 0.0435
+  avg_copies: 2.0
+- name: Nimble Obstructionist
   weight: 0.0435
   avg_copies: 2.0
 - name: Mistrise Village
   weight: 0.0435
   avg_copies: 1.0
-- name: Temporal Mastery
-  weight: 0.0435
-  avg_copies: 1.0
 - name: Talisman of Progress
   weight: 0.0435
   avg_copies: 1.0
-- name: card:aether-gust
+- name: Temporal Mastery
   weight: 0.0435
   avg_copies: 1.0
 - name: Boseiju, Who Shelters All
   weight: 0.0435
   avg_copies: 1.0
 - name: Vexing Bauble
+  weight: 0.0435
+  avg_copies: 1.0
+- name: card:aether-gust
   weight: 0.0435
   avg_copies: 1.0
 ---

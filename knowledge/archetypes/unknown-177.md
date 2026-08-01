@@ -10,22 +10,22 @@ top_cards:
 - name: Hollow One
   weight: 1.0
   avg_copies: 4.0
-- name: Burning Inquiry
+- name: Dragon's Rage Channeler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Marauding Mako
   weight: 1.0
   avg_copies: 4.0
-- name: Wooded Foothills
-  weight: 1.0
-  avg_copies: 4.0
-- name: Dragon's Rage Channeler
-  weight: 1.0
-  avg_copies: 4.0
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Wooded Foothills
+  weight: 1.0
+  avg_copies: 4.0
+- name: Burning Inquiry
   weight: 1.0
   avg_copies: 4.0
 - name: Bloodstained Mire
@@ -34,28 +34,28 @@ top_cards:
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 3.67
-- name: Cool but Rude
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 3.33
-- name: Sacred Foundry
+- name: Cool but Rude
   weight: 1.0
   avg_copies: 3.33
 - name: Mountain
   weight: 1.0
   avg_copies: 3.0
-- name: Detective's Phoenix
-  weight: 1.0
-  avg_copies: 3.0
 - name: Ox of Agonas
   weight: 1.0
   avg_copies: 3.0
+- name: Detective's Phoenix
+  weight: 1.0
+  avg_copies: 3.0
+- name: Blood Moon
+  weight: 1.0
+  avg_copies: 2.0
 - name: Arena of Glory
   weight: 1.0
   avg_copies: 2.0
 - name: Wrath of the Skies
-  weight: 1.0
-  avg_copies: 2.0
-- name: Blood Moon
   weight: 1.0
   avg_copies: 2.0
 - name: card:sheltered-by-ghosts
@@ -67,13 +67,13 @@ top_cards:
 - name: Mana Tithe
   weight: 1.0
   avg_copies: 1.0
+- name: Elegant Parlor
+  weight: 1.0
+  avg_copies: 1.0
 - name: Thraben Charm
   weight: 1.0
   avg_copies: 1.0
 - name: Wear
-  weight: 1.0
-  avg_copies: 1.0
-- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Surgical Extraction
@@ -85,13 +85,13 @@ top_cards:
 - name: Practiced Offense
   weight: 0.6667
   avg_copies: 1.0
-- name: Disruptor Flute
-  weight: 0.6667
-  avg_copies: 1.0
 - name: Unholy Heat
   weight: 0.6667
   avg_copies: 1.0
 - name: Orim's Chant
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Disruptor Flute
   weight: 0.6667
   avg_copies: 1.0
 - name: Vexing Bauble
@@ -109,10 +109,10 @@ top_cards:
 - name: Brotherhood's End
   weight: 0.3333
   avg_copies: 1.0
-- name: card:worship
+- name: Erode
   weight: 0.3333
   avg_copies: 1.0
-- name: Erode
+- name: card:worship
   weight: 0.3333
   avg_copies: 1.0
 ---

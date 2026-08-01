@@ -12,7 +12,7 @@ top_cards:
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
-- name: Ocelot Pride
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Witch Enchanter
@@ -21,10 +21,10 @@ top_cards:
 - name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Guide of Souls
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
 - name: Phelia, Exuberant Shepherd
@@ -57,10 +57,10 @@ top_cards:
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.5
-- name: Flickerwisp
+- name: Swamp
   weight: 1.0
   avg_copies: 1.5
-- name: Swamp
+- name: Flickerwisp
   weight: 1.0
   avg_copies: 1.5
 - name: Elesh Norn, Mother of Machines
@@ -72,28 +72,22 @@ top_cards:
 - name: White Orchid Phantom
   weight: 0.5
   avg_copies: 4.0
-- name: Damping Sphere
+- name: Starfield Shepherd
   weight: 0.5
   avg_copies: 3.0
 - name: Ketramose, the New Dawn
   weight: 0.5
   avg_copies: 3.0
-- name: Starfield Shepherd
+- name: Damping Sphere
   weight: 0.5
   avg_copies: 3.0
-- name: Dauthi Voidwalker
+- name: Relic of Progenitus
   weight: 0.5
   avg_copies: 2.0
 - name: Boromir, Warden of the Tower
   weight: 0.5
   avg_copies: 2.0
-- name: Clarion Conqueror
-  weight: 0.5
-  avg_copies: 2.0
 - name: Orcish Bowmasters
-  weight: 0.5
-  avg_copies: 2.0
-- name: Relic of Progenitus
   weight: 0.5
   avg_copies: 2.0
 - name: Ephemerate
@@ -102,10 +96,19 @@ top_cards:
 - name: Decorum Dissertation
   weight: 0.5
   avg_copies: 2.0
+- name: Clarion Conqueror
+  weight: 0.5
+  avg_copies: 2.0
+- name: Dauthi Voidwalker
+  weight: 0.5
+  avg_copies: 2.0
 - name: Prismatic Ending
   weight: 0.5
   avg_copies: 1.5
-- name: Chthonian Nightmare
+- name: Sacred Foundry
+  weight: 0.5
+  avg_copies: 1.0
+- name: Erode
   weight: 0.5
   avg_copies: 1.0
 - name: Static Prison
@@ -114,10 +117,7 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 0.5
   avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 0.5
-  avg_copies: 1.0
-- name: Erode
+- name: Chthonian Nightmare
   weight: 0.5
   avg_copies: 1.0
 ---

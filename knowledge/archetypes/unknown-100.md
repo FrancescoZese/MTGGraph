@@ -12,25 +12,25 @@ top_cards:
 - name: Leyline Binding
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline of the Guildpact
+- name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Ragavan, Nimble Pilferer
+- name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
 - name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
-- name: Territorial Kavu
+- name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 4.0
-- name: Wooded Foothills
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 3.75
-- name: Psychic Frog
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 3.75
 - name: Consign to Memory
@@ -42,22 +42,22 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
-- name: Arena of Glory
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Arena of Glory
   weight: 1.0
   avg_copies: 1.0
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Wear
-  weight: 1.0
-  avg_copies: 1.0
-- name: Steam Vents
+- name: Surgical Extraction
   weight: 1.0
   avg_copies: 1.0
 - name: Blood Crypt
+  weight: 1.0
+  avg_copies: 1.0
+- name: Wear
   weight: 1.0
   avg_copies: 1.0
 - name: Quantum Riddler
@@ -75,19 +75,19 @@ top_cards:
 - name: Pest Control
   weight: 0.75
   avg_copies: 1.33
-- name: Breeding Pool
-  weight: 0.75
-  avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Spara's Headquarters
   weight: 0.75
   avg_copies: 1.0
 - name: Raucous Theater
   weight: 0.75
   avg_copies: 1.0
-- name: Spara's Headquarters
+- name: Breeding Pool
   weight: 0.75
   avg_copies: 1.0
 - name: Godless Shrine
+  weight: 0.75
+  avg_copies: 1.0
+- name: Nihil Spellbomb
   weight: 0.75
   avg_copies: 1.0
 - name: Marsh Flats
@@ -102,10 +102,10 @@ top_cards:
 - name: Polluted Delta
   weight: 0.5
   avg_copies: 4.0
-- name: Orcish Bowmasters
+- name: Practiced Offense
   weight: 0.5
   avg_copies: 2.0
-- name: Practiced Offense
+- name: Orcish Bowmasters
   weight: 0.5
   avg_copies: 2.0
 - name: Vexing Bauble
@@ -126,46 +126,46 @@ top_cards:
 - name: Surge of Salvation
   weight: 0.25
   avg_copies: 2.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.25
-  avg_copies: 2.0
-- name: Damping Sphere
-  weight: 0.25
-  avg_copies: 2.0
 - name: Laelia, the Blade Reforged
+  weight: 0.25
+  avg_copies: 2.0
+- name: Tamiyo, Inquisitive Student
   weight: 0.25
   avg_copies: 2.0
 - name: Kroxa, Titan of Death's Hunger
   weight: 0.25
   avg_copies: 2.0
-- name: Overgrown Tomb
+- name: Damping Sphere
   weight: 0.25
-  avg_copies: 1.0
-- name: Indatha Triome
-  weight: 0.25
-  avg_copies: 1.0
-- name: Island
-  weight: 0.25
-  avg_copies: 1.0
-- name: Watery Grave
-  weight: 0.25
-  avg_copies: 1.0
-- name: Hidetsugu Consumes All
-  weight: 0.25
-  avg_copies: 1.0
-- name: Swamp
-  weight: 0.25
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Sacred Foundry
-  weight: 0.25
-  avg_copies: 1.0
-- name: Thundering Falls
   weight: 0.25
   avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 0.25
   avg_copies: 1.0
+- name: Indatha Triome
+  weight: 0.25
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.25
+  avg_copies: 1.0
+- name: Watery Grave
+  weight: 0.25
+  avg_copies: 1.0
+- name: Swamp
+  weight: 0.25
+  avg_copies: 1.0
+- name: Island
+  weight: 0.25
+  avg_copies: 1.0
+- name: Hidetsugu Consumes All
+  weight: 0.25
+  avg_copies: 1.0
 - name: Rest in Peace
+  weight: 0.25
+  avg_copies: 1.0
+- name: Overgrown Tomb
   weight: 0.25
   avg_copies: 1.0
 ---

@@ -93,13 +93,13 @@ top_cards:
 - name: Valakut Awakening
   weight: 0.2838
   avg_copies: 1.43
-- name: Liquimetal Coating
-  weight: 0.2838
-  avg_copies: 1.0
 - name: Ensnaring Bridge
   weight: 0.2838
   avg_copies: 1.0
 - name: Tormod's Crypt
+  weight: 0.2838
+  avg_copies: 1.0
+- name: Liquimetal Coating
   weight: 0.2838
   avg_copies: 1.0
 - name: Pithing Needle
@@ -180,28 +180,28 @@ top_cards:
 - name: Flashback
   weight: 0.027
   avg_copies: 2.0
-- name: Chandra, Torch of Defiance
-  weight: 0.027
-  avg_copies: 1.0
 - name: Stormbreath Dragon
   weight: 0.027
   avg_copies: 1.0
-- name: White Orchid Phantom
-  weight: 0.0135
-  avg_copies: 4.0
+- name: Chandra, Torch of Defiance
+  weight: 0.027
+  avg_copies: 1.0
 - name: Teferi, Time Raveler
   weight: 0.0135
   avg_copies: 4.0
 - name: Get Lost
   weight: 0.0135
   avg_copies: 4.0
-- name: Madcap Experiment
+- name: White Orchid Phantom
   weight: 0.0135
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Clarion Conqueror
   weight: 0.0135
   avg_copies: 3.0
-- name: Untimely Malfunction
+- name: Madcap Experiment
+  weight: 0.0135
+  avg_copies: 3.0
+- name: Elegant Parlor
   weight: 0.0135
   avg_copies: 2.0
 - name: Damping Sphere
@@ -210,22 +210,16 @@ top_cards:
 - name: Kor Firewalker
   weight: 0.0135
   avg_copies: 2.0
-- name: card:platinum-emperion
+- name: Untimely Malfunction
   weight: 0.0135
   avg_copies: 2.0
 - name: Meltdown
   weight: 0.0135
   avg_copies: 2.0
-- name: Elegant Parlor
+- name: card:platinum-emperion
   weight: 0.0135
   avg_copies: 2.0
-- name: card:fry
-  weight: 0.0135
-  avg_copies: 1.0
-- name: Fracturing Gust
-  weight: 0.0135
-  avg_copies: 1.0
-- name: Ark of Hunger
+- name: Cityscape Leveler
   weight: 0.0135
   avg_copies: 1.0
 - name: Brotherhood's End
@@ -234,34 +228,40 @@ top_cards:
 - name: Rugged Prairie
   weight: 0.0135
   avg_copies: 1.0
-- name: card:the-mind-stone
-  weight: 0.0135
-  avg_copies: 1.0
-- name: Cityscape Leveler
-  weight: 0.0135
-  avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Ark of Hunger
   weight: 0.0135
   avg_copies: 1.0
 - name: card:chandra-hope-s-beacon
   weight: 0.0135
   avg_copies: 1.0
-- name: Blast Zone
+- name: card:the-mind-stone
   weight: 0.0135
   avg_copies: 1.0
-- name: Island
+- name: Crucible of Worlds
   weight: 0.0135
   avg_copies: 1.0
-- name: Disruptor Flute
-  weight: 0.0135
-  avg_copies: 1.0
-- name: Fire Magic
+- name: Grafdigger's Cage
   weight: 0.0135
   avg_copies: 1.0
 - name: Hallowed Moonlight
   weight: 0.0135
   avg_copies: 1.0
-- name: Crucible of Worlds
+- name: Island
+  weight: 0.0135
+  avg_copies: 1.0
+- name: Fire Magic
+  weight: 0.0135
+  avg_copies: 1.0
+- name: Blast Zone
+  weight: 0.0135
+  avg_copies: 1.0
+- name: Fracturing Gust
+  weight: 0.0135
+  avg_copies: 1.0
+- name: card:fry
+  weight: 0.0135
+  avg_copies: 1.0
+- name: Disruptor Flute
   weight: 0.0135
   avg_copies: 1.0
 ---

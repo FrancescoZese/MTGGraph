@@ -9,16 +9,7 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 5.4
-- name: Soul Spike
-  weight: 1.0
-  avg_copies: 4.0
-- name: Necrodominance
-  weight: 1.0
-  avg_copies: 4.0
-- name: Serum Powder
-  weight: 1.0
-  avg_copies: 4.0
-- name: Cosmogoyf
+- name: Blooming Marsh
   weight: 1.0
   avg_copies: 4.0
 - name: Darkbore Pathway
@@ -27,10 +18,19 @@ top_cards:
 - name: Plunge into Darkness
   weight: 1.0
   avg_copies: 4.0
+- name: Necrodominance
+  weight: 1.0
+  avg_copies: 4.0
 - name: Break the Ice
   weight: 1.0
   avg_copies: 4.0
-- name: Blooming Marsh
+- name: Cosmogoyf
+  weight: 1.0
+  avg_copies: 4.0
+- name: Soul Spike
+  weight: 1.0
+  avg_copies: 4.0
+- name: Serum Powder
   weight: 1.0
   avg_copies: 4.0
 - name: Inquisition of Kozilek
@@ -48,10 +48,10 @@ top_cards:
 - name: Duress
   weight: 1.0
   avg_copies: 2.29
-- name: Sheoldred, the Apocalypse
+- name: Fatal Push
   weight: 1.0
   avg_copies: 2.0
-- name: Fatal Push
+- name: Sheoldred, the Apocalypse
   weight: 1.0
   avg_copies: 2.0
 - name: Takenuma, Abandoned Mire

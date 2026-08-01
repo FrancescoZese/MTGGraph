@@ -19,7 +19,7 @@ archetypes:
     weight: 0.0075
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.2222
+    weight: 0.2209
     avg_copies: 2.39
   azorius-control:
     weight: 0.0337
@@ -37,10 +37,10 @@ archetypes:
     weight: 0.0222
     avg_copies: 2.5
   izzet-prowess:
-    weight: 0.0386
+    weight: 0.0385
     avg_copies: 1.17
   broodscale-combo:
-    weight: 0.0254
+    weight: 0.0253
     avg_copies: 2.14
   dredge:
     weight: 0.0385
@@ -73,7 +73,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 4.0
   goryo1:
-    weight: 0.0245
+    weight: 0.0244
     avg_copies: 1.5
   grixis-control:
     weight: 0.8571
@@ -100,7 +100,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0088
+    weight: 0.0087
     avg_copies: 2.0
   unknown-53:
     weight: 1.0
@@ -121,8 +121,8 @@ archetypes:
     weight: 0.0625
     avg_copies: 2.0
   unknown-96:
-    weight: 0.6364
-    avg_copies: 1.9
+    weight: 0.6471
+    avg_copies: 1.91
   unknown-100:
     weight: 0.75
     avg_copies: 1.67

@@ -11,31 +11,31 @@ top_cards:
 - name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
-- name: Boltwave
+- name: Monastery Swiftspear
   weight: 1.0
   avg_copies: 4.0
 - name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
+- name: Boltwave
+  weight: 1.0
+  avg_copies: 4.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Monastery Swiftspear
-  weight: 1.0
-  avg_copies: 4.0
-- name: Lava Dart
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 3.82
-- name: Mishra's Bauble
+- name: Lava Dart
   weight: 1.0
   avg_copies: 3.82
 - name: Barbarian Ring
   weight: 1.0
   avg_copies: 3.73
-- name: Light Up the Stage
+- name: Skewer the Critics
   weight: 1.0
   avg_copies: 3.64
-- name: Skewer the Critics
+- name: Light Up the Stage
   weight: 1.0
   avg_copies: 3.64
 - name: Tormod's Crypt
@@ -131,13 +131,13 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.0909
   avg_copies: 2.0
+- name: Sokenzan, Crucible of Defiance
+  weight: 0.0909
+  avg_copies: 1.0
 - name: Prismatic Ending
   weight: 0.0909
   avg_copies: 1.0
 - name: Engineered Explosives
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Sokenzan, Crucible of Defiance
   weight: 0.0909
   avg_copies: 1.0
 ---

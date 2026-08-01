@@ -9,7 +9,7 @@ type: Creature — Human Warlock // Land
 meta_presence: 0.0587
 archetypes:
   boros-energy:
-    weight: 0.0441
+    weight: 0.044
     avg_copies: 1.06
   mono-blue-belcher:
     weight: 0.0119
@@ -104,4 +104,7 @@ archetypes:
   unknown-185:
     weight: 1.0
     avg_copies: 4.0
+  unknown-225:
+    weight: 1.0
+    avg_copies: 1.0
 ---

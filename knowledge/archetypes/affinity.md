@@ -3,7 +3,7 @@ colors:
 - U
 - R
 name: Affinity
-meta_share: 0.0815
+meta_share: 0.0812
 list_count: 505
 top_cards:
 - name: Kappa Cannoneer
@@ -162,13 +162,13 @@ top_cards:
 - name: Mox Amber
   weight: 0.0257
   avg_copies: 1.0
+- name: Relic of Progenitus
+  weight: 0.0257
+  avg_copies: 1.0
 - name: Magus of the Moon
   weight: 0.0257
   avg_copies: 1.0
 - name: card:castle-doom
-  weight: 0.0257
-  avg_copies: 1.0
-- name: Relic of Progenitus
   weight: 0.0257
   avg_copies: 1.0
 - name: Furnace Dragon
@@ -183,10 +183,10 @@ top_cards:
 - name: Flooded Strand
   weight: 0.0178
   avg_copies: 1.89
-- name: Polluted Delta
+- name: Snow-Covered Island
   weight: 0.0178
   avg_copies: 1.44
-- name: Snow-Covered Island
+- name: Polluted Delta
   weight: 0.0178
   avg_copies: 1.44
 - name: Haywire Mite
@@ -225,13 +225,13 @@ top_cards:
 - name: card:pyrite-spellbomb
   weight: 0.0059
   avg_copies: 1.0
-- name: Wear
+- name: Tamiyo, Inquisitive Student
   weight: 0.004
   avg_copies: 2.0
 - name: Detect Intrusion
   weight: 0.004
   avg_copies: 2.0
-- name: Tamiyo, Inquisitive Student
+- name: Wear
   weight: 0.004
   avg_copies: 2.0
 - name: Spell Snare
@@ -243,37 +243,34 @@ top_cards:
 - name: Umezawa's Jitte
   weight: 0.004
   avg_copies: 1.0
+- name: Void Mirror
+  weight: 0.004
+  avg_copies: 1.0
 - name: Echoing Deeps
   weight: 0.004
   avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 0.004
   avg_copies: 1.0
-- name: Void Mirror
-  weight: 0.004
-  avg_copies: 1.0
 - name: Portable Hole
   weight: 0.002
   avg_copies: 3.0
-- name: Cursed Totem
-  weight: 0.002
-  avg_copies: 2.0
-- name: Dispatch
-  weight: 0.002
-  avg_copies: 2.0
-- name: Patchwork Automaton
+- name: Invasive Surgery
   weight: 0.002
   avg_copies: 2.0
 - name: Magebane Lizard
   weight: 0.002
   avg_copies: 2.0
+- name: Dispatch
+  weight: 0.002
+  avg_copies: 2.0
 - name: Prismari Charm
   weight: 0.002
   avg_copies: 2.0
-- name: Into the Flood Maw
+- name: Patchwork Automaton
   weight: 0.002
   avg_copies: 2.0
-- name: Invasive Surgery
+- name: Into the Flood Maw
   weight: 0.002
   avg_copies: 2.0
 - name: Disruptor Flute
@@ -282,40 +279,43 @@ top_cards:
 - name: Glimmervoid
   weight: 0.002
   avg_copies: 2.0
-- name: Waterlogged Grove
+- name: Cursed Totem
   weight: 0.002
-  avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.002
-  avg_copies: 1.0
-- name: Zuran Orb
-  weight: 0.002
-  avg_copies: 1.0
-- name: Torpor Orb
-  weight: 0.002
-  avg_copies: 1.0
-- name: Chandra, Spark Hunter
-  weight: 0.002
-  avg_copies: 1.0
-- name: Ghirapur Aether Grid
-  weight: 0.002
-  avg_copies: 1.0
-- name: Spell Pierce
-  weight: 0.002
-  avg_copies: 1.0
-- name: Jokulmorder
-  weight: 0.002
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Sacred Foundry
-  weight: 0.002
-  avg_copies: 1.0
-- name: Lithomantic Barrage
   weight: 0.002
   avg_copies: 1.0
 - name: Cranial Plating
   weight: 0.002
   avg_copies: 1.0
+- name: Jokulmorder
+  weight: 0.002
+  avg_copies: 1.0
+- name: Torpor Orb
+  weight: 0.002
+  avg_copies: 1.0
+- name: Zuran Orb
+  weight: 0.002
+  avg_copies: 1.0
+- name: Breeding Pool
+  weight: 0.002
+  avg_copies: 1.0
 - name: Minamo, School at Water's Edge
+  weight: 0.002
+  avg_copies: 1.0
+- name: Chandra, Spark Hunter
+  weight: 0.002
+  avg_copies: 1.0
+- name: Waterlogged Grove
+  weight: 0.002
+  avg_copies: 1.0
+- name: Ghirapur Aether Grid
+  weight: 0.002
+  avg_copies: 1.0
+- name: Lithomantic Barrage
+  weight: 0.002
+  avg_copies: 1.0
+- name: Spell Pierce
   weight: 0.002
   avg_copies: 1.0
 ---

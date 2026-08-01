@@ -20,10 +20,10 @@ top_cards:
 - name: Force of Negation
   weight: 1.0
   avg_copies: 3.92
-- name: Endurance
+- name: Generous Ent
   weight: 1.0
   avg_copies: 3.75
-- name: Generous Ent
+- name: Endurance
   weight: 1.0
   avg_copies: 3.75
 - name: Mystical Dispute
@@ -35,22 +35,22 @@ top_cards:
 - name: Hedge Maze
   weight: 1.0
   avg_copies: 1.05
-- name: Breeding Pool
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Forest
   weight: 1.0
   avg_copies: 1.0
+- name: Breeding Pool
+  weight: 1.0
+  avg_copies: 1.0
 - name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Misty Rainforest
+- name: Street Wraith
   weight: 0.9873
   avg_copies: 3.81
-- name: Street Wraith
+- name: Misty Rainforest
   weight: 0.9873
   avg_copies: 3.81
 - name: Oliphaunt
@@ -176,10 +176,10 @@ top_cards:
 - name: Flare of Denial
   weight: 0.0633
   avg_copies: 1.0
-- name: Flooded Grove
+- name: Sacred Foundry
   weight: 0.0506
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Flooded Grove
   weight: 0.0506
   avg_copies: 1.0
 - name: Windcaller Aven
@@ -200,10 +200,16 @@ top_cards:
 - name: Polluted Delta
   weight: 0.0127
   avg_copies: 3.0
-- name: Harbinger of the Seas
+- name: Stormkeld Vanguard
   weight: 0.0127
   avg_copies: 2.0
-- name: Bonecrusher Giant
+- name: Culling Ritual
+  weight: 0.0127
+  avg_copies: 2.0
+- name: card:runescale-stormbrood
+  weight: 0.0127
+  avg_copies: 2.0
+- name: Harbinger of the Seas
   weight: 0.0127
   avg_copies: 2.0
 - name: Vendilion Clique
@@ -212,28 +218,28 @@ top_cards:
 - name: card:anger-of-the-gods
   weight: 0.0127
   avg_copies: 2.0
-- name: card:runescale-stormbrood
+- name: Bonecrusher Giant
   weight: 0.0127
   avg_copies: 2.0
-- name: Culling Ritual
-  weight: 0.0127
-  avg_copies: 2.0
-- name: Stormkeld Vanguard
-  weight: 0.0127
-  avg_copies: 2.0
-- name: Overgrown Tomb
-  weight: 0.0127
-  avg_copies: 1.0
-- name: card:cascade-bluffs
+- name: Gemstone Caverns
   weight: 0.0127
   avg_copies: 1.0
 - name: Kataki, War's Wage
   weight: 0.0127
   avg_copies: 1.0
-- name: Harvester of Misery
+- name: Ashiok, Dream Render
   weight: 0.0127
   avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Brainsurge
+  weight: 0.0127
+  avg_copies: 1.0
+- name: card:cascade-bluffs
+  weight: 0.0127
+  avg_copies: 1.0
+- name: Meticulous Archive
+  weight: 0.0127
+  avg_copies: 1.0
+- name: Underground Mortuary
   weight: 0.0127
   avg_copies: 1.0
 - name: High Noon
@@ -242,22 +248,16 @@ top_cards:
 - name: Arid Mesa
   weight: 0.0127
   avg_copies: 1.0
-- name: Ashiok, Dream Render
-  weight: 0.0127
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.0127
-  avg_copies: 1.0
-- name: Brainsurge
-  weight: 0.0127
-  avg_copies: 1.0
-- name: Collector Ouphe
+- name: Harvester of Misery
   weight: 0.0127
   avg_copies: 1.0
 - name: Tokka & Rahzar, Terrible Twos
   weight: 0.0127
   avg_copies: 1.0
-- name: Underground Mortuary
+- name: Collector Ouphe
+  weight: 0.0127
+  avg_copies: 1.0
+- name: Overgrown Tomb
   weight: 0.0127
   avg_copies: 1.0
 ---

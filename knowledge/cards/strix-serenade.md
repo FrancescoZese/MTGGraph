@@ -19,8 +19,8 @@ archetypes:
     weight: 0.7218
     avg_copies: 1.5
   goryo:
-    weight: 0.0093
-    avg_copies: 1.33
+    weight: 0.0122
+    avg_copies: 1.25
   azorius-control:
     weight: 0.0112
     avg_copies: 1.0
@@ -55,7 +55,7 @@ archetypes:
     weight: 0.6562
     avg_copies: 1.19
   goryo1:
-    weight: 0.0736
+    weight: 0.0732
     avg_copies: 1.38
   goryo7:
     weight: 0.6667

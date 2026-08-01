@@ -7,25 +7,25 @@ name: 'Unknown #149'
 meta_share: 0.0016
 list_count: 10
 top_cards:
-- name: Ajani, Nacatl Pariah
-  weight: 1.0
-  avg_copies: 4.0
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
-- name: Ocelot Pride
-  weight: 1.0
-  avg_copies: 4.0
-- name: Guide of Souls
+- name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Guide of Souls
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ocelot Pride
+  weight: 1.0
+  avg_copies: 4.0
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 3.9
-- name: Quantum Riddler
+- name: Solitude
   weight: 1.0
   avg_copies: 3.9
 - name: Goblin Bombardment
@@ -58,13 +58,13 @@ top_cards:
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Mountain
-  weight: 1.0
-  avg_copies: 1.0
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Elegant Parlor
+  weight: 1.0
+  avg_copies: 1.0
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
 - name: Island
@@ -82,10 +82,10 @@ top_cards:
 - name: Starfield Shepherd
   weight: 0.6
   avg_copies: 2.0
-- name: Sanctifier en-Vec
+- name: Fable of the Mirror-Breaker
   weight: 0.6
   avg_copies: 1.83
-- name: Fable of the Mirror-Breaker
+- name: Sanctifier en-Vec
   weight: 0.6
   avg_copies: 1.83
 - name: Phelia, Exuberant Shepherd
@@ -106,10 +106,10 @@ top_cards:
 - name: Spell Pierce
   weight: 0.5
   avg_copies: 1.2
-- name: Vandalblast
+- name: Meltdown
   weight: 0.5
   avg_copies: 1.0
-- name: Meltdown
+- name: Vandalblast
   weight: 0.5
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -142,10 +142,10 @@ top_cards:
 - name: Marsh Flats
   weight: 0.1
   avg_copies: 2.0
-- name: Voice of Victory
+- name: Clarion Conqueror
   weight: 0.1
   avg_copies: 2.0
-- name: Clarion Conqueror
+- name: Voice of Victory
   weight: 0.1
   avg_copies: 2.0
 - name: Containment Priest

@@ -19,7 +19,7 @@ archetypes:
     weight: 0.985
     avg_copies: 2.41
   goryo:
-    weight: 0.9876
+    weight: 0.9878
     avg_copies: 2.7
   necrodominance:
     weight: 0.0227
@@ -58,7 +58,7 @@ archetypes:
     weight: 0.9778
     avg_copies: 2.99
   izzet-prowess:
-    weight: 0.2412
+    weight: 0.2404
     avg_copies: 1.47
   4c-omnath:
     weight: 1.0
@@ -97,7 +97,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.9264
+    weight: 0.9207
     avg_copies: 2.03
   goryo7:
     weight: 0.3333
@@ -124,7 +124,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-5:
-    weight: 0.7143
+    weight: 0.6667
     avg_copies: 2.0
   unknown-6:
     weight: 0.4615
@@ -164,7 +164,7 @@ archetypes:
     avg_copies: 2.0
   unknown-47:
     weight: 1.0
-    avg_copies: 2.25
+    avg_copies: 2.24
   unknown-51:
     weight: 1.0
     avg_copies: 3.0

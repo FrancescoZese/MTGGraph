@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.0105
 archetypes:
   izzet-prowess:
-    weight: 0.1961
+    weight: 0.1955
     avg_copies: 1.5
   unknown-122:
     weight: 0.1154

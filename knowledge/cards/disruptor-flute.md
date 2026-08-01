@@ -6,10 +6,10 @@ name: Disruptor Flute
 scryfall_id: 5cad8671-4761-4014-a8a3-af45627e6e79
 set: mh3
 type: Artifact
-meta_presence: 0.0747
+meta_presence: 0.0745
 archetypes:
   boros-energy:
-    weight: 0.0152
+    weight: 0.0151
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.015
@@ -42,7 +42,7 @@ archetypes:
     weight: 0.0032
     avg_copies: 2.0
   broodscale-combo:
-    weight: 0.0109
+    weight: 0.0108
     avg_copies: 1.33
   azorius-blink:
     weight: 0.0154

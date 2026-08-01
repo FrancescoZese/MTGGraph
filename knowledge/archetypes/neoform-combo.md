@@ -162,10 +162,10 @@ top_cards:
 - name: Glittering Wish
   weight: 0.023
   avg_copies: 4.0
-- name: Gemstone Mine
+- name: Invasion of Gobakhan
   weight: 0.023
   avg_copies: 4.0
-- name: Invasion of Gobakhan
+- name: Gemstone Mine
   weight: 0.023
   avg_copies: 4.0
 - name: Abrupt Decay
@@ -177,55 +177,55 @@ top_cards:
 - name: Undercity Sewers
   weight: 0.023
   avg_copies: 1.0
-- name: Firespout
-  weight: 0.023
-  avg_copies: 1.0
-- name: Borborygmos Enraged
-  weight: 0.023
-  avg_copies: 1.0
 - name: Nature's Chant
   weight: 0.023
   avg_copies: 1.0
-- name: Raph & Mikey, Troublemakers
+- name: Firespout
   weight: 0.023
   avg_copies: 1.0
 - name: Wan Shi Tong, Librarian
   weight: 0.023
   avg_copies: 1.0
-- name: Lush Portico
-  weight: 0.023
-  avg_copies: 1.0
-- name: Stump Stomp
-  weight: 0.023
-  avg_copies: 1.0
-- name: Detention Sphere
+- name: Underground Mortuary
   weight: 0.023
   avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 0.023
   avg_copies: 1.0
-- name: Underground Mortuary
+- name: Thundering Falls
   weight: 0.023
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Raph & Mikey, Troublemakers
+  weight: 0.023
+  avg_copies: 1.0
+- name: Lush Portico
+  weight: 0.023
+  avg_copies: 1.0
+- name: Borborygmos Enraged
   weight: 0.023
   avg_copies: 1.0
 - name: Force of Vigor
   weight: 0.023
   avg_copies: 1.0
-- name: Hexing Squelcher
-  weight: 0.0115
-  avg_copies: 4.0
-- name: Voice of Victory
-  weight: 0.0115
-  avg_copies: 4.0
+- name: Detention Sphere
+  weight: 0.023
+  avg_copies: 1.0
+- name: Stump Stomp
+  weight: 0.023
+  avg_copies: 1.0
 - name: Geometer's Arthropod
+  weight: 0.0115
+  avg_copies: 4.0
+- name: Detect Intrusion
+  weight: 0.0115
+  avg_copies: 4.0
+- name: Hexing Squelcher
   weight: 0.0115
   avg_copies: 4.0
 - name: Summoning Trap
   weight: 0.0115
   avg_copies: 4.0
-- name: Detect Intrusion
+- name: Voice of Victory
   weight: 0.0115
   avg_copies: 4.0
 - name: Birthing Ritual
@@ -234,40 +234,40 @@ top_cards:
 - name: Quantum Riddler
   weight: 0.0115
   avg_copies: 2.0
-- name: Mistrise Village
+- name: Stormkeld Vanguard
   weight: 0.0115
   avg_copies: 1.0
 - name: card:fungal-colossus
   weight: 0.0115
   avg_copies: 1.0
-- name: Subtlety
+- name: Brainsurge
   weight: 0.0115
   avg_copies: 1.0
-- name: Commercial District
-  weight: 0.0115
-  avg_copies: 1.0
-- name: Leatherhead, Swamp Stalker
+- name: Mistrise Village
   weight: 0.0115
   avg_copies: 1.0
 - name: Serra's Emissary
   weight: 0.0115
   avg_copies: 1.0
-- name: Brainsurge
+- name: Subtlety
   weight: 0.0115
   avg_copies: 1.0
-- name: Temple Garden
-  weight: 0.0115
-  avg_copies: 1.0
-- name: card:daring-waverider
+- name: Crucible of Worlds
   weight: 0.0115
   avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 0.0115
   avg_copies: 1.0
-- name: Stormkeld Vanguard
+- name: Commercial District
   weight: 0.0115
   avg_copies: 1.0
-- name: Crucible of Worlds
+- name: Temple Garden
+  weight: 0.0115
+  avg_copies: 1.0
+- name: Leatherhead, Swamp Stalker
+  weight: 0.0115
+  avg_copies: 1.0
+- name: card:daring-waverider
   weight: 0.0115
   avg_copies: 1.0
 ---

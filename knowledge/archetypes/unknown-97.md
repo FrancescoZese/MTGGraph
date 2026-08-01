@@ -12,16 +12,16 @@ top_cards:
 - name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
-- name: Sowing Mycospawn
+- name: Ugin's Labyrinth
+  weight: 1.0
+  avg_copies: 4.0
+- name: Utopia Sprawl
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
-- name: Ugin's Labyrinth
-  weight: 1.0
-  avg_copies: 4.0
-- name: Utopia Sprawl
+- name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
 - name: Ancient Stirrings
@@ -126,13 +126,13 @@ top_cards:
 - name: Ghost Quarter
   weight: 0.2
   avg_copies: 1.0
+- name: Bojuka Bog
+  weight: 0.2
+  avg_copies: 1.0
 - name: Cavern of Souls
   weight: 0.2
   avg_copies: 1.0
 - name: Force of Vigor
-  weight: 0.2
-  avg_copies: 1.0
-- name: Bojuka Bog
   weight: 0.2
   avg_copies: 1.0
 - name: Grafdigger's Cage
@@ -153,6 +153,15 @@ top_cards:
 - name: Karn, the Great Creator
   weight: 0.0667
   avg_copies: 3.0
+- name: Dismember
+  weight: 0.0667
+  avg_copies: 2.0
+- name: Witherbloom Charm
+  weight: 0.0667
+  avg_copies: 2.0
+- name: Damping Sphere
+  weight: 0.0667
+  avg_copies: 2.0
 - name: Talisman of Impulse
   weight: 0.0667
   avg_copies: 2.0
@@ -165,18 +174,27 @@ top_cards:
 - name: Vandalblast
   weight: 0.0667
   avg_copies: 2.0
-- name: Damping Sphere
-  weight: 0.0667
-  avg_copies: 2.0
-- name: Dismember
-  weight: 0.0667
-  avg_copies: 2.0
 - name: Nature's Claim
   weight: 0.0667
   avg_copies: 2.0
-- name: Witherbloom Charm
+- name: Commercial District
   weight: 0.0667
-  avg_copies: 2.0
+  avg_copies: 1.0
+- name: Stomping Ground
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Haywire Mite
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Ensnaring Bridge
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Tormod's Crypt
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Chalice of the Void
+  weight: 0.0667
+  avg_copies: 1.0
 - name: Boseiju, Who Endures
   weight: 0.0667
   avg_copies: 1.0
@@ -186,25 +204,7 @@ top_cards:
 - name: Pithing Needle
   weight: 0.0667
   avg_copies: 1.0
-- name: Commercial District
-  weight: 0.0667
-  avg_copies: 1.0
 - name: All Is Dust
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Ensnaring Bridge
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Stomping Ground
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Haywire Mite
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Chalice of the Void
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Tormod's Crypt
   weight: 0.0667
   avg_copies: 1.0
 ---

@@ -9,16 +9,16 @@ top_cards:
 - name: Hollow One
   weight: 1.0
   avg_copies: 4.0
-- name: Street Wraith
-  weight: 1.0
-  avg_copies: 4.0
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Burning Inquiry
+- name: Street Wraith
+  weight: 1.0
+  avg_copies: 4.0
+- name: Detective's Phoenix
   weight: 1.0
   avg_copies: 3.97
-- name: Detective's Phoenix
+- name: Burning Inquiry
   weight: 1.0
   avg_copies: 3.97
 - name: Bloodstained Mire
@@ -126,10 +126,10 @@ top_cards:
 - name: Liliana of the Veil
   weight: 0.1176
   avg_copies: 1.0
-- name: Blazing Rootwalla
+- name: Vengevine
   weight: 0.0882
   avg_copies: 4.0
-- name: Vengevine
+- name: Blazing Rootwalla
   weight: 0.0882
   avg_copies: 4.0
 - name: Leyline of the Void
@@ -162,34 +162,28 @@ top_cards:
 - name: Pyroclasm
   weight: 0.0588
   avg_copies: 1.5
-- name: Commercial District
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Violent Urge
-  weight: 0.0588
-  avg_copies: 1.0
 - name: Soul-Guide Lantern
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Commercial District
   weight: 0.0588
   avg_copies: 1.0
 - name: Seal of Fire
   weight: 0.0588
   avg_copies: 1.0
+- name: Violent Urge
+  weight: 0.0588
+  avg_copies: 1.0
 - name: Death's Shadow
   weight: 0.0294
   avg_copies: 4.0
-- name: Inti, Seneschal of the Sun
-  weight: 0.0294
-  avg_copies: 2.0
-- name: Flameblade Adept
+- name: Ancient Grudge
   weight: 0.0294
   avg_copies: 2.0
 - name: Cam and Farrik, Havoc Duo
   weight: 0.0294
   avg_copies: 2.0
-- name: Break the Ice
-  weight: 0.0294
-  avg_copies: 2.0
-- name: Ancient Grudge
+- name: Flameblade Adept
   weight: 0.0294
   avg_copies: 2.0
 - name: Rough
@@ -198,10 +192,16 @@ top_cards:
 - name: Magus of the Moon
   weight: 0.0294
   avg_copies: 2.0
-- name: Barbarian Ring
+- name: Inti, Seneschal of the Sun
+  weight: 0.0294
+  avg_copies: 2.0
+- name: Break the Ice
+  weight: 0.0294
+  avg_copies: 2.0
+- name: Shattering Spree
   weight: 0.0294
   avg_copies: 1.0
-- name: Shattering Spree
+- name: Barbarian Ring
   weight: 0.0294
   avg_copies: 1.0
 - name: Overlord of the Balemurk

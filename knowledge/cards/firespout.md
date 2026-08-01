@@ -11,7 +11,7 @@ type: Sorcery
 meta_presence: 0.0124
 archetypes:
   amulet-titan:
-    weight: 0.2099
+    weight: 0.2086
     avg_copies: 1.79
   neoform-combo:
     weight: 0.023
@@ -20,6 +20,6 @@ archetypes:
     weight: 0.0111
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.1449
+    weight: 0.1444
     avg_copies: 1.62
 ---

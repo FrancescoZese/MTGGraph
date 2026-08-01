@@ -34,8 +34,8 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.5543
-    avg_copies: 1.68
+    weight: 0.5523
+    avg_copies: 1.69
   rakdos-aggro:
     weight: 0.1579
     avg_copies: 1.0
@@ -52,10 +52,10 @@ archetypes:
     weight: 0.8182
     avg_copies: 2.44
   unknown-47:
-    weight: 0.0088
+    weight: 0.0087
     avg_copies: 1.0
   unknown-61:
-    weight: 0.5205
+    weight: 0.5135
     avg_copies: 1.2
   unknown-55:
     weight: 1.0
@@ -96,7 +96,7 @@ archetypes:
 cmc: 3
 colors: []
 image: https://cards.scryfall.io/normal/front/3/d/3d286cf6-3e16-4941-9326-1818b1e06d69.jpg?1562261132
-meta_presence: 0.1437
+meta_presence: 0.1435
 name: Dismember
 scryfall_id: 3d286cf6-3e16-4941-9326-1818b1e06d69
 set: mm2

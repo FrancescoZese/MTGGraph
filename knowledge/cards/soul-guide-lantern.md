@@ -12,7 +12,7 @@ archetypes:
     weight: 0.0088
     avg_copies: 2.0
   boros-energy:
-    weight: 0.124
+    weight: 0.1238
     avg_copies: 1.07
   dimir-control:
     weight: 0.0247
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.0067
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.2284
+    weight: 0.227
     avg_copies: 1.0
   goryo:
     weight: 0.0031
@@ -54,13 +54,13 @@ archetypes:
     weight: 0.0111
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.074
+    weight: 0.0769
     avg_copies: 1.04
   esper-blink:
     weight: 0.0088
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.9239
+    weight: 0.9242
     avg_copies: 1.04
   azorius-blink:
     weight: 0.0308
@@ -78,7 +78,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.0245
+    weight: 0.0244
     avg_copies: 1.5
   goryo4:
     weight: 0.3913
@@ -111,7 +111,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-61:
-    weight: 0.0137
+    weight: 0.0135
     avg_copies: 2.0
   unknown-55:
     weight: 1.0
@@ -141,7 +141,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-96:
-    weight: 0.1818
+    weight: 0.1765
     avg_copies: 1.0
   unknown-98:
     weight: 0.875

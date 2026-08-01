@@ -10,10 +10,10 @@ top_cards:
 - name: Thud
   weight: 1.0
   avg_copies: 4.0
-- name: Spoils of the Vault
+- name: Gemstone Caverns
   weight: 1.0
   avg_copies: 3.93
-- name: Gemstone Caverns
+- name: Spoils of the Vault
   weight: 1.0
   avg_copies: 3.93
 - name: Plunge into Darkness
@@ -22,10 +22,10 @@ top_cards:
 - name: Blackcleave Cliffs
   weight: 1.0
   avg_copies: 3.77
-- name: Cosmogoyf
+- name: Serum Powder
   weight: 1.0
   avg_copies: 3.65
-- name: Serum Powder
+- name: Cosmogoyf
   weight: 1.0
   avg_copies: 3.65
 - name: Blooming Marsh
@@ -133,10 +133,10 @@ top_cards:
 - name: Fire Magic
   weight: 0.0698
   avg_copies: 2.33
-- name: Natural State
+- name: Vexing Bauble
   weight: 0.0698
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Natural State
   weight: 0.0698
   avg_copies: 2.0
 - name: Pick Your Poison
@@ -166,13 +166,13 @@ top_cards:
 - name: Mountain
   weight: 0.0233
   avg_copies: 1.0
-- name: Disruptor Flute
+- name: Meltdown
   weight: 0.0233
   avg_copies: 1.0
 - name: Kaheera, the Orphanguard
   weight: 0.0233
   avg_copies: 1.0
-- name: Meltdown
+- name: Disruptor Flute
   weight: 0.0233
   avg_copies: 1.0
 ---

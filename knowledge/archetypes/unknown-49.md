@@ -6,6 +6,12 @@ name: 'Unknown #49'
 meta_share: 0.001
 list_count: 6
 top_cards:
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Kappa Cannoneer
+  weight: 1.0
+  avg_copies: 4.0
 - name: Fiery Islet
   weight: 1.0
   avg_copies: 4.0
@@ -15,13 +21,7 @@ top_cards:
 - name: Welding Jar
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
 - name: Pinnacle Emissary
-  weight: 1.0
-  avg_copies: 4.0
-- name: Kappa Cannoneer
   weight: 1.0
   avg_copies: 4.0
 - name: Tormod's Crypt
@@ -60,22 +60,22 @@ top_cards:
 - name: Shivan Reef
   weight: 0.8333
   avg_copies: 1.2
-- name: Pithing Needle
+- name: Steam Vents
   weight: 0.8333
   avg_copies: 1.0
 - name: Skateboard
   weight: 0.8333
   avg_copies: 1.0
-- name: Steam Vents
+- name: Pithing Needle
   weight: 0.8333
   avg_copies: 1.0
 - name: Thoughtcast
   weight: 0.6667
   avg_copies: 3.25
-- name: Memnite
+- name: Consign to Memory
   weight: 0.6667
   avg_copies: 2.75
-- name: Consign to Memory
+- name: Memnite
   weight: 0.6667
   avg_copies: 2.75
 - name: Whipflare
@@ -102,22 +102,22 @@ top_cards:
 - name: Snow-Covered Island
   weight: 0.1667
   avg_copies: 3.0
-- name: Salvage Titan
-  weight: 0.1667
-  avg_copies: 2.0
 - name: Experimental Synthesizer
-  weight: 0.1667
-  avg_copies: 2.0
-- name: Harbinger of the Seas
   weight: 0.1667
   avg_copies: 2.0
 - name: Disruptor Flute
   weight: 0.1667
   avg_copies: 2.0
-- name: Aether Spellbomb
+- name: Salvage Titan
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Harbinger of the Seas
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Strix Serenade
   weight: 0.1667
   avg_copies: 1.0
-- name: Strix Serenade
+- name: Aether Spellbomb
   weight: 0.1667
   avg_copies: 1.0
 - name: Lavaspur Boots
