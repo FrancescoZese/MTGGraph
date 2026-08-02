@@ -9,16 +9,19 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 5.4
-- name: Blooming Marsh
+- name: Plunge into Darkness
+  weight: 1.0
+  avg_copies: 4.0
+- name: Soul Spike
+  weight: 1.0
+  avg_copies: 4.0
+- name: Serum Powder
   weight: 1.0
   avg_copies: 4.0
 - name: Darkbore Pathway
   weight: 1.0
   avg_copies: 4.0
-- name: Plunge into Darkness
-  weight: 1.0
-  avg_copies: 4.0
-- name: Necrodominance
+- name: Blooming Marsh
   weight: 1.0
   avg_copies: 4.0
 - name: Break the Ice
@@ -27,10 +30,7 @@ top_cards:
 - name: Cosmogoyf
   weight: 1.0
   avg_copies: 4.0
-- name: Soul Spike
-  weight: 1.0
-  avg_copies: 4.0
-- name: Serum Powder
+- name: Necrodominance
   weight: 1.0
   avg_copies: 4.0
 - name: Inquisition of Kozilek
@@ -48,10 +48,10 @@ top_cards:
 - name: Duress
   weight: 1.0
   avg_copies: 2.29
-- name: Fatal Push
+- name: Sheoldred, the Apocalypse
   weight: 1.0
   avg_copies: 2.0
-- name: Sheoldred, the Apocalypse
+- name: Fatal Push
   weight: 1.0
   avg_copies: 2.0
 - name: Takenuma, Abandoned Mire
@@ -63,10 +63,10 @@ top_cards:
 - name: Twilight Mire
   weight: 0.6
   avg_copies: 3.33
-- name: Revitalizing Repast
+- name: Witherbloom Charm
   weight: 0.6
   avg_copies: 2.0
-- name: Witherbloom Charm
+- name: Revitalizing Repast
   weight: 0.6
   avg_copies: 2.0
 - name: Professor Dellian Fel

@@ -2,7 +2,7 @@
 colors:
 - G
 name: Eldrazi Ramp
-meta_share: 0.0199
+meta_share: 0.0197
 list_count: 124
 top_cards:
 - name: Ugin's Labyrinth
@@ -209,49 +209,49 @@ top_cards:
 - name: Blood Moon
   weight: 0.0323
   avg_copies: 2.0
-- name: Palantír of Orthanc
-  weight: 0.0323
-  avg_copies: 1.0
 - name: Origin of Metalbending
-  weight: 0.0323
-  avg_copies: 1.0
-- name: Void Mirror
-  weight: 0.0323
-  avg_copies: 1.0
-- name: Arena of Glory
-  weight: 0.0323
-  avg_copies: 1.0
-- name: Iroh's Demonstration
-  weight: 0.0323
-  avg_copies: 1.0
-- name: Improvisation Capstone
   weight: 0.0323
   avg_copies: 1.0
 - name: Ilharg, the Raze-Boar
   weight: 0.0323
   avg_copies: 1.0
+- name: Arena of Glory
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Improvisation Capstone
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Iroh's Demonstration
+  weight: 0.0323
+  avg_copies: 1.0
 - name: Six
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Palantír of Orthanc
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Void Mirror
   weight: 0.0323
   avg_copies: 1.0
 - name: Talisman of Resilience
   weight: 0.0242
   avg_copies: 2.0
-- name: Blasphemous Act
-  weight: 0.0242
-  avg_copies: 1.67
 - name: Stone Rain
   weight: 0.0242
   avg_copies: 1.67
-- name: Vibrance
+- name: Blasphemous Act
   weight: 0.0242
-  avg_copies: 1.0
+  avg_copies: 1.67
 - name: Redirect Lightning
   weight: 0.0242
   avg_copies: 1.0
-- name: Damping Sphere
+- name: Price of Freedom
   weight: 0.0242
   avg_copies: 1.0
-- name: Price of Freedom
+- name: Vibrance
+  weight: 0.0242
+  avg_copies: 1.0
+- name: Damping Sphere
   weight: 0.0242
   avg_copies: 1.0
 - name: True Ancestry
@@ -266,13 +266,7 @@ top_cards:
 - name: Wastescape Battlemage
   weight: 0.0161
   avg_copies: 1.0
-- name: All Is Dust
-  weight: 0.0161
-  avg_copies: 1.0
 - name: Underground Mortuary
-  weight: 0.0161
-  avg_copies: 1.0
-- name: Thief of Existence
   weight: 0.0161
   avg_copies: 1.0
 - name: Overgrown Tomb
@@ -281,52 +275,52 @@ top_cards:
 - name: Firebending Lesson
   weight: 0.0161
   avg_copies: 1.0
+- name: Thief of Existence
+  weight: 0.0161
+  avg_copies: 1.0
+- name: All Is Dust
+  weight: 0.0161
+  avg_copies: 1.0
 - name: Madcap Experiment
   weight: 0.0081
   avg_copies: 3.0
 - name: Abrupt Decay
   weight: 0.0081
   avg_copies: 2.0
-- name: Relic of Progenitus
-  weight: 0.0081
-  avg_copies: 2.0
 - name: Wrenn and Six
   weight: 0.0081
   avg_copies: 2.0
-- name: The Endstone
+- name: Relic of Progenitus
   weight: 0.0081
-  avg_copies: 1.0
-- name: Ratchet Bomb
-  weight: 0.0081
-  avg_copies: 1.0
-- name: Culling Ritual
-  weight: 0.0081
-  avg_copies: 1.0
-- name: Hedron Archive
-  weight: 0.0081
-  avg_copies: 1.0
-- name: Walking Ballista
-  weight: 0.0081
-  avg_copies: 1.0
-- name: Ketria Triome
-  weight: 0.0081
-  avg_copies: 1.0
-- name: Untimely Malfunction
-  weight: 0.0081
-  avg_copies: 1.0
-- name: Darksteel Citadel
+  avg_copies: 2.0
+- name: card:platinum-emperion
   weight: 0.0081
   avg_copies: 1.0
 - name: Peer Past the Veil
   weight: 0.0081
   avg_copies: 1.0
-- name: Mutable Explorer
-  weight: 0.0081
-  avg_copies: 1.0
-- name: Collector Ouphe
+- name: Endurance
   weight: 0.0081
   avg_copies: 1.0
 - name: card:the-ten-rings
+  weight: 0.0081
+  avg_copies: 1.0
+- name: Ratchet Bomb
+  weight: 0.0081
+  avg_copies: 1.0
+- name: The Endstone
+  weight: 0.0081
+  avg_copies: 1.0
+- name: Hedron Archive
+  weight: 0.0081
+  avg_copies: 1.0
+- name: Darksteel Citadel
+  weight: 0.0081
+  avg_copies: 1.0
+- name: Seismic Sense
+  weight: 0.0081
+  avg_copies: 1.0
+- name: Walking Ballista
   weight: 0.0081
   avg_copies: 1.0
 - name: card:esper-origins
@@ -335,13 +329,19 @@ top_cards:
 - name: Ugin, the Spirit Dragon
   weight: 0.0081
   avg_copies: 1.0
-- name: card:platinum-emperion
+- name: Untimely Malfunction
   weight: 0.0081
   avg_copies: 1.0
-- name: Seismic Sense
+- name: Culling Ritual
   weight: 0.0081
   avg_copies: 1.0
-- name: Endurance
+- name: Mutable Explorer
+  weight: 0.0081
+  avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 0.0081
+  avg_copies: 1.0
+- name: Ketria Triome
   weight: 0.0081
   avg_copies: 1.0
 ---

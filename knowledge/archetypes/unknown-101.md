@@ -6,19 +6,19 @@ name: 'Unknown #101'
 meta_share: 0.0019
 list_count: 12
 top_cards:
-- name: Hollow One
-  weight: 1.0
-  avg_copies: 4.0
-- name: Nethergoyf
+- name: Detective's Phoenix
   weight: 1.0
   avg_copies: 4.0
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
+- name: Nethergoyf
+  weight: 1.0
+  avg_copies: 4.0
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
-- name: Detective's Phoenix
+- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
 - name: Blood Crypt
@@ -36,10 +36,10 @@ top_cards:
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.08
-- name: Marauding Mako
+- name: Burning Inquiry
   weight: 0.9167
   avg_copies: 4.0
-- name: Burning Inquiry
+- name: Marauding Mako
   weight: 0.9167
   avg_copies: 4.0
 - name: Lightning Bolt
@@ -102,13 +102,13 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.3333
   avg_copies: 1.25
+- name: Polluted Delta
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Marsh Flats
   weight: 0.3333
   avg_copies: 1.0
 - name: Mount Doom
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Polluted Delta
   weight: 0.3333
   avg_copies: 1.0
 - name: Inti, Seneschal of the Sun
@@ -138,16 +138,16 @@ top_cards:
 - name: Wear
   weight: 0.0833
   avg_copies: 2.0
-- name: Sacred Foundry
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Sheoldred's Edict
-  weight: 0.0833
-  avg_copies: 1.0
 - name: Blackcleave Cliffs
   weight: 0.0833
   avg_copies: 1.0
 - name: Cool but Rude
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Abrade
   weight: 0.0833
   avg_copies: 1.0
 - name: Seal of Fire
@@ -156,7 +156,7 @@ top_cards:
 - name: Molten Collapse
   weight: 0.0833
   avg_copies: 1.0
-- name: Abrade
+- name: Sheoldred's Edict
   weight: 0.0833
   avg_copies: 1.0
 ---

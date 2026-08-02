@@ -4,8 +4,8 @@ colors:
 - B
 - G
 name: 'Unknown #126'
-meta_share: 0.005
-list_count: 31
+meta_share: 0.0051
+list_count: 32
 top_cards:
 - name: Nature's Rhythm
   weight: 1.0
@@ -18,189 +18,189 @@ top_cards:
   avg_copies: 3.94
 - name: Badgermole Cub
   weight: 1.0
-  avg_copies: 3.9
+  avg_copies: 3.91
 - name: Tyvar, Jubilant Brawler
   weight: 1.0
   avg_copies: 3.81
 - name: Delighted Halfling
   weight: 1.0
-  avg_copies: 3.81
+  avg_copies: 3.78
 - name: Verdant Catacombs
   weight: 1.0
-  avg_copies: 3.77
+  avg_copies: 3.75
 - name: Windswept Heath
   weight: 1.0
-  avg_copies: 3.55
+  avg_copies: 3.5
 - name: Agatha's Soul Cauldron
   weight: 1.0
-  avg_copies: 2.42
+  avg_copies: 2.41
 - name: Vizier of Remedies
   weight: 1.0
-  avg_copies: 2.32
+  avg_copies: 2.28
 - name: Endurance
   weight: 1.0
-  avg_copies: 1.59
+  avg_copies: 1.61
 - name: Boseiju, Who Endures
   weight: 1.0
-  avg_copies: 1.48
+  avg_copies: 1.47
 - name: Overgrown Tomb
   weight: 1.0
-  avg_copies: 1.39
+  avg_copies: 1.41
 - name: Dryad Arbor
   weight: 1.0
-  avg_copies: 1.23
-- name: Duskwatch Recruiter
-  weight: 1.0
-  avg_copies: 1.0
-- name: Collector Ouphe
+  avg_copies: 1.25
+- name: Walking Ballista
   weight: 1.0
   avg_copies: 1.0
 - name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
-- name: Walking Ballista
+- name: Collector Ouphe
+  weight: 1.0
+  avg_copies: 1.0
+- name: Duskwatch Recruiter
   weight: 1.0
   avg_copies: 1.0
 - name: card:birds-of-paradise
-  weight: 0.9677
-  avg_copies: 1.3
+  weight: 0.9688
+  avg_copies: 1.29
 - name: Underground Mortuary
-  weight: 0.9677
+  weight: 0.9688
   avg_copies: 1.0
 - name: Ouroboroid
-  weight: 0.9032
+  weight: 0.9062
   avg_copies: 1.07
-- name: Kraul Harpooner
-  weight: 0.8387
-  avg_copies: 1.0
 - name: Outland Liberator
-  weight: 0.8387
+  weight: 0.8438
+  avg_copies: 1.0
+- name: Kraul Harpooner
+  weight: 0.8438
   avg_copies: 1.0
 - name: Misty Rainforest
-  weight: 0.7742
-  avg_copies: 1.17
+  weight: 0.7812
+  avg_copies: 1.2
 - name: Grist, the Hunger Tide
-  weight: 0.7419
+  weight: 0.75
   avg_copies: 1.0
 - name: Eternal Witness
-  weight: 0.7419
+  weight: 0.75
   avg_copies: 1.0
 - name: Shifting Woodland
-  weight: 0.7097
+  weight: 0.6875
   avg_copies: 1.77
+- name: Suncleanser
+  weight: 0.6875
+  avg_copies: 1.0
 - name: Keen-Eyed Curator
-  weight: 0.7097
+  weight: 0.6875
   avg_copies: 1.0
 - name: Godless Shrine
-  weight: 0.7097
+  weight: 0.6875
   avg_copies: 1.0
 - name: Lush Portico
-  weight: 0.6774
-  avg_copies: 1.0
-- name: Suncleanser
-  weight: 0.6774
+  weight: 0.6562
   avg_copies: 1.0
 - name: Malevolent Rumble
-  weight: 0.6452
+  weight: 0.625
   avg_copies: 3.1
 - name: Force of Vigor
-  weight: 0.6452
+  weight: 0.625
   avg_copies: 2.1
 - name: Craterhoof Behemoth
-  weight: 0.6129
+  weight: 0.625
   avg_copies: 1.0
-- name: Damping Sphere
-  weight: 0.5806
-  avg_copies: 1.22
 - name: Forest
-  weight: 0.5484
-  avg_copies: 2.94
+  weight: 0.5625
+  avg_copies: 2.83
+- name: Damping Sphere
+  weight: 0.5625
+  avg_copies: 1.22
 - name: Sylvan Safekeeper
-  weight: 0.5484
+  weight: 0.5312
   avg_copies: 1.0
 - name: Orim's Chant
-  weight: 0.5161
+  weight: 0.5
   avg_copies: 2.88
-- name: card:ethersworn-canonist
-  weight: 0.4839
-  avg_copies: 1.0
 - name: Fatal Push
-  weight: 0.4516
-  avg_copies: 2.79
-- name: Snow-Covered Forest
-  weight: 0.4516
-  avg_copies: 2.07
+  weight: 0.4688
+  avg_copies: 2.8
 - name: Vexing Bauble
-  weight: 0.4516
-  avg_copies: 1.86
+  weight: 0.4688
+  avg_copies: 1.87
+- name: card:ethersworn-canonist
+  weight: 0.4688
+  avg_copies: 1.0
+- name: Snow-Covered Forest
+  weight: 0.4375
+  avg_copies: 2.07
 - name: Drannith Magistrate
-  weight: 0.3871
+  weight: 0.4062
   avg_copies: 1.0
 - name: card:shang-chi-master-of-kung-fu
-  weight: 0.3871
+  weight: 0.4062
   avg_copies: 1.0
 - name: Leyline of Abundance
-  weight: 0.3548
-  avg_copies: 4.0
+  weight: 0.375
+  avg_copies: 3.75
 - name: Fade from History
-  weight: 0.3548
+  weight: 0.375
   avg_copies: 2.0
 - name: card:fiend-artisan
-  weight: 0.3548
+  weight: 0.375
   avg_copies: 1.0
 - name: Nurturing Peatland
-  weight: 0.2903
+  weight: 0.3125
   avg_copies: 1.0
 - name: Wooded Foothills
-  weight: 0.2258
-  avg_copies: 1.71
+  weight: 0.25
+  avg_copies: 1.75
 - name: Pithing Needle
-  weight: 0.1935
+  weight: 0.1875
   avg_copies: 1.5
 - name: Chord of Calling
-  weight: 0.129
+  weight: 0.125
   avg_copies: 1.0
 - name: card:guerrilla-gorilla
-  weight: 0.0968
+  weight: 0.0938
   avg_copies: 1.0
 - name: Deafening Silence
-  weight: 0.0645
+  weight: 0.0625
   avg_copies: 1.5
-- name: Burrenton Forge-Tender
-  weight: 0.0323
-  avg_copies: 2.0
 - name: High Noon
-  weight: 0.0323
-  avg_copies: 2.0
-- name: Postmortem Lunge
-  weight: 0.0323
+  weight: 0.0312
   avg_copies: 2.0
 - name: Thoughtseize
-  weight: 0.0323
+  weight: 0.0312
   avg_copies: 2.0
-- name: card:dauntless-escort
-  weight: 0.0323
-  avg_copies: 1.0
-- name: Horizon Canopy
-  weight: 0.0323
+- name: Postmortem Lunge
+  weight: 0.0312
+  avg_copies: 2.0
+- name: Burrenton Forge-Tender
+  weight: 0.0312
+  avg_copies: 2.0
+- name: Formidable Speaker
+  weight: 0.0312
   avg_copies: 1.0
 - name: Rhonas the Indomitable
-  weight: 0.0323
+  weight: 0.0312
   avg_copies: 1.0
-- name: Formidable Speaker
-  weight: 0.0323
+- name: card:dauntless-escort
+  weight: 0.0312
   avg_copies: 1.0
 - name: card:mark-of-asylum
-  weight: 0.0323
+  weight: 0.0312
   avg_copies: 1.0
 - name: Crystal Barricade
-  weight: 0.0323
+  weight: 0.0312
   avg_copies: 1.0
 - name: Six
-  weight: 0.0323
+  weight: 0.0312
+  avg_copies: 1.0
+- name: Horizon Canopy
+  weight: 0.0312
   avg_copies: 1.0
 - name: Reclamation Sage
-  weight: 0.0323
+  weight: 0.0312
   avg_copies: 1.0
 ---
 Unclassified archetype, pending review.

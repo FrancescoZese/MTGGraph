@@ -10,7 +10,7 @@ type: Enchantment
 meta_presence: 0.0084
 archetypes:
   goryo:
-    weight: 0.0061
+    weight: 0.006
     avg_copies: 3.5
   mill:
     weight: 0.0294
@@ -25,22 +25,22 @@ archetypes:
     weight: 0.1333
     avg_copies: 4.0
   dredge:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 2.0
   rakdos-aggro:
     weight: 0.1053
     avg_copies: 4.0
   cosmogoyf-fling:
-    weight: 0.093
+    weight: 0.0909
     avg_copies: 1.0
   goryo0:
     weight: 0.0476
     avg_copies: 3.0
   goryo1:
-    weight: 0.0061
+    weight: 0.006
     avg_copies: 3.0
   goryo4:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 4.0
   unknown-40:
     weight: 1.0
@@ -49,7 +49,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 4.0
   unknown-67:
-    weight: 0.1392
+    weight: 0.1375
     avg_copies: 3.0
   unknown-74:
     weight: 1.0
@@ -58,8 +58,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.2059
-    avg_copies: 3.29
+    weight: 0.2162
+    avg_copies: 3.38
   unknown-101:
     weight: 0.3333
     avg_copies: 4.0

@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.032
 archetypes:
   amulet-titan:
-    weight: 0.0123
+    weight: 0.0121
     avg_copies: 1.0
   mill:
     weight: 0.2353
@@ -24,8 +24,8 @@ archetypes:
     weight: 0.871
     avg_copies: 1.13
   broodscale-combo:
-    weight: 0.0505
-    avg_copies: 1.06
+    weight: 0.0502
+    avg_copies: 1.05
   scapeshift-combo:
     weight: 0.8333
     avg_copies: 1.2
@@ -33,7 +33,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo4:
-    weight: 0.1304
+    weight: 0.125
     avg_copies: 1.4
   unknown-4:
     weight: 1.0
@@ -51,7 +51,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-61:
-    weight: 0.473
+    weight: 0.45
     avg_copies: 1.0
   unknown-76:
     weight: 0.3333
@@ -69,6 +69,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-202:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-226:
     weight: 1.0
     avg_copies: 1.0
 ---

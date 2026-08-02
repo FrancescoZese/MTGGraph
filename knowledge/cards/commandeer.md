@@ -7,16 +7,16 @@ name: Commandeer
 scryfall_id: dca0a9a8-5ebc-43a3-8450-420ab6b7b76e
 set: cmm
 type: Instant
-meta_presence: 0.0135
+meta_presence: 0.0134
 archetypes:
   mono-blue-belcher:
-    weight: 0.2857
+    weight: 0.2824
     avg_copies: 1.46
   azorius-control:
-    weight: 0.0112
+    weight: 0.011
     avg_copies: 1.0
   living-end:
-    weight: 0.5429
+    weight: 0.5278
     avg_copies: 1.15
   mono-blue-tron:
     weight: 0.087
@@ -28,7 +28,7 @@ archetypes:
     weight: 0.0345
     avg_copies: 2.0
   unknown-67:
-    weight: 0.1646
+    weight: 0.1625
     avg_copies: 1.38
   unknown-104:
     weight: 1.0

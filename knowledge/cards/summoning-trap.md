@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0074
     avg_copies: 3.0
   neoform-combo:
-    weight: 0.0115
+    weight: 0.0111
     avg_copies: 4.0
   unknown-54:
     weight: 0.6667

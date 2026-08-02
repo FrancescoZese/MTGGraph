@@ -10,8 +10,8 @@ type: Sorcery
 meta_presence: 0.0269
 archetypes:
   amulet-titan:
-    weight: 0.9877
-    avg_copies: 3.58
+    weight: 0.9879
+    avg_copies: 3.59
   scapeshift-combo:
     weight: 0.1667
     avg_copies: 2.0

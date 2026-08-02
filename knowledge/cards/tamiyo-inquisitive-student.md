@@ -12,19 +12,19 @@ archetypes:
     weight: 0.4691
     avg_copies: 2.24
   mono-blue-belcher:
-    weight: 0.25
+    weight: 0.2471
     avg_copies: 1.81
   jeskai-energy:
     weight: 0.0376
     avg_copies: 1.4
   azorius-control:
-    weight: 0.0225
+    weight: 0.022
     avg_copies: 1.0
   jeskai-control:
     weight: 0.0926
     avg_copies: 3.0
   affinity:
-    weight: 0.004
+    weight: 0.0039
     avg_copies: 2.0
   mill:
     weight: 0.0588
@@ -51,7 +51,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.0061
+    weight: 0.006
     avg_copies: 2.0
   grixis-control:
     weight: 1.0
@@ -90,8 +90,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-47:
-    weight: 0.7652
-    avg_copies: 2.24
+    weight: 0.7672
+    avg_copies: 2.21
   unknown-51:
     weight: 1.0
     avg_copies: 4.0
@@ -141,7 +141,7 @@ archetypes:
     weight: 0.1111
     avg_copies: 4.0
   unknown-139:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 1.0
   unknown-155:
     weight: 1.0
@@ -176,4 +176,7 @@ archetypes:
   unknown-214:
     weight: 1.0
     avg_copies: 2.0
+  unknown-227:
+    weight: 1.0
+    avg_copies: 4.0
 ---

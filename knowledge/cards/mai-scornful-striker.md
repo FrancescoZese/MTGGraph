@@ -7,13 +7,13 @@ name: Mai, Scornful Striker
 scryfall_id: 74dd4c0e-27b8-4c47-b7a6-a281413cd6b4
 set: tla
 type: Legendary Creature — Human Noble Ally
-meta_presence: 0.0093
+meta_presence: 0.0092
 archetypes:
   necrodominance:
     weight: 0.0227
     avg_copies: 2.0
   living-end:
-    weight: 0.5429
+    weight: 0.5278
     avg_copies: 1.0
   reanimator:
     weight: 0.037
@@ -28,10 +28,10 @@ archetypes:
     weight: 0.5714
     avg_copies: 2.75
   goryo1:
-    weight: 0.0122
+    weight: 0.012
     avg_copies: 2.0
   soultrader-combo:
-    weight: 0.1667
+    weight: 0.1429
     avg_copies: 1.0
   unknown-45:
     weight: 0.069

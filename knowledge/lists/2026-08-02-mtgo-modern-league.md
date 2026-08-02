@@ -1,0 +1,44 @@
+---
+archetype: broodscale-combo
+date: '2026-08-02'
+finish: 5-0
+pilot: Prim3Time
+source: MTGO Modern League
+---
+
+
+# Mainboard
+6 Forest
+1 Gemstone Caverns
+4 Grove of the Burnwillows
+1 Springleaf Drum
+3 Blade of the Bloodchief
+4 Ancient Stirrings
+4 Eldrazi Temple
+2 Dismember
+1 Cavern of Souls
+1 Soul-Guide Lantern
+4 Urza's Saga
+2 Boseiju, Who Endures
+1 Haywire Mite
+1 The Mycosynth Gardens
+2 Delighted Halfling
+4 Basking Broodscale
+4 Malevolent Rumble
+3 Vexing Bauble
+4 Sowing Mycospawn
+4 Kozilek's Command
+1 Glaring Fleshraker
+3 Emrakul, the Promised End
+
+# Sideboard
+1 Trinisphere
+1 Pithing Needle
+2 Nature's Claim
+1 Ghost Quarter
+1 Grafdigger's Cage
+2 Warping Wail
+2 Soulless Jailer
+2 Thief of Existence
+2 Six
+1 Sire of Seven Deaths

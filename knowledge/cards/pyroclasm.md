@@ -7,16 +7,16 @@ name: Pyroclasm
 scryfall_id: 4391b0af-2f26-4a45-9e2a-5bd8e9838107
 set: dsk
 type: Sorcery
-meta_presence: 0.0566
+meta_presence: 0.0564
 archetypes:
   ruby-storm:
-    weight: 0.0221
+    weight: 0.022
     avg_copies: 1.2
   amulet-titan:
-    weight: 0.0184
+    weight: 0.0182
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0225
+    weight: 0.022
     avg_copies: 1.5
   domain-zoo:
     weight: 0.2
@@ -34,10 +34,10 @@ archetypes:
     weight: 0.0222
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.0353
+    weight: 0.0349
     avg_copies: 1.45
   broodscale-combo:
-    weight: 0.13
+    weight: 0.129
     avg_copies: 1.69
   izzet-artifacts:
     weight: 0.0938
@@ -55,7 +55,7 @@ archetypes:
     weight: 0.3158
     avg_copies: 1.83
   cosmogoyf-fling:
-    weight: 0.0233
+    weight: 0.0227
     avg_copies: 2.0
   scapeshift-combo:
     weight: 0.3333
@@ -64,7 +64,7 @@ archetypes:
     weight: 0.1905
     avg_copies: 2.0
   goryo1:
-    weight: 0.9085
+    weight: 0.9096
     avg_copies: 1.81
   unknown-4:
     weight: 1.0
@@ -112,10 +112,10 @@ archetypes:
     weight: 0.0625
     avg_copies: 1.0
   unknown-86:
-    weight: 0.1818
+    weight: 0.1667
     avg_copies: 2.5
   unknown-96:
-    weight: 0.0294
+    weight: 0.027
     avg_copies: 1.0
   unknown-90:
     weight: 1.0
@@ -142,7 +142,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-139:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 2.0
   unknown-156:
     weight: 0.6667

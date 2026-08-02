@@ -9,7 +9,7 @@ type: Legendary Creature — Eldrazi
 meta_presence: 0.0027
 archetypes:
   eldrazi-tron:
-    weight: 0.0435
+    weight: 0.0433
     avg_copies: 1.0
   jeskai-control:
     weight: 0.0185
@@ -18,7 +18,7 @@ archetypes:
     weight: 0.0071
     avg_copies: 1.0
   goryo4:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 1.0
   unknown-143:
     weight: 1.0

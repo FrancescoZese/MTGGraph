@@ -13,9 +13,9 @@ archetypes:
     weight: 0.0088
     avg_copies: 1.0
   dredge:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 3.0
   goryo2:
-    weight: 0.05
+    weight: 0.0435
     avg_copies: 1.0
 ---

@@ -7,31 +7,25 @@ name: Esper Midrange
 meta_share: 0.0002
 list_count: 1
 top_cards:
-- name: Flooded Strand
-  weight: 1.0
-  avg_copies: 4.0
-- name: No More Lies
-  weight: 1.0
-  avg_copies: 4.0
-- name: Consign to Memory
-  weight: 1.0
-  avg_copies: 4.0
 - name: Psychic Frog
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ketramose, the New Dawn
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
+- name: Consign to Memory
+  weight: 1.0
+  avg_copies: 4.0
+- name: No More Lies
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ketramose, the New Dawn
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
 - name: Prismatic Ending
-  weight: 1.0
-  avg_copies: 3.0
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 3.0
-- name: Pest Control
   weight: 1.0
   avg_copies: 3.0
 - name: Subtlety
@@ -40,16 +34,25 @@ top_cards:
 - name: Force of Negation
   weight: 1.0
   avg_copies: 3.0
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 3.0
+- name: Pest Control
+  weight: 1.0
+  avg_copies: 3.0
 - name: Solitude
   weight: 1.0
   avg_copies: 3.0
+- name: Damping Sphere
+  weight: 1.0
+  avg_copies: 2.0
+- name: Thoughtseize
+  weight: 1.0
+  avg_copies: 2.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 2.0
-- name: Relic of Progenitus
-  weight: 1.0
-  avg_copies: 2.0
-- name: Damping Sphere
+- name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 2.0
 - name: Preordain
@@ -58,10 +61,7 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 2.0
-- name: Tamiyo, Inquisitive Student
+- name: Relic of Progenitus
   weight: 1.0
   avg_copies: 2.0
 - name: Spell Snare
@@ -70,19 +70,13 @@ top_cards:
 - name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
-- name: Sheoldred's Edict
+- name: Celestial Purge
   weight: 1.0
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Floodfarm Verge
   weight: 1.0
   avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 1.0
-  avg_copies: 1.0
-- name: Otawara, Soaring City
-  weight: 1.0
-  avg_copies: 1.0
-- name: Strategic Betrayal
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
 - name: Shadowy Backstreet
@@ -91,28 +85,34 @@ top_cards:
 - name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
-- name: Teferi, Time Raveler
-  weight: 1.0
-  avg_copies: 1.0
-- name: Floodfarm Verge
-  weight: 1.0
-  avg_copies: 1.0
 - name: Swamp
+  weight: 1.0
+  avg_copies: 1.0
+- name: Island
+  weight: 1.0
+  avg_copies: 1.0
+- name: Meticulous Archive
+  weight: 1.0
+  avg_copies: 1.0
+- name: Strategic Betrayal
   weight: 1.0
   avg_copies: 1.0
 - name: Darkslick Shores
   weight: 1.0
   avg_copies: 1.0
-- name: Celestial Purge
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
 - name: Plains
   weight: 1.0
   avg_copies: 1.0
-- name: Godless Shrine
+- name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Teferi, Time Raveler
+  weight: 1.0
+  avg_copies: 1.0
+- name: Sheoldred's Edict
   weight: 1.0
   avg_copies: 1.0
 ---

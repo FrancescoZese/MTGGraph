@@ -13,25 +13,25 @@ top_cards:
 - name: Erode
   weight: 1.0
   avg_copies: 4.0
-- name: Icetill Explorer
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mountain
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 4.0
 - name: Valakut, the Molten Pinnacle
   weight: 1.0
   avg_copies: 4.0
-- name: Wooded Foothills
+- name: Mountain
+  weight: 1.0
+  avg_copies: 4.0
+- name: Icetill Explorer
   weight: 1.0
   avg_copies: 4.0
 - name: Wrenn and Six
   weight: 1.0
   avg_copies: 3.67
-- name: Arboreal Grazer
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 3.33
-- name: Arid Mesa
+- name: Arboreal Grazer
   weight: 1.0
   avg_copies: 3.33
 - name: Dryad of the Ilysian Grove
@@ -40,10 +40,10 @@ top_cards:
 - name: High Noon
   weight: 1.0
   avg_copies: 2.67
-- name: Fire Magic
+- name: Scapeshift
   weight: 1.0
   avg_copies: 2.67
-- name: Scapeshift
+- name: Fire Magic
   weight: 1.0
   avg_copies: 2.67
 - name: Windswept Heath
@@ -52,25 +52,25 @@ top_cards:
 - name: Commercial District
   weight: 1.0
   avg_copies: 2.33
-- name: Stomping Ground
-  weight: 1.0
-  avg_copies: 2.0
 - name: Force of Vigor
   weight: 1.0
   avg_copies: 2.0
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 2.0
+- name: Stomping Ground
+  weight: 1.0
+  avg_copies: 2.0
 - name: Surgical Extraction
   weight: 1.0
   avg_copies: 1.33
+- name: Forest
+  weight: 1.0
+  avg_copies: 1.0
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
 - name: Jetmir's Garden
-  weight: 1.0
-  avg_copies: 1.0
-- name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Elegant Parlor
@@ -94,16 +94,16 @@ top_cards:
 - name: Ghost Vacuum
   weight: 0.6667
   avg_copies: 1.5
-- name: Temple Garden
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Boseiju, Who Endures
-  weight: 0.6667
-  avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.6667
   avg_copies: 1.0
 - name: Endurance
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Temple Garden
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Boseiju, Who Endures
   weight: 0.6667
   avg_copies: 1.0
 - name: Orim's Chant
@@ -112,7 +112,7 @@ top_cards:
 - name: Prismatic Omen
   weight: 0.3333
   avg_copies: 2.0
-- name: Meltdown
+- name: Fade from History
   weight: 0.3333
   avg_copies: 1.0
 - name: Shatterstorm
@@ -121,7 +121,7 @@ top_cards:
 - name: Primeval Titan
   weight: 0.3333
   avg_copies: 1.0
-- name: Fade from History
+- name: Meltdown
   weight: 0.3333
   avg_copies: 1.0
 ---

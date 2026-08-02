@@ -16,7 +16,7 @@ archetypes:
     weight: 0.0588
     avg_copies: 1.0
   dredge:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 3.0
   rakdos-aggro:
     weight: 0.1053

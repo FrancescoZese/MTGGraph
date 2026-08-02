@@ -6,16 +6,16 @@ name: Isochron Scepter
 scryfall_id: 2aa24fe0-e275-4307-b26c-2a656068a451
 set: 2xm
 type: Artifact
-meta_presence: 0.0254
+meta_presence: 0.0255
 archetypes:
   mono-blue-belcher:
-    weight: 0.0119
+    weight: 0.0118
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.0075
     avg_copies: 2.0
   azorius-control:
-    weight: 0.9775
+    weight: 0.978
     avg_copies: 1.57
   jeskai-control:
     weight: 0.9259

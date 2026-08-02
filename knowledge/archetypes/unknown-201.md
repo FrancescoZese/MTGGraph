@@ -10,25 +10,25 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 1.0
   avg_copies: 4.0
-- name: Orcish Bowmasters
-  weight: 1.0
-  avg_copies: 4.0
-- name: Bloodstained Mire
+- name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
-- name: Galvanic Discharge
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ajani, Nacatl Pariah
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 4.0
-- name: Ob Nixilis, the Adversary
+- name: Galvanic Discharge
+  weight: 1.0
+  avg_copies: 4.0
+- name: Bloodstained Mire
+  weight: 1.0
+  avg_copies: 4.0
+- name: Sanctifier en-Vec
   weight: 1.0
   avg_copies: 3.0
 - name: Marsh Flats
@@ -40,19 +40,19 @@ top_cards:
 - name: Wear
   weight: 1.0
   avg_copies: 3.0
+- name: Ob Nixilis, the Adversary
+  weight: 1.0
+  avg_copies: 3.0
 - name: Deafening Silence
   weight: 1.0
   avg_copies: 3.0
-- name: Sanctifier en-Vec
-  weight: 1.0
-  avg_copies: 3.0
-- name: Arena of Glory
-  weight: 1.0
-  avg_copies: 2.0
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 2.0
 - name: Vexing Bauble
+  weight: 1.0
+  avg_copies: 2.0
+- name: Arena of Glory
   weight: 1.0
   avg_copies: 2.0
 - name: Plains
@@ -61,7 +61,7 @@ top_cards:
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
 - name: Shadowy Backstreet
@@ -73,16 +73,16 @@ top_cards:
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
+- name: Ocelot Pride
+  weight: 1.0
+  avg_copies: 1.0
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
+- name: Raucous Theater
+  weight: 1.0
+  avg_copies: 1.0
 - name: Guide of Souls
-  weight: 1.0
-  avg_copies: 1.0
-- name: Godless Shrine
-  weight: 1.0
-  avg_copies: 1.0
-- name: Ocelot Pride
   weight: 1.0
   avg_copies: 1.0
 ---

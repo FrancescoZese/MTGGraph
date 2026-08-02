@@ -28,10 +28,10 @@ top_cards:
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 3.5
-- name: Consign to Memory
+- name: Mox Amber
   weight: 1.0
   avg_copies: 3.0
-- name: Mox Amber
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
 - name: Portable Hole
@@ -55,40 +55,40 @@ top_cards:
 - name: Flame of Anor
   weight: 1.0
   avg_copies: 1.33
-- name: Sacred Foundry
-  weight: 1.0
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 1.0
-  avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 1.0
-  avg_copies: 1.0
-- name: Steam Vents
+- name: Aether Spellbomb
   weight: 1.0
   avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 1.0
-- name: Thundering Falls
-  weight: 1.0
-  avg_copies: 1.0
-- name: Aether Spellbomb
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
+- name: Thundering Falls
+  weight: 1.0
+  avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 1.0
+  avg_copies: 1.0
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.0
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 1.0
+  avg_copies: 1.0
+- name: Erayo, Soratami Ascendant
+  weight: 0.5
+  avg_copies: 3.0
 - name: Arid Mesa
   weight: 0.5
   avg_copies: 3.0
 - name: Metallic Rebuke
-  weight: 0.5
-  avg_copies: 3.0
-- name: Erayo, Soratami Ascendant
   weight: 0.5
   avg_copies: 3.0
 - name: Swan Song
@@ -97,10 +97,10 @@ top_cards:
 - name: Narset, Jeskai Waymaster
   weight: 0.5
   avg_copies: 2.0
-- name: Expressive Iteration
+- name: Phlage, Titan of Fire's Fury
   weight: 0.5
   avg_copies: 2.0
-- name: Phlage, Titan of Fire's Fury
+- name: Expressive Iteration
   weight: 0.5
   avg_copies: 2.0
 - name: Unholy Heat
@@ -109,25 +109,7 @@ top_cards:
 - name: Wear
   weight: 0.5
   avg_copies: 2.0
-- name: Shadowspear
-  weight: 0.5
-  avg_copies: 1.0
-- name: Otawara, Soaring City
-  weight: 0.5
-  avg_copies: 1.0
-- name: Skateboard
-  weight: 0.5
-  avg_copies: 1.0
-- name: Haywire Mite
-  weight: 0.5
-  avg_copies: 1.0
-- name: Snow-Covered Mountain
-  weight: 0.5
-  avg_copies: 1.0
 - name: Snow-Covered Island
-  weight: 0.5
-  avg_copies: 1.0
-- name: Island
   weight: 0.5
   avg_copies: 1.0
 - name: Torpor Orb
@@ -136,10 +118,28 @@ top_cards:
 - name: Hurkyl's Recall
   weight: 0.5
   avg_copies: 1.0
+- name: Otawara, Soaring City
+  weight: 0.5
+  avg_copies: 1.0
+- name: Snow-Covered Mountain
+  weight: 0.5
+  avg_copies: 1.0
 - name: Lavaspur Boots
   weight: 0.5
   avg_copies: 1.0
+- name: Skateboard
+  weight: 0.5
+  avg_copies: 1.0
+- name: Island
+  weight: 0.5
+  avg_copies: 1.0
+- name: Shadowspear
+  weight: 0.5
+  avg_copies: 1.0
 - name: Sevinne's Reclamation
+  weight: 0.5
+  avg_copies: 1.0
+- name: Haywire Mite
   weight: 0.5
   avg_copies: 1.0
 ---

@@ -6,16 +6,16 @@ name: 'Unknown #46'
 meta_share: 0.0013
 list_count: 8
 top_cards:
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 4.0
-- name: Necrodominance
+- name: Soul Spike
   weight: 1.0
   avg_copies: 4.0
 - name: Boggart Trawler
   weight: 1.0
   avg_copies: 4.0
-- name: Soul Spike
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 4.0
+- name: Necrodominance
   weight: 1.0
   avg_copies: 4.0
 - name: Swamp
@@ -39,16 +39,16 @@ top_cards:
 - name: Dauthi Voidwalker
   weight: 1.0
   avg_copies: 2.38
-- name: Culling Ritual
-  weight: 1.0
-  avg_copies: 2.12
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.12
-- name: Marsh Flats
+- name: Culling Ritual
+  weight: 1.0
+  avg_copies: 2.12
+- name: Underground Mortuary
   weight: 1.0
   avg_copies: 2.0
-- name: Underground Mortuary
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 2.0
 - name: Overgrown Tomb
@@ -99,10 +99,10 @@ top_cards:
 - name: Graveyard Trespasser
   weight: 0.25
   avg_copies: 1.5
-- name: Nurturing Peatland
+- name: Fell the Profane
   weight: 0.25
   avg_copies: 1.0
-- name: Fell the Profane
+- name: Nurturing Peatland
   weight: 0.25
   avg_copies: 1.0
 ---

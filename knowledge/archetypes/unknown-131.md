@@ -7,13 +7,13 @@ name: 'Unknown #131'
 meta_share: 0.0013
 list_count: 8
 top_cards:
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 4.0
-- name: Quantum Riddler
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
@@ -22,19 +22,19 @@ top_cards:
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
-  weight: 1.0
-  avg_copies: 4.0
-- name: Guide of Souls
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
-- name: Starfield Shepherd
+- name: Guide of Souls
+  weight: 1.0
+  avg_copies: 4.0
+- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.75
-- name: Phelia, Exuberant Shepherd
+- name: Starfield Shepherd
   weight: 1.0
   avg_copies: 3.75
 - name: Practiced Offense
@@ -55,22 +55,22 @@ top_cards:
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.75
-- name: Hallowed Fountain
+- name: Plains
   weight: 1.0
   avg_copies: 1.75
-- name: Plains
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.75
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.12
+- name: Shadowy Backstreet
+  weight: 1.0
+  avg_copies: 1.0
 - name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
 - name: Island
-  weight: 1.0
-  avg_copies: 1.0
-- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Deafening Silence
@@ -121,13 +121,13 @@ top_cards:
 - name: Voice of Victory
   weight: 0.125
   avg_copies: 2.0
-- name: Elesh Norn, Mother of Machines
+- name: Clarion Conqueror
   weight: 0.125
   avg_copies: 1.0
 - name: Swamp
   weight: 0.125
   avg_copies: 1.0
-- name: Clarion Conqueror
+- name: Elesh Norn, Mother of Machines
   weight: 0.125
   avg_copies: 1.0
 ---

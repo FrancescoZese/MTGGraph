@@ -5,16 +5,16 @@ name: Hardened Scales
 meta_share: 0.0006
 list_count: 4
 top_cards:
-- name: Hardened Scales
+- name: Inkmoth Nexus
+  weight: 1.0
+  avg_copies: 4.0
+- name: Walking Ballista
   weight: 1.0
   avg_copies: 4.0
 - name: Arcbound Ravager
   weight: 1.0
   avg_copies: 4.0
-- name: Inkmoth Nexus
-  weight: 1.0
-  avg_copies: 4.0
-- name: Walking Ballista
+- name: Hardened Scales
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
@@ -29,16 +29,16 @@ top_cards:
 - name: Darksteel Citadel
   weight: 1.0
   avg_copies: 3.25
-- name: Agatha's Soul Cauldron
-  weight: 1.0
-  avg_copies: 3.0
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 3.0
-- name: Whipflare
+- name: Agatha's Soul Cauldron
+  weight: 1.0
+  avg_copies: 3.0
+- name: Forest
   weight: 1.0
   avg_copies: 2.25
-- name: Forest
+- name: Whipflare
   weight: 1.0
   avg_copies: 2.25
 - name: Arcbound Worker
@@ -56,10 +56,10 @@ top_cards:
 - name: Nature's Claim
   weight: 1.0
   avg_copies: 1.5
-- name: Grafdigger's Cage
+- name: The Ozolith
   weight: 1.0
   avg_copies: 1.0
-- name: The Ozolith
+- name: Grafdigger's Cage
   weight: 1.0
   avg_copies: 1.0
 - name: Grove of the Burnwillows
@@ -77,10 +77,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.75
   avg_copies: 1.25
-- name: Veil of Summer
+- name: Pithing Needle
   weight: 0.75
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Veil of Summer
   weight: 0.75
   avg_copies: 1.0
 - name: Pendelhaven
@@ -89,46 +89,46 @@ top_cards:
 - name: Strength of Will
   weight: 0.5
   avg_copies: 2.0
-- name: Terrasymbiosis
+- name: Tamiyo's Safekeeping
   weight: 0.5
   avg_copies: 1.67
-- name: Tamiyo's Safekeeping
+- name: Terrasymbiosis
   weight: 0.5
   avg_copies: 1.67
 - name: Heroic Intervention
   weight: 0.5
   avg_copies: 1.5
-- name: Haywire Mite
-  weight: 0.5
-  avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 0.5
   avg_copies: 1.0
 - name: Force of Vigor
   weight: 0.5
   avg_copies: 1.0
+- name: Haywire Mite
+  weight: 0.5
+  avg_copies: 1.0
+- name: Marketback Walker
+  weight: 0.25
+  avg_copies: 4.0
 - name: Metallic Mimic
   weight: 0.25
   avg_copies: 4.0
 - name: Karplusan Forest
   weight: 0.25
   avg_copies: 4.0
-- name: Marketback Walker
-  weight: 0.25
-  avg_copies: 4.0
 - name: Ancient Stirrings
   weight: 0.25
   avg_copies: 3.0
-- name: Shadowspear
+- name: Bridgeworks Battle
   weight: 0.25
   avg_copies: 1.0
-- name: Bridgeworks Battle
+- name: Scrapyard Recombiner
   weight: 0.25
   avg_copies: 1.0
 - name: Skateboard
   weight: 0.25
   avg_copies: 1.0
-- name: Scrapyard Recombiner
+- name: Shadowspear
   weight: 0.25
   avg_copies: 1.0
 ---

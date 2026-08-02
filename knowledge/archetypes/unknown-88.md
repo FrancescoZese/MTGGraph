@@ -3,7 +3,7 @@ colors:
 - W
 - G
 name: 'Unknown #88'
-meta_share: 0.0026
+meta_share: 0.0025
 list_count: 16
 top_cards:
 - name: Birthing Ritual
@@ -12,10 +12,10 @@ top_cards:
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Guide of Souls
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
-- name: Ocelot Pride
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Flagstones of Trokair
@@ -120,55 +120,58 @@ top_cards:
 - name: Kataki, War's Wage
   weight: 0.125
   avg_copies: 2.0
-- name: Elesh Norn, Mother of Machines
-  weight: 0.125
-  avg_copies: 1.0
-- name: Insidious Fungus
-  weight: 0.125
-  avg_copies: 1.0
-- name: Wooded Bastion
+- name: Soulless Jailer
   weight: 0.125
   avg_copies: 1.0
 - name: Raise the Past
   weight: 0.125
   avg_copies: 1.0
-- name: Soulless Jailer
+- name: Wooded Bastion
+  weight: 0.125
+  avg_copies: 1.0
+- name: Insidious Fungus
+  weight: 0.125
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
   weight: 0.125
   avg_copies: 1.0
 - name: Consign to Memory
   weight: 0.0625
   avg_copies: 3.0
+- name: Orim's Chant
+  weight: 0.0625
+  avg_copies: 2.0
+- name: Quantum Riddler
+  weight: 0.0625
+  avg_copies: 2.0
+- name: Hurkyl's Recall
+  weight: 0.0625
+  avg_copies: 2.0
+- name: Flooded Strand
+  weight: 0.0625
+  avg_copies: 2.0
 - name: Veil of Summer
   weight: 0.0625
   avg_copies: 2.0
 - name: Marsh Flats
   weight: 0.0625
   avg_copies: 2.0
-- name: Test of Talents
-  weight: 0.0625
-  avg_copies: 2.0
-- name: Quantum Riddler
-  weight: 0.0625
-  avg_copies: 2.0
-- name: Flooded Strand
-  weight: 0.0625
-  avg_copies: 2.0
-- name: Hurkyl's Recall
-  weight: 0.0625
-  avg_copies: 2.0
-- name: Orim's Chant
-  weight: 0.0625
-  avg_copies: 2.0
 - name: Vexing Bauble
   weight: 0.0625
   avg_copies: 2.0
-- name: Horizon Canopy
+- name: Test of Talents
   weight: 0.0625
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Meticulous Archive
   weight: 0.0625
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Eidolon of Rhetoric
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Horizon Canopy
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Ouroboroid
   weight: 0.0625
   avg_copies: 1.0
 - name: Aven Mindcensor
@@ -177,10 +180,7 @@ top_cards:
 - name: Collector Ouphe
   weight: 0.0625
   avg_copies: 1.0
-- name: Ouroboroid
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Eidolon of Rhetoric
+- name: Hallowed Fountain
   weight: 0.0625
   avg_copies: 1.0
 ---

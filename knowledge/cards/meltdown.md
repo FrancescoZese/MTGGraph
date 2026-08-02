@@ -10,10 +10,10 @@ type: Sorcery
 meta_presence: 0.1449
 archetypes:
   ruby-storm:
-    weight: 0.1062
+    weight: 0.1057
     avg_copies: 1.33
   boros-energy:
-    weight: 0.088
+    weight: 0.0876
     avg_copies: 1.27
   dimir-control:
     weight: 0.2716
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.0682
     avg_copies: 1.67
   azorius-control:
-    weight: 0.0112
+    weight: 0.011
     avg_copies: 1.0
   jeskai-control:
     weight: 0.0741
@@ -55,7 +55,7 @@ archetypes:
     weight: 0.0444
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.9327
+    weight: 0.9333
     avg_copies: 1.84
   indomitable-creativity:
     weight: 0.2667
@@ -64,8 +64,8 @@ archetypes:
     weight: 0.0072
     avg_copies: 1.0
   dredge:
-    weight: 0.7692
-    avg_copies: 2.1
+    weight: 0.7778
+    avg_copies: 2.14
   izzet-artifacts:
     weight: 0.0312
     avg_copies: 1.0
@@ -88,13 +88,13 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   cosmogoyf-fling:
-    weight: 0.0233
+    weight: 0.0227
     avg_copies: 1.0
   scapeshift-combo:
     weight: 0.1667
     avg_copies: 2.0
   goryo1:
-    weight: 0.9695
+    weight: 0.9699
     avg_copies: 1.99
   grixis-control:
     weight: 1.0
@@ -139,7 +139,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-47:
-    weight: 0.0087
+    weight: 0.0086
     avg_copies: 2.0
   unknown-53:
     weight: 1.0
@@ -169,11 +169,11 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-86:
-    weight: 0.8182
-    avg_copies: 2.56
+    weight: 0.8333
+    avg_copies: 2.7
   unknown-96:
-    weight: 0.8235
-    avg_copies: 2.82
+    weight: 0.8108
+    avg_copies: 2.77
   unknown-90:
     weight: 1.0
     avg_copies: 1.0
@@ -208,10 +208,10 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-139:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 1.0
   unknown-149:
-    weight: 0.5
+    weight: 0.4545
     avg_copies: 1.0
   unknown-147:
     weight: 1.0

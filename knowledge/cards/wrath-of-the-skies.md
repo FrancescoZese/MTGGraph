@@ -10,8 +10,8 @@ type: Sorcery
 meta_presence: 0.3454
 archetypes:
   boros-energy:
-    weight: 0.967
-    avg_copies: 2.11
+    weight: 0.9672
+    avg_copies: 2.1
   jeskai-energy:
     weight: 0.9925
     avg_copies: 1.56
@@ -19,11 +19,11 @@ archetypes:
     weight: 0.0033
     avg_copies: 2.0
   goryo:
-    weight: 0.9786
-    avg_copies: 2.41
+    weight: 0.979
+    avg_copies: 2.42
   azorius-control:
-    weight: 0.9438
-    avg_copies: 1.99
+    weight: 0.9451
+    avg_copies: 2.01
   jeskai-control:
     weight: 0.9815
     avg_copies: 2.04
@@ -68,7 +68,7 @@ archetypes:
     avg_copies: 4.0
   goryo2:
     weight: 1.0
-    avg_copies: 2.05
+    avg_copies: 2.0
   goryo3:
     weight: 1.0
     avg_copies: 4.0
@@ -144,6 +144,9 @@ archetypes:
   unknown-93:
     weight: 1.0
     avg_copies: 3.0
+  unknown-96:
+    weight: 0.0541
+    avg_copies: 1.5
   unknown-89:
     weight: 1.0
     avg_copies: 1.5
@@ -173,7 +176,7 @@ archetypes:
     avg_copies: 4.0
   unknown-127:
     weight: 1.0
-    avg_copies: 3.8
+    avg_copies: 3.5
   unknown-129:
     weight: 1.0
     avg_copies: 3.0
@@ -191,7 +194,7 @@ archetypes:
     avg_copies: 2.0
   unknown-149:
     weight: 1.0
-    avg_copies: 1.9
+    avg_copies: 1.82
   unknown-158:
     weight: 1.0
     avg_copies: 3.0

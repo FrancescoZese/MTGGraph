@@ -13,11 +13,11 @@ archetypes:
     weight: 0.0061
     avg_copies: 1.0
   goryo:
-    weight: 0.0061
+    weight: 0.006
     avg_copies: 4.0
   living-end:
-    weight: 0.7857
-    avg_copies: 2.22
+    weight: 0.7917
+    avg_copies: 2.21
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 1.03
@@ -43,7 +43,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   unknown-126:
-    weight: 0.0323
+    weight: 0.0312
     avg_copies: 1.0
   unknown-134:
     weight: 1.0

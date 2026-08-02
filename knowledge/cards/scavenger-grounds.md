@@ -6,10 +6,10 @@ name: Scavenger Grounds
 scryfall_id: 707d733d-2928-4215-91d2-1340fc9ee903
 set: otc
 type: Land — Desert
-meta_presence: 0.0018
+meta_presence: 0.0019
 archetypes:
   amulet-titan:
-    weight: 0.0613
+    weight: 0.0667
     avg_copies: 1.0
   goryo6:
     weight: 0.25

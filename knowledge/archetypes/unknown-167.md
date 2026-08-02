@@ -11,16 +11,16 @@ top_cards:
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
-- name: Emry, Lurker of the Loch
-  weight: 1.0
-  avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
-- name: Metallic Rebuke
+- name: Emry, Lurker of the Loch
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mox Amber
   weight: 1.0
   avg_copies: 3.7
-- name: Mox Amber
+- name: Metallic Rebuke
   weight: 1.0
   avg_copies: 3.7
 - name: Consign to Memory
@@ -44,13 +44,13 @@ top_cards:
 - name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.2
-- name: Skateboard
-  weight: 1.0
-  avg_copies: 1.0
 - name: Aether Spellbomb
   weight: 1.0
   avg_copies: 1.0
 - name: Minamo, School at Water's Edge
+  weight: 1.0
+  avg_copies: 1.0
+- name: Skateboard
   weight: 1.0
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -83,19 +83,19 @@ top_cards:
 - name: Sink into Stupor
   weight: 0.6
   avg_copies: 1.17
-- name: Haywire Mite
+- name: Waterlogged Grove
   weight: 0.6
   avg_copies: 1.0
-- name: Waterlogged Grove
+- name: Haywire Mite
   weight: 0.6
   avg_copies: 1.0
 - name: Malevolent Rumble
   weight: 0.5
   avg_copies: 3.2
-- name: Hallowed Fountain
+- name: Misty Rainforest
   weight: 0.5
   avg_copies: 1.8
-- name: Misty Rainforest
+- name: Hallowed Fountain
   weight: 0.5
   avg_copies: 1.8
 - name: Damping Sphere
@@ -110,19 +110,19 @@ top_cards:
 - name: Force of Negation
   weight: 0.4
   avg_copies: 2.0
-- name: Relic of Progenitus
+- name: Polluted Delta
   weight: 0.4
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.4
   avg_copies: 1.0
-- name: Polluted Delta
+- name: Six
   weight: 0.4
   avg_copies: 1.0
 - name: Hedge Maze
   weight: 0.4
   avg_copies: 1.0
-- name: Six
+- name: Relic of Progenitus
   weight: 0.4
   avg_copies: 1.0
 - name: Seachrome Coast
@@ -137,13 +137,13 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 0.3
   avg_copies: 1.25
-- name: Shadowspear
+- name: Disruptor Flute
   weight: 0.3
   avg_copies: 1.0
 - name: Boseiju, Who Endures
   weight: 0.3
   avg_copies: 1.0
-- name: Disruptor Flute
+- name: Shadowspear
   weight: 0.3
   avg_copies: 1.0
 - name: Dusk Rose Reliquary
@@ -161,37 +161,37 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.2
   avg_copies: 1.5
-- name: Grafdigger's Cage
-  weight: 0.2
-  avg_copies: 1.0
-- name: Unable to Scream
-  weight: 0.2
-  avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.2
   avg_copies: 1.0
 - name: Quantum Riddler
   weight: 0.2
   avg_copies: 1.0
+- name: Grafdigger's Cage
+  weight: 0.2
+  avg_copies: 1.0
+- name: Unable to Scream
+  weight: 0.2
+  avg_copies: 1.0
 - name: Sacred Ground
   weight: 0.1
   avg_copies: 3.0
-- name: Dismember
+- name: Orim's Chant
   weight: 0.1
   avg_copies: 2.0
-- name: Orim's Chant
+- name: Dismember
   weight: 0.1
   avg_copies: 2.0
 - name: Harbinger of the Seas
   weight: 0.1
   avg_copies: 2.0
-- name: Does Machines
-  weight: 0.1
-  avg_copies: 1.0
 - name: Spell Snare
   weight: 0.1
   avg_copies: 1.0
 - name: Ashiok, Dream Render
+  weight: 0.1
+  avg_copies: 1.0
+- name: Does Machines
   weight: 0.1
   avg_copies: 1.0
 - name: Thief of Existence

@@ -9,10 +9,10 @@ type: Unknown
 meta_presence: 0.0021
 archetypes:
   affinity:
-    weight: 0.004
+    weight: 0.0039
     avg_copies: 2.0
   neoform-combo:
-    weight: 0.0115
+    weight: 0.0111
     avg_copies: 4.0
   hammer-time:
     weight: 0.1429
@@ -21,6 +21,6 @@ archetypes:
     weight: 0.1077
     avg_copies: 1.86
   unknown-149:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 1.0
 ---

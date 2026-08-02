@@ -8,46 +8,46 @@ name: 'Unknown #118'
 meta_share: 0.0002
 list_count: 1
 top_cards:
-- name: Kroxa, Titan of Death's Hunger
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flooded Strand
-  weight: 1.0
-  avg_copies: 4.0
-- name: Wrath of the Skies
-  weight: 1.0
-  avg_copies: 4.0
-- name: Invert Polarity
-  weight: 1.0
-  avg_copies: 4.0
-- name: Orim's Chant
-  weight: 1.0
-  avg_copies: 4.0
-- name: Erode
-  weight: 1.0
-  avg_copies: 4.0
-- name: Dress Down
+- name: Doorkeeper Thrull
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Doorkeeper Thrull
-  weight: 1.0
-  avg_copies: 4.0
-- name: Nulldrifter
-  weight: 1.0
-  avg_copies: 4.0
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
-- name: Teferi, Time Raveler
+- name: Orim's Chant
+  weight: 1.0
+  avg_copies: 4.0
+- name: Wrath of the Skies
+  weight: 1.0
+  avg_copies: 4.0
+- name: Kroxa, Titan of Death's Hunger
+  weight: 1.0
+  avg_copies: 4.0
+- name: Erode
   weight: 1.0
   avg_copies: 4.0
 - name: Commandeer
   weight: 1.0
   avg_copies: 4.0
+- name: Invert Polarity
+  weight: 1.0
+  avg_copies: 4.0
+- name: Nulldrifter
+  weight: 1.0
+  avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
+  weight: 1.0
+  avg_copies: 4.0
+- name: Dress Down
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
+- name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 4.0
 - name: Relic of Progenitus
@@ -59,31 +59,19 @@ top_cards:
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Watery Grave
-  weight: 1.0
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 1.0
-  avg_copies: 1.0
-- name: Path to Exile
-  weight: 1.0
-  avg_copies: 1.0
-- name: Arena of Glory
-  weight: 1.0
-  avg_copies: 1.0
-- name: Swamp
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Elegant Parlor
@@ -92,10 +80,22 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 1.0
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 1.0
+  avg_copies: 1.0
+- name: Arena of Glory
+  weight: 1.0
+  avg_copies: 1.0
 - name: Plains
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Path to Exile
   weight: 1.0
   avg_copies: 1.0
 ---

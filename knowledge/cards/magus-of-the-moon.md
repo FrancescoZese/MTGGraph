@@ -10,10 +10,10 @@ type: Creature — Human Wizard
 meta_presence: 0.0096
 archetypes:
   boros-energy:
-    weight: 0.0028
+    weight: 0.0027
     avg_copies: 1.0
   affinity:
-    weight: 0.0257
+    weight: 0.0256
     avg_copies: 1.0
   mardu-blink:
     weight: 0.0417

@@ -6,14 +6,14 @@ name: River of Tears
 scryfall_id: 67b626cc-1c12-4059-afa5-e5a1221ea1ba
 set: mkc
 type: Land
-meta_presence: 0.0014
+meta_presence: 0.0018
 archetypes:
   goryo:
-    weight: 0.0031
+    weight: 0.003
     avg_copies: 1.0
   goryo2:
-    weight: 0.1
-    avg_copies: 1.0
+    weight: 0.1739
+    avg_copies: 1.25
   unknown-5:
     weight: 0.1111
     avg_copies: 2.0
@@ -21,6 +21,6 @@ archetypes:
     weight: 1.0
     avg_copies: 3.25
   unknown-47:
-    weight: 0.0087
+    weight: 0.0086
     avg_copies: 1.0
 ---

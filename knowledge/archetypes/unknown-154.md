@@ -5,25 +5,7 @@ name: 'Unknown #154'
 meta_share: 0.0003
 list_count: 2
 top_cards:
-- name: Nethergoyf
-  weight: 1.0
-  avg_copies: 4.0
-- name: Moonshadow
-  weight: 1.0
-  avg_copies: 4.0
 - name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 4.0
-- name: Break the Ice
-  weight: 1.0
-  avg_copies: 4.0
-- name: Orcish Bowmasters
-  weight: 1.0
-  avg_copies: 4.0
-- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
@@ -32,10 +14,25 @@ top_cards:
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
-- name: Verdant Catacombs
+- name: Orcish Bowmasters
   weight: 1.0
-  avg_copies: 3.0
-- name: Vampire Hexmage
+  avg_copies: 4.0
+- name: Nethergoyf
+  weight: 1.0
+  avg_copies: 4.0
+- name: Overlord of the Balemurk
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 4.0
+- name: Break the Ice
+  weight: 1.0
+  avg_copies: 4.0
+- name: Moonshadow
+  weight: 1.0
+  avg_copies: 4.0
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 3.0
 - name: Force of Despair
@@ -44,7 +41,16 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 3.0
-- name: Sheoldred's Edict
+- name: Vampire Hexmage
+  weight: 1.0
+  avg_copies: 3.0
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 2.0
+- name: Super Shredder
+  weight: 1.0
+  avg_copies: 2.0
+- name: Damping Sphere
   weight: 1.0
   avg_copies: 2.0
 - name: Marsh Flats
@@ -53,13 +59,7 @@ top_cards:
 - name: Emperor of Bones
   weight: 1.0
   avg_copies: 2.0
-- name: Toxic Deluge
-  weight: 1.0
-  avg_copies: 2.0
-- name: Damping Sphere
-  weight: 1.0
-  avg_copies: 2.0
-- name: Super Shredder
+- name: Dauthi Voidwalker
   weight: 1.0
   avg_copies: 2.0
 - name: Boggart Trawler
@@ -68,10 +68,10 @@ top_cards:
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.0
-- name: Polluted Delta
+- name: Toxic Deluge
   weight: 1.0
   avg_copies: 2.0
-- name: Dauthi Voidwalker
+- name: Sheoldred's Edict
   weight: 1.0
   avg_copies: 2.0
 - name: Grafdigger's Cage
@@ -80,10 +80,10 @@ top_cards:
 - name: Shadowspear
   weight: 1.0
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.0
-- name: Vexing Bauble
+- name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
 - name: Nihil Spellbomb

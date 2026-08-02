@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0088
     avg_copies: 1.0
   dredge:
-    weight: 0.0769
+    weight: 0.0741
     avg_copies: 1.0
   unknown-148:
     weight: 1.0

@@ -6,10 +6,10 @@ name: Marsh Flats
 scryfall_id: 9db3ba6d-eb7f-4f5b-9a3b-c6239c3baa42
 set: mh2
 type: Land
-meta_presence: 0.266
+meta_presence: 0.2664
 archetypes:
   boros-energy:
-    weight: 0.9697
+    weight: 0.9699
     avg_copies: 3.28
   dimir-control:
     weight: 0.3827
@@ -18,13 +18,13 @@ archetypes:
     weight: 0.0526
     avg_copies: 1.0
   goryo:
-    weight: 0.9969
-    avg_copies: 3.4
+    weight: 0.997
+    avg_copies: 3.41
   necrodominance:
     weight: 0.2045
     avg_copies: 1.11
   azorius-control:
-    weight: 0.236
+    weight: 0.2308
     avg_copies: 1.81
   domain-zoo:
     weight: 0.0148
@@ -46,7 +46,7 @@ archetypes:
     avg_copies: 4.0
   esper-blink:
     weight: 1.0
-    avg_copies: 3.81
+    avg_copies: 3.82
   orzhov-blink:
     weight: 1.0
     avg_copies: 3.94
@@ -66,16 +66,16 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   goryo1:
-    weight: 0.0122
+    weight: 0.012
     avg_copies: 1.0
   goryo5:
     weight: 0.6087
     avg_copies: 2.57
   goryo2:
     weight: 1.0
-    avg_copies: 3.45
+    avg_copies: 3.35
   soultrader-combo:
-    weight: 0.5
+    weight: 0.4286
     avg_copies: 2.67
   soultrader-combo0:
     weight: 1.0
@@ -105,8 +105,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.8609
-    avg_copies: 1.81
+    weight: 0.8621
+    avg_copies: 1.82
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
@@ -153,7 +153,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.0294
+    weight: 0.027
     avg_copies: 3.0
   unknown-100:
     weight: 0.5
@@ -183,8 +183,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-125:
-    weight: 0.6667
-    avg_copies: 2.0
+    weight: 0.7143
+    avg_copies: 1.8
   unknown-127:
     weight: 1.0
     avg_copies: 4.0
@@ -198,13 +198,13 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-139:
-    weight: 0.8
+    weight: 0.8333
     avg_copies: 1.0
   unknown-142:
     weight: 1.0
     avg_copies: 4.0
   unknown-149:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 2.0
   unknown-146:
     weight: 1.0

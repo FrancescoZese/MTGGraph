@@ -6,23 +6,23 @@ name: Watery Grave
 scryfall_id: 5b8170dc-6a90-46fc-9989-7575f3d402b5
 set: eoe
 type: Land — Island Swamp
-meta_presence: 0.1912
+meta_presence: 0.1925
 archetypes:
   dimir-control:
     weight: 1.0
     avg_copies: 2.63
   goryo:
-    weight: 0.9939
+    weight: 0.994
     avg_copies: 1.0
   necrodominance:
     weight: 0.0455
     avg_copies: 3.5
   azorius-control:
-    weight: 0.4157
+    weight: 0.4176
     avg_copies: 1.0
   living-end:
-    weight: 0.8143
-    avg_copies: 1.09
+    weight: 0.8194
+    avg_copies: 1.08
   mill:
     weight: 0.9706
     avg_copies: 1.67
@@ -39,7 +39,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.01
   dredge:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 1.0
   azorius-blink:
     weight: 0.0154
@@ -58,9 +58,9 @@ archetypes:
     avg_copies: 1.55
   goryo2:
     weight: 1.0
-    avg_copies: 1.05
+    avg_copies: 1.04
   soultrader-combo:
-    weight: 0.5
+    weight: 0.5714
     avg_copies: 1.0
   grixis-control:
     weight: 1.0
@@ -94,7 +94,7 @@ archetypes:
     avg_copies: 2.33
   unknown-47:
     weight: 1.0
-    avg_copies: 2.32
+    avg_copies: 2.33
   unknown-51:
     weight: 1.0
     avg_copies: 2.0
@@ -154,7 +154,7 @@ archetypes:
     avg_copies: 1.0
   unknown-125:
     weight: 1.0
-    avg_copies: 2.83
+    avg_copies: 2.71
   unknown-129:
     weight: 1.0
     avg_copies: 1.0
@@ -169,7 +169,7 @@ archetypes:
     avg_copies: 2.0
   unknown-139:
     weight: 1.0
-    avg_copies: 2.8
+    avg_copies: 2.83
   unknown-141:
     weight: 1.0
     avg_copies: 3.0
@@ -218,4 +218,7 @@ archetypes:
   unknown-218:
     weight: 1.0
     avg_copies: 2.0
+  unknown-227:
+    weight: 1.0
+    avg_copies: 1.0
 ---

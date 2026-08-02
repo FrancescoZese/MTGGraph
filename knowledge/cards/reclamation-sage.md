@@ -16,12 +16,12 @@ archetypes:
     weight: 0.0154
     avg_copies: 1.0
   soultrader-combo:
-    weight: 0.5
+    weight: 0.4286
     avg_copies: 1.33
   unknown-39:
     weight: 0.5
     avg_copies: 1.0
   unknown-126:
-    weight: 0.0323
+    weight: 0.0312
     avg_copies: 1.0
 ---

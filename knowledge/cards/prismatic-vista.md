@@ -6,13 +6,13 @@ name: Prismatic Vista
 scryfall_id: e37da81e-be12-45a2-9128-376f1ad7b3e8
 set: mh1
 type: Land
-meta_presence: 0.0079
+meta_presence: 0.008
 archetypes:
   mill:
     weight: 0.0588
     avg_copies: 1.5
   broodscale-combo:
-    weight: 0.0686
+    weight: 0.0681
     avg_copies: 3.68
   orzhov-blink:
     weight: 0.125
@@ -21,7 +21,7 @@ archetypes:
     weight: 0.5
     avg_copies: 4.0
   goryo4:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 2.0
   unknown-24:
     weight: 1.0

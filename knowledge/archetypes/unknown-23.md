@@ -15,10 +15,10 @@ top_cards:
 - name: Arboreal Grazer
   weight: 1.0
   avg_copies: 3.83
-- name: Icetill Explorer
+- name: Valakut, the Molten Pinnacle
   weight: 1.0
   avg_copies: 3.67
-- name: Valakut, the Molten Pinnacle
+- name: Icetill Explorer
   weight: 1.0
   avg_copies: 3.67
 - name: Green Sun's Zenith
@@ -39,10 +39,10 @@ top_cards:
 - name: Commercial District
   weight: 1.0
   avg_copies: 2.17
-- name: Mountain
+- name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.67
-- name: Boseiju, Who Endures
+- name: Mountain
   weight: 1.0
   avg_copies: 1.67
 - name: Vexing Bauble
@@ -78,10 +78,10 @@ top_cards:
 - name: Lightning Bolt
   weight: 0.6667
   avg_copies: 3.0
-- name: Surgical Extraction
+- name: Misty Rainforest
   weight: 0.6667
   avg_copies: 2.25
-- name: Misty Rainforest
+- name: Surgical Extraction
   weight: 0.6667
   avg_copies: 2.25
 - name: Bojuka Bog
@@ -117,7 +117,13 @@ top_cards:
 - name: Scapeshift
   weight: 0.1667
   avg_copies: 3.0
+- name: Orim's Chant
+  weight: 0.1667
+  avg_copies: 2.0
 - name: High Noon
+  weight: 0.1667
+  avg_copies: 2.0
+- name: Disruptor Flute
   weight: 0.1667
   avg_copies: 2.0
 - name: Ghost Vacuum
@@ -126,19 +132,13 @@ top_cards:
 - name: Fire Magic
   weight: 0.1667
   avg_copies: 2.0
-- name: Orim's Chant
+- name: Endurance
   weight: 0.1667
-  avg_copies: 2.0
-- name: Disruptor Flute
-  weight: 0.1667
-  avg_copies: 2.0
+  avg_copies: 1.0
 - name: Sakura-Tribe Elder
   weight: 0.1667
   avg_copies: 1.0
 - name: Dwarven Mine
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Endurance
   weight: 0.1667
   avg_copies: 1.0
 ---

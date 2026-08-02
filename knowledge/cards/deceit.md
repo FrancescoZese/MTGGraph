@@ -11,8 +11,8 @@ type: Creature — Elemental Incarnation
 meta_presence: 0.0092
 archetypes:
   living-end:
-    weight: 0.4857
-    avg_copies: 1.49
+    weight: 0.4861
+    avg_copies: 1.56
   unknown-45:
     weight: 0.7931
     avg_copies: 1.0

@@ -7,13 +7,13 @@ name: Skewer the Critics
 scryfall_id: 43ca8f80-e9ed-483f-a8a7-ad6149811df9
 set: rvr
 type: Sorcery
-meta_presence: 0.0085
+meta_presence: 0.0084
 archetypes:
   burn:
     weight: 1.0
     avg_copies: 3.53
   unknown-86:
-    weight: 1.0
+    weight: 0.9167
     avg_copies: 3.64
   unknown-178:
     weight: 1.0

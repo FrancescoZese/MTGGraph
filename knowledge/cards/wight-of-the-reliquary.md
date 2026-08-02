@@ -8,11 +8,11 @@ name: Wight of the Reliquary
 scryfall_id: a8c6ee26-fa74-4859-9a94-89b476d218d2
 set: soc
 type: Creature — Zombie Knight
-meta_presence: 0.0006
+meta_presence: 0.0008
 archetypes:
   soultrader-combo:
-    weight: 0.3333
-    avg_copies: 3.0
+    weight: 0.4286
+    avg_copies: 2.67
   unknown-173:
     weight: 1.0
     avg_copies: 4.0

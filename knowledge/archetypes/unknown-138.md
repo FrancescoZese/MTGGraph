@@ -6,40 +6,40 @@ name: 'Unknown #138'
 meta_share: 0.0003
 list_count: 2
 top_cards:
-- name: Horizon Canopy
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:ethereal-armor
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:sheltered-by-ghosts
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:daybreak-coronet
-  weight: 1.0
-  avg_copies: 4.0
-- name: Windswept Heath
+- name: card:slippery-bogle
   weight: 1.0
   avg_copies: 4.0
 - name: card:gladecover-scout
   weight: 1.0
   avg_copies: 4.0
-- name: card:slippery-bogle
-  weight: 1.0
-  avg_copies: 4.0
 - name: card:spider-umbra
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:razorverge-thicket
   weight: 1.0
   avg_copies: 4.0
 - name: card:rancor
   weight: 1.0
   avg_copies: 4.0
-- name: card:kor-spiritdancer
+- name: card:sheltered-by-ghosts
+  weight: 1.0
+  avg_copies: 4.0
+- name: Horizon Canopy
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:razorverge-thicket
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:daybreak-coronet
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:ethereal-armor
+  weight: 1.0
+  avg_copies: 4.0
+- name: Windswept Heath
+  weight: 1.0
+  avg_copies: 4.0
+- name: Reprieve
   weight: 1.0
   avg_copies: 3.5
-- name: Reprieve
+- name: card:kor-spiritdancer
   weight: 1.0
   avg_copies: 3.5
 - name: Temple Garden
@@ -51,7 +51,7 @@ top_cards:
 - name: Force of Vigor
   weight: 1.0
   avg_copies: 3.0
-- name: Gaddock Teeg
+- name: Sanctifier en-Vec
   weight: 1.0
   avg_copies: 2.5
 - name: Damping Sphere
@@ -60,13 +60,13 @@ top_cards:
 - name: Rest in Peace
   weight: 1.0
   avg_copies: 2.5
-- name: Sanctifier en-Vec
+- name: Gaddock Teeg
   weight: 1.0
   avg_copies: 2.5
-- name: Collector Ouphe
+- name: card:hyena-umbra
   weight: 1.0
   avg_copies: 2.0
-- name: card:hyena-umbra
+- name: Collector Ouphe
   weight: 1.0
   avg_copies: 2.0
 - name: Plains
