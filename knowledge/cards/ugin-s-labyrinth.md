@@ -18,8 +18,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   broodscale-combo:
-    weight: 0.3907
-    avg_copies: 3.86
+    weight: 0.3901
+    avg_copies: 3.85
   eldrazi-breach:
     weight: 1.0
     avg_copies: 4.0

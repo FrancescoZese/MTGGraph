@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0005
 archetypes:
   hardened-scales:
-    weight: 0.5
+    weight: 0.4
     avg_copies: 1.67
   unknown-196:
     weight: 1.0

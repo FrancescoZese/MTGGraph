@@ -6,10 +6,10 @@ name: Marsh Flats
 scryfall_id: 9db3ba6d-eb7f-4f5b-9a3b-c6239c3baa42
 set: mh2
 type: Land
-meta_presence: 0.2664
+meta_presence: 0.2672
 archetypes:
   boros-energy:
-    weight: 0.9699
+    weight: 0.9702
     avg_copies: 3.28
   dimir-control:
     weight: 0.3827
@@ -19,7 +19,7 @@ archetypes:
     avg_copies: 1.0
   goryo:
     weight: 0.997
-    avg_copies: 3.41
+    avg_copies: 3.42
   necrodominance:
     weight: 0.2045
     avg_copies: 1.11
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.2308
     avg_copies: 1.81
   domain-zoo:
-    weight: 0.0148
+    weight: 0.0145
     avg_copies: 4.0
   reanimator:
     weight: 0.037
@@ -42,7 +42,7 @@ archetypes:
     weight: 0.2353
     avg_copies: 1.62
   simic-ritual:
-    weight: 0.0111
+    weight: 0.011
     avg_copies: 4.0
   esper-blink:
     weight: 1.0
@@ -66,14 +66,14 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   goryo1:
-    weight: 0.012
+    weight: 0.0118
     avg_copies: 1.0
   goryo5:
     weight: 0.6087
     avg_copies: 2.57
   goryo2:
     weight: 1.0
-    avg_copies: 3.35
+    avg_copies: 3.25
   soultrader-combo:
     weight: 0.4286
     avg_copies: 2.67
@@ -105,7 +105,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.8621
+    weight: 0.8655
     avg_copies: 1.82
   unknown-51:
     weight: 1.0
@@ -153,7 +153,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.027
+    weight: 0.0263
     avg_copies: 3.0
   unknown-100:
     weight: 0.5
@@ -183,8 +183,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-125:
-    weight: 0.7143
-    avg_copies: 1.8
+    weight: 0.75
+    avg_copies: 1.67
   unknown-127:
     weight: 1.0
     avg_copies: 4.0
@@ -198,7 +198,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-139:
-    weight: 0.8333
+    weight: 0.8571
     avg_copies: 1.0
   unknown-142:
     weight: 1.0
@@ -239,4 +239,7 @@ archetypes:
   unknown-225:
     weight: 1.0
     avg_copies: 4.0
+  unknown-229:
+    weight: 1.0
+    avg_copies: 1.0
 ---

@@ -16,31 +16,31 @@ top_cards:
 - name: Wooded Foothills
   weight: 1.0
   avg_copies: 4.0
-- name: Valakut, the Molten Pinnacle
+- name: Icetill Explorer
   weight: 1.0
   avg_copies: 4.0
 - name: Mountain
   weight: 1.0
   avg_copies: 4.0
-- name: Icetill Explorer
+- name: Valakut, the Molten Pinnacle
   weight: 1.0
   avg_copies: 4.0
 - name: Wrenn and Six
   weight: 1.0
   avg_copies: 3.67
-- name: Arid Mesa
-  weight: 1.0
-  avg_copies: 3.33
 - name: Arboreal Grazer
   weight: 1.0
   avg_copies: 3.33
 - name: Dryad of the Ilysian Grove
   weight: 1.0
   avg_copies: 3.33
-- name: High Noon
+- name: Arid Mesa
+  weight: 1.0
+  avg_copies: 3.33
+- name: Scapeshift
   weight: 1.0
   avg_copies: 2.67
-- name: Scapeshift
+- name: High Noon
   weight: 1.0
   avg_copies: 2.67
 - name: Fire Magic
@@ -52,34 +52,34 @@ top_cards:
 - name: Commercial District
   weight: 1.0
   avg_copies: 2.33
-- name: Force of Vigor
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 2.0
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 2.0
-- name: Stomping Ground
+- name: Force of Vigor
   weight: 1.0
   avg_copies: 2.0
 - name: Surgical Extraction
   weight: 1.0
   avg_copies: 1.33
+- name: Dwarven Mine
+  weight: 1.0
+  avg_copies: 1.0
 - name: Forest
-  weight: 1.0
-  avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 1.0
-  avg_copies: 1.0
-- name: Jetmir's Garden
-  weight: 1.0
-  avg_copies: 1.0
-- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
-- name: Dwarven Mine
+- name: Elegant Parlor
+  weight: 1.0
+  avg_copies: 1.0
+- name: Jetmir's Garden
+  weight: 1.0
+  avg_copies: 1.0
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
 - name: Vibrance
@@ -97,10 +97,10 @@ top_cards:
 - name: Damping Sphere
   weight: 0.6667
   avg_copies: 1.0
-- name: Endurance
+- name: Temple Garden
   weight: 0.6667
   avg_copies: 1.0
-- name: Temple Garden
+- name: Endurance
   weight: 0.6667
   avg_copies: 1.0
 - name: Boseiju, Who Endures

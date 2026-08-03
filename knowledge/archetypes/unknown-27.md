@@ -7,7 +7,7 @@ name: 'Unknown #27'
 meta_share: 0.0005
 list_count: 3
 top_cards:
-- name: Psychic Frog
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -16,13 +16,13 @@ top_cards:
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Orcish Bowmasters
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Flow State
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 3.0
-- name: Scalding Tarn
+- name: Flow State
   weight: 1.0
   avg_copies: 3.0
 - name: Consign to Memory
@@ -31,16 +31,16 @@ top_cards:
 - name: Force of Negation
   weight: 1.0
   avg_copies: 2.67
-- name: Spell Snare
-  weight: 1.0
-  avg_copies: 2.0
-- name: Mystical Dispute
-  weight: 1.0
-  avg_copies: 2.0
 - name: Kolaghan's Command
   weight: 1.0
   avg_copies: 2.0
-- name: Thoughtseize
+- name: Spell Snare
+  weight: 1.0
+  avg_copies: 2.0
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 2.0
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.0
 - name: Cling to Dust
@@ -55,13 +55,13 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 2.0
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 2.0
-- name: Bloodstained Mire
-  weight: 1.0
-  avg_copies: 2.0
 - name: Meltdown
+  weight: 1.0
+  avg_copies: 2.0
+- name: Thoughtseize
+  weight: 1.0
+  avg_copies: 2.0
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
 - name: Kaito, Bane of Nightmares
@@ -70,13 +70,10 @@ top_cards:
 - name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Crypt
-  weight: 1.0
-  avg_copies: 1.0
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
-- name: The Meathook Massacre
+- name: Sheoldred's Edict
   weight: 1.0
   avg_copies: 1.0
 - name: Steam Vents
@@ -85,7 +82,10 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Sheoldred's Edict
+- name: Blood Crypt
+  weight: 1.0
+  avg_copies: 1.0
+- name: The Meathook Massacre
   weight: 1.0
   avg_copies: 1.0
 - name: Counterspell
@@ -97,40 +97,40 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 0.6667
   avg_copies: 2.0
-- name: Drown in the Loch
+- name: card:loch-mare
   weight: 0.6667
   avg_copies: 1.0
 - name: Damnation
   weight: 0.6667
   avg_copies: 1.0
-- name: card:loch-mare
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Nimble Obstructionist
-  weight: 0.6667
-  avg_copies: 1.0
-- name: card:kira-great-glass-spinner
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Engineered Explosives
+- name: Surgical Extraction
   weight: 0.6667
   avg_copies: 1.0
 - name: Molten Collapse
   weight: 0.6667
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Engineered Explosives
   weight: 0.6667
   avg_copies: 1.0
-- name: Cleansing Wildfire
+- name: card:kira-great-glass-spinner
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Nimble Obstructionist
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Drown in the Loch
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Feed the Swarm
   weight: 0.3333
   avg_copies: 2.0
 - name: Lórien Revealed
   weight: 0.3333
   avg_copies: 2.0
-- name: Feed the Swarm
+- name: Cleansing Wildfire
   weight: 0.3333
   avg_copies: 2.0
-- name: Gloomlake Verge
+- name: Prismari Charm
   weight: 0.3333
   avg_copies: 1.0
 - name: Vendilion Clique
@@ -139,25 +139,25 @@ top_cards:
 - name: Snapcaster Mage
   weight: 0.3333
   avg_copies: 1.0
-- name: Prismari Charm
+- name: Gloomlake Verge
   weight: 0.3333
   avg_copies: 1.0
-- name: Stern Scolding
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Terminate
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Chalice of the Void
+- name: Nihil Spellbomb
   weight: 0.3333
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.3333
   avg_copies: 1.0
-- name: Brazen Borrower
+- name: Terminate
   weight: 0.3333
   avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Stern Scolding
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Chalice of the Void
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Brazen Borrower
   weight: 0.3333
   avg_copies: 1.0
 ---

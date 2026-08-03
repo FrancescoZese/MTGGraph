@@ -16,7 +16,7 @@ archetypes:
     weight: 0.0227
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0111
+    weight: 0.011
     avg_copies: 1.0
   esper-blink:
     weight: 0.0088
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.0435
     avg_copies: 2.0
   goryo2:
-    weight: 0.1739
+    weight: 0.1667
     avg_copies: 1.0
   soultrader-combo:
     weight: 0.1429
@@ -58,8 +58,8 @@ archetypes:
     weight: 0.069
     avg_copies: 1.0
   unknown-47:
-    weight: 0.7414
-    avg_copies: 1.13
+    weight: 0.7395
+    avg_copies: 1.12
   unknown-51:
     weight: 1.0
     avg_copies: 3.0

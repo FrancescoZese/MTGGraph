@@ -4,7 +4,7 @@ colors:
 - R
 - G
 name: Cosmogoyf Fling
-meta_share: 0.007
+meta_share: 0.0069
 list_count: 44
 top_cards:
 - name: Thud
@@ -22,10 +22,10 @@ top_cards:
 - name: Blackcleave Cliffs
   weight: 1.0
   avg_copies: 3.77
-- name: Serum Powder
+- name: Cosmogoyf
   weight: 1.0
   avg_copies: 3.66
-- name: Cosmogoyf
+- name: Serum Powder
   weight: 1.0
   avg_copies: 3.66
 - name: Blooming Marsh
@@ -133,10 +133,10 @@ top_cards:
 - name: Fire Magic
   weight: 0.0682
   avg_copies: 2.33
-- name: Vexing Bauble
+- name: Natural State
   weight: 0.0682
   avg_copies: 2.0
-- name: Natural State
+- name: Vexing Bauble
   weight: 0.0682
   avg_copies: 2.0
 - name: Pick Your Poison
@@ -157,28 +157,28 @@ top_cards:
 - name: Mana Confluence
   weight: 0.0227
   avg_copies: 4.0
-- name: Death's Shadow
-  weight: 0.0227
-  avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.0227
   avg_copies: 2.0
 - name: card:kavaron-memorial-world
   weight: 0.0227
   avg_copies: 2.0
+- name: Death's Shadow
+  weight: 0.0227
+  avg_copies: 2.0
 - name: Force of Despair
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Meltdown
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Kaheera, the Orphanguard
   weight: 0.0227
   avg_copies: 1.0
 - name: Disruptor Flute
   weight: 0.0227
   avg_copies: 1.0
 - name: Mountain
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Kaheera, the Orphanguard
   weight: 0.0227
   avg_copies: 1.0
 ---

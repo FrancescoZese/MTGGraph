@@ -2,7 +2,7 @@
 colors:
 - G
 name: 'Unknown #76'
-meta_share: 0.001
+meta_share: 0.0009
 list_count: 6
 top_cards:
 - name: Arboreal Grazer
@@ -11,10 +11,10 @@ top_cards:
 - name: Primeval Titan
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Saga
+- name: Amulet of Vigor
   weight: 1.0
   avg_copies: 4.0
-- name: Amulet of Vigor
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Green Sun's Zenith
@@ -38,16 +38,19 @@ top_cards:
 - name: Dismember
   weight: 1.0
   avg_copies: 2.33
-- name: Force of Vigor
+- name: Summoner's Pact
   weight: 1.0
   avg_copies: 2.0
-- name: Summoner's Pact
+- name: Force of Vigor
   weight: 1.0
   avg_copies: 2.0
 - name: Valakut, the Molten Pinnacle
   weight: 1.0
   avg_copies: 1.67
 - name: Tolaria West
+  weight: 1.0
+  avg_copies: 1.0
+- name: Vesuva
   weight: 1.0
   avg_copies: 1.0
 - name: Mirrorpool
@@ -59,19 +62,16 @@ top_cards:
 - name: Cultivator Colossus
   weight: 1.0
   avg_copies: 1.0
-- name: Vesuva
-  weight: 1.0
-  avg_copies: 1.0
 - name: Spelunking
   weight: 0.8333
   avg_copies: 3.2
 - name: Crumbling Vestige
   weight: 0.8333
   avg_copies: 2.4
-- name: Tireless Tracker
+- name: The Mycosynth Gardens
   weight: 0.6667
   avg_copies: 1.75
-- name: The Mycosynth Gardens
+- name: Tireless Tracker
   weight: 0.6667
   avg_copies: 1.75
 - name: Vexing Bauble
@@ -86,25 +86,25 @@ top_cards:
 - name: Explore
   weight: 0.5
   avg_copies: 2.67
-- name: Soulless Jailer
-  weight: 0.5
-  avg_copies: 1.67
 - name: Pyroclasm
   weight: 0.5
   avg_copies: 1.67
-- name: Elder Gargaroth
+- name: Soulless Jailer
   weight: 0.5
-  avg_copies: 1.0
+  avg_copies: 1.67
 - name: Bojuka Bog
-  weight: 0.5
-  avg_copies: 1.0
-- name: Otawara, Soaring City
   weight: 0.5
   avg_copies: 1.0
 - name: Dryad Arbor
   weight: 0.5
   avg_copies: 1.0
+- name: Otawara, Soaring City
+  weight: 0.5
+  avg_copies: 1.0
 - name: Collector Ouphe
+  weight: 0.5
+  avg_copies: 1.0
+- name: Elder Gargaroth
   weight: 0.5
   avg_copies: 1.0
 - name: Selesnya Sanctuary
@@ -116,10 +116,7 @@ top_cards:
 - name: Gemstone Caverns
   weight: 0.3333
   avg_copies: 1.0
-- name: Endurance
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Cavern of Souls
+- name: Shifting Woodland
   weight: 0.3333
   avg_copies: 1.0
 - name: Azusa, Lost but Seeking
@@ -128,16 +125,19 @@ top_cards:
 - name: Icetill Explorer
   weight: 0.3333
   avg_copies: 1.0
-- name: Shifting Woodland
+- name: Cavern of Souls
   weight: 0.3333
   avg_copies: 1.0
 - name: Ghost Quarter
   weight: 0.3333
   avg_copies: 1.0
-- name: Trinisphere
+- name: Endurance
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Scapeshift
   weight: 0.1667
   avg_copies: 3.0
-- name: Scapeshift
+- name: Trinisphere
   weight: 0.1667
   avg_copies: 3.0
 - name: Elvish Reclaimer
@@ -149,40 +149,40 @@ top_cards:
 - name: Vampires' Vengeance
   weight: 0.1667
   avg_copies: 2.0
-- name: Aether Spellbomb
+- name: Oran-Rief, the Vastwood
   weight: 0.1667
   avg_copies: 1.0
-- name: Formidable Speaker
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Misty Rainforest
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Springheart Nantuko
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Outland Liberator
+- name: Elesh Norn, Mother of Machines
   weight: 0.1667
   avg_copies: 1.0
 - name: Storm's Wrath
   weight: 0.1667
   avg_copies: 1.0
-- name: Oran-Rief, the Vastwood
+- name: Aether Spellbomb
   weight: 0.1667
   avg_copies: 1.0
-- name: Kessig Wolf Run
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Expedition Map
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Echoing Deeps
+- name: Springheart Nantuko
   weight: 0.1667
   avg_copies: 1.0
 - name: Flagstones of Trokair
   weight: 0.1667
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
+- name: Kessig Wolf Run
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Echoing Deeps
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Expedition Map
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Misty Rainforest
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Formidable Speaker
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Outland Liberator
   weight: 0.1667
   avg_copies: 1.0
 - name: Relic of Progenitus

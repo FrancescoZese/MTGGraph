@@ -9,6 +9,6 @@ type: Artifact Creature — Construct
 meta_presence: 0.0002
 archetypes:
   hardened-scales:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 1.0
 ---

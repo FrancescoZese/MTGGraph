@@ -12,7 +12,7 @@ archetypes:
     weight: 0.0039
     avg_copies: 2.0
   neoform-combo:
-    weight: 0.0111
+    weight: 0.0109
     avg_copies: 4.0
   hammer-time:
     weight: 0.1429

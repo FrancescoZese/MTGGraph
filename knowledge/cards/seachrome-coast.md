@@ -6,7 +6,7 @@ name: Seachrome Coast
 scryfall_id: 9ed7441f-f624-49c8-8611-d9bba0e441ac
 set: one
 type: Land
-meta_presence: 0.0024
+meta_presence: 0.0027
 archetypes:
   hammer-time:
     weight: 0.0714
@@ -15,8 +15,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-167:
-    weight: 0.3
-    avg_copies: 4.0
+    weight: 0.3636
+    avg_copies: 3.5
   unknown-170:
     weight: 1.0
     avg_copies: 3.0
@@ -25,7 +25,7 @@ archetypes:
     avg_copies: 3.0
   unknown-213:
     weight: 1.0
-    avg_copies: 2.33
+    avg_copies: 2.5
   unknown-223:
     weight: 1.0
     avg_copies: 4.0

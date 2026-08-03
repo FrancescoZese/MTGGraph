@@ -19,7 +19,7 @@ archetypes:
     weight: 0.0185
     avg_copies: 4.0
   domain-zoo:
-    weight: 0.9926
+    weight: 0.9928
     avg_copies: 3.87
   burn:
     weight: 0.0789
@@ -55,7 +55,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   goryo1:
-    weight: 0.0301
+    weight: 0.0296
     avg_copies: 2.8
   izzet-murktide:
     weight: 1.0

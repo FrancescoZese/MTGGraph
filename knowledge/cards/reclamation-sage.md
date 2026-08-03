@@ -10,7 +10,7 @@ type: Creature — Elf Shaman
 meta_presence: 0.0011
 archetypes:
   simic-ritual:
-    weight: 0.0111
+    weight: 0.011
     avg_copies: 1.0
   samwise-combo:
     weight: 0.0154
@@ -22,6 +22,6 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-126:
-    weight: 0.0312
+    weight: 0.0294
     avg_copies: 1.0
 ---

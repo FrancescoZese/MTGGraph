@@ -12,6 +12,6 @@ archetypes:
     weight: 0.0014
     avg_copies: 1.0
   hardened-scales:
-    weight: 0.75
+    weight: 0.6
     avg_copies: 1.33
 ---

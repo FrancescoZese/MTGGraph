@@ -9,10 +9,10 @@ type: Legendary Land
 meta_presence: 0.0013
 archetypes:
   hardened-scales:
-    weight: 0.75
+    weight: 0.6
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0222
+    weight: 0.022
     avg_copies: 1.0
   unknown-102:
     weight: 1.0

@@ -6,13 +6,13 @@ name: Rakdos Aggro
 meta_share: 0.003
 list_count: 19
 top_cards:
+- name: Dragon's Rage Channeler
+  weight: 1.0
+  avg_copies: 4.0
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Moonshadow
-  weight: 1.0
-  avg_copies: 4.0
-- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Nethergoyf
@@ -123,19 +123,19 @@ top_cards:
 - name: Dismember
   weight: 0.1579
   avg_copies: 1.0
-- name: Leyline of the Void
+- name: Academic Dispute
   weight: 0.1053
   avg_copies: 4.0
-- name: Academic Dispute
+- name: Leyline of the Void
   weight: 0.1053
   avg_copies: 4.0
 - name: Fire-Brained Scheme
   weight: 0.1053
   avg_copies: 2.5
-- name: Seal of Fire
+- name: Blood Moon
   weight: 0.1053
   avg_copies: 2.0
-- name: Blood Moon
+- name: Seal of Fire
   weight: 0.1053
   avg_copies: 2.0
 - name: Ragavan, Nimble Pilferer
@@ -144,10 +144,13 @@ top_cards:
 - name: Redirect Lightning
   weight: 0.1053
   avg_copies: 1.0
-- name: Price of Freedom
+- name: Tarfire
   weight: 0.1053
   avg_copies: 1.0
-- name: Firebending Lesson
+- name: Decorum Dissertation
+  weight: 0.1053
+  avg_copies: 1.0
+- name: Price of Freedom
   weight: 0.1053
   avg_copies: 1.0
 - name: Whispers of Emrakul
@@ -156,19 +159,13 @@ top_cards:
 - name: Dai Li Indoctrination
   weight: 0.1053
   avg_copies: 1.0
+- name: Firebending Lesson
+  weight: 0.1053
+  avg_copies: 1.0
 - name: Dreams of Steel and Oil
   weight: 0.1053
   avg_copies: 1.0
-- name: Decorum Dissertation
-  weight: 0.1053
-  avg_copies: 1.0
-- name: Tarfire
-  weight: 0.1053
-  avg_copies: 1.0
 - name: Marsh Flats
-  weight: 0.0526
-  avg_copies: 4.0
-- name: Magebane Lizard
   weight: 0.0526
   avg_copies: 4.0
 - name: Super Shredder
@@ -177,37 +174,31 @@ top_cards:
 - name: Bloodbraid Marauder
   weight: 0.0526
   avg_copies: 4.0
+- name: Magebane Lizard
+  weight: 0.0526
+  avg_copies: 4.0
 - name: Force of Despair
   weight: 0.0526
   avg_copies: 3.0
-- name: Torpor Orb
-  weight: 0.0526
-  avg_copies: 2.0
-- name: Blackcleave Cliffs
-  weight: 0.0526
-  avg_copies: 2.0
-- name: Faerie Macabre
-  weight: 0.0526
-  avg_copies: 2.0
-- name: Feed the Swarm
-  weight: 0.0526
-  avg_copies: 2.0
-- name: Hexing Squelcher
-  weight: 0.0526
-  avg_copies: 2.0
 - name: Inquisition of Kozilek
-  weight: 0.0526
-  avg_copies: 2.0
-- name: Fable of the Mirror-Breaker
   weight: 0.0526
   avg_copies: 2.0
 - name: Abigale, Eloquent First-Year
   weight: 0.0526
   avg_copies: 2.0
+- name: Faerie Macabre
+  weight: 0.0526
+  avg_copies: 2.0
 - name: Break the Ice
   weight: 0.0526
   avg_copies: 2.0
+- name: Feed the Swarm
+  weight: 0.0526
+  avg_copies: 2.0
 - name: Sheoldred's Edict
+  weight: 0.0526
+  avg_copies: 2.0
+- name: Torpor Orb
   weight: 0.0526
   avg_copies: 2.0
 - name: Unearth
@@ -216,22 +207,34 @@ top_cards:
 - name: Mai, Scornful Striker
   weight: 0.0526
   avg_copies: 2.0
-- name: Ob Nixilis, the Adversary
+- name: Fable of the Mirror-Breaker
+  weight: 0.0526
+  avg_copies: 2.0
+- name: Hexing Squelcher
+  weight: 0.0526
+  avg_copies: 2.0
+- name: Blackcleave Cliffs
+  weight: 0.0526
+  avg_copies: 2.0
+- name: Duress
   weight: 0.0526
   avg_copies: 1.0
 - name: Abandon Attachments
   weight: 0.0526
   avg_copies: 1.0
-- name: Troll of Khazad-dûm
+- name: Graveyard Trespasser
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Molten Collapse
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Engineered Explosives
   weight: 0.0526
   avg_copies: 1.0
 - name: Boggart Trawler
   weight: 0.0526
   avg_copies: 1.0
-- name: Cecil, Dark Knight
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Untimely Malfunction
+- name: Fire Magic
   weight: 0.0526
   avg_copies: 1.0
 - name: Ruinous Waterbending
@@ -240,19 +243,16 @@ top_cards:
 - name: Kolaghan's Command
   weight: 0.0526
   avg_copies: 1.0
-- name: Duress
+- name: Troll of Khazad-dûm
   weight: 0.0526
   avg_copies: 1.0
-- name: Engineered Explosives
+- name: Untimely Malfunction
   weight: 0.0526
   avg_copies: 1.0
-- name: Fire Magic
+- name: Ob Nixilis, the Adversary
   weight: 0.0526
   avg_copies: 1.0
-- name: Graveyard Trespasser
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Molten Collapse
+- name: Cecil, Dark Knight
   weight: 0.0526
   avg_copies: 1.0
 ---

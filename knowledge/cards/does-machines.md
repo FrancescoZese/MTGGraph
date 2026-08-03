@@ -10,10 +10,10 @@ type: Enchantment — Class
 meta_presence: 0.0006
 archetypes:
   domain-zoo:
-    weight: 0.0148
+    weight: 0.0145
     avg_copies: 1.0
   unknown-167:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 1.0
   unknown-206:
     weight: 1.0

@@ -10,8 +10,8 @@ type: Instant
 meta_presence: 0.1275
 archetypes:
   boros-energy:
-    weight: 0.9945
-    avg_copies: 2.33
+    weight: 0.9946
+    avg_copies: 2.32
   dimir-control:
     weight: 0.037
     avg_copies: 2.0
@@ -22,10 +22,10 @@ archetypes:
     weight: 0.0185
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0074
+    weight: 0.0072
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0032
+    weight: 0.0031
     avg_copies: 3.0
   azorius-blink:
     weight: 0.0462

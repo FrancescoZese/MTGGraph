@@ -27,6 +27,9 @@ archetypes:
   mono-green-stompy:
     weight: 1.0
     avg_copies: 4.0
+  goryo1:
+    weight: 0.0059
+    avg_copies: 1.0
   goryo5:
     weight: 0.1739
     avg_copies: 1.0

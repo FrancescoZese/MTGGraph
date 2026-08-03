@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0025
 archetypes:
   boros-energy:
-    weight: 0.0055
+    weight: 0.0054
     avg_copies: 1.0
   azorius-control:
     weight: 0.033
@@ -31,7 +31,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.027
+    weight: 0.0263
     avg_copies: 2.0
   unknown-160:
     weight: 0.0135

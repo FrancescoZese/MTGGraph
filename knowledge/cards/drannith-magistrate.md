@@ -10,10 +10,10 @@ type: Creature — Human Wizard
 meta_presence: 0.039
 archetypes:
   ruby-storm:
-    weight: 0.0088
+    weight: 0.0087
     avg_copies: 1.0
   boros-energy:
-    weight: 0.0739
+    weight: 0.0732
     avg_copies: 1.04
   jeskai-energy:
     weight: 0.0677
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.0033
     avg_copies: 1.0
   goryo:
-    weight: 0.1021
+    weight: 0.1006
     avg_copies: 1.29
   living-end:
     weight: 0.0694
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.0185
     avg_copies: 2.0
   domain-zoo:
-    weight: 0.0148
+    weight: 0.0145
     avg_copies: 1.5
   boros-ponza:
     weight: 0.0496
@@ -91,7 +91,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-126:
-    weight: 0.4062
+    weight: 0.4412
     avg_copies: 1.0
   unknown-144:
     weight: 0.2

@@ -9,19 +9,19 @@ top_cards:
 - name: Utopia Sprawl
   weight: 1.0
   avg_copies: 4.0
-- name: Malevolent Rumble
+- name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
 - name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
-- name: Eldrazi Temple
+- name: Sowing Mycospawn
+  weight: 1.0
+  avg_copies: 4.0
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
 - name: Kozilek's Command
-  weight: 1.0
-  avg_copies: 4.0
-- name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
 - name: Ancient Stirrings
@@ -117,22 +117,22 @@ top_cards:
 - name: Trinisphere
   weight: 0.2
   avg_copies: 2.67
-- name: Fade from History
-  weight: 0.2
-  avg_copies: 2.0
 - name: Heritage Reclamation
   weight: 0.2
   avg_copies: 2.0
-- name: Bojuka Bog
+- name: Fade from History
   weight: 0.2
-  avg_copies: 1.0
-- name: Force of Vigor
+  avg_copies: 2.0
+- name: Bojuka Bog
   weight: 0.2
   avg_copies: 1.0
 - name: Cavern of Souls
   weight: 0.2
   avg_copies: 1.0
 - name: Ghost Quarter
+  weight: 0.2
+  avg_copies: 1.0
+- name: Force of Vigor
   weight: 0.2
   avg_copies: 1.0
 - name: Grafdigger's Cage
@@ -147,28 +147,25 @@ top_cards:
 - name: Kozilek's Return
   weight: 0.0667
   avg_copies: 3.0
-- name: Wastescape Battlemage
-  weight: 0.0667
-  avg_copies: 3.0
 - name: Karn, the Great Creator
   weight: 0.0667
   avg_copies: 3.0
-- name: Damping Sphere
+- name: Wastescape Battlemage
   weight: 0.0667
-  avg_copies: 2.0
-- name: Damnation
-  weight: 0.0667
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Nature's Claim
+  weight: 0.0667
+  avg_copies: 2.0
+- name: Witherbloom Charm
   weight: 0.0667
   avg_copies: 2.0
 - name: Vandalblast
   weight: 0.0667
   avg_copies: 2.0
-- name: Dismember
+- name: Damnation
   weight: 0.0667
   avg_copies: 2.0
-- name: Witherbloom Charm
+- name: Damping Sphere
   weight: 0.0667
   avg_copies: 2.0
 - name: Thief of Existence
@@ -177,34 +174,37 @@ top_cards:
 - name: Talisman of Impulse
   weight: 0.0667
   avg_copies: 2.0
-- name: Ensnaring Bridge
+- name: Dismember
   weight: 0.0667
-  avg_copies: 1.0
-- name: Tormod's Crypt
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Pithing Needle
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Liquimetal Coating
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Boseiju, Who Endures
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Chalice of the Void
+  avg_copies: 2.0
+- name: Haywire Mite
   weight: 0.0667
   avg_copies: 1.0
 - name: Stomping Ground
   weight: 0.0667
   avg_copies: 1.0
-- name: All Is Dust
+- name: Liquimetal Coating
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Chalice of the Void
   weight: 0.0667
   avg_copies: 1.0
 - name: Commercial District
   weight: 0.0667
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Pithing Needle
+  weight: 0.0667
+  avg_copies: 1.0
+- name: All Is Dust
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Tormod's Crypt
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Ensnaring Bridge
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Boseiju, Who Endures
   weight: 0.0667
   avg_copies: 1.0
 ---

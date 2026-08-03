@@ -6,10 +6,10 @@ name: Underground Mortuary
 scryfall_id: f6ca59cd-8779-4a84-a54b-e863b79c61f0
 set: mkm
 type: Land — Swamp Forest
-meta_presence: 0.0624
+meta_presence: 0.0622
 archetypes:
   goryo:
-    weight: 0.018
+    weight: 0.0178
     avg_copies: 1.33
   necrodominance:
     weight: 0.0909
@@ -21,7 +21,7 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0222
+    weight: 0.0217
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
@@ -30,13 +30,13 @@ archetypes:
     weight: 0.0161
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0667
+    weight: 0.0659
     avg_copies: 1.0
   samwise-combo:
     weight: 0.8769
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0143
+    weight: 0.0142
     avg_copies: 1.0
   jund-saga:
     weight: 0.75
@@ -84,7 +84,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.0125
+    weight: 0.0123
     avg_copies: 1.0
   unknown-69:
     weight: 0.375
@@ -99,7 +99,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.0
   unknown-126:
-    weight: 0.9688
+    weight: 0.9706
     avg_copies: 1.0
   unknown-130:
     weight: 1.0

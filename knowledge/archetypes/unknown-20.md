@@ -6,22 +6,13 @@ name: 'Unknown #20'
 meta_share: 0.0005
 list_count: 3
 top_cards:
-- name: Psychic Frog
+- name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 4.0
-- name: Agatha's Soul Cauldron
-  weight: 1.0
-  avg_copies: 4.0
-- name: Unearth
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Abhorrent Oculus
@@ -30,10 +21,19 @@ top_cards:
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Pensive Professor
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
 - name: Gran-Gran
+  weight: 1.0
+  avg_copies: 4.0
+- name: Pensive Professor
+  weight: 1.0
+  avg_copies: 4.0
+- name: Unearth
+  weight: 1.0
+  avg_copies: 4.0
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
 - name: Watery Grave
@@ -96,10 +96,10 @@ top_cards:
 - name: Vizier of Tumbling Sands
   weight: 0.3333
   avg_copies: 1.0
-- name: Walking Ballista
+- name: Blood Crypt
   weight: 0.3333
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Walking Ballista
   weight: 0.3333
   avg_copies: 1.0
 - name: Engineered Explosives

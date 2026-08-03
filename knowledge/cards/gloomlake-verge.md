@@ -6,7 +6,7 @@ name: Gloomlake Verge
 scryfall_id: 83f510b7-4cbd-4883-9c26-c8824bc668ac
 set: dsk
 type: Land
-meta_presence: 0.015
+meta_presence: 0.0153
 archetypes:
   dimir-control:
     weight: 0.1852
@@ -33,11 +33,11 @@ archetypes:
     weight: 0.0909
     avg_copies: 1.0
   unknown-47:
-    weight: 0.5431
-    avg_copies: 1.13
+    weight: 0.5462
+    avg_copies: 1.12
   unknown-125:
-    weight: 0.5714
-    avg_copies: 1.75
+    weight: 0.625
+    avg_copies: 1.6
   unknown-147:
     weight: 1.0
     avg_copies: 1.0

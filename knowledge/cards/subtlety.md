@@ -7,7 +7,7 @@ name: Subtlety
 scryfall_id: 701256d5-1389-48b7-9581-d6037209bd06
 set: mh2
 type: Creature — Elemental Incarnation
-meta_presence: 0.1019
+meta_presence: 0.1023
 archetypes:
   dimir-control:
     weight: 0.9753
@@ -16,7 +16,7 @@ archetypes:
     weight: 0.0075
     avg_copies: 1.0
   goryo:
-    weight: 0.0691
+    weight: 0.068
     avg_copies: 1.28
   azorius-control:
     weight: 0.0989
@@ -31,16 +31,16 @@ archetypes:
     weight: 0.0294
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0111
+    weight: 0.0109
     avg_copies: 1.0
   mono-blue-tron:
     weight: 0.7826
     avg_copies: 2.57
   simic-ritual:
-    weight: 0.9889
-    avg_copies: 3.52
+    weight: 0.989
+    avg_copies: 3.51
   izzet-prowess:
-    weight: 0.0032
+    weight: 0.0031
     avg_copies: 2.0
   4c-omnath:
     weight: 0.75
@@ -61,10 +61,10 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   goryo1:
-    weight: 0.006
+    weight: 0.0059
     avg_copies: 1.0
   goryo2:
-    weight: 0.1304
+    weight: 0.125
     avg_copies: 1.25
   grixis-control:
     weight: 0.7143
@@ -101,7 +101,7 @@ archetypes:
     avg_copies: 2.14
   unknown-47:
     weight: 1.0
-    avg_copies: 2.63
+    avg_copies: 2.64
   unknown-51:
     weight: 1.0
     avg_copies: 4.0
@@ -145,8 +145,8 @@ archetypes:
     weight: 0.1111
     avg_copies: 3.0
   unknown-125:
-    weight: 0.1429
-    avg_copies: 2.5
+    weight: 0.25
+    avg_copies: 2.67
   unknown-124:
     weight: 1.0
     avg_copies: 2.0
@@ -189,4 +189,10 @@ archetypes:
   unknown-218:
     weight: 1.0
     avg_copies: 3.0
+  unknown-229:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-227:
+    weight: 0.5
+    avg_copies: 1.0
 ---

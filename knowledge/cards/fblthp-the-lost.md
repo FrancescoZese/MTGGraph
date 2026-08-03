@@ -10,7 +10,7 @@ type: Legendary Creature — Homunculus
 meta_presence: 0.0137
 archetypes:
   simic-ritual:
-    weight: 0.9444
+    weight: 0.9451
     avg_copies: 1.93
   unknown-175:
     weight: 1.0

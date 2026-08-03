@@ -6,7 +6,10 @@ name: 'Unknown #122'
 meta_share: 0.0041
 list_count: 26
 top_cards:
-- name: Lava Dart
+- name: Cori-Steel Cutter
+  weight: 1.0
+  avg_copies: 4.0
+- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
@@ -15,10 +18,7 @@ top_cards:
 - name: Preordain
   weight: 1.0
   avg_copies: 4.0
-- name: Dragon's Rage Channeler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Cori-Steel Cutter
+- name: Lava Dart
   weight: 1.0
   avg_copies: 4.0
 - name: Stormchaser's Talent
@@ -39,10 +39,10 @@ top_cards:
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
-- name: Monastery Swiftspear
+- name: Scalding Tarn
   weight: 0.9615
   avg_copies: 3.92
-- name: Scalding Tarn
+- name: Monastery Swiftspear
   weight: 0.9615
   avg_copies: 3.92
 - name: Unholy Heat
@@ -90,10 +90,10 @@ top_cards:
 - name: Fiery Islet
   weight: 0.3462
   avg_copies: 1.33
-- name: Origin of Metalbending
+- name: Stomping Ground
   weight: 0.3462
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Origin of Metalbending
   weight: 0.3462
   avg_copies: 1.0
 - name: Abandon Attachments
@@ -126,13 +126,13 @@ top_cards:
 - name: Assault Strobe
   weight: 0.1154
   avg_copies: 1.33
+- name: Price of Freedom
+  weight: 0.1154
+  avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.1154
   avg_copies: 1.0
 - name: Iroh's Demonstration
-  weight: 0.1154
-  avg_copies: 1.0
-- name: Price of Freedom
   weight: 0.1154
   avg_copies: 1.0
 - name: Octopus Form
@@ -150,37 +150,37 @@ top_cards:
 - name: Monstrous Rage
   weight: 0.0769
   avg_copies: 1.67
-- name: Blood Crypt
+- name: End of the Hunt
   weight: 0.0769
   avg_copies: 1.0
-- name: End of the Hunt
+- name: Blood Crypt
   weight: 0.0769
   avg_copies: 1.0
 - name: Questing Druid
   weight: 0.0385
   avg_copies: 4.0
-- name: Misty Rainforest
+- name: Vexing Bauble
   weight: 0.0385
   avg_copies: 2.0
 - name: Wear
   weight: 0.0385
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Misty Rainforest
   weight: 0.0385
   avg_copies: 2.0
+- name: Redirect Lightning
+  weight: 0.0385
+  avg_copies: 1.0
 - name: Accumulate Wisdom
+  weight: 0.0385
+  avg_copies: 1.0
+- name: Fire Magic
   weight: 0.0385
   avg_copies: 1.0
 - name: Hurkyl's Recall
   weight: 0.0385
   avg_copies: 1.0
-- name: Redirect Lightning
-  weight: 0.0385
-  avg_copies: 1.0
 - name: Sacred Foundry
-  weight: 0.0385
-  avg_copies: 1.0
-- name: Fire Magic
   weight: 0.0385
   avg_copies: 1.0
 ---

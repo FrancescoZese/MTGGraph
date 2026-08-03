@@ -14,8 +14,8 @@ archetypes:
     weight: 0.9583
     avg_copies: 3.83
   neoform-combo:
-    weight: 0.3222
-    avg_copies: 1.25
+    weight: 0.3261
+    avg_copies: 1.29
   bant-control:
     weight: 1.0
     avg_copies: 4.0
@@ -23,8 +23,8 @@ archetypes:
     weight: 0.7931
     avg_copies: 1.96
   unknown-67:
-    weight: 0.9625
-    avg_copies: 3.62
+    weight: 0.963
+    avg_copies: 3.63
   unknown-84:
     weight: 0.6667
     avg_copies: 2.0

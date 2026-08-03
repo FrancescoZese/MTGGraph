@@ -6,19 +6,19 @@ name: 'Unknown #101'
 meta_share: 0.0019
 list_count: 12
 top_cards:
-- name: Detective's Phoenix
+- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Nethergoyf
+- name: Detective's Phoenix
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
-- name: Hollow One
+- name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
 - name: Blood Crypt
@@ -120,10 +120,10 @@ top_cards:
 - name: Faerie Macabre
   weight: 0.25
   avg_copies: 2.67
-- name: Dragon's Rage Channeler
+- name: Vexing Bauble
   weight: 0.25
   avg_copies: 2.67
-- name: Vexing Bauble
+- name: Dragon's Rage Channeler
   weight: 0.25
   avg_copies: 2.67
 - name: Ox of Agonas
@@ -138,13 +138,10 @@ top_cards:
 - name: Wear
   weight: 0.0833
   avg_copies: 2.0
-- name: Blackcleave Cliffs
+- name: Molten Collapse
   weight: 0.0833
   avg_copies: 1.0
-- name: Cool but Rude
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Sacred Foundry
+- name: Sheoldred's Edict
   weight: 0.0833
   avg_copies: 1.0
 - name: Abrade
@@ -153,10 +150,13 @@ top_cards:
 - name: Seal of Fire
   weight: 0.0833
   avg_copies: 1.0
-- name: Molten Collapse
+- name: Cool but Rude
   weight: 0.0833
   avg_copies: 1.0
-- name: Sheoldred's Edict
+- name: Blackcleave Cliffs
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Sacred Foundry
   weight: 0.0833
   avg_copies: 1.0
 ---

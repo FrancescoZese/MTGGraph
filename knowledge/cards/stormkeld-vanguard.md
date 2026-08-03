@@ -10,9 +10,9 @@ type: Creature — Giant Warrior // Sorcery — Adventure
 meta_presence: 0.0003
 archetypes:
   neoform-combo:
-    weight: 0.0111
+    weight: 0.0109
     avg_copies: 1.0
   unknown-67:
-    weight: 0.0125
+    weight: 0.0123
     avg_copies: 2.0
 ---

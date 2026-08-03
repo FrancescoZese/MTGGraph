@@ -6,9 +6,9 @@ name: Hangarback Walker
 scryfall_id: cc387ccf-f746-4855-81e5-64f5a5e0fdda
 set: soc
 type: Artifact Creature — Construct
-meta_presence: 0.0005
+meta_presence: 0.0006
 archetypes:
   hardened-scales:
-    weight: 0.75
+    weight: 0.8
     avg_copies: 2.0
 ---
