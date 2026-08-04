@@ -133,22 +133,34 @@ top_cards:
 - name: Orim's Chant
   weight: 0.1111
   avg_copies: 2.0
-- name: Witch Enchanter
+- name: Surgical Extraction
   weight: 0.1111
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Witch Enchanter
   weight: 0.1111
   avg_copies: 1.0
 - name: Practiced Offense
   weight: 0.0556
   avg_copies: 2.0
-- name: Reprieve
-  weight: 0.0556
-  avg_copies: 2.0
 - name: Deafening Silence
   weight: 0.0556
   avg_copies: 2.0
+- name: Reprieve
+  weight: 0.0556
+  avg_copies: 2.0
+- name: Lightning Bolt
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Spell Pierce
+  weight: 0.0556
+  avg_copies: 1.0
 - name: Strix Serenade
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Vandalblast
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Marsh Flats
   weight: 0.0556
   avg_copies: 1.0
 - name: Boromir, Warden of the Tower
@@ -157,19 +169,7 @@ top_cards:
 - name: Magus of the Moon
   weight: 0.0556
   avg_copies: 1.0
-- name: Vandalblast
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Spell Pierce
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Marsh Flats
-  weight: 0.0556
-  avg_copies: 1.0
 - name: Soul-Guide Lantern
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Lightning Bolt
   weight: 0.0556
   avg_copies: 1.0
 - name: The Legend of Roku

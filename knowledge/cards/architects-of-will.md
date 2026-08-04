@@ -11,7 +11,7 @@ type: Artifact Creature — Human Wizard
 meta_presence: 0.0013
 archetypes:
   living-end:
-    weight: 0.0972
+    weight: 0.0959
     avg_copies: 1.29
   unknown-67:
     weight: 0.0123

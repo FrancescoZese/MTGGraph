@@ -6,14 +6,14 @@ name: Fell the Profane // Fell Mire
 scryfall_id: a3cb782d-c459-468d-9779-9b5669abc337
 set: mh3
 type: Instant // Land
-meta_presence: 0.012
+meta_presence: 0.0122
 archetypes:
   necrodominance:
     weight: 0.9545
     avg_copies: 3.95
   goryo5:
     weight: 1.0
-    avg_copies: 2.3
+    avg_copies: 2.29
   unknown-46:
     weight: 0.25
     avg_copies: 1.0
@@ -23,4 +23,7 @@ archetypes:
   unknown-78:
     weight: 1.0
     avg_copies: 2.0
+  unknown-211:
+    weight: 0.1667
+    avg_copies: 1.0
 ---

@@ -21,10 +21,10 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 3.62
-- name: Witherbloom Charm
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.5
-- name: Orcish Bowmasters
+- name: Witherbloom Charm
   weight: 1.0
   avg_copies: 3.5
 - name: Thoughtseize
@@ -39,18 +39,12 @@ top_cards:
 - name: Dauthi Voidwalker
   weight: 1.0
   avg_copies: 2.38
-- name: Culling Ritual
-  weight: 1.0
-  avg_copies: 2.12
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.12
-- name: March of Wretched Sorrow
+- name: Culling Ritual
   weight: 1.0
-  avg_copies: 2.0
-- name: Ashiok, Dream Render
-  weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 2.12
 - name: Castle Locthwain
   weight: 1.0
   avg_copies: 2.0
@@ -60,7 +54,13 @@ top_cards:
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 2.0
+- name: March of Wretched Sorrow
+  weight: 1.0
+  avg_copies: 2.0
 - name: Underground Mortuary
+  weight: 1.0
+  avg_copies: 2.0
+- name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 2.0
 - name: Professor Dellian Fel

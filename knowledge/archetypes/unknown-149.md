@@ -10,16 +10,16 @@ top_cards:
 - name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Ajani, Nacatl Pariah
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
-- name: Arid Mesa
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
@@ -55,16 +55,16 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.09
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Mountain
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
 - name: Island
@@ -106,10 +106,10 @@ top_cards:
 - name: Spell Pierce
   weight: 0.4545
   avg_copies: 1.2
-- name: Vandalblast
+- name: Meltdown
   weight: 0.4545
   avg_copies: 1.0
-- name: Meltdown
+- name: Vandalblast
   weight: 0.4545
   avg_copies: 1.0
 - name: Obsidian Charmaw
@@ -133,28 +133,28 @@ top_cards:
 - name: Rest in Peace
   weight: 0.2727
   avg_copies: 1.33
-- name: Scalding Tarn
+- name: Deafening Silence
   weight: 0.1818
   avg_copies: 1.5
-- name: Deafening Silence
+- name: Scalding Tarn
   weight: 0.1818
   avg_copies: 1.5
 - name: Arena of Glory
   weight: 0.1818
   avg_copies: 1.0
+- name: Voice of Victory
+  weight: 0.0909
+  avg_copies: 2.0
 - name: Marsh Flats
   weight: 0.0909
   avg_copies: 2.0
 - name: Clarion Conqueror
   weight: 0.0909
   avg_copies: 2.0
-- name: Voice of Victory
-  weight: 0.0909
-  avg_copies: 2.0
-- name: Containment Priest
+- name: March of Otherworldly Light
   weight: 0.0909
   avg_copies: 1.0
-- name: March of Otherworldly Light
+- name: Containment Priest
   weight: 0.0909
   avg_copies: 1.0
 - name: Detect Intrusion

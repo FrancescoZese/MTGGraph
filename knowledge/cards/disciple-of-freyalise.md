@@ -9,7 +9,7 @@ type: Creature — Elf Druid // Land
 meta_presence: 0.0374
 archetypes:
   living-end:
-    weight: 0.5833
+    weight: 0.589
     avg_copies: 1.0
   neoform-combo:
     weight: 0.9891
@@ -21,14 +21,14 @@ archetypes:
     weight: 0.8571
     avg_copies: 1.17
   cosmogoyf-fling:
-    weight: 0.2045
+    weight: 0.1957
     avg_copies: 1.11
   unknown-40:
     weight: 1.0
     avg_copies: 2.0
   unknown-61:
     weight: 1.0
-    avg_copies: 3.87
+    avg_copies: 3.83
   unknown-137:
     weight: 1.0
     avg_copies: 1.0

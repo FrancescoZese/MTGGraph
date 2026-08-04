@@ -9,16 +9,16 @@ name: 'Unknown #207'
 meta_share: 0.0016
 list_count: 10
 top_cards:
-- name: Scion of Draco
+- name: Leyline Binding
   weight: 1.0
   avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline Binding
+- name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline of the Guildpact
+- name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
@@ -39,19 +39,19 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.1
-- name: Thundering Falls
-  weight: 1.0
-  avg_copies: 1.0
 - name: Plains
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Indatha Triome
   weight: 1.0
   avg_copies: 1.0
 - name: Blood Crypt
+  weight: 1.0
+  avg_copies: 1.0
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Psychic Frog
@@ -72,10 +72,10 @@ top_cards:
 - name: Wrath of the Skies
   weight: 0.9
   avg_copies: 1.46
-- name: Godless Shrine
+- name: Temple Garden
   weight: 0.9
   avg_copies: 1.0
-- name: Temple Garden
+- name: Godless Shrine
   weight: 0.9
   avg_copies: 1.0
 - name: Wear
@@ -90,13 +90,13 @@ top_cards:
 - name: Pest Control
   weight: 0.6
   avg_copies: 1.83
-- name: Hallowed Fountain
+- name: Breeding Pool
   weight: 0.6
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.6
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Hallowed Fountain
   weight: 0.6
   avg_copies: 1.0
 - name: Thoughtseize
@@ -105,10 +105,10 @@ top_cards:
 - name: Practiced Offense
   weight: 0.4
   avg_copies: 2.0
-- name: Arena of Glory
+- name: Obsidian Charmaw
   weight: 0.4
   avg_copies: 2.0
-- name: Obsidian Charmaw
+- name: Arena of Glory
   weight: 0.4
   avg_copies: 2.0
 - name: Mountain
@@ -126,10 +126,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.1
   avg_copies: 3.0
-- name: Phelia, Exuberant Shepherd
+- name: Galvanic Discharge
   weight: 0.1
   avg_copies: 3.0
-- name: Galvanic Discharge
+- name: Phelia, Exuberant Shepherd
   weight: 0.1
   avg_copies: 3.0
 - name: High Noon
@@ -138,18 +138,6 @@ top_cards:
 - name: Clarion Conqueror
   weight: 0.1
   avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 0.1
-  avg_copies: 1.0
-- name: Solitude
-  weight: 0.1
-  avg_copies: 1.0
-- name: Ephemerate
-  weight: 0.1
-  avg_copies: 1.0
-- name: Nihil Spellbomb
-  weight: 0.1
-  avg_copies: 1.0
 - name: Lush Portico
   weight: 0.1
   avg_copies: 1.0
@@ -159,10 +147,22 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 0.1
   avg_copies: 1.0
-- name: Brotherhood's End
+- name: Nihil Spellbomb
+  weight: 0.1
+  avg_copies: 1.0
+- name: Solitude
+  weight: 0.1
+  avg_copies: 1.0
+- name: Vexing Bauble
   weight: 0.1
   avg_copies: 1.0
 - name: Sacred Foundry
+  weight: 0.1
+  avg_copies: 1.0
+- name: Brotherhood's End
+  weight: 0.1
+  avg_copies: 1.0
+- name: Ephemerate
   weight: 0.1
   avg_copies: 1.0
 ---

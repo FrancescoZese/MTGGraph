@@ -3,18 +3,9 @@ colors:
 - U
 - B
 name: 'Unknown #125'
-meta_share: 0.0013
-list_count: 8
+meta_share: 0.0014
+list_count: 9
 top_cards:
-- name: Thought Scour
-  weight: 1.0
-  avg_copies: 4.0
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
@@ -24,128 +15,140 @@ top_cards:
 - name: Unearth
   weight: 1.0
   avg_copies: 4.0
-- name: Force of Negation
+- name: Thought Scour
   weight: 1.0
-  avg_copies: 2.75
+  avg_copies: 4.0
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 4.0
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 3.89
 - name: Consign to Memory
   weight: 1.0
-  avg_copies: 2.73
+  avg_copies: 2.75
 - name: Watery Grave
   weight: 1.0
-  avg_copies: 2.62
+  avg_copies: 2.67
+- name: Force of Negation
+  weight: 1.0
+  avg_copies: 2.67
 - name: Island
   weight: 1.0
-  avg_copies: 2.25
+  avg_copies: 2.22
 - name: Mystical Dispute
   weight: 1.0
-  avg_copies: 2.12
-- name: Undercity Sewers
-  weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 2.11
 - name: Spell Snare
   weight: 1.0
   avg_copies: 2.0
 - name: Nihil Spellbomb
   weight: 1.0
   avg_copies: 2.0
-- name: Sink into Stupor
+- name: Undercity Sewers
   weight: 1.0
-  avg_copies: 1.12
+  avg_copies: 2.0
 - name: Swamp
   weight: 1.0
-  avg_copies: 1.12
+  avg_copies: 1.22
+- name: Sink into Stupor
+  weight: 1.0
+  avg_copies: 1.11
 - name: Misty Rainforest
-  weight: 0.875
-  avg_copies: 1.86
+  weight: 0.8889
+  avg_copies: 1.88
 - name: Counterspell
-  weight: 0.75
+  weight: 0.7778
   avg_copies: 4.0
 - name: Harbinger of the Seas
-  weight: 0.75
-  avg_copies: 2.25
-- name: Marsh Flats
-  weight: 0.75
-  avg_copies: 1.67
-- name: Orcish Bowmasters
-  weight: 0.625
-  avg_copies: 3.2
+  weight: 0.7778
+  avg_copies: 2.2
 - name: Thoughtseize
-  weight: 0.625
-  avg_copies: 3.12
+  weight: 0.6667
+  avg_copies: 3.22
+- name: Orcish Bowmasters
+  weight: 0.6667
+  avg_copies: 3.17
+- name: Darkslick Shores
+  weight: 0.6667
+  avg_copies: 1.67
+- name: Marsh Flats
+  weight: 0.6667
+  avg_copies: 1.67
 - name: Consider
-  weight: 0.625
+  weight: 0.5556
   avg_copies: 2.6
 - name: Gloomlake Verge
-  weight: 0.625
-  avg_copies: 1.6
-- name: Darkslick Shores
-  weight: 0.625
+  weight: 0.5556
   avg_copies: 1.6
 - name: Toxic Deluge
-  weight: 0.625
+  weight: 0.5556
   avg_copies: 1.0
 - name: Flooded Strand
-  weight: 0.625
+  weight: 0.5556
   avg_copies: 1.0
-- name: Murktide Regent
-  weight: 0.5
-  avg_copies: 2.0
 - name: Quantum Riddler
-  weight: 0.375
-  avg_copies: 3.67
+  weight: 0.4444
+  avg_copies: 3.5
+- name: Murktide Regent
+  weight: 0.4444
+  avg_copies: 2.0
 - name: Engineered Explosives
-  weight: 0.375
-  avg_copies: 2.0
-- name: Dress Down
-  weight: 0.375
-  avg_copies: 2.0
-- name: Scalding Tarn
-  weight: 0.375
-  avg_copies: 1.33
-- name: Sheoldred's Edict
-  weight: 0.375
-  avg_copies: 1.2
-- name: Go for the Throat
-  weight: 0.375
-  avg_copies: 1.0
-- name: The Meathook Massacre
-  weight: 0.375
-  avg_copies: 1.0
-- name: Shoot the Sheriff
-  weight: 0.375
-  avg_copies: 1.0
-- name: Subtlety
-  weight: 0.25
-  avg_copies: 2.67
-- name: Damnation
-  weight: 0.25
-  avg_copies: 2.0
-- name: Damping Sphere
-  weight: 0.25
+  weight: 0.3333
   avg_copies: 2.0
 - name: Stern Scolding
-  weight: 0.25
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Dress Down
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Damnation
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Scalding Tarn
+  weight: 0.3333
+  avg_copies: 1.33
+- name: Sheoldred's Edict
+  weight: 0.3333
+  avg_copies: 1.2
+- name: Shoot the Sheriff
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Go for the Throat
+  weight: 0.3333
+  avg_copies: 1.0
+- name: The Meathook Massacre
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Subtlety
+  weight: 0.2222
+  avg_copies: 2.67
+- name: Damping Sphere
+  weight: 0.2222
   avg_copies: 2.0
 - name: Bloodstained Mire
-  weight: 0.25
-  avg_copies: 1.0
-- name: Requiting Hex
-  weight: 0.25
+  weight: 0.2222
   avg_copies: 1.0
 - name: Verdant Catacombs
-  weight: 0.25
+  weight: 0.2222
   avg_copies: 1.0
-- name: Spell Pierce
-  weight: 0.125
+- name: Requiting Hex
+  weight: 0.2222
+  avg_copies: 1.0
+- name: Bitter Triumph
+  weight: 0.1111
+  avg_copies: 2.0
+- name: Boggart Trawler
+  weight: 0.1111
   avg_copies: 1.0
 - name: Snapcaster Mage
-  weight: 0.125
+  weight: 0.1111
   avg_copies: 1.0
-- name: Boggart Trawler
-  weight: 0.125
+- name: Spell Pierce
+  weight: 0.1111
   avg_copies: 1.0
 - name: Dreams of Steel and Oil
-  weight: 0.125
+  weight: 0.1111
   avg_copies: 1.0
 ---
 Unclassified archetype, pending review.

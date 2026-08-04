@@ -9,13 +9,13 @@ type: Land
 meta_presence: 0.0235
 archetypes:
   azorius-control:
-    weight: 0.022
+    weight: 0.0217
     avg_copies: 1.0
   living-end:
-    weight: 0.625
+    weight: 0.6301
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.1667
+    weight: 0.1636
     avg_copies: 1.0
   neoform-combo:
     weight: 0.0109
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.0435
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.022
+    weight: 0.0217
     avg_copies: 1.0
   bant-control:
     weight: 1.0

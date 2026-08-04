@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.2102
 archetypes:
   ruby-storm:
-    weight: 0.9435
+    weight: 0.9437
     avg_copies: 2.34
   amulet-titan:
     weight: 0.0301
@@ -36,10 +36,10 @@ archetypes:
     weight: 0.9274
     avg_copies: 1.48
   simic-ritual:
-    weight: 0.0879
+    weight: 0.087
     avg_copies: 3.38
   izzet-prowess:
-    weight: 0.8683
+    weight: 0.8692
     avg_copies: 2.51
   samwise-combo:
     weight: 0.4769
@@ -48,7 +48,7 @@ archetypes:
     weight: 0.6
     avg_copies: 2.67
   broodscale-combo:
-    weight: 0.3546
+    weight: 0.3579
     avg_copies: 1.21
   dredge:
     weight: 0.7778
@@ -147,8 +147,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-96:
-    weight: 0.7105
-    avg_copies: 2.56
+    weight: 0.7179
+    avg_copies: 2.5
   unknown-90:
     weight: 1.0
     avg_copies: 3.0
@@ -159,7 +159,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.75
   unknown-101:
-    weight: 0.5833
+    weight: 0.5385
     avg_copies: 2.0
   unknown-116:
     weight: 1.0
@@ -171,11 +171,11 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-122:
-    weight: 0.9231
+    weight: 0.8889
     avg_copies: 1.92
   unknown-126:
-    weight: 0.2941
-    avg_copies: 1.8
+    weight: 0.3333
+    avg_copies: 1.83
   unknown-127:
     weight: 1.0
     avg_copies: 4.0
@@ -233,4 +233,10 @@ archetypes:
   unknown-226:
     weight: 1.0
     avg_copies: 4.0
+  unknown-231:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-232:
+    weight: 1.0
+    avg_copies: 1.0
 ---

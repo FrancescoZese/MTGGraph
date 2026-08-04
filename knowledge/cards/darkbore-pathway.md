@@ -6,13 +6,13 @@ name: Darkbore Pathway // Slitherbore Pathway
 scryfall_id: 87a4e5fe-161f-42da-9ca2-67c8e8970e94
 set: khm
 type: Land // Land
-meta_presence: 0.0043
+meta_presence: 0.0045
 archetypes:
   cosmogoyf-fling:
-    weight: 0.4773
-    avg_copies: 1.9
+    weight: 0.4783
+    avg_copies: 1.95
   goryo5:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 2.0
   unknown-211:
     weight: 1.0

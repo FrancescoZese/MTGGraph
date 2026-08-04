@@ -150,115 +150,115 @@ top_cards:
 - name: Psychic Frog
   weight: 0.0455
   avg_copies: 4.0
-- name: Gonti's Machinations
-  weight: 0.0455
-  avg_copies: 4.0
 - name: Sorin, Imperious Bloodlord
   weight: 0.0455
   avg_copies: 4.0
 - name: Vein Ripper
   weight: 0.0455
   avg_copies: 4.0
-- name: Watery Grave
+- name: Gonti's Machinations
   weight: 0.0455
-  avg_copies: 3.5
+  avg_copies: 4.0
 - name: Consign to Memory
   weight: 0.0455
   avg_copies: 3.5
-- name: card:trespasser-s-curse
+- name: Watery Grave
+  weight: 0.0455
+  avg_copies: 3.5
+- name: Agadeem's Awakening
   weight: 0.0455
   avg_copies: 2.0
 - name: Long Goodbye
   weight: 0.0455
   avg_copies: 2.0
-- name: Agadeem's Awakening
+- name: card:trespasser-s-curse
   weight: 0.0455
   avg_copies: 2.0
-- name: Toxic Deluge
-  weight: 0.0455
-  avg_copies: 1.5
 - name: The Filigree Sylex
   weight: 0.0455
   avg_copies: 1.5
-- name: Legion's End
+- name: Toxic Deluge
+  weight: 0.0455
+  avg_copies: 1.5
+- name: Slaughter Pact
   weight: 0.0455
   avg_copies: 1.0
-- name: Slaughter Pact
+- name: Legion's End
   weight: 0.0455
   avg_copies: 1.0
 - name: Iridescent Vinelasher
   weight: 0.0227
   avg_copies: 4.0
-- name: Mystical Dispute
-  weight: 0.0227
-  avg_copies: 3.0
 - name: Quantum Riddler
   weight: 0.0227
   avg_copies: 3.0
-- name: Overgrown Tomb
+- name: Mystical Dispute
   weight: 0.0227
-  avg_copies: 2.0
-- name: Culling Ritual
-  weight: 0.0227
-  avg_copies: 2.0
-- name: Hurkyl's Recall
-  weight: 0.0227
-  avg_copies: 2.0
-- name: Mai, Scornful Striker
+  avg_copies: 3.0
+- name: Phyrexian Crusader
   weight: 0.0227
   avg_copies: 2.0
 - name: End of the Hunt
   weight: 0.0227
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Mai, Scornful Striker
   weight: 0.0227
   avg_copies: 2.0
-- name: Witherbloom Command
+- name: Culling Ritual
   weight: 0.0227
   avg_copies: 2.0
 - name: Pillage the Bog
   weight: 0.0227
   avg_copies: 2.0
-- name: Phyrexian Crusader
+- name: Hurkyl's Recall
   weight: 0.0227
   avg_copies: 2.0
+- name: Witherbloom Command
+  weight: 0.0227
+  avg_copies: 2.0
+- name: Overgrown Tomb
+  weight: 0.0227
+  avg_copies: 2.0
+- name: Vexing Bauble
+  weight: 0.0227
+  avg_copies: 2.0
+- name: Revitalizing Repast
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Grafdigger's Cage
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Ratchet Bomb
+  weight: 0.0227
+  avg_copies: 1.0
+- name: card:invoke-despair
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Pithing Needle
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Cling to Dust
+  weight: 0.0227
+  avg_copies: 1.0
 - name: Stone of Erech
   weight: 0.0227
   avg_copies: 1.0
 - name: Path of Peril
   weight: 0.0227
   avg_copies: 1.0
-- name: Pithing Needle
-  weight: 0.0227
-  avg_copies: 1.0
-- name: card:invoke-despair
+- name: Kaito, Bane of Nightmares
   weight: 0.0227
   avg_copies: 1.0
 - name: Blood Crypt
   weight: 0.0227
   avg_copies: 1.0
-- name: Kaito, Bane of Nightmares
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Grafdigger's Cage
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Nurturing Peatland
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Revitalizing Repast
+- name: card:hagra-mauling
   weight: 0.0227
   avg_copies: 1.0
 - name: Pick Your Poison
   weight: 0.0227
   avg_copies: 1.0
-- name: Cling to Dust
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Ratchet Bomb
-  weight: 0.0227
-  avg_copies: 1.0
-- name: card:hagra-mauling
+- name: Nurturing Peatland
   weight: 0.0227
   avg_copies: 1.0
 ---

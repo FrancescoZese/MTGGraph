@@ -7,7 +7,7 @@ name: Dragon's Rage Channeler
 scryfall_id: 4ced112a-e775-4f97-97b3-74877e9dce12
 set: mh2
 type: Creature — Human Shaman
-meta_presence: 0.0661
+meta_presence: 0.0662
 archetypes:
   hollow-one:
     weight: 0.7059
@@ -43,7 +43,7 @@ archetypes:
     weight: 0.125
     avg_copies: 4.0
   unknown-101:
-    weight: 0.25
+    weight: 0.2308
     avg_copies: 2.67
   unknown-122:
     weight: 1.0
@@ -61,6 +61,9 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-222:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-232:
     weight: 1.0
     avg_copies: 4.0
 ---

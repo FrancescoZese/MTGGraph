@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.1955
 archetypes:
   ruby-storm:
-    weight: 0.9652
+    weight: 0.9654
     avg_copies: 2.4
   boros-energy:
     weight: 0.0081
@@ -21,7 +21,7 @@ archetypes:
     weight: 0.2727
     avg_copies: 1.92
   domain-zoo:
-    weight: 0.0145
+    weight: 0.0144
     avg_copies: 4.0
   reanimator:
     weight: 0.8889
@@ -36,10 +36,10 @@ archetypes:
     weight: 1.0
     avg_copies: 3.56
   simic-ritual:
-    weight: 0.011
+    weight: 0.0109
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.9436
+    weight: 0.9439
     avg_copies: 2.88
   indomitable-creativity:
     weight: 1.0
@@ -70,10 +70,10 @@ archetypes:
     avg_copies: 1.0
   goryo1:
     weight: 1.0
-    avg_copies: 3.74
+    avg_copies: 3.73
   goryo5:
-    weight: 0.7391
-    avg_copies: 2.35
+    weight: 0.75
+    avg_copies: 2.44
   soultrader-combo:
     weight: 1.0
     avg_copies: 3.0
@@ -129,8 +129,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.12
   unknown-47:
-    weight: 0.2521
-    avg_copies: 1.4
+    weight: 0.2562
+    avg_copies: 1.39
   unknown-50:
     weight: 1.0
     avg_copies: 2.0
@@ -172,7 +172,7 @@ archetypes:
     avg_copies: 1.5
   unknown-96:
     weight: 1.0
-    avg_copies: 3.29
+    avg_copies: 3.28
   unknown-91:
     weight: 1.0
     avg_copies: 2.0
@@ -184,7 +184,7 @@ archetypes:
     avg_copies: 4.0
   unknown-101:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 3.08
   unknown-105:
     weight: 1.0
     avg_copies: 1.0
@@ -201,13 +201,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-122:
-    weight: 0.9615
-    avg_copies: 2.0
+    weight: 0.963
+    avg_copies: 1.96
   unknown-123:
     weight: 1.0
     avg_copies: 3.0
   unknown-125:
-    weight: 0.25
+    weight: 0.2222
     avg_copies: 1.0
   unknown-127:
     weight: 1.0
@@ -287,6 +287,9 @@ archetypes:
   unknown-229:
     weight: 1.0
     avg_copies: 1.0
+  unknown-232:
+    weight: 1.0
+    avg_copies: 2.0
   unknown-230:
     weight: 1.0
     avg_copies: 4.0

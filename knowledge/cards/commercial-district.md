@@ -9,8 +9,8 @@ type: Land — Mountain Forest
 meta_presence: 0.074
 archetypes:
   ruby-storm:
-    weight: 0.5435
-    avg_copies: 1.05
+    weight: 0.5455
+    avg_copies: 1.06
   amulet-titan:
     weight: 0.0301
     avg_copies: 1.0
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.2
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.3333
+    weight: 0.3404
     avg_copies: 1.0
   dredge:
     weight: 0.3333

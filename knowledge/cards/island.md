@@ -6,7 +6,7 @@ name: Island
 scryfall_id: 77b88bb8-6bd9-4632-b937-89468fcb5e6a
 set: sos
 type: Basic Land — Island
-meta_presence: 0.365
+meta_presence: 0.3657
 archetypes:
   ruby-storm:
     weight: 0.0087
@@ -15,7 +15,7 @@ archetypes:
     weight: 0.9877
     avg_copies: 2.48
   mono-blue-belcher:
-    weight: 0.6824
+    weight: 0.686
     avg_copies: 1.1
   jeskai-energy:
     weight: 0.8195
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.0033
     avg_copies: 1.0
   goryo:
-    weight: 0.9941
+    weight: 0.9942
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
@@ -33,7 +33,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.9444
+    weight: 0.9455
     avg_copies: 1.67
   affinity:
     weight: 0.9843
@@ -57,16 +57,16 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.011
+    weight: 0.0109
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.047
+    weight: 0.0467
     avg_copies: 1.07
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
   esper-blink:
-    weight: 0.5175
+    weight: 0.5128
     avg_copies: 1.02
   bant-control:
     weight: 1.0
@@ -93,14 +93,14 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo1:
-    weight: 0.9349
+    weight: 0.9294
     avg_copies: 1.0
   goryo7:
     weight: 1.0
     avg_copies: 1.0
   goryo2:
     weight: 1.0
-    avg_copies: 1.29
+    avg_copies: 1.27
   goryo3:
     weight: 1.0
     avg_copies: 2.0
@@ -180,8 +180,8 @@ archetypes:
     weight: 1.0
     avg_copies: 5.0
   unknown-47:
-    weight: 0.9916
-    avg_copies: 1.79
+    weight: 0.9917
+    avg_copies: 1.8
   unknown-51:
     weight: 1.0
     avg_copies: 2.0
@@ -189,8 +189,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-49:
-    weight: 0.8333
-    avg_copies: 1.8
+    weight: 0.8571
+    avg_copies: 1.83
   unknown-50:
     weight: 1.0
     avg_copies: 1.0
@@ -297,11 +297,11 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-122:
-    weight: 0.8462
+    weight: 0.8148
     avg_copies: 1.0
   unknown-125:
     weight: 1.0
-    avg_copies: 2.25
+    avg_copies: 2.22
   unknown-124:
     weight: 1.0
     avg_copies: 3.0
@@ -352,7 +352,7 @@ archetypes:
     avg_copies: 2.0
   unknown-167:
     weight: 1.0
-    avg_copies: 1.64
+    avg_copies: 1.58
   unknown-169:
     weight: 1.0
     avg_copies: 2.0
@@ -418,7 +418,7 @@ archetypes:
     avg_copies: 1.25
   unknown-216:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.5
   unknown-218:
     weight: 1.0
     avg_copies: 2.0
@@ -429,6 +429,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-229:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-231:
     weight: 1.0
     avg_copies: 1.0
 ---

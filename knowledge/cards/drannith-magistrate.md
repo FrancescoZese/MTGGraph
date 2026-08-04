@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0087
     avg_copies: 1.0
   boros-energy:
-    weight: 0.0732
+    weight: 0.0728
     avg_copies: 1.04
   jeskai-energy:
     weight: 0.0677
@@ -22,16 +22,16 @@ archetypes:
     weight: 0.0033
     avg_copies: 1.0
   goryo:
-    weight: 0.1006
+    weight: 0.0986
     avg_copies: 1.29
   living-end:
-    weight: 0.0694
+    weight: 0.0685
     avg_copies: 1.2
   jeskai-control:
-    weight: 0.0185
+    weight: 0.0182
     avg_copies: 2.0
   domain-zoo:
-    weight: 0.0145
+    weight: 0.0144
     avg_copies: 1.5
   boros-ponza:
     weight: 0.0496
@@ -40,7 +40,7 @@ archetypes:
     weight: 0.2857
     avg_copies: 2.0
   esper-blink:
-    weight: 0.1404
+    weight: 0.1368
     avg_copies: 1.56
   samwise-combo:
     weight: 0.5385
@@ -91,7 +91,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-126:
-    weight: 0.4412
+    weight: 0.4722
     avg_copies: 1.0
   unknown-144:
     weight: 0.2

@@ -5,7 +5,7 @@ colors:
 - R
 - G
 name: 'Unknown #67'
-meta_share: 0.0128
+meta_share: 0.0127
 list_count: 81
 top_cards:
 - name: Shardless Agent
@@ -38,10 +38,10 @@ top_cards:
 - name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
-- name: Forest
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Breeding Pool
@@ -173,10 +173,10 @@ top_cards:
 - name: Quantum Riddler
   weight: 0.0617
   avg_copies: 1.12
-- name: Sacred Foundry
+- name: Flare of Denial
   weight: 0.0617
   avg_copies: 1.0
-- name: Flare of Denial
+- name: Sacred Foundry
   weight: 0.0617
   avg_copies: 1.0
 - name: Flooded Grove
@@ -191,10 +191,10 @@ top_cards:
 - name: Overlord of the Balemurk
   weight: 0.0123
   avg_copies: 4.0
-- name: Polluted Delta
+- name: Fulminator Mage
   weight: 0.0123
   avg_copies: 3.0
-- name: Fulminator Mage
+- name: Polluted Delta
   weight: 0.0123
   avg_copies: 3.0
 - name: Architects of Will
@@ -203,40 +203,31 @@ top_cards:
 - name: card:runescale-stormbrood
   weight: 0.0123
   avg_copies: 2.0
-- name: Stormkeld Vanguard
-  weight: 0.0123
-  avg_copies: 2.0
-- name: Bonecrusher Giant
-  weight: 0.0123
-  avg_copies: 2.0
 - name: Culling Ritual
   weight: 0.0123
   avg_copies: 2.0
-- name: Vendilion Clique
-  weight: 0.0123
-  avg_copies: 2.0
-- name: Harbinger of the Seas
+- name: Stormkeld Vanguard
   weight: 0.0123
   avg_copies: 2.0
 - name: card:anger-of-the-gods
   weight: 0.0123
   avg_copies: 2.0
-- name: Ashiok, Dream Render
+- name: Bonecrusher Giant
   weight: 0.0123
-  avg_copies: 1.0
-- name: Gemstone Caverns
+  avg_copies: 2.0
+- name: Harbinger of the Seas
   weight: 0.0123
-  avg_copies: 1.0
-- name: Overgrown Tomb
+  avg_copies: 2.0
+- name: Vendilion Clique
   weight: 0.0123
-  avg_copies: 1.0
-- name: High Noon
-  weight: 0.0123
-  avg_copies: 1.0
-- name: card:cascade-bluffs
-  weight: 0.0123
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Underground Mortuary
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Meticulous Archive
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
   weight: 0.0123
   avg_copies: 1.0
 - name: Tokka & Rahzar, Terrible Twos
@@ -245,10 +236,13 @@ top_cards:
 - name: Collector Ouphe
   weight: 0.0123
   avg_copies: 1.0
-- name: Harvester of Misery
+- name: High Noon
   weight: 0.0123
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Gemstone Caverns
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Arid Mesa
   weight: 0.0123
   avg_copies: 1.0
 - name: Kataki, War's Wage
@@ -257,7 +251,13 @@ top_cards:
 - name: Brainsurge
   weight: 0.0123
   avg_copies: 1.0
-- name: Arid Mesa
+- name: Overgrown Tomb
+  weight: 0.0123
+  avg_copies: 1.0
+- name: card:cascade-bluffs
+  weight: 0.0123
+  avg_copies: 1.0
+- name: Harvester of Misery
   weight: 0.0123
   avg_copies: 1.0
 ---

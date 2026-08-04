@@ -14,31 +14,31 @@ archetypes:
     weight: 0.0617
     avg_copies: 1.0
   mono-blue-belcher:
-    weight: 0.0118
+    weight: 0.0116
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.3008
     avg_copies: 1.38
   goryo:
-    weight: 0.1272
+    weight: 0.1246
     avg_copies: 1.19
   necrodominance:
     weight: 0.1818
     avg_copies: 1.5
   azorius-control:
-    weight: 0.0549
+    weight: 0.0543
     avg_copies: 1.4
   living-end:
-    weight: 0.0278
+    weight: 0.0274
     avg_copies: 2.0
   jeskai-control:
-    weight: 0.1481
+    weight: 0.1455
     avg_copies: 1.0
   affinity:
-    weight: 0.0827
+    weight: 0.0824
     avg_copies: 1.02
   domain-zoo:
-    weight: 0.3333
+    weight: 0.3309
     avg_copies: 1.33
   mill:
     weight: 0.1176
@@ -56,14 +56,14 @@ archetypes:
     weight: 0.4111
     avg_copies: 1.11
   simic-ritual:
-    weight: 0.011
+    weight: 0.0109
     avg_copies: 1.0
   4c-omnath:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.1754
-    avg_copies: 1.75
+    weight: 0.1795
+    avg_copies: 1.71
   samwise-combo:
     weight: 0.0154
     avg_copies: 2.0
@@ -98,8 +98,8 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo5:
-    weight: 0.3913
-    avg_copies: 1.33
+    weight: 0.4167
+    avg_copies: 1.3
   goryo3:
     weight: 1.0
     avg_copies: 2.0
@@ -191,7 +191,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-167:
-    weight: 0.0909
+    weight: 0.0833
     avg_copies: 1.0
   unknown-175:
     weight: 1.0
@@ -204,5 +204,8 @@ archetypes:
     avg_copies: 2.0
   unknown-215:
     weight: 1.0
+    avg_copies: 1.0
+  unknown-216:
+    weight: 0.5
     avg_copies: 1.0
 ---

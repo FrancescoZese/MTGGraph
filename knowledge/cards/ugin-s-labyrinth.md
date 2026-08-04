@@ -6,7 +6,7 @@ name: Ugin's Labyrinth
 scryfall_id: 020e1348-1a35-4cc8-bad6-9fbddfa79277
 set: mh3
 type: Land
-meta_presence: 0.1086
+meta_presence: 0.108
 archetypes:
   eldrazi-tron:
     weight: 1.0
@@ -18,7 +18,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   broodscale-combo:
-    weight: 0.3901
+    weight: 0.386
     avg_copies: 3.85
   eldrazi-breach:
     weight: 1.0
@@ -31,7 +31,7 @@ archetypes:
     avg_copies: 4.0
   unknown-61:
     weight: 1.0
-    avg_copies: 3.89
+    avg_copies: 3.86
   unknown-55:
     weight: 1.0
     avg_copies: 4.0

@@ -10,7 +10,7 @@ type: Creature — Eye
 meta_presence: 0.0664
 archetypes:
   living-end:
-    weight: 0.0278
+    weight: 0.0274
     avg_copies: 1.0
   reanimator:
     weight: 0.8148
@@ -19,13 +19,13 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.989
+    weight: 0.9891
     avg_copies: 3.87
   izzet-prowess:
-    weight: 0.0533
+    weight: 0.053
     avg_copies: 1.24
   esper-blink:
-    weight: 0.0263
+    weight: 0.0256
     avg_copies: 2.0
   samwise-combo:
     weight: 0.5231

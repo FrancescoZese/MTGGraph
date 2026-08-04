@@ -9,10 +9,10 @@ type: Land
 meta_presence: 0.0229
 archetypes:
   azorius-control:
-    weight: 0.9121
+    weight: 0.913
     avg_copies: 1.24
   jeskai-control:
-    weight: 0.3704
+    weight: 0.3636
     avg_copies: 1.25
   bant-control:
     weight: 1.0

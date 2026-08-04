@@ -6,10 +6,10 @@ name: World Breaker
 scryfall_id: d25856c9-cb3d-44d9-905e-007f1af65c06
 set: eoc
 type: Creature — Eldrazi
-meta_presence: 0.0185
+meta_presence: 0.0183
 archetypes:
   eldrazi-tron:
-    weight: 0.01
+    weight: 0.0099
     avg_copies: 1.0
   eldrazi-ramp:
     weight: 0.7903

@@ -10,7 +10,7 @@ type: Creature — Zombie
 meta_presence: 0.0039
 archetypes:
   simic-ritual:
-    weight: 0.011
+    weight: 0.0109
     avg_copies: 4.0
   samwise-combo:
     weight: 0.0154

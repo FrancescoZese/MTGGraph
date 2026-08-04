@@ -6,7 +6,7 @@ name: Eldrazi Breach
 meta_share: 0.0006
 list_count: 4
 top_cards:
-- name: Through the Breach
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
@@ -15,10 +15,10 @@ top_cards:
 - name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
-- name: Emrakul, the Aeons Torn
+- name: Through the Breach
   weight: 1.0
   avg_copies: 4.0
-- name: Kozilek's Command
+- name: Emrakul, the Aeons Torn
   weight: 1.0
   avg_copies: 4.0
 - name: Devourer of Destiny
@@ -30,10 +30,10 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Talisman of Creativity
+- name: Stock Up
   weight: 0.75
   avg_copies: 4.0
-- name: Stock Up
+- name: Talisman of Creativity
   weight: 0.75
   avg_copies: 4.0
 - name: Consign to Memory
@@ -75,10 +75,10 @@ top_cards:
 - name: Yggdrasil, Rebirth Engine
   weight: 0.5
   avg_copies: 3.0
-- name: Soulless Jailer
+- name: Lightning Bolt
   weight: 0.5
   avg_copies: 2.0
-- name: Lightning Bolt
+- name: Soulless Jailer
   weight: 0.5
   avg_copies: 2.0
 - name: Spell Snare
@@ -90,22 +90,22 @@ top_cards:
 - name: Thundering Falls
   weight: 0.5
   avg_copies: 1.0
-- name: Dress Down
-  weight: 0.5
-  avg_copies: 1.0
 - name: Sink into Stupor
   weight: 0.5
   avg_copies: 1.0
-- name: Faithless Looting
-  weight: 0.25
-  avg_copies: 4.0
+- name: Dress Down
+  weight: 0.5
+  avg_copies: 1.0
 - name: Bloodstained Mire
   weight: 0.25
   avg_copies: 4.0
-- name: Talisman of Indulgence
+- name: Faithless Looting
   weight: 0.25
   avg_copies: 4.0
 - name: Thoughtseize
+  weight: 0.25
+  avg_copies: 4.0
+- name: Talisman of Indulgence
   weight: 0.25
   avg_copies: 4.0
 - name: Goryo's Vengeance
@@ -126,19 +126,19 @@ top_cards:
 - name: Fable of the Mirror-Breaker
   weight: 0.25
   avg_copies: 2.0
-- name: Unholy Heat
+- name: Meltdown
+  weight: 0.25
+  avg_copies: 2.0
+- name: Blood Crypt
   weight: 0.25
   avg_copies: 2.0
 - name: Void Mirror
   weight: 0.25
   avg_copies: 2.0
+- name: Unholy Heat
+  weight: 0.25
+  avg_copies: 2.0
 - name: Remand
-  weight: 0.25
-  avg_copies: 2.0
-- name: Meltdown
-  weight: 0.25
-  avg_copies: 2.0
-- name: Blood Crypt
   weight: 0.25
   avg_copies: 2.0
 - name: Raucous Theater

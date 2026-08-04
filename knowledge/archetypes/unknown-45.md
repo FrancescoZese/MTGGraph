@@ -3,16 +3,16 @@ colors:
 - U
 - B
 name: 'Unknown #45'
-meta_share: 0.0046
+meta_share: 0.0045
 list_count: 29
 top_cards:
+- name: Stitcher's Supplier
+  weight: 1.0
+  avg_copies: 4.0
 - name: Eyetwitch
   weight: 1.0
   avg_copies: 4.0
 - name: Archon of Cruelty
-  weight: 1.0
-  avg_copies: 4.0
-- name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
 - name: Swamp
@@ -114,10 +114,10 @@ top_cards:
 - name: card:baron-helmut-zemo
   weight: 0.3103
   avg_copies: 1.89
-- name: Faerie Macabre
+- name: Takenuma, Abandoned Mire
   weight: 0.2759
   avg_copies: 1.0
-- name: Takenuma, Abandoned Mire
+- name: Faerie Macabre
   weight: 0.2759
   avg_copies: 1.0
 - name: Culling Ritual
@@ -129,10 +129,10 @@ top_cards:
 - name: Polluted Delta
   weight: 0.2069
   avg_copies: 3.17
-- name: Vexing Bauble
+- name: Void Mirror
   weight: 0.2069
   avg_copies: 1.0
-- name: Void Mirror
+- name: Vexing Bauble
   weight: 0.2069
   avg_copies: 1.0
 - name: card:hollow-marauder
@@ -147,64 +147,64 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 0.069
   avg_copies: 1.5
-- name: Blood Crypt
-  weight: 0.069
-  avg_copies: 1.5
 - name: Mai, Scornful Striker
   weight: 0.069
   avg_copies: 1.5
-- name: card:summon-bahamut
+- name: Blood Crypt
+  weight: 0.069
+  avg_copies: 1.5
+- name: Cling to Dust
   weight: 0.069
   avg_copies: 1.0
 - name: Revitalizing Repast
   weight: 0.069
   avg_copies: 1.0
-- name: Cling to Dust
-  weight: 0.069
-  avg_copies: 1.0
 - name: Redirect Lightning
   weight: 0.069
   avg_copies: 1.0
-- name: Harvester of Misery
+- name: card:summon-bahamut
   weight: 0.069
   avg_copies: 1.0
 - name: Plague Engineer
   weight: 0.069
   avg_copies: 1.0
-- name: Price of Freedom
-  weight: 0.0345
-  avg_copies: 2.0
+- name: Harvester of Misery
+  weight: 0.069
+  avg_copies: 1.0
 - name: Nihil Spellbomb
   weight: 0.0345
   avg_copies: 2.0
-- name: Improvisation Capstone
+- name: Price of Freedom
   weight: 0.0345
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: card:the-terminus-of-return
   weight: 0.0345
   avg_copies: 1.0
-- name: Damping Sphere
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Forest
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Iroh's Demonstration
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Chthonian Nightmare
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Vampire Hexmage
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Raucous Theater
+- name: Liliana, the Last Hope
   weight: 0.0345
   avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 0.0345
   avg_copies: 1.0
-- name: Liliana, the Last Hope
+- name: Chthonian Nightmare
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Iroh's Demonstration
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Improvisation Capstone
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Damping Sphere
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Vampire Hexmage
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Forest
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Raucous Theater
   weight: 0.0345
   avg_copies: 1.0
 ---

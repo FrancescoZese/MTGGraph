@@ -9,31 +9,25 @@ top_cards:
 - name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Necrodominance
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:concealed-courtyard
-  weight: 1.0
-  avg_copies: 4.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Necrodominance
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
-- name: Field of Ruin
+- name: Solitude
   weight: 1.0
-  avg_copies: 3.0
-- name: Break the Ice
+  avg_copies: 4.0
+- name: card:concealed-courtyard
   weight: 1.0
-  avg_copies: 3.0
-- name: Ranger-Captain of Eos
-  weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Ajani, Nacatl Pariah
+  weight: 1.0
+  avg_copies: 3.0
+- name: Field of Ruin
   weight: 1.0
   avg_copies: 3.0
 - name: Arid Mesa
@@ -42,52 +36,64 @@ top_cards:
 - name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.0
+- name: Ranger-Captain of Eos
+  weight: 1.0
+  avg_copies: 3.0
+- name: Break the Ice
+  weight: 1.0
+  avg_copies: 3.0
+- name: Swamp
+  weight: 1.0
+  avg_copies: 2.0
+- name: Dark Confidant
+  weight: 1.0
+  avg_copies: 2.0
 - name: Inquisition of Kozilek
   weight: 1.0
   avg_copies: 2.0
 - name: Chthonian Nightmare
   weight: 1.0
   avg_copies: 2.0
-- name: Dark Confidant
-  weight: 1.0
-  avg_copies: 2.0
 - name: Plains
-  weight: 1.0
-  avg_copies: 2.0
-- name: Swamp
   weight: 1.0
   avg_copies: 2.0
 - name: card:fetid-heath
   weight: 1.0
   avg_copies: 2.0
-- name: Godless Shrine
+- name: Ephemerate
   weight: 1.0
   avg_copies: 2.0
-- name: Ephemerate
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 2.0
 - name: Fatal Push
   weight: 1.0
   avg_copies: 1.5
-- name: Witch Enchanter
+- name: Boggart Trawler
   weight: 1.0
   avg_copies: 1.0
 - name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
-- name: Boggart Trawler
+- name: Emperor of Bones
   weight: 1.0
   avg_copies: 1.0
-- name: card:adeline-resplendent-cathar
+- name: Witch Enchanter
+  weight: 1.0
+  avg_copies: 1.0
+- name: Nihil Spellbomb
+  weight: 1.0
+  avg_copies: 1.0
+- name: Sheoldred's Edict
+  weight: 1.0
+  avg_copies: 1.0
+- name: Bleachbone Verge
   weight: 1.0
   avg_copies: 1.0
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 1.0
-- name: Emperor of Bones
-  weight: 1.0
-  avg_copies: 1.0
-- name: Bleachbone Verge
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 1.0
 - name: Thraben Charm
@@ -96,13 +102,7 @@ top_cards:
 - name: Strategic Betrayal
   weight: 1.0
   avg_copies: 1.0
-- name: Sheoldred's Edict
-  weight: 1.0
-  avg_copies: 1.0
-- name: Nihil Spellbomb
-  weight: 1.0
-  avg_copies: 1.0
-- name: Thoughtseize
+- name: card:adeline-resplendent-cathar
   weight: 1.0
   avg_copies: 1.0
 ---

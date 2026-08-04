@@ -7,28 +7,28 @@ name: 'Unknown #34'
 meta_share: 0.0006
 list_count: 4
 top_cards:
-- name: Emrakul, the Aeons Torn
-  weight: 1.0
-  avg_copies: 4.0
-- name: Cragganwick Cremator
-  weight: 1.0
-  avg_copies: 4.0
-- name: Urza's Saga
+- name: Yargle and Multani
   weight: 1.0
   avg_copies: 4.0
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
-- name: Yargle and Multani
+- name: Urza's Saga
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cragganwick Cremator
+  weight: 1.0
+  avg_copies: 4.0
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
-- name: Goryo's Vengeance
+- name: Emrakul, the Aeons Torn
   weight: 1.0
   avg_copies: 4.0
-- name: Verdant Catacombs
+- name: Goryo's Vengeance
   weight: 1.0
   avg_copies: 4.0
 - name: Cabal Therapist
@@ -46,13 +46,13 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 2.0
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 2.0
 - name: Meltdown
   weight: 1.0
   avg_copies: 2.0
 - name: Blood Crypt
+  weight: 1.0
+  avg_copies: 2.0
+- name: Fatal Push
   weight: 1.0
   avg_copies: 2.0
 - name: Raucous Theater
@@ -70,13 +70,7 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.12
-- name: Mount Doom
-  weight: 1.0
-  avg_copies: 1.0
 - name: Pithing Needle
-  weight: 1.0
-  avg_copies: 1.0
-- name: Mountain
   weight: 1.0
   avg_copies: 1.0
 - name: Dismember
@@ -85,22 +79,28 @@ top_cards:
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 1.0
+- name: Mountain
+  weight: 1.0
+  avg_copies: 1.0
+- name: Mount Doom
+  weight: 1.0
+  avg_copies: 1.0
 - name: Dauthi Voidwalker
-  weight: 0.75
-  avg_copies: 2.0
-- name: Orcish Bowmasters
   weight: 0.75
   avg_copies: 2.0
 - name: Blackcleave Cliffs
   weight: 0.75
   avg_copies: 2.0
-- name: Blood Moon
+- name: Orcish Bowmasters
+  weight: 0.75
+  avg_copies: 2.0
+- name: Fable of the Mirror-Breaker
   weight: 0.75
   avg_copies: 1.0
 - name: Shattering Spree
   weight: 0.75
   avg_copies: 1.0
-- name: Fable of the Mirror-Breaker
+- name: Blood Moon
   weight: 0.75
   avg_copies: 1.0
 - name: Surgical Extraction

@@ -14,16 +14,16 @@ archetypes:
     weight: 0.0123
     avg_copies: 3.0
   mono-blue-belcher:
-    weight: 0.0118
+    weight: 0.0116
     avg_copies: 1.0
   necrodominance:
     weight: 0.4318
     avg_copies: 3.47
   goryo5:
-    weight: 0.1739
+    weight: 0.1667
     avg_copies: 1.75
   unknown-47:
-    weight: 0.0084
+    weight: 0.0083
     avg_copies: 1.0
   unknown-69:
     weight: 0.5

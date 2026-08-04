@@ -13,23 +13,23 @@ archetypes:
     weight: 0.679
     avg_copies: 1.82
   mono-blue-belcher:
-    weight: 0.6353
-    avg_copies: 1.8
+    weight: 0.6395
+    avg_copies: 1.79
   living-end:
-    weight: 0.0694
+    weight: 0.0685
     avg_copies: 1.33
   jeskai-control:
-    weight: 0.0185
+    weight: 0.0182
     avg_copies: 2.0
   affinity:
-    weight: 0.2343
+    weight: 0.2333
     avg_copies: 1.28
   reanimator:
     weight: 0.1481
     avg_copies: 1.5
   simic-ritual:
-    weight: 0.956
-    avg_copies: 2.08
+    weight: 0.9565
+    avg_copies: 2.09
   bant-control:
     weight: 1.0
     avg_copies: 3.0
@@ -40,7 +40,7 @@ archetypes:
     weight: 0.4375
     avg_copies: 2.57
   goryo1:
-    weight: 0.2604
+    weight: 0.2588
     avg_copies: 1.34
   goryo3:
     weight: 1.0
@@ -79,10 +79,10 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9664
-    avg_copies: 2.41
+    weight: 0.9669
+    avg_copies: 2.39
   unknown-49:
-    weight: 0.1667
+    weight: 0.1429
     avg_copies: 2.0
   unknown-50:
     weight: 1.0
@@ -118,8 +118,8 @@ archetypes:
     weight: 0.4
     avg_copies: 2.0
   unknown-125:
-    weight: 0.75
-    avg_copies: 2.25
+    weight: 0.7778
+    avg_copies: 2.2
   unknown-139:
     weight: 0.5714
     avg_copies: 1.0
@@ -133,7 +133,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   unknown-167:
-    weight: 0.1818
+    weight: 0.1667
     avg_copies: 1.33
   unknown-164:
     weight: 1.0

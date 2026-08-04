@@ -10,6 +10,6 @@ type: Creature — Dragon
 meta_presence: 0.0019
 archetypes:
   affinity:
-    weight: 0.0236
+    weight: 0.0235
     avg_copies: 1.83
 ---

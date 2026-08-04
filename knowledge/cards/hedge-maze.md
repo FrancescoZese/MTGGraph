@@ -15,13 +15,13 @@ archetypes:
     weight: 0.0241
     avg_copies: 1.0
   goryo:
-    weight: 0.1568
+    weight: 0.1536
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0989
+    weight: 0.0978
     avg_copies: 1.0
   living-end:
-    weight: 0.9861
+    weight: 0.9863
     avg_copies: 1.03
   neoform-combo:
     weight: 0.9891
@@ -30,7 +30,7 @@ archetypes:
     weight: 0.0968
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.989
+    weight: 0.9891
     avg_copies: 1.77
   4c-omnath:
     weight: 0.75
@@ -90,7 +90,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-167:
-    weight: 0.3636
+    weight: 0.3333
     avg_copies: 1.0
   unknown-171:
     weight: 1.0

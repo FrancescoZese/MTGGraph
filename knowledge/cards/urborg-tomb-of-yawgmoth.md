@@ -6,10 +6,10 @@ name: Urborg, Tomb of Yawgmoth
 scryfall_id: 9e1a9e38-6ffc-490f-b0be-23ba4e8204c6
 set: tsr
 type: Legendary Land
-meta_presence: 0.0058
+meta_presence: 0.0059
 archetypes:
   simic-ritual:
-    weight: 0.011
+    weight: 0.0109
     avg_copies: 1.0
   soultrader-combo:
     weight: 0.1429
@@ -38,4 +38,7 @@ archetypes:
   unknown-199:
     weight: 1.0
     avg_copies: 4.0
+  unknown-211:
+    weight: 0.1667
+    avg_copies: 1.0
 ---

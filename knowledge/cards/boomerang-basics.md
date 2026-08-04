@@ -10,13 +10,13 @@ type: Sorcery — Lesson
 meta_presence: 0.0161
 archetypes:
   affinity:
-    weight: 0.0079
+    weight: 0.0078
     avg_copies: 1.67
   domain-zoo:
     weight: 0.0072
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.1348
+    weight: 0.134
     avg_copies: 2.12
   izzet-artifacts:
     weight: 0.5
@@ -35,5 +35,5 @@ archetypes:
     avg_copies: 4.0
   unknown-122:
     weight: 1.0
-    avg_copies: 2.65
+    avg_copies: 2.68
 ---

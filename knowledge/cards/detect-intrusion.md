@@ -6,7 +6,7 @@ name: Detect Intrusion
 scryfall_id: ''
 set: ''
 type: Unknown
-meta_presence: 0.0021
+meta_presence: 0.002
 archetypes:
   affinity:
     weight: 0.0039

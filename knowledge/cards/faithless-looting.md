@@ -34,7 +34,7 @@ archetypes:
     weight: 0.4737
     avg_copies: 2.56
   cosmogoyf-fling:
-    weight: 0.0909
+    weight: 0.087
     avg_copies: 3.0
   naya-midrange:
     weight: 1.0

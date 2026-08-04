@@ -13,10 +13,10 @@ archetypes:
     weight: 0.8
     avg_copies: 2.25
   affinity:
-    weight: 0.9469
+    weight: 0.9471
     avg_copies: 1.82
   broodscale-combo:
-    weight: 0.0426
+    weight: 0.0491
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.25
@@ -31,7 +31,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-49:
-    weight: 0.6667
+    weight: 0.5714
     avg_copies: 1.5
   unknown-98:
     weight: 0.5

@@ -9,13 +9,13 @@ type: Land — Mountain Forest
 meta_presence: 0.0888
 archetypes:
   ruby-storm:
-    weight: 0.1087
+    weight: 0.1126
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.0075
     avg_copies: 1.0
   living-end:
-    weight: 0.0278
+    weight: 0.0274
     avg_copies: 1.0
   hollow-one:
     weight: 0.0882
@@ -24,10 +24,10 @@ archetypes:
     weight: 0.9839
     avg_copies: 1.4
   simic-ritual:
-    weight: 0.033
+    weight: 0.0326
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.1442
+    weight: 0.1433
     avg_copies: 1.04
   4c-omnath:
     weight: 0.5
@@ -39,7 +39,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.4539
+    weight: 0.4596
     avg_copies: 1.1
   dredge:
     weight: 0.9259
@@ -102,7 +102,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.2368
+    weight: 0.2308
     avg_copies: 2.0
   unknown-90:
     weight: 1.0
@@ -117,7 +117,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-122:
-    weight: 0.3462
+    weight: 0.3333
     avg_copies: 1.0
   unknown-128:
     weight: 1.0

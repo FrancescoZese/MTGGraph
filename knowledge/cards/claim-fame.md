@@ -11,10 +11,10 @@ type: Sorcery // Sorcery
 meta_presence: 0.0009
 archetypes:
   boros-energy:
-    weight: 0.0014
+    weight: 0.0013
     avg_copies: 2.0
   cosmogoyf-fling:
-    weight: 0.0682
+    weight: 0.0652
     avg_copies: 2.75
   unknown-161:
     weight: 1.0

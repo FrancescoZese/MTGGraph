@@ -7,7 +7,7 @@ name: Lava Spike
 scryfall_id: 79c21c1f-eaa4-454d-a1c7-b41466d0a428
 set: uma
 type: Sorcery — Arcane
-meta_presence: 0.0088
+meta_presence: 0.0089
 archetypes:
   burn:
     weight: 1.0
@@ -22,6 +22,9 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-178:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-232:
     weight: 1.0
     avg_copies: 4.0
 ---

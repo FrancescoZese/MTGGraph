@@ -6,7 +6,7 @@ colors:
 - R
 - G
 name: Neoform Combo
-meta_share: 0.0145
+meta_share: 0.0144
 list_count: 92
 top_cards:
 - name: Eldritch Evolution
@@ -156,16 +156,16 @@ top_cards:
 - name: Eladamri's Call
   weight: 0.0326
   avg_copies: 2.2
-- name: Meticulous Archive
-  weight: 0.0326
-  avg_copies: 1.0
 - name: Force of Vigor
   weight: 0.0326
   avg_copies: 1.0
-- name: Invasion of Gobakhan
+- name: Meticulous Archive
+  weight: 0.0326
+  avg_copies: 1.0
+- name: Glittering Wish
   weight: 0.0217
   avg_copies: 4.0
-- name: Glittering Wish
+- name: Invasion of Gobakhan
   weight: 0.0217
   avg_copies: 4.0
 - name: Gemstone Mine
@@ -177,46 +177,43 @@ top_cards:
 - name: Rakshasa's Bargain
   weight: 0.0217
   avg_copies: 3.0
-- name: Undercity Sewers
-  weight: 0.0217
-  avg_copies: 1.0
-- name: Thundering Falls
+- name: Lush Portico
   weight: 0.0217
   avg_copies: 1.0
 - name: Underground Mortuary
   weight: 0.0217
   avg_copies: 1.0
-- name: Raph & Mikey, Troublemakers
-  weight: 0.0217
-  avg_copies: 1.0
-- name: Wan Shi Tong, Librarian
-  weight: 0.0217
-  avg_copies: 1.0
-- name: Borborygmos Enraged
-  weight: 0.0217
-  avg_copies: 1.0
-- name: Stump Stomp
-  weight: 0.0217
-  avg_copies: 1.0
-- name: Lush Portico
-  weight: 0.0217
-  avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Nature's Chant
   weight: 0.0217
   avg_copies: 1.0
 - name: Firespout
   weight: 0.0217
   avg_copies: 1.0
-- name: Nature's Chant
+- name: Wan Shi Tong, Librarian
+  weight: 0.0217
+  avg_copies: 1.0
+- name: Raph & Mikey, Troublemakers
+  weight: 0.0217
+  avg_copies: 1.0
+- name: Thundering Falls
   weight: 0.0217
   avg_copies: 1.0
 - name: Detention Sphere
   weight: 0.0217
   avg_copies: 1.0
-- name: Voice of Victory
-  weight: 0.0109
-  avg_copies: 4.0
-- name: Summoning Trap
+- name: Borborygmos Enraged
+  weight: 0.0217
+  avg_copies: 1.0
+- name: Undercity Sewers
+  weight: 0.0217
+  avg_copies: 1.0
+- name: Stump Stomp
+  weight: 0.0217
+  avg_copies: 1.0
+- name: Otawara, Soaring City
+  weight: 0.0217
+  avg_copies: 1.0
+- name: Detect Intrusion
   weight: 0.0109
   avg_copies: 4.0
 - name: Geometer's Arthropod
@@ -225,7 +222,10 @@ top_cards:
 - name: Hexing Squelcher
   weight: 0.0109
   avg_copies: 4.0
-- name: Detect Intrusion
+- name: Voice of Victory
+  weight: 0.0109
+  avg_copies: 4.0
+- name: Summoning Trap
   weight: 0.0109
   avg_copies: 4.0
 - name: Birthing Ritual
@@ -234,31 +234,7 @@ top_cards:
 - name: Quantum Riddler
   weight: 0.0109
   avg_copies: 2.0
-- name: Mistrise Village
-  weight: 0.0109
-  avg_copies: 1.0
-- name: Stormkeld Vanguard
-  weight: 0.0109
-  avg_copies: 1.0
 - name: Commercial District
-  weight: 0.0109
-  avg_copies: 1.0
-- name: Subtlety
-  weight: 0.0109
-  avg_copies: 1.0
-- name: Leatherhead, Swamp Stalker
-  weight: 0.0109
-  avg_copies: 1.0
-- name: Temple Garden
-  weight: 0.0109
-  avg_copies: 1.0
-- name: card:fungal-colossus
-  weight: 0.0109
-  avg_copies: 1.0
-- name: Serra's Emissary
-  weight: 0.0109
-  avg_copies: 1.0
-- name: Hallowed Fountain
   weight: 0.0109
   avg_copies: 1.0
 - name: Crucible of Worlds
@@ -267,7 +243,31 @@ top_cards:
 - name: card:daring-waverider
   weight: 0.0109
   avg_copies: 1.0
+- name: card:fungal-colossus
+  weight: 0.0109
+  avg_copies: 1.0
+- name: Stormkeld Vanguard
+  weight: 0.0109
+  avg_copies: 1.0
+- name: Mistrise Village
+  weight: 0.0109
+  avg_copies: 1.0
+- name: Leatherhead, Swamp Stalker
+  weight: 0.0109
+  avg_copies: 1.0
+- name: Temple Garden
+  weight: 0.0109
+  avg_copies: 1.0
+- name: Serra's Emissary
+  weight: 0.0109
+  avg_copies: 1.0
 - name: Brainsurge
+  weight: 0.0109
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 0.0109
+  avg_copies: 1.0
+- name: Subtlety
   weight: 0.0109
   avg_copies: 1.0
 ---
