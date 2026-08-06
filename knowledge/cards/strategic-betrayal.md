@@ -13,7 +13,7 @@ archetypes:
     weight: 0.1852
     avg_copies: 1.06
   samwise-combo:
-    weight: 0.0154
+    weight: 0.0152
     avg_copies: 1.0
   esper-midrange:
     weight: 1.0
@@ -28,7 +28,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0083
+    weight: 0.0077
     avg_copies: 1.0
   unknown-68:
     weight: 0.05

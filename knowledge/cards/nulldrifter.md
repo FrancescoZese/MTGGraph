@@ -12,10 +12,10 @@ archetypes:
     weight: 0.0182
     avg_copies: 3.0
   domain-zoo:
-    weight: 0.036
+    weight: 0.0355
     avg_copies: 2.2
   mono-blue-tron:
-    weight: 0.1304
+    weight: 0.125
     avg_copies: 2.67
   eldrazi-ramp:
     weight: 0.0968

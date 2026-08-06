@@ -7,9 +7,12 @@ name: Cauldron Familiar
 scryfall_id: 32cf273e-b8f7-434b-9d5d-883dfd6f7423
 set: jmp
 type: Creature — Cat
-meta_presence: 0.0102
+meta_presence: 0.0103
 archetypes:
   samwise-combo:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-235:
     weight: 1.0
     avg_copies: 4.0
 ---

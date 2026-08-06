@@ -8,19 +8,19 @@ name: Wear // Tear
 scryfall_id: e01cc65a-0e38-4f41-b9ed-796ef0355d0b
 set: moc
 type: Instant // Instant
-meta_presence: 0.237
+meta_presence: 0.2282
 archetypes:
   ruby-storm:
-    weight: 0.8918
+    weight: 0.8879
     avg_copies: 2.24
   boros-energy:
-    weight: 0.9515
+    weight: 0.9518
     avg_copies: 1.62
   jeskai-energy:
-    weight: 0.3459
-    avg_copies: 1.2
+    weight: 0.015
+    avg_copies: 1.0
   azorius-control:
-    weight: 0.0109
+    weight: 0.0105
     avg_copies: 2.0
   jeskai-control:
     weight: 0.0364
@@ -29,8 +29,8 @@ archetypes:
     weight: 0.0039
     avg_copies: 2.0
   domain-zoo:
-    weight: 0.9856
-    avg_copies: 1.54
+    weight: 0.9858
+    avg_copies: 1.55
   burn:
     weight: 0.5
     avg_copies: 2.11
@@ -44,13 +44,13 @@ archetypes:
     weight: 0.766
     avg_copies: 1.77
   izzet-prowess:
-    weight: 0.0125
+    weight: 0.012
     avg_copies: 1.75
   4c-omnath:
     weight: 0.5
     avg_copies: 2.5
   azorius-blink:
-    weight: 0.0769
+    weight: 0.0758
     avg_copies: 1.0
   goryo0:
     weight: 1.0
@@ -86,7 +86,7 @@ archetypes:
     weight: 0.95
     avg_copies: 1.71
   unknown-70:
-    weight: 0.2778
+    weight: 0.2632
     avg_copies: 1.2
   unknown-72:
     weight: 1.0
@@ -95,8 +95,8 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.5
   unknown-85:
-    weight: 0.9375
-    avg_copies: 1.87
+    weight: 0.9412
+    avg_copies: 1.88
   unknown-86:
     weight: 0.5833
     avg_copies: 2.14
@@ -104,8 +104,8 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.0
   unknown-96:
-    weight: 0.8718
-    avg_copies: 2.03
+    weight: 0.878
+    avg_copies: 2.0
   unknown-99:
     weight: 1.0
     avg_copies: 1.0
@@ -113,7 +113,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-101:
-    weight: 0.0769
+    weight: 0.0714
     avg_copies: 2.0
   unknown-110:
     weight: 1.0
@@ -173,8 +173,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-207:
-    weight: 0.7
-    avg_copies: 1.86
+    weight: 0.7273
+    avg_copies: 1.88
   unknown-217:
     weight: 1.0
     avg_copies: 2.0
@@ -187,4 +187,7 @@ archetypes:
   unknown-232:
     weight: 1.0
     avg_copies: 2.0
+  unknown-233:
+    weight: 1.0
+    avg_copies: 1.0
 ---

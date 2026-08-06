@@ -6,32 +6,32 @@ name: Breeding Pool
 scryfall_id: 3c750d5a-f743-41ff-b5ba-02025ca0bec2
 set: eoe
 type: Land — Forest Island
-meta_presence: 0.118
+meta_presence: 0.1193
 archetypes:
   jeskai-energy:
     weight: 0.0075
     avg_copies: 1.0
   goryo:
-    weight: 0.5217
+    weight: 0.5271
     avg_copies: 1.0
   azorius-control:
-    weight: 0.1413
+    weight: 0.1474
     avg_copies: 1.0
   living-end:
     weight: 1.0
     avg_copies: 1.03
   affinity:
-    weight: 0.002
+    weight: 0.0019
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0432
+    weight: 0.0426
     avg_copies: 1.0
   reanimator:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.9891
-    avg_copies: 1.05
+    weight: 0.9896
+    avg_copies: 1.06
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
@@ -39,13 +39,13 @@ archetypes:
     weight: 0.0887
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.9891
+    weight: 0.9892
     avg_copies: 1.24
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.5231
+    weight: 0.5303
     avg_copies: 1.0
   bant-control:
     weight: 1.0
@@ -85,7 +85,7 @@ archetypes:
     avg_copies: 1.1
   unknown-67:
     weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 1.01
   unknown-72:
     weight: 1.0
     avg_copies: 1.0
@@ -93,7 +93,7 @@ archetypes:
     weight: 0.8333
     avg_copies: 1.0
   unknown-85:
-    weight: 0.625
+    weight: 0.5882
     avg_copies: 1.0
   unknown-84:
     weight: 0.6667
@@ -132,8 +132,8 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   unknown-167:
-    weight: 0.75
-    avg_copies: 1.33
+    weight: 0.7857
+    avg_copies: 1.27
   unknown-171:
     weight: 1.0
     avg_copies: 2.0
@@ -147,10 +147,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-207:
-    weight: 0.6
+    weight: 0.6364
     avg_copies: 1.0
   unknown-213:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 1.0
   unknown-216:
     weight: 1.0
@@ -159,6 +159,12 @@ archetypes:
     weight: 1.0
     avg_copies: 1.33
   unknown-227:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-237:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-238:
     weight: 1.0
     avg_copies: 1.0
 ---

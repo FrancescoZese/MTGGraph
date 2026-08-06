@@ -9,22 +9,22 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 5.67
+- name: Break the Ice
+  weight: 1.0
+  avg_copies: 4.0
 - name: Darkbore Pathway
   weight: 1.0
   avg_copies: 4.0
 - name: Soul Spike
   weight: 1.0
   avg_copies: 4.0
-- name: Cosmogoyf
-  weight: 1.0
-  avg_copies: 4.0
 - name: Necrodominance
   weight: 1.0
   avg_copies: 4.0
-- name: Blooming Marsh
+- name: Cosmogoyf
   weight: 1.0
   avg_copies: 4.0
-- name: Break the Ice
+- name: Blooming Marsh
   weight: 1.0
   avg_copies: 4.0
 - name: Plunge into Darkness
@@ -81,28 +81,28 @@ top_cards:
 - name: Verdant Catacombs
   weight: 0.3333
   avg_copies: 4.0
-- name: Underground Mortuary
+- name: Overgrown Tomb
   weight: 0.3333
   avg_copies: 1.0
-- name: Overgrown Tomb
+- name: Underground Mortuary
   weight: 0.3333
   avg_copies: 1.0
 - name: Veil of Summer
   weight: 0.1667
   avg_copies: 3.0
-- name: Dauthi Voidwalker
+- name: Nurturing Peatland
   weight: 0.1667
   avg_copies: 2.0
 - name: Thoughtseize
   weight: 0.1667
   avg_copies: 2.0
-- name: The Meathook Massacre
-  weight: 0.1667
-  avg_copies: 2.0
 - name: card:demonic-bargain
   weight: 0.1667
   avg_copies: 2.0
-- name: Nurturing Peatland
+- name: Dauthi Voidwalker
+  weight: 0.1667
+  avg_copies: 2.0
+- name: The Meathook Massacre
   weight: 0.1667
   avg_copies: 2.0
 - name: March of Wretched Sorrow

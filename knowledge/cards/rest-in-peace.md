@@ -7,11 +7,11 @@ name: Rest in Peace
 scryfall_id: d108c2b1-236e-4b8d-8445-d9749ccc4fea
 set: big
 type: Enchantment
-meta_presence: 0.0955
+meta_presence: 0.095
 archetypes:
   boros-energy:
-    weight: 0.2318
-    avg_copies: 1.58
+    weight: 0.2316
+    avg_copies: 1.59
   dimir-control:
     weight: 0.0123
     avg_copies: 1.0
@@ -19,14 +19,14 @@ archetypes:
     weight: 0.0301
     avg_copies: 1.5
   azorius-control:
-    weight: 0.7826
-    avg_copies: 1.56
+    weight: 0.7895
+    avg_copies: 1.57
   jeskai-control:
     weight: 0.2545
     avg_copies: 1.64
   domain-zoo:
-    weight: 0.2302
-    avg_copies: 1.38
+    weight: 0.234
+    avg_copies: 1.39
   burn:
     weight: 0.3158
     avg_copies: 2.25
@@ -34,14 +34,14 @@ archetypes:
     weight: 0.8298
     avg_copies: 2.61
   esper-blink:
-    weight: 0.0085
+    weight: 0.0083
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.0667
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.6308
-    avg_copies: 1.62
+    weight: 0.6364
+    avg_copies: 1.63
   esper-control:
     weight: 1.0
     avg_copies: 2.0
@@ -58,13 +58,13 @@ archetypes:
     weight: 0.05
     avg_copies: 1.0
   unknown-70:
-    weight: 0.2778
+    weight: 0.2632
     avg_copies: 1.8
   unknown-75:
     weight: 1.0
     avg_copies: 2.0
   unknown-85:
-    weight: 0.4375
+    weight: 0.4118
     avg_copies: 1.86
   unknown-89:
     weight: 1.0
@@ -127,9 +127,12 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-207:
-    weight: 0.7
+    weight: 0.6364
     avg_copies: 1.71
   unknown-232:
     weight: 1.0
     avg_copies: 3.0
+  unknown-236:
+    weight: 1.0
+    avg_copies: 1.0
 ---

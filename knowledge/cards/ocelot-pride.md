@@ -7,13 +7,13 @@ name: Ocelot Pride
 scryfall_id: 89cf6f57-230f-497e-a14e-ad1e8737fd42
 set: mh3
 type: Creature — Cat
-meta_presence: 0.1492
+meta_presence: 0.1478
 archetypes:
   boros-energy:
     weight: 1.0
     avg_copies: 3.96
   esper-blink:
-    weight: 0.0171
+    weight: 0.0167
     avg_copies: 4.0
   azorius-blink:
     weight: 1.0
@@ -35,7 +35,7 @@ archetypes:
     avg_copies: 3.92
   unknown-70:
     weight: 1.0
-    avg_copies: 3.94
+    avg_copies: 3.95
   unknown-75:
     weight: 1.0
     avg_copies: 4.0

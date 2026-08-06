@@ -2,22 +2,22 @@
 colors:
 - R
 name: 'Unknown #86'
-meta_share: 0.0019
+meta_share: 0.0018
 list_count: 12
 top_cards:
+- name: Monastery Swiftspear
+  weight: 1.0
+  avg_copies: 4.0
 - name: Cori-Steel Cutter
-  weight: 1.0
-  avg_copies: 4.0
-- name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Lava Spike
   weight: 1.0
   avg_copies: 4.0
 - name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
-- name: Monastery Swiftspear
+- name: Lava Spike
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
@@ -95,16 +95,16 @@ top_cards:
 - name: Deflecting Palm
   weight: 0.25
   avg_copies: 1.67
-- name: Magebane Lizard
-  weight: 0.1667
-  avg_copies: 3.0
 - name: Damping Sphere
   weight: 0.1667
   avg_copies: 3.0
-- name: Pyroclasm
+- name: Magebane Lizard
+  weight: 0.1667
+  avg_copies: 3.0
+- name: Obsidian Charmaw
   weight: 0.1667
   avg_copies: 2.5
-- name: Obsidian Charmaw
+- name: Pyroclasm
   weight: 0.1667
   avg_copies: 2.5
 - name: card:reinforced-ronin
@@ -125,31 +125,31 @@ top_cards:
 - name: Smash to Smithereens
   weight: 0.0833
   avg_copies: 3.0
-- name: Boros Charm
-  weight: 0.0833
-  avg_copies: 2.0
-- name: Gut Shot
-  weight: 0.0833
-  avg_copies: 2.0
 - name: Path to Exile
   weight: 0.0833
   avg_copies: 2.0
 - name: Vexing Bauble
   weight: 0.0833
   avg_copies: 2.0
-- name: Commercial District
+- name: Boros Charm
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Gut Shot
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Sokenzan, Crucible of Defiance
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Engineered Explosives
   weight: 0.0833
   avg_copies: 1.0
 - name: Prismatic Ending
   weight: 0.0833
   avg_copies: 1.0
-- name: Sokenzan, Crucible of Defiance
-  weight: 0.0833
-  avg_copies: 1.0
 - name: Stomping Ground
   weight: 0.0833
   avg_copies: 1.0
-- name: Engineered Explosives
+- name: Commercial District
   weight: 0.0833
   avg_copies: 1.0
 ---

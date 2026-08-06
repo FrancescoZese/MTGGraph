@@ -5,19 +5,19 @@ name: Hardened Scales
 meta_share: 0.0008
 list_count: 5
 top_cards:
-- name: Urza's Saga
+- name: Zabaz, the Glimmerwasp
   weight: 1.0
   avg_copies: 4.0
-- name: Zabaz, the Glimmerwasp
+- name: Arcbound Ravager
   weight: 1.0
   avg_copies: 4.0
 - name: Walking Ballista
   weight: 1.0
   avg_copies: 4.0
-- name: Hardened Scales
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
-- name: Arcbound Ravager
+- name: Hardened Scales
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Opal
@@ -47,10 +47,10 @@ top_cards:
 - name: Arcbound Worker
   weight: 1.0
   avg_copies: 1.8
-- name: The Ozolith
+- name: Grafdigger's Cage
   weight: 1.0
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: The Ozolith
   weight: 1.0
   avg_copies: 1.0
 - name: Inkmoth Nexus
@@ -83,10 +83,10 @@ top_cards:
 - name: The Ooze
   weight: 0.6
   avg_copies: 1.33
-- name: Pithing Needle
+- name: Pendelhaven
   weight: 0.6
   avg_copies: 1.0
-- name: Veil of Summer
+- name: Pithing Needle
   weight: 0.6
   avg_copies: 1.0
 - name: Tormod's Crypt
@@ -95,7 +95,7 @@ top_cards:
 - name: Haywire Mite
   weight: 0.6
   avg_copies: 1.0
-- name: Pendelhaven
+- name: Veil of Summer
   weight: 0.6
   avg_copies: 1.0
 - name: Strength of Will
@@ -110,16 +110,16 @@ top_cards:
 - name: Skateboard
   weight: 0.4
   avg_copies: 1.0
-- name: Marketback Walker
+- name: Metallic Mimic
   weight: 0.2
   avg_copies: 4.0
-- name: Karplusan Forest
+- name: Marketback Walker
   weight: 0.2
   avg_copies: 4.0
 - name: Patchwork Automaton
   weight: 0.2
   avg_copies: 4.0
-- name: Metallic Mimic
+- name: Karplusan Forest
   weight: 0.2
   avg_copies: 4.0
 - name: Ancient Stirrings
@@ -128,22 +128,22 @@ top_cards:
 - name: Warping Wail
   weight: 0.2
   avg_copies: 2.0
+- name: Gemstone Caverns
+  weight: 0.2
+  avg_copies: 1.0
 - name: Shadowspear
   weight: 0.2
   avg_copies: 1.0
 - name: Scrapyard Recombiner
   weight: 0.2
   avg_copies: 1.0
-- name: card:llanowar-reborn
-  weight: 0.2
-  avg_copies: 1.0
 - name: card:throne-of-geth
   weight: 0.2
   avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Bridgeworks Battle
   weight: 0.2
   avg_copies: 1.0
-- name: Bridgeworks Battle
+- name: card:llanowar-reborn
   weight: 0.2
   avg_copies: 1.0
 - name: card:animation-module

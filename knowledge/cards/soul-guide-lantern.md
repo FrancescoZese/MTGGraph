@@ -6,13 +6,13 @@ name: Soul-Guide Lantern
 scryfall_id: f4907e7b-d6d5-4e9b-968f-bce34ae4a577
 set: eoc
 type: Artifact
-meta_presence: 0.0964
+meta_presence: 0.0965
 archetypes:
   ruby-storm:
-    weight: 0.0087
+    weight: 0.0086
     avg_copies: 2.0
   boros-energy:
-    weight: 0.1226
+    weight: 0.1218
     avg_copies: 1.07
   dimir-control:
     weight: 0.0247
@@ -21,16 +21,16 @@ archetypes:
     weight: 0.2256
     avg_copies: 1.53
   eldrazi-tron:
-    weight: 0.0066
+    weight: 0.0065
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.2229
+    weight: 0.2216
     avg_copies: 1.0
   goryo:
-    weight: 0.0029
+    weight: 0.0028
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0326
+    weight: 0.0316
     avg_copies: 2.67
   jeskai-control:
     weight: 0.2
@@ -51,19 +51,19 @@ archetypes:
     weight: 0.0806
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0109
+    weight: 0.0108
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0779
-    avg_copies: 1.04
+    weight: 0.0868
+    avg_copies: 1.03
   esper-blink:
-    weight: 0.0085
+    weight: 0.0083
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.9263
+    weight: 0.9276
     avg_copies: 1.04
   azorius-blink:
-    weight: 0.0308
+    weight: 0.0303
     avg_copies: 1.5
   izzet-artifacts:
     weight: 0.5
@@ -78,7 +78,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.0235
+    weight: 0.0234
     avg_copies: 1.5
   goryo4:
     weight: 0.375
@@ -111,7 +111,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-61:
-    weight: 0.012
+    weight: 0.0119
     avg_copies: 2.0
   unknown-55:
     weight: 1.0
@@ -126,7 +126,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-70:
-    weight: 0.0556
+    weight: 0.0526
     avg_copies: 1.0
   unknown-71:
     weight: 1.0
@@ -141,7 +141,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-96:
-    weight: 0.1538
+    weight: 0.1707
     avg_copies: 1.0
   unknown-98:
     weight: 0.875
@@ -162,7 +162,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-167:
-    weight: 0.1667
+    weight: 0.1429
     avg_copies: 1.0
   unknown-174:
     weight: 0.6667

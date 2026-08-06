@@ -6,7 +6,7 @@ name: Boseiju, Who Endures
 scryfall_id: 2135ac5a-187b-4dc9-8f82-34e8d1603416
 set: neo
 type: Legendary Land
-meta_presence: 0.1813
+meta_presence: 0.1821
 archetypes:
   ruby-storm:
     weight: 0.0216
@@ -15,7 +15,7 @@ archetypes:
     weight: 0.0075
     avg_copies: 2.0
   eldrazi-tron:
-    weight: 0.0497
+    weight: 0.049
     avg_copies: 1.0
   amulet-titan:
     weight: 1.0
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.3836
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.9239
+    weight: 0.9167
     avg_copies: 1.0
   kethis-combo:
     weight: 1.0
@@ -39,20 +39,20 @@ archetypes:
     weight: 0.1613
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.9348
+    weight: 0.9355
     avg_copies: 1.17
   4c-omnath:
     weight: 0.25
     avg_copies: 1.0
   samwise-combo:
     weight: 1.0
-    avg_copies: 1.85
+    avg_copies: 1.86
   indomitable-creativity:
     weight: 0.4667
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.993
-    avg_copies: 1.64
+    weight: 0.9931
+    avg_copies: 1.63
   dredge:
     weight: 0.9259
     avg_copies: 1.68
@@ -72,8 +72,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.2391
-    avg_copies: 1.3
+    weight: 0.25
+    avg_copies: 1.33
   scapeshift-combo:
     weight: 1.0
     avg_copies: 1.33
@@ -108,7 +108,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-61:
-    weight: 0.7229
+    weight: 0.7262
     avg_copies: 1.05
   unknown-59:
     weight: 1.0
@@ -117,7 +117,7 @@ archetypes:
     weight: 0.9655
     avg_copies: 1.0
   unknown-67:
-    weight: 0.5802
+    weight: 0.5647
     avg_copies: 1.0
   unknown-76:
     weight: 1.0
@@ -145,7 +145,7 @@ archetypes:
     avg_copies: 1.0
   unknown-126:
     weight: 1.0
-    avg_copies: 1.42
+    avg_copies: 1.33
   unknown-130:
     weight: 1.0
     avg_copies: 1.0
@@ -165,7 +165,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-167:
-    weight: 0.25
+    weight: 0.2143
     avg_copies: 1.0
   unknown-172:
     weight: 1.0
@@ -188,4 +188,7 @@ archetypes:
   unknown-227:
     weight: 1.0
     avg_copies: 2.0
+  unknown-235:
+    weight: 1.0
+    avg_copies: 1.0
 ---

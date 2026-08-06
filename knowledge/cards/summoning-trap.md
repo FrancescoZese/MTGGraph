@@ -10,10 +10,10 @@ type: Instant — Trap
 meta_presence: 0.0006
 archetypes:
   domain-zoo:
-    weight: 0.0072
+    weight: 0.0071
     avg_copies: 3.0
   neoform-combo:
-    weight: 0.0109
+    weight: 0.0104
     avg_copies: 4.0
   unknown-54:
     weight: 0.6667

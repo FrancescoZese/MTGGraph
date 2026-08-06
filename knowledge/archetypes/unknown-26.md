@@ -42,10 +42,10 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.91
-- name: Erode
+- name: Cori Mountain Monastery
   weight: 0.9545
   avg_copies: 3.86
-- name: Cori Mountain Monastery
+- name: Erode
   weight: 0.9545
   avg_copies: 3.86
 - name: Kaheera, the Orphanguard
@@ -117,10 +117,10 @@ top_cards:
 - name: Celestial Purge
   weight: 0.0909
   avg_copies: 2.0
-- name: Blast Zone
+- name: Engineered Explosives
   weight: 0.0909
   avg_copies: 2.0
-- name: Engineered Explosives
+- name: Blast Zone
   weight: 0.0909
   avg_copies: 2.0
 - name: Beza, the Bounding Spring
@@ -129,19 +129,19 @@ top_cards:
 - name: Crucible of Worlds
   weight: 0.0909
   avg_copies: 1.0
-- name: Volcanic Spite
-  weight: 0.0455
-  avg_copies: 4.0
-- name: card:kutzil-s-flanker
-  weight: 0.0455
-  avg_copies: 4.0
 - name: Ark of Hunger
   weight: 0.0455
   avg_copies: 4.0
 - name: Lightning Helix
   weight: 0.0455
   avg_copies: 4.0
+- name: card:kutzil-s-flanker
+  weight: 0.0455
+  avg_copies: 4.0
 - name: White Orchid Phantom
+  weight: 0.0455
+  avg_copies: 4.0
+- name: Volcanic Spite
   weight: 0.0455
   avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
@@ -150,9 +150,6 @@ top_cards:
 - name: Candy Trail
   weight: 0.0455
   avg_copies: 3.0
-- name: March of Otherworldly Light
-  weight: 0.0455
-  avg_copies: 2.0
 - name: Flashback
   weight: 0.0455
   avg_copies: 2.0
@@ -162,10 +159,13 @@ top_cards:
 - name: card:vanish-into-eternity
   weight: 0.0455
   avg_copies: 2.0
-- name: Elixir of Immortality
+- name: March of Otherworldly Light
+  weight: 0.0455
+  avg_copies: 2.0
+- name: Emrakul, the Aeons Torn
   weight: 0.0455
   avg_copies: 1.0
-- name: Emrakul, the Aeons Torn
+- name: Elixir of Immortality
   weight: 0.0455
   avg_copies: 1.0
 ---

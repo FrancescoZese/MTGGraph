@@ -7,19 +7,19 @@ name: 'Unknown #149'
 meta_share: 0.0017
 list_count: 11
 top_cards:
-- name: Guide of Souls
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
-- name: Ajani, Nacatl Pariah
-  weight: 1.0
-  avg_copies: 4.0
 - name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Ajani, Nacatl Pariah
+  weight: 1.0
+  avg_copies: 4.0
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
@@ -31,10 +31,10 @@ top_cards:
 - name: Goblin Bombardment
   weight: 1.0
   avg_copies: 2.91
-- name: Witch Enchanter
+- name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 2.73
-- name: Ragavan, Nimble Pilferer
+- name: Witch Enchanter
   weight: 1.0
   avg_copies: 2.73
 - name: Consign to Memory
@@ -55,10 +55,10 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.09
-- name: Meticulous Archive
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Steam Vents
@@ -145,19 +145,19 @@ top_cards:
 - name: Voice of Victory
   weight: 0.0909
   avg_copies: 2.0
-- name: Marsh Flats
-  weight: 0.0909
-  avg_copies: 2.0
 - name: Clarion Conqueror
   weight: 0.0909
   avg_copies: 2.0
-- name: March of Otherworldly Light
+- name: Marsh Flats
   weight: 0.0909
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Containment Priest
   weight: 0.0909
   avg_copies: 1.0
 - name: Detect Intrusion
+  weight: 0.0909
+  avg_copies: 1.0
+- name: March of Otherworldly Light
   weight: 0.0909
   avg_copies: 1.0
 ---

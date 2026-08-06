@@ -10,10 +10,10 @@ type: Sorcery
 meta_presence: 0.0025
 archetypes:
   simic-ritual:
-    weight: 0.0109
+    weight: 0.0108
     avg_copies: 1.0
   goryo5:
-    weight: 0.0417
+    weight: 0.04
     avg_copies: 2.0
   soultrader-combo:
     weight: 0.1429

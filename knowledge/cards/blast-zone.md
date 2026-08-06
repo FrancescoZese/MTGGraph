@@ -9,10 +9,10 @@ type: Land
 meta_presence: 0.0031
 archetypes:
   ruby-storm:
-    weight: 0.0087
+    weight: 0.0086
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.0132
+    weight: 0.0131
     avg_copies: 1.0
   boros-ponza:
     weight: 0.0355

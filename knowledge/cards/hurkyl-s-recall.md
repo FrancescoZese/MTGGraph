@@ -7,14 +7,14 @@ name: Hurkyl's Recall
 scryfall_id: 73edeaaa-6a87-4cf1-b013-bab9a7bb94d9
 set: mm2
 type: Instant
-meta_presence: 0.0327
+meta_presence: 0.0328
 archetypes:
   dimir-control:
     weight: 0.0123
     avg_copies: 2.0
   mono-blue-belcher:
-    weight: 0.3837
-    avg_copies: 1.64
+    weight: 0.3977
+    avg_copies: 1.6
   amulet-titan:
     weight: 0.006
     avg_copies: 3.0
@@ -22,34 +22,34 @@ archetypes:
     weight: 0.0227
     avg_copies: 2.0
   azorius-control:
-    weight: 0.0109
+    weight: 0.0105
     avg_copies: 1.0
   affinity:
-    weight: 0.2412
+    weight: 0.2388
     avg_copies: 1.1
   domain-zoo:
-    weight: 0.0072
+    weight: 0.0071
     avg_copies: 2.0
   mill:
     weight: 0.0294
     avg_copies: 2.0
   mono-blue-tron:
-    weight: 0.4348
+    weight: 0.4167
     avg_copies: 1.6
   simic-ritual:
-    weight: 0.0217
+    weight: 0.0215
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0093
+    weight: 0.009
     avg_copies: 1.67
   azorius-blink:
-    weight: 0.0154
+    weight: 0.0152
     avg_copies: 1.0
   izzet-wizards:
     weight: 0.0833
     avg_copies: 1.0
   goryo1:
-    weight: 0.0059
+    weight: 0.0058
     avg_copies: 1.0
   goryo7:
     weight: 1.0
@@ -91,7 +91,7 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   unknown-139:
-    weight: 0.2857
+    weight: 0.4444
     avg_copies: 1.0
   unknown-150:
     weight: 0.6667

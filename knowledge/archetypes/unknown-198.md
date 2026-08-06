@@ -6,37 +6,40 @@ name: 'Unknown #198'
 meta_share: 0.0002
 list_count: 1
 top_cards:
-- name: Moonshadow
+- name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Consign to Memory
+- name: Death's Shadow
+  weight: 1.0
+  avg_copies: 4.0
+- name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
 - name: Stubborn Denial
   weight: 1.0
   avg_copies: 4.0
-- name: Watery Grave
-  weight: 1.0
-  avg_copies: 4.0
-- name: Death's Shadow
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
-- name: Nethergoyf
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Watery Grave
   weight: 1.0
   avg_copies: 4.0
 - name: Flow State
   weight: 1.0
   avg_copies: 4.0
-- name: Preordain
+- name: Bloodstained Mire
+  weight: 1.0
+  avg_copies: 3.0
+- name: Fatal Push
   weight: 1.0
   avg_copies: 3.0
 - name: Counterspell
@@ -45,34 +48,34 @@ top_cards:
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 3.0
-- name: Bloodstained Mire
+- name: Preordain
   weight: 1.0
   avg_copies: 3.0
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 3.0
-- name: Force of Negation
+- name: Nihil Spellbomb
   weight: 1.0
   avg_copies: 2.0
-- name: Engineered Explosives
+- name: Force of Negation
   weight: 1.0
   avg_copies: 2.0
 - name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 2.0
-- name: Nihil Spellbomb
+- name: Toxic Deluge
   weight: 1.0
   avg_copies: 2.0
-- name: Toxic Deluge
+- name: Engineered Explosives
   weight: 1.0
   avg_copies: 2.0
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 2.0
-- name: Swamp
+- name: Thought Scour
   weight: 1.0
   avg_copies: 1.0
-- name: Undercity Sewers
+- name: Murktide Regent
+  weight: 1.0
+  avg_copies: 1.0
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Kaito, Bane of Nightmares
@@ -84,13 +87,10 @@ top_cards:
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Thought Scour
-  weight: 1.0
-  avg_copies: 1.0
-- name: Murktide Regent
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
 ---

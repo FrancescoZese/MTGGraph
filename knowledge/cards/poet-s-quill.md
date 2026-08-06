@@ -7,7 +7,7 @@ name: Poet's Quill
 scryfall_id: e7006f43-0b10-4693-b06f-e7cf86ab4129
 set: stx
 type: Artifact — Equipment
-meta_presence: 0.0019
+meta_presence: 0.0018
 archetypes:
   unknown-45:
     weight: 0.4138

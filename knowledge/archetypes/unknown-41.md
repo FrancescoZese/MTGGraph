@@ -9,7 +9,7 @@ top_cards:
 - name: Inquisition of Kozilek
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Saga
+- name: Whir of Invention
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
@@ -18,22 +18,22 @@ top_cards:
 - name: Darkslick Shores
   weight: 1.0
   avg_copies: 4.0
-- name: Whir of Invention
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Ensnaring Bridge
   weight: 1.0
   avg_copies: 3.75
-- name: Codex Shredder
-  weight: 1.0
-  avg_copies: 3.5
 - name: Mox Opal
   weight: 1.0
   avg_copies: 3.5
-- name: River of Tears
+- name: Codex Shredder
+  weight: 1.0
+  avg_copies: 3.5
+- name: Lantern of Insight
   weight: 1.0
   avg_copies: 3.25
-- name: Lantern of Insight
+- name: River of Tears
   weight: 1.0
   avg_copies: 3.25
 - name: Island
@@ -78,16 +78,16 @@ top_cards:
 - name: Welding Jar
   weight: 0.75
   avg_copies: 1.67
-- name: Scalding Tarn
+- name: Damping Sphere
   weight: 0.75
   avg_copies: 1.0
 - name: Academy Ruins
   weight: 0.75
   avg_copies: 1.0
-- name: Cursed Totem
+- name: Scalding Tarn
   weight: 0.75
   avg_copies: 1.0
-- name: Damping Sphere
+- name: Cursed Totem
   weight: 0.75
   avg_copies: 1.0
 - name: Drown in the Loch
@@ -105,37 +105,37 @@ top_cards:
 - name: Spire of Industry
   weight: 0.25
   avg_copies: 3.0
-- name: Tear Asunder
-  weight: 0.25
-  avg_copies: 2.0
 - name: Bloodchief's Thirst
   weight: 0.25
   avg_copies: 2.0
 - name: Harbinger of the Seas
   weight: 0.25
   avg_copies: 2.0
-- name: Misty Rainforest
+- name: Tear Asunder
   weight: 0.25
-  avg_copies: 1.0
-- name: Erode
+  avg_copies: 2.0
+- name: Flooded Strand
   weight: 0.25
   avg_copies: 1.0
 - name: Amulet of Safekeeping
-  weight: 0.25
-  avg_copies: 1.0
-- name: Ghoulcaller's Bell
-  weight: 0.25
-  avg_copies: 1.0
-- name: Glimmervoid
-  weight: 0.25
-  avg_copies: 1.0
-- name: Flooded Strand
   weight: 0.25
   avg_copies: 1.0
 - name: Vexing Bauble
   weight: 0.25
   avg_copies: 1.0
 - name: Emrakul, the Aeons Torn
+  weight: 0.25
+  avg_copies: 1.0
+- name: Misty Rainforest
+  weight: 0.25
+  avg_copies: 1.0
+- name: Glimmervoid
+  weight: 0.25
+  avg_copies: 1.0
+- name: Ghoulcaller's Bell
+  weight: 0.25
+  avg_copies: 1.0
+- name: Erode
   weight: 0.25
   avg_copies: 1.0
 ---

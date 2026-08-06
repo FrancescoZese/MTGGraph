@@ -6,7 +6,7 @@ name: Nihil Spellbomb
 scryfall_id: e5892a23-efae-4731-9b8f-41c87960fe93
 set: a25
 type: Artifact
-meta_presence: 0.1099
+meta_presence: 0.1112
 archetypes:
   dimir-control:
     weight: 0.3086
@@ -15,11 +15,11 @@ archetypes:
     weight: 0.0075
     avg_copies: 1.0
   goryo:
-    weight: 0.5043
-    avg_copies: 1.25
+    weight: 0.5071
+    avg_copies: 1.26
   domain-zoo:
-    weight: 0.5683
-    avg_copies: 1.22
+    weight: 0.5674
+    avg_copies: 1.21
   mill:
     weight: 0.1765
     avg_copies: 1.33
@@ -42,16 +42,16 @@ archetypes:
     weight: 0.0161
     avg_copies: 3.5
   simic-ritual:
-    weight: 0.0109
+    weight: 0.0108
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0156
+    weight: 0.015
     avg_copies: 1.4
   esper-blink:
-    weight: 0.2479
+    weight: 0.2417
     avg_copies: 1.66
   azorius-blink:
-    weight: 0.0154
+    weight: 0.0152
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
@@ -66,13 +66,13 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   goryo1:
-    weight: 0.2118
-    avg_copies: 1.22
+    weight: 0.2164
+    avg_copies: 1.24
   goryo5:
-    weight: 0.0833
+    weight: 0.08
     avg_copies: 1.0
   goryo2:
-    weight: 0.1538
+    weight: 0.1481
     avg_copies: 1.0
   soultrader-combo:
     weight: 0.1429
@@ -126,8 +126,8 @@ archetypes:
     weight: 0.0345
     avg_copies: 2.0
   unknown-47:
-    weight: 0.8843
-    avg_copies: 1.89
+    weight: 0.8846
+    avg_copies: 1.9
   unknown-52:
     weight: 1.0
     avg_copies: 2.0
@@ -147,8 +147,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.83
   unknown-85:
-    weight: 0.4375
-    avg_copies: 2.0
+    weight: 0.4706
+    avg_copies: 1.88
   unknown-95:
     weight: 1.0
     avg_copies: 2.0
@@ -162,8 +162,8 @@ archetypes:
     weight: 0.75
     avg_copies: 1.0
   unknown-101:
-    weight: 0.3846
-    avg_copies: 1.2
+    weight: 0.4286
+    avg_copies: 1.17
   unknown-105:
     weight: 1.0
     avg_copies: 1.0
@@ -204,7 +204,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-139:
-    weight: 0.1429
+    weight: 0.1111
     avg_copies: 2.0
   unknown-147:
     weight: 1.0
@@ -237,7 +237,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-207:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 1.0
   unknown-215:
     weight: 1.0
@@ -251,4 +251,10 @@ archetypes:
   unknown-229:
     weight: 1.0
     avg_copies: 2.0
+  unknown-233:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-234:
+    weight: 1.0
+    avg_copies: 1.0
 ---

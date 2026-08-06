@@ -6,16 +6,16 @@ name: Godless Shrine
 scryfall_id: 8c542ea4-98c3-4c2d-9066-205ab7aa697a
 set: eoe
 type: Land — Plains Swamp
-meta_presence: 0.1312
+meta_presence: 0.1316
 archetypes:
   goryo:
-    weight: 0.9942
+    weight: 0.9943
     avg_copies: 1.0
   living-end:
     weight: 0.0274
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.8058
+    weight: 0.8085
     avg_copies: 1.0
   reanimator:
     weight: 0.037
@@ -25,7 +25,7 @@ archetypes:
     avg_copies: 1.08
   esper-blink:
     weight: 1.0
-    avg_copies: 1.7
+    avg_copies: 1.71
   samwise-combo:
     weight: 1.0
     avg_copies: 1.0
@@ -33,14 +33,14 @@ archetypes:
     weight: 1.0
     avg_copies: 2.25
   azorius-blink:
-    weight: 0.0154
+    weight: 0.0152
     avg_copies: 2.0
   esper-midrange:
     weight: 1.0
     avg_copies: 1.0
   goryo2:
     weight: 1.0
-    avg_copies: 1.42
+    avg_copies: 1.41
   devoted-combo:
     weight: 1.0
     avg_copies: 1.0
@@ -63,7 +63,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-85:
-    weight: 0.0625
+    weight: 0.1176
     avg_copies: 1.0
   unknown-78:
     weight: 1.0
@@ -75,7 +75,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.0256
+    weight: 0.0244
     avg_copies: 1.0
   unknown-100:
     weight: 0.75
@@ -90,7 +90,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-126:
-    weight: 0.6111
+    weight: 0.4889
     avg_copies: 1.0
   unknown-127:
     weight: 1.0
@@ -117,9 +117,15 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-207:
-    weight: 0.9
+    weight: 0.9091
     avg_copies: 1.0
   unknown-225:
     weight: 1.0
     avg_copies: 2.0
+  unknown-233:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-235:
+    weight: 1.0
+    avg_copies: 1.0
 ---

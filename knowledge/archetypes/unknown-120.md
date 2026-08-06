@@ -9,13 +9,13 @@ name: 'Unknown #120'
 meta_share: 0.0014
 list_count: 9
 top_cards:
-- name: Polluted Delta
+- name: Atraxa, Grand Unifier
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Atraxa, Grand Unifier
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Goryo's Vengeance
@@ -24,10 +24,10 @@ top_cards:
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 3.89
-- name: Bloodstained Mire
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 3.67
-- name: Faithless Looting
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 3.67
 - name: Consign to Memory
@@ -36,19 +36,19 @@ top_cards:
 - name: Fatal Push
   weight: 1.0
   avg_copies: 3.33
-- name: Scalding Tarn
+- name: Meltdown
   weight: 1.0
   avg_copies: 2.67
-- name: Meltdown
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 2.67
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.11
-- name: Pyroclasm
+- name: Force of Negation
   weight: 1.0
   avg_copies: 2.0
-- name: Force of Negation
+- name: Pyroclasm
   weight: 1.0
   avg_copies: 2.0
 - name: Griselbrand
@@ -63,7 +63,13 @@ top_cards:
 - name: Watery Grave
   weight: 1.0
   avg_copies: 1.11
-- name: Thundering Falls
+- name: Island
+  weight: 1.0
+  avg_copies: 1.0
+- name: Raucous Theater
+  weight: 1.0
+  avg_copies: 1.0
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Undercity Sewers
@@ -72,13 +78,7 @@ top_cards:
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Island
-  weight: 1.0
-  avg_copies: 1.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Raucous Theater
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Emperor of Bones
@@ -117,10 +117,10 @@ top_cards:
 - name: Quantum Riddler
   weight: 0.1111
   avg_copies: 4.0
-- name: Subtlety
+- name: Traumatic Critique
   weight: 0.1111
   avg_copies: 3.0
-- name: Traumatic Critique
+- name: Subtlety
   weight: 0.1111
   avg_copies: 3.0
 - name: Pithing Needle
@@ -129,13 +129,13 @@ top_cards:
 - name: Damping Sphere
   weight: 0.1111
   avg_copies: 2.0
-- name: Flame of Anor
+- name: Kolaghan's Command
   weight: 0.1111
   avg_copies: 1.0
 - name: Kavaero, Mind-Bitten
   weight: 0.1111
   avg_copies: 1.0
-- name: Kolaghan's Command
+- name: Flame of Anor
   weight: 0.1111
   avg_copies: 1.0
 ---

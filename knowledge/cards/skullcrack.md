@@ -7,12 +7,12 @@ name: Skullcrack
 scryfall_id: 7f399983-d70a-4cf3-b76e-bb0c472e7c69
 set: rvr
 type: Instant
-meta_presence: 0.0053
+meta_presence: 0.0054
 archetypes:
   burn:
     weight: 0.7895
     avg_copies: 2.95
   unknown-178:
     weight: 1.0
-    avg_copies: 1.25
+    avg_copies: 1.2
 ---

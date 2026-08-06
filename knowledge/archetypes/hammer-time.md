@@ -132,10 +132,10 @@ top_cards:
 - name: Test of Talents
   weight: 0.1429
   avg_copies: 2.0
-- name: Prismatic Ending
+- name: Detect Intrusion
   weight: 0.1429
   avg_copies: 1.5
-- name: Detect Intrusion
+- name: Prismatic Ending
   weight: 0.1429
   avg_copies: 1.5
 - name: Sigarda's Aid
@@ -156,22 +156,25 @@ top_cards:
 - name: Seachrome Coast
   weight: 0.0714
   avg_copies: 3.0
-- name: Erode
+- name: Containment Priest
   weight: 0.0714
   avg_copies: 2.0
 - name: High Noon
   weight: 0.0714
   avg_copies: 2.0
-- name: Containment Priest
-  weight: 0.0714
-  avg_copies: 2.0
 - name: Solitude
   weight: 0.0714
   avg_copies: 2.0
-- name: card:spider-sense
+- name: Erode
+  weight: 0.0714
+  avg_copies: 2.0
+- name: Soul-Guide Lantern
   weight: 0.0714
   avg_copies: 1.0
 - name: Forge Anew
+  weight: 0.0714
+  avg_copies: 1.0
+- name: card:spider-sense
   weight: 0.0714
   avg_copies: 1.0
 - name: Spell Pierce
@@ -180,13 +183,10 @@ top_cards:
 - name: Spell Snare
   weight: 0.0714
   avg_copies: 1.0
-- name: Skateboard
-  weight: 0.0714
-  avg_copies: 1.0
 - name: Stubborn Denial
   weight: 0.0714
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Skateboard
   weight: 0.0714
   avg_copies: 1.0
 - name: Umezawa's Jitte

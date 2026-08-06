@@ -11,9 +11,9 @@ meta_presence: 0.0186
 archetypes:
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 3.52
+    avg_copies: 3.53
   samwise-combo:
-    weight: 0.4154
+    weight: 0.4242
     avg_copies: 1.07
   unknown-102:
     weight: 1.0

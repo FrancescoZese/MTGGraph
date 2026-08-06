@@ -7,11 +7,11 @@ name: Force of Vigor
 scryfall_id: 017c415b-d635-43c6-92b8-8c95d1c4ff8d
 set: mh1
 type: Instant
-meta_presence: 0.1102
+meta_presence: 0.1112
 archetypes:
   amulet-titan:
     weight: 0.988
-    avg_copies: 1.96
+    avg_copies: 1.95
   hardened-scales:
     weight: 0.4
     avg_copies: 1.0
@@ -19,17 +19,17 @@ archetypes:
     weight: 0.4932
     avg_copies: 1.75
   neoform-combo:
-    weight: 0.0326
+    weight: 0.0312
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.9778
+    weight: 0.978
     avg_copies: 1.85
   eldrazi-ramp:
     weight: 0.2258
     avg_copies: 1.96
   simic-ritual:
-    weight: 0.7717
-    avg_copies: 1.99
+    weight: 0.7742
+    avg_copies: 1.97
   4c-omnath:
     weight: 0.5
     avg_copies: 2.0
@@ -37,7 +37,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.05
   broodscale-combo:
-    weight: 0.0316
+    weight: 0.031
     avg_copies: 1.44
   izzet-artifacts:
     weight: 0.0312
@@ -73,19 +73,19 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-61:
-    weight: 0.5904
-    avg_copies: 2.55
+    weight: 0.5952
+    avg_copies: 2.56
   unknown-65:
     weight: 0.9655
     avg_copies: 2.39
   unknown-67:
-    weight: 0.9012
-    avg_copies: 2.08
+    weight: 0.9059
+    avg_copies: 2.06
   unknown-76:
     weight: 1.0
     avg_copies: 2.0
   unknown-85:
-    weight: 0.0625
+    weight: 0.0588
     avg_copies: 3.0
   unknown-84:
     weight: 0.3333
@@ -103,8 +103,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-126:
-    weight: 0.6111
-    avg_copies: 2.09
+    weight: 0.6444
+    avg_copies: 2.1
   unknown-130:
     weight: 1.0
     avg_copies: 2.0
@@ -144,4 +144,10 @@ archetypes:
   unknown-227:
     weight: 1.0
     avg_copies: 2.0
+  unknown-235:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-238:
+    weight: 1.0
+    avg_copies: 1.0
 ---

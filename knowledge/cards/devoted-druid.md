@@ -7,7 +7,7 @@ name: Devoted Druid
 scryfall_id: 22589a81-3ea8-4e78-98c9-c015e7539cf9
 set: ecc
 type: Creature — Elf Druid
-meta_presence: 0.0064
+meta_presence: 0.0077
 archetypes:
   elves:
     weight: 1.0
@@ -17,7 +17,7 @@ archetypes:
     avg_copies: 4.0
   unknown-126:
     weight: 1.0
-    avg_copies: 3.97
+    avg_copies: 3.98
   unknown-224:
     weight: 1.0
     avg_copies: 4.0

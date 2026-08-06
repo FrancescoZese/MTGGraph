@@ -8,10 +8,10 @@ name: Repudiate // Replicate
 scryfall_id: 595332bf-6d3d-4240-974c-f87832954068
 set: rvr
 type: Instant // Sorcery
-meta_presence: 0.0047
+meta_presence: 0.0046
 archetypes:
   neoform-combo:
-    weight: 0.2826
+    weight: 0.2708
     avg_copies: 1.08
   unknown-65:
     weight: 0.1379

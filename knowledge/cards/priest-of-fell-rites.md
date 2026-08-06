@@ -11,6 +11,6 @@ type: Creature — Human Warlock
 meta_presence: 0.0003
 archetypes:
   goryo:
-    weight: 0.0058
+    weight: 0.0057
     avg_copies: 1.5
 ---

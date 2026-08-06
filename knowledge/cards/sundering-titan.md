@@ -6,13 +6,13 @@ name: Sundering Titan
 scryfall_id: a2ebb5d3-72b1-411d-8c90-83dac5b37898
 set: 2xm
 type: Artifact Creature — Golem
-meta_presence: 0.0036
+meta_presence: 0.0037
 archetypes:
   eldrazi-tron:
-    weight: 0.0596
+    weight: 0.0621
     avg_copies: 1.0
   mono-blue-tron:
-    weight: 0.087
+    weight: 0.0833
     avg_copies: 1.0
   unknown-162:
     weight: 1.0

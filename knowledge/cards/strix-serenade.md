@@ -7,34 +7,34 @@ name: Strix Serenade
 scryfall_id: 42ac5ac7-b2f9-4e6f-af41-7e42ac816374
 set: mh3
 type: Instant
-meta_presence: 0.0539
+meta_presence: 0.0534
 archetypes:
   dimir-control:
     weight: 0.0123
     avg_copies: 2.0
   mono-blue-belcher:
-    weight: 0.3372
+    weight: 0.3409
     avg_copies: 1.11
   jeskai-energy:
     weight: 0.7218
     avg_copies: 1.5
   goryo:
-    weight: 0.0145
-    avg_copies: 1.2
+    weight: 0.0171
+    avg_copies: 1.17
   azorius-control:
-    weight: 0.0109
+    weight: 0.0105
     avg_copies: 1.0
   affinity:
-    weight: 0.2353
+    weight: 0.233
     avg_copies: 1.11
   domain-zoo:
-    weight: 0.036
+    weight: 0.0355
     avg_copies: 1.17
   reanimator:
     weight: 0.0741
     avg_copies: 2.0
   mono-blue-tron:
-    weight: 0.0435
+    weight: 0.0417
     avg_copies: 4.0
   kethis-combo:
     weight: 0.2857
@@ -43,25 +43,25 @@ archetypes:
     weight: 0.0403
     avg_copies: 1.6
   esper-blink:
-    weight: 0.0427
+    weight: 0.0417
     avg_copies: 1.5
   indomitable-creativity:
     weight: 0.2
     avg_copies: 1.67
   azorius-blink:
-    weight: 0.0923
+    weight: 0.0909
     avg_copies: 1.25
   izzet-artifacts:
     weight: 0.6562
     avg_copies: 1.19
   goryo1:
-    weight: 0.0706
+    weight: 0.0702
     avg_copies: 1.38
   goryo7:
     weight: 0.6667
     avg_copies: 1.0
   goryo2:
-    weight: 0.1538
+    weight: 0.1481
     avg_copies: 1.0
   unknown-6:
     weight: 0.4615
@@ -76,7 +76,7 @@ archetypes:
     weight: 0.1429
     avg_copies: 1.0
   unknown-70:
-    weight: 0.0556
+    weight: 0.1053
     avg_copies: 1.0
   unknown-89:
     weight: 1.0
@@ -85,7 +85,7 @@ archetypes:
     weight: 0.2667
     avg_copies: 2.25
   unknown-167:
-    weight: 0.25
+    weight: 0.2143
     avg_copies: 2.0
   unknown-182:
     weight: 0.25

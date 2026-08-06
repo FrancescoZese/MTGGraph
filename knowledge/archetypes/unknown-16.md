@@ -6,7 +6,7 @@ name: 'Unknown #16'
 meta_share: 0.0009
 list_count: 6
 top_cards:
-- name: Thundertrap Trainer
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Narset, Parter of Veils
@@ -15,13 +15,13 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 4.0
-- name: Orim's Chant
-  weight: 1.0
-  avg_copies: 4.0
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Thundertrap Trainer
+  weight: 1.0
+  avg_copies: 4.0
+- name: Orim's Chant
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
@@ -36,40 +36,40 @@ top_cards:
 - name: Lórien Revealed
   weight: 1.0
   avg_copies: 3.0
-- name: Arid Mesa
-  weight: 1.0
-  avg_copies: 2.67
 - name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 2.67
-- name: Day's Undoing
+- name: Arid Mesa
   weight: 1.0
-  avg_copies: 2.0
-- name: High Noon
-  weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 2.67
 - name: Plains
-  weight: 1.0
-  avg_copies: 2.0
-- name: Sink into Stupor
   weight: 1.0
   avg_copies: 2.0
 - name: Island
   weight: 1.0
   avg_copies: 2.0
+- name: High Noon
+  weight: 1.0
+  avg_copies: 2.0
+- name: Day's Undoing
+  weight: 1.0
+  avg_copies: 2.0
+- name: Sink into Stupor
+  weight: 1.0
+  avg_copies: 2.0
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.83
-- name: Supreme Verdict
-  weight: 1.0
-  avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 1.0
-  avg_copies: 1.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
+- name: Supreme Verdict
+  weight: 1.0
+  avg_copies: 1.0
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
 - name: Suppression Ray
@@ -99,19 +99,19 @@ top_cards:
 - name: Wrath of the Skies
   weight: 0.1667
   avg_copies: 2.0
-- name: Geier Reach Sanitarium
+- name: Elegant Parlor
   weight: 0.1667
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Geier Reach Sanitarium
   weight: 0.1667
   avg_copies: 1.0
 - name: Monumental Henge
   weight: 0.1667
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Isochron Scepter
   weight: 0.1667
   avg_copies: 1.0
-- name: Isochron Scepter
+- name: Thundering Falls
   weight: 0.1667
   avg_copies: 1.0
 ---

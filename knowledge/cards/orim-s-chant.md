@@ -7,22 +7,22 @@ name: Orim's Chant
 scryfall_id: ee241079-1e5a-4224-b9cb-4fd3e0da687c
 set: mh3
 type: Instant
-meta_presence: 0.1705
+meta_presence: 0.1686
 archetypes:
   ruby-storm:
-    weight: 0.7619
+    weight: 0.7586
     avg_copies: 3.22
   boros-energy:
-    weight: 0.6765
+    weight: 0.6734
     avg_copies: 1.74
   mono-blue-belcher:
-    weight: 0.0465
+    weight: 0.0455
     avg_copies: 3.0
   jeskai-energy:
     weight: 0.015
     avg_copies: 3.5
   goryo:
-    weight: 0.0116
+    weight: 0.0114
     avg_copies: 2.0
   azorius-control:
     weight: 1.0
@@ -43,19 +43,19 @@ archetypes:
     weight: 0.25
     avg_copies: 4.0
   esper-blink:
-    weight: 0.0256
+    weight: 0.025
     avg_copies: 1.67
   indomitable-creativity:
     weight: 0.2
     avg_copies: 2.67
   broodscale-combo:
-    weight: 0.0035
+    weight: 0.0034
     avg_copies: 2.0
   orzhov-blink:
     weight: 0.0625
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.0462
+    weight: 0.0455
     avg_copies: 1.67
   scapeshift-combo:
     weight: 0.1667
@@ -103,13 +103,13 @@ archetypes:
     weight: 0.25
     avg_copies: 1.3
   unknown-70:
-    weight: 0.1111
+    weight: 0.1053
     avg_copies: 2.0
   unknown-83:
     weight: 1.0
     avg_copies: 3.0
   unknown-85:
-    weight: 0.0625
+    weight: 0.0588
     avg_copies: 1.0
   unknown-86:
     weight: 0.3333
@@ -121,7 +121,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.71
   unknown-96:
-    weight: 0.1026
+    weight: 0.0976
     avg_copies: 2.25
   unknown-99:
     weight: 1.0
@@ -136,7 +136,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-126:
-    weight: 0.4444
+    weight: 0.3556
     avg_copies: 2.88
   unknown-140:
     weight: 1.0
@@ -151,7 +151,7 @@ archetypes:
     weight: 0.1216
     avg_copies: 2.55
   unknown-167:
-    weight: 0.0833
+    weight: 0.0714
     avg_copies: 2.0
   unknown-168:
     weight: 1.0
@@ -190,6 +190,12 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-216:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-233:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-236:
     weight: 1.0
     avg_copies: 4.0
 ---

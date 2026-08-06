@@ -9,7 +9,7 @@ type: Instant
 meta_presence: 0.0006
 archetypes:
   mono-blue-tron:
-    weight: 0.1304
+    weight: 0.125
     avg_copies: 1.33
   unknown-194:
     weight: 0.5

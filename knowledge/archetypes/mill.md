@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: Mill
-meta_share: 0.0053
+meta_share: 0.0052
 list_count: 34
 top_cards:
 - name: Ruin Crab
@@ -21,10 +21,10 @@ top_cards:
 - name: Visions of Beyond
   weight: 1.0
   avg_copies: 2.21
-- name: Fractured Sanity
+- name: Archive Trap
   weight: 0.9706
   avg_copies: 4.0
-- name: Archive Trap
+- name: Fractured Sanity
   weight: 0.9706
   avg_copies: 4.0
 - name: Fatal Push
@@ -168,40 +168,40 @@ top_cards:
 - name: Chalice of the Void
   weight: 0.0588
   avg_copies: 3.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.0588
-  avg_copies: 2.0
 - name: Kitsune's Technique
   weight: 0.0588
   avg_copies: 2.0
-- name: Prismatic Vista
+- name: Tamiyo, Inquisitive Student
+  weight: 0.0588
+  avg_copies: 2.0
+- name: Force of Negation
   weight: 0.0588
   avg_copies: 1.5
-- name: Spell Snare
+- name: Prismatic Vista
   weight: 0.0588
   avg_copies: 1.5
 - name: Damping Sphere
   weight: 0.0588
   avg_copies: 1.5
-- name: Force of Negation
+- name: Spell Snare
   weight: 0.0588
   avg_copies: 1.5
-- name: Illness in the Ranks
-  weight: 0.0588
-  avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 0.0588
   avg_copies: 1.0
+- name: Illness in the Ranks
+  weight: 0.0588
+  avg_copies: 1.0
 - name: Erode
+  weight: 0.0294
+  avg_copies: 4.0
+- name: Path to Exile
   weight: 0.0294
   avg_copies: 4.0
 - name: Trapmaker's Snare
   weight: 0.0294
   avg_copies: 4.0
 - name: White Orchid Phantom
-  weight: 0.0294
-  avg_copies: 4.0
-- name: Path to Exile
   weight: 0.0294
   avg_copies: 4.0
 - name: Spell Pierce
@@ -225,34 +225,34 @@ top_cards:
 - name: Hurkyl's Recall
   weight: 0.0294
   avg_copies: 2.0
-- name: Plains
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Darkslick Shores
-  weight: 0.0294
-  avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.0294
   avg_copies: 1.0
-- name: Mindbreak Trap
-  weight: 0.0294
-  avg_copies: 1.0
 - name: Steam Vents
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Bloodchief's Thirst
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Requiting Hex
-  weight: 0.0294
-  avg_copies: 1.0
-- name: card:loki-god-of-mischief
   weight: 0.0294
   avg_copies: 1.0
 - name: Gloomlake Verge
   weight: 0.0294
   avg_copies: 1.0
 - name: Ravenous Trap
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Plains
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Bloodchief's Thirst
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Mindbreak Trap
+  weight: 0.0294
+  avg_copies: 1.0
+- name: card:loki-god-of-mischief
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Darkslick Shores
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Requiting Hex
   weight: 0.0294
   avg_copies: 1.0
 - name: Subtlety

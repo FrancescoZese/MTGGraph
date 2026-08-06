@@ -10,7 +10,7 @@ type: Creature — Phyrexian Vampire
 meta_presence: 0.002
 archetypes:
   cosmogoyf-fling:
-    weight: 0.2391
+    weight: 0.2292
     avg_copies: 2.14
   unknown-211:
     weight: 0.3333
