@@ -19,8 +19,8 @@ archetypes:
     weight: 0.0938
     avg_copies: 1.0
   mono-blue-tron:
-    weight: 0.375
-    avg_copies: 2.46
+    weight: 0.4
+    avg_copies: 2.43
   kethis-combo:
     weight: 1.0
     avg_copies: 2.0
@@ -34,8 +34,8 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.5414
-    avg_copies: 1.68
+    weight: 0.543
+    avg_copies: 1.67
   rakdos-aggro:
     weight: 0.1579
     avg_copies: 1.0
@@ -52,10 +52,10 @@ archetypes:
     weight: 0.8182
     avg_copies: 2.44
   unknown-47:
-    weight: 0.0077
+    weight: 0.0076
     avg_copies: 1.0
   unknown-61:
-    weight: 0.5714
+    weight: 0.5647
     avg_copies: 1.16
   unknown-55:
     weight: 1.0
@@ -88,7 +88,7 @@ archetypes:
     weight: 0.0714
     avg_copies: 2.0
   unknown-164:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 2.0
   unknown-194:
     weight: 0.5
@@ -102,7 +102,7 @@ archetypes:
 cmc: 3
 colors: []
 image: https://cards.scryfall.io/normal/front/3/d/3d286cf6-3e16-4941-9326-1818b1e06d69.jpg?1562261132
-meta_presence: 0.143
+meta_presence: 0.1428
 name: Dismember
 scryfall_id: 3d286cf6-3e16-4941-9326-1818b1e06d69
 set: mm2

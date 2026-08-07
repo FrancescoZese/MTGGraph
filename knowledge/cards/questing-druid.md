@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0129
     avg_copies: 4.0
   izzet-prowess:
-    weight: 0.015
+    weight: 0.0148
     avg_copies: 3.0
   jund-saga:
     weight: 0.25

@@ -18,13 +18,13 @@ archetypes:
     weight: 0.7258
     avg_copies: 1.04
   broodscale-combo:
-    weight: 0.7034
+    weight: 0.7045
     avg_copies: 1.36
   elves:
     weight: 1.0
     avg_copies: 1.5
   cosmogoyf-fling:
-    weight: 0.875
+    weight: 0.8571
     avg_copies: 1.48
   goryo4:
     weight: 1.0
@@ -36,7 +36,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.91
   unknown-61:
-    weight: 0.4881
+    weight: 0.4824
     avg_copies: 1.0
   unknown-76:
     weight: 0.3333

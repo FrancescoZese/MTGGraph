@@ -9,6 +9,6 @@ type: Sorcery // Land
 meta_presence: 0.0054
 archetypes:
   unknown-61:
-    weight: 0.4167
+    weight: 0.4118
     avg_copies: 3.11
 ---

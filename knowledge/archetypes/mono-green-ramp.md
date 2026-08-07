@@ -6,22 +6,22 @@ name: Mono Green Ramp
 meta_share: 0.0011
 list_count: 7
 top_cards:
-- name: Green Sun's Zenith
-  weight: 1.0
-  avg_copies: 4.0
-- name: Springheart Nantuko
-  weight: 1.0
-  avg_copies: 4.0
 - name: Badgermole Cub
+  weight: 1.0
+  avg_copies: 4.0
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 4.0
 - name: Quirion Ranger
   weight: 1.0
   avg_copies: 4.0
-- name: Windswept Heath
+- name: Springheart Nantuko
+  weight: 1.0
+  avg_copies: 4.0
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 3.43
-- name: Misty Rainforest
+- name: Windswept Heath
   weight: 1.0
   avg_copies: 3.43
 - name: Summoner's Pact
@@ -45,19 +45,19 @@ top_cards:
 - name: Craterhoof Behemoth
   weight: 1.0
   avg_copies: 1.0
-- name: Chomping Changeling
+- name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
-- name: Collector Ouphe
+- name: Chomping Changeling
   weight: 1.0
   avg_copies: 1.0
 - name: Ashaya, Soul of the Wild
   weight: 1.0
   avg_copies: 1.0
-- name: Disciple of Freyalise
+- name: Boseiju, Who Endures
   weight: 0.8571
   avg_copies: 1.17
-- name: Boseiju, Who Endures
+- name: Disciple of Freyalise
   weight: 0.8571
   avg_copies: 1.17
 - name: Delighted Halfling
@@ -105,13 +105,13 @@ top_cards:
 - name: Trinisphere
   weight: 0.4286
   avg_copies: 1.67
+- name: Slumbering Trudge
+  weight: 0.2857
+  avg_copies: 4.0
 - name: The Great Henge
   weight: 0.2857
   avg_copies: 4.0
 - name: Fanatic of Rhonas
-  weight: 0.2857
-  avg_copies: 4.0
-- name: Slumbering Trudge
   weight: 0.2857
   avg_copies: 4.0
 - name: Life's Legacy
@@ -129,28 +129,28 @@ top_cards:
 - name: Damping Sphere
   weight: 0.1429
   avg_copies: 3.0
-- name: card:shang-chi-master-of-kung-fu
+- name: Fade from History
   weight: 0.1429
   avg_copies: 3.0
 - name: Force of Vigor
   weight: 0.1429
   avg_copies: 3.0
-- name: Fade from History
+- name: card:shang-chi-master-of-kung-fu
   weight: 0.1429
   avg_copies: 3.0
-- name: Scavenging Ooze
+- name: Ghost Vacuum
   weight: 0.1429
   avg_copies: 1.0
 - name: Gaddock Teeg
   weight: 0.1429
   avg_copies: 1.0
-- name: Ghost Vacuum
+- name: card:enduring-vitality
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Scavenging Ooze
   weight: 0.1429
   avg_copies: 1.0
 - name: card:ruric-thar-the-unbowed
-  weight: 0.1429
-  avg_copies: 1.0
-- name: card:enduring-vitality
   weight: 0.1429
   avg_copies: 1.0
 ---

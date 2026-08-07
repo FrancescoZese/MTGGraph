@@ -7,7 +7,7 @@ name: Quantum Riddler
 scryfall_id: 120be808-ff3b-4fca-96a1-4db6b9825856
 set: eoe
 type: Creature — Sphinx
-meta_presence: 0.1678
+meta_presence: 0.1679
 archetypes:
   boros-energy:
     weight: 0.0027
@@ -19,13 +19,13 @@ archetypes:
     weight: 0.9925
     avg_copies: 3.82
   goryo:
-    weight: 0.7293
-    avg_copies: 3.16
+    weight: 0.7301
+    avg_copies: 3.15
   necrodominance:
     weight: 0.0227
     avg_copies: 3.0
   jeskai-control:
-    weight: 0.0364
+    weight: 0.0357
     avg_copies: 1.5
   domain-zoo:
     weight: 0.2837
@@ -46,7 +46,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.5
   esper-blink:
-    weight: 0.9833
+    weight: 0.9835
     avg_copies: 3.62
   bant-control:
     weight: 1.0
@@ -68,7 +68,7 @@ archetypes:
     avg_copies: 1.65
   goryo2:
     weight: 1.0
-    avg_copies: 3.41
+    avg_copies: 3.38
   goryo3:
     weight: 1.0
     avg_copies: 3.0
@@ -106,8 +106,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9923
-    avg_copies: 3.15
+    weight: 0.9924
+    avg_copies: 3.16
   unknown-62:
     weight: 1.0
     avg_copies: 3.49

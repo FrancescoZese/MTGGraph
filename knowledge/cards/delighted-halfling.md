@@ -7,7 +7,7 @@ name: Delighted Halfling
 scryfall_id: 71384418-173a-4f77-adab-56e52fa23692
 set: ltr
 type: Creature — Halfling Citizen
-meta_presence: 0.0343
+meta_presence: 0.0349
 archetypes:
   yawgmoth-combo:
     weight: 1.0
@@ -19,7 +19,7 @@ archetypes:
     weight: 0.0152
     avg_copies: 3.0
   broodscale-combo:
-    weight: 0.2034
+    weight: 0.2027
     avg_copies: 2.51
   mono-green-ramp:
     weight: 0.7143
@@ -44,7 +44,7 @@ archetypes:
     avg_copies: 3.0
   unknown-126:
     weight: 1.0
-    avg_copies: 3.82
+    avg_copies: 3.76
   unknown-130:
     weight: 1.0
     avg_copies: 1.0

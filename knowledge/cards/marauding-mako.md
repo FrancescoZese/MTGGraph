@@ -7,7 +7,7 @@ name: Marauding Mako
 scryfall_id: 9efbfd67-e0f5-43e0-9fff-1eb4a2bed0d8
 set: dft
 type: Creature — Shark Pirate
-meta_presence: 0.0117
+meta_presence: 0.0118
 archetypes:
   hollow-one:
     weight: 0.3529
@@ -19,7 +19,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-101:
-    weight: 0.9286
+    weight: 0.9333
     avg_copies: 4.0
   unknown-156:
     weight: 1.0

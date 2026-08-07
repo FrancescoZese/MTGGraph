@@ -44,10 +44,10 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 2.25
-- name: Dress Down
+- name: Spell Snare
   weight: 1.0
   avg_copies: 2.0
-- name: Spell Snare
+- name: Dress Down
   weight: 1.0
   avg_copies: 2.0
 - name: Sink into Stupor
@@ -68,16 +68,16 @@ top_cards:
 - name: Emrakul, the Aeons Torn
   weight: 0.6667
   avg_copies: 2.5
-- name: Flusterstorm
+- name: Unable to Scream
   weight: 0.6667
   avg_copies: 2.0
-- name: Unable to Scream
+- name: Ugin, Eye of the Storms
   weight: 0.6667
   avg_copies: 2.0
 - name: Hurkyl's Recall
   weight: 0.6667
   avg_copies: 2.0
-- name: Ugin, Eye of the Storms
+- name: Flusterstorm
   weight: 0.6667
   avg_copies: 2.0
 - name: Stern Scolding
@@ -92,19 +92,19 @@ top_cards:
 - name: card:one-with-the-multiverse
   weight: 0.3333
   avg_copies: 2.0
-- name: Talisman of Progress
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Relic of Progenitus
   weight: 0.3333
   avg_copies: 1.0
-- name: Talisman of Curiosity
+- name: Talisman of Progress
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Agna Qel'a
   weight: 0.3333
   avg_copies: 1.0
 - name: Snow-Covered Island
   weight: 0.3333
   avg_copies: 1.0
-- name: Agna Qel'a
+- name: Talisman of Curiosity
   weight: 0.3333
   avg_copies: 1.0
 ---

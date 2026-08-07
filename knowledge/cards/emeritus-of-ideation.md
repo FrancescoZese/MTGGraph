@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0028
     avg_copies: 2.0
   jeskai-control:
-    weight: 0.0182
+    weight: 0.0179
     avg_copies: 1.0
   esper-blink:
     weight: 0.0083

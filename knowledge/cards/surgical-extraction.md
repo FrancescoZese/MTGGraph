@@ -4,13 +4,13 @@ archetypes:
     weight: 0.0129
     avg_copies: 1.33
   boros-energy:
-    weight: 0.7456
+    weight: 0.7437
     avg_copies: 1.27
   dimir-control:
     weight: 0.1111
     avg_copies: 1.44
   mono-blue-belcher:
-    weight: 0.0114
+    weight: 0.0112
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.6917
@@ -19,16 +19,16 @@ archetypes:
     weight: 0.018
     avg_copies: 2.0
   goryo:
-    weight: 0.51
+    weight: 0.5114
     avg_copies: 1.09
   necrodominance:
     weight: 0.5909
     avg_copies: 1.38
   azorius-control:
-    weight: 0.4526
+    weight: 0.4479
     avg_copies: 1.21
   jeskai-control:
-    weight: 0.5273
+    weight: 0.5179
     avg_copies: 1.28
   domain-zoo:
     weight: 0.227
@@ -46,7 +46,7 @@ archetypes:
     weight: 0.9167
     avg_copies: 1.41
   mono-blue-tron:
-    weight: 0.1667
+    weight: 0.16
     avg_copies: 1.75
   hollow-one:
     weight: 0.7647
@@ -61,10 +61,10 @@ archetypes:
     weight: 0.0726
     avg_copies: 1.56
   izzet-prowess:
-    weight: 0.4731
-    avg_copies: 1.46
+    weight: 0.4748
+    avg_copies: 1.45
   esper-blink:
-    weight: 0.1833
+    weight: 0.1818
     avg_copies: 1.32
   samwise-combo:
     weight: 0.1364
@@ -175,7 +175,7 @@ archetypes:
     weight: 0.875
     avg_copies: 1.14
   unknown-47:
-    weight: 0.1308
+    weight: 0.1288
     avg_copies: 1.41
   unknown-51:
     weight: 1.0
@@ -184,7 +184,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-61:
-    weight: 0.0119
+    weight: 0.0118
     avg_copies: 1.0
   unknown-53:
     weight: 1.0
@@ -241,8 +241,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-101:
-    weight: 0.5
-    avg_copies: 1.57
+    weight: 0.5333
+    avg_copies: 1.5
   unknown-102:
     weight: 1.0
     avg_copies: 2.0
@@ -348,7 +348,7 @@ archetypes:
 cmc: 1
 colors: []
 image: https://cards.scryfall.io/normal/front/e/1/e15d76ac-1c23-4503-8225-375ac2bf2fb6.jpg?1673147668
-meta_presence: 0.2682
+meta_presence: 0.2679
 name: Surgical Extraction
 scryfall_id: e15d76ac-1c23-4503-8225-375ac2bf2fb6
 set: 2x2

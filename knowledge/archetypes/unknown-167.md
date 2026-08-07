@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: 'Unknown #167'
-meta_share: 0.0022
+meta_share: 0.0021
 list_count: 14
 top_cards:
 - name: Mishra's Bauble
@@ -15,10 +15,10 @@ top_cards:
 - name: Mox Opal
   weight: 1.0
   avg_copies: 3.86
-- name: Urza's Saga
+- name: Metallic Rebuke
   weight: 1.0
   avg_copies: 3.79
-- name: Metallic Rebuke
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 3.79
 - name: Mox Amber
@@ -39,13 +39,13 @@ top_cards:
 - name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.14
-- name: Aether Spellbomb
-  weight: 1.0
-  avg_copies: 1.0
 - name: Skateboard
   weight: 1.0
   avg_copies: 1.0
 - name: Minamo, School at Water's Edge
+  weight: 1.0
+  avg_copies: 1.0
+- name: Aether Spellbomb
   weight: 1.0
   avg_copies: 1.0
 - name: Sewer-veillance Cam
@@ -87,10 +87,10 @@ top_cards:
 - name: Swan Song
   weight: 0.5714
   avg_copies: 1.12
-- name: Meticulous Archive
+- name: Haywire Mite
   weight: 0.5714
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Meticulous Archive
   weight: 0.5714
   avg_copies: 1.0
 - name: Seachrome Coast
@@ -99,10 +99,10 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.5
   avg_copies: 1.71
-- name: Pithing Needle
+- name: Disruptor Flute
   weight: 0.5
   avg_copies: 1.0
-- name: Disruptor Flute
+- name: Pithing Needle
   weight: 0.5
   avg_copies: 1.0
 - name: Nature's Claim
@@ -111,13 +111,13 @@ top_cards:
 - name: Sink into Stupor
   weight: 0.4286
   avg_copies: 1.17
-- name: Dusk Rose Reliquary
-  weight: 0.4286
-  avg_copies: 1.0
 - name: Waterlogged Grove
   weight: 0.4286
   avg_copies: 1.0
 - name: Relic of Progenitus
+  weight: 0.4286
+  avg_copies: 1.0
+- name: Dusk Rose Reliquary
   weight: 0.4286
   avg_copies: 1.0
 - name: card:oswald-fiddlebender
@@ -138,13 +138,13 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 0.2857
   avg_copies: 1.4
-- name: Hedge Maze
-  weight: 0.2857
-  avg_copies: 1.0
 - name: Quantum Riddler
   weight: 0.2857
   avg_copies: 1.0
 - name: Six
+  weight: 0.2857
+  avg_copies: 1.0
+- name: Hedge Maze
   weight: 0.2857
   avg_copies: 1.0
 - name: Strix Serenade
@@ -168,10 +168,22 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.1429
   avg_copies: 1.5
-- name: Soul-Guide Lantern
+- name: Unable to Scream
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Tezzeret, Cruel Captain
+  weight: 0.1429
+  avg_copies: 1.0
+- name: card:bruce-banner
+  weight: 0.1429
+  avg_copies: 1.0
+- name: card:scrabbling-claws
   weight: 0.1429
   avg_copies: 1.0
 - name: card:urza-lord-high-artificer
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
   weight: 0.1429
   avg_copies: 1.0
 - name: Krang, Master Mind
@@ -180,22 +192,10 @@ top_cards:
 - name: Plains
   weight: 0.1429
   avg_copies: 1.0
-- name: card:bruce-banner
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Unable to Scream
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Grafdigger's Cage
   weight: 0.1429
   avg_copies: 1.0
 - name: Gran-Gran
-  weight: 0.1429
-  avg_copies: 1.0
-- name: card:scrabbling-claws
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Tezzeret, Cruel Captain
   weight: 0.1429
   avg_copies: 1.0
 - name: Sacred Ground
@@ -204,7 +204,7 @@ top_cards:
 - name: Test of Talents
   weight: 0.0714
   avg_copies: 3.0
-- name: Glimmervoid
+- name: Dismember
   weight: 0.0714
   avg_copies: 2.0
 - name: Orim's Chant
@@ -213,19 +213,19 @@ top_cards:
 - name: Erode
   weight: 0.0714
   avg_copies: 2.0
-- name: Dismember
+- name: Glimmervoid
   weight: 0.0714
   avg_copies: 2.0
-- name: Ashiok, Dream Render
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Thief of Existence
-  weight: 0.0714
-  avg_copies: 1.0
 - name: Spell Snare
   weight: 0.0714
   avg_copies: 1.0
 - name: Invasive Surgery
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Thief of Existence
   weight: 0.0714
   avg_copies: 1.0
 - name: Does Machines

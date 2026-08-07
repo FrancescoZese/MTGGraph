@@ -21,7 +21,7 @@ archetypes:
     weight: 0.1818
     avg_copies: 1.62
   azorius-control:
-    weight: 0.0526
+    weight: 0.0521
     avg_copies: 1.0
   affinity:
     weight: 0.0019
@@ -30,8 +30,8 @@ archetypes:
     weight: 0.1053
     avg_copies: 1.0
   mono-blue-tron:
-    weight: 0.25
-    avg_copies: 1.5
+    weight: 0.28
+    avg_copies: 1.57
   boros-ponza:
     weight: 0.0142
     avg_copies: 2.5
@@ -42,7 +42,7 @@ archetypes:
     weight: 0.003
     avg_copies: 2.0
   broodscale-combo:
-    weight: 0.0138
+    weight: 0.0137
     avg_copies: 1.25
   azorius-blink:
     weight: 0.0152
@@ -57,7 +57,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   cosmogoyf-fling:
-    weight: 0.0208
+    weight: 0.0204
     avg_copies: 1.0
   goryo4:
     weight: 0.9583
@@ -84,7 +84,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.5
   unknown-126:
-    weight: 0.0222
+    weight: 0.02
     avg_copies: 2.0
   unknown-134:
     weight: 1.0

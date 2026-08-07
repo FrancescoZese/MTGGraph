@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: Necrodominance
-meta_share: 0.0068
+meta_share: 0.0067
 list_count: 44
 top_cards:
 - name: Swamp
@@ -84,10 +84,10 @@ top_cards:
 - name: Illness in the Ranks
   weight: 0.25
   avg_copies: 1.18
-- name: Sorin of House Markov
+- name: Wrench Mind
   weight: 0.2273
   avg_copies: 2.0
-- name: Wrench Mind
+- name: Sorin of House Markov
   weight: 0.2273
   avg_copies: 2.0
 - name: Engineered Explosives
@@ -126,10 +126,10 @@ top_cards:
 - name: Sign in Blood
   weight: 0.0909
   avg_copies: 2.25
-- name: Underground Mortuary
+- name: Raucous Theater
   weight: 0.0909
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Underground Mortuary
   weight: 0.0909
   avg_copies: 1.0
 - name: card:baron-helmut-zemo
@@ -189,76 +189,76 @@ top_cards:
 - name: Iridescent Vinelasher
   weight: 0.0227
   avg_copies: 4.0
-- name: Mystical Dispute
-  weight: 0.0227
-  avg_copies: 3.0
 - name: Quantum Riddler
   weight: 0.0227
   avg_copies: 3.0
-- name: Overgrown Tomb
+- name: Mystical Dispute
+  weight: 0.0227
+  avg_copies: 3.0
+- name: Witherbloom Command
   weight: 0.0227
   avg_copies: 2.0
 - name: Mai, Scornful Striker
   weight: 0.0227
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Hurkyl's Recall
   weight: 0.0227
   avg_copies: 2.0
 - name: Pillage the Bog
   weight: 0.0227
   avg_copies: 2.0
-- name: End of the Hunt
-  weight: 0.0227
-  avg_copies: 2.0
 - name: Culling Ritual
   weight: 0.0227
   avg_copies: 2.0
-- name: Hurkyl's Recall
+- name: Vexing Bauble
+  weight: 0.0227
+  avg_copies: 2.0
+- name: End of the Hunt
+  weight: 0.0227
+  avg_copies: 2.0
+- name: Overgrown Tomb
   weight: 0.0227
   avg_copies: 2.0
 - name: Phyrexian Crusader
   weight: 0.0227
   avg_copies: 2.0
-- name: Witherbloom Command
-  weight: 0.0227
-  avg_copies: 2.0
-- name: Pithing Needle
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Nurturing Peatland
-  weight: 0.0227
-  avg_copies: 1.0
-- name: card:invoke-despair
+- name: card:hagra-mauling
   weight: 0.0227
   avg_copies: 1.0
 - name: Ratchet Bomb
   weight: 0.0227
   avg_copies: 1.0
-- name: Blood Crypt
+- name: card:invoke-despair
   weight: 0.0227
   avg_copies: 1.0
 - name: Cling to Dust
   weight: 0.0227
   avg_copies: 1.0
-- name: card:hagra-mauling
+- name: Stone of Erech
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Blood Crypt
   weight: 0.0227
   avg_copies: 1.0
 - name: Kaito, Bane of Nightmares
   weight: 0.0227
   avg_copies: 1.0
-- name: Pick Your Poison
+- name: Path of Peril
   weight: 0.0227
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Pithing Needle
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Pick Your Poison
   weight: 0.0227
   avg_copies: 1.0
 - name: Revitalizing Repast
   weight: 0.0227
   avg_copies: 1.0
-- name: Path of Peril
+- name: Nurturing Peatland
   weight: 0.0227
   avg_copies: 1.0
-- name: Stone of Erech
+- name: Grafdigger's Cage
   weight: 0.0227
   avg_copies: 1.0
 ---

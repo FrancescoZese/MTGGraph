@@ -6,7 +6,7 @@ name: Warping Wail
 scryfall_id: afcc9c88-836b-48b6-9d81-5a6844a6b70f
 set: cmm
 type: Instant
-meta_presence: 0.0274
+meta_presence: 0.0273
 archetypes:
   eldrazi-tron:
     weight: 0.2124
@@ -15,7 +15,7 @@ archetypes:
     weight: 0.2
     avg_copies: 2.0
   broodscale-combo:
-    weight: 0.3655
+    weight: 0.3643
     avg_copies: 1.36
   goryo4:
     weight: 0.1667

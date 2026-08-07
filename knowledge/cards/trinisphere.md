@@ -15,8 +15,8 @@ archetypes:
     weight: 0.6647
     avg_copies: 2.64
   mono-blue-tron:
-    weight: 0.5417
-    avg_copies: 2.31
+    weight: 0.56
+    avg_copies: 2.29
   mono-red-belcher:
     weight: 0.0769
     avg_copies: 1.0
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.7742
     avg_copies: 2.41
   broodscale-combo:
-    weight: 0.2
+    weight: 0.2027
     avg_copies: 1.86
   eldrazi-breach:
     weight: 0.25
@@ -48,8 +48,8 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-61:
-    weight: 0.9643
-    avg_copies: 2.31
+    weight: 0.9647
+    avg_copies: 2.32
   unknown-76:
     weight: 0.1667
     avg_copies: 3.0

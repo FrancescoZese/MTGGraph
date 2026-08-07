@@ -10,6 +10,6 @@ type: Creature — Plant Warlock
 meta_presence: 0.0031
 archetypes:
   cosmogoyf-fling:
-    weight: 0.4167
+    weight: 0.4082
     avg_copies: 1.0
 ---

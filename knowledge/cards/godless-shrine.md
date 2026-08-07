@@ -40,7 +40,7 @@ archetypes:
     avg_copies: 1.0
   goryo2:
     weight: 1.0
-    avg_copies: 1.41
+    avg_copies: 1.38
   devoted-combo:
     weight: 1.0
     avg_copies: 1.0
@@ -90,7 +90,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-126:
-    weight: 0.4889
+    weight: 0.44
     avg_copies: 1.0
   unknown-127:
     weight: 1.0

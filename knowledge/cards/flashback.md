@@ -10,13 +10,13 @@ type: Instant
 meta_presence: 0.0403
 archetypes:
   ruby-storm:
-    weight: 0.4052
+    weight: 0.4034
     avg_copies: 1.65
   azorius-control:
-    weight: 0.0105
+    weight: 0.0104
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.0182
+    weight: 0.0179
     avg_copies: 1.0
   reanimator:
     weight: 0.1111
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.1206
     avg_copies: 1.06
   izzet-prowess:
-    weight: 0.3653
+    weight: 0.365
     avg_copies: 1.31
   izzet-wizards:
     weight: 0.1667

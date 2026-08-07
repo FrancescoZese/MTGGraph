@@ -8,16 +8,16 @@ name: 'Unknown #96'
 meta_share: 0.0063
 list_count: 41
 top_cards:
-- name: Hardened Academic
-  weight: 1.0
-  avg_copies: 4.0
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Hollow One
+- name: Hardened Academic
   weight: 1.0
   avg_copies: 4.0
 - name: Marauding Mako
+  weight: 1.0
+  avg_copies: 4.0
+- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
@@ -35,13 +35,13 @@ top_cards:
 - name: Practiced Offense
   weight: 1.0
   avg_copies: 2.15
-- name: Blazing Rootwalla
+- name: Vengevine
   weight: 0.9756
   avg_copies: 4.0
 - name: Burning Inquiry
   weight: 0.9756
   avg_copies: 4.0
-- name: Vengevine
+- name: Blazing Rootwalla
   weight: 0.9756
   avg_copies: 4.0
 - name: Mountain
@@ -125,16 +125,16 @@ top_cards:
 - name: Tormod's Crypt
   weight: 0.0732
   avg_copies: 2.33
-- name: Seasoned Pyromancer
-  weight: 0.0732
-  avg_copies: 2.0
-- name: The Underworld Cookbook
-  weight: 0.0732
-  avg_copies: 2.0
 - name: Prismatic Ending
   weight: 0.0732
   avg_copies: 2.0
 - name: Asmoranomardicadaistinaculdacar
+  weight: 0.0732
+  avg_copies: 2.0
+- name: Seasoned Pyromancer
+  weight: 0.0732
+  avg_copies: 2.0
+- name: The Underworld Cookbook
   weight: 0.0732
   avg_copies: 2.0
 - name: Magebane Lizard
@@ -149,16 +149,16 @@ top_cards:
 - name: Ghost Vacuum
   weight: 0.0488
   avg_copies: 3.0
-- name: Orcish Bowmasters
-  weight: 0.0488
-  avg_copies: 2.0
 - name: Snow-Covered Mountain
   weight: 0.0488
   avg_copies: 2.0
-- name: Erode
+- name: Orcish Bowmasters
   weight: 0.0488
   avg_copies: 2.0
 - name: Deafening Silence
+  weight: 0.0488
+  avg_copies: 2.0
+- name: Erode
   weight: 0.0488
   avg_copies: 2.0
 - name: Wrath of the Skies
@@ -173,34 +173,34 @@ top_cards:
 - name: Goblin Lore
   weight: 0.0244
   avg_copies: 4.0
-- name: Price of Freedom
-  weight: 0.0244
-  avg_copies: 3.0
 - name: Thoughtseize
   weight: 0.0244
   avg_copies: 3.0
 - name: Marsh Flats
   weight: 0.0244
   avg_copies: 3.0
-- name: Celestial Purge
+- name: Price of Freedom
   weight: 0.0244
-  avg_copies: 2.0
-- name: card:smiting-helix
-  weight: 0.0244
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Hallowed Moonlight
+  weight: 0.0244
+  avg_copies: 2.0
+- name: Celestial Purge
   weight: 0.0244
   avg_copies: 2.0
 - name: Relic of Progenitus
   weight: 0.0244
   avg_copies: 2.0
-- name: Godless Shrine
+- name: card:smiting-helix
   weight: 0.0244
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Plains
   weight: 0.0244
   avg_copies: 1.0
 - name: Pyroclasm
+  weight: 0.0244
+  avg_copies: 1.0
+- name: Godless Shrine
   weight: 0.0244
   avg_copies: 1.0
 ---

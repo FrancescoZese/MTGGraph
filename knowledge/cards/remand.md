@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0043
     avg_copies: 2.0
   mono-blue-tron:
-    weight: 0.0833
+    weight: 0.08
     avg_copies: 4.0
   eldrazi-breach:
     weight: 0.25

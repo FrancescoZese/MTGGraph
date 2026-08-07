@@ -10,13 +10,13 @@ type: Artifact
 meta_presence: 0.0023
 archetypes:
   mono-blue-belcher:
-    weight: 0.0795
+    weight: 0.0787
     avg_copies: 1.0
   unknown-167:
     weight: 0.4286
     avg_copies: 1.0
   unknown-213:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 1.0
   unknown-223:
     weight: 1.0

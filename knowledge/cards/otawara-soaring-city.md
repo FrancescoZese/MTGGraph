@@ -6,7 +6,7 @@ name: Otawara, Soaring City
 scryfall_id: 486d7edc-d983-41f0-8b78-c99aecd72996
 set: neo
 type: Legendary Land
-meta_presence: 0.1209
+meta_presence: 0.1212
 archetypes:
   ruby-storm:
     weight: 0.0086
@@ -21,16 +21,16 @@ archetypes:
     weight: 0.0057
     avg_copies: 1.0
   azorius-control:
-    weight: 0.7158
+    weight: 0.7188
     avg_copies: 1.0
   living-end:
     weight: 0.7808
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.3818
+    weight: 0.375
     avg_copies: 1.0
   affinity:
-    weight: 0.0699
+    weight: 0.0698
     avg_copies: 1.0
   mill:
     weight: 0.8824
@@ -40,7 +40,7 @@ archetypes:
     avg_copies: 1.0
   mono-blue-tron:
     weight: 1.0
-    avg_copies: 1.58
+    avg_copies: 1.56
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
@@ -70,6 +70,9 @@ archetypes:
     avg_copies: 1.0
   esper-midrange:
     weight: 1.0
+    avg_copies: 1.0
+  goryo2:
+    weight: 0.0345
     avg_copies: 1.0
   grixis-control:
     weight: 0.2857
@@ -108,7 +111,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.6692
+    weight: 0.6667
     avg_copies: 1.0
   unknown-62:
     weight: 0.0303
@@ -178,7 +181,7 @@ archetypes:
     avg_copies: 1.0
   unknown-164:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.5
   unknown-171:
     weight: 1.0
     avg_copies: 1.0
@@ -201,7 +204,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-213:
-    weight: 0.8
+    weight: 0.8333
     avg_copies: 1.0
   unknown-218:
     weight: 1.0

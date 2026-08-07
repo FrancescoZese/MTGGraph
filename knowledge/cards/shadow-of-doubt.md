@@ -14,7 +14,7 @@ archetypes:
     weight: 0.0123
     avg_copies: 3.0
   mono-blue-belcher:
-    weight: 0.0114
+    weight: 0.0112
     avg_copies: 1.0
   necrodominance:
     weight: 0.4318
@@ -23,7 +23,7 @@ archetypes:
     weight: 0.16
     avg_copies: 1.75
   unknown-47:
-    weight: 0.0077
+    weight: 0.0076
     avg_copies: 1.0
   unknown-69:
     weight: 0.5

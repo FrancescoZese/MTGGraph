@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0123
     avg_copies: 2.0
   mono-blue-belcher:
-    weight: 0.3977
+    weight: 0.3933
     avg_copies: 1.6
   amulet-titan:
     weight: 0.006
@@ -22,10 +22,10 @@ archetypes:
     weight: 0.0227
     avg_copies: 2.0
   azorius-control:
-    weight: 0.0105
+    weight: 0.0104
     avg_copies: 1.0
   affinity:
-    weight: 0.2388
+    weight: 0.2384
     avg_copies: 1.1
   domain-zoo:
     weight: 0.0071
@@ -34,13 +34,13 @@ archetypes:
     weight: 0.0294
     avg_copies: 2.0
   mono-blue-tron:
-    weight: 0.4167
+    weight: 0.4
     avg_copies: 1.6
   simic-ritual:
     weight: 0.0215
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.009
+    weight: 0.0089
     avg_copies: 1.67
   azorius-blink:
     weight: 0.0152
@@ -70,7 +70,7 @@ archetypes:
     weight: 0.4286
     avg_copies: 1.67
   unknown-53:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 1.0
   unknown-63:
     weight: 1.0
@@ -96,6 +96,9 @@ archetypes:
   unknown-150:
     weight: 0.6667
     avg_copies: 2.0
+  unknown-164:
+    weight: 0.5
+    avg_copies: 4.0
   unknown-170:
     weight: 1.0
     avg_copies: 2.0

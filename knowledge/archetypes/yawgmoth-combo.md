@@ -3,7 +3,7 @@ colors:
 - B
 - G
 name: Yawgmoth Combo
-meta_share: 0.014
+meta_share: 0.0139
 list_count: 91
 top_cards:
 - name: Verdant Catacombs
@@ -12,10 +12,10 @@ top_cards:
 - name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 3.97
-- name: Delighted Halfling
+- name: Young Wolf
   weight: 1.0
   avg_copies: 3.84
-- name: Young Wolf
+- name: Delighted Halfling
   weight: 1.0
   avg_copies: 3.84
 - name: Badgermole Cub
@@ -165,10 +165,10 @@ top_cards:
 - name: Assassin's Trophy
   weight: 0.022
   avg_copies: 1.0
-- name: Cankerbloom
+- name: Ghost Quarter
   weight: 0.022
   avg_copies: 1.0
-- name: Ghost Quarter
+- name: Cankerbloom
   weight: 0.022
   avg_copies: 1.0
 - name: card:mole-man-moloid-master
@@ -177,16 +177,13 @@ top_cards:
 - name: Icetill Explorer
   weight: 0.022
   avg_copies: 1.0
-- name: Tourach, Dread Cantor
-  weight: 0.011
-  avg_copies: 2.0
 - name: card:wastewood-verge
   weight: 0.011
   avg_copies: 2.0
-- name: Surgical Extraction
+- name: Tourach, Dread Cantor
   weight: 0.011
-  avg_copies: 1.0
-- name: Nurturing Peatland
+  avg_copies: 2.0
+- name: Sylvan Safekeeper
   weight: 0.011
   avg_copies: 1.0
 - name: Disciple of Freyalise
@@ -195,22 +192,25 @@ top_cards:
 - name: Chomping Changeling
   weight: 0.011
   avg_copies: 1.0
-- name: Creeping Corrosion
-  weight: 0.011
-  avg_copies: 1.0
-- name: Sylvan Safekeeper
+- name: Vicious Rivalry
   weight: 0.011
   avg_copies: 1.0
 - name: Spore Frog
   weight: 0.011
   avg_copies: 1.0
-- name: Vicious Rivalry
+- name: Nurturing Peatland
+  weight: 0.011
+  avg_copies: 1.0
+- name: Fade from History
   weight: 0.011
   avg_copies: 1.0
 - name: Collector Ouphe
   weight: 0.011
   avg_copies: 1.0
-- name: Fade from History
+- name: Surgical Extraction
+  weight: 0.011
+  avg_copies: 1.0
+- name: Creeping Corrosion
   weight: 0.011
   avg_copies: 1.0
 ---

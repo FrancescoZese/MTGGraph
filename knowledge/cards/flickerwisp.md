@@ -7,14 +7,14 @@ name: Flickerwisp
 scryfall_id: f6cccf30-2025-49bb-9b1e-240bbef03f27
 set: 2x2
 type: Creature — Elemental
-meta_presence: 0.0246
+meta_presence: 0.0247
 archetypes:
   mardu-blink:
     weight: 1.0
     avg_copies: 1.75
   esper-blink:
-    weight: 0.9583
-    avg_copies: 2.27
+    weight: 0.9587
+    avg_copies: 2.28
   orzhov-blink:
     weight: 0.9375
     avg_copies: 3.13

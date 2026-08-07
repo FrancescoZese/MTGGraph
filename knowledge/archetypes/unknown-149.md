@@ -7,19 +7,19 @@ name: 'Unknown #149'
 meta_share: 0.0017
 list_count: 11
 top_cards:
-- name: Flooded Strand
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
-- name: Ocelot Pride
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 4.0
-- name: Guide of Souls
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
@@ -31,10 +31,10 @@ top_cards:
 - name: Goblin Bombardment
   weight: 1.0
   avg_copies: 2.91
-- name: Ragavan, Nimble Pilferer
+- name: Witch Enchanter
   weight: 1.0
   avg_copies: 2.73
-- name: Witch Enchanter
+- name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 2.73
 - name: Consign to Memory
@@ -61,10 +61,10 @@ top_cards:
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Mountain
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Island
@@ -133,10 +133,10 @@ top_cards:
 - name: Rest in Peace
   weight: 0.2727
   avg_copies: 1.33
-- name: Deafening Silence
+- name: Scalding Tarn
   weight: 0.1818
   avg_copies: 1.5
-- name: Scalding Tarn
+- name: Deafening Silence
   weight: 0.1818
   avg_copies: 1.5
 - name: Arena of Glory
@@ -145,19 +145,19 @@ top_cards:
 - name: Voice of Victory
   weight: 0.0909
   avg_copies: 2.0
-- name: Clarion Conqueror
+- name: Marsh Flats
   weight: 0.0909
   avg_copies: 2.0
-- name: Marsh Flats
+- name: Clarion Conqueror
   weight: 0.0909
   avg_copies: 2.0
 - name: Containment Priest
   weight: 0.0909
   avg_copies: 1.0
-- name: Detect Intrusion
+- name: March of Otherworldly Light
   weight: 0.0909
   avg_copies: 1.0
-- name: March of Otherworldly Light
+- name: Detect Intrusion
   weight: 0.0909
   avg_copies: 1.0
 ---

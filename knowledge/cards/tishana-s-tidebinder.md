@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0752
     avg_copies: 1.5
   mono-blue-tron:
-    weight: 0.1667
+    weight: 0.16
     avg_copies: 1.17
   azorius-blink:
     weight: 0.0152

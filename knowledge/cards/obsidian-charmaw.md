@@ -7,19 +7,19 @@ name: Obsidian Charmaw
 scryfall_id: ee6d08be-a6fc-44a5-932d-b6a8705534c0
 set: mh2
 type: Creature — Dragon
-meta_presence: 0.1675
+meta_presence: 0.167
 archetypes:
   boros-energy:
-    weight: 0.8246
-    avg_copies: 2.42
+    weight: 0.8251
+    avg_copies: 2.43
   jeskai-energy:
     weight: 0.9774
     avg_copies: 2.74
   azorius-control:
-    weight: 0.0105
+    weight: 0.0104
     avg_copies: 2.0
   jeskai-control:
-    weight: 0.0909
+    weight: 0.0893
     avg_copies: 2.8
   domain-zoo:
     weight: 0.6099
@@ -37,7 +37,7 @@ archetypes:
     weight: 0.4118
     avg_copies: 2.5
   izzet-prowess:
-    weight: 0.0299
+    weight: 0.0297
     avg_copies: 1.9
   4c-omnath:
     weight: 1.0
@@ -133,7 +133,7 @@ archetypes:
     weight: 0.75
     avg_copies: 2.0
   unknown-101:
-    weight: 0.4286
+    weight: 0.4
     avg_copies: 2.0
   unknown-114:
     weight: 1.0

@@ -24,7 +24,7 @@ archetypes:
     weight: 0.0108
     avg_copies: 2.0
   esper-blink:
-    weight: 0.025
+    weight: 0.0248
     avg_copies: 2.0
   jund-saga:
     weight: 0.25
@@ -54,7 +54,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-24:
-    weight: 0.15
+    weight: 0.1429
     avg_copies: 1.0
   unknown-30:
     weight: 0.1429

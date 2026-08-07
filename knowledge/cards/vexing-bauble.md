@@ -6,14 +6,14 @@ name: Vexing Bauble
 scryfall_id: 29f11089-658f-42e6-aeb0-09b512ad2479
 set: mh3
 type: Artifact
-meta_presence: 0.3749
+meta_presence: 0.374
 archetypes:
   ruby-storm:
-    weight: 0.1078
+    weight: 0.1073
     avg_copies: 1.65
   boros-energy:
-    weight: 0.6292
-    avg_copies: 1.61
+    weight: 0.6288
+    avg_copies: 1.6
   eldrazi-tron:
     weight: 0.5882
     avg_copies: 1.25
@@ -30,10 +30,10 @@ archetypes:
     weight: 0.0227
     avg_copies: 2.0
   azorius-control:
-    weight: 0.1053
+    weight: 0.1042
     avg_copies: 1.9
   affinity:
-    weight: 0.7223
+    weight: 0.7229
     avg_copies: 1.08
   domain-zoo:
     weight: 0.078
@@ -48,7 +48,7 @@ archetypes:
     weight: 0.0526
     avg_copies: 3.5
   mono-blue-tron:
-    weight: 0.0417
+    weight: 0.04
     avg_copies: 1.0
   mono-red-belcher:
     weight: 0.3077
@@ -75,10 +75,10 @@ archetypes:
     weight: 0.0108
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0359
+    weight: 0.0356
     avg_copies: 2.08
   esper-blink:
-    weight: 0.0167
+    weight: 0.0165
     avg_copies: 2.0
   samwise-combo:
     weight: 0.4394
@@ -129,7 +129,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   cosmogoyf-fling:
-    weight: 0.1042
+    weight: 0.102
     avg_copies: 2.2
   scapeshift-combo:
     weight: 1.0
@@ -198,7 +198,7 @@ archetypes:
     weight: 0.2069
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0231
+    weight: 0.0227
     avg_copies: 2.0
   unknown-49:
     weight: 0.7143
@@ -207,7 +207,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-61:
-    weight: 0.0357
+    weight: 0.0353
     avg_copies: 2.33
   unknown-52:
     weight: 1.0
@@ -270,7 +270,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.5
   unknown-101:
-    weight: 0.2143
+    weight: 0.2
     avg_copies: 2.67
   unknown-105:
     weight: 1.0
@@ -303,8 +303,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-126:
-    weight: 0.5556
-    avg_copies: 1.88
+    weight: 0.54
+    avg_copies: 1.85
   unknown-130:
     weight: 1.0
     avg_copies: 2.0

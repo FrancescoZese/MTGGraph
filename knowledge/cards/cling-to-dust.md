@@ -34,7 +34,7 @@ archetypes:
     weight: 0.04
     avg_copies: 2.0
   goryo2:
-    weight: 0.2222
+    weight: 0.2069
     avg_copies: 1.0
   soultrader-combo:
     weight: 0.1429
@@ -61,7 +61,7 @@ archetypes:
     weight: 0.069
     avg_copies: 1.0
   unknown-47:
-    weight: 0.7077
+    weight: 0.7045
     avg_copies: 1.12
   unknown-51:
     weight: 1.0

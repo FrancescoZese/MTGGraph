@@ -9,22 +9,22 @@ top_cards:
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
+- name: Boggart Trawler
+  weight: 1.0
+  avg_copies: 4.0
 - name: Soul Spike
   weight: 1.0
   avg_copies: 4.0
 - name: Necrodominance
   weight: 1.0
   avg_copies: 4.0
-- name: Boggart Trawler
-  weight: 1.0
-  avg_copies: 4.0
 - name: Swamp
   weight: 1.0
   avg_copies: 3.62
-- name: Orcish Bowmasters
+- name: Witherbloom Charm
   weight: 1.0
   avg_copies: 3.5
-- name: Witherbloom Charm
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.5
 - name: Thoughtseize
@@ -39,28 +39,28 @@ top_cards:
 - name: Dauthi Voidwalker
   weight: 1.0
   avg_copies: 2.38
-- name: Bloodstained Mire
-  weight: 1.0
-  avg_copies: 2.12
 - name: Culling Ritual
   weight: 1.0
   avg_copies: 2.12
-- name: Overgrown Tomb
+- name: Bloodstained Mire
   weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 2.12
 - name: Underground Mortuary
   weight: 1.0
   avg_copies: 2.0
 - name: March of Wretched Sorrow
   weight: 1.0
   avg_copies: 2.0
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 2.0
 - name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 2.0
-- name: Castle Locthwain
+- name: Overgrown Tomb
   weight: 1.0
   avg_copies: 2.0
-- name: Marsh Flats
+- name: Castle Locthwain
   weight: 1.0
   avg_copies: 2.0
 - name: Professor Dellian Fel

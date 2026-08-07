@@ -7,10 +7,10 @@ name: 'Unknown #70'
 meta_share: 0.0029
 list_count: 19
 top_cards:
-- name: Galvanic Discharge
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Guide of Souls
+- name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
@@ -127,19 +127,19 @@ top_cards:
 - name: Mockingbird
   weight: 0.1579
   avg_copies: 1.33
-- name: Surgical Extraction
-  weight: 0.1579
-  avg_copies: 1.0
 - name: Thundering Falls
   weight: 0.1579
   avg_copies: 1.0
 - name: Witch Enchanter
   weight: 0.1579
   avg_copies: 1.0
-- name: Orim's Chant
+- name: Surgical Extraction
+  weight: 0.1579
+  avg_copies: 1.0
+- name: Deafening Silence
   weight: 0.1053
   avg_copies: 2.0
-- name: Deafening Silence
+- name: Orim's Chant
   weight: 0.1053
   avg_copies: 2.0
 - name: Strix Serenade
@@ -148,40 +148,40 @@ top_cards:
 - name: White Orchid Phantom
   weight: 0.0526
   avg_copies: 3.0
-- name: Reprieve
+- name: Starfield Shepherd
   weight: 0.0526
   avg_copies: 2.0
-- name: Starfield Shepherd
+- name: Reprieve
   weight: 0.0526
   avg_copies: 2.0
 - name: Practiced Offense
   weight: 0.0526
   avg_copies: 2.0
-- name: Magus of the Moon
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Boromir, Warden of the Tower
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Windswept Heath
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Lightning Bolt
+- name: The Legend of Roku
   weight: 0.0526
   avg_copies: 1.0
 - name: Spell Pierce
   weight: 0.0526
   avg_copies: 1.0
-- name: The Legend of Roku
+- name: Lightning Bolt
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Boromir, Warden of the Tower
   weight: 0.0526
   avg_copies: 1.0
 - name: Vandalblast
   weight: 0.0526
   avg_copies: 1.0
+- name: Magus of the Moon
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Windswept Heath
+  weight: 0.0526
+  avg_copies: 1.0
 - name: Marsh Flats
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
   weight: 0.0526
   avg_copies: 1.0
 ---

@@ -8,7 +8,7 @@ name: Culling Ritual
 scryfall_id: abaad8c5-763d-4276-9b19-623cd19f59b9
 set: soc
 type: Sorcery
-meta_presence: 0.04
+meta_presence: 0.0398
 archetypes:
   goryo:
     weight: 0.0057
@@ -32,7 +32,7 @@ archetypes:
     weight: 0.0606
     avg_copies: 2.0
   broodscale-combo:
-    weight: 0.0138
+    weight: 0.0137
     avg_copies: 2.0
   jund-saga:
     weight: 0.25

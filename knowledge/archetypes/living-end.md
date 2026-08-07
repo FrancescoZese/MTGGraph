@@ -163,10 +163,10 @@ top_cards:
 - name: Clarion Conqueror
   weight: 0.1781
   avg_copies: 2.54
-- name: Meticulous Archive
+- name: Hallowed Fountain
   weight: 0.1781
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Meticulous Archive
   weight: 0.1781
   avg_copies: 1.0
 - name: card:superior-spider-man
@@ -208,22 +208,16 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 0.0274
   avg_copies: 2.0
-- name: Oliphaunt
+- name: Fade from History
   weight: 0.0274
   avg_copies: 2.0
-- name: Fade from History
+- name: Oliphaunt
   weight: 0.0274
   avg_copies: 2.0
 - name: Steam Vents
   weight: 0.0274
   avg_copies: 1.5
-- name: Sunken Ruins
-  weight: 0.0274
-  avg_copies: 1.0
-- name: High Noon
-  weight: 0.0274
-  avg_copies: 1.0
-- name: card:ethersworn-canonist
+- name: Stomping Ground
   weight: 0.0274
   avg_copies: 1.0
 - name: Windcaller Aven
@@ -235,7 +229,13 @@ top_cards:
 - name: Godless Shrine
   weight: 0.0274
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Sunken Ruins
+  weight: 0.0274
+  avg_copies: 1.0
+- name: High Noon
+  weight: 0.0274
+  avg_copies: 1.0
+- name: card:ethersworn-canonist
   weight: 0.0274
   avg_copies: 1.0
 - name: Violent Outburst
@@ -253,46 +253,46 @@ top_cards:
 - name: Soulless Jailer
   weight: 0.0137
   avg_copies: 2.0
-- name: Gemstone Caverns
-  weight: 0.0137
-  avg_copies: 1.0
-- name: Brainsurge
-  weight: 0.0137
-  avg_copies: 1.0
-- name: Murderous Cut
-  weight: 0.0137
-  avg_copies: 1.0
-- name: Press the Enemy
-  weight: 0.0137
-  avg_copies: 1.0
-- name: Gloomlake Verge
-  weight: 0.0137
-  avg_copies: 1.0
-- name: Twilight Mire
+- name: Brazen Borrower
   weight: 0.0137
   avg_copies: 1.0
 - name: Thundering Falls
   weight: 0.0137
   avg_copies: 1.0
-- name: Undercity Informer
-  weight: 0.0137
-  avg_copies: 1.0
-- name: Force of Despair
-  weight: 0.0137
-  avg_copies: 1.0
-- name: Kataki, War's Wage
-  weight: 0.0137
-  avg_copies: 1.0
-- name: Skycoach Conductor
-  weight: 0.0137
-  avg_copies: 1.0
-- name: Collector Ouphe
+- name: Gemstone Caverns
   weight: 0.0137
   avg_copies: 1.0
 - name: card:awaken-the-honored-dead
   weight: 0.0137
   avg_copies: 1.0
-- name: Brazen Borrower
+- name: Undercity Informer
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Murderous Cut
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Kataki, War's Wage
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Twilight Mire
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Press the Enemy
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Force of Despair
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Skycoach Conductor
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Brainsurge
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Gloomlake Verge
   weight: 0.0137
   avg_copies: 1.0
 ---

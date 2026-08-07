@@ -16,13 +16,13 @@ archetypes:
     weight: 0.0323
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.006
+    weight: 0.0059
     avg_copies: 1.0
   dredge:
     weight: 0.0741
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.0833
+    weight: 0.0816
     avg_copies: 2.0
   unknown-40:
     weight: 1.0
