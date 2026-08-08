@@ -8,25 +8,13 @@ top_cards:
 - name: Forest
   weight: 1.0
   avg_copies: 6.0
-- name: Windswept Heath
+- name: Ouroboroid
   weight: 1.0
   avg_copies: 4.0
 - name: Quirion Ranger
   weight: 1.0
   avg_copies: 4.0
-- name: Springheart Nantuko
-  weight: 1.0
-  avg_copies: 4.0
-- name: Badgermole Cub
-  weight: 1.0
-  avg_copies: 4.0
-- name: Leyline of Abundance
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ouroboroid
-  weight: 1.0
-  avg_copies: 4.0
-- name: Verdant Catacombs
+- name: Windswept Heath
   weight: 1.0
   avg_copies: 4.0
 - name: Delighted Halfling
@@ -35,28 +23,40 @@ top_cards:
 - name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 4.0
+- name: Springheart Nantuko
+  weight: 1.0
+  avg_copies: 4.0
+- name: Verdant Catacombs
+  weight: 1.0
+  avg_copies: 4.0
+- name: Badgermole Cub
+  weight: 1.0
+  avg_copies: 4.0
+- name: Leyline of Abundance
+  weight: 1.0
+  avg_copies: 4.0
+- name: Summoner's Pact
+  weight: 1.0
+  avg_copies: 3.0
 - name: Force of Vigor
   weight: 1.0
   avg_copies: 3.0
 - name: card:shang-chi-master-of-kung-fu
   weight: 1.0
   avg_copies: 3.0
-- name: Summoner's Pact
-  weight: 1.0
-  avg_copies: 3.0
-- name: Veil of Summer
+- name: Heroic Intervention
   weight: 1.0
   avg_copies: 2.75
-- name: Heroic Intervention
+- name: Veil of Summer
   weight: 1.0
   avg_copies: 2.75
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 2.0
-- name: Misty Rainforest
+- name: Ashaya, Soul of the Wild
   weight: 1.0
   avg_copies: 1.75
-- name: Ashaya, Soul of the Wild
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 1.75
 - name: Boseiju, Who Endures
@@ -71,10 +71,10 @@ top_cards:
 - name: Orim's Chant
   weight: 0.75
   avg_copies: 4.0
-- name: Endurance
+- name: Lush Portico
   weight: 0.75
   avg_copies: 2.0
-- name: Lush Portico
+- name: Endurance
   weight: 0.75
   avg_copies: 2.0
 - name: Temple Garden
@@ -92,10 +92,10 @@ top_cards:
 - name: card:mark-of-asylum
   weight: 0.25
   avg_copies: 1.0
-- name: Noble Hierarch
+- name: Lotus Cobra
   weight: 0.25
   avg_copies: 1.0
-- name: Lotus Cobra
+- name: Noble Hierarch
   weight: 0.25
   avg_copies: 1.0
 - name: card:birds-of-paradise

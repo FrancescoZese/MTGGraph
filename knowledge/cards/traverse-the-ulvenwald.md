@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.0038
 archetypes:
   broodscale-combo:
-    weight: 0.0825
+    weight: 0.0822
     avg_copies: 1.67
   unknown-90:
     weight: 1.0

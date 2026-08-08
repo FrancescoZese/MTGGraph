@@ -13,28 +13,28 @@ top_cards:
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Quantum Riddler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Guide of Souls
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flooded Strand
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marsh Flats
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
-- name: Polluted Delta
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Starfield Shepherd
+- name: Quantum Riddler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
+- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.75
-- name: Phelia, Exuberant Shepherd
+- name: Starfield Shepherd
   weight: 1.0
   avg_copies: 3.75
 - name: Practiced Offense
@@ -43,22 +43,22 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 2.14
-- name: Ephemerate
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Ephemerate
   weight: 1.0
   avg_copies: 2.0
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 1.88
-- name: Hallowed Fountain
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.75
 - name: Plains
   weight: 1.0
   avg_copies: 1.75
-- name: Meticulous Archive
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.75
 - name: Godless Shrine
@@ -106,19 +106,19 @@ top_cards:
 - name: Undercity Sewers
   weight: 0.25
   avg_copies: 1.0
-- name: Prismatic Ending
-  weight: 0.125
-  avg_copies: 3.0
 - name: Orcish Bowmasters
   weight: 0.125
   avg_copies: 3.0
-- name: Voice of Victory
+- name: Prismatic Ending
   weight: 0.125
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Containment Priest
   weight: 0.125
   avg_copies: 2.0
 - name: High Noon
+  weight: 0.125
+  avg_copies: 2.0
+- name: Voice of Victory
   weight: 0.125
   avg_copies: 2.0
 - name: Swamp

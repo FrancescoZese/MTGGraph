@@ -6,10 +6,7 @@ name: 'Unknown #122'
 meta_share: 0.0041
 list_count: 27
 top_cards:
-- name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Cori-Steel Cutter
+- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Preordain
@@ -18,7 +15,10 @@ top_cards:
 - name: Lava Dart
   weight: 1.0
   avg_copies: 4.0
-- name: Dragon's Rage Channeler
+- name: Lightning Bolt
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Stormchaser's Talent
@@ -39,10 +39,10 @@ top_cards:
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
-- name: Scalding Tarn
+- name: Monastery Swiftspear
   weight: 0.963
   avg_copies: 3.92
-- name: Monastery Swiftspear
+- name: Scalding Tarn
   weight: 0.963
   avg_copies: 3.92
 - name: Unholy Heat
@@ -114,10 +114,10 @@ top_cards:
 - name: Chalice of the Void
   weight: 0.1111
   avg_copies: 2.0
-- name: Spell Snare
+- name: Mystical Dispute
   weight: 0.1111
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Spell Snare
   weight: 0.1111
   avg_copies: 2.0
 - name: Ragavan, Nimble Pilferer
@@ -129,10 +129,10 @@ top_cards:
 - name: Assault Strobe
   weight: 0.1111
   avg_copies: 1.33
-- name: Octopus Form
+- name: Iroh's Demonstration
   weight: 0.1111
   avg_copies: 1.0
-- name: Iroh's Demonstration
+- name: Octopus Form
   weight: 0.1111
   avg_copies: 1.0
 - name: Price of Freedom
@@ -171,16 +171,16 @@ top_cards:
 - name: Wear
   weight: 0.037
   avg_copies: 2.0
-- name: Fire Magic
+- name: Sacred Foundry
   weight: 0.037
   avg_copies: 1.0
 - name: Hurkyl's Recall
   weight: 0.037
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Redirect Lightning
   weight: 0.037
   avg_copies: 1.0
-- name: Redirect Lightning
+- name: Fire Magic
   weight: 0.037
   avg_copies: 1.0
 - name: Accumulate Wisdom

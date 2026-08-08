@@ -8,10 +8,10 @@ name: 'Unknown #67'
 meta_share: 0.013
 list_count: 85
 top_cards:
-- name: Violent Outburst
+- name: Shardless Agent
   weight: 1.0
   avg_copies: 3.96
-- name: Shardless Agent
+- name: Violent Outburst
   weight: 1.0
   avg_copies: 3.96
 - name: Subtlety
@@ -146,13 +146,13 @@ top_cards:
 - name: Hallowed Fountain
   weight: 0.1765
   avg_copies: 1.0
+- name: Magebane Lizard
+  weight: 0.1529
+  avg_copies: 1.38
 - name: Blood Moon
   weight: 0.1529
   avg_copies: 1.38
 - name: Commandeer
-  weight: 0.1529
-  avg_copies: 1.38
-- name: Magebane Lizard
   weight: 0.1529
   avg_copies: 1.38
 - name: Mountain
@@ -176,43 +176,40 @@ top_cards:
 - name: Quantum Riddler
   weight: 0.0588
   avg_copies: 1.12
-- name: Flare of Denial
+- name: Flooded Grove
   weight: 0.0588
   avg_copies: 1.0
-- name: Flooded Grove
+- name: Flare of Denial
   weight: 0.0588
   avg_copies: 1.0
 - name: Windcaller Aven
   weight: 0.0235
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Press the Enemy
   weight: 0.0235
   avg_copies: 1.0
-- name: Press the Enemy
+- name: Ashiok, Dream Render
   weight: 0.0235
   avg_copies: 1.0
 - name: Overlord of the Balemurk
   weight: 0.0118
   avg_copies: 4.0
-- name: Architects of Will
+- name: Polluted Delta
   weight: 0.0118
   avg_copies: 3.0
 - name: Fulminator Mage
   weight: 0.0118
   avg_copies: 3.0
-- name: Polluted Delta
+- name: Architects of Will
   weight: 0.0118
   avg_copies: 3.0
-- name: Vendilion Clique
-  weight: 0.0118
-  avg_copies: 2.0
 - name: card:anger-of-the-gods
   weight: 0.0118
   avg_copies: 2.0
 - name: card:runescale-stormbrood
   weight: 0.0118
   avg_copies: 2.0
-- name: Stormkeld Vanguard
+- name: Bonecrusher Giant
   weight: 0.0118
   avg_copies: 2.0
 - name: Culling Ritual
@@ -221,46 +218,49 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 0.0118
   avg_copies: 2.0
-- name: Bonecrusher Giant
+- name: Stormkeld Vanguard
   weight: 0.0118
   avg_copies: 2.0
-- name: Harvester of Misery
+- name: Vendilion Clique
   weight: 0.0118
-  avg_copies: 1.0
-- name: Gemstone Caverns
-  weight: 0.0118
-  avg_copies: 1.0
-- name: card:cascade-bluffs
-  weight: 0.0118
-  avg_copies: 1.0
-- name: Fire
-  weight: 0.0118
-  avg_copies: 1.0
-- name: Kataki, War's Wage
-  weight: 0.0118
-  avg_copies: 1.0
-- name: Tokka & Rahzar, Terrible Twos
-  weight: 0.0118
-  avg_copies: 1.0
-- name: Overgrown Tomb
-  weight: 0.0118
-  avg_copies: 1.0
-- name: High Noon
-  weight: 0.0118
-  avg_copies: 1.0
-- name: Arid Mesa
+  avg_copies: 2.0
+- name: Meticulous Archive
   weight: 0.0118
   avg_copies: 1.0
 - name: Collector Ouphe
   weight: 0.0118
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Tokka & Rahzar, Terrible Twos
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Kataki, War's Wage
+  weight: 0.0118
+  avg_copies: 1.0
+- name: High Noon
   weight: 0.0118
   avg_copies: 1.0
 - name: Underground Mortuary
   weight: 0.0118
   avg_copies: 1.0
+- name: Overgrown Tomb
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Arid Mesa
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Fire
+  weight: 0.0118
+  avg_copies: 1.0
+- name: Harvester of Misery
+  weight: 0.0118
+  avg_copies: 1.0
 - name: Brainsurge
+  weight: 0.0118
+  avg_copies: 1.0
+- name: card:cascade-bluffs
   weight: 0.0118
   avg_copies: 1.0
 ---

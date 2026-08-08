@@ -16,13 +16,13 @@ archetypes:
     weight: 0.0682
     avg_copies: 1.33
   orzhov-blink:
-    weight: 0.0625
+    weight: 0.0588
     avg_copies: 2.0
   rakdos-aggro:
     weight: 0.0526
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.102
+    weight: 0.1
     avg_copies: 1.5
   unknown-14:
     weight: 1.0

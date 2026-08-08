@@ -10,10 +10,10 @@ type: Legendary Creature — Elemental Elk
 meta_presence: 0.0081
 archetypes:
   azorius-control:
-    weight: 0.1146
+    weight: 0.1122
     avg_copies: 1.36
   jeskai-control:
-    weight: 0.25
+    weight: 0.2456
     avg_copies: 1.0
   boros-ponza:
     weight: 0.0355
@@ -40,7 +40,7 @@ archetypes:
     weight: 0.1111
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0946
+    weight: 0.0933
     avg_copies: 1.71
   unknown-166:
     weight: 1.0

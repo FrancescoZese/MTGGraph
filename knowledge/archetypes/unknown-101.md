@@ -6,19 +6,19 @@ name: 'Unknown #101'
 meta_share: 0.0023
 list_count: 15
 top_cards:
+- name: Street Wraith
+  weight: 1.0
+  avg_copies: 4.0
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Street Wraith
+- name: Detective's Phoenix
   weight: 1.0
   avg_copies: 4.0
 - name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
 - name: Hollow One
-  weight: 1.0
-  avg_copies: 4.0
-- name: Detective's Phoenix
   weight: 1.0
   avg_copies: 4.0
 - name: Blood Crypt
@@ -84,13 +84,13 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.5333
   avg_copies: 1.5
-- name: Nihil Spellbomb
-  weight: 0.4667
-  avg_copies: 1.14
 - name: Marsh Flats
   weight: 0.4667
   avg_copies: 1.14
 - name: Pyroclasm
+  weight: 0.4667
+  avg_copies: 1.14
+- name: Nihil Spellbomb
   weight: 0.4667
   avg_copies: 1.14
 - name: Polluted Delta
@@ -117,13 +117,13 @@ top_cards:
 - name: Damping Sphere
   weight: 0.2
   avg_copies: 3.67
+- name: Dragon's Rage Channeler
+  weight: 0.2
+  avg_copies: 2.67
 - name: Vexing Bauble
   weight: 0.2
   avg_copies: 2.67
 - name: Faerie Macabre
-  weight: 0.2
-  avg_copies: 2.67
-- name: Dragon's Rage Channeler
   weight: 0.2
   avg_copies: 2.67
 - name: Ox of Agonas
@@ -138,19 +138,7 @@ top_cards:
 - name: Wear
   weight: 0.0667
   avg_copies: 2.0
-- name: Sheoldred's Edict
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Blackcleave Cliffs
-  weight: 0.0667
-  avg_copies: 1.0
 - name: Sacred Foundry
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Seal of Fire
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Cool but Rude
   weight: 0.0667
   avg_copies: 1.0
 - name: Molten Collapse
@@ -159,7 +147,19 @@ top_cards:
 - name: Abrade
   weight: 0.0667
   avg_copies: 1.0
+- name: Seal of Fire
+  weight: 0.0667
+  avg_copies: 1.0
 - name: Goblin Lore
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Sheoldred's Edict
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Cool but Rude
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Blackcleave Cliffs
   weight: 0.0667
   avg_copies: 1.0
 ---

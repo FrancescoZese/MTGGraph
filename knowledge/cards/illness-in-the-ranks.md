@@ -19,7 +19,7 @@ archetypes:
     weight: 0.2647
     avg_copies: 1.0
   orzhov-blink:
-    weight: 0.0625
+    weight: 0.0588
     avg_copies: 2.0
   dredge:
     weight: 0.037
@@ -28,7 +28,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   goryo1:
-    weight: 0.0058
+    weight: 0.0057
     avg_copies: 1.0
   goryo5:
     weight: 0.16

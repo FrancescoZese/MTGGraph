@@ -6,34 +6,34 @@ name: 'Unknown #35'
 meta_share: 0.0006
 list_count: 4
 top_cards:
-- name: Scalding Tarn
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flame of Anor
-  weight: 1.0
-  avg_copies: 4.0
-- name: Subtlety
-  weight: 1.0
-  avg_copies: 4.0
 - name: Thundertrap Trainer
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Lórien Revealed
   weight: 1.0
   avg_copies: 4.0
+- name: Subtlety
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Scalding Tarn
+  weight: 1.0
+  avg_copies: 4.0
 - name: Unholy Heat
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flame of Anor
   weight: 1.0
   avg_copies: 4.0
 - name: Island
   weight: 1.0
   avg_copies: 3.25
-- name: Steam Vents
+- name: Fable of the Mirror-Breaker
   weight: 1.0
   avg_copies: 3.0
-- name: Fable of the Mirror-Breaker
+- name: Steam Vents
   weight: 1.0
   avg_copies: 3.0
 - name: Lightning Bolt
@@ -42,19 +42,19 @@ top_cards:
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 2.25
+- name: Flare of Denial
+  weight: 1.0
+  avg_copies: 2.0
 - name: Thundering Falls
-  weight: 1.0
-  avg_copies: 2.0
-- name: Blood Moon
-  weight: 1.0
-  avg_copies: 2.0
-- name: Snapcaster Mage
   weight: 1.0
   avg_copies: 2.0
 - name: Dress Down
   weight: 1.0
   avg_copies: 2.0
-- name: Flare of Denial
+- name: Snapcaster Mage
+  weight: 1.0
+  avg_copies: 2.0
+- name: Blood Moon
   weight: 1.0
   avg_copies: 2.0
 - name: Spell Snare
@@ -63,10 +63,10 @@ top_cards:
 - name: Flusterstorm
   weight: 1.0
   avg_copies: 1.25
-- name: Engineered Explosives
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Mountain
+- name: Engineered Explosives
   weight: 1.0
   avg_copies: 1.0
 - name: Consign to Memory
@@ -99,37 +99,37 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.25
   avg_copies: 4.0
-- name: Spell Pierce
-  weight: 0.25
-  avg_copies: 2.0
-- name: Teferi, Temporal Pilgrim
-  weight: 0.25
-  avg_copies: 2.0
-- name: card:volatile-stormdrake
-  weight: 0.25
-  avg_copies: 2.0
-- name: Arena of Glory
-  weight: 0.25
-  avg_copies: 2.0
 - name: Marang River Regent
-  weight: 0.25
-  avg_copies: 2.0
-- name: card:minor-misstep
   weight: 0.25
   avg_copies: 2.0
 - name: Twinflame Tyrant
   weight: 0.25
   avg_copies: 2.0
-- name: Brazen Borrower
+- name: Teferi, Temporal Pilgrim
   weight: 0.25
-  avg_copies: 1.0
-- name: Damping Sphere
+  avg_copies: 2.0
+- name: Spell Pierce
+  weight: 0.25
+  avg_copies: 2.0
+- name: Arena of Glory
+  weight: 0.25
+  avg_copies: 2.0
+- name: card:volatile-stormdrake
+  weight: 0.25
+  avg_copies: 2.0
+- name: card:minor-misstep
+  weight: 0.25
+  avg_copies: 2.0
+- name: Stern Scolding
   weight: 0.25
   avg_copies: 1.0
 - name: Annul
   weight: 0.25
   avg_copies: 1.0
-- name: Stern Scolding
+- name: Damping Sphere
+  weight: 0.25
+  avg_copies: 1.0
+- name: Brazen Borrower
   weight: 0.25
   avg_copies: 1.0
 ---

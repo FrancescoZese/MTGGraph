@@ -6,16 +6,16 @@ name: Boseiju, Who Endures
 scryfall_id: 2135ac5a-187b-4dc9-8f82-34e8d1603416
 set: neo
 type: Legendary Land
-meta_presence: 0.1823
+meta_presence: 0.1831
 archetypes:
   ruby-storm:
-    weight: 0.0215
-    avg_copies: 1.71
+    weight: 0.0213
+    avg_copies: 1.75
   jeskai-energy:
     weight: 0.0075
     avg_copies: 2.0
   eldrazi-tron:
-    weight: 0.049
+    weight: 0.0489
     avg_copies: 1.0
   amulet-titan:
     weight: 1.0
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.3836
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.9167
+    weight: 0.9184
     avg_copies: 1.0
   kethis-combo:
     weight: 1.0
@@ -39,7 +39,7 @@ archetypes:
     weight: 0.1613
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.9355
+    weight: 0.9362
     avg_copies: 1.17
   4c-omnath:
     weight: 0.25
@@ -51,7 +51,7 @@ archetypes:
     weight: 0.4667
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.9931
+    weight: 0.9932
     avg_copies: 1.63
   dredge:
     weight: 0.9259
@@ -72,7 +72,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.2449
+    weight: 0.24
     avg_copies: 1.33
   scapeshift-combo:
     weight: 1.0
@@ -93,7 +93,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-6:
-    weight: 0.3077
+    weight: 0.3571
     avg_copies: 1.0
   unknown-8:
     weight: 0.5
@@ -108,7 +108,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-61:
-    weight: 0.7294
+    weight: 0.7356
     avg_copies: 1.05
   unknown-59:
     weight: 1.0
@@ -145,7 +145,7 @@ archetypes:
     avg_copies: 1.0
   unknown-126:
     weight: 1.0
-    avg_copies: 1.3
+    avg_copies: 1.28
   unknown-130:
     weight: 1.0
     avg_copies: 1.0

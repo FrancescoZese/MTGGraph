@@ -22,17 +22,20 @@ archetypes:
     weight: 0.017
     avg_copies: 1.17
   azorius-control:
-    weight: 0.0104
+    weight: 0.0102
     avg_copies: 1.0
   affinity:
     weight: 0.2326
     avg_copies: 1.11
   domain-zoo:
-    weight: 0.0355
+    weight: 0.0352
     avg_copies: 1.17
   reanimator:
     weight: 0.0741
     avg_copies: 2.0
+  neoform-combo:
+    weight: 0.0102
+    avg_copies: 1.0
   mono-blue-tron:
     weight: 0.04
     avg_copies: 4.0
@@ -55,16 +58,16 @@ archetypes:
     weight: 0.6562
     avg_copies: 1.19
   goryo1:
-    weight: 0.0702
+    weight: 0.069
     avg_copies: 1.38
   goryo7:
     weight: 0.6667
     avg_copies: 1.0
   goryo2:
-    weight: 0.1379
+    weight: 0.1176
     avg_copies: 1.0
   unknown-6:
-    weight: 0.4615
+    weight: 0.5
     avg_copies: 1.0
   unknown-7:
     weight: 1.0

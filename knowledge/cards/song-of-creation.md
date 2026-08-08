@@ -9,9 +9,9 @@ name: Song of Creation
 scryfall_id: b7320233-1c83-4f61-8c08-cc8361867256
 set: iko
 type: Enchantment
-meta_presence: 0.002
+meta_presence: 0.0021
 archetypes:
   unknown-6:
     weight: 1.0
-    avg_copies: 3.71
+    avg_copies: 3.73
 ---

@@ -10,10 +10,10 @@ type: Legendary Creature — Demon
 meta_presence: 0.069
 archetypes:
   goryo:
-    weight: 0.9744
+    weight: 0.9745
     avg_copies: 1.32
   neoform-combo:
-    weight: 0.9896
+    weight: 0.9898
     avg_copies: 1.01
   unknown-19:
     weight: 1.0

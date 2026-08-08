@@ -10,13 +10,13 @@ type: Creature — Human Bard
 meta_presence: 0.1114
 archetypes:
   ruby-storm:
-    weight: 0.0129
+    weight: 0.0128
     avg_copies: 1.67
   boros-energy:
-    weight: 0.8879
-    avg_copies: 2.42
+    weight: 0.8884
+    avg_copies: 2.43
   neoform-combo:
-    weight: 0.0104
+    weight: 0.0102
     avg_copies: 4.0
   hammer-time:
     weight: 0.1429

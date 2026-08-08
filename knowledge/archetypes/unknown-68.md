@@ -178,30 +178,33 @@ top_cards:
 - name: Solitude
   weight: 0.075
   avg_copies: 1.75
-- name: Rest in Peace
+- name: Containment Priest
   weight: 0.05
   avg_copies: 1.0
 - name: Strategic Betrayal
   weight: 0.05
   avg_copies: 1.0
-- name: Containment Priest
-  weight: 0.05
-  avg_copies: 1.0
 - name: Sanctifier en-Vec
   weight: 0.05
   avg_copies: 1.0
-- name: Reckless Pyrosurfer
-  weight: 0.025
-  avg_copies: 2.0
-- name: Path to Exile
-  weight: 0.025
-  avg_copies: 2.0
+- name: Rest in Peace
+  weight: 0.05
+  avg_copies: 1.0
 - name: Duress
   weight: 0.025
   avg_copies: 2.0
 - name: Lingering Souls
   weight: 0.025
   avg_copies: 2.0
+- name: Path to Exile
+  weight: 0.025
+  avg_copies: 2.0
+- name: Reckless Pyrosurfer
+  weight: 0.025
+  avg_copies: 2.0
+- name: Stony Silence
+  weight: 0.025
+  avg_copies: 1.0
 - name: Clarion Conqueror
   weight: 0.025
   avg_copies: 1.0
@@ -212,9 +215,6 @@ top_cards:
   weight: 0.025
   avg_copies: 1.0
 - name: Static Prison
-  weight: 0.025
-  avg_copies: 1.0
-- name: Stony Silence
   weight: 0.025
   avg_copies: 1.0
 ---

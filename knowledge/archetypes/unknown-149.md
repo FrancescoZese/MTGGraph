@@ -7,19 +7,19 @@ name: 'Unknown #149'
 meta_share: 0.0017
 list_count: 11
 top_cards:
-- name: Guide of Souls
-  weight: 1.0
-  avg_copies: 4.0
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Ocelot Pride
+  weight: 1.0
+  avg_copies: 4.0
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 4.0
-- name: Ocelot Pride
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
@@ -31,10 +31,10 @@ top_cards:
 - name: Goblin Bombardment
   weight: 1.0
   avg_copies: 2.91
-- name: Witch Enchanter
+- name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 2.73
-- name: Ragavan, Nimble Pilferer
+- name: Witch Enchanter
   weight: 1.0
   avg_copies: 2.73
 - name: Consign to Memory
@@ -61,10 +61,10 @@ top_cards:
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Mountain
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
 - name: Island
@@ -106,10 +106,10 @@ top_cards:
 - name: Spell Pierce
   weight: 0.4545
   avg_copies: 1.2
-- name: Meltdown
+- name: Vandalblast
   weight: 0.4545
   avg_copies: 1.0
-- name: Vandalblast
+- name: Meltdown
   weight: 0.4545
   avg_copies: 1.0
 - name: Obsidian Charmaw
@@ -124,37 +124,37 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.2727
   avg_copies: 2.0
-- name: Surgical Extraction
+- name: Wear
   weight: 0.2727
   avg_copies: 1.67
-- name: Wear
+- name: Surgical Extraction
   weight: 0.2727
   avg_copies: 1.67
 - name: Rest in Peace
   weight: 0.2727
   avg_copies: 1.33
-- name: Scalding Tarn
+- name: Deafening Silence
   weight: 0.1818
   avg_copies: 1.5
-- name: Deafening Silence
+- name: Scalding Tarn
   weight: 0.1818
   avg_copies: 1.5
 - name: Arena of Glory
   weight: 0.1818
   avg_copies: 1.0
-- name: Voice of Victory
-  weight: 0.0909
-  avg_copies: 2.0
 - name: Marsh Flats
   weight: 0.0909
   avg_copies: 2.0
 - name: Clarion Conqueror
   weight: 0.0909
   avg_copies: 2.0
-- name: Containment Priest
+- name: Voice of Victory
+  weight: 0.0909
+  avg_copies: 2.0
+- name: March of Otherworldly Light
   weight: 0.0909
   avg_copies: 1.0
-- name: March of Otherworldly Light
+- name: Containment Priest
   weight: 0.0909
   avg_copies: 1.0
 - name: Detect Intrusion

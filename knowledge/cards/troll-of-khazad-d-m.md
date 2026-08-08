@@ -19,13 +19,13 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   orzhov-blink:
-    weight: 0.0625
+    weight: 0.0588
     avg_copies: 2.0
   rakdos-aggro:
     weight: 0.0526
     avg_copies: 1.0
   goryo1:
-    weight: 0.0292
+    weight: 0.0287
     avg_copies: 1.0
   unknown-1:
     weight: 0.1818

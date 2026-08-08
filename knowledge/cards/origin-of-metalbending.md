@@ -10,7 +10,7 @@ type: Instant — Lesson
 meta_presence: 0.0093
 archetypes:
   domain-zoo:
-    weight: 0.0071
+    weight: 0.007
     avg_copies: 1.0
   eldrazi-ramp:
     weight: 0.0323

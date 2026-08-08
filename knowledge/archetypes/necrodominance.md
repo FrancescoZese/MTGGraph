@@ -84,10 +84,10 @@ top_cards:
 - name: Illness in the Ranks
   weight: 0.25
   avg_copies: 1.18
-- name: Wrench Mind
+- name: Sorin of House Markov
   weight: 0.2273
   avg_copies: 2.0
-- name: Sorin of House Markov
+- name: Wrench Mind
   weight: 0.2273
   avg_copies: 2.0
 - name: Engineered Explosives
@@ -126,10 +126,10 @@ top_cards:
 - name: Sign in Blood
   weight: 0.0909
   avg_copies: 2.25
-- name: Raucous Theater
+- name: Underground Mortuary
   weight: 0.0909
   avg_copies: 1.0
-- name: Underground Mortuary
+- name: Raucous Theater
   weight: 0.0909
   avg_copies: 1.0
 - name: card:baron-helmut-zemo
@@ -165,13 +165,13 @@ top_cards:
 - name: Watery Grave
   weight: 0.0455
   avg_copies: 3.5
+- name: Long Goodbye
+  weight: 0.0455
+  avg_copies: 2.0
 - name: Agadeem's Awakening
   weight: 0.0455
   avg_copies: 2.0
 - name: card:trespasser-s-curse
-  weight: 0.0455
-  avg_copies: 2.0
-- name: Long Goodbye
   weight: 0.0455
   avg_copies: 2.0
 - name: The Filigree Sylex
@@ -195,16 +195,16 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.0227
   avg_copies: 3.0
+- name: Phyrexian Crusader
+  weight: 0.0227
+  avg_copies: 2.0
 - name: Witherbloom Command
   weight: 0.0227
   avg_copies: 2.0
 - name: Mai, Scornful Striker
   weight: 0.0227
   avg_copies: 2.0
-- name: Hurkyl's Recall
-  weight: 0.0227
-  avg_copies: 2.0
-- name: Pillage the Bog
+- name: Overgrown Tomb
   weight: 0.0227
   avg_copies: 2.0
 - name: Culling Ritual
@@ -216,28 +216,25 @@ top_cards:
 - name: End of the Hunt
   weight: 0.0227
   avg_copies: 2.0
-- name: Overgrown Tomb
+- name: Hurkyl's Recall
   weight: 0.0227
   avg_copies: 2.0
-- name: Phyrexian Crusader
+- name: Pillage the Bog
   weight: 0.0227
   avg_copies: 2.0
-- name: card:hagra-mauling
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Ratchet Bomb
-  weight: 0.0227
-  avg_copies: 1.0
 - name: card:invoke-despair
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Nurturing Peatland
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Pithing Needle
   weight: 0.0227
   avg_copies: 1.0
 - name: Cling to Dust
   weight: 0.0227
   avg_copies: 1.0
-- name: Stone of Erech
-  weight: 0.0227
-  avg_copies: 1.0
-- name: Blood Crypt
+- name: Ratchet Bomb
   weight: 0.0227
   avg_copies: 1.0
 - name: Kaito, Bane of Nightmares
@@ -246,19 +243,22 @@ top_cards:
 - name: Path of Peril
   weight: 0.0227
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Grafdigger's Cage
   weight: 0.0227
   avg_copies: 1.0
-- name: Pick Your Poison
+- name: Stone of Erech
   weight: 0.0227
   avg_copies: 1.0
 - name: Revitalizing Repast
   weight: 0.0227
   avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Blood Crypt
   weight: 0.0227
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: card:hagra-mauling
+  weight: 0.0227
+  avg_copies: 1.0
+- name: Pick Your Poison
   weight: 0.0227
   avg_copies: 1.0
 ---

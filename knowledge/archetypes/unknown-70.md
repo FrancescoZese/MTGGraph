@@ -148,40 +148,40 @@ top_cards:
 - name: White Orchid Phantom
   weight: 0.0526
   avg_copies: 3.0
-- name: Starfield Shepherd
+- name: Practiced Offense
   weight: 0.0526
   avg_copies: 2.0
 - name: Reprieve
   weight: 0.0526
   avg_copies: 2.0
-- name: Practiced Offense
+- name: Starfield Shepherd
   weight: 0.0526
   avg_copies: 2.0
-- name: The Legend of Roku
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Spell Pierce
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Lightning Bolt
+- name: Vandalblast
   weight: 0.0526
   avg_copies: 1.0
 - name: Boromir, Warden of the Tower
   weight: 0.0526
   avg_copies: 1.0
-- name: Vandalblast
+- name: Marsh Flats
   weight: 0.0526
   avg_copies: 1.0
-- name: Magus of the Moon
+- name: Lightning Bolt
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Spell Pierce
   weight: 0.0526
   avg_copies: 1.0
 - name: Windswept Heath
   weight: 0.0526
   avg_copies: 1.0
-- name: Marsh Flats
+- name: Soul-Guide Lantern
   weight: 0.0526
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: The Legend of Roku
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Magus of the Moon
   weight: 0.0526
   avg_copies: 1.0
 ---

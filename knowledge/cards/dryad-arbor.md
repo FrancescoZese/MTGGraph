@@ -7,7 +7,7 @@ name: Dryad Arbor
 scryfall_id: e3ddbebf-72cd-4d1b-ba0d-d94934654ab7
 set: dsc
 type: Land Creature — Forest Dryad
-meta_presence: 0.0679
+meta_presence: 0.0684
 archetypes:
   amulet-titan:
     weight: 0.6228
@@ -40,7 +40,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-61:
-    weight: 0.9882
+    weight: 0.9885
     avg_copies: 1.0
   unknown-76:
     weight: 0.5

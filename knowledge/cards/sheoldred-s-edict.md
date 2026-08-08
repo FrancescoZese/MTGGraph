@@ -37,7 +37,7 @@ archetypes:
     weight: 0.0083
     avg_copies: 2.0
   orzhov-blink:
-    weight: 0.1875
+    weight: 0.1765
     avg_copies: 2.0
   jund-saga:
     weight: 0.25
@@ -73,8 +73,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.6894
-    avg_copies: 1.23
+    weight: 0.6917
+    avg_copies: 1.22
   unknown-56:
     weight: 1.0
     avg_copies: 2.0

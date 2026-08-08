@@ -10,10 +10,10 @@ type: Instant
 meta_presence: 0.0066
 archetypes:
   neoform-combo:
-    weight: 0.3125
+    weight: 0.3061
     avg_copies: 1.9
   simic-ritual:
-    weight: 0.0323
+    weight: 0.0319
     avg_copies: 2.0
   izzet-prowess:
     weight: 0.0059
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.0741
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.0816
+    weight: 0.08
     avg_copies: 2.0
   unknown-40:
     weight: 1.0

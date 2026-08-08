@@ -7,11 +7,11 @@ name: Recruiter of the Guard
 scryfall_id: 8e4c6ba1-1abc-478f-9b7c-97e9e3c92fb0
 set: mh3
 type: Creature — Human Soldier
-meta_presence: 0.0034
+meta_presence: 0.0035
 archetypes:
   orzhov-blink:
-    weight: 0.25
-    avg_copies: 2.5
+    weight: 0.2941
+    avg_copies: 2.6
   azorius-blink:
     weight: 0.2121
     avg_copies: 1.14

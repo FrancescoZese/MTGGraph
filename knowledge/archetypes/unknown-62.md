@@ -3,13 +3,13 @@ colors:
 - W
 - U
 name: 'Unknown #62'
-meta_share: 0.0051
+meta_share: 0.005
 list_count: 33
 top_cards:
-- name: Witch Enchanter
+- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.85
-- name: Phelia, Exuberant Shepherd
+- name: Witch Enchanter
   weight: 1.0
   avg_copies: 3.85
 - name: Guide of Souls
@@ -102,10 +102,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.2424
   avg_copies: 1.62
-- name: Aang, Swift Savior
+- name: High Noon
   weight: 0.2424
   avg_copies: 1.5
-- name: High Noon
+- name: Aang, Swift Savior
   weight: 0.2424
   avg_copies: 1.5
 - name: Clarion Conqueror
@@ -162,13 +162,13 @@ top_cards:
 - name: Wear
   weight: 0.0909
   avg_copies: 1.0
-- name: card:political-triumph
-  weight: 0.0606
-  avg_copies: 2.0
 - name: Lavinia, Azorius Renegade
   weight: 0.0606
   avg_copies: 2.0
 - name: Mana Tithe
+  weight: 0.0606
+  avg_copies: 2.0
+- name: card:political-triumph
   weight: 0.0606
   avg_copies: 2.0
 - name: Orim's Chant
@@ -186,58 +186,58 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 0.0303
   avg_copies: 3.0
+- name: card:geist-of-saint-traft
+  weight: 0.0303
+  avg_copies: 2.0
 - name: Goblin Bombardment
-  weight: 0.0303
-  avg_copies: 2.0
-- name: Flagstones of Trokair
-  weight: 0.0303
-  avg_copies: 2.0
-- name: Floodfarm Verge
   weight: 0.0303
   avg_copies: 2.0
 - name: Obsidian Charmaw
   weight: 0.0303
   avg_copies: 2.0
+- name: Floodfarm Verge
+  weight: 0.0303
+  avg_copies: 2.0
+- name: Flagstones of Trokair
+  weight: 0.0303
+  avg_copies: 2.0
 - name: Galvanic Discharge
   weight: 0.0303
   avg_copies: 2.0
-- name: card:geist-of-saint-traft
-  weight: 0.0303
-  avg_copies: 2.0
-- name: Gemstone Caverns
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Elegant Parlor
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Meltdown
-  weight: 0.0303
-  avg_copies: 1.0
 - name: card:exalted-sunborn
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Razorgrass Ambush
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Flitterwing Nuisance
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Aven Interrupter
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Hydroelectric Specimen
   weight: 0.0303
   avg_copies: 1.0
 - name: Celestial Purge
   weight: 0.0303
   avg_copies: 1.0
-- name: Marsh Flats
-  weight: 0.0303
-  avg_copies: 1.0
 - name: Ajani, Nacatl Pariah
   weight: 0.0303
   avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.0303
+  avg_copies: 1.0
+- name: Aven Interrupter
+  weight: 0.0303
+  avg_copies: 1.0
+- name: Flitterwing Nuisance
+  weight: 0.0303
+  avg_copies: 1.0
+- name: Razorgrass Ambush
+  weight: 0.0303
+  avg_copies: 1.0
+- name: Elegant Parlor
+  weight: 0.0303
+  avg_copies: 1.0
+- name: Marsh Flats
+  weight: 0.0303
+  avg_copies: 1.0
+- name: Hydroelectric Specimen
+  weight: 0.0303
+  avg_copies: 1.0
 - name: Otawara, Soaring City
+  weight: 0.0303
+  avg_copies: 1.0
+- name: Meltdown
   weight: 0.0303
   avg_copies: 1.0
 ---
