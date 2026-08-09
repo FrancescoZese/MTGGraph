@@ -7,17 +7,17 @@ name: Silence
 scryfall_id: 1c2b13b1-31f0-4676-88a7-53f3a190e9a2
 set: m14
 type: Instant
-meta_presence: 0.0073
+meta_presence: 0.0074
 archetypes:
   ruby-storm:
-    weight: 0.0766
+    weight: 0.0763
     avg_copies: 3.06
   mono-red-belcher:
     weight: 0.6923
     avg_copies: 2.11
   goryo0:
-    weight: 0.9524
-    avg_copies: 2.14
+    weight: 0.9545
+    avg_copies: 2.17
   unknown-216:
     weight: 0.5
     avg_copies: 1.0

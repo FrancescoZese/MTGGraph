@@ -7,11 +7,11 @@ name: Searing Blood
 scryfall_id: bb43fd07-d281-447d-88bf-c53498c2cf20
 set: bng
 type: Instant
-meta_presence: 0.0041
+meta_presence: 0.0042
 archetypes:
   burn:
-    weight: 0.6842
-    avg_copies: 2.81
+    weight: 0.6923
+    avg_copies: 2.85
   unknown-178:
     weight: 0.2
     avg_copies: 1.0

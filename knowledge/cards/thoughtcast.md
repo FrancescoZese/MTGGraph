@@ -7,17 +7,17 @@ name: Thoughtcast
 scryfall_id: 466a0be8-31b9-4ea0-9a96-b09a76f4ec69
 set: moc
 type: Sorcery
-meta_presence: 0.0181
+meta_presence: 0.0182
 archetypes:
   affinity:
-    weight: 0.2151
+    weight: 0.2139
     avg_copies: 2.04
   unknown-44:
     weight: 1.0
     avg_copies: 3.0
   unknown-49:
-    weight: 0.7143
-    avg_copies: 3.4
+    weight: 0.75
+    avg_copies: 3.33
   unknown-170:
     weight: 1.0
     avg_copies: 3.0

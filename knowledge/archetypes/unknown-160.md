@@ -3,7 +3,7 @@ colors:
 - W
 - R
 name: 'Unknown #160'
-meta_share: 0.0114
+meta_share: 0.0113
 list_count: 75
 top_cards:
 - name: Price of Freedom
@@ -12,10 +12,10 @@ top_cards:
 - name: Erode
   weight: 1.0
   avg_copies: 3.91
-- name: Wrath of the Skies
+- name: Field of Ruin
   weight: 1.0
   avg_copies: 3.89
-- name: Field of Ruin
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 3.89
 - name: Solitude
@@ -93,13 +93,13 @@ top_cards:
 - name: Valakut Awakening
   weight: 0.28
   avg_copies: 1.43
-- name: Ensnaring Bridge
+- name: Tormod's Crypt
   weight: 0.28
   avg_copies: 1.0
 - name: Liquimetal Coating
   weight: 0.28
   avg_copies: 1.0
-- name: Tormod's Crypt
+- name: Ensnaring Bridge
   weight: 0.28
   avg_copies: 1.0
 - name: Pithing Needle
@@ -117,10 +117,10 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.16
   avg_copies: 1.0
-- name: Kataki, War's Wage
+- name: The Stone Brain
   weight: 0.1467
   avg_copies: 1.0
-- name: The Stone Brain
+- name: Kataki, War's Wage
   weight: 0.1467
   avg_copies: 1.0
 - name: Lithomantic Barrage
@@ -150,10 +150,10 @@ top_cards:
 - name: Rustvale Bridge
   weight: 0.08
   avg_copies: 2.0
-- name: Portable Hole
+- name: Elixir of Immortality
   weight: 0.08
   avg_copies: 1.0
-- name: Elixir of Immortality
+- name: Portable Hole
   weight: 0.08
   avg_copies: 1.0
 - name: Leyline of Sanctity
@@ -186,13 +186,13 @@ top_cards:
 - name: Stormbreath Dragon
   weight: 0.0267
   avg_copies: 1.0
+- name: White Orchid Phantom
+  weight: 0.0133
+  avg_copies: 4.0
 - name: Teferi, Time Raveler
   weight: 0.0133
   avg_copies: 4.0
 - name: Get Lost
-  weight: 0.0133
-  avg_copies: 4.0
-- name: White Orchid Phantom
   weight: 0.0133
   avg_copies: 4.0
 - name: Clarion Conqueror
@@ -201,7 +201,7 @@ top_cards:
 - name: Madcap Experiment
   weight: 0.0133
   avg_copies: 3.0
-- name: Untimely Malfunction
+- name: Damping Sphere
   weight: 0.0133
   avg_copies: 2.0
 - name: Kor Firewalker
@@ -210,55 +210,55 @@ top_cards:
 - name: Elegant Parlor
   weight: 0.0133
   avg_copies: 2.0
-- name: card:platinum-emperion
-  weight: 0.0133
-  avg_copies: 2.0
-- name: Damping Sphere
-  weight: 0.0133
-  avg_copies: 2.0
 - name: Meltdown
   weight: 0.0133
   avg_copies: 2.0
-- name: Brotherhood's End
+- name: card:platinum-emperion
   weight: 0.0133
-  avg_copies: 1.0
-- name: Ark of Hunger
+  avg_copies: 2.0
+- name: Untimely Malfunction
   weight: 0.0133
-  avg_copies: 1.0
-- name: Crucible of Worlds
-  weight: 0.0133
-  avg_copies: 1.0
-- name: Rugged Prairie
-  weight: 0.0133
-  avg_copies: 1.0
-- name: Island
-  weight: 0.0133
-  avg_copies: 1.0
-- name: card:fry
-  weight: 0.0133
-  avg_copies: 1.0
-- name: Grafdigger's Cage
-  weight: 0.0133
-  avg_copies: 1.0
-- name: Cityscape Leveler
-  weight: 0.0133
-  avg_copies: 1.0
-- name: card:chandra-hope-s-beacon
-  weight: 0.0133
-  avg_copies: 1.0
-- name: Blast Zone
-  weight: 0.0133
-  avg_copies: 1.0
-- name: Fracturing Gust
-  weight: 0.0133
-  avg_copies: 1.0
-- name: Disruptor Flute
+  avg_copies: 2.0
+- name: Hallowed Moonlight
   weight: 0.0133
   avg_copies: 1.0
 - name: Fire Magic
   weight: 0.0133
   avg_copies: 1.0
-- name: Hallowed Moonlight
+- name: card:fry
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Cityscape Leveler
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Brotherhood's End
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Grafdigger's Cage
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Island
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Ark of Hunger
+  weight: 0.0133
+  avg_copies: 1.0
+- name: card:chandra-hope-s-beacon
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Crucible of Worlds
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Blast Zone
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Disruptor Flute
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Fracturing Gust
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Rugged Prairie
   weight: 0.0133
   avg_copies: 1.0
 - name: card:the-mind-stone

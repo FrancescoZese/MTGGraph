@@ -15,10 +15,10 @@ top_cards:
 - name: Mox Opal
   weight: 1.0
   avg_copies: 3.86
-- name: Metallic Rebuke
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 3.79
-- name: Urza's Saga
+- name: Metallic Rebuke
   weight: 1.0
   avg_copies: 3.79
 - name: Mox Amber
@@ -39,13 +39,13 @@ top_cards:
 - name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.14
-- name: Minamo, School at Water's Edge
-  weight: 1.0
-  avg_copies: 1.0
 - name: Skateboard
   weight: 1.0
   avg_copies: 1.0
 - name: Aether Spellbomb
+  weight: 1.0
+  avg_copies: 1.0
+- name: Minamo, School at Water's Edge
   weight: 1.0
   avg_copies: 1.0
 - name: Sewer-veillance Cam
@@ -99,10 +99,10 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.5
   avg_copies: 1.71
-- name: Pithing Needle
+- name: Disruptor Flute
   weight: 0.5
   avg_copies: 1.0
-- name: Disruptor Flute
+- name: Pithing Needle
   weight: 0.5
   avg_copies: 1.0
 - name: Nature's Claim
@@ -111,10 +111,10 @@ top_cards:
 - name: Sink into Stupor
   weight: 0.4286
   avg_copies: 1.17
-- name: Waterlogged Grove
+- name: Relic of Progenitus
   weight: 0.4286
   avg_copies: 1.0
-- name: Relic of Progenitus
+- name: Waterlogged Grove
   weight: 0.4286
   avg_copies: 1.0
 - name: Dusk Rose Reliquary
@@ -168,67 +168,67 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.1429
   avg_copies: 1.5
-- name: Tezzeret, Cruel Captain
-  weight: 0.1429
-  avg_copies: 1.0
-- name: card:urza-lord-high-artificer
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Krang, Master Mind
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Unable to Scream
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Plains
-  weight: 0.1429
-  avg_copies: 1.0
-- name: card:scrabbling-claws
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Gran-Gran
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Grafdigger's Cage
   weight: 0.1429
   avg_copies: 1.0
 - name: card:bruce-banner
   weight: 0.1429
   avg_copies: 1.0
+- name: card:urza-lord-high-artificer
+  weight: 0.1429
+  avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.1429
   avg_copies: 1.0
-- name: Sacred Ground
-  weight: 0.0714
-  avg_copies: 3.0
+- name: Unable to Scream
+  weight: 0.1429
+  avg_copies: 1.0
+- name: card:scrabbling-claws
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Grafdigger's Cage
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Gran-Gran
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Tezzeret, Cruel Captain
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Plains
+  weight: 0.1429
+  avg_copies: 1.0
 - name: Test of Talents
   weight: 0.0714
   avg_copies: 3.0
+- name: Sacred Ground
+  weight: 0.0714
+  avg_copies: 3.0
+- name: Orim's Chant
+  weight: 0.0714
+  avg_copies: 2.0
+- name: Glimmervoid
+  weight: 0.0714
+  avg_copies: 2.0
 - name: Dismember
   weight: 0.0714
   avg_copies: 2.0
 - name: Erode
   weight: 0.0714
   avg_copies: 2.0
-- name: Glimmervoid
-  weight: 0.0714
-  avg_copies: 2.0
-- name: Orim's Chant
-  weight: 0.0714
-  avg_copies: 2.0
-- name: Invasive Surgery
+- name: Ashiok, Dream Render
   weight: 0.0714
   avg_copies: 1.0
-- name: Thief of Existence
+- name: Invasive Surgery
   weight: 0.0714
   avg_copies: 1.0
 - name: Does Machines
   weight: 0.0714
   avg_copies: 1.0
-- name: Spell Snare
+- name: Thief of Existence
   weight: 0.0714
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Spell Snare
   weight: 0.0714
   avg_copies: 1.0
 ---

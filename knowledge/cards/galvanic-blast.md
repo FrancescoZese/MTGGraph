@@ -10,10 +10,10 @@ type: Instant
 meta_presence: 0.0799
 archetypes:
   affinity:
-    weight: 0.9748
-    avg_copies: 2.25
+    weight: 0.975
+    avg_copies: 2.26
   unknown-6:
-    weight: 0.0714
+    weight: 0.0667
     avg_copies: 1.0
   unknown-15:
     weight: 0.1538
@@ -22,8 +22,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-49:
-    weight: 0.8571
-    avg_copies: 3.5
+    weight: 0.875
+    avg_copies: 3.57
   unknown-59:
     weight: 1.0
     avg_copies: 2.0

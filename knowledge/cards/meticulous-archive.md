@@ -6,7 +6,7 @@ name: Meticulous Archive
 scryfall_id: 652236c2-84ef-45e4-b5fc-ed6170bc3d6c
 set: mkm
 type: Land — Plains Island
-meta_presence: 0.1686
+meta_presence: 0.1688
 archetypes:
   dimir-control:
     weight: 0.1358
@@ -15,19 +15,19 @@ archetypes:
     weight: 0.9925
     avg_copies: 1.0
   goryo:
-    weight: 0.9915
+    weight: 0.9916
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
     avg_copies: 2.0
   living-end:
-    weight: 0.1781
+    weight: 0.1757
     avg_copies: 1.0
   jeskai-control:
     weight: 1.0
-    avg_copies: 1.56
+    avg_copies: 1.57
   mill:
-    weight: 0.0294
+    weight: 0.0286
     avg_copies: 1.0
   reanimator:
     weight: 0.037
@@ -61,7 +61,7 @@ archetypes:
     avg_copies: 1.0
   goryo2:
     weight: 1.0
-    avg_copies: 1.06
+    avg_copies: 1.05
   goryo3:
     weight: 1.0
     avg_copies: 2.0
@@ -233,4 +233,7 @@ archetypes:
   unknown-236:
     weight: 1.0
     avg_copies: 2.0
+  unknown-240:
+    weight: 1.0
+    avg_copies: 1.0
 ---

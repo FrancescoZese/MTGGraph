@@ -10,10 +10,10 @@ top_cards:
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Galvanic Discharge
+- name: Flame of Anor
   weight: 1.0
   avg_copies: 4.0
-- name: Flame of Anor
+- name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
 - name: Counterspell
@@ -22,10 +22,10 @@ top_cards:
 - name: Snapcaster Mage
   weight: 1.0
   avg_copies: 3.75
-- name: Consign to Memory
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 3.25
-- name: Scalding Tarn
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.25
 - name: Mystical Dispute
@@ -37,31 +37,31 @@ top_cards:
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.14
-- name: Tune the Narrative
-  weight: 1.0
-  avg_copies: 2.0
 - name: Steam Vents
   weight: 1.0
   avg_copies: 2.0
-- name: Mystic Gate
+- name: Tune the Narrative
   weight: 1.0
-  avg_copies: 1.5
+  avg_copies: 2.0
 - name: Plains
   weight: 1.0
   avg_copies: 1.5
-- name: Thundering Falls
+- name: Mystic Gate
+  weight: 1.0
+  avg_copies: 1.5
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.25
-- name: Hallowed Fountain
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.25
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Mountain
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
@@ -70,10 +70,10 @@ top_cards:
 - name: Consult the Star Charts
   weight: 0.75
   avg_copies: 2.33
-- name: Spell Snare
+- name: Orim's Chant
   weight: 0.75
   avg_copies: 2.0
-- name: Orim's Chant
+- name: Spell Snare
   weight: 0.75
   avg_copies: 2.0
 - name: Arid Mesa
@@ -97,19 +97,19 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 0.5
   avg_copies: 1.75
-- name: Isochron Scepter
-  weight: 0.5
-  avg_copies: 1.0
 - name: Teferi, Hero of Dominaria
   weight: 0.5
   avg_copies: 1.0
-- name: Wan Shi Tong, Librarian
+- name: Isochron Scepter
+  weight: 0.5
+  avg_copies: 1.0
+- name: Beza, the Bounding Spring
   weight: 0.5
   avg_copies: 1.0
 - name: Supreme Verdict
   weight: 0.5
   avg_copies: 1.0
-- name: Beza, the Bounding Spring
+- name: Wan Shi Tong, Librarian
   weight: 0.5
   avg_copies: 1.0
 - name: Preordain
@@ -124,34 +124,34 @@ top_cards:
 - name: Force of Negation
   weight: 0.25
   avg_copies: 2.0
-- name: Thundertrap Trainer
-  weight: 0.25
-  avg_copies: 2.0
 - name: Quantum Riddler
-  weight: 0.25
-  avg_copies: 2.0
-- name: Phlage, Titan of Fire's Fury
   weight: 0.25
   avg_copies: 2.0
 - name: Prismatic Ending
   weight: 0.25
   avg_copies: 2.0
-- name: Mistrise Village
+- name: Phlage, Titan of Fire's Fury
   weight: 0.25
-  avg_copies: 1.0
-- name: Sink into Stupor
+  avg_copies: 2.0
+- name: Thundertrap Trainer
+  weight: 0.25
+  avg_copies: 2.0
+- name: Soul-Guide Lantern
   weight: 0.25
   avg_copies: 1.0
 - name: Narset, Parter of Veils
   weight: 0.25
   avg_copies: 1.0
+- name: Riverpyre Verge
+  weight: 0.25
+  avg_copies: 1.0
 - name: Arena of Glory
   weight: 0.25
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Sink into Stupor
   weight: 0.25
   avg_copies: 1.0
-- name: Riverpyre Verge
+- name: Mistrise Village
   weight: 0.25
   avg_copies: 1.0
 ---

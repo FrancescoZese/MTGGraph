@@ -7,7 +7,7 @@ name: Mystical Dispute
 scryfall_id: fbe04cb8-a8b9-4241-baae-b398a2509a3a
 set: eld
 type: Instant
-meta_presence: 0.4025
+meta_presence: 0.4021
 archetypes:
   dimir-control:
     weight: 1.0
@@ -19,7 +19,7 @@ archetypes:
     weight: 0.985
     avg_copies: 2.41
   goryo:
-    weight: 0.9887
+    weight: 0.9888
     avg_copies: 2.7
   necrodominance:
     weight: 0.0227
@@ -28,20 +28,20 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   living-end:
-    weight: 0.9863
+    weight: 0.9865
     avg_copies: 3.29
   jeskai-control:
     weight: 1.0
     avg_copies: 2.88
   affinity:
-    weight: 0.7248
+    weight: 0.7245
     avg_copies: 1.45
   domain-zoo:
-    weight: 0.9648
+    weight: 0.965
     avg_copies: 2.61
   mill:
-    weight: 0.2059
-    avg_copies: 2.29
+    weight: 0.2286
+    avg_copies: 2.38
   reanimator:
     weight: 0.7407
     avg_copies: 2.1
@@ -55,16 +55,16 @@ archetypes:
     weight: 0.4286
     avg_copies: 1.83
   simic-ritual:
-    weight: 0.9787
+    weight: 0.9792
     avg_copies: 2.99
   izzet-prowess:
-    weight: 0.2433
-    avg_copies: 1.44
+    weight: 0.2441
+    avg_copies: 1.43
   4c-omnath:
     weight: 1.0
     avg_copies: 2.25
   esper-blink:
-    weight: 0.8099
+    weight: 0.7967
     avg_copies: 1.98
   indomitable-creativity:
     weight: 0.4
@@ -104,7 +104,7 @@ archetypes:
     avg_copies: 2.0
   goryo2:
     weight: 1.0
-    avg_copies: 2.26
+    avg_copies: 2.24
   goryo3:
     weight: 1.0
     avg_copies: 3.0
@@ -127,7 +127,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.0
   unknown-6:
-    weight: 0.5
+    weight: 0.4667
     avg_copies: 1.86
   unknown-9:
     weight: 0.6667
@@ -160,7 +160,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-42:
-    weight: 0.1818
+    weight: 0.1667
     avg_copies: 2.0
   unknown-47:
     weight: 1.0
@@ -168,6 +168,9 @@ archetypes:
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
+  unknown-49:
+    weight: 0.125
+    avg_copies: 1.0
   unknown-53:
     weight: 1.0
     avg_copies: 2.0
@@ -399,4 +402,7 @@ archetypes:
   unknown-236:
     weight: 1.0
     avg_copies: 3.0
+  unknown-240:
+    weight: 1.0
+    avg_copies: 2.0
 ---

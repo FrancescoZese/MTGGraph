@@ -3,52 +3,52 @@ colors:
 - U
 - R
 name: 'Unknown #35'
-meta_share: 0.0006
-list_count: 4
+meta_share: 0.0008
+list_count: 5
 top_cards:
-- name: Thundertrap Trainer
-  weight: 1.0
-  avg_copies: 4.0
-- name: Lórien Revealed
-  weight: 1.0
-  avg_copies: 4.0
-- name: Subtlety
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
-- name: Scalding Tarn
-  weight: 1.0
-  avg_copies: 4.0
-- name: Unholy Heat
+- name: Subtlety
   weight: 1.0
   avg_copies: 4.0
 - name: Flame of Anor
   weight: 1.0
   avg_copies: 4.0
+- name: Lórien Revealed
+  weight: 1.0
+  avg_copies: 4.0
+- name: Unholy Heat
+  weight: 1.0
+  avg_copies: 4.0
+- name: Thundertrap Trainer
+  weight: 1.0
+  avg_copies: 4.0
 - name: Island
   weight: 1.0
-  avg_copies: 3.25
-- name: Fable of the Mirror-Breaker
-  weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 3.2
 - name: Steam Vents
   weight: 1.0
   avg_copies: 3.0
-- name: Lightning Bolt
+- name: Fable of the Mirror-Breaker
   weight: 1.0
-  avg_copies: 2.6
+  avg_copies: 3.0
 - name: Flooded Strand
   weight: 1.0
-  avg_copies: 2.25
-- name: Flare of Denial
+  avg_copies: 2.6
+- name: Lightning Bolt
+  weight: 1.0
+  avg_copies: 2.43
+- name: Dress Down
   weight: 1.0
   avg_copies: 2.0
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 2.0
-- name: Dress Down
+- name: Flare of Denial
   weight: 1.0
   avg_copies: 2.0
 - name: Snapcaster Mage
@@ -62,75 +62,81 @@ top_cards:
   avg_copies: 1.5
 - name: Flusterstorm
   weight: 1.0
-  avg_copies: 1.25
-- name: Mountain
-  weight: 1.0
-  avg_copies: 1.0
+  avg_copies: 1.4
 - name: Engineered Explosives
   weight: 1.0
   avg_copies: 1.0
-- name: Consign to Memory
-  weight: 0.75
-  avg_copies: 3.0
+- name: Mountain
+  weight: 1.0
+  avg_copies: 1.0
 - name: Flow State
-  weight: 0.75
-  avg_copies: 2.67
+  weight: 0.8
+  avg_copies: 2.5
+- name: Consign to Memory
+  weight: 0.6
+  avg_copies: 3.0
 - name: Force of Negation
-  weight: 0.75
+  weight: 0.6
   avg_copies: 1.67
 - name: Polluted Delta
-  weight: 0.75
+  weight: 0.6
   avg_copies: 1.33
 - name: Riverpyre Verge
-  weight: 0.75
+  weight: 0.6
   avg_copies: 1.0
 - name: Ghost Vacuum
-  weight: 0.5
+  weight: 0.4
   avg_copies: 3.0
-- name: Bonecrusher Giant
-  weight: 0.5
-  avg_copies: 1.5
-- name: Mistrise Village
-  weight: 0.5
-  avg_copies: 1.0
-- name: Den of the Bugbear
-  weight: 0.5
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.25
-  avg_copies: 4.0
-- name: Marang River Regent
-  weight: 0.25
-  avg_copies: 2.0
-- name: Twinflame Tyrant
-  weight: 0.25
-  avg_copies: 2.0
-- name: Teferi, Temporal Pilgrim
-  weight: 0.25
-  avg_copies: 2.0
-- name: Spell Pierce
-  weight: 0.25
+- name: card:volatile-stormdrake
+  weight: 0.4
+  avg_copies: 2.5
+- name: card:minor-misstep
+  weight: 0.4
   avg_copies: 2.0
 - name: Arena of Glory
-  weight: 0.25
+  weight: 0.4
   avg_copies: 2.0
-- name: card:volatile-stormdrake
-  weight: 0.25
+- name: Bonecrusher Giant
+  weight: 0.4
+  avg_copies: 1.5
+- name: Den of the Bugbear
+  weight: 0.4
+  avg_copies: 1.0
+- name: Mistrise Village
+  weight: 0.4
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 0.2
+  avg_copies: 4.0
+- name: card:tectonic-giant
+  weight: 0.2
+  avg_copies: 3.0
+- name: Marang River Regent
+  weight: 0.2
   avg_copies: 2.0
-- name: card:minor-misstep
-  weight: 0.25
+- name: Teferi, Temporal Pilgrim
+  weight: 0.2
   avg_copies: 2.0
-- name: Stern Scolding
-  weight: 0.25
+- name: Twinflame Tyrant
+  weight: 0.2
+  avg_copies: 2.0
+- name: Spell Pierce
+  weight: 0.2
+  avg_copies: 2.0
+- name: Damping Sphere
+  weight: 0.2
+  avg_copies: 1.0
+- name: Chalice of the Void
+  weight: 0.2
   avg_copies: 1.0
 - name: Annul
-  weight: 0.25
+  weight: 0.2
   avg_copies: 1.0
-- name: Damping Sphere
-  weight: 0.25
+- name: Stern Scolding
+  weight: 0.2
   avg_copies: 1.0
 - name: Brazen Borrower
-  weight: 0.25
+  weight: 0.2
   avg_copies: 1.0
 ---
 Unclassified archetype, pending review.

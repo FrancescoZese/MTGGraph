@@ -10,6 +10,6 @@ type: Legendary Planeswalker — Teferi
 meta_presence: 0.0002
 archetypes:
   unknown-35:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 2.0
 ---

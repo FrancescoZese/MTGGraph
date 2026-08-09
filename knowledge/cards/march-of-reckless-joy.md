@@ -7,16 +7,16 @@ name: March of Reckless Joy
 scryfall_id: 780e1bf1-e392-40f2-9e84-764dedc5fcd4
 set: neo
 type: Instant
-meta_presence: 0.0046
+meta_presence: 0.0045
 archetypes:
   ruby-storm:
-    weight: 0.0809
+    weight: 0.0805
     avg_copies: 1.53
   mono-red-belcher:
     weight: 0.2308
     avg_copies: 2.33
   goryo0:
-    weight: 0.3333
+    weight: 0.3182
     avg_copies: 1.91
   unknown-32:
     weight: 1.0

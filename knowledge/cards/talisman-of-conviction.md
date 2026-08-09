@@ -6,7 +6,7 @@ name: Talisman of Conviction
 scryfall_id: efeafc9d-a953-4915-8342-725836d0f645
 set: tdc
 type: Artifact
-meta_presence: 0.0038
+meta_presence: 0.0039
 archetypes:
   mono-red-belcher:
     weight: 0.3846
@@ -15,6 +15,6 @@ archetypes:
     weight: 0.0071
     avg_copies: 2.0
   goryo0:
-    weight: 0.9048
-    avg_copies: 3.84
+    weight: 0.9091
+    avg_copies: 3.85
 ---

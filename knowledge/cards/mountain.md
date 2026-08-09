@@ -6,13 +6,13 @@ name: Mountain
 scryfall_id: a642c7b1-d4d1-4125-a66d-560438e5ee51
 set: sos
 type: Basic Land — Mountain
-meta_presence: 0.3573
+meta_presence: 0.3569
 archetypes:
   ruby-storm:
-    weight: 0.9872
-    avg_copies: 2.94
+    weight: 0.9873
+    avg_copies: 2.93
   boros-energy:
-    weight: 0.8712
+    weight: 0.8717
     avg_copies: 1.01
   mono-blue-belcher:
     weight: 0.2022
@@ -21,20 +21,20 @@ archetypes:
     weight: 0.797
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.1404
+    weight: 0.1379
     avg_copies: 1.0
   affinity:
-    weight: 0.0174
+    weight: 0.0173
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.9648
+    weight: 0.965
     avg_copies: 1.0
   reanimator:
     weight: 0.1111
     avg_copies: 2.0
   burn:
-    weight: 0.9737
-    avg_copies: 2.38
+    weight: 0.9744
+    avg_copies: 2.39
   mardu-blink:
     weight: 0.3333
     avg_copies: 1.0
@@ -49,7 +49,7 @@ archetypes:
     avg_copies: 1.24
   izzet-prowess:
     weight: 0.9941
-    avg_copies: 2.37
+    avg_copies: 2.36
   indomitable-creativity:
     weight: 1.0
     avg_copies: 1.07
@@ -78,7 +78,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.02
+    weight: 0.0192
     avg_copies: 1.0
   scapeshift-combo:
     weight: 0.5
@@ -88,7 +88,7 @@ archetypes:
     avg_copies: 1.0
   goryo0:
     weight: 1.0
-    avg_copies: 1.05
+    avg_copies: 1.09
   selesnya-midrange:
     weight: 1.0
     avg_copies: 1.0
@@ -96,8 +96,8 @@ archetypes:
     weight: 0.0057
     avg_copies: 1.0
   goryo4:
-    weight: 0.9167
-    avg_copies: 1.05
+    weight: 0.9231
+    avg_copies: 1.04
   grixis-control:
     weight: 0.1429
     avg_copies: 1.0
@@ -117,7 +117,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-6:
-    weight: 0.2857
+    weight: 0.3333
     avg_copies: 1.0
   unknown-1:
     weight: 1.0
@@ -219,8 +219,8 @@ archetypes:
     weight: 1.0
     avg_copies: 10.0
   unknown-96:
-    weight: 0.9756
-    avg_copies: 2.75
+    weight: 0.9762
+    avg_copies: 2.73
   unknown-98:
     weight: 1.0
     avg_copies: 3.38

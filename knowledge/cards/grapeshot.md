@@ -7,13 +7,13 @@ name: Grapeshot
 scryfall_id: 923e1291-3999-4f81-ade4-073fb982143f
 set: dmr
 type: Sorcery
-meta_presence: 0.038
+meta_presence: 0.0378
 archetypes:
   ruby-storm:
     weight: 0.9915
     avg_copies: 1.02
   unknown-6:
-    weight: 0.6429
+    weight: 0.6
     avg_copies: 1.0
   unknown-11:
     weight: 1.0

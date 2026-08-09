@@ -10,7 +10,7 @@ type: Creature — Serpent
 meta_presence: 0.0079
 archetypes:
   living-end:
-    weight: 0.1233
+    weight: 0.1216
     avg_copies: 2.0
   goryo1:
     weight: 0.0115

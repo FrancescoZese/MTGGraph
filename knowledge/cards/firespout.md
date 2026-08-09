@@ -8,7 +8,7 @@ name: Firespout
 scryfall_id: a7abbd14-936e-4b46-8d5b-9071990bdcf6
 set: clu
 type: Sorcery
-meta_presence: 0.013
+meta_presence: 0.0129
 archetypes:
   amulet-titan:
     weight: 0.2096
@@ -17,9 +17,9 @@ archetypes:
     weight: 0.0204
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0106
+    weight: 0.0104
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.161
+    weight: 0.1593
     avg_copies: 1.55
 ---

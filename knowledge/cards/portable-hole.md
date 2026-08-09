@@ -22,7 +22,7 @@ archetypes:
     weight: 0.0851
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.0455
+    weight: 0.0448
     avg_copies: 1.0
   goryo7:
     weight: 1.0

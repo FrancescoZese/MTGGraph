@@ -9,7 +9,7 @@ type: Kindred Sorcery — Eldrazi
 meta_presence: 0.0351
 archetypes:
   eldrazi-tron:
-    weight: 0.6352
+    weight: 0.6311
     avg_copies: 1.11
   mono-blue-tron:
     weight: 0.08
@@ -18,10 +18,10 @@ archetypes:
     weight: 0.0161
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0205
-    avg_copies: 1.17
+    weight: 0.0237
+    avg_copies: 1.14
   goryo4:
-    weight: 0.9167
+    weight: 0.8846
     avg_copies: 1.12
   unknown-55:
     weight: 1.0

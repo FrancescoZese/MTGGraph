@@ -7,7 +7,7 @@ name: Ephemerate
 scryfall_id: 2da5f3f8-5eef-498f-ba2c-2f3fbc3745aa
 set: mh1
 type: Instant
-meta_presence: 0.1283
+meta_presence: 0.1286
 archetypes:
   boros-energy:
     weight: 0.004
@@ -16,10 +16,10 @@ archetypes:
     weight: 0.9474
     avg_copies: 1.8
   goryo:
-    weight: 0.9943
+    weight: 0.9944
     avg_copies: 3.87
   jeskai-control:
-    weight: 0.0175
+    weight: 0.0172
     avg_copies: 2.0
   reanimator:
     weight: 0.037
@@ -34,7 +34,7 @@ archetypes:
     weight: 0.25
     avg_copies: 3.0
   esper-blink:
-    weight: 0.9917
+    weight: 0.9919
     avg_copies: 2.92
   orzhov-blink:
     weight: 0.9412
@@ -46,8 +46,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.5
   goryo2:
-    weight: 0.9118
-    avg_copies: 2.81
+    weight: 0.9189
+    avg_copies: 2.79
   unknown-3:
     weight: 1.0
     avg_copies: 3.0

@@ -13,10 +13,10 @@ archetypes:
     weight: 0.1122
     avg_copies: 2.27
   living-end:
-    weight: 0.0137
+    weight: 0.0135
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.0351
+    weight: 0.0345
     avg_copies: 2.0
   neoform-combo:
     weight: 0.0102

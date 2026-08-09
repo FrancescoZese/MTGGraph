@@ -10,7 +10,7 @@ type: Creature — Spirit
 meta_presence: 0.0107
 archetypes:
   living-end:
-    weight: 0.589
+    weight: 0.5946
     avg_copies: 1.05
   reanimator:
     weight: 0.037

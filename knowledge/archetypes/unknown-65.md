@@ -10,10 +10,10 @@ top_cards:
 - name: Shardless Agent
   weight: 1.0
   avg_copies: 4.0
-- name: Violent Outburst
+- name: Crashing Footfalls
   weight: 1.0
   avg_copies: 4.0
-- name: Crashing Footfalls
+- name: Violent Outburst
   weight: 1.0
   avg_copies: 4.0
 - name: Misty Rainforest
@@ -121,10 +121,10 @@ top_cards:
 - name: Lórien Revealed
   weight: 0.1379
   avg_copies: 2.25
-- name: Repudiate
+- name: Ketria Triome
   weight: 0.1379
   avg_copies: 1.0
-- name: Ketria Triome
+- name: Repudiate
   weight: 0.1379
   avg_copies: 1.0
 - name: Tishana's Tidebinder
@@ -136,10 +136,10 @@ top_cards:
 - name: Hallowed Fountain
   weight: 0.1034
   avg_copies: 1.0
-- name: Flooded Grove
+- name: High Noon
   weight: 0.069
   avg_copies: 2.0
-- name: High Noon
+- name: Flooded Grove
   weight: 0.069
   avg_copies: 2.0
 - name: Harbinger of the Seas
@@ -151,22 +151,22 @@ top_cards:
 - name: Flame of Anor
   weight: 0.0345
   avg_copies: 4.0
-- name: Snow-Covered Island
-  weight: 0.0345
-  avg_copies: 2.0
-- name: Kataki, War's Wage
-  weight: 0.0345
-  avg_copies: 2.0
 - name: Mutavault
   weight: 0.0345
   avg_copies: 2.0
-- name: card:avengers-disassembled
+- name: Commandeer
   weight: 0.0345
   avg_copies: 2.0
 - name: Teferi, Time Raveler
   weight: 0.0345
   avg_copies: 2.0
-- name: Commandeer
+- name: card:avengers-disassembled
+  weight: 0.0345
+  avg_copies: 2.0
+- name: Kataki, War's Wage
+  weight: 0.0345
+  avg_copies: 2.0
+- name: Snow-Covered Island
   weight: 0.0345
   avg_copies: 2.0
 - name: Mine Collapse

@@ -10,7 +10,7 @@ type: Creature — Sphinx
 meta_presence: 0.1681
 archetypes:
   boros-energy:
-    weight: 0.0027
+    weight: 0.0026
     avg_copies: 2.5
   dimir-control:
     weight: 0.4815
@@ -19,16 +19,16 @@ archetypes:
     weight: 0.9925
     avg_copies: 3.82
   goryo:
-    weight: 0.7309
-    avg_copies: 3.16
+    weight: 0.7331
+    avg_copies: 3.14
   necrodominance:
     weight: 0.0227
     avg_copies: 3.0
   jeskai-control:
-    weight: 0.0351
+    weight: 0.0345
     avg_copies: 1.5
   domain-zoo:
-    weight: 0.2817
+    weight: 0.2797
     avg_copies: 3.71
   reanimator:
     weight: 0.5556
@@ -37,16 +37,16 @@ archetypes:
     weight: 0.0102
     avg_copies: 2.0
   simic-ritual:
-    weight: 0.0319
+    weight: 0.0312
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.003
+    weight: 0.0029
     avg_copies: 1.0
   4c-omnath:
     weight: 1.0
     avg_copies: 3.5
   esper-blink:
-    weight: 0.9835
+    weight: 0.9837
     avg_copies: 3.62
   bant-control:
     weight: 1.0
@@ -68,7 +68,7 @@ archetypes:
     avg_copies: 1.65
   goryo2:
     weight: 1.0
-    avg_copies: 3.41
+    avg_copies: 3.46
   goryo3:
     weight: 1.0
     avg_copies: 3.0
@@ -85,7 +85,7 @@ archetypes:
     weight: 0.8889
     avg_copies: 3.75
   unknown-6:
-    weight: 0.1429
+    weight: 0.1333
     avg_copies: 2.0
   unknown-7:
     weight: 1.0

@@ -17,7 +17,7 @@ archetypes:
     weight: 0.0081
     avg_copies: 2.0
   samwise-combo:
-    weight: 0.1667
+    weight: 0.1642
     avg_copies: 1.5
   indomitable-creativity:
     weight: 0.1333

@@ -15,16 +15,16 @@ archetypes:
     weight: 0.0065
     avg_copies: 1.5
   goryo:
-    weight: 0.0113
+    weight: 0.0112
     avg_copies: 1.0
   mill:
-    weight: 0.2647
+    weight: 0.2571
     avg_copies: 1.22
   mardu-blink:
     weight: 0.1667
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0165
+    weight: 0.0163
     avg_copies: 1.0
   goryo1:
     weight: 0.0747

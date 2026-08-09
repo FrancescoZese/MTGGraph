@@ -16,7 +16,7 @@ archetypes:
     weight: 0.0075
     avg_copies: 2.0
   mill:
-    weight: 0.0294
+    weight: 0.0286
     avg_copies: 4.0
   reanimator:
     weight: 0.037
@@ -28,8 +28,8 @@ archetypes:
     weight: 0.7376
     avg_copies: 3.83
   esper-blink:
-    weight: 0.4215
-    avg_copies: 2.06
+    weight: 0.4228
+    avg_copies: 2.07
   orzhov-blink:
     weight: 0.5882
     avg_copies: 2.59
@@ -40,8 +40,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo2:
-    weight: 0.4706
-    avg_copies: 2.38
+    weight: 0.4595
+    avg_copies: 2.41
   unknown-3:
     weight: 0.5
     avg_copies: 3.0

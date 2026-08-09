@@ -12,10 +12,10 @@ archetypes:
     weight: 0.0306
     avg_copies: 1.0
   living-end:
-    weight: 0.6301
+    weight: 0.6351
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.1754
+    weight: 0.1724
     avg_copies: 1.0
   neoform-combo:
     weight: 0.0102
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.12
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0213
+    weight: 0.0208
     avg_copies: 1.0
   bant-control:
     weight: 1.0
@@ -39,7 +39,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-35:
-    weight: 0.5
+    weight: 0.4
     avg_copies: 1.0
   unknown-65:
     weight: 0.7241

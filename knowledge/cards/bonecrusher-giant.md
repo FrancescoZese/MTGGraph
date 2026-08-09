@@ -10,7 +10,7 @@ type: Creature — Giant // Instant — Adventure
 meta_presence: 0.0005
 archetypes:
   unknown-35:
-    weight: 0.5
+    weight: 0.4
     avg_copies: 1.5
   unknown-67:
     weight: 0.0118

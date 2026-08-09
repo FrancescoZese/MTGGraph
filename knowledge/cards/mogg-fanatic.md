@@ -10,7 +10,7 @@ type: Creature — Goblin
 meta_presence: 0.0006
 archetypes:
   burn:
-    weight: 0.0789
+    weight: 0.0769
     avg_copies: 4.0
   unknown-86:
     weight: 0.0833

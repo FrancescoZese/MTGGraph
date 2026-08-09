@@ -13,13 +13,13 @@ archetypes:
     weight: 0.0227
     avg_copies: 2.0
   living-end:
-    weight: 0.5205
+    weight: 0.5135
     avg_copies: 1.0
   reanimator:
     weight: 0.037
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.0303
+    weight: 0.0299
     avg_copies: 1.0
   rakdos-aggro:
     weight: 0.0526

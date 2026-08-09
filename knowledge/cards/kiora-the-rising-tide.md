@@ -10,6 +10,6 @@ type: Legendary Creature — Merfolk Noble
 meta_presence: 0.0003
 archetypes:
   goryo:
-    weight: 0.0057
+    weight: 0.0056
     avg_copies: 1.0
 ---

@@ -6,7 +6,7 @@ name: 'Unknown #122'
 meta_share: 0.0041
 list_count: 27
 top_cards:
-- name: Dragon's Rage Channeler
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Preordain
@@ -15,10 +15,10 @@ top_cards:
 - name: Lava Dart
   weight: 1.0
   avg_copies: 4.0
-- name: Lightning Bolt
+- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
-- name: Cori-Steel Cutter
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Stormchaser's Talent
@@ -39,10 +39,10 @@ top_cards:
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
-- name: Monastery Swiftspear
+- name: Scalding Tarn
   weight: 0.963
   avg_copies: 3.92
-- name: Scalding Tarn
+- name: Monastery Swiftspear
   weight: 0.963
   avg_copies: 3.92
 - name: Unholy Heat
@@ -132,13 +132,13 @@ top_cards:
 - name: Iroh's Demonstration
   weight: 0.1111
   avg_copies: 1.0
-- name: Octopus Form
-  weight: 0.1111
-  avg_copies: 1.0
 - name: Price of Freedom
   weight: 0.1111
   avg_copies: 1.0
 - name: Soul-Guide Lantern
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Octopus Form
   weight: 0.1111
   avg_copies: 1.0
 - name: Thoughtseize
@@ -150,10 +150,10 @@ top_cards:
 - name: Monstrous Rage
   weight: 0.0741
   avg_copies: 1.67
-- name: End of the Hunt
+- name: Blood Crypt
   weight: 0.0741
   avg_copies: 1.0
-- name: Blood Crypt
+- name: End of the Hunt
   weight: 0.0741
   avg_copies: 1.0
 - name: Questing Druid
@@ -162,25 +162,25 @@ top_cards:
 - name: Fire-Brained Scheme
   weight: 0.037
   avg_copies: 3.0
-- name: Vexing Bauble
-  weight: 0.037
-  avg_copies: 2.0
 - name: Misty Rainforest
   weight: 0.037
   avg_copies: 2.0
 - name: Wear
   weight: 0.037
   avg_copies: 2.0
-- name: Sacred Foundry
+- name: Vexing Bauble
   weight: 0.037
-  avg_copies: 1.0
-- name: Hurkyl's Recall
+  avg_copies: 2.0
+- name: Fire Magic
   weight: 0.037
   avg_copies: 1.0
 - name: Redirect Lightning
   weight: 0.037
   avg_copies: 1.0
-- name: Fire Magic
+- name: Sacred Foundry
+  weight: 0.037
+  avg_copies: 1.0
+- name: Hurkyl's Recall
   weight: 0.037
   avg_copies: 1.0
 - name: Accumulate Wisdom

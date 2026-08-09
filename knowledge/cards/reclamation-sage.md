@@ -7,13 +7,13 @@ name: Reclamation Sage
 scryfall_id: 1918ea65-ab7f-4d40-97fd-a656c892a2a1
 set: fdn
 type: Creature — Elf Shaman
-meta_presence: 0.0012
+meta_presence: 0.0014
 archetypes:
   simic-ritual:
-    weight: 0.0106
+    weight: 0.0104
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.0303
+    weight: 0.0448
     avg_copies: 1.0
   soultrader-combo:
     weight: 0.4286
@@ -22,6 +22,6 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-126:
-    weight: 0.0185
+    weight: 0.0169
     avg_copies: 1.0
 ---

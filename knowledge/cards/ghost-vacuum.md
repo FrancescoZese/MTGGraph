@@ -9,7 +9,7 @@ type: Artifact
 meta_presence: 0.0195
 archetypes:
   boros-energy:
-    weight: 0.0226
+    weight: 0.0225
     avg_copies: 1.0
   dimir-control:
     weight: 0.358
@@ -18,22 +18,22 @@ archetypes:
     weight: 0.0226
     avg_copies: 1.33
   eldrazi-tron:
-    weight: 0.0033
+    weight: 0.0032
     avg_copies: 1.0
   amulet-titan:
     weight: 0.018
     avg_copies: 1.0
   goryo:
-    weight: 0.0198
+    weight: 0.0197
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.0175
+    weight: 0.0172
     avg_copies: 1.0
   boros-ponza:
     weight: 0.0284
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0248
+    weight: 0.0244
     avg_copies: 1.0
   broodscale-combo:
     weight: 0.0068
@@ -63,19 +63,19 @@ archetypes:
     weight: 0.1667
     avg_copies: 2.0
   unknown-35:
-    weight: 0.5
+    weight: 0.4
     avg_copies: 3.0
   unknown-47:
     weight: 0.1128
     avg_copies: 1.2
   unknown-61:
-    weight: 0.1034
-    avg_copies: 2.0
+    weight: 0.1124
+    avg_copies: 1.9
   unknown-68:
     weight: 0.1
     avg_copies: 1.0
   unknown-96:
-    weight: 0.0488
+    weight: 0.0476
     avg_copies: 3.0
   unknown-111:
     weight: 0.4

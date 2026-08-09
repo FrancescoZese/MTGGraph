@@ -21,7 +21,7 @@ archetypes:
     weight: 0.1429
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0103
+    weight: 0.0102
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.2812
@@ -29,6 +29,9 @@ archetypes:
   jund-saga:
     weight: 1.0
     avg_copies: 1.0
+  cosmogoyf-fling:
+    weight: 0.0192
+    avg_copies: 2.0
   the-rock:
     weight: 0.5
     avg_copies: 1.0

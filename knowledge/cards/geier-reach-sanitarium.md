@@ -9,16 +9,16 @@ type: Legendary Land
 meta_presence: 0.0169
 archetypes:
   eldrazi-tron:
-    weight: 0.0033
+    weight: 0.0032
     avg_copies: 1.0
   goryo:
-    weight: 0.0057
+    weight: 0.0056
     avg_copies: 1.0
   azorius-control:
     weight: 0.5
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.7719
+    weight: 0.7759
     avg_copies: 1.0
   unknown-16:
     weight: 0.1667

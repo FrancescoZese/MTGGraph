@@ -18,22 +18,22 @@ archetypes:
     weight: 0.9641
     avg_copies: 1.0
   goryo:
-    weight: 0.0057
+    weight: 0.0056
     avg_copies: 1.0
   azorius-control:
     weight: 0.7143
     avg_copies: 1.0
   living-end:
-    weight: 0.7808
+    weight: 0.7703
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.386
+    weight: 0.3966
     avg_copies: 1.0
   affinity:
-    weight: 0.0698
+    weight: 0.0694
     avg_copies: 1.0
   mill:
-    weight: 0.8824
+    weight: 0.8857
     avg_copies: 1.0
   neoform-combo:
     weight: 0.0306
@@ -45,10 +45,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.5851
+    weight: 0.5833
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.003
+    weight: 0.0029
     avg_copies: 1.0
   4c-omnath:
     weight: 0.25
@@ -72,7 +72,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo2:
-    weight: 0.1176
+    weight: 0.1351
     avg_copies: 1.0
   grixis-control:
     weight: 0.2857
@@ -81,7 +81,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-6:
-    weight: 0.7143
+    weight: 0.7333
     avg_copies: 1.0
   unknown-10:
     weight: 0.5
@@ -106,7 +106,7 @@ archetypes:
     avg_copies: 1.0
   unknown-42:
     weight: 1.0
-    avg_copies: 1.18
+    avg_copies: 1.17
   unknown-43:
     weight: 1.0
     avg_copies: 2.0
