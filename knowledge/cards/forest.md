@@ -6,7 +6,7 @@ name: Forest
 scryfall_id: f169dfb2-e4c8-46e9-8591-e51bb82da082
 set: sos
 type: Basic Land — Forest
-meta_presence: 0.2053
+meta_presence: 0.2066
 archetypes:
   eldrazi-tron:
     weight: 0.1133
@@ -27,8 +27,8 @@ archetypes:
     weight: 0.007
     avg_copies: 2.0
   neoform-combo:
-    weight: 0.3571
-    avg_copies: 1.49
+    weight: 0.37
+    avg_copies: 1.51
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 1.79
@@ -109,7 +109,7 @@ archetypes:
     avg_copies: 1.0
   unknown-61:
     weight: 1.0
-    avg_copies: 3.48
+    avg_copies: 3.44
   unknown-59:
     weight: 1.0
     avg_copies: 1.0
@@ -150,8 +150,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-126:
-    weight: 0.7458
-    avg_copies: 2.48
+    weight: 0.7538
+    avg_copies: 2.43
   unknown-130:
     weight: 1.0
     avg_copies: 6.0
@@ -231,6 +231,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-238:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-241:
     weight: 1.0
     avg_copies: 1.0
 ---

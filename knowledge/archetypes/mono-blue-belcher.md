@@ -2,7 +2,7 @@
 colors:
 - U
 name: Mono Blue Belcher
-meta_share: 0.0135
+meta_share: 0.0134
 list_count: 89
 top_cards:
 - name: Goblin Charbelcher
@@ -152,34 +152,34 @@ top_cards:
 - name: Ceremonious Rejection
   weight: 0.0112
   avg_copies: 2.0
+- name: Erode
+  weight: 0.0112
+  avg_copies: 1.0
 - name: card:diary-of-dreams
   weight: 0.0112
   avg_copies: 1.0
 - name: Witch Enchanter
   weight: 0.0112
   avg_copies: 1.0
-- name: Dress Down
+- name: Shadow of Doubt
   weight: 0.0112
   avg_copies: 1.0
 - name: Isochron Scepter
   weight: 0.0112
   avg_copies: 1.0
-- name: Erode
+- name: Dress Down
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Hope of Ghirapur
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Displacement Wave
   weight: 0.0112
   avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.0112
   avg_copies: 1.0
 - name: Surgical Extraction
-  weight: 0.0112
-  avg_copies: 1.0
-- name: Displacement Wave
-  weight: 0.0112
-  avg_copies: 1.0
-- name: Hope of Ghirapur
-  weight: 0.0112
-  avg_copies: 1.0
-- name: Shadow of Doubt
   weight: 0.0112
   avg_copies: 1.0
 - name: card:threads-of-disloyalty

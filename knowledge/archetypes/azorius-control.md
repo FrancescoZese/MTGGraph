@@ -174,10 +174,10 @@ top_cards:
 - name: Subtlety
   weight: 0.0918
   avg_copies: 1.8
-- name: Undercity Sewers
+- name: Jace, the Mind Sculptor
   weight: 0.0816
   avg_copies: 1.0
-- name: Jace, the Mind Sculptor
+- name: Undercity Sewers
   weight: 0.0816
   avg_copies: 1.0
 - name: Sink into Stupor
@@ -219,16 +219,16 @@ top_cards:
 - name: Fire Magic
   weight: 0.0306
   avg_copies: 1.67
-- name: Waterlogged Teachings
-  weight: 0.0306
-  avg_copies: 1.0
 - name: Mistrise Village
   weight: 0.0306
   avg_copies: 1.0
-- name: Vendilion Clique
+- name: Waterlogged Teachings
   weight: 0.0306
   avg_copies: 1.0
 - name: Snow-Covered Plains
+  weight: 0.0306
+  avg_copies: 1.0
+- name: Vendilion Clique
   weight: 0.0306
   avg_copies: 1.0
 - name: Thundertrap Trainer
@@ -237,13 +237,13 @@ top_cards:
 - name: Pyroclasm
   weight: 0.0204
   avg_copies: 1.5
+- name: Tamiyo, Inquisitive Student
+  weight: 0.0204
+  avg_copies: 1.0
 - name: Dress Down
   weight: 0.0204
   avg_copies: 1.0
 - name: Sacred Foundry
-  weight: 0.0204
-  avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
   weight: 0.0204
   avg_copies: 1.0
 - name: Gemstone Caverns
@@ -252,19 +252,28 @@ top_cards:
 - name: Elegant Parlor
   weight: 0.0204
   avg_copies: 1.0
-- name: Wear
-  weight: 0.0102
-  avg_copies: 2.0
 - name: Obsidian Charmaw
   weight: 0.0102
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Wear
+  weight: 0.0102
+  avg_copies: 2.0
+- name: Hurkyl's Recall
   weight: 0.0102
   avg_copies: 1.0
 - name: card:bribery
   weight: 0.0102
   avg_copies: 1.0
-- name: Logic Knot
+- name: Commandeer
+  weight: 0.0102
+  avg_copies: 1.0
+- name: Strix Serenade
+  weight: 0.0102
+  avg_copies: 1.0
+- name: Damping Sphere
+  weight: 0.0102
+  avg_copies: 1.0
+- name: Petrified Hamlet
   weight: 0.0102
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
@@ -273,25 +282,16 @@ top_cards:
 - name: Restless Anchorage
   weight: 0.0102
   avg_copies: 1.0
-- name: Meltdown
+- name: Get Lost
   weight: 0.0102
   avg_copies: 1.0
-- name: Commandeer
+- name: Logic Knot
   weight: 0.0102
   avg_copies: 1.0
 - name: Flashback
   weight: 0.0102
   avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.0102
-  avg_copies: 1.0
-- name: Strix Serenade
-  weight: 0.0102
-  avg_copies: 1.0
-- name: Get Lost
-  weight: 0.0102
-  avg_copies: 1.0
-- name: Petrified Hamlet
+- name: Meltdown
   weight: 0.0102
   avg_copies: 1.0
 ---

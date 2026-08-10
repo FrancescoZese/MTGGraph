@@ -10,13 +10,10 @@ top_cards:
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodstained Mire
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Dragon's Rage Channeler
@@ -25,13 +22,16 @@ top_cards:
 - name: Hardened Academic
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
-- name: Mountain
+- name: Bloodstained Mire
+  weight: 1.0
+  avg_copies: 4.0
+- name: Jolted Awake
   weight: 1.0
   avg_copies: 3.0
-- name: Jolted Awake
+- name: Mountain
   weight: 1.0
   avg_copies: 3.0
 - name: Lava Dart
@@ -43,22 +43,25 @@ top_cards:
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 3.0
-- name: Wooded Foothills
-  weight: 1.0
-  avg_copies: 3.0
 - name: Detective's Phoenix
   weight: 1.0
   avg_copies: 3.0
-- name: Practiced Offense
+- name: Wooded Foothills
   weight: 1.0
-  avg_copies: 2.0
-- name: Wear
+  avg_copies: 3.0
+- name: Erode
   weight: 1.0
   avg_copies: 2.0
 - name: Arena of Glory
   weight: 1.0
   avg_copies: 2.0
-- name: Blood Moon
+- name: Practiced Offense
+  weight: 1.0
+  avg_copies: 2.0
+- name: Mana Tithe
+  weight: 1.0
+  avg_copies: 2.0
+- name: Surgical Extraction
   weight: 1.0
   avg_copies: 2.0
 - name: Wrath of the Skies
@@ -67,19 +70,16 @@ top_cards:
 - name: Street Wraith
   weight: 1.0
   avg_copies: 2.0
-- name: Mana Tithe
+- name: Wear
   weight: 1.0
   avg_copies: 2.0
-- name: Erode
+- name: Blood Moon
   weight: 1.0
   avg_copies: 2.0
-- name: Surgical Extraction
-  weight: 1.0
-  avg_copies: 2.0
-- name: card:sheltered-by-ghosts
+- name: Solitude
   weight: 1.0
   avg_copies: 1.0
-- name: Solitude
+- name: Fear of Missing Out
   weight: 1.0
   avg_copies: 1.0
 - name: card:grim-lavamancer
@@ -91,7 +91,7 @@ top_cards:
 - name: Ox of Agonas
   weight: 1.0
   avg_copies: 1.0
-- name: Fear of Missing Out
+- name: card:sheltered-by-ghosts
   weight: 1.0
   avg_copies: 1.0
 - name: Brotherhood's End

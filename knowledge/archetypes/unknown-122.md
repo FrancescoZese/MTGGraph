@@ -6,9 +6,6 @@ name: 'Unknown #122'
 meta_share: 0.0041
 list_count: 27
 top_cards:
-- name: Cori-Steel Cutter
-  weight: 1.0
-  avg_copies: 4.0
 - name: Preordain
   weight: 1.0
   avg_copies: 4.0
@@ -16,6 +13,9 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Dragon's Rage Channeler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
@@ -39,10 +39,10 @@ top_cards:
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
-- name: Scalding Tarn
+- name: Monastery Swiftspear
   weight: 0.963
   avg_copies: 3.92
-- name: Monastery Swiftspear
+- name: Scalding Tarn
   weight: 0.963
   avg_copies: 3.92
 - name: Unholy Heat
@@ -90,10 +90,10 @@ top_cards:
 - name: Mutagenic Growth
   weight: 0.3333
   avg_copies: 1.44
-- name: Stomping Ground
+- name: Origin of Metalbending
   weight: 0.3333
   avg_copies: 1.0
-- name: Origin of Metalbending
+- name: Stomping Ground
   weight: 0.3333
   avg_copies: 1.0
 - name: Spell Pierce
@@ -129,13 +129,13 @@ top_cards:
 - name: Assault Strobe
   weight: 0.1111
   avg_copies: 1.33
-- name: Iroh's Demonstration
+- name: Soul-Guide Lantern
   weight: 0.1111
   avg_copies: 1.0
 - name: Price of Freedom
   weight: 0.1111
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Iroh's Demonstration
   weight: 0.1111
   avg_copies: 1.0
 - name: Octopus Form
@@ -162,21 +162,15 @@ top_cards:
 - name: Fire-Brained Scheme
   weight: 0.037
   avg_copies: 3.0
+- name: Vexing Bauble
+  weight: 0.037
+  avg_copies: 2.0
 - name: Misty Rainforest
   weight: 0.037
   avg_copies: 2.0
 - name: Wear
   weight: 0.037
   avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 0.037
-  avg_copies: 2.0
-- name: Fire Magic
-  weight: 0.037
-  avg_copies: 1.0
-- name: Redirect Lightning
-  weight: 0.037
-  avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.037
   avg_copies: 1.0
@@ -184,6 +178,12 @@ top_cards:
   weight: 0.037
   avg_copies: 1.0
 - name: Accumulate Wisdom
+  weight: 0.037
+  avg_copies: 1.0
+- name: Redirect Lightning
+  weight: 0.037
+  avg_copies: 1.0
+- name: Fire Magic
   weight: 0.037
   avg_copies: 1.0
 ---

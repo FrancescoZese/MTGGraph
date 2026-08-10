@@ -2,7 +2,7 @@
 colors:
 - G
 name: Eldrazi Ramp
-meta_share: 0.0188
+meta_share: 0.0187
 list_count: 124
 top_cards:
 - name: Ugin's Labyrinth
@@ -128,10 +128,10 @@ top_cards:
 - name: Magus of the Moon
   weight: 0.2097
   avg_copies: 1.96
-- name: Liquimetal Coating
+- name: Ensnaring Bridge
   weight: 0.2097
   avg_copies: 1.0
-- name: Ensnaring Bridge
+- name: Liquimetal Coating
   weight: 0.2097
   avg_copies: 1.0
 - name: Haywire Mite
@@ -158,10 +158,10 @@ top_cards:
 - name: Talisman of Curiosity
   weight: 0.1129
   avg_copies: 1.86
-- name: Gemstone Caverns
+- name: Engineered Explosives
   weight: 0.1129
   avg_copies: 1.0
-- name: Engineered Explosives
+- name: Gemstone Caverns
   weight: 0.1129
   avg_copies: 1.0
 - name: Nulldrifter
@@ -209,19 +209,19 @@ top_cards:
 - name: Blood Moon
   weight: 0.0323
   avg_copies: 2.0
-- name: Iroh's Demonstration
-  weight: 0.0323
-  avg_copies: 1.0
-- name: Improvisation Capstone
-  weight: 0.0323
-  avg_copies: 1.0
 - name: Arena of Glory
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Ilharg, the Raze-Boar
+  weight: 0.0323
+  avg_copies: 1.0
+- name: Iroh's Demonstration
   weight: 0.0323
   avg_copies: 1.0
 - name: Origin of Metalbending
   weight: 0.0323
   avg_copies: 1.0
-- name: Six
+- name: Improvisation Capstone
   weight: 0.0323
   avg_copies: 1.0
 - name: Palantír of Orthanc
@@ -230,25 +230,25 @@ top_cards:
 - name: Void Mirror
   weight: 0.0323
   avg_copies: 1.0
-- name: Ilharg, the Raze-Boar
+- name: Six
   weight: 0.0323
   avg_copies: 1.0
 - name: Talisman of Resilience
   weight: 0.0242
   avg_copies: 2.0
-- name: Stone Rain
-  weight: 0.0242
-  avg_copies: 1.67
 - name: Blasphemous Act
   weight: 0.0242
   avg_copies: 1.67
+- name: Stone Rain
+  weight: 0.0242
+  avg_copies: 1.67
+- name: Vibrance
+  weight: 0.0242
+  avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.0242
   avg_copies: 1.0
 - name: Redirect Lightning
-  weight: 0.0242
-  avg_copies: 1.0
-- name: Vibrance
   weight: 0.0242
   avg_copies: 1.0
 - name: True Ancestry
@@ -266,7 +266,7 @@ top_cards:
 - name: Overgrown Tomb
   weight: 0.0161
   avg_copies: 1.0
-- name: All Is Dust
+- name: Wastescape Battlemage
   weight: 0.0161
   avg_copies: 1.0
 - name: Underground Mortuary
@@ -275,7 +275,7 @@ top_cards:
 - name: Thief of Existence
   weight: 0.0161
   avg_copies: 1.0
-- name: Wastescape Battlemage
+- name: All Is Dust
   weight: 0.0161
   avg_copies: 1.0
 - name: Firebending Lesson
@@ -293,55 +293,55 @@ top_cards:
 - name: Abrupt Decay
   weight: 0.0081
   avg_copies: 2.0
-- name: Seismic Sense
-  weight: 0.0081
-  avg_copies: 1.0
-- name: Peer Past the Veil
-  weight: 0.0081
-  avg_copies: 1.0
-- name: card:the-ten-rings
-  weight: 0.0081
-  avg_copies: 1.0
-- name: Ugin, the Spirit Dragon
-  weight: 0.0081
-  avg_copies: 1.0
 - name: Walking Ballista
-  weight: 0.0081
-  avg_copies: 1.0
-- name: Culling Ritual
-  weight: 0.0081
-  avg_copies: 1.0
-- name: card:esper-origins
-  weight: 0.0081
-  avg_copies: 1.0
-- name: Darksteel Citadel
-  weight: 0.0081
-  avg_copies: 1.0
-- name: Mutable Explorer
   weight: 0.0081
   avg_copies: 1.0
 - name: card:platinum-emperion
   weight: 0.0081
   avg_copies: 1.0
-- name: Collector Ouphe
+- name: Hedron Archive
+  weight: 0.0081
+  avg_copies: 1.0
+- name: Ugin, the Spirit Dragon
   weight: 0.0081
   avg_copies: 1.0
 - name: The Endstone
   weight: 0.0081
   avg_copies: 1.0
+- name: Darksteel Citadel
+  weight: 0.0081
+  avg_copies: 1.0
+- name: Untimely Malfunction
+  weight: 0.0081
+  avg_copies: 1.0
 - name: Ratchet Bomb
+  weight: 0.0081
+  avg_copies: 1.0
+- name: card:esper-origins
   weight: 0.0081
   avg_copies: 1.0
 - name: Endurance
   weight: 0.0081
   avg_copies: 1.0
-- name: Hedron Archive
-  weight: 0.0081
-  avg_copies: 1.0
 - name: Ketria Triome
   weight: 0.0081
   avg_copies: 1.0
-- name: Untimely Malfunction
+- name: Mutable Explorer
+  weight: 0.0081
+  avg_copies: 1.0
+- name: card:the-ten-rings
+  weight: 0.0081
+  avg_copies: 1.0
+- name: Seismic Sense
+  weight: 0.0081
+  avg_copies: 1.0
+- name: Culling Ritual
+  weight: 0.0081
+  avg_copies: 1.0
+- name: Peer Past the Veil
+  weight: 0.0081
+  avg_copies: 1.0
+- name: Collector Ouphe
   weight: 0.0081
   avg_copies: 1.0
 ---

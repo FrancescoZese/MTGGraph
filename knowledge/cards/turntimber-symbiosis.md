@@ -6,12 +6,12 @@ name: Turntimber Symbiosis // Turntimber, Serpentine Wood
 scryfall_id: 61bd69ea-1e9e-46b0-b1a1-ed7fdbe3deb6
 set: znr
 type: Sorcery // Land
-meta_presence: 0.0056
+meta_presence: 0.0057
 archetypes:
   unknown-61:
-    weight: 0.4045
-    avg_copies: 3.08
+    weight: 0.4066
+    avg_copies: 3.03
   unknown-126:
-    weight: 0.0169
+    weight: 0.0154
     avg_copies: 1.0
 ---

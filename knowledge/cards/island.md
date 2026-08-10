@@ -6,10 +6,10 @@ name: Island
 scryfall_id: 77b88bb8-6bd9-4632-b937-89468fcb5e6a
 set: sos
 type: Basic Land — Island
-meta_presence: 0.3669
+meta_presence: 0.3667
 archetypes:
   ruby-storm:
-    weight: 0.0085
+    weight: 0.0084
     avg_copies: 1.0
   dimir-control:
     weight: 0.9877
@@ -48,7 +48,7 @@ archetypes:
     weight: 0.8519
     avg_copies: 1.04
   neoform-combo:
-    weight: 0.3367
+    weight: 0.35
     avg_copies: 1.03
   mono-blue-tron:
     weight: 1.0
@@ -60,7 +60,7 @@ archetypes:
     weight: 0.0104
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0441
+    weight: 0.0439
     avg_copies: 1.07
   4c-omnath:
     weight: 1.0
@@ -100,7 +100,7 @@ archetypes:
     avg_copies: 1.0
   goryo2:
     weight: 1.0
-    avg_copies: 1.19
+    avg_copies: 1.18
   goryo3:
     weight: 1.0
     avg_copies: 2.0
@@ -355,7 +355,7 @@ archetypes:
     avg_copies: 2.0
   unknown-167:
     weight: 1.0
-    avg_copies: 1.5
+    avg_copies: 1.47
   unknown-169:
     weight: 1.0
     avg_copies: 2.0

@@ -7,10 +7,10 @@ name: 'Unknown #70'
 meta_share: 0.0029
 list_count: 19
 top_cards:
-- name: Guide of Souls
+- name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
-- name: Galvanic Discharge
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
@@ -94,10 +94,10 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 0.3158
   avg_copies: 2.17
-- name: Ephemerate
+- name: Vexing Bauble
   weight: 0.2632
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Ephemerate
   weight: 0.2632
   avg_copies: 2.0
 - name: Rest in Peace
@@ -157,16 +157,16 @@ top_cards:
 - name: Starfield Shepherd
   weight: 0.0526
   avg_copies: 2.0
-- name: The Legend of Roku
+- name: Windswept Heath
   weight: 0.0526
   avg_copies: 1.0
-- name: Windswept Heath
+- name: Boromir, Warden of the Tower
   weight: 0.0526
   avg_copies: 1.0
 - name: Vandalblast
   weight: 0.0526
   avg_copies: 1.0
-- name: Marsh Flats
+- name: Spell Pierce
   weight: 0.0526
   avg_copies: 1.0
 - name: Soul-Guide Lantern
@@ -175,13 +175,13 @@ top_cards:
 - name: Magus of the Moon
   weight: 0.0526
   avg_copies: 1.0
-- name: Spell Pierce
-  weight: 0.0526
-  avg_copies: 1.0
 - name: Lightning Bolt
   weight: 0.0526
   avg_copies: 1.0
-- name: Boromir, Warden of the Tower
+- name: Marsh Flats
+  weight: 0.0526
+  avg_copies: 1.0
+- name: The Legend of Roku
   weight: 0.0526
   avg_copies: 1.0
 ---

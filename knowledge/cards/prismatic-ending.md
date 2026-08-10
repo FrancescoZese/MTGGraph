@@ -10,8 +10,8 @@ type: Sorcery
 meta_presence: 0.1756
 archetypes:
   ruby-storm:
-    weight: 0.9025
-    avg_copies: 3.2
+    weight: 0.903
+    avg_copies: 3.19
   boros-energy:
     weight: 0.0476
     avg_copies: 1.22
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.0032
     avg_copies: 2.0
   goryo:
-    weight: 0.9888
+    weight: 0.9889
     avg_copies: 2.19
   azorius-control:
     weight: 1.0
@@ -58,7 +58,7 @@ archetypes:
     weight: 0.8374
     avg_copies: 1.31
   samwise-combo:
-    weight: 0.0149
+    weight: 0.0147
     avg_copies: 2.0
   indomitable-creativity:
     weight: 0.8
@@ -85,8 +85,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo2:
-    weight: 0.9459
-    avg_copies: 3.69
+    weight: 0.9474
+    avg_copies: 3.7
   goryo3:
     weight: 1.0
     avg_copies: 4.0

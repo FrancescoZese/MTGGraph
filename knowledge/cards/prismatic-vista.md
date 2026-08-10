@@ -12,7 +12,7 @@ archetypes:
     weight: 0.0571
     avg_copies: 1.5
   broodscale-combo:
-    weight: 0.0644
+    weight: 0.0635
     avg_copies: 3.68
   orzhov-blink:
     weight: 0.1765

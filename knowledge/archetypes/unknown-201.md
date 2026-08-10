@@ -7,16 +7,13 @@ name: 'Unknown #201'
 meta_share: 0.0002
 list_count: 1
 top_cards:
-- name: Bloodstained Mire
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 4.0
-- name: Obsidian Charmaw
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
 - name: Galvanic Discharge
+  weight: 1.0
+  avg_copies: 4.0
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
 - name: Ajani, Nacatl Pariah
@@ -25,16 +22,22 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 4.0
-- name: Orcish Bowmasters
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
+- name: Obsidian Charmaw
+  weight: 1.0
+  avg_copies: 4.0
+- name: Goblin Bombardment
+  weight: 1.0
+  avg_copies: 3.0
 - name: Sanctifier en-Vec
   weight: 1.0
   avg_copies: 3.0
-- name: Wear
+- name: Ob Nixilis, the Adversary
   weight: 1.0
   avg_copies: 3.0
-- name: Goblin Bombardment
+- name: Wear
   weight: 1.0
   avg_copies: 3.0
 - name: Deafening Silence
@@ -43,46 +46,43 @@ top_cards:
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 3.0
-- name: Ob Nixilis, the Adversary
-  weight: 1.0
-  avg_copies: 3.0
-- name: Arid Mesa
-  weight: 1.0
-  avg_copies: 2.0
 - name: Arena of Glory
   weight: 1.0
   avg_copies: 2.0
-- name: Plains
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 2.0
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 2.0
-- name: Sacred Foundry
+- name: Plains
   weight: 1.0
-  avg_copies: 1.0
-- name: Mountain
+  avg_copies: 2.0
+- name: Seasoned Pyromancer
   weight: 1.0
   avg_copies: 1.0
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Crypt
-  weight: 1.0
-  avg_copies: 1.0
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowy Backstreet
+- name: Mountain
+  weight: 1.0
+  avg_copies: 1.0
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
 - name: Ocelot Pride
   weight: 1.0
   avg_copies: 1.0
-- name: Guide of Souls
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Seasoned Pyromancer
+- name: Shadowy Backstreet
+  weight: 1.0
+  avg_copies: 1.0
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 1.0
 ---

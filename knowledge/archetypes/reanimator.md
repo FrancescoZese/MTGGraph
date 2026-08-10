@@ -127,25 +127,25 @@ top_cards:
 - name: Bloodghast
   weight: 0.1111
   avg_copies: 4.0
-- name: Obsidian Charmaw
-  weight: 0.1111
-  avg_copies: 3.0
 - name: Rakdos Charm
   weight: 0.1111
   avg_copies: 3.0
-- name: Lightning Bolt
+- name: Obsidian Charmaw
   weight: 0.1111
-  avg_copies: 2.33
+  avg_copies: 3.0
 - name: Village Rites
   weight: 0.1111
   avg_copies: 2.33
+- name: Lightning Bolt
+  weight: 0.1111
+  avg_copies: 2.33
+- name: Mountain
+  weight: 0.1111
+  avg_copies: 2.0
 - name: Corrupted Conviction
   weight: 0.1111
   avg_copies: 2.0
 - name: Extract the Truth
-  weight: 0.1111
-  avg_copies: 2.0
-- name: Mountain
   weight: 0.1111
   avg_copies: 2.0
 - name: Brotherhood's End
@@ -181,49 +181,49 @@ top_cards:
 - name: Thundering Falls
   weight: 0.0741
   avg_copies: 1.0
-- name: Prismatic Ending
-  weight: 0.037
-  avg_copies: 4.0
-- name: Flooded Strand
-  weight: 0.037
-  avg_copies: 4.0
-- name: Marsh Flats
+- name: Solitude
   weight: 0.037
   avg_copies: 4.0
 - name: Verdant Catacombs
   weight: 0.037
   avg_copies: 4.0
-- name: Fallaji Archaeologist
-  weight: 0.037
-  avg_copies: 4.0
-- name: Crypt of Agadeem
-  weight: 0.037
-  avg_copies: 4.0
-- name: Boggart Trawler
-  weight: 0.037
-  avg_copies: 4.0
-- name: Flare of Denial
-  weight: 0.037
-  avg_copies: 4.0
-- name: Malevolent Rumble
-  weight: 0.037
-  avg_copies: 4.0
-- name: Solitude
-  weight: 0.037
-  avg_copies: 4.0
-- name: Overlord of the Balemurk
-  weight: 0.037
-  avg_copies: 4.0
-- name: Ephemerate
-  weight: 0.037
-  avg_copies: 4.0
-- name: Eyetwitch
+- name: Prismatic Ending
   weight: 0.037
   avg_copies: 4.0
 - name: Faithful Mending
   weight: 0.037
   avg_copies: 4.0
+- name: Flooded Strand
+  weight: 0.037
+  avg_copies: 4.0
 - name: Street Wraith
+  weight: 0.037
+  avg_copies: 4.0
+- name: Crypt of Agadeem
+  weight: 0.037
+  avg_copies: 4.0
+- name: Malevolent Rumble
+  weight: 0.037
+  avg_copies: 4.0
+- name: Marsh Flats
+  weight: 0.037
+  avg_copies: 4.0
+- name: Eyetwitch
+  weight: 0.037
+  avg_copies: 4.0
+- name: Flare of Denial
+  weight: 0.037
+  avg_copies: 4.0
+- name: Fallaji Archaeologist
+  weight: 0.037
+  avg_copies: 4.0
+- name: Boggart Trawler
+  weight: 0.037
+  avg_copies: 4.0
+- name: Ephemerate
+  weight: 0.037
+  avg_copies: 4.0
+- name: Overlord of the Balemurk
   weight: 0.037
   avg_copies: 4.0
 - name: Leyline of the Void
@@ -235,58 +235,40 @@ top_cards:
 - name: Kavaero, Mind-Bitten
   weight: 0.037
   avg_copies: 3.0
-- name: Ashiok, Dream Render
-  weight: 0.037
-  avg_copies: 2.0
-- name: Detective's Phoenix
-  weight: 0.037
-  avg_copies: 2.0
-- name: Voldaren Epicure
-  weight: 0.037
-  avg_copies: 2.0
 - name: Grist, the Hunger Tide
-  weight: 0.037
-  avg_copies: 2.0
-- name: Veil of Summer
-  weight: 0.037
-  avg_copies: 2.0
-- name: Requiting Hex
   weight: 0.037
   avg_copies: 2.0
 - name: Graveyard Trespasser
   weight: 0.037
   avg_copies: 2.0
+- name: Detective's Phoenix
+  weight: 0.037
+  avg_copies: 2.0
 - name: Dawnhand Dissident
   weight: 0.037
   avg_copies: 2.0
-- name: Necrotic Fumes
+- name: Requiting Hex
   weight: 0.037
-  avg_copies: 1.0
-- name: White Orchid Phantom
+  avg_copies: 2.0
+- name: Veil of Summer
   weight: 0.037
-  avg_copies: 1.0
-- name: Bitter Triumph
+  avg_copies: 2.0
+- name: Ashiok, Dream Render
   weight: 0.037
-  avg_copies: 1.0
-- name: Agadeem's Awakening
+  avg_copies: 2.0
+- name: Voldaren Epicure
   weight: 0.037
-  avg_copies: 1.0
-- name: Ruinous Waterbending
-  weight: 0.037
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Dai Li Indoctrination
   weight: 0.037
   avg_copies: 1.0
-- name: Decorum Dissertation
+- name: Mai, Scornful Striker
   weight: 0.037
   avg_copies: 1.0
-- name: Godless Shrine
+- name: Vampire Hexmage
   weight: 0.037
   avg_copies: 1.0
 - name: Overgrown Tomb
-  weight: 0.037
-  avg_copies: 1.0
-- name: Meticulous Archive
   weight: 0.037
   avg_copies: 1.0
 - name: Harvester of Misery
@@ -295,13 +277,31 @@ top_cards:
 - name: Agatha's Soul Cauldron
   weight: 0.037
   avg_copies: 1.0
-- name: Wrath of the Skies
+- name: Underground Mortuary
   weight: 0.037
   avg_copies: 1.0
-- name: Unholy Heat
+- name: Meticulous Archive
   weight: 0.037
   avg_copies: 1.0
-- name: Accursed Marauder
+- name: Decorum Dissertation
+  weight: 0.037
+  avg_copies: 1.0
+- name: Godless Shrine
+  weight: 0.037
+  avg_copies: 1.0
+- name: Plague Engineer
+  weight: 0.037
+  avg_copies: 1.0
+- name: Spell Snare
+  weight: 0.037
+  avg_copies: 1.0
+- name: Plains
+  weight: 0.037
+  avg_copies: 1.0
+- name: Troll of Khazad-dûm
+  weight: 0.037
+  avg_copies: 1.0
+- name: Breeding Pool
   weight: 0.037
   avg_copies: 1.0
 - name: Gran-Gran
@@ -310,43 +310,43 @@ top_cards:
 - name: Cephalid Coliseum
   weight: 0.037
   avg_copies: 1.0
-- name: Misty Rainforest
+- name: Agadeem's Awakening
   weight: 0.037
   avg_copies: 1.0
-- name: Vampire Hexmage
-  weight: 0.037
-  avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 0.037
-  avg_copies: 1.0
-- name: Underground Mortuary
-  weight: 0.037
-  avg_copies: 1.0
-- name: Sheoldred's Edict
-  weight: 0.037
-  avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 0.037
-  avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.037
-  avg_copies: 1.0
-- name: Plague Engineer
-  weight: 0.037
-  avg_copies: 1.0
-- name: Troll of Khazad-dûm
-  weight: 0.037
-  avg_copies: 1.0
-- name: Mai, Scornful Striker
+- name: Bitter Triumph
   weight: 0.037
   avg_copies: 1.0
 - name: Shadowy Backstreet
   weight: 0.037
   avg_copies: 1.0
-- name: Spell Snare
+- name: Wrath of the Skies
   weight: 0.037
   avg_copies: 1.0
-- name: Plains
+- name: Hallowed Fountain
+  weight: 0.037
+  avg_copies: 1.0
+- name: Accursed Marauder
+  weight: 0.037
+  avg_copies: 1.0
+- name: Unholy Heat
+  weight: 0.037
+  avg_copies: 1.0
+- name: Sheoldred's Edict
+  weight: 0.037
+  avg_copies: 1.0
+- name: White Orchid Phantom
+  weight: 0.037
+  avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 0.037
+  avg_copies: 1.0
+- name: Misty Rainforest
+  weight: 0.037
+  avg_copies: 1.0
+- name: Ruinous Waterbending
+  weight: 0.037
+  avg_copies: 1.0
+- name: Necrotic Fumes
   weight: 0.037
   avg_copies: 1.0
 ---

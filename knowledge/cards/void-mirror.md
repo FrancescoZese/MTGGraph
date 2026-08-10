@@ -9,7 +9,7 @@ type: Artifact
 meta_presence: 0.0039
 archetypes:
   affinity:
-    weight: 0.0039
+    weight: 0.0038
     avg_copies: 1.0
   burn:
     weight: 0.0256
@@ -18,7 +18,7 @@ archetypes:
     weight: 0.0323
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.0149
+    weight: 0.0147
     avg_copies: 1.0
   rakdos-lantern-combo:
     weight: 0.5

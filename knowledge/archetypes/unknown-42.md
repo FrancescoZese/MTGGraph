@@ -11,10 +11,10 @@ top_cards:
 - name: Tide Shaper
   weight: 1.0
   avg_copies: 3.92
-- name: Lord of Atlantis
+- name: Master of the Pearl Trident
   weight: 1.0
   avg_copies: 3.75
-- name: Master of the Pearl Trident
+- name: Lord of Atlantis
   weight: 1.0
   avg_copies: 3.75
 - name: Aether Vial

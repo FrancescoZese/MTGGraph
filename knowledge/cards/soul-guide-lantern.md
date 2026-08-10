@@ -6,13 +6,13 @@ name: Soul-Guide Lantern
 scryfall_id: f4907e7b-d6d5-4e9b-968f-bce34ae4a577
 set: eoc
 type: Artifact
-meta_presence: 0.0959
+meta_presence: 0.0961
 archetypes:
   ruby-storm:
-    weight: 0.0085
+    weight: 0.0084
     avg_copies: 2.0
   boros-energy:
-    weight: 0.1217
+    weight: 0.1215
     avg_copies: 1.07
   dimir-control:
     weight: 0.0247
@@ -54,13 +54,13 @@ archetypes:
     weight: 0.0104
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0882
+    weight: 0.0877
     avg_copies: 1.03
   esper-blink:
     weight: 0.0081
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.9288
+    weight: 0.9298
     avg_copies: 1.04
   azorius-blink:
     weight: 0.0303
@@ -111,7 +111,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-61:
-    weight: 0.0112
+    weight: 0.011
     avg_copies: 2.0
   unknown-55:
     weight: 1.0
@@ -162,7 +162,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-167:
-    weight: 0.1429
+    weight: 0.1333
     avg_copies: 1.0
   unknown-174:
     weight: 0.6667

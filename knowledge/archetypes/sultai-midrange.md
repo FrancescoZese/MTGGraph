@@ -7,19 +7,19 @@ name: Sultai Midrange
 meta_share: 0.0006
 list_count: 4
 top_cards:
-- name: Misty Rainforest
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 4.0
 - name: Counterspell
@@ -28,13 +28,13 @@ top_cards:
 - name: Watery Grave
   weight: 1.0
   avg_copies: 3.0
-- name: Quantum Riddler
-  weight: 1.0
-  avg_copies: 2.75
 - name: Island
   weight: 1.0
   avg_copies: 2.75
 - name: Orcish Bowmasters
+  weight: 1.0
+  avg_copies: 2.75
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 2.75
 - name: Scalding Tarn
@@ -70,25 +70,25 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 0.75
   avg_copies: 1.67
-- name: Stern Scolding
-  weight: 0.75
-  avg_copies: 1.5
 - name: Pest Control
   weight: 0.75
   avg_copies: 1.5
+- name: Stern Scolding
+  weight: 0.75
+  avg_copies: 1.5
+- name: Ghost Vacuum
+  weight: 0.75
+  avg_copies: 1.0
 - name: Prismatic Ending
+  weight: 0.75
+  avg_copies: 1.0
+- name: Meticulous Archive
   weight: 0.75
   avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 0.75
   avg_copies: 1.0
 - name: Surgical Extraction
-  weight: 0.75
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.75
-  avg_copies: 1.0
-- name: Ghost Vacuum
   weight: 0.75
   avg_copies: 1.0
 - name: Flow State
@@ -100,16 +100,19 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 0.5
   avg_copies: 2.0
-- name: Bring to Light
-  weight: 0.25
-  avg_copies: 3.0
 - name: Brainsurge
   weight: 0.25
   avg_copies: 3.0
-- name: Valki, God of Lies
+- name: Bring to Light
+  weight: 0.25
+  avg_copies: 3.0
+- name: Chalice of the Void
   weight: 0.25
   avg_copies: 2.0
-- name: Chalice of the Void
+- name: Consult the Star Charts
+  weight: 0.25
+  avg_copies: 2.0
+- name: Valki, God of Lies
   weight: 0.25
   avg_copies: 2.0
 - name: Sacred Ground
@@ -118,9 +121,18 @@ top_cards:
 - name: Thraben Charm
   weight: 0.25
   avg_copies: 2.0
-- name: Consult the Star Charts
+- name: Damnation
   weight: 0.25
-  avg_copies: 2.0
+  avg_copies: 1.0
+- name: Toxic Deluge
+  weight: 0.25
+  avg_copies: 1.0
+- name: Engineered Explosives
+  weight: 0.25
+  avg_copies: 1.0
+- name: Forest
+  weight: 0.25
+  avg_copies: 1.0
 - name: Thundering Falls
   weight: 0.25
   avg_copies: 1.0
@@ -130,19 +142,10 @@ top_cards:
 - name: Zagoth Triome
   weight: 0.25
   avg_copies: 1.0
-- name: Damnation
-  weight: 0.25
-  avg_copies: 1.0
-- name: Toxic Deluge
-  weight: 0.25
-  avg_copies: 1.0
 - name: Teferi, Time Raveler
   weight: 0.25
   avg_copies: 1.0
-- name: Engineered Explosives
-  weight: 0.25
-  avg_copies: 1.0
-- name: Forest
+- name: Celestial Purge
   weight: 0.25
   avg_copies: 1.0
 - name: Nihil Spellbomb
@@ -151,13 +154,10 @@ top_cards:
 - name: Hall of Storm Giants
   weight: 0.25
   avg_copies: 1.0
-- name: Sink into Stupor
-  weight: 0.25
-  avg_copies: 1.0
 - name: Culling Ritual
   weight: 0.25
   avg_copies: 1.0
-- name: Celestial Purge
+- name: Sink into Stupor
   weight: 0.25
   avg_copies: 1.0
 ---

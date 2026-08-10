@@ -11,10 +11,10 @@ type: Instant
 meta_presence: 0.0015
 archetypes:
   ruby-storm:
-    weight: 0.0085
+    weight: 0.0084
     avg_copies: 1.0
   boros-energy:
-    weight: 0.0093
+    weight: 0.0092
     avg_copies: 1.14
   unknown-183:
     weight: 0.5

@@ -6,10 +6,10 @@ name: Overgrown Tomb
 scryfall_id: 45b92924-baa1-4c9b-9932-9a5eda8f3446
 set: ecl
 type: Land — Swamp Forest
-meta_presence: 0.0849
+meta_presence: 0.0857
 archetypes:
   goryo:
-    weight: 0.2949
+    weight: 0.2953
     avg_copies: 1.02
   necrodominance:
     weight: 0.0227
@@ -34,9 +34,9 @@ archetypes:
     avg_copies: 1.07
   samwise-combo:
     weight: 1.0
-    avg_copies: 1.82
+    avg_copies: 1.81
   broodscale-combo:
-    weight: 0.0136
+    weight: 0.0134
     avg_copies: 1.0
   orzhov-blink:
     weight: 0.0588
@@ -121,7 +121,7 @@ archetypes:
     avg_copies: 1.0
   unknown-126:
     weight: 1.0
-    avg_copies: 1.61
+    avg_copies: 1.63
   unknown-127:
     weight: 1.0
     avg_copies: 1.0

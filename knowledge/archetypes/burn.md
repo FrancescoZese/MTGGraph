@@ -150,10 +150,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.0513
   avg_copies: 3.5
-- name: Magebane Lizard
+- name: Snow-Covered Mountain
   weight: 0.0513
   avg_copies: 2.5
-- name: Snow-Covered Mountain
+- name: Magebane Lizard
   weight: 0.0513
   avg_copies: 2.5
 - name: Kor Firewalker
@@ -162,67 +162,67 @@ top_cards:
 - name: Orim's Chant
   weight: 0.0513
   avg_copies: 1.5
-- name: Iridescent Vinelasher
+- name: Vexing Devil
   weight: 0.0256
   avg_copies: 4.0
-- name: Vexing Devil
+- name: Iridescent Vinelasher
   weight: 0.0256
   avg_copies: 4.0
 - name: Containment Priest
   weight: 0.0256
   avg_copies: 3.0
-- name: Lithomantic Barrage
+- name: Blood Crypt
   weight: 0.0256
   avg_copies: 2.0
 - name: Relic of Progenitus
   weight: 0.0256
   avg_copies: 2.0
-- name: Mana Tithe
+- name: Mindbreak Trap
   weight: 0.0256
   avg_copies: 2.0
-- name: Mindbreak Trap
+- name: Lithomantic Barrage
   weight: 0.0256
   avg_copies: 2.0
 - name: Nihil Spellbomb
   weight: 0.0256
   avg_copies: 2.0
-- name: card:harsh-mentor
+- name: Mana Tithe
   weight: 0.0256
   avg_copies: 2.0
 - name: Tunnel Ignus
   weight: 0.0256
   avg_copies: 2.0
-- name: Blood Crypt
+- name: card:harsh-mentor
   weight: 0.0256
   avg_copies: 2.0
-- name: Tormod's Crypt
-  weight: 0.0256
-  avg_copies: 1.0
-- name: Blood Moon
-  weight: 0.0256
-  avg_copies: 1.0
-- name: Grafdigger's Cage
-  weight: 0.0256
-  avg_copies: 1.0
-- name: Deafening Silence
-  weight: 0.0256
-  avg_copies: 1.0
-- name: Void Mirror
-  weight: 0.0256
-  avg_copies: 1.0
-- name: Ensnaring Bridge
+- name: Erode
   weight: 0.0256
   avg_copies: 1.0
 - name: Rakdos Charm
   weight: 0.0256
   avg_copies: 1.0
-- name: card:volcanic-fallout
-  weight: 0.0256
-  avg_copies: 1.0
 - name: Rain of Gore
   weight: 0.0256
   avg_copies: 1.0
-- name: Erode
+- name: Tormod's Crypt
+  weight: 0.0256
+  avg_copies: 1.0
+- name: Deafening Silence
+  weight: 0.0256
+  avg_copies: 1.0
+- name: Grafdigger's Cage
+  weight: 0.0256
+  avg_copies: 1.0
+- name: Ensnaring Bridge
+  weight: 0.0256
+  avg_copies: 1.0
+- name: card:volcanic-fallout
+  weight: 0.0256
+  avg_copies: 1.0
+- name: Void Mirror
+  weight: 0.0256
+  avg_copies: 1.0
+- name: Blood Moon
   weight: 0.0256
   avg_copies: 1.0
 ---

@@ -26,7 +26,7 @@ archetypes:
     avg_copies: 3.79
   goryo:
     weight: 0.9944
-    avg_copies: 2.92
+    avg_copies: 2.91
   necrodominance:
     weight: 0.0455
     avg_copies: 3.5
@@ -37,7 +37,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.12
   affinity:
-    weight: 0.9499
+    weight: 0.9501
     avg_copies: 2.55
   domain-zoo:
     weight: 0.9371
@@ -49,7 +49,7 @@ archetypes:
     weight: 0.8519
     avg_copies: 2.87
   neoform-combo:
-    weight: 0.9694
+    weight: 0.97
     avg_copies: 3.74
   mono-blue-tron:
     weight: 1.0
@@ -67,7 +67,7 @@ archetypes:
     weight: 0.8229
     avg_copies: 2.91
   izzet-prowess:
-    weight: 0.9794
+    weight: 0.9795
     avg_copies: 3.32
   4c-omnath:
     weight: 0.25
@@ -116,7 +116,7 @@ archetypes:
     avg_copies: 2.0
   goryo2:
     weight: 1.0
-    avg_copies: 3.14
+    avg_copies: 3.09
   goryo3:
     weight: 1.0
     avg_copies: 4.0
@@ -203,7 +203,7 @@ archetypes:
     avg_copies: 2.0
   unknown-47:
     weight: 0.9925
-    avg_copies: 2.98
+    avg_copies: 2.97
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
@@ -389,7 +389,7 @@ archetypes:
     avg_copies: 4.0
   unknown-167:
     weight: 1.0
-    avg_copies: 3.43
+    avg_copies: 3.4
   unknown-169:
     weight: 1.0
     avg_copies: 4.0
@@ -452,7 +452,7 @@ archetypes:
     avg_copies: 4.0
   unknown-207:
     weight: 1.0
-    avg_copies: 3.58
+    avg_copies: 3.64
   unknown-208:
     weight: 1.0
     avg_copies: 3.0

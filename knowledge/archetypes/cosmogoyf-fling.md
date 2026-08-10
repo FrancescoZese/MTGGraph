@@ -4,7 +4,7 @@ colors:
 - R
 - G
 name: Cosmogoyf Fling
-meta_share: 0.0079
+meta_share: 0.0078
 list_count: 52
 top_cards:
 - name: Thud
@@ -160,31 +160,31 @@ top_cards:
 - name: Mana Confluence
   weight: 0.0192
   avg_copies: 4.0
+- name: card:kavaron-memorial-world
+  weight: 0.0192
+  avg_copies: 2.0
+- name: Death's Shadow
+  weight: 0.0192
+  avg_copies: 2.0
 - name: Shadowspear
   weight: 0.0192
   avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.0192
   avg_copies: 2.0
-- name: Death's Shadow
-  weight: 0.0192
-  avg_copies: 2.0
-- name: card:kavaron-memorial-world
-  weight: 0.0192
-  avg_copies: 2.0
-- name: Force of Despair
+- name: Mountain
   weight: 0.0192
   avg_copies: 1.0
-- name: Meltdown
+- name: Kaheera, the Orphanguard
+  weight: 0.0192
+  avg_copies: 1.0
+- name: Force of Despair
   weight: 0.0192
   avg_copies: 1.0
 - name: Disruptor Flute
   weight: 0.0192
   avg_copies: 1.0
-- name: Mountain
-  weight: 0.0192
-  avg_copies: 1.0
-- name: Kaheera, the Orphanguard
+- name: Meltdown
   weight: 0.0192
   avg_copies: 1.0
 ---

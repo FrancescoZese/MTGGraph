@@ -6,16 +6,16 @@ name: 'Unknown #97'
 meta_share: 0.0023
 list_count: 15
 top_cards:
-- name: Kozilek's Command
+- name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
-- name: Ugin's Labyrinth
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
-- name: Sowing Mycospawn
+- name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
 - name: Utopia Sprawl
@@ -96,19 +96,19 @@ top_cards:
 - name: Consign to Memory
   weight: 0.3333
   avg_copies: 2.2
-- name: Icetill Explorer
+- name: Talisman of Curiosity
   weight: 0.3333
   avg_copies: 2.0
-- name: Talisman of Curiosity
+- name: Icetill Explorer
   weight: 0.3333
   avg_copies: 2.0
 - name: Nulldrifter
   weight: 0.3333
   avg_copies: 1.6
-- name: Hedge Maze
+- name: Breeding Pool
   weight: 0.3333
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Hedge Maze
   weight: 0.3333
   avg_copies: 1.0
 - name: Strix Serenade
@@ -123,16 +123,16 @@ top_cards:
 - name: Fade from History
   weight: 0.2
   avg_copies: 2.0
-- name: Bojuka Bog
+- name: Cavern of Souls
+  weight: 0.2
+  avg_copies: 1.0
+- name: Ghost Quarter
   weight: 0.2
   avg_copies: 1.0
 - name: Force of Vigor
   weight: 0.2
   avg_copies: 1.0
-- name: Cavern of Souls
-  weight: 0.2
-  avg_copies: 1.0
-- name: Ghost Quarter
+- name: Bojuka Bog
   weight: 0.2
   avg_copies: 1.0
 - name: Grafdigger's Cage
@@ -144,40 +144,46 @@ top_cards:
 - name: Shifting Woodland
   weight: 0.1333
   avg_copies: 1.0
-- name: Karn, the Great Creator
-  weight: 0.0667
-  avg_copies: 3.0
 - name: Wastescape Battlemage
   weight: 0.0667
   avg_copies: 3.0
 - name: Kozilek's Return
   weight: 0.0667
   avg_copies: 3.0
-- name: Damping Sphere
+- name: Karn, the Great Creator
   weight: 0.0667
-  avg_copies: 2.0
-- name: Talisman of Impulse
-  weight: 0.0667
-  avg_copies: 2.0
-- name: Thief of Existence
-  weight: 0.0667
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Damnation
-  weight: 0.0667
-  avg_copies: 2.0
-- name: Vandalblast
   weight: 0.0667
   avg_copies: 2.0
 - name: Nature's Claim
   weight: 0.0667
   avg_copies: 2.0
+- name: Talisman of Impulse
+  weight: 0.0667
+  avg_copies: 2.0
+- name: Vandalblast
+  weight: 0.0667
+  avg_copies: 2.0
 - name: Witherbloom Charm
+  weight: 0.0667
+  avg_copies: 2.0
+- name: Thief of Existence
   weight: 0.0667
   avg_copies: 2.0
 - name: Dismember
   weight: 0.0667
   avg_copies: 2.0
+- name: Damping Sphere
+  weight: 0.0667
+  avg_copies: 2.0
+- name: Chalice of the Void
+  weight: 0.0667
+  avg_copies: 1.0
 - name: Boseiju, Who Endures
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Stomping Ground
   weight: 0.0667
   avg_copies: 1.0
 - name: All Is Dust
@@ -189,22 +195,16 @@ top_cards:
 - name: Tormod's Crypt
   weight: 0.0667
   avg_copies: 1.0
-- name: Haywire Mite
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Chalice of the Void
+- name: Pithing Needle
   weight: 0.0667
   avg_copies: 1.0
 - name: Liquimetal Coating
   weight: 0.0667
   avg_copies: 1.0
-- name: Stomping Ground
-  weight: 0.0667
-  avg_copies: 1.0
 - name: Commercial District
   weight: 0.0667
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Haywire Mite
   weight: 0.0667
   avg_copies: 1.0
 ---

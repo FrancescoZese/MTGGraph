@@ -29,31 +29,43 @@ top_cards:
 - name: Ghost Quarter
   weight: 0.8333
   avg_copies: 1.2
-- name: Dryad Arbor
+- name: Shifting Woodland
   weight: 0.8333
   avg_copies: 1.0
-- name: Shifting Woodland
+- name: Dryad Arbor
   weight: 0.8333
   avg_copies: 1.0
 - name: Collector Ouphe
   weight: 0.6667
   avg_copies: 1.0
-- name: Ouroboroid
+- name: Vibrance
   weight: 0.5
   avg_copies: 4.0
-- name: Hashep Oasis
-  weight: 0.5
-  avg_copies: 4.0
-- name: Kozilek's Command
+- name: Delighted Halfling
   weight: 0.5
   avg_copies: 4.0
 - name: Sowing Mycospawn
   weight: 0.5
   avg_copies: 4.0
+- name: Ouroboroid
+  weight: 0.5
+  avg_copies: 4.0
+- name: Valakut, the Molten Pinnacle
+  weight: 0.5
+  avg_copies: 4.0
+- name: Kozilek's Command
+  weight: 0.5
+  avg_copies: 4.0
 - name: Badgermole Cub
   weight: 0.5
   avg_copies: 4.0
-- name: Vibrance
+- name: Prismatic Vista
+  weight: 0.5
+  avg_copies: 4.0
+- name: Hashep Oasis
+  weight: 0.5
+  avg_copies: 4.0
+- name: Thought-Knot Seer
   weight: 0.5
   avg_copies: 4.0
 - name: Eldrazi Temple
@@ -62,28 +74,16 @@ top_cards:
 - name: Springheart Nantuko
   weight: 0.5
   avg_copies: 4.0
-- name: Delighted Halfling
-  weight: 0.5
-  avg_copies: 4.0
 - name: Dryad of the Ilysian Grove
-  weight: 0.5
-  avg_copies: 4.0
-- name: Prismatic Vista
-  weight: 0.5
-  avg_copies: 4.0
-- name: Thought-Knot Seer
-  weight: 0.5
-  avg_copies: 4.0
-- name: Valakut, the Molten Pinnacle
   weight: 0.5
   avg_copies: 4.0
 - name: Wooded Foothills
   weight: 0.5
   avg_copies: 4.0
-- name: Misty Rainforest
+- name: Arboreal Grazer
   weight: 0.5
   avg_copies: 3.33
-- name: Arboreal Grazer
+- name: Misty Rainforest
   weight: 0.5
   avg_copies: 3.33
 - name: Trinisphere
@@ -104,10 +104,10 @@ top_cards:
 - name: Mountain
   weight: 0.5
   avg_copies: 1.67
-- name: Blast Zone
+- name: Endurance
   weight: 0.5
   avg_copies: 1.0
-- name: Endurance
+- name: Wastes
   weight: 0.5
   avg_copies: 1.0
 - name: Chomping Changeling
@@ -116,25 +116,25 @@ top_cards:
 - name: Tajuru Preserver
   weight: 0.5
   avg_copies: 1.0
-- name: Wastes
+- name: Blast Zone
   weight: 0.5
   avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.3333
   avg_copies: 4.0
-- name: Pyroclasm
+- name: Fade from History
   weight: 0.3333
   avg_copies: 3.0
-- name: Fade from History
+- name: Pyroclasm
   weight: 0.3333
   avg_copies: 3.0
 - name: Lightning Bolt
   weight: 0.3333
   avg_copies: 3.0
-- name: Scalding Tarn
+- name: Prismatic Omen
   weight: 0.3333
   avg_copies: 2.0
-- name: Prismatic Omen
+- name: Scalding Tarn
   weight: 0.3333
   avg_copies: 2.0
 - name: Bojuka Bog
@@ -155,30 +155,24 @@ top_cards:
 - name: Fire Magic
   weight: 0.1667
   avg_copies: 4.0
-- name: Bring to Light
+- name: Farseek
   weight: 0.1667
   avg_copies: 3.0
-- name: Farseek
+- name: Bring to Light
   weight: 0.1667
   avg_copies: 3.0
 - name: Arid Mesa
   weight: 0.1667
   avg_copies: 3.0
+- name: Scapeshift
+  weight: 0.1667
+  avg_copies: 2.0
 - name: Meltdown
   weight: 0.1667
   avg_copies: 2.0
 - name: Celestial Purge
   weight: 0.1667
   avg_copies: 2.0
-- name: Scapeshift
-  weight: 0.1667
-  avg_copies: 2.0
-- name: Dwarven Mine
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Jetmir's Garden
   weight: 0.1667
   avg_copies: 1.0
@@ -188,10 +182,16 @@ top_cards:
 - name: Keen-Eyed Curator
   weight: 0.1667
   avg_copies: 1.0
-- name: Sakura-Tribe Elder
+- name: Thundering Falls
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Dwarven Mine
   weight: 0.1667
   avg_copies: 1.0
 - name: Insidious Fungus
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Sakura-Tribe Elder
   weight: 0.1667
   avg_copies: 1.0
 ---

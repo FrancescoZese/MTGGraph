@@ -6,10 +6,10 @@ name: Kavaero, Mind-Bitten
 scryfall_id: ''
 set: ''
 type: Unknown
-meta_presence: 0.0251
+meta_presence: 0.0253
 archetypes:
   goryo:
-    weight: 0.382
+    weight: 0.3844
     avg_copies: 1.42
   living-end:
     weight: 0.2568

@@ -126,10 +126,10 @@ top_cards:
 - name: Liliana of the Veil
   weight: 0.1176
   avg_copies: 1.0
-- name: Blazing Rootwalla
+- name: Vengevine
   weight: 0.0882
   avg_copies: 4.0
-- name: Vengevine
+- name: Blazing Rootwalla
   weight: 0.0882
   avg_copies: 4.0
 - name: Leyline of the Void
@@ -147,19 +147,19 @@ top_cards:
 - name: Blackcleave Cliffs
   weight: 0.0882
   avg_copies: 1.0
-- name: Goblin Lore
-  weight: 0.0588
-  avg_copies: 2.0
 - name: Sheoldred's Edict
   weight: 0.0588
   avg_copies: 2.0
-- name: Pyroclasm
+- name: Goblin Lore
+  weight: 0.0588
+  avg_copies: 2.0
+- name: Magebane Lizard
   weight: 0.0588
   avg_copies: 1.5
 - name: Ox of Agonas
   weight: 0.0588
   avg_copies: 1.5
-- name: Magebane Lizard
+- name: Pyroclasm
   weight: 0.0588
   avg_copies: 1.5
 - name: Violent Urge
@@ -180,31 +180,31 @@ top_cards:
 - name: Inti, Seneschal of the Sun
   weight: 0.0294
   avg_copies: 2.0
-- name: Break the Ice
+- name: Rough
   weight: 0.0294
   avg_copies: 2.0
 - name: Cam and Farrik, Havoc Duo
   weight: 0.0294
   avg_copies: 2.0
-- name: Flameblade Adept
+- name: Ancient Grudge
   weight: 0.0294
   avg_copies: 2.0
-- name: Ancient Grudge
+- name: Break the Ice
+  weight: 0.0294
+  avg_copies: 2.0
+- name: Flameblade Adept
   weight: 0.0294
   avg_copies: 2.0
 - name: Magus of the Moon
   weight: 0.0294
   avg_copies: 2.0
-- name: Rough
-  weight: 0.0294
-  avg_copies: 2.0
-- name: Barbarian Ring
+- name: Shattering Spree
   weight: 0.0294
   avg_copies: 1.0
 - name: Overlord of the Balemurk
   weight: 0.0294
   avg_copies: 1.0
-- name: Shattering Spree
+- name: Barbarian Ring
   weight: 0.0294
   avg_copies: 1.0
 ---

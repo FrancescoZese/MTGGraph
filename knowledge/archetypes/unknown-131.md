@@ -7,10 +7,19 @@ name: 'Unknown #131'
 meta_share: 0.0012
 list_count: 8
 top_cards:
-- name: Quantum Riddler
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
+- name: Psychic Frog
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ocelot Pride
+  weight: 1.0
+  avg_copies: 4.0
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -22,19 +31,10 @@ top_cards:
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
-  weight: 1.0
-  avg_copies: 4.0
-- name: Solitude
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ocelot Pride
-  weight: 1.0
-  avg_copies: 4.0
-- name: Phelia, Exuberant Shepherd
+- name: Starfield Shepherd
   weight: 1.0
   avg_copies: 3.75
-- name: Starfield Shepherd
+- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 3.75
 - name: Practiced Offense
@@ -52,10 +52,10 @@ top_cards:
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 1.88
-- name: Hallowed Fountain
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.75
-- name: Meticulous Archive
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.75
 - name: Plains
@@ -88,10 +88,10 @@ top_cards:
 - name: Thoughtseize
   weight: 0.625
   avg_copies: 1.83
-- name: Surgical Extraction
+- name: Nihil Spellbomb
   weight: 0.625
   avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Surgical Extraction
   weight: 0.625
   avg_copies: 1.0
 - name: Burrenton Forge-Tender
@@ -115,16 +115,16 @@ top_cards:
 - name: Containment Priest
   weight: 0.125
   avg_copies: 2.0
-- name: Voice of Victory
-  weight: 0.125
-  avg_copies: 2.0
 - name: High Noon
   weight: 0.125
   avg_copies: 2.0
-- name: Swamp
+- name: Voice of Victory
+  weight: 0.125
+  avg_copies: 2.0
+- name: Elesh Norn, Mother of Machines
   weight: 0.125
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
+- name: Swamp
   weight: 0.125
   avg_copies: 1.0
 - name: Clarion Conqueror

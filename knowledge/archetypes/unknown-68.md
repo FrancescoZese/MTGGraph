@@ -4,7 +4,7 @@ colors:
 - B
 - R
 name: 'Unknown #68'
-meta_share: 0.0061
+meta_share: 0.006
 list_count: 40
 top_cards:
 - name: Guide of Souls
@@ -40,10 +40,10 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.05
-- name: Elegant Parlor
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
@@ -124,10 +124,10 @@ top_cards:
 - name: End of the Hunt
   weight: 0.275
   avg_copies: 1.09
-- name: Orim's Chant
+- name: Surgical Extraction
   weight: 0.25
   avg_copies: 1.3
-- name: Surgical Extraction
+- name: Orim's Chant
   weight: 0.25
   avg_copies: 1.3
 - name: Prismatic Ending
@@ -160,10 +160,10 @@ top_cards:
 - name: Deafening Silence
   weight: 0.1
   avg_copies: 1.75
-- name: Meltdown
+- name: Ghost Vacuum
   weight: 0.1
   avg_copies: 1.0
-- name: Ghost Vacuum
+- name: Meltdown
   weight: 0.1
   avg_copies: 1.0
 - name: Windswept Heath
@@ -178,13 +178,13 @@ top_cards:
 - name: Solitude
   weight: 0.075
   avg_copies: 1.75
-- name: Rest in Peace
+- name: Containment Priest
   weight: 0.05
   avg_copies: 1.0
 - name: Sanctifier en-Vec
   weight: 0.05
   avg_copies: 1.0
-- name: Containment Priest
+- name: Rest in Peace
   weight: 0.05
   avg_copies: 1.0
 - name: Strategic Betrayal
@@ -193,28 +193,28 @@ top_cards:
 - name: Reckless Pyrosurfer
   weight: 0.025
   avg_copies: 2.0
-- name: Lingering Souls
+- name: Duress
   weight: 0.025
   avg_copies: 2.0
 - name: Path to Exile
   weight: 0.025
   avg_copies: 2.0
-- name: Duress
+- name: Lingering Souls
   weight: 0.025
   avg_copies: 2.0
-- name: Faerie Macabre
-  weight: 0.025
-  avg_copies: 1.0
 - name: Sunbaked Canyon
   weight: 0.025
   avg_copies: 1.0
-- name: Clarion Conqueror
+- name: Stony Silence
+  weight: 0.025
+  avg_copies: 1.0
+- name: Faerie Macabre
   weight: 0.025
   avg_copies: 1.0
 - name: Static Prison
   weight: 0.025
   avg_copies: 1.0
-- name: Stony Silence
+- name: Clarion Conqueror
   weight: 0.025
   avg_copies: 1.0
 ---
