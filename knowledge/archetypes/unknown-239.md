@@ -2,31 +2,22 @@
 colors:
 - B
 name: 'Unknown #239'
-meta_share: 0.0002
+meta_share: 0.0001
 list_count: 1
 top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 8.0
-- name: Fell the Profane
-  weight: 1.0
-  avg_copies: 4.0
 - name: Chancellor of the Dross
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:okiba-reckoner-raid
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:bump-in-the-night
-  weight: 1.0
-  avg_copies: 4.0
-- name: Leyline of the Void
   weight: 1.0
   avg_copies: 4.0
 - name: Nurturing Peatland
   weight: 1.0
   avg_copies: 4.0
-- name: Sorin of House Markov
+- name: Boggart Trawler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Leyline of the Void
   weight: 1.0
   avg_copies: 4.0
 - name: Gonti's Machinations
@@ -35,10 +26,19 @@ top_cards:
 - name: card:sovereign-s-bite
   weight: 1.0
   avg_copies: 4.0
-- name: Necrodominance
+- name: card:bump-in-the-night
   weight: 1.0
   avg_copies: 4.0
-- name: Boggart Trawler
+- name: Fell the Profane
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:okiba-reckoner-raid
+  weight: 1.0
+  avg_copies: 4.0
+- name: Sorin of House Markov
+  weight: 1.0
+  avg_copies: 4.0
+- name: Necrodominance
   weight: 1.0
   avg_copies: 4.0
 - name: Soul Spike

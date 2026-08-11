@@ -6,13 +6,13 @@ name: 'Unknown #46'
 meta_share: 0.0012
 list_count: 8
 top_cards:
+- name: Boggart Trawler
+  weight: 1.0
+  avg_copies: 4.0
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Necrodominance
-  weight: 1.0
-  avg_copies: 4.0
-- name: Boggart Trawler
   weight: 1.0
   avg_copies: 4.0
 - name: Soul Spike
@@ -45,19 +45,19 @@ top_cards:
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.12
-- name: Castle Locthwain
+- name: Overgrown Tomb
   weight: 1.0
   avg_copies: 2.0
-- name: March of Wretched Sorrow
+- name: Castle Locthwain
   weight: 1.0
   avg_copies: 2.0
 - name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 2.0
-- name: Marsh Flats
+- name: March of Wretched Sorrow
   weight: 1.0
   avg_copies: 2.0
-- name: Overgrown Tomb
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 2.0
 - name: Underground Mortuary
@@ -99,10 +99,10 @@ top_cards:
 - name: Graveyard Trespasser
   weight: 0.25
   avg_copies: 1.5
-- name: Fell the Profane
+- name: Nurturing Peatland
   weight: 0.25
   avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Fell the Profane
   weight: 0.25
   avg_copies: 1.0
 ---

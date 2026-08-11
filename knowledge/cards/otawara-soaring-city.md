@@ -6,10 +6,10 @@ name: Otawara, Soaring City
 scryfall_id: 486d7edc-d983-41f0-8b78-c99aecd72996
 set: neo
 type: Legendary Land
-meta_presence: 0.1217
+meta_presence: 0.1215
 archetypes:
   ruby-storm:
-    weight: 0.0084
+    weight: 0.0083
     avg_copies: 1.0
   dimir-control:
     weight: 0.5926
@@ -18,25 +18,25 @@ archetypes:
     weight: 0.9641
     avg_copies: 1.0
   goryo:
-    weight: 0.0056
+    weight: 0.0055
     avg_copies: 1.0
   azorius-control:
     weight: 0.7143
     avg_copies: 1.0
   living-end:
-    weight: 0.7703
+    weight: 0.76
     avg_copies: 1.0
   jeskai-control:
     weight: 0.3966
     avg_copies: 1.0
   affinity:
-    weight: 0.0691
+    weight: 0.0687
     avg_copies: 1.0
   mill:
-    weight: 0.8857
+    weight: 0.8889
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.03
+    weight: 0.0392
     avg_copies: 1.0
   mono-blue-tron:
     weight: 1.0
@@ -72,7 +72,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo2:
-    weight: 0.1316
+    weight: 0.125
     avg_copies: 1.0
   grixis-control:
     weight: 0.2857
@@ -81,7 +81,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-6:
-    weight: 0.7333
+    weight: 0.75
     avg_copies: 1.0
   unknown-10:
     weight: 0.5
@@ -111,7 +111,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.6716
+    weight: 0.6739
     avg_copies: 1.0
   unknown-62:
     weight: 0.0303
@@ -123,7 +123,7 @@ archetypes:
     weight: 0.3448
     avg_copies: 1.0
   unknown-67:
-    weight: 0.4235
+    weight: 0.4091
     avg_copies: 1.0
   unknown-73:
     weight: 1.0
@@ -144,10 +144,13 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-106:
-    weight: 0.4
+    weight: 0.4545
     avg_copies: 1.0
   unknown-107:
     weight: 1.0
+    avg_copies: 1.0
+  unknown-139:
+    weight: 0.1
     avg_copies: 1.0
   unknown-141:
     weight: 1.0
@@ -175,7 +178,7 @@ archetypes:
     avg_copies: 1.0
   unknown-167:
     weight: 1.0
-    avg_copies: 1.13
+    avg_copies: 1.19
   unknown-163:
     weight: 1.0
     avg_copies: 1.0
@@ -204,7 +207,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-213:
-    weight: 0.8333
+    weight: 0.8571
     avg_copies: 1.0
   unknown-218:
     weight: 1.0

@@ -3,40 +3,40 @@ colors:
 - U
 - B
 name: 'Unknown #73'
-meta_share: 0.0002
+meta_share: 0.0001
 list_count: 1
 top_cards:
+- name: Watery Grave
+  weight: 1.0
+  avg_copies: 4.0
 - name: Thoughtseize
-  weight: 1.0
-  avg_copies: 4.0
-- name: Death's Shadow
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 4.0
-- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Preordain
   weight: 1.0
   avg_copies: 4.0
-- name: Polluted Delta
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Misty Rainforest
+- name: Death's Shadow
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
+- name: Psychic Frog
+  weight: 1.0
+  avg_copies: 4.0
+- name: Misty Rainforest
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 4.0
 - name: Counterspell
   weight: 1.0
   avg_copies: 4.0
-- name: Watery Grave
-  weight: 1.0
-  avg_copies: 4.0
-- name: Psychic Frog
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Flow State
@@ -48,6 +48,18 @@ top_cards:
 - name: Murktide Regent
   weight: 1.0
   avg_copies: 3.0
+- name: Nihil Spellbomb
+  weight: 1.0
+  avg_copies: 2.0
+- name: Spell Snare
+  weight: 1.0
+  avg_copies: 2.0
+- name: Stern Scolding
+  weight: 1.0
+  avg_copies: 2.0
+- name: Hurkyl's Recall
+  weight: 1.0
+  avg_copies: 2.0
 - name: Toxic Deluge
   weight: 1.0
   avg_copies: 2.0
@@ -57,22 +69,7 @@ top_cards:
 - name: Consider
   weight: 1.0
   avg_copies: 2.0
-- name: Spell Snare
-  weight: 1.0
-  avg_copies: 2.0
-- name: Hurkyl's Recall
-  weight: 1.0
-  avg_copies: 2.0
-- name: Stern Scolding
-  weight: 1.0
-  avg_copies: 2.0
-- name: Nihil Spellbomb
-  weight: 1.0
-  avg_copies: 2.0
-- name: Inquisition of Kozilek
-  weight: 1.0
-  avg_copies: 1.0
-- name: Island
+- name: Spell Pierce
   weight: 1.0
   avg_copies: 1.0
 - name: Cling to Dust
@@ -81,16 +78,19 @@ top_cards:
 - name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
-- name: Flusterstorm
-  weight: 1.0
-  avg_copies: 1.0
-- name: Swamp
-  weight: 1.0
-  avg_copies: 1.0
-- name: Spell Pierce
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Abigale, Eloquent First-Year
+  weight: 1.0
+  avg_copies: 1.0
+- name: Flusterstorm
+  weight: 1.0
+  avg_copies: 1.0
+- name: Inquisition of Kozilek
+  weight: 1.0
+  avg_copies: 1.0
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 ---

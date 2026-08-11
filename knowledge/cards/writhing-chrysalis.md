@@ -6,15 +6,15 @@ name: Writhing Chrysalis
 scryfall_id: f54dbeb1-51f8-40e2-912a-ec25457de5a2
 set: mh3
 type: Creature — Eldrazi Drone
-meta_presence: 0.0182
+meta_presence: 0.0181
 archetypes:
   eldrazi-ramp:
-    weight: 0.2661
+    weight: 0.264
     avg_copies: 2.03
   broodscale-combo:
-    weight: 0.291
-    avg_copies: 2.71
+    weight: 0.2904
+    avg_copies: 2.72
   goryo4:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 3.0
 ---

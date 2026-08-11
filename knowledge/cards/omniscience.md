@@ -7,7 +7,7 @@ name: Omniscience
 scryfall_id: d33d91d0-1506-45e4-9def-975bf901815e
 set: fdn
 type: Enchantment
-meta_presence: 0.0002
+meta_presence: 0.0001
 archetypes:
   goryo:
     weight: 0.0028

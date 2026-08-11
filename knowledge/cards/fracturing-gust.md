@@ -14,12 +14,12 @@ archetypes:
     weight: 0.0079
     avg_copies: 1.0
   living-end:
-    weight: 0.1892
+    weight: 0.1867
     avg_copies: 1.0
   elves:
     weight: 0.5
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0133
+    weight: 0.0132
     avg_copies: 1.0
 ---

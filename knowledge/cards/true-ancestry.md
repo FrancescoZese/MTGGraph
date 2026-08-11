@@ -7,24 +7,27 @@ name: True Ancestry
 scryfall_id: 8c55b333-dc8b-4332-895b-eec5eb45543f
 set: tla
 type: Sorcery — Lesson
-meta_presence: 0.0068
+meta_presence: 0.007
 archetypes:
   eldrazi-ramp:
-    weight: 0.0242
+    weight: 0.024
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0088
+    weight: 0.0086
     avg_copies: 1.0
   samwise-combo:
     weight: 0.1324
     avg_copies: 1.0
   unknown-45:
-    weight: 0.9655
+    weight: 0.9667
     avg_copies: 1.0
   unknown-57:
     weight: 1.0
     avg_copies: 1.0
   unknown-196:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-243:
     weight: 1.0
     avg_copies: 1.0
 ---

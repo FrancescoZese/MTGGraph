@@ -6,13 +6,13 @@ name: Mystic Forge
 scryfall_id: bc0de77a-c503-4000-9eb5-aa28a5e91082
 set: cmm
 type: Artifact
-meta_presence: 0.0035
+meta_presence: 0.0034
 archetypes:
   eldrazi-tron:
-    weight: 0.068
+    weight: 0.0677
     avg_copies: 1.0
   goryo4:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 2.0
   unknown-55:
     weight: 1.0

@@ -11,28 +11,28 @@ top_cards:
 - name: Windswept Heath
   weight: 1.0
   avg_copies: 4.0
-- name: Verdant Catacombs
-  weight: 1.0
-  avg_copies: 4.0
-- name: Delighted Halfling
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline of Abundance
   weight: 1.0
   avg_copies: 4.0
-- name: Badgermole Cub
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ouroboroid
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
 - name: Quirion Ranger
   weight: 1.0
   avg_copies: 4.0
-- name: Springheart Nantuko
+- name: Ouroboroid
   weight: 1.0
   avg_copies: 4.0
-- name: Green Sun's Zenith
+- name: Badgermole Cub
+  weight: 1.0
+  avg_copies: 4.0
+- name: Delighted Halfling
+  weight: 1.0
+  avg_copies: 4.0
+- name: Springheart Nantuko
   weight: 1.0
   avg_copies: 4.0
 - name: Force of Vigor
@@ -44,10 +44,10 @@ top_cards:
 - name: Summoner's Pact
   weight: 1.0
   avg_copies: 3.0
-- name: Heroic Intervention
+- name: Veil of Summer
   weight: 1.0
   avg_copies: 2.75
-- name: Veil of Summer
+- name: Heroic Intervention
   weight: 1.0
   avg_copies: 2.75
 - name: Dryad Arbor
@@ -59,10 +59,10 @@ top_cards:
 - name: Ashaya, Soul of the Wild
   weight: 1.0
   avg_copies: 1.75
-- name: Boseiju, Who Endures
+- name: Craterhoof Behemoth
   weight: 1.0
   avg_copies: 1.0
-- name: Craterhoof Behemoth
+- name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.0
 - name: Nissa, Resurgent Animist
@@ -71,10 +71,10 @@ top_cards:
 - name: Orim's Chant
   weight: 0.75
   avg_copies: 4.0
-- name: Endurance
+- name: Lush Portico
   weight: 0.75
   avg_copies: 2.0
-- name: Lush Portico
+- name: Endurance
   weight: 0.75
   avg_copies: 2.0
 - name: Collector Ouphe
@@ -83,22 +83,22 @@ top_cards:
 - name: Temple Garden
   weight: 0.75
   avg_copies: 1.0
-- name: Nature's Rhythm
-  weight: 0.25
-  avg_copies: 2.0
 - name: card:royal-treatment
   weight: 0.25
   avg_copies: 2.0
-- name: card:mark-of-asylum
+- name: Nature's Rhythm
   weight: 0.25
-  avg_copies: 1.0
-- name: Lotus Cobra
+  avg_copies: 2.0
+- name: card:mark-of-asylum
   weight: 0.25
   avg_copies: 1.0
 - name: Noble Hierarch
   weight: 0.25
   avg_copies: 1.0
 - name: card:birds-of-paradise
+  weight: 0.25
+  avg_copies: 1.0
+- name: Lotus Cobra
   weight: 0.25
   avg_copies: 1.0
 ---

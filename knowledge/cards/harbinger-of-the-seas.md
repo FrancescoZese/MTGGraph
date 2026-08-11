@@ -7,7 +7,7 @@ name: Harbinger of the Seas
 scryfall_id: 00212714-a410-4cbc-bf1c-f90d7d77378c
 set: mh3
 type: Creature — Merfolk Wizard
-meta_presence: 0.0941
+meta_presence: 0.0936
 archetypes:
   dimir-control:
     weight: 0.679
@@ -16,13 +16,13 @@ archetypes:
     weight: 0.6292
     avg_copies: 1.77
   living-end:
-    weight: 0.0676
+    weight: 0.0667
     avg_copies: 1.33
   jeskai-control:
     weight: 0.0172
     avg_copies: 2.0
   affinity:
-    weight: 0.2303
+    weight: 0.2309
     avg_copies: 1.28
   reanimator:
     weight: 0.1481
@@ -40,8 +40,8 @@ archetypes:
     weight: 0.4375
     avg_copies: 2.57
   goryo1:
-    weight: 0.2644
-    avg_copies: 1.35
+    weight: 0.267
+    avg_copies: 1.34
   goryo3:
     weight: 1.0
     avg_copies: 2.0
@@ -52,7 +52,7 @@ archetypes:
     weight: 0.75
     avg_copies: 1.67
   unknown-5:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 1.0
   unknown-15:
     weight: 0.4615
@@ -79,8 +79,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9552
-    avg_copies: 2.29
+    weight: 0.9493
+    avg_copies: 2.26
   unknown-49:
     weight: 0.125
     avg_copies: 2.0
@@ -94,7 +94,7 @@ archetypes:
     weight: 0.069
     avg_copies: 1.5
   unknown-67:
-    weight: 0.0118
+    weight: 0.0114
     avg_copies: 2.0
   unknown-75:
     weight: 1.0
@@ -109,7 +109,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-106:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 2.0
   unknown-108:
     weight: 1.0
@@ -121,7 +121,7 @@ archetypes:
     weight: 0.6364
     avg_copies: 2.17
   unknown-139:
-    weight: 0.4444
+    weight: 0.4
     avg_copies: 1.0
   unknown-141:
     weight: 1.0
@@ -133,7 +133,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   unknown-167:
-    weight: 0.2
+    weight: 0.1875
     avg_copies: 1.2
   unknown-164:
     weight: 1.0

@@ -6,7 +6,7 @@ name: Shattered Landscape
 scryfall_id: f8373e5a-94bb-4aa0-bd09-13a01e0cb02a
 set: tdc
 type: Land
-meta_presence: 0.0002
+meta_presence: 0.0001
 archetypes:
   eldrazi-tron:
     weight: 0.0032

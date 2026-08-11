@@ -7,9 +7,9 @@ name: Undercity Informer
 scryfall_id: 822d0f73-cfb0-41d9-b4eb-09c605112a13
 set: gtc
 type: Creature — Human Rogue
-meta_presence: 0.0002
+meta_presence: 0.0001
 archetypes:
   living-end:
-    weight: 0.0135
+    weight: 0.0133
     avg_copies: 1.0
 ---

@@ -15,13 +15,13 @@ archetypes:
     weight: 0.0602
     avg_copies: 1.0
   affinity:
-    weight: 0.0173
+    weight: 0.0172
     avg_copies: 1.44
   mill:
-    weight: 0.2857
+    weight: 0.2778
     avg_copies: 2.4
   neoform-combo:
-    weight: 0.62
+    weight: 0.6078
     avg_copies: 1.03
   mono-blue-tron:
     weight: 0.08
@@ -30,7 +30,7 @@ archetypes:
     weight: 0.9792
     avg_copies: 1.94
   esper-blink:
-    weight: 0.0163
+    weight: 0.0154
     avg_copies: 1.0
   azorius-blink:
     weight: 0.0152
@@ -39,7 +39,7 @@ archetypes:
     weight: 0.0312
     avg_copies: 1.0
   goryo1:
-    weight: 0.0747
+    weight: 0.0795
     avg_copies: 1.0
   unknown-3:
     weight: 1.0
@@ -51,8 +51,8 @@ archetypes:
     weight: 0.0769
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0224
-    avg_copies: 1.33
+    weight: 0.029
+    avg_copies: 1.25
   unknown-49:
     weight: 0.125
     avg_copies: 3.0
@@ -72,8 +72,8 @@ archetypes:
     weight: 0.4
     avg_copies: 4.0
   unknown-139:
-    weight: 0.8889
-    avg_copies: 1.25
+    weight: 0.9
+    avg_copies: 1.22
   unknown-151:
     weight: 1.0
     avg_copies: 2.0

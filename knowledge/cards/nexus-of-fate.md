@@ -7,7 +7,7 @@ name: Nexus of Fate
 scryfall_id: f0aacf61-be23-400e-8e3c-5584b44df449
 set: plst
 type: Instant
-meta_presence: 0.0002
+meta_presence: 0.0001
 archetypes:
   unknown-104:
     weight: 1.0

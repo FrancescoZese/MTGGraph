@@ -7,16 +7,16 @@ name: Iroh's Demonstration
 scryfall_id: 18d15fed-1f8f-4407-a221-a47ce75001a8
 set: tla
 type: Sorcery — Lesson
-meta_presence: 0.0026
+meta_presence: 0.0025
 archetypes:
   eldrazi-ramp:
-    weight: 0.0323
+    weight: 0.032
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0263
+    weight: 0.0259
     avg_copies: 1.0
   unknown-45:
-    weight: 0.0345
+    weight: 0.0333
     avg_copies: 1.0
   unknown-122:
     weight: 0.1111

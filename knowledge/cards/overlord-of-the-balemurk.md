@@ -7,13 +7,13 @@ name: Overlord of the Balemurk
 scryfall_id: 9b911653-7b96-4cf3-a907-13c5c53a14f7
 set: dsk
 type: Enchantment Creature — Avatar Horror
-meta_presence: 0.0417
+meta_presence: 0.0426
 archetypes:
   living-end:
-    weight: 0.8108
+    weight: 0.8133
     avg_copies: 4.0
   domain-zoo:
-    weight: 0.014
+    weight: 0.0139
     avg_copies: 1.0
   reanimator:
     weight: 0.037
@@ -29,7 +29,7 @@ archetypes:
     avg_copies: 1.0
   esper-blink:
     weight: 1.0
-    avg_copies: 3.91
+    avg_copies: 3.92
   orzhov-blink:
     weight: 1.0
     avg_copies: 4.0
@@ -47,7 +47,7 @@ archetypes:
     avg_copies: 4.0
   unknown-45:
     weight: 1.0
-    avg_copies: 3.48
+    avg_copies: 3.5
   unknown-57:
     weight: 1.0
     avg_copies: 4.0
@@ -55,7 +55,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   unknown-67:
-    weight: 0.0118
+    weight: 0.0114
     avg_copies: 4.0
   unknown-72:
     weight: 1.0
@@ -76,6 +76,9 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-233:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-243:
     weight: 1.0
     avg_copies: 4.0
 ---

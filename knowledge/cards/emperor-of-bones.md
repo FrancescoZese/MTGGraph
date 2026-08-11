@@ -7,13 +7,13 @@ name: Emperor of Bones
 scryfall_id: df9d9075-2d1e-4848-b661-816d539e05eb
 set: mh3
 type: Creature — Skeleton Noble
-meta_presence: 0.0739
+meta_presence: 0.0749
 archetypes:
   dimir-control:
     weight: 0.0123
     avg_copies: 2.0
   goryo:
-    weight: 0.1253
+    weight: 0.124
     avg_copies: 1.23
   reanimator:
     weight: 0.8519
@@ -22,8 +22,8 @@ archetypes:
     weight: 0.75
     avg_copies: 1.67
   esper-blink:
-    weight: 0.9593
-    avg_copies: 2.17
+    weight: 0.9615
+    avg_copies: 2.21
   orzhov-blink:
     weight: 1.0
     avg_copies: 2.35
@@ -31,14 +31,14 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   goryo1:
-    weight: 0.9713
+    weight: 0.9716
     avg_copies: 3.34
   unknown-4:
     weight: 1.0
     avg_copies: 3.0
   unknown-5:
-    weight: 0.8889
-    avg_copies: 2.88
+    weight: 0.9
+    avg_copies: 2.89
   unknown-1:
     weight: 0.0909
     avg_copies: 2.0
@@ -53,7 +53,7 @@ archetypes:
     avg_copies: 2.0
   unknown-45:
     weight: 1.0
-    avg_copies: 2.9
+    avg_copies: 2.93
   unknown-54:
     weight: 1.0
     avg_copies: 2.0
@@ -79,14 +79,14 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-126:
-    weight: 0.0154
+    weight: 0.013
     avg_copies: 1.0
   unknown-135:
     weight: 0.3333
     avg_copies: 3.0
   unknown-139:
-    weight: 0.7778
-    avg_copies: 2.14
+    weight: 0.8
+    avg_copies: 2.12
   unknown-154:
     weight: 1.0
     avg_copies: 2.0
@@ -105,4 +105,7 @@ archetypes:
   unknown-234:
     weight: 1.0
     avg_copies: 1.0
+  unknown-243:
+    weight: 1.0
+    avg_copies: 2.0
 ---

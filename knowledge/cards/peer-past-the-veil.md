@@ -11,9 +11,9 @@ type: Instant
 meta_presence: 0.0003
 archetypes:
   eldrazi-ramp:
-    weight: 0.0081
+    weight: 0.008
     avg_copies: 1.0
   unknown-6:
-    weight: 0.0667
+    weight: 0.0625
     avg_copies: 1.0
 ---

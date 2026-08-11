@@ -7,11 +7,11 @@ name: Rest in Peace
 scryfall_id: d108c2b1-236e-4b8d-8445-d9749ccc4fea
 set: big
 type: Enchantment
-meta_presence: 0.0952
+meta_presence: 0.0945
 archetypes:
   boros-energy:
-    weight: 0.2365
-    avg_copies: 1.58
+    weight: 0.2378
+    avg_copies: 1.57
   dimir-control:
     weight: 0.0123
     avg_copies: 1.0
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.2931
     avg_copies: 1.71
   domain-zoo:
-    weight: 0.2448
+    weight: 0.2431
     avg_copies: 1.37
   burn:
     weight: 0.3077
@@ -34,7 +34,7 @@ archetypes:
     weight: 0.8298
     avg_copies: 2.61
   esper-blink:
-    weight: 0.0081
+    weight: 0.0077
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.0667
@@ -73,7 +73,7 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   unknown-106:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 1.0
   unknown-108:
     weight: 1.0
@@ -97,8 +97,8 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-160:
-    weight: 0.8667
-    avg_copies: 2.46
+    weight: 0.8684
+    avg_copies: 2.47
   unknown-163:
     weight: 1.0
     avg_copies: 2.0
@@ -127,12 +127,15 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-207:
-    weight: 0.5385
+    weight: 0.5
     avg_copies: 1.71
   unknown-232:
     weight: 1.0
     avg_copies: 3.0
   unknown-236:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-242:
     weight: 1.0
     avg_copies: 1.0
 ---

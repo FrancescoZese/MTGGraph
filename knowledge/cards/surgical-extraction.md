@@ -1,10 +1,10 @@
 ---
 archetypes:
   ruby-storm:
-    weight: 0.0127
+    weight: 0.0124
     avg_copies: 1.33
   boros-energy:
-    weight: 0.7437
+    weight: 0.7424
     avg_copies: 1.28
   dimir-control:
     weight: 0.1111
@@ -19,7 +19,7 @@ archetypes:
     weight: 0.018
     avg_copies: 2.0
   goryo:
-    weight: 0.5097
+    weight: 0.5124
     avg_copies: 1.09
   necrodominance:
     weight: 0.5909
@@ -31,11 +31,11 @@ archetypes:
     weight: 0.5
     avg_copies: 1.28
   domain-zoo:
-    weight: 0.2238
+    weight: 0.2222
     avg_copies: 1.19
   mill:
     weight: 1.0
-    avg_copies: 3.08
+    avg_copies: 3.1
   reanimator:
     weight: 0.2222
     avg_copies: 1.33
@@ -55,16 +55,16 @@ archetypes:
     weight: 0.1915
     avg_copies: 1.71
   yawgmoth-combo:
-    weight: 0.011
+    weight: 0.0109
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0726
+    weight: 0.072
     avg_copies: 1.56
   izzet-prowess:
-    weight: 0.4766
+    weight: 0.4755
     avg_copies: 1.45
   esper-blink:
-    weight: 0.1789
+    weight: 0.1692
     avg_copies: 1.32
   samwise-combo:
     weight: 0.1324
@@ -106,14 +106,14 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.6839
-    avg_copies: 1.29
+    weight: 0.6818
+    avg_copies: 1.28
   goryo4:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 1.0
   goryo5:
-    weight: 0.48
-    avg_copies: 1.5
+    weight: 0.4815
+    avg_copies: 1.54
   grixis-control:
     weight: 0.1429
     avg_copies: 1.0
@@ -133,7 +133,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-5:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 1.0
   unknown-7:
     weight: 1.0
@@ -175,7 +175,7 @@ archetypes:
     weight: 0.875
     avg_copies: 1.14
   unknown-47:
-    weight: 0.1343
+    weight: 0.1304
     avg_copies: 1.39
   unknown-51:
     weight: 1.0
@@ -184,7 +184,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-61:
-    weight: 0.011
+    weight: 0.0104
     avg_copies: 1.0
   unknown-53:
     weight: 1.0
@@ -241,13 +241,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-101:
-    weight: 0.5
+    weight: 0.4444
     avg_copies: 1.5
   unknown-102:
     weight: 1.0
     avg_copies: 2.0
   unknown-106:
-    weight: 0.5
+    weight: 0.4545
     avg_copies: 1.2
   unknown-109:
     weight: 1.0
@@ -271,8 +271,8 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-139:
-    weight: 0.1111
-    avg_copies: 1.0
+    weight: 0.2
+    avg_copies: 1.5
   unknown-141:
     weight: 1.0
     avg_copies: 2.0
@@ -286,8 +286,8 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   unknown-160:
-    weight: 0.1867
-    avg_copies: 1.5
+    weight: 0.1974
+    avg_copies: 1.47
   unknown-161:
     weight: 0.5
     avg_copies: 3.0
@@ -318,6 +318,9 @@ archetypes:
   unknown-190:
     weight: 1.0
     avg_copies: 1.0
+  unknown-194:
+    weight: 0.25
+    avg_copies: 1.0
   unknown-197:
     weight: 1.0
     avg_copies: 2.0
@@ -325,10 +328,10 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-207:
-    weight: 0.0769
+    weight: 0.0714
     avg_copies: 3.0
   unknown-211:
-    weight: 0.8333
+    weight: 0.7143
     avg_copies: 2.4
   unknown-217:
     weight: 1.0
@@ -354,7 +357,7 @@ archetypes:
 cmc: 1
 colors: []
 image: https://cards.scryfall.io/normal/front/e/1/e15d76ac-1c23-4503-8225-375ac2bf2fb6.jpg?1673147668
-meta_presence: 0.2664
+meta_presence: 0.2651
 name: Surgical Extraction
 scryfall_id: e15d76ac-1c23-4503-8225-375ac2bf2fb6
 set: 2x2

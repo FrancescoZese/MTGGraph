@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0066
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.007
+    weight: 0.0069
     avg_copies: 1.0
   mono-red-belcher:
     weight: 0.1538
@@ -22,10 +22,10 @@ archetypes:
     weight: 0.0071
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0242
+    weight: 0.024
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0175
+    weight: 0.0173
     avg_copies: 1.0
   rakdos-aggro:
     weight: 0.1053
@@ -37,7 +37,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-45:
-    weight: 0.069
+    weight: 0.0667
     avg_copies: 1.0
   unknown-122:
     weight: 0.037

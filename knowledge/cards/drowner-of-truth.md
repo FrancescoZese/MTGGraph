@@ -6,18 +6,18 @@ name: Drowner of Truth // Drowned Jungle
 scryfall_id: 7a1d3c1d-1373-4ac4-bb26-9780976efc4f
 set: mh3
 type: Creature — Eldrazi // Land
-meta_presence: 0.0089
+meta_presence: 0.0095
 archetypes:
   broodscale-combo:
-    weight: 0.01
+    weight: 0.0099
     avg_copies: 2.33
   unknown-61:
-    weight: 0.5824
-    avg_copies: 1.96
+    weight: 0.6042
+    avg_copies: 1.97
   unknown-151:
     weight: 1.0
     avg_copies: 4.0
   unknown-194:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 4.0
 ---

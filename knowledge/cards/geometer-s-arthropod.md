@@ -8,9 +8,9 @@ name: Geometer's Arthropod
 scryfall_id: ec0f3613-1edc-40e8-8f26-2e5ef13be55e
 set: sos
 type: Creature — Fractal Crab
-meta_presence: 0.0002
+meta_presence: 0.0001
 archetypes:
   neoform-combo:
-    weight: 0.01
+    weight: 0.0098
     avg_copies: 4.0
 ---

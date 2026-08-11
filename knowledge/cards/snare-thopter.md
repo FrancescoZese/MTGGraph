@@ -6,7 +6,7 @@ name: Snare Thopter
 scryfall_id: 52b0ba0d-078e-4f54-81da-88f86227df4f
 set: gnt
 type: Artifact Creature — Thopter
-meta_presence: 0.0002
+meta_presence: 0.0001
 archetypes:
   eldrazi-tron:
     weight: 0.0032

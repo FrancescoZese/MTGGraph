@@ -4,7 +4,7 @@ colors:
 - B
 - R
 name: Grixis Control
-meta_share: 0.0011
+meta_share: 0.001
 list_count: 7
 top_cards:
 - name: Counterspell
@@ -34,16 +34,16 @@ top_cards:
 - name: Force of Negation
   weight: 1.0
   avg_copies: 2.29
-- name: Island
-  weight: 1.0
-  avg_copies: 2.0
 - name: Watery Grave
   weight: 1.0
   avg_copies: 2.0
-- name: Steam Vents
+- name: Island
+  weight: 1.0
+  avg_copies: 2.0
+- name: Snapcaster Mage
   weight: 1.0
   avg_copies: 1.71
-- name: Snapcaster Mage
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.71
 - name: Undercity Sewers
@@ -70,10 +70,10 @@ top_cards:
 - name: Sink into Stupor
   weight: 0.8571
   avg_copies: 1.83
-- name: Flooded Strand
+- name: Misty Rainforest
   weight: 0.8571
   avg_copies: 1.17
-- name: Misty Rainforest
+- name: Flooded Strand
   weight: 0.8571
   avg_copies: 1.17
 - name: Subtlety
@@ -97,10 +97,10 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.5714
   avg_copies: 1.33
-- name: Drown in the Loch
+- name: Gloomlake Verge
   weight: 0.5714
   avg_copies: 1.0
-- name: Gloomlake Verge
+- name: Drown in the Loch
   weight: 0.5714
   avg_copies: 1.0
 - name: Lightning Bolt
@@ -115,28 +115,37 @@ top_cards:
 - name: Otawara, Soaring City
   weight: 0.2857
   avg_copies: 1.0
-- name: Traumatic Critique
-  weight: 0.1429
-  avg_copies: 3.0
-- name: Bloodstained Mire
+- name: Damping Sphere
   weight: 0.1429
   avg_copies: 3.0
 - name: Break the Ice
   weight: 0.1429
   avg_copies: 3.0
-- name: Damping Sphere
+- name: Bloodstained Mire
+  weight: 0.1429
+  avg_copies: 3.0
+- name: Traumatic Critique
   weight: 0.1429
   avg_copies: 3.0
 - name: Rakdos Charm
   weight: 0.1429
   avg_copies: 2.0
-- name: Darkslick Shores
-  weight: 0.1429
-  avg_copies: 2.0
 - name: Kolaghan's Command
   weight: 0.1429
   avg_copies: 2.0
+- name: Darkslick Shores
+  weight: 0.1429
+  avg_copies: 2.0
 - name: Emet-Selch, Unsundered
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Spell Pierce
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Hall of Storm Giants
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Spirebluff Canal
   weight: 0.1429
   avg_copies: 1.0
 - name: The Meathook Massacre
@@ -145,31 +154,22 @@ top_cards:
 - name: Mountain
   weight: 0.1429
   avg_copies: 1.0
-- name: Consider
+- name: Logic Knot
   weight: 0.1429
   avg_copies: 1.0
 - name: Blood Crypt
   weight: 0.1429
   avg_copies: 1.0
-- name: Logic Knot
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Spell Pierce
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Kozilek's Return
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Spirebluff Canal
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Hall of Storm Giants
+- name: Surgical Extraction
   weight: 0.1429
   avg_copies: 1.0
 - name: Raucous Theater
   weight: 0.1429
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Kozilek's Return
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Consider
   weight: 0.1429
   avg_copies: 1.0
 ---

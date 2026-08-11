@@ -8,7 +8,7 @@ name: Quintorius Kand
 scryfall_id: 4382fa49-9e34-45b3-8495-4916dcd995ec
 set: lci
 type: Legendary Planeswalker — Quintorius
-meta_presence: 0.0002
+meta_presence: 0.0001
 archetypes:
   boros-ponza:
     weight: 0.0071

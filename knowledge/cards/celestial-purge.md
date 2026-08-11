@@ -7,10 +7,10 @@ name: Celestial Purge
 scryfall_id: cd38afd4-d7a4-493d-bdea-72be9a1d9a07
 set: mm2
 type: Instant
-meta_presence: 0.1521
+meta_presence: 0.1508
 archetypes:
   boros-energy:
-    weight: 0.6684
+    weight: 0.6675
     avg_copies: 1.39
   dimir-control:
     weight: 0.0741
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.0032
     avg_copies: 1.0
   goryo:
-    weight: 0.2841
+    weight: 0.281
     avg_copies: 1.06
   azorius-control:
     weight: 0.5102
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.8448
     avg_copies: 1.29
   domain-zoo:
-    weight: 0.1189
+    weight: 0.1181
     avg_copies: 1.06
   boros-ponza:
     weight: 0.6809
@@ -40,7 +40,7 @@ archetypes:
     weight: 0.0058
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0244
+    weight: 0.0231
     avg_copies: 1.0
   azorius-blink:
     weight: 0.0909
@@ -52,8 +52,8 @@ archetypes:
     weight: 0.1667
     avg_copies: 2.0
   goryo2:
-    weight: 0.2895
-    avg_copies: 1.55
+    weight: 0.325
+    avg_copies: 1.54
   goryo3:
     weight: 1.0
     avg_copies: 2.0
@@ -70,7 +70,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-5:
-    weight: 0.2222
+    weight: 0.2
     avg_copies: 1.5
   unknown-22:
     weight: 0.75
@@ -79,7 +79,7 @@ archetypes:
     weight: 0.0909
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0075
+    weight: 0.0072
     avg_copies: 1.0
   unknown-56:
     weight: 1.0
@@ -100,8 +100,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-106:
-    weight: 0.9
-    avg_copies: 1.11
+    weight: 0.9091
+    avg_copies: 1.1
   unknown-109:
     weight: 0.6667
     avg_copies: 2.0
@@ -112,7 +112,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.4533
+    weight: 0.4474
     avg_copies: 1.76
   unknown-166:
     weight: 1.0

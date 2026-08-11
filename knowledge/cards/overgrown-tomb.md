@@ -6,28 +6,28 @@ name: Overgrown Tomb
 scryfall_id: 45b92924-baa1-4c9b-9932-9a5eda8f3446
 set: ecl
 type: Land — Swamp Forest
-meta_presence: 0.0857
+meta_presence: 0.0875
 archetypes:
   goryo:
-    weight: 0.2953
+    weight: 0.2948
     avg_copies: 1.02
   necrodominance:
     weight: 0.0227
     avg_copies: 2.0
   living-end:
-    weight: 0.8108
+    weight: 0.8133
     avg_copies: 1.08
   domain-zoo:
-    weight: 0.014
+    weight: 0.0139
     avg_copies: 1.0
   reanimator:
     weight: 0.037
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 2.43
+    avg_copies: 2.42
   eldrazi-ramp:
-    weight: 0.0161
+    weight: 0.016
     avg_copies: 1.0
   simic-ritual:
     weight: 0.1458
@@ -36,7 +36,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.81
   broodscale-combo:
-    weight: 0.0134
+    weight: 0.0132
     avg_copies: 1.0
   orzhov-blink:
     weight: 0.0588
@@ -55,7 +55,7 @@ archetypes:
     avg_copies: 2.5
   goryo5:
     weight: 1.0
-    avg_copies: 1.32
+    avg_copies: 1.3
   soultrader-combo:
     weight: 1.0
     avg_copies: 1.86
@@ -75,8 +75,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-45:
-    weight: 0.9655
-    avg_copies: 1.36
+    weight: 0.9667
+    avg_copies: 1.34
   unknown-46:
     weight: 1.0
     avg_copies: 2.0
@@ -93,7 +93,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   unknown-67:
-    weight: 0.0118
+    weight: 0.0114
     avg_copies: 1.0
   unknown-79:
     weight: 0.3333
@@ -121,7 +121,7 @@ archetypes:
     avg_copies: 1.0
   unknown-126:
     weight: 1.0
-    avg_copies: 1.63
+    avg_copies: 1.69
   unknown-127:
     weight: 1.0
     avg_copies: 1.0
@@ -150,8 +150,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-211:
-    weight: 0.3333
-    avg_copies: 1.0
+    weight: 0.4286
+    avg_copies: 1.33
   unknown-224:
     weight: 1.0
     avg_copies: 1.0
@@ -159,6 +159,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-237:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-243:
     weight: 1.0
     avg_copies: 1.0
 ---

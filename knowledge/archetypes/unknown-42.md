@@ -11,16 +11,16 @@ top_cards:
 - name: Tide Shaper
   weight: 1.0
   avg_copies: 3.92
-- name: Master of the Pearl Trident
-  weight: 1.0
-  avg_copies: 3.75
 - name: Lord of Atlantis
   weight: 1.0
   avg_copies: 3.75
-- name: Aether Vial
+- name: Master of the Pearl Trident
+  weight: 1.0
+  avg_copies: 3.75
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 3.67
-- name: Sink into Stupor
+- name: Aether Vial
   weight: 1.0
   avg_copies: 3.67
 - name: Harbinger of the Seas
@@ -101,25 +101,25 @@ top_cards:
 - name: Mistcaller
   weight: 0.0833
   avg_copies: 3.0
-- name: Hurkyl's Recall
-  weight: 0.0833
-  avg_copies: 2.0
 - name: Waterlogged Grove
   weight: 0.0833
   avg_copies: 2.0
 - name: Spell Pierce
   weight: 0.0833
   avg_copies: 2.0
+- name: Hurkyl's Recall
+  weight: 0.0833
+  avg_copies: 2.0
 - name: Spell Snare
   weight: 0.0833
   avg_copies: 2.0
-- name: Oboro, Palace in the Clouds
-  weight: 0.0833
-  avg_copies: 1.0
 - name: Agna Qel'a
   weight: 0.0833
   avg_copies: 1.0
 - name: Gloomlake Verge
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Oboro, Palace in the Clouds
   weight: 0.0833
   avg_copies: 1.0
 ---

@@ -12,16 +12,16 @@ archetypes:
     weight: 0.0123
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.165
+    weight: 0.1645
     avg_copies: 1.07
   amulet-titan:
     weight: 0.0719
     avg_copies: 1.75
   goryo:
-    weight: 0.0056
+    weight: 0.0055
     avg_copies: 1.0
   affinity:
-    weight: 0.025
+    weight: 0.0248
     avg_copies: 1.0
   burn:
     weight: 0.0256
@@ -36,10 +36,10 @@ archetypes:
     weight: 0.0426
     avg_copies: 2.33
   eldrazi-ramp:
-    weight: 0.0081
+    weight: 0.008
     avg_copies: 2.0
   esper-blink:
-    weight: 0.0163
+    weight: 0.0154
     avg_copies: 2.25
   orzhov-blink:
     weight: 0.4706
@@ -51,14 +51,14 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo4:
-    weight: 0.2308
+    weight: 0.2222
     avg_copies: 1.83
   goryo6:
     weight: 0.5
     avg_copies: 3.5
   goryo2:
-    weight: 0.8158
-    avg_copies: 3.65
+    weight: 0.8
+    avg_copies: 3.66
   unknown-12:
     weight: 1.0
     avg_copies: 1.0
@@ -111,13 +111,13 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-160:
-    weight: 0.12
+    weight: 0.1184
     avg_copies: 1.75
   unknown-162:
     weight: 1.0
     avg_copies: 2.33
   unknown-167:
-    weight: 0.4
+    weight: 0.4375
     avg_copies: 1.0
   unknown-169:
     weight: 1.0
@@ -128,6 +128,9 @@ archetypes:
   unknown-200:
     weight: 1.0
     avg_copies: 2.0
+  unknown-213:
+    weight: 0.1429
+    avg_copies: 1.0
   unknown-219:
     weight: 1.0
     avg_copies: 1.0

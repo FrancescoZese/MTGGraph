@@ -7,16 +7,16 @@ name: Archon of Cruelty
 scryfall_id: 1be9d9a4-d7ee-4854-abc2-85cabf993ec9
 set: mh2
 type: Creature — Archon
-meta_presence: 0.044
+meta_presence: 0.0441
 archetypes:
   goryo:
-    weight: 0.0084
+    weight: 0.0083
     avg_copies: 2.67
   living-end:
-    weight: 0.0405
+    weight: 0.04
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.007
+    weight: 0.0069
     avg_copies: 4.0
   reanimator:
     weight: 1.0
@@ -26,10 +26,10 @@ archetypes:
     avg_copies: 2.73
   goryo1:
     weight: 1.0
-    avg_copies: 3.71
+    avg_copies: 3.72
   unknown-5:
     weight: 1.0
-    avg_copies: 3.78
+    avg_copies: 3.8
   unknown-1:
     weight: 1.0
     avg_copies: 4.0

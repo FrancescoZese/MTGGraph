@@ -7,9 +7,9 @@ name: Scheming Silvertongue // Sign in Blood
 scryfall_id: fe85a124-0d8b-4a29-8df1-65888a39147f
 set: sos
 type: Creature — Vampire Warlock // Sorcery
-meta_presence: 0.0002
+meta_presence: 0.0001
 archetypes:
   goryo5:
-    weight: 0.04
+    weight: 0.037
     avg_copies: 1.0
 ---

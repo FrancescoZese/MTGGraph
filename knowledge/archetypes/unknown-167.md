@@ -1,235 +1,237 @@
 ---
 colors:
-- W
 - U
 name: 'Unknown #167'
-meta_share: 0.0023
-list_count: 15
+meta_share: 0.0024
+list_count: 16
 top_cards:
-- name: Emry, Lurker of the Loch
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Emry, Lurker of the Loch
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Opal
   weight: 1.0
-  avg_copies: 3.87
+  avg_copies: 3.88
 - name: Urza's Saga
   weight: 1.0
-  avg_copies: 3.8
+  avg_copies: 3.81
 - name: Metallic Rebuke
   weight: 1.0
-  avg_copies: 3.73
+  avg_copies: 3.75
 - name: Mox Amber
   weight: 1.0
-  avg_copies: 3.67
+  avg_copies: 3.69
 - name: Tamiyo, Inquisitive Student
   weight: 1.0
-  avg_copies: 3.6
+  avg_copies: 3.62
 - name: Consign to Memory
   weight: 1.0
-  avg_copies: 3.4
+  avg_copies: 3.44
 - name: card:loki-god-of-mischief
   weight: 1.0
-  avg_copies: 2.93
+  avg_copies: 3.0
 - name: Island
   weight: 1.0
-  avg_copies: 1.47
+  avg_copies: 1.5
 - name: Otawara, Soaring City
   weight: 1.0
-  avg_copies: 1.13
-- name: Aether Spellbomb
-  weight: 1.0
-  avg_copies: 1.0
+  avg_copies: 1.19
 - name: Skateboard
   weight: 1.0
   avg_copies: 1.0
+- name: Aether Spellbomb
+  weight: 0.9375
+  avg_copies: 1.0
 - name: Minamo, School at Water's Edge
-  weight: 0.9333
+  weight: 0.9375
   avg_copies: 1.0
 - name: Sewer-veillance Cam
-  weight: 0.8667
-  avg_copies: 3.0
+  weight: 0.875
+  avg_copies: 3.07
 - name: Grinding Station
-  weight: 0.8667
-  avg_copies: 2.23
+  weight: 0.875
+  avg_copies: 2.29
 - name: Mystical Dispute
-  weight: 0.8667
+  weight: 0.8125
   avg_copies: 1.46
 - name: Breeding Pool
-  weight: 0.8
-  avg_copies: 1.25
-- name: Agatha's Soul Cauldron
-  weight: 0.7333
-  avg_copies: 1.0
+  weight: 0.8125
+  avg_copies: 1.23
 - name: Flooded Strand
-  weight: 0.6667
-  avg_copies: 2.2
-- name: Hallowed Fountain
-  weight: 0.6667
-  avg_copies: 1.8
+  weight: 0.6875
+  avg_copies: 2.18
 - name: Damping Sphere
-  weight: 0.6667
-  avg_copies: 1.1
+  weight: 0.6875
+  avg_copies: 1.36
 - name: Vexing Bauble
-  weight: 0.6667
+  weight: 0.6875
+  avg_copies: 1.0
+- name: Agatha's Soul Cauldron
+  weight: 0.6875
+  avg_copies: 1.0
+- name: Scalding Tarn
+  weight: 0.625
+  avg_copies: 1.8
+- name: Hallowed Fountain
+  weight: 0.625
+  avg_copies: 1.8
+- name: Tormod's Crypt
+  weight: 0.625
+  avg_copies: 1.2
+- name: Haywire Mite
+  weight: 0.625
   avg_copies: 1.0
 - name: Portable Hole
-  weight: 0.6
+  weight: 0.5625
   avg_copies: 3.56
-- name: Scalding Tarn
-  weight: 0.6
-  avg_copies: 1.89
-- name: Tormod's Crypt
-  weight: 0.6
-  avg_copies: 1.21
 - name: Swan Song
-  weight: 0.6
+  weight: 0.5625
   avg_copies: 1.11
-- name: Meticulous Archive
-  weight: 0.6
-  avg_copies: 1.0
-- name: Haywire Mite
-  weight: 0.6
-  avg_copies: 1.0
 - name: Pithing Needle
-  weight: 0.5333
+  weight: 0.5625
   avg_copies: 1.0
-- name: Seachrome Coast
-  weight: 0.4667
-  avg_copies: 3.43
+- name: Meticulous Archive
+  weight: 0.5625
+  avg_copies: 1.0
 - name: Misty Rainforest
-  weight: 0.4667
-  avg_copies: 1.71
+  weight: 0.5
+  avg_copies: 1.62
+- name: Seachrome Coast
+  weight: 0.4375
+  avg_copies: 3.43
+- name: Polluted Delta
+  weight: 0.4375
+  avg_copies: 1.43
+- name: Sink into Stupor
+  weight: 0.4375
+  avg_copies: 1.29
+- name: Relic of Progenitus
+  weight: 0.4375
+  avg_copies: 1.0
 - name: Disruptor Flute
-  weight: 0.4667
+  weight: 0.4375
   avg_copies: 1.0
 - name: card:oswald-fiddlebender
-  weight: 0.4
+  weight: 0.375
   avg_copies: 3.67
 - name: Nature's Claim
-  weight: 0.4
+  weight: 0.375
   avg_copies: 2.0
-- name: Polluted Delta
-  weight: 0.4
-  avg_copies: 1.33
-- name: Sink into Stupor
-  weight: 0.4
-  avg_copies: 1.17
 - name: Waterlogged Grove
-  weight: 0.4
-  avg_copies: 1.0
-- name: Relic of Progenitus
-  weight: 0.4
+  weight: 0.375
   avg_copies: 1.0
 - name: Dusk Rose Reliquary
-  weight: 0.4
+  weight: 0.375
+  avg_copies: 1.0
+- name: Shadowspear
+  weight: 0.375
   avg_copies: 1.0
 - name: Malevolent Rumble
-  weight: 0.3333
+  weight: 0.3125
   avg_copies: 3.2
 - name: Force of Negation
-  weight: 0.3333
+  weight: 0.3125
   avg_copies: 2.0
-- name: Shadowspear
-  weight: 0.3333
+- name: Hedge Maze
+  weight: 0.3125
   avg_copies: 1.0
 - name: Strix Serenade
-  weight: 0.2667
+  weight: 0.25
   avg_copies: 1.75
 - name: Teferi, Time Raveler
-  weight: 0.2667
+  weight: 0.25
   avg_copies: 1.4
-- name: Quantum Riddler
-  weight: 0.2667
-  avg_copies: 1.0
 - name: Six
-  weight: 0.2667
+  weight: 0.25
   avg_copies: 1.0
-- name: Hedge Maze
-  weight: 0.2667
+- name: Quantum Riddler
+  weight: 0.25
   avg_copies: 1.0
 - name: Harbinger of the Seas
-  weight: 0.2
+  weight: 0.1875
   avg_copies: 1.2
 - name: Boseiju, Who Endures
-  weight: 0.2
+  weight: 0.1875
   avg_copies: 1.0
 - name: Botanical Sanctum
-  weight: 0.1333
+  weight: 0.125
   avg_copies: 4.0
-- name: card:yavimaya-coast
-  weight: 0.1333
-  avg_copies: 2.0
 - name: Orim's Chant
-  weight: 0.1333
+  weight: 0.125
+  avg_copies: 2.0
+- name: card:yavimaya-coast
+  weight: 0.125
   avg_copies: 2.0
 - name: Into the Flood Maw
-  weight: 0.1333
+  weight: 0.125
   avg_copies: 1.67
 - name: Engineered Explosives
-  weight: 0.1333
+  weight: 0.125
   avg_copies: 1.5
-- name: card:scrabbling-claws
-  weight: 0.1333
+- name: Unable to Scream
+  weight: 0.125
   avg_copies: 1.0
 - name: card:bruce-banner
-  weight: 0.1333
-  avg_copies: 1.0
-- name: Grafdigger's Cage
-  weight: 0.1333
+  weight: 0.125
   avg_copies: 1.0
 - name: Tezzeret, Cruel Captain
-  weight: 0.1333
-  avg_copies: 1.0
-- name: card:urza-lord-high-artificer
-  weight: 0.1333
+  weight: 0.125
   avg_copies: 1.0
 - name: Plains
-  weight: 0.1333
+  weight: 0.125
   avg_copies: 1.0
-- name: Krang, Master Mind
-  weight: 0.1333
+- name: card:scrabbling-claws
+  weight: 0.125
   avg_copies: 1.0
 - name: Gran-Gran
-  weight: 0.1333
+  weight: 0.125
+  avg_copies: 1.0
+- name: Krang, Master Mind
+  weight: 0.125
+  avg_copies: 1.0
+- name: Grafdigger's Cage
+  weight: 0.125
   avg_copies: 1.0
 - name: Soul-Guide Lantern
-  weight: 0.1333
+  weight: 0.125
   avg_copies: 1.0
-- name: Unable to Scream
-  weight: 0.1333
+- name: card:urza-lord-high-artificer
+  weight: 0.125
   avg_copies: 1.0
+- name: Kappa Cannoneer
+  weight: 0.0625
+  avg_copies: 4.0
 - name: Test of Talents
-  weight: 0.0667
+  weight: 0.0625
   avg_copies: 3.0
 - name: Sacred Ground
-  weight: 0.0667
+  weight: 0.0625
   avg_copies: 3.0
 - name: Erode
-  weight: 0.0667
-  avg_copies: 2.0
-- name: Dismember
-  weight: 0.0667
+  weight: 0.0625
   avg_copies: 2.0
 - name: Glimmervoid
-  weight: 0.0667
+  weight: 0.0625
   avg_copies: 2.0
-- name: Spell Snare
-  weight: 0.0667
-  avg_copies: 1.0
+- name: Dismember
+  weight: 0.0625
+  avg_copies: 2.0
 - name: Thief of Existence
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Does Machines
-  weight: 0.0667
+  weight: 0.0625
   avg_copies: 1.0
 - name: Ashiok, Dream Render
-  weight: 0.0667
+  weight: 0.0625
   avg_copies: 1.0
 - name: Invasive Surgery
-  weight: 0.0667
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Spell Snare
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Does Machines
+  weight: 0.0625
   avg_copies: 1.0
 ---
 Unclassified archetype, pending review.

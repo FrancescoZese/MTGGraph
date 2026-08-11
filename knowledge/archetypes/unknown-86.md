@@ -11,22 +11,22 @@ top_cards:
 - name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
-- name: Cori-Steel Cutter
+- name: Lava Spike
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Lava Spike
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 3.83
-- name: Barbarian Ring
+- name: Lava Dart
   weight: 1.0
   avg_copies: 3.75
-- name: Lava Dart
+- name: Barbarian Ring
   weight: 1.0
   avg_copies: 3.75
 - name: Light Up the Stage
@@ -95,39 +95,36 @@ top_cards:
 - name: Deflecting Palm
   weight: 0.25
   avg_copies: 1.67
-- name: Magebane Lizard
-  weight: 0.1667
-  avg_copies: 3.0
 - name: Damping Sphere
   weight: 0.1667
   avg_copies: 3.0
-- name: Obsidian Charmaw
+- name: Magebane Lizard
+  weight: 0.1667
+  avg_copies: 3.0
+- name: Pyroclasm
   weight: 0.1667
   avg_copies: 2.5
-- name: Pyroclasm
+- name: Obsidian Charmaw
   weight: 0.1667
   avg_copies: 2.5
 - name: card:reinforced-ronin
   weight: 0.1667
   avg_copies: 1.5
-- name: Mogg Fanatic
+- name: Eidolon of the Great Revel
   weight: 0.0833
   avg_copies: 4.0
 - name: Mutagenic Growth
   weight: 0.0833
   avg_copies: 4.0
-- name: Eidolon of the Great Revel
+- name: Slickshot Show-Off
   weight: 0.0833
   avg_copies: 4.0
-- name: Slickshot Show-Off
+- name: Mogg Fanatic
   weight: 0.0833
   avg_copies: 4.0
 - name: Smash to Smithereens
   weight: 0.0833
   avg_copies: 3.0
-- name: Vexing Bauble
-  weight: 0.0833
-  avg_copies: 2.0
 - name: Path to Exile
   weight: 0.0833
   avg_copies: 2.0
@@ -137,19 +134,22 @@ top_cards:
 - name: Gut Shot
   weight: 0.0833
   avg_copies: 2.0
-- name: Stomping Ground
+- name: Vexing Bauble
   weight: 0.0833
-  avg_copies: 1.0
-- name: Engineered Explosives
+  avg_copies: 2.0
+- name: Stomping Ground
   weight: 0.0833
   avg_copies: 1.0
 - name: Prismatic Ending
   weight: 0.0833
   avg_copies: 1.0
-- name: Sokenzan, Crucible of Defiance
+- name: Commercial District
   weight: 0.0833
   avg_copies: 1.0
-- name: Commercial District
+- name: Engineered Explosives
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Sokenzan, Crucible of Defiance
   weight: 0.0833
   avg_copies: 1.0
 ---

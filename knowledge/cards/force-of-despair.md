@@ -7,7 +7,7 @@ name: Force of Despair
 scryfall_id: 8f497b0d-4448-4201-bd55-c147da1a216d
 set: mh1
 type: Instant
-meta_presence: 0.0382
+meta_presence: 0.0383
 archetypes:
   dimir-control:
     weight: 0.0123
@@ -16,7 +16,7 @@ archetypes:
     weight: 0.9091
     avg_copies: 2.31
   living-end:
-    weight: 0.0135
+    weight: 0.0133
     avg_copies: 1.0
   reanimator:
     weight: 0.6296
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.2083
     avg_copies: 2.0
   esper-blink:
-    weight: 0.0732
+    weight: 0.0692
     avg_copies: 1.67
   orzhov-blink:
     weight: 0.0588
@@ -40,13 +40,13 @@ archetypes:
     weight: 0.0192
     avg_copies: 1.0
   goryo1:
-    weight: 0.1552
+    weight: 0.1534
     avg_copies: 1.85
   goryo5:
-    weight: 0.92
-    avg_copies: 2.6
+    weight: 0.9259
+    avg_copies: 2.62
   unknown-5:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 3.0
   unknown-24:
     weight: 0.8571
@@ -55,14 +55,14 @@ archetypes:
     weight: 0.2857
     avg_copies: 2.0
   unknown-45:
-    weight: 0.8966
-    avg_copies: 1.5
+    weight: 0.9
+    avg_copies: 1.46
   unknown-46:
     weight: 1.0
     avg_copies: 2.82
   unknown-47:
-    weight: 0.3284
-    avg_copies: 1.96
+    weight: 0.3188
+    avg_copies: 1.94
   unknown-54:
     weight: 0.3333
     avg_copies: 2.0
@@ -76,7 +76,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-101:
-    weight: 0.0625
+    weight: 0.0556
     avg_copies: 3.0
   unknown-141:
     weight: 1.0
@@ -94,9 +94,12 @@ archetypes:
     weight: 0.8
     avg_copies: 2.0
   unknown-211:
-    weight: 0.8333
+    weight: 0.7143
     avg_copies: 3.17
   unknown-239:
     weight: 1.0
     avg_copies: 2.0
+  unknown-243:
+    weight: 1.0
+    avg_copies: 1.0
 ---

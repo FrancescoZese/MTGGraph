@@ -10,7 +10,7 @@ type: Creature — Human Cleric
 meta_presence: 0.0158
 archetypes:
   boros-energy:
-    weight: 0.037
+    weight: 0.0381
     avg_copies: 1.93
   burn:
     weight: 0.1538
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.0142
     avg_copies: 3.0
   esper-blink:
-    weight: 0.0163
+    weight: 0.0154
     avg_copies: 1.0
   orzhov-blink:
     weight: 0.1176

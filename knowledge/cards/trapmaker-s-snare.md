@@ -7,9 +7,9 @@ name: Trapmaker's Snare
 scryfall_id: 9cbc98ab-9f8a-41ed-b368-22f1f4ae594b
 set: zen
 type: Instant
-meta_presence: 0.0002
+meta_presence: 0.0001
 archetypes:
   mill:
-    weight: 0.0286
+    weight: 0.0278
     avg_copies: 4.0
 ---

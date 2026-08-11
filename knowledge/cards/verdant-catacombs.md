@@ -6,25 +6,25 @@ name: Verdant Catacombs
 scryfall_id: 94c229ea-90da-4aa0-bfda-b162fb3b5b8b
 set: mh2
 type: Land
-meta_presence: 0.1086
+meta_presence: 0.11
 archetypes:
   dimir-control:
     weight: 0.0123
     avg_copies: 1.0
   goryo:
-    weight: 0.0056
+    weight: 0.0055
     avg_copies: 4.0
   necrodominance:
     weight: 0.2045
     avg_copies: 1.33
   living-end:
-    weight: 0.0811
+    weight: 0.08
     avg_copies: 2.0
   reanimator:
     weight: 0.037
     avg_copies: 4.0
   neoform-combo:
-    weight: 0.12
+    weight: 0.1176
     avg_copies: 1.5
   hollow-one:
     weight: 0.5
@@ -33,7 +33,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   eldrazi-ramp:
-    weight: 0.75
+    weight: 0.752
     avg_copies: 1.05
   simic-ritual:
     weight: 0.8646
@@ -42,7 +42,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.84
   broodscale-combo:
-    weight: 0.3177
+    weight: 0.3168
     avg_copies: 1.09
   elves:
     weight: 1.0
@@ -60,10 +60,10 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   goryo1:
-    weight: 0.0632
+    weight: 0.0625
     avg_copies: 1.0
   goryo5:
-    weight: 0.76
+    weight: 0.7407
     avg_copies: 2.05
   soultrader-combo:
     weight: 0.4286
@@ -90,14 +90,14 @@ archetypes:
     weight: 1.0
     avg_copies: 3.5
   unknown-45:
-    weight: 0.7586
-    avg_copies: 3.86
+    weight: 0.7667
+    avg_copies: 3.74
   unknown-46:
     weight: 1.0
     avg_copies: 3.0
   unknown-47:
-    weight: 0.0746
-    avg_copies: 1.2
+    weight: 0.0797
+    avg_copies: 1.18
   unknown-52:
     weight: 1.0
     avg_copies: 4.0
@@ -123,7 +123,7 @@ archetypes:
     weight: 0.8
     avg_copies: 1.42
   unknown-101:
-    weight: 0.0625
+    weight: 0.0556
     avg_copies: 1.0
   unknown-102:
     weight: 1.0
@@ -136,7 +136,7 @@ archetypes:
     avg_copies: 1.0
   unknown-126:
     weight: 1.0
-    avg_copies: 3.32
+    avg_copies: 3.25
   unknown-130:
     weight: 1.0
     avg_copies: 3.0
@@ -144,8 +144,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-139:
-    weight: 0.7778
-    avg_copies: 1.14
+    weight: 0.8
+    avg_copies: 1.12
   unknown-137:
     weight: 1.0
     avg_copies: 4.0
@@ -177,7 +177,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-211:
-    weight: 0.3333
+    weight: 0.2857
     avg_copies: 4.0
   unknown-214:
     weight: 1.0

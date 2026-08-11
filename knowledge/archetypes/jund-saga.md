@@ -16,25 +16,25 @@ top_cards:
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 3.75
-- name: Thoughtseize
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.25
 - name: Wrenn and Six
   weight: 1.0
   avg_copies: 3.25
-- name: Orcish Bowmasters
-  weight: 1.0
-  avg_copies: 3.25
 - name: Nethergoyf
   weight: 1.0
   avg_copies: 3.25
-- name: Bloodstained Mire
+- name: Thoughtseize
   weight: 1.0
-  avg_copies: 2.75
+  avg_copies: 3.25
 - name: Fatal Push
   weight: 1.0
   avg_copies: 2.75
 - name: Tarmogoyf
+  weight: 1.0
+  avg_copies: 2.75
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.75
 - name: Wooded Foothills
@@ -46,37 +46,37 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.25
-- name: Overgrown Tomb
+- name: Pithing Needle
   weight: 1.0
   avg_copies: 1.25
-- name: Pithing Needle
+- name: Overgrown Tomb
   weight: 1.0
   avg_copies: 1.25
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.17
-- name: Stomping Ground
+- name: Nihil Spellbomb
   weight: 1.0
   avg_copies: 1.0
-- name: Mountain
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
 - name: Forest
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
-- name: Nihil Spellbomb
-  weight: 1.0
-  avg_copies: 1.0
-- name: Shadowspear
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Shadowspear
+  weight: 1.0
+  avg_copies: 1.0
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Inquisition of Kozilek
@@ -85,13 +85,13 @@ top_cards:
 - name: Lightning Bolt
   weight: 0.75
   avg_copies: 2.0
-- name: Fable of the Mirror-Breaker
+- name: Damping Sphere
   weight: 0.75
   avg_copies: 1.33
 - name: Engineered Explosives
   weight: 0.75
   avg_copies: 1.33
-- name: Damping Sphere
+- name: Fable of the Mirror-Breaker
   weight: 0.75
   avg_copies: 1.33
 - name: Underground Mortuary
@@ -106,22 +106,22 @@ top_cards:
 - name: Witherbloom Charm
   weight: 0.5
   avg_copies: 2.0
-- name: Soul-Guide Lantern
-  weight: 0.5
-  avg_copies: 1.5
 - name: Pyroclasm
   weight: 0.5
   avg_copies: 1.5
-- name: Meltdown
+- name: Soul-Guide Lantern
+  weight: 0.5
+  avg_copies: 1.5
+- name: End of the Hunt
   weight: 0.5
   avg_copies: 1.0
 - name: Skateboard
   weight: 0.5
   avg_copies: 1.0
-- name: End of the Hunt
+- name: Tourach, Dread Cantor
   weight: 0.5
   avg_copies: 1.0
-- name: Tourach, Dread Cantor
+- name: Meltdown
   weight: 0.5
   avg_copies: 1.0
 - name: Shoot the Sheriff
@@ -130,28 +130,49 @@ top_cards:
 - name: Tarfire
   weight: 0.5
   avg_copies: 1.0
-- name: card:the-end
-  weight: 0.25
-  avg_copies: 2.0
 - name: Culling Ritual
   weight: 0.25
   avg_copies: 2.0
 - name: Six
   weight: 0.25
   avg_copies: 2.0
+- name: card:the-end
+  weight: 0.25
+  avg_copies: 2.0
 - name: Seasoned Pyromancer
   weight: 0.25
   avg_copies: 1.0
-- name: Grist, the Hunger Tide
+- name: Witherbloom Command
+  weight: 0.25
+  avg_copies: 1.0
+- name: Pick Your Poison
+  weight: 0.25
+  avg_copies: 1.0
+- name: Questing Druid
+  weight: 0.25
+  avg_copies: 1.0
+- name: Brotherhood's End
+  weight: 0.25
+  avg_copies: 1.0
+- name: Fear of Missing Out
+  weight: 0.25
+  avg_copies: 1.0
+- name: Arena of Glory
+  weight: 0.25
+  avg_copies: 1.0
+- name: Professor Dellian Fel
+  weight: 0.25
+  avg_copies: 1.0
+- name: Kroxa, Titan of Death's Hunger
+  weight: 0.25
+  avg_copies: 1.0
+- name: Fire Magic
   weight: 0.25
   avg_copies: 1.0
 - name: Toxic Deluge
   weight: 0.25
   avg_copies: 1.0
 - name: Ghost Vacuum
-  weight: 0.25
-  avg_copies: 1.0
-- name: Molten Rain
   weight: 0.25
   avg_copies: 1.0
 - name: Emperor of Bones
@@ -163,43 +184,22 @@ top_cards:
 - name: Graveyard Trespasser
   weight: 0.25
   avg_copies: 1.0
-- name: Witherbloom Command
-  weight: 0.25
-  avg_copies: 1.0
-- name: Arena of Glory
-  weight: 0.25
-  avg_copies: 1.0
-- name: Fear of Missing Out
-  weight: 0.25
-  avg_copies: 1.0
-- name: Assassin's Trophy
-  weight: 0.25
-  avg_copies: 1.0
-- name: Kroxa, Titan of Death's Hunger
-  weight: 0.25
-  avg_copies: 1.0
-- name: Questing Druid
-  weight: 0.25
-  avg_copies: 1.0
 - name: Sheoldred's Edict
   weight: 0.25
   avg_copies: 1.0
-- name: Dark Confidant
+- name: Grist, the Hunger Tide
   weight: 0.25
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.25
   avg_copies: 1.0
-- name: Pick Your Poison
+- name: Assassin's Trophy
   weight: 0.25
   avg_copies: 1.0
-- name: Brotherhood's End
+- name: Dark Confidant
   weight: 0.25
   avg_copies: 1.0
-- name: Professor Dellian Fel
-  weight: 0.25
-  avg_copies: 1.0
-- name: Fire Magic
+- name: Molten Rain
   weight: 0.25
   avg_copies: 1.0
 ---

@@ -2,7 +2,7 @@
 colors:
 - U
 name: Mono Blue Belcher
-meta_share: 0.0134
+meta_share: 0.0132
 list_count: 89
 top_cards:
 - name: Goblin Charbelcher
@@ -11,19 +11,19 @@ top_cards:
 - name: Whir of Invention
   weight: 1.0
   avg_copies: 4.0
-- name: Tameshi, Reality Architect
+- name: Lotus Bloom
   weight: 1.0
   avg_copies: 3.99
-- name: Lotus Bloom
+- name: Tameshi, Reality Architect
   weight: 1.0
   avg_copies: 3.99
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 3.98
-- name: Hydroelectric Specimen
+- name: Disrupting Shoal
   weight: 1.0
   avg_copies: 3.97
-- name: Disrupting Shoal
+- name: Hydroelectric Specimen
   weight: 1.0
   avg_copies: 3.97
 - name: Sea Gate Restoration
@@ -152,37 +152,37 @@ top_cards:
 - name: Ceremonious Rejection
   weight: 0.0112
   avg_copies: 2.0
-- name: Erode
-  weight: 0.0112
-  avg_copies: 1.0
-- name: card:diary-of-dreams
-  weight: 0.0112
-  avg_copies: 1.0
-- name: Witch Enchanter
-  weight: 0.0112
-  avg_copies: 1.0
-- name: Shadow of Doubt
-  weight: 0.0112
-  avg_copies: 1.0
-- name: Isochron Scepter
-  weight: 0.0112
-  avg_copies: 1.0
-- name: Dress Down
-  weight: 0.0112
-  avg_copies: 1.0
 - name: Hope of Ghirapur
-  weight: 0.0112
-  avg_copies: 1.0
-- name: Displacement Wave
   weight: 0.0112
   avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.0112
   avg_copies: 1.0
+- name: card:threads-of-disloyalty
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Shadow of Doubt
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Displacement Wave
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Witch Enchanter
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Erode
+  weight: 0.0112
+  avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.0112
   avg_copies: 1.0
-- name: card:threads-of-disloyalty
+- name: card:diary-of-dreams
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Dress Down
+  weight: 0.0112
+  avg_copies: 1.0
+- name: Isochron Scepter
   weight: 0.0112
   avg_copies: 1.0
 ---

@@ -10,6 +10,6 @@ type: Artifact — Equipment
 meta_presence: 0.0018
 archetypes:
   unknown-45:
-    weight: 0.4138
+    weight: 0.4
     avg_copies: 1.0
 ---

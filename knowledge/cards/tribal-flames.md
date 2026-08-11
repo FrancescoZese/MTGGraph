@@ -7,11 +7,11 @@ name: Tribal Flames
 scryfall_id: d22418cd-4c49-4754-aa75-17f6eaf1639a
 set: mm2
 type: Sorcery
-meta_presence: 0.0032
+meta_presence: 0.0033
 archetypes:
   domain-zoo:
-    weight: 0.028
-    avg_copies: 3.0
+    weight: 0.0347
+    avg_copies: 2.6
   soultrader-combo0:
     weight: 1.0
     avg_copies: 4.0

@@ -7,7 +7,7 @@ name: Detention Chariot
 scryfall_id: 75d5e64f-7af2-4cb4-abd1-23992e346bee
 set: dft
 type: Artifact — Vehicle
-meta_presence: 0.0002
+meta_presence: 0.0001
 archetypes:
   eldrazi-tron:
     weight: 0.0032

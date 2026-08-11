@@ -8,13 +8,13 @@ name: Emptiness
 scryfall_id: c6409eca-bef6-4f3a-8bbb-d69ec5dbfc13
 set: ecl
 type: Creature — Elemental Incarnation
-meta_presence: 0.0005
+meta_presence: 0.0004
 archetypes:
   mardu-blink:
     weight: 0.0417
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0081
+    weight: 0.0077
     avg_copies: 1.0
   orzhov-blink:
     weight: 0.0588

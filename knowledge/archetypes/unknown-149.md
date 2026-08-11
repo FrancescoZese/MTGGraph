@@ -4,22 +4,22 @@ colors:
 - U
 - R
 name: 'Unknown #149'
-meta_share: 0.0017
+meta_share: 0.0016
 list_count: 11
 top_cards:
-- name: Flooded Strand
+- name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 4.0
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
-- name: Ocelot Pride
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ajani, Nacatl Pariah
-  weight: 1.0
-  avg_copies: 4.0
 - name: Guide of Souls
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
@@ -31,10 +31,10 @@ top_cards:
 - name: Goblin Bombardment
   weight: 1.0
   avg_copies: 2.91
-- name: Witch Enchanter
+- name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 2.73
-- name: Ragavan, Nimble Pilferer
+- name: Witch Enchanter
   weight: 1.0
   avg_copies: 2.73
 - name: Consign to Memory
@@ -55,6 +55,9 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.09
+- name: Elegant Parlor
+  weight: 1.0
+  avg_copies: 1.0
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
@@ -62,9 +65,6 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Island
@@ -88,10 +88,10 @@ top_cards:
 - name: Orim's Chant
   weight: 0.5455
   avg_copies: 2.0
-- name: Fable of the Mirror-Breaker
+- name: Lavinia, Azorius Renegade
   weight: 0.5455
   avg_copies: 1.83
-- name: Lavinia, Azorius Renegade
+- name: Fable of the Mirror-Breaker
   weight: 0.5455
   avg_copies: 1.83
 - name: Phelia, Exuberant Shepherd
@@ -142,22 +142,22 @@ top_cards:
 - name: Arena of Glory
   weight: 0.1818
   avg_copies: 1.0
-- name: Voice of Victory
-  weight: 0.0909
-  avg_copies: 2.0
 - name: Clarion Conqueror
   weight: 0.0909
   avg_copies: 2.0
 - name: Marsh Flats
   weight: 0.0909
   avg_copies: 2.0
+- name: Voice of Victory
+  weight: 0.0909
+  avg_copies: 2.0
+- name: March of Otherworldly Light
+  weight: 0.0909
+  avg_copies: 1.0
 - name: Containment Priest
   weight: 0.0909
   avg_copies: 1.0
 - name: Detect Intrusion
-  weight: 0.0909
-  avg_copies: 1.0
-- name: March of Otherworldly Light
   weight: 0.0909
   avg_copies: 1.0
 ---

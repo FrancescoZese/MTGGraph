@@ -10,10 +10,10 @@ type: Creature — Bird Pilot // Instant
 meta_presence: 0.0033
 archetypes:
   living-end:
-    weight: 0.0135
+    weight: 0.0133
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0488
+    weight: 0.0462
     avg_copies: 1.0
   azorius-blink:
     weight: 0.0152

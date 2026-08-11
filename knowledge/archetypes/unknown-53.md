@@ -10,10 +10,10 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Scalding Tarn
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Preordain
   weight: 1.0
   avg_copies: 4.0
 - name: Dragon's Rage Channeler
@@ -22,7 +22,7 @@ top_cards:
 - name: Expressive Iteration
   weight: 1.0
   avg_copies: 4.0
-- name: Preordain
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
 - name: Steam Vents
@@ -31,28 +31,28 @@ top_cards:
 - name: Unholy Heat
   weight: 1.0
   avg_copies: 3.5
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 3.5
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 3.5
-- name: Subtlety
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 3.5
+- name: Force of Negation
   weight: 1.0
   avg_copies: 3.0
-- name: Force of Negation
+- name: Subtlety
   weight: 1.0
   avg_copies: 3.0
 - name: Murktide Regent
   weight: 1.0
   avg_copies: 2.5
+- name: Surgical Extraction
+  weight: 1.0
+  avg_copies: 2.0
 - name: Meltdown
   weight: 1.0
   avg_copies: 2.0
 - name: Mystical Dispute
-  weight: 1.0
-  avg_copies: 2.0
-- name: Surgical Extraction
   weight: 1.0
   avg_copies: 2.0
 - name: Island
@@ -64,25 +64,25 @@ top_cards:
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
-- name: Cori-Steel Cutter
-  weight: 0.5
-  avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
-  weight: 0.5
-  avg_copies: 4.0
-- name: Counterspell
   weight: 0.5
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 0.5
   avg_copies: 4.0
-- name: Flow State
+- name: Cori-Steel Cutter
   weight: 0.5
-  avg_copies: 3.0
+  avg_copies: 4.0
+- name: Counterspell
+  weight: 0.5
+  avg_copies: 4.0
 - name: Spirebluff Canal
   weight: 0.5
   avg_copies: 3.0
-- name: Screaming Nemesis
+- name: Flow State
+  weight: 0.5
+  avg_copies: 3.0
+- name: Watery Grave
   weight: 0.5
   avg_copies: 2.0
 - name: Spell Snare
@@ -91,19 +91,19 @@ top_cards:
 - name: Stern Scolding
   weight: 0.5
   avg_copies: 2.0
-- name: Watery Grave
+- name: Screaming Nemesis
   weight: 0.5
   avg_copies: 2.0
 - name: Bloodstained Mire
   weight: 0.5
   avg_copies: 2.0
-- name: Mountain
-  weight: 0.5
-  avg_copies: 1.0
-- name: Hurkyl's Recall
+- name: Nihil Spellbomb
   weight: 0.5
   avg_copies: 1.0
 - name: Damping Sphere
+  weight: 0.5
+  avg_copies: 1.0
+- name: Hurkyl's Recall
   weight: 0.5
   avg_copies: 1.0
 - name: Flooded Strand
@@ -112,7 +112,7 @@ top_cards:
 - name: Fire Magic
   weight: 0.5
   avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Mountain
   weight: 0.5
   avg_copies: 1.0
 ---

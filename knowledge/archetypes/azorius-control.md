@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: Azorius Control
-meta_share: 0.0148
+meta_share: 0.0146
 list_count: 98
 top_cards:
 - name: Flooded Strand
@@ -219,7 +219,7 @@ top_cards:
 - name: Fire Magic
   weight: 0.0306
   avg_copies: 1.67
-- name: Mistrise Village
+- name: Vendilion Clique
   weight: 0.0306
   avg_copies: 1.0
 - name: Waterlogged Teachings
@@ -228,7 +228,7 @@ top_cards:
 - name: Snow-Covered Plains
   weight: 0.0306
   avg_copies: 1.0
-- name: Vendilion Clique
+- name: Mistrise Village
   weight: 0.0306
   avg_copies: 1.0
 - name: Thundertrap Trainer
@@ -237,16 +237,16 @@ top_cards:
 - name: Pyroclasm
   weight: 0.0204
   avg_copies: 1.5
-- name: Tamiyo, Inquisitive Student
+- name: Gemstone Caverns
   weight: 0.0204
   avg_copies: 1.0
-- name: Dress Down
+- name: Tamiyo, Inquisitive Student
   weight: 0.0204
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.0204
   avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Dress Down
   weight: 0.0204
   avg_copies: 1.0
 - name: Elegant Parlor
@@ -258,13 +258,16 @@ top_cards:
 - name: Wear
   weight: 0.0102
   avg_copies: 2.0
-- name: Hurkyl's Recall
-  weight: 0.0102
-  avg_copies: 1.0
 - name: card:bribery
   weight: 0.0102
   avg_copies: 1.0
-- name: Commandeer
+- name: Hurkyl's Recall
+  weight: 0.0102
+  avg_copies: 1.0
+- name: Petrified Hamlet
+  weight: 0.0102
+  avg_copies: 1.0
+- name: Flashback
   weight: 0.0102
   avg_copies: 1.0
 - name: Strix Serenade
@@ -273,7 +276,7 @@ top_cards:
 - name: Damping Sphere
   weight: 0.0102
   avg_copies: 1.0
-- name: Petrified Hamlet
+- name: Commandeer
   weight: 0.0102
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
@@ -282,16 +285,13 @@ top_cards:
 - name: Restless Anchorage
   weight: 0.0102
   avg_copies: 1.0
-- name: Get Lost
-  weight: 0.0102
-  avg_copies: 1.0
 - name: Logic Knot
   weight: 0.0102
   avg_copies: 1.0
-- name: Flashback
+- name: Meltdown
   weight: 0.0102
   avg_copies: 1.0
-- name: Meltdown
+- name: Get Lost
   weight: 0.0102
   avg_copies: 1.0
 ---
