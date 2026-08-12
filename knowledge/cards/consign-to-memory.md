@@ -7,7 +7,7 @@ name: Consign to Memory
 scryfall_id: bc95af55-d1dd-4fe6-adb0-3ad6db20d986
 set: mh3
 type: Instant
-meta_presence: 0.4684
+meta_presence: 0.4682
 archetypes:
   ruby-storm:
     weight: 0.0041

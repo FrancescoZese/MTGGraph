@@ -219,9 +219,6 @@ top_cards:
 - name: Fire Magic
   weight: 0.0306
   avg_copies: 1.67
-- name: Vendilion Clique
-  weight: 0.0306
-  avg_copies: 1.0
 - name: Waterlogged Teachings
   weight: 0.0306
   avg_copies: 1.0
@@ -231,25 +228,28 @@ top_cards:
 - name: Mistrise Village
   weight: 0.0306
   avg_copies: 1.0
+- name: Vendilion Clique
+  weight: 0.0306
+  avg_copies: 1.0
 - name: Thundertrap Trainer
   weight: 0.0204
   avg_copies: 4.0
 - name: Pyroclasm
   weight: 0.0204
   avg_copies: 1.5
-- name: Gemstone Caverns
+- name: Tamiyo, Inquisitive Student
   weight: 0.0204
   avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
+- name: Elegant Parlor
   weight: 0.0204
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.0204
   avg_copies: 1.0
-- name: Dress Down
+- name: Gemstone Caverns
   weight: 0.0204
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Dress Down
   weight: 0.0204
   avg_copies: 1.0
 - name: Obsidian Charmaw
@@ -258,40 +258,40 @@ top_cards:
 - name: Wear
   weight: 0.0102
   avg_copies: 2.0
-- name: card:bribery
-  weight: 0.0102
-  avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.0102
-  avg_copies: 1.0
-- name: Petrified Hamlet
-  weight: 0.0102
-  avg_copies: 1.0
-- name: Flashback
-  weight: 0.0102
-  avg_copies: 1.0
-- name: Strix Serenade
-  weight: 0.0102
-  avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.0102
   avg_copies: 1.0
 - name: Commandeer
   weight: 0.0102
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
+- name: Strix Serenade
   weight: 0.0102
   avg_copies: 1.0
-- name: Restless Anchorage
+- name: Elesh Norn, Mother of Machines
   weight: 0.0102
   avg_copies: 1.0
 - name: Logic Knot
   weight: 0.0102
   avg_copies: 1.0
+- name: Flashback
+  weight: 0.0102
+  avg_copies: 1.0
+- name: Hurkyl's Recall
+  weight: 0.0102
+  avg_copies: 1.0
 - name: Meltdown
   weight: 0.0102
   avg_copies: 1.0
+- name: card:bribery
+  weight: 0.0102
+  avg_copies: 1.0
 - name: Get Lost
+  weight: 0.0102
+  avg_copies: 1.0
+- name: Petrified Hamlet
+  weight: 0.0102
+  avg_copies: 1.0
+- name: Restless Anchorage
   weight: 0.0102
   avg_copies: 1.0
 ---

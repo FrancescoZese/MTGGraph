@@ -6,7 +6,7 @@ name: Vexing Bauble
 scryfall_id: 29f11089-658f-42e6-aeb0-09b512ad2479
 set: mh3
 type: Artifact
-meta_presence: 0.3741
+meta_presence: 0.374
 archetypes:
   ruby-storm:
     weight: 0.1037

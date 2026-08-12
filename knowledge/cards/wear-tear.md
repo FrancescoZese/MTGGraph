@@ -8,14 +8,14 @@ name: Wear // Tear
 scryfall_id: e01cc65a-0e38-4f41-b9ed-796ef0355d0b
 set: moc
 type: Instant // Instant
-meta_presence: 0.2311
+meta_presence: 0.1236
 archetypes:
   ruby-storm:
     weight: 0.8714
     avg_copies: 2.24
   boros-energy:
-    weight: 0.9527
-    avg_copies: 1.63
+    weight: 0.0026
+    avg_copies: 2.0
   jeskai-energy:
     weight: 0.3459
     avg_copies: 1.2

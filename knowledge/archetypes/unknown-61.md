@@ -146,40 +146,40 @@ top_cards:
 - name: Thief of Existence
   weight: 0.0104
   avg_copies: 3.0
-- name: Nature's Claim
-  weight: 0.0104
-  avg_copies: 3.0
 - name: Creeping Corrosion
   weight: 0.0104
   avg_copies: 3.0
-- name: card:null-elemental-blast
+- name: Nature's Claim
+  weight: 0.0104
+  avg_copies: 3.0
+- name: Soul-Guide Lantern
   weight: 0.0104
   avg_copies: 2.0
-- name: Soul-Guide Lantern
+- name: card:null-elemental-blast
   weight: 0.0104
   avg_copies: 2.0
 - name: Hashep Oasis
   weight: 0.0104
   avg_copies: 2.0
-- name: Shifting Woodland
+- name: Insidious Fungus
   weight: 0.0104
   avg_copies: 1.0
-- name: Ouroboroid
+- name: Shifting Woodland
   weight: 0.0104
   avg_copies: 1.0
 - name: Grafdigger's Cage
   weight: 0.0104
   avg_copies: 1.0
-- name: Outland Liberator
+- name: Surgical Extraction
   weight: 0.0104
   avg_copies: 1.0
-- name: Insidious Fungus
+- name: Outland Liberator
   weight: 0.0104
   avg_copies: 1.0
 - name: Tajuru Preserver
   weight: 0.0104
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Ouroboroid
   weight: 0.0104
   avg_copies: 1.0
 - name: Ghalta, Stampede Tyrant

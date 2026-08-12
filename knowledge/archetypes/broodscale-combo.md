@@ -219,19 +219,19 @@ top_cards:
 - name: card:llanowar-wastes
   weight: 0.0132
   avg_copies: 4.0
-- name: Thoughtseize
-  weight: 0.0132
-  avg_copies: 3.0
 - name: Sephiroth, Fabled SOLDIER
   weight: 0.0132
   avg_copies: 3.0
+- name: Thoughtseize
+  weight: 0.0132
+  avg_copies: 3.0
+- name: Agatha's Soul Cauldron
+  weight: 0.0132
+  avg_copies: 2.0
 - name: Fatal Push
   weight: 0.0132
   avg_copies: 2.0
 - name: Culling Ritual
-  weight: 0.0132
-  avg_copies: 2.0
-- name: Agatha's Soul Cauldron
   weight: 0.0132
   avg_copies: 2.0
 - name: Wastescape Battlemage
@@ -240,10 +240,10 @@ top_cards:
 - name: Mutagenic Growth
   weight: 0.0132
   avg_copies: 1.0
-- name: Overgrown Tomb
+- name: Underground Mortuary
   weight: 0.0132
   avg_copies: 1.0
-- name: Underground Mortuary
+- name: Overgrown Tomb
   weight: 0.0132
   avg_copies: 1.0
 - name: Drowner of Truth
@@ -258,19 +258,19 @@ top_cards:
 - name: Shadowspear
   weight: 0.0099
   avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Swamp
   weight: 0.0099
   avg_copies: 1.0
-- name: Swamp
+- name: Nurturing Peatland
   weight: 0.0099
   avg_copies: 1.0
 - name: Revitalizing Repast
   weight: 0.0066
   avg_copies: 2.5
-- name: Snow-Covered Forest
+- name: card:llanowar-reborn
   weight: 0.0066
   avg_copies: 2.0
-- name: card:llanowar-reborn
+- name: Snow-Covered Forest
   weight: 0.0066
   avg_copies: 2.0
 - name: card:mj-lnir-hammer-of-thor
@@ -279,40 +279,40 @@ top_cards:
 - name: Skateboard
   weight: 0.0066
   avg_copies: 1.0
-- name: Ghost Vacuum
+- name: Meltdown
   weight: 0.0066
   avg_copies: 1.0
-- name: Meltdown
+- name: Ghost Vacuum
   weight: 0.0066
   avg_copies: 1.0
 - name: Lightning Bolt
   weight: 0.0066
   avg_copies: 1.0
+- name: Brushland
+  weight: 0.0033
+  avg_copies: 4.0
 - name: Spire of Industry
   weight: 0.0033
   avg_copies: 4.0
 - name: Eldrazi Linebreaker
   weight: 0.0033
   avg_copies: 4.0
-- name: Brushland
-  weight: 0.0033
-  avg_copies: 4.0
-- name: Darksteel Citadel
+- name: Path to Exile
   weight: 0.0033
   avg_copies: 3.0
 - name: Mox Opal
   weight: 0.0033
   avg_copies: 3.0
-- name: Path to Exile
+- name: Darksteel Citadel
   weight: 0.0033
   avg_copies: 3.0
 - name: Formidable Speaker
   weight: 0.0033
   avg_copies: 3.0
-- name: Snakeskin Veil
+- name: Idol of False Gods
   weight: 0.0033
   avg_copies: 2.0
-- name: Idol of False Gods
+- name: Deafening Silence
   weight: 0.0033
   avg_copies: 2.0
 - name: Cursed Totem
@@ -324,25 +324,25 @@ top_cards:
 - name: Heroic Intervention
   weight: 0.0033
   avg_copies: 2.0
-- name: Deafening Silence
+- name: Snakeskin Veil
   weight: 0.0033
   avg_copies: 2.0
-- name: Expedition Map
+- name: Pawpatch Formation
   weight: 0.0033
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.0033
   avg_copies: 1.0
+- name: Tunnel Ignus
+  weight: 0.0033
+  avg_copies: 1.0
+- name: Expedition Map
+  weight: 0.0033
+  avg_copies: 1.0
 - name: Kozilek's Return
   weight: 0.0033
   avg_copies: 1.0
-- name: Pawpatch Formation
-  weight: 0.0033
-  avg_copies: 1.0
 - name: Mishra's Research Desk
-  weight: 0.0033
-  avg_copies: 1.0
-- name: Tunnel Ignus
   weight: 0.0033
   avg_copies: 1.0
 ---

@@ -9,10 +9,10 @@ top_cards:
 - name: Hollow One
   weight: 1.0
   avg_copies: 4.0
-- name: Street Wraith
+- name: Detective's Phoenix
   weight: 1.0
   avg_copies: 4.0
-- name: Detective's Phoenix
+- name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
 - name: Faithless Looting
@@ -54,10 +54,10 @@ top_cards:
 - name: Thoughtseize
   weight: 0.8333
   avg_copies: 2.14
-- name: Arid Mesa
+- name: Scalding Tarn
   weight: 0.8333
   avg_copies: 1.8
-- name: Scalding Tarn
+- name: Arid Mesa
   weight: 0.8333
   avg_copies: 1.8
 - name: Arena of Glory
@@ -102,10 +102,10 @@ top_cards:
 - name: Fear of Missing Out
   weight: 0.3333
   avg_copies: 2.33
-- name: Obsidian Charmaw
+- name: Tarfire
   weight: 0.3333
   avg_copies: 2.0
-- name: Tarfire
+- name: Obsidian Charmaw
   weight: 0.3333
   avg_copies: 2.0
 - name: Mount Doom
@@ -144,37 +144,37 @@ top_cards:
 - name: Mishra's Bauble
   weight: 0.0556
   avg_copies: 4.0
-- name: Kroxa, Titan of Death's Hunger
+- name: Force of Despair
   weight: 0.0556
   avg_copies: 3.0
-- name: Force of Despair
+- name: Kroxa, Titan of Death's Hunger
   weight: 0.0556
   avg_copies: 3.0
 - name: Practiced Offense
   weight: 0.0556
   avg_copies: 2.0
-- name: Blackcleave Cliffs
+- name: Kolaghan's Command
   weight: 0.0556
   avg_copies: 1.0
-- name: Goblin Lore
+- name: Blackcleave Cliffs
   weight: 0.0556
   avg_copies: 1.0
 - name: Verdant Catacombs
   weight: 0.0556
   avg_copies: 1.0
-- name: Molten Collapse
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Kolaghan's Command
-  weight: 0.0556
-  avg_copies: 1.0
 - name: Godless Shrine
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Goblin Lore
   weight: 0.0556
   avg_copies: 1.0
 - name: Cool but Rude
   weight: 0.0556
   avg_copies: 1.0
 - name: Seal of Fire
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Molten Collapse
   weight: 0.0556
   avg_copies: 1.0
 ---

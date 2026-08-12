@@ -6,16 +6,16 @@ name: 'Unknown #125'
 meta_share: 0.0016
 list_count: 11
 top_cards:
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 4.0
-- name: Unearth
+- name: Abhorrent Oculus
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Abhorrent Oculus
+- name: Unearth
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -42,10 +42,10 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 1.0
   avg_copies: 2.0
-- name: Undercity Sewers
+- name: Spell Snare
   weight: 1.0
   avg_copies: 2.0
-- name: Spell Snare
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 2.0
 - name: Sink into Stupor
@@ -87,13 +87,13 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.4545
   avg_copies: 2.0
-- name: Gloomlake Verge
-  weight: 0.4545
-  avg_copies: 1.6
 - name: Stern Scolding
   weight: 0.4545
   avg_copies: 1.6
 - name: Dress Down
+  weight: 0.4545
+  avg_copies: 1.6
+- name: Gloomlake Verge
   weight: 0.4545
   avg_copies: 1.6
 - name: Scalding Tarn
@@ -117,13 +117,13 @@ top_cards:
 - name: Damnation
   weight: 0.2727
   avg_copies: 2.0
+- name: Shoot the Sheriff
+  weight: 0.2727
+  avg_copies: 1.0
 - name: Go for the Throat
   weight: 0.2727
   avg_copies: 1.0
 - name: The Meathook Massacre
-  weight: 0.2727
-  avg_copies: 1.0
-- name: Shoot the Sheriff
   weight: 0.2727
   avg_copies: 1.0
 - name: Subtlety

@@ -7,7 +7,7 @@ name: Thoughtseize
 scryfall_id: b281a308-ab6b-47b6-bec7-632c9aaecede
 set: 2xm
 type: Sorcery
-meta_presence: 0.2299
+meta_presence: 0.2298
 archetypes:
   ruby-storm:
     weight: 0.0124

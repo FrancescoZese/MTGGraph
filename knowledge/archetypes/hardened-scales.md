@@ -5,13 +5,13 @@ name: Hardened Scales
 meta_share: 0.0007
 list_count: 5
 top_cards:
+- name: Arcbound Ravager
+  weight: 1.0
+  avg_copies: 4.0
 - name: Hardened Scales
   weight: 1.0
   avg_copies: 4.0
 - name: Walking Ballista
-  weight: 1.0
-  avg_copies: 4.0
-- name: Arcbound Ravager
   weight: 1.0
   avg_copies: 4.0
 - name: Zabaz, the Glimmerwasp
@@ -35,16 +35,16 @@ top_cards:
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 2.8
-- name: Arcbound Worker
-  weight: 1.0
-  avg_copies: 1.8
 - name: Welding Jar
   weight: 1.0
   avg_copies: 1.8
-- name: Boseiju, Who Endures
+- name: Arcbound Worker
   weight: 1.0
   avg_copies: 1.8
 - name: Dismember
+  weight: 1.0
+  avg_copies: 1.8
+- name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.8
 - name: Grafdigger's Cage
@@ -86,16 +86,16 @@ top_cards:
 - name: Veil of Summer
   weight: 0.6
   avg_copies: 1.0
-- name: Tormod's Crypt
+- name: Pithing Needle
   weight: 0.6
   avg_copies: 1.0
 - name: Haywire Mite
   weight: 0.6
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Pendelhaven
   weight: 0.6
   avg_copies: 1.0
-- name: Pendelhaven
+- name: Tormod's Crypt
   weight: 0.6
   avg_copies: 1.0
 - name: Strength of Will
@@ -113,13 +113,13 @@ top_cards:
 - name: Marketback Walker
   weight: 0.2
   avg_copies: 4.0
-- name: Patchwork Automaton
-  weight: 0.2
-  avg_copies: 4.0
 - name: Karplusan Forest
   weight: 0.2
   avg_copies: 4.0
 - name: Metallic Mimic
+  weight: 0.2
+  avg_copies: 4.0
+- name: Patchwork Automaton
   weight: 0.2
   avg_copies: 4.0
 - name: Ancient Stirrings
@@ -128,28 +128,28 @@ top_cards:
 - name: Warping Wail
   weight: 0.2
   avg_copies: 2.0
-- name: card:llanowar-reborn
-  weight: 0.2
-  avg_copies: 1.0
 - name: card:animation-module
   weight: 0.2
   avg_copies: 1.0
-- name: card:throne-of-geth
+- name: card:llanowar-reborn
   weight: 0.2
   avg_copies: 1.0
-- name: Ba Sing Se
-  weight: 0.2
-  avg_copies: 1.0
-- name: Bridgeworks Battle
-  weight: 0.2
-  avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Shadowspear
   weight: 0.2
   avg_copies: 1.0
 - name: Scrapyard Recombiner
   weight: 0.2
   avg_copies: 1.0
-- name: Shadowspear
+- name: Bridgeworks Battle
+  weight: 0.2
+  avg_copies: 1.0
+- name: Ba Sing Se
+  weight: 0.2
+  avg_copies: 1.0
+- name: card:throne-of-geth
+  weight: 0.2
+  avg_copies: 1.0
+- name: Gemstone Caverns
   weight: 0.2
   avg_copies: 1.0
 ---

@@ -5,22 +5,22 @@ name: 'Unknown #194'
 meta_share: 0.0006
 list_count: 4
 top_cards:
-- name: Ugin's Labyrinth
-  weight: 1.0
-  avg_copies: 4.0
-- name: Sowing Mycospawn
-  weight: 1.0
-  avg_copies: 4.0
 - name: Kozilek's Command
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
 - name: Basking Broodscale
   weight: 1.0
   avg_copies: 4.0
+- name: Malevolent Rumble
+  weight: 1.0
+  avg_copies: 4.0
 - name: Devourer of Destiny
   weight: 1.0
   avg_copies: 4.0
-- name: Malevolent Rumble
+- name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
@@ -50,10 +50,10 @@ top_cards:
 - name: Springleaf Drum
   weight: 1.0
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Grafdigger's Cage
   weight: 1.0
   avg_copies: 1.0
 - name: Cavern of Souls
@@ -80,10 +80,10 @@ top_cards:
 - name: Drowner of Truth
   weight: 0.5
   avg_copies: 4.0
-- name: Talisman of Curiosity
+- name: Glaring Fleshraker
   weight: 0.5
   avg_copies: 3.5
-- name: Glaring Fleshraker
+- name: Talisman of Curiosity
   weight: 0.5
   avg_copies: 3.5
 - name: Consign to Memory
@@ -92,10 +92,10 @@ top_cards:
 - name: Grove of the Burnwillows
   weight: 0.5
   avg_copies: 2.5
-- name: Nature's Claim
+- name: Wastescape Battlemage
   weight: 0.5
   avg_copies: 2.0
-- name: Wastescape Battlemage
+- name: Nature's Claim
   weight: 0.5
   avg_copies: 2.0
 - name: Skateboard
@@ -107,31 +107,31 @@ top_cards:
 - name: Disruptor Flute
   weight: 0.25
   avg_copies: 2.0
-- name: Breeding Pool
-  weight: 0.25
-  avg_copies: 1.0
-- name: Shifting Woodland
-  weight: 0.25
-  avg_copies: 1.0
-- name: Formidable Speaker
-  weight: 0.25
-  avg_copies: 1.0
-- name: Nulldrifter
+- name: Sire of Seven Deaths
   weight: 0.25
   avg_copies: 1.0
 - name: Sanctum of Ugin
   weight: 0.25
   avg_copies: 1.0
-- name: Ghost Quarter
-  weight: 0.25
-  avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Shifting Woodland
   weight: 0.25
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.25
   avg_copies: 1.0
-- name: Sire of Seven Deaths
+- name: Breeding Pool
+  weight: 0.25
+  avg_copies: 1.0
+- name: Ghost Quarter
+  weight: 0.25
+  avg_copies: 1.0
+- name: Nulldrifter
+  weight: 0.25
+  avg_copies: 1.0
+- name: Formidable Speaker
+  weight: 0.25
+  avg_copies: 1.0
+- name: Gemstone Caverns
   weight: 0.25
   avg_copies: 1.0
 ---

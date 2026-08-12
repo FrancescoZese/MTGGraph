@@ -9,13 +9,16 @@ name: 'Unknown #72'
 meta_share: 0.0001
 list_count: 1
 top_cards:
-- name: Wooded Foothills
-  weight: 1.0
-  avg_copies: 4.0
 - name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodbraid Marauder
+- name: Leyline of the Guildpact
+  weight: 1.0
+  avg_copies: 4.0
+- name: Malevolent Rumble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline Binding
@@ -24,21 +27,9 @@ top_cards:
 - name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
-- name: Malevolent Rumble
+- name: Bloodbraid Marauder
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline of the Guildpact
-  weight: 1.0
-  avg_copies: 4.0
-- name: Damping Sphere
-  weight: 1.0
-  avg_copies: 3.0
-- name: Territorial Kavu
-  weight: 1.0
-  avg_copies: 3.0
-- name: Clarion Conqueror
-  weight: 1.0
-  avg_copies: 3.0
 - name: Oliphaunt
   weight: 1.0
   avg_copies: 3.0
@@ -48,28 +39,37 @@ top_cards:
 - name: Generous Ent
   weight: 1.0
   avg_copies: 3.0
-- name: Teferi, Time Raveler
+- name: Territorial Kavu
+  weight: 1.0
+  avg_copies: 3.0
+- name: Clarion Conqueror
+  weight: 1.0
+  avg_copies: 3.0
+- name: Damping Sphere
+  weight: 1.0
+  avg_copies: 3.0
+- name: Inevitable Betrayal
   weight: 1.0
   avg_copies: 2.0
 - name: Doorkeeper Thrull
   weight: 1.0
   avg_copies: 2.0
-- name: Inevitable Betrayal
+- name: Endurance
   weight: 1.0
   avg_copies: 2.0
-- name: Endurance
+- name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 2.0
 - name: Windswept Heath
   weight: 1.0
   avg_copies: 1.0
+- name: Wear
+  weight: 1.0
+  avg_copies: 1.0
+- name: Glassdust Hulk
+  weight: 1.0
+  avg_copies: 1.0
 - name: Stomping Ground
-  weight: 1.0
-  avg_copies: 1.0
-- name: Breeding Pool
-  weight: 1.0
-  avg_copies: 1.0
-- name: Incubation
   weight: 1.0
   avg_copies: 1.0
 - name: Temple Garden
@@ -78,25 +78,13 @@ top_cards:
 - name: Lush Portico
   weight: 1.0
   avg_copies: 1.0
-- name: Forest
-  weight: 1.0
-  avg_copies: 1.0
-- name: Voice of Victory
-  weight: 1.0
-  avg_copies: 1.0
-- name: Zagoth Triome
-  weight: 1.0
-  avg_copies: 1.0
-- name: Drannith Magistrate
-  weight: 1.0
-  avg_copies: 1.0
-- name: Glassdust Hulk
-  weight: 1.0
-  avg_copies: 1.0
 - name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Arid Mesa
+  weight: 1.0
+  avg_copies: 1.0
+- name: Voice of Victory
   weight: 1.0
   avg_copies: 1.0
 - name: Xander's Lounge
@@ -105,13 +93,25 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 1.0
-- name: Mountain
+- name: Incubation
   weight: 1.0
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
-- name: Wear
+- name: Drannith Magistrate
+  weight: 1.0
+  avg_copies: 1.0
+- name: Forest
+  weight: 1.0
+  avg_copies: 1.0
+- name: Zagoth Triome
+  weight: 1.0
+  avg_copies: 1.0
+- name: Mountain
+  weight: 1.0
+  avg_copies: 1.0
+- name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
 ---

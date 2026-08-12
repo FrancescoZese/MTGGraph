@@ -6,6 +6,15 @@ name: 'Unknown #58'
 meta_share: 0.0004
 list_count: 3
 top_cards:
+- name: Persist
+  weight: 1.0
+  avg_copies: 4.0
+- name: Street Wraith
+  weight: 1.0
+  avg_copies: 4.0
+- name: Faithless Looting
+  weight: 1.0
+  avg_copies: 4.0
 - name: The Underworld Cookbook
   weight: 1.0
   avg_copies: 4.0
@@ -16,15 +25,6 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Bloodstained Mire
-  weight: 1.0
-  avg_copies: 4.0
-- name: Street Wraith
-  weight: 1.0
-  avg_copies: 4.0
-- name: Persist
-  weight: 1.0
-  avg_copies: 4.0
-- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
@@ -75,34 +75,34 @@ top_cards:
 - name: Fire Magic
   weight: 0.6667
   avg_copies: 1.5
-- name: Verdant Catacombs
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Ashiok, Dream Render
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Unholy Heat
+- name: Pithing Needle
   weight: 0.6667
   avg_copies: 1.0
 - name: Haywire Mite
   weight: 0.6667
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Verdant Catacombs
   weight: 0.6667
   avg_copies: 1.0
-- name: Overgrown Tomb
+- name: Unholy Heat
   weight: 0.6667
   avg_copies: 1.0
 - name: Wooded Foothills
   weight: 0.6667
   avg_copies: 1.0
-- name: Magus of the Moon
-  weight: 0.6667
-  avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.6667
   avg_copies: 1.0
+- name: Magus of the Moon
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
+  weight: 0.6667
+  avg_copies: 1.0
 - name: Soul-Guide Lantern
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Overgrown Tomb
   weight: 0.6667
   avg_copies: 1.0
 - name: Leyline of the Void
@@ -117,7 +117,7 @@ top_cards:
 - name: Detective's Phoenix
   weight: 0.3333
   avg_copies: 2.0
-- name: Castle Locthwain
+- name: Overlord of the Balemurk
   weight: 0.3333
   avg_copies: 1.0
 - name: card:vaultborn-tyrant
@@ -129,10 +129,10 @@ top_cards:
 - name: Polluted Delta
   weight: 0.3333
   avg_copies: 1.0
-- name: card:archfiend-of-ifnir
+- name: Castle Locthwain
   weight: 0.3333
   avg_copies: 1.0
-- name: Overlord of the Balemurk
+- name: card:archfiend-of-ifnir
   weight: 0.3333
   avg_copies: 1.0
 ---

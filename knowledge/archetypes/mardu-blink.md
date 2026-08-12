@@ -7,10 +7,10 @@ name: Mardu Blink
 meta_share: 0.0036
 list_count: 24
 top_cards:
-- name: Solitude
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
-- name: Overlord of the Balemurk
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Phelia, Exuberant Shepherd
@@ -37,13 +37,13 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.08
+- name: Elegant Parlor
+  weight: 1.0
+  avg_copies: 1.0
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
 - name: Raucous Theater
-  weight: 1.0
-  avg_copies: 1.0
-- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Phlage, Titan of Fire's Fury
@@ -133,16 +133,16 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.1667
   avg_copies: 2.0
-- name: Ashiok, Dream Render
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Containment Priest
+- name: Snow-Covered Swamp
   weight: 0.1667
   avg_copies: 1.0
 - name: Swamp
   weight: 0.1667
   avg_copies: 1.0
-- name: Snow-Covered Swamp
+- name: Containment Priest
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
   weight: 0.1667
   avg_copies: 1.0
 - name: Clarion Conqueror
@@ -160,16 +160,16 @@ top_cards:
 - name: Unholy Heat
   weight: 0.0417
   avg_copies: 3.0
-- name: Seasoned Pyromancer
-  weight: 0.0417
-  avg_copies: 2.0
-- name: The Legend of Roku
-  weight: 0.0417
-  avg_copies: 2.0
 - name: Graveyard Trespasser
   weight: 0.0417
   avg_copies: 2.0
+- name: Seasoned Pyromancer
+  weight: 0.0417
+  avg_copies: 2.0
 - name: Magus of the Moon
+  weight: 0.0417
+  avg_copies: 2.0
+- name: The Legend of Roku
   weight: 0.0417
   avg_copies: 2.0
 - name: Faerie Macabre

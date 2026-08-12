@@ -8,25 +8,25 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 4.33
-- name: Monastery Swiftspear
-  weight: 1.0
-  avg_copies: 4.0
 - name: Lava Dart
-  weight: 1.0
-  avg_copies: 4.0
-- name: Slickshot Show-Off
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
-- name: Fire-Brained Scheme
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
-- name: Lightning Bolt
+- name: Slickshot Show-Off
+  weight: 1.0
+  avg_copies: 4.0
+- name: Monastery Swiftspear
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fire-Brained Scheme
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
@@ -47,13 +47,13 @@ top_cards:
 - name: Magebane Lizard
   weight: 0.6667
   avg_copies: 3.0
-- name: Soul-Scar Mage
+- name: Meltdown
   weight: 0.6667
   avg_copies: 3.0
 - name: card:crash-through
   weight: 0.6667
   avg_copies: 3.0
-- name: Meltdown
+- name: Soul-Scar Mage
   weight: 0.6667
   avg_copies: 3.0
 - name: Pick Your Poison
@@ -62,13 +62,13 @@ top_cards:
 - name: Stomping Ground
   weight: 0.6667
   avg_copies: 1.5
-- name: Tormod's Crypt
-  weight: 0.6667
-  avg_copies: 1.5
 - name: Arid Mesa
   weight: 0.6667
   avg_copies: 1.5
 - name: Soul-Guide Lantern
+  weight: 0.6667
+  avg_copies: 1.5
+- name: Tormod's Crypt
   weight: 0.6667
   avg_copies: 1.5
 - name: Commercial District
@@ -77,13 +77,13 @@ top_cards:
 - name: Sacred Foundry
   weight: 0.3333
   avg_copies: 4.0
-- name: Seasoned Pyromancer
+- name: Rough
   weight: 0.3333
   avg_copies: 3.0
 - name: Surgical Extraction
   weight: 0.3333
   avg_copies: 3.0
-- name: Rough
+- name: Seasoned Pyromancer
   weight: 0.3333
   avg_copies: 3.0
 - name: Wear
@@ -92,43 +92,43 @@ top_cards:
 - name: Sunbaked Canyon
   weight: 0.3333
   avg_copies: 2.0
-- name: Flashback
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Unholy Heat
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Bloodstained Mire
-  weight: 0.3333
-  avg_copies: 2.0
-- name: card:blossoming-defense
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Natural State
-  weight: 0.3333
-  avg_copies: 2.0
 - name: Orim's Chant
   weight: 0.3333
   avg_copies: 2.0
 - name: Light Up the Stage
   weight: 0.3333
   avg_copies: 2.0
+- name: Natural State
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Unholy Heat
+  weight: 0.3333
+  avg_copies: 2.0
 - name: Molten Rain
   weight: 0.3333
   avg_copies: 2.0
+- name: card:blossoming-defense
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Flashback
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Bloodstained Mire
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Assault Strobe
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Elegant Parlor
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Fiery Islet
   weight: 0.3333
   avg_copies: 1.0
 - name: Seal of Fire
   weight: 0.3333
   avg_copies: 1.0
-- name: Assault Strobe
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Tarfire
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Elegant Parlor
   weight: 0.3333
   avg_copies: 1.0
 ---

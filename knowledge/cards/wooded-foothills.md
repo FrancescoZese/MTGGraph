@@ -6,7 +6,7 @@ name: Wooded Foothills
 scryfall_id: 4e11ea8a-f895-438d-a3b7-f070238e4161
 set: mh3
 type: Land
-meta_presence: 0.2149
+meta_presence: 0.2148
 archetypes:
   ruby-storm:
     weight: 0.9419

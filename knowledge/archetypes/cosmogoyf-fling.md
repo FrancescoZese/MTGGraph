@@ -118,10 +118,10 @@ top_cards:
 - name: Duress
   weight: 0.0962
   avg_copies: 1.5
-- name: Scion of Draco
+- name: Leyline of the Guildpact
   weight: 0.0769
   avg_copies: 4.0
-- name: Leyline of the Guildpact
+- name: Scion of Draco
   weight: 0.0769
   avg_copies: 4.0
 - name: Faithless Looting
@@ -142,10 +142,10 @@ top_cards:
 - name: Pick Your Poison
   weight: 0.0385
   avg_copies: 3.0
-- name: card:noxious-revival
+- name: card:specter-s-shriek
   weight: 0.0385
   avg_copies: 2.5
-- name: card:specter-s-shriek
+- name: card:noxious-revival
   weight: 0.0385
   avg_copies: 2.5
 - name: card:cragcrown-pathway
@@ -163,13 +163,13 @@ top_cards:
 - name: card:kavaron-memorial-world
   weight: 0.0192
   avg_copies: 2.0
-- name: Death's Shadow
-  weight: 0.0192
-  avg_copies: 2.0
 - name: Shadowspear
   weight: 0.0192
   avg_copies: 2.0
 - name: Pyroclasm
+  weight: 0.0192
+  avg_copies: 2.0
+- name: Death's Shadow
   weight: 0.0192
   avg_copies: 2.0
 - name: Force of Despair
@@ -178,10 +178,10 @@ top_cards:
 - name: Disruptor Flute
   weight: 0.0192
   avg_copies: 1.0
-- name: Mountain
+- name: Kaheera, the Orphanguard
   weight: 0.0192
   avg_copies: 1.0
-- name: Kaheera, the Orphanguard
+- name: Mountain
   weight: 0.0192
   avg_copies: 1.0
 - name: Meltdown

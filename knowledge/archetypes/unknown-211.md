@@ -9,19 +9,19 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 5.0
-- name: Cosmogoyf
+- name: Darkbore Pathway
   weight: 1.0
   avg_copies: 4.0
 - name: Blooming Marsh
   weight: 1.0
   avg_copies: 4.0
-- name: Necrodominance
-  weight: 1.0
-  avg_copies: 4.0
 - name: Soul Spike
   weight: 1.0
   avg_copies: 4.0
-- name: Darkbore Pathway
+- name: Necrodominance
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cosmogoyf
   weight: 1.0
   avg_copies: 4.0
 - name: Plunge into Darkness
@@ -99,22 +99,22 @@ top_cards:
 - name: card:woodland-cemetery
   weight: 0.1429
   avg_copies: 2.0
-- name: Thoughtseize
-  weight: 0.1429
-  avg_copies: 2.0
-- name: Dauthi Voidwalker
-  weight: 0.1429
-  avg_copies: 2.0
-- name: The Meathook Massacre
-  weight: 0.1429
-  avg_copies: 2.0
 - name: card:demonic-bargain
+  weight: 0.1429
+  avg_copies: 2.0
+- name: Thoughtseize
   weight: 0.1429
   avg_copies: 2.0
 - name: Nurturing Peatland
   weight: 0.1429
   avg_copies: 2.0
 - name: Gemstone Caverns
+  weight: 0.1429
+  avg_copies: 2.0
+- name: Dauthi Voidwalker
+  weight: 0.1429
+  avg_copies: 2.0
+- name: The Meathook Massacre
   weight: 0.1429
   avg_copies: 2.0
 - name: Fell the Profane

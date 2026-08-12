@@ -49,10 +49,10 @@ top_cards:
 - name: card:birds-of-paradise
   weight: 0.987
   avg_copies: 1.64
-- name: Duskwatch Recruiter
+- name: Collector Ouphe
   weight: 0.987
   avg_copies: 1.0
-- name: Collector Ouphe
+- name: Duskwatch Recruiter
   weight: 0.987
   avg_copies: 1.0
 - name: Underground Mortuary
@@ -85,10 +85,10 @@ top_cards:
 - name: Ouroboroid
   weight: 0.7403
   avg_copies: 1.04
-- name: Keen-Eyed Curator
+- name: Eternal Witness
   weight: 0.7403
   avg_copies: 1.0
-- name: Eternal Witness
+- name: Keen-Eyed Curator
   weight: 0.7403
   avg_copies: 1.0
 - name: card:shang-chi-master-of-kung-fu
@@ -190,13 +190,13 @@ top_cards:
 - name: Quirion Ranger
   weight: 0.039
   avg_copies: 1.33
-- name: Gemstone Caverns
-  weight: 0.039
-  avg_copies: 1.0
 - name: card:finale-of-devastation
   weight: 0.039
   avg_copies: 1.0
 - name: Horizon Canopy
+  weight: 0.039
+  avg_copies: 1.0
+- name: Gemstone Caverns
   weight: 0.039
   avg_copies: 1.0
 - name: card:skyfisher-spider
@@ -214,52 +214,25 @@ top_cards:
 - name: Abrupt Decay
   weight: 0.026
   avg_copies: 1.0
-- name: Postmortem Lunge
+- name: Burrenton Forge-Tender
   weight: 0.013
   avg_copies: 2.0
 - name: Disruptor Flute
   weight: 0.013
   avg_copies: 2.0
-- name: Burrenton Forge-Tender
+- name: Postmortem Lunge
   weight: 0.013
   avg_copies: 2.0
 - name: High Noon
   weight: 0.013
   avg_copies: 2.0
-- name: Eladamri, Korvecdal
-  weight: 0.013
-  avg_copies: 1.0
-- name: Witherbloom Command
-  weight: 0.013
-  avg_copies: 1.0
-- name: card:deep-cavern-bat
-  weight: 0.013
-  avg_copies: 1.0
-- name: Six
+- name: Scavenging Ooze
   weight: 0.013
   avg_copies: 1.0
 - name: card:dauntless-escort
   weight: 0.013
   avg_copies: 1.0
-- name: Scavenging Ooze
-  weight: 0.013
-  avg_copies: 1.0
-- name: card:beastrider-vanguard
-  weight: 0.013
-  avg_copies: 1.0
-- name: Icetill Explorer
-  weight: 0.013
-  avg_copies: 1.0
-- name: Rhonas the Indomitable
-  weight: 0.013
-  avg_copies: 1.0
-- name: Ashaya, Soul of the Wild
-  weight: 0.013
-  avg_copies: 1.0
-- name: Lair of the Hydra
-  weight: 0.013
-  avg_copies: 1.0
-- name: Cankerbloom
+- name: Witherbloom Command
   weight: 0.013
   avg_copies: 1.0
 - name: Summoner's Pact
@@ -268,16 +241,43 @@ top_cards:
 - name: Turntimber Symbiosis
   weight: 0.013
   avg_copies: 1.0
-- name: Emperor of Bones
+- name: Ashaya, Soul of the Wild
   weight: 0.013
   avg_copies: 1.0
-- name: card:mark-of-asylum
+- name: Reclamation Sage
+  weight: 0.013
+  avg_copies: 1.0
+- name: card:beastrider-vanguard
+  weight: 0.013
+  avg_copies: 1.0
+- name: Eladamri, Korvecdal
+  weight: 0.013
+  avg_copies: 1.0
+- name: Emperor of Bones
   weight: 0.013
   avg_copies: 1.0
 - name: Boromir, Warden of the Tower
   weight: 0.013
   avg_copies: 1.0
-- name: Reclamation Sage
+- name: Icetill Explorer
+  weight: 0.013
+  avg_copies: 1.0
+- name: Rhonas the Indomitable
+  weight: 0.013
+  avg_copies: 1.0
+- name: Lair of the Hydra
+  weight: 0.013
+  avg_copies: 1.0
+- name: Six
+  weight: 0.013
+  avg_copies: 1.0
+- name: card:deep-cavern-bat
+  weight: 0.013
+  avg_copies: 1.0
+- name: card:mark-of-asylum
+  weight: 0.013
+  avg_copies: 1.0
+- name: Cankerbloom
   weight: 0.013
   avg_copies: 1.0
 ---

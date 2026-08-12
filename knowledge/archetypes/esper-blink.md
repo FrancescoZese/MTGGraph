@@ -160,16 +160,16 @@ top_cards:
 - name: Practiced Offense
   weight: 0.0231
   avg_copies: 2.33
-- name: Subtlety
-  weight: 0.0231
-  avg_copies: 2.33
 - name: Deafening Silence
   weight: 0.0231
   avg_copies: 2.33
-- name: Graveyard Trespasser
+- name: Subtlety
+  weight: 0.0231
+  avg_copies: 2.33
+- name: Abhorrent Oculus
   weight: 0.0231
   avg_copies: 2.0
-- name: Abhorrent Oculus
+- name: Graveyard Trespasser
   weight: 0.0231
   avg_copies: 2.0
 - name: Northampton Farm
@@ -181,19 +181,19 @@ top_cards:
 - name: Celestial Purge
   weight: 0.0231
   avg_copies: 1.0
-- name: Emrakul, the Aeons Torn
+- name: Boromir, Warden of the Tower
   weight: 0.0231
   avg_copies: 1.0
 - name: Ghost Vacuum
   weight: 0.0231
   avg_copies: 1.0
-- name: Boromir, Warden of the Tower
+- name: Emrakul, the Aeons Torn
   weight: 0.0231
   avg_copies: 1.0
-- name: Guide of Souls
+- name: Ocelot Pride
   weight: 0.0154
   avg_copies: 4.0
-- name: Ocelot Pride
+- name: Guide of Souls
   weight: 0.0154
   avg_copies: 4.0
 - name: Relic of Progenitus
@@ -202,31 +202,31 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.0154
   avg_copies: 2.0
-- name: Hydroelectric Specimen
+- name: Sanctifier en-Vec
   weight: 0.0154
   avg_copies: 1.0
 - name: Snow-Covered Island
   weight: 0.0154
   avg_copies: 1.0
-- name: Sanctifier en-Vec
-  weight: 0.0154
-  avg_copies: 1.0
-- name: Faerie Macabre
-  weight: 0.0154
-  avg_copies: 1.0
-- name: Snow-Covered Plains
-  weight: 0.0154
-  avg_copies: 1.0
-- name: Pest Control
+- name: Snow-Covered Swamp
   weight: 0.0154
   avg_copies: 1.0
 - name: Floodfarm Verge
   weight: 0.0154
   avg_copies: 1.0
+- name: Snow-Covered Plains
+  weight: 0.0154
+  avg_copies: 1.0
 - name: Damn
   weight: 0.0154
   avg_copies: 1.0
-- name: Snow-Covered Swamp
+- name: Faerie Macabre
+  weight: 0.0154
+  avg_copies: 1.0
+- name: Pest Control
+  weight: 0.0154
+  avg_copies: 1.0
+- name: Hydroelectric Specimen
   weight: 0.0154
   avg_copies: 1.0
 - name: No More Lies
@@ -241,31 +241,37 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 0.0077
   avg_copies: 2.0
-- name: Rest in Peace
-  weight: 0.0077
-  avg_copies: 1.0
-- name: Emptiness
+- name: Supreme Verdict
   weight: 0.0077
   avg_copies: 1.0
 - name: Cling to Dust
   weight: 0.0077
   avg_copies: 1.0
-- name: Emeritus of Ideation
-  weight: 0.0077
-  avg_copies: 1.0
-- name: Darkslick Shores
-  weight: 0.0077
-  avg_copies: 1.0
-- name: Supreme Verdict
+- name: Rest in Peace
   weight: 0.0077
   avg_copies: 1.0
 - name: Darkblast
   weight: 0.0077
   avg_copies: 1.0
-- name: Stony Silence
+- name: Emeritus of Ideation
+  weight: 0.0077
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 0.0077
+  avg_copies: 1.0
+- name: Darkslick Shores
+  weight: 0.0077
+  avg_copies: 1.0
+- name: Emptiness
   weight: 0.0077
   avg_copies: 1.0
 - name: Path to Exile
+  weight: 0.0077
+  avg_copies: 1.0
+- name: Windswept Heath
+  weight: 0.0077
+  avg_copies: 1.0
+- name: Wonder
   weight: 0.0077
   avg_copies: 1.0
 - name: Spell Pierce
@@ -274,19 +280,13 @@ top_cards:
 - name: Kataki, War's Wage
   weight: 0.0077
   avg_copies: 1.0
-- name: Windswept Heath
-  weight: 0.0077
-  avg_copies: 1.0
 - name: Exorcise
   weight: 0.0077
   avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.0077
-  avg_copies: 1.0
-- name: Wonder
-  weight: 0.0077
-  avg_copies: 1.0
 - name: Sacred Ground
+  weight: 0.0077
+  avg_copies: 1.0
+- name: Stony Silence
   weight: 0.0077
   avg_copies: 1.0
 ---

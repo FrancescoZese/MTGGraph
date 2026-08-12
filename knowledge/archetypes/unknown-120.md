@@ -12,22 +12,22 @@ top_cards:
 - name: Atraxa, Grand Unifier
   weight: 1.0
   avg_copies: 4.0
-- name: Polluted Delta
+- name: Goryo's Vengeance
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Goryo's Vengeance
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 3.89
-- name: Bloodstained Mire
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 3.67
-- name: Faithless Looting
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 3.67
 - name: Consign to Memory
@@ -63,22 +63,22 @@ top_cards:
 - name: Watery Grave
   weight: 1.0
   avg_copies: 1.11
-- name: Undercity Sewers
-  weight: 1.0
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 1.0
-  avg_copies: 1.0
-- name: Blood Crypt
-  weight: 1.0
-  avg_copies: 1.0
-- name: Raucous Theater
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Island
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Thundering Falls
+  weight: 1.0
+  avg_copies: 1.0
+- name: Undercity Sewers
+  weight: 1.0
+  avg_copies: 1.0
+- name: Raucous Theater
+  weight: 1.0
+  avg_copies: 1.0
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Emperor of Bones
@@ -111,10 +111,10 @@ top_cards:
 - name: Sink into Stupor
   weight: 0.2222
   avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
+- name: Quantum Riddler
   weight: 0.1111
   avg_copies: 4.0
-- name: Quantum Riddler
+- name: Tamiyo, Inquisitive Student
   weight: 0.1111
   avg_copies: 4.0
 - name: Subtlety
@@ -123,19 +123,19 @@ top_cards:
 - name: Traumatic Critique
   weight: 0.1111
   avg_copies: 3.0
-- name: Damping Sphere
-  weight: 0.1111
-  avg_copies: 2.0
 - name: Pithing Needle
   weight: 0.1111
   avg_copies: 2.0
-- name: Flame of Anor
+- name: Damping Sphere
   weight: 0.1111
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Kolaghan's Command
   weight: 0.1111
   avg_copies: 1.0
 - name: Kavaero, Mind-Bitten
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Flame of Anor
   weight: 0.1111
   avg_copies: 1.0
 ---

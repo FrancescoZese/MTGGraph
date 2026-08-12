@@ -6,10 +6,10 @@ name: Mill
 meta_share: 0.0053
 list_count: 36
 top_cards:
-- name: Hedron Crab
+- name: Ruin Crab
   weight: 1.0
   avg_copies: 4.0
-- name: Ruin Crab
+- name: Hedron Crab
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -117,13 +117,13 @@ top_cards:
 - name: Snow-Covered Island
   weight: 0.2778
   avg_copies: 2.4
-- name: Cephalid Coliseum
+- name: Damnation
   weight: 0.2778
   avg_copies: 1.0
 - name: Murderous Cut
   weight: 0.2778
   avg_copies: 1.0
-- name: Damnation
+- name: Cephalid Coliseum
   weight: 0.2778
   avg_copies: 1.0
 - name: Echoing Truth
@@ -168,16 +168,16 @@ top_cards:
 - name: Chalice of the Void
   weight: 0.0556
   avg_copies: 3.0
-- name: Kitsune's Technique
-  weight: 0.0556
-  avg_copies: 2.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.0556
   avg_copies: 2.0
-- name: Force of Negation
+- name: Kitsune's Technique
+  weight: 0.0556
+  avg_copies: 2.0
+- name: Damping Sphere
   weight: 0.0556
   avg_copies: 1.5
-- name: Damping Sphere
+- name: Force of Negation
   weight: 0.0556
   avg_copies: 1.5
 - name: Spell Snare
@@ -192,6 +192,9 @@ top_cards:
 - name: Hallowed Fountain
   weight: 0.0556
   avg_copies: 1.0
+- name: White Orchid Phantom
+  weight: 0.0278
+  avg_copies: 4.0
 - name: Trapmaker's Snare
   weight: 0.0278
   avg_copies: 4.0
@@ -201,49 +204,37 @@ top_cards:
 - name: Path to Exile
   weight: 0.0278
   avg_copies: 4.0
-- name: White Orchid Phantom
-  weight: 0.0278
-  avg_copies: 4.0
-- name: Spell Pierce
+- name: Leyline of the Void
   weight: 0.0278
   avg_copies: 3.0
-- name: Leyline of the Void
+- name: Spell Pierce
   weight: 0.0278
   avg_copies: 3.0
 - name: High Noon
   weight: 0.0278
   avg_copies: 3.0
-- name: Hurkyl's Recall
-  weight: 0.0278
-  avg_copies: 2.0
-- name: Vendetta
-  weight: 0.0278
-  avg_copies: 2.0
 - name: Flare of Denial
+  weight: 0.0278
+  avg_copies: 2.0
+- name: Hurkyl's Recall
   weight: 0.0278
   avg_copies: 2.0
 - name: Meltdown
   weight: 0.0278
   avg_copies: 2.0
+- name: Vendetta
+  weight: 0.0278
+  avg_copies: 2.0
+- name: Mindbreak Trap
+  weight: 0.0278
+  avg_copies: 1.0
 - name: Tormod's Crypt
-  weight: 0.0278
-  avg_copies: 1.0
-- name: Gloomlake Verge
-  weight: 0.0278
-  avg_copies: 1.0
-- name: Ravenous Trap
-  weight: 0.0278
-  avg_copies: 1.0
-- name: Plains
-  weight: 0.0278
-  avg_copies: 1.0
-- name: Bloodchief's Thirst
   weight: 0.0278
   avg_copies: 1.0
 - name: Darkslick Shores
   weight: 0.0278
   avg_copies: 1.0
-- name: Subtlety
+- name: Ravenous Trap
   weight: 0.0278
   avg_copies: 1.0
 - name: Steam Vents
@@ -252,13 +243,22 @@ top_cards:
 - name: card:loki-god-of-mischief
   weight: 0.0278
   avg_copies: 1.0
-- name: Mindbreak Trap
+- name: Bloodchief's Thirst
+  weight: 0.0278
+  avg_copies: 1.0
+- name: Subtlety
   weight: 0.0278
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.0278
   avg_copies: 1.0
 - name: Requiting Hex
+  weight: 0.0278
+  avg_copies: 1.0
+- name: Gloomlake Verge
+  weight: 0.0278
+  avg_copies: 1.0
+- name: Plains
   weight: 0.0278
   avg_copies: 1.0
 ---
