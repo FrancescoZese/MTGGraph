@@ -7,34 +7,34 @@ name: Prismatic Ending
 scryfall_id: 825969b9-3c70-4fca-8cab-696e9ca7cdb2
 set: mh2
 type: Sorcery
-meta_presence: 0.1762
+meta_presence: 0.1776
 archetypes:
   ruby-storm:
-    weight: 0.9046
-    avg_copies: 3.17
+    weight: 0.9061
+    avg_copies: 3.16
   boros-energy:
-    weight: 0.0473
+    weight: 0.0471
     avg_copies: 1.22
   dimir-control:
     weight: 0.037
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.594
+    weight: 0.597
     avg_copies: 1.72
   eldrazi-tron:
     weight: 0.0032
     avg_copies: 2.0
   goryo:
-    weight: 0.989
+    weight: 0.9892
     avg_copies: 2.19
   azorius-control:
     weight: 1.0
-    avg_copies: 3.27
+    avg_copies: 3.26
   jeskai-control:
     weight: 0.9655
     avg_copies: 2.04
   domain-zoo:
-    weight: 0.0347
+    weight: 0.0345
     avg_copies: 1.33
   reanimator:
     weight: 0.037
@@ -43,19 +43,19 @@ archetypes:
     weight: 0.1667
     avg_copies: 2.0
   hammer-time:
-    weight: 0.1429
+    weight: 0.1333
     avg_copies: 1.5
   boros-ponza:
     weight: 0.0071
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0086
+    weight: 0.0085
     avg_copies: 2.0
   4c-omnath:
     weight: 0.25
     avg_copies: 4.0
   esper-blink:
-    weight: 0.8462
+    weight: 0.8529
     avg_copies: 1.29
   samwise-combo:
     weight: 0.0147
@@ -85,7 +85,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo2:
-    weight: 0.95
+    weight: 0.9512
     avg_copies: 3.67
   goryo3:
     weight: 1.0
@@ -121,8 +121,8 @@ archetypes:
     weight: 0.25
     avg_copies: 1.15
   unknown-70:
-    weight: 0.1579
-    avg_copies: 2.33
+    weight: 0.2
+    avg_copies: 2.25
   unknown-74:
     weight: 1.0
     avg_copies: 4.0
@@ -151,7 +151,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.8
   unknown-96:
-    weight: 0.0952
+    weight: 0.1111
     avg_copies: 2.0
   unknown-89:
     weight: 1.0
@@ -178,8 +178,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-131:
-    weight: 0.125
-    avg_copies: 3.0
+    weight: 0.2222
+    avg_copies: 2.5
   unknown-135:
     weight: 1.0
     avg_copies: 1.0

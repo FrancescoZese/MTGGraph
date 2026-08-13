@@ -7,7 +7,7 @@ name: Bloodchief's Thirst
 scryfall_id: 059e8447-6b1c-4651-a734-a8fea2cbf7b2
 set: znr
 type: Sorcery
-meta_presence: 0.001
+meta_presence: 0.0012
 archetypes:
   mill:
     weight: 0.0278
@@ -19,6 +19,6 @@ archetypes:
     weight: 0.25
     avg_copies: 2.0
   unknown-199:
-    weight: 0.8
+    weight: 0.8333
     avg_copies: 1.0
 ---

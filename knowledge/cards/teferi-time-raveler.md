@@ -8,7 +8,7 @@ name: Teferi, Time Raveler
 scryfall_id: 662fe50f-d75c-422c-8c6c-1f9b5c4ba21f
 set: rvr
 type: Legendary Planeswalker — Teferi
-meta_presence: 0.1487
+meta_presence: 0.1502
 archetypes:
   boros-energy:
     weight: 0.0013
@@ -17,14 +17,14 @@ archetypes:
     weight: 0.0494
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.4737
+    weight: 0.4776
     avg_copies: 1.25
   goryo:
-    weight: 0.7934
+    weight: 0.7919
     avg_copies: 1.2
   azorius-control:
     weight: 1.0
-    avg_copies: 3.15
+    avg_copies: 3.12
   living-end:
     weight: 0.1867
     avg_copies: 1.94
@@ -32,23 +32,23 @@ archetypes:
     weight: 0.8793
     avg_copies: 2.83
   domain-zoo:
-    weight: 0.5139
+    weight: 0.5103
     avg_copies: 1.1
   hammer-time:
-    weight: 0.5714
-    avg_copies: 2.25
+    weight: 0.6
+    avg_copies: 2.11
   kethis-combo:
     weight: 1.0
     avg_copies: 1.5
   izzet-prowess:
-    weight: 0.0058
+    weight: 0.0057
     avg_copies: 1.0
   4c-omnath:
     weight: 0.5
     avg_copies: 2.67
   esper-blink:
-    weight: 0.9385
-    avg_copies: 1.62
+    weight: 0.9412
+    avg_copies: 1.63
   indomitable-creativity:
     weight: 0.8
     avg_copies: 2.5
@@ -62,8 +62,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo2:
-    weight: 0.375
-    avg_copies: 1.18
+    weight: 0.3902
+    avg_copies: 1.17
   goryo3:
     weight: 1.0
     avg_copies: 3.0
@@ -81,9 +81,9 @@ archetypes:
     avg_copies: 1.67
   unknown-10:
     weight: 1.0
-    avg_copies: 1.33
+    avg_copies: 1.2
   unknown-15:
-    weight: 0.0769
+    weight: 0.0714
     avg_copies: 2.0
   unknown-16:
     weight: 1.0
@@ -92,7 +92,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.75
   unknown-47:
-    weight: 0.029
+    weight: 0.0278
     avg_copies: 1.0
   unknown-48:
     weight: 1.0
@@ -107,10 +107,10 @@ archetypes:
     weight: 0.0345
     avg_copies: 2.0
   unknown-67:
-    weight: 0.3068
-    avg_copies: 1.96
+    weight: 0.3187
+    avg_copies: 1.97
   unknown-70:
-    weight: 0.6842
+    weight: 0.7
     avg_copies: 1.0
   unknown-72:
     weight: 1.0
@@ -173,8 +173,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-131:
-    weight: 0.875
-    avg_copies: 1.0
+    weight: 0.8889
+    avg_copies: 1.07
   unknown-140:
     weight: 1.0
     avg_copies: 4.0
@@ -185,7 +185,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-160:
-    weight: 0.0132
+    weight: 0.012
     avg_copies: 4.0
   unknown-166:
     weight: 1.0
@@ -230,7 +230,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-207:
-    weight: 0.0714
+    weight: 0.1333
     avg_copies: 1.0
   unknown-213:
     weight: 1.0

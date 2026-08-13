@@ -10,7 +10,7 @@ type: Enchantment Creature — Sheep Glimmer
 meta_presence: 0.001
 archetypes:
   boros-energy:
-    weight: 0.0053
+    weight: 0.0052
     avg_copies: 1.75
   samwise-combo:
     weight: 0.0147

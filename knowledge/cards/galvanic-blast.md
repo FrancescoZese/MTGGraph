@@ -7,16 +7,16 @@ name: Galvanic Blast
 scryfall_id: 0cf8cb1e-314a-4894-82df-f9812825f52e
 set: 2xm
 type: Instant
-meta_presence: 0.0792
+meta_presence: 0.0787
 archetypes:
   affinity:
-    weight: 0.9752
-    avg_copies: 2.25
+    weight: 0.9754
+    avg_copies: 2.26
   unknown-6:
     weight: 0.0625
     avg_copies: 1.0
   unknown-15:
-    weight: 0.1538
+    weight: 0.1429
     avg_copies: 3.0
   unknown-44:
     weight: 1.0

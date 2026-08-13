@@ -12,7 +12,7 @@ archetypes:
     weight: 0.0013
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.1226
+    weight: 0.1242
     avg_copies: 1.0
   amulet-titan:
     weight: 0.006
@@ -21,25 +21,25 @@ archetypes:
     weight: 0.6
     avg_copies: 1.0
   necrodominance:
-    weight: 0.0227
+    weight: 0.0222
     avg_copies: 1.0
   affinity:
-    weight: 0.9427
+    weight: 0.9432
     avg_copies: 1.0
   hammer-time:
-    weight: 0.5
+    weight: 0.5333
     avg_copies: 1.0
   boros-ponza:
     weight: 0.1064
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.12
+    weight: 0.119
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0058
+    weight: 0.0057
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.8416
+    weight: 0.8399
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.5
@@ -69,7 +69,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-15:
-    weight: 0.6923
+    weight: 0.7143
     avg_copies: 1.0
   unknown-21:
     weight: 1.0
@@ -93,7 +93,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0145
+    weight: 0.0139
     avg_copies: 1.0
   unknown-48:
     weight: 0.5
@@ -138,7 +138,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-126:
-    weight: 0.0779
+    weight: 0.0723
     avg_copies: 1.5
   unknown-137:
     weight: 1.0
@@ -156,7 +156,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.2632
+    weight: 0.241
     avg_copies: 1.0
   unknown-159:
     weight: 1.0
@@ -174,7 +174,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-194:
-    weight: 0.75
+    weight: 0.8571
     avg_copies: 1.0
   unknown-195:
     weight: 0.5

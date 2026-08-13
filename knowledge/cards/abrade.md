@@ -7,22 +7,22 @@ name: Abrade
 scryfall_id: 1add1757-c1f8-448a-b279-c6940fb7ad5f
 set: soc
 type: Instant
-meta_presence: 0.0042
+meta_presence: 0.0044
 archetypes:
   ruby-storm:
-    weight: 0.0207
+    weight: 0.0204
     avg_copies: 1.0
   affinity:
-    weight: 0.0115
+    weight: 0.0114
     avg_copies: 1.33
   izzet-prowess:
-    weight: 0.0029
+    weight: 0.0028
     avg_copies: 1.0
   goryo1:
-    weight: 0.0682
+    weight: 0.0674
     avg_copies: 1.0
   unknown-101:
-    weight: 0.1667
+    weight: 0.2381
     avg_copies: 1.0
   unknown-214:
     weight: 1.0

@@ -9,6 +9,6 @@ type: Creature — Horror // Creature — Kraken Horror
 meta_presence: 0.0001
 archetypes:
   izzet-prowess:
-    weight: 0.0029
+    weight: 0.0028
     avg_copies: 3.0
 ---

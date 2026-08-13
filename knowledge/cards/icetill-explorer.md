@@ -7,23 +7,23 @@ name: Icetill Explorer
 scryfall_id: d9482aab-6ddf-48e1-84fa-b13d5ff81e69
 set: eoe
 type: Creature — Insect Scout
-meta_presence: 0.0273
+meta_presence: 0.0271
 archetypes:
   amulet-titan:
-    weight: 0.2096
+    weight: 0.2083
     avg_copies: 1.05
   yawgmoth-combo:
     weight: 0.0217
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.784
-    avg_copies: 2.4
+    weight: 0.7857
+    avg_copies: 2.39
   samwise-combo:
     weight: 0.0147
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0429
-    avg_copies: 1.39
+    weight: 0.0425
+    avg_copies: 1.42
   scapeshift-combo:
     weight: 1.0
     avg_copies: 2.5
@@ -37,7 +37,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-61:
-    weight: 0.0208
+    weight: 0.0206
     avg_copies: 1.5
   unknown-76:
     weight: 0.3333
@@ -49,7 +49,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   unknown-126:
-    weight: 0.013
+    weight: 0.012
     avg_copies: 1.0
   unknown-130:
     weight: 1.0

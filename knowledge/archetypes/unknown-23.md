@@ -78,16 +78,16 @@ top_cards:
 - name: Lightning Bolt
   weight: 0.6667
   avg_copies: 3.0
-- name: Surgical Extraction
-  weight: 0.6667
-  avg_copies: 2.25
 - name: Misty Rainforest
   weight: 0.6667
   avg_copies: 2.25
-- name: Collector Ouphe
+- name: Surgical Extraction
+  weight: 0.6667
+  avg_copies: 2.25
+- name: Bojuka Bog
   weight: 0.6667
   avg_copies: 1.0
-- name: Bojuka Bog
+- name: Collector Ouphe
   weight: 0.6667
   avg_copies: 1.0
 - name: Arid Mesa
@@ -108,16 +108,16 @@ top_cards:
 - name: Jetmir's Garden
   weight: 0.3333
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Sacred Foundry
   weight: 0.3333
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Elegant Parlor
   weight: 0.3333
   avg_copies: 1.0
 - name: Scapeshift
   weight: 0.1667
   avg_copies: 3.0
-- name: Orim's Chant
+- name: Disruptor Flute
   weight: 0.1667
   avg_copies: 2.0
 - name: High Noon
@@ -126,7 +126,7 @@ top_cards:
 - name: Ghost Vacuum
   weight: 0.1667
   avg_copies: 2.0
-- name: Disruptor Flute
+- name: Orim's Chant
   weight: 0.1667
   avg_copies: 2.0
 - name: Fire Magic

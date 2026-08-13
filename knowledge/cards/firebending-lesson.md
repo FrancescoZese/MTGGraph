@@ -13,10 +13,10 @@ archetypes:
     weight: 0.0069
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.016
+    weight: 0.0159
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0519
+    weight: 0.0513
     avg_copies: 1.0
   rakdos-aggro:
     weight: 0.1053
@@ -25,7 +25,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-122:
-    weight: 0.4074
+    weight: 0.3929
     avg_copies: 1.0
   unknown-196:
     weight: 1.0

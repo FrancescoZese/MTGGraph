@@ -12,6 +12,6 @@ type: Legendary Creature — Human Monk
 meta_presence: 0.0001
 archetypes:
   unknown-10:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 2.0
 ---

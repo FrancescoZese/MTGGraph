@@ -10,13 +10,13 @@ type: Sorcery
 meta_presence: 0.0031
 archetypes:
   izzet-prowess:
-    weight: 0.0086
+    weight: 0.0085
     avg_copies: 1.0
   rakdos-aggro:
     weight: 0.0526
     avg_copies: 2.0
   goryo1:
-    weight: 0.0398
+    weight: 0.0393
     avg_copies: 1.0
   unknown-27:
     weight: 0.3333

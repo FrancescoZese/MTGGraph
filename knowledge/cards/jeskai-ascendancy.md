@@ -9,14 +9,14 @@ name: Jeskai Ascendancy
 scryfall_id: 9a8399fc-4cba-44c5-888e-2cfc0f6739f6
 set: 2x2
 type: Enchantment
-meta_presence: 0.0007
+meta_presence: 0.0009
 archetypes:
   izzet-prowess:
-    weight: 0.0058
+    weight: 0.0057
     avg_copies: 1.0
   unknown-10:
     weight: 1.0
-    avg_copies: 2.5
+    avg_copies: 2.67
   unknown-112:
     weight: 1.0
     avg_copies: 3.0

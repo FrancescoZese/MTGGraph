@@ -3,16 +3,16 @@ colors:
 - U
 - B
 name: 'Unknown #45'
-meta_share: 0.0045
+meta_share: 0.0044
 list_count: 30
 top_cards:
 - name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
-- name: Archon of Cruelty
+- name: Eyetwitch
   weight: 1.0
   avg_copies: 4.0
-- name: Eyetwitch
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
 - name: Swamp
@@ -147,55 +147,40 @@ top_cards:
 - name: Revitalizing Repast
   weight: 0.1
   avg_copies: 1.0
-- name: Ashiok, Dream Render
-  weight: 0.0667
-  avg_copies: 1.5
 - name: Mai, Scornful Striker
   weight: 0.0667
   avg_copies: 1.5
 - name: Blood Crypt
   weight: 0.0667
   avg_copies: 1.5
-- name: Redirect Lightning
+- name: Ashiok, Dream Render
   weight: 0.0667
-  avg_copies: 1.0
-- name: Cling to Dust
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Plague Engineer
-  weight: 0.0667
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Forest
   weight: 0.0667
   avg_copies: 1.0
 - name: card:summon-bahamut
   weight: 0.0667
   avg_copies: 1.0
+- name: Plague Engineer
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Redirect Lightning
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Cling to Dust
+  weight: 0.0667
+  avg_copies: 1.0
 - name: Harvester of Misery
   weight: 0.0667
   avg_copies: 1.0
-- name: Nihil Spellbomb
-  weight: 0.0333
-  avg_copies: 2.0
 - name: Price of Freedom
   weight: 0.0333
   avg_copies: 2.0
-- name: Improvisation Capstone
+- name: Nihil Spellbomb
   weight: 0.0333
-  avg_copies: 1.0
-- name: card:victimize
-  weight: 0.0333
-  avg_copies: 1.0
-- name: card:the-terminus-of-return
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Iroh's Demonstration
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Vampire Hexmage
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Liliana, the Last Hope
+  avg_copies: 2.0
+- name: Raucous Theater
   weight: 0.0333
   avg_copies: 1.0
 - name: Damping Sphere
@@ -204,10 +189,25 @@ top_cards:
 - name: Tormod's Crypt
   weight: 0.0333
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Improvisation Capstone
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Iroh's Demonstration
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Liliana, the Last Hope
   weight: 0.0333
   avg_copies: 1.0
 - name: Chthonian Nightmare
+  weight: 0.0333
+  avg_copies: 1.0
+- name: card:the-terminus-of-return
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Vampire Hexmage
+  weight: 0.0333
+  avg_copies: 1.0
+- name: card:victimize
   weight: 0.0333
   avg_copies: 1.0
 ---

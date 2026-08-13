@@ -10,16 +10,16 @@ type: Creature — Human Wizard // Instant
 meta_presence: 0.0016
 archetypes:
   goryo:
-    weight: 0.0028
+    weight: 0.0027
     avg_copies: 2.0
   jeskai-control:
     weight: 0.0172
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0077
+    weight: 0.0074
     avg_copies: 1.0
   goryo1:
-    weight: 0.0341
+    weight: 0.0337
     avg_copies: 2.0
   unknown-5:
     weight: 0.1

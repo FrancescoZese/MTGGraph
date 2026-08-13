@@ -6,7 +6,7 @@ name: Ghost Vacuum
 scryfall_id: 8ac39c01-127f-4471-bc74-11a90c48e306
 set: dsk
 type: Artifact
-meta_presence: 0.0196
+meta_presence: 0.0195
 archetypes:
   boros-energy:
     weight: 0.0223
@@ -15,16 +15,16 @@ archetypes:
     weight: 0.358
     avg_copies: 1.55
   jeskai-energy:
-    weight: 0.0226
+    weight: 0.0224
     avg_copies: 1.33
   eldrazi-tron:
     weight: 0.0032
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.018
+    weight: 0.0179
     avg_copies: 1.0
   goryo:
-    weight: 0.0193
+    weight: 0.0189
     avg_copies: 1.0
   jeskai-control:
     weight: 0.0172
@@ -33,10 +33,10 @@ archetypes:
     weight: 0.0284
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0231
+    weight: 0.0221
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0066
+    weight: 0.0065
     avg_copies: 1.0
   izzet-wizards:
     weight: 0.25
@@ -51,13 +51,13 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   goryo1:
-    weight: 0.017
+    weight: 0.0169
     avg_copies: 1.0
   sultai-midrange:
     weight: 0.75
     avg_copies: 1.0
   unknown-15:
-    weight: 0.0769
+    weight: 0.0714
     avg_copies: 1.0
   unknown-23:
     weight: 0.1667
@@ -66,22 +66,25 @@ archetypes:
     weight: 0.4
     avg_copies: 3.0
   unknown-47:
-    weight: 0.1159
+    weight: 0.1111
     avg_copies: 1.25
   unknown-61:
-    weight: 0.1146
+    weight: 0.1134
     avg_copies: 1.82
   unknown-68:
     weight: 0.1
     avg_copies: 1.0
   unknown-96:
-    weight: 0.0476
+    weight: 0.0444
     avg_copies: 3.0
   unknown-111:
     weight: 0.4
     avg_copies: 1.0
   unknown-113:
     weight: 0.5
+    avg_copies: 1.0
+  unknown-131:
+    weight: 0.1111
     avg_copies: 1.0
   unknown-132:
     weight: 0.5

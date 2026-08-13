@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0992
 archetypes:
   jeskai-energy:
-    weight: 0.0752
+    weight: 0.0746
     avg_copies: 1.1
   reanimator:
     weight: 0.037
@@ -22,13 +22,13 @@ archetypes:
     weight: 0.2059
     avg_copies: 1.88
   eldrazi-ramp:
-    weight: 0.568
+    weight: 0.5635
     avg_copies: 2.06
   izzet-prowess:
-    weight: 0.9452
-    avg_copies: 2.52
+    weight: 0.9459
+    avg_copies: 2.51
   broodscale-combo:
-    weight: 0.4158
+    weight: 0.4183
     avg_copies: 2.09
   dredge:
     weight: 0.0741
@@ -55,7 +55,7 @@ archetypes:
     weight: 0.5
     avg_copies: 3.0
   goryo1:
-    weight: 0.0227
+    weight: 0.0225
     avg_copies: 1.0
   izzet-murktide:
     weight: 1.0
@@ -67,11 +67,11 @@ archetypes:
     weight: 0.2727
     avg_copies: 2.33
   unknown-10:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 2.0
   unknown-15:
-    weight: 0.7692
-    avg_copies: 2.92
+    weight: 0.7857
+    avg_copies: 3.0
   unknown-18:
     weight: 1.0
     avg_copies: 4.0
@@ -96,6 +96,9 @@ archetypes:
   unknown-86:
     weight: 0.5833
     avg_copies: 3.57
+  unknown-96:
+    weight: 0.0222
+    avg_copies: 3.0
   unknown-90:
     weight: 1.0
     avg_copies: 2.0
@@ -103,8 +106,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-122:
-    weight: 0.963
-    avg_copies: 2.88
+    weight: 0.9643
+    avg_copies: 2.82
   unknown-128:
     weight: 1.0
     avg_copies: 2.0

@@ -12,10 +12,10 @@ top_cards:
 - name: Flare of Malice
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodghast
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Bloodghast
   weight: 1.0
   avg_copies: 4.0
 - name: Archon of Cruelty
@@ -36,28 +36,28 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 2.09
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 2.0
 - name: Brotherhood's End
   weight: 1.0
   avg_copies: 2.0
 - name: Village Rites
   weight: 1.0
   avg_copies: 2.0
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 2.0
-- name: Corrupted Conviction
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 1.91
-- name: Polluted Delta
+- name: Corrupted Conviction
   weight: 1.0
   avg_copies: 1.91
 - name: End the Festivities
   weight: 1.0
   avg_copies: 1.18
-- name: Wooded Foothills
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.0
-- name: Bloodstained Mire
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 1.0
 - name: Persist
@@ -93,10 +93,10 @@ top_cards:
 - name: Den of the Bugbear
   weight: 0.3636
   avg_copies: 1.0
-- name: Mishra's Bauble
+- name: card:electrodominance
   weight: 0.2727
   avg_copies: 4.0
-- name: card:electrodominance
+- name: Mishra's Bauble
   weight: 0.2727
   avg_copies: 4.0
 - name: Nethergoyf
@@ -114,16 +114,16 @@ top_cards:
 - name: Detective's Phoenix
   weight: 0.2727
   avg_copies: 2.0
-- name: Blood Moon
-  weight: 0.1818
-  avg_copies: 2.0
 - name: Flashback
   weight: 0.1818
   avg_copies: 2.0
-- name: Oliphaunt
+- name: Blood Moon
+  weight: 0.1818
+  avg_copies: 2.0
+- name: Lightning Skelemental
   weight: 0.1818
   avg_copies: 1.5
-- name: Lightning Skelemental
+- name: Oliphaunt
   weight: 0.1818
   avg_copies: 1.5
 - name: Troll of Khazad-dûm
@@ -132,25 +132,25 @@ top_cards:
 - name: card:thunderkin-awakener
   weight: 0.0909
   avg_copies: 3.0
-- name: Veil of Summer
+- name: Seasoned Pyromancer
   weight: 0.0909
   avg_copies: 2.0
 - name: Dauthi Voidwalker
   weight: 0.0909
   avg_copies: 2.0
-- name: card:archfiend-s-vessel
+- name: Overgrown Tomb
   weight: 0.0909
   avg_copies: 2.0
 - name: Emperor of Bones
   weight: 0.0909
   avg_copies: 2.0
+- name: Veil of Summer
+  weight: 0.0909
+  avg_copies: 2.0
 - name: Unearth
   weight: 0.0909
   avg_copies: 2.0
-- name: Seasoned Pyromancer
-  weight: 0.0909
-  avg_copies: 2.0
-- name: Overgrown Tomb
+- name: card:archfiend-s-vessel
   weight: 0.0909
   avg_copies: 2.0
 - name: Ob Nixilis, the Adversary

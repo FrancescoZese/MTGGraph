@@ -22,7 +22,7 @@ archetypes:
     weight: 0.1029
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0132
+    weight: 0.0131
     avg_copies: 3.0
   soultrader-combo:
     weight: 0.1429

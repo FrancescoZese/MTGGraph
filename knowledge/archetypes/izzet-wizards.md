@@ -120,10 +120,10 @@ top_cards:
 - name: Preordain
   weight: 0.1667
   avg_copies: 3.0
-- name: Flare of Denial
+- name: Fable of the Mirror-Breaker
   weight: 0.1667
   avg_copies: 2.5
-- name: Fable of the Mirror-Breaker
+- name: Flare of Denial
   weight: 0.1667
   avg_copies: 2.5
 - name: Test of Talents
@@ -138,34 +138,34 @@ top_cards:
 - name: Dress Down
   weight: 0.1667
   avg_copies: 1.33
+- name: Flashback
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Spell Pierce
   weight: 0.1667
   avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.1667
   avg_copies: 1.0
-- name: Flashback
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Unholy Heat
-  weight: 0.0833
-  avg_copies: 4.0
 - name: Mishra's Bauble
   weight: 0.0833
   avg_copies: 4.0
-- name: Marang River Regent
+- name: Unholy Heat
   weight: 0.0833
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Soul-Guide Lantern
   weight: 0.0833
   avg_copies: 3.0
-- name: Engineered Explosives
+- name: Marang River Regent
   weight: 0.0833
-  avg_copies: 2.0
-- name: Spirebluff Canal
+  avg_copies: 3.0
+- name: Expressive Iteration
   weight: 0.0833
   avg_copies: 2.0
 - name: Brainsurge
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Engineered Explosives
   weight: 0.0833
   avg_copies: 2.0
 - name: Den of the Bugbear
@@ -174,40 +174,40 @@ top_cards:
 - name: Field of Ruin
   weight: 0.0833
   avg_copies: 2.0
-- name: Expressive Iteration
+- name: Spirebluff Canal
   weight: 0.0833
   avg_copies: 2.0
-- name: Stern Scolding
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Vexing Bauble
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Stone of Erech
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Agna Qel'a
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Annul
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Mistrise Village
+- name: Vampires' Vengeance
   weight: 0.0833
   avg_copies: 1.0
 - name: Arid Mesa
   weight: 0.0833
   avg_copies: 1.0
-- name: Riverpyre Verge
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Vampires' Vengeance
+- name: Hurkyl's Recall
   weight: 0.0833
   avg_copies: 1.0
 - name: Vedalken Shackles
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Riverpyre Verge
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Stern Scolding
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Annul
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Vexing Bauble
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Mistrise Village
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Stone of Erech
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Agna Qel'a
   weight: 0.0833
   avg_copies: 1.0
 ---

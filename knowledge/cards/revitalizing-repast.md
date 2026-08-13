@@ -9,10 +9,10 @@ type: Instant // Land
 meta_presence: 0.0019
 archetypes:
   necrodominance:
-    weight: 0.0227
+    weight: 0.0222
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0066
+    weight: 0.0065
     avg_copies: 2.5
   goryo5:
     weight: 0.037

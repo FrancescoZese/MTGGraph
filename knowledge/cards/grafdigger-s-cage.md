@@ -6,7 +6,7 @@ name: Grafdigger's Cage
 scryfall_id: 0a135e09-b534-4836-9a10-3a9a4a9f8c53
 set: m20
 type: Artifact
-meta_presence: 0.1034
+meta_presence: 0.1038
 archetypes:
   boros-energy:
     weight: 0.0013
@@ -15,7 +15,7 @@ archetypes:
     weight: 0.191
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.5194
+    weight: 0.5223
     avg_copies: 1.06
   amulet-titan:
     weight: 0.006
@@ -24,25 +24,25 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   necrodominance:
-    weight: 0.0227
+    weight: 0.0222
     avg_copies: 1.0
   affinity:
-    weight: 0.2595
+    weight: 0.2576
     avg_copies: 1.01
   burn:
     weight: 0.0256
     avg_copies: 1.0
   hammer-time:
-    weight: 0.2143
-    avg_copies: 1.0
+    weight: 0.2667
+    avg_copies: 1.5
   eldrazi-ramp:
-    weight: 0.608
-    avg_copies: 1.59
+    weight: 0.6111
+    avg_copies: 1.61
   izzet-prowess:
-    weight: 0.0029
+    weight: 0.0028
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.7756
+    weight: 0.7778
     avg_copies: 1.0
   orzhov-blink:
     weight: 0.1765
@@ -60,7 +60,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-15:
-    weight: 0.2308
+    weight: 0.2857
     avg_copies: 1.0
   unknown-21:
     weight: 1.0
@@ -75,7 +75,7 @@ archetypes:
     weight: 0.25
     avg_copies: 2.0
   unknown-61:
-    weight: 0.0104
+    weight: 0.0103
     avg_copies: 1.0
   unknown-53:
     weight: 1.0
@@ -96,7 +96,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0132
+    weight: 0.012
     avg_copies: 1.0
   unknown-159:
     weight: 1.0

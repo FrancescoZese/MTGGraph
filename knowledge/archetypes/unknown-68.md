@@ -124,10 +124,10 @@ top_cards:
 - name: End of the Hunt
   weight: 0.275
   avg_copies: 1.09
-- name: Surgical Extraction
+- name: Orim's Chant
   weight: 0.25
   avg_copies: 1.3
-- name: Orim's Chant
+- name: Surgical Extraction
   weight: 0.25
   avg_copies: 1.3
 - name: Prismatic Ending
@@ -169,10 +169,10 @@ top_cards:
 - name: Windswept Heath
   weight: 0.075
   avg_copies: 2.67
-- name: Blood Moon
+- name: Witch Enchanter
   weight: 0.075
   avg_copies: 2.0
-- name: Witch Enchanter
+- name: Blood Moon
   weight: 0.075
   avg_copies: 2.0
 - name: Solitude
@@ -181,40 +181,40 @@ top_cards:
 - name: Rest in Peace
   weight: 0.05
   avg_copies: 1.0
+- name: Containment Priest
+  weight: 0.05
+  avg_copies: 1.0
 - name: Sanctifier en-Vec
   weight: 0.05
   avg_copies: 1.0
 - name: Strategic Betrayal
   weight: 0.05
   avg_copies: 1.0
-- name: Containment Priest
-  weight: 0.05
-  avg_copies: 1.0
-- name: Path to Exile
-  weight: 0.025
-  avg_copies: 2.0
 - name: Duress
-  weight: 0.025
-  avg_copies: 2.0
-- name: Lingering Souls
   weight: 0.025
   avg_copies: 2.0
 - name: Reckless Pyrosurfer
   weight: 0.025
   avg_copies: 2.0
+- name: Path to Exile
+  weight: 0.025
+  avg_copies: 2.0
+- name: Lingering Souls
+  weight: 0.025
+  avg_copies: 2.0
 - name: Static Prison
+  weight: 0.025
+  avg_copies: 1.0
+- name: Stony Silence
   weight: 0.025
   avg_copies: 1.0
 - name: Sunbaked Canyon
   weight: 0.025
   avg_copies: 1.0
-- name: Faerie Macabre
-  weight: 0.025
-  avg_copies: 1.0
 - name: Clarion Conqueror
   weight: 0.025
   avg_copies: 1.0
-- name: Stony Silence
+- name: Faerie Macabre
   weight: 0.025
   avg_copies: 1.0
 ---

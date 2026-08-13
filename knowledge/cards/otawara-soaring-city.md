@@ -6,22 +6,22 @@ name: Otawara, Soaring City
 scryfall_id: 486d7edc-d983-41f0-8b78-c99aecd72996
 set: neo
 type: Legendary Land
-meta_presence: 0.1215
+meta_presence: 0.1218
 archetypes:
   ruby-storm:
-    weight: 0.0083
+    weight: 0.0082
     avg_copies: 1.0
   dimir-control:
     weight: 0.5926
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.9641
+    weight: 0.9643
     avg_copies: 1.0
   goryo:
-    weight: 0.0055
+    weight: 0.0054
     avg_copies: 1.0
   azorius-control:
-    weight: 0.7143
+    weight: 0.7059
     avg_copies: 1.0
   living-end:
     weight: 0.76
@@ -30,13 +30,13 @@ archetypes:
     weight: 0.3966
     avg_copies: 1.0
   affinity:
-    weight: 0.0687
+    weight: 0.0682
     avg_copies: 1.0
   mill:
     weight: 0.8889
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0392
+    weight: 0.0388
     avg_copies: 1.0
   mono-blue-tron:
     weight: 1.0
@@ -48,7 +48,7 @@ archetypes:
     weight: 0.5833
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0029
+    weight: 0.0028
     avg_copies: 1.0
   4c-omnath:
     weight: 0.25
@@ -72,7 +72,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo2:
-    weight: 0.125
+    weight: 0.1463
     avg_copies: 1.0
   grixis-control:
     weight: 0.2857
@@ -84,13 +84,13 @@ archetypes:
     weight: 0.75
     avg_copies: 1.0
   unknown-10:
-    weight: 0.5
+    weight: 0.6667
     avg_copies: 1.0
   unknown-11:
     weight: 0.6
     avg_copies: 1.0
   unknown-15:
-    weight: 0.9231
+    weight: 0.9286
     avg_copies: 1.0
   unknown-17:
     weight: 0.3333
@@ -111,7 +111,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.6739
+    weight: 0.6875
     avg_copies: 1.0
   unknown-62:
     weight: 0.0303
@@ -123,7 +123,7 @@ archetypes:
     weight: 0.3448
     avg_copies: 1.0
   unknown-67:
-    weight: 0.4091
+    weight: 0.3956
     avg_copies: 1.0
   unknown-73:
     weight: 1.0
@@ -216,6 +216,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-236:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-247:
     weight: 1.0
     avg_copies: 1.0
 ---

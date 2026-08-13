@@ -10,8 +10,8 @@ type: Enchantment
 meta_presence: 0.0076
 archetypes:
   necrodominance:
-    weight: 0.25
-    avg_copies: 1.18
+    weight: 0.2667
+    avg_copies: 1.17
   mill:
     weight: 0.0556
     avg_copies: 1.0
@@ -28,7 +28,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   goryo1:
-    weight: 0.0057
+    weight: 0.0056
     avg_copies: 1.0
   goryo5:
     weight: 0.1481

@@ -4,7 +4,7 @@ colors:
 - U
 - R
 name: Jeskai Control
-meta_share: 0.0086
+meta_share: 0.0085
 list_count: 58
 top_cards:
 - name: Flooded Strand
@@ -145,10 +145,10 @@ top_cards:
 - name: Tune the Narrative
   weight: 0.1379
   avg_copies: 1.88
-- name: Ashiok, Dream Render
+- name: Mountain
   weight: 0.1379
   avg_copies: 1.0
-- name: Mountain
+- name: Ashiok, Dream Render
   weight: 0.1379
   avg_copies: 1.0
 - name: Arena of Glory
@@ -190,25 +190,25 @@ top_cards:
 - name: Snapcaster Mage
   weight: 0.0517
   avg_copies: 2.67
-- name: Flare of Denial
-  weight: 0.0517
-  avg_copies: 2.0
 - name: Reprieve
   weight: 0.0517
   avg_copies: 2.0
-- name: card:felidar-guardian
+- name: Flare of Denial
+  weight: 0.0517
+  avg_copies: 2.0
+- name: card:saheeli-rai
   weight: 0.0345
   avg_copies: 3.0
-- name: card:saheeli-rai
+- name: card:felidar-guardian
   weight: 0.0345
   avg_copies: 3.0
 - name: Lightning Bolt
   weight: 0.0345
   avg_copies: 2.5
-- name: Erode
+- name: Brainsurge
   weight: 0.0345
   avg_copies: 2.0
-- name: Brainsurge
+- name: Erode
   weight: 0.0345
   avg_copies: 2.0
 - name: Quantum Riddler
@@ -217,13 +217,13 @@ top_cards:
 - name: Traumatic Critique
   weight: 0.0345
   avg_copies: 1.5
+- name: Dovin's Veto
+  weight: 0.0345
+  avg_copies: 1.0
 - name: card:bribery
   weight: 0.0345
   avg_copies: 1.0
 - name: Wear
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Dovin's Veto
   weight: 0.0345
   avg_copies: 1.0
 - name: Dress Down
@@ -235,64 +235,58 @@ top_cards:
 - name: Nulldrifter
   weight: 0.0172
   avg_copies: 3.0
-- name: Wan Shi Tong, Librarian
-  weight: 0.0172
-  avg_copies: 2.0
-- name: Invert Polarity
-  weight: 0.0172
-  avg_copies: 2.0
-- name: Harbinger of the Seas
-  weight: 0.0172
-  avg_copies: 2.0
 - name: Drannith Magistrate
   weight: 0.0172
   avg_copies: 2.0
 - name: Ephemerate
   weight: 0.0172
   avg_copies: 2.0
+- name: Harbinger of the Seas
+  weight: 0.0172
+  avg_copies: 2.0
+- name: Invert Polarity
+  weight: 0.0172
+  avg_copies: 2.0
 - name: Prismari Charm
   weight: 0.0172
   avg_copies: 2.0
-- name: Hedge Maze
+- name: Wan Shi Tong, Librarian
   weight: 0.0172
-  avg_copies: 1.0
-- name: Hallowed Moonlight
-  weight: 0.0172
-  avg_copies: 1.0
-- name: Timeless Dragon
+  avg_copies: 2.0
+- name: Unlicensed Hearse
   weight: 0.0172
   avg_copies: 1.0
 - name: Thraben Charm
   weight: 0.0172
   avg_copies: 1.0
-- name: Emeritus of Ideation
+- name: Get Lost
+  weight: 0.0172
+  avg_copies: 1.0
+- name: Floodfarm Verge
   weight: 0.0172
   avg_copies: 1.0
 - name: Raugrin Triome
   weight: 0.0172
   avg_copies: 1.0
-- name: Flashback
-  weight: 0.0172
-  avg_copies: 1.0
-- name: Kozilek, Butcher of Truth
-  weight: 0.0172
-  avg_copies: 1.0
-- name: Unlicensed Hearse
-  weight: 0.0172
-  avg_copies: 1.0
-- name: card:captain-marvel-earth-s-protector
+- name: Windswept Heath
   weight: 0.0172
   avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.0172
   avg_copies: 1.0
-- name: Path to Exile
+- name: Kozilek, Butcher of Truth
   weight: 0.0172
   avg_copies: 1.0
-- name: Windswept Heath
+- name: Timeless Dragon
   weight: 0.0172
   avg_copies: 1.0
-- name: Floodfarm Verge
+- name: Hallowed Moonlight
+  weight: 0.0172
+  avg_copies: 1.0
+- name: Flashback
+  weight: 0.0172
+  avg_copies: 1.0
+- name: Hedge Maze
   weight: 0.0172
   avg_copies: 1.0
 - name: Vendilion Clique
@@ -301,7 +295,13 @@ top_cards:
 - name: Ghost Vacuum
   weight: 0.0172
   avg_copies: 1.0
-- name: Get Lost
+- name: card:captain-marvel-earth-s-protector
+  weight: 0.0172
+  avg_copies: 1.0
+- name: Emeritus of Ideation
+  weight: 0.0172
+  avg_copies: 1.0
+- name: Path to Exile
   weight: 0.0172
   avg_copies: 1.0
 ---

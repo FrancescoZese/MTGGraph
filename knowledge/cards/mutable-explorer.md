@@ -10,6 +10,6 @@ type: Creature — Shapeshifter
 meta_presence: 0.0001
 archetypes:
   eldrazi-ramp:
-    weight: 0.008
+    weight: 0.0079
     avg_copies: 1.0
 ---

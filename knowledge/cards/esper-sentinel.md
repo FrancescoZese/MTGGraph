@@ -10,7 +10,7 @@ type: Artifact Creature — Human Soldier
 meta_presence: 0.0022
 archetypes:
   hammer-time:
-    weight: 0.9286
+    weight: 0.8667
     avg_copies: 3.92
   unknown-21:
     weight: 1.0

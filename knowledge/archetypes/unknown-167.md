@@ -2,7 +2,7 @@
 colors:
 - U
 name: 'Unknown #167'
-meta_share: 0.0024
+meta_share: 0.0023
 list_count: 16
 top_cards:
 - name: Mishra's Bauble
@@ -71,10 +71,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.6875
   avg_copies: 1.0
-- name: Scalding Tarn
+- name: Hallowed Fountain
   weight: 0.625
   avg_copies: 1.8
-- name: Hallowed Fountain
+- name: Scalding Tarn
   weight: 0.625
   avg_copies: 1.8
 - name: Tormod's Crypt
@@ -170,34 +170,34 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.125
   avg_copies: 1.5
-- name: Grafdigger's Cage
-  weight: 0.125
-  avg_copies: 1.0
-- name: card:scrabbling-claws
-  weight: 0.125
-  avg_copies: 1.0
-- name: Unable to Scream
+- name: Krang, Master Mind
   weight: 0.125
   avg_copies: 1.0
 - name: card:urza-lord-high-artificer
   weight: 0.125
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Unable to Scream
+  weight: 0.125
+  avg_copies: 1.0
+- name: Tezzeret, Cruel Captain
+  weight: 0.125
+  avg_copies: 1.0
+- name: card:scrabbling-claws
   weight: 0.125
   avg_copies: 1.0
 - name: card:bruce-banner
   weight: 0.125
   avg_copies: 1.0
+- name: Grafdigger's Cage
+  weight: 0.125
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 0.125
+  avg_copies: 1.0
 - name: Gran-Gran
   weight: 0.125
   avg_copies: 1.0
-- name: Krang, Master Mind
-  weight: 0.125
-  avg_copies: 1.0
 - name: Plains
-  weight: 0.125
-  avg_copies: 1.0
-- name: Tezzeret, Cruel Captain
   weight: 0.125
   avg_copies: 1.0
 - name: Kappa Cannoneer
@@ -209,21 +209,15 @@ top_cards:
 - name: Sacred Ground
   weight: 0.0625
   avg_copies: 3.0
-- name: Glimmervoid
+- name: Dismember
   weight: 0.0625
   avg_copies: 2.0
 - name: Erode
   weight: 0.0625
   avg_copies: 2.0
-- name: Dismember
+- name: Glimmervoid
   weight: 0.0625
   avg_copies: 2.0
-- name: Thief of Existence
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Ashiok, Dream Render
-  weight: 0.0625
-  avg_copies: 1.0
 - name: Spell Snare
   weight: 0.0625
   avg_copies: 1.0
@@ -231,6 +225,12 @@ top_cards:
   weight: 0.0625
   avg_copies: 1.0
 - name: Does Machines
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Thief of Existence
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
   weight: 0.0625
   avg_copies: 1.0
 ---

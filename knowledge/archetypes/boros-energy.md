@@ -3,8 +3,8 @@ colors:
 - W
 - R
 name: Boros Energy
-meta_share: 0.113
-list_count: 761
+meta_share: 0.112
+list_count: 764
 top_cards:
 - name: Guide of Souls
   weight: 1.0
@@ -29,177 +29,177 @@ top_cards:
   avg_copies: 3.97
 - name: Goblin Bombardment
   weight: 0.9987
-  avg_copies: 2.97
+  avg_copies: 2.98
 - name: Galvanic Discharge
   weight: 0.9974
   avg_copies: 3.98
 - name: Thraben Charm
-  weight: 0.9947
+  weight: 0.9948
   avg_copies: 2.31
 - name: Plains
-  weight: 0.9816
+  weight: 0.9817
   avg_copies: 1.97
 - name: Marsh Flats
-  weight: 0.9711
+  weight: 0.9699
   avg_copies: 3.28
 - name: Wrath of the Skies
-  weight: 0.9671
+  weight: 0.9673
   avg_copies: 2.09
 - name: Seasoned Pyromancer
-  weight: 0.9527
+  weight: 0.9529
   avg_copies: 2.84
 - name: Wear
-  weight: 0.9527
+  weight: 0.9529
   avg_copies: 1.63
 - name: Arena of Glory
-  weight: 0.9488
+  weight: 0.949
   avg_copies: 2.13
 - name: Voice of Victory
-  weight: 0.8896
-  avg_copies: 2.45
+  weight: 0.8901
+  avg_copies: 2.46
 - name: Mountain
-  weight: 0.8725
+  weight: 0.873
   avg_copies: 1.01
 - name: Flooded Strand
-  weight: 0.8581
+  weight: 0.8573
   avg_copies: 3.41
 - name: Obsidian Charmaw
-  weight: 0.8265
+  weight: 0.8259
   avg_copies: 2.43
 - name: High Noon
-  weight: 0.77
+  weight: 0.7696
   avg_copies: 1.7
 - name: Surgical Extraction
-  weight: 0.7424
+  weight: 0.7421
   avg_copies: 1.28
 - name: Blood Moon
-  weight: 0.7135
+  weight: 0.7134
   avg_copies: 1.23
 - name: Celestial Purge
-  weight: 0.6675
+  weight: 0.6662
   avg_copies: 1.39
 - name: Orim's Chant
-  weight: 0.6649
+  weight: 0.6636
   avg_copies: 1.74
 - name: Dalkovan Encampment
-  weight: 0.6544
+  weight: 0.6558
   avg_copies: 1.27
 - name: Vexing Bauble
-  weight: 0.6334
+  weight: 0.6348
   avg_copies: 1.61
 - name: Ranger-Captain of Eos
-  weight: 0.6307
+  weight: 0.6322
   avg_copies: 1.98
 - name: The Legend of Roku
-  weight: 0.5887
-  avg_copies: 1.37
+  weight: 0.5903
+  avg_copies: 1.36
 - name: Phlage, Titan of Fire's Fury
-  weight: 0.5046
+  weight: 0.5026
   avg_copies: 3.82
 - name: Windswept Heath
-  weight: 0.3811
+  weight: 0.3822
   avg_copies: 2.73
 - name: Fable of the Mirror-Breaker
-  weight: 0.3285
+  weight: 0.3272
   avg_copies: 1.75
 - name: Static Prison
-  weight: 0.3088
+  weight: 0.3076
   avg_copies: 1.1
 - name: Damping Sphere
-  weight: 0.2852
+  weight: 0.284
   avg_copies: 1.36
 - name: Lightning Bolt
-  weight: 0.2444
+  weight: 0.2461
   avg_copies: 1.21
 - name: Rest in Peace
-  weight: 0.2378
+  weight: 0.2382
   avg_copies: 1.57
 - name: Clarion Conqueror
-  weight: 0.1774
-  avg_copies: 1.45
+  weight: 0.178
+  avg_copies: 1.46
 - name: Haliya, Guided by Light
-  weight: 0.1682
-  avg_copies: 1.2
+  weight: 0.1688
+  avg_copies: 1.19
 - name: Boromir, Warden of the Tower
-  weight: 0.1419
+  weight: 0.1414
   avg_copies: 1.05
 - name: Solitude
-  weight: 0.1393
+  weight: 0.1387
   avg_copies: 1.17
 - name: Soul-Guide Lantern
-  weight: 0.1209
+  weight: 0.1204
   avg_copies: 1.07
 - name: Mana Tithe
-  weight: 0.0933
+  weight: 0.0929
   avg_copies: 1.82
 - name: Containment Priest
-  weight: 0.0854
+  weight: 0.0851
   avg_copies: 1.34
 - name: Meltdown
-  weight: 0.0854
+  weight: 0.0851
   avg_copies: 1.28
 - name: Shatterstorm
-  weight: 0.071
+  weight: 0.0707
   avg_copies: 1.04
 - name: Drannith Magistrate
-  weight: 0.071
+  weight: 0.0707
   avg_copies: 1.04
 - name: Deafening Silence
-  weight: 0.0512
-  avg_copies: 1.67
+  weight: 0.0524
+  avg_copies: 1.68
 - name: Prismatic Ending
-  weight: 0.0473
+  weight: 0.0471
   avg_copies: 1.22
 - name: Exorcise
-  weight: 0.0473
+  weight: 0.0471
   avg_copies: 1.0
 - name: Sunbaked Canyon
-  weight: 0.046
+  weight: 0.0458
   avg_copies: 1.09
 - name: Witch Enchanter
-  weight: 0.046
+  weight: 0.0458
   avg_copies: 1.06
 - name: Sanctifier en-Vec
-  weight: 0.0381
+  weight: 0.0393
   avg_copies: 1.93
 - name: March of Otherworldly Light
-  weight: 0.0302
+  weight: 0.0301
   avg_copies: 1.03
 - name: Path to Exile
-  weight: 0.0276
+  weight: 0.0275
   avg_copies: 1.27
 - name: Reckless Pyrosurfer
-  weight: 0.025
+  weight: 0.0249
   avg_copies: 2.21
 - name: Snow-Covered Mountain
-  weight: 0.025
+  weight: 0.0249
   avg_copies: 1.0
 - name: Phelia, Exuberant Shepherd
-  weight: 0.0237
+  weight: 0.0236
   avg_copies: 1.28
 - name: Erode
-  weight: 0.0237
+  weight: 0.0236
   avg_copies: 1.1
 - name: Ghost Vacuum
   weight: 0.0223
   avg_copies: 1.0
 - name: Snow-Covered Plains
-  weight: 0.0197
+  weight: 0.0196
   avg_copies: 2.33
 - name: Sunbillow Verge
-  weight: 0.0171
+  weight: 0.017
   avg_copies: 1.0
 - name: Molten Rain
-  weight: 0.0158
+  weight: 0.0157
   avg_copies: 2.08
 - name: Screaming Nemesis
-  weight: 0.0158
+  weight: 0.0157
   avg_copies: 1.87
 - name: Destroy Evil
-  weight: 0.0145
+  weight: 0.0144
   avg_copies: 1.18
 - name: Disruptor Flute
-  weight: 0.0145
+  weight: 0.0144
   avg_copies: 1.0
 - name: Cori Mountain Monastery
   weight: 0.0131
@@ -213,10 +213,10 @@ top_cards:
 - name: Practiced Offense
   weight: 0.0092
   avg_copies: 2.14
-- name: Lorehold Charm
+- name: Showdown of the Skalds
   weight: 0.0092
   avg_copies: 1.14
-- name: Showdown of the Skalds
+- name: Lorehold Charm
   weight: 0.0092
   avg_copies: 1.14
 - name: Bloodstained Mire
@@ -229,25 +229,25 @@ top_cards:
   weight: 0.0079
   avg_copies: 1.0
 - name: card:painter-s-studio-defaced-gallery
-  weight: 0.0066
+  weight: 0.0065
   avg_copies: 2.0
-- name: Redirect Lightning
-  weight: 0.0066
-  avg_copies: 1.0
 - name: Burrenton Forge-Tender
-  weight: 0.0066
+  weight: 0.0065
+  avg_copies: 1.0
+- name: Redirect Lightning
+  weight: 0.0065
   avg_copies: 1.0
 - name: Lightning, Army of One
-  weight: 0.0053
+  weight: 0.0052
   avg_copies: 2.0
 - name: Enduring Innocence
-  weight: 0.0053
+  weight: 0.0052
   avg_copies: 1.75
-- name: Aven Mindcensor
-  weight: 0.0053
-  avg_copies: 1.0
 - name: Hallowed Moonlight
-  weight: 0.0053
+  weight: 0.0052
+  avg_copies: 1.0
+- name: Aven Mindcensor
+  weight: 0.0052
   avg_copies: 1.0
 - name: White Orchid Phantom
   weight: 0.0039
@@ -276,10 +276,10 @@ top_cards:
 - name: Consign to Memory
   weight: 0.0026
   avg_copies: 2.5
-- name: Magebane Lizard
+- name: Wear
   weight: 0.0026
   avg_copies: 2.0
-- name: Wear
+- name: Magebane Lizard
   weight: 0.0026
   avg_copies: 2.0
 - name: The Battle of Bywater
@@ -288,151 +288,151 @@ top_cards:
 - name: Hallowed Fountain
   weight: 0.0026
   avg_copies: 1.5
-- name: Magus of the Moon
+- name: Sacred Ground
   weight: 0.0026
   avg_copies: 1.0
 - name: Steam Vents
   weight: 0.0026
   avg_copies: 1.0
-- name: Sacred Ground
-  weight: 0.0026
-  avg_copies: 1.0
 - name: Umezawa's Jitte
   weight: 0.0026
   avg_copies: 1.0
-- name: Boom
-  weight: 0.0013
-  avg_copies: 4.0
+- name: Magus of the Moon
+  weight: 0.0026
+  avg_copies: 1.0
 - name: Starfield Shepherd
   weight: 0.0013
   avg_copies: 4.0
 - name: Inspiring Vantage
   weight: 0.0013
   avg_copies: 4.0
-- name: Maelstrom Artisan
+- name: Boom
   weight: 0.0013
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Flagstones of Trokair
   weight: 0.0013
   avg_copies: 3.0
 - name: Alpine Moon
   weight: 0.0013
   avg_copies: 3.0
-- name: card:conduit-goblin
+- name: Maelstrom Artisan
   weight: 0.0013
-  avg_copies: 2.0
-- name: Claim
-  weight: 0.0013
-  avg_copies: 2.0
-- name: Jolted Awake
-  weight: 0.0013
-  avg_copies: 2.0
-- name: Ark of Hunger
-  weight: 0.0013
-  avg_copies: 2.0
-- name: Teferi, Time Raveler
-  weight: 0.0013
-  avg_copies: 2.0
-- name: card:summon-brynhildr
-  weight: 0.0013
-  avg_copies: 2.0
-- name: Blasphemous Act
-  weight: 0.0013
-  avg_copies: 2.0
-- name: Kor Firewalker
-  weight: 0.0013
-  avg_copies: 2.0
-- name: Den of the Bugbear
-  weight: 0.0013
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Unlicensed Hearse
   weight: 0.0013
   avg_copies: 2.0
 - name: Kataki, War's Wage
   weight: 0.0013
   avg_copies: 2.0
-- name: Suncleanser
-  weight: 0.0013
-  avg_copies: 2.0
 - name: Detective's Phoenix
   weight: 0.0013
   avg_copies: 2.0
-- name: Sephiroth, Fabled SOLDIER
+- name: Jolted Awake
   weight: 0.0013
-  avg_copies: 1.0
-- name: Giant Killer
+  avg_copies: 2.0
+- name: Teferi, Time Raveler
   weight: 0.0013
-  avg_copies: 1.0
-- name: Tunnel Ignus
+  avg_copies: 2.0
+- name: Kor Firewalker
   weight: 0.0013
-  avg_copies: 1.0
-- name: card:leonardo-sewer-samurai
+  avg_copies: 2.0
+- name: Claim
   weight: 0.0013
-  avg_copies: 1.0
-- name: card:warleader-s-call
+  avg_copies: 2.0
+- name: Suncleanser
   weight: 0.0013
-  avg_copies: 1.0
-- name: Blood Crypt
+  avg_copies: 2.0
+- name: card:summon-brynhildr
   weight: 0.0013
-  avg_copies: 1.0
-- name: Fountainport
+  avg_copies: 2.0
+- name: card:conduit-goblin
   weight: 0.0013
-  avg_copies: 1.0
-- name: Pithing Needle
+  avg_copies: 2.0
+- name: Den of the Bugbear
   weight: 0.0013
-  avg_copies: 1.0
-- name: The Ooze
+  avg_copies: 2.0
+- name: Ark of Hunger
   weight: 0.0013
-  avg_copies: 1.0
-- name: Thundering Falls
+  avg_copies: 2.0
+- name: Blasphemous Act
   weight: 0.0013
-  avg_copies: 1.0
-- name: Eiganjo, Seat of the Empire
-  weight: 0.0013
-  avg_copies: 1.0
-- name: The Wandering Emperor
+  avg_copies: 2.0
+- name: Duty Beyond Death
   weight: 0.0013
   avg_copies: 1.0
 - name: Purphoros, God of the Forge
   weight: 0.0013
   avg_copies: 1.0
-- name: card:flowering-of-the-white-tree
+- name: card:frostcliff-siege
   weight: 0.0013
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: card:warleader-s-call
   weight: 0.0013
   avg_copies: 1.0
-- name: Curious Farm Animals
+- name: The Ooze
   weight: 0.0013
   avg_copies: 1.0
-- name: Fear of Missing Out
+- name: Tunnel Ignus
   weight: 0.0013
   avg_copies: 1.0
-- name: Mockingbird
-  weight: 0.0013
-  avg_copies: 1.0
-- name: Cool but Rude
-  weight: 0.0013
-  avg_copies: 1.0
-- name: Tersa Lightshatter
-  weight: 0.0013
-  avg_copies: 1.0
-- name: card:nahiri-the-harbinger
+- name: Thundering Falls
   weight: 0.0013
   avg_copies: 1.0
 - name: Sundering Eruption
   weight: 0.0013
   avg_copies: 1.0
-- name: Chandra, Torch of Defiance
+- name: Giant Killer
   weight: 0.0013
   avg_copies: 1.0
-- name: card:frostcliff-siege
-  weight: 0.0013
-  avg_copies: 1.0
-- name: Duty Beyond Death
+- name: Mockingbird
   weight: 0.0013
   avg_copies: 1.0
 - name: card:hazoret-the-fervent
+  weight: 0.0013
+  avg_copies: 1.0
+- name: Cool but Rude
+  weight: 0.0013
+  avg_copies: 1.0
+- name: Grafdigger's Cage
+  weight: 0.0013
+  avg_copies: 1.0
+- name: Pithing Needle
+  weight: 0.0013
+  avg_copies: 1.0
+- name: The Wandering Emperor
+  weight: 0.0013
+  avg_copies: 1.0
+- name: Curious Farm Animals
+  weight: 0.0013
+  avg_copies: 1.0
+- name: Fountainport
+  weight: 0.0013
+  avg_copies: 1.0
+- name: card:leonardo-sewer-samurai
+  weight: 0.0013
+  avg_copies: 1.0
+- name: Eiganjo, Seat of the Empire
+  weight: 0.0013
+  avg_copies: 1.0
+- name: Fear of Missing Out
+  weight: 0.0013
+  avg_copies: 1.0
+- name: Chandra, Torch of Defiance
+  weight: 0.0013
+  avg_copies: 1.0
+- name: card:nahiri-the-harbinger
+  weight: 0.0013
+  avg_copies: 1.0
+- name: Sephiroth, Fabled SOLDIER
+  weight: 0.0013
+  avg_copies: 1.0
+- name: card:flowering-of-the-white-tree
+  weight: 0.0013
+  avg_copies: 1.0
+- name: Blood Crypt
+  weight: 0.0013
+  avg_copies: 1.0
+- name: Tersa Lightshatter
   weight: 0.0013
   avg_copies: 1.0
 ---

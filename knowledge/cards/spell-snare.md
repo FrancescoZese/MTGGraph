@@ -7,7 +7,7 @@ name: Spell Snare
 scryfall_id: b7551b61-656e-4f37-b9da-73174db983b7
 set: ecl
 type: Instant
-meta_presence: 0.1533
+meta_presence: 0.1549
 archetypes:
   ruby-storm:
     weight: 0.0041
@@ -19,19 +19,19 @@ archetypes:
     weight: 0.9213
     avg_copies: 1.89
   jeskai-energy:
-    weight: 0.188
-    avg_copies: 1.15
+    weight: 0.194
+    avg_copies: 1.16
   goryo:
-    weight: 0.4463
-    avg_copies: 1.32
+    weight: 0.4514
+    avg_copies: 1.31
   azorius-control:
-    weight: 0.7653
-    avg_copies: 1.72
+    weight: 0.7745
+    avg_copies: 1.74
   jeskai-control:
     weight: 0.6897
     avg_copies: 1.32
   affinity:
-    weight: 0.0038
+    weight: 0.0057
     avg_copies: 1.0
   domain-zoo:
     weight: 0.0069
@@ -43,19 +43,19 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0882
+    weight: 0.0874
     avg_copies: 1.56
   mono-blue-tron:
     weight: 0.48
     avg_copies: 2.21
   hammer-time:
-    weight: 0.0714
+    weight: 0.0667
     avg_copies: 1.0
   simic-ritual:
     weight: 0.0417
     avg_copies: 1.75
   izzet-prowess:
-    weight: 0.4784
+    weight: 0.4815
     avg_copies: 1.54
   4c-omnath:
     weight: 0.25
@@ -85,11 +85,11 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   goryo1:
-    weight: 0.1761
-    avg_copies: 1.41
+    weight: 0.1798
+    avg_copies: 1.42
   goryo2:
-    weight: 0.6
-    avg_copies: 1.67
+    weight: 0.6098
+    avg_copies: 1.63
   goryo3:
     weight: 1.0
     avg_copies: 2.0
@@ -139,7 +139,7 @@ archetypes:
     weight: 0.0833
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9783
+    weight: 0.9792
     avg_copies: 2.06
   unknown-49:
     weight: 0.125
@@ -190,7 +190,7 @@ archetypes:
     weight: 0.8889
     avg_copies: 2.75
   unknown-122:
-    weight: 0.1111
+    weight: 0.1071
     avg_copies: 2.0
   unknown-125:
     weight: 1.0
@@ -241,8 +241,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-207:
-    weight: 0.7143
-    avg_copies: 1.92
+    weight: 0.7333
+    avg_copies: 1.85
   unknown-208:
     weight: 1.0
     avg_copies: 3.0
@@ -268,6 +268,12 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-240:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-246:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-247:
     weight: 1.0
     avg_copies: 2.0
 ---

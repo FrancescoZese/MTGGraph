@@ -8,26 +8,26 @@ name: No More Lies
 scryfall_id: 1e0c695d-62f9-4805-9e2f-7032e8464136
 set: mkm
 type: Instant
-meta_presence: 0.0113
+meta_presence: 0.0114
 archetypes:
   jeskai-energy:
-    weight: 0.2556
-    avg_copies: 1.33
+    weight: 0.2612
+    avg_copies: 1.34
   goryo:
-    weight: 0.0028
+    weight: 0.0027
     avg_copies: 2.0
   domain-zoo:
     weight: 0.0069
     avg_copies: 2.0
   esper-blink:
-    weight: 0.0077
+    weight: 0.0074
     avg_copies: 4.0
   esper-midrange:
     weight: 1.0
     avg_copies: 4.0
   goryo2:
-    weight: 0.75
-    avg_copies: 2.3
+    weight: 0.7561
+    avg_copies: 2.29
   unknown-3:
     weight: 0.5
     avg_copies: 2.0

@@ -9,16 +9,16 @@ type: Land — Mountain Plains
 meta_presence: 0.2553
 archetypes:
   ruby-storm:
-    weight: 0.9419
+    weight: 0.9429
     avg_copies: 1.1
   boros-energy:
     weight: 1.0
     avg_copies: 2.84
   jeskai-energy:
     weight: 1.0
-    avg_copies: 1.29
+    avg_copies: 1.3
   azorius-control:
-    weight: 0.0204
+    weight: 0.0294
     avg_copies: 1.0
   jeskai-control:
     weight: 0.5862
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.0019
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0278
+    weight: 0.0276
     avg_copies: 1.0
   burn:
     weight: 0.8462
@@ -39,7 +39,7 @@ archetypes:
     weight: 0.9787
     avg_copies: 3.24
   izzet-prowess:
-    weight: 0.0144
+    weight: 0.0142
     avg_copies: 1.0
   4c-omnath:
     weight: 1.0
@@ -105,7 +105,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-67:
-    weight: 0.1023
+    weight: 0.1209
     avg_copies: 1.0
   unknown-68:
     weight: 1.0
@@ -136,7 +136,7 @@ archetypes:
     avg_copies: 1.0
   unknown-96:
     weight: 1.0
-    avg_copies: 2.79
+    avg_copies: 2.8
   unknown-99:
     weight: 1.0
     avg_copies: 1.0
@@ -144,7 +144,7 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   unknown-101:
-    weight: 0.1111
+    weight: 0.0952
     avg_copies: 1.0
   unknown-110:
     weight: 1.0
@@ -168,7 +168,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-122:
-    weight: 0.037
+    weight: 0.0357
     avg_copies: 1.0
   unknown-127:
     weight: 1.0
@@ -196,7 +196,7 @@ archetypes:
     avg_copies: 1.0
   unknown-160:
     weight: 1.0
-    avg_copies: 2.96
+    avg_copies: 2.93
   unknown-159:
     weight: 1.0
     avg_copies: 2.0
@@ -222,7 +222,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-207:
-    weight: 0.0714
+    weight: 0.0667
     avg_copies: 1.0
   unknown-217:
     weight: 1.0

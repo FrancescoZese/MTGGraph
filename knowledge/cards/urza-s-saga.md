@@ -6,10 +6,10 @@ name: Urza's Saga
 scryfall_id: c1e0f201-42cb-46a1-901a-65bb4fc18f6c
 set: mh2
 type: Enchantment Land — Urza's Saga
-meta_presence: 0.1837
+meta_presence: 0.1835
 archetypes:
   eldrazi-tron:
-    weight: 0.0645
+    weight: 0.0637
     avg_copies: 1.3
   amulet-titan:
     weight: 1.0
@@ -52,10 +52,10 @@ archetypes:
     avg_copies: 2.5
   unknown-10:
     weight: 1.0
-    avg_copies: 3.5
+    avg_copies: 3.67
   unknown-15:
     weight: 1.0
-    avg_copies: 3.92
+    avg_copies: 3.93
   unknown-21:
     weight: 1.0
     avg_copies: 4.0

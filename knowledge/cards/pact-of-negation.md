@@ -1,17 +1,17 @@
 ---
 archetypes:
   ruby-storm:
-    weight: 0.0373
+    weight: 0.0367
     avg_copies: 1.0
   mono-blue-belcher:
     weight: 0.0112
     avg_copies: 3.0
   neoform-combo:
-    weight: 0.9804
-    avg_copies: 2.77
+    weight: 0.9806
+    avg_copies: 2.78
   cosmogoyf-fling:
-    weight: 0.6538
-    avg_copies: 2.54
+    weight: 0.6604
+    avg_copies: 2.56
   goryo0:
     weight: 0.0455
     avg_copies: 4.0

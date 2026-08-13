@@ -9,16 +9,16 @@ type: Land — Swamp Mountain
 meta_presence: 0.0872
 archetypes:
   ruby-storm:
-    weight: 0.0166
+    weight: 0.0163
     avg_copies: 1.0
   boros-energy:
     weight: 0.0013
     avg_copies: 1.0
   necrodominance:
-    weight: 0.0227
+    weight: 0.0222
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.3819
+    weight: 0.3862
     avg_copies: 1.0
   reanimator:
     weight: 0.8889
@@ -33,7 +33,7 @@ archetypes:
     weight: 0.9706
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.0375
+    weight: 0.037
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.9333
@@ -135,7 +135,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.1667
+    weight: 0.1556
     avg_copies: 1.86
   unknown-90:
     weight: 1.0
@@ -145,7 +145,7 @@ archetypes:
     avg_copies: 1.0
   unknown-101:
     weight: 1.0
-    avg_copies: 3.22
+    avg_copies: 3.1
   unknown-110:
     weight: 1.0
     avg_copies: 2.0
@@ -159,7 +159,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-122:
-    weight: 0.0741
+    weight: 0.1071
     avg_copies: 1.0
   unknown-123:
     weight: 1.0
