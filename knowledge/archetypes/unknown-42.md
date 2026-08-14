@@ -11,10 +11,10 @@ top_cards:
 - name: Tide Shaper
   weight: 1.0
   avg_copies: 3.92
-- name: Lord of Atlantis
+- name: Master of the Pearl Trident
   weight: 1.0
   avg_copies: 3.75
-- name: Master of the Pearl Trident
+- name: Lord of Atlantis
   weight: 1.0
   avg_copies: 3.75
 - name: Sink into Stupor
@@ -92,10 +92,10 @@ top_cards:
 - name: Glasspool Mimic
   weight: 0.1667
   avg_copies: 1.5
-- name: Mockingbird
+- name: Unable to Scream
   weight: 0.0833
   avg_copies: 4.0
-- name: Unable to Scream
+- name: Mockingbird
   weight: 0.0833
   avg_copies: 4.0
 - name: Mistcaller
@@ -104,10 +104,10 @@ top_cards:
 - name: Spell Snare
   weight: 0.0833
   avg_copies: 2.0
-- name: Hurkyl's Recall
+- name: Waterlogged Grove
   weight: 0.0833
   avg_copies: 2.0
-- name: Waterlogged Grove
+- name: Hurkyl's Recall
   weight: 0.0833
   avg_copies: 2.0
 - name: Spell Pierce

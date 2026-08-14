@@ -9,7 +9,7 @@ type: Basic Land — Forest
 meta_presence: 0.2094
 archetypes:
   eldrazi-tron:
-    weight: 0.1146
+    weight: 0.1143
     avg_copies: 1.22
   amulet-titan:
     weight: 1.0
@@ -31,7 +31,7 @@ archetypes:
     avg_copies: 1.52
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 1.79
+    avg_copies: 1.78
   eldrazi-ramp:
     weight: 1.0
     avg_copies: 2.8
@@ -150,8 +150,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-126:
-    weight: 0.8072
-    avg_copies: 2.39
+    weight: 0.8095
+    avg_copies: 2.4
   unknown-130:
     weight: 1.0
     avg_copies: 6.0

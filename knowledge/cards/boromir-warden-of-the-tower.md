@@ -10,7 +10,7 @@ type: Legendary Creature — Human Soldier
 meta_presence: 0.0224
 archetypes:
   boros-energy:
-    weight: 0.1414
+    weight: 0.1412
     avg_copies: 1.05
   domain-zoo:
     weight: 0.0069
@@ -37,7 +37,7 @@ archetypes:
     weight: 0.9375
     avg_copies: 1.71
   unknown-126:
-    weight: 0.012
+    weight: 0.0119
     avg_copies: 1.0
   unknown-142:
     weight: 1.0

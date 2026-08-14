@@ -17,10 +17,10 @@ top_cards:
 - name: Slumbering Trudge
   weight: 1.0
   avg_copies: 3.95
-- name: Fanatic of Rhonas
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 3.88
-- name: Green Sun's Zenith
+- name: Fanatic of Rhonas
   weight: 1.0
   avg_copies: 3.88
 - name: Malevolent Rumble
@@ -89,10 +89,10 @@ top_cards:
 - name: Cavern of Souls
   weight: 0.5052
   avg_copies: 1.0
-- name: Chomping Changeling
+- name: Ghost Quarter
   weight: 0.4433
   avg_copies: 1.0
-- name: Ghost Quarter
+- name: Chomping Changeling
   weight: 0.4433
   avg_copies: 1.0
 - name: Turntimber Symbiosis
@@ -143,10 +143,10 @@ top_cards:
 - name: Six
   weight: 0.0206
   avg_copies: 1.0
-- name: Nature's Claim
+- name: Thief of Existence
   weight: 0.0103
   avg_copies: 3.0
-- name: Thief of Existence
+- name: Nature's Claim
   weight: 0.0103
   avg_copies: 3.0
 - name: Creeping Corrosion
@@ -155,34 +155,34 @@ top_cards:
 - name: Hashep Oasis
   weight: 0.0103
   avg_copies: 2.0
-- name: Soul-Guide Lantern
-  weight: 0.0103
-  avg_copies: 2.0
 - name: card:null-elemental-blast
   weight: 0.0103
   avg_copies: 2.0
-- name: Insidious Fungus
+- name: Soul-Guide Lantern
   weight: 0.0103
-  avg_copies: 1.0
-- name: Ouroboroid
-  weight: 0.0103
-  avg_copies: 1.0
-- name: Shifting Woodland
-  weight: 0.0103
-  avg_copies: 1.0
-- name: Grafdigger's Cage
+  avg_copies: 2.0
+- name: Ghalta, Stampede Tyrant
   weight: 0.0103
   avg_copies: 1.0
 - name: Outland Liberator
   weight: 0.0103
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Grafdigger's Cage
+  weight: 0.0103
+  avg_copies: 1.0
+- name: Shifting Woodland
   weight: 0.0103
   avg_copies: 1.0
 - name: Tajuru Preserver
   weight: 0.0103
   avg_copies: 1.0
-- name: Ghalta, Stampede Tyrant
+- name: Insidious Fungus
+  weight: 0.0103
+  avg_copies: 1.0
+- name: Surgical Extraction
+  weight: 0.0103
+  avg_copies: 1.0
+- name: Ouroboroid
   weight: 0.0103
   avg_copies: 1.0
 ---

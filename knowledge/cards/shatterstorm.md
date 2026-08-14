@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.011
 archetypes:
   boros-energy:
-    weight: 0.0707
+    weight: 0.0706
     avg_copies: 1.04
   mono-red-belcher:
     weight: 0.2308

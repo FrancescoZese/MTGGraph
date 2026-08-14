@@ -19,7 +19,7 @@ archetypes:
     weight: 0.0238
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0285
+    weight: 0.0284
     avg_copies: 1.0
   rakdos-aggro:
     weight: 0.1053

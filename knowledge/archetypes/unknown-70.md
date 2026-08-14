@@ -55,10 +55,10 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 0.95
   avg_copies: 3.11
-- name: Mountain
+- name: Meticulous Archive
   weight: 0.95
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Mountain
   weight: 0.95
   avg_copies: 1.0
 - name: Ajani, Nacatl Pariah
@@ -145,10 +145,10 @@ top_cards:
 - name: White Orchid Phantom
   weight: 0.1
   avg_copies: 3.0
-- name: Starfield Shepherd
+- name: Orim's Chant
   weight: 0.1
   avg_copies: 2.0
-- name: Orim's Chant
+- name: Starfield Shepherd
   weight: 0.1
   avg_copies: 2.0
 - name: Windswept Heath
@@ -160,28 +160,28 @@ top_cards:
 - name: Practiced Offense
   weight: 0.05
   avg_copies: 2.0
-- name: Boromir, Warden of the Tower
-  weight: 0.05
-  avg_copies: 1.0
 - name: Lightning Bolt
   weight: 0.05
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Vandalblast
   weight: 0.05
   avg_copies: 1.0
-- name: The Legend of Roku
+- name: Boromir, Warden of the Tower
   weight: 0.05
   avg_copies: 1.0
 - name: Marsh Flats
   weight: 0.05
   avg_copies: 1.0
-- name: Spell Pierce
-  weight: 0.05
-  avg_copies: 1.0
 - name: Magus of the Moon
   weight: 0.05
   avg_copies: 1.0
-- name: Vandalblast
+- name: The Legend of Roku
+  weight: 0.05
+  avg_copies: 1.0
+- name: Spell Pierce
+  weight: 0.05
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
   weight: 0.05
   avg_copies: 1.0
 ---

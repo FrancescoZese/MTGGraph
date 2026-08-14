@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0238
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.0109
+    weight: 0.0108
     avg_copies: 1.0
   mono-green-ramp:
     weight: 0.5714

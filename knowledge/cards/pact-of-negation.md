@@ -1,7 +1,7 @@
 ---
 archetypes:
   ruby-storm:
-    weight: 0.0367
+    weight: 0.0364
     avg_copies: 1.0
   mono-blue-belcher:
     weight: 0.0112

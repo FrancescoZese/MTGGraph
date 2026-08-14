@@ -9,13 +9,13 @@ type: Artifact
 meta_presence: 0.374
 archetypes:
   ruby-storm:
-    weight: 0.102
+    weight: 0.1012
     avg_copies: 1.65
   boros-energy:
-    weight: 0.6348
+    weight: 0.6353
     avg_copies: 1.61
   eldrazi-tron:
-    weight: 0.5955
+    weight: 0.5937
     avg_copies: 1.25
   amulet-titan:
     weight: 0.7143
@@ -66,7 +66,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.9457
+    weight: 0.9462
     avg_copies: 1.36
   eldrazi-ramp:
     weight: 0.7222
@@ -75,7 +75,7 @@ archetypes:
     weight: 0.0104
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0342
+    weight: 0.0369
     avg_copies: 2.08
   esper-blink:
     weight: 0.0147
@@ -90,8 +90,8 @@ archetypes:
     weight: 0.2353
     avg_copies: 1.5
   dredge:
-    weight: 0.7037
-    avg_copies: 3.21
+    weight: 0.7143
+    avg_copies: 3.2
   azorius-blink:
     weight: 0.1364
     avg_copies: 1.56
@@ -138,8 +138,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.67
   goryo1:
-    weight: 0.7697
-    avg_copies: 1.77
+    weight: 0.7667
+    avg_copies: 1.78
   goryo4:
     weight: 0.5185
     avg_copies: 2.05
@@ -303,7 +303,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-126:
-    weight: 0.6386
+    weight: 0.6429
     avg_copies: 1.85
   unknown-130:
     weight: 1.0

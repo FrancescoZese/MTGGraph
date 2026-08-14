@@ -5,10 +5,10 @@ name: 'Unknown #167'
 meta_share: 0.0023
 list_count: 16
 top_cards:
-- name: Mishra's Bauble
+- name: Emry, Lurker of the Loch
   weight: 1.0
   avg_copies: 4.0
-- name: Emry, Lurker of the Loch
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Opal
@@ -65,16 +65,16 @@ top_cards:
 - name: Damping Sphere
   weight: 0.6875
   avg_copies: 1.36
-- name: Agatha's Soul Cauldron
-  weight: 0.6875
-  avg_copies: 1.0
 - name: Vexing Bauble
   weight: 0.6875
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Agatha's Soul Cauldron
+  weight: 0.6875
+  avg_copies: 1.0
+- name: Scalding Tarn
   weight: 0.625
   avg_copies: 1.8
-- name: Scalding Tarn
+- name: Hallowed Fountain
   weight: 0.625
   avg_copies: 1.8
 - name: Tormod's Crypt
@@ -107,10 +107,10 @@ top_cards:
 - name: Sink into Stupor
   weight: 0.4375
   avg_copies: 1.29
-- name: Disruptor Flute
+- name: Relic of Progenitus
   weight: 0.4375
   avg_copies: 1.0
-- name: Relic of Progenitus
+- name: Disruptor Flute
   weight: 0.4375
   avg_copies: 1.0
 - name: card:oswald-fiddlebender
@@ -119,13 +119,13 @@ top_cards:
 - name: Nature's Claim
   weight: 0.375
   avg_copies: 2.0
-- name: Shadowspear
-  weight: 0.375
-  avg_copies: 1.0
 - name: Dusk Rose Reliquary
   weight: 0.375
   avg_copies: 1.0
 - name: Waterlogged Grove
+  weight: 0.375
+  avg_copies: 1.0
+- name: Shadowspear
   weight: 0.375
   avg_copies: 1.0
 - name: Malevolent Rumble
@@ -170,19 +170,22 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.125
   avg_copies: 1.5
-- name: Krang, Master Mind
+- name: Gran-Gran
   weight: 0.125
   avg_copies: 1.0
 - name: card:urza-lord-high-artificer
   weight: 0.125
   avg_copies: 1.0
-- name: Unable to Scream
+- name: card:scrabbling-claws
   weight: 0.125
   avg_copies: 1.0
 - name: Tezzeret, Cruel Captain
   weight: 0.125
   avg_copies: 1.0
-- name: card:scrabbling-claws
+- name: Unable to Scream
+  weight: 0.125
+  avg_copies: 1.0
+- name: Plains
   weight: 0.125
   avg_copies: 1.0
 - name: card:bruce-banner
@@ -191,22 +194,19 @@ top_cards:
 - name: Grafdigger's Cage
   weight: 0.125
   avg_copies: 1.0
+- name: Krang, Master Mind
+  weight: 0.125
+  avg_copies: 1.0
 - name: Soul-Guide Lantern
-  weight: 0.125
-  avg_copies: 1.0
-- name: Gran-Gran
-  weight: 0.125
-  avg_copies: 1.0
-- name: Plains
   weight: 0.125
   avg_copies: 1.0
 - name: Kappa Cannoneer
   weight: 0.0625
   avg_copies: 4.0
-- name: Test of Talents
+- name: Sacred Ground
   weight: 0.0625
   avg_copies: 3.0
-- name: Sacred Ground
+- name: Test of Talents
   weight: 0.0625
   avg_copies: 3.0
 - name: Dismember
@@ -221,10 +221,10 @@ top_cards:
 - name: Spell Snare
   weight: 0.0625
   avg_copies: 1.0
-- name: Invasive Surgery
+- name: Does Machines
   weight: 0.0625
   avg_copies: 1.0
-- name: Does Machines
+- name: Invasive Surgery
   weight: 0.0625
   avg_copies: 1.0
 - name: Thief of Existence

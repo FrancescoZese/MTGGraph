@@ -7,25 +7,25 @@ name: Grixis Shadow
 meta_share: 0.0007
 list_count: 5
 top_cards:
-- name: Bloodstained Mire
-  weight: 1.0
-  avg_copies: 4.0
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
+- name: Psychic Frog
+  weight: 1.0
+  avg_copies: 4.0
+- name: Bloodstained Mire
+  weight: 1.0
+  avg_copies: 4.0
 - name: Death's Shadow
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Moonshadow
@@ -109,16 +109,16 @@ top_cards:
 - name: Spell Snare
   weight: 0.2
   avg_copies: 2.0
-- name: Dauthi Voidwalker
-  weight: 0.2
-  avg_copies: 2.0
-- name: End of the Hunt
-  weight: 0.2
-  avg_copies: 2.0
 - name: Counterspell
   weight: 0.2
   avg_copies: 2.0
+- name: Dauthi Voidwalker
+  weight: 0.2
+  avg_copies: 2.0
 - name: Fire Magic
+  weight: 0.2
+  avg_copies: 2.0
+- name: End of the Hunt
   weight: 0.2
   avg_copies: 2.0
 - name: Kaito, Bane of Nightmares
@@ -127,10 +127,10 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.2
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Force of Despair
   weight: 0.2
   avg_copies: 1.0
-- name: Force of Despair
+- name: Surgical Extraction
   weight: 0.2
   avg_copies: 1.0
 ---

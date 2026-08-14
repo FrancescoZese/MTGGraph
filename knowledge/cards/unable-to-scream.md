@@ -7,7 +7,7 @@ name: Unable to Scream
 scryfall_id: 7c59e0cd-10a8-4a32-9c0a-a2c6ef1ed9a6
 set: dsk
 type: Enchantment — Aura
-meta_presence: 0.0048
+meta_presence: 0.005
 archetypes:
   mono-blue-belcher:
     weight: 0.2697
@@ -26,5 +26,5 @@ archetypes:
     avg_copies: 1.0
   unknown-246:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 2.33
 ---

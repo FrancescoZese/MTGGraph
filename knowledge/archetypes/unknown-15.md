@@ -3,13 +3,13 @@ colors:
 - U
 - R
 name: 'Unknown #15'
-meta_share: 0.0021
+meta_share: 0.002
 list_count: 14
 top_cards:
-- name: Tamiyo, Inquisitive Student
+- name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
-- name: Mox Opal
+- name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
 - name: Emry, Lurker of the Loch
@@ -18,10 +18,10 @@ top_cards:
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 3.93
-- name: Mishra's Bauble
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 3.86
-- name: Scalding Tarn
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 3.86
 - name: Cori-Steel Cutter
@@ -48,19 +48,19 @@ top_cards:
 - name: Island
   weight: 0.9286
   avg_copies: 1.31
-- name: Otawara, Soaring City
+- name: Mountain
   weight: 0.9286
   avg_copies: 1.0
-- name: Mountain
+- name: Otawara, Soaring City
   weight: 0.9286
   avg_copies: 1.0
 - name: Flame of Anor
   weight: 0.8571
   avg_copies: 2.0
-- name: Breeding Pool
+- name: Aether Spellbomb
   weight: 0.8571
   avg_copies: 1.0
-- name: Aether Spellbomb
+- name: Breeding Pool
   weight: 0.8571
   avg_copies: 1.0
 - name: Unholy Heat
@@ -81,13 +81,13 @@ top_cards:
 - name: Tormod's Crypt
   weight: 0.7143
   avg_copies: 1.17
-- name: Fiery Islet
-  weight: 0.7143
-  avg_copies: 1.0
 - name: Skateboard
   weight: 0.7143
   avg_copies: 1.0
 - name: Pithing Needle
+  weight: 0.7143
+  avg_copies: 1.0
+- name: Fiery Islet
   weight: 0.7143
   avg_copies: 1.0
 - name: Quantum Riddler
@@ -114,31 +114,31 @@ top_cards:
 - name: Shadowspear
   weight: 0.3571
   avg_copies: 1.0
-- name: Engineered Explosives
+- name: Damping Sphere
   weight: 0.3571
   avg_copies: 1.0
-- name: Damping Sphere
+- name: Engineered Explosives
   weight: 0.3571
   avg_copies: 1.0
 - name: Preordain
   weight: 0.2857
   avg_copies: 1.5
-- name: Grafdigger's Cage
+- name: Vandalblast
   weight: 0.2857
   avg_copies: 1.0
-- name: Vandalblast
+- name: Grafdigger's Cage
   weight: 0.2857
   avg_copies: 1.0
 - name: Flooded Strand
   weight: 0.2143
   avg_copies: 1.67
+- name: Minamo, School at Water's Edge
+  weight: 0.2143
+  avg_copies: 1.0
 - name: Lavaspur Boots
   weight: 0.2143
   avg_copies: 1.0
 - name: Wooded Foothills
-  weight: 0.2143
-  avg_copies: 1.0
-- name: Minamo, School at Water's Edge
   weight: 0.2143
   avg_copies: 1.0
 - name: Expressive Iteration
@@ -159,46 +159,46 @@ top_cards:
 - name: Relic of Progenitus
   weight: 0.0714
   avg_copies: 4.0
-- name: Portable Hole
+- name: Astrologian's Planisphere
   weight: 0.0714
   avg_copies: 3.0
 - name: card:bilbo-thief-in-the-night
   weight: 0.0714
   avg_copies: 3.0
-- name: Astrologian's Planisphere
+- name: Portable Hole
   weight: 0.0714
   avg_copies: 3.0
 - name: Hallowed Fountain
   weight: 0.0714
   avg_copies: 2.0
-- name: Obsidian Charmaw
+- name: Teferi, Time Raveler
   weight: 0.0714
   avg_copies: 2.0
-- name: Snow-Covered Island
+- name: Obsidian Charmaw
   weight: 0.0714
   avg_copies: 2.0
 - name: Sink into Stupor
   weight: 0.0714
   avg_copies: 2.0
+- name: Snow-Covered Island
+  weight: 0.0714
+  avg_copies: 2.0
 - name: Vivi Ornitier
   weight: 0.0714
   avg_copies: 2.0
-- name: Teferi, Time Raveler
-  weight: 0.0714
-  avg_copies: 2.0
-- name: Polluted Delta
+- name: Snapcaster Mage
   weight: 0.0714
   avg_copies: 1.0
 - name: Snow-Covered Mountain
   weight: 0.0714
   avg_copies: 1.0
-- name: Snapcaster Mage
-  weight: 0.0714
-  avg_copies: 1.0
-- name: Annul
+- name: Polluted Delta
   weight: 0.0714
   avg_copies: 1.0
 - name: Ghost Vacuum
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Annul
   weight: 0.0714
   avg_copies: 1.0
 ---

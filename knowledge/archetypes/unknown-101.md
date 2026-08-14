@@ -138,10 +138,10 @@ top_cards:
 - name: Wear
   weight: 0.0952
   avg_copies: 2.0
-- name: Ox of Agonas
+- name: Sacred Foundry
   weight: 0.0952
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Ox of Agonas
   weight: 0.0952
   avg_copies: 1.0
 - name: Mishra's Bauble
@@ -159,25 +159,25 @@ top_cards:
 - name: Seal of Fire
   weight: 0.0476
   avg_copies: 1.0
-- name: Godless Shrine
-  weight: 0.0476
-  avg_copies: 1.0
 - name: Cool but Rude
   weight: 0.0476
   avg_copies: 1.0
 - name: Blackcleave Cliffs
   weight: 0.0476
   avg_copies: 1.0
-- name: Molten Collapse
+- name: Verdant Catacombs
+  weight: 0.0476
+  avg_copies: 1.0
+- name: card:corpse-explosion
   weight: 0.0476
   avg_copies: 1.0
 - name: Goblin Lore
   weight: 0.0476
   avg_copies: 1.0
-- name: Verdant Catacombs
+- name: Molten Collapse
   weight: 0.0476
   avg_copies: 1.0
-- name: card:corpse-explosion
+- name: Godless Shrine
   weight: 0.0476
   avg_copies: 1.0
 ---

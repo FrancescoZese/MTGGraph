@@ -9,10 +9,10 @@ top_cards:
 - name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
-- name: Eyetwitch
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
-- name: Archon of Cruelty
+- name: Eyetwitch
   weight: 1.0
   avg_copies: 4.0
 - name: Swamp
@@ -78,10 +78,10 @@ top_cards:
 - name: Force of Despair
   weight: 0.9
   avg_copies: 1.46
-- name: Bone Shards
+- name: Dai Li Indoctrination
   weight: 0.9
   avg_copies: 1.0
-- name: Dai Li Indoctrination
+- name: Bone Shards
   weight: 0.9
   avg_copies: 1.0
 - name: Street Wraith
@@ -129,10 +129,10 @@ top_cards:
 - name: Polluted Delta
   weight: 0.2
   avg_copies: 3.17
-- name: Void Mirror
+- name: Vexing Bauble
   weight: 0.2
   avg_copies: 1.0
-- name: Vexing Bauble
+- name: Void Mirror
   weight: 0.2
   avg_copies: 1.0
 - name: Fatal Push
@@ -147,19 +147,25 @@ top_cards:
 - name: Revitalizing Repast
   weight: 0.1
   avg_copies: 1.0
-- name: Mai, Scornful Striker
+- name: Blood Crypt
   weight: 0.0667
   avg_copies: 1.5
-- name: Blood Crypt
+- name: Mai, Scornful Striker
   weight: 0.0667
   avg_copies: 1.5
 - name: Ashiok, Dream Render
   weight: 0.0667
   avg_copies: 1.5
+- name: Harvester of Misery
+  weight: 0.0667
+  avg_copies: 1.0
 - name: Forest
   weight: 0.0667
   avg_copies: 1.0
 - name: card:summon-bahamut
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Cling to Dust
   weight: 0.0667
   avg_copies: 1.0
 - name: Plague Engineer
@@ -168,46 +174,40 @@ top_cards:
 - name: Redirect Lightning
   weight: 0.0667
   avg_copies: 1.0
-- name: Cling to Dust
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Harvester of Misery
-  weight: 0.0667
-  avg_copies: 1.0
 - name: Price of Freedom
   weight: 0.0333
   avg_copies: 2.0
 - name: Nihil Spellbomb
   weight: 0.0333
   avg_copies: 2.0
-- name: Raucous Theater
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Damping Sphere
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Tormod's Crypt
+- name: card:the-terminus-of-return
   weight: 0.0333
   avg_copies: 1.0
 - name: Improvisation Capstone
   weight: 0.0333
   avg_copies: 1.0
+- name: Damping Sphere
+  weight: 0.0333
+  avg_copies: 1.0
+- name: card:victimize
+  weight: 0.0333
+  avg_copies: 1.0
 - name: Iroh's Demonstration
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Raucous Theater
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Tormod's Crypt
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Vampire Hexmage
   weight: 0.0333
   avg_copies: 1.0
 - name: Liliana, the Last Hope
   weight: 0.0333
   avg_copies: 1.0
 - name: Chthonian Nightmare
-  weight: 0.0333
-  avg_copies: 1.0
-- name: card:the-terminus-of-return
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Vampire Hexmage
-  weight: 0.0333
-  avg_copies: 1.0
-- name: card:victimize
   weight: 0.0333
   avg_copies: 1.0
 ---

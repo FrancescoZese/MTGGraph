@@ -6,7 +6,7 @@ name: Suppression Ray // Orderly Plaza
 scryfall_id: 0cccd328-457a-48ab-97fb-4bc319db2e60
 set: mh3
 type: Sorcery // Land
-meta_presence: 0.0145
+meta_presence: 0.0146
 archetypes:
   mono-blue-belcher:
     weight: 1.0
@@ -17,6 +17,9 @@ archetypes:
   azorius-control:
     weight: 0.0294
     avg_copies: 4.0
+  goryo2:
+    weight: 0.0238
+    avg_copies: 1.0
   unknown-16:
     weight: 0.8333
     avg_copies: 4.0

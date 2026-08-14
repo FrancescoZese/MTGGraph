@@ -11,7 +11,7 @@ type: Instant
 meta_presence: 0.0136
 archetypes:
   yawgmoth-combo:
-    weight: 0.1087
+    weight: 0.1075
     avg_copies: 1.07
   simic-ritual:
     weight: 0.1042
@@ -41,7 +41,7 @@ archetypes:
     weight: 0.0667
     avg_copies: 2.0
   unknown-126:
-    weight: 0.0361
+    weight: 0.0357
     avg_copies: 1.33
   unknown-130:
     weight: 1.0

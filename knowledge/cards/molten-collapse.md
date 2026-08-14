@@ -20,7 +20,7 @@ archetypes:
     weight: 0.0667
     avg_copies: 1.0
   dredge:
-    weight: 0.037
+    weight: 0.0357
     avg_copies: 2.0
   rakdos-lantern-combo:
     weight: 1.0
@@ -29,7 +29,7 @@ archetypes:
     weight: 0.0526
     avg_copies: 1.0
   goryo1:
-    weight: 0.0843
+    weight: 0.0833
     avg_copies: 1.18
   unknown-27:
     weight: 0.6667

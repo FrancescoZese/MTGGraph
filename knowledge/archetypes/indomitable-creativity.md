@@ -21,10 +21,10 @@ top_cards:
 - name: Wrenn and Six
   weight: 1.0
   avg_copies: 3.25
-- name: Bloodstained Mire
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 2.73
-- name: Archon of Cruelty
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.73
 - name: Mountain
@@ -66,19 +66,19 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.8
   avg_copies: 2.33
-- name: Elegant Parlor
+- name: Sacred Foundry
   weight: 0.8
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Elegant Parlor
   weight: 0.8
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.7333
   avg_copies: 1.91
-- name: Xander's Lounge
+- name: Jetmir's Garden
   weight: 0.7333
   avg_copies: 1.0
-- name: Jetmir's Garden
+- name: Xander's Lounge
   weight: 0.7333
   avg_copies: 1.0
 - name: Wooded Foothills
@@ -87,10 +87,10 @@ top_cards:
 - name: Reprieve
   weight: 0.6
   avg_copies: 2.58
-- name: Thundering Falls
+- name: Raph & Mikey, Troublemakers
   weight: 0.6
   avg_copies: 1.0
-- name: Raph & Mikey, Troublemakers
+- name: Thundering Falls
   weight: 0.6
   avg_copies: 1.0
 - name: Galvanic Discharge
@@ -105,10 +105,10 @@ top_cards:
 - name: Plains
   weight: 0.5333
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Valakut Awakening
   weight: 0.4667
   avg_copies: 1.0
-- name: Valakut Awakening
+- name: Boseiju, Who Endures
   weight: 0.4667
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -129,10 +129,10 @@ top_cards:
 - name: Meltdown
   weight: 0.2667
   avg_copies: 1.25
-- name: Raucous Theater
+- name: Ziatora's Proving Ground
   weight: 0.2667
   avg_copies: 1.0
-- name: Ziatora's Proving Ground
+- name: Raucous Theater
   weight: 0.2667
   avg_copies: 1.0
 - name: Thoughtseize
@@ -168,16 +168,16 @@ top_cards:
 - name: Leyline of the Void
   weight: 0.1333
   avg_copies: 4.0
-- name: Emrakul, the Aeons Torn
-  weight: 0.1333
-  avg_copies: 1.0
-- name: Ketria Triome
-  weight: 0.1333
-  avg_copies: 1.0
 - name: Prismari Command
   weight: 0.1333
   avg_copies: 1.0
+- name: Emrakul, the Aeons Torn
+  weight: 0.1333
+  avg_copies: 1.0
 - name: Abrupt Decay
+  weight: 0.1333
+  avg_copies: 1.0
+- name: Ketria Triome
   weight: 0.1333
   avg_copies: 1.0
 - name: Nature's Claim
@@ -192,16 +192,7 @@ top_cards:
 - name: Inquisition of Kozilek
   weight: 0.0667
   avg_copies: 1.5
-- name: Rest in Peace
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Molten Collapse
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Raugrin Triome
+- name: Vampires' Vengeance
   weight: 0.0667
   avg_copies: 1.0
 - name: Swamp
@@ -210,10 +201,19 @@ top_cards:
 - name: Witherbloom Command
   weight: 0.0667
   avg_copies: 1.0
-- name: Vampires' Vengeance
+- name: Brainsurge
   weight: 0.0667
   avg_copies: 1.0
-- name: Brainsurge
+- name: Rest in Peace
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Raugrin Triome
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Molten Collapse
   weight: 0.0667
   avg_copies: 1.0
 - name: Turn the Earth

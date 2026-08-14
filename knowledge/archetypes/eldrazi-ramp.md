@@ -2,7 +2,7 @@
 colors:
 - G
 name: Eldrazi Ramp
-meta_share: 0.0185
+meta_share: 0.0184
 list_count: 126
 top_cards:
 - name: Ugin's Labyrinth
@@ -20,10 +20,10 @@ top_cards:
 - name: Malevolent Rumble
   weight: 1.0
   avg_copies: 3.94
-- name: Emrakul, the Promised End
+- name: Forest
   weight: 1.0
   avg_copies: 2.8
-- name: Forest
+- name: Emrakul, the Promised End
   weight: 1.0
   avg_copies: 2.8
 - name: Utopia Sprawl
@@ -128,10 +128,10 @@ top_cards:
 - name: Magus of the Moon
   weight: 0.2063
   avg_copies: 1.96
-- name: Ensnaring Bridge
+- name: Liquimetal Coating
   weight: 0.2063
   avg_copies: 1.0
-- name: Liquimetal Coating
+- name: Ensnaring Bridge
   weight: 0.2063
   avg_copies: 1.0
 - name: Haywire Mite
@@ -209,25 +209,25 @@ top_cards:
 - name: Blood Moon
   weight: 0.0317
   avg_copies: 2.0
-- name: Void Mirror
+- name: Ilharg, the Raze-Boar
   weight: 0.0317
   avg_copies: 1.0
-- name: Iroh's Demonstration
+- name: Void Mirror
   weight: 0.0317
   avg_copies: 1.0
 - name: Palantír of Orthanc
   weight: 0.0317
   avg_copies: 1.0
-- name: Ilharg, the Raze-Boar
+- name: Six
   weight: 0.0317
   avg_copies: 1.0
 - name: Improvisation Capstone
   weight: 0.0317
   avg_copies: 1.0
-- name: Arena of Glory
+- name: Iroh's Demonstration
   weight: 0.0317
   avg_copies: 1.0
-- name: Six
+- name: Arena of Glory
   weight: 0.0317
   avg_copies: 1.0
 - name: Origin of Metalbending
@@ -242,19 +242,19 @@ top_cards:
 - name: Blasphemous Act
   weight: 0.0238
   avg_copies: 1.67
-- name: True Ancestry
-  weight: 0.0238
-  avg_copies: 1.0
 - name: Vibrance
   weight: 0.0238
   avg_copies: 1.0
-- name: Price of Freedom
+- name: True Ancestry
+  weight: 0.0238
+  avg_copies: 1.0
+- name: Redirect Lightning
   weight: 0.0238
   avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.0238
   avg_copies: 1.0
-- name: Redirect Lightning
+- name: Price of Freedom
   weight: 0.0238
   avg_copies: 1.0
 - name: Nihil Spellbomb
@@ -263,85 +263,85 @@ top_cards:
 - name: Flusterstorm
   weight: 0.0159
   avg_copies: 2.0
-- name: Overgrown Tomb
-  weight: 0.0159
-  avg_copies: 1.0
-- name: All Is Dust
-  weight: 0.0159
-  avg_copies: 1.0
-- name: Wastescape Battlemage
+- name: Firebending Lesson
   weight: 0.0159
   avg_copies: 1.0
 - name: Thief of Existence
   weight: 0.0159
   avg_copies: 1.0
+- name: Overgrown Tomb
+  weight: 0.0159
+  avg_copies: 1.0
+- name: Wastescape Battlemage
+  weight: 0.0159
+  avg_copies: 1.0
 - name: Underground Mortuary
   weight: 0.0159
   avg_copies: 1.0
-- name: Firebending Lesson
+- name: All Is Dust
   weight: 0.0159
   avg_copies: 1.0
 - name: Madcap Experiment
   weight: 0.0079
   avg_copies: 3.0
+- name: Wrenn and Six
+  weight: 0.0079
+  avg_copies: 2.0
 - name: Relic of Progenitus
   weight: 0.0079
   avg_copies: 2.0
 - name: Abrupt Decay
   weight: 0.0079
   avg_copies: 2.0
-- name: Wrenn and Six
-  weight: 0.0079
-  avg_copies: 2.0
-- name: Hedron Archive
-  weight: 0.0079
-  avg_copies: 1.0
-- name: Walking Ballista
-  weight: 0.0079
-  avg_copies: 1.0
-- name: The Endstone
-  weight: 0.0079
-  avg_copies: 1.0
-- name: Untimely Malfunction
-  weight: 0.0079
-  avg_copies: 1.0
-- name: Peer Past the Veil
-  weight: 0.0079
-  avg_copies: 1.0
-- name: card:esper-origins
-  weight: 0.0079
-  avg_copies: 1.0
-- name: Darksteel Citadel
-  weight: 0.0079
-  avg_copies: 1.0
-- name: card:platinum-emperion
-  weight: 0.0079
-  avg_copies: 1.0
 - name: Ugin, the Spirit Dragon
-  weight: 0.0079
-  avg_copies: 1.0
-- name: Ketria Triome
   weight: 0.0079
   avg_copies: 1.0
 - name: Mutable Explorer
   weight: 0.0079
   avg_copies: 1.0
-- name: Ratchet Bomb
+- name: Darksteel Citadel
+  weight: 0.0079
+  avg_copies: 1.0
+- name: Untimely Malfunction
+  weight: 0.0079
+  avg_copies: 1.0
+- name: Walking Ballista
   weight: 0.0079
   avg_copies: 1.0
 - name: Culling Ritual
   weight: 0.0079
   avg_copies: 1.0
+- name: Peer Past the Veil
+  weight: 0.0079
+  avg_copies: 1.0
 - name: Endurance
+  weight: 0.0079
+  avg_copies: 1.0
+- name: card:esper-origins
+  weight: 0.0079
+  avg_copies: 1.0
+- name: Hedron Archive
+  weight: 0.0079
+  avg_copies: 1.0
+- name: card:the-ten-rings
+  weight: 0.0079
+  avg_copies: 1.0
+- name: card:platinum-emperion
   weight: 0.0079
   avg_copies: 1.0
 - name: Seismic Sense
   weight: 0.0079
   avg_copies: 1.0
+- name: Ratchet Bomb
+  weight: 0.0079
+  avg_copies: 1.0
 - name: Collector Ouphe
   weight: 0.0079
   avg_copies: 1.0
-- name: card:the-ten-rings
+- name: The Endstone
+  weight: 0.0079
+  avg_copies: 1.0
+- name: Ketria Triome
   weight: 0.0079
   avg_copies: 1.0
 ---

@@ -13,7 +13,7 @@ archetypes:
     weight: 0.1481
     avg_copies: 4.0
   dredge:
-    weight: 0.037
+    weight: 0.0357
     avg_copies: 4.0
   soultrader-combo:
     weight: 0.8571

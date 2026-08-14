@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.4686
 archetypes:
   ruby-storm:
-    weight: 0.0041
+    weight: 0.004
     avg_copies: 2.0
   boros-energy:
     weight: 0.0026
@@ -79,7 +79,7 @@ archetypes:
     weight: 0.8
     avg_copies: 3.75
   dredge:
-    weight: 0.0741
+    weight: 0.0714
     avg_copies: 3.5
   bant-control:
     weight: 1.0
@@ -110,13 +110,13 @@ archetypes:
     avg_copies: 4.0
   goryo1:
     weight: 0.9944
-    avg_copies: 3.25
+    avg_copies: 3.26
   goryo7:
     weight: 1.0
     avg_copies: 2.0
   goryo2:
     weight: 1.0
-    avg_copies: 3.06
+    avg_copies: 3.08
   goryo3:
     weight: 1.0
     avg_copies: 4.0

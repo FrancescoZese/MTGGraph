@@ -6,7 +6,7 @@ name: Ghost Quarter
 scryfall_id: 12f8071c-8955-4aa2-889c-6043df047223
 set: cm2
 type: Land
-meta_presence: 0.0318
+meta_presence: 0.0317
 archetypes:
   amulet-titan:
     weight: 0.0119
@@ -18,7 +18,7 @@ archetypes:
     weight: 0.0142
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.0217
+    weight: 0.0215
     avg_copies: 1.0
   eldrazi-ramp:
     weight: 0.873

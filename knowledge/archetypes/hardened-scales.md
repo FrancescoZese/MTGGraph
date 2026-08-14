@@ -5,19 +5,19 @@ name: Hardened Scales
 meta_share: 0.0007
 list_count: 5
 top_cards:
-- name: Walking Ballista
-  weight: 1.0
-  avg_copies: 4.0
-- name: Zabaz, the Glimmerwasp
-  weight: 1.0
-  avg_copies: 4.0
-- name: Arcbound Ravager
+- name: Hardened Scales
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
-- name: Hardened Scales
+- name: Zabaz, the Glimmerwasp
+  weight: 1.0
+  avg_copies: 4.0
+- name: Walking Ballista
+  weight: 1.0
+  avg_copies: 4.0
+- name: Arcbound Ravager
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Opal
@@ -35,16 +35,16 @@ top_cards:
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 2.8
-- name: Welding Jar
-  weight: 1.0
-  avg_copies: 1.8
 - name: Dismember
   weight: 1.0
   avg_copies: 1.8
-- name: Boseiju, Who Endures
+- name: Welding Jar
   weight: 1.0
   avg_copies: 1.8
 - name: Arcbound Worker
+  weight: 1.0
+  avg_copies: 1.8
+- name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.8
 - name: Grafdigger's Cage
@@ -83,13 +83,13 @@ top_cards:
 - name: The Ooze
   weight: 0.6
   avg_copies: 1.33
+- name: Veil of Summer
+  weight: 0.6
+  avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 0.6
   avg_copies: 1.0
 - name: Haywire Mite
-  weight: 0.6
-  avg_copies: 1.0
-- name: Veil of Summer
   weight: 0.6
   avg_copies: 1.0
 - name: Pithing Needle
@@ -104,13 +104,13 @@ top_cards:
 - name: Tamiyo's Safekeeping
   weight: 0.4
   avg_copies: 1.67
-- name: Force of Vigor
-  weight: 0.4
-  avg_copies: 1.0
 - name: Skateboard
   weight: 0.4
   avg_copies: 1.0
-- name: Metallic Mimic
+- name: Force of Vigor
+  weight: 0.4
+  avg_copies: 1.0
+- name: Marketback Walker
   weight: 0.2
   avg_copies: 4.0
 - name: Patchwork Automaton
@@ -119,7 +119,7 @@ top_cards:
 - name: Karplusan Forest
   weight: 0.2
   avg_copies: 4.0
-- name: Marketback Walker
+- name: Metallic Mimic
   weight: 0.2
   avg_copies: 4.0
 - name: Ancient Stirrings
@@ -134,9 +134,6 @@ top_cards:
 - name: Bridgeworks Battle
   weight: 0.2
   avg_copies: 1.0
-- name: Gemstone Caverns
-  weight: 0.2
-  avg_copies: 1.0
 - name: Ba Sing Se
   weight: 0.2
   avg_copies: 1.0
@@ -146,10 +143,13 @@ top_cards:
 - name: card:llanowar-reborn
   weight: 0.2
   avg_copies: 1.0
-- name: card:animation-module
+- name: Gemstone Caverns
   weight: 0.2
   avg_copies: 1.0
 - name: Scrapyard Recombiner
+  weight: 0.2
+  avg_copies: 1.0
+- name: card:animation-module
   weight: 0.2
   avg_copies: 1.0
 ---

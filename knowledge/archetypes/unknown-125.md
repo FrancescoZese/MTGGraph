@@ -6,16 +6,16 @@ name: 'Unknown #125'
 meta_share: 0.0016
 list_count: 11
 top_cards:
-- name: Abhorrent Oculus
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Abhorrent Oculus
   weight: 1.0
   avg_copies: 4.0
 - name: Unearth
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -39,13 +39,13 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.09
-- name: Undercity Sewers
-  weight: 1.0
-  avg_copies: 2.0
 - name: Spell Snare
   weight: 1.0
   avg_copies: 2.0
 - name: Nihil Spellbomb
+  weight: 1.0
+  avg_copies: 2.0
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 2.0
 - name: Sink into Stupor
@@ -87,13 +87,13 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.4545
   avg_copies: 2.0
+- name: Gloomlake Verge
+  weight: 0.4545
+  avg_copies: 1.6
 - name: Dress Down
   weight: 0.4545
   avg_copies: 1.6
 - name: Stern Scolding
-  weight: 0.4545
-  avg_copies: 1.6
-- name: Gloomlake Verge
   weight: 0.4545
   avg_copies: 1.6
 - name: Scalding Tarn
@@ -117,13 +117,13 @@ top_cards:
 - name: Damnation
   weight: 0.2727
   avg_copies: 2.0
+- name: Go for the Throat
+  weight: 0.2727
+  avg_copies: 1.0
 - name: The Meathook Massacre
   weight: 0.2727
   avg_copies: 1.0
 - name: Shoot the Sheriff
-  weight: 0.2727
-  avg_copies: 1.0
-- name: Go for the Throat
   weight: 0.2727
   avg_copies: 1.0
 - name: Subtlety
@@ -132,10 +132,10 @@ top_cards:
 - name: Damping Sphere
   weight: 0.1818
   avg_copies: 2.0
-- name: Cling to Dust
+- name: Verdant Catacombs
   weight: 0.1818
   avg_copies: 1.0
-- name: Verdant Catacombs
+- name: Cling to Dust
   weight: 0.1818
   avg_copies: 1.0
 - name: Bitter Triumph
@@ -144,10 +144,10 @@ top_cards:
 - name: Snapcaster Mage
   weight: 0.0909
   avg_copies: 1.0
-- name: Boggart Trawler
+- name: Dreams of Steel and Oil
   weight: 0.0909
   avg_copies: 1.0
-- name: Dreams of Steel and Oil
+- name: Boggart Trawler
   weight: 0.0909
   avg_copies: 1.0
 - name: Spell Pierce

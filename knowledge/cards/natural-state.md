@@ -19,7 +19,7 @@ archetypes:
     weight: 0.0057
     avg_copies: 1.0
   dredge:
-    weight: 0.0741
+    weight: 0.0714
     avg_copies: 1.0
   cosmogoyf-fling:
     weight: 0.0755

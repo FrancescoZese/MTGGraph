@@ -9,13 +9,13 @@ top_cards:
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Dragon's Rage Channeler
-  weight: 1.0
-  avg_copies: 4.0
 - name: Preordain
   weight: 1.0
   avg_copies: 4.0
 - name: Cori-Steel Cutter
+  weight: 1.0
+  avg_copies: 4.0
+- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Lava Dart
@@ -90,10 +90,10 @@ top_cards:
 - name: Mutagenic Growth
   weight: 0.3214
   avg_copies: 1.44
-- name: Stomping Ground
+- name: Origin of Metalbending
   weight: 0.3214
   avg_copies: 1.0
-- name: Origin of Metalbending
+- name: Stomping Ground
   weight: 0.3214
   avg_copies: 1.0
 - name: Spell Pierce
@@ -132,19 +132,19 @@ top_cards:
 - name: Assault Strobe
   weight: 0.1071
   avg_copies: 1.33
-- name: Price of Freedom
+- name: Blood Crypt
   weight: 0.1071
   avg_copies: 1.0
 - name: Iroh's Demonstration
+  weight: 0.1071
+  avg_copies: 1.0
+- name: Price of Freedom
   weight: 0.1071
   avg_copies: 1.0
 - name: Octopus Form
   weight: 0.1071
   avg_copies: 1.0
 - name: Soul-Guide Lantern
-  weight: 0.1071
-  avg_copies: 1.0
-- name: Blood Crypt
   weight: 0.1071
   avg_copies: 1.0
 - name: Nihil Spellbomb
@@ -165,10 +165,10 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.0357
   avg_copies: 2.0
-- name: Pyroclasm
+- name: Vexing Bauble
   weight: 0.0357
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Pyroclasm
   weight: 0.0357
   avg_copies: 2.0
 - name: Wear
@@ -177,16 +177,16 @@ top_cards:
 - name: Hurkyl's Recall
   weight: 0.0357
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Fire Magic
   weight: 0.0357
   avg_copies: 1.0
-- name: Redirect Lightning
+- name: Sacred Foundry
   weight: 0.0357
   avg_copies: 1.0
 - name: Accumulate Wisdom
   weight: 0.0357
   avg_copies: 1.0
-- name: Fire Magic
+- name: Redirect Lightning
   weight: 0.0357
   avg_copies: 1.0
 ---

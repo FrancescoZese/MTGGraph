@@ -9,7 +9,7 @@ type: Unknown
 meta_presence: 0.0249
 archetypes:
   goryo:
-    weight: 0.3784
+    weight: 0.3763
     avg_copies: 1.41
   living-end:
     weight: 0.2533

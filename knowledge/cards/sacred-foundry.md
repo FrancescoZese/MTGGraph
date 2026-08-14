@@ -9,11 +9,11 @@ type: Land — Mountain Plains
 meta_presence: 0.2553
 archetypes:
   ruby-storm:
-    weight: 0.9429
-    avg_copies: 1.1
+    weight: 0.9433
+    avg_copies: 1.09
   boros-energy:
     weight: 1.0
-    avg_copies: 2.84
+    avg_copies: 2.85
   jeskai-energy:
     weight: 1.0
     avg_copies: 1.3
@@ -105,7 +105,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-67:
-    weight: 0.1209
+    weight: 0.1304
     avg_copies: 1.0
   unknown-68:
     weight: 1.0

@@ -6,10 +6,10 @@ name: 'Unknown #30'
 meta_share: 0.001
 list_count: 7
 top_cards:
-- name: Polluted Delta
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Abhorrent Oculus
@@ -36,10 +36,10 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 1.57
-- name: Undercity Sewers
+- name: Island
   weight: 1.0
   avg_copies: 1.43
-- name: Island
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.43
 - name: Moonshadow
@@ -99,13 +99,13 @@ top_cards:
 - name: Kaito, Bane of Nightmares
   weight: 0.4286
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Loran of the Third Path
   weight: 0.4286
   avg_copies: 1.0
 - name: Godless Shrine
   weight: 0.4286
   avg_copies: 1.0
-- name: Loran of the Third Path
+- name: Otawara, Soaring City
   weight: 0.4286
   avg_copies: 1.0
 - name: Force of Despair
@@ -117,46 +117,58 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.2857
   avg_copies: 1.0
-- name: Hedron Crab
-  weight: 0.1429
-  avg_copies: 4.0
 - name: Merfolk Secretkeeper
   weight: 0.1429
   avg_copies: 4.0
-- name: Vengevine
+- name: Hedron Crab
   weight: 0.1429
   avg_copies: 4.0
 - name: Exhibition Tidecaller
   weight: 0.1429
   avg_copies: 4.0
-- name: Spell Snare
+- name: Vengevine
   weight: 0.1429
-  avg_copies: 2.0
-- name: Dauthi Voidwalker
-  weight: 0.1429
-  avg_copies: 2.0
+  avg_copies: 4.0
 - name: Prismatic Ending
   weight: 0.1429
   avg_copies: 2.0
-- name: Drown in the Loch
-  weight: 0.1429
-  avg_copies: 2.0
-- name: Quantum Riddler
+- name: Spell Snare
   weight: 0.1429
   avg_copies: 2.0
 - name: Thundertrap Trainer
   weight: 0.1429
   avg_copies: 2.0
+- name: Drown in the Loch
+  weight: 0.1429
+  avg_copies: 2.0
+- name: Dauthi Voidwalker
+  weight: 0.1429
+  avg_copies: 2.0
+- name: Quantum Riddler
+  weight: 0.1429
+  avg_copies: 2.0
+- name: card:kira-great-glass-spinner
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Cephalid Coliseum
+  weight: 0.1429
+  avg_copies: 1.0
 - name: Brazen Borrower
   weight: 0.1429
   avg_copies: 1.0
-- name: Lavinia, Azorius Renegade
+- name: Toxic Deluge
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Sheoldred's Edict
   weight: 0.1429
   avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 0.1429
   avg_copies: 1.0
-- name: Graveyard Trespasser
+- name: Verdant Catacombs
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Engineered Explosives
   weight: 0.1429
   avg_copies: 1.0
 - name: The Meathook Massacre
@@ -165,22 +177,10 @@ top_cards:
 - name: End of the Hunt
   weight: 0.1429
   avg_copies: 1.0
-- name: Sheoldred's Edict
+- name: Lavinia, Azorius Renegade
   weight: 0.1429
   avg_copies: 1.0
-- name: Engineered Explosives
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Cephalid Coliseum
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Toxic Deluge
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Verdant Catacombs
-  weight: 0.1429
-  avg_copies: 1.0
-- name: card:kira-great-glass-spinner
+- name: Graveyard Trespasser
   weight: 0.1429
   avg_copies: 1.0
 - name: Requiting Hex

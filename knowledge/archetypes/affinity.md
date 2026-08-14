@@ -3,7 +3,7 @@ colors:
 - U
 - R
 name: Affinity
-meta_share: 0.0774
+meta_share: 0.0772
 list_count: 528
 top_cards:
 - name: Kappa Cannoneer
@@ -12,10 +12,10 @@ top_cards:
 - name: Pinnacle Emissary
   weight: 1.0
   avg_copies: 3.9
-- name: Engineered Explosives
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 3.88
-- name: Urza's Saga
+- name: Engineered Explosives
   weight: 1.0
   avg_copies: 3.88
 - name: Mox Opal
@@ -162,19 +162,19 @@ top_cards:
 - name: Haywire Mite
   weight: 0.0246
   avg_copies: 1.06
-- name: Mox Amber
+- name: Relic of Progenitus
   weight: 0.0246
   avg_copies: 1.0
 - name: card:castle-doom
   weight: 0.0246
   avg_copies: 1.0
+- name: Magus of the Moon
+  weight: 0.0246
+  avg_copies: 1.0
 - name: Springleaf Drum
   weight: 0.0246
   avg_copies: 1.0
-- name: Relic of Progenitus
-  weight: 0.0246
-  avg_copies: 1.0
-- name: Magus of the Moon
+- name: Mox Amber
   weight: 0.0246
   avg_copies: 1.0
 - name: Furnace Dragon
@@ -189,10 +189,10 @@ top_cards:
 - name: Flooded Strand
   weight: 0.017
   avg_copies: 1.89
-- name: Snow-Covered Island
+- name: Polluted Delta
   weight: 0.017
   avg_copies: 1.44
-- name: Polluted Delta
+- name: Snow-Covered Island
   weight: 0.017
   avg_copies: 1.44
 - name: Lavaspur Boots
@@ -228,13 +228,13 @@ top_cards:
 - name: card:pyrite-spellbomb
   weight: 0.0057
   avg_copies: 1.0
+- name: Detect Intrusion
+  weight: 0.0038
+  avg_copies: 2.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.0038
   avg_copies: 2.0
 - name: Wear
-  weight: 0.0038
-  avg_copies: 2.0
-- name: Detect Intrusion
   weight: 0.0038
   avg_copies: 2.0
 - name: Disruptor Flute
@@ -243,16 +243,16 @@ top_cards:
 - name: Echoing Deeps
   weight: 0.0038
   avg_copies: 1.0
-- name: Void Mirror
-  weight: 0.0038
-  avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 0.0038
   avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Void Mirror
   weight: 0.0038
   avg_copies: 1.0
 - name: Umezawa's Jitte
+  weight: 0.0038
+  avg_copies: 1.0
+- name: Gemstone Caverns
   weight: 0.0038
   avg_copies: 1.0
 - name: Portable Hole
@@ -261,61 +261,61 @@ top_cards:
 - name: Invasive Surgery
   weight: 0.0019
   avg_copies: 2.0
-- name: Cursed Totem
-  weight: 0.0019
-  avg_copies: 2.0
-- name: Dispatch
-  weight: 0.0019
-  avg_copies: 2.0
 - name: Patchwork Automaton
   weight: 0.0019
   avg_copies: 2.0
 - name: Magebane Lizard
   weight: 0.0019
   avg_copies: 2.0
-- name: Into the Flood Maw
+- name: Cursed Totem
   weight: 0.0019
   avg_copies: 2.0
 - name: Prismari Charm
   weight: 0.0019
   avg_copies: 2.0
+- name: Into the Flood Maw
+  weight: 0.0019
+  avg_copies: 2.0
+- name: Dispatch
+  weight: 0.0019
+  avg_copies: 2.0
 - name: Glimmervoid
   weight: 0.0019
   avg_copies: 2.0
-- name: Chandra, Spark Hunter
-  weight: 0.0019
-  avg_copies: 1.0
-- name: Cranial Plating
-  weight: 0.0019
-  avg_copies: 1.0
 - name: Zuran Orb
   weight: 0.0019
   avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.0019
-  avg_copies: 1.0
-- name: Jokulmorder
-  weight: 0.0019
-  avg_copies: 1.0
-- name: Spell Pierce
-  weight: 0.0019
-  avg_copies: 1.0
-- name: Lithomantic Barrage
-  weight: 0.0019
-  avg_copies: 1.0
-- name: Minamo, School at Water's Edge
+- name: Chandra, Spark Hunter
   weight: 0.0019
   avg_copies: 1.0
 - name: Ghirapur Aether Grid
   weight: 0.0019
   avg_copies: 1.0
+- name: Waterlogged Grove
+  weight: 0.0019
+  avg_copies: 1.0
 - name: Sacred Foundry
+  weight: 0.0019
+  avg_copies: 1.0
+- name: Jokulmorder
+  weight: 0.0019
+  avg_copies: 1.0
+- name: Minamo, School at Water's Edge
   weight: 0.0019
   avg_copies: 1.0
 - name: Torpor Orb
   weight: 0.0019
   avg_copies: 1.0
-- name: Waterlogged Grove
+- name: Breeding Pool
+  weight: 0.0019
+  avg_copies: 1.0
+- name: Cranial Plating
+  weight: 0.0019
+  avg_copies: 1.0
+- name: Lithomantic Barrage
+  weight: 0.0019
+  avg_copies: 1.0
+- name: Spell Pierce
   weight: 0.0019
   avg_copies: 1.0
 ---

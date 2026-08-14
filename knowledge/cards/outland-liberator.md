@@ -12,7 +12,7 @@ archetypes:
     weight: 0.0357
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.5652
+    weight: 0.5591
     avg_copies: 1.0
   devoted-combo:
     weight: 1.0
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   unknown-126:
-    weight: 0.5181
+    weight: 0.5119
     avg_copies: 1.02
   unknown-196:
     weight: 1.0

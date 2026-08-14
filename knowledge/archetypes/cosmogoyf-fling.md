@@ -4,7 +4,7 @@ colors:
 - R
 - G
 name: Cosmogoyf Fling
-meta_share: 0.0078
+meta_share: 0.0077
 list_count: 53
 top_cards:
 - name: Thud
@@ -160,16 +160,16 @@ top_cards:
 - name: Mana Confluence
   weight: 0.0189
   avg_copies: 4.0
-- name: Shadowspear
-  weight: 0.0189
-  avg_copies: 2.0
 - name: card:kavaron-memorial-world
   weight: 0.0189
   avg_copies: 2.0
-- name: Death's Shadow
+- name: Shadowspear
   weight: 0.0189
   avg_copies: 2.0
 - name: Pyroclasm
+  weight: 0.0189
+  avg_copies: 2.0
+- name: Death's Shadow
   weight: 0.0189
   avg_copies: 2.0
 - name: Disruptor Flute

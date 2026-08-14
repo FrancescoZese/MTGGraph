@@ -22,7 +22,7 @@ archetypes:
     weight: 0.0588
     avg_copies: 2.0
   dredge:
-    weight: 0.037
+    weight: 0.0357
     avg_copies: 1.0
   mono-green-stompy:
     weight: 1.0

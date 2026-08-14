@@ -3,7 +3,7 @@ colors:
 - R
 - G
 name: Broodscale Combo
-meta_share: 0.0448
+meta_share: 0.0447
 list_count: 306
 top_cards:
 - name: Malevolent Rumble
@@ -225,13 +225,13 @@ top_cards:
 - name: Sephiroth, Fabled SOLDIER
   weight: 0.0131
   avg_copies: 3.0
-- name: Agatha's Soul Cauldron
+- name: Culling Ritual
   weight: 0.0131
   avg_copies: 2.0
 - name: Fatal Push
   weight: 0.0131
   avg_copies: 2.0
-- name: Culling Ritual
+- name: Agatha's Soul Cauldron
   weight: 0.0131
   avg_copies: 2.0
 - name: Wastescape Battlemage
@@ -240,10 +240,10 @@ top_cards:
 - name: Overgrown Tomb
   weight: 0.0131
   avg_copies: 1.0
-- name: Underground Mortuary
+- name: Mutagenic Growth
   weight: 0.0131
   avg_copies: 1.0
-- name: Mutagenic Growth
+- name: Underground Mortuary
   weight: 0.0131
   avg_copies: 1.0
 - name: Drowner of Truth
@@ -255,13 +255,13 @@ top_cards:
 - name: Defense Grid
   weight: 0.0098
   avg_copies: 1.33
+- name: Swamp
+  weight: 0.0098
+  avg_copies: 1.0
 - name: Shadowspear
   weight: 0.0098
   avg_copies: 1.0
 - name: Nurturing Peatland
-  weight: 0.0098
-  avg_copies: 1.0
-- name: Swamp
   weight: 0.0098
   avg_copies: 1.0
 - name: Revitalizing Repast
@@ -276,64 +276,58 @@ top_cards:
 - name: Snow-Covered Forest
   weight: 0.0065
   avg_copies: 2.0
-- name: Lightning Bolt
-  weight: 0.0065
-  avg_copies: 1.0
 - name: Skateboard
   weight: 0.0065
   avg_copies: 1.0
-- name: Meltdown
+- name: Lightning Bolt
   weight: 0.0065
   avg_copies: 1.0
 - name: Ghost Vacuum
   weight: 0.0065
   avg_copies: 1.0
+- name: Meltdown
+  weight: 0.0065
+  avg_copies: 1.0
+- name: Brushland
+  weight: 0.0033
+  avg_copies: 4.0
 - name: Spire of Industry
   weight: 0.0033
   avg_copies: 4.0
 - name: Eldrazi Linebreaker
   weight: 0.0033
   avg_copies: 4.0
-- name: Brushland
+- name: Formidable Speaker
   weight: 0.0033
-  avg_copies: 4.0
+  avg_copies: 3.0
 - name: Mox Opal
   weight: 0.0033
   avg_copies: 3.0
 - name: Darksteel Citadel
   weight: 0.0033
   avg_copies: 3.0
-- name: Formidable Speaker
-  weight: 0.0033
-  avg_copies: 3.0
 - name: Path to Exile
   weight: 0.0033
   avg_copies: 3.0
-- name: Deafening Silence
-  weight: 0.0033
-  avg_copies: 2.0
-- name: Cursed Totem
-  weight: 0.0033
-  avg_copies: 2.0
-- name: Heroic Intervention
-  weight: 0.0033
-  avg_copies: 2.0
-- name: Orim's Chant
+- name: Idol of False Gods
   weight: 0.0033
   avg_copies: 2.0
 - name: Snakeskin Veil
   weight: 0.0033
   avg_copies: 2.0
-- name: Idol of False Gods
+- name: Cursed Totem
+  weight: 0.0033
+  avg_copies: 2.0
+- name: Orim's Chant
+  weight: 0.0033
+  avg_copies: 2.0
+- name: Deafening Silence
+  weight: 0.0033
+  avg_copies: 2.0
+- name: Heroic Intervention
   weight: 0.0033
   avg_copies: 2.0
 - name: Pawpatch Formation
-  weight: 0.0033
-  avg_copies: 1.0
-- name: Expedition Map
-  weight: 0.0033
-  avg_copies: 1.0
-- name: Kozilek's Return
   weight: 0.0033
   avg_copies: 1.0
 - name: Tunnel Ignus
@@ -343,6 +337,12 @@ top_cards:
   weight: 0.0033
   avg_copies: 1.0
 - name: Surgical Extraction
+  weight: 0.0033
+  avg_copies: 1.0
+- name: Expedition Map
+  weight: 0.0033
+  avg_copies: 1.0
+- name: Kozilek's Return
   weight: 0.0033
   avg_copies: 1.0
 ---

@@ -9,49 +9,52 @@ top_cards:
 - name: Pinnacle Emissary
   weight: 1.0
   avg_copies: 4.0
-- name: Mox Opal
-  weight: 1.0
-  avg_copies: 4.0
-- name: Urza's Saga
-  weight: 1.0
-  avg_copies: 4.0
-- name: Cranial Plating
-  weight: 1.0
-  avg_copies: 4.0
 - name: Kappa Cannoneer
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
+- name: Urza's Saga
+  weight: 1.0
+  avg_copies: 4.0
 - name: Springleaf Drum
   weight: 1.0
   avg_copies: 4.0
-- name: Metallic Rebuke
+- name: Cranial Plating
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Krang, Master Mind
   weight: 1.0
   avg_copies: 3.0
-- name: Memnite
-  weight: 1.0
-  avg_copies: 3.0
-- name: Ornithopter
+- name: Metallic Rebuke
   weight: 1.0
   avg_copies: 3.0
 - name: Thoughtcast
   weight: 1.0
   avg_copies: 3.0
-- name: Thought Monitor
-  weight: 1.0
-  avg_copies: 3.0
 - name: Spirebluff Canal
   weight: 1.0
   avg_copies: 3.0
-- name: Whipflare
+- name: Ornithopter
+  weight: 1.0
+  avg_copies: 3.0
+- name: Memnite
+  weight: 1.0
+  avg_copies: 3.0
+- name: Thought Monitor
+  weight: 1.0
+  avg_copies: 3.0
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 2.0
-- name: Sink into Stupor
+- name: Galvanic Blast
+  weight: 1.0
+  avg_copies: 2.0
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 2.0
 - name: Silverbluff Bridge
@@ -60,16 +63,13 @@ top_cards:
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 2.0
-- name: Darksteel Citadel
-  weight: 1.0
-  avg_copies: 2.0
 - name: Fiery Islet
   weight: 1.0
   avg_copies: 2.0
-- name: Consign to Memory
+- name: Darksteel Citadel
   weight: 1.0
   avg_copies: 2.0
-- name: Galvanic Blast
+- name: Whipflare
   weight: 1.0
   avg_copies: 2.0
 - name: Tormod's Crypt
@@ -78,22 +78,22 @@ top_cards:
 - name: Shadowspear
   weight: 1.0
   avg_copies: 1.0
-- name: Skateboard
-  weight: 1.0
-  avg_copies: 1.0
-- name: Pithing Needle
-  weight: 1.0
-  avg_copies: 1.0
 - name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Wear
+- name: Swan Song
   weight: 1.0
   avg_copies: 1.0
-- name: Swan Song
+- name: Skateboard
+  weight: 1.0
+  avg_copies: 1.0
+- name: Pithing Needle
+  weight: 1.0
+  avg_copies: 1.0
+- name: Wear
   weight: 1.0
   avg_copies: 1.0
 ---

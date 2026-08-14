@@ -123,19 +123,19 @@ top_cards:
 - name: March of Otherworldly Light
   weight: 0.1765
   avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 0.1765
+  avg_copies: 1.0
 - name: Plague Engineer
-  weight: 0.1765
-  avg_copies: 1.0
-- name: Prismatic Vista
-  weight: 0.1765
-  avg_copies: 1.0
-- name: card:cloak-and-dagger-entwined
   weight: 0.1765
   avg_copies: 1.0
 - name: Grafdigger's Cage
   weight: 0.1765
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: card:cloak-and-dagger-entwined
+  weight: 0.1765
+  avg_copies: 1.0
+- name: Prismatic Vista
   weight: 0.1765
   avg_copies: 1.0
 - name: Surgical Extraction
@@ -159,10 +159,10 @@ top_cards:
 - name: Force of Despair
   weight: 0.0588
   avg_copies: 3.0
-- name: Bloodstained Mire
+- name: Troll of Khazad-dûm
   weight: 0.0588
   avg_copies: 2.0
-- name: End of the Hunt
+- name: Illness in the Ranks
   weight: 0.0588
   avg_copies: 2.0
 - name: Windswept Heath
@@ -171,18 +171,12 @@ top_cards:
 - name: Duress
   weight: 0.0588
   avg_copies: 2.0
-- name: Illness in the Ranks
+- name: Bloodstained Mire
   weight: 0.0588
   avg_copies: 2.0
-- name: Troll of Khazad-dûm
+- name: End of the Hunt
   weight: 0.0588
   avg_copies: 2.0
-- name: Raucous Theater
-  weight: 0.0588
-  avg_copies: 1.0
-- name: card:captain-america-super-soldier
-  weight: 0.0588
-  avg_copies: 1.0
 - name: Sacred Ground
   weight: 0.0588
   avg_copies: 1.0
@@ -192,19 +186,7 @@ top_cards:
 - name: Kataki, War's Wage
   weight: 0.0588
   avg_copies: 1.0
-- name: Overgrown Tomb
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Monumental Henge
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Eiganjo, Seat of the Empire
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Vindicate
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Lush Portico
+- name: Raucous Theater
   weight: 0.0588
   avg_copies: 1.0
 - name: Gaddock Teeg
@@ -213,7 +195,25 @@ top_cards:
 - name: Emptiness
   weight: 0.0588
   avg_copies: 1.0
+- name: Vindicate
+  weight: 0.0588
+  avg_copies: 1.0
 - name: Accursed Marauder
+  weight: 0.0588
+  avg_copies: 1.0
+- name: card:captain-america-super-soldier
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Lush Portico
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Overgrown Tomb
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Eiganjo, Seat of the Empire
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Monumental Henge
   weight: 0.0588
   avg_copies: 1.0
 ---

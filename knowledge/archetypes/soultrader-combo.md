@@ -7,19 +7,19 @@ name: Soultrader Combo
 meta_share: 0.001
 list_count: 7
 top_cards:
+- name: Gravecrawler
+  weight: 1.0
+  avg_copies: 4.0
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
 - name: Warren Soultrader
   weight: 1.0
   avg_copies: 4.0
-- name: Gravecrawler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marionette Apprentice
+- name: Flare of Malice
   weight: 1.0
   avg_copies: 3.86
-- name: Flare of Malice
+- name: Marionette Apprentice
   weight: 1.0
   avg_copies: 3.86
 - name: Bloodstained Mire
@@ -76,16 +76,16 @@ top_cards:
 - name: Watery Grave
   weight: 0.5714
   avg_copies: 1.0
-- name: Fulminator Mage
+- name: Wight of the Reliquary
   weight: 0.4286
   avg_copies: 2.67
-- name: Wight of the Reliquary
+- name: Verdant Catacombs
   weight: 0.4286
   avg_copies: 2.67
 - name: Marsh Flats
   weight: 0.4286
   avg_copies: 2.67
-- name: Verdant Catacombs
+- name: Fulminator Mage
   weight: 0.4286
   avg_copies: 2.67
 - name: Phoenix Fleet Airship
@@ -112,10 +112,10 @@ top_cards:
 - name: Arnyn, Deathbloom Botanist
   weight: 0.2857
   avg_copies: 2.0
-- name: Soulless Jailer
+- name: Collector Ouphe
   weight: 0.2857
   avg_copies: 2.0
-- name: Collector Ouphe
+- name: Soulless Jailer
   weight: 0.2857
   avg_copies: 2.0
 - name: Abrupt Decay
@@ -133,25 +133,19 @@ top_cards:
 - name: Mai, Scornful Striker
   weight: 0.1429
   avg_copies: 1.0
-- name: Undercity Sewers
+- name: Urborg, Tomb of Yawgmoth
   weight: 0.1429
   avg_copies: 1.0
 - name: card:liliana-heretical-healer
   weight: 0.1429
   avg_copies: 1.0
-- name: Nurturing Peatland
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Break the Ice
   weight: 0.1429
   avg_copies: 1.0
-- name: Urborg, Tomb of Yawgmoth
+- name: Ashiok, Dream Render
   weight: 0.1429
   avg_copies: 1.0
 - name: Sephiroth, Fabled SOLDIER
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Overlord of the Balemurk
   weight: 0.1429
   avg_copies: 1.0
 - name: Shatter Assumptions
@@ -160,13 +154,19 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.1429
   avg_copies: 1.0
+- name: Overlord of the Balemurk
+  weight: 0.1429
+  avg_copies: 1.0
 - name: Cling to Dust
   weight: 0.1429
   avg_copies: 1.0
-- name: Grist, the Hunger Tide
+- name: Nurturing Peatland
   weight: 0.1429
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Undercity Sewers
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Grist, the Hunger Tide
   weight: 0.1429
   avg_copies: 1.0
 ---

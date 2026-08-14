@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0044
 archetypes:
   ruby-storm:
-    weight: 0.0204
+    weight: 0.0202
     avg_copies: 1.0
   affinity:
     weight: 0.0114
@@ -19,7 +19,7 @@ archetypes:
     weight: 0.0028
     avg_copies: 1.0
   goryo1:
-    weight: 0.0674
+    weight: 0.0667
     avg_copies: 1.0
   unknown-101:
     weight: 0.2381

@@ -7,10 +7,10 @@ name: Rest in Peace
 scryfall_id: d108c2b1-236e-4b8d-8445-d9749ccc4fea
 set: big
 type: Enchantment
-meta_presence: 0.0951
+meta_presence: 0.0949
 archetypes:
   boros-energy:
-    weight: 0.2382
+    weight: 0.2379
     avg_copies: 1.57
   dimir-control:
     weight: 0.0123

@@ -22,13 +22,13 @@ archetypes:
     weight: 0.0104
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.0171
+    weight: 0.017
     avg_copies: 1.17
   4c-omnath:
     weight: 0.75
     avg_copies: 1.67
   dredge:
-    weight: 0.037
+    weight: 0.0357
     avg_copies: 1.0
   izzet-murktide:
     weight: 1.0

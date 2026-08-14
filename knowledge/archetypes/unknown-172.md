@@ -8,9 +8,6 @@ top_cards:
 - name: Forest
   weight: 1.0
   avg_copies: 6.0
-- name: Windswept Heath
-  weight: 1.0
-  avg_copies: 4.0
 - name: Springheart Nantuko
   weight: 1.0
   avg_copies: 4.0
@@ -20,10 +17,7 @@ top_cards:
 - name: Badgermole Cub
   weight: 1.0
   avg_copies: 4.0
-- name: Ouroboroid
-  weight: 1.0
-  avg_copies: 4.0
-- name: Leyline of Abundance
+- name: Windswept Heath
   weight: 1.0
   avg_copies: 4.0
 - name: Quirion Ranger
@@ -32,16 +26,22 @@ top_cards:
 - name: Delighted Halfling
   weight: 1.0
   avg_copies: 4.0
+- name: Ouroboroid
+  weight: 1.0
+  avg_copies: 4.0
 - name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
-- name: card:shang-chi-master-of-kung-fu
+- name: Leyline of Abundance
+  weight: 1.0
+  avg_copies: 4.0
+- name: Summoner's Pact
   weight: 1.0
   avg_copies: 3.0
 - name: Force of Vigor
   weight: 1.0
   avg_copies: 3.0
-- name: Summoner's Pact
+- name: card:shang-chi-master-of-kung-fu
   weight: 1.0
   avg_copies: 3.0
 - name: Heroic Intervention
@@ -59,22 +59,22 @@ top_cards:
 - name: Ashaya, Soul of the Wild
   weight: 1.0
   avg_copies: 1.75
-- name: Craterhoof Behemoth
+- name: Nissa, Resurgent Animist
   weight: 1.0
   avg_copies: 1.0
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.0
-- name: Nissa, Resurgent Animist
+- name: Craterhoof Behemoth
   weight: 1.0
   avg_copies: 1.0
 - name: Orim's Chant
   weight: 0.75
   avg_copies: 4.0
-- name: Lush Portico
+- name: Endurance
   weight: 0.75
   avg_copies: 2.0
-- name: Endurance
+- name: Lush Portico
   weight: 0.75
   avg_copies: 2.0
 - name: Collector Ouphe
@@ -89,16 +89,16 @@ top_cards:
 - name: card:royal-treatment
   weight: 0.25
   avg_copies: 2.0
-- name: card:birds-of-paradise
-  weight: 0.25
-  avg_copies: 1.0
-- name: Lotus Cobra
-  weight: 0.25
-  avg_copies: 1.0
 - name: Noble Hierarch
   weight: 0.25
   avg_copies: 1.0
+- name: card:birds-of-paradise
+  weight: 0.25
+  avg_copies: 1.0
 - name: card:mark-of-asylum
+  weight: 0.25
+  avg_copies: 1.0
+- name: Lotus Cobra
   weight: 0.25
   avg_copies: 1.0
 ---

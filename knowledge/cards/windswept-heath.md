@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.1386
 archetypes:
   boros-energy:
-    weight: 0.3822
+    weight: 0.3817
     avg_copies: 2.73
   jeskai-energy:
     weight: 0.0075
@@ -33,8 +33,8 @@ archetypes:
     weight: 0.0071
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.9674
-    avg_copies: 3.0
+    weight: 0.9677
+    avg_copies: 2.99
   eldrazi-ramp:
     weight: 0.8016
     avg_copies: 1.31

@@ -141,10 +141,10 @@ top_cards:
 - name: Flow State
   weight: 0.1471
   avg_copies: 2.0
-- name: Breeding Pool
+- name: The Wandering Emperor
   weight: 0.1471
   avg_copies: 1.0
-- name: The Wandering Emperor
+- name: Breeding Pool
   weight: 0.1471
   avg_copies: 1.0
 - name: Beza, the Bounding Spring
@@ -174,10 +174,10 @@ top_cards:
 - name: Subtlety
   weight: 0.0882
   avg_copies: 1.8
-- name: Undercity Sewers
+- name: Jace, the Mind Sculptor
   weight: 0.0784
   avg_copies: 1.0
-- name: Jace, the Mind Sculptor
+- name: Undercity Sewers
   weight: 0.0784
   avg_copies: 1.0
 - name: Sink into Stupor
@@ -225,13 +225,13 @@ top_cards:
 - name: Fire Magic
   weight: 0.0294
   avg_copies: 1.67
+- name: Snow-Covered Plains
+  weight: 0.0294
+  avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.0294
   avg_copies: 1.0
 - name: Vendilion Clique
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Snow-Covered Plains
   weight: 0.0294
   avg_copies: 1.0
 - name: Thundertrap Trainer
@@ -252,22 +252,25 @@ top_cards:
 - name: Gemstone Caverns
   weight: 0.0196
   avg_copies: 1.0
-- name: Obsidian Charmaw
-  weight: 0.0098
-  avg_copies: 2.0
 - name: card:bilbo-s-gambit
   weight: 0.0098
   avg_copies: 2.0
 - name: Wear
   weight: 0.0098
   avg_copies: 2.0
-- name: Elesh Norn, Mother of Machines
+- name: Obsidian Charmaw
+  weight: 0.0098
+  avg_copies: 2.0
+- name: Petrified Hamlet
   weight: 0.0098
   avg_copies: 1.0
-- name: Get Lost
+- name: Flashback
   weight: 0.0098
   avg_copies: 1.0
-- name: card:bribery
+- name: Strix Serenade
+  weight: 0.0098
+  avg_copies: 1.0
+- name: Hurkyl's Recall
   weight: 0.0098
   avg_copies: 1.0
 - name: card:linvala-keeper-of-silence
@@ -276,31 +279,28 @@ top_cards:
 - name: Logic Knot
   weight: 0.0098
   avg_copies: 1.0
-- name: Deafening Silence
-  weight: 0.0098
-  avg_copies: 1.0
 - name: Restless Anchorage
-  weight: 0.0098
-  avg_copies: 1.0
-- name: Commandeer
-  weight: 0.0098
-  avg_copies: 1.0
-- name: Strix Serenade
   weight: 0.0098
   avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.0098
   avg_copies: 1.0
-- name: Hurkyl's Recall
+- name: Deafening Silence
+  weight: 0.0098
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
+  weight: 0.0098
+  avg_copies: 1.0
+- name: card:bribery
   weight: 0.0098
   avg_copies: 1.0
 - name: Meltdown
   weight: 0.0098
   avg_copies: 1.0
-- name: Flashback
+- name: Commandeer
   weight: 0.0098
   avg_copies: 1.0
-- name: Petrified Hamlet
+- name: Get Lost
   weight: 0.0098
   avg_copies: 1.0
 ---

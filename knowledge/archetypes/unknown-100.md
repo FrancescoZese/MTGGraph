@@ -9,10 +9,13 @@ name: 'Unknown #100'
 meta_share: 0.0006
 list_count: 4
 top_cards:
-- name: Leyline Binding
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Lightning Bolt
+- name: Leyline of the Guildpact
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 4.0
 - name: Scion of Draco
@@ -21,10 +24,7 @@ top_cards:
 - name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline of the Guildpact
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ragavan, Nimble Pilferer
+- name: Leyline Binding
   weight: 1.0
   avg_copies: 4.0
 - name: Wooded Foothills
@@ -42,16 +42,16 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Arena of Glory
-  weight: 1.0
-  avg_copies: 1.0
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
 - name: Mountain
+  weight: 1.0
+  avg_copies: 1.0
+- name: Arena of Glory
   weight: 1.0
   avg_copies: 1.0
 - name: Surgical Extraction
@@ -75,31 +75,31 @@ top_cards:
 - name: Pest Control
   weight: 0.75
   avg_copies: 1.33
-- name: Raucous Theater
-  weight: 0.75
-  avg_copies: 1.0
-- name: Godless Shrine
-  weight: 0.75
-  avg_copies: 1.0
-- name: Nihil Spellbomb
-  weight: 0.75
-  avg_copies: 1.0
 - name: Spara's Headquarters
   weight: 0.75
   avg_copies: 1.0
 - name: Breeding Pool
   weight: 0.75
   avg_copies: 1.0
+- name: Raucous Theater
+  weight: 0.75
+  avg_copies: 1.0
+- name: Nihil Spellbomb
+  weight: 0.75
+  avg_copies: 1.0
+- name: Godless Shrine
+  weight: 0.75
+  avg_copies: 1.0
 - name: Moonshadow
   weight: 0.5
   avg_copies: 4.0
-- name: Arid Mesa
+- name: Marsh Flats
   weight: 0.5
   avg_copies: 4.0
 - name: Polluted Delta
   weight: 0.5
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Arid Mesa
   weight: 0.5
   avg_copies: 4.0
 - name: Orcish Bowmasters
@@ -111,16 +111,16 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.5
   avg_copies: 1.5
-- name: Temple Garden
-  weight: 0.5
-  avg_copies: 1.0
 - name: Plains
   weight: 0.5
   avg_copies: 1.0
-- name: Bloodstained Mire
+- name: Temple Garden
+  weight: 0.5
+  avg_copies: 1.0
+- name: Scalding Tarn
   weight: 0.25
   avg_copies: 4.0
-- name: Scalding Tarn
+- name: Bloodstained Mire
   weight: 0.25
   avg_copies: 4.0
 - name: Damping Sphere
@@ -138,34 +138,34 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 0.25
   avg_copies: 2.0
-- name: Rest in Peace
+- name: Hidetsugu Consumes All
   weight: 0.25
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Rest in Peace
   weight: 0.25
   avg_copies: 1.0
 - name: Overgrown Tomb
   weight: 0.25
   avg_copies: 1.0
-- name: Hidetsugu Consumes All
+- name: Hallowed Fountain
   weight: 0.25
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.25
   avg_copies: 1.0
-- name: Indatha Triome
+- name: Island
   weight: 0.25
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Indatha Triome
   weight: 0.25
   avg_copies: 1.0
 - name: Swamp
   weight: 0.25
   avg_copies: 1.0
-- name: Island
+- name: Watery Grave
   weight: 0.25
   avg_copies: 1.0
-- name: Watery Grave
+- name: Thundering Falls
   weight: 0.25
   avg_copies: 1.0
 ---

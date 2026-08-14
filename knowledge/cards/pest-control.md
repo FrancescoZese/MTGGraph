@@ -14,7 +14,7 @@ archetypes:
     weight: 0.1481
     avg_copies: 1.52
   goryo:
-    weight: 0.2703
+    weight: 0.2688
     avg_copies: 1.13
   domain-zoo:
     weight: 0.0897
@@ -32,7 +32,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   goryo2:
-    weight: 0.1951
+    weight: 0.1905
     avg_copies: 2.0
   sultai-midrange:
     weight: 0.75

@@ -6,13 +6,13 @@ name: 'Unknown #198'
 meta_share: 0.0001
 list_count: 1
 top_cards:
-- name: Nethergoyf
-  weight: 1.0
-  avg_copies: 4.0
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
-- name: Moonshadow
+- name: Consign to Memory
+  weight: 1.0
+  avg_copies: 4.0
+- name: Watery Grave
   weight: 1.0
   avg_copies: 4.0
 - name: Death's Shadow
@@ -21,28 +21,28 @@ top_cards:
 - name: Stubborn Denial
   weight: 1.0
   avg_copies: 4.0
+- name: Flow State
+  weight: 1.0
+  avg_copies: 4.0
+- name: Moonshadow
+  weight: 1.0
+  avg_copies: 4.0
 - name: Thoughtseize
-  weight: 1.0
-  avg_copies: 4.0
-- name: Watery Grave
-  weight: 1.0
-  avg_copies: 4.0
-- name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Flow State
+- name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodstained Mire
-  weight: 1.0
-  avg_copies: 3.0
 - name: Fatal Push
   weight: 1.0
   avg_copies: 3.0
 - name: Preordain
+  weight: 1.0
+  avg_copies: 3.0
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 3.0
 - name: Mishra's Bauble
@@ -51,9 +51,6 @@ top_cards:
 - name: Counterspell
   weight: 1.0
   avg_copies: 3.0
-- name: Harbinger of the Seas
-  weight: 1.0
-  avg_copies: 2.0
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 2.0
@@ -63,34 +60,37 @@ top_cards:
 - name: Toxic Deluge
   weight: 1.0
   avg_copies: 2.0
+- name: Harbinger of the Seas
+  weight: 1.0
+  avg_copies: 2.0
 - name: Nihil Spellbomb
   weight: 1.0
   avg_copies: 2.0
 - name: Engineered Explosives
   weight: 1.0
   avg_copies: 2.0
-- name: Kaito, Bane of Nightmares
-  weight: 1.0
-  avg_copies: 1.0
-- name: Undercity Sewers
-  weight: 1.0
-  avg_copies: 1.0
-- name: Swamp
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 1.0
 - name: Island
   weight: 1.0
   avg_copies: 1.0
-- name: Drown in the Loch
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Murktide Regent
   weight: 1.0
   avg_copies: 1.0
+- name: Drown in the Loch
+  weight: 1.0
+  avg_copies: 1.0
 - name: Thought Scour
   weight: 1.0
   avg_copies: 1.0
-- name: Scalding Tarn
+- name: Kaito, Bane of Nightmares
+  weight: 1.0
+  avg_copies: 1.0
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
 ---

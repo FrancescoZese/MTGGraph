@@ -9,7 +9,7 @@ type: Basic Land — Island
 meta_presence: 0.3658
 archetypes:
   ruby-storm:
-    weight: 0.0082
+    weight: 0.0081
     avg_copies: 1.0
   dimir-control:
     weight: 0.9877
@@ -60,7 +60,7 @@ archetypes:
     weight: 0.0104
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0427
+    weight: 0.0426
     avg_copies: 1.07
   4c-omnath:
     weight: 1.0
@@ -93,7 +93,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo1:
-    weight: 0.9213
+    weight: 0.9167
     avg_copies: 1.0
   goryo7:
     weight: 1.0
@@ -213,7 +213,7 @@ archetypes:
     weight: 0.9655
     avg_copies: 1.18
   unknown-67:
-    weight: 0.989
+    weight: 0.9891
     avg_copies: 1.01
   unknown-70:
     weight: 0.7

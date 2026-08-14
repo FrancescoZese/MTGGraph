@@ -9,7 +9,7 @@ type: Artifact
 meta_presence: 0.0635
 archetypes:
   eldrazi-tron:
-    weight: 0.6306
+    weight: 0.6317
     avg_copies: 1.74
   goryo:
     weight: 0.0027
@@ -30,7 +30,7 @@ archetypes:
     weight: 0.0071
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.0543
+    weight: 0.0538
     avg_copies: 2.4
   eldrazi-ramp:
     weight: 0.2143

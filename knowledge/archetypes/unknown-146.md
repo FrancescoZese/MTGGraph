@@ -10,10 +10,10 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 6.0
-- name: Karn, the Great Creator
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Karn, the Great Creator
   weight: 1.0
   avg_copies: 4.0
 - name: Underground Mortuary
@@ -28,16 +28,13 @@ top_cards:
 - name: Cling to Dust
   weight: 1.0
   avg_copies: 3.0
-- name: Necromentia
-  weight: 1.0
-  avg_copies: 3.0
-- name: Dauthi Voidwalker
-  weight: 1.0
-  avg_copies: 3.0
 - name: card:consuming-corruption
   weight: 1.0
   avg_copies: 3.0
-- name: Pillage the Bog
+- name: Witherbloom Charm
+  weight: 1.0
+  avg_copies: 3.0
+- name: Necromentia
   weight: 1.0
   avg_copies: 3.0
 - name: Cabal Coffers
@@ -46,10 +43,13 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 1.0
   avg_copies: 3.0
-- name: Witherbloom Charm
+- name: Dauthi Voidwalker
   weight: 1.0
   avg_copies: 3.0
-- name: Culling Ritual
+- name: Pillage the Bog
+  weight: 1.0
+  avg_copies: 3.0
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 2.0
 - name: Professor Dellian Fel
@@ -64,28 +64,28 @@ top_cards:
 - name: Overgrown Tomb
   weight: 1.0
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Culling Ritual
   weight: 1.0
   avg_copies: 2.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 2.0
-- name: Forest
+- name: The Meathook Massacre
   weight: 1.0
   avg_copies: 1.0
-- name: Damnation
-  weight: 1.0
-  avg_copies: 1.0
-- name: Tormod's Crypt
-  weight: 1.0
-  avg_copies: 1.0
-- name: Ensnaring Bridge
+- name: Engineered Explosives
   weight: 1.0
   avg_copies: 1.0
 - name: Walking Ballista
   weight: 1.0
   avg_copies: 1.0
-- name: The Meathook Massacre
+- name: The Stone Brain
+  weight: 1.0
+  avg_copies: 1.0
+- name: Forest
+  weight: 1.0
+  avg_copies: 1.0
+- name: Liquimetal Coating
   weight: 1.0
   avg_copies: 1.0
 - name: Cityscape Leveler
@@ -94,13 +94,13 @@ top_cards:
 - name: Wurmcoil Engine
   weight: 1.0
   avg_copies: 1.0
-- name: Liquimetal Coating
+- name: Tormod's Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: The Stone Brain
+- name: Ensnaring Bridge
   weight: 1.0
   avg_copies: 1.0
-- name: Engineered Explosives
+- name: Damnation
   weight: 1.0
   avg_copies: 1.0
 ---
