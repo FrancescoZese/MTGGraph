@@ -9,7 +9,7 @@ type: Artifact — Equipment
 meta_presence: 0.0032
 archetypes:
   hammer-time:
-    weight: 1.0
+    weight: 0.9375
     avg_copies: 3.87
   unknown-21:
     weight: 1.0

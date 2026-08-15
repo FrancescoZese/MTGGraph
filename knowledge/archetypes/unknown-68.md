@@ -40,10 +40,10 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.05
-- name: Blood Crypt
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
@@ -178,21 +178,18 @@ top_cards:
 - name: Solitude
   weight: 0.075
   avg_copies: 1.75
-- name: Containment Priest
-  weight: 0.05
-  avg_copies: 1.0
 - name: Rest in Peace
   weight: 0.05
   avg_copies: 1.0
-- name: Strategic Betrayal
+- name: Containment Priest
   weight: 0.05
   avg_copies: 1.0
 - name: Sanctifier en-Vec
   weight: 0.05
   avg_copies: 1.0
-- name: Path to Exile
-  weight: 0.025
-  avg_copies: 2.0
+- name: Strategic Betrayal
+  weight: 0.05
+  avg_copies: 1.0
 - name: Lingering Souls
   weight: 0.025
   avg_copies: 2.0
@@ -202,19 +199,22 @@ top_cards:
 - name: Reckless Pyrosurfer
   weight: 0.025
   avg_copies: 2.0
+- name: Path to Exile
+  weight: 0.025
+  avg_copies: 2.0
+- name: Clarion Conqueror
+  weight: 0.025
+  avg_copies: 1.0
 - name: Sunbaked Canyon
   weight: 0.025
   avg_copies: 1.0
 - name: Faerie Macabre
   weight: 0.025
   avg_copies: 1.0
-- name: Clarion Conqueror
+- name: Static Prison
   weight: 0.025
   avg_copies: 1.0
 - name: Stony Silence
-  weight: 0.025
-  avg_copies: 1.0
-- name: Static Prison
   weight: 0.025
   avg_copies: 1.0
 ---

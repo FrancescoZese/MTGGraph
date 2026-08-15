@@ -7,31 +7,31 @@ name: 'Unknown #216'
 meta_share: 0.0003
 list_count: 2
 top_cards:
-- name: Waterlogged Teachings
-  weight: 1.0
-  avg_copies: 4.0
-- name: Orim's Chant
-  weight: 1.0
-  avg_copies: 4.0
-- name: Consult the Star Charts
-  weight: 1.0
-  avg_copies: 4.0
-- name: Planar Genesis
-  weight: 1.0
-  avg_copies: 4.0
 - name: Windswept Heath
-  weight: 1.0
-  avg_copies: 4.0
-- name: Consign to Memory
-  weight: 1.0
-  avg_copies: 4.0
-- name: Wilderness Reclamation
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Mystical Dispute
+  weight: 1.0
+  avg_copies: 4.0
+- name: Planar Genesis
+  weight: 1.0
+  avg_copies: 4.0
+- name: Wilderness Reclamation
+  weight: 1.0
+  avg_copies: 4.0
+- name: Consult the Star Charts
+  weight: 1.0
+  avg_copies: 4.0
+- name: Consign to Memory
+  weight: 1.0
+  avg_copies: 4.0
+- name: Orim's Chant
+  weight: 1.0
+  avg_copies: 4.0
+- name: Waterlogged Teachings
   weight: 1.0
   avg_copies: 4.0
 - name: Prismatic Ending
@@ -61,16 +61,22 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.5
-- name: Endurance
+- name: Erode
+  weight: 1.0
+  avg_copies: 1.0
+- name: Surgical Extraction
+  weight: 1.0
+  avg_copies: 1.0
+- name: card:blue-sun-s-zenith
+  weight: 1.0
+  avg_copies: 1.0
+- name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
 - name: Solitude
   weight: 1.0
   avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 1.0
-  avg_copies: 1.0
-- name: Breeding Pool
+- name: Endurance
   weight: 1.0
   avg_copies: 1.0
 - name: Kaheera, the Orphanguard
@@ -79,31 +85,25 @@ top_cards:
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: card:blue-sun-s-zenith
-  weight: 1.0
-  avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 1.0
-  avg_copies: 1.0
-- name: Erode
-  weight: 1.0
-  avg_copies: 1.0
 - name: Lush Portico
+  weight: 1.0
+  avg_copies: 1.0
+- name: Breeding Pool
+  weight: 1.0
+  avg_copies: 1.0
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
 - name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
-- name: Hedge Maze
-  weight: 1.0
-  avg_copies: 1.0
-- name: Sphinx's Revelation
+- name: Celestial Purge
   weight: 0.5
   avg_copies: 1.0
 - name: March of Otherworldly Light
   weight: 0.5
   avg_copies: 1.0
-- name: Celestial Purge
+- name: Sphinx's Revelation
   weight: 0.5
   avg_copies: 1.0
 - name: Ashiok, Dream Render

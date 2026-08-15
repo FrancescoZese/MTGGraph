@@ -16,7 +16,7 @@ archetypes:
     weight: 0.0172
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0074
+    weight: 0.0073
     avg_copies: 1.0
   goryo1:
     weight: 0.0333

@@ -18,11 +18,11 @@ archetypes:
     weight: 0.7222
     avg_copies: 2.33
   broodscale-combo:
-    weight: 0.3431
+    weight: 0.3409
     avg_copies: 3.93
   eldrazi-breach:
     weight: 1.0
-    avg_copies: 3.75
+    avg_copies: 3.8
   cosmogoyf-fling:
     weight: 0.9434
     avg_copies: 3.94
@@ -33,7 +33,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-61:
-    weight: 0.3711
+    weight: 0.3673
     avg_copies: 3.25
   unknown-55:
     weight: 1.0

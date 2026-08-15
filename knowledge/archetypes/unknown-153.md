@@ -12,13 +12,13 @@ top_cards:
 - name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 4.0
+- name: Arboreal Grazer
+  weight: 1.0
+  avg_copies: 4.0
 - name: Primeval Titan
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline of the Guildpact
-  weight: 1.0
-  avg_copies: 4.0
-- name: Arboreal Grazer
   weight: 1.0
   avg_copies: 4.0
 - name: Spelunking
@@ -27,10 +27,10 @@ top_cards:
 - name: Forest
   weight: 1.0
   avg_copies: 3.25
-- name: card:nykthos-shrine-to-nyx
+- name: Summoner's Pact
   weight: 1.0
   avg_copies: 3.0
-- name: Summoner's Pact
+- name: card:nykthos-shrine-to-nyx
   weight: 1.0
   avg_copies: 3.0
 - name: Force of Vigor
@@ -39,13 +39,13 @@ top_cards:
 - name: Simic Growth Chamber
   weight: 1.0
   avg_copies: 2.5
-- name: card:castle-garenbrig
-  weight: 1.0
-  avg_copies: 2.25
 - name: Endurance
   weight: 1.0
   avg_copies: 2.25
 - name: Dryad of the Ilysian Grove
+  weight: 1.0
+  avg_copies: 2.25
+- name: card:castle-garenbrig
   weight: 1.0
   avg_copies: 2.25
 - name: Crumbling Vestige
@@ -57,9 +57,6 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.75
-- name: Formidable Speaker
-  weight: 1.0
-  avg_copies: 1.0
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
@@ -75,6 +72,9 @@ top_cards:
 - name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
+- name: Formidable Speaker
+  weight: 1.0
+  avg_copies: 1.0
 - name: Amulet of Vigor
   weight: 0.75
   avg_copies: 4.0
@@ -84,22 +84,22 @@ top_cards:
 - name: Selesnya Sanctuary
   weight: 0.5
   avg_copies: 4.0
-- name: Prismatic Ending
+- name: Stock Up
   weight: 0.5
   avg_copies: 3.0
 - name: Sunken Citadel
   weight: 0.5
   avg_copies: 3.0
-- name: Stock Up
+- name: Prismatic Ending
   weight: 0.5
   avg_copies: 3.0
 - name: Rest in Peace
   weight: 0.5
   avg_copies: 2.0
-- name: High Noon
+- name: Vexing Bauble
   weight: 0.5
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: High Noon
   weight: 0.5
   avg_copies: 2.0
 - name: Bojuka Bog
@@ -108,10 +108,10 @@ top_cards:
 - name: Elesh Norn, Mother of Machines
   weight: 0.5
   avg_copies: 1.0
-- name: Insidious Fungus
+- name: Collector Ouphe
   weight: 0.5
   avg_copies: 1.0
-- name: Collector Ouphe
+- name: Insidious Fungus
   weight: 0.5
   avg_copies: 1.0
 - name: Lush Portico

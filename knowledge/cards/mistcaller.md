@@ -10,7 +10,7 @@ type: Creature — Merfolk Wizard
 meta_presence: 0.0015
 archetypes:
   samwise-combo:
-    weight: 0.1029
+    weight: 0.1014
     avg_copies: 1.0
   azorius-blink:
     weight: 0.0152

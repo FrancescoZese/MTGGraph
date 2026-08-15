@@ -5,7 +5,7 @@ name: 'Unknown #76'
 meta_share: 0.0009
 list_count: 6
 top_cards:
-- name: Primeval Titan
+- name: Amulet of Vigor
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
@@ -14,13 +14,13 @@ top_cards:
 - name: Arboreal Grazer
   weight: 1.0
   avg_copies: 4.0
-- name: Amulet of Vigor
+- name: Primeval Titan
   weight: 1.0
   avg_copies: 4.0
-- name: Green Sun's Zenith
+- name: Simic Growth Chamber
   weight: 1.0
   avg_copies: 3.83
-- name: Simic Growth Chamber
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 3.83
 - name: Dryad of the Ilysian Grove
@@ -32,25 +32,25 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 2.71
-- name: Dismember
-  weight: 1.0
-  avg_copies: 2.33
 - name: Forest
   weight: 1.0
   avg_copies: 2.33
-- name: Summoner's Pact
+- name: Dismember
+  weight: 1.0
+  avg_copies: 2.33
+- name: Force of Vigor
   weight: 1.0
   avg_copies: 2.0
-- name: Force of Vigor
+- name: Summoner's Pact
   weight: 1.0
   avg_copies: 2.0
 - name: Valakut, the Molten Pinnacle
   weight: 1.0
   avg_copies: 1.67
-- name: Vesuva
+- name: Mirrorpool
   weight: 1.0
   avg_copies: 1.0
-- name: Cultivator Colossus
+- name: Vesuva
   weight: 1.0
   avg_copies: 1.0
 - name: Tolaria West
@@ -59,7 +59,7 @@ top_cards:
 - name: Hanweir Battlements
   weight: 1.0
   avg_copies: 1.0
-- name: Mirrorpool
+- name: Cultivator Colossus
   weight: 1.0
   avg_copies: 1.0
 - name: Spelunking
@@ -68,10 +68,10 @@ top_cards:
 - name: Crumbling Vestige
   weight: 0.8333
   avg_copies: 2.4
-- name: Tireless Tracker
+- name: The Mycosynth Gardens
   weight: 0.6667
   avg_copies: 1.75
-- name: The Mycosynth Gardens
+- name: Tireless Tracker
   weight: 0.6667
   avg_copies: 1.75
 - name: Vexing Bauble
@@ -86,10 +86,10 @@ top_cards:
 - name: Explore
   weight: 0.5
   avg_copies: 2.67
-- name: Pyroclasm
+- name: Soulless Jailer
   weight: 0.5
   avg_copies: 1.67
-- name: Soulless Jailer
+- name: Pyroclasm
   weight: 0.5
   avg_copies: 1.67
 - name: Dryad Arbor
@@ -98,13 +98,13 @@ top_cards:
 - name: Bojuka Bog
   weight: 0.5
   avg_copies: 1.0
-- name: Elder Gargaroth
-  weight: 0.5
-  avg_copies: 1.0
 - name: Collector Ouphe
   weight: 0.5
   avg_copies: 1.0
 - name: Otawara, Soaring City
+  weight: 0.5
+  avg_copies: 1.0
+- name: Elder Gargaroth
   weight: 0.5
   avg_copies: 1.0
 - name: Fire Magic
@@ -113,10 +113,10 @@ top_cards:
 - name: Selesnya Sanctuary
   weight: 0.3333
   avg_copies: 2.0
-- name: Ghost Quarter
+- name: Cavern of Souls
   weight: 0.3333
   avg_copies: 1.0
-- name: Endurance
+- name: Icetill Explorer
   weight: 0.3333
   avg_copies: 1.0
 - name: Shifting Woodland
@@ -125,19 +125,19 @@ top_cards:
 - name: Azusa, Lost but Seeking
   weight: 0.3333
   avg_copies: 1.0
+- name: Endurance
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Ghost Quarter
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.3333
   avg_copies: 1.0
-- name: Cavern of Souls
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Icetill Explorer
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Trinisphere
+- name: Scapeshift
   weight: 0.1667
   avg_copies: 3.0
-- name: Scapeshift
+- name: Trinisphere
   weight: 0.1667
   avg_copies: 3.0
 - name: Vampires' Vengeance
@@ -149,43 +149,43 @@ top_cards:
 - name: Temple Garden
   weight: 0.1667
   avg_copies: 2.0
-- name: Echoing Deeps
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Kessig Wolf Run
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Relic of Progenitus
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Formidable Speaker
+- name: Misty Rainforest
   weight: 0.1667
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
   weight: 0.1667
   avg_copies: 1.0
-- name: Misty Rainforest
+- name: Flagstones of Trokair
   weight: 0.1667
   avg_copies: 1.0
 - name: Outland Liberator
   weight: 0.1667
   avg_copies: 1.0
+- name: Echoing Deeps
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Springheart Nantuko
   weight: 0.1667
   avg_copies: 1.0
-- name: Flagstones of Trokair
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Expedition Map
+- name: Storm's Wrath
   weight: 0.1667
   avg_copies: 1.0
 - name: Oran-Rief, the Vastwood
   weight: 0.1667
   avg_copies: 1.0
+- name: Kessig Wolf Run
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Aether Spellbomb
   weight: 0.1667
   avg_copies: 1.0
-- name: Storm's Wrath
+- name: Formidable Speaker
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Relic of Progenitus
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Expedition Map
   weight: 0.1667
   avg_copies: 1.0
 ---

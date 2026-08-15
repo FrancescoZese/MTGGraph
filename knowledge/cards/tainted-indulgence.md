@@ -11,7 +11,7 @@ type: Instant
 meta_presence: 0.0045
 archetypes:
   goryo:
-    weight: 0.0699
+    weight: 0.0697
     avg_copies: 1.46
   unknown-5:
     weight: 0.1

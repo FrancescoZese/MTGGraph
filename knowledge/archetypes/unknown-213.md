@@ -30,10 +30,10 @@ top_cards:
 - name: Portable Hole
   weight: 1.0
   avg_copies: 3.29
-- name: Hallowed Fountain
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.14
-- name: Consign to Memory
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 3.14
 - name: Seachrome Coast
@@ -54,13 +54,10 @@ top_cards:
 - name: Shadowspear
   weight: 1.0
   avg_copies: 1.0
-- name: Damping Sphere
-  weight: 1.0
-  avg_copies: 1.0
 - name: Skateboard
   weight: 1.0
   avg_copies: 1.0
-- name: Grinding Station
+- name: Damping Sphere
   weight: 1.0
   avg_copies: 1.0
 - name: Vexing Bauble
@@ -69,25 +66,28 @@ top_cards:
 - name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
+- name: Grinding Station
+  weight: 1.0
+  avg_copies: 1.0
 - name: Flooded Strand
   weight: 0.8571
   avg_copies: 1.67
-- name: Scalding Tarn
-  weight: 0.8571
-  avg_copies: 1.0
 - name: Disruptor Flute
-  weight: 0.8571
-  avg_copies: 1.0
-- name: Nettlecyst
   weight: 0.8571
   avg_copies: 1.0
 - name: Cryogen Relic
   weight: 0.8571
   avg_copies: 1.0
-- name: Minamo, School at Water's Edge
+- name: Scalding Tarn
   weight: 0.8571
   avg_copies: 1.0
 - name: Aether Spellbomb
+  weight: 0.8571
+  avg_copies: 1.0
+- name: Minamo, School at Water's Edge
+  weight: 0.8571
+  avg_copies: 1.0
+- name: Nettlecyst
   weight: 0.8571
   avg_copies: 1.0
 - name: Otawara, Soaring City
@@ -99,16 +99,16 @@ top_cards:
 - name: card:urza-lord-high-artificer
   weight: 0.7143
   avg_copies: 2.6
-- name: card:sword-of-the-meek
-  weight: 0.7143
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: card:thopter-foundry
   weight: 0.7143
   avg_copies: 1.0
 - name: Misty Rainforest
   weight: 0.7143
   avg_copies: 1.0
-- name: card:thopter-foundry
+- name: Soul-Guide Lantern
+  weight: 0.7143
+  avg_copies: 1.0
+- name: card:sword-of-the-meek
   weight: 0.7143
   avg_copies: 1.0
 - name: Polluted Delta
@@ -123,10 +123,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.2857
   avg_copies: 1.5
-- name: Plains
+- name: Tormod's Crypt
   weight: 0.2857
   avg_copies: 1.0
-- name: Tormod's Crypt
+- name: Plains
   weight: 0.2857
   avg_copies: 1.0
 - name: Meticulous Archive
@@ -138,16 +138,16 @@ top_cards:
 - name: Erode
   weight: 0.1429
   avg_copies: 2.0
+- name: Ratchet Bomb
+  weight: 0.1429
+  avg_copies: 1.0
 - name: Dusk Rose Reliquary
   weight: 0.1429
   avg_copies: 1.0
-- name: card:sculpting-steel
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Relic of Progenitus
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Hope of Ghirapur
+  weight: 0.1429
+  avg_copies: 1.0
+- name: card:sculpting-steel
   weight: 0.1429
   avg_copies: 1.0
 - name: card:scrabbling-claws
@@ -159,13 +159,13 @@ top_cards:
 - name: card:barbed-spike
   weight: 0.1429
   avg_copies: 1.0
-- name: Welding Jar
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Breeding Pool
   weight: 0.1429
   avg_copies: 1.0
-- name: Ratchet Bomb
+- name: Welding Jar
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Relic of Progenitus
   weight: 0.1429
   avg_copies: 1.0
 - name: Haywire Mite

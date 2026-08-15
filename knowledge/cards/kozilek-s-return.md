@@ -12,11 +12,11 @@ archetypes:
     weight: 0.9444
     avg_copies: 2.12
   broodscale-combo:
-    weight: 0.0033
+    weight: 0.0032
     avg_copies: 1.0
   eldrazi-breach:
-    weight: 0.75
-    avg_copies: 1.67
+    weight: 0.8
+    avg_copies: 1.71
   grixis-control:
     weight: 0.1429
     avg_copies: 1.0

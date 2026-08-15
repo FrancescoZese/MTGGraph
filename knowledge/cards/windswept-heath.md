@@ -9,8 +9,8 @@ type: Land
 meta_presence: 0.1386
 archetypes:
   boros-energy:
-    weight: 0.3817
-    avg_copies: 2.73
+    weight: 0.3825
+    avg_copies: 2.72
   jeskai-energy:
     weight: 0.0075
     avg_copies: 3.0
@@ -27,13 +27,13 @@ archetypes:
     weight: 0.2816
     avg_copies: 1.24
   hammer-time:
-    weight: 0.5333
+    weight: 0.5
     avg_copies: 3.5
   boros-ponza:
     weight: 0.0071
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.9677
+    weight: 0.9574
     avg_copies: 2.99
   eldrazi-ramp:
     weight: 0.8016
@@ -45,13 +45,13 @@ archetypes:
     weight: 1.0
     avg_copies: 3.25
   esper-blink:
-    weight: 0.0074
+    weight: 0.0073
     avg_copies: 1.0
   samwise-combo:
     weight: 1.0
     avg_copies: 3.84
   broodscale-combo:
-    weight: 0.2778
+    weight: 0.276
     avg_copies: 1.11
   orzhov-blink:
     weight: 0.0588

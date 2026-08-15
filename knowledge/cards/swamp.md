@@ -12,10 +12,10 @@ archetypes:
     weight: 0.9877
     avg_copies: 1.02
   eldrazi-tron:
-    weight: 0.7937
+    weight: 0.7943
     avg_copies: 1.07
   goryo:
-    weight: 0.9892
+    weight: 0.9893
     avg_copies: 1.01
   necrodominance:
     weight: 1.0
@@ -42,16 +42,16 @@ archetypes:
     weight: 0.0208
     avg_copies: 1.0
   esper-blink:
-    weight: 0.9853
+    weight: 0.9854
     avg_copies: 1.01
   samwise-combo:
-    weight: 0.1324
+    weight: 0.1449
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.0667
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0098
+    weight: 0.0097
     avg_copies: 1.0
   orzhov-blink:
     weight: 1.0
@@ -63,7 +63,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   eldrazi-breach:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 1.0
   grixis-shadow:
     weight: 1.0
@@ -216,7 +216,7 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   unknown-101:
-    weight: 0.7619
+    weight: 0.7727
     avg_copies: 1.0
   unknown-105:
     weight: 1.0

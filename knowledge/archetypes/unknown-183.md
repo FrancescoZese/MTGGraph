@@ -7,19 +7,10 @@ name: 'Unknown #183'
 meta_share: 0.0003
 list_count: 2
 top_cards:
-- name: Paradise Mantle
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: card:accorder-s-shield
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:retract
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:kite-shield
-  weight: 1.0
-  avg_copies: 4.0
-- name: Orim's Chant
   weight: 1.0
   avg_copies: 4.0
 - name: card:bone-saw
@@ -28,19 +19,28 @@ top_cards:
 - name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
-- name: card:cathar-s-shield
+- name: card:kite-shield
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Paradise Mantle
   weight: 1.0
   avg_copies: 4.0
-- name: card:spidersilk-net
+- name: Puresteel Paladin
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:retract
+  weight: 1.0
+  avg_copies: 4.0
+- name: Orim's Chant
   weight: 1.0
   avg_copies: 4.0
 - name: card:sram-senior-edificer
   weight: 1.0
   avg_copies: 4.0
-- name: Puresteel Paladin
+- name: card:spidersilk-net
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:cathar-s-shield
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
@@ -49,10 +49,10 @@ top_cards:
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 3.0
-- name: Snow-Covered Plains
+- name: Defense Grid
   weight: 1.0
   avg_copies: 2.0
-- name: Defense Grid
+- name: Snow-Covered Plains
   weight: 1.0
   avg_copies: 2.0
 - name: Pact of Negation
@@ -61,19 +61,19 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.5
-- name: Meticulous Archive
+- name: Skateboard
+  weight: 1.0
+  avg_copies: 1.0
+- name: Grapeshot
   weight: 1.0
   avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 1.0
   avg_copies: 1.0
-- name: Skateboard
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Haywire Mite
-  weight: 1.0
-  avg_copies: 1.0
-- name: Grapeshot
   weight: 1.0
   avg_copies: 1.0
 - name: Prismatic Ending
@@ -82,25 +82,25 @@ top_cards:
 - name: Lorehold Charm
   weight: 0.5
   avg_copies: 2.0
-- name: Into the Flood Maw
+- name: Portable Hole
   weight: 0.5
   avg_copies: 2.0
-- name: Portable Hole
+- name: Into the Flood Maw
   weight: 0.5
   avg_copies: 2.0
 - name: Sacred Foundry
   weight: 0.5
   avg_copies: 1.0
-- name: Colossus Hammer
+- name: Hurkyl's Recall
   weight: 0.5
   avg_copies: 1.0
 - name: Elegant Parlor
   weight: 0.5
   avg_copies: 1.0
-- name: Lush Portico
+- name: Colossus Hammer
   weight: 0.5
   avg_copies: 1.0
-- name: Hurkyl's Recall
+- name: Lush Portico
   weight: 0.5
   avg_copies: 1.0
 ---

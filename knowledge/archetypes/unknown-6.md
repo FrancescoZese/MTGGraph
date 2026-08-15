@@ -46,10 +46,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.25
-- name: Endurance
+- name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Endurance
   weight: 1.0
   avg_copies: 1.0
 - name: Misty Rainforest
@@ -88,19 +88,19 @@ top_cards:
 - name: Flame of Anor
   weight: 0.6875
   avg_copies: 1.18
-- name: Haywire Mite
+- name: Stomping Ground
   weight: 0.6875
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Haywire Mite
   weight: 0.6875
   avg_copies: 1.0
 - name: Fire Magic
   weight: 0.625
   avg_copies: 1.2
-- name: Forest
+- name: Jace, Wielder of Mysteries
   weight: 0.625
   avg_copies: 1.0
-- name: Jace, Wielder of Mysteries
+- name: Forest
   weight: 0.625
   avg_copies: 1.0
 - name: Grapeshot
@@ -118,22 +118,22 @@ top_cards:
 - name: Wrenn and Six
   weight: 0.375
   avg_copies: 1.0
-- name: Pithing Needle
-  weight: 0.3125
-  avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Thundering Falls
   weight: 0.3125
   avg_copies: 1.0
 - name: Mountain
   weight: 0.3125
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Boseiju, Who Endures
   weight: 0.3125
   avg_copies: 1.0
-- name: Soulless Jailer
+- name: Pithing Needle
+  weight: 0.3125
+  avg_copies: 1.0
+- name: card:bruce-banner
   weight: 0.25
   avg_copies: 1.5
-- name: card:bruce-banner
+- name: Soulless Jailer
   weight: 0.25
   avg_copies: 1.5
 - name: Swan Song
@@ -163,10 +163,10 @@ top_cards:
 - name: Force of Negation
   weight: 0.125
   avg_copies: 1.5
-- name: card:noxious-revival
+- name: Thassa's Oracle
   weight: 0.125
   avg_copies: 1.0
-- name: Thassa's Oracle
+- name: card:noxious-revival
   weight: 0.125
   avg_copies: 1.0
 - name: Vexing Bauble
@@ -178,46 +178,46 @@ top_cards:
 - name: Hurkyl's Recall
   weight: 0.0625
   avg_copies: 2.0
-- name: Polluted Delta
+- name: Flooded Strand
   weight: 0.0625
   avg_copies: 2.0
-- name: Flooded Strand
+- name: Polluted Delta
   weight: 0.0625
   avg_copies: 2.0
 - name: card:laboratory-maniac
   weight: 0.0625
   avg_copies: 1.0
-- name: Snapcaster Mage
+- name: card:mj-lnir-hammer-of-thor
   weight: 0.0625
   avg_copies: 1.0
-- name: Skateboard
+- name: Life from the Loam
   weight: 0.0625
   avg_copies: 1.0
 - name: Mistrise Village
   weight: 0.0625
   avg_copies: 1.0
-- name: card:mj-lnir-hammer-of-thor
+- name: Galvanic Blast
   weight: 0.0625
   avg_copies: 1.0
-- name: Galvanic Blast
+- name: Peer Past the Veil
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Skateboard
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Lavaspur Boots
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Snapcaster Mage
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Lightning Bolt
   weight: 0.0625
   avg_copies: 1.0
 - name: Magus of the Moon
   weight: 0.0625
   avg_copies: 1.0
 - name: Aether Spellbomb
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Peer Past the Veil
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Lightning Bolt
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Lavaspur Boots
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Life from the Loam
   weight: 0.0625
   avg_copies: 1.0
 ---

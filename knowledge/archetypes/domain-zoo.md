@@ -6,7 +6,7 @@ colors:
 - R
 - G
 name: Domain Zoo
-meta_share: 0.0212
+meta_share: 0.0211
 list_count: 145
 top_cards:
 - name: Territorial Kavu
@@ -198,31 +198,31 @@ top_cards:
 - name: Thoughtseize
   weight: 0.0207
   avg_copies: 2.0
-- name: Marsh Flats
+- name: Bloodstained Mire
   weight: 0.0138
   avg_copies: 4.0
-- name: Bloodstained Mire
+- name: Marsh Flats
   weight: 0.0138
   avg_copies: 4.0
 - name: Drannith Magistrate
   weight: 0.0138
   avg_copies: 1.5
-- name: Does Machines
-  weight: 0.0138
-  avg_copies: 1.0
-- name: Containment Priest
-  weight: 0.0138
-  avg_copies: 1.0
 - name: Kaito, Bane of Nightmares
   weight: 0.0138
   avg_copies: 1.0
 - name: Overlord of the Balemurk
   weight: 0.0138
   avg_copies: 1.0
-- name: Overgrown Tomb
+- name: Containment Priest
+  weight: 0.0138
+  avg_copies: 1.0
+- name: Does Machines
   weight: 0.0138
   avg_copies: 1.0
 - name: Elegant Parlor
+  weight: 0.0138
+  avg_copies: 1.0
+- name: Overgrown Tomb
   weight: 0.0138
   avg_copies: 1.0
 - name: Xander's Lounge
@@ -231,31 +231,40 @@ top_cards:
 - name: Zagoth Triome
   weight: 0.0138
   avg_copies: 1.0
+- name: Faithless Looting
+  weight: 0.0069
+  avg_copies: 4.0
 - name: Professor of Symbology
-  weight: 0.0069
-  avg_copies: 4.0
-- name: Persist
-  weight: 0.0069
-  avg_copies: 4.0
-- name: Aurora Awakener
   weight: 0.0069
   avg_copies: 4.0
 - name: Archon of Cruelty
   weight: 0.0069
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Aurora Awakener
+  weight: 0.0069
+  avg_copies: 4.0
+- name: Persist
   weight: 0.0069
   avg_copies: 4.0
 - name: Summoning Trap
   weight: 0.0069
   avg_copies: 3.0
-- name: Boros Charm
+- name: No More Lies
   weight: 0.0069
   avg_copies: 2.0
 - name: Surge of Salvation
   weight: 0.0069
   avg_copies: 2.0
+- name: Hardened Academic
+  weight: 0.0069
+  avg_copies: 2.0
 - name: Hurkyl's Recall
+  weight: 0.0069
+  avg_copies: 2.0
+- name: Deafening Silence
+  weight: 0.0069
+  avg_copies: 2.0
+- name: Boros Charm
   weight: 0.0069
   avg_copies: 2.0
 - name: Mana Tithe
@@ -264,46 +273,46 @@ top_cards:
 - name: Forest
   weight: 0.0069
   avg_copies: 2.0
-- name: Deafening Silence
+- name: Tormod's Crypt
   weight: 0.0069
-  avg_copies: 2.0
-- name: No More Lies
-  weight: 0.0069
-  avg_copies: 2.0
-- name: Hardened Academic
-  weight: 0.0069
-  avg_copies: 2.0
+  avg_copies: 1.0
 - name: Sacred Ground
   weight: 0.0069
   avg_copies: 1.0
-- name: Spell Snare
-  weight: 0.0069
-  avg_copies: 1.0
-- name: Dai Li Indoctrination
-  weight: 0.0069
-  avg_copies: 1.0
-- name: Alpine Moon
-  weight: 0.0069
-  avg_copies: 1.0
-- name: Thraben Charm
-  weight: 0.0069
-  avg_copies: 1.0
-- name: Misty Rainforest
-  weight: 0.0069
-  avg_copies: 1.0
-- name: Firebending Lesson
+- name: Boromir, Warden of the Tower
   weight: 0.0069
   avg_copies: 1.0
 - name: Origin of Metalbending
   weight: 0.0069
   avg_copies: 1.0
-- name: Tormod's Crypt
+- name: Dai Li Indoctrination
+  weight: 0.0069
+  avg_copies: 1.0
+- name: Glasspool Mimic
+  weight: 0.0069
+  avg_copies: 1.0
+- name: Firebending Lesson
   weight: 0.0069
   avg_copies: 1.0
 - name: Fire Magic
   weight: 0.0069
   avg_copies: 1.0
-- name: Island
+- name: Price of Freedom
+  weight: 0.0069
+  avg_copies: 1.0
+- name: Misty Rainforest
+  weight: 0.0069
+  avg_copies: 1.0
+- name: Thraben Charm
+  weight: 0.0069
+  avg_copies: 1.0
+- name: Spell Snare
+  weight: 0.0069
+  avg_copies: 1.0
+- name: Abandon Attachments
+  weight: 0.0069
+  avg_copies: 1.0
+- name: Alpine Moon
   weight: 0.0069
   avg_copies: 1.0
 - name: Decorum Dissertation
@@ -312,31 +321,22 @@ top_cards:
 - name: Chthonian Nightmare
   weight: 0.0069
   avg_copies: 1.0
-- name: Redirect Lightning
-  weight: 0.0069
-  avg_copies: 1.0
 - name: Boomerang Basics
-  weight: 0.0069
-  avg_copies: 1.0
-- name: Shadowy Backstreet
-  weight: 0.0069
-  avg_copies: 1.0
-- name: Price of Freedom
-  weight: 0.0069
-  avg_copies: 1.0
-- name: Boromir, Warden of the Tower
   weight: 0.0069
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.0069
   avg_copies: 1.0
-- name: Abandon Attachments
+- name: Shadowy Backstreet
+  weight: 0.0069
+  avg_copies: 1.0
+- name: Island
+  weight: 0.0069
+  avg_copies: 1.0
+- name: Redirect Lightning
   weight: 0.0069
   avg_copies: 1.0
 - name: Ruinous Waterbending
-  weight: 0.0069
-  avg_copies: 1.0
-- name: Glasspool Mimic
   weight: 0.0069
   avg_copies: 1.0
 ---

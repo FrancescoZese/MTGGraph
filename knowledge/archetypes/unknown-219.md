@@ -9,24 +9,33 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 5.0
-- name: Consign to Memory
-  weight: 1.0
-  avg_copies: 4.0
 - name: Urza's Power Plant
-  weight: 1.0
-  avg_copies: 4.0
-- name: Expedition Map
-  weight: 1.0
-  avg_copies: 4.0
-- name: Urza's Tower
-  weight: 1.0
-  avg_copies: 4.0
-- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Mine
   weight: 1.0
   avg_copies: 4.0
+- name: Kozilek's Command
+  weight: 1.0
+  avg_copies: 4.0
+- name: Expedition Map
+  weight: 1.0
+  avg_copies: 4.0
+- name: Consign to Memory
+  weight: 1.0
+  avg_copies: 4.0
+- name: Urza's Tower
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lórien Revealed
+  weight: 1.0
+  avg_copies: 3.0
+- name: Erode
+  weight: 1.0
+  avg_copies: 3.0
+- name: Ugin, Eye of the Storms
+  weight: 1.0
+  avg_copies: 3.0
 - name: Remand
   weight: 1.0
   avg_copies: 3.0
@@ -36,25 +45,16 @@ top_cards:
 - name: Spell Snare
   weight: 1.0
   avg_copies: 3.0
-- name: Snapcaster Mage
-  weight: 1.0
-  avg_copies: 3.0
 - name: Force of Negation
   weight: 1.0
   avg_copies: 3.0
-- name: Lórien Revealed
+- name: Snapcaster Mage
   weight: 1.0
   avg_copies: 3.0
-- name: Ugin, Eye of the Storms
-  weight: 1.0
-  avg_copies: 3.0
-- name: Erode
-  weight: 1.0
-  avg_copies: 3.0
-- name: Oblivion Stone
+- name: card:gleaming-bastion
   weight: 1.0
   avg_copies: 2.0
-- name: Flusterstorm
+- name: Wan Shi Tong, Librarian
   weight: 1.0
   avg_copies: 2.0
 - name: Marrow Shards
@@ -63,28 +63,25 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
-- name: Wan Shi Tong, Librarian
+- name: Oblivion Stone
   weight: 1.0
   avg_copies: 2.0
-- name: card:gleaming-bastion
+- name: Flusterstorm
   weight: 1.0
   avg_copies: 2.0
-- name: card:spell-burst
-  weight: 1.0
-  avg_copies: 1.0
 - name: Relic of Progenitus
   weight: 1.0
   avg_copies: 1.0
 - name: Hall of Storm Giants
   weight: 1.0
   avg_copies: 1.0
-- name: Test of Talents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Abstergo Entertainment
+- name: Emrakul, the Aeons Torn
   weight: 1.0
   avg_copies: 1.0
 - name: Emrakul, the Promised End
+  weight: 1.0
+  avg_copies: 1.0
+- name: Abstergo Entertainment
   weight: 1.0
   avg_copies: 1.0
 - name: Strix Serenade
@@ -93,10 +90,13 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
-- name: Emrakul, the Aeons Torn
+- name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Test of Talents
+  weight: 1.0
+  avg_copies: 1.0
+- name: card:spell-burst
   weight: 1.0
   avg_copies: 1.0
 ---

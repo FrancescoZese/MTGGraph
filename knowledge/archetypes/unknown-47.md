@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: 'Unknown #47'
-meta_share: 0.0211
+meta_share: 0.021
 list_count: 144
 top_cards:
 - name: Psychic Frog
@@ -180,31 +180,31 @@ top_cards:
 - name: Snow-Covered Island
   weight: 0.0278
   avg_copies: 1.25
-- name: Teferi, Time Raveler
-  weight: 0.0278
-  avg_copies: 1.0
 - name: Snow-Covered Swamp
   weight: 0.0278
   avg_copies: 1.0
-- name: Stony Silence
-  weight: 0.0208
+- name: Teferi, Time Raveler
+  weight: 0.0278
   avg_copies: 1.0
 - name: Spell Pierce
+  weight: 0.0208
+  avg_copies: 1.0
+- name: Stony Silence
   weight: 0.0208
   avg_copies: 1.0
 - name: card:the-wondrous-wasp
   weight: 0.0139
   avg_copies: 2.0
-- name: Pithing Needle
+- name: Umezawa's Jitte
   weight: 0.0139
   avg_copies: 1.0
 - name: Steam Vents
   weight: 0.0139
   avg_copies: 1.0
-- name: Umezawa's Jitte
+- name: Thundering Falls
   weight: 0.0139
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Pithing Needle
   weight: 0.0139
   avg_copies: 1.0
 - name: Culling Ritual
@@ -219,49 +219,49 @@ top_cards:
 - name: Meltdown
   weight: 0.0069
   avg_copies: 2.0
-- name: Snapcaster Mage
-  weight: 0.0069
-  avg_copies: 1.0
-- name: Brazen Borrower
-  weight: 0.0069
-  avg_copies: 1.0
-- name: Murderous Cut
-  weight: 0.0069
-  avg_copies: 1.0
-- name: Dismember
-  weight: 0.0069
-  avg_copies: 1.0
-- name: Takenuma, Abandoned Mire
+- name: Fallen Shinobi
   weight: 0.0069
   avg_copies: 1.0
 - name: Consult the Star Charts
   weight: 0.0069
   avg_copies: 1.0
-- name: card:kira-great-glass-spinner
+- name: Takenuma, Abandoned Mire
+  weight: 0.0069
+  avg_copies: 1.0
+- name: Murderous Cut
+  weight: 0.0069
+  avg_copies: 1.0
+- name: Brazen Borrower
   weight: 0.0069
   avg_copies: 1.0
 - name: High Noon
   weight: 0.0069
   avg_copies: 1.0
-- name: River of Tears
-  weight: 0.0069
-  avg_copies: 1.0
-- name: Dreams of Steel and Oil
+- name: Strategic Betrayal
   weight: 0.0069
   avg_copies: 1.0
 - name: Celestial Purge
   weight: 0.0069
   avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.0069
-  avg_copies: 1.0
 - name: Shadow of Doubt
   weight: 0.0069
   avg_copies: 1.0
-- name: Fallen Shinobi
+- name: Snapcaster Mage
   weight: 0.0069
   avg_copies: 1.0
-- name: Strategic Betrayal
+- name: card:kira-great-glass-spinner
+  weight: 0.0069
+  avg_copies: 1.0
+- name: Dreams of Steel and Oil
+  weight: 0.0069
+  avg_copies: 1.0
+- name: River of Tears
+  weight: 0.0069
+  avg_copies: 1.0
+- name: Dismember
+  weight: 0.0069
+  avg_copies: 1.0
+- name: Breeding Pool
   weight: 0.0069
   avg_copies: 1.0
 ---

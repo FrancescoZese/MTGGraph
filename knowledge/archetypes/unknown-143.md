@@ -5,10 +5,13 @@ name: 'Unknown #143'
 meta_share: 0.0001
 list_count: 1
 top_cards:
-- name: Kavaero, Mind-Bitten
+- name: Phyrexian Metamorph
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline of the Void
+- name: Cavern of Souls
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:spark-double
   weight: 1.0
   avg_copies: 4.0
 - name: Void Mirror
@@ -20,13 +23,7 @@ top_cards:
 - name: card:phantasmal-image
   weight: 1.0
   avg_copies: 4.0
-- name: Phyrexian Metamorph
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:heartless-summoning
-  weight: 1.0
-  avg_copies: 4.0
-- name: Cavern of Souls
+- name: Kavaero, Mind-Bitten
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -35,25 +32,28 @@ top_cards:
 - name: Chalice of the Void
   weight: 1.0
   avg_copies: 4.0
+- name: Leyline of the Void
+  weight: 1.0
+  avg_copies: 4.0
 - name: Damnation
   weight: 1.0
   avg_copies: 4.0
-- name: card:spark-double
+- name: card:heartless-summoning
   weight: 1.0
   avg_copies: 4.0
-- name: Urborg, Tomb of Yawgmoth
-  weight: 1.0
-  avg_copies: 3.0
 - name: card:untaidake-the-cloud-keeper
   weight: 1.0
   avg_copies: 3.0
-- name: card:sakashima-the-impostor
+- name: Urborg, Tomb of Yawgmoth
   weight: 1.0
-  avg_copies: 2.0
-- name: card:vazin-two-faced-trickster
+  avg_copies: 3.0
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 2.0
 - name: Swamp
+  weight: 1.0
+  avg_copies: 2.0
+- name: card:gyruda-doom-of-depths
   weight: 1.0
   avg_copies: 2.0
 - name: card:ardyn-the-usurper
@@ -62,10 +62,10 @@ top_cards:
 - name: Geier Reach Sanitarium
   weight: 1.0
   avg_copies: 2.0
-- name: Undercity Sewers
+- name: card:vazin-two-faced-trickster
   weight: 1.0
   avg_copies: 2.0
-- name: card:gyruda-doom-of-depths
+- name: card:sakashima-the-impostor
   weight: 1.0
   avg_copies: 2.0
 - name: Otawara, Soaring City

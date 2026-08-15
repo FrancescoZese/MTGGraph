@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.0079
 archetypes:
   esper-blink:
-    weight: 0.1912
+    weight: 0.1898
     avg_copies: 1.12
   orzhov-blink:
     weight: 0.5882

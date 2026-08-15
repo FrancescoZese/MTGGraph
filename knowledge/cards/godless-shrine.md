@@ -24,7 +24,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.08
   hammer-time:
-    weight: 0.0667
+    weight: 0.0625
     avg_copies: 1.0
   esper-blink:
     weight: 1.0
@@ -84,7 +84,7 @@ archetypes:
     weight: 0.75
     avg_copies: 1.0
   unknown-101:
-    weight: 0.0476
+    weight: 0.0455
     avg_copies: 1.0
   unknown-110:
     weight: 1.0
@@ -96,7 +96,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-126:
-    weight: 0.2619
+    weight: 0.2588
     avg_copies: 1.0
   unknown-127:
     weight: 1.0

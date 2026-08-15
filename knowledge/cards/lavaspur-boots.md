@@ -12,7 +12,7 @@ archetypes:
     weight: 0.017
     avg_copies: 1.0
   hammer-time:
-    weight: 0.9333
+    weight: 0.875
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.0938

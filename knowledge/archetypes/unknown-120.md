@@ -9,25 +9,25 @@ name: 'Unknown #120'
 meta_share: 0.0013
 list_count: 9
 top_cards:
-- name: Psychic Frog
-  weight: 1.0
-  avg_copies: 4.0
 - name: Atraxa, Grand Unifier
   weight: 1.0
   avg_copies: 4.0
-- name: Goryo's Vengeance
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
+- name: Goryo's Vengeance
+  weight: 1.0
+  avg_copies: 4.0
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 3.89
-- name: Bloodstained Mire
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 3.67
-- name: Faithless Looting
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 3.67
 - name: Consign to Memory
@@ -36,10 +36,10 @@ top_cards:
 - name: Fatal Push
   weight: 1.0
   avg_copies: 3.33
-- name: Scalding Tarn
+- name: Meltdown
   weight: 1.0
   avg_copies: 2.67
-- name: Meltdown
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 2.67
 - name: Mystical Dispute
@@ -63,10 +63,16 @@ top_cards:
 - name: Watery Grave
   weight: 1.0
   avg_copies: 1.11
-- name: Blood Crypt
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
 - name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
+- name: Blood Crypt
+  weight: 1.0
+  avg_copies: 1.0
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Raucous Theater
@@ -75,22 +81,16 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.0
-- name: Undercity Sewers
-  weight: 1.0
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 1.0
-  avg_copies: 1.0
 - name: Emperor of Bones
   weight: 0.8889
   avg_copies: 3.88
 - name: Spell Snare
   weight: 0.8889
   avg_copies: 2.75
-- name: Nihil Spellbomb
+- name: Surgical Extraction
   weight: 0.8889
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Nihil Spellbomb
   weight: 0.8889
   avg_copies: 1.0
 - name: Ulamog, the Defiler
@@ -129,13 +129,13 @@ top_cards:
 - name: Pithing Needle
   weight: 0.1111
   avg_copies: 2.0
+- name: Kavaero, Mind-Bitten
+  weight: 0.1111
+  avg_copies: 1.0
 - name: Kolaghan's Command
   weight: 0.1111
   avg_copies: 1.0
 - name: Flame of Anor
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Kavaero, Mind-Bitten
   weight: 0.1111
   avg_copies: 1.0
 ---

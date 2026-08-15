@@ -22,7 +22,7 @@ archetypes:
     weight: 0.0485
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.9785
+    weight: 0.9787
     avg_copies: 1.86
   eldrazi-ramp:
     weight: 0.2222
@@ -37,7 +37,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.04
   broodscale-combo:
-    weight: 0.0294
+    weight: 0.0292
     avg_copies: 1.44
   izzet-artifacts:
     weight: 0.0312
@@ -73,8 +73,8 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-61:
-    weight: 0.6392
-    avg_copies: 2.52
+    weight: 0.6429
+    avg_copies: 2.51
   unknown-65:
     weight: 0.9655
     avg_copies: 2.39
@@ -103,7 +103,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-126:
-    weight: 0.619
+    weight: 0.6118
     avg_copies: 2.04
   unknown-130:
     weight: 1.0

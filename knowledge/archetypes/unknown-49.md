@@ -6,31 +6,31 @@ name: 'Unknown #49'
 meta_share: 0.0012
 list_count: 8
 top_cards:
-- name: Kappa Cannoneer
-  weight: 1.0
-  avg_copies: 4.0
-- name: Fiery Islet
-  weight: 1.0
-  avg_copies: 4.0
 - name: Pinnacle Emissary
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Spirebluff Canal
   weight: 1.0
   avg_copies: 4.0
+- name: Kappa Cannoneer
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fiery Islet
+  weight: 1.0
+  avg_copies: 4.0
 - name: Tormod's Crypt
   weight: 1.0
   avg_copies: 3.88
-- name: Welding Jar
-  weight: 1.0
-  avg_copies: 3.75
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 3.75
 - name: Engineered Explosives
+  weight: 1.0
+  avg_copies: 3.75
+- name: Welding Jar
   weight: 1.0
   avg_copies: 3.75
 - name: Mox Opal
@@ -57,10 +57,10 @@ top_cards:
 - name: Shivan Reef
   weight: 0.875
   avg_copies: 1.29
-- name: Steam Vents
+- name: Skateboard
   weight: 0.875
   avg_copies: 1.0
-- name: Skateboard
+- name: Steam Vents
   weight: 0.875
   avg_copies: 1.0
 - name: Pithing Needle
@@ -108,25 +108,25 @@ top_cards:
 - name: Disruptor Flute
   weight: 0.125
   avg_copies: 2.0
-- name: Salvage Titan
-  weight: 0.125
-  avg_copies: 2.0
 - name: Harbinger of the Seas
   weight: 0.125
   avg_copies: 2.0
 - name: Experimental Synthesizer
   weight: 0.125
   avg_copies: 2.0
-- name: Spell Snare
+- name: Salvage Titan
   weight: 0.125
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Lavaspur Boots
   weight: 0.125
   avg_copies: 1.0
-- name: Strix Serenade
+- name: Mystical Dispute
   weight: 0.125
   avg_copies: 1.0
-- name: Mystical Dispute
+- name: Spell Snare
+  weight: 0.125
+  avg_copies: 1.0
+- name: Strix Serenade
   weight: 0.125
   avg_copies: 1.0
 ---

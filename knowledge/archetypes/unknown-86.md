@@ -2,22 +2,22 @@
 colors:
 - R
 name: 'Unknown #86'
-meta_share: 0.0018
+meta_share: 0.0017
 list_count: 12
 top_cards:
 - name: Lightning Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Monastery Swiftspear
-  weight: 1.0
-  avg_copies: 4.0
-- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Lava Spike
   weight: 1.0
   avg_copies: 4.0
 - name: Dragon's Rage Channeler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cori-Steel Cutter
+  weight: 1.0
+  avg_copies: 4.0
+- name: Monastery Swiftspear
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
@@ -95,24 +95,21 @@ top_cards:
 - name: Deflecting Palm
   weight: 0.25
   avg_copies: 1.67
-- name: Damping Sphere
-  weight: 0.1667
-  avg_copies: 3.0
 - name: Magebane Lizard
   weight: 0.1667
   avg_copies: 3.0
-- name: Pyroclasm
+- name: Damping Sphere
+  weight: 0.1667
+  avg_copies: 3.0
+- name: Obsidian Charmaw
   weight: 0.1667
   avg_copies: 2.5
-- name: Obsidian Charmaw
+- name: Pyroclasm
   weight: 0.1667
   avg_copies: 2.5
 - name: card:reinforced-ronin
   weight: 0.1667
   avg_copies: 1.5
-- name: Mogg Fanatic
-  weight: 0.0833
-  avg_copies: 4.0
 - name: Slickshot Show-Off
   weight: 0.0833
   avg_copies: 4.0
@@ -122,22 +119,25 @@ top_cards:
 - name: Eidolon of the Great Revel
   weight: 0.0833
   avg_copies: 4.0
+- name: Mogg Fanatic
+  weight: 0.0833
+  avg_copies: 4.0
 - name: Smash to Smithereens
   weight: 0.0833
   avg_copies: 3.0
-- name: Path to Exile
-  weight: 0.0833
-  avg_copies: 2.0
 - name: Boros Charm
-  weight: 0.0833
-  avg_copies: 2.0
-- name: Vexing Bauble
   weight: 0.0833
   avg_copies: 2.0
 - name: Gut Shot
   weight: 0.0833
   avg_copies: 2.0
-- name: Prismatic Ending
+- name: Vexing Bauble
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Path to Exile
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Sokenzan, Crucible of Defiance
   weight: 0.0833
   avg_copies: 1.0
 - name: Commercial District
@@ -146,10 +146,10 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.0833
   avg_copies: 1.0
-- name: Sokenzan, Crucible of Defiance
+- name: Stomping Ground
   weight: 0.0833
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Prismatic Ending
   weight: 0.0833
   avg_copies: 1.0
 ---

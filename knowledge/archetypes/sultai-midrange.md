@@ -13,10 +13,10 @@ top_cards:
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Consign to Memory
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -28,13 +28,13 @@ top_cards:
 - name: Watery Grave
   weight: 1.0
   avg_copies: 3.0
+- name: Quantum Riddler
+  weight: 1.0
+  avg_copies: 2.75
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 2.75
 - name: Island
-  weight: 1.0
-  avg_copies: 2.75
-- name: Quantum Riddler
   weight: 1.0
   avg_copies: 2.75
 - name: Scalding Tarn
@@ -55,10 +55,10 @@ top_cards:
 - name: Force of Negation
   weight: 1.0
   avg_copies: 1.25
-- name: Swamp
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
-- name: Undercity Sewers
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Thoughtseize
@@ -76,19 +76,19 @@ top_cards:
 - name: Stern Scolding
   weight: 0.75
   avg_copies: 1.5
-- name: Prismatic Ending
-  weight: 0.75
-  avg_copies: 1.0
 - name: Ghost Vacuum
   weight: 0.75
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Surgical Extraction
+  weight: 0.75
+  avg_copies: 1.0
+- name: Prismatic Ending
   weight: 0.75
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 0.75
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Hallowed Fountain
   weight: 0.75
   avg_copies: 1.0
 - name: Flow State
@@ -100,10 +100,10 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 0.5
   avg_copies: 2.0
-- name: Brainsurge
+- name: Bring to Light
   weight: 0.25
   avg_copies: 3.0
-- name: Bring to Light
+- name: Brainsurge
   weight: 0.25
   avg_copies: 3.0
 - name: Sacred Ground
@@ -121,22 +121,22 @@ top_cards:
 - name: Chalice of the Void
   weight: 0.25
   avg_copies: 2.0
-- name: Sink into Stupor
-  weight: 0.25
-  avg_copies: 1.0
-- name: Forest
-  weight: 0.25
-  avg_copies: 1.0
 - name: Hall of Storm Giants
   weight: 0.25
   avg_copies: 1.0
-- name: Celestial Purge
+- name: Teferi, Time Raveler
+  weight: 0.25
+  avg_copies: 1.0
+- name: Sink into Stupor
+  weight: 0.25
+  avg_copies: 1.0
+- name: Cling to Dust
   weight: 0.25
   avg_copies: 1.0
 - name: Toxic Deluge
   weight: 0.25
   avg_copies: 1.0
-- name: Teferi, Time Raveler
+- name: Thundering Falls
   weight: 0.25
   avg_copies: 1.0
 - name: Nihil Spellbomb
@@ -145,19 +145,19 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.25
   avg_copies: 1.0
-- name: Zagoth Triome
-  weight: 0.25
-  avg_copies: 1.0
-- name: Cling to Dust
-  weight: 0.25
-  avg_copies: 1.0
 - name: Culling Ritual
   weight: 0.25
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Forest
   weight: 0.25
   avg_copies: 1.0
 - name: Damnation
+  weight: 0.25
+  avg_copies: 1.0
+- name: Celestial Purge
+  weight: 0.25
+  avg_copies: 1.0
+- name: Zagoth Triome
   weight: 0.25
   avg_copies: 1.0
 ---

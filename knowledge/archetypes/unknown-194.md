@@ -5,13 +5,10 @@ name: 'Unknown #194'
 meta_share: 0.001
 list_count: 7
 top_cards:
-- name: Sowing Mycospawn
-  weight: 1.0
-  avg_copies: 4.0
 - name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
-- name: Devourer of Destiny
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
@@ -23,10 +20,13 @@ top_cards:
 - name: Basking Broodscale
   weight: 1.0
   avg_copies: 4.0
+- name: Devourer of Destiny
+  weight: 1.0
+  avg_copies: 4.0
 - name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
-- name: Malevolent Rumble
+- name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
 - name: Forest
@@ -56,10 +56,10 @@ top_cards:
 - name: Dismember
   weight: 0.8571
   avg_copies: 1.6
-- name: Pithing Needle
+- name: Springleaf Drum
   weight: 0.8571
   avg_copies: 1.0
-- name: Springleaf Drum
+- name: Pithing Needle
   weight: 0.8571
   avg_copies: 1.0
 - name: Ancient Stirrings
@@ -104,7 +104,7 @@ top_cards:
 - name: Walking Ballista
   weight: 0.2857
   avg_copies: 1.67
-- name: Ghost Quarter
+- name: Surgical Extraction
   weight: 0.2857
   avg_copies: 1.0
 - name: Skateboard
@@ -113,40 +113,40 @@ top_cards:
 - name: Shifting Woodland
   weight: 0.2857
   avg_copies: 1.0
+- name: Ghost Quarter
+  weight: 0.2857
+  avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.2857
   avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.2857
-  avg_copies: 1.0
-- name: Damping Sphere
+- name: Thought-Knot Seer
   weight: 0.1429
   avg_copies: 2.0
-- name: Talisman of Resilience
+- name: Damping Sphere
   weight: 0.1429
   avg_copies: 2.0
 - name: Ugin's Binding
   weight: 0.1429
   avg_copies: 2.0
-- name: Thought-Knot Seer
+- name: Talisman of Resilience
   weight: 0.1429
   avg_copies: 2.0
-- name: Trinisphere
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Formidable Speaker
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Sanctum of Ugin
   weight: 0.1429
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Sire of Seven Deaths
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Trinisphere
   weight: 0.1429
   avg_copies: 1.0
 - name: Nulldrifter
   weight: 0.1429
   avg_copies: 1.0
-- name: Sire of Seven Deaths
+- name: Breeding Pool
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Formidable Speaker
   weight: 0.1429
   avg_copies: 1.0
 ---

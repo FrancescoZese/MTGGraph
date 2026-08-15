@@ -8,25 +8,16 @@ top_cards:
 - name: Forest
   weight: 1.0
   avg_copies: 8.0
-- name: Ugin's Labyrinth
+- name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
 - name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
-- name: Eldrazi Temple
-  weight: 1.0
-  avg_copies: 4.0
-- name: Devourer of Destiny
+- name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
-  weight: 1.0
-  avg_copies: 4.0
-- name: Emrakul, the Promised End
-  weight: 1.0
-  avg_copies: 4.0
-- name: Karn, the Great Creator
   weight: 1.0
   avg_copies: 4.0
 - name: Kozilek's Command
@@ -35,19 +26,22 @@ top_cards:
 - name: Basking Broodscale
   weight: 1.0
   avg_copies: 4.0
-- name: Blade of the Bloodchief
+- name: Emrakul, the Promised End
   weight: 1.0
-  avg_copies: 1.67
+  avg_copies: 4.0
+- name: Karn, the Great Creator
+  weight: 1.0
+  avg_copies: 4.0
+- name: Devourer of Destiny
+  weight: 1.0
+  avg_copies: 4.0
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.67
-- name: Trinisphere
+- name: Blade of the Bloodchief
   weight: 1.0
-  avg_copies: 1.0
+  avg_copies: 1.67
 - name: Walking Ballista
-  weight: 1.0
-  avg_copies: 1.0
-- name: Damping Sphere
   weight: 1.0
   avg_copies: 1.0
 - name: Liquimetal Coating
@@ -56,25 +50,10 @@ top_cards:
 - name: Void Mirror
   weight: 1.0
   avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Grafdigger's Cage
   weight: 1.0
   avg_copies: 1.0
 - name: Disruptor Flute
-  weight: 1.0
-  avg_copies: 1.0
-- name: Haywire Mite
-  weight: 1.0
-  avg_copies: 1.0
-- name: Pithing Needle
-  weight: 1.0
-  avg_copies: 1.0
-- name: Soulless Jailer
-  weight: 1.0
-  avg_copies: 1.0
-- name: Springleaf Drum
-  weight: 1.0
-  avg_copies: 1.0
-- name: Skysovereign, Consul Flagship
   weight: 1.0
   avg_copies: 1.0
 - name: Tormod's Crypt
@@ -83,10 +62,31 @@ top_cards:
 - name: Ensnaring Bridge
   weight: 1.0
   avg_copies: 1.0
+- name: Soulless Jailer
+  weight: 1.0
+  avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 1.0
+  avg_copies: 1.0
+- name: Skysovereign, Consul Flagship
+  weight: 1.0
+  avg_copies: 1.0
+- name: Haywire Mite
+  weight: 1.0
+  avg_copies: 1.0
+- name: Pithing Needle
+  weight: 1.0
+  avg_copies: 1.0
 - name: Chalice of the Void
   weight: 1.0
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Trinisphere
+  weight: 1.0
+  avg_copies: 1.0
+- name: Damping Sphere
+  weight: 1.0
+  avg_copies: 1.0
+- name: Springleaf Drum
   weight: 1.0
   avg_copies: 1.0
 - name: Ancient Stirrings

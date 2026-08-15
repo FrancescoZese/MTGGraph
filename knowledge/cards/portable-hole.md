@@ -16,13 +16,13 @@ archetypes:
     weight: 0.0019
     avg_copies: 3.0
   hammer-time:
-    weight: 0.2667
+    weight: 0.25
     avg_copies: 2.0
   boros-ponza:
     weight: 0.0851
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.0441
+    weight: 0.0435
     avg_copies: 1.0
   goryo7:
     weight: 1.0

@@ -2,7 +2,7 @@
 colors:
 - G
 name: Amulet Titan
-meta_share: 0.0246
+meta_share: 0.0245
 list_count: 168
 top_cards:
 - name: Arboreal Grazer
@@ -86,10 +86,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.7143
   avg_copies: 1.3
-- name: Vesuva
+- name: Urza's Cave
   weight: 0.7024
   avg_copies: 1.0
-- name: Urza's Cave
+- name: Vesuva
   weight: 0.7024
   avg_copies: 1.0
 - name: Trinisphere
@@ -176,10 +176,10 @@ top_cards:
 - name: card:mj-lnir-hammer-of-thor
   weight: 0.0357
   avg_copies: 1.33
-- name: Outland Liberator
+- name: Valakut, the Molten Pinnacle
   weight: 0.0357
   avg_copies: 1.0
-- name: Valakut, the Molten Pinnacle
+- name: Outland Liberator
   weight: 0.0357
   avg_copies: 1.0
 - name: Wooded Foothills
@@ -194,13 +194,13 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.0238
   avg_copies: 1.25
-- name: Creeping Corrosion
+- name: Hedge Maze
   weight: 0.0238
   avg_copies: 1.0
 - name: Insidious Fungus
   weight: 0.0238
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Creeping Corrosion
   weight: 0.0238
   avg_copies: 1.0
 - name: Surgical Extraction
@@ -209,16 +209,16 @@ top_cards:
 - name: Heritage Reclamation
   weight: 0.0179
   avg_copies: 1.0
-- name: Cavern of Souls
-  weight: 0.0179
-  avg_copies: 1.0
-- name: Kessig Wolf Run
+- name: Windswept Heath
   weight: 0.0179
   avg_copies: 1.0
 - name: Ghost Vacuum
   weight: 0.0179
   avg_copies: 1.0
-- name: Windswept Heath
+- name: Cavern of Souls
+  weight: 0.0179
+  avg_copies: 1.0
+- name: Kessig Wolf Run
   weight: 0.0179
   avg_copies: 1.0
 - name: Pyroclasm
@@ -233,10 +233,13 @@ top_cards:
 - name: Ghost Quarter
   weight: 0.0119
   avg_copies: 1.0
+- name: Hexdrinker
+  weight: 0.0119
+  avg_copies: 1.0
 - name: Emeritus of Abundance
   weight: 0.0119
   avg_copies: 1.0
-- name: card:ruric-thar-the-unbowed
+- name: Northampton Farm
   weight: 0.0119
   avg_copies: 1.0
 - name: Ureni, the Song Unending
@@ -245,10 +248,7 @@ top_cards:
 - name: Dosan the Falling Leaf
   weight: 0.0119
   avg_copies: 1.0
-- name: Northampton Farm
-  weight: 0.0119
-  avg_copies: 1.0
-- name: Hexdrinker
+- name: card:ruric-thar-the-unbowed
   weight: 0.0119
   avg_copies: 1.0
 - name: card:mind-into-matter
@@ -260,19 +260,43 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 0.006
   avg_copies: 2.0
-- name: Snow-Covered Forest
-  weight: 0.006
-  avg_copies: 2.0
 - name: Botanical Sanctum
   weight: 0.006
   avg_copies: 2.0
+- name: Snow-Covered Forest
+  weight: 0.006
+  avg_copies: 2.0
+- name: Grafdigger's Cage
+  weight: 0.006
+  avg_copies: 1.0
+- name: Tormod's Crypt
+  weight: 0.006
+  avg_copies: 1.0
+- name: Turn the Earth
+  weight: 0.006
+  avg_copies: 1.0
 - name: Fade from History
   weight: 0.006
   avg_copies: 1.0
 - name: card:dryad-militant
   weight: 0.006
   avg_copies: 1.0
+- name: card:gretchen-titchwillow
+  weight: 0.006
+  avg_copies: 1.0
+- name: Titania, Protector of Argoth
+  weight: 0.006
+  avg_copies: 1.0
+- name: Waterlogged Grove
+  weight: 0.006
+  avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.006
+  avg_copies: 1.0
 - name: Formidable Speaker
+  weight: 0.006
+  avg_copies: 1.0
+- name: Lithomantic Barrage
   weight: 0.006
   avg_copies: 1.0
 - name: Carnage Tyrant
@@ -281,46 +305,22 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.006
   avg_copies: 1.0
-- name: card:captain-marvel-earth-s-protector
-  weight: 0.006
-  avg_copies: 1.0
-- name: Tormod's Crypt
-  weight: 0.006
-  avg_copies: 1.0
-- name: Waterlogged Grove
-  weight: 0.006
-  avg_copies: 1.0
-- name: card:gretchen-titchwillow
-  weight: 0.006
-  avg_copies: 1.0
 - name: card:guerrilla-gorilla
   weight: 0.006
   avg_copies: 1.0
-- name: Titania, Protector of Argoth
+- name: Sakura-Tribe Elder
   weight: 0.006
   avg_copies: 1.0
 - name: card:altered-ego
+  weight: 0.006
+  avg_copies: 1.0
+- name: card:captain-marvel-earth-s-protector
   weight: 0.006
   avg_copies: 1.0
 - name: Pithing Needle
   weight: 0.006
   avg_copies: 1.0
 - name: card:sakura-tribe-scout
-  weight: 0.006
-  avg_copies: 1.0
-- name: Lithomantic Barrage
-  weight: 0.006
-  avg_copies: 1.0
-- name: Grafdigger's Cage
-  weight: 0.006
-  avg_copies: 1.0
-- name: Gemstone Caverns
-  weight: 0.006
-  avg_copies: 1.0
-- name: Sakura-Tribe Elder
-  weight: 0.006
-  avg_copies: 1.0
-- name: Turn the Earth
   weight: 0.006
   avg_copies: 1.0
 ---

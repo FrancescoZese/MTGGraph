@@ -7,6 +7,12 @@ name: 'Unknown #11'
 meta_share: 0.0007
 list_count: 5
 top_cards:
+- name: Flow State
+  weight: 1.0
+  avg_copies: 4.0
+- name: Manamorphose
+  weight: 1.0
+  avg_copies: 4.0
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
@@ -16,16 +22,10 @@ top_cards:
 - name: Stormcatch Mentor
   weight: 1.0
   avg_copies: 4.0
-- name: Manamorphose
-  weight: 1.0
-  avg_copies: 4.0
 - name: Desperate Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Pyretic Ritual
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flow State
   weight: 1.0
   avg_copies: 4.0
 - name: Stock Up
@@ -40,19 +40,19 @@ top_cards:
 - name: Past in Flames
   weight: 1.0
   avg_copies: 2.0
+- name: Thundering Falls
+  weight: 1.0
+  avg_copies: 2.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 2.0
 - name: Into the Flood Maw
   weight: 1.0
   avg_copies: 2.0
-- name: Thundering Falls
-  weight: 1.0
-  avg_copies: 2.0
-- name: Island
+- name: Mountain
   weight: 1.0
   avg_copies: 1.2
-- name: Mountain
+- name: Island
   weight: 1.0
   avg_copies: 1.2
 - name: Flame of Anor
@@ -79,13 +79,13 @@ top_cards:
 - name: Brotherhood's End
   weight: 0.8
   avg_copies: 1.25
+- name: Meltdown
+  weight: 0.8
+  avg_copies: 1.0
 - name: Valakut Awakening
   weight: 0.8
   avg_copies: 1.0
 - name: Fiery Islet
-  weight: 0.8
-  avg_copies: 1.0
-- name: Meltdown
   weight: 0.8
   avg_copies: 1.0
 - name: Preordain
@@ -94,16 +94,16 @@ top_cards:
 - name: Defense Grid
   weight: 0.6
   avg_copies: 2.0
-- name: Strike It Rich
-  weight: 0.6
-  avg_copies: 1.33
 - name: Soul-Guide Lantern
   weight: 0.6
   avg_copies: 1.33
-- name: Untimely Malfunction
+- name: Strike It Rich
+  weight: 0.6
+  avg_copies: 1.33
+- name: Artist's Talent
   weight: 0.6
   avg_copies: 1.0
-- name: Artist's Talent
+- name: Untimely Malfunction
   weight: 0.6
   avg_copies: 1.0
 - name: Polluted Delta
@@ -115,10 +115,10 @@ top_cards:
 - name: Wrenn's Resolve
   weight: 0.4
   avg_copies: 2.5
-- name: Reckless Impulse
+- name: Spell Pierce
   weight: 0.4
   avg_copies: 2.0
-- name: Spell Pierce
+- name: Reckless Impulse
   weight: 0.4
   avg_copies: 2.0
 - name: Fire Magic
@@ -130,31 +130,31 @@ top_cards:
 - name: Bloodstained Mire
   weight: 0.4
   avg_copies: 1.0
-- name: Murktide Regent
-  weight: 0.2
-  avg_copies: 3.0
 - name: Spirebluff Canal
   weight: 0.2
   avg_copies: 3.0
-- name: Mox Amber
+- name: Murktide Regent
+  weight: 0.2
+  avg_copies: 3.0
+- name: Fire-Brained Scheme
   weight: 0.2
   avg_copies: 2.0
-- name: Fire-Brained Scheme
+- name: Mox Amber
   weight: 0.2
   avg_copies: 2.0
 - name: Repeal
   weight: 0.2
   avg_copies: 1.5
-- name: Fire
-  weight: 0.2
-  avg_copies: 1.0
-- name: Shatterskull Smashing
+- name: Arid Mesa
   weight: 0.2
   avg_copies: 1.0
 - name: Baral, Chief of Compliance
   weight: 0.2
   avg_copies: 1.0
-- name: Arid Mesa
+- name: Fire
+  weight: 0.2
+  avg_copies: 1.0
+- name: Shatterskull Smashing
   weight: 0.2
   avg_copies: 1.0
 ---

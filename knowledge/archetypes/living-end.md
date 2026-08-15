@@ -4,7 +4,7 @@ colors:
 - B
 - G
 name: Living End
-meta_share: 0.011
+meta_share: 0.0109
 list_count: 75
 top_cards:
 - name: Endurance
@@ -121,10 +121,10 @@ top_cards:
 - name: Commandeer
   weight: 0.5067
   avg_copies: 1.15
-- name: Mai, Scornful Striker
+- name: Swamp
   weight: 0.5067
   avg_copies: 1.0
-- name: Swamp
+- name: Mai, Scornful Striker
   weight: 0.5067
   avg_copies: 1.0
 - name: Deceit
@@ -208,10 +208,10 @@ top_cards:
 - name: Archon of Cruelty
   weight: 0.04
   avg_copies: 1.0
-- name: Fade from History
+- name: Oliphaunt
   weight: 0.0267
   avg_copies: 2.0
-- name: Oliphaunt
+- name: Fade from History
   weight: 0.0267
   avg_copies: 2.0
 - name: Ashiok, Dream Render
@@ -220,22 +220,22 @@ top_cards:
 - name: Steam Vents
   weight: 0.0267
   avg_copies: 1.5
-- name: Abhorrent Oculus
-  weight: 0.0267
-  avg_copies: 1.0
 - name: Stomping Ground
   weight: 0.0267
   avg_copies: 1.0
-- name: Godless Shrine
+- name: Sunken Ruins
   weight: 0.0267
   avg_copies: 1.0
 - name: High Noon
   weight: 0.0267
   avg_copies: 1.0
+- name: Godless Shrine
+  weight: 0.0267
+  avg_copies: 1.0
 - name: Windcaller Aven
   weight: 0.0267
   avg_copies: 1.0
-- name: Sunken Ruins
+- name: Abhorrent Oculus
   weight: 0.0267
   avg_copies: 1.0
 - name: Violent Outburst
@@ -253,31 +253,16 @@ top_cards:
 - name: Fulminator Mage
   weight: 0.0133
   avg_copies: 2.0
-- name: Undercity Informer
-  weight: 0.0133
-  avg_copies: 1.0
 - name: card:awaken-the-honored-dead
-  weight: 0.0133
-  avg_copies: 1.0
-- name: Brazen Borrower
-  weight: 0.0133
-  avg_copies: 1.0
-- name: Murderous Cut
   weight: 0.0133
   avg_copies: 1.0
 - name: Kataki, War's Wage
   weight: 0.0133
   avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 0.0133
+  avg_copies: 1.0
 - name: Skycoach Conductor
-  weight: 0.0133
-  avg_copies: 1.0
-- name: Twilight Mire
-  weight: 0.0133
-  avg_copies: 1.0
-- name: Press the Enemy
-  weight: 0.0133
-  avg_copies: 1.0
-- name: Brainsurge
   weight: 0.0133
   avg_copies: 1.0
 - name: Gloomlake Verge
@@ -286,13 +271,28 @@ top_cards:
 - name: Gemstone Caverns
   weight: 0.0133
   avg_copies: 1.0
-- name: Force of Despair
+- name: Undercity Informer
   weight: 0.0133
   avg_copies: 1.0
-- name: Collector Ouphe
+- name: Brazen Borrower
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Murderous Cut
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Brainsurge
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Press the Enemy
   weight: 0.0133
   avg_copies: 1.0
 - name: Thundering Falls
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Force of Despair
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Twilight Mire
   weight: 0.0133
   avg_copies: 1.0
 ---

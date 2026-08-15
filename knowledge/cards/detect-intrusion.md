@@ -15,7 +15,7 @@ archetypes:
     weight: 0.0097
     avg_copies: 4.0
   hammer-time:
-    weight: 0.1333
+    weight: 0.125
     avg_copies: 1.5
   azorius-blink:
     weight: 0.1061

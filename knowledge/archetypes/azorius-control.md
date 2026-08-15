@@ -183,10 +183,10 @@ top_cards:
 - name: Sink into Stupor
   weight: 0.0686
   avg_copies: 1.29
-- name: Hallowed Moonlight
+- name: Field of Ruin
   weight: 0.0588
   avg_copies: 1.17
-- name: Field of Ruin
+- name: Hallowed Moonlight
   weight: 0.0588
   avg_copies: 1.17
 - name: Celestial Colonnade
@@ -210,10 +210,10 @@ top_cards:
 - name: Stern Scolding
   weight: 0.0392
   avg_copies: 1.2
-- name: Waterlogged Teachings
+- name: Mistrise Village
   weight: 0.0392
   avg_copies: 1.0
-- name: Mistrise Village
+- name: Waterlogged Teachings
   weight: 0.0392
   avg_copies: 1.0
 - name: Suppression Ray
@@ -225,13 +225,13 @@ top_cards:
 - name: Fire Magic
   weight: 0.0294
   avg_copies: 1.67
-- name: Snow-Covered Plains
-  weight: 0.0294
-  avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.0294
   avg_copies: 1.0
 - name: Vendilion Clique
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Snow-Covered Plains
   weight: 0.0294
   avg_copies: 1.0
 - name: Thundertrap Trainer
@@ -243,13 +243,13 @@ top_cards:
 - name: Dress Down
   weight: 0.0196
   avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.0196
+  avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.0196
   avg_copies: 1.0
 - name: Elegant Parlor
-  weight: 0.0196
-  avg_copies: 1.0
-- name: Gemstone Caverns
   weight: 0.0196
   avg_copies: 1.0
 - name: card:bilbo-s-gambit
@@ -264,43 +264,43 @@ top_cards:
 - name: Petrified Hamlet
   weight: 0.0098
   avg_copies: 1.0
+- name: Get Lost
+  weight: 0.0098
+  avg_copies: 1.0
 - name: Flashback
-  weight: 0.0098
-  avg_copies: 1.0
-- name: Strix Serenade
-  weight: 0.0098
-  avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.0098
-  avg_copies: 1.0
-- name: card:linvala-keeper-of-silence
-  weight: 0.0098
-  avg_copies: 1.0
-- name: Logic Knot
-  weight: 0.0098
-  avg_copies: 1.0
-- name: Restless Anchorage
-  weight: 0.0098
-  avg_copies: 1.0
-- name: Damping Sphere
-  weight: 0.0098
-  avg_copies: 1.0
-- name: Deafening Silence
-  weight: 0.0098
-  avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
-  weight: 0.0098
-  avg_copies: 1.0
-- name: card:bribery
-  weight: 0.0098
-  avg_copies: 1.0
-- name: Meltdown
   weight: 0.0098
   avg_copies: 1.0
 - name: Commandeer
   weight: 0.0098
   avg_copies: 1.0
-- name: Get Lost
+- name: Strix Serenade
+  weight: 0.0098
+  avg_copies: 1.0
+- name: Restless Anchorage
+  weight: 0.0098
+  avg_copies: 1.0
+- name: Logic Knot
+  weight: 0.0098
+  avg_copies: 1.0
+- name: Hurkyl's Recall
+  weight: 0.0098
+  avg_copies: 1.0
+- name: Deafening Silence
+  weight: 0.0098
+  avg_copies: 1.0
+- name: card:bribery
+  weight: 0.0098
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
+  weight: 0.0098
+  avg_copies: 1.0
+- name: card:linvala-keeper-of-silence
+  weight: 0.0098
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 0.0098
+  avg_copies: 1.0
+- name: Damping Sphere
   weight: 0.0098
   avg_copies: 1.0
 ---

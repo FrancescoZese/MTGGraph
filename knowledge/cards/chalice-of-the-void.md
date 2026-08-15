@@ -9,7 +9,7 @@ type: Artifact
 meta_presence: 0.0635
 archetypes:
   eldrazi-tron:
-    weight: 0.6317
+    weight: 0.6329
     avg_copies: 1.74
   goryo:
     weight: 0.0027
@@ -30,7 +30,7 @@ archetypes:
     weight: 0.0071
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.0538
+    weight: 0.0532
     avg_copies: 2.4
   eldrazi-ramp:
     weight: 0.2143
@@ -39,7 +39,7 @@ archetypes:
     weight: 0.0729
     avg_copies: 2.0
   esper-blink:
-    weight: 0.0294
+    weight: 0.0292
     avg_copies: 1.0
   naya-midrange:
     weight: 1.0
@@ -69,8 +69,8 @@ archetypes:
     weight: 0.2083
     avg_copies: 1.97
   unknown-61:
-    weight: 0.6598
-    avg_copies: 2.85
+    weight: 0.6633
+    avg_copies: 2.83
   unknown-55:
     weight: 1.0
     avg_copies: 4.0

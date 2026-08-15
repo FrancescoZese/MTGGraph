@@ -6,7 +6,7 @@ name: Engineered Explosives
 scryfall_id: 420bf1e9-f2ec-4dff-b540-e64de71e58be
 set: 2xm
 type: Artifact
-meta_presence: 0.1512
+meta_presence: 0.1507
 archetypes:
   dimir-control:
     weight: 0.5185
@@ -15,13 +15,13 @@ archetypes:
     weight: 0.7978
     avg_copies: 1.94
   eldrazi-tron:
-    weight: 0.146
+    weight: 0.1456
     avg_copies: 1.0
   amulet-titan:
     weight: 0.0238
     avg_copies: 1.25
   goryo:
-    weight: 0.0108
+    weight: 0.0107
     avg_copies: 1.0
   necrodominance:
     weight: 0.2222

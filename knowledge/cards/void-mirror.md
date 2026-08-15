@@ -18,13 +18,13 @@ archetypes:
     weight: 0.0317
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.0147
+    weight: 0.0145
     avg_copies: 1.0
   rakdos-lantern-combo:
     weight: 0.5
     avg_copies: 1.0
   eldrazi-breach:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 2.0
   goryo4:
     weight: 0.037

@@ -65,10 +65,10 @@ top_cards:
 - name: Damping Sphere
   weight: 0.6875
   avg_copies: 1.36
-- name: Vexing Bauble
+- name: Agatha's Soul Cauldron
   weight: 0.6875
   avg_copies: 1.0
-- name: Agatha's Soul Cauldron
+- name: Vexing Bauble
   weight: 0.6875
   avg_copies: 1.0
 - name: Scalding Tarn
@@ -89,10 +89,10 @@ top_cards:
 - name: Swan Song
   weight: 0.5625
   avg_copies: 1.11
-- name: Pithing Needle
+- name: Meticulous Archive
   weight: 0.5625
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Pithing Needle
   weight: 0.5625
   avg_copies: 1.0
 - name: Misty Rainforest
@@ -107,10 +107,10 @@ top_cards:
 - name: Sink into Stupor
   weight: 0.4375
   avg_copies: 1.29
-- name: Relic of Progenitus
+- name: Disruptor Flute
   weight: 0.4375
   avg_copies: 1.0
-- name: Disruptor Flute
+- name: Relic of Progenitus
   weight: 0.4375
   avg_copies: 1.0
 - name: card:oswald-fiddlebender
@@ -119,13 +119,13 @@ top_cards:
 - name: Nature's Claim
   weight: 0.375
   avg_copies: 2.0
-- name: Dusk Rose Reliquary
+- name: Shadowspear
   weight: 0.375
   avg_copies: 1.0
 - name: Waterlogged Grove
   weight: 0.375
   avg_copies: 1.0
-- name: Shadowspear
+- name: Dusk Rose Reliquary
   weight: 0.375
   avg_copies: 1.0
 - name: Malevolent Rumble
@@ -158,10 +158,10 @@ top_cards:
 - name: Botanical Sanctum
   weight: 0.125
   avg_copies: 4.0
-- name: Orim's Chant
+- name: card:yavimaya-coast
   weight: 0.125
   avg_copies: 2.0
-- name: card:yavimaya-coast
+- name: Orim's Chant
   weight: 0.125
   avg_copies: 2.0
 - name: Into the Flood Maw
@@ -170,67 +170,67 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.125
   avg_copies: 1.5
-- name: Gran-Gran
-  weight: 0.125
-  avg_copies: 1.0
-- name: card:urza-lord-high-artificer
-  weight: 0.125
-  avg_copies: 1.0
-- name: card:scrabbling-claws
-  weight: 0.125
-  avg_copies: 1.0
-- name: Tezzeret, Cruel Captain
+- name: Grafdigger's Cage
   weight: 0.125
   avg_copies: 1.0
 - name: Unable to Scream
   weight: 0.125
   avg_copies: 1.0
-- name: Plains
-  weight: 0.125
-  avg_copies: 1.0
 - name: card:bruce-banner
   weight: 0.125
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: card:scrabbling-claws
   weight: 0.125
   avg_copies: 1.0
-- name: Krang, Master Mind
+- name: Plains
+  weight: 0.125
+  avg_copies: 1.0
+- name: Tezzeret, Cruel Captain
+  weight: 0.125
+  avg_copies: 1.0
+- name: card:urza-lord-high-artificer
   weight: 0.125
   avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.125
   avg_copies: 1.0
+- name: Gran-Gran
+  weight: 0.125
+  avg_copies: 1.0
+- name: Krang, Master Mind
+  weight: 0.125
+  avg_copies: 1.0
 - name: Kappa Cannoneer
   weight: 0.0625
   avg_copies: 4.0
-- name: Sacred Ground
-  weight: 0.0625
-  avg_copies: 3.0
 - name: Test of Talents
   weight: 0.0625
   avg_copies: 3.0
-- name: Dismember
+- name: Sacred Ground
+  weight: 0.0625
+  avg_copies: 3.0
+- name: Glimmervoid
   weight: 0.0625
   avg_copies: 2.0
 - name: Erode
   weight: 0.0625
   avg_copies: 2.0
-- name: Glimmervoid
+- name: Dismember
   weight: 0.0625
   avg_copies: 2.0
-- name: Spell Snare
+- name: Thief of Existence
   weight: 0.0625
   avg_copies: 1.0
 - name: Does Machines
   weight: 0.0625
   avg_copies: 1.0
-- name: Invasive Surgery
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Thief of Existence
-  weight: 0.0625
-  avg_copies: 1.0
 - name: Ashiok, Dream Render
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Spell Snare
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Invasive Surgery
   weight: 0.0625
   avg_copies: 1.0
 ---

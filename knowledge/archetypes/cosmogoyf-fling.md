@@ -136,10 +136,10 @@ top_cards:
 - name: Claim
   weight: 0.0566
   avg_copies: 2.75
-- name: card:specter-s-shriek
+- name: Fire Magic
   weight: 0.0566
   avg_copies: 2.33
-- name: Fire Magic
+- name: card:specter-s-shriek
   weight: 0.0566
   avg_copies: 2.33
 - name: Pick Your Poison
@@ -160,16 +160,16 @@ top_cards:
 - name: Mana Confluence
   weight: 0.0189
   avg_copies: 4.0
-- name: card:kavaron-memorial-world
-  weight: 0.0189
-  avg_copies: 2.0
 - name: Shadowspear
   weight: 0.0189
   avg_copies: 2.0
-- name: Pyroclasm
+- name: card:kavaron-memorial-world
   weight: 0.0189
   avg_copies: 2.0
 - name: Death's Shadow
+  weight: 0.0189
+  avg_copies: 2.0
+- name: Pyroclasm
   weight: 0.0189
   avg_copies: 2.0
 - name: Disruptor Flute
@@ -181,10 +181,10 @@ top_cards:
 - name: Meltdown
   weight: 0.0189
   avg_copies: 1.0
-- name: Mountain
+- name: Force of Despair
   weight: 0.0189
   avg_copies: 1.0
-- name: Force of Despair
+- name: Mountain
   weight: 0.0189
   avg_copies: 1.0
 ---

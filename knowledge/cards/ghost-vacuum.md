@@ -33,7 +33,7 @@ archetypes:
     weight: 0.0284
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0221
+    weight: 0.0219
     avg_copies: 1.0
   broodscale-combo:
     weight: 0.0065
@@ -69,7 +69,7 @@ archetypes:
     weight: 0.1111
     avg_copies: 1.25
   unknown-61:
-    weight: 0.1134
+    weight: 0.1122
     avg_copies: 1.82
   unknown-68:
     weight: 0.1

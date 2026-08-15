@@ -31,7 +31,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.33
   eldrazi-breach:
-    weight: 0.5
+    weight: 0.4
     avg_copies: 1.0
   grixis-shadow:
     weight: 0.4

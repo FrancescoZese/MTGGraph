@@ -120,25 +120,25 @@ top_cards:
 - name: Erode
   weight: 0.1765
   avg_copies: 1.25
-- name: March of Otherworldly Light
-  weight: 0.1765
-  avg_copies: 1.0
-- name: Sacred Foundry
+- name: Grafdigger's Cage
   weight: 0.1765
   avg_copies: 1.0
 - name: Plague Engineer
   weight: 0.1765
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Sacred Foundry
   weight: 0.1765
   avg_copies: 1.0
-- name: card:cloak-and-dagger-entwined
+- name: Surgical Extraction
   weight: 0.1765
   avg_copies: 1.0
 - name: Prismatic Vista
   weight: 0.1765
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: March of Otherworldly Light
+  weight: 0.1765
+  avg_copies: 1.0
+- name: card:cloak-and-dagger-entwined
   weight: 0.1765
   avg_copies: 1.0
 - name: Sanctifier en-Vec
@@ -150,52 +150,37 @@ top_cards:
 - name: Orim's Chant
   weight: 0.0588
   avg_copies: 4.0
-- name: Flagstones of Trokair
+- name: Deafening Silence
   weight: 0.0588
   avg_copies: 3.0
-- name: Deafening Silence
+- name: Flagstones of Trokair
   weight: 0.0588
   avg_copies: 3.0
 - name: Force of Despair
   weight: 0.0588
   avg_copies: 3.0
-- name: Troll of Khazad-dûm
+- name: Bloodstained Mire
   weight: 0.0588
   avg_copies: 2.0
-- name: Illness in the Ranks
+- name: Troll of Khazad-dûm
   weight: 0.0588
   avg_copies: 2.0
 - name: Windswept Heath
   weight: 0.0588
   avg_copies: 2.0
-- name: Duress
-  weight: 0.0588
-  avg_copies: 2.0
-- name: Bloodstained Mire
+- name: Illness in the Ranks
   weight: 0.0588
   avg_copies: 2.0
 - name: End of the Hunt
   weight: 0.0588
   avg_copies: 2.0
-- name: Sacred Ground
+- name: Duress
   weight: 0.0588
-  avg_copies: 1.0
-- name: Containment Priest
-  weight: 0.0588
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Kataki, War's Wage
   weight: 0.0588
   avg_copies: 1.0
-- name: Raucous Theater
-  weight: 0.0588
-  avg_copies: 1.0
 - name: Gaddock Teeg
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Emptiness
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Vindicate
   weight: 0.0588
   avg_copies: 1.0
 - name: Accursed Marauder
@@ -204,16 +189,31 @@ top_cards:
 - name: card:captain-america-super-soldier
   weight: 0.0588
   avg_copies: 1.0
+- name: Emptiness
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Vindicate
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Containment Priest
+  weight: 0.0588
+  avg_copies: 1.0
 - name: Lush Portico
   weight: 0.0588
   avg_copies: 1.0
-- name: Overgrown Tomb
+- name: Raucous Theater
   weight: 0.0588
   avg_copies: 1.0
 - name: Eiganjo, Seat of the Empire
   weight: 0.0588
   avg_copies: 1.0
+- name: Overgrown Tomb
+  weight: 0.0588
+  avg_copies: 1.0
 - name: Monumental Henge
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Sacred Ground
   weight: 0.0588
   avg_copies: 1.0
 ---

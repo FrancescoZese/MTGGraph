@@ -6,7 +6,7 @@ name: Darkslick Shores
 scryfall_id: c49305d1-ac95-43ea-b02d-c3c7205bcda6
 set: otc
 type: Land
-meta_presence: 0.0282
+meta_presence: 0.0281
 archetypes:
   dimir-control:
     weight: 0.4198
@@ -15,7 +15,7 @@ archetypes:
     weight: 0.0278
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0074
+    weight: 0.0073
     avg_copies: 1.0
   esper-midrange:
     weight: 1.0

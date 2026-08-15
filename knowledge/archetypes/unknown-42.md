@@ -2,7 +2,7 @@
 colors:
 - U
 name: 'Unknown #42'
-meta_share: 0.0018
+meta_share: 0.0017
 list_count: 12
 top_cards:
 - name: Island
@@ -11,10 +11,10 @@ top_cards:
 - name: Tide Shaper
   weight: 1.0
   avg_copies: 3.92
-- name: Master of the Pearl Trident
+- name: Lord of Atlantis
   weight: 1.0
   avg_copies: 3.75
-- name: Lord of Atlantis
+- name: Master of the Pearl Trident
   weight: 1.0
   avg_copies: 3.75
 - name: Sink into Stupor
@@ -101,16 +101,16 @@ top_cards:
 - name: Mistcaller
   weight: 0.0833
   avg_copies: 3.0
-- name: Spell Snare
-  weight: 0.0833
-  avg_copies: 2.0
-- name: Waterlogged Grove
-  weight: 0.0833
-  avg_copies: 2.0
 - name: Hurkyl's Recall
   weight: 0.0833
   avg_copies: 2.0
 - name: Spell Pierce
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Spell Snare
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Waterlogged Grove
   weight: 0.0833
   avg_copies: 2.0
 - name: Oboro, Palace in the Clouds
