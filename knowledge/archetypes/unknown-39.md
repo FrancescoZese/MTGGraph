@@ -22,34 +22,34 @@ top_cards:
 - name: Fatal Push
   weight: 1.0
   avg_copies: 3.5
-- name: Misty Rainforest
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
 - name: Birthing Ritual
   weight: 1.0
   avg_copies: 3.0
-- name: Orcish Bowmasters
-  weight: 1.0
-  avg_copies: 3.0
-- name: Consign to Memory
-  weight: 1.0
-  avg_copies: 3.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 3.0
-- name: Flare of Denial
+- name: Orcish Bowmasters
   weight: 1.0
-  avg_copies: 2.5
+  avg_copies: 3.0
+- name: Misty Rainforest
+  weight: 1.0
+  avg_copies: 3.0
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 2.5
 - name: Flare of Malice
   weight: 1.0
   avg_copies: 2.5
-- name: Satoru, the Infiltrator
+- name: Flare of Denial
+  weight: 1.0
+  avg_copies: 2.5
+- name: Subtlety
   weight: 1.0
   avg_copies: 2.0
-- name: Subtlety
+- name: Satoru, the Infiltrator
   weight: 1.0
   avg_copies: 2.0
 - name: Force of Negation
@@ -67,7 +67,10 @@ top_cards:
 - name: Endurance
   weight: 1.0
   avg_copies: 1.5
-- name: Undercity Sewers
+- name: Chthonian Nightmare
+  weight: 1.0
+  avg_copies: 1.0
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Swamp
@@ -76,19 +79,16 @@ top_cards:
 - name: Underground Mortuary
   weight: 1.0
   avg_copies: 1.0
-- name: Forest
+- name: Island
   weight: 1.0
   avg_copies: 1.0
-- name: Chthonian Nightmare
-  weight: 1.0
-  avg_copies: 1.0
-- name: Overgrown Tomb
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Overgrown Tomb
   weight: 1.0
   avg_copies: 1.0
 - name: Quantum Riddler
@@ -97,43 +97,43 @@ top_cards:
 - name: Fallaji Archaeologist
   weight: 0.5
   avg_copies: 4.0
-- name: Force of Vigor
+- name: Thundertrap Trainer
   weight: 0.5
   avg_copies: 2.0
 - name: Pick Your Poison
   weight: 0.5
   avg_copies: 2.0
+- name: Force of Vigor
+  weight: 0.5
+  avg_copies: 2.0
 - name: Aven Heartstabber
   weight: 0.5
   avg_copies: 2.0
-- name: Thundertrap Trainer
-  weight: 0.5
-  avg_copies: 2.0
-- name: Hedge Maze
-  weight: 0.5
-  avg_copies: 1.0
 - name: Harbinger of the Seas
   weight: 0.5
   avg_copies: 1.0
 - name: Kaito, Bane of Nightmares
   weight: 0.5
   avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 0.5
+  avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.5
   avg_copies: 1.0
-- name: Reclamation Sage
-  weight: 0.5
-  avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Hedge Maze
   weight: 0.5
   avg_copies: 1.0
 - name: Engineered Explosives
   weight: 0.5
   avg_copies: 1.0
-- name: Collector Ouphe
+- name: Boseiju, Who Endures
   weight: 0.5
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Nihil Spellbomb
+  weight: 0.5
+  avg_copies: 1.0
+- name: Reclamation Sage
   weight: 0.5
   avg_copies: 1.0
 ---

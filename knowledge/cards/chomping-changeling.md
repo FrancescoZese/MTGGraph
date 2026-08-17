@@ -10,7 +10,7 @@ type: Creature — Shapeshifter
 meta_presence: 0.0093
 archetypes:
   yawgmoth-combo:
-    weight: 0.0106
+    weight: 0.0105
     avg_copies: 1.0
   mono-green-ramp:
     weight: 1.0
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.4286
     avg_copies: 1.0
   unknown-61:
-    weight: 0.4388
+    weight: 0.4216
     avg_copies: 1.0
   unknown-52:
     weight: 0.0833
@@ -33,6 +33,9 @@ archetypes:
   unknown-115:
     weight: 0.6667
     avg_copies: 2.0
+  unknown-126:
+    weight: 0.0108
+    avg_copies: 1.0
   unknown-130:
     weight: 1.0
     avg_copies: 1.0

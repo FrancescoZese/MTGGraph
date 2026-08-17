@@ -6,7 +6,7 @@ name: Polluted Delta
 scryfall_id: 6e288374-2b71-4ace-b1d2-a19fee6cb4af
 set: mh3
 type: Land
-meta_presence: 0.2187
+meta_presence: 0.22
 archetypes:
   dimir-control:
     weight: 1.0
@@ -18,13 +18,13 @@ archetypes:
     weight: 0.2444
     avg_copies: 1.73
   azorius-control:
-    weight: 0.1961
+    weight: 0.1923
     avg_copies: 1.1
   living-end:
-    weight: 0.6133
+    weight: 0.6053
     avg_copies: 1.5
   affinity:
-    weight: 0.017
+    weight: 0.0169
     avg_copies: 1.44
   mill:
     weight: 1.0
@@ -33,8 +33,8 @@ archetypes:
     weight: 0.963
     avg_copies: 3.62
   neoform-combo:
-    weight: 0.5243
-    avg_copies: 1.2
+    weight: 0.5278
+    avg_copies: 1.19
   hollow-one:
     weight: 0.1765
     avg_copies: 1.5
@@ -42,11 +42,11 @@ archetypes:
     weight: 0.2812
     avg_copies: 1.19
   izzet-prowess:
-    weight: 0.0056
+    weight: 0.0055
     avg_copies: 1.0
   esper-blink:
-    weight: 0.9708
-    avg_copies: 1.6
+    weight: 0.9726
+    avg_copies: 1.58
   orzhov-blink:
     weight: 0.1176
     avg_copies: 1.5
@@ -81,11 +81,11 @@ archetypes:
     weight: 1.0
     avg_copies: 3.82
   goryo5:
-    weight: 0.5556
+    weight: 0.5357
     avg_copies: 2.07
   goryo2:
     weight: 1.0
-    avg_copies: 3.69
+    avg_copies: 3.68
   goryo3:
     weight: 1.0
     avg_copies: 1.0
@@ -114,7 +114,7 @@ archetypes:
     weight: 0.6
     avg_copies: 1.0
   unknown-15:
-    weight: 0.0714
+    weight: 0.0667
     avg_copies: 1.0
   unknown-20:
     weight: 1.0
@@ -145,7 +145,7 @@ archetypes:
     avg_copies: 3.17
   unknown-47:
     weight: 1.0
-    avg_copies: 3.88
+    avg_copies: 3.89
   unknown-51:
     weight: 1.0
     avg_copies: 4.0
@@ -210,7 +210,7 @@ archetypes:
     weight: 0.5
     avg_copies: 4.0
   unknown-101:
-    weight: 0.6364
+    weight: 0.6087
     avg_copies: 1.36
   unknown-105:
     weight: 1.0
@@ -291,8 +291,8 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   unknown-167:
-    weight: 0.4375
-    avg_copies: 1.43
+    weight: 0.4706
+    avg_copies: 1.62
   unknown-169:
     weight: 1.0
     avg_copies: 4.0

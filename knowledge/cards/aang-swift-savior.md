@@ -7,7 +7,7 @@ scryfall_id: 82866a0e-485a-4f7e-8c49-f7d9ff3f4ad4
 set: tla
 type: Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Spirit
   Ally
-meta_presence: 0.0025
+meta_presence: 0.0026
 archetypes:
   azorius-blink:
     weight: 0.0758
@@ -20,5 +20,8 @@ archetypes:
     avg_copies: 1.5
   unknown-213:
     weight: 0.4286
+    avg_copies: 2.0
+  unknown-249:
+    weight: 1.0
     avg_copies: 2.0
 ---

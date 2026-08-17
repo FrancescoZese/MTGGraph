@@ -13,7 +13,7 @@ archetypes:
     weight: 0.4074
     avg_copies: 1.79
   jeskai-control:
-    weight: 0.0517
+    weight: 0.0508
     avg_copies: 2.67
   izzet-wizards:
     weight: 1.0
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.0056
+    weight: 0.0055
     avg_copies: 1.0
   goryo3:
     weight: 1.0
@@ -37,7 +37,7 @@ archetypes:
     weight: 0.0625
     avg_copies: 1.0
   unknown-15:
-    weight: 0.0714
+    weight: 0.0667
     avg_copies: 1.0
   unknown-17:
     weight: 1.0
@@ -58,7 +58,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-47:
-    weight: 0.0069
+    weight: 0.0068
     avg_copies: 1.0
   unknown-82:
     weight: 1.0
@@ -93,6 +93,9 @@ archetypes:
   unknown-186:
     weight: 1.0
     avg_copies: 3.0
+  unknown-192:
+    weight: 0.5
+    avg_copies: 1.0
   unknown-219:
     weight: 1.0
     avg_copies: 3.0

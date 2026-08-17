@@ -6,10 +6,10 @@ name: Xander's Lounge
 scryfall_id: 54f449ff-4025-465e-9ec5-a5cf42c4c9d3
 set: snc
 type: Land — Island Swamp Mountain
-meta_presence: 0.0038
+meta_presence: 0.0039
 archetypes:
   domain-zoo:
-    weight: 0.0138
+    weight: 0.0136
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.7333
@@ -36,6 +36,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-242:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-250:
     weight: 1.0
     avg_copies: 1.0
 ---

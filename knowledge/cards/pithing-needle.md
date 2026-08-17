@@ -6,16 +6,16 @@ name: Pithing Needle
 scryfall_id: 776899f8-e977-42b7-8b54-6f726a349e3c
 set: 2x2
 type: Artifact
-meta_presence: 0.1505
+meta_presence: 0.1504
 archetypes:
   boros-energy:
     weight: 0.0013
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.1234
+    weight: 0.1246
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.006
+    weight: 0.0059
     avg_copies: 1.0
   hardened-scales:
     weight: 0.6
@@ -24,10 +24,10 @@ archetypes:
     weight: 0.0222
     avg_copies: 1.0
   affinity:
-    weight: 0.9432
+    weight: 0.9435
     avg_copies: 1.0
   hammer-time:
-    weight: 0.5625
+    weight: 0.5882
     avg_copies: 1.0
   boros-ponza:
     weight: 0.1064
@@ -36,10 +36,10 @@ archetypes:
     weight: 0.119
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0056
+    weight: 0.0055
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.8409
+    weight: 0.8419
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.5
@@ -69,7 +69,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-15:
-    weight: 0.7143
+    weight: 0.7333
     avg_copies: 1.0
   unknown-21:
     weight: 1.0
@@ -93,13 +93,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0139
+    weight: 0.0135
     avg_copies: 1.0
   unknown-48:
     weight: 0.5
     avg_copies: 1.0
   unknown-49:
-    weight: 0.875
+    weight: 0.8889
     avg_copies: 1.0
   unknown-55:
     weight: 1.0
@@ -138,7 +138,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-126:
-    weight: 0.0706
+    weight: 0.0645
     avg_copies: 1.5
   unknown-137:
     weight: 1.0
@@ -156,13 +156,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.241
+    weight: 0.2353
     avg_copies: 1.0
   unknown-159:
     weight: 1.0
     avg_copies: 1.0
   unknown-167:
-    weight: 0.5625
+    weight: 0.5882
     avg_copies: 1.0
   unknown-170:
     weight: 1.0
@@ -195,6 +195,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-248:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-249:
     weight: 1.0
     avg_copies: 1.0
 ---

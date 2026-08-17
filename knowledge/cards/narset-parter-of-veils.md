@@ -7,14 +7,14 @@ name: Narset, Parter of Veils
 scryfall_id: 4e6e5c63-b6e5-4756-bf23-6c6f8669442d
 set: cmm
 type: Legendary Planeswalker — Narset
-meta_presence: 0.0197
+meta_presence: 0.0198
 archetypes:
   azorius-control:
-    weight: 0.6078
-    avg_copies: 3.13
+    weight: 0.6154
+    avg_copies: 3.14
   jeskai-control:
-    weight: 0.8103
-    avg_copies: 3.62
+    weight: 0.8136
+    avg_copies: 3.6
   unknown-16:
     weight: 1.0
     avg_copies: 4.0

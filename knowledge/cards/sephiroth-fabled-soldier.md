@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0013
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.266
+    weight: 0.2737
     avg_copies: 1.0
   simic-ritual:
     weight: 0.0104
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.1014
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.013
+    weight: 0.0129
     avg_copies: 3.0
   soultrader-combo:
     weight: 0.1429

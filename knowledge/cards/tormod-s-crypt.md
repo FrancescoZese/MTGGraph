@@ -6,19 +6,19 @@ name: Tormod's Crypt
 scryfall_id: 752bf493-5839-47e8-95f2-6d8201907428
 set: dmr
 type: Artifact
-meta_presence: 0.1864
+meta_presence: 0.1862
 archetypes:
   mono-blue-belcher:
-    weight: 0.427
+    weight: 0.4222
     avg_copies: 1.08
   eldrazi-tron:
-    weight: 0.9873
+    weight: 0.9875
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.006
+    weight: 0.0059
     avg_copies: 1.0
   goryo:
-    weight: 0.0054
+    weight: 0.0052
     avg_copies: 1.0
   hardened-scales:
     weight: 0.6
@@ -27,7 +27,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.2
   domain-zoo:
-    weight: 0.0069
+    weight: 0.0068
     avg_copies: 1.0
   mill:
     weight: 0.0278
@@ -39,8 +39,8 @@ archetypes:
     weight: 0.08
     avg_copies: 1.0
   hammer-time:
-    weight: 0.5625
-    avg_copies: 1.22
+    weight: 0.5882
+    avg_copies: 1.2
   boros-ponza:
     weight: 0.1206
     avg_copies: 1.0
@@ -48,7 +48,7 @@ archetypes:
     weight: 0.1984
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.514
+    weight: 0.5137
     avg_copies: 1.7
   dredge:
     weight: 0.0357
@@ -57,7 +57,7 @@ archetypes:
     weight: 0.4688
     avg_copies: 1.06
   goryo1:
-    weight: 0.0278
+    weight: 0.0276
     avg_copies: 1.4
   goryo4:
     weight: 0.037
@@ -72,8 +72,8 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   unknown-15:
-    weight: 0.7143
-    avg_copies: 1.17
+    weight: 0.7333
+    avg_copies: 1.15
   unknown-21:
     weight: 1.0
     avg_copies: 1.0
@@ -85,7 +85,7 @@ archetypes:
     avg_copies: 1.0
   unknown-49:
     weight: 1.0
-    avg_copies: 3.88
+    avg_copies: 3.89
   unknown-55:
     weight: 1.0
     avg_copies: 1.0
@@ -96,7 +96,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.17
   unknown-96:
-    weight: 0.0667
+    weight: 0.0625
     avg_copies: 2.33
   unknown-97:
     weight: 0.0667
@@ -126,7 +126,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.253
+    weight: 0.2471
     avg_copies: 1.0
   unknown-159:
     weight: 1.0
@@ -135,8 +135,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-167:
-    weight: 0.625
-    avg_copies: 1.2
+    weight: 0.6471
+    avg_copies: 1.19
   unknown-168:
     weight: 1.0
     avg_copies: 3.0

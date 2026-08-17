@@ -10,13 +10,13 @@ type: Instant
 meta_presence: 0.002
 archetypes:
   mono-blue-belcher:
-    weight: 0.0225
+    weight: 0.0222
     avg_copies: 1.0
   mill:
     weight: 0.2778
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0097
+    weight: 0.0093
     avg_copies: 1.0
   unknown-133:
     weight: 1.0

@@ -1,0 +1,38 @@
+---
+archetype: unknown-96
+date: '2026-08-14'
+finish: 11th
+pilot: kaiszern
+source: MTGO Modern Challenge 64
+---
+
+
+# Mainboard
+4 Street Wraith
+4 Blazing Rootwalla
+4 Detective's Phoenix
+4 Burning Inquiry
+4 Sacred Foundry
+2 Scalding Tarn
+2 Wooded Foothills
+4 Hardened Academic
+4 Hollow One
+2 Mountain
+4 Marauding Mako
+2 Practiced Offense
+4 Lightning Bolt
+4 Faithless Looting
+1 Elegant Parlor
+3 Bloodstained Mire
+4 Vengevine
+3 Arid Mesa
+1 Arena of Glory
+
+# Sideboard
+2 Damping Sphere
+2 Rough/Tumble
+2 Wear/Tear
+3 Surgical Extraction
+2 Vexing Bauble
+2 Prismatic Ending
+2 Enter the Avatar State

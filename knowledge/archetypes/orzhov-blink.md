@@ -3,13 +3,13 @@ colors:
 - W
 - B
 name: Orzhov Blink
-meta_share: 0.0025
+meta_share: 0.0024
 list_count: 17
 top_cards:
-- name: Solitude
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
-- name: Overlord of the Balemurk
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
@@ -111,34 +111,34 @@ top_cards:
 - name: Elesh Norn, Mother of Machines
   weight: 0.2353
   avg_copies: 1.0
-- name: Dawnbringer Cleric
+- name: Sheoldred's Edict
   weight: 0.1765
   avg_copies: 2.0
-- name: Sheoldred's Edict
+- name: Dawnbringer Cleric
   weight: 0.1765
   avg_copies: 2.0
 - name: Erode
   weight: 0.1765
   avg_copies: 1.25
-- name: Grafdigger's Cage
-  weight: 0.1765
-  avg_copies: 1.0
-- name: Plague Engineer
+- name: Surgical Extraction
   weight: 0.1765
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.1765
   avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.1765
-  avg_copies: 1.0
-- name: Prismatic Vista
+- name: card:cloak-and-dagger-entwined
   weight: 0.1765
   avg_copies: 1.0
 - name: March of Otherworldly Light
   weight: 0.1765
   avg_copies: 1.0
-- name: card:cloak-and-dagger-entwined
+- name: Plague Engineer
+  weight: 0.1765
+  avg_copies: 1.0
+- name: Grafdigger's Cage
+  weight: 0.1765
+  avg_copies: 1.0
+- name: Prismatic Vista
   weight: 0.1765
   avg_copies: 1.0
 - name: Sanctifier en-Vec
@@ -159,10 +159,7 @@ top_cards:
 - name: Force of Despair
   weight: 0.0588
   avg_copies: 3.0
-- name: Bloodstained Mire
-  weight: 0.0588
-  avg_copies: 2.0
-- name: Troll of Khazad-dûm
+- name: End of the Hunt
   weight: 0.0588
   avg_copies: 2.0
 - name: Windswept Heath
@@ -171,19 +168,16 @@ top_cards:
 - name: Illness in the Ranks
   weight: 0.0588
   avg_copies: 2.0
-- name: End of the Hunt
-  weight: 0.0588
-  avg_copies: 2.0
 - name: Duress
   weight: 0.0588
   avg_copies: 2.0
+- name: Troll of Khazad-dûm
+  weight: 0.0588
+  avg_copies: 2.0
+- name: Bloodstained Mire
+  weight: 0.0588
+  avg_copies: 2.0
 - name: Kataki, War's Wage
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Gaddock Teeg
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Accursed Marauder
   weight: 0.0588
   avg_copies: 1.0
 - name: card:captain-america-super-soldier
@@ -192,28 +186,34 @@ top_cards:
 - name: Emptiness
   weight: 0.0588
   avg_copies: 1.0
+- name: Gaddock Teeg
+  weight: 0.0588
+  avg_copies: 1.0
 - name: Vindicate
   weight: 0.0588
   avg_copies: 1.0
 - name: Containment Priest
   weight: 0.0588
   avg_copies: 1.0
-- name: Lush Portico
+- name: Overgrown Tomb
   weight: 0.0588
   avg_copies: 1.0
 - name: Raucous Theater
   weight: 0.0588
   avg_copies: 1.0
-- name: Eiganjo, Seat of the Empire
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Overgrown Tomb
+- name: Lush Portico
   weight: 0.0588
   avg_copies: 1.0
 - name: Monumental Henge
   weight: 0.0588
   avg_copies: 1.0
 - name: Sacred Ground
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Eiganjo, Seat of the Empire
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Accursed Marauder
   weight: 0.0588
   avg_copies: 1.0
 ---

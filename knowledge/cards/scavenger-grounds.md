@@ -9,7 +9,7 @@ type: Land — Desert
 meta_presence: 0.0017
 archetypes:
   amulet-titan:
-    weight: 0.0655
+    weight: 0.0651
     avg_copies: 1.0
   goryo6:
     weight: 0.25

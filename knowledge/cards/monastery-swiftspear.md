@@ -7,13 +7,13 @@ name: Monastery Swiftspear
 scryfall_id: d6bfa227-4309-40ed-952c-279595eab17e
 set: bro
 type: Creature — Human Monk
-meta_presence: 0.0654
+meta_presence: 0.0657
 archetypes:
   burn:
     weight: 0.9744
     avg_copies: 3.95
   izzet-prowess:
-    weight: 0.9916
+    weight: 0.9918
     avg_copies: 3.97
   unknown-71:
     weight: 1.0

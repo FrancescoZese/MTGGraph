@@ -10,8 +10,8 @@ type: Sorcery
 meta_presence: 0.0121
 archetypes:
   ruby-storm:
-    weight: 0.1727
-    avg_copies: 1.7
+    weight: 0.1746
+    avg_copies: 1.68
   mono-red-belcher:
     weight: 1.0
     avg_copies: 3.92

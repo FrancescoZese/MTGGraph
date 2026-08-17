@@ -10,13 +10,13 @@ type: Artifact
 meta_presence: 0.0083
 archetypes:
   mono-blue-belcher:
-    weight: 0.0225
+    weight: 0.0222
     avg_copies: 1.0
   affinity:
     weight: 0.0019
     avg_copies: 3.0
   hammer-time:
-    weight: 0.25
+    weight: 0.2353
     avg_copies: 2.0
   boros-ponza:
     weight: 0.0851
@@ -34,17 +34,17 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-15:
-    weight: 0.0714
+    weight: 0.0667
     avg_copies: 3.0
   unknown-48:
     weight: 0.5
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0723
+    weight: 0.0706
     avg_copies: 1.0
   unknown-167:
-    weight: 0.5625
-    avg_copies: 3.56
+    weight: 0.5882
+    avg_copies: 3.5
   unknown-170:
     weight: 1.0
     avg_copies: 4.0

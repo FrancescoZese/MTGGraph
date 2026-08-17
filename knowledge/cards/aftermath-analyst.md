@@ -7,9 +7,9 @@ name: Aftermath Analyst
 scryfall_id: 66f135b4-8cb3-4a4e-86ae-81a3cf4b7259
 set: eoc
 type: Creature — Elf Detective
-meta_presence: 0.0229
+meta_presence: 0.0227
 archetypes:
   amulet-titan:
-    weight: 0.9345
+    weight: 0.9349
     avg_copies: 1.09
 ---

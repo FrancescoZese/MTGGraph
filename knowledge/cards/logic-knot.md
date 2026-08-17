@@ -7,13 +7,13 @@ name: Logic Knot
 scryfall_id: 624feb0e-f683-4eb6-a63b-7872d0e28f1f
 set: tsr
 type: Instant
-meta_presence: 0.0036
+meta_presence: 0.0037
 archetypes:
   dimir-control:
     weight: 0.1728
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0098
+    weight: 0.0096
     avg_copies: 1.0
   izzet-wizards:
     weight: 0.3333
@@ -26,5 +26,5 @@ archetypes:
     avg_copies: 1.25
   unknown-192:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.5
 ---

@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0147
 archetypes:
   ruby-storm:
-    weight: 0.3614
+    weight: 0.3611
     avg_copies: 1.24
   mono-red-belcher:
     weight: 0.0769
@@ -19,7 +19,7 @@ archetypes:
     weight: 0.0079
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0028
+    weight: 0.0027
     avg_copies: 1.0
   rakdos-aggro:
     weight: 0.0526
@@ -34,6 +34,6 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-160:
-    weight: 0.012
+    weight: 0.0118
     avg_copies: 2.0
 ---

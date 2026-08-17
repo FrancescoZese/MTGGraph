@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.0198
 archetypes:
   eldrazi-tron:
-    weight: 0.0032
+    weight: 0.0031
     avg_copies: 1.0
   boros-ponza:
     weight: 0.4823
@@ -25,6 +25,6 @@ archetypes:
     weight: 1.0
     avg_copies: 3.68
   unknown-160:
-    weight: 0.4819
-    avg_copies: 1.1
+    weight: 0.4941
+    avg_copies: 1.09
 ---

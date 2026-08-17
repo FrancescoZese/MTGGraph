@@ -4,8 +4,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.05
   neoform-combo:
-    weight: 0.9903
-    avg_copies: 3.88
+    weight: 0.9907
+    avg_copies: 3.89
   mono-green-ramp:
     weight: 1.0
     avg_copies: 3.14
@@ -16,8 +16,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-126:
-    weight: 0.0588
-    avg_copies: 1.2
+    weight: 0.0753
+    avg_copies: 1.14
   unknown-153:
     weight: 1.0
     avg_copies: 3.0
@@ -36,7 +36,7 @@ archetypes:
 cmc: 0
 colors: []
 image: https://cards.scryfall.io/normal/front/e/e/ee0f88ac-8a90-4057-b0e6-c15fbd02da38.jpg?1619398774
-meta_presence: 0.0513
+meta_presence: 0.0518
 name: Summoner's Pact
 scryfall_id: ee0f88ac-8a90-4057-b0e6-c15fbd02da38
 set: tsr

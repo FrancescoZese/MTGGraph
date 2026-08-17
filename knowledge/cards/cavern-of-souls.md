@@ -9,16 +9,16 @@ type: Land
 meta_presence: 0.0692
 archetypes:
   eldrazi-tron:
-    weight: 0.0253
+    weight: 0.0249
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.0179
+    weight: 0.0178
     avg_copies: 1.0
   eldrazi-ramp:
     weight: 0.7302
     avg_copies: 1.04
   broodscale-combo:
-    weight: 0.7175
+    weight: 0.7194
     avg_copies: 1.34
   elves:
     weight: 1.0
@@ -36,7 +36,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.83
   unknown-61:
-    weight: 0.5102
+    weight: 0.5294
     avg_copies: 1.0
   unknown-76:
     weight: 0.3333

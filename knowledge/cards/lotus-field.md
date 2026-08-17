@@ -6,9 +6,9 @@ name: Lotus Field
 scryfall_id: ee5ac47c-e8b6-400e-b91e-a7cd0f952cf1
 set: soc
 type: Land
-meta_presence: 0.013
+meta_presence: 0.0128
 archetypes:
   amulet-titan:
-    weight: 0.5298
+    weight: 0.5266
     avg_copies: 2.0
 ---

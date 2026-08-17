@@ -7,16 +7,16 @@ name: Sheoldred's Edict
 scryfall_id: a9225cc3-90f0-448f-a8d9-7c6c2796d077
 set: one
 type: Instant
-meta_presence: 0.0431
+meta_presence: 0.0433
 archetypes:
   dimir-control:
     weight: 0.9012
     avg_copies: 2.07
   amulet-titan:
-    weight: 0.006
+    weight: 0.0059
     avg_copies: 2.0
   goryo:
-    weight: 0.0027
+    weight: 0.0026
     avg_copies: 1.0
   necrodominance:
     weight: 0.3111
@@ -34,7 +34,7 @@ archetypes:
     weight: 0.0588
     avg_copies: 2.0
   esper-blink:
-    weight: 0.0073
+    weight: 0.0068
     avg_copies: 2.0
   orzhov-blink:
     weight: 0.1765
@@ -52,8 +52,8 @@ archetypes:
     weight: 0.5
     avg_copies: 4.0
   goryo5:
-    weight: 0.7037
-    avg_copies: 1.23
+    weight: 0.7143
+    avg_copies: 1.22
   grixis-control:
     weight: 0.7143
     avg_copies: 1.43
@@ -73,8 +73,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.7083
-    avg_copies: 1.26
+    weight: 0.7162
+    avg_copies: 1.25
   unknown-56:
     weight: 1.0
     avg_copies: 2.0
@@ -85,7 +85,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-101:
-    weight: 0.2727
+    weight: 0.2609
     avg_copies: 1.0
   unknown-111:
     weight: 1.0

@@ -9,10 +9,10 @@ type: Land — Sphere
 meta_presence: 0.0162
 archetypes:
   amulet-titan:
-    weight: 0.5238
-    avg_copies: 1.81
+    weight: 0.5266
+    avg_copies: 1.8
   broodscale-combo:
-    weight: 0.0552
+    weight: 0.0581
     avg_copies: 1.0
   rakdos-lantern-combo:
     weight: 1.0

@@ -10,10 +10,10 @@ type: Creature — Angel
 meta_presence: 0.0004
 archetypes:
   goryo:
-    weight: 0.0027
+    weight: 0.0026
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0097
+    weight: 0.0093
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.0667

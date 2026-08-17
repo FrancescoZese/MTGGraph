@@ -7,7 +7,7 @@ name: Skyclave Apparition
 scryfall_id: e671de25-c47c-48a1-919b-6aa30dab142f
 set: soc
 type: Creature — Kor Spirit
-meta_presence: 0.0034
+meta_presence: 0.0035
 archetypes:
   samwise-combo:
     weight: 0.0145
@@ -30,4 +30,7 @@ archetypes:
   unknown-179:
     weight: 1.0
     avg_copies: 2.0
+  unknown-249:
+    weight: 1.0
+    avg_copies: 1.0
 ---

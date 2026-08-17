@@ -6,40 +6,46 @@ name: 'Unknown #236'
 meta_share: 0.0001
 list_count: 1
 top_cards:
-- name: Flooded Strand
-  weight: 1.0
-  avg_copies: 4.0
-- name: Phelia, Exuberant Shepherd
-  weight: 1.0
-  avg_copies: 4.0
 - name: Quantum Riddler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Solitude
-  weight: 1.0
-  avg_copies: 4.0
-- name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
 - name: Orim's Chant
   weight: 1.0
   avg_copies: 4.0
-- name: Floodfarm Verge
+- name: Solitude
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 4.0
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
+- name: Consign to Memory
+  weight: 1.0
+  avg_copies: 4.0
+- name: Phelia, Exuberant Shepherd
+  weight: 1.0
+  avg_copies: 4.0
 - name: Teferi, Time Raveler
-  weight: 1.0
-  avg_copies: 3.0
-- name: Spell Snare
   weight: 1.0
   avg_copies: 3.0
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 3.0
+- name: Spell Snare
+  weight: 1.0
+  avg_copies: 3.0
+- name: Floodfarm Verge
+  weight: 1.0
+  avg_copies: 3.0
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 3.0
-- name: Marsh Flats
+- name: Plains
+  weight: 1.0
+  avg_copies: 2.0
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 2.0
+- name: Clarion Conqueror
   weight: 1.0
   avg_copies: 2.0
 - name: Meticulous Archive
@@ -51,52 +57,25 @@ top_cards:
 - name: Lavinia, Azorius Renegade
   weight: 1.0
   avg_copies: 2.0
-- name: Clarion Conqueror
+- name: White Orchid Phantom
   weight: 1.0
   avg_copies: 2.0
-- name: Polluted Delta
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 2.0
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.0
-- name: Plains
-  weight: 1.0
-  avg_copies: 2.0
-- name: White Orchid Phantom
-  weight: 1.0
-  avg_copies: 2.0
-- name: Erode
+- name: No More Lies
   weight: 1.0
   avg_copies: 1.0
-- name: Faerie Macabre
-  weight: 1.0
-  avg_copies: 1.0
-- name: Prismatic Ending
-  weight: 1.0
-  avg_copies: 1.0
-- name: Ephemerate
+- name: Force of Negation
   weight: 1.0
   avg_copies: 1.0
 - name: Teferi, Hero of Dominaria
   weight: 1.0
   avg_copies: 1.0
-- name: Rest in Peace
-  weight: 1.0
-  avg_copies: 1.0
-- name: No More Lies
-  weight: 1.0
-  avg_copies: 1.0
-- name: The Wandering Emperor
-  weight: 1.0
-  avg_copies: 1.0
-- name: Sanctifier en-Vec
-  weight: 1.0
-  avg_copies: 1.0
-- name: Isochron Scepter
-  weight: 1.0
-  avg_copies: 1.0
-- name: Force of Negation
+- name: Erode
   weight: 1.0
   avg_copies: 1.0
 - name: Monumental Henge
@@ -106,6 +85,27 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Otawara, Soaring City
+  weight: 1.0
+  avg_copies: 1.0
+- name: Isochron Scepter
+  weight: 1.0
+  avg_copies: 1.0
+- name: Sanctifier en-Vec
+  weight: 1.0
+  avg_copies: 1.0
+- name: The Wandering Emperor
+  weight: 1.0
+  avg_copies: 1.0
+- name: Faerie Macabre
+  weight: 1.0
+  avg_copies: 1.0
+- name: Rest in Peace
+  weight: 1.0
+  avg_copies: 1.0
+- name: Ephemerate
+  weight: 1.0
+  avg_copies: 1.0
+- name: Prismatic Ending
   weight: 1.0
   avg_copies: 1.0
 ---

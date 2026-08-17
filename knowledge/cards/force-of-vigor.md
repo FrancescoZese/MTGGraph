@@ -7,22 +7,22 @@ name: Force of Vigor
 scryfall_id: 017c415b-d635-43c6-92b8-8c95d1c4ff8d
 set: mh1
 type: Instant
-meta_presence: 0.1135
+meta_presence: 0.1136
 archetypes:
   amulet-titan:
-    weight: 0.9881
+    weight: 0.9882
     avg_copies: 1.95
   hardened-scales:
     weight: 0.4
     avg_copies: 1.0
   living-end:
-    weight: 0.5067
-    avg_copies: 1.71
+    weight: 0.5132
+    avg_copies: 1.69
   neoform-combo:
-    weight: 0.0485
+    weight: 0.0463
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.9787
+    weight: 0.9789
     avg_copies: 1.86
   eldrazi-ramp:
     weight: 0.2222
@@ -37,7 +37,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.04
   broodscale-combo:
-    weight: 0.0292
+    weight: 0.029
     avg_copies: 1.44
   izzet-artifacts:
     weight: 0.0312
@@ -73,8 +73,8 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-61:
-    weight: 0.6429
-    avg_copies: 2.51
+    weight: 0.6569
+    avg_copies: 2.48
   unknown-65:
     weight: 0.9655
     avg_copies: 2.39
@@ -103,8 +103,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-126:
-    weight: 0.6118
-    avg_copies: 2.04
+    weight: 0.5914
+    avg_copies: 2.02
   unknown-130:
     weight: 1.0
     avg_copies: 2.0
@@ -153,4 +153,7 @@ archetypes:
   unknown-242:
     weight: 1.0
     avg_copies: 1.0
+  unknown-249:
+    weight: 1.0
+    avg_copies: 2.0
 ---

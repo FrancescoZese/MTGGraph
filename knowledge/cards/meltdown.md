@@ -7,13 +7,13 @@ name: Meltdown
 scryfall_id: 173369d2-dc39-4bfe-a602-b47156570365
 set: mh3
 type: Sorcery
-meta_presence: 0.1444
+meta_presence: 0.1439
 archetypes:
   ruby-storm:
-    weight: 0.1044
+    weight: 0.1032
     avg_copies: 1.31
   boros-energy:
-    weight: 0.0849
+    weight: 0.0844
     avg_copies: 1.28
   dimir-control:
     weight: 0.2716
@@ -25,13 +25,13 @@ archetypes:
     weight: 0.0667
     avg_copies: 1.67
   azorius-control:
-    weight: 0.0098
+    weight: 0.0096
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.069
+    weight: 0.0678
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0345
+    weight: 0.034
     avg_copies: 1.0
   mill:
     weight: 0.0278
@@ -55,8 +55,8 @@ archetypes:
     weight: 0.0417
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.9358
-    avg_copies: 1.85
+    weight: 0.9344
+    avg_copies: 1.86
   indomitable-creativity:
     weight: 0.2667
     avg_copies: 1.25
@@ -94,7 +94,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 2.0
   goryo1:
-    weight: 0.9667
+    weight: 0.9669
     avg_copies: 1.98
   grixis-control:
     weight: 1.0
@@ -139,7 +139,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-47:
-    weight: 0.0069
+    weight: 0.0068
     avg_copies: 2.0
   unknown-53:
     weight: 1.0
@@ -172,8 +172,8 @@ archetypes:
     weight: 0.8333
     avg_copies: 2.7
   unknown-96:
-    weight: 0.8444
-    avg_copies: 2.82
+    weight: 0.8125
+    avg_copies: 2.79
   unknown-90:
     weight: 1.0
     avg_copies: 1.0
@@ -181,8 +181,8 @@ archetypes:
     weight: 0.625
     avg_copies: 1.8
   unknown-101:
-    weight: 0.9545
-    avg_copies: 2.48
+    weight: 0.9565
+    avg_copies: 2.5
   unknown-104:
     weight: 1.0
     avg_copies: 1.0
@@ -211,7 +211,7 @@ archetypes:
     weight: 0.1
     avg_copies: 1.0
   unknown-149:
-    weight: 0.4545
+    weight: 0.4167
     avg_copies: 1.0
   unknown-147:
     weight: 1.0
@@ -226,7 +226,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-160:
-    weight: 0.012
+    weight: 0.0118
     avg_copies: 2.0
   unknown-161:
     weight: 1.0

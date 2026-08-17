@@ -6,11 +6,11 @@ name: Tezzeret, Cruel Captain
 scryfall_id: 02e8e540-8aa3-4e6a-9a11-c3949cab5f0f
 set: eoe
 type: Legendary Planeswalker — Tezzeret
-meta_presence: 0.0019
+meta_presence: 0.002
 archetypes:
   eldrazi-tron:
-    weight: 0.0222
-    avg_copies: 2.29
+    weight: 0.0249
+    avg_copies: 2.25
   unknown-59:
     weight: 1.0
     avg_copies: 1.0
@@ -18,7 +18,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-167:
-    weight: 0.125
+    weight: 0.1176
     avg_copies: 1.0
   unknown-223:
     weight: 1.0

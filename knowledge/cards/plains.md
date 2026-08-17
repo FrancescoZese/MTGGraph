@@ -6,19 +6,19 @@ name: Plains
 scryfall_id: d85d0f25-a24a-4de0-9b8b-93fb5017bce9
 set: sos
 type: Basic Land — Plains
-meta_presence: 0.3503
+meta_presence: 0.3507
 archetypes:
   boros-energy:
-    weight: 0.9817
+    weight: 0.9818
     avg_copies: 1.97
   jeskai-energy:
     weight: 0.8657
     avg_copies: 1.63
   eldrazi-tron:
-    weight: 0.0032
+    weight: 0.0031
     avg_copies: 3.0
   goryo:
-    weight: 0.9946
+    weight: 0.9948
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
@@ -40,7 +40,7 @@ archetypes:
     avg_copies: 1.22
   hammer-time:
     weight: 1.0
-    avg_copies: 2.62
+    avg_copies: 2.59
   boros-ponza:
     weight: 0.9858
     avg_copies: 3.42
@@ -48,8 +48,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   esper-blink:
-    weight: 0.9854
-    avg_copies: 1.55
+    weight: 0.9863
+    avg_copies: 1.56
   indomitable-creativity:
     weight: 0.5333
     avg_copies: 1.0
@@ -82,7 +82,7 @@ archetypes:
     avg_copies: 8.0
   goryo2:
     weight: 1.0
-    avg_copies: 1.12
+    avg_copies: 1.11
   goryo3:
     weight: 1.0
     avg_copies: 2.0
@@ -171,7 +171,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.0222
+    weight: 0.0208
     avg_copies: 1.0
   unknown-89:
     weight: 1.0
@@ -232,7 +232,7 @@ archetypes:
     avg_copies: 1.0
   unknown-149:
     weight: 1.0
-    avg_copies: 1.45
+    avg_copies: 1.5
   unknown-158:
     weight: 1.0
     avg_copies: 2.0
@@ -241,7 +241,7 @@ archetypes:
     avg_copies: 1.0
   unknown-160:
     weight: 1.0
-    avg_copies: 3.16
+    avg_copies: 3.15
   unknown-159:
     weight: 1.0
     avg_copies: 3.0
@@ -249,7 +249,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-167:
-    weight: 0.125
+    weight: 0.1176
     avg_copies: 1.0
   unknown-169:
     weight: 1.0
@@ -289,7 +289,7 @@ archetypes:
     avg_copies: 2.0
   unknown-192:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.5
   unknown-201:
     weight: 1.0
     avg_copies: 2.0
@@ -344,4 +344,10 @@ archetypes:
   unknown-242:
     weight: 1.0
     avg_copies: 2.0
+  unknown-249:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-250:
+    weight: 1.0
+    avg_copies: 1.0
 ---

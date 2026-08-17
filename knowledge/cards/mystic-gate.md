@@ -6,13 +6,13 @@ name: Mystic Gate
 scryfall_id: 6f99714f-43bc-4048-b650-97dfef4c10fe
 set: cmm
 type: Land
-meta_presence: 0.0226
+meta_presence: 0.0227
 archetypes:
   azorius-control:
-    weight: 0.902
-    avg_copies: 1.25
+    weight: 0.9038
+    avg_copies: 1.27
   jeskai-control:
-    weight: 0.3448
+    weight: 0.339
     avg_copies: 1.25
   bant-control:
     weight: 1.0
@@ -67,7 +67,7 @@ archetypes:
     avg_copies: 1.0
   unknown-192:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 2.0
   unknown-200:
     weight: 1.0
     avg_copies: 1.0

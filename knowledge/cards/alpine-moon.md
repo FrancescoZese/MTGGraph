@@ -13,9 +13,9 @@ archetypes:
     weight: 0.0013
     avg_copies: 3.0
   domain-zoo:
-    weight: 0.0069
+    weight: 0.0068
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0084
+    weight: 0.0082
     avg_copies: 1.67
 ---

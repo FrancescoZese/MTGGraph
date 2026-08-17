@@ -7,16 +7,19 @@ name: 'Unknown #117'
 meta_share: 0.0003
 list_count: 2
 top_cards:
-- name: Inti, Seneschal of the Sun
+- name: Ovalchase Daredevil
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Saga
+- name: Monument to Endurance
   weight: 1.0
   avg_copies: 4.0
-- name: Mox Opal
+- name: Asmoranomardicadaistinaculdacar
   weight: 1.0
   avg_copies: 4.0
 - name: Hardened Academic
+  weight: 1.0
+  avg_copies: 4.0
+- name: The Underworld Cookbook
   weight: 1.0
   avg_copies: 4.0
 - name: Arid Mesa
@@ -25,37 +28,28 @@ top_cards:
 - name: Galvanic Blast
   weight: 1.0
   avg_copies: 4.0
-- name: Asmoranomardicadaistinaculdacar
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
-- name: Ovalchase Daredevil
+- name: Inti, Seneschal of the Sun
   weight: 1.0
   avg_copies: 4.0
-- name: The Underworld Cookbook
+- name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
-- name: Monument to Endurance
-  weight: 1.0
-  avg_copies: 4.0
-- name: Artist's Talent
+- name: Wear
   weight: 1.0
   avg_copies: 2.0
 - name: Elegant Parlor
   weight: 1.0
   avg_copies: 2.0
-- name: Prismatic Ending
-  weight: 1.0
-  avg_copies: 2.0
-- name: Wear
-  weight: 1.0
-  avg_copies: 2.0
-- name: Vexing Bauble
+- name: Mountain
   weight: 1.0
   avg_copies: 2.0
 - name: Drannith Magistrate
   weight: 1.0
   avg_copies: 2.0
-- name: Mountain
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 2.0
 - name: Obsidian Charmaw
@@ -67,10 +61,16 @@ top_cards:
 - name: Relic of Progenitus
   weight: 1.0
   avg_copies: 2.0
-- name: Sacred Foundry
+- name: Artist's Talent
+  weight: 1.0
+  avg_copies: 2.0
+- name: Prismatic Ending
+  weight: 1.0
+  avg_copies: 2.0
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 1.5
-- name: Wooded Foothills
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.5
 - name: Faithless Looting
@@ -79,13 +79,13 @@ top_cards:
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.5
+- name: Plains
+  weight: 1.0
+  avg_copies: 1.0
 - name: Sokenzan, Crucible of Defiance
   weight: 1.0
   avg_copies: 1.0
 - name: Pithing Needle
-  weight: 1.0
-  avg_copies: 1.0
-- name: Plains
   weight: 1.0
   avg_copies: 1.0
 - name: Cool but Rude

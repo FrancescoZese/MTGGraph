@@ -13,10 +13,10 @@ archetypes:
     weight: 0.2099
     avg_copies: 1.0
   mono-blue-belcher:
-    weight: 0.1573
+    weight: 0.1556
     avg_copies: 1.0
   goryo:
-    weight: 0.0054
+    weight: 0.0052
     avg_copies: 1.5
   affinity:
     weight: 0.0019
@@ -31,13 +31,13 @@ archetypes:
     weight: 0.08
     avg_copies: 2.0
   hammer-time:
-    weight: 0.125
+    weight: 0.1176
     avg_copies: 1.33
   izzet-prowess:
-    weight: 0.8128
-    avg_copies: 1.62
+    weight: 0.8142
+    avg_copies: 1.61
   esper-blink:
-    weight: 0.0073
+    weight: 0.0068
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.2
@@ -58,10 +58,10 @@ archetypes:
     weight: 0.2
     avg_copies: 2.0
   goryo1:
-    weight: 0.8278
+    weight: 0.8287
     avg_copies: 1.75
   goryo2:
-    weight: 0.0476
+    weight: 0.0455
     avg_copies: 2.33
   grixis-control:
     weight: 0.1429
@@ -91,7 +91,7 @@ archetypes:
     weight: 0.0833
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0208
+    weight: 0.0203
     avg_copies: 1.0
   unknown-62:
     weight: 0.6061
@@ -118,7 +118,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-149:
-    weight: 0.4545
+    weight: 0.4167
     avg_copies: 1.2
   unknown-145:
     weight: 1.0

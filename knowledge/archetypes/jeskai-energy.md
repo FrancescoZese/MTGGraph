@@ -4,7 +4,7 @@ colors:
 - U
 - R
 name: Jeskai Energy
-meta_share: 0.0195
+meta_share: 0.0193
 list_count: 134
 top_cards:
 - name: Solitude
@@ -22,13 +22,13 @@ top_cards:
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.02
-- name: Hallowed Fountain
-  weight: 1.0
-  avg_copies: 1.01
 - name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.01
 - name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.01
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.01
 - name: Quantum Riddler
@@ -130,10 +130,10 @@ top_cards:
 - name: Snow-Covered Plains
   weight: 0.1343
   avg_copies: 1.83
-- name: The Legend of Roku
+- name: Riverpyre Verge
   weight: 0.1269
   avg_copies: 1.0
-- name: Riverpyre Verge
+- name: The Legend of Roku
   weight: 0.1269
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
@@ -175,10 +175,10 @@ top_cards:
 - name: Meltdown
   weight: 0.0299
   avg_copies: 1.0
-- name: Ghost Vacuum
+- name: card:king-t-challa
   weight: 0.0224
   avg_copies: 1.33
-- name: card:king-t-challa
+- name: Ghost Vacuum
   weight: 0.0224
   avg_copies: 1.33
 - name: Destroy Evil
@@ -190,58 +190,46 @@ top_cards:
 - name: Disruptor Flute
   weight: 0.0149
   avg_copies: 2.0
-- name: Stock Up
-  weight: 0.0149
-  avg_copies: 1.5
 - name: Containment Priest
-  weight: 0.0149
-  avg_copies: 1.5
-- name: Stony Silence
   weight: 0.0149
   avg_copies: 1.5
 - name: Mana Leak
   weight: 0.0149
   avg_copies: 1.5
+- name: Stony Silence
+  weight: 0.0149
+  avg_copies: 1.5
+- name: Stock Up
+  weight: 0.0149
+  avg_copies: 1.5
+- name: Elspeth, Sun's Nemesis
+  weight: 0.0149
+  avg_copies: 1.0
+- name: Floodfarm Verge
+  weight: 0.0149
+  avg_copies: 1.0
+- name: Ajani Vengeant
+  weight: 0.0149
+  avg_copies: 1.0
 - name: Wear
   weight: 0.0149
   avg_copies: 1.0
 - name: Jace, the Mind Sculptor
   weight: 0.0149
   avg_copies: 1.0
-- name: Ajani Vengeant
-  weight: 0.0149
-  avg_copies: 1.0
-- name: Floodfarm Verge
-  weight: 0.0149
-  avg_copies: 1.0
-- name: Elspeth, Sun's Nemesis
-  weight: 0.0149
-  avg_copies: 1.0
-- name: Wrenn and Six
+- name: Windswept Heath
   weight: 0.0075
   avg_copies: 3.0
 - name: Consult the Star Charts
   weight: 0.0075
   avg_copies: 3.0
-- name: Windswept Heath
+- name: Wrenn and Six
   weight: 0.0075
   avg_copies: 3.0
 - name: Misty Rainforest
   weight: 0.0075
   avg_copies: 3.0
-- name: Cryogen Relic
-  weight: 0.0075
-  avg_copies: 2.0
-- name: White Orchid Phantom
-  weight: 0.0075
-  avg_copies: 2.0
-- name: Isochron Scepter
-  weight: 0.0075
-  avg_copies: 2.0
-- name: Tune the Narrative
-  weight: 0.0075
-  avg_copies: 2.0
-- name: Witch Enchanter
+- name: Eternal Witness
   weight: 0.0075
   avg_copies: 2.0
 - name: Reprieve
@@ -250,19 +238,40 @@ top_cards:
 - name: Mana Tithe
   weight: 0.0075
   avg_copies: 2.0
-- name: Eternal Witness
+- name: Isochron Scepter
+  weight: 0.0075
+  avg_copies: 2.0
+- name: Cryogen Relic
+  weight: 0.0075
+  avg_copies: 2.0
+- name: Witch Enchanter
   weight: 0.0075
   avg_copies: 2.0
 - name: Boseiju, Who Endures
   weight: 0.0075
   avg_copies: 2.0
-- name: Hedge Maze
+- name: Tune the Narrative
+  weight: 0.0075
+  avg_copies: 2.0
+- name: White Orchid Phantom
+  weight: 0.0075
+  avg_copies: 2.0
+- name: Subtlety
+  weight: 0.0075
+  avg_copies: 1.0
+- name: Omnath, Locus of Creation
   weight: 0.0075
   avg_copies: 1.0
 - name: card:mj-lnir-hammer-of-thor
   weight: 0.0075
   avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Suncleanser
+  weight: 0.0075
+  avg_copies: 1.0
+- name: Hedge Maze
+  weight: 0.0075
+  avg_copies: 1.0
+- name: Supreme Verdict
   weight: 0.0075
   avg_copies: 1.0
 - name: Stomping Ground
@@ -271,31 +280,22 @@ top_cards:
 - name: The Wandering Emperor
   weight: 0.0075
   avg_copies: 1.0
-- name: Lush Portico
+- name: Breeding Pool
   weight: 0.0075
   avg_copies: 1.0
-- name: Suncleanser
+- name: Nihil Spellbomb
   weight: 0.0075
   avg_copies: 1.0
 - name: Temple Garden
+  weight: 0.0075
+  avg_copies: 1.0
+- name: Lush Portico
   weight: 0.0075
   avg_copies: 1.0
 - name: Brotherhood's End
   weight: 0.0075
   avg_copies: 1.0
 - name: Fire Magic
-  weight: 0.0075
-  avg_copies: 1.0
-- name: Supreme Verdict
-  weight: 0.0075
-  avg_copies: 1.0
-- name: Omnath, Locus of Creation
-  weight: 0.0075
-  avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.0075
-  avg_copies: 1.0
-- name: Subtlety
   weight: 0.0075
   avg_copies: 1.0
 ---

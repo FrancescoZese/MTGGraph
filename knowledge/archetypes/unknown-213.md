@@ -6,19 +6,19 @@ name: 'Unknown #213'
 meta_share: 0.001
 list_count: 7
 top_cards:
-- name: Urza's Saga
-  weight: 1.0
-  avg_copies: 4.0
 - name: Emry, Lurker of the Loch
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Tamiyo, Inquisitive Student
+  weight: 1.0
+  avg_copies: 4.0
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: card:oswald-fiddlebender
   weight: 1.0
   avg_copies: 4.0
-- name: Tamiyo, Inquisitive Student
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Opal
@@ -51,12 +51,6 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.57
-- name: Shadowspear
-  weight: 1.0
-  avg_copies: 1.0
-- name: Skateboard
-  weight: 1.0
-  avg_copies: 1.0
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 1.0
@@ -69,28 +63,34 @@ top_cards:
 - name: Grinding Station
   weight: 1.0
   avg_copies: 1.0
+- name: Skateboard
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shadowspear
+  weight: 1.0
+  avg_copies: 1.0
 - name: Flooded Strand
   weight: 0.8571
   avg_copies: 1.67
 - name: Disruptor Flute
   weight: 0.8571
   avg_copies: 1.0
-- name: Cryogen Relic
+- name: Aether Spellbomb
   weight: 0.8571
   avg_copies: 1.0
 - name: Scalding Tarn
   weight: 0.8571
   avg_copies: 1.0
-- name: Aether Spellbomb
+- name: Otawara, Soaring City
   weight: 0.8571
   avg_copies: 1.0
-- name: Minamo, School at Water's Edge
+- name: Cryogen Relic
   weight: 0.8571
   avg_copies: 1.0
 - name: Nettlecyst
   weight: 0.8571
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Minamo, School at Water's Edge
   weight: 0.8571
   avg_copies: 1.0
 - name: Force of Negation
@@ -102,13 +102,13 @@ top_cards:
 - name: card:thopter-foundry
   weight: 0.7143
   avg_copies: 1.0
-- name: Misty Rainforest
-  weight: 0.7143
-  avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.7143
   avg_copies: 1.0
 - name: card:sword-of-the-meek
+  weight: 0.7143
+  avg_copies: 1.0
+- name: Misty Rainforest
   weight: 0.7143
   avg_copies: 1.0
 - name: Polluted Delta
@@ -123,10 +123,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.2857
   avg_copies: 1.5
-- name: Tormod's Crypt
+- name: Plains
   weight: 0.2857
   avg_copies: 1.0
-- name: Plains
+- name: Tormod's Crypt
   weight: 0.2857
   avg_copies: 1.0
 - name: Meticulous Archive
@@ -138,37 +138,37 @@ top_cards:
 - name: Erode
   weight: 0.1429
   avg_copies: 2.0
-- name: Ratchet Bomb
+- name: card:sculpting-steel
   weight: 0.1429
   avg_copies: 1.0
 - name: Dusk Rose Reliquary
   weight: 0.1429
   avg_copies: 1.0
-- name: Hope of Ghirapur
-  weight: 0.1429
-  avg_copies: 1.0
-- name: card:sculpting-steel
-  weight: 0.1429
-  avg_copies: 1.0
-- name: card:scrabbling-claws
+- name: Welding Jar
   weight: 0.1429
   avg_copies: 1.0
 - name: card:combat-courier
   weight: 0.1429
   avg_copies: 1.0
-- name: card:barbed-spike
+- name: Haywire Mite
+  weight: 0.1429
+  avg_copies: 1.0
+- name: card:scrabbling-claws
   weight: 0.1429
   avg_copies: 1.0
 - name: Breeding Pool
   weight: 0.1429
   avg_copies: 1.0
-- name: Welding Jar
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Relic of Progenitus
   weight: 0.1429
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Hope of Ghirapur
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Ratchet Bomb
+  weight: 0.1429
+  avg_copies: 1.0
+- name: card:barbed-spike
   weight: 0.1429
   avg_copies: 1.0
 ---

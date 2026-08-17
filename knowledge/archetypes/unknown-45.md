@@ -3,16 +3,16 @@ colors:
 - U
 - B
 name: 'Unknown #45'
-meta_share: 0.0044
+meta_share: 0.0043
 list_count: 30
 top_cards:
+- name: Stitcher's Supplier
+  weight: 1.0
+  avg_copies: 4.0
 - name: Eyetwitch
   weight: 1.0
   avg_copies: 4.0
 - name: Archon of Cruelty
-  weight: 1.0
-  avg_copies: 4.0
-- name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
 - name: Swamp
@@ -60,10 +60,10 @@ top_cards:
 - name: Origin of Metalbending
   weight: 0.9667
   avg_copies: 1.03
-- name: Underground Mortuary
+- name: True Ancestry
   weight: 0.9667
   avg_copies: 1.0
-- name: True Ancestry
+- name: Underground Mortuary
   weight: 0.9667
   avg_copies: 1.0
 - name: Thoughtseize
@@ -78,10 +78,10 @@ top_cards:
 - name: Force of Despair
   weight: 0.9
   avg_copies: 1.46
-- name: Bone Shards
+- name: Dai Li Indoctrination
   weight: 0.9
   avg_copies: 1.0
-- name: Dai Li Indoctrination
+- name: Bone Shards
   weight: 0.9
   avg_copies: 1.0
 - name: Street Wraith
@@ -117,10 +117,10 @@ top_cards:
 - name: Culling Ritual
   weight: 0.2667
   avg_copies: 1.88
-- name: Faerie Macabre
+- name: Takenuma, Abandoned Mire
   weight: 0.2667
   avg_copies: 1.0
-- name: Takenuma, Abandoned Mire
+- name: Faerie Macabre
   weight: 0.2667
   avg_copies: 1.0
 - name: Dawnhand Dissident
@@ -147,31 +147,31 @@ top_cards:
 - name: Revitalizing Repast
   weight: 0.1
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Ashiok, Dream Render
   weight: 0.0667
   avg_copies: 1.5
 - name: Mai, Scornful Striker
   weight: 0.0667
   avg_copies: 1.5
-- name: Ashiok, Dream Render
+- name: Blood Crypt
   weight: 0.0667
   avg_copies: 1.5
-- name: Harvester of Misery
+- name: card:summon-bahamut
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Redirect Lightning
   weight: 0.0667
   avg_copies: 1.0
 - name: Plague Engineer
   weight: 0.0667
   avg_copies: 1.0
-- name: Cling to Dust
-  weight: 0.0667
-  avg_copies: 1.0
 - name: Forest
   weight: 0.0667
   avg_copies: 1.0
-- name: card:summon-bahamut
+- name: Harvester of Misery
   weight: 0.0667
   avg_copies: 1.0
-- name: Redirect Lightning
+- name: Cling to Dust
   weight: 0.0667
   avg_copies: 1.0
 - name: Price of Freedom
@@ -180,7 +180,22 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.0333
   avg_copies: 2.0
+- name: Chthonian Nightmare
+  weight: 0.0333
+  avg_copies: 1.0
+- name: card:the-terminus-of-return
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Damping Sphere
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Liliana, the Last Hope
+  weight: 0.0333
+  avg_copies: 1.0
 - name: Improvisation Capstone
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Vampire Hexmage
   weight: 0.0333
   avg_copies: 1.0
 - name: Tormod's Crypt
@@ -189,25 +204,10 @@ top_cards:
 - name: card:victimize
   weight: 0.0333
   avg_copies: 1.0
-- name: Damping Sphere
+- name: Iroh's Demonstration
   weight: 0.0333
   avg_copies: 1.0
 - name: Raucous Theater
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Vampire Hexmage
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Chthonian Nightmare
-  weight: 0.0333
-  avg_copies: 1.0
-- name: card:the-terminus-of-return
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Liliana, the Last Hope
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Iroh's Demonstration
   weight: 0.0333
   avg_copies: 1.0
 ---

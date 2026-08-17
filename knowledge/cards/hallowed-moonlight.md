@@ -7,16 +7,16 @@ name: Hallowed Moonlight
 scryfall_id: 94fd0c0f-4a6a-47cf-9f50-df0bbf19aae4
 set: ori
 type: Instant
-meta_presence: 0.0028
+meta_presence: 0.0027
 archetypes:
   boros-energy:
     weight: 0.0052
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0588
+    weight: 0.0577
     avg_copies: 1.17
   jeskai-control:
-    weight: 0.0172
+    weight: 0.0169
     avg_copies: 1.0
   goryo7:
     weight: 1.0
@@ -31,9 +31,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.0222
+    weight: 0.0208
     avg_copies: 2.0
   unknown-160:
-    weight: 0.012
+    weight: 0.0118
     avg_copies: 1.0
 ---

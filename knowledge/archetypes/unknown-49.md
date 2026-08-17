@@ -3,8 +3,8 @@ colors:
 - U
 - R
 name: 'Unknown #49'
-meta_share: 0.0012
-list_count: 8
+meta_share: 0.0013
+list_count: 9
 top_cards:
 - name: Pinnacle Emissary
   weight: 1.0
@@ -15,27 +15,27 @@ top_cards:
 - name: Kappa Cannoneer
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Fiery Islet
   weight: 1.0
   avg_copies: 4.0
-- name: Fiery Islet
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Tormod's Crypt
   weight: 1.0
-  avg_copies: 3.88
-- name: Urza's Saga
-  weight: 1.0
-  avg_copies: 3.75
-- name: Engineered Explosives
-  weight: 1.0
-  avg_copies: 3.75
+  avg_copies: 3.89
 - name: Welding Jar
   weight: 1.0
-  avg_copies: 3.75
+  avg_copies: 3.78
+- name: Urza's Saga
+  weight: 1.0
+  avg_copies: 3.78
+- name: Engineered Explosives
+  weight: 1.0
+  avg_copies: 3.44
 - name: Mox Opal
   weight: 1.0
-  avg_copies: 3.25
+  avg_copies: 3.33
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 3.0
@@ -43,91 +43,91 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Galvanic Blast
-  weight: 0.875
-  avg_copies: 3.57
+  weight: 0.8889
+  avg_copies: 3.62
 - name: Emry, Lurker of the Loch
-  weight: 0.875
-  avg_copies: 2.38
+  weight: 0.8889
+  avg_copies: 2.44
 - name: Metallic Rebuke
-  weight: 0.875
-  avg_copies: 2.18
+  weight: 0.8889
+  avg_copies: 2.08
 - name: Island
-  weight: 0.875
-  avg_copies: 1.86
+  weight: 0.8889
+  avg_copies: 1.75
 - name: Shivan Reef
-  weight: 0.875
-  avg_copies: 1.29
-- name: Skateboard
-  weight: 0.875
+  weight: 0.8889
+  avg_copies: 1.25
+- name: Pithing Needle
+  weight: 0.8889
   avg_copies: 1.0
 - name: Steam Vents
-  weight: 0.875
+  weight: 0.8889
   avg_copies: 1.0
-- name: Pithing Needle
-  weight: 0.875
+- name: Skateboard
+  weight: 0.8889
   avg_copies: 1.0
 - name: Thoughtcast
-  weight: 0.75
-  avg_copies: 3.33
+  weight: 0.7778
+  avg_copies: 3.29
 - name: Consign to Memory
-  weight: 0.75
-  avg_copies: 2.83
+  weight: 0.7778
+  avg_copies: 3.0
 - name: Sink into Stupor
-  weight: 0.75
+  weight: 0.7778
   avg_copies: 2.0
 - name: Vexing Bauble
-  weight: 0.75
+  weight: 0.7778
   avg_copies: 1.0
 - name: Weapons Manufacturing
-  weight: 0.625
+  weight: 0.5556
   avg_copies: 2.86
+- name: Memnite
+  weight: 0.5556
+  avg_copies: 2.8
 - name: Claws of Gix
-  weight: 0.625
+  weight: 0.5556
   avg_copies: 2.6
 - name: Whipflare
-  weight: 0.625
+  weight: 0.5556
   avg_copies: 1.4
-- name: Memnite
-  weight: 0.5
-  avg_copies: 2.75
 - name: Blood Moon
-  weight: 0.5
+  weight: 0.5556
   avg_copies: 1.0
 - name: Hurkyl's Recall
-  weight: 0.375
-  avg_copies: 1.67
+  weight: 0.4444
+  avg_copies: 1.5
 - name: Grafdigger's Cage
-  weight: 0.25
+  weight: 0.2222
   avg_copies: 2.0
 - name: Aether Spellbomb
-  weight: 0.25
+  weight: 0.2222
   avg_copies: 1.0
 - name: Snow-Covered Island
-  weight: 0.125
+  weight: 0.1111
   avg_copies: 3.0
-- name: Disruptor Flute
-  weight: 0.125
-  avg_copies: 2.0
 - name: Harbinger of the Seas
-  weight: 0.125
+  weight: 0.1111
   avg_copies: 2.0
-- name: Experimental Synthesizer
-  weight: 0.125
+- name: Disruptor Flute
+  weight: 0.1111
   avg_copies: 2.0
 - name: Salvage Titan
-  weight: 0.125
+  weight: 0.1111
   avg_copies: 2.0
+- name: Experimental Synthesizer
+  weight: 0.1111
+  avg_copies: 2.0
+- name: Strix Serenade
+  weight: 0.1111
+  avg_copies: 1.0
 - name: Lavaspur Boots
-  weight: 0.125
+  weight: 0.1111
   avg_copies: 1.0
 - name: Mystical Dispute
-  weight: 0.125
+  weight: 0.1111
   avg_copies: 1.0
 - name: Spell Snare
-  weight: 0.125
-  avg_copies: 1.0
-- name: Strix Serenade
-  weight: 0.125
+  weight: 0.1111
   avg_copies: 1.0
 ---
 Unclassified archetype, pending review.

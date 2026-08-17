@@ -11,22 +11,22 @@ top_cards:
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 4.0
-- name: Force of Negation
-  weight: 1.0
-  avg_copies: 4.0
-- name: Disrupting Shoal
+- name: Archmage's Charm
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Archmage's Charm
+- name: Force of Negation
   weight: 1.0
   avg_copies: 4.0
 - name: card:namor-the-sub-mariner
   weight: 1.0
   avg_copies: 4.0
 - name: Counterspell
+  weight: 1.0
+  avg_copies: 4.0
+- name: Disrupting Shoal
   weight: 1.0
   avg_copies: 4.0
 - name: Lórien Revealed
@@ -38,13 +38,13 @@ top_cards:
 - name: Ghost Vacuum
   weight: 1.0
   avg_copies: 2.5
-- name: Hall of Storm Giants
-  weight: 1.0
-  avg_copies: 2.0
 - name: Stern Scolding
   weight: 1.0
   avg_copies: 2.0
 - name: Chalice of the Void
+  weight: 1.0
+  avg_copies: 2.0
+- name: Hall of Storm Giants
   weight: 1.0
   avg_copies: 2.0
 - name: Otawara, Soaring City
@@ -71,25 +71,25 @@ top_cards:
 - name: Vodalian Hexcatcher
   weight: 0.5
   avg_copies: 4.0
-- name: Flow State
-  weight: 0.25
-  avg_copies: 4.0
 - name: card:spreading-seas
   weight: 0.25
   avg_copies: 4.0
-- name: Shadow of Doubt
+- name: Flow State
+  weight: 0.25
+  avg_copies: 4.0
+- name: Engineered Explosives
   weight: 0.25
   avg_copies: 3.0
-- name: Engineered Explosives
+- name: Shadow of Doubt
   weight: 0.25
   avg_copies: 3.0
 - name: Svyelun of Sea and Sky
   weight: 0.25
   avg_copies: 2.0
-- name: Preordain
+- name: Tamiyo, Inquisitive Student
   weight: 0.25
   avg_copies: 2.0
-- name: Tamiyo, Inquisitive Student
+- name: Preordain
   weight: 0.25
   avg_copies: 2.0
 - name: Floodpits Drowner
@@ -98,16 +98,16 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.25
   avg_copies: 1.0
-- name: The Filigree Sylex
-  weight: 0.25
-  avg_copies: 1.0
-- name: Steam Vents
-  weight: 0.25
-  avg_copies: 1.0
 - name: Propaganda
   weight: 0.25
   avg_copies: 1.0
 - name: Strix Serenade
+  weight: 0.25
+  avg_copies: 1.0
+- name: The Filigree Sylex
+  weight: 0.25
+  avg_copies: 1.0
+- name: Steam Vents
   weight: 0.25
   avg_copies: 1.0
 ---

@@ -16,10 +16,10 @@ top_cards:
 - name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 3.85
-- name: Marsh Flats
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 3.75
-- name: Arid Mesa
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 3.75
 - name: Galvanic Discharge
@@ -40,10 +40,10 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.05
-- name: Elegant Parlor
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
@@ -124,10 +124,10 @@ top_cards:
 - name: End of the Hunt
   weight: 0.275
   avg_copies: 1.09
-- name: Orim's Chant
+- name: Surgical Extraction
   weight: 0.25
   avg_copies: 1.3
-- name: Surgical Extraction
+- name: Orim's Chant
   weight: 0.25
   avg_copies: 1.3
 - name: Prismatic Ending
@@ -160,10 +160,10 @@ top_cards:
 - name: Deafening Silence
   weight: 0.1
   avg_copies: 1.75
-- name: Ghost Vacuum
+- name: Meltdown
   weight: 0.1
   avg_copies: 1.0
-- name: Meltdown
+- name: Ghost Vacuum
   weight: 0.1
   avg_copies: 1.0
 - name: Windswept Heath
@@ -202,19 +202,19 @@ top_cards:
 - name: Path to Exile
   weight: 0.025
   avg_copies: 2.0
-- name: Clarion Conqueror
+- name: Static Prison
   weight: 0.025
   avg_copies: 1.0
 - name: Sunbaked Canyon
   weight: 0.025
   avg_copies: 1.0
-- name: Faerie Macabre
-  weight: 0.025
-  avg_copies: 1.0
-- name: Static Prison
+- name: Clarion Conqueror
   weight: 0.025
   avg_copies: 1.0
 - name: Stony Silence
+  weight: 0.025
+  avg_copies: 1.0
+- name: Faerie Macabre
   weight: 0.025
   avg_copies: 1.0
 ---

@@ -13,13 +13,13 @@ archetypes:
     weight: 0.963
     avg_copies: 3.58
   goryo:
-    weight: 0.0027
+    weight: 0.0026
     avg_copies: 1.5
   necrodominance:
     weight: 1.0
     avg_copies: 3.69
   domain-zoo:
-    weight: 0.0621
+    weight: 0.0612
     avg_copies: 2.33
   reanimator:
     weight: 0.1481
@@ -31,14 +31,14 @@ archetypes:
     weight: 0.6765
     avg_copies: 3.26
   yawgmoth-combo:
-    weight: 0.5213
-    avg_copies: 1.66
+    weight: 0.5263
+    avg_copies: 1.65
   simic-ritual:
     weight: 0.0521
     avg_copies: 3.2
   esper-blink:
-    weight: 0.2847
-    avg_copies: 2.05
+    weight: 0.274
+    avg_copies: 2.02
   samwise-combo:
     weight: 0.6812
     avg_copies: 1.96
@@ -52,13 +52,13 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   goryo1:
-    weight: 0.0056
+    weight: 0.0055
     avg_copies: 1.0
   goryo5:
     weight: 1.0
-    avg_copies: 3.43
+    avg_copies: 3.34
   goryo2:
-    weight: 0.4762
+    weight: 0.4545
     avg_copies: 2.0
   soultrader-combo:
     weight: 1.0
@@ -83,7 +83,7 @@ archetypes:
     avg_copies: 2.0
   unknown-24:
     weight: 1.0
-    avg_copies: 2.77
+    avg_copies: 2.79
   unknown-27:
     weight: 1.0
     avg_copies: 4.0
@@ -107,7 +107,7 @@ archetypes:
     avg_copies: 3.5
   unknown-47:
     weight: 1.0
-    avg_copies: 3.17
+    avg_copies: 3.14
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
@@ -139,14 +139,14 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-96:
-    weight: 0.0444
+    weight: 0.0417
     avg_copies: 2.0
   unknown-100:
     weight: 0.5
     avg_copies: 2.0
   unknown-101:
-    weight: 0.8636
-    avg_copies: 3.84
+    weight: 0.8696
+    avg_copies: 3.85
   unknown-105:
     weight: 1.0
     avg_copies: 1.5

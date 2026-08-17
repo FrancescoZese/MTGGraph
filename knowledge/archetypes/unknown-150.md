@@ -8,31 +8,31 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 4.67
-- name: Kozilek's Command
-  weight: 1.0
-  avg_copies: 4.0
-- name: Stock Up
-  weight: 1.0
-  avg_copies: 4.0
 - name: Force of Negation
   weight: 1.0
   avg_copies: 4.0
 - name: Expedition Map
   weight: 1.0
   avg_copies: 4.0
-- name: Portent of Calamity
+- name: Stock Up
   weight: 1.0
-  avg_copies: 3.33
+  avg_copies: 4.0
+- name: Kozilek's Command
+  weight: 1.0
+  avg_copies: 4.0
 - name: Subtlety
   weight: 1.0
   avg_copies: 3.33
-- name: Urza's Power Plant
+- name: Portent of Calamity
+  weight: 1.0
+  avg_copies: 3.33
+- name: Urza's Mine
   weight: 1.0
   avg_copies: 3.0
 - name: Urza's Tower
   weight: 1.0
   avg_copies: 3.0
-- name: Urza's Mine
+- name: Urza's Power Plant
   weight: 1.0
   avg_copies: 3.0
 - name: Lórien Revealed
@@ -71,13 +71,13 @@ top_cards:
 - name: Hurkyl's Recall
   weight: 0.6667
   avg_copies: 2.0
+- name: Stern Scolding
+  weight: 0.6667
+  avg_copies: 2.0
 - name: Ugin, Eye of the Storms
   weight: 0.6667
   avg_copies: 2.0
 - name: Unable to Scream
-  weight: 0.6667
-  avg_copies: 2.0
-- name: Stern Scolding
   weight: 0.6667
   avg_copies: 2.0
 - name: Flusterstorm
@@ -92,19 +92,19 @@ top_cards:
 - name: card:one-with-the-multiverse
   weight: 0.3333
   avg_copies: 2.0
-- name: Relic of Progenitus
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Snow-Covered Island
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Agna Qel'a
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Talisman of Curiosity
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Relic of Progenitus
   weight: 0.3333
   avg_copies: 1.0
 - name: Talisman of Progress
   weight: 0.3333
   avg_copies: 1.0
-- name: Talisman of Curiosity
+- name: Snow-Covered Island
   weight: 0.3333
   avg_copies: 1.0
 ---

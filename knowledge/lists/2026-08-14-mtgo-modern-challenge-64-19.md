@@ -1,0 +1,51 @@
+---
+archetype: unknown-126
+date: '2026-08-14'
+finish: 3rd
+pilot: Capitano_CL
+source: MTGO Modern Challenge 64
+---
+
+
+# Mainboard
+1 Agatha's Soul Cauldron
+2 Shang-Chi, Master of Kung Fu
+1 Beastrider Vanguard
+1 Boseiju, Who Endures
+1 Summoner's Pact
+4 Devoted Druid
+4 Delighted Halfling
+4 Green Sun's Zenith
+1 Fiend Artisan
+3 Forest
+4 Leyline of Abundance
+2 Verdant Catacombs
+2 Overgrown Tomb
+4 Nature's Rhythm
+1 Nurturing Peatland
+1 Ouroboroid
+2 Windswept Heath
+4 Tyvar, Jubilant Brawler
+1 Underground Mortuary
+2 Wooded Foothills
+1 Vizier of Remedies
+1 Walking Ballista
+1 Temple Garden
+4 Badgermole Cub
+1 Horizon Canopy
+2 Birds of Paradise
+2 Dryad Arbor
+3 Misty Rainforest
+
+# Sideboard
+1 Agatha's Soul Cauldron
+1 Collector Ouphe
+1 Crystal Barricade
+1 Dewdrop Cure
+1 Drannith Magistrate
+2 Fatal Push
+1 Grist, the Hunger Tide
+1 Keen-Eyed Curator
+2 Vexing Bauble
+3 Thoughtseize
+1 Guerrilla Gorilla
