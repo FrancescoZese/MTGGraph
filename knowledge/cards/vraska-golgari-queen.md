@@ -11,6 +11,6 @@ type: Legendary Planeswalker — Vraska
 meta_presence: 0.0001
 archetypes:
   samwise-combo:
-    weight: 0.0145
+    weight: 0.0143
     avg_copies: 1.0
 ---

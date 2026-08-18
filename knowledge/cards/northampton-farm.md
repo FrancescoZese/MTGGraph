@@ -6,13 +6,13 @@ name: Northampton Farm
 scryfall_id: dbca168e-095f-4fbc-88f8-3048d83caf94
 set: tmt
 type: Land
-meta_presence: 0.0009
+meta_presence: 0.0008
 archetypes:
   amulet-titan:
     weight: 0.0118
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0205
+    weight: 0.0196
     avg_copies: 2.0
   unknown-193:
     weight: 1.0

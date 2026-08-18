@@ -6,16 +6,16 @@ name: 'Unknown #122'
 meta_share: 0.004
 list_count: 28
 top_cards:
-- name: Dragon's Rage Channeler
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
-- name: Cori-Steel Cutter
+- name: Preordain
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Preordain
+- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Lava Dart
@@ -114,13 +114,13 @@ top_cards:
 - name: Thoughtseize
   weight: 0.1071
   avg_copies: 4.0
+- name: Spell Snare
+  weight: 0.1071
+  avg_copies: 2.0
 - name: Chalice of the Void
   weight: 0.1071
   avg_copies: 2.0
 - name: Mystical Dispute
-  weight: 0.1071
-  avg_copies: 2.0
-- name: Spell Snare
   weight: 0.1071
   avg_copies: 2.0
 - name: Ragavan, Nimble Pilferer
@@ -135,16 +135,16 @@ top_cards:
 - name: Octopus Form
   weight: 0.1071
   avg_copies: 1.0
-- name: Blood Crypt
-  weight: 0.1071
-  avg_copies: 1.0
-- name: Price of Freedom
+- name: Iroh's Demonstration
   weight: 0.1071
   avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.1071
   avg_copies: 1.0
-- name: Iroh's Demonstration
+- name: Price of Freedom
+  weight: 0.1071
+  avg_copies: 1.0
+- name: Blood Crypt
   weight: 0.1071
   avg_copies: 1.0
 - name: Nihil Spellbomb
@@ -162,13 +162,13 @@ top_cards:
 - name: Fire-Brained Scheme
   weight: 0.0357
   avg_copies: 3.0
-- name: Vexing Bauble
-  weight: 0.0357
-  avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.0357
   avg_copies: 2.0
 - name: Wear
+  weight: 0.0357
+  avg_copies: 2.0
+- name: Vexing Bauble
   weight: 0.0357
   avg_copies: 2.0
 - name: Misty Rainforest
@@ -180,13 +180,13 @@ top_cards:
 - name: Redirect Lightning
   weight: 0.0357
   avg_copies: 1.0
+- name: Fire Magic
+  weight: 0.0357
+  avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.0357
   avg_copies: 1.0
 - name: Accumulate Wisdom
-  weight: 0.0357
-  avg_copies: 1.0
-- name: Fire Magic
   weight: 0.0357
   avg_copies: 1.0
 ---

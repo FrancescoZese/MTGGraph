@@ -12,16 +12,16 @@ archetypes:
     weight: 0.5185
     avg_copies: 1.69
   mono-blue-belcher:
-    weight: 0.8
-    avg_copies: 1.94
+    weight: 0.8022
+    avg_copies: 1.96
   eldrazi-tron:
-    weight: 0.1433
+    weight: 0.142
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.0237
+    weight: 0.0235
     avg_copies: 1.25
   goryo:
-    weight: 0.0105
+    weight: 0.0103
     avg_copies: 1.0
   necrodominance:
     weight: 0.2222
@@ -33,13 +33,13 @@ archetypes:
     weight: 0.3056
     avg_copies: 1.27
   mono-blue-tron:
-    weight: 0.48
+    weight: 0.4615
     avg_copies: 2.08
   boros-ponza:
     weight: 0.0993
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.1111
+    weight: 0.1163
     avg_copies: 1.0
   simic-ritual:
     weight: 0.0104
@@ -60,7 +60,7 @@ archetypes:
     weight: 0.0526
     avg_copies: 1.0
   goryo1:
-    weight: 0.0773
+    weight: 0.0769
     avg_copies: 1.07
   goryo7:
     weight: 1.0
@@ -72,13 +72,13 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   unknown-6:
-    weight: 0.9375
-    avg_copies: 1.59
+    weight: 0.9412
+    avg_copies: 1.56
   unknown-1:
-    weight: 0.4545
+    weight: 0.5
     avg_copies: 2.0
   unknown-15:
-    weight: 0.3333
+    weight: 0.2941
     avg_copies: 1.0
   unknown-20:
     weight: 0.3333
@@ -111,8 +111,8 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.0
   unknown-47:
-    weight: 0.8716
-    avg_copies: 2.05
+    weight: 0.8636
+    avg_copies: 2.06
   unknown-48:
     weight: 0.5
     avg_copies: 1.0
@@ -123,7 +123,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-59:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 1.0
   unknown-86:
     weight: 0.0833
@@ -144,8 +144,8 @@ archetypes:
     weight: 0.4545
     avg_copies: 2.0
   unknown-139:
-    weight: 0.9
-    avg_copies: 2.22
+    weight: 0.9091
+    avg_copies: 2.2
   unknown-146:
     weight: 1.0
     avg_copies: 1.0
@@ -159,7 +159,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   unknown-160:
-    weight: 0.1412
+    weight: 0.1395
     avg_copies: 1.0
   unknown-162:
     weight: 1.0

@@ -14,7 +14,7 @@ archetypes:
     weight: 0.0075
     avg_copies: 3.0
   eldrazi-ramp:
-    weight: 0.0079
+    weight: 0.0078
     avg_copies: 2.0
   4c-omnath:
     weight: 0.25
@@ -35,7 +35,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-6:
-    weight: 0.375
+    weight: 0.4118
     avg_copies: 1.0
   unknown-8:
     weight: 1.0
@@ -44,7 +44,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.5
   unknown-59:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 2.0
   unknown-93:
     weight: 1.0

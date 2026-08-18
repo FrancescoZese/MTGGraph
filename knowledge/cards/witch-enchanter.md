@@ -9,10 +9,10 @@ type: Creature — Human Warlock // Land
 meta_presence: 0.059
 archetypes:
   boros-energy:
-    weight: 0.0455
+    weight: 0.0453
     avg_copies: 1.06
   mono-blue-belcher:
-    weight: 0.0111
+    weight: 0.011
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.0075
@@ -34,7 +34,7 @@ archetypes:
     avg_copies: 1.67
   esper-blink:
     weight: 1.0
-    avg_copies: 3.14
+    avg_copies: 3.17
   orzhov-blink:
     weight: 1.0
     avg_copies: 3.65
@@ -45,7 +45,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.73
   goryo2:
-    weight: 0.0227
+    weight: 0.0222
     avg_copies: 1.0
   goryo3:
     weight: 1.0
@@ -99,7 +99,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-149:
-    weight: 0.9167
+    weight: 0.7857
     avg_copies: 2.73
   unknown-175:
     weight: 1.0

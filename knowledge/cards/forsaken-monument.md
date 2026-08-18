@@ -6,9 +6,9 @@ name: Forsaken Monument
 scryfall_id: 82dfdb91-aa69-45a1-adcc-9fcd85f84ccf
 set: cmm
 type: Legendary Artifact
-meta_presence: 0.0013
+meta_presence: 0.0014
 archetypes:
   eldrazi-tron:
-    weight: 0.028
+    weight: 0.0309
     avg_copies: 1.0
 ---

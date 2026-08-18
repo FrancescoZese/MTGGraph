@@ -7,12 +7,12 @@ name: Extract the Truth
 scryfall_id: 2bdb9df1-4475-45e7-bc9c-40937c8c1722
 set: snc
 type: Sorcery
-meta_presence: 0.0019
+meta_presence: 0.0018
 archetypes:
   reanimator:
     weight: 0.1111
     avg_copies: 2.0
   unknown-1:
-    weight: 0.9091
+    weight: 0.8333
     avg_copies: 1.6
 ---

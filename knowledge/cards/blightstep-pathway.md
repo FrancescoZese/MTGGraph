@@ -6,9 +6,9 @@ name: Blightstep Pathway // Searstep Pathway
 scryfall_id: 0ce39a19-f51d-4a35-ae80-5b82eb15fcff
 set: khm
 type: Land // Land
-meta_presence: 0.0053
+meta_presence: 0.0054
 archetypes:
   cosmogoyf-fling:
-    weight: 0.6981
-    avg_copies: 1.54
+    weight: 0.6909
+    avg_copies: 1.53
 ---

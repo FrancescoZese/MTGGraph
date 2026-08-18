@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.002
 archetypes:
   azorius-control:
-    weight: 0.0577
+    weight: 0.0571
     avg_copies: 1.0
   esper-control:
     weight: 1.0

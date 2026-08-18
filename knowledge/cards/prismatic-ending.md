@@ -7,14 +7,14 @@ name: Prismatic Ending
 scryfall_id: 825969b9-3c70-4fca-8cab-696e9ca7cdb2
 set: mh2
 type: Sorcery
-meta_presence: 0.1805
+meta_presence: 0.1809
 archetypes:
   ruby-storm:
-    weight: 0.9087
+    weight: 0.9094
     avg_copies: 3.15
   boros-energy:
-    weight: 0.0468
-    avg_copies: 1.23
+    weight: 0.0466
+    avg_copies: 1.22
   dimir-control:
     weight: 0.037
     avg_copies: 1.0
@@ -25,11 +25,11 @@ archetypes:
     weight: 0.0031
     avg_copies: 2.0
   goryo:
-    weight: 0.9895
+    weight: 0.9897
     avg_copies: 2.18
   azorius-control:
     weight: 1.0
-    avg_copies: 3.27
+    avg_copies: 3.28
   jeskai-control:
     weight: 0.9661
     avg_copies: 2.03
@@ -49,16 +49,16 @@ archetypes:
     weight: 0.0071
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0109
+    weight: 0.0107
     avg_copies: 2.25
   4c-omnath:
     weight: 0.25
     avg_copies: 4.0
   esper-blink:
-    weight: 0.863
-    avg_copies: 1.28
+    weight: 0.8627
+    avg_copies: 1.29
   samwise-combo:
-    weight: 0.0145
+    weight: 0.0286
     avg_copies: 2.0
   indomitable-creativity:
     weight: 0.8
@@ -85,7 +85,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo2:
-    weight: 0.9545
+    weight: 0.9556
     avg_copies: 3.7
   goryo3:
     weight: 1.0
@@ -114,6 +114,9 @@ archetypes:
   unknown-30:
     weight: 0.1429
     avg_copies: 2.0
+  unknown-47:
+    weight: 0.0065
+    avg_copies: 1.0
   unknown-62:
     weight: 0.4848
     avg_copies: 1.9
@@ -151,7 +154,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.8
   unknown-96:
-    weight: 0.1667
+    weight: 0.1731
     avg_copies: 2.0
   unknown-89:
     weight: 1.0
@@ -186,6 +189,9 @@ archetypes:
   unknown-140:
     weight: 1.0
     avg_copies: 4.0
+  unknown-149:
+    weight: 0.0714
+    avg_copies: 1.0
   unknown-158:
     weight: 1.0
     avg_copies: 2.0
@@ -222,6 +228,9 @@ archetypes:
   unknown-205:
     weight: 1.0
     avg_copies: 4.0
+  unknown-213:
+    weight: 0.125
+    avg_copies: 2.0
   unknown-216:
     weight: 1.0
     avg_copies: 3.0

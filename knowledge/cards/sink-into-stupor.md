@@ -6,10 +6,10 @@ name: Sink into Stupor // Soporific Springs
 scryfall_id: 5358b87a-1a29-426d-b165-40c97da2c14d
 set: mh3
 type: Instant // Land
-meta_presence: 0.1875
+meta_presence: 0.1869
 archetypes:
   ruby-storm:
-    weight: 0.004
+    weight: 0.0039
     avg_copies: 1.0
   dimir-control:
     weight: 0.5679
@@ -18,10 +18,10 @@ archetypes:
     weight: 1.0
     avg_copies: 3.98
   goryo:
-    weight: 0.0472
+    weight: 0.0463
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0673
+    weight: 0.0667
     avg_copies: 1.29
   living-end:
     weight: 1.0
@@ -30,8 +30,8 @@ archetypes:
     weight: 0.1186
     avg_copies: 1.0
   affinity:
-    weight: 0.8362
-    avg_copies: 1.89
+    weight: 0.8346
+    avg_copies: 1.88
   mill:
     weight: 0.4722
     avg_copies: 1.0
@@ -39,8 +39,8 @@ archetypes:
     weight: 0.6296
     avg_copies: 1.0
   mono-blue-tron:
-    weight: 0.68
-    avg_copies: 1.59
+    weight: 0.6923
+    avg_copies: 1.56
   simic-ritual:
     weight: 0.9792
     avg_copies: 3.76
@@ -63,7 +63,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.2431
+    weight: 0.2418
     avg_copies: 1.0
   goryo7:
     weight: 1.0
@@ -90,7 +90,7 @@ archetypes:
     weight: 0.8
     avg_copies: 1.75
   unknown-15:
-    weight: 0.0667
+    weight: 0.0588
     avg_copies: 2.0
   unknown-16:
     weight: 1.0
@@ -120,7 +120,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9865
+    weight: 0.9805
     avg_copies: 1.95
   unknown-49:
     weight: 0.7778
@@ -135,8 +135,8 @@ archetypes:
     weight: 0.9655
     avg_copies: 2.18
   unknown-67:
-    weight: 0.9783
-    avg_copies: 1.56
+    weight: 0.9789
+    avg_copies: 1.54
   unknown-82:
     weight: 1.0
     avg_copies: 2.67
@@ -156,7 +156,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-111:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 1.0
   unknown-120:
     weight: 0.2222
@@ -222,6 +222,9 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-246:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-252:
     weight: 1.0
     avg_copies: 4.0
 ---

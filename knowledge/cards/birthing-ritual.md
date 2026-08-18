@@ -7,10 +7,10 @@ name: Birthing Ritual
 scryfall_id: 4820d223-4ea1-4850-931c-3d2ab5eb003b
 set: mh3
 type: Enchantment
-meta_presence: 0.0295
+meta_presence: 0.0292
 archetypes:
   neoform-combo:
-    weight: 0.0093
+    weight: 0.0092
     avg_copies: 3.0
   simic-ritual:
     weight: 0.9896

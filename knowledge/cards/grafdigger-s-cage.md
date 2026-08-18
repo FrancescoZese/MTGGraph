@@ -6,17 +6,17 @@ name: Grafdigger's Cage
 scryfall_id: 0a135e09-b534-4836-9a10-3a9a4a9f8c53
 set: m20
 type: Artifact
-meta_presence: 0.1035
+meta_presence: 0.1052
 archetypes:
   boros-energy:
     weight: 0.0013
     avg_copies: 1.0
   mono-blue-belcher:
-    weight: 0.1889
+    weight: 0.1868
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.5202
-    avg_copies: 1.06
+    weight: 0.5216
+    avg_copies: 1.07
   amulet-titan:
     weight: 0.0059
     avg_copies: 1.0
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.0222
     avg_copies: 1.0
   affinity:
-    weight: 0.258
+    weight: 0.2602
     avg_copies: 1.01
   burn:
     weight: 0.0256
@@ -36,14 +36,14 @@ archetypes:
     weight: 0.3529
     avg_copies: 1.67
   eldrazi-ramp:
-    weight: 0.6111
-    avg_copies: 1.61
+    weight: 0.6202
+    avg_copies: 1.64
   izzet-prowess:
     weight: 0.0027
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.7806
-    avg_copies: 1.0
+    weight: 0.7841
+    avg_copies: 1.01
   orzhov-blink:
     weight: 0.1765
     avg_copies: 1.0
@@ -60,7 +60,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-15:
-    weight: 0.2667
+    weight: 0.2353
     avg_copies: 1.0
   unknown-21:
     weight: 1.0
@@ -71,17 +71,23 @@ archetypes:
   unknown-42:
     weight: 0.25
     avg_copies: 2.0
+  unknown-47:
+    weight: 0.0065
+    avg_copies: 1.0
   unknown-49:
     weight: 0.2222
     avg_copies: 2.0
   unknown-61:
-    weight: 0.0294
+    weight: 0.0288
     avg_copies: 1.33
   unknown-53:
     weight: 1.0
     avg_copies: 1.0
   unknown-55:
     weight: 1.0
+    avg_copies: 2.0
+  unknown-59:
+    weight: 0.5
     avg_copies: 2.0
   unknown-97:
     weight: 0.1333
@@ -96,7 +102,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0118
+    weight: 0.0116
     avg_copies: 1.0
   unknown-159:
     weight: 1.0
@@ -109,8 +115,11 @@ archetypes:
     avg_copies: 1.0
   unknown-194:
     weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 1.08
   unknown-241:
     weight: 1.0
-    avg_copies: 1.33
+    avg_copies: 1.25
+  unknown-253:
+    weight: 1.0
+    avg_copies: 2.0
 ---

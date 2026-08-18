@@ -7,10 +7,10 @@ name: High Noon
 scryfall_id: 9995e0e6-7c9c-4fef-8fd2-8fb1622e6ec8
 set: otj
 type: Enchantment
-meta_presence: 0.224
+meta_presence: 0.2226
 archetypes:
   boros-energy:
-    weight: 0.7688
+    weight: 0.7697
     avg_copies: 1.7
   dimir-control:
     weight: 0.1111
@@ -22,10 +22,10 @@ archetypes:
     weight: 0.0031
     avg_copies: 1.0
   goryo:
-    weight: 0.0131
+    weight: 0.0129
     avg_copies: 1.6
   azorius-control:
-    weight: 0.9135
+    weight: 0.9143
     avg_copies: 1.98
   living-end:
     weight: 0.0263
@@ -49,10 +49,10 @@ archetypes:
     weight: 0.9504
     avg_copies: 2.63
   esper-blink:
-    weight: 0.911
-    avg_copies: 2.26
+    weight: 0.915
+    avg_copies: 2.28
   samwise-combo:
-    weight: 0.2029
+    weight: 0.2
     avg_copies: 1.71
   indomitable-creativity:
     weight: 0.3333
@@ -76,8 +76,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   goryo2:
-    weight: 0.3636
-    avg_copies: 2.19
+    weight: 0.3778
+    avg_copies: 2.18
   4c-omnath9:
     weight: 0.4
     avg_copies: 2.0
@@ -112,7 +112,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.77
   unknown-47:
-    weight: 0.0068
+    weight: 0.0065
     avg_copies: 1.0
   unknown-62:
     weight: 0.2424
@@ -121,7 +121,7 @@ archetypes:
     weight: 0.069
     avg_copies: 2.0
   unknown-67:
-    weight: 0.0109
+    weight: 0.0105
     avg_copies: 1.0
   unknown-68:
     weight: 0.8
@@ -160,13 +160,13 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   unknown-111:
-    weight: 0.2
+    weight: 0.1667
     avg_copies: 1.0
   unknown-113:
     weight: 1.0
     avg_copies: 1.5
   unknown-126:
-    weight: 0.0108
+    weight: 0.0095
     avg_copies: 2.0
   unknown-127:
     weight: 1.0
@@ -193,7 +193,7 @@ archetypes:
     weight: 0.4
     avg_copies: 1.0
   unknown-149:
-    weight: 0.5
+    weight: 0.4286
     avg_copies: 1.5
   unknown-152:
     weight: 1.0
@@ -205,8 +205,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-160:
-    weight: 0.6588
-    avg_copies: 3.09
+    weight: 0.6628
+    avg_copies: 3.07
   unknown-166:
     weight: 1.0
     avg_copies: 3.0
@@ -248,7 +248,7 @@ archetypes:
     avg_copies: 1.0
   unknown-241:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 2.75
   unknown-242:
     weight: 1.0
     avg_copies: 2.0

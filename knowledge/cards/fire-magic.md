@@ -7,10 +7,10 @@ name: Fire Magic
 scryfall_id: 415ff6a5-61ef-4b37-ae08-e44476300d4a
 set: fin
 type: Instant
-meta_presence: 0.0492
+meta_presence: 0.0494
 archetypes:
   ruby-storm:
-    weight: 0.3611
+    weight: 0.3622
     avg_copies: 1.59
   dimir-control:
     weight: 0.2346
@@ -19,10 +19,10 @@ archetypes:
     weight: 0.0075
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.213
+    weight: 0.2118
     avg_copies: 2.39
   azorius-control:
-    weight: 0.0288
+    weight: 0.0286
     avg_copies: 1.67
   jeskai-control:
     weight: 0.2881
@@ -37,10 +37,10 @@ archetypes:
     weight: 0.0208
     avg_copies: 2.5
   izzet-prowess:
-    weight: 0.0328
-    avg_copies: 1.17
+    weight: 0.0348
+    avg_copies: 1.15
   broodscale-combo:
-    weight: 0.0226
+    weight: 0.0222
     avg_copies: 2.14
   dredge:
     weight: 0.0357
@@ -67,26 +67,26 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   cosmogoyf-fling:
-    weight: 0.0566
+    weight: 0.0545
     avg_copies: 2.33
   scapeshift-combo:
     weight: 0.1667
     avg_copies: 4.0
   goryo1:
-    weight: 0.0221
+    weight: 0.022
     avg_copies: 1.5
   grixis-control:
     weight: 0.8571
     avg_copies: 2.0
   unknown-6:
-    weight: 0.625
-    avg_copies: 1.2
+    weight: 0.6471
+    avg_copies: 1.18
   unknown-11:
     weight: 0.4
     avg_copies: 1.0
   unknown-15:
-    weight: 0.7333
-    avg_copies: 1.45
+    weight: 0.7059
+    avg_copies: 1.5
   unknown-25:
     weight: 1.0
     avg_copies: 2.0
@@ -100,7 +100,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0068
+    weight: 0.0065
     avg_copies: 2.0
   unknown-53:
     weight: 0.5
@@ -121,8 +121,8 @@ archetypes:
     weight: 0.0588
     avg_copies: 2.0
   unknown-96:
-    weight: 0.625
-    avg_copies: 1.93
+    weight: 0.6154
+    avg_copies: 1.94
   unknown-100:
     weight: 0.75
     avg_copies: 1.67
@@ -130,7 +130,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-111:
-    weight: 0.6
+    weight: 0.5
     avg_copies: 1.4
   unknown-112:
     weight: 1.0
@@ -148,7 +148,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   unknown-160:
-    weight: 0.0118
+    weight: 0.0116
     avg_copies: 1.0
   unknown-171:
     weight: 1.0
@@ -165,4 +165,7 @@ archetypes:
   unknown-233:
     weight: 1.0
     avg_copies: 1.0
+  unknown-252:
+    weight: 1.0
+    avg_copies: 2.0
 ---

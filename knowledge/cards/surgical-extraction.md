@@ -1,31 +1,31 @@
 ---
 archetypes:
   ruby-storm:
-    weight: 0.0159
+    weight: 0.0157
     avg_copies: 1.25
   boros-energy:
-    weight: 0.7429
+    weight: 0.7439
     avg_copies: 1.29
   dimir-control:
     weight: 0.1111
     avg_copies: 1.44
   mono-blue-belcher:
-    weight: 0.0111
+    weight: 0.011
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.6866
     avg_copies: 1.1
   amulet-titan:
-    weight: 0.0178
+    weight: 0.0176
     avg_copies: 2.0
   goryo:
-    weight: 0.5197
+    weight: 0.5244
     avg_copies: 1.09
   necrodominance:
     weight: 0.6
     avg_copies: 1.41
   azorius-control:
-    weight: 0.4231
+    weight: 0.419
     avg_copies: 1.2
   jeskai-control:
     weight: 0.4915
@@ -46,7 +46,7 @@ archetypes:
     weight: 0.9167
     avg_copies: 1.41
   mono-blue-tron:
-    weight: 0.16
+    weight: 0.1538
     avg_copies: 1.75
   hollow-one:
     weight: 0.7647
@@ -58,16 +58,16 @@ archetypes:
     weight: 0.0105
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0714
+    weight: 0.0698
     avg_copies: 1.56
   izzet-prowess:
-    weight: 0.4727
+    weight: 0.4679
     avg_copies: 1.46
   esper-blink:
-    weight: 0.1507
+    weight: 0.1438
     avg_copies: 1.32
   samwise-combo:
-    weight: 0.1304
+    weight: 0.1286
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.7333
@@ -109,14 +109,14 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.6796
+    weight: 0.6813
     avg_copies: 1.28
   goryo4:
     weight: 0.037
     avg_copies: 1.0
   goryo5:
-    weight: 0.5
-    avg_copies: 1.57
+    weight: 0.5333
+    avg_copies: 1.56
   grixis-control:
     weight: 0.1429
     avg_copies: 1.0
@@ -142,7 +142,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-15:
-    weight: 0.0667
+    weight: 0.0588
     avg_copies: 1.0
   unknown-19:
     weight: 1.0
@@ -181,8 +181,8 @@ archetypes:
     weight: 0.875
     avg_copies: 1.14
   unknown-47:
-    weight: 0.1284
-    avg_copies: 1.42
+    weight: 0.1299
+    avg_copies: 1.4
   unknown-51:
     weight: 1.0
     avg_copies: 2.0
@@ -190,7 +190,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-61:
-    weight: 0.049
+    weight: 0.0481
     avg_copies: 1.4
   unknown-53:
     weight: 1.0
@@ -235,8 +235,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-96:
-    weight: 0.5833
-    avg_copies: 2.39
+    weight: 0.5962
+    avg_copies: 2.42
   unknown-98:
     weight: 1.0
     avg_copies: 1.75
@@ -247,7 +247,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-101:
-    weight: 0.4348
+    weight: 0.4167
     avg_copies: 1.4
   unknown-102:
     weight: 1.0
@@ -277,14 +277,14 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-139:
-    weight: 0.2
-    avg_copies: 1.5
+    weight: 0.2727
+    avg_copies: 1.33
   unknown-141:
     weight: 1.0
     avg_copies: 2.0
   unknown-149:
-    weight: 0.3333
-    avg_copies: 1.75
+    weight: 0.4286
+    avg_copies: 1.83
   unknown-152:
     weight: 1.0
     avg_copies: 1.33
@@ -292,8 +292,8 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   unknown-160:
-    weight: 0.2588
-    avg_copies: 1.64
+    weight: 0.2674
+    avg_copies: 1.65
   unknown-161:
     weight: 0.5
     avg_copies: 3.0
@@ -328,7 +328,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-194:
-    weight: 0.2857
+    weight: 0.1538
     avg_copies: 1.0
   unknown-197:
     weight: 1.0
@@ -340,8 +340,8 @@ archetypes:
     weight: 0.0667
     avg_copies: 3.0
   unknown-211:
-    weight: 0.7143
-    avg_copies: 2.4
+    weight: 0.75
+    avg_copies: 2.17
   unknown-217:
     weight: 1.0
     avg_copies: 2.0
@@ -363,10 +363,16 @@ archetypes:
   unknown-241:
     weight: 1.0
     avg_copies: 2.0
+  unknown-251:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-252:
+    weight: 1.0
+    avg_copies: 1.0
 cmc: 1
 colors: []
 image: https://cards.scryfall.io/normal/front/e/1/e15d76ac-1c23-4503-8225-375ac2bf2fb6.jpg?1673147668
-meta_presence: 0.2656
+meta_presence: 0.2653
 name: Surgical Extraction
 scryfall_id: e15d76ac-1c23-4503-8225-375ac2bf2fb6
 set: 2x2

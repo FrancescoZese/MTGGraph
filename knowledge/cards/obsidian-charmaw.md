@@ -7,16 +7,16 @@ name: Obsidian Charmaw
 scryfall_id: ee6d08be-a6fc-44a5-932d-b6a8705534c0
 set: mh2
 type: Creature — Dragon
-meta_presence: 0.1616
+meta_presence: 0.1601
 archetypes:
   boros-energy:
-    weight: 0.826
+    weight: 0.8266
     avg_copies: 2.43
   jeskai-energy:
     weight: 0.9776
     avg_copies: 2.74
   azorius-control:
-    weight: 0.0096
+    weight: 0.0095
     avg_copies: 2.0
   jeskai-control:
     weight: 0.0847
@@ -37,7 +37,7 @@ archetypes:
     weight: 0.4118
     avg_copies: 2.5
   izzet-prowess:
-    weight: 0.0273
+    weight: 0.0267
     avg_copies: 1.9
   4c-omnath:
     weight: 1.0
@@ -62,12 +62,12 @@ archetypes:
     avg_copies: 2.6
   unknown-1:
     weight: 1.0
-    avg_copies: 2.36
+    avg_copies: 2.33
   unknown-7:
     weight: 1.0
     avg_copies: 3.0
   unknown-15:
-    weight: 0.0667
+    weight: 0.1176
     avg_copies: 2.0
   unknown-22:
     weight: 0.5
@@ -100,7 +100,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-67:
-    weight: 0.0978
+    weight: 0.0947
     avg_copies: 3.22
   unknown-68:
     weight: 0.5
@@ -121,8 +121,8 @@ archetypes:
     weight: 0.6667
     avg_copies: 3.0
   unknown-96:
-    weight: 0.6042
-    avg_copies: 2.07
+    weight: 0.5962
+    avg_copies: 2.06
   unknown-90:
     weight: 1.0
     avg_copies: 2.0
@@ -133,7 +133,7 @@ archetypes:
     weight: 0.75
     avg_copies: 2.0
   unknown-101:
-    weight: 0.3478
+    weight: 0.3333
     avg_copies: 2.0
   unknown-114:
     weight: 1.0
@@ -157,7 +157,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-149:
-    weight: 0.3333
+    weight: 0.2857
     avg_copies: 2.75
   unknown-152:
     weight: 0.6667

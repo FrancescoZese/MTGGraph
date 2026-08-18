@@ -10,7 +10,7 @@ type: Creature — Zombie
 meta_presence: 0.0099
 archetypes:
   samwise-combo:
-    weight: 0.9855
+    weight: 0.9857
     avg_copies: 2.06
   unknown-235:
     weight: 1.0

@@ -7,9 +7,12 @@ name: Ravenous Trap
 scryfall_id: ce0fae06-1a93-43ac-a349-f3719e60076e
 set: 2xm
 type: Instant — Trap
-meta_presence: 0.0001
+meta_presence: 0.0003
 archetypes:
   mill:
     weight: 0.0278
+    avg_copies: 1.0
+  unknown-251:
+    weight: 1.0
     avg_copies: 1.0
 ---

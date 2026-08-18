@@ -7,7 +7,7 @@ name: Disrupting Shoal
 scryfall_id: b46b20c4-f69b-45ed-8c9e-50847f215e73
 set: uma
 type: Instant — Arcane
-meta_presence: 0.0142
+meta_presence: 0.0143
 archetypes:
   mono-blue-belcher:
     weight: 1.0
@@ -22,6 +22,9 @@ archetypes:
     weight: 0.5
     avg_copies: 4.0
   unknown-246:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-252:
     weight: 1.0
     avg_copies: 4.0
 ---

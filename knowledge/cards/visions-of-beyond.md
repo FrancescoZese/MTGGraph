@@ -7,7 +7,7 @@ name: Visions of Beyond
 scryfall_id: f0b97772-9490-4db3-b4dd-a87d973680a5
 set: uma
 type: Instant
-meta_presence: 0.0053
+meta_presence: 0.0054
 archetypes:
   mill:
     weight: 0.9722
@@ -18,4 +18,7 @@ archetypes:
   unknown-133:
     weight: 1.0
     avg_copies: 3.0
+  unknown-251:
+    weight: 1.0
+    avg_copies: 4.0
 ---

@@ -7,10 +7,10 @@ name: Jace, Wielder of Mysteries
 scryfall_id: 6adb7d73-4482-4930-8497-cffd169b57e2
 set: war
 type: Legendary Planeswalker — Jace
-meta_presence: 0.0017
+meta_presence: 0.0018
 archetypes:
   unknown-6:
-    weight: 0.625
+    weight: 0.6471
     avg_copies: 1.0
   unknown-246:
     weight: 1.0

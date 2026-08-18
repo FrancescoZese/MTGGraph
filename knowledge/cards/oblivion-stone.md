@@ -6,13 +6,13 @@ name: Oblivion Stone
 scryfall_id: f0cd5548-ce7b-493a-8119-62f000839e4d
 set: ncc
 type: Artifact
-meta_presence: 0.0043
+meta_presence: 0.0042
 archetypes:
   eldrazi-tron:
-    weight: 0.0748
+    weight: 0.0741
     avg_copies: 1.04
   mono-blue-tron:
-    weight: 0.08
+    weight: 0.0769
     avg_copies: 1.0
   unknown-162:
     weight: 1.0

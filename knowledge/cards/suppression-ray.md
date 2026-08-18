@@ -12,13 +12,13 @@ archetypes:
     weight: 1.0
     avg_copies: 3.86
   goryo:
-    weight: 0.0052
+    weight: 0.0051
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0288
+    weight: 0.0286
     avg_copies: 4.0
   goryo2:
-    weight: 0.0455
+    weight: 0.0667
     avg_copies: 1.0
   unknown-16:
     weight: 0.8333

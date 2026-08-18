@@ -4,7 +4,7 @@ colors:
 - U
 - R
 name: Jeskai Control
-meta_share: 0.0085
+meta_share: 0.0084
 list_count: 59
 top_cards:
 - name: Flooded Strand
@@ -100,10 +100,10 @@ top_cards:
 - name: Lórien Revealed
   weight: 0.5593
   avg_copies: 1.15
-- name: Elegant Parlor
+- name: Kaheera, the Orphanguard
   weight: 0.5254
   avg_copies: 1.0
-- name: Kaheera, the Orphanguard
+- name: Elegant Parlor
   weight: 0.5254
   avg_copies: 1.0
 - name: Teferi, Hero of Dominaria
@@ -145,13 +145,13 @@ top_cards:
 - name: Tune the Narrative
   weight: 0.1356
   avg_copies: 1.88
-- name: Ashiok, Dream Render
-  weight: 0.1356
-  avg_copies: 1.0
 - name: Hall of Storm Giants
   weight: 0.1356
   avg_copies: 1.0
 - name: Mountain
+  weight: 0.1356
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
   weight: 0.1356
   avg_copies: 1.0
 - name: Arena of Glory
@@ -169,10 +169,10 @@ top_cards:
 - name: Flame of Anor
   weight: 0.0847
   avg_copies: 4.0
-- name: Tamiyo, Inquisitive Student
+- name: Fable of the Mirror-Breaker
   weight: 0.0847
   avg_copies: 3.0
-- name: Fable of the Mirror-Breaker
+- name: Tamiyo, Inquisitive Student
   weight: 0.0847
   avg_copies: 3.0
 - name: Obsidian Charmaw
@@ -196,10 +196,10 @@ top_cards:
 - name: Flare of Denial
   weight: 0.0508
   avg_copies: 2.0
-- name: card:felidar-guardian
+- name: card:saheeli-rai
   weight: 0.0339
   avg_copies: 3.0
-- name: card:saheeli-rai
+- name: card:felidar-guardian
   weight: 0.0339
   avg_copies: 3.0
 - name: Lightning Bolt
@@ -217,25 +217,34 @@ top_cards:
 - name: Quantum Riddler
   weight: 0.0339
   avg_copies: 1.5
-- name: Wear
+- name: card:bribery
   weight: 0.0339
   avg_copies: 1.0
-- name: card:bribery
+- name: Wear
   weight: 0.0339
   avg_copies: 1.0
 - name: Dovin's Veto
   weight: 0.0339
   avg_copies: 1.0
-- name: Dress Down
+- name: Ragavan, Nimble Pilferer
   weight: 0.0169
   avg_copies: 4.0
-- name: Ragavan, Nimble Pilferer
+- name: Dress Down
   weight: 0.0169
   avg_copies: 4.0
 - name: Nulldrifter
   weight: 0.0169
   avg_copies: 3.0
+- name: Invert Polarity
+  weight: 0.0169
+  avg_copies: 2.0
+- name: Drannith Magistrate
+  weight: 0.0169
+  avg_copies: 2.0
 - name: Wan Shi Tong, Librarian
+  weight: 0.0169
+  avg_copies: 2.0
+- name: Harbinger of the Seas
   weight: 0.0169
   avg_copies: 2.0
 - name: Prismari Charm
@@ -244,28 +253,34 @@ top_cards:
 - name: Ephemerate
   weight: 0.0169
   avg_copies: 2.0
-- name: Drannith Magistrate
+- name: Timeless Dragon
   weight: 0.0169
-  avg_copies: 2.0
-- name: Harbinger of the Seas
+  avg_copies: 1.0
+- name: Raugrin Triome
   weight: 0.0169
-  avg_copies: 2.0
-- name: Invert Polarity
+  avg_copies: 1.0
+- name: Emeritus of Ideation
   weight: 0.0169
-  avg_copies: 2.0
-- name: Kozilek, Butcher of Truth
+  avg_copies: 1.0
+- name: Path to Exile
+  weight: 0.0169
+  avg_copies: 1.0
+- name: Thraben Charm
   weight: 0.0169
   avg_copies: 1.0
 - name: Windswept Heath
   weight: 0.0169
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Floodfarm Verge
+  weight: 0.0169
+  avg_copies: 1.0
+- name: Unlicensed Hearse
+  weight: 0.0169
+  avg_copies: 1.0
+- name: card:captain-marvel-earth-s-protector
   weight: 0.0169
   avg_copies: 1.0
 - name: Gemstone Caverns
-  weight: 0.0169
-  avg_copies: 1.0
-- name: Timeless Dragon
   weight: 0.0169
   avg_copies: 1.0
 - name: Vendilion Clique
@@ -274,34 +289,19 @@ top_cards:
 - name: Get Lost
   weight: 0.0169
   avg_copies: 1.0
-- name: Floodfarm Verge
-  weight: 0.0169
-  avg_copies: 1.0
-- name: card:captain-marvel-earth-s-protector
-  weight: 0.0169
-  avg_copies: 1.0
-- name: Flashback
+- name: Hallowed Moonlight
   weight: 0.0169
   avg_copies: 1.0
 - name: Ghost Vacuum
   weight: 0.0169
   avg_copies: 1.0
-- name: Raugrin Triome
+- name: Hedge Maze
   weight: 0.0169
   avg_copies: 1.0
-- name: Hallowed Moonlight
+- name: Kozilek, Butcher of Truth
   weight: 0.0169
   avg_copies: 1.0
-- name: Thraben Charm
-  weight: 0.0169
-  avg_copies: 1.0
-- name: Unlicensed Hearse
-  weight: 0.0169
-  avg_copies: 1.0
-- name: Emeritus of Ideation
-  weight: 0.0169
-  avg_copies: 1.0
-- name: Path to Exile
+- name: Flashback
   weight: 0.0169
   avg_copies: 1.0
 ---

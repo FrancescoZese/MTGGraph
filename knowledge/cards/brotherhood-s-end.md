@@ -10,8 +10,8 @@ type: Sorcery
 meta_presence: 0.049
 archetypes:
   ruby-storm:
-    weight: 0.6468
-    avg_copies: 1.51
+    weight: 0.6496
+    avg_copies: 1.5
   jeskai-energy:
     weight: 0.0075
     avg_copies: 1.0
@@ -61,8 +61,8 @@ archetypes:
     weight: 0.8276
     avg_copies: 2.19
   unknown-67:
-    weight: 0.6304
-    avg_copies: 1.84
+    weight: 0.6316
+    avg_copies: 1.83
   unknown-85:
     weight: 0.0588
     avg_copies: 1.0
@@ -82,7 +82,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0118
+    weight: 0.0116
     avg_copies: 1.0
   unknown-177:
     weight: 0.3333

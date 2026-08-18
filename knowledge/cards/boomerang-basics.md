@@ -7,23 +7,23 @@ name: Boomerang Basics
 scryfall_id: 17ab958a-abc6-472e-ad6a-97c731d89c74
 set: tla
 type: Sorcery — Lesson
-meta_presence: 0.0158
+meta_presence: 0.0157
 archetypes:
   affinity:
-    weight: 0.0075
+    weight: 0.0074
     avg_copies: 1.67
   domain-zoo:
     weight: 0.0068
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.1202
+    weight: 0.1176
     avg_copies: 2.15
   izzet-artifacts:
     weight: 0.5
     avg_copies: 3.44
   unknown-6:
-    weight: 0.75
-    avg_copies: 3.33
+    weight: 0.7647
+    avg_copies: 3.31
   unknown-10:
     weight: 0.3333
     avg_copies: 4.0

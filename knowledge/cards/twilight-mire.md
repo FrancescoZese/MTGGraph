@@ -6,7 +6,7 @@ name: Twilight Mire
 scryfall_id: 3cc8186b-b46f-46c0-8dfb-9e423e430048
 set: soc
 type: Land
-meta_presence: 0.0013
+meta_presence: 0.0014
 archetypes:
   living-end:
     weight: 0.0132
@@ -18,6 +18,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-211:
-    weight: 0.7143
-    avg_copies: 3.4
+    weight: 0.75
+    avg_copies: 3.5
 ---

@@ -8,10 +8,10 @@ name: Wear // Tear
 scryfall_id: e01cc65a-0e38-4f41-b9ed-796ef0355d0b
 set: moc
 type: Instant // Instant
-meta_presence: 0.1173
+meta_presence: 0.1167
 archetypes:
   ruby-storm:
-    weight: 0.8651
+    weight: 0.8661
     avg_copies: 2.23
   boros-energy:
     weight: 0.0026
@@ -20,13 +20,13 @@ archetypes:
     weight: 0.0149
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0096
+    weight: 0.0095
     avg_copies: 2.0
   jeskai-control:
     weight: 0.0339
     avg_copies: 1.0
   affinity:
-    weight: 0.0038
+    weight: 0.0037
     avg_copies: 2.0
   domain-zoo:
     weight: 0.9864
@@ -44,8 +44,8 @@ archetypes:
     weight: 0.766
     avg_copies: 1.77
   izzet-prowess:
-    weight: 0.0109
-    avg_copies: 1.75
+    weight: 0.0134
+    avg_copies: 2.0
   4c-omnath:
     weight: 0.5
     avg_copies: 2.5
@@ -104,8 +104,8 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.0
   unknown-96:
-    weight: 0.875
-    avg_copies: 2.0
+    weight: 0.8846
+    avg_copies: 1.98
   unknown-99:
     weight: 1.0
     avg_copies: 1.0
@@ -113,7 +113,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-101:
-    weight: 0.087
+    weight: 0.0833
     avg_copies: 2.0
   unknown-110:
     weight: 1.0
@@ -149,13 +149,13 @@ archetypes:
     weight: 0.6
     avg_copies: 2.0
   unknown-149:
-    weight: 0.25
+    weight: 0.2143
     avg_copies: 1.67
   unknown-158:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.7176
+    weight: 0.7209
     avg_copies: 2.03
   unknown-159:
     weight: 1.0

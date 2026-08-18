@@ -6,13 +6,13 @@ name: Palantír of Orthanc
 scryfall_id: 6efb6a69-562c-4d95-858d-b067444cfd7e
 set: ltr
 type: Legendary Artifact
-meta_presence: 0.0032
+meta_presence: 0.0031
 archetypes:
   eldrazi-tron:
-    weight: 0.053
+    weight: 0.0525
     avg_copies: 1.2
   eldrazi-ramp:
-    weight: 0.0317
+    weight: 0.031
     avg_copies: 1.0
   eldrazi-breach:
     weight: 0.2

@@ -7,10 +7,10 @@ name: 'Unknown #5'
 meta_share: 0.0014
 list_count: 10
 top_cards:
-- name: Persist
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Persist
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
@@ -40,28 +40,28 @@ top_cards:
 - name: Watery Grave
   weight: 1.0
   avg_copies: 1.1
-- name: Plains
+- name: Godless Shrine
+  weight: 1.0
+  avg_copies: 1.0
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
+- name: Plains
+  weight: 1.0
+  avg_copies: 1.0
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Undercity Sewers
-  weight: 1.0
-  avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 1.0
-  avg_copies: 1.0
-- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
 - name: Solitude
@@ -121,49 +121,49 @@ top_cards:
 - name: Abhorrent Oculus
   weight: 0.1
   avg_copies: 3.0
+- name: Unearth
+  weight: 0.1
+  avg_copies: 2.0
+- name: River of Tears
+  weight: 0.1
+  avg_copies: 2.0
 - name: Sheoldred, the Apocalypse
   weight: 0.1
   avg_copies: 2.0
 - name: Drannith Magistrate
   weight: 0.1
   avg_copies: 2.0
-- name: River of Tears
-  weight: 0.1
-  avg_copies: 2.0
 - name: Spell Pierce
-  weight: 0.1
-  avg_copies: 2.0
-- name: Unearth
   weight: 0.1
   avg_copies: 2.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.1
   avg_copies: 1.5
+- name: Ketramose, the New Dawn
+  weight: 0.1
+  avg_copies: 1.0
 - name: No More Lies
   weight: 0.1
   avg_copies: 1.0
 - name: Harbinger of the Seas
   weight: 0.1
   avg_copies: 1.0
+- name: Graveyard Trespasser
+  weight: 0.1
+  avg_copies: 1.0
+- name: March of Otherworldly Light
+  weight: 0.1
+  avg_copies: 1.0
 - name: Surgical Extraction
+  weight: 0.1
+  avg_copies: 1.0
+- name: card:momentary-blink
   weight: 0.1
   avg_copies: 1.0
 - name: Sink into Stupor
   weight: 0.1
   avg_copies: 1.0
 - name: Winternight Stories
-  weight: 0.1
-  avg_copies: 1.0
-- name: Graveyard Trespasser
-  weight: 0.1
-  avg_copies: 1.0
-- name: card:momentary-blink
-  weight: 0.1
-  avg_copies: 1.0
-- name: Ketramose, the New Dawn
-  weight: 0.1
-  avg_copies: 1.0
-- name: March of Otherworldly Light
   weight: 0.1
   avg_copies: 1.0
 ---

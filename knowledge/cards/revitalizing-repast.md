@@ -6,16 +6,16 @@ name: Revitalizing Repast // Old-Growth Grove
 scryfall_id: 03522b6b-31ec-4126-8885-5dbb2248688b
 set: mh3
 type: Instant // Land
-meta_presence: 0.0019
+meta_presence: 0.002
 archetypes:
   necrodominance:
     weight: 0.0222
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0065
+    weight: 0.0063
     avg_copies: 2.5
   goryo5:
-    weight: 0.0357
+    weight: 0.0333
     avg_copies: 1.0
   unknown-45:
     weight: 0.1
@@ -27,6 +27,6 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-211:
-    weight: 0.4286
+    weight: 0.5
     avg_copies: 2.0
 ---

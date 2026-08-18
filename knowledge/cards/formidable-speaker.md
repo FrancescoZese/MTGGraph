@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0059
     avg_copies: 1.0
   goryo:
-    weight: 0.0052
+    weight: 0.0051
     avg_copies: 4.0
   living-end:
     weight: 0.8026
@@ -22,13 +22,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.03
   eldrazi-ramp:
-    weight: 0.2619
+    weight: 0.2558
     avg_copies: 2.42
   4c-omnath:
     weight: 0.25
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.0145
+    weight: 0.0143
     avg_copies: 1.0
   broodscale-combo:
     weight: 0.0032
@@ -43,7 +43,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   unknown-126:
-    weight: 0.1828
+    weight: 0.2
     avg_copies: 1.0
   unknown-134:
     weight: 1.0
@@ -55,7 +55,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-194:
-    weight: 0.1429
+    weight: 0.0769
     avg_copies: 1.0
   unknown-249:
     weight: 1.0

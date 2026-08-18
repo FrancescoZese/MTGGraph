@@ -3,16 +3,16 @@ colors:
 - U
 - B
 name: 'Unknown #45'
-meta_share: 0.0043
+meta_share: 0.0042
 list_count: 30
 top_cards:
+- name: Archon of Cruelty
+  weight: 1.0
+  avg_copies: 4.0
 - name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
 - name: Eyetwitch
-  weight: 1.0
-  avg_copies: 4.0
-- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
 - name: Swamp
@@ -39,10 +39,10 @@ top_cards:
 - name: Boggart Trawler
   weight: 1.0
   avg_copies: 2.03
-- name: Decorum Dissertation
+- name: Ruinous Waterbending
   weight: 1.0
   avg_copies: 1.0
-- name: Ruinous Waterbending
+- name: Decorum Dissertation
   weight: 1.0
   avg_copies: 1.0
 - name: Orcish Bowmasters
@@ -117,10 +117,10 @@ top_cards:
 - name: Culling Ritual
   weight: 0.2667
   avg_copies: 1.88
-- name: Takenuma, Abandoned Mire
+- name: Faerie Macabre
   weight: 0.2667
   avg_copies: 1.0
-- name: Faerie Macabre
+- name: Takenuma, Abandoned Mire
   weight: 0.2667
   avg_copies: 1.0
 - name: Dawnhand Dissident
@@ -147,16 +147,16 @@ top_cards:
 - name: Revitalizing Repast
   weight: 0.1
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Mai, Scornful Striker
   weight: 0.0667
   avg_copies: 1.5
-- name: Mai, Scornful Striker
+- name: Ashiok, Dream Render
   weight: 0.0667
   avg_copies: 1.5
 - name: Blood Crypt
   weight: 0.0667
   avg_copies: 1.5
-- name: card:summon-bahamut
+- name: Forest
   weight: 0.0667
   avg_copies: 1.0
 - name: Redirect Lightning
@@ -165,34 +165,37 @@ top_cards:
 - name: Plague Engineer
   weight: 0.0667
   avg_copies: 1.0
-- name: Forest
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Harvester of Misery
+- name: card:summon-bahamut
   weight: 0.0667
   avg_copies: 1.0
 - name: Cling to Dust
   weight: 0.0667
   avg_copies: 1.0
-- name: Price of Freedom
-  weight: 0.0333
-  avg_copies: 2.0
+- name: Harvester of Misery
+  weight: 0.0667
+  avg_copies: 1.0
 - name: Nihil Spellbomb
   weight: 0.0333
   avg_copies: 2.0
-- name: Chthonian Nightmare
+- name: Price of Freedom
+  weight: 0.0333
+  avg_copies: 2.0
+- name: Iroh's Demonstration
   weight: 0.0333
   avg_copies: 1.0
-- name: card:the-terminus-of-return
+- name: card:victimize
   weight: 0.0333
   avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.0333
   avg_copies: 1.0
-- name: Liliana, the Last Hope
+- name: card:the-terminus-of-return
   weight: 0.0333
   avg_copies: 1.0
-- name: Improvisation Capstone
+- name: Raucous Theater
+  weight: 0.0333
+  avg_copies: 1.0
+- name: Liliana, the Last Hope
   weight: 0.0333
   avg_copies: 1.0
 - name: Vampire Hexmage
@@ -201,13 +204,10 @@ top_cards:
 - name: Tormod's Crypt
   weight: 0.0333
   avg_copies: 1.0
-- name: card:victimize
+- name: Improvisation Capstone
   weight: 0.0333
   avg_copies: 1.0
-- name: Iroh's Demonstration
-  weight: 0.0333
-  avg_copies: 1.0
-- name: Raucous Theater
+- name: Chthonian Nightmare
   weight: 0.0333
   avg_copies: 1.0
 ---

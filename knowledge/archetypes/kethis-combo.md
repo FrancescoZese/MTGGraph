@@ -8,13 +8,13 @@ name: Kethis Combo
 meta_share: 0.001
 list_count: 7
 top_cards:
-- name: Mox Amber
-  weight: 1.0
-  avg_copies: 4.0
 - name: Kethis, the Hidden Hand
   weight: 1.0
   avg_copies: 4.0
 - name: Plaza of Heroes
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mox Amber
   weight: 1.0
   avg_copies: 4.0
 - name: Emry, Lurker of the Loch
@@ -23,10 +23,10 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
-- name: Mox Opal
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
 - name: Malevolent Rumble
@@ -62,40 +62,40 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.08
-- name: Temple Garden
-  weight: 1.0
-  avg_copies: 1.0
-- name: Lush Portico
-  weight: 1.0
-  avg_copies: 1.0
-- name: Watery Grave
-  weight: 1.0
-  avg_copies: 1.0
-- name: Vexing Bauble
-  weight: 1.0
-  avg_copies: 1.0
 - name: Island
-  weight: 1.0
-  avg_copies: 1.0
-- name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
 - name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Temple Garden
+  weight: 1.0
+  avg_copies: 1.0
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
 - name: Skateboard
   weight: 1.0
   avg_copies: 1.0
+- name: Breeding Pool
+  weight: 1.0
+  avg_copies: 1.0
+- name: Otawara, Soaring City
+  weight: 1.0
+  avg_copies: 1.0
+- name: Vexing Bauble
+  weight: 1.0
+  avg_copies: 1.0
+- name: Lush Portico
+  weight: 1.0
+  avg_copies: 1.0
 - name: Rona, Herald of Invasion
   weight: 0.8571
   avg_copies: 1.17
-- name: Gemstone Caverns
+- name: Sewer-veillance Cam
   weight: 0.8571
   avg_copies: 1.0
-- name: Sewer-veillance Cam
+- name: Gemstone Caverns
   weight: 0.8571
   avg_copies: 1.0
 - name: Consign to Memory
@@ -119,22 +119,10 @@ top_cards:
 - name: card:loki-god-of-mischief
   weight: 0.1429
   avg_copies: 2.0
-- name: Annul
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Lluwen, Imperfect Naturalist
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Ceremonious Rejection
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Dredger's Insight
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Ashiok, Dream Render
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Phelia, Exuberant Shepherd
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Nihil Spellbomb
   weight: 0.1429
   avg_copies: 1.0
 - name: Urza's Ruinous Blast
@@ -143,7 +131,19 @@ top_cards:
 - name: Shadowspear
   weight: 0.1429
   avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Ceremonious Rejection
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Annul
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Dredger's Insight
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Lluwen, Imperfect Naturalist
   weight: 0.1429
   avg_copies: 1.0
 ---

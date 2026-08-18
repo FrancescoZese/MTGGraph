@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0006
 archetypes:
   mono-blue-belcher:
-    weight: 0.0111
+    weight: 0.011
     avg_copies: 2.0
   goryo:
     weight: 0.0026

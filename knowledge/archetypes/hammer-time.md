@@ -141,13 +141,13 @@ top_cards:
 - name: Test of Talents
   weight: 0.1176
   avg_copies: 2.0
-- name: Detect Intrusion
-  weight: 0.1176
-  avg_copies: 1.5
 - name: Prismatic Ending
   weight: 0.1176
   avg_copies: 1.5
 - name: Sigarda's Aid
+  weight: 0.1176
+  avg_copies: 1.5
+- name: Detect Intrusion
   weight: 0.1176
   avg_copies: 1.5
 - name: Spell Pierce
@@ -159,16 +159,16 @@ top_cards:
 - name: Voice of Victory
   weight: 0.1176
   avg_copies: 1.0
-- name: Kaldra Compleat
-  weight: 0.1176
-  avg_copies: 1.0
 - name: Skateboard
   weight: 0.1176
   avg_copies: 1.0
-- name: Mishra's Bauble
+- name: Kaldra Compleat
+  weight: 0.1176
+  avg_copies: 1.0
+- name: Flare of Fortitude
   weight: 0.0588
   avg_copies: 4.0
-- name: Flare of Fortitude
+- name: Mishra's Bauble
   weight: 0.0588
   avg_copies: 4.0
 - name: March of Otherworldly Light
@@ -180,37 +180,37 @@ top_cards:
 - name: Drannith Magistrate
   weight: 0.0588
   avg_copies: 2.0
-- name: High Noon
-  weight: 0.0588
-  avg_copies: 2.0
 - name: Solitude
   weight: 0.0588
   avg_copies: 2.0
 - name: Lavinia, Azorius Renegade
   weight: 0.0588
   avg_copies: 2.0
-- name: card:gingerbrute
+- name: High Noon
   weight: 0.0588
-  avg_copies: 1.0
-- name: card:spider-sense
-  weight: 0.0588
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Godless Shrine
-  weight: 0.0588
-  avg_copies: 1.0
-- name: Forge Anew
   weight: 0.0588
   avg_copies: 1.0
 - name: Stubborn Denial
   weight: 0.0588
   avg_copies: 1.0
+- name: Umezawa's Jitte
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Forge Anew
+  weight: 0.0588
+  avg_copies: 1.0
+- name: card:spider-sense
+  weight: 0.0588
+  avg_copies: 1.0
 - name: Spell Snare
   weight: 0.0588
   avg_copies: 1.0
-- name: card:my-precious
+- name: card:gingerbrute
   weight: 0.0588
   avg_copies: 1.0
-- name: Umezawa's Jitte
+- name: card:my-precious
   weight: 0.0588
   avg_copies: 1.0
 ---

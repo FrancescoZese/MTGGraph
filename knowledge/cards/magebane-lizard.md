@@ -10,8 +10,8 @@ type: Creature — Lizard
 meta_presence: 0.0068
 archetypes:
   boros-energy:
-    weight: 0.0026
-    avg_copies: 2.0
+    weight: 0.0039
+    avg_copies: 1.67
   affinity:
     weight: 0.0019
     avg_copies: 2.0
@@ -25,13 +25,13 @@ archetypes:
     weight: 0.0526
     avg_copies: 4.0
   unknown-67:
-    weight: 0.1522
+    weight: 0.1474
     avg_copies: 1.43
   unknown-86:
     weight: 0.1667
     avg_copies: 3.0
   unknown-96:
-    weight: 0.1042
+    weight: 0.0962
     avg_copies: 1.8
   unknown-90:
     weight: 1.0
@@ -40,7 +40,7 @@ archetypes:
     weight: 0.125
     avg_copies: 2.0
   unknown-101:
-    weight: 0.5217
+    weight: 0.5
     avg_copies: 3.33
   unknown-115:
     weight: 0.3333

@@ -7,7 +7,7 @@ name: Gran-Gran
 scryfall_id: fa434b41-e5f7-4989-865a-95db67b05cb1
 set: tla
 type: Legendary Creature — Human Peasant Ally
-meta_presence: 0.0063
+meta_presence: 0.0064
 archetypes:
   goryo:
     weight: 0.0026
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.0758
     avg_copies: 1.0
   goryo1:
-    weight: 0.0608
+    weight: 0.0604
     avg_copies: 3.0
   unknown-20:
     weight: 1.0

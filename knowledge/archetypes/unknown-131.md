@@ -7,25 +7,25 @@ name: 'Unknown #131'
 meta_share: 0.0013
 list_count: 9
 top_cards:
-- name: Psychic Frog
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ocelot Pride
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Quantum Riddler
   weight: 1.0
   avg_copies: 4.0
-- name: Guide of Souls
+- name: Ocelot Pride
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -49,22 +49,22 @@ top_cards:
 - name: Plains
   weight: 1.0
   avg_copies: 1.67
-- name: Meticulous Archive
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.67
-- name: Hallowed Fountain
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.67
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.22
-- name: Watery Grave
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
 - name: Starfield Shepherd
@@ -88,10 +88,10 @@ top_cards:
 - name: Thoughtseize
   weight: 0.6667
   avg_copies: 2.14
-- name: Surgical Extraction
+- name: Nihil Spellbomb
   weight: 0.5556
   avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Surgical Extraction
   weight: 0.5556
   avg_copies: 1.0
 - name: Burrenton Forge-Tender
@@ -106,10 +106,10 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.2222
   avg_copies: 2.5
-- name: Ashiok, Dream Render
+- name: High Noon
   weight: 0.2222
   avg_copies: 2.0
-- name: High Noon
+- name: Ashiok, Dream Render
   weight: 0.2222
   avg_copies: 2.0
 - name: Swamp
@@ -121,13 +121,13 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.1111
   avg_copies: 3.0
-- name: Containment Priest
-  weight: 0.1111
-  avg_copies: 2.0
 - name: Voice of Victory
   weight: 0.1111
   avg_copies: 2.0
-- name: Ghost Vacuum
+- name: Containment Priest
+  weight: 0.1111
+  avg_copies: 2.0
+- name: Floodfarm Verge
   weight: 0.1111
   avg_copies: 1.0
 - name: Clarion Conqueror
@@ -136,10 +136,10 @@ top_cards:
 - name: Elesh Norn, Mother of Machines
   weight: 0.1111
   avg_copies: 1.0
-- name: Floodfarm Verge
+- name: March of Otherworldly Light
   weight: 0.1111
   avg_copies: 1.0
-- name: March of Otherworldly Light
+- name: Ghost Vacuum
   weight: 0.1111
   avg_copies: 1.0
 ---

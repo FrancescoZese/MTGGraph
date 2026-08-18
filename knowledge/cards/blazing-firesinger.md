@@ -10,6 +10,6 @@ type: Creature — Dwarf Bard // Instant
 meta_presence: 0.0001
 archetypes:
   ruby-storm:
-    weight: 0.004
+    weight: 0.0039
     avg_copies: 1.0
 ---
