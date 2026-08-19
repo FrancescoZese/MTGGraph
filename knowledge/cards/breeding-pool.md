@@ -12,10 +12,10 @@ archetypes:
     weight: 0.0075
     avg_copies: 1.0
   goryo:
-    weight: 0.5321
+    weight: 0.5293
     avg_copies: 1.0
   azorius-control:
-    weight: 0.1619
+    weight: 0.1604
     avg_copies: 1.0
   living-end:
     weight: 1.0
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.0019
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0408
+    weight: 0.0405
     avg_copies: 1.0
   reanimator:
     weight: 0.037
@@ -36,10 +36,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0853
+    weight: 0.084
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.9896
+    weight: 0.9897
     avg_copies: 1.23
   4c-omnath:
     weight: 1.0
@@ -63,7 +63,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.71
   unknown-15:
-    weight: 0.8824
+    weight: 0.8889
     avg_copies: 1.0
   unknown-25:
     weight: 1.0
@@ -72,7 +72,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0065
+    weight: 0.0064
     avg_copies: 1.0
   unknown-54:
     weight: 0.6667
@@ -108,7 +108,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-97:
-    weight: 0.3333
+    weight: 0.3125
     avg_copies: 1.0
   unknown-100:
     weight: 0.75
@@ -135,8 +135,8 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   unknown-167:
-    weight: 0.8235
-    avg_copies: 1.21
+    weight: 0.8333
+    avg_copies: 1.27
   unknown-171:
     weight: 1.0
     avg_copies: 2.0
@@ -144,7 +144,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-194:
-    weight: 0.0769
+    weight: 0.0588
     avg_copies: 1.0
   unknown-200:
     weight: 1.0
@@ -153,7 +153,7 @@ archetypes:
     weight: 0.7333
     avg_copies: 1.0
   unknown-213:
-    weight: 0.125
+    weight: 0.2
     avg_copies: 1.0
   unknown-216:
     weight: 1.0

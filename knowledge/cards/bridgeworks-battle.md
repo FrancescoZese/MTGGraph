@@ -6,7 +6,7 @@ name: Bridgeworks Battle // Tanglespan Bridgeworks
 scryfall_id: ebef3db0-2b58-4581-a79c-fbca9a059e63
 set: mh3
 type: Sorcery // Land
-meta_presence: 0.0163
+meta_presence: 0.0161
 archetypes:
   hardened-scales:
     weight: 0.2
@@ -15,7 +15,7 @@ archetypes:
     weight: 0.9633
     avg_copies: 1.16
   simic-ritual:
-    weight: 0.0104
+    weight: 0.0103
     avg_copies: 2.0
   samwise-combo:
     weight: 0.0571

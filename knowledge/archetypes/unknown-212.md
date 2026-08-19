@@ -10,16 +10,25 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 5.0
-- name: Fatal Push
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
-- name: card:namor-the-sub-mariner
+- name: Thundertrap Trainer
   weight: 1.0
   avg_copies: 4.0
-- name: Thundertrap Trainer
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flare of Denial
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:namor-the-sub-mariner
   weight: 1.0
   avg_copies: 4.0
 - name: Counterspell
@@ -28,43 +37,28 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Archmage's Charm
   weight: 1.0
-  avg_copies: 4.0
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flare of Denial
-  weight: 1.0
-  avg_copies: 4.0
+  avg_copies: 3.0
 - name: Flame of Anor
   weight: 1.0
   avg_copies: 3.0
 - name: Force of Negation
   weight: 1.0
   avg_copies: 3.0
-- name: Archmage's Charm
-  weight: 1.0
-  avg_copies: 3.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 2.0
-- name: Meltdown
+- name: card:glistening-deluge
   weight: 1.0
   avg_copies: 2.0
 - name: Ghost Vacuum
   weight: 1.0
   avg_copies: 2.0
-- name: Lórien Revealed
-  weight: 1.0
-  avg_copies: 2.0
-- name: card:glistening-deluge
-  weight: 1.0
-  avg_copies: 2.0
-- name: Spell Snare
+- name: Meltdown
   weight: 1.0
   avg_copies: 2.0
 - name: Watery Grave
+  weight: 1.0
+  avg_copies: 2.0
+- name: Steam Vents
   weight: 1.0
   avg_copies: 2.0
 - name: Tamiyo, Inquisitive Student
@@ -76,16 +70,22 @@ top_cards:
 - name: Undercity Sewers
   weight: 1.0
   avg_copies: 2.0
-- name: Flooded Strand
+- name: Lórien Revealed
   weight: 1.0
-  avg_copies: 1.0
-- name: Mystical Dispute
+  avg_copies: 2.0
+- name: Spell Snare
+  weight: 1.0
+  avg_copies: 2.0
+- name: Damnation
   weight: 1.0
   avg_copies: 1.0
 - name: Sheoldred's Edict
   weight: 1.0
   avg_copies: 1.0
-- name: Damnation
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 1.0
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 1.0
 ---

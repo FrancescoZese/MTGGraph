@@ -7,7 +7,7 @@ name: Quantum Riddler
 scryfall_id: 120be808-ff3b-4fca-96a1-4db6b9825856
 set: eoe
 type: Creature — Sphinx
-meta_presence: 0.1736
+meta_presence: 0.175
 archetypes:
   boros-energy:
     weight: 0.0026
@@ -19,11 +19,14 @@ archetypes:
     weight: 0.9925
     avg_copies: 3.82
   goryo:
-    weight: 0.7558
-    avg_copies: 3.09
+    weight: 0.7583
+    avg_copies: 3.08
   necrodominance:
     weight: 0.0222
     avg_copies: 3.0
+  azorius-control:
+    weight: 0.0094
+    avg_copies: 4.0
   jeskai-control:
     weight: 0.0339
     avg_copies: 1.5
@@ -31,7 +34,7 @@ archetypes:
     weight: 0.0019
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.2925
+    weight: 0.2973
     avg_copies: 3.73
   reanimator:
     weight: 0.5556
@@ -40,17 +43,17 @@ archetypes:
     weight: 0.0092
     avg_copies: 2.0
   simic-ritual:
-    weight: 0.0312
+    weight: 0.0309
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0053
+    weight: 0.0052
     avg_copies: 1.5
   4c-omnath:
     weight: 1.0
     avg_copies: 3.5
   esper-blink:
-    weight: 0.9869
-    avg_copies: 3.67
+    weight: 0.9873
+    avg_copies: 3.68
   bant-control:
     weight: 1.0
     avg_copies: 4.0
@@ -67,11 +70,11 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.1703
+    weight: 0.1694
     avg_copies: 1.65
   goryo2:
     weight: 1.0
-    avg_copies: 3.51
+    avg_copies: 3.53
   goryo3:
     weight: 1.0
     avg_copies: 3.0
@@ -94,8 +97,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-15:
-    weight: 0.7059
-    avg_copies: 2.33
+    weight: 0.7222
+    avg_copies: 2.31
   unknown-22:
     weight: 0.25
     avg_copies: 2.0
@@ -109,8 +112,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9935
-    avg_copies: 3.17
+    weight: 0.9936
+    avg_copies: 3.18
   unknown-62:
     weight: 1.0
     avg_copies: 3.49
@@ -121,7 +124,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-67:
-    weight: 0.0526
+    weight: 0.0515
     avg_copies: 1.12
   unknown-70:
     weight: 1.0
@@ -178,8 +181,8 @@ archetypes:
     weight: 0.5
     avg_copies: 3.0
   unknown-139:
-    weight: 0.0909
-    avg_copies: 3.0
+    weight: 0.1667
+    avg_copies: 2.0
   unknown-140:
     weight: 1.0
     avg_copies: 4.0
@@ -188,7 +191,7 @@ archetypes:
     avg_copies: 3.2
   unknown-149:
     weight: 1.0
-    avg_copies: 3.93
+    avg_copies: 3.94
   unknown-158:
     weight: 1.0
     avg_copies: 4.0
@@ -199,7 +202,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.75
   unknown-167:
-    weight: 0.2353
+    weight: 0.2222
     avg_copies: 1.0
   unknown-175:
     weight: 1.0
@@ -214,8 +217,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-213:
-    weight: 0.125
-    avg_copies: 2.0
+    weight: 0.3
+    avg_copies: 1.5
   unknown-214:
     weight: 1.0
     avg_copies: 2.0

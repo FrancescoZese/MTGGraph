@@ -13,7 +13,7 @@ archetypes:
     weight: 0.6737
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0104
+    weight: 0.0103
     avg_copies: 1.0
   mono-green-ramp:
     weight: 1.0
@@ -31,14 +31,14 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-61:
-    weight: 0.0096
+    weight: 0.0092
     avg_copies: 1.0
   unknown-88:
     weight: 0.0625
     avg_copies: 1.0
   unknown-126:
-    weight: 0.6571
-    avg_copies: 1.04
+    weight: 0.6283
+    avg_copies: 1.05
   unknown-130:
     weight: 1.0
     avg_copies: 1.0

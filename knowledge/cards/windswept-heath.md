@@ -6,19 +6,19 @@ name: Windswept Heath
 scryfall_id: bd1d13f7-fd38-4f0b-a8e0-1eac78668117
 set: mh3
 type: Land
-meta_presence: 0.14
+meta_presence: 0.1408
 archetypes:
   boros-energy:
-    weight: 0.3842
+    weight: 0.3837
     avg_copies: 2.72
   jeskai-energy:
     weight: 0.0075
     avg_copies: 3.0
   amulet-titan:
-    weight: 0.0176
+    weight: 0.0175
     avg_copies: 1.0
   azorius-control:
-    weight: 0.1143
+    weight: 0.1132
     avg_copies: 1.58
   jeskai-control:
     weight: 0.0169
@@ -36,26 +36,26 @@ archetypes:
     weight: 0.9579
     avg_copies: 2.98
   eldrazi-ramp:
-    weight: 0.7984
+    weight: 0.8015
     avg_copies: 1.3
   simic-ritual:
-    weight: 0.0729
+    weight: 0.0722
     avg_copies: 2.0
   4c-omnath:
     weight: 1.0
     avg_copies: 3.25
   esper-blink:
-    weight: 0.0065
+    weight: 0.0063
     avg_copies: 1.0
   samwise-combo:
     weight: 1.0
     avg_copies: 3.83
   broodscale-combo:
-    weight: 0.273
+    weight: 0.2753
     avg_copies: 1.1
   orzhov-blink:
-    weight: 0.0588
-    avg_copies: 2.0
+    weight: 0.1111
+    avg_copies: 1.5
   bant-control:
     weight: 1.0
     avg_copies: 1.0
@@ -123,7 +123,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-97:
-    weight: 0.6
+    weight: 0.625
     avg_copies: 1.0
   unknown-114:
     weight: 1.0
@@ -133,7 +133,7 @@ archetypes:
     avg_copies: 3.0
   unknown-126:
     weight: 1.0
-    avg_copies: 2.55
+    avg_copies: 2.51
   unknown-130:
     weight: 1.0
     avg_copies: 2.0
@@ -150,7 +150,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.6
   unknown-149:
-    weight: 0.2143
+    weight: 0.3125
     avg_copies: 1.0
   unknown-152:
     weight: 1.0
@@ -202,7 +202,7 @@ archetypes:
     avg_copies: 4.0
   unknown-238:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.67
   unknown-241:
     weight: 1.0
     avg_copies: 3.0

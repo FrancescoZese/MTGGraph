@@ -6,13 +6,13 @@ name: Duskwatch Recruiter // Krallenhorde Howler
 scryfall_id: 4ef68479-ab2e-4a60-886c-ad007b64f185
 set: inr
 type: Creature — Human Warrior Werewolf // Creature — Werewolf
-meta_presence: 0.0135
+meta_presence: 0.0143
 archetypes:
   devoted-combo:
     weight: 1.0
     avg_copies: 1.0
   unknown-126:
-    weight: 0.8857
+    weight: 0.885
     avg_copies: 1.0
   unknown-224:
     weight: 1.0

@@ -6,11 +6,11 @@ name: Bloodstained Mire
 scryfall_id: 579743fe-f71e-4cb2-8629-d6b02ed1591d
 set: mh3
 type: Land
-meta_presence: 0.1972
+meta_presence: 0.1974
 archetypes:
   ruby-storm:
-    weight: 0.9646
-    avg_copies: 2.42
+    weight: 0.9648
+    avg_copies: 2.43
   boros-energy:
     weight: 0.0078
     avg_copies: 2.5
@@ -21,7 +21,7 @@ archetypes:
     weight: 0.2667
     avg_copies: 1.92
   domain-zoo:
-    weight: 0.0136
+    weight: 0.0135
     avg_copies: 4.0
   reanimator:
     weight: 0.8889
@@ -36,16 +36,16 @@ archetypes:
     weight: 1.0
     avg_copies: 3.56
   simic-ritual:
-    weight: 0.0104
+    weight: 0.0103
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.9492
+    weight: 0.9501
     avg_copies: 2.9
   indomitable-creativity:
     weight: 1.0
     avg_copies: 2.73
   orzhov-blink:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 2.0
   dredge:
     weight: 0.9643
@@ -123,14 +123,14 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-45:
-    weight: 0.1
+    weight: 0.0968
     avg_copies: 2.33
   unknown-46:
     weight: 1.0
     avg_copies: 2.12
   unknown-47:
-    weight: 0.3052
-    avg_copies: 1.57
+    weight: 0.3057
+    avg_copies: 1.62
   unknown-50:
     weight: 1.0
     avg_copies: 2.0
@@ -153,8 +153,8 @@ archetypes:
     weight: 0.95
     avg_copies: 2.18
   unknown-69:
-    weight: 0.875
-    avg_copies: 1.43
+    weight: 0.8889
+    avg_copies: 1.38
   unknown-71:
     weight: 1.0
     avg_copies: 2.0
@@ -172,7 +172,7 @@ archetypes:
     avg_copies: 1.5
   unknown-96:
     weight: 1.0
-    avg_copies: 3.23
+    avg_copies: 3.19
   unknown-91:
     weight: 1.0
     avg_copies: 2.0
@@ -184,7 +184,7 @@ archetypes:
     avg_copies: 4.0
   unknown-101:
     weight: 1.0
-    avg_copies: 3.33
+    avg_copies: 3.36
   unknown-105:
     weight: 1.0
     avg_copies: 1.0
@@ -222,8 +222,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-139:
-    weight: 0.9091
-    avg_copies: 1.3
+    weight: 0.9167
+    avg_copies: 1.27
   unknown-141:
     weight: 1.0
     avg_copies: 4.0

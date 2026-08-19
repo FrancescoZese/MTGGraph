@@ -7,16 +7,16 @@ name: Sheoldred's Edict
 scryfall_id: a9225cc3-90f0-448f-a8d9-7c6c2796d077
 set: one
 type: Instant
-meta_presence: 0.044
+meta_presence: 0.0443
 archetypes:
   dimir-control:
     weight: 0.9012
     avg_copies: 2.07
   amulet-titan:
-    weight: 0.0059
+    weight: 0.0058
     avg_copies: 2.0
   goryo:
-    weight: 0.0026
+    weight: 0.0025
     avg_copies: 1.0
   necrodominance:
     weight: 0.3111
@@ -34,10 +34,10 @@ archetypes:
     weight: 0.0588
     avg_copies: 2.0
   esper-blink:
-    weight: 0.0065
+    weight: 0.0063
     avg_copies: 2.0
   orzhov-blink:
-    weight: 0.1765
+    weight: 0.2222
     avg_copies: 2.0
   jund-saga:
     weight: 0.25
@@ -73,19 +73,19 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.7273
-    avg_copies: 1.25
+    weight: 0.7325
+    avg_copies: 1.26
   unknown-56:
     weight: 1.0
     avg_copies: 2.0
   unknown-69:
-    weight: 0.5
-    avg_copies: 1.43
+    weight: 0.5556
+    avg_copies: 1.33
   unknown-91:
     weight: 1.0
     avg_copies: 2.0
   unknown-101:
-    weight: 0.2917
+    weight: 0.28
     avg_copies: 1.0
   unknown-111:
     weight: 1.0
@@ -97,7 +97,7 @@ archetypes:
     weight: 0.3636
     avg_copies: 1.14
   unknown-139:
-    weight: 0.0909
+    weight: 0.0833
     avg_copies: 2.0
   unknown-141:
     weight: 1.0
@@ -130,8 +130,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-225:
-    weight: 1.0
-    avg_copies: 1.0
+    weight: 0.5
+    avg_copies: 1.5
   unknown-240:
     weight: 1.0
     avg_copies: 2.0

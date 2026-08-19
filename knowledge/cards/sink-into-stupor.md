@@ -6,7 +6,7 @@ name: Sink into Stupor // Soporific Springs
 scryfall_id: 5358b87a-1a29-426d-b165-40c97da2c14d
 set: mh3
 type: Instant // Land
-meta_presence: 0.1869
+meta_presence: 0.1861
 archetypes:
   ruby-storm:
     weight: 0.0039
@@ -18,10 +18,10 @@ archetypes:
     weight: 1.0
     avg_copies: 3.98
   goryo:
-    weight: 0.0463
+    weight: 0.0458
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0667
+    weight: 0.066
     avg_copies: 1.29
   living-end:
     weight: 1.0
@@ -42,10 +42,10 @@ archetypes:
     weight: 0.6923
     avg_copies: 1.56
   simic-ritual:
-    weight: 0.9792
-    avg_copies: 3.76
+    weight: 0.9794
+    avg_copies: 3.75
   izzet-prowess:
-    weight: 0.0027
+    weight: 0.0026
     avg_copies: 1.0
   azorius-blink:
     weight: 0.0152
@@ -54,8 +54,8 @@ archetypes:
     weight: 0.5312
     avg_copies: 2.06
   izzet-wizards:
-    weight: 0.5833
-    avg_copies: 1.29
+    weight: 0.6154
+    avg_copies: 1.38
   eldrazi-breach:
     weight: 0.4
     avg_copies: 1.0
@@ -63,7 +63,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.2418
+    weight: 0.2404
     avg_copies: 1.0
   goryo7:
     weight: 1.0
@@ -90,7 +90,7 @@ archetypes:
     weight: 0.8
     avg_copies: 1.75
   unknown-15:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 2.0
   unknown-16:
     weight: 1.0
@@ -120,7 +120,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9805
+    weight: 0.9745
     avg_copies: 1.95
   unknown-49:
     weight: 0.7778
@@ -135,8 +135,8 @@ archetypes:
     weight: 0.9655
     avg_copies: 2.18
   unknown-67:
-    weight: 0.9789
-    avg_copies: 1.54
+    weight: 0.9794
+    avg_copies: 1.53
   unknown-82:
     weight: 1.0
     avg_copies: 2.67
@@ -183,8 +183,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-167:
-    weight: 0.4118
-    avg_copies: 1.29
+    weight: 0.4444
+    avg_copies: 1.25
   unknown-165:
     weight: 1.0
     avg_copies: 1.0

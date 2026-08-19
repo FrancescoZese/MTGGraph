@@ -16,8 +16,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-126:
-    weight: 0.0952
-    avg_copies: 1.2
+    weight: 0.0973
+    avg_copies: 1.18
   unknown-153:
     weight: 1.0
     avg_copies: 3.0
@@ -36,7 +36,7 @@ archetypes:
 cmc: 0
 colors: []
 image: https://cards.scryfall.io/normal/front/e/e/ee0f88ac-8a90-4057-b0e6-c15fbd02da38.jpg?1619398774
-meta_presence: 0.052
+meta_presence: 0.0517
 name: Summoner's Pact
 scryfall_id: ee0f88ac-8a90-4057-b0e6-c15fbd02da38
 set: tsr

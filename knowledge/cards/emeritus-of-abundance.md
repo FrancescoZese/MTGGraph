@@ -7,10 +7,13 @@ name: Emeritus of Abundance // Regrowth
 scryfall_id: ac095763-6f4e-4d4e-9c99-414646368f8d
 set: sos
 type: Creature — Elf Druid // Sorcery
-meta_presence: 0.0017
+meta_presence: 0.0018
 archetypes:
   amulet-titan:
-    weight: 0.0118
+    weight: 0.0117
+    avg_copies: 1.0
+  eldrazi-ramp:
+    weight: 0.0076
     avg_copies: 1.0
   unknown-93:
     weight: 1.0

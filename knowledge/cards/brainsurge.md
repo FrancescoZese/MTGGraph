@@ -10,10 +10,10 @@ type: Instant
 meta_presence: 0.0048
 archetypes:
   azorius-control:
-    weight: 0.1048
+    weight: 0.1038
     avg_copies: 2.27
   living-end:
-    weight: 0.0132
+    weight: 0.013
     avg_copies: 1.0
   jeskai-control:
     weight: 0.0339
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.0667
     avg_copies: 1.0
   izzet-wizards:
-    weight: 0.0833
+    weight: 0.0769
     avg_copies: 2.0
   sultai-midrange:
     weight: 0.25
@@ -34,7 +34,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-67:
-    weight: 0.0105
+    weight: 0.0103
     avg_copies: 1.0
   unknown-104:
     weight: 1.0

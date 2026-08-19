@@ -6,22 +6,10 @@ name: 'Unknown #145'
 meta_share: 0.0001
 list_count: 1
 top_cards:
-- name: Green Sun's Zenith
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:venerated-rotpriest
-  weight: 1.0
-  avg_copies: 4.0
-- name: Verdant Catacombs
-  weight: 1.0
-  avg_copies: 4.0
 - name: Preordain
   weight: 1.0
   avg_copies: 4.0
 - name: Misty Rainforest
-  weight: 1.0
-  avg_copies: 4.0
-- name: Force of Negation
   weight: 1.0
   avg_copies: 4.0
 - name: card:blighted-agent
@@ -30,30 +18,39 @@ top_cards:
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 4.0
-- name: card:march-of-swirling-mist
+- name: Force of Negation
   weight: 1.0
-  avg_copies: 3.0
-- name: card:scale-up
+  avg_copies: 4.0
+- name: Verdant Catacombs
   weight: 1.0
-  avg_copies: 3.0
-- name: Force of Vigor
+  avg_copies: 4.0
+- name: card:venerated-rotpriest
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 4.0
+- name: Green Sun's Zenith
+  weight: 1.0
+  avg_copies: 4.0
 - name: Vines of Vastwood
-  weight: 1.0
-  avg_copies: 3.0
-- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
 - name: Endurance
   weight: 1.0
   avg_copies: 3.0
+- name: card:scale-up
+  weight: 1.0
+  avg_copies: 3.0
 - name: card:might-of-old-krosa
   weight: 1.0
   avg_copies: 3.0
-- name: card:shore-up
+- name: Force of Vigor
   weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 3.0
+- name: card:march-of-swirling-mist
+  weight: 1.0
+  avg_copies: 3.0
+- name: Consign to Memory
+  weight: 1.0
+  avg_copies: 3.0
 - name: Inkmoth Nexus
   weight: 1.0
   avg_copies: 2.0
@@ -66,16 +63,16 @@ top_cards:
 - name: Sylvan Scrying
   weight: 1.0
   avg_copies: 2.0
+- name: card:shore-up
+  weight: 1.0
+  avg_copies: 2.0
 - name: Veil of Summer
   weight: 1.0
   avg_copies: 2.0
-- name: card:glistener-elf
-  weight: 1.0
-  avg_copies: 1.0
 - name: Mockingbird
   weight: 1.0
   avg_copies: 1.0
-- name: Forest
+- name: card:glistener-elf
   weight: 1.0
   avg_copies: 1.0
 - name: Boseiju, Who Endures
@@ -87,10 +84,13 @@ top_cards:
 - name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
-- name: card:tifa-lockhart
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
-- name: Dryad Arbor
+- name: Forest
+  weight: 1.0
+  avg_copies: 1.0
+- name: card:tifa-lockhart
   weight: 1.0
   avg_copies: 1.0
 ---

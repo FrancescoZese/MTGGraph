@@ -6,7 +6,7 @@ name: Snow-Covered Plains
 scryfall_id: afd2730f-878e-47ee-ad2a-73f8fa4e0794
 set: khm
 type: Basic Snow Land — Plains
-meta_presence: 0.0091
+meta_presence: 0.009
 archetypes:
   boros-energy:
     weight: 0.0194
@@ -15,7 +15,7 @@ archetypes:
     weight: 0.1343
     avg_copies: 1.83
   azorius-control:
-    weight: 0.0286
+    weight: 0.0283
     avg_copies: 1.0
   mardu-blink:
     weight: 0.625
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.0142
     avg_copies: 4.0
   esper-blink:
-    weight: 0.0131
+    weight: 0.0127
     avg_copies: 1.0
   azorius-blink:
     weight: 0.0152

@@ -9,16 +9,16 @@ top_cards:
 - name: Counterspell
   weight: 1.0
   avg_copies: 4.0
-- name: Prismatic Ending
+- name: Brainsurge
   weight: 1.0
   avg_copies: 3.5
-- name: Brainsurge
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 3.5
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 3.5
-- name: Mystical Dispute
+- name: Prismatic Ending
   weight: 1.0
   avg_copies: 3.5
 - name: Solitude
@@ -27,19 +27,16 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 2.67
-- name: Island
-  weight: 1.0
-  avg_copies: 2.5
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 2.5
-- name: Wan Shi Tong, Librarian
+- name: Island
+  weight: 1.0
+  avg_copies: 2.5
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 2.0
 - name: Mystic Gate
-  weight: 1.0
-  avg_copies: 2.0
-- name: Meticulous Archive
   weight: 1.0
   avg_copies: 2.0
 - name: Polluted Delta
@@ -48,13 +45,28 @@ top_cards:
 - name: Consult the Star Charts
   weight: 1.0
   avg_copies: 2.0
-- name: Spell Snare
+- name: Wan Shi Tong, Librarian
   weight: 1.0
-  avg_copies: 1.67
+  avg_copies: 2.0
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 1.67
+- name: Spell Snare
+  weight: 1.0
+  avg_copies: 1.67
+- name: Scalding Tarn
+  weight: 1.0
+  avg_copies: 1.5
 - name: Plains
+  weight: 1.0
+  avg_copies: 1.5
+- name: Tune the Narrative
+  weight: 1.0
+  avg_copies: 1.5
+- name: Teferi, Hero of Dominaria
+  weight: 1.0
+  avg_copies: 1.5
+- name: Logic Knot
   weight: 1.0
   avg_copies: 1.5
 - name: Hallowed Fountain
@@ -63,28 +75,16 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 1.0
   avg_copies: 1.5
-- name: Scalding Tarn
-  weight: 1.0
-  avg_copies: 1.5
-- name: Teferi, Hero of Dominaria
-  weight: 1.0
-  avg_copies: 1.5
-- name: Tune the Narrative
-  weight: 1.0
-  avg_copies: 1.5
-- name: Logic Knot
-  weight: 1.0
-  avg_copies: 1.5
 - name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 1.33
 - name: Castle Vantress
   weight: 1.0
   avg_copies: 1.0
-- name: Misty Rainforest
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
-- name: Undercity Sewers
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 1.0
 - name: Archmage's Charm
@@ -93,28 +93,28 @@ top_cards:
 - name: Field of Ruin
   weight: 0.5
   avg_copies: 2.0
-- name: Steam Vents
+- name: Snapcaster Mage
   weight: 0.5
   avg_copies: 1.0
-- name: Supreme Verdict
-  weight: 0.5
-  avg_copies: 1.0
-- name: Test of Talents
-  weight: 0.5
-  avg_copies: 1.0
-- name: Marsh Flats
-  weight: 0.5
-  avg_copies: 1.0
-- name: Celestial Purge
+- name: Surgical Extraction
   weight: 0.5
   avg_copies: 1.0
 - name: Dress Down
   weight: 0.5
   avg_copies: 1.0
-- name: Snapcaster Mage
+- name: Steam Vents
   weight: 0.5
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Marsh Flats
+  weight: 0.5
+  avg_copies: 1.0
+- name: Supreme Verdict
+  weight: 0.5
+  avg_copies: 1.0
+- name: Celestial Purge
+  weight: 0.5
+  avg_copies: 1.0
+- name: Test of Talents
   weight: 0.5
   avg_copies: 1.0
 ---

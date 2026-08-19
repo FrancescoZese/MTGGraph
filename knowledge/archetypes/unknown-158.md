@@ -6,16 +6,16 @@ name: 'Unknown #158'
 meta_share: 0.0001
 list_count: 1
 top_cards:
-- name: Quantum Riddler
-  weight: 1.0
-  avg_copies: 4.0
 - name: Field of Ruin
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Consult the Star Charts
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Wan Shi Tong, Librarian
@@ -24,40 +24,22 @@ top_cards:
 - name: Counterspell
   weight: 1.0
   avg_copies: 4.0
+- name: Solitude
+  weight: 1.0
+  avg_copies: 4.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Consult the Star Charts
+- name: Wrath of the Skies
   weight: 1.0
-  avg_copies: 4.0
+  avg_copies: 3.0
 - name: Erode
   weight: 1.0
   avg_copies: 3.0
 - name: Spell Snare
   weight: 1.0
   avg_copies: 3.0
-- name: Wrath of the Skies
-  weight: 1.0
-  avg_copies: 3.0
-- name: Plains
-  weight: 1.0
-  avg_copies: 2.0
-- name: Supreme Verdict
-  weight: 1.0
-  avg_copies: 2.0
 - name: Relic of Progenitus
-  weight: 1.0
-  avg_copies: 2.0
-- name: Prismatic Ending
-  weight: 1.0
-  avg_copies: 2.0
-- name: Hallowed Fountain
-  weight: 1.0
-  avg_copies: 2.0
-- name: Mystical Dispute
-  weight: 1.0
-  avg_copies: 2.0
-- name: Meticulous Archive
   weight: 1.0
   avg_copies: 2.0
 - name: Scalding Tarn
@@ -66,19 +48,40 @@ top_cards:
 - name: Dovin's Veto
   weight: 1.0
   avg_copies: 2.0
+- name: Meticulous Archive
+  weight: 1.0
+  avg_copies: 2.0
 - name: Subtlety
+  weight: 1.0
+  avg_copies: 2.0
+- name: Plains
+  weight: 1.0
+  avg_copies: 2.0
+- name: Supreme Verdict
+  weight: 1.0
+  avg_copies: 2.0
+- name: Hallowed Fountain
+  weight: 1.0
+  avg_copies: 2.0
+- name: Mystical Dispute
+  weight: 1.0
+  avg_copies: 2.0
+- name: Prismatic Ending
   weight: 1.0
   avg_copies: 2.0
 - name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 1.5
+- name: Thundering Falls
+  weight: 1.0
+  avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Celestial Purge
   weight: 1.0
   avg_copies: 1.0
 - name: Wear
@@ -87,10 +90,7 @@ top_cards:
 - name: Mystic Gate
   weight: 1.0
   avg_copies: 1.0
-- name: Celestial Purge
-  weight: 1.0
-  avg_copies: 1.0
-- name: Thundering Falls
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 ---

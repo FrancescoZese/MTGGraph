@@ -7,7 +7,7 @@ name: Metallic Rebuke
 scryfall_id: 34785944-7b51-48a9-855c-3e656cd78251
 set: 2xm
 type: Instant
-meta_presence: 0.0806
+meta_presence: 0.0803
 archetypes:
   affinity:
     weight: 0.8606
@@ -25,8 +25,8 @@ archetypes:
     weight: 0.6667
     avg_copies: 3.5
   unknown-15:
-    weight: 0.9412
-    avg_copies: 3.59
+    weight: 0.9444
+    avg_copies: 3.56
   unknown-44:
     weight: 1.0
     avg_copies: 3.0
@@ -47,7 +47,7 @@ archetypes:
     avg_copies: 2.0
   unknown-167:
     weight: 1.0
-    avg_copies: 3.71
+    avg_copies: 3.67
   unknown-170:
     weight: 1.0
     avg_copies: 4.0
@@ -55,6 +55,6 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-213:
-    weight: 0.25
-    avg_copies: 3.5
+    weight: 0.4
+    avg_copies: 3.25
 ---

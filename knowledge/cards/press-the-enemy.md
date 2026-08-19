@@ -10,9 +10,9 @@ type: Instant
 meta_presence: 0.0004
 archetypes:
   living-end:
-    weight: 0.0132
+    weight: 0.013
     avg_copies: 1.0
   unknown-67:
-    weight: 0.0211
+    weight: 0.0206
     avg_copies: 1.0
 ---

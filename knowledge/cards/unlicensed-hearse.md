@@ -6,13 +6,16 @@ name: Unlicensed Hearse
 scryfall_id: 93ee60f7-31dd-4bc6-b71f-57a1a0d19d20
 set: snc
 type: Artifact — Vehicle
-meta_presence: 0.001
+meta_presence: 0.0011
 archetypes:
   boros-energy:
     weight: 0.0013
     avg_copies: 2.0
   jeskai-control:
     weight: 0.0169
+    avg_copies: 1.0
+  izzet-wizards:
+    weight: 0.0769
     avg_copies: 1.0
   unknown-134:
     weight: 1.0

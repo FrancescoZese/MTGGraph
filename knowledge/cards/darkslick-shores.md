@@ -15,13 +15,13 @@ archetypes:
     weight: 0.0278
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0065
+    weight: 0.0063
     avg_copies: 1.0
   esper-midrange:
     weight: 1.0
     avg_copies: 1.0
   goryo1:
-    weight: 0.1319
+    weight: 0.1311
     avg_copies: 1.0
   grixis-control:
     weight: 0.1429
@@ -36,8 +36,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-47:
-    weight: 0.7792
-    avg_copies: 1.29
+    weight: 0.7771
+    avg_copies: 1.3
   unknown-50:
     weight: 1.0
     avg_copies: 4.0
@@ -48,7 +48,7 @@ archetypes:
     weight: 0.5455
     avg_copies: 1.67
   unknown-139:
-    weight: 0.0909
+    weight: 0.0833
     avg_copies: 3.0
   unknown-229:
     weight: 1.0

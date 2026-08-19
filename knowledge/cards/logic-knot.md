@@ -13,10 +13,10 @@ archetypes:
     weight: 0.1728
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0095
+    weight: 0.0094
     avg_copies: 1.0
   izzet-wizards:
-    weight: 0.3333
+    weight: 0.3077
     avg_copies: 1.0
   grixis-control:
     weight: 0.1429

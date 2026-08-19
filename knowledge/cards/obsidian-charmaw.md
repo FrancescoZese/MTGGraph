@@ -7,22 +7,22 @@ name: Obsidian Charmaw
 scryfall_id: ee6d08be-a6fc-44a5-932d-b6a8705534c0
 set: mh2
 type: Creature — Dragon
-meta_presence: 0.1601
+meta_presence: 0.1592
 archetypes:
   boros-energy:
-    weight: 0.8266
+    weight: 0.8269
     avg_copies: 2.43
   jeskai-energy:
     weight: 0.9776
     avg_copies: 2.74
   azorius-control:
-    weight: 0.0095
+    weight: 0.0094
     avg_copies: 2.0
   jeskai-control:
     weight: 0.0847
     avg_copies: 2.8
   domain-zoo:
-    weight: 0.6259
+    weight: 0.6284
     avg_copies: 2.13
   reanimator:
     weight: 0.1111
@@ -37,13 +37,13 @@ archetypes:
     weight: 0.4118
     avg_copies: 2.5
   izzet-prowess:
-    weight: 0.0267
+    weight: 0.0262
     avg_copies: 1.9
   4c-omnath:
     weight: 1.0
     avg_copies: 2.25
   izzet-wizards:
-    weight: 0.5
+    weight: 0.4615
     avg_copies: 2.67
   jund-saga:
     weight: 0.5
@@ -67,7 +67,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-15:
-    weight: 0.1176
+    weight: 0.1667
     avg_copies: 2.0
   unknown-22:
     weight: 0.5
@@ -100,7 +100,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-67:
-    weight: 0.0947
+    weight: 0.0928
     avg_copies: 3.22
   unknown-68:
     weight: 0.5
@@ -121,7 +121,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 3.0
   unknown-96:
-    weight: 0.5962
+    weight: 0.5849
     avg_copies: 2.06
   unknown-90:
     weight: 1.0
@@ -133,7 +133,7 @@ archetypes:
     weight: 0.75
     avg_copies: 2.0
   unknown-101:
-    weight: 0.3333
+    weight: 0.32
     avg_copies: 2.0
   unknown-114:
     weight: 1.0
@@ -157,7 +157,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-149:
-    weight: 0.2857
+    weight: 0.25
     avg_copies: 2.75
   unknown-152:
     weight: 0.6667
@@ -183,9 +183,12 @@ archetypes:
   unknown-231:
     weight: 1.0
     avg_copies: 4.0
+  unknown-230:
+    weight: 0.5
+    avg_copies: 2.0
   unknown-238:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.33
   unknown-250:
     weight: 1.0
     avg_copies: 4.0

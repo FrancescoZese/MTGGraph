@@ -6,7 +6,7 @@ name: Plains
 scryfall_id: d85d0f25-a24a-4de0-9b8b-93fb5017bce9
 set: sos
 type: Basic Land — Plains
-meta_presence: 0.349
+meta_presence: 0.3486
 archetypes:
   boros-energy:
     weight: 0.9819
@@ -15,8 +15,8 @@ archetypes:
     weight: 0.8657
     avg_copies: 1.63
   eldrazi-tron:
-    weight: 0.0031
-    avg_copies: 3.0
+    weight: 0.0061
+    avg_copies: 2.5
   goryo:
     weight: 0.9949
     avg_copies: 1.0
@@ -48,14 +48,14 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   esper-blink:
-    weight: 0.9869
-    avg_copies: 1.56
+    weight: 0.9873
+    avg_copies: 1.57
   indomitable-creativity:
     weight: 0.5333
     avg_copies: 1.0
   orzhov-blink:
     weight: 1.0
-    avg_copies: 1.88
+    avg_copies: 1.89
   bant-control:
     weight: 1.0
     avg_copies: 2.0
@@ -82,7 +82,7 @@ archetypes:
     avg_copies: 8.0
   goryo2:
     weight: 1.0
-    avg_copies: 1.11
+    avg_copies: 1.13
   goryo3:
     weight: 1.0
     avg_copies: 2.0
@@ -171,7 +171,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.0192
+    weight: 0.0189
     avg_copies: 1.0
   unknown-89:
     weight: 1.0
@@ -232,7 +232,7 @@ archetypes:
     avg_copies: 1.0
   unknown-149:
     weight: 1.0
-    avg_copies: 1.57
+    avg_copies: 1.62
   unknown-158:
     weight: 1.0
     avg_copies: 2.0
@@ -241,7 +241,7 @@ archetypes:
     avg_copies: 1.0
   unknown-160:
     weight: 1.0
-    avg_copies: 3.13
+    avg_copies: 3.1
   unknown-159:
     weight: 1.0
     avg_copies: 3.0
@@ -249,7 +249,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-167:
-    weight: 0.1176
+    weight: 0.1111
     avg_copies: 1.0
   unknown-169:
     weight: 1.0
@@ -309,7 +309,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-213:
-    weight: 0.25
+    weight: 0.3
     avg_copies: 1.0
   unknown-216:
     weight: 1.0
@@ -350,6 +350,9 @@ archetypes:
   unknown-250:
     weight: 1.0
     avg_copies: 1.0
+  unknown-254:
+    weight: 1.0
+    avg_copies: 2.0
   unknown-253:
     weight: 1.0
     avg_copies: 1.0

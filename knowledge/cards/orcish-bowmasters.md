@@ -13,13 +13,13 @@ archetypes:
     weight: 0.963
     avg_copies: 3.58
   goryo:
-    weight: 0.0026
+    weight: 0.0025
     avg_copies: 1.5
   necrodominance:
     weight: 1.0
     avg_copies: 3.69
   domain-zoo:
-    weight: 0.0612
+    weight: 0.0608
     avg_copies: 2.33
   reanimator:
     weight: 0.1481
@@ -34,17 +34,17 @@ archetypes:
     weight: 0.5263
     avg_copies: 1.65
   simic-ritual:
-    weight: 0.0521
+    weight: 0.0515
     avg_copies: 3.2
   esper-blink:
-    weight: 0.268
+    weight: 0.2595
     avg_copies: 2.02
   samwise-combo:
     weight: 0.6857
     avg_copies: 1.98
   orzhov-blink:
-    weight: 0.8235
-    avg_copies: 2.79
+    weight: 0.8333
+    avg_copies: 2.87
   jund-saga:
     weight: 1.0
     avg_copies: 3.25
@@ -58,7 +58,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.39
   goryo2:
-    weight: 0.4444
+    weight: 0.4255
     avg_copies: 2.0
   soultrader-combo:
     weight: 1.0
@@ -83,7 +83,7 @@ archetypes:
     avg_copies: 2.0
   unknown-24:
     weight: 1.0
-    avg_copies: 2.8
+    avg_copies: 2.81
   unknown-27:
     weight: 1.0
     avg_copies: 4.0
@@ -100,14 +100,14 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-45:
-    weight: 0.9667
+    weight: 0.9355
     avg_copies: 2.13
   unknown-46:
     weight: 1.0
     avg_copies: 3.5
   unknown-47:
     weight: 1.0
-    avg_copies: 3.11
+    avg_copies: 3.09
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
@@ -125,7 +125,7 @@ archetypes:
     avg_copies: 2.21
   unknown-69:
     weight: 1.0
-    avg_copies: 3.88
+    avg_copies: 3.78
   unknown-74:
     weight: 1.0
     avg_copies: 2.0
@@ -139,13 +139,13 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-96:
-    weight: 0.0577
+    weight: 0.0566
     avg_copies: 2.33
   unknown-100:
     weight: 0.5
     avg_copies: 2.0
   unknown-101:
-    weight: 0.875
+    weight: 0.88
     avg_copies: 3.86
   unknown-105:
     weight: 1.0
@@ -222,6 +222,9 @@ archetypes:
   unknown-218:
     weight: 1.0
     avg_copies: 2.0
+  unknown-225:
+    weight: 0.5
+    avg_copies: 1.0
   unknown-235:
     weight: 1.0
     avg_copies: 1.0

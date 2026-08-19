@@ -7,25 +7,25 @@ name: 'Unknown #224'
 meta_share: 0.0001
 list_count: 1
 top_cards:
-- name: Green Sun's Zenith
-  weight: 1.0
-  avg_copies: 4.0
 - name: Quirion Ranger
-  weight: 1.0
-  avg_copies: 4.0
-- name: Tyvar, Jubilant Brawler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Badgermole Cub
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:birds-of-paradise
   weight: 1.0
   avg_copies: 4.0
 - name: Devoted Druid
   weight: 1.0
   avg_copies: 4.0
+- name: Green Sun's Zenith
+  weight: 1.0
+  avg_copies: 4.0
 - name: Misty Rainforest
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:birds-of-paradise
+  weight: 1.0
+  avg_copies: 4.0
+- name: Badgermole Cub
+  weight: 1.0
+  avg_copies: 4.0
+- name: Tyvar, Jubilant Brawler
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline of Abundance
@@ -37,46 +37,19 @@ top_cards:
 - name: Force of Vigor
   weight: 1.0
   avg_copies: 2.0
-- name: Gemstone Caverns
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 2.0
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 2.0
+- name: Gemstone Caverns
+  weight: 1.0
+  avg_copies: 2.0
 - name: Witherbloom Charm
   weight: 1.0
   avg_copies: 2.0
-- name: Dryad Arbor
-  weight: 1.0
-  avg_copies: 2.0
-- name: Nature's Rhythm
-  weight: 1.0
-  avg_copies: 1.0
-- name: Forest
-  weight: 1.0
-  avg_copies: 1.0
-- name: Overgrown Tomb
-  weight: 1.0
-  avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 1.0
-  avg_copies: 1.0
-- name: Grist, the Hunger Tide
-  weight: 1.0
-  avg_copies: 1.0
-- name: Nissa, Resurgent Animist
-  weight: 1.0
-  avg_copies: 1.0
-- name: Temple Garden
-  weight: 1.0
-  avg_copies: 1.0
-- name: Elder Gargaroth
-  weight: 1.0
-  avg_copies: 1.0
-- name: Vizier of Remedies
-  weight: 1.0
-  avg_copies: 1.0
-- name: Craterhoof Behemoth
+- name: Duskwatch Recruiter
   weight: 1.0
   avg_copies: 1.0
 - name: Endurance
@@ -85,19 +58,13 @@ top_cards:
 - name: card:guerrilla-gorilla
   weight: 1.0
   avg_copies: 1.0
-- name: Delighted Halfling
-  weight: 1.0
-  avg_copies: 1.0
-- name: Ouroboroid
-  weight: 1.0
-  avg_copies: 1.0
-- name: Crystal Barricade
+- name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
 - name: Eladamri, Korvecdal
   weight: 1.0
   avg_copies: 1.0
-- name: Ashaya, Soul of the Wild
+- name: Vizier of Remedies
   weight: 1.0
   avg_copies: 1.0
 - name: Keen-Eyed Curator
@@ -106,16 +73,49 @@ top_cards:
 - name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 1.0
+- name: Disciple of Freyalise
+  weight: 1.0
+  avg_copies: 1.0
 - name: Underground Mortuary
+  weight: 1.0
+  avg_copies: 1.0
+- name: Delighted Halfling
+  weight: 1.0
+  avg_copies: 1.0
+- name: Ashaya, Soul of the Wild
+  weight: 1.0
+  avg_copies: 1.0
+- name: Forest
+  weight: 1.0
+  avg_copies: 1.0
+- name: Craterhoof Behemoth
+  weight: 1.0
+  avg_copies: 1.0
+- name: Grist, the Hunger Tide
+  weight: 1.0
+  avg_copies: 1.0
+- name: Crystal Barricade
+  weight: 1.0
+  avg_copies: 1.0
+- name: Elder Gargaroth
+  weight: 1.0
+  avg_copies: 1.0
+- name: Nissa, Resurgent Animist
+  weight: 1.0
+  avg_copies: 1.0
+- name: Ouroboroid
+  weight: 1.0
+  avg_copies: 1.0
+- name: Overgrown Tomb
   weight: 1.0
   avg_copies: 1.0
 - name: Drannith Magistrate
   weight: 1.0
   avg_copies: 1.0
-- name: Duskwatch Recruiter
+- name: Nature's Rhythm
   weight: 1.0
   avg_copies: 1.0
-- name: Disciple of Freyalise
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 ---

@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: 'Unknown #106'
-meta_share: 0.0016
+meta_share: 0.0015
 list_count: 11
 top_cards:
 - name: Counterspell
@@ -27,10 +27,10 @@ top_cards:
 - name: Prismatic Ending
   weight: 1.0
   avg_copies: 3.18
-- name: Teferi, Time Raveler
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.91
-- name: Mystical Dispute
+- name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 2.91
 - name: Wrath of the Skies
@@ -57,10 +57,10 @@ top_cards:
 - name: Celestial Purge
   weight: 0.9091
   avg_copies: 1.1
-- name: Monumental Henge
+- name: Watery Grave
   weight: 0.8182
   avg_copies: 1.0
-- name: Watery Grave
+- name: Monumental Henge
   weight: 0.8182
   avg_copies: 1.0
 - name: Mystic Gate
@@ -75,37 +75,37 @@ top_cards:
 - name: Teferi, Hero of Dominaria
   weight: 0.6364
   avg_copies: 1.29
-- name: Hall of Storm Giants
+- name: Scalding Tarn
   weight: 0.6364
   avg_copies: 1.0
-- name: Scalding Tarn
+- name: Hall of Storm Giants
   weight: 0.6364
   avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.5455
   avg_copies: 2.0
-- name: Nihil Spellbomb
-  weight: 0.5455
-  avg_copies: 1.83
 - name: Beza, the Bounding Spring
   weight: 0.5455
   avg_copies: 1.83
-- name: Misty Rainforest
+- name: Nihil Spellbomb
+  weight: 0.5455
+  avg_copies: 1.83
+- name: Undercity Sewers
   weight: 0.5455
   avg_copies: 1.0
 - name: Polluted Delta
   weight: 0.5455
   avg_copies: 1.0
-- name: Undercity Sewers
+- name: Misty Rainforest
   weight: 0.5455
   avg_copies: 1.0
 - name: Brainsurge
   weight: 0.4545
   avg_copies: 2.8
-- name: High Noon
+- name: Surgical Extraction
   weight: 0.4545
   avg_copies: 1.2
-- name: Surgical Extraction
+- name: High Noon
   weight: 0.4545
   avg_copies: 1.2
 - name: Otawara, Soaring City
@@ -117,22 +117,22 @@ top_cards:
 - name: Day's Undoing
   weight: 0.3636
   avg_copies: 2.0
-- name: Lórien Revealed
+- name: Path to Exile
   weight: 0.3636
   avg_copies: 2.0
-- name: Path to Exile
+- name: Lórien Revealed
   weight: 0.3636
   avg_copies: 2.0
 - name: Logic Knot
   weight: 0.3636
   avg_copies: 1.25
-- name: Geier Reach Sanitarium
-  weight: 0.3636
-  avg_copies: 1.0
 - name: Get Lost
   weight: 0.3636
   avg_copies: 1.0
 - name: Ashiok, Dream Render
+  weight: 0.3636
+  avg_copies: 1.0
+- name: Geier Reach Sanitarium
   weight: 0.3636
   avg_copies: 1.0
 - name: Tune the Narrative
@@ -156,15 +156,18 @@ top_cards:
 - name: Terminus
   weight: 0.0909
   avg_copies: 2.0
-- name: No More Lies
+- name: Fatal Push
   weight: 0.0909
   avg_copies: 2.0
 - name: Harbinger of the Seas
   weight: 0.0909
   avg_copies: 2.0
-- name: Fatal Push
+- name: No More Lies
   weight: 0.0909
   avg_copies: 2.0
+- name: Thundering Falls
+  weight: 0.0909
+  avg_copies: 1.0
 - name: Rest in Peace
   weight: 0.0909
   avg_copies: 1.0
@@ -175,9 +178,6 @@ top_cards:
   weight: 0.0909
   avg_copies: 1.0
 - name: Kaito, Bane of Nightmares
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Thundering Falls
   weight: 0.0909
   avg_copies: 1.0
 - name: Agna Qel'a

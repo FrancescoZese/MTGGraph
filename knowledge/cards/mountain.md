@@ -6,13 +6,13 @@ name: Mountain
 scryfall_id: a642c7b1-d4d1-4125-a66d-560438e5ee51
 set: sos
 type: Basic Land — Mountain
-meta_presence: 0.351
+meta_presence: 0.3499
 archetypes:
   ruby-storm:
-    weight: 0.9882
-    avg_copies: 2.92
+    weight: 0.9883
+    avg_copies: 2.91
   boros-energy:
-    weight: 0.8745
+    weight: 0.8747
     avg_copies: 1.01
   mono-blue-belcher:
     weight: 0.2088
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.0167
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.966
+    weight: 0.9662
     avg_copies: 1.0
   reanimator:
     weight: 0.1111
@@ -48,10 +48,10 @@ archetypes:
     weight: 0.9858
     avg_copies: 1.24
   eldrazi-ramp:
-    weight: 0.0078
+    weight: 0.0076
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.992
+    weight: 0.9921
     avg_copies: 2.32
   indomitable-creativity:
     weight: 1.0
@@ -63,7 +63,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   izzet-wizards:
-    weight: 0.5833
+    weight: 0.6154
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
@@ -135,7 +135,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-15:
-    weight: 0.8824
+    weight: 0.8889
     avg_copies: 1.0
   unknown-22:
     weight: 1.0
@@ -192,7 +192,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.1263
+    weight: 0.1237
     avg_copies: 1.0
   unknown-68:
     weight: 0.925
@@ -225,8 +225,8 @@ archetypes:
     weight: 1.0
     avg_copies: 10.0
   unknown-96:
-    weight: 0.9808
-    avg_copies: 2.73
+    weight: 0.9811
+    avg_copies: 2.71
   unknown-98:
     weight: 1.0
     avg_copies: 3.38
@@ -235,7 +235,7 @@ archetypes:
     avg_copies: 1.0
   unknown-101:
     weight: 1.0
-    avg_copies: 1.62
+    avg_copies: 1.64
   unknown-104:
     weight: 1.0
     avg_copies: 1.0
@@ -295,7 +295,7 @@ archetypes:
     avg_copies: 1.67
   unknown-160:
     weight: 1.0
-    avg_copies: 1.81
+    avg_copies: 1.8
   unknown-161:
     weight: 1.0
     avg_copies: 2.0
@@ -345,13 +345,13 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-230:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 1.0
   unknown-233:
     weight: 1.0
     avg_copies: 1.0
   unknown-238:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
   unknown-250:
     weight: 1.0

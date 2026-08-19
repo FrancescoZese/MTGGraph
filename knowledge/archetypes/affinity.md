@@ -3,7 +3,7 @@ colors:
 - U
 - R
 name: Affinity
-meta_share: 0.0762
+meta_share: 0.0754
 list_count: 538
 top_cards:
 - name: Kappa Cannoneer
@@ -165,19 +165,19 @@ top_cards:
 - name: Haywire Mite
   weight: 0.0242
   avg_copies: 1.06
-- name: card:castle-doom
+- name: Mox Amber
+  weight: 0.0242
+  avg_copies: 1.0
+- name: Magus of the Moon
   weight: 0.0242
   avg_copies: 1.0
 - name: Relic of Progenitus
   weight: 0.0242
   avg_copies: 1.0
-- name: Mox Amber
+- name: card:castle-doom
   weight: 0.0242
   avg_copies: 1.0
 - name: Springleaf Drum
-  weight: 0.0242
-  avg_copies: 1.0
-- name: Magus of the Moon
   weight: 0.0242
   avg_copies: 1.0
 - name: Furnace Dragon
@@ -195,10 +195,10 @@ top_cards:
 - name: Polluted Delta
   weight: 0.0167
   avg_copies: 1.44
-- name: Mountain
+- name: Lavaspur Boots
   weight: 0.0167
   avg_copies: 1.0
-- name: Lavaspur Boots
+- name: Mountain
   weight: 0.0167
   avg_copies: 1.0
 - name: card:curse-of-shaken-faith
@@ -213,10 +213,10 @@ top_cards:
 - name: Boomerang Basics
   weight: 0.0074
   avg_copies: 1.67
-- name: card:gleeful-demolition
+- name: Ornithopter
   weight: 0.0074
   avg_copies: 1.5
-- name: Ornithopter
+- name: card:gleeful-demolition
   weight: 0.0074
   avg_copies: 1.5
 - name: Cursed Totem
@@ -225,16 +225,16 @@ top_cards:
 - name: Thought Monitor
   weight: 0.0074
   avg_copies: 1.25
-- name: Spell Snare
-  weight: 0.0056
-  avg_copies: 1.0
 - name: card:pyrite-spellbomb
   weight: 0.0056
   avg_copies: 1.0
-- name: Detect Intrusion
+- name: Spell Snare
+  weight: 0.0056
+  avg_copies: 1.0
+- name: Wear
   weight: 0.0037
   avg_copies: 2.0
-- name: Wear
+- name: Detect Intrusion
   weight: 0.0037
   avg_copies: 2.0
 - name: Tamiyo, Inquisitive Student
@@ -243,10 +243,13 @@ top_cards:
 - name: Disruptor Flute
   weight: 0.0037
   avg_copies: 1.75
-- name: Hallowed Fountain
+- name: Umezawa's Jitte
   weight: 0.0037
   avg_copies: 1.0
-- name: Umezawa's Jitte
+- name: Gemstone Caverns
+  weight: 0.0037
+  avg_copies: 1.0
+- name: Hallowed Fountain
   weight: 0.0037
   avg_copies: 1.0
 - name: Echoing Deeps
@@ -255,13 +258,13 @@ top_cards:
 - name: Void Mirror
   weight: 0.0037
   avg_copies: 1.0
-- name: Gemstone Caverns
-  weight: 0.0037
-  avg_copies: 1.0
 - name: Portable Hole
   weight: 0.0019
   avg_copies: 3.0
 - name: Glimmervoid
+  weight: 0.0019
+  avg_copies: 2.0
+- name: Invasive Surgery
   weight: 0.0019
   avg_copies: 2.0
 - name: Into the Flood Maw
@@ -270,19 +273,19 @@ top_cards:
 - name: Dispatch
   weight: 0.0019
   avg_copies: 2.0
-- name: Patchwork Automaton
-  weight: 0.0019
-  avg_copies: 2.0
 - name: Magebane Lizard
   weight: 0.0019
   avg_copies: 2.0
 - name: Prismari Charm
   weight: 0.0019
   avg_copies: 2.0
-- name: Invasive Surgery
+- name: Patchwork Automaton
   weight: 0.0019
   avg_copies: 2.0
-- name: Jokulmorder
+- name: Sacred Foundry
+  weight: 0.0019
+  avg_copies: 1.0
+- name: Quantum Riddler
   weight: 0.0019
   avg_copies: 1.0
 - name: Minamo, School at Water's Edge
@@ -291,34 +294,31 @@ top_cards:
 - name: Waterlogged Grove
   weight: 0.0019
   avg_copies: 1.0
-- name: Quantum Riddler
-  weight: 0.0019
-  avg_copies: 1.0
-- name: Torpor Orb
-  weight: 0.0019
-  avg_copies: 1.0
-- name: Ghirapur Aether Grid
-  weight: 0.0019
-  avg_copies: 1.0
-- name: Spell Pierce
-  weight: 0.0019
-  avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.0019
-  avg_copies: 1.0
-- name: Lithomantic Barrage
-  weight: 0.0019
-  avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 0.0019
-  avg_copies: 1.0
-- name: Cranial Plating
+- name: Chandra, Spark Hunter
   weight: 0.0019
   avg_copies: 1.0
 - name: Zuran Orb
   weight: 0.0019
   avg_copies: 1.0
-- name: Chandra, Spark Hunter
+- name: Torpor Orb
+  weight: 0.0019
+  avg_copies: 1.0
+- name: Spell Pierce
+  weight: 0.0019
+  avg_copies: 1.0
+- name: Cranial Plating
+  weight: 0.0019
+  avg_copies: 1.0
+- name: Lithomantic Barrage
+  weight: 0.0019
+  avg_copies: 1.0
+- name: Jokulmorder
+  weight: 0.0019
+  avg_copies: 1.0
+- name: Breeding Pool
+  weight: 0.0019
+  avg_copies: 1.0
+- name: Ghirapur Aether Grid
   weight: 0.0019
   avg_copies: 1.0
 ---

@@ -7,34 +7,34 @@ name: 'Unknown #156'
 meta_share: 0.0004
 list_count: 3
 top_cards:
-- name: Vivi Ornitier
-  weight: 1.0
-  avg_copies: 4.0
 - name: Scalding Tarn
-  weight: 1.0
-  avg_copies: 4.0
-- name: Unholy Heat
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marauding Mako
-  weight: 1.0
-  avg_copies: 4.0
-- name: Street Wraith
-  weight: 1.0
-  avg_copies: 4.0
-- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 4.0
+- name: Unholy Heat
+  weight: 1.0
+  avg_copies: 4.0
+- name: Faithless Looting
+  weight: 1.0
+  avg_copies: 4.0
+- name: Street Wraith
+  weight: 1.0
+  avg_copies: 4.0
+- name: Vivi Ornitier
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marauding Mako
+  weight: 1.0
+  avg_copies: 4.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.67
-- name: Steam Vents
+- name: card:kid-loki
   weight: 1.0
   avg_copies: 3.33
-- name: card:kid-loki
+- name: Steam Vents
   weight: 1.0
   avg_copies: 3.33
 - name: Fear of Missing Out
@@ -46,10 +46,10 @@ top_cards:
 - name: Quantum Riddler
   weight: 1.0
   avg_copies: 2.75
-- name: Arena of Glory
+- name: Walking Ballista
   weight: 1.0
   avg_copies: 2.0
-- name: Walking Ballista
+- name: Arena of Glory
   weight: 1.0
   avg_copies: 2.0
 - name: Meltdown
@@ -58,40 +58,40 @@ top_cards:
 - name: Winternight Stories
   weight: 1.0
   avg_copies: 2.0
-- name: Mystical Dispute
-  weight: 1.0
-  avg_copies: 1.67
 - name: Thundering Falls
-  weight: 1.0
-  avg_copies: 1.67
-- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.67
 - name: Mountain
   weight: 1.0
   avg_copies: 1.67
+- name: Mystical Dispute
+  weight: 1.0
+  avg_copies: 1.67
+- name: Bloodstained Mire
+  weight: 1.0
+  avg_copies: 1.67
 - name: Island
   weight: 1.0
   avg_copies: 1.33
+- name: Vexing Bauble
+  weight: 0.6667
+  avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.6667
   avg_copies: 2.0
 - name: Flooded Strand
   weight: 0.6667
   avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 0.6667
-  avg_copies: 2.0
 - name: Otawara, Soaring City
   weight: 0.6667
   avg_copies: 1.0
-- name: Engineered Explosives
+- name: Spell Pierce
   weight: 0.3333
   avg_copies: 2.0
 - name: Chalice of the Void
   weight: 0.3333
   avg_copies: 2.0
-- name: Blood Moon
+- name: Engineered Explosives
   weight: 0.3333
   avg_copies: 2.0
 - name: Harbinger of the Seas
@@ -100,25 +100,25 @@ top_cards:
 - name: Fire Magic
   weight: 0.3333
   avg_copies: 2.0
-- name: Spell Pierce
+- name: Blood Moon
   weight: 0.3333
   avg_copies: 2.0
+- name: Surgical Extraction
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Fiery Islet
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Arid Mesa
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Into the Flood Maw
   weight: 0.3333
   avg_copies: 1.0
 - name: Wooded Foothills
   weight: 0.3333
   avg_copies: 1.0
+- name: Into the Flood Maw
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Polluted Delta
   weight: 0.3333
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Arid Mesa
   weight: 0.3333
   avg_copies: 1.0
 ---

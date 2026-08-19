@@ -7,14 +7,14 @@ name: Elder Gargaroth
 scryfall_id: d51269cf-a333-4a64-94cd-245798d840d2
 set: m21
 type: Creature — Beast
-meta_presence: 0.0108
+meta_presence: 0.0113
 archetypes:
   amulet-titan:
-    weight: 0.0588
+    weight: 0.0585
     avg_copies: 1.1
   unknown-61:
-    weight: 0.5865
-    avg_copies: 1.02
+    weight: 0.6055
+    avg_copies: 1.01
   unknown-76:
     weight: 0.5
     avg_copies: 1.0

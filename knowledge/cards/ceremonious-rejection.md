@@ -13,7 +13,7 @@ archetypes:
     weight: 0.011
     avg_copies: 2.0
   goryo:
-    weight: 0.0026
+    weight: 0.0025
     avg_copies: 2.0
   kethis-combo:
     weight: 0.1429

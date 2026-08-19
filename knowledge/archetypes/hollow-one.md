@@ -6,13 +6,13 @@ name: Hollow One
 meta_share: 0.0048
 list_count: 34
 top_cards:
-- name: Hollow One
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
 - name: Detective's Phoenix
@@ -126,10 +126,10 @@ top_cards:
 - name: Liliana of the Veil
   weight: 0.1176
   avg_copies: 1.0
-- name: Vengevine
+- name: Blazing Rootwalla
   weight: 0.0882
   avg_copies: 4.0
-- name: Blazing Rootwalla
+- name: Vengevine
   weight: 0.0882
   avg_copies: 4.0
 - name: Leyline of the Void
@@ -153,15 +153,18 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 0.0588
   avg_copies: 2.0
+- name: Ox of Agonas
+  weight: 0.0588
+  avg_copies: 1.5
 - name: Magebane Lizard
   weight: 0.0588
   avg_copies: 1.5
 - name: Pyroclasm
   weight: 0.0588
   avg_copies: 1.5
-- name: Ox of Agonas
+- name: Commercial District
   weight: 0.0588
-  avg_copies: 1.5
+  avg_copies: 1.0
 - name: Violent Urge
   weight: 0.0588
   avg_copies: 1.0
@@ -171,28 +174,25 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.0588
   avg_copies: 1.0
-- name: Commercial District
-  weight: 0.0588
-  avg_copies: 1.0
 - name: Death's Shadow
   weight: 0.0294
   avg_copies: 4.0
+- name: Inti, Seneschal of the Sun
+  weight: 0.0294
+  avg_copies: 2.0
 - name: Ancient Grudge
-  weight: 0.0294
-  avg_copies: 2.0
-- name: Magus of the Moon
-  weight: 0.0294
-  avg_copies: 2.0
-- name: Rough
   weight: 0.0294
   avg_copies: 2.0
 - name: Cam and Farrik, Havoc Duo
   weight: 0.0294
   avg_copies: 2.0
+- name: Rough
+  weight: 0.0294
+  avg_copies: 2.0
 - name: Flameblade Adept
   weight: 0.0294
   avg_copies: 2.0
-- name: Inti, Seneschal of the Sun
+- name: Magus of the Moon
   weight: 0.0294
   avg_copies: 2.0
 - name: Break the Ice

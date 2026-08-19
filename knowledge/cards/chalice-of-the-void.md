@@ -6,19 +6,19 @@ name: Chalice of the Void
 scryfall_id: 1f0d2e8e-c8f2-4b31-a6ba-6283fc8740d4
 set: a25
 type: Artifact
-meta_presence: 0.0641
+meta_presence: 0.064
 archetypes:
   eldrazi-tron:
-    weight: 0.6389
+    weight: 0.635
     avg_copies: 1.74
   goryo:
-    weight: 0.0026
+    weight: 0.0025
     avg_copies: 1.0
   necrodominance:
     weight: 0.1556
     avg_copies: 1.86
   azorius-control:
-    weight: 0.1048
+    weight: 0.1038
     avg_copies: 1.73
   mill:
     weight: 0.0556
@@ -33,13 +33,13 @@ archetypes:
     weight: 0.0526
     avg_copies: 2.4
   eldrazi-ramp:
-    weight: 0.2171
+    weight: 0.2137
     avg_copies: 1.24
   simic-ritual:
-    weight: 0.0729
+    weight: 0.0722
     avg_copies: 2.0
   esper-blink:
-    weight: 0.0261
+    weight: 0.0253
     avg_copies: 1.0
   naya-midrange:
     weight: 1.0
@@ -66,16 +66,16 @@ archetypes:
     weight: 0.75
     avg_copies: 2.89
   unknown-47:
-    weight: 0.2078
+    weight: 0.2038
     avg_copies: 1.97
   unknown-61:
-    weight: 0.6827
-    avg_copies: 2.79
+    weight: 0.6881
+    avg_copies: 2.76
   unknown-55:
     weight: 1.0
     avg_copies: 4.0
   unknown-69:
-    weight: 0.625
+    weight: 0.5556
     avg_copies: 1.6
   unknown-75:
     weight: 1.0
@@ -84,7 +84,7 @@ archetypes:
     weight: 0.0588
     avg_copies: 1.0
   unknown-97:
-    weight: 0.0667
+    weight: 0.0625
     avg_copies: 1.0
   unknown-103:
     weight: 1.0
@@ -96,7 +96,7 @@ archetypes:
     weight: 0.1071
     avg_copies: 2.0
   unknown-139:
-    weight: 0.0909
+    weight: 0.0833
     avg_copies: 1.0
   unknown-143:
     weight: 1.0

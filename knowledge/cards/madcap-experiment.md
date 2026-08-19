@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0284
     avg_copies: 3.0
   eldrazi-ramp:
-    weight: 0.0078
+    weight: 0.0076
     avg_copies: 3.0
   goryo0:
     weight: 0.0455
@@ -22,6 +22,6 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-160:
-    weight: 0.0116
+    weight: 0.0115
     avg_copies: 3.0
 ---

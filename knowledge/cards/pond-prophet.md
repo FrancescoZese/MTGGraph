@@ -11,6 +11,6 @@ type: Creature — Frog Advisor
 meta_presence: 0.0001
 archetypes:
   simic-ritual:
-    weight: 0.0104
+    weight: 0.0103
     avg_copies: 1.0
 ---

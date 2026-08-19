@@ -16,13 +16,13 @@ archetypes:
     weight: 0.0625
     avg_copies: 2.0
   izzet-wizards:
-    weight: 0.0833
+    weight: 0.0769
     avg_copies: 1.0
   goryo1:
-    weight: 0.011
+    weight: 0.0109
     avg_copies: 1.0
   unknown-15:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 1.0
   unknown-35:
     weight: 0.2

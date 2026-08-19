@@ -9,7 +9,7 @@ type: Artifact
 meta_presence: 0.0031
 archetypes:
   orzhov-blink:
-    weight: 0.3529
+    weight: 0.3333
     avg_copies: 4.0
   unknown-42:
     weight: 1.0

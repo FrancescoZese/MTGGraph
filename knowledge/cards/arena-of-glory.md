@@ -6,10 +6,10 @@ name: Arena of Glory
 scryfall_id: dd148edc-9e43-41aa-bb50-f912115d3e72
 set: mh3
 type: Land
-meta_presence: 0.1729
+meta_presence: 0.1716
 archetypes:
   boros-energy:
-    weight: 0.9495
+    weight: 0.9496
     avg_copies: 2.11
   jeskai-energy:
     weight: 1.0
@@ -18,7 +18,7 @@ archetypes:
     weight: 0.1186
     avg_copies: 1.75
   domain-zoo:
-    weight: 0.966
+    weight: 0.9662
     avg_copies: 1.79
   burn:
     weight: 0.1026
@@ -33,7 +33,7 @@ archetypes:
     weight: 0.0142
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.031
+    weight: 0.0305
     avg_copies: 1.0
   jund-saga:
     weight: 0.25
@@ -90,7 +90,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.1731
+    weight: 0.1887
     avg_copies: 1.0
   unknown-90:
     weight: 1.0
@@ -99,8 +99,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-101:
-    weight: 0.875
-    avg_copies: 1.48
+    weight: 0.88
+    avg_copies: 1.45
   unknown-116:
     weight: 1.0
     avg_copies: 1.0
@@ -120,7 +120,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-149:
-    weight: 0.1429
+    weight: 0.125
     avg_copies: 1.0
   unknown-147:
     weight: 1.0

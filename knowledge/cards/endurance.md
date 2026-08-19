@@ -10,7 +10,7 @@ type: Creature — Elemental Incarnation
 meta_presence: 0.1177
 archetypes:
   amulet-titan:
-    weight: 0.0412
+    weight: 0.0409
     avg_copies: 1.29
   goryo:
     weight: 0.0051
@@ -25,10 +25,10 @@ archetypes:
     weight: 0.9579
     avg_copies: 1.03
   eldrazi-ramp:
-    weight: 0.0078
+    weight: 0.0076
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.9479
+    weight: 0.9485
     avg_copies: 1.62
   4c-omnath:
     weight: 0.5
@@ -79,8 +79,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-61:
-    weight: 0.8558
-    avg_copies: 2.16
+    weight: 0.8349
+    avg_copies: 2.14
   unknown-60:
     weight: 1.0
     avg_copies: 1.5
@@ -121,7 +121,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-126:
-    weight: 0.7905
+    weight: 0.7522
     avg_copies: 1.66
   unknown-130:
     weight: 1.0
@@ -188,7 +188,7 @@ archetypes:
     avg_copies: 3.0
   unknown-238:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.8
   unknown-242:
     weight: 1.0
     avg_copies: 2.0

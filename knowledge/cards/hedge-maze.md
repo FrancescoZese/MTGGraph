@@ -12,16 +12,16 @@ archetypes:
     weight: 0.0075
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.0235
+    weight: 0.0234
     avg_copies: 1.0
   goryo:
-    weight: 0.1465
+    weight: 0.145
     avg_copies: 1.0
   azorius-control:
-    weight: 0.1143
+    weight: 0.1132
     avg_copies: 1.0
   living-end:
-    weight: 0.9868
+    weight: 0.987
     avg_copies: 1.03
   jeskai-control:
     weight: 0.0169
@@ -30,10 +30,10 @@ archetypes:
     weight: 0.9908
     avg_copies: 2.79
   eldrazi-ramp:
-    weight: 0.093
+    weight: 0.0916
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.9896
+    weight: 0.9897
     avg_copies: 1.76
   4c-omnath:
     weight: 0.75
@@ -78,7 +78,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-97:
-    weight: 0.3333
+    weight: 0.3125
     avg_copies: 1.0
   unknown-128:
     weight: 1.0
@@ -93,7 +93,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-167:
-    weight: 0.2941
+    weight: 0.3333
     avg_copies: 1.0
   unknown-171:
     weight: 1.0

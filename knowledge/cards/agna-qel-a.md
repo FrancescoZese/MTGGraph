@@ -9,13 +9,13 @@ type: Land
 meta_presence: 0.0062
 archetypes:
   goryo:
-    weight: 0.0026
+    weight: 0.0025
     avg_copies: 1.0
   mono-blue-tron:
     weight: 0.1923
     avg_copies: 1.0
   izzet-wizards:
-    weight: 0.0833
+    weight: 0.0769
     avg_copies: 1.0
   unknown-25:
     weight: 1.0
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.0833
     avg_copies: 1.0
   unknown-47:
-    weight: 0.1623
+    weight: 0.1592
     avg_copies: 1.0
   unknown-89:
     weight: 1.0

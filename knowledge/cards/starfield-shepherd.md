@@ -7,7 +7,7 @@ name: Starfield Shepherd
 scryfall_id: 1226e575-aa78-4c68-be1d-6e5c2dc6315b
 set: eoe
 type: Creature — Angel
-meta_presence: 0.018
+meta_presence: 0.0181
 archetypes:
   boros-energy:
     weight: 0.0013
@@ -40,6 +40,6 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-149:
-    weight: 0.7143
-    avg_copies: 2.0
+    weight: 0.75
+    avg_copies: 1.83
 ---

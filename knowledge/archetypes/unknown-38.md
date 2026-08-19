@@ -6,6 +6,27 @@ name: 'Unknown #38'
 meta_share: 0.0001
 list_count: 1
 top_cards:
+- name: Bloodbraid Marauder
+  weight: 1.0
+  avg_copies: 4.0
+- name: Thoughtseize
+  weight: 1.0
+  avg_copies: 4.0
+- name: Tarfire
+  weight: 1.0
+  avg_copies: 4.0
+- name: Urza's Saga
+  weight: 1.0
+  avg_copies: 4.0
+- name: Nethergoyf
+  weight: 1.0
+  avg_copies: 4.0
+- name: Unholy Heat
+  weight: 1.0
+  avg_copies: 4.0
+- name: Dragon's Rage Channeler
+  weight: 1.0
+  avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 4.0
@@ -15,28 +36,7 @@ top_cards:
 - name: Nature's Claim
   weight: 1.0
   avg_copies: 4.0
-- name: Unholy Heat
-  weight: 1.0
-  avg_copies: 4.0
-- name: Nethergoyf
-  weight: 1.0
-  avg_copies: 4.0
-- name: Tarfire
-  weight: 1.0
-  avg_copies: 4.0
 - name: Bloodstained Mire
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 4.0
-- name: Bloodbraid Marauder
-  weight: 1.0
-  avg_copies: 4.0
-- name: Urza's Saga
-  weight: 1.0
-  avg_copies: 4.0
-- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Arena of Glory
@@ -51,10 +51,7 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 2.0
-- name: Dark Confidant
-  weight: 1.0
-  avg_copies: 2.0
-- name: Obsidian Charmaw
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 2.0
 - name: Rakdos Charm
@@ -63,22 +60,22 @@ top_cards:
 - name: Fire Magic
   weight: 1.0
   avg_copies: 2.0
-- name: Mishra's Bauble
+- name: Dark Confidant
+  weight: 1.0
+  avg_copies: 2.0
+- name: Obsidian Charmaw
   weight: 1.0
   avg_copies: 2.0
 - name: Nihil Spellbomb
   weight: 1.0
   avg_copies: 1.5
-- name: Stomping Ground
-  weight: 1.0
-  avg_copies: 1.0
-- name: Haywire Mite
-  weight: 1.0
-  avg_copies: 1.0
-- name: Raucous Theater
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Castle Locthwain
+  weight: 1.0
+  avg_copies: 1.0
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
 - name: Shadowspear
@@ -87,7 +84,10 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Raucous Theater
+  weight: 1.0
+  avg_copies: 1.0
+- name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
 ---

@@ -7,13 +7,13 @@ name: Emperor of Bones
 scryfall_id: df9d9075-2d1e-4848-b661-816d539e05eb
 set: mh3
 type: Creature — Skeleton Noble
-meta_presence: 0.0763
+meta_presence: 0.0769
 archetypes:
   dimir-control:
     weight: 0.0123
     avg_copies: 2.0
   goryo:
-    weight: 0.1157
+    weight: 0.1145
     avg_copies: 1.23
   reanimator:
     weight: 0.8519
@@ -22,17 +22,17 @@ archetypes:
     weight: 0.75
     avg_copies: 1.67
   esper-blink:
-    weight: 0.9673
-    avg_copies: 2.29
+    weight: 0.9684
+    avg_copies: 2.31
   orzhov-blink:
-    weight: 1.0
+    weight: 0.9444
     avg_copies: 2.35
   jund-saga:
     weight: 0.25
     avg_copies: 1.0
   goryo1:
-    weight: 0.9725
-    avg_copies: 3.33
+    weight: 0.9727
+    avg_copies: 3.32
   unknown-4:
     weight: 1.0
     avg_copies: 3.0
@@ -53,7 +53,7 @@ archetypes:
     avg_copies: 2.0
   unknown-45:
     weight: 1.0
-    avg_copies: 2.93
+    avg_copies: 2.97
   unknown-54:
     weight: 1.0
     avg_copies: 2.0
@@ -79,14 +79,14 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-126:
-    weight: 0.019
+    weight: 0.0177
     avg_copies: 1.0
   unknown-135:
     weight: 0.3333
     avg_copies: 3.0
   unknown-139:
-    weight: 0.8182
-    avg_copies: 2.11
+    weight: 0.8333
+    avg_copies: 2.1
   unknown-154:
     weight: 1.0
     avg_copies: 2.0
@@ -98,7 +98,7 @@ archetypes:
     avg_copies: 2.0
   unknown-225:
     weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 1.5
   unknown-233:
     weight: 1.0
     avg_copies: 2.0

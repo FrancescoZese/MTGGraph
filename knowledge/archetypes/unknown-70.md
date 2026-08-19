@@ -82,10 +82,10 @@ top_cards:
 - name: Fable of the Mirror-Breaker
   weight: 0.8
   avg_copies: 2.0
-- name: Island
+- name: Teferi, Time Raveler
   weight: 0.7
   avg_copies: 1.0
-- name: Teferi, Time Raveler
+- name: Island
   weight: 0.7
   avg_copies: 1.0
 - name: Blood Moon
@@ -109,10 +109,10 @@ top_cards:
 - name: Wear
   weight: 0.25
   avg_copies: 1.2
-- name: Prismatic Ending
+- name: Voice of Victory
   weight: 0.2
   avg_copies: 2.25
-- name: Voice of Victory
+- name: Prismatic Ending
   weight: 0.2
   avg_copies: 2.25
 - name: Ranger-Captain of Eos
@@ -136,10 +136,10 @@ top_cards:
 - name: Mockingbird
   weight: 0.15
   avg_copies: 1.33
-- name: Strix Serenade
+- name: Thundering Falls
   weight: 0.15
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Strix Serenade
   weight: 0.15
   avg_copies: 1.0
 - name: White Orchid Phantom
@@ -154,13 +154,25 @@ top_cards:
 - name: Windswept Heath
   weight: 0.1
   avg_copies: 1.0
-- name: Reprieve
-  weight: 0.05
-  avg_copies: 2.0
 - name: Practiced Offense
   weight: 0.05
   avg_copies: 2.0
+- name: Reprieve
+  weight: 0.05
+  avg_copies: 2.0
 - name: Vandalblast
+  weight: 0.05
+  avg_copies: 1.0
+- name: Spell Pierce
+  weight: 0.05
+  avg_copies: 1.0
+- name: Lightning Bolt
+  weight: 0.05
+  avg_copies: 1.0
+- name: The Legend of Roku
+  weight: 0.05
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
   weight: 0.05
   avg_copies: 1.0
 - name: Boromir, Warden of the Tower
@@ -170,18 +182,6 @@ top_cards:
   weight: 0.05
   avg_copies: 1.0
 - name: Magus of the Moon
-  weight: 0.05
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.05
-  avg_copies: 1.0
-- name: Lightning Bolt
-  weight: 0.05
-  avg_copies: 1.0
-- name: Spell Pierce
-  weight: 0.05
-  avg_copies: 1.0
-- name: The Legend of Roku
   weight: 0.05
   avg_copies: 1.0
 ---

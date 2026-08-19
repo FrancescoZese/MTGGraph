@@ -7,7 +7,7 @@ name: Dai Li Indoctrination
 scryfall_id: eca652b8-44f1-4bd9-b4bf-036eeead13aa
 set: tla
 type: Sorcery — Lesson
-meta_presence: 0.0052
+meta_presence: 0.0053
 archetypes:
   domain-zoo:
     weight: 0.0068
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.1053
     avg_copies: 1.0
   unknown-45:
-    weight: 0.9
+    weight: 0.9032
     avg_copies: 1.0
   unknown-57:
     weight: 1.0

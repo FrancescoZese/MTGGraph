@@ -13,7 +13,7 @@ archetypes:
     weight: 0.4176
     avg_copies: 2.95
   living-end:
-    weight: 0.4605
+    weight: 0.4675
     avg_copies: 1.0
   jeskai-control:
     weight: 0.0508
@@ -25,16 +25,16 @@ archetypes:
     weight: 0.037
     avg_copies: 4.0
   simic-ritual:
-    weight: 0.9896
+    weight: 0.9897
     avg_copies: 4.0
   izzet-wizards:
-    weight: 0.1667
+    weight: 0.1538
     avg_copies: 2.5
   izzet-splinter-twin:
     weight: 0.5
     avg_copies: 3.0
   goryo1:
-    weight: 0.022
+    weight: 0.0219
     avg_copies: 4.0
   4c-omnath9:
     weight: 0.8
@@ -58,7 +58,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-67:
-    weight: 0.0526
+    weight: 0.0515
     avg_copies: 1.0
   unknown-82:
     weight: 1.0
@@ -71,7 +71,7 @@ archetypes:
     avg_copies: 4.0
   unknown-139:
     weight: 1.0
-    avg_copies: 2.33
+    avg_copies: 2.42
   unknown-166:
     weight: 1.0
     avg_copies: 2.5

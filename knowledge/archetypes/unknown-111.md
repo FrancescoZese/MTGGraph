@@ -6,22 +6,22 @@ name: 'Unknown #111'
 meta_share: 0.0008
 list_count: 6
 top_cards:
-- name: Consign to Memory
-  weight: 1.0
-  avg_copies: 4.0
 - name: Fatal Push
-  weight: 1.0
-  avg_copies: 4.0
-- name: Counterspell
-  weight: 1.0
-  avg_copies: 4.0
-- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
 - name: Consult the Star Charts
+  weight: 1.0
+  avg_copies: 4.0
+- name: Counterspell
+  weight: 1.0
+  avg_copies: 4.0
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
 - name: Wan Shi Tong, Librarian
@@ -33,22 +33,22 @@ top_cards:
 - name: Subtlety
   weight: 1.0
   avg_copies: 3.17
-- name: Spell Snare
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.67
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 2.67
-- name: Mystical Dispute
+- name: Spell Snare
   weight: 1.0
   avg_copies: 2.67
 - name: Watery Grave
   weight: 1.0
   avg_copies: 2.5
-- name: Cling to Dust
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 2.33
-- name: Undercity Sewers
+- name: Cling to Dust
   weight: 1.0
   avg_copies: 2.33
 - name: Sheoldred's Edict
@@ -75,10 +75,10 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.6667
   avg_copies: 1.25
-- name: Steam Vents
+- name: Swamp
   weight: 0.6667
   avg_copies: 1.0
-- name: Swamp
+- name: Steam Vents
   weight: 0.6667
   avg_copies: 1.0
 - name: Kaito, Bane of Nightmares
@@ -102,34 +102,31 @@ top_cards:
 - name: Snow-Covered Swamp
   weight: 0.3333
   avg_copies: 1.0
-- name: Ghost Vacuum
+- name: Misty Rainforest
   weight: 0.3333
   avg_copies: 1.0
-- name: Misty Rainforest
+- name: Ghost Vacuum
   weight: 0.3333
   avg_copies: 1.0
 - name: Toxic Deluge
   weight: 0.1667
   avg_copies: 2.0
-- name: Damnation
+- name: Requiting Hex
   weight: 0.1667
   avg_copies: 2.0
-- name: Requiting Hex
+- name: Damnation
   weight: 0.1667
   avg_copies: 2.0
 - name: Pest Control
   weight: 0.1667
   avg_copies: 1.5
-- name: Hallowed Fountain
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Marsh Flats
-  weight: 0.1667
-  avg_copies: 1.0
-- name: High Noon
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Erode
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Meticulous Archive
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
   weight: 0.1667
   avg_copies: 1.0
 - name: Drown in the Loch
@@ -138,10 +135,7 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 0.1667
   avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Marsh Flats
   weight: 0.1667
   avg_copies: 1.0
 - name: Flusterstorm
@@ -151,6 +145,12 @@ top_cards:
   weight: 0.1667
   avg_copies: 1.0
 - name: Logic Knot
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 0.1667
+  avg_copies: 1.0
+- name: High Noon
   weight: 0.1667
   avg_copies: 1.0
 ---

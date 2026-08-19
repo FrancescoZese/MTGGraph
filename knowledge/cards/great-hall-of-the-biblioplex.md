@@ -6,11 +6,14 @@ name: Great Hall of the Biblioplex
 scryfall_id: 42d92674-2664-411c-b9c5-b04da7c845f4
 set: sos
 type: Land
-meta_presence: 0.0008
+meta_presence: 0.001
 archetypes:
   ruby-storm:
-    weight: 0.0079
+    weight: 0.0078
     avg_copies: 1.5
+  izzet-wizards:
+    weight: 0.0769
+    avg_copies: 1.0
   unknown-41:
     weight: 0.25
     avg_copies: 4.0

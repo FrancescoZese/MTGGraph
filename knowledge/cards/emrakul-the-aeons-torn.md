@@ -18,7 +18,7 @@ archetypes:
     weight: 0.0213
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0196
+    weight: 0.019
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.1333
@@ -48,8 +48,8 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   unknown-61:
-    weight: 0.0769
-    avg_copies: 1.25
+    weight: 0.0826
+    avg_copies: 1.22
   unknown-128:
     weight: 1.0
     avg_copies: 3.0

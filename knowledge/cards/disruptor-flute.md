@@ -6,7 +6,7 @@ name: Disruptor Flute
 scryfall_id: 5cad8671-4761-4014-a8a3-af45627e6e79
 set: mh3
 type: Artifact
-meta_presence: 0.0739
+meta_presence: 0.0741
 archetypes:
   boros-energy:
     weight: 0.0142
@@ -15,13 +15,13 @@ archetypes:
     weight: 0.0149
     avg_copies: 2.0
   eldrazi-tron:
-    weight: 0.9105
-    avg_copies: 1.66
+    weight: 0.911
+    avg_copies: 1.67
   necrodominance:
     weight: 0.1778
     avg_copies: 1.62
   azorius-control:
-    weight: 0.0476
+    weight: 0.0472
     avg_copies: 1.0
   affinity:
     weight: 0.0037
@@ -36,10 +36,10 @@ archetypes:
     weight: 0.0142
     avg_copies: 2.5
   eldrazi-ramp:
-    weight: 0.7287
+    weight: 0.7176
     avg_copies: 1.86
   izzet-prowess:
-    weight: 0.0027
+    weight: 0.0026
     avg_copies: 2.0
   broodscale-combo:
     weight: 0.019
@@ -77,29 +77,32 @@ archetypes:
   unknown-49:
     weight: 0.1111
     avg_copies: 2.0
+  unknown-69:
+    weight: 0.1111
+    avg_copies: 1.0
   unknown-97:
-    weight: 0.4
-    avg_copies: 1.43
+    weight: 0.4375
+    avg_copies: 1.38
   unknown-119:
     weight: 1.0
     avg_copies: 2.5
   unknown-126:
-    weight: 0.019
+    weight: 0.0177
     avg_copies: 2.0
   unknown-134:
     weight: 1.0
     avg_copies: 2.0
   unknown-139:
-    weight: 0.4545
+    weight: 0.5
     avg_copies: 1.0
   unknown-141:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0116
+    weight: 0.0115
     avg_copies: 1.0
   unknown-167:
-    weight: 0.4118
+    weight: 0.3889
     avg_copies: 1.0
   unknown-177:
     weight: 0.6667
@@ -108,10 +111,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-194:
-    weight: 0.3077
+    weight: 0.2353
     avg_copies: 1.75
   unknown-213:
-    weight: 0.875
+    weight: 0.9
     avg_copies: 1.0
   unknown-223:
     weight: 1.0

@@ -10,7 +10,7 @@ type: Creature — Dragon // Instant — Omen
 meta_presence: 0.0003
 archetypes:
   izzet-wizards:
-    weight: 0.0833
+    weight: 0.0769
     avg_copies: 3.0
   unknown-35:
     weight: 0.2
