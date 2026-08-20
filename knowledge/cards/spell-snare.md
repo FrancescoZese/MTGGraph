@@ -7,7 +7,7 @@ name: Spell Snare
 scryfall_id: b7551b61-656e-4f37-b9da-73174db983b7
 set: ecl
 type: Instant
-meta_presence: 0.158
+meta_presence: 0.1595
 archetypes:
   ruby-storm:
     weight: 0.0039
@@ -16,22 +16,22 @@ archetypes:
     weight: 0.9877
     avg_copies: 2.46
   mono-blue-belcher:
-    weight: 0.9121
+    weight: 0.913
     avg_copies: 1.88
   jeskai-energy:
     weight: 0.194
     avg_copies: 1.16
   goryo:
-    weight: 0.4529
-    avg_copies: 1.3
+    weight: 0.4613
+    avg_copies: 1.29
   azorius-control:
-    weight: 0.783
+    weight: 0.785
     avg_copies: 1.75
   jeskai-control:
-    weight: 0.6949
+    weight: 0.6833
     avg_copies: 1.33
   affinity:
-    weight: 0.0056
+    weight: 0.0055
     avg_copies: 1.0
   domain-zoo:
     weight: 0.0135
@@ -43,20 +43,20 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0826
+    weight: 0.0818
     avg_copies: 1.56
   mono-blue-tron:
     weight: 0.4615
     avg_copies: 2.21
   hammer-time:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 1.0
   simic-ritual:
     weight: 0.0412
     avg_copies: 1.75
   izzet-prowess:
-    weight: 0.4934
-    avg_copies: 1.59
+    weight: 0.4974
+    avg_copies: 1.6
   4c-omnath:
     weight: 0.25
     avg_copies: 2.0
@@ -64,8 +64,8 @@ archetypes:
     weight: 0.5333
     avg_copies: 1.75
   azorius-blink:
-    weight: 0.0455
-    avg_copies: 1.67
+    weight: 0.0448
+    avg_copies: 1.75
   esper-control:
     weight: 1.0
     avg_copies: 2.0
@@ -85,11 +85,11 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   goryo1:
-    weight: 0.1858
-    avg_copies: 1.45
+    weight: 0.1902
+    avg_copies: 1.46
   goryo2:
-    weight: 0.6596
-    avg_copies: 1.61
+    weight: 0.6667
+    avg_copies: 1.58
   goryo3:
     weight: 1.0
     avg_copies: 2.0
@@ -106,10 +106,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-5:
-    weight: 0.2
-    avg_copies: 1.33
+    weight: 0.2727
+    avg_copies: 1.4
   unknown-15:
-    weight: 0.0556
+    weight: 0.1
     avg_copies: 1.0
   unknown-17:
     weight: 0.6667
@@ -142,8 +142,8 @@ archetypes:
     weight: 0.0833
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9809
-    avg_copies: 2.09
+    weight: 0.9812
+    avg_copies: 2.1
   unknown-49:
     weight: 0.1111
     avg_copies: 1.0
@@ -187,7 +187,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.67
   unknown-113:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 2.0
   unknown-120:
     weight: 0.8889
@@ -199,7 +199,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-149:
-    weight: 0.25
+    weight: 0.3684
     avg_copies: 1.0
   unknown-151:
     weight: 1.0
@@ -227,7 +227,7 @@ archetypes:
     avg_copies: 3.0
   unknown-186:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.2
   unknown-188:
     weight: 1.0
     avg_copies: 3.0
@@ -256,7 +256,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-213:
-    weight: 0.1
+    weight: 0.1818
     avg_copies: 2.0
   unknown-214:
     weight: 1.0

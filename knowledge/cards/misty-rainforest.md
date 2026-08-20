@@ -6,7 +6,7 @@ name: Misty Rainforest
 scryfall_id: 88231c0d-0cc8-44ec-bf95-81d1710ac141
 set: mh2
 type: Land
-meta_presence: 0.146
+meta_presence: 0.1462
 archetypes:
   ruby-storm:
     weight: 0.0078
@@ -18,19 +18,19 @@ archetypes:
     weight: 0.0075
     avg_copies: 3.0
   amulet-titan:
-    weight: 0.0117
+    weight: 0.0174
     avg_copies: 1.0
   goryo:
-    weight: 0.0051
+    weight: 0.005
     avg_copies: 1.5
   azorius-control:
-    weight: 0.2358
+    weight: 0.2336
     avg_copies: 1.04
   living-end:
     weight: 1.0
     avg_copies: 3.79
   affinity:
-    weight: 0.0409
+    weight: 0.0406
     avg_copies: 1.86
   domain-zoo:
     weight: 0.0068
@@ -42,32 +42,32 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.9908
+    weight: 0.9909
     avg_copies: 3.86
   kethis-combo:
-    weight: 1.0
+    weight: 0.875
     avg_copies: 3.14
   yawgmoth-combo:
     weight: 0.2211
     avg_copies: 1.48
   eldrazi-ramp:
-    weight: 0.5344
+    weight: 0.5379
     avg_copies: 1.2
   simic-ritual:
     weight: 0.9897
     avg_copies: 3.79
   izzet-prowess:
-    weight: 0.0105
+    weight: 0.0104
     avg_copies: 1.75
   4c-omnath:
     weight: 0.75
     avg_copies: 3.67
   samwise-combo:
-    weight: 0.5429
+    weight: 0.5352
     avg_copies: 1.39
   broodscale-combo:
-    weight: 0.1835
-    avg_copies: 1.16
+    weight: 0.1855
+    avg_copies: 1.15
   bant-control:
     weight: 1.0
     avg_copies: 2.0
@@ -135,8 +135,8 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   unknown-47:
-    weight: 0.293
-    avg_copies: 1.39
+    weight: 0.3
+    avg_copies: 1.38
   unknown-59:
     weight: 1.0
     avg_copies: 4.0
@@ -150,8 +150,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.86
   unknown-67:
-    weight: 0.9897
-    avg_copies: 3.8
+    weight: 0.99
+    avg_copies: 3.81
   unknown-73:
     weight: 1.0
     avg_copies: 4.0
@@ -189,8 +189,8 @@ archetypes:
     weight: 0.9091
     avg_copies: 1.7
   unknown-126:
-    weight: 0.885
-    avg_copies: 1.86
+    weight: 0.8678
+    avg_copies: 1.87
   unknown-124:
     weight: 1.0
     avg_copies: 4.0
@@ -237,7 +237,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-186:
-    weight: 1.0
+    weight: 0.6667
     avg_copies: 1.0
   unknown-192:
     weight: 1.0
@@ -245,11 +245,14 @@ archetypes:
   unknown-193:
     weight: 1.0
     avg_copies: 1.0
+  unknown-194:
+    weight: 0.05
+    avg_copies: 1.0
   unknown-200:
     weight: 1.0
     avg_copies: 4.0
   unknown-213:
-    weight: 0.7
+    weight: 0.6364
     avg_copies: 1.0
   unknown-216:
     weight: 1.0

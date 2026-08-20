@@ -10,10 +10,10 @@ type: Creature — Kithkin Wizard
 meta_presence: 0.0014
 archetypes:
   boros-energy:
-    weight: 0.0065
+    weight: 0.0064
     avg_copies: 1.0
   unknown-126:
-    weight: 0.0088
+    weight: 0.0083
     avg_copies: 2.0
   unknown-131:
     weight: 0.4444

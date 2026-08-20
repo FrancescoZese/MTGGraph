@@ -15,10 +15,10 @@ archetypes:
     weight: 0.0256
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0305
+    weight: 0.0303
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.0143
+    weight: 0.0141
     avg_copies: 1.0
   rakdos-lantern-combo:
     weight: 0.5
@@ -33,10 +33,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.25
   unknown-45:
-    weight: 0.1935
+    weight: 0.1875
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0064
+    weight: 0.0063
     avg_copies: 2.0
   unknown-143:
     weight: 1.0

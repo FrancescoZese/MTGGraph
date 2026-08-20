@@ -7,13 +7,13 @@ name: Nethergoyf
 scryfall_id: 3ee3945e-5089-4751-b7b3-5961c39d2a33
 set: mh3
 type: Creature — Lhurgoyf
-meta_presence: 0.017
+meta_presence: 0.0169
 archetypes:
   hollow-one:
     weight: 0.8235
     avg_copies: 3.5
   jund-saga:
-    weight: 1.0
+    weight: 0.8
     avg_copies: 3.25
   grixis-shadow:
     weight: 0.2
@@ -25,8 +25,8 @@ archetypes:
     weight: 0.5
     avg_copies: 4.0
   unknown-1:
-    weight: 0.3333
-    avg_copies: 3.75
+    weight: 0.3846
+    avg_copies: 3.8
   unknown-24:
     weight: 1.0
     avg_copies: 4.0
@@ -37,7 +37,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-96:
-    weight: 0.0189
+    weight: 0.0167
     avg_copies: 3.0
   unknown-90:
     weight: 1.0

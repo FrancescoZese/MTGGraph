@@ -14,13 +14,13 @@ archetypes:
     weight: 0.0211
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.0286
+    weight: 0.0282
     avg_copies: 2.0
   jund-saga:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 1.0
   goryo5:
-    weight: 0.5333
+    weight: 0.5
     avg_copies: 2.38
   unknown-4:
     weight: 1.0

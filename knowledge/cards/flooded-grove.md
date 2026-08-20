@@ -9,12 +9,12 @@ type: Land
 meta_presence: 0.008
 archetypes:
   living-end:
-    weight: 0.6364
+    weight: 0.641
     avg_copies: 1.0
   unknown-65:
     weight: 0.069
     avg_copies: 2.0
   unknown-67:
-    weight: 0.0619
+    weight: 0.06
     avg_copies: 1.0
 ---

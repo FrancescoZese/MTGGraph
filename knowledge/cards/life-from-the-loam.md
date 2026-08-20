@@ -10,10 +10,10 @@ type: Sorcery
 meta_presence: 0.0057
 archetypes:
   eldrazi-tron:
-    weight: 0.0031
+    weight: 0.003
     avg_copies: 2.0
   broodscale-combo:
-    weight: 0.0411
+    weight: 0.0409
     avg_copies: 1.0
   dredge:
     weight: 0.9286

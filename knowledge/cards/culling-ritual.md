@@ -11,13 +11,13 @@ type: Sorcery
 meta_presence: 0.0402
 archetypes:
   goryo:
-    weight: 0.0051
+    weight: 0.005
     avg_copies: 1.0
   necrodominance:
     weight: 0.0222
     avg_copies: 2.0
   living-end:
-    weight: 0.6623
+    weight: 0.6667
     avg_copies: 1.94
   yawgmoth-combo:
     weight: 0.5474
@@ -29,16 +29,16 @@ archetypes:
     weight: 0.7938
     avg_copies: 2.88
   samwise-combo:
-    weight: 0.0571
+    weight: 0.0563
     avg_copies: 2.0
   broodscale-combo:
-    weight: 0.0127
+    weight: 0.0126
     avg_copies: 2.0
   jund-saga:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 2.0
   goryo5:
-    weight: 0.9
+    weight: 0.9062
     avg_copies: 1.93
   soultrader-combo:
     weight: 0.4286
@@ -56,13 +56,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.67
   unknown-45:
-    weight: 0.2903
-    avg_copies: 1.78
+    weight: 0.3125
+    avg_copies: 1.8
   unknown-46:
     weight: 1.0
     avg_copies: 2.12
   unknown-47:
-    weight: 0.0064
+    weight: 0.0063
     avg_copies: 3.0
   unknown-52:
     weight: 1.0
@@ -71,7 +71,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-67:
-    weight: 0.0103
+    weight: 0.01
     avg_copies: 2.0
   unknown-97:
     weight: 0.625
@@ -80,7 +80,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.0
   unknown-126:
-    weight: 0.0442
+    weight: 0.0413
     avg_copies: 1.0
   unknown-137:
     weight: 1.0

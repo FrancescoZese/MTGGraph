@@ -14,34 +14,34 @@ top_cards:
 - name: Badgermole Cub
   weight: 1.0
   avg_copies: 4.0
-- name: Delighted Halfling
-  weight: 1.0
-  avg_copies: 4.0
-- name: Quirion Ranger
-  weight: 1.0
-  avg_copies: 4.0
-- name: Leyline of Abundance
-  weight: 1.0
-  avg_copies: 4.0
-- name: Verdant Catacombs
-  weight: 1.0
-  avg_copies: 4.0
 - name: Ouroboroid
-  weight: 1.0
-  avg_copies: 4.0
-- name: Springheart Nantuko
   weight: 1.0
   avg_copies: 4.0
 - name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 4.0
-- name: card:shang-chi-master-of-kung-fu
+- name: Delighted Halfling
+  weight: 1.0
+  avg_copies: 4.0
+- name: Verdant Catacombs
+  weight: 1.0
+  avg_copies: 4.0
+- name: Quirion Ranger
+  weight: 1.0
+  avg_copies: 4.0
+- name: Springheart Nantuko
+  weight: 1.0
+  avg_copies: 4.0
+- name: Leyline of Abundance
+  weight: 1.0
+  avg_copies: 4.0
+- name: Force of Vigor
   weight: 1.0
   avg_copies: 3.0
 - name: Summoner's Pact
   weight: 1.0
   avg_copies: 3.0
-- name: Force of Vigor
+- name: card:shang-chi-master-of-kung-fu
   weight: 1.0
   avg_copies: 3.0
 - name: Heroic Intervention
@@ -53,16 +53,16 @@ top_cards:
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 2.0
-- name: Misty Rainforest
-  weight: 1.0
-  avg_copies: 1.75
 - name: Ashaya, Soul of the Wild
   weight: 1.0
   avg_copies: 1.75
-- name: Boseiju, Who Endures
+- name: Misty Rainforest
+  weight: 1.0
+  avg_copies: 1.75
+- name: Nissa, Resurgent Animist
   weight: 1.0
   avg_copies: 1.0
-- name: Nissa, Resurgent Animist
+- name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.0
 - name: Craterhoof Behemoth
@@ -77,10 +77,10 @@ top_cards:
 - name: Lush Portico
   weight: 0.75
   avg_copies: 2.0
-- name: Collector Ouphe
+- name: Temple Garden
   weight: 0.75
   avg_copies: 1.0
-- name: Temple Garden
+- name: Collector Ouphe
   weight: 0.75
   avg_copies: 1.0
 - name: card:royal-treatment
@@ -95,10 +95,10 @@ top_cards:
 - name: Lotus Cobra
   weight: 0.25
   avg_copies: 1.0
-- name: Noble Hierarch
+- name: card:mark-of-asylum
   weight: 0.25
   avg_copies: 1.0
-- name: card:mark-of-asylum
+- name: Noble Hierarch
   weight: 0.25
   avg_copies: 1.0
 ---

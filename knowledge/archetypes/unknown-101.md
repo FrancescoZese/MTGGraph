@@ -6,16 +6,16 @@ name: 'Unknown #101'
 meta_share: 0.0035
 list_count: 25
 top_cards:
-- name: Faithless Looting
+- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
-- name: Detective's Phoenix
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Street Wraith
   weight: 1.0
   avg_copies: 4.0
-- name: Hollow One
+- name: Detective's Phoenix
   weight: 1.0
   avg_copies: 4.0
 - name: Bloodstained Mire
@@ -105,10 +105,10 @@ top_cards:
 - name: Pyroclasm
   weight: 0.32
   avg_copies: 1.12
-- name: Mount Doom
+- name: Abrade
   weight: 0.28
   avg_copies: 1.0
-- name: Abrade
+- name: Mount Doom
   weight: 0.28
   avg_copies: 1.0
 - name: Sheoldred's Edict
@@ -138,16 +138,16 @@ top_cards:
 - name: Wear
   weight: 0.08
   avg_copies: 2.0
-- name: Sacred Foundry
-  weight: 0.08
-  avg_copies: 1.0
 - name: Ox of Agonas
   weight: 0.08
   avg_copies: 1.0
-- name: Dauthi Voidwalker
+- name: Sacred Foundry
+  weight: 0.08
+  avg_copies: 1.0
+- name: Mishra's Bauble
   weight: 0.04
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Dauthi Voidwalker
   weight: 0.04
   avg_copies: 4.0
 - name: Kroxa, Titan of Death's Hunger
@@ -162,7 +162,22 @@ top_cards:
 - name: Brotherhood's End
   weight: 0.04
   avg_copies: 2.0
+- name: Godless Shrine
+  weight: 0.04
+  avg_copies: 1.0
+- name: Seal of Fire
+  weight: 0.04
+  avg_copies: 1.0
 - name: Cool but Rude
+  weight: 0.04
+  avg_copies: 1.0
+- name: Verdant Catacombs
+  weight: 0.04
+  avg_copies: 1.0
+- name: card:corpse-explosion
+  weight: 0.04
+  avg_copies: 1.0
+- name: Goblin Lore
   weight: 0.04
   avg_copies: 1.0
 - name: Strategic Betrayal
@@ -171,25 +186,10 @@ top_cards:
 - name: Molten Collapse
   weight: 0.04
   avg_copies: 1.0
-- name: card:corpse-explosion
-  weight: 0.04
-  avg_copies: 1.0
-- name: Seal of Fire
-  weight: 0.04
-  avg_copies: 1.0
-- name: End of the Hunt
-  weight: 0.04
-  avg_copies: 1.0
-- name: Goblin Lore
-  weight: 0.04
-  avg_copies: 1.0
-- name: Godless Shrine
-  weight: 0.04
-  avg_copies: 1.0
 - name: Blackcleave Cliffs
   weight: 0.04
   avg_copies: 1.0
-- name: Verdant Catacombs
+- name: End of the Hunt
   weight: 0.04
   avg_copies: 1.0
 ---

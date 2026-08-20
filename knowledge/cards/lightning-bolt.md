@@ -7,13 +7,13 @@ name: Lightning Bolt
 scryfall_id: 77c6fa74-5543-42ac-9ead-0e890b188e99
 set: clu
 type: Instant
-meta_presence: 0.1606
+meta_presence: 0.1604
 archetypes:
   ruby-storm:
-    weight: 0.0273
+    weight: 0.0271
     avg_copies: 1.0
   boros-energy:
-    weight: 0.2481
+    weight: 0.2487
     avg_copies: 1.2
   dimir-control:
     weight: 0.0123
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.0597
     avg_copies: 2.88
   jeskai-control:
-    weight: 0.0339
+    weight: 0.0333
     avg_copies: 2.5
   domain-zoo:
     weight: 1.0
@@ -37,8 +37,8 @@ archetypes:
     weight: 0.8529
     avg_copies: 3.33
   eldrazi-ramp:
-    weight: 0.1221
-    avg_copies: 1.54
+    weight: 0.1212
+    avg_copies: 1.62
   izzet-prowess:
     weight: 1.0
     avg_copies: 3.84
@@ -55,7 +55,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.29
   jund-saga:
-    weight: 0.75
+    weight: 0.8
     avg_copies: 2.0
   eldrazi-breach:
     weight: 0.4
@@ -67,13 +67,13 @@ archetypes:
     weight: 1.0
     avg_copies: 2.5
   cosmogoyf-fling:
-    weight: 0.1273
+    weight: 0.125
     avg_copies: 2.29
   scapeshift-combo:
     weight: 0.3333
     avg_copies: 3.0
   goryo1:
-    weight: 0.0055
+    weight: 0.0054
     avg_copies: 1.0
   grixis-control:
     weight: 0.4286
@@ -94,8 +94,8 @@ archetypes:
     weight: 0.1176
     avg_copies: 1.0
   unknown-1:
-    weight: 0.75
-    avg_copies: 2.11
+    weight: 0.7692
+    avg_copies: 2.2
   unknown-7:
     weight: 1.0
     avg_copies: 3.0
@@ -106,7 +106,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-15:
-    weight: 0.5556
+    weight: 0.5
     avg_copies: 2.31
   unknown-19:
     weight: 1.0
@@ -172,8 +172,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-96:
-    weight: 0.8113
-    avg_copies: 2.32
+    weight: 0.8333
+    avg_copies: 2.44
   unknown-98:
     weight: 1.0
     avg_copies: 3.75

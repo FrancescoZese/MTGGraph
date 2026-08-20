@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.0039
 archetypes:
   eldrazi-tron:
-    weight: 0.0031
+    weight: 0.003
     avg_copies: 4.0
   mono-blue-tron:
     weight: 0.8846

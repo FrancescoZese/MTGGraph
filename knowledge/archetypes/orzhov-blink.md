@@ -144,70 +144,73 @@ top_cards:
 - name: Sanctifier en-Vec
   weight: 0.1111
   avg_copies: 2.0
-- name: Windswept Heath
-  weight: 0.1111
-  avg_copies: 1.5
 - name: Polluted Delta
   weight: 0.1111
   avg_copies: 1.5
-- name: Consign to Memory
+- name: Windswept Heath
+  weight: 0.1111
+  avg_copies: 1.5
+- name: Orim's Chant
   weight: 0.0556
   avg_copies: 4.0
-- name: Orim's Chant
+- name: Consign to Memory
   weight: 0.0556
   avg_copies: 4.0
 - name: Deafening Silence
   weight: 0.0556
   avg_copies: 3.0
-- name: Force of Despair
-  weight: 0.0556
-  avg_copies: 3.0
 - name: Flagstones of Trokair
   weight: 0.0556
   avg_copies: 3.0
-- name: Rest in Peace
+- name: Force of Despair
   weight: 0.0556
-  avg_copies: 2.0
-- name: Troll of Khazad-dûm
-  weight: 0.0556
-  avg_copies: 2.0
-- name: Duress
+  avg_copies: 3.0
+- name: Bloodstained Mire
   weight: 0.0556
   avg_copies: 2.0
 - name: Illness in the Ranks
   weight: 0.0556
   avg_copies: 2.0
-- name: Bloodstained Mire
-  weight: 0.0556
-  avg_copies: 2.0
 - name: End of the Hunt
   weight: 0.0556
   avg_copies: 2.0
-- name: Emptiness
+- name: Duress
   weight: 0.0556
-  avg_copies: 1.0
-- name: Meticulous Archive
+  avg_copies: 2.0
+- name: Troll of Khazad-dûm
   weight: 0.0556
-  avg_copies: 1.0
-- name: Containment Priest
+  avg_copies: 2.0
+- name: Rest in Peace
   weight: 0.0556
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Raucous Theater
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Lush Portico
   weight: 0.0556
   avg_copies: 1.0
 - name: Sacred Ground
   weight: 0.0556
   avg_copies: 1.0
+- name: Vindicate
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Emptiness
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Lush Portico
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Eiganjo, Seat of the Empire
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Containment Priest
+  weight: 0.0556
+  avg_copies: 1.0
 - name: Monumental Henge
   weight: 0.0556
   avg_copies: 1.0
-- name: Kataki, War's Wage
+- name: Meticulous Archive
   weight: 0.0556
   avg_copies: 1.0
-- name: Gaddock Teeg
+- name: Kataki, War's Wage
   weight: 0.0556
   avg_copies: 1.0
 - name: Hallowed Fountain
@@ -216,16 +219,13 @@ top_cards:
 - name: Accursed Marauder
   weight: 0.0556
   avg_copies: 1.0
-- name: Eiganjo, Seat of the Empire
+- name: Gaddock Teeg
   weight: 0.0556
   avg_copies: 1.0
 - name: card:captain-america-super-soldier
   weight: 0.0556
   avg_copies: 1.0
 - name: Overgrown Tomb
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Vindicate
   weight: 0.0556
   avg_copies: 1.0
 ---

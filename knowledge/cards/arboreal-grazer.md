@@ -7,13 +7,13 @@ name: Arboreal Grazer
 scryfall_id: 9eb7b2ae-a364-485b-ae75-10dbb0af5541
 set: tdc
 type: Creature — Sloth Beast
-meta_presence: 0.0273
+meta_presence: 0.0272
 archetypes:
   amulet-titan:
     weight: 1.0
     avg_copies: 3.99
   samwise-combo:
-    weight: 0.0143
+    weight: 0.0141
     avg_copies: 1.0
   scapeshift-combo:
     weight: 0.5
@@ -31,6 +31,9 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-193:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-258:
     weight: 1.0
     avg_copies: 4.0
 ---

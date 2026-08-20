@@ -4,13 +4,13 @@ colors:
 - R
 - G
 name: 'Unknown #6'
-meta_share: 0.0024
+meta_share: 0.0023
 list_count: 17
 top_cards:
-- name: Mox Opal
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
 - name: Tamiyo, Inquisitive Student
@@ -46,10 +46,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.24
-- name: Hedge Maze
+- name: Endurance
   weight: 1.0
   avg_copies: 1.0
-- name: Endurance
+- name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
 - name: Misty Rainforest
@@ -88,10 +88,10 @@ top_cards:
 - name: Flame of Anor
   weight: 0.7059
   avg_copies: 1.17
-- name: Haywire Mite
+- name: Stomping Ground
   weight: 0.7059
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Haywire Mite
   weight: 0.7059
   avg_copies: 1.0
 - name: Fire Magic
@@ -118,10 +118,10 @@ top_cards:
 - name: Preordain
   weight: 0.3529
   avg_copies: 2.83
-- name: Thundering Falls
+- name: Boseiju, Who Endures
   weight: 0.3529
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Thundering Falls
   weight: 0.3529
   avg_copies: 1.0
 - name: card:bruce-banner
@@ -130,10 +130,10 @@ top_cards:
 - name: Swan Song
   weight: 0.2941
   avg_copies: 1.2
-- name: Pithing Needle
+- name: Mountain
   weight: 0.2941
   avg_copies: 1.0
-- name: Mountain
+- name: Pithing Needle
   weight: 0.2941
   avg_copies: 1.0
 - name: Soulless Jailer
@@ -148,10 +148,10 @@ top_cards:
 - name: Pyroclasm
   weight: 0.1765
   avg_copies: 1.33
-- name: card:noxious-revival
+- name: Commercial District
   weight: 0.1765
   avg_copies: 1.0
-- name: Commercial District
+- name: card:noxious-revival
   weight: 0.1765
   avg_copies: 1.0
 - name: Sewer-veillance Cam
@@ -178,22 +178,19 @@ top_cards:
 - name: Cori-Steel Cutter
   weight: 0.0588
   avg_copies: 4.0
-- name: Polluted Delta
-  weight: 0.0588
-  avg_copies: 2.0
 - name: Flooded Strand
   weight: 0.0588
   avg_copies: 2.0
 - name: Hurkyl's Recall
   weight: 0.0588
   avg_copies: 2.0
-- name: Snapcaster Mage
+- name: Polluted Delta
+  weight: 0.0588
+  avg_copies: 2.0
+- name: Peer Past the Veil
   weight: 0.0588
   avg_copies: 1.0
-- name: Lavaspur Boots
-  weight: 0.0588
-  avg_copies: 1.0
-- name: card:laboratory-maniac
+- name: Skateboard
   weight: 0.0588
   avg_copies: 1.0
 - name: Magus of the Moon
@@ -202,10 +199,10 @@ top_cards:
 - name: Mistrise Village
   weight: 0.0588
   avg_copies: 1.0
-- name: Life from the Loam
+- name: card:mj-lnir-hammer-of-thor
   weight: 0.0588
   avg_copies: 1.0
-- name: Peer Past the Veil
+- name: Snapcaster Mage
   weight: 0.0588
   avg_copies: 1.0
 - name: Aether Spellbomb
@@ -214,10 +211,13 @@ top_cards:
 - name: Galvanic Blast
   weight: 0.0588
   avg_copies: 1.0
-- name: Skateboard
+- name: Lavaspur Boots
   weight: 0.0588
   avg_copies: 1.0
-- name: card:mj-lnir-hammer-of-thor
+- name: Life from the Loam
+  weight: 0.0588
+  avg_copies: 1.0
+- name: card:laboratory-maniac
   weight: 0.0588
   avg_copies: 1.0
 ---

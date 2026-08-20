@@ -16,10 +16,10 @@ archetypes:
     weight: 0.1119
     avg_copies: 1.0
   goryo:
-    weight: 0.0331
+    weight: 0.0324
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0094
+    weight: 0.0093
     avg_copies: 1.0
   mardu-blink:
     weight: 0.0833
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   esper-blink:
-    weight: 0.1266
+    weight: 0.1265
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.0667
@@ -43,13 +43,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.0455
+    weight: 0.0448
     avg_copies: 1.0
   naya-midrange:
     weight: 1.0
     avg_copies: 1.0
   goryo2:
-    weight: 0.0213
+    weight: 0.0208
     avg_copies: 1.0
   unknown-12:
     weight: 1.0
@@ -67,7 +67,7 @@ archetypes:
     weight: 0.125
     avg_copies: 1.0
   unknown-93:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 1.0
   unknown-131:
     weight: 0.1111

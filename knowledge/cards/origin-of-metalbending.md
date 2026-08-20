@@ -13,17 +13,17 @@ archetypes:
     weight: 0.0068
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0305
+    weight: 0.0303
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.021
+    weight: 0.0207
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.1286
+    weight: 0.1268
     avg_copies: 1.0
   unknown-45:
-    weight: 0.9677
-    avg_copies: 1.07
+    weight: 0.9688
+    avg_copies: 1.06
   unknown-57:
     weight: 1.0
     avg_copies: 1.0

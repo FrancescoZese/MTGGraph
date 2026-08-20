@@ -4,28 +4,28 @@ colors:
 - U
 - B
 name: 'Unknown #131'
-meta_share: 0.0013
+meta_share: 0.0012
 list_count: 9
 top_cards:
-- name: Guide of Souls
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Ocelot Pride
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Quantum Riddler
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marsh Flats
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Guide of Souls
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -49,22 +49,22 @@ top_cards:
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.67
-- name: Plains
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.67
-- name: Hallowed Fountain
+- name: Plains
   weight: 1.0
   avg_copies: 1.67
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.22
+- name: Island
+  weight: 1.0
+  avg_copies: 1.0
 - name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Watery Grave
-  weight: 1.0
-  avg_copies: 1.0
-- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Starfield Shepherd
@@ -106,19 +106,19 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.2222
   avg_copies: 2.5
-- name: Ashiok, Dream Render
+- name: High Noon
   weight: 0.2222
   avg_copies: 2.0
-- name: High Noon
+- name: Ashiok, Dream Render
   weight: 0.2222
   avg_copies: 2.0
 - name: Swamp
   weight: 0.2222
   avg_copies: 1.0
-- name: Overlord of the Balemurk
+- name: Orcish Bowmasters
   weight: 0.1111
   avg_copies: 3.0
-- name: Orcish Bowmasters
+- name: Overlord of the Balemurk
   weight: 0.1111
   avg_copies: 3.0
 - name: Containment Priest
@@ -127,19 +127,19 @@ top_cards:
 - name: Voice of Victory
   weight: 0.1111
   avg_copies: 2.0
-- name: March of Otherworldly Light
+- name: Clarion Conqueror
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
   weight: 0.1111
   avg_copies: 1.0
 - name: Floodfarm Verge
   weight: 0.1111
   avg_copies: 1.0
-- name: Clarion Conqueror
-  weight: 0.1111
-  avg_copies: 1.0
 - name: Ghost Vacuum
   weight: 0.1111
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
+- name: March of Otherworldly Light
   weight: 0.1111
   avg_copies: 1.0
 ---

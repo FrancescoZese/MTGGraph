@@ -22,14 +22,14 @@ archetypes:
     weight: 0.2059
     avg_copies: 1.88
   eldrazi-ramp:
-    weight: 0.5649
+    weight: 0.5606
     avg_copies: 2.06
   izzet-prowess:
-    weight: 0.9423
+    weight: 0.943
     avg_copies: 2.49
   broodscale-combo:
-    weight: 0.4114
-    avg_copies: 2.09
+    weight: 0.4151
+    avg_copies: 2.1
   dredge:
     weight: 0.0714
     avg_copies: 2.0
@@ -40,8 +40,8 @@ archetypes:
     weight: 0.0769
     avg_copies: 4.0
   jund-saga:
-    weight: 0.5
-    avg_copies: 2.0
+    weight: 0.6
+    avg_copies: 1.67
   eldrazi-breach:
     weight: 0.2
     avg_copies: 2.0
@@ -55,7 +55,7 @@ archetypes:
     weight: 0.5
     avg_copies: 3.0
   goryo1:
-    weight: 0.0219
+    weight: 0.0217
     avg_copies: 1.0
   izzet-murktide:
     weight: 1.0
@@ -64,14 +64,14 @@ archetypes:
     weight: 0.8824
     avg_copies: 1.93
   unknown-1:
-    weight: 0.25
+    weight: 0.2308
     avg_copies: 2.33
   unknown-10:
     weight: 0.3333
     avg_copies: 2.0
   unknown-15:
-    weight: 0.8333
-    avg_copies: 3.0
+    weight: 0.8
+    avg_copies: 3.05
   unknown-18:
     weight: 1.0
     avg_copies: 4.0
@@ -100,7 +100,7 @@ archetypes:
     weight: 0.5833
     avg_copies: 3.57
   unknown-96:
-    weight: 0.0189
+    weight: 0.0167
     avg_copies: 3.0
   unknown-90:
     weight: 1.0
@@ -126,4 +126,7 @@ archetypes:
   unknown-187:
     weight: 1.0
     avg_copies: 1.0
+  unknown-194:
+    weight: 0.05
+    avg_copies: 2.0
 ---

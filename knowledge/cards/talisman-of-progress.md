@@ -9,7 +9,7 @@ type: Artifact
 meta_presence: 0.0008
 archetypes:
   mono-blue-belcher:
-    weight: 0.044
+    weight: 0.0435
     avg_copies: 1.75
   mono-blue-tron:
     weight: 0.0385

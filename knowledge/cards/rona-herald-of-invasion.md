@@ -9,7 +9,7 @@ type: Legendary Creature — Human Wizard // Legendary Creature — Phyrexian Wi
 meta_presence: 0.001
 archetypes:
   kethis-combo:
-    weight: 0.8571
+    weight: 0.75
     avg_copies: 1.17
   unknown-43:
     weight: 1.0

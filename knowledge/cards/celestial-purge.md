@@ -7,10 +7,10 @@ name: Celestial Purge
 scryfall_id: cd38afd4-d7a4-493d-bdea-72be9a1d9a07
 set: mm2
 type: Instant
-meta_presence: 0.1445
+meta_presence: 0.1433
 archetypes:
   boros-energy:
-    weight: 0.6667
+    weight: 0.6662
     avg_copies: 1.39
   dimir-control:
     weight: 0.0741
@@ -19,19 +19,19 @@ archetypes:
     weight: 0.4851
     avg_copies: 1.17
   eldrazi-tron:
-    weight: 0.0031
+    weight: 0.003
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.0058
+    weight: 0.0116
     avg_copies: 2.0
   goryo:
-    weight: 0.2621
+    weight: 0.2618
     avg_copies: 1.06
   azorius-control:
-    weight: 0.5094
+    weight: 0.5047
     avg_copies: 1.31
   jeskai-control:
-    weight: 0.8475
+    weight: 0.8333
     avg_copies: 1.28
   domain-zoo:
     weight: 0.1149
@@ -43,10 +43,10 @@ archetypes:
     weight: 0.0052
     avg_copies: 1.0
   esper-blink:
-    weight: 0.019
+    weight: 0.0181
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.0909
+    weight: 0.0896
     avg_copies: 1.17
   esper-midrange:
     weight: 1.0
@@ -55,7 +55,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 2.0
   goryo2:
-    weight: 0.2766
+    weight: 0.2708
     avg_copies: 1.54
   goryo3:
     weight: 1.0
@@ -73,16 +73,16 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-5:
-    weight: 0.2
+    weight: 0.1818
     avg_copies: 1.5
   unknown-22:
     weight: 0.75
     avg_copies: 1.33
   unknown-26:
-    weight: 0.0909
+    weight: 0.087
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0064
+    weight: 0.0063
     avg_copies: 1.0
   unknown-56:
     weight: 1.0
@@ -91,14 +91,14 @@ archetypes:
     weight: 0.0303
     avg_copies: 1.0
   unknown-68:
-    weight: 0.175
+    weight: 0.1707
     avg_copies: 1.0
   unknown-70:
     weight: 0.2
     avg_copies: 1.25
   unknown-96:
-    weight: 0.0189
-    avg_copies: 2.0
+    weight: 0.0333
+    avg_copies: 1.5
   unknown-99:
     weight: 1.0
     avg_copies: 1.0
@@ -109,13 +109,13 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.0
   unknown-113:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 2.0
   unknown-158:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.3908
+    weight: 0.3864
     avg_copies: 1.76
   unknown-166:
     weight: 1.0

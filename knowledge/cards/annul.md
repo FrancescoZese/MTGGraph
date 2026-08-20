@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0011
 archetypes:
   kethis-combo:
-    weight: 0.1429
+    weight: 0.125
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.0625
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.0109
     avg_copies: 1.0
   unknown-15:
-    weight: 0.0556
+    weight: 0.05
     avg_copies: 1.0
   unknown-35:
     weight: 0.2

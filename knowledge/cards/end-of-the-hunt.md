@@ -13,38 +13,38 @@ archetypes:
     weight: 0.0123
     avg_copies: 2.0
   goryo:
-    weight: 0.0178
+    weight: 0.0175
     avg_copies: 1.29
   necrodominance:
     weight: 0.0222
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0105
+    weight: 0.0104
     avg_copies: 1.0
   esper-blink:
-    weight: 0.1076
+    weight: 0.1024
     avg_copies: 1.12
   orzhov-blink:
     weight: 0.0556
     avg_copies: 2.0
   jund-saga:
-    weight: 0.5
-    avg_copies: 1.0
+    weight: 0.4
+    avg_copies: 1.25
   grixis-shadow:
     weight: 0.2
     avg_copies: 2.0
   goryo1:
-    weight: 0.0055
+    weight: 0.0054
     avg_copies: 2.0
   goryo2:
-    weight: 0.1277
+    weight: 0.125
     avg_copies: 1.57
   unknown-30:
     weight: 0.1429
     avg_copies: 1.0
   unknown-68:
-    weight: 0.275
-    avg_copies: 1.09
+    weight: 0.2927
+    avg_copies: 1.25
   unknown-90:
     weight: 1.0
     avg_copies: 2.0

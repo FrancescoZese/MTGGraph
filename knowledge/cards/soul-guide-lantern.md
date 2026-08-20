@@ -6,13 +6,13 @@ name: Soul-Guide Lantern
 scryfall_id: f4907e7b-d6d5-4e9b-968f-bce34ae4a577
 set: eoc
 type: Artifact
-meta_presence: 0.096
+meta_presence: 0.0958
 archetypes:
   ruby-storm:
     weight: 0.0078
     avg_copies: 2.0
   boros-energy:
-    weight: 0.1189
+    weight: 0.1186
     avg_copies: 1.07
   dimir-control:
     weight: 0.0247
@@ -24,22 +24,22 @@ archetypes:
     weight: 0.0061
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.2222
+    weight: 0.2267
     avg_copies: 1.0
   goryo:
     weight: 0.0025
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0283
+    weight: 0.028
     avg_copies: 2.67
   jeskai-control:
-    weight: 0.1864
+    weight: 0.1833
     avg_copies: 1.82
   mill:
     weight: 0.3889
     avg_copies: 2.29
   hammer-time:
-    weight: 0.1176
+    weight: 0.1111
     avg_copies: 1.0
   hollow-one:
     weight: 0.0588
@@ -48,22 +48,22 @@ archetypes:
     weight: 0.0567
     avg_copies: 1.88
   eldrazi-ramp:
-    weight: 0.0763
+    weight: 0.0758
     avg_copies: 1.0
   simic-ritual:
     weight: 0.0103
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.084
+    weight: 0.0829
     avg_copies: 1.03
   esper-blink:
-    weight: 0.0063
+    weight: 0.006
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.9335
+    weight: 0.934
     avg_copies: 1.04
   azorius-blink:
-    weight: 0.0303
+    weight: 0.0299
     avg_copies: 1.5
   izzet-artifacts:
     weight: 0.5
@@ -72,13 +72,13 @@ archetypes:
     weight: 0.0769
     avg_copies: 3.0
   jund-saga:
-    weight: 0.5
-    avg_copies: 1.5
+    weight: 0.4
+    avg_copies: 1.67
   izzet-splinter-twin:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.0219
+    weight: 0.0217
     avg_copies: 1.5
   goryo4:
     weight: 0.3704
@@ -90,7 +90,7 @@ archetypes:
     weight: 0.6
     avg_copies: 1.33
   unknown-15:
-    weight: 0.5556
+    weight: 0.55
     avg_copies: 1.0
   unknown-16:
     weight: 1.0
@@ -111,7 +111,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-61:
-    weight: 0.0092
+    weight: 0.0089
     avg_copies: 2.0
   unknown-55:
     weight: 1.0
@@ -141,7 +141,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-96:
-    weight: 0.1887
+    weight: 0.1833
     avg_copies: 1.0
   unknown-98:
     weight: 0.875
@@ -168,10 +168,10 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.5
   unknown-186:
-    weight: 1.0
+    weight: 0.6667
     avg_copies: 2.0
   unknown-194:
-    weight: 0.8824
+    weight: 0.9
     avg_copies: 1.0
   unknown-208:
     weight: 1.0
@@ -180,7 +180,7 @@ archetypes:
     weight: 0.125
     avg_copies: 3.0
   unknown-213:
-    weight: 0.5
+    weight: 0.4545
     avg_copies: 1.0
   unknown-248:
     weight: 1.0

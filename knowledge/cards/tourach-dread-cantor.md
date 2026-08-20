@@ -16,10 +16,10 @@ archetypes:
     weight: 0.0105
     avg_copies: 2.0
   jund-saga:
-    weight: 0.5
+    weight: 0.4
     avg_copies: 1.0
   goryo5:
-    weight: 0.0667
+    weight: 0.0625
     avg_copies: 2.0
   unknown-18:
     weight: 1.0
@@ -28,6 +28,6 @@ archetypes:
     weight: 0.1111
     avg_copies: 2.0
   unknown-225:
-    weight: 0.5
-    avg_copies: 2.0
+    weight: 0.6667
+    avg_copies: 1.5
 ---

@@ -6,10 +6,10 @@ name: Gut Shot
 scryfall_id: 461987da-8860-4a04-8f93-d182523ca311
 set: mm2
 type: Instant
-meta_presence: 0.0013
+meta_presence: 0.0012
 archetypes:
   izzet-prowess:
-    weight: 0.0131
+    weight: 0.013
     avg_copies: 1.6
   unknown-2:
     weight: 1.0

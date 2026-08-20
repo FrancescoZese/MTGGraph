@@ -7,25 +7,25 @@ name: Static Prison
 scryfall_id: dd16222e-349c-4a2b-a7c8-8eb35a8ab332
 set: mh3
 type: Enchantment
-meta_presence: 0.0395
+meta_presence: 0.0391
 archetypes:
   ruby-storm:
-    weight: 0.0195
+    weight: 0.0194
     avg_copies: 2.8
   boros-energy:
-    weight: 0.3114
+    weight: 0.3119
     avg_copies: 1.1
   mono-red-belcher:
     weight: 0.3077
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.0152
+    weight: 0.0149
     avg_copies: 2.0
   goryo0:
     weight: 0.5
     avg_copies: 1.27
   unknown-68:
-    weight: 0.025
+    weight: 0.0244
     avg_copies: 1.0
   unknown-77:
     weight: 0.5
@@ -34,7 +34,7 @@ archetypes:
     weight: 0.875
     avg_copies: 1.0
   unknown-93:
-    weight: 0.5
+    weight: 0.4
     avg_copies: 3.0
   unknown-157:
     weight: 1.0

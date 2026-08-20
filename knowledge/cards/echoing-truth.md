@@ -7,18 +7,21 @@ name: Echoing Truth
 scryfall_id: 5d987d26-c8e8-4edf-8ac0-6a2980265710
 set: dmc
 type: Instant
-meta_presence: 0.002
+meta_presence: 0.0021
 archetypes:
   mono-blue-belcher:
-    weight: 0.022
+    weight: 0.0217
     avg_copies: 1.0
   mill:
     weight: 0.2778
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0092
+    weight: 0.0091
     avg_copies: 1.0
   unknown-133:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-258:
     weight: 1.0
     avg_copies: 2.0
 ---

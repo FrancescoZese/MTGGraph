@@ -10,7 +10,7 @@ type: Creature — Vampire Wizard
 meta_presence: 0.0098
 archetypes:
   samwise-combo:
-    weight: 0.9857
+    weight: 0.9859
     avg_copies: 1.54
   unknown-235:
     weight: 1.0

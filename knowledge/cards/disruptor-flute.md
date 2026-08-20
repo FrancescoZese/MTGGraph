@@ -15,13 +15,13 @@ archetypes:
     weight: 0.0149
     avg_copies: 2.0
   eldrazi-tron:
-    weight: 0.911
+    weight: 0.9121
     avg_copies: 1.67
   necrodominance:
     weight: 0.1778
     avg_copies: 1.62
   azorius-control:
-    weight: 0.0472
+    weight: 0.0467
     avg_copies: 1.0
   affinity:
     weight: 0.0037
@@ -36,16 +36,16 @@ archetypes:
     weight: 0.0142
     avg_copies: 2.5
   eldrazi-ramp:
-    weight: 0.7176
+    weight: 0.7121
     avg_copies: 1.86
   izzet-prowess:
     weight: 0.0026
     avg_copies: 2.0
   broodscale-combo:
-    weight: 0.019
-    avg_copies: 1.17
+    weight: 0.022
+    avg_copies: 1.14
   azorius-blink:
-    weight: 0.0152
+    weight: 0.0149
     avg_copies: 1.0
   elves:
     weight: 1.0
@@ -57,13 +57,13 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   cosmogoyf-fling:
-    weight: 0.0182
+    weight: 0.0179
     avg_copies: 1.0
   goryo4:
     weight: 0.963
     avg_copies: 1.92
   goryo5:
-    weight: 0.1333
+    weight: 0.125
     avg_copies: 1.5
   unknown-12:
     weight: 1.0
@@ -87,7 +87,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.5
   unknown-126:
-    weight: 0.0177
+    weight: 0.0165
     avg_copies: 2.0
   unknown-134:
     weight: 1.0
@@ -99,7 +99,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0115
+    weight: 0.0114
     avg_copies: 1.0
   unknown-167:
     weight: 0.3889
@@ -111,10 +111,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-194:
-    weight: 0.2353
-    avg_copies: 1.75
+    weight: 0.25
+    avg_copies: 1.6
   unknown-213:
-    weight: 0.9
+    weight: 0.9091
     avg_copies: 1.0
   unknown-223:
     weight: 1.0

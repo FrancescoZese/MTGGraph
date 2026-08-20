@@ -7,26 +7,26 @@ name: Solitude
 scryfall_id: 47a6234f-309f-4e03-9263-66da48b57153
 set: mh2
 type: Creature — Elemental Incarnation
-meta_presence: 0.218
+meta_presence: 0.2193
 archetypes:
   boros-energy:
-    weight: 0.137
+    weight: 0.1366
     avg_copies: 1.17
   jeskai-energy:
     weight: 1.0
     avg_copies: 3.91
   eldrazi-tron:
-    weight: 0.0031
+    weight: 0.003
     avg_copies: 4.0
   goryo:
-    weight: 0.9898
+    weight: 0.99
     avg_copies: 3.36
   azorius-control:
     weight: 1.0
-    avg_copies: 3.23
+    avg_copies: 3.22
   jeskai-control:
-    weight: 0.9153
-    avg_copies: 2.98
+    weight: 0.9167
+    avg_copies: 2.97
   reanimator:
     weight: 0.037
     avg_copies: 4.0
@@ -34,7 +34,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   hammer-time:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 2.0
   boros-ponza:
     weight: 1.0
@@ -44,7 +44,7 @@ archetypes:
     avg_copies: 4.0
   esper-blink:
     weight: 1.0
-    avg_copies: 3.94
+    avg_copies: 3.93
   orzhov-blink:
     weight: 1.0
     avg_copies: 4.0
@@ -82,8 +82,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-5:
-    weight: 0.9
-    avg_copies: 3.78
+    weight: 0.9091
+    avg_copies: 3.8
   unknown-12:
     weight: 1.0
     avg_copies: 4.0
@@ -95,7 +95,7 @@ archetypes:
     avg_copies: 3.5
   unknown-26:
     weight: 1.0
-    avg_copies: 3.82
+    avg_copies: 3.83
   unknown-48:
     weight: 1.0
     avg_copies: 4.0
@@ -109,7 +109,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-68:
-    weight: 0.075
+    weight: 0.0732
     avg_copies: 1.75
   unknown-70:
     weight: 0.85
@@ -148,7 +148,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-113:
-    weight: 0.5
+    weight: 0.6667
     avg_copies: 4.0
   unknown-114:
     weight: 1.0
@@ -170,7 +170,7 @@ archetypes:
     avg_copies: 4.0
   unknown-149:
     weight: 1.0
-    avg_copies: 3.94
+    avg_copies: 3.95
   unknown-158:
     weight: 1.0
     avg_copies: 4.0
@@ -194,7 +194,7 @@ archetypes:
     avg_copies: 3.0
   unknown-186:
     weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 1.67
   unknown-188:
     weight: 1.0
     avg_copies: 4.0
@@ -224,7 +224,7 @@ archetypes:
     avg_copies: 1.0
   unknown-225:
     weight: 1.0
-    avg_copies: 2.33
+    avg_copies: 2.0
   unknown-231:
     weight: 1.0
     avg_copies: 4.0
@@ -244,6 +244,9 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-250:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-257:
     weight: 1.0
     avg_copies: 4.0
 ---

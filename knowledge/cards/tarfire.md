@@ -13,7 +13,7 @@ archetypes:
     weight: 0.1176
     avg_copies: 2.0
   jund-saga:
-    weight: 0.5
+    weight: 0.4
     avg_copies: 1.0
   rakdos-aggro:
     weight: 0.1053

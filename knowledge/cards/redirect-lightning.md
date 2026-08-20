@@ -10,7 +10,7 @@ type: Instant — Lesson
 meta_presence: 0.0039
 archetypes:
   boros-energy:
-    weight: 0.0065
+    weight: 0.0064
     avg_copies: 1.0
   domain-zoo:
     weight: 0.0068
@@ -22,10 +22,10 @@ archetypes:
     weight: 0.0071
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0229
+    weight: 0.0227
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0157
+    weight: 0.0155
     avg_copies: 1.0
   rakdos-aggro:
     weight: 0.1053
@@ -37,7 +37,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-45:
-    weight: 0.0645
+    weight: 0.0625
     avg_copies: 1.0
   unknown-122:
     weight: 0.0357

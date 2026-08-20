@@ -6,19 +6,19 @@ name: Defense Grid
 scryfall_id: f939dac5-ad71-4163-adde-4f435412477c
 set: 9ed
 type: Artifact
-meta_presence: 0.0024
+meta_presence: 0.0023
 archetypes:
   ruby-storm:
-    weight: 0.0156
+    weight: 0.0155
     avg_copies: 1.75
   amulet-titan:
-    weight: 0.0117
+    weight: 0.0116
     avg_copies: 2.0
   mono-red-belcher:
     weight: 0.2308
     avg_copies: 3.33
   broodscale-combo:
-    weight: 0.0095
+    weight: 0.0094
     avg_copies: 1.33
   unknown-11:
     weight: 0.6

@@ -11,7 +11,7 @@ type: Legendary Creature — Human Ninja Rogue
 meta_presence: 0.0006
 archetypes:
   samwise-combo:
-    weight: 0.0286
+    weight: 0.0282
     avg_copies: 2.5
   unknown-39:
     weight: 1.0

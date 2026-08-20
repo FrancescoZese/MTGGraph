@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0058
     avg_copies: 1.0
   affinity:
-    weight: 0.0019
+    weight: 0.0018
     avg_copies: 1.0
   burn:
     weight: 0.0256
@@ -25,7 +25,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-160:
-    weight: 0.1149
+    weight: 0.1136
     avg_copies: 1.9
   unknown-180:
     weight: 1.0

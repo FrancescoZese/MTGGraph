@@ -6,7 +6,7 @@ name: Meticulous Archive
 scryfall_id: 652236c2-84ef-45e4-b5fc-ed6170bc3d6c
 set: mkm
 type: Land — Plains Island
-meta_presence: 0.1737
+meta_presence: 0.1754
 archetypes:
   dimir-control:
     weight: 0.1358
@@ -15,13 +15,13 @@ archetypes:
     weight: 0.9925
     avg_copies: 1.0
   goryo:
-    weight: 0.9924
+    weight: 0.9925
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
     avg_copies: 2.0
   living-end:
-    weight: 0.1688
+    weight: 0.1667
     avg_copies: 1.0
   jeskai-control:
     weight: 1.0
@@ -36,11 +36,11 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0275
+    weight: 0.0273
     avg_copies: 1.0
   hammer-time:
-    weight: 0.8824
-    avg_copies: 1.27
+    weight: 0.8889
+    avg_copies: 1.25
   4c-omnath:
     weight: 0.25
     avg_copies: 1.0
@@ -55,7 +55,7 @@ archetypes:
     avg_copies: 2.0
   azorius-blink:
     weight: 1.0
-    avg_copies: 1.89
+    avg_copies: 1.9
   esper-control:
     weight: 1.0
     avg_copies: 2.0
@@ -105,7 +105,7 @@ archetypes:
     weight: 0.5714
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0637
+    weight: 0.0625
     avg_copies: 1.0
   unknown-54:
     weight: 0.3333
@@ -123,7 +123,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.0103
+    weight: 0.01
     avg_copies: 1.0
   unknown-70:
     weight: 0.95
@@ -163,7 +163,7 @@ archetypes:
     avg_copies: 1.0
   unknown-113:
     weight: 1.0
-    avg_copies: 1.5
+    avg_copies: 1.33
   unknown-118:
     weight: 1.0
     avg_copies: 1.0
@@ -205,7 +205,7 @@ archetypes:
     avg_copies: 1.0
   unknown-186:
     weight: 1.0
-    avg_copies: 1.5
+    avg_copies: 1.67
   unknown-188:
     weight: 1.0
     avg_copies: 2.0
@@ -231,7 +231,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   unknown-213:
-    weight: 0.5
+    weight: 0.5455
     avg_copies: 1.0
   unknown-216:
     weight: 1.0
@@ -254,4 +254,7 @@ archetypes:
   unknown-251:
     weight: 1.0
     avg_copies: 1.0
+  unknown-257:
+    weight: 1.0
+    avg_copies: 2.0
 ---

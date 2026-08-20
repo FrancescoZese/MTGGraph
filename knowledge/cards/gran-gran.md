@@ -16,13 +16,13 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   kethis-combo:
-    weight: 0.7143
+    weight: 0.625
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.0758
+    weight: 0.0746
     avg_copies: 1.0
   goryo1:
-    weight: 0.0601
+    weight: 0.0598
     avg_copies: 3.0
   unknown-20:
     weight: 1.0

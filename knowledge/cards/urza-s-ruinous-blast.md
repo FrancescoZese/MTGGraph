@@ -10,6 +10,6 @@ type: Legendary Sorcery
 meta_presence: 0.0001
 archetypes:
   kethis-combo:
-    weight: 0.1429
+    weight: 0.125
     avg_copies: 1.0
 ---

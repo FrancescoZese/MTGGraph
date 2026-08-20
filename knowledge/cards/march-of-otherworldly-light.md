@@ -7,58 +7,58 @@ name: March of Otherworldly Light
 scryfall_id: 553fb946-2706-475b-89f9-e4355ec9ea2b
 set: neo
 type: Instant
-meta_presence: 0.0846
+meta_presence: 0.0844
 archetypes:
   ruby-storm:
-    weight: 0.0234
+    weight: 0.0233
     avg_copies: 2.0
   boros-energy:
-    weight: 0.0297
+    weight: 0.0296
     avg_copies: 1.03
   jeskai-energy:
     weight: 0.7612
     avg_copies: 1.51
   eldrazi-tron:
-    weight: 0.0031
+    weight: 0.003
     avg_copies: 2.0
   goryo:
-    weight: 0.6005
-    avg_copies: 1.12
+    weight: 0.601
+    avg_copies: 1.11
   azorius-control:
-    weight: 0.3208
+    weight: 0.3178
     avg_copies: 1.08
   jeskai-control:
-    weight: 0.1864
+    weight: 0.1833
     avg_copies: 1.0
   mardu-blink:
     weight: 0.125
     avg_copies: 1.67
   hammer-time:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 3.0
   boros-ponza:
     weight: 0.2837
     avg_copies: 1.74
   esper-blink:
-    weight: 0.1772
+    weight: 0.1747
     avg_copies: 1.06
   orzhov-blink:
     weight: 0.2222
     avg_copies: 1.2
   azorius-blink:
-    weight: 0.7121
-    avg_copies: 1.89
+    weight: 0.7164
+    avg_copies: 1.9
   goryo6:
     weight: 0.75
     avg_copies: 4.0
   goryo2:
-    weight: 0.3617
+    weight: 0.3542
     avg_copies: 1.59
   unknown-3:
     weight: 0.5
     avg_copies: 1.0
   unknown-5:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 1.0
   unknown-12:
     weight: 1.0
@@ -70,7 +70,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-26:
-    weight: 0.0455
+    weight: 0.0435
     avg_copies: 2.0
   unknown-48:
     weight: 1.0
@@ -82,13 +82,13 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-93:
-    weight: 0.75
+    weight: 0.6
     avg_copies: 1.0
   unknown-108:
     weight: 1.0
     avg_copies: 2.0
   unknown-113:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
   unknown-131:
     weight: 0.1111
@@ -100,13 +100,13 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-149:
-    weight: 0.0625
+    weight: 0.0526
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0575
+    weight: 0.0568
     avg_copies: 1.2
   unknown-186:
-    weight: 1.0
+    weight: 0.6667
     avg_copies: 1.0
   unknown-185:
     weight: 1.0

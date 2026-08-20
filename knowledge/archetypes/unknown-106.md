@@ -15,10 +15,10 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.73
-- name: Field of Ruin
+- name: Consult the Star Charts
   weight: 1.0
   avg_copies: 3.55
-- name: Consult the Star Charts
+- name: Field of Ruin
   weight: 1.0
   avg_copies: 3.55
 - name: Solitude
@@ -42,10 +42,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 2.09
-- name: Plains
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.0
-- name: Hallowed Fountain
+- name: Plains
   weight: 1.0
   avg_copies: 2.0
 - name: Meticulous Archive
@@ -57,10 +57,10 @@ top_cards:
 - name: Celestial Purge
   weight: 0.9091
   avg_copies: 1.1
-- name: Watery Grave
+- name: Monumental Henge
   weight: 0.8182
   avg_copies: 1.0
-- name: Monumental Henge
+- name: Watery Grave
   weight: 0.8182
   avg_copies: 1.0
 - name: Mystic Gate
@@ -75,19 +75,19 @@ top_cards:
 - name: Teferi, Hero of Dominaria
   weight: 0.6364
   avg_copies: 1.29
-- name: Scalding Tarn
+- name: Hall of Storm Giants
   weight: 0.6364
   avg_copies: 1.0
-- name: Hall of Storm Giants
+- name: Scalding Tarn
   weight: 0.6364
   avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.5455
   avg_copies: 2.0
-- name: Beza, the Bounding Spring
+- name: Nihil Spellbomb
   weight: 0.5455
   avg_copies: 1.83
-- name: Nihil Spellbomb
+- name: Beza, the Bounding Spring
   weight: 0.5455
   avg_copies: 1.83
 - name: Undercity Sewers
@@ -117,10 +117,10 @@ top_cards:
 - name: Day's Undoing
   weight: 0.3636
   avg_copies: 2.0
-- name: Path to Exile
+- name: Lórien Revealed
   weight: 0.3636
   avg_copies: 2.0
-- name: Lórien Revealed
+- name: Path to Exile
   weight: 0.3636
   avg_copies: 2.0
 - name: Logic Knot
@@ -156,22 +156,19 @@ top_cards:
 - name: Terminus
   weight: 0.0909
   avg_copies: 2.0
+- name: No More Lies
+  weight: 0.0909
+  avg_copies: 2.0
 - name: Fatal Push
   weight: 0.0909
   avg_copies: 2.0
 - name: Harbinger of the Seas
   weight: 0.0909
   avg_copies: 2.0
-- name: No More Lies
-  weight: 0.0909
-  avg_copies: 2.0
 - name: Thundering Falls
   weight: 0.0909
   avg_copies: 1.0
-- name: Rest in Peace
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Memory Deluge
+- name: Agna Qel'a
   weight: 0.0909
   avg_copies: 1.0
 - name: Dovin's Veto
@@ -180,7 +177,10 @@ top_cards:
 - name: Kaito, Bane of Nightmares
   weight: 0.0909
   avg_copies: 1.0
-- name: Agna Qel'a
+- name: Rest in Peace
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Memory Deluge
   weight: 0.0909
   avg_copies: 1.0
 ---

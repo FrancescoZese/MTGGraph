@@ -7,7 +7,7 @@ name: Chthonian Nightmare
 scryfall_id: ce5dd2c1-b6e0-4914-b5c9-7dd451c29e22
 set: mh3
 type: Enchantment
-meta_presence: 0.009
+meta_presence: 0.0091
 archetypes:
   domain-zoo:
     weight: 0.0068
@@ -16,7 +16,7 @@ archetypes:
     weight: 0.0103
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.0714
+    weight: 0.0704
     avg_copies: 1.0
   the-rock:
     weight: 0.5
@@ -28,7 +28,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-45:
-    weight: 0.0323
+    weight: 0.0312
     avg_copies: 1.0
   unknown-50:
     weight: 1.0
@@ -37,8 +37,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.17
   unknown-68:
-    weight: 0.65
-    avg_copies: 1.88
+    weight: 0.6585
+    avg_copies: 1.85
   unknown-77:
     weight: 0.5
     avg_copies: 1.0
@@ -53,7 +53,7 @@ archetypes:
     avg_copies: 2.0
   unknown-225:
     weight: 1.0
-    avg_copies: 1.5
+    avg_copies: 1.33
   unknown-243:
     weight: 1.0
     avg_copies: 3.0

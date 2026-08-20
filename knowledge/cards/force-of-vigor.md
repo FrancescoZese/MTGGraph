@@ -7,25 +7,25 @@ name: Force of Vigor
 scryfall_id: 017c415b-d635-43c6-92b8-8c95d1c4ff8d
 set: mh1
 type: Instant
-meta_presence: 0.1143
+meta_presence: 0.1146
 archetypes:
   amulet-titan:
-    weight: 0.9825
+    weight: 0.9767
     avg_copies: 1.95
   hardened-scales:
     weight: 0.4
     avg_copies: 1.0
   living-end:
-    weight: 0.5195
-    avg_copies: 1.68
+    weight: 0.5256
+    avg_copies: 1.66
   neoform-combo:
-    weight: 0.0459
+    weight: 0.0455
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 0.9789
     avg_copies: 1.86
   eldrazi-ramp:
-    weight: 0.2137
+    weight: 0.2121
     avg_copies: 1.96
   simic-ritual:
     weight: 0.7629
@@ -37,7 +37,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.04
   broodscale-combo:
-    weight: 0.0285
+    weight: 0.0283
     avg_copies: 1.44
   izzet-artifacts:
     weight: 0.0312
@@ -73,13 +73,13 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-61:
-    weight: 0.6789
-    avg_copies: 2.45
+    weight: 0.6696
+    avg_copies: 2.44
   unknown-65:
     weight: 0.9655
     avg_copies: 2.39
   unknown-67:
-    weight: 0.9175
+    weight: 0.92
     avg_copies: 2.03
   unknown-76:
     weight: 1.0
@@ -103,8 +103,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-126:
-    weight: 0.5752
-    avg_copies: 2.02
+    weight: 0.5868
+    avg_copies: 2.01
   unknown-130:
     weight: 1.0
     avg_copies: 2.0
@@ -156,4 +156,7 @@ archetypes:
   unknown-249:
     weight: 1.0
     avg_copies: 2.0
+  unknown-258:
+    weight: 1.0
+    avg_copies: 4.0
 ---

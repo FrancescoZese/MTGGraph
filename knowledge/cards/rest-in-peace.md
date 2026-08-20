@@ -10,7 +10,7 @@ type: Enchantment
 meta_presence: 0.093
 archetypes:
   boros-energy:
-    weight: 0.2416
+    weight: 0.2436
     avg_copies: 1.56
   dimir-control:
     weight: 0.0123
@@ -19,11 +19,11 @@ archetypes:
     weight: 0.0299
     avg_copies: 1.5
   azorius-control:
-    weight: 0.8019
+    weight: 0.8037
     avg_copies: 1.62
   jeskai-control:
-    weight: 0.3051
-    avg_copies: 1.72
+    weight: 0.3167
+    avg_copies: 1.74
   domain-zoo:
     weight: 0.2365
     avg_copies: 1.37
@@ -34,7 +34,7 @@ archetypes:
     weight: 0.8298
     avg_copies: 2.61
   esper-blink:
-    weight: 0.0063
+    weight: 0.006
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.0667
@@ -43,7 +43,7 @@ archetypes:
     weight: 0.0556
     avg_copies: 2.0
   azorius-blink:
-    weight: 0.6364
+    weight: 0.6269
     avg_copies: 1.63
   esper-control:
     weight: 1.0
@@ -52,14 +52,14 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-26:
-    weight: 0.5
-    avg_copies: 3.45
+    weight: 0.5217
+    avg_copies: 3.33
   unknown-62:
     weight: 0.4242
     avg_copies: 1.79
   unknown-68:
-    weight: 0.05
-    avg_copies: 1.0
+    weight: 0.0732
+    avg_copies: 1.33
   unknown-70:
     weight: 0.25
     avg_copies: 1.8
@@ -94,13 +94,13 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-149:
-    weight: 0.1875
+    weight: 0.1579
     avg_copies: 1.33
   unknown-153:
     weight: 0.5
     avg_copies: 2.0
   unknown-160:
-    weight: 0.8851
+    weight: 0.8864
     avg_copies: 2.5
   unknown-163:
     weight: 1.0
@@ -111,6 +111,9 @@ archetypes:
   unknown-184:
     weight: 1.0
     avg_copies: 1.0
+  unknown-186:
+    weight: 0.3333
+    avg_copies: 2.0
   unknown-188:
     weight: 1.0
     avg_copies: 2.0
@@ -144,4 +147,7 @@ archetypes:
   unknown-254:
     weight: 1.0
     avg_copies: 4.0
+  unknown-257:
+    weight: 1.0
+    avg_copies: 1.0
 ---

@@ -9,16 +9,16 @@ top_cards:
 - name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
-- name: Ugin's Labyrinth
+- name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
-- name: Kozilek's Command
+- name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
 - name: card:talisman-of-unity
   weight: 1.0
   avg_copies: 4.0
-- name: Sowing Mycospawn
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
@@ -36,13 +36,13 @@ top_cards:
 - name: Emrakul, the Promised End
   weight: 1.0
   avg_copies: 3.0
-- name: Devourer of Destiny
-  weight: 1.0
-  avg_copies: 2.75
 - name: Icetill Explorer
   weight: 1.0
   avg_copies: 2.75
 - name: High Noon
+  weight: 1.0
+  avg_copies: 2.75
+- name: Devourer of Destiny
   weight: 1.0
   avg_copies: 2.75
 - name: Erode
@@ -51,10 +51,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 1.0
   avg_copies: 2.0
-- name: Nature's Claim
+- name: Temple Garden
   weight: 1.0
   avg_copies: 2.0
-- name: Temple Garden
+- name: Nature's Claim
   weight: 1.0
   avg_copies: 2.0
 - name: Sire of Seven Deaths
@@ -72,28 +72,28 @@ top_cards:
 - name: World Breaker
   weight: 1.0
   avg_copies: 1.0
-- name: Plains
-  weight: 1.0
-  avg_copies: 1.0
-- name: Lush Portico
-  weight: 1.0
-  avg_copies: 1.0
-- name: Vexing Bauble
+- name: Shifting Woodland
   weight: 1.0
   avg_copies: 1.0
 - name: Ugin, Eye of the Storms
   weight: 1.0
   avg_copies: 1.0
-- name: Shifting Woodland
+- name: Plains
+  weight: 1.0
+  avg_copies: 1.0
+- name: Vexing Bauble
+  weight: 1.0
+  avg_copies: 1.0
+- name: Lush Portico
   weight: 1.0
   avg_copies: 1.0
 - name: Emeritus of Abundance
   weight: 0.75
   avg_copies: 2.0
-- name: Soulless Jailer
+- name: Ghost Quarter
   weight: 0.75
   avg_copies: 1.0
-- name: Ghost Quarter
+- name: Soulless Jailer
   weight: 0.75
   avg_copies: 1.0
 - name: Isochron Scepter
@@ -108,10 +108,10 @@ top_cards:
 - name: Bojuka Bog
   weight: 0.25
   avg_copies: 1.0
-- name: Elder Gargaroth
+- name: Elesh Norn, Mother of Machines
   weight: 0.25
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
+- name: Elder Gargaroth
   weight: 0.25
   avg_copies: 1.0
 ---

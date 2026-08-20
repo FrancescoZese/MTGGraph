@@ -7,19 +7,19 @@ name: Erode
 scryfall_id: 32e670da-7563-4f6a-a7db-4c126a440eb8
 set: sos
 type: Instant
-meta_presence: 0.0523
+meta_presence: 0.0525
 archetypes:
   boros-energy:
-    weight: 0.0233
+    weight: 0.0232
     avg_copies: 1.1
   mono-blue-belcher:
-    weight: 0.011
+    weight: 0.0109
     avg_copies: 1.0
   azorius-control:
-    weight: 0.1038
+    weight: 0.1028
     avg_copies: 1.09
   jeskai-control:
-    weight: 0.0339
+    weight: 0.0333
     avg_copies: 2.0
   domain-zoo:
     weight: 0.0068
@@ -34,22 +34,22 @@ archetypes:
     weight: 0.2308
     avg_copies: 1.67
   hammer-time:
-    weight: 0.1765
-    avg_copies: 2.67
+    weight: 0.2222
+    avg_copies: 2.75
   boros-ponza:
     weight: 0.8511
     avg_copies: 3.71
   esper-blink:
-    weight: 0.0759
+    weight: 0.0723
     avg_copies: 1.5
   samwise-combo:
-    weight: 0.2
+    weight: 0.1972
     avg_copies: 1.93
   orzhov-blink:
     weight: 0.2222
     avg_copies: 1.2
   azorius-blink:
-    weight: 0.0455
+    weight: 0.0448
     avg_copies: 1.0
   elves:
     weight: 0.5
@@ -76,7 +76,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.75
   unknown-26:
-    weight: 0.9545
+    weight: 0.9565
     avg_copies: 3.86
   unknown-41:
     weight: 0.25
@@ -94,7 +94,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.0377
+    weight: 0.0333
     avg_copies: 2.0
   unknown-89:
     weight: 1.0
@@ -115,8 +115,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-149:
-    weight: 0.25
-    avg_copies: 1.5
+    weight: 0.3684
+    avg_copies: 1.71
   unknown-158:
     weight: 1.0
     avg_copies: 3.0
@@ -125,7 +125,7 @@ archetypes:
     avg_copies: 4.0
   unknown-160:
     weight: 1.0
-    avg_copies: 3.92
+    avg_copies: 3.9
   unknown-159:
     weight: 1.0
     avg_copies: 1.0
@@ -141,6 +141,9 @@ archetypes:
   unknown-177:
     weight: 0.3333
     avg_copies: 1.0
+  unknown-186:
+    weight: 0.3333
+    avg_copies: 1.0
   unknown-188:
     weight: 1.0
     avg_copies: 3.0
@@ -148,7 +151,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-213:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 2.0
   unknown-216:
     weight: 1.0

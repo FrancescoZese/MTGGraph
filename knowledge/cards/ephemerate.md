@@ -7,7 +7,7 @@ name: Ephemerate
 scryfall_id: 2da5f3f8-5eef-498f-ba2c-2f3fbc3745aa
 set: mh1
 type: Instant
-meta_presence: 0.132
+meta_presence: 0.1336
 archetypes:
   boros-energy:
     weight: 0.0039
@@ -16,10 +16,10 @@ archetypes:
     weight: 0.9478
     avg_copies: 1.8
   goryo:
-    weight: 0.9949
+    weight: 0.995
     avg_copies: 3.88
   jeskai-control:
-    weight: 0.0169
+    weight: 0.0167
     avg_copies: 2.0
   reanimator:
     weight: 0.037
@@ -34,7 +34,7 @@ archetypes:
     weight: 0.25
     avg_copies: 3.0
   esper-blink:
-    weight: 0.9937
+    weight: 0.994
     avg_copies: 2.96
   orzhov-blink:
     weight: 0.9444
@@ -44,16 +44,16 @@ archetypes:
     avg_copies: 4.0
   azorius-blink:
     weight: 1.0
-    avg_copies: 3.5
+    avg_copies: 3.51
   goryo2:
-    weight: 0.9362
-    avg_copies: 2.66
+    weight: 0.9375
+    avg_copies: 2.64
   unknown-3:
     weight: 1.0
     avg_copies: 3.0
   unknown-5:
-    weight: 0.9
-    avg_copies: 3.56
+    weight: 0.9091
+    avg_copies: 3.6
   unknown-56:
     weight: 1.0
     avg_copies: 3.0
@@ -86,7 +86,7 @@ archetypes:
     avg_copies: 2.0
   unknown-113:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.67
   unknown-131:
     weight: 1.0
     avg_copies: 2.11
@@ -98,7 +98,7 @@ archetypes:
     avg_copies: 3.0
   unknown-149:
     weight: 1.0
-    avg_copies: 2.38
+    avg_copies: 2.47
   unknown-175:
     weight: 1.0
     avg_copies: 3.0
@@ -109,7 +109,7 @@ archetypes:
     weight: 0.0667
     avg_copies: 1.0
   unknown-225:
-    weight: 0.5
+    weight: 0.6667
     avg_copies: 2.0
   unknown-236:
     weight: 1.0
@@ -117,4 +117,7 @@ archetypes:
   unknown-237:
     weight: 1.0
     avg_copies: 3.0
+  unknown-257:
+    weight: 1.0
+    avg_copies: 4.0
 ---

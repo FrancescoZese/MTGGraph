@@ -7,13 +7,13 @@ name: 'Unknown #166'
 meta_share: 0.0003
 list_count: 2
 top_cards:
+- name: Flame of Anor
+  weight: 1.0
+  avg_copies: 4.0
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 4.0
 - name: Thundertrap Trainer
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flame of Anor
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
@@ -22,40 +22,37 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Teferi, Time Raveler
-  weight: 1.0
-  avg_copies: 3.0
-- name: Galvanic Discharge
+- name: High Noon
   weight: 1.0
   avg_copies: 3.0
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 3.0
-- name: Prismatic Ending
+- name: Galvanic Discharge
   weight: 1.0
   avg_copies: 3.0
 - name: Lórien Revealed
   weight: 1.0
   avg_copies: 3.0
-- name: High Noon
+- name: Prismatic Ending
   weight: 1.0
   avg_copies: 3.0
-- name: Flare of Denial
+- name: Teferi, Time Raveler
   weight: 1.0
-  avg_copies: 2.5
+  avg_copies: 3.0
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 2.5
+- name: Flare of Denial
+  weight: 1.0
+  avg_copies: 2.5
+- name: Solitude
+  weight: 1.0
+  avg_copies: 2.0
+- name: Island
+  weight: 1.0
+  avg_copies: 2.0
 - name: Snapcaster Mage
-  weight: 1.0
-  avg_copies: 2.0
-- name: Surgical Extraction
-  weight: 1.0
-  avg_copies: 2.0
-- name: Scalding Tarn
-  weight: 1.0
-  avg_copies: 2.0
-- name: Meticulous Archive
   weight: 1.0
   avg_copies: 2.0
 - name: Plains
@@ -64,28 +61,31 @@ top_cards:
 - name: Murktide Regent
   weight: 1.0
   avg_copies: 2.0
-- name: Steam Vents
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 2.0
-- name: Counterspell
+- name: Surgical Extraction
   weight: 1.0
   avg_copies: 2.0
 - name: Mystic Gate
   weight: 1.0
   avg_copies: 2.0
-- name: Solitude
+- name: Counterspell
   weight: 1.0
   avg_copies: 2.0
-- name: Island
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 2.0
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 2.0
+- name: Beza, the Bounding Spring
+  weight: 1.0
+  avg_copies: 1.0
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
-- name: Teferi, Hero of Dominaria
-  weight: 1.0
-  avg_copies: 1.0
-- name: Beza, the Bounding Spring
+- name: Celestial Purge
   weight: 1.0
   avg_copies: 1.0
 - name: Meltdown
@@ -94,7 +94,7 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
-- name: Celestial Purge
+- name: Teferi, Hero of Dominaria
   weight: 1.0
   avg_copies: 1.0
 - name: Hall of Storm Giants

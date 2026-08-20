@@ -7,10 +7,10 @@ name: Ozai's Cruelty
 scryfall_id: 22cad680-d46a-4589-a633-b6ee9a78d61e
 set: tla
 type: Sorcery — Lesson
-meta_presence: 0.0043
+meta_presence: 0.0044
 archetypes:
   unknown-45:
-    weight: 0.9355
+    weight: 0.9375
     avg_copies: 1.0
   unknown-57:
     weight: 1.0

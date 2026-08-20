@@ -7,10 +7,10 @@ name: 'Unknown #70'
 meta_share: 0.0028
 list_count: 20
 top_cards:
-- name: Guide of Souls
+- name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
-- name: Galvanic Discharge
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
@@ -55,10 +55,10 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 0.95
   avg_copies: 3.11
-- name: Meticulous Archive
+- name: Mountain
   weight: 0.95
   avg_copies: 1.0
-- name: Mountain
+- name: Meticulous Archive
   weight: 0.95
   avg_copies: 1.0
 - name: Ajani, Nacatl Pariah
@@ -82,10 +82,10 @@ top_cards:
 - name: Fable of the Mirror-Breaker
   weight: 0.8
   avg_copies: 2.0
-- name: Teferi, Time Raveler
+- name: Island
   weight: 0.7
   avg_copies: 1.0
-- name: Island
+- name: Teferi, Time Raveler
   weight: 0.7
   avg_copies: 1.0
 - name: Blood Moon
@@ -109,10 +109,10 @@ top_cards:
 - name: Wear
   weight: 0.25
   avg_copies: 1.2
-- name: Voice of Victory
+- name: Prismatic Ending
   weight: 0.2
   avg_copies: 2.25
-- name: Prismatic Ending
+- name: Voice of Victory
   weight: 0.2
   avg_copies: 2.25
 - name: Ranger-Captain of Eos
@@ -121,10 +121,10 @@ top_cards:
 - name: Celestial Purge
   weight: 0.2
   avg_copies: 1.25
-- name: Witch Enchanter
+- name: Surgical Extraction
   weight: 0.2
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Witch Enchanter
   weight: 0.2
   avg_copies: 1.0
 - name: Deafening Silence
@@ -145,10 +145,10 @@ top_cards:
 - name: White Orchid Phantom
   weight: 0.1
   avg_copies: 3.0
-- name: Orim's Chant
+- name: Starfield Shepherd
   weight: 0.1
   avg_copies: 2.0
-- name: Starfield Shepherd
+- name: Orim's Chant
   weight: 0.1
   avg_copies: 2.0
 - name: Windswept Heath
@@ -166,22 +166,22 @@ top_cards:
 - name: Spell Pierce
   weight: 0.05
   avg_copies: 1.0
-- name: Lightning Bolt
+- name: Boromir, Warden of the Tower
   weight: 0.05
   avg_copies: 1.0
 - name: The Legend of Roku
   weight: 0.05
   avg_copies: 1.0
+- name: Magus of the Moon
+  weight: 0.05
+  avg_copies: 1.0
 - name: Soul-Guide Lantern
   weight: 0.05
   avg_copies: 1.0
-- name: Boromir, Warden of the Tower
+- name: Lightning Bolt
   weight: 0.05
   avg_copies: 1.0
 - name: Marsh Flats
-  weight: 0.05
-  avg_copies: 1.0
-- name: Magus of the Moon
   weight: 0.05
   avg_copies: 1.0
 ---

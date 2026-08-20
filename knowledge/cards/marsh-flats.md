@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.2678
 archetypes:
   boros-energy:
-    weight: 0.9703
+    weight: 0.9704
     avg_copies: 3.27
   dimir-control:
     weight: 0.3827
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.2
     avg_copies: 1.11
   azorius-control:
-    weight: 0.1981
+    weight: 0.1963
     avg_copies: 1.81
   domain-zoo:
     weight: 0.0135
@@ -36,7 +36,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.71
   hammer-time:
-    weight: 0.4706
+    weight: 0.4444
     avg_copies: 2.75
   hollow-one:
     weight: 0.2353
@@ -51,7 +51,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.94
   azorius-blink:
-    weight: 0.803
+    weight: 0.806
     avg_copies: 2.06
   rakdos-aggro:
     weight: 0.0526
@@ -69,11 +69,11 @@ archetypes:
     weight: 0.0109
     avg_copies: 1.0
   goryo5:
-    weight: 0.6667
-    avg_copies: 2.4
+    weight: 0.6562
+    avg_copies: 2.38
   goryo2:
     weight: 1.0
-    avg_copies: 3.23
+    avg_copies: 3.25
   soultrader-combo:
     weight: 0.4286
     avg_copies: 2.67
@@ -82,7 +82,7 @@ archetypes:
     avg_copies: 4.0
   unknown-5:
     weight: 1.0
-    avg_copies: 3.8
+    avg_copies: 3.82
   unknown-7:
     weight: 1.0
     avg_copies: 4.0
@@ -105,8 +105,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.8089
-    avg_copies: 1.8
+    weight: 0.8063
+    avg_copies: 1.81
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
@@ -124,7 +124,7 @@ archetypes:
     avg_copies: 1.0
   unknown-68:
     weight: 1.0
-    avg_copies: 3.75
+    avg_copies: 3.71
   unknown-69:
     weight: 0.8889
     avg_copies: 1.12
@@ -153,7 +153,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.0189
+    weight: 0.0167
     avg_copies: 3.0
   unknown-100:
     weight: 0.5
@@ -178,7 +178,7 @@ archetypes:
     avg_copies: 3.0
   unknown-113:
     weight: 1.0
-    avg_copies: 3.5
+    avg_copies: 3.0
   unknown-115:
     weight: 1.0
     avg_copies: 2.0
@@ -204,7 +204,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-149:
-    weight: 0.0625
+    weight: 0.0526
     avg_copies: 2.0
   unknown-146:
     weight: 1.0

@@ -6,10 +6,10 @@ name: Ghost Vacuum
 scryfall_id: 8ac39c01-127f-4471-bc74-11a90c48e306
 set: dsk
 type: Artifact
-meta_presence: 0.0196
+meta_presence: 0.0198
 archetypes:
   boros-energy:
-    weight: 0.022
+    weight: 0.0219
     avg_copies: 1.0
   dimir-control:
     weight: 0.358
@@ -18,31 +18,31 @@ archetypes:
     weight: 0.0224
     avg_copies: 1.33
   eldrazi-tron:
-    weight: 0.0031
+    weight: 0.003
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.0175
+    weight: 0.0174
     avg_copies: 1.0
   goryo:
-    weight: 0.0229
+    weight: 0.0224
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.0169
+    weight: 0.0167
     avg_copies: 1.0
   boros-ponza:
     weight: 0.0284
     avg_copies: 1.0
   esper-blink:
-    weight: 0.019
+    weight: 0.0181
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0095
+    weight: 0.0094
     avg_copies: 1.0
   izzet-wizards:
     weight: 0.3077
     avg_copies: 1.5
   jund-saga:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 1.0
   mono-green-ramp:
     weight: 0.1429
@@ -51,13 +51,13 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   goryo1:
-    weight: 0.0164
+    weight: 0.0163
     avg_copies: 1.0
   sultai-midrange:
     weight: 0.75
     avg_copies: 1.0
   unknown-15:
-    weight: 0.0556
+    weight: 0.05
     avg_copies: 1.0
   unknown-23:
     weight: 0.1667
@@ -66,22 +66,22 @@ archetypes:
     weight: 0.4
     avg_copies: 3.0
   unknown-47:
-    weight: 0.121
-    avg_copies: 1.32
+    weight: 0.125
+    avg_copies: 1.3
   unknown-61:
-    weight: 0.1009
-    avg_copies: 1.82
+    weight: 0.1071
+    avg_copies: 1.83
   unknown-68:
-    weight: 0.1
+    weight: 0.0976
     avg_copies: 1.0
   unknown-96:
-    weight: 0.0377
+    weight: 0.0333
     avg_copies: 3.0
   unknown-111:
     weight: 0.3333
     avg_copies: 1.0
   unknown-113:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
   unknown-131:
     weight: 0.1111
@@ -104,4 +104,7 @@ archetypes:
   unknown-243:
     weight: 1.0
     avg_copies: 2.0
+  unknown-258:
+    weight: 1.0
+    avg_copies: 1.0
 ---

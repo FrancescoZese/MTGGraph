@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: 'Unknown #69'
-meta_share: 0.0013
+meta_share: 0.0012
 list_count: 9
 top_cards:
 - name: Swamp
@@ -12,19 +12,19 @@ top_cards:
 - name: Necrodominance
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 4.0
 - name: Soul Spike
   weight: 1.0
   avg_copies: 4.0
 - name: Boggart Trawler
   weight: 1.0
   avg_copies: 4.0
-- name: Orcish Bowmasters
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 4.0
+- name: Break the Ice
   weight: 1.0
   avg_copies: 3.78
-- name: Break the Ice
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.78
 - name: Fell the Profane
@@ -87,10 +87,10 @@ top_cards:
 - name: Undercity Sewers
   weight: 0.4444
   avg_copies: 1.25
-- name: Underground Mortuary
+- name: Damnation
   weight: 0.4444
   avg_copies: 1.0
-- name: Damnation
+- name: Underground Mortuary
   weight: 0.4444
   avg_copies: 1.0
 - name: Damping Sphere
@@ -111,22 +111,22 @@ top_cards:
 - name: Watery Grave
   weight: 0.2222
   avg_copies: 1.5
-- name: Waterlogged Teachings
-  weight: 0.2222
-  avg_copies: 1.0
-- name: Agadeem's Awakening
-  weight: 0.2222
-  avg_copies: 1.0
 - name: Cling to Dust
   weight: 0.2222
   avg_copies: 1.0
-- name: Takenuma, Abandoned Mire
+- name: Waterlogged Teachings
+  weight: 0.2222
+  avg_copies: 1.0
+- name: Revitalizing Repast
   weight: 0.2222
   avg_copies: 1.0
 - name: Toxic Deluge
   weight: 0.2222
   avg_copies: 1.0
-- name: Revitalizing Repast
+- name: Takenuma, Abandoned Mire
+  weight: 0.2222
+  avg_copies: 1.0
+- name: Agadeem's Awakening
   weight: 0.2222
   avg_copies: 1.0
 - name: Consign to Memory
@@ -135,13 +135,13 @@ top_cards:
 - name: Tourach, Dread Cantor
   weight: 0.1111
   avg_copies: 2.0
-- name: Sorin of House Markov
-  weight: 0.1111
-  avg_copies: 1.0
 - name: Disruptor Flute
   weight: 0.1111
   avg_copies: 1.0
 - name: Shizo, Death's Storehouse
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Sorin of House Markov
   weight: 0.1111
   avg_copies: 1.0
 - name: Graveyard Trespasser

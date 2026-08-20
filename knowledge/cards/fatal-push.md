@@ -7,13 +7,13 @@ name: Fatal Push
 scryfall_id: 6e9d8fe4-fd9b-4923-92bf-7dd6b8fa02e7
 set: 2xm
 type: Instant
-meta_presence: 0.1995
+meta_presence: 0.2004
 archetypes:
   dimir-control:
     weight: 1.0
     avg_copies: 3.8
   goryo:
-    weight: 0.1832
+    weight: 0.182
     avg_copies: 1.29
   necrodominance:
     weight: 0.8667
@@ -43,16 +43,16 @@ archetypes:
     weight: 0.0052
     avg_copies: 1.5
   esper-blink:
-    weight: 0.962
-    avg_copies: 3.54
+    weight: 0.9639
+    avg_copies: 3.55
   samwise-combo:
-    weight: 0.5571
-    avg_copies: 2.0
+    weight: 0.5634
+    avg_copies: 1.95
   indomitable-creativity:
     weight: 0.2
     avg_copies: 3.33
   broodscale-combo:
-    weight: 0.0127
+    weight: 0.0126
     avg_copies: 2.0
   orzhov-blink:
     weight: 0.8889
@@ -62,7 +62,7 @@ archetypes:
     avg_copies: 3.0
   jund-saga:
     weight: 1.0
-    avg_copies: 2.75
+    avg_copies: 2.8
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 2.0
@@ -73,7 +73,7 @@ archetypes:
     weight: 0.2632
     avg_copies: 1.67
   cosmogoyf-fling:
-    weight: 0.1273
+    weight: 0.125
     avg_copies: 3.14
   esper-midrange:
     weight: 1.0
@@ -88,7 +88,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.97
   goryo2:
-    weight: 0.2128
+    weight: 0.2083
     avg_copies: 1.71
   soultrader-combo:
     weight: 1.0
@@ -103,7 +103,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-5:
-    weight: 0.3
+    weight: 0.2727
     avg_copies: 1.5
   unknown-1:
     weight: 1.0
@@ -148,7 +148,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-45:
-    weight: 0.129
+    weight: 0.125
     avg_copies: 1.62
   unknown-46:
     weight: 1.0
@@ -172,7 +172,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-68:
-    weight: 0.85
+    weight: 0.8537
     avg_copies: 1.97
   unknown-69:
     weight: 1.0
@@ -238,8 +238,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-126:
-    weight: 0.8142
-    avg_copies: 2.35
+    weight: 0.8017
+    avg_copies: 2.33
   unknown-127:
     weight: 1.0
     avg_copies: 2.17

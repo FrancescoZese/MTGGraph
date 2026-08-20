@@ -9,25 +9,25 @@ type: Land — Mountain Forest
 meta_presence: 0.0731
 archetypes:
   ruby-storm:
-    weight: 0.5586
+    weight: 0.5581
     avg_copies: 1.06
   amulet-titan:
-    weight: 0.0292
+    weight: 0.0291
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0092
+    weight: 0.0091
     avg_copies: 1.0
   hollow-one:
     weight: 0.0588
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.9542
+    weight: 0.9545
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.2
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.3354
+    weight: 0.3365
     avg_copies: 1.0
   dredge:
     weight: 0.3214
@@ -57,7 +57,7 @@ archetypes:
     weight: 0.2069
     avg_copies: 1.0
   unknown-67:
-    weight: 0.9485
+    weight: 0.95
     avg_copies: 1.0
   unknown-86:
     weight: 0.0833
@@ -79,6 +79,9 @@ archetypes:
     avg_copies: 1.0
   unknown-203:
     weight: 1.0
+    avg_copies: 1.0
+  unknown-194:
+    weight: 0.05
     avg_copies: 1.0
   unknown-196:
     weight: 1.0

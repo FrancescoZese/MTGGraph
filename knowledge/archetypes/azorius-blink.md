@@ -3,329 +3,332 @@ colors:
 - W
 - U
 name: Azorius Blink
-meta_share: 0.0092
-list_count: 66
+meta_share: 0.0093
+list_count: 67
 top_cards:
-- name: Guide of Souls
-  weight: 1.0
-  avg_copies: 3.95
 - name: Ocelot Pride
   weight: 1.0
-  avg_copies: 3.95
+  avg_copies: 3.96
+- name: Guide of Souls
+  weight: 1.0
+  avg_copies: 3.96
 - name: Solitude
   weight: 1.0
   avg_copies: 3.88
 - name: Quantum Riddler
   weight: 1.0
-  avg_copies: 3.83
+  avg_copies: 3.84
 - name: Ephemerate
   weight: 1.0
-  avg_copies: 3.5
+  avg_copies: 3.51
 - name: Hallowed Fountain
   weight: 1.0
-  avg_copies: 3.45
+  avg_copies: 3.43
 - name: Meticulous Archive
   weight: 1.0
-  avg_copies: 1.89
+  avg_copies: 1.9
 - name: Phelia, Exuberant Shepherd
-  weight: 0.9848
+  weight: 0.9851
   avg_copies: 3.85
 - name: Plains
-  weight: 0.9848
-  avg_copies: 2.54
+  weight: 0.9851
+  avg_copies: 2.52
 - name: Consign to Memory
-  weight: 0.9697
-  avg_copies: 2.04
+  weight: 0.9701
+  avg_copies: 2.06
 - name: Flooded Strand
-  weight: 0.9545
-  avg_copies: 3.03
+  weight: 0.9552
+  avg_copies: 3.05
 - name: Starfield Shepherd
-  weight: 0.9091
-  avg_copies: 2.65
+  weight: 0.9104
+  avg_copies: 2.67
 - name: Witch Enchanter
-  weight: 0.8939
+  weight: 0.8955
   avg_copies: 3.57
 - name: Wrath of the Skies
-  weight: 0.8333
+  weight: 0.8209
   avg_copies: 2.65
 - name: Marsh Flats
-  weight: 0.803
+  weight: 0.806
   avg_copies: 2.06
 - name: Mystical Dispute
-  weight: 0.7879
+  weight: 0.7761
   avg_copies: 2.29
 - name: Arid Mesa
-  weight: 0.7727
-  avg_copies: 2.22
+  weight: 0.7761
+  avg_copies: 2.19
 - name: White Orchid Phantom
-  weight: 0.7273
-  avg_copies: 3.48
+  weight: 0.7164
+  avg_copies: 3.49
 - name: March of Otherworldly Light
-  weight: 0.7121
-  avg_copies: 1.89
+  weight: 0.7164
+  avg_copies: 1.9
 - name: Flagstones of Trokair
-  weight: 0.697
+  weight: 0.6866
   avg_copies: 2.96
 - name: Mockingbird
-  weight: 0.6515
+  weight: 0.6418
   avg_copies: 1.12
 - name: Rest in Peace
-  weight: 0.6364
+  weight: 0.6269
   avg_copies: 1.63
 - name: Windswept Heath
-  weight: 0.6212
-  avg_copies: 1.61
+  weight: 0.6269
+  avg_copies: 1.6
 - name: Clarion Conqueror
-  weight: 0.5455
-  avg_copies: 1.88
+  weight: 0.5522
+  avg_copies: 1.9
 - name: Teferi, Time Raveler
-  weight: 0.5455
+  weight: 0.5373
   avg_copies: 1.64
 - name: Deafening Silence
-  weight: 0.4848
+  weight: 0.4776
   avg_copies: 1.84
 - name: Haliya, Guided by Light
-  weight: 0.3182
+  weight: 0.3134
   avg_copies: 1.62
 - name: Ranger-Captain of Eos
-  weight: 0.3182
+  weight: 0.3134
   avg_copies: 1.57
 - name: Prismatic Ending
-  weight: 0.303
+  weight: 0.2985
   avg_copies: 2.33
 - name: Sanctifier en-Vec
-  weight: 0.2576
+  weight: 0.2537
   avg_copies: 2.61
 - name: High Noon
-  weight: 0.2424
+  weight: 0.2388
   avg_copies: 2.0
 - name: Recruiter of the Guard
-  weight: 0.2121
+  weight: 0.209
   avg_copies: 1.14
 - name: Momo, Friendly Flier
-  weight: 0.197
+  weight: 0.194
   avg_copies: 2.62
 - name: Boromir, Warden of the Tower
-  weight: 0.197
+  weight: 0.194
   avg_copies: 1.54
 - name: Path to Exile
-  weight: 0.1818
+  weight: 0.1791
   avg_copies: 1.0
 - name: Island
-  weight: 0.1515
+  weight: 0.1642
   avg_copies: 1.0
 - name: Vexing Bauble
-  weight: 0.1364
+  weight: 0.1343
   avg_copies: 1.56
 - name: Sacred Foundry
-  weight: 0.1364
+  weight: 0.1343
   avg_copies: 1.11
 - name: Springleaf Drum
-  weight: 0.1212
+  weight: 0.1194
   avg_copies: 3.0
 - name: Lavinia, Azorius Renegade
-  weight: 0.1212
+  weight: 0.1194
   avg_copies: 1.22
 - name: Detect Intrusion
-  weight: 0.1061
+  weight: 0.1045
   avg_copies: 1.86
 - name: Drannith Magistrate
-  weight: 0.1061
+  weight: 0.1045
   avg_copies: 1.43
 - name: Spell Pierce
-  weight: 0.1061
+  weight: 0.1045
   avg_copies: 1.42
+- name: Aang, Swift Savior
+  weight: 0.0896
+  avg_copies: 2.33
 - name: Ashiok, Dream Render
-  weight: 0.0909
+  weight: 0.0896
   avg_copies: 1.67
 - name: Surgical Extraction
-  weight: 0.0909
+  weight: 0.0896
   avg_copies: 1.5
 - name: Strix Serenade
-  weight: 0.0909
+  weight: 0.0896
   avg_copies: 1.25
 - name: Celestial Purge
-  weight: 0.0909
+  weight: 0.0896
   avg_copies: 1.17
-- name: Haywire Mite
-  weight: 0.0909
-  avg_copies: 1.0
 - name: Temple Garden
-  weight: 0.0909
+  weight: 0.0896
   avg_copies: 1.0
-- name: Aang, Swift Savior
-  weight: 0.0758
-  avg_copies: 2.2
+- name: Haywire Mite
+  weight: 0.0896
+  avg_copies: 1.0
 - name: Idyllic Grange
-  weight: 0.0758
+  weight: 0.0746
   avg_copies: 1.2
-- name: Gran-Gran
-  weight: 0.0758
-  avg_copies: 1.0
 - name: Wear
-  weight: 0.0758
+  weight: 0.0746
   avg_copies: 1.0
-- name: Voice of Victory
-  weight: 0.0455
-  avg_copies: 2.0
-- name: Floodfarm Verge
-  weight: 0.0455
-  avg_copies: 1.67
+- name: Gran-Gran
+  weight: 0.0746
+  avg_copies: 1.0
 - name: Orim's Chant
-  weight: 0.0455
+  weight: 0.0597
+  avg_copies: 2.25
+- name: Voice of Victory
+  weight: 0.0448
+  avg_copies: 2.0
+- name: Spell Snare
+  weight: 0.0448
+  avg_copies: 1.75
+- name: Floodfarm Verge
+  weight: 0.0448
   avg_copies: 1.67
 - name: card:overlord-of-the-mistmoors
-  weight: 0.0455
-  avg_copies: 1.67
-- name: Spell Snare
-  weight: 0.0455
+  weight: 0.0448
   avg_copies: 1.67
 - name: Wan Shi Tong, Librarian
-  weight: 0.0455
+  weight: 0.0448
   avg_copies: 1.33
-- name: Thraben Charm
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Erode
-  weight: 0.0455
+- name: Elesh Norn, Mother of Machines
+  weight: 0.0448
   avg_copies: 1.0
 - name: card:the-mind-stone
-  weight: 0.0455
+  weight: 0.0448
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
-  weight: 0.0455
+- name: Thraben Charm
+  weight: 0.0448
+  avg_copies: 1.0
+- name: Erode
+  weight: 0.0448
   avg_copies: 1.0
 - name: Test of Talents
-  weight: 0.0303
+  weight: 0.0299
   avg_copies: 2.0
 - name: Flare of Fortitude
-  weight: 0.0303
+  weight: 0.0299
   avg_copies: 2.0
 - name: Soul-Guide Lantern
-  weight: 0.0303
+  weight: 0.0299
   avg_copies: 1.5
-- name: Damping Sphere
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Kataki, War's Wage
-  weight: 0.0303
-  avg_copies: 1.0
-- name: card:the-legend-of-kuruk
-  weight: 0.0303
+- name: Practiced Offense
+  weight: 0.0299
   avg_copies: 1.0
 - name: Stony Silence
-  weight: 0.0303
+  weight: 0.0299
   avg_copies: 1.0
 - name: Elegant Parlor
-  weight: 0.0303
+  weight: 0.0299
   avg_copies: 1.0
-- name: Practiced Offense
-  weight: 0.0303
+- name: card:the-legend-of-kuruk
+  weight: 0.0299
+  avg_copies: 1.0
+- name: Damping Sphere
+  weight: 0.0299
+  avg_copies: 1.0
+- name: Kataki, War's Wage
+  weight: 0.0299
   avg_copies: 1.0
 - name: Ajani, Nacatl Pariah
-  weight: 0.0152
+  weight: 0.0149
   avg_copies: 4.0
 - name: Snow-Covered Plains
-  weight: 0.0152
+  weight: 0.0149
   avg_copies: 4.0
 - name: Overlord of the Balemurk
-  weight: 0.0152
+  weight: 0.0149
   avg_copies: 4.0
 - name: Agatha's Soul Cauldron
-  weight: 0.0152
-  avg_copies: 3.0
-- name: Leonardo, Cutting Edge
-  weight: 0.0152
+  weight: 0.0149
   avg_copies: 3.0
 - name: Goblin Bombardment
-  weight: 0.0152
+  weight: 0.0149
   avg_copies: 3.0
-- name: Walking Ballista
-  weight: 0.0152
-  avg_copies: 2.0
-- name: Kor Firewalker
-  weight: 0.0152
-  avg_copies: 2.0
-- name: card:the-wondrous-wasp
-  weight: 0.0152
-  avg_copies: 2.0
-- name: Godless Shrine
-  weight: 0.0152
-  avg_copies: 2.0
-- name: Static Prison
-  weight: 0.0152
+- name: Tamiyo, Inquisitive Student
+  weight: 0.0149
+  avg_copies: 3.0
+- name: Leonardo, Cutting Edge
+  weight: 0.0149
+  avg_copies: 3.0
+- name: Giant Killer
+  weight: 0.0149
   avg_copies: 2.0
 - name: card:airbender-ascension
-  weight: 0.0152
+  weight: 0.0149
+  avg_copies: 2.0
+- name: Static Prison
+  weight: 0.0149
+  avg_copies: 2.0
+- name: card:the-wondrous-wasp
+  weight: 0.0149
+  avg_copies: 2.0
+- name: Walking Ballista
+  weight: 0.0149
+  avg_copies: 2.0
+- name: Godless Shrine
+  weight: 0.0149
+  avg_copies: 2.0
+- name: Kor Firewalker
+  weight: 0.0149
   avg_copies: 2.0
 - name: Mystic Gate
-  weight: 0.0152
+  weight: 0.0149
   avg_copies: 2.0
-- name: Giant Killer
-  weight: 0.0152
-  avg_copies: 2.0
-- name: Heliod, Sun-Crowned
-  weight: 0.0152
-  avg_copies: 1.0
-- name: card:loki-god-of-mischief
-  weight: 0.0152
-  avg_copies: 1.0
-- name: Shadowy Backstreet
-  weight: 0.0152
-  avg_copies: 1.0
-- name: Watery Grave
-  weight: 0.0152
-  avg_copies: 1.0
-- name: Flitterwing Nuisance
-  weight: 0.0152
-  avg_copies: 1.0
-- name: Harbinger of the Seas
-  weight: 0.0152
-  avg_copies: 1.0
 - name: Disruptor Flute
-  weight: 0.0152
+  weight: 0.0149
   avg_copies: 1.0
-- name: Snow-Covered Island
-  weight: 0.0152
-  avg_copies: 1.0
-- name: Polluted Delta
-  weight: 0.0152
-  avg_copies: 1.0
-- name: Sink into Stupor
-  weight: 0.0152
-  avg_copies: 1.0
-- name: Mistcaller
-  weight: 0.0152
-  avg_copies: 1.0
-- name: Ragavan, Nimble Pilferer
-  weight: 0.0152
-  avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.0152
-  avg_copies: 1.0
-- name: Skycoach Conductor
-  weight: 0.0152
-  avg_copies: 1.0
-- name: card:abandoned-air-temple
-  weight: 0.0152
-  avg_copies: 1.0
-- name: Eiganjo, Seat of the Empire
-  weight: 0.0152
+- name: Heliod, Sun-Crowned
+  weight: 0.0149
   avg_copies: 1.0
 - name: Tishana's Tidebinder
-  weight: 0.0152
-  avg_copies: 1.0
-- name: Cryptic Command
-  weight: 0.0152
-  avg_copies: 1.0
-- name: Winternight Stories
-  weight: 0.0152
+  weight: 0.0149
   avg_copies: 1.0
 - name: Nihil Spellbomb
-  weight: 0.0152
+  weight: 0.0149
+  avg_copies: 1.0
+- name: Watery Grave
+  weight: 0.0149
+  avg_copies: 1.0
+- name: Harbinger of the Seas
+  weight: 0.0149
+  avg_copies: 1.0
+- name: Hurkyl's Recall
+  weight: 0.0149
+  avg_copies: 1.0
+- name: card:loki-god-of-mischief
+  weight: 0.0149
+  avg_copies: 1.0
+- name: Eiganjo, Seat of the Empire
+  weight: 0.0149
+  avg_copies: 1.0
+- name: Sink into Stupor
+  weight: 0.0149
+  avg_copies: 1.0
+- name: Ragavan, Nimble Pilferer
+  weight: 0.0149
+  avg_copies: 1.0
+- name: card:abandoned-air-temple
+  weight: 0.0149
+  avg_copies: 1.0
+- name: Skycoach Conductor
+  weight: 0.0149
+  avg_copies: 1.0
+- name: Cryptic Command
+  weight: 0.0149
   avg_copies: 1.0
 - name: Enduring Innocence
-  weight: 0.0152
+  weight: 0.0149
+  avg_copies: 1.0
+- name: Polluted Delta
+  weight: 0.0149
+  avg_copies: 1.0
+- name: Shadowy Backstreet
+  weight: 0.0149
+  avg_copies: 1.0
+- name: Winternight Stories
+  weight: 0.0149
+  avg_copies: 1.0
+- name: Snow-Covered Island
+  weight: 0.0149
+  avg_copies: 1.0
+- name: Mistcaller
+  weight: 0.0149
+  avg_copies: 1.0
+- name: Flitterwing Nuisance
+  weight: 0.0149
   avg_copies: 1.0
 ---
 Creature-based blink deck using Guide of Souls, Ocelot Pride, Solitude, and Ephemerate.

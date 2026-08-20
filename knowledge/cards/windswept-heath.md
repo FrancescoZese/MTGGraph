@@ -6,29 +6,29 @@ name: Windswept Heath
 scryfall_id: bd1d13f7-fd38-4f0b-a8e0-1eac78668117
 set: mh3
 type: Land
-meta_presence: 0.1408
+meta_presence: 0.1412
 archetypes:
   boros-energy:
-    weight: 0.3837
+    weight: 0.3827
     avg_copies: 2.72
   jeskai-energy:
     weight: 0.0075
     avg_copies: 3.0
   amulet-titan:
-    weight: 0.0175
+    weight: 0.0174
     avg_copies: 1.0
   azorius-control:
-    weight: 0.1132
+    weight: 0.1121
     avg_copies: 1.58
   jeskai-control:
-    weight: 0.0169
+    weight: 0.0167
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.2752
+    weight: 0.2727
     avg_copies: 1.23
   hammer-time:
-    weight: 0.5294
-    avg_copies: 3.56
+    weight: 0.5556
+    avg_copies: 3.6
   boros-ponza:
     weight: 0.0071
     avg_copies: 1.0
@@ -36,7 +36,7 @@ archetypes:
     weight: 0.9579
     avg_copies: 2.98
   eldrazi-ramp:
-    weight: 0.8015
+    weight: 0.7955
     avg_copies: 1.3
   simic-ritual:
     weight: 0.0722
@@ -45,13 +45,13 @@ archetypes:
     weight: 1.0
     avg_copies: 3.25
   esper-blink:
-    weight: 0.0063
+    weight: 0.006
     avg_copies: 1.0
   samwise-combo:
     weight: 1.0
     avg_copies: 3.83
   broodscale-combo:
-    weight: 0.2753
+    weight: 0.2799
     avg_copies: 1.1
   orzhov-blink:
     weight: 0.1111
@@ -60,8 +60,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.6212
-    avg_copies: 1.61
+    weight: 0.6269
+    avg_copies: 1.6
   elves:
     weight: 1.0
     avg_copies: 2.5
@@ -102,7 +102,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-68:
-    weight: 0.075
+    weight: 0.0732
     avg_copies: 2.67
   unknown-70:
     weight: 0.1
@@ -121,7 +121,7 @@ archetypes:
     avg_copies: 3.8
   unknown-93:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 3.2
   unknown-97:
     weight: 0.625
     avg_copies: 1.0
@@ -150,7 +150,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.6
   unknown-149:
-    weight: 0.3125
+    weight: 0.4211
     avg_copies: 1.0
   unknown-152:
     weight: 1.0

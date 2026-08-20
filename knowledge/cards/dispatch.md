@@ -7,10 +7,10 @@ name: Dispatch
 scryfall_id: 27554761-8d6e-4de4-8ce3-f31b2c03708c
 set: eoc
 type: Instant
-meta_presence: 0.001
+meta_presence: 0.0011
 archetypes:
   affinity:
-    weight: 0.0019
+    weight: 0.0018
     avg_copies: 2.0
   goryo7:
     weight: 1.0
@@ -19,6 +19,6 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-213:
-    weight: 0.1
+    weight: 0.1818
     avg_copies: 1.0
 ---

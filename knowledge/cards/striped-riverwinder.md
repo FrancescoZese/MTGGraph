@@ -7,15 +7,15 @@ name: Striped Riverwinder
 scryfall_id: bbeef9ef-487c-400b-bcee-1c0e8ec94b6a
 set: hou
 type: Creature — Serpent
-meta_presence: 0.0081
+meta_presence: 0.0084
 archetypes:
   living-end:
-    weight: 0.1169
+    weight: 0.1154
     avg_copies: 2.0
   goryo1:
     weight: 0.0109
     avg_copies: 2.0
   unknown-67:
-    weight: 0.4845
-    avg_copies: 2.19
+    weight: 0.5
+    avg_copies: 2.26
 ---

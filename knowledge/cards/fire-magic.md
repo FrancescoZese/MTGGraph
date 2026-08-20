@@ -7,11 +7,11 @@ name: Fire Magic
 scryfall_id: 415ff6a5-61ef-4b37-ae08-e44476300d4a
 set: fin
 type: Instant
-meta_presence: 0.0492
+meta_presence: 0.0489
 archetypes:
   ruby-storm:
-    weight: 0.3633
-    avg_copies: 1.58
+    weight: 0.3643
+    avg_copies: 1.57
   dimir-control:
     weight: 0.2346
     avg_copies: 1.71
@@ -19,13 +19,13 @@ archetypes:
     weight: 0.0075
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.2105
+    weight: 0.2093
     avg_copies: 2.39
   azorius-control:
-    weight: 0.0283
+    weight: 0.028
     avg_copies: 1.67
   jeskai-control:
-    weight: 0.2881
+    weight: 0.2833
     avg_copies: 1.41
   domain-zoo:
     weight: 0.0068
@@ -37,10 +37,10 @@ archetypes:
     weight: 0.0206
     avg_copies: 2.5
   izzet-prowess:
-    weight: 0.0341
+    weight: 0.0337
     avg_copies: 1.15
   broodscale-combo:
-    weight: 0.0222
+    weight: 0.022
     avg_copies: 2.14
   dredge:
     weight: 0.0357
@@ -52,7 +52,7 @@ archetypes:
     weight: 0.8462
     avg_copies: 1.73
   jund-saga:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 1.0
   eldrazi-breach:
     weight: 0.2
@@ -67,13 +67,13 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   cosmogoyf-fling:
-    weight: 0.0545
+    weight: 0.0536
     avg_copies: 2.33
   scapeshift-combo:
     weight: 0.1667
     avg_copies: 4.0
   goryo1:
-    weight: 0.0219
+    weight: 0.0217
     avg_copies: 1.5
   grixis-control:
     weight: 0.8571
@@ -85,7 +85,7 @@ archetypes:
     weight: 0.4
     avg_copies: 1.0
   unknown-15:
-    weight: 0.6667
+    weight: 0.6
     avg_copies: 1.5
   unknown-25:
     weight: 1.0
@@ -100,7 +100,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0064
+    weight: 0.0063
     avg_copies: 2.0
   unknown-53:
     weight: 0.5
@@ -121,7 +121,7 @@ archetypes:
     weight: 0.0588
     avg_copies: 2.0
   unknown-96:
-    weight: 0.6038
+    weight: 0.5667
     avg_copies: 1.94
   unknown-100:
     weight: 0.75
@@ -148,7 +148,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   unknown-160:
-    weight: 0.0115
+    weight: 0.0114
     avg_copies: 1.0
   unknown-171:
     weight: 1.0
