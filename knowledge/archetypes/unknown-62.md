@@ -6,16 +6,16 @@ name: 'Unknown #62'
 meta_share: 0.0046
 list_count: 33
 top_cards:
-- name: Phelia, Exuberant Shepherd
-  weight: 1.0
-  avg_copies: 3.85
 - name: Witch Enchanter
   weight: 1.0
   avg_copies: 3.85
-- name: Flooded Strand
+- name: Phelia, Exuberant Shepherd
+  weight: 1.0
+  avg_copies: 3.85
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 3.82
-- name: Guide of Souls
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 3.82
 - name: Solitude
@@ -111,10 +111,10 @@ top_cards:
 - name: Clarion Conqueror
   weight: 0.2424
   avg_copies: 1.33
-- name: Damping Sphere
+- name: Windswept Heath
   weight: 0.2121
   avg_copies: 1.86
-- name: Windswept Heath
+- name: Damping Sphere
   weight: 0.2121
   avg_copies: 1.86
 - name: Misty Rainforest
@@ -123,19 +123,19 @@ top_cards:
 - name: Deafening Silence
   weight: 0.1515
   avg_copies: 1.6
-- name: Sacred Foundry
+- name: Haliya, Guided by Light
   weight: 0.1515
   avg_copies: 1.2
-- name: Haliya, Guided by Light
+- name: Sacred Foundry
   weight: 0.1515
   avg_copies: 1.2
 - name: Temple Garden
   weight: 0.1515
   avg_copies: 1.0
-- name: Erode
+- name: Haywire Mite
   weight: 0.1515
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Erode
   weight: 0.1515
   avg_copies: 1.0
 - name: Sanctifier en-Vec
@@ -156,28 +156,28 @@ top_cards:
 - name: Momo, Friendly Flier
   weight: 0.0909
   avg_copies: 1.33
-- name: Wear
+- name: Recruiter of the Guard
   weight: 0.0909
   avg_copies: 1.0
-- name: Recruiter of the Guard
+- name: Wear
   weight: 0.0909
   avg_copies: 1.0
 - name: Lavinia, Azorius Renegade
   weight: 0.0606
   avg_copies: 2.0
-- name: Mana Tithe
+- name: card:political-triumph
   weight: 0.0606
   avg_copies: 2.0
-- name: card:political-triumph
+- name: Mana Tithe
   weight: 0.0606
   avg_copies: 2.0
 - name: Orim's Chant
   weight: 0.0606
   avg_copies: 1.5
-- name: card:aethergeode-miner
+- name: Drannith Magistrate
   weight: 0.0606
   avg_copies: 1.0
-- name: Drannith Magistrate
+- name: card:aethergeode-miner
   weight: 0.0606
   avg_copies: 1.0
 - name: Vexing Bauble
@@ -189,34 +189,40 @@ top_cards:
 - name: card:geist-of-saint-traft
   weight: 0.0303
   avg_copies: 2.0
-- name: Floodfarm Verge
-  weight: 0.0303
-  avg_copies: 2.0
 - name: Flagstones of Trokair
-  weight: 0.0303
-  avg_copies: 2.0
-- name: Obsidian Charmaw
   weight: 0.0303
   avg_copies: 2.0
 - name: Goblin Bombardment
   weight: 0.0303
   avg_copies: 2.0
+- name: Obsidian Charmaw
+  weight: 0.0303
+  avg_copies: 2.0
 - name: Galvanic Discharge
   weight: 0.0303
   avg_copies: 2.0
-- name: card:exalted-sunborn
+- name: Floodfarm Verge
   weight: 0.0303
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Ajani, Nacatl Pariah
   weight: 0.0303
   avg_copies: 1.0
 - name: Elegant Parlor
   weight: 0.0303
   avg_copies: 1.0
+- name: Otawara, Soaring City
+  weight: 0.0303
+  avg_copies: 1.0
 - name: Hydroelectric Specimen
   weight: 0.0303
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: card:exalted-sunborn
+  weight: 0.0303
+  avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.0303
+  avg_copies: 1.0
+- name: Flitterwing Nuisance
   weight: 0.0303
   avg_copies: 1.0
 - name: Marsh Flats
@@ -225,19 +231,13 @@ top_cards:
 - name: Aven Interrupter
   weight: 0.0303
   avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Celestial Purge
   weight: 0.0303
   avg_copies: 1.0
 - name: Meltdown
   weight: 0.0303
   avg_copies: 1.0
 - name: Razorgrass Ambush
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Celestial Purge
-  weight: 0.0303
-  avg_copies: 1.0
-- name: Flitterwing Nuisance
   weight: 0.0303
   avg_copies: 1.0
 ---

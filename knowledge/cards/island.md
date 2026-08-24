@@ -6,7 +6,7 @@ name: Island
 scryfall_id: 77b88bb8-6bd9-4632-b937-89468fcb5e6a
 set: sos
 type: Basic Land — Island
-meta_presence: 0.3635
+meta_presence: 0.3633
 archetypes:
   ruby-storm:
     weight: 0.0078

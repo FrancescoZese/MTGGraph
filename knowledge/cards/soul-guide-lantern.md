@@ -6,7 +6,7 @@ name: Soul-Guide Lantern
 scryfall_id: f4907e7b-d6d5-4e9b-968f-bce34ae4a577
 set: eoc
 type: Artifact
-meta_presence: 0.0958
+meta_presence: 0.0957
 archetypes:
   ruby-storm:
     weight: 0.0078

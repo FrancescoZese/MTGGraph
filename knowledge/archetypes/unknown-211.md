@@ -9,19 +9,19 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 4.88
-- name: Necrodominance
+- name: Soul Spike
   weight: 1.0
   avg_copies: 4.0
-- name: Soul Spike
+- name: Necrodominance
   weight: 1.0
   avg_copies: 4.0
 - name: Cosmogoyf
   weight: 1.0
   avg_copies: 4.0
-- name: Darkbore Pathway
+- name: Blooming Marsh
   weight: 1.0
   avg_copies: 4.0
-- name: Blooming Marsh
+- name: Darkbore Pathway
   weight: 1.0
   avg_copies: 4.0
 - name: Plunge into Darkness
@@ -99,22 +99,22 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.125
   avg_copies: 3.0
-- name: Gemstone Caverns
+- name: Thoughtseize
   weight: 0.125
   avg_copies: 2.0
-- name: Nurturing Peatland
-  weight: 0.125
-  avg_copies: 2.0
-- name: card:woodland-cemetery
+- name: card:demonic-bargain
   weight: 0.125
   avg_copies: 2.0
 - name: The Meathook Massacre
   weight: 0.125
   avg_copies: 2.0
-- name: Thoughtseize
+- name: card:woodland-cemetery
   weight: 0.125
   avg_copies: 2.0
-- name: card:demonic-bargain
+- name: Nurturing Peatland
+  weight: 0.125
+  avg_copies: 2.0
+- name: Gemstone Caverns
   weight: 0.125
   avg_copies: 2.0
 - name: Urborg, Tomb of Yawgmoth

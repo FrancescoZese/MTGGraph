@@ -6,16 +6,16 @@ name: 'Unknown #1'
 meta_share: 0.0018
 list_count: 13
 top_cards:
-- name: Stitcher's Supplier
+- name: Bloodghast
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flare of Malice
   weight: 1.0
   avg_copies: 4.0
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodghast
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flare of Malice
+- name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
 - name: Rakdos Charm
@@ -24,10 +24,10 @@ top_cards:
 - name: Blood Crypt
   weight: 1.0
   avg_copies: 3.0
-- name: Mountain
+- name: Obsidian Charmaw
   weight: 1.0
   avg_copies: 2.31
-- name: Obsidian Charmaw
+- name: Mountain
   weight: 1.0
   avg_copies: 2.31
 - name: Swamp
@@ -117,10 +117,10 @@ top_cards:
 - name: Detective's Phoenix
   weight: 0.2308
   avg_copies: 2.0
-- name: Blood Moon
+- name: Flashback
   weight: 0.1538
   avg_copies: 2.0
-- name: Flashback
+- name: Blood Moon
   weight: 0.1538
   avg_copies: 2.0
 - name: Lightning Skelemental
@@ -135,22 +135,22 @@ top_cards:
 - name: card:thunderkin-awakener
   weight: 0.0769
   avg_copies: 3.0
-- name: Unearth
-  weight: 0.0769
-  avg_copies: 2.0
-- name: card:archfiend-s-vessel
+- name: Veil of Summer
   weight: 0.0769
   avg_copies: 2.0
 - name: Seasoned Pyromancer
   weight: 0.0769
   avg_copies: 2.0
-- name: Veil of Summer
+- name: card:archfiend-s-vessel
   weight: 0.0769
   avg_copies: 2.0
-- name: Emperor of Bones
+- name: Unearth
   weight: 0.0769
   avg_copies: 2.0
 - name: Overgrown Tomb
+  weight: 0.0769
+  avg_copies: 2.0
+- name: Emperor of Bones
   weight: 0.0769
   avg_copies: 2.0
 - name: Ob Nixilis, the Adversary

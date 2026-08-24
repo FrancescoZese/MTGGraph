@@ -9,13 +9,13 @@ top_cards:
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
+- name: Guide of Souls
+  weight: 1.0
+  avg_copies: 4.0
 - name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
 - name: Birthing Ritual
-  weight: 1.0
-  avg_copies: 4.0
-- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Flagstones of Trokair
@@ -114,19 +114,19 @@ top_cards:
 - name: Fade from History
   weight: 0.1875
   avg_copies: 2.0
-- name: Phelia, Exuberant Shepherd
+- name: Kataki, War's Wage
   weight: 0.125
   avg_copies: 2.0
-- name: Kataki, War's Wage
+- name: Phelia, Exuberant Shepherd
   weight: 0.125
   avg_copies: 2.0
 - name: Elesh Norn, Mother of Machines
   weight: 0.125
   avg_copies: 1.0
-- name: Soulless Jailer
+- name: Raise the Past
   weight: 0.125
   avg_copies: 1.0
-- name: Raise the Past
+- name: Soulless Jailer
   weight: 0.125
   avg_copies: 1.0
 - name: Insidious Fungus
@@ -138,13 +138,13 @@ top_cards:
 - name: Consign to Memory
   weight: 0.0625
   avg_copies: 3.0
-- name: Quantum Riddler
+- name: Orim's Chant
   weight: 0.0625
   avg_copies: 2.0
 - name: Veil of Summer
   weight: 0.0625
   avg_copies: 2.0
-- name: Flooded Strand
+- name: Hurkyl's Recall
   weight: 0.0625
   avg_copies: 2.0
 - name: Test of Talents
@@ -153,22 +153,16 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.0625
   avg_copies: 2.0
-- name: Orim's Chant
+- name: Flooded Strand
   weight: 0.0625
   avg_copies: 2.0
-- name: Hurkyl's Recall
+- name: Quantum Riddler
   weight: 0.0625
   avg_copies: 2.0
 - name: Marsh Flats
   weight: 0.0625
   avg_copies: 2.0
-- name: Ouroboroid
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Horizon Canopy
   weight: 0.0625
   avg_copies: 1.0
 - name: Collector Ouphe
@@ -177,10 +171,16 @@ top_cards:
 - name: Eidolon of Rhetoric
   weight: 0.0625
   avg_copies: 1.0
-- name: Horizon Canopy
+- name: Aven Mindcensor
   weight: 0.0625
   avg_copies: 1.0
-- name: Aven Mindcensor
+- name: Meticulous Archive
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Ouroboroid
   weight: 0.0625
   avg_copies: 1.0
 ---

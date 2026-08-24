@@ -12,10 +12,10 @@ top_cards:
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 3.95
-- name: Mishra's Bauble
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 3.9
-- name: Scalding Tarn
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 3.9
 - name: Emry, Lurker of the Loch
@@ -99,10 +99,10 @@ top_cards:
 - name: Lightning Bolt
   weight: 0.5
   avg_copies: 2.31
-- name: Minamo, School at Water's Edge
+- name: Shadowspear
   weight: 0.4
   avg_copies: 1.0
-- name: Shadowspear
+- name: Minamo, School at Water's Edge
   weight: 0.4
   avg_copies: 1.0
 - name: Harbinger of the Seas
@@ -135,10 +135,10 @@ top_cards:
 - name: Grafdigger's Cage
   weight: 0.2
   avg_copies: 1.0
-- name: Vandalblast
+- name: Lavaspur Boots
   weight: 0.2
   avg_copies: 1.0
-- name: Lavaspur Boots
+- name: Vandalblast
   weight: 0.2
   avg_copies: 1.0
 - name: Vexing Bauble
@@ -162,19 +162,19 @@ top_cards:
 - name: card:bilbo-thief-in-the-night
   weight: 0.1
   avg_copies: 3.5
-- name: Whipflare
+- name: card:avengers-disassembled
+  weight: 0.1
+  avg_copies: 2.0
+- name: card:key-to-the-side-door
   weight: 0.1
   avg_copies: 2.0
 - name: Sink into Stupor
   weight: 0.1
   avg_copies: 2.0
-- name: card:avengers-disassembled
-  weight: 0.1
-  avg_copies: 2.0
 - name: Ragavan, Nimble Pilferer
   weight: 0.1
   avg_copies: 2.0
-- name: card:key-to-the-side-door
+- name: Whipflare
   weight: 0.1
   avg_copies: 2.0
 - name: Prismari Charm
@@ -186,12 +186,15 @@ top_cards:
 - name: Relic of Progenitus
   weight: 0.05
   avg_copies: 4.0
-- name: Portable Hole
-  weight: 0.05
-  avg_copies: 3.0
 - name: Astrologian's Planisphere
   weight: 0.05
   avg_copies: 3.0
+- name: Portable Hole
+  weight: 0.05
+  avg_copies: 3.0
+- name: Teferi, Time Raveler
+  weight: 0.05
+  avg_copies: 2.0
 - name: Hallowed Fountain
   weight: 0.05
   avg_copies: 2.0
@@ -201,19 +204,16 @@ top_cards:
 - name: Snow-Covered Island
   weight: 0.05
   avg_copies: 2.0
-- name: Teferi, Time Raveler
+- name: Ghost Vacuum
   weight: 0.05
-  avg_copies: 2.0
+  avg_copies: 1.0
+- name: Polluted Delta
+  weight: 0.05
+  avg_copies: 1.0
 - name: Annul
   weight: 0.05
   avg_copies: 1.0
-- name: card:pyrite-spellbomb
-  weight: 0.05
-  avg_copies: 1.0
 - name: Surgical Extraction
-  weight: 0.05
-  avg_copies: 1.0
-- name: Ghost Vacuum
   weight: 0.05
   avg_copies: 1.0
 - name: Snapcaster Mage
@@ -222,7 +222,7 @@ top_cards:
 - name: Snow-Covered Mountain
   weight: 0.05
   avg_copies: 1.0
-- name: Polluted Delta
+- name: card:pyrite-spellbomb
   weight: 0.05
   avg_copies: 1.0
 ---

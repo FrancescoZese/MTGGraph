@@ -163,7 +163,7 @@ top_cards:
 - name: Mana Confluence
   weight: 0.0179
   avg_copies: 4.0
-- name: card:kavaron-memorial-world
+- name: Death's Shadow
   weight: 0.0179
   avg_copies: 2.0
 - name: Shadowspear
@@ -175,25 +175,25 @@ top_cards:
 - name: Faerie Macabre
   weight: 0.0179
   avg_copies: 2.0
-- name: Death's Shadow
+- name: card:kavaron-memorial-world
   weight: 0.0179
   avg_copies: 2.0
+- name: Kaheera, the Orphanguard
+  weight: 0.0179
+  avg_copies: 1.0
 - name: Disruptor Flute
   weight: 0.0179
   avg_copies: 1.0
-- name: Kaheera, the Orphanguard
+- name: Force of Despair
   weight: 0.0179
   avg_copies: 1.0
 - name: card:not-of-this-world
   weight: 0.0179
   avg_copies: 1.0
-- name: Meltdown
-  weight: 0.0179
-  avg_copies: 1.0
 - name: Tamiyo's Safekeeping
   weight: 0.0179
   avg_copies: 1.0
-- name: Force of Despair
+- name: Meltdown
   weight: 0.0179
   avg_copies: 1.0
 ---

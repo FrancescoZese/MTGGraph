@@ -6,10 +6,7 @@ name: 'Unknown #111'
 meta_share: 0.0008
 list_count: 6
 top_cards:
-- name: Consult the Star Charts
-  weight: 1.0
-  avg_copies: 4.0
-- name: Counterspell
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
@@ -18,10 +15,13 @@ top_cards:
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Counterspell
   weight: 1.0
   avg_copies: 4.0
 - name: Orcish Bowmasters
+  weight: 1.0
+  avg_copies: 4.0
+- name: Consult the Star Charts
   weight: 1.0
   avg_copies: 4.0
 - name: Wan Shi Tong, Librarian
@@ -33,10 +33,10 @@ top_cards:
 - name: Subtlety
   weight: 1.0
   avg_copies: 3.17
-- name: Mystical Dispute
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 2.67
-- name: Flooded Strand
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.67
 - name: Spell Snare
@@ -45,19 +45,19 @@ top_cards:
 - name: Watery Grave
   weight: 1.0
   avg_copies: 2.5
-- name: Cling to Dust
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 2.33
-- name: Undercity Sewers
+- name: Cling to Dust
   weight: 1.0
   avg_copies: 2.33
 - name: Sheoldred's Edict
   weight: 1.0
   avg_copies: 2.17
-- name: Force of Negation
+- name: Scalding Tarn
   weight: 0.8333
   avg_copies: 1.8
-- name: Scalding Tarn
+- name: Force of Negation
   weight: 0.8333
   avg_copies: 1.8
 - name: Meltdown
@@ -75,13 +75,13 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.6667
   avg_copies: 1.25
+- name: Swamp
+  weight: 0.6667
+  avg_copies: 1.0
 - name: Steam Vents
   weight: 0.6667
   avg_copies: 1.0
 - name: Kaito, Bane of Nightmares
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Swamp
   weight: 0.6667
   avg_copies: 1.0
 - name: Fire Magic
@@ -99,19 +99,19 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 0.3333
   avg_copies: 2.0
-- name: Snow-Covered Swamp
+- name: Ghost Vacuum
   weight: 0.3333
   avg_copies: 1.0
-- name: Ghost Vacuum
+- name: Snow-Covered Swamp
   weight: 0.3333
   avg_copies: 1.0
 - name: Misty Rainforest
   weight: 0.3333
   avg_copies: 1.0
-- name: Damnation
+- name: Requiting Hex
   weight: 0.1667
   avg_copies: 2.0
-- name: Requiting Hex
+- name: Damnation
   weight: 0.1667
   avg_copies: 2.0
 - name: Toxic Deluge
@@ -120,37 +120,37 @@ top_cards:
 - name: Pest Control
   weight: 0.1667
   avg_copies: 1.5
-- name: Sink into Stupor
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Logic Knot
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Drown in the Loch
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Flusterstorm
   weight: 0.1667
   avg_copies: 1.0
 - name: Erode
   weight: 0.1667
   avg_copies: 1.0
-- name: High Noon
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Flusterstorm
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Ashiok, Dream Render
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Meticulous Archive
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Sink into Stupor
   weight: 0.1667
   avg_copies: 1.0
 - name: Teferi, Time Raveler
   weight: 0.1667
   avg_copies: 1.0
+- name: Drown in the Loch
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Marsh Flats
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Logic Knot
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 0.1667
+  avg_copies: 1.0
+- name: High Noon
   weight: 0.1667
   avg_copies: 1.0
 ---

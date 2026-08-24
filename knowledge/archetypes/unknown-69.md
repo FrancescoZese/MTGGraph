@@ -9,16 +9,16 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 4.44
-- name: Necrodominance
-  weight: 1.0
-  avg_copies: 4.0
 - name: Soul Spike
   weight: 1.0
   avg_copies: 4.0
-- name: Boggart Trawler
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Necrodominance
+  weight: 1.0
+  avg_copies: 4.0
+- name: Boggart Trawler
   weight: 1.0
   avg_copies: 4.0
 - name: Break the Ice
@@ -96,10 +96,10 @@ top_cards:
 - name: Damping Sphere
   weight: 0.3333
   avg_copies: 2.0
-- name: Illness in the Ranks
+- name: Necromentia
   weight: 0.3333
   avg_copies: 1.33
-- name: Necromentia
+- name: Illness in the Ranks
   weight: 0.3333
   avg_copies: 1.33
 - name: Psychic Frog
@@ -111,19 +111,19 @@ top_cards:
 - name: Watery Grave
   weight: 0.2222
   avg_copies: 1.5
-- name: Cling to Dust
+- name: Takenuma, Abandoned Mire
   weight: 0.2222
   avg_copies: 1.0
 - name: Waterlogged Teachings
+  weight: 0.2222
+  avg_copies: 1.0
+- name: Cling to Dust
   weight: 0.2222
   avg_copies: 1.0
 - name: Revitalizing Repast
   weight: 0.2222
   avg_copies: 1.0
 - name: Toxic Deluge
-  weight: 0.2222
-  avg_copies: 1.0
-- name: Takenuma, Abandoned Mire
   weight: 0.2222
   avg_copies: 1.0
 - name: Agadeem's Awakening
@@ -135,16 +135,16 @@ top_cards:
 - name: Tourach, Dread Cantor
   weight: 0.1111
   avg_copies: 2.0
-- name: Disruptor Flute
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Shizo, Death's Storehouse
+- name: Graveyard Trespasser
   weight: 0.1111
   avg_copies: 1.0
 - name: Sorin of House Markov
   weight: 0.1111
   avg_copies: 1.0
-- name: Graveyard Trespasser
+- name: Disruptor Flute
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Shizo, Death's Storehouse
   weight: 0.1111
   avg_copies: 1.0
 ---

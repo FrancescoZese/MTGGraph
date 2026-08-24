@@ -6,7 +6,7 @@ name: Pithing Needle
 scryfall_id: 776899f8-e977-42b7-8b54-6f726a349e3c
 set: 2x2
 type: Artifact
-meta_presence: 0.1508
+meta_presence: 0.1507
 archetypes:
   boros-energy:
     weight: 0.0013

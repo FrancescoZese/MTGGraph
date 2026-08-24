@@ -8,19 +8,19 @@ name: 'Unknown #96'
 meta_share: 0.0083
 list_count: 60
 top_cards:
-- name: Hollow One
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
 - name: Hardened Academic
   weight: 1.0
   avg_copies: 3.98
-- name: Street Wraith
+- name: Detective's Phoenix
   weight: 1.0
   avg_copies: 3.87
-- name: Detective's Phoenix
+- name: Street Wraith
   weight: 1.0
   avg_copies: 3.87
 - name: Bloodstained Mire
@@ -164,37 +164,40 @@ top_cards:
 - name: Ghost Vacuum
   weight: 0.0333
   avg_copies: 3.0
-- name: Snow-Covered Mountain
-  weight: 0.0333
-  avg_copies: 2.0
 - name: Deafening Silence
   weight: 0.0333
   avg_copies: 2.0
 - name: Erode
   weight: 0.0333
   avg_copies: 2.0
-- name: Wrath of the Skies
+- name: Snow-Covered Mountain
+  weight: 0.0333
+  avg_copies: 2.0
+- name: Celestial Purge
   weight: 0.0333
   avg_copies: 1.5
-- name: Celestial Purge
+- name: Wrath of the Skies
   weight: 0.0333
   avg_copies: 1.5
 - name: Goblin Lore
   weight: 0.0167
   avg_copies: 4.0
-- name: Price of Freedom
-  weight: 0.0167
-  avg_copies: 3.0
-- name: Nethergoyf
-  weight: 0.0167
-  avg_copies: 3.0
 - name: Unholy Heat
+  weight: 0.0167
+  avg_copies: 3.0
+- name: Price of Freedom
   weight: 0.0167
   avg_copies: 3.0
 - name: Marsh Flats
   weight: 0.0167
   avg_copies: 3.0
+- name: Nethergoyf
+  weight: 0.0167
+  avg_copies: 3.0
 - name: Hallowed Moonlight
+  weight: 0.0167
+  avg_copies: 2.0
+- name: Relic of Progenitus
   weight: 0.0167
   avg_copies: 2.0
 - name: Cool but Rude
@@ -203,19 +206,16 @@ top_cards:
 - name: card:smiting-helix
   weight: 0.0167
   avg_copies: 2.0
-- name: Relic of Progenitus
-  weight: 0.0167
-  avg_copies: 2.0
 - name: Godless Shrine
   weight: 0.0167
   avg_copies: 1.0
 - name: Temur Battle Rage
   weight: 0.0167
   avg_copies: 1.0
-- name: Pyroclasm
+- name: Plains
   weight: 0.0167
   avg_copies: 1.0
-- name: Plains
+- name: Pyroclasm
   weight: 0.0167
   avg_copies: 1.0
 ---

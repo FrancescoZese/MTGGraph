@@ -6,13 +6,13 @@ name: 'Unknown #122'
 meta_share: 0.0039
 list_count: 28
 top_cards:
-- name: Preordain
-  weight: 1.0
-  avg_copies: 4.0
 - name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Cori-Steel Cutter
+  weight: 1.0
+  avg_copies: 4.0
+- name: Preordain
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
@@ -132,7 +132,10 @@ top_cards:
 - name: Assault Strobe
   weight: 0.1071
   avg_copies: 1.33
-- name: Blood Crypt
+- name: Iroh's Demonstration
+  weight: 0.1071
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
   weight: 0.1071
   avg_copies: 1.0
 - name: Octopus Form
@@ -141,10 +144,7 @@ top_cards:
 - name: Price of Freedom
   weight: 0.1071
   avg_copies: 1.0
-- name: Iroh's Demonstration
-  weight: 0.1071
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Blood Crypt
   weight: 0.1071
   avg_copies: 1.0
 - name: Nihil Spellbomb
@@ -162,16 +162,16 @@ top_cards:
 - name: Fire-Brained Scheme
   weight: 0.0357
   avg_copies: 3.0
-- name: Wear
-  weight: 0.0357
-  avg_copies: 2.0
-- name: Pyroclasm
+- name: Misty Rainforest
   weight: 0.0357
   avg_copies: 2.0
 - name: Vexing Bauble
   weight: 0.0357
   avg_copies: 2.0
-- name: Misty Rainforest
+- name: Wear
+  weight: 0.0357
+  avg_copies: 2.0
+- name: Pyroclasm
   weight: 0.0357
   avg_copies: 2.0
 - name: Accumulate Wisdom

@@ -9,6 +9,9 @@ top_cards:
 - name: card:venerated-rotpriest
   weight: 1.0
   avg_copies: 4.0
+- name: Misty Rainforest
+  weight: 1.0
+  avg_copies: 4.0
 - name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 4.0
@@ -18,19 +21,19 @@ top_cards:
 - name: card:blighted-agent
   weight: 1.0
   avg_copies: 4.0
-- name: Force of Negation
+- name: Preordain
   weight: 1.0
   avg_copies: 4.0
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 4.0
-- name: Misty Rainforest
+- name: Force of Negation
   weight: 1.0
   avg_copies: 4.0
-- name: Preordain
+- name: card:scale-up
   weight: 1.0
-  avg_copies: 4.0
-- name: card:march-of-swirling-mist
+  avg_copies: 3.0
+- name: card:might-of-old-krosa
   weight: 1.0
   avg_copies: 3.0
 - name: Force of Vigor
@@ -39,25 +42,22 @@ top_cards:
 - name: Vines of Vastwood
   weight: 1.0
   avg_copies: 3.0
-- name: Endurance
-  weight: 1.0
-  avg_copies: 3.0
-- name: card:scale-up
-  weight: 1.0
-  avg_copies: 3.0
-- name: card:might-of-old-krosa
+- name: card:march-of-swirling-mist
   weight: 1.0
   avg_copies: 3.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
-- name: Inkmoth Nexus
+- name: Endurance
   weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: card:shore-up
   weight: 1.0
   avg_copies: 2.0
-- name: Sylvan Scrying
+- name: Veil of Summer
+  weight: 1.0
+  avg_copies: 2.0
+- name: Inkmoth Nexus
   weight: 1.0
   avg_copies: 2.0
 - name: Spell Pierce
@@ -66,19 +66,13 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 2.0
-- name: Veil of Summer
+- name: Sylvan Scrying
   weight: 1.0
   avg_copies: 2.0
-- name: Boseiju, Who Endures
-  weight: 1.0
-  avg_copies: 1.0
-- name: card:tifa-lockhart
-  weight: 1.0
-  avg_copies: 1.0
 - name: Pendelhaven
   weight: 1.0
   avg_copies: 1.0
-- name: Mockingbird
+- name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.0
 - name: Hedge Maze
@@ -87,10 +81,16 @@ top_cards:
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
-- name: card:glistener-elf
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
-- name: Forest
+- name: Mockingbird
+  weight: 1.0
+  avg_copies: 1.0
+- name: card:tifa-lockhart
+  weight: 1.0
+  avg_copies: 1.0
+- name: card:glistener-elf
   weight: 1.0
   avg_copies: 1.0
 ---

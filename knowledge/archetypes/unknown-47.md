@@ -186,10 +186,10 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 0.025
   avg_copies: 1.0
-- name: Spell Pierce
+- name: Stony Silence
   weight: 0.0187
   avg_copies: 1.0
-- name: Stony Silence
+- name: Spell Pierce
   weight: 0.0187
   avg_copies: 1.0
 - name: Steam Vents
@@ -204,28 +204,28 @@ top_cards:
 - name: Grafdigger's Cage
   weight: 0.0125
   avg_copies: 1.0
+- name: Takenuma, Abandoned Mire
+  weight: 0.0125
+  avg_copies: 1.0
+- name: Umezawa's Jitte
+  weight: 0.0125
+  avg_copies: 1.0
 - name: High Noon
   weight: 0.0125
   avg_copies: 1.0
 - name: Shadow of Doubt
   weight: 0.0125
   avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.0125
-  avg_copies: 1.0
-- name: Umezawa's Jitte
-  weight: 0.0125
-  avg_copies: 1.0
 - name: Prismatic Ending
-  weight: 0.0125
-  avg_copies: 1.0
-- name: Pithing Needle
   weight: 0.0125
   avg_copies: 1.0
 - name: Dreams of Steel and Oil
   weight: 0.0125
   avg_copies: 1.0
-- name: Takenuma, Abandoned Mire
+- name: Pithing Needle
+  weight: 0.0125
+  avg_copies: 1.0
+- name: Thundering Falls
   weight: 0.0125
   avg_copies: 1.0
 - name: Culling Ritual
@@ -237,22 +237,13 @@ top_cards:
 - name: Fire Magic
   weight: 0.0063
   avg_copies: 2.0
-- name: Brazen Borrower
-  weight: 0.0063
-  avg_copies: 1.0
-- name: Narset, Parter of Veils
-  weight: 0.0063
-  avg_copies: 1.0
-- name: Inquisition of Kozilek
+- name: card:kira-great-glass-spinner
   weight: 0.0063
   avg_copies: 1.0
 - name: Fallen Shinobi
   weight: 0.0063
   avg_copies: 1.0
-- name: Consult the Star Charts
-  weight: 0.0063
-  avg_copies: 1.0
-- name: Snapcaster Mage
+- name: Strategic Betrayal
   weight: 0.0063
   avg_copies: 1.0
 - name: Dismember
@@ -261,19 +252,28 @@ top_cards:
 - name: Murderous Cut
   weight: 0.0063
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Consult the Star Charts
+  weight: 0.0063
+  avg_copies: 1.0
+- name: Narset, Parter of Veils
+  weight: 0.0063
+  avg_copies: 1.0
+- name: Celestial Purge
+  weight: 0.0063
+  avg_copies: 1.0
+- name: Inquisition of Kozilek
+  weight: 0.0063
+  avg_copies: 1.0
+- name: Snapcaster Mage
+  weight: 0.0063
+  avg_copies: 1.0
+- name: Brazen Borrower
   weight: 0.0063
   avg_copies: 1.0
 - name: River of Tears
   weight: 0.0063
   avg_copies: 1.0
-- name: Strategic Betrayal
-  weight: 0.0063
-  avg_copies: 1.0
-- name: card:kira-great-glass-spinner
-  weight: 0.0063
-  avg_copies: 1.0
-- name: Celestial Purge
+- name: Breeding Pool
   weight: 0.0063
   avg_copies: 1.0
 ---

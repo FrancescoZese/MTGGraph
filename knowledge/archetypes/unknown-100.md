@@ -12,19 +12,19 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline of the Guildpact
+- name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
-- name: Territorial Kavu
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline Binding
   weight: 1.0
   avg_copies: 4.0
-- name: Scion of Draco
+- name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
-- name: Lightning Bolt
+- name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
@@ -42,22 +42,22 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
-- name: Mountain
-  weight: 1.0
-  avg_copies: 1.0
-- name: Wear
-  weight: 1.0
-  avg_copies: 1.0
 - name: Surgical Extraction
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Arena of Glory
   weight: 1.0
   avg_copies: 1.0
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Arena of Glory
+- name: Mountain
+  weight: 1.0
+  avg_copies: 1.0
+- name: Blood Crypt
+  weight: 1.0
+  avg_copies: 1.0
+- name: Wear
   weight: 1.0
   avg_copies: 1.0
 - name: Quantum Riddler
@@ -78,9 +78,6 @@ top_cards:
 - name: Godless Shrine
   weight: 0.75
   avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.75
-  avg_copies: 1.0
 - name: Raucous Theater
   weight: 0.75
   avg_copies: 1.0
@@ -90,13 +87,16 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.75
   avg_copies: 1.0
+- name: Breeding Pool
+  weight: 0.75
+  avg_copies: 1.0
+- name: Arid Mesa
+  weight: 0.5
+  avg_copies: 4.0
 - name: Moonshadow
   weight: 0.5
   avg_copies: 4.0
 - name: Polluted Delta
-  weight: 0.5
-  avg_copies: 4.0
-- name: Arid Mesa
   weight: 0.5
   avg_copies: 4.0
 - name: Marsh Flats
@@ -117,55 +117,55 @@ top_cards:
 - name: Plains
   weight: 0.5
   avg_copies: 1.0
-- name: Bloodstained Mire
-  weight: 0.25
-  avg_copies: 4.0
 - name: Scalding Tarn
   weight: 0.25
   avg_copies: 4.0
-- name: Laelia, the Blade Reforged
+- name: Bloodstained Mire
   weight: 0.25
-  avg_copies: 2.0
-- name: Damping Sphere
-  weight: 0.25
-  avg_copies: 2.0
+  avg_copies: 4.0
 - name: Surge of Salvation
   weight: 0.25
   avg_copies: 2.0
 - name: Kroxa, Titan of Death's Hunger
   weight: 0.25
   avg_copies: 2.0
+- name: Damping Sphere
+  weight: 0.25
+  avg_copies: 2.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.25
   avg_copies: 2.0
-- name: Hidetsugu Consumes All
+- name: Laelia, the Blade Reforged
   weight: 0.25
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Thundering Falls
-  weight: 0.25
-  avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 0.25
-  avg_copies: 1.0
-- name: Island
-  weight: 0.25
-  avg_copies: 1.0
-- name: Sacred Foundry
   weight: 0.25
   avg_copies: 1.0
 - name: Watery Grave
   weight: 0.25
   avg_copies: 1.0
+- name: Island
+  weight: 0.25
+  avg_copies: 1.0
 - name: Swamp
   weight: 0.25
   avg_copies: 1.0
-- name: Rest in Peace
+- name: Hidetsugu Consumes All
+  weight: 0.25
+  avg_copies: 1.0
+- name: Indatha Triome
   weight: 0.25
   avg_copies: 1.0
 - name: Overgrown Tomb
   weight: 0.25
   avg_copies: 1.0
-- name: Indatha Triome
+- name: Rest in Peace
+  weight: 0.25
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 0.25
+  avg_copies: 1.0
+- name: Sacred Foundry
   weight: 0.25
   avg_copies: 1.0
 ---

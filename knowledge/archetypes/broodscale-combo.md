@@ -186,10 +186,10 @@ top_cards:
 - name: Ugin, Eye of the Storms
   weight: 0.0409
   avg_copies: 1.27
-- name: Bojuka Bog
+- name: Life from the Loam
   weight: 0.0409
   avg_copies: 1.0
-- name: Life from the Loam
+- name: Bojuka Bog
   weight: 0.0409
   avg_copies: 1.0
 - name: Talisman of Impulse
@@ -219,10 +219,10 @@ top_cards:
 - name: card:llanowar-wastes
   weight: 0.0126
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Sephiroth, Fabled SOLDIER
   weight: 0.0126
   avg_copies: 3.0
-- name: Sephiroth, Fabled SOLDIER
+- name: Thoughtseize
   weight: 0.0126
   avg_copies: 3.0
 - name: Agatha's Soul Cauldron
@@ -255,9 +255,6 @@ top_cards:
 - name: Defense Grid
   weight: 0.0094
   avg_copies: 1.33
-- name: Shadowspear
-  weight: 0.0094
-  avg_copies: 1.0
 - name: Ghost Vacuum
   weight: 0.0094
   avg_copies: 1.0
@@ -265,6 +262,9 @@ top_cards:
   weight: 0.0094
   avg_copies: 1.0
 - name: Nurturing Peatland
+  weight: 0.0094
+  avg_copies: 1.0
+- name: Shadowspear
   weight: 0.0094
   avg_copies: 1.0
 - name: Revitalizing Repast
@@ -282,10 +282,10 @@ top_cards:
 - name: Skateboard
   weight: 0.0063
   avg_copies: 1.0
-- name: Lightning Bolt
+- name: Meltdown
   weight: 0.0063
   avg_copies: 1.0
-- name: Meltdown
+- name: Lightning Bolt
   weight: 0.0063
   avg_copies: 1.0
 - name: Eldrazi Linebreaker
@@ -297,55 +297,55 @@ top_cards:
 - name: Brushland
   weight: 0.0031
   avg_copies: 4.0
-- name: Darksteel Citadel
-  weight: 0.0031
-  avg_copies: 3.0
-- name: Mox Opal
-  weight: 0.0031
-  avg_copies: 3.0
 - name: Formidable Speaker
   weight: 0.0031
   avg_copies: 3.0
 - name: Path to Exile
   weight: 0.0031
   avg_copies: 3.0
-- name: Deafening Silence
+- name: Darksteel Citadel
   weight: 0.0031
-  avg_copies: 2.0
-- name: Orim's Chant
+  avg_copies: 3.0
+- name: Mox Opal
   weight: 0.0031
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Heroic Intervention
   weight: 0.0031
   avg_copies: 2.0
 - name: Snakeskin Veil
   weight: 0.0031
   avg_copies: 2.0
-- name: Cursed Totem
+- name: Orim's Chant
+  weight: 0.0031
+  avg_copies: 2.0
+- name: Deafening Silence
   weight: 0.0031
   avg_copies: 2.0
 - name: Idol of False Gods
   weight: 0.0031
   avg_copies: 2.0
+- name: Cursed Totem
+  weight: 0.0031
+  avg_copies: 2.0
+- name: Tunnel Ignus
+  weight: 0.0031
+  avg_copies: 1.0
+- name: Mishra's Research Desk
+  weight: 0.0031
+  avg_copies: 1.0
 - name: Kozilek's Return
   weight: 0.0031
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.0031
   avg_copies: 1.0
-- name: Tunnel Ignus
-  weight: 0.0031
-  avg_copies: 1.0
-- name: card:ugin-the-ineffable
-  weight: 0.0031
-  avg_copies: 1.0
 - name: Pawpatch Formation
   weight: 0.0031
   avg_copies: 1.0
-- name: Mishra's Research Desk
+- name: Expedition Map
   weight: 0.0031
   avg_copies: 1.0
-- name: Expedition Map
+- name: card:ugin-the-ineffable
   weight: 0.0031
   avg_copies: 1.0
 ---

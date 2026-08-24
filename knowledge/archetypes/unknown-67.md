@@ -182,34 +182,40 @@ top_cards:
 - name: Flare of Denial
   weight: 0.05
   avg_copies: 1.0
+- name: Windcaller Aven
+  weight: 0.02
+  avg_copies: 1.0
 - name: Press the Enemy
   weight: 0.02
   avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.02
   avg_copies: 1.0
-- name: Windcaller Aven
-  weight: 0.02
-  avg_copies: 1.0
 - name: Overlord of the Balemurk
   weight: 0.01
   avg_copies: 4.0
+- name: Polluted Delta
+  weight: 0.01
+  avg_copies: 3.0
+- name: Cursed Totem
+  weight: 0.01
+  avg_copies: 3.0
 - name: Fulminator Mage
   weight: 0.01
   avg_copies: 3.0
 - name: Architects of Will
   weight: 0.01
   avg_copies: 3.0
-- name: Cursed Totem
-  weight: 0.01
-  avg_copies: 3.0
-- name: Polluted Delta
-  weight: 0.01
-  avg_copies: 3.0
-- name: Vendilion Clique
+- name: card:anger-of-the-gods
   weight: 0.01
   avg_copies: 2.0
-- name: card:anger-of-the-gods
+- name: Culling Ritual
+  weight: 0.01
+  avg_copies: 2.0
+- name: Harbinger of the Seas
+  weight: 0.01
+  avg_copies: 2.0
+- name: Vendilion Clique
   weight: 0.01
   avg_copies: 2.0
 - name: Stormkeld Vanguard
@@ -221,16 +227,25 @@ top_cards:
 - name: Bonecrusher Giant
   weight: 0.01
   avg_copies: 2.0
-- name: Harbinger of the Seas
+- name: Collector Ouphe
   weight: 0.01
-  avg_copies: 2.0
-- name: Culling Ritual
-  weight: 0.01
-  avg_copies: 2.0
+  avg_copies: 1.0
 - name: Tokka & Rahzar, Terrible Twos
   weight: 0.01
   avg_copies: 1.0
-- name: Harvester of Misery
+- name: Arid Mesa
+  weight: 0.01
+  avg_copies: 1.0
+- name: Meticulous Archive
+  weight: 0.01
+  avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.01
+  avg_copies: 1.0
+- name: Underground Mortuary
+  weight: 0.01
+  avg_copies: 1.0
+- name: Brainsurge
   weight: 0.01
   avg_copies: 1.0
 - name: High Noon
@@ -239,28 +254,13 @@ top_cards:
 - name: Fire
   weight: 0.01
   avg_copies: 1.0
-- name: Underground Mortuary
-  weight: 0.01
-  avg_copies: 1.0
-- name: Gemstone Caverns
-  weight: 0.01
-  avg_copies: 1.0
-- name: card:cascade-bluffs
+- name: Harvester of Misery
   weight: 0.01
   avg_copies: 1.0
 - name: Kataki, War's Wage
   weight: 0.01
   avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.01
-  avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 0.01
-  avg_copies: 1.0
-- name: Arid Mesa
-  weight: 0.01
-  avg_copies: 1.0
-- name: Brainsurge
+- name: card:cascade-bluffs
   weight: 0.01
   avg_copies: 1.0
 - name: Overgrown Tomb

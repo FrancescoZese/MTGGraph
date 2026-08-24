@@ -10,19 +10,19 @@ top_cards:
 - name: Violent Outburst
   weight: 1.0
   avg_copies: 4.0
-- name: Shardless Agent
+- name: Crashing Footfalls
   weight: 1.0
   avg_copies: 4.0
-- name: Crashing Footfalls
+- name: Shardless Agent
   weight: 1.0
   avg_copies: 4.0
 - name: Misty Rainforest
   weight: 1.0
   avg_copies: 3.86
-- name: Force of Negation
+- name: Fire
   weight: 1.0
   avg_copies: 3.76
-- name: Fire
+- name: Force of Negation
   weight: 1.0
   avg_copies: 3.76
 - name: Dead
@@ -43,13 +43,13 @@ top_cards:
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.1
+- name: Hedge Maze
+  weight: 1.0
+  avg_copies: 1.0
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Stomping Ground
-  weight: 1.0
-  avg_copies: 1.0
-- name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
 - name: Wooded Foothills
@@ -127,10 +127,10 @@ top_cards:
 - name: Repudiate
   weight: 0.1379
   avg_copies: 1.0
-- name: Tishana's Tidebinder
+- name: Rough
   weight: 0.1034
   avg_copies: 2.33
-- name: Rough
+- name: Tishana's Tidebinder
   weight: 0.1034
   avg_copies: 2.33
 - name: Hallowed Fountain
@@ -151,31 +151,31 @@ top_cards:
 - name: Flame of Anor
   weight: 0.0345
   avg_copies: 4.0
+- name: Mutavault
+  weight: 0.0345
+  avg_copies: 2.0
+- name: Kataki, War's Wage
+  weight: 0.0345
+  avg_copies: 2.0
 - name: card:avengers-disassembled
   weight: 0.0345
   avg_copies: 2.0
 - name: Commandeer
   weight: 0.0345
   avg_copies: 2.0
-- name: Kataki, War's Wage
-  weight: 0.0345
-  avg_copies: 2.0
-- name: Mutavault
+- name: Teferi, Time Raveler
   weight: 0.0345
   avg_copies: 2.0
 - name: Snow-Covered Island
   weight: 0.0345
   avg_copies: 2.0
-- name: Teferi, Time Raveler
-  weight: 0.0345
-  avg_copies: 2.0
-- name: Snow-Covered Forest
-  weight: 0.0345
-  avg_copies: 1.0
 - name: Fable of the Mirror-Breaker
   weight: 0.0345
   avg_copies: 1.0
 - name: Mine Collapse
+  weight: 0.0345
+  avg_copies: 1.0
+- name: Snow-Covered Forest
   weight: 0.0345
   avg_copies: 1.0
 ---

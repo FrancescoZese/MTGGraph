@@ -7,73 +7,64 @@ name: 'Unknown #135'
 meta_share: 0.0004
 list_count: 3
 top_cards:
-- name: Phelia, Exuberant Shepherd
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Galvanic Discharge
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thoughtseize
+- name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
-- name: Orcish Bowmasters
+- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Overlord of the Balemurk
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
-- name: Wear
+- name: Galvanic Discharge
+  weight: 1.0
+  avg_copies: 4.0
+- name: Witch Enchanter
   weight: 1.0
   avg_copies: 3.0
-- name: Witch Enchanter
+- name: Wear
   weight: 1.0
   avg_copies: 3.0
 - name: Flickerwisp
   weight: 1.0
   avg_copies: 3.0
-- name: Damping Sphere
+- name: March of Otherworldly Light
   weight: 1.0
   avg_copies: 2.33
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.33
-- name: March of Otherworldly Light
+- name: Damping Sphere
   weight: 1.0
   avg_copies: 2.33
+- name: Unlicensed Hearse
+  weight: 1.0
+  avg_copies: 2.0
+- name: Ephemerate
+  weight: 1.0
+  avg_copies: 2.0
 - name: Clarion Conqueror
   weight: 1.0
   avg_copies: 2.0
 - name: White Orchid Phantom
   weight: 1.0
   avg_copies: 2.0
-- name: Ephemerate
-  weight: 1.0
-  avg_copies: 2.0
-- name: Unlicensed Hearse
-  weight: 1.0
-  avg_copies: 2.0
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
-- name: Mountain
-  weight: 1.0
-  avg_copies: 1.0
-- name: Bloodstained Mire
-  weight: 1.0
-  avg_copies: 1.0
 - name: Prismatic Ending
-  weight: 1.0
-  avg_copies: 1.0
-- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Raucous Theater
@@ -82,28 +73,37 @@ top_cards:
 - name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 1.0
-  avg_copies: 1.0
-- name: Shadowy Backstreet
-  weight: 1.0
-  avg_copies: 1.0
-- name: Boggart Trawler
-  weight: 1.0
-  avg_copies: 1.0
-- name: Plains
-  weight: 1.0
-  avg_copies: 1.0
-- name: Arena of Glory
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.0
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: High Noon
+- name: Arena of Glory
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shadowy Backstreet
+  weight: 1.0
+  avg_copies: 1.0
+- name: Mountain
+  weight: 1.0
+  avg_copies: 1.0
+- name: Blood Crypt
+  weight: 1.0
+  avg_copies: 1.0
+- name: Plains
+  weight: 1.0
+  avg_copies: 1.0
+- name: Boggart Trawler
+  weight: 1.0
+  avg_copies: 1.0
+- name: Sacred Foundry
+  weight: 1.0
+  avg_copies: 1.0
+- name: Fable of the Mirror-Breaker
   weight: 0.6667
   avg_copies: 2.0
-- name: Fable of the Mirror-Breaker
+- name: High Noon
   weight: 0.6667
   avg_copies: 2.0
 - name: Ragavan, Nimble Pilferer
@@ -112,10 +112,10 @@ top_cards:
 - name: Lightning Helix
   weight: 0.3333
   avg_copies: 3.0
-- name: Emperor of Bones
+- name: Hardened Academic
   weight: 0.3333
   avg_copies: 3.0
-- name: Hardened Academic
+- name: Emperor of Bones
   weight: 0.3333
   avg_copies: 3.0
 - name: Kroxa, Titan of Death's Hunger

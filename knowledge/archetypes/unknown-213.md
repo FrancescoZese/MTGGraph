@@ -6,9 +6,6 @@ name: 'Unknown #213'
 meta_share: 0.0015
 list_count: 11
 top_cards:
-- name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
@@ -16,6 +13,9 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Tamiyo, Inquisitive Student
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Opal
@@ -42,9 +42,6 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.64
-- name: Damping Sphere
-  weight: 1.0
-  avg_copies: 1.0
 - name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
@@ -54,10 +51,13 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.0
+- name: Damping Sphere
+  weight: 1.0
+  avg_copies: 1.0
 - name: Disruptor Flute
   weight: 0.9091
   avg_copies: 1.0
-- name: Minamo, School at Water's Edge
+- name: Otawara, Soaring City
   weight: 0.9091
   avg_copies: 1.0
 - name: Shadowspear
@@ -66,7 +66,7 @@ top_cards:
 - name: Aether Spellbomb
   weight: 0.9091
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Minamo, School at Water's Edge
   weight: 0.9091
   avg_copies: 1.0
 - name: Sewer-veillance Cam
@@ -114,61 +114,61 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.4545
   avg_copies: 1.6
-- name: card:scrabbling-claws
+- name: Soul-Guide Lantern
   weight: 0.4545
   avg_copies: 1.0
 - name: card:thopter-foundry
   weight: 0.4545
   avg_copies: 1.0
+- name: card:sword-of-the-meek
+  weight: 0.4545
+  avg_copies: 1.0
 - name: Polluted Delta
   weight: 0.4545
   avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.4545
-  avg_copies: 1.0
-- name: card:sword-of-the-meek
+- name: card:scrabbling-claws
   weight: 0.4545
   avg_copies: 1.0
 - name: Quantum Riddler
   weight: 0.3636
   avg_copies: 1.33
-- name: Tormod's Crypt
+- name: Plains
   weight: 0.3636
   avg_copies: 1.0
-- name: Plains
+- name: Tormod's Crypt
   weight: 0.3636
   avg_copies: 1.0
 - name: Aang, Swift Savior
   weight: 0.2727
   avg_copies: 2.0
-- name: Breeding Pool
+- name: Haywire Mite
   weight: 0.2727
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Breeding Pool
   weight: 0.2727
   avg_copies: 1.0
 - name: Spell Snare
   weight: 0.1818
   avg_copies: 2.0
-- name: Dusk Rose Reliquary
-  weight: 0.1818
-  avg_copies: 1.0
 - name: Tezzeret, Cruel Captain
-  weight: 0.1818
-  avg_copies: 1.0
-- name: Counterspell
-  weight: 0.1818
-  avg_copies: 1.0
-- name: Glimmervoid
   weight: 0.1818
   avg_copies: 1.0
 - name: Dispatch
   weight: 0.1818
   avg_copies: 1.0
-- name: Harbinger of the Seas
+- name: Krang, Master Mind
   weight: 0.1818
   avg_copies: 1.0
-- name: Krang, Master Mind
+- name: Glimmervoid
+  weight: 0.1818
+  avg_copies: 1.0
+- name: Counterspell
+  weight: 0.1818
+  avg_copies: 1.0
+- name: Dusk Rose Reliquary
+  weight: 0.1818
+  avg_copies: 1.0
+- name: Harbinger of the Seas
   weight: 0.1818
   avg_copies: 1.0
 - name: Prismatic Ending
@@ -180,7 +180,13 @@ top_cards:
 - name: Erode
   weight: 0.0909
   avg_copies: 2.0
+- name: Ratchet Bomb
+  weight: 0.0909
+  avg_copies: 1.0
 - name: card:combat-courier
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Hope of Ghirapur
   weight: 0.0909
   avg_copies: 1.0
 - name: card:barbed-spike
@@ -189,16 +195,10 @@ top_cards:
 - name: Welding Jar
   weight: 0.0909
   avg_copies: 1.0
-- name: Ratchet Bomb
-  weight: 0.0909
-  avg_copies: 1.0
 - name: Relic of Progenitus
   weight: 0.0909
   avg_copies: 1.0
 - name: card:sculpting-steel
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Hope of Ghirapur
   weight: 0.0909
   avg_copies: 1.0
 ---

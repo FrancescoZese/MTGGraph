@@ -5,22 +5,22 @@ name: 'Unknown #194'
 meta_share: 0.0028
 list_count: 20
 top_cards:
-- name: Urza's Saga
-  weight: 1.0
-  avg_copies: 4.0
 - name: Basking Broodscale
   weight: 1.0
   avg_copies: 4.0
+- name: Urza's Saga
+  weight: 1.0
+  avg_copies: 4.0
 - name: Malevolent Rumble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
-  weight: 1.0
-  avg_copies: 4.0
-- name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: Forest
@@ -92,19 +92,19 @@ top_cards:
 - name: Delighted Halfling
   weight: 0.45
   avg_copies: 2.78
-- name: Gemstone Caverns
+- name: Yavimaya, Cradle of Growth
   weight: 0.45
   avg_copies: 1.0
 - name: Sire of Seven Deaths
   weight: 0.45
   avg_copies: 1.0
-- name: Yavimaya, Cradle of Growth
+- name: Gemstone Caverns
   weight: 0.45
   avg_copies: 1.0
-- name: The Mycosynth Gardens
+- name: Shifting Woodland
   weight: 0.35
   avg_copies: 1.0
-- name: Shifting Woodland
+- name: The Mycosynth Gardens
   weight: 0.35
   avg_copies: 1.0
 - name: Disruptor Flute
@@ -128,10 +128,10 @@ top_cards:
 - name: Trinisphere
   weight: 0.15
   avg_copies: 1.67
-- name: Ghost Quarter
+- name: Surgical Extraction
   weight: 0.15
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Ghost Quarter
   weight: 0.15
   avg_copies: 1.0
 - name: Drowner of Truth
@@ -146,46 +146,46 @@ top_cards:
 - name: Skateboard
   weight: 0.1
   avg_copies: 1.0
-- name: All Is Dust
-  weight: 0.05
-  avg_copies: 2.0
-- name: Firespout
+- name: Unholy Heat
   weight: 0.05
   avg_copies: 2.0
 - name: Cursed Totem
   weight: 0.05
   avg_copies: 2.0
+- name: All Is Dust
+  weight: 0.05
+  avg_copies: 2.0
 - name: Ugin's Binding
   weight: 0.05
   avg_copies: 2.0
-- name: Unholy Heat
+- name: Firespout
   weight: 0.05
   avg_copies: 2.0
-- name: Nulldrifter
-  weight: 0.05
-  avg_copies: 1.0
-- name: Verdant Catacombs
-  weight: 0.05
-  avg_copies: 1.0
-- name: Commercial District
-  weight: 0.05
-  avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.05
-  avg_copies: 1.0
-- name: Traverse the Ulvenwald
-  weight: 0.05
-  avg_copies: 1.0
-- name: Stomping Ground
+- name: Misty Rainforest
   weight: 0.05
   avg_copies: 1.0
 - name: Formidable Speaker
   weight: 0.05
   avg_copies: 1.0
+- name: Verdant Catacombs
+  weight: 0.05
+  avg_copies: 1.0
+- name: Nulldrifter
+  weight: 0.05
+  avg_copies: 1.0
 - name: Sanctum of Ugin
   weight: 0.05
   avg_copies: 1.0
-- name: Misty Rainforest
+- name: Stomping Ground
+  weight: 0.05
+  avg_copies: 1.0
+- name: Breeding Pool
+  weight: 0.05
+  avg_copies: 1.0
+- name: Commercial District
+  weight: 0.05
+  avg_copies: 1.0
+- name: Traverse the Ulvenwald
   weight: 0.05
   avg_copies: 1.0
 ---

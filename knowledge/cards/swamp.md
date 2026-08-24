@@ -6,7 +6,7 @@ name: Swamp
 scryfall_id: 51fe930f-2b5a-4b1e-9007-6ee74fb44715
 set: sos
 type: Basic Land — Swamp
-meta_presence: 0.2779
+meta_presence: 0.2778
 archetypes:
   dimir-control:
     weight: 0.9877

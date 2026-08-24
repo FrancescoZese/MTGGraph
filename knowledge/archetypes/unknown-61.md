@@ -116,10 +116,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.0893
   avg_copies: 1.4
-- name: Emrakul, the Aeons Torn
+- name: Grafdigger's Cage
   weight: 0.0804
   avg_copies: 1.22
-- name: Grafdigger's Cage
+- name: Emrakul, the Aeons Torn
   weight: 0.0804
   avg_copies: 1.22
 - name: Cursed Totem
@@ -134,10 +134,10 @@ top_cards:
 - name: Scavenging Ooze
   weight: 0.0357
   avg_copies: 1.0
-- name: Six
+- name: card:balustrade-wurm
   weight: 0.0357
   avg_copies: 1.0
-- name: card:balustrade-wurm
+- name: Six
   weight: 0.0357
   avg_copies: 1.0
 - name: Vexing Bauble
@@ -146,55 +146,55 @@ top_cards:
 - name: Grove of the Burnwillows
   weight: 0.0268
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Nature's Claim
   weight: 0.0179
   avg_copies: 2.0
-- name: Nature's Claim
+- name: Damping Sphere
   weight: 0.0179
   avg_copies: 2.0
 - name: Icetill Explorer
   weight: 0.0179
   avg_copies: 1.5
-- name: Thief of Existence
-  weight: 0.0089
-  avg_copies: 3.0
 - name: Creeping Corrosion
   weight: 0.0089
   avg_copies: 3.0
-- name: Warping Wail
+- name: Thief of Existence
   weight: 0.0089
-  avg_copies: 2.0
-- name: Hashep Oasis
-  weight: 0.0089
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: card:null-elemental-blast
+  weight: 0.0089
+  avg_copies: 2.0
+- name: Warping Wail
   weight: 0.0089
   avg_copies: 2.0
 - name: Soul-Guide Lantern
   weight: 0.0089
   avg_copies: 2.0
-- name: Ouroboroid
+- name: Hashep Oasis
   weight: 0.0089
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Yavimaya, Cradle of Growth
   weight: 0.0089
   avg_copies: 1.0
-- name: Tajuru Preserver
-  weight: 0.0089
-  avg_copies: 1.0
-- name: Insidious Fungus
+- name: Shifting Woodland
   weight: 0.0089
   avg_copies: 1.0
 - name: Ghalta, Stampede Tyrant
   weight: 0.0089
   avg_copies: 1.0
-- name: Shifting Woodland
+- name: Insidious Fungus
   weight: 0.0089
   avg_copies: 1.0
 - name: Outland Liberator
   weight: 0.0089
   avg_copies: 1.0
 - name: Torpor Orb
+  weight: 0.0089
+  avg_copies: 1.0
+- name: Ouroboroid
+  weight: 0.0089
+  avg_copies: 1.0
+- name: Tajuru Preserver
   weight: 0.0089
   avg_copies: 1.0
 ---

@@ -196,10 +196,10 @@ top_cards:
 - name: Veil of Summer
   weight: 0.0661
   avg_copies: 2.38
-- name: Ashiok, Dream Render
+- name: card:finale-of-devastation
   weight: 0.0661
   avg_copies: 1.0
-- name: card:finale-of-devastation
+- name: Ashiok, Dream Render
   weight: 0.0661
   avg_copies: 1.0
 - name: Nature's Claim
@@ -232,10 +232,10 @@ top_cards:
 - name: Witherbloom Charm
   weight: 0.0248
   avg_copies: 1.33
-- name: card:skyfisher-spider
+- name: card:dundoolin-weaver
   weight: 0.0248
   avg_copies: 1.0
-- name: card:dundoolin-weaver
+- name: card:skyfisher-spider
   weight: 0.0248
   avg_copies: 1.0
 - name: Disruptor Flute
@@ -256,55 +256,46 @@ top_cards:
 - name: Emperor of Bones
   weight: 0.0165
   avg_copies: 1.0
-- name: Cankerbloom
-  weight: 0.0165
-  avg_copies: 1.0
 - name: Six
   weight: 0.0165
   avg_copies: 1.0
-- name: Postmortem Lunge
+- name: Cankerbloom
+  weight: 0.0165
+  avg_copies: 1.0
+- name: Burrenton Forge-Tender
   weight: 0.0083
   avg_copies: 2.0
-- name: Pick Your Poison
+- name: Postmortem Lunge
   weight: 0.0083
   avg_copies: 2.0
 - name: High Noon
   weight: 0.0083
   avg_copies: 2.0
-- name: Burrenton Forge-Tender
+- name: Pick Your Poison
   weight: 0.0083
   avg_copies: 2.0
+- name: card:dawnhart-mentor
+  weight: 0.0083
+  avg_copies: 1.0
 - name: card:jennifer-walters
   weight: 0.0083
   avg_copies: 1.0
 - name: Icetill Explorer
   weight: 0.0083
   avg_copies: 1.0
-- name: card:avabruck-caretaker
-  weight: 0.0083
-  avg_copies: 1.0
-- name: card:dawnhart-mentor
-  weight: 0.0083
-  avg_copies: 1.0
-- name: Turntimber Symbiosis
-  weight: 0.0083
-  avg_copies: 1.0
-- name: card:dauntless-escort
-  weight: 0.0083
-  avg_copies: 1.0
 - name: Eladamri, Korvecdal
-  weight: 0.0083
-  avg_copies: 1.0
-- name: Witherbloom Command
   weight: 0.0083
   avg_copies: 1.0
 - name: Rhonas the Indomitable
   weight: 0.0083
   avg_copies: 1.0
-- name: Ashaya, Soul of the Wild
+- name: Reclamation Sage
   weight: 0.0083
   avg_copies: 1.0
 - name: Scavenging Ooze
+  weight: 0.0083
+  avg_copies: 1.0
+- name: Yawgmoth, Thran Physician
   weight: 0.0083
   avg_copies: 1.0
 - name: card:thrun-breaker-of-silence
@@ -313,10 +304,19 @@ top_cards:
 - name: card:elven-chorus
   weight: 0.0083
   avg_copies: 1.0
-- name: Yawgmoth, Thran Physician
+- name: Turntimber Symbiosis
   weight: 0.0083
   avg_copies: 1.0
-- name: Reclamation Sage
+- name: Ashaya, Soul of the Wild
+  weight: 0.0083
+  avg_copies: 1.0
+- name: card:dauntless-escort
+  weight: 0.0083
+  avg_copies: 1.0
+- name: Witherbloom Command
+  weight: 0.0083
+  avg_copies: 1.0
+- name: card:avabruck-caretaker
   weight: 0.0083
   avg_copies: 1.0
 ---

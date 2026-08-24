@@ -84,10 +84,10 @@ top_cards:
 - name: Cryptic Coat
   weight: 0.5556
   avg_copies: 1.0
-- name: card:super-soldier-serum
+- name: Sanctifier en-Vec
   weight: 0.4444
   avg_copies: 3.0
-- name: Sanctifier en-Vec
+- name: card:super-soldier-serum
   weight: 0.4444
   avg_copies: 3.0
 - name: Marsh Flats
@@ -117,10 +117,10 @@ top_cards:
 - name: Erode
   weight: 0.2222
   avg_copies: 2.75
-- name: Damping Sphere
+- name: Portable Hole
   weight: 0.2222
   avg_copies: 2.0
-- name: Portable Hole
+- name: Damping Sphere
   weight: 0.2222
   avg_copies: 2.0
 - name: Stern Scolding
@@ -153,10 +153,10 @@ top_cards:
 - name: Spell Pierce
   weight: 0.1111
   avg_copies: 1.33
-- name: Kaldra Compleat
+- name: Skateboard
   weight: 0.1111
   avg_copies: 1.0
-- name: Skateboard
+- name: Kaldra Compleat
   weight: 0.1111
   avg_copies: 1.0
 - name: Soul-Guide Lantern
@@ -174,13 +174,7 @@ top_cards:
 - name: March of Otherworldly Light
   weight: 0.0556
   avg_copies: 3.0
-- name: Solitude
-  weight: 0.0556
-  avg_copies: 2.0
 - name: Lavinia, Azorius Renegade
-  weight: 0.0556
-  avg_copies: 2.0
-- name: High Noon
   weight: 0.0556
   avg_copies: 2.0
 - name: Drannith Magistrate
@@ -189,25 +183,31 @@ top_cards:
 - name: Containment Priest
   weight: 0.0556
   avg_copies: 2.0
+- name: High Noon
+  weight: 0.0556
+  avg_copies: 2.0
+- name: Solitude
+  weight: 0.0556
+  avg_copies: 2.0
 - name: card:spider-sense
-  weight: 0.0556
-  avg_copies: 1.0
-- name: card:gingerbrute
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Forge Anew
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Stubborn Denial
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Godless Shrine
   weight: 0.0556
   avg_copies: 1.0
 - name: card:my-precious
   weight: 0.0556
   avg_copies: 1.0
+- name: Forge Anew
+  weight: 0.0556
+  avg_copies: 1.0
 - name: Umezawa's Jitte
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Godless Shrine
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Stubborn Denial
+  weight: 0.0556
+  avg_copies: 1.0
+- name: card:gingerbrute
   weight: 0.0556
   avg_copies: 1.0
 - name: Spell Snare

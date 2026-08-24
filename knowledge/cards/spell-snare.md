@@ -7,7 +7,7 @@ name: Spell Snare
 scryfall_id: b7551b61-656e-4f37-b9da-73174db983b7
 set: ecl
 type: Instant
-meta_presence: 0.1595
+meta_presence: 0.1594
 archetypes:
   ruby-storm:
     weight: 0.0039

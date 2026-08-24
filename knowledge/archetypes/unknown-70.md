@@ -7,10 +7,10 @@ name: 'Unknown #70'
 meta_share: 0.0028
 list_count: 20
 top_cards:
-- name: Galvanic Discharge
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Guide of Souls
+- name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
@@ -55,10 +55,10 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 0.95
   avg_copies: 3.11
-- name: Mountain
+- name: Meticulous Archive
   weight: 0.95
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Mountain
   weight: 0.95
   avg_copies: 1.0
 - name: Ajani, Nacatl Pariah
@@ -136,52 +136,52 @@ top_cards:
 - name: Mockingbird
   weight: 0.15
   avg_copies: 1.33
-- name: Thundering Falls
+- name: Strix Serenade
   weight: 0.15
   avg_copies: 1.0
-- name: Strix Serenade
+- name: Thundering Falls
   weight: 0.15
   avg_copies: 1.0
 - name: White Orchid Phantom
   weight: 0.1
   avg_copies: 3.0
-- name: Starfield Shepherd
+- name: Orim's Chant
   weight: 0.1
   avg_copies: 2.0
-- name: Orim's Chant
+- name: Starfield Shepherd
   weight: 0.1
   avg_copies: 2.0
 - name: Windswept Heath
   weight: 0.1
   avg_copies: 1.0
-- name: Practiced Offense
+- name: Reprieve
   weight: 0.05
   avg_copies: 2.0
-- name: Reprieve
+- name: Practiced Offense
   weight: 0.05
   avg_copies: 2.0
 - name: Vandalblast
   weight: 0.05
   avg_copies: 1.0
-- name: Spell Pierce
-  weight: 0.05
-  avg_copies: 1.0
-- name: Boromir, Warden of the Tower
+- name: Soul-Guide Lantern
   weight: 0.05
   avg_copies: 1.0
 - name: The Legend of Roku
   weight: 0.05
   avg_copies: 1.0
-- name: Magus of the Moon
-  weight: 0.05
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.05
-  avg_copies: 1.0
 - name: Lightning Bolt
   weight: 0.05
   avg_copies: 1.0
+- name: Spell Pierce
+  weight: 0.05
+  avg_copies: 1.0
+- name: Magus of the Moon
+  weight: 0.05
+  avg_copies: 1.0
 - name: Marsh Flats
+  weight: 0.05
+  avg_copies: 1.0
+- name: Boromir, Warden of the Tower
   weight: 0.05
   avg_copies: 1.0
 ---

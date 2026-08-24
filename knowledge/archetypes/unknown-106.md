@@ -15,10 +15,10 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.73
-- name: Consult the Star Charts
+- name: Field of Ruin
   weight: 1.0
   avg_copies: 3.55
-- name: Field of Ruin
+- name: Consult the Star Charts
   weight: 1.0
   avg_copies: 3.55
 - name: Solitude
@@ -27,10 +27,10 @@ top_cards:
 - name: Prismatic Ending
   weight: 1.0
   avg_copies: 3.18
-- name: Mystical Dispute
+- name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 2.91
-- name: Teferi, Time Raveler
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.91
 - name: Wrath of the Skies
@@ -42,10 +42,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 2.09
-- name: Hallowed Fountain
+- name: Plains
   weight: 1.0
   avg_copies: 2.0
-- name: Plains
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.0
 - name: Meticulous Archive
@@ -75,10 +75,10 @@ top_cards:
 - name: Teferi, Hero of Dominaria
   weight: 0.6364
   avg_copies: 1.29
-- name: Hall of Storm Giants
+- name: Scalding Tarn
   weight: 0.6364
   avg_copies: 1.0
-- name: Scalding Tarn
+- name: Hall of Storm Giants
   weight: 0.6364
   avg_copies: 1.0
 - name: Damping Sphere
@@ -90,13 +90,13 @@ top_cards:
 - name: Beza, the Bounding Spring
   weight: 0.5455
   avg_copies: 1.83
-- name: Undercity Sewers
+- name: Misty Rainforest
   weight: 0.5455
   avg_copies: 1.0
 - name: Polluted Delta
   weight: 0.5455
   avg_copies: 1.0
-- name: Misty Rainforest
+- name: Undercity Sewers
   weight: 0.5455
   avg_copies: 1.0
 - name: Brainsurge
@@ -117,22 +117,22 @@ top_cards:
 - name: Day's Undoing
   weight: 0.3636
   avg_copies: 2.0
-- name: Lórien Revealed
+- name: Path to Exile
   weight: 0.3636
   avg_copies: 2.0
-- name: Path to Exile
+- name: Lórien Revealed
   weight: 0.3636
   avg_copies: 2.0
 - name: Logic Knot
   weight: 0.3636
   avg_copies: 1.25
-- name: Get Lost
-  weight: 0.3636
-  avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.3636
   avg_copies: 1.0
 - name: Geier Reach Sanitarium
+  weight: 0.3636
+  avg_copies: 1.0
+- name: Get Lost
   weight: 0.3636
   avg_copies: 1.0
 - name: Tune the Narrative
@@ -147,19 +147,19 @@ top_cards:
 - name: Dress Down
   weight: 0.1818
   avg_copies: 1.5
-- name: Steam Vents
-  weight: 0.1818
-  avg_copies: 1.0
 - name: Arid Mesa
   weight: 0.1818
   avg_copies: 1.0
-- name: Terminus
-  weight: 0.0909
-  avg_copies: 2.0
+- name: Steam Vents
+  weight: 0.1818
+  avg_copies: 1.0
 - name: No More Lies
   weight: 0.0909
   avg_copies: 2.0
 - name: Fatal Push
+  weight: 0.0909
+  avg_copies: 2.0
+- name: Terminus
   weight: 0.0909
   avg_copies: 2.0
 - name: Harbinger of the Seas
@@ -171,16 +171,16 @@ top_cards:
 - name: Agna Qel'a
   weight: 0.0909
   avg_copies: 1.0
-- name: Dovin's Veto
+- name: Memory Deluge
   weight: 0.0909
   avg_copies: 1.0
-- name: Kaito, Bane of Nightmares
+- name: Dovin's Veto
   weight: 0.0909
   avg_copies: 1.0
 - name: Rest in Peace
   weight: 0.0909
   avg_copies: 1.0
-- name: Memory Deluge
+- name: Kaito, Bane of Nightmares
   weight: 0.0909
   avg_copies: 1.0
 ---

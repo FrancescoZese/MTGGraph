@@ -10,16 +10,16 @@ top_cards:
 - name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 4.0
-- name: Ocelot Pride
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flooded Strand
-  weight: 1.0
-  avg_copies: 4.0
 - name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Arid Mesa
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ocelot Pride
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
@@ -52,7 +52,7 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.37
-- name: Mountain
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Meticulous Archive
@@ -61,7 +61,7 @@ top_cards:
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
 - name: Thraben Charm
@@ -88,10 +88,10 @@ top_cards:
 - name: Voice of Victory
   weight: 0.4737
   avg_copies: 3.56
-- name: Dalkovan Encampment
+- name: Flusterstorm
   weight: 0.4211
   avg_copies: 2.0
-- name: Flusterstorm
+- name: Dalkovan Encampment
   weight: 0.4211
   avg_copies: 2.0
 - name: Containment Priest
@@ -121,10 +121,10 @@ top_cards:
 - name: Galvanic Discharge
   weight: 0.3158
   avg_copies: 2.0
-- name: Lavinia, Azorius Renegade
+- name: Fable of the Mirror-Breaker
   weight: 0.3158
   avg_copies: 1.83
-- name: Fable of the Mirror-Breaker
+- name: Lavinia, Azorius Renegade
   weight: 0.3158
   avg_copies: 1.83
 - name: High Noon
@@ -172,10 +172,10 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.0526
   avg_copies: 1.0
-- name: Detect Intrusion
+- name: March of Otherworldly Light
   weight: 0.0526
   avg_copies: 1.0
-- name: March of Otherworldly Light
+- name: Detect Intrusion
   weight: 0.0526
   avg_copies: 1.0
 ---

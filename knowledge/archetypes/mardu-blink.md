@@ -49,10 +49,10 @@ top_cards:
 - name: Phlage, Titan of Fire's Fury
   weight: 0.9583
   avg_copies: 3.09
-- name: Wear
+- name: Arena of Glory
   weight: 0.9583
   avg_copies: 2.0
-- name: Arena of Glory
+- name: Wear
   weight: 0.9583
   avg_copies: 2.0
 - name: Shadowy Backstreet
@@ -133,9 +133,6 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.1667
   avg_copies: 2.0
-- name: Containment Priest
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Snow-Covered Swamp
   weight: 0.1667
   avg_copies: 1.0
@@ -145,13 +142,16 @@ top_cards:
 - name: Swamp
   weight: 0.1667
   avg_copies: 1.0
+- name: Containment Priest
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Clarion Conqueror
   weight: 0.125
   avg_copies: 2.0
-- name: Nihil Spellbomb
+- name: March of Otherworldly Light
   weight: 0.125
   avg_copies: 1.67
-- name: March of Otherworldly Light
+- name: Nihil Spellbomb
   weight: 0.125
   avg_copies: 1.67
 - name: Elesh Norn, Mother of Machines
@@ -160,6 +160,9 @@ top_cards:
 - name: Unholy Heat
   weight: 0.0417
   avg_copies: 3.0
+- name: Graveyard Trespasser
+  weight: 0.0417
+  avg_copies: 2.0
 - name: Seasoned Pyromancer
   weight: 0.0417
   avg_copies: 2.0
@@ -169,16 +172,13 @@ top_cards:
 - name: Magus of the Moon
   weight: 0.0417
   avg_copies: 2.0
-- name: Graveyard Trespasser
-  weight: 0.0417
-  avg_copies: 2.0
-- name: Pest Control
-  weight: 0.0417
-  avg_copies: 1.0
 - name: Faerie Macabre
   weight: 0.0417
   avg_copies: 1.0
 - name: Emptiness
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Pest Control
   weight: 0.0417
   avg_copies: 1.0
 ---

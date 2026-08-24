@@ -16,10 +16,10 @@ top_cards:
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 3.8
-- name: Wrenn and Six
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 3.4
-- name: Thoughtseize
+- name: Wrenn and Six
   weight: 1.0
   avg_copies: 3.4
 - name: Orcish Bowmasters
@@ -43,25 +43,25 @@ top_cards:
 - name: Overgrown Tomb
   weight: 1.0
   avg_copies: 1.2
-- name: Mountain
-  weight: 1.0
-  avg_copies: 1.0
-- name: Shadowspear
+- name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
-- name: Stomping Ground
-  weight: 1.0
-  avg_copies: 1.0
-- name: Haywire Mite
-  weight: 1.0
-  avg_copies: 1.0
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
+- name: Shadowspear
+  weight: 1.0
+  avg_copies: 1.0
 - name: Forest
+  weight: 1.0
+  avg_copies: 1.0
+- name: Mountain
+  weight: 1.0
+  avg_copies: 1.0
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
 - name: Nethergoyf
@@ -94,10 +94,10 @@ top_cards:
 - name: Inquisition of Kozilek
   weight: 0.6
   avg_copies: 2.0
-- name: Pyroclasm
+- name: Obsidian Charmaw
   weight: 0.6
   avg_copies: 2.0
-- name: Obsidian Charmaw
+- name: Pyroclasm
   weight: 0.6
   avg_copies: 2.0
 - name: Unholy Heat
@@ -121,25 +121,22 @@ top_cards:
 - name: End of the Hunt
   weight: 0.4
   avg_copies: 1.25
-- name: Meltdown
+- name: Skateboard
   weight: 0.4
   avg_copies: 1.0
 - name: Tarfire
   weight: 0.4
   avg_copies: 1.0
-- name: Tourach, Dread Cantor
+- name: Meltdown
   weight: 0.4
   avg_copies: 1.0
-- name: Skateboard
+- name: Tourach, Dread Cantor
   weight: 0.4
   avg_copies: 1.0
 - name: Keen-Eyed Curator
   weight: 0.2
   avg_copies: 3.0
 - name: card:the-end
-  weight: 0.2
-  avg_copies: 2.0
-- name: Culling Ritual
   weight: 0.2
   avg_copies: 2.0
 - name: Break the Ice
@@ -151,64 +148,67 @@ top_cards:
 - name: Ancient Grudge
   weight: 0.2
   avg_copies: 2.0
-- name: Seasoned Pyromancer
+- name: Culling Ritual
   weight: 0.2
-  avg_copies: 1.0
-- name: Professor Dellian Fel
-  weight: 0.2
-  avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.2
-  avg_copies: 1.0
-- name: Fear of Missing Out
-  weight: 0.2
-  avg_copies: 1.0
-- name: Toxic Deluge
-  weight: 0.2
-  avg_copies: 1.0
-- name: Kroxa, Titan of Death's Hunger
-  weight: 0.2
-  avg_copies: 1.0
-- name: Assassin's Trophy
-  weight: 0.2
-  avg_copies: 1.0
-- name: Fire Magic
-  weight: 0.2
-  avg_copies: 1.0
-- name: Pick Your Poison
-  weight: 0.2
-  avg_copies: 1.0
-- name: Emperor of Bones
+  avg_copies: 2.0
+- name: Graveyard Trespasser
   weight: 0.2
   avg_copies: 1.0
 - name: Ghost Vacuum
   weight: 0.2
   avg_copies: 1.0
-- name: Brotherhood's End
+- name: Fear of Missing Out
   weight: 0.2
   avg_copies: 1.0
-- name: Arena of Glory
+- name: Surgical Extraction
+  weight: 0.2
+  avg_copies: 1.0
+- name: Fire Magic
   weight: 0.2
   avg_copies: 1.0
 - name: Grist, the Hunger Tide
   weight: 0.2
   avg_copies: 1.0
-- name: Liliana of the Veil
+- name: Professor Dellian Fel
+  weight: 0.2
+  avg_copies: 1.0
+- name: Seasoned Pyromancer
+  weight: 0.2
+  avg_copies: 1.0
+- name: Kroxa, Titan of Death's Hunger
+  weight: 0.2
+  avg_copies: 1.0
+- name: Arena of Glory
   weight: 0.2
   avg_copies: 1.0
 - name: Molten Rain
-  weight: 0.2
-  avg_copies: 1.0
-- name: Graveyard Trespasser
-  weight: 0.2
-  avg_copies: 1.0
-- name: Sheoldred's Edict
   weight: 0.2
   avg_copies: 1.0
 - name: Questing Druid
   weight: 0.2
   avg_copies: 1.0
 - name: Witherbloom Command
+  weight: 0.2
+  avg_copies: 1.0
+- name: Toxic Deluge
+  weight: 0.2
+  avg_copies: 1.0
+- name: Pick Your Poison
+  weight: 0.2
+  avg_copies: 1.0
+- name: Assassin's Trophy
+  weight: 0.2
+  avg_copies: 1.0
+- name: Liliana of the Veil
+  weight: 0.2
+  avg_copies: 1.0
+- name: Brotherhood's End
+  weight: 0.2
+  avg_copies: 1.0
+- name: Sheoldred's Edict
+  weight: 0.2
+  avg_copies: 1.0
+- name: Emperor of Bones
   weight: 0.2
   avg_copies: 1.0
 ---

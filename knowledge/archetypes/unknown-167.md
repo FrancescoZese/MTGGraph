@@ -132,13 +132,13 @@ top_cards:
 - name: Strix Serenade
   weight: 0.3333
   avg_copies: 1.67
+- name: Hedge Maze
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Shadowspear
   weight: 0.3333
   avg_copies: 1.0
 - name: Dusk Rose Reliquary
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Hedge Maze
   weight: 0.3333
   avg_copies: 1.0
 - name: Teferi, Time Raveler
@@ -147,10 +147,10 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 0.2222
   avg_copies: 1.0
-- name: Quantum Riddler
+- name: Six
   weight: 0.2222
   avg_copies: 1.0
-- name: Six
+- name: Quantum Riddler
   weight: 0.2222
   avg_copies: 1.0
 - name: Orim's Chant
@@ -177,10 +177,7 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.1111
   avg_copies: 1.5
-- name: Unable to Scream
-  weight: 0.1111
-  avg_copies: 1.0
-- name: card:urza-lord-high-artificer
+- name: Tezzeret, Cruel Captain
   weight: 0.1111
   avg_copies: 1.0
 - name: Grafdigger's Cage
@@ -189,31 +186,34 @@ top_cards:
 - name: Gran-Gran
   weight: 0.1111
   avg_copies: 1.0
-- name: card:scrabbling-claws
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Tezzeret, Cruel Captain
-  weight: 0.1111
-  avg_copies: 1.0
-- name: card:bruce-banner
-  weight: 0.1111
-  avg_copies: 1.0
 - name: Plains
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Spell Snare
   weight: 0.1111
   avg_copies: 1.0
 - name: Krang, Master Mind
   weight: 0.1111
   avg_copies: 1.0
+- name: card:bruce-banner
+  weight: 0.1111
+  avg_copies: 1.0
+- name: card:urza-lord-high-artificer
+  weight: 0.1111
+  avg_copies: 1.0
+- name: card:scrabbling-claws
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Unable to Scream
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Spell Snare
+  weight: 0.1111
+  avg_copies: 1.0
 - name: Kappa Cannoneer
   weight: 0.0556
   avg_copies: 4.0
-- name: Test of Talents
+- name: Sacred Ground
   weight: 0.0556
   avg_copies: 3.0
-- name: Sacred Ground
+- name: Test of Talents
   weight: 0.0556
   avg_copies: 3.0
 - name: Glimmervoid
@@ -222,16 +222,16 @@ top_cards:
 - name: Erode
   weight: 0.0556
   avg_copies: 2.0
-- name: Thief of Existence
+- name: Invasive Surgery
   weight: 0.0556
   avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.0556
   avg_copies: 1.0
-- name: Invasive Surgery
+- name: Does Machines
   weight: 0.0556
   avg_copies: 1.0
-- name: Does Machines
+- name: Thief of Existence
   weight: 0.0556
   avg_copies: 1.0
 ---
