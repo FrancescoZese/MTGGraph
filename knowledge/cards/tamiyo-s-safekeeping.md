@@ -7,13 +7,13 @@ name: Tamiyo's Safekeeping
 scryfall_id: fd4b7ee2-de65-4288-872d-486065a4f226
 set: neo
 type: Instant
-meta_presence: 0.0006
+meta_presence: 0.0005
 archetypes:
   hardened-scales:
     weight: 0.4
     avg_copies: 1.67
   cosmogoyf-fling:
-    weight: 0.0179
+    weight: 0.0172
     avg_copies: 1.0
   unknown-196:
     weight: 1.0

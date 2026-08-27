@@ -7,10 +7,10 @@ name: Eidolon of the Great Revel
 scryfall_id: 183ef738-0559-49ca-85b4-e6836521f203
 set: a25
 type: Enchantment Creature — Spirit
-meta_presence: 0.0057
+meta_presence: 0.0055
 archetypes:
   burn:
-    weight: 0.8462
+    weight: 0.825
     avg_copies: 3.56
   unknown-71:
     weight: 1.0

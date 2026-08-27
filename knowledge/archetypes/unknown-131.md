@@ -7,7 +7,10 @@ name: 'Unknown #131'
 meta_share: 0.0012
 list_count: 9
 top_cards:
-- name: Solitude
+- name: Quantum Riddler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Guide of Souls
@@ -16,16 +19,13 @@ top_cards:
 - name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Quantum Riddler
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -46,22 +46,22 @@ top_cards:
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.0
-- name: Meticulous Archive
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.67
 - name: Plains
   weight: 1.0
   avg_copies: 1.67
-- name: Hallowed Fountain
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.67
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.22
-- name: Watery Grave
+- name: Island
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
 - name: Shadowy Backstreet
@@ -106,10 +106,10 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.2222
   avg_copies: 2.5
-- name: Ashiok, Dream Render
+- name: High Noon
   weight: 0.2222
   avg_copies: 2.0
-- name: High Noon
+- name: Ashiok, Dream Render
   weight: 0.2222
   avg_copies: 2.0
 - name: Swamp
@@ -121,25 +121,25 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.1111
   avg_copies: 3.0
-- name: Voice of Victory
+- name: Containment Priest
   weight: 0.1111
   avg_copies: 2.0
-- name: Containment Priest
+- name: Voice of Victory
   weight: 0.1111
   avg_copies: 2.0
 - name: Ghost Vacuum
   weight: 0.1111
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
-  weight: 0.1111
-  avg_copies: 1.0
 - name: March of Otherworldly Light
   weight: 0.1111
   avg_copies: 1.0
-- name: Clarion Conqueror
+- name: Floodfarm Verge
   weight: 0.1111
   avg_copies: 1.0
-- name: Floodfarm Verge
+- name: Elesh Norn, Mother of Machines
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Clarion Conqueror
   weight: 0.1111
   avg_copies: 1.0
 ---

@@ -9,10 +9,10 @@ type: Land
 meta_presence: 0.0026
 archetypes:
   goryo:
-    weight: 0.0025
+    weight: 0.0024
     avg_copies: 1.0
   goryo2:
-    weight: 0.2292
+    weight: 0.2157
     avg_copies: 1.09
   unknown-5:
     weight: 0.0909
@@ -21,7 +21,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.25
   unknown-47:
-    weight: 0.0063
+    weight: 0.0061
     avg_copies: 1.0
   unknown-240:
     weight: 1.0

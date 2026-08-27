@@ -10,6 +10,6 @@ type: Creature — Elf Warrior
 meta_presence: 0.0151
 archetypes:
   neoform-combo:
-    weight: 0.9909
+    weight: 0.9912
     avg_copies: 3.99
 ---

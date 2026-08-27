@@ -10,7 +10,7 @@ meta_presence: 0.0032
 archetypes:
   indomitable-creativity:
     weight: 1.0
-    avg_copies: 3.27
+    avg_copies: 3.25
   scapeshift-combo:
     weight: 0.1667
     avg_copies: 1.0

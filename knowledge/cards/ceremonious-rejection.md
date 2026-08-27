@@ -7,13 +7,13 @@ name: Ceremonious Rejection
 scryfall_id: 08c5ed8e-4804-4042-8a1d-ad24c6846816
 set: kld
 type: Instant
-meta_presence: 0.0006
+meta_presence: 0.0005
 archetypes:
   mono-blue-belcher:
-    weight: 0.0109
+    weight: 0.0105
     avg_copies: 2.0
   goryo:
-    weight: 0.0025
+    weight: 0.0024
     avg_copies: 2.0
   kethis-combo:
     weight: 0.125

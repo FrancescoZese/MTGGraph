@@ -3,10 +3,10 @@ colors:
 - B
 - G
 name: 'Unknown #52'
-meta_share: 0.0017
+meta_share: 0.0016
 list_count: 12
 top_cards:
-- name: Malevolent Rumble
+- name: Phyrexian Tower
   weight: 1.0
   avg_copies: 4.0
 - name: Shambling Ghast
@@ -15,22 +15,22 @@ top_cards:
 - name: Warren Soultrader
   weight: 1.0
   avg_copies: 4.0
-- name: Verdant Catacombs
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 4.0
-- name: Phyrexian Tower
-  weight: 1.0
-  avg_copies: 4.0
-- name: Orcish Bowmasters
+- name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
 - name: Marionette Apprentice
   weight: 1.0
   avg_copies: 4.0
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 4.0
 - name: Phoenix Fleet Airship
+  weight: 1.0
+  avg_copies: 4.0
+- name: Verdant Catacombs
+  weight: 1.0
+  avg_copies: 4.0
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
 - name: Gravecrawler
@@ -39,10 +39,10 @@ top_cards:
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 3.83
-- name: Flare of Malice
+- name: Culling Ritual
   weight: 1.0
   avg_copies: 3.0
-- name: Culling Ritual
+- name: Flare of Malice
   weight: 1.0
   avg_copies: 3.0
 - name: Fatal Push
@@ -69,6 +69,9 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 1.08
+- name: Sephiroth, Fabled SOLDIER
+  weight: 1.0
+  avg_copies: 1.0
 - name: Shatter Assumptions
   weight: 1.0
   avg_copies: 1.0
@@ -76,9 +79,6 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Spymaster's Vault
-  weight: 1.0
-  avg_copies: 1.0
-- name: Sephiroth, Fabled SOLDIER
   weight: 1.0
   avg_copies: 1.0
 - name: Break the Ice
@@ -96,10 +96,10 @@ top_cards:
 - name: Graveyard Trespasser
   weight: 0.0833
   avg_copies: 3.0
-- name: Cling to Dust
+- name: Chomping Changeling
   weight: 0.0833
   avg_copies: 1.0
-- name: Chomping Changeling
+- name: Cling to Dust
   weight: 0.0833
   avg_copies: 1.0
 ---

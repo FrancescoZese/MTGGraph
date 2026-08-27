@@ -11,7 +11,7 @@ type: Instant // Sorcery
 meta_presence: 0.0041
 archetypes:
   neoform-combo:
-    weight: 0.2364
+    weight: 0.2301
     avg_copies: 1.08
   unknown-65:
     weight: 0.1379

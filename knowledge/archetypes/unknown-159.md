@@ -6,61 +6,61 @@ name: 'Unknown #159'
 meta_share: 0.0001
 list_count: 1
 top_cards:
-- name: Flooded Strand
-  weight: 1.0
-  avg_copies: 4.0
-- name: Puresteel Paladin
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:kellan-the-fae-blooded
-  weight: 1.0
-  avg_copies: 4.0
-- name: Leyline Axe
-  weight: 1.0
-  avg_copies: 4.0
-- name: Cori-Steel Cutter
+- name: Colossus Hammer
   weight: 1.0
   avg_copies: 4.0
 - name: Windswept Heath
   weight: 1.0
   avg_copies: 4.0
-- name: Colossus Hammer
+- name: Steelshaper's Gift
   weight: 1.0
   avg_copies: 4.0
-- name: card:super-soldier-serum
+- name: Puresteel Paladin
   weight: 1.0
   avg_copies: 4.0
-- name: Mox Opal
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Ornithopter
   weight: 1.0
   avg_copies: 4.0
-- name: Steelshaper's Gift
+- name: Leyline Axe
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:kellan-the-fae-blooded
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
-- name: Inkmoth Nexus
+- name: Mox Opal
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:super-soldier-serum
+  weight: 1.0
+  avg_copies: 4.0
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 3.0
 - name: Plains
   weight: 1.0
   avg_copies: 3.0
-- name: Vexing Bauble
+- name: Inkmoth Nexus
   weight: 1.0
   avg_copies: 3.0
-- name: Lightning Bolt
+- name: Surge of Salvation
   weight: 1.0
   avg_copies: 2.0
 - name: Forge Anew
   weight: 1.0
   avg_copies: 2.0
-- name: Surge of Salvation
+- name: Wear
   weight: 1.0
   avg_copies: 2.0
-- name: Wear
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 2.0
 - name: Sacred Foundry
@@ -69,19 +69,19 @@ top_cards:
 - name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Shadowspear
   weight: 1.0
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Tormod's Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Erode
   weight: 1.0
   avg_copies: 1.0
-- name: Tormod's Crypt
+- name: Grafdigger's Cage
   weight: 1.0
   avg_copies: 1.0
 - name: Paradise Mantle

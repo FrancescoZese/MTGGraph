@@ -6,13 +6,13 @@ name: Breeding Pool
 scryfall_id: 3c750d5a-f743-41ff-b5ba-02025ca0bec2
 set: eoe
 type: Land — Forest Island
-meta_presence: 0.121
+meta_presence: 0.1209
 archetypes:
   jeskai-energy:
     weight: 0.0075
     avg_copies: 1.0
   goryo:
-    weight: 0.5312
+    weight: 0.529
     avg_copies: 1.0
   azorius-control:
     weight: 0.1589
@@ -24,19 +24,19 @@ archetypes:
     weight: 0.0018
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0405
+    weight: 0.0397
     avg_copies: 1.0
   reanimator:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.9909
-    avg_copies: 1.06
+    weight: 0.9912
+    avg_copies: 1.07
   kethis-combo:
     weight: 0.875
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0833
+    weight: 0.0821
     avg_copies: 1.0
   simic-ritual:
     weight: 0.9897
@@ -61,9 +61,9 @@ archetypes:
     avg_copies: 1.0
   unknown-6:
     weight: 1.0
-    avg_copies: 1.71
+    avg_copies: 1.67
   unknown-15:
-    weight: 0.85
+    weight: 0.8636
     avg_copies: 1.0
   unknown-25:
     weight: 1.0
@@ -72,7 +72,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0063
+    weight: 0.0061
     avg_copies: 1.0
   unknown-54:
     weight: 0.6667
@@ -135,8 +135,8 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   unknown-167:
-    weight: 0.8333
-    avg_copies: 1.27
+    weight: 0.8421
+    avg_copies: 1.25
   unknown-171:
     weight: 1.0
     avg_copies: 2.0
@@ -144,7 +144,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-194:
-    weight: 0.05
+    weight: 0.04
     avg_copies: 1.0
   unknown-200:
     weight: 1.0
@@ -153,7 +153,7 @@ archetypes:
     weight: 0.7333
     avg_copies: 1.0
   unknown-213:
-    weight: 0.2727
+    weight: 0.3077
     avg_copies: 1.0
   unknown-216:
     weight: 1.0
@@ -177,6 +177,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-250:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-263:
     weight: 1.0
     avg_copies: 1.0
 ---

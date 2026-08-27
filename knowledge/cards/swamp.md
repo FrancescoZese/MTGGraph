@@ -6,16 +6,16 @@ name: Swamp
 scryfall_id: 51fe930f-2b5a-4b1e-9007-6ee74fb44715
 set: sos
 type: Basic Land — Swamp
-meta_presence: 0.2778
+meta_presence: 0.2782
 archetypes:
   dimir-control:
     weight: 0.9877
     avg_copies: 1.02
   eldrazi-tron:
-    weight: 0.7818
+    weight: 0.7838
     avg_copies: 1.07
   goryo:
-    weight: 0.99
+    weight: 0.9903
     avg_copies: 1.01
   necrodominance:
     weight: 1.0
@@ -24,8 +24,8 @@ archetypes:
     weight: 0.5256
     avg_copies: 1.0
   mill:
-    weight: 0.8333
-    avg_copies: 1.13
+    weight: 0.8378
+    avg_copies: 1.12
   reanimator:
     weight: 1.0
     avg_copies: 1.7
@@ -42,16 +42,16 @@ archetypes:
     weight: 0.0206
     avg_copies: 1.0
   esper-blink:
-    weight: 0.988
+    weight: 0.9888
     avg_copies: 1.01
   samwise-combo:
     weight: 0.1408
     avg_copies: 1.0
   indomitable-creativity:
-    weight: 0.0667
+    weight: 0.0625
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0094
+    weight: 0.0093
     avg_copies: 1.0
   orzhov-blink:
     weight: 1.0
@@ -72,7 +72,7 @@ archetypes:
     weight: 0.9474
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.9107
+    weight: 0.9138
     avg_copies: 1.0
   esper-midrange:
     weight: 1.0
@@ -118,7 +118,7 @@ archetypes:
     avg_copies: 1.33
   unknown-24:
     weight: 1.0
-    avg_copies: 1.12
+    avg_copies: 1.11
   unknown-30:
     weight: 1.0
     avg_copies: 1.57
@@ -153,7 +153,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.62
   unknown-47:
-    weight: 0.975
+    weight: 0.9756
     avg_copies: 1.03
   unknown-51:
     weight: 1.0
@@ -216,7 +216,7 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   unknown-101:
-    weight: 0.8
+    weight: 0.7692
     avg_copies: 1.0
   unknown-105:
     weight: 1.0
@@ -247,7 +247,7 @@ archetypes:
     avg_copies: 4.0
   unknown-125:
     weight: 1.0
-    avg_copies: 1.18
+    avg_copies: 1.17
   unknown-127:
     weight: 0.8333
     avg_copies: 1.0
@@ -345,6 +345,12 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-243:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-266:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-267:
     weight: 1.0
     avg_copies: 1.0
 ---

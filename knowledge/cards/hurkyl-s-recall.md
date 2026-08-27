@@ -7,16 +7,16 @@ name: Hurkyl's Recall
 scryfall_id: 73edeaaa-6a87-4cf1-b013-bab9a7bb94d9
 set: mm2
 type: Instant
-meta_presence: 0.0304
+meta_presence: 0.0299
 archetypes:
   dimir-control:
     weight: 0.0123
     avg_copies: 2.0
   mono-blue-belcher:
-    weight: 0.3913
-    avg_copies: 1.58
+    weight: 0.3895
+    avg_copies: 1.59
   amulet-titan:
-    weight: 0.0058
+    weight: 0.0057
     avg_copies: 3.0
   necrodominance:
     weight: 0.0222
@@ -25,13 +25,13 @@ archetypes:
     weight: 0.0093
     avg_copies: 1.0
   affinity:
-    weight: 0.2269
+    weight: 0.2253
     avg_copies: 1.1
   domain-zoo:
-    weight: 0.0068
+    weight: 0.0066
     avg_copies: 2.0
   mill:
-    weight: 0.0278
+    weight: 0.027
     avg_copies: 2.0
   mono-blue-tron:
     weight: 0.3846
@@ -40,10 +40,10 @@ archetypes:
     weight: 0.0206
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0078
+    weight: 0.0074
     avg_copies: 1.67
   azorius-blink:
-    weight: 0.0149
+    weight: 0.0145
     avg_copies: 1.0
   izzet-wizards:
     weight: 0.0769
@@ -55,13 +55,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-6:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 2.0
   unknown-10:
     weight: 0.3333
     avg_copies: 1.0
   unknown-15:
-    weight: 0.15
+    weight: 0.1364
     avg_copies: 1.33
   unknown-20:
     weight: 0.6667
@@ -70,7 +70,7 @@ archetypes:
     weight: 0.0833
     avg_copies: 2.0
   unknown-49:
-    weight: 0.4444
+    weight: 0.4
     avg_copies: 1.5
   unknown-53:
     weight: 0.5
@@ -91,7 +91,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-122:
-    weight: 0.0357
+    weight: 0.0333
     avg_copies: 1.0
   unknown-139:
     weight: 0.3333

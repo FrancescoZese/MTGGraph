@@ -10,19 +10,19 @@ type: Sorcery
 meta_presence: 0.0359
 archetypes:
   ruby-storm:
-    weight: 0.0039
+    weight: 0.0038
     avg_copies: 1.0
   goryo:
-    weight: 0.005
+    weight: 0.0048
     avg_copies: 1.33
   necrodominance:
     weight: 0.6
     avg_copies: 2.33
   esper-blink:
-    weight: 0.006
+    weight: 0.0056
     avg_copies: 1.0
   indomitable-creativity:
-    weight: 0.0667
+    weight: 0.0625
     avg_copies: 1.5
   jund-saga:
     weight: 0.6
@@ -34,16 +34,16 @@ archetypes:
     weight: 0.0526
     avg_copies: 2.0
   cosmogoyf-fling:
-    weight: 0.5714
-    avg_copies: 3.69
+    weight: 0.5862
+    avg_copies: 3.7
   goryo1:
     weight: 0.25
     avg_copies: 1.69
   goryo5:
-    weight: 0.375
-    avg_copies: 1.9
+    weight: 0.3889
+    avg_copies: 1.88
   goryo2:
-    weight: 0.6667
+    weight: 0.6471
     avg_copies: 1.88
   devoted-combo:
     weight: 1.0
@@ -73,7 +73,7 @@ archetypes:
     weight: 0.5625
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0063
+    weight: 0.0061
     avg_copies: 1.0
   unknown-69:
     weight: 0.8889

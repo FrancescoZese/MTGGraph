@@ -42,10 +42,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 2.09
-- name: Plains
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.0
-- name: Hallowed Fountain
+- name: Plains
   weight: 1.0
   avg_copies: 2.0
 - name: Meticulous Archive
@@ -84,28 +84,28 @@ top_cards:
 - name: Damping Sphere
   weight: 0.5455
   avg_copies: 2.0
-- name: Nihil Spellbomb
+- name: Beza, the Bounding Spring
   weight: 0.5455
   avg_copies: 1.83
-- name: Beza, the Bounding Spring
+- name: Nihil Spellbomb
   weight: 0.5455
   avg_copies: 1.83
 - name: Misty Rainforest
   weight: 0.5455
   avg_copies: 1.0
-- name: Polluted Delta
+- name: Undercity Sewers
   weight: 0.5455
   avg_copies: 1.0
-- name: Undercity Sewers
+- name: Polluted Delta
   weight: 0.5455
   avg_copies: 1.0
 - name: Brainsurge
   weight: 0.4545
   avg_copies: 2.8
-- name: Surgical Extraction
+- name: High Noon
   weight: 0.4545
   avg_copies: 1.2
-- name: High Noon
+- name: Surgical Extraction
   weight: 0.4545
   avg_copies: 1.2
 - name: Otawara, Soaring City
@@ -114,22 +114,22 @@ top_cards:
 - name: Narset, Parter of Veils
   weight: 0.3636
   avg_copies: 4.0
-- name: Day's Undoing
+- name: Lórien Revealed
   weight: 0.3636
   avg_copies: 2.0
 - name: Path to Exile
   weight: 0.3636
   avg_copies: 2.0
-- name: Lórien Revealed
+- name: Day's Undoing
   weight: 0.3636
   avg_copies: 2.0
 - name: Logic Knot
   weight: 0.3636
   avg_copies: 1.25
-- name: Ashiok, Dream Render
+- name: Geier Reach Sanitarium
   weight: 0.3636
   avg_copies: 1.0
-- name: Geier Reach Sanitarium
+- name: Ashiok, Dream Render
   weight: 0.3636
   avg_copies: 1.0
 - name: Get Lost
@@ -165,22 +165,22 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 0.0909
   avg_copies: 2.0
-- name: Thundering Falls
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Agna Qel'a
-  weight: 0.0909
-  avg_copies: 1.0
 - name: Memory Deluge
   weight: 0.0909
   avg_copies: 1.0
-- name: Dovin's Veto
+- name: Kaito, Bane of Nightmares
   weight: 0.0909
   avg_copies: 1.0
 - name: Rest in Peace
   weight: 0.0909
   avg_copies: 1.0
-- name: Kaito, Bane of Nightmares
+- name: Agna Qel'a
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Dovin's Veto
   weight: 0.0909
   avg_copies: 1.0
 ---

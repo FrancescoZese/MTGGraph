@@ -6,7 +6,7 @@ name: Urza's Power Plant
 scryfall_id: b0449a19-37f7-4169-9e32-928db5ec76fe
 set: cmm
 type: Land — Urza's Power-Plant
-meta_presence: 0.0497
+meta_presence: 0.0492
 archetypes:
   eldrazi-tron:
     weight: 0.997
@@ -21,6 +21,9 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-219:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-265:
     weight: 1.0
     avg_copies: 4.0
 ---

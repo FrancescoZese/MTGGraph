@@ -10,13 +10,13 @@ type: Creature — Spirit Knight
 meta_presence: 0.0449
 archetypes:
   boros-energy:
-    weight: 0.0039
+    weight: 0.0038
     avg_copies: 2.0
   jeskai-energy:
     weight: 0.0075
     avg_copies: 2.0
   mill:
-    weight: 0.0278
+    weight: 0.027
     avg_copies: 4.0
   reanimator:
     weight: 0.037
@@ -28,19 +28,19 @@ archetypes:
     weight: 0.7376
     avg_copies: 3.83
   esper-blink:
-    weight: 0.4096
-    avg_copies: 1.91
+    weight: 0.4022
+    avg_copies: 1.87
   orzhov-blink:
     weight: 0.5556
     avg_copies: 2.59
   azorius-blink:
-    weight: 0.7164
-    avg_copies: 3.49
+    weight: 0.7101
+    avg_copies: 3.5
   bant-ritual:
     weight: 1.0
     avg_copies: 2.0
   goryo2:
-    weight: 0.4167
+    weight: 0.4314
     avg_copies: 2.45
   unknown-3:
     weight: 0.5
@@ -88,10 +88,10 @@ archetypes:
     weight: 0.2
     avg_copies: 2.0
   unknown-149:
-    weight: 0.3684
+    weight: 0.3043
     avg_copies: 3.14
   unknown-160:
-    weight: 0.0114
+    weight: 0.0109
     avg_copies: 4.0
   unknown-175:
     weight: 1.0

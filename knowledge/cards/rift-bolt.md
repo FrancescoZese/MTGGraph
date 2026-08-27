@@ -7,11 +7,11 @@ name: Rift Bolt
 scryfall_id: 4ccd0ada-92b2-48f3-b5ae-96346fc138b6
 set: 2x2
 type: Sorcery
-meta_presence: 0.003
+meta_presence: 0.0031
 archetypes:
   burn:
-    weight: 0.4103
-    avg_copies: 3.81
+    weight: 0.425
+    avg_copies: 3.82
   unknown-178:
     weight: 1.0
     avg_copies: 4.0

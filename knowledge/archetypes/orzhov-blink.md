@@ -3,7 +3,7 @@ colors:
 - W
 - B
 name: Orzhov Blink
-meta_share: 0.0025
+meta_share: 0.0024
 list_count: 18
 top_cards:
 - name: Overlord of the Balemurk
@@ -117,22 +117,19 @@ top_cards:
 - name: Grafdigger's Cage
   weight: 0.2222
   avg_copies: 1.25
-- name: March of Otherworldly Light
+- name: Erode
   weight: 0.2222
   avg_copies: 1.2
-- name: Erode
+- name: March of Otherworldly Light
   weight: 0.2222
   avg_copies: 1.2
 - name: Elesh Norn, Mother of Machines
   weight: 0.2222
   avg_copies: 1.0
-- name: card:cloak-and-dagger-entwined
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Plague Engineer
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Sacred Foundry
+  weight: 0.1667
+  avg_copies: 1.0
+- name: card:cloak-and-dagger-entwined
   weight: 0.1667
   avg_copies: 1.0
 - name: Surgical Extraction
@@ -141,13 +138,16 @@ top_cards:
 - name: Prismatic Vista
   weight: 0.1667
   avg_copies: 1.0
+- name: Plague Engineer
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Sanctifier en-Vec
   weight: 0.1111
   avg_copies: 2.0
-- name: Polluted Delta
+- name: Windswept Heath
   weight: 0.1111
   avg_copies: 1.5
-- name: Windswept Heath
+- name: Polluted Delta
   weight: 0.1111
   avg_copies: 1.5
 - name: Orim's Chant
@@ -156,58 +156,61 @@ top_cards:
 - name: Consign to Memory
   weight: 0.0556
   avg_copies: 4.0
-- name: Force of Despair
-  weight: 0.0556
-  avg_copies: 3.0
 - name: Flagstones of Trokair
   weight: 0.0556
   avg_copies: 3.0
 - name: Deafening Silence
   weight: 0.0556
   avg_copies: 3.0
+- name: Force of Despair
+  weight: 0.0556
+  avg_copies: 3.0
+- name: Rest in Peace
+  weight: 0.0556
+  avg_copies: 2.0
 - name: Troll of Khazad-dûm
   weight: 0.0556
   avg_copies: 2.0
 - name: Duress
   weight: 0.0556
   avg_copies: 2.0
-- name: Bloodstained Mire
-  weight: 0.0556
-  avg_copies: 2.0
-- name: Rest in Peace
-  weight: 0.0556
-  avg_copies: 2.0
 - name: Illness in the Ranks
+  weight: 0.0556
+  avg_copies: 2.0
+- name: Bloodstained Mire
   weight: 0.0556
   avg_copies: 2.0
 - name: End of the Hunt
   weight: 0.0556
   avg_copies: 2.0
-- name: Monumental Henge
+- name: Containment Priest
   weight: 0.0556
   avg_copies: 1.0
-- name: card:captain-america-super-soldier
+- name: Overgrown Tomb
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Monumental Henge
   weight: 0.0556
   avg_copies: 1.0
 - name: Sacred Ground
   weight: 0.0556
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Hallowed Fountain
   weight: 0.0556
   avg_copies: 1.0
-- name: Containment Priest
+- name: Eiganjo, Seat of the Empire
   weight: 0.0556
   avg_copies: 1.0
 - name: Lush Portico
   weight: 0.0556
   avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Vindicate
+- name: Accursed Marauder
   weight: 0.0556
   avg_copies: 1.0
 - name: Raucous Theater
+  weight: 0.0556
+  avg_copies: 1.0
+- name: Vindicate
   weight: 0.0556
   avg_copies: 1.0
 - name: Kataki, War's Wage
@@ -216,16 +219,13 @@ top_cards:
 - name: Emptiness
   weight: 0.0556
   avg_copies: 1.0
-- name: Overgrown Tomb
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Accursed Marauder
-  weight: 0.0556
-  avg_copies: 1.0
-- name: Eiganjo, Seat of the Empire
+- name: Meticulous Archive
   weight: 0.0556
   avg_copies: 1.0
 - name: Gaddock Teeg
+  weight: 0.0556
+  avg_copies: 1.0
+- name: card:captain-america-super-soldier
   weight: 0.0556
   avg_copies: 1.0
 ---

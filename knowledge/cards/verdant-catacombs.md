@@ -6,13 +6,16 @@ name: Verdant Catacombs
 scryfall_id: 94c229ea-90da-4aa0-bfda-b162fb3b5b8b
 set: mh2
 type: Land
-meta_presence: 0.1124
+meta_presence: 0.1127
 archetypes:
   dimir-control:
     weight: 0.0123
     avg_copies: 1.0
+  amulet-titan:
+    weight: 0.0057
+    avg_copies: 1.0
   goryo:
-    weight: 0.005
+    weight: 0.0048
     avg_copies: 4.0
   necrodominance:
     weight: 0.2
@@ -24,8 +27,8 @@ archetypes:
     weight: 0.037
     avg_copies: 4.0
   neoform-combo:
-    weight: 0.1091
-    avg_copies: 1.5
+    weight: 0.115
+    avg_copies: 1.46
   hollow-one:
     weight: 0.5
     avg_copies: 3.35
@@ -33,7 +36,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   eldrazi-ramp:
-    weight: 0.75
+    weight: 0.7463
     avg_copies: 1.05
   simic-ritual:
     weight: 0.866
@@ -42,7 +45,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.79
   broodscale-combo:
-    weight: 0.3145
+    weight: 0.3148
     avg_copies: 1.09
   elves:
     weight: 1.0
@@ -63,8 +66,8 @@ archetypes:
     weight: 0.0598
     avg_copies: 1.0
   goryo5:
-    weight: 0.7812
-    avg_copies: 2.12
+    weight: 0.8056
+    avg_copies: 2.24
   soultrader-combo:
     weight: 0.4286
     avg_copies: 2.67
@@ -96,7 +99,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-47:
-    weight: 0.075
+    weight: 0.0732
     avg_copies: 1.25
   unknown-52:
     weight: 1.0
@@ -123,7 +126,7 @@ archetypes:
     weight: 0.8125
     avg_copies: 1.38
   unknown-101:
-    weight: 0.04
+    weight: 0.0385
     avg_copies: 1.0
   unknown-102:
     weight: 1.0
@@ -132,11 +135,11 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.0
   unknown-125:
-    weight: 0.1818
+    weight: 0.1667
     avg_copies: 1.0
   unknown-126:
-    weight: 0.9917
-    avg_copies: 3.02
+    weight: 0.9924
+    avg_copies: 2.97
   unknown-130:
     weight: 1.0
     avg_copies: 3.0
@@ -174,7 +177,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-194:
-    weight: 0.05
+    weight: 0.04
     avg_copies: 1.0
   unknown-196:
     weight: 1.0

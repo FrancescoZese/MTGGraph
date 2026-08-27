@@ -6,7 +6,7 @@ name: Spire of Industry
 scryfall_id: 35e9ec06-a848-4230-84a2-19cb8034e0f0
 set: eoc
 type: Land
-meta_presence: 0.001
+meta_presence: 0.0009
 archetypes:
   kethis-combo:
     weight: 0.125
@@ -15,7 +15,7 @@ archetypes:
     weight: 0.0031
     avg_copies: 4.0
   unknown-6:
-    weight: 0.2353
+    weight: 0.2222
     avg_copies: 1.0
   unknown-41:
     weight: 0.25

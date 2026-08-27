@@ -9,10 +9,10 @@ type: Land
 meta_presence: 0.008
 archetypes:
   mill:
-    weight: 0.0556
+    weight: 0.0541
     avg_copies: 1.5
   broodscale-combo:
-    weight: 0.0597
+    weight: 0.0586
     avg_copies: 3.68
   orzhov-blink:
     weight: 0.1667

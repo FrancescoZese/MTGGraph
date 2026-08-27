@@ -11,10 +11,10 @@ type: Instant
 meta_presence: 0.0019
 archetypes:
   goryo:
-    weight: 0.0025
+    weight: 0.0024
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.0333
+    weight: 0.0323
     avg_copies: 1.0
   unknown-99:
     weight: 1.0

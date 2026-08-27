@@ -10,6 +10,6 @@ type: Legendary Creature — Human Monk
 meta_presence: 0.0003
 archetypes:
   amulet-titan:
-    weight: 0.0116
+    weight: 0.0115
     avg_copies: 1.0
 ---

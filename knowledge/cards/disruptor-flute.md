@@ -6,17 +6,17 @@ name: Disruptor Flute
 scryfall_id: 5cad8671-4761-4014-a8a3-af45627e6e79
 set: mh3
 type: Artifact
-meta_presence: 0.074
+meta_presence: 0.0736
 archetypes:
   boros-energy:
-    weight: 0.0142
+    weight: 0.014
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.0149
     avg_copies: 2.0
   eldrazi-tron:
-    weight: 0.9121
-    avg_copies: 1.67
+    weight: 0.9129
+    avg_copies: 1.66
   necrodominance:
     weight: 0.1778
     avg_copies: 1.62
@@ -24,10 +24,10 @@ archetypes:
     weight: 0.0467
     avg_copies: 1.0
   affinity:
-    weight: 0.0037
-    avg_copies: 1.75
+    weight: 0.0055
+    avg_copies: 1.8
   burn:
-    weight: 0.1026
+    weight: 0.1
     avg_copies: 1.0
   mono-blue-tron:
     weight: 0.2692
@@ -36,16 +36,16 @@ archetypes:
     weight: 0.0142
     avg_copies: 2.5
   eldrazi-ramp:
-    weight: 0.7121
+    weight: 0.7015
     avg_copies: 1.86
   izzet-prowess:
-    weight: 0.0026
+    weight: 0.0025
     avg_copies: 2.0
   broodscale-combo:
-    weight: 0.022
-    avg_copies: 1.14
+    weight: 0.0278
+    avg_copies: 1.22
   azorius-blink:
-    weight: 0.0149
+    weight: 0.0145
     avg_copies: 1.0
   elves:
     weight: 1.0
@@ -57,13 +57,13 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   cosmogoyf-fling:
-    weight: 0.0179
+    weight: 0.0172
     avg_copies: 1.0
   goryo4:
     weight: 0.963
     avg_copies: 1.92
   goryo5:
-    weight: 0.125
+    weight: 0.1111
     avg_copies: 1.5
   unknown-12:
     weight: 1.0
@@ -75,7 +75,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-49:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 2.0
   unknown-69:
     weight: 0.1111
@@ -87,8 +87,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.5
   unknown-126:
-    weight: 0.0165
-    avg_copies: 2.0
+    weight: 0.0227
+    avg_copies: 1.67
   unknown-134:
     weight: 1.0
     avg_copies: 2.0
@@ -99,10 +99,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0114
+    weight: 0.0109
     avg_copies: 1.0
   unknown-167:
-    weight: 0.3889
+    weight: 0.3684
     avg_copies: 1.0
   unknown-177:
     weight: 0.6667
@@ -111,12 +111,15 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-194:
-    weight: 0.25
-    avg_copies: 1.6
+    weight: 0.24
+    avg_copies: 1.5
   unknown-213:
-    weight: 0.9091
+    weight: 0.7692
     avg_copies: 1.0
   unknown-223:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-265:
     weight: 1.0
     avg_copies: 1.0
 ---

@@ -7,11 +7,11 @@ name: Jace, the Perfected Mind
 scryfall_id: 64e6a8d1-ae75-45bd-af62-9a622620cb5c
 set: one
 type: Legendary Planeswalker — Jace
-meta_presence: 0.0037
+meta_presence: 0.0038
 archetypes:
   mill:
-    weight: 0.5278
-    avg_copies: 1.32
+    weight: 0.5405
+    avg_copies: 1.3
   kethis-combo:
     weight: 0.875
     avg_copies: 1.5

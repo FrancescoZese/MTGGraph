@@ -10,13 +10,13 @@ type: Instant — Lesson
 meta_presence: 0.005
 archetypes:
   domain-zoo:
-    weight: 0.0068
+    weight: 0.0066
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0152
+    weight: 0.0149
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0466
+    weight: 0.0444
     avg_copies: 1.0
   rakdos-aggro:
     weight: 0.1053
@@ -25,7 +25,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-122:
-    weight: 0.3929
+    weight: 0.4
     avg_copies: 1.0
   unknown-196:
     weight: 1.0

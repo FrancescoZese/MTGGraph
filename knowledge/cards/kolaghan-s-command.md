@@ -8,7 +8,7 @@ name: Kolaghan's Command
 scryfall_id: a0dab027-a475-481b-b012-b6a76e21e494
 set: 2x2
 type: Instant
-meta_presence: 0.0021
+meta_presence: 0.0022
 archetypes:
   rakdos-aggro:
     weight: 0.0526
@@ -29,7 +29,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-101:
-    weight: 0.2
+    weight: 0.1923
     avg_copies: 1.0
   unknown-120:
     weight: 0.1111
@@ -37,4 +37,7 @@ archetypes:
   unknown-203:
     weight: 1.0
     avg_copies: 1.0
+  unknown-266:
+    weight: 1.0
+    avg_copies: 3.0
 ---

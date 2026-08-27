@@ -7,34 +7,34 @@ name: Orim's Chant
 scryfall_id: ee241079-1e5a-4224-b9cb-4fd3e0da687c
 set: mh3
 type: Instant
-meta_presence: 0.1595
+meta_presence: 0.1578
 archetypes:
   ruby-storm:
-    weight: 0.7093
+    weight: 0.705
     avg_copies: 3.22
   boros-energy:
-    weight: 0.6572
+    weight: 0.6539
     avg_copies: 1.73
   mono-blue-belcher:
-    weight: 0.0435
+    weight: 0.0421
     avg_copies: 3.0
   jeskai-energy:
     weight: 0.0149
     avg_copies: 3.5
   eldrazi-tron:
-    weight: 0.0061
+    weight: 0.006
     avg_copies: 4.0
   goryo:
-    weight: 0.01
+    weight: 0.0097
     avg_copies: 2.0
   azorius-control:
     weight: 1.0
     avg_copies: 3.85
   jeskai-control:
-    weight: 0.9333
-    avg_copies: 3.81
+    weight: 0.9355
+    avg_copies: 3.82
   burn:
-    weight: 0.0513
+    weight: 0.05
     avg_copies: 1.5
   mono-red-belcher:
     weight: 0.4615
@@ -46,10 +46,10 @@ archetypes:
     weight: 0.25
     avg_copies: 4.0
   esper-blink:
-    weight: 0.0181
+    weight: 0.0168
     avg_copies: 1.67
   indomitable-creativity:
-    weight: 0.2
+    weight: 0.1875
     avg_copies: 2.67
   broodscale-combo:
     weight: 0.0031
@@ -58,14 +58,17 @@ archetypes:
     weight: 0.0556
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.0597
-    avg_copies: 2.25
+    weight: 0.0725
+    avg_copies: 2.4
   scapeshift-combo:
     weight: 0.1667
     avg_copies: 4.0
   goryo0:
     weight: 0.9545
     avg_copies: 3.95
+  goryo2:
+    weight: 0.0196
+    avg_copies: 2.0
   4c-omnath9:
     weight: 1.0
     avg_copies: 3.6
@@ -124,7 +127,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.78
   unknown-96:
-    weight: 0.0667
+    weight: 0.0625
     avg_copies: 2.25
   unknown-99:
     weight: 1.0
@@ -139,22 +142,22 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-126:
-    weight: 0.1322
+    weight: 0.1212
     avg_copies: 2.88
   unknown-140:
     weight: 1.0
     avg_copies: 4.0
   unknown-149:
-    weight: 0.6842
-    avg_copies: 1.46
+    weight: 0.6957
+    avg_copies: 1.38
   unknown-152:
     weight: 0.3333
     avg_copies: 3.0
   unknown-160:
-    weight: 0.2159
-    avg_copies: 1.86
+    weight: 0.2174
+    avg_copies: 1.82
   unknown-167:
-    weight: 0.1667
+    weight: 0.1579
     avg_copies: 2.0
   unknown-168:
     weight: 1.0
@@ -192,6 +195,9 @@ archetypes:
   unknown-200:
     weight: 1.0
     avg_copies: 3.0
+  unknown-213:
+    weight: 0.0769
+    avg_copies: 4.0
   unknown-216:
     weight: 1.0
     avg_copies: 4.0

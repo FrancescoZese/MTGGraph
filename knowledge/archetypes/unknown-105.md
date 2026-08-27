@@ -6,25 +6,25 @@ name: 'Unknown #105'
 meta_share: 0.0001
 list_count: 1
 top_cards:
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flooded Strand
-  weight: 1.0
-  avg_copies: 4.0
 - name: Counterspell
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 4.0
-- name: Nethergoyf
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Nethergoyf
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 4.0
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -39,19 +39,19 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
-- name: Mystical Dispute
-  weight: 1.0
-  avg_copies: 2.0
-- name: Undercity Sewers
+- name: Kaito, Bane of Nightmares
   weight: 1.0
   avg_copies: 2.0
 - name: Flow State
   weight: 1.0
   avg_copies: 2.0
-- name: Psychic Frog
+- name: Street Wraith
   weight: 1.0
   avg_copies: 2.0
 - name: Preordain
+  weight: 1.0
+  avg_copies: 2.0
+- name: Engineered Explosives
   weight: 1.0
   avg_copies: 2.0
 - name: Spell Snare
@@ -60,19 +60,34 @@ top_cards:
 - name: Break the Ice
   weight: 1.0
   avg_copies: 2.0
-- name: Kaito, Bane of Nightmares
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
-- name: Street Wraith
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 2.0
-- name: Engineered Explosives
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 2.0
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 1.5
 - name: Spell Pierce
+  weight: 1.0
+  avg_copies: 1.0
+- name: Vexing Bauble
+  weight: 1.0
+  avg_copies: 1.0
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 1.0
+- name: Takenuma, Abandoned Mire
+  weight: 1.0
+  avg_copies: 1.0
+- name: Nihil Spellbomb
+  weight: 1.0
+  avg_copies: 1.0
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Cling to Dust
@@ -82,21 +97,6 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Island
-  weight: 1.0
-  avg_copies: 1.0
-- name: Swamp
-  weight: 1.0
-  avg_copies: 1.0
-- name: Takenuma, Abandoned Mire
-  weight: 1.0
-  avg_copies: 1.0
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 1.0
-- name: Nihil Spellbomb
-  weight: 1.0
-  avg_copies: 1.0
-- name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.0
 ---

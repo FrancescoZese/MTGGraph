@@ -6,16 +6,16 @@ name: Pithing Needle
 scryfall_id: 776899f8-e977-42b7-8b54-6f726a349e3c
 set: 2x2
 type: Artifact
-meta_presence: 0.1507
+meta_presence: 0.1505
 archetypes:
   boros-energy:
     weight: 0.0013
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.1212
+    weight: 0.1261
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.0058
+    weight: 0.0057
     avg_copies: 1.0
   hardened-scales:
     weight: 0.6
@@ -24,22 +24,22 @@ archetypes:
     weight: 0.0222
     avg_copies: 1.0
   affinity:
-    weight: 0.9446
+    weight: 0.9432
     avg_copies: 1.0
   hammer-time:
-    weight: 0.6111
+    weight: 0.6316
     avg_copies: 1.0
   boros-ponza:
     weight: 0.1064
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.1136
+    weight: 0.1119
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0052
+    weight: 0.0049
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.8428
+    weight: 0.8333
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.5
@@ -57,8 +57,8 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   goryo5:
-    weight: 0.0312
-    avg_copies: 2.0
+    weight: 0.0556
+    avg_copies: 1.5
   goryo7:
     weight: 0.3333
     avg_copies: 1.0
@@ -66,13 +66,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-6:
-    weight: 0.2941
+    weight: 0.2778
     avg_copies: 1.0
   unknown-10:
     weight: 1.0
     avg_copies: 1.0
   unknown-15:
-    weight: 0.75
+    weight: 0.7727
     avg_copies: 1.0
   unknown-21:
     weight: 1.0
@@ -96,13 +96,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0125
+    weight: 0.0122
     avg_copies: 1.0
   unknown-48:
     weight: 0.5
     avg_copies: 1.0
   unknown-49:
-    weight: 0.8889
+    weight: 0.9
     avg_copies: 1.0
   unknown-55:
     weight: 1.0
@@ -141,7 +141,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-126:
-    weight: 0.0496
+    weight: 0.0455
     avg_copies: 1.5
   unknown-137:
     weight: 1.0
@@ -159,13 +159,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.2273
+    weight: 0.2174
     avg_copies: 1.0
   unknown-159:
     weight: 1.0
     avg_copies: 1.0
   unknown-167:
-    weight: 0.5556
+    weight: 0.5789
     avg_copies: 1.0
   unknown-170:
     weight: 1.0
@@ -177,7 +177,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-194:
-    weight: 0.95
+    weight: 0.96
     avg_copies: 1.0
   unknown-195:
     weight: 0.5
@@ -204,6 +204,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-253:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-269:
     weight: 1.0
     avg_copies: 1.0
 ---

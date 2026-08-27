@@ -21,10 +21,10 @@ archetypes:
     weight: 1.0
     avg_copies: 3.97
   broodscale-combo:
-    weight: 0.0126
+    weight: 0.0123
     avg_copies: 2.0
   azorius-blink:
-    weight: 0.0149
+    weight: 0.0145
     avg_copies: 3.0
   elves:
     weight: 1.0
@@ -45,13 +45,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-126:
-    weight: 0.8099
-    avg_copies: 1.93
+    weight: 0.7803
+    avg_copies: 1.92
   unknown-156:
     weight: 1.0
     avg_copies: 4.0
   unknown-167:
-    weight: 0.6667
+    weight: 0.6316
     avg_copies: 1.0
   unknown-179:
     weight: 1.0
@@ -60,8 +60,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-213:
-    weight: 0.7273
-    avg_copies: 1.88
+    weight: 0.6923
+    avg_copies: 1.78
   unknown-223:
     weight: 1.0
     avg_copies: 1.0

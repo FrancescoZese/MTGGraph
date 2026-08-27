@@ -7,13 +7,13 @@ name: Feed the Cycle
 scryfall_id: 7e017ff8-2936-4a1b-bece-00004cfbad06
 set: blb
 type: Instant
-meta_presence: 0.0029
+meta_presence: 0.0028
 archetypes:
   mill:
-    weight: 0.3889
+    weight: 0.3784
     avg_copies: 1.0
   goryo2:
-    weight: 0.0208
+    weight: 0.0196
     avg_copies: 1.0
   unknown-199:
     weight: 1.0

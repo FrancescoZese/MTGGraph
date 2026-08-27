@@ -6,10 +6,13 @@ name: Skysovereign, Consul Flagship
 scryfall_id: 4f8075be-8932-49b3-990b-4b365fa27e94
 set: nec
 type: Legendary Artifact — Vehicle
-meta_presence: 0.0182
+meta_presence: 0.018
 archetypes:
   eldrazi-tron:
-    weight: 0.3909
+    weight: 0.3874
+    avg_copies: 1.0
+  unknown-126:
+    weight: 0.0076
     avg_copies: 1.0
   unknown-176:
     weight: 1.0

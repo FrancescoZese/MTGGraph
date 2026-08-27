@@ -7,16 +7,16 @@ name: Magebane Lizard
 scryfall_id: 62e12566-375f-4f31-aa91-1b13a96d9ece
 set: otj
 type: Creature — Lizard
-meta_presence: 0.0068
+meta_presence: 0.0066
 archetypes:
   boros-energy:
-    weight: 0.0039
+    weight: 0.0038
     avg_copies: 1.67
   affinity:
     weight: 0.0018
     avg_copies: 2.0
   burn:
-    weight: 0.0513
+    weight: 0.05
     avg_copies: 2.5
   hollow-one:
     weight: 0.0588
@@ -25,13 +25,13 @@ archetypes:
     weight: 0.0526
     avg_copies: 4.0
   unknown-67:
-    weight: 0.14
+    weight: 0.1346
     avg_copies: 1.43
   unknown-86:
     weight: 0.1667
     avg_copies: 3.0
   unknown-96:
-    weight: 0.0833
+    weight: 0.0781
     avg_copies: 1.8
   unknown-90:
     weight: 1.0
@@ -40,7 +40,7 @@ archetypes:
     weight: 0.125
     avg_copies: 2.0
   unknown-101:
-    weight: 0.48
+    weight: 0.4615
     avg_copies: 3.33
   unknown-115:
     weight: 0.3333

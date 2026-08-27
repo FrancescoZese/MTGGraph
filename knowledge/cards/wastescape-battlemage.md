@@ -6,13 +6,13 @@ name: Wastescape Battlemage
 scryfall_id: 6bc119b8-429c-4ab6-adba-b65b03810e98
 set: mh3
 type: Creature — Eldrazi Wizard
-meta_presence: 0.0043
+meta_presence: 0.0042
 archetypes:
   eldrazi-ramp:
-    weight: 0.0152
+    weight: 0.0149
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0126
+    weight: 0.0123
     avg_copies: 1.75
   goryo4:
     weight: 0.7778
@@ -24,6 +24,6 @@ archetypes:
     weight: 0.0625
     avg_copies: 3.0
   unknown-194:
-    weight: 0.1
+    weight: 0.08
     avg_copies: 2.0
 ---

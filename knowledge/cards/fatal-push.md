@@ -7,23 +7,23 @@ name: Fatal Push
 scryfall_id: 6e9d8fe4-fd9b-4923-92bf-7dd6b8fa02e7
 set: 2xm
 type: Instant
-meta_presence: 0.2003
+meta_presence: 0.2008
 archetypes:
   dimir-control:
     weight: 1.0
     avg_copies: 3.8
   goryo:
-    weight: 0.182
-    avg_copies: 1.29
+    weight: 0.186
+    avg_copies: 1.28
   necrodominance:
     weight: 0.8667
     avg_copies: 3.97
   domain-zoo:
-    weight: 0.1216
+    weight: 0.1192
     avg_copies: 2.11
   mill:
-    weight: 0.9722
-    avg_copies: 3.51
+    weight: 0.973
+    avg_copies: 3.53
   reanimator:
     weight: 0.9259
     avg_copies: 3.76
@@ -40,20 +40,20 @@ archetypes:
     weight: 0.0309
     avg_copies: 2.33
   izzet-prowess:
-    weight: 0.0052
+    weight: 0.0049
     avg_copies: 1.5
   esper-blink:
-    weight: 0.9639
-    avg_copies: 3.55
+    weight: 0.9665
+    avg_copies: 3.57
   samwise-combo:
     weight: 0.5634
     avg_copies: 1.95
   indomitable-creativity:
-    weight: 0.2
+    weight: 0.1875
     avg_copies: 3.33
   broodscale-combo:
-    weight: 0.0126
-    avg_copies: 2.0
+    weight: 0.0154
+    avg_copies: 1.9
   orzhov-blink:
     weight: 0.8889
     avg_copies: 3.11
@@ -73,7 +73,7 @@ archetypes:
     weight: 0.2632
     avg_copies: 1.67
   cosmogoyf-fling:
-    weight: 0.125
+    weight: 0.1207
     avg_copies: 3.14
   esper-midrange:
     weight: 1.0
@@ -88,8 +88,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.97
   goryo2:
-    weight: 0.2083
-    avg_copies: 1.71
+    weight: 0.2157
+    avg_copies: 1.62
   soultrader-combo:
     weight: 1.0
     avg_copies: 2.57
@@ -208,8 +208,8 @@ archetypes:
     weight: 0.8125
     avg_copies: 2.2
   unknown-101:
-    weight: 0.84
-    avg_copies: 2.12
+    weight: 0.8462
+    avg_copies: 2.08
   unknown-105:
     weight: 1.0
     avg_copies: 4.0
@@ -238,7 +238,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-126:
-    weight: 0.8017
+    weight: 0.7424
     avg_copies: 2.33
   unknown-127:
     weight: 1.0
@@ -327,10 +327,22 @@ archetypes:
   unknown-233:
     weight: 1.0
     avg_copies: 4.0
+  unknown-234:
+    weight: 0.5
+    avg_copies: 3.0
   unknown-239:
     weight: 1.0
     avg_copies: 1.5
   unknown-240:
     weight: 1.0
     avg_copies: 3.0
+  unknown-266:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-267:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-269:
+    weight: 1.0
+    avg_copies: 4.0
 ---

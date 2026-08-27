@@ -4,7 +4,7 @@ colors:
 - U
 - R
 name: 'Unknown #70'
-meta_share: 0.0028
+meta_share: 0.0027
 list_count: 20
 top_cards:
 - name: Guide of Souls
@@ -109,10 +109,10 @@ top_cards:
 - name: Wear
   weight: 0.25
   avg_copies: 1.2
-- name: Prismatic Ending
+- name: Voice of Victory
   weight: 0.2
   avg_copies: 2.25
-- name: Voice of Victory
+- name: Prismatic Ending
   weight: 0.2
   avg_copies: 2.25
 - name: Ranger-Captain of Eos
@@ -145,10 +145,10 @@ top_cards:
 - name: White Orchid Phantom
   weight: 0.1
   avg_copies: 3.0
-- name: Orim's Chant
+- name: Starfield Shepherd
   weight: 0.1
   avg_copies: 2.0
-- name: Starfield Shepherd
+- name: Orim's Chant
   weight: 0.1
   avg_copies: 2.0
 - name: Windswept Heath
@@ -160,6 +160,18 @@ top_cards:
 - name: Practiced Offense
   weight: 0.05
   avg_copies: 2.0
+- name: Boromir, Warden of the Tower
+  weight: 0.05
+  avg_copies: 1.0
+- name: Spell Pierce
+  weight: 0.05
+  avg_copies: 1.0
+- name: Marsh Flats
+  weight: 0.05
+  avg_copies: 1.0
+- name: Magus of the Moon
+  weight: 0.05
+  avg_copies: 1.0
 - name: Vandalblast
   weight: 0.05
   avg_copies: 1.0
@@ -170,18 +182,6 @@ top_cards:
   weight: 0.05
   avg_copies: 1.0
 - name: Lightning Bolt
-  weight: 0.05
-  avg_copies: 1.0
-- name: Spell Pierce
-  weight: 0.05
-  avg_copies: 1.0
-- name: Magus of the Moon
-  weight: 0.05
-  avg_copies: 1.0
-- name: Marsh Flats
-  weight: 0.05
-  avg_copies: 1.0
-- name: Boromir, Warden of the Tower
   weight: 0.05
   avg_copies: 1.0
 ---

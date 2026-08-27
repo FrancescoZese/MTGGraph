@@ -9,13 +9,13 @@ type: Artifact
 meta_presence: 0.0065
 archetypes:
   eldrazi-tron:
-    weight: 0.0485
+    weight: 0.048
     avg_copies: 1.38
   mono-blue-tron:
     weight: 0.1154
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.1061
+    weight: 0.1045
     avg_copies: 1.86
   eldrazi-breach:
     weight: 0.2
@@ -30,9 +30,12 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   unknown-194:
-    weight: 0.15
+    weight: 0.12
     avg_copies: 2.67
   unknown-226:
     weight: 1.0
     avg_copies: 3.0
+  unknown-265:
+    weight: 1.0
+    avg_copies: 2.0
 ---

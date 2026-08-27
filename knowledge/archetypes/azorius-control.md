@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: Azorius Control
-meta_share: 0.0148
+meta_share: 0.0145
 list_count: 107
 top_cards:
 - name: Flooded Strand
@@ -183,10 +183,10 @@ top_cards:
 - name: Sink into Stupor
   weight: 0.0654
   avg_copies: 1.29
-- name: Field of Ruin
+- name: Hallowed Moonlight
   weight: 0.0561
   avg_copies: 1.17
-- name: Hallowed Moonlight
+- name: Field of Ruin
   weight: 0.0561
   avg_copies: 1.17
 - name: Celestial Colonnade
@@ -243,73 +243,73 @@ top_cards:
 - name: Elegant Parlor
   weight: 0.0187
   avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Tamiyo, Inquisitive Student
   weight: 0.0187
   avg_copies: 1.0
 - name: Dress Down
   weight: 0.0187
   avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
+- name: Gemstone Caverns
   weight: 0.0187
   avg_copies: 1.0
+- name: Quantum Riddler
+  weight: 0.0093
+  avg_copies: 4.0
 - name: Relic of Progenitus
   weight: 0.0093
   avg_copies: 4.0
 - name: Harbinger of the Seas
   weight: 0.0093
   avg_copies: 4.0
-- name: Quantum Riddler
+- name: Obsidian Charmaw
   weight: 0.0093
-  avg_copies: 4.0
+  avg_copies: 2.0
 - name: card:bilbo-s-gambit
   weight: 0.0093
   avg_copies: 2.0
 - name: Wear
   weight: 0.0093
   avg_copies: 2.0
-- name: Obsidian Charmaw
+- name: Restless Anchorage
   weight: 0.0093
-  avg_copies: 2.0
-- name: Elesh Norn, Mother of Machines
+  avg_copies: 1.0
+- name: card:linvala-keeper-of-silence
   weight: 0.0093
   avg_copies: 1.0
 - name: Strix Serenade
   weight: 0.0093
   avg_copies: 1.0
-- name: Restless Anchorage
+- name: Meltdown
   weight: 0.0093
   avg_copies: 1.0
-- name: card:bribery
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Commandeer
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Logic Knot
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Flashback
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Petrified Hamlet
+- name: Elesh Norn, Mother of Machines
   weight: 0.0093
   avg_copies: 1.0
 - name: Deafening Silence
   weight: 0.0093
   avg_copies: 1.0
-- name: Meltdown
+- name: Hurkyl's Recall
   weight: 0.0093
   avg_copies: 1.0
-- name: Get Lost
+- name: card:bribery
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Flashback
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Commandeer
   weight: 0.0093
   avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.0093
   avg_copies: 1.0
-- name: card:linvala-keeper-of-silence
+- name: Petrified Hamlet
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Logic Knot
+  weight: 0.0093
+  avg_copies: 1.0
+- name: Get Lost
   weight: 0.0093
   avg_copies: 1.0
 ---

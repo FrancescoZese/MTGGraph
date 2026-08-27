@@ -9,13 +9,13 @@ type: Legendary Land
 meta_presence: 0.005
 archetypes:
   broodscale-combo:
-    weight: 0.0629
+    weight: 0.0617
     avg_copies: 1.0
   elves:
     weight: 1.0
     avg_copies: 1.0
   unknown-61:
-    weight: 0.0089
+    weight: 0.0085
     avg_copies: 1.0
   unknown-102:
     weight: 1.0
@@ -24,7 +24,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-194:
-    weight: 0.45
+    weight: 0.4
     avg_copies: 1.0
   unknown-249:
     weight: 1.0

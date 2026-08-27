@@ -6,28 +6,28 @@ name: Relic of Progenitus
 scryfall_id: 436cd66c-0622-43cd-8748-af4d21a2db3f
 set: ema
 type: Artifact
-meta_presence: 0.0283
+meta_presence: 0.0282
 archetypes:
   dimir-control:
     weight: 0.0123
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.1545
+    weight: 0.1532
     avg_copies: 1.07
   amulet-titan:
-    weight: 0.0698
+    weight: 0.069
     avg_copies: 1.75
   goryo:
-    weight: 0.005
+    weight: 0.0048
     avg_copies: 1.0
   azorius-control:
     weight: 0.0093
     avg_copies: 4.0
   affinity:
-    weight: 0.024
+    weight: 0.0238
     avg_copies: 1.0
   burn:
-    weight: 0.0256
+    weight: 0.025
     avg_copies: 2.0
   mono-blue-tron:
     weight: 0.1538
@@ -39,10 +39,10 @@ archetypes:
     weight: 0.0426
     avg_copies: 2.33
   eldrazi-ramp:
-    weight: 0.0076
+    weight: 0.0075
     avg_copies: 2.0
   esper-blink:
-    weight: 0.012
+    weight: 0.0112
     avg_copies: 2.25
   orzhov-blink:
     weight: 0.4444
@@ -60,13 +60,13 @@ archetypes:
     weight: 0.5
     avg_copies: 3.5
   goryo2:
-    weight: 0.8333
-    avg_copies: 3.67
+    weight: 0.8235
+    avg_copies: 3.65
   unknown-12:
     weight: 1.0
     avg_copies: 1.0
   unknown-15:
-    weight: 0.05
+    weight: 0.0455
     avg_copies: 4.0
   unknown-26:
     weight: 0.2609
@@ -87,7 +87,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-96:
-    weight: 0.0167
+    weight: 0.0156
     avg_copies: 2.0
   unknown-108:
     weight: 1.0
@@ -114,13 +114,13 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-160:
-    weight: 0.1136
-    avg_copies: 1.69
+    weight: 0.1196
+    avg_copies: 1.71
   unknown-162:
     weight: 1.0
     avg_copies: 2.33
   unknown-167:
-    weight: 0.3889
+    weight: 0.3684
     avg_copies: 1.0
   unknown-169:
     weight: 1.0
@@ -132,7 +132,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-213:
-    weight: 0.0909
+    weight: 0.0769
     avg_copies: 1.0
   unknown-219:
     weight: 1.0

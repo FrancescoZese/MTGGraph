@@ -7,10 +7,10 @@ name: Bitter Triumph
 scryfall_id: c5333556-eea2-41ae-833e-007b9d540700
 set: tdc
 type: Instant
-meta_presence: 0.0058
+meta_presence: 0.0057
 archetypes:
   goryo:
-    weight: 0.005
+    weight: 0.0048
     avg_copies: 2.0
   reanimator:
     weight: 0.037
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.5556
     avg_copies: 1.0
   unknown-125:
-    weight: 0.0909
+    weight: 0.0833
     avg_copies: 2.0
   unknown-139:
     weight: 0.9167

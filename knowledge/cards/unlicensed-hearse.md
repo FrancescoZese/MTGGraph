@@ -12,7 +12,7 @@ archetypes:
     weight: 0.0013
     avg_copies: 2.0
   jeskai-control:
-    weight: 0.0167
+    weight: 0.0161
     avg_copies: 1.0
   izzet-wizards:
     weight: 0.0769

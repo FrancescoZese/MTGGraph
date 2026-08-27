@@ -9,8 +9,8 @@ type: Land — Island Mountain
 meta_presence: 0.292
 archetypes:
   ruby-storm:
-    weight: 0.1473
-    avg_copies: 1.11
+    weight: 0.1494
+    avg_copies: 1.1
   boros-energy:
     weight: 0.0026
     avg_copies: 1.0
@@ -28,15 +28,15 @@ archetypes:
     avg_copies: 1.5
   jeskai-control:
     weight: 1.0
-    avg_copies: 1.12
+    avg_copies: 1.11
   affinity:
-    weight: 0.9705
+    weight: 0.9707
     avg_copies: 1.31
   domain-zoo:
     weight: 1.0
     avg_copies: 1.74
   mill:
-    weight: 0.0278
+    weight: 0.027
     avg_copies: 1.0
   reanimator:
     weight: 0.7778
@@ -51,7 +51,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   indomitable-creativity:
-    weight: 0.9333
+    weight: 0.9375
     avg_copies: 1.0
   dredge:
     weight: 0.9643
@@ -88,7 +88,7 @@ archetypes:
     avg_copies: 4.0
   unknown-6:
     weight: 1.0
-    avg_copies: 1.41
+    avg_copies: 1.39
   unknown-10:
     weight: 1.0
     avg_copies: 1.0
@@ -97,7 +97,7 @@ archetypes:
     avg_copies: 2.8
   unknown-15:
     weight: 1.0
-    avg_copies: 2.1
+    avg_copies: 2.14
   unknown-16:
     weight: 1.0
     avg_copies: 1.0
@@ -123,11 +123,11 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0187
+    weight: 0.0183
     avg_copies: 1.0
   unknown-49:
-    weight: 0.8889
-    avg_copies: 1.0
+    weight: 0.9
+    avg_copies: 1.11
   unknown-53:
     weight: 1.0
     avg_copies: 3.5
@@ -211,7 +211,7 @@ archetypes:
     avg_copies: 1.0
   unknown-122:
     weight: 1.0
-    avg_copies: 2.89
+    avg_copies: 2.9
   unknown-124:
     weight: 1.0
     avg_copies: 3.0
@@ -309,6 +309,12 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-252:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-263:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-266:
     weight: 1.0
     avg_copies: 2.0
 ---

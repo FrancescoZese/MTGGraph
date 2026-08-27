@@ -8,7 +8,7 @@ name: Vicious Rivalry
 scryfall_id: 6fa9cd18-3181-4373-ab65-49bf9de9487f
 set: sos
 type: Sorcery
-meta_presence: 0.0006
+meta_presence: 0.0005
 archetypes:
   yawgmoth-combo:
     weight: 0.0105
@@ -17,6 +17,6 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo5:
-    weight: 0.0625
+    weight: 0.0556
     avg_copies: 1.0
 ---

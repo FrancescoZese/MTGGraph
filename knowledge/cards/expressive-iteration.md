@@ -8,11 +8,11 @@ name: Expressive Iteration
 scryfall_id: db54cb6f-25e0-4d5f-876e-a6aa66042d63
 set: soc
 type: Sorcery
-meta_presence: 0.0535
+meta_presence: 0.0551
 archetypes:
   izzet-prowess:
-    weight: 0.9326
-    avg_copies: 3.63
+    weight: 0.9358
+    avg_copies: 3.55
   izzet-wizards:
     weight: 0.0769
     avg_copies: 2.0
@@ -26,7 +26,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   unknown-15:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 4.0
   unknown-53:
     weight: 1.0
@@ -35,6 +35,9 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-122:
-    weight: 0.5714
-    avg_copies: 2.27
+    weight: 0.5667
+    avg_copies: 2.33
+  unknown-263:
+    weight: 1.0
+    avg_copies: 2.0
 ---

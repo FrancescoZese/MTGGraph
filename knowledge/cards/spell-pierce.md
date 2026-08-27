@@ -7,22 +7,22 @@ name: Spell Pierce
 scryfall_id: 8dd4374f-0301-4b2e-bc99-2cd19568cb3b
 set: dft
 type: Instant
-meta_presence: 0.0838
+meta_presence: 0.0849
 archetypes:
   dimir-control:
     weight: 0.2099
     avg_copies: 1.0
   mono-blue-belcher:
-    weight: 0.1522
+    weight: 0.1579
     avg_copies: 1.0
   goryo:
-    weight: 0.005
+    weight: 0.0048
     avg_copies: 1.5
   affinity:
     weight: 0.0018
     avg_copies: 1.0
   mill:
-    weight: 0.0278
+    weight: 0.027
     avg_copies: 3.0
   reanimator:
     weight: 0.7037
@@ -31,22 +31,22 @@ archetypes:
     weight: 0.0769
     avg_copies: 2.0
   hammer-time:
-    weight: 0.1111
+    weight: 0.1053
     avg_copies: 1.33
   izzet-prowess:
-    weight: 0.8187
-    avg_copies: 1.61
+    weight: 0.8247
+    avg_copies: 1.62
   esper-blink:
-    weight: 0.006
+    weight: 0.0056
     avg_copies: 1.0
   indomitable-creativity:
-    weight: 0.2
-    avg_copies: 1.4
+    weight: 0.25
+    avg_copies: 1.33
   dredge:
     weight: 0.0714
     avg_copies: 1.5
   azorius-blink:
-    weight: 0.1045
+    weight: 0.1014
     avg_copies: 1.42
   izzet-artifacts:
     weight: 0.0312
@@ -61,7 +61,7 @@ archetypes:
     weight: 0.8261
     avg_copies: 1.74
   goryo2:
-    weight: 0.0417
+    weight: 0.0392
     avg_copies: 2.33
   grixis-control:
     weight: 0.1429
@@ -91,7 +91,7 @@ archetypes:
     weight: 0.0833
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0187
+    weight: 0.0183
     avg_copies: 1.0
   unknown-62:
     weight: 0.6061
@@ -112,16 +112,16 @@ archetypes:
     weight: 0.5
     avg_copies: 1.33
   unknown-122:
-    weight: 0.2857
+    weight: 0.2667
     avg_copies: 1.5
   unknown-125:
-    weight: 0.0909
+    weight: 0.0833
     avg_copies: 1.0
   unknown-141:
     weight: 1.0
     avg_copies: 2.0
   unknown-149:
-    weight: 0.2632
+    weight: 0.2174
     avg_copies: 1.2
   unknown-145:
     weight: 1.0
@@ -141,4 +141,7 @@ archetypes:
   unknown-257:
     weight: 1.0
     avg_copies: 3.0
+  unknown-263:
+    weight: 1.0
+    avg_copies: 1.0
 ---

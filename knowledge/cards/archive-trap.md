@@ -10,7 +10,7 @@ type: Instant — Trap
 meta_presence: 0.0054
 archetypes:
   mill:
-    weight: 0.9722
+    weight: 0.973
     avg_copies: 4.0
   unknown-107:
     weight: 1.0

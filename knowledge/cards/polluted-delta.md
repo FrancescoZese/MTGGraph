@@ -6,7 +6,7 @@ name: Polluted Delta
 scryfall_id: 6e288374-2b71-4ace-b1d2-a19fee6cb4af
 set: mh3
 type: Land
-meta_presence: 0.2222
+meta_presence: 0.2229
 archetypes:
   dimir-control:
     weight: 1.0
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.5897
     avg_copies: 1.5
   affinity:
-    weight: 0.0166
+    weight: 0.0165
     avg_copies: 1.44
   mill:
     weight: 1.0
@@ -33,7 +33,7 @@ archetypes:
     weight: 0.963
     avg_copies: 3.62
   neoform-combo:
-    weight: 0.5273
+    weight: 0.5133
     avg_copies: 1.19
   hollow-one:
     weight: 0.1765
@@ -42,16 +42,16 @@ archetypes:
     weight: 0.2784
     avg_copies: 1.19
   izzet-prowess:
-    weight: 0.0052
+    weight: 0.0049
     avg_copies: 1.0
   esper-blink:
-    weight: 0.9759
-    avg_copies: 1.53
+    weight: 0.9777
+    avg_copies: 1.49
   orzhov-blink:
     weight: 0.1111
     avg_copies: 1.5
   azorius-blink:
-    weight: 0.0149
+    weight: 0.0145
     avg_copies: 1.0
   esper-control:
     weight: 1.0
@@ -81,11 +81,11 @@ archetypes:
     weight: 1.0
     avg_copies: 3.82
   goryo5:
-    weight: 0.5
+    weight: 0.4722
     avg_copies: 2.0
   goryo2:
     weight: 1.0
-    avg_copies: 3.62
+    avg_copies: 3.57
   goryo3:
     weight: 1.0
     avg_copies: 1.0
@@ -105,7 +105,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.45
   unknown-6:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 2.0
   unknown-1:
     weight: 1.0
@@ -114,7 +114,7 @@ archetypes:
     weight: 0.6
     avg_copies: 1.0
   unknown-15:
-    weight: 0.05
+    weight: 0.0455
     avg_copies: 1.0
   unknown-20:
     weight: 1.0
@@ -145,7 +145,7 @@ archetypes:
     avg_copies: 3.17
   unknown-47:
     weight: 1.0
-    avg_copies: 3.88
+    avg_copies: 3.87
   unknown-51:
     weight: 1.0
     avg_copies: 4.0
@@ -177,7 +177,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-67:
-    weight: 0.01
+    weight: 0.0096
     avg_copies: 3.0
   unknown-69:
     weight: 0.7778
@@ -210,7 +210,7 @@ archetypes:
     weight: 0.5
     avg_copies: 4.0
   unknown-101:
-    weight: 0.64
+    weight: 0.6154
     avg_copies: 1.44
   unknown-105:
     weight: 1.0
@@ -244,7 +244,7 @@ archetypes:
     avg_copies: 4.0
   unknown-125:
     weight: 1.0
-    avg_copies: 3.91
+    avg_copies: 3.92
   unknown-129:
     weight: 1.0
     avg_copies: 4.0
@@ -291,8 +291,8 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   unknown-167:
-    weight: 0.4444
-    avg_copies: 1.62
+    weight: 0.4737
+    avg_copies: 1.67
   unknown-169:
     weight: 1.0
     avg_copies: 4.0
@@ -339,7 +339,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-213:
-    weight: 0.4545
+    weight: 0.3846
     avg_copies: 1.0
   unknown-214:
     weight: 1.0
@@ -375,6 +375,15 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-252:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-266:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-267:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-269:
     weight: 1.0
     avg_copies: 3.0
 ---
