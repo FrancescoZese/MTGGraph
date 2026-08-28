@@ -7,44 +7,44 @@ name: Rest in Peace
 scryfall_id: d108c2b1-236e-4b8d-8445-d9749ccc4fea
 set: big
 type: Enchantment
-meta_presence: 0.0924
+meta_presence: 0.0917
 archetypes:
   boros-energy:
-    weight: 0.2452
-    avg_copies: 1.56
+    weight: 0.2487
+    avg_copies: 1.54
   dimir-control:
     weight: 0.0123
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.0299
-    avg_copies: 1.5
+    weight: 0.037
+    avg_copies: 1.4
   azorius-control:
-    weight: 0.8037
+    weight: 0.8056
     avg_copies: 1.62
   jeskai-control:
-    weight: 0.3226
-    avg_copies: 1.75
+    weight: 0.3538
+    avg_copies: 1.74
   domain-zoo:
     weight: 0.245
     avg_copies: 1.35
   burn:
-    weight: 0.3
-    avg_copies: 2.25
+    weight: 0.3171
+    avg_copies: 2.31
   boros-ponza:
     weight: 0.8298
     avg_copies: 2.61
   esper-blink:
-    weight: 0.0056
+    weight: 0.0049
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.0625
     avg_copies: 1.0
   orzhov-blink:
-    weight: 0.0556
+    weight: 0.0526
     avg_copies: 2.0
   azorius-blink:
-    weight: 0.6232
-    avg_copies: 1.61
+    weight: 0.6056
+    avg_copies: 1.6
   esper-control:
     weight: 1.0
     avg_copies: 2.0
@@ -73,7 +73,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-100:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 1.0
   unknown-106:
     weight: 0.0909
@@ -82,7 +82,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-131:
-    weight: 0.3333
+    weight: 0.3
     avg_copies: 3.0
   unknown-138:
     weight: 1.0
@@ -94,14 +94,14 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-149:
-    weight: 0.1304
+    weight: 0.1
     avg_copies: 1.33
   unknown-153:
     weight: 0.5
     avg_copies: 2.0
   unknown-160:
-    weight: 0.8804
-    avg_copies: 2.5
+    weight: 0.8911
+    avg_copies: 2.48
   unknown-163:
     weight: 1.0
     avg_copies: 2.0
@@ -112,7 +112,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-186:
-    weight: 0.3333
+    weight: 0.5
     avg_copies: 2.0
   unknown-188:
     weight: 1.0

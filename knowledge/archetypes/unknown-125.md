@@ -6,10 +6,10 @@ name: 'Unknown #125'
 meta_share: 0.0016
 list_count: 12
 top_cards:
-- name: Unearth
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Unearth
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
@@ -93,10 +93,10 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.4167
   avg_copies: 2.0
-- name: Dress Down
+- name: Gloomlake Verge
   weight: 0.4167
   avg_copies: 1.6
-- name: Gloomlake Verge
+- name: Dress Down
   weight: 0.4167
   avg_copies: 1.6
 - name: Stern Scolding
@@ -108,25 +108,25 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 0.3333
   avg_copies: 1.14
-- name: Bloodstained Mire
+- name: Requiting Hex
   weight: 0.3333
   avg_copies: 1.0
-- name: Requiting Hex
+- name: Bloodstained Mire
   weight: 0.3333
   avg_copies: 1.0
 - name: Subtlety
   weight: 0.25
   avg_copies: 3.0
-- name: Damnation
-  weight: 0.25
-  avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.25
   avg_copies: 2.0
-- name: The Meathook Massacre
+- name: Damnation
+  weight: 0.25
+  avg_copies: 2.0
+- name: Go for the Throat
   weight: 0.25
   avg_copies: 1.0
-- name: Go for the Throat
+- name: The Meathook Massacre
   weight: 0.25
   avg_copies: 1.0
 - name: Shoot the Sheriff
@@ -141,19 +141,19 @@ top_cards:
 - name: Cursed Totem
   weight: 0.0833
   avg_copies: 2.0
-- name: Bloodchief's Thirst
+- name: Bitter Triumph
   weight: 0.0833
   avg_copies: 2.0
-- name: Bitter Triumph
+- name: Bloodchief's Thirst
   weight: 0.0833
   avg_copies: 2.0
 - name: Snapcaster Mage
   weight: 0.0833
   avg_copies: 1.5
-- name: Boggart Trawler
+- name: Spell Pierce
   weight: 0.0833
   avg_copies: 1.0
-- name: Spell Pierce
+- name: Boggart Trawler
   weight: 0.0833
   avg_copies: 1.0
 - name: Dreams of Steel and Oil

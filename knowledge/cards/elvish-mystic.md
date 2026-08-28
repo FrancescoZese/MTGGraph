@@ -7,9 +7,12 @@ name: Elvish Mystic
 scryfall_id: eb654a76-62ee-4fd8-83d4-cb912211a9a0
 set: soc
 type: Creature — Elf Druid
-meta_presence: 0.0003
+meta_presence: 0.0004
 archetypes:
   elves:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-271:
     weight: 1.0
     avg_copies: 3.0
 ---

@@ -8,12 +8,12 @@ name: Neoform
 scryfall_id: 92d8f67e-4f2f-4a1f-b190-7c3f39e477e4
 set: war
 type: Sorcery
-meta_presence: 0.0168
+meta_presence: 0.0164
 archetypes:
   neoform-combo:
-    weight: 0.9912
+    weight: 0.9913
     avg_copies: 3.93
   simic-ritual:
-    weight: 0.1237
+    weight: 0.1212
     avg_copies: 1.56
 ---

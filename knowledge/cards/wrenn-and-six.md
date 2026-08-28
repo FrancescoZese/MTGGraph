@@ -11,10 +11,10 @@ type: Legendary Planeswalker — Wrenn
 meta_presence: 0.0082
 archetypes:
   jeskai-energy:
-    weight: 0.0075
+    weight: 0.0074
     avg_copies: 3.0
   eldrazi-ramp:
-    weight: 0.0075
+    weight: 0.0072
     avg_copies: 2.0
   4c-omnath:
     weight: 0.25
@@ -35,7 +35,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-6:
-    weight: 0.4444
+    weight: 0.4737
     avg_copies: 1.0
   unknown-8:
     weight: 1.0
@@ -64,6 +64,9 @@ archetypes:
   unknown-203:
     weight: 1.0
     avg_copies: 2.0
+  unknown-194:
+    weight: 0.0256
+    avg_copies: 1.0
   unknown-242:
     weight: 1.0
     avg_copies: 1.0

@@ -8,7 +8,7 @@ name: Territorial Kavu
 scryfall_id: 2605df98-0b02-4aab-bc36-01e93c693743
 set: mh2
 type: Creature — Kavu
-meta_presence: 0.0277
+meta_presence: 0.0269
 archetypes:
   domain-zoo:
     weight: 1.0
@@ -40,4 +40,7 @@ archetypes:
   unknown-207:
     weight: 0.9333
     avg_copies: 3.93
+  unknown-274:
+    weight: 1.0
+    avg_copies: 4.0
 ---

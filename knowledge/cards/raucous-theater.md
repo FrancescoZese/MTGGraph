@@ -6,13 +6,13 @@ name: Raucous Theater
 scryfall_id: b598c93e-dae1-4d71-a9e4-917abf76d2d0
 set: mkm
 type: Land — Swamp Mountain
-meta_presence: 0.0595
+meta_presence: 0.0587
 archetypes:
   ruby-storm:
-    weight: 0.0536
+    weight: 0.0522
     avg_copies: 1.0
   necrodominance:
-    weight: 0.0889
+    weight: 0.087
     avg_copies: 1.0
   domain-zoo:
     weight: 0.0927
@@ -21,7 +21,7 @@ archetypes:
     weight: 0.8889
     avg_copies: 1.12
   burn:
-    weight: 0.125
+    weight: 0.122
     avg_copies: 1.6
   mardu-blink:
     weight: 1.0
@@ -33,7 +33,7 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   orzhov-blink:
-    weight: 0.0556
+    weight: 0.0526
     avg_copies: 1.0
   jund-saga:
     weight: 1.0
@@ -45,7 +45,7 @@ archetypes:
     weight: 0.9474
     avg_copies: 1.17
   goryo1:
-    weight: 0.9728
+    weight: 0.9476
     avg_copies: 1.0
   grixis-control:
     weight: 0.1429
@@ -57,8 +57,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-1:
-    weight: 0.9231
-    avg_copies: 1.75
+    weight: 0.9333
+    avg_copies: 1.79
   unknown-7:
     weight: 1.0
     avg_copies: 1.0
@@ -102,14 +102,14 @@ archetypes:
     weight: 0.2195
     avg_copies: 1.0
   unknown-96:
-    weight: 0.0469
+    weight: 0.0423
     avg_copies: 1.0
   unknown-100:
-    weight: 0.75
+    weight: 0.8
     avg_copies: 1.0
   unknown-101:
     weight: 1.0
-    avg_copies: 1.04
+    avg_copies: 1.03
   unknown-110:
     weight: 1.0
     avg_copies: 1.0
@@ -164,4 +164,7 @@ archetypes:
   unknown-264:
     weight: 1.0
     avg_copies: 1.0
+  unknown-272:
+    weight: 1.0
+    avg_copies: 2.0
 ---

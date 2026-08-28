@@ -7,16 +7,16 @@ name: Lithomantic Barrage
 scryfall_id: c45a5f4a-2174-4885-aa5a-c4c24cc732f0
 set: mom
 type: Sorcery
-meta_presence: 0.0022
+meta_presence: 0.0021
 archetypes:
   amulet-titan:
-    weight: 0.0057
+    weight: 0.0056
     avg_copies: 1.0
   affinity:
     weight: 0.0018
     avg_copies: 1.0
   burn:
-    weight: 0.025
+    weight: 0.0244
     avg_copies: 2.0
   unknown-7:
     weight: 1.0
@@ -25,7 +25,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-160:
-    weight: 0.1087
+    weight: 0.099
     avg_copies: 1.9
   unknown-180:
     weight: 1.0

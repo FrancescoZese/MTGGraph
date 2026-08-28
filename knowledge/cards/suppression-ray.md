@@ -10,17 +10,17 @@ meta_presence: 0.0149
 archetypes:
   mono-blue-belcher:
     weight: 1.0
-    avg_copies: 3.86
+    avg_copies: 3.87
   goryo:
-    weight: 0.0048
+    weight: 0.0046
     avg_copies: 1.0
   azorius-control:
-    weight: 0.028
+    weight: 0.0278
     avg_copies: 4.0
   goryo2:
-    weight: 0.0784
+    weight: 0.0769
     avg_copies: 1.0
   unknown-16:
-    weight: 0.8571
-    avg_copies: 3.67
+    weight: 0.7778
+    avg_copies: 3.43
 ---

@@ -6,37 +6,37 @@ name: 'Unknown #75'
 meta_share: 0.0001
 list_count: 1
 top_cards:
-- name: Arid Mesa
-  weight: 1.0
-  avg_copies: 4.0
-- name: Quantum Riddler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flooded Strand
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Hallowed Fountain
+- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Prismatic Ending
-  weight: 1.0
-  avg_copies: 4.0
-- name: Phelia, Exuberant Shepherd
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
+- name: Arid Mesa
+  weight: 1.0
+  avg_copies: 4.0
 - name: Ranger-Captain of Eos
+  weight: 1.0
+  avg_copies: 4.0
+- name: Hallowed Fountain
+  weight: 1.0
+  avg_copies: 4.0
+- name: Prismatic Ending
   weight: 1.0
   avg_copies: 4.0
 - name: Ephemerate
@@ -51,10 +51,7 @@ top_cards:
 - name: Rest in Peace
   weight: 1.0
   avg_copies: 2.0
-- name: March of Otherworldly Light
-  weight: 1.0
-  avg_copies: 2.0
-- name: Voice of Victory
+- name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 2.0
 - name: Chalice of the Void
@@ -63,16 +60,19 @@ top_cards:
 - name: Plains
   weight: 1.0
   avg_copies: 2.0
-- name: Harbinger of the Seas
+- name: Voice of Victory
   weight: 1.0
   avg_copies: 2.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 2.0
-- name: Consign to Memory
+- name: March of Otherworldly Light
+  weight: 1.0
+  avg_copies: 2.0
+- name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 1.5
-- name: Teferi, Time Raveler
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 1.5
 - name: Island

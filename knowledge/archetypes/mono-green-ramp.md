@@ -12,10 +12,10 @@ top_cards:
 - name: Quirion Ranger
   weight: 1.0
   avg_copies: 4.0
-- name: Green Sun's Zenith
+- name: Springheart Nantuko
   weight: 1.0
   avg_copies: 4.0
-- name: Springheart Nantuko
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 4.0
 - name: Windswept Heath
@@ -42,22 +42,22 @@ top_cards:
 - name: Endurance
   weight: 1.0
   avg_copies: 1.29
-- name: Ashaya, Soul of the Wild
-  weight: 1.0
-  avg_copies: 1.0
 - name: Craterhoof Behemoth
   weight: 1.0
   avg_copies: 1.0
 - name: Chomping Changeling
   weight: 1.0
   avg_copies: 1.0
+- name: Ashaya, Soul of the Wild
+  weight: 1.0
+  avg_copies: 1.0
 - name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
-- name: Disciple of Freyalise
+- name: Boseiju, Who Endures
   weight: 0.8571
   avg_copies: 1.17
-- name: Boseiju, Who Endures
+- name: Disciple of Freyalise
   weight: 0.8571
   avg_copies: 1.17
 - name: Delighted Halfling
@@ -105,10 +105,10 @@ top_cards:
 - name: Trinisphere
   weight: 0.4286
   avg_copies: 1.67
-- name: Fanatic of Rhonas
+- name: Slumbering Trudge
   weight: 0.2857
   avg_copies: 4.0
-- name: Slumbering Trudge
+- name: Fanatic of Rhonas
   weight: 0.2857
   avg_copies: 4.0
 - name: The Great Henge
@@ -123,34 +123,34 @@ top_cards:
 - name: Tajuru Preserver
   weight: 0.2857
   avg_copies: 1.0
-- name: Vexing Bauble
+- name: Damping Sphere
   weight: 0.1429
   avg_copies: 3.0
 - name: card:shang-chi-master-of-kung-fu
   weight: 0.1429
   avg_copies: 3.0
-- name: Fade from History
-  weight: 0.1429
-  avg_copies: 3.0
-- name: Damping Sphere
-  weight: 0.1429
-  avg_copies: 3.0
 - name: Force of Vigor
   weight: 0.1429
   avg_copies: 3.0
-- name: Ghost Vacuum
+- name: Vexing Bauble
+  weight: 0.1429
+  avg_copies: 3.0
+- name: Fade from History
+  weight: 0.1429
+  avg_copies: 3.0
+- name: Gaddock Teeg
   weight: 0.1429
   avg_copies: 1.0
 - name: card:enduring-vitality
   weight: 0.1429
   avg_copies: 1.0
-- name: Scavenging Ooze
-  weight: 0.1429
-  avg_copies: 1.0
 - name: card:ruric-thar-the-unbowed
   weight: 0.1429
   avg_copies: 1.0
-- name: Gaddock Teeg
+- name: Scavenging Ooze
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Ghost Vacuum
   weight: 0.1429
   avg_copies: 1.0
 ---

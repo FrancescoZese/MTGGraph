@@ -7,8 +7,11 @@ name: Poison Dart Frog
 scryfall_id: 62c1f09a-9d17-415c-8afa-cd0b62abe48d
 set: lci
 type: Creature — Frog
-meta_presence: 0.0001
+meta_presence: 0.0003
 archetypes:
+  unknown-49:
+    weight: 0.0833
+    avg_copies: 1.0
   unknown-92:
     weight: 1.0
     avg_copies: 1.0

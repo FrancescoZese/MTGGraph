@@ -7,10 +7,10 @@ name: Malevolent Rumble
 scryfall_id: a178cfe8-f9fa-4255-88d0-54a0bed079f5
 set: mh3
 type: Sorcery
-meta_presence: 0.1359
+meta_presence: 0.1372
 archetypes:
   amulet-titan:
-    weight: 0.7299
+    weight: 0.7303
     avg_copies: 2.94
   hardened-scales:
     weight: 0.8
@@ -23,15 +23,15 @@ archetypes:
     avg_copies: 3.25
   yawgmoth-combo:
     weight: 1.0
-    avg_copies: 3.54
+    avg_copies: 3.53
   eldrazi-ramp:
     weight: 1.0
     avg_copies: 3.94
   simic-ritual:
-    weight: 0.0103
+    weight: 0.0101
     avg_copies: 4.0
   samwise-combo:
-    weight: 0.6197
+    weight: 0.5946
     avg_copies: 2.34
   broodscale-combo:
     weight: 1.0
@@ -58,8 +58,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-6:
-    weight: 0.9444
-    avg_copies: 3.59
+    weight: 0.9474
+    avg_copies: 3.61
   unknown-9:
     weight: 1.0
     avg_copies: 2.0
@@ -71,7 +71,7 @@ archetypes:
     avg_copies: 4.0
   unknown-61:
     weight: 1.0
-    avg_copies: 3.89
+    avg_copies: 3.9
   unknown-52:
     weight: 1.0
     avg_copies: 4.0
@@ -81,6 +81,9 @@ archetypes:
   unknown-72:
     weight: 1.0
     avg_copies: 4.0
+  unknown-76:
+    weight: 0.1429
+    avg_copies: 3.0
   unknown-93:
     weight: 0.2
     avg_copies: 3.0
@@ -94,7 +97,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-126:
-    weight: 0.2652
+    weight: 0.2229
     avg_copies: 2.91
   unknown-134:
     weight: 1.0
@@ -103,7 +106,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-167:
-    weight: 0.3158
+    weight: 0.3
     avg_copies: 3.33
   unknown-176:
     weight: 1.0
@@ -115,6 +118,9 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-241:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-270:
     weight: 1.0
     avg_copies: 4.0
 ---

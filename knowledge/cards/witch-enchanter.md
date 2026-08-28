@@ -6,19 +6,19 @@ name: Witch Enchanter // Witch-Blessed Meadow
 scryfall_id: 62061e7c-cf19-4f03-b8fa-2bdba62d6b0b
 set: mh3
 type: Creature — Human Warlock // Land
-meta_presence: 0.0615
+meta_presence: 0.0637
 archetypes:
   boros-energy:
-    weight: 0.0447
-    avg_copies: 1.06
+    weight: 0.048
+    avg_copies: 1.05
   mono-blue-belcher:
-    weight: 0.0105
+    weight: 0.0101
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.0075
+    weight: 0.0074
     avg_copies: 2.0
   eldrazi-tron:
-    weight: 0.003
+    weight: 0.0029
     avg_copies: 2.0
   mardu-blink:
     weight: 1.0
@@ -34,18 +34,18 @@ archetypes:
     avg_copies: 1.67
   esper-blink:
     weight: 1.0
-    avg_copies: 3.26
+    avg_copies: 3.34
   orzhov-blink:
     weight: 1.0
-    avg_copies: 3.67
+    avg_copies: 3.68
   azorius-blink:
-    weight: 0.8986
-    avg_copies: 3.59
+    weight: 0.9014
+    avg_copies: 3.58
   goryo0:
     weight: 1.0
     avg_copies: 3.73
   goryo2:
-    weight: 0.0392
+    weight: 0.0385
     avg_copies: 1.0
   goryo3:
     weight: 1.0
@@ -82,7 +82,7 @@ archetypes:
     avg_copies: 4.0
   unknown-88:
     weight: 1.0
-    avg_copies: 3.06
+    avg_copies: 3.05
   unknown-89:
     weight: 1.0
     avg_copies: 2.0
@@ -99,7 +99,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-149:
-    weight: 0.4783
+    weight: 0.3667
     avg_copies: 2.73
   unknown-175:
     weight: 1.0
@@ -115,7 +115,7 @@ archetypes:
     avg_copies: 2.0
   unknown-237:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.5
   unknown-238:
     weight: 0.3333
     avg_copies: 2.0

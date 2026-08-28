@@ -10,9 +10,9 @@ type: Instant — Lesson
 meta_presence: 0.0022
 archetypes:
   samwise-combo:
-    weight: 0.0704
+    weight: 0.0676
     avg_copies: 1.0
   unknown-96:
-    weight: 0.1719
-    avg_copies: 2.0
+    weight: 0.169
+    avg_copies: 1.92
 ---

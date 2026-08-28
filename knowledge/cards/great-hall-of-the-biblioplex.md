@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.0009
 archetypes:
   ruby-storm:
-    weight: 0.0077
+    weight: 0.0075
     avg_copies: 1.5
   izzet-wizards:
     weight: 0.0769

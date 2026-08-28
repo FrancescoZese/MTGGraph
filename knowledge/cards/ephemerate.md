@@ -7,19 +7,19 @@ name: Ephemerate
 scryfall_id: 2da5f3f8-5eef-498f-ba2c-2f3fbc3745aa
 set: mh1
 type: Instant
-meta_presence: 0.1357
+meta_presence: 0.1385
 archetypes:
   boros-energy:
     weight: 0.0038
     avg_copies: 1.67
   jeskai-energy:
-    weight: 0.9478
+    weight: 0.9481
     avg_copies: 1.8
   goryo:
-    weight: 0.9952
+    weight: 0.9954
     avg_copies: 3.89
   jeskai-control:
-    weight: 0.0161
+    weight: 0.0154
     avg_copies: 2.0
   reanimator:
     weight: 0.037
@@ -34,10 +34,10 @@ archetypes:
     weight: 0.25
     avg_copies: 3.0
   esper-blink:
-    weight: 0.9944
-    avg_copies: 2.96
+    weight: 0.9951
+    avg_copies: 2.94
   orzhov-blink:
-    weight: 0.9444
+    weight: 0.9474
     avg_copies: 3.06
   bant-control:
     weight: 1.0
@@ -46,14 +46,14 @@ archetypes:
     weight: 1.0
     avg_copies: 3.52
   goryo2:
-    weight: 0.9412
-    avg_copies: 2.58
+    weight: 0.9423
+    avg_copies: 2.57
   unknown-3:
     weight: 1.0
     avg_copies: 3.0
   unknown-5:
-    weight: 0.9091
-    avg_copies: 3.6
+    weight: 0.9167
+    avg_copies: 3.64
   unknown-56:
     weight: 1.0
     avg_copies: 3.0
@@ -79,8 +79,8 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-88:
-    weight: 0.9375
-    avg_copies: 2.27
+    weight: 0.9474
+    avg_copies: 2.39
   unknown-89:
     weight: 1.0
     avg_copies: 2.0
@@ -89,7 +89,7 @@ archetypes:
     avg_copies: 2.67
   unknown-131:
     weight: 1.0
-    avg_copies: 2.11
+    avg_copies: 2.2
   unknown-135:
     weight: 1.0
     avg_copies: 2.0
@@ -98,7 +98,7 @@ archetypes:
     avg_copies: 3.0
   unknown-149:
     weight: 1.0
-    avg_copies: 2.57
+    avg_copies: 2.7
   unknown-175:
     weight: 1.0
     avg_copies: 3.0
@@ -116,7 +116,7 @@ archetypes:
     avg_copies: 1.0
   unknown-237:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 2.5
   unknown-257:
     weight: 1.0
     avg_copies: 4.0
@@ -124,6 +124,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-268:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-274:
     weight: 1.0
     avg_copies: 3.0
 ---

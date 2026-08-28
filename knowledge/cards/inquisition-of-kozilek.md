@@ -7,19 +7,19 @@ name: Inquisition of Kozilek
 scryfall_id: 17f38740-20fd-4097-90f8-f0c2c2ff7281
 set: 2x2
 type: Sorcery
-meta_presence: 0.0359
+meta_presence: 0.037
 archetypes:
   ruby-storm:
-    weight: 0.0038
+    weight: 0.0037
     avg_copies: 1.0
   goryo:
-    weight: 0.0048
-    avg_copies: 1.33
+    weight: 0.0046
+    avg_copies: 1.25
   necrodominance:
-    weight: 0.6
-    avg_copies: 2.33
+    weight: 0.6087
+    avg_copies: 2.32
   esper-blink:
-    weight: 0.0056
+    weight: 0.0049
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.0625
@@ -34,22 +34,22 @@ archetypes:
     weight: 0.0526
     avg_copies: 2.0
   cosmogoyf-fling:
-    weight: 0.5862
-    avg_copies: 3.7
+    weight: 0.6
+    avg_copies: 3.71
   goryo1:
-    weight: 0.25
-    avg_copies: 1.69
+    weight: 0.2723
+    avg_copies: 1.67
   goryo5:
-    weight: 0.3889
-    avg_copies: 1.88
+    weight: 0.425
+    avg_copies: 1.76
   goryo2:
-    weight: 0.6471
+    weight: 0.6538
     avg_copies: 1.88
   devoted-combo:
     weight: 1.0
     avg_copies: 4.0
   unknown-5:
-    weight: 0.1818
+    weight: 0.1667
     avg_copies: 1.67
   unknown-8:
     weight: 1.0
@@ -73,11 +73,11 @@ archetypes:
     weight: 0.5625
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0061
+    weight: 0.0113
     avg_copies: 1.0
   unknown-69:
-    weight: 0.8889
-    avg_copies: 1.78
+    weight: 0.9
+    avg_copies: 1.64
   unknown-73:
     weight: 1.0
     avg_copies: 1.0
@@ -85,8 +85,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-97:
-    weight: 0.6875
-    avg_copies: 1.67
+    weight: 0.6
+    avg_copies: 1.62
   unknown-162:
     weight: 1.0
     avg_copies: 4.0
@@ -95,11 +95,14 @@ archetypes:
     avg_copies: 4.0
   unknown-211:
     weight: 1.0
-    avg_copies: 3.75
+    avg_copies: 3.78
   unknown-225:
     weight: 1.0
     avg_copies: 1.83
   unknown-240:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-272:
     weight: 1.0
     avg_copies: 2.0
 ---

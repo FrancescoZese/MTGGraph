@@ -7,12 +7,12 @@ name: Plunge into Darkness
 scryfall_id: d21c74b4-dd9e-43d6-ad0a-06e026a8d672
 set: 5dn
 type: Instant
-meta_presence: 0.0089
+meta_presence: 0.009
 archetypes:
   cosmogoyf-fling:
     weight: 1.0
-    avg_copies: 3.76
+    avg_copies: 3.77
   unknown-211:
     weight: 1.0
-    avg_copies: 3.88
+    avg_copies: 3.89
 ---

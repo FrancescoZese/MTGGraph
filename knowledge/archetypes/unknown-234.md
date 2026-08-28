@@ -7,10 +7,13 @@ name: 'Unknown #234'
 meta_share: 0.0003
 list_count: 2
 top_cards:
-- name: Unearth
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Persist
+- name: Urza's Saga
+  weight: 1.0
+  avg_copies: 4.0
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Archon of Cruelty
@@ -19,22 +22,19 @@ top_cards:
 - name: The Underworld Cookbook
   weight: 1.0
   avg_copies: 4.0
-- name: Asmoranomardicadaistinaculdacar
-  weight: 1.0
-  avg_copies: 4.0
-- name: Scalding Tarn
-  weight: 1.0
-  avg_copies: 4.0
-- name: Urza's Saga
+- name: Persist
   weight: 1.0
   avg_copies: 4.0
 - name: Abhorrent Oculus
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
-- name: Polluted Delta
+- name: Unearth
+  weight: 1.0
+  avg_copies: 4.0
+- name: Asmoranomardicadaistinaculdacar
   weight: 1.0
   avg_copies: 4.0
 - name: Quantum Riddler
@@ -49,43 +49,43 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 2.5
-- name: Force of Negation
-  weight: 1.0
-  avg_copies: 2.0
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 2.0
-- name: Ovalchase Daredevil
+- name: Force of Negation
   weight: 1.0
   avg_copies: 2.0
 - name: End of the Hunt
   weight: 1.0
   avg_copies: 2.0
+- name: Ovalchase Daredevil
+  weight: 1.0
+  avg_copies: 2.0
 - name: Emperor of Bones
   weight: 1.0
   avg_copies: 1.5
+- name: Skateboard
+  weight: 1.0
+  avg_copies: 1.0
+- name: Island
+  weight: 1.0
+  avg_copies: 1.0
+- name: Swamp
+  weight: 1.0
+  avg_copies: 1.0
+- name: Nihil Spellbomb
+  weight: 1.0
+  avg_copies: 1.0
 - name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.0
-- name: Skateboard
-  weight: 1.0
-  avg_copies: 1.0
-- name: Nihil Spellbomb
-  weight: 1.0
-  avg_copies: 1.0
-- name: Swamp
-  weight: 1.0
-  avg_copies: 1.0
-- name: Undercity Sewers
-  weight: 1.0
-  avg_copies: 1.0
 - name: Shadowspear
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
 - name: Fatal Push

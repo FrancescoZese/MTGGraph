@@ -6,37 +6,37 @@ name: Haywire Mite
 scryfall_id: 6f813bc3-6d81-4555-8e4b-6ecd9a6757b7
 set: soc
 type: Artifact Creature — Insect
-meta_presence: 0.0826
+meta_presence: 0.084
 archetypes:
   eldrazi-tron:
-    weight: 0.0751
+    weight: 0.0794
     avg_copies: 1.0
   goryo:
-    weight: 0.0024
+    weight: 0.0023
     avg_copies: 1.0
   hardened-scales:
     weight: 0.6
     avg_copies: 1.0
   affinity:
-    weight: 0.0238
+    weight: 0.023
     avg_copies: 1.06
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.1789
+    weight: 0.1771
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.194
+    weight: 0.1871
     avg_copies: 1.04
   samwise-combo:
-    weight: 0.831
+    weight: 0.8378
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.9691
+    weight: 0.97
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.087
+    weight: 0.0845
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.5
@@ -60,14 +60,14 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-6:
-    weight: 0.7222
+    weight: 0.6842
     avg_copies: 1.0
   unknown-10:
     weight: 0.3333
     avg_copies: 1.0
   unknown-15:
-    weight: 0.7273
-    avg_copies: 1.04
+    weight: 0.6667
+    avg_copies: 1.08
   unknown-38:
     weight: 1.0
     avg_copies: 1.0
@@ -90,10 +90,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-88:
-    weight: 0.375
+    weight: 0.4737
     avg_copies: 1.0
   unknown-97:
-    weight: 0.0625
+    weight: 0.05
     avg_copies: 1.0
   unknown-102:
     weight: 0.5
@@ -102,10 +102,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-126:
-    weight: 0.0076
+    weight: 0.0255
     avg_copies: 1.0
   unknown-154:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 1.0
   unknown-157:
     weight: 1.0
@@ -114,7 +114,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-167:
-    weight: 0.6842
+    weight: 0.65
     avg_copies: 1.0
   unknown-176:
     weight: 1.0
@@ -123,7 +123,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-194:
-    weight: 0.96
+    weight: 0.9744
     avg_copies: 1.0
   unknown-213:
     weight: 0.2308

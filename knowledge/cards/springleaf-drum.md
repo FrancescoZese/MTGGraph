@@ -6,19 +6,19 @@ name: Springleaf Drum
 scryfall_id: e15ab0aa-4059-4923-9816-6f7a9e5b5a18
 set: ecl
 type: Artifact
-meta_presence: 0.0509
+meta_presence: 0.052
 archetypes:
   affinity:
-    weight: 0.0238
+    weight: 0.023
     avg_copies: 1.0
   hammer-time:
-    weight: 0.1579
+    weight: 0.1429
     avg_copies: 1.67
   broodscale-combo:
-    weight: 0.9815
+    weight: 0.982
     avg_copies: 1.04
   azorius-blink:
-    weight: 0.1159
+    weight: 0.1127
     avg_copies: 3.0
   unknown-21:
     weight: 1.0
@@ -33,14 +33,14 @@ archetypes:
     weight: 0.0909
     avg_copies: 3.0
   unknown-154:
-    weight: 0.3333
+    weight: 0.25
     avg_copies: 1.0
   unknown-176:
     weight: 1.0
     avg_copies: 1.0
   unknown-194:
-    weight: 0.92
-    avg_copies: 1.04
+    weight: 0.9487
+    avg_copies: 1.03
   unknown-253:
     weight: 1.0
     avg_copies: 1.0

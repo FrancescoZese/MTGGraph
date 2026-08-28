@@ -6,10 +6,10 @@ name: Abstergo Entertainment
 scryfall_id: 4d197866-7633-493c-80dd-ec3a09165934
 set: acr
 type: Legendary Land
-meta_presence: 0.0074
+meta_presence: 0.0073
 archetypes:
   eldrazi-tron:
-    weight: 0.1231
+    weight: 0.1235
     avg_copies: 1.0
   mono-blue-tron:
     weight: 0.4615
@@ -18,6 +18,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-265:
-    weight: 1.0
+    weight: 0.3333
     avg_copies: 1.0
 ---

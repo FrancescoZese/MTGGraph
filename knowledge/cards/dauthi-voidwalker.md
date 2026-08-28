@@ -7,32 +7,32 @@ name: Dauthi Voidwalker
 scryfall_id: 3573b9a2-7911-475c-8ae7-25bd0dbb7159
 set: tdc
 type: Creature — Dauthi Rogue
-meta_presence: 0.0213
+meta_presence: 0.0221
 archetypes:
   dimir-control:
     weight: 0.0123
     avg_copies: 2.0
   necrodominance:
-    weight: 0.5556
+    weight: 0.5652
     avg_copies: 3.23
   samwise-combo:
-    weight: 0.1127
+    weight: 0.1081
     avg_copies: 1.0
   grixis-shadow:
     weight: 0.2
     avg_copies: 2.0
   goryo1:
-    weight: 0.0489
-    avg_copies: 1.56
+    weight: 0.0628
+    avg_copies: 1.67
   goryo5:
-    weight: 0.8889
-    avg_copies: 2.65
+    weight: 0.9
+    avg_copies: 2.57
   soultrader-combo:
     weight: 0.5714
     avg_copies: 2.25
   unknown-1:
-    weight: 0.2308
-    avg_copies: 2.0
+    weight: 0.3333
+    avg_copies: 2.4
   unknown-18:
     weight: 1.0
     avg_copies: 2.0
@@ -55,13 +55,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-69:
-    weight: 0.8889
-    avg_copies: 3.09
+    weight: 0.9
+    avg_copies: 2.92
   unknown-77:
     weight: 0.5
     avg_copies: 2.0
   unknown-101:
-    weight: 0.0385
+    weight: 0.0323
     avg_copies: 4.0
   unknown-115:
     weight: 0.3333
@@ -73,18 +73,21 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-154:
-    weight: 1.0
+    weight: 0.75
     avg_copies: 2.0
   unknown-181:
-    weight: 1.0
+    weight: 0.8333
     avg_copies: 2.0
   unknown-199:
     weight: 1.0
     avg_copies: 4.0
   unknown-211:
-    weight: 0.25
+    weight: 0.2222
     avg_copies: 2.0
   unknown-225:
     weight: 0.6667
     avg_copies: 2.0
+  unknown-272:
+    weight: 1.0
+    avg_copies: 1.0
 ---

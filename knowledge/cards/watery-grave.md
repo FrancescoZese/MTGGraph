@@ -6,19 +6,19 @@ name: Watery Grave
 scryfall_id: 5b8170dc-6a90-46fc-9989-7575f3d402b5
 set: eoe
 type: Land — Island Swamp
-meta_presence: 0.2024
+meta_presence: 0.2041
 archetypes:
   dimir-control:
     weight: 1.0
     avg_copies: 2.63
   goryo:
-    weight: 0.9952
+    weight: 0.9954
     avg_copies: 1.0
   necrodominance:
-    weight: 0.0444
+    weight: 0.0435
     avg_copies: 3.5
   azorius-control:
-    weight: 0.4019
+    weight: 0.4074
     avg_copies: 1.0
   living-end:
     weight: 0.8333
@@ -33,16 +33,16 @@ archetypes:
     weight: 0.875
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.7526
+    weight: 0.7576
     avg_copies: 1.01
   esper-blink:
     weight: 1.0
-    avg_copies: 1.01
+    avg_copies: 1.0
   dredge:
     weight: 0.0357
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.0145
+    weight: 0.0141
     avg_copies: 1.0
   esper-control:
     weight: 1.0
@@ -55,7 +55,7 @@ archetypes:
     avg_copies: 1.0
   goryo1:
     weight: 1.0
-    avg_copies: 1.57
+    avg_copies: 1.55
   goryo2:
     weight: 1.0
     avg_copies: 1.06
@@ -70,7 +70,7 @@ archetypes:
     avg_copies: 3.0
   unknown-5:
     weight: 1.0
-    avg_copies: 1.09
+    avg_copies: 1.08
   unknown-20:
     weight: 1.0
     avg_copies: 3.67
@@ -94,7 +94,7 @@ archetypes:
     avg_copies: 2.33
   unknown-47:
     weight: 1.0
-    avg_copies: 2.44
+    avg_copies: 2.47
   unknown-51:
     weight: 1.0
     avg_copies: 2.0
@@ -111,7 +111,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-69:
-    weight: 0.2222
+    weight: 0.2
     avg_copies: 1.5
   unknown-73:
     weight: 1.0
@@ -135,7 +135,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-100:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 1.0
   unknown-105:
     weight: 1.0
@@ -145,7 +145,7 @@ archetypes:
     avg_copies: 1.0
   unknown-111:
     weight: 1.0
-    avg_copies: 2.5
+    avg_copies: 2.43
   unknown-113:
     weight: 1.0
     avg_copies: 1.0
@@ -244,5 +244,5 @@ archetypes:
     avg_copies: 3.0
   unknown-269:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.5
 ---

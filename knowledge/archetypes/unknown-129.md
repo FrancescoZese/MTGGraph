@@ -9,16 +9,19 @@ name: 'Unknown #129'
 meta_share: 0.0001
 list_count: 1
 top_cards:
-- name: Quantum Riddler
+- name: Leyline Binding
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline of the Guildpact
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 4.0
-- name: Scion of Draco
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
@@ -27,31 +30,28 @@ top_cards:
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
-- name: Leyline Binding
+- name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
 - name: Force of Negation
   weight: 1.0
   avg_copies: 3.0
-- name: Prismatic Ending
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 3.0
 - name: Kroxa, Titan of Death's Hunger
   weight: 1.0
   avg_copies: 3.0
-- name: Wrath of the Skies
+- name: Prismatic Ending
   weight: 1.0
   avg_copies: 3.0
-- name: High Noon
+- name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 2.0
-- name: Teferi, Time Raveler
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.0
 - name: Obsidian Charmaw
@@ -60,55 +60,55 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
-- name: Bloodstained Mire
+- name: High Noon
   weight: 1.0
   avg_copies: 2.0
 - name: Steam Vents
   weight: 1.0
   avg_copies: 2.0
-- name: Subtlety
-  weight: 1.0
-  avg_copies: 1.0
-- name: Watery Grave
-  weight: 1.0
-  avg_copies: 1.0
-- name: Arena of Glory
-  weight: 1.0
-  avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
-- name: Pyroclasm
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
-- name: Godless Shrine
-  weight: 1.0
-  avg_copies: 1.0
-- name: Wear
-  weight: 1.0
-  avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Mountain
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
 - name: Indatha Triome
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Subtlety
   weight: 1.0
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Arena of Glory
+  weight: 1.0
+  avg_copies: 1.0
+- name: Nihil Spellbomb
+  weight: 1.0
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
+  weight: 1.0
+  avg_copies: 1.0
+- name: Raucous Theater
+  weight: 1.0
+  avg_copies: 1.0
+- name: Wear
+  weight: 1.0
+  avg_copies: 1.0
+- name: Pyroclasm
   weight: 1.0
   avg_copies: 1.0
 ---

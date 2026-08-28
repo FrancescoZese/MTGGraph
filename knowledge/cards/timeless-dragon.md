@@ -10,6 +10,6 @@ type: Creature — Dragon
 meta_presence: 0.0001
 archetypes:
   jeskai-control:
-    weight: 0.0161
+    weight: 0.0154
     avg_copies: 1.0
 ---

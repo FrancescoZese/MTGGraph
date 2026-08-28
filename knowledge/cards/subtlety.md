@@ -7,49 +7,49 @@ name: Subtlety
 scryfall_id: 701256d5-1389-48b7-9581-d6037209bd06
 set: mh2
 type: Creature — Elemental Incarnation
-meta_presence: 0.1015
+meta_presence: 0.1003
 archetypes:
   dimir-control:
     weight: 0.9753
     avg_copies: 3.1
   mono-blue-belcher:
-    weight: 0.0105
+    weight: 0.0101
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.0075
+    weight: 0.0074
     avg_copies: 1.0
   goryo:
-    weight: 0.0604
+    weight: 0.0579
     avg_copies: 1.26
   azorius-control:
-    weight: 0.0841
+    weight: 0.0833
     avg_copies: 1.8
   living-end:
     weight: 1.0
     avg_copies: 3.96
   jeskai-control:
-    weight: 0.1129
+    weight: 0.1077
     avg_copies: 1.71
   mill:
     weight: 0.027
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0088
+    weight: 0.0087
     avg_copies: 1.0
   mono-blue-tron:
     weight: 0.8077
     avg_copies: 2.5
   simic-ritual:
-    weight: 0.9897
+    weight: 0.9899
     avg_copies: 3.54
   izzet-prowess:
-    weight: 0.0025
+    weight: 0.0024
     avg_copies: 2.0
   4c-omnath:
     weight: 0.75
     avg_copies: 4.0
   esper-blink:
-    weight: 0.0168
+    weight: 0.0147
     avg_copies: 2.33
   izzet-artifacts:
     weight: 0.0312
@@ -64,10 +64,10 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   goryo1:
-    weight: 0.0054
+    weight: 0.0052
     avg_copies: 1.0
   goryo2:
-    weight: 0.098
+    weight: 0.0962
     avg_copies: 1.33
   grixis-control:
     weight: 0.7143
@@ -104,7 +104,7 @@ archetypes:
     avg_copies: 2.14
   unknown-47:
     weight: 1.0
-    avg_copies: 2.69
+    avg_copies: 2.68
   unknown-51:
     weight: 1.0
     avg_copies: 4.0
@@ -119,7 +119,7 @@ archetypes:
     avg_copies: 3.59
   unknown-67:
     weight: 1.0
-    avg_copies: 3.92
+    avg_copies: 3.93
   unknown-79:
     weight: 0.8333
     avg_copies: 1.57
@@ -140,7 +140,7 @@ archetypes:
     avg_copies: 4.0
   unknown-111:
     weight: 1.0
-    avg_copies: 3.17
+    avg_copies: 3.14
   unknown-113:
     weight: 1.0
     avg_copies: 3.33
@@ -186,6 +186,9 @@ archetypes:
   unknown-164:
     weight: 0.5
     avg_copies: 4.0
+  unknown-190:
+    weight: 0.5
+    avg_copies: 1.0
   unknown-208:
     weight: 1.0
     avg_copies: 1.0
@@ -219,4 +222,7 @@ archetypes:
   unknown-268:
     weight: 1.0
     avg_copies: 4.0
+  unknown-274:
+    weight: 1.0
+    avg_copies: 1.0
 ---

@@ -8,12 +8,15 @@ name: Renegade Rallier
 scryfall_id: 90bad312-80e3-45b0-9556-60ce06808a47
 set: aer
 type: Creature — Human Warrior
-meta_presence: 0.0015
+meta_presence: 0.0016
 archetypes:
   samwise-combo:
-    weight: 0.1408
+    weight: 0.1351
     avg_copies: 1.0
   unknown-60:
     weight: 1.0
     avg_copies: 4.0
+  unknown-237:
+    weight: 0.5
+    avg_copies: 2.0
 ---

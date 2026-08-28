@@ -10,7 +10,7 @@ meta_presence: 0.0134
 archetypes:
   mono-blue-belcher:
     weight: 1.0
-    avg_copies: 3.65
+    avg_copies: 3.66
   unknown-164:
     weight: 1.0
     avg_copies: 4.0

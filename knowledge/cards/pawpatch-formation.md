@@ -9,11 +9,14 @@ set: blb
 type: Instant
 meta_presence: 0.0023
 archetypes:
+  yawgmoth-combo:
+    weight: 0.0104
+    avg_copies: 2.0
   indomitable-creativity:
     weight: 0.875
     avg_copies: 2.43
   broodscale-combo:
-    weight: 0.0031
+    weight: 0.003
     avg_copies: 1.0
   unknown-8:
     weight: 1.0

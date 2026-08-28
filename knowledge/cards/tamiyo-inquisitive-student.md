@@ -6,28 +6,28 @@ name: Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
 scryfall_id: 2a717b98-cdac-416d-bf6c-f6b6638e65d1
 set: mh3
 type: Legendary Creature — Moonfolk Wizard // Legendary Planeswalker — Tamiyo
-meta_presence: 0.0566
+meta_presence: 0.0569
 archetypes:
   dimir-control:
     weight: 0.4691
     avg_copies: 2.24
   mono-blue-belcher:
-    weight: 0.2421
-    avg_copies: 1.82
+    weight: 0.2424
+    avg_copies: 1.83
   jeskai-energy:
-    weight: 0.0373
+    weight: 0.037
     avg_copies: 1.4
   goryo:
-    weight: 0.0048
+    weight: 0.0046
     avg_copies: 1.5
   azorius-control:
-    weight: 0.0187
+    weight: 0.0185
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.0806
+    weight: 0.0769
     avg_copies: 3.0
   affinity:
-    weight: 0.0037
+    weight: 0.0035
     avg_copies: 2.0
   mill:
     weight: 0.0541
@@ -39,10 +39,10 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   simic-ritual:
-    weight: 0.1237
+    weight: 0.1212
     avg_copies: 1.33
   azorius-blink:
-    weight: 0.029
+    weight: 0.0282
     avg_copies: 3.0
   izzet-artifacts:
     weight: 0.9688
@@ -57,7 +57,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.0054
+    weight: 0.0052
     avg_copies: 2.0
   grixis-control:
     weight: 1.0
@@ -75,7 +75,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-5:
-    weight: 0.0909
+    weight: 0.0833
     avg_copies: 1.5
   unknown-6:
     weight: 1.0
@@ -85,7 +85,7 @@ archetypes:
     avg_copies: 4.0
   unknown-15:
     weight: 1.0
-    avg_copies: 3.86
+    avg_copies: 3.88
   unknown-22:
     weight: 0.75
     avg_copies: 2.75
@@ -96,8 +96,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-47:
-    weight: 0.811
-    avg_copies: 2.07
+    weight: 0.8192
+    avg_copies: 2.06
   unknown-51:
     weight: 1.0
     avg_copies: 4.0
@@ -126,7 +126,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-100:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 2.0
   unknown-105:
     weight: 1.0
@@ -147,14 +147,14 @@ archetypes:
     weight: 0.1111
     avg_copies: 4.0
   unknown-139:
-    weight: 0.0833
+    weight: 0.0769
     avg_copies: 1.0
   unknown-155:
     weight: 1.0
     avg_copies: 4.0
   unknown-167:
     weight: 1.0
-    avg_copies: 3.68
+    avg_copies: 3.7
   unknown-171:
     weight: 1.0
     avg_copies: 4.0

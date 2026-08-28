@@ -9,7 +9,7 @@ type: Sorcery // Land
 meta_presence: 0.0008
 archetypes:
   necrodominance:
-    weight: 0.0444
+    weight: 0.0435
     avg_copies: 2.0
   reanimator:
     weight: 0.037
@@ -18,6 +18,6 @@ archetypes:
     weight: 0.0312
     avg_copies: 1.0
   unknown-69:
-    weight: 0.2222
+    weight: 0.2
     avg_copies: 1.0
 ---

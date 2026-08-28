@@ -11,16 +11,16 @@ type: Instant
 meta_presence: 0.0042
 archetypes:
   yawgmoth-combo:
-    weight: 0.0211
+    weight: 0.0208
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.0282
+    weight: 0.027
     avg_copies: 2.0
   jund-saga:
     weight: 0.2
     avg_copies: 1.0
   goryo5:
-    weight: 0.4444
+    weight: 0.4
     avg_copies: 2.38
   unknown-4:
     weight: 1.0
@@ -31,4 +31,7 @@ archetypes:
   unknown-46:
     weight: 0.875
     avg_copies: 3.29
+  unknown-154:
+    weight: 0.25
+    avg_copies: 1.0
 ---

@@ -10,8 +10,8 @@ type: Enchantment Creature — Nightmare
 meta_presence: 0.007
 archetypes:
   boros-energy:
-    weight: 0.0026
-    avg_copies: 1.0
+    weight: 0.0038
+    avg_copies: 1.33
   hollow-one:
     weight: 0.4118
     avg_copies: 2.07
@@ -31,17 +31,17 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-96:
-    weight: 0.0469
+    weight: 0.0423
     avg_copies: 1.0
   unknown-90:
     weight: 1.0
     avg_copies: 3.0
   unknown-101:
-    weight: 0.2308
+    weight: 0.1935
     avg_copies: 2.33
   unknown-156:
     weight: 1.0
-    avg_copies: 3.33
+    avg_copies: 3.5
   unknown-161:
     weight: 1.0
     avg_copies: 3.5

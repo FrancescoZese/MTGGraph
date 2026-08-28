@@ -7,19 +7,19 @@ name: Elesh Norn, Mother of Machines
 scryfall_id: 44dcab01-1d13-4dfc-ae2f-fbaa3dd35087
 set: one
 type: Legendary Creature — Phyrexian Praetor
-meta_presence: 0.0123
+meta_presence: 0.0134
 archetypes:
   dimir-control:
     weight: 0.0123
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.1119
+    weight: 0.1111
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.0057
+    weight: 0.0056
     avg_copies: 1.0
   goryo:
-    weight: 0.0314
+    weight: 0.0301
     avg_copies: 1.0
   azorius-control:
     weight: 0.0093
@@ -34,25 +34,25 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   esper-blink:
-    weight: 0.1508
-    avg_copies: 1.0
+    weight: 0.1863
+    avg_copies: 1.02
   indomitable-creativity:
     weight: 0.0625
     avg_copies: 1.0
   orzhov-blink:
-    weight: 0.2222
+    weight: 0.2105
     avg_copies: 1.0
   bant-control:
     weight: 1.0
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.0435
+    weight: 0.0563
     avg_copies: 1.0
   naya-midrange:
     weight: 1.0
     avg_copies: 1.0
   goryo2:
-    weight: 0.0196
+    weight: 0.0192
     avg_copies: 1.0
   unknown-12:
     weight: 1.0
@@ -61,19 +61,19 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.5
   unknown-76:
-    weight: 0.1667
+    weight: 0.1429
     avg_copies: 1.0
   unknown-77:
     weight: 1.0
     avg_copies: 1.0
   unknown-88:
-    weight: 0.125
+    weight: 0.1053
     avg_copies: 1.0
   unknown-93:
     weight: 0.2
     avg_copies: 1.0
   unknown-131:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 1.0
   unknown-153:
     weight: 0.5
@@ -82,7 +82,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-237:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 1.0
   unknown-238:
     weight: 0.3333

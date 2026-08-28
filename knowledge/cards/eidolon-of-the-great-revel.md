@@ -10,8 +10,8 @@ type: Enchantment Creature — Spirit
 meta_presence: 0.0055
 archetypes:
   burn:
-    weight: 0.825
-    avg_copies: 3.56
+    weight: 0.8293
+    avg_copies: 3.57
   unknown-71:
     weight: 1.0
     avg_copies: 3.0

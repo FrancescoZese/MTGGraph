@@ -10,7 +10,7 @@ type: Enchantment
 meta_presence: 0.007
 archetypes:
   necrodominance:
-    weight: 0.2667
+    weight: 0.2609
     avg_copies: 1.17
   mill:
     weight: 0.0541
@@ -19,7 +19,7 @@ archetypes:
     weight: 0.2647
     avg_copies: 1.0
   orzhov-blink:
-    weight: 0.0556
+    weight: 0.0526
     avg_copies: 2.0
   dredge:
     weight: 0.0357
@@ -28,10 +28,10 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   goryo1:
-    weight: 0.0054
+    weight: 0.0052
     avg_copies: 1.0
   goryo5:
-    weight: 0.1111
+    weight: 0.125
     avg_copies: 1.0
   unknown-34:
     weight: 1.0
@@ -40,12 +40,12 @@ archetypes:
     weight: 0.875
     avg_copies: 1.0
   unknown-69:
-    weight: 0.3333
-    avg_copies: 1.33
+    weight: 0.4
+    avg_copies: 1.25
   unknown-78:
     weight: 1.0
     avg_copies: 2.0
   unknown-181:
-    weight: 0.8
+    weight: 0.6667
     avg_copies: 1.0
 ---

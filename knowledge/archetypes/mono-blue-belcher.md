@@ -2,8 +2,8 @@
 colors:
 - U
 name: Mono Blue Belcher
-meta_share: 0.0128
-list_count: 95
+meta_share: 0.0129
+list_count: 99
 top_cards:
 - name: Whir of Invention
   weight: 1.0
@@ -31,165 +31,168 @@ top_cards:
   avg_copies: 3.93
 - name: Suppression Ray
   weight: 1.0
-  avg_copies: 3.86
+  avg_copies: 3.87
 - name: Jwari Disruption
   weight: 1.0
-  avg_copies: 3.65
+  avg_copies: 3.66
 - name: Consign to Memory
   weight: 1.0
-  avg_copies: 3.25
+  avg_copies: 3.28
 - name: Waterlogged Teachings
-  weight: 0.9789
-  avg_copies: 2.97
+  weight: 0.9798
+  avg_copies: 2.98
 - name: Stern Scolding
-  weight: 0.9579
-  avg_copies: 1.92
+  weight: 0.9495
+  avg_copies: 1.91
 - name: Force of Negation
-  weight: 0.9263
-  avg_copies: 2.12
+  weight: 0.9293
+  avg_copies: 2.15
 - name: Mystical Dispute
-  weight: 0.9158
-  avg_copies: 2.18
+  weight: 0.9192
+  avg_copies: 2.19
 - name: Spell Snare
-  weight: 0.9158
-  avg_copies: 1.9
+  weight: 0.9192
+  avg_copies: 1.89
 - name: Engineered Explosives
-  weight: 0.8
+  weight: 0.798
   avg_copies: 1.95
 - name: Into the Flood Maw
-  weight: 0.7789
-  avg_copies: 1.94
+  weight: 0.7879
+  avg_copies: 1.96
 - name: Beyeen Veil
-  weight: 0.7158
-  avg_copies: 1.32
+  weight: 0.7071
+  avg_copies: 1.34
 - name: Island
-  weight: 0.6947
-  avg_copies: 1.12
+  weight: 0.697
+  avg_copies: 1.13
 - name: Harbinger of the Seas
-  weight: 0.6316
+  weight: 0.6061
   avg_copies: 1.75
 - name: Flusterstorm
-  weight: 0.6105
-  avg_copies: 1.76
+  weight: 0.596
+  avg_copies: 1.75
 - name: Counterspell
-  weight: 0.5789
-  avg_copies: 2.67
+  weight: 0.5859
+  avg_copies: 2.64
 - name: Preordain
-  weight: 0.5053
-  avg_copies: 2.88
+  weight: 0.5152
+  avg_copies: 2.84
 - name: Tezzeret the Seeker
-  weight: 0.4947
+  weight: 0.4747
   avg_copies: 1.08
 - name: Thundertrap Trainer
-  weight: 0.4737
+  weight: 0.4646
   avg_copies: 3.87
 - name: Tormod's Crypt
-  weight: 0.4316
+  weight: 0.4242
   avg_copies: 1.07
 - name: Flare of Denial
-  weight: 0.4105
+  weight: 0.404
   avg_copies: 2.95
 - name: Fallaji Archaeologist
-  weight: 0.3895
-  avg_copies: 3.49
+  weight: 0.3838
+  avg_copies: 3.5
 - name: Hurkyl's Recall
-  weight: 0.3895
-  avg_copies: 1.59
+  weight: 0.3838
+  avg_copies: 1.61
 - name: Stock Up
-  weight: 0.3368
-  avg_copies: 1.06
+  weight: 0.3434
+  avg_copies: 1.08
 - name: Strix Serenade
-  weight: 0.3263
-  avg_copies: 1.11
-- name: Unable to Scream
-  weight: 0.2737
-  avg_copies: 1.42
+  weight: 0.3232
+  avg_copies: 1.1
 - name: Commandeer
-  weight: 0.2737
-  avg_copies: 1.42
+  weight: 0.2828
+  avg_copies: 1.43
+- name: Unable to Scream
+  weight: 0.2727
+  avg_copies: 1.44
 - name: Tamiyo, Inquisitive Student
-  weight: 0.2421
-  avg_copies: 1.82
-- name: Mountain
-  weight: 0.2105
-  avg_copies: 1.0
+  weight: 0.2424
+  avg_copies: 1.83
 - name: Grafdigger's Cage
-  weight: 0.1895
+  weight: 0.2222
+  avg_copies: 1.0
+- name: Mountain
+  weight: 0.202
   avg_copies: 1.0
 - name: Spell Pierce
-  weight: 0.1579
+  weight: 0.1515
   avg_copies: 1.0
 - name: card:impulse
-  weight: 0.0737
+  weight: 0.0707
   avg_copies: 4.0
 - name: Dusk Rose Reliquary
-  weight: 0.0737
+  weight: 0.0707
   avg_copies: 1.0
+- name: card:namor-the-sub-mariner
+  weight: 0.0606
+  avg_copies: 2.17
 - name: Razorgrass Ambush
-  weight: 0.0632
+  weight: 0.0606
   avg_copies: 1.83
 - name: Orim's Chant
-  weight: 0.0421
+  weight: 0.0404
   avg_copies: 3.0
-- name: card:namor-the-sub-mariner
-  weight: 0.0421
-  avg_copies: 2.25
 - name: Talisman of Progress
-  weight: 0.0421
+  weight: 0.0404
   avg_copies: 1.75
 - name: Step Through
-  weight: 0.0316
-  avg_copies: 1.0
-- name: Echoing Truth
-  weight: 0.0211
+  weight: 0.0303
   avg_copies: 1.0
 - name: Portable Hole
-  weight: 0.0211
+  weight: 0.0202
+  avg_copies: 1.0
+- name: Echoing Truth
+  weight: 0.0202
   avg_copies: 1.0
 - name: Pact of Negation
-  weight: 0.0105
+  weight: 0.0101
   avg_copies: 3.0
-- name: Wan Shi Tong, Librarian
-  weight: 0.0105
-  avg_copies: 2.0
 - name: Ceremonious Rejection
-  weight: 0.0105
+  weight: 0.0101
   avg_copies: 2.0
-- name: Displacement Wave
-  weight: 0.0105
+- name: Wan Shi Tong, Librarian
+  weight: 0.0101
+  avg_copies: 2.0
+- name: card:diary-of-dreams
+  weight: 0.0101
   avg_copies: 1.0
 - name: Subtlety
-  weight: 0.0105
-  avg_copies: 1.0
-- name: card:diary-of-dreams
-  weight: 0.0105
-  avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.0105
-  avg_copies: 1.0
-- name: Erode
-  weight: 0.0105
-  avg_copies: 1.0
-- name: card:threads-of-disloyalty
-  weight: 0.0105
-  avg_copies: 1.0
-- name: Shadow of Doubt
-  weight: 0.0105
+  weight: 0.0101
   avg_copies: 1.0
 - name: Witch Enchanter
-  weight: 0.0105
+  weight: 0.0101
+  avg_copies: 1.0
+- name: card:threads-of-disloyalty
+  weight: 0.0101
   avg_copies: 1.0
 - name: Ashiok, Dream Render
-  weight: 0.0105
+  weight: 0.0101
+  avg_copies: 1.0
+- name: Erode
+  weight: 0.0101
   avg_copies: 1.0
 - name: Dress Down
-  weight: 0.0105
-  avg_copies: 1.0
-- name: Isochron Scepter
-  weight: 0.0105
+  weight: 0.0101
   avg_copies: 1.0
 - name: Hope of Ghirapur
-  weight: 0.0105
+  weight: 0.0101
+  avg_copies: 1.0
+- name: Isochron Scepter
+  weight: 0.0101
+  avg_copies: 1.0
+- name: Surgical Extraction
+  weight: 0.0101
+  avg_copies: 1.0
+- name: Shadow of Doubt
+  weight: 0.0101
+  avg_copies: 1.0
+- name: card:snapback
+  weight: 0.0101
+  avg_copies: 1.0
+- name: Displacement Wave
+  weight: 0.0101
   avg_copies: 1.0
 ---
 Combo deck that uses Whir of Invention to find Goblin Charbelcher and wins with a landless deck. Thundertrap Trainer and Tameshi provide backup artifact synergies.

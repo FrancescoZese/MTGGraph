@@ -6,7 +6,7 @@ name: Scion of Draco
 scryfall_id: 3e7da55c-7f05-46b2-aa3c-17f8d5df46bb
 set: mh2
 type: Artifact Creature — Dragon
-meta_presence: 0.0297
+meta_presence: 0.0288
 archetypes:
   domain-zoo:
     weight: 1.0
@@ -15,7 +15,7 @@ archetypes:
     weight: 0.25
     avg_copies: 4.0
   cosmogoyf-fling:
-    weight: 0.069
+    weight: 0.0667
     avg_copies: 4.0
   soultrader-combo0:
     weight: 1.0
@@ -57,6 +57,9 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-207:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-274:
     weight: 1.0
     avg_copies: 4.0
 ---

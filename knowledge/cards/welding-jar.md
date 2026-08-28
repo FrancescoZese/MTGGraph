@@ -12,8 +12,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.8
   affinity:
-    weight: 0.9304
-    avg_copies: 1.26
+    weight: 0.9327
+    avg_copies: 1.29
   goryo7:
     weight: 1.0
     avg_copies: 3.67
@@ -25,7 +25,7 @@ archetypes:
     avg_copies: 1.0
   unknown-49:
     weight: 1.0
-    avg_copies: 3.8
+    avg_copies: 3.58
   unknown-59:
     weight: 0.5
     avg_copies: 1.0
@@ -35,4 +35,7 @@ archetypes:
   unknown-213:
     weight: 0.0769
     avg_copies: 1.0
+  unknown-273:
+    weight: 1.0
+    avg_copies: 4.0
 ---

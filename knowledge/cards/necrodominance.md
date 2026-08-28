@@ -7,14 +7,14 @@ name: Necrodominance
 scryfall_id: ffc0109c-f939-4424-820e-d6e60cacd794
 set: mh3
 type: Legendary Enchantment
-meta_presence: 0.0151
+meta_presence: 0.0155
 archetypes:
   necrodominance:
     weight: 1.0
     avg_copies: 3.96
   goryo5:
     weight: 1.0
-    avg_copies: 3.94
+    avg_copies: 3.95
   unknown-46:
     weight: 1.0
     avg_copies: 4.0

@@ -8,16 +8,16 @@ name: Psychic Frog
 scryfall_id: 68924203-c3d9-41ce-8ca8-c6dd491eb3ca
 set: mh3
 type: Creature — Frog
-meta_presence: 0.1471
+meta_presence: 0.1472
 archetypes:
   dimir-control:
     weight: 0.5802
     avg_copies: 3.55
   goryo:
-    weight: 0.9952
+    weight: 0.9954
     avg_copies: 3.96
   necrodominance:
-    weight: 0.0444
+    weight: 0.0435
     avg_copies: 4.0
   domain-zoo:
     weight: 0.0331
@@ -26,10 +26,10 @@ archetypes:
     weight: 0.8519
     avg_copies: 3.87
   simic-ritual:
-    weight: 0.0206
+    weight: 0.0202
     avg_copies: 3.0
   esper-blink:
-    weight: 0.2123
+    weight: 0.1863
     avg_copies: 3.11
   dredge:
     weight: 0.1429
@@ -89,7 +89,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-69:
-    weight: 0.2222
+    weight: 0.2
     avg_copies: 4.0
   unknown-73:
     weight: 1.0
@@ -111,7 +111,7 @@ archetypes:
     avg_copies: 4.0
   unknown-100:
     weight: 1.0
-    avg_copies: 3.75
+    avg_copies: 3.8
   unknown-105:
     weight: 1.0
     avg_copies: 2.0
@@ -179,7 +179,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-237:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 3.0
   unknown-240:
     weight: 1.0

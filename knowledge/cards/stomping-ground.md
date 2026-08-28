@@ -6,13 +6,13 @@ name: Stomping Ground
 scryfall_id: 69be21b4-c613-47c6-ba57-f4785861af3e
 set: eoe
 type: Land — Mountain Forest
-meta_presence: 0.0903
+meta_presence: 0.0899
 archetypes:
   ruby-storm:
-    weight: 0.1533
+    weight: 0.1493
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.0075
+    weight: 0.0074
     avg_copies: 1.0
   living-end:
     weight: 0.0256
@@ -21,26 +21,26 @@ archetypes:
     weight: 0.0882
     avg_copies: 1.67
   eldrazi-ramp:
-    weight: 0.9851
+    weight: 0.9856
     avg_copies: 1.39
   simic-ritual:
-    weight: 0.0309
+    weight: 0.0303
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.158
+    weight: 0.1627
     avg_copies: 1.03
   4c-omnath:
     weight: 0.5
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.0563
+    weight: 0.0541
     avg_copies: 1.0
   indomitable-creativity:
     weight: 1.0
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.4599
-    avg_copies: 1.09
+    weight: 0.4655
+    avg_copies: 1.1
   dredge:
     weight: 0.9286
     avg_copies: 1.85
@@ -63,7 +63,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-6:
-    weight: 0.7222
+    weight: 0.7368
     avg_copies: 1.0
   unknown-8:
     weight: 1.0
@@ -102,13 +102,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.1406
+    weight: 0.1268
     avg_copies: 2.0
   unknown-90:
     weight: 1.0
     avg_copies: 1.0
   unknown-97:
-    weight: 0.0625
+    weight: 0.05
     avg_copies: 1.0
   unknown-114:
     weight: 1.0
@@ -117,7 +117,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-122:
-    weight: 0.3333
+    weight: 0.3226
     avg_copies: 1.0
   unknown-128:
     weight: 1.0
@@ -138,7 +138,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-194:
-    weight: 0.04
+    weight: 0.1026
     avg_copies: 1.0
   unknown-196:
     weight: 1.0

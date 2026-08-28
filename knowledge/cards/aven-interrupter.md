@@ -10,7 +10,7 @@ type: Creature — Bird Rogue
 meta_presence: 0.0008
 archetypes:
   orzhov-blink:
-    weight: 0.2778
+    weight: 0.2632
     avg_copies: 1.14
   unknown-62:
     weight: 0.0303

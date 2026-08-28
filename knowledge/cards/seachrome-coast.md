@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.0042
 archetypes:
   hammer-time:
-    weight: 0.1053
+    weight: 0.0952
     avg_copies: 2.5
   goryo7:
     weight: 1.0
@@ -18,7 +18,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   unknown-167:
-    weight: 0.3684
+    weight: 0.35
     avg_copies: 3.43
   unknown-170:
     weight: 1.0
@@ -30,6 +30,9 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-223:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-273:
     weight: 1.0
     avg_copies: 4.0
 ---

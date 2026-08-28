@@ -13,7 +13,7 @@ type: Legendary Creature — Elemental
 meta_presence: 0.0026
 archetypes:
   jeskai-energy:
-    weight: 0.0075
+    weight: 0.0074
     avg_copies: 1.0
   4c-omnath:
     weight: 1.0
@@ -29,7 +29,7 @@ archetypes:
     avg_copies: 3.0
   unknown-237:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 2.5
   unknown-238:
     weight: 1.0
     avg_copies: 4.0

@@ -6,14 +6,14 @@ name: Graveyard Trespasser // Graveyard Glutton
 scryfall_id: daa2a273-488f-4285-a069-ad159ad2d393
 set: mid
 type: Creature — Human Werewolf // Creature — Werewolf
-meta_presence: 0.0112
+meta_presence: 0.011
 archetypes:
   dimir-control:
     weight: 0.1728
     avg_copies: 1.31
   necrodominance:
-    weight: 0.7778
-    avg_copies: 3.29
+    weight: 0.7826
+    avg_copies: 3.25
   reanimator:
     weight: 0.037
     avg_copies: 2.0
@@ -21,10 +21,10 @@ archetypes:
     weight: 0.0417
     avg_copies: 2.0
   simic-ritual:
-    weight: 0.0103
+    weight: 0.0101
     avg_copies: 2.0
   esper-blink:
-    weight: 0.0168
+    weight: 0.0147
     avg_copies: 2.0
   jund-saga:
     weight: 0.2
@@ -36,10 +36,10 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo1:
-    weight: 0.0054
+    weight: 0.0052
     avg_copies: 2.0
   goryo5:
-    weight: 0.2222
+    weight: 0.2
     avg_copies: 1.36
   soultrader-combo:
     weight: 0.1429
@@ -48,13 +48,13 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-5:
-    weight: 0.0909
+    weight: 0.0833
     avg_copies: 1.0
   unknown-18:
     weight: 1.0
     avg_copies: 4.0
   unknown-24:
-    weight: 0.1111
+    weight: 0.1071
     avg_copies: 1.0
   unknown-30:
     weight: 0.1429
@@ -62,6 +62,9 @@ archetypes:
   unknown-46:
     weight: 0.25
     avg_copies: 1.5
+  unknown-47:
+    weight: 0.0056
+    avg_copies: 1.0
   unknown-52:
     weight: 0.0833
     avg_copies: 3.0
@@ -69,7 +72,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-69:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 1.0
   unknown-91:
     weight: 1.0

@@ -7,20 +7,20 @@ name: Sheoldred's Edict
 scryfall_id: a9225cc3-90f0-448f-a8d9-7c6c2796d077
 set: one
 type: Instant
-meta_presence: 0.0445
+meta_presence: 0.0453
 archetypes:
   dimir-control:
     weight: 0.9012
     avg_copies: 2.07
   amulet-titan:
-    weight: 0.0057
+    weight: 0.0056
     avg_copies: 2.0
   goryo:
-    weight: 0.0024
+    weight: 0.0023
     avg_copies: 1.0
   necrodominance:
-    weight: 0.3111
-    avg_copies: 1.71
+    weight: 0.3261
+    avg_copies: 1.72
   mill:
     weight: 0.2162
     avg_copies: 1.2
@@ -34,10 +34,10 @@ archetypes:
     weight: 0.0588
     avg_copies: 2.0
   esper-blink:
-    weight: 0.0056
+    weight: 0.0049
     avg_copies: 2.0
   orzhov-blink:
-    weight: 0.2222
+    weight: 0.2105
     avg_copies: 2.0
   jund-saga:
     weight: 0.2
@@ -52,7 +52,7 @@ archetypes:
     weight: 0.5
     avg_copies: 4.0
   goryo5:
-    weight: 0.7222
+    weight: 0.75
     avg_copies: 1.19
   grixis-control:
     weight: 0.7143
@@ -73,23 +73,23 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.7439
-    avg_copies: 1.26
+    weight: 0.7627
+    avg_copies: 1.29
   unknown-56:
     weight: 1.0
     avg_copies: 2.0
   unknown-69:
-    weight: 0.5556
+    weight: 0.5
     avg_copies: 1.33
   unknown-91:
     weight: 1.0
     avg_copies: 2.0
   unknown-101:
-    weight: 0.2692
+    weight: 0.2258
     avg_copies: 1.0
   unknown-111:
     weight: 1.0
-    avg_copies: 2.17
+    avg_copies: 2.29
   unknown-123:
     weight: 1.0
     avg_copies: 1.0
@@ -97,7 +97,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.14
   unknown-139:
-    weight: 0.0833
+    weight: 0.0769
     avg_copies: 2.0
   unknown-141:
     weight: 1.0
@@ -109,7 +109,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-154:
-    weight: 1.0
+    weight: 0.75
     avg_copies: 2.0
   unknown-162:
     weight: 1.0
@@ -137,5 +137,8 @@ archetypes:
     avg_copies: 2.0
   unknown-266:
     weight: 1.0
+    avg_copies: 1.0
+  unknown-269:
+    weight: 0.5
     avg_copies: 1.0
 ---

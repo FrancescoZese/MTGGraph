@@ -4,8 +4,8 @@ colors:
 - U
 - B
 name: 'Unknown #5'
-meta_share: 0.0015
-list_count: 11
+meta_share: 0.0016
+list_count: 12
 top_cards:
 - name: Persist
   weight: 1.0
@@ -15,156 +15,165 @@ top_cards:
   avg_copies: 4.0
 - name: Archon of Cruelty
   weight: 1.0
-  avg_copies: 3.82
+  avg_copies: 3.83
 - name: Marsh Flats
   weight: 1.0
-  avg_copies: 3.82
+  avg_copies: 3.83
 - name: Flooded Strand
   weight: 1.0
-  avg_copies: 3.64
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 3.58
+  avg_copies: 3.67
 - name: Polluted Delta
   weight: 1.0
-  avg_copies: 3.45
+  avg_copies: 3.5
 - name: Faithful Mending
   weight: 1.0
-  avg_copies: 3.27
+  avg_copies: 3.25
 - name: Prismatic Ending
   weight: 1.0
-  avg_copies: 3.27
+  avg_copies: 3.17
 - name: Wrath of the Skies
   weight: 1.0
-  avg_copies: 2.92
+  avg_copies: 2.85
 - name: Watery Grave
   weight: 1.0
-  avg_copies: 1.09
-- name: Hallowed Fountain
-  weight: 1.0
-  avg_copies: 1.0
-- name: Plains
-  weight: 1.0
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 1.0
-  avg_copies: 1.0
-- name: Island
+  avg_copies: 1.08
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
+- name: Island
+  weight: 1.0
+  avg_copies: 1.0
+- name: Plains
+  weight: 1.0
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 1.0
+  avg_copies: 1.0
 - name: Swamp
+  weight: 1.0
+  avg_copies: 1.0
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowy Backstreet
-  weight: 1.0
-  avg_copies: 1.0
 - name: Quantum Riddler
-  weight: 0.9091
-  avg_copies: 3.8
+  weight: 0.9167
+  avg_copies: 3.82
 - name: Solitude
-  weight: 0.9091
-  avg_copies: 3.8
+  weight: 0.9167
+  avg_copies: 3.82
 - name: Ephemerate
-  weight: 0.9091
-  avg_copies: 3.6
+  weight: 0.9167
+  avg_copies: 3.64
+- name: Thoughtseize
+  weight: 0.9167
+  avg_copies: 3.54
 - name: Consign to Memory
-  weight: 0.9091
-  avg_copies: 3.25
+  weight: 0.9167
+  avg_copies: 3.23
 - name: Emperor of Bones
-  weight: 0.9091
-  avg_copies: 2.9
+  weight: 0.9167
+  avg_copies: 2.91
 - name: Force of Negation
-  weight: 0.8182
-  avg_copies: 1.89
+  weight: 0.8333
+  avg_copies: 1.9
 - name: Mystical Dispute
-  weight: 0.7273
+  weight: 0.75
   avg_copies: 2.0
 - name: Teferi, Time Raveler
-  weight: 0.7273
+  weight: 0.6667
   avg_copies: 1.7
 - name: Damping Sphere
-  weight: 0.3636
+  weight: 0.3333
   avg_copies: 2.0
+- name: Spell Snare
+  weight: 0.3333
+  avg_copies: 1.33
 - name: Nihil Spellbomb
-  weight: 0.2727
+  weight: 0.25
   avg_copies: 1.67
 - name: Fatal Push
-  weight: 0.2727
+  weight: 0.25
   avg_copies: 1.5
-- name: Spell Snare
-  weight: 0.2727
-  avg_copies: 1.4
 - name: Pest Control
-  weight: 0.2727
+  weight: 0.25
   avg_copies: 1.33
 - name: Inquisition of Kozilek
-  weight: 0.1818
+  weight: 0.1667
   avg_copies: 1.67
 - name: Celestial Purge
-  weight: 0.1818
+  weight: 0.1667
   avg_copies: 1.5
-- name: Emeritus of Ideation
-  weight: 0.0909
-  avg_copies: 4.0
 - name: Tainted Indulgence
-  weight: 0.0909
+  weight: 0.0833
   avg_copies: 4.0
-- name: Abhorrent Oculus
-  weight: 0.0909
-  avg_copies: 3.0
+- name: Emeritus of Ideation
+  weight: 0.0833
+  avg_copies: 4.0
 - name: Force of Despair
-  weight: 0.0909
+  weight: 0.0833
   avg_copies: 3.0
-- name: Unearth
-  weight: 0.0909
+- name: Phelia, Exuberant Shepherd
+  weight: 0.0833
+  avg_copies: 3.0
+- name: Overlord of the Balemurk
+  weight: 0.0833
+  avg_copies: 3.0
+- name: Abhorrent Oculus
+  weight: 0.0833
+  avg_copies: 3.0
+- name: Drannith Magistrate
+  weight: 0.0833
   avg_copies: 2.0
 - name: Spell Pierce
-  weight: 0.0909
+  weight: 0.0833
   avg_copies: 2.0
-- name: Sheoldred, the Apocalypse
-  weight: 0.0909
+- name: Unearth
+  weight: 0.0833
   avg_copies: 2.0
 - name: River of Tears
-  weight: 0.0909
+  weight: 0.0833
   avg_copies: 2.0
-- name: Drannith Magistrate
-  weight: 0.0909
+- name: Clarion Conqueror
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Sheoldred, the Apocalypse
+  weight: 0.0833
   avg_copies: 2.0
 - name: Tamiyo, Inquisitive Student
-  weight: 0.0909
+  weight: 0.0833
   avg_copies: 1.5
-- name: No More Lies
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.0909
-  avg_copies: 1.0
 - name: March of Otherworldly Light
-  weight: 0.0909
+  weight: 0.0833
   avg_copies: 1.0
-- name: Ketramose, the New Dawn
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Winternight Stories
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Graveyard Trespasser
-  weight: 0.0909
-  avg_copies: 1.0
-- name: card:momentary-blink
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Harbinger of the Seas
-  weight: 0.0909
+- name: No More Lies
+  weight: 0.0833
   avg_copies: 1.0
 - name: Sink into Stupor
-  weight: 0.0909
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Harbinger of the Seas
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Surgical Extraction
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Ketramose, the New Dawn
+  weight: 0.0833
+  avg_copies: 1.0
+- name: card:momentary-blink
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Graveyard Trespasser
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Winternight Stories
+  weight: 0.0833
   avg_copies: 1.0
 ---
 Unclassified archetype, pending review.

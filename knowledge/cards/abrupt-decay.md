@@ -8,29 +8,29 @@ name: Abrupt Decay
 scryfall_id: a8e328c6-3a84-49cf-a1a3-1d1e5373d274
 set: mm3
 type: Instant
-meta_presence: 0.0062
+meta_presence: 0.0086
 archetypes:
   neoform-combo:
-    weight: 0.0177
+    weight: 0.0174
     avg_copies: 3.0
   eldrazi-ramp:
-    weight: 0.0075
+    weight: 0.0072
     avg_copies: 2.0
   samwise-combo:
-    weight: 0.169
+    weight: 0.1622
     avg_copies: 1.46
   indomitable-creativity:
     weight: 0.125
     avg_copies: 1.0
   goryo5:
-    weight: 0.0278
+    weight: 0.025
     avg_copies: 1.0
   soultrader-combo:
     weight: 0.2857
     avg_copies: 1.0
   unknown-126:
-    weight: 0.1818
-    avg_copies: 2.29
+    weight: 0.2803
+    avg_copies: 2.31
   unknown-203:
     weight: 1.0
     avg_copies: 1.0

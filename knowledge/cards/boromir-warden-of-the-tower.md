@@ -7,22 +7,22 @@ name: Boromir, Warden of the Tower
 scryfall_id: f6bc3720-2892-4dda-8f30-079a1ac8e1e2
 set: ltr
 type: Legendary Creature — Human Soldier
-meta_presence: 0.0211
+meta_presence: 0.0208
 archetypes:
   boros-energy:
-    weight: 0.1405
+    weight: 0.1389
     avg_copies: 1.05
   domain-zoo:
     weight: 0.0066
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0168
+    weight: 0.0147
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.0704
+    weight: 0.0676
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.1884
+    weight: 0.1831
     avg_copies: 1.54
   unknown-70:
     weight: 0.05
@@ -34,11 +34,11 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-88:
-    weight: 0.9375
-    avg_copies: 1.71
+    weight: 0.9474
+    avg_copies: 1.75
   unknown-126:
-    weight: 0.0152
-    avg_copies: 1.5
+    weight: 0.0191
+    avg_copies: 1.67
   unknown-142:
     weight: 1.0
     avg_copies: 2.0

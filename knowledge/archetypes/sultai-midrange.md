@@ -10,16 +10,16 @@ top_cards:
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Consign to Memory
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
-- name: Misty Rainforest
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Polluted Delta
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 4.0
 - name: Counterspell
@@ -28,10 +28,10 @@ top_cards:
 - name: Watery Grave
   weight: 1.0
   avg_copies: 3.0
-- name: Quantum Riddler
+- name: Island
   weight: 1.0
   avg_copies: 2.75
-- name: Island
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 2.75
 - name: Orcish Bowmasters
@@ -70,16 +70,16 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 0.75
   avg_copies: 1.67
-- name: Pest Control
-  weight: 0.75
-  avg_copies: 1.5
 - name: Stern Scolding
   weight: 0.75
   avg_copies: 1.5
-- name: Surgical Extraction
+- name: Pest Control
+  weight: 0.75
+  avg_copies: 1.5
+- name: Hallowed Fountain
   weight: 0.75
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Surgical Extraction
   weight: 0.75
   avg_copies: 1.0
 - name: Ghost Vacuum
@@ -106,13 +106,10 @@ top_cards:
 - name: Brainsurge
   weight: 0.25
   avg_copies: 3.0
-- name: Sacred Ground
-  weight: 0.25
-  avg_copies: 2.0
 - name: Chalice of the Void
   weight: 0.25
   avg_copies: 2.0
-- name: Valki, God of Lies
+- name: Sacred Ground
   weight: 0.25
   avg_copies: 2.0
 - name: Thraben Charm
@@ -121,7 +118,19 @@ top_cards:
 - name: Consult the Star Charts
   weight: 0.25
   avg_copies: 2.0
-- name: Damnation
+- name: Valki, God of Lies
+  weight: 0.25
+  avg_copies: 2.0
+- name: Teferi, Time Raveler
+  weight: 0.25
+  avg_copies: 1.0
+- name: Cling to Dust
+  weight: 0.25
+  avg_copies: 1.0
+- name: Culling Ritual
+  weight: 0.25
+  avg_copies: 1.0
+- name: Toxic Deluge
   weight: 0.25
   avg_copies: 1.0
 - name: Zagoth Triome
@@ -130,34 +139,25 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.25
   avg_copies: 1.0
-- name: Celestial Purge
-  weight: 0.25
-  avg_copies: 1.0
-- name: Toxic Deluge
+- name: Forest
   weight: 0.25
   avg_copies: 1.0
 - name: Engineered Explosives
   weight: 0.25
   avg_copies: 1.0
+- name: Sink into Stupor
+  weight: 0.25
+  avg_copies: 1.0
+- name: Celestial Purge
+  weight: 0.25
+  avg_copies: 1.0
 - name: Thundering Falls
   weight: 0.25
   avg_copies: 1.0
-- name: Teferi, Time Raveler
-  weight: 0.25
-  avg_copies: 1.0
-- name: Culling Ritual
-  weight: 0.25
-  avg_copies: 1.0
-- name: Forest
-  weight: 0.25
-  avg_copies: 1.0
-- name: Cling to Dust
+- name: Damnation
   weight: 0.25
   avg_copies: 1.0
 - name: Hall of Storm Giants
-  weight: 0.25
-  avg_copies: 1.0
-- name: Sink into Stupor
   weight: 0.25
   avg_copies: 1.0
 ---

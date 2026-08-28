@@ -6,25 +6,25 @@ name: Marsh Flats
 scryfall_id: 9db3ba6d-eb7f-4f5b-9a3b-c6239c3baa42
 set: mh2
 type: Land
-meta_presence: 0.2683
+meta_presence: 0.2685
 archetypes:
   boros-energy:
-    weight: 0.9706
+    weight: 0.971
     avg_copies: 3.27
   dimir-control:
     weight: 0.3827
     avg_copies: 1.52
   jeskai-energy:
-    weight: 0.0522
+    weight: 0.0519
     avg_copies: 1.0
   goryo:
-    weight: 0.9976
+    weight: 0.9977
     avg_copies: 3.43
   necrodominance:
-    weight: 0.2
+    weight: 0.1957
     avg_copies: 1.11
   azorius-control:
-    weight: 0.1963
+    weight: 0.1944
     avg_copies: 1.81
   domain-zoo:
     weight: 0.0132
@@ -36,23 +36,23 @@ archetypes:
     weight: 1.0
     avg_copies: 2.71
   hammer-time:
-    weight: 0.4737
-    avg_copies: 2.67
+    weight: 0.4762
+    avg_copies: 2.6
   hollow-one:
     weight: 0.2353
     avg_copies: 1.62
   simic-ritual:
-    weight: 0.0103
+    weight: 0.0101
     avg_copies: 4.0
   esper-blink:
     weight: 1.0
-    avg_copies: 3.8
+    avg_copies: 3.79
   orzhov-blink:
     weight: 1.0
-    avg_copies: 3.94
+    avg_copies: 3.95
   azorius-blink:
-    weight: 0.8116
-    avg_copies: 2.04
+    weight: 0.8169
+    avg_copies: 2.02
   rakdos-aggro:
     weight: 0.0526
     avg_copies: 4.0
@@ -66,14 +66,14 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   goryo1:
-    weight: 0.0109
+    weight: 0.0105
     avg_copies: 1.0
   goryo5:
-    weight: 0.6667
-    avg_copies: 2.33
+    weight: 0.7
+    avg_copies: 2.29
   goryo2:
     weight: 1.0
-    avg_copies: 3.25
+    avg_copies: 3.27
   soultrader-combo:
     weight: 0.4286
     avg_copies: 2.67
@@ -82,7 +82,7 @@ archetypes:
     avg_copies: 4.0
   unknown-5:
     weight: 1.0
-    avg_copies: 3.82
+    avg_copies: 3.83
   unknown-7:
     weight: 1.0
     avg_copies: 4.0
@@ -105,8 +105,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.8049
-    avg_copies: 1.82
+    weight: 0.791
+    avg_copies: 1.84
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
@@ -126,8 +126,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.71
   unknown-69:
-    weight: 0.8889
-    avg_copies: 1.12
+    weight: 0.9
+    avg_copies: 1.11
   unknown-70:
     weight: 0.05
     avg_copies: 1.0
@@ -147,20 +147,20 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-88:
-    weight: 0.0625
+    weight: 0.0526
     avg_copies: 2.0
   unknown-87:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.0156
+    weight: 0.0141
     avg_copies: 3.0
   unknown-100:
-    weight: 0.5
+    weight: 0.4
     avg_copies: 4.0
   unknown-101:
-    weight: 0.3846
-    avg_copies: 1.2
+    weight: 0.4194
+    avg_copies: 1.15
   unknown-105:
     weight: 1.0
     avg_copies: 1.0
@@ -171,7 +171,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-111:
-    weight: 0.1667
+    weight: 0.1429
     avg_copies: 1.0
   unknown-110:
     weight: 1.0
@@ -198,20 +198,20 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-139:
-    weight: 0.8333
+    weight: 0.8462
     avg_copies: 1.0
   unknown-142:
     weight: 1.0
     avg_copies: 4.0
   unknown-149:
-    weight: 0.0435
-    avg_copies: 2.0
+    weight: 0.0667
+    avg_copies: 1.5
   unknown-146:
     weight: 1.0
     avg_copies: 2.0
   unknown-154:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.25
   unknown-168:
     weight: 1.0
     avg_copies: 3.0
@@ -263,4 +263,10 @@ archetypes:
   unknown-267:
     weight: 1.0
     avg_copies: 2.0
+  unknown-270:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-272:
+    weight: 1.0
+    avg_copies: 3.0
 ---

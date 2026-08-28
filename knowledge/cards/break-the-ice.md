@@ -7,22 +7,22 @@ name: Break the Ice
 scryfall_id: 01ca9568-06b6-4c57-b1f6-8a74ec2a2b91
 set: mh2
 type: Sorcery
-meta_presence: 0.0363
+meta_presence: 0.0368
 archetypes:
   dimir-control:
     weight: 0.4321
     avg_copies: 2.8
   goryo:
-    weight: 0.0097
+    weight: 0.0093
     avg_copies: 1.5
   necrodominance:
-    weight: 0.9333
-    avg_copies: 3.79
+    weight: 0.9348
+    avg_copies: 3.77
   hollow-one:
     weight: 0.0294
     avg_copies: 2.0
   simic-ritual:
-    weight: 0.0103
+    weight: 0.0101
     avg_copies: 1.0
   jund-saga:
     weight: 0.2
@@ -34,8 +34,8 @@ archetypes:
     weight: 0.5
     avg_copies: 3.0
   goryo5:
-    weight: 0.8056
-    avg_copies: 2.79
+    weight: 0.825
+    avg_copies: 2.91
   soultrader-combo:
     weight: 0.1429
     avg_copies: 1.0
@@ -58,8 +58,8 @@ archetypes:
     weight: 0.875
     avg_copies: 2.57
   unknown-47:
-    weight: 0.1951
-    avg_copies: 2.09
+    weight: 0.2147
+    avg_copies: 2.03
   unknown-52:
     weight: 0.9167
     avg_copies: 1.82
@@ -71,7 +71,7 @@ archetypes:
     avg_copies: 3.0
   unknown-69:
     weight: 1.0
-    avg_copies: 3.78
+    avg_copies: 3.8
   unknown-73:
     weight: 1.0
     avg_copies: 3.0
@@ -85,8 +85,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-111:
-    weight: 0.6667
-    avg_copies: 2.25
+    weight: 0.7143
+    avg_copies: 2.2
   unknown-115:
     weight: 0.6667
     avg_copies: 4.0
@@ -94,7 +94,7 @@ archetypes:
     weight: 0.5
     avg_copies: 3.0
   unknown-154:
-    weight: 1.0
+    weight: 0.75
     avg_copies: 3.67
   unknown-162:
     weight: 0.6667
@@ -109,7 +109,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-211:
-    weight: 0.875
+    weight: 0.7778
     avg_copies: 3.86
   unknown-225:
     weight: 1.0

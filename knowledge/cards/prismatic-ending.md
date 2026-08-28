@@ -7,32 +7,32 @@ name: Prismatic Ending
 scryfall_id: 825969b9-3c70-4fca-8cab-696e9ca7cdb2
 set: mh2
 type: Sorcery
-meta_presence: 0.1846
+meta_presence: 0.1868
 archetypes:
   ruby-storm:
-    weight: 0.9119
-    avg_copies: 3.15
+    weight: 0.9142
+    avg_copies: 3.13
   boros-energy:
-    weight: 0.046
-    avg_copies: 1.24
+    weight: 0.0455
+    avg_copies: 1.26
   dimir-control:
     weight: 0.037
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.597
-    avg_copies: 1.72
+    weight: 0.6
+    avg_copies: 1.73
   eldrazi-tron:
-    weight: 0.003
+    weight: 0.0029
     avg_copies: 2.0
   goryo:
-    weight: 0.9903
-    avg_copies: 2.16
+    weight: 0.9907
+    avg_copies: 2.14
   azorius-control:
     weight: 1.0
     avg_copies: 3.28
   jeskai-control:
-    weight: 0.9677
-    avg_copies: 2.08
+    weight: 0.9692
+    avg_copies: 2.09
   domain-zoo:
     weight: 0.053
     avg_copies: 1.33
@@ -43,35 +43,35 @@ archetypes:
     weight: 0.1667
     avg_copies: 2.0
   hammer-time:
-    weight: 0.1053
+    weight: 0.0952
     avg_copies: 1.5
   boros-ponza:
     weight: 0.0071
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0099
+    weight: 0.0094
     avg_copies: 2.25
   4c-omnath:
     weight: 0.25
     avg_copies: 4.0
   esper-blink:
-    weight: 0.8715
-    avg_copies: 1.28
+    weight: 0.8873
+    avg_copies: 1.25
   samwise-combo:
-    weight: 0.0282
+    weight: 0.027
     avg_copies: 2.0
   indomitable-creativity:
     weight: 0.8125
     avg_copies: 2.46
   orzhov-blink:
-    weight: 0.2778
+    weight: 0.2632
     avg_copies: 1.8
   bant-control:
     weight: 1.0
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.3043
-    avg_copies: 2.32
+    weight: 0.3239
+    avg_copies: 2.29
   esper-control:
     weight: 1.0
     avg_copies: 3.0
@@ -85,8 +85,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   goryo2:
-    weight: 0.9608
-    avg_copies: 3.68
+    weight: 0.9615
+    avg_copies: 3.69
   goryo3:
     weight: 1.0
     avg_copies: 4.0
@@ -104,9 +104,9 @@ archetypes:
     avg_copies: 4.0
   unknown-5:
     weight: 1.0
-    avg_copies: 3.27
+    avg_copies: 3.17
   unknown-16:
-    weight: 0.8571
+    weight: 0.7778
     avg_copies: 4.0
   unknown-22:
     weight: 0.25
@@ -115,7 +115,7 @@ archetypes:
     weight: 0.1429
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0122
+    weight: 0.0169
     avg_copies: 1.0
   unknown-62:
     weight: 0.4848
@@ -145,7 +145,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.5
   unknown-88:
-    weight: 0.3125
+    weight: 0.2632
     avg_copies: 1.17
   unknown-87:
     weight: 1.0
@@ -154,8 +154,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.71
   unknown-96:
-    weight: 0.2812
-    avg_copies: 1.94
+    weight: 0.3099
+    avg_copies: 1.95
   unknown-89:
     weight: 1.0
     avg_copies: 2.0
@@ -181,7 +181,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-131:
-    weight: 0.2222
+    weight: 0.2
     avg_copies: 2.5
   unknown-135:
     weight: 1.0
@@ -190,7 +190,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-149:
-    weight: 0.1304
+    weight: 0.2333
     avg_copies: 1.0
   unknown-158:
     weight: 1.0
@@ -213,9 +213,15 @@ archetypes:
   unknown-184:
     weight: 1.0
     avg_copies: 3.0
+  unknown-186:
+    weight: 0.25
+    avg_copies: 2.0
   unknown-189:
     weight: 1.0
     avg_copies: 4.0
+  unknown-190:
+    weight: 0.5
+    avg_copies: 2.0
   unknown-191:
     weight: 1.0
     avg_copies: 3.0
@@ -253,6 +259,9 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-250:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-270:
     weight: 1.0
     avg_copies: 2.0
 ---

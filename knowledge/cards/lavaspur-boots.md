@@ -9,22 +9,22 @@ type: Artifact — Equipment
 meta_presence: 0.0055
 archetypes:
   affinity:
-    weight: 0.0165
+    weight: 0.0159
     avg_copies: 1.0
   hammer-time:
-    weight: 0.8421
+    weight: 0.7619
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.0938
     avg_copies: 1.0
   unknown-6:
-    weight: 0.0556
+    weight: 0.0526
     avg_copies: 1.0
   unknown-10:
     weight: 0.3333
     avg_copies: 1.0
   unknown-15:
-    weight: 0.1818
+    weight: 0.1667
     avg_copies: 1.0
   unknown-21:
     weight: 1.0
@@ -33,10 +33,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-49:
-    weight: 0.1
+    weight: 0.0833
     avg_copies: 1.0
   unknown-98:
     weight: 0.125
+    avg_copies: 1.0
+  unknown-126:
+    weight: 0.0064
     avg_copies: 1.0
   unknown-195:
     weight: 1.0

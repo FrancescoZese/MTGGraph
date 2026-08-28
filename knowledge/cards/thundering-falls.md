@@ -6,10 +6,10 @@ name: Thundering Falls
 scryfall_id: 17260fff-b239-4af4-9306-3236ae3fa5a5
 set: mkm
 type: Land — Island Mountain
-meta_presence: 0.1938
+meta_presence: 0.1917
 archetypes:
   ruby-storm:
-    weight: 0.2375
+    weight: 0.2425
     avg_copies: 1.11
   boros-energy:
     weight: 0.0013
@@ -21,7 +21,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.02
   azorius-control:
-    weight: 0.729
+    weight: 0.7315
     avg_copies: 1.0
   living-end:
     weight: 0.0128
@@ -30,7 +30,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   affinity:
-    weight: 0.0421
+    weight: 0.0407
     avg_copies: 1.0
   domain-zoo:
     weight: 0.9669
@@ -39,13 +39,13 @@ archetypes:
     weight: 0.0741
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0177
+    weight: 0.0174
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0309
+    weight: 0.0303
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.9877
+    weight: 0.9882
     avg_copies: 1.0
   4c-omnath:
     weight: 0.5
@@ -72,7 +72,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   goryo1:
-    weight: 0.538
+    weight: 0.5445
     avg_copies: 1.0
   grixis-control:
     weight: 1.0
@@ -90,7 +90,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-6:
-    weight: 0.3333
+    weight: 0.3158
     avg_copies: 1.0
   unknown-10:
     weight: 0.6667
@@ -99,10 +99,10 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-15:
-    weight: 0.8636
+    weight: 0.8333
     avg_copies: 1.0
   unknown-16:
-    weight: 0.1429
+    weight: 0.2222
     avg_copies: 1.0
   unknown-19:
     weight: 1.0
@@ -123,7 +123,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0122
+    weight: 0.0113
     avg_copies: 1.0
   unknown-53:
     weight: 1.0
@@ -141,7 +141,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.9904
+    weight: 0.9907
     avg_copies: 1.0
   unknown-70:
     weight: 0.15
@@ -174,7 +174,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-100:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 1.0
   unknown-104:
     weight: 1.0
@@ -189,7 +189,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-111:
-    weight: 0.5
+    weight: 0.4286
     avg_copies: 1.0
   unknown-112:
     weight: 1.0
@@ -223,24 +223,27 @@ archetypes:
     avg_copies: 1.0
   unknown-156:
     weight: 1.0
-    avg_copies: 1.67
+    avg_copies: 1.75
   unknown-166:
     weight: 1.0
+    avg_copies: 1.0
+  unknown-167:
+    weight: 0.05
     avg_copies: 1.0
   unknown-171:
     weight: 1.0
     avg_copies: 1.0
   unknown-181:
-    weight: 1.0
+    weight: 0.8333
     avg_copies: 1.0
   unknown-184:
     weight: 1.0
     avg_copies: 1.0
   unknown-186:
     weight: 1.0
-    avg_copies: 1.67
+    avg_copies: 1.5
   unknown-190:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 1.0
   unknown-207:
     weight: 1.0
@@ -270,6 +273,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-266:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-274:
     weight: 1.0
     avg_copies: 1.0
 ---

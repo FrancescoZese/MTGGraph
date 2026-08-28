@@ -6,13 +6,13 @@ name: Temple Garden
 scryfall_id: 6cdd2a74-63b3-4ff2-9c5a-a85dee63c3c9
 set: ecl
 type: Land — Forest Plains
-meta_presence: 0.0753
+meta_presence: 0.077
 archetypes:
   jeskai-energy:
-    weight: 0.0075
+    weight: 0.0074
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.0172
+    weight: 0.0169
     avg_copies: 1.0
   living-end:
     weight: 0.2692
@@ -21,13 +21,13 @@ archetypes:
     weight: 0.9868
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0088
+    weight: 0.0087
     avg_copies: 1.0
   kethis-combo:
     weight: 0.875
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0206
+    weight: 0.0202
     avg_copies: 1.0
   4c-omnath:
     weight: 0.75
@@ -39,7 +39,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.087
+    weight: 0.0845
     avg_copies: 1.0
   elves:
     weight: 1.0
@@ -75,13 +75,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.3846
+    weight: 0.3925
     avg_copies: 1.0
   unknown-72:
     weight: 1.0
     avg_copies: 1.0
   unknown-76:
-    weight: 0.1667
+    weight: 0.1429
     avg_copies: 2.0
   unknown-80:
     weight: 1.0
@@ -97,12 +97,12 @@ archetypes:
     avg_copies: 1.33
   unknown-88:
     weight: 1.0
-    avg_copies: 2.94
+    avg_copies: 2.95
   unknown-93:
     weight: 1.0
     avg_copies: 1.0
   unknown-100:
-    weight: 0.5
+    weight: 0.4
     avg_copies: 1.0
   unknown-114:
     weight: 1.0
@@ -112,7 +112,7 @@ archetypes:
     avg_copies: 1.0
   unknown-126:
     weight: 1.0
-    avg_copies: 1.05
+    avg_copies: 1.09
   unknown-138:
     weight: 1.0
     avg_copies: 3.0
@@ -168,6 +168,12 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-250:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-270:
+    weight: 1.0
+    avg_copies: 3.0
+  unknown-274:
     weight: 1.0
     avg_copies: 1.0
 ---

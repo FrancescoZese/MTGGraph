@@ -4,7 +4,7 @@ colors:
 - B
 - R
 name: 'Unknown #68'
-meta_share: 0.0055
+meta_share: 0.0053
 list_count: 41
 top_cards:
 - name: Guide of Souls
@@ -40,10 +40,10 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.05
-- name: Elegant Parlor
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
@@ -160,19 +160,19 @@ top_cards:
 - name: Deafening Silence
   weight: 0.0976
   avg_copies: 1.75
-- name: Meltdown
+- name: Ghost Vacuum
   weight: 0.0976
   avg_copies: 1.0
-- name: Ghost Vacuum
+- name: Meltdown
   weight: 0.0976
   avg_copies: 1.0
 - name: Windswept Heath
   weight: 0.0732
   avg_copies: 2.67
-- name: Blood Moon
+- name: Witch Enchanter
   weight: 0.0732
   avg_copies: 2.0
-- name: Witch Enchanter
+- name: Blood Moon
   weight: 0.0732
   avg_copies: 2.0
 - name: Solitude
@@ -181,25 +181,25 @@ top_cards:
 - name: Rest in Peace
   weight: 0.0732
   avg_copies: 1.33
+- name: Strategic Betrayal
+  weight: 0.0488
+  avg_copies: 1.0
 - name: Containment Priest
   weight: 0.0488
   avg_copies: 1.0
 - name: Sanctifier en-Vec
   weight: 0.0488
   avg_copies: 1.0
-- name: Strategic Betrayal
-  weight: 0.0488
-  avg_copies: 1.0
-- name: Path to Exile
+- name: Reckless Pyrosurfer
+  weight: 0.0244
+  avg_copies: 2.0
+- name: Lingering Souls
   weight: 0.0244
   avg_copies: 2.0
 - name: Duress
   weight: 0.0244
   avg_copies: 2.0
-- name: Reckless Pyrosurfer
-  weight: 0.0244
-  avg_copies: 2.0
-- name: Lingering Souls
+- name: Path to Exile
   weight: 0.0244
   avg_copies: 2.0
 - name: Sunbaked Canyon
@@ -208,13 +208,13 @@ top_cards:
 - name: Faerie Macabre
   weight: 0.0244
   avg_copies: 1.0
-- name: Clarion Conqueror
+- name: Stony Silence
   weight: 0.0244
   avg_copies: 1.0
 - name: Static Prison
   weight: 0.0244
   avg_copies: 1.0
-- name: Stony Silence
+- name: Clarion Conqueror
   weight: 0.0244
   avg_copies: 1.0
 ---

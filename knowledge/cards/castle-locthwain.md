@@ -9,14 +9,14 @@ type: Land
 meta_presence: 0.0126
 archetypes:
   necrodominance:
-    weight: 0.9778
-    avg_copies: 3.14
+    weight: 0.9783
+    avg_copies: 3.13
   the-rock:
     weight: 0.5
     avg_copies: 1.0
   goryo5:
-    weight: 0.6667
-    avg_copies: 1.38
+    weight: 0.65
+    avg_copies: 1.35
   unknown-38:
     weight: 1.0
     avg_copies: 1.0
@@ -27,8 +27,8 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   unknown-69:
-    weight: 0.8889
-    avg_copies: 2.5
+    weight: 0.9
+    avg_copies: 2.67
   unknown-137:
     weight: 1.0
     avg_copies: 1.0

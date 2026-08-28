@@ -7,7 +7,7 @@ name: Quirion Ranger
 scryfall_id: 320fdf89-e158-41c5-b0bf-fee9dec36a75
 set: mh2
 type: Creature — Elf Ranger
-meta_presence: 0.0027
+meta_presence: 0.0029
 archetypes:
   elves:
     weight: 1.0
@@ -16,8 +16,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-126:
-    weight: 0.0303
-    avg_copies: 1.25
+    weight: 0.0318
+    avg_copies: 1.2
   unknown-130:
     weight: 1.0
     avg_copies: 2.0
@@ -30,4 +30,7 @@ archetypes:
   unknown-228:
     weight: 1.0
     avg_copies: 2.0
+  unknown-271:
+    weight: 1.0
+    avg_copies: 3.0
 ---

@@ -1,16 +1,16 @@
 ---
 archetypes:
   ruby-storm:
-    weight: 0.0345
+    weight: 0.0336
     avg_copies: 1.0
   mono-blue-belcher:
-    weight: 0.0105
+    weight: 0.0101
     avg_copies: 3.0
   neoform-combo:
-    weight: 0.9823
+    weight: 0.9826
     avg_copies: 2.8
   cosmogoyf-fling:
-    weight: 0.6552
+    weight: 0.65
     avg_copies: 2.62
   goryo0:
     weight: 0.0455
@@ -21,7 +21,7 @@ archetypes:
 cmc: 0
 colors: []
 image: https://cards.scryfall.io/normal/front/1/e/1ed4c0bb-b710-44a1-b8bc-6bd11c27b8b8.jpg?1697121218
-meta_presence: 0.0219
+meta_presence: 0.0214
 name: Pact of Negation
 scryfall_id: 1ed4c0bb-b710-44a1-b8bc-6bd11c27b8b8
 set: tsr

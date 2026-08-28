@@ -10,16 +10,16 @@ type: Sorcery
 meta_presence: 0.0091
 archetypes:
   ruby-storm:
-    weight: 0.0498
-    avg_copies: 1.69
+    weight: 0.0597
+    avg_copies: 1.94
   affinity:
-    weight: 0.0641
+    weight: 0.0619
     avg_copies: 1.6
   hollow-one:
     weight: 0.0294
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0025
+    weight: 0.0024
     avg_copies: 1.0
   goryo0:
     weight: 0.2727

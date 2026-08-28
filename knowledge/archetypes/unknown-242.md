@@ -8,7 +8,13 @@ name: 'Unknown #242'
 meta_share: 0.0001
 list_count: 1
 top_cards:
-- name: Arid Mesa
+- name: Leyline Binding
+  weight: 1.0
+  avg_copies: 4.0
+- name: Solitude
+  weight: 1.0
+  avg_copies: 4.0
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 4.0
 - name: Subtlety
@@ -17,22 +23,16 @@ top_cards:
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Misty Rainforest
-  weight: 1.0
-  avg_copies: 4.0
 - name: Force of Negation
   weight: 1.0
   avg_copies: 4.0
-- name: Risen Reef
-  weight: 1.0
-  avg_copies: 4.0
-- name: Solitude
-  weight: 1.0
-  avg_copies: 4.0
-- name: Leyline Binding
-  weight: 1.0
-  avg_copies: 4.0
 - name: Consign to Memory
+  weight: 1.0
+  avg_copies: 4.0
+- name: Arid Mesa
+  weight: 1.0
+  avg_copies: 4.0
+- name: Risen Reef
   weight: 1.0
   avg_copies: 4.0
 - name: Teferi, Time Raveler
@@ -44,61 +44,61 @@ top_cards:
 - name: Omnath, Locus of Creation
   weight: 1.0
   avg_copies: 3.0
-- name: High Noon
-  weight: 1.0
-  avg_copies: 2.0
-- name: Green Sun's Zenith
-  weight: 1.0
-  avg_copies: 2.0
-- name: Plains
+- name: Lórien Revealed
   weight: 1.0
   avg_copies: 2.0
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
-- name: Endurance
+- name: Plains
+  weight: 1.0
+  avg_copies: 2.0
+- name: High Noon
   weight: 1.0
   avg_copies: 2.0
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.0
-- name: Lórien Revealed
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 2.0
-- name: Breeding Pool
+- name: Endurance
   weight: 1.0
-  avg_copies: 1.0
-- name: Eladamri's Call
-  weight: 1.0
-  avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 1.0
-  avg_copies: 1.0
-- name: Rest in Peace
-  weight: 1.0
-  avg_copies: 1.0
-- name: Force of Vigor
-  weight: 1.0
-  avg_copies: 1.0
-- name: Xander's Lounge
-  weight: 1.0
-  avg_copies: 1.0
-- name: Boseiju, Who Endures
-  weight: 1.0
-  avg_copies: 1.0
-- name: Lush Portico
-  weight: 1.0
-  avg_copies: 1.0
-- name: Foundation Breaker
-  weight: 1.0
-  avg_copies: 1.0
-- name: Kaheera, the Orphanguard
+  avg_copies: 2.0
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 - name: Gaddock Teeg
   weight: 1.0
   avg_copies: 1.0
-- name: Temple Garden
+- name: Island
+  weight: 1.0
+  avg_copies: 1.0
+- name: Boseiju, Who Endures
+  weight: 1.0
+  avg_copies: 1.0
+- name: Breeding Pool
+  weight: 1.0
+  avg_copies: 1.0
+- name: Rest in Peace
+  weight: 1.0
+  avg_copies: 1.0
+- name: Kaheera, the Orphanguard
+  weight: 1.0
+  avg_copies: 1.0
+- name: Wrenn and Six
+  weight: 1.0
+  avg_copies: 1.0
+- name: Xander's Lounge
+  weight: 1.0
+  avg_copies: 1.0
+- name: Force of Vigor
+  weight: 1.0
+  avg_copies: 1.0
+- name: Eladamri's Call
+  weight: 1.0
+  avg_copies: 1.0
+- name: Foundation Breaker
   weight: 1.0
   avg_copies: 1.0
 - name: Steam Vents
@@ -107,10 +107,10 @@ top_cards:
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Wrenn and Six
+- name: Lush Portico
   weight: 1.0
   avg_copies: 1.0
-- name: Island
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
 ---

@@ -9,6 +9,6 @@ type: Legendary Creature — Phyrexian Praetor // Enchantment — Saga
 meta_presence: 0.0001
 archetypes:
   ruby-storm:
-    weight: 0.0038
+    weight: 0.0037
     avg_copies: 1.0
 ---

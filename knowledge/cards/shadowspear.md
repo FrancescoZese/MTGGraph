@@ -12,7 +12,7 @@ archetypes:
     weight: 0.2
     avg_copies: 1.0
   affinity:
-    weight: 0.989
+    weight: 0.9894
     avg_copies: 1.0
   hammer-time:
     weight: 1.0
@@ -21,7 +21,7 @@ archetypes:
     weight: 0.125
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0093
+    weight: 0.009
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.2812
@@ -30,7 +30,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.0172
+    weight: 0.0167
     avg_copies: 2.0
   the-rock:
     weight: 0.5
@@ -45,7 +45,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   unknown-15:
-    weight: 0.3636
+    weight: 0.3333
     avg_copies: 1.0
   unknown-21:
     weight: 1.0
@@ -78,7 +78,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-154:
-    weight: 1.0
+    weight: 0.75
     avg_copies: 1.0
   unknown-157:
     weight: 1.0
@@ -87,10 +87,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-167:
-    weight: 0.3684
+    weight: 0.4
     avg_copies: 1.0
   unknown-170:
     weight: 1.0
+    avg_copies: 1.0
+  unknown-194:
+    weight: 0.0256
     avg_copies: 1.0
   unknown-195:
     weight: 1.0
@@ -102,6 +105,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-253:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-273:
     weight: 1.0
     avg_copies: 1.0
 ---

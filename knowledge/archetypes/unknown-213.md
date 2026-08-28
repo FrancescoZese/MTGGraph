@@ -3,19 +3,19 @@ colors:
 - W
 - U
 name: 'Unknown #213'
-meta_share: 0.0018
+meta_share: 0.0017
 list_count: 13
 top_cards:
-- name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Tamiyo, Inquisitive Student
-  weight: 1.0
-  avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Emry, Lurker of the Loch
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Opal
@@ -42,17 +42,20 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.62
-- name: Pithing Needle
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.0
-- name: Vexing Bauble
+- name: Damping Sphere
+  weight: 1.0
+  avg_copies: 1.0
+- name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
 - name: Skateboard
   weight: 1.0
   avg_copies: 1.0
-- name: Damping Sphere
-  weight: 1.0
+- name: Shadowspear
+  weight: 0.9231
   avg_copies: 1.0
 - name: Otawara, Soaring City
   weight: 0.9231
@@ -63,19 +66,16 @@ top_cards:
 - name: Minamo, School at Water's Edge
   weight: 0.9231
   avg_copies: 1.0
-- name: Shadowspear
-  weight: 0.9231
-  avg_copies: 1.0
 - name: Flooded Strand
   weight: 0.8462
   avg_copies: 2.18
 - name: Sewer-veillance Cam
   weight: 0.7692
   avg_copies: 2.1
-- name: Disruptor Flute
+- name: Grinding Station
   weight: 0.7692
   avg_copies: 1.0
-- name: Grinding Station
+- name: Disruptor Flute
   weight: 0.7692
   avg_copies: 1.0
 - name: card:urza-lord-high-artificer
@@ -87,10 +87,10 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 0.6154
   avg_copies: 2.12
-- name: Scalding Tarn
+- name: Meticulous Archive
   weight: 0.6154
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Scalding Tarn
   weight: 0.6154
   avg_copies: 1.0
 - name: Force of Negation
@@ -111,16 +111,16 @@ top_cards:
 - name: Plains
   weight: 0.4615
   avg_copies: 1.0
-- name: Nettlecyst
+- name: card:sword-of-the-meek
   weight: 0.4615
   avg_copies: 1.0
 - name: card:thopter-foundry
   weight: 0.4615
   avg_copies: 1.0
-- name: card:sword-of-the-meek
+- name: Cryogen Relic
   weight: 0.4615
   avg_copies: 1.0
-- name: Cryogen Relic
+- name: Nettlecyst
   weight: 0.4615
   avg_copies: 1.0
 - name: Quantum Riddler
@@ -144,10 +144,10 @@ top_cards:
 - name: Breeding Pool
   weight: 0.3077
   avg_copies: 1.0
-- name: Aang, Swift Savior
+- name: Spell Snare
   weight: 0.2308
   avg_copies: 2.0
-- name: Spell Snare
+- name: Aang, Swift Savior
   weight: 0.2308
   avg_copies: 2.0
 - name: Counterspell
@@ -156,19 +156,19 @@ top_cards:
 - name: Glimmervoid
   weight: 0.2308
   avg_copies: 1.0
-- name: Dispatch
+- name: Haywire Mite
   weight: 0.2308
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Dispatch
   weight: 0.2308
   avg_copies: 1.0
 - name: Prismatic Ending
   weight: 0.1538
   avg_copies: 2.0
-- name: Krang, Master Mind
+- name: Dusk Rose Reliquary
   weight: 0.1538
   avg_copies: 1.0
-- name: Dusk Rose Reliquary
+- name: Krang, Master Mind
   weight: 0.1538
   avg_copies: 1.0
 - name: Tezzeret, Cruel Captain
@@ -180,37 +180,37 @@ top_cards:
 - name: Teferi, Hero of Dominaria
   weight: 0.0769
   avg_copies: 3.0
-- name: Erode
-  weight: 0.0769
-  avg_copies: 2.0
 - name: card:the-wondrous-wasp
   weight: 0.0769
   avg_copies: 2.0
-- name: Relic of Progenitus
+- name: Erode
+  weight: 0.0769
+  avg_copies: 2.0
+- name: Hope of Ghirapur
   weight: 0.0769
   avg_copies: 1.0
 - name: card:key-to-the-side-door
   weight: 0.0769
   avg_copies: 1.0
-- name: Ratchet Bomb
-  weight: 0.0769
-  avg_copies: 1.0
-- name: card:combat-courier
-  weight: 0.0769
-  avg_copies: 1.0
 - name: card:barbed-spike
   weight: 0.0769
   avg_copies: 1.0
-- name: Isochron Scepter
+- name: Relic of Progenitus
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Ratchet Bomb
   weight: 0.0769
   avg_copies: 1.0
 - name: card:sculpting-steel
   weight: 0.0769
   avg_copies: 1.0
+- name: Isochron Scepter
+  weight: 0.0769
+  avg_copies: 1.0
 - name: Welding Jar
   weight: 0.0769
   avg_copies: 1.0
-- name: Hope of Ghirapur
+- name: card:combat-courier
   weight: 0.0769
   avg_copies: 1.0
 ---

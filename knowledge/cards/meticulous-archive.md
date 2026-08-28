@@ -6,16 +6,16 @@ name: Meticulous Archive
 scryfall_id: 652236c2-84ef-45e4-b5fc-ed6170bc3d6c
 set: mkm
 type: Land — Plains Island
-meta_presence: 0.1771
+meta_presence: 0.1795
 archetypes:
   dimir-control:
     weight: 0.1358
     avg_copies: 1.0
   jeskai-energy:
-    weight: 0.9925
+    weight: 0.9926
     avg_copies: 1.0
   goryo:
-    weight: 0.9928
+    weight: 0.9931
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
@@ -25,7 +25,7 @@ archetypes:
     avg_copies: 1.0
   jeskai-control:
     weight: 1.0
-    avg_copies: 1.58
+    avg_copies: 1.6
   domain-zoo:
     weight: 0.0066
     avg_copies: 1.0
@@ -36,11 +36,11 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0265
+    weight: 0.0261
     avg_copies: 1.0
   hammer-time:
-    weight: 0.8947
-    avg_copies: 1.24
+    weight: 0.9048
+    avg_copies: 1.26
   4c-omnath:
     weight: 0.25
     avg_copies: 1.0
@@ -48,7 +48,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   orzhov-blink:
-    weight: 0.0556
+    weight: 0.0526
     avg_copies: 1.0
   bant-control:
     weight: 1.0
@@ -105,7 +105,7 @@ archetypes:
     weight: 0.5714
     avg_copies: 1.0
   unknown-47:
-    weight: 0.061
+    weight: 0.0678
     avg_copies: 1.0
   unknown-54:
     weight: 0.3333
@@ -123,7 +123,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.0096
+    weight: 0.0093
     avg_copies: 1.0
   unknown-70:
     weight: 0.95
@@ -138,7 +138,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-88:
-    weight: 0.0625
+    weight: 0.0526
     avg_copies: 1.0
   unknown-87:
     weight: 1.0
@@ -159,7 +159,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.33
   unknown-111:
-    weight: 0.1667
+    weight: 0.2857
     avg_copies: 1.0
   unknown-113:
     weight: 1.0
@@ -169,7 +169,7 @@ archetypes:
     avg_copies: 1.0
   unknown-131:
     weight: 1.0
-    avg_copies: 1.67
+    avg_copies: 1.6
   unknown-140:
     weight: 1.0
     avg_copies: 2.0
@@ -186,7 +186,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-167:
-    weight: 0.5263
+    weight: 0.5
     avg_copies: 1.0
   unknown-169:
     weight: 1.0
@@ -205,7 +205,7 @@ archetypes:
     avg_copies: 1.0
   unknown-186:
     weight: 1.0
-    avg_copies: 1.67
+    avg_copies: 1.75
   unknown-188:
     weight: 1.0
     avg_copies: 2.0
@@ -214,7 +214,7 @@ archetypes:
     avg_copies: 2.0
   unknown-190:
     weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 2.0
   unknown-191:
     weight: 1.0
     avg_copies: 2.0
@@ -260,4 +260,7 @@ archetypes:
   unknown-268:
     weight: 1.0
     avg_copies: 3.0
+  unknown-274:
+    weight: 1.0
+    avg_copies: 1.0
 ---

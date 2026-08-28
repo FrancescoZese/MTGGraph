@@ -7,23 +7,23 @@ name: Duress
 scryfall_id: 34c3a894-ee75-4db9-a69f-711bb3cc150a
 set: fdn
 type: Sorcery
-meta_presence: 0.0035
+meta_presence: 0.0036
 archetypes:
   goryo:
-    weight: 0.0024
+    weight: 0.0023
     avg_copies: 1.0
   necrodominance:
-    weight: 0.0667
+    weight: 0.0652
     avg_copies: 1.33
   orzhov-blink:
-    weight: 0.0556
+    weight: 0.0526
     avg_copies: 2.0
   rakdos-aggro:
     weight: 0.0526
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.1034
-    avg_copies: 1.57
+    weight: 0.1167
+    avg_copies: 1.62
   unknown-14:
     weight: 1.0
     avg_copies: 4.0
@@ -37,6 +37,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-211:
-    weight: 0.875
-    avg_copies: 2.0
+    weight: 0.8889
+    avg_copies: 2.08
 ---

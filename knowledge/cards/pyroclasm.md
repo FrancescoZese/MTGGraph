@@ -7,16 +7,16 @@ name: Pyroclasm
 scryfall_id: 4391b0af-2f26-4a45-9e2a-5bd8e9838107
 set: dsk
 type: Sorcery
-meta_presence: 0.0527
+meta_presence: 0.0525
 archetypes:
   ruby-storm:
-    weight: 0.0192
+    weight: 0.0187
     avg_copies: 1.2
   amulet-titan:
-    weight: 0.0172
+    weight: 0.0169
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0187
+    weight: 0.0185
     avg_copies: 1.5
   domain-zoo:
     weight: 0.2053
@@ -25,20 +25,20 @@ archetypes:
     weight: 0.7778
     avg_copies: 1.86
   burn:
-    weight: 0.1
+    weight: 0.0976
     avg_copies: 2.25
   hollow-one:
     weight: 0.0588
     avg_copies: 1.5
   simic-ritual:
-    weight: 0.0206
+    weight: 0.0202
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.0272
+    weight: 0.0259
     avg_copies: 1.45
   broodscale-combo:
-    weight: 0.1265
-    avg_copies: 1.68
+    weight: 0.1291
+    avg_copies: 1.65
   izzet-artifacts:
     weight: 0.0938
     avg_copies: 1.67
@@ -55,7 +55,7 @@ archetypes:
     weight: 0.3158
     avg_copies: 1.83
   cosmogoyf-fling:
-    weight: 0.0172
+    weight: 0.0167
     avg_copies: 2.0
   scapeshift-combo:
     weight: 0.3333
@@ -64,13 +64,13 @@ archetypes:
     weight: 0.1818
     avg_copies: 2.0
   goryo1:
-    weight: 0.9185
-    avg_copies: 1.84
+    weight: 0.9215
+    avg_copies: 1.85
   unknown-4:
     weight: 1.0
     avg_copies: 1.0
   unknown-6:
-    weight: 0.2222
+    weight: 0.2105
     avg_copies: 1.5
   unknown-9:
     weight: 1.0
@@ -103,7 +103,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.0
   unknown-76:
-    weight: 0.5
+    weight: 0.4286
     avg_copies: 1.67
   unknown-82:
     weight: 0.6667
@@ -115,7 +115,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 2.5
   unknown-96:
-    weight: 0.0156
+    weight: 0.0141
     avg_copies: 1.0
   unknown-90:
     weight: 1.0
@@ -123,9 +123,12 @@ archetypes:
   unknown-98:
     weight: 0.375
     avg_copies: 1.0
+  unknown-100:
+    weight: 0.2
+    avg_copies: 1.0
   unknown-101:
-    weight: 0.3462
-    avg_copies: 1.11
+    weight: 0.3871
+    avg_copies: 1.08
   unknown-104:
     weight: 1.0
     avg_copies: 2.0
@@ -136,7 +139,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-122:
-    weight: 0.0333
+    weight: 0.0323
     avg_copies: 2.0
   unknown-129:
     weight: 1.0
@@ -145,16 +148,19 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-139:
-    weight: 0.0833
+    weight: 0.0769
     avg_copies: 2.0
   unknown-156:
-    weight: 0.6667
+    weight: 0.5
     avg_copies: 2.0
   unknown-178:
     weight: 1.0
     avg_copies: 1.0
   unknown-181:
-    weight: 0.2
+    weight: 0.1667
+    avg_copies: 1.0
+  unknown-194:
+    weight: 0.0256
     avg_copies: 1.0
   unknown-214:
     weight: 1.0

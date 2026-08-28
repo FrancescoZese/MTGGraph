@@ -6,19 +6,19 @@ name: Verdant Catacombs
 scryfall_id: 94c229ea-90da-4aa0-bfda-b162fb3b5b8b
 set: mh2
 type: Land
-meta_presence: 0.1127
+meta_presence: 0.1152
 archetypes:
   dimir-control:
     weight: 0.0123
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.0057
+    weight: 0.0056
     avg_copies: 1.0
   goryo:
-    weight: 0.0048
+    weight: 0.0046
     avg_copies: 4.0
   necrodominance:
-    weight: 0.2
+    weight: 0.1957
     avg_copies: 1.33
   living-end:
     weight: 0.0769
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.037
     avg_copies: 4.0
   neoform-combo:
-    weight: 0.115
+    weight: 0.113
     avg_copies: 1.46
   hollow-one:
     weight: 0.5
@@ -36,17 +36,17 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   eldrazi-ramp:
-    weight: 0.7463
+    weight: 0.741
     avg_copies: 1.05
   simic-ritual:
-    weight: 0.866
-    avg_copies: 3.58
+    weight: 0.8687
+    avg_copies: 3.56
   samwise-combo:
     weight: 1.0
-    avg_copies: 3.79
+    avg_copies: 3.8
   broodscale-combo:
-    weight: 0.3148
-    avg_copies: 1.09
+    weight: 0.3273
+    avg_copies: 1.1
   elves:
     weight: 1.0
     avg_copies: 1.0
@@ -63,11 +63,11 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   goryo1:
-    weight: 0.0598
+    weight: 0.0576
     avg_copies: 1.0
   goryo5:
-    weight: 0.8056
-    avg_copies: 2.24
+    weight: 0.8
+    avg_copies: 2.22
   soultrader-combo:
     weight: 0.4286
     avg_copies: 2.67
@@ -99,7 +99,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-47:
-    weight: 0.0732
+    weight: 0.0678
     avg_copies: 1.25
   unknown-52:
     weight: 1.0
@@ -114,8 +114,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-69:
-    weight: 0.7778
-    avg_copies: 1.29
+    weight: 0.8
+    avg_copies: 1.25
   unknown-78:
     weight: 1.0
     avg_copies: 2.0
@@ -123,10 +123,10 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-97:
-    weight: 0.8125
-    avg_copies: 1.38
+    weight: 0.8
+    avg_copies: 1.31
   unknown-101:
-    weight: 0.0385
+    weight: 0.0323
     avg_copies: 1.0
   unknown-102:
     weight: 1.0
@@ -138,8 +138,8 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   unknown-126:
-    weight: 0.9924
-    avg_copies: 2.97
+    weight: 0.9873
+    avg_copies: 2.93
   unknown-130:
     weight: 1.0
     avg_copies: 3.0
@@ -147,8 +147,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-139:
-    weight: 0.8333
-    avg_copies: 1.1
+    weight: 0.8462
+    avg_copies: 1.09
   unknown-137:
     weight: 1.0
     avg_copies: 4.0
@@ -160,7 +160,7 @@ archetypes:
     avg_copies: 4.0
   unknown-154:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 3.25
   unknown-162:
     weight: 0.3333
     avg_copies: 2.0
@@ -177,13 +177,13 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-194:
-    weight: 0.04
+    weight: 0.1026
     avg_copies: 1.0
   unknown-196:
     weight: 1.0
     avg_copies: 2.0
   unknown-211:
-    weight: 0.25
+    weight: 0.2222
     avg_copies: 4.0
   unknown-214:
     weight: 1.0
@@ -200,4 +200,7 @@ archetypes:
   unknown-235:
     weight: 1.0
     avg_copies: 4.0
+  unknown-271:
+    weight: 1.0
+    avg_copies: 3.0
 ---

@@ -3,7 +3,7 @@ colors:
 - U
 - R
 name: Izzet Wizzards
-meta_share: 0.0018
+meta_share: 0.0017
 list_count: 13
 top_cards:
 - name: Island
@@ -102,10 +102,10 @@ top_cards:
 - name: Tishana's Tidebinder
   weight: 0.3077
   avg_copies: 3.0
-- name: Lórien Revealed
+- name: Invert Polarity
   weight: 0.3077
   avg_copies: 2.0
-- name: Invert Polarity
+- name: Lórien Revealed
   weight: 0.3077
   avg_copies: 2.0
 - name: Ghost Vacuum
@@ -120,10 +120,10 @@ top_cards:
 - name: Thundertrap Trainer
   weight: 0.1538
   avg_copies: 3.0
-- name: Flare of Denial
+- name: Fable of the Mirror-Breaker
   weight: 0.1538
   avg_copies: 2.5
-- name: Fable of the Mirror-Breaker
+- name: Flare of Denial
   weight: 0.1538
   avg_copies: 2.5
 - name: Test of Talents
@@ -141,13 +141,13 @@ top_cards:
 - name: Dress Down
   weight: 0.1538
   avg_copies: 1.33
-- name: Ashiok, Dream Render
-  weight: 0.1538
-  avg_copies: 1.0
 - name: Flashback
   weight: 0.1538
   avg_copies: 1.0
 - name: Spell Pierce
+  weight: 0.1538
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
   weight: 0.1538
   avg_copies: 1.0
 - name: Mishra's Bauble
@@ -165,58 +165,58 @@ top_cards:
 - name: Spirebluff Canal
   weight: 0.0769
   avg_copies: 2.0
-- name: Brainsurge
-  weight: 0.0769
-  avg_copies: 2.0
-- name: Expressive Iteration
-  weight: 0.0769
-  avg_copies: 2.0
-- name: Den of the Bugbear
+- name: Engineered Explosives
   weight: 0.0769
   avg_copies: 2.0
 - name: Field of Ruin
   weight: 0.0769
   avg_copies: 2.0
-- name: Engineered Explosives
+- name: Expressive Iteration
   weight: 0.0769
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Brainsurge
   weight: 0.0769
-  avg_copies: 1.0
-- name: Vampires' Vengeance
+  avg_copies: 2.0
+- name: Den of the Bugbear
   weight: 0.0769
-  avg_copies: 1.0
-- name: Unlicensed Hearse
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Agna Qel'a
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Mistrise Village
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Riverpyre Verge
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Arid Mesa
+  avg_copies: 2.0
+- name: Stone of Erech
   weight: 0.0769
   avg_copies: 1.0
 - name: card:flashfires
   weight: 0.0769
   avg_copies: 1.0
-- name: Annul
+- name: Mistrise Village
   weight: 0.0769
   avg_copies: 1.0
 - name: Great Hall of the Biblioplex
   weight: 0.0769
   avg_copies: 1.0
+- name: Hurkyl's Recall
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Vexing Bauble
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Agna Qel'a
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Riverpyre Verge
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Arid Mesa
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Unlicensed Hearse
+  weight: 0.0769
+  avg_copies: 1.0
 - name: Vedalken Shackles
   weight: 0.0769
   avg_copies: 1.0
-- name: Stone of Erech
+- name: Annul
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Vampires' Vengeance
   weight: 0.0769
   avg_copies: 1.0
 ---

@@ -6,7 +6,7 @@ name: Den of the Bugbear
 scryfall_id: f231caf8-56c0-4719-a90d-5e5efbee3148
 set: afr
 type: Land
-meta_presence: 0.0015
+meta_presence: 0.0016
 archetypes:
   boros-energy:
     weight: 0.0013
@@ -18,12 +18,15 @@ archetypes:
     weight: 0.0769
     avg_copies: 2.0
   unknown-1:
-    weight: 0.3077
+    weight: 0.2667
     avg_copies: 1.0
   unknown-35:
     weight: 0.4
     avg_copies: 1.0
   unknown-92:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-272:
     weight: 1.0
     avg_copies: 1.0
 ---

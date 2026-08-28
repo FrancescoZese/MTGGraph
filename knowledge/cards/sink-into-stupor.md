@@ -6,10 +6,10 @@ name: Sink into Stupor // Soporific Springs
 scryfall_id: 5358b87a-1a29-426d-b165-40c97da2c14d
 set: mh3
 type: Instant // Land
-meta_presence: 0.1839
+meta_presence: 0.1825
 archetypes:
   ruby-storm:
-    weight: 0.0038
+    weight: 0.0037
     avg_copies: 1.0
   dimir-control:
     weight: 0.5679
@@ -18,20 +18,20 @@ archetypes:
     weight: 1.0
     avg_copies: 3.98
   goryo:
-    weight: 0.0435
+    weight: 0.044
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0654
+    weight: 0.0648
     avg_copies: 1.29
   living-end:
     weight: 1.0
     avg_copies: 1.37
   jeskai-control:
-    weight: 0.1129
+    weight: 0.1077
     avg_copies: 1.0
   affinity:
-    weight: 0.8333
-    avg_copies: 1.88
+    weight: 0.8301
+    avg_copies: 1.86
   mill:
     weight: 0.4595
     avg_copies: 1.0
@@ -42,13 +42,13 @@ archetypes:
     weight: 0.6923
     avg_copies: 1.56
   simic-ritual:
-    weight: 0.9794
-    avg_copies: 3.75
+    weight: 0.9798
+    avg_copies: 3.73
   izzet-prowess:
-    weight: 0.0025
+    weight: 0.0024
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.0145
+    weight: 0.0141
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.5312
@@ -63,7 +63,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   goryo1:
-    weight: 0.2391
+    weight: 0.2408
     avg_copies: 1.0
   goryo7:
     weight: 1.0
@@ -84,17 +84,17 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-5:
-    weight: 0.0909
+    weight: 0.0833
     avg_copies: 1.0
   unknown-11:
     weight: 0.8
     avg_copies: 1.75
   unknown-15:
-    weight: 0.1364
-    avg_copies: 2.0
+    weight: 0.2083
+    avg_copies: 1.8
   unknown-16:
-    weight: 1.0
-    avg_copies: 2.14
+    weight: 0.8889
+    avg_copies: 2.25
   unknown-20:
     weight: 0.6667
     avg_copies: 1.0
@@ -120,10 +120,10 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9756
+    weight: 0.9718
     avg_copies: 1.96
   unknown-49:
-    weight: 0.8
+    weight: 0.6667
     avg_copies: 2.0
   unknown-62:
     weight: 0.4242
@@ -135,8 +135,8 @@ archetypes:
     weight: 0.9655
     avg_copies: 2.18
   unknown-67:
-    weight: 0.9712
-    avg_copies: 1.5
+    weight: 0.972
+    avg_copies: 1.49
   unknown-82:
     weight: 1.0
     avg_copies: 2.67
@@ -156,7 +156,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-111:
-    weight: 0.1667
+    weight: 0.2857
     avg_copies: 1.0
   unknown-113:
     weight: 0.3333
@@ -186,7 +186,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-167:
-    weight: 0.4737
+    weight: 0.45
     avg_copies: 1.22
   unknown-165:
     weight: 1.0
@@ -223,7 +223,7 @@ archetypes:
     avg_copies: 4.0
   unknown-248:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.5
   unknown-246:
     weight: 1.0
     avg_copies: 4.0

@@ -7,79 +7,79 @@ name: 'Unknown #264'
 meta_share: 0.0001
 list_count: 1
 top_cards:
-- name: Arid Mesa
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 4.0
 - name: Overlord of the Balemurk
   weight: 1.0
   avg_copies: 4.0
-- name: Phelia, Exuberant Shepherd
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
-- name: Ocelot Pride
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
 - name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 3.0
-- name: Thoughtseize
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 3.0
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 3.0
-- name: High Noon
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 2.0
 - name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 2.0
+- name: Sacred Foundry
+  weight: 1.0
+  avg_copies: 2.0
 - name: Sevinne's Reclamation
-  weight: 1.0
-  avg_copies: 2.0
-- name: Witch Enchanter
-  weight: 1.0
-  avg_copies: 2.0
-- name: Pinnacle Monk
-  weight: 1.0
-  avg_copies: 2.0
-- name: Goblin Bombardment
-  weight: 1.0
-  avg_copies: 2.0
-- name: Damping Sphere
-  weight: 1.0
-  avg_copies: 2.0
-- name: Godless Shrine
-  weight: 1.0
-  avg_copies: 2.0
-- name: Plains
   weight: 1.0
   avg_copies: 2.0
 - name: Flickerwisp
   weight: 1.0
   avg_copies: 2.0
-- name: Obsidian Charmaw
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.0
 - name: Fable of the Mirror-Breaker
   weight: 1.0
   avg_copies: 2.0
-- name: Bloodstained Mire
+- name: Obsidian Charmaw
   weight: 1.0
   avg_copies: 2.0
-- name: Sacred Foundry
+- name: Pinnacle Monk
   weight: 1.0
   avg_copies: 2.0
-- name: Elegant Parlor
+- name: Plains
+  weight: 1.0
+  avg_copies: 2.0
+- name: Witch Enchanter
+  weight: 1.0
+  avg_copies: 2.0
+- name: Damping Sphere
+  weight: 1.0
+  avg_copies: 2.0
+- name: High Noon
+  weight: 1.0
+  avg_copies: 2.0
+- name: Goblin Bombardment
+  weight: 1.0
+  avg_copies: 2.0
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Surgical Extraction
@@ -88,25 +88,25 @@ top_cards:
 - name: Galvanic Discharge
   weight: 1.0
   avg_copies: 1.0
-- name: Ephemerate
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Wear
-  weight: 1.0
-  avg_copies: 1.0
-- name: Clarion Conqueror
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
+- name: Clarion Conqueror
+  weight: 1.0
+  avg_copies: 1.0
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowy Backstreet
+- name: Wear
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Ephemerate
   weight: 1.0
   avg_copies: 1.0
 ---

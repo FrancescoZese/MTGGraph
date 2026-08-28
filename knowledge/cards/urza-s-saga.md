@@ -6,10 +6,10 @@ name: Urza's Saga
 scryfall_id: c1e0f201-42cb-46a1-901a-65bb4fc18f6c
 set: mh2
 type: Enchantment Land — Urza's Saga
-meta_presence: 0.1835
+meta_presence: 0.1843
 archetypes:
   eldrazi-tron:
-    weight: 0.0751
+    weight: 0.0735
     avg_copies: 1.32
   amulet-titan:
     weight: 1.0
@@ -19,7 +19,7 @@ archetypes:
     avg_copies: 4.0
   affinity:
     weight: 1.0
-    avg_copies: 3.88
+    avg_copies: 3.89
   hammer-time:
     weight: 1.0
     avg_copies: 3.95
@@ -49,13 +49,13 @@ archetypes:
     avg_copies: 2.0
   unknown-6:
     weight: 1.0
-    avg_copies: 2.5
+    avg_copies: 2.47
   unknown-10:
     weight: 1.0
     avg_copies: 3.67
   unknown-15:
     weight: 1.0
-    avg_copies: 3.95
+    avg_copies: 3.96
   unknown-21:
     weight: 1.0
     avg_copies: 4.0
@@ -79,7 +79,7 @@ archetypes:
     avg_copies: 4.0
   unknown-49:
     weight: 1.0
-    avg_copies: 3.8
+    avg_copies: 3.83
   unknown-55:
     weight: 1.0
     avg_copies: 4.0
@@ -114,7 +114,7 @@ archetypes:
     weight: 0.25
     avg_copies: 4.0
   unknown-154:
-    weight: 1.0
+    weight: 0.75
     avg_copies: 4.0
   unknown-157:
     weight: 1.0
@@ -127,7 +127,7 @@ archetypes:
     avg_copies: 4.0
   unknown-167:
     weight: 1.0
-    avg_copies: 3.84
+    avg_copies: 3.85
   unknown-170:
     weight: 1.0
     avg_copies: 4.0
@@ -139,7 +139,7 @@ archetypes:
     avg_copies: 3.0
   unknown-181:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.71
   unknown-194:
     weight: 1.0
     avg_copies: 4.0
@@ -173,7 +173,13 @@ archetypes:
   unknown-258:
     weight: 1.0
     avg_copies: 4.0
+  unknown-265:
+    weight: 0.3333
+    avg_copies: 1.0
   unknown-269:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-273:
     weight: 1.0
     avg_copies: 4.0
 ---

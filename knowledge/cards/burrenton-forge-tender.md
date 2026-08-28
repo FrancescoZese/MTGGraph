@@ -7,15 +7,15 @@ name: Burrenton Forge-Tender
 scryfall_id: 40dd31ae-f252-449b-9d79-749a9a255763
 set: ima
 type: Creature — Kithkin Wizard
-meta_presence: 0.0014
+meta_presence: 0.0013
 archetypes:
   boros-energy:
-    weight: 0.0064
+    weight: 0.0063
     avg_copies: 1.0
   unknown-126:
-    weight: 0.0076
+    weight: 0.0064
     avg_copies: 2.0
   unknown-131:
-    weight: 0.4444
+    weight: 0.4
     avg_copies: 1.0
 ---

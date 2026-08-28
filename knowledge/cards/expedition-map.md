@@ -6,22 +6,22 @@ name: Expedition Map
 scryfall_id: 08e66835-c228-48fa-bcaa-eb96edbd4f5a
 set: fdn
 type: Artifact
-meta_presence: 0.0497
+meta_presence: 0.049
 archetypes:
   eldrazi-tron:
-    weight: 0.997
+    weight: 0.9971
     avg_copies: 3.87
   mono-blue-tron:
     weight: 1.0
     avg_copies: 3.92
   broodscale-combo:
-    weight: 0.0031
+    weight: 0.003
     avg_copies: 1.0
   unknown-37:
     weight: 1.0
     avg_copies: 4.0
   unknown-76:
-    weight: 0.1667
+    weight: 0.1429
     avg_copies: 1.0
   unknown-150:
     weight: 1.0
@@ -34,5 +34,5 @@ archetypes:
     avg_copies: 4.0
   unknown-265:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 2.67
 ---

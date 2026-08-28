@@ -4,11 +4,11 @@ archetypes:
     weight: 0.0123
     avg_copies: 3.0
   eldrazi-tron:
-    weight: 0.9399
+    weight: 0.9412
     avg_copies: 1.85
   amulet-titan:
-    weight: 0.9885
-    avg_copies: 2.23
+    weight: 0.9888
+    avg_copies: 2.24
   hardened-scales:
     weight: 1.0
     avg_copies: 1.8
@@ -16,7 +16,7 @@ archetypes:
     weight: 0.8205
     avg_copies: 1.78
   neoform-combo:
-    weight: 0.1062
+    weight: 0.1043
     avg_copies: 1.0
   mono-blue-tron:
     weight: 0.4231
@@ -25,16 +25,16 @@ archetypes:
     weight: 0.875
     avg_copies: 2.0
   eldrazi-ramp:
-    weight: 0.1343
+    weight: 0.1295
     avg_copies: 1.79
   simic-ritual:
-    weight: 0.5052
+    weight: 0.4949
     avg_copies: 1.63
   4c-omnath:
     weight: 0.25
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.5525
+    weight: 0.5495
     avg_copies: 1.66
   rakdos-aggro:
     weight: 0.1579
@@ -52,10 +52,10 @@ archetypes:
     weight: 0.8333
     avg_copies: 2.4
   unknown-47:
-    weight: 0.0061
+    weight: 0.0056
     avg_copies: 1.0
   unknown-61:
-    weight: 0.6496
+    weight: 0.6719
     avg_copies: 1.17
   unknown-55:
     weight: 1.0
@@ -64,23 +64,23 @@ archetypes:
     weight: 0.6897
     avg_copies: 1.14
   unknown-67:
-    weight: 0.1635
-    avg_copies: 1.41
+    weight: 0.1682
+    avg_copies: 1.39
   unknown-76:
     weight: 1.0
-    avg_copies: 2.33
+    avg_copies: 2.43
   unknown-84:
     weight: 0.3333
     avg_copies: 1.0
   unknown-97:
-    weight: 0.0625
+    weight: 0.05
     avg_copies: 2.0
   unknown-103:
     weight: 1.0
     avg_copies: 4.0
   unknown-126:
-    weight: 0.0379
-    avg_copies: 2.0
+    weight: 0.051
+    avg_copies: 1.88
   unknown-124:
     weight: 1.0
     avg_copies: 2.0
@@ -88,27 +88,36 @@ archetypes:
     weight: 0.2
     avg_copies: 1.0
   unknown-167:
-    weight: 0.1579
+    weight: 0.15
     avg_copies: 2.33
   unknown-164:
     weight: 0.5
     avg_copies: 2.0
   unknown-194:
-    weight: 0.8
-    avg_copies: 1.61
+    weight: 0.7949
+    avg_copies: 1.55
   unknown-228:
     weight: 1.0
     avg_copies: 2.0
   unknown-227:
     weight: 0.5
     avg_copies: 2.0
+  unknown-248:
+    weight: 0.5
+    avg_copies: 2.0
   unknown-265:
+    weight: 0.6667
+    avg_copies: 2.0
+  unknown-271:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-272:
     weight: 1.0
     avg_copies: 2.0
 cmc: 3
 colors: []
 image: https://cards.scryfall.io/normal/front/3/d/3d286cf6-3e16-4941-9326-1818b1e06d69.jpg?1562261132
-meta_presence: 0.1432
+meta_presence: 0.1437
 name: Dismember
 scryfall_id: 3d286cf6-3e16-4941-9326-1818b1e06d69
 set: mm2

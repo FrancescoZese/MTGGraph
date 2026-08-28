@@ -7,17 +7,17 @@ name: Orcish Bowmasters
 scryfall_id: 7c024bae-5631-4e20-ac69-df392ac9e109
 set: ltr
 type: Creature — Orc Archer
-meta_presence: 0.1096
+meta_presence: 0.1099
 archetypes:
   dimir-control:
     weight: 0.963
     avg_copies: 3.58
   goryo:
-    weight: 0.0024
+    weight: 0.0023
     avg_copies: 1.5
   necrodominance:
     weight: 1.0
-    avg_copies: 3.69
+    avg_copies: 3.7
   domain-zoo:
     weight: 0.0596
     avg_copies: 2.33
@@ -31,20 +31,20 @@ archetypes:
     weight: 0.6765
     avg_copies: 3.26
   yawgmoth-combo:
-    weight: 0.5263
+    weight: 0.5208
     avg_copies: 1.65
   simic-ritual:
-    weight: 0.0515
+    weight: 0.0505
     avg_copies: 3.2
   esper-blink:
-    weight: 0.2402
-    avg_copies: 2.02
+    weight: 0.2255
+    avg_copies: 1.98
   samwise-combo:
-    weight: 0.6761
+    weight: 0.6486
     avg_copies: 1.98
   orzhov-blink:
-    weight: 0.8333
-    avg_copies: 2.87
+    weight: 0.8421
+    avg_copies: 2.81
   jund-saga:
     weight: 1.0
     avg_copies: 3.4
@@ -52,13 +52,13 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   goryo1:
-    weight: 0.0054
+    weight: 0.0052
     avg_copies: 1.0
   goryo5:
     weight: 1.0
     avg_copies: 3.41
   goryo2:
-    weight: 0.4314
+    weight: 0.4423
     avg_copies: 2.0
   soultrader-combo:
     weight: 1.0
@@ -73,8 +73,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-1:
-    weight: 0.5385
-    avg_copies: 2.86
+    weight: 0.6
+    avg_copies: 2.67
   unknown-18:
     weight: 1.0
     avg_copies: 4.0
@@ -83,7 +83,7 @@ archetypes:
     avg_copies: 2.0
   unknown-24:
     weight: 1.0
-    avg_copies: 2.81
+    avg_copies: 2.82
   unknown-27:
     weight: 1.0
     avg_copies: 4.0
@@ -107,7 +107,7 @@ archetypes:
     avg_copies: 3.5
   unknown-47:
     weight: 1.0
-    avg_copies: 3.07
+    avg_copies: 3.03
   unknown-51:
     weight: 1.0
     avg_copies: 3.0
@@ -125,7 +125,7 @@ archetypes:
     avg_copies: 2.24
   unknown-69:
     weight: 1.0
-    avg_copies: 3.78
+    avg_copies: 3.8
   unknown-74:
     weight: 1.0
     avg_copies: 2.0
@@ -139,14 +139,14 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-96:
-    weight: 0.0469
+    weight: 0.0423
     avg_copies: 2.33
   unknown-100:
-    weight: 0.5
+    weight: 0.4
     avg_copies: 2.0
   unknown-101:
-    weight: 0.8846
-    avg_copies: 3.87
+    weight: 0.9032
+    avg_copies: 3.89
   unknown-105:
     weight: 1.0
     avg_copies: 1.5
@@ -154,7 +154,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-111:
-    weight: 1.0
+    weight: 0.8571
     avg_copies: 4.0
   unknown-110:
     weight: 1.0
@@ -169,7 +169,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.88
   unknown-131:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 3.0
   unknown-132:
     weight: 1.0
@@ -188,7 +188,7 @@ archetypes:
     avg_copies: 4.0
   unknown-154:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.75
   unknown-161:
     weight: 0.5
     avg_copies: 2.0
@@ -201,6 +201,9 @@ archetypes:
   unknown-173:
     weight: 1.0
     avg_copies: 4.0
+  unknown-181:
+    weight: 0.1667
+    avg_copies: 2.0
   unknown-201:
     weight: 1.0
     avg_copies: 4.0
@@ -235,6 +238,9 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-243:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-272:
     weight: 1.0
     avg_copies: 4.0
 ---

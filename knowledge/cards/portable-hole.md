@@ -7,25 +7,25 @@ name: Portable Hole
 scryfall_id: 80fca8c0-ae3e-439e-b202-228b9f360e9a
 set: afr
 type: Artifact
-meta_presence: 0.0091
+meta_presence: 0.0088
 archetypes:
   mono-blue-belcher:
-    weight: 0.0211
+    weight: 0.0202
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.006
+    weight: 0.0059
     avg_copies: 1.0
   affinity:
     weight: 0.0018
     avg_copies: 3.0
   hammer-time:
-    weight: 0.2105
+    weight: 0.1905
     avg_copies: 2.0
   boros-ponza:
     weight: 0.0851
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.0423
+    weight: 0.0405
     avg_copies: 1.0
   goryo7:
     weight: 1.0
@@ -37,16 +37,16 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-15:
-    weight: 0.0455
+    weight: 0.0417
     avg_copies: 3.0
   unknown-48:
     weight: 0.5
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0652
+    weight: 0.0594
     avg_copies: 1.0
   unknown-167:
-    weight: 0.5263
+    weight: 0.5
     avg_copies: 3.5
   unknown-170:
     weight: 1.0
@@ -63,4 +63,7 @@ archetypes:
   unknown-253:
     weight: 1.0
     avg_copies: 2.0
+  unknown-273:
+    weight: 1.0
+    avg_copies: 4.0
 ---

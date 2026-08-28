@@ -7,7 +7,7 @@ name: Master of the Pearl Trident
 scryfall_id: 6b48dc56-667c-4fde-8175-952463e233cc
 set: lcc
 type: Creature — Merfolk
-meta_presence: 0.002
+meta_presence: 0.0019
 archetypes:
   unknown-42:
     weight: 1.0

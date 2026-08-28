@@ -12,14 +12,17 @@ archetypes:
   dimir-control:
     weight: 0.9506
     avg_copies: 1.79
+  goryo:
+    weight: 0.0046
+    avg_copies: 1.0
   necrodominance:
-    weight: 0.0222
+    weight: 0.0217
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0103
+    weight: 0.0101
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0056
+    weight: 0.0049
     avg_copies: 1.0
   rakdos-aggro:
     weight: 0.1579
@@ -28,13 +31,13 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   goryo1:
-    weight: 0.0054
+    weight: 0.0052
     avg_copies: 1.0
   goryo5:
-    weight: 0.0278
+    weight: 0.025
     avg_copies: 2.0
   goryo2:
-    weight: 0.1765
+    weight: 0.1731
     avg_copies: 1.0
   soultrader-combo:
     weight: 0.1429
@@ -61,7 +64,7 @@ archetypes:
     weight: 0.0625
     avg_copies: 1.0
   unknown-47:
-    weight: 0.6951
+    weight: 0.6836
     avg_copies: 1.11
   unknown-51:
     weight: 1.0
@@ -73,7 +76,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-69:
-    weight: 0.2222
+    weight: 0.2
     avg_copies: 1.0
   unknown-73:
     weight: 1.0
@@ -89,7 +92,7 @@ archetypes:
     avg_copies: 1.0
   unknown-111:
     weight: 1.0
-    avg_copies: 2.33
+    avg_copies: 2.29
   unknown-125:
     weight: 0.1667
     avg_copies: 1.0

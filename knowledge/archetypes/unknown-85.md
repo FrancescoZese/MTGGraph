@@ -6,13 +6,10 @@ colors:
 - R
 - G
 name: 'Unknown #85'
-meta_share: 0.0023
+meta_share: 0.0022
 list_count: 17
 top_cards:
 - name: Territorial Kavu
-  weight: 1.0
-  avg_copies: 4.0
-- name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline Binding
@@ -21,10 +18,13 @@ top_cards:
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline of the Guildpact
+- name: Scion of Draco
+  weight: 1.0
+  avg_copies: 4.0
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 3.82
-- name: Wooded Foothills
+- name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 3.82
 - name: Ragavan, Nimble Pilferer
@@ -66,10 +66,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.8235
   avg_copies: 2.07
-- name: Sacred Foundry
+- name: Mountain
   weight: 0.8235
   avg_copies: 1.0
-- name: Mountain
+- name: Sacred Foundry
   weight: 0.8235
   avg_copies: 1.0
 - name: Indatha Triome
@@ -87,10 +87,10 @@ top_cards:
 - name: Plains
   weight: 0.5882
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Forest
   weight: 0.5882
   avg_copies: 1.0
-- name: Forest
+- name: Breeding Pool
   weight: 0.5882
   avg_copies: 1.0
 - name: Nihil Spellbomb
@@ -108,10 +108,10 @@ top_cards:
 - name: Windswept Heath
   weight: 0.2353
   avg_copies: 3.75
-- name: Mana Tithe
+- name: Orcish Bowmasters
   weight: 0.2353
   avg_copies: 2.0
-- name: Orcish Bowmasters
+- name: Mana Tithe
   weight: 0.2353
   avg_copies: 2.0
 - name: Obsidian Charmaw
@@ -141,13 +141,13 @@ top_cards:
 - name: Xander's Lounge
   weight: 0.1176
   avg_copies: 1.0
-- name: Lush Portico
+- name: Godless Shrine
   weight: 0.1176
   avg_copies: 1.0
 - name: Zagoth Triome
   weight: 0.1176
   avg_copies: 1.0
-- name: Godless Shrine
+- name: Lush Portico
   weight: 0.1176
   avg_copies: 1.0
 - name: Savai Triome
@@ -159,73 +159,73 @@ top_cards:
 - name: Psychic Frog
   weight: 0.0588
   avg_copies: 4.0
-- name: Force of Vigor
-  weight: 0.0588
-  avg_copies: 3.0
 - name: Practiced Offense
   weight: 0.0588
   avg_copies: 3.0
-- name: Vexing Bauble
+- name: Force of Vigor
   weight: 0.0588
-  avg_copies: 2.0
-- name: Fire Magic
-  weight: 0.0588
-  avg_copies: 2.0
-- name: Endurance
-  weight: 0.0588
-  avg_copies: 2.0
-- name: Fatal Push
-  weight: 0.0588
-  avg_copies: 2.0
-- name: Rough
-  weight: 0.0588
-  avg_copies: 2.0
-- name: Prismatic Ending
+  avg_copies: 3.0
+- name: Pick Your Poison
   weight: 0.0588
   avg_copies: 2.0
 - name: Laelia, the Blade Reforged
   weight: 0.0588
   avg_copies: 2.0
-- name: Pick Your Poison
+- name: Vexing Bauble
   weight: 0.0588
   avg_copies: 2.0
-- name: Elegant Parlor
+- name: Prismatic Ending
   weight: 0.0588
-  avg_copies: 1.0
-- name: Sacred Ground
+  avg_copies: 2.0
+- name: Fatal Push
   weight: 0.0588
-  avg_copies: 1.0
-- name: Chalice of the Void
+  avg_copies: 2.0
+- name: Endurance
   weight: 0.0588
-  avg_copies: 1.0
-- name: Lavinia, Azorius Renegade
+  avg_copies: 2.0
+- name: Rough
   weight: 0.0588
-  avg_copies: 1.0
-- name: Hedge Maze
+  avg_copies: 2.0
+- name: Fire Magic
   weight: 0.0588
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Island
   weight: 0.0588
   avg_copies: 1.0
 - name: Orim's Chant
   weight: 0.0588
   avg_copies: 1.0
-- name: Hidetsugu Consumes All
+- name: Chalice of the Void
   weight: 0.0588
   avg_copies: 1.0
-- name: Clarion Conqueror
+- name: The Legend of Roku
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Sacred Ground
   weight: 0.0588
   avg_copies: 1.0
 - name: Pyroclasm
   weight: 0.0588
   avg_copies: 1.0
+- name: Hidetsugu Consumes All
+  weight: 0.0588
+  avg_copies: 1.0
 - name: Brotherhood's End
   weight: 0.0588
   avg_copies: 1.0
-- name: Winternight Stories
+- name: Lavinia, Azorius Renegade
   weight: 0.0588
   avg_copies: 1.0
-- name: The Legend of Roku
+- name: Elegant Parlor
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Clarion Conqueror
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Hedge Maze
+  weight: 0.0588
+  avg_copies: 1.0
+- name: Winternight Stories
   weight: 0.0588
   avg_copies: 1.0
 ---

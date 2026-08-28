@@ -7,13 +7,13 @@ name: Marionette Apprentice
 scryfall_id: d16f8670-f038-400a-83e7-a53a7f8c47ac
 set: mh3
 type: Creature — Human Artificer
-meta_presence: 0.0064
+meta_presence: 0.0061
 archetypes:
   simic-ritual:
-    weight: 0.0103
+    weight: 0.0101
     avg_copies: 3.0
   samwise-combo:
-    weight: 0.2254
+    weight: 0.2162
     avg_copies: 2.62
   soultrader-combo:
     weight: 1.0

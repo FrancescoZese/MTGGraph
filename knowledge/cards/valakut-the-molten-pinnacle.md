@@ -6,10 +6,10 @@ name: Valakut, the Molten Pinnacle
 scryfall_id: 37bce60d-2cb0-4772-9f5c-122a7ed426a0
 set: zen
 type: Land
-meta_presence: 0.0047
+meta_presence: 0.0048
 archetypes:
   amulet-titan:
-    weight: 0.0632
+    weight: 0.0674
     avg_copies: 1.0
   scapeshift-combo:
     weight: 0.5
@@ -19,7 +19,7 @@ archetypes:
     avg_copies: 3.67
   unknown-76:
     weight: 1.0
-    avg_copies: 1.67
+    avg_copies: 1.57
   unknown-152:
     weight: 1.0
     avg_copies: 4.0

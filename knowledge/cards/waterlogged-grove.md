@@ -9,13 +9,13 @@ type: Land
 meta_presence: 0.0016
 archetypes:
   amulet-titan:
-    weight: 0.0057
+    weight: 0.0056
     avg_copies: 1.0
   affinity:
     weight: 0.0018
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0088
+    weight: 0.0087
     avg_copies: 1.0
   unknown-42:
     weight: 0.0833
@@ -24,6 +24,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-167:
-    weight: 0.3684
+    weight: 0.35
     avg_copies: 1.0
 ---

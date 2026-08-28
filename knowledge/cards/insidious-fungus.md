@@ -7,19 +7,19 @@ name: Insidious Fungus
 scryfall_id: d60d2e62-06da-410a-81ed-6cebb2632fb6
 set: dsk
 type: Creature — Fungus
-meta_presence: 0.0015
+meta_presence: 0.0014
 archetypes:
   amulet-titan:
-    weight: 0.023
+    weight: 0.0225
     avg_copies: 1.0
   scapeshift-combo:
     weight: 0.1667
     avg_copies: 1.0
   unknown-61:
-    weight: 0.0085
+    weight: 0.0078
     avg_copies: 1.0
   unknown-88:
-    weight: 0.125
+    weight: 0.1053
     avg_copies: 1.0
   unknown-153:
     weight: 0.5

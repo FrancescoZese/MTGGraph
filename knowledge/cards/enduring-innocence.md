@@ -13,10 +13,10 @@ archetypes:
     weight: 0.0051
     avg_copies: 1.75
   samwise-combo:
-    weight: 0.0141
+    weight: 0.0135
     avg_copies: 2.0
   azorius-blink:
-    weight: 0.0145
+    weight: 0.0141
     avg_copies: 1.0
   bant-ritual:
     weight: 1.0

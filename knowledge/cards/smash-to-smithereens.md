@@ -10,17 +10,17 @@ type: Instant
 meta_presence: 0.0039
 archetypes:
   burn:
-    weight: 0.5
+    weight: 0.4878
     avg_copies: 2.35
   izzet-prowess:
-    weight: 0.0025
+    weight: 0.0024
     avg_copies: 1.0
   unknown-86:
     weight: 0.0833
     avg_copies: 3.0
   unknown-101:
-    weight: 0.0385
-    avg_copies: 1.0
+    weight: 0.0645
+    avg_copies: 2.0
   unknown-178:
     weight: 1.0
     avg_copies: 2.0

@@ -7,12 +7,12 @@ name: Accumulate Wisdom
 scryfall_id: a6335319-6c92-40d4-ab2d-c06c79049c30
 set: tla
 type: Instant — Lesson
-meta_presence: 0.0011
+meta_presence: 0.001
 archetypes:
   izzet-prowess:
-    weight: 0.0173
+    weight: 0.0165
     avg_copies: 1.0
   unknown-122:
-    weight: 0.0333
+    weight: 0.0323
     avg_copies: 1.0
 ---
