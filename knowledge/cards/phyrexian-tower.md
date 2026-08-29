@@ -15,7 +15,7 @@ archetypes:
     weight: 0.0104
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0101
+    weight: 0.01
     avg_copies: 4.0
   samwise-combo:
     weight: 0.0946
@@ -36,7 +36,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-194:
-    weight: 0.0256
+    weight: 0.0192
     avg_copies: 1.0
   unknown-215:
     weight: 1.0
@@ -44,4 +44,7 @@ archetypes:
   unknown-243:
     weight: 1.0
     avg_copies: 1.0
+  unknown-277:
+    weight: 1.0
+    avg_copies: 1.5
 ---

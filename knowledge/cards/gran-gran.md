@@ -10,7 +10,7 @@ type: Legendary Creature — Human Peasant Ally
 meta_presence: 0.0061
 archetypes:
   goryo:
-    weight: 0.0023
+    weight: 0.0022
     avg_copies: 4.0
   reanimator:
     weight: 0.037
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.0704
     avg_copies: 1.0
   goryo1:
-    weight: 0.0576
+    weight: 0.0625
     avg_copies: 3.0
   unknown-20:
     weight: 1.0

@@ -6,7 +6,7 @@ name: Dwarven Mine
 scryfall_id: 5c83074d-0c9b-4b58-94ca-d75240485579
 set: eld
 type: Land — Mountain
-meta_presence: 0.0031
+meta_presence: 0.0032
 archetypes:
   indomitable-creativity:
     weight: 1.0
@@ -16,7 +16,7 @@ archetypes:
     avg_copies: 1.0
   unknown-8:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.67
   unknown-19:
     weight: 1.0
     avg_copies: 3.0

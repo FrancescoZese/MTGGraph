@@ -10,9 +10,9 @@ type: Creature — Human Scout
 meta_presence: 0.0027
 archetypes:
   boros-energy:
-    weight: 0.0253
+    weight: 0.025
     avg_copies: 2.2
   unknown-68:
-    weight: 0.0244
+    weight: 0.0238
     avg_copies: 2.0
 ---

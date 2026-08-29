@@ -9,12 +9,15 @@ type: Legendary Artifact
 meta_presence: 0.0322
 archetypes:
   eldrazi-tron:
-    weight: 0.7206
+    weight: 0.723
     avg_copies: 1.0
   necrodominance:
     weight: 0.0435
     avg_copies: 1.5
   unknown-182:
     weight: 0.25
+    avg_copies: 1.0
+  unknown-265:
+    weight: 0.3333
     avg_copies: 1.0
 ---

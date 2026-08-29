@@ -7,22 +7,22 @@ name: Spell Pierce
 scryfall_id: 8dd4374f-0301-4b2e-bc99-2cd19568cb3b
 set: dft
 type: Instant
-meta_presence: 0.0844
+meta_presence: 0.0847
 archetypes:
   dimir-control:
     weight: 0.2099
     avg_copies: 1.0
   mono-blue-belcher:
-    weight: 0.1515
+    weight: 0.1485
     avg_copies: 1.0
   goryo:
-    weight: 0.0046
-    avg_copies: 1.5
+    weight: 0.0045
+    avg_copies: 1.33
   affinity:
-    weight: 0.0018
+    weight: 0.0035
     avg_copies: 1.0
   mill:
-    weight: 0.027
+    weight: 0.0263
     avg_copies: 3.0
   reanimator:
     weight: 0.7037
@@ -31,13 +31,13 @@ archetypes:
     weight: 0.0769
     avg_copies: 2.0
   hammer-time:
-    weight: 0.0952
+    weight: 0.0909
     avg_copies: 1.25
   izzet-prowess:
-    weight: 0.8325
-    avg_copies: 1.61
+    weight: 0.8333
+    avg_copies: 1.6
   esper-blink:
-    weight: 0.0049
+    weight: 0.0046
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.25
@@ -58,10 +58,10 @@ archetypes:
     weight: 0.2
     avg_copies: 2.0
   goryo1:
-    weight: 0.801
+    weight: 0.7969
     avg_copies: 1.75
   goryo2:
-    weight: 0.0385
+    weight: 0.0377
     avg_copies: 2.33
   grixis-control:
     weight: 0.1429
@@ -70,7 +70,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-5:
-    weight: 0.0833
+    weight: 0.0769
     avg_copies: 2.0
   unknown-7:
     weight: 1.0
@@ -91,13 +91,13 @@ archetypes:
     weight: 0.0833
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0169
+    weight: 0.0165
     avg_copies: 1.0
   unknown-62:
     weight: 0.6061
     avg_copies: 1.62
   unknown-70:
-    weight: 0.05
+    weight: 0.0476
     avg_copies: 1.0
   unknown-73:
     weight: 1.0
@@ -112,8 +112,8 @@ archetypes:
     weight: 0.4286
     avg_copies: 1.33
   unknown-122:
-    weight: 0.2903
-    avg_copies: 1.44
+    weight: 0.3529
+    avg_copies: 1.42
   unknown-125:
     weight: 0.0833
     avg_copies: 1.0
@@ -121,7 +121,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-149:
-    weight: 0.1667
+    weight: 0.1429
     avg_copies: 1.2
   unknown-145:
     weight: 1.0

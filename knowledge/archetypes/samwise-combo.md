@@ -5,13 +5,13 @@ colors:
 - B
 - G
 name: Samwise Combo
-meta_share: 0.0096
+meta_share: 0.0094
 list_count: 74
 top_cards:
-- name: Cauldron Familiar
+- name: Gilded Goose
   weight: 1.0
   avg_copies: 4.0
-- name: Gilded Goose
+- name: Cauldron Familiar
   weight: 1.0
   avg_copies: 4.0
 - name: Birthing Ritual
@@ -23,10 +23,10 @@ top_cards:
 - name: Windswept Heath
   weight: 1.0
   avg_copies: 3.84
-- name: Chord of Calling
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 3.8
-- name: Verdant Catacombs
+- name: Chord of Calling
   weight: 1.0
   avg_copies: 3.8
 - name: Force of Vigor
@@ -44,10 +44,10 @@ top_cards:
 - name: Forest
   weight: 1.0
   avg_copies: 1.04
-- name: Dryad Arbor
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
-- name: Godless Shrine
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
 - name: Carrion Feeder
@@ -179,25 +179,25 @@ top_cards:
 - name: Eyetwitch
   weight: 0.1216
   avg_copies: 4.0
-- name: Boggart Trawler
-  weight: 0.1216
-  avg_copies: 1.0
-- name: True Ancestry
-  weight: 0.1216
-  avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.1216
-  avg_copies: 1.0
 - name: Origin of Metalbending
-  weight: 0.1216
-  avg_copies: 1.0
-- name: Ruinous Waterbending
   weight: 0.1216
   avg_copies: 1.0
 - name: Professor of Symbology
   weight: 0.1216
   avg_copies: 1.0
 - name: Decorum Dissertation
+  weight: 0.1216
+  avg_copies: 1.0
+- name: Surgical Extraction
+  weight: 0.1216
+  avg_copies: 1.0
+- name: True Ancestry
+  weight: 0.1216
+  avg_copies: 1.0
+- name: Ruinous Waterbending
+  weight: 0.1216
+  avg_copies: 1.0
+- name: Boggart Trawler
   weight: 0.1216
   avg_copies: 1.0
 - name: card:birds-of-paradise
@@ -212,13 +212,13 @@ top_cards:
 - name: Sephiroth, Fabled SOLDIER
   weight: 0.0946
   avg_copies: 1.0
-- name: Phyrexian Tower
+- name: Eidolon of Rhetoric
   weight: 0.0946
   avg_copies: 1.0
 - name: Warren Soultrader
   weight: 0.0946
   avg_copies: 1.0
-- name: Eidolon of Rhetoric
+- name: Phyrexian Tower
   weight: 0.0946
   avg_copies: 1.0
 - name: Wall of Roots
@@ -251,28 +251,28 @@ top_cards:
 - name: Mana Confluence
   weight: 0.0541
   avg_copies: 1.25
-- name: Reclamation Sage
-  weight: 0.0541
-  avg_copies: 1.0
 - name: Reduce to Memory
   weight: 0.0541
   avg_copies: 1.0
-- name: Dawnbringer Cleric
-  weight: 0.0541
-  avg_copies: 1.0
-- name: Bridgeworks Battle
-  weight: 0.0541
-  avg_copies: 1.0
-- name: Loran of the Third Path
+- name: Skyclave Apparition
   weight: 0.0541
   avg_copies: 1.0
 - name: Stomping Ground
   weight: 0.0541
   avg_copies: 1.0
+- name: Reclamation Sage
+  weight: 0.0541
+  avg_copies: 1.0
+- name: Bridgeworks Battle
+  weight: 0.0541
+  avg_copies: 1.0
 - name: Dai Li Indoctrination
   weight: 0.0541
   avg_copies: 1.0
-- name: Skyclave Apparition
+- name: Loran of the Third Path
+  weight: 0.0541
+  avg_copies: 1.0
+- name: Dawnbringer Cleric
   weight: 0.0541
   avg_copies: 1.0
 - name: Damping Sphere
@@ -284,28 +284,28 @@ top_cards:
 - name: Satoru, the Infiltrator
   weight: 0.027
   avg_copies: 2.5
-- name: card:severance-priest
+- name: Assassin's Trophy
   weight: 0.027
   avg_copies: 2.0
 - name: Prismatic Ending
   weight: 0.027
   avg_copies: 2.0
-- name: Assassin's Trophy
+- name: card:severance-priest
   weight: 0.027
   avg_copies: 2.0
-- name: Moseo, Vein's New Dean
+- name: Path to Exile
   weight: 0.027
   avg_copies: 1.5
-- name: Path to Exile
+- name: Moseo, Vein's New Dean
   weight: 0.027
   avg_copies: 1.5
 - name: Pile On
   weight: 0.027
   avg_copies: 1.0
-- name: Mai, Scornful Striker
+- name: Kraul Harpooner
   weight: 0.027
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Mai, Scornful Striker
   weight: 0.027
   avg_copies: 1.0
 - name: card:volatile-stormdrake
@@ -317,31 +317,31 @@ top_cards:
 - name: card:cloak-and-dagger-entwined
   weight: 0.027
   avg_copies: 1.0
-- name: Kraul Harpooner
+- name: Sacred Foundry
   weight: 0.027
   avg_copies: 1.0
-- name: Delighted Halfling
-  weight: 0.0135
-  avg_copies: 3.0
 - name: card:safehold-elite
   weight: 0.0135
   avg_copies: 3.0
 - name: card:rubblebelt-maverick
   weight: 0.0135
   avg_copies: 3.0
-- name: card:starting-town
+- name: Delighted Halfling
+  weight: 0.0135
+  avg_copies: 3.0
+- name: card:extraction-specialist
   weight: 0.0135
   avg_copies: 2.0
-- name: Professor Dellian Fel
+- name: card:starting-town
   weight: 0.0135
   avg_copies: 2.0
 - name: Green Sun's Zenith
   weight: 0.0135
   avg_copies: 2.0
-- name: Fade from History
+- name: Professor Dellian Fel
   weight: 0.0135
   avg_copies: 2.0
-- name: Ashiok, Dream Render
+- name: Fade from History
   weight: 0.0135
   avg_copies: 2.0
 - name: Blooming Marsh
@@ -350,37 +350,37 @@ top_cards:
 - name: Enduring Innocence
   weight: 0.0135
   avg_copies: 2.0
-- name: card:extraction-specialist
+- name: Ashiok, Dream Render
   weight: 0.0135
   avg_copies: 2.0
-- name: Teferi, Time Raveler
+- name: Gravecrawler
+  weight: 0.0135
+  avg_copies: 1.0
+- name: Arboreal Grazer
   weight: 0.0135
   avg_copies: 1.0
 - name: Deafening Silence
   weight: 0.0135
   avg_copies: 1.0
-- name: card:scarland-thrinax
-  weight: 0.0135
-  avg_copies: 1.0
-- name: Formidable Speaker
+- name: Icetill Explorer
   weight: 0.0135
   avg_copies: 1.0
 - name: Strategic Betrayal
   weight: 0.0135
   avg_copies: 1.0
-- name: Heroic Intervention
-  weight: 0.0135
-  avg_copies: 1.0
-- name: Kataki, War's Wage
-  weight: 0.0135
-  avg_copies: 1.0
-- name: Gravecrawler
+- name: card:scarland-thrinax
   weight: 0.0135
   avg_copies: 1.0
 - name: Veil of Summer
   weight: 0.0135
   avg_copies: 1.0
-- name: Icetill Explorer
+- name: Kataki, War's Wage
+  weight: 0.0135
+  avg_copies: 1.0
+- name: Void Mirror
+  weight: 0.0135
+  avg_copies: 1.0
+- name: Formidable Speaker
   weight: 0.0135
   avg_copies: 1.0
 - name: Harsh Annotation
@@ -389,10 +389,10 @@ top_cards:
 - name: Vraska, Golgari Queen
   weight: 0.0135
   avg_copies: 1.0
-- name: Arboreal Grazer
+- name: Heroic Intervention
   weight: 0.0135
   avg_copies: 1.0
-- name: Void Mirror
+- name: Teferi, Time Raveler
   weight: 0.0135
   avg_copies: 1.0
 ---

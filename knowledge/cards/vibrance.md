@@ -11,7 +11,7 @@ type: Creature — Elemental Incarnation
 meta_presence: 0.0066
 archetypes:
   eldrazi-ramp:
-    weight: 0.0216
+    weight: 0.0214
     avg_copies: 1.0
   scapeshift-combo:
     weight: 0.5
@@ -23,7 +23,7 @@ archetypes:
     weight: 0.4483
     avg_copies: 1.0
   unknown-67:
-    weight: 0.1776
+    weight: 0.1743
     avg_copies: 1.04
   unknown-84:
     weight: 0.6667

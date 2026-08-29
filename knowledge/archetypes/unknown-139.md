@@ -6,13 +6,16 @@ name: 'Unknown #139'
 meta_share: 0.0017
 list_count: 13
 top_cards:
-- name: Fallaji Archaeologist
-  weight: 1.0
-  avg_copies: 4.0
-- name: Fatal Push
+- name: Gran-Gran
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
+  weight: 1.0
+  avg_copies: 4.0
+- name: Psychic Frog
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fallaji Archaeologist
   weight: 1.0
   avg_copies: 4.0
 - name: Archon of Cruelty
@@ -21,10 +24,7 @@ top_cards:
 - name: Persist
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
-  weight: 1.0
-  avg_copies: 4.0
-- name: Gran-Gran
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
@@ -63,10 +63,10 @@ top_cards:
 - name: Emperor of Bones
   weight: 0.8462
   avg_copies: 2.09
-- name: Snow-Covered Swamp
+- name: Cephalid Coliseum
   weight: 0.8462
   avg_copies: 1.91
-- name: Cephalid Coliseum
+- name: Snow-Covered Swamp
   weight: 0.8462
   avg_copies: 1.91
 - name: Snow-Covered Island
@@ -99,10 +99,10 @@ top_cards:
 - name: Takenuma, Abandoned Mire
   weight: 0.3846
   avg_copies: 1.0
-- name: Harbinger of the Seas
+- name: card:victimize
   weight: 0.3846
   avg_copies: 1.0
-- name: card:victimize
+- name: Harbinger of the Seas
   weight: 0.3846
   avg_copies: 1.0
 - name: Hurkyl's Recall
@@ -135,64 +135,64 @@ top_cards:
 - name: Scalding Tarn
   weight: 0.0769
   avg_copies: 4.0
-- name: card:essence-flux
-  weight: 0.0769
-  avg_copies: 3.0
 - name: Darkslick Shores
   weight: 0.0769
   avg_copies: 3.0
-- name: Nihil Spellbomb
+- name: card:essence-flux
   weight: 0.0769
-  avg_copies: 2.0
-- name: Sheoldred's Edict
-  weight: 0.0769
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Pyroclasm
-  weight: 0.0769
-  avg_copies: 2.0
-- name: card:shredder-s-technique
   weight: 0.0769
   avg_copies: 2.0
 - name: Feed the Swarm
   weight: 0.0769
   avg_copies: 2.0
-- name: Meltdown
+- name: Nihil Spellbomb
   weight: 0.0769
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: card:shredder-s-technique
+  weight: 0.0769
+  avg_copies: 2.0
+- name: Sheoldred's Edict
+  weight: 0.0769
+  avg_copies: 2.0
 - name: Chalice of the Void
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Damping Sphere
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Boggart Trawler
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Ashiok, Dream Render
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Steam Vents
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Dress Down
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Tamiyo, Inquisitive Student
-  weight: 0.0769
-  avg_copies: 1.0
-- name: card:smuggler-s-copter
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Otawara, Soaring City
   weight: 0.0769
   avg_copies: 1.0
 - name: Blood Crypt
   weight: 0.0769
   avg_copies: 1.0
+- name: Dress Down
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Steam Vents
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Damping Sphere
+  weight: 0.0769
+  avg_copies: 1.0
 - name: Emeritus of Ideation
   weight: 0.0769
   avg_copies: 1.0
+- name: Otawara, Soaring City
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Tamiyo, Inquisitive Student
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
+  weight: 0.0769
+  avg_copies: 1.0
 - name: Vexing Bauble
+  weight: 0.0769
+  avg_copies: 1.0
+- name: card:smuggler-s-copter
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Boggart Trawler
   weight: 0.0769
   avg_copies: 1.0
 ---

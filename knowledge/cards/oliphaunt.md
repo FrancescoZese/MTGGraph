@@ -10,14 +10,14 @@ type: Creature — Elephant
 meta_presence: 0.0144
 archetypes:
   living-end:
-    weight: 0.0256
+    weight: 0.0253
     avg_copies: 2.0
   unknown-1:
     weight: 0.1333
     avg_copies: 1.5
   unknown-67:
-    weight: 0.9907
-    avg_copies: 2.39
+    weight: 0.9908
+    avg_copies: 2.4
   unknown-72:
     weight: 1.0
     avg_copies: 3.0

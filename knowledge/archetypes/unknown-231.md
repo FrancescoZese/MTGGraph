@@ -11,25 +11,19 @@ top_cards:
 - name: Leyline Binding
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
-  weight: 1.0
-  avg_copies: 4.0
-- name: Misty Rainforest
+- name: card:shape-anew
   weight: 1.0
   avg_copies: 4.0
 - name: Fable of the Mirror-Breaker
   weight: 1.0
   avg_copies: 4.0
-- name: Obsidian Charmaw
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mystical Dispute
-  weight: 1.0
-  avg_copies: 4.0
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: card:kellan-inquisitive-prodigy
+- name: Misty Rainforest
+  weight: 1.0
+  avg_copies: 4.0
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Force of Negation
@@ -38,40 +32,52 @@ top_cards:
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
-- name: card:shape-anew
+- name: card:kellan-inquisitive-prodigy
   weight: 1.0
   avg_copies: 4.0
-- name: Teferi, Time Raveler
+- name: Mystical Dispute
   weight: 1.0
-  avg_copies: 3.0
-- name: Supreme Verdict
+  avg_copies: 4.0
+- name: Obsidian Charmaw
+  weight: 1.0
+  avg_copies: 4.0
+- name: Endurance
   weight: 1.0
   avg_copies: 3.0
 - name: Wear
   weight: 1.0
   avg_copies: 3.0
+- name: Omnath, Locus of Creation
+  weight: 1.0
+  avg_copies: 3.0
 - name: Wooded Foothills
   weight: 1.0
   avg_copies: 3.0
-- name: Endurance
+- name: Supreme Verdict
   weight: 1.0
   avg_copies: 3.0
-- name: Omnath, Locus of Creation
+- name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 3.0
 - name: card:the-ten-rings
   weight: 1.0
   avg_copies: 2.0
+- name: Sacred Foundry
+  weight: 1.0
+  avg_copies: 1.0
+- name: Forest
+  weight: 1.0
+  avg_copies: 1.0
 - name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
+- name: Lush Portico
+  weight: 1.0
+  avg_copies: 1.0
+- name: Plains
+  weight: 1.0
+  avg_copies: 1.0
 - name: Island
-  weight: 1.0
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 1.0
-  avg_copies: 1.0
-- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
 - name: Mountain
@@ -83,16 +89,10 @@ top_cards:
 - name: Indatha Triome
   weight: 1.0
   avg_copies: 1.0
-- name: Plains
-  weight: 1.0
-  avg_copies: 1.0
-- name: Forest
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Lush Portico
   weight: 1.0
   avg_copies: 1.0
 ---

@@ -7,7 +7,7 @@ name: Pawpatch Formation
 scryfall_id: b82c20ad-0f69-4822-ae76-770832cccdf7
 set: blb
 type: Instant
-meta_presence: 0.0023
+meta_presence: 0.0024
 archetypes:
   yawgmoth-combo:
     weight: 0.0104
@@ -20,5 +20,5 @@ archetypes:
     avg_copies: 1.0
   unknown-8:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 1.75
 ---

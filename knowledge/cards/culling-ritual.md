@@ -8,46 +8,49 @@ name: Culling Ritual
 scryfall_id: abaad8c5-763d-4276-9b19-623cd19f59b9
 set: soc
 type: Sorcery
-meta_presence: 0.0398
+meta_presence: 0.0399
 archetypes:
   goryo:
-    weight: 0.0046
+    weight: 0.0045
     avg_copies: 1.0
   necrodominance:
     weight: 0.0217
     avg_copies: 2.0
   living-end:
-    weight: 0.6667
+    weight: 0.6709
     avg_copies: 1.94
   yawgmoth-combo:
     weight: 0.5417
     avg_copies: 1.02
   eldrazi-ramp:
-    weight: 0.0072
+    weight: 0.0071
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.798
-    avg_copies: 2.87
+    weight: 0.8
+    avg_copies: 2.88
   samwise-combo:
     weight: 0.0541
     avg_copies: 2.0
   broodscale-combo:
-    weight: 0.018
+    weight: 0.0179
     avg_copies: 1.83
   jund-saga:
     weight: 0.2
     avg_copies: 2.0
+  cosmogoyf-fling:
+    weight: 0.0164
+    avg_copies: 2.0
   goryo5:
-    weight: 0.925
+    weight: 0.9286
     avg_copies: 1.95
   soultrader-combo:
     weight: 0.4286
     avg_copies: 1.67
   sultai-midrange:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 1.0
   unknown-8:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 2.0
   unknown-14:
     weight: 1.0
@@ -62,7 +65,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.12
   unknown-47:
-    weight: 0.0056
+    weight: 0.0055
     avg_copies: 3.0
   unknown-52:
     weight: 1.0
@@ -71,16 +74,19 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-67:
-    weight: 0.0093
+    weight: 0.0092
+    avg_copies: 2.0
+  unknown-76:
+    weight: 0.125
     avg_copies: 2.0
   unknown-97:
-    weight: 0.65
-    avg_copies: 2.15
+    weight: 0.6818
+    avg_copies: 2.13
   unknown-115:
     weight: 0.6667
     avg_copies: 2.0
   unknown-126:
-    weight: 0.0318
+    weight: 0.0303
     avg_copies: 1.0
   unknown-137:
     weight: 1.0

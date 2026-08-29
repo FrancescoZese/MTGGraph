@@ -5,6 +5,12 @@ name: 'Unknown #98'
 meta_share: 0.001
 list_count: 8
 top_cards:
+- name: Shrapnel Blast
+  weight: 1.0
+  avg_copies: 4.0
+- name: Urza's Saga
+  weight: 1.0
+  avg_copies: 4.0
 - name: Experimental Synthesizer
   weight: 1.0
   avg_copies: 4.0
@@ -14,22 +20,16 @@ top_cards:
 - name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Saga
-  weight: 1.0
-  avg_copies: 4.0
-- name: Shrapnel Blast
-  weight: 1.0
-  avg_copies: 4.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 3.75
 - name: Mountain
   weight: 1.0
   avg_copies: 3.38
-- name: Ragavan, Nimble Pilferer
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 3.25
-- name: Mishra's Bauble
+- name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 3.25
 - name: Mox Opal
@@ -38,10 +38,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 1.0
   avg_copies: 1.75
-- name: Sokenzan, Crucible of Defiance
+- name: Shinka, the Bloodsoaked Keep
   weight: 1.0
   avg_copies: 1.0
-- name: Shinka, the Bloodsoaked Keep
+- name: Sokenzan, Crucible of Defiance
   weight: 1.0
   avg_copies: 1.0
 - name: Darksteel Citadel
@@ -59,13 +59,13 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.875
   avg_copies: 1.12
-- name: Grafdigger's Cage
-  weight: 0.875
-  avg_copies: 1.0
 - name: Skateboard
   weight: 0.875
   avg_copies: 1.0
 - name: Vexing Bauble
+  weight: 0.875
+  avg_copies: 1.0
+- name: Grafdigger's Cage
   weight: 0.875
   avg_copies: 1.0
 - name: Sundering Eruption
@@ -101,10 +101,10 @@ top_cards:
 - name: Legion Extruder
   weight: 0.25
   avg_copies: 4.0
-- name: Weapons Manufacturing
+- name: Dragon's Rage Channeler
   weight: 0.125
   avg_copies: 4.0
-- name: Dragon's Rage Channeler
+- name: Weapons Manufacturing
   weight: 0.125
   avg_copies: 4.0
 - name: Obsidian Charmaw
@@ -119,22 +119,22 @@ top_cards:
 - name: Blood Moon
   weight: 0.125
   avg_copies: 3.0
-- name: Sunbaked Canyon
+- name: Magebane Lizard
   weight: 0.125
   avg_copies: 2.0
-- name: Magebane Lizard
+- name: Sunbaked Canyon
   weight: 0.125
   avg_copies: 2.0
 - name: Arcbound Ravager
   weight: 0.125
   avg_copies: 2.0
-- name: card:castle-doom
+- name: Lavaspur Boots
   weight: 0.125
   avg_copies: 1.0
 - name: card:pyrite-spellbomb
   weight: 0.125
   avg_copies: 1.0
-- name: Lavaspur Boots
+- name: card:castle-doom
   weight: 0.125
   avg_copies: 1.0
 ---

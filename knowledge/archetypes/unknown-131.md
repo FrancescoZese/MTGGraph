@@ -7,25 +7,25 @@ name: 'Unknown #131'
 meta_share: 0.0013
 list_count: 10
 top_cards:
-- name: Flooded Strand
-  weight: 1.0
-  avg_copies: 4.0
-- name: Quantum Riddler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ocelot Pride
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Guide of Souls
-  weight: 1.0
-  avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
+- name: Quantum Riddler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
 - name: Marsh Flats
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
 - name: Phelia, Exuberant Shepherd
@@ -46,10 +46,10 @@ top_cards:
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.0
-- name: Plains
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.6
-- name: Hallowed Fountain
+- name: Plains
   weight: 1.0
   avg_copies: 1.6
 - name: Meticulous Archive
@@ -58,10 +58,10 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.3
-- name: Shadowy Backstreet
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
-- name: Watery Grave
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Starfield Shepherd
@@ -88,10 +88,10 @@ top_cards:
 - name: Mockingbird
   weight: 0.7
   avg_copies: 1.14
-- name: Nihil Spellbomb
+- name: Surgical Extraction
   weight: 0.6
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Nihil Spellbomb
   weight: 0.6
   avg_copies: 1.0
 - name: Burrenton Forge-Tender
@@ -115,18 +115,15 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.2
   avg_copies: 2.5
-- name: Ashiok, Dream Render
+- name: Containment Priest
   weight: 0.2
   avg_copies: 2.0
-- name: Containment Priest
+- name: Ashiok, Dream Render
   weight: 0.2
   avg_copies: 2.0
 - name: Orcish Bowmasters
   weight: 0.1
   avg_copies: 3.0
-- name: White Orchid Phantom
-  weight: 0.1
-  avg_copies: 2.0
 - name: Dalkovan Encampment
   weight: 0.1
   avg_copies: 2.0
@@ -136,19 +133,22 @@ top_cards:
 - name: Voice of Victory
   weight: 0.1
   avg_copies: 2.0
-- name: March of Otherworldly Light
+- name: White Orchid Phantom
   weight: 0.1
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Takenuma, Abandoned Mire
   weight: 0.1
   avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
+- name: March of Otherworldly Light
   weight: 0.1
   avg_copies: 1.0
 - name: Floodfarm Verge
   weight: 0.1
   avg_copies: 1.0
 - name: Ghost Vacuum
+  weight: 0.1
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
   weight: 0.1
   avg_copies: 1.0
 - name: Clarion Conqueror

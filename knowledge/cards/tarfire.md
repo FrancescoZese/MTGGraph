@@ -7,7 +7,7 @@ name: Tarfire
 scryfall_id: 5841e5dd-2a4a-42b9-a04f-d7c5c4840d74
 set: ddt
 type: Kindred Instant — Goblin
-meta_presence: 0.003
+meta_presence: 0.0031
 archetypes:
   hollow-one:
     weight: 0.1176
@@ -31,7 +31,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-101:
-    weight: 0.2581
+    weight: 0.2812
     avg_copies: 2.0
   unknown-174:
     weight: 0.3333

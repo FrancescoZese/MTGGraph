@@ -6,7 +6,7 @@ name: Meticulous Archive
 scryfall_id: 652236c2-84ef-45e4-b5fc-ed6170bc3d6c
 set: mkm
 type: Land — Plains Island
-meta_presence: 0.1795
+meta_presence: 0.1814
 archetypes:
   dimir-control:
     weight: 0.1358
@@ -15,40 +15,40 @@ archetypes:
     weight: 0.9926
     avg_copies: 1.0
   goryo:
-    weight: 0.9931
+    weight: 0.9933
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
     avg_copies: 2.0
   living-end:
-    weight: 0.1667
+    weight: 0.1646
     avg_copies: 1.0
   jeskai-control:
     weight: 1.0
-    avg_copies: 1.6
+    avg_copies: 1.63
   domain-zoo:
-    weight: 0.0066
+    weight: 0.0065
     avg_copies: 1.0
   mill:
-    weight: 0.027
+    weight: 0.0263
     avg_copies: 1.0
   reanimator:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0261
+    weight: 0.0252
     avg_copies: 1.0
   hammer-time:
-    weight: 0.9048
-    avg_copies: 1.26
+    weight: 0.9091
+    avg_copies: 1.25
   4c-omnath:
     weight: 0.25
     avg_copies: 1.0
   esper-blink:
-    weight: 1.0
+    weight: 0.9954
     avg_copies: 1.0
   orzhov-blink:
-    weight: 0.0526
+    weight: 0.05
     avg_copies: 1.0
   bant-control:
     weight: 1.0
@@ -75,7 +75,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   sultai-midrange:
-    weight: 0.75
+    weight: 0.8
     avg_copies: 1.0
   unknown-3:
     weight: 1.0
@@ -105,7 +105,7 @@ archetypes:
     weight: 0.5714
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0678
+    weight: 0.0659
     avg_copies: 1.0
   unknown-54:
     weight: 0.3333
@@ -123,10 +123,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.0093
+    weight: 0.0092
     avg_copies: 1.0
   unknown-70:
-    weight: 0.95
+    weight: 0.9524
     avg_copies: 1.0
   unknown-74:
     weight: 1.0
@@ -138,7 +138,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-88:
-    weight: 0.0526
+    weight: 0.05
     avg_copies: 1.0
   unknown-87:
     weight: 1.0

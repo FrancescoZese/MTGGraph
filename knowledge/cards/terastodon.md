@@ -7,12 +7,12 @@ name: Terastodon
 scryfall_id: 63195796-197e-47ec-85f0-d4ec0065f6e6
 set: c21
 type: Creature — Elephant
-meta_presence: 0.0006
+meta_presence: 0.0008
 archetypes:
   indomitable-creativity:
     weight: 0.25
     avg_copies: 2.25
   unknown-8:
-    weight: 0.5
+    weight: 0.6667
     avg_copies: 2.0
 ---

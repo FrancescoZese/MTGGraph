@@ -6,13 +6,13 @@ name: Bloodstained Mire
 scryfall_id: 579743fe-f71e-4cb2-8629-d6b02ed1591d
 set: mh3
 type: Land
-meta_presence: 0.1978
+meta_presence: 0.1976
 archetypes:
   ruby-storm:
-    weight: 0.9664
-    avg_copies: 2.44
+    weight: 0.9668
+    avg_copies: 2.45
   boros-energy:
-    weight: 0.0076
+    weight: 0.0075
     avg_copies: 2.5
   dimir-control:
     weight: 0.0864
@@ -21,7 +21,7 @@ archetypes:
     weight: 0.2609
     avg_copies: 1.92
   domain-zoo:
-    weight: 0.0132
+    weight: 0.013
     avg_copies: 4.0
   reanimator:
     weight: 0.8889
@@ -36,16 +36,16 @@ archetypes:
     weight: 1.0
     avg_copies: 3.56
   simic-ritual:
-    weight: 0.0101
+    weight: 0.01
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.9481
-    avg_copies: 2.91
+    weight: 0.9498
+    avg_copies: 2.92
   indomitable-creativity:
     weight: 1.0
     avg_copies: 2.75
   orzhov-blink:
-    weight: 0.0526
+    weight: 0.05
     avg_copies: 2.0
   dredge:
     weight: 0.9643
@@ -72,8 +72,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.72
   goryo5:
-    weight: 0.75
-    avg_copies: 2.8
+    weight: 0.7381
+    avg_copies: 2.81
   soultrader-combo:
     weight: 1.0
     avg_copies: 3.0
@@ -94,7 +94,7 @@ archetypes:
     avg_copies: 1.0
   unknown-8:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 3.33
   unknown-14:
     weight: 0.5
     avg_copies: 2.0
@@ -129,8 +129,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.12
   unknown-47:
-    weight: 0.2994
-    avg_copies: 1.77
+    weight: 0.3022
+    avg_copies: 1.76
   unknown-50:
     weight: 1.0
     avg_copies: 2.0
@@ -150,8 +150,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-68:
-    weight: 0.9512
-    avg_copies: 2.21
+    weight: 0.9524
+    avg_copies: 2.23
   unknown-69:
     weight: 0.9
     avg_copies: 1.33
@@ -172,7 +172,7 @@ archetypes:
     avg_copies: 1.5
   unknown-96:
     weight: 1.0
-    avg_copies: 3.23
+    avg_copies: 3.24
   unknown-91:
     weight: 1.0
     avg_copies: 2.0
@@ -184,7 +184,7 @@ archetypes:
     avg_copies: 4.0
   unknown-101:
     weight: 1.0
-    avg_copies: 3.32
+    avg_copies: 3.34
   unknown-105:
     weight: 1.0
     avg_copies: 1.0
@@ -201,8 +201,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-122:
-    weight: 0.9677
-    avg_copies: 2.0
+    weight: 0.9706
+    avg_copies: 1.97
   unknown-123:
     weight: 1.0
     avg_copies: 3.0
@@ -305,4 +305,10 @@ archetypes:
   unknown-272:
     weight: 1.0
     avg_copies: 4.0
+  unknown-275:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-277:
+    weight: 1.0
+    avg_copies: 2.5
 ---

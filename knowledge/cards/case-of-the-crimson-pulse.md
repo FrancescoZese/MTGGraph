@@ -7,9 +7,12 @@ name: Case of the Crimson Pulse
 scryfall_id: bb18b1de-bc08-4522-b891-6117a8271534
 set: mkm
 type: Enchantment — Case
-meta_presence: 0.0004
+meta_presence: 0.0005
 archetypes:
   unknown-9:
     weight: 1.0
+    avg_copies: 1.0
+  unknown-121:
+    weight: 0.3333
     avg_copies: 1.0
 ---

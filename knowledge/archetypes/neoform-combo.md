@@ -6,290 +6,290 @@ colors:
 - R
 - G
 name: Neoform Combo
-meta_share: 0.0149
-list_count: 115
+meta_share: 0.0151
+list_count: 119
 top_cards:
 - name: Eldritch Evolution
-  weight: 0.9913
+  weight: 0.9916
   avg_copies: 4.0
 - name: Allosaurus Rider
-  weight: 0.9913
+  weight: 0.9916
   avg_copies: 3.99
 - name: Neoform
-  weight: 0.9913
+  weight: 0.9916
   avg_copies: 3.93
 - name: Summoner's Pact
-  weight: 0.9913
-  avg_copies: 3.89
+  weight: 0.9916
+  avg_copies: 3.9
 - name: Misty Rainforest
-  weight: 0.9913
+  weight: 0.9916
   avg_copies: 3.87
 - name: Hedge Maze
-  weight: 0.9913
-  avg_copies: 2.79
+  weight: 0.9916
+  avg_copies: 2.77
 - name: Disciple of Freyalise
-  weight: 0.9913
-  avg_copies: 2.35
+  weight: 0.9916
+  avg_copies: 2.38
 - name: Ghalta, Stampede Tyrant
-  weight: 0.9913
-  avg_copies: 2.17
+  weight: 0.9916
+  avg_copies: 2.18
 - name: Breeding Pool
-  weight: 0.9913
+  weight: 0.9916
   avg_copies: 1.07
 - name: Griselbrand
-  weight: 0.9913
+  weight: 0.9916
   avg_copies: 1.02
 - name: Xenagos, God of Revels
-  weight: 0.9913
+  weight: 0.9916
   avg_copies: 1.0
 - name: Pact of Negation
-  weight: 0.9826
+  weight: 0.9832
   avg_copies: 2.8
 - name: Atraxa, Grand Unifier
-  weight: 0.9826
+  weight: 0.9832
   avg_copies: 1.04
 - name: Planar Genesis
-  weight: 0.9739
+  weight: 0.9748
   avg_copies: 4.0
 - name: Consign to Memory
-  weight: 0.9739
-  avg_copies: 3.72
+  weight: 0.9748
+  avg_copies: 3.71
 - name: Generous Ent
-  weight: 0.9739
+  weight: 0.9748
   avg_copies: 1.86
 - name: Hooting Mandrills
-  weight: 0.9739
-  avg_copies: 1.23
+  weight: 0.9748
+  avg_copies: 1.24
 - name: Mystical Dispute
-  weight: 0.9565
-  avg_copies: 3.53
+  weight: 0.958
+  avg_copies: 3.54
 - name: Bridgeworks Battle
-  weight: 0.9565
+  weight: 0.958
   avg_copies: 1.15
 - name: Nature's Claim
-  weight: 0.9304
+  weight: 0.9328
   avg_copies: 2.24
 - name: Veil of Summer
-  weight: 0.9304
-  avg_copies: 2.22
+  weight: 0.9328
+  avg_copies: 2.21
 - name: Boseiju, Who Endures
-  weight: 0.9304
+  weight: 0.9328
   avg_copies: 1.0
 - name: Elesh Norn, Grand Cenobite
-  weight: 0.9217
+  weight: 0.9244
   avg_copies: 1.0
 - name: Ureni, the Song Unending
-  weight: 0.9043
+  weight: 0.9076
   avg_copies: 1.0
 - name: Endurance
-  weight: 0.8783
-  avg_copies: 1.1
+  weight: 0.8824
+  avg_copies: 1.09
 - name: Into the Flood Maw
-  weight: 0.7913
+  weight: 0.7899
   avg_copies: 1.01
 - name: Scalding Tarn
-  weight: 0.7478
-  avg_copies: 1.28
+  weight: 0.7479
+  avg_copies: 1.29
 - name: Flooded Strand
-  weight: 0.7478
-  avg_copies: 1.13
+  weight: 0.7479
+  avg_copies: 1.12
 - name: Nourishing Shoal
-  weight: 0.6783
-  avg_copies: 1.33
+  weight: 0.6807
+  avg_copies: 1.32
 - name: Wooded Foothills
-  weight: 0.5913
+  weight: 0.5882
   avg_copies: 1.01
 - name: Snow-Covered Forest
-  weight: 0.5652
+  weight: 0.563
   avg_copies: 1.19
 - name: Snow-Covered Island
-  weight: 0.5652
+  weight: 0.563
   avg_copies: 1.03
 - name: Polluted Delta
-  weight: 0.5217
-  avg_copies: 1.18
+  weight: 0.5294
+  avg_copies: 1.17
 - name: Abhorrent Oculus
-  weight: 0.513
+  weight: 0.5126
   avg_copies: 1.0
 - name: Forest
-  weight: 0.4261
+  weight: 0.4286
   avg_copies: 1.49
 - name: Island
-  weight: 0.4087
+  weight: 0.4118
   avg_copies: 1.02
 - name: Natural State
-  weight: 0.3217
-  avg_copies: 1.81
+  weight: 0.3361
+  avg_copies: 1.8
 - name: Wistfulness
-  weight: 0.3217
+  weight: 0.3109
   avg_copies: 1.27
 - name: Windswept Heath
-  weight: 0.2783
-  avg_copies: 1.22
-- name: Ice-Fang Coatl
-  weight: 0.2609
-  avg_copies: 3.73
+  weight: 0.2857
+  avg_copies: 1.21
 - name: Thundertrap Trainer
-  weight: 0.2522
-  avg_copies: 2.14
+  weight: 0.2605
+  avg_copies: 2.13
+- name: Ice-Fang Coatl
+  weight: 0.2521
+  avg_copies: 3.73
 - name: Repudiate
-  weight: 0.2261
+  weight: 0.2185
   avg_copies: 1.08
 - name: Preordain
-  weight: 0.1478
+  weight: 0.1429
   avg_copies: 1.24
 - name: Verdant Catacombs
-  weight: 0.113
+  weight: 0.1092
   avg_copies: 1.46
 - name: Dismember
-  weight: 0.1043
+  weight: 0.1092
   avg_copies: 1.0
 - name: Spell Snare
-  weight: 0.0783
+  weight: 0.0756
   avg_copies: 1.56
 - name: Quandrix Charm
-  weight: 0.0522
+  weight: 0.0504
   avg_copies: 1.57
 - name: Force of Vigor
-  weight: 0.0435
+  weight: 0.042
   avg_copies: 1.0
 - name: Otawara, Soaring City
-  weight: 0.0435
+  weight: 0.042
   avg_copies: 1.0
 - name: Thrun, the Last Troll
-  weight: 0.0261
+  weight: 0.0252
   avg_copies: 2.33
 - name: Eladamri's Call
-  weight: 0.0261
+  weight: 0.0252
   avg_copies: 2.2
 - name: Meticulous Archive
-  weight: 0.0261
+  weight: 0.0252
   avg_copies: 1.0
-- name: Gemstone Mine
-  weight: 0.0174
+- name: Invasion of Gobakhan
+  weight: 0.0168
   avg_copies: 4.0
 - name: Glittering Wish
-  weight: 0.0174
+  weight: 0.0168
   avg_copies: 4.0
-- name: Invasion of Gobakhan
-  weight: 0.0174
+- name: Gemstone Mine
+  weight: 0.0168
   avg_copies: 4.0
 - name: Rakshasa's Bargain
-  weight: 0.0174
+  weight: 0.0168
   avg_copies: 3.0
 - name: Abrupt Decay
-  weight: 0.0174
+  weight: 0.0168
   avg_copies: 3.0
-- name: Firespout
-  weight: 0.0174
-  avg_copies: 1.0
-- name: Underground Mortuary
-  weight: 0.0174
-  avg_copies: 1.0
-- name: Raph & Mikey, Troublemakers
-  weight: 0.0174
-  avg_copies: 1.0
-- name: Wan Shi Tong, Librarian
-  weight: 0.0174
-  avg_copies: 1.0
-- name: Mistrise Village
-  weight: 0.0174
-  avg_copies: 1.0
-- name: Borborygmos Enraged
-  weight: 0.0174
+- name: Lush Portico
+  weight: 0.0168
   avg_copies: 1.0
 - name: Stump Stomp
-  weight: 0.0174
+  weight: 0.0168
   avg_copies: 1.0
-- name: Detention Sphere
-  weight: 0.0174
+- name: Borborygmos Enraged
+  weight: 0.0168
   avg_copies: 1.0
 - name: Stormkeld Vanguard
-  weight: 0.0174
+  weight: 0.0168
   avg_copies: 1.0
-- name: Lush Portico
-  weight: 0.0174
+- name: Firespout
+  weight: 0.0168
   avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.0174
+- name: Mistrise Village
+  weight: 0.0168
   avg_copies: 1.0
-- name: Nature's Chant
-  weight: 0.0174
+- name: Underground Mortuary
+  weight: 0.0168
+  avg_copies: 1.0
+- name: Wan Shi Tong, Librarian
+  weight: 0.0168
   avg_copies: 1.0
 - name: Undercity Sewers
-  weight: 0.0174
+  weight: 0.0168
   avg_copies: 1.0
-- name: Geometer's Arthropod
-  weight: 0.0087
-  avg_copies: 4.0
+- name: Nature's Chant
+  weight: 0.0168
+  avg_copies: 1.0
+- name: Raph & Mikey, Troublemakers
+  weight: 0.0168
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.0168
+  avg_copies: 1.0
+- name: Detention Sphere
+  weight: 0.0168
+  avg_copies: 1.0
 - name: Detect Intrusion
-  weight: 0.0087
+  weight: 0.0084
+  avg_copies: 4.0
+- name: Geometer's Arthropod
+  weight: 0.0084
   avg_copies: 4.0
 - name: Summoning Trap
-  weight: 0.0087
-  avg_copies: 4.0
-- name: Voice of Victory
-  weight: 0.0087
+  weight: 0.0084
   avg_copies: 4.0
 - name: Hexing Squelcher
-  weight: 0.0087
+  weight: 0.0084
+  avg_copies: 4.0
+- name: Voice of Victory
+  weight: 0.0084
   avg_copies: 4.0
 - name: Birthing Ritual
-  weight: 0.0087
+  weight: 0.0084
   avg_copies: 3.0
 - name: Frenzied Baloth
-  weight: 0.0087
+  weight: 0.0084
   avg_copies: 2.0
 - name: Quantum Riddler
-  weight: 0.0087
+  weight: 0.0084
   avg_copies: 2.0
-- name: Commercial District
-  weight: 0.0087
-  avg_copies: 1.0
-- name: Leatherhead, Swamp Stalker
-  weight: 0.0087
-  avg_copies: 1.0
-- name: card:webstrike-elite
-  weight: 0.0087
-  avg_copies: 1.0
-- name: Murktide Regent
-  weight: 0.0087
-  avg_copies: 1.0
-- name: Waterlogged Grove
-  weight: 0.0087
-  avg_copies: 1.0
-- name: card:daring-waverider
-  weight: 0.0087
-  avg_copies: 1.0
-- name: Serra's Emissary
-  weight: 0.0087
-  avg_copies: 1.0
-- name: Temple Garden
-  weight: 0.0087
+- name: Hallowed Fountain
+  weight: 0.0084
   avg_copies: 1.0
 - name: Subtlety
-  weight: 0.0087
+  weight: 0.0084
   avg_copies: 1.0
-- name: Crucible of Worlds
-  weight: 0.0087
-  avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 0.0087
+- name: Serra's Emissary
+  weight: 0.0084
   avg_copies: 1.0
 - name: card:fungal-colossus
-  weight: 0.0087
+  weight: 0.0084
   avg_copies: 1.0
-- name: Echoing Truth
-  weight: 0.0087
+- name: Waterlogged Grove
+  weight: 0.0084
   avg_copies: 1.0
-- name: Brainsurge
-  weight: 0.0087
+- name: Murktide Regent
+  weight: 0.0084
+  avg_copies: 1.0
+- name: Commercial District
+  weight: 0.0084
+  avg_copies: 1.0
+- name: Temple Garden
+  weight: 0.0084
+  avg_copies: 1.0
+- name: card:daring-waverider
+  weight: 0.0084
+  avg_copies: 1.0
+- name: Crucible of Worlds
+  weight: 0.0084
   avg_copies: 1.0
 - name: Strix Serenade
-  weight: 0.0087
+  weight: 0.0084
   avg_copies: 1.0
 - name: card:teferi-mage-of-zhalfir
-  weight: 0.0087
+  weight: 0.0084
+  avg_copies: 1.0
+- name: Echoing Truth
+  weight: 0.0084
+  avg_copies: 1.0
+- name: Leatherhead, Swamp Stalker
+  weight: 0.0084
+  avg_copies: 1.0
+- name: Brainsurge
+  weight: 0.0084
+  avg_copies: 1.0
+- name: card:webstrike-elite
+  weight: 0.0084
   avg_copies: 1.0
 ---
 Combo deck using Neoform and Eldritch Evolution to sacrifice Allosaurus Rider into a game-ending threat.

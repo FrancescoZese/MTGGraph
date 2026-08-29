@@ -2,7 +2,7 @@
 colors:
 - U
 name: 'Unknown #42'
-meta_share: 0.0016
+meta_share: 0.0015
 list_count: 12
 top_cards:
 - name: Island
@@ -92,15 +92,18 @@ top_cards:
 - name: Glasspool Mimic
   weight: 0.1667
   avg_copies: 1.5
-- name: Unable to Scream
+- name: Mockingbird
   weight: 0.0833
   avg_copies: 4.0
-- name: Mockingbird
+- name: Unable to Scream
   weight: 0.0833
   avg_copies: 4.0
 - name: Mistcaller
   weight: 0.0833
   avg_copies: 3.0
+- name: Hurkyl's Recall
+  weight: 0.0833
+  avg_copies: 2.0
 - name: Spell Pierce
   weight: 0.0833
   avg_copies: 2.0
@@ -110,13 +113,10 @@ top_cards:
 - name: Spell Snare
   weight: 0.0833
   avg_copies: 2.0
-- name: Hurkyl's Recall
-  weight: 0.0833
-  avg_copies: 2.0
-- name: Agna Qel'a
+- name: Gloomlake Verge
   weight: 0.0833
   avg_copies: 1.0
-- name: Gloomlake Verge
+- name: Agna Qel'a
   weight: 0.0833
   avg_copies: 1.0
 - name: Oboro, Palace in the Clouds

@@ -3,7 +3,7 @@ colors:
 - W
 - R
 name: Burn
-meta_share: 0.0053
+meta_share: 0.0052
 list_count: 41
 top_cards:
 - name: Boltwave
@@ -150,10 +150,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.0488
   avg_copies: 3.5
-- name: Magebane Lizard
+- name: Snow-Covered Mountain
   weight: 0.0488
   avg_copies: 2.5
-- name: Snow-Covered Mountain
+- name: Magebane Lizard
   weight: 0.0488
   avg_copies: 2.5
 - name: Kor Firewalker
@@ -174,34 +174,31 @@ top_cards:
 - name: Containment Priest
   weight: 0.0244
   avg_copies: 3.0
+- name: Blood Crypt
+  weight: 0.0244
+  avg_copies: 2.0
+- name: Mindbreak Trap
+  weight: 0.0244
+  avg_copies: 2.0
 - name: card:harsh-mentor
   weight: 0.0244
   avg_copies: 2.0
 - name: Lithomantic Barrage
   weight: 0.0244
   avg_copies: 2.0
-- name: Mindbreak Trap
-  weight: 0.0244
-  avg_copies: 2.0
-- name: Relic of Progenitus
-  weight: 0.0244
-  avg_copies: 2.0
 - name: Mana Tithe
-  weight: 0.0244
-  avg_copies: 2.0
-- name: Nihil Spellbomb
   weight: 0.0244
   avg_copies: 2.0
 - name: Tunnel Ignus
   weight: 0.0244
   avg_copies: 2.0
-- name: Blood Crypt
+- name: Relic of Progenitus
   weight: 0.0244
   avg_copies: 2.0
-- name: Deafening Silence
+- name: Nihil Spellbomb
   weight: 0.0244
-  avg_copies: 1.0
-- name: Grafdigger's Cage
+  avg_copies: 2.0
+- name: Erode
   weight: 0.0244
   avg_copies: 1.0
 - name: Rain of Gore
@@ -210,10 +207,10 @@ top_cards:
 - name: Rakdos Charm
   weight: 0.0244
   avg_copies: 1.0
-- name: Blood Moon
+- name: Deafening Silence
   weight: 0.0244
   avg_copies: 1.0
-- name: Erode
+- name: Grafdigger's Cage
   weight: 0.0244
   avg_copies: 1.0
 - name: card:volcanic-fallout
@@ -223,6 +220,9 @@ top_cards:
   weight: 0.0244
   avg_copies: 1.0
 - name: Void Mirror
+  weight: 0.0244
+  avg_copies: 1.0
+- name: Blood Moon
   weight: 0.0244
   avg_copies: 1.0
 ---

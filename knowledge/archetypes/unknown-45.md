@@ -3,13 +3,13 @@ colors:
 - U
 - B
 name: 'Unknown #45'
-meta_share: 0.0042
+meta_share: 0.0041
 list_count: 32
 top_cards:
-- name: Archon of Cruelty
+- name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
-- name: Stitcher's Supplier
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
 - name: Eyetwitch
@@ -39,10 +39,10 @@ top_cards:
 - name: Boggart Trawler
   weight: 1.0
   avg_copies: 2.06
-- name: Ruinous Waterbending
+- name: Decorum Dissertation
   weight: 1.0
   avg_copies: 1.0
-- name: Decorum Dissertation
+- name: Ruinous Waterbending
   weight: 1.0
   avg_copies: 1.0
 - name: Overgrown Tomb
@@ -150,19 +150,16 @@ top_cards:
 - name: Revitalizing Repast
   weight: 0.0938
   avg_copies: 1.0
+- name: Blood Crypt
+  weight: 0.0625
+  avg_copies: 1.5
 - name: Mai, Scornful Striker
   weight: 0.0625
   avg_copies: 1.5
 - name: Ashiok, Dream Render
   weight: 0.0625
   avg_copies: 1.5
-- name: Blood Crypt
-  weight: 0.0625
-  avg_copies: 1.5
-- name: Cling to Dust
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Plague Engineer
+- name: Forest
   weight: 0.0625
   avg_copies: 1.0
 - name: card:victimize
@@ -174,7 +171,10 @@ top_cards:
 - name: Damping Sphere
   weight: 0.0625
   avg_copies: 1.0
-- name: Forest
+- name: Cling to Dust
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Plague Engineer
   weight: 0.0625
   avg_copies: 1.0
 - name: Harvester of Misery
@@ -183,19 +183,28 @@ top_cards:
 - name: Unmarked Grave
   weight: 0.0312
   avg_copies: 2.0
-- name: Nihil Spellbomb
-  weight: 0.0312
-  avg_copies: 2.0
 - name: Price of Freedom
   weight: 0.0312
   avg_copies: 2.0
+- name: Nihil Spellbomb
+  weight: 0.0312
+  avg_copies: 2.0
+- name: Liliana, the Last Hope
+  weight: 0.0312
+  avg_copies: 1.0
 - name: Chthonian Nightmare
   weight: 0.0312
   avg_copies: 1.0
-- name: card:grave-titan
+- name: Iroh's Demonstration
   weight: 0.0312
   avg_copies: 1.0
-- name: Tormod's Crypt
+- name: card:the-terminus-of-return
+  weight: 0.0312
+  avg_copies: 1.0
+- name: Improvisation Capstone
+  weight: 0.0312
+  avg_copies: 1.0
+- name: card:woe-strider
   weight: 0.0312
   avg_copies: 1.0
 - name: Surgical Extraction
@@ -204,31 +213,22 @@ top_cards:
 - name: Vampire Hexmage
   weight: 0.0312
   avg_copies: 1.0
-- name: Raucous Theater
-  weight: 0.0312
-  avg_copies: 1.0
-- name: card:the-terminus-of-return
-  weight: 0.0312
-  avg_copies: 1.0
-- name: Feed the Swarm
-  weight: 0.0312
-  avg_copies: 1.0
-- name: Liliana, the Last Hope
-  weight: 0.0312
-  avg_copies: 1.0
 - name: Accursed Marauder
-  weight: 0.0312
-  avg_copies: 1.0
-- name: Iroh's Demonstration
-  weight: 0.0312
-  avg_copies: 1.0
-- name: card:woe-strider
   weight: 0.0312
   avg_copies: 1.0
 - name: Agadeem's Awakening
   weight: 0.0312
   avg_copies: 1.0
-- name: Improvisation Capstone
+- name: card:grave-titan
+  weight: 0.0312
+  avg_copies: 1.0
+- name: Feed the Swarm
+  weight: 0.0312
+  avg_copies: 1.0
+- name: Raucous Theater
+  weight: 0.0312
+  avg_copies: 1.0
+- name: Tormod's Crypt
   weight: 0.0312
   avg_copies: 1.0
 ---

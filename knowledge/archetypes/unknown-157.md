@@ -10,31 +10,31 @@ top_cards:
 - name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Tarmogoyf
-  weight: 1.0
-  avg_copies: 4.0
-- name: Static Prison
-  weight: 1.0
-  avg_copies: 4.0
 - name: Wrenn and Six
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Saga
+- name: Tarmogoyf
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
-- name: Ajani, Nacatl Pariah
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
-- name: Gaddock Teeg
+- name: Ajani, Nacatl Pariah
+  weight: 1.0
+  avg_copies: 4.0
+- name: Static Prison
+  weight: 1.0
+  avg_copies: 4.0
+- name: High Noon
   weight: 1.0
   avg_copies: 3.0
-- name: Galvanic Discharge
+- name: Gaddock Teeg
   weight: 1.0
   avg_copies: 3.0
 - name: Ragavan, Nimble Pilferer
@@ -43,13 +43,13 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 1.0
   avg_copies: 3.0
-- name: High Noon
+- name: Galvanic Discharge
   weight: 1.0
   avg_copies: 3.0
-- name: Boseiju, Who Endures
+- name: Windswept Heath
   weight: 1.0
   avg_copies: 2.0
-- name: Windswept Heath
+- name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 2.0
 - name: Goblin Bombardment
@@ -61,37 +61,28 @@ top_cards:
 - name: Wooded Foothills
   weight: 1.0
   avg_copies: 2.0
+- name: Forest
+  weight: 1.0
+  avg_copies: 1.0
 - name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
-- name: Skateboard
+- name: Lush Portico
   weight: 1.0
   avg_copies: 1.0
-- name: Sunbaked Canyon
-  weight: 1.0
-  avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 1.0
-  avg_copies: 1.0
-- name: Elegant Parlor
-  weight: 1.0
-  avg_copies: 1.0
-- name: Mountain
-  weight: 1.0
-  avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Shadowspear
   weight: 1.0
   avg_copies: 1.0
 - name: Plains
   weight: 1.0
   avg_copies: 1.0
-- name: Forest
+- name: Sunbaked Canyon
   weight: 1.0
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Skateboard
   weight: 1.0
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Stomping Ground
@@ -100,16 +91,25 @@ top_cards:
 - name: Engineered Explosives
   weight: 1.0
   avg_copies: 1.0
-- name: Lush Portico
+- name: Mountain
+  weight: 1.0
+  avg_copies: 1.0
+- name: Haywire Mite
+  weight: 1.0
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 1.0
+  avg_copies: 1.0
+- name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowspear
+- name: Grafdigger's Cage
   weight: 1.0
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
 ---

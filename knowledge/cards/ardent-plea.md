@@ -11,7 +11,7 @@ type: Enchantment
 meta_presence: 0.0019
 archetypes:
   living-end:
-    weight: 0.1795
+    weight: 0.1772
     avg_copies: 4.0
   unknown-84:
     weight: 0.3333

@@ -6,25 +6,25 @@ name: Relic of Progenitus
 scryfall_id: 436cd66c-0622-43cd-8748-af4d21a2db3f
 set: ema
 type: Artifact
-meta_presence: 0.0275
+meta_presence: 0.0278
 archetypes:
   dimir-control:
     weight: 0.0123
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.15
-    avg_copies: 1.08
+    weight: 0.1516
+    avg_copies: 1.07
   amulet-titan:
-    weight: 0.0674
+    weight: 0.0667
     avg_copies: 1.75
   goryo:
-    weight: 0.0046
+    weight: 0.0045
     avg_copies: 1.0
   azorius-control:
     weight: 0.0093
     avg_copies: 4.0
   affinity:
-    weight: 0.023
+    weight: 0.0228
     avg_copies: 1.0
   burn:
     weight: 0.0244
@@ -33,19 +33,19 @@ archetypes:
     weight: 0.1538
     avg_copies: 2.0
   mono-red-belcher:
-    weight: 0.0769
+    weight: 0.0714
     avg_copies: 4.0
   boros-ponza:
     weight: 0.0426
     avg_copies: 2.33
   eldrazi-ramp:
-    weight: 0.0072
+    weight: 0.0071
     avg_copies: 2.0
   esper-blink:
-    weight: 0.0098
+    weight: 0.0093
     avg_copies: 2.25
   orzhov-blink:
-    weight: 0.4737
+    weight: 0.45
     avg_copies: 2.9
   bant-control:
     weight: 1.0
@@ -60,8 +60,8 @@ archetypes:
     weight: 0.5
     avg_copies: 3.5
   goryo2:
-    weight: 0.8269
-    avg_copies: 3.66
+    weight: 0.8302
+    avg_copies: 3.67
   unknown-12:
     weight: 1.0
     avg_copies: 1.0
@@ -75,10 +75,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-61:
-    weight: 0.0078
+    weight: 0.0077
     avg_copies: 1.0
+  unknown-74:
+    weight: 0.5
+    avg_copies: 2.0
   unknown-76:
-    weight: 0.1429
+    weight: 0.125
     avg_copies: 1.0
   unknown-78:
     weight: 1.0
@@ -90,7 +93,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-96:
-    weight: 0.0141
+    weight: 0.0139
     avg_copies: 2.0
   unknown-108:
     weight: 1.0
@@ -117,7 +120,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-160:
-    weight: 0.1089
+    weight: 0.1038
     avg_copies: 1.71
   unknown-162:
     weight: 1.0
@@ -142,5 +145,11 @@ archetypes:
     avg_copies: 1.0
   unknown-258:
     weight: 1.0
+    avg_copies: 2.0
+  unknown-265:
+    weight: 0.3333
+    avg_copies: 1.0
+  unknown-278:
+    weight: 0.5
     avg_copies: 2.0
 ---

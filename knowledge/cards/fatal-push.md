@@ -7,23 +7,23 @@ name: Fatal Push
 scryfall_id: 6e9d8fe4-fd9b-4923-92bf-7dd6b8fa02e7
 set: 2xm
 type: Instant
-meta_presence: 0.2046
+meta_presence: 0.2054
 archetypes:
   dimir-control:
     weight: 1.0
     avg_copies: 3.8
   goryo:
-    weight: 0.1852
-    avg_copies: 1.27
+    weight: 0.183
+    avg_copies: 1.26
   necrodominance:
     weight: 0.8696
     avg_copies: 3.98
   domain-zoo:
-    weight: 0.1192
+    weight: 0.1169
     avg_copies: 2.11
   mill:
-    weight: 0.973
-    avg_copies: 3.53
+    weight: 0.9737
+    avg_copies: 3.54
   reanimator:
     weight: 0.9259
     avg_copies: 3.76
@@ -37,14 +37,14 @@ archetypes:
     weight: 1.0
     avg_copies: 2.74
   simic-ritual:
-    weight: 0.0404
+    weight: 0.04
     avg_copies: 2.75
   izzet-prowess:
-    weight: 0.0047
+    weight: 0.0046
     avg_copies: 1.5
   esper-blink:
-    weight: 0.9706
-    avg_copies: 3.59
+    weight: 0.9722
+    avg_copies: 3.61
   samwise-combo:
     weight: 0.5811
     avg_copies: 1.83
@@ -52,11 +52,11 @@ archetypes:
     weight: 0.1875
     avg_copies: 3.33
   broodscale-combo:
-    weight: 0.021
+    weight: 0.0208
     avg_copies: 1.92
   orzhov-blink:
-    weight: 0.8947
-    avg_copies: 3.16
+    weight: 0.9
+    avg_copies: 3.2
   esper-control:
     weight: 1.0
     avg_copies: 3.0
@@ -73,7 +73,7 @@ archetypes:
     weight: 0.2632
     avg_copies: 1.67
   cosmogoyf-fling:
-    weight: 0.1167
+    weight: 0.1148
     avg_copies: 3.14
   esper-midrange:
     weight: 1.0
@@ -83,13 +83,13 @@ archetypes:
     avg_copies: 3.0
   goryo1:
     weight: 1.0
-    avg_copies: 3.97
+    avg_copies: 3.96
   goryo5:
     weight: 1.0
     avg_copies: 3.98
   goryo2:
-    weight: 0.2308
-    avg_copies: 1.59
+    weight: 0.2453
+    avg_copies: 1.56
   soultrader-combo:
     weight: 1.0
     avg_copies: 2.57
@@ -103,8 +103,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-5:
-    weight: 0.25
-    avg_copies: 1.5
+    weight: 0.2308
+    avg_copies: 1.6
   unknown-1:
     weight: 1.0
     avg_copies: 2.0
@@ -113,7 +113,7 @@ archetypes:
     avg_copies: 3.0
   unknown-8:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.67
   unknown-14:
     weight: 0.5
     avg_copies: 4.0
@@ -155,7 +155,7 @@ archetypes:
     avg_copies: 4.0
   unknown-47:
     weight: 1.0
-    avg_copies: 3.91
+    avg_copies: 3.9
   unknown-51:
     weight: 1.0
     avg_copies: 4.0
@@ -172,7 +172,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-68:
-    weight: 0.8537
+    weight: 0.8571
     avg_copies: 1.97
   unknown-69:
     weight: 1.0
@@ -181,7 +181,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-74:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 2.0
   unknown-85:
     weight: 0.0588
@@ -205,14 +205,14 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-97:
-    weight: 0.85
-    avg_copies: 2.2
+    weight: 0.8636
+    avg_copies: 2.26
   unknown-100:
     weight: 0.2
     avg_copies: 2.0
   unknown-101:
-    weight: 0.8387
-    avg_copies: 2.1
+    weight: 0.8438
+    avg_copies: 2.06
   unknown-105:
     weight: 1.0
     avg_copies: 4.0
@@ -241,8 +241,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-126:
-    weight: 0.6815
-    avg_copies: 2.28
+    weight: 0.6727
+    avg_copies: 2.26
   unknown-127:
     weight: 1.0
     avg_copies: 2.17
@@ -346,6 +346,12 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-269:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-275:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-277:
     weight: 1.0
     avg_copies: 4.0
 ---

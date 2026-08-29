@@ -6,11 +6,11 @@ name: Steam Vents
 scryfall_id: b66daa94-d367-4812-9f18-f35378c1febb
 set: ecl
 type: Land — Island Mountain
-meta_presence: 0.291
+meta_presence: 0.2905
 archetypes:
   ruby-storm:
-    weight: 0.1567
-    avg_copies: 1.1
+    weight: 0.1587
+    avg_copies: 1.09
   boros-energy:
     weight: 0.0025
     avg_copies: 1.0
@@ -24,25 +24,25 @@ archetypes:
     weight: 0.4074
     avg_copies: 1.02
   living-end:
-    weight: 0.0256
+    weight: 0.0253
     avg_copies: 1.5
   jeskai-control:
     weight: 1.0
-    avg_copies: 1.11
+    avg_copies: 1.1
   affinity:
-    weight: 0.9717
+    weight: 0.9702
     avg_copies: 1.3
   domain-zoo:
     weight: 1.0
     avg_copies: 1.74
   mill:
-    weight: 0.027
+    weight: 0.0263
     avg_copies: 1.0
   reanimator:
     weight: 0.7778
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0505
+    weight: 0.05
     avg_copies: 1.0
   izzet-prowess:
     weight: 1.0
@@ -123,11 +123,11 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0169
+    weight: 0.0165
     avg_copies: 1.0
   unknown-49:
-    weight: 0.9167
-    avg_copies: 1.09
+    weight: 0.9231
+    avg_copies: 1.17
   unknown-53:
     weight: 1.0
     avg_copies: 3.5
@@ -154,7 +154,7 @@ archetypes:
     avg_copies: 4.0
   unknown-79:
     weight: 1.0
-    avg_copies: 1.17
+    avg_copies: 1.14
   unknown-82:
     weight: 1.0
     avg_copies: 2.33
@@ -211,7 +211,7 @@ archetypes:
     avg_copies: 1.0
   unknown-122:
     weight: 1.0
-    avg_copies: 2.94
+    avg_copies: 3.03
   unknown-124:
     weight: 1.0
     avg_copies: 3.0
@@ -246,7 +246,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.25
   unknown-160:
-    weight: 0.0099
+    weight: 0.0094
     avg_copies: 1.0
   unknown-166:
     weight: 1.0
@@ -276,7 +276,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-192:
-    weight: 0.5
+    weight: 0.6667
     avg_copies: 1.0
   unknown-205:
     weight: 1.0
@@ -323,6 +323,9 @@ archetypes:
   unknown-266:
     weight: 1.0
     avg_copies: 2.0
+  unknown-276:
+    weight: 1.0
+    avg_copies: 1.0
   unknown-273:
     weight: 1.0
     avg_copies: 1.0

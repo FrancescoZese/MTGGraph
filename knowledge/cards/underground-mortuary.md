@@ -9,34 +9,34 @@ type: Land — Swamp Forest
 meta_presence: 0.0734
 archetypes:
   goryo:
-    weight: 0.0162
+    weight: 0.0156
     avg_copies: 1.29
   necrodominance:
     weight: 0.087
     avg_copies: 1.0
   living-end:
-    weight: 0.8077
+    weight: 0.8101
     avg_copies: 1.22
   reanimator:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.0174
+    weight: 0.0168
     avg_copies: 1.0
   yawgmoth-combo:
     weight: 1.0
     avg_copies: 1.29
   eldrazi-ramp:
-    weight: 0.0144
+    weight: 0.0143
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0606
+    weight: 0.06
     avg_copies: 1.0
   samwise-combo:
     weight: 0.8919
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.018
+    weight: 0.0179
     avg_copies: 1.0
   jund-saga:
     weight: 0.8
@@ -84,13 +84,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.0093
+    weight: 0.0092
     avg_copies: 1.0
   unknown-69:
     weight: 0.5
     avg_copies: 1.0
   unknown-97:
-    weight: 0.95
+    weight: 0.9545
     avg_copies: 1.05
   unknown-102:
     weight: 1.0
@@ -99,7 +99,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.0
   unknown-126:
-    weight: 0.949
+    weight: 0.9455
     avg_copies: 1.02
   unknown-130:
     weight: 1.0

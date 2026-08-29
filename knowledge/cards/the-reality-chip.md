@@ -10,7 +10,7 @@ type: Legendary Artifact Creature — Equipment Jellyfish
 meta_presence: 0.0003
 archetypes:
   hammer-time:
-    weight: 0.0476
+    weight: 0.0455
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.0312

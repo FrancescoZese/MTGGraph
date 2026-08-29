@@ -7,16 +7,16 @@ name: Shatterstorm
 scryfall_id: f7a1aa93-26d1-40b0-82d8-414f56a36337
 set: 10e
 type: Sorcery
-meta_presence: 0.0097
+meta_presence: 0.0095
 archetypes:
   boros-energy:
-    weight: 0.0682
+    weight: 0.0674
     avg_copies: 1.04
   mono-red-belcher:
-    weight: 0.2308
+    weight: 0.2143
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0024
+    weight: 0.0023
     avg_copies: 1.0
   4c-omnath:
     weight: 0.25
@@ -25,13 +25,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo0:
-    weight: 0.5
+    weight: 0.4783
     avg_copies: 1.91
   unknown-32:
     weight: 1.0
     avg_copies: 2.0
   unknown-79:
-    weight: 0.1667
+    weight: 0.1429
     avg_copies: 1.0
   unknown-152:
     weight: 0.3333

@@ -6,19 +6,19 @@ name: Plains
 scryfall_id: d85d0f25-a24a-4de0-9b8b-93fb5017bce9
 set: sos
 type: Basic Land — Plains
-meta_presence: 0.3474
+meta_presence: 0.3486
 archetypes:
   boros-energy:
-    weight: 0.9823
+    weight: 0.9825
     avg_copies: 1.98
   jeskai-energy:
     weight: 0.8667
     avg_copies: 1.63
   eldrazi-tron:
-    weight: 0.0088
+    weight: 0.0087
     avg_copies: 2.0
   goryo:
-    weight: 0.9954
+    weight: 0.9955
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
@@ -30,7 +30,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   mill:
-    weight: 0.027
+    weight: 0.0263
     avg_copies: 1.0
   reanimator:
     weight: 0.037
@@ -40,7 +40,7 @@ archetypes:
     avg_copies: 1.22
   hammer-time:
     weight: 1.0
-    avg_copies: 2.62
+    avg_copies: 2.68
   boros-ponza:
     weight: 0.9858
     avg_copies: 3.42
@@ -48,14 +48,14 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   esper-blink:
-    weight: 0.9902
+    weight: 0.9907
     avg_copies: 1.59
   indomitable-creativity:
     weight: 0.5625
     avg_copies: 1.0
   orzhov-blink:
     weight: 1.0
-    avg_copies: 1.89
+    avg_copies: 1.85
   bant-control:
     weight: 1.0
     avg_copies: 2.0
@@ -82,7 +82,7 @@ archetypes:
     avg_copies: 8.0
   goryo2:
     weight: 1.0
-    avg_copies: 1.12
+    avg_copies: 1.11
   goryo3:
     weight: 1.0
     avg_copies: 2.0
@@ -93,7 +93,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-5:
-    weight: 1.0
+    weight: 0.9231
     avg_copies: 1.0
   unknown-7:
     weight: 1.0
@@ -139,10 +139,10 @@ archetypes:
     avg_copies: 2.0
   unknown-68:
     weight: 1.0
-    avg_copies: 1.56
+    avg_copies: 1.55
   unknown-70:
     weight: 1.0
-    avg_copies: 1.7
+    avg_copies: 1.71
   unknown-74:
     weight: 1.0
     avg_copies: 1.0
@@ -152,6 +152,9 @@ archetypes:
   unknown-80:
     weight: 1.0
     avg_copies: 3.0
+  unknown-79:
+    weight: 0.1429
+    avg_copies: 1.0
   unknown-83:
     weight: 1.0
     avg_copies: 1.0
@@ -166,12 +169,12 @@ archetypes:
     avg_copies: 2.0
   unknown-88:
     weight: 1.0
-    avg_copies: 2.74
+    avg_copies: 2.75
   unknown-93:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.0141
+    weight: 0.0139
     avg_copies: 1.0
   unknown-89:
     weight: 1.0
@@ -232,7 +235,7 @@ archetypes:
     avg_copies: 1.0
   unknown-149:
     weight: 1.0
-    avg_copies: 1.67
+    avg_copies: 1.66
   unknown-158:
     weight: 1.0
     avg_copies: 2.0
@@ -241,7 +244,7 @@ archetypes:
     avg_copies: 1.0
   unknown-160:
     weight: 1.0
-    avg_copies: 3.1
+    avg_copies: 3.09
   unknown-159:
     weight: 1.0
     avg_copies: 3.0
@@ -289,7 +292,7 @@ archetypes:
     avg_copies: 2.0
   unknown-192:
     weight: 1.0
-    avg_copies: 1.5
+    avg_copies: 1.67
   unknown-201:
     weight: 1.0
     avg_copies: 2.0
@@ -368,7 +371,13 @@ archetypes:
   unknown-270:
     weight: 1.0
     avg_copies: 1.0
+  unknown-276:
+    weight: 1.0
+    avg_copies: 2.0
   unknown-274:
     weight: 1.0
     avg_copies: 1.0
+  unknown-277:
+    weight: 1.0
+    avg_copies: 2.0
 ---

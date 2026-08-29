@@ -9,7 +9,7 @@ type: Legendary Land
 meta_presence: 0.0053
 archetypes:
   mill:
-    weight: 0.973
+    weight: 0.9737
     avg_copies: 1.0
   mono-blue-tron:
     weight: 0.0769

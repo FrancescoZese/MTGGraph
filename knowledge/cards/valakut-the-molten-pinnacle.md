@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.0048
 archetypes:
   amulet-titan:
-    weight: 0.0674
+    weight: 0.0667
     avg_copies: 1.0
   scapeshift-combo:
     weight: 0.5
@@ -19,7 +19,7 @@ archetypes:
     avg_copies: 3.67
   unknown-76:
     weight: 1.0
-    avg_copies: 1.57
+    avg_copies: 1.5
   unknown-152:
     weight: 1.0
     avg_copies: 4.0

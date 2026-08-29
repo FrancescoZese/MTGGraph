@@ -13,13 +13,13 @@ archetypes:
     weight: 0.1019
     avg_copies: 2.27
   living-end:
-    weight: 0.0128
+    weight: 0.0127
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.0308
+    weight: 0.0286
     avg_copies: 2.0
   neoform-combo:
-    weight: 0.0087
+    weight: 0.0084
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.0625
@@ -28,13 +28,13 @@ archetypes:
     weight: 0.0769
     avg_copies: 2.0
   sultai-midrange:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 3.0
   unknown-25:
     weight: 0.5
     avg_copies: 2.0
   unknown-67:
-    weight: 0.0093
+    weight: 0.0092
     avg_copies: 1.0
   unknown-104:
     weight: 1.0
@@ -53,7 +53,7 @@ archetypes:
     avg_copies: 3.5
   unknown-192:
     weight: 1.0
-    avg_copies: 3.5
+    avg_copies: 3.67
   unknown-200:
     weight: 1.0
     avg_copies: 4.0

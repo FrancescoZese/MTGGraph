@@ -6,22 +6,22 @@ name: Soulless Jailer
 scryfall_id: bf9991fd-ea6a-4ed7-b5f1-46a95f8d0634
 set: one
 type: Artifact Creature — Phyrexian Golem
-meta_presence: 0.0812
+meta_presence: 0.0807
 archetypes:
   eldrazi-tron:
-    weight: 0.2235
+    weight: 0.2216
     avg_copies: 1.05
   amulet-titan:
-    weight: 0.1461
+    weight: 0.1444
     avg_copies: 2.27
   living-end:
-    weight: 0.0128
+    weight: 0.0127
     avg_copies: 2.0
   mono-blue-tron:
     weight: 0.0769
     avg_copies: 1.0
   hammer-time:
-    weight: 0.2381
+    weight: 0.2273
     avg_copies: 2.0
   boros-ponza:
     weight: 0.1135
@@ -30,14 +30,14 @@ archetypes:
     weight: 0.9062
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.4604
+    weight: 0.4571
     avg_copies: 1.5
   samwise-combo:
     weight: 0.1757
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.6997
-    avg_copies: 1.41
+    weight: 0.6994
+    avg_copies: 1.4
   rakdos-lantern-combo:
     weight: 1.0
     avg_copies: 2.5
@@ -48,13 +48,13 @@ archetypes:
     weight: 0.2857
     avg_copies: 1.5
   goryo1:
-    weight: 0.0314
+    weight: 0.0312
     avg_copies: 1.0
   goryo4:
     weight: 0.3704
     avg_copies: 1.1
   goryo5:
-    weight: 0.05
+    weight: 0.0476
     avg_copies: 1.0
   soultrader-combo:
     weight: 0.2857
@@ -69,16 +69,16 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-61:
-    weight: 0.0469
+    weight: 0.0462
     avg_copies: 1.33
   unknown-76:
-    weight: 0.4286
+    weight: 0.375
     avg_copies: 1.67
   unknown-88:
-    weight: 0.1053
+    weight: 0.1
     avg_copies: 1.0
   unknown-97:
-    weight: 0.1
+    weight: 0.0909
     avg_copies: 1.5
   unknown-110:
     weight: 1.0
@@ -87,7 +87,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 3.0
   unknown-160:
-    weight: 0.1386
+    weight: 0.1321
     avg_copies: 1.0
   unknown-173:
     weight: 1.0
@@ -96,8 +96,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-194:
-    weight: 0.6667
-    avg_copies: 1.15
+    weight: 0.6538
+    avg_copies: 1.12
   unknown-211:
     weight: 0.1111
     avg_copies: 2.0
@@ -108,7 +108,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-265:
-    weight: 0.6667
+    weight: 0.3333
     avg_copies: 1.0
   unknown-271:
     weight: 1.0

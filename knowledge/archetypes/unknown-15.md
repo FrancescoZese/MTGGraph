@@ -12,10 +12,10 @@ top_cards:
 - name: Mox Opal
   weight: 1.0
   avg_copies: 3.96
-- name: Scalding Tarn
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 3.92
-- name: Mishra's Bauble
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 3.92
 - name: Tamiyo, Inquisitive Student
@@ -42,10 +42,10 @@ top_cards:
 - name: Island
   weight: 0.9583
   avg_copies: 1.26
-- name: Otawara, Soaring City
+- name: Aether Spellbomb
   weight: 0.9167
   avg_copies: 1.0
-- name: Aether Spellbomb
+- name: Otawara, Soaring City
   weight: 0.9167
   avg_copies: 1.0
 - name: Mountain
@@ -123,10 +123,10 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.25
   avg_copies: 1.0
-- name: Vexing Bauble
+- name: Repeal
   weight: 0.25
   avg_copies: 1.0
-- name: Repeal
+- name: Vexing Bauble
   weight: 0.25
   avg_copies: 1.0
 - name: Galvanic Blast
@@ -150,28 +150,28 @@ top_cards:
 - name: Flooded Strand
   weight: 0.1667
   avg_copies: 1.75
-- name: Grafdigger's Cage
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Lavaspur Boots
   weight: 0.1667
   avg_copies: 1.0
 - name: Vandalblast
   weight: 0.1667
   avg_copies: 1.0
-- name: Ragavan, Nimble Pilferer
+- name: Grafdigger's Cage
+  weight: 0.1667
+  avg_copies: 1.0
+- name: card:avengers-disassembled
   weight: 0.125
   avg_copies: 2.0
-- name: card:avengers-disassembled
+- name: Ragavan, Nimble Pilferer
   weight: 0.125
   avg_copies: 2.0
 - name: Hurkyl's Recall
   weight: 0.125
   avg_copies: 1.33
-- name: Wooded Foothills
+- name: Prismari Charm
   weight: 0.125
   avg_copies: 1.0
-- name: Prismari Charm
+- name: Wooded Foothills
   weight: 0.125
   avg_copies: 1.0
 - name: Expressive Iteration
@@ -189,28 +189,25 @@ top_cards:
 - name: Portable Hole
   weight: 0.0417
   avg_copies: 3.0
-- name: Astrologian's Planisphere
-  weight: 0.0417
-  avg_copies: 3.0
 - name: Misty Rainforest
   weight: 0.0417
   avg_copies: 3.0
-- name: Teferi, Time Raveler
+- name: Astrologian's Planisphere
+  weight: 0.0417
+  avg_copies: 3.0
+- name: Hallowed Fountain
   weight: 0.0417
   avg_copies: 2.0
 - name: Vivi Ornitier
   weight: 0.0417
   avg_copies: 2.0
-- name: Hallowed Fountain
-  weight: 0.0417
-  avg_copies: 2.0
 - name: Snow-Covered Island
   weight: 0.0417
   avg_copies: 2.0
-- name: card:wizard-s-staff
+- name: Teferi, Time Raveler
   weight: 0.0417
-  avg_copies: 1.0
-- name: Surgical Extraction
+  avg_copies: 2.0
+- name: Polluted Delta
   weight: 0.0417
   avg_copies: 1.0
 - name: card:pyrite-spellbomb
@@ -219,16 +216,19 @@ top_cards:
 - name: Ghost Vacuum
   weight: 0.0417
   avg_copies: 1.0
-- name: Polluted Delta
+- name: Snow-Covered Mountain
   weight: 0.0417
   avg_copies: 1.0
-- name: Snow-Covered Mountain
+- name: Surgical Extraction
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Annul
   weight: 0.0417
   avg_copies: 1.0
 - name: Snapcaster Mage
   weight: 0.0417
   avg_copies: 1.0
-- name: Annul
+- name: card:wizard-s-staff
   weight: 0.0417
   avg_copies: 1.0
 ---

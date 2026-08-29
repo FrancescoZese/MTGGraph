@@ -6,22 +6,22 @@ name: Engineered Explosives
 scryfall_id: 420bf1e9-f2ec-4dff-b540-e64de71e58be
 set: 2xm
 type: Artifact
-meta_presence: 0.1467
+meta_presence: 0.1456
 archetypes:
   dimir-control:
     weight: 0.5185
     avg_copies: 1.69
   mono-blue-belcher:
-    weight: 0.798
+    weight: 0.802
     avg_copies: 1.95
   eldrazi-tron:
-    weight: 0.1441
+    weight: 0.1429
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.0225
+    weight: 0.0222
     avg_copies: 1.25
   goryo:
-    weight: 0.0093
+    weight: 0.0089
     avg_copies: 1.0
   necrodominance:
     weight: 0.2391
@@ -30,7 +30,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.88
   mill:
-    weight: 0.3243
+    weight: 0.3158
     avg_copies: 1.25
   mono-blue-tron:
     weight: 0.4615
@@ -39,10 +39,10 @@ archetypes:
     weight: 0.0993
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.1079
+    weight: 0.1071
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0101
+    weight: 0.01
     avg_copies: 3.0
   izzet-artifacts:
     weight: 0.1875
@@ -60,7 +60,7 @@ archetypes:
     weight: 0.0526
     avg_copies: 1.0
   goryo1:
-    weight: 0.0733
+    weight: 0.0729
     avg_copies: 1.07
   goryo7:
     weight: 1.0
@@ -69,7 +69,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   sultai-midrange:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 1.0
   unknown-6:
     weight: 0.9474
@@ -111,14 +111,14 @@ archetypes:
     weight: 0.6562
     avg_copies: 1.95
   unknown-47:
-    weight: 0.8531
-    avg_copies: 2.07
+    weight: 0.8571
+    avg_copies: 2.06
   unknown-48:
     weight: 0.5
     avg_copies: 1.0
   unknown-49:
     weight: 1.0
-    avg_copies: 3.58
+    avg_copies: 3.62
   unknown-56:
     weight: 1.0
     avg_copies: 2.0
@@ -159,7 +159,7 @@ archetypes:
     weight: 0.25
     avg_copies: 2.0
   unknown-160:
-    weight: 0.1188
+    weight: 0.1132
     avg_copies: 1.0
   unknown-162:
     weight: 1.0
@@ -186,12 +186,15 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-248:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
   unknown-265:
-    weight: 0.6667
+    weight: 0.3333
     avg_copies: 1.0
   unknown-267:
+    weight: 1.0
+    avg_copies: 2.0
+  unknown-275:
     weight: 1.0
     avg_copies: 2.0
 ---

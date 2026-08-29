@@ -7,31 +7,31 @@ name: Path to Exile
 scryfall_id: 90b690f4-9647-4e67-b7cb-b2692ea149b1
 set: soc
 type: Instant
-meta_presence: 0.0505
+meta_presence: 0.0506
 archetypes:
   boros-energy:
-    weight: 0.0265
-    avg_copies: 1.27
+    weight: 0.0275
+    avg_copies: 1.29
   jeskai-control:
-    weight: 0.0154
+    weight: 0.0143
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.2384
+    weight: 0.2403
     avg_copies: 1.0
   mill:
-    weight: 0.027
+    weight: 0.0263
     avg_copies: 4.0
   burn:
     weight: 0.0976
     avg_copies: 1.5
   mono-red-belcher:
-    weight: 0.0769
+    weight: 0.0714
     avg_copies: 2.0
   boros-ponza:
     weight: 1.0
     avg_copies: 3.82
   esper-blink:
-    weight: 0.0049
+    weight: 0.0046
     avg_copies: 1.0
   samwise-combo:
     weight: 0.027
@@ -46,7 +46,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.5
   goryo0:
-    weight: 0.1818
+    weight: 0.1739
     avg_copies: 1.5
   goryo6:
     weight: 1.0
@@ -67,14 +67,14 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-68:
-    weight: 0.0244
+    weight: 0.0238
     avg_copies: 2.0
   unknown-86:
     weight: 0.0833
     avg_copies: 2.0
   unknown-96:
-    weight: 0.1549
-    avg_copies: 1.73
+    weight: 0.1667
+    avg_copies: 1.75
   unknown-89:
     weight: 1.0
     avg_copies: 2.0
@@ -89,7 +89,7 @@ archetypes:
     avg_copies: 4.0
   unknown-160:
     weight: 1.0
-    avg_copies: 3.3
+    avg_copies: 3.33
   unknown-169:
     weight: 1.0
     avg_copies: 4.0
@@ -105,4 +105,7 @@ archetypes:
   unknown-251:
     weight: 1.0
     avg_copies: 4.0
+  unknown-276:
+    weight: 1.0
+    avg_copies: 3.0
 ---

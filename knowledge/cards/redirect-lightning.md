@@ -10,28 +10,28 @@ type: Instant — Lesson
 meta_presence: 0.0036
 archetypes:
   boros-energy:
-    weight: 0.0063
+    weight: 0.0062
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0066
+    weight: 0.0065
     avg_copies: 1.0
   mono-red-belcher:
-    weight: 0.1538
+    weight: 0.1429
     avg_copies: 1.0
   boros-ponza:
     weight: 0.0071
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0216
+    weight: 0.0214
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0142
+    weight: 0.0137
     avg_copies: 1.0
   rakdos-aggro:
     weight: 0.1053
     avg_copies: 1.0
   goryo0:
-    weight: 0.1364
+    weight: 0.1304
     avg_copies: 2.0
   unknown-14:
     weight: 0.5
@@ -40,7 +40,7 @@ archetypes:
     weight: 0.0625
     avg_copies: 1.0
   unknown-122:
-    weight: 0.0323
+    weight: 0.0294
     avg_copies: 1.0
   unknown-196:
     weight: 1.0

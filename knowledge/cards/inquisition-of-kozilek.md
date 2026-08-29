@@ -7,19 +7,19 @@ name: Inquisition of Kozilek
 scryfall_id: 17f38740-20fd-4097-90f8-f0c2c2ff7281
 set: 2x2
 type: Sorcery
-meta_presence: 0.037
+meta_presence: 0.0369
 archetypes:
   ruby-storm:
     weight: 0.0037
     avg_copies: 1.0
   goryo:
-    weight: 0.0046
+    weight: 0.0045
     avg_copies: 1.25
   necrodominance:
     weight: 0.6087
     avg_copies: 2.32
   esper-blink:
-    weight: 0.0049
+    weight: 0.0046
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.0625
@@ -34,26 +34,26 @@ archetypes:
     weight: 0.0526
     avg_copies: 2.0
   cosmogoyf-fling:
-    weight: 0.6
+    weight: 0.6066
     avg_copies: 3.71
   goryo1:
-    weight: 0.2723
+    weight: 0.2708
     avg_copies: 1.67
   goryo5:
-    weight: 0.425
-    avg_copies: 1.76
+    weight: 0.4286
+    avg_copies: 1.74
   goryo2:
-    weight: 0.6538
-    avg_copies: 1.88
+    weight: 0.6604
+    avg_copies: 1.89
   devoted-combo:
     weight: 1.0
     avg_copies: 4.0
   unknown-5:
-    weight: 0.1667
+    weight: 0.1538
     avg_copies: 1.67
   unknown-8:
     weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 1.33
   unknown-14:
     weight: 1.0
     avg_copies: 4.0
@@ -73,7 +73,7 @@ archetypes:
     weight: 0.5625
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0113
+    weight: 0.011
     avg_copies: 1.0
   unknown-69:
     weight: 0.9
@@ -85,7 +85,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-97:
-    weight: 0.6
+    weight: 0.5455
     avg_copies: 1.62
   unknown-162:
     weight: 1.0

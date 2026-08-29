@@ -7,16 +7,16 @@ name: Tireless Tracker
 scryfall_id: 66444549-ad9b-49c6-a7c6-34e977c1085d
 set: eoc
 type: Creature — Human Scout
-meta_presence: 0.0064
+meta_presence: 0.0062
 archetypes:
   amulet-titan:
-    weight: 0.236
+    weight: 0.2333
     avg_copies: 1.0
   unknown-76:
-    weight: 0.7143
+    weight: 0.625
     avg_copies: 1.6
   unknown-97:
-    weight: 0.05
+    weight: 0.0455
     avg_copies: 1.0
   unknown-193:
     weight: 1.0

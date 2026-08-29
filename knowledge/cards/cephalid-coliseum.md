@@ -9,13 +9,13 @@ type: Land
 meta_presence: 0.0079
 archetypes:
   amulet-titan:
-    weight: 0.0506
+    weight: 0.05
     avg_copies: 1.0
   goryo:
-    weight: 0.0556
+    weight: 0.0536
     avg_copies: 1.0
   mill:
-    weight: 0.2973
+    weight: 0.2895
     avg_copies: 1.0
   reanimator:
     weight: 0.037
@@ -24,8 +24,11 @@ archetypes:
     weight: 0.0357
     avg_copies: 1.0
   goryo1:
-    weight: 0.0105
+    weight: 0.0104
     avg_copies: 2.0
+  unknown-5:
+    weight: 0.0769
+    avg_copies: 1.0
   unknown-30:
     weight: 0.1429
     avg_copies: 1.0

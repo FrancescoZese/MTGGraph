@@ -7,17 +7,17 @@ name: Murktide Regent
 scryfall_id: 20c4aae1-7665-4df7-bd51-a1d95bf8a17d
 set: mh2
 type: Creature — Dragon
-meta_presence: 0.0394
+meta_presence: 0.0398
 archetypes:
   dimir-control:
     weight: 0.1728
     avg_copies: 1.86
   neoform-combo:
-    weight: 0.0087
+    weight: 0.0084
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.3986
-    avg_copies: 1.22
+    weight: 0.395
+    avg_copies: 1.21
   grixis-shadow:
     weight: 0.2
     avg_copies: 3.0
@@ -25,13 +25,13 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   sultai-midrange:
-    weight: 0.75
+    weight: 0.8
     avg_copies: 2.0
   unknown-11:
     weight: 0.2
     avg_copies: 3.0
   unknown-47:
-    weight: 0.5028
+    weight: 0.5165
     avg_copies: 1.14
   unknown-53:
     weight: 1.0

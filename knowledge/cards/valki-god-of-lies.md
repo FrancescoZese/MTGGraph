@@ -9,6 +9,6 @@ type: Legendary Creature — God // Legendary Planeswalker — Tibalt
 meta_presence: 0.0001
 archetypes:
   sultai-midrange:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 2.0
 ---

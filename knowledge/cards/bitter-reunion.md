@@ -7,12 +7,12 @@ name: Bitter Reunion
 scryfall_id: 4ef0b4dc-5a15-4de6-9c27-0e21148c0797
 set: otc
 type: Enchantment
-meta_presence: 0.0012
+meta_presence: 0.0013
 archetypes:
   mono-red-belcher:
-    weight: 0.6154
-    avg_copies: 3.25
+    weight: 0.6429
+    avg_copies: 3.33
   goryo0:
-    weight: 0.0455
+    weight: 0.0435
     avg_copies: 2.0
 ---

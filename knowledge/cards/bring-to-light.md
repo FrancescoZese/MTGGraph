@@ -14,6 +14,6 @@ archetypes:
     weight: 0.1667
     avg_copies: 3.0
   sultai-midrange:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 3.0
 ---

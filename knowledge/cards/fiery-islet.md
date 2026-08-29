@@ -9,13 +9,13 @@ type: Land
 meta_presence: 0.1363
 archetypes:
   ruby-storm:
-    weight: 0.0149
+    weight: 0.0148
     avg_copies: 1.0
   affinity:
-    weight: 0.9929
+    weight: 0.993
     avg_copies: 3.55
   izzet-prowess:
-    weight: 0.9481
+    weight: 0.9498
     avg_copies: 1.74
   izzet-artifacts:
     weight: 0.9375
@@ -39,8 +39,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-122:
-    weight: 0.4194
-    avg_copies: 1.46
+    weight: 0.4412
+    avg_copies: 1.4
   unknown-124:
     weight: 1.0
     avg_copies: 1.0

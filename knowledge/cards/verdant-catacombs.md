@@ -6,7 +6,7 @@ name: Verdant Catacombs
 scryfall_id: 94c229ea-90da-4aa0-bfda-b162fb3b5b8b
 set: mh2
 type: Land
-meta_presence: 0.1152
+meta_presence: 0.1147
 archetypes:
   dimir-control:
     weight: 0.0123
@@ -15,19 +15,19 @@ archetypes:
     weight: 0.0056
     avg_copies: 1.0
   goryo:
-    weight: 0.0046
+    weight: 0.0045
     avg_copies: 4.0
   necrodominance:
     weight: 0.1957
     avg_copies: 1.33
   living-end:
-    weight: 0.0769
+    weight: 0.0759
     avg_copies: 2.0
   reanimator:
     weight: 0.037
     avg_copies: 4.0
   neoform-combo:
-    weight: 0.113
+    weight: 0.1092
     avg_copies: 1.46
   hollow-one:
     weight: 0.5
@@ -36,16 +36,16 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   eldrazi-ramp:
-    weight: 0.741
+    weight: 0.7429
     avg_copies: 1.05
   simic-ritual:
-    weight: 0.8687
+    weight: 0.87
     avg_copies: 3.56
   samwise-combo:
     weight: 1.0
     avg_copies: 3.8
   broodscale-combo:
-    weight: 0.3273
+    weight: 0.3244
     avg_copies: 1.1
   elves:
     weight: 1.0
@@ -63,11 +63,11 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   goryo1:
-    weight: 0.0576
+    weight: 0.0573
     avg_copies: 1.0
   goryo5:
-    weight: 0.8
-    avg_copies: 2.22
+    weight: 0.8095
+    avg_copies: 2.26
   soultrader-combo:
     weight: 0.4286
     avg_copies: 2.67
@@ -99,7 +99,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-47:
-    weight: 0.0678
+    weight: 0.0659
     avg_copies: 1.25
   unknown-52:
     weight: 1.0
@@ -123,10 +123,10 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-97:
-    weight: 0.8
-    avg_copies: 1.31
+    weight: 0.8182
+    avg_copies: 1.28
   unknown-101:
-    weight: 0.0323
+    weight: 0.0312
     avg_copies: 1.0
   unknown-102:
     weight: 1.0
@@ -138,8 +138,8 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   unknown-126:
-    weight: 0.9873
-    avg_copies: 2.93
+    weight: 0.9879
+    avg_copies: 2.91
   unknown-130:
     weight: 1.0
     avg_copies: 3.0
@@ -177,7 +177,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-194:
-    weight: 0.1026
+    weight: 0.0962
     avg_copies: 1.0
   unknown-196:
     weight: 1.0

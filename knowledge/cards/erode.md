@@ -7,46 +7,46 @@ name: Erode
 scryfall_id: 32e670da-7563-4f6a-a7db-4c126a440eb8
 set: sos
 type: Instant
-meta_presence: 0.0525
+meta_presence: 0.0524
 archetypes:
   boros-energy:
-    weight: 0.0227
-    avg_copies: 1.1
+    weight: 0.0225
+    avg_copies: 1.16
   mono-blue-belcher:
-    weight: 0.0101
+    weight: 0.0099
     avg_copies: 1.0
   azorius-control:
     weight: 0.1019
     avg_copies: 1.09
   jeskai-control:
-    weight: 0.0308
-    avg_copies: 2.0
+    weight: 0.0286
+    avg_copies: 1.67
   domain-zoo:
-    weight: 0.0066
+    weight: 0.0065
     avg_copies: 1.0
   mill:
-    weight: 0.027
+    weight: 0.0263
     avg_copies: 4.0
   burn:
     weight: 0.0244
     avg_copies: 1.0
   mono-red-belcher:
-    weight: 0.2308
-    avg_copies: 1.67
-  hammer-time:
     weight: 0.2857
-    avg_copies: 2.33
+    avg_copies: 1.75
+  hammer-time:
+    weight: 0.3182
+    avg_copies: 2.14
   boros-ponza:
     weight: 0.8511
     avg_copies: 3.71
   esper-blink:
-    weight: 0.0588
+    weight: 0.0556
     avg_copies: 1.5
   samwise-combo:
     weight: 0.1892
     avg_copies: 1.93
   orzhov-blink:
-    weight: 0.2105
+    weight: 0.2
     avg_copies: 1.2
   azorius-blink:
     weight: 0.0423
@@ -55,7 +55,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   goryo0:
-    weight: 0.4091
+    weight: 0.3913
     avg_copies: 1.89
   goryo6:
     weight: 1.0
@@ -97,7 +97,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.0423
+    weight: 0.0417
     avg_copies: 2.0
   unknown-89:
     weight: 1.0
@@ -118,7 +118,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-149:
-    weight: 0.4
+    weight: 0.3429
     avg_copies: 1.5
   unknown-158:
     weight: 1.0
@@ -128,7 +128,7 @@ archetypes:
     avg_copies: 4.0
   unknown-160:
     weight: 1.0
-    avg_copies: 3.89
+    avg_copies: 3.9
   unknown-159:
     weight: 1.0
     avg_copies: 1.0
@@ -178,6 +178,9 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-251:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-276:
     weight: 1.0
     avg_copies: 4.0
 ---

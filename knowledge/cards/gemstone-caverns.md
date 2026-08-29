@@ -6,19 +6,19 @@ name: Gemstone Caverns
 scryfall_id: 7f273641-c5f3-48bc-b89e-3cff52d26a0b
 set: tsr
 type: Legendary Land
-meta_presence: 0.099
+meta_presence: 0.0987
 archetypes:
   ruby-storm:
-    weight: 0.9104
+    weight: 0.9041
     avg_copies: 1.03
   eldrazi-tron:
-    weight: 0.0118
+    weight: 0.0117
     avg_copies: 1.0
   amulet-titan:
     weight: 0.0056
     avg_copies: 1.0
   goryo:
-    weight: 0.0046
+    weight: 0.0045
     avg_copies: 1.0
   hardened-scales:
     weight: 0.2
@@ -27,10 +27,10 @@ archetypes:
     weight: 0.0185
     avg_copies: 1.0
   living-end:
-    weight: 0.0128
+    weight: 0.0127
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.0154
+    weight: 0.0143
     avg_copies: 1.0
   affinity:
     weight: 0.0035
@@ -42,16 +42,16 @@ archetypes:
     weight: 0.75
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.1007
+    weight: 0.1
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.5152
+    weight: 0.51
     avg_copies: 2.13
   4c-omnath:
     weight: 0.25
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.5105
+    weight: 0.5089
     avg_copies: 1.0
   dredge:
     weight: 0.0357
@@ -69,7 +69,7 @@ archetypes:
     weight: 0.7778
     avg_copies: 1.0
   unknown-61:
-    weight: 0.7344
+    weight: 0.7308
     avg_copies: 1.01
   unknown-55:
     weight: 1.0
@@ -81,10 +81,10 @@ archetypes:
     weight: 0.7586
     avg_copies: 1.67
   unknown-67:
-    weight: 0.0093
+    weight: 0.0092
     avg_copies: 1.0
   unknown-76:
-    weight: 0.2857
+    weight: 0.25
     avg_copies: 1.0
   unknown-94:
     weight: 1.0
@@ -93,7 +93,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-126:
-    weight: 0.0892
+    weight: 0.103
     avg_copies: 1.0
   unknown-143:
     weight: 1.0
@@ -111,7 +111,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-194:
-    weight: 0.4872
+    weight: 0.5
     avg_copies: 1.0
   unknown-211:
     weight: 0.1111

@@ -7,17 +7,17 @@ name: Phelia, Exuberant Shepherd
 scryfall_id: 55707746-da6e-46e5-a5ca-7ac843fdc38e
 set: mh3
 type: Legendary Creature — Dog
-meta_presence: 0.0805
+meta_presence: 0.0811
 archetypes:
   boros-energy:
-    weight: 0.0227
+    weight: 0.0225
     avg_copies: 1.28
   jeskai-energy:
     weight: 0.9852
     avg_copies: 3.61
   domain-zoo:
-    weight: 0.2781
-    avg_copies: 2.98
+    weight: 0.2857
+    avg_copies: 2.93
   mardu-blink:
     weight: 1.0
     avg_copies: 3.29
@@ -25,19 +25,19 @@ archetypes:
     weight: 0.125
     avg_copies: 1.0
   esper-blink:
-    weight: 0.9951
+    weight: 0.9954
     avg_copies: 3.82
   orzhov-blink:
     weight: 1.0
-    avg_copies: 3.84
+    avg_copies: 3.85
   azorius-blink:
     weight: 0.9859
     avg_copies: 3.8
   goryo2:
-    weight: 0.2308
+    weight: 0.2264
     avg_copies: 2.67
   unknown-5:
-    weight: 0.0833
+    weight: 0.0769
     avg_copies: 3.0
   unknown-7:
     weight: 1.0
@@ -47,7 +47,7 @@ archetypes:
     avg_copies: 3.85
   unknown-70:
     weight: 1.0
-    avg_copies: 3.4
+    avg_copies: 3.33
   unknown-74:
     weight: 1.0
     avg_copies: 4.0
@@ -58,7 +58,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.5
   unknown-88:
-    weight: 0.1053
+    weight: 0.1
     avg_copies: 2.0
   unknown-89:
     weight: 1.0
@@ -76,8 +76,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-149:
-    weight: 0.3333
-    avg_copies: 1.7
+    weight: 0.3143
+    avg_copies: 1.64
   unknown-184:
     weight: 1.0
     avg_copies: 3.0

@@ -9,13 +9,13 @@ type: Instant // Land
 meta_presence: 0.0044
 archetypes:
   mono-blue-belcher:
-    weight: 0.0606
+    weight: 0.0594
     avg_copies: 1.83
   mono-red-belcher:
-    weight: 0.2308
+    weight: 0.2143
     avg_copies: 1.0
   goryo0:
-    weight: 0.9545
+    weight: 0.9565
     avg_copies: 1.14
   unknown-48:
     weight: 1.0
@@ -24,6 +24,6 @@ archetypes:
     weight: 0.0303
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0099
+    weight: 0.0094
     avg_copies: 1.0
 ---

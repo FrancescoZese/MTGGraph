@@ -17,19 +17,19 @@ archetypes:
     weight: 0.0217
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.0132
+    weight: 0.013
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0303
+    weight: 0.03
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0094
+    weight: 0.0091
     avg_copies: 2.0
   grixis-shadow:
     weight: 0.2
     avg_copies: 1.0
   goryo1:
-    weight: 0.0157
+    weight: 0.0156
     avg_copies: 1.33
   grixis-control:
     weight: 0.2857
@@ -44,8 +44,8 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-47:
-    weight: 0.8927
-    avg_copies: 1.36
+    weight: 0.8956
+    avg_copies: 1.34
   unknown-51:
     weight: 1.0
     avg_copies: 1.0
@@ -81,5 +81,5 @@ archetypes:
     avg_copies: 2.0
   unknown-269:
     weight: 1.0
-    avg_copies: 1.5
+    avg_copies: 1.67
 ---

@@ -7,10 +7,10 @@ name: Go for the Throat
 scryfall_id: 5446e1ba-c745-45b2-ad05-b22abf04daec
 set: moc
 type: Instant
-meta_presence: 0.0012
+meta_presence: 0.0011
 archetypes:
   mill:
-    weight: 0.1622
+    weight: 0.1579
     avg_copies: 1.0
   unknown-125:
     weight: 0.25

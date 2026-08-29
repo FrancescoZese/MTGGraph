@@ -1,0 +1,42 @@
+---
+archetype: boros-energy
+date: '2026-08-29'
+finish: 1st
+pilot: Dreddybajs
+source: MTGO Modern Challenge 16
+---
+
+
+# Mainboard
+4 Goblin Bombardment
+1 Arena of Glory
+4 Arid Mesa
+1 Blood Moon
+4 Guide of Souls
+2 Elegant Parlor
+4 Ragavan, Nimble Pilferer
+4 Galvanic Discharge
+4 Ajani, Nacatl Pariah
+3 Sacred Foundry
+2 Plains
+1 Ranger-Captain of Eos
+2 Seasoned Pyromancer
+1 Static Prison
+2 Thraben Charm
+4 Voice of Victory
+1 Mountain
+2 Dalkovan Encampment
+4 Flooded Strand
+1 Belladonna Took
+1 Fable of the Mirror-Breaker
+4 Marsh Flats
+4 Ocelot Pride
+
+# Sideboard
+2 Wrath of the Skies
+3 Obsidian Charmaw
+1 Vexing Bauble
+2 Wear/Tear
+3 Surgical Extraction
+2 Celestial Purge
+2 Clarion Conqueror

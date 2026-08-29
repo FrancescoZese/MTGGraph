@@ -7,22 +7,22 @@ name: Fade from History
 scryfall_id: 71f13f67-e852-4a6a-8f32-b16195e53ec3
 set: bro
 type: Sorcery
-meta_presence: 0.0279
+meta_presence: 0.0276
 archetypes:
   amulet-titan:
     weight: 0.0056
     avg_copies: 1.0
   living-end:
-    weight: 0.0256
+    weight: 0.0253
     avg_copies: 2.0
   yawgmoth-combo:
     weight: 0.0104
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.777
+    weight: 0.7786
     avg_copies: 2.12
   simic-ritual:
-    weight: 0.1919
+    weight: 0.19
     avg_copies: 1.68
   samwise-combo:
     weight: 0.0135
@@ -40,25 +40,25 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-61:
-    weight: 0.2422
+    weight: 0.2385
     avg_copies: 2.68
   unknown-65:
     weight: 0.069
     avg_copies: 1.0
   unknown-67:
-    weight: 0.0841
+    weight: 0.0826
     avg_copies: 1.22
   unknown-88:
-    weight: 0.1579
+    weight: 0.15
     avg_copies: 2.0
   unknown-97:
-    weight: 0.2
-    avg_copies: 1.75
+    weight: 0.2273
+    avg_copies: 1.8
   unknown-102:
     weight: 1.0
     avg_copies: 1.0
   unknown-126:
-    weight: 0.1338
+    weight: 0.1273
     avg_copies: 1.9
   unknown-152:
     weight: 0.3333

@@ -10,10 +10,10 @@ type: Enchantment
 meta_presence: 0.0031
 archetypes:
   mono-red-belcher:
-    weight: 0.6154
+    weight: 0.5714
     avg_copies: 3.38
   goryo0:
-    weight: 0.6818
+    weight: 0.6522
     avg_copies: 2.73
   unknown-40:
     weight: 1.0

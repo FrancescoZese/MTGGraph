@@ -7,14 +7,14 @@ name: March of Otherworldly Light
 scryfall_id: 553fb946-2706-475b-89f9-e4355ec9ea2b
 set: neo
 type: Instant
-meta_presence: 0.0846
+meta_presence: 0.0847
 archetypes:
   ruby-storm:
-    weight: 0.0224
+    weight: 0.0221
     avg_copies: 2.0
   boros-energy:
-    weight: 0.0303
-    avg_copies: 1.03
+    weight: 0.0312
+    avg_copies: 1.02
   jeskai-energy:
     weight: 0.763
     avg_copies: 1.5
@@ -22,28 +22,28 @@ archetypes:
     weight: 0.0029
     avg_copies: 2.0
   goryo:
-    weight: 0.6181
-    avg_copies: 1.11
+    weight: 0.6272
+    avg_copies: 1.12
   azorius-control:
     weight: 0.3241
     avg_copies: 1.08
   jeskai-control:
-    weight: 0.1692
+    weight: 0.1571
     avg_copies: 1.0
   mardu-blink:
     weight: 0.125
     avg_copies: 1.67
   hammer-time:
-    weight: 0.1429
+    weight: 0.1364
     avg_copies: 2.0
   boros-ponza:
     weight: 0.2837
     avg_copies: 1.74
   esper-blink:
-    weight: 0.1618
+    weight: 0.1528
     avg_copies: 1.05
   orzhov-blink:
-    weight: 0.2632
+    weight: 0.25
     avg_copies: 1.17
   azorius-blink:
     weight: 0.6901
@@ -52,13 +52,13 @@ archetypes:
     weight: 0.75
     avg_copies: 4.0
   goryo2:
-    weight: 0.3654
+    weight: 0.3585
     avg_copies: 1.53
   unknown-3:
     weight: 0.5
     avg_copies: 1.0
   unknown-5:
-    weight: 0.0833
+    weight: 0.0769
     avg_copies: 1.0
   unknown-12:
     weight: 1.0
@@ -100,10 +100,10 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-149:
-    weight: 0.0333
+    weight: 0.0286
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0495
+    weight: 0.0472
     avg_copies: 1.2
   unknown-186:
     weight: 0.5

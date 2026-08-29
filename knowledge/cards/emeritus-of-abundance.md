@@ -10,10 +10,10 @@ type: Creature — Elf Druid // Sorcery
 meta_presence: 0.0019
 archetypes:
   amulet-titan:
-    weight: 0.0112
+    weight: 0.0111
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0072
+    weight: 0.0071
     avg_copies: 1.0
   unknown-93:
     weight: 1.0

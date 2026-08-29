@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: Necrodominance
-meta_share: 0.006
+meta_share: 0.0058
 list_count: 46
 top_cards:
 - name: Swamp
@@ -87,10 +87,10 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.2391
   avg_copies: 1.64
-- name: Sorin of House Markov
+- name: Wrench Mind
   weight: 0.2174
   avg_copies: 2.0
-- name: Wrench Mind
+- name: Sorin of House Markov
   weight: 0.2174
   avg_copies: 2.0
 - name: Disruptor Flute
@@ -126,10 +126,10 @@ top_cards:
 - name: Sign in Blood
   weight: 0.087
   avg_copies: 2.25
-- name: Shizo, Death's Storehouse
+- name: Underground Mortuary
   weight: 0.087
   avg_copies: 1.0
-- name: Underground Mortuary
+- name: Shizo, Death's Storehouse
   weight: 0.087
   avg_copies: 1.0
 - name: Raucous Theater
@@ -147,37 +147,37 @@ top_cards:
 - name: Decorum Dissertation
   weight: 0.0652
   avg_copies: 1.0
+- name: Gonti's Machinations
+  weight: 0.0435
+  avg_copies: 4.0
 - name: Sorin, Imperious Bloodlord
   weight: 0.0435
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 0.0435
   avg_copies: 4.0
-- name: Gonti's Machinations
-  weight: 0.0435
-  avg_copies: 4.0
 - name: Vein Ripper
   weight: 0.0435
   avg_copies: 4.0
-- name: Watery Grave
-  weight: 0.0435
-  avg_copies: 3.5
 - name: Consign to Memory
   weight: 0.0435
   avg_copies: 3.5
-- name: Long Goodbye
+- name: Watery Grave
   weight: 0.0435
-  avg_copies: 2.0
+  avg_copies: 3.5
 - name: card:trespasser-s-curse
   weight: 0.0435
   avg_copies: 2.0
 - name: Agadeem's Awakening
   weight: 0.0435
   avg_copies: 2.0
-- name: Toxic Deluge
+- name: Long Goodbye
+  weight: 0.0435
+  avg_copies: 2.0
+- name: The Filigree Sylex
   weight: 0.0435
   avg_copies: 1.5
-- name: The Filigree Sylex
+- name: Toxic Deluge
   weight: 0.0435
   avg_copies: 1.5
 - name: Legion's End
@@ -189,70 +189,49 @@ top_cards:
 - name: Iridescent Vinelasher
   weight: 0.0217
   avg_copies: 4.0
-- name: Mystical Dispute
-  weight: 0.0217
-  avg_copies: 3.0
 - name: Quantum Riddler
   weight: 0.0217
   avg_copies: 3.0
-- name: Witherbloom Command
+- name: Mystical Dispute
   weight: 0.0217
-  avg_copies: 2.0
-- name: End of the Hunt
-  weight: 0.0217
-  avg_copies: 2.0
-- name: Overgrown Tomb
-  weight: 0.0217
-  avg_copies: 2.0
-- name: Mai, Scornful Striker
+  avg_copies: 3.0
+- name: Culling Ritual
   weight: 0.0217
   avg_copies: 2.0
 - name: Hurkyl's Recall
   weight: 0.0217
   avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 0.0217
-  avg_copies: 2.0
-- name: Culling Ritual
+- name: Phyrexian Crusader
   weight: 0.0217
   avg_copies: 2.0
 - name: Pillage the Bog
   weight: 0.0217
   avg_copies: 2.0
-- name: Phyrexian Crusader
+- name: Mai, Scornful Striker
   weight: 0.0217
   avg_copies: 2.0
-- name: Stone of Erech
+- name: Witherbloom Command
   weight: 0.0217
-  avg_copies: 1.0
-- name: Cling to Dust
+  avg_copies: 2.0
+- name: Overgrown Tomb
   weight: 0.0217
-  avg_copies: 1.0
-- name: Path of Peril
+  avg_copies: 2.0
+- name: End of the Hunt
   weight: 0.0217
-  avg_copies: 1.0
-- name: card:hagra-mauling
+  avg_copies: 2.0
+- name: Vexing Bauble
   weight: 0.0217
-  avg_copies: 1.0
-- name: Grafdigger's Cage
-  weight: 0.0217
-  avg_copies: 1.0
-- name: Pick Your Poison
-  weight: 0.0217
-  avg_copies: 1.0
-- name: Nurturing Peatland
+  avg_copies: 2.0
+- name: Blood Crypt
   weight: 0.0217
   avg_copies: 1.0
 - name: card:vito-thorn-of-the-dusk-rose
   weight: 0.0217
   avg_copies: 1.0
-- name: Revitalizing Repast
-  weight: 0.0217
-  avg_copies: 1.0
-- name: Pithing Needle
-  weight: 0.0217
-  avg_copies: 1.0
 - name: card:invoke-despair
+  weight: 0.0217
+  avg_copies: 1.0
+- name: Stone of Erech
   weight: 0.0217
   avg_copies: 1.0
 - name: Kaito, Bane of Nightmares
@@ -261,7 +240,28 @@ top_cards:
 - name: Ratchet Bomb
   weight: 0.0217
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Revitalizing Repast
+  weight: 0.0217
+  avg_copies: 1.0
+- name: Grafdigger's Cage
+  weight: 0.0217
+  avg_copies: 1.0
+- name: Nurturing Peatland
+  weight: 0.0217
+  avg_copies: 1.0
+- name: card:hagra-mauling
+  weight: 0.0217
+  avg_copies: 1.0
+- name: Pithing Needle
+  weight: 0.0217
+  avg_copies: 1.0
+- name: Pick Your Poison
+  weight: 0.0217
+  avg_copies: 1.0
+- name: Cling to Dust
+  weight: 0.0217
+  avg_copies: 1.0
+- name: Path of Peril
   weight: 0.0217
   avg_copies: 1.0
 ---

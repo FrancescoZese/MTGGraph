@@ -3,16 +3,16 @@ colors:
 - U
 - B
 name: 'Unknown #125'
-meta_share: 0.0016
+meta_share: 0.0015
 list_count: 12
 top_cards:
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 4.0
 - name: Unearth
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -108,10 +108,10 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 0.3333
   avg_copies: 1.14
-- name: Requiting Hex
+- name: Bloodstained Mire
   weight: 0.3333
   avg_copies: 1.0
-- name: Bloodstained Mire
+- name: Requiting Hex
   weight: 0.3333
   avg_copies: 1.0
 - name: Subtlety
@@ -132,19 +132,19 @@ top_cards:
 - name: Shoot the Sheriff
   weight: 0.25
   avg_copies: 1.0
-- name: Cling to Dust
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Verdant Catacombs
   weight: 0.1667
   avg_copies: 1.0
-- name: Cursed Totem
-  weight: 0.0833
-  avg_copies: 2.0
+- name: Cling to Dust
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Bitter Triumph
   weight: 0.0833
   avg_copies: 2.0
 - name: Bloodchief's Thirst
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Cursed Totem
   weight: 0.0833
   avg_copies: 2.0
 - name: Snapcaster Mage

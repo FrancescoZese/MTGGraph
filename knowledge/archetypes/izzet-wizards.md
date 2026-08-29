@@ -9,10 +9,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 4.54
-- name: Counterspell
+- name: Flame of Anor
   weight: 1.0
   avg_copies: 3.92
-- name: Flame of Anor
+- name: Counterspell
   weight: 1.0
   avg_copies: 3.92
 - name: Snapcaster Mage
@@ -102,10 +102,10 @@ top_cards:
 - name: Tishana's Tidebinder
   weight: 0.3077
   avg_copies: 3.0
-- name: Invert Polarity
+- name: Lórien Revealed
   weight: 0.3077
   avg_copies: 2.0
-- name: Lórien Revealed
+- name: Invert Polarity
   weight: 0.3077
   avg_copies: 2.0
 - name: Ghost Vacuum
@@ -156,13 +156,16 @@ top_cards:
 - name: Unholy Heat
   weight: 0.0769
   avg_copies: 4.0
-- name: Marang River Regent
-  weight: 0.0769
-  avg_copies: 3.0
 - name: Soul-Guide Lantern
   weight: 0.0769
   avg_copies: 3.0
-- name: Spirebluff Canal
+- name: Marang River Regent
+  weight: 0.0769
+  avg_copies: 3.0
+- name: Expressive Iteration
+  weight: 0.0769
+  avg_copies: 2.0
+- name: Den of the Bugbear
   weight: 0.0769
   avg_copies: 2.0
 - name: Engineered Explosives
@@ -171,16 +174,22 @@ top_cards:
 - name: Field of Ruin
   weight: 0.0769
   avg_copies: 2.0
-- name: Expressive Iteration
+- name: Spirebluff Canal
   weight: 0.0769
   avg_copies: 2.0
 - name: Brainsurge
   weight: 0.0769
   avg_copies: 2.0
-- name: Den of the Bugbear
+- name: Hurkyl's Recall
   weight: 0.0769
-  avg_copies: 2.0
+  avg_copies: 1.0
+- name: Riverpyre Verge
+  weight: 0.0769
+  avg_copies: 1.0
 - name: Stone of Erech
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Vampires' Vengeance
   weight: 0.0769
   avg_copies: 1.0
 - name: card:flashfires
@@ -192,31 +201,22 @@ top_cards:
 - name: Great Hall of the Biblioplex
   weight: 0.0769
   avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Vexing Bauble
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Agna Qel'a
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Riverpyre Verge
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Arid Mesa
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Unlicensed Hearse
-  weight: 0.0769
-  avg_copies: 1.0
 - name: Vedalken Shackles
   weight: 0.0769
   avg_copies: 1.0
 - name: Annul
   weight: 0.0769
   avg_copies: 1.0
-- name: Vampires' Vengeance
+- name: Agna Qel'a
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Arid Mesa
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Vexing Bauble
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Unlicensed Hearse
   weight: 0.0769
   avg_copies: 1.0
 ---

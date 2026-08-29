@@ -9,10 +9,10 @@ type: Land // Land
 meta_presence: 0.0051
 archetypes:
   cosmogoyf-fling:
-    weight: 0.4833
-    avg_copies: 1.86
+    weight: 0.4918
+    avg_copies: 1.9
   goryo5:
-    weight: 0.025
+    weight: 0.0238
     avg_copies: 2.0
   unknown-211:
     weight: 1.0

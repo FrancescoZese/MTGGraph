@@ -10,20 +10,20 @@ type: Sorcery
 meta_presence: 0.0488
 archetypes:
   ruby-storm:
-    weight: 0.6567
-    avg_copies: 1.49
+    weight: 0.6605
+    avg_copies: 1.5
   jeskai-energy:
     weight: 0.0074
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.1258
+    weight: 0.1234
     avg_copies: 1.05
   reanimator:
     weight: 0.1111
     avg_copies: 1.67
   mono-red-belcher:
-    weight: 0.7692
-    avg_copies: 2.5
+    weight: 0.7857
+    avg_copies: 2.45
   boros-ponza:
     weight: 0.0638
     avg_copies: 1.0
@@ -40,7 +40,7 @@ archetypes:
     weight: 0.2
     avg_copies: 1.0
   goryo0:
-    weight: 0.1364
+    weight: 0.1304
     avg_copies: 1.67
   izzet-murktide:
     weight: 1.0
@@ -52,8 +52,8 @@ archetypes:
     weight: 0.8
     avg_copies: 1.25
   unknown-8:
-    weight: 0.5
-    avg_copies: 2.0
+    weight: 0.6667
+    avg_copies: 2.5
   unknown-32:
     weight: 1.0
     avg_copies: 1.0
@@ -61,7 +61,7 @@ archetypes:
     weight: 0.8276
     avg_copies: 2.19
   unknown-67:
-    weight: 0.6636
+    weight: 0.6697
     avg_copies: 1.77
   unknown-85:
     weight: 0.0588
@@ -73,11 +73,11 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-101:
-    weight: 0.0323
+    weight: 0.0312
     avg_copies: 2.0
   unknown-121:
     weight: 1.0
-    avg_copies: 1.5
+    avg_copies: 1.4
   unknown-136:
     weight: 1.0
     avg_copies: 2.0
@@ -85,7 +85,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0198
+    weight: 0.0189
     avg_copies: 1.0
   unknown-177:
     weight: 0.3333

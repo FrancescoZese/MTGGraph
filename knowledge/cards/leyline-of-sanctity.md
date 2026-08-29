@@ -10,16 +10,16 @@ type: Enchantment
 meta_presence: 0.0051
 archetypes:
   mono-red-belcher:
-    weight: 0.0769
+    weight: 0.1429
     avg_copies: 4.0
   boros-ponza:
     weight: 0.0071
     avg_copies: 4.0
   cosmogoyf-fling:
-    weight: 0.45
+    weight: 0.4426
     avg_copies: 3.37
   goryo0:
-    weight: 0.1364
+    weight: 0.1304
     avg_copies: 3.0
   unknown-40:
     weight: 1.0
@@ -28,6 +28,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0495
+    weight: 0.0472
     avg_copies: 4.0
 ---

@@ -9,12 +9,12 @@ type: Artifact
 meta_presence: 0.0034
 archetypes:
   mono-red-belcher:
-    weight: 0.3846
+    weight: 0.3571
     avg_copies: 3.6
   boros-ponza:
     weight: 0.0071
     avg_copies: 2.0
   goryo0:
-    weight: 0.9091
-    avg_copies: 3.85
+    weight: 0.913
+    avg_copies: 3.86
 ---

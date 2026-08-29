@@ -10,7 +10,7 @@ type: Creature — Frog
 meta_presence: 0.0003
 archetypes:
   unknown-49:
-    weight: 0.0833
+    weight: 0.0769
     avg_copies: 1.0
   unknown-92:
     weight: 1.0

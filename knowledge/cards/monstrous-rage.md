@@ -7,16 +7,16 @@ name: Monstrous Rage
 scryfall_id: eef5a0ae-5907-42c9-a097-3f973737e392
 set: woe
 type: Instant
-meta_presence: 0.006
+meta_presence: 0.0064
 archetypes:
   izzet-prowess:
-    weight: 0.0991
-    avg_copies: 2.07
+    weight: 0.105
+    avg_copies: 2.02
   unknown-92:
     weight: 1.0
     avg_copies: 3.0
   unknown-122:
-    weight: 0.0645
+    weight: 0.0588
     avg_copies: 1.67
   unknown-217:
     weight: 1.0

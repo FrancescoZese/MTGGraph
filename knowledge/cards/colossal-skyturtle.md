@@ -11,9 +11,9 @@ type: Enchantment Creature — Turtle
 meta_presence: 0.021
 archetypes:
   living-end:
-    weight: 0.8846
+    weight: 0.8861
     avg_copies: 1.3
   unknown-67:
-    weight: 0.8692
+    weight: 0.8716
     avg_copies: 1.25
 ---

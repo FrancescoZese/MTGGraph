@@ -15,10 +15,10 @@ archetypes:
     weight: 0.2407
     avg_copies: 1.69
   jeskai-control:
-    weight: 0.0154
-    avg_copies: 1.0
+    weight: 0.0286
+    avg_copies: 1.5
   esper-blink:
-    weight: 0.0147
+    weight: 0.0139
     avg_copies: 1.0
   azorius-blink:
     weight: 0.0423
@@ -27,7 +27,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo2:
-    weight: 0.4038
+    weight: 0.3962
     avg_copies: 1.19
   unknown-3:
     weight: 1.0

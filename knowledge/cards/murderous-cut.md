@@ -10,10 +10,10 @@ type: Instant
 meta_presence: 0.0043
 archetypes:
   living-end:
-    weight: 0.0128
+    weight: 0.0127
     avg_copies: 1.0
   mill:
-    weight: 0.2973
+    weight: 0.3158
     avg_copies: 1.0
   hollow-one:
     weight: 0.1471
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.1354
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0056
+    weight: 0.0055
     avg_copies: 1.0
   unknown-218:
     weight: 1.0

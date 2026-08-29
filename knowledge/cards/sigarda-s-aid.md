@@ -7,11 +7,11 @@ name: Sigarda's Aid
 scryfall_id: 531da950-dc96-4050-94a8-e01b73ddd965
 set: cmr
 type: Enchantment
-meta_presence: 0.0005
+meta_presence: 0.0006
 archetypes:
   hammer-time:
-    weight: 0.1429
-    avg_copies: 2.0
+    weight: 0.1818
+    avg_copies: 2.25
   unknown-253:
     weight: 1.0
     avg_copies: 2.0

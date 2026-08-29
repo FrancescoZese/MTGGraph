@@ -6,7 +6,7 @@ colors:
 - G
 name: 'Unknown #67'
 meta_share: 0.0139
-list_count: 107
+list_count: 109
 top_cards:
 - name: Violent Outburst
   weight: 1.0
@@ -22,13 +22,13 @@ top_cards:
   avg_copies: 3.88
 - name: Endurance
   weight: 1.0
-  avg_copies: 3.81
+  avg_copies: 3.82
 - name: Generous Ent
   weight: 1.0
-  avg_copies: 3.8
+  avg_copies: 3.81
 - name: Mystical Dispute
   weight: 1.0
-  avg_copies: 3.47
+  avg_copies: 3.48
 - name: Living End
   weight: 1.0
   avg_copies: 3.02
@@ -41,236 +41,236 @@ top_cards:
 - name: Forest
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
 - name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
 - name: Misty Rainforest
-  weight: 0.9907
+  weight: 0.9908
   avg_copies: 3.82
 - name: Oliphaunt
-  weight: 0.9907
-  avg_copies: 2.39
+  weight: 0.9908
+  avg_copies: 2.4
 - name: Island
-  weight: 0.9907
+  weight: 0.9908
   avg_copies: 1.01
 - name: Thundering Falls
-  weight: 0.9907
+  weight: 0.9908
   avg_copies: 1.0
 - name: Street Wraith
-  weight: 0.9813
+  weight: 0.9817
   avg_copies: 3.81
 - name: Wistfulness
-  weight: 0.972
-  avg_copies: 3.7
+  weight: 0.9725
+  avg_copies: 3.71
 - name: Sink into Stupor
-  weight: 0.972
-  avg_copies: 1.49
+  weight: 0.9725
+  avg_copies: 1.48
 - name: Commercial District
-  weight: 0.9533
+  weight: 0.9541
   avg_copies: 1.0
 - name: Inevitable Betrayal
-  weight: 0.9252
+  weight: 0.9266
   avg_copies: 2.15
 - name: Force of Vigor
-  weight: 0.9252
+  weight: 0.9266
   avg_copies: 2.03
 - name: Colossal Skyturtle
-  weight: 0.8692
+  weight: 0.8716
   avg_copies: 1.25
 - name: Curator of Mysteries
-  weight: 0.7477
+  weight: 0.7339
   avg_copies: 3.62
 - name: Brotherhood's End
-  weight: 0.6636
+  weight: 0.6697
   avg_copies: 1.77
-- name: Mistrise Village
-  weight: 0.5701
-  avg_copies: 1.02
 - name: Waker of Waves
-  weight: 0.5607
+  weight: 0.5688
   avg_copies: 2.15
+- name: Mistrise Village
+  weight: 0.5596
+  avg_copies: 1.02
 - name: Striped Riverwinder
-  weight: 0.5327
-  avg_copies: 2.33
+  weight: 0.5413
+  avg_copies: 2.36
 - name: Boseiju, Who Endures
-  weight: 0.4766
+  weight: 0.4679
   avg_copies: 1.0
-- name: Foundation Breaker
-  weight: 0.4206
-  avg_copies: 1.62
 - name: Teferi, Time Raveler
-  weight: 0.4112
+  weight: 0.422
   avg_copies: 1.98
+- name: Foundation Breaker
+  weight: 0.4128
+  avg_copies: 1.62
 - name: Temple Garden
-  weight: 0.3925
+  weight: 0.4037
   avg_copies: 1.0
 - name: Clarion Conqueror
-  weight: 0.3645
-  avg_copies: 3.1
+  weight: 0.3761
+  avg_copies: 3.12
 - name: Otawara, Soaring City
-  weight: 0.3458
+  weight: 0.3394
   avg_copies: 1.0
 - name: Valakut Awakening
-  weight: 0.2991
-  avg_copies: 1.0
-- name: Ingot Chewer
-  weight: 0.243
-  avg_copies: 1.19
-- name: Scalding Tarn
-  weight: 0.2336
+  weight: 0.3119
   avg_copies: 1.0
 - name: Sacred Foundry
-  weight: 0.2336
+  weight: 0.2477
+  avg_copies: 1.0
+- name: Ingot Chewer
+  weight: 0.2385
+  avg_copies: 1.19
+- name: Scalding Tarn
+  weight: 0.2294
   avg_copies: 1.0
 - name: Dead
-  weight: 0.2056
+  weight: 0.2018
   avg_copies: 2.05
 - name: Deafening Silence
-  weight: 0.2056
+  weight: 0.2018
   avg_copies: 1.09
 - name: Damping Matrix
-  weight: 0.1776
+  weight: 0.1743
   avg_copies: 2.42
 - name: Vibrance
-  weight: 0.1776
+  weight: 0.1743
   avg_copies: 1.04
 - name: Dismember
-  weight: 0.1682
+  weight: 0.1651
   avg_copies: 1.39
 - name: Brazen Borrower
-  weight: 0.1495
+  weight: 0.1468
   avg_copies: 1.17
 - name: Wooded Foothills
-  weight: 0.1495
+  weight: 0.1468
   avg_copies: 1.06
 - name: Hallowed Fountain
-  weight: 0.1495
+  weight: 0.1468
   avg_copies: 1.0
 - name: Magebane Lizard
-  weight: 0.1308
+  weight: 0.1284
   avg_copies: 1.43
 - name: Blood Moon
-  weight: 0.1308
+  weight: 0.1284
   avg_copies: 1.36
 - name: Commandeer
-  weight: 0.1215
+  weight: 0.1193
   avg_copies: 1.38
 - name: Mountain
-  weight: 0.1121
+  weight: 0.1101
   avg_copies: 1.0
 - name: Leyline of the Void
-  weight: 0.1028
+  weight: 0.1009
   avg_copies: 3.0
 - name: Obsidian Charmaw
-  weight: 0.0841
+  weight: 0.0826
   avg_copies: 3.22
 - name: Fade from History
-  weight: 0.0841
+  weight: 0.0826
   avg_copies: 1.22
 - name: Faerie Macabre
-  weight: 0.0654
+  weight: 0.0642
   avg_copies: 1.12
 - name: Flooded Grove
-  weight: 0.0561
+  weight: 0.055
   avg_copies: 1.0
 - name: Quantum Riddler
-  weight: 0.0467
+  weight: 0.0459
   avg_copies: 1.12
 - name: Flare of Denial
-  weight: 0.0467
+  weight: 0.0459
   avg_copies: 1.0
 - name: Windcaller Aven
-  weight: 0.0187
+  weight: 0.0183
   avg_copies: 1.0
 - name: Ashiok, Dream Render
-  weight: 0.0187
+  weight: 0.0183
   avg_copies: 1.0
 - name: Press the Enemy
-  weight: 0.0187
+  weight: 0.0183
   avg_copies: 1.0
 - name: Overlord of the Balemurk
-  weight: 0.0093
+  weight: 0.0092
   avg_copies: 4.0
-- name: Fulminator Mage
-  weight: 0.0093
-  avg_copies: 3.0
-- name: Architects of Will
-  weight: 0.0093
-  avg_copies: 3.0
 - name: Polluted Delta
-  weight: 0.0093
+  weight: 0.0092
   avg_copies: 3.0
 - name: Cursed Totem
-  weight: 0.0093
+  weight: 0.0092
   avg_copies: 3.0
-- name: card:anger-of-the-gods
-  weight: 0.0093
-  avg_copies: 2.0
-- name: Harbinger of the Seas
-  weight: 0.0093
-  avg_copies: 2.0
-- name: Bonecrusher Giant
-  weight: 0.0093
-  avg_copies: 2.0
+- name: Fulminator Mage
+  weight: 0.0092
+  avg_copies: 3.0
+- name: Architects of Will
+  weight: 0.0092
+  avg_copies: 3.0
 - name: Culling Ritual
-  weight: 0.0093
+  weight: 0.0092
   avg_copies: 2.0
 - name: Stormkeld Vanguard
-  weight: 0.0093
+  weight: 0.0092
+  avg_copies: 2.0
+- name: card:anger-of-the-gods
+  weight: 0.0092
   avg_copies: 2.0
 - name: card:runescale-stormbrood
-  weight: 0.0093
+  weight: 0.0092
   avg_copies: 2.0
 - name: Vendilion Clique
-  weight: 0.0093
+  weight: 0.0092
   avg_copies: 2.0
-- name: Fire
-  weight: 0.0093
+- name: Bonecrusher Giant
+  weight: 0.0092
+  avg_copies: 2.0
+- name: Harbinger of the Seas
+  weight: 0.0092
+  avg_copies: 2.0
+- name: Flooded Strand
+  weight: 0.0092
   avg_copies: 1.0
 - name: Underground Mortuary
-  weight: 0.0093
+  weight: 0.0092
   avg_copies: 1.0
-- name: Flooded Strand
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Overgrown Tomb
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Kataki, War's Wage
-  weight: 0.0093
-  avg_copies: 1.0
-- name: High Noon
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Arid Mesa
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 0.0093
+- name: Fire
+  weight: 0.0092
   avg_copies: 1.0
 - name: Tokka & Rahzar, Terrible Twos
-  weight: 0.0093
+  weight: 0.0092
+  avg_copies: 1.0
+- name: Kataki, War's Wage
+  weight: 0.0092
+  avg_copies: 1.0
+- name: High Noon
+  weight: 0.0092
   avg_copies: 1.0
 - name: Rough
-  weight: 0.0093
+  weight: 0.0092
   avg_copies: 1.0
-- name: Brainsurge
-  weight: 0.0093
+- name: Meticulous Archive
+  weight: 0.0092
+  avg_copies: 1.0
+- name: Overgrown Tomb
+  weight: 0.0092
   avg_copies: 1.0
 - name: card:cascade-bluffs
-  weight: 0.0093
-  avg_copies: 1.0
-- name: Harvester of Misery
-  weight: 0.0093
+  weight: 0.0092
   avg_copies: 1.0
 - name: Gemstone Caverns
-  weight: 0.0093
+  weight: 0.0092
+  avg_copies: 1.0
+- name: Harvester of Misery
+  weight: 0.0092
+  avg_copies: 1.0
+- name: Arid Mesa
+  weight: 0.0092
+  avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 0.0092
+  avg_copies: 1.0
+- name: Brainsurge
+  weight: 0.0092
   avg_copies: 1.0
 ---
 Unclassified archetype, pending review.
