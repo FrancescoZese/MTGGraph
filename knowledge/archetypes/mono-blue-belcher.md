@@ -2,7 +2,7 @@
 colors:
 - U
 name: Mono Blue Belcher
-meta_share: 0.0128
+meta_share: 0.0127
 list_count: 101
 top_cards:
 - name: Whir of Invention
@@ -155,40 +155,40 @@ top_cards:
 - name: Wan Shi Tong, Librarian
   weight: 0.0099
   avg_copies: 2.0
-- name: Erode
-  weight: 0.0099
-  avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.0099
-  avg_copies: 1.0
-- name: Subtlety
-  weight: 0.0099
-  avg_copies: 1.0
-- name: card:threads-of-disloyalty
-  weight: 0.0099
-  avg_copies: 1.0
-- name: Dress Down
-  weight: 0.0099
-  avg_copies: 1.0
-- name: Isochron Scepter
-  weight: 0.0099
-  avg_copies: 1.0
-- name: Shadow of Doubt
-  weight: 0.0099
-  avg_copies: 1.0
-- name: Witch Enchanter
-  weight: 0.0099
-  avg_copies: 1.0
-- name: card:snapback
-  weight: 0.0099
-  avg_copies: 1.0
-- name: Displacement Wave
+- name: card:diary-of-dreams
   weight: 0.0099
   avg_copies: 1.0
 - name: Hope of Ghirapur
   weight: 0.0099
   avg_copies: 1.0
-- name: card:diary-of-dreams
+- name: card:snapback
+  weight: 0.0099
+  avg_copies: 1.0
+- name: Shadow of Doubt
+  weight: 0.0099
+  avg_copies: 1.0
+- name: Dress Down
+  weight: 0.0099
+  avg_copies: 1.0
+- name: Surgical Extraction
+  weight: 0.0099
+  avg_copies: 1.0
+- name: card:threads-of-disloyalty
+  weight: 0.0099
+  avg_copies: 1.0
+- name: Subtlety
+  weight: 0.0099
+  avg_copies: 1.0
+- name: Witch Enchanter
+  weight: 0.0099
+  avg_copies: 1.0
+- name: Isochron Scepter
+  weight: 0.0099
+  avg_copies: 1.0
+- name: Displacement Wave
+  weight: 0.0099
+  avg_copies: 1.0
+- name: Erode
   weight: 0.0099
   avg_copies: 1.0
 - name: Ashiok, Dream Render

@@ -12,28 +12,28 @@ top_cards:
 - name: Windswept Heath
   weight: 1.0
   avg_copies: 4.0
-- name: card:slippery-bogle
+- name: Horizon Canopy
   weight: 1.0
   avg_copies: 4.0
 - name: card:razorverge-thicket
   weight: 1.0
   avg_copies: 4.0
-- name: card:daybreak-coronet
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:sheltered-by-ghosts
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:gladecover-scout
-  weight: 1.0
-  avg_copies: 4.0
-- name: Horizon Canopy
+- name: card:spider-umbra
   weight: 1.0
   avg_copies: 4.0
 - name: card:ethereal-armor
   weight: 1.0
   avg_copies: 4.0
-- name: card:spider-umbra
+- name: card:daybreak-coronet
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:slippery-bogle
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:gladecover-scout
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:sheltered-by-ghosts
   weight: 1.0
   avg_copies: 4.0
 - name: card:kor-spiritdancer
@@ -51,16 +51,16 @@ top_cards:
 - name: card:spirit-mantle
   weight: 1.0
   avg_copies: 3.0
-- name: Damping Sphere
+- name: Rest in Peace
   weight: 1.0
   avg_copies: 2.5
-- name: Gaddock Teeg
+- name: Damping Sphere
   weight: 1.0
   avg_copies: 2.5
 - name: Sanctifier en-Vec
   weight: 1.0
   avg_copies: 2.5
-- name: Rest in Peace
+- name: Gaddock Teeg
   weight: 1.0
   avg_copies: 2.5
 - name: card:hyena-umbra

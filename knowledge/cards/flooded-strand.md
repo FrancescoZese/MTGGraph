@@ -6,10 +6,10 @@ name: Flooded Strand
 scryfall_id: 8f85e12c-196b-4459-b81f-0c9c854e9f57
 set: mh3
 type: Land
-meta_presence: 0.3533
+meta_presence: 0.3534
 archetypes:
   boros-energy:
-    weight: 0.8539
+    weight: 0.8545
     avg_copies: 3.4
   dimir-control:
     weight: 0.8765
@@ -18,8 +18,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.87
   goryo:
-    weight: 0.9955
-    avg_copies: 3.48
+    weight: 0.9956
+    avg_copies: 3.49
   azorius-control:
     weight: 1.0
     avg_copies: 3.93
@@ -30,10 +30,10 @@ archetypes:
     weight: 1.0
     avg_copies: 3.93
   affinity:
-    weight: 0.0158
+    weight: 0.0157
     avg_copies: 1.89
   domain-zoo:
-    weight: 0.987
+    weight: 0.9871
     avg_copies: 3.85
   mill:
     weight: 0.8158
@@ -42,8 +42,8 @@ archetypes:
     weight: 0.037
     avg_copies: 4.0
   neoform-combo:
-    weight: 0.7479
-    avg_copies: 1.12
+    weight: 0.7541
+    avg_copies: 1.14
   hammer-time:
     weight: 0.7273
     avg_copies: 2.75
@@ -54,7 +54,7 @@ archetypes:
     weight: 0.08
     avg_copies: 1.5
   izzet-prowess:
-    weight: 0.0046
+    weight: 0.0045
     avg_copies: 1.0
   4c-omnath:
     weight: 1.0
@@ -69,8 +69,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.9577
-    avg_copies: 3.04
+    weight: 0.9583
+    avg_copies: 3.06
   izzet-artifacts:
     weight: 0.25
     avg_copies: 1.0
@@ -144,8 +144,8 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   unknown-47:
-    weight: 0.8901
-    avg_copies: 2.47
+    weight: 0.8925
+    avg_copies: 2.46
   unknown-51:
     weight: 1.0
     avg_copies: 4.0
@@ -168,7 +168,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-67:
-    weight: 0.0092
+    weight: 0.009
     avg_copies: 1.0
   unknown-68:
     weight: 0.5952
@@ -249,7 +249,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-122:
-    weight: 0.0294
+    weight: 0.0286
     avg_copies: 1.0
   unknown-125:
     weight: 0.6667
@@ -402,6 +402,9 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-270:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-279:
     weight: 1.0
     avg_copies: 4.0
   unknown-275:

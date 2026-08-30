@@ -6,16 +6,16 @@ name: 'Unknown #97'
 meta_share: 0.0028
 list_count: 22
 top_cards:
-- name: Sowing Mycospawn
+- name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
 - name: Utopia Sprawl
   weight: 1.0
   avg_copies: 4.0
-- name: Ugin's Labyrinth
+- name: Eldrazi Temple
   weight: 1.0
   avg_copies: 4.0
-- name: Eldrazi Temple
+- name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
 - name: Kozilek's Command
@@ -102,10 +102,10 @@ top_cards:
 - name: Disruptor Flute
   weight: 0.3636
   avg_copies: 1.44
-- name: Kishla Village
+- name: Bojuka Bog
   weight: 0.3636
   avg_copies: 1.0
-- name: Bojuka Bog
+- name: Kishla Village
   weight: 0.3636
   avg_copies: 1.0
 - name: Cavern of Souls
@@ -123,19 +123,19 @@ top_cards:
 - name: Nulldrifter
   weight: 0.2273
   avg_copies: 1.6
-- name: Shifting Woodland
-  weight: 0.2273
-  avg_copies: 1.0
 - name: Hedge Maze
   weight: 0.2273
   avg_copies: 1.0
 - name: Breeding Pool
   weight: 0.2273
   avg_copies: 1.0
-- name: Nature's Claim
+- name: Shifting Woodland
+  weight: 0.2273
+  avg_copies: 1.0
+- name: Strix Serenade
   weight: 0.1818
   avg_copies: 2.25
-- name: Strix Serenade
+- name: Nature's Claim
   weight: 0.1818
   avg_copies: 2.25
 - name: Force of Vigor
@@ -153,46 +153,37 @@ top_cards:
 - name: Faerie Macabre
   weight: 0.0909
   avg_copies: 1.5
-- name: Surgical Extraction
-  weight: 0.0909
-  avg_copies: 1.5
 - name: Soulless Jailer
   weight: 0.0909
   avg_copies: 1.5
-- name: Karn, the Great Creator
-  weight: 0.0455
-  avg_copies: 3.0
-- name: Kozilek's Return
-  weight: 0.0455
-  avg_copies: 3.0
+- name: Surgical Extraction
+  weight: 0.0909
+  avg_copies: 1.5
 - name: Thought-Knot Seer
   weight: 0.0455
   avg_copies: 3.0
 - name: Wastescape Battlemage
   weight: 0.0455
   avg_copies: 3.0
-- name: Assassin's Trophy
+- name: Kozilek's Return
   weight: 0.0455
-  avg_copies: 2.0
-- name: card:golgari-charm
+  avg_copies: 3.0
+- name: Karn, the Great Creator
+  weight: 0.0455
+  avg_copies: 3.0
+- name: Damnation
   weight: 0.0455
   avg_copies: 2.0
 - name: Go Blank
   weight: 0.0455
   avg_copies: 2.0
-- name: Vandalblast
-  weight: 0.0455
-  avg_copies: 2.0
-- name: Damping Sphere
-  weight: 0.0455
-  avg_copies: 2.0
-- name: Damnation
+- name: Assassin's Trophy
   weight: 0.0455
   avg_copies: 2.0
 - name: Warping Wail
   weight: 0.0455
   avg_copies: 2.0
-- name: Dismember
+- name: Vandalblast
   weight: 0.0455
   avg_copies: 2.0
 - name: Witherbloom Charm
@@ -204,19 +195,25 @@ top_cards:
 - name: Talisman of Impulse
   weight: 0.0455
   avg_copies: 2.0
-- name: Chalice of the Void
+- name: Damping Sphere
   weight: 0.0455
-  avg_copies: 1.0
-- name: Palantír of Orthanc
+  avg_copies: 2.0
+- name: Dismember
   weight: 0.0455
-  avg_copies: 1.0
-- name: Stomping Ground
+  avg_copies: 2.0
+- name: card:golgari-charm
+  weight: 0.0455
+  avg_copies: 2.0
+- name: Commercial District
   weight: 0.0455
   avg_copies: 1.0
 - name: Haywire Mite
   weight: 0.0455
   avg_copies: 1.0
-- name: Commercial District
+- name: Liquimetal Coating
+  weight: 0.0455
+  avg_copies: 1.0
+- name: All Is Dust
   weight: 0.0455
   avg_copies: 1.0
 - name: Ensnaring Bridge
@@ -225,19 +222,22 @@ top_cards:
 - name: Pithing Needle
   weight: 0.0455
   avg_copies: 1.0
-- name: All Is Dust
+- name: Boseiju, Who Endures
   weight: 0.0455
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Tormod's Crypt
   weight: 0.0455
   avg_copies: 1.0
 - name: Tireless Tracker
   weight: 0.0455
   avg_copies: 1.0
-- name: Liquimetal Coating
+- name: Stomping Ground
   weight: 0.0455
   avg_copies: 1.0
-- name: Tormod's Crypt
+- name: Chalice of the Void
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Palantír of Orthanc
   weight: 0.0455
   avg_copies: 1.0
 ---

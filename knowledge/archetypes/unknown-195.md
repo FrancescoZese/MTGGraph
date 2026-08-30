@@ -6,13 +6,13 @@ name: 'Unknown #195'
 meta_share: 0.0003
 list_count: 2
 top_cards:
-- name: Leyline Axe
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:slippery-bogle
+- name: Colossus Hammer
   weight: 1.0
   avg_copies: 4.0
 - name: Ornithopter
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:super-soldier-serum
   weight: 1.0
   avg_copies: 4.0
 - name: Kappa Cannoneer
@@ -21,16 +21,16 @@ top_cards:
 - name: Memnite
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Saga
-  weight: 1.0
-  avg_copies: 4.0
 - name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
-- name: card:super-soldier-serum
+- name: Leyline Axe
   weight: 1.0
   avg_copies: 4.0
-- name: Colossus Hammer
+- name: Urza's Saga
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:slippery-bogle
   weight: 1.0
   avg_copies: 4.0
 - name: Welding Jar
@@ -42,31 +42,31 @@ top_cards:
 - name: Puresteel Paladin
   weight: 1.0
   avg_copies: 3.5
-- name: Damping Sphere
+- name: Seachrome Coast
   weight: 1.0
   avg_copies: 3.0
-- name: Metallic Rebuke
+- name: Damping Sphere
   weight: 1.0
   avg_copies: 3.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
-- name: Seachrome Coast
+- name: Metallic Rebuke
   weight: 1.0
   avg_copies: 3.0
-- name: Hallowed Fountain
-  weight: 1.0
-  avg_copies: 2.0
 - name: Plains
-  weight: 1.0
-  avg_copies: 2.0
-- name: Flooded Strand
   weight: 1.0
   avg_copies: 2.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 2.0
-- name: Meticulous Archive
+- name: Hallowed Fountain
+  weight: 1.0
+  avg_copies: 2.0
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 2.0
+- name: Rest in Peace
   weight: 1.0
   avg_copies: 1.0
 - name: Shadowspear
@@ -75,7 +75,7 @@ top_cards:
 - name: Lavaspur Boots
   weight: 1.0
   avg_copies: 1.0
-- name: Rest in Peace
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: card:all-that-glitters

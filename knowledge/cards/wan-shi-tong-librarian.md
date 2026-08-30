@@ -19,16 +19,16 @@ archetypes:
     weight: 0.0074
     avg_copies: 1.0
   azorius-control:
-    weight: 0.037
+    weight: 0.0367
     avg_copies: 1.25
   jeskai-control:
     weight: 0.0143
     avg_copies: 2.0
   neoform-combo:
-    weight: 0.0168
+    weight: 0.0164
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.0423
+    weight: 0.0417
     avg_copies: 1.33
   esper-control:
     weight: 1.0
@@ -46,8 +46,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-47:
-    weight: 0.1099
-    avg_copies: 1.15
+    weight: 0.1129
+    avg_copies: 1.14
   unknown-87:
     weight: 1.0
     avg_copies: 1.0

@@ -9,8 +9,8 @@ type: Basic Land
 meta_presence: 0.0306
 archetypes:
   eldrazi-tron:
-    weight: 0.5073
-    avg_copies: 1.05
+    weight: 0.5043
+    avg_copies: 1.04
   broodscale-combo:
     weight: 0.0208
     avg_copies: 1.0

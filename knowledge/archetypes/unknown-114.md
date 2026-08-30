@@ -9,49 +9,49 @@ name: 'Unknown #114'
 meta_share: 0.0003
 list_count: 2
 top_cards:
+- name: Green Sun's Zenith
+  weight: 1.0
+  avg_copies: 4.0
 - name: Leyline Binding
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Green Sun's Zenith
-  weight: 1.0
-  avg_copies: 4.0
-- name: Endurance
-  weight: 1.0
-  avg_copies: 3.0
-- name: Wrenn and Six
-  weight: 1.0
-  avg_copies: 3.0
-- name: Badgermole Cub
-  weight: 1.0
-  avg_copies: 3.0
-- name: Windswept Heath
-  weight: 1.0
-  avg_copies: 3.0
-- name: Flooded Strand
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 3.0
 - name: Misty Rainforest
   weight: 1.0
   avg_copies: 3.0
-- name: Delighted Halfling
+- name: Windswept Heath
+  weight: 1.0
+  avg_copies: 3.0
+- name: Badgermole Cub
   weight: 1.0
   avg_copies: 3.0
 - name: Omnath, Locus of Creation
   weight: 1.0
   avg_copies: 3.0
-- name: Mystical Dispute
+- name: Wrenn and Six
   weight: 1.0
   avg_copies: 3.0
+- name: Endurance
+  weight: 1.0
+  avg_copies: 3.0
+- name: Delighted Halfling
+  weight: 1.0
+  avg_copies: 3.0
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 3.0
+- name: Teferi, Time Raveler
+  weight: 1.0
+  avg_copies: 2.5
 - name: Obsidian Charmaw
   weight: 1.0
   avg_copies: 2.5
 - name: Consign to Memory
-  weight: 1.0
-  avg_copies: 2.5
-- name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 2.5
 - name: Prismatic Ending
@@ -63,16 +63,22 @@ top_cards:
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 1.5
+- name: Atraxa, Grand Unifier
+  weight: 1.0
+  avg_copies: 1.0
 - name: Snow-Covered Plains
   weight: 1.0
   avg_copies: 1.0
-- name: Temple Garden
+- name: Grist, the Hunger Tide
+  weight: 1.0
+  avg_copies: 1.0
+- name: Emeritus of Abundance
   weight: 1.0
   avg_copies: 1.0
 - name: Lush Portico
   weight: 1.0
   avg_copies: 1.0
-- name: Overgrown Tomb
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
 - name: Elegant Parlor
@@ -81,10 +87,10 @@ top_cards:
 - name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
-- name: Grist, the Hunger Tide
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
-- name: Xander's Lounge
+- name: Overgrown Tomb
   weight: 1.0
   avg_copies: 1.0
 - name: Six
@@ -96,22 +102,16 @@ top_cards:
 - name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
-- name: Atraxa, Grand Unifier
-  weight: 1.0
-  avg_copies: 1.0
-- name: Emeritus of Abundance
+- name: Snow-Covered Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 1.0
-  avg_copies: 1.0
-- name: Snow-Covered Forest
-  weight: 1.0
-  avg_copies: 1.0
 - name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
+- name: Xander's Lounge
   weight: 1.0
   avg_copies: 1.0
 ---

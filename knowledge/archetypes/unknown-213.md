@@ -3,16 +3,16 @@ colors:
 - W
 - U
 name: 'Unknown #213'
-meta_share: 0.0017
+meta_share: 0.0016
 list_count: 13
 top_cards:
+- name: Tamiyo, Inquisitive Student
+  weight: 1.0
+  avg_copies: 4.0
 - name: Emry, Lurker of the Loch
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
@@ -42,16 +42,16 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.62
-- name: Damping Sphere
+- name: Skateboard
   weight: 1.0
   avg_copies: 1.0
 - name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
-- name: Skateboard
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.0
-- name: Vexing Bauble
+- name: Damping Sphere
   weight: 1.0
   avg_copies: 1.0
 - name: Aether Spellbomb
@@ -72,10 +72,10 @@ top_cards:
 - name: Sewer-veillance Cam
   weight: 0.7692
   avg_copies: 2.1
-- name: Disruptor Flute
+- name: Grinding Station
   weight: 0.7692
   avg_copies: 1.0
-- name: Grinding Station
+- name: Disruptor Flute
   weight: 0.7692
   avg_copies: 1.0
 - name: card:urza-lord-high-artificer
@@ -87,10 +87,10 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 0.6154
   avg_copies: 2.12
-- name: Scalding Tarn
+- name: Meticulous Archive
   weight: 0.6154
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Scalding Tarn
   weight: 0.6154
   avg_copies: 1.0
 - name: Force of Negation
@@ -108,28 +108,28 @@ top_cards:
 - name: Metallic Rebuke
   weight: 0.4615
   avg_copies: 2.83
+- name: Plains
+  weight: 0.4615
+  avg_copies: 1.0
 - name: card:thopter-foundry
   weight: 0.4615
   avg_copies: 1.0
 - name: Nettlecyst
   weight: 0.4615
   avg_copies: 1.0
-- name: Plains
+- name: Cryogen Relic
   weight: 0.4615
   avg_copies: 1.0
 - name: card:sword-of-the-meek
   weight: 0.4615
   avg_copies: 1.0
-- name: Cryogen Relic
-  weight: 0.4615
-  avg_copies: 1.0
 - name: Quantum Riddler
   weight: 0.3846
   avg_copies: 1.29
-- name: Polluted Delta
+- name: card:scrabbling-claws
   weight: 0.3846
   avg_copies: 1.0
-- name: card:scrabbling-claws
+- name: Polluted Delta
   weight: 0.3846
   avg_copies: 1.0
 - name: Soul-Guide Lantern
@@ -150,7 +150,7 @@ top_cards:
 - name: Spell Snare
   weight: 0.2308
   avg_copies: 2.0
-- name: Dispatch
+- name: Glimmervoid
   weight: 0.2308
   avg_copies: 1.0
 - name: Counterspell
@@ -159,7 +159,7 @@ top_cards:
 - name: Haywire Mite
   weight: 0.2308
   avg_copies: 1.0
-- name: Glimmervoid
+- name: Dispatch
   weight: 0.2308
   avg_copies: 1.0
 - name: Prismatic Ending
@@ -180,37 +180,37 @@ top_cards:
 - name: Teferi, Hero of Dominaria
   weight: 0.0769
   avg_copies: 3.0
-- name: Erode
+- name: card:the-wondrous-wasp
   weight: 0.0769
   avg_copies: 2.0
-- name: card:the-wondrous-wasp
+- name: Erode
   weight: 0.0769
   avg_copies: 2.0
 - name: card:barbed-spike
   weight: 0.0769
   avg_copies: 1.0
-- name: Isochron Scepter
-  weight: 0.0769
-  avg_copies: 1.0
 - name: card:combat-courier
   weight: 0.0769
   avg_copies: 1.0
-- name: Ratchet Bomb
-  weight: 0.0769
-  avg_copies: 1.0
-- name: card:key-to-the-side-door
+- name: Welding Jar
   weight: 0.0769
   avg_copies: 1.0
 - name: Hope of Ghirapur
   weight: 0.0769
   avg_copies: 1.0
-- name: card:sculpting-steel
-  weight: 0.0769
-  avg_copies: 1.0
 - name: Relic of Progenitus
   weight: 0.0769
   avg_copies: 1.0
-- name: Welding Jar
+- name: Ratchet Bomb
+  weight: 0.0769
+  avg_copies: 1.0
+- name: card:sculpting-steel
+  weight: 0.0769
+  avg_copies: 1.0
+- name: card:key-to-the-side-door
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Isochron Scepter
   weight: 0.0769
   avg_copies: 1.0
 ---

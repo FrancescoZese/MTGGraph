@@ -7,15 +7,15 @@ name: Traverse the Ulvenwald
 scryfall_id: 77b459cb-994c-430d-b0a6-59a8dd20adbd
 set: inr
 type: Sorcery
-meta_presence: 0.0052
+meta_presence: 0.0053
 archetypes:
   broodscale-combo:
-    weight: 0.0952
+    weight: 0.095
     avg_copies: 1.59
   unknown-90:
     weight: 1.0
     avg_copies: 3.0
   unknown-194:
-    weight: 0.1538
-    avg_copies: 1.12
+    weight: 0.1475
+    avg_copies: 1.11
 ---

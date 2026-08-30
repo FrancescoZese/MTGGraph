@@ -3,7 +3,7 @@ colors:
 - B
 - G
 name: Yawgmoth Combo
-meta_share: 0.0122
+meta_share: 0.0121
 list_count: 96
 top_cards:
 - name: Verdant Catacombs
@@ -144,10 +144,10 @@ top_cards:
 - name: Witherbloom Charm
   weight: 0.1042
   avg_copies: 1.07
-- name: Essence Warden
+- name: card:guerrilla-gorilla
   weight: 0.0729
   avg_copies: 1.0
-- name: card:guerrilla-gorilla
+- name: Essence Warden
   weight: 0.0729
   avg_copies: 1.0
 - name: Chalice of the Void
@@ -159,16 +159,16 @@ top_cards:
 - name: Shifting Woodland
   weight: 0.0417
   avg_copies: 1.25
-- name: card:mole-man-moloid-master
+- name: Crime
   weight: 0.0312
   avg_copies: 1.0
 - name: Ghost Quarter
   weight: 0.0312
   avg_copies: 1.0
-- name: Crime
+- name: Icetill Explorer
   weight: 0.0312
   avg_copies: 1.0
-- name: Icetill Explorer
+- name: card:mole-man-moloid-master
   weight: 0.0312
   avg_copies: 1.0
 - name: Assassin's Trophy
@@ -177,15 +177,24 @@ top_cards:
 - name: Cankerbloom
   weight: 0.0208
   avg_copies: 1.0
+- name: Pawpatch Formation
+  weight: 0.0104
+  avg_copies: 2.0
 - name: card:wastewood-verge
   weight: 0.0104
   avg_copies: 2.0
 - name: Tourach, Dread Cantor
   weight: 0.0104
   avg_copies: 2.0
-- name: Pawpatch Formation
+- name: Creeping Corrosion
   weight: 0.0104
-  avg_copies: 2.0
+  avg_copies: 1.0
+- name: Fade from History
+  weight: 0.0104
+  avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 0.0104
+  avg_copies: 1.0
 - name: Vicious Rivalry
   weight: 0.0104
   avg_copies: 1.0
@@ -195,28 +204,19 @@ top_cards:
 - name: Sylvan Safekeeper
   weight: 0.0104
   avg_copies: 1.0
-- name: Creeping Corrosion
-  weight: 0.0104
-  avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.0104
-  avg_copies: 1.0
 - name: Nurturing Peatland
   weight: 0.0104
   avg_copies: 1.0
-- name: Fade from History
+- name: Phyrexian Tower
+  weight: 0.0104
+  avg_copies: 1.0
+- name: Surgical Extraction
   weight: 0.0104
   avg_copies: 1.0
 - name: Spore Frog
   weight: 0.0104
   avg_copies: 1.0
 - name: Chomping Changeling
-  weight: 0.0104
-  avg_copies: 1.0
-- name: Phyrexian Tower
-  weight: 0.0104
-  avg_copies: 1.0
-- name: Collector Ouphe
   weight: 0.0104
   avg_copies: 1.0
 ---

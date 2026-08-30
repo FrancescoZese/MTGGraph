@@ -7,25 +7,25 @@ name: Thoughtseize
 scryfall_id: b281a308-ab6b-47b6-bec7-632c9aaecede
 set: 2xm
 type: Sorcery
-meta_presence: 0.2454
+meta_presence: 0.2461
 archetypes:
   ruby-storm:
-    weight: 0.0111
+    weight: 0.011
     avg_copies: 2.67
   dimir-control:
     weight: 0.5432
     avg_copies: 2.94
   eldrazi-tron:
-    weight: 0.0087
+    weight: 0.0086
     avg_copies: 4.0
   goryo:
-    weight: 0.9688
+    weight: 0.9693
     avg_copies: 2.54
   necrodominance:
     weight: 0.8696
     avg_copies: 3.95
   domain-zoo:
-    weight: 0.0195
+    weight: 0.0194
     avg_copies: 2.0
   reanimator:
     weight: 0.8889
@@ -43,10 +43,10 @@ archetypes:
     weight: 0.01
     avg_copies: 4.0
   izzet-prowess:
-    weight: 0.0342
+    weight: 0.0339
     avg_copies: 3.2
   esper-blink:
-    weight: 0.9815
+    weight: 0.9817
     avg_copies: 3.65
   samwise-combo:
     weight: 0.8108
@@ -88,8 +88,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   goryo1:
-    weight: 0.9688
-    avg_copies: 3.86
+    weight: 0.9689
+    avg_copies: 3.84
   goryo5:
     weight: 1.0
     avg_copies: 3.79
@@ -157,7 +157,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.2
   unknown-47:
-    weight: 0.9945
+    weight: 0.9946
     avg_copies: 3.76
   unknown-50:
     weight: 1.0
@@ -202,8 +202,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-96:
-    weight: 0.0417
-    avg_copies: 3.67
+    weight: 0.0526
+    avg_copies: 3.75
   unknown-90:
     weight: 1.0
     avg_copies: 4.0
@@ -211,7 +211,7 @@ archetypes:
     weight: 0.6818
     avg_copies: 3.06
   unknown-101:
-    weight: 0.8125
+    weight: 0.8235
     avg_copies: 2.05
   unknown-105:
     weight: 1.0
@@ -232,7 +232,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.89
   unknown-122:
-    weight: 0.0882
+    weight: 0.0857
     avg_copies: 4.0
   unknown-123:
     weight: 1.0
@@ -241,7 +241,7 @@ archetypes:
     weight: 0.75
     avg_copies: 2.79
   unknown-126:
-    weight: 0.3636
+    weight: 0.3675
     avg_copies: 2.23
   unknown-131:
     weight: 0.7

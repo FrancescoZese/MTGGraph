@@ -12,13 +12,13 @@ top_cards:
 - name: Field of Ruin
   weight: 1.0
   avg_copies: 4.0
+- name: Price of Freedom
+  weight: 1.0
+  avg_copies: 3.96
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 3.96
 - name: Cleansing Wildfire
-  weight: 1.0
-  avg_copies: 3.96
-- name: Price of Freedom
   weight: 1.0
   avg_copies: 3.96
 - name: Path to Exile
@@ -42,10 +42,10 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.91
-- name: Erode
+- name: Cori Mountain Monastery
   weight: 0.9565
   avg_copies: 3.86
-- name: Cori Mountain Monastery
+- name: Erode
   weight: 0.9565
   avg_copies: 3.86
 - name: Kaheera, the Orphanguard
@@ -102,13 +102,13 @@ top_cards:
 - name: Blast Zone
   weight: 0.1304
   avg_copies: 1.67
-- name: Mazemind Tome
+- name: Arid Mesa
   weight: 0.087
   avg_copies: 4.0
 - name: card:avengers-disassembled
   weight: 0.087
   avg_copies: 4.0
-- name: Arid Mesa
+- name: Mazemind Tome
   weight: 0.087
   avg_copies: 4.0
 - name: Reprieve
@@ -117,10 +117,10 @@ top_cards:
 - name: Kor Firewalker
   weight: 0.087
   avg_copies: 2.5
-- name: Engineered Explosives
+- name: Celestial Purge
   weight: 0.087
   avg_copies: 2.0
-- name: Celestial Purge
+- name: Engineered Explosives
   weight: 0.087
   avg_copies: 2.0
 - name: Beza, the Bounding Spring
@@ -129,7 +129,7 @@ top_cards:
 - name: Crucible of Worlds
   weight: 0.087
   avg_copies: 1.0
-- name: Ark of Hunger
+- name: Volcanic Spite
   weight: 0.0435
   avg_copies: 4.0
 - name: Lightning Helix
@@ -138,10 +138,10 @@ top_cards:
 - name: card:kutzil-s-flanker
   weight: 0.0435
   avg_copies: 4.0
-- name: Volcanic Spite
+- name: White Orchid Phantom
   weight: 0.0435
   avg_copies: 4.0
-- name: White Orchid Phantom
+- name: Ark of Hunger
   weight: 0.0435
   avg_copies: 4.0
 - name: Candy Trail
@@ -150,6 +150,9 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 0.0435
   avg_copies: 3.0
+- name: Hallowed Moonlight
+  weight: 0.0435
+  avg_copies: 2.0
 - name: card:vanish-into-eternity
   weight: 0.0435
   avg_copies: 2.0
@@ -157,9 +160,6 @@ top_cards:
   weight: 0.0435
   avg_copies: 2.0
 - name: March of Otherworldly Light
-  weight: 0.0435
-  avg_copies: 2.0
-- name: Hallowed Moonlight
   weight: 0.0435
   avg_copies: 2.0
 - name: Emrakul, the Aeons Torn

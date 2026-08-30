@@ -7,23 +7,23 @@ name: Clarion Conqueror
 scryfall_id: f892d156-371c-4391-8ae6-25513c5032b0
 set: tdm
 type: Creature — Dragon
-meta_presence: 0.0746
+meta_presence: 0.0758
 archetypes:
   boros-energy:
-    weight: 0.1935
-    avg_copies: 1.46
+    weight: 0.1965
+    avg_copies: 1.47
   amulet-titan:
-    weight: 0.0167
-    avg_copies: 2.67
+    weight: 0.022
+    avg_copies: 2.75
   goryo:
-    weight: 0.1094
-    avg_copies: 1.96
+    weight: 0.1162
+    avg_copies: 1.94
   living-end:
     weight: 0.2405
     avg_copies: 2.58
   domain-zoo:
-    weight: 0.1104
-    avg_copies: 1.18
+    weight: 0.1161
+    avg_copies: 1.22
   mardu-blink:
     weight: 0.125
     avg_copies: 2.0
@@ -34,19 +34,19 @@ archetypes:
     weight: 0.02
     avg_copies: 4.0
   esper-blink:
-    weight: 0.7222
+    weight: 0.726
     avg_copies: 1.68
   orzhov-blink:
     weight: 0.7
     avg_copies: 1.93
   azorius-blink:
-    weight: 0.5775
+    weight: 0.5833
     avg_copies: 1.93
   selesnya-midrange:
     weight: 1.0
     avg_copies: 2.0
   goryo2:
-    weight: 0.2075
+    weight: 0.2037
     avg_copies: 1.73
   unknown-5:
     weight: 0.0769
@@ -55,8 +55,8 @@ archetypes:
     weight: 0.2424
     avg_copies: 1.33
   unknown-67:
-    weight: 0.3761
-    avg_copies: 3.12
+    weight: 0.3874
+    avg_copies: 3.16
   unknown-68:
     weight: 0.0476
     avg_copies: 1.0
@@ -94,7 +94,7 @@ archetypes:
     weight: 0.2286
     avg_copies: 1.5
   unknown-160:
-    weight: 0.0283
+    weight: 0.028
     avg_copies: 2.67
   unknown-185:
     weight: 1.0

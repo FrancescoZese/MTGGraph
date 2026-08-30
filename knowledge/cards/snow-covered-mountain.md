@@ -9,16 +9,16 @@ type: Basic Snow Land — Mountain
 meta_presence: 0.0086
 archetypes:
   ruby-storm:
-    weight: 0.0111
+    weight: 0.011
     avg_copies: 5.0
   boros-energy:
-    weight: 0.0237
+    weight: 0.0236
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.1037
     avg_copies: 1.0
   burn:
-    weight: 0.0488
+    weight: 0.0476
     avg_copies: 2.5
   mardu-blink:
     weight: 0.4583
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.0213
     avg_copies: 1.67
   izzet-prowess:
-    weight: 0.0091
+    weight: 0.009
     avg_copies: 2.25
   dredge:
     weight: 0.0357
@@ -51,6 +51,6 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.0278
+    weight: 0.0263
     avg_copies: 2.0
 ---

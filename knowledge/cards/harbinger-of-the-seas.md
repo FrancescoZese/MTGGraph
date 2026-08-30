@@ -16,7 +16,7 @@ archetypes:
     weight: 0.604
     avg_copies: 1.76
   azorius-control:
-    weight: 0.0093
+    weight: 0.0092
     avg_copies: 4.0
   living-end:
     weight: 0.0633
@@ -25,8 +25,8 @@ archetypes:
     weight: 0.0143
     avg_copies: 2.0
   affinity:
-    weight: 0.2154
-    avg_copies: 1.29
+    weight: 0.2157
+    avg_copies: 1.3
   reanimator:
     weight: 0.1481
     avg_copies: 1.5
@@ -37,13 +37,13 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   azorius-blink:
-    weight: 0.0141
+    weight: 0.0139
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.4375
     avg_copies: 2.57
   goryo1:
-    weight: 0.2448
+    weight: 0.2435
     avg_copies: 1.34
   goryo3:
     weight: 1.0
@@ -82,8 +82,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9231
-    avg_copies: 2.27
+    weight: 0.9247
+    avg_copies: 2.28
   unknown-49:
     weight: 0.0769
     avg_copies: 2.0
@@ -97,7 +97,7 @@ archetypes:
     weight: 0.069
     avg_copies: 1.5
   unknown-67:
-    weight: 0.0092
+    weight: 0.009
     avg_copies: 2.0
   unknown-75:
     weight: 1.0
@@ -173,7 +173,7 @@ archetypes:
     avg_copies: 1.0
   unknown-248:
     weight: 1.0
-    avg_copies: 1.67
+    avg_copies: 1.75
   unknown-269:
     weight: 1.0
     avg_copies: 2.0

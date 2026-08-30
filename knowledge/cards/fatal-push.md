@@ -9,17 +9,20 @@ set: 2xm
 type: Instant
 meta_presence: 0.2054
 archetypes:
+  boros-energy:
+    weight: 0.0012
+    avg_copies: 4.0
   dimir-control:
     weight: 1.0
     avg_copies: 3.8
   goryo:
-    weight: 0.183
+    weight: 0.182
     avg_copies: 1.26
   necrodominance:
     weight: 0.8696
     avg_copies: 3.98
   domain-zoo:
-    weight: 0.1169
+    weight: 0.1161
     avg_copies: 2.11
   mill:
     weight: 0.9737
@@ -40,11 +43,11 @@ archetypes:
     weight: 0.04
     avg_copies: 2.75
   izzet-prowess:
-    weight: 0.0046
+    weight: 0.0045
     avg_copies: 1.5
   esper-blink:
-    weight: 0.9722
-    avg_copies: 3.61
+    weight: 0.9726
+    avg_copies: 3.62
   samwise-combo:
     weight: 0.5811
     avg_copies: 1.83
@@ -88,7 +91,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.98
   goryo2:
-    weight: 0.2453
+    weight: 0.2407
     avg_copies: 1.56
   soultrader-combo:
     weight: 1.0
@@ -211,7 +214,7 @@ archetypes:
     weight: 0.2
     avg_copies: 2.0
   unknown-101:
-    weight: 0.8438
+    weight: 0.8529
     avg_copies: 2.06
   unknown-105:
     weight: 1.0
@@ -241,7 +244,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-126:
-    weight: 0.6727
+    weight: 0.6687
     avg_copies: 2.26
   unknown-127:
     weight: 1.0

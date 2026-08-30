@@ -6,7 +6,7 @@ name: Disruptor Flute
 scryfall_id: 5cad8671-4761-4014-a8a3-af45627e6e79
 set: mh3
 type: Artifact
-meta_presence: 0.0731
+meta_presence: 0.0735
 archetypes:
   boros-energy:
     weight: 0.0137
@@ -15,19 +15,19 @@ archetypes:
     weight: 0.0148
     avg_copies: 2.0
   eldrazi-tron:
-    weight: 0.9125
-    avg_copies: 1.66
+    weight: 0.9135
+    avg_copies: 1.65
   necrodominance:
     weight: 0.1957
     avg_copies: 1.78
   azorius-control:
-    weight: 0.0463
+    weight: 0.0459
     avg_copies: 1.0
   affinity:
-    weight: 0.0053
+    weight: 0.0052
     avg_copies: 1.8
   burn:
-    weight: 0.0976
+    weight: 0.0952
     avg_copies: 1.0
   mono-blue-tron:
     weight: 0.2692
@@ -36,16 +36,16 @@ archetypes:
     weight: 0.0142
     avg_copies: 2.5
   eldrazi-ramp:
-    weight: 0.6857
+    weight: 0.6809
     avg_copies: 1.89
   izzet-prowess:
     weight: 0.0023
     avg_copies: 2.0
   broodscale-combo:
-    weight: 0.0357
-    avg_copies: 1.25
+    weight: 0.0386
+    avg_copies: 1.23
   azorius-blink:
-    weight: 0.0141
+    weight: 0.0139
     avg_copies: 1.0
   elves:
     weight: 1.0
@@ -63,7 +63,7 @@ archetypes:
     weight: 0.963
     avg_copies: 1.92
   goryo5:
-    weight: 0.0952
+    weight: 0.093
     avg_copies: 1.5
   unknown-12:
     weight: 1.0
@@ -78,7 +78,7 @@ archetypes:
     weight: 0.0769
     avg_copies: 2.0
   unknown-61:
-    weight: 0.0077
+    weight: 0.0076
     avg_copies: 1.0
   unknown-69:
     weight: 0.1
@@ -90,7 +90,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.5
   unknown-126:
-    weight: 0.0242
+    weight: 0.0241
     avg_copies: 1.5
   unknown-134:
     weight: 1.0
@@ -102,7 +102,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0094
+    weight: 0.0093
     avg_copies: 1.0
   unknown-167:
     weight: 0.35
@@ -117,8 +117,8 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   unknown-194:
-    weight: 0.1923
-    avg_copies: 1.4
+    weight: 0.1967
+    avg_copies: 1.42
   unknown-213:
     weight: 0.7692
     avg_copies: 1.0
@@ -126,8 +126,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-265:
-    weight: 0.6667
-    avg_copies: 1.4
+    weight: 0.7143
+    avg_copies: 1.33
   unknown-271:
     weight: 1.0
     avg_copies: 1.0

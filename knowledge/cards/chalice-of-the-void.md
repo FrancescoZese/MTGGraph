@@ -9,7 +9,7 @@ type: Artifact
 meta_presence: 0.0619
 archetypes:
   eldrazi-tron:
-    weight: 0.6472
+    weight: 0.6484
     avg_copies: 1.75
   goryo:
     weight: 0.0022
@@ -18,7 +18,7 @@ archetypes:
     weight: 0.1522
     avg_copies: 1.86
   azorius-control:
-    weight: 0.1019
+    weight: 0.1009
     avg_copies: 1.73
   mill:
     weight: 0.0526
@@ -33,13 +33,13 @@ archetypes:
     weight: 0.0521
     avg_copies: 2.4
   eldrazi-ramp:
-    weight: 0.2
+    weight: 0.1986
     avg_copies: 1.24
   simic-ritual:
     weight: 0.07
     avg_copies: 2.0
   esper-blink:
-    weight: 0.0185
+    weight: 0.0183
     avg_copies: 1.0
   naya-midrange:
     weight: 1.0
@@ -48,7 +48,7 @@ archetypes:
     weight: 0.8519
     avg_copies: 2.61
   goryo5:
-    weight: 0.2143
+    weight: 0.2093
     avg_copies: 1.67
   sultai-midrange:
     weight: 0.2
@@ -66,10 +66,10 @@ archetypes:
     weight: 0.75
     avg_copies: 2.89
   unknown-47:
-    weight: 0.1813
+    weight: 0.1774
     avg_copies: 1.97
   unknown-61:
-    weight: 0.6462
+    weight: 0.6489
     avg_copies: 2.73
   unknown-55:
     weight: 1.0
@@ -93,7 +93,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-122:
-    weight: 0.0882
+    weight: 0.0857
     avg_copies: 2.0
   unknown-139:
     weight: 0.0769
@@ -117,7 +117,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-265:
-    weight: 0.5
+    weight: 0.4286
     avg_copies: 1.0
   unknown-278:
     weight: 0.5

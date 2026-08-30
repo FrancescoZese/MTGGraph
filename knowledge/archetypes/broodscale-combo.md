@@ -3,8 +3,8 @@ colors:
 - R
 - G
 name: Broodscale Combo
-meta_share: 0.0427
-list_count: 336
+meta_share: 0.0425
+list_count: 337
 top_cards:
 - name: Malevolent Rumble
   weight: 1.0
@@ -14,7 +14,7 @@ top_cards:
   avg_copies: 3.97
 - name: Basking Broodscale
   weight: 1.0
-  avg_copies: 3.96
+  avg_copies: 3.94
 - name: Kozilek's Command
   weight: 1.0
   avg_copies: 3.93
@@ -23,189 +23,189 @@ top_cards:
   avg_copies: 3.92
 - name: Blade of the Bloodchief
   weight: 1.0
-  avg_copies: 3.38
+  avg_copies: 3.37
 - name: Forest
   weight: 1.0
-  avg_copies: 3.02
+  avg_copies: 3.01
 - name: Vexing Bauble
-  weight: 0.994
+  weight: 0.9941
   avg_copies: 1.69
 - name: Boseiju, Who Endures
-  weight: 0.994
+  weight: 0.9941
   avg_copies: 1.63
 - name: Glaring Fleshraker
   weight: 0.9911
   avg_copies: 3.64
 - name: Ancient Stirrings
   weight: 0.9881
-  avg_copies: 3.81
+  avg_copies: 3.8
 - name: Emrakul, the Promised End
   weight: 0.9881
   avg_copies: 2.21
 - name: Springleaf Drum
-  weight: 0.9821
+  weight: 0.9822
   avg_copies: 1.04
 - name: Haywire Mite
-  weight: 0.9702
+  weight: 0.9703
   avg_copies: 1.0
 - name: Grove of the Burnwillows
-  weight: 0.9375
+  weight: 0.9377
   avg_copies: 3.75
 - name: Soul-Guide Lantern
-  weight: 0.9345
+  weight: 0.9318
   avg_copies: 1.03
 - name: Nature's Claim
-  weight: 0.8869
+  weight: 0.8872
   avg_copies: 2.08
 - name: Thief of Existence
-  weight: 0.875
-  avg_copies: 2.0
+  weight: 0.8754
+  avg_copies: 1.99
 - name: Pithing Needle
-  weight: 0.8244
+  weight: 0.822
   avg_copies: 1.0
 - name: Grafdigger's Cage
-  weight: 0.7946
+  weight: 0.7953
   avg_copies: 1.01
 - name: Cavern of Souls
-  weight: 0.7232
+  weight: 0.7211
   avg_copies: 1.33
 - name: Soulless Jailer
-  weight: 0.6994
+  weight: 0.6973
   avg_copies: 1.4
 - name: Walking Ballista
-  weight: 0.5655
+  weight: 0.5638
   avg_copies: 1.6
 - name: Dismember
-  weight: 0.5446
-  avg_copies: 1.66
+  weight: 0.543
+  avg_copies: 1.65
 - name: Gemstone Caverns
-  weight: 0.5089
+  weight: 0.5104
   avg_copies: 1.0
 - name: Sowing Mycospawn
-  weight: 0.4762
+  weight: 0.4748
   avg_copies: 2.82
 - name: Stomping Ground
-  weight: 0.4702
+  weight: 0.4718
   avg_copies: 1.1
 - name: Unholy Heat
-  weight: 0.4315
+  weight: 0.4332
   avg_copies: 2.09
 - name: Damping Sphere
-  weight: 0.4286
+  weight: 0.4273
   avg_copies: 1.69
 - name: Warping Wail
-  weight: 0.4048
+  weight: 0.4036
   avg_copies: 1.47
 - name: Ugin's Labyrinth
-  weight: 0.3482
-  avg_copies: 3.75
+  weight: 0.3501
+  avg_copies: 3.74
 - name: Wooded Foothills
-  weight: 0.3452
+  weight: 0.3442
   avg_copies: 1.22
 - name: Commercial District
-  weight: 0.3393
+  weight: 0.3412
   avg_copies: 1.0
 - name: Verdant Catacombs
-  weight: 0.3244
+  weight: 0.3264
   avg_copies: 1.1
 - name: Devourer of Destiny
-  weight: 0.3125
+  weight: 0.3116
   avg_copies: 3.93
 - name: Writhing Chrysalis
-  weight: 0.3006
-  avg_copies: 2.69
-- name: Sire of Seven Deaths
-  weight: 0.2976
-  avg_copies: 1.14
+  weight: 0.3027
+  avg_copies: 2.67
 - name: Windswept Heath
-  weight: 0.2976
+  weight: 0.2997
   avg_copies: 1.12
+- name: Sire of Seven Deaths
+  weight: 0.2967
+  avg_copies: 1.14
 - name: Shifting Woodland
-  weight: 0.2411
+  weight: 0.2404
   avg_copies: 1.0
 - name: Delighted Halfling
-  weight: 0.2321
+  weight: 0.2315
   avg_copies: 2.54
 - name: Misty Rainforest
-  weight: 0.2083
+  weight: 0.2107
   avg_copies: 1.14
 - name: Trinisphere
-  weight: 0.1994
+  weight: 0.1988
   avg_copies: 1.85
 - name: Veil of Summer
-  weight: 0.1726
+  weight: 0.1721
   avg_copies: 2.03
 - name: Firespout
-  weight: 0.1696
-  avg_copies: 1.54
+  weight: 0.1721
+  avg_copies: 1.55
 - name: Pick Your Poison
-  weight: 0.1339
+  weight: 0.1335
   avg_copies: 1.69
 - name: Pyroclasm
-  weight: 0.131
+  weight: 0.1306
   avg_copies: 1.66
 - name: Traverse the Ulvenwald
-  weight: 0.0952
+  weight: 0.095
   avg_copies: 1.59
 - name: Thought-Knot Seer
-  weight: 0.0863
-  avg_copies: 1.98
+  weight: 0.089
+  avg_copies: 1.96
 - name: The Mycosynth Gardens
-  weight: 0.0774
+  weight: 0.0772
   avg_copies: 1.0
 - name: Torpor Orb
-  weight: 0.0685
+  weight: 0.0682
   avg_copies: 1.35
 - name: Yavimaya, Cradle of Growth
-  weight: 0.0595
+  weight: 0.0593
   avg_copies: 1.0
 - name: Prismatic Vista
-  weight: 0.0565
+  weight: 0.0564
   avg_copies: 3.68
 - name: Whipflare
-  weight: 0.0565
+  weight: 0.0564
   avg_copies: 1.05
 - name: Six
-  weight: 0.0506
+  weight: 0.0504
   avg_copies: 1.71
 - name: Apostle's Blessing
-  weight: 0.0476
+  weight: 0.0475
   avg_copies: 1.19
 - name: Ghost Quarter
-  weight: 0.0417
+  weight: 0.0415
   avg_copies: 1.04
 - name: Snow-Covered Wastes
-  weight: 0.0417
+  weight: 0.0415
   avg_copies: 1.0
 - name: Mishra's Bauble
-  weight: 0.0387
+  weight: 0.0386
   avg_copies: 2.92
 - name: Icetill Explorer
-  weight: 0.0387
+  weight: 0.0386
   avg_copies: 1.42
 - name: Ugin, Eye of the Storms
-  weight: 0.0387
+  weight: 0.0386
   avg_copies: 1.27
-- name: Life from the Loam
-  weight: 0.0387
-  avg_copies: 1.0
-- name: Bojuka Bog
-  weight: 0.0387
-  avg_copies: 1.0
 - name: Disruptor Flute
-  weight: 0.0357
-  avg_copies: 1.25
+  weight: 0.0386
+  avg_copies: 1.23
+- name: Bojuka Bog
+  weight: 0.0386
+  avg_copies: 1.0
+- name: Life from the Loam
+  weight: 0.0386
+  avg_copies: 1.0
 - name: Talisman of Impulse
-  weight: 0.0357
+  weight: 0.0356
   avg_copies: 1.08
 - name: Force of Vigor
-  weight: 0.0268
+  weight: 0.0267
   avg_copies: 1.44
 - name: Karplusan Forest
-  weight: 0.0238
+  weight: 0.0237
   avg_copies: 2.0
 - name: All Is Dust
-  weight: 0.0238
+  weight: 0.0237
   avg_copies: 1.12
 - name: card:llanowar-wastes
   weight: 0.0208
@@ -229,16 +229,16 @@ top_cards:
   weight: 0.0208
   avg_copies: 1.0
 - name: Sephiroth, Fabled SOLDIER
-  weight: 0.0179
+  weight: 0.0178
   avg_copies: 2.83
 - name: Culling Ritual
-  weight: 0.0179
+  weight: 0.0178
   avg_copies: 1.83
 - name: Underground Mortuary
-  weight: 0.0179
+  weight: 0.0178
   avg_copies: 1.0
 - name: Wastescape Battlemage
-  weight: 0.0149
+  weight: 0.0148
   avg_copies: 1.8
 - name: Agatha's Soul Cauldron
   weight: 0.0119
@@ -264,85 +264,91 @@ top_cards:
 - name: Shadowspear
   weight: 0.0089
   avg_copies: 1.0
-- name: Ghost Vacuum
-  weight: 0.0089
-  avg_copies: 1.0
 - name: Nurturing Peatland
   weight: 0.0089
   avg_copies: 1.0
+- name: Ghost Vacuum
+  weight: 0.0089
+  avg_copies: 1.0
 - name: Revitalizing Repast
-  weight: 0.006
+  weight: 0.0059
   avg_copies: 2.5
-- name: card:mj-lnir-hammer-of-thor
-  weight: 0.006
+- name: card:llanowar-reborn
+  weight: 0.0059
   avg_copies: 2.0
 - name: Snow-Covered Forest
-  weight: 0.006
+  weight: 0.0059
   avg_copies: 2.0
-- name: card:llanowar-reborn
-  weight: 0.006
+- name: card:mj-lnir-hammer-of-thor
+  weight: 0.0059
   avg_copies: 2.0
-- name: Kozilek's Return
-  weight: 0.006
-  avg_copies: 1.0
 - name: Lightning Bolt
-  weight: 0.006
+  weight: 0.0059
   avg_copies: 1.0
 - name: Skateboard
-  weight: 0.006
+  weight: 0.0059
   avg_copies: 1.0
 - name: Meltdown
-  weight: 0.006
+  weight: 0.0059
   avg_copies: 1.0
+- name: Kozilek's Return
+  weight: 0.0059
+  avg_copies: 1.0
+- name: Eldrazi Linebreaker
+  weight: 0.003
+  avg_copies: 4.0
 - name: Spire of Industry
   weight: 0.003
   avg_copies: 4.0
 - name: Brushland
   weight: 0.003
   avg_copies: 4.0
-- name: Eldrazi Linebreaker
-  weight: 0.003
-  avg_copies: 4.0
-- name: Darksteel Citadel
-  weight: 0.003
-  avg_copies: 3.0
-- name: Path to Exile
-  weight: 0.003
-  avg_copies: 3.0
 - name: Formidable Speaker
+  weight: 0.003
+  avg_copies: 3.0
+- name: Darksteel Citadel
   weight: 0.003
   avg_copies: 3.0
 - name: Mox Opal
   weight: 0.003
   avg_copies: 3.0
+- name: Path to Exile
+  weight: 0.003
+  avg_copies: 3.0
+- name: Heroic Intervention
+  weight: 0.003
+  avg_copies: 2.0
+- name: Idol of False Gods
+  weight: 0.003
+  avg_copies: 2.0
+- name: Cursed Totem
+  weight: 0.003
+  avg_copies: 2.0
+- name: Orim's Chant
+  weight: 0.003
+  avg_copies: 2.0
 - name: card:the-sackville-bagginses
   weight: 0.003
   avg_copies: 2.0
 - name: Deafening Silence
   weight: 0.003
   avg_copies: 2.0
-- name: Cursed Totem
-  weight: 0.003
-  avg_copies: 2.0
-- name: Idol of False Gods
-  weight: 0.003
-  avg_copies: 2.0
-- name: Heroic Intervention
-  weight: 0.003
-  avg_copies: 2.0
-- name: Orim's Chant
-  weight: 0.003
-  avg_copies: 2.0
 - name: Snakeskin Veil
   weight: 0.003
   avg_copies: 1.5
-- name: card:call-damage-control
-  weight: 0.003
-  avg_copies: 1.0
-- name: Tunnel Ignus
+- name: Pawpatch Formation
   weight: 0.003
   avg_copies: 1.0
 - name: Expedition Map
+  weight: 0.003
+  avg_copies: 1.0
+- name: card:call-damage-control
+  weight: 0.003
+  avg_copies: 1.0
+- name: Mishra's Research Desk
+  weight: 0.003
+  avg_copies: 1.0
+- name: Toxic Deluge
   weight: 0.003
   avg_copies: 1.0
 - name: Witherbloom Charm
@@ -351,22 +357,16 @@ top_cards:
 - name: Endurance
   weight: 0.003
   avg_copies: 1.0
-- name: Mishra's Research Desk
-  weight: 0.003
-  avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.003
   avg_copies: 1.0
-- name: Toxic Deluge
-  weight: 0.003
-  avg_copies: 1.0
-- name: card:ugin-the-ineffable
+- name: Tunnel Ignus
   weight: 0.003
   avg_copies: 1.0
 - name: Nihil Spellbomb
   weight: 0.003
   avg_copies: 1.0
-- name: Pawpatch Formation
+- name: card:ugin-the-ineffable
   weight: 0.003
   avg_copies: 1.0
 ---

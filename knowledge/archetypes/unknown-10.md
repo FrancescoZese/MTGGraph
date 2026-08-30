@@ -7,16 +7,16 @@ name: 'Unknown #10'
 meta_share: 0.0004
 list_count: 3
 top_cards:
-- name: Emry, Lurker of the Loch
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
 - name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
-- name: Mox Opal
+- name: Emry, Lurker of the Loch
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
@@ -31,10 +31,10 @@ top_cards:
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 3.0
-- name: Jeskai Ascendancy
+- name: Portable Hole
   weight: 1.0
   avg_copies: 2.67
-- name: Portable Hole
+- name: Jeskai Ascendancy
   weight: 1.0
   avg_copies: 2.67
 - name: Scalding Tarn
@@ -52,16 +52,16 @@ top_cards:
 - name: Aether Spellbomb
   weight: 1.0
   avg_copies: 1.0
-- name: Pithing Needle
-  weight: 1.0
-  avg_copies: 1.0
-- name: Steam Vents
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
+- name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
 - name: Cori-Steel Cutter
@@ -82,7 +82,10 @@ top_cards:
 - name: Skateboard
   weight: 0.6667
   avg_copies: 1.5
-- name: Otawara, Soaring City
+- name: Thundering Falls
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Vexing Bauble
   weight: 0.6667
   avg_copies: 1.0
 - name: Shadowspear
@@ -94,73 +97,70 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.6667
   avg_copies: 1.0
-- name: Vexing Bauble
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Thundering Falls
+- name: Otawara, Soaring City
   weight: 0.6667
   avg_copies: 1.0
 - name: Boomerang Basics
   weight: 0.3333
   avg_copies: 4.0
-- name: Erayo, Soratami Ascendant
-  weight: 0.3333
-  avg_copies: 3.0
 - name: Arid Mesa
   weight: 0.3333
   avg_copies: 3.0
-- name: Unholy Heat
+- name: Erayo, Soratami Ascendant
+  weight: 0.3333
+  avg_copies: 3.0
+- name: Expressive Iteration
   weight: 0.3333
   avg_copies: 2.0
-- name: Narset, Jeskai Waymaster
+- name: Unholy Heat
   weight: 0.3333
   avg_copies: 2.0
 - name: Phlage, Titan of Fire's Fury
   weight: 0.3333
   avg_copies: 2.0
-- name: Expressive Iteration
+- name: Test of Talents
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Narset, Jeskai Waymaster
   weight: 0.3333
   avg_copies: 2.0
 - name: Swan Song
   weight: 0.3333
   avg_copies: 2.0
-- name: Test of Talents
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Sevinne's Reclamation
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Hurkyl's Recall
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Lavaspur Boots
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Seachrome Coast
   weight: 0.3333
   avg_copies: 1.0
-- name: Snow-Covered Mountain
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Haywire Mite
-  weight: 0.3333
-  avg_copies: 1.0
-- name: card:key-to-the-side-door
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Ashiok, Dream Render
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Snow-Covered Island
+- name: Sevinne's Reclamation
   weight: 0.3333
   avg_copies: 1.0
 - name: Spirebluff Canal
   weight: 0.3333
   avg_copies: 1.0
-- name: Torpor Orb
+- name: Snow-Covered Mountain
   weight: 0.3333
   avg_copies: 1.0
 - name: Tormod's Crypt
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Lavaspur Boots
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Snow-Covered Island
+  weight: 0.3333
+  avg_copies: 1.0
+- name: card:key-to-the-side-door
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Haywire Mite
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Torpor Orb
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Hurkyl's Recall
   weight: 0.3333
   avg_copies: 1.0
 ---

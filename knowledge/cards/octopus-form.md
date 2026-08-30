@@ -7,15 +7,15 @@ name: Octopus Form
 scryfall_id: ce96a826-53a0-4029-bf34-46779d133b13
 set: tla
 type: Instant — Lesson
-meta_presence: 0.0027
+meta_presence: 0.0026
 archetypes:
   izzet-prowess:
-    weight: 0.0388
+    weight: 0.0385
     avg_copies: 1.0
   unknown-50:
     weight: 1.0
     avg_copies: 1.0
   unknown-122:
-    weight: 0.0882
+    weight: 0.0857
     avg_copies: 1.0
 ---

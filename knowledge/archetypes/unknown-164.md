@@ -5,7 +5,13 @@ name: 'Unknown #164'
 meta_share: 0.0003
 list_count: 2
 top_cards:
-- name: Cavern of Souls
+- name: Harbinger of the Seas
+  weight: 1.0
+  avg_copies: 4.0
+- name: Silvergill Adept
+  weight: 1.0
+  avg_copies: 4.0
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 4.0
 - name: card:namor-the-sub-mariner
@@ -14,13 +20,13 @@ top_cards:
 - name: Jwari Disruption
   weight: 1.0
   avg_copies: 4.0
-- name: Sink into Stupor
+- name: Cavern of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Flare of Denial
   weight: 1.0
   avg_copies: 4.0
-- name: Harbinger of the Seas
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
 - name: Force of Negation
@@ -29,43 +35,37 @@ top_cards:
 - name: Disrupting Shoal
   weight: 1.0
   avg_copies: 4.0
-- name: Silvergill Adept
-  weight: 1.0
-  avg_copies: 4.0
-- name: Consign to Memory
-  weight: 1.0
-  avg_copies: 4.0
 - name: Vodalian Hexcatcher
   weight: 1.0
   avg_copies: 3.5
-- name: Glasspool Mimic
-  weight: 1.0
-  avg_copies: 3.0
 - name: Master of the Pearl Trident
   weight: 1.0
   avg_copies: 3.0
-- name: Hydroelectric Specimen
+- name: Glasspool Mimic
+  weight: 1.0
+  avg_copies: 3.0
+- name: Lord of Atlantis
   weight: 1.0
   avg_copies: 2.0
-- name: Lord of Atlantis
+- name: Hydroelectric Specimen
   weight: 1.0
   avg_copies: 2.0
 - name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.5
-- name: Chalice of the Void
+- name: Merfolk Trickster
   weight: 0.5
   avg_copies: 4.0
-- name: Subtlety
+- name: Mindspring Merfolk
+  weight: 0.5
+  avg_copies: 4.0
+- name: Chalice of the Void
   weight: 0.5
   avg_copies: 4.0
 - name: Hurkyl's Recall
   weight: 0.5
   avg_copies: 4.0
-- name: Merfolk Trickster
-  weight: 0.5
-  avg_copies: 4.0
-- name: Mindspring Merfolk
+- name: Subtlety
   weight: 0.5
   avg_copies: 4.0
 - name: Svyelun of Sea and Sky
@@ -74,13 +74,13 @@ top_cards:
 - name: Stern Scolding
   weight: 0.5
   avg_copies: 3.0
-- name: Tide Shaper
-  weight: 0.5
-  avg_copies: 2.0
 - name: Gemstone Caverns
   weight: 0.5
   avg_copies: 2.0
 - name: Dismember
+  weight: 0.5
+  avg_copies: 2.0
+- name: Tide Shaper
   weight: 0.5
   avg_copies: 2.0
 - name: Mutavault

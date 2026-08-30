@@ -10,6 +10,6 @@ type: Creature — Devil
 meta_presence: 0.0001
 archetypes:
   burn:
-    weight: 0.0244
+    weight: 0.0238
     avg_copies: 4.0
 ---

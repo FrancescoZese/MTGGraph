@@ -7,11 +7,11 @@ name: Slickshot Show-Off
 scryfall_id: 7054012b-4f9d-44a0-aaf9-7fd3bddc7b2d
 set: otj
 type: Creature — Bird Wizard
-meta_presence: 0.0536
+meta_presence: 0.0537
 archetypes:
   izzet-prowess:
-    weight: 0.9384
-    avg_copies: 3.87
+    weight: 0.9389
+    avg_copies: 3.88
   unknown-81:
     weight: 1.0
     avg_copies: 4.0
@@ -22,7 +22,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-122:
-    weight: 0.0882
+    weight: 0.0857
     avg_copies: 1.5
   unknown-174:
     weight: 1.0

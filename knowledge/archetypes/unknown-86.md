@@ -5,16 +5,16 @@ name: 'Unknown #86'
 meta_share: 0.0015
 list_count: 12
 top_cards:
-- name: Dragon's Rage Channeler
+- name: Lava Spike
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Lava Spike
+- name: Monastery Swiftspear
   weight: 1.0
   avg_copies: 4.0
-- name: Monastery Swiftspear
+- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
 - name: Cori-Steel Cutter
@@ -95,10 +95,10 @@ top_cards:
 - name: Deflecting Palm
   weight: 0.25
   avg_copies: 1.67
-- name: Magebane Lizard
+- name: Damping Sphere
   weight: 0.1667
   avg_copies: 3.0
-- name: Damping Sphere
+- name: Magebane Lizard
   weight: 0.1667
   avg_copies: 3.0
 - name: Pyroclasm
@@ -110,13 +110,13 @@ top_cards:
 - name: card:reinforced-ronin
   weight: 0.1667
   avg_copies: 1.5
-- name: Eidolon of the Great Revel
+- name: Mogg Fanatic
   weight: 0.0833
   avg_copies: 4.0
 - name: Mutagenic Growth
   weight: 0.0833
   avg_copies: 4.0
-- name: Mogg Fanatic
+- name: Eidolon of the Great Revel
   weight: 0.0833
   avg_copies: 4.0
 - name: Slickshot Show-Off
@@ -125,7 +125,7 @@ top_cards:
 - name: Smash to Smithereens
   weight: 0.0833
   avg_copies: 3.0
-- name: Boros Charm
+- name: Vexing Bauble
   weight: 0.0833
   avg_copies: 2.0
 - name: Gut Shot
@@ -134,13 +134,10 @@ top_cards:
 - name: Path to Exile
   weight: 0.0833
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Boros Charm
   weight: 0.0833
   avg_copies: 2.0
-- name: Engineered Explosives
-  weight: 0.0833
-  avg_copies: 1.0
-- name: Prismatic Ending
+- name: Commercial District
   weight: 0.0833
   avg_copies: 1.0
 - name: Stomping Ground
@@ -149,7 +146,10 @@ top_cards:
 - name: Sokenzan, Crucible of Defiance
   weight: 0.0833
   avg_copies: 1.0
-- name: Commercial District
+- name: Prismatic Ending
+  weight: 0.0833
+  avg_copies: 1.0
+- name: Engineered Explosives
   weight: 0.0833
   avg_copies: 1.0
 ---

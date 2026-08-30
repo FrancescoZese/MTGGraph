@@ -7,25 +7,25 @@ name: Pyroclasm
 scryfall_id: 4391b0af-2f26-4a45-9e2a-5bd8e9838107
 set: dsk
 type: Sorcery
-meta_presence: 0.0519
+meta_presence: 0.0518
 archetypes:
   ruby-storm:
-    weight: 0.0185
+    weight: 0.0184
     avg_copies: 1.2
   amulet-titan:
-    weight: 0.0167
+    weight: 0.0165
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0185
+    weight: 0.0183
     avg_copies: 1.5
   domain-zoo:
-    weight: 0.2013
+    weight: 0.2
     avg_copies: 1.03
   reanimator:
     weight: 0.7778
     avg_copies: 1.86
   burn:
-    weight: 0.0976
+    weight: 0.0952
     avg_copies: 2.25
   hollow-one:
     weight: 0.0588
@@ -34,10 +34,10 @@ archetypes:
     weight: 0.02
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.0251
+    weight: 0.0249
     avg_copies: 1.45
   broodscale-combo:
-    weight: 0.131
+    weight: 0.1306
     avg_copies: 1.66
   izzet-artifacts:
     weight: 0.0938
@@ -64,7 +64,7 @@ archetypes:
     weight: 0.2174
     avg_copies: 2.0
   goryo1:
-    weight: 0.9219
+    weight: 0.9223
     avg_copies: 1.85
   unknown-4:
     weight: 1.0
@@ -103,7 +103,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.0
   unknown-76:
-    weight: 0.375
+    weight: 0.3333
     avg_copies: 1.67
   unknown-82:
     weight: 0.6667
@@ -115,8 +115,8 @@ archetypes:
     weight: 0.1667
     avg_copies: 2.5
   unknown-96:
-    weight: 0.0139
-    avg_copies: 1.0
+    weight: 0.0263
+    avg_copies: 1.5
   unknown-90:
     weight: 1.0
     avg_copies: 2.0
@@ -127,8 +127,8 @@ archetypes:
     weight: 0.2
     avg_copies: 1.0
   unknown-101:
-    weight: 0.4062
-    avg_copies: 1.08
+    weight: 0.4118
+    avg_copies: 1.07
   unknown-104:
     weight: 1.0
     avg_copies: 2.0
@@ -139,7 +139,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-122:
-    weight: 0.0294
+    weight: 0.0286
     avg_copies: 2.0
   unknown-129:
     weight: 1.0
@@ -160,7 +160,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   unknown-194:
-    weight: 0.0192
+    weight: 0.0164
     avg_copies: 1.0
   unknown-214:
     weight: 1.0

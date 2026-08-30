@@ -8,14 +8,14 @@ name: Wistfulness
 scryfall_id: db9aa986-ac2a-44bb-a88b-04c5d0d502b2
 set: ecl
 type: Creature — Elemental Incarnation
-meta_presence: 0.0311
+meta_presence: 0.0314
 archetypes:
   living-end:
     weight: 0.962
     avg_copies: 3.84
   neoform-combo:
-    weight: 0.3109
-    avg_copies: 1.27
+    weight: 0.3197
+    avg_copies: 1.26
   bant-control:
     weight: 1.0
     avg_copies: 4.0
@@ -23,7 +23,7 @@ archetypes:
     weight: 0.7931
     avg_copies: 1.96
   unknown-67:
-    weight: 0.9725
+    weight: 0.973
     avg_copies: 3.71
   unknown-84:
     weight: 0.6667

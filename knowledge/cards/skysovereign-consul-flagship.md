@@ -9,10 +9,10 @@ type: Legendary Artifact — Vehicle
 meta_presence: 0.0174
 archetypes:
   eldrazi-tron:
-    weight: 0.3819
+    weight: 0.3804
     avg_copies: 1.0
   unknown-126:
-    weight: 0.0182
+    weight: 0.0181
     avg_copies: 1.0
   unknown-176:
     weight: 1.0

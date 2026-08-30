@@ -21,7 +21,7 @@ archetypes:
     weight: 0.01
     avg_copies: 1.0
   esper-blink:
-    weight: 0.9769
+    weight: 0.9772
     avg_copies: 1.0
   samwise-combo:
     weight: 0.1216
@@ -39,7 +39,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   goryo2:
-    weight: 0.0189
+    weight: 0.0185
     avg_copies: 1.0
   soultrader-combo:
     weight: 0.8571

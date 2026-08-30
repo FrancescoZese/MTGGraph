@@ -7,43 +7,43 @@ name: 'Unknown #152'
 meta_share: 0.0004
 list_count: 3
 top_cards:
-- name: Erode
+- name: Icetill Explorer
   weight: 1.0
   avg_copies: 4.0
 - name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 4.0
-- name: Wooded Foothills
+- name: Valakut, the Molten Pinnacle
   weight: 1.0
   avg_copies: 4.0
-- name: Valakut, the Molten Pinnacle
+- name: Erode
   weight: 1.0
   avg_copies: 4.0
 - name: Mountain
   weight: 1.0
   avg_copies: 4.0
-- name: Icetill Explorer
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 4.0
 - name: Wrenn and Six
   weight: 1.0
   avg_copies: 3.67
-- name: Dryad of the Ilysian Grove
-  weight: 1.0
-  avg_copies: 3.33
 - name: Arboreal Grazer
   weight: 1.0
   avg_copies: 3.33
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 3.33
-- name: High Noon
+- name: Dryad of the Ilysian Grove
   weight: 1.0
-  avg_copies: 2.67
+  avg_copies: 3.33
 - name: Scapeshift
   weight: 1.0
   avg_copies: 2.67
 - name: Fire Magic
+  weight: 1.0
+  avg_copies: 2.67
+- name: High Noon
   weight: 1.0
   avg_copies: 2.67
 - name: Windswept Heath
@@ -52,31 +52,31 @@ top_cards:
 - name: Commercial District
   weight: 1.0
   avg_copies: 2.33
-- name: Force of Vigor
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 2.0
 - name: Stomping Ground
   weight: 1.0
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Force of Vigor
   weight: 1.0
   avg_copies: 2.0
 - name: Surgical Extraction
   weight: 1.0
   avg_copies: 1.33
-- name: Forest
-  weight: 1.0
-  avg_copies: 1.0
-- name: Elegant Parlor
-  weight: 1.0
-  avg_copies: 1.0
 - name: Dwarven Mine
+  weight: 1.0
+  avg_copies: 1.0
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
 - name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Elegant Parlor
+  weight: 1.0
+  avg_copies: 1.0
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Jetmir's Garden
@@ -85,19 +85,19 @@ top_cards:
 - name: Vibrance
   weight: 0.6667
   avg_copies: 3.0
-- name: Obsidian Charmaw
+- name: card:valakut-exploration
   weight: 0.6667
   avg_copies: 2.5
-- name: card:valakut-exploration
+- name: Obsidian Charmaw
   weight: 0.6667
   avg_copies: 2.5
 - name: Ghost Vacuum
   weight: 0.6667
   avg_copies: 1.5
-- name: Endurance
+- name: Temple Garden
   weight: 0.6667
   avg_copies: 1.0
-- name: Temple Garden
+- name: Endurance
   weight: 0.6667
   avg_copies: 1.0
 - name: Damping Sphere
@@ -112,6 +112,9 @@ top_cards:
 - name: Prismatic Omen
   weight: 0.3333
   avg_copies: 2.0
+- name: Primeval Titan
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Fade from History
   weight: 0.3333
   avg_copies: 1.0
@@ -119,9 +122,6 @@ top_cards:
   weight: 0.3333
   avg_copies: 1.0
 - name: Meltdown
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Primeval Titan
   weight: 0.3333
   avg_copies: 1.0
 ---

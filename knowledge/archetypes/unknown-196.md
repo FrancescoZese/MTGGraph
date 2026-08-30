@@ -6,16 +6,25 @@ name: 'Unknown #196'
 meta_share: 0.0001
 list_count: 1
 top_cards:
-- name: Manamorphose
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 4.0
-- name: Mutagenic Growth
+- name: Manamorphose
   weight: 1.0
   avg_copies: 4.0
 - name: Questing Druid
   weight: 1.0
   avg_copies: 4.0
-- name: Green Sun's Zenith
+- name: card:venerated-rotpriest
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mutagenic Growth
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:march-of-burgeoning-life
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:ground-rift
   weight: 1.0
   avg_copies: 4.0
 - name: Academic Dispute
@@ -24,52 +33,43 @@ top_cards:
 - name: Summoner's Pact
   weight: 1.0
   avg_copies: 4.0
-- name: card:march-of-burgeoning-life
-  weight: 1.0
-  avg_copies: 4.0
 - name: Wooded Foothills
   weight: 1.0
   avg_copies: 4.0
-- name: card:ground-rift
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:venerated-rotpriest
-  weight: 1.0
-  avg_copies: 4.0
-- name: Windswept Heath
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 3.0
-- name: Stomping Ground
+- name: Windswept Heath
   weight: 1.0
   avg_copies: 3.0
 - name: card:gather-courage
   weight: 1.0
   avg_copies: 3.0
+- name: Revitalizing Repast
+  weight: 1.0
+  avg_copies: 2.0
+- name: Veil of Summer
+  weight: 1.0
+  avg_copies: 2.0
+- name: Force of Vigor
+  weight: 1.0
+  avg_copies: 2.0
+- name: Verdant Catacombs
+  weight: 1.0
+  avg_copies: 2.0
 - name: Endurance
   weight: 1.0
   avg_copies: 2.0
 - name: Tamiyo's Safekeeping
   weight: 1.0
   avg_copies: 2.0
-- name: Verdant Catacombs
-  weight: 1.0
-  avg_copies: 2.0
-- name: Revitalizing Repast
-  weight: 1.0
-  avg_copies: 2.0
-- name: Force of Vigor
-  weight: 1.0
-  avg_copies: 2.0
-- name: Veil of Summer
-  weight: 1.0
-  avg_copies: 2.0
 - name: Gut Shot
   weight: 1.0
   avg_copies: 2.0
-- name: Sylvan Safekeeper
+- name: Firebending Lesson
   weight: 1.0
   avg_copies: 1.0
-- name: Outland Liberator
+- name: Sylvan Safekeeper
   weight: 1.0
   avg_copies: 1.0
 - name: Forest
@@ -78,13 +78,13 @@ top_cards:
 - name: Seismic Sense
   weight: 1.0
   avg_copies: 1.0
-- name: Firebending Lesson
+- name: Commercial District
+  weight: 1.0
+  avg_copies: 1.0
+- name: True Ancestry
   weight: 1.0
   avg_copies: 1.0
 - name: Boseiju, Who Endures
-  weight: 1.0
-  avg_copies: 1.0
-- name: Origin of Metalbending
   weight: 1.0
   avg_copies: 1.0
 - name: Redirect Lightning
@@ -93,10 +93,10 @@ top_cards:
 - name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
-- name: Commercial District
+- name: Origin of Metalbending
   weight: 1.0
   avg_copies: 1.0
-- name: True Ancestry
+- name: Outland Liberator
   weight: 1.0
   avg_copies: 1.0
 ---

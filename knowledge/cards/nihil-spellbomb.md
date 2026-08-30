@@ -6,7 +6,7 @@ name: Nihil Spellbomb
 scryfall_id: e5892a23-efae-4731-9b8f-41c87960fe93
 set: a25
 type: Artifact
-meta_presence: 0.1154
+meta_presence: 0.1159
 archetypes:
   dimir-control:
     weight: 0.3086
@@ -15,10 +15,10 @@ archetypes:
     weight: 0.0074
     avg_copies: 1.0
   goryo:
-    weight: 0.5312
+    weight: 0.5329
     avg_copies: 1.23
   domain-zoo:
-    weight: 0.5455
+    weight: 0.5419
     avg_copies: 1.21
   mill:
     weight: 0.2105
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.1852
     avg_copies: 1.0
   burn:
-    weight: 0.0244
+    weight: 0.0238
     avg_copies: 2.0
   mardu-blink:
     weight: 0.125
@@ -39,22 +39,22 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0143
+    weight: 0.0142
     avg_copies: 3.5
   simic-ritual:
     weight: 0.01
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0114
+    weight: 0.0113
     avg_copies: 1.4
   esper-blink:
-    weight: 0.2222
-    avg_copies: 1.62
+    weight: 0.2237
+    avg_copies: 1.63
   broodscale-combo:
     weight: 0.003
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.0141
+    weight: 0.0139
     avg_copies: 1.0
   jund-saga:
     weight: 0.8
@@ -69,13 +69,13 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   goryo1:
-    weight: 0.224
+    weight: 0.2228
     avg_copies: 1.21
   goryo5:
-    weight: 0.0952
+    weight: 0.093
     avg_copies: 1.0
   goryo2:
-    weight: 0.1132
+    weight: 0.1111
     avg_copies: 1.0
   soultrader-combo:
     weight: 0.1429
@@ -129,8 +129,8 @@ archetypes:
     weight: 0.0312
     avg_copies: 2.0
   unknown-47:
-    weight: 0.8736
-    avg_copies: 1.87
+    weight: 0.871
+    avg_copies: 1.86
   unknown-52:
     weight: 1.0
     avg_copies: 2.08
@@ -168,8 +168,8 @@ archetypes:
     weight: 0.6
     avg_copies: 1.0
   unknown-101:
-    weight: 0.625
-    avg_copies: 1.1
+    weight: 0.6471
+    avg_copies: 1.09
   unknown-105:
     weight: 1.0
     avg_copies: 1.0
@@ -192,7 +192,7 @@ archetypes:
     weight: 0.8889
     avg_copies: 1.0
   unknown-122:
-    weight: 0.0882
+    weight: 0.0857
     avg_copies: 2.0
   unknown-125:
     weight: 1.0

@@ -25,6 +25,9 @@ archetypes:
   selesnya-midrange:
     weight: 1.0
     avg_copies: 2.0
+  unknown-76:
+    weight: 0.1111
+    avg_copies: 1.0
   unknown-80:
     weight: 1.0
     avg_copies: 2.0
@@ -32,7 +35,7 @@ archetypes:
     weight: 0.85
     avg_copies: 1.24
   unknown-126:
-    weight: 0.0061
+    weight: 0.006
     avg_copies: 1.0
   unknown-138:
     weight: 1.0

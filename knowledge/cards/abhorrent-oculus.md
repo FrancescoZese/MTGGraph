@@ -16,16 +16,16 @@ archetypes:
     weight: 0.8148
     avg_copies: 3.86
   neoform-combo:
-    weight: 0.5126
+    weight: 0.5246
     avg_copies: 1.0
   simic-ritual:
     weight: 0.99
     avg_copies: 3.88
   izzet-prowess:
-    weight: 0.0708
+    weight: 0.0701
     avg_copies: 1.35
   esper-blink:
-    weight: 0.0139
+    weight: 0.0137
     avg_copies: 2.0
   samwise-combo:
     weight: 0.5676

@@ -10,6 +10,6 @@ type: Creature — Dinosaur
 meta_presence: 0.0001
 archetypes:
   amulet-titan:
-    weight: 0.0056
+    weight: 0.0055
     avg_copies: 1.0
 ---

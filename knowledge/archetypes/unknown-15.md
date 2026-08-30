@@ -3,13 +3,13 @@ colors:
 - U
 - R
 name: 'Unknown #15'
-meta_share: 0.0031
+meta_share: 0.003
 list_count: 24
 top_cards:
-- name: Urza's Saga
+- name: Mox Opal
   weight: 1.0
   avg_copies: 3.96
-- name: Mox Opal
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 3.96
 - name: Mishra's Bauble
@@ -48,10 +48,10 @@ top_cards:
 - name: Otawara, Soaring City
   weight: 0.9167
   avg_copies: 1.0
-- name: Mountain
+- name: Breeding Pool
   weight: 0.875
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Mountain
   weight: 0.875
   avg_copies: 1.0
 - name: Force of Negation
@@ -120,10 +120,10 @@ top_cards:
 - name: card:loki-god-of-mischief
   weight: 0.25
   avg_copies: 3.5
-- name: Engineered Explosives
+- name: Repeal
   weight: 0.25
   avg_copies: 1.0
-- name: Repeal
+- name: Engineered Explosives
   weight: 0.25
   avg_copies: 1.0
 - name: Vexing Bauble
@@ -186,46 +186,46 @@ top_cards:
 - name: Relic of Progenitus
   weight: 0.0417
   avg_copies: 4.0
-- name: Portable Hole
-  weight: 0.0417
-  avg_copies: 3.0
 - name: Misty Rainforest
   weight: 0.0417
   avg_copies: 3.0
 - name: Astrologian's Planisphere
   weight: 0.0417
   avg_copies: 3.0
+- name: Portable Hole
+  weight: 0.0417
+  avg_copies: 3.0
+- name: Snow-Covered Island
+  weight: 0.0417
+  avg_copies: 2.0
 - name: Hallowed Fountain
   weight: 0.0417
   avg_copies: 2.0
 - name: Vivi Ornitier
   weight: 0.0417
   avg_copies: 2.0
-- name: Snow-Covered Island
-  weight: 0.0417
-  avg_copies: 2.0
 - name: Teferi, Time Raveler
   weight: 0.0417
   avg_copies: 2.0
-- name: Polluted Delta
-  weight: 0.0417
-  avg_copies: 1.0
-- name: card:pyrite-spellbomb
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Ghost Vacuum
-  weight: 0.0417
-  avg_copies: 1.0
 - name: Snow-Covered Mountain
   weight: 0.0417
   avg_copies: 1.0
-- name: Surgical Extraction
+- name: Snapcaster Mage
   weight: 0.0417
   avg_copies: 1.0
 - name: Annul
   weight: 0.0417
   avg_copies: 1.0
-- name: Snapcaster Mage
+- name: Polluted Delta
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Ghost Vacuum
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Surgical Extraction
+  weight: 0.0417
+  avg_copies: 1.0
+- name: card:pyrite-spellbomb
   weight: 0.0417
   avg_copies: 1.0
 - name: card:wizard-s-staff

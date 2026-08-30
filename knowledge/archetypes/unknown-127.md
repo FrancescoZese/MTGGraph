@@ -15,22 +15,22 @@ top_cards:
 - name: Doorkeeper Thrull
   weight: 1.0
   avg_copies: 4.0
-- name: Wooded Foothills
+- name: Territorial Kavu
+  weight: 1.0
+  avg_copies: 4.0
+- name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline Binding
   weight: 1.0
   avg_copies: 4.0
-- name: Territorial Kavu
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodstained Mire
-  weight: 1.0
-  avg_copies: 4.0
-- name: Leyline of the Guildpact
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
@@ -54,37 +54,37 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 2.09
+- name: Arena of Glory
+  weight: 1.0
+  avg_copies: 2.0
 - name: Wear
   weight: 1.0
   avg_copies: 2.0
 - name: Obsidian Charmaw
   weight: 1.0
   avg_copies: 2.0
-- name: Arena of Glory
-  weight: 1.0
-  avg_copies: 2.0
 - name: High Noon
   weight: 1.0
   avg_copies: 1.33
-- name: Elegant Parlor
-  weight: 1.0
-  avg_copies: 1.0
-- name: Godless Shrine
-  weight: 1.0
-  avg_copies: 1.0
-- name: Steam Vents
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
 - name: Overgrown Tomb
   weight: 1.0
   avg_copies: 1.0
-- name: Mountain
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Godless Shrine
+  weight: 1.0
+  avg_copies: 1.0
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Zagoth Triome
+  weight: 1.0
+  avg_copies: 1.0
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
 - name: Swamp
@@ -96,25 +96,25 @@ top_cards:
 - name: Fable of the Mirror-Breaker
   weight: 0.6667
   avg_copies: 2.0
-- name: card:shadow-prophecy
-  weight: 0.1667
-  avg_copies: 2.0
 - name: Nishoba Brawler
   weight: 0.1667
   avg_copies: 2.0
-- name: Pest Control
+- name: card:shadow-prophecy
   weight: 0.1667
-  avg_copies: 1.0
-- name: Nihil Spellbomb
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Scalding Tarn
+  avg_copies: 2.0
+- name: Clarion Conqueror
   weight: 0.1667
   avg_copies: 1.0
 - name: Winternight Stories
   weight: 0.1667
   avg_copies: 1.0
-- name: Clarion Conqueror
+- name: Scalding Tarn
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Pest Control
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Nihil Spellbomb
   weight: 0.1667
   avg_copies: 1.0
 ---

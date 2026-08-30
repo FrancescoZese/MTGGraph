@@ -18,10 +18,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 1.0
   avg_copies: 3.12
-- name: Fractured Sanity
+- name: Archive Trap
   weight: 0.9737
   avg_copies: 4.0
-- name: Archive Trap
+- name: Fractured Sanity
   weight: 0.9737
   avg_copies: 4.0
 - name: Fatal Push
@@ -102,10 +102,10 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.3947
   avg_copies: 2.27
-- name: Baleful Mastery
+- name: Feed the Cycle
   weight: 0.3684
   avg_copies: 1.0
-- name: Feed the Cycle
+- name: Baleful Mastery
   weight: 0.3684
   avg_copies: 1.0
 - name: Engineered Explosives
@@ -180,13 +180,13 @@ top_cards:
 - name: Kitsune's Technique
   weight: 0.0526
   avg_copies: 2.0
+- name: Prismatic Vista
+  weight: 0.0526
+  avg_copies: 1.5
 - name: Force of Negation
   weight: 0.0526
   avg_copies: 1.5
 - name: Damping Sphere
-  weight: 0.0526
-  avg_copies: 1.5
-- name: Prismatic Vista
   weight: 0.0526
   avg_copies: 1.5
 - name: Hallowed Fountain
@@ -207,22 +207,16 @@ top_cards:
 - name: Leyline of the Void
   weight: 0.0263
   avg_copies: 3.0
-- name: High Noon
-  weight: 0.0263
-  avg_copies: 3.0
 - name: Spell Pierce
   weight: 0.0263
   avg_copies: 3.0
-- name: Hurkyl's Recall
+- name: High Noon
   weight: 0.0263
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Flare of Denial
   weight: 0.0263
   avg_copies: 2.0
 - name: Torpor Orb
-  weight: 0.0263
-  avg_copies: 2.0
-- name: Vendetta
   weight: 0.0263
   avg_copies: 2.0
 - name: Meltdown
@@ -231,7 +225,31 @@ top_cards:
 - name: card:mind-funeral
   weight: 0.0263
   avg_copies: 2.0
+- name: Vendetta
+  weight: 0.0263
+  avg_copies: 2.0
+- name: Hurkyl's Recall
+  weight: 0.0263
+  avg_copies: 2.0
+- name: Plains
+  weight: 0.0263
+  avg_copies: 1.0
+- name: Ravenous Trap
+  weight: 0.0263
+  avg_copies: 1.0
+- name: Steam Vents
+  weight: 0.0263
+  avg_copies: 1.0
 - name: Gloomlake Verge
+  weight: 0.0263
+  avg_copies: 1.0
+- name: Requiting Hex
+  weight: 0.0263
+  avg_copies: 1.0
+- name: Tormod's Crypt
+  weight: 0.0263
+  avg_copies: 1.0
+- name: Meticulous Archive
   weight: 0.0263
   avg_copies: 1.0
 - name: Subtlety
@@ -240,31 +258,13 @@ top_cards:
 - name: Mindbreak Trap
   weight: 0.0263
   avg_copies: 1.0
-- name: Darkslick Shores
-  weight: 0.0263
-  avg_copies: 1.0
-- name: Plains
-  weight: 0.0263
-  avg_copies: 1.0
-- name: card:loki-god-of-mischief
-  weight: 0.0263
-  avg_copies: 1.0
-- name: Steam Vents
-  weight: 0.0263
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.0263
-  avg_copies: 1.0
 - name: Bloodchief's Thirst
   weight: 0.0263
   avg_copies: 1.0
-- name: Requiting Hex
+- name: Darkslick Shores
   weight: 0.0263
   avg_copies: 1.0
-- name: Ravenous Trap
-  weight: 0.0263
-  avg_copies: 1.0
-- name: Tormod's Crypt
+- name: card:loki-god-of-mischief
   weight: 0.0263
   avg_copies: 1.0
 ---

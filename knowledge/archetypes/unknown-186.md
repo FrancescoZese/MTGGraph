@@ -34,34 +34,34 @@ top_cards:
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.29
+- name: Teferi, Time Raveler
+  weight: 1.0
+  avg_copies: 2.25
+- name: Island
+  weight: 1.0
+  avg_copies: 2.25
 - name: Solitude
   weight: 1.0
   avg_copies: 2.25
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 2.25
-- name: Island
-  weight: 1.0
-  avg_copies: 2.25
-- name: Teferi, Time Raveler
-  weight: 1.0
-  avg_copies: 2.25
-- name: Plains
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 1.75
-- name: Steam Vents
+- name: Plains
   weight: 1.0
   avg_copies: 1.75
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.75
-- name: Arid Mesa
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.75
-- name: Mystic Gate
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.5
-- name: Thundering Falls
+- name: Mystic Gate
   weight: 1.0
   avg_copies: 1.5
 - name: Hallowed Fountain
@@ -100,28 +100,28 @@ top_cards:
 - name: card:secluded-starforge
   weight: 0.5
   avg_copies: 1.0
-- name: Polluted Delta
-  weight: 0.5
-  avg_copies: 1.0
 - name: Misty Rainforest
-  weight: 0.5
-  avg_copies: 1.0
-- name: March of Otherworldly Light
-  weight: 0.5
-  avg_copies: 1.0
-- name: Force of Negation
   weight: 0.5
   avg_copies: 1.0
 - name: Flame of Anor
   weight: 0.5
   avg_copies: 1.0
+- name: Force of Negation
+  weight: 0.5
+  avg_copies: 1.0
 - name: Hall of Storm Giants
+  weight: 0.5
+  avg_copies: 1.0
+- name: March of Otherworldly Light
+  weight: 0.5
+  avg_copies: 1.0
+- name: Teferi, Hero of Dominaria
   weight: 0.5
   avg_copies: 1.0
 - name: Dovin's Veto
   weight: 0.5
   avg_copies: 1.0
-- name: Teferi, Hero of Dominaria
+- name: Polluted Delta
   weight: 0.5
   avg_copies: 1.0
 - name: Obsidian Charmaw
@@ -130,13 +130,13 @@ top_cards:
 - name: Archmage's Charm
   weight: 0.25
   avg_copies: 2.0
-- name: Prismatic Ending
-  weight: 0.25
-  avg_copies: 2.0
 - name: Tune the Narrative
   weight: 0.25
   avg_copies: 2.0
-- name: Erode
+- name: Prismatic Ending
+  weight: 0.25
+  avg_copies: 2.0
+- name: Sacred Foundry
   weight: 0.25
   avg_copies: 1.0
 - name: Lórien Revealed
@@ -145,7 +145,7 @@ top_cards:
 - name: Castle Vantress
   weight: 0.25
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Erode
   weight: 0.25
   avg_copies: 1.0
 ---

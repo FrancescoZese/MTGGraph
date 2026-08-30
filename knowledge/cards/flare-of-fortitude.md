@@ -13,6 +13,6 @@ archetypes:
     weight: 0.0455
     avg_copies: 4.0
   azorius-blink:
-    weight: 0.0282
+    weight: 0.0278
     avg_copies: 2.0
 ---

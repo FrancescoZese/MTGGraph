@@ -12,19 +12,19 @@ top_cards:
 - name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
+- name: Territorial Kavu
+  weight: 1.0
+  avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Wooded Foothills
-  weight: 1.0
-  avg_copies: 4.0
-- name: Territorial Kavu
-  weight: 1.0
-  avg_copies: 4.0
 - name: Leyline of the Guildpact
+  weight: 1.0
+  avg_copies: 4.0
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
@@ -45,13 +45,13 @@ top_cards:
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.14
-- name: Temple Garden
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Indatha Triome
   weight: 1.0
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 - name: Nihil Spellbomb
@@ -66,25 +66,25 @@ top_cards:
 - name: Damping Sphere
   weight: 0.7143
   avg_copies: 2.2
-- name: Wrath of the Skies
+- name: Mystical Dispute
   weight: 0.7143
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Wrath of the Skies
   weight: 0.7143
   avg_copies: 2.0
 - name: Subtlety
   weight: 0.7143
   avg_copies: 1.57
-- name: Forest
+- name: Arena of Glory
   weight: 0.7143
   avg_copies: 1.0
-- name: Arena of Glory
+- name: Sacred Foundry
   weight: 0.7143
   avg_copies: 1.0
 - name: Island
   weight: 0.7143
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Forest
   weight: 0.7143
   avg_copies: 1.0
 - name: Flooded Strand
@@ -120,49 +120,49 @@ top_cards:
 - name: Arid Mesa
   weight: 0.2857
   avg_copies: 3.5
-- name: Hallowed Fountain
+- name: Overgrown Tomb
   weight: 0.2857
   avg_copies: 1.0
-- name: Overgrown Tomb
+- name: Hallowed Fountain
   weight: 0.2857
   avg_copies: 1.0
 - name: Rest in Peace
   weight: 0.1429
   avg_copies: 3.0
+- name: card:anger-of-the-gods
+  weight: 0.1429
+  avg_copies: 2.0
+- name: Vexing Bauble
+  weight: 0.1429
+  avg_copies: 2.0
+- name: Drannith Magistrate
+  weight: 0.1429
+  avg_copies: 2.0
 - name: Practiced Offense
   weight: 0.1429
   avg_copies: 2.0
 - name: Obsidian Charmaw
   weight: 0.1429
   avg_copies: 2.0
-- name: card:anger-of-the-gods
-  weight: 0.1429
-  avg_copies: 2.0
-- name: Drannith Magistrate
-  weight: 0.1429
-  avg_copies: 2.0
 - name: Ashiok, Dream Render
   weight: 0.1429
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Plains
   weight: 0.1429
-  avg_copies: 2.0
+  avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.1429
   avg_copies: 1.0
 - name: High Noon
   weight: 0.1429
   avg_copies: 1.0
-- name: Plains
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Shatterstorm
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Godless Shrine
   weight: 0.1429
   avg_copies: 1.0
 - name: Stomping Ground
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Shatterstorm
   weight: 0.1429
   avg_copies: 1.0
 - name: Mountain

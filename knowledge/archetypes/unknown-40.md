@@ -9,19 +9,31 @@ top_cards:
 - name: Manamorphose
   weight: 1.0
   avg_copies: 4.0
-- name: Vessel of Volatility
+- name: Veil of Summer
+  weight: 1.0
+  avg_copies: 4.0
+- name: Pinnacle Monk
+  weight: 1.0
+  avg_copies: 4.0
+- name: Sundering Eruption
+  weight: 1.0
+  avg_copies: 4.0
+- name: Stormscale Scion
   weight: 1.0
   avg_copies: 4.0
 - name: Wild Cantor
   weight: 1.0
   avg_copies: 4.0
-- name: Stump Stomp
+- name: Shatterskull Smashing
   weight: 1.0
   avg_copies: 4.0
-- name: Pyretic Ritual
+- name: Desperate Ritual
   weight: 1.0
   avg_copies: 4.0
-- name: Madcap Experiment
+- name: Irencrag Feat
+  weight: 1.0
+  avg_copies: 4.0
+- name: Goblin Charbelcher
   weight: 1.0
   avg_copies: 4.0
 - name: Strike It Rich
@@ -30,28 +42,16 @@ top_cards:
 - name: Natural State
   weight: 1.0
   avg_copies: 4.0
-- name: Pinnacle Monk
+- name: Pyretic Ritual
   weight: 1.0
   avg_copies: 4.0
-- name: Stormscale Scion
+- name: Vessel of Volatility
   weight: 1.0
   avg_copies: 4.0
-- name: Veil of Summer
+- name: Stump Stomp
   weight: 1.0
   avg_copies: 4.0
-- name: Desperate Ritual
-  weight: 1.0
-  avg_copies: 4.0
-- name: Goblin Charbelcher
-  weight: 1.0
-  avg_copies: 4.0
-- name: Sundering Eruption
-  weight: 1.0
-  avg_copies: 4.0
-- name: Shatterskull Smashing
-  weight: 1.0
-  avg_copies: 4.0
-- name: Irencrag Feat
+- name: Madcap Experiment
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline of Sanctity

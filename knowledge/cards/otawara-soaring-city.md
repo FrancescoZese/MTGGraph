@@ -6,7 +6,7 @@ name: Otawara, Soaring City
 scryfall_id: 486d7edc-d983-41f0-8b78-c99aecd72996
 set: neo
 type: Legendary Land
-meta_presence: 0.118
+meta_presence: 0.1184
 archetypes:
   ruby-storm:
     weight: 0.0074
@@ -15,13 +15,13 @@ archetypes:
     weight: 0.5926
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.95
+    weight: 0.9505
     avg_copies: 1.0
   goryo:
-    weight: 0.0045
+    weight: 0.0044
     avg_copies: 1.0
   azorius-control:
-    weight: 0.6759
+    weight: 0.6789
     avg_copies: 1.0
   living-end:
     weight: 0.7215
@@ -30,13 +30,13 @@ archetypes:
     weight: 0.3714
     avg_copies: 1.0
   affinity:
-    weight: 0.0648
+    weight: 0.0661
     avg_copies: 1.0
   mill:
     weight: 0.8947
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.042
+    weight: 0.041
     avg_copies: 1.0
   mono-blue-tron:
     weight: 1.0
@@ -72,7 +72,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   goryo2:
-    weight: 0.1887
+    weight: 0.2037
     avg_copies: 1.0
   grixis-control:
     weight: 0.2857
@@ -111,7 +111,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.7308
+    weight: 0.7366
     avg_copies: 1.0
   unknown-59:
     weight: 0.5
@@ -126,13 +126,13 @@ archetypes:
     weight: 0.3448
     avg_copies: 1.0
   unknown-67:
-    weight: 0.3394
+    weight: 0.3333
     avg_copies: 1.0
   unknown-73:
     weight: 1.0
     avg_copies: 1.0
   unknown-76:
-    weight: 0.625
+    weight: 0.6667
     avg_copies: 1.0
   unknown-82:
     weight: 1.0
@@ -226,7 +226,7 @@ archetypes:
     avg_copies: 1.0
   unknown-248:
     weight: 1.0
-    avg_copies: 2.67
+    avg_copies: 3.0
   unknown-247:
     weight: 1.0
     avg_copies: 1.0
@@ -242,6 +242,9 @@ archetypes:
   unknown-269:
     weight: 1.0
     avg_copies: 2.0
+  unknown-279:
+    weight: 1.0
+    avg_copies: 1.0
   unknown-275:
     weight: 1.0
     avg_copies: 1.0

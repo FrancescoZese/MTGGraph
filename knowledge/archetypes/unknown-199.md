@@ -11,6 +11,9 @@ top_cards:
 - name: Dauthi Voidwalker
   weight: 1.0
   avg_copies: 4.0
+- name: card:the-rack
+  weight: 1.0
+  avg_copies: 4.0
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
@@ -18,9 +21,6 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:the-rack
   weight: 1.0
   avg_copies: 4.0
 - name: Fatal Push
@@ -47,10 +47,10 @@ top_cards:
 - name: Liliana of the Veil
   weight: 1.0
   avg_copies: 2.0
-- name: card:bandit-s-talent
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: card:bandit-s-talent
   weight: 1.0
   avg_copies: 2.0
 - name: The Meathook Massacre
@@ -95,13 +95,13 @@ top_cards:
 - name: Castle Locthwain
   weight: 0.3333
   avg_copies: 1.0
+- name: card:black-widow-super-spy
+  weight: 0.1667
+  avg_copies: 2.0
 - name: card:gollum-riddle-master
   weight: 0.1667
   avg_copies: 2.0
 - name: Ashiok, Dream Render
-  weight: 0.1667
-  avg_copies: 2.0
-- name: card:black-widow-super-spy
   weight: 0.1667
   avg_copies: 2.0
 - name: Damnation

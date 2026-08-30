@@ -6,13 +6,13 @@ name: Selesnya Sanctuary
 scryfall_id: fdc53c6a-8e28-4314-9bcf-b31b6c6f56d7
 set: clu
 type: Land
-meta_presence: 0.0009
+meta_presence: 0.001
 archetypes:
   amulet-titan:
-    weight: 0.0167
-    avg_copies: 3.67
+    weight: 0.022
+    avg_copies: 3.75
   unknown-76:
-    weight: 0.25
+    weight: 0.2222
     avg_copies: 2.0
   unknown-153:
     weight: 0.5

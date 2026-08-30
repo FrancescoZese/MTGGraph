@@ -16,46 +16,46 @@ top_cards:
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
-- name: Exhibition Tidecaller
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thought Scour
-  weight: 1.0
-  avg_copies: 4.0
-- name: Faithless Looting
-  weight: 1.0
-  avg_copies: 4.0
 - name: Arclight Phoenix
   weight: 1.0
   avg_copies: 4.0
 - name: Demilich
   weight: 1.0
   avg_copies: 4.0
+- name: Exhibition Tidecaller
+  weight: 1.0
+  avg_copies: 4.0
 - name: Steam Vents
   weight: 1.0
   avg_copies: 4.0
+- name: Faithless Looting
+  weight: 1.0
+  avg_copies: 4.0
+- name: Thought Scour
+  weight: 1.0
+  avg_copies: 4.0
+- name: Lava Dart
+  weight: 1.0
+  avg_copies: 3.0
 - name: Gut Shot
   weight: 1.0
   avg_copies: 3.0
 - name: Meltdown
   weight: 1.0
   avg_copies: 3.0
-- name: Lava Dart
-  weight: 1.0
-  avg_copies: 3.0
 - name: Force of Negation
   weight: 1.0
   avg_copies: 2.67
-- name: Flashback
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 2.0
-- name: Sink into Stupor
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 2.0
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 2.0
-- name: Wooded Foothills
+- name: Flashback
   weight: 1.0
   avg_copies: 2.0
 - name: Mountain
@@ -70,13 +70,13 @@ top_cards:
 - name: Consign to Memory
   weight: 0.5
   avg_copies: 4.0
-- name: Surgical Extraction
-  weight: 0.5
-  avg_copies: 3.0
 - name: Preordain
   weight: 0.5
   avg_copies: 3.0
 - name: Rough
+  weight: 0.5
+  avg_copies: 3.0
+- name: Surgical Extraction
   weight: 0.5
   avg_copies: 3.0
 - name: Island
@@ -91,10 +91,10 @@ top_cards:
 - name: Flame of Anor
   weight: 0.5
   avg_copies: 1.5
-- name: Into the Flood Maw
+- name: Thundering Falls
   weight: 0.5
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Into the Flood Maw
   weight: 0.5
   avg_copies: 1.0
 ---

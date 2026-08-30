@@ -8,19 +8,19 @@ name: Wear // Tear
 scryfall_id: e01cc65a-0e38-4f41-b9ed-796ef0355d0b
 set: moc
 type: Instant // Instant
-meta_presence: 0.2096
+meta_presence: 0.1129
 archetypes:
   ruby-storm:
-    weight: 0.8561
+    weight: 0.8566
     avg_copies: 2.22
   boros-energy:
-    weight: 0.9526
-    avg_copies: 1.63
+    weight: 0.0025
+    avg_copies: 2.0
   jeskai-energy:
     weight: 0.0148
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0093
+    weight: 0.0092
     avg_copies: 2.0
   jeskai-control:
     weight: 0.0286
@@ -29,11 +29,11 @@ archetypes:
     weight: 0.0035
     avg_copies: 2.0
   domain-zoo:
-    weight: 0.9481
+    weight: 0.9484
     avg_copies: 1.56
   burn:
-    weight: 0.5122
-    avg_copies: 2.1
+    weight: 0.5238
+    avg_copies: 2.05
   mardu-blink:
     weight: 0.9583
     avg_copies: 2.0
@@ -44,13 +44,13 @@ archetypes:
     weight: 0.766
     avg_copies: 1.77
   izzet-prowess:
-    weight: 0.0114
+    weight: 0.0113
     avg_copies: 2.0
   4c-omnath:
     weight: 0.5
     avg_copies: 2.5
   azorius-blink:
-    weight: 0.0845
+    weight: 0.0833
     avg_copies: 1.0
   goryo0:
     weight: 1.0
@@ -104,8 +104,8 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.0
   unknown-96:
-    weight: 0.9028
-    avg_copies: 1.92
+    weight: 0.9079
+    avg_copies: 1.93
   unknown-99:
     weight: 1.0
     avg_copies: 1.0
@@ -113,7 +113,7 @@ archetypes:
     weight: 0.8
     avg_copies: 1.0
   unknown-101:
-    weight: 0.0625
+    weight: 0.0588
     avg_copies: 2.0
   unknown-110:
     weight: 1.0
@@ -131,7 +131,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-122:
-    weight: 0.0294
+    weight: 0.0286
     avg_copies: 2.0
   unknown-127:
     weight: 1.0
@@ -155,7 +155,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.7642
+    weight: 0.7664
     avg_copies: 2.07
   unknown-159:
     weight: 1.0

@@ -12,10 +12,10 @@ type: Legendary Creature — Spirit Dragon
 meta_presence: 0.0141
 archetypes:
   amulet-titan:
-    weight: 0.0111
+    weight: 0.011
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.9076
+    weight: 0.8934
     avg_copies: 1.0
   unknown-19:
     weight: 1.0

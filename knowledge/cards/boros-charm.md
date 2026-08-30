@@ -8,13 +8,13 @@ name: Boros Charm
 scryfall_id: e0d8c9f6-cbbd-4694-b100-01cfb81036cc
 set: fdn
 type: Instant
-meta_presence: 0.0048
+meta_presence: 0.0049
 archetypes:
   domain-zoo:
     weight: 0.0065
     avg_copies: 2.0
   burn:
-    weight: 0.8537
+    weight: 0.8571
     avg_copies: 3.89
   unknown-86:
     weight: 0.0833
