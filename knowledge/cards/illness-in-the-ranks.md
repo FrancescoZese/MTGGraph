@@ -13,13 +13,13 @@ archetypes:
     weight: 0.2609
     avg_copies: 1.17
   mill:
-    weight: 0.0789
+    weight: 0.0769
     avg_copies: 1.0
   hollow-one:
     weight: 0.2647
     avg_copies: 1.0
   orzhov-blink:
-    weight: 0.05
+    weight: 0.0476
     avg_copies: 2.0
   dredge:
     weight: 0.0357

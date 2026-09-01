@@ -16,7 +16,7 @@ archetypes:
     weight: 0.0123
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0046
+    weight: 0.0045
     avg_copies: 1.0
   naya-midrange:
     weight: 1.0

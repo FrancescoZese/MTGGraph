@@ -10,7 +10,7 @@ type: Sorcery
 meta_presence: 0.0023
 archetypes:
   simic-ritual:
-    weight: 0.01
+    weight: 0.0099
     avg_copies: 1.0
   goryo5:
     weight: 0.0233

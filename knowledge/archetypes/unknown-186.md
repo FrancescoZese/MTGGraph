@@ -7,13 +7,13 @@ name: 'Unknown #186'
 meta_share: 0.0005
 list_count: 4
 top_cards:
-- name: Galvanic Discharge
-  weight: 1.0
-  avg_copies: 4.0
 - name: Counterspell
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
+- name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
 - name: Consult the Star Charts
@@ -34,10 +34,10 @@ top_cards:
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.29
-- name: Teferi, Time Raveler
+- name: Island
   weight: 1.0
   avg_copies: 2.25
-- name: Island
+- name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 2.25
 - name: Solitude
@@ -46,13 +46,13 @@ top_cards:
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 2.25
-- name: Arid Mesa
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.75
 - name: Plains
   weight: 1.0
   avg_copies: 1.75
-- name: Meticulous Archive
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 1.75
 - name: Steam Vents
@@ -88,28 +88,16 @@ top_cards:
 - name: Field of Ruin
   weight: 0.5
   avg_copies: 2.5
-- name: High Noon
+- name: Rest in Peace
   weight: 0.5
   avg_copies: 2.0
-- name: Rest in Peace
+- name: High Noon
   weight: 0.5
   avg_copies: 2.0
 - name: Invert Polarity
   weight: 0.5
   avg_copies: 2.0
-- name: card:secluded-starforge
-  weight: 0.5
-  avg_copies: 1.0
 - name: Misty Rainforest
-  weight: 0.5
-  avg_copies: 1.0
-- name: Flame of Anor
-  weight: 0.5
-  avg_copies: 1.0
-- name: Force of Negation
-  weight: 0.5
-  avg_copies: 1.0
-- name: Hall of Storm Giants
   weight: 0.5
   avg_copies: 1.0
 - name: March of Otherworldly Light
@@ -118,10 +106,22 @@ top_cards:
 - name: Teferi, Hero of Dominaria
   weight: 0.5
   avg_copies: 1.0
-- name: Dovin's Veto
+- name: card:secluded-starforge
+  weight: 0.5
+  avg_copies: 1.0
+- name: Force of Negation
+  weight: 0.5
+  avg_copies: 1.0
+- name: Flame of Anor
+  weight: 0.5
+  avg_copies: 1.0
+- name: Hall of Storm Giants
   weight: 0.5
   avg_copies: 1.0
 - name: Polluted Delta
+  weight: 0.5
+  avg_copies: 1.0
+- name: Dovin's Veto
   weight: 0.5
   avg_copies: 1.0
 - name: Obsidian Charmaw
@@ -139,13 +139,13 @@ top_cards:
 - name: Sacred Foundry
   weight: 0.25
   avg_copies: 1.0
-- name: Lórien Revealed
-  weight: 0.25
-  avg_copies: 1.0
 - name: Castle Vantress
   weight: 0.25
   avg_copies: 1.0
 - name: Erode
+  weight: 0.25
+  avg_copies: 1.0
+- name: Lórien Revealed
   weight: 0.25
   avg_copies: 1.0
 ---

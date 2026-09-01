@@ -6,7 +6,7 @@ colors:
 - R
 - G
 name: Domain Zoo
-meta_share: 0.0195
+meta_share: 0.0194
 list_count: 155
 top_cards:
 - name: Territorial Kavu
@@ -204,37 +204,43 @@ top_cards:
 - name: Thoughtseize
   weight: 0.0194
   avg_copies: 2.0
-- name: Bloodstained Mire
+- name: Marsh Flats
   weight: 0.0129
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Bloodstained Mire
   weight: 0.0129
   avg_copies: 4.0
 - name: Drannith Magistrate
   weight: 0.0129
   avg_copies: 1.5
-- name: Does Machines
-  weight: 0.0129
-  avg_copies: 1.0
-- name: Elegant Parlor
-  weight: 0.0129
-  avg_copies: 1.0
-- name: Kaito, Bane of Nightmares
-  weight: 0.0129
-  avg_copies: 1.0
-- name: Xander's Lounge
+- name: Overlord of the Balemurk
   weight: 0.0129
   avg_copies: 1.0
 - name: Overgrown Tomb
   weight: 0.0129
   avg_copies: 1.0
-- name: Overlord of the Balemurk
+- name: Kaito, Bane of Nightmares
   weight: 0.0129
   avg_copies: 1.0
 - name: Zagoth Triome
   weight: 0.0129
   avg_copies: 1.0
+- name: Elegant Parlor
+  weight: 0.0129
+  avg_copies: 1.0
+- name: Xander's Lounge
+  weight: 0.0129
+  avg_copies: 1.0
+- name: Does Machines
+  weight: 0.0129
+  avg_copies: 1.0
+- name: Professor of Symbology
+  weight: 0.0065
+  avg_copies: 4.0
 - name: Persist
+  weight: 0.0065
+  avg_copies: 4.0
+- name: Faithless Looting
   weight: 0.0065
   avg_copies: 4.0
 - name: Aurora Awakener
@@ -243,64 +249,58 @@ top_cards:
 - name: Archon of Cruelty
   weight: 0.0065
   avg_copies: 4.0
-- name: Professor of Symbology
-  weight: 0.0065
-  avg_copies: 4.0
-- name: Faithless Looting
-  weight: 0.0065
-  avg_copies: 4.0
 - name: Summoning Trap
   weight: 0.0065
   avg_copies: 3.0
-- name: Surge of Salvation
-  weight: 0.0065
-  avg_copies: 2.0
-- name: Boros Charm
-  weight: 0.0065
-  avg_copies: 2.0
-- name: No More Lies
+- name: Mana Tithe
   weight: 0.0065
   avg_copies: 2.0
 - name: Hardened Academic
   weight: 0.0065
   avg_copies: 2.0
-- name: Mana Tithe
+- name: Deafening Silence
+  weight: 0.0065
+  avg_copies: 2.0
+- name: No More Lies
+  weight: 0.0065
+  avg_copies: 2.0
+- name: Boros Charm
   weight: 0.0065
   avg_copies: 2.0
 - name: Forest
   weight: 0.0065
   avg_copies: 2.0
-- name: Deafening Silence
+- name: Surge of Salvation
   weight: 0.0065
   avg_copies: 2.0
 - name: Hurkyl's Recall
   weight: 0.0065
   avg_copies: 2.0
-- name: Boromir, Warden of the Tower
+- name: Decorum Dissertation
   weight: 0.0065
   avg_copies: 1.0
-- name: Thraben Charm
+- name: Shadowy Backstreet
+  weight: 0.0065
+  avg_copies: 1.0
+- name: Misty Rainforest
   weight: 0.0065
   avg_copies: 1.0
 - name: Ruinous Waterbending
   weight: 0.0065
   avg_copies: 1.0
-- name: Redirect Lightning
+- name: Alpine Moon
   weight: 0.0065
   avg_copies: 1.0
-- name: Abandon Attachments
+- name: Meticulous Archive
   weight: 0.0065
   avg_copies: 1.0
-- name: Firebending Lesson
+- name: Boromir, Warden of the Tower
   weight: 0.0065
   avg_copies: 1.0
-- name: Price of Freedom
+- name: Origin of Metalbending
   weight: 0.0065
   avg_copies: 1.0
-- name: Sacred Ground
-  weight: 0.0065
-  avg_copies: 1.0
-- name: Island
+- name: Chthonian Nightmare
   weight: 0.0065
   avg_copies: 1.0
 - name: Erode
@@ -309,37 +309,37 @@ top_cards:
 - name: Boomerang Basics
   weight: 0.0065
   avg_copies: 1.0
-- name: Dai Li Indoctrination
-  weight: 0.0065
-  avg_copies: 1.0
-- name: Decorum Dissertation
-  weight: 0.0065
-  avg_copies: 1.0
-- name: Origin of Metalbending
-  weight: 0.0065
-  avg_copies: 1.0
-- name: Misty Rainforest
-  weight: 0.0065
-  avg_copies: 1.0
-- name: Chthonian Nightmare
-  weight: 0.0065
-  avg_copies: 1.0
-- name: Fire Magic
+- name: Price of Freedom
   weight: 0.0065
   avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 0.0065
   avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.0065
-  avg_copies: 1.0
-- name: Shadowy Backstreet
-  weight: 0.0065
-  avg_copies: 1.0
-- name: Alpine Moon
-  weight: 0.0065
-  avg_copies: 1.0
 - name: Glasspool Mimic
+  weight: 0.0065
+  avg_copies: 1.0
+- name: Firebending Lesson
+  weight: 0.0065
+  avg_copies: 1.0
+- name: Fire Magic
+  weight: 0.0065
+  avg_copies: 1.0
+- name: Sacred Ground
+  weight: 0.0065
+  avg_copies: 1.0
+- name: Island
+  weight: 0.0065
+  avg_copies: 1.0
+- name: Dai Li Indoctrination
+  weight: 0.0065
+  avg_copies: 1.0
+- name: Thraben Charm
+  weight: 0.0065
+  avg_copies: 1.0
+- name: Redirect Lightning
+  weight: 0.0065
+  avg_copies: 1.0
+- name: Abandon Attachments
   weight: 0.0065
   avg_copies: 1.0
 ---

@@ -10,7 +10,7 @@ type: Creature — Zombie Goblin Wizard
 meta_presence: 0.0043
 archetypes:
   simic-ritual:
-    weight: 0.01
+    weight: 0.0099
     avg_copies: 4.0
   samwise-combo:
     weight: 0.0946

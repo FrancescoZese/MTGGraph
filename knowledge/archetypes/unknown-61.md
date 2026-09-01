@@ -3,15 +3,15 @@ colors:
 - G
 name: 'Unknown #61'
 meta_share: 0.0165
-list_count: 131
+list_count: 132
 top_cards:
 - name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
-- name: Fight Rigging
+- name: Eldrazi Temple
   weight: 1.0
   avg_copies: 3.97
-- name: Eldrazi Temple
+- name: Fight Rigging
   weight: 1.0
   avg_copies: 3.97
 - name: Slumbering Trudge
@@ -45,127 +45,127 @@ top_cards:
   weight: 0.9924
   avg_copies: 1.02
 - name: Dryad Arbor
-  weight: 0.9771
+  weight: 0.9773
   avg_copies: 1.0
 - name: Trinisphere
-  weight: 0.9542
-  avg_copies: 2.35
-- name: Thought-Knot Seer
-  weight: 0.9084
+  weight: 0.9545
   avg_copies: 2.36
+- name: Thought-Knot Seer
+  weight: 0.9091
+  avg_copies: 2.37
 - name: Boseiju, Who Endures
-  weight: 0.8244
+  weight: 0.8258
   avg_copies: 1.06
 - name: Ugin, Eye of the Storms
-  weight: 0.8092
+  weight: 0.8106
   avg_copies: 1.85
 - name: Ulamog, the Ceaseless Hunger
-  weight: 0.7786
-  avg_copies: 1.98
+  weight: 0.7803
+  avg_copies: 2.0
 - name: Endurance
-  weight: 0.7405
+  weight: 0.7424
   avg_copies: 2.1
 - name: Gemstone Caverns
-  weight: 0.7252
+  weight: 0.7273
   avg_copies: 1.01
 - name: Force of Vigor
-  weight: 0.6947
+  weight: 0.6894
   avg_copies: 2.38
 - name: Drowner of Truth
-  weight: 0.6947
+  weight: 0.6894
   avg_copies: 1.93
 - name: Dismember
-  weight: 0.6718
+  weight: 0.6667
   avg_copies: 1.17
 - name: Elder Gargaroth
-  weight: 0.6565
+  weight: 0.6591
   avg_copies: 1.01
 - name: Chalice of the Void
-  weight: 0.6489
+  weight: 0.6439
   avg_copies: 2.73
 - name: Cavern of Souls
-  weight: 0.626
+  weight: 0.6212
   avg_copies: 1.0
 - name: Collector Ouphe
-  weight: 0.458
+  weight: 0.4621
   avg_copies: 1.02
 - name: Chomping Changeling
-  weight: 0.3817
+  weight: 0.3864
   avg_copies: 1.0
 - name: Ghost Quarter
-  weight: 0.3588
+  weight: 0.3561
   avg_copies: 1.0
 - name: Turntimber Symbiosis
-  weight: 0.3282
-  avg_copies: 2.77
+  weight: 0.3333
+  avg_copies: 2.75
 - name: Devourer of Destiny
-  weight: 0.2977
+  weight: 0.2955
   avg_copies: 3.15
 - name: Fade from History
-  weight: 0.2366
-  avg_copies: 2.68
+  weight: 0.2424
+  avg_copies: 2.66
 - name: Keen-Eyed Curator
-  weight: 0.2061
+  weight: 0.2121
   avg_copies: 1.0
 - name: Grafdigger's Cage
-  weight: 0.1756
+  weight: 0.1742
   avg_copies: 1.65
 - name: Sire of Seven Deaths
-  weight: 0.1069
+  weight: 0.1061
   avg_copies: 1.21
 - name: Six
-  weight: 0.1069
+  weight: 0.1061
   avg_copies: 1.0
 - name: Ghost Vacuum
-  weight: 0.0992
+  weight: 0.0985
   avg_copies: 1.85
 - name: Warping Wail
-  weight: 0.0916
+  weight: 0.0909
   avg_copies: 2.0
 - name: Surgical Extraction
-  weight: 0.0763
+  weight: 0.0758
   avg_copies: 1.4
 - name: Torpor Orb
-  weight: 0.0763
+  weight: 0.0758
   avg_copies: 1.1
 - name: Emrakul, the Aeons Torn
-  weight: 0.0687
+  weight: 0.0682
   avg_copies: 1.22
 - name: Cursed Totem
-  weight: 0.0611
+  weight: 0.0606
   avg_copies: 1.75
 - name: Grove of the Burnwillows
-  weight: 0.0458
+  weight: 0.0455
   avg_copies: 2.17
 - name: Soulless Jailer
-  weight: 0.0458
+  weight: 0.0455
   avg_copies: 1.33
 - name: Bojuka Bog
-  weight: 0.0458
+  weight: 0.0455
   avg_copies: 1.0
 - name: Scavenging Ooze
-  weight: 0.0305
+  weight: 0.0303
   avg_copies: 1.0
 - name: card:balustrade-wurm
-  weight: 0.0305
+  weight: 0.0303
   avg_copies: 1.0
 - name: Vexing Bauble
-  weight: 0.0229
+  weight: 0.0227
   avg_copies: 2.33
 - name: Icetill Explorer
-  weight: 0.0229
+  weight: 0.0227
   avg_copies: 1.33
-- name: Nature's Claim
-  weight: 0.0153
+- name: card:null-elemental-blast
+  weight: 0.0152
   avg_copies: 2.0
 - name: Damping Sphere
-  weight: 0.0153
+  weight: 0.0152
   avg_copies: 2.0
-- name: card:null-elemental-blast
-  weight: 0.0153
+- name: Nature's Claim
+  weight: 0.0152
   avg_copies: 2.0
 - name: Veil of Summer
-  weight: 0.0153
+  weight: 0.0152
   avg_copies: 1.5
 - name: Creeping Corrosion
   weight: 0.0076
@@ -173,37 +173,37 @@ top_cards:
 - name: Thief of Existence
   weight: 0.0076
   avg_copies: 3.0
-- name: Soul-Guide Lantern
-  weight: 0.0076
-  avg_copies: 2.0
 - name: Hashep Oasis
   weight: 0.0076
   avg_copies: 2.0
-- name: Yavimaya, Cradle of Growth
+- name: Soul-Guide Lantern
   weight: 0.0076
-  avg_copies: 1.0
-- name: Tajuru Preserver
-  weight: 0.0076
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Ouroboroid
   weight: 0.0076
   avg_copies: 1.0
-- name: Outland Liberator
-  weight: 0.0076
-  avg_copies: 1.0
-- name: Ghalta, Stampede Tyrant
-  weight: 0.0076
-  avg_copies: 1.0
-- name: Relic of Progenitus
-  weight: 0.0076
-  avg_copies: 1.0
-- name: Disruptor Flute
+- name: Insidious Fungus
   weight: 0.0076
   avg_copies: 1.0
 - name: Shifting Woodland
   weight: 0.0076
   avg_copies: 1.0
-- name: Insidious Fungus
+- name: Outland Liberator
+  weight: 0.0076
+  avg_copies: 1.0
+- name: Relic of Progenitus
+  weight: 0.0076
+  avg_copies: 1.0
+- name: Yavimaya, Cradle of Growth
+  weight: 0.0076
+  avg_copies: 1.0
+- name: Ghalta, Stampede Tyrant
+  weight: 0.0076
+  avg_copies: 1.0
+- name: Disruptor Flute
+  weight: 0.0076
+  avg_copies: 1.0
+- name: Tajuru Preserver
   weight: 0.0076
   avg_copies: 1.0
 ---

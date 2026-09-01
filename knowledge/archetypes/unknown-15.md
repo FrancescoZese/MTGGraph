@@ -6,16 +6,16 @@ name: 'Unknown #15'
 meta_share: 0.003
 list_count: 24
 top_cards:
-- name: Mox Opal
-  weight: 1.0
-  avg_copies: 3.96
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 3.96
-- name: Mishra's Bauble
+- name: Mox Opal
+  weight: 1.0
+  avg_copies: 3.96
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 3.92
-- name: Scalding Tarn
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 3.92
 - name: Tamiyo, Inquisitive Student
@@ -120,13 +120,13 @@ top_cards:
 - name: card:loki-god-of-mischief
   weight: 0.25
   avg_copies: 3.5
+- name: Vexing Bauble
+  weight: 0.25
+  avg_copies: 1.0
 - name: Repeal
   weight: 0.25
   avg_copies: 1.0
 - name: Engineered Explosives
-  weight: 0.25
-  avg_copies: 1.0
-- name: Vexing Bauble
   weight: 0.25
   avg_copies: 1.0
 - name: Galvanic Blast
@@ -150,10 +150,10 @@ top_cards:
 - name: Flooded Strand
   weight: 0.1667
   avg_copies: 1.75
-- name: Lavaspur Boots
+- name: Vandalblast
   weight: 0.1667
   avg_copies: 1.0
-- name: Vandalblast
+- name: Lavaspur Boots
   weight: 0.1667
   avg_copies: 1.0
 - name: Grafdigger's Cage
@@ -189,24 +189,33 @@ top_cards:
 - name: Misty Rainforest
   weight: 0.0417
   avg_copies: 3.0
-- name: Astrologian's Planisphere
+- name: Portable Hole
   weight: 0.0417
   avg_copies: 3.0
-- name: Portable Hole
+- name: Astrologian's Planisphere
   weight: 0.0417
   avg_copies: 3.0
 - name: Snow-Covered Island
   weight: 0.0417
   avg_copies: 2.0
-- name: Hallowed Fountain
+- name: Vivi Ornitier
   weight: 0.0417
   avg_copies: 2.0
-- name: Vivi Ornitier
+- name: Hallowed Fountain
   weight: 0.0417
   avg_copies: 2.0
 - name: Teferi, Time Raveler
   weight: 0.0417
   avg_copies: 2.0
+- name: card:pyrite-spellbomb
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Surgical Extraction
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Polluted Delta
+  weight: 0.0417
+  avg_copies: 1.0
 - name: Snow-Covered Mountain
   weight: 0.0417
   avg_copies: 1.0
@@ -216,16 +225,7 @@ top_cards:
 - name: Annul
   weight: 0.0417
   avg_copies: 1.0
-- name: Polluted Delta
-  weight: 0.0417
-  avg_copies: 1.0
 - name: Ghost Vacuum
-  weight: 0.0417
-  avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.0417
-  avg_copies: 1.0
-- name: card:pyrite-spellbomb
   weight: 0.0417
   avg_copies: 1.0
 - name: card:wizard-s-staff

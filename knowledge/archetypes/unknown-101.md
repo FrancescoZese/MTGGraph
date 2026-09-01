@@ -12,10 +12,10 @@ top_cards:
 - name: Detective's Phoenix
   weight: 1.0
   avg_copies: 3.97
-- name: Street Wraith
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 3.91
-- name: Faithless Looting
+- name: Street Wraith
   weight: 1.0
   avg_copies: 3.91
 - name: Bloodstained Mire
@@ -30,10 +30,10 @@ top_cards:
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.03
-- name: Marauding Mako
+- name: Burning Inquiry
   weight: 0.9706
   avg_copies: 4.0
-- name: Burning Inquiry
+- name: Marauding Mako
   weight: 0.9706
   avg_copies: 4.0
 - name: Nethergoyf
@@ -147,19 +147,19 @@ top_cards:
 - name: Brotherhood's End
   weight: 0.0588
   avg_copies: 1.5
-- name: Sacred Foundry
+- name: Ox of Agonas
   weight: 0.0588
   avg_copies: 1.0
-- name: Ox of Agonas
+- name: Sacred Foundry
   weight: 0.0588
   avg_copies: 1.0
 - name: Strategic Betrayal
   weight: 0.0588
   avg_copies: 1.0
-- name: Mishra's Bauble
+- name: Dauthi Voidwalker
   weight: 0.0294
   avg_copies: 4.0
-- name: Dauthi Voidwalker
+- name: Mishra's Bauble
   weight: 0.0294
   avg_copies: 4.0
 - name: Kroxa, Titan of Death's Hunger
@@ -171,28 +171,28 @@ top_cards:
 - name: Goblin Lore
   weight: 0.0294
   avg_copies: 1.0
+- name: End of the Hunt
+  weight: 0.0294
+  avg_copies: 1.0
 - name: card:corpse-explosion
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Verdant Catacombs
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Seal of Fire
   weight: 0.0294
   avg_copies: 1.0
 - name: Molten Collapse
   weight: 0.0294
   avg_copies: 1.0
-- name: Verdant Catacombs
+- name: Cool but Rude
   weight: 0.0294
   avg_copies: 1.0
 - name: Blackcleave Cliffs
   weight: 0.0294
   avg_copies: 1.0
 - name: Godless Shrine
-  weight: 0.0294
-  avg_copies: 1.0
-- name: End of the Hunt
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Cool but Rude
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Seal of Fire
   weight: 0.0294
   avg_copies: 1.0
 ---

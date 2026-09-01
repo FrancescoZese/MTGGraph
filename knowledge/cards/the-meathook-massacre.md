@@ -16,7 +16,7 @@ archetypes:
     weight: 0.7391
     avg_copies: 1.35
   mill:
-    weight: 0.6316
+    weight: 0.6154
     avg_copies: 1.0
   kethis-combo:
     weight: 0.5
@@ -37,7 +37,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0538
+    weight: 0.0535
     avg_copies: 1.1
   unknown-69:
     weight: 0.8

@@ -16,8 +16,8 @@ archetypes:
     weight: 0.0017
     avg_copies: 2.0
   burn:
-    weight: 0.0714
-    avg_copies: 2.33
+    weight: 0.093
+    avg_copies: 2.25
   hollow-one:
     weight: 0.0588
     avg_copies: 1.5
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.0526
     avg_copies: 4.0
   unknown-67:
-    weight: 0.1261
+    weight: 0.125
     avg_copies: 1.43
   unknown-86:
     weight: 0.1667

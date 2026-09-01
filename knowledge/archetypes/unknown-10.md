@@ -7,16 +7,16 @@ name: 'Unknown #10'
 meta_share: 0.0004
 list_count: 3
 top_cards:
-- name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mox Opal
+- name: Emry, Lurker of the Loch
   weight: 1.0
   avg_copies: 4.0
 - name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
-- name: Emry, Lurker of the Loch
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
@@ -58,10 +58,10 @@ top_cards:
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Cori-Steel Cutter
@@ -76,22 +76,22 @@ top_cards:
 - name: Wear
   weight: 0.6667
   avg_copies: 2.0
-- name: Pyroclasm
-  weight: 0.6667
-  avg_copies: 1.5
 - name: Skateboard
   weight: 0.6667
   avg_copies: 1.5
-- name: Thundering Falls
+- name: Pyroclasm
   weight: 0.6667
-  avg_copies: 1.0
-- name: Vexing Bauble
+  avg_copies: 1.5
+- name: Island
   weight: 0.6667
   avg_copies: 1.0
 - name: Shadowspear
   weight: 0.6667
   avg_copies: 1.0
-- name: Island
+- name: Thundering Falls
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Vexing Bauble
   weight: 0.6667
   avg_copies: 1.0
 - name: Soul-Guide Lantern
@@ -109,6 +109,12 @@ top_cards:
 - name: Erayo, Soratami Ascendant
   weight: 0.3333
   avg_copies: 3.0
+- name: Swan Song
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Narset, Jeskai Waymaster
+  weight: 0.3333
+  avg_copies: 2.0
 - name: Expressive Iteration
   weight: 0.3333
   avg_copies: 2.0
@@ -121,46 +127,40 @@ top_cards:
 - name: Test of Talents
   weight: 0.3333
   avg_copies: 2.0
-- name: Narset, Jeskai Waymaster
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Swan Song
-  weight: 0.3333
-  avg_copies: 2.0
-- name: Seachrome Coast
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Sevinne's Reclamation
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Spirebluff Canal
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Snow-Covered Mountain
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Tormod's Crypt
+- name: Snow-Covered Island
   weight: 0.3333
   avg_copies: 1.0
 - name: Lavaspur Boots
   weight: 0.3333
   avg_copies: 1.0
-- name: Snow-Covered Island
-  weight: 0.3333
-  avg_copies: 1.0
 - name: card:key-to-the-side-door
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Haywire Mite
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Torpor Orb
   weight: 0.3333
   avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.3333
   avg_copies: 1.0
+- name: Seachrome Coast
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Spirebluff Canal
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Tormod's Crypt
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Hurkyl's Recall
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Torpor Orb
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Sevinne's Reclamation
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Snow-Covered Mountain
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Haywire Mite
   weight: 0.3333
   avg_copies: 1.0
 ---

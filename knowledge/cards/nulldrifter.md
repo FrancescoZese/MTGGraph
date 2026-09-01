@@ -9,7 +9,7 @@ type: Creature — Eldrazi Elemental
 meta_presence: 0.0054
 archetypes:
   jeskai-control:
-    weight: 0.0143
+    weight: 0.0141
     avg_copies: 3.0
   domain-zoo:
     weight: 0.0452
@@ -36,7 +36,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-194:
-    weight: 0.0164
+    weight: 0.0156
     avg_copies: 1.0
   unknown-226:
     weight: 1.0

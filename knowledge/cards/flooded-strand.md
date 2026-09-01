@@ -6,7 +6,7 @@ name: Flooded Strand
 scryfall_id: 8f85e12c-196b-4459-b81f-0c9c854e9f57
 set: mh3
 type: Land
-meta_presence: 0.3534
+meta_presence: 0.3538
 archetypes:
   boros-energy:
     weight: 0.8545
@@ -18,7 +18,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.87
   goryo:
-    weight: 0.9956
+    weight: 0.9957
     avg_copies: 3.49
   azorius-control:
     weight: 1.0
@@ -30,14 +30,14 @@ archetypes:
     weight: 1.0
     avg_copies: 3.93
   affinity:
-    weight: 0.0157
+    weight: 0.0156
     avg_copies: 1.89
   domain-zoo:
     weight: 0.9871
     avg_copies: 3.85
   mill:
-    weight: 0.8158
-    avg_copies: 2.97
+    weight: 0.8205
+    avg_copies: 3.0
   reanimator:
     weight: 0.037
     avg_copies: 4.0
@@ -51,7 +51,7 @@ archetypes:
     weight: 0.875
     avg_copies: 1.86
   simic-ritual:
-    weight: 0.08
+    weight: 0.0792
     avg_copies: 1.5
   izzet-prowess:
     weight: 0.0045
@@ -63,8 +63,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.89
   orzhov-blink:
-    weight: 0.65
-    avg_copies: 2.85
+    weight: 0.6667
+    avg_copies: 2.71
   bant-control:
     weight: 1.0
     avg_copies: 4.0
@@ -144,7 +144,7 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   unknown-47:
-    weight: 0.8925
+    weight: 0.893
     avg_copies: 2.46
   unknown-51:
     weight: 1.0
@@ -168,7 +168,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-67:
-    weight: 0.009
+    weight: 0.0089
     avg_copies: 1.0
   unknown-68:
     weight: 0.5952
@@ -351,8 +351,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-213:
-    weight: 0.8462
-    avg_copies: 2.18
+    weight: 0.8571
+    avg_copies: 2.17
   unknown-216:
     weight: 1.0
     avg_copies: 4.0
@@ -373,7 +373,7 @@ archetypes:
     avg_copies: 2.0
   unknown-238:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.75
   unknown-240:
     weight: 1.0
     avg_copies: 4.0
@@ -419,4 +419,7 @@ archetypes:
   unknown-274:
     weight: 1.0
     avg_copies: 4.0
+  unknown-282:
+    weight: 1.0
+    avg_copies: 3.0
 ---

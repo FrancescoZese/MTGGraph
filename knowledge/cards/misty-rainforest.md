@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.1479
 archetypes:
   ruby-storm:
-    weight: 0.0074
+    weight: 0.0073
     avg_copies: 1.0
   dimir-control:
     weight: 0.3457
@@ -18,10 +18,10 @@ archetypes:
     weight: 0.0074
     avg_copies: 3.0
   amulet-titan:
-    weight: 0.0165
+    weight: 0.0217
     avg_copies: 1.0
   goryo:
-    weight: 0.0044
+    weight: 0.0043
     avg_copies: 1.5
   azorius-control:
     weight: 0.2294
@@ -30,14 +30,14 @@ archetypes:
     weight: 1.0
     avg_copies: 3.8
   affinity:
-    weight: 0.0383
+    weight: 0.0381
     avg_copies: 1.86
   domain-zoo:
     weight: 0.0065
     avg_copies: 1.0
   mill:
-    weight: 0.2895
-    avg_copies: 1.55
+    weight: 0.3077
+    avg_copies: 1.5
   reanimator:
     weight: 0.037
     avg_copies: 1.0
@@ -54,7 +54,7 @@ archetypes:
     weight: 0.5532
     avg_copies: 1.18
   simic-ritual:
-    weight: 0.99
+    weight: 0.9901
     avg_copies: 3.77
   izzet-prowess:
     weight: 0.009
@@ -66,7 +66,7 @@ archetypes:
     weight: 0.5135
     avg_copies: 1.39
   broodscale-combo:
-    weight: 0.2107
+    weight: 0.2101
     avg_copies: 1.14
   bant-control:
     weight: 1.0
@@ -138,7 +138,7 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   unknown-47:
-    weight: 0.2796
+    weight: 0.2781
     avg_copies: 1.35
   unknown-59:
     weight: 1.0
@@ -153,7 +153,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.86
   unknown-67:
-    weight: 0.991
+    weight: 0.9911
     avg_copies: 3.83
   unknown-73:
     weight: 1.0
@@ -252,13 +252,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-194:
-    weight: 0.0984
+    weight: 0.0938
     avg_copies: 1.0
   unknown-200:
     weight: 1.0
     avg_copies: 4.0
   unknown-213:
-    weight: 0.5385
+    weight: 0.5
     avg_copies: 1.0
   unknown-216:
     weight: 1.0
@@ -285,8 +285,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-238:
-    weight: 0.3333
-    avg_copies: 4.0
+    weight: 0.5
+    avg_copies: 3.5
   unknown-242:
     weight: 1.0
     avg_copies: 4.0

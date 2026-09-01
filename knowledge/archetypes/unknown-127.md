@@ -12,13 +12,16 @@ top_cards:
 - name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
-- name: Doorkeeper Thrull
-  weight: 1.0
-  avg_copies: 4.0
-- name: Territorial Kavu
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline of the Guildpact
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ragavan, Nimble Pilferer
+  weight: 1.0
+  avg_copies: 4.0
+- name: Doorkeeper Thrull
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline Binding
@@ -27,13 +30,10 @@ top_cards:
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
 - name: Wooded Foothills
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 4.0
 - name: Lightning Bolt
@@ -54,19 +54,28 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 2.09
-- name: Arena of Glory
+- name: Obsidian Charmaw
   weight: 1.0
   avg_copies: 2.0
 - name: Wear
   weight: 1.0
   avg_copies: 2.0
-- name: Obsidian Charmaw
+- name: Arena of Glory
   weight: 1.0
   avg_copies: 2.0
 - name: High Noon
   weight: 1.0
   avg_copies: 1.33
+- name: Mountain
+  weight: 1.0
+  avg_copies: 1.0
 - name: Sacred Foundry
+  weight: 1.0
+  avg_copies: 1.0
+- name: Zagoth Triome
+  weight: 1.0
+  avg_copies: 1.0
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Overgrown Tomb
@@ -76,15 +85,6 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Godless Shrine
-  weight: 1.0
-  avg_copies: 1.0
-- name: Elegant Parlor
-  weight: 1.0
-  avg_copies: 1.0
-- name: Zagoth Triome
-  weight: 1.0
-  avg_copies: 1.0
-- name: Mountain
   weight: 1.0
   avg_copies: 1.0
 - name: Swamp
@@ -102,19 +102,19 @@ top_cards:
 - name: card:shadow-prophecy
   weight: 0.1667
   avg_copies: 2.0
-- name: Clarion Conqueror
+- name: Pest Control
   weight: 0.1667
   avg_copies: 1.0
 - name: Winternight Stories
   weight: 0.1667
   avg_copies: 1.0
-- name: Scalding Tarn
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Pest Control
+- name: Clarion Conqueror
   weight: 0.1667
   avg_copies: 1.0
 - name: Nihil Spellbomb
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Scalding Tarn
   weight: 0.1667
   avg_copies: 1.0
 ---

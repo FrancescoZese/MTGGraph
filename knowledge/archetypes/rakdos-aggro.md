@@ -93,10 +93,10 @@ top_cards:
 - name: Fatal Push
   weight: 0.2632
   avg_copies: 1.67
-- name: Violent Urge
+- name: Nihil Spellbomb
   weight: 0.2632
   avg_copies: 1.2
-- name: Nihil Spellbomb
+- name: Violent Urge
   weight: 0.2632
   avg_copies: 1.2
 - name: Death's Shadow
@@ -132,54 +132,63 @@ top_cards:
 - name: Fire-Brained Scheme
   weight: 0.1053
   avg_copies: 2.5
-- name: Blood Moon
+- name: Seal of Fire
   weight: 0.1053
   avg_copies: 2.0
-- name: Seal of Fire
+- name: Blood Moon
   weight: 0.1053
   avg_copies: 2.0
 - name: Ragavan, Nimble Pilferer
   weight: 0.1053
   avg_copies: 1.5
-- name: Whispers of Emrakul
-  weight: 0.1053
-  avg_copies: 1.0
-- name: Redirect Lightning
-  weight: 0.1053
-  avg_copies: 1.0
-- name: Firebending Lesson
+- name: Decorum Dissertation
   weight: 0.1053
   avg_copies: 1.0
 - name: Price of Freedom
   weight: 0.1053
   avg_copies: 1.0
+- name: Firebending Lesson
+  weight: 0.1053
+  avg_copies: 1.0
 - name: Dai Li Indoctrination
   weight: 0.1053
   avg_copies: 1.0
-- name: Decorum Dissertation
+- name: Redirect Lightning
   weight: 0.1053
   avg_copies: 1.0
 - name: Dreams of Steel and Oil
   weight: 0.1053
   avg_copies: 1.0
+- name: Whispers of Emrakul
+  weight: 0.1053
+  avg_copies: 1.0
 - name: Tarfire
   weight: 0.1053
   avg_copies: 1.0
-- name: Bloodbraid Marauder
+- name: Marsh Flats
   weight: 0.0526
   avg_copies: 4.0
-- name: Super Shredder
+- name: Bloodbraid Marauder
   weight: 0.0526
   avg_copies: 4.0
 - name: Magebane Lizard
   weight: 0.0526
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Super Shredder
   weight: 0.0526
   avg_copies: 4.0
 - name: Force of Despair
   weight: 0.0526
   avg_copies: 3.0
+- name: Fable of the Mirror-Breaker
+  weight: 0.0526
+  avg_copies: 2.0
+- name: Hexing Squelcher
+  weight: 0.0526
+  avg_copies: 2.0
+- name: Mai, Scornful Striker
+  weight: 0.0526
+  avg_copies: 2.0
 - name: Faerie Macabre
   weight: 0.0526
   avg_copies: 2.0
@@ -189,16 +198,16 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 0.0526
   avg_copies: 2.0
-- name: Unearth
+- name: Break the Ice
   weight: 0.0526
   avg_copies: 2.0
-- name: Hexing Squelcher
+- name: Unearth
   weight: 0.0526
   avg_copies: 2.0
 - name: Torpor Orb
   weight: 0.0526
   avg_copies: 2.0
-- name: Break the Ice
+- name: Abigale, Eloquent First-Year
   weight: 0.0526
   avg_copies: 2.0
 - name: Feed the Swarm
@@ -207,52 +216,43 @@ top_cards:
 - name: Blackcleave Cliffs
   weight: 0.0526
   avg_copies: 2.0
-- name: Mai, Scornful Striker
-  weight: 0.0526
-  avg_copies: 2.0
-- name: Abigale, Eloquent First-Year
-  weight: 0.0526
-  avg_copies: 2.0
-- name: Fable of the Mirror-Breaker
-  weight: 0.0526
-  avg_copies: 2.0
-- name: Boggart Trawler
-  weight: 0.0526
-  avg_copies: 1.0
 - name: Ob Nixilis, the Adversary
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Molten Collapse
   weight: 0.0526
   avg_copies: 1.0
 - name: Ruinous Waterbending
   weight: 0.0526
   avg_copies: 1.0
-- name: Kolaghan's Command
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Abandon Attachments
-  weight: 0.0526
-  avg_copies: 1.0
 - name: Troll of Khazad-dûm
   weight: 0.0526
   avg_copies: 1.0
-- name: Engineered Explosives
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Untimely Malfunction
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Fire Magic
+- name: Molten Collapse
   weight: 0.0526
   avg_copies: 1.0
 - name: Graveyard Trespasser
   weight: 0.0526
   avg_copies: 1.0
-- name: Duress
+- name: Kolaghan's Command
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Fire Magic
   weight: 0.0526
   avg_copies: 1.0
 - name: Cecil, Dark Knight
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Engineered Explosives
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Boggart Trawler
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Duress
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Untimely Malfunction
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Abandon Attachments
   weight: 0.0526
   avg_copies: 1.0
 ---

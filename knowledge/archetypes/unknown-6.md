@@ -7,13 +7,13 @@ name: 'Unknown #6'
 meta_share: 0.0024
 list_count: 19
 top_cards:
+- name: Mox Opal
+  weight: 1.0
+  avg_copies: 4.0
 - name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Amber
@@ -46,10 +46,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 1.26
-- name: Hedge Maze
+- name: Endurance
   weight: 1.0
   avg_copies: 1.0
-- name: Endurance
+- name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
 - name: Misty Rainforest
@@ -136,10 +136,10 @@ top_cards:
 - name: Swan Song
   weight: 0.2632
   avg_copies: 1.2
-- name: Pyroclasm
+- name: Soulless Jailer
   weight: 0.2105
   avg_copies: 1.5
-- name: Soulless Jailer
+- name: Pyroclasm
   weight: 0.2105
   avg_copies: 1.5
 - name: Ashiok, Dream Render
@@ -184,40 +184,40 @@ top_cards:
 - name: Polluted Delta
   weight: 0.0526
   avg_copies: 2.0
-- name: Flooded Strand
-  weight: 0.0526
-  avg_copies: 2.0
 - name: Hurkyl's Recall
   weight: 0.0526
   avg_copies: 2.0
-- name: Magus of the Moon
+- name: Flooded Strand
   weight: 0.0526
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Aether Spellbomb
   weight: 0.0526
   avg_copies: 1.0
-- name: Lavaspur Boots
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Snapcaster Mage
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Skateboard
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Mistrise Village
-  weight: 0.0526
-  avg_copies: 1.0
-- name: Life from the Loam
-  weight: 0.0526
-  avg_copies: 1.0
-- name: card:laboratory-maniac
+- name: Peer Past the Veil
   weight: 0.0526
   avg_copies: 1.0
 - name: Galvanic Blast
   weight: 0.0526
   avg_copies: 1.0
-- name: Peer Past the Veil
+- name: Skateboard
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Magus of the Moon
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Life from the Loam
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Lavaspur Boots
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Mistrise Village
+  weight: 0.0526
+  avg_copies: 1.0
+- name: Snapcaster Mage
+  weight: 0.0526
+  avg_copies: 1.0
+- name: card:laboratory-maniac
   weight: 0.0526
   avg_copies: 1.0
 ---

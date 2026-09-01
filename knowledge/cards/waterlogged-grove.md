@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.0015
 archetypes:
   amulet-titan:
-    weight: 0.0055
+    weight: 0.0054
     avg_copies: 1.0
   affinity:
     weight: 0.0017

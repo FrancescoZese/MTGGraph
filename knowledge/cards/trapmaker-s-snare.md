@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0004
 archetypes:
   mill:
-    weight: 0.0263
+    weight: 0.0256
     avg_copies: 4.0
   unknown-251:
     weight: 1.0

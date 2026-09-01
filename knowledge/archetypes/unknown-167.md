@@ -17,13 +17,13 @@ top_cards:
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 3.85
+- name: Mox Amber
+  weight: 1.0
+  avg_copies: 3.7
 - name: Metallic Rebuke
   weight: 1.0
   avg_copies: 3.7
 - name: Tamiyo, Inquisitive Student
-  weight: 1.0
-  avg_copies: 3.7
-- name: Mox Amber
   weight: 1.0
   avg_copies: 3.7
 - name: Consign to Memory
@@ -86,10 +86,10 @@ top_cards:
 - name: Agatha's Soul Cauldron
   weight: 0.6
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Misty Rainforest
   weight: 0.55
   avg_copies: 1.82
-- name: Misty Rainforest
+- name: Hallowed Fountain
   weight: 0.55
   avg_copies: 1.82
 - name: Portable Hole
@@ -119,9 +119,6 @@ top_cards:
 - name: Force of Negation
   weight: 0.35
   avg_copies: 1.88
-- name: Hedge Maze
-  weight: 0.35
-  avg_copies: 1.0
 - name: Waterlogged Grove
   weight: 0.35
   avg_copies: 1.0
@@ -129,6 +126,9 @@ top_cards:
   weight: 0.35
   avg_copies: 1.0
 - name: Disruptor Flute
+  weight: 0.35
+  avg_copies: 1.0
+- name: Hedge Maze
   weight: 0.35
   avg_copies: 1.0
 - name: Malevolent Rumble
@@ -149,13 +149,13 @@ top_cards:
 - name: card:scrabbling-claws
   weight: 0.2
   avg_copies: 1.0
-- name: Boseiju, Who Endures
-  weight: 0.2
-  avg_copies: 1.0
 - name: Quantum Riddler
   weight: 0.2
   avg_copies: 1.0
 - name: Six
+  weight: 0.2
+  avg_copies: 1.0
+- name: Boseiju, Who Endures
   weight: 0.2
   avg_copies: 1.0
 - name: Dismember
@@ -170,58 +170,55 @@ top_cards:
 - name: Botanical Sanctum
   weight: 0.1
   avg_copies: 4.0
-- name: Test of Talents
-  weight: 0.1
-  avg_copies: 2.0
 - name: card:yavimaya-coast
   weight: 0.1
   avg_copies: 2.0
-- name: Engineered Explosives
+- name: Test of Talents
+  weight: 0.1
+  avg_copies: 2.0
+- name: Into the Flood Maw
   weight: 0.1
   avg_copies: 1.5
 - name: Spell Snare
   weight: 0.1
   avg_copies: 1.5
-- name: Into the Flood Maw
+- name: Engineered Explosives
   weight: 0.1
   avg_copies: 1.5
-- name: Plains
+- name: card:urza-lord-high-artificer
   weight: 0.1
   avg_copies: 1.0
 - name: Gran-Gran
   weight: 0.1
   avg_copies: 1.0
-- name: Krang, Master Mind
-  weight: 0.1
-  avg_copies: 1.0
-- name: Tezzeret, Cruel Captain
-  weight: 0.1
-  avg_copies: 1.0
 - name: Unable to Scream
   weight: 0.1
   avg_copies: 1.0
-- name: card:urza-lord-high-artificer
-  weight: 0.1
-  avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Plains
   weight: 0.1
   avg_copies: 1.0
 - name: card:bruce-banner
   weight: 0.1
   avg_copies: 1.0
+- name: Krang, Master Mind
+  weight: 0.1
+  avg_copies: 1.0
+- name: Grafdigger's Cage
+  weight: 0.1
+  avg_copies: 1.0
+- name: Tezzeret, Cruel Captain
+  weight: 0.1
+  avg_copies: 1.0
 - name: Kappa Cannoneer
   weight: 0.05
   avg_copies: 4.0
-- name: Unholy Heat
-  weight: 0.05
-  avg_copies: 3.0
 - name: Sacred Ground
   weight: 0.05
   avg_copies: 3.0
-- name: Glimmervoid
+- name: Unholy Heat
   weight: 0.05
-  avg_copies: 2.0
-- name: Steam Vents
+  avg_copies: 3.0
+- name: Glimmervoid
   weight: 0.05
   avg_copies: 2.0
 - name: Erode
@@ -230,10 +227,19 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 0.05
   avg_copies: 2.0
+- name: Steam Vents
+  weight: 0.05
+  avg_copies: 2.0
+- name: card:pyrite-spellbomb
+  weight: 0.05
+  avg_copies: 1.0
+- name: card:key-to-the-side-door
+  weight: 0.05
+  avg_copies: 1.0
 - name: Thundering Falls
   weight: 0.05
   avg_copies: 1.0
-- name: Does Machines
+- name: Thief of Existence
   weight: 0.05
   avg_copies: 1.0
 - name: Blood Moon
@@ -245,16 +251,10 @@ top_cards:
 - name: Flame of Anor
   weight: 0.05
   avg_copies: 1.0
-- name: Thief of Existence
-  weight: 0.05
-  avg_copies: 1.0
-- name: card:key-to-the-side-door
+- name: Does Machines
   weight: 0.05
   avg_copies: 1.0
 - name: Invasive Surgery
-  weight: 0.05
-  avg_copies: 1.0
-- name: card:pyrite-spellbomb
   weight: 0.05
   avg_copies: 1.0
 ---

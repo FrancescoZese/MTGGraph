@@ -6,7 +6,7 @@ colors:
 - R
 - G
 name: Neoform Combo
-meta_share: 0.0154
+meta_share: 0.0153
 list_count: 122
 top_cards:
 - name: Eldritch Evolution
@@ -150,10 +150,10 @@ top_cards:
 - name: Quandrix Charm
   weight: 0.0492
   avg_copies: 1.57
-- name: Otawara, Soaring City
+- name: Force of Vigor
   weight: 0.041
   avg_copies: 1.0
-- name: Force of Vigor
+- name: Otawara, Soaring City
   weight: 0.041
   avg_copies: 1.0
 - name: Thrun, the Last Troll
@@ -183,19 +183,19 @@ top_cards:
 - name: Rakshasa's Bargain
   weight: 0.0164
   avg_copies: 3.0
-- name: Thundering Falls
-  weight: 0.0164
-  avg_copies: 1.0
-- name: Lush Portico
-  weight: 0.0164
-  avg_copies: 1.0
-- name: Undercity Sewers
+- name: Detention Sphere
   weight: 0.0164
   avg_copies: 1.0
 - name: Nature's Chant
   weight: 0.0164
   avg_copies: 1.0
-- name: Raph & Mikey, Troublemakers
+- name: Undercity Sewers
+  weight: 0.0164
+  avg_copies: 1.0
+- name: Lush Portico
+  weight: 0.0164
+  avg_copies: 1.0
+- name: Thundering Falls
   weight: 0.0164
   avg_copies: 1.0
 - name: Underground Mortuary
@@ -204,16 +204,10 @@ top_cards:
 - name: Borborygmos Enraged
   weight: 0.0164
   avg_copies: 1.0
+- name: Raph & Mikey, Troublemakers
+  weight: 0.0164
+  avg_copies: 1.0
 - name: Mistrise Village
-  weight: 0.0164
-  avg_copies: 1.0
-- name: Detention Sphere
-  weight: 0.0164
-  avg_copies: 1.0
-- name: Stormkeld Vanguard
-  weight: 0.0164
-  avg_copies: 1.0
-- name: Wan Shi Tong, Librarian
   weight: 0.0164
   avg_copies: 1.0
 - name: Stump Stomp
@@ -222,13 +216,19 @@ top_cards:
 - name: Firespout
   weight: 0.0164
   avg_copies: 1.0
-- name: Detect Intrusion
+- name: Stormkeld Vanguard
+  weight: 0.0164
+  avg_copies: 1.0
+- name: Wan Shi Tong, Librarian
+  weight: 0.0164
+  avg_copies: 1.0
+- name: Hexing Squelcher
   weight: 0.0082
   avg_copies: 4.0
 - name: Voice of Victory
   weight: 0.0082
   avg_copies: 4.0
-- name: Hexing Squelcher
+- name: Detect Intrusion
   weight: 0.0082
   avg_copies: 4.0
 - name: Summoning Trap
@@ -240,55 +240,55 @@ top_cards:
 - name: Birthing Ritual
   weight: 0.0082
   avg_copies: 3.0
-- name: Quantum Riddler
+- name: Frenzied Baloth
   weight: 0.0082
   avg_copies: 2.0
-- name: Frenzied Baloth
+- name: Quantum Riddler
   weight: 0.0082
   avg_copies: 2.0
 - name: Commercial District
   weight: 0.0082
   avg_copies: 1.0
-- name: Strix Serenade
+- name: Waterlogged Grove
   weight: 0.0082
   avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 0.0082
   avg_copies: 1.0
-- name: Echoing Truth
-  weight: 0.0082
-  avg_copies: 1.0
-- name: Waterlogged Grove
-  weight: 0.0082
-  avg_copies: 1.0
 - name: card:daring-waverider
+  weight: 0.0082
+  avg_copies: 1.0
+- name: Echoing Truth
   weight: 0.0082
   avg_copies: 1.0
 - name: Crucible of Worlds
   weight: 0.0082
   avg_copies: 1.0
+- name: card:webstrike-elite
+  weight: 0.0082
+  avg_copies: 1.0
 - name: Brainsurge
+  weight: 0.0082
+  avg_copies: 1.0
+- name: Murktide Regent
   weight: 0.0082
   avg_copies: 1.0
 - name: Temple Garden
   weight: 0.0082
   avg_copies: 1.0
+- name: card:fungal-colossus
+  weight: 0.0082
+  avg_copies: 1.0
 - name: Leatherhead, Swamp Stalker
   weight: 0.0082
   avg_copies: 1.0
-- name: card:webstrike-elite
+- name: Strix Serenade
   weight: 0.0082
   avg_copies: 1.0
 - name: Subtlety
   weight: 0.0082
   avg_copies: 1.0
 - name: card:teferi-mage-of-zhalfir
-  weight: 0.0082
-  avg_copies: 1.0
-- name: card:fungal-colossus
-  weight: 0.0082
-  avg_copies: 1.0
-- name: Murktide Regent
   weight: 0.0082
   avg_copies: 1.0
 ---

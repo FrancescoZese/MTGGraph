@@ -6,16 +6,16 @@ name: 'Unknown #26'
 meta_share: 0.0029
 list_count: 23
 top_cards:
-- name: Demolition Field
-  weight: 1.0
-  avg_copies: 4.0
 - name: Field of Ruin
   weight: 1.0
   avg_copies: 4.0
-- name: Price of Freedom
+- name: Demolition Field
+  weight: 1.0
+  avg_copies: 4.0
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 3.96
-- name: Wrath of the Skies
+- name: Price of Freedom
   weight: 1.0
   avg_copies: 3.96
 - name: Cleansing Wildfire
@@ -84,10 +84,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.2609
   avg_copies: 2.25
-- name: Get Lost
+- name: Calamity's Wake
   weight: 0.2174
   avg_copies: 3.8
-- name: Calamity's Wake
+- name: Get Lost
   weight: 0.2174
   avg_copies: 3.8
 - name: Wear
@@ -102,13 +102,13 @@ top_cards:
 - name: Blast Zone
   weight: 0.1304
   avg_copies: 1.67
-- name: Arid Mesa
+- name: Mazemind Tome
   weight: 0.087
   avg_copies: 4.0
 - name: card:avengers-disassembled
   weight: 0.087
   avg_copies: 4.0
-- name: Mazemind Tome
+- name: Arid Mesa
   weight: 0.087
   avg_copies: 4.0
 - name: Reprieve
@@ -117,10 +117,10 @@ top_cards:
 - name: Kor Firewalker
   weight: 0.087
   avg_copies: 2.5
-- name: Celestial Purge
+- name: Engineered Explosives
   weight: 0.087
   avg_copies: 2.0
-- name: Engineered Explosives
+- name: Celestial Purge
   weight: 0.087
   avg_copies: 2.0
 - name: Beza, the Bounding Spring
@@ -129,28 +129,28 @@ top_cards:
 - name: Crucible of Worlds
   weight: 0.087
   avg_copies: 1.0
-- name: Volcanic Spite
+- name: Ark of Hunger
   weight: 0.0435
   avg_copies: 4.0
-- name: Lightning Helix
+- name: Volcanic Spite
   weight: 0.0435
   avg_copies: 4.0
 - name: card:kutzil-s-flanker
   weight: 0.0435
   avg_copies: 4.0
+- name: Lightning Helix
+  weight: 0.0435
+  avg_copies: 4.0
 - name: White Orchid Phantom
   weight: 0.0435
   avg_copies: 4.0
-- name: Ark of Hunger
-  weight: 0.0435
-  avg_copies: 4.0
-- name: Candy Trail
-  weight: 0.0435
-  avg_copies: 3.0
 - name: Ragavan, Nimble Pilferer
   weight: 0.0435
   avg_copies: 3.0
-- name: Hallowed Moonlight
+- name: Candy Trail
+  weight: 0.0435
+  avg_copies: 3.0
+- name: March of Otherworldly Light
   weight: 0.0435
   avg_copies: 2.0
 - name: card:vanish-into-eternity
@@ -159,7 +159,7 @@ top_cards:
 - name: Flashback
   weight: 0.0435
   avg_copies: 2.0
-- name: March of Otherworldly Light
+- name: Hallowed Moonlight
   weight: 0.0435
   avg_copies: 2.0
 - name: Emrakul, the Aeons Torn

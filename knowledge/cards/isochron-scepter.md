@@ -15,19 +15,19 @@ archetypes:
     weight: 0.0074
     avg_copies: 2.0
   eldrazi-tron:
-    weight: 0.0058
+    weight: 0.0057
     avg_copies: 1.0
   azorius-control:
     weight: 0.9817
     avg_copies: 1.54
   jeskai-control:
-    weight: 0.9429
+    weight: 0.9437
     avg_copies: 1.66
   4c-omnath9:
     weight: 1.0
     avg_copies: 1.33
   unknown-16:
-    weight: 0.2222
+    weight: 0.2
     avg_copies: 1.0
   unknown-22:
     weight: 0.5
@@ -39,7 +39,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-160:
-    weight: 0.0187
+    weight: 0.0183
     avg_copies: 2.5
   unknown-163:
     weight: 1.0
@@ -60,7 +60,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-213:
-    weight: 0.0769
+    weight: 0.0714
     avg_copies: 1.0
   unknown-236:
     weight: 1.0

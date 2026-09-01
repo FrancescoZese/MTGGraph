@@ -4,16 +4,16 @@ colors:
 - B
 - G
 name: Living End
-meta_share: 0.01
+meta_share: 0.0099
 list_count: 79
 top_cards:
 - name: Endurance
   weight: 1.0
   avg_copies: 3.97
-- name: Subtlety
+- name: Shardless Agent
   weight: 1.0
   avg_copies: 3.96
-- name: Shardless Agent
+- name: Subtlety
   weight: 1.0
   avg_copies: 3.96
 - name: Force of Negation
@@ -124,10 +124,10 @@ top_cards:
 - name: Commandeer
   weight: 0.481
   avg_copies: 1.15
-- name: Flare of Denial
+- name: Mai, Scornful Striker
   weight: 0.481
   avg_copies: 1.0
-- name: Mai, Scornful Striker
+- name: Flare of Denial
   weight: 0.481
   avg_copies: 1.0
 - name: Deceit
@@ -226,9 +226,6 @@ top_cards:
 - name: Abhorrent Oculus
   weight: 0.0253
   avg_copies: 1.0
-- name: High Noon
-  weight: 0.0253
-  avg_copies: 1.0
 - name: Godless Shrine
   weight: 0.0253
   avg_copies: 1.0
@@ -236,6 +233,9 @@ top_cards:
   weight: 0.0253
   avg_copies: 1.0
 - name: Windcaller Aven
+  weight: 0.0253
+  avg_copies: 1.0
+- name: High Noon
   weight: 0.0253
   avg_copies: 1.0
 - name: Rough
@@ -253,28 +253,7 @@ top_cards:
 - name: Fulminator Mage
   weight: 0.0127
   avg_copies: 2.0
-- name: Thundering Falls
-  weight: 0.0127
-  avg_copies: 1.0
-- name: Skycoach Conductor
-  weight: 0.0127
-  avg_copies: 1.0
-- name: Collector Ouphe
-  weight: 0.0127
-  avg_copies: 1.0
-- name: Gloomlake Verge
-  weight: 0.0127
-  avg_copies: 1.0
-- name: Brainsurge
-  weight: 0.0127
-  avg_copies: 1.0
 - name: Murderous Cut
-  weight: 0.0127
-  avg_copies: 1.0
-- name: card:awaken-the-honored-dead
-  weight: 0.0127
-  avg_copies: 1.0
-- name: Gemstone Caverns
   weight: 0.0127
   avg_copies: 1.0
 - name: Twilight Mire
@@ -283,16 +262,37 @@ top_cards:
 - name: Undercity Informer
   weight: 0.0127
   avg_copies: 1.0
-- name: Press the Enemy
+- name: Thundering Falls
+  weight: 0.0127
+  avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.0127
+  avg_copies: 1.0
+- name: Collector Ouphe
+  weight: 0.0127
+  avg_copies: 1.0
+- name: Brazen Borrower
   weight: 0.0127
   avg_copies: 1.0
 - name: Kataki, War's Wage
   weight: 0.0127
   avg_copies: 1.0
+- name: Brainsurge
+  weight: 0.0127
+  avg_copies: 1.0
 - name: Force of Despair
   weight: 0.0127
   avg_copies: 1.0
-- name: Brazen Borrower
+- name: card:awaken-the-honored-dead
+  weight: 0.0127
+  avg_copies: 1.0
+- name: Skycoach Conductor
+  weight: 0.0127
+  avg_copies: 1.0
+- name: Gloomlake Verge
+  weight: 0.0127
+  avg_copies: 1.0
+- name: Press the Enemy
   weight: 0.0127
   avg_copies: 1.0
 ---

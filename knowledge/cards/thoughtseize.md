@@ -19,8 +19,8 @@ archetypes:
     weight: 0.0086
     avg_copies: 4.0
   goryo:
-    weight: 0.9693
-    avg_copies: 2.54
+    weight: 0.9696
+    avg_copies: 2.53
   necrodominance:
     weight: 0.8696
     avg_copies: 3.95
@@ -40,14 +40,14 @@ archetypes:
     weight: 1.0
     avg_copies: 2.58
   simic-ritual:
-    weight: 0.01
+    weight: 0.0099
     avg_copies: 4.0
   izzet-prowess:
-    weight: 0.0339
+    weight: 0.0338
     avg_copies: 3.2
   esper-blink:
-    weight: 0.9817
-    avg_copies: 3.65
+    weight: 0.982
+    avg_copies: 3.66
   samwise-combo:
     weight: 0.8108
     avg_copies: 2.4
@@ -55,11 +55,11 @@ archetypes:
     weight: 0.1875
     avg_copies: 4.0
   broodscale-combo:
-    weight: 0.0208
+    weight: 0.0207
     avg_copies: 3.0
   orzhov-blink:
-    weight: 0.8
-    avg_copies: 3.52
+    weight: 0.8095
+    avg_copies: 3.55
   dredge:
     weight: 0.7857
     avg_copies: 3.27
@@ -157,7 +157,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.2
   unknown-47:
-    weight: 0.9946
+    weight: 0.9947
     avg_copies: 3.76
   unknown-50:
     weight: 1.0

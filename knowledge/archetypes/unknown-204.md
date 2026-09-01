@@ -9,10 +9,13 @@ top_cards:
 - name: Persist
   weight: 1.0
   avg_copies: 4.0
-- name: Archon of Cruelty
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
@@ -21,7 +24,7 @@ top_cards:
 - name: Flow State
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -30,10 +33,13 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 4.0
 - name: Spell Snare
+  weight: 1.0
+  avg_copies: 3.0
+- name: Pest Control
+  weight: 1.0
+  avg_copies: 3.0
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 3.0
 - name: Orcish Bowmasters
@@ -42,37 +48,31 @@ top_cards:
 - name: Otherworldly Gaze
   weight: 1.0
   avg_copies: 3.0
-- name: Quantum Riddler
-  weight: 1.0
-  avg_copies: 3.0
-- name: Pest Control
-  weight: 1.0
-  avg_copies: 3.0
 - name: Kavaero, Mind-Bitten
   weight: 1.0
   avg_copies: 3.0
-- name: Harbinger of the Seas
-  weight: 1.0
-  avg_copies: 2.0
-- name: Teferi, Time Raveler
+- name: Watery Grave
   weight: 1.0
   avg_copies: 2.0
 - name: Island
   weight: 1.0
   avg_copies: 2.0
-- name: Swamp
+- name: Undercity Sewers
+  weight: 1.0
+  avg_copies: 2.0
+- name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 2.0
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 2.0
-- name: Undercity Sewers
+- name: Teferi, Time Raveler
+  weight: 1.0
+  avg_copies: 2.0
+- name: Swamp
   weight: 1.0
   avg_copies: 2.0
 - name: Force of Negation
-  weight: 1.0
-  avg_copies: 2.0
-- name: Watery Grave
   weight: 1.0
   avg_copies: 2.0
 - name: Emperor of Bones

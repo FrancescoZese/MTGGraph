@@ -6,16 +6,16 @@ name: Pithing Needle
 scryfall_id: 776899f8-e977-42b7-8b54-6f726a349e3c
 set: 2x2
 type: Artifact
-meta_presence: 0.1517
+meta_presence: 0.1522
 archetypes:
   boros-energy:
     weight: 0.0012
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.1297
+    weight: 0.1289
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.0055
+    weight: 0.0054
     avg_copies: 1.0
   hardened-scales:
     weight: 0.6
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.0217
     avg_copies: 1.0
   affinity:
-    weight: 0.9443
+    weight: 0.9445
     avg_copies: 1.0
   hammer-time:
     weight: 0.6818
@@ -39,7 +39,7 @@ archetypes:
     weight: 0.0045
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.822
+    weight: 0.8225
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.5
@@ -96,7 +96,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0108
+    weight: 0.0107
     avg_copies: 1.0
   unknown-48:
     weight: 0.5
@@ -159,7 +159,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.1869
+    weight: 0.1835
     avg_copies: 1.0
   unknown-159:
     weight: 1.0
@@ -177,7 +177,7 @@ archetypes:
     weight: 0.8333
     avg_copies: 1.0
   unknown-194:
-    weight: 0.9344
+    weight: 0.9375
     avg_copies: 1.0
   unknown-195:
     weight: 0.5
@@ -210,6 +210,12 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-273:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-280:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-281:
     weight: 1.0
     avg_copies: 1.0
 ---

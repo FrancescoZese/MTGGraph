@@ -6,7 +6,7 @@ name: Cori Mountain Monastery
 scryfall_id: 9312821a-2059-4f44-9b20-c9522b827e38
 set: tdm
 type: Land
-meta_presence: 0.0354
+meta_presence: 0.0355
 archetypes:
   boros-energy:
     weight: 0.0124
@@ -22,7 +22,7 @@ archetypes:
     avg_copies: 3.86
   unknown-160:
     weight: 1.0
-    avg_copies: 3.56
+    avg_copies: 3.57
   unknown-276:
     weight: 1.0
     avg_copies: 2.0

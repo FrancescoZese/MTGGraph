@@ -15,10 +15,10 @@ top_cards:
 - name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline Binding
+- name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 4.0
-- name: Ragavan, Nimble Pilferer
+- name: Leyline Binding
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -36,19 +36,19 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.07
-- name: Thundering Falls
+- name: Indatha Triome
   weight: 1.0
   avg_copies: 1.0
-- name: Indatha Triome
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Plains
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Psychic Frog
@@ -93,10 +93,10 @@ top_cards:
 - name: Meticulous Archive
   weight: 0.6667
   avg_copies: 1.0
-- name: Practiced Offense
+- name: Obsidian Charmaw
   weight: 0.5333
   avg_copies: 2.0
-- name: Obsidian Charmaw
+- name: Practiced Offense
   weight: 0.5333
   avg_copies: 2.0
 - name: Rest in Peace
@@ -123,37 +123,40 @@ top_cards:
 - name: Raucous Theater
   weight: 0.2
   avg_copies: 1.0
-- name: Teferi, Time Raveler
+- name: Watery Grave
   weight: 0.1333
   avg_copies: 1.0
-- name: Watery Grave
+- name: Teferi, Time Raveler
   weight: 0.1333
   avg_copies: 1.0
 - name: Force of Negation
   weight: 0.0667
   avg_copies: 4.0
-- name: Galvanic Discharge
-  weight: 0.0667
-  avg_copies: 3.0
-- name: Surgical Extraction
+- name: Marsh Flats
   weight: 0.0667
   avg_copies: 3.0
 - name: Phelia, Exuberant Shepherd
   weight: 0.0667
   avg_copies: 3.0
-- name: Marsh Flats
+- name: Surgical Extraction
+  weight: 0.0667
+  avg_copies: 3.0
+- name: Galvanic Discharge
   weight: 0.0667
   avg_copies: 3.0
 - name: Clarion Conqueror
   weight: 0.0667
   avg_copies: 2.0
-- name: Hedge Maze
+- name: Sacred Foundry
+  weight: 0.0667
+  avg_copies: 1.0
+- name: Brotherhood's End
   weight: 0.0667
   avg_copies: 1.0
 - name: Lush Portico
   weight: 0.0667
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Swamp
   weight: 0.0667
   avg_copies: 1.0
 - name: Vexing Bauble
@@ -162,16 +165,13 @@ top_cards:
 - name: Ephemerate
   weight: 0.0667
   avg_copies: 1.0
-- name: Brotherhood's End
+- name: Nihil Spellbomb
   weight: 0.0667
   avg_copies: 1.0
 - name: Solitude
   weight: 0.0667
   avg_copies: 1.0
-- name: Swamp
-  weight: 0.0667
-  avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Hedge Maze
   weight: 0.0667
   avg_copies: 1.0
 ---

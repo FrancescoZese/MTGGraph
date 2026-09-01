@@ -8,9 +8,12 @@ name: Knight of Autumn
 scryfall_id: c9cd7448-6f8b-4ce4-bde5-2c17271dcef7
 set: afc
 type: Creature — Dryad Knight
-meta_presence: 0.0001
+meta_presence: 0.0003
 archetypes:
   unknown-60:
     weight: 1.0
+    avg_copies: 1.0
+  unknown-249:
+    weight: 0.5
     avg_copies: 1.0
 ---

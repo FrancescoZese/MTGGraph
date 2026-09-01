@@ -213,10 +213,10 @@ top_cards:
 - name: Stern Scolding
   weight: 0.0367
   avg_copies: 1.2
-- name: Waterlogged Teachings
+- name: Sacred Foundry
   weight: 0.0367
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Waterlogged Teachings
   weight: 0.0367
   avg_copies: 1.0
 - name: Suppression Ray
@@ -240,76 +240,76 @@ top_cards:
 - name: Pyroclasm
   weight: 0.0183
   avg_copies: 1.5
-- name: Tamiyo, Inquisitive Student
-  weight: 0.0183
-  avg_copies: 1.0
-- name: Elegant Parlor
-  weight: 0.0183
-  avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.0183
   avg_copies: 1.0
 - name: Dress Down
   weight: 0.0183
   avg_copies: 1.0
-- name: Harbinger of the Seas
-  weight: 0.0092
-  avg_copies: 4.0
+- name: Elegant Parlor
+  weight: 0.0183
+  avg_copies: 1.0
+- name: Tamiyo, Inquisitive Student
+  weight: 0.0183
+  avg_copies: 1.0
 - name: Relic of Progenitus
   weight: 0.0092
   avg_copies: 4.0
 - name: Quantum Riddler
   weight: 0.0092
   avg_copies: 4.0
-- name: Wear
+- name: Harbinger of the Seas
+  weight: 0.0092
+  avg_copies: 4.0
+- name: card:bilbo-s-gambit
   weight: 0.0092
   avg_copies: 2.0
 - name: Obsidian Charmaw
   weight: 0.0092
   avg_copies: 2.0
-- name: card:bilbo-s-gambit
+- name: Wear
   weight: 0.0092
   avg_copies: 2.0
-- name: Elesh Norn, Mother of Machines
-  weight: 0.0092
-  avg_copies: 1.0
-- name: Logic Knot
-  weight: 0.0092
-  avg_copies: 1.0
-- name: Strix Serenade
-  weight: 0.0092
-  avg_copies: 1.0
-- name: Meltdown
+- name: card:bribery
   weight: 0.0092
   avg_copies: 1.0
 - name: card:linvala-keeper-of-silence
   weight: 0.0092
   avg_copies: 1.0
-- name: card:bribery
-  weight: 0.0092
-  avg_copies: 1.0
-- name: Restless Anchorage
+- name: Logic Knot
   weight: 0.0092
   avg_copies: 1.0
 - name: Flashback
   weight: 0.0092
   avg_copies: 1.0
-- name: Damping Sphere
-  weight: 0.0092
-  avg_copies: 1.0
-- name: Petrified Hamlet
-  weight: 0.0092
-  avg_copies: 1.0
 - name: Deafening Silence
   weight: 0.0092
   avg_copies: 1.0
-- name: Get Lost
+- name: Damping Sphere
   weight: 0.0092
   avg_copies: 1.0
 - name: Commandeer
   weight: 0.0092
   avg_copies: 1.0
+- name: Meltdown
+  weight: 0.0092
+  avg_copies: 1.0
+- name: Petrified Hamlet
+  weight: 0.0092
+  avg_copies: 1.0
+- name: Restless Anchorage
+  weight: 0.0092
+  avg_copies: 1.0
 - name: Hurkyl's Recall
+  weight: 0.0092
+  avg_copies: 1.0
+- name: Get Lost
+  weight: 0.0092
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
+  weight: 0.0092
+  avg_copies: 1.0
+- name: Strix Serenade
   weight: 0.0092
   avg_copies: 1.0
 ---

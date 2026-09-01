@@ -13,8 +13,8 @@ archetypes:
     weight: 0.3762
     avg_copies: 3.5
   goryo:
-    weight: 0.3509
-    avg_copies: 3.38
+    weight: 0.3492
+    avg_copies: 3.37
   reanimator:
     weight: 0.037
     avg_copies: 4.0

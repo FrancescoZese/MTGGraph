@@ -7,22 +7,22 @@ name: 'Unknown #8'
 meta_share: 0.0004
 list_count: 3
 top_cards:
-- name: Arid Mesa
+- name: Fable of the Mirror-Breaker
   weight: 1.0
   avg_copies: 4.0
 - name: Wrenn and Six
   weight: 1.0
   avg_copies: 4.0
-- name: Archon of Cruelty
-  weight: 1.0
-  avg_copies: 4.0
-- name: Indomitable Creativity
-  weight: 1.0
-  avg_copies: 4.0
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Fable of the Mirror-Breaker
+- name: Archon of Cruelty
+  weight: 1.0
+  avg_copies: 4.0
+- name: Arid Mesa
+  weight: 1.0
+  avg_copies: 4.0
+- name: Indomitable Creativity
   weight: 1.0
   avg_copies: 4.0
 - name: Dwarven Mine
@@ -73,18 +73,24 @@ top_cards:
 - name: Brotherhood's End
   weight: 0.6667
   avg_copies: 2.5
+- name: Veil of Summer
+  weight: 0.6667
+  avg_copies: 2.0
+- name: Terastodon
+  weight: 0.6667
+  avg_copies: 2.0
 - name: Untimely Malfunction
   weight: 0.6667
   avg_copies: 2.0
 - name: Pyroclasm
   weight: 0.6667
   avg_copies: 2.0
-- name: Terastodon
+- name: Assassin's Trophy
   weight: 0.6667
-  avg_copies: 2.0
-- name: Veil of Summer
+  avg_copies: 1.0
+- name: Sokenzan, Crucible of Defiance
   weight: 0.6667
-  avg_copies: 2.0
+  avg_copies: 1.0
 - name: Strategic Betrayal
   weight: 0.6667
   avg_copies: 1.0
@@ -92,12 +98,6 @@ top_cards:
   weight: 0.6667
   avg_copies: 1.0
 - name: Raph & Mikey, Troublemakers
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Sokenzan, Crucible of Defiance
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Assassin's Trophy
   weight: 0.6667
   avg_copies: 1.0
 - name: Boseiju, Who Endures
@@ -112,10 +112,10 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 0.3333
   avg_copies: 2.0
-- name: Shatter Assumptions
+- name: Bitter Triumph
   weight: 0.3333
   avg_copies: 1.0
-- name: Bitter Triumph
+- name: Shatter Assumptions
   weight: 0.3333
   avg_copies: 1.0
 - name: Rotten Reunion

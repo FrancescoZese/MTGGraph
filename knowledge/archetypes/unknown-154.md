@@ -5,19 +5,19 @@ name: 'Unknown #154'
 meta_share: 0.0005
 list_count: 4
 top_cards:
-- name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Nethergoyf
+- name: Moonshadow
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
-- name: Moonshadow
+- name: Nethergoyf
   weight: 1.0
   avg_copies: 4.0
 - name: Overlord of the Balemurk
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Fatal Push
@@ -29,10 +29,10 @@ top_cards:
 - name: Verdant Catacombs
   weight: 1.0
   avg_copies: 3.25
-- name: Vampire Hexmage
+- name: Force of Despair
   weight: 1.0
   avg_copies: 3.0
-- name: Force of Despair
+- name: Vampire Hexmage
   weight: 1.0
   avg_copies: 3.0
 - name: Swamp
@@ -44,10 +44,10 @@ top_cards:
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 2.25
-- name: Bloodstained Mire
+- name: Emperor of Bones
   weight: 1.0
   avg_copies: 2.0
-- name: Emperor of Bones
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.0
 - name: Urza's Saga
@@ -59,9 +59,6 @@ top_cards:
 - name: Boggart Trawler
   weight: 0.75
   avg_copies: 2.0
-- name: Sheoldred's Edict
-  weight: 0.75
-  avg_copies: 2.0
 - name: Dauthi Voidwalker
   weight: 0.75
   avg_copies: 2.0
@@ -71,19 +68,22 @@ top_cards:
 - name: Polluted Delta
   weight: 0.75
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Sheoldred's Edict
   weight: 0.75
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Shadowspear
   weight: 0.75
   avg_copies: 1.0
 - name: Grafdigger's Cage
   weight: 0.75
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Vexing Bauble
   weight: 0.75
   avg_copies: 1.0
 - name: Nihil Spellbomb
+  weight: 0.75
+  avg_copies: 1.0
+- name: Pithing Needle
   weight: 0.75
   avg_copies: 1.0
 - name: Super Shredder
@@ -104,31 +104,31 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 0.25
   avg_copies: 3.0
-- name: Crime
+- name: Six
   weight: 0.25
   avg_copies: 2.0
-- name: Six
+- name: Crime
   weight: 0.25
   avg_copies: 2.0
 - name: Boseiju, Who Endures
   weight: 0.25
   avg_copies: 2.0
-- name: Grist, the Hunger Tide
-  weight: 0.25
-  avg_copies: 1.0
-- name: Springleaf Drum
-  weight: 0.25
-  avg_copies: 1.0
 - name: Witherbloom Charm
   weight: 0.25
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Grist, the Hunger Tide
   weight: 0.25
   avg_copies: 1.0
 - name: Assassin's Trophy
   weight: 0.25
   avg_copies: 1.0
 - name: Underground Mortuary
+  weight: 0.25
+  avg_copies: 1.0
+- name: Springleaf Drum
+  weight: 0.25
+  avg_copies: 1.0
+- name: Haywire Mite
   weight: 0.25
   avg_copies: 1.0
 ---

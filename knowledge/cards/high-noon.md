@@ -7,7 +7,7 @@ name: High Noon
 scryfall_id: 9995e0e6-7c9c-4fef-8fd2-8fb1622e6ec8
 set: otj
 type: Enchantment
-meta_presence: 0.22
+meta_presence: 0.2199
 archetypes:
   boros-energy:
     weight: 0.7736
@@ -22,10 +22,10 @@ archetypes:
     weight: 0.0029
     avg_copies: 1.0
   amulet-titan:
-    weight: 0.0055
+    weight: 0.0054
     avg_copies: 3.0
   goryo:
-    weight: 0.0132
+    weight: 0.013
     avg_copies: 1.5
   azorius-control:
     weight: 0.9083
@@ -34,14 +34,14 @@ archetypes:
     weight: 0.0253
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.8143
-    avg_copies: 1.68
+    weight: 0.8169
+    avg_copies: 1.69
   domain-zoo:
     weight: 0.5161
     avg_copies: 1.7
   mill:
-    weight: 0.0263
-    avg_copies: 3.0
+    weight: 0.0513
+    avg_copies: 2.5
   mardu-blink:
     weight: 0.9167
     avg_copies: 2.09
@@ -52,7 +52,7 @@ archetypes:
     weight: 0.9504
     avg_copies: 2.63
   esper-blink:
-    weight: 0.9406
+    weight: 0.9414
     avg_copies: 2.28
   samwise-combo:
     weight: 0.2432
@@ -61,8 +61,8 @@ archetypes:
     weight: 0.375
     avg_copies: 2.6
   orzhov-blink:
-    weight: 0.85
-    avg_copies: 2.41
+    weight: 0.8571
+    avg_copies: 2.5
   azorius-blink:
     weight: 0.2778
     avg_copies: 2.0
@@ -98,7 +98,7 @@ archetypes:
     avg_copies: 2.0
   unknown-16:
     weight: 1.0
-    avg_copies: 2.22
+    avg_copies: 2.2
   unknown-17:
     weight: 0.3333
     avg_copies: 2.0
@@ -115,7 +115,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.62
   unknown-47:
-    weight: 0.0161
+    weight: 0.016
     avg_copies: 1.0
   unknown-62:
     weight: 0.2424
@@ -124,7 +124,7 @@ archetypes:
     weight: 0.069
     avg_copies: 2.0
   unknown-67:
-    weight: 0.009
+    weight: 0.0089
     avg_copies: 1.0
   unknown-68:
     weight: 0.7857
@@ -211,7 +211,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-160:
-    weight: 0.7009
+    weight: 0.6972
     avg_copies: 2.83
   unknown-166:
     weight: 1.0

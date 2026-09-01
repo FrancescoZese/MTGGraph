@@ -11,13 +11,13 @@ type: Instant
 meta_presence: 0.0094
 archetypes:
   jeskai-control:
-    weight: 0.0143
+    weight: 0.0141
     avg_copies: 2.0
   affinity:
     weight: 0.0017
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0928
+    weight: 0.0923
     avg_copies: 1.07
   indomitable-creativity:
     weight: 0.1875

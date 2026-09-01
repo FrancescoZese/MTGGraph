@@ -9,22 +9,22 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 4.33
-- name: Gravecrawler
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
-- name: Orcish Bowmasters
+- name: Marionette Apprentice
   weight: 1.0
   avg_copies: 4.0
 - name: Spymaster's Vault
   weight: 1.0
   avg_copies: 4.0
-- name: Stitcher's Supplier
-  weight: 1.0
-  avg_copies: 4.0
 - name: Warren Soultrader
   weight: 1.0
   avg_copies: 4.0
-- name: Marionette Apprentice
+- name: Gravecrawler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
 - name: Flare of Malice
@@ -33,22 +33,22 @@ top_cards:
 - name: Boggart Trawler
   weight: 1.0
   avg_copies: 2.67
-- name: Chthonian Nightmare
-  weight: 1.0
-  avg_copies: 2.33
 - name: Unearth
   weight: 1.0
   avg_copies: 2.33
-- name: Thoughtseize
+- name: Chthonian Nightmare
+  weight: 1.0
+  avg_copies: 2.33
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 2.0
-- name: Fatal Push
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 2.0
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.0
-- name: Marsh Flats
+- name: Fatal Push
   weight: 1.0
   avg_copies: 2.0
 - name: Polluted Delta
@@ -57,10 +57,10 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 1.0
   avg_copies: 1.67
-- name: Mutavault
+- name: Accursed Marauder
   weight: 1.0
   avg_copies: 1.0
-- name: Accursed Marauder
+- name: Mutavault
   weight: 1.0
   avg_copies: 1.0
 - name: Malevolent Rumble
@@ -72,16 +72,16 @@ top_cards:
 - name: Culling Ritual
   weight: 0.6667
   avg_copies: 2.0
-- name: Verdant Catacombs
-  weight: 0.6667
-  avg_copies: 2.0
-- name: Mai, Scornful Striker
-  weight: 0.6667
-  avg_copies: 2.0
 - name: Chomping Changeling
   weight: 0.6667
   avg_copies: 2.0
+- name: Verdant Catacombs
+  weight: 0.6667
+  avg_copies: 2.0
 - name: Underground Mortuary
+  weight: 0.6667
+  avg_copies: 2.0
+- name: Mai, Scornful Striker
   weight: 0.6667
   avg_copies: 2.0
 - name: Grist, the Hunger Tide
@@ -108,13 +108,13 @@ top_cards:
 - name: Umezawa's Jitte
   weight: 0.3333
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Ashiok, Dream Render
   weight: 0.3333
   avg_copies: 1.0
 - name: Dauthi Voidwalker
   weight: 0.3333
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Raucous Theater
   weight: 0.3333
   avg_copies: 1.0
 ---

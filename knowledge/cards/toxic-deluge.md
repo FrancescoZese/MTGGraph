@@ -19,13 +19,13 @@ archetypes:
     weight: 0.0435
     avg_copies: 1.5
   mill:
-    weight: 0.6053
+    weight: 0.5897
     avg_copies: 1.21
   kethis-combo:
     weight: 0.125
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.05
+    weight: 0.0495
     avg_copies: 1.4
   broodscale-combo:
     weight: 0.003
@@ -52,7 +52,7 @@ archetypes:
     weight: 0.1429
     avg_copies: 1.0
   unknown-47:
-    weight: 0.7366
+    weight: 0.738
     avg_copies: 1.22
   unknown-63:
     weight: 1.0

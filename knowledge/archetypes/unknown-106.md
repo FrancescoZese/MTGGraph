@@ -42,10 +42,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 2.09
-- name: Plains
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.0
-- name: Hallowed Fountain
+- name: Plains
   weight: 1.0
   avg_copies: 2.0
 - name: Meticulous Archive
@@ -57,10 +57,10 @@ top_cards:
 - name: Celestial Purge
   weight: 0.9091
   avg_copies: 1.1
-- name: Monumental Henge
+- name: Watery Grave
   weight: 0.8182
   avg_copies: 1.0
-- name: Watery Grave
+- name: Monumental Henge
   weight: 0.8182
   avg_copies: 1.0
 - name: Mystic Gate
@@ -114,13 +114,13 @@ top_cards:
 - name: Narset, Parter of Veils
   weight: 0.3636
   avg_copies: 4.0
+- name: Day's Undoing
+  weight: 0.3636
+  avg_copies: 2.0
 - name: Lórien Revealed
   weight: 0.3636
   avg_copies: 2.0
 - name: Path to Exile
-  weight: 0.3636
-  avg_copies: 2.0
-- name: Day's Undoing
   weight: 0.3636
   avg_copies: 2.0
 - name: Logic Knot
@@ -129,10 +129,10 @@ top_cards:
 - name: Geier Reach Sanitarium
   weight: 0.3636
   avg_copies: 1.0
-- name: Get Lost
+- name: Ashiok, Dream Render
   weight: 0.3636
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Get Lost
   weight: 0.3636
   avg_copies: 1.0
 - name: Tune the Narrative
@@ -153,6 +153,9 @@ top_cards:
 - name: Steam Vents
   weight: 0.1818
   avg_copies: 1.0
+- name: No More Lies
+  weight: 0.0909
+  avg_copies: 2.0
 - name: Harbinger of the Seas
   weight: 0.0909
   avg_copies: 2.0
@@ -162,22 +165,19 @@ top_cards:
 - name: Terminus
   weight: 0.0909
   avg_copies: 2.0
-- name: No More Lies
-  weight: 0.0909
-  avg_copies: 2.0
-- name: Agna Qel'a
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Thundering Falls
+- name: Rest in Peace
   weight: 0.0909
   avg_copies: 1.0
 - name: Memory Deluge
   weight: 0.0909
   avg_copies: 1.0
-- name: Rest in Peace
+- name: Kaito, Bane of Nightmares
   weight: 0.0909
   avg_copies: 1.0
-- name: Kaito, Bane of Nightmares
+- name: Thundering Falls
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Agna Qel'a
   weight: 0.0909
   avg_copies: 1.0
 - name: Dovin's Veto

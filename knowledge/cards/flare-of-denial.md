@@ -16,16 +16,16 @@ archetypes:
     weight: 0.481
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.0429
+    weight: 0.0423
     avg_copies: 2.0
   mill:
-    weight: 0.0263
+    weight: 0.0256
     avg_copies: 2.0
   reanimator:
     weight: 0.037
     avg_copies: 4.0
   simic-ritual:
-    weight: 0.99
+    weight: 0.9901
     avg_copies: 4.0
   izzet-wizards:
     weight: 0.1538
@@ -58,7 +58,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-67:
-    weight: 0.045
+    weight: 0.0446
     avg_copies: 1.0
   unknown-82:
     weight: 1.0

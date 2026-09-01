@@ -13,16 +13,16 @@ archetypes:
     weight: 0.9506
     avg_copies: 1.79
   goryo:
-    weight: 0.011
+    weight: 0.0108
     avg_copies: 1.0
   necrodominance:
     weight: 0.0217
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.01
+    weight: 0.0099
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0046
+    weight: 0.0045
     avg_copies: 1.0
   rakdos-aggro:
     weight: 0.1579
@@ -64,7 +64,7 @@ archetypes:
     weight: 0.0625
     avg_copies: 1.0
   unknown-47:
-    weight: 0.6774
+    weight: 0.6791
     avg_copies: 1.1
   unknown-51:
     weight: 1.0

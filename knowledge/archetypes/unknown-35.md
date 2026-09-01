@@ -6,19 +6,16 @@ name: 'Unknown #35'
 meta_share: 0.0006
 list_count: 5
 top_cards:
-- name: Mishra's Bauble
+- name: Unholy Heat
   weight: 1.0
   avg_copies: 4.0
 - name: Flame of Anor
   weight: 1.0
   avg_copies: 4.0
-- name: Unholy Heat
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Lórien Revealed
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thundertrap Trainer
   weight: 1.0
   avg_copies: 4.0
 - name: Subtlety
@@ -27,13 +24,16 @@ top_cards:
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
+- name: Thundertrap Trainer
+  weight: 1.0
+  avg_copies: 4.0
 - name: Island
   weight: 1.0
   avg_copies: 3.2
-- name: Steam Vents
+- name: Fable of the Mirror-Breaker
   weight: 1.0
   avg_copies: 3.0
-- name: Fable of the Mirror-Breaker
+- name: Steam Vents
   weight: 1.0
   avg_copies: 3.0
 - name: Flooded Strand
@@ -42,19 +42,19 @@ top_cards:
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 2.43
-- name: Thundering Falls
-  weight: 1.0
-  avg_copies: 2.0
-- name: Dress Down
+- name: Blood Moon
   weight: 1.0
   avg_copies: 2.0
 - name: Snapcaster Mage
   weight: 1.0
   avg_copies: 2.0
-- name: Blood Moon
+- name: Flare of Denial
   weight: 1.0
   avg_copies: 2.0
-- name: Flare of Denial
+- name: Thundering Falls
+  weight: 1.0
+  avg_copies: 2.0
+- name: Dress Down
   weight: 1.0
   avg_copies: 2.0
 - name: Spell Snare
@@ -90,10 +90,10 @@ top_cards:
 - name: card:volatile-stormdrake
   weight: 0.4
   avg_copies: 2.5
-- name: Arena of Glory
+- name: card:minor-misstep
   weight: 0.4
   avg_copies: 2.0
-- name: card:minor-misstep
+- name: Arena of Glory
   weight: 0.4
   avg_copies: 2.0
 - name: Bonecrusher Giant
@@ -111,13 +111,13 @@ top_cards:
 - name: card:tectonic-giant
   weight: 0.2
   avg_copies: 3.0
-- name: Teferi, Temporal Pilgrim
+- name: Spell Pierce
   weight: 0.2
   avg_copies: 2.0
 - name: Twinflame Tyrant
   weight: 0.2
   avg_copies: 2.0
-- name: Spell Pierce
+- name: Teferi, Temporal Pilgrim
   weight: 0.2
   avg_copies: 2.0
 - name: Marang River Regent
@@ -126,16 +126,16 @@ top_cards:
 - name: Stern Scolding
   weight: 0.2
   avg_copies: 1.0
-- name: Damping Sphere
+- name: Brazen Borrower
   weight: 0.2
   avg_copies: 1.0
 - name: Chalice of the Void
   weight: 0.2
   avg_copies: 1.0
-- name: Brazen Borrower
+- name: Annul
   weight: 0.2
   avg_copies: 1.0
-- name: Annul
+- name: Damping Sphere
   weight: 0.2
   avg_copies: 1.0
 ---

@@ -5,13 +5,13 @@ colors:
 - R
 - G
 name: 'Unknown #96'
-meta_share: 0.0096
+meta_share: 0.0095
 list_count: 76
 top_cards:
-- name: Hollow One
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
+- name: Hollow One
   weight: 1.0
   avg_copies: 4.0
 - name: Hardened Academic
@@ -29,10 +29,10 @@ top_cards:
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 3.11
-- name: Blazing Rootwalla
+- name: Burning Inquiry
   weight: 0.9868
   avg_copies: 4.0
-- name: Burning Inquiry
+- name: Blazing Rootwalla
   weight: 0.9868
   avg_copies: 4.0
 - name: Vengevine
@@ -158,16 +158,16 @@ top_cards:
 - name: Asmoranomardicadaistinaculdacar
   weight: 0.0395
   avg_copies: 2.0
-- name: card:smiting-helix
-  weight: 0.0395
-  avg_copies: 2.0
 - name: The Underworld Cookbook
   weight: 0.0395
   avg_copies: 2.0
-- name: Cool but Rude
+- name: card:smiting-helix
   weight: 0.0395
   avg_copies: 2.0
 - name: Seasoned Pyromancer
+  weight: 0.0395
+  avg_copies: 2.0
+- name: Cool but Rude
   weight: 0.0395
   avg_copies: 2.0
 - name: Unholy Heat
@@ -182,37 +182,37 @@ top_cards:
 - name: Snow-Covered Mountain
   weight: 0.0263
   avg_copies: 2.0
+- name: Wrath of the Skies
+  weight: 0.0263
+  avg_copies: 1.5
 - name: Celestial Purge
   weight: 0.0263
   avg_copies: 1.5
 - name: Pyroclasm
   weight: 0.0263
   avg_copies: 1.5
-- name: Wrath of the Skies
-  weight: 0.0263
-  avg_copies: 1.5
 - name: Goblin Lore
   weight: 0.0132
   avg_copies: 4.0
+- name: Marsh Flats
+  weight: 0.0132
+  avg_copies: 3.0
 - name: Nethergoyf
   weight: 0.0132
   avg_copies: 3.0
 - name: Price of Freedom
   weight: 0.0132
   avg_copies: 3.0
-- name: Marsh Flats
-  weight: 0.0132
-  avg_copies: 3.0
-- name: Hallowed Moonlight
-  weight: 0.0132
-  avg_copies: 2.0
 - name: Relic of Progenitus
   weight: 0.0132
   avg_copies: 2.0
-- name: Plains
+- name: Hallowed Moonlight
+  weight: 0.0132
+  avg_copies: 2.0
+- name: Temur Battle Rage
   weight: 0.0132
   avg_copies: 1.0
-- name: Temur Battle Rage
+- name: Plains
   weight: 0.0132
   avg_copies: 1.0
 - name: Godless Shrine

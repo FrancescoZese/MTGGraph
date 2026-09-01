@@ -6,11 +6,11 @@ name: Barbarian Ring
 scryfall_id: c184406c-b22c-4b9b-9d3a-3e7b17efd8a0
 set: mh3
 type: Land
-meta_presence: 0.0077
+meta_presence: 0.0078
 archetypes:
   burn:
-    weight: 0.881
-    avg_copies: 3.11
+    weight: 0.8837
+    avg_copies: 3.08
   hollow-one:
     weight: 0.0294
     avg_copies: 1.0

@@ -7,25 +7,25 @@ name: 'Unknown #131'
 meta_share: 0.0013
 list_count: 10
 top_cards:
-- name: Psychic Frog
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
 - name: Quantum Riddler
   weight: 1.0
   avg_copies: 4.0
-- name: Ocelot Pride
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flooded Strand
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Phelia, Exuberant Shepherd
@@ -46,13 +46,13 @@ top_cards:
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.0
-- name: Plains
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.6
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.6
-- name: Hallowed Fountain
+- name: Plains
   weight: 1.0
   avg_copies: 1.6
 - name: Godless Shrine
@@ -136,22 +136,22 @@ top_cards:
 - name: White Orchid Phantom
   weight: 0.1
   avg_copies: 2.0
-- name: Elesh Norn, Mother of Machines
-  weight: 0.1
-  avg_copies: 1.0
-- name: Ghost Vacuum
-  weight: 0.1
-  avg_copies: 1.0
 - name: March of Otherworldly Light
-  weight: 0.1
-  avg_copies: 1.0
-- name: Clarion Conqueror
   weight: 0.1
   avg_copies: 1.0
 - name: Floodfarm Verge
   weight: 0.1
   avg_copies: 1.0
+- name: Clarion Conqueror
+  weight: 0.1
+  avg_copies: 1.0
+- name: Ghost Vacuum
+  weight: 0.1
+  avg_copies: 1.0
 - name: Takenuma, Abandoned Mire
+  weight: 0.1
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
   weight: 0.1
   avg_copies: 1.0
 ---

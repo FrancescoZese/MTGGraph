@@ -6,31 +6,31 @@ name: 'Unknown #52'
 meta_share: 0.0015
 list_count: 12
 top_cards:
-- name: Phoenix Fleet Airship
-  weight: 1.0
-  avg_copies: 4.0
-- name: Shambling Ghast
-  weight: 1.0
-  avg_copies: 4.0
-- name: Phyrexian Tower
-  weight: 1.0
-  avg_copies: 4.0
 - name: Malevolent Rumble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Warren Soultrader
-  weight: 1.0
-  avg_copies: 4.0
-- name: Gravecrawler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
+- name: Orcish Bowmasters
+  weight: 1.0
+  avg_copies: 4.0
+- name: Warren Soultrader
+  weight: 1.0
+  avg_copies: 4.0
+- name: Shambling Ghast
+  weight: 1.0
+  avg_copies: 4.0
+- name: Gravecrawler
+  weight: 1.0
+  avg_copies: 4.0
 - name: Verdant Catacombs
+  weight: 1.0
+  avg_copies: 4.0
+- name: Phyrexian Tower
+  weight: 1.0
+  avg_copies: 4.0
+- name: Phoenix Fleet Airship
   weight: 1.0
   avg_copies: 4.0
 - name: Marionette Apprentice
@@ -69,13 +69,13 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 1.08
+- name: Spymaster's Vault
+  weight: 1.0
+  avg_copies: 1.0
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.0
 - name: Sephiroth, Fabled SOLDIER
-  weight: 1.0
-  avg_copies: 1.0
-- name: Spymaster's Vault
   weight: 1.0
   avg_copies: 1.0
 - name: Shatter Assumptions
@@ -87,19 +87,19 @@ top_cards:
 - name: Polluted Delta
   weight: 0.6667
   avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Haywire Mite
   weight: 0.25
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Nurturing Peatland
   weight: 0.25
   avg_copies: 1.0
 - name: Graveyard Trespasser
   weight: 0.0833
   avg_copies: 3.0
-- name: Cling to Dust
+- name: Chomping Changeling
   weight: 0.0833
   avg_copies: 1.0
-- name: Chomping Changeling
+- name: Cling to Dust
   weight: 0.0833
   avg_copies: 1.0
 ---

@@ -8,16 +8,13 @@ name: 'Unknown #84'
 meta_share: 0.0004
 list_count: 3
 top_cards:
-- name: Violent Outburst
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flooded Strand
+- name: Shardless Agent
   weight: 1.0
   avg_copies: 4.0
 - name: Force of Negation
   weight: 1.0
   avg_copies: 4.0
-- name: Subtlety
+- name: Violent Outburst
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline Binding
@@ -26,10 +23,13 @@ top_cards:
 - name: Crashing Footfalls
   weight: 1.0
   avg_copies: 4.0
-- name: Shardless Agent
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 4.0
-- name: Wooded Foothills
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
+- name: Subtlety
   weight: 1.0
   avg_copies: 4.0
 - name: Mystical Dispute
@@ -38,10 +38,10 @@ top_cards:
 - name: Endurance
   weight: 1.0
   avg_copies: 3.0
-- name: Arid Mesa
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 2.33
-- name: Quantum Riddler
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 2.33
 - name: Inevitable Betrayal
@@ -50,10 +50,16 @@ top_cards:
 - name: Temple Garden
   weight: 1.0
   avg_copies: 1.33
-- name: Thundering Falls
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Lush Portico
+  weight: 1.0
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 1.0
+  avg_copies: 1.0
+- name: Xander's Lounge
   weight: 1.0
   avg_copies: 1.0
 - name: Plains
@@ -62,18 +68,15 @@ top_cards:
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Island
-  weight: 1.0
-  avg_copies: 1.0
-- name: Xander's Lounge
-  weight: 1.0
-  avg_copies: 1.0
 - name: Fire
   weight: 0.6667
   avg_copies: 4.0
 - name: Obsidian Charmaw
   weight: 0.6667
   avg_copies: 3.0
+- name: Wistfulness
+  weight: 0.6667
+  avg_copies: 2.0
 - name: Wear
   weight: 0.6667
   avg_copies: 2.0
@@ -83,13 +86,10 @@ top_cards:
 - name: Vibrance
   weight: 0.6667
   avg_copies: 2.0
-- name: Wistfulness
-  weight: 0.6667
-  avg_copies: 2.0
 - name: Mistrise Village
   weight: 0.6667
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Hallowed Fountain
   weight: 0.6667
   avg_copies: 1.0
 - name: Breeding Pool
@@ -98,7 +98,7 @@ top_cards:
 - name: Stomping Ground
   weight: 0.6667
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Sacred Foundry
   weight: 0.6667
   avg_copies: 1.0
 - name: Boseiju, Who Endures
@@ -119,22 +119,22 @@ top_cards:
 - name: Rough
   weight: 0.3333
   avg_copies: 3.0
-- name: Sink into Stupor
-  weight: 0.3333
-  avg_copies: 2.0
 - name: Ardent Plea
   weight: 0.3333
   avg_copies: 2.0
-- name: Teferi, Time Raveler
+- name: Sink into Stupor
   weight: 0.3333
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Watery Grave
   weight: 0.3333
   avg_copies: 1.0
-- name: Dismember
+- name: Dead
   weight: 0.3333
   avg_copies: 1.0
-- name: Dead
+- name: Teferi, Time Raveler
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Dismember
   weight: 0.3333
   avg_copies: 1.0
 ---

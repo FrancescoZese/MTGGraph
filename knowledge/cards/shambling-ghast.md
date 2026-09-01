@@ -10,7 +10,7 @@ type: Creature — Zombie
 meta_presence: 0.0019
 archetypes:
   simic-ritual:
-    weight: 0.01
+    weight: 0.0099
     avg_copies: 4.0
   soultrader-combo:
     weight: 0.2857

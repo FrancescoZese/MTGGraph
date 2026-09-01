@@ -4,16 +4,16 @@ colors:
 - R
 - G
 name: 'Unknown #65'
-meta_share: 0.0037
+meta_share: 0.0036
 list_count: 29
 top_cards:
+- name: Shardless Agent
+  weight: 1.0
+  avg_copies: 4.0
 - name: Violent Outburst
   weight: 1.0
   avg_copies: 4.0
 - name: Crashing Footfalls
-  weight: 1.0
-  avg_copies: 4.0
-- name: Shardless Agent
   weight: 1.0
   avg_copies: 4.0
 - name: Misty Rainforest
@@ -43,13 +43,13 @@ top_cards:
 - name: Breeding Pool
   weight: 1.0
   avg_copies: 1.1
+- name: Stomping Ground
+  weight: 1.0
+  avg_copies: 1.0
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
 - name: Hedge Maze
-  weight: 1.0
-  avg_copies: 1.0
-- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
 - name: Wooded Foothills
@@ -121,10 +121,10 @@ top_cards:
 - name: Lórien Revealed
   weight: 0.1379
   avg_copies: 2.25
-- name: Repudiate
+- name: Ketria Triome
   weight: 0.1379
   avg_copies: 1.0
-- name: Ketria Triome
+- name: Repudiate
   weight: 0.1379
   avg_copies: 1.0
 - name: Tishana's Tidebinder
@@ -136,10 +136,10 @@ top_cards:
 - name: Hallowed Fountain
   weight: 0.1034
   avg_copies: 1.0
-- name: Flooded Grove
+- name: High Noon
   weight: 0.069
   avg_copies: 2.0
-- name: High Noon
+- name: Flooded Grove
   weight: 0.069
   avg_copies: 2.0
 - name: Harbinger of the Seas
@@ -151,31 +151,31 @@ top_cards:
 - name: Flame of Anor
   weight: 0.0345
   avg_copies: 4.0
-- name: Teferi, Time Raveler
-  weight: 0.0345
-  avg_copies: 2.0
-- name: Mutavault
+- name: Snow-Covered Island
   weight: 0.0345
   avg_copies: 2.0
 - name: Commandeer
   weight: 0.0345
   avg_copies: 2.0
-- name: Snow-Covered Island
+- name: Kataki, War's Wage
+  weight: 0.0345
+  avg_copies: 2.0
+- name: Teferi, Time Raveler
   weight: 0.0345
   avg_copies: 2.0
 - name: card:avengers-disassembled
   weight: 0.0345
   avg_copies: 2.0
-- name: Kataki, War's Wage
+- name: Mutavault
   weight: 0.0345
   avg_copies: 2.0
+- name: Fable of the Mirror-Breaker
+  weight: 0.0345
+  avg_copies: 1.0
 - name: Snow-Covered Forest
   weight: 0.0345
   avg_copies: 1.0
 - name: Mine Collapse
-  weight: 0.0345
-  avg_copies: 1.0
-- name: Fable of the Mirror-Breaker
   weight: 0.0345
   avg_copies: 1.0
 ---

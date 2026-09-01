@@ -21,10 +21,10 @@ top_cards:
 - name: Dwarven Mine
   weight: 1.0
   avg_copies: 3.25
-- name: Archon of Cruelty
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.75
-- name: Bloodstained Mire
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 2.75
 - name: Mountain
@@ -63,10 +63,10 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.8125
   avg_copies: 2.46
-- name: Elegant Parlor
+- name: Sacred Foundry
   weight: 0.8125
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Elegant Parlor
   weight: 0.8125
   avg_copies: 1.0
 - name: Leyline Binding
@@ -159,28 +159,28 @@ top_cards:
 - name: Strix Serenade
   weight: 0.1875
   avg_copies: 1.5
-- name: Prismari Charm
+- name: Valgavoth, Terror Eater
   weight: 0.1875
   avg_copies: 1.0
-- name: Valgavoth, Terror Eater
+- name: Prismari Charm
   weight: 0.1875
   avg_copies: 1.0
 - name: Leyline of the Void
   weight: 0.125
   avg_copies: 4.0
-- name: Emrakul, the Aeons Torn
-  weight: 0.125
-  avg_copies: 1.0
-- name: Prismari Command
+- name: Abrupt Decay
   weight: 0.125
   avg_copies: 1.0
 - name: Ketria Triome
   weight: 0.125
   avg_copies: 1.0
-- name: Raugrin Triome
+- name: Prismari Command
   weight: 0.125
   avg_copies: 1.0
-- name: Abrupt Decay
+- name: Emrakul, the Aeons Torn
+  weight: 0.125
+  avg_copies: 1.0
+- name: Raugrin Triome
   weight: 0.125
   avg_copies: 1.0
 - name: Nature's Claim
@@ -195,28 +195,28 @@ top_cards:
 - name: Inquisition of Kozilek
   weight: 0.0625
   avg_copies: 1.5
-- name: Elesh Norn, Mother of Machines
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Vampires' Vengeance
+- name: Rest in Peace
   weight: 0.0625
   avg_copies: 1.0
 - name: Molten Collapse
   weight: 0.0625
   avg_copies: 1.0
-- name: Witherbloom Command
+- name: Turn the Earth
   weight: 0.0625
   avg_copies: 1.0
-- name: Swamp
+- name: Vampires' Vengeance
   weight: 0.0625
   avg_copies: 1.0
 - name: Brainsurge
   weight: 0.0625
   avg_copies: 1.0
-- name: Rest in Peace
+- name: Swamp
   weight: 0.0625
   avg_copies: 1.0
-- name: Turn the Earth
+- name: Witherbloom Command
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
   weight: 0.0625
   avg_copies: 1.0
 ---

@@ -19,17 +19,20 @@ archetypes:
     weight: 0.0029
     avg_copies: 2.0
   goryo:
-    weight: 0.9846
+    weight: 0.9848
     avg_copies: 2.51
   azorius-control:
     weight: 0.9541
     avg_copies: 2.12
   jeskai-control:
-    weight: 0.9857
+    weight: 0.9859
     avg_copies: 2.14
   domain-zoo:
     weight: 0.9742
     avg_copies: 2.17
+  mill:
+    weight: 0.0256
+    avg_copies: 2.0
   reanimator:
     weight: 0.037
     avg_copies: 1.0
@@ -46,8 +49,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.59
   orzhov-blink:
-    weight: 0.95
-    avg_copies: 2.75
+    weight: 0.9524
+    avg_copies: 2.76
   bant-control:
     weight: 1.0
     avg_copies: 4.0
@@ -91,7 +94,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-16:
-    weight: 0.3333
+    weight: 0.3
     avg_copies: 2.5
   unknown-17:
     weight: 0.3333

@@ -6,10 +6,16 @@ name: 'Unknown #247'
 meta_share: 0.0001
 list_count: 1
 top_cards:
+- name: Thundertrap Trainer
+  weight: 1.0
+  avg_copies: 4.0
 - name: Island
   weight: 1.0
   avg_copies: 4.0
 - name: Flame of Anor
+  weight: 1.0
+  avg_copies: 4.0
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
@@ -18,19 +24,10 @@ top_cards:
 - name: Riverpyre Verge
   weight: 1.0
   avg_copies: 4.0
-- name: Thundertrap Trainer
-  weight: 1.0
-  avg_copies: 4.0
-- name: Consign to Memory
-  weight: 1.0
-  avg_copies: 4.0
-- name: Preordain
-  weight: 1.0
-  avg_copies: 3.0
-- name: Galvanic Discharge
-  weight: 1.0
-  avg_copies: 3.0
 - name: Steam Vents
+  weight: 1.0
+  avg_copies: 3.0
+- name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 3.0
 - name: Lightning Bolt
@@ -39,49 +36,52 @@ top_cards:
 - name: Quantum Riddler
   weight: 1.0
   avg_copies: 3.0
-- name: Tamiyo, Inquisitive Student
-  weight: 1.0
-  avg_copies: 3.0
-- name: Force of Negation
+- name: Preordain
   weight: 1.0
   avg_copies: 3.0
 - name: Snapcaster Mage
   weight: 1.0
   avg_copies: 3.0
+- name: Force of Negation
+  weight: 1.0
+  avg_copies: 3.0
 - name: Meltdown
   weight: 1.0
   avg_copies: 3.0
-- name: Blood Moon
+- name: Galvanic Discharge
   weight: 1.0
-  avg_copies: 2.0
-- name: Mystical Dispute
-  weight: 1.0
-  avg_copies: 2.0
-- name: Thundering Falls
-  weight: 1.0
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Spell Snare
   weight: 1.0
   avg_copies: 2.0
 - name: Misty Rainforest
   weight: 1.0
   avg_copies: 2.0
-- name: Murktide Regent
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
 - name: Soul-Guide Lantern
   weight: 1.0
   avg_copies: 2.0
-- name: Flare of Denial
+- name: Counterspell
   weight: 1.0
   avg_copies: 2.0
 - name: Tishana's Tidebinder
   weight: 1.0
   avg_copies: 2.0
-- name: Counterspell
+- name: Blood Moon
+  weight: 1.0
+  avg_copies: 2.0
+- name: Flare of Denial
+  weight: 1.0
+  avg_copies: 2.0
+- name: Thundering Falls
   weight: 1.0
   avg_copies: 2.0
 - name: Subtlety
+  weight: 1.0
+  avg_copies: 2.0
+- name: Murktide Regent
   weight: 1.0
   avg_copies: 2.0
 - name: Magus of the Moon

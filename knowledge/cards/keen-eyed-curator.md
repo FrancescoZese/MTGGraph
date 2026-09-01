@@ -10,13 +10,13 @@ type: Creature — Raccoon Scout
 meta_presence: 0.0242
 archetypes:
   amulet-titan:
-    weight: 0.1374
+    weight: 0.1359
     avg_copies: 1.2
   eldrazi-ramp:
     weight: 0.0851
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.01
+    weight: 0.0099
     avg_copies: 2.0
   jund-saga:
     weight: 0.2
@@ -28,7 +28,7 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   unknown-61:
-    weight: 0.2061
+    weight: 0.2121
     avg_copies: 1.0
   unknown-126:
     weight: 0.7229

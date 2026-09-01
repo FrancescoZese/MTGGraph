@@ -9,10 +9,10 @@ top_cards:
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
+- name: Unearth
   weight: 1.0
   avg_copies: 4.0
-- name: Unearth
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -93,10 +93,10 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.4167
   avg_copies: 2.0
-- name: Dress Down
+- name: Stern Scolding
   weight: 0.4167
   avg_copies: 1.6
-- name: Stern Scolding
+- name: Dress Down
   weight: 0.4167
   avg_copies: 1.6
 - name: Gloomlake Verge
@@ -123,25 +123,25 @@ top_cards:
 - name: Damping Sphere
   weight: 0.25
   avg_copies: 2.0
+- name: Go for the Throat
+  weight: 0.25
+  avg_copies: 1.0
 - name: Shoot the Sheriff
   weight: 0.25
   avg_copies: 1.0
 - name: The Meathook Massacre
   weight: 0.25
   avg_copies: 1.0
-- name: Go for the Throat
-  weight: 0.25
+- name: Verdant Catacombs
+  weight: 0.1667
   avg_copies: 1.0
 - name: Cling to Dust
   weight: 0.1667
   avg_copies: 1.0
-- name: Verdant Catacombs
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Bloodchief's Thirst
+- name: Cursed Totem
   weight: 0.0833
   avg_copies: 2.0
-- name: Cursed Totem
+- name: Bloodchief's Thirst
   weight: 0.0833
   avg_copies: 2.0
 - name: Bitter Triumph
@@ -150,13 +150,13 @@ top_cards:
 - name: Snapcaster Mage
   weight: 0.0833
   avg_copies: 1.5
-- name: Dreams of Steel and Oil
+- name: Spell Pierce
   weight: 0.0833
   avg_copies: 1.0
 - name: Boggart Trawler
   weight: 0.0833
   avg_copies: 1.0
-- name: Spell Pierce
+- name: Dreams of Steel and Oil
   weight: 0.0833
   avg_copies: 1.0
 ---

@@ -6,13 +6,13 @@ name: Kozilek, Butcher of Truth
 scryfall_id: d27cf7b7-7982-46bd-a559-7789c0e74bae
 set: 2x2
 type: Legendary Creature — Eldrazi
-meta_presence: 0.0021
+meta_presence: 0.0023
 archetypes:
   eldrazi-tron:
-    weight: 0.0375
+    weight: 0.0372
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.0143
+    weight: 0.0141
     avg_copies: 1.0
   boros-ponza:
     weight: 0.0071
@@ -21,6 +21,9 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   unknown-143:
+    weight: 1.0
+    avg_copies: 1.0
+  unknown-280:
     weight: 1.0
     avg_copies: 1.0
 ---

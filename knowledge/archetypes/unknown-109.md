@@ -7,16 +7,16 @@ name: 'Unknown #109'
 meta_share: 0.0011
 list_count: 9
 top_cards:
-- name: Flooded Strand
+- name: Flow State
   weight: 1.0
   avg_copies: 4.0
 - name: Orim's Chant
   weight: 1.0
   avg_copies: 4.0
-- name: Flow State
+- name: Narset, Parter of Veils
   weight: 1.0
   avg_copies: 4.0
-- name: Narset, Parter of Veils
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Lórien Revealed
@@ -43,10 +43,10 @@ top_cards:
 - name: Mystic Gate
   weight: 1.0
   avg_copies: 1.44
-- name: Meticulous Archive
+- name: Island
   weight: 1.0
   avg_copies: 1.33
-- name: Island
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.33
 - name: Plains
@@ -55,10 +55,10 @@ top_cards:
 - name: Geier Reach Sanitarium
   weight: 1.0
   avg_copies: 1.0
-- name: Monumental Henge
+- name: Hall of Storm Giants
   weight: 1.0
   avg_copies: 1.0
-- name: Hall of Storm Giants
+- name: Monumental Henge
   weight: 1.0
   avg_copies: 1.0
 - name: Galvanic Discharge
@@ -82,10 +82,10 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.7778
   avg_copies: 3.14
-- name: Thundering Falls
+- name: The Wandering Emperor
   weight: 0.7778
   avg_copies: 1.0
-- name: The Wandering Emperor
+- name: Thundering Falls
   weight: 0.7778
   avg_copies: 1.0
 - name: Counterspell
@@ -121,22 +121,22 @@ top_cards:
 - name: Arid Mesa
   weight: 0.1111
   avg_copies: 2.0
-- name: Beza, the Bounding Spring
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Mistrise Village
-  weight: 0.1111
-  avg_copies: 1.0
 - name: Relic of Progenitus
   weight: 0.1111
   avg_copies: 1.0
-- name: card:glen-elendra-s-answer
+- name: Mistrise Village
   weight: 0.1111
   avg_copies: 1.0
 - name: card:temporal-trespass
   weight: 0.1111
   avg_copies: 1.0
 - name: Zirda, the Dawnwaker
+  weight: 0.1111
+  avg_copies: 1.0
+- name: Beza, the Bounding Spring
+  weight: 0.1111
+  avg_copies: 1.0
+- name: card:glen-elendra-s-answer
   weight: 0.1111
   avg_copies: 1.0
 ---

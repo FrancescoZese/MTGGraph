@@ -6,13 +6,13 @@ name: 'Unknown #122'
 meta_share: 0.0044
 list_count: 35
 top_cards:
-- name: Lightning Bolt
+- name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
 - name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
-- name: Cori-Steel Cutter
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Preordain
@@ -114,25 +114,25 @@ top_cards:
 - name: Violent Urge
   weight: 0.1429
   avg_copies: 1.67
-- name: Polluted Delta
-  weight: 0.1143
-  avg_copies: 1.0
 - name: Price of Freedom
   weight: 0.1143
   avg_copies: 1.0
 - name: Blood Crypt
   weight: 0.1143
   avg_copies: 1.0
+- name: Polluted Delta
+  weight: 0.1143
+  avg_copies: 1.0
 - name: Thoughtseize
   weight: 0.0857
   avg_copies: 4.0
+- name: Chalice of the Void
+  weight: 0.0857
+  avg_copies: 2.0
 - name: Mystical Dispute
   weight: 0.0857
   avg_copies: 2.0
 - name: Obsidian Charmaw
-  weight: 0.0857
-  avg_copies: 2.0
-- name: Chalice of the Void
   weight: 0.0857
   avg_copies: 2.0
 - name: Nihil Spellbomb
@@ -144,19 +144,19 @@ top_cards:
 - name: Slickshot Show-Off
   weight: 0.0857
   avg_copies: 1.5
-- name: Fire Magic
-  weight: 0.0857
-  avg_copies: 1.33
 - name: Assault Strobe
   weight: 0.0857
   avg_copies: 1.33
+- name: Fire Magic
+  weight: 0.0857
+  avg_copies: 1.33
+- name: Octopus Form
+  weight: 0.0857
+  avg_copies: 1.0
 - name: Iroh's Demonstration
   weight: 0.0857
   avg_copies: 1.0
 - name: Soul-Guide Lantern
-  weight: 0.0857
-  avg_copies: 1.0
-- name: Octopus Form
   weight: 0.0857
   avg_copies: 1.0
 - name: Monstrous Rage
@@ -186,22 +186,22 @@ top_cards:
 - name: Sacred Foundry
   weight: 0.0286
   avg_copies: 1.0
+- name: Flashback
+  weight: 0.0286
+  avg_copies: 1.0
 - name: Smash to Smithereens
   weight: 0.0286
   avg_copies: 1.0
 - name: Redirect Lightning
   weight: 0.0286
   avg_copies: 1.0
-- name: Flooded Strand
-  weight: 0.0286
-  avg_copies: 1.0
-- name: Flashback
-  weight: 0.0286
-  avg_copies: 1.0
 - name: Accumulate Wisdom
   weight: 0.0286
   avg_copies: 1.0
 - name: Hurkyl's Recall
+  weight: 0.0286
+  avg_copies: 1.0
+- name: Flooded Strand
   weight: 0.0286
   avg_copies: 1.0
 ---

@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0535
     avg_copies: 1.81
   burn:
-    weight: 0.1429
+    weight: 0.1395
     avg_copies: 2.0
   hammer-time:
     weight: 0.5
@@ -22,10 +22,10 @@ archetypes:
     weight: 0.0142
     avg_copies: 3.0
   esper-blink:
-    weight: 0.0457
+    weight: 0.045
     avg_copies: 1.0
   orzhov-blink:
-    weight: 0.1
+    weight: 0.0952
     avg_copies: 2.0
   azorius-blink:
     weight: 0.2778

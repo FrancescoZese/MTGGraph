@@ -13,6 +13,6 @@ archetypes:
     weight: 0.0029
     avg_copies: 2.0
   amulet-titan:
-    weight: 0.0055
+    weight: 0.0054
     avg_copies: 2.0
 ---
