@@ -7,25 +7,25 @@ name: 'Unknown #131'
 meta_share: 0.0013
 list_count: 10
 top_cards:
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 4.0
 - name: Quantum Riddler
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Guide of Souls
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Phelia, Exuberant Shepherd
@@ -49,10 +49,10 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.6
-- name: Meticulous Archive
+- name: Plains
   weight: 1.0
   avg_copies: 1.6
-- name: Plains
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.6
 - name: Godless Shrine
@@ -115,43 +115,43 @@ top_cards:
 - name: Prismatic Ending
   weight: 0.2
   avg_copies: 2.5
-- name: Containment Priest
+- name: Ashiok, Dream Render
   weight: 0.2
   avg_copies: 2.0
-- name: Ashiok, Dream Render
+- name: Containment Priest
   weight: 0.2
   avg_copies: 2.0
 - name: Orcish Bowmasters
   weight: 0.1
   avg_copies: 3.0
+- name: White Orchid Phantom
+  weight: 0.1
+  avg_copies: 2.0
+- name: Dalkovan Encampment
+  weight: 0.1
+  avg_copies: 2.0
 - name: Thraben Charm
   weight: 0.1
   avg_copies: 2.0
 - name: Voice of Victory
   weight: 0.1
   avg_copies: 2.0
-- name: Dalkovan Encampment
+- name: Floodfarm Verge
   weight: 0.1
-  avg_copies: 2.0
-- name: White Orchid Phantom
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
   weight: 0.1
-  avg_copies: 2.0
+  avg_copies: 1.0
 - name: March of Otherworldly Light
   weight: 0.1
   avg_copies: 1.0
-- name: Floodfarm Verge
+- name: Takenuma, Abandoned Mire
   weight: 0.1
   avg_copies: 1.0
 - name: Clarion Conqueror
   weight: 0.1
   avg_copies: 1.0
 - name: Ghost Vacuum
-  weight: 0.1
-  avg_copies: 1.0
-- name: Takenuma, Abandoned Mire
-  weight: 0.1
-  avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
   weight: 0.1
   avg_copies: 1.0
 ---

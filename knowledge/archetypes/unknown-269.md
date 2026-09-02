@@ -6,22 +6,22 @@ name: 'Unknown #269'
 meta_share: 0.0004
 list_count: 3
 top_cards:
-- name: Tamiyo, Inquisitive Student
-  weight: 1.0
-  avg_copies: 4.0
 - name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Amber
   weight: 1.0
   avg_copies: 4.0
+- name: Urza's Saga
+  weight: 1.0
+  avg_copies: 4.0
 - name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
-- name: Urza's Saga
+- name: Tamiyo, Inquisitive Student
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
 - name: Emry, Lurker of the Loch
@@ -48,19 +48,19 @@ top_cards:
 - name: card:bilbo-thief-in-the-night
   weight: 1.0
   avg_copies: 3.0
-- name: Harbinger of the Seas
+- name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 2.0
-- name: Otawara, Soaring City
+- name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 2.0
 - name: Force of Negation
   weight: 1.0
   avg_copies: 2.0
-- name: Island
+- name: Toxic Deluge
   weight: 1.0
   avg_copies: 1.67
-- name: Toxic Deluge
+- name: Island
   weight: 1.0
   avg_copies: 1.67
 - name: Kaito, Bane of Nightmares
@@ -72,12 +72,6 @@ top_cards:
 - name: Aether Spellbomb
   weight: 1.0
   avg_copies: 1.0
-- name: Undercity Sewers
-  weight: 1.0
-  avg_copies: 1.0
-- name: Nihil Spellbomb
-  weight: 1.0
-  avg_copies: 1.0
 - name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
@@ -85,6 +79,12 @@ top_cards:
   weight: 1.0
   avg_copies: 1.0
 - name: Skateboard
+  weight: 1.0
+  avg_copies: 1.0
+- name: Nihil Spellbomb
+  weight: 1.0
+  avg_copies: 1.0
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
 - name: Erayo, Soratami Ascendant

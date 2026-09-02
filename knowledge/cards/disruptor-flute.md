@@ -6,7 +6,7 @@ name: Disruptor Flute
 scryfall_id: 5cad8671-4761-4014-a8a3-af45627e6e79
 set: mh3
 type: Artifact
-meta_presence: 0.0738
+meta_presence: 0.0739
 archetypes:
   boros-energy:
     weight: 0.0137
@@ -21,7 +21,7 @@ archetypes:
     weight: 0.1957
     avg_copies: 1.78
   azorius-control:
-    weight: 0.0459
+    weight: 0.0455
     avg_copies: 1.0
   affinity:
     weight: 0.0052
@@ -39,7 +39,7 @@ archetypes:
     weight: 0.6809
     avg_copies: 1.89
   izzet-prowess:
-    weight: 0.0023
+    weight: 0.0022
     avg_copies: 2.0
   broodscale-combo:
     weight: 0.0385
@@ -78,7 +78,7 @@ archetypes:
     weight: 0.0769
     avg_copies: 2.0
   unknown-61:
-    weight: 0.0076
+    weight: 0.0075
     avg_copies: 1.0
   unknown-69:
     weight: 0.1
@@ -90,7 +90,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.5
   unknown-126:
-    weight: 0.0241
+    weight: 0.0237
     avg_copies: 1.5
   unknown-134:
     weight: 1.0
@@ -102,7 +102,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0183
+    weight: 0.0182
     avg_copies: 1.5
   unknown-167:
     weight: 0.35
@@ -117,8 +117,8 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   unknown-194:
-    weight: 0.2031
-    avg_copies: 1.38
+    weight: 0.2273
+    avg_copies: 1.33
   unknown-213:
     weight: 0.7143
     avg_copies: 1.0
@@ -126,7 +126,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-265:
-    weight: 0.75
+    weight: 0.6667
     avg_copies: 1.29
   unknown-271:
     weight: 1.0

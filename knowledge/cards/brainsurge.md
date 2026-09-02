@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0046
 archetypes:
   azorius-control:
-    weight: 0.1009
+    weight: 0.1
     avg_copies: 2.27
   living-end:
     weight: 0.0127

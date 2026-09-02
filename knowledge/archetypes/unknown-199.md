@@ -8,15 +8,6 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 5.33
-- name: Dauthi Voidwalker
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 4.0
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 4.0
 - name: Inquisition of Kozilek
   weight: 1.0
   avg_copies: 4.0
@@ -24,6 +15,15 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
+  weight: 1.0
+  avg_copies: 4.0
+- name: Dauthi Voidwalker
+  weight: 1.0
+  avg_copies: 4.0
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 4.0
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
 - name: Urborg, Tomb of Yawgmoth
@@ -41,13 +41,13 @@ top_cards:
 - name: Surgical Extraction
   weight: 1.0
   avg_copies: 2.83
-- name: card:bandit-s-talent
-  weight: 1.0
-  avg_copies: 2.0
 - name: Liliana of the Veil
   weight: 1.0
   avg_copies: 2.0
 - name: Damping Sphere
+  weight: 1.0
+  avg_copies: 2.0
+- name: card:bandit-s-talent
   weight: 1.0
   avg_copies: 2.0
 - name: Vexing Bauble
@@ -62,13 +62,13 @@ top_cards:
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 1.17
-- name: Feed the Cycle
+- name: Pithing Needle
   weight: 1.0
   avg_copies: 1.0
 - name: Nihil Spellbomb
   weight: 1.0
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Feed the Cycle
   weight: 1.0
   avg_copies: 1.0
 - name: Wrench Mind
@@ -89,19 +89,19 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 0.3333
   avg_copies: 2.0
-- name: Castle Locthwain
-  weight: 0.3333
-  avg_copies: 1.0
 - name: card:realm-of-koh
   weight: 0.3333
   avg_copies: 1.0
-- name: card:black-widow-super-spy
-  weight: 0.1667
-  avg_copies: 2.0
+- name: Castle Locthwain
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Ashiok, Dream Render
   weight: 0.1667
   avg_copies: 2.0
 - name: card:gollum-riddle-master
+  weight: 0.1667
+  avg_copies: 2.0
+- name: card:black-widow-super-spy
   weight: 0.1667
   avg_copies: 2.0
 - name: Damnation

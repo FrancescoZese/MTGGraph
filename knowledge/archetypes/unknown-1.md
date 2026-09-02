@@ -6,6 +6,9 @@ name: 'Unknown #1'
 meta_share: 0.0019
 list_count: 15
 top_cards:
+- name: Stitcher's Supplier
+  weight: 1.0
+  avg_copies: 4.0
 - name: Flare of Malice
   weight: 1.0
   avg_copies: 4.0
@@ -13,9 +16,6 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Bloodghast
-  weight: 1.0
-  avg_copies: 4.0
-- name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
 - name: Rakdos Charm
@@ -33,19 +33,19 @@ top_cards:
 - name: Obsidian Charmaw
   weight: 1.0
   avg_copies: 2.27
-- name: Brotherhood's End
+- name: Village Rites
   weight: 1.0
   avg_copies: 2.0
 - name: Fatal Push
   weight: 1.0
   avg_copies: 2.0
-- name: Village Rites
+- name: Brotherhood's End
   weight: 1.0
   avg_copies: 2.0
-- name: Corrupted Conviction
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 1.93
-- name: Polluted Delta
+- name: Corrupted Conviction
   weight: 1.0
   avg_copies: 1.93
 - name: End the Festivities
@@ -81,10 +81,10 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.6
   avg_copies: 2.67
-- name: Engineered Explosives
+- name: Magus of the Moon
   weight: 0.6
   avg_copies: 2.0
-- name: Magus of the Moon
+- name: Engineered Explosives
   weight: 0.6
   avg_copies: 2.0
 - name: Mishra's Bauble
@@ -117,10 +117,10 @@ top_cards:
 - name: Detective's Phoenix
   weight: 0.2
   avg_copies: 2.0
-- name: Blood Moon
+- name: Flashback
   weight: 0.1333
   avg_copies: 2.0
-- name: Flashback
+- name: Blood Moon
   weight: 0.1333
   avg_copies: 2.0
 - name: Oliphaunt
@@ -135,13 +135,13 @@ top_cards:
 - name: card:thunderkin-awakener
   weight: 0.0667
   avg_copies: 3.0
-- name: Veil of Summer
-  weight: 0.0667
-  avg_copies: 2.0
-- name: card:archfiend-s-vessel
+- name: Overgrown Tomb
   weight: 0.0667
   avg_copies: 2.0
 - name: Emperor of Bones
+  weight: 0.0667
+  avg_copies: 2.0
+- name: card:archfiend-s-vessel
   weight: 0.0667
   avg_copies: 2.0
 - name: Unearth
@@ -150,7 +150,7 @@ top_cards:
 - name: Seasoned Pyromancer
   weight: 0.0667
   avg_copies: 2.0
-- name: Overgrown Tomb
+- name: Veil of Summer
   weight: 0.0667
   avg_copies: 2.0
 - name: Ob Nixilis, the Adversary

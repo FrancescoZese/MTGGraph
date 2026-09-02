@@ -27,10 +27,10 @@ top_cards:
 - name: Mountain
   weight: 0.9767
   avg_copies: 2.33
-- name: Bloodstained Mire
+- name: Wooded Foothills
   weight: 0.9535
   avg_copies: 1.56
-- name: Wooded Foothills
+- name: Bloodstained Mire
   weight: 0.9535
   avg_copies: 1.56
 - name: Sunbaked Canyon
@@ -132,10 +132,10 @@ top_cards:
 - name: Arena of Glory
   weight: 0.093
   avg_copies: 3.0
-- name: Magebane Lizard
+- name: Pyroclasm
   weight: 0.093
   avg_copies: 2.25
-- name: Pyroclasm
+- name: Magebane Lizard
   weight: 0.093
   avg_copies: 2.25
 - name: Disruptor Flute
@@ -165,31 +165,16 @@ top_cards:
 - name: Tormod's Crypt
   weight: 0.0465
   avg_copies: 1.5
-- name: Iridescent Vinelasher
+- name: Vexing Devil
   weight: 0.0233
   avg_copies: 4.0
-- name: Vexing Devil
+- name: Iridescent Vinelasher
   weight: 0.0233
   avg_copies: 4.0
 - name: Containment Priest
   weight: 0.0233
   avg_copies: 3.0
-- name: card:harsh-mentor
-  weight: 0.0233
-  avg_copies: 2.0
 - name: Mana Tithe
-  weight: 0.0233
-  avg_copies: 2.0
-- name: Tunnel Ignus
-  weight: 0.0233
-  avg_copies: 2.0
-- name: Lithomantic Barrage
-  weight: 0.0233
-  avg_copies: 2.0
-- name: Nihil Spellbomb
-  weight: 0.0233
-  avg_copies: 2.0
-- name: Blood Crypt
   weight: 0.0233
   avg_copies: 2.0
 - name: Relic of Progenitus
@@ -198,31 +183,46 @@ top_cards:
 - name: Mindbreak Trap
   weight: 0.0233
   avg_copies: 2.0
-- name: Rakdos Charm
+- name: Nihil Spellbomb
   weight: 0.0233
-  avg_copies: 1.0
-- name: Erode
+  avg_copies: 2.0
+- name: Lithomantic Barrage
   weight: 0.0233
-  avg_copies: 1.0
-- name: Deafening Silence
+  avg_copies: 2.0
+- name: Blood Crypt
   weight: 0.0233
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: card:harsh-mentor
+  weight: 0.0233
+  avg_copies: 2.0
+- name: Tunnel Ignus
+  weight: 0.0233
+  avg_copies: 2.0
 - name: Ensnaring Bridge
-  weight: 0.0233
-  avg_copies: 1.0
-- name: card:volcanic-fallout
-  weight: 0.0233
-  avg_copies: 1.0
-- name: Grafdigger's Cage
   weight: 0.0233
   avg_copies: 1.0
 - name: Blood Moon
   weight: 0.0233
   avg_copies: 1.0
+- name: Rain of Gore
+  weight: 0.0233
+  avg_copies: 1.0
+- name: Erode
+  weight: 0.0233
+  avg_copies: 1.0
 - name: Void Mirror
   weight: 0.0233
   avg_copies: 1.0
-- name: Rain of Gore
+- name: Rakdos Charm
+  weight: 0.0233
+  avg_copies: 1.0
+- name: Grafdigger's Cage
+  weight: 0.0233
+  avg_copies: 1.0
+- name: card:volcanic-fallout
+  weight: 0.0233
+  avg_copies: 1.0
+- name: Deafening Silence
   weight: 0.0233
   avg_copies: 1.0
 ---

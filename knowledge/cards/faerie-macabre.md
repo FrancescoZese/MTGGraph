@@ -22,10 +22,10 @@ archetypes:
     weight: 0.0417
     avg_copies: 1.0
   esper-blink:
-    weight: 0.018
+    weight: 0.0179
     avg_copies: 1.0
   orzhov-blink:
-    weight: 0.381
+    weight: 0.3636
     avg_copies: 1.5
   rakdos-aggro:
     weight: 0.0526
@@ -58,7 +58,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0092
+    weight: 0.0091
     avg_copies: 1.0
   unknown-177:
     weight: 0.3333

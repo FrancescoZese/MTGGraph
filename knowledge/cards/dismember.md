@@ -55,8 +55,8 @@ archetypes:
     weight: 0.0053
     avg_copies: 1.0
   unknown-61:
-    weight: 0.6667
-    avg_copies: 1.17
+    weight: 0.6692
+    avg_copies: 1.16
   unknown-55:
     weight: 1.0
     avg_copies: 1.0
@@ -79,8 +79,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-126:
-    weight: 0.0482
-    avg_copies: 1.88
+    weight: 0.0533
+    avg_copies: 1.78
   unknown-124:
     weight: 1.0
     avg_copies: 2.0
@@ -94,8 +94,8 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-194:
-    weight: 0.8125
-    avg_copies: 1.58
+    weight: 0.8182
+    avg_copies: 1.57
   unknown-228:
     weight: 1.0
     avg_copies: 2.0
@@ -106,7 +106,7 @@ archetypes:
     weight: 0.75
     avg_copies: 2.0
   unknown-265:
-    weight: 0.75
+    weight: 0.7778
     avg_copies: 2.0
   unknown-271:
     weight: 1.0
@@ -123,7 +123,7 @@ archetypes:
 cmc: 3
 colors: []
 image: https://cards.scryfall.io/normal/front/3/d/3d286cf6-3e16-4941-9326-1818b1e06d69.jpg?1562261132
-meta_presence: 0.1452
+meta_presence: 0.1456
 name: Dismember
 scryfall_id: 3d286cf6-3e16-4941-9326-1818b1e06d69
 set: mm2

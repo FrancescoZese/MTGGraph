@@ -3,7 +3,7 @@ colors:
 - U
 - R
 name: Affinity
-meta_share: 0.0723
+meta_share: 0.0722
 list_count: 577
 top_cards:
 - name: Kappa Cannoneer
@@ -234,16 +234,22 @@ top_cards:
 - name: card:pyrite-spellbomb
   weight: 0.0052
   avg_copies: 1.0
-- name: Detect Intrusion
+- name: Tamiyo, Inquisitive Student
   weight: 0.0035
   avg_copies: 2.0
 - name: Wear
   weight: 0.0035
   avg_copies: 2.0
-- name: Tamiyo, Inquisitive Student
+- name: Detect Intrusion
   weight: 0.0035
   avg_copies: 2.0
-- name: Spell Pierce
+- name: Echoing Deeps
+  weight: 0.0035
+  avg_copies: 1.0
+- name: Void Mirror
+  weight: 0.0035
+  avg_copies: 1.0
+- name: Gemstone Caverns
   weight: 0.0035
   avg_copies: 1.0
 - name: Umezawa's Jitte
@@ -252,28 +258,19 @@ top_cards:
 - name: Hallowed Fountain
   weight: 0.0035
   avg_copies: 1.0
-- name: Gemstone Caverns
-  weight: 0.0035
-  avg_copies: 1.0
-- name: Echoing Deeps
-  weight: 0.0035
-  avg_copies: 1.0
-- name: Void Mirror
+- name: Spell Pierce
   weight: 0.0035
   avg_copies: 1.0
 - name: Portable Hole
   weight: 0.0017
   avg_copies: 3.0
-- name: Patchwork Automaton
-  weight: 0.0017
-  avg_copies: 2.0
 - name: Glimmervoid
   weight: 0.0017
   avg_copies: 2.0
-- name: Prismari Charm
+- name: Patchwork Automaton
   weight: 0.0017
   avg_copies: 2.0
-- name: Magebane Lizard
+- name: Prismari Charm
   weight: 0.0017
   avg_copies: 2.0
 - name: Into the Flood Maw
@@ -285,40 +282,43 @@ top_cards:
 - name: Invasive Surgery
   weight: 0.0017
   avg_copies: 2.0
-- name: Ghirapur Aether Grid
+- name: Magebane Lizard
+  weight: 0.0017
+  avg_copies: 2.0
+- name: Quantum Riddler
   weight: 0.0017
   avg_copies: 1.0
-- name: Zuran Orb
+- name: Torpor Orb
+  weight: 0.0017
+  avg_copies: 1.0
+- name: Jokulmorder
+  weight: 0.0017
+  avg_copies: 1.0
+- name: Minamo, School at Water's Edge
   weight: 0.0017
   avg_copies: 1.0
 - name: Waterlogged Grove
   weight: 0.0017
   avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.0017
-  avg_copies: 1.0
 - name: Cranial Plating
   weight: 0.0017
   avg_copies: 1.0
-- name: Jokulmorder
+- name: Breeding Pool
+  weight: 0.0017
+  avg_copies: 1.0
+- name: Zuran Orb
+  weight: 0.0017
+  avg_copies: 1.0
+- name: Ghirapur Aether Grid
+  weight: 0.0017
+  avg_copies: 1.0
+- name: Sacred Foundry
   weight: 0.0017
   avg_copies: 1.0
 - name: Lithomantic Barrage
   weight: 0.0017
   avg_copies: 1.0
 - name: Chandra, Spark Hunter
-  weight: 0.0017
-  avg_copies: 1.0
-- name: Minamo, School at Water's Edge
-  weight: 0.0017
-  avg_copies: 1.0
-- name: Quantum Riddler
-  weight: 0.0017
-  avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 0.0017
-  avg_copies: 1.0
-- name: Torpor Orb
   weight: 0.0017
   avg_copies: 1.0
 ---

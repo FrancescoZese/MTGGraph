@@ -19,7 +19,7 @@ archetypes:
     weight: 0.125
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0023
+    weight: 0.0022
     avg_copies: 1.0
   bant-control:
     weight: 1.0

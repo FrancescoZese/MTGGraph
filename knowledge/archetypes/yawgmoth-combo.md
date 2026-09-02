@@ -12,10 +12,10 @@ top_cards:
 - name: Agatha's Soul Cauldron
   weight: 1.0
   avg_copies: 3.97
-- name: Young Wolf
+- name: Delighted Halfling
   weight: 1.0
   avg_copies: 3.84
-- name: Delighted Halfling
+- name: Young Wolf
   weight: 1.0
   avg_copies: 3.84
 - name: Badgermole Cub
@@ -60,10 +60,10 @@ top_cards:
 - name: Formidable Speaker
   weight: 1.0
   avg_copies: 1.03
-- name: Swamp
+- name: Dryad Arbor
   weight: 1.0
   avg_copies: 1.0
-- name: Dryad Arbor
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Force of Vigor
@@ -159,16 +159,16 @@ top_cards:
 - name: Shifting Woodland
   weight: 0.0417
   avg_copies: 1.25
-- name: Icetill Explorer
-  weight: 0.0312
-  avg_copies: 1.0
-- name: Ghost Quarter
+- name: card:mole-man-moloid-master
   weight: 0.0312
   avg_copies: 1.0
 - name: Crime
   weight: 0.0312
   avg_copies: 1.0
-- name: card:mole-man-moloid-master
+- name: Icetill Explorer
+  weight: 0.0312
+  avg_copies: 1.0
+- name: Ghost Quarter
   weight: 0.0312
   avg_copies: 1.0
 - name: Cankerbloom
@@ -180,28 +180,31 @@ top_cards:
 - name: card:wastewood-verge
   weight: 0.0104
   avg_copies: 2.0
-- name: Pawpatch Formation
-  weight: 0.0104
-  avg_copies: 2.0
 - name: Tourach, Dread Cantor
   weight: 0.0104
   avg_copies: 2.0
-- name: Chomping Changeling
+- name: Pawpatch Formation
+  weight: 0.0104
+  avg_copies: 2.0
+- name: Collector Ouphe
   weight: 0.0104
   avg_copies: 1.0
-- name: Creeping Corrosion
-  weight: 0.0104
-  avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Sylvan Safekeeper
   weight: 0.0104
   avg_copies: 1.0
 - name: Phyrexian Tower
   weight: 0.0104
   avg_copies: 1.0
+- name: Spore Frog
+  weight: 0.0104
+  avg_copies: 1.0
+- name: Nurturing Peatland
+  weight: 0.0104
+  avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.0104
   avg_copies: 1.0
-- name: Collector Ouphe
+- name: Chomping Changeling
   weight: 0.0104
   avg_copies: 1.0
 - name: Fade from History
@@ -210,13 +213,10 @@ top_cards:
 - name: Disciple of Freyalise
   weight: 0.0104
   avg_copies: 1.0
+- name: Creeping Corrosion
+  weight: 0.0104
+  avg_copies: 1.0
 - name: Vicious Rivalry
-  weight: 0.0104
-  avg_copies: 1.0
-- name: Spore Frog
-  weight: 0.0104
-  avg_copies: 1.0
-- name: Sylvan Safekeeper
   weight: 0.0104
   avg_copies: 1.0
 ---

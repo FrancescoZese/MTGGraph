@@ -26,7 +26,7 @@ archetypes:
     avg_copies: 3.76
   goryo:
     weight: 0.9957
-    avg_copies: 2.91
+    avg_copies: 2.9
   necrodominance:
     weight: 0.0435
     avg_copies: 3.5
@@ -73,13 +73,13 @@ archetypes:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.955
+    weight: 0.9552
     avg_copies: 2.7
   indomitable-creativity:
     weight: 0.8125
     avg_copies: 3.77
   orzhov-blink:
-    weight: 0.0476
+    weight: 0.0909
     avg_copies: 4.0
   dredge:
     weight: 0.0714
@@ -436,7 +436,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-194:
-    weight: 0.0312
+    weight: 0.0303
     avg_copies: 3.0
   unknown-195:
     weight: 1.0
@@ -538,8 +538,8 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-265:
-    weight: 0.125
-    avg_copies: 2.0
+    weight: 0.2222
+    avg_copies: 1.5
   unknown-266:
     weight: 1.0
     avg_copies: 4.0

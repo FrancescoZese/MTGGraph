@@ -57,10 +57,10 @@ top_cards:
 - name: Celestial Purge
   weight: 0.9091
   avg_copies: 1.1
-- name: Watery Grave
+- name: Monumental Henge
   weight: 0.8182
   avg_copies: 1.0
-- name: Monumental Henge
+- name: Watery Grave
   weight: 0.8182
   avg_copies: 1.0
 - name: Mystic Gate
@@ -75,10 +75,10 @@ top_cards:
 - name: Teferi, Hero of Dominaria
   weight: 0.6364
   avg_copies: 1.29
-- name: Hall of Storm Giants
+- name: Scalding Tarn
   weight: 0.6364
   avg_copies: 1.0
-- name: Scalding Tarn
+- name: Hall of Storm Giants
   weight: 0.6364
   avg_copies: 1.0
 - name: Damping Sphere
@@ -90,13 +90,13 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.5455
   avg_copies: 1.83
-- name: Misty Rainforest
+- name: Polluted Delta
   weight: 0.5455
   avg_copies: 1.0
 - name: Undercity Sewers
   weight: 0.5455
   avg_copies: 1.0
-- name: Polluted Delta
+- name: Misty Rainforest
   weight: 0.5455
   avg_copies: 1.0
 - name: Brainsurge
@@ -147,13 +147,13 @@ top_cards:
 - name: Dress Down
   weight: 0.1818
   avg_copies: 1.5
-- name: Arid Mesa
-  weight: 0.1818
-  avg_copies: 1.0
 - name: Steam Vents
   weight: 0.1818
   avg_copies: 1.0
-- name: No More Lies
+- name: Arid Mesa
+  weight: 0.1818
+  avg_copies: 1.0
+- name: Terminus
   weight: 0.0909
   avg_copies: 2.0
 - name: Harbinger of the Seas
@@ -162,10 +162,10 @@ top_cards:
 - name: Fatal Push
   weight: 0.0909
   avg_copies: 2.0
-- name: Terminus
+- name: No More Lies
   weight: 0.0909
   avg_copies: 2.0
-- name: Rest in Peace
+- name: Thundering Falls
   weight: 0.0909
   avg_copies: 1.0
 - name: Memory Deluge
@@ -174,13 +174,13 @@ top_cards:
 - name: Kaito, Bane of Nightmares
   weight: 0.0909
   avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Agna Qel'a
+- name: Rest in Peace
   weight: 0.0909
   avg_copies: 1.0
 - name: Dovin's Veto
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Agna Qel'a
   weight: 0.0909
   avg_copies: 1.0
 ---

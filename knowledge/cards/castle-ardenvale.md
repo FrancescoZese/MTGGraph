@@ -6,7 +6,7 @@ name: Castle Ardenvale
 scryfall_id: 65e4de2e-47d2-4967-be31-9df0057a9c74
 set: tdc
 type: Land
-meta_presence: 0.0149
+meta_presence: 0.015
 archetypes:
   boros-ponza:
     weight: 0.1277
@@ -21,7 +21,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-160:
-    weight: 0.6606
+    weight: 0.6636
     avg_copies: 1.03
   unknown-205:
     weight: 1.0

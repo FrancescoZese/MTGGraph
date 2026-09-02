@@ -7,14 +7,14 @@ name: Fallaji Archaeologist
 scryfall_id: b0eab397-25a6-4377-8e12-e8acef9675cf
 set: bro
 type: Creature — Human Scout
-meta_presence: 0.0286
+meta_presence: 0.0288
 archetypes:
   mono-blue-belcher:
     weight: 0.3762
     avg_copies: 3.5
   goryo:
-    weight: 0.3492
-    avg_copies: 3.37
+    weight: 0.3513
+    avg_copies: 3.36
   reanimator:
     weight: 0.037
     avg_copies: 4.0

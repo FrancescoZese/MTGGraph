@@ -29,7 +29,7 @@ archetypes:
     weight: 0.0198
     avg_copies: 3.0
   esper-blink:
-    weight: 0.1712
+    weight: 0.1704
     avg_copies: 3.11
   dredge:
     weight: 0.1429

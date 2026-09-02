@@ -76,10 +76,10 @@ top_cards:
 - name: Day's Undoing
   weight: 0.8169
   avg_copies: 1.23
-- name: Geier Reach Sanitarium
+- name: Monumental Henge
   weight: 0.8169
   avg_copies: 1.0
-- name: Monumental Henge
+- name: Geier Reach Sanitarium
   weight: 0.8169
   avg_copies: 1.0
 - name: Force of Negation
@@ -142,10 +142,10 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.1549
   avg_copies: 1.82
-- name: March of Otherworldly Light
+- name: Ashiok, Dream Render
   weight: 0.1549
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: March of Otherworldly Light
   weight: 0.1549
   avg_copies: 1.0
 - name: Tune the Narrative
@@ -157,10 +157,10 @@ top_cards:
 - name: Arena of Glory
   weight: 0.0986
   avg_copies: 1.75
-- name: Damping Sphere
+- name: Subtlety
   weight: 0.0986
   avg_copies: 1.71
-- name: Subtlety
+- name: Damping Sphere
   weight: 0.0986
   avg_copies: 1.71
 - name: Sink into Stupor
@@ -169,10 +169,10 @@ top_cards:
 - name: Flame of Anor
   weight: 0.0704
   avg_copies: 4.0
-- name: Fable of the Mirror-Breaker
+- name: Tamiyo, Inquisitive Student
   weight: 0.0704
   avg_copies: 3.0
-- name: Tamiyo, Inquisitive Student
+- name: Fable of the Mirror-Breaker
   weight: 0.0704
   avg_copies: 3.0
 - name: Obsidian Charmaw
@@ -193,10 +193,10 @@ top_cards:
 - name: Snapcaster Mage
   weight: 0.0423
   avg_copies: 2.67
-- name: Flare of Denial
+- name: Reprieve
   weight: 0.0423
   avg_copies: 2.0
-- name: Reprieve
+- name: Flare of Denial
   weight: 0.0423
   avg_copies: 2.0
 - name: card:captain-marvel-earth-s-protector
@@ -205,10 +205,10 @@ top_cards:
 - name: Dovin's Veto
   weight: 0.0423
   avg_copies: 1.0
-- name: card:saheeli-rai
+- name: card:felidar-guardian
   weight: 0.0282
   avg_copies: 3.0
-- name: card:felidar-guardian
+- name: card:saheeli-rai
   weight: 0.0282
   avg_copies: 3.0
 - name: Lightning Bolt
@@ -220,31 +220,31 @@ top_cards:
 - name: Erode
   weight: 0.0282
   avg_copies: 1.67
-- name: card:linvala-keeper-of-silence
-  weight: 0.0282
-  avg_copies: 1.5
 - name: Quantum Riddler
-  weight: 0.0282
-  avg_copies: 1.5
-- name: Floodfarm Verge
   weight: 0.0282
   avg_copies: 1.5
 - name: Traumatic Critique
   weight: 0.0282
   avg_copies: 1.5
-- name: card:bribery
+- name: Floodfarm Verge
+  weight: 0.0282
+  avg_copies: 1.5
+- name: card:linvala-keeper-of-silence
+  weight: 0.0282
+  avg_copies: 1.5
+- name: Get Lost
   weight: 0.0282
   avg_copies: 1.0
 - name: Breeding Pool
+  weight: 0.0282
+  avg_copies: 1.0
+- name: card:bribery
   weight: 0.0282
   avg_copies: 1.0
 - name: Wear
   weight: 0.0282
   avg_copies: 1.0
 - name: Raugrin Triome
-  weight: 0.0282
-  avg_copies: 1.0
-- name: Get Lost
   weight: 0.0282
   avg_copies: 1.0
 - name: Dress Down
@@ -256,46 +256,55 @@ top_cards:
 - name: Nulldrifter
   weight: 0.0141
   avg_copies: 3.0
-- name: Containment Priest
+- name: Prismari Charm
   weight: 0.0141
   avg_copies: 2.0
 - name: Cursed Totem
   weight: 0.0141
   avg_copies: 2.0
-- name: Prismari Charm
+- name: Ephemerate
   weight: 0.0141
   avg_copies: 2.0
-- name: Invert Polarity
+- name: Containment Priest
   weight: 0.0141
   avg_copies: 2.0
 - name: Harbinger of the Seas
   weight: 0.0141
   avg_copies: 2.0
-- name: Drannith Magistrate
-  weight: 0.0141
-  avg_copies: 2.0
-- name: Ephemerate
+- name: Invert Polarity
   weight: 0.0141
   avg_copies: 2.0
 - name: Wan Shi Tong, Librarian
   weight: 0.0141
   avg_copies: 2.0
-- name: Timeless Dragon
+- name: Drannith Magistrate
   weight: 0.0141
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Kozilek, Butcher of Truth
   weight: 0.0141
   avg_copies: 1.0
-- name: Windswept Heath
+- name: Vendilion Clique
   weight: 0.0141
   avg_copies: 1.0
-- name: Flashback
+- name: Unlicensed Hearse
+  weight: 0.0141
+  avg_copies: 1.0
+- name: Emeritus of Ideation
   weight: 0.0141
   avg_copies: 1.0
 - name: Gemstone Caverns
   weight: 0.0141
   avg_copies: 1.0
-- name: Hallowed Moonlight
+- name: Flashback
+  weight: 0.0141
+  avg_copies: 1.0
+- name: Timeless Dragon
+  weight: 0.0141
+  avg_copies: 1.0
+- name: Thraben Charm
+  weight: 0.0141
+  avg_copies: 1.0
+- name: Ghost Vacuum
   weight: 0.0141
   avg_copies: 1.0
 - name: Path to Exile
@@ -304,19 +313,10 @@ top_cards:
 - name: The Wandering Emperor
   weight: 0.0141
   avg_copies: 1.0
-- name: Vendilion Clique
+- name: Hallowed Moonlight
   weight: 0.0141
   avg_copies: 1.0
-- name: Emeritus of Ideation
-  weight: 0.0141
-  avg_copies: 1.0
-- name: Thraben Charm
-  weight: 0.0141
-  avg_copies: 1.0
-- name: Unlicensed Hearse
-  weight: 0.0141
-  avg_copies: 1.0
-- name: Ghost Vacuum
+- name: Windswept Heath
   weight: 0.0141
   avg_copies: 1.0
 ---

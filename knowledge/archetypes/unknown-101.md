@@ -12,10 +12,10 @@ top_cards:
 - name: Detective's Phoenix
   weight: 1.0
   avg_copies: 3.97
-- name: Faithless Looting
+- name: Street Wraith
   weight: 1.0
   avg_copies: 3.91
-- name: Street Wraith
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 3.91
 - name: Bloodstained Mire
@@ -105,10 +105,10 @@ top_cards:
 - name: Mount Doom
   weight: 0.3235
   avg_copies: 1.0
-- name: Obsidian Charmaw
+- name: Tarfire
   weight: 0.2647
   avg_copies: 2.0
-- name: Tarfire
+- name: Obsidian Charmaw
   weight: 0.2647
   avg_copies: 2.0
 - name: Abrade
@@ -138,28 +138,28 @@ top_cards:
 - name: Force of Despair
   weight: 0.0588
   avg_copies: 2.5
-- name: Wear
+- name: Smash to Smithereens
   weight: 0.0588
   avg_copies: 2.0
-- name: Smash to Smithereens
+- name: Wear
   weight: 0.0588
   avg_copies: 2.0
 - name: Brotherhood's End
   weight: 0.0588
   avg_copies: 1.5
-- name: Ox of Agonas
+- name: Strategic Betrayal
   weight: 0.0588
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.0588
   avg_copies: 1.0
-- name: Strategic Betrayal
+- name: Ox of Agonas
   weight: 0.0588
   avg_copies: 1.0
-- name: Dauthi Voidwalker
+- name: Mishra's Bauble
   weight: 0.0294
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Dauthi Voidwalker
   weight: 0.0294
   avg_copies: 4.0
 - name: Kroxa, Titan of Death's Hunger
@@ -168,31 +168,31 @@ top_cards:
 - name: Practiced Offense
   weight: 0.0294
   avg_copies: 2.0
-- name: Goblin Lore
-  weight: 0.0294
-  avg_copies: 1.0
-- name: End of the Hunt
-  weight: 0.0294
-  avg_copies: 1.0
-- name: card:corpse-explosion
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Verdant Catacombs
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Seal of Fire
-  weight: 0.0294
-  avg_copies: 1.0
 - name: Molten Collapse
   weight: 0.0294
   avg_copies: 1.0
 - name: Cool but Rude
   weight: 0.0294
   avg_copies: 1.0
-- name: Blackcleave Cliffs
+- name: Seal of Fire
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Goblin Lore
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Verdant Catacombs
   weight: 0.0294
   avg_copies: 1.0
 - name: Godless Shrine
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Blackcleave Cliffs
+  weight: 0.0294
+  avg_copies: 1.0
+- name: card:corpse-explosion
+  weight: 0.0294
+  avg_copies: 1.0
+- name: End of the Hunt
   weight: 0.0294
   avg_copies: 1.0
 ---

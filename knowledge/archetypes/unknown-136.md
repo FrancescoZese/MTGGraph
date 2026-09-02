@@ -9,10 +9,19 @@ top_cards:
 - name: Ark of Hunger
   weight: 1.0
   avg_copies: 4.0
+- name: Cleansing Wildfire
+  weight: 1.0
+  avg_copies: 4.0
+- name: Path to Exile
+  weight: 1.0
+  avg_copies: 4.0
 - name: Field of Ruin
   weight: 1.0
   avg_copies: 4.0
-- name: Relic of Progenitus
+- name: High Noon
+  weight: 1.0
+  avg_copies: 4.0
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
 - name: Price of Freedom
@@ -21,34 +30,22 @@ top_cards:
 - name: Solitude
   weight: 1.0
   avg_copies: 4.0
-- name: Cleansing Wildfire
-  weight: 1.0
-  avg_copies: 4.0
-- name: High Noon
-  weight: 1.0
-  avg_copies: 4.0
-- name: Path to Exile
-  weight: 1.0
-  avg_copies: 4.0
-- name: Arid Mesa
+- name: Relic of Progenitus
   weight: 1.0
   avg_copies: 4.0
 - name: Erode
   weight: 1.0
   avg_copies: 3.0
-- name: March of Otherworldly Light
+- name: Wear
+  weight: 1.0
+  avg_copies: 3.0
+- name: Demolition Field
   weight: 1.0
   avg_copies: 3.0
 - name: Mountain
   weight: 1.0
   avg_copies: 3.0
-- name: Wear
-  weight: 1.0
-  avg_copies: 3.0
-- name: Sacred Foundry
-  weight: 1.0
-  avg_copies: 3.0
-- name: Demolition Field
+- name: March of Otherworldly Light
   weight: 1.0
   avg_copies: 3.0
 - name: Monumental Henge
@@ -57,10 +54,13 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 3.0
-- name: Elegant Parlor
+- name: Sacred Foundry
+  weight: 1.0
+  avg_copies: 3.0
+- name: card:restoration-magic
   weight: 1.0
   avg_copies: 2.0
-- name: card:restoration-magic
+- name: Brotherhood's End
   weight: 1.0
   avg_copies: 2.0
 - name: Calamity's Wake
@@ -69,7 +69,7 @@ top_cards:
 - name: Plains
   weight: 1.0
   avg_copies: 2.0
-- name: Brotherhood's End
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 2.0
 - name: Ensnaring Bridge

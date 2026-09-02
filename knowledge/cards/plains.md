@@ -6,7 +6,7 @@ name: Plains
 scryfall_id: d85d0f25-a24a-4de0-9b8b-93fb5017bce9
 set: sos
 type: Basic Land — Plains
-meta_presence: 0.3483
+meta_presence: 0.3485
 archetypes:
   boros-energy:
     weight: 0.9826
@@ -22,7 +22,7 @@ archetypes:
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
-    avg_copies: 1.94
+    avg_copies: 1.95
   jeskai-control:
     weight: 1.0
     avg_copies: 1.77
@@ -244,7 +244,7 @@ archetypes:
     avg_copies: 1.0
   unknown-160:
     weight: 1.0
-    avg_copies: 3.11
+    avg_copies: 3.12
   unknown-159:
     weight: 1.0
     avg_copies: 3.0

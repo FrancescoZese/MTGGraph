@@ -19,13 +19,13 @@ archetypes:
     weight: 0.0163
     avg_copies: 2.0
   goryo:
-    weight: 0.5076
+    weight: 0.5065
     avg_copies: 1.09
   necrodominance:
     weight: 0.587
     avg_copies: 1.41
   azorius-control:
-    weight: 0.4037
+    weight: 0.4091
     avg_copies: 1.2
   jeskai-control:
     weight: 0.4085
@@ -61,10 +61,10 @@ archetypes:
     weight: 0.0922
     avg_copies: 1.69
   izzet-prowess:
-    weight: 0.4865
+    weight: 0.4876
     avg_copies: 1.51
   esper-blink:
-    weight: 0.1126
+    weight: 0.1121
     avg_copies: 1.32
   samwise-combo:
     weight: 0.1216
@@ -76,8 +76,8 @@ archetypes:
     weight: 0.003
     avg_copies: 1.0
   orzhov-blink:
-    weight: 0.1905
-    avg_copies: 1.5
+    weight: 0.2273
+    avg_copies: 1.6
   dredge:
     weight: 0.3571
     avg_copies: 2.0
@@ -196,7 +196,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-61:
-    weight: 0.0758
+    weight: 0.0752
     avg_copies: 1.4
   unknown-53:
     weight: 1.0
@@ -307,8 +307,8 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-160:
-    weight: 0.4037
-    avg_copies: 1.82
+    weight: 0.4091
+    avg_copies: 1.84
   unknown-161:
     weight: 0.5
     avg_copies: 3.0
@@ -343,7 +343,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   unknown-194:
-    weight: 0.0781
+    weight: 0.0758
     avg_copies: 1.0
   unknown-197:
     weight: 1.0
@@ -405,7 +405,7 @@ archetypes:
 cmc: 1
 colors: []
 image: https://cards.scryfall.io/normal/front/e/1/e15d76ac-1c23-4503-8225-375ac2bf2fb6.jpg?1673147668
-meta_presence: 0.2653
+meta_presence: 0.2655
 name: Surgical Extraction
 scryfall_id: e15d76ac-1c23-4503-8225-375ac2bf2fb6
 set: 2x2

@@ -9,10 +9,10 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 4.33
-- name: Orcish Bowmasters
+- name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
-- name: Marionette Apprentice
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
 - name: Spymaster's Vault
@@ -24,7 +24,7 @@ top_cards:
 - name: Gravecrawler
   weight: 1.0
   avg_copies: 4.0
-- name: Stitcher's Supplier
+- name: Marionette Apprentice
   weight: 1.0
   avg_copies: 4.0
 - name: Flare of Malice
@@ -39,19 +39,19 @@ top_cards:
 - name: Chthonian Nightmare
   weight: 1.0
   avg_copies: 2.33
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 2.0
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 2.0
 - name: Bloodstained Mire
+  weight: 1.0
+  avg_copies: 2.0
+- name: Polluted Delta
+  weight: 1.0
+  avg_copies: 2.0
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 2.0
 - name: Fatal Push
   weight: 1.0
   avg_copies: 2.0
-- name: Polluted Delta
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 2.0
 - name: Nihil Spellbomb
@@ -63,10 +63,10 @@ top_cards:
 - name: Mutavault
   weight: 1.0
   avg_copies: 1.0
-- name: Malevolent Rumble
+- name: Break the Ice
   weight: 0.6667
   avg_copies: 4.0
-- name: Break the Ice
+- name: Malevolent Rumble
   weight: 0.6667
   avg_copies: 4.0
 - name: Culling Ritual
@@ -75,19 +75,19 @@ top_cards:
 - name: Chomping Changeling
   weight: 0.6667
   avg_copies: 2.0
-- name: Verdant Catacombs
+- name: Underground Mortuary
   weight: 0.6667
   avg_copies: 2.0
-- name: Underground Mortuary
+- name: Verdant Catacombs
   weight: 0.6667
   avg_copies: 2.0
 - name: Mai, Scornful Striker
   weight: 0.6667
   avg_copies: 2.0
-- name: Grist, the Hunger Tide
+- name: Overgrown Tomb
   weight: 0.6667
   avg_copies: 1.0
-- name: Overgrown Tomb
+- name: Grist, the Hunger Tide
   weight: 0.6667
   avg_copies: 1.0
 - name: Meltdown
@@ -111,10 +111,10 @@ top_cards:
 - name: Ashiok, Dream Render
   weight: 0.3333
   avg_copies: 1.0
-- name: Dauthi Voidwalker
+- name: Raucous Theater
   weight: 0.3333
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Dauthi Voidwalker
   weight: 0.3333
   avg_copies: 1.0
 ---

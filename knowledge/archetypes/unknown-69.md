@@ -9,6 +9,9 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 4.1
+- name: Necrodominance
+  weight: 1.0
+  avg_copies: 4.0
 - name: Soul Spike
   weight: 1.0
   avg_copies: 4.0
@@ -18,13 +21,10 @@ top_cards:
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Necrodominance
-  weight: 1.0
-  avg_copies: 4.0
-- name: Break the Ice
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.8
-- name: Orcish Bowmasters
+- name: Break the Ice
   weight: 1.0
   avg_copies: 3.8
 - name: Fell the Profane
@@ -108,25 +108,25 @@ top_cards:
 - name: Psychic Frog
   weight: 0.2
   avg_copies: 4.0
-- name: Watery Grave
-  weight: 0.2
-  avg_copies: 1.5
 - name: Sorin of House Markov
   weight: 0.2
   avg_copies: 1.5
-- name: Waterlogged Teachings
+- name: Watery Grave
   weight: 0.2
-  avg_copies: 1.0
-- name: Revitalizing Repast
-  weight: 0.2
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Toxic Deluge
+  weight: 0.2
+  avg_copies: 1.0
+- name: Cling to Dust
+  weight: 0.2
+  avg_copies: 1.0
+- name: Waterlogged Teachings
   weight: 0.2
   avg_copies: 1.0
 - name: Takenuma, Abandoned Mire
   weight: 0.2
   avg_copies: 1.0
-- name: Cling to Dust
+- name: Revitalizing Repast
   weight: 0.2
   avg_copies: 1.0
 - name: Agadeem's Awakening
@@ -135,19 +135,19 @@ top_cards:
 - name: Consign to Memory
   weight: 0.1
   avg_copies: 4.0
-- name: Ratchet Bomb
-  weight: 0.1
-  avg_copies: 2.0
 - name: Tourach, Dread Cantor
   weight: 0.1
   avg_copies: 2.0
-- name: Shizo, Death's Storehouse
+- name: Ratchet Bomb
   weight: 0.1
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Disruptor Flute
   weight: 0.1
   avg_copies: 1.0
 - name: Graveyard Trespasser
+  weight: 0.1
+  avg_copies: 1.0
+- name: Shizo, Death's Storehouse
   weight: 0.1
   avg_copies: 1.0
 ---

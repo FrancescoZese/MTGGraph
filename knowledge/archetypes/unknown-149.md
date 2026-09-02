@@ -7,16 +7,16 @@ name: 'Unknown #149'
 meta_share: 0.0044
 list_count: 35
 top_cards:
-- name: Guide of Souls
-  weight: 1.0
-  avg_copies: 4.0
 - name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 4.0
-- name: Arid Mesa
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
@@ -43,22 +43,22 @@ top_cards:
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 1.94
-- name: Hallowed Fountain
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.66
-- name: Sacred Foundry
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.66
 - name: Plains
   weight: 1.0
   avg_copies: 1.66
-- name: Meticulous Archive
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Thraben Charm
@@ -151,10 +151,10 @@ top_cards:
 - name: Spell Pierce
   weight: 0.1429
   avg_copies: 1.2
-- name: Vandalblast
+- name: Meltdown
   weight: 0.1429
   avg_copies: 1.0
-- name: Meltdown
+- name: Vandalblast
   weight: 0.1429
   avg_copies: 1.0
 - name: Wear
@@ -175,19 +175,19 @@ top_cards:
 - name: Deafening Silence
   weight: 0.0571
   avg_copies: 1.5
-- name: Detect Intrusion
+- name: Celestial Purge
   weight: 0.0286
   avg_copies: 1.0
 - name: March of Otherworldly Light
   weight: 0.0286
   avg_copies: 1.0
-- name: Teferi, Time Raveler
-  weight: 0.0286
-  avg_copies: 1.0
 - name: Seasoned Pyromancer
   weight: 0.0286
   avg_copies: 1.0
-- name: Celestial Purge
+- name: Detect Intrusion
+  weight: 0.0286
+  avg_copies: 1.0
+- name: Teferi, Time Raveler
   weight: 0.0286
   avg_copies: 1.0
 ---

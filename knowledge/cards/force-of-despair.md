@@ -25,10 +25,10 @@ archetypes:
     weight: 0.2083
     avg_copies: 2.0
   esper-blink:
-    weight: 0.0405
+    weight: 0.0404
     avg_copies: 1.67
   orzhov-blink:
-    weight: 0.0476
+    weight: 0.0455
     avg_copies: 3.0
   grixis-shadow:
     weight: 0.2
@@ -49,7 +49,7 @@ archetypes:
     weight: 0.0769
     avg_copies: 3.0
   unknown-24:
-    weight: 0.9
+    weight: 0.9032
     avg_copies: 1.0
   unknown-30:
     weight: 0.2857

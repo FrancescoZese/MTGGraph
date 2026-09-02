@@ -6,19 +6,19 @@ name: 'Unknown #26'
 meta_share: 0.0029
 list_count: 23
 top_cards:
-- name: Field of Ruin
-  weight: 1.0
-  avg_copies: 4.0
 - name: Demolition Field
   weight: 1.0
   avg_copies: 4.0
+- name: Field of Ruin
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cleansing Wildfire
+  weight: 1.0
+  avg_copies: 3.96
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 3.96
 - name: Price of Freedom
-  weight: 1.0
-  avg_copies: 3.96
-- name: Cleansing Wildfire
   weight: 1.0
   avg_copies: 3.96
 - name: Path to Exile
@@ -42,10 +42,10 @@ top_cards:
 - name: Mountain
   weight: 1.0
   avg_copies: 1.91
-- name: Cori Mountain Monastery
+- name: Erode
   weight: 0.9565
   avg_copies: 3.86
-- name: Erode
+- name: Cori Mountain Monastery
   weight: 0.9565
   avg_copies: 3.86
 - name: Kaheera, the Orphanguard
@@ -84,10 +84,10 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.2609
   avg_copies: 2.25
-- name: Calamity's Wake
+- name: Get Lost
   weight: 0.2174
   avg_copies: 3.8
-- name: Get Lost
+- name: Calamity's Wake
   weight: 0.2174
   avg_copies: 3.8
 - name: Wear
@@ -117,10 +117,10 @@ top_cards:
 - name: Kor Firewalker
   weight: 0.087
   avg_copies: 2.5
-- name: Engineered Explosives
+- name: Celestial Purge
   weight: 0.087
   avg_copies: 2.0
-- name: Celestial Purge
+- name: Engineered Explosives
   weight: 0.087
   avg_copies: 2.0
 - name: Beza, the Bounding Spring
@@ -129,19 +129,19 @@ top_cards:
 - name: Crucible of Worlds
   weight: 0.087
   avg_copies: 1.0
-- name: Ark of Hunger
+- name: Lightning Helix
+  weight: 0.0435
+  avg_copies: 4.0
+- name: White Orchid Phantom
   weight: 0.0435
   avg_copies: 4.0
 - name: Volcanic Spite
   weight: 0.0435
   avg_copies: 4.0
+- name: Ark of Hunger
+  weight: 0.0435
+  avg_copies: 4.0
 - name: card:kutzil-s-flanker
-  weight: 0.0435
-  avg_copies: 4.0
-- name: Lightning Helix
-  weight: 0.0435
-  avg_copies: 4.0
-- name: White Orchid Phantom
   weight: 0.0435
   avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
@@ -150,13 +150,13 @@ top_cards:
 - name: Candy Trail
   weight: 0.0435
   avg_copies: 3.0
+- name: Flashback
+  weight: 0.0435
+  avg_copies: 2.0
 - name: March of Otherworldly Light
   weight: 0.0435
   avg_copies: 2.0
 - name: card:vanish-into-eternity
-  weight: 0.0435
-  avg_copies: 2.0
-- name: Flashback
   weight: 0.0435
   avg_copies: 2.0
 - name: Hallowed Moonlight

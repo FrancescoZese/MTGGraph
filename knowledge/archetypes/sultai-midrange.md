@@ -7,19 +7,19 @@ name: Sultai Midrange
 meta_share: 0.0006
 list_count: 5
 top_cards:
-- name: Misty Rainforest
-  weight: 1.0
-  avg_copies: 4.0
-- name: Psychic Frog
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Polluted Delta
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Consign to Memory
+- name: Psychic Frog
+  weight: 1.0
+  avg_copies: 4.0
+- name: Misty Rainforest
   weight: 1.0
   avg_copies: 4.0
 - name: Counterspell
@@ -28,19 +28,19 @@ top_cards:
 - name: Watery Grave
   weight: 1.0
   avg_copies: 3.0
-- name: Quantum Riddler
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 2.8
-- name: Orcish Bowmasters
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 2.8
 - name: Island
   weight: 1.0
   avg_copies: 2.6
-- name: Scalding Tarn
+- name: Subtlety
   weight: 1.0
   avg_copies: 2.4
-- name: Subtlety
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 2.4
 - name: Mystical Dispute
@@ -76,16 +76,16 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 0.8
   avg_copies: 1.5
-- name: Hallowed Fountain
-  weight: 0.8
-  avg_copies: 1.0
-- name: Meticulous Archive
-  weight: 0.8
-  avg_copies: 1.0
 - name: Prismatic Ending
   weight: 0.8
   avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 0.8
+  avg_copies: 1.0
 - name: Ghost Vacuum
+  weight: 0.8
+  avg_copies: 1.0
+- name: Meticulous Archive
   weight: 0.8
   avg_copies: 1.0
 - name: Flow State
@@ -106,49 +106,46 @@ top_cards:
 - name: Sink into Stupor
   weight: 0.4
   avg_copies: 1.0
-- name: Bring to Light
+- name: Brainsurge
   weight: 0.2
   avg_copies: 3.0
-- name: Brainsurge
+- name: Bring to Light
   weight: 0.2
   avg_copies: 3.0
 - name: Chalice of the Void
   weight: 0.2
   avg_copies: 2.0
-- name: Valki, God of Lies
-  weight: 0.2
-  avg_copies: 2.0
 - name: Thraben Charm
   weight: 0.2
   avg_copies: 2.0
-- name: Consult the Star Charts
+- name: Valki, God of Lies
   weight: 0.2
   avg_copies: 2.0
 - name: Sacred Ground
   weight: 0.2
   avg_copies: 2.0
+- name: Consult the Star Charts
+  weight: 0.2
+  avg_copies: 2.0
+- name: Cling to Dust
+  weight: 0.2
+  avg_copies: 1.0
+- name: Celestial Purge
+  weight: 0.2
+  avg_copies: 1.0
 - name: Culling Ritual
   weight: 0.2
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Thundering Falls
   weight: 0.2
   avg_copies: 1.0
 - name: Engineered Explosives
   weight: 0.2
   avg_copies: 1.0
-- name: Teferi, Time Raveler
-  weight: 0.2
-  avg_copies: 1.0
-- name: Zagoth Triome
-  weight: 0.2
-  avg_copies: 1.0
-- name: Forest
-  weight: 0.2
-  avg_copies: 1.0
 - name: Damnation
   weight: 0.2
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Zagoth Triome
   weight: 0.2
   avg_copies: 1.0
 - name: Hall of Storm Giants
@@ -157,10 +154,13 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.2
   avg_copies: 1.0
-- name: Cling to Dust
+- name: Teferi, Time Raveler
   weight: 0.2
   avg_copies: 1.0
-- name: Celestial Purge
+- name: Grafdigger's Cage
+  weight: 0.2
+  avg_copies: 1.0
+- name: Forest
   weight: 0.2
   avg_copies: 1.0
 ---

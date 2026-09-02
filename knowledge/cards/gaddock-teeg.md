@@ -17,7 +17,7 @@ archetypes:
     weight: 0.7432
     avg_copies: 1.0
   orzhov-blink:
-    weight: 0.0476
+    weight: 0.0455
     avg_copies: 1.0
   mono-green-ramp:
     weight: 0.1429
@@ -35,7 +35,7 @@ archetypes:
     weight: 0.85
     avg_copies: 1.24
   unknown-126:
-    weight: 0.006
+    weight: 0.0059
     avg_copies: 1.0
   unknown-138:
     weight: 1.0

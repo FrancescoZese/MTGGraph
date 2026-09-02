@@ -24,7 +24,7 @@ archetypes:
     weight: 0.2
     avg_copies: 1.0
   azorius-control:
-    weight: 0.0183
+    weight: 0.0182
     avg_copies: 1.0
   living-end:
     weight: 0.0127
@@ -69,7 +69,7 @@ archetypes:
     weight: 0.8
     avg_copies: 1.0
   unknown-61:
-    weight: 0.7273
+    weight: 0.7218
     avg_copies: 1.01
   unknown-55:
     weight: 1.0
@@ -93,7 +93,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-126:
-    weight: 0.1024
+    weight: 0.1065
     avg_copies: 1.0
   unknown-143:
     weight: 1.0
@@ -111,7 +111,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-194:
-    weight: 0.5156
+    weight: 0.5
     avg_copies: 1.0
   unknown-211:
     weight: 0.1111

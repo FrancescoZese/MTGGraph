@@ -13,7 +13,7 @@ archetypes:
     weight: 0.4321
     avg_copies: 2.8
   goryo:
-    weight: 0.0087
+    weight: 0.0086
     avg_copies: 1.5
   necrodominance:
     weight: 0.9348

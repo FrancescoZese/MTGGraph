@@ -6,13 +6,13 @@ name: 'Unknown #111'
 meta_share: 0.0009
 list_count: 7
 top_cards:
-- name: Consult the Star Charts
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Counterspell
   weight: 1.0
   avg_copies: 4.0
-- name: Polluted Delta
+- name: Consult the Star Charts
   weight: 1.0
   avg_copies: 4.0
 - name: Fatal Push
@@ -78,25 +78,25 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.5714
   avg_copies: 1.25
-- name: Kaito, Bane of Nightmares
+- name: Steam Vents
   weight: 0.5714
   avg_copies: 1.0
-- name: Steam Vents
+- name: Kaito, Bane of Nightmares
   weight: 0.5714
   avg_copies: 1.0
 - name: Fire Magic
   weight: 0.4286
   avg_copies: 1.4
-- name: Spell Pierce
-  weight: 0.4286
-  avg_copies: 1.33
 - name: Ghost Vacuum
   weight: 0.4286
   avg_copies: 1.33
-- name: Misty Rainforest
+- name: Spell Pierce
+  weight: 0.4286
+  avg_copies: 1.33
+- name: Thundering Falls
   weight: 0.4286
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Misty Rainforest
   weight: 0.4286
   avg_copies: 1.0
 - name: Snow-Covered Island
@@ -111,6 +111,12 @@ top_cards:
 - name: Toxic Deluge
   weight: 0.2857
   avg_copies: 1.33
+- name: Sink into Stupor
+  weight: 0.2857
+  avg_copies: 1.0
+- name: Snow-Covered Swamp
+  weight: 0.2857
+  avg_copies: 1.0
 - name: Hallowed Fountain
   weight: 0.2857
   avg_copies: 1.0
@@ -120,31 +126,25 @@ top_cards:
 - name: Meticulous Archive
   weight: 0.2857
   avg_copies: 1.0
-- name: Snow-Covered Swamp
-  weight: 0.2857
-  avg_copies: 1.0
-- name: Sink into Stupor
-  weight: 0.2857
-  avg_copies: 1.0
-- name: Requiting Hex
-  weight: 0.1429
-  avg_copies: 2.0
 - name: Damnation
   weight: 0.1429
   avg_copies: 2.0
-- name: Containment Priest
+- name: Requiting Hex
   weight: 0.1429
-  avg_copies: 1.0
-- name: Marsh Flats
+  avg_copies: 2.0
+- name: Ashiok, Dream Render
   weight: 0.1429
   avg_copies: 1.0
 - name: Flusterstorm
   weight: 0.1429
   avg_copies: 1.0
+- name: Lórien Revealed
+  weight: 0.1429
+  avg_copies: 1.0
 - name: Logic Knot
   weight: 0.1429
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Marsh Flats
   weight: 0.1429
   avg_copies: 1.0
 - name: Vexing Bauble
@@ -153,19 +153,19 @@ top_cards:
 - name: Erode
   weight: 0.1429
   avg_copies: 1.0
-- name: Drown in the Loch
+- name: Surgical Extraction
   weight: 0.1429
   avg_copies: 1.0
 - name: Hall of Storm Giants
   weight: 0.1429
   avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Lórien Revealed
-  weight: 0.1429
-  avg_copies: 1.0
 - name: High Noon
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Drown in the Loch
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Containment Priest
   weight: 0.1429
   avg_copies: 1.0
 ---

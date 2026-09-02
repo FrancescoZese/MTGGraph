@@ -18,7 +18,7 @@ archetypes:
     weight: 0.2391
     avg_copies: 1.73
   azorius-control:
-    weight: 0.2018
+    weight: 0.2
     avg_copies: 1.09
   living-end:
     weight: 0.5823
@@ -45,10 +45,10 @@ archetypes:
     weight: 0.0045
     avg_copies: 1.0
   esper-blink:
-    weight: 0.9775
-    avg_copies: 1.42
+    weight: 0.9776
+    avg_copies: 1.43
   orzhov-blink:
-    weight: 0.0952
+    weight: 0.0909
     avg_copies: 1.5
   azorius-blink:
     weight: 0.0139

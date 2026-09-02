@@ -137,13 +137,13 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.0526
   avg_copies: 2.25
-- name: Lingering Souls
-  weight: 0.0526
-  avg_copies: 2.0
 - name: Erode
   weight: 0.0526
   avg_copies: 2.0
 - name: Deafening Silence
+  weight: 0.0526
+  avg_copies: 2.0
+- name: Lingering Souls
   weight: 0.0526
   avg_copies: 2.0
 - name: Lava Dart
@@ -155,19 +155,19 @@ top_cards:
 - name: Tormod's Crypt
   weight: 0.0395
   avg_copies: 2.33
-- name: Asmoranomardicadaistinaculdacar
+- name: Cool but Rude
   weight: 0.0395
   avg_copies: 2.0
 - name: The Underworld Cookbook
   weight: 0.0395
   avg_copies: 2.0
-- name: card:smiting-helix
+- name: Asmoranomardicadaistinaculdacar
   weight: 0.0395
   avg_copies: 2.0
 - name: Seasoned Pyromancer
   weight: 0.0395
   avg_copies: 2.0
-- name: Cool but Rude
+- name: card:smiting-helix
   weight: 0.0395
   avg_copies: 2.0
 - name: Unholy Heat
@@ -182,10 +182,10 @@ top_cards:
 - name: Snow-Covered Mountain
   weight: 0.0263
   avg_copies: 2.0
-- name: Wrath of the Skies
+- name: Celestial Purge
   weight: 0.0263
   avg_copies: 1.5
-- name: Celestial Purge
+- name: Wrath of the Skies
   weight: 0.0263
   avg_copies: 1.5
 - name: Pyroclasm
@@ -194,10 +194,10 @@ top_cards:
 - name: Goblin Lore
   weight: 0.0132
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Nethergoyf
   weight: 0.0132
   avg_copies: 3.0
-- name: Nethergoyf
+- name: Marsh Flats
   weight: 0.0132
   avg_copies: 3.0
 - name: Price of Freedom
@@ -209,13 +209,13 @@ top_cards:
 - name: Hallowed Moonlight
   weight: 0.0132
   avg_copies: 2.0
-- name: Temur Battle Rage
+- name: Godless Shrine
   weight: 0.0132
   avg_copies: 1.0
 - name: Plains
   weight: 0.0132
   avg_copies: 1.0
-- name: Godless Shrine
+- name: Temur Battle Rage
   weight: 0.0132
   avg_copies: 1.0
 ---

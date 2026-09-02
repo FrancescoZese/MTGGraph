@@ -28,7 +28,7 @@ archetypes:
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
-    avg_copies: 1.99
+    avg_copies: 2.01
   living-end:
     weight: 1.0
     avg_copies: 1.0
@@ -60,13 +60,13 @@ archetypes:
     weight: 0.0198
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0383
+    weight: 0.0382
     avg_copies: 1.06
   4c-omnath:
     weight: 1.0
     avg_copies: 1.0
   esper-blink:
-    weight: 0.3333
+    weight: 0.3363
     avg_copies: 1.01
   bant-control:
     weight: 1.0
@@ -348,7 +348,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-160:
-    weight: 0.0183
+    weight: 0.0182
     avg_copies: 1.0
   unknown-166:
     weight: 1.0
@@ -477,7 +477,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-265:
-    weight: 0.25
+    weight: 0.3333
     avg_copies: 1.0
   unknown-266:
     weight: 1.0

@@ -129,10 +129,10 @@ top_cards:
 - name: Ghost Vacuum
   weight: 0.139
   avg_copies: 1.31
-- name: Requiting Hex
+- name: Agna Qel'a
   weight: 0.1337
   avg_copies: 1.0
-- name: Agna Qel'a
+- name: Requiting Hex
   weight: 0.1337
   avg_copies: 1.0
 - name: Surgical Extraction
@@ -156,10 +156,10 @@ top_cards:
 - name: Verdant Catacombs
   weight: 0.0642
   avg_copies: 1.25
-- name: Meticulous Archive
+- name: Waterlogged Teachings
   weight: 0.0642
   avg_copies: 1.0
-- name: Waterlogged Teachings
+- name: Meticulous Archive
   weight: 0.0642
   avg_copies: 1.0
 - name: Damping Sphere
@@ -177,37 +177,37 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.0321
   avg_copies: 1.5
-- name: Grafdigger's Cage
+- name: Damnation
   weight: 0.0321
   avg_copies: 1.0
-- name: Damnation
+- name: Grafdigger's Cage
   weight: 0.0321
   avg_copies: 1.0
 - name: Snow-Covered Island
   weight: 0.0214
   avg_copies: 1.25
-- name: Teferi, Time Raveler
-  weight: 0.0214
-  avg_copies: 1.0
 - name: Snow-Covered Swamp
-  weight: 0.0214
-  avg_copies: 1.0
-- name: Stony Silence
   weight: 0.0214
   avg_copies: 1.0
 - name: Takenuma, Abandoned Mire
   weight: 0.0214
   avg_copies: 1.0
-- name: Spell Pierce
-  weight: 0.016
+- name: Teferi, Time Raveler
+  weight: 0.0214
   avg_copies: 1.0
-- name: Prismatic Ending
+- name: Stony Silence
+  weight: 0.0214
+  avg_copies: 1.0
+- name: Steam Vents
   weight: 0.016
   avg_copies: 1.0
 - name: High Noon
   weight: 0.016
   avg_copies: 1.0
-- name: Steam Vents
+- name: Prismatic Ending
+  weight: 0.016
+  avg_copies: 1.0
+- name: Spell Pierce
   weight: 0.016
   avg_copies: 1.0
 - name: Meltdown
@@ -216,19 +216,7 @@ top_cards:
 - name: card:the-wondrous-wasp
   weight: 0.0107
   avg_copies: 2.0
-- name: Umezawa's Jitte
-  weight: 0.0107
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.0107
-  avg_copies: 1.0
-- name: Shadow of Doubt
-  weight: 0.0107
-  avg_copies: 1.0
-- name: Inquisition of Kozilek
-  weight: 0.0107
-  avg_copies: 1.0
-- name: Pithing Needle
+- name: Dreams of Steel and Oil
   weight: 0.0107
   avg_copies: 1.0
 - name: Snapcaster Mage
@@ -237,28 +225,34 @@ top_cards:
 - name: Strategic Betrayal
   weight: 0.0107
   avg_copies: 1.0
-- name: Dreams of Steel and Oil
+- name: Thundering Falls
+  weight: 0.0107
+  avg_copies: 1.0
+- name: Pithing Needle
+  weight: 0.0107
+  avg_copies: 1.0
+- name: Umezawa's Jitte
+  weight: 0.0107
+  avg_copies: 1.0
+- name: Inquisition of Kozilek
+  weight: 0.0107
+  avg_copies: 1.0
+- name: Shadow of Doubt
   weight: 0.0107
   avg_copies: 1.0
 - name: Culling Ritual
   weight: 0.0053
   avg_copies: 3.0
-- name: Fire Magic
-  weight: 0.0053
-  avg_copies: 2.0
 - name: card:glistening-deluge
   weight: 0.0053
   avg_copies: 2.0
 - name: Void Mirror
   weight: 0.0053
   avg_copies: 2.0
+- name: Fire Magic
+  weight: 0.0053
+  avg_copies: 2.0
 - name: Murderous Cut
-  weight: 0.0053
-  avg_copies: 1.0
-- name: Breeding Pool
-  weight: 0.0053
-  avg_copies: 1.0
-- name: Graveyard Trespasser
   weight: 0.0053
   avg_copies: 1.0
 - name: Celestial Purge
@@ -267,22 +261,28 @@ top_cards:
 - name: Fallen Shinobi
   weight: 0.0053
   avg_copies: 1.0
+- name: River of Tears
+  weight: 0.0053
+  avg_copies: 1.0
 - name: Brazen Borrower
   weight: 0.0053
   avg_copies: 1.0
-- name: card:kira-great-glass-spinner
-  weight: 0.0053
-  avg_copies: 1.0
-- name: Narset, Parter of Veils
-  weight: 0.0053
-  avg_copies: 1.0
-- name: Dismember
+- name: Breeding Pool
   weight: 0.0053
   avg_copies: 1.0
 - name: Consult the Star Charts
   weight: 0.0053
   avg_copies: 1.0
-- name: River of Tears
+- name: Narset, Parter of Veils
+  weight: 0.0053
+  avg_copies: 1.0
+- name: Graveyard Trespasser
+  weight: 0.0053
+  avg_copies: 1.0
+- name: card:kira-great-glass-spinner
+  weight: 0.0053
+  avg_copies: 1.0
+- name: Dismember
   weight: 0.0053
   avg_copies: 1.0
 ---

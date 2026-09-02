@@ -7,7 +7,7 @@ name: Mystical Dispute
 scryfall_id: fbe04cb8-a8b9-4241-baae-b398a2509a3a
 set: eld
 type: Instant
-meta_presence: 0.3967
+meta_presence: 0.3965
 archetypes:
   dimir-control:
     weight: 1.0
@@ -19,14 +19,14 @@ archetypes:
     weight: 0.9852
     avg_copies: 2.41
   goryo:
-    weight: 0.9913
+    weight: 0.9914
     avg_copies: 2.65
   necrodominance:
     weight: 0.0217
     avg_copies: 3.0
   azorius-control:
     weight: 1.0
-    avg_copies: 3.06
+    avg_copies: 3.05
   living-end:
     weight: 0.9873
     avg_copies: 3.32
@@ -58,14 +58,14 @@ archetypes:
     weight: 0.9703
     avg_copies: 2.98
   izzet-prowess:
-    weight: 0.2297
+    weight: 0.2292
     avg_copies: 1.35
   4c-omnath:
     weight: 1.0
     avg_copies: 2.25
   esper-blink:
-    weight: 0.7432
-    avg_copies: 1.97
+    weight: 0.7444
+    avg_copies: 1.96
   indomitable-creativity:
     weight: 0.375
     avg_copies: 2.0

@@ -13,10 +13,10 @@ archetypes:
     weight: 0.0547
     avg_copies: 1.68
   goryo:
-    weight: 0.013
+    weight: 0.0129
     avg_copies: 1.67
   azorius-control:
-    weight: 0.0092
+    weight: 0.0091
     avg_copies: 1.0
   living-end:
     weight: 0.1139
@@ -31,8 +31,8 @@ archetypes:
     weight: 0.0142
     avg_copies: 3.0
   esper-blink:
-    weight: 0.0135
-    avg_copies: 2.33
+    weight: 0.0179
+    avg_copies: 2.5
   samwise-combo:
     weight: 0.0135
     avg_copies: 1.0
@@ -40,7 +40,7 @@ archetypes:
     weight: 0.003
     avg_copies: 2.0
   orzhov-blink:
-    weight: 0.0952
+    weight: 0.0909
     avg_copies: 2.5
   azorius-blink:
     weight: 0.4444
@@ -73,7 +73,7 @@ archetypes:
     weight: 0.0526
     avg_copies: 2.0
   unknown-126:
-    weight: 0.012
+    weight: 0.0118
     avg_copies: 1.5
   unknown-131:
     weight: 0.7
@@ -82,7 +82,7 @@ archetypes:
     weight: 0.0571
     avg_copies: 1.5
   unknown-160:
-    weight: 0.2202
+    weight: 0.2182
     avg_copies: 1.38
   unknown-201:
     weight: 1.0

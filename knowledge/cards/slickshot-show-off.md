@@ -10,7 +10,7 @@ type: Creature — Bird Wizard
 meta_presence: 0.0537
 archetypes:
   izzet-prowess:
-    weight: 0.9392
+    weight: 0.9393
     avg_copies: 3.88
   unknown-81:
     weight: 1.0

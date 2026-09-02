@@ -27,7 +27,7 @@ archetypes:
     weight: 0.973
     avg_copies: 1.0
   orzhov-blink:
-    weight: 0.0476
+    weight: 0.0455
     avg_copies: 1.0
   bant-control:
     weight: 1.0
@@ -81,7 +81,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-126:
-    weight: 0.1506
+    weight: 0.1479
     avg_copies: 1.0
   unknown-142:
     weight: 1.0

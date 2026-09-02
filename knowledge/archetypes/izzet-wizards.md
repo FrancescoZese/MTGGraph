@@ -9,10 +9,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 4.54
-- name: Flame of Anor
+- name: Counterspell
   weight: 1.0
   avg_copies: 3.92
-- name: Counterspell
+- name: Flame of Anor
   weight: 1.0
   avg_copies: 3.92
 - name: Snapcaster Mage
@@ -102,10 +102,10 @@ top_cards:
 - name: Tishana's Tidebinder
   weight: 0.3077
   avg_copies: 3.0
-- name: Invert Polarity
+- name: Lórien Revealed
   weight: 0.3077
   avg_copies: 2.0
-- name: Lórien Revealed
+- name: Invert Polarity
   weight: 0.3077
   avg_copies: 2.0
 - name: Ghost Vacuum
@@ -120,19 +120,19 @@ top_cards:
 - name: Preordain
   weight: 0.1538
   avg_copies: 3.0
-- name: Fable of the Mirror-Breaker
+- name: Flare of Denial
   weight: 0.1538
   avg_copies: 2.5
-- name: Flare of Denial
+- name: Fable of the Mirror-Breaker
   weight: 0.1538
   avg_copies: 2.5
 - name: Test of Talents
   weight: 0.1538
   avg_copies: 2.0
-- name: Stern Scolding
+- name: Flusterstorm
   weight: 0.1538
   avg_copies: 1.5
-- name: Flusterstorm
+- name: Stern Scolding
   weight: 0.1538
   avg_copies: 1.5
 - name: Surgical Extraction
@@ -141,13 +141,13 @@ top_cards:
 - name: Dress Down
   weight: 0.1538
   avg_copies: 1.33
-- name: Spell Pierce
+- name: Ashiok, Dream Render
   weight: 0.1538
   avg_copies: 1.0
 - name: Flashback
   weight: 0.1538
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Spell Pierce
   weight: 0.1538
   avg_copies: 1.0
 - name: Unholy Heat
@@ -156,37 +156,55 @@ top_cards:
 - name: Mishra's Bauble
   weight: 0.0769
   avg_copies: 4.0
-- name: Marang River Regent
-  weight: 0.0769
-  avg_copies: 3.0
 - name: Soul-Guide Lantern
   weight: 0.0769
   avg_copies: 3.0
-- name: Field of Ruin
+- name: Marang River Regent
   weight: 0.0769
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Expressive Iteration
-  weight: 0.0769
-  avg_copies: 2.0
-- name: Brainsurge
-  weight: 0.0769
-  avg_copies: 2.0
-- name: Engineered Explosives
   weight: 0.0769
   avg_copies: 2.0
 - name: Spirebluff Canal
   weight: 0.0769
   avg_copies: 2.0
+- name: Brainsurge
+  weight: 0.0769
+  avg_copies: 2.0
 - name: Den of the Bugbear
   weight: 0.0769
   avg_copies: 2.0
+- name: Engineered Explosives
+  weight: 0.0769
+  avg_copies: 2.0
+- name: Field of Ruin
+  weight: 0.0769
+  avg_copies: 2.0
+- name: Annul
+  weight: 0.0769
+  avg_copies: 1.0
 - name: Great Hall of the Biblioplex
   weight: 0.0769
   avg_copies: 1.0
-- name: Vedalken Shackles
+- name: Agna Qel'a
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Unlicensed Hearse
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Arid Mesa
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Mistrise Village
+  weight: 0.0769
+  avg_copies: 1.0
+- name: card:flashfires
   weight: 0.0769
   avg_copies: 1.0
 - name: Vexing Bauble
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Vedalken Shackles
   weight: 0.0769
   avg_copies: 1.0
 - name: Stone of Erech
@@ -198,25 +216,7 @@ top_cards:
 - name: Vampires' Vengeance
   weight: 0.0769
   avg_copies: 1.0
-- name: Mistrise Village
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Annul
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Unlicensed Hearse
-  weight: 0.0769
-  avg_copies: 1.0
 - name: Hurkyl's Recall
-  weight: 0.0769
-  avg_copies: 1.0
-- name: card:flashfires
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Arid Mesa
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Agna Qel'a
   weight: 0.0769
   avg_copies: 1.0
 ---

@@ -6,19 +6,19 @@ name: 'Unknown #41'
 meta_share: 0.0005
 list_count: 4
 top_cards:
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Whir of Invention
   weight: 1.0
   avg_copies: 4.0
+- name: Darkslick Shores
+  weight: 1.0
+  avg_copies: 4.0
 - name: Inquisition of Kozilek
   weight: 1.0
   avg_copies: 4.0
-- name: Darkslick Shores
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
 - name: Ensnaring Bridge
@@ -30,10 +30,10 @@ top_cards:
 - name: Mox Opal
   weight: 1.0
   avg_copies: 3.5
-- name: Lantern of Insight
+- name: River of Tears
   weight: 1.0
   avg_copies: 3.25
-- name: River of Tears
+- name: Lantern of Insight
   weight: 1.0
   avg_copies: 3.25
 - name: Island
@@ -54,10 +54,10 @@ top_cards:
 - name: The Underworld Cookbook
   weight: 1.0
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Torpor Orb
   weight: 1.0
   avg_copies: 1.0
-- name: Torpor Orb
+- name: Grafdigger's Cage
   weight: 1.0
   avg_copies: 1.0
 - name: Ashiok, Dream Render
@@ -78,16 +78,16 @@ top_cards:
 - name: Welding Jar
   weight: 0.75
   avg_copies: 1.67
-- name: Cursed Totem
-  weight: 0.75
-  avg_copies: 1.0
 - name: Academy Ruins
   weight: 0.75
   avg_copies: 1.0
-- name: Damping Sphere
+- name: Scalding Tarn
   weight: 0.75
   avg_copies: 1.0
-- name: Scalding Tarn
+- name: Cursed Totem
+  weight: 0.75
+  avg_copies: 1.0
+- name: Damping Sphere
   weight: 0.75
   avg_copies: 1.0
 - name: Drown in the Loch
@@ -99,43 +99,43 @@ top_cards:
 - name: Great Hall of the Biblioplex
   weight: 0.25
   avg_copies: 4.0
-- name: Spire of Industry
+- name: Consign to Memory
   weight: 0.25
   avg_copies: 3.0
-- name: Consign to Memory
+- name: Spire of Industry
   weight: 0.25
   avg_copies: 3.0
 - name: Harbinger of the Seas
   weight: 0.25
   avg_copies: 2.0
-- name: Tear Asunder
-  weight: 0.25
-  avg_copies: 2.0
 - name: Bloodchief's Thirst
   weight: 0.25
   avg_copies: 2.0
-- name: Amulet of Safekeeping
+- name: Tear Asunder
   weight: 0.25
-  avg_copies: 1.0
-- name: Misty Rainforest
-  weight: 0.25
-  avg_copies: 1.0
-- name: Emrakul, the Aeons Torn
-  weight: 0.25
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Glimmervoid
   weight: 0.25
   avg_copies: 1.0
 - name: Vexing Bauble
   weight: 0.25
   avg_copies: 1.0
+- name: Emrakul, the Aeons Torn
+  weight: 0.25
+  avg_copies: 1.0
 - name: Erode
+  weight: 0.25
+  avg_copies: 1.0
+- name: Amulet of Safekeeping
+  weight: 0.25
+  avg_copies: 1.0
+- name: Flooded Strand
   weight: 0.25
   avg_copies: 1.0
 - name: Ghoulcaller's Bell
   weight: 0.25
   avg_copies: 1.0
-- name: Flooded Strand
+- name: Misty Rainforest
   weight: 0.25
   avg_copies: 1.0
 ---

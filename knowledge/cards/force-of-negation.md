@@ -20,10 +20,10 @@ archetypes:
     avg_copies: 1.12
   goryo:
     weight: 0.9892
-    avg_copies: 2.05
+    avg_copies: 2.04
   azorius-control:
-    weight: 0.422
-    avg_copies: 1.21
+    weight: 0.4273
+    avg_copies: 1.2
   living-end:
     weight: 1.0
     avg_copies: 3.94
@@ -52,7 +52,7 @@ archetypes:
     weight: 0.75
     avg_copies: 1.8
   esper-blink:
-    weight: 0.0225
+    weight: 0.0224
     avg_copies: 2.0
   izzet-artifacts:
     weight: 0.875

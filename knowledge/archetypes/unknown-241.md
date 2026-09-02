@@ -6,6 +6,12 @@ name: 'Unknown #241'
 meta_share: 0.0005
 list_count: 4
 top_cards:
+- name: Sowing Mycospawn
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:talisman-of-unity
+  weight: 1.0
+  avg_copies: 4.0
 - name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
@@ -13,12 +19,6 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Kozilek's Command
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:talisman-of-unity
-  weight: 1.0
-  avg_copies: 4.0
-- name: Sowing Mycospawn
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
@@ -30,16 +30,16 @@ top_cards:
 - name: Orim's Chant
   weight: 1.0
   avg_copies: 3.5
-- name: Windswept Heath
-  weight: 1.0
-  avg_copies: 3.0
 - name: Emrakul, the Promised End
   weight: 1.0
   avg_copies: 3.0
-- name: Devourer of Destiny
+- name: Windswept Heath
+  weight: 1.0
+  avg_copies: 3.0
+- name: Icetill Explorer
   weight: 1.0
   avg_copies: 2.75
-- name: Icetill Explorer
+- name: Devourer of Destiny
   weight: 1.0
   avg_copies: 2.75
 - name: High Noon
@@ -48,13 +48,13 @@ top_cards:
 - name: Erode
   weight: 1.0
   avg_copies: 2.25
+- name: Nature's Claim
+  weight: 1.0
+  avg_copies: 2.0
 - name: Temple Garden
   weight: 1.0
   avg_copies: 2.0
 - name: Surgical Extraction
-  weight: 1.0
-  avg_copies: 2.0
-- name: Nature's Claim
   weight: 1.0
   avg_copies: 2.0
 - name: Sire of Seven Deaths
@@ -69,10 +69,10 @@ top_cards:
 - name: Grafdigger's Cage
   weight: 1.0
   avg_copies: 1.25
-- name: Ugin, Eye of the Storms
+- name: Lush Portico
   weight: 1.0
   avg_copies: 1.0
-- name: Lush Portico
+- name: Ugin, Eye of the Storms
   weight: 1.0
   avg_copies: 1.0
 - name: Vexing Bauble
@@ -108,10 +108,10 @@ top_cards:
 - name: Elesh Norn, Mother of Machines
   weight: 0.25
   avg_copies: 1.0
-- name: Elder Gargaroth
+- name: Bojuka Bog
   weight: 0.25
   avg_copies: 1.0
-- name: Bojuka Bog
+- name: Elder Gargaroth
   weight: 0.25
   avg_copies: 1.0
 ---

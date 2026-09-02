@@ -15,7 +15,7 @@ archetypes:
     weight: 0.1333
     avg_copies: 1.83
   azorius-control:
-    weight: 0.0275
+    weight: 0.0273
     avg_copies: 1.0
   mardu-blink:
     weight: 0.625

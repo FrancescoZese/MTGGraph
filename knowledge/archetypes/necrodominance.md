@@ -126,10 +126,10 @@ top_cards:
 - name: Sign in Blood
   weight: 0.087
   avg_copies: 2.25
-- name: Underground Mortuary
+- name: Raucous Theater
   weight: 0.087
   avg_copies: 1.0
-- name: Raucous Theater
+- name: Underground Mortuary
   weight: 0.087
   avg_copies: 1.0
 - name: Shizo, Death's Storehouse
@@ -147,16 +147,16 @@ top_cards:
 - name: Decorum Dissertation
   weight: 0.0652
   avg_copies: 1.0
-- name: Vein Ripper
-  weight: 0.0435
-  avg_copies: 4.0
 - name: Sorin, Imperious Bloodlord
   weight: 0.0435
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Gonti's Machinations
   weight: 0.0435
   avg_copies: 4.0
-- name: Gonti's Machinations
+- name: Vein Ripper
+  weight: 0.0435
+  avg_copies: 4.0
+- name: Psychic Frog
   weight: 0.0435
   avg_copies: 4.0
 - name: Watery Grave
@@ -168,10 +168,10 @@ top_cards:
 - name: Long Goodbye
   weight: 0.0435
   avg_copies: 2.0
-- name: Agadeem's Awakening
+- name: card:trespasser-s-curse
   weight: 0.0435
   avg_copies: 2.0
-- name: card:trespasser-s-curse
+- name: Agadeem's Awakening
   weight: 0.0435
   avg_copies: 2.0
 - name: Toxic Deluge
@@ -180,37 +180,37 @@ top_cards:
 - name: The Filigree Sylex
   weight: 0.0435
   avg_copies: 1.5
-- name: Slaughter Pact
+- name: Legion's End
   weight: 0.0435
   avg_copies: 1.0
-- name: Legion's End
+- name: Slaughter Pact
   weight: 0.0435
   avg_copies: 1.0
 - name: Iridescent Vinelasher
   weight: 0.0217
   avg_copies: 4.0
-- name: Mystical Dispute
-  weight: 0.0217
-  avg_copies: 3.0
 - name: Quantum Riddler
   weight: 0.0217
   avg_copies: 3.0
+- name: Mystical Dispute
+  weight: 0.0217
+  avg_copies: 3.0
+- name: Overgrown Tomb
+  weight: 0.0217
+  avg_copies: 2.0
+- name: Pillage the Bog
+  weight: 0.0217
+  avg_copies: 2.0
 - name: Culling Ritual
   weight: 0.0217
   avg_copies: 2.0
-- name: End of the Hunt
-  weight: 0.0217
-  avg_copies: 2.0
-- name: Vexing Bauble
+- name: Phyrexian Crusader
   weight: 0.0217
   avg_copies: 2.0
 - name: Mai, Scornful Striker
   weight: 0.0217
   avg_copies: 2.0
-- name: Overgrown Tomb
-  weight: 0.0217
-  avg_copies: 2.0
-- name: Pillage the Bog
+- name: Vexing Bauble
   weight: 0.0217
   avg_copies: 2.0
 - name: Witherbloom Command
@@ -219,25 +219,19 @@ top_cards:
 - name: Hurkyl's Recall
   weight: 0.0217
   avg_copies: 2.0
-- name: Phyrexian Crusader
+- name: End of the Hunt
   weight: 0.0217
   avg_copies: 2.0
-- name: Stone of Erech
+- name: card:invoke-despair
   weight: 0.0217
   avg_copies: 1.0
 - name: Revitalizing Repast
   weight: 0.0217
   avg_copies: 1.0
-- name: Path of Peril
+- name: Ratchet Bomb
   weight: 0.0217
   avg_copies: 1.0
-- name: card:invoke-despair
-  weight: 0.0217
-  avg_copies: 1.0
-- name: Blood Crypt
-  weight: 0.0217
-  avg_copies: 1.0
-- name: Cling to Dust
+- name: Kaito, Bane of Nightmares
   weight: 0.0217
   avg_copies: 1.0
 - name: Pithing Needle
@@ -246,22 +240,28 @@ top_cards:
 - name: Pick Your Poison
   weight: 0.0217
   avg_copies: 1.0
-- name: Ratchet Bomb
-  weight: 0.0217
-  avg_copies: 1.0
 - name: Grafdigger's Cage
   weight: 0.0217
   avg_copies: 1.0
-- name: Kaito, Bane of Nightmares
-  weight: 0.0217
-  avg_copies: 1.0
-- name: card:vito-thorn-of-the-dusk-rose
+- name: Cling to Dust
   weight: 0.0217
   avg_copies: 1.0
 - name: card:hagra-mauling
   weight: 0.0217
   avg_copies: 1.0
 - name: Nurturing Peatland
+  weight: 0.0217
+  avg_copies: 1.0
+- name: Stone of Erech
+  weight: 0.0217
+  avg_copies: 1.0
+- name: Path of Peril
+  weight: 0.0217
+  avg_copies: 1.0
+- name: card:vito-thorn-of-the-dusk-rose
+  weight: 0.0217
+  avg_copies: 1.0
+- name: Blood Crypt
   weight: 0.0217
   avg_copies: 1.0
 ---

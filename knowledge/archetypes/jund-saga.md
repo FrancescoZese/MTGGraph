@@ -16,13 +16,13 @@ top_cards:
 - name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 3.8
-- name: Thoughtseize
-  weight: 1.0
-  avg_copies: 3.4
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.4
 - name: Wrenn and Six
+  weight: 1.0
+  avg_copies: 3.4
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 3.4
 - name: Bloodstained Mire
@@ -43,25 +43,25 @@ top_cards:
 - name: Overgrown Tomb
   weight: 1.0
   avg_copies: 1.2
-- name: Shadowspear
-  weight: 1.0
-  avg_copies: 1.0
-- name: Mountain
+- name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
 - name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
-- name: Forest
+- name: Raucous Theater
+  weight: 1.0
+  avg_copies: 1.0
+- name: Mountain
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shadowspear
   weight: 1.0
   avg_copies: 1.0
 - name: Swamp
   weight: 1.0
   avg_copies: 1.0
-- name: Raucous Theater
-  weight: 1.0
-  avg_copies: 1.0
-- name: Haywire Mite
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Nethergoyf
@@ -127,43 +127,46 @@ top_cards:
 - name: Skateboard
   weight: 0.4
   avg_copies: 1.0
-- name: Tourach, Dread Cantor
+- name: Tarfire
   weight: 0.4
   avg_copies: 1.0
-- name: Tarfire
+- name: Tourach, Dread Cantor
   weight: 0.4
   avg_copies: 1.0
 - name: Keen-Eyed Curator
   weight: 0.2
   avg_copies: 3.0
-- name: Break the Ice
+- name: Ancient Grudge
   weight: 0.2
   avg_copies: 2.0
 - name: Culling Ritual
   weight: 0.2
   avg_copies: 2.0
-- name: card:the-end
+- name: Break the Ice
   weight: 0.2
   avg_copies: 2.0
 - name: Six
   weight: 0.2
   avg_copies: 2.0
-- name: Ancient Grudge
+- name: card:the-end
   weight: 0.2
   avg_copies: 2.0
-- name: Grist, the Hunger Tide
+- name: Arena of Glory
   weight: 0.2
   avg_copies: 1.0
-- name: Assassin's Trophy
-  weight: 0.2
-  avg_copies: 1.0
-- name: Brotherhood's End
+- name: Toxic Deluge
   weight: 0.2
   avg_copies: 1.0
 - name: Emperor of Bones
   weight: 0.2
   avg_copies: 1.0
+- name: Liliana of the Veil
+  weight: 0.2
+  avg_copies: 1.0
 - name: Fear of Missing Out
+  weight: 0.2
+  avg_copies: 1.0
+- name: Grist, the Hunger Tide
   weight: 0.2
   avg_copies: 1.0
 - name: Questing Druid
@@ -175,28 +178,28 @@ top_cards:
 - name: Witherbloom Command
   weight: 0.2
   avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.2
-  avg_copies: 1.0
 - name: Molten Rain
   weight: 0.2
   avg_copies: 1.0
-- name: Professor Dellian Fel
-  weight: 0.2
-  avg_copies: 1.0
-- name: Liliana of the Veil
+- name: Fire Magic
   weight: 0.2
   avg_copies: 1.0
 - name: Seasoned Pyromancer
   weight: 0.2
   avg_copies: 1.0
-- name: Toxic Deluge
-  weight: 0.2
-  avg_copies: 1.0
 - name: Ghost Vacuum
   weight: 0.2
   avg_copies: 1.0
-- name: Arena of Glory
+- name: Surgical Extraction
+  weight: 0.2
+  avg_copies: 1.0
+- name: Professor Dellian Fel
+  weight: 0.2
+  avg_copies: 1.0
+- name: Pick Your Poison
+  weight: 0.2
+  avg_copies: 1.0
+- name: Brotherhood's End
   weight: 0.2
   avg_copies: 1.0
 - name: Kroxa, Titan of Death's Hunger
@@ -205,10 +208,7 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 0.2
   avg_copies: 1.0
-- name: Pick Your Poison
-  weight: 0.2
-  avg_copies: 1.0
-- name: Fire Magic
+- name: Assassin's Trophy
   weight: 0.2
   avg_copies: 1.0
 ---

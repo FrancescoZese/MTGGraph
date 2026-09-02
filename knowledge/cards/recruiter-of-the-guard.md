@@ -10,7 +10,7 @@ type: Creature — Human Soldier
 meta_presence: 0.0029
 archetypes:
   orzhov-blink:
-    weight: 0.2381
+    weight: 0.2273
     avg_copies: 2.6
   azorius-blink:
     weight: 0.1944

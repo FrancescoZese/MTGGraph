@@ -9,12 +9,6 @@ top_cards:
 - name: Unholy Heat
   weight: 1.0
   avg_copies: 4.0
-- name: Flame of Anor
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mishra's Bauble
-  weight: 1.0
-  avg_copies: 4.0
 - name: Lórien Revealed
   weight: 1.0
   avg_copies: 4.0
@@ -22,6 +16,12 @@ top_cards:
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mishra's Bauble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flame of Anor
   weight: 1.0
   avg_copies: 4.0
 - name: Thundertrap Trainer
@@ -42,16 +42,16 @@ top_cards:
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 2.43
-- name: Blood Moon
-  weight: 1.0
-  avg_copies: 2.0
 - name: Snapcaster Mage
   weight: 1.0
   avg_copies: 2.0
-- name: Flare of Denial
+- name: Blood Moon
   weight: 1.0
   avg_copies: 2.0
 - name: Thundering Falls
+  weight: 1.0
+  avg_copies: 2.0
+- name: Flare of Denial
   weight: 1.0
   avg_copies: 2.0
 - name: Dress Down
@@ -90,10 +90,10 @@ top_cards:
 - name: card:volatile-stormdrake
   weight: 0.4
   avg_copies: 2.5
-- name: card:minor-misstep
+- name: Arena of Glory
   weight: 0.4
   avg_copies: 2.0
-- name: Arena of Glory
+- name: card:minor-misstep
   weight: 0.4
   avg_copies: 2.0
 - name: Bonecrusher Giant
@@ -111,9 +111,6 @@ top_cards:
 - name: card:tectonic-giant
   weight: 0.2
   avg_copies: 3.0
-- name: Spell Pierce
-  weight: 0.2
-  avg_copies: 2.0
 - name: Twinflame Tyrant
   weight: 0.2
   avg_copies: 2.0
@@ -123,16 +120,19 @@ top_cards:
 - name: Marang River Regent
   weight: 0.2
   avg_copies: 2.0
-- name: Stern Scolding
+- name: Spell Pierce
   weight: 0.2
-  avg_copies: 1.0
-- name: Brazen Borrower
+  avg_copies: 2.0
+- name: Annul
   weight: 0.2
   avg_copies: 1.0
 - name: Chalice of the Void
   weight: 0.2
   avg_copies: 1.0
-- name: Annul
+- name: Stern Scolding
+  weight: 0.2
+  avg_copies: 1.0
+- name: Brazen Borrower
   weight: 0.2
   avg_copies: 1.0
 - name: Damping Sphere

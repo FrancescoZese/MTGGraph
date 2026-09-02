@@ -6,7 +6,7 @@ name: Grafdigger's Cage
 scryfall_id: 0a135e09-b534-4836-9a10-3a9a4a9f8c53
 set: m20
 type: Artifact
-meta_presence: 0.1202
+meta_presence: 0.1204
 archetypes:
   boros-energy:
     weight: 0.005
@@ -48,7 +48,7 @@ archetypes:
     weight: 0.7959
     avg_copies: 1.01
   orzhov-blink:
-    weight: 0.1905
+    weight: 0.1818
     avg_copies: 1.25
   izzet-artifacts:
     weight: 0.0625
@@ -93,7 +93,7 @@ archetypes:
     weight: 0.3846
     avg_copies: 1.4
   unknown-61:
-    weight: 0.1742
+    weight: 0.1729
     avg_copies: 1.65
   unknown-53:
     weight: 1.0
@@ -123,7 +123,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0092
+    weight: 0.0091
     avg_copies: 1.0
   unknown-159:
     weight: 1.0
@@ -135,8 +135,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-194:
-    weight: 0.9844
-    avg_copies: 1.27
+    weight: 0.9848
+    avg_copies: 1.3
   unknown-211:
     weight: 0.1111
     avg_copies: 2.0
@@ -154,7 +154,7 @@ archetypes:
     avg_copies: 2.0
   unknown-265:
     weight: 1.0
-    avg_copies: 1.12
+    avg_copies: 1.22
   unknown-273:
     weight: 1.0
     avg_copies: 1.0

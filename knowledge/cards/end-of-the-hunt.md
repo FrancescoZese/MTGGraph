@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0123
     avg_copies: 2.0
   goryo:
-    weight: 0.0195
+    weight: 0.0194
     avg_copies: 1.33
   necrodominance:
     weight: 0.0217
@@ -22,10 +22,10 @@ archetypes:
     weight: 0.009
     avg_copies: 1.0
   esper-blink:
-    weight: 0.0811
+    weight: 0.0807
     avg_copies: 1.11
   orzhov-blink:
-    weight: 0.0476
+    weight: 0.0455
     avg_copies: 2.0
   jund-saga:
     weight: 0.4
