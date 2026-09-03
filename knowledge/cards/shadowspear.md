@@ -21,7 +21,7 @@ archetypes:
     weight: 0.125
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0089
+    weight: 0.0088
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.2812
@@ -30,7 +30,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.0164
+    weight: 0.0161
     avg_copies: 2.0
   the-rock:
     weight: 0.5
@@ -87,19 +87,19 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-167:
-    weight: 0.4
+    weight: 0.4286
     avg_copies: 1.0
   unknown-170:
     weight: 1.0
     avg_copies: 1.0
   unknown-194:
-    weight: 0.0152
+    weight: 0.0133
     avg_copies: 1.0
   unknown-195:
     weight: 1.0
     avg_copies: 1.0
   unknown-213:
-    weight: 0.8571
+    weight: 0.8824
     avg_copies: 1.0
   unknown-234:
     weight: 1.0

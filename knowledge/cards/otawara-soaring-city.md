@@ -6,7 +6,7 @@ name: Otawara, Soaring City
 scryfall_id: 486d7edc-d983-41f0-8b78-c99aecd72996
 set: neo
 type: Legendary Land
-meta_presence: 0.1182
+meta_presence: 0.1179
 archetypes:
   ruby-storm:
     weight: 0.0073
@@ -18,7 +18,7 @@ archetypes:
     weight: 0.9511
     avg_copies: 1.0
   goryo:
-    weight: 0.0043
+    weight: 0.0042
     avg_copies: 1.0
   azorius-control:
     weight: 0.6818
@@ -27,10 +27,10 @@ archetypes:
     weight: 0.7215
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.3662
+    weight: 0.3562
     avg_copies: 1.0
   affinity:
-    weight: 0.0659
+    weight: 0.0655
     avg_copies: 1.0
   mill:
     weight: 0.8718
@@ -40,12 +40,12 @@ archetypes:
     avg_copies: 1.0
   mono-blue-tron:
     weight: 1.0
-    avg_copies: 1.58
+    avg_copies: 1.56
   kethis-combo:
     weight: 1.0
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.5545
+    weight: 0.549
     avg_copies: 1.0
   izzet-prowess:
     weight: 0.0022
@@ -81,7 +81,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-6:
-    weight: 0.7895
+    weight: 0.8
     avg_copies: 1.0
   unknown-10:
     weight: 0.6667
@@ -111,7 +111,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.738
+    weight: 0.7407
     avg_copies: 1.0
   unknown-59:
     weight: 0.5
@@ -126,13 +126,13 @@ archetypes:
     weight: 0.3448
     avg_copies: 1.0
   unknown-67:
-    weight: 0.3304
+    weight: 0.3274
     avg_copies: 1.0
   unknown-73:
     weight: 1.0
     avg_copies: 1.0
   unknown-76:
-    weight: 0.6667
+    weight: 0.6
     avg_copies: 1.0
   unknown-82:
     weight: 1.0
@@ -181,7 +181,7 @@ archetypes:
     avg_copies: 1.0
   unknown-167:
     weight: 1.0
-    avg_copies: 1.2
+    avg_copies: 1.19
   unknown-163:
     weight: 1.0
     avg_copies: 1.0
@@ -213,7 +213,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-213:
-    weight: 0.9286
+    weight: 0.9412
     avg_copies: 1.0
   unknown-218:
     weight: 1.0
@@ -250,5 +250,8 @@ archetypes:
     avg_copies: 1.0
   unknown-278:
     weight: 1.0
+    avg_copies: 1.0
+  unknown-281:
+    weight: 0.6667
     avg_copies: 1.0
 ---

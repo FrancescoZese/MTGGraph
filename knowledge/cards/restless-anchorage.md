@@ -6,7 +6,7 @@ name: Restless Anchorage
 scryfall_id: e3cab352-734e-454b-8b58-733165f4b3b3
 set: lci
 type: Land
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   azorius-control:
     weight: 0.0091

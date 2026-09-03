@@ -7,7 +7,7 @@ name: Eternal Witness
 scryfall_id: 39704000-65d3-4d39-849e-a3b617376bbc
 set: cmm
 type: Creature — Human Shaman
-meta_presence: 0.0096
+meta_presence: 0.0095
 archetypes:
   jeskai-energy:
     weight: 0.0074
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.4
     avg_copies: 1.0
   unknown-126:
-    weight: 0.3787
+    weight: 0.3596
     avg_copies: 1.0
   unknown-137:
     weight: 1.0

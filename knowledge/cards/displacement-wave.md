@@ -7,10 +7,10 @@ name: Displacement Wave
 scryfall_id: ad6fef1f-6cc9-4e24-a1be-fc313774f28d
 set: ori
 type: Sorcery
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   mono-blue-belcher:
-    weight: 0.0099
+    weight: 0.0097
     avg_copies: 1.0
   unknown-248:
     weight: 0.25

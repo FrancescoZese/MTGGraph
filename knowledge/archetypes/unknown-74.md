@@ -4,22 +4,22 @@ colors:
 - U
 - B
 name: 'Unknown #74'
-meta_share: 0.0003
+meta_share: 0.0002
 list_count: 2
 top_cards:
-- name: Quantum Riddler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Psychic Frog
+- name: Ephemerate
   weight: 1.0
   avg_copies: 4.0
 - name: Phelia, Exuberant Shepherd
   weight: 1.0
   avg_copies: 4.0
-- name: Ephemerate
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Quantum Riddler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
@@ -31,34 +31,28 @@ top_cards:
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 3.0
-- name: Marsh Flats
+- name: Prismatic Ending
   weight: 1.0
   avg_copies: 3.0
-- name: Prismatic Ending
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 3.0
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.33
-- name: Flooded Strand
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 2.0
-- name: Godless Shrine
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 2.0
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.5
-- name: Island
-  weight: 1.0
-  avg_copies: 1.0
-- name: Watery Grave
-  weight: 1.0
-  avg_copies: 1.0
 - name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
-- name: Undercity Sewers
+- name: Island
   weight: 1.0
   avg_copies: 1.0
 - name: Swamp
@@ -67,7 +61,13 @@ top_cards:
 - name: Plains
   weight: 1.0
   avg_copies: 1.0
+- name: Watery Grave
+  weight: 1.0
+  avg_copies: 1.0
 - name: Meticulous Archive
+  weight: 1.0
+  avg_copies: 1.0
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
 - name: Stoneforge Mystic
@@ -82,40 +82,40 @@ top_cards:
 - name: Witch Enchanter
   weight: 0.5
   avg_copies: 2.0
+- name: Teferi, Time Raveler
+  weight: 0.5
+  avg_copies: 2.0
+- name: Relic of Progenitus
+  weight: 0.5
+  avg_copies: 2.0
 - name: Mystical Dispute
   weight: 0.5
   avg_copies: 2.0
 - name: Fatal Push
   weight: 0.5
   avg_copies: 2.0
-- name: Relic of Progenitus
-  weight: 0.5
-  avg_copies: 2.0
 - name: Cryptic Coat
-  weight: 0.5
-  avg_copies: 2.0
-- name: Clarion Conqueror
   weight: 0.5
   avg_copies: 2.0
 - name: Surgical Extraction
   weight: 0.5
   avg_copies: 2.0
-- name: Rest in Peace
+- name: Clarion Conqueror
   weight: 0.5
   avg_copies: 2.0
-- name: Teferi, Time Raveler
+- name: Rest in Peace
   weight: 0.5
   avg_copies: 2.0
 - name: Orcish Bowmasters
   weight: 0.5
   avg_copies: 1.5
-- name: Umezawa's Jitte
+- name: Meteor Sword
   weight: 0.5
   avg_copies: 1.0
 - name: Kaldra Compleat
   weight: 0.5
   avg_copies: 1.0
-- name: Meteor Sword
+- name: Umezawa's Jitte
   weight: 0.5
   avg_copies: 1.0
 - name: Gloomlake Verge

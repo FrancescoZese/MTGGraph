@@ -3,7 +3,7 @@ colors:
 - W
 - R
 name: 'Unknown #26'
-meta_share: 0.0029
+meta_share: 0.0028
 list_count: 23
 top_cards:
 - name: Demolition Field
@@ -12,13 +12,13 @@ top_cards:
 - name: Field of Ruin
   weight: 1.0
   avg_copies: 4.0
-- name: Cleansing Wildfire
-  weight: 1.0
-  avg_copies: 3.96
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 3.96
 - name: Price of Freedom
+  weight: 1.0
+  avg_copies: 3.96
+- name: Cleansing Wildfire
   weight: 1.0
   avg_copies: 3.96
 - name: Path to Exile
@@ -117,10 +117,10 @@ top_cards:
 - name: Kor Firewalker
   weight: 0.087
   avg_copies: 2.5
-- name: Celestial Purge
+- name: Engineered Explosives
   weight: 0.087
   avg_copies: 2.0
-- name: Engineered Explosives
+- name: Celestial Purge
   weight: 0.087
   avg_copies: 2.0
 - name: Beza, the Bounding Spring
@@ -132,7 +132,7 @@ top_cards:
 - name: Lightning Helix
   weight: 0.0435
   avg_copies: 4.0
-- name: White Orchid Phantom
+- name: card:kutzil-s-flanker
   weight: 0.0435
   avg_copies: 4.0
 - name: Volcanic Spite
@@ -141,25 +141,25 @@ top_cards:
 - name: Ark of Hunger
   weight: 0.0435
   avg_copies: 4.0
-- name: card:kutzil-s-flanker
+- name: White Orchid Phantom
   weight: 0.0435
   avg_copies: 4.0
-- name: Ragavan, Nimble Pilferer
-  weight: 0.0435
-  avg_copies: 3.0
 - name: Candy Trail
   weight: 0.0435
   avg_copies: 3.0
-- name: Flashback
+- name: Ragavan, Nimble Pilferer
+  weight: 0.0435
+  avg_copies: 3.0
+- name: Hallowed Moonlight
   weight: 0.0435
   avg_copies: 2.0
 - name: March of Otherworldly Light
   weight: 0.0435
   avg_copies: 2.0
-- name: card:vanish-into-eternity
+- name: Flashback
   weight: 0.0435
   avg_copies: 2.0
-- name: Hallowed Moonlight
+- name: card:vanish-into-eternity
   weight: 0.0435
   avg_copies: 2.0
 - name: Emrakul, the Aeons Torn

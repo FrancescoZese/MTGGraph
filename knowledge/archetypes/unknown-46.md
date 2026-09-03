@@ -6,6 +6,9 @@ name: 'Unknown #46'
 meta_share: 0.001
 list_count: 8
 top_cards:
+- name: Fatal Push
+  weight: 1.0
+  avg_copies: 4.0
 - name: Necrodominance
   weight: 1.0
   avg_copies: 4.0
@@ -15,16 +18,13 @@ top_cards:
 - name: Boggart Trawler
   weight: 1.0
   avg_copies: 4.0
-- name: Fatal Push
-  weight: 1.0
-  avg_copies: 4.0
 - name: Swamp
   weight: 1.0
   avg_copies: 3.62
-- name: Orcish Bowmasters
+- name: Witherbloom Charm
   weight: 1.0
   avg_copies: 3.5
-- name: Witherbloom Charm
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.5
 - name: Thoughtseize
@@ -45,6 +45,12 @@ top_cards:
 - name: Culling Ritual
   weight: 1.0
   avg_copies: 2.12
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 2.0
+- name: March of Wretched Sorrow
+  weight: 1.0
+  avg_copies: 2.0
 - name: Ashiok, Dream Render
   weight: 1.0
   avg_copies: 2.0
@@ -55,12 +61,6 @@ top_cards:
   weight: 1.0
   avg_copies: 2.0
 - name: Castle Locthwain
-  weight: 1.0
-  avg_copies: 2.0
-- name: March of Wretched Sorrow
-  weight: 1.0
-  avg_copies: 2.0
-- name: Marsh Flats
   weight: 1.0
   avg_copies: 2.0
 - name: Professor Dellian Fel

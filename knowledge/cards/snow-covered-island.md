@@ -6,7 +6,7 @@ name: Snow-Covered Island
 scryfall_id: 3bfa5ebc-5623-4eec-89ea-dc187489ee4a
 set: khm
 type: Basic Snow Land — Island
-meta_presence: 0.0317
+meta_presence: 0.0316
 archetypes:
   dimir-control:
     weight: 0.0123
@@ -15,7 +15,7 @@ archetypes:
     weight: 0.0593
     avg_copies: 1.0
   affinity:
-    weight: 0.0173
+    weight: 0.0172
     avg_copies: 1.41
   mill:
     weight: 0.2821
@@ -24,16 +24,16 @@ archetypes:
     weight: 0.5492
     avg_copies: 1.03
   mono-blue-tron:
-    weight: 0.0769
+    weight: 0.0741
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.9703
+    weight: 0.9706
     avg_copies: 1.94
   esper-blink:
-    weight: 0.009
+    weight: 0.0086
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.0139
+    weight: 0.0137
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.0312
@@ -54,7 +54,7 @@ archetypes:
     weight: 0.0417
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0214
+    weight: 0.0212
     avg_copies: 1.25
   unknown-49:
     weight: 0.0769
@@ -93,10 +93,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-238:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 1.0
   unknown-265:
-    weight: 0.1111
+    weight: 0.0909
     avg_copies: 1.0
   unknown-281:
     weight: 1.0

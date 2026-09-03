@@ -13,7 +13,7 @@ archetypes:
     weight: 0.1481
     avg_copies: 3.25
   simic-ritual:
-    weight: 0.0099
+    weight: 0.0098
     avg_copies: 3.0
   soultrader-combo:
     weight: 1.0
@@ -26,7 +26,7 @@ archetypes:
     avg_copies: 2.5
   unknown-45:
     weight: 1.0
-    avg_copies: 2.72
+    avg_copies: 2.73
   unknown-50:
     weight: 1.0
     avg_copies: 4.0

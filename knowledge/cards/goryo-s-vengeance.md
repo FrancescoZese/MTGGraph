@@ -7,7 +7,7 @@ name: Goryo's Vengeance
 scryfall_id: 6261205d-3506-4f0a-98ce-690f40df7a5a
 set: uma
 type: Instant — Arcane
-meta_presence: 0.0609
+meta_presence: 0.0611
 archetypes:
   goryo:
     weight: 1.0
@@ -31,6 +31,9 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-229:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-283:
     weight: 1.0
     avg_copies: 4.0
 ---

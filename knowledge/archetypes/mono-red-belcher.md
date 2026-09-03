@@ -3,19 +3,16 @@ colors:
 - R
 - G
 name: Mono Red Belcher
-meta_share: 0.0018
+meta_share: 0.0017
 list_count: 14
 top_cards:
 - name: Goblin Charbelcher
   weight: 1.0
   avg_copies: 4.0
-- name: Stormscale Scion
-  weight: 1.0
-  avg_copies: 4.0
 - name: Shatterskull Smashing
   weight: 1.0
   avg_copies: 4.0
-- name: Desperate Ritual
+- name: Stormscale Scion
   weight: 1.0
   avg_copies: 4.0
 - name: Manamorphose
@@ -24,13 +21,16 @@ top_cards:
 - name: Pyretic Ritual
   weight: 1.0
   avg_copies: 4.0
+- name: Desperate Ritual
+  weight: 1.0
+  avg_copies: 4.0
 - name: Irencrag Feat
   weight: 1.0
   avg_copies: 3.93
-- name: Strike It Rich
+- name: Sundering Eruption
   weight: 1.0
   avg_copies: 3.93
-- name: Sundering Eruption
+- name: Strike It Rich
   weight: 1.0
   avg_copies: 3.93
 - name: Pinnacle Monk
@@ -117,12 +117,6 @@ top_cards:
 - name: Untimely Malfunction
   weight: 0.0714
   avg_copies: 3.0
-- name: Kraza, the Swarm as One
-  weight: 0.0714
-  avg_copies: 2.0
-- name: card:spider-punk
-  weight: 0.0714
-  avg_copies: 2.0
 - name: Phlage, Titan of Fire's Fury
   weight: 0.0714
   avg_copies: 2.0
@@ -135,13 +129,19 @@ top_cards:
 - name: Serum Powder
   weight: 0.0714
   avg_copies: 2.0
+- name: card:spider-punk
+  weight: 0.0714
+  avg_copies: 2.0
+- name: Kraza, the Swarm as One
+  weight: 0.0714
+  avg_copies: 2.0
 - name: Rush of Inspiration
   weight: 0.0714
   avg_copies: 1.0
-- name: Trinisphere
+- name: The Legend of Roku
   weight: 0.0714
   avg_copies: 1.0
-- name: The Legend of Roku
+- name: Trinisphere
   weight: 0.0714
   avg_copies: 1.0
 ---

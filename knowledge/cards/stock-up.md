@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0073
     avg_copies: 3.0
   mono-blue-belcher:
-    weight: 0.3465
+    weight: 0.3592
     avg_copies: 1.08
   jeskai-energy:
     weight: 0.0148
@@ -22,17 +22,17 @@ archetypes:
     weight: 0.4185
     avg_copies: 2.04
   goryo:
-    weight: 0.0065
+    weight: 0.0064
     avg_copies: 1.0
   azorius-control:
     weight: 0.2364
     avg_copies: 1.62
   jeskai-control:
-    weight: 0.2113
+    weight: 0.2055
     avg_copies: 1.67
   mono-blue-tron:
-    weight: 0.9615
-    avg_copies: 3.8
+    weight: 0.963
+    avg_copies: 3.81
   4c-omnath:
     weight: 0.25
     avg_copies: 2.0

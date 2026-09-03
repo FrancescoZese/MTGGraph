@@ -6,16 +6,16 @@ name: Boseiju, Who Endures
 scryfall_id: 2135ac5a-187b-4dc9-8f82-34e8d1603416
 set: neo
 type: Legendary Land
-meta_presence: 0.1979
+meta_presence: 0.1992
 archetypes:
   ruby-storm:
-    weight: 0.0256
+    weight: 0.0255
     avg_copies: 1.7
   jeskai-energy:
     weight: 0.0074
     avg_copies: 2.0
   eldrazi-tron:
-    weight: 0.043
+    weight: 0.0427
     avg_copies: 1.0
   amulet-titan:
     weight: 1.0
@@ -36,10 +36,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.89
   eldrazi-ramp:
-    weight: 0.2482
+    weight: 0.2535
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.9406
+    weight: 0.9412
     avg_copies: 1.18
   4c-omnath:
     weight: 0.25
@@ -72,8 +72,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.2459
-    avg_copies: 1.27
+    weight: 0.2581
+    avg_copies: 1.26
   scapeshift-combo:
     weight: 1.0
     avg_copies: 1.33
@@ -93,7 +93,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-6:
-    weight: 0.3684
+    weight: 0.4
     avg_copies: 1.0
   unknown-8:
     weight: 0.6667
@@ -108,7 +108,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-61:
-    weight: 0.8271
+    weight: 0.8357
     avg_copies: 1.06
   unknown-59:
     weight: 1.0
@@ -117,11 +117,11 @@ archetypes:
     weight: 0.9655
     avg_copies: 1.0
   unknown-67:
-    weight: 0.4554
+    weight: 0.4513
     avg_copies: 1.0
   unknown-76:
     weight: 1.0
-    avg_copies: 2.8
+    avg_copies: 2.82
   unknown-84:
     weight: 0.6667
     avg_copies: 1.0
@@ -148,7 +148,7 @@ archetypes:
     avg_copies: 1.0
   unknown-126:
     weight: 1.0
-    avg_copies: 1.37
+    avg_copies: 1.38
   unknown-130:
     weight: 1.0
     avg_copies: 1.0
@@ -171,7 +171,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-167:
-    weight: 0.2
+    weight: 0.1905
     avg_copies: 1.0
   unknown-172:
     weight: 1.0
@@ -187,7 +187,7 @@ archetypes:
     avg_copies: 1.5
   unknown-194:
     weight: 1.0
-    avg_copies: 1.89
+    avg_copies: 1.91
   unknown-196:
     weight: 1.0
     avg_copies: 1.0

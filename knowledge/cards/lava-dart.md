@@ -7,7 +7,7 @@ name: Lava Dart
 scryfall_id: b16dd041-451d-4914-8c46-aa315a90d802
 set: mh1
 type: Instant
-meta_presence: 0.0677
+meta_presence: 0.0684
 archetypes:
   izzet-prowess:
     weight: 0.9978
@@ -28,7 +28,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.75
   unknown-96:
-    weight: 0.0526
+    weight: 0.0506
     avg_copies: 1.2
   unknown-122:
     weight: 1.0
@@ -45,4 +45,7 @@ archetypes:
   unknown-222:
     weight: 1.0
     avg_copies: 3.0
+  unknown-232:
+    weight: 0.5
+    avg_copies: 2.0
 ---

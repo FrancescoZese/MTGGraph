@@ -6,10 +6,10 @@ name: Steam Vents
 scryfall_id: b66daa94-d367-4812-9f18-f35378c1febb
 set: ecl
 type: Land — Island Mountain
-meta_presence: 0.2889
+meta_presence: 0.2881
 archetypes:
   ruby-storm:
-    weight: 0.1612
+    weight: 0.1636
     avg_copies: 1.09
   boros-energy:
     weight: 0.0025
@@ -30,7 +30,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.1
   affinity:
-    weight: 0.9705
+    weight: 0.9707
     avg_copies: 1.3
   domain-zoo:
     weight: 1.0
@@ -42,7 +42,7 @@ archetypes:
     weight: 0.7778
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0495
+    weight: 0.049
     avg_copies: 1.0
   izzet-prowess:
     weight: 1.0
@@ -88,7 +88,7 @@ archetypes:
     avg_copies: 4.0
   unknown-6:
     weight: 1.0
-    avg_copies: 1.42
+    avg_copies: 1.45
   unknown-10:
     weight: 1.0
     avg_copies: 1.0
@@ -123,7 +123,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-47:
-    weight: 0.016
+    weight: 0.0159
     avg_copies: 1.0
   unknown-49:
     weight: 0.9231
@@ -177,7 +177,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-100:
-    weight: 0.8
+    weight: 0.8571
     avg_copies: 1.0
   unknown-104:
     weight: 1.0
@@ -246,13 +246,13 @@ archetypes:
     weight: 1.0
     avg_copies: 3.25
   unknown-160:
-    weight: 0.0091
+    weight: 0.0086
     avg_copies: 1.0
   unknown-166:
     weight: 1.0
     avg_copies: 2.0
   unknown-167:
-    weight: 0.05
+    weight: 0.0476
     avg_copies: 2.0
   unknown-171:
     weight: 1.0
@@ -332,4 +332,7 @@ archetypes:
   unknown-274:
     weight: 1.0
     avg_copies: 2.0
+  unknown-281:
+    weight: 0.6667
+    avg_copies: 1.0
 ---

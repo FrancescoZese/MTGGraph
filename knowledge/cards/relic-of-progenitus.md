@@ -6,32 +6,32 @@ name: Relic of Progenitus
 scryfall_id: 436cd66c-0622-43cd-8748-af4d21a2db3f
 set: ema
 type: Artifact
-meta_presence: 0.028
+meta_presence: 0.0283
 archetypes:
   dimir-control:
     weight: 0.0123
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.1547
+    weight: 0.1567
     avg_copies: 1.07
   amulet-titan:
     weight: 0.0652
     avg_copies: 1.75
   goryo:
-    weight: 0.0043
+    weight: 0.0042
     avg_copies: 1.0
   azorius-control:
     weight: 0.0091
     avg_copies: 4.0
   affinity:
-    weight: 0.0225
+    weight: 0.0224
     avg_copies: 1.0
   burn:
     weight: 0.0233
     avg_copies: 2.0
   mono-blue-tron:
-    weight: 0.1538
-    avg_copies: 2.0
+    weight: 0.1852
+    avg_copies: 1.86
   mono-red-belcher:
     weight: 0.0714
     avg_copies: 4.0
@@ -39,13 +39,13 @@ archetypes:
     weight: 0.0426
     avg_copies: 2.33
   eldrazi-ramp:
-    weight: 0.0071
+    weight: 0.007
     avg_copies: 2.0
   esper-blink:
-    weight: 0.009
+    weight: 0.0086
     avg_copies: 2.25
   orzhov-blink:
-    weight: 0.4091
+    weight: 0.3913
     avg_copies: 2.9
   bant-control:
     weight: 1.0
@@ -75,25 +75,25 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-61:
-    weight: 0.0075
+    weight: 0.0071
     avg_copies: 1.0
   unknown-74:
     weight: 0.5
     avg_copies: 2.0
   unknown-76:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 1.0
   unknown-78:
     weight: 1.0
-    avg_copies: 4.0
+    avg_copies: 3.5
   unknown-77:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 2.0
   unknown-87:
     weight: 1.0
     avg_copies: 1.5
   unknown-96:
-    weight: 0.0132
+    weight: 0.0127
     avg_copies: 2.0
   unknown-108:
     weight: 1.0
@@ -120,13 +120,13 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-160:
-    weight: 0.1
-    avg_copies: 1.94
+    weight: 0.1034
+    avg_copies: 2.1
   unknown-162:
     weight: 1.0
     avg_copies: 2.33
   unknown-167:
-    weight: 0.35
+    weight: 0.3333
     avg_copies: 1.0
   unknown-169:
     weight: 1.0
@@ -138,7 +138,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-213:
-    weight: 0.1429
+    weight: 0.1765
     avg_copies: 1.0
   unknown-219:
     weight: 1.0
@@ -147,7 +147,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-265:
-    weight: 0.3333
+    weight: 0.2727
     avg_copies: 1.0
   unknown-278:
     weight: 0.5

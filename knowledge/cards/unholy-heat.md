@@ -7,7 +7,7 @@ name: Unholy Heat
 scryfall_id: 4e879386-b1f8-4f2a-9820-6e1291746f88
 set: otc
 type: Instant
-meta_presence: 0.1029
+meta_presence: 0.1033
 archetypes:
   jeskai-energy:
     weight: 0.0741
@@ -22,13 +22,13 @@ archetypes:
     weight: 0.2059
     avg_copies: 1.88
   eldrazi-ramp:
-    weight: 0.5461
+    weight: 0.5423
     avg_copies: 2.06
   izzet-prowess:
-    weight: 0.9483
-    avg_copies: 2.46
+    weight: 0.9496
+    avg_copies: 2.47
   broodscale-combo:
-    weight: 0.4349
+    weight: 0.4366
     avg_copies: 2.09
   dredge:
     weight: 0.0714
@@ -61,8 +61,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-6:
-    weight: 0.8947
-    avg_copies: 1.88
+    weight: 0.9
+    avg_copies: 1.89
   unknown-1:
     weight: 0.2
     avg_copies: 2.33
@@ -100,7 +100,7 @@ archetypes:
     weight: 0.5833
     avg_copies: 3.57
   unknown-96:
-    weight: 0.0395
+    weight: 0.038
     avg_copies: 1.67
   unknown-90:
     weight: 1.0
@@ -109,8 +109,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.67
   unknown-122:
-    weight: 0.9429
-    avg_copies: 2.77
+    weight: 0.9444
+    avg_copies: 2.71
   unknown-128:
     weight: 1.0
     avg_copies: 2.0
@@ -118,7 +118,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-167:
-    weight: 0.05
+    weight: 0.0476
     avg_copies: 3.0
   unknown-174:
     weight: 0.3333
@@ -130,8 +130,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-194:
-    weight: 0.0909
-    avg_copies: 1.75
+    weight: 0.0933
+    avg_copies: 1.79
   unknown-263:
     weight: 1.0
     avg_copies: 2.0

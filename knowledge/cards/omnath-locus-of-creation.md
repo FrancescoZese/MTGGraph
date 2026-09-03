@@ -10,7 +10,7 @@ name: Omnath, Locus of Creation
 scryfall_id: 4e4fb50c-a81f-44d3-93c5-fa9a0b37f617
 set: znr
 type: Legendary Creature — Elemental
-meta_presence: 0.0026
+meta_presence: 0.0027
 archetypes:
   jeskai-energy:
     weight: 0.0074
@@ -32,7 +32,7 @@ archetypes:
     avg_copies: 2.5
   unknown-238:
     weight: 1.0
-    avg_copies: 3.75
+    avg_copies: 3.8
   unknown-242:
     weight: 1.0
     avg_copies: 3.0

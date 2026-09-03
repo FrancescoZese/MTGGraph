@@ -6,13 +6,13 @@ name: Kessig Wolf Run
 scryfall_id: 32da0d6c-64dd-4aec-b63e-953e96164603
 set: tdc
 type: Land
-meta_presence: 0.0008
+meta_presence: 0.0007
 archetypes:
   amulet-titan:
     weight: 0.0163
     avg_copies: 1.0
   unknown-76:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 1.0
   unknown-249:
     weight: 1.0

@@ -5,33 +5,36 @@ colors:
 - R
 - G
 name: 'Unknown #237'
-meta_share: 0.0003
+meta_share: 0.0002
 list_count: 2
 top_cards:
-- name: Quantum Riddler
+- name: Birthing Ritual
   weight: 1.0
   avg_copies: 4.0
-- name: Birthing Ritual
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline Binding
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
-  weight: 1.0
-  avg_copies: 4.0
 - name: Windswept Heath
   weight: 1.0
   avg_copies: 4.0
-- name: Risen Reef
+- name: Solitude
+  weight: 1.0
+  avg_copies: 4.0
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
 - name: Voice of Resurgence
   weight: 1.0
   avg_copies: 3.0
-- name: Consign to Memory
+- name: Risen Reef
   weight: 1.0
   avg_copies: 3.0
+- name: Ephemerate
+  weight: 1.0
+  avg_copies: 2.5
 - name: White Orchid Phantom
   weight: 1.0
   avg_copies: 2.5
@@ -39,9 +42,6 @@ top_cards:
   weight: 1.0
   avg_copies: 2.5
 - name: Omnath, Locus of Creation
-  weight: 1.0
-  avg_copies: 2.5
-- name: Ephemerate
   weight: 1.0
   avg_copies: 2.5
 - name: Flooded Strand
@@ -56,16 +56,19 @@ top_cards:
 - name: Witch Enchanter
   weight: 1.0
   avg_copies: 1.5
-- name: Stomping Ground
-  weight: 1.0
-  avg_copies: 1.0
-- name: Overgrown Tomb
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 1.0
 - name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Plains
+  weight: 1.0
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 1.0
+  avg_copies: 1.0
+- name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
 - name: Indatha Triome
@@ -74,25 +77,22 @@ top_cards:
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Wooded Foothills
-  weight: 1.0
-  avg_copies: 1.0
-- name: Temple Garden
+- name: Forest
   weight: 1.0
   avg_copies: 1.0
 - name: Raugrin Triome
   weight: 1.0
   avg_copies: 1.0
-- name: Plains
+- name: Overgrown Tomb
   weight: 1.0
   avg_copies: 1.0
-- name: Forest
+- name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
 - name: card:starfield-vocalist
@@ -107,28 +107,28 @@ top_cards:
 - name: Psychic Frog
   weight: 0.5
   avg_copies: 3.0
-- name: Pest Control
+- name: Teferi, Time Raveler
   weight: 0.5
   avg_copies: 2.0
 - name: Renegade Rallier
   weight: 0.5
   avg_copies: 2.0
-- name: Coiling Oracle
-  weight: 0.5
-  avg_copies: 2.0
 - name: High Noon
   weight: 0.5
   avg_copies: 2.0
-- name: Teferi, Time Raveler
+- name: Pest Control
   weight: 0.5
   avg_copies: 2.0
-- name: Elesh Norn, Mother of Machines
+- name: Coiling Oracle
   weight: 0.5
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: card:shriekmaw
   weight: 0.5
   avg_copies: 1.0
 - name: Eternal Witness
+  weight: 0.5
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
   weight: 0.5
   avg_copies: 1.0
 ---

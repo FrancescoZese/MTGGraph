@@ -11,7 +11,7 @@ type: Instant
 meta_presence: 0.0094
 archetypes:
   jeskai-control:
-    weight: 0.0141
+    weight: 0.0137
     avg_copies: 2.0
   affinity:
     weight: 0.0017

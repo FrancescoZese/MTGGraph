@@ -6,12 +6,12 @@ name: Postmortem Lunge
 scryfall_id: d5f8b46e-1ad3-4c6e-aa63-376f2d222d46
 set: nph
 type: Sorcery
-meta_presence: 0.0005
+meta_presence: 0.0006
 archetypes:
   devoted-combo:
     weight: 1.0
     avg_copies: 2.0
   unknown-126:
-    weight: 0.0178
-    avg_copies: 1.33
+    weight: 0.0225
+    avg_copies: 1.25
 ---

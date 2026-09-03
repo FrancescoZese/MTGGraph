@@ -10,13 +10,13 @@ type: Sorcery
 meta_presence: 0.0106
 archetypes:
   goryo:
-    weight: 0.0862
+    weight: 0.0849
     avg_copies: 1.0
   domain-zoo:
     weight: 0.2129
     avg_copies: 1.09
   azorius-blink:
-    weight: 0.0139
+    weight: 0.0137
     avg_copies: 1.0
   unknown-5:
     weight: 0.0769
@@ -27,6 +27,9 @@ archetypes:
   unknown-93:
     weight: 0.8
     avg_copies: 1.25
+  unknown-100:
+    weight: 0.1429
+    avg_copies: 1.0
   unknown-127:
     weight: 0.1667
     avg_copies: 1.0

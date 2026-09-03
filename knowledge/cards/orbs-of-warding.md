@@ -6,10 +6,10 @@ name: Orbs of Warding
 scryfall_id: c33ba4e5-217f-47e3-a6ce-f935a70c7566
 set: ori
 type: Artifact
-meta_presence: 0.0003
+meta_presence: 0.0004
 archetypes:
   eldrazi-tron:
-    weight: 0.0029
+    weight: 0.0028
     avg_copies: 1.0
   unknown-280:
     weight: 1.0

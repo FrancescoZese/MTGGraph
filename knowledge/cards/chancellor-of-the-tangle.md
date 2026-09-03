@@ -10,6 +10,6 @@ type: Creature — Phyrexian Beast
 meta_presence: 0.0031
 archetypes:
   cosmogoyf-fling:
-    weight: 0.4098
+    weight: 0.4032
     avg_copies: 3.88
 ---

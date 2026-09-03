@@ -16,7 +16,7 @@ archetypes:
     weight: 0.0127
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.0282
+    weight: 0.0274
     avg_copies: 2.0
   neoform-combo:
     weight: 0.0082
@@ -34,7 +34,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-67:
-    weight: 0.0089
+    weight: 0.0088
     avg_copies: 1.0
   unknown-104:
     weight: 1.0

@@ -45,10 +45,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.11
-- name: Force of Negation
+- name: Pyroclasm
   weight: 1.0
   avg_copies: 2.0
-- name: Pyroclasm
+- name: Force of Negation
   weight: 1.0
   avg_copies: 2.0
 - name: Griselbrand
@@ -63,22 +63,22 @@ top_cards:
 - name: Watery Grave
   weight: 1.0
   avg_copies: 1.11
-- name: Island
-  weight: 1.0
-  avg_copies: 1.0
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
-- name: Steam Vents
+- name: Island
+  weight: 1.0
+  avg_copies: 1.0
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
 - name: Thundering Falls
   weight: 1.0
   avg_copies: 1.0
-- name: Undercity Sewers
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
 - name: Emperor of Bones
@@ -87,10 +87,10 @@ top_cards:
 - name: Spell Snare
   weight: 0.8889
   avg_copies: 2.75
-- name: Surgical Extraction
+- name: Nihil Spellbomb
   weight: 0.8889
   avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Surgical Extraction
   weight: 0.8889
   avg_copies: 1.0
 - name: Ulamog, the Defiler
@@ -117,16 +117,16 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 0.1111
   avg_copies: 4.0
-- name: Traumatic Critique
-  weight: 0.1111
-  avg_copies: 3.0
 - name: Subtlety
   weight: 0.1111
   avg_copies: 3.0
-- name: Damping Sphere
+- name: Traumatic Critique
+  weight: 0.1111
+  avg_copies: 3.0
+- name: Pithing Needle
   weight: 0.1111
   avg_copies: 2.0
-- name: Pithing Needle
+- name: Damping Sphere
   weight: 0.1111
   avg_copies: 2.0
 - name: Kavaero, Mind-Bitten

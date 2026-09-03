@@ -6,40 +6,40 @@ colors:
 - R
 - G
 name: 'Unknown #127'
-meta_share: 0.0008
+meta_share: 0.0007
 list_count: 6
 top_cards:
-- name: Bloodstained Mire
-  weight: 1.0
-  avg_copies: 4.0
-- name: Doorkeeper Thrull
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ragavan, Nimble Pilferer
-  weight: 1.0
-  avg_copies: 4.0
 - name: Wooded Foothills
-  weight: 1.0
-  avg_copies: 4.0
-- name: Leyline Binding
   weight: 1.0
   avg_copies: 4.0
 - name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline of the Guildpact
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
 - name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
-- name: Lightning Bolt
+- name: Leyline Binding
+  weight: 1.0
+  avg_copies: 4.0
+- name: Leyline of the Guildpact
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 4.0
+- name: Doorkeeper Thrull
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ragavan, Nimble Pilferer
+  weight: 1.0
+  avg_copies: 4.0
+- name: Kroxa, Titan of Death's Hunger
   weight: 1.0
   avg_copies: 3.67
-- name: Kroxa, Titan of Death's Hunger
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 3.67
 - name: Wrath of the Skies
@@ -57,34 +57,34 @@ top_cards:
 - name: Arena of Glory
   weight: 1.0
   avg_copies: 2.0
-- name: Obsidian Charmaw
+- name: Wear
   weight: 1.0
   avg_copies: 2.0
-- name: Wear
+- name: Obsidian Charmaw
   weight: 1.0
   avg_copies: 2.0
 - name: High Noon
   weight: 1.0
   avg_copies: 1.33
-- name: Overgrown Tomb
-  weight: 1.0
-  avg_copies: 1.0
-- name: Steam Vents
+- name: Zagoth Triome
   weight: 1.0
   avg_copies: 1.0
 - name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Zagoth Triome
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
-- name: Godless Shrine
+- name: Steam Vents
+  weight: 1.0
+  avg_copies: 1.0
+- name: Overgrown Tomb
   weight: 1.0
   avg_copies: 1.0
 - name: Swamp
@@ -102,19 +102,19 @@ top_cards:
 - name: Nishoba Brawler
   weight: 0.1667
   avg_copies: 2.0
+- name: Nihil Spellbomb
+  weight: 0.1667
+  avg_copies: 1.0
 - name: Pest Control
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Winternight Stories
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Scalding Tarn
   weight: 0.1667
   avg_copies: 1.0
 - name: Clarion Conqueror
   weight: 0.1667
   avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Scalding Tarn
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Winternight Stories
   weight: 0.1667
   avg_copies: 1.0
 ---

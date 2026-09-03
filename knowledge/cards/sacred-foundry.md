@@ -6,10 +6,10 @@ name: Sacred Foundry
 scryfall_id: 8b4e2642-3c87-4708-b9b4-2e7f7359ac7d
 set: eoe
 type: Land — Mountain Plains
-meta_presence: 0.2444
+meta_presence: 0.2438
 archetypes:
   ruby-storm:
-    weight: 0.9487
+    weight: 0.9491
     avg_copies: 1.1
   boros-energy:
     weight: 1.0
@@ -21,7 +21,7 @@ archetypes:
     weight: 0.0364
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.6197
+    weight: 0.6301
     avg_copies: 1.0
   affinity:
     weight: 0.0017
@@ -39,7 +39,7 @@ archetypes:
     weight: 0.9787
     avg_copies: 3.24
   izzet-prowess:
-    weight: 0.018
+    weight: 0.0175
     avg_copies: 1.0
   4c-omnath:
     weight: 1.0
@@ -51,10 +51,10 @@ archetypes:
     weight: 0.8125
     avg_copies: 1.0
   orzhov-blink:
-    weight: 0.1818
+    weight: 0.1739
     avg_copies: 1.0
   azorius-blink:
-    weight: 0.1528
+    weight: 0.1507
     avg_copies: 1.09
   scapeshift-combo:
     weight: 0.1667
@@ -105,7 +105,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-67:
-    weight: 0.2679
+    weight: 0.2743
     avg_copies: 1.0
   unknown-68:
     weight: 1.0
@@ -129,19 +129,19 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.0
   unknown-77:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
   unknown-93:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
     weight: 1.0
-    avg_copies: 3.11
+    avg_copies: 3.09
   unknown-99:
     weight: 1.0
     avg_copies: 1.0
   unknown-100:
-    weight: 0.4
+    weight: 0.4286
     avg_copies: 1.0
   unknown-101:
     weight: 0.0588
@@ -168,7 +168,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-122:
-    weight: 0.0286
+    weight: 0.0278
     avg_copies: 1.0
   unknown-127:
     weight: 1.0
@@ -196,7 +196,7 @@ archetypes:
     avg_copies: 1.0
   unknown-160:
     weight: 1.0
-    avg_copies: 2.82
+    avg_copies: 2.81
   unknown-159:
     weight: 1.0
     avg_copies: 2.0
@@ -238,7 +238,7 @@ archetypes:
     avg_copies: 1.0
   unknown-232:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 2.5
   unknown-233:
     weight: 1.0
     avg_copies: 2.0

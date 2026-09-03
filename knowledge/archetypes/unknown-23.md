@@ -3,7 +3,7 @@ colors:
 - R
 - G
 name: 'Unknown #23'
-meta_share: 0.0008
+meta_share: 0.0007
 list_count: 6
 top_cards:
 - name: Dryad of the Ilysian Grove
@@ -15,16 +15,16 @@ top_cards:
 - name: Arboreal Grazer
   weight: 1.0
   avg_copies: 3.83
-- name: Icetill Explorer
-  weight: 1.0
-  avg_copies: 3.67
 - name: Valakut, the Molten Pinnacle
   weight: 1.0
   avg_copies: 3.67
-- name: Wrenn and Six
+- name: Icetill Explorer
+  weight: 1.0
+  avg_copies: 3.67
+- name: Green Sun's Zenith
   weight: 1.0
   avg_copies: 3.5
-- name: Green Sun's Zenith
+- name: Wrenn and Six
   weight: 1.0
   avg_copies: 3.5
 - name: Wooded Foothills
@@ -69,10 +69,10 @@ top_cards:
 - name: Ghost Quarter
   weight: 0.8333
   avg_copies: 1.2
-- name: Dryad Arbor
+- name: Shifting Woodland
   weight: 0.8333
   avg_copies: 1.0
-- name: Shifting Woodland
+- name: Dryad Arbor
   weight: 0.8333
   avg_copies: 1.0
 - name: Lightning Bolt
@@ -105,13 +105,13 @@ top_cards:
 - name: Erode
   weight: 0.3333
   avg_copies: 1.75
-- name: Jetmir's Garden
-  weight: 0.3333
-  avg_copies: 1.0
 - name: Elegant Parlor
   weight: 0.3333
   avg_copies: 1.0
 - name: Sacred Foundry
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Jetmir's Garden
   weight: 0.3333
   avg_copies: 1.0
 - name: Scapeshift
@@ -120,16 +120,16 @@ top_cards:
 - name: Disruptor Flute
   weight: 0.1667
   avg_copies: 2.0
-- name: Fire Magic
+- name: Ghost Vacuum
+  weight: 0.1667
+  avg_copies: 2.0
+- name: High Noon
   weight: 0.1667
   avg_copies: 2.0
 - name: Orim's Chant
   weight: 0.1667
   avg_copies: 2.0
-- name: Ghost Vacuum
-  weight: 0.1667
-  avg_copies: 2.0
-- name: High Noon
+- name: Fire Magic
   weight: 0.1667
   avg_copies: 2.0
 - name: Endurance

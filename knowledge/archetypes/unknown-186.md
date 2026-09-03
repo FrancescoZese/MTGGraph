@@ -7,13 +7,13 @@ name: 'Unknown #186'
 meta_share: 0.0005
 list_count: 4
 top_cards:
-- name: Counterspell
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Counterspell
   weight: 1.0
   avg_copies: 4.0
 - name: Consult the Star Charts
@@ -34,6 +34,9 @@ top_cards:
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.29
+- name: Teferi, Time Raveler
+  weight: 1.0
+  avg_copies: 2.25
 - name: Island
   weight: 1.0
   avg_copies: 2.25
@@ -43,19 +46,16 @@ top_cards:
 - name: Solitude
   weight: 1.0
   avg_copies: 2.25
-- name: Teferi, Time Raveler
+- name: Plains
   weight: 1.0
-  avg_copies: 2.25
-- name: Steam Vents
+  avg_copies: 1.75
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.75
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 1.75
-- name: Plains
-  weight: 1.0
-  avg_copies: 1.75
-- name: Meticulous Archive
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.75
 - name: Mystic Gate
@@ -88,28 +88,19 @@ top_cards:
 - name: Field of Ruin
   weight: 0.5
   avg_copies: 2.5
+- name: High Noon
+  weight: 0.5
+  avg_copies: 2.0
 - name: Invert Polarity
   weight: 0.5
   avg_copies: 2.0
 - name: Rest in Peace
   weight: 0.5
   avg_copies: 2.0
-- name: High Noon
-  weight: 0.5
-  avg_copies: 2.0
 - name: Polluted Delta
   weight: 0.5
   avg_copies: 1.0
-- name: March of Otherworldly Light
-  weight: 0.5
-  avg_copies: 1.0
-- name: Force of Negation
-  weight: 0.5
-  avg_copies: 1.0
-- name: Teferi, Hero of Dominaria
-  weight: 0.5
-  avg_copies: 1.0
-- name: Hall of Storm Giants
+- name: Dovin's Veto
   weight: 0.5
   avg_copies: 1.0
 - name: Flame of Anor
@@ -118,7 +109,16 @@ top_cards:
 - name: card:secluded-starforge
   weight: 0.5
   avg_copies: 1.0
-- name: Dovin's Veto
+- name: Force of Negation
+  weight: 0.5
+  avg_copies: 1.0
+- name: March of Otherworldly Light
+  weight: 0.5
+  avg_copies: 1.0
+- name: Hall of Storm Giants
+  weight: 0.5
+  avg_copies: 1.0
+- name: Teferi, Hero of Dominaria
   weight: 0.5
   avg_copies: 1.0
 - name: Misty Rainforest
@@ -130,15 +130,12 @@ top_cards:
 - name: Tune the Narrative
   weight: 0.25
   avg_copies: 2.0
-- name: Prismatic Ending
-  weight: 0.25
-  avg_copies: 2.0
 - name: Archmage's Charm
   weight: 0.25
   avg_copies: 2.0
-- name: Castle Vantress
+- name: Prismatic Ending
   weight: 0.25
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Lórien Revealed
   weight: 0.25
   avg_copies: 1.0
@@ -146,6 +143,9 @@ top_cards:
   weight: 0.25
   avg_copies: 1.0
 - name: Sacred Foundry
+  weight: 0.25
+  avg_copies: 1.0
+- name: Castle Vantress
   weight: 0.25
   avg_copies: 1.0
 ---

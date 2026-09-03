@@ -10,6 +10,6 @@ type: Legendary Planeswalker — Tezzeret
 meta_presence: 0.006
 archetypes:
   mono-blue-belcher:
-    weight: 0.4752
+    weight: 0.4757
     avg_copies: 1.08
 ---

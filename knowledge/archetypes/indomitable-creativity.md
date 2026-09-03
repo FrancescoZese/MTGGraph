@@ -96,10 +96,10 @@ top_cards:
 - name: Spell Snare
   weight: 0.5625
   avg_copies: 1.67
-- name: Raph & Mikey, Troublemakers
+- name: Plains
   weight: 0.5625
   avg_copies: 1.0
-- name: Plains
+- name: Raph & Mikey, Troublemakers
   weight: 0.5625
   avg_copies: 1.0
 - name: Galvanic Discharge
@@ -135,19 +135,19 @@ top_cards:
 - name: Raucous Theater
   weight: 0.25
   avg_copies: 1.0
-- name: Commercial District
-  weight: 0.25
-  avg_copies: 1.0
 - name: Ziatora's Proving Ground
   weight: 0.25
   avg_copies: 1.0
+- name: Commercial District
+  weight: 0.25
+  avg_copies: 1.0
+- name: Thoughtseize
+  weight: 0.1875
+  avg_copies: 4.0
 - name: Persist
   weight: 0.1875
   avg_copies: 4.0
 - name: Faithless Looting
-  weight: 0.1875
-  avg_copies: 4.0
-- name: Thoughtseize
   weight: 0.1875
   avg_copies: 4.0
 - name: Fatal Push
@@ -177,25 +177,34 @@ top_cards:
 - name: Abrupt Decay
   weight: 0.125
   avg_copies: 1.0
-- name: Prismari Command
+- name: Raugrin Triome
   weight: 0.125
   avg_copies: 1.0
-- name: Raugrin Triome
+- name: Prismari Command
   weight: 0.125
   avg_copies: 1.0
 - name: Nature's Claim
   weight: 0.0625
   avg_copies: 3.0
-- name: Planar Genesis
+- name: Serra's Emissary
   weight: 0.0625
   avg_copies: 2.0
-- name: Serra's Emissary
+- name: Planar Genesis
   weight: 0.0625
   avg_copies: 2.0
 - name: Inquisition of Kozilek
   weight: 0.0625
   avg_copies: 1.5
+- name: Turn the Earth
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Swamp
+  weight: 0.0625
+  avg_copies: 1.0
 - name: Molten Collapse
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Witherbloom Command
   weight: 0.0625
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
@@ -204,19 +213,10 @@ top_cards:
 - name: Brainsurge
   weight: 0.0625
   avg_copies: 1.0
-- name: Rest in Peace
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Swamp
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Witherbloom Command
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Turn the Earth
-  weight: 0.0625
-  avg_copies: 1.0
 - name: Vampires' Vengeance
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Rest in Peace
   weight: 0.0625
   avg_copies: 1.0
 ---

@@ -7,9 +7,12 @@ name: Carnage Tyrant
 scryfall_id: 3bd78731-949c-464a-826a-92f86d784911
 set: xln
 type: Creature — Dinosaur
-meta_presence: 0.0001
+meta_presence: 0.0002
 archetypes:
   amulet-titan:
     weight: 0.0054
+    avg_copies: 1.0
+  unknown-61:
+    weight: 0.0071
     avg_copies: 1.0
 ---

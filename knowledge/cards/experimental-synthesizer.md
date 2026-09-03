@@ -7,10 +7,10 @@ name: Experimental Synthesizer
 scryfall_id: c47931c9-685d-4b83-8299-bc347224b4e8
 set: neo
 type: Artifact
-meta_presence: 0.005
+meta_presence: 0.0051
 archetypes:
   affinity:
-    weight: 0.0208
+    weight: 0.0207
     avg_copies: 3.5
   izzet-artifacts:
     weight: 0.0312
@@ -22,8 +22,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-122:
-    weight: 0.4857
-    avg_copies: 3.76
+    weight: 0.5
+    avg_copies: 3.78
   unknown-187:
     weight: 1.0
     avg_copies: 4.0

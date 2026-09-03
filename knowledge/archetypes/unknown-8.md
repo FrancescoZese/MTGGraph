@@ -10,7 +10,10 @@ top_cards:
 - name: Archon of Cruelty
   weight: 1.0
   avg_copies: 4.0
-- name: Fable of the Mirror-Breaker
+- name: Wrenn and Six
+  weight: 1.0
+  avg_copies: 4.0
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
 - name: Indomitable Creativity
@@ -19,10 +22,7 @@ top_cards:
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Wrenn and Six
-  weight: 1.0
-  avg_copies: 4.0
-- name: Arid Mesa
+- name: Fable of the Mirror-Breaker
   weight: 1.0
   avg_copies: 4.0
 - name: Dwarven Mine
@@ -31,19 +31,19 @@ top_cards:
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 3.33
-- name: Persist
-  weight: 1.0
-  avg_copies: 3.33
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 3.33
-- name: Fatal Push
+- name: Persist
   weight: 1.0
-  avg_copies: 2.67
+  avg_copies: 3.33
 - name: Wooded Foothills
   weight: 1.0
   avg_copies: 2.67
 - name: Thoughtseize
+  weight: 1.0
+  avg_copies: 2.67
+- name: Fatal Push
   weight: 1.0
   avg_copies: 2.67
 - name: Mountain
@@ -73,49 +73,49 @@ top_cards:
 - name: Brotherhood's End
   weight: 0.6667
   avg_copies: 2.5
-- name: Untimely Malfunction
+- name: Pyroclasm
   weight: 0.6667
   avg_copies: 2.0
 - name: Terastodon
   weight: 0.6667
   avg_copies: 2.0
-- name: Pyroclasm
+- name: Untimely Malfunction
   weight: 0.6667
   avg_copies: 2.0
 - name: Veil of Summer
   weight: 0.6667
   avg_copies: 2.0
-- name: Assassin's Trophy
-  weight: 0.6667
-  avg_copies: 1.0
 - name: Sokenzan, Crucible of Defiance
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Strategic Betrayal
   weight: 0.6667
   avg_copies: 1.0
 - name: Turn the Earth
   weight: 0.6667
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: Raph & Mikey, Troublemakers
   weight: 0.6667
   avg_copies: 1.0
-- name: Raph & Mikey, Troublemakers
+- name: Assassin's Trophy
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Strategic Betrayal
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Boseiju, Who Endures
   weight: 0.6667
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.3333
   avg_copies: 3.0
-- name: Ashiok, Dream Render
-  weight: 0.3333
-  avg_copies: 2.0
 - name: Culling Ritual
   weight: 0.3333
   avg_copies: 2.0
-- name: Duress
+- name: Ashiok, Dream Render
+  weight: 0.3333
+  avg_copies: 2.0
+- name: Shatter Assumptions
   weight: 0.3333
   avg_copies: 1.0
-- name: Shatter Assumptions
+- name: Duress
   weight: 0.3333
   avg_copies: 1.0
 - name: Bitter Triumph

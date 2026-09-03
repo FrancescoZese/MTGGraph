@@ -16,7 +16,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.8
   goryo:
-    weight: 0.181
+    weight: 0.1805
     avg_copies: 1.25
   necrodominance:
     weight: 0.8696
@@ -40,14 +40,14 @@ archetypes:
     weight: 1.0
     avg_copies: 2.74
   simic-ritual:
-    weight: 0.0396
+    weight: 0.0392
     avg_copies: 2.75
   izzet-prowess:
-    weight: 0.0045
+    weight: 0.0044
     avg_copies: 1.5
   esper-blink:
-    weight: 0.9731
-    avg_copies: 3.62
+    weight: 0.9742
+    avg_copies: 3.63
   samwise-combo:
     weight: 0.5811
     avg_copies: 1.83
@@ -55,11 +55,11 @@ archetypes:
     weight: 0.1875
     avg_copies: 3.33
   broodscale-combo:
-    weight: 0.0207
+    weight: 0.0206
     avg_copies: 1.92
   orzhov-blink:
-    weight: 0.9091
-    avg_copies: 3.18
+    weight: 0.913
+    avg_copies: 3.22
   esper-control:
     weight: 1.0
     avg_copies: 3.0
@@ -76,7 +76,7 @@ archetypes:
     weight: 0.2632
     avg_copies: 1.67
   cosmogoyf-fling:
-    weight: 0.1148
+    weight: 0.1129
     avg_copies: 3.14
   esper-midrange:
     weight: 1.0
@@ -151,8 +151,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-45:
-    weight: 0.125
-    avg_copies: 1.62
+    weight: 0.1515
+    avg_copies: 1.5
   unknown-46:
     weight: 1.0
     avg_copies: 4.0
@@ -193,8 +193,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-77:
-    weight: 1.0
-    avg_copies: 3.0
+    weight: 0.6667
+    avg_copies: 2.67
   unknown-87:
     weight: 1.0
     avg_copies: 3.0
@@ -211,7 +211,7 @@ archetypes:
     weight: 0.8636
     avg_copies: 2.26
   unknown-100:
-    weight: 0.2
+    weight: 0.1429
     avg_copies: 2.0
   unknown-101:
     weight: 0.8529
@@ -244,8 +244,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-126:
-    weight: 0.6686
-    avg_copies: 2.25
+    weight: 0.6517
+    avg_copies: 2.23
   unknown-127:
     weight: 1.0
     avg_copies: 2.17
@@ -357,4 +357,7 @@ archetypes:
   unknown-277:
     weight: 1.0
     avg_copies: 4.0
+  unknown-281:
+    weight: 0.6667
+    avg_copies: 2.0
 ---

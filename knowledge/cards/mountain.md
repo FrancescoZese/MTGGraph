@@ -6,25 +6,25 @@ name: Mountain
 scryfall_id: a642c7b1-d4d1-4125-a66d-560438e5ee51
 set: sos
 type: Basic Land — Mountain
-meta_presence: 0.3413
+meta_presence: 0.3404
 archetypes:
   ruby-storm:
-    weight: 0.989
+    weight: 0.9891
     avg_copies: 2.89
   boros-energy:
-    weight: 0.8781
+    weight: 0.8789
     avg_copies: 1.01
   mono-blue-belcher:
-    weight: 0.198
+    weight: 0.1942
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.8
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.1127
+    weight: 0.1096
     avg_copies: 1.0
   affinity:
-    weight: 0.0191
+    weight: 0.019
     avg_copies: 1.0
   domain-zoo:
     weight: 0.9677
@@ -48,11 +48,11 @@ archetypes:
     weight: 0.9858
     avg_copies: 1.24
   eldrazi-ramp:
-    weight: 0.0071
+    weight: 0.007
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.9933
-    avg_copies: 2.31
+    weight: 0.9934
+    avg_copies: 2.3
   indomitable-creativity:
     weight: 1.0
     avg_copies: 1.06
@@ -81,7 +81,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.0656
+    weight: 0.0806
     avg_copies: 1.0
   scapeshift-combo:
     weight: 0.5
@@ -120,7 +120,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-6:
-    weight: 0.3158
+    weight: 0.3
     avg_copies: 1.0
   unknown-1:
     weight: 1.0
@@ -192,7 +192,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-67:
-    weight: 0.1071
+    weight: 0.1062
     avg_copies: 1.0
   unknown-68:
     weight: 0.9286
@@ -225,13 +225,13 @@ archetypes:
     weight: 1.0
     avg_copies: 10.0
   unknown-96:
-    weight: 0.9868
-    avg_copies: 2.57
+    weight: 0.9873
+    avg_copies: 2.58
   unknown-98:
     weight: 1.0
     avg_copies: 3.38
   unknown-100:
-    weight: 1.0
+    weight: 0.7143
     avg_copies: 1.0
   unknown-101:
     weight: 1.0
@@ -256,7 +256,7 @@ archetypes:
     avg_copies: 1.0
   unknown-122:
     weight: 1.0
-    avg_copies: 1.89
+    avg_copies: 1.86
   unknown-123:
     weight: 1.0
     avg_copies: 2.0
@@ -343,7 +343,7 @@ archetypes:
     avg_copies: 1.0
   unknown-232:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 2.0
   unknown-230:
     weight: 0.5
     avg_copies: 1.0
@@ -351,7 +351,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-238:
-    weight: 0.25
+    weight: 0.2
     avg_copies: 1.0
   unknown-250:
     weight: 1.0

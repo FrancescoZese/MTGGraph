@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: 'Unknown #69'
-meta_share: 0.0013
+meta_share: 0.0012
 list_count: 10
 top_cards:
 - name: Swamp
@@ -12,19 +12,19 @@ top_cards:
 - name: Necrodominance
   weight: 1.0
   avg_copies: 4.0
-- name: Soul Spike
-  weight: 1.0
-  avg_copies: 4.0
 - name: Boggart Trawler
   weight: 1.0
   avg_copies: 4.0
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Orcish Bowmasters
+- name: Soul Spike
+  weight: 1.0
+  avg_copies: 4.0
+- name: Break the Ice
   weight: 1.0
   avg_copies: 3.8
-- name: Break the Ice
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 3.8
 - name: Fell the Profane
@@ -108,25 +108,25 @@ top_cards:
 - name: Psychic Frog
   weight: 0.2
   avg_copies: 4.0
-- name: Sorin of House Markov
-  weight: 0.2
-  avg_copies: 1.5
 - name: Watery Grave
   weight: 0.2
   avg_copies: 1.5
-- name: Toxic Deluge
+- name: Sorin of House Markov
+  weight: 0.2
+  avg_copies: 1.5
+- name: Waterlogged Teachings
   weight: 0.2
   avg_copies: 1.0
 - name: Cling to Dust
-  weight: 0.2
-  avg_copies: 1.0
-- name: Waterlogged Teachings
   weight: 0.2
   avg_copies: 1.0
 - name: Takenuma, Abandoned Mire
   weight: 0.2
   avg_copies: 1.0
 - name: Revitalizing Repast
+  weight: 0.2
+  avg_copies: 1.0
+- name: Toxic Deluge
   weight: 0.2
   avg_copies: 1.0
 - name: Agadeem's Awakening

@@ -15,7 +15,7 @@ archetypes:
     weight: 0.0217
     avg_copies: 1.0
   goryo:
-    weight: 0.1487
+    weight: 0.155
     avg_copies: 1.0
   azorius-control:
     weight: 0.1091
@@ -24,16 +24,16 @@ archetypes:
     weight: 0.9873
     avg_copies: 1.03
   jeskai-control:
-    weight: 0.0563
+    weight: 0.0548
     avg_copies: 1.0
   neoform-combo:
     weight: 0.9918
     avg_copies: 2.76
   eldrazi-ramp:
-    weight: 0.0851
+    weight: 0.0845
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.9901
+    weight: 0.9902
     avg_copies: 1.75
   4c-omnath:
     weight: 0.75
@@ -93,7 +93,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-167:
-    weight: 0.35
+    weight: 0.3333
     avg_copies: 1.0
   unknown-171:
     weight: 1.0

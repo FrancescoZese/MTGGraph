@@ -7,13 +7,13 @@ name: Endurance
 scryfall_id: b770471c-1bf7-4179-8418-dcd790ca5405
 set: ecc
 type: Creature — Elemental Incarnation
-meta_presence: 0.1174
+meta_presence: 0.1179
 archetypes:
   amulet-titan:
     weight: 0.0435
     avg_copies: 1.38
   goryo:
-    weight: 0.0043
+    weight: 0.0042
     avg_copies: 1.25
   living-end:
     weight: 1.0
@@ -25,11 +25,11 @@ archetypes:
     weight: 0.9583
     avg_copies: 1.03
   eldrazi-ramp:
-    weight: 0.0071
+    weight: 0.007
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.9505
-    avg_copies: 1.61
+    weight: 0.951
+    avg_copies: 1.62
   4c-omnath:
     weight: 0.5
     avg_copies: 1.5
@@ -37,7 +37,7 @@ archetypes:
     weight: 0.9189
     avg_copies: 1.25
   broodscale-combo:
-    weight: 0.003
+    weight: 0.0029
     avg_copies: 1.0
   izzet-artifacts:
     weight: 0.0625
@@ -82,8 +82,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-61:
-    weight: 0.7444
-    avg_copies: 2.1
+    weight: 0.7357
+    avg_copies: 2.09
   unknown-60:
     weight: 1.0
     avg_copies: 1.5
@@ -97,7 +97,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-76:
-    weight: 0.2222
+    weight: 0.2
     avg_copies: 1.0
   unknown-85:
     weight: 0.0588
@@ -124,8 +124,8 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-126:
-    weight: 0.7574
-    avg_copies: 1.49
+    weight: 0.764
+    avg_copies: 1.48
   unknown-130:
     weight: 1.0
     avg_copies: 2.0
@@ -151,7 +151,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.25
   unknown-172:
-    weight: 0.75
+    weight: 0.8
     avg_copies: 2.0
   unknown-173:
     weight: 1.0
@@ -191,7 +191,7 @@ archetypes:
     avg_copies: 3.0
   unknown-238:
     weight: 1.0
-    avg_copies: 1.71
+    avg_copies: 1.78
   unknown-242:
     weight: 1.0
     avg_copies: 2.0

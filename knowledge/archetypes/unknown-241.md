@@ -6,28 +6,28 @@ name: 'Unknown #241'
 meta_share: 0.0005
 list_count: 4
 top_cards:
-- name: Sowing Mycospawn
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:talisman-of-unity
-  weight: 1.0
-  avg_copies: 4.0
 - name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
 - name: Ugin's Labyrinth
   weight: 1.0
   avg_copies: 4.0
+- name: Sowing Mycospawn
+  weight: 1.0
+  avg_copies: 4.0
 - name: Kozilek's Command
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:talisman-of-unity
   weight: 1.0
   avg_copies: 4.0
 - name: Eldrazi Temple
   weight: 1.0
   avg_copies: 3.75
-- name: card:gathering-place
+- name: Orim's Chant
   weight: 1.0
   avg_copies: 3.5
-- name: Orim's Chant
+- name: card:gathering-place
   weight: 1.0
   avg_copies: 3.5
 - name: Emrakul, the Promised End
@@ -36,13 +36,13 @@ top_cards:
 - name: Windswept Heath
   weight: 1.0
   avg_copies: 3.0
-- name: Icetill Explorer
-  weight: 1.0
-  avg_copies: 2.75
 - name: Devourer of Destiny
   weight: 1.0
   avg_copies: 2.75
 - name: High Noon
+  weight: 1.0
+  avg_copies: 2.75
+- name: Icetill Explorer
   weight: 1.0
   avg_copies: 2.75
 - name: Erode
@@ -69,7 +69,13 @@ top_cards:
 - name: Grafdigger's Cage
   weight: 1.0
   avg_copies: 1.25
-- name: Lush Portico
+- name: World Breaker
+  weight: 1.0
+  avg_copies: 1.0
+- name: Plains
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shifting Woodland
   weight: 1.0
   avg_copies: 1.0
 - name: Ugin, Eye of the Storms
@@ -78,13 +84,7 @@ top_cards:
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.0
-- name: World Breaker
-  weight: 1.0
-  avg_copies: 1.0
-- name: Shifting Woodland
-  weight: 1.0
-  avg_copies: 1.0
-- name: Plains
+- name: Lush Portico
   weight: 1.0
   avg_copies: 1.0
 - name: Emeritus of Abundance
@@ -105,13 +105,13 @@ top_cards:
 - name: Trinisphere
   weight: 0.25
   avg_copies: 2.0
-- name: Elesh Norn, Mother of Machines
-  weight: 0.25
-  avg_copies: 1.0
 - name: Bojuka Bog
   weight: 0.25
   avg_copies: 1.0
 - name: Elder Gargaroth
+  weight: 0.25
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
   weight: 0.25
   avg_copies: 1.0
 ---

@@ -46,8 +46,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-45:
-    weight: 0.9062
-    avg_copies: 1.27
+    weight: 0.9091
+    avg_copies: 1.26
   unknown-46:
     weight: 1.0
     avg_copies: 2.38
@@ -58,7 +58,7 @@ archetypes:
     weight: 0.9
     avg_copies: 2.92
   unknown-77:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 2.0
   unknown-101:
     weight: 0.0294
@@ -93,4 +93,7 @@ archetypes:
   unknown-277:
     weight: 1.0
     avg_copies: 2.5
+  unknown-283:
+    weight: 1.0
+    avg_copies: 4.0
 ---

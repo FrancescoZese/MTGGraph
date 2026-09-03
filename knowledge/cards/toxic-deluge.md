@@ -13,7 +13,7 @@ archetypes:
     weight: 0.4691
     avg_copies: 1.31
   goryo:
-    weight: 0.0022
+    weight: 0.0021
     avg_copies: 1.0
   necrodominance:
     weight: 0.0435
@@ -25,10 +25,10 @@ archetypes:
     weight: 0.125
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0495
+    weight: 0.049
     avg_copies: 1.4
   broodscale-combo:
-    weight: 0.003
+    weight: 0.0029
     avg_copies: 1.0
   jund-saga:
     weight: 0.2
@@ -52,7 +52,7 @@ archetypes:
     weight: 0.1429
     avg_copies: 1.0
   unknown-47:
-    weight: 0.738
+    weight: 0.7407
     avg_copies: 1.22
   unknown-63:
     weight: 1.0
@@ -105,4 +105,7 @@ archetypes:
   unknown-275:
     weight: 1.0
     avg_copies: 1.0
+  unknown-283:
+    weight: 1.0
+    avg_copies: 4.0
 ---

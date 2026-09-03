@@ -3,7 +3,7 @@ colors:
 - U
 - B
 name: Mill
-meta_share: 0.0049
+meta_share: 0.0048
 list_count: 39
 top_cards:
 - name: Ruin Crab
@@ -18,10 +18,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 1.0
   avg_copies: 3.12
-- name: Fractured Sanity
+- name: Archive Trap
   weight: 0.9744
   avg_copies: 4.0
-- name: Archive Trap
+- name: Fractured Sanity
   weight: 0.9744
   avg_copies: 4.0
 - name: Field of Ruin
@@ -102,10 +102,10 @@ top_cards:
 - name: Soul-Guide Lantern
   weight: 0.3846
   avg_copies: 2.27
-- name: Baleful Mastery
+- name: Feed the Cycle
   weight: 0.359
   avg_copies: 1.0
-- name: Feed the Cycle
+- name: Baleful Mastery
   weight: 0.359
   avg_copies: 1.0
 - name: Misty Rainforest
@@ -123,10 +123,10 @@ top_cards:
 - name: Mystical Dispute
   weight: 0.2821
   avg_copies: 2.27
-- name: Cephalid Coliseum
+- name: Damnation
   weight: 0.2821
   avg_copies: 1.0
-- name: Damnation
+- name: Cephalid Coliseum
   weight: 0.2821
   avg_copies: 1.0
 - name: Echoing Truth
@@ -192,10 +192,10 @@ top_cards:
 - name: Prismatic Vista
   weight: 0.0513
   avg_copies: 1.5
-- name: Force of Negation
+- name: Damping Sphere
   weight: 0.0513
   avg_copies: 1.5
-- name: Damping Sphere
+- name: Force of Negation
   weight: 0.0513
   avg_copies: 1.5
 - name: Plains
@@ -204,76 +204,76 @@ top_cards:
 - name: Meticulous Archive
   weight: 0.0513
   avg_copies: 1.0
-- name: White Orchid Phantom
+- name: Trapmaker's Snare
   weight: 0.0256
   avg_copies: 4.0
 - name: Path to Exile
   weight: 0.0256
   avg_copies: 4.0
-- name: Trapmaker's Snare
+- name: White Orchid Phantom
   weight: 0.0256
   avg_copies: 4.0
-- name: Leyline of the Void
-  weight: 0.0256
-  avg_copies: 3.0
 - name: Spell Pierce
   weight: 0.0256
   avg_copies: 3.0
-- name: Meltdown
+- name: Leyline of the Void
   weight: 0.0256
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Torpor Orb
-  weight: 0.0256
-  avg_copies: 2.0
-- name: Cursed Totem
-  weight: 0.0256
-  avg_copies: 2.0
-- name: Vendetta
   weight: 0.0256
   avg_copies: 2.0
 - name: Flare of Denial
   weight: 0.0256
   avg_copies: 2.0
-- name: Wrath of the Skies
-  weight: 0.0256
-  avg_copies: 2.0
 - name: Prismatic Ending
   weight: 0.0256
   avg_copies: 2.0
-- name: Hurkyl's Recall
+- name: Wrath of the Skies
+  weight: 0.0256
+  avg_copies: 2.0
+- name: Cursed Totem
   weight: 0.0256
   avg_copies: 2.0
 - name: card:mind-funeral
   weight: 0.0256
   avg_copies: 2.0
-- name: card:loki-god-of-mischief
+- name: Vendetta
   weight: 0.0256
-  avg_copies: 1.0
-- name: Steam Vents
+  avg_copies: 2.0
+- name: Meltdown
+  weight: 0.0256
+  avg_copies: 2.0
+- name: Hurkyl's Recall
+  weight: 0.0256
+  avg_copies: 2.0
+- name: Requiting Hex
   weight: 0.0256
   avg_copies: 1.0
 - name: Ravenous Trap
   weight: 0.0256
   avg_copies: 1.0
-- name: Mindbreak Trap
-  weight: 0.0256
-  avg_copies: 1.0
-- name: Bloodchief's Thirst
+- name: Subtlety
   weight: 0.0256
   avg_copies: 1.0
 - name: Gloomlake Verge
   weight: 0.0256
   avg_copies: 1.0
-- name: Tormod's Crypt
+- name: Steam Vents
+  weight: 0.0256
+  avg_copies: 1.0
+- name: Mindbreak Trap
+  weight: 0.0256
+  avg_copies: 1.0
+- name: card:loki-god-of-mischief
   weight: 0.0256
   avg_copies: 1.0
 - name: Darkslick Shores
   weight: 0.0256
   avg_copies: 1.0
-- name: Subtlety
+- name: Bloodchief's Thirst
   weight: 0.0256
   avg_copies: 1.0
-- name: Requiting Hex
+- name: Tormod's Crypt
   weight: 0.0256
   avg_copies: 1.0
 ---

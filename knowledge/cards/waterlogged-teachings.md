@@ -9,13 +9,13 @@ type: Instant // Land
 meta_presence: 0.0149
 archetypes:
   mono-blue-belcher:
-    weight: 0.9802
-    avg_copies: 2.97
+    weight: 0.9806
+    avg_copies: 2.99
   azorius-control:
     weight: 0.0364
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0642
+    weight: 0.0635
     avg_copies: 1.0
   unknown-69:
     weight: 0.2

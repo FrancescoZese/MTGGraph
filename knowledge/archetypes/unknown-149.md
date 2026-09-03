@@ -4,16 +4,16 @@ colors:
 - U
 - R
 name: 'Unknown #149'
-meta_share: 0.0044
+meta_share: 0.0043
 list_count: 35
 top_cards:
 - name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 4.0
-- name: Guide of Souls
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Arid Mesa
@@ -43,22 +43,22 @@ top_cards:
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 1.94
-- name: Sacred Foundry
+- name: Plains
   weight: 1.0
   avg_copies: 1.66
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.66
-- name: Plains
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.66
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
 - name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Meticulous Archive
+  weight: 1.0
+  avg_copies: 1.0
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Thraben Charm
@@ -151,10 +151,10 @@ top_cards:
 - name: Spell Pierce
   weight: 0.1429
   avg_copies: 1.2
-- name: Meltdown
+- name: Vandalblast
   weight: 0.1429
   avg_copies: 1.0
-- name: Vandalblast
+- name: Meltdown
   weight: 0.1429
   avg_copies: 1.0
 - name: Wear
@@ -169,25 +169,25 @@ top_cards:
 - name: Rest in Peace
   weight: 0.0857
   avg_copies: 1.33
-- name: Marsh Flats
-  weight: 0.0571
-  avg_copies: 1.5
 - name: Deafening Silence
   weight: 0.0571
   avg_copies: 1.5
-- name: Celestial Purge
+- name: Marsh Flats
+  weight: 0.0571
+  avg_copies: 1.5
+- name: Detect Intrusion
   weight: 0.0286
   avg_copies: 1.0
-- name: March of Otherworldly Light
+- name: Teferi, Time Raveler
+  weight: 0.0286
+  avg_copies: 1.0
+- name: Celestial Purge
   weight: 0.0286
   avg_copies: 1.0
 - name: Seasoned Pyromancer
   weight: 0.0286
   avg_copies: 1.0
-- name: Detect Intrusion
-  weight: 0.0286
-  avg_copies: 1.0
-- name: Teferi, Time Raveler
+- name: March of Otherworldly Light
   weight: 0.0286
   avg_copies: 1.0
 ---

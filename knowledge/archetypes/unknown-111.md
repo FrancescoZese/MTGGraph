@@ -78,10 +78,10 @@ top_cards:
 - name: Nihil Spellbomb
   weight: 0.5714
   avg_copies: 1.25
-- name: Steam Vents
+- name: Kaito, Bane of Nightmares
   weight: 0.5714
   avg_copies: 1.0
-- name: Kaito, Bane of Nightmares
+- name: Steam Vents
   weight: 0.5714
   avg_copies: 1.0
 - name: Fire Magic
@@ -111,7 +111,7 @@ top_cards:
 - name: Toxic Deluge
   weight: 0.2857
   avg_copies: 1.33
-- name: Sink into Stupor
+- name: Teferi, Time Raveler
   weight: 0.2857
   avg_copies: 1.0
 - name: Snow-Covered Swamp
@@ -120,10 +120,10 @@ top_cards:
 - name: Hallowed Fountain
   weight: 0.2857
   avg_copies: 1.0
-- name: Teferi, Time Raveler
+- name: Meticulous Archive
   weight: 0.2857
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Sink into Stupor
   weight: 0.2857
   avg_copies: 1.0
 - name: Damnation
@@ -132,25 +132,22 @@ top_cards:
 - name: Requiting Hex
   weight: 0.1429
   avg_copies: 2.0
-- name: Ashiok, Dream Render
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Flusterstorm
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Lórien Revealed
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Erode
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Drown in the Loch
   weight: 0.1429
   avg_copies: 1.0
 - name: Logic Knot
   weight: 0.1429
   avg_copies: 1.0
+- name: High Noon
+  weight: 0.1429
+  avg_copies: 1.0
 - name: Marsh Flats
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Vexing Bauble
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Erode
   weight: 0.1429
   avg_copies: 1.0
 - name: Surgical Extraction
@@ -159,13 +156,16 @@ top_cards:
 - name: Hall of Storm Giants
   weight: 0.1429
   avg_copies: 1.0
-- name: High Noon
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Drown in the Loch
+- name: Ashiok, Dream Render
   weight: 0.1429
   avg_copies: 1.0
 - name: Containment Priest
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Vexing Bauble
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Flusterstorm
   weight: 0.1429
   avg_copies: 1.0
 ---

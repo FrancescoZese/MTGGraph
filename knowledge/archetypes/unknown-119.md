@@ -3,73 +3,67 @@ colors:
 - W
 - R
 name: 'Unknown #119'
-meta_share: 0.0003
+meta_share: 0.0002
 list_count: 2
 top_cards:
-- name: Leyline Axe
-  weight: 1.0
-  avg_copies: 4.0
-- name: Memnite
-  weight: 1.0
-  avg_copies: 4.0
-- name: Urza's Saga
-  weight: 1.0
-  avg_copies: 4.0
-- name: Puresteel Paladin
-  weight: 1.0
-  avg_copies: 4.0
-- name: Colossus Hammer
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Opal
   weight: 1.0
   avg_copies: 4.0
-- name: Steelshaper's Gift
+- name: Sunbaked Canyon
+  weight: 1.0
+  avg_copies: 4.0
+- name: Memnite
   weight: 1.0
   avg_copies: 4.0
 - name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
-- name: Sunbaked Canyon
+- name: Colossus Hammer
   weight: 1.0
   avg_copies: 4.0
-- name: Arid Mesa
+- name: Leyline Axe
+  weight: 1.0
+  avg_copies: 4.0
+- name: Steelshaper's Gift
+  weight: 1.0
+  avg_copies: 4.0
+- name: Puresteel Paladin
+  weight: 1.0
+  avg_copies: 4.0
+- name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
 - name: Plains
   weight: 1.0
   avg_copies: 3.0
+- name: Inkmoth Nexus
+  weight: 1.0
+  avg_copies: 2.5
 - name: Disruptor Flute
   weight: 1.0
   avg_copies: 2.5
 - name: Mana Tithe
   weight: 1.0
   avg_copies: 2.5
-- name: Inkmoth Nexus
-  weight: 1.0
-  avg_copies: 2.5
-- name: Wear
+- name: Damping Sphere
   weight: 1.0
   avg_copies: 2.0
-- name: Damping Sphere
+- name: Wear
   weight: 1.0
   avg_copies: 2.0
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 2.0
-- name: Forge Anew
-  weight: 1.0
-  avg_copies: 1.5
 - name: Paradise Mantle
   weight: 1.0
   avg_copies: 1.5
-- name: Umezawa's Jitte
+- name: Forge Anew
   weight: 1.0
-  avg_copies: 1.0
-- name: Pithing Needle
-  weight: 1.0
-  avg_copies: 1.0
-- name: Tezzeret, Cruel Captain
+  avg_copies: 1.5
+- name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Shadowspear
@@ -78,10 +72,16 @@ top_cards:
 - name: Tormod's Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Tezzeret, Cruel Captain
   weight: 1.0
   avg_copies: 1.0
-- name: card:super-soldier-serum
+- name: Pithing Needle
+  weight: 1.0
+  avg_copies: 1.0
+- name: Umezawa's Jitte
+  weight: 1.0
+  avg_copies: 1.0
+- name: card:kellan-the-fae-blooded
   weight: 0.5
   avg_copies: 4.0
 - name: Battlefield Improvisation
@@ -90,7 +90,7 @@ top_cards:
 - name: Stoneforge Mystic
   weight: 0.5
   avg_copies: 4.0
-- name: card:kellan-the-fae-blooded
+- name: card:super-soldier-serum
   weight: 0.5
   avg_copies: 4.0
 - name: card:mj-lnir-hammer-of-thor

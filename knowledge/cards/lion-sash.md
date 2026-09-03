@@ -7,7 +7,7 @@ name: Lion Sash
 scryfall_id: 3e1766e9-2fa7-4446-a255-7beea1467ece
 set: neo
 type: Artifact Creature — Equipment Cat
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   unknown-108:
     weight: 1.0

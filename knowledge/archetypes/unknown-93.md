@@ -32,10 +32,10 @@ top_cards:
 - name: Wooded Foothills
   weight: 1.0
   avg_copies: 3.0
-- name: Wrath of the Skies
+- name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 2.5
-- name: Teferi, Time Raveler
+- name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.5
 - name: Spell Snare
@@ -56,28 +56,28 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.12
-- name: Steam Vents
-  weight: 1.0
-  avg_copies: 1.0
-- name: Sacred Foundry
-  weight: 1.0
-  avg_copies: 1.0
-- name: Breeding Pool
+- name: Plains
   weight: 1.0
   avg_copies: 1.0
 - name: Temple Garden
   weight: 1.0
   avg_copies: 1.0
-- name: Emeritus of Abundance
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 1.0
-- name: Plains
+- name: Emeritus of Abundance
+  weight: 1.0
+  avg_copies: 1.0
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Forest
+  weight: 1.0
+  avg_copies: 1.0
+- name: Breeding Pool
   weight: 1.0
   avg_copies: 1.0
 - name: Winternight Stories
@@ -89,10 +89,10 @@ top_cards:
 - name: Leyline Binding
   weight: 0.6
   avg_copies: 3.33
-- name: Stock Up
+- name: Mystical Dispute
   weight: 0.6
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Stock Up
   weight: 0.6
   avg_copies: 2.0
 - name: Stomping Ground
@@ -113,19 +113,19 @@ top_cards:
 - name: Static Prison
   weight: 0.4
   avg_copies: 3.0
+- name: Hedge Maze
+  weight: 0.4
+  avg_copies: 1.0
 - name: Titania, Protector of Argoth
   weight: 0.4
   avg_copies: 1.0
 - name: Quantum Riddler
   weight: 0.4
   avg_copies: 1.0
-- name: Hedge Maze
+- name: Raugrin Triome
   weight: 0.4
   avg_copies: 1.0
 - name: Eternal Witness
-  weight: 0.4
-  avg_copies: 1.0
-- name: Raugrin Triome
   weight: 0.4
   avg_copies: 1.0
 - name: card:ashling-rekindled
@@ -143,16 +143,10 @@ top_cards:
 - name: Planar Genesis
   weight: 0.2
   avg_copies: 2.0
-- name: Icetill Explorer
-  weight: 0.2
-  avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
-  weight: 0.2
-  avg_copies: 1.0
-- name: Risen Reef
-  weight: 0.2
-  avg_copies: 1.0
 - name: Elegant Parlor
+  weight: 0.2
+  avg_copies: 1.0
+- name: Nissa, Resurgent Animist
   weight: 0.2
   avg_copies: 1.0
 - name: Atraxa, Grand Unifier
@@ -161,10 +155,16 @@ top_cards:
 - name: card:dispel
   weight: 0.2
   avg_copies: 1.0
-- name: Nissa, Resurgent Animist
+- name: Icetill Explorer
   weight: 0.2
   avg_copies: 1.0
 - name: Formidable Speaker
+  weight: 0.2
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
+  weight: 0.2
+  avg_copies: 1.0
+- name: Risen Reef
   weight: 0.2
   avg_copies: 1.0
 - name: Spell Pierce

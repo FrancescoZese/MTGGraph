@@ -7,7 +7,7 @@ name: Elvish Reclaimer
 scryfall_id: 39c431d7-d94b-46c4-bb89-f3db56214ab4
 set: m20
 type: Creature — Elf Warrior
-meta_presence: 0.005
+meta_presence: 0.0049
 archetypes:
   amulet-titan:
     weight: 0.1957
@@ -16,7 +16,7 @@ archetypes:
     weight: 0.5
     avg_copies: 4.0
   unknown-76:
-    weight: 0.1111
+    weight: 0.1
     avg_copies: 2.0
   unknown-153:
     weight: 0.25

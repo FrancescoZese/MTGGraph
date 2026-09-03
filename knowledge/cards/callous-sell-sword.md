@@ -10,8 +10,8 @@ type: Creature — Human Soldier // Sorcery — Adventure
 meta_presence: 0.0033
 archetypes:
   cosmogoyf-fling:
-    weight: 0.4098
-    avg_copies: 1.23
+    weight: 0.4194
+    avg_copies: 1.22
   unknown-92:
     weight: 1.0
     avg_copies: 4.0

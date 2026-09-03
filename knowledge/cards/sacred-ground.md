@@ -19,10 +19,10 @@ archetypes:
     weight: 0.0213
     avg_copies: 2.67
   esper-blink:
-    weight: 0.0045
+    weight: 0.0043
     avg_copies: 1.0
   orzhov-blink:
-    weight: 0.0455
+    weight: 0.0435
     avg_copies: 1.0
   goryo2:
     weight: 0.0185
@@ -34,10 +34,10 @@ archetypes:
     weight: 0.0588
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0273
+    weight: 0.0259
     avg_copies: 1.67
   unknown-167:
-    weight: 0.05
+    weight: 0.0476
     avg_copies: 3.0
   unknown-190:
     weight: 0.5

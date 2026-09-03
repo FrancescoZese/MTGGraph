@@ -6,16 +6,16 @@ name: Disruptor Flute
 scryfall_id: 5cad8671-4761-4014-a8a3-af45627e6e79
 set: mh3
 type: Artifact
-meta_presence: 0.0739
+meta_presence: 0.0744
 archetypes:
   boros-energy:
-    weight: 0.0137
+    weight: 0.0136
     avg_copies: 1.0
   jeskai-energy:
     weight: 0.0148
     avg_copies: 2.0
   eldrazi-tron:
-    weight: 0.914
+    weight: 0.9145
     avg_copies: 1.66
   necrodominance:
     weight: 0.1957
@@ -30,22 +30,22 @@ archetypes:
     weight: 0.093
     avg_copies: 1.0
   mono-blue-tron:
-    weight: 0.2692
+    weight: 0.2593
     avg_copies: 1.57
   boros-ponza:
     weight: 0.0142
     avg_copies: 2.5
   eldrazi-ramp:
-    weight: 0.6809
-    avg_copies: 1.89
+    weight: 0.6831
+    avg_copies: 1.9
   izzet-prowess:
     weight: 0.0022
     avg_copies: 2.0
   broodscale-combo:
-    weight: 0.0385
+    weight: 0.0383
     avg_copies: 1.23
   azorius-blink:
-    weight: 0.0139
+    weight: 0.0137
     avg_copies: 1.0
   elves:
     weight: 1.0
@@ -57,7 +57,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   cosmogoyf-fling:
-    weight: 0.0164
+    weight: 0.0161
     avg_copies: 1.0
   goryo4:
     weight: 0.963
@@ -78,8 +78,8 @@ archetypes:
     weight: 0.0769
     avg_copies: 2.0
   unknown-61:
-    weight: 0.0075
-    avg_copies: 1.0
+    weight: 0.0143
+    avg_copies: 1.5
   unknown-69:
     weight: 0.1
     avg_copies: 1.0
@@ -90,7 +90,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.5
   unknown-126:
-    weight: 0.0237
+    weight: 0.0225
     avg_copies: 1.5
   unknown-134:
     weight: 1.0
@@ -102,10 +102,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0182
-    avg_copies: 1.5
+    weight: 0.0259
+    avg_copies: 1.67
   unknown-167:
-    weight: 0.35
+    weight: 0.3333
     avg_copies: 1.0
   unknown-177:
     weight: 0.6667
@@ -117,17 +117,17 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   unknown-194:
-    weight: 0.2273
-    avg_copies: 1.33
+    weight: 0.2533
+    avg_copies: 1.32
   unknown-213:
-    weight: 0.7143
+    weight: 0.5882
     avg_copies: 1.0
   unknown-223:
     weight: 1.0
     avg_copies: 1.0
   unknown-265:
-    weight: 0.6667
-    avg_copies: 1.29
+    weight: 0.7273
+    avg_copies: 1.22
   unknown-271:
     weight: 1.0
     avg_copies: 1.0

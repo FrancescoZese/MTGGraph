@@ -8,16 +8,16 @@ top_cards:
 - name: Lava Spike
   weight: 1.0
   avg_copies: 4.0
-- name: Lightning Bolt
+- name: Monastery Swiftspear
   weight: 1.0
   avg_copies: 4.0
 - name: Cori-Steel Cutter
   weight: 1.0
   avg_copies: 4.0
-- name: Monastery Swiftspear
+- name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
-- name: Dragon's Rage Channeler
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Mishra's Bauble
@@ -95,22 +95,22 @@ top_cards:
 - name: Deflecting Palm
   weight: 0.25
   avg_copies: 1.67
-- name: Damping Sphere
-  weight: 0.1667
-  avg_copies: 3.0
 - name: Magebane Lizard
   weight: 0.1667
   avg_copies: 3.0
-- name: Obsidian Charmaw
+- name: Damping Sphere
+  weight: 0.1667
+  avg_copies: 3.0
+- name: Pyroclasm
   weight: 0.1667
   avg_copies: 2.5
-- name: Pyroclasm
+- name: Obsidian Charmaw
   weight: 0.1667
   avg_copies: 2.5
 - name: card:reinforced-ronin
   weight: 0.1667
   avg_copies: 1.5
-- name: Mutagenic Growth
+- name: Eidolon of the Great Revel
   weight: 0.0833
   avg_copies: 4.0
 - name: Mogg Fanatic
@@ -119,34 +119,34 @@ top_cards:
 - name: Slickshot Show-Off
   weight: 0.0833
   avg_copies: 4.0
-- name: Eidolon of the Great Revel
+- name: Mutagenic Growth
   weight: 0.0833
   avg_copies: 4.0
 - name: Smash to Smithereens
   weight: 0.0833
   avg_copies: 3.0
-- name: Vexing Bauble
-  weight: 0.0833
-  avg_copies: 2.0
-- name: Gut Shot
-  weight: 0.0833
-  avg_copies: 2.0
 - name: Boros Charm
   weight: 0.0833
   avg_copies: 2.0
 - name: Path to Exile
   weight: 0.0833
   avg_copies: 2.0
-- name: Stomping Ground
+- name: Vexing Bauble
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Gut Shot
+  weight: 0.0833
+  avg_copies: 2.0
+- name: Sokenzan, Crucible of Defiance
   weight: 0.0833
   avg_copies: 1.0
-- name: Sokenzan, Crucible of Defiance
+- name: Engineered Explosives
   weight: 0.0833
   avg_copies: 1.0
 - name: Prismatic Ending
   weight: 0.0833
   avg_copies: 1.0
-- name: Engineered Explosives
+- name: Stomping Ground
   weight: 0.0833
   avg_copies: 1.0
 - name: Commercial District

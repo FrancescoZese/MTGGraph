@@ -9,10 +9,10 @@ type: Land
 meta_presence: 0.1971
 archetypes:
   ruby-storm:
-    weight: 0.967
-    avg_copies: 2.45
+    weight: 0.9673
+    avg_copies: 2.46
   boros-energy:
-    weight: 0.0075
+    weight: 0.0074
     avg_copies: 2.5
   dimir-control:
     weight: 0.0864
@@ -36,16 +36,16 @@ archetypes:
     weight: 1.0
     avg_copies: 3.56
   simic-ritual:
-    weight: 0.0099
+    weight: 0.0098
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.9506
+    weight: 0.9518
     avg_copies: 2.92
   indomitable-creativity:
     weight: 1.0
     avg_copies: 2.75
   orzhov-blink:
-    weight: 0.0455
+    weight: 0.0435
     avg_copies: 2.0
   dredge:
     weight: 0.9643
@@ -123,13 +123,13 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-45:
-    weight: 0.0938
+    weight: 0.0909
     avg_copies: 2.33
   unknown-46:
     weight: 1.0
     avg_copies: 2.12
   unknown-47:
-    weight: 0.3048
+    weight: 0.3016
     avg_copies: 1.75
   unknown-50:
     weight: 1.0
@@ -168,11 +168,11 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-77:
-    weight: 1.0
+    weight: 0.6667
     avg_copies: 1.5
   unknown-96:
     weight: 1.0
-    avg_copies: 3.24
+    avg_copies: 3.25
   unknown-91:
     weight: 1.0
     avg_copies: 2.0
@@ -180,7 +180,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-100:
-    weight: 0.2
+    weight: 0.4286
     avg_copies: 4.0
   unknown-101:
     weight: 1.0
@@ -201,7 +201,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-122:
-    weight: 0.9714
+    weight: 0.9722
     avg_copies: 1.97
   unknown-123:
     weight: 1.0
@@ -311,4 +311,7 @@ archetypes:
   unknown-277:
     weight: 1.0
     avg_copies: 2.5
+  unknown-283:
+    weight: 1.0
+    avg_copies: 4.0
 ---

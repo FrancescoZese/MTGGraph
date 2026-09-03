@@ -7,7 +7,7 @@ name: Mindbreak Trap
 scryfall_id: 4f51140b-6254-431a-8810-94307bfdfbbe
 set: zen
 type: Instant — Trap
-meta_presence: 0.0008
+meta_presence: 0.0007
 archetypes:
   mill:
     weight: 0.0256
@@ -16,7 +16,7 @@ archetypes:
     weight: 0.0233
     avg_copies: 2.0
   mono-blue-tron:
-    weight: 0.0385
+    weight: 0.037
     avg_copies: 2.0
   unknown-184:
     weight: 1.0

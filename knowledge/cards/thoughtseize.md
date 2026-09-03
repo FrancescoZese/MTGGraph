@@ -7,20 +7,20 @@ name: Thoughtseize
 scryfall_id: b281a308-ab6b-47b6-bec7-632c9aaecede
 set: 2xm
 type: Sorcery
-meta_presence: 0.2465
+meta_presence: 0.2472
 archetypes:
   ruby-storm:
-    weight: 0.011
+    weight: 0.0109
     avg_copies: 2.67
   dimir-control:
     weight: 0.5432
     avg_copies: 2.94
   eldrazi-tron:
-    weight: 0.0086
+    weight: 0.0085
     avg_copies: 4.0
   goryo:
-    weight: 0.9698
-    avg_copies: 2.53
+    weight: 0.9703
+    avg_copies: 2.52
   necrodominance:
     weight: 0.8696
     avg_copies: 3.95
@@ -40,13 +40,13 @@ archetypes:
     weight: 1.0
     avg_copies: 2.58
   simic-ritual:
-    weight: 0.0099
+    weight: 0.0098
     avg_copies: 4.0
   izzet-prowess:
-    weight: 0.0337
+    weight: 0.0329
     avg_copies: 3.2
   esper-blink:
-    weight: 0.9821
+    weight: 0.9828
     avg_copies: 3.66
   samwise-combo:
     weight: 0.8108
@@ -55,11 +55,11 @@ archetypes:
     weight: 0.1875
     avg_copies: 4.0
   broodscale-combo:
-    weight: 0.0207
+    weight: 0.0206
     avg_copies: 3.0
   orzhov-blink:
-    weight: 0.8182
-    avg_copies: 3.57
+    weight: 0.8261
+    avg_copies: 3.58
   dredge:
     weight: 0.7857
     avg_copies: 3.27
@@ -151,14 +151,14 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-45:
-    weight: 0.9375
-    avg_copies: 1.93
+    weight: 0.9394
+    avg_copies: 1.91
   unknown-46:
     weight: 1.0
     avg_copies: 3.2
   unknown-47:
     weight: 0.9947
-    avg_copies: 3.76
+    avg_copies: 3.77
   unknown-50:
     weight: 1.0
     avg_copies: 2.0
@@ -194,7 +194,7 @@ archetypes:
     avg_copies: 4.0
   unknown-77:
     weight: 1.0
-    avg_copies: 1.67
+    avg_copies: 2.25
   unknown-87:
     weight: 1.0
     avg_copies: 4.0
@@ -202,7 +202,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-96:
-    weight: 0.0526
+    weight: 0.0506
     avg_copies: 3.75
   unknown-90:
     weight: 1.0
@@ -210,6 +210,9 @@ archetypes:
   unknown-97:
     weight: 0.6818
     avg_copies: 3.06
+  unknown-100:
+    weight: 0.1429
+    avg_copies: 1.0
   unknown-101:
     weight: 0.8235
     avg_copies: 2.05
@@ -232,7 +235,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.89
   unknown-122:
-    weight: 0.0857
+    weight: 0.0833
     avg_copies: 4.0
   unknown-123:
     weight: 1.0
@@ -241,8 +244,8 @@ archetypes:
     weight: 0.75
     avg_copies: 2.79
   unknown-126:
-    weight: 0.3669
-    avg_copies: 2.24
+    weight: 0.382
+    avg_copies: 2.25
   unknown-131:
     weight: 0.7
     avg_copies: 2.11
@@ -357,4 +360,7 @@ archetypes:
   unknown-277:
     weight: 1.0
     avg_copies: 2.0
+  unknown-281:
+    weight: 0.6667
+    avg_copies: 3.0
 ---

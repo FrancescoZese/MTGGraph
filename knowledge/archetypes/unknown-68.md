@@ -4,7 +4,7 @@ colors:
 - B
 - R
 name: 'Unknown #68'
-meta_share: 0.0053
+meta_share: 0.0052
 list_count: 42
 top_cards:
 - name: Guide of Souls
@@ -160,10 +160,10 @@ top_cards:
 - name: Deafening Silence
   weight: 0.0952
   avg_copies: 1.75
-- name: Meltdown
+- name: Ghost Vacuum
   weight: 0.0952
   avg_copies: 1.0
-- name: Ghost Vacuum
+- name: Meltdown
   weight: 0.0952
   avg_copies: 1.0
 - name: Windswept Heath
@@ -184,13 +184,13 @@ top_cards:
 - name: Strategic Betrayal
   weight: 0.0476
   avg_copies: 1.0
-- name: Sanctifier en-Vec
+- name: Clarion Conqueror
   weight: 0.0476
   avg_copies: 1.0
 - name: Containment Priest
   weight: 0.0476
   avg_copies: 1.0
-- name: Clarion Conqueror
+- name: Sanctifier en-Vec
   weight: 0.0476
   avg_copies: 1.0
 - name: Duress
@@ -199,10 +199,10 @@ top_cards:
 - name: Reckless Pyrosurfer
   weight: 0.0238
   avg_copies: 2.0
-- name: Path to Exile
+- name: Lingering Souls
   weight: 0.0238
   avg_copies: 2.0
-- name: Lingering Souls
+- name: Path to Exile
   weight: 0.0238
   avg_copies: 2.0
 - name: Static Prison
@@ -211,10 +211,10 @@ top_cards:
 - name: Faerie Macabre
   weight: 0.0238
   avg_copies: 1.0
-- name: Sunbaked Canyon
+- name: Stony Silence
   weight: 0.0238
   avg_copies: 1.0
-- name: Stony Silence
+- name: Sunbaked Canyon
   weight: 0.0238
   avg_copies: 1.0
 ---

@@ -9,13 +9,13 @@ top_cards:
 - name: Stitcher's Supplier
   weight: 1.0
   avg_copies: 4.0
-- name: Flare of Malice
+- name: Bloodghast
   weight: 1.0
   avg_copies: 4.0
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodghast
+- name: Flare of Malice
   weight: 1.0
   avg_copies: 4.0
 - name: Rakdos Charm
@@ -36,10 +36,10 @@ top_cards:
 - name: Village Rites
   weight: 1.0
   avg_copies: 2.0
-- name: Fatal Push
+- name: Brotherhood's End
   weight: 1.0
   avg_copies: 2.0
-- name: Brotherhood's End
+- name: Fatal Push
   weight: 1.0
   avg_copies: 2.0
 - name: Polluted Delta
@@ -51,10 +51,10 @@ top_cards:
 - name: End the Festivities
   weight: 1.0
   avg_copies: 1.13
-- name: Bloodstained Mire
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 1.0
-- name: Wooded Foothills
+- name: Bloodstained Mire
   weight: 1.0
   avg_copies: 1.0
 - name: Raucous Theater
@@ -81,10 +81,10 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.6
   avg_copies: 2.67
-- name: Magus of the Moon
+- name: Engineered Explosives
   weight: 0.6
   avg_copies: 2.0
-- name: Engineered Explosives
+- name: Magus of the Moon
   weight: 0.6
   avg_copies: 2.0
 - name: Mishra's Bauble
@@ -123,10 +123,10 @@ top_cards:
 - name: Blood Moon
   weight: 0.1333
   avg_copies: 2.0
-- name: Oliphaunt
+- name: Lightning Skelemental
   weight: 0.1333
   avg_copies: 1.5
-- name: Lightning Skelemental
+- name: Oliphaunt
   weight: 0.1333
   avg_copies: 1.5
 - name: Troll of Khazad-dûm
@@ -135,22 +135,22 @@ top_cards:
 - name: card:thunderkin-awakener
   weight: 0.0667
   avg_copies: 3.0
-- name: Overgrown Tomb
-  weight: 0.0667
-  avg_copies: 2.0
 - name: Emperor of Bones
   weight: 0.0667
   avg_copies: 2.0
 - name: card:archfiend-s-vessel
   weight: 0.0667
   avg_copies: 2.0
-- name: Unearth
-  weight: 0.0667
-  avg_copies: 2.0
 - name: Seasoned Pyromancer
   weight: 0.0667
   avg_copies: 2.0
+- name: Unearth
+  weight: 0.0667
+  avg_copies: 2.0
 - name: Veil of Summer
+  weight: 0.0667
+  avg_copies: 2.0
+- name: Overgrown Tomb
   weight: 0.0667
   avg_copies: 2.0
 - name: Ob Nixilis, the Adversary

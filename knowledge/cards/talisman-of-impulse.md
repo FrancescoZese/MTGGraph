@@ -6,16 +6,16 @@ name: Talisman of Impulse
 scryfall_id: 5135919f-7b10-4a2e-a98a-83ed1347ad36
 set: tdc
 type: Artifact
-meta_presence: 0.02
+meta_presence: 0.0199
 archetypes:
   eldrazi-tron:
-    weight: 0.0143
+    weight: 0.0142
     avg_copies: 1.6
   eldrazi-ramp:
-    weight: 0.9787
-    avg_copies: 3.62
+    weight: 0.9789
+    avg_copies: 3.63
   broodscale-combo:
-    weight: 0.0355
+    weight: 0.0354
     avg_copies: 1.08
   unknown-37:
     weight: 1.0

@@ -7,9 +7,9 @@ name: Fling
 scryfall_id: 8f42d773-c742-4465-b6d5-31feaba49146
 set: jmp
 type: Instant
-meta_presence: 0.0013
+meta_presence: 0.0012
 archetypes:
   cosmogoyf-fling:
-    weight: 0.1639
+    weight: 0.1613
     avg_copies: 1.19
 ---

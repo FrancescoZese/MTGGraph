@@ -6,26 +6,26 @@ name: Plains
 scryfall_id: d85d0f25-a24a-4de0-9b8b-93fb5017bce9
 set: sos
 type: Basic Land — Plains
-meta_presence: 0.3485
+meta_presence: 0.3479
 archetypes:
   boros-energy:
-    weight: 0.9826
-    avg_copies: 1.97
+    weight: 0.9827
+    avg_copies: 1.98
   jeskai-energy:
     weight: 0.8667
     avg_copies: 1.63
   eldrazi-tron:
-    weight: 0.0086
+    weight: 0.0085
     avg_copies: 2.0
   goryo:
-    weight: 0.9957
+    weight: 0.9958
     avg_copies: 1.0
   azorius-control:
     weight: 1.0
     avg_copies: 1.95
   jeskai-control:
     weight: 1.0
-    avg_copies: 1.77
+    avg_copies: 1.78
   domain-zoo:
     weight: 1.0
     avg_copies: 1.0
@@ -48,20 +48,20 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   esper-blink:
-    weight: 0.991
+    weight: 0.9914
     avg_copies: 1.6
   indomitable-creativity:
     weight: 0.5625
     avg_copies: 1.0
   orzhov-blink:
     weight: 1.0
-    avg_copies: 1.86
+    avg_copies: 1.91
   bant-control:
     weight: 1.0
     avg_copies: 2.0
   azorius-blink:
-    weight: 0.9861
-    avg_copies: 2.48
+    weight: 0.9863
+    avg_copies: 2.5
   esper-control:
     weight: 1.0
     avg_copies: 2.0
@@ -166,7 +166,7 @@ archetypes:
     avg_copies: 1.0
   unknown-77:
     weight: 1.0
-    avg_copies: 2.0
+    avg_copies: 2.33
   unknown-88:
     weight: 1.0
     avg_copies: 2.75
@@ -174,7 +174,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.0132
+    weight: 0.0127
     avg_copies: 1.0
   unknown-89:
     weight: 1.0
@@ -183,7 +183,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-100:
-    weight: 0.4
+    weight: 0.2857
     avg_copies: 1.0
   unknown-106:
     weight: 1.0
@@ -252,7 +252,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-167:
-    weight: 0.1
+    weight: 0.0952
     avg_copies: 1.0
   unknown-169:
     weight: 1.0
@@ -312,7 +312,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-213:
-    weight: 0.4286
+    weight: 0.3529
     avg_copies: 1.0
   unknown-216:
     weight: 1.0
@@ -336,7 +336,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-238:
-    weight: 0.75
+    weight: 0.8
     avg_copies: 1.0
   unknown-240:
     weight: 1.0

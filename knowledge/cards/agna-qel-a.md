@@ -6,13 +6,13 @@ name: Agna Qel'a
 scryfall_id: 6b885829-a323-4f7d-87c9-aa4615dcbe5c
 set: tla
 type: Land
-meta_presence: 0.0055
+meta_presence: 0.0054
 archetypes:
   goryo:
-    weight: 0.0022
+    weight: 0.0021
     avg_copies: 1.0
   mono-blue-tron:
-    weight: 0.1923
+    weight: 0.1852
     avg_copies: 1.0
   izzet-wizards:
     weight: 0.0769
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.0833
     avg_copies: 1.0
   unknown-47:
-    weight: 0.1337
+    weight: 0.1323
     avg_copies: 1.0
   unknown-89:
     weight: 1.0

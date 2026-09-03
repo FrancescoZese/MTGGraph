@@ -13,19 +13,19 @@ archetypes:
     weight: 0.0123
     avg_copies: 3.0
   mono-blue-belcher:
-    weight: 0.0099
+    weight: 0.0097
     avg_copies: 1.0
   azorius-control:
     weight: 0.0182
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.0141
+    weight: 0.0137
     avg_copies: 4.0
   mono-blue-tron:
-    weight: 0.5385
-    avg_copies: 2.18
+    weight: 0.5556
+    avg_copies: 2.17
   simic-ritual:
-    weight: 0.0099
+    weight: 0.0098
     avg_copies: 1.0
   izzet-wizards:
     weight: 0.1538
@@ -43,7 +43,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0695
+    weight: 0.0688
     avg_copies: 1.33
   unknown-51:
     weight: 1.0

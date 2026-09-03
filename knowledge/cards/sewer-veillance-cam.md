@@ -7,7 +7,7 @@ name: Sewer-veillance Cam
 scryfall_id: ab47a37b-b66d-4f70-9bf0-4d5ed6b518f3
 set: tmt
 type: Artifact
-meta_presence: 0.0061
+meta_presence: 0.0065
 archetypes:
   kethis-combo:
     weight: 0.875
@@ -16,7 +16,7 @@ archetypes:
     weight: 0.125
     avg_copies: 4.0
   unknown-6:
-    weight: 0.1053
+    weight: 0.1
     avg_copies: 3.0
   unknown-43:
     weight: 1.0
@@ -25,14 +25,14 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-167:
-    weight: 0.9
-    avg_copies: 3.22
+    weight: 0.9048
+    avg_copies: 3.26
   unknown-206:
     weight: 1.0
     avg_copies: 4.0
   unknown-213:
-    weight: 0.7857
-    avg_copies: 2.09
+    weight: 0.8235
+    avg_copies: 2.29
   unknown-223:
     weight: 1.0
     avg_copies: 3.0

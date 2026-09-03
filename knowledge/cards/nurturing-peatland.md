@@ -6,7 +6,7 @@ name: Nurturing Peatland
 scryfall_id: 2744ac83-a79f-4042-8720-688b5adda382
 set: mh1
 type: Land
-meta_presence: 0.021
+meta_presence: 0.0212
 archetypes:
   necrodominance:
     weight: 0.0217
@@ -15,13 +15,13 @@ archetypes:
     weight: 0.0104
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0099
+    weight: 0.0098
     avg_copies: 1.0
   samwise-combo:
     weight: 0.5
     avg_copies: 1.0
   broodscale-combo:
-    weight: 0.0089
+    weight: 0.0088
     avg_copies: 1.0
   goryo5:
     weight: 0.0233
@@ -39,7 +39,7 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   unknown-126:
-    weight: 0.6686
+    weight: 0.6573
     avg_copies: 1.06
   unknown-137:
     weight: 1.0

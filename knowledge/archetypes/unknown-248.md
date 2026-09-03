@@ -8,6 +8,12 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 4.25
+- name: Emry, Lurker of the Loch
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mox Amber
+  weight: 1.0
+  avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
@@ -17,22 +23,16 @@ top_cards:
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
-- name: Mox Amber
-  weight: 1.0
-  avg_copies: 4.0
-- name: Emry, Lurker of the Loch
-  weight: 1.0
-  avg_copies: 4.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.75
 - name: Sink into Stupor
   weight: 1.0
   avg_copies: 3.5
-- name: card:key-to-the-side-door
+- name: Mox Opal
   weight: 1.0
   avg_copies: 3.25
-- name: Mox Opal
+- name: card:key-to-the-side-door
   weight: 1.0
   avg_copies: 3.25
 - name: Otawara, Soaring City
@@ -56,10 +56,10 @@ top_cards:
 - name: Dismember
   weight: 0.75
   avg_copies: 2.0
-- name: Aether Spellbomb
+- name: Pithing Needle
   weight: 0.75
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Aether Spellbomb
   weight: 0.75
   avg_copies: 1.0
 - name: Soul-Guide Lantern
@@ -92,31 +92,34 @@ top_cards:
 - name: Metallic Rebuke
   weight: 0.25
   avg_copies: 3.0
-- name: card:the-legend-of-kuruk
+- name: Tezzeret, Cruel Captain
   weight: 0.25
   avg_copies: 2.0
-- name: Displacement Wave
+- name: card:the-legend-of-kuruk
   weight: 0.25
   avg_copies: 2.0
 - name: Hurkyl's Recall
   weight: 0.25
   avg_copies: 2.0
-- name: Tezzeret, Cruel Captain
+- name: Displacement Wave
   weight: 0.25
   avg_copies: 2.0
-- name: Quantum Riddler
+- name: card:threads-of-disloyalty
+  weight: 0.25
+  avg_copies: 1.0
+- name: Engineered Explosives
   weight: 0.25
   avg_copies: 1.0
 - name: Strix Serenade
+  weight: 0.25
+  avg_copies: 1.0
+- name: Quantum Riddler
   weight: 0.25
   avg_copies: 1.0
 - name: Mystical Dispute
   weight: 0.25
   avg_copies: 1.0
 - name: Tormod's Crypt
-  weight: 0.25
-  avg_copies: 1.0
-- name: Engineered Explosives
   weight: 0.25
   avg_copies: 1.0
 - name: Shadowspear
@@ -126,9 +129,6 @@ top_cards:
   weight: 0.25
   avg_copies: 1.0
 - name: card:phenomena-recorder
-  weight: 0.25
-  avg_copies: 1.0
-- name: card:threads-of-disloyalty
   weight: 0.25
   avg_copies: 1.0
 ---

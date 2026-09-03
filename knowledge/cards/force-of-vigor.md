@@ -25,10 +25,10 @@ archetypes:
     weight: 0.9792
     avg_copies: 1.85
   eldrazi-ramp:
-    weight: 0.1986
+    weight: 0.1972
     avg_copies: 1.96
   simic-ritual:
-    weight: 0.7525
+    weight: 0.7451
     avg_copies: 1.95
   4c-omnath:
     weight: 0.5
@@ -37,7 +37,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   broodscale-combo:
-    weight: 0.0266
+    weight: 0.0265
     avg_copies: 1.44
   izzet-artifacts:
     weight: 0.0312
@@ -73,16 +73,16 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-61:
-    weight: 0.6917
+    weight: 0.7
     avg_copies: 2.38
   unknown-65:
     weight: 0.9655
     avg_copies: 2.39
   unknown-67:
-    weight: 0.9286
+    weight: 0.9292
     avg_copies: 2.03
   unknown-76:
-    weight: 0.8889
+    weight: 0.8
     avg_copies: 1.88
   unknown-85:
     weight: 0.0588
@@ -103,8 +103,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-126:
-    weight: 0.6272
-    avg_copies: 1.89
+    weight: 0.6236
+    avg_copies: 1.87
   unknown-130:
     weight: 1.0
     avg_copies: 2.0
@@ -128,7 +128,7 @@ archetypes:
     avg_copies: 2.5
   unknown-172:
     weight: 1.0
-    avg_copies: 3.0
+    avg_copies: 2.8
   unknown-202:
     weight: 1.0
     avg_copies: 2.0
@@ -148,7 +148,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-238:
-    weight: 0.75
+    weight: 0.6
     avg_copies: 1.0
   unknown-242:
     weight: 1.0

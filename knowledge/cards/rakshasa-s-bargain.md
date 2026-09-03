@@ -9,7 +9,7 @@ name: Rakshasa's Bargain
 scryfall_id: 5c409f4f-3b2c-4c33-b850-55b2a46f51ca
 set: tdm
 type: Instant
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   neoform-combo:
     weight: 0.0164

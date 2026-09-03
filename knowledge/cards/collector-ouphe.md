@@ -13,7 +13,7 @@ archetypes:
     weight: 0.5326
     avg_copies: 1.0
   goryo:
-    weight: 0.0022
+    weight: 0.0021
     avg_copies: 2.0
   living-end:
     weight: 0.0127
@@ -25,10 +25,10 @@ archetypes:
     weight: 0.0104
     avg_copies: 1.0
   eldrazi-ramp:
-    weight: 0.0071
+    weight: 0.007
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.6436
+    weight: 0.6373
     avg_copies: 1.52
   samwise-combo:
     weight: 0.4459
@@ -70,16 +70,16 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-61:
-    weight: 0.4662
+    weight: 0.4571
     avg_copies: 1.02
   unknown-60:
     weight: 1.0
     avg_copies: 2.0
   unknown-67:
-    weight: 0.0089
+    weight: 0.0088
     avg_copies: 1.0
   unknown-76:
-    weight: 0.6667
+    weight: 0.6
     avg_copies: 1.0
   unknown-88:
     weight: 0.05
@@ -91,7 +91,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-126:
-    weight: 0.9053
+    weight: 0.8876
     avg_copies: 1.0
   unknown-130:
     weight: 1.0
@@ -109,7 +109,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-172:
-    weight: 0.75
+    weight: 0.6
     avg_copies: 1.0
   unknown-173:
     weight: 1.0

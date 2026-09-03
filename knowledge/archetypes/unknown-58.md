@@ -15,13 +15,13 @@ top_cards:
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
-- name: Persist
+- name: Asmoranomardicadaistinaculdacar
   weight: 1.0
   avg_copies: 4.0
 - name: The Underworld Cookbook
   weight: 1.0
   avg_copies: 4.0
-- name: Asmoranomardicadaistinaculdacar
+- name: Persist
   weight: 1.0
   avg_copies: 4.0
 - name: Faithless Looting
@@ -51,10 +51,10 @@ top_cards:
 - name: Blood Moon
   weight: 1.0
   avg_copies: 1.33
-- name: Mountain
+- name: Nihil Spellbomb
   weight: 1.0
   avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
 - name: Monument to Endurance
@@ -69,13 +69,28 @@ top_cards:
 - name: Fatal Push
   weight: 0.6667
   avg_copies: 1.67
-- name: Fire Magic
-  weight: 0.6667
-  avg_copies: 1.5
 - name: Inti, Seneschal of the Sun
   weight: 0.6667
   avg_copies: 1.5
+- name: Fire Magic
+  weight: 0.6667
+  avg_copies: 1.5
+- name: Wooded Foothills
+  weight: 0.6667
+  avg_copies: 1.0
 - name: Haywire Mite
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Pithing Needle
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Magus of the Moon
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Surgical Extraction
   weight: 0.6667
   avg_copies: 1.0
 - name: Ashiok, Dream Render
@@ -87,43 +102,28 @@ top_cards:
 - name: Unholy Heat
   weight: 0.6667
   avg_copies: 1.0
-- name: Magus of the Moon
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Wooded Foothills
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Pithing Needle
-  weight: 0.6667
-  avg_copies: 1.0
 - name: Verdant Catacombs
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Soul-Guide Lantern
   weight: 0.6667
   avg_copies: 1.0
 - name: Leyline of the Void
   weight: 0.3333
   avg_copies: 4.0
-- name: Fable of the Mirror-Breaker
+- name: Break the Ice
   weight: 0.3333
   avg_copies: 3.0
-- name: Break the Ice
+- name: Fable of the Mirror-Breaker
   weight: 0.3333
   avg_copies: 3.0
 - name: Detective's Phoenix
   weight: 0.3333
   avg_copies: 2.0
-- name: card:vaultborn-tyrant
+- name: Polluted Delta
   weight: 0.3333
   avg_copies: 1.0
 - name: card:archfiend-of-ifnir
   weight: 0.3333
   avg_copies: 1.0
-- name: Polluted Delta
+- name: Castle Locthwain
   weight: 0.3333
   avg_copies: 1.0
 - name: Skateboard
@@ -132,7 +132,7 @@ top_cards:
 - name: Overlord of the Balemurk
   weight: 0.3333
   avg_copies: 1.0
-- name: Castle Locthwain
+- name: card:vaultborn-tyrant
   weight: 0.3333
   avg_copies: 1.0
 ---

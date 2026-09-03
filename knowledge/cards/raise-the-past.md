@@ -7,8 +7,11 @@ name: Raise the Past
 scryfall_id: 6c6be129-56da-4fe7-a6bd-6a1d402c09e1
 set: fdn
 type: Sorcery
-meta_presence: 0.0003
+meta_presence: 0.0004
 archetypes:
+  unknown-77:
+    weight: 0.3333
+    avg_copies: 1.0
   unknown-88:
     weight: 0.1
     avg_copies: 1.0

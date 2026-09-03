@@ -13,16 +13,16 @@ archetypes:
     weight: 0.3279
     avg_copies: 1.8
   simic-ritual:
-    weight: 0.0297
+    weight: 0.0294
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0067
+    weight: 0.0066
     avg_copies: 2.0
   dredge:
     weight: 0.0714
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.1475
+    weight: 0.1613
     avg_copies: 2.0
   unknown-40:
     weight: 1.0

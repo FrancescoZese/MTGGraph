@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: Azorius Control
-meta_share: 0.0138
+meta_share: 0.0136
 list_count: 110
 top_cards:
 - name: Flooded Strand
@@ -138,10 +138,10 @@ top_cards:
 - name: Marsh Flats
   weight: 0.1909
   avg_copies: 1.81
-- name: Breeding Pool
+- name: The Wandering Emperor
   weight: 0.1545
   avg_copies: 1.0
-- name: The Wandering Emperor
+- name: Breeding Pool
   weight: 0.1545
   avg_copies: 1.0
 - name: Flow State
@@ -228,10 +228,10 @@ top_cards:
 - name: Fire Magic
   weight: 0.0273
   avg_copies: 1.67
-- name: Vendilion Clique
+- name: Snow-Covered Plains
   weight: 0.0273
   avg_copies: 1.0
-- name: Snow-Covered Plains
+- name: Vendilion Clique
   weight: 0.0273
   avg_copies: 1.0
 - name: Thundertrap Trainer
@@ -240,10 +240,10 @@ top_cards:
 - name: Pyroclasm
   weight: 0.0182
   avg_copies: 1.5
-- name: Tamiyo, Inquisitive Student
+- name: Elegant Parlor
   weight: 0.0182
   avg_copies: 1.0
-- name: Elegant Parlor
+- name: Tamiyo, Inquisitive Student
   weight: 0.0182
   avg_copies: 1.0
 - name: Dress Down
@@ -255,34 +255,28 @@ top_cards:
 - name: Petrified Hamlet
   weight: 0.0182
   avg_copies: 1.0
-- name: Quantum Riddler
+- name: Relic of Progenitus
   weight: 0.0091
   avg_copies: 4.0
-- name: Relic of Progenitus
+- name: Quantum Riddler
   weight: 0.0091
   avg_copies: 4.0
 - name: Harbinger of the Seas
   weight: 0.0091
   avg_copies: 4.0
-- name: Obsidian Charmaw
-  weight: 0.0091
-  avg_copies: 2.0
 - name: card:bilbo-s-gambit
   weight: 0.0091
   avg_copies: 2.0
 - name: Wear
   weight: 0.0091
   avg_copies: 2.0
+- name: Obsidian Charmaw
+  weight: 0.0091
+  avg_copies: 2.0
 - name: Restless Anchorage
   weight: 0.0091
   avg_copies: 1.0
-- name: Meltdown
-  weight: 0.0091
-  avg_copies: 1.0
-- name: Commandeer
-  weight: 0.0091
-  avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
+- name: Deafening Silence
   weight: 0.0091
   avg_copies: 1.0
 - name: Get Lost
@@ -294,22 +288,28 @@ top_cards:
 - name: Logic Knot
   weight: 0.0091
   avg_copies: 1.0
-- name: Flashback
+- name: Commandeer
   weight: 0.0091
   avg_copies: 1.0
 - name: card:bribery
   weight: 0.0091
   avg_copies: 1.0
-- name: Deafening Silence
+- name: Elesh Norn, Mother of Machines
+  weight: 0.0091
+  avg_copies: 1.0
+- name: card:linvala-keeper-of-silence
   weight: 0.0091
   avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.0091
   avg_copies: 1.0
-- name: Hurkyl's Recall
+- name: Flashback
   weight: 0.0091
   avg_copies: 1.0
-- name: card:linvala-keeper-of-silence
+- name: Meltdown
+  weight: 0.0091
+  avg_copies: 1.0
+- name: Hurkyl's Recall
   weight: 0.0091
   avg_copies: 1.0
 ---

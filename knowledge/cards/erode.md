@@ -7,19 +7,19 @@ name: Erode
 scryfall_id: 32e670da-7563-4f6a-a7db-4c126a440eb8
 set: sos
 type: Instant
-meta_presence: 0.0526
+meta_presence: 0.0528
 archetypes:
   boros-energy:
-    weight: 0.0224
+    weight: 0.0222
     avg_copies: 1.16
   mono-blue-belcher:
-    weight: 0.0099
+    weight: 0.0097
     avg_copies: 1.0
   azorius-control:
     weight: 0.1
     avg_copies: 1.08
   jeskai-control:
-    weight: 0.0282
+    weight: 0.0274
     avg_copies: 1.67
   domain-zoo:
     weight: 0.0065
@@ -40,16 +40,16 @@ archetypes:
     weight: 0.8511
     avg_copies: 3.71
   esper-blink:
-    weight: 0.0538
+    weight: 0.0515
     avg_copies: 1.5
   samwise-combo:
     weight: 0.1892
     avg_copies: 1.93
   orzhov-blink:
-    weight: 0.1818
+    weight: 0.1739
     avg_copies: 1.2
   azorius-blink:
-    weight: 0.0417
+    weight: 0.0411
     avg_copies: 1.0
   elves:
     weight: 0.5
@@ -91,13 +91,13 @@ archetypes:
     weight: 0.1515
     avg_copies: 1.0
   unknown-77:
-    weight: 0.5
+    weight: 0.3333
     avg_copies: 1.0
   unknown-87:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.0526
+    weight: 0.0633
     avg_copies: 2.0
   unknown-89:
     weight: 1.0
@@ -114,6 +114,9 @@ archetypes:
   unknown-118:
     weight: 1.0
     avg_copies: 4.0
+  unknown-126:
+    weight: 0.0056
+    avg_copies: 2.0
   unknown-136:
     weight: 1.0
     avg_copies: 3.0
@@ -128,12 +131,12 @@ archetypes:
     avg_copies: 4.0
   unknown-160:
     weight: 1.0
-    avg_copies: 3.9
+    avg_copies: 3.91
   unknown-159:
     weight: 1.0
     avg_copies: 1.0
   unknown-167:
-    weight: 0.05
+    weight: 0.0476
     avg_copies: 2.0
   unknown-163:
     weight: 1.0
@@ -157,7 +160,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-213:
-    weight: 0.0714
+    weight: 0.0588
     avg_copies: 2.0
   unknown-216:
     weight: 1.0

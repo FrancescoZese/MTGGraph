@@ -6,21 +6,6 @@ name: 'Unknown #188'
 meta_share: 0.0001
 list_count: 1
 top_cards:
-- name: Orim's Chant
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flooded Strand
-  weight: 1.0
-  avg_copies: 4.0
-- name: Consult the Star Charts
-  weight: 1.0
-  avg_copies: 4.0
-- name: Wrath of the Skies
-  weight: 1.0
-  avg_copies: 4.0
-- name: Solitude
-  weight: 1.0
-  avg_copies: 4.0
 - name: Force of Negation
   weight: 1.0
   avg_copies: 4.0
@@ -30,28 +15,52 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 4.0
-- name: Erode
+- name: Orim's Chant
   weight: 1.0
-  avg_copies: 3.0
-- name: Stock Up
+  avg_copies: 4.0
+- name: Consult the Star Charts
   weight: 1.0
-  avg_copies: 3.0
-- name: Field of Ruin
+  avg_copies: 4.0
+- name: Flooded Strand
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 4.0
+- name: Solitude
+  weight: 1.0
+  avg_copies: 4.0
+- name: Wrath of the Skies
+  weight: 1.0
+  avg_copies: 4.0
 - name: Mystical Dispute
-  weight: 1.0
-  avg_copies: 3.0
-- name: Spell Snare
   weight: 1.0
   avg_copies: 3.0
 - name: High Noon
   weight: 1.0
   avg_copies: 3.0
+- name: Erode
+  weight: 1.0
+  avg_copies: 3.0
+- name: Field of Ruin
+  weight: 1.0
+  avg_copies: 3.0
 - name: Isochron Scepter
   weight: 1.0
   avg_copies: 3.0
+- name: Stock Up
+  weight: 1.0
+  avg_copies: 3.0
+- name: Spell Snare
+  weight: 1.0
+  avg_copies: 3.0
+- name: Mystic Gate
+  weight: 1.0
+  avg_copies: 2.0
+- name: Plains
+  weight: 1.0
+  avg_copies: 2.0
 - name: Hallowed Fountain
+  weight: 1.0
+  avg_copies: 2.0
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 2.0
 - name: Ashiok, Dream Render
@@ -60,31 +69,22 @@ top_cards:
 - name: Rest in Peace
   weight: 1.0
   avg_copies: 2.0
-- name: Mystic Gate
-  weight: 1.0
-  avg_copies: 2.0
-- name: Plains
-  weight: 1.0
-  avg_copies: 2.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 2.0
-- name: Scalding Tarn
-  weight: 1.0
-  avg_copies: 2.0
-- name: Otawara, Soaring City
-  weight: 1.0
-  avg_copies: 1.0
-- name: Teferi, Hero of Dominaria
-  weight: 1.0
-  avg_copies: 1.0
 - name: Island
+  weight: 1.0
+  avg_copies: 1.0
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 1.0
 - name: Monumental Henge
   weight: 1.0
   avg_copies: 1.0
-- name: Arid Mesa
+- name: Teferi, Hero of Dominaria
+  weight: 1.0
+  avg_copies: 1.0
+- name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
 - name: Kaheera, the Orphanguard

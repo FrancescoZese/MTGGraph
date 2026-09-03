@@ -3,10 +3,13 @@ colors:
 - W
 - U
 name: 'Unknown #16'
-meta_share: 0.0013
+meta_share: 0.0012
 list_count: 10
 top_cards:
-- name: Narset, Parter of Veils
+- name: Teferi, Time Raveler
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
 - name: Mystical Dispute
@@ -15,13 +18,10 @@ top_cards:
 - name: Orim's Chant
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Narset, Parter of Veils
   weight: 1.0
   avg_copies: 4.0
 - name: Thundertrap Trainer
-  weight: 1.0
-  avg_copies: 4.0
-- name: Teferi, Time Raveler
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
@@ -45,25 +45,25 @@ top_cards:
 - name: High Noon
   weight: 1.0
   avg_copies: 2.2
-- name: Day's Undoing
-  weight: 1.0
-  avg_copies: 2.0
 - name: Island
   weight: 1.0
   avg_copies: 2.0
 - name: Plains
   weight: 1.0
   avg_copies: 2.0
+- name: Day's Undoing
+  weight: 1.0
+  avg_copies: 2.0
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.9
-- name: Steam Vents
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
-- name: Meticulous Archive
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Sink into Stupor
@@ -105,19 +105,19 @@ top_cards:
 - name: Spell Snare
   weight: 0.2
   avg_copies: 1.5
+- name: Elegant Parlor
+  weight: 0.2
+  avg_copies: 1.0
 - name: Geier Reach Sanitarium
   weight: 0.2
   avg_copies: 1.0
 - name: Monumental Henge
   weight: 0.2
   avg_copies: 1.0
-- name: Isochron Scepter
-  weight: 0.2
-  avg_copies: 1.0
-- name: Elegant Parlor
-  weight: 0.2
-  avg_copies: 1.0
 - name: Thundering Falls
+  weight: 0.2
+  avg_copies: 1.0
+- name: Isochron Scepter
   weight: 0.2
   avg_copies: 1.0
 - name: Brought Back

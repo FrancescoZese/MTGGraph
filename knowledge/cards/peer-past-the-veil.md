@@ -8,12 +8,12 @@ name: Peer Past the Veil
 scryfall_id: 874eadb6-602e-47dc-8094-82e37ac89c94
 set: dsk
 type: Instant
-meta_presence: 0.0003
+meta_presence: 0.0002
 archetypes:
   eldrazi-ramp:
-    weight: 0.0071
+    weight: 0.007
     avg_copies: 1.0
   unknown-6:
-    weight: 0.0526
+    weight: 0.05
     avg_copies: 1.0
 ---

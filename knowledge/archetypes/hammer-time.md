@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: Hammer Time
-meta_share: 0.0028
+meta_share: 0.0027
 list_count: 22
 top_cards:
 - name: Stoneforge Mystic
@@ -87,10 +87,10 @@ top_cards:
 - name: Battlefield Improvisation
   weight: 0.4545
   avg_copies: 3.6
-- name: Marsh Flats
+- name: card:super-soldier-serum
   weight: 0.4545
   avg_copies: 2.6
-- name: card:super-soldier-serum
+- name: Marsh Flats
   weight: 0.4545
   avg_copies: 2.6
 - name: Grafdigger's Cage
@@ -132,43 +132,43 @@ top_cards:
 - name: Stern Scolding
   weight: 0.1818
   avg_copies: 1.0
-- name: March of Otherworldly Light
-  weight: 0.1364
-  avg_copies: 2.0
 - name: Suncleanser
   weight: 0.1364
   avg_copies: 2.0
-- name: Test of Talents
+- name: March of Otherworldly Light
+  weight: 0.1364
+  avg_copies: 2.0
+- name: Springleaf Drum
   weight: 0.1364
   avg_copies: 1.67
-- name: Springleaf Drum
+- name: Test of Talents
   weight: 0.1364
   avg_copies: 1.67
 - name: Soul-Guide Lantern
   weight: 0.1364
   avg_copies: 1.2
-- name: Mishra's Bauble
+- name: card:slippery-bogle
   weight: 0.0909
   avg_copies: 4.0
-- name: card:slippery-bogle
+- name: Mishra's Bauble
   weight: 0.0909
   avg_copies: 4.0
 - name: Seachrome Coast
   weight: 0.0909
   avg_copies: 2.5
+- name: Prismatic Ending
+  weight: 0.0909
+  avg_copies: 1.5
 - name: Containment Priest
+  weight: 0.0909
+  avg_copies: 1.5
+- name: Detect Intrusion
   weight: 0.0909
   avg_copies: 1.5
 - name: Lavinia, Azorius Renegade
   weight: 0.0909
   avg_copies: 1.5
-- name: Prismatic Ending
-  weight: 0.0909
-  avg_copies: 1.5
 - name: Drannith Magistrate
-  weight: 0.0909
-  avg_copies: 1.5
-- name: Detect Intrusion
   weight: 0.0909
   avg_copies: 1.5
 - name: Spell Pierce
@@ -177,10 +177,10 @@ top_cards:
 - name: Kaldra Compleat
   weight: 0.0909
   avg_copies: 1.0
-- name: card:spider-sense
+- name: Voice of Victory
   weight: 0.0909
   avg_copies: 1.0
-- name: Voice of Victory
+- name: card:spider-sense
   weight: 0.0909
   avg_copies: 1.0
 - name: Flare of Fortitude
@@ -189,22 +189,34 @@ top_cards:
 - name: card:bilbo-thief-in-the-night
   weight: 0.0455
   avg_copies: 3.0
-- name: card:blacksmith-s-skill
-  weight: 0.0455
-  avg_copies: 2.0
-- name: Reprieve
-  weight: 0.0455
-  avg_copies: 2.0
 - name: High Noon
+  weight: 0.0455
+  avg_copies: 2.0
+- name: card:blacksmith-s-skill
   weight: 0.0455
   avg_copies: 2.0
 - name: Solitude
   weight: 0.0455
   avg_copies: 2.0
-- name: Stubborn Denial
+- name: Reprieve
+  weight: 0.0455
+  avg_copies: 2.0
+- name: card:dragonfire-blade
+  weight: 0.0455
+  avg_copies: 1.0
+- name: The Reality Chip
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Umezawa's Jitte
   weight: 0.0455
   avg_copies: 1.0
 - name: card:sram-senior-edificer
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Stubborn Denial
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Godless Shrine
   weight: 0.0455
   avg_copies: 1.0
 - name: Cursed Totem
@@ -213,19 +225,7 @@ top_cards:
 - name: Mox Amber
   weight: 0.0455
   avg_copies: 1.0
-- name: Godless Shrine
-  weight: 0.0455
-  avg_copies: 1.0
 - name: Into the Flood Maw
-  weight: 0.0455
-  avg_copies: 1.0
-- name: card:dragonfire-blade
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Umezawa's Jitte
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Forge Anew
   weight: 0.0455
   avg_copies: 1.0
 - name: card:my-precious
@@ -234,7 +234,7 @@ top_cards:
 - name: Spell Snare
   weight: 0.0455
   avg_copies: 1.0
-- name: The Reality Chip
+- name: Forge Anew
   weight: 0.0455
   avg_copies: 1.0
 - name: card:gingerbrute
