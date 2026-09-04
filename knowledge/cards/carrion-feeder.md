@@ -7,10 +7,10 @@ name: Carrion Feeder
 scryfall_id: 0a19da90-880e-4eca-8cf7-6d7baf090d53
 set: mh1
 type: Creature — Zombie
-meta_presence: 0.0091
+meta_presence: 0.0092
 archetypes:
   samwise-combo:
-    weight: 0.9865
+    weight: 0.9867
     avg_copies: 2.0
   unknown-235:
     weight: 1.0

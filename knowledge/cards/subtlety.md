@@ -19,7 +19,7 @@ archetypes:
     weight: 0.0074
     avg_copies: 1.0
   goryo:
-    weight: 0.0531
+    weight: 0.0529
     avg_copies: 1.29
   azorius-control:
     weight: 0.0818
@@ -40,7 +40,7 @@ archetypes:
     weight: 0.8148
     avg_copies: 2.48
   simic-ritual:
-    weight: 0.9902
+    weight: 0.9903
     avg_copies: 3.54
   izzet-prowess:
     weight: 0.0022

@@ -9,28 +9,25 @@ top_cards:
 - name: Preordain
   weight: 1.0
   avg_copies: 4.0
-- name: Snapcaster Mage
-  weight: 1.0
-  avg_copies: 4.0
 - name: Fatal Push
-  weight: 1.0
-  avg_copies: 4.0
-- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
 - name: Subtlety
   weight: 1.0
   avg_copies: 4.0
-- name: Counterspell
+- name: Snapcaster Mage
   weight: 1.0
   avg_copies: 4.0
 - name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
-- name: Force of Negation
+- name: Psychic Frog
   weight: 1.0
-  avg_copies: 3.0
-- name: Harbinger of the Seas
+  avg_copies: 4.0
+- name: Counterspell
+  weight: 1.0
+  avg_copies: 4.0
+- name: Force of Negation
   weight: 1.0
   avg_copies: 3.0
 - name: Polluted Delta
@@ -39,22 +36,22 @@ top_cards:
 - name: Liliana of the Veil
   weight: 1.0
   avg_copies: 3.0
-- name: Nihil Spellbomb
+- name: Harbinger of the Seas
+  weight: 1.0
+  avg_copies: 3.0
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 2.0
-- name: Dauthi Voidwalker
+- name: Nihil Spellbomb
   weight: 1.0
   avg_copies: 2.0
 - name: Inquisition of Kozilek
   weight: 1.0
   avg_copies: 2.0
-- name: Cling to Dust
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 2.0
-- name: Engineered Explosives
-  weight: 1.0
-  avg_copies: 2.0
-- name: Surgical Extraction
+- name: Dauthi Voidwalker
   weight: 1.0
   avg_copies: 2.0
 - name: Watery Grave
@@ -63,28 +60,31 @@ top_cards:
 - name: Undercity Sewers
   weight: 1.0
   avg_copies: 2.0
-- name: Thoughtseize
+- name: Surgical Extraction
   weight: 1.0
   avg_copies: 2.0
-- name: Quantum Riddler
+- name: Cling to Dust
   weight: 1.0
   avg_copies: 2.0
 - name: Spell Snare
   weight: 1.0
   avg_copies: 2.0
-- name: Sink into Stupor
+- name: Engineered Explosives
   weight: 1.0
   avg_copies: 2.0
-- name: Darkslick Shores
+- name: Quantum Riddler
+  weight: 1.0
+  avg_copies: 2.0
+- name: Scalding Tarn
   weight: 1.0
   avg_copies: 1.0
 - name: Island
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: Darkslick Shores
   weight: 1.0
   avg_copies: 1.0
-- name: Scalding Tarn
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 ---

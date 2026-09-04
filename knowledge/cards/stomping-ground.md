@@ -24,16 +24,16 @@ archetypes:
     weight: 0.9859
     avg_copies: 1.39
   simic-ritual:
-    weight: 0.0294
+    weight: 0.0291
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.1557
+    weight: 0.1547
     avg_copies: 1.03
   4c-omnath:
     weight: 0.5
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.0541
+    weight: 0.0667
     avg_copies: 1.0
   indomitable-creativity:
     weight: 1.0
@@ -141,7 +141,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-194:
-    weight: 0.0933
+    weight: 0.0909
     avg_copies: 1.0
   unknown-196:
     weight: 1.0

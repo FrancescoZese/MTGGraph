@@ -6,23 +6,23 @@ name: Cursed Totem
 scryfall_id: 5dde91a9-7d2d-4a7b-861a-3d1c16ec79d9
 set: mh2
 type: Artifact
-meta_presence: 0.0117
+meta_presence: 0.0119
 archetypes:
   eldrazi-tron:
-    weight: 0.0855
+    weight: 0.0852
     avg_copies: 1.03
   amulet-titan:
     weight: 0.0272
     avg_copies: 2.4
   goryo:
-    weight: 0.0064
+    weight: 0.0063
     avg_copies: 1.0
   jeskai-control:
     weight: 0.0137
     avg_copies: 2.0
   affinity:
-    weight: 0.019
-    avg_copies: 1.64
+    weight: 0.0206
+    avg_copies: 1.58
   mill:
     weight: 0.0256
     avg_copies: 2.0
@@ -66,7 +66,7 @@ archetypes:
     weight: 0.0172
     avg_copies: 2.5
   unknown-194:
-    weight: 0.0267
+    weight: 0.026
     avg_copies: 1.5
   unknown-246:
     weight: 1.0
@@ -75,7 +75,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-265:
-    weight: 0.5455
+    weight: 0.5833
     avg_copies: 1.0
   unknown-280:
     weight: 0.5

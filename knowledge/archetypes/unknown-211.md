@@ -9,7 +9,10 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 5.22
-- name: Darkbore Pathway
+- name: Soul Spike
+  weight: 1.0
+  avg_copies: 4.0
+- name: Cosmogoyf
   weight: 1.0
   avg_copies: 4.0
 - name: Blooming Marsh
@@ -18,10 +21,7 @@ top_cards:
 - name: Necrodominance
   weight: 1.0
   avg_copies: 4.0
-- name: Soul Spike
-  weight: 1.0
-  avg_copies: 4.0
-- name: Cosmogoyf
+- name: Darkbore Pathway
   weight: 1.0
   avg_copies: 4.0
 - name: Plunge into Darkness
@@ -96,43 +96,43 @@ top_cards:
 - name: Underground Mortuary
   weight: 0.2222
   avg_copies: 1.0
-- name: Soul-Guide Lantern
-  weight: 0.1111
-  avg_copies: 3.0
 - name: Pick Your Poison
   weight: 0.1111
   avg_copies: 3.0
-- name: The Meathook Massacre
+- name: Soul-Guide Lantern
   weight: 0.1111
-  avg_copies: 2.0
-- name: Sorin, Imperious Bloodlord
-  weight: 0.1111
-  avg_copies: 2.0
-- name: card:demonic-bargain
-  weight: 0.1111
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Thoughtseize
   weight: 0.1111
   avg_copies: 2.0
 - name: Nurturing Peatland
   weight: 0.1111
   avg_copies: 2.0
-- name: card:woodland-cemetery
-  weight: 0.1111
-  avg_copies: 2.0
 - name: Grafdigger's Cage
   weight: 0.1111
   avg_copies: 2.0
-- name: Soulless Jailer
+- name: Sorin, Imperious Bloodlord
+  weight: 0.1111
+  avg_copies: 2.0
+- name: card:woodland-cemetery
+  weight: 0.1111
+  avg_copies: 2.0
+- name: The Meathook Massacre
   weight: 0.1111
   avg_copies: 2.0
 - name: Gemstone Caverns
   weight: 0.1111
   avg_copies: 2.0
-- name: Fell the Profane
+- name: card:demonic-bargain
+  weight: 0.1111
+  avg_copies: 2.0
+- name: Soulless Jailer
+  weight: 0.1111
+  avg_copies: 2.0
+- name: Urborg, Tomb of Yawgmoth
   weight: 0.1111
   avg_copies: 1.0
-- name: Urborg, Tomb of Yawgmoth
+- name: Fell the Profane
   weight: 0.1111
   avg_copies: 1.0
 ---

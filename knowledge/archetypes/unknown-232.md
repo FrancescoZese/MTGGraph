@@ -6,7 +6,7 @@ name: 'Unknown #232'
 meta_share: 0.0002
 list_count: 2
 top_cards:
-- name: Boros Charm
+- name: Rift Bolt
   weight: 1.0
   avg_copies: 4.0
 - name: Chandra's Incinerator
@@ -15,19 +15,19 @@ top_cards:
 - name: Lava Spike
   weight: 1.0
   avg_copies: 4.0
-- name: Seal of Fire
-  weight: 1.0
-  avg_copies: 4.0
-- name: Rift Bolt
-  weight: 1.0
-  avg_copies: 4.0
-- name: Boltwave
-  weight: 1.0
-  avg_copies: 4.0
 - name: Dragon's Rage Channeler
   weight: 1.0
   avg_copies: 4.0
+- name: Seal of Fire
+  weight: 1.0
+  avg_copies: 4.0
 - name: Lightning Bolt
+  weight: 1.0
+  avg_copies: 4.0
+- name: Boros Charm
+  weight: 1.0
+  avg_copies: 4.0
+- name: Boltwave
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
@@ -42,27 +42,30 @@ top_cards:
 - name: Roiling Vortex
   weight: 1.0
   avg_copies: 2.5
-- name: Wear
-  weight: 1.0
-  avg_copies: 2.5
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 2.5
-- name: Arid Mesa
+- name: Wear
   weight: 1.0
-  avg_copies: 2.0
-- name: Path to Exile
+  avg_copies: 2.5
+- name: Mountain
   weight: 1.0
   avg_copies: 2.0
 - name: Barbarian Ring
   weight: 1.0
   avg_copies: 2.0
-- name: Mountain
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 2.0
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.0
+- name: Path to Exile
+  weight: 1.0
+  avg_copies: 2.0
+- name: Searing Blaze
+  weight: 0.5
+  avg_copies: 4.0
 - name: Monastery Swiftspear
   weight: 0.5
   avg_copies: 4.0
@@ -70,9 +73,6 @@ top_cards:
   weight: 0.5
   avg_copies: 4.0
 - name: Cori-Steel Cutter
-  weight: 0.5
-  avg_copies: 4.0
-- name: Searing Blaze
   weight: 0.5
   avg_copies: 4.0
 - name: Tormod's Crypt
@@ -84,10 +84,10 @@ top_cards:
 - name: Skullcrack
   weight: 0.5
   avg_copies: 2.0
-- name: Lava Dart
+- name: Smash to Smithereens
   weight: 0.5
   avg_copies: 2.0
-- name: Smash to Smithereens
+- name: Lava Dart
   weight: 0.5
   avg_copies: 2.0
 - name: Wooded Foothills

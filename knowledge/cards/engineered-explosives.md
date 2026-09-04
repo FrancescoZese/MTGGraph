@@ -15,7 +15,7 @@ archetypes:
     weight: 0.8058
     avg_copies: 1.95
   eldrazi-tron:
-    weight: 0.1425
+    weight: 0.142
     avg_copies: 1.0
   amulet-titan:
     weight: 0.0217
@@ -42,7 +42,7 @@ archetypes:
     weight: 0.1056
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0098
+    weight: 0.0097
     avg_copies: 3.0
   izzet-artifacts:
     weight: 0.1875
@@ -189,8 +189,8 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   unknown-265:
-    weight: 0.4545
-    avg_copies: 1.0
+    weight: 0.5
+    avg_copies: 1.17
   unknown-267:
     weight: 1.0
     avg_copies: 2.0
@@ -200,4 +200,7 @@ archetypes:
   unknown-281:
     weight: 0.3333
     avg_copies: 3.0
+  unknown-284:
+    weight: 1.0
+    avg_copies: 2.0
 ---

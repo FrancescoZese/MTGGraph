@@ -16,7 +16,7 @@ archetypes:
     weight: 0.9852
     avg_copies: 3.61
   domain-zoo:
-    weight: 0.2839
+    weight: 0.293
     avg_copies: 2.93
   mardu-blink:
     weight: 1.0

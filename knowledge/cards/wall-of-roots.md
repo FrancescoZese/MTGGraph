@@ -10,7 +10,7 @@ type: Creature — Plant Wall
 meta_presence: 0.0009
 archetypes:
   samwise-combo:
-    weight: 0.0811
+    weight: 0.08
     avg_copies: 2.0
   unknown-102:
     weight: 0.5

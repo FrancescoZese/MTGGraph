@@ -6,10 +6,10 @@ name: Damping Sphere
 scryfall_id: 550860b4-887d-423a-8add-816c2a8da615
 set: dmr
 type: Artifact
-meta_presence: 0.2587
+meta_presence: 0.2585
 archetypes:
   boros-energy:
-    weight: 0.2744
+    weight: 0.2741
     avg_copies: 1.37
   dimir-control:
     weight: 0.1728
@@ -21,7 +21,7 @@ archetypes:
     weight: 0.0256
     avg_copies: 1.0
   goryo:
-    weight: 0.0892
+    weight: 0.0888
     avg_copies: 1.76
   hardened-scales:
     weight: 1.0
@@ -39,10 +39,10 @@ archetypes:
     weight: 0.0959
     avg_copies: 1.71
   affinity:
-    weight: 0.9534
+    weight: 0.9536
     avg_copies: 2.16
   domain-zoo:
-    weight: 0.4774
+    weight: 0.4713
     avg_copies: 1.64
   mill:
     weight: 0.0513
@@ -66,13 +66,13 @@ archetypes:
     weight: 0.0142
     avg_copies: 1.5
   yawgmoth-combo:
-    weight: 0.2083
+    weight: 0.2062
     avg_copies: 1.1
   eldrazi-ramp:
     weight: 0.0211
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.1569
+    weight: 0.1553
     avg_copies: 1.88
   4c-omnath:
     weight: 0.25
@@ -81,7 +81,7 @@ archetypes:
     weight: 0.5665
     avg_copies: 2.09
   samwise-combo:
-    weight: 0.0405
+    weight: 0.04
     avg_copies: 1.67
   broodscale-combo:
     weight: 0.4248
@@ -297,7 +297,7 @@ archetypes:
     weight: 0.25
     avg_copies: 2.0
   unknown-126:
-    weight: 0.1011
+    weight: 0.0994
     avg_copies: 1.22
   unknown-130:
     weight: 1.0
@@ -357,7 +357,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-194:
-    weight: 0.1733
+    weight: 0.1688
     avg_copies: 1.38
   unknown-195:
     weight: 1.0
@@ -404,4 +404,7 @@ archetypes:
   unknown-282:
     weight: 1.0
     avg_copies: 4.0
+  unknown-284:
+    weight: 1.0
+    avg_copies: 2.0
 ---

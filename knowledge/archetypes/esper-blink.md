@@ -4,7 +4,7 @@ colors:
 - U
 - B
 name: Esper Blink
-meta_share: 0.0288
+meta_share: 0.0287
 list_count: 233
 top_cards:
 - name: Overlord of the Balemurk
@@ -160,9 +160,6 @@ top_cards:
 - name: Deafening Silence
   weight: 0.0172
   avg_copies: 2.5
-- name: Chalice of the Void
-  weight: 0.0172
-  avg_copies: 1.0
 - name: Kavaero, Mind-Bitten
   weight: 0.0172
   avg_copies: 1.0
@@ -172,37 +169,40 @@ top_cards:
 - name: Faerie Macabre
   weight: 0.0172
   avg_copies: 1.0
-- name: Subtlety
-  weight: 0.0129
-  avg_copies: 2.33
+- name: Chalice of the Void
+  weight: 0.0172
+  avg_copies: 1.0
 - name: Practiced Offense
   weight: 0.0129
   avg_copies: 2.33
-- name: Graveyard Trespasser
+- name: Subtlety
   weight: 0.0129
-  avg_copies: 2.0
+  avg_copies: 2.33
 - name: Northampton Farm
   weight: 0.0129
   avg_copies: 2.0
 - name: Abhorrent Oculus
   weight: 0.0129
   avg_copies: 2.0
+- name: Graveyard Trespasser
+  weight: 0.0129
+  avg_copies: 2.0
 - name: Orim's Chant
   weight: 0.0129
   avg_copies: 1.67
+- name: Boromir, Warden of the Tower
+  weight: 0.0129
+  avg_copies: 1.0
 - name: Celestial Purge
   weight: 0.0129
   avg_copies: 1.0
 - name: Floodfarm Verge
   weight: 0.0129
   avg_copies: 1.0
-- name: Boromir, Warden of the Tower
+- name: Pest Control
   weight: 0.0129
   avg_copies: 1.0
 - name: Emrakul, the Aeons Torn
-  weight: 0.0129
-  avg_copies: 1.0
-- name: Pest Control
   weight: 0.0129
   avg_copies: 1.0
 - name: Ocelot Pride
@@ -223,13 +223,13 @@ top_cards:
 - name: Snow-Covered Plains
   weight: 0.0086
   avg_copies: 1.0
-- name: Hydroelectric Specimen
+- name: Snow-Covered Swamp
   weight: 0.0086
   avg_copies: 1.0
 - name: Damn
   weight: 0.0086
   avg_copies: 1.0
-- name: Snow-Covered Swamp
+- name: Hydroelectric Specimen
   weight: 0.0086
   avg_copies: 1.0
 - name: Snow-Covered Island
@@ -253,34 +253,28 @@ top_cards:
 - name: Grafdigger's Cage
   weight: 0.0043
   avg_copies: 2.0
-- name: Emeritus of Ideation
-  weight: 0.0043
-  avg_copies: 1.0
-- name: Exorcise
-  weight: 0.0043
-  avg_copies: 1.0
 - name: Inquisition of Kozilek
   weight: 0.0043
   avg_copies: 1.0
-- name: card:gollum-riddle-master
+- name: Emptiness
   weight: 0.0043
   avg_copies: 1.0
-- name: Sacred Ground
-  weight: 0.0043
-  avg_copies: 1.0
-- name: Supreme Verdict
-  weight: 0.0043
-  avg_copies: 1.0
-- name: Spell Pierce
-  weight: 0.0043
-  avg_copies: 1.0
-- name: Cling to Dust
+- name: Darkblast
   weight: 0.0043
   avg_copies: 1.0
 - name: card:elesh-norn
   weight: 0.0043
   avg_copies: 1.0
-- name: Wonder
+- name: Stony Silence
+  weight: 0.0043
+  avg_copies: 1.0
+- name: Rest in Peace
+  weight: 0.0043
+  avg_copies: 1.0
+- name: Cling to Dust
+  weight: 0.0043
+  avg_copies: 1.0
+- name: Exorcise
   weight: 0.0043
   avg_copies: 1.0
 - name: Darkslick Shores
@@ -289,22 +283,28 @@ top_cards:
 - name: Path to Exile
   weight: 0.0043
   avg_copies: 1.0
-- name: Stony Silence
-  weight: 0.0043
-  avg_copies: 1.0
-- name: Darkblast
-  weight: 0.0043
-  avg_copies: 1.0
-- name: Kataki, War's Wage
-  weight: 0.0043
-  avg_copies: 1.0
-- name: Emptiness
-  weight: 0.0043
-  avg_copies: 1.0
 - name: Windswept Heath
   weight: 0.0043
   avg_copies: 1.0
-- name: Rest in Peace
+- name: Emeritus of Ideation
+  weight: 0.0043
+  avg_copies: 1.0
+- name: Wonder
+  weight: 0.0043
+  avg_copies: 1.0
+- name: Supreme Verdict
+  weight: 0.0043
+  avg_copies: 1.0
+- name: Spell Pierce
+  weight: 0.0043
+  avg_copies: 1.0
+- name: card:gollum-riddle-master
+  weight: 0.0043
+  avg_copies: 1.0
+- name: Sacred Ground
+  weight: 0.0043
+  avg_copies: 1.0
+- name: Kataki, War's Wage
   weight: 0.0043
   avg_copies: 1.0
 ---

@@ -5,7 +5,7 @@ colors:
 - R
 - G
 name: 'Unknown #96'
-meta_share: 0.0098
+meta_share: 0.0097
 list_count: 79
 top_cards:
 - name: Faithless Looting
@@ -29,10 +29,10 @@ top_cards:
 - name: Sacred Foundry
   weight: 1.0
   avg_copies: 3.09
-- name: Blazing Rootwalla
+- name: Burning Inquiry
   weight: 0.9873
   avg_copies: 4.0
-- name: Burning Inquiry
+- name: Blazing Rootwalla
   weight: 0.9873
   avg_copies: 4.0
 - name: Vengevine
@@ -128,10 +128,10 @@ top_cards:
 - name: Erode
   weight: 0.0633
   avg_copies: 2.0
-- name: Deafening Silence
+- name: Magebane Lizard
   weight: 0.0633
   avg_copies: 1.8
-- name: Magebane Lizard
+- name: Deafening Silence
   weight: 0.0633
   avg_copies: 1.8
 - name: Moonshadow
@@ -158,16 +158,16 @@ top_cards:
 - name: Asmoranomardicadaistinaculdacar
   weight: 0.038
   avg_copies: 2.0
-- name: Seasoned Pyromancer
+- name: card:smiting-helix
+  weight: 0.038
+  avg_copies: 2.0
+- name: Cool but Rude
   weight: 0.038
   avg_copies: 2.0
 - name: The Underworld Cookbook
   weight: 0.038
   avg_copies: 2.0
-- name: card:smiting-helix
-  weight: 0.038
-  avg_copies: 2.0
-- name: Cool but Rude
+- name: Seasoned Pyromancer
   weight: 0.038
   avg_copies: 2.0
 - name: Unholy Heat
@@ -185,22 +185,22 @@ top_cards:
 - name: Pyroclasm
   weight: 0.0253
   avg_copies: 1.5
-- name: Celestial Purge
+- name: Wrath of the Skies
   weight: 0.0253
   avg_copies: 1.5
-- name: Wrath of the Skies
+- name: Celestial Purge
   weight: 0.0253
   avg_copies: 1.5
 - name: Goblin Lore
   weight: 0.0127
   avg_copies: 4.0
+- name: Price of Freedom
+  weight: 0.0127
+  avg_copies: 3.0
 - name: Marsh Flats
   weight: 0.0127
   avg_copies: 3.0
 - name: Nethergoyf
-  weight: 0.0127
-  avg_copies: 3.0
-- name: Price of Freedom
   weight: 0.0127
   avg_copies: 3.0
 - name: Relic of Progenitus
@@ -209,10 +209,10 @@ top_cards:
 - name: Hallowed Moonlight
   weight: 0.0127
   avg_copies: 2.0
-- name: Godless Shrine
+- name: Plains
   weight: 0.0127
   avg_copies: 1.0
-- name: Plains
+- name: Godless Shrine
   weight: 0.0127
   avg_copies: 1.0
 - name: Temur Battle Rage

@@ -7,7 +7,7 @@ name: Kappa Cannoneer
 scryfall_id: 99cd996f-be74-4dbb-9460-6d650cedfca6
 set: eoc
 type: Artifact Creature — Turtle Warrior
-meta_presence: 0.0757
+meta_presence: 0.0759
 archetypes:
   affinity:
     weight: 1.0
@@ -45,4 +45,7 @@ archetypes:
   unknown-281:
     weight: 1.0
     avg_copies: 3.67
+  unknown-284:
+    weight: 1.0
+    avg_copies: 4.0
 ---

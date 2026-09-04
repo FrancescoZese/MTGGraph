@@ -15,7 +15,7 @@ archetypes:
     weight: 0.0217
     avg_copies: 1.0
   goryo:
-    weight: 0.155
+    weight: 0.1543
     avg_copies: 1.0
   azorius-control:
     weight: 0.1091
@@ -33,7 +33,7 @@ archetypes:
     weight: 0.0845
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.9902
+    weight: 0.9903
     avg_copies: 1.75
   4c-omnath:
     weight: 0.75

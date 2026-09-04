@@ -2,7 +2,7 @@
 colors:
 - G
 name: 'Unknown #61'
-meta_share: 0.0173
+meta_share: 0.0172
 list_count: 140
 top_cards:
 - name: Kozilek's Command
@@ -143,10 +143,10 @@ top_cards:
 - name: Bojuka Bog
   weight: 0.0429
   avg_copies: 1.0
-- name: card:balustrade-wurm
+- name: Scavenging Ooze
   weight: 0.0286
   avg_copies: 1.0
-- name: Scavenging Ooze
+- name: card:balustrade-wurm
   weight: 0.0286
   avg_copies: 1.0
 - name: Vexing Bauble
@@ -155,22 +155,22 @@ top_cards:
 - name: Icetill Explorer
   weight: 0.0214
   avg_copies: 1.33
-- name: card:null-elemental-blast
+- name: Damping Sphere
   weight: 0.0143
   avg_copies: 2.0
 - name: Nature's Claim
   weight: 0.0143
   avg_copies: 2.0
-- name: Damping Sphere
+- name: card:null-elemental-blast
   weight: 0.0143
   avg_copies: 2.0
+- name: Soul-Guide Lantern
+  weight: 0.0143
+  avg_copies: 1.5
 - name: Disruptor Flute
   weight: 0.0143
   avg_copies: 1.5
 - name: Veil of Summer
-  weight: 0.0143
-  avg_copies: 1.5
-- name: Soul-Guide Lantern
   weight: 0.0143
   avg_copies: 1.5
 - name: Shifting Woodland
@@ -185,31 +185,31 @@ top_cards:
 - name: Hashep Oasis
   weight: 0.0071
   avg_copies: 2.0
-- name: Ouroboroid
-  weight: 0.0071
-  avg_copies: 1.0
 - name: Relic of Progenitus
   weight: 0.0071
   avg_copies: 1.0
+- name: Eladamri, Korvecdal
+  weight: 0.0071
+  avg_copies: 1.0
 - name: Carnage Tyrant
+  weight: 0.0071
+  avg_copies: 1.0
+- name: Ouroboroid
+  weight: 0.0071
+  avg_copies: 1.0
+- name: Tajuru Preserver
+  weight: 0.0071
+  avg_copies: 1.0
+- name: Outland Liberator
+  weight: 0.0071
+  avg_copies: 1.0
+- name: Yavimaya, Cradle of Growth
   weight: 0.0071
   avg_copies: 1.0
 - name: Ghalta, Stampede Tyrant
   weight: 0.0071
   avg_copies: 1.0
 - name: Insidious Fungus
-  weight: 0.0071
-  avg_copies: 1.0
-- name: Eladamri, Korvecdal
-  weight: 0.0071
-  avg_copies: 1.0
-- name: Yavimaya, Cradle of Growth
-  weight: 0.0071
-  avg_copies: 1.0
-- name: Outland Liberator
-  weight: 0.0071
-  avg_copies: 1.0
-- name: Tajuru Preserver
   weight: 0.0071
   avg_copies: 1.0
 ---

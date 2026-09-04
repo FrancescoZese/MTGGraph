@@ -7,25 +7,25 @@ name: 'Unknown #131'
 meta_share: 0.0012
 list_count: 10
 top_cards:
-- name: Ocelot Pride
+- name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 4.0
-- name: Quantum Riddler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Guide of Souls
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marsh Flats
+- name: Solitude
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Solitude
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ocelot Pride
+  weight: 1.0
+  avg_copies: 4.0
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 4.0
 - name: Phelia, Exuberant Shepherd
@@ -46,10 +46,10 @@ top_cards:
 - name: Wrath of the Skies
   weight: 1.0
   avg_copies: 2.0
-- name: Plains
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.6
-- name: Hallowed Fountain
+- name: Plains
   weight: 1.0
   avg_copies: 1.6
 - name: Meticulous Archive
@@ -58,10 +58,10 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.3
-- name: Shadowy Backstreet
+- name: Watery Grave
   weight: 1.0
   avg_copies: 1.0
-- name: Watery Grave
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Starfield Shepherd
@@ -103,10 +103,10 @@ top_cards:
 - name: High Noon
   weight: 0.3
   avg_copies: 2.0
-- name: Swamp
+- name: Undercity Sewers
   weight: 0.3
   avg_copies: 1.0
-- name: Undercity Sewers
+- name: Swamp
   weight: 0.3
   avg_copies: 1.0
 - name: Overlord of the Balemurk
@@ -127,25 +127,25 @@ top_cards:
 - name: Dalkovan Encampment
   weight: 0.1
   avg_copies: 2.0
+- name: Thraben Charm
+  weight: 0.1
+  avg_copies: 2.0
 - name: Voice of Victory
   weight: 0.1
   avg_copies: 2.0
 - name: White Orchid Phantom
   weight: 0.1
   avg_copies: 2.0
-- name: Thraben Charm
-  weight: 0.1
-  avg_copies: 2.0
-- name: Takenuma, Abandoned Mire
-  weight: 0.1
-  avg_copies: 1.0
 - name: Ghost Vacuum
   weight: 0.1
   avg_copies: 1.0
-- name: March of Otherworldly Light
+- name: Floodfarm Verge
   weight: 0.1
   avg_copies: 1.0
-- name: Floodfarm Verge
+- name: Takenuma, Abandoned Mire
+  weight: 0.1
+  avg_copies: 1.0
+- name: March of Otherworldly Light
   weight: 0.1
   avg_copies: 1.0
 - name: Clarion Conqueror

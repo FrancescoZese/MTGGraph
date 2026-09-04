@@ -18,7 +18,7 @@ archetypes:
     weight: 0.0217
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.3935
+    weight: 0.4013
     avg_copies: 1.0
   reanimator:
     weight: 0.8889
@@ -33,7 +33,7 @@ archetypes:
     weight: 0.9706
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.0351
+    weight: 0.0349
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.9375

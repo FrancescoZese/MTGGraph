@@ -5,10 +5,10 @@ name: Mono Blue Belcher
 meta_share: 0.0127
 list_count: 103
 top_cards:
-- name: Goblin Charbelcher
+- name: Whir of Invention
   weight: 1.0
   avg_copies: 4.0
-- name: Whir of Invention
+- name: Goblin Charbelcher
   weight: 1.0
   avg_copies: 4.0
 - name: Lotus Bloom
@@ -155,16 +155,10 @@ top_cards:
 - name: Wan Shi Tong, Librarian
   weight: 0.0097
   avg_copies: 2.0
-- name: Witch Enchanter
+- name: Ashiok, Dream Render
   weight: 0.0097
   avg_copies: 1.0
-- name: card:threads-of-disloyalty
-  weight: 0.0097
-  avg_copies: 1.0
-- name: Erode
-  weight: 0.0097
-  avg_copies: 1.0
-- name: Subtlety
+- name: card:snapback
   weight: 0.0097
   avg_copies: 1.0
 - name: Hope of Ghirapur
@@ -173,25 +167,31 @@ top_cards:
 - name: Shadow of Doubt
   weight: 0.0097
   avg_copies: 1.0
-- name: card:snapback
-  weight: 0.0097
-  avg_copies: 1.0
 - name: Displacement Wave
-  weight: 0.0097
-  avg_copies: 1.0
-- name: Surgical Extraction
   weight: 0.0097
   avg_copies: 1.0
 - name: Dress Down
   weight: 0.0097
   avg_copies: 1.0
+- name: card:diary-of-dreams
+  weight: 0.0097
+  avg_copies: 1.0
+- name: card:threads-of-disloyalty
+  weight: 0.0097
+  avg_copies: 1.0
+- name: Subtlety
+  weight: 0.0097
+  avg_copies: 1.0
 - name: Isochron Scepter
   weight: 0.0097
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Erode
   weight: 0.0097
   avg_copies: 1.0
-- name: card:diary-of-dreams
+- name: Surgical Extraction
+  weight: 0.0097
+  avg_copies: 1.0
+- name: Witch Enchanter
   weight: 0.0097
   avg_copies: 1.0
 ---

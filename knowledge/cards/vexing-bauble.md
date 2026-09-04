@@ -6,16 +6,16 @@ name: Vexing Bauble
 scryfall_id: 29f11089-658f-42e6-aeb0-09b512ad2479
 set: mh3
 type: Artifact
-meta_presence: 0.3729
+meta_presence: 0.3734
 archetypes:
   ruby-storm:
     weight: 0.0909
     avg_copies: 1.65
   boros-energy:
-    weight: 0.6527
+    weight: 0.6531
     avg_copies: 1.62
   eldrazi-tron:
-    weight: 0.6125
+    weight: 0.6136
     avg_copies: 1.24
   amulet-titan:
     weight: 0.6902
@@ -33,10 +33,10 @@ archetypes:
     weight: 0.0909
     avg_copies: 1.9
   affinity:
-    weight: 0.7276
+    weight: 0.7285
     avg_copies: 1.07
   domain-zoo:
-    weight: 0.0839
+    weight: 0.0828
     avg_copies: 1.38
   mill:
     weight: 0.2051
@@ -66,23 +66,23 @@ archetypes:
     weight: 0.875
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.9375
-    avg_copies: 1.35
+    weight: 0.9381
+    avg_copies: 1.36
   eldrazi-ramp:
     weight: 0.7394
     avg_copies: 1.75
   simic-ritual:
-    weight: 0.0098
+    weight: 0.0097
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0329
+    weight: 0.0327
     avg_copies: 2.2
   esper-blink:
     weight: 0.0086
     avg_copies: 2.0
   samwise-combo:
-    weight: 0.4324
-    avg_copies: 1.66
+    weight: 0.44
+    avg_copies: 1.64
   broodscale-combo:
     weight: 0.9941
     avg_copies: 1.69
@@ -129,7 +129,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   cosmogoyf-fling:
-    weight: 0.1613
+    weight: 0.1587
     avg_copies: 2.1
   scapeshift-combo:
     weight: 1.0
@@ -306,7 +306,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-126:
-    weight: 0.7191
+    weight: 0.7238
     avg_copies: 1.92
   unknown-130:
     weight: 1.0
@@ -393,7 +393,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-194:
-    weight: 0.9733
+    weight: 0.974
     avg_copies: 1.53
   unknown-197:
     weight: 1.0
@@ -444,7 +444,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-265:
-    weight: 0.3636
+    weight: 0.3333
     avg_copies: 1.14
   unknown-270:
     weight: 1.0
@@ -467,4 +467,7 @@ archetypes:
   unknown-281:
     weight: 1.0
     avg_copies: 1.33
+  unknown-284:
+    weight: 1.0
+    avg_copies: 1.0
 ---

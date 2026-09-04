@@ -6,7 +6,7 @@ colors:
 - R
 - G
 name: Neoform Combo
-meta_share: 0.0151
+meta_share: 0.015
 list_count: 122
 top_cards:
 - name: Eldritch Evolution
@@ -168,49 +168,43 @@ top_cards:
 - name: Serra's Emissary
   weight: 0.0246
   avg_copies: 1.0
-- name: Glittering Wish
-  weight: 0.0164
-  avg_copies: 4.0
 - name: Gemstone Mine
   weight: 0.0164
   avg_copies: 4.0
 - name: Invasion of Gobakhan
   weight: 0.0164
   avg_copies: 4.0
-- name: Rakshasa's Bargain
+- name: Glittering Wish
   weight: 0.0164
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Abrupt Decay
   weight: 0.0164
   avg_copies: 3.0
-- name: Raph & Mikey, Troublemakers
+- name: Rakshasa's Bargain
+  weight: 0.0164
+  avg_copies: 3.0
+- name: Nature's Chant
   weight: 0.0164
   avg_copies: 1.0
-- name: Stormkeld Vanguard
+- name: Raph & Mikey, Troublemakers
   weight: 0.0164
   avg_copies: 1.0
 - name: Detention Sphere
   weight: 0.0164
   avg_copies: 1.0
-- name: Underground Mortuary
-  weight: 0.0164
-  avg_copies: 1.0
-- name: Stump Stomp
-  weight: 0.0164
-  avg_copies: 1.0
-- name: Thundering Falls
-  weight: 0.0164
-  avg_copies: 1.0
 - name: Wan Shi Tong, Librarian
-  weight: 0.0164
-  avg_copies: 1.0
-- name: Lush Portico
   weight: 0.0164
   avg_copies: 1.0
 - name: Borborygmos Enraged
   weight: 0.0164
   avg_copies: 1.0
+- name: Stormkeld Vanguard
+  weight: 0.0164
+  avg_copies: 1.0
 - name: Firespout
+  weight: 0.0164
+  avg_copies: 1.0
+- name: Stump Stomp
   weight: 0.0164
   avg_copies: 1.0
 - name: Mistrise Village
@@ -219,40 +213,61 @@ top_cards:
 - name: Undercity Sewers
   weight: 0.0164
   avg_copies: 1.0
-- name: Nature's Chant
+- name: Lush Portico
   weight: 0.0164
   avg_copies: 1.0
-- name: Detect Intrusion
-  weight: 0.0082
-  avg_copies: 4.0
-- name: Hexing Squelcher
-  weight: 0.0082
-  avg_copies: 4.0
-- name: Voice of Victory
-  weight: 0.0082
-  avg_copies: 4.0
+- name: Underground Mortuary
+  weight: 0.0164
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.0164
+  avg_copies: 1.0
 - name: Geometer's Arthropod
   weight: 0.0082
   avg_copies: 4.0
 - name: Summoning Trap
   weight: 0.0082
   avg_copies: 4.0
+- name: Detect Intrusion
+  weight: 0.0082
+  avg_copies: 4.0
+- name: Voice of Victory
+  weight: 0.0082
+  avg_copies: 4.0
+- name: Hexing Squelcher
+  weight: 0.0082
+  avg_copies: 4.0
 - name: Birthing Ritual
   weight: 0.0082
   avg_copies: 3.0
-- name: Quantum Riddler
-  weight: 0.0082
-  avg_copies: 2.0
 - name: Frenzied Baloth
   weight: 0.0082
   avg_copies: 2.0
-- name: Subtlety
+- name: Quantum Riddler
   weight: 0.0082
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Strix Serenade
   weight: 0.0082
   avg_copies: 1.0
+- name: Brainsurge
+  weight: 0.0082
+  avg_copies: 1.0
+- name: Echoing Truth
+  weight: 0.0082
+  avg_copies: 1.0
 - name: Murktide Regent
+  weight: 0.0082
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 0.0082
+  avg_copies: 1.0
+- name: Leatherhead, Swamp Stalker
+  weight: 0.0082
+  avg_copies: 1.0
+- name: card:webstrike-elite
+  weight: 0.0082
+  avg_copies: 1.0
+- name: Crucible of Worlds
   weight: 0.0082
   avg_copies: 1.0
 - name: Waterlogged Grove
@@ -261,34 +276,19 @@ top_cards:
 - name: card:daring-waverider
   weight: 0.0082
   avg_copies: 1.0
-- name: card:webstrike-elite
+- name: Commercial District
   weight: 0.0082
   avg_copies: 1.0
 - name: card:fungal-colossus
   weight: 0.0082
   avg_copies: 1.0
-- name: Brainsurge
-  weight: 0.0082
-  avg_copies: 1.0
-- name: Hallowed Fountain
-  weight: 0.0082
-  avg_copies: 1.0
 - name: Temple Garden
   weight: 0.0082
   avg_copies: 1.0
-- name: Crucible of Worlds
-  weight: 0.0082
-  avg_copies: 1.0
-- name: Echoing Truth
-  weight: 0.0082
-  avg_copies: 1.0
-- name: Commercial District
+- name: Subtlety
   weight: 0.0082
   avg_copies: 1.0
 - name: card:teferi-mage-of-zhalfir
-  weight: 0.0082
-  avg_copies: 1.0
-- name: Leatherhead, Swamp Stalker
   weight: 0.0082
   avg_copies: 1.0
 ---

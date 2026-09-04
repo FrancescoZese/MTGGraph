@@ -10,10 +10,10 @@ top_cards:
 - name: Shardless Agent
   weight: 1.0
   avg_copies: 4.0
-- name: Crashing Footfalls
+- name: Violent Outburst
   weight: 1.0
   avg_copies: 4.0
-- name: Violent Outburst
+- name: Crashing Footfalls
   weight: 1.0
   avg_copies: 4.0
 - name: Misty Rainforest
@@ -121,16 +121,16 @@ top_cards:
 - name: Lórien Revealed
   weight: 0.1379
   avg_copies: 2.25
-- name: Ketria Triome
-  weight: 0.1379
-  avg_copies: 1.0
 - name: Repudiate
   weight: 0.1379
   avg_copies: 1.0
-- name: Tishana's Tidebinder
+- name: Ketria Triome
+  weight: 0.1379
+  avg_copies: 1.0
+- name: Rough
   weight: 0.1034
   avg_copies: 2.33
-- name: Rough
+- name: Tishana's Tidebinder
   weight: 0.1034
   avg_copies: 2.33
 - name: Hallowed Fountain
@@ -157,6 +157,9 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 0.0345
   avg_copies: 2.0
+- name: Commandeer
+  weight: 0.0345
+  avg_copies: 2.0
 - name: card:avengers-disassembled
   weight: 0.0345
   avg_copies: 2.0
@@ -164,9 +167,6 @@ top_cards:
   weight: 0.0345
   avg_copies: 2.0
 - name: Kataki, War's Wage
-  weight: 0.0345
-  avg_copies: 2.0
-- name: Commandeer
   weight: 0.0345
   avg_copies: 2.0
 - name: Mine Collapse

@@ -6,7 +6,7 @@ name: Thundering Falls
 scryfall_id: 17260fff-b239-4af4-9306-3236ae3fa5a5
 set: mkm
 type: Land — Island Mountain
-meta_presence: 0.1902
+meta_presence: 0.1904
 archetypes:
   ruby-storm:
     weight: 0.2473
@@ -30,10 +30,10 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   affinity:
-    weight: 0.0397
+    weight: 0.0395
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.9677
+    weight: 0.9682
     avg_copies: 1.0
   reanimator:
     weight: 0.0741
@@ -42,10 +42,10 @@ archetypes:
     weight: 0.0164
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0294
+    weight: 0.0291
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.989
+    weight: 0.9891
     avg_copies: 1.0
   4c-omnath:
     weight: 0.5

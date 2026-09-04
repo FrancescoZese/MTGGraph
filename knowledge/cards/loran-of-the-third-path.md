@@ -10,7 +10,7 @@ type: Legendary Creature — Human Artificer
 meta_presence: 0.0009
 archetypes:
   samwise-combo:
-    weight: 0.0541
+    weight: 0.0533
     avg_copies: 1.0
   unknown-30:
     weight: 0.4286

@@ -12,7 +12,7 @@ archetypes:
     weight: 0.0073
     avg_copies: 2.0
   boros-energy:
-    weight: 0.1137
+    weight: 0.1136
     avg_copies: 1.07
   dimir-control:
     weight: 0.0247
@@ -51,10 +51,10 @@ archetypes:
     weight: 0.0704
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0098
+    weight: 0.0097
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0724
+    weight: 0.0719
     avg_copies: 1.03
   esper-blink:
     weight: 0.0086
@@ -177,7 +177,7 @@ archetypes:
     weight: 0.75
     avg_copies: 1.75
   unknown-194:
-    weight: 0.96
+    weight: 0.961
     avg_copies: 1.0
   unknown-208:
     weight: 1.0
@@ -186,7 +186,7 @@ archetypes:
     weight: 0.1111
     avg_copies: 3.0
   unknown-213:
-    weight: 0.4706
+    weight: 0.5
     avg_copies: 1.0
   unknown-248:
     weight: 0.75

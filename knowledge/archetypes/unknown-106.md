@@ -42,10 +42,10 @@ top_cards:
 - name: Island
   weight: 1.0
   avg_copies: 2.09
-- name: Plains
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 2.0
-- name: Hallowed Fountain
+- name: Plains
   weight: 1.0
   avg_copies: 2.0
 - name: Meticulous Archive
@@ -90,13 +90,13 @@ top_cards:
 - name: Beza, the Bounding Spring
   weight: 0.5455
   avg_copies: 1.83
-- name: Polluted Delta
+- name: Undercity Sewers
   weight: 0.5455
   avg_copies: 1.0
 - name: Misty Rainforest
   weight: 0.5455
   avg_copies: 1.0
-- name: Undercity Sewers
+- name: Polluted Delta
   weight: 0.5455
   avg_copies: 1.0
 - name: Brainsurge
@@ -114,10 +114,10 @@ top_cards:
 - name: Narset, Parter of Veils
   weight: 0.3636
   avg_copies: 4.0
-- name: Lórien Revealed
+- name: Day's Undoing
   weight: 0.3636
   avg_copies: 2.0
-- name: Day's Undoing
+- name: Lórien Revealed
   weight: 0.3636
   avg_copies: 2.0
 - name: Path to Exile
@@ -126,13 +126,13 @@ top_cards:
 - name: Logic Knot
   weight: 0.3636
   avg_copies: 1.25
-- name: Get Lost
+- name: Ashiok, Dream Render
   weight: 0.3636
   avg_copies: 1.0
 - name: Geier Reach Sanitarium
   weight: 0.3636
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Get Lost
   weight: 0.3636
   avg_copies: 1.0
 - name: Tune the Narrative
@@ -147,40 +147,40 @@ top_cards:
 - name: Dress Down
   weight: 0.1818
   avg_copies: 1.5
-- name: Arid Mesa
-  weight: 0.1818
-  avg_copies: 1.0
 - name: Steam Vents
   weight: 0.1818
   avg_copies: 1.0
-- name: No More Lies
-  weight: 0.0909
-  avg_copies: 2.0
-- name: Harbinger of the Seas
-  weight: 0.0909
-  avg_copies: 2.0
+- name: Arid Mesa
+  weight: 0.1818
+  avg_copies: 1.0
 - name: Terminus
+  weight: 0.0909
+  avg_copies: 2.0
+- name: No More Lies
   weight: 0.0909
   avg_copies: 2.0
 - name: Fatal Push
   weight: 0.0909
   avg_copies: 2.0
-- name: Agna Qel'a
+- name: Harbinger of the Seas
   weight: 0.0909
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Memory Deluge
   weight: 0.0909
   avg_copies: 1.0
-- name: Dovin's Veto
-  weight: 0.0909
-  avg_copies: 1.0
-- name: Kaito, Bane of Nightmares
+- name: Rest in Peace
   weight: 0.0909
   avg_copies: 1.0
 - name: Thundering Falls
   weight: 0.0909
   avg_copies: 1.0
-- name: Rest in Peace
+- name: Agna Qel'a
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Kaito, Bane of Nightmares
+  weight: 0.0909
+  avg_copies: 1.0
+- name: Dovin's Veto
   weight: 0.0909
   avg_copies: 1.0
 ---

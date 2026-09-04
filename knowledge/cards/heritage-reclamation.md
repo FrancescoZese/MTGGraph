@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0163
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0877
+    weight: 0.0871
     avg_copies: 1.23
   unknown-97:
     weight: 0.1364

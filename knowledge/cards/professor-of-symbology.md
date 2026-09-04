@@ -10,9 +10,9 @@ type: Creature — Kor Cleric
 meta_presence: 0.0012
 archetypes:
   domain-zoo:
-    weight: 0.0065
+    weight: 0.0064
     avg_copies: 4.0
   samwise-combo:
-    weight: 0.1216
+    weight: 0.12
     avg_copies: 1.0
 ---

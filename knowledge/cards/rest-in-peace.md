@@ -10,8 +10,8 @@ type: Enchantment
 meta_presence: 0.092
 archetypes:
   boros-energy:
-    weight: 0.2559
-    avg_copies: 1.52
+    weight: 0.2568
+    avg_copies: 1.51
   dimir-control:
     weight: 0.0123
     avg_copies: 1.0
@@ -25,7 +25,7 @@ archetypes:
     weight: 0.4247
     avg_copies: 1.65
   domain-zoo:
-    weight: 0.2581
+    weight: 0.2675
     avg_copies: 1.38
   burn:
     weight: 0.3023

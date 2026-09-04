@@ -6,7 +6,7 @@ name: Liquimetal Coating
 scryfall_id: f631447c-36e3-4d82-a658-19c9767a216b
 set: cm2
 type: Artifact
-meta_presence: 0.0549
+meta_presence: 0.055
 archetypes:
   eldrazi-tron:
     weight: 0.9915
@@ -36,7 +36,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-126:
-    weight: 0.0169
+    weight: 0.0166
     avg_copies: 1.0
   unknown-146:
     weight: 1.0
@@ -51,7 +51,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-265:
-    weight: 0.9091
+    weight: 0.9167
     avg_copies: 1.0
   unknown-280:
     weight: 1.0

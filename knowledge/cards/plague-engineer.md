@@ -13,7 +13,7 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.1471
+    weight: 0.1456
     avg_copies: 1.13
   orzhov-blink:
     weight: 0.1304

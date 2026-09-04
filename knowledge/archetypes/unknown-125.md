@@ -9,10 +9,10 @@ top_cards:
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Unearth
+- name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
+- name: Unearth
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -108,25 +108,25 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 0.3333
   avg_copies: 1.14
-- name: Requiting Hex
+- name: Bloodstained Mire
   weight: 0.3333
   avg_copies: 1.0
-- name: Bloodstained Mire
+- name: Requiting Hex
   weight: 0.3333
   avg_copies: 1.0
 - name: Subtlety
   weight: 0.25
   avg_copies: 3.0
-- name: Damnation
-  weight: 0.25
-  avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.25
   avg_copies: 2.0
-- name: The Meathook Massacre
+- name: Damnation
+  weight: 0.25
+  avg_copies: 2.0
+- name: Shoot the Sheriff
   weight: 0.25
   avg_copies: 1.0
-- name: Shoot the Sheriff
+- name: The Meathook Massacre
   weight: 0.25
   avg_copies: 1.0
 - name: Go for the Throat
@@ -153,10 +153,10 @@ top_cards:
 - name: Boggart Trawler
   weight: 0.0833
   avg_copies: 1.0
-- name: Dreams of Steel and Oil
+- name: Spell Pierce
   weight: 0.0833
   avg_copies: 1.0
-- name: Spell Pierce
+- name: Dreams of Steel and Oil
   weight: 0.0833
   avg_copies: 1.0
 ---

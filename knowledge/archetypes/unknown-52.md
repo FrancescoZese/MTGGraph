@@ -6,43 +6,43 @@ name: 'Unknown #52'
 meta_share: 0.0015
 list_count: 12
 top_cards:
-- name: Shambling Ghast
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marsh Flats
-  weight: 1.0
-  avg_copies: 4.0
 - name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
 - name: Gravecrawler
   weight: 1.0
   avg_copies: 4.0
-- name: Warren Soultrader
-  weight: 1.0
-  avg_copies: 4.0
-- name: Phoenix Fleet Airship
-  weight: 1.0
-  avg_copies: 4.0
-- name: Marionette Apprentice
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
 - name: Phyrexian Tower
   weight: 1.0
   avg_copies: 4.0
-- name: Orcish Bowmasters
+- name: Verdant Catacombs
   weight: 1.0
   avg_copies: 4.0
-- name: Verdant Catacombs
+- name: Shambling Ghast
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marionette Apprentice
+  weight: 1.0
+  avg_copies: 4.0
+- name: Warren Soultrader
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 4.0
+- name: Phoenix Fleet Airship
   weight: 1.0
   avg_copies: 4.0
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 3.83
-- name: Flare of Malice
+- name: Culling Ritual
   weight: 1.0
   avg_copies: 3.0
-- name: Culling Ritual
+- name: Flare of Malice
   weight: 1.0
   avg_copies: 3.0
 - name: Fatal Push
@@ -72,13 +72,13 @@ top_cards:
 - name: Shatter Assumptions
   weight: 1.0
   avg_copies: 1.0
-- name: Spymaster's Vault
-  weight: 1.0
-  avg_copies: 1.0
 - name: Sephiroth, Fabled SOLDIER
   weight: 1.0
   avg_copies: 1.0
 - name: Bloodstained Mire
+  weight: 1.0
+  avg_copies: 1.0
+- name: Spymaster's Vault
   weight: 1.0
   avg_copies: 1.0
 - name: Break the Ice
@@ -87,10 +87,10 @@ top_cards:
 - name: Polluted Delta
   weight: 0.6667
   avg_copies: 1.0
-- name: Haywire Mite
+- name: Nurturing Peatland
   weight: 0.25
   avg_copies: 1.0
-- name: Nurturing Peatland
+- name: Haywire Mite
   weight: 0.25
   avg_copies: 1.0
 - name: Graveyard Trespasser

@@ -28,10 +28,10 @@ archetypes:
     weight: 1.0
     avg_copies: 3.94
   simic-ritual:
-    weight: 0.0098
+    weight: 0.0097
     avg_copies: 4.0
   samwise-combo:
-    weight: 0.5946
+    weight: 0.5867
     avg_copies: 2.34
   broodscale-combo:
     weight: 1.0
@@ -97,7 +97,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-126:
-    weight: 0.1966
+    weight: 0.1934
     avg_copies: 2.91
   unknown-134:
     weight: 1.0

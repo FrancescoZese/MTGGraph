@@ -19,8 +19,8 @@ archetypes:
     weight: 0.9926
     avg_copies: 3.81
   goryo:
-    weight: 0.7941
-    avg_copies: 2.98
+    weight: 0.7949
+    avg_copies: 2.99
   necrodominance:
     weight: 0.0217
     avg_copies: 3.0
@@ -34,8 +34,8 @@ archetypes:
     weight: 0.0017
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.3161
-    avg_copies: 3.76
+    weight: 0.3248
+    avg_copies: 3.77
   reanimator:
     weight: 0.5556
     avg_copies: 1.53
@@ -43,11 +43,11 @@ archetypes:
     weight: 0.0082
     avg_copies: 2.0
   simic-ritual:
-    weight: 0.0294
+    weight: 0.0291
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.011
-    avg_copies: 1.6
+    weight: 0.0131
+    avg_copies: 1.67
   4c-omnath:
     weight: 1.0
     avg_copies: 3.5
@@ -124,7 +124,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-67:
-    weight: 0.0442
+    weight: 0.0439
     avg_copies: 1.12
   unknown-70:
     weight: 1.0
@@ -220,7 +220,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-213:
-    weight: 0.2941
+    weight: 0.2778
     avg_copies: 1.29
   unknown-214:
     weight: 1.0

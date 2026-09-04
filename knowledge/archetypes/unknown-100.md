@@ -9,7 +9,10 @@ name: 'Unknown #100'
 meta_share: 0.0009
 list_count: 7
 top_cards:
-- name: Territorial Kavu
+- name: Leyline of the Guildpact
+  weight: 1.0
+  avg_copies: 4.0
+- name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 4.0
 - name: Scion of Draco
@@ -18,19 +21,16 @@ top_cards:
 - name: Leyline Binding
   weight: 1.0
   avg_copies: 4.0
-- name: Leyline of the Guildpact
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ragavan, Nimble Pilferer
+- name: Territorial Kavu
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 3.86
-- name: Wooded Foothills
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 3.57
-- name: Lightning Bolt
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 3.57
 - name: Consign to Memory
@@ -48,19 +48,19 @@ top_cards:
 - name: Raucous Theater
   weight: 0.8571
   avg_copies: 1.0
-- name: Steam Vents
+- name: Breeding Pool
   weight: 0.8571
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Steam Vents
   weight: 0.8571
   avg_copies: 1.0
 - name: Polluted Delta
   weight: 0.7143
   avg_copies: 4.0
-- name: Mystical Dispute
+- name: Obsidian Charmaw
   weight: 0.7143
   avg_copies: 2.0
-- name: Obsidian Charmaw
+- name: Mystical Dispute
   weight: 0.7143
   avg_copies: 2.0
 - name: High Noon
@@ -69,13 +69,13 @@ top_cards:
 - name: Arena of Glory
   weight: 0.7143
   avg_copies: 1.2
-- name: Godless Shrine
-  weight: 0.7143
-  avg_copies: 1.0
 - name: Mountain
   weight: 0.7143
   avg_copies: 1.0
 - name: Surgical Extraction
+  weight: 0.7143
+  avg_copies: 1.0
+- name: Godless Shrine
   weight: 0.7143
   avg_copies: 1.0
 - name: Moonshadow
@@ -108,7 +108,7 @@ top_cards:
 - name: Pyroclasm
   weight: 0.4286
   avg_copies: 1.33
-- name: Swamp
+- name: Overgrown Tomb
   weight: 0.4286
   avg_copies: 1.0
 - name: Indatha Triome
@@ -120,13 +120,13 @@ top_cards:
 - name: Thundering Falls
   weight: 0.4286
   avg_copies: 1.0
-- name: Overgrown Tomb
+- name: Swamp
   weight: 0.4286
   avg_copies: 1.0
-- name: Arid Mesa
+- name: Marsh Flats
   weight: 0.2857
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Arid Mesa
   weight: 0.2857
   avg_copies: 4.0
 - name: Scalding Tarn
@@ -138,13 +138,13 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.2857
   avg_copies: 1.5
-- name: Island
+- name: Hallowed Fountain
   weight: 0.2857
   avg_copies: 1.0
 - name: Plains
   weight: 0.2857
   avg_copies: 1.0
-- name: Hallowed Fountain
+- name: Island
   weight: 0.2857
   avg_copies: 1.0
 - name: Temple Garden
@@ -153,52 +153,52 @@ top_cards:
 - name: Mishra's Bauble
   weight: 0.1429
   avg_copies: 4.0
-- name: Teferi, Time Raveler
-  weight: 0.1429
-  avg_copies: 2.0
-- name: Surge of Salvation
-  weight: 0.1429
-  avg_copies: 2.0
 - name: Damping Sphere
-  weight: 0.1429
-  avg_copies: 2.0
-- name: Laelia, the Blade Reforged
-  weight: 0.1429
-  avg_copies: 2.0
-- name: Tamiyo, Inquisitive Student
   weight: 0.1429
   avg_copies: 2.0
 - name: Fatal Push
   weight: 0.1429
   avg_copies: 2.0
-- name: Doorkeeper Thrull
+- name: Tamiyo, Inquisitive Student
+  weight: 0.1429
+  avg_copies: 2.0
+- name: Surge of Salvation
+  weight: 0.1429
+  avg_copies: 2.0
+- name: Teferi, Time Raveler
   weight: 0.1429
   avg_copies: 2.0
 - name: Kroxa, Titan of Death's Hunger
   weight: 0.1429
   avg_copies: 2.0
+- name: Laelia, the Blade Reforged
+  weight: 0.1429
+  avg_copies: 2.0
+- name: Doorkeeper Thrull
+  weight: 0.1429
+  avg_copies: 2.0
 - name: Spell Snare
   weight: 0.1429
   avg_copies: 2.0
-- name: Detective's Phoenix
+- name: Wrath of the Skies
   weight: 0.1429
   avg_copies: 1.0
-- name: Watery Grave
+- name: Detective's Phoenix
   weight: 0.1429
   avg_copies: 1.0
 - name: Thoughtseize
   weight: 0.1429
   avg_copies: 1.0
-- name: Hidetsugu Consumes All
-  weight: 0.1429
-  avg_copies: 1.0
 - name: Containment Priest
   weight: 0.1429
   avg_copies: 1.0
-- name: Winternight Stories
+- name: Hidetsugu Consumes All
   weight: 0.1429
   avg_copies: 1.0
-- name: Wrath of the Skies
+- name: Watery Grave
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Winternight Stories
   weight: 0.1429
   avg_copies: 1.0
 - name: Rest in Peace

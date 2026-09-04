@@ -11,7 +11,7 @@ type: Creature — Vampire Assassin
 meta_presence: 0.0017
 archetypes:
   samwise-combo:
-    weight: 0.1757
+    weight: 0.1733
     avg_copies: 1.0
   unknown-77:
     weight: 0.3333

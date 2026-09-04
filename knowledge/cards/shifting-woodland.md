@@ -6,7 +6,7 @@ name: Shifting Woodland
 scryfall_id: 059164e1-894d-4586-9800-e60d6fbd6eb6
 set: mh3
 type: Land
-meta_presence: 0.0583
+meta_presence: 0.0582
 archetypes:
   amulet-titan:
     weight: 0.962
@@ -15,8 +15,8 @@ archetypes:
     weight: 0.0042
     avg_copies: 3.5
   yawgmoth-combo:
-    weight: 0.0417
-    avg_copies: 1.25
+    weight: 0.0515
+    avg_copies: 1.2
   eldrazi-ramp:
     weight: 0.6831
     avg_copies: 1.0
@@ -48,7 +48,7 @@ archetypes:
     weight: 0.2273
     avg_copies: 1.0
   unknown-126:
-    weight: 0.1236
+    weight: 0.1215
     avg_copies: 1.71
   unknown-130:
     weight: 1.0
@@ -63,7 +63,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-194:
-    weight: 0.44
+    weight: 0.4286
     avg_copies: 1.0
   unknown-226:
     weight: 1.0

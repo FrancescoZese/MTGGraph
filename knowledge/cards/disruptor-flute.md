@@ -15,7 +15,7 @@ archetypes:
     weight: 0.0148
     avg_copies: 2.0
   eldrazi-tron:
-    weight: 0.9145
+    weight: 0.9148
     avg_copies: 1.66
   necrodominance:
     weight: 0.1957
@@ -57,7 +57,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 2.0
   cosmogoyf-fling:
-    weight: 0.0161
+    weight: 0.0159
     avg_copies: 1.0
   goryo4:
     weight: 0.963
@@ -90,7 +90,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.5
   unknown-126:
-    weight: 0.0225
+    weight: 0.0221
     avg_copies: 1.5
   unknown-134:
     weight: 1.0
@@ -117,22 +117,22 @@ archetypes:
     weight: 0.1667
     avg_copies: 1.0
   unknown-194:
-    weight: 0.2533
-    avg_copies: 1.32
+    weight: 0.2597
+    avg_copies: 1.3
   unknown-213:
-    weight: 0.5882
+    weight: 0.5556
     avg_copies: 1.0
   unknown-223:
     weight: 1.0
     avg_copies: 1.0
   unknown-265:
-    weight: 0.7273
+    weight: 0.6667
     avg_copies: 1.22
   unknown-271:
     weight: 1.0
     avg_copies: 1.0
   unknown-273:
-    weight: 1.0
+    weight: 0.5
     avg_copies: 1.0
   unknown-278:
     weight: 0.5

@@ -21,7 +21,7 @@ archetypes:
     weight: 0.0417
     avg_copies: 2.0
   simic-ritual:
-    weight: 0.0098
+    weight: 0.0097
     avg_copies: 2.0
   esper-blink:
     weight: 0.0129

@@ -14,10 +14,10 @@ archetypes:
     weight: 0.1481
     avg_copies: 1.52
   goryo:
-    weight: 0.2144
+    weight: 0.2135
     avg_copies: 1.13
   domain-zoo:
-    weight: 0.0839
+    weight: 0.0828
     avg_copies: 1.0
   mardu-blink:
     weight: 0.0417

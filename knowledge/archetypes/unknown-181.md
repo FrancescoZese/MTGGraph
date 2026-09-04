@@ -8,25 +8,25 @@ name: 'Unknown #181'
 meta_share: 0.0007
 list_count: 6
 top_cards:
-- name: Emrakul, the Aeons Torn
-  weight: 1.0
-  avg_copies: 4.0
-- name: Polluted Delta
-  weight: 1.0
-  avg_copies: 4.0
-- name: Bloodstained Mire
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
 - name: Goryo's Vengeance
   weight: 1.0
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Yargle and Multani
+  weight: 1.0
+  avg_copies: 4.0
+- name: Bloodstained Mire
+  weight: 1.0
+  avg_copies: 4.0
+- name: Emrakul, the Aeons Torn
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 4.0
-- name: Yargle and Multani
+- name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Cragganwick Cremator
@@ -50,10 +50,10 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Blackcleave Cliffs
   weight: 1.0
   avg_copies: 1.83
-- name: Blackcleave Cliffs
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.83
 - name: Urza's Saga
@@ -62,25 +62,25 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 1.17
-- name: Raucous Theater
-  weight: 1.0
-  avg_copies: 1.0
-- name: Watery Grave
-  weight: 1.0
-  avg_copies: 1.0
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
 - name: Damping Sphere
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Crypt
-  weight: 1.0
-  avg_copies: 1.0
-- name: Steam Vents
+- name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
 - name: Undercity Sewers
+  weight: 1.0
+  avg_copies: 1.0
+- name: Blood Crypt
+  weight: 1.0
+  avg_copies: 1.0
+- name: Watery Grave
+  weight: 1.0
+  avg_copies: 1.0
+- name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
 - name: Dauthi Voidwalker
@@ -89,13 +89,13 @@ top_cards:
 - name: Fable of the Mirror-Breaker
   weight: 0.8333
   avg_copies: 1.4
-- name: Pithing Needle
+- name: Riverpyre Verge
   weight: 0.8333
   avg_copies: 1.0
 - name: Thundering Falls
   weight: 0.8333
   avg_copies: 1.0
-- name: Riverpyre Verge
+- name: Pithing Needle
   weight: 0.8333
   avg_copies: 1.0
 - name: Ragavan, Nimble Pilferer
@@ -128,13 +128,7 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.1667
   avg_copies: 2.0
-- name: Mai, Scornful Striker
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Pyroclasm
-  weight: 0.1667
-  avg_copies: 1.0
-- name: Disruptor Flute
   weight: 0.1667
   avg_copies: 1.0
 - name: Force of Despair
@@ -144,6 +138,12 @@ top_cards:
   weight: 0.1667
   avg_copies: 1.0
 - name: Bone Shards
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Mai, Scornful Striker
+  weight: 0.1667
+  avg_copies: 1.0
+- name: Disruptor Flute
   weight: 0.1667
   avg_copies: 1.0
 ---

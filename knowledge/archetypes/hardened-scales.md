@@ -5,19 +5,19 @@ name: Hardened Scales
 meta_share: 0.0006
 list_count: 5
 top_cards:
-- name: Hardened Scales
+- name: Arcbound Ravager
+  weight: 1.0
+  avg_copies: 4.0
+- name: Walking Ballista
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
+- name: Hardened Scales
+  weight: 1.0
+  avg_copies: 4.0
 - name: Zabaz, the Glimmerwasp
-  weight: 1.0
-  avg_copies: 4.0
-- name: Arcbound Ravager
-  weight: 1.0
-  avg_copies: 4.0
-- name: Walking Ballista
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Opal
@@ -38,13 +38,13 @@ top_cards:
 - name: Arcbound Worker
   weight: 1.0
   avg_copies: 1.8
-- name: Dismember
+- name: Welding Jar
   weight: 1.0
   avg_copies: 1.8
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.8
-- name: Welding Jar
+- name: Dismember
   weight: 1.0
   avg_copies: 1.8
 - name: The Ozolith
@@ -83,19 +83,19 @@ top_cards:
 - name: The Ooze
   weight: 0.6
   avg_copies: 1.33
+- name: Tormod's Crypt
+  weight: 0.6
+  avg_copies: 1.0
+- name: Pendelhaven
+  weight: 0.6
+  avg_copies: 1.0
 - name: Haywire Mite
   weight: 0.6
   avg_copies: 1.0
 - name: Pithing Needle
   weight: 0.6
   avg_copies: 1.0
-- name: Tormod's Crypt
-  weight: 0.6
-  avg_copies: 1.0
 - name: Veil of Summer
-  weight: 0.6
-  avg_copies: 1.0
-- name: Pendelhaven
   weight: 0.6
   avg_copies: 1.0
 - name: Strength of Will
@@ -113,10 +113,10 @@ top_cards:
 - name: Patchwork Automaton
   weight: 0.2
   avg_copies: 4.0
-- name: Karplusan Forest
+- name: Metallic Mimic
   weight: 0.2
   avg_copies: 4.0
-- name: Metallic Mimic
+- name: Karplusan Forest
   weight: 0.2
   avg_copies: 4.0
 - name: Marketback Walker
@@ -128,6 +128,18 @@ top_cards:
 - name: Warping Wail
   weight: 0.2
   avg_copies: 2.0
+- name: Ba Sing Se
+  weight: 0.2
+  avg_copies: 1.0
+- name: card:llanowar-reborn
+  weight: 0.2
+  avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.2
+  avg_copies: 1.0
+- name: Scrapyard Recombiner
+  weight: 0.2
+  avg_copies: 1.0
 - name: card:throne-of-geth
   weight: 0.2
   avg_copies: 1.0
@@ -138,18 +150,6 @@ top_cards:
   weight: 0.2
   avg_copies: 1.0
 - name: Shadowspear
-  weight: 0.2
-  avg_copies: 1.0
-- name: Ba Sing Se
-  weight: 0.2
-  avg_copies: 1.0
-- name: Scrapyard Recombiner
-  weight: 0.2
-  avg_copies: 1.0
-- name: card:llanowar-reborn
-  weight: 0.2
-  avg_copies: 1.0
-- name: Gemstone Caverns
   weight: 0.2
   avg_copies: 1.0
 ---

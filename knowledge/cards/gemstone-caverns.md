@@ -6,7 +6,7 @@ name: Gemstone Caverns
 scryfall_id: 7f273641-c5f3-48bc-b89e-3cff52d26a0b
 set: tsr
 type: Legendary Land
-meta_presence: 0.0997
+meta_presence: 0.0995
 archetypes:
   ruby-storm:
     weight: 0.9055
@@ -45,7 +45,7 @@ archetypes:
     weight: 0.0986
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.5098
+    weight: 0.5049
     avg_copies: 2.17
   4c-omnath:
     weight: 0.25
@@ -61,7 +61,7 @@ archetypes:
     avg_copies: 1.0
   cosmogoyf-fling:
     weight: 1.0
-    avg_copies: 3.87
+    avg_copies: 3.88
   goryo4:
     weight: 0.6667
     avg_copies: 1.06
@@ -93,7 +93,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-126:
-    weight: 0.1236
+    weight: 0.1215
     avg_copies: 1.0
   unknown-143:
     weight: 1.0
@@ -111,7 +111,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-194:
-    weight: 0.48
+    weight: 0.4675
     avg_copies: 1.0
   unknown-211:
     weight: 0.1111

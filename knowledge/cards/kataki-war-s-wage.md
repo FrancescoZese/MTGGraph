@@ -25,7 +25,7 @@ archetypes:
     weight: 0.0043
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.0135
+    weight: 0.0133
     avg_copies: 1.0
   orzhov-blink:
     weight: 0.0435

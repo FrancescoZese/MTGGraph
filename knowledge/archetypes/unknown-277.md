@@ -10,22 +10,22 @@ top_cards:
 - name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: Ocelot Pride
+- name: card:the-sackville-bagginses
   weight: 1.0
   avg_copies: 4.0
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: card:the-sackville-bagginses
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Marionette Apprentice
   weight: 1.0
   avg_copies: 4.0
 - name: Warren Soultrader
   weight: 1.0
   avg_copies: 4.0
-- name: Marionette Apprentice
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
 - name: Godless Shrine
@@ -34,52 +34,52 @@ top_cards:
 - name: Dauthi Voidwalker
   weight: 1.0
   avg_copies: 2.5
-- name: card:the-queen-of-dale
+- name: Break the Ice
   weight: 1.0
   avg_copies: 2.5
 - name: Gravecrawler
   weight: 1.0
   avg_copies: 2.5
-- name: Break the Ice
-  weight: 1.0
-  avg_copies: 2.5
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.5
-- name: Chthonian Nightmare
+- name: card:the-queen-of-dale
+  weight: 1.0
+  avg_copies: 2.5
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 2.0
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 2.0
-- name: High Noon
-  weight: 1.0
-  avg_copies: 2.0
-- name: Swamp
-  weight: 1.0
-  avg_copies: 2.0
 - name: Plains
+  weight: 1.0
+  avg_copies: 2.0
+- name: High Noon
   weight: 1.0
   avg_copies: 2.0
 - name: Flare of Malice
   weight: 1.0
   avg_copies: 2.0
-- name: Thoughtseize
+- name: Chthonian Nightmare
   weight: 1.0
   avg_copies: 2.0
-- name: Spymaster's Vault
+- name: Swamp
   weight: 1.0
-  avg_copies: 1.5
+  avg_copies: 2.0
 - name: Surgical Extraction
   weight: 1.0
   avg_copies: 1.5
 - name: Phyrexian Tower
   weight: 1.0
   avg_copies: 1.5
-- name: Shadowy Backstreet
+- name: Spymaster's Vault
+  weight: 1.0
+  avg_copies: 1.5
+- name: Damping Sphere
   weight: 1.0
   avg_copies: 1.0
-- name: Damping Sphere
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 - name: Goblin Bombardment
@@ -91,16 +91,16 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.5
   avg_copies: 2.0
-- name: Silent Clearing
-  weight: 0.5
-  avg_copies: 1.0
-- name: Blood Crypt
+- name: Static Prison
   weight: 0.5
   avg_copies: 1.0
 - name: The Meathook Massacre
   weight: 0.5
   avg_copies: 1.0
-- name: Static Prison
+- name: Silent Clearing
+  weight: 0.5
+  avg_copies: 1.0
+- name: Blood Crypt
   weight: 0.5
   avg_copies: 1.0
 ---

@@ -10,10 +10,10 @@ type: Creature — Human Artificer
 meta_presence: 0.006
 archetypes:
   simic-ritual:
-    weight: 0.0098
+    weight: 0.0097
     avg_copies: 3.0
   samwise-combo:
-    weight: 0.2162
+    weight: 0.2133
     avg_copies: 2.62
   soultrader-combo:
     weight: 1.0

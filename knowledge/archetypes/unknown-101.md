@@ -105,10 +105,10 @@ top_cards:
 - name: Mount Doom
   weight: 0.3235
   avg_copies: 1.0
-- name: Tarfire
+- name: Obsidian Charmaw
   weight: 0.2647
   avg_copies: 2.0
-- name: Obsidian Charmaw
+- name: Tarfire
   weight: 0.2647
   avg_copies: 2.0
 - name: Abrade
@@ -168,31 +168,31 @@ top_cards:
 - name: Practiced Offense
   weight: 0.0294
   avg_copies: 2.0
-- name: Godless Shrine
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Molten Collapse
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Seal of Fire
-  weight: 0.0294
-  avg_copies: 1.0
-- name: card:corpse-explosion
-  weight: 0.0294
-  avg_copies: 1.0
 - name: End of the Hunt
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Goblin Lore
   weight: 0.0294
   avg_copies: 1.0
 - name: Blackcleave Cliffs
   weight: 0.0294
   avg_copies: 1.0
+- name: card:corpse-explosion
+  weight: 0.0294
+  avg_copies: 1.0
 - name: Cool but Rude
   weight: 0.0294
   avg_copies: 1.0
+- name: Seal of Fire
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Goblin Lore
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Molten Collapse
+  weight: 0.0294
+  avg_copies: 1.0
 - name: Verdant Catacombs
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Godless Shrine
   weight: 0.0294
   avg_copies: 1.0
 ---

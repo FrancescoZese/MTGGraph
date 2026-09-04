@@ -17,13 +17,13 @@ archetypes:
     weight: 0.0164
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0098
+    weight: 0.0097
     avg_copies: 1.0
   broodscale-combo:
     weight: 0.177
     avg_copies: 1.53
   unknown-194:
-    weight: 0.0533
+    weight: 0.0519
     avg_copies: 1.75
   unknown-238:
     weight: 0.2

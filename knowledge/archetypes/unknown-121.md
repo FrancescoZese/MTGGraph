@@ -6,22 +6,7 @@ name: 'Unknown #121'
 meta_share: 0.0004
 list_count: 3
 top_cards:
-- name: Wooded Foothills
-  weight: 1.0
-  avg_copies: 4.0
-- name: Malevolent Rumble
-  weight: 1.0
-  avg_copies: 4.0
-- name: Stomping Ground
-  weight: 1.0
-  avg_copies: 4.0
 - name: Karn, the Great Creator
-  weight: 1.0
-  avg_copies: 4.0
-- name: Endurance
-  weight: 1.0
-  avg_copies: 4.0
-- name: Fanatic of Rhonas
   weight: 1.0
   avg_copies: 4.0
 - name: Forest
@@ -30,22 +15,37 @@ top_cards:
 - name: Utopia Sprawl
   weight: 1.0
   avg_copies: 4.0
+- name: Malevolent Rumble
+  weight: 1.0
+  avg_copies: 4.0
+- name: Endurance
+  weight: 1.0
+  avg_copies: 4.0
 - name: Lightning Bolt
+  weight: 1.0
+  avg_copies: 4.0
+- name: Stomping Ground
+  weight: 1.0
+  avg_copies: 4.0
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 4.0
 - name: Blood Moon
   weight: 1.0
   avg_copies: 4.0
-- name: Vibrance
+- name: Fanatic of Rhonas
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Windswept Heath
   weight: 1.0
   avg_copies: 3.0
-- name: Force of Vigor
+- name: Vibrance
+  weight: 1.0
+  avg_copies: 3.0
+- name: card:arbor-elf
   weight: 1.0
   avg_copies: 2.0
-- name: card:arbor-elf
+- name: Force of Vigor
   weight: 1.0
   avg_copies: 2.0
 - name: Unholy Heat
@@ -57,37 +57,28 @@ top_cards:
 - name: card:harmonize
   weight: 1.0
   avg_copies: 1.33
-- name: card:pillage
-  weight: 1.0
-  avg_copies: 1.0
-- name: Engineered Explosives
-  weight: 1.0
-  avg_copies: 1.0
-- name: card:umbral-mantle
-  weight: 1.0
-  avg_copies: 1.0
-- name: Haywire Mite
-  weight: 1.0
-  avg_copies: 1.0
 - name: Relic of Progenitus
   weight: 1.0
   avg_copies: 1.0
 - name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Pithing Needle
-  weight: 1.0
-  avg_copies: 1.0
-- name: Chalice of the Void
-  weight: 1.0
-  avg_copies: 1.0
-- name: Pick Your Poison
-  weight: 1.0
-  avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Ensnaring Bridge
+- name: Walking Ballista
+  weight: 1.0
+  avg_copies: 1.0
+- name: Prismatic Vista
+  weight: 1.0
+  avg_copies: 1.0
+- name: Haywire Mite
+  weight: 1.0
+  avg_copies: 1.0
+- name: Boseiju, Who Endures
+  weight: 1.0
+  avg_copies: 1.0
+- name: card:umbral-mantle
   weight: 1.0
   avg_copies: 1.0
 - name: Veil of Summer
@@ -99,31 +90,40 @@ top_cards:
 - name: Liquimetal Coating
   weight: 1.0
   avg_copies: 1.0
-- name: Walking Ballista
+- name: Ensnaring Bridge
   weight: 1.0
   avg_copies: 1.0
-- name: Boseiju, Who Endures
+- name: card:pillage
   weight: 1.0
   avg_copies: 1.0
-- name: Prismatic Vista
+- name: Pithing Needle
+  weight: 1.0
+  avg_copies: 1.0
+- name: Engineered Explosives
+  weight: 1.0
+  avg_copies: 1.0
+- name: Pick Your Poison
+  weight: 1.0
+  avg_copies: 1.0
+- name: Chalice of the Void
   weight: 1.0
   avg_copies: 1.0
 - name: Fable of the Mirror-Breaker
   weight: 0.6667
   avg_copies: 1.5
+- name: Vexing Bauble
+  weight: 0.6667
+  avg_copies: 1.0
 - name: Questing Beast
   weight: 0.6667
   avg_copies: 1.0
-- name: Vexing Bauble
-  weight: 0.6667
+- name: Trinisphere
+  weight: 0.3333
   avg_copies: 1.0
 - name: Case of the Crimson Pulse
   weight: 0.3333
   avg_copies: 1.0
 - name: card:mj-lnir-hammer-of-thor
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Trinisphere
   weight: 0.3333
   avg_copies: 1.0
 ---

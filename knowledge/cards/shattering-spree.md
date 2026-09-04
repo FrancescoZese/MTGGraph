@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0582
     avg_copies: 1.94
   affinity:
-    weight: 0.0638
+    weight: 0.0636
     avg_copies: 1.62
   hollow-one:
     weight: 0.0294

@@ -13,13 +13,13 @@ archetypes:
     weight: 0.0123
     avg_copies: 2.0
   goryo:
-    weight: 0.0191
+    weight: 0.019
     avg_copies: 1.33
   necrodominance:
     weight: 0.0217
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0088
+    weight: 0.0087
     avg_copies: 1.0
   esper-blink:
     weight: 0.0773

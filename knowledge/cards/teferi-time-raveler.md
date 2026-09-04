@@ -20,7 +20,7 @@ archetypes:
     weight: 0.4815
     avg_copies: 1.25
   goryo:
-    weight: 0.7983
+    weight: 0.797
     avg_copies: 1.17
   azorius-control:
     weight: 1.0
@@ -41,7 +41,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.53
   simic-ritual:
-    weight: 0.0098
+    weight: 0.0097
     avg_copies: 2.0
   izzet-prowess:
     weight: 0.0044
@@ -53,7 +53,7 @@ archetypes:
     weight: 0.9657
     avg_copies: 1.69
   samwise-combo:
-    weight: 0.0135
+    weight: 0.0133
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.8125
@@ -116,7 +116,7 @@ archetypes:
     weight: 0.0345
     avg_copies: 2.0
   unknown-67:
-    weight: 0.4425
+    weight: 0.4474
     avg_copies: 1.98
   unknown-70:
     weight: 0.7143
@@ -251,7 +251,7 @@ archetypes:
     weight: 0.1333
     avg_copies: 1.0
   unknown-213:
-    weight: 0.7059
+    weight: 0.7222
     avg_copies: 2.08
   unknown-216:
     weight: 1.0

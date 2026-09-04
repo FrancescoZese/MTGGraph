@@ -36,10 +36,10 @@ archetypes:
     weight: 0.9589
     avg_copies: 1.74
   affinity:
-    weight: 0.9862
+    weight: 0.9863
     avg_copies: 1.49
   domain-zoo:
-    weight: 0.0065
+    weight: 0.0064
     avg_copies: 1.0
   mill:
     weight: 0.9231
@@ -57,10 +57,10 @@ archetypes:
     weight: 0.875
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0196
+    weight: 0.0194
     avg_copies: 2.0
   izzet-prowess:
-    weight: 0.0373
+    weight: 0.037
     avg_copies: 1.06
   4c-omnath:
     weight: 1.0
@@ -418,7 +418,7 @@ archetypes:
     avg_copies: 5.0
   unknown-213:
     weight: 1.0
-    avg_copies: 1.59
+    avg_copies: 1.61
   unknown-216:
     weight: 1.0
     avg_copies: 1.5
@@ -477,7 +477,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-265:
-    weight: 0.3636
+    weight: 0.4167
     avg_copies: 1.0
   unknown-266:
     weight: 1.0
@@ -502,7 +502,7 @@ archetypes:
     avg_copies: 1.0
   unknown-273:
     weight: 1.0
-    avg_copies: 1.0
+    avg_copies: 1.5
   unknown-274:
     weight: 1.0
     avg_copies: 1.0
@@ -512,4 +512,7 @@ archetypes:
   unknown-283:
     weight: 1.0
     avg_copies: 1.0
+  unknown-284:
+    weight: 1.0
+    avg_copies: 2.0
 ---

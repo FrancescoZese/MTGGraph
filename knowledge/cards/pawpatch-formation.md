@@ -10,7 +10,7 @@ type: Instant
 meta_presence: 0.0023
 archetypes:
   yawgmoth-combo:
-    weight: 0.0104
+    weight: 0.0103
     avg_copies: 2.0
   indomitable-creativity:
     weight: 0.875

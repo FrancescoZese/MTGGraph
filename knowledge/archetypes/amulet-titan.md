@@ -2,7 +2,7 @@
 colors:
 - G
 name: Amulet Titan
-meta_share: 0.0227
+meta_share: 0.0226
 list_count: 184
 top_cards:
 - name: Arboreal Grazer
@@ -200,10 +200,10 @@ top_cards:
 - name: Cursed Totem
   weight: 0.0272
   avg_copies: 2.4
-- name: Wooded Foothills
+- name: card:lumra-bellow-of-the-woods
   weight: 0.0272
   avg_copies: 1.0
-- name: card:lumra-bellow-of-the-woods
+- name: Wooded Foothills
   weight: 0.0272
   avg_copies: 1.0
 - name: Commercial District
@@ -215,6 +215,9 @@ top_cards:
 - name: Hedge Maze
   weight: 0.0217
   avg_copies: 1.0
+- name: Creeping Corrosion
+  weight: 0.0217
+  avg_copies: 1.0
 - name: Misty Rainforest
   weight: 0.0217
   avg_copies: 1.0
@@ -222,9 +225,6 @@ top_cards:
   weight: 0.0217
   avg_copies: 1.0
 - name: Temple Garden
-  weight: 0.0217
-  avg_copies: 1.0
-- name: Creeping Corrosion
   weight: 0.0217
   avg_copies: 1.0
 - name: Celestial Purge
@@ -236,12 +236,6 @@ top_cards:
 - name: Pyroclasm
   weight: 0.0163
   avg_copies: 1.0
-- name: Kessig Wolf Run
-  weight: 0.0163
-  avg_copies: 1.0
-- name: Heritage Reclamation
-  weight: 0.0163
-  avg_copies: 1.0
 - name: Cavern of Souls
   weight: 0.0163
   avg_copies: 1.0
@@ -251,61 +245,91 @@ top_cards:
 - name: Windswept Heath
   weight: 0.0163
   avg_copies: 1.0
+- name: Kessig Wolf Run
+  weight: 0.0163
+  avg_copies: 1.0
+- name: Heritage Reclamation
+  weight: 0.0163
+  avg_copies: 1.0
 - name: card:lessons-from-life
   weight: 0.0109
   avg_copies: 3.5
 - name: Defense Grid
   weight: 0.0109
   avg_copies: 2.0
-- name: Dosan the Falling Leaf
-  weight: 0.0109
-  avg_copies: 1.0
 - name: Hexdrinker
   weight: 0.0109
   avg_copies: 1.0
-- name: card:ruric-thar-the-unbowed
-  weight: 0.0109
-  avg_copies: 1.0
-- name: Ureni, the Song Unending
+- name: Dosan the Falling Leaf
   weight: 0.0109
   avg_copies: 1.0
 - name: Emeritus of Abundance
   weight: 0.0109
   avg_copies: 1.0
-- name: Ghost Quarter
+- name: card:ruric-thar-the-unbowed
   weight: 0.0109
   avg_copies: 1.0
 - name: Northampton Farm
   weight: 0.0109
   avg_copies: 1.0
+- name: Ureni, the Song Unending
+  weight: 0.0109
+  avg_copies: 1.0
+- name: Ghost Quarter
+  weight: 0.0109
+  avg_copies: 1.0
 - name: card:mind-into-matter
   weight: 0.0054
   avg_copies: 4.0
-- name: High Noon
-  weight: 0.0054
-  avg_copies: 3.0
 - name: Hurkyl's Recall
   weight: 0.0054
   avg_copies: 3.0
-- name: Snow-Covered Forest
+- name: High Noon
+  weight: 0.0054
+  avg_copies: 3.0
+- name: Spirit of the Labyrinth
   weight: 0.0054
   avg_copies: 2.0
-- name: Botanical Sanctum
+- name: Snow-Covered Forest
   weight: 0.0054
   avg_copies: 2.0
 - name: Sheoldred's Edict
   weight: 0.0054
   avg_copies: 2.0
-- name: Spirit of the Labyrinth
+- name: Botanical Sanctum
   weight: 0.0054
   avg_copies: 2.0
-- name: Turn the Earth
+- name: card:altered-ego
   weight: 0.0054
   avg_copies: 1.0
-- name: card:kudo-king-among-bears
+- name: card:captain-marvel-earth-s-protector
   weight: 0.0054
   avg_copies: 1.0
-- name: Pithing Needle
+- name: Fade from History
+  weight: 0.0054
+  avg_copies: 1.0
+- name: Tormod's Crypt
+  weight: 0.0054
+  avg_copies: 1.0
+- name: Titania, Protector of Argoth
+  weight: 0.0054
+  avg_copies: 1.0
+- name: card:gretchen-titchwillow
+  weight: 0.0054
+  avg_copies: 1.0
+- name: Carnage Tyrant
+  weight: 0.0054
+  avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.0054
+  avg_copies: 1.0
+- name: Elesh Norn, Mother of Machines
+  weight: 0.0054
+  avg_copies: 1.0
+- name: Verdant Catacombs
+  weight: 0.0054
+  avg_copies: 1.0
+- name: Sakura-Tribe Elder
   weight: 0.0054
   avg_copies: 1.0
 - name: card:sakura-tribe-scout
@@ -314,49 +338,25 @@ top_cards:
 - name: Lithomantic Barrage
   weight: 0.0054
   avg_copies: 1.0
-- name: card:guerrilla-gorilla
-  weight: 0.0054
-  avg_copies: 1.0
 - name: Waterlogged Grove
-  weight: 0.0054
-  avg_copies: 1.0
-- name: Carnage Tyrant
-  weight: 0.0054
-  avg_copies: 1.0
-- name: card:altered-ego
-  weight: 0.0054
-  avg_copies: 1.0
-- name: Elesh Norn, Mother of Machines
-  weight: 0.0054
-  avg_copies: 1.0
-- name: Gemstone Caverns
-  weight: 0.0054
-  avg_copies: 1.0
-- name: Fade from History
-  weight: 0.0054
-  avg_copies: 1.0
-- name: card:captain-marvel-earth-s-protector
-  weight: 0.0054
-  avg_copies: 1.0
-- name: Titania, Protector of Argoth
   weight: 0.0054
   avg_copies: 1.0
 - name: card:dryad-militant
   weight: 0.0054
   avg_copies: 1.0
-- name: card:gretchen-titchwillow
+- name: Turn the Earth
   weight: 0.0054
   avg_copies: 1.0
-- name: Tormod's Crypt
-  weight: 0.0054
-  avg_copies: 1.0
-- name: Sakura-Tribe Elder
+- name: card:guerrilla-gorilla
   weight: 0.0054
   avg_copies: 1.0
 - name: Formidable Speaker
   weight: 0.0054
   avg_copies: 1.0
-- name: Verdant Catacombs
+- name: Pithing Needle
+  weight: 0.0054
+  avg_copies: 1.0
+- name: card:kudo-king-among-bears
   weight: 0.0054
   avg_copies: 1.0
 ---

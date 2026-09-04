@@ -8,7 +8,7 @@ name: Pinnacle Emissary
 scryfall_id: 3c922347-f05f-40a4-bbee-6bc02a1e0de5
 set: eoe
 type: Artifact Creature — Robot
-meta_presence: 0.0742
+meta_presence: 0.0744
 archetypes:
   affinity:
     weight: 1.0
@@ -26,6 +26,9 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-281:
+    weight: 1.0
+    avg_copies: 4.0
+  unknown-284:
     weight: 1.0
     avg_copies: 4.0
 ---

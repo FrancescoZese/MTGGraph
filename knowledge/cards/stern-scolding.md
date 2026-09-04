@@ -7,7 +7,7 @@ name: Stern Scolding
 scryfall_id: 3ca1e1de-b916-445f-b3b2-0f4d0cc7ceeb
 set: ltr
 type: Instant
-meta_presence: 0.0253
+meta_presence: 0.0252
 archetypes:
   dimir-control:
     weight: 0.3951
@@ -28,10 +28,10 @@ archetypes:
     weight: 0.1818
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0588
+    weight: 0.0583
     avg_copies: 2.5
   izzet-prowess:
-    weight: 0.0066
+    weight: 0.0065
     avg_copies: 2.0
   izzet-wizards:
     weight: 0.1538

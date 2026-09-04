@@ -87,10 +87,10 @@ top_cards:
 - name: Battlefield Improvisation
   weight: 0.4545
   avg_copies: 3.6
-- name: card:super-soldier-serum
+- name: Marsh Flats
   weight: 0.4545
   avg_copies: 2.6
-- name: Marsh Flats
+- name: card:super-soldier-serum
   weight: 0.4545
   avg_copies: 2.6
 - name: Grafdigger's Cage
@@ -138,10 +138,10 @@ top_cards:
 - name: March of Otherworldly Light
   weight: 0.1364
   avg_copies: 2.0
-- name: Springleaf Drum
+- name: Test of Talents
   weight: 0.1364
   avg_copies: 1.67
-- name: Test of Talents
+- name: Springleaf Drum
   weight: 0.1364
   avg_copies: 1.67
 - name: Soul-Guide Lantern
@@ -156,7 +156,7 @@ top_cards:
 - name: Seachrome Coast
   weight: 0.0909
   avg_copies: 2.5
-- name: Prismatic Ending
+- name: Drannith Magistrate
   weight: 0.0909
   avg_copies: 1.5
 - name: Containment Priest
@@ -165,22 +165,22 @@ top_cards:
 - name: Detect Intrusion
   weight: 0.0909
   avg_copies: 1.5
-- name: Lavinia, Azorius Renegade
+- name: Prismatic Ending
   weight: 0.0909
   avg_copies: 1.5
-- name: Drannith Magistrate
+- name: Lavinia, Azorius Renegade
   weight: 0.0909
   avg_copies: 1.5
 - name: Spell Pierce
   weight: 0.0909
   avg_copies: 1.25
-- name: Kaldra Compleat
+- name: card:spider-sense
   weight: 0.0909
   avg_copies: 1.0
 - name: Voice of Victory
   weight: 0.0909
   avg_copies: 1.0
-- name: card:spider-sense
+- name: Kaldra Compleat
   weight: 0.0909
   avg_copies: 1.0
 - name: Flare of Fortitude
@@ -201,43 +201,43 @@ top_cards:
 - name: Reprieve
   weight: 0.0455
   avg_copies: 2.0
-- name: card:dragonfire-blade
-  weight: 0.0455
-  avg_copies: 1.0
-- name: The Reality Chip
-  weight: 0.0455
-  avg_copies: 1.0
 - name: Umezawa's Jitte
   weight: 0.0455
   avg_copies: 1.0
-- name: card:sram-senior-edificer
+- name: card:dragonfire-blade
   weight: 0.0455
   avg_copies: 1.0
 - name: Stubborn Denial
   weight: 0.0455
   avg_copies: 1.0
-- name: Godless Shrine
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Cursed Totem
-  weight: 0.0455
-  avg_copies: 1.0
-- name: Mox Amber
-  weight: 0.0455
-  avg_copies: 1.0
 - name: Into the Flood Maw
   weight: 0.0455
   avg_copies: 1.0
-- name: card:my-precious
+- name: The Reality Chip
   weight: 0.0455
   avg_copies: 1.0
 - name: Spell Snare
   weight: 0.0455
   avg_copies: 1.0
+- name: card:gingerbrute
+  weight: 0.0455
+  avg_copies: 1.0
+- name: card:sram-senior-edificer
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Mox Amber
+  weight: 0.0455
+  avg_copies: 1.0
+- name: card:my-precious
+  weight: 0.0455
+  avg_copies: 1.0
 - name: Forge Anew
   weight: 0.0455
   avg_copies: 1.0
-- name: card:gingerbrute
+- name: Cursed Totem
+  weight: 0.0455
+  avg_copies: 1.0
+- name: Godless Shrine
   weight: 0.0455
   avg_copies: 1.0
 ---

@@ -48,7 +48,7 @@ archetypes:
     weight: 0.125
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0098
+    weight: 0.0194
     avg_copies: 1.0
   4c-omnath:
     weight: 0.75
@@ -135,7 +135,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-67:
-    weight: 0.1416
+    weight: 0.1404
     avg_copies: 1.0
   unknown-70:
     weight: 1.0
@@ -274,7 +274,7 @@ archetypes:
     avg_copies: 1.0
   unknown-213:
     weight: 1.0
-    avg_copies: 2.88
+    avg_copies: 2.94
   unknown-216:
     weight: 1.0
     avg_copies: 1.0

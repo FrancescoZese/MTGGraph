@@ -18,7 +18,7 @@ archetypes:
     weight: 0.0282
     avg_copies: 1.0
   samwise-combo:
-    weight: 0.0135
+    weight: 0.0133
     avg_copies: 1.0
   rakdos-lantern-combo:
     weight: 0.5

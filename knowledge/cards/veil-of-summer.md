@@ -22,7 +22,7 @@ archetypes:
     weight: 0.9344
     avg_copies: 2.2
   samwise-combo:
-    weight: 0.0135
+    weight: 0.0133
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.5625
@@ -31,8 +31,8 @@ archetypes:
     weight: 0.1711
     avg_copies: 2.03
   cosmogoyf-fling:
-    weight: 0.6613
-    avg_copies: 3.61
+    weight: 0.6667
+    avg_copies: 3.6
   devoted-combo:
     weight: 1.0
     avg_copies: 3.0
@@ -61,7 +61,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-126:
-    weight: 0.0449
+    weight: 0.0442
     avg_copies: 2.38
   unknown-145:
     weight: 1.0

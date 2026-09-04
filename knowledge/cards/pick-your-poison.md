@@ -13,10 +13,10 @@ archetypes:
     weight: 0.0217
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0098
+    weight: 0.0097
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.1162
+    weight: 0.1155
     avg_copies: 1.92
   broodscale-combo:
     weight: 0.1327
@@ -28,7 +28,7 @@ archetypes:
     weight: 0.2
     avg_copies: 1.0
   cosmogoyf-fling:
-    weight: 0.0323
+    weight: 0.0317
     avg_copies: 3.0
   the-rock:
     weight: 0.5
@@ -52,7 +52,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-126:
-    weight: 0.0056
+    weight: 0.0055
     avg_copies: 2.0
   unknown-151:
     weight: 1.0
@@ -61,7 +61,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 2.0
   unknown-194:
-    weight: 0.0133
+    weight: 0.013
     avg_copies: 1.0
   unknown-211:
     weight: 0.1111

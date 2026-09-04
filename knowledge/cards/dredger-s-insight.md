@@ -7,14 +7,14 @@ name: Dredger's Insight
 scryfall_id: 148400a0-7819-4551-9815-9357eed1db4d
 set: dft
 type: Enchantment
-meta_presence: 0.0109
+meta_presence: 0.011
 archetypes:
   kethis-combo:
     weight: 0.125
     avg_copies: 1.0
   yawgmoth-combo:
-    weight: 0.8958
-    avg_copies: 1.88
+    weight: 0.8969
+    avg_copies: 1.9
   unknown-270:
     weight: 1.0
     avg_copies: 1.0

@@ -7,11 +7,11 @@ name: Sanctifier en-Vec
 scryfall_id: f8c3cca4-23c0-4c14-ab56-51ba011f5974
 set: mh2
 type: Creature — Human Cleric
-meta_presence: 0.0179
+meta_presence: 0.018
 archetypes:
   boros-energy:
-    weight: 0.0569
-    avg_copies: 1.78
+    weight: 0.058
+    avg_copies: 1.79
   burn:
     weight: 0.1395
     avg_copies: 2.0

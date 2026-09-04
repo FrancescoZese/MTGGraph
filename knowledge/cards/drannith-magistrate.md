@@ -22,7 +22,7 @@ archetypes:
     weight: 0.0028
     avg_copies: 1.0
   goryo:
-    weight: 0.0743
+    weight: 0.074
     avg_copies: 1.29
   living-end:
     weight: 0.0633
@@ -31,7 +31,7 @@ archetypes:
     weight: 0.0137
     avg_copies: 2.0
   domain-zoo:
-    weight: 0.0129
+    weight: 0.0127
     avg_copies: 1.5
   hammer-time:
     weight: 0.0909
@@ -46,7 +46,7 @@ archetypes:
     weight: 0.073
     avg_copies: 1.53
   samwise-combo:
-    weight: 0.5946
+    weight: 0.6
     avg_copies: 1.07
   orzhov-blink:
     weight: 0.2609
@@ -94,7 +94,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-126:
-    weight: 0.4494
+    weight: 0.442
     avg_copies: 1.0
   unknown-144:
     weight: 0.2

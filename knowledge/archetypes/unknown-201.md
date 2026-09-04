@@ -10,28 +10,25 @@ top_cards:
 - name: Ajani, Nacatl Pariah
   weight: 1.0
   avg_copies: 4.0
-- name: Galvanic Discharge
-  weight: 1.0
-  avg_copies: 4.0
-- name: Orcish Bowmasters
-  weight: 1.0
-  avg_copies: 4.0
-- name: Bloodstained Mire
-  weight: 1.0
-  avg_copies: 4.0
-- name: Ragavan, Nimble Pilferer
+- name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
 - name: Obsidian Charmaw
   weight: 1.0
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Ragavan, Nimble Pilferer
+  weight: 1.0
+  avg_copies: 4.0
+- name: Bloodstained Mire
+  weight: 1.0
+  avg_copies: 4.0
+- name: Orcish Bowmasters
+  weight: 1.0
+  avg_copies: 4.0
+- name: Galvanic Discharge
   weight: 1.0
   avg_copies: 4.0
 - name: Sanctifier en-Vec
-  weight: 1.0
-  avg_copies: 3.0
-- name: Marsh Flats
   weight: 1.0
   avg_copies: 3.0
 - name: Deafening Silence
@@ -40,12 +37,18 @@ top_cards:
 - name: Ob Nixilis, the Adversary
   weight: 1.0
   avg_copies: 3.0
-- name: Goblin Bombardment
-  weight: 1.0
-  avg_copies: 3.0
 - name: Wear
   weight: 1.0
   avg_copies: 3.0
+- name: Goblin Bombardment
+  weight: 1.0
+  avg_copies: 3.0
+- name: Marsh Flats
+  weight: 1.0
+  avg_copies: 3.0
+- name: Vexing Bauble
+  weight: 1.0
+  avg_copies: 2.0
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 2.0
@@ -55,13 +58,7 @@ top_cards:
 - name: Arena of Glory
   weight: 1.0
   avg_copies: 2.0
-- name: Vexing Bauble
-  weight: 1.0
-  avg_copies: 2.0
-- name: Shadowy Backstreet
-  weight: 1.0
-  avg_copies: 1.0
-- name: Seasoned Pyromancer
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
 - name: Raucous Theater
@@ -70,19 +67,22 @@ top_cards:
 - name: Guide of Souls
   weight: 1.0
   avg_copies: 1.0
-- name: Ocelot Pride
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Ocelot Pride
   weight: 1.0
   avg_copies: 1.0
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
-- name: Mountain
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Seasoned Pyromancer
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
 ---

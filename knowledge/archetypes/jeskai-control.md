@@ -10,10 +10,10 @@ top_cards:
 - name: Flooded Strand
   weight: 1.0
   avg_copies: 3.93
-- name: Consign to Memory
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.99
-- name: Mystical Dispute
+- name: Consign to Memory
   weight: 1.0
   avg_copies: 2.99
 - name: Plains
@@ -76,10 +76,10 @@ top_cards:
 - name: Day's Undoing
   weight: 0.8219
   avg_copies: 1.23
-- name: Geier Reach Sanitarium
+- name: Monumental Henge
   weight: 0.8219
   avg_copies: 1.0
-- name: Monumental Henge
+- name: Geier Reach Sanitarium
   weight: 0.8219
   avg_copies: 1.0
 - name: Force of Negation
@@ -157,10 +157,10 @@ top_cards:
 - name: Arena of Glory
   weight: 0.0959
   avg_copies: 1.75
-- name: Subtlety
+- name: Damping Sphere
   weight: 0.0959
   avg_copies: 1.71
-- name: Damping Sphere
+- name: Subtlety
   weight: 0.0959
   avg_copies: 1.71
 - name: Sink into Stupor
@@ -205,10 +205,10 @@ top_cards:
 - name: Dovin's Veto
   weight: 0.0411
   avg_copies: 1.0
-- name: card:saheeli-rai
+- name: card:felidar-guardian
   weight: 0.0274
   avg_copies: 3.0
-- name: card:felidar-guardian
+- name: card:saheeli-rai
   weight: 0.0274
   avg_copies: 3.0
 - name: Lightning Bolt
@@ -223,46 +223,43 @@ top_cards:
 - name: Traumatic Critique
   weight: 0.0274
   avg_copies: 1.5
-- name: Quantum Riddler
-  weight: 0.0274
-  avg_copies: 1.5
 - name: Floodfarm Verge
   weight: 0.0274
   avg_copies: 1.5
 - name: card:linvala-keeper-of-silence
   weight: 0.0274
   avg_copies: 1.5
-- name: Get Lost
+- name: Quantum Riddler
   weight: 0.0274
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Wear
   weight: 0.0274
   avg_copies: 1.0
-- name: card:bribery
-  weight: 0.0274
-  avg_copies: 1.0
-- name: Hallowed Moonlight
+- name: Get Lost
   weight: 0.0274
   avg_copies: 1.0
 - name: Raugrin Triome
   weight: 0.0274
   avg_copies: 1.0
+- name: Hallowed Moonlight
+  weight: 0.0274
+  avg_copies: 1.0
 - name: Breeding Pool
   weight: 0.0274
   avg_copies: 1.0
-- name: Dress Down
+- name: card:bribery
+  weight: 0.0274
+  avg_copies: 1.0
+- name: Ragavan, Nimble Pilferer
   weight: 0.0137
   avg_copies: 4.0
-- name: Ragavan, Nimble Pilferer
+- name: Dress Down
   weight: 0.0137
   avg_copies: 4.0
 - name: Nulldrifter
   weight: 0.0137
   avg_copies: 3.0
-- name: Prismari Charm
-  weight: 0.0137
-  avg_copies: 2.0
-- name: Harbinger of the Seas
+- name: Drannith Magistrate
   weight: 0.0137
   avg_copies: 2.0
 - name: Containment Priest
@@ -271,7 +268,10 @@ top_cards:
 - name: Wan Shi Tong, Librarian
   weight: 0.0137
   avg_copies: 2.0
-- name: Cursed Totem
+- name: Harbinger of the Seas
+  weight: 0.0137
+  avg_copies: 2.0
+- name: Prismari Charm
   weight: 0.0137
   avg_copies: 2.0
 - name: Ephemerate
@@ -280,19 +280,34 @@ top_cards:
 - name: Invert Polarity
   weight: 0.0137
   avg_copies: 2.0
-- name: Drannith Magistrate
+- name: Cursed Totem
   weight: 0.0137
   avg_copies: 2.0
-- name: Emeritus of Ideation
+- name: Timeless Dragon
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Gemstone Caverns
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Unlicensed Hearse
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Path to Exile
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Ghost Vacuum
   weight: 0.0137
   avg_copies: 1.0
 - name: Thraben Charm
   weight: 0.0137
   avg_copies: 1.0
-- name: Kozilek, Butcher of Truth
+- name: Windswept Heath
   weight: 0.0137
   avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Emeritus of Ideation
+  weight: 0.0137
+  avg_copies: 1.0
+- name: Flashback
   weight: 0.0137
   avg_copies: 1.0
 - name: The Wandering Emperor
@@ -301,25 +316,10 @@ top_cards:
 - name: Blood Moon
   weight: 0.0137
   avg_copies: 1.0
+- name: Kozilek, Butcher of Truth
+  weight: 0.0137
+  avg_copies: 1.0
 - name: Vendilion Clique
-  weight: 0.0137
-  avg_copies: 1.0
-- name: Timeless Dragon
-  weight: 0.0137
-  avg_copies: 1.0
-- name: Ghost Vacuum
-  weight: 0.0137
-  avg_copies: 1.0
-- name: Flashback
-  weight: 0.0137
-  avg_copies: 1.0
-- name: Path to Exile
-  weight: 0.0137
-  avg_copies: 1.0
-- name: Unlicensed Hearse
-  weight: 0.0137
-  avg_copies: 1.0
-- name: Windswept Heath
   weight: 0.0137
   avg_copies: 1.0
 ---

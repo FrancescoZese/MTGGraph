@@ -11,7 +11,7 @@ type: Legendary Creature — Elder Giant
 meta_presence: 0.0073
 archetypes:
   domain-zoo:
-    weight: 0.1935
+    weight: 0.1911
     avg_copies: 2.33
   jund-saga:
     weight: 0.2

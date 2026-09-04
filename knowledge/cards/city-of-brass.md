@@ -6,9 +6,9 @@ name: City of Brass
 scryfall_id: c21565d0-fc40-4d89-9b27-87c03385e0af
 set: tmc
 type: Land
-meta_presence: 0.0022
+meta_presence: 0.0023
 archetypes:
   samwise-combo:
-    weight: 0.2432
-    avg_copies: 1.39
+    weight: 0.2533
+    avg_copies: 1.47
 ---

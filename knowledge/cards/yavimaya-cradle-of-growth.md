@@ -6,7 +6,7 @@ name: Yavimaya, Cradle of Growth
 scryfall_id: 4e4b6e22-93b2-4896-bba5-0ceaa5d8ea3c
 set: mh2
 type: Legendary Land
-meta_presence: 0.0084
+meta_presence: 0.0085
 archetypes:
   broodscale-combo:
     weight: 0.059
@@ -24,7 +24,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-194:
-    weight: 0.52
+    weight: 0.5195
     avg_copies: 1.0
   unknown-249:
     weight: 1.0

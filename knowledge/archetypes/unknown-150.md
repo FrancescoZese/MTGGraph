@@ -14,10 +14,10 @@ top_cards:
 - name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
-- name: Expedition Map
+- name: Stock Up
   weight: 1.0
   avg_copies: 4.0
-- name: Stock Up
+- name: Expedition Map
   weight: 1.0
   avg_copies: 4.0
 - name: Portent of Calamity
@@ -29,10 +29,10 @@ top_cards:
 - name: Urza's Power Plant
   weight: 1.0
   avg_copies: 3.0
-- name: Urza's Tower
+- name: Urza's Mine
   weight: 1.0
   avg_copies: 3.0
-- name: Urza's Mine
+- name: Urza's Tower
   weight: 1.0
   avg_copies: 3.0
 - name: Lórien Revealed
@@ -44,13 +44,13 @@ top_cards:
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 2.25
+- name: Sink into Stupor
+  weight: 1.0
+  avg_copies: 2.0
 - name: Dress Down
   weight: 1.0
   avg_copies: 2.0
 - name: Spell Snare
-  weight: 1.0
-  avg_copies: 2.0
-- name: Sink into Stupor
   weight: 1.0
   avg_copies: 2.0
 - name: Otawara, Soaring City
@@ -59,10 +59,10 @@ top_cards:
 - name: Emrakul, the Promised End
   weight: 0.6667
   avg_copies: 3.5
-- name: Talisman of Dominance
+- name: Trinisphere
   weight: 0.6667
   avg_copies: 3.0
-- name: Trinisphere
+- name: Talisman of Dominance
   weight: 0.6667
   avg_copies: 3.0
 - name: Emrakul, the Aeons Torn
@@ -71,37 +71,37 @@ top_cards:
 - name: Hurkyl's Recall
   weight: 0.6667
   avg_copies: 2.0
-- name: Stern Scolding
+- name: Unable to Scream
   weight: 0.6667
   avg_copies: 2.0
 - name: Ugin, Eye of the Storms
   weight: 0.6667
   avg_copies: 2.0
-- name: Unable to Scream
+- name: Stern Scolding
   weight: 0.6667
   avg_copies: 2.0
 - name: Flusterstorm
   weight: 0.6667
   avg_copies: 2.0
-- name: Soulless Jailer
+- name: card:confounding-conundrum
   weight: 0.3333
   avg_copies: 3.0
-- name: card:confounding-conundrum
+- name: Soulless Jailer
   weight: 0.3333
   avg_copies: 3.0
 - name: card:one-with-the-multiverse
   weight: 0.3333
   avg_copies: 2.0
-- name: Agna Qel'a
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Talisman of Curiosity
+- name: Relic of Progenitus
   weight: 0.3333
   avg_copies: 1.0
 - name: Talisman of Progress
   weight: 0.3333
   avg_copies: 1.0
-- name: Relic of Progenitus
+- name: Agna Qel'a
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Talisman of Curiosity
   weight: 0.3333
   avg_copies: 1.0
 - name: Snow-Covered Island

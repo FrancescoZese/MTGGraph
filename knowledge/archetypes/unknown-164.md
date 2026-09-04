@@ -5,34 +5,34 @@ name: 'Unknown #164'
 meta_share: 0.0002
 list_count: 2
 top_cards:
-- name: Force of Negation
-  weight: 1.0
-  avg_copies: 4.0
-- name: Jwari Disruption
-  weight: 1.0
-  avg_copies: 4.0
-- name: Consign to Memory
-  weight: 1.0
-  avg_copies: 4.0
-- name: Flare of Denial
+- name: Sink into Stupor
   weight: 1.0
   avg_copies: 4.0
 - name: Disrupting Shoal
   weight: 1.0
   avg_copies: 4.0
-- name: Silvergill Adept
+- name: Jwari Disruption
   weight: 1.0
   avg_copies: 4.0
-- name: card:namor-the-sub-mariner
+- name: Force of Negation
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flare of Denial
   weight: 1.0
   avg_copies: 4.0
 - name: Cavern of Souls
   weight: 1.0
   avg_copies: 4.0
+- name: Consign to Memory
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:namor-the-sub-mariner
+  weight: 1.0
+  avg_copies: 4.0
 - name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 4.0
-- name: Sink into Stupor
+- name: Silvergill Adept
   weight: 1.0
   avg_copies: 4.0
 - name: Vodalian Hexcatcher
@@ -53,10 +53,10 @@ top_cards:
 - name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.5
-- name: Hurkyl's Recall
+- name: Merfolk Trickster
   weight: 0.5
   avg_copies: 4.0
-- name: Merfolk Trickster
+- name: Hurkyl's Recall
   weight: 0.5
   avg_copies: 4.0
 - name: Mindspring Merfolk
@@ -68,19 +68,19 @@ top_cards:
 - name: Chalice of the Void
   weight: 0.5
   avg_copies: 4.0
-- name: Svyelun of Sea and Sky
-  weight: 0.5
-  avg_copies: 3.0
 - name: Stern Scolding
   weight: 0.5
   avg_copies: 3.0
-- name: Tide Shaper
+- name: Svyelun of Sea and Sky
   weight: 0.5
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Dismember
   weight: 0.5
   avg_copies: 2.0
 - name: Gemstone Caverns
+  weight: 0.5
+  avg_copies: 2.0
+- name: Tide Shaper
   weight: 0.5
   avg_copies: 2.0
 - name: Mutavault

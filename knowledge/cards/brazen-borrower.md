@@ -7,7 +7,7 @@ name: Brazen Borrower // Petty Theft
 scryfall_id: 25d309d6-9e56-441e-bd29-5c903d5221bf
 set: soc
 type: Creature — Faerie Rogue // Instant — Adventure
-meta_presence: 0.0056
+meta_presence: 0.0055
 archetypes:
   dimir-control:
     weight: 0.037
@@ -16,7 +16,7 @@ archetypes:
     weight: 0.0127
     avg_copies: 1.0
   simic-ritual:
-    weight: 0.0294
+    weight: 0.0291
     avg_copies: 1.25
   izzet-prowess:
     weight: 0.0044
@@ -40,7 +40,7 @@ archetypes:
     weight: 0.4138
     avg_copies: 1.83
   unknown-67:
-    weight: 0.1416
+    weight: 0.1404
     avg_copies: 1.17
   unknown-103:
     weight: 1.0

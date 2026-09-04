@@ -102,10 +102,10 @@ top_cards:
 - name: Tormod's Crypt
   weight: 0.181
   avg_copies: 1.0
-- name: Ensnaring Bridge
+- name: Liquimetal Coating
   weight: 0.181
   avg_copies: 1.0
-- name: Liquimetal Coating
+- name: Ensnaring Bridge
   weight: 0.181
   avg_copies: 1.0
 - name: Pithing Needle
@@ -126,10 +126,10 @@ top_cards:
 - name: Sunbillow Verge
   weight: 0.0948
   avg_copies: 1.0
-- name: Kataki, War's Wage
+- name: The Stone Brain
   weight: 0.0948
   avg_copies: 1.0
-- name: The Stone Brain
+- name: Kataki, War's Wage
   weight: 0.0948
   avg_copies: 1.0
 - name: Lithomantic Barrage
@@ -150,10 +150,10 @@ top_cards:
 - name: Rustvale Bridge
   weight: 0.0517
   avg_copies: 2.0
-- name: Portable Hole
+- name: Elixir of Immortality
   weight: 0.0517
   avg_copies: 1.0
-- name: Elixir of Immortality
+- name: Portable Hole
   weight: 0.0517
   avg_copies: 1.0
 - name: Leyline of Sanctity
@@ -180,19 +180,19 @@ top_cards:
 - name: Flashback
   weight: 0.0259
   avg_copies: 2.0
-- name: Disruptor Flute
+- name: Sacred Ground
   weight: 0.0259
   avg_copies: 1.67
-- name: Sacred Ground
+- name: Disruptor Flute
   weight: 0.0259
   avg_copies: 1.67
 - name: Madcap Experiment
   weight: 0.0172
   avg_copies: 3.0
-- name: Cursed Totem
+- name: Isochron Scepter
   weight: 0.0172
   avg_copies: 2.5
-- name: Isochron Scepter
+- name: Cursed Totem
   weight: 0.0172
   avg_copies: 2.5
 - name: card:platinum-emperion
@@ -201,6 +201,15 @@ top_cards:
 - name: Elegant Parlor
   weight: 0.0172
   avg_copies: 1.5
+- name: Chandra, Torch of Defiance
+  weight: 0.0172
+  avg_copies: 1.0
+- name: Aven Mindcensor
+  weight: 0.0172
+  avg_copies: 1.0
+- name: Brotherhood's End
+  weight: 0.0172
+  avg_copies: 1.0
 - name: Blast Zone
   weight: 0.0172
   avg_copies: 1.0
@@ -210,40 +219,19 @@ top_cards:
 - name: Stormbreath Dragon
   weight: 0.0172
   avg_copies: 1.0
-- name: Aven Mindcensor
-  weight: 0.0172
-  avg_copies: 1.0
-- name: Chandra, Torch of Defiance
-  weight: 0.0172
-  avg_copies: 1.0
-- name: Brotherhood's End
-  weight: 0.0172
-  avg_copies: 1.0
 - name: Get Lost
-  weight: 0.0086
-  avg_copies: 4.0
-- name: Soul-Guide Lantern
   weight: 0.0086
   avg_copies: 4.0
 - name: White Orchid Phantom
   weight: 0.0086
   avg_copies: 4.0
+- name: Soul-Guide Lantern
+  weight: 0.0086
+  avg_copies: 4.0
 - name: Teferi, Time Raveler
   weight: 0.0086
   avg_copies: 3.0
-- name: Quantum Riddler
-  weight: 0.0086
-  avg_copies: 2.0
 - name: Untimely Malfunction
-  weight: 0.0086
-  avg_copies: 2.0
-- name: Kor Firewalker
-  weight: 0.0086
-  avg_copies: 2.0
-- name: Blood Moon
-  weight: 0.0086
-  avg_copies: 2.0
-- name: Damping Sphere
   weight: 0.0086
   avg_copies: 2.0
 - name: Meltdown
@@ -252,16 +240,25 @@ top_cards:
 - name: Nevermore
   weight: 0.0086
   avg_copies: 2.0
-- name: card:fry
+- name: Damping Sphere
   weight: 0.0086
-  avg_copies: 1.0
-- name: Steam Vents
+  avg_copies: 2.0
+- name: Kor Firewalker
   weight: 0.0086
-  avg_copies: 1.0
-- name: Fire Magic
+  avg_copies: 2.0
+- name: Blood Moon
+  weight: 0.0086
+  avg_copies: 2.0
+- name: Quantum Riddler
+  weight: 0.0086
+  avg_copies: 2.0
+- name: Fracturing Gust
   weight: 0.0086
   avg_copies: 1.0
 - name: card:chandra-hope-s-beacon
+  weight: 0.0086
+  avg_copies: 1.0
+- name: Raugrin Triome
   weight: 0.0086
   avg_copies: 1.0
 - name: card:the-mind-stone
@@ -270,34 +267,37 @@ top_cards:
 - name: Rugged Prairie
   weight: 0.0086
   avg_copies: 1.0
-- name: Ajani Vengeant
-  weight: 0.0086
-  avg_copies: 1.0
 - name: Hallowed Moonlight
   weight: 0.0086
   avg_copies: 1.0
-- name: Cityscape Leveler
+- name: card:fry
   weight: 0.0086
   avg_copies: 1.0
-- name: Faerie Macabre
+- name: Ajani Vengeant
   weight: 0.0086
   avg_copies: 1.0
 - name: Crucible of Worlds
   weight: 0.0086
   avg_copies: 1.0
-- name: Ark of Hunger
+- name: Grafdigger's Cage
+  weight: 0.0086
+  avg_copies: 1.0
+- name: Fire Magic
+  weight: 0.0086
+  avg_copies: 1.0
+- name: Cityscape Leveler
   weight: 0.0086
   avg_copies: 1.0
 - name: Razorgrass Ambush
   weight: 0.0086
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Steam Vents
   weight: 0.0086
   avg_copies: 1.0
-- name: Fracturing Gust
+- name: Ark of Hunger
   weight: 0.0086
   avg_copies: 1.0
-- name: Raugrin Triome
+- name: Faerie Macabre
   weight: 0.0086
   avg_copies: 1.0
 ---

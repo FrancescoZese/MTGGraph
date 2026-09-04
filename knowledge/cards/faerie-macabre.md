@@ -31,13 +31,13 @@ archetypes:
     weight: 0.0526
     avg_copies: 2.0
   cosmogoyf-fling:
-    weight: 0.0161
+    weight: 0.0159
     avg_copies: 2.0
   unknown-45:
     weight: 0.3333
     avg_copies: 1.09
   unknown-67:
-    weight: 0.0619
+    weight: 0.0614
     avg_copies: 1.12
   unknown-68:
     weight: 0.0238

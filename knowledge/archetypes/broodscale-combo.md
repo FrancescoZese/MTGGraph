@@ -3,7 +3,7 @@ colors:
 - R
 - G
 name: Broodscale Combo
-meta_share: 0.0418
+meta_share: 0.0417
 list_count: 339
 top_cards:
 - name: Malevolent Rumble
@@ -243,13 +243,13 @@ top_cards:
 - name: Agatha's Soul Cauldron
   weight: 0.0118
   avg_copies: 2.0
-- name: Swamp
+- name: Mutagenic Growth
   weight: 0.0118
   avg_copies: 1.0
 - name: Kozilek's Return
   weight: 0.0118
   avg_copies: 1.0
-- name: Mutagenic Growth
+- name: Swamp
   weight: 0.0118
   avg_copies: 1.0
 - name: Drowner of Truth
@@ -267,45 +267,48 @@ top_cards:
 - name: Nurturing Peatland
   weight: 0.0088
   avg_copies: 1.0
-- name: Ghost Vacuum
+- name: Shadowspear
   weight: 0.0088
   avg_copies: 1.0
-- name: Shadowspear
+- name: Ghost Vacuum
   weight: 0.0088
   avg_copies: 1.0
 - name: Revitalizing Repast
   weight: 0.0059
   avg_copies: 2.5
-- name: card:mj-lnir-hammer-of-thor
+- name: card:giant-s-boulder
   weight: 0.0059
   avg_copies: 2.0
 - name: Snow-Covered Forest
   weight: 0.0059
   avg_copies: 2.0
+- name: card:mj-lnir-hammer-of-thor
+  weight: 0.0059
+  avg_copies: 2.0
 - name: card:llanowar-reborn
   weight: 0.0059
   avg_copies: 2.0
-- name: card:giant-s-boulder
-  weight: 0.0059
-  avg_copies: 2.0
-- name: Skateboard
-  weight: 0.0059
-  avg_copies: 1.0
 - name: Lightning Bolt
   weight: 0.0059
   avg_copies: 1.0
 - name: Meltdown
   weight: 0.0059
   avg_copies: 1.0
-- name: Brushland
+- name: Skateboard
+  weight: 0.0059
+  avg_copies: 1.0
+- name: Eldrazi Linebreaker
   weight: 0.0029
   avg_copies: 4.0
 - name: Spire of Industry
   weight: 0.0029
   avg_copies: 4.0
-- name: Eldrazi Linebreaker
+- name: Brushland
   weight: 0.0029
   avg_copies: 4.0
+- name: Darksteel Citadel
+  weight: 0.0029
+  avg_copies: 3.0
 - name: Mox Opal
   weight: 0.0029
   avg_copies: 3.0
@@ -315,16 +318,16 @@ top_cards:
 - name: Formidable Speaker
   weight: 0.0029
   avg_copies: 3.0
-- name: Darksteel Citadel
-  weight: 0.0029
-  avg_copies: 3.0
-- name: card:the-sackville-bagginses
-  weight: 0.0029
-  avg_copies: 2.0
 - name: Deafening Silence
   weight: 0.0029
   avg_copies: 2.0
+- name: Heroic Intervention
+  weight: 0.0029
+  avg_copies: 2.0
 - name: Idol of False Gods
+  weight: 0.0029
+  avg_copies: 2.0
+- name: card:the-sackville-bagginses
   weight: 0.0029
   avg_copies: 2.0
 - name: Orim's Chant
@@ -333,19 +336,25 @@ top_cards:
 - name: Cursed Totem
   weight: 0.0029
   avg_copies: 2.0
-- name: Heroic Intervention
-  weight: 0.0029
-  avg_copies: 2.0
 - name: Snakeskin Veil
   weight: 0.0029
   avg_copies: 1.5
-- name: Pawpatch Formation
+- name: Nihil Spellbomb
   weight: 0.0029
   avg_copies: 1.0
 - name: card:ugin-the-ineffable
   weight: 0.0029
   avg_copies: 1.0
+- name: Endurance
+  weight: 0.0029
+  avg_copies: 1.0
+- name: Expedition Map
+  weight: 0.0029
+  avg_copies: 1.0
 - name: Mishra's Research Desk
+  weight: 0.0029
+  avg_copies: 1.0
+- name: Pawpatch Formation
   weight: 0.0029
   avg_copies: 1.0
 - name: Toxic Deluge
@@ -354,22 +363,13 @@ top_cards:
 - name: Witherbloom Charm
   weight: 0.0029
   avg_copies: 1.0
-- name: Endurance
-  weight: 0.0029
-  avg_copies: 1.0
-- name: Surgical Extraction
-  weight: 0.0029
-  avg_copies: 1.0
-- name: Expedition Map
-  weight: 0.0029
-  avg_copies: 1.0
 - name: card:call-damage-control
   weight: 0.0029
   avg_copies: 1.0
-- name: Nihil Spellbomb
+- name: Tunnel Ignus
   weight: 0.0029
   avg_copies: 1.0
-- name: Tunnel Ignus
+- name: Surgical Extraction
   weight: 0.0029
   avg_copies: 1.0
 ---

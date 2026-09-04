@@ -6,25 +6,25 @@ name: 'Unknown #35'
 meta_share: 0.0006
 list_count: 5
 top_cards:
+- name: Flame of Anor
+  weight: 1.0
+  avg_copies: 4.0
 - name: Lórien Revealed
+  weight: 1.0
+  avg_copies: 4.0
+- name: Thundertrap Trainer
   weight: 1.0
   avg_copies: 4.0
 - name: Subtlety
   weight: 1.0
   avg_copies: 4.0
-- name: Flame of Anor
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Unholy Heat
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
-- name: Unholy Heat
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thundertrap Trainer
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Island
@@ -42,19 +42,19 @@ top_cards:
 - name: Lightning Bolt
   weight: 1.0
   avg_copies: 2.43
-- name: Snapcaster Mage
-  weight: 1.0
-  avg_copies: 2.0
-- name: Flare of Denial
-  weight: 1.0
-  avg_copies: 2.0
-- name: Thundering Falls
+- name: Blood Moon
   weight: 1.0
   avg_copies: 2.0
 - name: Dress Down
   weight: 1.0
   avg_copies: 2.0
-- name: Blood Moon
+- name: Thundering Falls
+  weight: 1.0
+  avg_copies: 2.0
+- name: Flare of Denial
+  weight: 1.0
+  avg_copies: 2.0
+- name: Snapcaster Mage
   weight: 1.0
   avg_copies: 2.0
 - name: Spell Snare
@@ -63,10 +63,10 @@ top_cards:
 - name: Flusterstorm
   weight: 1.0
   avg_copies: 1.4
-- name: Engineered Explosives
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
-- name: Mountain
+- name: Engineered Explosives
   weight: 1.0
   avg_copies: 1.0
 - name: Flow State
@@ -99,10 +99,10 @@ top_cards:
 - name: Bonecrusher Giant
   weight: 0.4
   avg_copies: 1.5
-- name: Den of the Bugbear
+- name: Mistrise Village
   weight: 0.4
   avg_copies: 1.0
-- name: Mistrise Village
+- name: Den of the Bugbear
   weight: 0.4
   avg_copies: 1.0
 - name: Soul-Guide Lantern
@@ -111,31 +111,31 @@ top_cards:
 - name: card:tectonic-giant
   weight: 0.2
   avg_copies: 3.0
-- name: Marang River Regent
-  weight: 0.2
-  avg_copies: 2.0
 - name: Teferi, Temporal Pilgrim
-  weight: 0.2
-  avg_copies: 2.0
-- name: Twinflame Tyrant
   weight: 0.2
   avg_copies: 2.0
 - name: Spell Pierce
   weight: 0.2
   avg_copies: 2.0
-- name: Chalice of the Void
+- name: Marang River Regent
   weight: 0.2
-  avg_copies: 1.0
+  avg_copies: 2.0
+- name: Twinflame Tyrant
+  weight: 0.2
+  avg_copies: 2.0
 - name: Damping Sphere
   weight: 0.2
   avg_copies: 1.0
 - name: Brazen Borrower
   weight: 0.2
   avg_copies: 1.0
+- name: Annul
+  weight: 0.2
+  avg_copies: 1.0
 - name: Stern Scolding
   weight: 0.2
   avg_copies: 1.0
-- name: Annul
+- name: Chalice of the Void
   weight: 0.2
   avg_copies: 1.0
 ---

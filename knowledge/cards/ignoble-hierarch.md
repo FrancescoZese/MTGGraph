@@ -10,7 +10,7 @@ type: Creature — Goblin Shaman
 meta_presence: 0.0046
 archetypes:
   yawgmoth-combo:
-    weight: 0.2812
+    weight: 0.2784
     avg_copies: 1.15
   broodscale-combo:
     weight: 0.0088
