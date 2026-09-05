@@ -10,7 +10,7 @@ type: Creature — Incarnation
 meta_presence: 0.0005
 archetypes:
   esper-blink:
-    weight: 0.0043
+    weight: 0.0041
     avg_copies: 1.0
   dredge:
     weight: 0.0714

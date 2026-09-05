@@ -9,10 +9,10 @@ top_cards:
 - name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
-- name: Bloodghast
+- name: Flare of Malice
   weight: 1.0
   avg_copies: 4.0
-- name: Flare of Malice
+- name: Bloodghast
   weight: 1.0
   avg_copies: 4.0
 - name: Stitcher's Supplier
@@ -36,10 +36,10 @@ top_cards:
 - name: Fatal Push
   weight: 1.0
   avg_copies: 2.0
-- name: Village Rites
+- name: Brotherhood's End
   weight: 1.0
   avg_copies: 2.0
-- name: Brotherhood's End
+- name: Village Rites
   weight: 1.0
   avg_copies: 2.0
 - name: Corrupted Conviction
@@ -81,10 +81,10 @@ top_cards:
 - name: Orcish Bowmasters
   weight: 0.6
   avg_copies: 2.67
-- name: Magus of the Moon
+- name: Engineered Explosives
   weight: 0.6
   avg_copies: 2.0
-- name: Engineered Explosives
+- name: Magus of the Moon
   weight: 0.6
   avg_copies: 2.0
 - name: Mishra's Bauble
@@ -135,7 +135,10 @@ top_cards:
 - name: card:thunderkin-awakener
   weight: 0.0667
   avg_copies: 3.0
-- name: card:archfiend-s-vessel
+- name: Emperor of Bones
+  weight: 0.0667
+  avg_copies: 2.0
+- name: Seasoned Pyromancer
   weight: 0.0667
   avg_copies: 2.0
 - name: Overgrown Tomb
@@ -144,13 +147,10 @@ top_cards:
 - name: Unearth
   weight: 0.0667
   avg_copies: 2.0
-- name: Emperor of Bones
+- name: card:archfiend-s-vessel
   weight: 0.0667
   avg_copies: 2.0
 - name: Veil of Summer
-  weight: 0.0667
-  avg_copies: 2.0
-- name: Seasoned Pyromancer
   weight: 0.0667
   avg_copies: 2.0
 - name: Ob Nixilis, the Adversary

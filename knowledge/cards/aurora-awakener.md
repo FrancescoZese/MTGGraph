@@ -10,7 +10,7 @@ type: Creature — Giant Druid
 meta_presence: 0.0005
 archetypes:
   domain-zoo:
-    weight: 0.0064
+    weight: 0.0063
     avg_copies: 4.0
   unknown-54:
     weight: 1.0

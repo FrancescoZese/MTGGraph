@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0127
     avg_copies: 4.0
   domain-zoo:
-    weight: 0.2994
+    weight: 0.2956
     avg_copies: 1.83
   hollow-one:
     weight: 0.0294
@@ -22,7 +22,7 @@ archetypes:
     weight: 0.0097
     avg_copies: 3.0
   izzet-prowess:
-    weight: 0.0131
+    weight: 0.0129
     avg_copies: 1.17
   4c-omnath:
     weight: 0.75
@@ -52,8 +52,8 @@ archetypes:
     weight: 0.3333
     avg_copies: 3.0
   unknown-96:
-    weight: 0.4304
-    avg_copies: 1.85
+    weight: 0.4375
+    avg_copies: 1.86
   unknown-101:
     weight: 0.4706
     avg_copies: 1.25

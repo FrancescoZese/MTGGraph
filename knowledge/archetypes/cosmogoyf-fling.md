@@ -4,7 +4,7 @@ colors:
 - R
 - G
 name: Cosmogoyf Fling
-meta_share: 0.0078
+meta_share: 0.0077
 list_count: 63
 top_cards:
 - name: Thud
@@ -130,10 +130,10 @@ top_cards:
 - name: Mountain
   weight: 0.0794
   avg_copies: 1.0
-- name: Leyline of the Guildpact
+- name: Scion of Draco
   weight: 0.0635
   avg_copies: 4.0
-- name: Scion of Draco
+- name: Leyline of the Guildpact
   weight: 0.0635
   avg_copies: 4.0
 - name: Faithless Looting
@@ -175,37 +175,37 @@ top_cards:
 - name: Mana Confluence
   weight: 0.0159
   avg_copies: 4.0
-- name: Shadowspear
-  weight: 0.0159
-  avg_copies: 2.0
 - name: Death's Shadow
-  weight: 0.0159
-  avg_copies: 2.0
-- name: Culling Ritual
   weight: 0.0159
   avg_copies: 2.0
 - name: card:kavaron-memorial-world
   weight: 0.0159
   avg_copies: 2.0
+- name: Culling Ritual
+  weight: 0.0159
+  avg_copies: 2.0
 - name: Faerie Macabre
   weight: 0.0159
   avg_copies: 2.0
-- name: Kaheera, the Orphanguard
+- name: Shadowspear
   weight: 0.0159
-  avg_copies: 1.0
-- name: Meltdown
+  avg_copies: 2.0
+- name: Force of Despair
   weight: 0.0159
   avg_copies: 1.0
 - name: Tamiyo's Safekeeping
   weight: 0.0159
   avg_copies: 1.0
-- name: Force of Despair
+- name: Meltdown
+  weight: 0.0159
+  avg_copies: 1.0
+- name: Disruptor Flute
   weight: 0.0159
   avg_copies: 1.0
 - name: card:self-destruct
   weight: 0.0159
   avg_copies: 1.0
-- name: Disruptor Flute
+- name: Kaheera, the Orphanguard
   weight: 0.0159
   avg_copies: 1.0
 ---

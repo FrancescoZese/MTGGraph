@@ -13,7 +13,7 @@ archetypes:
     weight: 0.0273
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.0137
+    weight: 0.0132
     avg_copies: 1.0
   unknown-27:
     weight: 0.3333

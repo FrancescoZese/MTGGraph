@@ -3,7 +3,7 @@ colors:
 - U
 - R
 name: 'Unknown #15'
-meta_share: 0.003
+meta_share: 0.0029
 list_count: 24
 top_cards:
 - name: Urza's Saga
@@ -120,13 +120,13 @@ top_cards:
 - name: card:loki-god-of-mischief
   weight: 0.25
   avg_copies: 3.5
+- name: Engineered Explosives
+  weight: 0.25
+  avg_copies: 1.0
 - name: Vexing Bauble
   weight: 0.25
   avg_copies: 1.0
 - name: Repeal
-  weight: 0.25
-  avg_copies: 1.0
-- name: Engineered Explosives
   weight: 0.25
   avg_copies: 1.0
 - name: Galvanic Blast
@@ -153,25 +153,25 @@ top_cards:
 - name: Lavaspur Boots
   weight: 0.1667
   avg_copies: 1.0
-- name: Grafdigger's Cage
-  weight: 0.1667
-  avg_copies: 1.0
 - name: Vandalblast
   weight: 0.1667
   avg_copies: 1.0
-- name: Ragavan, Nimble Pilferer
+- name: Grafdigger's Cage
+  weight: 0.1667
+  avg_copies: 1.0
+- name: card:avengers-disassembled
   weight: 0.125
   avg_copies: 2.0
-- name: card:avengers-disassembled
+- name: Ragavan, Nimble Pilferer
   weight: 0.125
   avg_copies: 2.0
 - name: Hurkyl's Recall
   weight: 0.125
   avg_copies: 1.33
-- name: Prismari Charm
+- name: Wooded Foothills
   weight: 0.125
   avg_copies: 1.0
-- name: Wooded Foothills
+- name: Prismari Charm
   weight: 0.125
   avg_copies: 1.0
 - name: Expressive Iteration
@@ -186,18 +186,15 @@ top_cards:
 - name: Relic of Progenitus
   weight: 0.0417
   avg_copies: 4.0
+- name: Portable Hole
+  weight: 0.0417
+  avg_copies: 3.0
 - name: Astrologian's Planisphere
   weight: 0.0417
   avg_copies: 3.0
 - name: Misty Rainforest
   weight: 0.0417
   avg_copies: 3.0
-- name: Portable Hole
-  weight: 0.0417
-  avg_copies: 3.0
-- name: Teferi, Time Raveler
-  weight: 0.0417
-  avg_copies: 2.0
 - name: Hallowed Fountain
   weight: 0.0417
   avg_copies: 2.0
@@ -207,7 +204,16 @@ top_cards:
 - name: Snow-Covered Island
   weight: 0.0417
   avg_copies: 2.0
-- name: Snow-Covered Mountain
+- name: Teferi, Time Raveler
+  weight: 0.0417
+  avg_copies: 2.0
+- name: card:pyrite-spellbomb
+  weight: 0.0417
+  avg_copies: 1.0
+- name: Annul
+  weight: 0.0417
+  avg_copies: 1.0
+- name: card:wizard-s-staff
   weight: 0.0417
   avg_copies: 1.0
 - name: Snapcaster Mage
@@ -216,19 +222,13 @@ top_cards:
 - name: Ghost Vacuum
   weight: 0.0417
   avg_copies: 1.0
-- name: Annul
+- name: Snow-Covered Mountain
   weight: 0.0417
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.0417
   avg_copies: 1.0
 - name: Polluted Delta
-  weight: 0.0417
-  avg_copies: 1.0
-- name: card:pyrite-spellbomb
-  weight: 0.0417
-  avg_copies: 1.0
-- name: card:wizard-s-staff
   weight: 0.0417
   avg_copies: 1.0
 ---

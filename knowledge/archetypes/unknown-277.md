@@ -7,12 +7,6 @@ name: 'Unknown #277'
 meta_share: 0.0002
 list_count: 2
 top_cards:
-- name: Guide of Souls
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:the-sackville-bagginses
-  weight: 1.0
-  avg_copies: 4.0
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
@@ -22,40 +16,37 @@ top_cards:
 - name: Marionette Apprentice
   weight: 1.0
   avg_copies: 4.0
-- name: Warren Soultrader
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
-- name: Marsh Flats
+- name: Guide of Souls
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:the-sackville-bagginses
+  weight: 1.0
+  avg_copies: 4.0
+- name: Warren Soultrader
   weight: 1.0
   avg_copies: 4.0
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 3.0
-- name: Dauthi Voidwalker
+- name: card:the-queen-of-dale
   weight: 1.0
   avg_copies: 2.5
 - name: Break the Ice
   weight: 1.0
   avg_copies: 2.5
-- name: Gravecrawler
-  weight: 1.0
-  avg_copies: 2.5
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 2.5
-- name: card:the-queen-of-dale
+- name: Dauthi Voidwalker
   weight: 1.0
   avg_copies: 2.5
-- name: Thoughtseize
+- name: Gravecrawler
   weight: 1.0
-  avg_copies: 2.0
-- name: Arid Mesa
-  weight: 1.0
-  avg_copies: 2.0
-- name: Plains
-  weight: 1.0
-  avg_copies: 2.0
-- name: High Noon
+  avg_copies: 2.5
+- name: Swamp
   weight: 1.0
   avg_copies: 2.0
 - name: Flare of Malice
@@ -64,43 +55,52 @@ top_cards:
 - name: Chthonian Nightmare
   weight: 1.0
   avg_copies: 2.0
-- name: Swamp
+- name: Arid Mesa
   weight: 1.0
   avg_copies: 2.0
-- name: Surgical Extraction
+- name: High Noon
+  weight: 1.0
+  avg_copies: 2.0
+- name: Plains
+  weight: 1.0
+  avg_copies: 2.0
+- name: Thoughtseize
+  weight: 1.0
+  avg_copies: 2.0
+- name: Spymaster's Vault
   weight: 1.0
   avg_copies: 1.5
 - name: Phyrexian Tower
   weight: 1.0
   avg_copies: 1.5
-- name: Spymaster's Vault
+- name: Surgical Extraction
   weight: 1.0
   avg_copies: 1.5
-- name: Damping Sphere
+- name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
-- name: Shadowy Backstreet
+- name: Damping Sphere
   weight: 1.0
   avg_copies: 1.0
 - name: Goblin Bombardment
   weight: 0.5
   avg_copies: 3.0
-- name: Sephiroth, Fabled SOLDIER
-  weight: 0.5
-  avg_copies: 2.0
 - name: Orcish Bowmasters
   weight: 0.5
   avg_copies: 2.0
-- name: Static Prison
+- name: Sephiroth, Fabled SOLDIER
   weight: 0.5
-  avg_copies: 1.0
-- name: The Meathook Massacre
-  weight: 0.5
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Silent Clearing
   weight: 0.5
   avg_copies: 1.0
 - name: Blood Crypt
+  weight: 0.5
+  avg_copies: 1.0
+- name: Static Prison
+  weight: 0.5
+  avg_copies: 1.0
+- name: The Meathook Massacre
   weight: 0.5
   avg_copies: 1.0
 ---

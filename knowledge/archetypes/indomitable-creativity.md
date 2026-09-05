@@ -75,10 +75,10 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.75
   avg_copies: 1.92
-- name: Jetmir's Garden
+- name: Xander's Lounge
   weight: 0.6875
   avg_copies: 1.0
-- name: Xander's Lounge
+- name: Jetmir's Garden
   weight: 0.6875
   avg_copies: 1.0
 - name: Reprieve
@@ -132,22 +132,22 @@ top_cards:
 - name: Meltdown
   weight: 0.25
   avg_copies: 1.25
+- name: Ziatora's Proving Ground
+  weight: 0.25
+  avg_copies: 1.0
 - name: Raucous Theater
   weight: 0.25
   avg_copies: 1.0
 - name: Commercial District
   weight: 0.25
   avg_copies: 1.0
-- name: Ziatora's Proving Ground
-  weight: 0.25
-  avg_copies: 1.0
-- name: Faithless Looting
+- name: Persist
   weight: 0.1875
   avg_copies: 4.0
 - name: Thoughtseize
   weight: 0.1875
   avg_copies: 4.0
-- name: Persist
+- name: Faithless Looting
   weight: 0.1875
   avg_copies: 4.0
 - name: Fatal Push
@@ -168,43 +168,34 @@ top_cards:
 - name: Leyline of the Void
   weight: 0.125
   avg_copies: 4.0
-- name: Abrupt Decay
-  weight: 0.125
-  avg_copies: 1.0
-- name: Raugrin Triome
-  weight: 0.125
-  avg_copies: 1.0
 - name: Ketria Triome
-  weight: 0.125
-  avg_copies: 1.0
-- name: Prismari Command
   weight: 0.125
   avg_copies: 1.0
 - name: Emrakul, the Aeons Torn
   weight: 0.125
   avg_copies: 1.0
+- name: Abrupt Decay
+  weight: 0.125
+  avg_copies: 1.0
+- name: Prismari Command
+  weight: 0.125
+  avg_copies: 1.0
+- name: Raugrin Triome
+  weight: 0.125
+  avg_copies: 1.0
 - name: Nature's Claim
   weight: 0.0625
   avg_copies: 3.0
-- name: Planar Genesis
+- name: Serra's Emissary
   weight: 0.0625
   avg_copies: 2.0
-- name: Serra's Emissary
+- name: Planar Genesis
   weight: 0.0625
   avg_copies: 2.0
 - name: Inquisition of Kozilek
   weight: 0.0625
   avg_copies: 1.5
-- name: Vampires' Vengeance
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Brainsurge
-  weight: 0.0625
-  avg_copies: 1.0
 - name: Molten Collapse
-  weight: 0.0625
-  avg_copies: 1.0
-- name: Rest in Peace
   weight: 0.0625
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
@@ -213,7 +204,16 @@ top_cards:
 - name: Swamp
   weight: 0.0625
   avg_copies: 1.0
+- name: Vampires' Vengeance
+  weight: 0.0625
+  avg_copies: 1.0
 - name: Witherbloom Command
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Rest in Peace
+  weight: 0.0625
+  avg_copies: 1.0
+- name: Brainsurge
   weight: 0.0625
   avg_copies: 1.0
 - name: Turn the Earth

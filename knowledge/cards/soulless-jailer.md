@@ -6,10 +6,10 @@ name: Soulless Jailer
 scryfall_id: bf9991fd-ea6a-4ed7-b5f1-46a95f8d0634
 set: one
 type: Artifact Creature — Phyrexian Golem
-meta_presence: 0.0813
+meta_presence: 0.081
 archetypes:
   eldrazi-tron:
-    weight: 0.2188
+    weight: 0.2181
     avg_copies: 1.05
   amulet-titan:
     weight: 0.1413
@@ -18,7 +18,7 @@ archetypes:
     weight: 0.0127
     avg_copies: 2.0
   mono-blue-tron:
-    weight: 0.0741
+    weight: 0.0714
     avg_copies: 1.0
   hammer-time:
     weight: 0.2273
@@ -60,7 +60,7 @@ archetypes:
     weight: 0.2857
     avg_copies: 2.0
   unknown-6:
-    weight: 0.2
+    weight: 0.1905
     avg_copies: 1.5
   unknown-37:
     weight: 1.0
@@ -69,7 +69,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.5
   unknown-61:
-    weight: 0.05
+    weight: 0.0493
     avg_copies: 1.29
   unknown-76:
     weight: 0.3
@@ -78,7 +78,7 @@ archetypes:
     weight: 0.1
     avg_copies: 1.0
   unknown-97:
-    weight: 0.0909
+    weight: 0.087
     avg_copies: 1.5
   unknown-110:
     weight: 1.0
@@ -87,7 +87,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 3.0
   unknown-160:
-    weight: 0.1207
+    weight: 0.1138
     avg_copies: 1.0
   unknown-173:
     weight: 1.0
@@ -96,7 +96,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-194:
-    weight: 0.7013
+    weight: 0.7037
     avg_copies: 1.07
   unknown-211:
     weight: 0.1111
@@ -108,7 +108,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-265:
-    weight: 0.4167
+    weight: 0.3571
     avg_copies: 1.0
   unknown-271:
     weight: 1.0

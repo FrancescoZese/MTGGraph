@@ -6,25 +6,10 @@ name: 'Unknown #138'
 meta_share: 0.0002
 list_count: 2
 top_cards:
-- name: card:spider-umbra
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:razorverge-thicket
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:gladecover-scout
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:sheltered-by-ghosts
-  weight: 1.0
-  avg_copies: 4.0
 - name: card:rancor
   weight: 1.0
   avg_copies: 4.0
-- name: Windswept Heath
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:slippery-bogle
+- name: card:gladecover-scout
   weight: 1.0
   avg_copies: 4.0
 - name: card:ethereal-armor
@@ -33,7 +18,22 @@ top_cards:
 - name: Horizon Canopy
   weight: 1.0
   avg_copies: 4.0
+- name: card:sheltered-by-ghosts
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:spider-umbra
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:razorverge-thicket
+  weight: 1.0
+  avg_copies: 4.0
 - name: card:daybreak-coronet
+  weight: 1.0
+  avg_copies: 4.0
+- name: Windswept Heath
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:slippery-bogle
   weight: 1.0
   avg_copies: 4.0
 - name: card:kor-spiritdancer
@@ -42,25 +42,25 @@ top_cards:
 - name: Reprieve
   weight: 1.0
   avg_copies: 3.5
+- name: card:spirit-mantle
+  weight: 1.0
+  avg_copies: 3.0
 - name: Temple Garden
   weight: 1.0
   avg_copies: 3.0
 - name: Force of Vigor
   weight: 1.0
   avg_copies: 3.0
-- name: card:spirit-mantle
-  weight: 1.0
-  avg_copies: 3.0
-- name: Damping Sphere
-  weight: 1.0
-  avg_copies: 2.5
-- name: Sanctifier en-Vec
+- name: Rest in Peace
   weight: 1.0
   avg_copies: 2.5
 - name: Gaddock Teeg
   weight: 1.0
   avg_copies: 2.5
-- name: Rest in Peace
+- name: Sanctifier en-Vec
+  weight: 1.0
+  avg_copies: 2.5
+- name: Damping Sphere
   weight: 1.0
   avg_copies: 2.5
 - name: card:hyena-umbra

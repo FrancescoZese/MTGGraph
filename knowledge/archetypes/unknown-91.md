@@ -9,16 +9,19 @@ top_cards:
 - name: Fatal Push
   weight: 1.0
   avg_copies: 4.0
-- name: Unearth
+- name: Psychic Frog
+  weight: 1.0
+  avg_copies: 4.0
+- name: Flare of Denial
   weight: 1.0
   avg_copies: 4.0
 - name: Scalding Tarn
   weight: 1.0
   avg_copies: 4.0
-- name: Fallaji Archaeologist
+- name: Unearth
   weight: 1.0
   avg_copies: 4.0
-- name: Flare of Denial
+- name: Fallaji Archaeologist
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
@@ -27,25 +30,16 @@ top_cards:
 - name: Abhorrent Oculus
   weight: 1.0
   avg_copies: 4.0
-- name: Psychic Frog
-  weight: 1.0
-  avg_copies: 4.0
-- name: Undercity Sewers
-  weight: 1.0
-  avg_copies: 3.0
 - name: Consign to Memory
   weight: 1.0
   avg_copies: 3.0
 - name: Counterspell
   weight: 1.0
   avg_copies: 3.0
-- name: Sheoldred's Edict
+- name: Undercity Sewers
   weight: 1.0
-  avg_copies: 2.0
-- name: Force of Negation
-  weight: 1.0
-  avg_copies: 2.0
-- name: Watery Grave
+  avg_copies: 3.0
+- name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 2.0
 - name: Boggart Trawler
@@ -54,22 +48,28 @@ top_cards:
 - name: Graveyard Trespasser
   weight: 1.0
   avg_copies: 2.0
-- name: Tamiyo, Inquisitive Student
-  weight: 1.0
-  avg_copies: 2.0
-- name: Bloodstained Mire
-  weight: 1.0
-  avg_copies: 2.0
-- name: Island
+- name: Mystical Dispute
   weight: 1.0
   avg_copies: 2.0
 - name: Kaito, Bane of Nightmares
   weight: 1.0
   avg_copies: 2.0
+- name: Bloodstained Mire
+  weight: 1.0
+  avg_copies: 2.0
 - name: Toxic Deluge
   weight: 1.0
   avg_copies: 2.0
-- name: Mystical Dispute
+- name: Force of Negation
+  weight: 1.0
+  avg_copies: 2.0
+- name: Watery Grave
+  weight: 1.0
+  avg_copies: 2.0
+- name: Sheoldred's Edict
+  weight: 1.0
+  avg_copies: 2.0
+- name: Island
   weight: 1.0
   avg_copies: 2.0
 - name: Hurkyl's Recall
@@ -81,13 +81,13 @@ top_cards:
 - name: Harbinger of the Seas
   weight: 1.0
   avg_copies: 1.5
-- name: No One Left Behind
+- name: Swamp
   weight: 1.0
   avg_copies: 1.0
 - name: Cling to Dust
   weight: 1.0
   avg_copies: 1.0
-- name: Swamp
+- name: No One Left Behind
   weight: 1.0
   avg_copies: 1.0
 - name: Vexing Bauble

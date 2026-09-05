@@ -7,11 +7,11 @@ name: Nature's Claim
 scryfall_id: d24b6640-ef2f-4c92-beb3-afdf78f9c2d5
 set: ima
 type: Instant
-meta_presence: 0.0762
+meta_presence: 0.0766
 archetypes:
   ruby-storm:
-    weight: 0.0945
-    avg_copies: 2.88
+    weight: 0.0968
+    avg_copies: 2.89
   goryo:
     weight: 0.0042
     avg_copies: 1.0
@@ -19,8 +19,8 @@ archetypes:
     weight: 0.8
     avg_copies: 1.5
   neoform-combo:
-    weight: 0.9344
-    avg_copies: 2.24
+    weight: 0.9355
+    avg_copies: 2.25
   kethis-combo:
     weight: 0.125
     avg_copies: 2.0
@@ -40,7 +40,7 @@ archetypes:
     weight: 0.0312
     avg_copies: 1.0
   unknown-6:
-    weight: 0.8
+    weight: 0.8095
     avg_copies: 1.06
   unknown-25:
     weight: 1.0
@@ -49,13 +49,13 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-61:
-    weight: 0.0143
+    weight: 0.0141
     avg_copies: 2.0
   unknown-97:
-    weight: 0.1818
-    avg_copies: 2.25
+    weight: 0.2174
+    avg_copies: 2.2
   unknown-126:
-    weight: 0.0387
+    weight: 0.0385
     avg_copies: 1.86
   unknown-167:
     weight: 0.381
@@ -64,7 +64,7 @@ archetypes:
     weight: 0.5
     avg_copies: 2.0
   unknown-194:
-    weight: 0.974
+    weight: 0.9753
     avg_copies: 2.0
   unknown-241:
     weight: 1.0

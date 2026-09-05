@@ -6,10 +6,10 @@ name: Marsh Flats
 scryfall_id: 9db3ba6d-eb7f-4f5b-9a3b-c6239c3baa42
 set: mh2
 type: Land
-meta_presence: 0.2687
+meta_presence: 0.2689
 archetypes:
   boros-energy:
-    weight: 0.9704
+    weight: 0.9692
     avg_copies: 3.27
   dimir-control:
     weight: 0.3827
@@ -27,7 +27,7 @@ archetypes:
     weight: 0.1909
     avg_copies: 1.81
   domain-zoo:
-    weight: 0.0127
+    weight: 0.0126
     avg_copies: 4.0
   reanimator:
     weight: 0.037
@@ -105,7 +105,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.7884
+    weight: 0.7938
     avg_copies: 1.83
   unknown-51:
     weight: 1.0
@@ -156,7 +156,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-96:
-    weight: 0.0127
+    weight: 0.0125
     avg_copies: 3.0
   unknown-100:
     weight: 0.2857

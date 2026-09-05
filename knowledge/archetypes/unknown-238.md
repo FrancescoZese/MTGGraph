@@ -8,7 +8,7 @@ name: 'Unknown #238'
 meta_share: 0.0006
 list_count: 5
 top_cards:
-- name: Shardless Agent
+- name: Birthing Ritual
   weight: 1.0
   avg_copies: 4.0
 - name: Solitude
@@ -17,22 +17,22 @@ top_cards:
 - name: Leyline Binding
   weight: 1.0
   avg_copies: 4.0
-- name: Birthing Ritual
-  weight: 1.0
-  avg_copies: 4.0
 - name: Quantum Riddler
   weight: 1.0
   avg_copies: 4.0
-- name: Flooded Strand
+- name: Shardless Agent
+  weight: 1.0
+  avg_copies: 4.0
+- name: Omnath, Locus of Creation
   weight: 1.0
   avg_copies: 3.8
-- name: Magmatic Hellkite
+- name: Flooded Strand
   weight: 1.0
   avg_copies: 3.8
 - name: Subtlety
   weight: 1.0
   avg_copies: 3.8
-- name: Omnath, Locus of Creation
+- name: Magmatic Hellkite
   weight: 1.0
   avg_copies: 3.8
 - name: Windswept Heath
@@ -47,13 +47,10 @@ top_cards:
 - name: Hedge Maze
   weight: 1.0
   avg_copies: 1.0
-- name: Stomping Ground
-  weight: 1.0
-  avg_copies: 1.0
-- name: Temple Garden
-  weight: 1.0
-  avg_copies: 1.0
 - name: Breeding Pool
+  weight: 1.0
+  avg_copies: 1.0
+- name: Stomping Ground
   weight: 1.0
   avg_copies: 1.0
 - name: Sacred Foundry
@@ -62,10 +59,13 @@ top_cards:
 - name: Steam Vents
   weight: 1.0
   avg_copies: 1.0
-- name: Forest
-  weight: 0.8
+- name: Temple Garden
+  weight: 1.0
   avg_copies: 1.0
 - name: Plains
+  weight: 0.8
+  avg_copies: 1.0
+- name: Forest
   weight: 0.8
   avg_copies: 1.0
 - name: Island
@@ -86,22 +86,22 @@ top_cards:
 - name: Force of Negation
   weight: 0.6
   avg_copies: 1.83
-- name: Supreme Verdict
-  weight: 0.6
-  avg_copies: 1.67
 - name: Witch Enchanter
   weight: 0.6
   avg_copies: 1.67
-- name: Hallowed Fountain
+- name: Supreme Verdict
   weight: 0.6
-  avg_copies: 1.0
-- name: Force of Vigor
-  weight: 0.6
-  avg_copies: 1.0
+  avg_copies: 1.67
 - name: Zagoth Triome
   weight: 0.6
   avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 0.6
+  avg_copies: 1.0
 - name: Elegant Parlor
+  weight: 0.6
+  avg_copies: 1.0
+- name: Force of Vigor
   weight: 0.6
   avg_copies: 1.0
 - name: Mystical Dispute
@@ -122,10 +122,10 @@ top_cards:
 - name: Thundering Falls
   weight: 0.4
   avg_copies: 1.0
-- name: Risen Reef
+- name: Dead
   weight: 0.2
   avg_copies: 3.0
-- name: Dead
+- name: Risen Reef
   weight: 0.2
   avg_copies: 3.0
 - name: Clarion Conqueror
@@ -137,28 +137,28 @@ top_cards:
 - name: card:starfield-vocalist
   weight: 0.2
   avg_copies: 2.0
+- name: Snow-Covered Plains
+  weight: 0.2
+  avg_copies: 1.0
+- name: Kavaero, Mind-Bitten
+  weight: 0.2
+  avg_copies: 1.0
 - name: Mountain
   weight: 0.2
   avg_copies: 1.0
-- name: Snow-Covered Plains
+- name: Snow-Covered Island
+  weight: 0.2
+  avg_copies: 1.0
+- name: Arid Mesa
+  weight: 0.2
+  avg_copies: 1.0
+- name: Brotherhood's End
   weight: 0.2
   avg_copies: 1.0
 - name: Snow-Covered Forest
   weight: 0.2
   avg_copies: 1.0
 - name: card:superior-spider-man
-  weight: 0.2
-  avg_copies: 1.0
-- name: Arid Mesa
-  weight: 0.2
-  avg_copies: 1.0
-- name: Kavaero, Mind-Bitten
-  weight: 0.2
-  avg_copies: 1.0
-- name: Brotherhood's End
-  weight: 0.2
-  avg_copies: 1.0
-- name: Snow-Covered Island
   weight: 0.2
   avg_copies: 1.0
 ---

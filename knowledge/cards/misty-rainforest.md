@@ -6,10 +6,10 @@ name: Misty Rainforest
 scryfall_id: 88231c0d-0cc8-44ec-bf95-81d1710ac141
 set: mh2
 type: Land
-meta_presence: 0.1483
+meta_presence: 0.1478
 archetypes:
   ruby-storm:
-    weight: 0.0073
+    weight: 0.0072
     avg_copies: 1.0
   dimir-control:
     weight: 0.3457
@@ -30,10 +30,10 @@ archetypes:
     weight: 1.0
     avg_copies: 3.8
   affinity:
-    weight: 0.0378
+    weight: 0.0374
     avg_copies: 1.86
   domain-zoo:
-    weight: 0.0064
+    weight: 0.0063
     avg_copies: 1.0
   mill:
     weight: 0.3077
@@ -42,7 +42,7 @@ archetypes:
     weight: 0.037
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.9918
+    weight: 0.9919
     avg_copies: 3.88
   kethis-combo:
     weight: 0.875
@@ -57,7 +57,7 @@ archetypes:
     weight: 0.9903
     avg_copies: 3.75
   izzet-prowess:
-    weight: 0.0087
+    weight: 0.0086
     avg_copies: 1.75
   4c-omnath:
     weight: 0.75
@@ -111,8 +111,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-6:
-    weight: 0.95
-    avg_copies: 3.79
+    weight: 0.9524
+    avg_copies: 3.7
   unknown-11:
     weight: 1.0
     avg_copies: 1.0
@@ -138,7 +138,7 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   unknown-47:
-    weight: 0.2751
+    weight: 0.268
     avg_copies: 1.35
   unknown-59:
     weight: 1.0
@@ -171,8 +171,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-97:
-    weight: 0.8636
-    avg_copies: 1.63
+    weight: 0.8696
+    avg_copies: 1.6
   unknown-103:
     weight: 1.0
     avg_copies: 2.0
@@ -192,7 +192,7 @@ archetypes:
     weight: 0.8333
     avg_copies: 1.7
   unknown-126:
-    weight: 0.8619
+    weight: 0.8626
     avg_copies: 1.87
   unknown-124:
     weight: 1.0
@@ -235,7 +235,7 @@ archetypes:
     avg_copies: 4.0
   unknown-172:
     weight: 1.0
-    avg_copies: 1.6
+    avg_copies: 1.83
   unknown-175:
     weight: 1.0
     avg_copies: 3.0
@@ -252,13 +252,13 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-194:
-    weight: 0.0779
+    weight: 0.0741
     avg_copies: 1.0
   unknown-200:
     weight: 1.0
     avg_copies: 4.0
   unknown-213:
-    weight: 0.5
+    weight: 0.4737
     avg_copies: 1.0
   unknown-216:
     weight: 1.0

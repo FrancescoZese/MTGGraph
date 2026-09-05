@@ -14,11 +14,11 @@ archetypes:
     weight: 0.0025
     avg_copies: 4.0
   domain-zoo:
-    weight: 0.0064
+    weight: 0.0063
     avg_copies: 2.0
   unknown-96:
     weight: 1.0
-    avg_copies: 3.97
+    avg_copies: 3.98
   unknown-117:
     weight: 1.0
     avg_copies: 4.0

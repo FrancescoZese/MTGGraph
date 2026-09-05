@@ -12,7 +12,7 @@ archetypes:
     weight: 0.9972
     avg_copies: 3.94
   mono-blue-tron:
-    weight: 0.0741
+    weight: 0.0714
     avg_copies: 4.0
   boros-ponza:
     weight: 0.1206
@@ -30,19 +30,19 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-97:
-    weight: 0.0455
+    weight: 0.0435
     avg_copies: 3.0
   unknown-121:
     weight: 1.0
     avg_copies: 4.0
   unknown-126:
-    weight: 0.0387
+    weight: 0.0385
     avg_copies: 3.29
   unknown-146:
     weight: 1.0
     avg_copies: 4.0
   unknown-160:
-    weight: 0.181
+    weight: 0.1707
     avg_copies: 3.86
   unknown-162:
     weight: 1.0
@@ -51,7 +51,7 @@ archetypes:
     weight: 1.0
     avg_copies: 4.0
   unknown-265:
-    weight: 0.9167
+    weight: 0.9286
     avg_copies: 4.0
   unknown-280:
     weight: 1.0

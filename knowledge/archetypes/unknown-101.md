@@ -3,7 +3,7 @@ colors:
 - B
 - R
 name: 'Unknown #101'
-meta_share: 0.0042
+meta_share: 0.0041
 list_count: 34
 top_cards:
 - name: Hollow One
@@ -30,10 +30,10 @@ top_cards:
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.03
-- name: Burning Inquiry
+- name: Marauding Mako
   weight: 0.9706
   avg_copies: 4.0
-- name: Marauding Mako
+- name: Burning Inquiry
   weight: 0.9706
   avg_copies: 4.0
 - name: Nethergoyf
@@ -105,10 +105,10 @@ top_cards:
 - name: Mount Doom
   weight: 0.3235
   avg_copies: 1.0
-- name: Obsidian Charmaw
+- name: Tarfire
   weight: 0.2647
   avg_copies: 2.0
-- name: Tarfire
+- name: Obsidian Charmaw
   weight: 0.2647
   avg_copies: 2.0
 - name: Abrade
@@ -156,10 +156,10 @@ top_cards:
 - name: Strategic Betrayal
   weight: 0.0588
   avg_copies: 1.0
-- name: Dauthi Voidwalker
+- name: Mishra's Bauble
   weight: 0.0294
   avg_copies: 4.0
-- name: Mishra's Bauble
+- name: Dauthi Voidwalker
   weight: 0.0294
   avg_copies: 4.0
 - name: Kroxa, Titan of Death's Hunger
@@ -171,13 +171,13 @@ top_cards:
 - name: End of the Hunt
   weight: 0.0294
   avg_copies: 1.0
+- name: Verdant Catacombs
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Molten Collapse
+  weight: 0.0294
+  avg_copies: 1.0
 - name: Blackcleave Cliffs
-  weight: 0.0294
-  avg_copies: 1.0
-- name: card:corpse-explosion
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Cool but Rude
   weight: 0.0294
   avg_copies: 1.0
 - name: Seal of Fire
@@ -186,13 +186,13 @@ top_cards:
 - name: Goblin Lore
   weight: 0.0294
   avg_copies: 1.0
-- name: Molten Collapse
-  weight: 0.0294
-  avg_copies: 1.0
-- name: Verdant Catacombs
+- name: card:corpse-explosion
   weight: 0.0294
   avg_copies: 1.0
 - name: Godless Shrine
+  weight: 0.0294
+  avg_copies: 1.0
+- name: Cool but Rude
   weight: 0.0294
   avg_copies: 1.0
 ---

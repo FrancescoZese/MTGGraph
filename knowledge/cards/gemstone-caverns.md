@@ -9,10 +9,10 @@ type: Legendary Land
 meta_presence: 0.0995
 archetypes:
   ruby-storm:
-    weight: 0.9055
+    weight: 0.9032
     avg_copies: 1.03
   eldrazi-tron:
-    weight: 0.0114
+    weight: 0.0113
     avg_copies: 1.0
   amulet-titan:
     weight: 0.0054
@@ -30,13 +30,13 @@ archetypes:
     weight: 0.0127
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.0137
+    weight: 0.0132
     avg_copies: 1.0
   affinity:
     weight: 0.0034
     avg_copies: 1.0
   mono-blue-tron:
-    weight: 0.1481
+    weight: 0.1429
     avg_copies: 1.5
   kethis-combo:
     weight: 0.75
@@ -69,7 +69,7 @@ archetypes:
     weight: 0.8
     avg_copies: 1.0
   unknown-61:
-    weight: 0.7286
+    weight: 0.7324
     avg_copies: 1.01
   unknown-55:
     weight: 1.0
@@ -93,7 +93,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-126:
-    weight: 0.1215
+    weight: 0.1209
     avg_copies: 1.0
   unknown-143:
     weight: 1.0
@@ -111,7 +111,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-194:
-    weight: 0.4675
+    weight: 0.4568
     avg_copies: 1.0
   unknown-211:
     weight: 0.1111

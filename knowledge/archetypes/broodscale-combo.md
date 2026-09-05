@@ -3,7 +3,7 @@ colors:
 - R
 - G
 name: Broodscale Combo
-meta_share: 0.0417
+meta_share: 0.0414
 list_count: 339
 top_cards:
 - name: Malevolent Rumble
@@ -243,19 +243,19 @@ top_cards:
 - name: Agatha's Soul Cauldron
   weight: 0.0118
   avg_copies: 2.0
+- name: Swamp
+  weight: 0.0118
+  avg_copies: 1.0
 - name: Mutagenic Growth
   weight: 0.0118
   avg_copies: 1.0
 - name: Kozilek's Return
   weight: 0.0118
   avg_copies: 1.0
-- name: Swamp
-  weight: 0.0118
-  avg_copies: 1.0
-- name: Drowner of Truth
+- name: Ignoble Hierarch
   weight: 0.0088
   avg_copies: 2.33
-- name: Ignoble Hierarch
+- name: Drowner of Truth
   weight: 0.0088
   avg_copies: 2.33
 - name: Talisman of Resilience
@@ -264,49 +264,49 @@ top_cards:
 - name: Defense Grid
   weight: 0.0088
   avg_copies: 1.33
+- name: Ghost Vacuum
+  weight: 0.0088
+  avg_copies: 1.0
 - name: Nurturing Peatland
   weight: 0.0088
   avg_copies: 1.0
 - name: Shadowspear
   weight: 0.0088
   avg_copies: 1.0
-- name: Ghost Vacuum
-  weight: 0.0088
-  avg_copies: 1.0
 - name: Revitalizing Repast
   weight: 0.0059
   avg_copies: 2.5
-- name: card:giant-s-boulder
-  weight: 0.0059
-  avg_copies: 2.0
-- name: Snow-Covered Forest
-  weight: 0.0059
-  avg_copies: 2.0
 - name: card:mj-lnir-hammer-of-thor
   weight: 0.0059
   avg_copies: 2.0
 - name: card:llanowar-reborn
   weight: 0.0059
   avg_copies: 2.0
-- name: Lightning Bolt
+- name: Snow-Covered Forest
+  weight: 0.0059
+  avg_copies: 2.0
+- name: card:giant-s-boulder
+  weight: 0.0059
+  avg_copies: 2.0
+- name: Meltdown
   weight: 0.0059
   avg_copies: 1.0
-- name: Meltdown
+- name: Lightning Bolt
   weight: 0.0059
   avg_copies: 1.0
 - name: Skateboard
   weight: 0.0059
   avg_copies: 1.0
-- name: Eldrazi Linebreaker
+- name: Spire of Industry
   weight: 0.0029
   avg_copies: 4.0
-- name: Spire of Industry
+- name: Eldrazi Linebreaker
   weight: 0.0029
   avg_copies: 4.0
 - name: Brushland
   weight: 0.0029
   avg_copies: 4.0
-- name: Darksteel Citadel
+- name: Formidable Speaker
   weight: 0.0029
   avg_copies: 3.0
 - name: Mox Opal
@@ -315,22 +315,22 @@ top_cards:
 - name: Path to Exile
   weight: 0.0029
   avg_copies: 3.0
-- name: Formidable Speaker
+- name: Darksteel Citadel
   weight: 0.0029
   avg_copies: 3.0
 - name: Deafening Silence
   weight: 0.0029
   avg_copies: 2.0
-- name: Heroic Intervention
+- name: card:the-sackville-bagginses
   weight: 0.0029
   avg_copies: 2.0
 - name: Idol of False Gods
   weight: 0.0029
   avg_copies: 2.0
-- name: card:the-sackville-bagginses
+- name: Orim's Chant
   weight: 0.0029
   avg_copies: 2.0
-- name: Orim's Chant
+- name: Heroic Intervention
   weight: 0.0029
   avg_copies: 2.0
 - name: Cursed Totem
@@ -348,28 +348,28 @@ top_cards:
 - name: Endurance
   weight: 0.0029
   avg_copies: 1.0
-- name: Expedition Map
+- name: Tunnel Ignus
   weight: 0.0029
   avg_copies: 1.0
 - name: Mishra's Research Desk
   weight: 0.0029
   avg_copies: 1.0
-- name: Pawpatch Formation
-  weight: 0.0029
-  avg_copies: 1.0
 - name: Toxic Deluge
   weight: 0.0029
   avg_copies: 1.0
-- name: Witherbloom Charm
+- name: Surgical Extraction
+  weight: 0.0029
+  avg_copies: 1.0
+- name: Expedition Map
+  weight: 0.0029
+  avg_copies: 1.0
+- name: Pawpatch Formation
   weight: 0.0029
   avg_copies: 1.0
 - name: card:call-damage-control
   weight: 0.0029
   avg_copies: 1.0
-- name: Tunnel Ignus
-  weight: 0.0029
-  avg_copies: 1.0
-- name: Surgical Extraction
+- name: Witherbloom Charm
   weight: 0.0029
   avg_copies: 1.0
 ---

@@ -6,7 +6,7 @@ name: Grafdigger's Cage
 scryfall_id: 0a135e09-b534-4836-9a10-3a9a4a9f8c53
 set: m20
 type: Artifact
-meta_presence: 0.1224
+meta_presence: 0.1231
 archetypes:
   boros-energy:
     weight: 0.0062
@@ -15,7 +15,7 @@ archetypes:
     weight: 0.2427
     avg_copies: 1.0
   eldrazi-tron:
-    weight: 0.5455
+    weight: 0.5439
     avg_copies: 1.1
   amulet-titan:
     weight: 0.038
@@ -27,14 +27,14 @@ archetypes:
     weight: 0.0217
     avg_copies: 1.0
   affinity:
-    weight: 0.2852
+    weight: 0.2874
     avg_copies: 1.01
   burn:
-    weight: 0.0233
+    weight: 0.0222
     avg_copies: 1.0
   mono-blue-tron:
-    weight: 0.037
-    avg_copies: 1.0
+    weight: 0.0714
+    avg_copies: 1.5
   hammer-time:
     weight: 0.4545
     avg_copies: 1.6
@@ -42,11 +42,11 @@ archetypes:
     weight: 0.6549
     avg_copies: 1.66
   izzet-prowess:
-    weight: 0.0044
+    weight: 0.0043
     avg_copies: 1.5
   esper-blink:
-    weight: 0.0043
-    avg_copies: 2.0
+    weight: 0.0083
+    avg_copies: 1.5
   broodscale-combo:
     weight: 0.7965
     avg_copies: 1.01
@@ -90,14 +90,14 @@ archetypes:
     weight: 0.25
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0317
+    weight: 0.0309
     avg_copies: 1.0
   unknown-49:
     weight: 0.3846
     avg_copies: 1.4
   unknown-61:
-    weight: 0.1929
-    avg_copies: 1.7
+    weight: 0.2042
+    avg_copies: 1.76
   unknown-53:
     weight: 1.0
     avg_copies: 1.0
@@ -111,8 +111,8 @@ archetypes:
     weight: 0.2
     avg_copies: 2.5
   unknown-97:
-    weight: 0.4091
-    avg_copies: 2.33
+    weight: 0.4348
+    avg_copies: 2.3
   unknown-98:
     weight: 0.875
     avg_copies: 1.0
@@ -126,7 +126,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0086
+    weight: 0.0081
     avg_copies: 1.0
   unknown-159:
     weight: 1.0
@@ -138,8 +138,8 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-194:
-    weight: 0.987
-    avg_copies: 1.38
+    weight: 0.9877
+    avg_copies: 1.42
   unknown-211:
     weight: 0.1111
     avg_copies: 2.0
@@ -157,7 +157,7 @@ archetypes:
     avg_copies: 2.0
   unknown-265:
     weight: 1.0
-    avg_copies: 1.25
+    avg_copies: 1.21
   unknown-273:
     weight: 1.0
     avg_copies: 1.0

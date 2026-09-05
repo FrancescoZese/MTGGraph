@@ -14,7 +14,7 @@ archetypes:
     weight: 0.4444
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.0044
+    weight: 0.0043
     avg_copies: 1.0
   indomitable-creativity:
     weight: 0.0625

@@ -13,10 +13,10 @@ archetypes:
     weight: 0.0086
     avg_copies: 2.14
   domain-zoo:
-    weight: 0.0191
+    weight: 0.0189
     avg_copies: 2.33
   esper-blink:
-    weight: 0.0129
+    weight: 0.0124
     avg_copies: 2.33
   azorius-blink:
     weight: 0.0274
@@ -34,8 +34,8 @@ archetypes:
     weight: 0.0588
     avg_copies: 3.0
   unknown-96:
-    weight: 0.9747
-    avg_copies: 2.03
+    weight: 0.975
+    avg_copies: 2.02
   unknown-100:
     weight: 0.5714
     avg_copies: 2.0

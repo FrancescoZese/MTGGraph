@@ -17,13 +17,13 @@ top_cards:
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 3.86
-- name: Metallic Rebuke
-  weight: 1.0
-  avg_copies: 3.71
 - name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 3.71
 - name: Mox Amber
+  weight: 1.0
+  avg_copies: 3.71
+- name: Metallic Rebuke
   weight: 1.0
   avg_copies: 3.71
 - name: Consign to Memory
@@ -119,7 +119,7 @@ top_cards:
 - name: Seachrome Coast
   weight: 0.3333
   avg_copies: 3.43
-- name: Relic of Progenitus
+- name: Disruptor Flute
   weight: 0.3333
   avg_copies: 1.0
 - name: Hedge Maze
@@ -128,7 +128,7 @@ top_cards:
 - name: Waterlogged Grove
   weight: 0.3333
   avg_copies: 1.0
-- name: Disruptor Flute
+- name: Relic of Progenitus
   weight: 0.3333
   avg_copies: 1.0
 - name: Malevolent Rumble
@@ -173,25 +173,28 @@ top_cards:
 - name: Botanical Sanctum
   weight: 0.0952
   avg_copies: 4.0
-- name: card:yavimaya-coast
-  weight: 0.0952
-  avg_copies: 2.0
 - name: Test of Talents
   weight: 0.0952
   avg_copies: 2.0
-- name: Into the Flood Maw
+- name: card:yavimaya-coast
   weight: 0.0952
-  avg_copies: 1.5
+  avg_copies: 2.0
 - name: Engineered Explosives
   weight: 0.0952
   avg_copies: 1.5
-- name: Tezzeret, Cruel Captain
+- name: Into the Flood Maw
+  weight: 0.0952
+  avg_copies: 1.5
+- name: Krang, Master Mind
   weight: 0.0952
   avg_copies: 1.0
-- name: Plains
+- name: card:urza-lord-high-artificer
   weight: 0.0952
   avg_copies: 1.0
 - name: card:bruce-banner
+  weight: 0.0952
+  avg_copies: 1.0
+- name: Plains
   weight: 0.0952
   avg_copies: 1.0
 - name: Unable to Scream
@@ -200,67 +203,64 @@ top_cards:
 - name: Gran-Gran
   weight: 0.0952
   avg_copies: 1.0
+- name: Tezzeret, Cruel Captain
+  weight: 0.0952
+  avg_copies: 1.0
 - name: Grafdigger's Cage
-  weight: 0.0952
-  avg_copies: 1.0
-- name: Krang, Master Mind
-  weight: 0.0952
-  avg_copies: 1.0
-- name: card:urza-lord-high-artificer
   weight: 0.0952
   avg_copies: 1.0
 - name: Kappa Cannoneer
   weight: 0.0476
   avg_copies: 4.0
-- name: Unholy Heat
+- name: Prismatic Ending
   weight: 0.0476
   avg_copies: 3.0
-- name: Prismatic Ending
+- name: Unholy Heat
   weight: 0.0476
   avg_copies: 3.0
 - name: Sacred Ground
   weight: 0.0476
   avg_copies: 3.0
+- name: Steam Vents
+  weight: 0.0476
+  avg_copies: 2.0
 - name: Glimmervoid
   weight: 0.0476
   avg_copies: 2.0
 - name: Ragavan, Nimble Pilferer
   weight: 0.0476
   avg_copies: 2.0
-- name: Steam Vents
-  weight: 0.0476
-  avg_copies: 2.0
 - name: Erode
   weight: 0.0476
   avg_copies: 2.0
-- name: Ashiok, Dream Render
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Does Machines
+- name: card:pyrite-spellbomb
   weight: 0.0476
   avg_copies: 1.0
 - name: Flame of Anor
   weight: 0.0476
   avg_copies: 1.0
-- name: Invasive Surgery
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Thief of Existence
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Blood Moon
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Thundering Falls
+- name: Does Machines
   weight: 0.0476
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.0476
   avg_copies: 1.0
-- name: card:pyrite-spellbomb
+- name: Thundering Falls
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Thief of Existence
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Blood Moon
   weight: 0.0476
   avg_copies: 1.0
 - name: card:key-to-the-side-door
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Invasive Surgery
   weight: 0.0476
   avg_copies: 1.0
 ---

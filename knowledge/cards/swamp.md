@@ -12,10 +12,10 @@ archetypes:
     weight: 0.9877
     avg_copies: 1.02
   eldrazi-tron:
-    weight: 0.7869
-    avg_copies: 1.08
+    weight: 0.7875
+    avg_copies: 1.07
   goryo:
-    weight: 0.9915
+    weight: 0.9916
     avg_copies: 1.01
   necrodominance:
     weight: 1.0
@@ -42,7 +42,7 @@ archetypes:
     weight: 0.0194
     avg_copies: 1.0
   esper-blink:
-    weight: 0.9914
+    weight: 0.9917
     avg_copies: 1.01
   samwise-combo:
     weight: 0.1333
@@ -153,7 +153,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.62
   unknown-47:
-    weight: 0.9788
+    weight: 0.9794
     avg_copies: 1.03
   unknown-51:
     weight: 1.0

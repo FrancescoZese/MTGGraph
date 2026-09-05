@@ -7,11 +7,11 @@ name: Roiling Vortex
 scryfall_id: 0b057eb7-8439-4d26-89df-c345ab2773e1
 set: znr
 type: Enchantment
-meta_presence: 0.0039
+meta_presence: 0.0041
 archetypes:
   burn:
-    weight: 0.6977
-    avg_copies: 3.28
+    weight: 0.7111
+    avg_copies: 3.26
   unknown-232:
     weight: 1.0
     avg_copies: 2.5

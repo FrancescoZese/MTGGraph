@@ -3,7 +3,7 @@ colors:
 - W
 - U
 name: Azorius Control
-meta_share: 0.0135
+meta_share: 0.0134
 list_count: 110
 top_cards:
 - name: Flooded Strand
@@ -228,10 +228,10 @@ top_cards:
 - name: Fire Magic
   weight: 0.0273
   avg_copies: 1.67
-- name: Snow-Covered Plains
+- name: Vendilion Clique
   weight: 0.0273
   avg_copies: 1.0
-- name: Vendilion Clique
+- name: Snow-Covered Plains
   weight: 0.0273
   avg_copies: 1.0
 - name: Thundertrap Trainer
@@ -240,76 +240,76 @@ top_cards:
 - name: Pyroclasm
   weight: 0.0182
   avg_copies: 1.5
-- name: Gemstone Caverns
-  weight: 0.0182
-  avg_copies: 1.0
-- name: Elegant Parlor
-  weight: 0.0182
-  avg_copies: 1.0
 - name: Tamiyo, Inquisitive Student
   weight: 0.0182
   avg_copies: 1.0
 - name: Dress Down
   weight: 0.0182
   avg_copies: 1.0
+- name: Elegant Parlor
+  weight: 0.0182
+  avg_copies: 1.0
 - name: Petrified Hamlet
   weight: 0.0182
   avg_copies: 1.0
-- name: Relic of Progenitus
+- name: Gemstone Caverns
+  weight: 0.0182
+  avg_copies: 1.0
+- name: Quantum Riddler
   weight: 0.0091
   avg_copies: 4.0
 - name: Harbinger of the Seas
   weight: 0.0091
   avg_copies: 4.0
-- name: Quantum Riddler
+- name: Relic of Progenitus
   weight: 0.0091
   avg_copies: 4.0
 - name: Obsidian Charmaw
   weight: 0.0091
   avg_copies: 2.0
-- name: card:bilbo-s-gambit
-  weight: 0.0091
-  avg_copies: 2.0
 - name: Wear
   weight: 0.0091
   avg_copies: 2.0
-- name: Hurkyl's Recall
+- name: card:bilbo-s-gambit
   weight: 0.0091
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Deafening Silence
-  weight: 0.0091
-  avg_copies: 1.0
-- name: Strix Serenade
-  weight: 0.0091
-  avg_copies: 1.0
-- name: Commandeer
-  weight: 0.0091
-  avg_copies: 1.0
-- name: Meltdown
   weight: 0.0091
   avg_copies: 1.0
 - name: Logic Knot
   weight: 0.0091
   avg_copies: 1.0
-- name: Get Lost
-  weight: 0.0091
-  avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
   weight: 0.0091
   avg_copies: 1.0
-- name: Damping Sphere
-  weight: 0.0091
-  avg_copies: 1.0
-- name: Flashback
+- name: Hurkyl's Recall
   weight: 0.0091
   avg_copies: 1.0
 - name: card:linvala-keeper-of-silence
   weight: 0.0091
   avg_copies: 1.0
-- name: Restless Anchorage
+- name: Strix Serenade
   weight: 0.0091
   avg_copies: 1.0
 - name: card:bribery
+  weight: 0.0091
+  avg_copies: 1.0
+- name: Meltdown
+  weight: 0.0091
+  avg_copies: 1.0
+- name: Flashback
+  weight: 0.0091
+  avg_copies: 1.0
+- name: Commandeer
+  weight: 0.0091
+  avg_copies: 1.0
+- name: Damping Sphere
+  weight: 0.0091
+  avg_copies: 1.0
+- name: Get Lost
+  weight: 0.0091
+  avg_copies: 1.0
+- name: Restless Anchorage
   weight: 0.0091
   avg_copies: 1.0
 ---

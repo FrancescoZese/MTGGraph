@@ -12,7 +12,7 @@ archetypes:
     weight: 0.7143
     avg_copies: 3.7
   izzet-prowess:
-    weight: 0.0044
+    weight: 0.0043
     avg_copies: 2.0
   goryo0:
     weight: 1.0

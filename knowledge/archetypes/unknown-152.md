@@ -7,10 +7,16 @@ name: 'Unknown #152'
 meta_share: 0.0004
 list_count: 3
 top_cards:
-- name: Mountain
+- name: Valakut, the Molten Pinnacle
   weight: 1.0
   avg_copies: 4.0
 - name: Green Sun's Zenith
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mountain
+  weight: 1.0
+  avg_copies: 4.0
+- name: Erode
   weight: 1.0
   avg_copies: 4.0
 - name: Icetill Explorer
@@ -19,31 +25,25 @@ top_cards:
 - name: Wooded Foothills
   weight: 1.0
   avg_copies: 4.0
-- name: Valakut, the Molten Pinnacle
-  weight: 1.0
-  avg_copies: 4.0
-- name: Erode
-  weight: 1.0
-  avg_copies: 4.0
 - name: Wrenn and Six
   weight: 1.0
   avg_copies: 3.67
-- name: Dryad of the Ilysian Grove
-  weight: 1.0
-  avg_copies: 3.33
 - name: Arboreal Grazer
   weight: 1.0
   avg_copies: 3.33
 - name: Arid Mesa
   weight: 1.0
   avg_copies: 3.33
-- name: Scapeshift
+- name: Dryad of the Ilysian Grove
   weight: 1.0
-  avg_copies: 2.67
+  avg_copies: 3.33
 - name: High Noon
   weight: 1.0
   avg_copies: 2.67
 - name: Fire Magic
+  weight: 1.0
+  avg_copies: 2.67
+- name: Scapeshift
   weight: 1.0
   avg_copies: 2.67
 - name: Windswept Heath
@@ -52,13 +52,13 @@ top_cards:
 - name: Commercial District
   weight: 1.0
   avg_copies: 2.33
-- name: Force of Vigor
+- name: Vexing Bauble
   weight: 1.0
   avg_copies: 2.0
 - name: Stomping Ground
   weight: 1.0
   avg_copies: 2.0
-- name: Vexing Bauble
+- name: Force of Vigor
   weight: 1.0
   avg_copies: 2.0
 - name: Surgical Extraction
@@ -67,19 +67,19 @@ top_cards:
 - name: Forest
   weight: 1.0
   avg_copies: 1.0
-- name: Collector Ouphe
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
 - name: Dwarven Mine
-  weight: 1.0
-  avg_copies: 1.0
-- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
 - name: Elegant Parlor
   weight: 1.0
   avg_copies: 1.0
 - name: Jetmir's Garden
+  weight: 1.0
+  avg_copies: 1.0
+- name: Collector Ouphe
   weight: 1.0
   avg_copies: 1.0
 - name: Vibrance
@@ -94,13 +94,13 @@ top_cards:
 - name: Ghost Vacuum
   weight: 0.6667
   avg_copies: 1.5
+- name: Boseiju, Who Endures
+  weight: 0.6667
+  avg_copies: 1.0
 - name: Damping Sphere
   weight: 0.6667
   avg_copies: 1.0
 - name: Endurance
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Boseiju, Who Endures
   weight: 0.6667
   avg_copies: 1.0
 - name: Temple Garden
@@ -112,10 +112,10 @@ top_cards:
 - name: Prismatic Omen
   weight: 0.3333
   avg_copies: 2.0
-- name: Fade from History
+- name: Primeval Titan
   weight: 0.3333
   avg_copies: 1.0
-- name: Primeval Titan
+- name: Fade from History
   weight: 0.3333
   avg_copies: 1.0
 - name: Shatterstorm

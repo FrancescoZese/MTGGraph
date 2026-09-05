@@ -7,11 +7,11 @@ name: Salvage Titan
 scryfall_id: 7175febd-ae8e-4945-91ab-b6c67c40f04b
 set: 2xm
 type: Artifact Creature — Golem
-meta_presence: 0.0031
+meta_presence: 0.0033
 archetypes:
   affinity:
-    weight: 0.0412
-    avg_copies: 1.71
+    weight: 0.0442
+    avg_copies: 1.73
   unknown-49:
     weight: 0.0769
     avg_copies: 2.0

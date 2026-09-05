@@ -6,13 +6,13 @@ name: Talisman of Curiosity
 scryfall_id: 8388c4e8-bda1-47e5-8df2-ddec5babcaf9
 set: mkc
 type: Artifact
-meta_presence: 0.0066
+meta_presence: 0.0068
 archetypes:
   eldrazi-tron:
-    weight: 0.0455
+    weight: 0.0453
     avg_copies: 1.38
   mono-blue-tron:
-    weight: 0.1111
+    weight: 0.1071
     avg_copies: 1.0
   eldrazi-ramp:
     weight: 0.0986
@@ -24,18 +24,18 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-97:
-    weight: 0.2273
+    weight: 0.2174
     avg_copies: 2.0
   unknown-150:
     weight: 0.3333
     avg_copies: 1.0
   unknown-194:
-    weight: 0.039
+    weight: 0.037
     avg_copies: 2.67
   unknown-226:
     weight: 1.0
     avg_copies: 3.0
   unknown-265:
-    weight: 0.5833
-    avg_copies: 3.71
+    weight: 0.6429
+    avg_copies: 3.78
 ---

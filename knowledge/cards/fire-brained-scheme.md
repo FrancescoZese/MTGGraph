@@ -9,7 +9,7 @@ type: Unknown
 meta_presence: 0.0034
 archetypes:
   ruby-storm:
-    weight: 0.0691
+    weight: 0.0681
     avg_copies: 1.89
   izzet-prowess:
     weight: 0.0022

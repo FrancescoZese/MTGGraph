@@ -11,7 +11,7 @@ type: Instant
 meta_presence: 0.0103
 archetypes:
   neoform-combo:
-    weight: 0.0164
+    weight: 0.0161
     avg_copies: 3.0
   yawgmoth-combo:
     weight: 0.0103
@@ -32,7 +32,7 @@ archetypes:
     weight: 0.2857
     avg_copies: 1.0
   unknown-126:
-    weight: 0.337
+    weight: 0.3352
     avg_copies: 2.31
   unknown-203:
     weight: 1.0

@@ -9,13 +9,13 @@ top_cards:
 - name: Guide of Souls
   weight: 1.0
   avg_copies: 4.0
-- name: card:concealed-courtyard
-  weight: 1.0
-  avg_copies: 4.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 4.0
 - name: Ocelot Pride
+  weight: 1.0
+  avg_copies: 4.0
+- name: card:concealed-courtyard
   weight: 1.0
   avg_copies: 4.0
 - name: Break the Ice
@@ -39,16 +39,16 @@ top_cards:
 - name: Godless Shrine
   weight: 1.0
   avg_copies: 2.33
-- name: card:fetid-heath
+- name: Solitude
   weight: 1.0
   avg_copies: 2.0
 - name: Plains
   weight: 1.0
   avg_copies: 2.0
-- name: Solitude
+- name: Swamp
   weight: 1.0
   avg_copies: 2.0
-- name: Swamp
+- name: card:fetid-heath
   weight: 1.0
   avg_copies: 2.0
 - name: Inquisition of Kozilek
@@ -66,16 +66,16 @@ top_cards:
 - name: Chthonian Nightmare
   weight: 1.0
   avg_copies: 1.33
-- name: Thraben Charm
+- name: Boggart Trawler
   weight: 1.0
   avg_copies: 1.0
-- name: Boggart Trawler
+- name: Witch Enchanter
   weight: 1.0
   avg_copies: 1.0
 - name: Shadowy Backstreet
   weight: 1.0
   avg_copies: 1.0
-- name: Witch Enchanter
+- name: Thraben Charm
   weight: 1.0
   avg_copies: 1.0
 - name: Bleachbone Verge
@@ -93,13 +93,13 @@ top_cards:
 - name: Sheoldred's Edict
   weight: 0.6667
   avg_copies: 1.33
+- name: Orcish Bowmasters
+  weight: 0.6667
+  avg_copies: 1.0
 - name: Prismatic Ending
   weight: 0.6667
   avg_copies: 1.0
 - name: Strategic Betrayal
-  weight: 0.6667
-  avg_copies: 1.0
-- name: Orcish Bowmasters
   weight: 0.6667
   avg_copies: 1.0
 - name: Field of Ruin
@@ -108,19 +108,22 @@ top_cards:
 - name: Dark Confidant
   weight: 0.3333
   avg_copies: 2.0
+- name: Deafening Silence
+  weight: 0.3333
+  avg_copies: 1.0
+- name: Troll of Khazad-dûm
+  weight: 0.3333
+  avg_copies: 1.0
+- name: card:adeline-resplendent-cathar
+  weight: 0.3333
+  avg_copies: 1.0
 - name: Nihil Spellbomb
   weight: 0.3333
   avg_copies: 1.0
 - name: Thoughtseize
   weight: 0.3333
   avg_copies: 1.0
-- name: card:adeline-resplendent-cathar
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Deafening Silence
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Troll of Khazad-dûm
+- name: Harvester of Misery
   weight: 0.3333
   avg_copies: 1.0
 - name: Sanctifier en-Vec
@@ -130,9 +133,6 @@ top_cards:
   weight: 0.3333
   avg_copies: 1.0
 - name: White Orchid Phantom
-  weight: 0.3333
-  avg_copies: 1.0
-- name: Harvester of Misery
   weight: 0.3333
   avg_copies: 1.0
 ---

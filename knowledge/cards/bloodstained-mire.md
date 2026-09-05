@@ -9,7 +9,7 @@ type: Land
 meta_presence: 0.1969
 archetypes:
   ruby-storm:
-    weight: 0.9673
+    weight: 0.9677
     avg_copies: 2.46
   boros-energy:
     weight: 0.0074
@@ -21,14 +21,14 @@ archetypes:
     weight: 0.2609
     avg_copies: 1.92
   domain-zoo:
-    weight: 0.0127
+    weight: 0.0126
     avg_copies: 4.0
   reanimator:
     weight: 0.8889
     avg_copies: 3.62
   burn:
-    weight: 0.9535
-    avg_copies: 1.56
+    weight: 0.9556
+    avg_copies: 1.53
   mardu-blink:
     weight: 0.875
     avg_copies: 1.86
@@ -39,8 +39,8 @@ archetypes:
     weight: 0.0097
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.9521
-    avg_copies: 2.92
+    weight: 0.9526
+    avg_copies: 2.91
   indomitable-creativity:
     weight: 1.0
     avg_copies: 2.75
@@ -129,8 +129,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.12
   unknown-47:
-    weight: 0.3016
-    avg_copies: 1.75
+    weight: 0.299
+    avg_copies: 1.74
   unknown-50:
     weight: 1.0
     avg_copies: 2.0

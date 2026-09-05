@@ -27,10 +27,10 @@ top_cards:
 - name: Kappa Cannoneer
   weight: 1.0
   avg_copies: 3.77
-- name: Welding Jar
+- name: Engineered Explosives
   weight: 1.0
   avg_copies: 3.62
-- name: Engineered Explosives
+- name: Welding Jar
   weight: 1.0
   avg_copies: 3.62
 - name: Mox Opal
@@ -93,10 +93,10 @@ top_cards:
 - name: Memnite
   weight: 0.3846
   avg_copies: 2.8
-- name: Hurkyl's Recall
+- name: Grafdigger's Cage
   weight: 0.3846
   avg_copies: 1.4
-- name: Grafdigger's Cage
+- name: Hurkyl's Recall
   weight: 0.3846
   avg_copies: 1.4
 - name: Mystical Dispute
@@ -111,25 +111,25 @@ top_cards:
 - name: Snow-Covered Island
   weight: 0.0769
   avg_copies: 3.0
-- name: Harbinger of the Seas
-  weight: 0.0769
-  avg_copies: 2.0
-- name: Experimental Synthesizer
+- name: Disruptor Flute
   weight: 0.0769
   avg_copies: 2.0
 - name: Salvage Titan
   weight: 0.0769
   avg_copies: 2.0
-- name: Disruptor Flute
+- name: Experimental Synthesizer
+  weight: 0.0769
+  avg_copies: 2.0
+- name: Harbinger of the Seas
   weight: 0.0769
   avg_copies: 2.0
 - name: Lavaspur Boots
   weight: 0.0769
   avg_copies: 1.0
-- name: Strix Serenade
+- name: Poison Dart Frog
   weight: 0.0769
   avg_copies: 1.0
-- name: Poison Dart Frog
+- name: Strix Serenade
   weight: 0.0769
   avg_copies: 1.0
 ---

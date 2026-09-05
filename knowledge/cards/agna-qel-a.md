@@ -12,7 +12,7 @@ archetypes:
     weight: 0.0021
     avg_copies: 1.0
   mono-blue-tron:
-    weight: 0.1852
+    weight: 0.1786
     avg_copies: 1.0
   izzet-wizards:
     weight: 0.0769
@@ -24,7 +24,7 @@ archetypes:
     weight: 0.0833
     avg_copies: 1.0
   unknown-47:
-    weight: 0.1323
+    weight: 0.1289
     avg_copies: 1.0
   unknown-89:
     weight: 1.0

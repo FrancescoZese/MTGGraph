@@ -11,22 +11,22 @@ top_cards:
 - name: Plaza of Heroes
   weight: 1.0
   avg_copies: 4.0
+- name: Mox Amber
+  weight: 1.0
+  avg_copies: 4.0
 - name: Emry, Lurker of the Loch
   weight: 1.0
   avg_copies: 4.0
-- name: Tamiyo, Inquisitive Student
+- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
-- name: Mox Amber
+- name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 4.0
 - name: Kethis, the Hidden Hand
   weight: 1.0
   avg_copies: 4.0
 - name: Mox Opal
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
 - name: Malevolent Rumble
@@ -47,19 +47,19 @@ top_cards:
 - name: Boseiju, Who Endures
   weight: 1.0
   avg_copies: 1.21
-- name: Haywire Mite
+- name: Otawara, Soaring City
   weight: 1.0
   avg_copies: 1.0
-- name: Otawara, Soaring City
+- name: Haywire Mite
   weight: 1.0
   avg_copies: 1.0
 - name: Misty Rainforest
   weight: 0.875
   avg_copies: 3.14
-- name: Into the Flood Maw
+- name: Dismember
   weight: 0.875
   avg_copies: 2.0
-- name: Dismember
+- name: Into the Flood Maw
   weight: 0.875
   avg_copies: 2.0
 - name: Flooded Strand
@@ -71,13 +71,10 @@ top_cards:
 - name: Sewer-veillance Cam
   weight: 0.875
   avg_copies: 1.29
-- name: Island
+- name: Vexing Bauble
   weight: 0.875
   avg_copies: 1.0
-- name: Lush Portico
-  weight: 0.875
-  avg_copies: 1.0
-- name: Skateboard
+- name: Breeding Pool
   weight: 0.875
   avg_copies: 1.0
 - name: Watery Grave
@@ -86,10 +83,13 @@ top_cards:
 - name: Temple Garden
   weight: 0.875
   avg_copies: 1.0
-- name: Breeding Pool
+- name: Skateboard
   weight: 0.875
   avg_copies: 1.0
-- name: Vexing Bauble
+- name: Lush Portico
+  weight: 0.875
+  avg_copies: 1.0
+- name: Island
   weight: 0.875
   avg_copies: 1.0
 - name: Consign to Memory
@@ -119,10 +119,10 @@ top_cards:
 - name: Strix Serenade
   weight: 0.25
   avg_copies: 1.0
-- name: card:starting-town
+- name: Spire of Industry
   weight: 0.125
   avg_copies: 4.0
-- name: Spire of Industry
+- name: card:starting-town
   weight: 0.125
   avg_copies: 4.0
 - name: Nature's Claim
@@ -137,43 +137,43 @@ top_cards:
 - name: Lavinia, Azorius Renegade
   weight: 0.125
   avg_copies: 2.0
-- name: Hallowed Fountain
-  weight: 0.125
-  avg_copies: 1.0
-- name: Ceremonious Rejection
-  weight: 0.125
-  avg_copies: 1.0
-- name: Forest
-  weight: 0.125
-  avg_copies: 1.0
 - name: Minamo, School at Water's Edge
-  weight: 0.125
-  avg_copies: 1.0
-- name: card:basim-ibn-ishaq
-  weight: 0.125
-  avg_copies: 1.0
-- name: Dredger's Insight
-  weight: 0.125
-  avg_copies: 1.0
-- name: Gaddock Teeg
-  weight: 0.125
-  avg_copies: 1.0
-- name: Phelia, Exuberant Shepherd
   weight: 0.125
   avg_copies: 1.0
 - name: Annul
   weight: 0.125
   avg_copies: 1.0
-- name: Urza's Ruinous Blast
+- name: card:basim-ibn-ishaq
   weight: 0.125
   avg_copies: 1.0
-- name: Toxic Deluge
+- name: Forest
   weight: 0.125
   avg_copies: 1.0
 - name: Shadowspear
   weight: 0.125
   avg_copies: 1.0
 - name: Lluwen, Imperfect Naturalist
+  weight: 0.125
+  avg_copies: 1.0
+- name: Hallowed Fountain
+  weight: 0.125
+  avg_copies: 1.0
+- name: Gaddock Teeg
+  weight: 0.125
+  avg_copies: 1.0
+- name: Urza's Ruinous Blast
+  weight: 0.125
+  avg_copies: 1.0
+- name: Ceremonious Rejection
+  weight: 0.125
+  avg_copies: 1.0
+- name: Dredger's Insight
+  weight: 0.125
+  avg_copies: 1.0
+- name: Phelia, Exuberant Shepherd
+  weight: 0.125
+  avg_copies: 1.0
+- name: Toxic Deluge
   weight: 0.125
   avg_copies: 1.0
 ---

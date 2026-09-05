@@ -13,10 +13,10 @@ archetypes:
     weight: 0.0256
     avg_copies: 1.0
   burn:
-    weight: 0.0233
+    weight: 0.0222
     avg_copies: 2.0
   mono-blue-tron:
-    weight: 0.037
+    weight: 0.0357
     avg_copies: 2.0
   unknown-184:
     weight: 1.0

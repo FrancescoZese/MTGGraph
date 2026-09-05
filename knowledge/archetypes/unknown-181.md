@@ -11,25 +11,25 @@ top_cards:
 - name: Thoughtseize
   weight: 1.0
   avg_copies: 4.0
-- name: Goryo's Vengeance
-  weight: 1.0
-  avg_copies: 4.0
-- name: Yargle and Multani
-  weight: 1.0
-  avg_copies: 4.0
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
-- name: Emrakul, the Aeons Torn
+- name: Goryo's Vengeance
   weight: 1.0
   avg_copies: 4.0
 - name: Psychic Frog
+  weight: 1.0
+  avg_copies: 4.0
+- name: Yargle and Multani
   weight: 1.0
   avg_copies: 4.0
 - name: Polluted Delta
   weight: 1.0
   avg_copies: 4.0
 - name: Cragganwick Cremator
+  weight: 1.0
+  avg_copies: 4.0
+- name: Emrakul, the Aeons Torn
   weight: 1.0
   avg_copies: 4.0
 - name: Fatal Push
@@ -62,19 +62,19 @@ top_cards:
 - name: Swamp
   weight: 1.0
   avg_copies: 1.17
-- name: Mountain
+- name: Blood Crypt
   weight: 1.0
   avg_copies: 1.0
-- name: Damping Sphere
+- name: Mountain
   weight: 1.0
   avg_copies: 1.0
 - name: Raucous Theater
   weight: 1.0
   avg_copies: 1.0
-- name: Undercity Sewers
+- name: Damping Sphere
   weight: 1.0
   avg_copies: 1.0
-- name: Blood Crypt
+- name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
 - name: Watery Grave
@@ -89,10 +89,10 @@ top_cards:
 - name: Fable of the Mirror-Breaker
   weight: 0.8333
   avg_copies: 1.4
-- name: Riverpyre Verge
+- name: Thundering Falls
   weight: 0.8333
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Riverpyre Verge
   weight: 0.8333
   avg_copies: 1.0
 - name: Pithing Needle
@@ -119,31 +119,31 @@ top_cards:
 - name: Nethergoyf
   weight: 0.1667
   avg_copies: 3.0
-- name: Blazemire Verge
+- name: Orcish Bowmasters
   weight: 0.1667
   avg_copies: 2.0
 - name: Tarfire
   weight: 0.1667
   avg_copies: 2.0
-- name: Orcish Bowmasters
+- name: Blazemire Verge
   weight: 0.1667
   avg_copies: 2.0
-- name: Pyroclasm
+- name: Disruptor Flute
   weight: 0.1667
   avg_copies: 1.0
 - name: Force of Despair
   weight: 0.1667
   avg_copies: 1.0
-- name: Ashiok, Dream Render
+- name: Pyroclasm
   weight: 0.1667
   avg_copies: 1.0
 - name: Bone Shards
   weight: 0.1667
   avg_copies: 1.0
-- name: Mai, Scornful Striker
+- name: Ashiok, Dream Render
   weight: 0.1667
   avg_copies: 1.0
-- name: Disruptor Flute
+- name: Mai, Scornful Striker
   weight: 0.1667
   avg_copies: 1.0
 ---

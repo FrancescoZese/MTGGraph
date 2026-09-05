@@ -13,10 +13,10 @@ top_cards:
 - name: Ocelot Pride
   weight: 1.0
   avg_copies: 3.95
-- name: Galvanic Discharge
+- name: Quantum Riddler
   weight: 1.0
   avg_copies: 3.9
-- name: Quantum Riddler
+- name: Galvanic Discharge
   weight: 1.0
   avg_copies: 3.9
 - name: Flooded Strand
@@ -109,10 +109,10 @@ top_cards:
 - name: Rest in Peace
   weight: 0.2381
   avg_copies: 1.8
-- name: Wear
+- name: Surgical Extraction
   weight: 0.2381
   avg_copies: 1.2
-- name: Surgical Extraction
+- name: Wear
   weight: 0.2381
   avg_copies: 1.2
 - name: Witch Enchanter
@@ -139,10 +139,10 @@ top_cards:
 - name: Mockingbird
   weight: 0.1429
   avg_copies: 1.33
-- name: Strix Serenade
+- name: Thundering Falls
   weight: 0.1429
   avg_copies: 1.0
-- name: Thundering Falls
+- name: Strix Serenade
   weight: 0.1429
   avg_copies: 1.0
 - name: White Orchid Phantom
@@ -154,37 +154,37 @@ top_cards:
 - name: Windswept Heath
   weight: 0.0952
   avg_copies: 1.0
-- name: Practiced Offense
-  weight: 0.0476
-  avg_copies: 2.0
 - name: Reprieve
   weight: 0.0476
   avg_copies: 2.0
-- name: Ashiok, Dream Render
+- name: Practiced Offense
   weight: 0.0476
-  avg_copies: 1.0
-- name: Boromir, Warden of the Tower
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Lightning Bolt
+  avg_copies: 2.0
+- name: Spell Pierce
   weight: 0.0476
   avg_copies: 1.0
 - name: Marsh Flats
   weight: 0.0476
   avg_copies: 1.0
-- name: Spell Pierce
-  weight: 0.0476
-  avg_copies: 1.0
-- name: Magus of the Moon
-  weight: 0.0476
-  avg_copies: 1.0
 - name: The Legend of Roku
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Soul-Guide Lantern
   weight: 0.0476
   avg_copies: 1.0
 - name: Vandalblast
   weight: 0.0476
   avg_copies: 1.0
-- name: Soul-Guide Lantern
+- name: Boromir, Warden of the Tower
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Magus of the Moon
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Ashiok, Dream Render
+  weight: 0.0476
+  avg_copies: 1.0
+- name: Lightning Bolt
   weight: 0.0476
   avg_copies: 1.0
 ---

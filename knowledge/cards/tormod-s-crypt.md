@@ -6,7 +6,7 @@ name: Tormod's Crypt
 scryfall_id: 752bf493-5839-47e8-95f2-6d8201907428
 set: dmr
 type: Artifact
-meta_presence: 0.1837
+meta_presence: 0.1834
 archetypes:
   boros-energy:
     weight: 0.0012
@@ -15,7 +15,7 @@ archetypes:
     weight: 0.4175
     avg_copies: 1.07
   eldrazi-tron:
-    weight: 0.9886
+    weight: 0.9887
     avg_copies: 1.0
   amulet-titan:
     weight: 0.0054
@@ -30,16 +30,16 @@ archetypes:
     weight: 1.0
     avg_copies: 3.25
   domain-zoo:
-    weight: 0.0064
+    weight: 0.0063
     avg_copies: 1.0
   mill:
     weight: 0.0256
     avg_copies: 1.0
   burn:
-    weight: 0.0465
+    weight: 0.0444
     avg_copies: 1.5
   mono-blue-tron:
-    weight: 0.0741
+    weight: 0.0714
     avg_copies: 1.0
   hammer-time:
     weight: 0.5909
@@ -51,7 +51,7 @@ archetypes:
     weight: 0.1831
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.5207
+    weight: 0.5151
     avg_copies: 1.71
   dredge:
     weight: 0.0357
@@ -69,7 +69,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-6:
-    weight: 0.95
+    weight: 0.9524
     avg_copies: 1.14
   unknown-10:
     weight: 0.3333
@@ -102,10 +102,10 @@ archetypes:
     weight: 1.0
     avg_copies: 3.17
   unknown-96:
-    weight: 0.038
+    weight: 0.0375
     avg_copies: 2.33
   unknown-97:
-    weight: 0.0455
+    weight: 0.0435
     avg_copies: 1.0
   unknown-98:
     weight: 0.375
@@ -123,7 +123,7 @@ archetypes:
     weight: 0.6389
     avg_copies: 1.56
   unknown-126:
-    weight: 0.0387
+    weight: 0.0385
     avg_copies: 1.0
   unknown-146:
     weight: 1.0
@@ -135,7 +135,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.181
+    weight: 0.1707
     avg_copies: 1.0
   unknown-159:
     weight: 1.0
@@ -165,7 +165,7 @@ archetypes:
     weight: 0.5
     avg_copies: 1.0
   unknown-213:
-    weight: 0.2778
+    weight: 0.2632
     avg_copies: 1.0
   unknown-223:
     weight: 1.0
@@ -177,7 +177,7 @@ archetypes:
     weight: 0.25
     avg_copies: 1.0
   unknown-265:
-    weight: 0.9167
+    weight: 0.9286
     avg_copies: 1.0
   unknown-269:
     weight: 0.3333

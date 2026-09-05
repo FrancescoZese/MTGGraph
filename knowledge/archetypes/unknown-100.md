@@ -9,16 +9,16 @@ name: 'Unknown #100'
 meta_share: 0.0009
 list_count: 7
 top_cards:
-- name: Leyline of the Guildpact
-  weight: 1.0
-  avg_copies: 4.0
 - name: Ragavan, Nimble Pilferer
   weight: 1.0
   avg_copies: 4.0
-- name: Scion of Draco
+- name: Leyline of the Guildpact
   weight: 1.0
   avg_copies: 4.0
 - name: Leyline Binding
+  weight: 1.0
+  avg_copies: 4.0
+- name: Scion of Draco
   weight: 1.0
   avg_copies: 4.0
 - name: Territorial Kavu
@@ -27,10 +27,10 @@ top_cards:
 - name: Psychic Frog
   weight: 1.0
   avg_copies: 3.86
-- name: Lightning Bolt
+- name: Wooded Foothills
   weight: 1.0
   avg_copies: 3.57
-- name: Wooded Foothills
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 3.57
 - name: Consign to Memory
@@ -108,19 +108,19 @@ top_cards:
 - name: Pyroclasm
   weight: 0.4286
   avg_copies: 1.33
-- name: Overgrown Tomb
-  weight: 0.4286
-  avg_copies: 1.0
 - name: Indatha Triome
   weight: 0.4286
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.4286
   avg_copies: 1.0
+- name: Swamp
+  weight: 0.4286
+  avg_copies: 1.0
 - name: Thundering Falls
   weight: 0.4286
   avg_copies: 1.0
-- name: Swamp
+- name: Overgrown Tomb
   weight: 0.4286
   avg_copies: 1.0
 - name: Marsh Flats
@@ -138,28 +138,40 @@ top_cards:
 - name: Vexing Bauble
   weight: 0.2857
   avg_copies: 1.5
-- name: Hallowed Fountain
-  weight: 0.2857
-  avg_copies: 1.0
 - name: Plains
   weight: 0.2857
   avg_copies: 1.0
-- name: Island
+- name: Hallowed Fountain
   weight: 0.2857
   avg_copies: 1.0
 - name: Temple Garden
   weight: 0.2857
   avg_copies: 1.0
+- name: Island
+  weight: 0.2857
+  avg_copies: 1.0
 - name: Mishra's Bauble
   weight: 0.1429
   avg_copies: 4.0
-- name: Damping Sphere
-  weight: 0.1429
-  avg_copies: 2.0
 - name: Fatal Push
   weight: 0.1429
   avg_copies: 2.0
+- name: Spell Snare
+  weight: 0.1429
+  avg_copies: 2.0
+- name: Laelia, the Blade Reforged
+  weight: 0.1429
+  avg_copies: 2.0
+- name: Damping Sphere
+  weight: 0.1429
+  avg_copies: 2.0
+- name: Kroxa, Titan of Death's Hunger
+  weight: 0.1429
+  avg_copies: 2.0
 - name: Tamiyo, Inquisitive Student
+  weight: 0.1429
+  avg_copies: 2.0
+- name: Doorkeeper Thrull
   weight: 0.1429
   avg_copies: 2.0
 - name: Surge of Salvation
@@ -168,40 +180,28 @@ top_cards:
 - name: Teferi, Time Raveler
   weight: 0.1429
   avg_copies: 2.0
-- name: Kroxa, Titan of Death's Hunger
-  weight: 0.1429
-  avg_copies: 2.0
-- name: Laelia, the Blade Reforged
-  weight: 0.1429
-  avg_copies: 2.0
-- name: Doorkeeper Thrull
-  weight: 0.1429
-  avg_copies: 2.0
-- name: Spell Snare
-  weight: 0.1429
-  avg_copies: 2.0
-- name: Wrath of the Skies
+- name: Winternight Stories
   weight: 0.1429
   avg_copies: 1.0
-- name: Detective's Phoenix
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Thoughtseize
-  weight: 0.1429
-  avg_copies: 1.0
-- name: Containment Priest
+- name: Rest in Peace
   weight: 0.1429
   avg_copies: 1.0
 - name: Hidetsugu Consumes All
   weight: 0.1429
   avg_copies: 1.0
+- name: Thoughtseize
+  weight: 0.1429
+  avg_copies: 1.0
+- name: Detective's Phoenix
+  weight: 0.1429
+  avg_copies: 1.0
 - name: Watery Grave
   weight: 0.1429
   avg_copies: 1.0
-- name: Winternight Stories
+- name: Wrath of the Skies
   weight: 0.1429
   avg_copies: 1.0
-- name: Rest in Peace
+- name: Containment Priest
   weight: 0.1429
   avg_copies: 1.0
 ---

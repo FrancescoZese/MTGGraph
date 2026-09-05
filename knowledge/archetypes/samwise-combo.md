@@ -170,10 +170,10 @@ top_cards:
 - name: Voice of Victory
   weight: 0.1333
   avg_copies: 1.2
-- name: Renegade Rallier
+- name: Swamp
   weight: 0.1333
   avg_copies: 1.0
-- name: Swamp
+- name: Renegade Rallier
   weight: 0.1333
   avg_copies: 1.0
 - name: Surgical Extraction
@@ -182,7 +182,7 @@ top_cards:
 - name: Eyetwitch
   weight: 0.12
   avg_copies: 4.0
-- name: Boggart Trawler
+- name: Decorum Dissertation
   weight: 0.12
   avg_copies: 1.0
 - name: Origin of Metalbending
@@ -191,19 +191,19 @@ top_cards:
 - name: Ruinous Waterbending
   weight: 0.12
   avg_copies: 1.0
-- name: Decorum Dissertation
+- name: True Ancestry
   weight: 0.12
   avg_copies: 1.0
-- name: True Ancestry
+- name: Boggart Trawler
   weight: 0.12
   avg_copies: 1.0
 - name: Professor of Symbology
   weight: 0.12
   avg_copies: 1.0
-- name: Dauthi Voidwalker
+- name: card:birds-of-paradise
   weight: 0.1067
   avg_copies: 1.0
-- name: card:birds-of-paradise
+- name: Dauthi Voidwalker
   weight: 0.1067
   avg_copies: 1.0
 - name: Haliya, Guided by Light
@@ -224,10 +224,10 @@ top_cards:
 - name: Wall of Roots
   weight: 0.08
   avg_copies: 2.0
-- name: card:masked-vandal
+- name: Horizon Canopy
   weight: 0.08
   avg_copies: 1.0
-- name: Horizon Canopy
+- name: card:masked-vandal
   weight: 0.08
   avg_copies: 1.0
 - name: Ajani, Nacatl Pariah
@@ -236,16 +236,16 @@ top_cards:
 - name: Goblin Bombardment
   weight: 0.0667
   avg_copies: 3.0
-- name: Chthonian Nightmare
+- name: Stomping Ground
   weight: 0.0667
   avg_copies: 1.0
-- name: Boromir, Warden of the Tower
+- name: Chthonian Nightmare
   weight: 0.0667
   avg_copies: 1.0
 - name: Enter the Avatar State
   weight: 0.0667
   avg_copies: 1.0
-- name: Stomping Ground
+- name: Boromir, Warden of the Tower
   weight: 0.0667
   avg_copies: 1.0
 - name: Culling Ritual
@@ -254,73 +254,73 @@ top_cards:
 - name: Mana Confluence
   weight: 0.0533
   avg_copies: 1.25
-- name: Dawnbringer Cleric
+- name: Loran of the Third Path
   weight: 0.0533
   avg_copies: 1.0
 - name: Skyclave Apparition
   weight: 0.0533
   avg_copies: 1.0
-- name: Loran of the Third Path
-  weight: 0.0533
-  avg_copies: 1.0
-- name: Reduce to Memory
-  weight: 0.0533
-  avg_copies: 1.0
 - name: Reclamation Sage
-  weight: 0.0533
-  avg_copies: 1.0
-- name: Bridgeworks Battle
   weight: 0.0533
   avg_copies: 1.0
 - name: Dai Li Indoctrination
   weight: 0.0533
   avg_copies: 1.0
-- name: Damping Sphere
+- name: Bridgeworks Battle
+  weight: 0.0533
+  avg_copies: 1.0
+- name: Dawnbringer Cleric
+  weight: 0.0533
+  avg_copies: 1.0
+- name: Reduce to Memory
+  weight: 0.0533
+  avg_copies: 1.0
+- name: Prismatic Ending
   weight: 0.04
   avg_copies: 1.67
-- name: Prismatic Ending
+- name: Damping Sphere
   weight: 0.04
   avg_copies: 1.67
 - name: Portable Hole
   weight: 0.04
   avg_copies: 1.0
-- name: Delighted Halfling
-  weight: 0.0267
-  avg_copies: 2.5
 - name: Satoru, the Infiltrator
   weight: 0.0267
   avg_copies: 2.5
-- name: Assassin's Trophy
+- name: Delighted Halfling
   weight: 0.0267
-  avg_copies: 2.0
+  avg_copies: 2.5
 - name: card:severance-priest
   weight: 0.0267
   avg_copies: 2.0
-- name: Path to Exile
+- name: Assassin's Trophy
   weight: 0.0267
-  avg_copies: 1.5
+  avg_copies: 2.0
 - name: Moseo, Vein's New Dean
   weight: 0.0267
   avg_copies: 1.5
-- name: Pile On
+- name: Path to Exile
   weight: 0.0267
-  avg_copies: 1.0
-- name: card:cloak-and-dagger-entwined
+  avg_copies: 1.5
+- name: card:volatile-stormdrake
   weight: 0.0267
   avg_copies: 1.0
 - name: Sacred Foundry
   weight: 0.0267
   avg_copies: 1.0
-- name: Mai, Scornful Striker
-  weight: 0.0267
-  avg_copies: 1.0
 - name: Kraul Harpooner
   weight: 0.0267
   avg_copies: 1.0
-- name: card:volatile-stormdrake
+- name: Seam Rip
   weight: 0.0267
   avg_copies: 1.0
-- name: Seam Rip
+- name: card:cloak-and-dagger-entwined
+  weight: 0.0267
+  avg_copies: 1.0
+- name: Mai, Scornful Striker
+  weight: 0.0267
+  avg_copies: 1.0
+- name: Pile On
   weight: 0.0267
   avg_copies: 1.0
 - name: card:rubblebelt-maverick
@@ -329,19 +329,16 @@ top_cards:
 - name: card:safehold-elite
   weight: 0.0133
   avg_copies: 3.0
-- name: Ashiok, Dream Render
-  weight: 0.0133
-  avg_copies: 2.0
-- name: Professor Dellian Fel
+- name: Green Sun's Zenith
   weight: 0.0133
   avg_copies: 2.0
 - name: Fade from History
   weight: 0.0133
   avg_copies: 2.0
-- name: Green Sun's Zenith
+- name: Blooming Marsh
   weight: 0.0133
   avg_copies: 2.0
-- name: card:extraction-specialist
+- name: Professor Dellian Fel
   weight: 0.0133
   avg_copies: 2.0
 - name: card:starting-town
@@ -350,55 +347,58 @@ top_cards:
 - name: Enduring Innocence
   weight: 0.0133
   avg_copies: 2.0
-- name: Blooming Marsh
+- name: card:extraction-specialist
   weight: 0.0133
   avg_copies: 2.0
-- name: card:explosive-prodigy
+- name: Ashiok, Dream Render
   weight: 0.0133
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Deafening Silence
   weight: 0.0133
   avg_copies: 1.0
-- name: Gravecrawler
-  weight: 0.0133
-  avg_copies: 1.0
-- name: card:scarland-thrinax
-  weight: 0.0133
-  avg_copies: 1.0
-- name: Arboreal Grazer
-  weight: 0.0133
-  avg_copies: 1.0
-- name: Teferi, Time Raveler
-  weight: 0.0133
-  avg_copies: 1.0
-- name: Containment Priest
-  weight: 0.0133
-  avg_copies: 1.0
-- name: Heroic Intervention
-  weight: 0.0133
-  avg_copies: 1.0
-- name: Strategic Betrayal
-  weight: 0.0133
-  avg_copies: 1.0
-- name: Harsh Annotation
-  weight: 0.0133
-  avg_copies: 1.0
-- name: Icetill Explorer
-  weight: 0.0133
-  avg_copies: 1.0
-- name: Vraska, Golgari Queen
+- name: card:explosive-prodigy
   weight: 0.0133
   avg_copies: 1.0
 - name: Formidable Speaker
   weight: 0.0133
   avg_copies: 1.0
-- name: Kataki, War's Wage
+- name: Void Mirror
+  weight: 0.0133
+  avg_copies: 1.0
+- name: card:scarland-thrinax
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Vraska, Golgari Queen
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Arboreal Grazer
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Harsh Annotation
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Strategic Betrayal
   weight: 0.0133
   avg_copies: 1.0
 - name: Veil of Summer
   weight: 0.0133
   avg_copies: 1.0
-- name: Void Mirror
+- name: Kataki, War's Wage
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Icetill Explorer
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Containment Priest
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Gravecrawler
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Heroic Intervention
+  weight: 0.0133
+  avg_copies: 1.0
+- name: Teferi, Time Raveler
   weight: 0.0133
   avg_copies: 1.0
 ---

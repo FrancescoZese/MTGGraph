@@ -2,7 +2,7 @@
 colors:
 - G
 name: Amulet Titan
-meta_share: 0.0226
+meta_share: 0.0225
 list_count: 184
 top_cards:
 - name: Arboreal Grazer
@@ -200,10 +200,10 @@ top_cards:
 - name: Cursed Totem
   weight: 0.0272
   avg_copies: 2.4
-- name: card:lumra-bellow-of-the-woods
+- name: Wooded Foothills
   weight: 0.0272
   avg_copies: 1.0
-- name: Wooded Foothills
+- name: card:lumra-bellow-of-the-woods
   weight: 0.0272
   avg_copies: 1.0
 - name: Commercial District
@@ -212,13 +212,13 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.0217
   avg_copies: 1.25
+- name: Misty Rainforest
+  weight: 0.0217
+  avg_copies: 1.0
 - name: Hedge Maze
   weight: 0.0217
   avg_copies: 1.0
 - name: Creeping Corrosion
-  weight: 0.0217
-  avg_copies: 1.0
-- name: Misty Rainforest
   weight: 0.0217
   avg_copies: 1.0
 - name: Insidious Fungus
@@ -233,16 +233,16 @@ top_cards:
 - name: Surgical Extraction
   weight: 0.0163
   avg_copies: 2.0
-- name: Pyroclasm
-  weight: 0.0163
-  avg_copies: 1.0
 - name: Cavern of Souls
   weight: 0.0163
   avg_copies: 1.0
-- name: Ghost Vacuum
+- name: Pyroclasm
   weight: 0.0163
   avg_copies: 1.0
 - name: Windswept Heath
+  weight: 0.0163
+  avg_copies: 1.0
+- name: Ghost Vacuum
   weight: 0.0163
   avg_copies: 1.0
 - name: Kessig Wolf Run
@@ -257,82 +257,85 @@ top_cards:
 - name: Defense Grid
   weight: 0.0109
   avg_copies: 2.0
-- name: Hexdrinker
-  weight: 0.0109
-  avg_copies: 1.0
 - name: Dosan the Falling Leaf
   weight: 0.0109
   avg_copies: 1.0
-- name: Emeritus of Abundance
-  weight: 0.0109
-  avg_copies: 1.0
-- name: card:ruric-thar-the-unbowed
+- name: Hexdrinker
   weight: 0.0109
   avg_copies: 1.0
 - name: Northampton Farm
   weight: 0.0109
   avg_copies: 1.0
+- name: Ghost Quarter
+  weight: 0.0109
+  avg_copies: 1.0
 - name: Ureni, the Song Unending
   weight: 0.0109
   avg_copies: 1.0
-- name: Ghost Quarter
+- name: card:ruric-thar-the-unbowed
+  weight: 0.0109
+  avg_copies: 1.0
+- name: Emeritus of Abundance
   weight: 0.0109
   avg_copies: 1.0
 - name: card:mind-into-matter
   weight: 0.0054
   avg_copies: 4.0
-- name: Hurkyl's Recall
-  weight: 0.0054
-  avg_copies: 3.0
 - name: High Noon
   weight: 0.0054
   avg_copies: 3.0
-- name: Spirit of the Labyrinth
+- name: Hurkyl's Recall
   weight: 0.0054
-  avg_copies: 2.0
-- name: Snow-Covered Forest
-  weight: 0.0054
-  avg_copies: 2.0
+  avg_copies: 3.0
 - name: Sheoldred's Edict
   weight: 0.0054
   avg_copies: 2.0
 - name: Botanical Sanctum
   weight: 0.0054
   avg_copies: 2.0
-- name: card:altered-ego
+- name: Spirit of the Labyrinth
   weight: 0.0054
-  avg_copies: 1.0
-- name: card:captain-marvel-earth-s-protector
+  avg_copies: 2.0
+- name: Snow-Covered Forest
   weight: 0.0054
-  avg_copies: 1.0
-- name: Fade from History
+  avg_copies: 2.0
+- name: Verdant Catacombs
   weight: 0.0054
   avg_copies: 1.0
 - name: Tormod's Crypt
   weight: 0.0054
   avg_copies: 1.0
+- name: card:altered-ego
+  weight: 0.0054
+  avg_copies: 1.0
 - name: Titania, Protector of Argoth
   weight: 0.0054
   avg_copies: 1.0
-- name: card:gretchen-titchwillow
-  weight: 0.0054
-  avg_copies: 1.0
-- name: Carnage Tyrant
-  weight: 0.0054
-  avg_copies: 1.0
-- name: Gemstone Caverns
+- name: Fade from History
   weight: 0.0054
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
   weight: 0.0054
   avg_copies: 1.0
-- name: Verdant Catacombs
+- name: Formidable Speaker
   weight: 0.0054
   avg_copies: 1.0
-- name: Sakura-Tribe Elder
+- name: card:kudo-king-among-bears
   weight: 0.0054
   avg_copies: 1.0
 - name: card:sakura-tribe-scout
+  weight: 0.0054
+  avg_copies: 1.0
+- name: card:gretchen-titchwillow
+  weight: 0.0054
+  avg_copies: 1.0
+- name: card:guerrilla-gorilla
+  weight: 0.0054
+  avg_copies: 1.0
+- name: card:dryad-militant
+  weight: 0.0054
+  avg_copies: 1.0
+- name: Sakura-Tribe Elder
   weight: 0.0054
   avg_copies: 1.0
 - name: Lithomantic Barrage
@@ -341,22 +344,19 @@ top_cards:
 - name: Waterlogged Grove
   weight: 0.0054
   avg_copies: 1.0
-- name: card:dryad-militant
+- name: Gemstone Caverns
   weight: 0.0054
   avg_copies: 1.0
-- name: Turn the Earth
-  weight: 0.0054
-  avg_copies: 1.0
-- name: card:guerrilla-gorilla
-  weight: 0.0054
-  avg_copies: 1.0
-- name: Formidable Speaker
+- name: card:captain-marvel-earth-s-protector
   weight: 0.0054
   avg_copies: 1.0
 - name: Pithing Needle
   weight: 0.0054
   avg_copies: 1.0
-- name: card:kudo-king-among-bears
+- name: Carnage Tyrant
+  weight: 0.0054
+  avg_copies: 1.0
+- name: Turn the Earth
   weight: 0.0054
   avg_copies: 1.0
 ---

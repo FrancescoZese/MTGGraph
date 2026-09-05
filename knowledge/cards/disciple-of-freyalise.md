@@ -6,13 +6,13 @@ name: Disciple of Freyalise // Garden of Freyalise
 scryfall_id: a8e9ea5a-5e10-4b77-baef-0352ff035483
 set: mh3
 type: Creature — Elf Druid // Land
-meta_presence: 0.0426
+meta_presence: 0.0427
 archetypes:
   living-end:
     weight: 0.6203
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.9918
+    weight: 0.9919
     avg_copies: 2.37
   yawgmoth-combo:
     weight: 0.0103
@@ -30,7 +30,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.86
   unknown-126:
-    weight: 0.0608
+    weight: 0.0604
     avg_copies: 1.0
   unknown-137:
     weight: 1.0

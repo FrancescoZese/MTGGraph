@@ -20,7 +20,7 @@ archetypes:
     weight: 0.3037
     avg_copies: 1.37
   goryo:
-    weight: 0.0951
+    weight: 0.0943
     avg_copies: 1.18
   necrodominance:
     weight: 0.1957
@@ -32,13 +32,13 @@ archetypes:
     weight: 0.0253
     avg_copies: 2.0
   jeskai-control:
-    weight: 0.1781
+    weight: 0.2105
     avg_copies: 1.0
   affinity:
-    weight: 0.0722
+    weight: 0.0714
     avg_copies: 1.02
   domain-zoo:
-    weight: 0.293
+    weight: 0.2893
     avg_copies: 1.33
   mill:
     weight: 0.1026
@@ -62,7 +62,7 @@ archetypes:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.1116
+    weight: 0.1079
     avg_copies: 1.62
   samwise-combo:
     weight: 0.0133
@@ -116,7 +116,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-6:
-    weight: 0.2
+    weight: 0.1905
     avg_copies: 1.25
   unknown-10:
     weight: 0.3333
@@ -188,7 +188,7 @@ archetypes:
     weight: 0.3333
     avg_copies: 1.0
   unknown-126:
-    weight: 0.0829
+    weight: 0.0824
     avg_copies: 1.0
   unknown-129:
     weight: 1.0

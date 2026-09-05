@@ -10,6 +10,6 @@ type: Instant — Arcane
 meta_presence: 0.01
 archetypes:
   neoform-combo:
-    weight: 0.6639
-    avg_copies: 1.32
+    weight: 0.6613
+    avg_copies: 1.33
 ---

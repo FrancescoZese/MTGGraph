@@ -2,8 +2,8 @@
 colors:
 - U
 name: Mono-Blue Tron
-meta_share: 0.0033
-list_count: 27
+meta_share: 0.0034
+list_count: 28
 top_cards:
 - name: Kozilek's Command
   weight: 1.0
@@ -11,239 +11,239 @@ top_cards:
 - name: Expedition Map
   weight: 1.0
   avg_copies: 3.93
-- name: Urza's Tower
+- name: Urza's Power Plant
   weight: 1.0
   avg_copies: 3.89
-- name: Urza's Power Plant
+- name: Urza's Tower
   weight: 1.0
   avg_copies: 3.89
 - name: Urza's Mine
   weight: 1.0
-  avg_copies: 3.7
+  avg_copies: 3.71
 - name: Island
   weight: 1.0
-  avg_copies: 3.63
+  avg_copies: 3.61
 - name: Ugin, Eye of the Storms
   weight: 1.0
-  avg_copies: 3.44
+  avg_copies: 3.46
 - name: Consign to Memory
   weight: 1.0
-  avg_copies: 3.19
+  avg_copies: 3.21
 - name: Force of Negation
   weight: 1.0
-  avg_copies: 2.93
-- name: Otawara, Soaring City
-  weight: 1.0
-  avg_copies: 1.56
+  avg_copies: 2.9
 - name: Stock Up
-  weight: 0.963
-  avg_copies: 3.81
+  weight: 0.9643
+  avg_copies: 3.78
+- name: Otawara, Soaring City
+  weight: 0.9643
+  avg_copies: 1.56
 - name: Portent of Calamity
-  weight: 0.8889
-  avg_copies: 3.33
+  weight: 0.8929
+  avg_copies: 3.36
 - name: Emrakul, the Aeons Torn
-  weight: 0.8889
-  avg_copies: 2.12
+  weight: 0.8929
+  avg_copies: 2.16
 - name: Subtlety
-  weight: 0.8148
+  weight: 0.7857
   avg_copies: 2.48
 - name: Ugin's Labyrinth
-  weight: 0.7407
-  avg_copies: 3.7
-- name: Emrakul, the Promised End
-  weight: 0.7037
-  avg_copies: 1.32
+  weight: 0.75
+  avg_copies: 3.71
 - name: Sink into Stupor
-  weight: 0.6667
-  avg_copies: 1.56
+  weight: 0.6786
+  avg_copies: 1.53
+- name: Emrakul, the Promised End
+  weight: 0.6786
+  avg_copies: 1.32
 - name: Talisman of Dominance
-  weight: 0.5556
-  avg_copies: 3.0
+  weight: 0.5714
+  avg_copies: 3.06
 - name: Mystical Dispute
-  weight: 0.5556
-  avg_copies: 2.33
+  weight: 0.5714
+  avg_copies: 2.31
 - name: Dress Down
-  weight: 0.5556
-  avg_copies: 2.17
+  weight: 0.5714
+  avg_copies: 2.26
+- name: Spell Snare
+  weight: 0.5
+  avg_copies: 2.31
 - name: Trinisphere
-  weight: 0.5185
+  weight: 0.5
   avg_copies: 2.29
 - name: Devourer of Destiny
-  weight: 0.4815
+  weight: 0.4643
   avg_copies: 3.23
-- name: Spell Snare
-  weight: 0.4815
-  avg_copies: 2.27
-- name: Flusterstorm
-  weight: 0.4444
-  avg_copies: 2.75
 - name: Dismember
-  weight: 0.4444
-  avg_copies: 2.38
+  weight: 0.4643
+  avg_copies: 2.35
 - name: Engineered Explosives
-  weight: 0.4444
-  avg_copies: 2.08
+  weight: 0.4643
+  avg_copies: 2.0
+- name: Flusterstorm
+  weight: 0.4286
+  avg_copies: 2.75
 - name: Abstergo Entertainment
-  weight: 0.4444
+  weight: 0.4286
   avg_copies: 1.0
 - name: Hurkyl's Recall
-  weight: 0.3704
+  weight: 0.3571
   avg_copies: 1.6
 - name: Condescend
-  weight: 0.2963
+  weight: 0.2857
   avg_copies: 2.12
 - name: Disruptor Flute
-  weight: 0.2593
+  weight: 0.25
   avg_copies: 1.57
 - name: Eldrazi Temple
-  weight: 0.2222
+  weight: 0.2143
   avg_copies: 2.17
-- name: Stern Scolding
-  weight: 0.1852
-  avg_copies: 2.0
 - name: Relic of Progenitus
-  weight: 0.1852
-  avg_copies: 1.86
+  weight: 0.2143
+  avg_copies: 1.75
 - name: Surgical Extraction
-  weight: 0.1852
-  avg_copies: 1.6
+  weight: 0.2143
+  avg_copies: 1.5
+- name: Stern Scolding
+  weight: 0.1786
+  avg_copies: 2.0
 - name: Agna Qel'a
-  weight: 0.1852
+  weight: 0.1786
   avg_copies: 1.0
 - name: Chalice of the Void
-  weight: 0.1481
+  weight: 0.1429
+  avg_copies: 2.5
+- name: Nulldrifter
+  weight: 0.1429
   avg_copies: 2.5
 - name: Gemstone Caverns
-  weight: 0.1481
+  weight: 0.1429
   avg_copies: 1.5
 - name: Tishana's Tidebinder
-  weight: 0.1481
+  weight: 0.1429
   avg_copies: 1.17
 - name: Remand
-  weight: 0.1111
+  weight: 0.1071
   avg_copies: 3.0
-- name: Nulldrifter
-  weight: 0.1111
-  avg_copies: 2.67
-- name: Unable to Scream
-  weight: 0.1111
-  avg_copies: 2.33
 - name: Marrow Shards
-  weight: 0.1111
+  weight: 0.1071
+  avg_copies: 2.33
+- name: Unable to Scream
+  weight: 0.1071
   avg_copies: 2.33
 - name: card:one-with-the-multiverse
-  weight: 0.1111
+  weight: 0.1071
   avg_copies: 2.0
 - name: Ugin's Binding
-  weight: 0.1111
+  weight: 0.1071
   avg_copies: 1.33
-- name: Hall of Storm Giants
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Walking Ballista
-  weight: 0.1111
-  avg_copies: 1.0
 - name: Ugin, the Spirit Dragon
-  weight: 0.1111
-  avg_copies: 1.0
-- name: Mistrise Village
-  weight: 0.1111
+  weight: 0.1071
   avg_copies: 1.0
 - name: Talisman of Curiosity
-  weight: 0.1111
+  weight: 0.1071
+  avg_copies: 1.0
+- name: Mistrise Village
+  weight: 0.1071
+  avg_copies: 1.0
+- name: Walking Ballista
+  weight: 0.1071
+  avg_copies: 1.0
+- name: Hall of Storm Giants
+  weight: 0.1071
   avg_copies: 1.0
 - name: Karn, the Great Creator
-  weight: 0.0741
+  weight: 0.0714
   avg_copies: 4.0
+- name: card:giant-s-boulder
+  weight: 0.0714
+  avg_copies: 2.5
 - name: Spell Pierce
-  weight: 0.0741
+  weight: 0.0714
   avg_copies: 2.0
 - name: All Is Dust
-  weight: 0.0741
+  weight: 0.0714
   avg_copies: 1.5
 - name: Propaganda
-  weight: 0.0741
+  weight: 0.0714
   avg_copies: 1.5
-- name: Sundering Titan
-  weight: 0.0741
-  avg_copies: 1.0
-- name: Wurmcoil Engine
-  weight: 0.0741
+- name: Grafdigger's Cage
+  weight: 0.0714
+  avg_copies: 1.5
+- name: Liquimetal Coating
+  weight: 0.0714
   avg_copies: 1.0
 - name: Tormod's Crypt
-  weight: 0.0741
-  avg_copies: 1.0
-- name: Commandeer
-  weight: 0.0741
-  avg_copies: 1.0
-- name: Liquimetal Coating
-  weight: 0.0741
-  avg_copies: 1.0
-- name: Soulless Jailer
-  weight: 0.0741
-  avg_copies: 1.0
-- name: Cityscape Leveler
-  weight: 0.0741
+  weight: 0.0714
   avg_copies: 1.0
 - name: Ensnaring Bridge
-  weight: 0.0741
+  weight: 0.0714
   avg_copies: 1.0
-- name: Oboro, Palace in the Clouds
-  weight: 0.0741
-  avg_copies: 1.0
-- name: Snow-Covered Island
-  weight: 0.0741
+- name: Sundering Titan
+  weight: 0.0714
   avg_copies: 1.0
 - name: Oblivion Stone
-  weight: 0.0741
+  weight: 0.0714
   avg_copies: 1.0
-- name: card:giant-s-boulder
-  weight: 0.037
-  avg_copies: 3.0
-- name: Strix Serenade
-  weight: 0.037
-  avg_copies: 3.0
-- name: Omen of the Sea
-  weight: 0.037
-  avg_copies: 3.0
-- name: Change the Equation
-  weight: 0.037
-  avg_copies: 2.0
-- name: Sire of Seven Deaths
-  weight: 0.037
-  avg_copies: 2.0
-- name: Nimble Obstructionist
-  weight: 0.037
-  avg_copies: 2.0
-- name: Mindbreak Trap
-  weight: 0.037
-  avg_copies: 2.0
-- name: Talisman of Progress
-  weight: 0.037
+- name: Commandeer
+  weight: 0.0714
   avg_copies: 1.0
-- name: card:aether-gust
-  weight: 0.037
-  avg_copies: 1.0
-- name: Vexing Bauble
-  weight: 0.037
-  avg_copies: 1.0
-- name: card:null-elemental-blast
-  weight: 0.037
-  avg_copies: 1.0
-- name: Grafdigger's Cage
-  weight: 0.037
-  avg_copies: 1.0
-- name: Boseiju, Who Shelters All
-  weight: 0.037
-  avg_copies: 1.0
-- name: Temporal Mastery
-  weight: 0.037
-  avg_copies: 1.0
-- name: Test of Talents
-  weight: 0.037
+- name: Wurmcoil Engine
+  weight: 0.0714
   avg_copies: 1.0
 - name: Cursed Totem
-  weight: 0.037
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Oboro, Palace in the Clouds
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Snow-Covered Island
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Cityscape Leveler
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Test of Talents
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Soulless Jailer
+  weight: 0.0714
+  avg_copies: 1.0
+- name: Omen of the Sea
+  weight: 0.0357
+  avg_copies: 3.0
+- name: Strix Serenade
+  weight: 0.0357
+  avg_copies: 3.0
+- name: Change the Equation
+  weight: 0.0357
+  avg_copies: 2.0
+- name: Sire of Seven Deaths
+  weight: 0.0357
+  avg_copies: 2.0
+- name: Nimble Obstructionist
+  weight: 0.0357
+  avg_copies: 2.0
+- name: Mindbreak Trap
+  weight: 0.0357
+  avg_copies: 2.0
+- name: Boseiju, Who Shelters All
+  weight: 0.0357
+  avg_copies: 1.0
+- name: card:null-elemental-blast
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Vexing Bauble
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Temporal Mastery
+  weight: 0.0357
+  avg_copies: 1.0
+- name: Talisman of Progress
+  weight: 0.0357
+  avg_copies: 1.0
+- name: card:aether-gust
+  weight: 0.0357
   avg_copies: 1.0
 ---
 Big mana control deck assembling Tron lands for powerful colorless spells.

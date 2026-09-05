@@ -93,13 +93,13 @@ top_cards:
 - name: Engineered Explosives
   weight: 0.4167
   avg_copies: 2.0
+- name: Stern Scolding
+  weight: 0.4167
+  avg_copies: 1.6
 - name: Gloomlake Verge
   weight: 0.4167
   avg_copies: 1.6
 - name: Dress Down
-  weight: 0.4167
-  avg_copies: 1.6
-- name: Stern Scolding
   weight: 0.4167
   avg_copies: 1.6
 - name: Scalding Tarn
@@ -123,28 +123,28 @@ top_cards:
 - name: Damnation
   weight: 0.25
   avg_copies: 2.0
-- name: Shoot the Sheriff
+- name: Go for the Throat
   weight: 0.25
   avg_copies: 1.0
 - name: The Meathook Massacre
   weight: 0.25
   avg_copies: 1.0
-- name: Go for the Throat
+- name: Shoot the Sheriff
   weight: 0.25
   avg_copies: 1.0
-- name: Cling to Dust
+- name: Verdant Catacombs
   weight: 0.1667
   avg_copies: 1.0
-- name: Verdant Catacombs
+- name: Cling to Dust
   weight: 0.1667
   avg_copies: 1.0
 - name: Cursed Totem
   weight: 0.0833
   avg_copies: 2.0
-- name: Bitter Triumph
+- name: Bloodchief's Thirst
   weight: 0.0833
   avg_copies: 2.0
-- name: Bloodchief's Thirst
+- name: Bitter Triumph
   weight: 0.0833
   avg_copies: 2.0
 - name: Snapcaster Mage

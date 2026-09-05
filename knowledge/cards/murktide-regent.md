@@ -13,10 +13,10 @@ archetypes:
     weight: 0.1728
     avg_copies: 1.86
   neoform-combo:
-    weight: 0.0082
+    weight: 0.0081
     avg_copies: 1.0
   izzet-prowess:
-    weight: 0.3791
+    weight: 0.375
     avg_copies: 1.21
   grixis-shadow:
     weight: 0.2
@@ -31,8 +31,8 @@ archetypes:
     weight: 0.2
     avg_copies: 3.0
   unknown-47:
-    weight: 0.5291
-    avg_copies: 1.13
+    weight: 0.5309
+    avg_copies: 1.12
   unknown-53:
     weight: 1.0
     avg_copies: 2.5

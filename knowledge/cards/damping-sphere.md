@@ -6,10 +6,10 @@ name: Damping Sphere
 scryfall_id: 550860b4-887d-423a-8add-816c2a8da615
 set: dmr
 type: Artifact
-meta_presence: 0.2585
+meta_presence: 0.2576
 archetypes:
   boros-energy:
-    weight: 0.2741
+    weight: 0.2734
     avg_copies: 1.37
   dimir-control:
     weight: 0.1728
@@ -18,10 +18,10 @@ archetypes:
     weight: 0.4222
     avg_copies: 1.42
   eldrazi-tron:
-    weight: 0.0256
+    weight: 0.0255
     avg_copies: 1.0
   goryo:
-    weight: 0.0888
+    weight: 0.0881
     avg_copies: 1.76
   hardened-scales:
     weight: 1.0
@@ -36,13 +36,13 @@ archetypes:
     weight: 0.519
     avg_copies: 1.02
   jeskai-control:
-    weight: 0.0959
+    weight: 0.0921
     avg_copies: 1.71
   affinity:
-    weight: 0.9536
+    weight: 0.9541
     avg_copies: 2.16
   domain-zoo:
-    weight: 0.4713
+    weight: 0.4654
     avg_copies: 1.64
   mill:
     weight: 0.0513
@@ -51,7 +51,7 @@ archetypes:
     weight: 0.6667
     avg_copies: 1.94
   burn:
-    weight: 0.1163
+    weight: 0.1111
     avg_copies: 2.0
   mardu-blink:
     weight: 0.8333
@@ -78,7 +78,7 @@ archetypes:
     weight: 0.25
     avg_copies: 2.0
   esper-blink:
-    weight: 0.5665
+    weight: 0.5519
     avg_copies: 2.09
   samwise-combo:
     weight: 0.04
@@ -207,13 +207,13 @@ archetypes:
     weight: 0.375
     avg_copies: 2.0
   unknown-47:
-    weight: 0.0582
+    weight: 0.0567
     avg_copies: 1.55
   unknown-49:
     weight: 0.8462
     avg_copies: 2.82
   unknown-61:
-    weight: 0.0143
+    weight: 0.0141
     avg_copies: 2.0
   unknown-53:
     weight: 0.5
@@ -258,13 +258,13 @@ archetypes:
     weight: 0.2
     avg_copies: 1.0
   unknown-96:
-    weight: 0.7595
+    weight: 0.7625
     avg_copies: 1.93
   unknown-90:
     weight: 1.0
     avg_copies: 2.0
   unknown-97:
-    weight: 0.0455
+    weight: 0.0435
     avg_copies: 2.0
   unknown-98:
     weight: 0.875
@@ -297,7 +297,7 @@ archetypes:
     weight: 0.25
     avg_copies: 2.0
   unknown-126:
-    weight: 0.0994
+    weight: 0.0989
     avg_copies: 1.22
   unknown-130:
     weight: 1.0
@@ -327,7 +327,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.5
   unknown-160:
-    weight: 0.0086
+    weight: 0.0081
     avg_copies: 2.0
   unknown-162:
     weight: 1.0
@@ -357,7 +357,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-194:
-    weight: 0.1688
+    weight: 0.1605
     avg_copies: 1.38
   unknown-195:
     weight: 1.0

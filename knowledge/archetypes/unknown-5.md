@@ -7,16 +7,16 @@ name: 'Unknown #5'
 meta_share: 0.0016
 list_count: 13
 top_cards:
-- name: Psychic Frog
-  weight: 1.0
-  avg_copies: 4.0
 - name: Persist
   weight: 1.0
   avg_copies: 4.0
-- name: Archon of Cruelty
+- name: Psychic Frog
+  weight: 1.0
+  avg_copies: 4.0
+- name: Marsh Flats
   weight: 1.0
   avg_copies: 3.85
-- name: Marsh Flats
+- name: Archon of Cruelty
   weight: 1.0
   avg_copies: 3.85
 - name: Flooded Strand
@@ -37,19 +37,19 @@ top_cards:
 - name: Watery Grave
   weight: 1.0
   avg_copies: 1.08
-- name: Hallowed Fountain
-  weight: 1.0
-  avg_copies: 1.0
 - name: Undercity Sewers
   weight: 1.0
   avg_copies: 1.0
 - name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
-- name: Godless Shrine
+- name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.0
 - name: Shadowy Backstreet
+  weight: 1.0
+  avg_copies: 1.0
+- name: Godless Shrine
   weight: 1.0
   avg_copies: 1.0
 - name: Solitude
@@ -73,10 +73,10 @@ top_cards:
 - name: Plains
   weight: 0.9231
   avg_copies: 1.0
-- name: Island
+- name: Swamp
   weight: 0.9231
   avg_copies: 1.0
-- name: Swamp
+- name: Island
   weight: 0.9231
   avg_copies: 1.0
 - name: Force of Negation
@@ -127,19 +127,19 @@ top_cards:
 - name: Phelia, Exuberant Shepherd
   weight: 0.0769
   avg_copies: 3.0
-- name: Drannith Magistrate
+- name: Sheoldred, the Apocalypse
   weight: 0.0769
   avg_copies: 2.0
 - name: Spell Pierce
   weight: 0.0769
   avg_copies: 2.0
-- name: Clarion Conqueror
-  weight: 0.0769
-  avg_copies: 2.0
 - name: River of Tears
   weight: 0.0769
   avg_copies: 2.0
-- name: Sheoldred, the Apocalypse
+- name: Drannith Magistrate
+  weight: 0.0769
+  avg_copies: 2.0
+- name: Clarion Conqueror
   weight: 0.0769
   avg_copies: 2.0
 - name: Unearth
@@ -148,46 +148,46 @@ top_cards:
 - name: Tamiyo, Inquisitive Student
   weight: 0.0769
   avg_copies: 1.5
-- name: No More Lies
+- name: Winternight Stories
   weight: 0.0769
   avg_copies: 1.0
 - name: Cephalid Coliseum
   weight: 0.0769
   avg_copies: 1.0
-- name: card:momentary-blink
+- name: Kavaero, Mind-Bitten
   weight: 0.0769
   avg_copies: 1.0
 - name: Snow-Covered Plains
   weight: 0.0769
   avg_copies: 1.0
+- name: card:momentary-blink
+  weight: 0.0769
+  avg_copies: 1.0
 - name: Ketramose, the New Dawn
-  weight: 0.0769
-  avg_copies: 1.0
-- name: March of Otherworldly Light
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Harbinger of the Seas
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Sink into Stupor
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Orim's Chant
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Winternight Stories
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Graveyard Trespasser
-  weight: 0.0769
-  avg_copies: 1.0
-- name: Kavaero, Mind-Bitten
   weight: 0.0769
   avg_copies: 1.0
 - name: Surgical Extraction
   weight: 0.0769
   avg_copies: 1.0
+- name: Harbinger of the Seas
+  weight: 0.0769
+  avg_copies: 1.0
 - name: Snow-Covered Island
+  weight: 0.0769
+  avg_copies: 1.0
+- name: March of Otherworldly Light
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Sink into Stupor
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Graveyard Trespasser
+  weight: 0.0769
+  avg_copies: 1.0
+- name: Orim's Chant
+  weight: 0.0769
+  avg_copies: 1.0
+- name: No More Lies
   weight: 0.0769
   avg_copies: 1.0
 - name: Snow-Covered Swamp

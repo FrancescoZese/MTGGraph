@@ -10,7 +10,7 @@ type: Creature — Beast
 meta_presence: 0.0005
 archetypes:
   neoform-combo:
-    weight: 0.0082
+    weight: 0.0081
     avg_copies: 2.0
   mono-green-stompy:
     weight: 1.0

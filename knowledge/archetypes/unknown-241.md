@@ -12,22 +12,22 @@ top_cards:
 - name: Malevolent Rumble
   weight: 1.0
   avg_copies: 4.0
-- name: Sowing Mycospawn
-  weight: 1.0
-  avg_copies: 4.0
 - name: Kozilek's Command
   weight: 1.0
   avg_copies: 4.0
 - name: card:talisman-of-unity
   weight: 1.0
   avg_copies: 4.0
+- name: Sowing Mycospawn
+  weight: 1.0
+  avg_copies: 4.0
 - name: Eldrazi Temple
   weight: 1.0
   avg_copies: 3.75
-- name: Orim's Chant
+- name: card:gathering-place
   weight: 1.0
   avg_copies: 3.5
-- name: card:gathering-place
+- name: Orim's Chant
   weight: 1.0
   avg_copies: 3.5
 - name: Windswept Heath
@@ -48,13 +48,13 @@ top_cards:
 - name: Erode
   weight: 1.0
   avg_copies: 2.25
+- name: Surgical Extraction
+  weight: 1.0
+  avg_copies: 2.0
 - name: Nature's Claim
   weight: 1.0
   avg_copies: 2.0
 - name: Temple Garden
-  weight: 1.0
-  avg_copies: 2.0
-- name: Surgical Extraction
   weight: 1.0
   avg_copies: 2.0
 - name: Wrath of the Skies
@@ -69,7 +69,7 @@ top_cards:
 - name: Grafdigger's Cage
   weight: 1.0
   avg_copies: 1.25
-- name: Shifting Woodland
+- name: World Breaker
   weight: 1.0
   avg_copies: 1.0
 - name: Ugin, Eye of the Storms
@@ -78,13 +78,13 @@ top_cards:
 - name: Plains
   weight: 1.0
   avg_copies: 1.0
-- name: Lush Portico
-  weight: 1.0
-  avg_copies: 1.0
 - name: Vexing Bauble
   weight: 1.0
   avg_copies: 1.0
-- name: World Breaker
+- name: Lush Portico
+  weight: 1.0
+  avg_copies: 1.0
+- name: Shifting Woodland
   weight: 1.0
   avg_copies: 1.0
 - name: Emeritus of Abundance
@@ -105,13 +105,13 @@ top_cards:
 - name: Trinisphere
   weight: 0.25
   avg_copies: 2.0
-- name: Elder Gargaroth
+- name: Bojuka Bog
   weight: 0.25
   avg_copies: 1.0
 - name: Elesh Norn, Mother of Machines
   weight: 0.25
   avg_copies: 1.0
-- name: Bojuka Bog
+- name: Elder Gargaroth
   weight: 0.25
   avg_copies: 1.0
 ---

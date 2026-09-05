@@ -14,7 +14,7 @@ archetypes:
     avg_copies: 1.0
   boros-energy:
     weight: 0.9951
-    avg_copies: 3.98
+    avg_copies: 3.97
   jeskai-energy:
     weight: 0.8667
     avg_copies: 3.76
@@ -22,8 +22,8 @@ archetypes:
     weight: 0.1091
     avg_copies: 3.0
   jeskai-control:
-    weight: 0.9863
-    avg_copies: 3.43
+    weight: 0.9868
+    avg_copies: 3.41
   mardu-blink:
     weight: 0.75
     avg_copies: 4.0
@@ -106,7 +106,7 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-160:
-    weight: 0.9828
+    weight: 0.9837
     avg_copies: 3.62
   unknown-166:
     weight: 1.0

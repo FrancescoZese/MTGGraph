@@ -22,10 +22,10 @@ archetypes:
     weight: 0.0633
     avg_copies: 1.33
   jeskai-control:
-    weight: 0.0137
+    weight: 0.0132
     avg_copies: 2.0
   affinity:
-    weight: 0.2148
+    weight: 0.2143
     avg_copies: 1.3
   reanimator:
     weight: 0.1481
@@ -82,8 +82,8 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-47:
-    weight: 0.9259
-    avg_copies: 2.29
+    weight: 0.9278
+    avg_copies: 2.3
   unknown-49:
     weight: 0.0769
     avg_copies: 2.0
@@ -157,7 +157,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-213:
-    weight: 0.2222
+    weight: 0.2105
     avg_copies: 1.14
   unknown-218:
     weight: 1.0

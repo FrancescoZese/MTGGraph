@@ -9,10 +9,10 @@ type: Artifact Creature — Construct
 meta_presence: 0.0438
 archetypes:
   eldrazi-tron:
-    weight: 0.9375
+    weight: 0.9377
     avg_copies: 1.0
   mono-blue-tron:
-    weight: 0.0741
+    weight: 0.0714
     avg_copies: 1.0
   eldrazi-ramp:
     weight: 0.0634
@@ -24,12 +24,12 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-160:
-    weight: 0.0086
+    weight: 0.0081
     avg_copies: 1.0
   unknown-162:
     weight: 1.0
     avg_copies: 1.0
   unknown-265:
-    weight: 0.6667
+    weight: 0.7143
     avg_copies: 1.0
 ---

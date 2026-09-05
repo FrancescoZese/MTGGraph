@@ -6,11 +6,11 @@ name: Wooded Foothills
 scryfall_id: 4e11ea8a-f895-438d-a3b7-f070238e4161
 set: mh3
 type: Land
-meta_presence: 0.2231
+meta_presence: 0.223
 archetypes:
   ruby-storm:
-    weight: 0.9236
-    avg_copies: 2.34
+    weight: 0.9211
+    avg_copies: 2.33
   amulet-titan:
     weight: 0.0272
     avg_copies: 1.0
@@ -21,11 +21,11 @@ archetypes:
     weight: 0.1111
     avg_copies: 1.0
   neoform-combo:
-    weight: 0.5738
+    weight: 0.5645
     avg_copies: 1.01
   burn:
-    weight: 0.9535
-    avg_copies: 1.56
+    weight: 0.9556
+    avg_copies: 1.58
   hollow-one:
     weight: 0.8235
     avg_copies: 2.21
@@ -39,8 +39,8 @@ archetypes:
     weight: 0.0777
     avg_copies: 3.38
   izzet-prowess:
-    weight: 0.8802
-    avg_copies: 2.52
+    weight: 0.8772
+    avg_copies: 2.53
   samwise-combo:
     weight: 0.52
     avg_copies: 1.28
@@ -147,14 +147,14 @@ archetypes:
     weight: 1.0
     avg_copies: 3.0
   unknown-96:
-    weight: 0.8354
-    avg_copies: 2.65
+    weight: 0.8375
+    avg_copies: 2.64
   unknown-90:
     weight: 1.0
     avg_copies: 3.0
   unknown-97:
-    weight: 0.9091
-    avg_copies: 1.3
+    weight: 0.913
+    avg_copies: 1.29
   unknown-100:
     weight: 1.0
     avg_copies: 3.57
@@ -174,7 +174,7 @@ archetypes:
     weight: 0.9167
     avg_copies: 1.91
   unknown-126:
-    weight: 0.8398
+    weight: 0.8407
     avg_copies: 1.99
   unknown-127:
     weight: 1.0
@@ -225,7 +225,7 @@ archetypes:
     weight: 1.0
     avg_copies: 2.0
   unknown-194:
-    weight: 0.039
+    weight: 0.0494
     avg_copies: 1.0
   unknown-196:
     weight: 1.0

@@ -9,10 +9,10 @@ type: Basic Land — Mountain
 meta_presence: 0.3401
 archetypes:
   ruby-storm:
-    weight: 0.9891
+    weight: 0.9892
     avg_copies: 2.89
   boros-energy:
-    weight: 0.879
+    weight: 0.8793
     avg_copies: 1.01
   mono-blue-belcher:
     weight: 0.1942
@@ -21,20 +21,20 @@ archetypes:
     weight: 0.8
     avg_copies: 1.0
   jeskai-control:
-    weight: 0.1096
+    weight: 0.1053
     avg_copies: 1.0
   affinity:
-    weight: 0.0189
+    weight: 0.0187
     avg_copies: 1.0
   domain-zoo:
-    weight: 0.9682
+    weight: 0.9686
     avg_copies: 1.0
   reanimator:
     weight: 0.1111
     avg_copies: 2.0
   burn:
-    weight: 0.9767
-    avg_copies: 2.33
+    weight: 0.9778
+    avg_copies: 2.27
   mardu-blink:
     weight: 0.3333
     avg_copies: 1.0
@@ -52,7 +52,7 @@ archetypes:
     avg_copies: 1.0
   izzet-prowess:
     weight: 0.9935
-    avg_copies: 2.3
+    avg_copies: 2.31
   indomitable-creativity:
     weight: 1.0
     avg_copies: 1.06
@@ -120,7 +120,7 @@ archetypes:
     weight: 1.0
     avg_copies: 1.0
   unknown-6:
-    weight: 0.3
+    weight: 0.2857
     avg_copies: 1.0
   unknown-1:
     weight: 1.0
@@ -225,8 +225,8 @@ archetypes:
     weight: 1.0
     avg_copies: 10.0
   unknown-96:
-    weight: 0.9873
-    avg_copies: 2.58
+    weight: 0.9875
+    avg_copies: 2.57
   unknown-98:
     weight: 1.0
     avg_copies: 3.38
@@ -295,7 +295,7 @@ archetypes:
     avg_copies: 1.75
   unknown-160:
     weight: 1.0
-    avg_copies: 1.83
+    avg_copies: 1.81
   unknown-161:
     weight: 1.0
     avg_copies: 2.0

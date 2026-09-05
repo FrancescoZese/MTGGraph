@@ -7,13 +7,10 @@ name: 'Unknown #272'
 meta_share: 0.0001
 list_count: 1
 top_cards:
-- name: Manamorphose
+- name: Orcish Bowmasters
   weight: 1.0
   avg_copies: 4.0
-- name: Faithless Looting
-  weight: 1.0
-  avg_copies: 4.0
-- name: card:buried-alive
+- name: Seasoned Pyromancer
   weight: 1.0
   avg_copies: 4.0
 - name: Arclight Phoenix
@@ -22,49 +19,34 @@ top_cards:
 - name: Bloodstained Mire
   weight: 1.0
   avg_copies: 4.0
-- name: Orcish Bowmasters
+- name: card:buried-alive
   weight: 1.0
   avg_copies: 4.0
-- name: Lightning Bolt
+- name: Faithless Looting
   weight: 1.0
   avg_copies: 4.0
 - name: Desperate Ritual
   weight: 1.0
   avg_copies: 4.0
-- name: Seasoned Pyromancer
+- name: Lightning Bolt
   weight: 1.0
   avg_copies: 4.0
-- name: Thoughtseize
+- name: Manamorphose
   weight: 1.0
-  avg_copies: 3.0
+  avg_copies: 4.0
 - name: Marsh Flats
   weight: 1.0
   avg_copies: 3.0
-- name: Mountain
+- name: Thoughtseize
   weight: 1.0
-  avg_copies: 2.0
-- name: Inquisition of Kozilek
-  weight: 1.0
-  avg_copies: 2.0
-- name: Raucous Theater
+  avg_copies: 3.0
+- name: Swamp
   weight: 1.0
   avg_copies: 2.0
 - name: Dismember
   weight: 1.0
   avg_copies: 2.0
-- name: Blood Moon
-  weight: 1.0
-  avg_copies: 2.0
-- name: Abrade
-  weight: 1.0
-  avg_copies: 2.0
 - name: Arid Mesa
-  weight: 1.0
-  avg_copies: 2.0
-- name: Obsidian Charmaw
-  weight: 1.0
-  avg_copies: 2.0
-- name: Fire Magic
   weight: 1.0
   avg_copies: 2.0
 - name: Blood Crypt
@@ -73,25 +55,43 @@ top_cards:
 - name: Blackcleave Cliffs
   weight: 1.0
   avg_copies: 2.0
-- name: Pyretic Ritual
+- name: Obsidian Charmaw
+  weight: 1.0
+  avg_copies: 2.0
+- name: Mountain
+  weight: 1.0
+  avg_copies: 2.0
+- name: Fire Magic
+  weight: 1.0
+  avg_copies: 2.0
+- name: Raucous Theater
+  weight: 1.0
+  avg_copies: 2.0
+- name: Blood Moon
   weight: 1.0
   avg_copies: 2.0
 - name: Meltdown
   weight: 1.0
   avg_copies: 2.0
-- name: Swamp
+- name: Pyretic Ritual
   weight: 1.0
   avg_copies: 2.0
-- name: Nihil Spellbomb
+- name: Abrade
   weight: 1.0
-  avg_copies: 1.0
-- name: Dauthi Voidwalker
+  avg_copies: 2.0
+- name: Inquisition of Kozilek
   weight: 1.0
-  avg_copies: 1.0
+  avg_copies: 2.0
 - name: Gemstone Caverns
   weight: 1.0
   avg_copies: 1.0
+- name: Nihil Spellbomb
+  weight: 1.0
+  avg_copies: 1.0
 - name: Den of the Bugbear
+  weight: 1.0
+  avg_copies: 1.0
+- name: Dauthi Voidwalker
   weight: 1.0
   avg_copies: 1.0
 ---

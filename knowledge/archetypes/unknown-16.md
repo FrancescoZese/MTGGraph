@@ -6,22 +6,22 @@ name: 'Unknown #16'
 meta_share: 0.0012
 list_count: 10
 top_cards:
+- name: Thundertrap Trainer
+  weight: 1.0
+  avg_copies: 4.0
 - name: Flooded Strand
+  weight: 1.0
+  avg_copies: 4.0
+- name: Mystical Dispute
+  weight: 1.0
+  avg_copies: 4.0
+- name: Orim's Chant
   weight: 1.0
   avg_copies: 4.0
 - name: Narset, Parter of Veils
   weight: 1.0
   avg_copies: 4.0
 - name: Teferi, Time Raveler
-  weight: 1.0
-  avg_copies: 4.0
-- name: Thundertrap Trainer
-  weight: 1.0
-  avg_copies: 4.0
-- name: Orim's Chant
-  weight: 1.0
-  avg_copies: 4.0
-- name: Mystical Dispute
   weight: 1.0
   avg_copies: 4.0
 - name: Consign to Memory
@@ -45,10 +45,10 @@ top_cards:
 - name: High Noon
   weight: 1.0
   avg_copies: 2.2
-- name: Plains
+- name: Day's Undoing
   weight: 1.0
   avg_copies: 2.0
-- name: Day's Undoing
+- name: Plains
   weight: 1.0
   avg_copies: 2.0
 - name: Island
@@ -57,10 +57,10 @@ top_cards:
 - name: Hallowed Fountain
   weight: 1.0
   avg_copies: 1.9
-- name: Meticulous Archive
+- name: Sacred Foundry
   weight: 1.0
   avg_copies: 1.0
-- name: Sacred Foundry
+- name: Meticulous Archive
   weight: 1.0
   avg_copies: 1.0
 - name: Steam Vents
@@ -99,34 +99,34 @@ top_cards:
 - name: Grafdigger's Cage
   weight: 0.2
   avg_copies: 2.0
-- name: Erode
-  weight: 0.2
-  avg_copies: 1.5
 - name: Spell Snare
   weight: 0.2
   avg_copies: 1.5
-- name: Geier Reach Sanitarium
+- name: Erode
   weight: 0.2
-  avg_copies: 1.0
+  avg_copies: 1.5
 - name: Isochron Scepter
-  weight: 0.2
-  avg_copies: 1.0
-- name: Elegant Parlor
-  weight: 0.2
-  avg_copies: 1.0
-- name: Thundering Falls
   weight: 0.2
   avg_copies: 1.0
 - name: Monumental Henge
   weight: 0.2
   avg_copies: 1.0
+- name: Geier Reach Sanitarium
+  weight: 0.2
+  avg_copies: 1.0
+- name: Thundering Falls
+  weight: 0.2
+  avg_copies: 1.0
+- name: Elegant Parlor
+  weight: 0.2
+  avg_copies: 1.0
 - name: Brought Back
   weight: 0.1
   avg_copies: 2.0
-- name: Hall of Storm Giants
+- name: Mystic Gate
   weight: 0.1
   avg_copies: 1.0
-- name: Mystic Gate
+- name: Hall of Storm Giants
   weight: 0.1
   avg_copies: 1.0
 ---

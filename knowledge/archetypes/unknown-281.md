@@ -6,22 +6,22 @@ name: 'Unknown #281'
 meta_share: 0.0004
 list_count: 3
 top_cards:
-- name: Ornithopter
+- name: Pinnacle Emissary
   weight: 1.0
   avg_copies: 4.0
 - name: Urza's Saga
   weight: 1.0
   avg_copies: 4.0
-- name: Pinnacle Emissary
-  weight: 1.0
-  avg_copies: 4.0
 - name: Mishra's Bauble
   weight: 1.0
   avg_copies: 4.0
-- name: Memnite
+- name: Ornithopter
+  weight: 1.0
+  avg_copies: 4.0
+- name: Kappa Cannoneer
   weight: 1.0
   avg_copies: 3.67
-- name: Kappa Cannoneer
+- name: Memnite
   weight: 1.0
   avg_copies: 3.67
 - name: Mox Opal
@@ -33,16 +33,16 @@ top_cards:
 - name: Tormod's Crypt
   weight: 1.0
   avg_copies: 3.0
-- name: Tamiyo, Inquisitive Student
+- name: Cranial Plating
+  weight: 1.0
+  avg_copies: 3.0
+- name: card:basim-ibn-ishaq
   weight: 1.0
   avg_copies: 3.0
 - name: Metallic Rebuke
   weight: 1.0
   avg_copies: 3.0
-- name: Cranial Plating
-  weight: 1.0
-  avg_copies: 3.0
-- name: card:basim-ibn-ishaq
+- name: Tamiyo, Inquisitive Student
   weight: 1.0
   avg_copies: 3.0
 - name: Springleaf Drum
@@ -63,13 +63,13 @@ top_cards:
 - name: Krang, Master Mind
   weight: 1.0
   avg_copies: 1.33
+- name: Shadowspear
+  weight: 1.0
+  avg_copies: 1.0
 - name: Skateboard
   weight: 1.0
   avg_copies: 1.0
 - name: Pithing Needle
-  weight: 1.0
-  avg_copies: 1.0
-- name: Shadowspear
   weight: 1.0
   avg_copies: 1.0
 - name: Thoughtseize
@@ -78,34 +78,34 @@ top_cards:
 - name: Fatal Push
   weight: 0.6667
   avg_copies: 2.0
-- name: Misty Rainforest
-  weight: 0.6667
-  avg_copies: 2.0
 - name: Whipflare
   weight: 0.6667
   avg_copies: 2.0
-- name: Undercity Sewers
+- name: Misty Rainforest
+  weight: 0.6667
+  avg_copies: 2.0
+- name: Otawara, Soaring City
   weight: 0.6667
   avg_copies: 1.0
-- name: Grafdigger's Cage
+- name: Undercity Sewers
   weight: 0.6667
   avg_copies: 1.0
 - name: Watery Grave
   weight: 0.6667
   avg_copies: 1.0
-- name: Otawara, Soaring City
-  weight: 0.6667
-  avg_copies: 1.0
 - name: Steam Vents
   weight: 0.6667
   avg_copies: 1.0
+- name: Grafdigger's Cage
+  weight: 0.6667
+  avg_copies: 1.0
+- name: Engineered Explosives
+  weight: 0.3333
+  avg_copies: 3.0
 - name: Damping Sphere
   weight: 0.3333
   avg_copies: 3.0
 - name: card:underground-river
-  weight: 0.3333
-  avg_copies: 3.0
-- name: Engineered Explosives
   weight: 0.3333
   avg_copies: 3.0
 - name: Force of Negation
@@ -114,10 +114,10 @@ top_cards:
 - name: Sink into Stupor
   weight: 0.3333
   avg_copies: 2.0
-- name: Glimmervoid
+- name: Emry, Lurker of the Loch
   weight: 0.3333
   avg_copies: 1.0
-- name: Emry, Lurker of the Loch
+- name: Glimmervoid
   weight: 0.3333
   avg_copies: 1.0
 ---

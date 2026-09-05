@@ -11,13 +11,13 @@ type: Instant
 meta_presence: 0.0155
 archetypes:
   ruby-storm:
-    weight: 0.0182
+    weight: 0.0179
     avg_copies: 1.5
   dimir-control:
     weight: 0.0247
     avg_copies: 3.5
   jeskai-control:
-    weight: 0.0685
+    weight: 0.0658
     avg_copies: 4.0
   kethis-combo:
     weight: 0.125
@@ -41,8 +41,8 @@ archetypes:
     weight: 0.5
     avg_copies: 1.5
   unknown-6:
-    weight: 0.75
-    avg_copies: 1.2
+    weight: 0.7619
+    avg_copies: 1.25
   unknown-10:
     weight: 1.0
     avg_copies: 1.25

@@ -12,7 +12,7 @@ archetypes:
     weight: 0.0034
     avg_copies: 1.0
   burn:
-    weight: 0.0233
+    weight: 0.0222
     avg_copies: 1.0
   eldrazi-ramp:
     weight: 0.0282
@@ -36,7 +36,7 @@ archetypes:
     weight: 0.1818
     avg_copies: 1.0
   unknown-47:
-    weight: 0.0053
+    weight: 0.0052
     avg_copies: 2.0
   unknown-143:
     weight: 1.0
